@@ -46,7 +46,12 @@ I andre fylker enn etter annet ledd, kan det gjeldende nivået for rabatter i bo
 
 ## § 5. Rapportering
 
-Vegdirektoratet skal minst 6 måneder før bompengeinnkrevingen starter rapportere til EFTAs overvåkningsorgan ESA følgende:enhetsverdier og andre parametre som anvendes ved beregning av omkostningselementer,opplysninger om hvilke kjøretøy som omfattes av innkrevingen, den geografiske utstrekning av innkrevingen og hvor stor del av omkostningene som dekkes av bompengeinnkrevingen,opplysninger om bompengeinnkreving på parallellstrekninger som trafikken kan ledes over på, herunder en redegjørelse for den geografiske utstrekningen av innkrevingen, hvilke kjøretøy som omfattes av ordningen, planlagte takster og hvordan disse er fastsatt, ograbatter ved den aktuelle bompengeordning.
+Vegdirektoratet skal minst 6 måneder før bompengeinnkrevingen starter rapportere til EFTAs overvåkningsorgan ESA følgende:
+
+1. enhetsverdier og andre parametre som anvendes ved beregning av omkostningselementer,
+2. opplysninger om hvilke kjøretøy som omfattes av innkrevingen, den geografiske utstrekning av innkrevingen og hvor stor del av omkostningene som dekkes av bompengeinnkrevingen,
+3. opplysninger om bompengeinnkreving på parallellstrekninger som trafikken kan ledes over på, herunder en redegjørelse for den geografiske utstrekningen av innkrevingen, hvilke kjøretøy som omfattes av ordningen, planlagte takster og hvordan disse er fastsatt, og
+4. rabatter ved den aktuelle bompengeordning.
 
 ## § 6. Ikrafttredelse
 

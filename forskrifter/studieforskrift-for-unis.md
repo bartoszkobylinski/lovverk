@@ -15,7 +15,7 @@ xml_hash: "f807b9f488f993b4126097c223759d93164c3f8d81a9a4af848bb01e87984ad5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -131,13 +131,41 @@ Opptak ved UNIS er blant annet basert på tildeling av kvoter gjennom den til en
 
 UNIS er pålagt å ha en balanse mellom norske og internasjonale studenter. Kvalifiserte søkere deles i to grupper: a) norske statsborgere og/eller studenter tatt opp til et studieprogram ved en akkreditert norsk høyere utdanningsinstitusjon, b) internasjonale studenter tatt opp til et studieprogram ved en akkreditert internasjonal høyere utdanningsinstitusjon.
 
-Kvalifiserte søkere til bacheloremner rangeres i følgende rekkefølge:For bacheloremner med ett semesters varighet vil søkere på emner som kan kombineres, og som til sammen gir 30 studiepoeng innen en fagavdeling, bli prioritert.Søkere med kvoteplass, jf. [§ 12](forskrift/2019-09-27-1441/§12).Emnespesifikke prioriteringer, dersom spesifisert i emnebeskrivelsen.Gjennomsnittskarakteren for emnene som utgjør opptaksgrunnlaget for det aktuelle emnet. Dersom flere emner kan utgjøre opptaksgrunnlaget benyttes de emnene som gir best utfall for søkeren som grunnlag for beregning av gjennomsnittskarakteren. For utregning av gjennomsnittskarakteren blir karakterene konvertert på følgende måte:Hver bokstavkarakter erstattes av en tallekvivalent, A=5, B=4, C=3, D=2, E=1, F=0.Karakteren «bestått» erstattes av tallekvivalenten 3,5.Tallekvivalenten multipliseres med emnets studiepoeng, og de enkelte produktene av studiepoeng og tallekvivalent summeres for de emner som inngår.Produktsummen divideres med totalt antall studiepoeng som inngår i samlingen av aktuelle emner.Kvotienten regnes ut med én desimal.Ved lik rangering blant internasjonale søkere (kategori b) vil prioritet bli gitt til søkere som har en avtale med ett av de norske samarbeidsuniversitetene, eller søkere som kommer fra internasjonale universiteter som UNIS har en samarbeidsavtale med.Ved lik rangering etter rangeringen ovenfor vil prioritet bli gitt til søker med flest studiepoeng totalt.Ved fortsatt lik rangering vil endelig rangering bli avgjort ved loddtrekning.
+Kvalifiserte søkere til bacheloremner rangeres i følgende rekkefølge:
+
+1. For bacheloremner med ett semesters varighet vil søkere på emner som kan kombineres, og som til sammen gir 30 studiepoeng innen en fagavdeling, bli prioritert.
+2. Søkere med kvoteplass, jf. [§ 12](forskrift/2019-09-27-1441/§12).
+3. Emnespesifikke prioriteringer, dersom spesifisert i emnebeskrivelsen.
+4. Gjennomsnittskarakteren for emnene som utgjør opptaksgrunnlaget for det aktuelle emnet. Dersom flere emner kan utgjøre opptaksgrunnlaget benyttes de emnene som gir best utfall for søkeren som grunnlag for beregning av gjennomsnittskarakteren. For utregning av gjennomsnittskarakteren blir karakterene konvertert på følgende måte:
+
+   1. Hver bokstavkarakter erstattes av en tallekvivalent, A=5, B=4, C=3, D=2, E=1, F=0.
+   2. Karakteren «bestått» erstattes av tallekvivalenten 3,5.
+   3. Tallekvivalenten multipliseres med emnets studiepoeng, og de enkelte produktene av studiepoeng og tallekvivalent summeres for de emner som inngår.
+   4. Produktsummen divideres med totalt antall studiepoeng som inngår i samlingen av aktuelle emner.
+   5. Kvotienten regnes ut med én desimal.
+5. Ved lik rangering blant internasjonale søkere (kategori b) vil prioritet bli gitt til søkere som har en avtale med ett av de norske samarbeidsuniversitetene, eller søkere som kommer fra internasjonale universiteter som UNIS har en samarbeidsavtale med.
+6. Ved lik rangering etter rangeringen ovenfor vil prioritet bli gitt til søker med flest studiepoeng totalt.
+7. Ved fortsatt lik rangering vil endelig rangering bli avgjort ved loddtrekning.
 
 ### § 14. Rangering av kvalifiserte søkere til master- og ph.d.-emner
 
 UNIS er pålagt å ha en balanse mellom norske og internasjonale studenter. Kvalifiserte søkere deles i to grupper: a) norske statsborgere og/eller studenter tatt opp til et studieprogram ved en akkreditert norsk høyere utdanningsinstitusjon, b) internasjonale studenter tatt opp til et studieprogram ved en godkjent internasjonal høyere utdanningsinstitusjon.
 
-Kvalifiserte søkere til master- og ph.d.-emner rangeres i følgende rekkefølge:For masteremner vil søkere på emner som kan kombineres, og som til sammen gir 30 studiepoeng innen en fagavdeling, bli prioritert.Søkere med kvoteplass, jf. [§ 12](forskrift/2019-09-27-1441/§12).Emnespesifikke prioriteringer, dersom spesifisert i emnebeskrivelsen.Gjennomsnittskarakteren fra de 90 studiepoengene med best karakter, dersom ikke annet er spesifisert i emnebeskrivelsen. For utregning av gjennomsnittskarakteren blir karakterene konvertert på følgende måte:Hver bokstavkarakter erstattes av en tallekvivalent, A=5, B=4, C=3, D=2, E=1, F=0.Karakteren «bestått» erstattes av tallekvivalenten 3,5.Tallekvivalenten multipliseres med emnets studiepoeng, og de enkelte produktene av studiepoeng og tallekvivalent summeres for de emner som inngår.Produktsummen divideres med totalt antall studiepoeng som inngår i samlingen av aktuelle emner.Kvotienten regnes ut med én desimal.Ved lik rangering blant internasjonale søkere (kategori b) vil prioritet bli gitt til søkere som har en avtale med ett av de norske samarbeidsuniversitetene, eller søkere som kommer fra internasjonale universiteter som UNIS har en samarbeidsavtale med.Ved lik rangering etter rangeringen ovenfor vil prioritet bli gitt til søker med flest studiepoeng totalt.Ved fortsatt lik rangering vil endelig rangering bli avgjort ved loddtrekning.
+Kvalifiserte søkere til master- og ph.d.-emner rangeres i følgende rekkefølge:
+
+1. For masteremner vil søkere på emner som kan kombineres, og som til sammen gir 30 studiepoeng innen en fagavdeling, bli prioritert.
+2. Søkere med kvoteplass, jf. [§ 12](forskrift/2019-09-27-1441/§12).
+3. Emnespesifikke prioriteringer, dersom spesifisert i emnebeskrivelsen.
+4. Gjennomsnittskarakteren fra de 90 studiepoengene med best karakter, dersom ikke annet er spesifisert i emnebeskrivelsen. For utregning av gjennomsnittskarakteren blir karakterene konvertert på følgende måte:
+
+   1. Hver bokstavkarakter erstattes av en tallekvivalent, A=5, B=4, C=3, D=2, E=1, F=0.
+   2. Karakteren «bestått» erstattes av tallekvivalenten 3,5.
+   3. Tallekvivalenten multipliseres med emnets studiepoeng, og de enkelte produktene av studiepoeng og tallekvivalent summeres for de emner som inngår.
+   4. Produktsummen divideres med totalt antall studiepoeng som inngår i samlingen av aktuelle emner.
+   5. Kvotienten regnes ut med én desimal.
+5. Ved lik rangering blant internasjonale søkere (kategori b) vil prioritet bli gitt til søkere som har en avtale med ett av de norske samarbeidsuniversitetene, eller søkere som kommer fra internasjonale universiteter som UNIS har en samarbeidsavtale med.
+6. Ved lik rangering etter rangeringen ovenfor vil prioritet bli gitt til søker med flest studiepoeng totalt.
+7. Ved fortsatt lik rangering vil endelig rangering bli avgjort ved loddtrekning.
 
 > Endret ved forskrift [13 des 2022 nr. 2653](forskrift/2022-12-13-2653).
 
@@ -152,7 +180,11 @@ Hvis det ikke er nok kvalifiserte søkere til å fylle et emne kan UNIS forlenge
 
 ### § 16. Dispensasjon fra søknadsfristen
 
-Leder for studieavdelingen kan gjøre unntak fra søknadsfristen i følgende tilfeller:Sykdom på dato for søknadsfristenDødsfall i nærmeste familie i forkant av søknadsfristenAndre særskilte omstendigheter.
+Leder for studieavdelingen kan gjøre unntak fra søknadsfristen i følgende tilfeller:
+
+- Sykdom på dato for søknadsfristen
+- Dødsfall i nærmeste familie i forkant av søknadsfristen
+- Andre særskilte omstendigheter.
 
 Dokumentasjon for forholdene nevnt over i form av legeattest eller annet må sendes studieavdelingen senest en uke etter søknadsfristens utløp. Er det ikke mulig å fremskaffe dokumentasjonen senest en uke etter søknadsfristen, må studenten gi studieavdelingen beskjed om dette innen fristens utløp.
 
@@ -178,9 +210,14 @@ Klagen skal sendes til UNIS ved studieavdelingen. Dersom UNIS opprettholder sitt
 
 ### § 20. Rett til å avlegge eksamen
 
-Studenter som oppfyller følgende krav har rett til å avlegge eksamen:er tatt opp til gjeldende emne og har betalt semesteravgift, elleroppfyller kravene til opptak og andre krav for å gå opp til eksamen i gjeldende emne.
+Studenter som oppfyller følgende krav har rett til å avlegge eksamen:
 
-I tillegg må studenten ha:deltatt i, og fått godkjent, eventuell obligatorisk aktivitet i samsvar med emnebeskrivelsen.
+1. er tatt opp til gjeldende emne og har betalt semesteravgift, eller
+2. oppfyller kravene til opptak og andre krav for å gå opp til eksamen i gjeldende emne.
+
+I tillegg må studenten ha:
+
+1. deltatt i, og fått godkjent, eventuell obligatorisk aktivitet i samsvar med emnebeskrivelsen.
 
 Antall eksamensforsøk etter kravene i [§ 39](forskrift/2019-09-27-1441/§39) gjelder også for studenter som avlegger eksamen og som ikke er tatt opp til gjeldende emne.
 
@@ -188,7 +225,18 @@ Antall eksamensforsøk etter kravene i [§ 39](forskrift/2019-09-27-1441/§39) g
 
 ### § 21. Vurderingsformer
 
-Ved UNIS kan følgende vurderingsformer benyttes hver for seg eller i kombinasjon med hverandre:Skriftlig eksamen med tilsynMuntlig eksamenHjemmeeksamenRapporter fra feltarbeid, laboratoriearbeid e.l.PosterIndividuelle muntlige presentasjonerMuntlige presentasjoner i gruppeIndividuelle skriftlige oppgaverSkriftlige oppgaver i gruppePraktisk prøve.
+Ved UNIS kan følgende vurderingsformer benyttes hver for seg eller i kombinasjon med hverandre:
+
+- Skriftlig eksamen med tilsyn
+- Muntlig eksamen
+- Hjemmeeksamen
+- Rapporter fra feltarbeid, laboratoriearbeid e.l.
+- Poster
+- Individuelle muntlige presentasjoner
+- Muntlige presentasjoner i gruppe
+- Individuelle skriftlige oppgaver
+- Skriftlige oppgaver i gruppe
+- Praktisk prøve.
 
 Andre vurderingsformer kan også benyttes hvis dette er faglig begrunnet. Vurderingsformen skal være fastsatt i emnebeskrivelsen.
 
@@ -202,7 +250,10 @@ Studentene må bruke sine egne bærbare datamaskiner under eksamen. Nødvendig p
 
 Et emne skal normalt fullføres det semesteret studenten følger undervisning.
 
-Fristen for å trekke seg før eksamen er 10 virkedager i forkant av den tidligste avdato for avsluttende eksamen, ellerinnleveringsdato for første deleksamen.
+Fristen for å trekke seg før eksamen er 10 virkedager i forkant av den tidligste av
+
+1. dato for avsluttende eksamen, eller
+2. innleveringsdato for første deleksamen.
 
 Dette regnes ikke som et eksamensforsøk. Hvis en student ikke har møtt til eksamen uten å ha trukket seg innen trekkfristens utløp skal dette registreres som ikke møtt. Dette regnes som et eksamensforsøk i henhold til [§ 39](forskrift/2019-09-27-1441/§39).
 
@@ -236,7 +287,19 @@ Det skal fremgå av emnebeskrivelsen hvilke hjelpemidler som er tillatt brukt un
 
 ### § 27. Karaktersystem
 
-Følgende karaktersystem skal benyttes:bestått/ikke bestått, elleren gradert skala med 5 trinn fra A til E for bestått og F for ikke bestått. Bokstavkaraktertrinnene gis følgende betegnelse og generell, kvalitativ beskrivelse:*Symbol**Betegnelse**Generell, kvalitativ beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet.
+Følgende karaktersystem skal benyttes:
+
+1. bestått/ikke bestått, eller
+2. en gradert skala med 5 trinn fra A til E for bestått og F for ikke bestått. Bokstavkaraktertrinnene gis følgende betegnelse og generell, kvalitativ beskrivelse:
+
+   | *Symbol* | *Betegnelse* | *Generell, kvalitativ beskrivelse av vurderingskriterier* |
+   | --- | --- | --- |
+   | A | Fremragende | Fremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+   | B | Meget god | Meget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet. |
+   | C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+   | D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+   | E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet. |
+   | F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet. |
 
 Når bestått/ikke bestått benyttes, skal dette være et selvstendig karaktersystem uten sammenheng med den graderte karakterskalaen.
 
@@ -246,7 +309,12 @@ Når bestått/ikke bestått benyttes, skal dette være et selvstendig karaktersy
 
 Utregningen av samlet karakter i et emne skjer etter den forhåndsfastsatte vekten for hver eksamensdel/vurderingsform. Vekten skal angis i emnebeskrivelsen som en brøk eller prosentandel av den samlede karakteren.
 
-Samlet karakter regnes ut slik:Hver bokstavkarakter erstattes av en tallekvivalent, slik at A=5; B=4; C=3; D=2; E=1.For hver vurderingsform multipliseres tallekvivalenten med den vekten vedkommende vurderingsform skal ha i henhold til emnebeskrivelsen, og alle produktene summeres.Produktsummen settes opp eller ned til nærmeste hele tall, etter at vanlige avrundingsregler er brukt.Samlet karakter angis med det bokstavsymbolet som svarer til det tallet som kommer fram.
+Samlet karakter regnes ut slik:
+
+- Hver bokstavkarakter erstattes av en tallekvivalent, slik at A=5; B=4; C=3; D=2; E=1.
+- For hver vurderingsform multipliseres tallekvivalenten med den vekten vedkommende vurderingsform skal ha i henhold til emnebeskrivelsen, og alle produktene summeres.
+- Produktsummen settes opp eller ned til nærmeste hele tall, etter at vanlige avrundingsregler er brukt.
+- Samlet karakter angis med det bokstavsymbolet som svarer til det tallet som kommer fram.
 
 > Endret ved forskrift [26 aug 2025 nr. 1746](forskrift/2025-08-26-1746) (tidligere § 27).
 
@@ -370,7 +438,14 @@ Klagenemnda ved UiT – Norges arktiske universitet kan fatte vedtak om annuller
 
 ### § 41. Fusk
 
-Som fusk eller forsøk på fusk ved eksamen eller prøve regnes blant annet:å ha ulovlige hjelpemidler tilgjengelig under eksamenå presentere andres arbeid som sitt egetå sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisningerå levere en eksamensbesvarelse som tidligere er levert som eksamensbesvarelse ved UNIS eller andre institusjoner for høyere utdanningureglementert samarbeid mellom eksamenskandidater eller grupperå handle i strid med eksamensreglementet eller på annen urettmessig måte som kan gi fordeler ved eksamen.
+Som fusk eller forsøk på fusk ved eksamen eller prøve regnes blant annet:
+
+1. å ha ulovlige hjelpemidler tilgjengelig under eksamen
+2. å presentere andres arbeid som sitt eget
+3. å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger
+4. å levere en eksamensbesvarelse som tidligere er levert som eksamensbesvarelse ved UNIS eller andre institusjoner for høyere utdanning
+5. ureglementert samarbeid mellom eksamenskandidater eller grupper
+6. å handle i strid med eksamensreglementet eller på annen urettmessig måte som kan gi fordeler ved eksamen.
 
 Fusk eller forsøk på fusk ved obligatoriske arbeidskrav der det inngår et element av vurdering fra universitetssenterets side, følger samme bestemmelser som fusk ved eksamen.
 
@@ -414,7 +489,14 @@ Klagefristen er tre uker fra kunngjøring av karakteren. Er krav om begrunnelse 
 
 ### § 44. Hva som regnes som et eksamensforsøk
 
-Følgende regnes som et eksamensforsøk:Studenten har bestått eksamen.Studenten har ikke bestått eksamen.Studenten trekker seg etter fastsatt frist, jf. [§ 23](forskrift/2019-09-27-1441/§23), eller trekker seg under eksamen.Studenten leverer ikke eksamen innen oppgitt frist.Studenten møter ikke til eksamen.Studenten får annullert eksamen på grunn av fusk eller forsøk på fusk.
+Følgende regnes som et eksamensforsøk:
+
+1. Studenten har bestått eksamen.
+2. Studenten har ikke bestått eksamen.
+3. Studenten trekker seg etter fastsatt frist, jf. [§ 23](forskrift/2019-09-27-1441/§23), eller trekker seg under eksamen.
+4. Studenten leverer ikke eksamen innen oppgitt frist.
+5. Studenten møter ikke til eksamen.
+6. Studenten får annullert eksamen på grunn av fusk eller forsøk på fusk.
 
 > Tilføyd ved forskrift [26 aug 2025 nr. 1746](forskrift/2025-08-26-1746).
 

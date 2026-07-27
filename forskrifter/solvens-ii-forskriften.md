@@ -15,7 +15,7 @@ xml_hash: "1da156cdbaebd8f1c20a4322645d9b249ee2933c0c2af9c44830b6335011dbb2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,10 @@ eu_basis: []
 
 ### § 6. Inndeling av foretakets ansvarlige kapital
 
-(1) Forsikringsforetakets ansvarlige kapital skal inndeles i tre kapitalgrupper etter følgende kriterier:Kapitalen kan benyttes til eller innbetales etter påkrav for å dekke ethvert tap til enhver tid.Kapitalen kan ved avvikling benyttes til å dekke tap og skal ikke tilbakebetales før alle andre krav er dekket, herunder krav som følger av forsikrings- og gjenforsikringsavtaler.
+(1) Forsikringsforetakets ansvarlige kapital skal inndeles i tre kapitalgrupper etter følgende kriterier:
+
+1. Kapitalen kan benyttes til eller innbetales etter påkrav for å dekke ethvert tap til enhver tid.
+2. Kapitalen kan ved avvikling benyttes til å dekke tap og skal ikke tilbakebetales før alle andre krav er dekket, herunder krav som følger av forsikrings- og gjenforsikringsavtaler.
 
 (2) Ved inndelingen skal det tas hensyn til varighet og løpetid, vilkår om og insentiver til tilbakekjøp, og påheftede kostnader og rettigheter.
 
@@ -76,7 +79,12 @@ eu_basis: []
 
 ### § 8. Standardmetode for beregning av solvenskapitalkravet
 
-(1) Solvenskapitalkravet etter standardmetoden skal utgjøre summen avkapitalkravene for skadeforsikringsrisiko, livsforsikringsrisiko, helseforsikringsrisiko, markedsrisiko og motpartsrisiko,kapitalkravet for risikoen knyttet til immaterielle eiendeler,kapitalkravet for operasjonell risiko ogjusteringen for den tapsabsorberende evnen til forsikringstekniske avsetninger, herunder fremtidig overskuddstildeling, og utsatt skatt.
+(1) Solvenskapitalkravet etter standardmetoden skal utgjøre summen av
+
+1. kapitalkravene for skadeforsikringsrisiko, livsforsikringsrisiko, helseforsikringsrisiko, markedsrisiko og motpartsrisiko,
+2. kapitalkravet for risikoen knyttet til immaterielle eiendeler,
+3. kapitalkravet for operasjonell risiko og
+4. justeringen for den tapsabsorberende evnen til forsikringstekniske avsetninger, herunder fremtidig overskuddstildeling, og utsatt skatt.
 
 (2) Kapitalkravene som nevnt i første ledd bokstav a skal summeres ved å anvende korrelasjonsmatrisen i vedlegg 1 til forskriften.
 
@@ -100,7 +108,11 @@ eu_basis: []
 
 ### § 11. Tilleggskrav for bruk av en partiell intern modell
 
-(1) Tillatelse til bruk av intern modell for å beregne deler av solvenskapitalkravet (partiell intern modell) forutsetter at forsikringsforetaketbegrunner det begrensede anvendelsesområde for den interne modellen,godtgjør at solvenskapitalkravet som følger av den interne modellen reflekterer foretakets risikoprofil og prinsippene i [finansforetaksloven § 14-10](lov/2015-04-10-17/§14-10) på en bedre måte enn standardmetoden, oggodtgjør at den interne modellen er utformet slik at den kan kombineres med standardmetoden for beregning av det samlede solvenskapitalkravet.
+(1) Tillatelse til bruk av intern modell for å beregne deler av solvenskapitalkravet (partiell intern modell) forutsetter at forsikringsforetaket
+
+1. begrunner det begrensede anvendelsesområde for den interne modellen,
+2. godtgjør at solvenskapitalkravet som følger av den interne modellen reflekterer foretakets risikoprofil og prinsippene i [finansforetaksloven § 14-10](lov/2015-04-10-17/§14-10) på en bedre måte enn standardmetoden, og
+3. godtgjør at den interne modellen er utformet slik at den kan kombineres med standardmetoden for beregning av det samlede solvenskapitalkravet.
 
 (2) Finanstilsynet kan kreve at en intern modell som bare omfatter visse undermoduler av en bestemt risikomodul eller enkelte forretningsområder, utvides slik at modellen dekker den overveiende del av den aktuelle risikomodulen.
 
@@ -126,7 +138,15 @@ eu_basis: []
 
 ### § 16. Utformingen av en intern modell
 
-(1) En intern modell skal utformes slik at den tilfredsstiller følgende krav:Modellen skal baseres på hensiktsmessige forsikringstekniske og statistiske metoder, realistiske forutsetninger og pålitelige data og annen informasjon.Dataene skal oppdateres minst årlig.Modellen skal dekke alle relevante risikoer slik at den kan anvendes i samsvar med [§ 15](forskrift/2015-08-25-999/§15).Modellen skal reflektere risikoer knyttet til vesentlige finansielle garantier og avtalefestede opsjoner samt ta hensyn til forventede utbetalinger til forsikringstakere og andre forsikrede.Modellen kan hensynta diversifiseringseffekter hvis de er målt på en tilfredsstillende måte.Ved bruk av risikoreduserende teknikker skal modellen gjenspeile kredittrisiko og andre risikoer på en hensiktsmessig måte.Modellen kan bare ta hensyn til handlingsregler fastsatt av foretakets ledelse (fremtidige ledelseshandlinger) hvis det er sannsynlig at de blir iverksatt og modellen tar høyde for tiden det tar å gjennomføre handlingene.
+(1) En intern modell skal utformes slik at den tilfredsstiller følgende krav:
+
+1. Modellen skal baseres på hensiktsmessige forsikringstekniske og statistiske metoder, realistiske forutsetninger og pålitelige data og annen informasjon.
+2. Dataene skal oppdateres minst årlig.
+3. Modellen skal dekke alle relevante risikoer slik at den kan anvendes i samsvar med [§ 15](forskrift/2015-08-25-999/§15).
+4. Modellen skal reflektere risikoer knyttet til vesentlige finansielle garantier og avtalefestede opsjoner samt ta hensyn til forventede utbetalinger til forsikringstakere og andre forsikrede.
+5. Modellen kan hensynta diversifiseringseffekter hvis de er målt på en tilfredsstillende måte.
+6. Ved bruk av risikoreduserende teknikker skal modellen gjenspeile kredittrisiko og andre risikoer på en hensiktsmessig måte.
+7. Modellen kan bare ta hensyn til handlingsregler fastsatt av foretakets ledelse (fremtidige ledelseshandlinger) hvis det er sannsynlig at de blir iverksatt og modellen tar høyde for tiden det tar å gjennomføre handlingene.
 
 ### § 17. Kalibrering av en intern modell
 
@@ -170,7 +190,11 @@ eu_basis: []
 
 ### § 22a. Minstekrav til startkapital og minstekapitalkrav
 
-Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finansforetaksloven § 3-4](lov/2015-04-10-17/§3-4) tredje ledd som minst svarer tilfor livsforsikringsforetak 4 millioner eurofor andre forsikringsforetak 2,7 millioner euro, men 4 millioner euro hvis foretaket har overtatt ansvarsforsikringer knyttet til motorvogn, luftfartøy eller skip eller andre ansvarsforsikringer, eller kreditt- eller garantiforsikringerfor gjenforsikringsforetak 3,9 millioner euro, men 1,3 millioner euro for gjenforsikringsforetak som etter sine vedtekter bare kan overta gjenforsikringer for en bestemt krets av forsikringstakere.
+Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finansforetaksloven § 3-4](lov/2015-04-10-17/§3-4) tredje ledd som minst svarer til
+
+1. for livsforsikringsforetak 4 millioner euro
+2. for andre forsikringsforetak 2,7 millioner euro, men 4 millioner euro hvis foretaket har overtatt ansvarsforsikringer knyttet til motorvogn, luftfartøy eller skip eller andre ansvarsforsikringer, eller kreditt- eller garantiforsikringer
+3. for gjenforsikringsforetak 3,9 millioner euro, men 1,3 millioner euro for gjenforsikringsforetak som etter sine vedtekter bare kan overta gjenforsikringer for en bestemt krets av forsikringstakere.
 
 > Tilføyd ved forskrift [17 okt 2022 nr. 1752](forskrift/2022-10-17-1752) (i kraft 19 okt 2022).
 
@@ -186,11 +210,23 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 (1) Forsikringsforetakets system for risikostyring etter [finansforetaksloven § 13-5](lov/2015-04-10-17/§13-5) første ledd skal omfatte de risikoer som inngår i beregningen av solvenskapitalkravet, samt eventuelle andre relevante risikoer.
 
-(2) Systemet for risikostyring skal minst omfattetegning av forsikringer,fastsettelse av forsikringstekniske avsetninger,balansestyring,investeringer, herunder derivater og tilsvarende (bindende) avtaler,styring av likviditets- og konsentrasjonsrisiko,styring av operasjonell risiko oggjenforsikring og andre risikoreduserende teknikker.
+(2) Systemet for risikostyring skal minst omfatte
+
+1. tegning av forsikringer,
+2. fastsettelse av forsikringstekniske avsetninger,
+3. balansestyring,
+4. investeringer, herunder derivater og tilsvarende (bindende) avtaler,
+5. styring av likviditets- og konsentrasjonsrisiko,
+6. styring av operasjonell risiko og
+7. gjenforsikring og andre risikoreduserende teknikker.
 
 ### § 25. Risikostyring ved bruk av justeringer i rentekurven
 
-(1) Forsikringsforetaket skal vurdere hvor sensitive de forsikringstekniske avsetningene og den tellende ansvarlige kapitalen er for valget av forutsetningene som ligger til grunn forekstrapoleringen av rentekurven,volatilitetsjusteringen ogmatching-justeringen, herunder endringer i sammensetningen av den tilordnede porteføljen av eiendeler.
+(1) Forsikringsforetaket skal vurdere hvor sensitive de forsikringstekniske avsetningene og den tellende ansvarlige kapitalen er for valget av forutsetningene som ligger til grunn for
+
+1. ekstrapoleringen av rentekurven,
+2. volatilitetsjusteringen og
+3. matching-justeringen, herunder endringer i sammensetningen av den tilordnede porteføljen av eiendeler.
 
 (2) I tilfeller som nevnt i første ledd bokstav b og c skal foretaket også vurdere mulige virkninger av førtidig salg av eiendeler.
 
@@ -208,13 +244,29 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 ### § 27. Risikostyringsfunksjonen
 
-(1) Hvis forsikringsforetaket benytter en intern modell for beregning av kapitalkravet, skal den uavhengige kontrollfunksjonen med ansvar for risikostyring (risikostyringsfunksjonen) ha ansvar forutforming og bruk av modellen,uavhengig testing og etterprøving av modellen,dokumentasjon av modellen og av eventuelle påfølgende endringer av denne,analyser av modellen og utarbeidelse av resultatrapportering, ograpportering til styret og ledelsen om modellens funksjon, forslag til forbedringer og om status for eventuelle utbedringer.
+(1) Hvis forsikringsforetaket benytter en intern modell for beregning av kapitalkravet, skal den uavhengige kontrollfunksjonen med ansvar for risikostyring (risikostyringsfunksjonen) ha ansvar for
+
+1. utforming og bruk av modellen,
+2. uavhengig testing og etterprøving av modellen,
+3. dokumentasjon av modellen og av eventuelle påfølgende endringer av denne,
+4. analyser av modellen og utarbeidelse av resultatrapportering, og
+5. rapportering til styret og ledelsen om modellens funksjon, forslag til forbedringer og om status for eventuelle utbedringer.
 
 ### § 28. Aktuarfunksjonen
 
 (1) Den uavhengige kontrollfunksjonen med ansvar for aktuarfaglige oppgaver (aktuarfunksjonen) skal utføres av personer som har kunnskap om forsikringsteknisk og finansiell matematikk på et nivå som står i forhold til arten, omfanget og kompleksiteten av risikoene i virksomheten og som kan godtgjøre at de har relevant erfaring med gjeldende faglige standarder.
 
-(2) Aktuarfunksjonen skalsamordne beregningen av forsikringstekniske avsetninger,sikre at metoder, modeller og forutsetninger i beregningen av forsikringstekniske avsetninger er hensiktsmessige,vurdere om dataene som benyttes i beregningen av forsikringstekniske avsetninger er tilstrekkelige og av nødvendig kvalitet,sammenlikne beste estimat mot foretakets erfaringer,informere styret og ledelsen om hvorvidt beregningen av forsikringstekniske avsetninger er pålitelige og tilstrekkelige,etterprøve forenklede beregninger av beste estimat som er basert på tilnærmede verdier (approksimasjoner) og individuelle vurderinger av meldte skadetilfeller (saksavsetninger),uttale seg om foretakets retningslinjer for tegning av forsikringer,uttale seg om foretakets gjenforsikringsordninger er tilstrekkelige, ogbidra til effektiv gjennomføring av risikostyringssystemet, særlig med hensyn til risikomodelleringen som danner grunnlaget for beregningen av solvenskapitalkravet og egenvurderingen av foretakets kapitalbehov.
+(2) Aktuarfunksjonen skal
+
+1. samordne beregningen av forsikringstekniske avsetninger,
+2. sikre at metoder, modeller og forutsetninger i beregningen av forsikringstekniske avsetninger er hensiktsmessige,
+3. vurdere om dataene som benyttes i beregningen av forsikringstekniske avsetninger er tilstrekkelige og av nødvendig kvalitet,
+4. sammenlikne beste estimat mot foretakets erfaringer,
+5. informere styret og ledelsen om hvorvidt beregningen av forsikringstekniske avsetninger er pålitelige og tilstrekkelige,
+6. etterprøve forenklede beregninger av beste estimat som er basert på tilnærmede verdier (approksimasjoner) og individuelle vurderinger av meldte skadetilfeller (saksavsetninger),
+7. uttale seg om foretakets retningslinjer for tegning av forsikringer,
+8. uttale seg om foretakets gjenforsikringsordninger er tilstrekkelige, og
+9. bidra til effektiv gjennomføring av risikostyringssystemet, særlig med hensyn til risikomodelleringen som danner grunnlaget for beregningen av solvenskapitalkravet og egenvurderingen av foretakets kapitalbehov.
 
 ### § 29. Melding om brudd på kravene til egnethet
 
@@ -234,7 +286,13 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 (1) Ved manglende oppfyllelse av solvenskapitalkravet eller minstekapitalkravet skal forsikringsforetaket uten ugrunnet opphold legge frem en gjenopprettingsplan. Planen skal godkjennes av Finanstilsynet.
 
-(2) Planen skal være realistisk og minst inneholde følgende opplysninger:anslag over administrasjonskostnader, herunder løpende generelle kostnader og provisjoner,anslag over inntekter og utgifter for direkte forsikringsvirksomhet samt mottatt og avgitt gjenforsikring,prognose for balansen,anslag over de økonomiske midlene som skal dekke forsikringstekniske avsetninger, solvenskapitalkrav og minstekapitalkrav, ogdet samlede gjenforsikringsprogrammet.
+(2) Planen skal være realistisk og minst inneholde følgende opplysninger:
+
+1. anslag over administrasjonskostnader, herunder løpende generelle kostnader og provisjoner,
+2. anslag over inntekter og utgifter for direkte forsikringsvirksomhet samt mottatt og avgitt gjenforsikring,
+3. prognose for balansen,
+4. anslag over de økonomiske midlene som skal dekke forsikringstekniske avsetninger, solvenskapitalkrav og minstekapitalkrav, og
+5. det samlede gjenforsikringsprogrammet.
 
 ### § 32. Dispensasjon fra solvenskapitalkravet
 
@@ -252,7 +310,10 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 ### § 34. Unntak fra kravet til offentliggjøring av informasjon
 
-(1) Finanstilsynet kan gjøre unntak fra kravet i [finansforetaksloven § 14-12](lov/2015-04-10-17/§14-12) om offentliggjøring av informasjon for enkelte opplysninger hvisoffentliggjøring vil gi foretakets konkurrenter betydelige og urimelige konkurransefortrinn, elleropplysningene er underlagt taushetsplikt.
+(1) Finanstilsynet kan gjøre unntak fra kravet i [finansforetaksloven § 14-12](lov/2015-04-10-17/§14-12) om offentliggjøring av informasjon for enkelte opplysninger hvis
+
+1. offentliggjøring vil gi foretakets konkurrenter betydelige og urimelige konkurransefortrinn, eller
+2. opplysningene er underlagt taushetsplikt.
 
 (2) Hvis foretaket gis tillatelse til ikke å offentliggjøre visse opplysninger, skal foretaket avgi en begrunnet erklæring om dette i sin rapport om solvens og finansiell stilling.
 
@@ -266,17 +327,28 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 ### § 36. Begrensninger i rapporteringsfrekvens
 
-(1) Finanstilsynet kan gjøre unntak fra kravet om kvartalsvis rapportering for forsikringsforetak hvisinnrapporteringen av opplysningene vil være uforholdsmessig sett i forhold til arten, omfanget og kompleksiteten av de risikoer som knytter seg til foretakets eller gruppens virksomhet, ogopplysningene oversendes Finanstilsynet minst årlig.
+(1) Finanstilsynet kan gjøre unntak fra kravet om kvartalsvis rapportering for forsikringsforetak hvis
+
+1. innrapporteringen av opplysningene vil være uforholdsmessig sett i forhold til arten, omfanget og kompleksiteten av de risikoer som knytter seg til foretakets eller gruppens virksomhet, og
+2. opplysningene oversendes Finanstilsynet minst årlig.
 
 ### § 37. Unntak fra rapporteringskrav
 
-(1) Finanstilsynet kan gjøre unntak fra kravene i den regelmessige tilsynsrapporteringen eller gjøre helt unntak fra krav om å sende inn detaljerte oppgaver (post-for-post-rapportering) hvisrapporteringen av opplysningene vil være uforholdsmessig sett i forhold til arten, omfanget og kompleksiteten av de risikoer som knytter seg til virksomheten,rapporteringen av de aktuelle opplysningene ikke er nødvendig for et effektivt tilsyn med foretaket,unntaket ikke undergraver stabiliteten av de berørte finansielle systemer i EØS, ogforetaket kan fremlegge opplysningene på forespørsel.
+(1) Finanstilsynet kan gjøre unntak fra kravene i den regelmessige tilsynsrapporteringen eller gjøre helt unntak fra krav om å sende inn detaljerte oppgaver (post-for-post-rapportering) hvis
+
+1. rapporteringen av opplysningene vil være uforholdsmessig sett i forhold til arten, omfanget og kompleksiteten av de risikoer som knytter seg til virksomheten,
+2. rapporteringen av de aktuelle opplysningene ikke er nødvendig for et effektivt tilsyn med foretaket,
+3. unntaket ikke undergraver stabiliteten av de berørte finansielle systemer i EØS, og
+4. foretaket kan fremlegge opplysningene på forespørsel.
 
 ## Kapittel 11. Forsikringsgrupper
 
 ### § 38. Virkeområde
 
-(1) Bestemmelsene i dette kapittel gjelderforsikringsforetak som er morselskap til eller har deltakerinteresser i eller er underlagt felles ledelse med minst ett annet forsikringsforetak, ogforsikringsforetak der morselskapet er et holdingforetak i finanskonsern i EØS.
+(1) Bestemmelsene i dette kapittel gjelder
+
+1. forsikringsforetak som er morselskap til eller har deltakerinteresser i eller er underlagt felles ledelse med minst ett annet forsikringsforetak, og
+2. forsikringsforetak der morselskapet er et holdingforetak i finanskonsern i EØS.
 
 (2) Finanstilsynet kan bestemme at regler i dette kapittelet også skal gjelde forsikringsforetak der morselskapet er et holdingforetak i finanskonsern eller et forsikringsforetak utenfor EØS og for morselskap som nevnt i [finansforetaksloven § 17-6](lov/2015-04-10-17/§17-6) annet ledd bokstav c.
 
@@ -292,17 +364,32 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 (2) Bestemmelsene i dette kapittelet gjelder ikke holdingforetak i finanskonsern som i tillegg til å eie forsikringsforetak også eier annet finansforetak, hvis kredittinstitusjonsvirksomheten og verdipapirforetaksvirksomheten til sammen utgjør hoveddelen av konsernets virksomhet og holdingforetaket er underlagt konsolideringsreglene i CRR/CRD IV-forskriften. Summen av kredittinstitusjonsvirksomheten og verdipapirforetaksvirksomheten skal anses å utgjøre hoveddelen av et konserns virksomhet når minst 60 prosent av konsernets konsoliderte forvaltningskapital og kapitalkrav kommer fra andre finansforetak i konsernet enn forsikringsforetak. Finanstilsynet kan ved enkeltvedtak bestemme at bestemmelsene i dette kapittelet helt eller delvis likevel skal gjelde for holdingforetak som nevnt i første punktum når vesentlige tilsynsmessige eller soliditetsmessige hensyn taler for det.
 
-(3) Bestemmelsene i dette kapittelet gjelder ikke holdingforetak i finanskonsern som i tillegg til å eie forsikringsforetak også eier annet finansforetak, hvisforsikringsvirksomheten ogsummen av kredittinstitusjonsvirksomheten og verdipapirforetaksvirksomhetenhver for seg står for minst 40 prosent av konsernets konsoliderte forvaltningskapital og kapitalkrav, og holdingforetaket er underlagt reglene i forskrift 18. desember 2005 nr. 1764 om konsolidering mv. i tverrsektorielle grupper. Finanstilsynet kan ved enkeltvedtak bestemme at bestemmelsene i dette kapittelet helt eller delvis likevel skal gjelde for holdingforetak som nevnt i første punktum når vesentlige tilsynsmessige eller soliditetsmessige hensyn taler for det.
+(3) Bestemmelsene i dette kapittelet gjelder ikke holdingforetak i finanskonsern som i tillegg til å eie forsikringsforetak også eier annet finansforetak, hvis
+
+1. forsikringsvirksomheten og
+2. summen av kredittinstitusjonsvirksomheten og verdipapirforetaksvirksomheten
+
+hver for seg står for minst 40 prosent av konsernets konsoliderte forvaltningskapital og kapitalkrav, og holdingforetaket er underlagt reglene i forskrift 18. desember 2005 nr. 1764 om konsolidering mv. i tverrsektorielle grupper. Finanstilsynet kan ved enkeltvedtak bestemme at bestemmelsene i dette kapittelet helt eller delvis likevel skal gjelde for holdingforetak som nevnt i første punktum når vesentlige tilsynsmessige eller soliditetsmessige hensyn taler for det.
 
 (4) Finanstilsynet kan bestemme at bestemmelsene i dette kapittelet ikke skal gjelde for holdingforetak i finanskonsern som i tillegg til å eie forsikringsforetak også eier annet finansforetak, hvis holdingforetaket er underlagt konsolideringsreglene i CRR/CRD IV-forskriften eller reglene i forskrift om konsolidering mv. i tverrsektorielle grupper og disse reglene gir et tilfredsstillende bilde av soliditeten i gruppen.
 
-(5) Finanstilsynet kan bestemme at et foretak ikke skal omfattes av gruppetilsynet nårforetaket har forretningskontor i en tredjestat der det foreligger rettslige hindringer for overføring av nødvendige opplysninger,foretaket har ubetydelig interesse med hensyn til formålene med gruppetilsynet, ellerinnlemmingen av foretaket ville være uhensiktsmessig eller villedende med hensyn til formålene for gruppetilsyn.
+(5) Finanstilsynet kan bestemme at et foretak ikke skal omfattes av gruppetilsynet når
+
+1. foretaket har forretningskontor i en tredjestat der det foreligger rettslige hindringer for overføring av nødvendige opplysninger,
+2. foretaket har ubetydelig interesse med hensyn til formålene med gruppetilsynet, eller
+3. innlemmingen av foretaket ville være uhensiktsmessig eller villedende med hensyn til formålene for gruppetilsyn.
 
 > Endret ved forskrift [18 des 2015 nr. 1763](forskrift/2015-12-18-1763) (i kraft 31 jan 2016).
 
 ### § 40. Tilsyn med undergruppe
 
-(1) Finanstilsynet kan beslutte at bestemmelsene omgruppesolvens,risikokonsentrasjon og gruppeinterne transaksjoner ogrisikostyring og internkontrollhelt eller delvis også skal få anvendelse for forsikringsforetak som selv er datterforetak til et annet forsikringsforetak eller annet holdingforetak i finanskonsern med hovedkontor i annen stat i EØS.
+(1) Finanstilsynet kan beslutte at bestemmelsene om
+
+1. gruppesolvens,
+2. risikokonsentrasjon og gruppeinterne transaksjoner og
+3. risikostyring og internkontroll
+
+helt eller delvis også skal få anvendelse for forsikringsforetak som selv er datterforetak til et annet forsikringsforetak eller annet holdingforetak i finanskonsern med hovedkontor i annen stat i EØS.
 
 (2) Finanstilsynet kan bestemme at beregning av gruppesolvens skal foretas etter en metode og ved bruk av en intern modell som er godkjent i annen EØS-stat.
 
@@ -354,7 +441,11 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 ### § 48. Tilsyn med grupper som har sentralisert risikostyring
 
-(1) Forsikringsforetak som er datterforetak av et annet forsikringsforetak, kan underlegges særskilt gruppetilsyn etter EØS-regler som svarer til artikkel 238 og 239 i direktiv [2009/138/EF](eu/32009l0138*) hvis følgende vilkår er oppfylt:Systemet for risikostyring og internkontroll i morselskapet dekker virksomheten i datterforetaket og morselskapet anses å utøve forsvarlig virksomhetsstyring i datterforetaket.Morselskapet har fått tillatelse til å rapportere egenvurderingen av risiko og solvens samlet.Morselskapet har fått tillatelse til å utferdige én rapport om solvens og finansiell stilling.
+(1) Forsikringsforetak som er datterforetak av et annet forsikringsforetak, kan underlegges særskilt gruppetilsyn etter EØS-regler som svarer til artikkel 238 og 239 i direktiv [2009/138/EF](eu/32009l0138*) hvis følgende vilkår er oppfylt:
+
+1. Systemet for risikostyring og internkontroll i morselskapet dekker virksomheten i datterforetaket og morselskapet anses å utøve forsvarlig virksomhetsstyring i datterforetaket.
+2. Morselskapet har fått tillatelse til å rapportere egenvurderingen av risiko og solvens samlet.
+3. Morselskapet har fått tillatelse til å utferdige én rapport om solvens og finansiell stilling.
 
 (2) Søknad skal sendes tilsynsmyndigheten for datterforetaket. Finanstilsynet skal behandle søknader fra morselskap med datterforetak som er hjemmehørende i Norge og fremlegge denne for Finansdepartementet for endelig avgjørelse.
 
@@ -388,7 +479,21 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 ### § 53. Gjennomføring av forordning (EU) 2015/35 om utfylling av Solvens II-direktivet
 
-(1) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1b (delegert kommisjonsforordning [(EU) 2015/35](eu/32015r0035) om utfylling av europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138) om adgang til å starte og utøve virksomhet innen forsikring og gjenforsikring), som endret veddelegert kommisjonsforordning [(EU) 2016/467](eu/32016r0467),delegert kommisjonsforordning [(EU) 2016/2283](eu/32016r2283),delegert kommisjonsforordning [(EU) 2017/669](eu/32017r0669),delegert kommisjonsforordning [(EU) 2017/1542](eu/32017r1542),delegert kommisjonsforordning [(EU) 2019/981](eu/32019r0981),delegert kommisjonsforordning [(EU) 2019/1865](eu/32019r1865),delegert kommisjonsforordning [(EU) 2020/442](eu/32020r0442),delegert kommisjonsforordning [(EU) 2020/988](eu/32020r0988),delegert kommisjonsforordning [(EU) 2021/526](eu/32021r0526),delegert kommisjonsforordning [(EU) 2021/1256](eu/32021r1256), ogdelegert kommisjonsforordning [(EU) 2018/1221](eu/32018r1221)gjelder som forskrift med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig.
+(1) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1b (delegert kommisjonsforordning [(EU) 2015/35](eu/32015r0035) om utfylling av europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138) om adgang til å starte og utøve virksomhet innen forsikring og gjenforsikring), som endret ved
+
+1. delegert kommisjonsforordning [(EU) 2016/467](eu/32016r0467),
+2. delegert kommisjonsforordning [(EU) 2016/2283](eu/32016r2283),
+3. delegert kommisjonsforordning [(EU) 2017/669](eu/32017r0669),
+4. delegert kommisjonsforordning [(EU) 2017/1542](eu/32017r1542),
+5. delegert kommisjonsforordning [(EU) 2019/981](eu/32019r0981),
+6. delegert kommisjonsforordning [(EU) 2019/1865](eu/32019r1865),
+7. delegert kommisjonsforordning [(EU) 2020/442](eu/32020r0442),
+8. delegert kommisjonsforordning [(EU) 2020/988](eu/32020r0988),
+9. delegert kommisjonsforordning [(EU) 2021/526](eu/32021r0526),
+10. delegert kommisjonsforordning [(EU) 2021/1256](eu/32021r1256), og
+11. delegert kommisjonsforordning [(EU) 2018/1221](eu/32018r1221)
+
+gjelder som forskrift med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig.
 
 (2) I beregningen av tap ved mislighold (LGD) for pantelån i henhold til delegert kommisjonsforordning [(EU) 2015/35](eu/32015r0035*) artikkel 192 nr. 4, skal LGD ikke settes lavere enn 30 prosent av verdien av lånet.
 
@@ -542,7 +647,14 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 (1) Forskriften trer i kraft 1. januar 2016.
 
-(2) Finanstilsynet kan fra dato for fastsettelsen av forskriften her fatte vedtak om godkjenning avsupplerende kapital, jf. [finansforetaksloven § 14-9](lov/2015-04-10-17/§14-9) annet ledd og nærmere regler i forskrift fastsatt av Finanstilsynet,klassifisering av kapitalposter etter [§ 6](forskrift/2015-08-25-999/§6) sjette ledd,bruk av foretaksspesifikke parametere etter [§ 8](forskrift/2015-08-25-999/§8) tredje ledd,bruk av full eller partiell intern modell etter [§ 10](forskrift/2015-08-25-999/§10) første ledd og [§ 11](forskrift/2015-08-25-999/§11) første ledd,spesialforetak som har til formål å overta forsikringsrisiko, jf. [finansforetaksloven § 2-12](lov/2015-04-10-17/§2-12) fjerde ledd og nærmere regler i forskrift fastsatt av Finanstilsynet, ogbruk av overgangsbestemmelsen for forsikringstekniske avsetninger i [§ 56](forskrift/2015-08-25-999/§56).
+(2) Finanstilsynet kan fra dato for fastsettelsen av forskriften her fatte vedtak om godkjenning av
+
+1. supplerende kapital, jf. [finansforetaksloven § 14-9](lov/2015-04-10-17/§14-9) annet ledd og nærmere regler i forskrift fastsatt av Finanstilsynet,
+2. klassifisering av kapitalposter etter [§ 6](forskrift/2015-08-25-999/§6) sjette ledd,
+3. bruk av foretaksspesifikke parametere etter [§ 8](forskrift/2015-08-25-999/§8) tredje ledd,
+4. bruk av full eller partiell intern modell etter [§ 10](forskrift/2015-08-25-999/§10) første ledd og [§ 11](forskrift/2015-08-25-999/§11) første ledd,
+5. spesialforetak som har til formål å overta forsikringsrisiko, jf. [finansforetaksloven § 2-12](lov/2015-04-10-17/§2-12) fjerde ledd og nærmere regler i forskrift fastsatt av Finanstilsynet, og
+6. bruk av overgangsbestemmelsen for forsikringstekniske avsetninger i [§ 56](forskrift/2015-08-25-999/§56).
 
 (3) Finanstilsynet kan fra dato for fastsettelse av forskriften her fatte vedtak om anvendelsen av reglene om forsikringsgrupper, jf. [§ 38](forskrift/2015-08-25-999/§38) og [§ 39](forskrift/2015-08-25-999/§39).
 
@@ -554,7 +666,12 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 ### § 56. Forsikringstekniske avsetninger
 
-(1) Finanstilsynet kan godkjenne at livsforsikringsforetak frem til og med 31. desember 2031 reduserer verdien av forsikringstekniske avsetninger etter [finansforetaksloven § 14-8](lov/2015-04-10-17/§14-8). Reduksjonen skal tilsvare en andel av differansen mellomforsikringstekniske avsetninger for livsforsikringsvirksomheten beregnet etter reglene i [finansforetaksloven § 14-8](lov/2015-04-10-17/§14-8) med forskrifter, etter fradrag for beløp som kan innkreves i henhold til gjenforsikringsavtaler og fra spesialforetak som har til formål å overta forsikringsrisiko, ogsummen av premiereserve, bufferfond, premiefond, innskuddsfond og pensjonistenes overskuddsfond beregnet etter reglene i [forsikringsvirksomhetsloven kapittel 3](lov/2005-06-10-44/kap3) med forskrifter,for de tilfeller der beløpet nevnt i bokstav a er større enn beløpet nevnt i bokstav b.
+(1) Finanstilsynet kan godkjenne at livsforsikringsforetak frem til og med 31. desember 2031 reduserer verdien av forsikringstekniske avsetninger etter [finansforetaksloven § 14-8](lov/2015-04-10-17/§14-8). Reduksjonen skal tilsvare en andel av differansen mellom
+
+1. forsikringstekniske avsetninger for livsforsikringsvirksomheten beregnet etter reglene i [finansforetaksloven § 14-8](lov/2015-04-10-17/§14-8) med forskrifter, etter fradrag for beløp som kan innkreves i henhold til gjenforsikringsavtaler og fra spesialforetak som har til formål å overta forsikringsrisiko, og
+2. summen av premiereserve, bufferfond, premiefond, innskuddsfond og pensjonistenes overskuddsfond beregnet etter reglene i [forsikringsvirksomhetsloven kapittel 3](lov/2005-06-10-44/kap3) med forskrifter,
+
+for de tilfeller der beløpet nevnt i bokstav a er større enn beløpet nevnt i bokstav b.
 
 (2) Differansen i første ledd kan beregnes for likeartede risikogrupper.
 
@@ -582,7 +699,12 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 (1) I 2016 og 2017 skal det ikke beregnes solvenskapitalkrav etter standardmetoden for kredittmarginrisiko og konsentrasjonsrisiko for eksponeringer mot stater eller sentralbanker i EØS, hvis disse er denominert i valutaen til en annen EØS-stat. I 2018 skal solvenskapitalkravet for slike eksponeringer beregnes ved å redusere standardparameterne for beregning av kredittmarginrisiko og konsentrasjonsrisiko med 80 prosent. I 2019 skal solvenskapitalkravet for slike eksponeringer beregnes ved å redusere standardparameterne for beregning av kredittmarginrisiko og konsentrasjonsrisiko med 50 prosent.
 
-(2) Forsikringsforetak kan i en overgangsperiode på inntil syv år beregne solvenskapitalkravet for aksjerisiko slik at det for aksjer ervervet den 1. januar 2016 eller tidligere benyttes et vektet gjennomsnitt avstandardparameteren for den durasjonsbaserte undermodulen for aksjerisiko ogstandardparameteren for aksjerisiko uten bruk av denne undermodulen.Vekten for parameteren nevnt i bokstav b skal øke minst lineært ved begynnelsen av hvert år, fra 0 prosent 1. januar 2016 til 100 prosent 1. januar 2023.
+(2) Forsikringsforetak kan i en overgangsperiode på inntil syv år beregne solvenskapitalkravet for aksjerisiko slik at det for aksjer ervervet den 1. januar 2016 eller tidligere benyttes et vektet gjennomsnitt av
+
+1. standardparameteren for den durasjonsbaserte undermodulen for aksjerisiko og
+2. standardparameteren for aksjerisiko uten bruk av denne undermodulen.
+
+Vekten for parameteren nevnt i bokstav b skal øke minst lineært ved begynnelsen av hvert år, fra 0 prosent 1. januar 2016 til 100 prosent 1. januar 2023.
 
 ### § 59. Investeringer i verdipapiriserte lån
 
@@ -600,7 +722,19 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 ### § 61. Rapporteringsfrister
 
-(1) I perioden 1. januar 2016 til 31. desember 2018 gjelder følgende frister for forsikringsforetakets rapporteringsforpliktelser:Opplysninger som forsikringsforetaket skal oversende Finanstilsynet på årlig basis eller sjeldnere, skal oversendes senest20 uker etter regnskapsåret som avsluttes senest 31. desember 201618 uker etter regnskapsåret som avsluttes senest 31. desember 201716 uker etter regnskapsåret som avsluttes senest 31. desember 2018.Opplysninger som forsikringsforetaket skal oversende Finanstilsynet hvert kvartal, skal oversendes senest8 uker etter kvartaler som avsluttes i 20167 uker etter kvartaler som avsluttes i 20176 uker etter kvartaler som avsluttes i 2018.For forsikringsforetakets offentliggjøring av årlig rapport om solvens og finansiell stilling, jf. [finansforetaksloven § 14-12](lov/2015-04-10-17/§14-12), gjelder fristene i bokstav a) tilsvarende.
+(1) I perioden 1. januar 2016 til 31. desember 2018 gjelder følgende frister for forsikringsforetakets rapporteringsforpliktelser:
+
+1. Opplysninger som forsikringsforetaket skal oversende Finanstilsynet på årlig basis eller sjeldnere, skal oversendes senest
+
+   1. 20 uker etter regnskapsåret som avsluttes senest 31. desember 2016
+   2. 18 uker etter regnskapsåret som avsluttes senest 31. desember 2017
+   3. 16 uker etter regnskapsåret som avsluttes senest 31. desember 2018.
+2. Opplysninger som forsikringsforetaket skal oversende Finanstilsynet hvert kvartal, skal oversendes senest
+
+   1. 8 uker etter kvartaler som avsluttes i 2016
+   2. 7 uker etter kvartaler som avsluttes i 2017
+   3. 6 uker etter kvartaler som avsluttes i 2018.
+3. For forsikringsforetakets offentliggjøring av årlig rapport om solvens og finansiell stilling, jf. [finansforetaksloven § 14-12](lov/2015-04-10-17/§14-12), gjelder fristene i bokstav a) tilsvarende.
 
 (2) For rapportering på gruppenivå forlenges fristene som nevnt i første ledd bokstav a) til c), med 6 uker.
 
@@ -610,7 +744,14 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 ### § 63. Oppheving av forskrifter
 
-(1) Følgende forskrifter oppheves fra 1. januar 2016:[Forskrift 10. mai 1991 nr. 301](forskrift/1991-05-10-301) om minstekrav til forsikringstekniske avsetninger og utarbeiding av risikostatistikk i skadeforsikring og gjenforsikring.[Forskrift 18. november 1992 nr. 1242](forskrift/1992-11-18-1242) om minstekrav til forsikringstekniske avsetninger og utarbeiding av risikostatistikk i skadeforsikring og gjenforsikring (utfyllende).[Forskrift 19. mai 1995 nr. 482](forskrift/1995-05-19-482) om beregning av solvensmarginkrav og solvensmarginkapital for norske skadeforsikringsselskaper og gjenforsikringsselskaper.[Forskrift 19. desember 1996 nr. 1320](forskrift/1996-12-19-1320) om forsikringstekniske avsetninger ved koassuranse i skadeforsikring innen EØS.[Forskrift 22. desember 2006 nr. 1616](forskrift/2006-12-22-1616) om minstekrav til kapitaldekning i forsikringsselskaper, pensjonskasser, innskuddspensjonsforetak og holdingsselskap i forsikringskonsern.[Forskrift 17. desember 2007 nr. 1456](forskrift/2007-12-17-1456) om skadeforsikringsselskapers kapitalforvaltning.
+(1) Følgende forskrifter oppheves fra 1. januar 2016:
+
+1. [Forskrift 10. mai 1991 nr. 301](forskrift/1991-05-10-301) om minstekrav til forsikringstekniske avsetninger og utarbeiding av risikostatistikk i skadeforsikring og gjenforsikring.
+2. [Forskrift 18. november 1992 nr. 1242](forskrift/1992-11-18-1242) om minstekrav til forsikringstekniske avsetninger og utarbeiding av risikostatistikk i skadeforsikring og gjenforsikring (utfyllende).
+3. [Forskrift 19. mai 1995 nr. 482](forskrift/1995-05-19-482) om beregning av solvensmarginkrav og solvensmarginkapital for norske skadeforsikringsselskaper og gjenforsikringsselskaper.
+4. [Forskrift 19. desember 1996 nr. 1320](forskrift/1996-12-19-1320) om forsikringstekniske avsetninger ved koassuranse i skadeforsikring innen EØS.
+5. [Forskrift 22. desember 2006 nr. 1616](forskrift/2006-12-22-1616) om minstekrav til kapitaldekning i forsikringsselskaper, pensjonskasser, innskuddspensjonsforetak og holdingsselskap i forsikringskonsern.
+6. [Forskrift 17. desember 2007 nr. 1456](forskrift/2007-12-17-1456) om skadeforsikringsselskapers kapitalforvaltning.
 
 ## Vedlegg 1 Standardmetoden for beregning av solvenskapitalkravet (SCR)
 

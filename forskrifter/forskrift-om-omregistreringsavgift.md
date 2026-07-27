@@ -15,7 +15,7 @@ xml_hash: "81888bdd54be3ca4281ec41473e963be21ed55be561052cb20062b8333f60eec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Avgiftsplikten
 
-Avgiftsplikten oppstår ved omregistrering av motorvogner og tilhengere på ny eier når:registrert motorvogn registreres på ny eier elleravregistrert motorvogn registreres igjen på ny eier.
+Avgiftsplikten oppstår ved omregistrering av motorvogner og tilhengere på ny eier når:
+
+1. registrert motorvogn registreres på ny eier eller
+2. avregistrert motorvogn registreres igjen på ny eier.
 
 Med eier forstås i denne forskrift den registrerte eier eller medeier ifølge motorvognregisteret.
 
@@ -100,7 +103,11 @@ Det gis også fritak for avgift ved omregistrering på ny eier av et kjøretøy 
 
 9\. *Kjøpsheving av brukt kjøretøy*
 
-Kjøper av brukt kjøretøy kan på søknad til skattekontoret få refundert betalt omregistreringsavgift ved kjøpsheving etter [kjøpslovens](lov/1988-05-13-27) bestemmelser nårkjøper har betalt eller blitt belastet avgiftenkjøpesummen er tilbakebetalt til kjøperen ogselger ikke har refundert eller godskrevet kjøperen avgiften.
+Kjøper av brukt kjøretøy kan på søknad til skattekontoret få refundert betalt omregistreringsavgift ved kjøpsheving etter [kjøpslovens](lov/1988-05-13-27) bestemmelser når
+
+1. kjøper har betalt eller blitt belastet avgiften
+2. kjøpesummen er tilbakebetalt til kjøperen og
+3. selger ikke har refundert eller godskrevet kjøperen avgiften.
 
 10\. *Omorganisering av virksomhet*
 

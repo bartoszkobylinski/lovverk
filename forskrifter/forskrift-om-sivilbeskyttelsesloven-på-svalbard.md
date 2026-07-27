@@ -40,7 +40,14 @@ Longyearbyen lokalstyre skal gjennomføre en helhetlig risiko- og sårbarhetsana
 
 Den helhetlige risiko- og sårbarhetsanalysen skal forankres i lokalstyret.
 
-Analysen skal som et minimum omfatte:eksisterende og fremtidige risiko- og sårbarhetsfaktorer i Longyearbyen arealplanområde.risiko og sårbarhet utenfor Longyearbyen arealplanområde som kan ha betydning for Longyearbyen arealplanområde eller Longyearbyen lokalstyre.hvordan ulike risiko- og sårbarhetsfaktorer kan påvirke hverandre.særlige utfordringer knyttet til kritiske samfunnsfunksjoner og tap av kritisk infrastruktur.Longyearbyen lokalstyres evne til å opprettholde sin virksomhet når den utsettes for en uønsket hendelse og evnen til å gjenoppta sin virksomhet etter at hendelsen har inntruffet.behovet for befolkningsvarsling og evakuering.
+Analysen skal som et minimum omfatte:
+
+1. eksisterende og fremtidige risiko- og sårbarhetsfaktorer i Longyearbyen arealplanområde.
+2. risiko og sårbarhet utenfor Longyearbyen arealplanområde som kan ha betydning for Longyearbyen arealplanområde eller Longyearbyen lokalstyre.
+3. hvordan ulike risiko- og sårbarhetsfaktorer kan påvirke hverandre.
+4. særlige utfordringer knyttet til kritiske samfunnsfunksjoner og tap av kritisk infrastruktur.
+5. Longyearbyen lokalstyres evne til å opprettholde sin virksomhet når den utsettes for en uønsket hendelse og evnen til å gjenoppta sin virksomhet etter at hendelsen har inntruffet.
+6. behovet for befolkningsvarsling og evakuering.
 
 Longyearbyen lokalstyre skal påse at relevante offentlige og private aktører inviteres med i arbeidet med utarbeidelse av risiko- og sårbarhetsanalysen.
 
@@ -48,13 +55,22 @@ Der det avdekkes behov for videre detaljanalyser, skal Longyearbyen lokalstyre f
 
 ## § 4. Helhetlig og systematisk samfunnssikkerhets- og beredskapsarbeid
 
-På bakgrunn av den helhetlige risiko- og sårbarhetsanalysen skal Longyearbyen lokalstyre:utarbeide langsiktige mål, strategier, prioriteringer og plan for oppfølging av samfunnssikkerhets- og beredskapsarbeidet.vurdere forhold som bør integreres i arealplaner og prosesser etter [svalbardmiljøloven kap. VI](lov/2001-06-15-79/kapvi).
+På bakgrunn av den helhetlige risiko- og sårbarhetsanalysen skal Longyearbyen lokalstyre:
+
+1. utarbeide langsiktige mål, strategier, prioriteringer og plan for oppfølging av samfunnssikkerhets- og beredskapsarbeidet.
+2. vurdere forhold som bør integreres i arealplaner og prosesser etter [svalbardmiljøloven kap. VI](lov/2001-06-15-79/kapvi).
 
 ## § 5. Beredskapsplan
 
 Longyearbyen lokalstyre skal være forberedt på å håndtere uønskede hendelser, og skal med utgangspunkt i den helhetlige risiko- og sårbarhetsanalysen utarbeide en overordnet beredskapsplan. Longyearbyen lokalstyres overordnede beredskapsplan skal samordne og integrere øvrige beredskapsplaner for planområdet. Den skal også være samordnet med andre relevante offentlige og private krise- og beredskapsplaner.
 
-Beredskapsplanen skal som et minimum inneholde:en plan for Longyearbyen lokalstyres kriseledelse som gir opplysninger om hvem som utgjør Longyearbyen lokalstyres kriseledelse og deres ansvar, roller og fullmakter, herunder hvem som har fullmakt til å bestemme at kriseledelsen skal samles.en varslingsliste over aktører som har en rolle i Longyearbyen lokalstyres krisehåndtering. Longyearbyen lokalstyre skal informere alle som står på varslingslisten om deres rolle i krisehåndteringen.en ressursoversikt som skal inneholde opplysninger om hvilke ressurser Longyearbyen lokalstyre har til rådighet selv og hvilke ressurser som er tilgjengelige hos andre aktører ved uønskede hendelser. Longyearbyen lokalstyre bør på forhånd inngå avtaler med relevante aktører om bistand under kriser.evakueringsplaner og plan for befolkningsvarsling basert på den helhetlige risiko- og sårbarhetsanalysen.plan for krisekommunikasjon med befolkningen, media og egne ansatte.
+Beredskapsplanen skal som et minimum inneholde:
+
+1. en plan for Longyearbyen lokalstyres kriseledelse som gir opplysninger om hvem som utgjør Longyearbyen lokalstyres kriseledelse og deres ansvar, roller og fullmakter, herunder hvem som har fullmakt til å bestemme at kriseledelsen skal samles.
+2. en varslingsliste over aktører som har en rolle i Longyearbyen lokalstyres krisehåndtering. Longyearbyen lokalstyre skal informere alle som står på varslingslisten om deres rolle i krisehåndteringen.
+3. en ressursoversikt som skal inneholde opplysninger om hvilke ressurser Longyearbyen lokalstyre har til rådighet selv og hvilke ressurser som er tilgjengelige hos andre aktører ved uønskede hendelser. Longyearbyen lokalstyre bør på forhånd inngå avtaler med relevante aktører om bistand under kriser.
+4. evakueringsplaner og plan for befolkningsvarsling basert på den helhetlige risiko- og sårbarhetsanalysen.
+5. plan for krisekommunikasjon med befolkningen, media og egne ansatte.
 
 ## § 6. Oppdatering/revisjon
 

@@ -44,7 +44,12 @@ En undersøkelsestillatelse gir ikke enerett til undersøkelse i de områder som
 
 En søknad om undersøkelsestillatelse sendes fylkeskommunen i det fylket hvor undersøkelsen skal gjennomføres. Søkerens navn, adresse, telefonnummer og epostadresse skal fremgå av søknaden.
 
-En søknad om undersøkelsestillatelse skal presist angi det geografiske området den omfatter. Søknaden skal også redegjøre forhvilke undersøkelser man ønsker å gjennomføreformålet med undersøkelsene, inklusive de forekomstene man ønsker å undersøkenår undersøkelsene er planlagt påbegynt og avsluttethvor innenfor det geografiske området undersøkelsene skal utføres.
+En søknad om undersøkelsestillatelse skal presist angi det geografiske området den omfatter. Søknaden skal også redegjøre for
+
+1. hvilke undersøkelser man ønsker å gjennomføre
+2. formålet med undersøkelsene, inklusive de forekomstene man ønsker å undersøke
+3. når undersøkelsene er planlagt påbegynt og avsluttet
+4. hvor innenfor det geografiske området undersøkelsene skal utføres.
 
 Fylkeskommunen kan gi forskrift om nærmere krav til innholdet i søknaden.
 
@@ -74,9 +79,28 @@ Fylkeskommunen kan gi forskrift om eller fastsette i den enkelte tillatelse hvil
 
 En søknad om utvinningstillatelse sendes fylkeskommunen i det fylket hvor forekomsten som søkes utvunnet er lokalisert. Søkerens navn, adresse, telefonnummer og epostadresse skal fremgå av søknaden.
 
-En søknad om utvinningstillatelse skal redegjøre forsjøkart og økonomiske kart i målestokk 1:5000 med de omsøkte områder inntegnet og angitt med geografiske koordinateropplysninger om antatte størrelse og antatte årlige og samlet opptakskvantum for forekomster som planlegges utvunnethvilken opptaksmetode som er tenkt benyttetantatt oppstartstidspunkt og opptakssesongtiltakets påvirkning på miljø og naturmangfoldopplysninger om virksomhetens forhold til fylkeskommunale planer og kommunale planerde opplysninger søker har om sjøbunnens topografi og biologide opplysninger søker har om forekomstens utbredelse og kvalitet og søkers vurdering av forekomstens økonomiske verdiopplysninger søker har om andre forekomster som er identifisert i de omsøkte områder eller nærliggende områdeopplysninger om hva massene er tenkt brukt tilsøkerens finansielle evnesøkerens tekniske kompetanse og gjennomføringsevneall annen informasjon som er nødvendig for å avgjøre søknaden.
+En søknad om utvinningstillatelse skal redegjøre for
 
-[Forskrift om konsekvensutredninger](forskrift/2017-06-21-854) gjelder for utvinning av forekomster av skjellsand, sand og grus i kystnære områder som kan få vesentlige virkninger for miljø eller samfunn, jf. [forskrift om konsekvensutredning § 8 første ledd bokstav b](forskrift/2017-06-21-854/§8/ledd/1/bokstav/b), jf. [vedlegg II](forskrift/2017-06-21-854/vedleggII) nummer 2 bokstav c. For slike tiltak kommer [forskrift om konsekvensutredninger kapittel 1](forskrift/2017-06-21-854/kapI), [2](forskrift/2017-06-21-854/kap2), [3](forskrift/2017-06-21-854/kap3), [5](forskrift/2017-06-21-854/kap5), [6](forskrift/2017-06-21-854/kap6), [8](forskrift/2017-06-21-854/kap8) og [9](forskrift/2017-06-21-854/kap9) til anvendelse. Søkeren skal selv gjøre en foreløpig vurdering av om tiltaket kan få vesentlige virkninger for miljø eller samfunn, jf. [forskrift om konsekvensutredninger § 9](forskrift/2017-06-21-854/§9). Basert på kjent kunnskap skal søker gi en kortfattet beskrivelse av:planen eller tiltaket, tiltakets fysiske egenskaper og lokalisering og eventuelle rivningsarbeidermiljøverdier som antas å bli vesentlig berørt og som krever særskilte hensynplanens eller tiltakets forventede vesentlige virkninger som følge av reststoffer, utslipp og produksjon av avfallforventede vesentlige virkninger som kan følge av bruken av naturressurser.
+1. sjøkart og økonomiske kart i målestokk 1:5000 med de omsøkte områder inntegnet og angitt med geografiske koordinater
+2. opplysninger om antatte størrelse og antatte årlige og samlet opptakskvantum for forekomster som planlegges utvunnet
+3. hvilken opptaksmetode som er tenkt benyttet
+4. antatt oppstartstidspunkt og opptakssesong
+5. tiltakets påvirkning på miljø og naturmangfold
+6. opplysninger om virksomhetens forhold til fylkeskommunale planer og kommunale planer
+7. de opplysninger søker har om sjøbunnens topografi og biologi
+8. de opplysninger søker har om forekomstens utbredelse og kvalitet og søkers vurdering av forekomstens økonomiske verdi
+9. opplysninger søker har om andre forekomster som er identifisert i de omsøkte områder eller nærliggende område
+10. opplysninger om hva massene er tenkt brukt til
+11. søkerens finansielle evne
+12. søkerens tekniske kompetanse og gjennomføringsevne
+13. all annen informasjon som er nødvendig for å avgjøre søknaden.
+
+[Forskrift om konsekvensutredninger](forskrift/2017-06-21-854) gjelder for utvinning av forekomster av skjellsand, sand og grus i kystnære områder som kan få vesentlige virkninger for miljø eller samfunn, jf. [forskrift om konsekvensutredning § 8 første ledd bokstav b](forskrift/2017-06-21-854/§8/ledd/1/bokstav/b), jf. [vedlegg II](forskrift/2017-06-21-854/vedleggII) nummer 2 bokstav c. For slike tiltak kommer [forskrift om konsekvensutredninger kapittel 1](forskrift/2017-06-21-854/kapI), [2](forskrift/2017-06-21-854/kap2), [3](forskrift/2017-06-21-854/kap3), [5](forskrift/2017-06-21-854/kap5), [6](forskrift/2017-06-21-854/kap6), [8](forskrift/2017-06-21-854/kap8) og [9](forskrift/2017-06-21-854/kap9) til anvendelse. Søkeren skal selv gjøre en foreløpig vurdering av om tiltaket kan få vesentlige virkninger for miljø eller samfunn, jf. [forskrift om konsekvensutredninger § 9](forskrift/2017-06-21-854/§9). Basert på kjent kunnskap skal søker gi en kortfattet beskrivelse av:
+
+1. planen eller tiltaket, tiltakets fysiske egenskaper og lokalisering og eventuelle rivningsarbeider
+2. miljøverdier som antas å bli vesentlig berørt og som krever særskilte hensyn
+3. planens eller tiltakets forventede vesentlige virkninger som følge av reststoffer, utslipp og produksjon av avfall
+4. forventede vesentlige virkninger som kan følge av bruken av naturressurser.
 
 Fylkeskommunen kan gi forskrift om nærmere krav til søknadens innhold.
 
@@ -84,7 +108,12 @@ Det skal betales et behandlingsgebyr for en søknad om utvinningstillatelse. Fyl
 
 ## § 7. Melding i forbindelse med aktivitet
 
-Rettighetshaveren skal senest fem uker før aktiviteten etter en undersøkelsestillatelse eller utvinningstillatelse påbegynnes sende en melding til fylkeskommunen med opplysninger omtid, varighet og nøyaktige opplysninger om området for undersøkelsen eller utvinningenundersøkelses- eller utvinningsmetodene som skal anvendeshvilket fartøy eller innretning som skal benyttesi hvilken form resultatene fra undersøkelsen vil foreligge.
+Rettighetshaveren skal senest fem uker før aktiviteten etter en undersøkelsestillatelse eller utvinningstillatelse påbegynnes sende en melding til fylkeskommunen med opplysninger om
+
+1. tid, varighet og nøyaktige opplysninger om området for undersøkelsen eller utvinningen
+2. undersøkelses- eller utvinningsmetodene som skal anvendes
+3. hvilket fartøy eller innretning som skal benyttes
+4. i hvilken form resultatene fra undersøkelsen vil foreligge.
 
 Fylkeskommunen kan gi forskrift om innsending av melding i forbindelse med undersøkelser og utvinning og kan gjøre unntak fra fristen i første ledd.
 

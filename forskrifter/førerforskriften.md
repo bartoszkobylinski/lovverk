@@ -15,7 +15,7 @@ xml_hash: "c28618d5d503fbe264da03788f69da8e81ba7aefb19b25b612ce196743027b7d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ eu_basis: []
 
 Denne forskriften gjelder sertifisering av førere av trekkraftkjøretøy på det nasjonale jernbanenettet for en jernbanevirksomhet som har sikkerhetssertifikat eller sikkerhetsgodkjenning.
 
-Forskriften gjelder ikke:førere som utelukkende fører skinne-/veimaskin på anleggsområde eller strekning som er disponert for arbeidførere som utelukkende fører kjøretøy for jernbanevedlikehold på anleggsområde.
+Forskriften gjelder ikke:
+
+1. førere som utelukkende fører skinne-/veimaskin på anleggsområde eller strekning som er disponert for arbeid
+2. førere som utelukkende fører kjøretøy for jernbanevedlikehold på anleggsområde.
 
 > Endret ved [forskrift 13 okt 2011 nr. 1020](forskrift/2011-10-13-1020).
 
@@ -100,7 +103,10 @@ Ved opphør av et ansettelsesforhold skal førerbeviset fortsatt være gyldig, f
 
 Et sertifikat angir den infrastrukturen innehaveren er godkjent av jernbanevirksomheten for å føre trekkraftkjøretøy på og det rullende materiellet som innehaveren er godkjent av jernbanevirksomheten for å kjøre. Sertifikatet er bare gyldig på den infrastrukturen og for det rullende materiellet som er angitt. Når føreren har fått ytterligere godkjenninger knyttet til infrastruktur eller rullende materiell skal sertifikatet oppdateres for at disse godkjenningene skal være gyldige. Alle sertifikatene skal oppfylle kravene i vedlegg I.
 
-Sertifikatet godkjenner føring av trekkraftkjøretøy i en eller flere av følgende kategorier:Kategori A: Skifting.Kategori B: Kjøring av tog.
+Sertifikatet godkjenner føring av trekkraftkjøretøy i en eller flere av følgende kategorier:
+
+1. Kategori A: Skifting.
+2. Kategori B: Kjøring av tog.
 
 > Endret ved [forskrift 13 okt 2011 nr. 1020](forskrift/2011-10-13-1020).
 
@@ -118,7 +124,13 @@ Et sertifikat blir ugyldig når innehaveren av dette ikke lenger er ansatt som f
 
 ### § 8. Unntak fra kravet til å inneha sertifikat
 
-Det er ikke krav til å inneha sertifikat for en bestemt infrastruktur:Når forstyrrelser av jernbanedriften eller vedlikehold nødvendiggjør avvik for tog etter nærmere angivelse av infrastrukturforvalter,for unntaksvise engangstjenester som benytter historiske tog,for unntaksvise engangstjenester for frakt av gods, forutsatt at infrastrukturforvalter samtykker,for levering eller demonstrasjon av et nytt rullende materiell,for opplæring av og prøver for førere.
+Det er ikke krav til å inneha sertifikat for en bestemt infrastruktur:
+
+1. Når forstyrrelser av jernbanedriften eller vedlikehold nødvendiggjør avvik for tog etter nærmere angivelse av infrastrukturforvalter,
+2. for unntaksvise engangstjenester som benytter historiske tog,
+3. for unntaksvise engangstjenester for frakt av gods, forutsatt at infrastrukturforvalter samtykker,
+4. for levering eller demonstrasjon av et nytt rullende materiell,
+5. for opplæring av og prøver for førere.
 
 En annen fører som innehar et gyldig sertifikat for vedkommende infrastruktur, og som kan kommunisere med den som fører trekkraftkjøretøyet, må likevel være med under framføringen. Avgjørelsen av om unntaksmuligheten etter første ledd skal benyttes, skal være opp til jernbaneforetaket og kan ikke pålegges av infrastrukturforvalter eller Statens jernbanetilsyn. Infrastrukturforvalter skal på forhånd underrettes om bruk av en ekstra fører som påkrevd.
 
@@ -146,7 +158,12 @@ Når en periodisk undersøkelse er gjennomført, skal den ansvarlige legen umidd
 
 ### § 12. Krav om tilleggsundersøkelser av medisinsk og yrkespsykologisk skikkethet
 
-Uten at det berører [§ 11](forskrift/2009-11-27-1414/§11) skal jernbanevirksomheten påse at det foretas en egnet undersøkelse av førerens skikkethet etter [§ 9](forskrift/2009-11-27-1414/§9) når:det er grunn til å tvile på at føreren oppfyller kravene i [§ 9](forskrift/2009-11-27-1414/§9),føreren har vært involvert i en arbeidsulykke,føreren har hatt fraværsperiode etter en jernbaneulykke eller alvorlig jernbanehendelse som har medført personskade eller fare for personskade, ellerføreren er tatt ut av tjeneste av sikkerhetsgrunner.
+Uten at det berører [§ 11](forskrift/2009-11-27-1414/§11) skal jernbanevirksomheten påse at det foretas en egnet undersøkelse av førerens skikkethet etter [§ 9](forskrift/2009-11-27-1414/§9) når:
+
+1. det er grunn til å tvile på at føreren oppfyller kravene i [§ 9](forskrift/2009-11-27-1414/§9),
+2. føreren har vært involvert i en arbeidsulykke,
+3. føreren har hatt fraværsperiode etter en jernbaneulykke eller alvorlig jernbanehendelse som har medført personskade eller fare for personskade, eller
+4. føreren er tatt ut av tjeneste av sikkerhetsgrunner.
 
 Undersøkelsen skal utføres av, eller skje under tilsyn av, en lege eller psykolog som er godkjent i samsvar med [kapittel 6](forskrift/2009-11-27-1414/kap6).
 
@@ -202,7 +219,11 @@ Jernbanevirksomheter skal gi førere opplæring i sitt sikkerhetsstyringssystem.
 
 Førere skal gjennomføre periodisk opplæring og prøving knyttet til kravene i [§ 17](forskrift/2009-11-27-1414/§17) og [§ 18](forskrift/2009-11-27-1414/§18).
 
-Jernbanevirksomhetene skal i sitt sikkerhetsstyringssystem fastsette hyppigheten av de periodiske prøvene som skal avholdes etter første ledd. Dette skal omfatte alle førere som er tilknyttet virksomheten. Disse prøvene skal minst avholdes:For språkkunnskaper: Hvert tredje år eller etter mer enn ett års fravær.For kunnskaper om infrastrukturen: Hvert tredje år eller etter mer enn ett års fravær på strekningen.For kunnskaper om rullende materiell: Hvert tredje år.
+Jernbanevirksomhetene skal i sitt sikkerhetsstyringssystem fastsette hyppigheten av de periodiske prøvene som skal avholdes etter første ledd. Dette skal omfatte alle førere som er tilknyttet virksomheten. Disse prøvene skal minst avholdes:
+
+1. For språkkunnskaper: Hvert tredje år eller etter mer enn ett års fravær.
+2. For kunnskaper om infrastrukturen: Hvert tredje år eller etter mer enn ett års fravær på strekningen.
+3. For kunnskaper om rullende materiell: Hvert tredje år.
 
 For hver av disse prøvene skal jernbanevirksomheten bekrefte ved en erklæring på sertifikatet og i sertifikatregisteret at føreren har bestått.
 
@@ -230,7 +251,12 @@ Opplæringssentre som skal gi opplæring til førerbevis etter [§ 17](forskrift
 
 Alle som skal gi opplæring til sertifikat etter [§ 18](forskrift/2009-11-27-1414/§18), skal være godkjent som opplæringssenter. Kravene til opplæringssentre følger av [§ 3b](forskrift/2009-11-27-1414/§3b).
 
-Opplæringssentre kan værefagskoler etter [§ 21](forskrift/2009-11-27-1414/§21)opplæringssentre med godkjenning fra Statens jernbanetilsynjernbanevirksomheter som har godkjenning som opplæringssenter for tilknyttede førere fra Statens jernbanetilsyn eller en annen EØS-statjernbanevirksomheter som har godkjenning som opplæringssenter for andre enn tilknyttede førere fra Statens jernbanetilsyn eller en annen EØS-stat.
+Opplæringssentre kan være
+
+1. fagskoler etter [§ 21](forskrift/2009-11-27-1414/§21)
+2. opplæringssentre med godkjenning fra Statens jernbanetilsyn
+3. jernbanevirksomheter som har godkjenning som opplæringssenter for tilknyttede førere fra Statens jernbanetilsyn eller en annen EØS-stat
+4. jernbanevirksomheter som har godkjenning som opplæringssenter for andre enn tilknyttede førere fra Statens jernbanetilsyn eller en annen EØS-stat.
 
 Alle som gir opplæring etter vedlegg VI, må være godkjent som opplæringssenter i Norge.
 
@@ -348,10 +374,28 @@ Ved utstedelse av førerbevis og sertifikat skal det tas hensyn til all yrkesmes
 
 ## Vedlegg I. Krav til utforming av førerbevis og sertifikater mv.
 
-1. *Førerbevis*Førerbeviset skal være i henhold til vedlegg I til forordning [(EU) nr. 36/2010](eu/32010r0036*) av 3. desember 2009 om fellesskapsmodeller for førerbevis, sertifikater, bekreftede kopier av sertifikater og søknadsskjemaer for førerbevis under direktiv [2007/59/EF](eu/32007l0059), med følgende tilpasninger:«N: Norge» skal legges til i listen i nr. 3 bokstav c) mellom MA: Malta og NL: NederlandI nr. 3 syvende ledd skal det vises til «EØS-modell» på norsk og nynorsk, og ordene «førerbevis» på språkene til de øvrige avtalepartene. I oversikten skal det tas inn på egnet sted «Norsk: Førerbevis».I nr. 6 skal «EF-modell» erstattes med «EØS-modell», og istedenfor EU-flagget med medlemsstatens nasjonalitetsbokstaver skal bokstaven N være trykket i svart omgitt av en svart ellipse.
-2. *Sertifikat*Sertifikatet skal være i henhold til vedlegg II til forordning [(EU) nr. 36/2010](eu/32010r0036*) av 3. desember 2009 om fellesskapsmodeller for førerbevis, sertifikater, bekreftede kopier av sertifikater og søknadsskjemaer for førerbevis under direktiv [2007/59/EF](eu/32007l0059), med følgende tilpasning:ordene «Fellesskapsmodell» eller tilsvarende erstattes med «EØS-modell», og istedenfor EU-flagget med medlemsstatens nasjonalitetsbokstaver skal bokstaven N være trykket i svart omgitt av en svart ellipse.
-3. *Bekreftet kopi av sertifikat*Bekreftet kopi av sertifikatet skal være i henhold til vedlegg III til forordning [(EU) nr. 36/2010](eu/32010r0036*) av 3. desember 2009 om fellesskapsmodeller for førerbevis, sertifikater, bekreftede kopier av sertifikater og søknadsskjemaer for førerbevis under direktiv [2007/59/EF](eu/32007l0059), med følgende tilpasning:ordene «Fellesskapsmodell» eller tilsvarende erstattes med «EØS-modell», og istedenfor EU-flagget med medlemsstatens nasjonalitetsbokstaver skal bokstaven N være trykket i svart omgitt av en svart ellipse.
-4. *Søknadsskjema for førerbevis*Søknadsskjema for førerbevis bør utformes i henhold til vedlegg IV til forordning [(EU) nr. 36/2010](eu/32010r0036*) av 3. desember 2009 om fellesskapsmodeller for førerbevis, sertifikater, bekreftede kopier av sertifikater og søknadsskjemaer for førerbevis under direktiv [2007/59/EF](eu/32007l0059), med følgende tilpasning:ordene «Fellesskapsmodell» eller tilsvarende erstattes med «EØS-modell», og istedenfor EU-flagget med medlemsstatens nasjonalitetsbokstaver skal bokstaven N være trykket i svart omgitt av en svart ellipse.
+1. *Førerbevis*
+
+   Førerbeviset skal være i henhold til vedlegg I til forordning [(EU) nr. 36/2010](eu/32010r0036*) av 3. desember 2009 om fellesskapsmodeller for førerbevis, sertifikater, bekreftede kopier av sertifikater og søknadsskjemaer for førerbevis under direktiv [2007/59/EF](eu/32007l0059), med følgende tilpasninger:
+
+   - «N: Norge» skal legges til i listen i nr. 3 bokstav c) mellom MA: Malta og NL: Nederland
+   - I nr. 3 syvende ledd skal det vises til «EØS-modell» på norsk og nynorsk, og ordene «førerbevis» på språkene til de øvrige avtalepartene. I oversikten skal det tas inn på egnet sted «Norsk: Førerbevis».
+   - I nr. 6 skal «EF-modell» erstattes med «EØS-modell», og istedenfor EU-flagget med medlemsstatens nasjonalitetsbokstaver skal bokstaven N være trykket i svart omgitt av en svart ellipse.
+2. *Sertifikat*
+
+   Sertifikatet skal være i henhold til vedlegg II til forordning [(EU) nr. 36/2010](eu/32010r0036*) av 3. desember 2009 om fellesskapsmodeller for førerbevis, sertifikater, bekreftede kopier av sertifikater og søknadsskjemaer for førerbevis under direktiv [2007/59/EF](eu/32007l0059), med følgende tilpasning:
+
+   - ordene «Fellesskapsmodell» eller tilsvarende erstattes med «EØS-modell», og istedenfor EU-flagget med medlemsstatens nasjonalitetsbokstaver skal bokstaven N være trykket i svart omgitt av en svart ellipse.
+3. *Bekreftet kopi av sertifikat*
+
+   Bekreftet kopi av sertifikatet skal være i henhold til vedlegg III til forordning [(EU) nr. 36/2010](eu/32010r0036*) av 3. desember 2009 om fellesskapsmodeller for førerbevis, sertifikater, bekreftede kopier av sertifikater og søknadsskjemaer for førerbevis under direktiv [2007/59/EF](eu/32007l0059), med følgende tilpasning:
+
+   - ordene «Fellesskapsmodell» eller tilsvarende erstattes med «EØS-modell», og istedenfor EU-flagget med medlemsstatens nasjonalitetsbokstaver skal bokstaven N være trykket i svart omgitt av en svart ellipse.
+4. *Søknadsskjema for førerbevis*
+
+   Søknadsskjema for førerbevis bør utformes i henhold til vedlegg IV til forordning [(EU) nr. 36/2010](eu/32010r0036*) av 3. desember 2009 om fellesskapsmodeller for førerbevis, sertifikater, bekreftede kopier av sertifikater og søknadsskjemaer for førerbevis under direktiv [2007/59/EF](eu/32007l0059), med følgende tilpasning:
+
+   - ordene «Fellesskapsmodell» eller tilsvarende erstattes med «EØS-modell», og istedenfor EU-flagget med medlemsstatens nasjonalitetsbokstaver skal bokstaven N være trykket i svart omgitt av en svart ellipse.
 
 > Endret ved [forskrift 13 okt 2011 nr. 1020](forskrift/2011-10-13-1020).
 
@@ -361,19 +405,47 @@ Ved utstedelse av førerbevis og sertifikat skal det tas hensyn til all yrkesmes
 
 1.1.
 
-Førere skal ikke ha noen helseproblemer eller ta medisiner, legemidler eller stoffer som kan forårsakeplutselig bevissthetstap,en reduksjon i oppmerksomhet eller konsentrasjon,plutselig tap av arbeidsevne,tap av balanse eller koordineringsevne,betydelig begrensning av mobilitet.
+Førere skal ikke ha noen helseproblemer eller ta medisiner, legemidler eller stoffer som kan forårsake
+
+- plutselig bevissthetstap,
+- en reduksjon i oppmerksomhet eller konsentrasjon,
+- plutselig tap av arbeidsevne,
+- tap av balanse eller koordineringsevne,
+- betydelig begrensning av mobilitet.
 
 1.2.*Krav til syn*
 
-Førere skal ha syn som tilfredsstiller følgende krav:Synsevne på avstand (visus) med eller uten korreksjon: 1,0; minst 0,5 for dårligste øye.Største korreksjon: Langsynthet +5/nærsynthet -8. Godkjent lege kan tillate avvik fra dette i unntakstilfeller og etter uttalelse fra en øyelege.Syn på kort og mellomlang avstand: Tilstrekkelig, enten med eller uten korreksjon.Syn på begge øyne: Effektivt.Synsfelt: Fullstendig (ingen synsfeltutfall).Binokulært synsfelt: Effektivt (ingen synsfeltutfall).Fargesyn: Normalt.Gjenkjenning av fargesignaler: Prøvingen skal være basert på gjenkjenning av enkeltfarger og ikke på relative forskjeller.Kontrastfølsomhet: God.Ingen progressive øyesykdommer.Evne til å motstå blending.
+Førere skal ha syn som tilfredsstiller følgende krav:
 
-For øvrig gjelder følgende:Kontaktlinser og briller er tillatt når disse jevnlig kontrolleres av en øyelege eller optiker.Fargede kontaktlinser og fotokromatiske linser er ikke tillatt. Linser med UV-filter er tillatt.Øyenimplantater, keratotomi og keratektomi er bare tillatt på betingelse av at dette blir kontrollert årlig eller med jevne mellomrom fastsatt av legen.
+- Synsevne på avstand (visus) med eller uten korreksjon: 1,0; minst 0,5 for dårligste øye.
+- Største korreksjon: Langsynthet +5/nærsynthet -8. Godkjent lege kan tillate avvik fra dette i unntakstilfeller og etter uttalelse fra en øyelege.
+- Syn på kort og mellomlang avstand: Tilstrekkelig, enten med eller uten korreksjon.
+- Syn på begge øyne: Effektivt.
+- Synsfelt: Fullstendig (ingen synsfeltutfall).
+- Binokulært synsfelt: Effektivt (ingen synsfeltutfall).
+- Fargesyn: Normalt.
+- Gjenkjenning av fargesignaler: Prøvingen skal være basert på gjenkjenning av enkeltfarger og ikke på relative forskjeller.
+- Kontrastfølsomhet: God.
+- Ingen progressive øyesykdommer.
+- Evne til å motstå blending.
+
+For øvrig gjelder følgende:
+
+- Kontaktlinser og briller er tillatt når disse jevnlig kontrolleres av en øyelege eller optiker.
+- Fargede kontaktlinser og fotokromatiske linser er ikke tillatt. Linser med UV-filter er tillatt.
+- Øyenimplantater, keratotomi og keratektomi er bare tillatt på betingelse av at dette blir kontrollert årlig eller med jevne mellomrom fastsatt av legen.
 
 1.3.*Krav til hørsel og tale*
 
 Førere skal ha hørsel som er god nok til å gjennomføre en telefonsamtale og til å kunne høre varselsignaler og radiomeldinger. Tilstrekkelig hørsel skal være bekreftet med et audiogram.
 
-Følgende gjelder som retningslinjer:Hørselssvikten må ikke være større enn 40 dB ved 500 og 1000 Hz.Hørselssvikten må ikke være større enn 45 dB ved 2000 Hz for det øret der hørsel ved luftledning er dårligst.Det må ikke være uregelmessigheter i det vestibulære system.Bruk av høreapparat er tillatt i særlige tilfeller.Førere skal ikke ha noen kroniske taleforstyrrelser.
+Følgende gjelder som retningslinjer:
+
+- Hørselssvikten må ikke være større enn 40 dB ved 500 og 1000 Hz.
+- Hørselssvikten må ikke være større enn 45 dB ved 2000 Hz for det øret der hørsel ved luftledning er dårligst.
+- Det må ikke være uregelmessigheter i det vestibulære system.
+- Bruk av høreapparat er tillatt i særlige tilfeller.
+- Førere skal ikke ha noen kroniske taleforstyrrelser.
 
 1.4.*Graviditet*
 
@@ -387,7 +459,15 @@ Førere skal ikke ha noen yrkespsykologiske mangler som vil kunne virke inn på 
 
 2.1.*Undersøkelse av medisinsk skikkethet*
 
-Undersøkelse av medisinsk skikkethet skal minst omfatte:en generell legeundersøkelse,undersøkelse av sensoriske funksjoner (syn, hørsel, fargeoppfattelse). Fargesyn skal kontrolleres ved bruk av en godkjent prøve, som for eksempel Ishihara, samt en annen godkjent prøve dersom dette er nødvendig,blod- eller urinprøver. Slike prøver skal foretas i den utstrekning det er nødvendig for å bedømme søkerens medisinske skikkethet, blant annet tester for sukkersyke (diabetes) og tester for psykotrope stoffer som ulovlige legemidler eller psykotrop medisinering og misbruk av alkohol,et elektrokardiogram (EKG) ved hvile,kognitive prøver: oppmerksomhet og konsentrasjon, hukommelse, oppfatningsevne og dømmekraft,undersøkelse av kommunikasjonsevne,undersøkelse av psykomotorikk: reaksjonstid, koordinering av håndbevegelser.
+Undersøkelse av medisinsk skikkethet skal minst omfatte:
+
+- en generell legeundersøkelse,
+- undersøkelse av sensoriske funksjoner (syn, hørsel, fargeoppfattelse). Fargesyn skal kontrolleres ved bruk av en godkjent prøve, som for eksempel Ishihara, samt en annen godkjent prøve dersom dette er nødvendig,
+- blod- eller urinprøver. Slike prøver skal foretas i den utstrekning det er nødvendig for å bedømme søkerens medisinske skikkethet, blant annet tester for sukkersyke (diabetes) og tester for psykotrope stoffer som ulovlige legemidler eller psykotrop medisinering og misbruk av alkohol,
+- et elektrokardiogram (EKG) ved hvile,
+- kognitive prøver: oppmerksomhet og konsentrasjon, hukommelse, oppfatningsevne og dømmekraft,
+- undersøkelse av kommunikasjonsevne,
+- undersøkelse av psykomotorikk: reaksjonstid, koordinering av håndbevegelser.
 
 2.2.*Undersøkelse av yrkespsykologisk skikkethet*
 
@@ -399,7 +479,11 @@ Innholdet i den yrkespsykologiske undersøkelsen skal fastsettes slik at den avd
 
 3.1*Periodisk undersøkelse av medisinsk skikkethet*
 
-De periodiske undersøkelsene skal minst omfatte:en generell legeundersøkelse,en undersøkelse av sensoriske funksjoner (syn, hørsel, fargeoppfattelse),blod- eller urinprøver for å oppdage sukkersyke og andre forhold som indikeres av den kliniske undersøkelsen, herunder prøvinger for narkotika.
+De periodiske undersøkelsene skal minst omfatte:
+
+- en generell legeundersøkelse,
+- en undersøkelse av sensoriske funksjoner (syn, hørsel, fargeoppfattelse),
+- blod- eller urinprøver for å oppdage sukkersyke og andre forhold som indikeres av den kliniske undersøkelsen, herunder prøvinger for narkotika.
 
 I tillegg kreves det også EKG ved hvile for førere over 40 år.
 
@@ -425,32 +509,206 @@ Følgende nivå på kompetanse som er brukt i listen nedenfor angir formen for k
 | være kjent med, beskrive | tilegnelse av kunnskap (data, fakta) som er nødvendig for å forstå forhold |
 | forstå, kjenne til | gjenkjenning og memorering av kontekst, utførelse av oppgaver og problemløsing i en definert ramme |
 
-1. Førerens arbeidsoppgaver, arbeidsmiljøet, førerens rolle og ansvar tilknyttet jernbanedriften, faglige og personlige krav som stilles til føreren som følge av arbeidsoppgavenevære kjent med hovedlinjene i lovgivningen og reglene som kommer til anvendelse på jernbanedrift og sikkerhet (krav og framgangsmåter vedrørende sertifisering av førere, farlig gods, miljøvern, brannvern osv.),forstå de særlige kravene og faglige og personlige kravene (arbeid som hovedsakelig utføres alene, døgnkontinuerlig skiftarbeid, individuell beskyttelse og sikkerhet, lesing og oppdatering av dokumenter osv.),forstå hvilken atferd som er forenlig med sikkerhetsansvar (medisinering, alkohol, narkotika og andre psykoaktive stoffer, sykdom, stress, tretthet osv.),kjenne til referanse- og driftsdokumenter (f.eks. regelbok, strekningsbok, førerhåndbok osv.),kjenne til ansvarsområdene og funksjonene til involverte personer,forstå betydningen av å utføre arbeidsoppgaver og arbeidsmetoder presist,forstå betydningen av helse og sikkerhet på arbeidsplassen (f.eks. atferdsregler på og i nærheten av spor, atferdsregler for å stige av og på motorvognen på en sikker måte, ergonomi, sikkerhetsregler for personalet, personlig verneutstyr osv.),være kjent med atferdsmessige ferdigheter og prinsipper (stressmestring, ekstreme situasjoner osv.),være kjent med prinsippene for miljøvern (bærekraftig kjøring osv.).
-2. Jernbaneteknologi, herunder sikkerhetsprinsippene bak driftsreglervære kjent med prinsippene for, reglene for og bestemmelsene om sikker jernbanedrift,kjenne til ansvarsområdene og funksjonene til involverte personer.
-3. Grunnprinsipper for jernbaneinfrastrukturvære kjent med systematiske og strukturelle prinsipper og parametre,være kjent med de generelle egenskapene til spor, stasjoner og rangerstasjoner,være kjent med jernbanestrukturer (broer, tunneler, sporveksler osv.),være kjent med driftsformer (enkeltsporsdrift, dobbeltsporsdrift osv.),være kjent med signal- og trafikkstyringssystemer,være kjent med sikkerhetsanlegg (varmedetektorer for akselkasse, røykdetektorer i tunneler osv.),være kjent med strømforsyningen til framdriften (bæreline, tredjeskinne osv.).
-4. Grunnprinsipper for driftskommunikasjonvære kjent med betydningen av kommunikasjon og kommunikasjonsmåter og -prosedyrer,kjenne til personer som føreren må kontakte, og vedkommendes rolle og ansvar (infrastrukturforvaltningens personale, arbeidsoppgavene til annet togpersonell osv.),kjenne til situasjoner/årsaker som krever kommunikasjon fra førerens side,forstå kommunikasjonsmetoder.
-5. Tog, deres oppbygning og de tekniske kravene til trekkraftkjøretøyer, godsvogner, passasjervogner og annet rullende materiellvære kjent med de generelle typene framdrift (elektrisk, diesel, damp osv.),beskrive konstruksjonen til et kjøretøy (boggier, karosserier, førerhus, sikringssystemer osv.),være kjent med innholdet i og systemet for merking,være kjent med dokumentasjon av togkonstruksjon,forstå bremsesystemer og beregning av ytelse,kjenne til toghastighet,kjenne til største tillatte belastning og krefter på koplingen,være kjent med driften av og formålet med trafikkstyringssystemet.
-6. Farer forbundet med jernbanedrift i alminnelighetforstå de styrende prinsippene for trafikksikkerhet,være kjent med risikoer forbundet med jernbanedrift og de forskjellige metodene som skal brukes for å begrense dem,være kjent med sikkerhetshendelser og forstå hvilken atferd/reaksjon som er påkrevd,være kjent med framgangsmåtene som skal anvendes ved personulykker (f.eks. evakuering).
-7. Grunnleggende fysiske prinsipperforstå kreftene som påvirker hjulene,kjenne til faktorer som virker inn på akselerasjons- og bremseytelsen (værforhold, bremseutstyr, redusert adhesjon, sandstrøing osv.),forstå prinsipper for elektrisk kraft (kretser, måling av spenning osv.).
+1. Førerens arbeidsoppgaver, arbeidsmiljøet, førerens rolle og ansvar tilknyttet jernbanedriften, faglige og personlige krav som stilles til føreren som følge av arbeidsoppgavene
+
+   1. være kjent med hovedlinjene i lovgivningen og reglene som kommer til anvendelse på jernbanedrift og sikkerhet (krav og framgangsmåter vedrørende sertifisering av førere, farlig gods, miljøvern, brannvern osv.),
+   2. forstå de særlige kravene og faglige og personlige kravene (arbeid som hovedsakelig utføres alene, døgnkontinuerlig skiftarbeid, individuell beskyttelse og sikkerhet, lesing og oppdatering av dokumenter osv.),
+   3. forstå hvilken atferd som er forenlig med sikkerhetsansvar (medisinering, alkohol, narkotika og andre psykoaktive stoffer, sykdom, stress, tretthet osv.),
+   4. kjenne til referanse- og driftsdokumenter (f.eks. regelbok, strekningsbok, førerhåndbok osv.),
+   5. kjenne til ansvarsområdene og funksjonene til involverte personer,
+   6. forstå betydningen av å utføre arbeidsoppgaver og arbeidsmetoder presist,
+   7. forstå betydningen av helse og sikkerhet på arbeidsplassen (f.eks. atferdsregler på og i nærheten av spor, atferdsregler for å stige av og på motorvognen på en sikker måte, ergonomi, sikkerhetsregler for personalet, personlig verneutstyr osv.),
+   8. være kjent med atferdsmessige ferdigheter og prinsipper (stressmestring, ekstreme situasjoner osv.),
+   9. være kjent med prinsippene for miljøvern (bærekraftig kjøring osv.).
+2. Jernbaneteknologi, herunder sikkerhetsprinsippene bak driftsregler
+
+   1. være kjent med prinsippene for, reglene for og bestemmelsene om sikker jernbanedrift,
+   2. kjenne til ansvarsområdene og funksjonene til involverte personer.
+3. Grunnprinsipper for jernbaneinfrastruktur
+
+   1. være kjent med systematiske og strukturelle prinsipper og parametre,
+   2. være kjent med de generelle egenskapene til spor, stasjoner og rangerstasjoner,
+   3. være kjent med jernbanestrukturer (broer, tunneler, sporveksler osv.),
+   4. være kjent med driftsformer (enkeltsporsdrift, dobbeltsporsdrift osv.),
+   5. være kjent med signal- og trafikkstyringssystemer,
+   6. være kjent med sikkerhetsanlegg (varmedetektorer for akselkasse, røykdetektorer i tunneler osv.),
+   7. være kjent med strømforsyningen til framdriften (bæreline, tredjeskinne osv.).
+4. Grunnprinsipper for driftskommunikasjon
+
+   1. være kjent med betydningen av kommunikasjon og kommunikasjonsmåter og -prosedyrer,
+   2. kjenne til personer som føreren må kontakte, og vedkommendes rolle og ansvar (infrastrukturforvaltningens personale, arbeidsoppgavene til annet togpersonell osv.),
+   3. kjenne til situasjoner/årsaker som krever kommunikasjon fra førerens side,
+   4. forstå kommunikasjonsmetoder.
+5. Tog, deres oppbygning og de tekniske kravene til trekkraftkjøretøyer, godsvogner, passasjervogner og annet rullende materiell
+
+   1. være kjent med de generelle typene framdrift (elektrisk, diesel, damp osv.),
+   2. beskrive konstruksjonen til et kjøretøy (boggier, karosserier, førerhus, sikringssystemer osv.),
+   3. være kjent med innholdet i og systemet for merking,
+   4. være kjent med dokumentasjon av togkonstruksjon,
+   5. forstå bremsesystemer og beregning av ytelse,
+   6. kjenne til toghastighet,
+   7. kjenne til største tillatte belastning og krefter på koplingen,
+   8. være kjent med driften av og formålet med trafikkstyringssystemet.
+6. Farer forbundet med jernbanedrift i alminnelighet
+
+   1. forstå de styrende prinsippene for trafikksikkerhet,
+   2. være kjent med risikoer forbundet med jernbanedrift og de forskjellige metodene som skal brukes for å begrense dem,
+   3. være kjent med sikkerhetshendelser og forstå hvilken atferd/reaksjon som er påkrevd,
+   4. være kjent med framgangsmåtene som skal anvendes ved personulykker (f.eks. evakuering).
+7. Grunnleggende fysiske prinsipper
+
+   1. forstå kreftene som påvirker hjulene,
+   2. kjenne til faktorer som virker inn på akselerasjons- og bremseytelsen (værforhold, bremseutstyr, redusert adhesjon, sandstrøing osv.),
+   3. forstå prinsipper for elektrisk kraft (kretser, måling av spenning osv.).
 
 > Endret ved [forskrift 14 feb 2017 nr. 185](forskrift/2017-02-14-185).
 
 ## Vedlegg V. Yrkesmessig kompetanse om rullende materiell og krav vedrørende sertifikatet
 
-Etter å ha fullført den særlige opplæringen for rullende materiell, må førere kunne følgende:*Prøvinger og kontroller før avgang*Førere må kunne:skaffe den dokumentasjonen og det utstyr som er nødvendig,kontrollere trekkraftkjøretøyets kapasitet,kontrollere de opplysningene som er ført inn i dokumentene om bord,påse, ved å utføre de angitte kontroller og prøvinger, at trekkraftkjøretøyet er i stand til å gi nødvendig trekkraft, og at sikkerhetsutstyret virker,kontrollere tilgjengeligheten av og funksjonaliteten til det foreskrevne verne- og sikkerhetsutstyret ved overtakelse av et trekkraftkjøretøy eller ved starten av en tur,utføre alle rutinemessige forebyggende vedlikeholdsoperasjoner.*Kunnskap om rullende materiell*For å kunne føre et trekkraftkjøretøy må førere være kjent med de betjeningshendler og indikatorer de har til disposisjon, særlig slike som gjelder:trekkraft,bremsing,trafikksikkerhetstilknyttede elementer.For å kunne oppdage og lokalisere uregelmessigheter i rullende materiell, rapportere disse og avgjøre hva som kreves for å reparere disse, og i visse tilfeller å kunne treffe praktiske tiltak, må førere være kjent med:mekaniske strukturer,fjærings- og sammenkoblingsutstyr,hjul og boggier,sikkerhetsutstyr,drivstofftanker, drivstofftilførselssystem, eksosanlegg,betydningen av merker inne i og utenpå det rullende materiellet, særlig de symboler som benyttes for transport av farlige gods,ferdregistreringssystemer,elektriske systemer og trykkluftsystemer,systemer for strømavtaking og høyspenningssystemer,kommunikasjonsutstyr (togradio osv.),organisering av turer,de hoveddelene det rullende materiellet består av, deres formål samt de innretninger som er spesifikke for vogner, særlig nødbremseinnretninger (Systemet for å stanse toget ved utlufting av hovedledningen.),bremsesystem,de deler som er spesifikke for motorvogner,motorer og transmisjon.*Prøving av bremsene*Førere må kunne:før avgang kontrollere og beregne at togets bremsekraft tilsvarer den bremsekraften som kreves for linjen, slik det er angitt i togets dokumenter,kontrollere funksjonen til de ulike bestanddelene av bremsesystemet for trekkraftkjøretøyet og eventuelt for hele toget, før avgang, ved oppstart og underveis.*Kjøremåte og togets høyeste hastighet i forhold til linjens egenskaper*Førere må kunnemerke seg informasjon de har fått før avgang,avgjøre type kjøring og fartsgrense for toget på grunnlag av variabler som fartsbegrensninger, værforhold eller signaleringsendringer.*Føring av toget på en måte som ikke skader installasjoner eller kjøretøyer*Førere må kunnebenytte alle tilgjengelige kontrollsystemer i samsvar med gjeldende regler,starte toget under hensyn til adhesjons- og kraftbegrensninger,anvende bremsene for å minske farten og stanse, idet det tas hensyn til det rullende materiellet og installasjonene.*Uregelmessigheter*Førere måkunne være oppmerksomme med hensyn til uvanlige hendelser under framføring av toget,kunne inspisere toget og identifisere tegn på uregelmessigheter, skille mellom disse, treffe tiltak i samsvar med deres relative betydning og forsøke å avhjelpe dem, men alltid slik at sikkerheten til jernbanetrafikken og til personer blir prioritert,kjenne til tilgjengelige midler for vern og kommunikasjon.*Driftshendelser og ulykker, brann og personulykker*Førere måkunne treffe tiltak for å beskytte toget og tilkalle assistanse i tilfelle av en ulykke som involverer personer om bord i toget,kunne slå fast om toget transporterer farlig gods og identifisere dette på grunnlag av togets dokumenter og vognlister,kjenne framgangsmåtene for evakuering av et tog i nødsfall.*Vilkår for å fortsette kjøringen etter en hendelse som involverer rullende materiell*Etter en hendelse må førere kunne vurdere om kjøretøyet kan fortsette å kjøre og under hvilke vilkår dette kan skje, for å underrette infrastrukturforvaltningen om disse vilkårene så snart som mulig.Førere må kunne avgjøre om en sakkyndig evaluering er nødvendig før toget kan fortsette.*Blokkering av toget*Førere må kunne treffe tiltak for å sikre at toget, eller deler av toget, ikke starter eller beveger seg uventet, selv under de mest vanskelige forhold.Videre må førere ha kunnskap om tiltak som kan stanse et tog eller deler av et tog dersom dette uventet har begynt å bevege seg.
+Etter å ha fullført den særlige opplæringen for rullende materiell, må førere kunne følgende:
+
+1. *Prøvinger og kontroller før avgang*
+
+   Førere må kunne:
+
+   - skaffe den dokumentasjonen og det utstyr som er nødvendig,
+   - kontrollere trekkraftkjøretøyets kapasitet,
+   - kontrollere de opplysningene som er ført inn i dokumentene om bord,
+   - påse, ved å utføre de angitte kontroller og prøvinger, at trekkraftkjøretøyet er i stand til å gi nødvendig trekkraft, og at sikkerhetsutstyret virker,
+   - kontrollere tilgjengeligheten av og funksjonaliteten til det foreskrevne verne- og sikkerhetsutstyret ved overtakelse av et trekkraftkjøretøy eller ved starten av en tur,
+   - utføre alle rutinemessige forebyggende vedlikeholdsoperasjoner.
+2. *Kunnskap om rullende materiell*
+
+   For å kunne føre et trekkraftkjøretøy må førere være kjent med de betjeningshendler og indikatorer de har til disposisjon, særlig slike som gjelder:
+
+   - trekkraft,
+   - bremsing,
+   - trafikksikkerhetstilknyttede elementer.
+
+   For å kunne oppdage og lokalisere uregelmessigheter i rullende materiell, rapportere disse og avgjøre hva som kreves for å reparere disse, og i visse tilfeller å kunne treffe praktiske tiltak, må førere være kjent med:
+
+   - mekaniske strukturer,
+   - fjærings- og sammenkoblingsutstyr,
+   - hjul og boggier,
+   - sikkerhetsutstyr,
+   - drivstofftanker, drivstofftilførselssystem, eksosanlegg,
+   - betydningen av merker inne i og utenpå det rullende materiellet, særlig de symboler som benyttes for transport av farlige gods,
+   - ferdregistreringssystemer,
+   - elektriske systemer og trykkluftsystemer,
+   - systemer for strømavtaking og høyspenningssystemer,
+   - kommunikasjonsutstyr (togradio osv.),
+   - organisering av turer,
+   - de hoveddelene det rullende materiellet består av, deres formål samt de innretninger som er spesifikke for vogner, særlig nødbremseinnretninger (Systemet for å stanse toget ved utlufting av hovedledningen.),
+   - bremsesystem,
+   - de deler som er spesifikke for motorvogner,
+   - motorer og transmisjon.
+3. *Prøving av bremsene*
+
+   Førere må kunne:
+
+   - før avgang kontrollere og beregne at togets bremsekraft tilsvarer den bremsekraften som kreves for linjen, slik det er angitt i togets dokumenter,
+   - kontrollere funksjonen til de ulike bestanddelene av bremsesystemet for trekkraftkjøretøyet og eventuelt for hele toget, før avgang, ved oppstart og underveis.
+4. *Kjøremåte og togets høyeste hastighet i forhold til linjens egenskaper*
+
+   Førere må kunne
+
+   - merke seg informasjon de har fått før avgang,
+   - avgjøre type kjøring og fartsgrense for toget på grunnlag av variabler som fartsbegrensninger, værforhold eller signaleringsendringer.
+5. *Føring av toget på en måte som ikke skader installasjoner eller kjøretøyer*
+
+   Førere må kunne
+
+   - benytte alle tilgjengelige kontrollsystemer i samsvar med gjeldende regler,
+   - starte toget under hensyn til adhesjons- og kraftbegrensninger,
+   - anvende bremsene for å minske farten og stanse, idet det tas hensyn til det rullende materiellet og installasjonene.
+6. *Uregelmessigheter*
+
+   Førere må
+
+   - kunne være oppmerksomme med hensyn til uvanlige hendelser under framføring av toget,
+   - kunne inspisere toget og identifisere tegn på uregelmessigheter, skille mellom disse, treffe tiltak i samsvar med deres relative betydning og forsøke å avhjelpe dem, men alltid slik at sikkerheten til jernbanetrafikken og til personer blir prioritert,
+   - kjenne til tilgjengelige midler for vern og kommunikasjon.
+7. *Driftshendelser og ulykker, brann og personulykker*
+
+   Førere må
+
+   - kunne treffe tiltak for å beskytte toget og tilkalle assistanse i tilfelle av en ulykke som involverer personer om bord i toget,
+   - kunne slå fast om toget transporterer farlig gods og identifisere dette på grunnlag av togets dokumenter og vognlister,
+   - kjenne framgangsmåtene for evakuering av et tog i nødsfall.
+8. *Vilkår for å fortsette kjøringen etter en hendelse som involverer rullende materiell*
+
+   Etter en hendelse må førere kunne vurdere om kjøretøyet kan fortsette å kjøre og under hvilke vilkår dette kan skje, for å underrette infrastrukturforvaltningen om disse vilkårene så snart som mulig.
+
+   Førere må kunne avgjøre om en sakkyndig evaluering er nødvendig før toget kan fortsette.
+9. *Blokkering av toget*
+
+   Førere må kunne treffe tiltak for å sikre at toget, eller deler av toget, ikke starter eller beveger seg uventet, selv under de mest vanskelige forhold.
+
+   Videre må førere ha kunnskap om tiltak som kan stanse et tog eller deler av et tog dersom dette uventet har begynt å bevege seg.
 
 ## Vedlegg VI. Yrkesmessig kompetanse om infrastruktur og krav vedrørende sertifikatet
 
 ### Infrastrukturkompetanse
 
-1. *Prøving av bremsene*Førere må før avgang kunne kontrollere og beregne at togets bremsekraft tilsvarer den bremsekraften som kreves for linjen, slik det er angitt i togets dokumenter.
-2. *Type drift og høyeste hastighet for toget i forhold til linjens egenskaper*Førere må kunne merke seg informasjon de har fått, som fartsgrenser eller eventuelle signaleringsendringer, avgjøre typen kjøring og fartsgrense for toget på grunnlag av linjens egenskaper.
-3. *Kunnskap om linjen*Førere må kunne forvente problemer og reagere på egnet måte med hensyn til sikkerhet og andre aspekter, som punktlighet og økonomiske aspekter. De må derfor ha grundig kunnskap om jernbanelinjene og installasjoner på deres rute og om eventuelle avtalte alternative ruter.Følgende spørsmål er viktige:driftsmessige forhold (sporendringer, enkeltsporet drift osv.),utføring av en strekningskontroll og rådføring med relevante dokumenter,identifisering av spor som kan benyttes til en gitt type kjøring,gjeldende trafikkregler og betydningen av signaleringssystemet,driftsformer,linjeblokkeringssystem og tilknyttede bestemmelser,stasjonsnavn og -plassering, samt avstandsidentifisering av stasjoner, blokkposter mv.,overgangssignalering mellom ulike drifts- eller krafttilførselssystemer,fartsgrenser for de ulike togkategoriene som føres på linjen,topografiske profiler,særlige bremseforhold, for eksempel på linjer med sterkt fall,særlige driftsmessige trekk, som spesialsignaler, skilting, avgangsforhold osv.
-4. *Sikkerhetsbestemmelser*Førere må kunnestarte togene bare etter at alle fastsatte vilkår er oppfylt (rute, signal for avgang, eventuell omstilling av signaler osv.),observere signaler ved sporet og i førerhuset, tolke disse umiddelbart og feilfritt og handle i henhold til disse signalene,føre toget sikkert og i overensstemmelse med de særlige driftsmetodene som kreves, anvende særlige metoder dersom det foreligger instrukser om dette, midlertidige fartsrestriksjoner, togkjøring i motsatt retning, tillatelse til å passere faresignaler, sporskifte, snuing, kjøring gjennom byggeområder osv.,respektere planlagte eller ekstra stopp, og om nødvendig utføre ekstra operasjoner for passasjerer i løpet av disse stoppene som å åpne og lukke dørene.
-5. *Føre toget*Førere må kunnetil enhver tid kjenne togets posisjon på linjen,anvende bremsene for å minske farten og stanse, idet det tas hensyn til det rullende materiellet og installasjonene,tilpasse føringen av toget i samsvar med tidstabellen og andre ordrer som er gitt for å spare energi, idet det tas hensyn til egenskapene til motorvognen, toget, linjen og miljøet.
-6. *Uregelmessigheter*Førere måvære oppmerksomme, i den utstrekning togdriften tillater dette, på uvanlige hendelser vedrørende infrastruktur og miljø, som signaler, spor, energitilførsel, jernbaneoverganger, sporets omgivelser, annen trafikk,kjenne de særlige avstandene til tydelige hindringer,informere infrastrukturforvaltningen så snart som mulig om sted for og art av uregelmessigheter som blir observert, samt forsikre seg om at opplysningene er forstått,ta hensyn til infrastrukturen, sikre eller treffe tiltak for å sikre sikkerheten til trafikk og personer der dette er nødvendig.
-7. *Driftshendelser og ulykker, brann og personulykker*Førere måkunne treffe tiltak for å beskytte toget og tilkalle assistanse i tilfelle av en ulykke som involverer personer,avgjøre hvor toget skal stanse i tilfelle av brann og om nødvendig legge forholdene til rette for evakuering av passasjerer,gi nyttig informasjon om brannen så snart som mulig dersom brannen ikke kan bringes under kontroll av føreren på egenhånd,underrette infrastrukturforvaltningen om disse forholdene så snart som mulig,vurdere om infrastrukturen tillater at toget fortsetter og under hvilke forhold.
-8. *Språk*Språkkrav følger av forordning [(EU) 2019/554](eu/32019r0554) av 5. april 2019 om endring av vedlegg VI til direktiv [2007/59/EF](eu/32007l0059) om sertifisering av lokomotivførere som fører lokomotiver og tog på jernbanenettet i Fellesskapet.
+1. *Prøving av bremsene*
+
+   Førere må før avgang kunne kontrollere og beregne at togets bremsekraft tilsvarer den bremsekraften som kreves for linjen, slik det er angitt i togets dokumenter.
+2. *Type drift og høyeste hastighet for toget i forhold til linjens egenskaper*
+
+   Førere må kunne merke seg informasjon de har fått, som fartsgrenser eller eventuelle signaleringsendringer, avgjøre typen kjøring og fartsgrense for toget på grunnlag av linjens egenskaper.
+3. *Kunnskap om linjen*
+
+   Førere må kunne forvente problemer og reagere på egnet måte med hensyn til sikkerhet og andre aspekter, som punktlighet og økonomiske aspekter. De må derfor ha grundig kunnskap om jernbanelinjene og installasjoner på deres rute og om eventuelle avtalte alternative ruter.
+
+   Følgende spørsmål er viktige:
+
+   - driftsmessige forhold (sporendringer, enkeltsporet drift osv.),
+   - utføring av en strekningskontroll og rådføring med relevante dokumenter,
+   - identifisering av spor som kan benyttes til en gitt type kjøring,
+   - gjeldende trafikkregler og betydningen av signaleringssystemet,
+   - driftsformer,
+   - linjeblokkeringssystem og tilknyttede bestemmelser,
+   - stasjonsnavn og -plassering, samt avstandsidentifisering av stasjoner, blokkposter mv.,
+   - overgangssignalering mellom ulike drifts- eller krafttilførselssystemer,
+   - fartsgrenser for de ulike togkategoriene som føres på linjen,
+   - topografiske profiler,
+   - særlige bremseforhold, for eksempel på linjer med sterkt fall,
+   - særlige driftsmessige trekk, som spesialsignaler, skilting, avgangsforhold osv.
+4. *Sikkerhetsbestemmelser*
+
+   Førere må kunne
+
+   - starte togene bare etter at alle fastsatte vilkår er oppfylt (rute, signal for avgang, eventuell omstilling av signaler osv.),
+   - observere signaler ved sporet og i førerhuset, tolke disse umiddelbart og feilfritt og handle i henhold til disse signalene,
+   - føre toget sikkert og i overensstemmelse med de særlige driftsmetodene som kreves, anvende særlige metoder dersom det foreligger instrukser om dette, midlertidige fartsrestriksjoner, togkjøring i motsatt retning, tillatelse til å passere faresignaler, sporskifte, snuing, kjøring gjennom byggeområder osv.,
+   - respektere planlagte eller ekstra stopp, og om nødvendig utføre ekstra operasjoner for passasjerer i løpet av disse stoppene som å åpne og lukke dørene.
+5. *Føre toget*
+
+   Førere må kunne
+
+   - til enhver tid kjenne togets posisjon på linjen,
+   - anvende bremsene for å minske farten og stanse, idet det tas hensyn til det rullende materiellet og installasjonene,
+   - tilpasse føringen av toget i samsvar med tidstabellen og andre ordrer som er gitt for å spare energi, idet det tas hensyn til egenskapene til motorvognen, toget, linjen og miljøet.
+6. *Uregelmessigheter*
+
+   Førere må
+
+   - være oppmerksomme, i den utstrekning togdriften tillater dette, på uvanlige hendelser vedrørende infrastruktur og miljø, som signaler, spor, energitilførsel, jernbaneoverganger, sporets omgivelser, annen trafikk,
+   - kjenne de særlige avstandene til tydelige hindringer,
+   - informere infrastrukturforvaltningen så snart som mulig om sted for og art av uregelmessigheter som blir observert, samt forsikre seg om at opplysningene er forstått,
+   - ta hensyn til infrastrukturen, sikre eller treffe tiltak for å sikre sikkerheten til trafikk og personer der dette er nødvendig.
+7. *Driftshendelser og ulykker, brann og personulykker*
+
+   Førere må
+
+   - kunne treffe tiltak for å beskytte toget og tilkalle assistanse i tilfelle av en ulykke som involverer personer,
+   - avgjøre hvor toget skal stanse i tilfelle av brann og om nødvendig legge forholdene til rette for evakuering av passasjerer,
+   - gi nyttig informasjon om brannen så snart som mulig dersom brannen ikke kan bringes under kontroll av føreren på egenhånd,
+   - underrette infrastrukturforvaltningen om disse forholdene så snart som mulig,
+   - vurdere om infrastrukturen tillater at toget fortsetter og under hvilke forhold.
+8. *Språk*
+
+   Språkkrav følger av forordning [(EU) 2019/554](eu/32019r0554) av 5. april 2019 om endring av vedlegg VI til direktiv [2007/59/EF](eu/32007l0059) om sertifisering av lokomotivførere som fører lokomotiver og tog på jernbanenettet i Fellesskapet.
 
 > Endret ved [forskrifter 14 feb 2017 nr. 185](forskrift/2017-02-14-185), [8 sep 2021 nr. 2713](forskrift/2021-09-08-2713) (i kraft 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 793](forskrift/2022-05-06-793)).
 

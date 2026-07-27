@@ -15,7 +15,7 @@ xml_hash: "f1ac203832121426146a6f5922c5a821720a60a897320714ffdf5c75b8de7d61"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,16 @@ eu_basis: []
 
 ## I
 
-1\. Dersom to tjenestepensjoner helt eller delvis er opptjent samtidig skal fradrag for folketrygdens grunnpensjon etter [samordningsloven §§ 19](lov/1957-07-06-26/§19), [21](lov/1957-07-06-26/§21) og [22](lov/1957-07-06-26/§22) skje etter følgende regler:Hver pensjonsordning foretar isolert samordning med folketrygdens grunnpensjon etter reglene i [samordningslovens §§ 19](lov/1957-07-06-26/§19), [21](lov/1957-07-06-26/§21) og [22](lov/1957-07-06-26/§22), dog slik at hver ordning bare skal rekne med halvparten av den pensjonsgivende tjenestetid i den periode hvori vedkommende har vært samtidig medlem i begge ordninger.Hvis det samlede fradrag som er bereknet etter bokstav a) blir større enn fullt fradrag etter reglene i §§ 19, 21 og 22, skal fradraget i siste pensjonsordning avkortes slik at det samlede fradrag ikke blir større enn nevnt.Hvis den første pensjonsordning ikke nytter hele sitt fradrag øker siste pensjonsordning sitt fradrag med den unyttede del. Fradrag i slik pensjonsordning må likevel ikke være større enn fradraget ville blitt etter den der opptjente pensjonsgivende tid.
+1\. Dersom to tjenestepensjoner helt eller delvis er opptjent samtidig skal fradrag for folketrygdens grunnpensjon etter [samordningsloven §§ 19](lov/1957-07-06-26/§19), [21](lov/1957-07-06-26/§21) og [22](lov/1957-07-06-26/§22) skje etter følgende regler:
 
-2\. Hvis ikke annet følger av reglene under nr. 1, skal fradrag etter [samordningsloven §§ 19](lov/1957-07-06-26/§19), [21](lov/1957-07-06-26/§21) og [22](lov/1957-07-06-26/§22) gjennomføres – så langt det er noe å trekke – etter følgende prioritetsorden:Hvis tjenestepensjonene er av forskjellig art: i alderspensjon, uførepensjon, enkepensjon og barnepensjon.Hvis tjenestepensjonene er av samme art: i den rekkefølge tjenestepensjonene er opptjent, men forholdsmessig fordelt hvis pensjonene er samtidig opptjent.
+1. Hver pensjonsordning foretar isolert samordning med folketrygdens grunnpensjon etter reglene i [samordningslovens §§ 19](lov/1957-07-06-26/§19), [21](lov/1957-07-06-26/§21) og [22](lov/1957-07-06-26/§22), dog slik at hver ordning bare skal rekne med halvparten av den pensjonsgivende tjenestetid i den periode hvori vedkommende har vært samtidig medlem i begge ordninger.
+2. Hvis det samlede fradrag som er bereknet etter bokstav a) blir større enn fullt fradrag etter reglene i §§ 19, 21 og 22, skal fradraget i siste pensjonsordning avkortes slik at det samlede fradrag ikke blir større enn nevnt.
+3. Hvis den første pensjonsordning ikke nytter hele sitt fradrag øker siste pensjonsordning sitt fradrag med den unyttede del. Fradrag i slik pensjonsordning må likevel ikke være større enn fradraget ville blitt etter den der opptjente pensjonsgivende tid.
+
+2\. Hvis ikke annet følger av reglene under nr. 1, skal fradrag etter [samordningsloven §§ 19](lov/1957-07-06-26/§19), [21](lov/1957-07-06-26/§21) og [22](lov/1957-07-06-26/§22) gjennomføres – så langt det er noe å trekke – etter følgende prioritetsorden:
+
+1. Hvis tjenestepensjonene er av forskjellig art: i alderspensjon, uførepensjon, enkepensjon og barnepensjon.
+2. Hvis tjenestepensjonene er av samme art: i den rekkefølge tjenestepensjonene er opptjent, men forholdsmessig fordelt hvis pensjonene er samtidig opptjent.
 
 3\. Nr. 1 og nr. 2 gjelder tilsvarende ved samordning av omstillingsstønad fra folketrygden.
 

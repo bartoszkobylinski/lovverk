@@ -34,7 +34,10 @@ Tilskuddsordningen dekker Nordland, Troms og Finnmark fylker, og det sørsamiske
 
 ### § 3. Kriterier for måloppnåelse
 
-Måloppnåelsen skal vurderes etter følgende kriterier:Prosjektet har gitt mer/bedre samarbeid mellom norske, finske og/eller svenske aktører i nord, ev. også med aktører fra andre regioner i Arktis.Prosjektet bidrar til samfunnsutvikling i Nord-Norge.
+Måloppnåelsen skal vurderes etter følgende kriterier:
+
+1. Prosjektet har gitt mer/bedre samarbeid mellom norske, finske og/eller svenske aktører i nord, ev. også med aktører fra andre regioner i Arktis.
+2. Prosjektet bidrar til samfunnsutvikling i Nord-Norge.
 
 ## Kapittel II. Bestemmelser for søkere og mottakere av tilskuddsmidler
 
@@ -59,7 +62,17 @@ Støtte fra Barentssekretariatet kan, dersom den regnes som offentlig støtte et
 
 Søknaden skal sendes inn gjennom søknadsportalen på barents.no. Søknaden må være innsendt før hovedaktiviteten i prosjektet er påbegynt.
 
-Søknaden må inneholde følgende:søkerens navn, adresse, e-postadresse, telefonnummer, kontonummer og organisasjonsnummer. For små ungdomsprosjekter kan det i særlige tilfeller gjøres unntak fra kravet om organisasjonsnummer.en grundig og gjennomarbeidet prosjektbeskrivelseinformasjon om at partnerskapet består av aktører fra norsk, og/eller svensk og/eller finsk del av Barents, ev. andre deler av ordningens geografiske område, jf. [§ 2](forskrift/2024-02-07-234/§2).oversikt over samarbeidspartnere og deres bidrag i prosjektettidshorisont/varighet skal framgå av søknadenoversikt over forventede resultateret spesifisert og kostnadseffektivt budsjettinformasjon om minimum 30 % egenfinansiering, ev. egeninnsats. Det kan gjøres unntak for mindre prosjekter (maks. 50 000 kr) med f.eks. ungdom, eller samarbeid med norske og uavhengige russiske aktører.informasjon om medfinansiering fra Sverige, Finland, ev. fra partnere i øvrige Nordiske Arktis (Færøyene, Grønland, Island), og/eller i Arktisk Canada eller USA.
+Søknaden må inneholde følgende:
+
+1. søkerens navn, adresse, e-postadresse, telefonnummer, kontonummer og organisasjonsnummer. For små ungdomsprosjekter kan det i særlige tilfeller gjøres unntak fra kravet om organisasjonsnummer.
+2. en grundig og gjennomarbeidet prosjektbeskrivelse
+3. informasjon om at partnerskapet består av aktører fra norsk, og/eller svensk og/eller finsk del av Barents, ev. andre deler av ordningens geografiske område, jf. [§ 2](forskrift/2024-02-07-234/§2).
+4. oversikt over samarbeidspartnere og deres bidrag i prosjektet
+5. tidshorisont/varighet skal framgå av søknaden
+6. oversikt over forventede resultater
+7. et spesifisert og kostnadseffektivt budsjett
+8. informasjon om minimum 30 % egenfinansiering, ev. egeninnsats. Det kan gjøres unntak for mindre prosjekter (maks. 50 000 kr) med f.eks. ungdom, eller samarbeid med norske og uavhengige russiske aktører.
+9. informasjon om medfinansiering fra Sverige, Finland, ev. fra partnere i øvrige Nordiske Arktis (Færøyene, Grønland, Island), og/eller i Arktisk Canada eller USA.
 
 Tilskuddsforvalter kan kreve ytterligere dokumentasjon som er nødvendig for å vurdere søknaden.
 
@@ -67,9 +80,20 @@ Tilskuddsforvalter kan kreve ytterligere dokumentasjon som er nødvendig for å 
 
 Forvalter skal tildele midler etter en helhetlig vurdering av søknadene. Prosjektet skal fylle de formelle kriteriene i [§ 7](forskrift/2024-02-07-234/§7).
 
-Følgende kriterier skal i tillegg oppfylles:prosjektet gir god effekt/nytteverdi i Nord-Norge og/eller i samiske områder i Norgepartnerne har god gjennomføringsevnepartnerne har bærekraftig økonomi og realistisk budsjett for prosjektet.
+Følgende kriterier skal i tillegg oppfylles:
 
-Følgende kriterier skal vektlegges:prosjektet er realistisk og gjennomførbart, bidrar til nytenkning, har stor overføringsverdi og er godt forankret i aktuelle søkerorganisasjonerprosjektet ligger innenfor rammene av Barentssekretariatets strategier og satsingsområderprosjektet er i tråd med regionale strategierprosjektet bidrar til økt kompetanseprosjektet har et godt samarbeidsinnhold, er fremtidsrettet og har virkning ut over prosjektperiodenfor programmet BarentsKult skal det også være god kunst- og kulturfaglig kvalitet og nyskaping.
+- prosjektet gir god effekt/nytteverdi i Nord-Norge og/eller i samiske områder i Norge
+- partnerne har god gjennomføringsevne
+- partnerne har bærekraftig økonomi og realistisk budsjett for prosjektet.
+
+Følgende kriterier skal vektlegges:
+
+- prosjektet er realistisk og gjennomførbart, bidrar til nytenkning, har stor overføringsverdi og er godt forankret i aktuelle søkerorganisasjoner
+- prosjektet ligger innenfor rammene av Barentssekretariatets strategier og satsingsområder
+- prosjektet er i tråd med regionale strategier
+- prosjektet bidrar til økt kompetanse
+- prosjektet har et godt samarbeidsinnhold, er fremtidsrettet og har virkning ut over prosjektperioden
+- for programmet BarentsKult skal det også være god kunst- og kulturfaglig kvalitet og nyskaping.
 
 Tilskuddet skal kun dekke kostnader som er nødvendige for å realisere prosjektet og formålet med ordningen. Forvalter kan legge opp til tematiske prioriteringer.
 
@@ -121,7 +145,11 @@ Oppdragsgiver er Kommunal- og distriktsdepartementet. Barentssekretariatet forva
 
 Departementet tildeler tilskuddsmidlene til forvalter som tilskudd, uten krav om tilbakebetaling, innenfor de økonomiske rammene Stortinget fastsetter årlig. Forvalter kan dermed disponere midlene uavhengig av bevilgningsår.
 
-Forvalter har videre ansvar for åetablere rutiner for å sikre god internkontroll, slik at departementet kan kontrollere at betingelsen for tilskuddet og vilkårene i tildelingen er oppfyltføre tilsyn med at kravene i forskriften og i oppdragsbrevet blir fulgt opprapportere til departementet, ut fra de rapporteringskrav som framkommer av årlige oppdragsbrev.
+Forvalter har videre ansvar for å
+
+1. etablere rutiner for å sikre god internkontroll, slik at departementet kan kontrollere at betingelsen for tilskuddet og vilkårene i tildelingen er oppfylt
+2. føre tilsyn med at kravene i forskriften og i oppdragsbrevet blir fulgt opp
+3. rapportere til departementet, ut fra de rapporteringskrav som framkommer av årlige oppdragsbrev.
 
 Kommunal- og distriktsdepartementet kan legge til ytterligere årlige føringer i egne oppdragsbrev ved behov. Føringer som gjelder folk-til-folk-samarbeidet med Russland fastsettes i samråd med Utenriksdepartementet.
 
@@ -129,7 +157,30 @@ Kommunal- og distriktsdepartementet kan legge til ytterligere årlige føringer 
 
 Forvalter er ansvarlig for at forvaltningen av tilskuddsmidlene skjer i tråd med denne forskriften og gjeldende lover og regelverk, herunder [forvaltningsloven](lov/1967-02-10).
 
-Forvalter skal:Utlyse tilskuddsmidlerForvalter har ansvar for å lyse ut de søkbare tilskuddsmidlene. Utlysningen skal som et minimum kunngjøres på barents.no. Det praktiseres løpende utlysning og søknadsbehandling.Behandle søknaderForvalter har ansvar for søknadsbehandlingen.Tildele tilskuddForvalter skal forvalte midlene i samsvar med og innenfor rammen av denne forskriften, og treffe vedtak om tilskudd, jf. [§ 11, 1. ledd](forskrift/2024-02-07-234/§11/ledd/1).Forvalter fastsetter eventuelt øvrige vilkår som er nødvendig for å sikre at bevilgningene blir brukt i samsvar med vilkår i oppdragsbrev fra oppdragsgiver og forskrift for ordningen.Oppfølging og kontrollForvalter har ansvar for å påse at midlene brukes i tråd med forskrift og oppdragsbrev og ev. iverksette sanksjoner.RapporteringForvalter skal rapportere til oppdragsgiver på kriteriene for måloppnåelse i [§ 3](forskrift/2024-02-07-234/§3).Årlig rapportering skal også omfatteaktivitetsrapportering,økonomisk rapportering. Rapporteringen skal vise forvalters bruk av midler til administrasjon og gjennomføring.
+Forvalter skal:
+
+1. Utlyse tilskuddsmidler
+
+   Forvalter har ansvar for å lyse ut de søkbare tilskuddsmidlene. Utlysningen skal som et minimum kunngjøres på barents.no. Det praktiseres løpende utlysning og søknadsbehandling.
+2. Behandle søknader
+
+   Forvalter har ansvar for søknadsbehandlingen.
+3. Tildele tilskudd
+
+   Forvalter skal forvalte midlene i samsvar med og innenfor rammen av denne forskriften, og treffe vedtak om tilskudd, jf. [§ 11, 1. ledd](forskrift/2024-02-07-234/§11/ledd/1).
+
+   Forvalter fastsetter eventuelt øvrige vilkår som er nødvendig for å sikre at bevilgningene blir brukt i samsvar med vilkår i oppdragsbrev fra oppdragsgiver og forskrift for ordningen.
+4. Oppfølging og kontroll
+
+   Forvalter har ansvar for å påse at midlene brukes i tråd med forskrift og oppdragsbrev og ev. iverksette sanksjoner.
+5. Rapportering
+
+   Forvalter skal rapportere til oppdragsgiver på kriteriene for måloppnåelse i [§ 3](forskrift/2024-02-07-234/§3).
+
+   Årlig rapportering skal også omfatte
+
+   1. aktivitetsrapportering,
+   2. økonomisk rapportering. Rapporteringen skal vise forvalters bruk av midler til administrasjon og gjennomføring.
 
 Forvalter skal, uten unødig opphold, underrette oppdragsgiver om indikasjoner på økonomiske misligheter knyttet til tilskuddsmidlene. Oppdragsgiver kan gi nærmere føringer om forvalters rapportering i oppdragsbrevene.
 

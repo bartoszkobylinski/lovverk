@@ -28,7 +28,15 @@ Formålet med denne loven er å motvirke konkurransevridninger som følge av mer
 
 ## § 2. Virkeområde
 
-Denne loven gjelder:kommuner og fylkeskommuner med kommunal og fylkeskommunal virksomhet der øverste myndighet er kommunestyret, fylkestinget eller annet styre eller råd i henhold til [kommuneloven](lov/2018-06-22-83) eller kommunal særlovgivning,interkommunale og interfylkeskommunale sammenslutninger organisert etter kommuneloven eller annen kommunal særlovgivning,private eller ideelle virksomheter som produserer helse- og omsorgstjenester, undervisningstjenester eller sosiale tjenester som kommunen eller fylkeskommunen er pålagt å utføre ved lov, men likevel ikke privatpraktiserende allmennleger og privatpraktiserende fysioterapeuter,barnehager som nevnt i [barnehageloven § 6](lov/2005-06-17-64/§6),kirkelig fellesråd,internatdelen ved skoler godkjent etter [privatskolelova](lov/2003-07-04-84), som er en del av skolens tilbud til egne elever,opplæring av voksne elever uten rett til videregående opplæring ved skoler godkjent etter privatskolelova etter forskrift fastsatt med hjemmel i [privatskolelova § 3-1](lov/2003-07-04-84/§3-1) andre ledd fjerde punktum og ved skoler godkjent etter privatskolelova som er godkjent for å drive særskilt opplæring for funksjonshemmede, jf. [privatskolelova § 3-1](lov/2003-07-04-84/§3-1) andre ledd andre punktum.
+Denne loven gjelder:
+
+1. kommuner og fylkeskommuner med kommunal og fylkeskommunal virksomhet der øverste myndighet er kommunestyret, fylkestinget eller annet styre eller råd i henhold til [kommuneloven](lov/2018-06-22-83) eller kommunal særlovgivning,
+2. interkommunale og interfylkeskommunale sammenslutninger organisert etter kommuneloven eller annen kommunal særlovgivning,
+3. private eller ideelle virksomheter som produserer helse- og omsorgstjenester, undervisningstjenester eller sosiale tjenester som kommunen eller fylkeskommunen er pålagt å utføre ved lov, men likevel ikke privatpraktiserende allmennleger og privatpraktiserende fysioterapeuter,
+4. barnehager som nevnt i [barnehageloven § 6](lov/2005-06-17-64/§6),
+5. kirkelig fellesråd,
+6. internatdelen ved skoler godkjent etter [privatskolelova](lov/2003-07-04-84), som er en del av skolens tilbud til egne elever,
+7. opplæring av voksne elever uten rett til videregående opplæring ved skoler godkjent etter privatskolelova etter forskrift fastsatt med hjemmel i [privatskolelova § 3-1](lov/2003-07-04-84/§3-1) andre ledd fjerde punktum og ved skoler godkjent etter privatskolelova som er godkjent for å drive særskilt opplæring for funksjonshemmede, jf. [privatskolelova § 3-1](lov/2003-07-04-84/§3-1) andre ledd andre punktum.
 
 Loven gjelder også for borettslag etter [borettslagsloven](lov/2003-06-06-39) og boligsameier etter [eierseksjonsloven](lov/2017-06-16-65) hvor botilbudet fremstår som et integrert heldøgns helse- og omsorgstilbud i kommunenes lovpålagte tjenestetilbud. Departementet kan gi forskrift om utfylling, gjennomføring og avgrensing av bestemmelsen i første punktum, herunder om vedtektsfesting av vilkår for hvem som kan bli andelseier eller sameier, kommunenes kontroll med at beboerne oppfyller de fastsatte kriteriene, samt krav om tilrettelegging av boligene.
 
@@ -48,7 +56,13 @@ Det ytes også kompensasjon for merverdiavgift betalt ved innførsel av varer fr
 
 Kompensasjon ytes bare i den utstrekning anskaffelsen skjer til bruk i den kompensasjonsberettigede virksomheten.
 
-Det ytes ikke kompensasjon:Når det foreligger rett til fradrag for inngående merverdiavgift etter bestemmelsene i [merverdiavgiftsloven kapittel 8](lov/2009-06-19-58/kap8).For merverdiavgift på anskaffelser som nevnt i [merverdiavgiftsloven § 8-3](lov/2009-06-19-58/§8-3) og [§ 8-4](lov/2009-06-19-58/§8-4).For merverdiavgift på anskaffelser til bygg, anlegg eller annen fast eiendom for salg eller utleie. Kompensasjon ytes likevel for internatdelen av skoler som omfattes av [§ 2](lov/2003-12-12-108/§2) første ledd bokstav a og f.Når virksomheter som nevnt i [§ 2](lov/2003-12-12-108/§2) første ledd bokstav a og b driver økonomisk aktivitet og denne aktiviteten kan være i konkurranse med virksomheter som ikke er kompensasjonsberettiget.For merverdiavgift på anskaffelser for 10.000 kroner eller mer som ikke er betalt via bank eller foretak med rett til å drive betalingsformidling. [Merverdiavgiftsloven § 8-8](lov/2009-06-19-58/§8-8) gjelder tilsvarende så langt den passer.
+Det ytes ikke kompensasjon:
+
+1. Når det foreligger rett til fradrag for inngående merverdiavgift etter bestemmelsene i [merverdiavgiftsloven kapittel 8](lov/2009-06-19-58/kap8).
+2. For merverdiavgift på anskaffelser som nevnt i [merverdiavgiftsloven § 8-3](lov/2009-06-19-58/§8-3) og [§ 8-4](lov/2009-06-19-58/§8-4).
+3. For merverdiavgift på anskaffelser til bygg, anlegg eller annen fast eiendom for salg eller utleie. Kompensasjon ytes likevel for internatdelen av skoler som omfattes av [§ 2](lov/2003-12-12-108/§2) første ledd bokstav a og f.
+4. Når virksomheter som nevnt i [§ 2](lov/2003-12-12-108/§2) første ledd bokstav a og b driver økonomisk aktivitet og denne aktiviteten kan være i konkurranse med virksomheter som ikke er kompensasjonsberettiget.
+5. For merverdiavgift på anskaffelser for 10.000 kroner eller mer som ikke er betalt via bank eller foretak med rett til å drive betalingsformidling. [Merverdiavgiftsloven § 8-8](lov/2009-06-19-58/§8-8) gjelder tilsvarende så langt den passer.
 
 Kompensasjon ytes likevel for anskaffelser til boliger med helseformål eller sosiale formål. Det samme gjelder fellesanlegg i tilknytning til boligene.
 

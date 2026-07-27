@@ -15,7 +15,7 @@ xml_hash: "0f17c0f5d89f613dc36322d69c7a94d1a9a085c2749033cf2fce39bd195f74b1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,17 @@ Denne forskriften stiller krav til gassmålere for brenngasser og volumkonverter
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med*gassmåler:* et instrument som er beregnet på å måle, registrere og vise den mengde brenngass (volum eller masse) som passerer gjennom det;*konverteringsinnretning:* en innretning installert på en gassmåler som automatisk konverterer den målte mengden ved aktuelle måleforhold til en mengde ved referansebetingelser;*bruker:* den som leverer gass til kunder mot betaling. I særlige tilfeller kan andre anses som bruker;*målestørrelsen:* den bestemte størrelsen som skal måles;*påvirkende størrelse:* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet;*angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør gassmålerens normale driftsbetingelser;*forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor gassmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser;*kritisk endringsverdi:* den verdien der endringen i måleresultatet anses som uønsket;*klimatisk miljø:* de omgivelser der gassmåler eller konverteringsanretning kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+I denne forskriften menes med
+
+1. *gassmåler:* et instrument som er beregnet på å måle, registrere og vise den mengde brenngass (volum eller masse) som passerer gjennom det;
+2. *konverteringsinnretning:* en innretning installert på en gassmåler som automatisk konverterer den målte mengden ved aktuelle måleforhold til en mengde ved referansebetingelser;
+3. *bruker:* den som leverer gass til kunder mot betaling. I særlige tilfeller kan andre anses som bruker;
+4. *målestørrelsen:* den bestemte størrelsen som skal måles;
+5. *påvirkende størrelse:* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet;
+6. *angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør gassmålerens normale driftsbetingelser;
+7. *forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor gassmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser;
+8. *kritisk endringsverdi:* den verdien der endringen i måleresultatet anses som uønsket;
+9. *klimatisk miljø:* de omgivelser der gassmåler eller konverteringsanretning kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
 
 > Endret ved forskrift [14 feb 2025 nr. 223](forskrift/2025-02-14-223).
 
@@ -85,7 +95,10 @@ Det mekaniske miljø klassifiseres i følgende klasser:
 | M2 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
 | M3 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:vibrasjonmekanisk sjokk.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:
+
+1. vibrasjon
+2. mekanisk sjokk.
 
 ### § 9. Elektromagnetisk miljø
 
@@ -99,9 +112,21 @@ Det elektromagnetiske miljø klassifiseres i E1, E2 eller E3 som beskrevet neden
 | E2 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter gassmålere og konverteringsinnretninger som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:spenningsavbruddkortvarig redusert spenningelektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledningerhøyfrekvente elektromagnetiske feltoverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningeroverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:spenningsvariasjonvariasjoner i nettfrekvensnettgenererte magnetiske feltandre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
+1. spenningsavbrudd
+2. kortvarig redusert spenning
+3. elektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledninger
+4. høyfrekvente elektromagnetiske felt
+5. overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. overspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. spenningsvariasjon
+2. variasjoner i nettfrekvens
+3. nettgenererte magnetiske felt
+4. andre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
 
 ### § 10. Grunnleggende regler for forsøk og bestemmelse av feil
 
@@ -137,7 +162,12 @@ En gassmåler og konverteringsinnretning skal konstrueres slik at virkningen av 
 
 ### § 17. Egnethet
 
-En gassmåler og konverteringsinnretning skal væreegnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatrobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserkonstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleren. Testprosedyren skal være beskrevet i bruksanvisningenufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+En gassmåler og konverteringsinnretning skal være
+
+1. egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat
+2. robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser
+3. konstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleren. Testprosedyren skal være beskrevet i bruksanvisningen
+4. ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
 
 En gassmåler og konverteringsinnretning skal ikke være av en slik art at den lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
 
@@ -159,11 +189,25 @@ Visning av samlet mengde eller visningene som samlet mengde kan utledes fra, og 
 
 ### § 19. Opplysninger som skal påføres eller følge gassmåleren og konverteringsinnretningen
 
-En gassmåler og konverteringsinnretning skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres gassmåleren:relevante opplysninger om bruksbetingelsermålekapasitetmåleområdeidentitetsmerkenummer på sertifikat for EU-typeprøving eller samsvar basert på full kvalitetssikring og konstruksjonsundersøkelseopplysninger om hvorvidt ytterligere innretninger som gir måleresultater, samsvarer med lovbestemte måletekniske krav.
+En gassmåler og konverteringsinnretning skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres gassmåleren:
+
+1. relevante opplysninger om bruksbetingelser
+2. målekapasitet
+3. måleområde
+4. identitetsmerke
+5. nummer på sertifikat for EU-typeprøving eller samsvar basert på full kvalitetssikring og konstruksjonsundersøkelse
+6. opplysninger om hvorvidt ytterligere innretninger som gir måleresultater, samsvarer med lovbestemte måletekniske krav.
 
 Dersom målerens dimensjoner er for små eller konstruksjonen er for følsom til at de relevante opplysninger kan påføres, skal disse være påført på eventuell emballasje samt i de følgedokumenter som kreves i henhold til denne forskriften.
 
-Opplysninger om betjening skal følge gassmåleren og konverteringsinnretningen med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:angitte driftsbetingelserelektromagnetisk miljøøvre og nedre temperaturgrense, akseptabelt fuktighetsområde samt om måleren er egnet for innendørs og/eller utendørs brukanvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingeranvisninger for korrekt betjening og eventuelle særlige bruksvilkårvilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap
+Opplysninger om betjening skal følge gassmåleren og konverteringsinnretningen med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. angitte driftsbetingelser
+2. elektromagnetisk miljø
+3. øvre og nedre temperaturgrense, akseptabelt fuktighetsområde samt om måleren er egnet for innendørs og/eller utendørs bruk
+4. anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap
 
 Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes. For grupper av identiske gassmålere og konverteringsinnretninger er det ikke nødvendig med individuelle bruksanvisninger.
 
@@ -201,30 +245,80 @@ En gassmåler og konverteringsinnretning skal være konstruert slik at det lett 
 
 ### § 24. Definisjoner
 
-I dette avsnittet menes med*minste strømningsrate (Qmin):* den laveste strømningsraten der gassmåleren gir angivelser som oppfyller kravene med hensyn til maksimal tillatte målefeil*største strømningsrate (Qmax):* den høyeste strømningsraten der gassmåleren gir angivelser som oppfyller kravene med hensyn til maksimal tillatte målefeil*overgangsstrømningsrate (Qt):* overgangsstrømningsraten er den verdien for strømningsrate som opptrer mellom permanent og minste strømningsrate, der strømningsrateområdet deles i to områder, «øvre område» og «nedre område». Hvert område har en karakteristisk maksimal tillatt målefeil*overlaststrømningsrate (Qr):* strømningsrate ved overbelastning er den høyeste strømningsraten der måleren fungerer tilfredsstillende over kort tid uten å ta skade*referansebetingelser:* de angitte forhold som den målte gassmengden konverteres til.
+I dette avsnittet menes med
+
+1. *minste strømningsrate (Qmin):* den laveste strømningsraten der gassmåleren gir angivelser som oppfyller kravene med hensyn til maksimal tillatte målefeil
+2. *største strømningsrate (Qmax):* den høyeste strømningsraten der gassmåleren gir angivelser som oppfyller kravene med hensyn til maksimal tillatte målefeil
+3. *overgangsstrømningsrate (Qt):* overgangsstrømningsraten er den verdien for strømningsrate som opptrer mellom permanent og minste strømningsrate, der strømningsrateområdet deles i to områder, «øvre område» og «nedre område». Hvert område har en karakteristisk maksimal tillatt målefeil
+4. *overlaststrømningsrate (Qr):* strømningsrate ved overbelastning er den høyeste strømningsraten der måleren fungerer tilfredsstillende over kort tid uten å ta skade
+5. *referansebetingelser:* de angitte forhold som den målte gassmengden konverteres til.
 
 > Endret ved forskrift [14 feb 2025 nr. 223](forskrift/2025-02-14-223).
 
 ### § 25. Angitte driftsbetingelser
 
-Produsenten skal angi driftsbetingelser som følger:Strømningsrate for gasstrømmen skal oppfylle minst følgende vilkår:*Klasse**Qmax/Qmin**Qmax/Qt**Qr/Qmax*1,5≥ 150≥ 101,21,0≥ 20≥ 51,2temperaturområdet for gassen, med et minsteområde på 40 °Cvilkår i forbindelse med brenngass.Gassmåleren skal være utformet for gasstypene og tilførselstrykkene i bestemmelseslandet. Særlig skal produsenten angi:gassfamilie eller -gruppestørste driftstrykk.et minste temperaturområde på 50 °C for det klimatiske miljøetnominell vekselspenningsforsyning og/eller grenser for likestrømsforsyning.
+Produsenten skal angi driftsbetingelser som følger:
+
+1. Strømningsrate for gasstrømmen skal oppfylle minst følgende vilkår:
+
+   | *Klasse* | *Qmax/Qmin* | *Qmax/Qt* | *Qr/Qmax* |
+   | --- | --- | --- | --- |
+   | 1,5 | ≥ 150 | ≥ 10 | 1,2 |
+   | 1,0 | ≥ 20 | ≥ 5 | 1,2 |
+2. temperaturområdet for gassen, med et minsteområde på 40 °C
+3. vilkår i forbindelse med brenngass.
+
+   Gassmåleren skal være utformet for gasstypene og tilførselstrykkene i bestemmelseslandet. Særlig skal produsenten angi:
+
+   - gassfamilie eller -gruppe
+   - største driftstrykk.
+4. et minste temperaturområde på 50 °C for det klimatiske miljøet
+5. nominell vekselspenningsforsyning og/eller grenser for likestrømsforsyning.
 
 ### § 26. Største tillatte målefeil
 
-1. *Gassmåler som angir volum ved måleforholdene eller angir masse**Tabell 1* *Klasse**1,5**1,0*Qmin ≤ Q < Qt3 %2 %Qt ≤ Q ≤ Qmax1,5 %1 %
+1. *Gassmåler som angir volum ved måleforholdene eller angir masse*
+
+   *Tabell 1*
+
+   | *Klasse* | *1,5* | *1,0* |
+   | --- | --- | --- |
+   | Qmin ≤ Q < Qt | 3 % | 2 % |
+   | Qt ≤ Q ≤ Qmax | 1,5 % | 1 % |
 2. Den komplette gassmåleren skal ikke utnytte maksimal tillatt feil eller systematisk favorisere en bestemt part.
 3. For en gassmåler med temperaturkonvertering som bare viser det konverterte volumet, økes største tillatte målefeil for måleren med 0,5 % i et område på 30 °C fordelt symmetrisk rundt temperaturen angitt av produsenten, som ligger mellom 15 °C og 25 °C. Utenfor dette området tillates en ytterligere økning på 0,5 % for hvert område på 10 °C.
 
 ### § 27. Tillatte virkninger av elektromagnetiske forstyrrelser
 
-1. Virkningen av en elektromagnetisk forstyrrelse på en gassmåler eller konverteringsinnretning skal være slik atendringen i måleresultatet ikke er større enn den kritiske endringen som definert i bokstav c), ellermåleresultatet angis slik at det ikke kan tolkes som et gyldig resultat, for eksempel en kortvarig variasjon som ikke kan tolkes, registreres eller overføres som måleresultat.
-2. Etter å ha vært utsatt for en elektromagnetisk forstyrrelse skal gassmålerengjenoppta driften innenfor største tillatte målefeil, ogha alle målefunksjoner i behold, oggjøre det mulig å gjenopprette alle måledata som forelå like før forstyrrelsen.
-3. Den kritiske endringen er den minste av følgende to verdier:den mengde som tilsvarer halvparten av største tillatte målefeil i det øvre området av det målte volumetden mengde som tilsvarer største tillatte målefeil for det volum som tilsvarer ett minutt ved største strømningshastighet
-4. Virkning av strømningsforstyrrelser oppstrøms og nedstrøms.Under de installasjonsforhold som er angitt av produsenten, skal påvirkningen av strømningsforstyrrelsene ikke overstige en tredel av største tillatte målefeil.
+1. Virkningen av en elektromagnetisk forstyrrelse på en gassmåler eller konverteringsinnretning skal være slik at
+
+   - endringen i måleresultatet ikke er større enn den kritiske endringen som definert i bokstav c), eller
+   - måleresultatet angis slik at det ikke kan tolkes som et gyldig resultat, for eksempel en kortvarig variasjon som ikke kan tolkes, registreres eller overføres som måleresultat.
+2. Etter å ha vært utsatt for en elektromagnetisk forstyrrelse skal gassmåleren
+
+   - gjenoppta driften innenfor største tillatte målefeil, og
+   - ha alle målefunksjoner i behold, og
+   - gjøre det mulig å gjenopprette alle måledata som forelå like før forstyrrelsen.
+3. Den kritiske endringen er den minste av følgende to verdier:
+
+   - den mengde som tilsvarer halvparten av største tillatte målefeil i det øvre området av det målte volumet
+   - den mengde som tilsvarer største tillatte målefeil for det volum som tilsvarer ett minutt ved største strømningshastighet
+4. Virkning av strømningsforstyrrelser oppstrøms og nedstrøms.
+
+   Under de installasjonsforhold som er angitt av produsenten, skal påvirkningen av strømningsforstyrrelsene ikke overstige en tredel av største tillatte målefeil.
 
 ### § 28. Holdbarhet
 
-Etter en hensiktsmessig test, der det er tatt hensyn til den tid som produsenten har estimert, skal følgende kriterier være oppfylt:*målere i klasse 1,5*Variasjonen i måleresultatet etter holdbarhetsprøvingen skal, når det sammenlignes med det opprinnelige måleresultatet for strømningshastigheter i området Qt til Qmax, ikke overstige 2 %.Visningsfeilen etter holdbarhetsprøvingen skal ikke overstige to ganger største tillatte målefeil i tabell nr. 1.*målere i klasse 1,0*Variasjonen i måleresultatet etter holdbarhetsprøvingen skal, når det sammenlignes med det opprinnelige måleresultatet, ikke overstige en tredel av største tillatte målefeil i tabell nr. 1.Visningsfeilen etter holdbarhetsprøvingen skal ikke overstige største tillatte målefeil i tabell nr. 1.
+Etter en hensiktsmessig test, der det er tatt hensyn til den tid som produsenten har estimert, skal følgende kriterier være oppfylt:
+
+1. *målere i klasse 1,5*
+
+   - Variasjonen i måleresultatet etter holdbarhetsprøvingen skal, når det sammenlignes med det opprinnelige måleresultatet for strømningshastigheter i området Qt til Qmax, ikke overstige 2 %.
+   - Visningsfeilen etter holdbarhetsprøvingen skal ikke overstige to ganger største tillatte målefeil i tabell nr. 1.
+2. *målere i klasse 1,0*
+
+   - Variasjonen i måleresultatet etter holdbarhetsprøvingen skal, når det sammenlignes med det opprinnelige måleresultatet, ikke overstige en tredel av største tillatte målefeil i tabell nr. 1.
+   - Visningsfeilen etter holdbarhetsprøvingen skal ikke overstige største tillatte målefeil i tabell nr. 1.
 
 ### § 29. Egnethet
 
@@ -289,7 +383,25 @@ Brukeren skal kvalitetssikre måleverdiene og håndteringen av disse gjennom hel
 
 ### § 39. Maksimal tillatt målefeil under bruk
 
-Brukeren skal sørge for at positiv eller negativ målefeil under bruk ikke skal overstige:Gassmåler som angir volum ved måleforholdene eller angir masse*Tabell 2* *Klasse**1,5**1,0*Qmin ≤ Q < Qt4 %4 %Qt ≤ Q ≤ Qmax3 %2 %Den komplette gassmåleren skal ikke utnytte maksimal tillatt feil eller systematisk favorisere en bestemt part.For en gassmåler med temperaturkonvertering som bare viser det konverterte volumet, økes største tillatte målefeil for måleren med 1 % i et område på 30 °C fordelt symmetrisk rundt temperaturen angitt av produsenten, som ligger mellom 15 °C og 25 °C. Utenfor dette området tillates en ytterligere økning på 1 % for hvert område på 10 °C.Volumkonverteringsinnretning1 % ved en omgivelsestemperatur på 20 °C ± 3 °C, omgivelsesfuktighet på 60 % ± 15 %, nominelle verdier for strømforsyning,1,4 % for temperaturkonverteringsinnretninger ved nominelle driftsforhold,2 % for andre konverteringsinnretninger ved nominelle driftsforhold.
+Brukeren skal sørge for at positiv eller negativ målefeil under bruk ikke skal overstige:
+
+1. Gassmåler som angir volum ved måleforholdene eller angir masse
+
+   *Tabell 2*
+
+   | *Klasse* | *1,5* | *1,0* |
+   | --- | --- | --- |
+   | Qmin ≤ Q < Qt | 4 % | 4 % |
+   | Qt ≤ Q ≤ Qmax | 3 % | 2 % |
+
+   Den komplette gassmåleren skal ikke utnytte maksimal tillatt feil eller systematisk favorisere en bestemt part.
+
+   For en gassmåler med temperaturkonvertering som bare viser det konverterte volumet, økes største tillatte målefeil for måleren med 1 % i et område på 30 °C fordelt symmetrisk rundt temperaturen angitt av produsenten, som ligger mellom 15 °C og 25 °C. Utenfor dette området tillates en ytterligere økning på 1 % for hvert område på 10 °C.
+2. Volumkonverteringsinnretning
+
+   1. 1 % ved en omgivelsestemperatur på 20 °C ± 3 °C, omgivelsesfuktighet på 60 % ± 15 %, nominelle verdier for strømforsyning,
+   2. 1,4 % for temperaturkonverteringsinnretninger ved nominelle driftsforhold,
+   3. 2 % for andre konverteringsinnretninger ved nominelle driftsforhold.
 
 ## Kapittel 4 – Avsluttende bestemmelser
 

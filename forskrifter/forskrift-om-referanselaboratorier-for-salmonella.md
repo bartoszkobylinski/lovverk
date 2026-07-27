@@ -30,11 +30,23 @@ Forskriften omfatter ansvaret og oppgavene til nasjonale referanselaboratorier f
 
 ## § 2. Allmenne oppgaver
 
-Nasjonale referanselaboratorier plikter:Å samarbeide med Fellesskapets referanselaboratorium innenfor ansvarsområdet sitt.Å samordne aktivitetene til de laboratorier som utfører analysetjenester i forbindelse med nasjonal kartlegging og kontrollprogrammer for salmonella i relevant omfang.Å arrangere sammenlignende laboratorieprøving for de laboratorier som er nevnt under bokstav b) når det er formålstjenlig, eller sørge for at laboratoriene deltar i tilfredsstillende sammenlignende laboratorieprøvinger, samt påse adekvat oppfølging av slik interkalibrering.Å sikre at opplysningene fra Fellesskapets referanselaboratorium formidles til Mattilsynet og de laboratorier som er nevnt i bokstav b).Å yte vitenskapelig og teknisk hjelp til Mattilsynet innenfor ansvarsområdet sitt.
+Nasjonale referanselaboratorier plikter:
+
+1. Å samarbeide med Fellesskapets referanselaboratorium innenfor ansvarsområdet sitt.
+2. Å samordne aktivitetene til de laboratorier som utfører analysetjenester i forbindelse med nasjonal kartlegging og kontrollprogrammer for salmonella i relevant omfang.
+3. Å arrangere sammenlignende laboratorieprøving for de laboratorier som er nevnt under bokstav b) når det er formålstjenlig, eller sørge for at laboratoriene deltar i tilfredsstillende sammenlignende laboratorieprøvinger, samt påse adekvat oppfølging av slik interkalibrering.
+4. Å sikre at opplysningene fra Fellesskapets referanselaboratorium formidles til Mattilsynet og de laboratorier som er nevnt i bokstav b).
+5. Å yte vitenskapelig og teknisk hjelp til Mattilsynet innenfor ansvarsområdet sitt.
 
 ## § 3. Særlige funksjoner og oppgaver
 
-Nasjonale referanselaboratorier plikter:Å ta del i kartlegging av salmonella og relatert antimikrobiell resistens og kontrollprogrammer for salmonella i relevant omfang.Å holde opplæringskurs for personale fra relevante laboratorier når det er formålstjenlig.Å informere Fellesskapets referanselaboratorium om ulike sider ved salmonellavaksinestammer og andre særskilte kontrollmetoder i relevant omfang.Å samle inn data og opplysninger om de aktivitetene som er gjennomført og metoder som er brukt i relevante laboratorier, og informere Fellesskapets referanselaboratorium om dette.Å følge utviklingen innenfor salmonellaepidemiologien.
+Nasjonale referanselaboratorier plikter:
+
+1. Å ta del i kartlegging av salmonella og relatert antimikrobiell resistens og kontrollprogrammer for salmonella i relevant omfang.
+2. Å holde opplæringskurs for personale fra relevante laboratorier når det er formålstjenlig.
+3. Å informere Fellesskapets referanselaboratorium om ulike sider ved salmonellavaksinestammer og andre særskilte kontrollmetoder i relevant omfang.
+4. Å samle inn data og opplysninger om de aktivitetene som er gjennomført og metoder som er brukt i relevante laboratorier, og informere Fellesskapets referanselaboratorium om dette.
+5. Å følge utviklingen innenfor salmonellaepidemiologien.
 
 ## § 4. Ikrafttredelse
 

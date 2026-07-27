@@ -15,7 +15,7 @@ xml_hash: "777940bee0439abe7caa29539fb85efb3b296be5405f33ecf61106479cbef805"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32006L0054"
@@ -29,7 +29,15 @@ eu_basis:
 
 Loven gir regler om organiseringen av og virksomheten til Likestillings- og diskrimineringsombudet (ombudet) og Diskrimineringsnemnda (nemnda).
 
-Ombudets og nemndas virksomhet omfatter:[likestillings- og diskrimineringsloven](lov/2017-06-16-51), hvis ikke annet fremgår av denne loven[arbeidsmiljøloven kapittel 13](lov/2005-06-17-62/kap13), med unntak av [§ 13-1](lov/2005-06-17-62/§13-1) tredje ledd[eierseksjonsloven § 6](lov/2017-06-16-65/§6)[husleieloven § 1-8](lov/1999-03-26-17/§1-8)[bustadbyggjelagslova § 1-4](lov/2003-06-06-38/§1-4)[burettslagslova § 1-5](lov/2003-06-06-39/§1-5)[skipsarbeidsloven kapittel 10](lov/2013-06-21-102/kap10), med unntak av [§ 10-1](lov/2013-06-21-102/§10-1) tredje ledd.
+Ombudets og nemndas virksomhet omfatter:
+
+1. [likestillings- og diskrimineringsloven](lov/2017-06-16-51), hvis ikke annet fremgår av denne loven
+2. [arbeidsmiljøloven kapittel 13](lov/2005-06-17-62/kap13), med unntak av [§ 13-1](lov/2005-06-17-62/§13-1) tredje ledd
+3. [eierseksjonsloven § 6](lov/2017-06-16-65/§6)
+4. [husleieloven § 1-8](lov/1999-03-26-17/§1-8)
+5. [bustadbyggjelagslova § 1-4](lov/2003-06-06-38/§1-4)
+6. [burettslagslova § 1-5](lov/2003-06-06-39/§1-5)
+7. [skipsarbeidsloven kapittel 10](lov/2013-06-21-102/kap10), med unntak av [§ 10-1](lov/2013-06-21-102/§10-1) tredje ledd.
 
 Ombudets virksomhet omfatter også rapporteringen om arbeidet med likestilling og ikke-diskriminering etter [regnskapsloven § 3-3 c](lov/1998-07-17-56/§3-3c).1
 
@@ -51,11 +59,26 @@ Nemndas avgjørelser kan ikke påklages, med unntak av beslutninger om ileggelse
 
 ### § 2a. Avgjørelsesformer
 
-Nemnda kan fatte følgende vedtak:Vedtak om brudd på bestemmelser nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 11](lov/2017-06-16-50/§11)Vedtak om at enkeltvedtak truffet av forvaltningsorganer i deres utøvelse av arbeidsgiverfunksjoner er diskriminerende, jf. [§ 14](lov/2017-06-16-50/§14)Vedtak om avvisning, jf. [§ 10](lov/2017-06-16-50/§10)Vedtak om pålegg, jf. [§ 11](lov/2017-06-16-50/§11) annet leddVedtak om oppreisning i arbeidsforhold og ved arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere, jf. [§ 12](lov/2017-06-16-50/§12)Vedtak om erstatning ved brudd på bestemmelser nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 12](lov/2017-06-16-50/§12)Vedtak om tvangsmulkt, jf. [§ 13](lov/2017-06-16-50/§13)
+Nemnda kan fatte følgende vedtak:
 
-Nemnda kan fatte følgende beslutninger:Beslutning om henleggelse, jf. [§ 10](lov/2017-06-16-50/§10)Beslutning om ileggelse av tvangsmulkt, jf. [§ 13](lov/2017-06-16-50/§13)
+1. Vedtak om brudd på bestemmelser nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 11](lov/2017-06-16-50/§11)
+2. Vedtak om at enkeltvedtak truffet av forvaltningsorganer i deres utøvelse av arbeidsgiverfunksjoner er diskriminerende, jf. [§ 14](lov/2017-06-16-50/§14)
+3. Vedtak om avvisning, jf. [§ 10](lov/2017-06-16-50/§10)
+4. Vedtak om pålegg, jf. [§ 11](lov/2017-06-16-50/§11) annet ledd
+5. Vedtak om oppreisning i arbeidsforhold og ved arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere, jf. [§ 12](lov/2017-06-16-50/§12)
+6. Vedtak om erstatning ved brudd på bestemmelser nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 12](lov/2017-06-16-50/§12)
+7. Vedtak om tvangsmulkt, jf. [§ 13](lov/2017-06-16-50/§13)
 
-Nemnda kan gi følgende uttalelser:Uttalelse om at forholdet som er påklaget ikke utgjør brudd på bestemmelser nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 11](lov/2017-06-16-50/§11)Uttalelse om at andre forvaltningsorganers vedtak innebærer brudd på bestemmelser nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 14](lov/2017-06-16-50/§14)Uttalelse om hvorvidt en tariffavtale eller en bestemmelse i tariffavtale som er brakt inn for nemnda, er i strid med bestemmelsene nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 15](lov/2017-06-16-50/§15).
+Nemnda kan fatte følgende beslutninger:
+
+1. Beslutning om henleggelse, jf. [§ 10](lov/2017-06-16-50/§10)
+2. Beslutning om ileggelse av tvangsmulkt, jf. [§ 13](lov/2017-06-16-50/§13)
+
+Nemnda kan gi følgende uttalelser:
+
+1. Uttalelse om at forholdet som er påklaget ikke utgjør brudd på bestemmelser nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 11](lov/2017-06-16-50/§11)
+2. Uttalelse om at andre forvaltningsorganers vedtak innebærer brudd på bestemmelser nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 14](lov/2017-06-16-50/§14)
+3. Uttalelse om hvorvidt en tariffavtale eller en bestemmelse i tariffavtale som er brakt inn for nemnda, er i strid med bestemmelsene nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, jf. [§ 15](lov/2017-06-16-50/§15).
 
 > Tilføyd ved lov [18 juni 2021 nr. 93](lov/2021-06-18-93) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1973](forskrift/2021-06-18-1973)).
 
@@ -81,7 +104,11 @@ Ombudet skal arbeide for å fremme reell likestilling og hindre diskriminering p
 
 Ombudet skal gi veiledning om bestemmelsene nevnt i [§ 1](lov/2017-06-16-50/§1) annet ledd. Enhver kan henvende seg til ombudet for veiledning, også i enkeltsaker.
 
-Ombudet skal føre tilsyn med at norsk rett og forvaltningspraksis samsvarer med forpliktelsene Norge har etter:De forente nasjoners internasjonale konvensjon 18. desember 1979 om avskaffelse av alle former for diskriminering av kvinnerDe forente nasjoners internasjonale konvensjon 21. desember 1965 om avskaffelse av alle former for rasediskrimineringDe forente nasjoners internasjonale konvensjon 13. desember 2006 om rettighetene til mennesker med nedsatt funksjonsevne
+Ombudet skal føre tilsyn med at norsk rett og forvaltningspraksis samsvarer med forpliktelsene Norge har etter:
+
+1. De forente nasjoners internasjonale konvensjon 18. desember 1979 om avskaffelse av alle former for diskriminering av kvinner
+2. De forente nasjoners internasjonale konvensjon 21. desember 1965 om avskaffelse av alle former for rasediskriminering
+3. De forente nasjoners internasjonale konvensjon 13. desember 2006 om rettighetene til mennesker med nedsatt funksjonsevne
 
 Ombudet skal følge opp aktivitets- og redegjørelsesplikten etter [likestillings- og diskrimineringsloven §§ 24](lov/2017-06-16-51/§24), [25](lov/2017-06-16-51/§25), [26](lov/2017-06-16-51/§26) og [26 a](lov/2017-06-16-51/§26a), samt rapporteringsplikten om likestilling og ikke-diskriminering etter [regnskapsloven § 3-3 c](lov/1998-07-17-56/§3-3c).1 Ombudets oppfølging kan blant annet innebære at ombudet og arbeidsgiver utarbeider en felles tilnærming til hvordan aktivitetsplikten følges opp i virksomheten. Ombudet kan videre gjennomgå likestillingsredegjørelsene, analysere funnene og komme med et forslag til forbedringstiltak og styrket innsats på likestillingsarbeidet i virksomheten. Ombudet kan også gjennomføre oppfølgingsbesøk i virksomhetene.
 
@@ -109,7 +136,15 @@ Sakene i nemnda forberedes av et sekretariat. Sekretariatets leder ansettes av d
 
 ### § 7. Nemndas ansvarsområde
 
-Nemnda skal håndheve bestemmelsene nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, med unntak av følgende bestemmelser i [likestillings- og diskrimineringsloven](lov/2017-06-16-51):[§ 24](lov/2017-06-16-51/§24) om offentlige myndigheters aktivitets- og redegjørelsesplikt[§ 25](lov/2017-06-16-51/§25) om arbeidslivets organisasjoners plikt til å arbeide for likestilling[§ 26](lov/2017-06-16-51/§26) om arbeidsgivers aktivitetsplikt[§ 26 b](lov/2017-06-16-51/§26b) om arbeidsgivers opplysningsplikt om likestillingsarbeid[§ 28](lov/2017-06-16-51/§28) om kjønnsbalanse i offentlige utvalg mv.[§ 32](lov/2017-06-16-51/§32) annet ledd om behandling av lønnsopplysninger[§ 39](lov/2017-06-16-51/§39) om straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap.
+Nemnda skal håndheve bestemmelsene nevnt i [§ 1](lov/2017-06-16-50/§1) annet og fjerde ledd, med unntak av følgende bestemmelser i [likestillings- og diskrimineringsloven](lov/2017-06-16-51):
+
+1. [§ 24](lov/2017-06-16-51/§24) om offentlige myndigheters aktivitets- og redegjørelsesplikt
+2. [§ 25](lov/2017-06-16-51/§25) om arbeidslivets organisasjoners plikt til å arbeide for likestilling
+3. [§ 26](lov/2017-06-16-51/§26) om arbeidsgivers aktivitetsplikt
+4. [§ 26 b](lov/2017-06-16-51/§26b) om arbeidsgivers opplysningsplikt om likestillingsarbeid
+5. [§ 28](lov/2017-06-16-51/§28) om kjønnsbalanse i offentlige utvalg mv.
+6. [§ 32](lov/2017-06-16-51/§32) annet ledd om behandling av lønnsopplysninger
+7. [§ 39](lov/2017-06-16-51/§39) om straff for grov overtredelse av diskrimineringsforbudet som er begått av flere i fellesskap.
 
 Diskrimineringsnemnda skal ikke håndheve [likestillings- og diskrimineringslovens](lov/2017-06-16-51) forbud mot diskriminering, trakassering og seksuell trakassering i familieliv og andre rent personlige forhold.
 
@@ -129,7 +164,12 @@ Saksbehandlingen i nemnda er skriftlig. Nemnda skal vurdere om det av hensyn til
 
 ### § 10. Avvisning og henleggelse
 
-Nemnda skal avvise en sak:som er avgjort av en domstol eller brakt inn for en domstol til avgjørelsedersom vilkårene for å behandle saken ikke er oppfyltsom er under etterforskning av påtalemyndighetendersom fornærmede i saken er anmeldt for uriktig forklaring.
+Nemnda skal avvise en sak:
+
+1. som er avgjort av en domstol eller brakt inn for en domstol til avgjørelse
+2. dersom vilkårene for å behandle saken ikke er oppfylt
+3. som er under etterforskning av påtalemyndigheten
+4. dersom fornærmede i saken er anmeldt for uriktig forklaring.
 
 Nemnda kan avvise en sak hvis saksforholdet ligger mer enn tre år tilbake i tid.
 
@@ -219,9 +259,17 @@ Påtalemyndigheten kan i forbindelse med straffesaken kreve dom for tiltak for �
 
 ### § 20. Gjenåpning
 
-Nemndas rettskraftige vedtak og beslutninger kan gjenåpnes etter begjæring fra en part. Saken kan gjenåpnes dersomdet foreligger brudd på habilitetskrav i [forvaltningsloven § 6](lov/1967-02-10/§6)det foreligger andre saksbehandlingsfeil og det ikke kan utelukkes at feilen var bestemmende for avgjørelsens innholdopplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at avgjørelsen høyst sannsynlig ville blitt en annen.
+Nemndas rettskraftige vedtak og beslutninger kan gjenåpnes etter begjæring fra en part. Saken kan gjenåpnes dersom
 
-Saken kan ikke gjenåpnesav en grunn som ble forkastet ved sakens behandlingav en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskningdersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten.
+1. det foreligger brudd på habilitetskrav i [forvaltningsloven § 6](lov/1967-02-10/§6)
+2. det foreligger andre saksbehandlingsfeil og det ikke kan utelukkes at feilen var bestemmende for avgjørelsens innhold
+3. opplysninger om faktiske forhold som var ukjent da saken ble avgjort, tilsier at avgjørelsen høyst sannsynlig ville blitt en annen.
+
+Saken kan ikke gjenåpnes
+
+1. av en grunn som ble forkastet ved sakens behandling
+2. av en grunn som parten burde ha gjort gjeldende under sakens ordinære behandling, ved søksmål til tingretten eller ved begjæring om oppfriskning
+3. dersom det er rimelig sannsynlighetsovervekt for at en ny behandling av saken ikke vil lede til en endring av betydning for parten.
 
 Vedtak om gjenåpning treffes av nemndleder.
 

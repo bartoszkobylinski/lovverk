@@ -15,7 +15,7 @@ xml_hash: "74489d89488a35da337606d838afb9f1ca804a4a26ea6e9c0d13055f9d132561"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,11 @@ Medisinsk fødselsregister kan uten samtykke inneholde følgende opplysninger om
 
 [§ 1-7](forskrift/2001-12-21-1483/§1-7) andre ledd skal lyde:
 
-Medisinsk fødselsregister kan, hvis kvinnen ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Medisinsk fødselsregister, inneholde opplysninger om kvinnens:yrkesmessige forhold,tobakks- og nikotinbruk,bruk av alkohol og andre rusmidler i svangerskapet.
+Medisinsk fødselsregister kan, hvis kvinnen ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Medisinsk fødselsregister, inneholde opplysninger om kvinnens:
+
+1. yrkesmessige forhold,
+2. tobakks- og nikotinbruk,
+3. bruk av alkohol og andre rusmidler i svangerskapet.
 
 > Endret ved forskrift [21 juni 2024 nr. 1104](forskrift/2024-06-21-1104) (i kraft 1 juli 2024).
 
@@ -66,7 +70,10 @@ Navn, fødselsnummer og andre direkte personidentifiserende opplysninger kan, i 
 
 [§ 1-10](forskrift/2001-12-21-1483/§1-10) andre ledd blir nytt tredje ledd og skal lyde:
 
-Etter samtykke kan Medisinsk fødselsregister dessuten inneholde opplysninger om farens eller medmorsyrkesmessige forhold,bruk av alkohol, tobakk, nikotin og andre rusmidler.
+Etter samtykke kan Medisinsk fødselsregister dessuten inneholde opplysninger om farens eller medmors
+
+1. yrkesmessige forhold,
+2. bruk av alkohol, tobakk, nikotin og andre rusmidler.
 
 [§ 2-1](forskrift/2001-12-21-1483/§2-1) første ledd andre punktum skal lyde:
 

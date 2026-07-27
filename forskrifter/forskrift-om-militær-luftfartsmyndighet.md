@@ -42,7 +42,13 @@ Hvert enkelt luftfartøy skal være identifiserbart ved at de siste siffer i ser
 
 ## § 4.
 
-Den militære luftfartsmyndighet skal med hensyn til luftdyktighet og bemanning fastsette regler om blant annet:Krav til bemanning av militære luftfartøy og tjenesten ombord. Ved all militær flyging skal det beskikkes en fartøysjef.Krav til besetningsmedlemmer på militære luftfartøy.Krav til militært personell, eller sivilt personell i militær funksjon som utøver luftovervåkning og kontroll og ledelse av militære luftfartøy.Krav til militære luftfartøy med hensyn til luftdyktighet.Krav til kommando og kontroll ved utøvelse av militær luftmakt.
+Den militære luftfartsmyndighet skal med hensyn til luftdyktighet og bemanning fastsette regler om blant annet:
+
+1. Krav til bemanning av militære luftfartøy og tjenesten ombord. Ved all militær flyging skal det beskikkes en fartøysjef.
+2. Krav til besetningsmedlemmer på militære luftfartøy.
+3. Krav til militært personell, eller sivilt personell i militær funksjon som utøver luftovervåkning og kontroll og ledelse av militære luftfartøy.
+4. Krav til militære luftfartøy med hensyn til luftdyktighet.
+5. Krav til kommando og kontroll ved utøvelse av militær luftmakt.
 
 Den militære luftfartsmyndighet kan fastsette regler om sertifisering av annet personell knyttet til militær luftfart.
 

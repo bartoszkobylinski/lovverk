@@ -15,7 +15,7 @@ xml_hash: "09037f2a460d99626b1243e047e1f5c7aeac1f74f7d5d61f72e57740b8bad8d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,11 +24,17 @@ eu_basis: []
 
 ## § 1. Generelt forbud
 
-Det er forbudt for norske fartøy å fiske og lande reker i følgende områder fra 1. juli 2026–30. juni 2027:I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje mellom Hanstholmen fyr og Lindesnes fyr.I Skagerrak, det vil si avgrenset mot vest av en rett linje gjennom Hanstholmen fyr til Lindesnes fyr og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor 4 nautiske mil av de danske og svenske grunnlinjene.
+Det er forbudt for norske fartøy å fiske og lande reker i følgende områder fra 1. juli 2026–30. juni 2027:
+
+1. I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje mellom Hanstholmen fyr og Lindesnes fyr.
+2. I Skagerrak, det vil si avgrenset mot vest av en rett linje gjennom Hanstholmen fyr til Lindesnes fyr og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor 4 nautiske mil av de danske og svenske grunnlinjene.
 
 ## § 2. Totalkvoter
 
-Uten hinder av forbudet i [§ 1](forskrift/2026-06-30-1456/§1) kan norske fartøy med adgang til å delta, fiske og lande inntil:1 211 tonn reker i Nordsjøen.1 504 tonn reker i Skagerrak.
+Uten hinder av forbudet i [§ 1](forskrift/2026-06-30-1456/§1) kan norske fartøy med adgang til å delta, fiske og lande inntil:
+
+1. 1 211 tonn reker i Nordsjøen.
+2. 1 504 tonn reker i Skagerrak.
 
 ## § 3. Periodisering
 

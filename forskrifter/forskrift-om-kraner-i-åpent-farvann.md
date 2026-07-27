@@ -15,7 +15,7 @@ xml_hash: "72d19f9fff4bebc6c20943371c4c2f34d4440cb27cc31860301d0587811b8f12"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,28 @@ eu_basis: []
 
 ## § 1. Definisjoner
 
-I denne forskriften betyr:«*Rederiet»:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.«*Løst utstyr til kraner»:* Kjettinger, sjakler, ringer, kroker, svivler, trommelfester, plateklyper, blokker, lastepaller, ståltau, taustropper mv. som ikke hører med til det faste krantilbehør.«*Sakkyndig person»:* Person med kvalifikasjoner til å foreta beregning, konstruksjon, kontroll, prøving og sertifisering av løfteredskap og kraner med tilhørende utstyr som skal anvendes på flyttbare innretninger. Sjøfartsdirektoratet bestemmer om en person skal anses som tilstrekkelig kvalifisert til å betegnes som sakkyndig person, jf. de til enhver tid gjeldende forskrifter om laste- og losseinnretninger på skip.«*Grundig undersøkelse»:* Undersøkelse som gir et pålitelig grunnlag for å bedømme sikkerheten til det som er undersøkt. Grundig undersøkelse skal om nødvendig suppleres med prøving og demontering.«*Anerkjent klasseinstitusjon»:* klasseinstitusjoner som departementet har inngått overenskomst med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41).«*Anerkjent standard»:* Standard som er utgitt av NS/BS/ISO/API/CEN/IEC eller andre standarder, eventuelt regelverk, som for et bestemt anvendelsesområde er nasjonalt og/eller internasjonalt anerkjent. Sjøfartsdirektoratet vil i hvert enkelt tilfelle kunne bestemme hvilken standard som kan anerkjennes.«*Sertifisert»:*Vedrørende utstyr og materialer: Utstyr som tilfredsstiller angitte krav, eller materialer som er i henhold til anerkjent standard, og som er sertifisert, godkjent eller typegodkjent av:teknisk kontrollorganakkreditert sertifiseringsorgananerkjent klasseinstitusjonannen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet, elleradministrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen ([SOLAS).](traktat/1974-11-01-1)Vedrørende arbeidsutførelse: personell som i henhold til regelkrav skal ha spesielle kvalifikasjoner for å utføre bestemte arbeidsoppgaver, og som er sertifisert av:anerkjent klasseinstitusjonakkreditert sertifiseringsorgan, ellerannen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet.
+I denne forskriften betyr:
+
+1. «*Rederiet»:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.
+2. «*Løst utstyr til kraner»:* Kjettinger, sjakler, ringer, kroker, svivler, trommelfester, plateklyper, blokker, lastepaller, ståltau, taustropper mv. som ikke hører med til det faste krantilbehør.
+3. «*Sakkyndig person»:* Person med kvalifikasjoner til å foreta beregning, konstruksjon, kontroll, prøving og sertifisering av løfteredskap og kraner med tilhørende utstyr som skal anvendes på flyttbare innretninger. Sjøfartsdirektoratet bestemmer om en person skal anses som tilstrekkelig kvalifisert til å betegnes som sakkyndig person, jf. de til enhver tid gjeldende forskrifter om laste- og losseinnretninger på skip.
+4. «*Grundig undersøkelse»:* Undersøkelse som gir et pålitelig grunnlag for å bedømme sikkerheten til det som er undersøkt. Grundig undersøkelse skal om nødvendig suppleres med prøving og demontering.
+5. «*Anerkjent klasseinstitusjon»:* klasseinstitusjoner som departementet har inngått overenskomst med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41).
+6. «*Anerkjent standard»:* Standard som er utgitt av NS/BS/ISO/API/CEN/IEC eller andre standarder, eventuelt regelverk, som for et bestemt anvendelsesområde er nasjonalt og/eller internasjonalt anerkjent. Sjøfartsdirektoratet vil i hvert enkelt tilfelle kunne bestemme hvilken standard som kan anerkjennes.
+7. «*Sertifisert»:*
+
+   1. Vedrørende utstyr og materialer: Utstyr som tilfredsstiller angitte krav, eller materialer som er i henhold til anerkjent standard, og som er sertifisert, godkjent eller typegodkjent av:
+
+      - teknisk kontrollorgan
+      - akkreditert sertifiseringsorgan
+      - anerkjent klasseinstitusjon
+      - annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet, eller
+      - administrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen ([SOLAS).](traktat/1974-11-01-1)
+   2. Vedrørende arbeidsutførelse: personell som i henhold til regelkrav skal ha spesielle kvalifikasjoner for å utføre bestemte arbeidsoppgaver, og som er sertifisert av:
+
+      - anerkjent klasseinstitusjon
+      - akkreditert sertifiseringsorgan, eller
+      - annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet.
 
 > Endret ved [forskrifter 2 mars 1999 nr. 398](forskrift/1999-03-02-398) (i kraft 1 sept 1999), [11 april 2003 nr. 494](forskrift/2003-04-11-494) (i kraft 1 juli 2003), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [18 jan 2011 nr. 56](forskrift/2011-01-18-56), [19 des 2013 nr. 1659](forskrift/2013-12-19-1659) (i kraft 1 jan 2014).
 
@@ -73,7 +94,11 @@ Kraner skal beregnes for drift med maksimal kapasitet med slagside på minst 5°
 
 2.2.
 
-Med bommen i stuet posisjon, skal kraner beregnes for en krengning på minst 35 grader, og en periode i sekunder på:T = 0,8 x B/kvadratroten av GMB = Skipets bredde i meterGM = Metasenter høyde i meter for de aktuelle lasteforhold.
+Med bommen i stuet posisjon, skal kraner beregnes for en krengning på minst 35 grader, og en periode i sekunder på:
+
+- T = 0,8 x B/kvadratroten av GM
+- B = Skipets bredde i meter
+- GM = Metasenter høyde i meter for de aktuelle lasteforhold.
 
 Om ikke gunstigere bevegelseskarakteristikk kan dokumenteres, skal alle kraner som i stuet posisjon er utsatt for vind dessuten beregnes for en konstant vindhastighet på 50 m pr. sekund.
 
@@ -118,7 +143,9 @@ Sertifisert ståltau\* skal tilfredsstille en anerkjent standard, passe til diam
 |  | Over 25 metriske tonn,<br>men ikke over 60 tonn | 4,5 –((SWL – 25)/70 |
 |  | Over 60 metriske tonn | 4,0 |
 
-\* For ståltau til løftestropper jfr. [§ 6](forskrift/1986-01-13-31/§6), pkt. 3.\*\* SWL = «Safe Working Load» (tillatt arbeidsbelastning) på krankroken
+\* For ståltau til løftestropper jfr. [§ 6](forskrift/1986-01-13-31/§6), pkt. 3.
+
+\*\* SWL = «Safe Working Load» (tillatt arbeidsbelastning) på krankroken
 
 Faktoren aksepteres redusert ned til 4 for ståltau brukt i forbindelse med kroker med en SWL på 20 metriske tonn og derover hvis innvirkningen av alle bevegelser (jf. [§ 4](forskrift/1986-01-13-31/§4) nr. 1.1) er beregnet og kranens SWL i hvert enkelt tilfelle blir redusert for virkningene av denne bevegelse. Nødvendige opplysninger skal da tas inn i kranhåndboken.
 
@@ -382,7 +409,11 @@ Det skal sørges for anordninger som sikrer at ingen kontrollspak, reguleringskn
 
 > Endret ved [forskrifter 28 jan 1997 nr. 121](forskrift/1997-01-28-121) (i kraft 1 jan 1998), 2 mars 1999 (i kraft 1 sept 1999), [11 april 2003 nr. 494](forskrift/2003-04-11-494) (i kraft 1 juli 2003), [19 des 2013 nr. 1659](forskrift/2013-12-19-1659) (i kraft 1 jan 2014).
 
-1 Fastsatt 4. september 1987.2 Endret 28. januar 1997.3 Jf. [forskrift av 4. september 1987 nr. 856](forskrift/1987-09-04-856) om bygging av flyttbare innretninger og [forskrift av 4. september 1987 nr. 859](forskrift/1987-09-04-859) om verne-, miljø- og sikkerhetstiltak på flyttbare innretninger.
+1 Fastsatt 4. september 1987.
+
+2 Endret 28. januar 1997.
+
+3 Jf. [forskrift av 4. september 1987 nr. 856](forskrift/1987-09-04-856) om bygging av flyttbare innretninger og [forskrift av 4. september 1987 nr. 859](forskrift/1987-09-04-859) om verne-, miljø- og sikkerhetstiltak på flyttbare innretninger.
 
 ## § 5. Spesielle sikkerhetsinnretninger
 
@@ -550,7 +581,12 @@ For hver kran skal en kranhåndbok utarbeides og oppbevares om bord. Som et mini
 
 ## § 9. Skilt
 
-Kraner skal ha leselige skilt med følgende spesifikasjoner:Nødvendige skilt for sikker drift av kranen.Produsent, produksjonsdato, produksjonsnummer og type.Leverandør.Sikker arbeidsbelastning ved to forskjellige radier.
+Kraner skal ha leselige skilt med følgende spesifikasjoner:
+
+1. Nødvendige skilt for sikker drift av kranen.
+2. Produsent, produksjonsdato, produksjonsnummer og type.
+3. Leverandør.
+4. Sikker arbeidsbelastning ved to forskjellige radier.
 
 ## § 10. Spesialverktøy
 
@@ -650,7 +686,15 @@ Før det første gang blir tatt i bruk eller etter at det er blitt forstrukket, 
 | Ståltau3 |  | Bruddlast |
 | Løfteåk o.l.4 |  | 2,0 x SWL |
 
-1 For flerskivede blokker er tillatt arbeidslast (SWL) lik resultantbelastning i blokkøyet. Se også [§ 12](forskrift/1986-01-13-31/§12) pkt. 2.2 For enskivet blokk med eller uten hundsvott kan prøvelasten reduseres i henhold til ovenstående tabell når resultantbelastning i blokkøyet overstiger 25 tonn.3 En prøve skal tas av hver lengde og dimensjon som produseres. Hvis det ikke er mulig å prøve et helt stykke, kan tråder eller kordeler prøves til brudd og styrken beregnes.4 Løfteåk o.l. med tillatt arbeidsbelastning over 20 tonn kan prøves sammen med laste- og losseinnretninger.5 SWL er lik maksimalt tillatt belastning i ståltauet når skiven brukes som enkel lasteblokk uten hundsvott.
+1 For flerskivede blokker er tillatt arbeidslast (SWL) lik resultantbelastning i blokkøyet. Se også [§ 12](forskrift/1986-01-13-31/§12) pkt. 2.
+
+2 For enskivet blokk med eller uten hundsvott kan prøvelasten reduseres i henhold til ovenstående tabell når resultantbelastning i blokkøyet overstiger 25 tonn.
+
+3 En prøve skal tas av hver lengde og dimensjon som produseres. Hvis det ikke er mulig å prøve et helt stykke, kan tråder eller kordeler prøves til brudd og styrken beregnes.
+
+4 Løfteåk o.l. med tillatt arbeidsbelastning over 20 tonn kan prøves sammen med laste- og losseinnretninger.
+
+5 SWL er lik maksimalt tillatt belastning i ståltauet når skiven brukes som enkel lasteblokk uten hundsvott.
 
 2.2.*Undersøkelse.*
 

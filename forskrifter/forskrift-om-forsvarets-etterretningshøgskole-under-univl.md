@@ -38,7 +38,25 @@ Der loven gir myndighet til styret eller rektor, forstås i denne forskrift skol
 
 ### § 3. Bestemmelser som skal gjelde for Forsvarets etterretningshøgskole
 
-Følgende bestemmelser i [lov 1. april 2005 nr. 15](lov/2005-04-01-15) om universiteter og høyskoler skal gjelde for Forsvarets etterretningshøgskole:Kapittel 1, § 1-1 til § 1-7. § 1-5 tredje ledd bokstav b gjelder kun ved ansettelse eller utnevnelse av sivilt akademisk personell. For militært personell gjelder eksisterende tilsettings- og forvaltningsbestemmelser.Kapittel 2, § 2-1 og § 2-2.Kapittel 3, § 3-1 til § 3-6, § 3-8, § 3-9 og § 3-11.Kapittel 4, § 4-1 til § 4-3, § 4-4 og § 4-7.Kapittel 5, § 5-2 og § 5-3.Kapittel 6, § 6-1 til § 6-7. Reglene i § 6-3 til § 6-6 gjelder med de tilpasninger som følger av gjeldende tilsettings- og forvaltningsregler for sivilt og militært personell.Kapittel 7, § 7-6 gjelder med de begrensninger som er angitt i denne forskrifts [§ 3](forskrift/2005-12-16-1575/§3).Kapittel 11, § 11-1 til § 11-3. Reglene gjelder med de tilpasninger som følger av gjeldene tilsettings- og forvaltningsregler for sivilt og militært personell.Kapittel 12, § 12-1 og § 12-2.
+Følgende bestemmelser i [lov 1. april 2005 nr. 15](lov/2005-04-01-15) om universiteter og høyskoler skal gjelde for Forsvarets etterretningshøgskole:
+
+Kapittel 1, § 1-1 til § 1-7. § 1-5 tredje ledd bokstav b gjelder kun ved ansettelse eller utnevnelse av sivilt akademisk personell. For militært personell gjelder eksisterende tilsettings- og forvaltningsbestemmelser.
+
+Kapittel 2, § 2-1 og § 2-2.
+
+Kapittel 3, § 3-1 til § 3-6, § 3-8, § 3-9 og § 3-11.
+
+Kapittel 4, § 4-1 til § 4-3, § 4-4 og § 4-7.
+
+Kapittel 5, § 5-2 og § 5-3.
+
+Kapittel 6, § 6-1 til § 6-7. Reglene i § 6-3 til § 6-6 gjelder med de tilpasninger som følger av gjeldende tilsettings- og forvaltningsregler for sivilt og militært personell.
+
+Kapittel 7, § 7-6 gjelder med de begrensninger som er angitt i denne forskrifts [§ 3](forskrift/2005-12-16-1575/§3).
+
+Kapittel 11, § 11-1 til § 11-3. Reglene gjelder med de tilpasninger som følger av gjeldene tilsettings- og forvaltningsregler for sivilt og militært personell.
+
+Kapittel 12, § 12-1 og § 12-2.
 
 > Endret ved [forskrifter 30 jan 2009 nr. 101](forskrift/2009-01-30-101), [20 aug 2013 nr. 1004](forskrift/2013-08-20-1004), [22 des 2017 nr. 2388](forskrift/2017-12-22-2388) (i kraft 1 jan 2018).
 

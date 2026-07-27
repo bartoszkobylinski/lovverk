@@ -30,19 +30,42 @@ Forskriftens formål er å sikre at offentlig anskaffelse av kjøretøy bidrar t
 
 Forskriften gjelder kontrakter for alle anskaffelser av kjøretøy til veitransport. Dette omfatter blant annet kjøp, avbetalingskjøp, leasing og leie av kjøretøy både ved inngåelse eller fornyelse av rammeavtale og ved avrop på eksisterende rammeavtale.
 
-Forskriften gjelder anskaffelser som foretas av:offentlig oppdragsgiver omfattet av [forskrift 12. august 2016 nr. 974 om offentlige anskaffelser (anskaffelsesforskriften)](forskrift/2016-08-12-974) og [forskrift 12. august 2016 nr. 975 om innkjøpsregler i forsyningssektorene (forsyningsforskriften)](forskrift/2016-08-12-975).operatør med løyve for persontransport etter [lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova)](lov/2002-06-21-45), eller med løyvefritak etter samme lov, som skal oppfylle offentlig tjenesteplikt i henhold til [forskrift 17. desember 2010 nr. 1673 om gjennomføring i norsk rett av EØS-avtalen vedlegg XIII nr. 4a (forordning (EF) nr. 1370/2007) om offentlig persontransport med jernbane og på vei og om oppheving av rådsforordning (EØF) nr. 1191/69 og nr. 1107/70](forskrift/2010-12-17-1673).underleverandør til operatør nevnt i bokstav b.
+Forskriften gjelder anskaffelser som foretas av:
 
-Forskriften gjelder ikke kontrakter ved anskaffelse av:kjøretøy som er produsert og konstruert for bruk hovedsakelig på bygge- og anleggsplasser, steinbrudd, havneanlegg og flyplasser.kjøretøy som er produsert og konstruert for bruk av Forsvaret, Sivilforsvaret, tolletaten, brannvesen og politi.spesialtilpasset kjøretøy til personer med nedsatt funksjonsevne iht. NAVs regler om slik ytelse.spesialkjøretøy i gruppe M1, jf. [forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger til bil (bilforskriften)](forskrift/2022-06-28-1233), slik de er angitt i forordning [(EU) 2018/858](eu/32018r0858) vedlegg II del III, som for eksempel pansret kjøretøy, ambulanse, kjøretøy tilpasset rullestol og mobilkran (kjøretøy gruppe N3).kjøretøy til løyvepliktig drosjetransport.
+1. offentlig oppdragsgiver omfattet av [forskrift 12. august 2016 nr. 974 om offentlige anskaffelser (anskaffelsesforskriften)](forskrift/2016-08-12-974) og [forskrift 12. august 2016 nr. 975 om innkjøpsregler i forsyningssektorene (forsyningsforskriften)](forskrift/2016-08-12-975).
+2. operatør med løyve for persontransport etter [lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova)](lov/2002-06-21-45), eller med løyvefritak etter samme lov, som skal oppfylle offentlig tjenesteplikt i henhold til [forskrift 17. desember 2010 nr. 1673 om gjennomføring i norsk rett av EØS-avtalen vedlegg XIII nr. 4a (forordning (EF) nr. 1370/2007) om offentlig persontransport med jernbane og på vei og om oppheving av rådsforordning (EØF) nr. 1191/69 og nr. 1107/70](forskrift/2010-12-17-1673).
+3. underleverandør til operatør nevnt i bokstav b.
+
+Forskriften gjelder ikke kontrakter ved anskaffelse av:
+
+1. kjøretøy som er produsert og konstruert for bruk hovedsakelig på bygge- og anleggsplasser, steinbrudd, havneanlegg og flyplasser.
+2. kjøretøy som er produsert og konstruert for bruk av Forsvaret, Sivilforsvaret, tolletaten, brannvesen og politi.
+3. spesialtilpasset kjøretøy til personer med nedsatt funksjonsevne iht. NAVs regler om slik ytelse.
+4. spesialkjøretøy i gruppe M1, jf. [forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger til bil (bilforskriften)](forskrift/2022-06-28-1233), slik de er angitt i forordning [(EU) 2018/858](eu/32018r0858) vedlegg II del III, som for eksempel pansret kjøretøy, ambulanse, kjøretøy tilpasset rullestol og mobilkran (kjøretøy gruppe N3).
+5. kjøretøy til løyvepliktig drosjetransport.
 
 ## § 3. Miljøkrav
 
-Offentlig oppdragsgiver, operatør og deres underleverandører som nevnt i [§ 2 annet ledd](forskrift/2022-12-20-2384/§2/ledd/2) skal stille følgende miljøkrav ved anskaffelse av:Personbil (M1): 0 g CO2/kmVarebil (N1-I, N1-II og N1-III): 0 g CO2/kmBuss (M2 og M3): Euro VIBuss (M3 klasse I): 0 g CO2/kmBuss (M3 klasse II) og minibuss (M2) med ståplasser: 0 g CO2/kmLastebil (N2 og N3): Euro VI.
+Offentlig oppdragsgiver, operatør og deres underleverandører som nevnt i [§ 2 annet ledd](forskrift/2022-12-20-2384/§2/ledd/2) skal stille følgende miljøkrav ved anskaffelse av:
+
+1. Personbil (M1): 0 g CO2/km
+2. Varebil (N1-I, N1-II og N1-III): 0 g CO2/km
+3. Buss (M2 og M3): Euro VI
+4. Buss (M3 klasse I): 0 g CO2/km
+5. Buss (M3 klasse II) og minibuss (M2) med ståplasser: 0 g CO2/km
+6. Lastebil (N2 og N3): Euro VI.
 
 > Endret ved forskrift [19 des 2023 nr. 2159](forskrift/2023-12-19-2159).
 
 ## § 4. Unntak fra miljøkrav
 
-Offentlig oppdragsgiver og operatør og deres underleverandører kan fravike miljøkrav i [§ 3](forskrift/2022-12-20-2384/§3) dersom:primærbehovet for anskaffelsen ikke kan dekkes ved kjøretøy som definert i [§ 3](forskrift/2022-12-20-2384/§3)tilstrekkelig ladeinfrastruktur ikke er tilgjengeligbuss som bruker biogassbehovet skal dekkes ved anskaffelse av brukt kjøretøy og markedet ikke kan tilby brukt kjøretøy som oppfyller kravene i [§ 3](forskrift/2022-12-20-2384/§3)virksomheten er bundet av en rammeavtale inngått før forskriftens ikrafttredelse som hindrer dem i å anskaffe kjøretøy som oppfyller kravene i [§ 3](forskrift/2022-12-20-2384/§3).
+Offentlig oppdragsgiver og operatør og deres underleverandører kan fravike miljøkrav i [§ 3](forskrift/2022-12-20-2384/§3) dersom:
+
+1. primærbehovet for anskaffelsen ikke kan dekkes ved kjøretøy som definert i [§ 3](forskrift/2022-12-20-2384/§3)
+2. tilstrekkelig ladeinfrastruktur ikke er tilgjengelig
+3. buss som bruker biogass
+4. behovet skal dekkes ved anskaffelse av brukt kjøretøy og markedet ikke kan tilby brukt kjøretøy som oppfyller kravene i [§ 3](forskrift/2022-12-20-2384/§3)
+5. virksomheten er bundet av en rammeavtale inngått før forskriftens ikrafttredelse som hindrer dem i å anskaffe kjøretøy som oppfyller kravene i [§ 3](forskrift/2022-12-20-2384/§3).
 
 Anskaffelse av kjøretøy som ikke kan oppfylle miljøkrav i [§ 3](forskrift/2022-12-20-2384/§3), skal uansett ha lavest mulig CO2 utslipp og muligheten for bruk av biogass kan vurderes.
 

@@ -15,7 +15,7 @@ xml_hash: "3f8e12e89691ced8207680ee20972cd28136574309146db8b1563664f1859c6f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,15 @@ Målgruppen for aktiviteter er sosialt og økonomisk vanskeligstilte over 16 år
 
 Prosjekter og aktiviteter som får tilskudd skal støtte opp under målene for tilskuddsordningen.
 
-Følgende kriterier legges til grunn for å belyse måloppnåelse for ordningen som helhet:Etablering av tilbud om lavterskel arbeidsrettede aktiviteter for målgruppen.Flere i målgruppen har deltatt i lavterskel arbeidsrettet aktivitet.Flere i målgruppen har kommet ut i ordinært arbeid, skole/utdanning, eller andre arbeidsrettede tiltak.Det er etablert samarbeid med kommunen og/eller Nav-kontor.Kunnskap og erfaringer fra aktivitetene er delt.Flere i målgruppen opplever positiv endring i egen livssituasjon, herunder økt mestring, motivasjon og tro på egne muligheter.Det er lagt til rette for brukermedvirkning i planlegging, gjennomføring og løpende evaluering av aktivitetene.
+Følgende kriterier legges til grunn for å belyse måloppnåelse for ordningen som helhet:
+
+- Etablering av tilbud om lavterskel arbeidsrettede aktiviteter for målgruppen.
+- Flere i målgruppen har deltatt i lavterskel arbeidsrettet aktivitet.
+- Flere i målgruppen har kommet ut i ordinært arbeid, skole/utdanning, eller andre arbeidsrettede tiltak.
+- Det er etablert samarbeid med kommunen og/eller Nav-kontor.
+- Kunnskap og erfaringer fra aktivitetene er delt.
+- Flere i målgruppen opplever positiv endring i egen livssituasjon, herunder økt mestring, motivasjon og tro på egne muligheter.
+- Det er lagt til rette for brukermedvirkning i planlegging, gjennomføring og løpende evaluering av aktivitetene.
 
 Arbeids- og velferdsdirektoratet rapporterer til Arbeids- og inkluderingsdepartementet på måloppnåelse for tilskuddsordningen.
 
@@ -92,7 +100,15 @@ For ufullstendige søknader, kan Arbeids- og velferdsetaten sette en rimelig fri
 
 ## § 4-3. Hvordan søknaden blir vurdert og tilskuddsbeløp fastsatt
 
-Arbeids- og velferdsetaten avgjør om det skal gis tilskudd etter en skjønnsmessig vurdering av søknaden opp mot målene for tilskuddsordningen, herunder:I hvilken grad prosjektet dekker lokale eller regionale behov for lavterskel arbeidsrettede aktiviteter for målgruppen.I hvilken grad prosjektet bidrar til økt samarbeid med kommunen og/eller Nav-kontor.Om aktivitetene inngår i et helhetlig tjenestetilbud til deltakerne.Plan for videreføring av aktivitetene etter perioden med tilskudd.Søkers økonomiske, faglige og praktiske evne til å gjennomføre aktivitetene, herunder søkers kompetanse om og erfaring fra arbeid med målgruppen.Om prosjektet legger til rette for brukermedvirkning, i planleggingen, gjennomføringen, og løpende evaluering av aktivitetene.Planer om hvordan kunnskap og erfaringer fra aktivitetene skal deles.
+Arbeids- og velferdsetaten avgjør om det skal gis tilskudd etter en skjønnsmessig vurdering av søknaden opp mot målene for tilskuddsordningen, herunder:
+
+1. I hvilken grad prosjektet dekker lokale eller regionale behov for lavterskel arbeidsrettede aktiviteter for målgruppen.
+2. I hvilken grad prosjektet bidrar til økt samarbeid med kommunen og/eller Nav-kontor.
+3. Om aktivitetene inngår i et helhetlig tjenestetilbud til deltakerne.
+4. Plan for videreføring av aktivitetene etter perioden med tilskudd.
+5. Søkers økonomiske, faglige og praktiske evne til å gjennomføre aktivitetene, herunder søkers kompetanse om og erfaring fra arbeid med målgruppen.
+6. Om prosjektet legger til rette for brukermedvirkning, i planleggingen, gjennomføringen, og løpende evaluering av aktivitetene.
+7. Planer om hvordan kunnskap og erfaringer fra aktivitetene skal deles.
 
 Arbeids- og velferdsetaten står fritt til å utøve skjønn innenfor rammen av forskriften og budsjettrammen for ordningen, herunder foreta en samlet prioritering og utvelgelse blant søknadene.
 
@@ -114,7 +130,14 @@ Det kan klages over vedtaket i henhold til [forvaltningsloven kapittel VI](lov/1
 
 ## § 5-1. Vilkår i tilskuddsbrev
 
-Arbeids- og velferdsetaten kan i vedtaket om tilskudd – tilskuddsbrevet – stille vilkår til tilskuddsmottaker. Vilkårene kan blant annet gjelde:vilkår som må være oppfylt før tilskudd kan utbetaleskrav til regnskapsføring, regnskap mv.krav til annen rapportering, herunder tidspunkt, form og innhold i rapporteringenkrav til supplerende informasjon eller dokumentasjon som er relevant, for eksempel som del av en ekstern evaluering mv.plikt til å opplyse om vesentlige endringer i aktivitetene som tilskuddet skal finansiere, eller brudd på øvrige vilkår for tilskuddetsærlige reaksjoner dersom tilskuddsmottaker ikke opptrer i samsvar med betingelsene og vilkårene for tilskuddet.
+Arbeids- og velferdsetaten kan i vedtaket om tilskudd – tilskuddsbrevet – stille vilkår til tilskuddsmottaker. Vilkårene kan blant annet gjelde:
+
+1. vilkår som må være oppfylt før tilskudd kan utbetales
+2. krav til regnskapsføring, regnskap mv.
+3. krav til annen rapportering, herunder tidspunkt, form og innhold i rapporteringen
+4. krav til supplerende informasjon eller dokumentasjon som er relevant, for eksempel som del av en ekstern evaluering mv.
+5. plikt til å opplyse om vesentlige endringer i aktivitetene som tilskuddet skal finansiere, eller brudd på øvrige vilkår for tilskuddet
+6. særlige reaksjoner dersom tilskuddsmottaker ikke opptrer i samsvar med betingelsene og vilkårene for tilskuddet.
 
 Vilkårene anses akseptert når bekreftelsesskjema er signert og mottatt av Arbeids- og velferdsetaten.
 
@@ -152,7 +175,11 @@ Arbeids- og velferdsetaten kan kontrollere at tilskuddet er benyttet i samsvar m
 
 Arbeids- og velferdsetaten skal kontrollere at kravene til regnskap og rapportering er oppfylt av tilskuddsmottaker. Etaten kan iverksette alle kontroller den finner nødvendige og hensiktsmessige.
 
-Arbeids- og velferdsetaten har adgang til å føre kontroll med at:Tilskuddet er benyttet i samsvar med vilkårene, slik det fremgår av forskriften, tilskuddsbrev og eventuell annen korrespondanse.Opplysninger som legges til grunn for tildeling er korrekt.Opplysninger i regnskap og rapportering er korrekt.
+Arbeids- og velferdsetaten har adgang til å føre kontroll med at:
+
+- Tilskuddet er benyttet i samsvar med vilkårene, slik det fremgår av forskriften, tilskuddsbrev og eventuell annen korrespondanse.
+- Opplysninger som legges til grunn for tildeling er korrekt.
+- Opplysninger i regnskap og rapportering er korrekt.
 
 Tilskuddsmottaker skal legge fram opplysninger på forespørsel og skal bidra til å muliggjøre og lette kontrollarbeidet.
 
@@ -184,7 +211,14 @@ Et eventuelt større avvik mellom de faktisk ubrukte midlene i regnskapet og de 
 
 Hvis tilskuddet ikke er brukt i samsvar med kravene i forskriften eller forutsetninger for tilskuddsbrevet, eller det er utbetalt for mye tilskudd, kan Arbeids- og velferdsetaten vedta en eller flere av reaksjonsformene som er nevnt i andre ledd.
 
-Følgende reaksjoner kan vurderes ut ifra alvorlighetsgrad og forholdsmessighet:utbetalinger stoppes frem til kravene er oppfylttilskuddet avkortestilskuddet kreves delvis eller helt tilbakebetalttilsagn om tilskudd trekkes tilbakevarig eller tidsbegrenset utestengelse fra å motta tilskuddi særskilte tilfeller kan politianmeldelse vurderes.
+Følgende reaksjoner kan vurderes ut ifra alvorlighetsgrad og forholdsmessighet:
+
+1. utbetalinger stoppes frem til kravene er oppfylt
+2. tilskuddet avkortes
+3. tilskuddet kreves delvis eller helt tilbakebetalt
+4. tilsagn om tilskudd trekkes tilbake
+5. varig eller tidsbegrenset utestengelse fra å motta tilskudd
+6. i særskilte tilfeller kan politianmeldelse vurderes.
 
 Arbeids- og velferdsetaten kan vurdere å ta i bruk [lov om tvangsfullbyrdelse § 7-2 e](lov/1992-06-26-86/§7-2/bokstav/e). Krav som etter særlig lovbestemmelse er tvangsgrunnlag for utlegg.
 

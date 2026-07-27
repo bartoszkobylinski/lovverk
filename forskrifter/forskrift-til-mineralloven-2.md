@@ -60,25 +60,47 @@ For mineralvirksomhet som krever godkjent driftsplan fra Direktoratet for minera
 
 Opprydding skal gjennomføres suksessivt, som hovedregel etter hver avsluttet fase av arbeidet. Ved opphør av virksomheten skal det gjennomføres fullstendig opprydding og istandsetting. Tiltakene skal være miljømessig forsvarlige og tilpasset stedlige forhold.
 
-Tiltakshaver skal blant annet:fjerne installasjoner, masser og avfall som ikke skal brukes videresikre vannløp, vegetasjon, grunnforhold og landskapsformer, ogbenytte stedegen masse og vegetasjon der dette er hensiktsmessig og mulig.
+Tiltakshaver skal blant annet:
+
+1. fjerne installasjoner, masser og avfall som ikke skal brukes videre
+2. sikre vannløp, vegetasjon, grunnforhold og landskapsformer, og
+3. benytte stedegen masse og vegetasjon der dette er hensiktsmessig og mulig.
 
 ### § 2-6. Istandsetting tilpasset framtidig bruk
 
-Istandsettingen skal tilpasses områdets fremtidige bruk og naturforhold. Dette innebærer at tiltakshaver skal:legge til rette for etterbruk i tråd med fastsatte planer eller tillatelser, ellerdersom etterbruk ikke er fastsatt, gjennomføre tiltak som sikrer områdets naturlige forutsetninger for å gjenvinne sin økologiske funksjon og landskapsmessige helhet.
+Istandsettingen skal tilpasses områdets fremtidige bruk og naturforhold. Dette innebærer at tiltakshaver skal:
+
+1. legge til rette for etterbruk i tråd med fastsatte planer eller tillatelser, eller
+2. dersom etterbruk ikke er fastsatt, gjennomføre tiltak som sikrer områdets naturlige forutsetninger for å gjenvinne sin økologiske funksjon og landskapsmessige helhet.
 
 ### § 2-7. Omfang av økonomisk sikkerhetsstillelse
 
-Økonomisk sikkerhetsstillelse etter [mineralloven § 2-6](lov/2025-06-20-107/§2-6) skal dekke tiltakshavers forpliktelser til:gjennomføring av sikring, opprydding og istandsetting under og ved avslutning av virksomheten, oggjennomføring av planlagte tiltak etter driften er avsluttet. Dette kan omfatte fysisk sikring og vedlikehold av gjerder, barrierer eller tilsvarende.
+Økonomisk sikkerhetsstillelse etter [mineralloven § 2-6](lov/2025-06-20-107/§2-6) skal dekke tiltakshavers forpliktelser til:
+
+1. gjennomføring av sikring, opprydding og istandsetting under og ved avslutning av virksomheten, og
+2. gjennomføring av planlagte tiltak etter driften er avsluttet. Dette kan omfatte fysisk sikring og vedlikehold av gjerder, barrierer eller tilsvarende.
 
 Direktoratet for mineralforvaltning med Bergmesteren for Svalbard skal fastsette størrelsen på den økonomiske sikkerhetsstillelsen etter [mineralloven § 2-6](lov/2025-06-20-107/§2-6).
 
-Ved fastsettelse av sikkerhetens størrelse skal det blant annet legges vekt på:arealets størrelse og virksomhetens kompleksitetmassetype og potensiell forurensningsfaredriftstype (under jord eller dagbrudd)geografisk beliggenhet og lokale forhold, ogbehov for tiltak etter avslutning.
+Ved fastsettelse av sikkerhetens størrelse skal det blant annet legges vekt på:
+
+1. arealets størrelse og virksomhetens kompleksitet
+2. massetype og potensiell forurensningsfare
+3. driftstype (under jord eller dagbrudd)
+4. geografisk beliggenhet og lokale forhold, og
+5. behov for tiltak etter avslutning.
 
 ### § 2-8. Utforming av økonomisk sikkerhetsstillelse
 
 Formen på den økonomiske sikkerhetsstillelsen må være slik at den ikke inngår i et konkursbo, og skal gi Direktoratet for mineralforvaltning med Bergmesteren for Svalbard, effektiv og direkte adgang til likvide midler.
 
-Alternative sikkerheter kan være:bankgarantipant i tiltakshavers bankkonto (pant i enkle pengekrav) der tiltakshaver benytter en avsetningsordning hvor det settes av midler på kontoen over tid for oppbygging av fond,forsikringkombinasjoner av dette, ellerandre former godkjent av direktoratet.
+Alternative sikkerheter kan være:
+
+1. bankgaranti
+2. pant i tiltakshavers bankkonto (pant i enkle pengekrav) der tiltakshaver benytter en avsetningsordning hvor det settes av midler på kontoen over tid for oppbygging av fond,
+3. forsikring
+4. kombinasjoner av dette, eller
+5. andre former godkjent av direktoratet.
 
 Ved sikkerhetsstillelse etter andre ledd bokstav b, skal direktoratet fastsette både avsetningenes størrelse og tidspunkt for innbetaling. Det kan fastsettes endringer ved behov. Bruk av midler på kontoen krever godkjenning fra direktoratet og det kan fastsettes vilkår for bruken. Ved vesentlig reduksjon kan nye avsetninger kreves.
 
@@ -86,7 +108,11 @@ Ved sikkerhetsstillelse etter andre ledd bokstav b, skal direktoratet fastsette 
 
 Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan etter avslutning av virksomheten pålegge tiltakshaver å stille særskilt økonomisk sikkerhet for tiltak som viser seg nødvendige, men som ikke var planlagt eller forutsatt ved avslutning.
 
-Tiltak etter første ledd kan blant annet omfatte:gjerder eller annen fysisk avsperringerosjonssikringovervåking av forurensning eller geoteknisk stabilitet.
+Tiltak etter første ledd kan blant annet omfatte:
+
+1. gjerder eller annen fysisk avsperring
+2. erosjonssikring
+3. overvåking av forurensning eller geoteknisk stabilitet.
 
 Den økonomiske sikkerheten skal opprettholdes så lenge tiltakene er nødvendige.
 
@@ -114,7 +140,13 @@ Hvert sammenhengende undersøkelsesområde skal tildeles et unikt identifiserend
 
 ### § 3-3. Melding om oppstart av undersøkelser av statens mineraler, industrimineraler og lette metaller
 
-Melding om oppstart av undersøkelsesarbeider etter [mineralloven § 4-7](lov/2025-06-20-107/§4-7) skal angihvor arbeidene skal gjennomføres, markert på karttidsrom for undersøkelsenemetode for undersøkelsene, eventuelt henvisning til beskrivelse i undersøkelsesplanenkontaktinformasjon til arbeidsleder for undersøkelsene, oginformasjon om innhentede tillatelser fra grunneier og offentlige myndigheter.
+Melding om oppstart av undersøkelsesarbeider etter [mineralloven § 4-7](lov/2025-06-20-107/§4-7) skal angi
+
+1. hvor arbeidene skal gjennomføres, markert på kart
+2. tidsrom for undersøkelsene
+3. metode for undersøkelsene, eventuelt henvisning til beskrivelse i undersøkelsesplanen
+4. kontaktinformasjon til arbeidsleder for undersøkelsene, og
+5. informasjon om innhentede tillatelser fra grunneier og offentlige myndigheter.
 
 ### § 3-4. Overdragelse av undersøkelsestillatelse
 
@@ -176,7 +208,17 @@ Hvert sammenhengende utvinningsområde skal tildeles et unikt identifiserende l�
 
 ### § 6-1. Meldepliktige uttak
 
-Melding om meldepliktig uttak etter [mineralloven § 6-1](lov/2025-06-20-107/§6-1) skal minst inneholdenavn og fødselsnummer eller organisasjonsnummer på ansvarlig person eller foretaknavn på uttaket/områdetkommunenavngårdsnummer, bruksnummer og eventuelt festenummer berørt av uttaketkart som viser uttaksområdetstatus for området etter [plan- og bygningsloven](lov/2008-06-27-71)totalt uttaksvolumtidspunkt for oppstart av drift, ogplanlagt tidspunkt for avslutning.
+Melding om meldepliktig uttak etter [mineralloven § 6-1](lov/2025-06-20-107/§6-1) skal minst inneholde
+
+1. navn og fødselsnummer eller organisasjonsnummer på ansvarlig person eller foretak
+2. navn på uttaket/området
+3. kommunenavn
+4. gårdsnummer, bruksnummer og eventuelt festenummer berørt av uttaket
+5. kart som viser uttaksområdet
+6. status for området etter [plan- og bygningsloven](lov/2008-06-27-71)
+7. totalt uttaksvolum
+8. tidspunkt for oppstart av drift, og
+9. planlagt tidspunkt for avslutning.
 
 Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan fastsette krav om at meldingen skal sendes på skjema fastsatt av direktoratet.
 
@@ -186,7 +228,15 @@ Direktoratet kan sette vilkår for gjennomføring og avslutning av uttaket.
 
 Søknad om driftskonsesjon skal inneholde opplysninger som angitt i denne forskrift [§ 8-1](forskrift/2026-06-12-1092/§8-1).
 
-Som dokumentasjon på prosjektets økonomi og tiltakshavers finansielle evne jf. [mineralloven § 6-4 første ledd bokstav f](lov/2025-06-20-107/§6-4/ledd/1/bokstav/f), skal søknaden også inneholde en beskrivelse av prosjektets planlagte økonomiske gjennomførbarhet, herunder:Oversikt over nødvendige investeringer (investeringsplan)Finansieringsplan med spesifisering av egenkapital, lån og andre kilderDriftsbudsjett for første tre årMarkedsgrunnlag med markedsbeskrivelse og prisanslag for produktene, ogIdentifisering av risiko (følsomhetsanalyse).For uttak og prosjekter med betydelig investeringsramme, kan Direktoratet for mineralforvaltning med Bergmesteren for Svalbard stille ytterligere dokumentasjonskrav.
+Som dokumentasjon på prosjektets økonomi og tiltakshavers finansielle evne jf. [mineralloven § 6-4 første ledd bokstav f](lov/2025-06-20-107/§6-4/ledd/1/bokstav/f), skal søknaden også inneholde en beskrivelse av prosjektets planlagte økonomiske gjennomførbarhet, herunder:
+
+1. Oversikt over nødvendige investeringer (investeringsplan)
+2. Finansieringsplan med spesifisering av egenkapital, lån og andre kilder
+3. Driftsbudsjett for første tre år
+4. Markedsgrunnlag med markedsbeskrivelse og prisanslag for produktene, og
+5. Identifisering av risiko (følsomhetsanalyse).
+
+For uttak og prosjekter med betydelig investeringsramme, kan Direktoratet for mineralforvaltning med Bergmesteren for Svalbard stille ytterligere dokumentasjonskrav.
 
 Søknad om driftskonsesjon skal sendes på skjema fastsatt av direktoratet.
 
@@ -194,17 +244,33 @@ Angivelsen av uttaksområdets geografiske plassering skal leveres i et digitalt,
 
 ### § 6-3. Krav om økonomisk gjennomføring
 
-For at utvinning som er underlagt krav til driftskonsesjon etter [§ 6-2](forskrift/2026-06-12-1092/§6-2) skal fremstå som økonomisk gjennomførbar, skal det på søknadstidspunktet for tildeling eller overdragelse av driftskonsesjonen etter [§§ 6-3](forskrift/2026-06-12-1092/§6-3) og [6-9](forskrift/2026-06-12-1092/§6-9)foreligge en konkret og realistisk plan for nødvendige investeringer for å etablere og drive mineralvirksomhetenvære tilgjengelig eller sannsynliggjort finansiering for å dekke nødvendige investeringer og drift i oppstartsfasensannsynliggjøres at virksomheten vil kunne drives med overskudd eller økonomisk balanse over tidforeligge et troverdig grunnlag for at det finnes et marked for mineralene, ogvære identifisert sentrale økonomiske risikofaktorer og vurdert hvordan disse kan påvirke prosjektet.Dersom enkelte kriterier i bokstav a til e ikke er oppfylt fullt ut, men totalvurderingen viser god økonomisk gjennomførbarhet, kan mineralvirksomheten likevel anses å være forsvarlig.
+For at utvinning som er underlagt krav til driftskonsesjon etter [§ 6-2](forskrift/2026-06-12-1092/§6-2) skal fremstå som økonomisk gjennomførbar, skal det på søknadstidspunktet for tildeling eller overdragelse av driftskonsesjonen etter [§§ 6-3](forskrift/2026-06-12-1092/§6-3) og [6-9](forskrift/2026-06-12-1092/§6-9)
+
+1. foreligge en konkret og realistisk plan for nødvendige investeringer for å etablere og drive mineralvirksomheten
+2. være tilgjengelig eller sannsynliggjort finansiering for å dekke nødvendige investeringer og drift i oppstartsfasen
+3. sannsynliggjøres at virksomheten vil kunne drives med overskudd eller økonomisk balanse over tid
+4. foreligge et troverdig grunnlag for at det finnes et marked for mineralene, og
+5. være identifisert sentrale økonomiske risikofaktorer og vurdert hvordan disse kan påvirke prosjektet.
+
+Dersom enkelte kriterier i bokstav a til e ikke er oppfylt fullt ut, men totalvurderingen viser god økonomisk gjennomførbarhet, kan mineralvirksomheten likevel anses å være forsvarlig.
 
 ### § 6-4. Driftsplan
 
-Driftsplanen skal inneholde:generell informasjon om virksomheten, konsesjonsområdet og beskrivelse av forekomstenkonkret plan for utvinning og drift av mineralforekomsten (uttaksplan)konkret plan for opprydding og sikring etter avsluttet drift (avslutningsplan), ogkart og profiler som viser plan for drift og avslutning (kartgrunnlag).
+Driftsplanen skal inneholde:
+
+1. generell informasjon om virksomheten, konsesjonsområdet og beskrivelse av forekomsten
+2. konkret plan for utvinning og drift av mineralforekomsten (uttaksplan)
+3. konkret plan for opprydding og sikring etter avsluttet drift (avslutningsplan), og
+4. kart og profiler som viser plan for drift og avslutning (kartgrunnlag).
 
 Driftsplanen skal godkjennes av Direktoratet for mineralforvaltning med Bergmesteren for Svalbard.
 
 ### § 6-5. Overdragelse av driftskonsesjon
 
-Søknad om overdragelse av driftskonsesjon skal inneholdeen redegjørelse for overtakerens kompetanse til drift av den aktuelle forekomsten, med presentasjon av organiseringen av foretaket og eventuell konserntilknytning, ogen beskrivelse av tiltakshavers finansielle evne og finansieringsplan med spesifisering av egenkapital, lån og andre kilder.
+Søknad om overdragelse av driftskonsesjon skal inneholde
+
+1. en redegjørelse for overtakerens kompetanse til drift av den aktuelle forekomsten, med presentasjon av organiseringen av foretaket og eventuell konserntilknytning, og
+2. en beskrivelse av tiltakshavers finansielle evne og finansieringsplan med spesifisering av egenkapital, lån og andre kilder.
 
 Søknad om godkjenning av overdragelse skal sendes til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard senest en måned etter at avtale om overdragelse er inngått. Direktoratet kan på forespørsel gi forlenget frist dersom behovet for utsettelse er saklig begrunnet. Søknaden skal sendes på skjema fastsatt av direktoratet.
 
@@ -242,13 +308,22 @@ Sluttrapport fra undersøkelser skal sendes som fastsatt av direktoratet.
 
 ### § 7-4. Rapportering fra drift
 
-Driftsrapport etter [mineralloven § 7-3 første ledd](lov/2025-06-20-107/§7-3/ledd/1) skal minst opplyse om:antall ansatteuttaksmengdesalgsverdimaterialstrømmer og ressursutnyttelse, ogantatt mengde gjenstående ressurser.
+Driftsrapport etter [mineralloven § 7-3 første ledd](lov/2025-06-20-107/§7-3/ledd/1) skal minst opplyse om:
+
+1. antall ansatte
+2. uttaksmengde
+3. salgsverdi
+4. materialstrømmer og ressursutnyttelse, og
+5. antatt mengde gjenstående ressurser.
 
 Rapport om drift skal sendes på skjema fastsatt av Direktoratet for mineralforvaltning med Bergmesteren for Svalbard.
 
 ### § 7-5. Sluttrapport ved opphørt drift
 
-Sluttrapport etter [mineralloven § 7-3 andre ledd](lov/2025-06-20-107/§7-3/ledd/2) må inneholde tilstrekkelig informasjon og være detaljert nok til at Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan utføre avslutningskontroll etter [§ 6-10](lov/2025-06-20-107/§6-10), og inneholde nødvendige opplysninger av betydning for fremtidig bruk av området. Dette inkludererbeskrivelse og dokumentasjon av sikring, opprydning og istandsetting av området, ogoppmålt kart og vertikale profiler.
+Sluttrapport etter [mineralloven § 7-3 andre ledd](lov/2025-06-20-107/§7-3/ledd/2) må inneholde tilstrekkelig informasjon og være detaljert nok til at Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan utføre avslutningskontroll etter [§ 6-10](lov/2025-06-20-107/§6-10), og inneholde nødvendige opplysninger av betydning for fremtidig bruk av området. Dette inkluderer
+
+1. beskrivelse og dokumentasjon av sikring, opprydning og istandsetting av området, og
+2. oppmålt kart og vertikale profiler.
 
 Direktoratet kan kreve ytterlige informasjon ved behov.
 
@@ -260,7 +335,12 @@ Direktoratet kan stille krav til at sluttrapporten skal sendes til direktoratet 
 
 Tiltakshaveren skal skriftlig dokumentere hvordan kompetansekravet i [mineralloven § 2-2](lov/2025-06-20-107/§2-2) er identifisert, vurdert, dokumentert og fulgt opp over tid.
 
-Dokumentasjonen skal minst inneholde:beskrivelse av organisering, ansvar og roller knyttet til kompetanseområderoversikt over relevant utdanning, praksis og erfaring for personer med sentrale roller i virksomhetenoversikt over eventuelle eksterne rådgivere eller underleverandører som dekker kompetansegap, ogplan for kompetanseutvikling og opplæring.
+Dokumentasjonen skal minst inneholde:
+
+1. beskrivelse av organisering, ansvar og roller knyttet til kompetanseområder
+2. oversikt over relevant utdanning, praksis og erfaring for personer med sentrale roller i virksomheten
+3. oversikt over eventuelle eksterne rådgivere eller underleverandører som dekker kompetansegap, og
+4. plan for kompetanseutvikling og opplæring.
 
 Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan utarbeide standardiserte skjemaer som tiltakshaver skal fylle ut for å dokumentere kompetansen.
 
@@ -274,7 +354,13 @@ Tiltakshaver skal ha en plan for gjennomføringen av årlige møter etter [miner
 
 Tiltakshaver skal ha internkontroll som sikrer etterlevelse av sikringsplikten i [mineralloven § 2-4](lov/2025-06-20-107/§2-4). Internkontrollen skal være tilpasset virksomhetens art, omfang og risikoforhold.
 
-Tiltakshaver skal minst dokumentere:risikovurderinger og identifiserte farerplanlagte og gjennomførte sikringstiltaktidsplan og rutiner for vedlikehold og inspeksjoneventuelle avvik og korrigerende tiltak, ogevalueringer og oppdateringer av sikringstiltak.
+Tiltakshaver skal minst dokumentere:
+
+1. risikovurderinger og identifiserte farer
+2. planlagte og gjennomførte sikringstiltak
+3. tidsplan og rutiner for vedlikehold og inspeksjon
+4. eventuelle avvik og korrigerende tiltak, og
+5. evalueringer og oppdateringer av sikringstiltak.
 
 Dokumentasjonen skal oppdateres ved vesentlige endringer og ved opphør av virksomheten.
 
@@ -284,7 +370,11 @@ Dokumentasjonen skal være tilgjengelig for Direktoratet for mineralforvaltning 
 
 Tiltakshaver skal etablere og gjennomføre internkontroll for å sikre at pliktene etter [mineralloven § 2-5](lov/2025-06-20-107/§2-5) oppfylles.
 
-Internkontrollen skal være tilpasset virksomhetens art, omfang og miljøpåvirkning, og minst omfatte:rutiner for løpende vurdering av behovet for opprydding og istandsetting,dokumentasjon av gjennomførte og planlagte tiltak, ogrutiner for rapportering og varsling ved avvik.
+Internkontrollen skal være tilpasset virksomhetens art, omfang og miljøpåvirkning, og minst omfatte:
+
+1. rutiner for løpende vurdering av behovet for opprydding og istandsetting,
+2. dokumentasjon av gjennomførte og planlagte tiltak, og
+3. rutiner for rapportering og varsling ved avvik.
 
 Tiltakshaver skal legge frem dokumentasjon for Direktoratet for mineralforvaltning med Bergmesteren for Svalbard på forespørsel.
 
@@ -296,7 +386,26 @@ Internkontroll etter denne forskriften gjelder forhold som er regulert av [miner
 
 ### § 9-1. Gebyr for behandling av søknader
 
-Søker skal betale gebyr for søknad omundersøkelsestillatelse etter [mineralloven § 4-3](lov/2025-06-20-107/§4-3) med et grunnbeløp på kr 23 850 og kr 450 per km2, opp til og med 100 km2.utvinningsrett etter [mineralloven § 5-2](lov/2025-06-20-107/§5-2) med et grunnbeløp på kr 56 700 og kr 9 000 per km2. Hvis søknaden kun gjelder utvinningsrett til industrimineraler reduseres gebyret med 50 prosent.prøveuttak etter [mineralloven § 4-13](lov/2025-06-20-107/§4-13) med kr 36 900.driftskonsesjon etter [mineralloven § 6-2](lov/2025-06-20-107/§6-2) med et grunnbeløp på kr 40 250 og følgende tillegg:Kr 0,09 per planlagte m3 i årlig uttatte masser, opp til og med 1 000 000 m3Kr 24 650 hvis søknaden dreier seg om uttak av statens mineraler eller lette metallerHvis søknaden gjelder konsesjon for utvidelse av allerede godkjent drift, og det søkes om ny konsesjon for det samlede driftsområdet, reduseres det samlede gebyret med 50 prosent.forlengelse av undersøkelsestillatelse etter [mineralloven § 4-8](lov/2025-06-20-107/§4-8) med kr 20 500forlengelse av utvinningsrett etter [mineralloven § 5-7](lov/2025-06-20-107/§5-7) med kr 12 350forlengelse av prøveuttak etter denne forskriftens [§ 4-1](forskrift/2026-06-12-1092/§4-1) med kr 18 450overdragelse av undersøkelsestillatelse etter [mineralloven § 4-9](lov/2025-06-20-107/§4-9) med kr 5 750overdragelse av utvinningsrett etter [mineralloven § 5-8](lov/2025-06-20-107/§5-8) med kr 4 150overdragelse av prøveuttak etter [mineralloven § 4-16](lov/2025-06-20-107/§4-16) med kr 5 750overdragelse av driftskonsesjon etter [mineralloven § 6-9](lov/2025-06-20-107/§6-9) med kr 6 550vesentlig endring av undersøkelsesplan etter [mineralloven § 4-6](lov/2025-06-20-107/§4-6) med kr 11 500ekspropriasjon etter [mineralloven § 9-1](lov/2025-06-20-107/§9-1) med kr 53 350.
+Søker skal betale gebyr for søknad om
+
+1. undersøkelsestillatelse etter [mineralloven § 4-3](lov/2025-06-20-107/§4-3) med et grunnbeløp på kr 23 850 og kr 450 per km2, opp til og med 100 km2.
+2. utvinningsrett etter [mineralloven § 5-2](lov/2025-06-20-107/§5-2) med et grunnbeløp på kr 56 700 og kr 9 000 per km2. Hvis søknaden kun gjelder utvinningsrett til industrimineraler reduseres gebyret med 50 prosent.
+3. prøveuttak etter [mineralloven § 4-13](lov/2025-06-20-107/§4-13) med kr 36 900.
+4. driftskonsesjon etter [mineralloven § 6-2](lov/2025-06-20-107/§6-2) med et grunnbeløp på kr 40 250 og følgende tillegg:
+
+   1. Kr 0,09 per planlagte m3 i årlig uttatte masser, opp til og med 1 000 000 m3
+   2. Kr 24 650 hvis søknaden dreier seg om uttak av statens mineraler eller lette metaller
+
+   Hvis søknaden gjelder konsesjon for utvidelse av allerede godkjent drift, og det søkes om ny konsesjon for det samlede driftsområdet, reduseres det samlede gebyret med 50 prosent.
+5. forlengelse av undersøkelsestillatelse etter [mineralloven § 4-8](lov/2025-06-20-107/§4-8) med kr 20 500
+6. forlengelse av utvinningsrett etter [mineralloven § 5-7](lov/2025-06-20-107/§5-7) med kr 12 350
+7. forlengelse av prøveuttak etter denne forskriftens [§ 4-1](forskrift/2026-06-12-1092/§4-1) med kr 18 450
+8. overdragelse av undersøkelsestillatelse etter [mineralloven § 4-9](lov/2025-06-20-107/§4-9) med kr 5 750
+9. overdragelse av utvinningsrett etter [mineralloven § 5-8](lov/2025-06-20-107/§5-8) med kr 4 150
+10. overdragelse av prøveuttak etter [mineralloven § 4-16](lov/2025-06-20-107/§4-16) med kr 5 750
+11. overdragelse av driftskonsesjon etter [mineralloven § 6-9](lov/2025-06-20-107/§6-9) med kr 6 550
+12. vesentlig endring av undersøkelsesplan etter [mineralloven § 4-6](lov/2025-06-20-107/§4-6) med kr 11 500
+13. ekspropriasjon etter [mineralloven § 9-1](lov/2025-06-20-107/§9-1) med kr 53 350.
 
 Gebyret skal være betalt før saken tas opp til behandling. Hvis det i løpet av saksbehandlingen avdekkes at betalt gebyr er for lavt, skal restbeløpet betales etter krav fra Direktoratet for mineralforvaltning med Bergmesteren for Svalbard.
 
@@ -342,7 +451,12 @@ Tvangsmulkten løper inntil den ansvarlige har dokumentert at pålegget er oppfy
 
 ### § 10-2. Utmåling av tvangsmulkt
 
-Ved utmåling av tvangsmulkt skal det legges særlig vekt påhvilken type pålegg som ikke er oppfylthvor alvorlig den manglende oppfyllelsen av pålegget er i forhold til de hensyn pålegget skal ivaretakostnaden for den ansvarlige ved å oppfylle påleggetden ansvarliges økonomiske evne.
+Ved utmåling av tvangsmulkt skal det legges særlig vekt på
+
+1. hvilken type pålegg som ikke er oppfylt
+2. hvor alvorlig den manglende oppfyllelsen av pålegget er i forhold til de hensyn pålegget skal ivareta
+3. kostnaden for den ansvarlige ved å oppfylle pålegget
+4. den ansvarliges økonomiske evne.
 
 ### § 10-3. Frist for betaling av tvangsmulkt
 
@@ -352,7 +466,14 @@ Dersom mulkten ikke blir betalt innen forfall, påløper den til enhver tid gjel
 
 ### § 10-4. Om overtredelsesgebyr skal ilegges og utmåling. Øvre tak for overtredelsesgebyr.
 
-Ved avgjørelse av om overtredelsesgebyr etter [mineralloven § 11-4](lov/2025-06-20-107/§11-4) skal ilegges og ved utmåling av gebyret skal det legges vekt påovertredelsens grovhet og omfangom overtreder ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygget overtredelsenom overtredelsen er begått for å fremme overtreders interesserom overtreder har hatt eller kunne oppnådd noen fordel ved overtredelsenom det foreligger gjentakelseovertreders økonomiske evne.
+Ved avgjørelse av om overtredelsesgebyr etter [mineralloven § 11-4](lov/2025-06-20-107/§11-4) skal ilegges og ved utmåling av gebyret skal det legges vekt på
+
+1. overtredelsens grovhet og omfang
+2. om overtreder ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygget overtredelsen
+3. om overtredelsen er begått for å fremme overtreders interesser
+4. om overtreder har hatt eller kunne oppnådd noen fordel ved overtredelsen
+5. om det foreligger gjentakelse
+6. overtreders økonomiske evne.
 
 Overtredelsesgebyret skal ikke overstige seks ganger folketrygdens grunnbeløp eller fire prosent av virksomhetens årsomsetning for foretak. Det høyeste beløpet utgjør den øvre rammen. For fysiske personer skal ikke overtredelsesgebyret overstige to ganger folketrygdens grunnbeløp. Rammene gjelder også der flere overtredelser er begått i samme handling.
 

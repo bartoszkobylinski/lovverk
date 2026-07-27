@@ -15,7 +15,7 @@ xml_hash: "e5c4feae5b10ddb39d48c43c59b150d2208a096b78e62850a5c6f561dc2cb77d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med denne forskriften er å sikre at:gods i luftfartøy under transport er stuet og surret på en slik måte at det ikke ved forskyvning kan forårsake forandring av luftfartøyets tyngdepunkt eller skade ombordværende personer eller deler av luftfartøyet,transport av farlig gods med luftfartøy skjer under forsvarlige forhold slik at skade på liv, helse og materielle verdier unngås.
+Formålet med denne forskriften er å sikre at:
+
+1. gods i luftfartøy under transport er stuet og surret på en slik måte at det ikke ved forskyvning kan forårsake forandring av luftfartøyets tyngdepunkt eller skade ombordværende personer eller deler av luftfartøyet,
+2. transport av farlig gods med luftfartøy skjer under forsvarlige forhold slik at skade på liv, helse og materielle verdier unngås.
 
 ### § 2. Virkeområde
 
@@ -46,7 +49,11 @@ I denne forskrift menes med:
 
 Gjenstander, varer, artikler og stoffer (substanser) som kan medføre risiko for helse, sikkerhet eller eiendom under transport i et luftfartøy.
 
-Som farlig gods regnes likevel ikke:Stoffer, materialer og substanser som etter denne forskrifts [§ 8](forskrift/2003-01-11-41/§8) første ledd kan klassifiseres som farlig gods, men som er nødvendig for et luftfartøys operative eller tekniske drift.Artikler og varer som aerosoler, alkoholholdige drikkevarer, parfymer, eau-de-cologne, fyrstikker og sigarettennere som inneholder flytende gass, kan medbringes om bord i luftfartøyer for service eller salg på en flyging eller en serie av flyginger.Tørris som brukes til bevaring av mat og drikkevarer som skal serveres om bord.
+Som farlig gods regnes likevel ikke:
+
+1. Stoffer, materialer og substanser som etter denne forskrifts [§ 8](forskrift/2003-01-11-41/§8) første ledd kan klassifiseres som farlig gods, men som er nødvendig for et luftfartøys operative eller tekniske drift.
+2. Artikler og varer som aerosoler, alkoholholdige drikkevarer, parfymer, eau-de-cologne, fyrstikker og sigarettennere som inneholder flytende gass, kan medbringes om bord i luftfartøyer for service eller salg på en flyging eller en serie av flyginger.
+3. Tørris som brukes til bevaring av mat og drikkevarer som skal serveres om bord.
 
 *Gods:*
 
@@ -82,7 +89,22 @@ Fly med høyeste tillatte startvekt som overstiger 5.700 kg. Helikopter med høy
 
 (1) Ved stuing av gods i lasterom skal bestemmelsene om lasterommets maksimale vektkapasitet og tillatte flatebelastning overholdes. Ethvert lasterom skal ha et skilt med tekst som angir lastningsbegrensningene.
 
-(2) All utrustning som brukes til surring av gods i lasterom i tunge luftfartøy slik som beslag, kroker, tauverk, nett o.l. skal med hensyn til dimensjoner og styrke tåle de maksimale treghetskrefter som luftfartøyet er sertifisert for. Dersom ikke annet er angitt, gjelder følgende minimumskrav:Når lasterommet ligger slik at løst gods vil kunne skade besetningsmedlemmer eller passasjerer når luftfartøyet utsettes for akselerasjon eller retardasjon, skal utrustningen tåle:*Kraftretning**Bruddstyrke minst lik**Fly**Helikopter*Fremover9 ganger lastens vekt4 ganger lastens vektNedover4,5 ganger lastens vekt4 ganger lastens vektOppover2 ganger lastens vekt1,5 ganger lastens vektBakover og tverrskips4,5 ganger lastens vekt4 ganger lastens vektNår lasterommet ligger slik at risiko som nevnt i bokstav a ikke foreligger, skal utrustningen tåle:*Kraftretning**Bruddstyrke minst lik*Samtlige nevnt under bokstav a1,5 ganger lastens vekt
+(2) All utrustning som brukes til surring av gods i lasterom i tunge luftfartøy slik som beslag, kroker, tauverk, nett o.l. skal med hensyn til dimensjoner og styrke tåle de maksimale treghetskrefter som luftfartøyet er sertifisert for. Dersom ikke annet er angitt, gjelder følgende minimumskrav:
+
+1. Når lasterommet ligger slik at løst gods vil kunne skade besetningsmedlemmer eller passasjerer når luftfartøyet utsettes for akselerasjon eller retardasjon, skal utrustningen tåle:
+
+   | *Kraftretning* | *Bruddstyrke minst lik* |  |
+   | --- | --- | --- |
+   |  | *Fly* | *Helikopter* |
+   | Fremover | 9 ganger lastens vekt | 4 ganger lastens vekt |
+   | Nedover | 4,5 ganger lastens vekt | 4 ganger lastens vekt |
+   | Oppover | 2 ganger lastens vekt | 1,5 ganger lastens vekt |
+   | Bakover og tverrskips | 4,5 ganger lastens vekt | 4 ganger lastens vekt |
+2. Når lasterommet ligger slik at risiko som nevnt i bokstav a ikke foreligger, skal utrustningen tåle:
+
+   | *Kraftretning* | *Bruddstyrke minst lik* |
+   | --- | --- |
+   | Samtlige nevnt under bokstav a | 1,5 ganger lastens vekt |
 
 (3) For andre luftfartøy enn tunge luftfartøy, skal utrustning som brukes til surring av gods i lasterom ha slik styrke at medført gods ikke utgjør en fare for besetningens og passasjerenes sikkerhet.
 
@@ -112,7 +134,11 @@ Fly med høyeste tillatte startvekt som overstiger 5.700 kg. Helikopter med høy
 
 (8) Instruks som bestemt i [§ 4](forskrift/2003-01-11-41/§4) tredje ledd, skal i tillempet form også foreligge for transport av gods i passasjerkabin.
 
-(9) Ved start og landing skal all håndbagasje, bortsett fra lettere effekter som kåper, frakker, damevesker, kamera være plassert:som angitt i første ledd,i bagasje- eller lasterom, ellerunder passasjerstolene.
+(9) Ved start og landing skal all håndbagasje, bortsett fra lettere effekter som kåper, frakker, damevesker, kamera være plassert:
+
+1. som angitt i første ledd,
+2. i bagasje- eller lasterom, eller
+3. under passasjerstolene.
 
 ### § 6. Ballast
 
@@ -136,7 +162,17 @@ Fly med høyeste tillatte startvekt som overstiger 5.700 kg. Helikopter med høy
 
 ### § 8. Fareklasser
 
-(1) Varer som regnes som farlig gods inndeles i følgende fareklasser:Klasse 1: EksplosiverKlasse 2: GasserKlasse 3: Brannfarlige væskerKlasse 4: Brannfarlige faste stoffer, selvantennelige stoffer, stoffer som utvikler farlige gasser i kontakt med vannKlasse 5: Oksyderende stoffer; organiske peroksyderKlasse 6: Giftige og smittefarlige stofferKlasse 7: Radioaktive materialerKlasse 8: Etsende stofferKlasse 9: Diverse farlig gods.
+(1) Varer som regnes som farlig gods inndeles i følgende fareklasser:
+
+- Klasse 1: Eksplosiver
+- Klasse 2: Gasser
+- Klasse 3: Brannfarlige væsker
+- Klasse 4: Brannfarlige faste stoffer, selvantennelige stoffer, stoffer som utvikler farlige gasser i kontakt med vann
+- Klasse 5: Oksyderende stoffer; organiske peroksyder
+- Klasse 6: Giftige og smittefarlige stoffer
+- Klasse 7: Radioaktive materialer
+- Klasse 8: Etsende stoffer
+- Klasse 9: Diverse farlig gods.
 
 (2) For farlig gods som det under enhver omstendighet er forbudt å transportere med luftfartøy, gjelder ICAOs Technical Instructions for the Safe Transport of Dangerous Goods by Air, Doc. 9284-AN/905, ICAO-TI, Part I Chapter 2. Engangs gasstennere og tennere som kan være utsatt for lekkasje under redusert trykk, er forbudt å transportere.
 
@@ -154,7 +190,10 @@ Fly med høyeste tillatte startvekt som overstiger 5.700 kg. Helikopter med høy
 
 ### § 11. Krav til transportør av farlig gods
 
-(1) Operatør som transporterer farlig gods skal ha Luftfartstilsynets tillatelse til dette. Ved vurdering av om tillatelse skal gis, skal Luftfartstilsynet legge vekt på:kvaliteten på opplæringsprogrammet for personell som håndterer farlig gods, ogat etablerte rutiner og instrukser, herunder nødprosedyrer for behandling av farlig gods er dokumentert.
+(1) Operatør som transporterer farlig gods skal ha Luftfartstilsynets tillatelse til dette. Ved vurdering av om tillatelse skal gis, skal Luftfartstilsynet legge vekt på:
+
+- kvaliteten på opplæringsprogrammet for personell som håndterer farlig gods, og
+- at etablerte rutiner og instrukser, herunder nødprosedyrer for behandling av farlig gods er dokumentert.
 
 (2) Tillatelse til å transportere farlig gods vil ikke bli gitt før aktuell opplæring av personellet med hensyn til håndtering av farlig gods er gjennomført, jf. [§ 15](forskrift/2003-01-11-41/§15).
 
@@ -176,11 +215,27 @@ Fly med høyeste tillatte startvekt som overstiger 5.700 kg. Helikopter med høy
 
 ### § 14. Operatørens plikter
 
-(1) En operatør som mottar farlig gods for transport har ansvar for:at sjekkliste for godkjennelse av farlig gods blir utfylt. Listen fylles ut av fraktfører eller operatør, og angir punktvis rekkefølgen for utførelse av kontrollfunksjoner ved akseptering av farlig gods for transport,at avsenderen har innlevert avsenders erklæring,å kontrollere at avsenders erklæring er utstedt i samsvar med bestemmelsene i ICAO-TI,at alt farlig gods er forsvarlig emballert og merket med korrekt fareseddel i henhold til bestemmelsene i ICAO-TI. En slik fareseddel settes på den ytre emballasje av godset, og angir hvilken klasse/sekundærklasse godset er klassifisert i,at godset før innlasting ikke viser tegn til skade eller lekkasje.
+(1) En operatør som mottar farlig gods for transport har ansvar for:
 
-(2) En operatør som aksepterer transport av farlig gods, skal påse at fartøysjefen før det enkelte oppdrag får skriftlig melding om transporten (Notification to the Captain). Meldingen skal minst inneholde:hva slags farlig gods som skal transporteres,mengden angitt i vekt, volum eller på annen måte,hvor i luftfartøyet godset er lastet.Meldingen til fartøysjefen (NOTOC) kan ikke være en kopi av transportbeviset, farlig gods deklareringsdokument, faktura e.l.
+1. at sjekkliste for godkjennelse av farlig gods blir utfylt. Listen fylles ut av fraktfører eller operatør, og angir punktvis rekkefølgen for utførelse av kontrollfunksjoner ved akseptering av farlig gods for transport,
+2. at avsenderen har innlevert avsenders erklæring,
+3. å kontrollere at avsenders erklæring er utstedt i samsvar med bestemmelsene i ICAO-TI,
+4. at alt farlig gods er forsvarlig emballert og merket med korrekt fareseddel i henhold til bestemmelsene i ICAO-TI. En slik fareseddel settes på den ytre emballasje av godset, og angir hvilken klasse/sekundærklasse godset er klassifisert i,
+5. at godset før innlasting ikke viser tegn til skade eller lekkasje.
 
-(3) Ved passasjertransport plikter en operatør å informere passasjerene om hvilket gods som ikke er tillatt å medføre om bord på luftfartøyet, verken som håndbagasje eller reisegods. Som et minimum skal slik informasjon gis:sammen med billetten eller annet reisedokument,ved informative skilt lokalisert ved billettskranker, innsjekkingsskranker, luftfartøyets inn- og utgang og i ankomsthaller hvor bagasjen blir utlevert, ellerved skilt på de steder frakt innleveres og aksepteres for transport.
+(2) En operatør som aksepterer transport av farlig gods, skal påse at fartøysjefen før det enkelte oppdrag får skriftlig melding om transporten (Notification to the Captain). Meldingen skal minst inneholde:
+
+- hva slags farlig gods som skal transporteres,
+- mengden angitt i vekt, volum eller på annen måte,
+- hvor i luftfartøyet godset er lastet.
+
+  Meldingen til fartøysjefen (NOTOC) kan ikke være en kopi av transportbeviset, farlig gods deklareringsdokument, faktura e.l.
+
+(3) Ved passasjertransport plikter en operatør å informere passasjerene om hvilket gods som ikke er tillatt å medføre om bord på luftfartøyet, verken som håndbagasje eller reisegods. Som et minimum skal slik informasjon gis:
+
+- sammen med billetten eller annet reisedokument,
+- ved informative skilt lokalisert ved billettskranker, innsjekkingsskranker, luftfartøyets inn- og utgang og i ankomsthaller hvor bagasjen blir utlevert, eller
+- ved skilt på de steder frakt innleveres og aksepteres for transport.
 
 (4) Operatøren skal laste farlig gods på den måte som fremgår av bestemmelsene i ICAO-TI, herunder sørge for at farlig gods av forskjellige klasser som innbyrdes kan reagere på hverandre holdes atskilt, og at farlig gods sikres for å hindre bevegelser som kan forårsake skader under flyging.
 
@@ -190,13 +245,22 @@ Fly med høyeste tillatte startvekt som overstiger 5.700 kg. Helikopter med høy
 
 (7) Farlig gods som i forbindelse med akseptering eller lasting blir funnet skadet eller viser tegn til lekkasje, eller udeklarert ev. feildeklarert farlig gods som oppdages i lasten eller i passasjerenes bagasje, skal ikke aksepteres tatt med om bord og straks fjernes av personell utdannet til dette.
 
-(8) Operatøren skal:etablere instrukser og nødprosedyrer for personell som håndterer farlig gods. Det skal klart fremgå hvilke rutiner som skal følges dersom uhell eller ulykker med det farlige godset inntreffer på bakken eller i luften,ved vurdering av hvilke rutiner som skal følges, ta i betraktning om fartøyet som er involvert bare transporterer gods eller kombinert gods og passasjerer,forholde seg til bestemmelsene som fremgår av ICAO Doc. 9481-AN/928 Emergency Response Guidance for Aircraft Incidents Involving Dangerous Goods, når det gjelder nødprosedyrer ved uhell og ulykker i luften med farlig gods.
+(8) Operatøren skal:
+
+1. etablere instrukser og nødprosedyrer for personell som håndterer farlig gods. Det skal klart fremgå hvilke rutiner som skal følges dersom uhell eller ulykker med det farlige godset inntreffer på bakken eller i luften,
+2. ved vurdering av hvilke rutiner som skal følges, ta i betraktning om fartøyet som er involvert bare transporterer gods eller kombinert gods og passasjerer,
+3. forholde seg til bestemmelsene som fremgår av ICAO Doc. 9481-AN/928 Emergency Response Guidance for Aircraft Incidents Involving Dangerous Goods, når det gjelder nødprosedyrer ved uhell og ulykker i luften med farlig gods.
 
 ### § 15. Opplæring og utdanning i håndtering av farlig gods
 
 (1) Opplæringsprogrammer vedrørende behandling, videreforsendelse og transport av farlig gods, herunder etterutdanningsprogrammer annet hvert år, skal være i overensstemmelse med ICAO-TI Part 6 eller IATAs Dangerous Goods Regulation seksjon 1.
 
-(2) Opplæringsprogrammene skal opprettes av eller på vegne av:regulære avsendere av farlig gods,speditører som ekspederer farlig gods,operatør,personer eller foretak på landingsplasser som på en operatørs vegne forestår mottak, lasting, lossing, oppbevaring eller annen form for håndtering av gods, herunder sikkerhetssjekk av passasjerers håndbagasje.
+(2) Opplæringsprogrammene skal opprettes av eller på vegne av:
+
+1. regulære avsendere av farlig gods,
+2. speditører som ekspederer farlig gods,
+3. operatør,
+4. personer eller foretak på landingsplasser som på en operatørs vegne forestår mottak, lasting, lossing, oppbevaring eller annen form for håndtering av gods, herunder sikkerhetssjekk av passasjerers håndbagasje.
 
 (3) Regulære avsendere, speditører og andre foretak eller personer som mottar, aksepterer, behandler og videreformidler farlig gods med luftfartøy skal ha relevant utdannelse for dette. Utdannelsen skal være godkjent av den respektive tilsynsmyndighet.
 
@@ -206,7 +270,11 @@ Fly med høyeste tillatte startvekt som overstiger 5.700 kg. Helikopter med høy
 
 (6) Operatørens opplæringsprogram og etterutdanningskurs skal fremgå av operatørens instruksverk og være godkjent av Luftfartstilsynet, som også vil føre tilsyn med virksomheten.
 
-(7) På forespørsel fra Luftfartstilsynet skal operatøren kunne fremvise:opplæringsprogrammet,program for etterutdanning,oversikt over personell som har fått opplæring i akseptering av farlig gods.
+(7) På forespørsel fra Luftfartstilsynet skal operatøren kunne fremvise:
+
+1. opplæringsprogrammet,
+2. program for etterutdanning,
+3. oversikt over personell som har fått opplæring i akseptering av farlig gods.
 
 ## Kapittel IV. Avsluttende bestemmelser
 

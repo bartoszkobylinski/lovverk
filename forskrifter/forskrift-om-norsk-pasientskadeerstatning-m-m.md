@@ -15,7 +15,7 @@ xml_hash: "193c702d0194647aec3cae33f1810948bf08a53801c7950535e0580ca7932e68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,10 @@ Norsk Pasientskadeerstatning kan etter avtale påta seg å behandle krav om erst
 
 ### § 4. Informasjon og statistikk
 
-Norsk Pasientskadeerstatning skal:sørge for at det blir utarbeidet og formidlet informasjon om erstatningsordningen og pasientskadeloven til helsepersonell og pasienter oglegge til rette for at opplysninger om statistikk og oversikt over skader, skadeomfang og risiko gjøres tilgjengelig i det skadeforebyggende arbeidet.
+Norsk Pasientskadeerstatning skal:
+
+1. sørge for at det blir utarbeidet og formidlet informasjon om erstatningsordningen og pasientskadeloven til helsepersonell og pasienter og
+2. legge til rette for at opplysninger om statistikk og oversikt over skader, skadeomfang og risiko gjøres tilgjengelig i det skadeforebyggende arbeidet.
 
 > Endret ved [forskrift 31 okt 2008 nr. 1167](forskrift/2008-10-31-1167) (i kraft 1 jan 2009).
 

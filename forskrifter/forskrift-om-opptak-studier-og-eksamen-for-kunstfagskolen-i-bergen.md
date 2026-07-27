@@ -94,9 +94,13 @@ Fagskolen bekjentgjør søknadsfrister på skolens nettside. Fagskolen benytter 
 
 ### § 2-6. Søkere med utenlandsk utdanning
 
-(1) *Søkere fra land i Norden*Søkere fra land i Norden med relevante faglige kvalifikasjoner vurderes for opptak på samme grunnlag som andre søkere.
+(1) *Søkere fra land i Norden*
 
-(2) *Søkere fra land utenfor Norden*Søkere fra land utenfor Norden må dokumentere relevante faglige kvalifikasjoner for å kunne vurderes for opptak på samme grunnlag som andre søkere.
+Søkere fra land i Norden med relevante faglige kvalifikasjoner vurderes for opptak på samme grunnlag som andre søkere.
+
+(2) *Søkere fra land utenfor Norden*
+
+Søkere fra land utenfor Norden må dokumentere relevante faglige kvalifikasjoner for å kunne vurderes for opptak på samme grunnlag som andre søkere.
 
 ### § 2-7. Krav til norskkunnskaper
 
@@ -122,7 +126,11 @@ Vedtak om opptak kan påklages. Klagen fremsettes skriftlig til skolens rektor. 
 
 ### § 3-2. Rett til å gå opp til eksamen/sluttvurdering med sensur
 
-Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:Studenten har oppfylt de arbeidskrav, innlevering eller krav til obligatorisk oppmøte, progresjon og/eller andre vilkår som er fastsatt i emne-/fagplanen eller studieplanen.Studenten har betalt studieavgift og semesteravgift innen fastsatte frister, jf. studiekontrakt.Studenten ikke har mistet retten til å gå opp til eksamen jf. [§ 25](lov/2018-06-08-28/§25) og [§ 43 i fagskoleloven](lov/2018-06-08-28/§43).
+Studenten har rett til å avlegge eksamen når følgende vilkår er oppfylt:
+
+1. Studenten har oppfylt de arbeidskrav, innlevering eller krav til obligatorisk oppmøte, progresjon og/eller andre vilkår som er fastsatt i emne-/fagplanen eller studieplanen.
+2. Studenten har betalt studieavgift og semesteravgift innen fastsatte frister, jf. studiekontrakt.
+3. Studenten ikke har mistet retten til å gå opp til eksamen jf. [§ 25](lov/2018-06-08-28/§25) og [§ 43 i fagskoleloven](lov/2018-06-08-28/§43).
 
 ### § 3-3. Bortvisning fra eksamen/avsluttende vurdering og sensur
 
@@ -148,7 +156,11 @@ Studenter som kommer for sent til eksamen/sensur kan nektes adgang til eksamensl
 
 ### § 3-7. Avsluttende vurdering av studentene/vurderingsuttrykk
 
-(1) I henhold til [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40) benytter fagskolen vurdering i form av vurderingsuttrykket *bestått*/*ikke bestått*, eller en gradert skala med fem trinn fra A til E for *bestått* og med F for *ikke bestått*.Bestått: Vurderingen gir uttrykk for tilfredsstillende måloppnåing i faget.Ikke bestått: Vurderingen gir uttrykk for svak eller ingen måloppnåing i faget.
+(1) I henhold til [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40) benytter fagskolen vurdering i form av vurderingsuttrykket *bestått*/*ikke bestått*, eller en gradert skala med fem trinn fra A til E for *bestått* og med F for *ikke bestått*.
+
+Bestått: Vurderingen gir uttrykk for tilfredsstillende måloppnåing i faget.
+
+Ikke bestått: Vurderingen gir uttrykk for svak eller ingen måloppnåing i faget.
 
 (2) Vurderingen fastsettes på grunnlag av en helhetlig vurdering/bedømming av studentens arbeid, og skal gjenspeile studentens *kunnskap, ferdigheter* og *generell kompetanse* i forhold til fagskolens læringsutbyttebeskrivelser ut fra Nasjonalt kvalifikasjonsrammeverk NKR på nivå 5.2.
 

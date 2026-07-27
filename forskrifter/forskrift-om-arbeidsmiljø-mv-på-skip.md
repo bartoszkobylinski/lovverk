@@ -15,7 +15,7 @@ xml_hash: "a3c381c28794881a3bbbee50d4c2f5e473bd5acf2e1132b8d3e5e34ed989f159"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,13 @@ Formålet med denne forskrift er å sikre at arbeid og fritid om bord tilrettele
 
 ### § 2-1. Retningslinjer for arbeidsmiljø, sikkerhet og helse
 
-(1) Følgende generelle retningslinjer skal legges til grunn ved gjennomføring av bestemmelsene i denne forskrift:risikomomenter skal unngås,enhver risiko som ikke kan unngås, skal vurderes særskilt,enhver risiko skal motvirkes ved kilden,det skal tas hensyn til tekniske fremskritt,felles vernetiltak av teknisk art eller tiltak, metoder eller prosedyrer knyttet til organiseringen av arbeidet skal om mulig gjennomføres framfor individuelle vernetiltak.
+(1) Følgende generelle retningslinjer skal legges til grunn ved gjennomføring av bestemmelsene i denne forskrift:
+
+1. risikomomenter skal unngås,
+2. enhver risiko som ikke kan unngås, skal vurderes særskilt,
+3. enhver risiko skal motvirkes ved kilden,
+4. det skal tas hensyn til tekniske fremskritt,
+5. felles vernetiltak av teknisk art eller tiltak, metoder eller prosedyrer knyttet til organiseringen av arbeidet skal om mulig gjennomføres framfor individuelle vernetiltak.
 
 (2) Forholdene skal legges til rette slik at de som har sitt arbeid om bord gis rimelig mulighet for faglig og personlig utvikling gjennom sitt arbeide.
 
@@ -84,7 +90,10 @@ Formålet med denne forskrift er å sikre at arbeid og fritid om bord tilrettele
 
 ### § 2-2. Risikovurdering
 
-(1) Farer om bord skal avdekkes. Når faren er avdekket, skal det foretas en vurdering av den risiko faren utgjør. Slik risikovurdering skal foretas regelmessig og ved:innføring av nytt arbeidsutstyr eller ny teknologi, ogøvrige endringer i organisering eller planlegging av arbeid som kan ha betydning for de som har sitt arbeid om bord sin sikkerhet og helse.
+(1) Farer om bord skal avdekkes. Når faren er avdekket, skal det foretas en vurdering av den risiko faren utgjør. Slik risikovurdering skal foretas regelmessig og ved:
+
+1. innføring av nytt arbeidsutstyr eller ny teknologi, og
+2. øvrige endringer i organisering eller planlegging av arbeid som kan ha betydning for de som har sitt arbeid om bord sin sikkerhet og helse.
 
 (2) Resultatene av risikovurderingen skal dokumenteres skriftlig.
 
@@ -98,7 +107,13 @@ Formålet med denne forskrift er å sikre at arbeid og fritid om bord tilrettele
 
 ### § 2-3. Tilrettelegging og organisering av arbeidet
 
-(1) De tiltak og arbeidsmetoder, som iverksettes, skal sikre best mulig vernenivå og en stadig forbedring av de som har sitt arbeid om bord sin sikkerhet og helse, og integreres i all aktivitet om bord. Planlegging og vurdering av arbeidsmiljøet og gjennomføring av nødvendige forebyggende tiltak skal skje i samarbeid med de som har sitt arbeid om bord. Det skal bl.a. sørges for at:arbeidet tilrettelegges og organiseres under hensyn til den enkeltes alder, kyndighet og øvrige forutsetninger,arbeidet blir tilpasset den enkelte, spesielt med hensyn til utforming av arbeidsplassen, valg av arbeidsutstyr og arbeidsmetoder, og med sikte på å lette ensformig arbeid og gjentakelsesarbeid,de som settes til å lede og kontrollere arbeid om bord, har de nødvendige kvalifikasjoner samt kunnskaper om faremomenter mv. som er forbundet med arbeidet,det føres et effektivt tilsyn med at arbeidet utføres på en sikker og helsemessig forsvarlig måte,de som settes til arbeid, har hatt adgang til tilstrekkelig hvile.
+(1) De tiltak og arbeidsmetoder, som iverksettes, skal sikre best mulig vernenivå og en stadig forbedring av de som har sitt arbeid om bord sin sikkerhet og helse, og integreres i all aktivitet om bord. Planlegging og vurdering av arbeidsmiljøet og gjennomføring av nødvendige forebyggende tiltak skal skje i samarbeid med de som har sitt arbeid om bord. Det skal bl.a. sørges for at:
+
+1. arbeidet tilrettelegges og organiseres under hensyn til den enkeltes alder, kyndighet og øvrige forutsetninger,
+2. arbeidet blir tilpasset den enkelte, spesielt med hensyn til utforming av arbeidsplassen, valg av arbeidsutstyr og arbeidsmetoder, og med sikte på å lette ensformig arbeid og gjentakelsesarbeid,
+3. de som settes til å lede og kontrollere arbeid om bord, har de nødvendige kvalifikasjoner samt kunnskaper om faremomenter mv. som er forbundet med arbeidet,
+4. det føres et effektivt tilsyn med at arbeidet utføres på en sikker og helsemessig forsvarlig måte,
+5. de som settes til arbeid, har hatt adgang til tilstrekkelig hvile.
 
 (2) For den som har sitt arbeid om bord som er gravid, nylig har født eller ammer, skal det i tillegg foretas særskilt tilrettelegging etter [§ 8-5](forskrift/2005-01-01-8/§8-5).
 
@@ -122,7 +137,11 @@ De som har sitt arbeid om bord eller deres verneombud skal i forbindelse med all
 
 ### § 2-6. Opplæring av de som har sitt arbeid om bord
 
-(1) Hver enkelt som har sitt arbeid om bord skal få nødvendig opplæring:for å kunne utføre sitt arbeid på en sikkerhetsmessig forsvarlig måte,før det gis adgang til områder med alvorlig eller særskilt risiko,ved innføring av ny teknologi.
+(1) Hver enkelt som har sitt arbeid om bord skal få nødvendig opplæring:
+
+1. for å kunne utføre sitt arbeid på en sikkerhetsmessig forsvarlig måte,
+2. før det gis adgang til områder med alvorlig eller særskilt risiko,
+3. ved innføring av ny teknologi.
 
 (2) Opplæringen skal gjentas regelmessig og ved endret eller ny risiko.
 
@@ -154,13 +173,23 @@ De som har sitt arbeid om bord eller deres verneombud skal i forbindelse med all
 
 (1) Med personlig verneutstyr forstås utstyr som den som har sitt arbeid om bord skal bære eller holde, for å beskytte seg mot en eller flere farer som kan true personens sikkerhet og helse, og ethvert tillegg eller tilbehør som tjener dette formål.
 
-(2) Definisjonen i første ledd omfatter ikke:ordinære arbeidsklær og uniformer som ikke er spesielt beregnet på å verne den som har sitt arbeid om bord sin sikkerhet og helse,nødhjelps- og redningsutstyr,sportsutstyr og annet utstyr til bruk i forbindelse med fritidsaktiviteter,bærbare innretninger som påviser og signaliserer risiko og skadelige faktorer.
+(2) Definisjonen i første ledd omfatter ikke:
+
+1. ordinære arbeidsklær og uniformer som ikke er spesielt beregnet på å verne den som har sitt arbeid om bord sin sikkerhet og helse,
+2. nødhjelps- og redningsutstyr,
+3. sportsutstyr og annet utstyr til bruk i forbindelse med fritidsaktiviteter,
+4. bærbare innretninger som påviser og signaliserer risiko og skadelige faktorer.
 
 > Endret ved forskrifter [19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### § 3-3. Krav til personlig verneutstyr
 
-(1) Alt personlig verneutstyr skal:være hensiktsmessig i forhold til de farer det skal forebygge, uten selv å føre til risiko,passe til eksisterende forhold på arbeidsplassen,ta hensyn til den som har sitt arbeid om bord sin helse,passe de som har sitt arbeid om bord, om nødvendig etter tilpasning.
+(1) Alt personlig verneutstyr skal:
+
+1. være hensiktsmessig i forhold til de farer det skal forebygge, uten selv å føre til risiko,
+2. passe til eksisterende forhold på arbeidsplassen,
+3. ta hensyn til den som har sitt arbeid om bord sin helse,
+4. passe de som har sitt arbeid om bord, om nødvendig etter tilpasning.
 
 (2) Verneutstyret skal vedlikeholdes, repareres og utskiftes for til enhver tid å være i tilfredsstillende stand.
 
@@ -174,7 +203,12 @@ De som har sitt arbeid om bord eller deres verneombud skal i forbindelse med all
 
 (7) Personlig verneutstyr skal bare benyttes til angitte formål og i tråd med tilhørende anvisninger og bruksanvisninger.
 
-(8) For å utføre arbeidsoppgaver som krever særskilt sikkerhetsutstyr, skal det om bord i ethvert fartøy i tillegg til det utstyr som er påbudt i øvrige forskrifter, være om bord et tilstrekkelig omfang av følgende utstyr:sikkerhetsbelter, sikkerhetsseler,hjelmer, tettsittende briller, ansiktsskjermer, hørselsvern,kjeledresser, oljeklær, hansker med lang mansjett, arbeidsflytevester,vernefottøy, trykkluftapparater og filtermasker.
+(8) For å utføre arbeidsoppgaver som krever særskilt sikkerhetsutstyr, skal det om bord i ethvert fartøy i tillegg til det utstyr som er påbudt i øvrige forskrifter, være om bord et tilstrekkelig omfang av følgende utstyr:
+
+1. sikkerhetsbelter, sikkerhetsseler,
+2. hjelmer, tettsittende briller, ansiktsskjermer, hørselsvern,
+3. kjeledresser, oljeklær, hansker med lang mansjett, arbeidsflytevester,
+4. vernefottøy, trykkluftapparater og filtermasker.
 
 > Endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -204,7 +238,10 @@ Dette kapittel fastsetter minimumskrav til sikkerhet og helse i forbindelse med 
 
 ### § 4-2. Definisjoner
 
-I dette kapittel betyr:*Arbeidsutstyr;* alle maskiner, apparater, redskaper eller installasjoner som brukes i arbeidet.*Bruk av arbeidsutstyr;* enhver arbeidsoperasjon som innebærer bruk av arbeidsutstyr, bl.a. igangsetting og stans av utstyret, bruk, transport, installering, montering, reparasjon, endringer, vedlikehold, service og renhold.
+I dette kapittel betyr:
+
+1. *Arbeidsutstyr;* alle maskiner, apparater, redskaper eller installasjoner som brukes i arbeidet.
+2. *Bruk av arbeidsutstyr;* enhver arbeidsoperasjon som innebærer bruk av arbeidsutstyr, bl.a. igangsetting og stans av utstyret, bruk, transport, installering, montering, reparasjon, endringer, vedlikehold, service og renhold.
 
 ### § 4-3. Alminnelige plikter
 
@@ -230,7 +267,10 @@ I dette kapittel betyr:*Arbeidsutstyr;* alle maskiner, apparater, redskaper elle
 
 ### § 4-5. Arbeidsutstyr som medfører særlig fare
 
-Ved bruk av arbeidsutstyr som kan medføre særlig fare for skade på liv og helse, skal det utarbeides skriftlig arbeidsinstruks og treffes nødvendige tiltak for å sikre at:bruk begrenses til de som har sitt arbeid om bord som har dette som oppgave og har fått nødvendig opplæring,arbeidsutstyret ikke tas i bruk dersom feil eller slitasje kan føre til fare ved bruk.
+Ved bruk av arbeidsutstyr som kan medføre særlig fare for skade på liv og helse, skal det utarbeides skriftlig arbeidsinstruks og treffes nødvendige tiltak for å sikre at:
+
+1. bruk begrenses til de som har sitt arbeid om bord som har dette som oppgave og har fått nødvendig opplæring,
+2. arbeidsutstyret ikke tas i bruk dersom feil eller slitasje kan føre til fare ved bruk.
 
 > Endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -238,7 +278,11 @@ Ved bruk av arbeidsutstyr som kan medføre særlig fare for skade på liv og hel
 
 (1) Den som har sitt arbeid om bord skal gis og ha forstått nødvendig informasjon for sikker bruk av arbeidsutstyr.
 
-(2) Det skal særlig sikres at det gis informasjon om:farer ved uregelmessigheter som kan oppstå,forholdsregler som må tas, på bakgrunn av erfaringer med bruk av arbeidsutstyret,de farer bruk av arbeidsutstyret kan medføre for øvrige som har sitt arbeid om bord som befinner seg i arbeidsområdet.
+(2) Det skal særlig sikres at det gis informasjon om:
+
+1. farer ved uregelmessigheter som kan oppstå,
+2. forholdsregler som må tas, på bakgrunn av erfaringer med bruk av arbeidsutstyret,
+3. de farer bruk av arbeidsutstyret kan medføre for øvrige som har sitt arbeid om bord som befinner seg i arbeidsområdet.
 
 > Endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -258,7 +302,11 @@ Ved bruk av arbeidsutstyr som kan medføre særlig fare for skade på liv og hel
 
 (2) Det skal være ett verneombud på fartøy med 3–7 personer som har sitt arbeid om bord, med mindre et flertall av de som har sitt arbeid om bord velger at verne- og miljøarbeidet om bord skal ivaretas uten eget verneombud.
 
-(3) Det skal til enhver tid være minst:ett verneombud på fartøy med 8–14 personer som har sitt arbeid om bord,to verneombud på fartøy med 15–39 personer som har sitt arbeid om bord,tre verneombud på fartøy med minst 40 personer som har sitt arbeid om bord.
+(3) Det skal til enhver tid være minst:
+
+1. ett verneombud på fartøy med 8–14 personer som har sitt arbeid om bord,
+2. to verneombud på fartøy med 15–39 personer som har sitt arbeid om bord,
+3. tre verneombud på fartøy med minst 40 personer som har sitt arbeid om bord.
 
 (4) Dersom andre enn reder samtidig driver virksomhet om bord, skal det være ett verneombud når denne del av de som arbeider om bord, er fra 4-14 personer og to verneombud når denne del av de som arbeider om bord, er på minst 15 personer. Verneombud valgt etter denne bestemmelsen kommer i tillegg til verneombud valgt etter annet og tredje ledd.
 
@@ -316,7 +364,12 @@ Ved bruk av arbeidsutstyr som kan medføre særlig fare for skade på liv og hel
 
 (2) Verneombudet bør delta i utarbeidelse av prosedyrer og arbeidsbeskrivelser som har betydning for de som har sitt arbeid om bord sin sikkerhet og helse. Verneombudet bør også delta i risikovurderinger som nevnt i [§ 2-2](forskrift/2005-01-01-8/§2-2), og føre tilsyn med at nødvendige tiltak etter samme bestemmelse iverksettes.
 
-(3) Verneombudet skal særlig ha oppmerksomheten rettet mot at:arbeidsutstyr, tekniske innretninger, kjemiske stoffer og arbeidsprosesser ikke utsetter de som har sitt arbeid om bord for fare,verneinnretninger og personlig verneutstyr er i forsvarlig stand og blir brukt,de som har sitt arbeid om bord får nødvendig instruksjon, øvelse og opplæring,arbeidet ellers blir tilrettelagt slik at de som har sitt arbeid om bord kan utføre arbeidet på en helse- og sikkerhetsmessig forsvarlig måte.
+(3) Verneombudet skal særlig ha oppmerksomheten rettet mot at:
+
+1. arbeidsutstyr, tekniske innretninger, kjemiske stoffer og arbeidsprosesser ikke utsetter de som har sitt arbeid om bord for fare,
+2. verneinnretninger og personlig verneutstyr er i forsvarlig stand og blir brukt,
+3. de som har sitt arbeid om bord får nødvendig instruksjon, øvelse og opplæring,
+4. arbeidet ellers blir tilrettelagt slik at de som har sitt arbeid om bord kan utføre arbeidet på en helse- og sikkerhetsmessig forsvarlig måte.
 
 (4) Blir verneombudet kjent med forhold som kan føre til ulykke eller helseskade, skal verneombudet straks gjøre hva det kan for å avverge faren. Kan faren ikke avverges, skal verneombudet umiddelbart gjøre skipsføreren eller dennes representant oppmerksom på forholdet. Skipsføreren skal gi verneombudet svar på henvendelsen. Er det ikke innen rimelig tid tatt hensyn til henvendelsen, skal verneombudet underrette norsk myndighet f.eks. norsk utenriksstasjon eller Sjøfartsdirektoratet. Skipsføreren og arbeidsmiljøutvalget bør informeres før slik underretning blir gitt.
 
@@ -372,7 +425,15 @@ Ved bruk av arbeidsutstyr som kan medføre særlig fare for skade på liv og hel
 
 ### § 5-11. Arbeidsmiljøutvalgets oppgaver
 
-(1) Arbeidsmiljøutvalget skal virke for gjennomføring av trygge og helsemessig forsvarlige forhold om bord og i denne forbindelse særlig beskjeftige seg med:spørsmål som angår den interne vernetjeneste og de som har sitt arbeid om bord sin helse og velferd,spørsmål om opplæring, instruksjon og opplysningsvirksomhet som har betydning for å hindre yrkes- og helseskader i arbeid og fritid,kartlegging av arbeidssteder og arbeidsforhold som innebærer fare for ulykker og helseskader, herunder gjennomgå risikovurdering som nevnt i [§ 2-2](forskrift/2005-01-01-8/§2-2) og vurdere om denne er tilstrekkelig for å avdekke de farer de som har sitt arbeid om bord utsettes for,søke årsaker til sykdom og dødsfall som kan ha sammenheng med miljøet om bord, og drøfte forslag til forebyggende tiltak,aktivt å medvirke til at vernearbeidet blir en del av arbeidsplanleggingen,å påse at nytilsatte gis betryggende rettledning og opplæring i vernespørsmål, og å påse om vedkommende vil kunne utsettes for særskilt risiko,å ta opp til drøfting forhold som har betydning for trivselen om bord, samværsformer, fritidsbeskjeftigelser mv.
+(1) Arbeidsmiljøutvalget skal virke for gjennomføring av trygge og helsemessig forsvarlige forhold om bord og i denne forbindelse særlig beskjeftige seg med:
+
+1. spørsmål som angår den interne vernetjeneste og de som har sitt arbeid om bord sin helse og velferd,
+2. spørsmål om opplæring, instruksjon og opplysningsvirksomhet som har betydning for å hindre yrkes- og helseskader i arbeid og fritid,
+3. kartlegging av arbeidssteder og arbeidsforhold som innebærer fare for ulykker og helseskader, herunder gjennomgå risikovurdering som nevnt i [§ 2-2](forskrift/2005-01-01-8/§2-2) og vurdere om denne er tilstrekkelig for å avdekke de farer de som har sitt arbeid om bord utsettes for,
+4. søke årsaker til sykdom og dødsfall som kan ha sammenheng med miljøet om bord, og drøfte forslag til forebyggende tiltak,
+5. aktivt å medvirke til at vernearbeidet blir en del av arbeidsplanleggingen,
+6. å påse at nytilsatte gis betryggende rettledning og opplæring i vernespørsmål, og å påse om vedkommende vil kunne utsettes for særskilt risiko,
+7. å ta opp til drøfting forhold som har betydning for trivselen om bord, samværsformer, fritidsbeskjeftigelser mv.
 
 (2) Arbeidsmiljøutvalget skal gå gjennom nye og endrede prosedyrer og arbeidsbeskrivelser som har betydning for de som har sitt arbeid om bord sin sikkerhet og helse, og komme med forslag til forbedringer hvor dette anses påkrevd.
 
@@ -408,7 +469,14 @@ Ved bruk av arbeidsutstyr som kan medføre særlig fare for skade på liv og hel
 
 (1) Verneombud og medlemmer av arbeidsmiljøutvalget skal få den opplæring som er nødvendig for at de skal kunne utføre sine verv på en forsvarlig måte. Utgifter til slik opplæring skal dekkes av rederiet.
 
-(2) Opplæringen skal:omfatte en innføring i hvordan verne- og miljøarbeidet skal drives,gi kunnskaper om ergonomi, støy, belysning, klima og trivselskapende tiltak,gi kunnskaper om ulykkesvern, herunder forebyggende tiltak, bruk av personlig verneutstyr mv.,gi kunnskaper om risikovurdering av arbeidsoperasjoner som et grunnleggende ledd i det ulykkesforebyggende arbeidet,gi innføring og orientering om skipssikkerhetsloven, skipsarbeidsloven og forskriften her,gi innføring om Sjøfartsdirektoratets oppbygging og rolle også i forhold til andre berørte myndigheter.
+(2) Opplæringen skal:
+
+1. omfatte en innføring i hvordan verne- og miljøarbeidet skal drives,
+2. gi kunnskaper om ergonomi, støy, belysning, klima og trivselskapende tiltak,
+3. gi kunnskaper om ulykkesvern, herunder forebyggende tiltak, bruk av personlig verneutstyr mv.,
+4. gi kunnskaper om risikovurdering av arbeidsoperasjoner som et grunnleggende ledd i det ulykkesforebyggende arbeidet,
+5. gi innføring og orientering om skipssikkerhetsloven, skipsarbeidsloven og forskriften her,
+6. gi innføring om Sjøfartsdirektoratets oppbygging og rolle også i forhold til andre berørte myndigheter.
 
 (3) Opplæringens varighet skal være minst 40 timer. Det kan avtales en kortere opplæring enn 40 timer dersom partene i felleskap er kommet fram til at det er forsvarlig ut fra en vurdering av problemenes karakter og omfang. Opplæringen skal dokumenteres.
 
@@ -478,7 +546,13 @@ Med manuell håndtering av gjenstander forstås enhver løfting, nedsetting, sky
 
 (2) I alle tilfeller der manuell håndtering av gjenstander ikke kan unngås, skal arbeidet tilrettelegges slik at håndteringen kan skje på forsvarlig måte, og at skade på de som har sitt arbeid om bord unngås.
 
-(3) Ved tilrettelegging av arbeidet skal det foretas en vurdering av sikkerhets- og helsemessige forhold hvor det tas hensyn til gjenstandens art, tyngde, utforming av arbeidsmiljøet og arbeidsoppgaven som skal utføres. Det skal bl.a. legges vekt på at:det er tilstrekkelig plass til å utføre arbeidsoppgaven,underlaget er jevnt og ikke for glatt for de som har sitt arbeid om bord sitt fottøy,arbeidsområdet gir de som har sitt arbeid om bord mulighet til å håndtere gjenstander i forsvarlig høyde eller i riktig stilling,temperatur, fuktighet, og ventilasjon kan påvirke sikkerheten,de som har sitt arbeid om bord selv får innflytelse på arbeidstempoet, og ikke blir utsatt for langvarig og hyppig fysisk anstrengelse eller hyppig fysisk anstrengelse alene som kan føre til skade.
+(3) Ved tilrettelegging av arbeidet skal det foretas en vurdering av sikkerhets- og helsemessige forhold hvor det tas hensyn til gjenstandens art, tyngde, utforming av arbeidsmiljøet og arbeidsoppgaven som skal utføres. Det skal bl.a. legges vekt på at:
+
+1. det er tilstrekkelig plass til å utføre arbeidsoppgaven,
+2. underlaget er jevnt og ikke for glatt for de som har sitt arbeid om bord sitt fottøy,
+3. arbeidsområdet gir de som har sitt arbeid om bord mulighet til å håndtere gjenstander i forsvarlig høyde eller i riktig stilling,
+4. temperatur, fuktighet, og ventilasjon kan påvirke sikkerheten,
+5. de som har sitt arbeid om bord selv får innflytelse på arbeidstempoet, og ikke blir utsatt for langvarig og hyppig fysisk anstrengelse eller hyppig fysisk anstrengelse alene som kan føre til skade.
 
 > Endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -486,7 +560,10 @@ Med manuell håndtering av gjenstander forstås enhver løfting, nedsetting, sky
 
 (1) De som har sitt arbeid om bord eller deres verneombud skal informeres om den risikoen manuell håndtering av gjenstander innebærer, og om alle tiltak som iverksettes i denne forbindelse.
 
-(2) De som har sitt arbeid om bord eller deres representanter skal få generelle anvisninger, og når det er mulig nøyaktig informasjon om:vekten av en gjenstand,tyngdepunktet eller den tyngste siden dersom vekten er ujevnt fordelt.
+(2) De som har sitt arbeid om bord eller deres representanter skal få generelle anvisninger, og når det er mulig nøyaktig informasjon om:
+
+1. vekten av en gjenstand,
+2. tyngdepunktet eller den tyngste siden dersom vekten er ujevnt fordelt.
 
 (3) De som har sitt arbeid om bord skal få nødvendig opplæring i riktig bruk av gjenstander.
 
@@ -498,13 +575,21 @@ Med manuell håndtering av gjenstander forstås enhver løfting, nedsetting, sky
 
 ### § 8-1. Virkeområde
 
-Dette kapittel gjelder for den som har sitt arbeid om bord som:er gravid,nylig har født,ammer,med de unntak og særbestemmelser som følger av den til enhver tid gjeldende forskrift om skipsarbeidslovens virkeområde.
+Dette kapittel gjelder for den som har sitt arbeid om bord som:
+
+1. er gravid,
+2. nylig har født,
+3. ammer,
+
+med de unntak og særbestemmelser som følger av den til enhver tid gjeldende forskrift om skipsarbeidslovens virkeområde.
 
 > Endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
 ### § 8-2. Definisjoner
 
-I dette kapittel betyr:*Skade;* enhver skadelig virkning på den gravides helse, fosteret eller ammingen.
+I dette kapittel betyr:
+
+*Skade;* enhver skadelig virkning på den gravides helse, fosteret eller ammingen.
 
 ### § 8-3. Informasjon til skipsfører eller reder
 
@@ -594,7 +679,17 @@ Dersom den som har sitt arbeid om bord som går inn under [§ 8-1](forskrift/200
 
 ### § 9-5. Bruk av sikkerhets- og verneutstyr ved særskilte arbeidsoperasjoner om bord på fiske- og fangstfartøy
 
-I tillegg til bestemmelsene i [§ 9-1](forskrift/2005-01-01-8/§9-1) – § 9-4 gjelder følgende bestemmelser:Ved arbeid på dekk om bord i fartøy med en person om bord, bør det benyttes sikkerhetssele eller belte med line, så fremt ikke forholdene om bord gjør slik bruk farlig eller særlig vanskelig.Det skal anvendes hjelm under fortøyning, ved lasting og lossing, når kraftblokkarrangement mv. er i bruk, ved arbeid på tråldekk og ved arbeid i lasterom, maskinrom og tanker, samt når det arbeides på andre steder hvor noe kan falle ned. Hvor det er fare for fotskader, skal det anvendes vernefottøy.Personer som arbeider på utsatt dekk skal være utstyrt med arbeidsflytevest eller flyteplagg.Det skal settes opp varselskilt på de steder hvor det er forbundet med spesiell fare å oppholde seg.Overtrekksregntøy som benyttes skal ha iøynefallende farge.Om bord på fartøy med største lengde på 15 meter og derover skal det være anordnet et pålitelig kommunikasjonssystem mellom styrehus og arbeidsdekk.Manøveranordning for vinsj, notrull, tørketrommel, kraftblokk og andre løfte- og/eller heisinnretninger skal automatisk gå tilbake til nøytral stilling (stopp) når den ikke betjenes, og den skal kunne sikres i nøytral stilling. Fra manøverplass skal det være oversiktlig eller TV-overvåking til eventuelt hiv og til løfte- og heisinnretning.Betjening av innretning som nevnt i bokstav g skal utføres av person over 18 år.Innhalingsutstyr for fiskeredskaper skal ha egnede sikkerhetsinnretninger for å hindre ulykker, herunder nødstoppanordninger. Nødstopp skal arrangeres slik at innhalingsutstyret stanser dersom en person dras inn mot dette.
+I tillegg til bestemmelsene i [§ 9-1](forskrift/2005-01-01-8/§9-1) – § 9-4 gjelder følgende bestemmelser:
+
+1. Ved arbeid på dekk om bord i fartøy med en person om bord, bør det benyttes sikkerhetssele eller belte med line, så fremt ikke forholdene om bord gjør slik bruk farlig eller særlig vanskelig.
+2. Det skal anvendes hjelm under fortøyning, ved lasting og lossing, når kraftblokkarrangement mv. er i bruk, ved arbeid på tråldekk og ved arbeid i lasterom, maskinrom og tanker, samt når det arbeides på andre steder hvor noe kan falle ned. Hvor det er fare for fotskader, skal det anvendes vernefottøy.
+3. Personer som arbeider på utsatt dekk skal være utstyrt med arbeidsflytevest eller flyteplagg.
+4. Det skal settes opp varselskilt på de steder hvor det er forbundet med spesiell fare å oppholde seg.
+5. Overtrekksregntøy som benyttes skal ha iøynefallende farge.
+6. Om bord på fartøy med største lengde på 15 meter og derover skal det være anordnet et pålitelig kommunikasjonssystem mellom styrehus og arbeidsdekk.
+7. Manøveranordning for vinsj, notrull, tørketrommel, kraftblokk og andre løfte- og/eller heisinnretninger skal automatisk gå tilbake til nøytral stilling (stopp) når den ikke betjenes, og den skal kunne sikres i nøytral stilling. Fra manøverplass skal det være oversiktlig eller TV-overvåking til eventuelt hiv og til løfte- og heisinnretning.
+8. Betjening av innretning som nevnt i bokstav g skal utføres av person over 18 år.
+9. Innhalingsutstyr for fiskeredskaper skal ha egnede sikkerhetsinnretninger for å hindre ulykker, herunder nødstoppanordninger. Nødstopp skal arrangeres slik at innhalingsutstyret stanser dersom en person dras inn mot dette.
 
 ### § 9-6. Kontroll av gassfare mv.
 
@@ -604,7 +699,10 @@ I tillegg til bestemmelsene i [§ 9-1](forskrift/2005-01-01-8/§9-1) – § 9-4 
 
 (3) Kontroll etter første ledd skal utføres av person som er gitt dokumentert opplæring i oppgaven. Den som utfører kontrollen, skal også vurdere hvor ofte det bør gjennomføres ny kontroll, og hvilke tiltak som må iverksettes.
 
-(4) For å utføre kontroll etter denne paragrafen skal det om bord væreett eller flere egnede godkjente bærbare gassmålingsinstrumenter som minimum kan måle innhold i atmosfæren av oksygen, brannfarlige gasser, brannfarlig damp, hydrogensulfid og karbonmonoksidtilgjengelig et godkjent luftforsynt åndedrettsvern med et tilstrekkelig antall reservebeholdere med trykkluft eller et særskilt fylleaggregat for trykkluftbeholderne.
+(4) For å utføre kontroll etter denne paragrafen skal det om bord være
+
+1. ett eller flere egnede godkjente bærbare gassmålingsinstrumenter som minimum kan måle innhold i atmosfæren av oksygen, brannfarlige gasser, brannfarlig damp, hydrogensulfid og karbonmonoksid
+2. tilgjengelig et godkjent luftforsynt åndedrettsvern med et tilstrekkelig antall reservebeholdere med trykkluft eller et særskilt fylleaggregat for trykkluftbeholderne.
 
 (5) Forekomst av andre giftige gasser skal være risikovurdert, og utstyr for måling av disse skal være tilgjengelig om bord.
 
@@ -616,7 +714,10 @@ I tillegg til bestemmelsene i [§ 9-1](forskrift/2005-01-01-8/§9-1) – § 9-4 
 
 (2) Et egnet system for kommunikasjon skal brukes av alle involverte.
 
-(3) Så lenge det er personell i lukket rom, skalen utpekt person utstyrt med radiokommunikasjonsutstyr kontinuerlig oppholde seg ved entringspunktluftforsynt åndedrettsvern, utstyr for redning og en lommemaske for hjerte-lungeredning være tilgjengelig ved entringspunkt.
+(3) Så lenge det er personell i lukket rom, skal
+
+1. en utpekt person utstyrt med radiokommunikasjonsutstyr kontinuerlig oppholde seg ved entringspunkt
+2. luftforsynt åndedrettsvern, utstyr for redning og en lommemaske for hjerte-lungeredning være tilgjengelig ved entringspunkt.
 
 (4) Personell trent i bruk av luftforsynt åndedrettsvern og redning fra lukket rom skal være tilgjengelig i umiddelbar nærhet, klar til innsats og informert om aktiviteten som pågår. Personen nevnt i tredje ledd bokstav a skal ikke brukes til denne oppgaven.
 
@@ -626,7 +727,13 @@ I tillegg til bestemmelsene i [§ 9-1](forskrift/2005-01-01-8/§9-1) – § 9-4 
 
 (1) Øvelser i entring av og redning fra innelukkede rom skal planlegges og gjennomføres på en trygg måte.
 
-(2) Hver øvelse i entring av og redning fra innelukkede rom skal omfattekontroll og bruk av personlig verneutstyr nødvendig for entringkontroll og bruk av kommunikasjonsutstyr og -prosedyrerkontroll og bruk av instrumenter for måling av atmosfæren i innelukkede romkontroll og bruk av redningsutstyr og -prosedyrerpraktisering av førstehjelp og gjenopplivingsteknikker.
+(2) Hver øvelse i entring av og redning fra innelukkede rom skal omfatte
+
+1. kontroll og bruk av personlig verneutstyr nødvendig for entring
+2. kontroll og bruk av kommunikasjonsutstyr og -prosedyrer
+3. kontroll og bruk av instrumenter for måling av atmosfæren i innelukkede rom
+4. kontroll og bruk av redningsutstyr og -prosedyrer
+5. praktisering av førstehjelp og gjenopplivingsteknikker.
 
 > Tilføyd ved forskrift [23 jan 2024 nr. 165](forskrift/2024-01-23-165).
 
@@ -678,7 +785,12 @@ I tillegg til bestemmelsene i [§ 9-1](forskrift/2005-01-01-8/§9-1) – § 9-4 
 
 ### § 10-2. Forbud mot visse kjemikalier
 
-Følgende kjemikalier er forbudt om bord:2-naftylamin og salt av 2-naftylamin (CAS-nr. 91-59-8),4-aminobifenyl og salt av 4-aminobifenyl (CAS-nr. 92-67-1),benzidin og salt av benzidin (CAS-nr. 92-87-5),4-nitrobifenyl (CAS-nr. 92-93-3).
+Følgende kjemikalier er forbudt om bord:
+
+1. 2-naftylamin og salt av 2-naftylamin (CAS-nr. 91-59-8),
+2. 4-aminobifenyl og salt av 4-aminobifenyl (CAS-nr. 92-67-1),
+3. benzidin og salt av benzidin (CAS-nr. 92-87-5),
+4. 4-nitrobifenyl (CAS-nr. 92-93-3).
 
 ## Kapittel 11. Bestemmelser om vern av de som har sitt arbeid om bord mot eksponering for kjemikalier og biologiske faktorer
 
@@ -692,7 +804,19 @@ Følgende kjemikalier er forbudt om bord:2-naftylamin og salt av 2-naftylamin (C
 
 ### § 11-2. Definisjoner
 
-I dette kapittel betyr:*Biologiske faktorer:* Mikroorganismer, inkludert de som er genmodifisert, cellekulturer, humane endoparasitter og prioner som kan fremkalle infeksjoner, allergi eller giftvirkning hos mennesker.*Biologisk grenseverdi for bly:* Bindende maksimumsverdi for konsentrasjonen av bly i blod.*Cellekultur:* Resultatet av in-vitro dyrkning av celler fra flercellede organismer.*Eksponering:* De skadelige virkningene av kjemikalier og biologiske faktorer de som har sitt arbeid om bord utsettes for, eller det er fare for at de blir utsatt for.*Endoparasitter:* Parasitter som lever hele eller deler av sitt liv i menneskekroppen.*Grenseverdi:* Maksimumsverdi for gjennomsnittskonsentrasjonen av et kjemisk stoff i pustesonen til en som har sitt arbeid om bord i en fastsatt referanseperiode på åtte timer.*Inneslutning:* Barrierer som anvendes for å unngå at biologiske faktorer kommer i utilsiktet kontakt med mennesker eller miljø.*Kjemikalier:* Grunnstoffer, kjemiske forbindelser og blandinger av slike som kan utgjøre en risiko for den som har sitt arbeid om bord sin sikkerhet og helse, enten kjemikaliet forekommer i naturlig tilstand, er industrielt fremstilt, brukes eller frigjøres, herunder frigjøring i form av avfall ved enhver arbeidsoperasjon, og uavhengig av om fremstillingen er tilsiktet eller ikke.*Kreftfremkallende kjemikalier og prosesser:* Kjemikalier som tilfredsstiller kriteriene for klassifisering som kreftfremkallende i henhold til [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), jf. forordning [(EF) nr. 1272/2008](eu/32008r1272*) vedlegg I del 3.*Levende biologiske faktorer:* Enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale.*Mikroorganisme:* Mikrobiologisk enhet, cellulær eller ikke-cellulær, som er i stand til replikasjon eller overførsel av genetisk materiale.
+I dette kapittel betyr:
+
+1. *Biologiske faktorer:* Mikroorganismer, inkludert de som er genmodifisert, cellekulturer, humane endoparasitter og prioner som kan fremkalle infeksjoner, allergi eller giftvirkning hos mennesker.
+2. *Biologisk grenseverdi for bly:* Bindende maksimumsverdi for konsentrasjonen av bly i blod.
+3. *Cellekultur:* Resultatet av in-vitro dyrkning av celler fra flercellede organismer.
+4. *Eksponering:* De skadelige virkningene av kjemikalier og biologiske faktorer de som har sitt arbeid om bord utsettes for, eller det er fare for at de blir utsatt for.
+5. *Endoparasitter:* Parasitter som lever hele eller deler av sitt liv i menneskekroppen.
+6. *Grenseverdi:* Maksimumsverdi for gjennomsnittskonsentrasjonen av et kjemisk stoff i pustesonen til en som har sitt arbeid om bord i en fastsatt referanseperiode på åtte timer.
+7. *Inneslutning:* Barrierer som anvendes for å unngå at biologiske faktorer kommer i utilsiktet kontakt med mennesker eller miljø.
+8. *Kjemikalier:* Grunnstoffer, kjemiske forbindelser og blandinger av slike som kan utgjøre en risiko for den som har sitt arbeid om bord sin sikkerhet og helse, enten kjemikaliet forekommer i naturlig tilstand, er industrielt fremstilt, brukes eller frigjøres, herunder frigjøring i form av avfall ved enhver arbeidsoperasjon, og uavhengig av om fremstillingen er tilsiktet eller ikke.
+9. *Kreftfremkallende kjemikalier og prosesser:* Kjemikalier som tilfredsstiller kriteriene for klassifisering som kreftfremkallende i henhold til [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), jf. forordning [(EF) nr. 1272/2008](eu/32008r1272*) vedlegg I del 3.
+10. *Levende biologiske faktorer:* Enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale.
+11. *Mikroorganisme:* Mikrobiologisk enhet, cellulær eller ikke-cellulær, som er i stand til replikasjon eller overførsel av genetisk materiale.
 
 > Endret ved [forskrifter 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [23 jan 2024 nr. 165](forskrift/2024-01-23-165).
 
@@ -714,9 +838,24 @@ I dette kapittel betyr:*Biologiske faktorer:* Mikroorganismer, inkludert de som 
 
 ### § 11-4. Risikovurdering
 
-(1) Enhver eksponering for kjemikalier og biologiske faktorer som innebærer en helsefare for de som har sitt arbeid om bord skal avdekkes. Det skal bl.a. kartlegges:hvilke kjemikalier og biologiske faktorer de som har sitt arbeid om bord eksponeres for,hvordan og ved hvilke aktiviteter og i hvilke områder eksponering forekommer,hvilke konsentrasjoner eksponering forekommer i,varigheten av eksponering,antall personer som har sitt arbeid om bord som kan bli utsatt for eksponering.
+(1) Enhver eksponering for kjemikalier og biologiske faktorer som innebærer en helsefare for de som har sitt arbeid om bord skal avdekkes. Det skal bl.a. kartlegges:
 
-(2) Når slik eksponering er avdekket skal det foretas en vurdering av den risiko eksponeringen utgjør. Slik risikovurdering skal foretas på grunnlag av alle tilgjengelige opplysninger, herunder:kjemikalienes farlige egenskaper,leverandørens informasjon om risiko for sikkerhet og helse,hvilke risikogrupper de biologiske faktorer er plassert i,opplysninger om sykdommer de biologiske faktorer kan forårsake hos de som har sitt arbeid om bord,informasjon fra fagmyndigheter,anbefalte vernetiltak og effekten av iverksatte tiltak,kunnskap om at sykdom hos den som har sitt arbeid om bord, som er påvist ved særlig helseundersøkelse eller på annen måte, kan ha direkte forbindelse med vedkommendes arbeid,forholdene om bord for øvrig.
+1. hvilke kjemikalier og biologiske faktorer de som har sitt arbeid om bord eksponeres for,
+2. hvordan og ved hvilke aktiviteter og i hvilke områder eksponering forekommer,
+3. hvilke konsentrasjoner eksponering forekommer i,
+4. varigheten av eksponering,
+5. antall personer som har sitt arbeid om bord som kan bli utsatt for eksponering.
+
+(2) Når slik eksponering er avdekket skal det foretas en vurdering av den risiko eksponeringen utgjør. Slik risikovurdering skal foretas på grunnlag av alle tilgjengelige opplysninger, herunder:
+
+1. kjemikalienes farlige egenskaper,
+2. leverandørens informasjon om risiko for sikkerhet og helse,
+3. hvilke risikogrupper de biologiske faktorer er plassert i,
+4. opplysninger om sykdommer de biologiske faktorer kan forårsake hos de som har sitt arbeid om bord,
+5. informasjon fra fagmyndigheter,
+6. anbefalte vernetiltak og effekten av iverksatte tiltak,
+7. kunnskap om at sykdom hos den som har sitt arbeid om bord, som er påvist ved særlig helseundersøkelse eller på annen måte, kan ha direkte forbindelse med vedkommendes arbeid,
+8. forholdene om bord for øvrig.
 
 (3) Ved aktiviteter som medfører eksponering for flere ulike kjemikalier og biologiske faktorer skal risikoen vurderes ut fra den faren kjemikaliene og de biologiske faktorene samlet representerer.
 
@@ -728,7 +867,13 @@ I dette kapittel betyr:*Biologiske faktorer:* Mikroorganismer, inkludert de som 
 
 ### § 11-5. Tilrettelegging og organisering av arbeidet m.m.
 
-(1) Dersom det avdekkes risiko for de som har sitt arbeid om bord sin sikkerhet eller helse skal nødvendige tiltak for å fjerne eller redusere slik risiko iverksettes før arbeidet starter. Det skal bl.a. sørges for:skriftlige instrukser for å sikre forsvarlige rutiner for oppbevaring, håndtering, bruk og transport av kjemikalier og biologiske faktorer om bord,egnede målemetoder og måleutstyr som avdekker forhold som kan medføre risiko for eksponering for kjemikalier,nødvendige verneinnretninger og personlig verneutstyr, og at dette er i forsvarlig stand og tilpasset arbeidssituasjonen,nødvendige tekniske kontrolltiltak,nødvendig førstehjelpsutstyr og annet utstyr for å hindre eller begrense skader på de som har sitt arbeid om bord ved uhell og ulykker.
+(1) Dersom det avdekkes risiko for de som har sitt arbeid om bord sin sikkerhet eller helse skal nødvendige tiltak for å fjerne eller redusere slik risiko iverksettes før arbeidet starter. Det skal bl.a. sørges for:
+
+1. skriftlige instrukser for å sikre forsvarlige rutiner for oppbevaring, håndtering, bruk og transport av kjemikalier og biologiske faktorer om bord,
+2. egnede målemetoder og måleutstyr som avdekker forhold som kan medføre risiko for eksponering for kjemikalier,
+3. nødvendige verneinnretninger og personlig verneutstyr, og at dette er i forsvarlig stand og tilpasset arbeidssituasjonen,
+4. nødvendige tekniske kontrolltiltak,
+5. nødvendig førstehjelpsutstyr og annet utstyr for å hindre eller begrense skader på de som har sitt arbeid om bord ved uhell og ulykker.
 
 (2) Ventilasjonsanlegg skal utformes og dimensjoneres slik at konsentrasjonen av kjemikalier holdes på et forsvarlig nivå.
 
@@ -770,7 +915,11 @@ I dette kapittel betyr:*Biologiske faktorer:* Mikroorganismer, inkludert de som 
 
 ### § 11-8. Tiltak ved uforutsett eksponering
 
-(1) Beredskapsplan skal utarbeides for uforutsette situasjoner og ulykker som kan forårsake unormalt høy eksponering. Ved bruk av biologiske faktorer skal slik beredskapsplan utarbeides for biologiske faktorer som i henhold til [§ 13-1](forskrift/2005-01-01-8/§13-1) er klassifisert i gruppe 3 eller 4. Det samme gjelder øvrige tilfeller hvor det vurderes å kunne oppstå uforutsette situasjoner og ulykker som kan føre til spredning av biologiske faktorer som kan forårsake alvorlig infeksjon eller sykdom. Beredskapsplanen utarbeides på grunnlag av risikovurderingen og skal bl.a. inneholde:informasjon om særskilte farer som kan oppstå ved uforutsette situasjoner og ulykker,retningslinjer for varsling av hendelsen og tiltak for å få kontroll over situasjonen,retningslinjer for bruk av ekstern bistand eller redningstjeneste.
+(1) Beredskapsplan skal utarbeides for uforutsette situasjoner og ulykker som kan forårsake unormalt høy eksponering. Ved bruk av biologiske faktorer skal slik beredskapsplan utarbeides for biologiske faktorer som i henhold til [§ 13-1](forskrift/2005-01-01-8/§13-1) er klassifisert i gruppe 3 eller 4. Det samme gjelder øvrige tilfeller hvor det vurderes å kunne oppstå uforutsette situasjoner og ulykker som kan føre til spredning av biologiske faktorer som kan forårsake alvorlig infeksjon eller sykdom. Beredskapsplanen utarbeides på grunnlag av risikovurderingen og skal bl.a. inneholde:
+
+1. informasjon om særskilte farer som kan oppstå ved uforutsette situasjoner og ulykker,
+2. retningslinjer for varsling av hendelsen og tiltak for å få kontroll over situasjonen,
+3. retningslinjer for bruk av ekstern bistand eller redningstjeneste.
 
 (2) Dersom en uforutsett situasjon eller ulykke inntreffer skal beredskapsplanen iverksettes umiddelbart. De som har sitt arbeid om bord skal så snart som mulig informeres om situasjonen, årsaken til eksponeringen og de tiltakene som er truffet.
 
@@ -784,13 +933,22 @@ I dette kapittel betyr:*Biologiske faktorer:* Mikroorganismer, inkludert de som 
 
 ### § 11-9. Register over de som har sitt arbeid om bord som er eksponert for kjemikalier og biologiske faktorer
 
-(1) Det skal for hvert skip føres register over de som har sitt arbeid om bord som ved bruk eller på annen måte er eller kan bli eksponert for:kreftfremkallende kjemikalier,andre kjemikalier som i henhold til risikovurderingen utgjør en særlig helserisiko,biologiske faktorer klassifisert i henhold til [§ 13-1](forskrift/2005-01-01-8/§13-1), i gruppe 3 eller 4.
+(1) Det skal for hvert skip føres register over de som har sitt arbeid om bord som ved bruk eller på annen måte er eller kan bli eksponert for:
+
+1. kreftfremkallende kjemikalier,
+2. andre kjemikalier som i henhold til risikovurderingen utgjør en særlig helserisiko,
+3. biologiske faktorer klassifisert i henhold til [§ 13-1](forskrift/2005-01-01-8/§13-1), i gruppe 3 eller 4.
 
 (2) Registeret skal inneholde opplysninger om hvilke kjemikalier og biologiske faktorer den som har sitt arbeid om bord er eksponert for, hvordan den som har sitt arbeid om bord er blitt eksponert, eksponeringstid og eksponeringsstyrke.
 
 (3) Registeret skal for de som har sitt arbeid om bord som har vært utsatt for eksponering for kjemikalier oppbevares i minst 60 år og for biologiske faktorer i minst 10 år etter at eksponeringen er opphørt.
 
-(4) Dersom eksponering for biologiske faktorer kan føre til infeksjon:fra biologiske faktorer som er kjent for å kunne fremkalle vedvarende eller skjulte infeksjoner,som på bakgrunn av den nåværende viten ikke kan påvises før sykdommen bryter ut flere år senere,som har en særlig lang inkubasjonstid før sykdommen bryter ut,som medfører en sykdom som av og til blusser opp igjen over en lengre periode til tross for behandling, eller som kan medføre alvorlige følgesykdommer på lang sikt skal registeret oppbevares i minst 60 år.
+(4) Dersom eksponering for biologiske faktorer kan føre til infeksjon:
+
+1. fra biologiske faktorer som er kjent for å kunne fremkalle vedvarende eller skjulte infeksjoner,
+2. som på bakgrunn av den nåværende viten ikke kan påvises før sykdommen bryter ut flere år senere,
+3. som har en særlig lang inkubasjonstid før sykdommen bryter ut,
+4. som medfører en sykdom som av og til blusser opp igjen over en lengre periode til tross for behandling, eller som kan medføre alvorlige følgesykdommer på lang sikt skal registeret oppbevares i minst 60 år.
 
 (5) Den som har sitt arbeid om bord som er oppført i registeret skal gjøres kjent med dette og ha adgang til opplysninger som gjelder egen person. Ved opphør av arbeidsforholdet eller hvis den som har sitt arbeid om bord krever det skal opplysningene gis skriftlig.
 
@@ -816,7 +974,15 @@ I dette kapittel betyr:*Biologiske faktorer:* Mikroorganismer, inkludert de som 
 
 (1) Det skal sikres at de som har sitt arbeid om bord gis og har forstått nødvendig opplæring og informasjon slik at eksponering i størst mulig grad kan unngås eller reduseres. Opplæringen skal gis på grunnlag av alle tilgjengelige opplysninger og skriftlige instrukser etablert for å sikre forsvarlige rutiner for oppbevaring, håndtering og transport av kjemikalier og biologiske faktorer om bord.
 
-(2) Ved opplæring og informasjon skal det særlig legges vekt på:bruk av stoffkartotek herunder hvilke helsefarlige stoffer som brukes og oppbevares om bord og risikoen for eksponering,den helsefare biologiske faktorer kan medføre,forholdsregler som skal treffes for å unngå eksponering,informasjon om foretatte målinger av forurensning i arbeidsatmosfæren og måleresultatene,regler om hygiene,hva slags verneutstyr som skal benyttes og hvordan det skal brukes,tiltak og beredskapsplaner som skal iverksettes ved uforutsette situasjoner og ulykker og uhell.
+(2) Ved opplæring og informasjon skal det særlig legges vekt på:
+
+1. bruk av stoffkartotek herunder hvilke helsefarlige stoffer som brukes og oppbevares om bord og risikoen for eksponering,
+2. den helsefare biologiske faktorer kan medføre,
+3. forholdsregler som skal treffes for å unngå eksponering,
+4. informasjon om foretatte målinger av forurensning i arbeidsatmosfæren og måleresultatene,
+5. regler om hygiene,
+6. hva slags verneutstyr som skal benyttes og hvordan det skal brukes,
+7. tiltak og beredskapsplaner som skal iverksettes ved uforutsette situasjoner og ulykker og uhell.
 
 (3) Opplæringen skal gis før arbeidet igangsettes, gjentas regelmessig og tilpasses nye eller endrede forhold.
 
@@ -840,7 +1006,12 @@ I dette kapittel betyr:*Biologiske faktorer:* Mikroorganismer, inkludert de som 
 
 ### § 12-2. Merking
 
-(1) Kjemikalier som skal brukes om bord skal være forsvarlig merket. Merkingen skal være i samsvar med opplysninger i helse-, miljø- og sikkerhetsdatablad og skal bl.a. vise:teknisk navn, stoffnavn/produktnavn med angivelse av innhold,fareklasse og faresymbol,advarsel om farer og nødvendige forholdsregler,navn og adresse til produsent.
+(1) Kjemikalier som skal brukes om bord skal være forsvarlig merket. Merkingen skal være i samsvar med opplysninger i helse-, miljø- og sikkerhetsdatablad og skal bl.a. vise:
+
+1. teknisk navn, stoffnavn/produktnavn med angivelse av innhold,
+2. fareklasse og faresymbol,
+3. advarsel om farer og nødvendige forholdsregler,
+4. navn og adresse til produsent.
 
 (2) Dersom kjemikaliene oppbevares i eget avlåst rom, skal oppbevaringsrommet tydelig merkes med fareklasse og faresymbol for de kjemikalier som er oppbevart.
 
@@ -904,7 +1075,17 @@ Sand og annet blåsemiddel som skal brukes om bord til sandblåsing, skal inneho
 
 ### § 12-10. Journal
 
-(1) Det skal føres en egen journal for kjemikalier som skal brukes om bord. Journalen skal inneholde opplysninger om innkjøp, oppbevaringsforhold og mengde av følgende kjemikalier:organiske løse- og rensemidler av enhver art,sterke/konsentrerte alkalier,insekt- og rottedrepende midler,kjølevesker for fryseanlegg,antifrostvæske,sterke/konsentrerte syrer,hydrazinhydrat,filmtec membrane preservative,kreftfremkallende kjemikalier og andre kjemikalier som i henhold til risikovurderingen utgjør en særlig helserisiko.
+(1) Det skal føres en egen journal for kjemikalier som skal brukes om bord. Journalen skal inneholde opplysninger om innkjøp, oppbevaringsforhold og mengde av følgende kjemikalier:
+
+1. organiske løse- og rensemidler av enhver art,
+2. sterke/konsentrerte alkalier,
+3. insekt- og rottedrepende midler,
+4. kjølevesker for fryseanlegg,
+5. antifrostvæske,
+6. sterke/konsentrerte syrer,
+7. hydrazinhydrat,
+8. filmtec membrane preservative,
+9. kreftfremkallende kjemikalier og andre kjemikalier som i henhold til risikovurderingen utgjør en særlig helserisiko.
 
 (2) Det skal fremgå av journalen hvem kjemikaliet er utlevert til, utlevert mengde og hva det skal brukes til. Den som har sitt arbeid om bord skal kvittere for mottakelsen, og at vedkommende er gjort kjent med helserisiko som bruk kan medføre og nødvendige vernetiltak.
 
@@ -918,7 +1099,10 @@ Sand og annet blåsemiddel som skal brukes om bord til sandblåsing, skal inneho
 
 (1) Når det er nødvendig av hensyn til den som har sitt arbeid om bord sin helse, skal den som har sitt arbeid om bord om mulig, omplasseres til annet arbeid som ikke innebærer eksponering for kjemikalier.
 
-(2) Den som har sitt arbeid om bord som arbeider med bly eller blyforbindelser, skal omplasseres i minimum 3 måneder dersom følgende grenseverdier overskrides:Kvinne som har sitt arbeid om bord i fertil alder som har blodblyverdier større enn 0,75 mikromol per liter blod eller 3 påfølgende kvartalskontroller i området 0,5–0,75 mikromol per liter blod, skal omplasseres til annet arbeid til blodblyverdiene har sunket til under 0,5 mikromol per liter blod.Øvrige som har sitt arbeid om bord som har blodblyverdier større enn 2,0 mikromol per liter blod eller 3 påfølgende kvartalskontroller i området 1,5–2,0 mikromol per liter blod, skal omplasseres til annet arbeid til blodblyverdiene har sunket til under 1,5 mikromol per liter blod.
+(2) Den som har sitt arbeid om bord som arbeider med bly eller blyforbindelser, skal omplasseres i minimum 3 måneder dersom følgende grenseverdier overskrides:
+
+1. Kvinne som har sitt arbeid om bord i fertil alder som har blodblyverdier større enn 0,75 mikromol per liter blod eller 3 påfølgende kvartalskontroller i området 0,5–0,75 mikromol per liter blod, skal omplasseres til annet arbeid til blodblyverdiene har sunket til under 0,5 mikromol per liter blod.
+2. Øvrige som har sitt arbeid om bord som har blodblyverdier større enn 2,0 mikromol per liter blod eller 3 påfølgende kvartalskontroller i området 1,5–2,0 mikromol per liter blod, skal omplasseres til annet arbeid til blodblyverdiene har sunket til under 1,5 mikromol per liter blod.
 
 > Endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -928,7 +1112,12 @@ Sand og annet blåsemiddel som skal brukes om bord til sandblåsing, skal inneho
 
 ### § 13-1. Klassifisering av biologiske faktorer
 
-(1) Levende biologiske faktorer klassifiseres i fire smitterisikogrupper ut fra den infeksjonsfaren de representerer:*Smitterisikogruppe 1:* En biologisk faktor som vanligvis ikke forårsaker infeksjonssykdom hos mennesker.*Smitterisikogruppe 2:* En biologisk faktor som kan forårsake infeksjonssykdom hos mennesker og være til fare for de som har sitt arbeid om bord. Det er usannsynlig at den vil spre seg til samfunnet og det finnes vanligvis effektive forebyggende tiltak (vaksiner) eller behandling (antibiotika).*Smitterisikogruppe 3:* En biologisk faktor som kan forårsake alvorlig infeksjonssykdom hos mennesker og utgjøre en alvorlig fare for de som har sitt arbeid om bord. Det kan være risiko for spredning til samfunnet, men det finnes vanligvis effektive forebyggende tiltak (vaksiner) eller behandling (antibiotika).*Smitterisikogruppe 4:* En biologisk faktor som forårsaker alvorlig infeksjonssykdom hos mennesker og utgjør en alvorlig fare for de som har sitt arbeid om bord. Det kan være stor risiko for spredning til samfunnet, og det finnes vanligvis ingen effektive forebyggende tiltak eller behandling.
+(1) Levende biologiske faktorer klassifiseres i fire smitterisikogrupper ut fra den infeksjonsfaren de representerer:
+
+1. *Smitterisikogruppe 1:* En biologisk faktor som vanligvis ikke forårsaker infeksjonssykdom hos mennesker.
+2. *Smitterisikogruppe 2:* En biologisk faktor som kan forårsake infeksjonssykdom hos mennesker og være til fare for de som har sitt arbeid om bord. Det er usannsynlig at den vil spre seg til samfunnet og det finnes vanligvis effektive forebyggende tiltak (vaksiner) eller behandling (antibiotika).
+3. *Smitterisikogruppe 3:* En biologisk faktor som kan forårsake alvorlig infeksjonssykdom hos mennesker og utgjøre en alvorlig fare for de som har sitt arbeid om bord. Det kan være risiko for spredning til samfunnet, men det finnes vanligvis effektive forebyggende tiltak (vaksiner) eller behandling (antibiotika).
+4. *Smitterisikogruppe 4:* En biologisk faktor som forårsaker alvorlig infeksjonssykdom hos mennesker og utgjør en alvorlig fare for de som har sitt arbeid om bord. Det kan være stor risiko for spredning til samfunnet, og det finnes vanligvis ingen effektive forebyggende tiltak eller behandling.
 
 (2) Liste over de biologiske faktorer som er klassifisert i risikogruppe 2, 3 og 4, er gitt i [vedlegg nr. 3](forskrift/2005-01-01-8/vedlegg3). Ved arbeid med mikroorganismer som er utelatt i listen skal det foretas en vurdering av risikogruppe på grunnlag av kriteriene gitt i første ledd.
 
@@ -948,7 +1137,14 @@ Sand og annet blåsemiddel som skal brukes om bord til sandblåsing, skal inneho
 
 (3) Melding skal gis senest 30 dager før arbeidet påbegynnes.
 
-(4) Meldingen skal inneholde følgende opplysninger:navn og adresse til rederiet,navn og kjenningssignal på fartøyet,navn og stilling på den eller de personer som er ansvarlig for helse, miljø og sikkerhet om bord,arten av den biologiske faktor,resultatet av risikovurdering foretatt i henhold til [§ 11-4](forskrift/2005-01-01-8/§11-4),planlagte verne- og sikkerhetstiltak.
+(4) Meldingen skal inneholde følgende opplysninger:
+
+1. navn og adresse til rederiet,
+2. navn og kjenningssignal på fartøyet,
+3. navn og stilling på den eller de personer som er ansvarlig for helse, miljø og sikkerhet om bord,
+4. arten av den biologiske faktor,
+5. resultatet av risikovurdering foretatt i henhold til [§ 11-4](forskrift/2005-01-01-8/§11-4),
+6. planlagte verne- og sikkerhetstiltak.
 
 (5) Ny melding skal gis dersom det gjøres endringer som er av betydning for helse, miljø og sikkerhet om bord, og som gjør innholdet i tidligere melding foreldet.
 
@@ -956,13 +1152,21 @@ Sand og annet blåsemiddel som skal brukes om bord til sandblåsing, skal inneho
 
 (1) Det skal iverksettes de inneslutningstiltak etter [§ 13-5](forskrift/2005-01-01-8/§13-5) og [§ 13-6](forskrift/2005-01-01-8/§13-6) som er nødvendige for å begrense faren for eksponering.
 
-(2) På fartøy med laboratorier der de som har sitt arbeid om bord eksponeres eller kan bli eksponert for biologiske faktorer, eller det håndteres forsøksdyr som med hensikt er blitt smittet med biologiske faktorer i gruppe 2, 3 eller 4, eller som er mistenkt eller mistenkes for å være bærer av slike faktorer, skal det for å begrense infeksjonsfaren mest mulig settes i verk følgende inneslutningstiltak:minst inneslutningsnivå 2 for aktiviteter forbundet med biologiske faktorer i gruppe 2,minst inneslutningsnivå 3 for aktiviteter forbundet med biologiske faktorer i gruppe 3,minst inneslutningsnivå 4 for aktiviteter forbundet med biologiske faktorer i gruppe 4.
+(2) På fartøy med laboratorier der de som har sitt arbeid om bord eksponeres eller kan bli eksponert for biologiske faktorer, eller det håndteres forsøksdyr som med hensikt er blitt smittet med biologiske faktorer i gruppe 2, 3 eller 4, eller som er mistenkt eller mistenkes for å være bærer av slike faktorer, skal det for å begrense infeksjonsfaren mest mulig settes i verk følgende inneslutningstiltak:
+
+1. minst inneslutningsnivå 2 for aktiviteter forbundet med biologiske faktorer i gruppe 2,
+2. minst inneslutningsnivå 3 for aktiviteter forbundet med biologiske faktorer i gruppe 3,
+3. minst inneslutningsnivå 4 for aktiviteter forbundet med biologiske faktorer i gruppe 4.
 
 (3) I laboratorier, hvor det uten at det er laboratoriets hensikt å arbeide med biologiske faktorer, likevel håndteres materiale som kan inneholde biologiske faktorer som kan forårsake sykdommer hos mennesker, skal inneslutningsnivået minst være 2.
 
 (4) Inneslutningsnivå 3 eller 4 skal anvendes i de tilfeller hvor dette i følge eksisterende kunnskap eller mistanke må anses som nødvendig.
 
-(5) Ved industrielle prosesser hvor det anvendes biologiske faktorer i gruppe 2, 3 og 4 skal følgende tiltak iverksettes:de prinsipper for inneslutning som følger av annet ledd i denne bestemmelsen,tiltak som de ansvarlige myndigheter har bestemt skal iverksettes ved industriell bruk av biologiske faktorer i risikogruppe 2, 3 eller 4,for aktiviteter som omfattes av denne bestemmelsen, hvor det ikke har vært mulig å foreta en endelig klassifisering av en biologisk faktor, men hvor det foreligger indikasjoner om at den planlagte bruk kan medføre en alvorlig helsefare for de som har sitt arbeid om bord, skal arbeidet utføres i lokaler minst tilsvarende inneslutningsnivå 3.
+(5) Ved industrielle prosesser hvor det anvendes biologiske faktorer i gruppe 2, 3 og 4 skal følgende tiltak iverksettes:
+
+1. de prinsipper for inneslutning som følger av annet ledd i denne bestemmelsen,
+2. tiltak som de ansvarlige myndigheter har bestemt skal iverksettes ved industriell bruk av biologiske faktorer i risikogruppe 2, 3 eller 4,
+3. for aktiviteter som omfattes av denne bestemmelsen, hvor det ikke har vært mulig å foreta en endelig klassifisering av en biologisk faktor, men hvor det foreligger indikasjoner om at den planlagte bruk kan medføre en alvorlig helsefare for de som har sitt arbeid om bord, skal arbeidet utføres i lokaler minst tilsvarende inneslutningsnivå 3.
 
 (6) I isolasjonsenheter hvor det oppholder seg mennesker eller dyr, som er eller antas å være smittet med biologiske faktorer i gruppe 3 eller gruppe 4, skal de av inneslutningstiltakene som er nevnt i [§ 13-5](forskrift/2005-01-01-8/§13-5) kolonne A, og som i henhold til risikovurderingen anses nødvendig iverksettes.
 
@@ -1032,8 +1236,14 @@ Dette kapittelet omfatter forhold hvor den som har sitt arbeid om bord eksponere
 
 ### § 14-2. Definisjoner
 
-I dette kapittelet betyr:*Hånd- og armvibrasjoner:* mekaniske vibrasjoner som overføres fra arbeidsutstyr til hånd eller arm og medfører risiko for skade på blodkar, skjelett, ledd, nerver eller muskler, og som også kan innebære en sikkerhetsrisiko,*Helkroppsvibrasjoner:* mekaniske vibrasjoner som overføres til hele kroppen og medfører risiko for helseskade, særlig i ryggraden, og som også kan innebære en sikkerhetsrisiko,*Daglig eksponeringsverdi:* energiekvivalent middelverdi av den frekvensveide akselerasjonen gjennom arbeidsdagen korrigert til en referansetid på 8 timer
-(A(8)). *A*(8) = *A(T)*√*T*/8 hvor A(T) er daglig vibrasjonseksponering gjennom en arbeidsdag med samlet varighet T timer. For hånd-armvibrasjoner fastsettes A(T) etter NS-EN-ISO-5349-1 (2001), [kapittel 4](forskrift/2005-01-01-8/kap4) og [5](forskrift/2005-01-01-8/kap5) og vedlegg A. For helkroppsvibrasjoner fastsettes A(T) etter NS-ISO-2631-1 (1997), [kapittel 5](forskrift/2005-01-01-8/kap5) til 7 og vedlegg A og B som verdien for daglig vibrasjonseksponering i den akseretningen som gir høyest verdi når k-faktorer for sittende, liggende eller stående person benyttes,*Grenseverdi for daglig eksponering, A(8)*: Daglig eksponeringsverdi som ikke skal overskrides,*Tiltaksverdi for daglig eksponering, A(8)*: Daglig eksponeringsverdi som krever iverksetting av tiltak for å redusere risikoen til et minimum.
+I dette kapittelet betyr:
+
+1. *Hånd- og armvibrasjoner:* mekaniske vibrasjoner som overføres fra arbeidsutstyr til hånd eller arm og medfører risiko for skade på blodkar, skjelett, ledd, nerver eller muskler, og som også kan innebære en sikkerhetsrisiko,
+2. *Helkroppsvibrasjoner:* mekaniske vibrasjoner som overføres til hele kroppen og medfører risiko for helseskade, særlig i ryggraden, og som også kan innebære en sikkerhetsrisiko,
+3. *Daglig eksponeringsverdi:* energiekvivalent middelverdi av den frekvensveide akselerasjonen gjennom arbeidsdagen korrigert til en referansetid på 8 timer
+   (A(8)). *A*(8) = *A(T)*√*T*/8 hvor A(T) er daglig vibrasjonseksponering gjennom en arbeidsdag med samlet varighet T timer. For hånd-armvibrasjoner fastsettes A(T) etter NS-EN-ISO-5349-1 (2001), [kapittel 4](forskrift/2005-01-01-8/kap4) og [5](forskrift/2005-01-01-8/kap5) og vedlegg A. For helkroppsvibrasjoner fastsettes A(T) etter NS-ISO-2631-1 (1997), [kapittel 5](forskrift/2005-01-01-8/kap5) til 7 og vedlegg A og B som verdien for daglig vibrasjonseksponering i den akseretningen som gir høyest verdi når k-faktorer for sittende, liggende eller stående person benyttes,
+4. *Grenseverdi for daglig eksponering, A(8)*: Daglig eksponeringsverdi som ikke skal overskrides,
+5. *Tiltaksverdi for daglig eksponering, A(8)*: Daglig eksponeringsverdi som krever iverksetting av tiltak for å redusere risikoen til et minimum.
 
 ### § 14-3. Fravik
 
@@ -1041,7 +1251,11 @@ Bestemmelsene i [§ 14-9](forskrift/2005-01-01-8/§14-9) kan fravikes.
 
 Fravik kan innvilges fra bestemmelsene om helkroppsvibrasjoner. Det skal ved slikt fravik tas hensyn til at det tekniske nivået om bord og arbeidsplassens særlige karakteregenskaper er slik, at det ikke er mulig å overholde grenseverdien for eksponering, til tross for at det er truffet tekniske og/eller organisatoriske tiltak.
 
-Fravik kan innvilges i tilfeller hvor:den som har sitt arbeid om bord sin eksponering for mekanisk vibrasjon vanligvis er under tiltaksverdiene, men varierer merkbart fra den ene arbeidsperioden til den andre slik at verdien av og til kan overstige grenseverdien,den gjennomsnittlige eksponeringen for vibrasjoner beregnet over en periode på 40 timer er mindre enn grenseverdien ogden påviste risiko fra eksponeringsmønsteret er mindre enn risikoen fra eksponering ved grenseverdien.
+Fravik kan innvilges i tilfeller hvor:
+
+1. den som har sitt arbeid om bord sin eksponering for mekanisk vibrasjon vanligvis er under tiltaksverdiene, men varierer merkbart fra den ene arbeidsperioden til den andre slik at verdien av og til kan overstige grenseverdien,
+2. den gjennomsnittlige eksponeringen for vibrasjoner beregnet over en periode på 40 timer er mindre enn grenseverdien og
+3. den påviste risiko fra eksponeringsmønsteret er mindre enn risikoen fra eksponering ved grenseverdien.
 
 Før fravik fra annet og tredje ledd tillates skal det innhentes eller foreligge uttalelse fra partene i arbeidslivet. For fravik etter denne bestemmelsen skal det settes vilkår som sikrer, at risiko som følge av vibrasjoner, begrenses til et minimum, og det skal innføres særskilte helseundersøkelser for de som har sitt arbeid om bord som blir berørt. Fravik kan ikke gis for lenger periode enn 4 år.
 
@@ -1049,15 +1263,23 @@ Før fravik fra annet og tredje ledd tillates skal det innhentes eller foreligge
 
 ### § 14-4. Grenseverdier
 
-Hånd-arm-vibrasjoner:Grenseverdien for den daglige eksponeringen i en referanseperiode på 8 timer, A(8), er fastsatt til 5 m/s2 .
+Hånd-arm-vibrasjoner:
 
-Helkroppsvibrasjoner:Grenseverdien for den daglige eksponeringen i en referanseperiode på 8 timer, A(8), er fastsatt til 1,1 m/s2 .
+Grenseverdien for den daglige eksponeringen i en referanseperiode på 8 timer, A(8), er fastsatt til 5 m/s2 .
+
+Helkroppsvibrasjoner:
+
+Grenseverdien for den daglige eksponeringen i en referanseperiode på 8 timer, A(8), er fastsatt til 1,1 m/s2 .
 
 ### § 14-5. Tiltaksverdier
 
-Hånd-arm-vibrasjoner:Tiltaksverdi for den daglige eksponeringen i en referanseperiode på 8 timer, A(8), er fastsatt til 2,5 m/s2 .
+Hånd-arm-vibrasjoner:
 
-Helkroppsvibrasjoner:Tiltaksverdien for den daglige eksponering i en referanseperiode på 8 timer, A(8), er fastsatt til 0,5 m/s2 .
+Tiltaksverdi for den daglige eksponeringen i en referanseperiode på 8 timer, A(8), er fastsatt til 2,5 m/s2 .
+
+Helkroppsvibrasjoner:
+
+Tiltaksverdien for den daglige eksponering i en referanseperiode på 8 timer, A(8), er fastsatt til 0,5 m/s2 .
 
 ### § 14-6. Risikovurdering
 
@@ -1067,7 +1289,17 @@ Resultatene av vibrasjonsmålingene og risikovurderingene skal oppbevares slik a
 
 Eksponering for mekaniske vibrasjoner kan vurderes ved observasjon av den konkrete arbeidsoperasjonen og på bakgrunn av opplysninger om den sannsynlige vibrasjonsstyrke som oppstår ved anvendelse av utstyret eller av utstyrstypen under særskilte forhold, medregnet opplysninger fra produsent av utstyret. Vurderingen etter denne bestemmelsen krever ikke særskilt måleinstrument eller målemetode.
 
-Risikovurderingen skal særlig ta hensyn til:eksponeringens styrke, type og varighet, herunder eksponering for periodisk tilbakevendende vibrasjoner eller gjentatte støtgrenseverdiene for eksponering og tiltaksverdiene for eksponeringalle helse- og sikkerhetsmessige konsekvenser for den som har sitt arbeid om bord som utsettes for særlig farealle indirekte virkninger på den som har sitt arbeid om bord sin sikkerhet som er resultat av samspillet mellom mekaniske vibrasjoner og arbeidsstedet eller arbeidsutstyretopplysninger fra produsenten av arbeidsutstyretmuligheten av å benytte annet arbeidsutstyr som er utformet for å redusere eksponeringen av mekaniske vibrasjonersærlige arbeidsforhold, som lave temperaturer m.m.eksponering for helkroppsvibrasjoner om bord etter arbeidstidens sluttrelevante opplysninger i forbindelse med helseovervåking, herunder offentliggjorte opplysninger, i den grad dette er mulig.
+Risikovurderingen skal særlig ta hensyn til:
+
+1. eksponeringens styrke, type og varighet, herunder eksponering for periodisk tilbakevendende vibrasjoner eller gjentatte støt
+2. grenseverdiene for eksponering og tiltaksverdiene for eksponering
+3. alle helse- og sikkerhetsmessige konsekvenser for den som har sitt arbeid om bord som utsettes for særlig fare
+4. alle indirekte virkninger på den som har sitt arbeid om bord sin sikkerhet som er resultat av samspillet mellom mekaniske vibrasjoner og arbeidsstedet eller arbeidsutstyret
+5. opplysninger fra produsenten av arbeidsutstyret
+6. muligheten av å benytte annet arbeidsutstyr som er utformet for å redusere eksponeringen av mekaniske vibrasjoner
+7. særlige arbeidsforhold, som lave temperaturer m.m.
+8. eksponering for helkroppsvibrasjoner om bord etter arbeidstidens slutt
+9. relevante opplysninger i forbindelse med helseovervåking, herunder offentliggjorte opplysninger, i den grad dette er mulig.
 
 > Endret ved [forskrifter 30 nov 2006 nr. 1330](forskrift/2006-11-30-1330) (i kraft 1 des 2006), [19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -1083,7 +1315,17 @@ Måling av helkroppsvibrasjoner skal gjøres i samsvar med NS-ISO-2631-1 (1997).
 
 ### § 14-8. Tiltak ved overskridelse av tiltaksverdiene
 
-Hvis tiltaksverdien er overskredet, skal nødvendige tekniske og organisatoriske tiltak iverksettes for å redusere risikoen til et minimum. Det skal særlig sørges for:alternative arbeidsmetoder, som medfører lavere eksponering for mekaniske vibrasjonervalg av utstyr med en god ergonomisk utforming og med det lavest mulige vibrasjonsnivå for det arbeidet som skal utføreshjelpeutstyr som nedsetter risikoen for skader forårsaket av vibrasjoner, slik som seter som reduserer helkroppsvibrasjoner og håndtak som demper hånd-arm-vibrasjonervedlikeholdsprogrammer for utstyr, betjeningsplassen med tilknyttede systemerutforming og innretning av betjeningsplassene og arbeidsstedeneinformasjon og opplæring av den som har sitt arbeid om bord med sikte på sikker og riktig bruk av utstyr slik at eksponering for mekaniske vibrasjoner reduseres til et minimumbegrensning av eksponeringens varighet og styrkepassende arbeidsperioder med nødvendige pauserutlevering av verneklær, når nødvendig, for å beskytte den som har sitt arbeid om bord mot kulde og fukt.
+Hvis tiltaksverdien er overskredet, skal nødvendige tekniske og organisatoriske tiltak iverksettes for å redusere risikoen til et minimum. Det skal særlig sørges for:
+
+1. alternative arbeidsmetoder, som medfører lavere eksponering for mekaniske vibrasjoner
+2. valg av utstyr med en god ergonomisk utforming og med det lavest mulige vibrasjonsnivå for det arbeidet som skal utføres
+3. hjelpeutstyr som nedsetter risikoen for skader forårsaket av vibrasjoner, slik som seter som reduserer helkroppsvibrasjoner og håndtak som demper hånd-arm-vibrasjoner
+4. vedlikeholdsprogrammer for utstyr, betjeningsplassen med tilknyttede systemer
+5. utforming og innretning av betjeningsplassene og arbeidsstedene
+6. informasjon og opplæring av den som har sitt arbeid om bord med sikte på sikker og riktig bruk av utstyr slik at eksponering for mekaniske vibrasjoner reduseres til et minimum
+7. begrensning av eksponeringens varighet og styrke
+8. passende arbeidsperioder med nødvendige pauser
+9. utlevering av verneklær, når nødvendig, for å beskytte den som har sitt arbeid om bord mot kulde og fukt.
 
 > Endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -1107,7 +1349,13 @@ Den som har sitt arbeid om bord skal informeres om resultatet av helseundersøke
 
 ### § 14-11. Oppfølging av helseundersøkelsen
 
-Dersom helseundersøkelsen påviser sykdom eller annen negativ helseeffekt som legen mener kan skyldes eksponering for vibrasjoner på arbeidsplassen, skalrisikovurderingen revideres, herunder skal det tas hensyn til råd fra kompetent helsepersonale eller fra offentlig myndighet,det iverksettes tiltak som er nødvendige for å fjerne eller redusere risikoen ved arbeid som utsetter de som har sitt arbeid om bord for vibrasjoner,den som har sitt arbeid om bord informeres,de som har sitt arbeid om bord omplasseres i henhold til [§ 14-12](forskrift/2005-01-01-8/§14-12),arbeidsgiver innføre fortsatt helseovervåking og sørge for en gjennomgang av helsetilstanden til enhver som har sitt arbeid om bord som har vært utsatt for liknende eksponering. I slike tilfeller kan legen, kompetent bedriftshelsepersonell eller Sjøfartsdirektoratet foreslå at eksponerte personer skal underkaste seg en medisinsk undersøkelse.
+Dersom helseundersøkelsen påviser sykdom eller annen negativ helseeffekt som legen mener kan skyldes eksponering for vibrasjoner på arbeidsplassen, skal
+
+1. risikovurderingen revideres, herunder skal det tas hensyn til råd fra kompetent helsepersonale eller fra offentlig myndighet,
+2. det iverksettes tiltak som er nødvendige for å fjerne eller redusere risikoen ved arbeid som utsetter de som har sitt arbeid om bord for vibrasjoner,
+3. den som har sitt arbeid om bord informeres,
+4. de som har sitt arbeid om bord omplasseres i henhold til [§ 14-12](forskrift/2005-01-01-8/§14-12),
+5. arbeidsgiver innføre fortsatt helseovervåking og sørge for en gjennomgang av helsetilstanden til enhver som har sitt arbeid om bord som har vært utsatt for liknende eksponering. I slike tilfeller kan legen, kompetent bedriftshelsepersonell eller Sjøfartsdirektoratet foreslå at eksponerte personer skal underkaste seg en medisinsk undersøkelse.
 
 > Endret ved [forskrifter 30 nov 2006 nr. 1330](forskrift/2006-11-30-1330) (i kraft 1 des 2006), [19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -1119,7 +1367,14 @@ Reder skal så langt det er mulig sørge for at de som har sitt arbeid om bord b
 
 ### § 14-13. Informasjon og opplæring
 
-Den som har sitt arbeid om bord og verneombud skal ha informasjon og opplæring som er i overensstemmelse med resultatet av risikovurderingene. Det skal gis informasjon og opplæring omforebyggende tiltak for å fjerne risikoen for mekaniske vibrasjoner eller for å redusere risikoen til et minimumgrenseverdiene og tiltaksverdieneresultatene av foretatte vurderinger og målinger og de skader som arbeidsutstyret kan medførehvorfor og hvordan tegn på skade skal oppdages og hvordan de skal rapporteresnår den som har sitt arbeid om bord har rett til helseundersøkelsehvordan utføre arbeidet på en sikkerhetsmessig forsvarlig måte som begrenser eksponering for mekaniske vibrasjoner.
+Den som har sitt arbeid om bord og verneombud skal ha informasjon og opplæring som er i overensstemmelse med resultatet av risikovurderingene. Det skal gis informasjon og opplæring om
+
+1. forebyggende tiltak for å fjerne risikoen for mekaniske vibrasjoner eller for å redusere risikoen til et minimum
+2. grenseverdiene og tiltaksverdiene
+3. resultatene av foretatte vurderinger og målinger og de skader som arbeidsutstyret kan medføre
+4. hvorfor og hvordan tegn på skade skal oppdages og hvordan de skal rapporteres
+5. når den som har sitt arbeid om bord har rett til helseundersøkelse
+6. hvordan utføre arbeidet på en sikkerhetsmessig forsvarlig måte som begrenser eksponering for mekaniske vibrasjoner.
 
 > Endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -1135,27 +1390,50 @@ Gjennomføring av bestemmelsene [§ 14-9](forskrift/2005-01-01-8/§14-9) for arb
 
 ### § 15-1. Definisjoner
 
-1. *«A-veid ekvivalent kontinuerlig lydnivå LAekv (T)»:* A-veid lydtrykknivå av en kontinuerlig, konstant lyd som i måletiden T har samme midlere lydtrykk i kvadrat som en lyd som skal vurderes, og som varierer med tiden. Det angis i desibel A (dB(A)) og er gitt ved følgende ligning: $$L_{Aekv,T} = 10 \\log \\frac 1T \\int_0^T \\frac{pa(t)^2}{{p_0}^2} \\cdot dt$$
-der: T = måletid
-pa (t) = A-veid momentant lydtrykk
-p0 = 20 μPa (referansenivået).
+1. *«A-veid ekvivalent kontinuerlig lydnivå LAekv (T)»:* A-veid lydtrykknivå av en kontinuerlig, konstant lyd som i måletiden T har samme midlere lydtrykk i kvadrat som en lyd som skal vurderes, og som varierer med tiden. Det angis i desibel A (dB(A)) og er gitt ved følgende ligning:
+
+   $$L_{Aekv,T} = 10 \\log \\frac 1T \\int_0^T \\frac{pa(t)^2}{{p_0}^2} \\cdot dt$$
+
+   der: T = måletid
+   pa (t) = A-veid momentant lydtrykk
+   p0 = 20 μPa (referansenivået).
 2. *«A-veid lydtrykknivå eller støynivå»:* Verdi målt av en lydnivåmåler der frekvensresponsen er veid etter veiekurve A (se IEC 61672-1).
 3. *«Brovinger»:* De deler av fartøyets kommandobro som strekker seg ut mot fartøyssidene.
-4. *«C-veid ekvivalent kontinuerlig lydnivå LCekv (T)»:* C-veid lydtrykknivå av en kontinuerlig, konstant lyd som i måletiden T har samme midlere lydtrykk i kvadrat som en lyd som skal vurderes, og som varierer over tid. Det angis i desibel C (dB(C)) og er gitt ved følgende ligning: $$L_{Cekv,T} = 10 \\log \\frac 1T \\int_0^T \\frac{pc(t)^2}{{p_0}^2} \\cdot dt$$
-der: T = måletid
-pc (t) = C-veid momentant lydtrykk
-p0 = 20 μPa (referansenivået).
+4. *«C-veid ekvivalent kontinuerlig lydnivå LCekv (T)»:* C-veid lydtrykknivå av en kontinuerlig, konstant lyd som i måletiden T har samme midlere lydtrykk i kvadrat som en lyd som skal vurderes, og som varierer over tid. Det angis i desibel C (dB(C)) og er gitt ved følgende ligning:
+
+   $$L_{Cekv,T} = 10 \\log \\frac 1T \\int_0^T \\frac{pc(t)^2}{{p_0}^2} \\cdot dt$$
+
+   der: T = måletid
+   pc (t) = C-veid momentant lydtrykk
+   p0 = 20 μPa (referansenivået).
 5. *«C-veid lydtrykknivå eller støynivå»*: Verdi målt av en lydnivåmåler der frekvensresponsen er veid etter veiekurve C (se IEC 61672-1 (2002-05)).
-6. *«C-veid maksimalt lydnivå, LCmaks »:* C-veid maksimalt momentant lydtrykknivå. Det uttrykkes i desibel C (dB(C)) og er gitt ved følgende ligning: $$L_{Cmaks} = 10 \\log \\frac{{p_{maks}}^2}{{p_0}^2}$$
-der: pmaks = C-veid maksimalt momentant lydtrykk
-p0 = 20 μPa (referansenivået).
+6. *«C-veid maksimalt lydnivå, LCmaks »:* C-veid maksimalt momentant lydtrykknivå. Det uttrykkes i desibel C (dB(C)) og er gitt ved følgende ligning:
+
+   $$L_{Cmaks} = 10 \\log \\frac{{p_{maks}}^2}{{p_0}^2}$$
+
+   der: pmaks = C-veid maksimalt momentant lydtrykk
+   p0 = 20 μPa (referansenivået).
 7. *«Daglig støyeksponeringsnivå (Leks,8t) (dB(A) re. 20 μPa)»:* Tidsveid gjennomsnitt av støynivåene for en nominell åttetimers arbeidsdag etter definisjonen i internasjonal standard ISO 1999:1990 punkt 3.6. Dette omfatter all støy på arbeidsplassen, herunder impulsstøy.
-8. *«Daglig støyeksponeringsnivå (Leks,24t)»* representerer det ekvivalente støyeksponeringsnivået for en periode på 24 timer.Leks,24t = LAekv,T + 10log(T/T0)
-der: T er effektiv varighet om bord
-T0 er referansevarigheten 24 timer.Det totale ekvivalente kontinuerlige A-veide lydtrykknivået (LAekv T) skal beregnes ved å bruke de forskjellige støynivåene (LAekv, Ti) og tilknyttede tidsperioder med følgende ligning: $$L_{Aekv,T} = 10 \\log \\left[ \\frac 1T \\sum\\limits_{i=1}^n \\left(T_i \\times 10^{0{,}1L_{Aekv,T_i}} \\right) \\right]$$
-der:
-LAekv,Ti er det ekvivalente kontinuerlige A-veide lydtrykknivået, i desibel, midlet over tidsrommet Ti, $$T = \\sum\\limits_{i=1}^n T_i$$Leks,24t = LAekv,24t når de som har sitt arbeid om bord, befinner seg på fartøyet i en periode på 24 timer.
-9. «*Dynamisk støttet fartøy*»: Fartøy som kan operere på eller over vannoverflaten og som har egenskaper som skiller seg fra konvensjonelle deplasementsfartøy. Innenfor nevnte type, et fartøy som oppfyller en av følgende egenskaper:Vekten, eller en betydelig del av den, er balansert i én operasjonsmodus av andre krefter enn hydrostatiske krefter.Fartøyet kan operere ved slike hastigheter at funksjonen \\(\\frac{v}{\\sqrt{gL}}\\) er lik eller større enn 0,9, der «v» er maksimal hastighet, «L» er vannlinjelengden og «g» er akselerasjonen forårsaket av tyngdekraft, alt i konsistente enheter.
+8. *«Daglig støyeksponeringsnivå (Leks,24t)»* representerer det ekvivalente støyeksponeringsnivået for en periode på 24 timer.
+
+   Leks,24t = LAekv,T + 10log(T/T0)
+   der: T er effektiv varighet om bord
+   T0 er referansevarigheten 24 timer.
+
+   Det totale ekvivalente kontinuerlige A-veide lydtrykknivået (LAekv T) skal beregnes ved å bruke de forskjellige støynivåene (LAekv, Ti) og tilknyttede tidsperioder med følgende ligning:
+
+   $$L_{Aekv,T} = 10 \\log \\left[ \\frac 1T \\sum\\limits_{i=1}^n \\left(T_i \\times 10^{0{,}1L_{Aekv,T_i}} \\right) \\right]$$
+
+   der:
+   LAekv,Ti er det ekvivalente kontinuerlige A-veide lydtrykknivået, i desibel, midlet over tidsrommet Ti,
+
+   $$T = \\sum\\limits_{i=1}^n T_i$$
+
+   Leks,24t = LAekv,24t når de som har sitt arbeid om bord, befinner seg på fartøyet i en periode på 24 timer.
+9. «*Dynamisk støttet fartøy*»: Fartøy som kan operere på eller over vannoverflaten og som har egenskaper som skiller seg fra konvensjonelle deplasementsfartøy. Innenfor nevnte type, et fartøy som oppfyller en av følgende egenskaper:
+
+   1. Vekten, eller en betydelig del av den, er balansert i én operasjonsmodus av andre krefter enn hydrostatiske krefter.
+   2. Fartøyet kan operere ved slike hastigheter at funksjonen \\(\\frac{v}{\\sqrt{gL}}\\) er lik eller større enn 0,9, der «v» er maksimal hastighet, «L» er vannlinjelengden og «g» er akselerasjonen forårsaket av tyngdekraft, alt i konsistente enheter.
 10. *«Grenseverdier»:* Verdier for eksponering som krever øyeblikkelige tiltak hvis de overskrides.
 11. *«Hurtiggående fartøy»:* Fartøy som definert i Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs](traktat/1974-11-01-1) regel X/1.
 12. *«Hørselstap»*: Hørselstap evalueres i relasjon til en auditiv referanseverdi definert konvensjonelt i ISO-standard 389-1 (1998). Hørselstapet tilsvarer differansen mellom den auditive terskelverdien til personen som undersøkes, og den auditive referanseverdien.
@@ -1164,9 +1442,12 @@ LAekv,Ti er det ekvivalente kontinuerlige A-veide lydtrykknivået, i desibel, mi
 15. «*Integrerende lydnivåmåler*»: En lydnivåmåler utformet for eller tilpasset til å måle nivået til et tidsmidlet, midlere A-veid og C-veid lydtrykk i kvadrat.
 16. *«Kontinuerlig bemannede rom»:* Rom der de som har sitt arbeid om bord, må oppholde seg kontinuerlig eller over lengre tid ved normal drift.
 17. *«Lyd»:* Energi som forplanter seg via trykkbølger i luft eller andre materialer, og som objektivt forårsaker oppfattelsen av å høre, det vil si hørselssansen.
-18. «*Lydtrykknivå Lp*»: Lydtrykknivå angitt i desibel (dB), av en lyd eller støy gitt ved følgende ligning: $$L_p = 10 \\log \\frac{p^2}{{p_0}^2}$$
-der: p = lydtrykk, i pascal
-p0 = 20 μPa (referansenivået).
+18. «*Lydtrykknivå Lp*»: Lydtrykknivå angitt i desibel (dB), av en lyd eller støy gitt ved følgende ligning:
+
+    $$L_p = 10 \\log \\frac{p^2}{{p_0}^2}$$
+
+    der: p = lydtrykk, i pascal
+    p0 = 20 μPa (referansenivået).
 19. *«Maksimalt lydtrykk (pmaks )»:* Høyeste verdi av det C-frekvensveide momentane lydtrykket.
 20. «*Maskinrom*»: Alle rom som inneholder damp- eller forbrenningsmotormaskineri, pumper, luftkompressorer, dampkjeler, brennoljeenheter, større elektrisk maskineri, oljefyllingsstasjoner, trustere, maskineri til kjøleanlegg, stabilisatorer, styremaskiner, ventilasjon, klimaanlegg, mv., samt sjakter til slike rom.
 21. «*Mudringsfartøy*»: Fartøy som foretar operasjoner for utgraving av bunnsediment, der utgravingsutstyr er permanent installert på fartøyet.
@@ -1188,7 +1469,21 @@ p0 = 20 μPa (referansenivået).
 
 (2) Tekniske innretninger skal oppstilles, brukes og vedlikeholdes på en slik måte at unødig støy ikke oppstår.
 
-(3) Risiko som skyldes støyeksponering skal reduseres på grunnlag av de generelle prinsippene for forebyggende arbeid i kapittel 2 i forskriften her, og det skal særlig tas hensyn tilandre arbeidsmetoder som gir redusert støyeksponering,valg av hensiktsmessig arbeidsutstyr som gir fra seg minst mulig støy med tanke på det arbeidet som skal utføres, herunder muligheten til å gi de som har sitt arbeid om bord, tilgang til arbeidsutstyr som har redusert støyeksponering som mål eller virkning,utforming og tilrettelegging av arbeidsplasser og arbeidssteder,relevant informasjon og opplæring for å lære de som har sitt arbeid om bord å bruke arbeidsutstyret på riktig måte med sikte på å redusere deres støyeksponering til lavest mulig nivå,teknisk støyreduksjon gjennomreduksjon av luftstøy, for eksempel ved hjelp av skjermer, innbygging eller lydabsorberende materialer, ogreduksjon av strukturstøy, herunder gjennom demping eller isolering,hensiktsmessige vedlikeholdsplaner for arbeidsutstyr, arbeidsplassen og eventuelle arbeidsplassystemer,støyreduksjon gjennom tilrettelegging av arbeid ved hjelp avbegrensning av støyeksponeringstid og -intensitet, ogarbeidsplaner med tilstrekkelige hvileperioder.
+(3) Risiko som skyldes støyeksponering skal reduseres på grunnlag av de generelle prinsippene for forebyggende arbeid i kapittel 2 i forskriften her, og det skal særlig tas hensyn til
+
+1. andre arbeidsmetoder som gir redusert støyeksponering,
+2. valg av hensiktsmessig arbeidsutstyr som gir fra seg minst mulig støy med tanke på det arbeidet som skal utføres, herunder muligheten til å gi de som har sitt arbeid om bord, tilgang til arbeidsutstyr som har redusert støyeksponering som mål eller virkning,
+3. utforming og tilrettelegging av arbeidsplasser og arbeidssteder,
+4. relevant informasjon og opplæring for å lære de som har sitt arbeid om bord å bruke arbeidsutstyret på riktig måte med sikte på å redusere deres støyeksponering til lavest mulig nivå,
+5. teknisk støyreduksjon gjennom
+
+   1. reduksjon av luftstøy, for eksempel ved hjelp av skjermer, innbygging eller lydabsorberende materialer, og
+   2. reduksjon av strukturstøy, herunder gjennom demping eller isolering,
+6. hensiktsmessige vedlikeholdsplaner for arbeidsutstyr, arbeidsplassen og eventuelle arbeidsplassystemer,
+7. støyreduksjon gjennom tilrettelegging av arbeid ved hjelp av
+
+   1. begrensning av støyeksponeringstid og -intensitet, og
+   2. arbeidsplaner med tilstrekkelige hvileperioder.
 
 > Endret ved [forskrift 30 juni 2014 nr. 922](forskrift/2014-06-30-922) (i kraft 1 juli 2014).
 
@@ -1196,7 +1491,18 @@ p0 = 20 μPa (referansenivået).
 
 (1) Det skal gjennomføres risikovurderinger av de støynivåene som de som har sitt arbeid om bord, blir utsatt for. Kravene i kapittelet her om støygrenser, støymålinger, målemetoder, måleutstyr, og personell som skal utføre målingene, er en del av denne risikovurderingen. Risikovurderingene skal oppdateres jevnlig, og nye risikovurderinger skal alltid utføres hvis det har skjedd vesentlige endringer som har innvirkning på støyeksponeringen, og når resultater fra helseovervåking viser at det er nødvendig.
 
-(2) Risikovurderingene skal særlig ta hensyn tilstøyeksponeringens nivå, type og varighet, herunder all eksponering for impulsstøy,de grenseverdiene og tiltaksverdiene for støyeksponering som er fastsatt i [§ 15-18](forskrift/2005-01-01-8/§15-18),enhver virkning på helse og sikkerhet for særlig utsatte risikogrupper blant de som har sitt arbeid om bord,så langt det er teknisk mulig, enhver virkning på helsen og sikkerheten til de som har sitt arbeid om bord, som skyldes vekselvirkninger mellom støy og arbeidsrelaterte ototoksiske stoffer, og mellom støy og vibrasjoner,enhver indirekte virkning på helsen og sikkerheten til de som har sitt arbeid om bord, som skyldes vekselvirkninger mellom støy og varselsignaler eller andre lyder som må kunne høres for å redusere risikoen for ulykker,opplysninger om støyutslipp fra produsentene av arbeidsutstyret som brukes om bord,om det finnes alternativt arbeidsutstyr som er utformet med tanke på å redusere støyutslipp,støyeksponering etter normal arbeidstid,relevante opplysninger som er innhentet i forbindelse med helseovervåking, herunder offentliggjorte opplysninger, i den grad det er mulig,tilgjengeligheten av hørselsvern med tilstrekkelige dempningsegenskaper.
+(2) Risikovurderingene skal særlig ta hensyn til
+
+1. støyeksponeringens nivå, type og varighet, herunder all eksponering for impulsstøy,
+2. de grenseverdiene og tiltaksverdiene for støyeksponering som er fastsatt i [§ 15-18](forskrift/2005-01-01-8/§15-18),
+3. enhver virkning på helse og sikkerhet for særlig utsatte risikogrupper blant de som har sitt arbeid om bord,
+4. så langt det er teknisk mulig, enhver virkning på helsen og sikkerheten til de som har sitt arbeid om bord, som skyldes vekselvirkninger mellom støy og arbeidsrelaterte ototoksiske stoffer, og mellom støy og vibrasjoner,
+5. enhver indirekte virkning på helsen og sikkerheten til de som har sitt arbeid om bord, som skyldes vekselvirkninger mellom støy og varselsignaler eller andre lyder som må kunne høres for å redusere risikoen for ulykker,
+6. opplysninger om støyutslipp fra produsentene av arbeidsutstyret som brukes om bord,
+7. om det finnes alternativt arbeidsutstyr som er utformet med tanke på å redusere støyutslipp,
+8. støyeksponering etter normal arbeidstid,
+9. relevante opplysninger som er innhentet i forbindelse med helseovervåking, herunder offentliggjorte opplysninger, i den grad det er mulig,
+10. tilgjengeligheten av hørselsvern med tilstrekkelige dempningsegenskaper.
 
 (3) Risikovurderingene skal oppbevares lett tilgjengelig for alle som har sitt arbeid om bord, slik at opplysningene kan anvendes på et senere tidspunkt.
 
@@ -1228,7 +1534,10 @@ p0 = 20 μPa (referansenivået).
 
 ### § 15-6. Personell som skal gjennomføre støymålinger
 
-(1) Personer som utfører støymålinger, skal hakunnskap innenfor fagfeltet støy, lydmålinger og håndtering av anvendt utstyr, ogopplæring i prosedyrene spesifisert i kapittelet her.
+(1) Personer som utfører støymålinger, skal ha
+
+1. kunnskap innenfor fagfeltet støy, lydmålinger og håndtering av anvendt utstyr, og
+2. opplæring i prosedyrene spesifisert i kapittelet her.
 
 (2) Måleinstitusjonene eller -ekspertene skal dokumentere sin kompetanse med hensyn til støymålinger.
 
@@ -1258,7 +1567,11 @@ p0 = 20 μPa (referansenivået).
 
 (1) Ved målingen skal det kun tas hensyn til støykilder relatert til fartøyet, herunder maskineri og fremdriftsanlegg. Støy fra vind, bølger, is, alarmer, personvarslingsanlegg (PA-anlegg) mv. omfattes ikke.
 
-(2) Følgende forhold skal noteres i støyinspeksjonsapporten, jf. [§ 15-28](forskrift/2005-01-01-8/§15-28):vanndybde som er mindre enn fem ganger dypgangen, eller når det er store reflekterende overflater i nærheten av fartøyet,de meteorologiske forholdene slik som vind og regn, samt sjøgang, som påvirker målingene, ogvindstyrke som er over 4 og bølgehøyde som er over 1 m.
+(2) Følgende forhold skal noteres i støyinspeksjonsapporten, jf. [§ 15-28](forskrift/2005-01-01-8/§15-28):
+
+1. vanndybde som er mindre enn fem ganger dypgangen, eller når det er store reflekterende overflater i nærheten av fartøyet,
+2. de meteorologiske forholdene slik som vind og regn, samt sjøgang, som påvirker målingene, og
+3. vindstyrke som er over 4 og bølgehøyde som er over 1 m.
 
 (3) Det skal tilstrebes å sørge for at støy fra ytre kilder, slik som personer, underholdning, bygge- og reparasjonsarbeid, ikke påvirker støynivåer om bord på fartøyet ved måleposisjonene.
 
@@ -1328,7 +1641,10 @@ I tillegg til målingene av det kontinuerlige lydnivået skal støyeksponeringsn
 
 ### § 15-15. Målinger i rom som vanligvis er ubesatt
 
-(1) I tillegg til rommene referert til i [§ 15-12](forskrift/2005-01-01-8/§15-12) til [§ 15-14](forskrift/2005-01-01-8/§15-14) skal målinger foretaspå alle steder med uvanlig høye støynivåer der de som har sitt arbeid om bord, kan være utsatt, selv i relativt korte perioder, ogved periodisk brukte steder i maskinrom.
+(1) I tillegg til rommene referert til i [§ 15-12](forskrift/2005-01-01-8/§15-12) til [§ 15-14](forskrift/2005-01-01-8/§15-14) skal målinger foretas
+
+1. på alle steder med uvanlig høye støynivåer der de som har sitt arbeid om bord, kan være utsatt, selv i relativt korte perioder, og
+2. ved periodisk brukte steder i maskinrom.
 
 (2) Det er ikke nødvendig å måle støynivåer for slike rom som vanligvis er ubesatt, lasterom, dekkområder, og andre rom som er fjernt fra støykilder.
 
@@ -1340,7 +1656,11 @@ I tillegg til målingene av det kontinuerlige lydnivået skal støyeksponeringsn
 
 (1) De som har sitt arbeid om bord, skal ikke eksponeres for støy som overskrider grenseverdiene for støyeksponering i [§ 15-18](forskrift/2005-01-01-8/§15-18).
 
-(2) Hvis det konstateres at grenseverdiene for støyeksponering overskrides, skal rederietøyeblikkelig iverksette tiltak for å redusere eksponeringen slik at den ligger under grenseverdiene for støyeksponering,kartlegge årsakene til at grenseverdiene for støyeksponering ble overskredet, ogendre vernetiltak og forebyggende tiltak for å hindre ny overskridelse.
+(2) Hvis det konstateres at grenseverdiene for støyeksponering overskrides, skal rederiet
+
+1. øyeblikkelig iverksette tiltak for å redusere eksponeringen slik at den ligger under grenseverdiene for støyeksponering,
+2. kartlegge årsakene til at grenseverdiene for støyeksponering ble overskredet, og
+3. endre vernetiltak og forebyggende tiltak for å hindre ny overskridelse.
 
 > Endret ved [forskrift 30 juni 2014 nr. 922](forskrift/2014-06-30-922) (i kraft 1 juli 2014).
 
@@ -1358,11 +1678,17 @@ I tillegg til målingene av det kontinuerlige lydnivået skal støyeksponeringsn
 
 (2) Ved anvendelsen av grenseverdiene for støyeksponering skal det ved fastleggingen av den faktiske eksponeringen tas hensyn til dempningsvirkningen av personlig hørselsvern som brukes av de som har sitt arbeid om bord.
 
-(3) Tiltaksverdiene for daglig støyeksponeringsnivå og maksimalt lydtrykk erøvre tiltaksverdi for eksponering: Leks,8t = 85 dB(A) og pmaks = 140 Pa (137 dB(C) i forhold til 20 μPa),nedre tiltaksverdi for eksponering: Leks,8t = 80 dB(A) og pmaks = 112 Pa (135 dB(C) i forhold til 20 μPa).
+(3) Tiltaksverdiene for daglig støyeksponeringsnivå og maksimalt lydtrykk er
+
+1. øvre tiltaksverdi for eksponering: Leks,8t = 85 dB(A) og pmaks = 140 Pa (137 dB(C) i forhold til 20 μPa),
+2. nedre tiltaksverdi for eksponering: Leks,8t = 80 dB(A) og pmaks = 112 Pa (135 dB(C) i forhold til 20 μPa).
 
 (4) Det skal ikke tas hensyn til virkningen av eventuelt hørselsvern i forbindelse med tiltaksverdiene for støyeksponering.
 
-(5) Ved vurderingen av støynivåene som de som har sitt arbeid om bord, utsettes for, kan ukentlig støyeksponeringsnivå brukes ved anvendelsen av grenseverdiene og tiltaksverdiene for eksponering i stedet for daglig støyeksponeringsnivå hva angår aktiviteter der den daglige støyeksponeringen varierer betydelig fra en dag til en annen, og forutsatt athensiktsmessig overvåking viser at det ukentlige støyeksponeringsnivået ikke overskrider eksponeringsgrenseverdien 87 dB(A), ogegnede tiltak iverksettes for å redusere risiko som er forbundet med disse aktivitetene til lavest mulig nivå.
+(5) Ved vurderingen av støynivåene som de som har sitt arbeid om bord, utsettes for, kan ukentlig støyeksponeringsnivå brukes ved anvendelsen av grenseverdiene og tiltaksverdiene for eksponering i stedet for daglig støyeksponeringsnivå hva angår aktiviteter der den daglige støyeksponeringen varierer betydelig fra en dag til en annen, og forutsatt at
+
+1. hensiktsmessig overvåking viser at det ukentlige støyeksponeringsnivået ikke overskrider eksponeringsgrenseverdien 87 dB(A), og
+2. egnede tiltak iverksettes for å redusere risiko som er forbundet med disse aktivitetene til lavest mulig nivå.
 
 > Endret ved [forskrift 30 juni 2014 nr. 922](forskrift/2014-06-30-922) (i kraft 1 juli 2014).
 
@@ -1407,7 +1733,17 @@ I tillegg til målingene av det kontinuerlige lydnivået skal støyeksponeringsn
 
 (7) For fartøy som er utformet for og brukt på sjøreiser av kort varighet, eller i forbindelse med andre tjenester som innebærer korte driftsperioder for fartøyet, gjelder grensene for støynivå for rom i innredningen og serveringsrom etter annet ledd kun når fartøyet er i havnetilstand. Dette forutsatt at periodene i slik tilstand er tilstrekkelige for hvile og rekreasjon for de som har sitt arbeid om bord. Med «sjøreiser av kort varighet» menes her sjøreiser der fartøyet ikke er til sjøs så lenge at de som har sitt arbeid om bord, trenger søvn eller lange friperioder i løpet av sjøreisen. Med «havnetilstand» menes her tilstanden der alt maskineri som kun er nødvendig for fremdrift, er stanset.
 
-(8) Følgende fartøy er unntatt fra paragrafen her:hurtiggående fartøy,fiske- og fangstfartøy,dynamisk støttet fartøy,bemannet lekter,flyttbare innretninger,skip som tilhører Forsvaret, og skip som benyttes i Forsvarets tjeneste,pålerammingsfartøy,mudringsfartøy,skip som ikke drives mekanisk.
+(8) Følgende fartøy er unntatt fra paragrafen her:
+
+1. hurtiggående fartøy,
+2. fiske- og fangstfartøy,
+3. dynamisk støttet fartøy,
+4. bemannet lekter,
+5. flyttbare innretninger,
+6. skip som tilhører Forsvaret, og skip som benyttes i Forsvarets tjeneste,
+7. pålerammingsfartøy,
+8. mudringsfartøy,
+9. skip som ikke drives mekanisk.
 
 > Endret ved [forskrift 30 juni 2014 nr. 922](forskrift/2014-06-30-922) (i kraft 1 juli 2014).
 
@@ -1421,7 +1757,10 @@ I tillegg til målingene av det kontinuerlige lydnivået skal støyeksponeringsn
 
 ### § 15-21. Bruk av hørselsvern
 
-(1) Hvis risiko som oppstår ved støyeksponering ikke kan forebygges med andre midler, skal hensiktsmessig og korrekt tilpasset personlig hørselsvern stilles til rådighet for de som har sitt arbeid om bord, på følgende vilkår:Når støyeksponeringen overstiger de nedre tiltaksverdiene for eksponering, skal rederiet sørge for å stille personlig hørselsvern til rådighet for de som har sitt arbeid om bord.Når støyeksponeringen er lik eller overstiger de øvre tiltaksverdiene for eksponering, skal personlig hørselsvern brukes.
+(1) Hvis risiko som oppstår ved støyeksponering ikke kan forebygges med andre midler, skal hensiktsmessig og korrekt tilpasset personlig hørselsvern stilles til rådighet for de som har sitt arbeid om bord, på følgende vilkår:
+
+1. Når støyeksponeringen overstiger de nedre tiltaksverdiene for eksponering, skal rederiet sørge for å stille personlig hørselsvern til rådighet for de som har sitt arbeid om bord.
+2. Når støyeksponeringen er lik eller overstiger de øvre tiltaksverdiene for eksponering, skal personlig hørselsvern brukes.
 
 (2) Personlig hørselsvern skal være i samsvar med [§ 15-22](forskrift/2005-01-01-8/§15-22), og velges slik at risikoen for hørselsskader fjernes eller reduseres til lavest mulig nivå.
 
@@ -1466,7 +1805,13 @@ I tillegg til målingene av det kontinuerlige lydnivået skal støyeksponeringsn
 
 (1) Hvis det som resultat av helseovervåkingen viser seg noen av de som har sitt arbeid om bord, har en identifiserbar hørselsskade, skal en lege eller, når legen anser det som nødvendig, en spesialist vurdere om det er sannsynlig at skaden skyldes støyeksponering på arbeidsplassen.
 
-(2) Når hørselsskaden skyldes støyeksponering på arbeidsplassen, skal rederietpåse at lege eller en annen tilstrekkelig kvalifisert person underretter den som har fått hørselsskaden om det resultatet som angår vedkommende personlig,gjennomgå risikovurderingen som er foretatt etter [§ 15-3](forskrift/2005-01-01-8/§15-3),gjennomgå tiltakene som er iverksatt for å fjerne eller redusere risikoene i samsvar med [§ 15-2](forskrift/2005-01-01-8/§15-2), [§ 15-21](forskrift/2005-01-01-8/§15-21) og [§ 15-22](forskrift/2005-01-01-8/§15-22).ta hensyn til råd fra en kvalifisert arbeidsmedisiner, en annen tilstrekkelig kvalifisert person eller vedkommende myndighet i forbindelse med gjennomføringen av de tiltak som anses som nødvendige for å fjerne eller redusere risikoene i samsvar med [§ 15-2](forskrift/2005-01-01-8/§15-2), [§ 15-21](forskrift/2005-01-01-8/§15-21) og [§ 15-22](forskrift/2005-01-01-8/§15-22), herunder vurdere muligheten for å sette den som har fått hørselsskaden, til annet arbeid der det ikke foreligger risiko for videre støyeksponering, ogorganisere systematisk helseovervåking, og sørge for at helsetilstanden til andre som har sitt arbeid om bord, undersøkes på nytt hvis de har vært eksponert på samme måte.
+(2) Når hørselsskaden skyldes støyeksponering på arbeidsplassen, skal rederiet
+
+1. påse at lege eller en annen tilstrekkelig kvalifisert person underretter den som har fått hørselsskaden om det resultatet som angår vedkommende personlig,
+2. gjennomgå risikovurderingen som er foretatt etter [§ 15-3](forskrift/2005-01-01-8/§15-3),
+3. gjennomgå tiltakene som er iverksatt for å fjerne eller redusere risikoene i samsvar med [§ 15-2](forskrift/2005-01-01-8/§15-2), [§ 15-21](forskrift/2005-01-01-8/§15-21) og [§ 15-22](forskrift/2005-01-01-8/§15-22).
+4. ta hensyn til råd fra en kvalifisert arbeidsmedisiner, en annen tilstrekkelig kvalifisert person eller vedkommende myndighet i forbindelse med gjennomføringen av de tiltak som anses som nødvendige for å fjerne eller redusere risikoene i samsvar med [§ 15-2](forskrift/2005-01-01-8/§15-2), [§ 15-21](forskrift/2005-01-01-8/§15-21) og [§ 15-22](forskrift/2005-01-01-8/§15-22), herunder vurdere muligheten for å sette den som har fått hørselsskaden, til annet arbeid der det ikke foreligger risiko for videre støyeksponering, og
+5. organisere systematisk helseovervåking, og sørge for at helsetilstanden til andre som har sitt arbeid om bord, undersøkes på nytt hvis de har vært eksponert på samme måte.
 
 > Endret ved forskrifter [30 juni 2014 nr. 922](forskrift/2014-06-30-922) (i kraft 1 juli 2014), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -1474,7 +1819,16 @@ I tillegg til målingene av det kontinuerlige lydnivået skal støyeksponeringsn
 
 (1) Når støynivået om bord medfører at noen av de som har sitt arbeid om bord, blir utsatt for støy som er lik eller overskrider de nedre tiltaksverdiene for støyeksponering på arbeidsplassen, skal rederiet sørge for å gi informasjon og opplæring til de som har sitt arbeid om bord, og eventuelle verneombud, om risikoer som oppstår i forbindelse med støyeksponering.
 
-(2) Informasjonen og opplæringen etter første ledd skal særlig omfattehva slags risiko støy kan medføre,de tiltak som er iverksatt etter dette kapittelet med sikte på å fjerne eller redusere risikoen på grunn av støy til lavest mulig nivå, deriblant hvilke omstendigheter tiltakene skal anvendes under,grenseverdiene og tiltaksverdiene for støyeksponering som er fastsatt i [§ 15-18](forskrift/2005-01-01-8/§15-18),resultatene av de vurderinger og støymålinger som er utført etter [§ 15-3](forskrift/2005-01-01-8/§15-3), samt en forklaring av deres betydning og om potensielle risikoer,riktig bruk av hørselsvern,hvorfor og hvordan tegn på hørselsskader skal oppdages og rapporteres,under hvilke omstendigheter de som har sitt arbeid om bord, har rett til helseovervåking, og formålet med helseovervåking, jf. [§ 15-24](forskrift/2005-01-01-8/§15-24), ogsikker arbeidspraksis som kan begrense støyeksponeringen mest mulig.
+(2) Informasjonen og opplæringen etter første ledd skal særlig omfatte
+
+1. hva slags risiko støy kan medføre,
+2. de tiltak som er iverksatt etter dette kapittelet med sikte på å fjerne eller redusere risikoen på grunn av støy til lavest mulig nivå, deriblant hvilke omstendigheter tiltakene skal anvendes under,
+3. grenseverdiene og tiltaksverdiene for støyeksponering som er fastsatt i [§ 15-18](forskrift/2005-01-01-8/§15-18),
+4. resultatene av de vurderinger og støymålinger som er utført etter [§ 15-3](forskrift/2005-01-01-8/§15-3), samt en forklaring av deres betydning og om potensielle risikoer,
+5. riktig bruk av hørselsvern,
+6. hvorfor og hvordan tegn på hørselsskader skal oppdages og rapporteres,
+7. under hvilke omstendigheter de som har sitt arbeid om bord, har rett til helseovervåking, og formålet med helseovervåking, jf. [§ 15-24](forskrift/2005-01-01-8/§15-24), og
+8. sikker arbeidspraksis som kan begrense støyeksponeringen mest mulig.
 
 > Endret ved [forskrift 30 juni 2014 nr. 922](forskrift/2014-06-30-922) (i kraft 1 juli 2014).
 
@@ -1493,7 +1847,19 @@ I tillegg til målingene av det kontinuerlige lydnivået skal støyeksponeringsn
 
 (3) Luftlydisoleringsegenskapene skal fastlegges ved laboratorietester etter ISO 10140-2:2010.
 
-(4) Følgende fartøy er unntatt fra paragrafen her:fartøy hvis kjøl er strukket, eller som var på et tilsvarende byggetrinn, før 1. juli 2014,fartøy med bruttotonnasje under 1600,hurtiggående fartøy,fiske- og fangstfartøy,dynamisk støttet fartøy,bemannet lekter,flyttbare innretninger,skip som tilhører Forsvaret, og skip som benyttes i Forsvarets tjeneste,pålerammingsfartøy,mudringsfartøy,skip som ikke drives mekanisk.
+(4) Følgende fartøy er unntatt fra paragrafen her:
+
+1. fartøy hvis kjøl er strukket, eller som var på et tilsvarende byggetrinn, før 1. juli 2014,
+2. fartøy med bruttotonnasje under 1600,
+3. hurtiggående fartøy,
+4. fiske- og fangstfartøy,
+5. dynamisk støttet fartøy,
+6. bemannet lekter,
+7. flyttbare innretninger,
+8. skip som tilhører Forsvaret, og skip som benyttes i Forsvarets tjeneste,
+9. pålerammingsfartøy,
+10. mudringsfartøy,
+11. skip som ikke drives mekanisk.
 
 > Endret ved [forskrift 30 juni 2014 nr. 922](forskrift/2014-06-30-922) (i kraft 1 juli 2014).
 
@@ -1507,7 +1873,14 @@ I tillegg til målingene av det kontinuerlige lydnivået skal støyeksponeringsn
 
 ### § 15-29. Dispensasjoner
 
-(1) Sjøfartsdirektoratet kan etter søknad gi dispensasjon fra ett eller flere av kravene i kapittelet her når det er verne- og helsemessig forsvarlig, og det er dokumentert at oppfyllelse av kravet eller kravene ikke vil være mulig på tross av relevante og rimelige tekniske støyreduksjonstiltak. Sjøfartsdirektoratet kan kreve at rederiet fremlegger sakkyndig uttalelse i forbindelse med søknaden, og kan fastsette særlige vilkår for dispensasjonen. Før slik dispensasjon gis, skal rederiet dokumentere atbehovet for talekommunikasjon og for å høre lydalarmer er ivaretatt,støynivået ikke er til hinder for konsentrasjonen når avgjørelser skal tas på kontrollstasjoner, navigerings- og radiorom, samt bemannede maskinrom,de som har sitt arbeid om bord, er beskyttet fra støynivåer som kan medføre støyindusert hørselstap,det er en akseptabel grad av komfort i hvilerom, rekreasjonsrom og andre rom,det er sørget for egnede forhold for restitusjon fra virkningen av eksponering for høye støynivåer, oggrenseverdier for støyeksponering og øvre tiltaksverdi for støyeksponering i [§ 15-18](forskrift/2005-01-01-8/§15-18) ikke overskrides.
+(1) Sjøfartsdirektoratet kan etter søknad gi dispensasjon fra ett eller flere av kravene i kapittelet her når det er verne- og helsemessig forsvarlig, og det er dokumentert at oppfyllelse av kravet eller kravene ikke vil være mulig på tross av relevante og rimelige tekniske støyreduksjonstiltak. Sjøfartsdirektoratet kan kreve at rederiet fremlegger sakkyndig uttalelse i forbindelse med søknaden, og kan fastsette særlige vilkår for dispensasjonen. Før slik dispensasjon gis, skal rederiet dokumentere at
+
+1. behovet for talekommunikasjon og for å høre lydalarmer er ivaretatt,
+2. støynivået ikke er til hinder for konsentrasjonen når avgjørelser skal tas på kontrollstasjoner, navigerings- og radiorom, samt bemannede maskinrom,
+3. de som har sitt arbeid om bord, er beskyttet fra støynivåer som kan medføre støyindusert hørselstap,
+4. det er en akseptabel grad av komfort i hvilerom, rekreasjonsrom og andre rom,
+5. det er sørget for egnede forhold for restitusjon fra virkningen av eksponering for høye støynivåer, og
+6. grenseverdier for støyeksponering og øvre tiltaksverdi for støyeksponering i [§ 15-18](forskrift/2005-01-01-8/§15-18) ikke overskrides.
 
 (2) I særlige tilfeller kan Sjøfartsdirektoratet etter søknad gi dispensasjon fra [§ 15-16](forskrift/2005-01-01-8/§15-16) og [§ 15-21](forskrift/2005-01-01-8/§15-21), hvis fullt og korrekt bruk av hørselsvern på grunn av arbeidets art vil kunne medføre en større risiko for sikkerhet og helse enn hvis hørselsvern ikke brukes. Slike dispensasjoner kan bare innvilges etter konsultasjon med partene i arbeidslivet, og eventuelt med norske helsemyndigheter. Dispensasjonen skal inneholde vilkår som sikrer at helserisikoen reduseres til lavest mulig nivå, og at de som er berørt av dispensasjonen får økt helseovervåking. Videre skal slik dispensasjon tas opp til fornyet vurdering hvert fjerde år, og tilbakekalles hvis årsakene til at dispensasjonen ble gitt, ikke lenger er til stede.
 
@@ -1525,7 +1898,21 @@ Dette kapittelet gjelder for alle norske skip der de som har sitt arbeid om bord
 
 ### § 16-2. Definisjoner
 
-I dette kapittelet betyr:*grenseverdier for eksponering:* grensen for eksponering for optisk stråling som er direkte basert på fastsatte helsevirkninger og biologiske vurderinger. Overholdelse av grenseverdiene vil sikre at de som har sitt arbeid om bord som er eksponert for kunstige kilder for optisk stråling, vernes mot alle kjente helseskadelige virkninger,*ikke-koherent optisk stråling:* optisk stråling, unntatt laserstråling,*irradians (E) eller innstrålingstetthet:* effekten av den strålingen som treffer en flate pr. arealenhet, uttrykt iwatt pr. kvadratmeter (Wm-2 ),*kunstig optisk stråling:* elektromagnetisk stråling i bølgelengdeområdet 100 nm-1 mm som ikke emitteres fra solen. Det optiske strålingsspekteret inndeles i ultrafiolett stråling, synlig stråling og infrarød stråling:*Ultrafiolett stråling:* optisk stråling med bølgelengde i området 100 nm og 400 nm. Området oppdeles videre i UVA (315-400 nm), UVB (280-315 nm) og UVC (100-280 nm),*Synlig stråling:* optisk stråling med bølgelengde i området mellom 380 nm og 780 nm,*Infrarød stråling:* optisk stråling med bølgelengde i området mellom 780 nm og 1 mm. Området deles videre i IR-A (780-1400 nm), IR-B (1400-3000 nm) og IR-C (3000 nm-1 mm),*laser:* («light amplification by stimulated emission of radiation» – lysforsterkning ved hjelp av stimulert strålingsemisjon): enhver innretning som kan fås til å produsere eller forsterke elektromagnetisk stråling innenfor bølgelengdeområdet for optisk stråling gjennom prosessen med kontrollert stimulert emisjon,*laserstråling:* optisk stråling fra laser,*nivå (eksponering):* den kombinasjonen av irradians, strålingseksponering og radians som en arbeidstaker eksponeres for. ().*radians (L):* strålingseffekt pr. romvinkelenhet pr. arealenhet, uttrykt i watt pr. kvadratmeter pr. steradian (Wm-2 sr-1 ),*strålingseksponering (H):* tidsintegralet av irradiansen, uttrykt i joule pr. kvadratmeter (Jm-2 ),
+I dette kapittelet betyr:
+
+1. *grenseverdier for eksponering:* grensen for eksponering for optisk stråling som er direkte basert på fastsatte helsevirkninger og biologiske vurderinger. Overholdelse av grenseverdiene vil sikre at de som har sitt arbeid om bord som er eksponert for kunstige kilder for optisk stråling, vernes mot alle kjente helseskadelige virkninger,
+2. *ikke-koherent optisk stråling:* optisk stråling, unntatt laserstråling,
+3. *irradians (E) eller innstrålingstetthet:* effekten av den strålingen som treffer en flate pr. arealenhet, uttrykt iwatt pr. kvadratmeter (Wm-2 ),
+4. *kunstig optisk stråling:* elektromagnetisk stråling i bølgelengdeområdet 100 nm-1 mm som ikke emitteres fra solen. Det optiske strålingsspekteret inndeles i ultrafiolett stråling, synlig stråling og infrarød stråling:
+
+   1. *Ultrafiolett stråling:* optisk stråling med bølgelengde i området 100 nm og 400 nm. Området oppdeles videre i UVA (315-400 nm), UVB (280-315 nm) og UVC (100-280 nm),
+   2. *Synlig stråling:* optisk stråling med bølgelengde i området mellom 380 nm og 780 nm,
+   3. *Infrarød stråling:* optisk stråling med bølgelengde i området mellom 780 nm og 1 mm. Området deles videre i IR-A (780-1400 nm), IR-B (1400-3000 nm) og IR-C (3000 nm-1 mm),
+5. *laser:* («light amplification by stimulated emission of radiation» – lysforsterkning ved hjelp av stimulert strålingsemisjon): enhver innretning som kan fås til å produsere eller forsterke elektromagnetisk stråling innenfor bølgelengdeområdet for optisk stråling gjennom prosessen med kontrollert stimulert emisjon,
+6. *laserstråling:* optisk stråling fra laser,
+7. *nivå (eksponering):* den kombinasjonen av irradians, strålingseksponering og radians som en arbeidstaker eksponeres for. ().
+8. *radians (L):* strålingseffekt pr. romvinkelenhet pr. arealenhet, uttrykt i watt pr. kvadratmeter pr. steradian (Wm-2 sr-1 ),
+9. *strålingseksponering (H):* tidsintegralet av irradiansen, uttrykt i joule pr. kvadratmeter (Jm-2 ),
 
 > Tilføyd ved [forskrift 27 april 2010 nr. 606](forskrift/2010-04-27-606), endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -1541,7 +1928,18 @@ For eksponering for laserstråling skal grenseverdiene som følger av [vedlegg 5
 
 Det skal kartlegges og dokumenteres i hvilken utstrekning de som har sitt arbeid om bord eksponeres for kunstig optisk stråling, og enhver risiko for deres helse og sikkerhet forbundet med kunstig optisk stråling skal vurderes. Vurdering, beregning og måling av eksponering i henhold til [§ 16-5](forskrift/2005-01-01-8/§16-5), skal inngå som del av risikovurderingen.
 
-Risikovurderingen skal særlig ta hensyn til:nivå, bølgelengdeområde og eksponeringstid i forbindelse med eksponering for kunstig optisk stråling,grenseverdiene for eksponering,virkninger på helsen og sikkerheten til de som har sitt arbeid om bord som tilhører særlig følsomme risikogrupper,virkninger på de som har sitt arbeid om bord sin helse og sikkerhet som skyldes vekselvirkninger på arbeidsplassen mellom kunstigoptisk stråling og kjemiske stoffer som påvirker lysfølsomheten,indirekte virkninger, som for eksempel forbigående blending, eksplosjon eller brann,tilgjengeligheten av alternativt utstyr som er konstruert for å redusere eksponeringsnivået for kunstig optisk stråling,relevant informasjon fra helseovervåkingen, herunder offentliggjort informasjon så langt det er mulig,eksponering for kunstig optisk stråling fra flere kilder og,klassifiseringen av laserutstyr definert i samsvar med den relevante IEC-standarden, og for alle kunstige strålingskilder som kan forårsake skader lignende de som forårsakes av laser i klasse 3B eller 4, enhver tilsvarende klassifisering,informasjon fra produsenter av kilder for optisk stråling og tilhørende arbeidsutstyr.
+Risikovurderingen skal særlig ta hensyn til:
+
+1. nivå, bølgelengdeområde og eksponeringstid i forbindelse med eksponering for kunstig optisk stråling,
+2. grenseverdiene for eksponering,
+3. virkninger på helsen og sikkerheten til de som har sitt arbeid om bord som tilhører særlig følsomme risikogrupper,
+4. virkninger på de som har sitt arbeid om bord sin helse og sikkerhet som skyldes vekselvirkninger på arbeidsplassen mellom kunstigoptisk stråling og kjemiske stoffer som påvirker lysfølsomheten,
+5. indirekte virkninger, som for eksempel forbigående blending, eksplosjon eller brann,
+6. tilgjengeligheten av alternativt utstyr som er konstruert for å redusere eksponeringsnivået for kunstig optisk stråling,
+7. relevant informasjon fra helseovervåkingen, herunder offentliggjort informasjon så langt det er mulig,
+8. eksponering for kunstig optisk stråling fra flere kilder og,
+9. klassifiseringen av laserutstyr definert i samsvar med den relevante IEC-standarden, og for alle kunstige strålingskilder som kan forårsake skader lignende de som forårsakes av laser i klasse 3B eller 4, enhver tilsvarende klassifisering,
+10. informasjon fra produsenter av kilder for optisk stråling og tilhørende arbeidsutstyr.
 
 Risikovurderingen skal oppdateres regelmessig, særlig med hensyn til endringer som har innvirkning på eksponeringen for kunstig optisk stråling eller organisering av arbeidet som kan innvirke på risikoen, eller dersom resultatene av helseovervåkingen viser at det er nødvendig.
 
@@ -1555,7 +1953,10 @@ Nivåene av den kunstige optiske strålingen som de som har sitt arbeid om bord 
 
 Vurderingen, beregningen og/eller målingen skal planlegges og utføres av personell med relevant kompetanse innen kunstig optisk stråling og gjentas regelmessig.
 
-Ved vurdering, beregning og måling skal den metoden som velges være i henhold til standarder fra:IECs (International Electrotechnical Commision) for laserstråling ogCIEs (International Commision on Illumination) og CENs (European Committee for Standardization) anbefalinger for kunstig optisk stråling, unntatt laserstråling.
+Ved vurdering, beregning og måling skal den metoden som velges være i henhold til standarder fra:
+
+1. IECs (International Electrotechnical Commision) for laserstråling og
+2. CIEs (International Commision on Illumination) og CENs (European Committee for Standardization) anbefalinger for kunstig optisk stråling, unntatt laserstråling.
 
 Eksponeringssituasjoner som ikke omfattes av disse standardene og anbefalingene, skal vurderes, beregnes eller måles i henhold til vitenskapelig baserte internasjonale eller nasjonale retningslinjer.
 
@@ -1575,7 +1976,16 @@ Arbeidet skal planlegges og gjennomføres på en slik måte at risikoen som er e
 
 Det skal utarbeides og gjennomføres en handlingsplan med tekniske og/eller organisatoriske tiltak hvis risikovurderingen viser en mulighet for overskridelse av grenseverdiene for eksponering.
 
-Tiltakene skal hindre at eksponeringen overskrider grenseverdiene, og det skal særlig tas hensyn til:alternative arbeidsmetoder som reduserer risikoen i forbindelse med kunstig optisk stråling,valg av hensiktsmessig arbeidsutstyr som slipper ut mindre kunstig optisk stråling, under hensyn til det arbeidet som skal utføres,tekniske tiltak som reduserer kunstig optisk strålingsemisjon, innbefattet bruk av avskjerming, innbygging eller liknende,hensiktsmessige planer for systematisk vedlikehold av arbeidsutstyr, arbeidslokaler og arbeidsstasjonssystemer,utforming og tilrettelegging av arbeidslokalene og arbeidsstasjonene,begrensning av eksponeringstid og -nivå,tilgjengeligheten til hensiktsmessig personlig verneutstyr,bruksanvisninger fra produsenter av utstyret.
+Tiltakene skal hindre at eksponeringen overskrider grenseverdiene, og det skal særlig tas hensyn til:
+
+1. alternative arbeidsmetoder som reduserer risikoen i forbindelse med kunstig optisk stråling,
+2. valg av hensiktsmessig arbeidsutstyr som slipper ut mindre kunstig optisk stråling, under hensyn til det arbeidet som skal utføres,
+3. tekniske tiltak som reduserer kunstig optisk strålingsemisjon, innbefattet bruk av avskjerming, innbygging eller liknende,
+4. hensiktsmessige planer for systematisk vedlikehold av arbeidsutstyr, arbeidslokaler og arbeidsstasjonssystemer,
+5. utforming og tilrettelegging av arbeidslokalene og arbeidsstasjonene,
+6. begrensning av eksponeringstid og -nivå,
+7. tilgjengeligheten til hensiktsmessig personlig verneutstyr,
+8. bruksanvisninger fra produsenter av utstyret.
 
 Tiltakene skal bli tilpasset de som har sitt arbeid om bord som hører til særlig følsomme risikogrupper.
 
@@ -1591,15 +2001,29 @@ De deler av skipet hvor risikovurderingen viser at eksponering for kunstig optis
 
 ### § 16-9. Informasjon og opplæring
 
-De som har sitt arbeid om bord som kan bli eksponert for kunstig optisk stråling, samt verneombud, skal få all nødvendig informasjon og opplæring basert på risikovurderingen, og særlig om:de tiltak som iverksettes for gjennomføringen av dette kapittelet,grenseverdiene for eksponering og forbundet mulig helsefare,resultatet av vurderinger, beregninger og målinger,hvordan helseskadelige virkninger av eksponering oppdages og hvordan de skal rapporteres,når de som har sitt arbeid om bord har rett til helseundersøkelse,sikre arbeidsrutiner og arbeidsmetoder som reduserer risikoen for eksponering mest mulig,riktig bruk av hensiktsmessig personlig verneutstyr.
+De som har sitt arbeid om bord som kan bli eksponert for kunstig optisk stråling, samt verneombud, skal få all nødvendig informasjon og opplæring basert på risikovurderingen, og særlig om:
+
+1. de tiltak som iverksettes for gjennomføringen av dette kapittelet,
+2. grenseverdiene for eksponering og forbundet mulig helsefare,
+3. resultatet av vurderinger, beregninger og målinger,
+4. hvordan helseskadelige virkninger av eksponering oppdages og hvordan de skal rapporteres,
+5. når de som har sitt arbeid om bord har rett til helseundersøkelse,
+6. sikre arbeidsrutiner og arbeidsmetoder som reduserer risikoen for eksponering mest mulig,
+7. riktig bruk av hensiktsmessig personlig verneutstyr.
 
 > Tilføyd ved [forskrift 27 april 2010 nr. 606](forskrift/2010-04-27-606), endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
 ### § 16-10. Helseundersøkelse
 
-De berørte som har sitt arbeid om bord skal få tilbud om egnet helseundersøkelse når:eksponering for kunstig optisk stråling overskrider grenseverdienenår en som har sitt arbeid om bord har en kjent sykdom eller helseskadelige virkninger, som en lege eller arbeidsmedisinsk konsulent konstaterer at skyldes eksponering for kunstig optisk stråling på arbeidsplassen.
+De berørte som har sitt arbeid om bord skal få tilbud om egnet helseundersøkelse når:
 
-I begge tilfeller gjelder følgende:Helseundersøkelsen skal utføres av eller under kontroll av lege eller en kvalifisert arbeidsmedisiner.Legen eller arbeidsmedisiner avgjør hyppigheten av og innholdet i undersøkelsen på bakgrunn av eksponeringens type, nivå og varighet, og på bakgrunn av den som har sitt arbeid om bord sin helsetilstand.
+1. eksponering for kunstig optisk stråling overskrider grenseverdiene
+2. når en som har sitt arbeid om bord har en kjent sykdom eller helseskadelige virkninger, som en lege eller arbeidsmedisinsk konsulent konstaterer at skyldes eksponering for kunstig optisk stråling på arbeidsplassen.
+
+I begge tilfeller gjelder følgende:
+
+1. Helseundersøkelsen skal utføres av eller under kontroll av lege eller en kvalifisert arbeidsmedisiner.
+2. Legen eller arbeidsmedisiner avgjør hyppigheten av og innholdet i undersøkelsen på bakgrunn av eksponeringens type, nivå og varighet, og på bakgrunn av den som har sitt arbeid om bord sin helsetilstand.
 
 Risikovurderingen skal være tilgjengelig for den som utfører helseundersøkelsen.
 
@@ -1609,7 +2033,11 @@ Den som har sitt arbeid om bord skal informeres om resultatet av helseundersøke
 
 Rederi skal informeres om alle viktige resultater av helseovervåkingen, idet hensyn tas til medisinske krav til fortrolighet.
 
-Det skal påses at:risikovurderingen som er foretatt blir revidert,de tiltak som er nødvendige for å fjerne eller redusere risikoen blir iverksatt og senere revidert, herunder ta hensyn til råd fra arbeidsmedisinsk konsulent, annen kvalifisert person eller fra offentlig myndighet,løpende helseovervåking og undersøkelse av helsetilstanden blir iverksatt, og tilbud om egnet helseundersøkelse blir gitt, til alle andre som har sitt arbeid om bord som har vært utsatt for liknende eksponering.
+Det skal påses at:
+
+1. risikovurderingen som er foretatt blir revidert,
+2. de tiltak som er nødvendige for å fjerne eller redusere risikoen blir iverksatt og senere revidert, herunder ta hensyn til råd fra arbeidsmedisinsk konsulent, annen kvalifisert person eller fra offentlig myndighet,
+3. løpende helseovervåking og undersøkelse av helsetilstanden blir iverksatt, og tilbud om egnet helseundersøkelse blir gitt, til alle andre som har sitt arbeid om bord som har vært utsatt for liknende eksponering.
 
 > Tilføyd ved [forskrift 27 april 2010 nr. 606](forskrift/2010-04-27-606), endret ved [forskrift 19 aug 2013 nr. 1036](forskrift/2013-08-19-1036) (i kraft 20 aug 2013).
 
@@ -1619,7 +2047,13 @@ Det skal påses at:risikovurderingen som er foretatt blir revidert,de tiltak som
 
 ### § 17-1. Ikrafttredelse
 
-Denne forskriften trer i kraft 1. januar 2005. Fra samme tidspunkt oppheves:[forskrift 4. august 2000 nr. 808](forskrift/2000-08-04-808) om arbeidsmiljø, sikkerhet og helse for arbeidstakere på skip,[forskrift 11. januar 2001 nr. 21](forskrift/2001-01-11-21) om vern av arbeidstakere på skip mot eksponering for kjemikalier,[forskrift 11. januar 2001 nr. 20](forskrift/2001-01-11-20) om vern av arbeidstakere på skip mot eksponering for biologiske faktorer,kapittel 6 Særskilte sikkerhets- og vernetiltak i [forskrift 15. juni 1987 nr. 507](forskrift/1987-06-15-507) om sikkerhetstiltak m.m. på passasjer-, lasteskip og lektere,§ 6-17 – § 6-20 i kapittel 6 Beskyttelse av besetningen i [forskrift 13. juni 2000 nr. 660](forskrift/2000-06-13-660) om konstruksjon, utstyr, drift og besiktelser for fiske- og fangstfartøy med største lengde på 15 meter og derover.
+Denne forskriften trer i kraft 1. januar 2005. Fra samme tidspunkt oppheves:
+
+1. [forskrift 4. august 2000 nr. 808](forskrift/2000-08-04-808) om arbeidsmiljø, sikkerhet og helse for arbeidstakere på skip,
+2. [forskrift 11. januar 2001 nr. 21](forskrift/2001-01-11-21) om vern av arbeidstakere på skip mot eksponering for kjemikalier,
+3. [forskrift 11. januar 2001 nr. 20](forskrift/2001-01-11-20) om vern av arbeidstakere på skip mot eksponering for biologiske faktorer,
+4. kapittel 6 Særskilte sikkerhets- og vernetiltak i [forskrift 15. juni 1987 nr. 507](forskrift/1987-06-15-507) om sikkerhetstiltak m.m. på passasjer-, lasteskip og lektere,
+5. § 6-17 – § 6-20 i kapittel 6 Beskyttelse av besetningen i [forskrift 13. juni 2000 nr. 660](forskrift/2000-06-13-660) om konstruksjon, utstyr, drift og besiktelser for fiske- og fangstfartøy med største lengde på 15 meter og derover.
 
 > Endret ved [forskrifter 6 juli 2005 nr. 800](forskrift/2005-07-06-800) (tidligere § 14-2), [22 feb 2006 nr. 264](forskrift/2006-02-22-264) (tidligere § 15-2), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007, tidligere § 16-2), [27 april 2010 nr. 606](forskrift/2010-04-27-606) (tidligere § 16-1).
 
@@ -1693,7 +2127,14 @@ Når enkelte deler av et stillas ikke er ferdige til bruk, for eksempel under mo
 
 3.6.
 
-Montering, demontering eller store endringer av stillaser skal skje bare under tilsyn av en kvalifisert person og av de som har sitt arbeid om bord som har fått passende spesialopplæring i arbeidet som skal utføres, særlig med hensyn til mulige risikoer i følge bestemmelsene i artikkel 7 i direktiv [89/655/EØF](eu/31989l0655*), og særlig med hensyn til:forståelse av planer for montering, demontering eller endringer av det aktuelle stillaset,sikkerhet ved montering, demontering eller endringer av det aktuelle stillaset,tiltak for å redusere fallrisikoen for personer og gjenstander,sikkerhetstiltak i tilfelle væromslag som kan virke negativt inn på sikkerheten til det aktuelle stillaset,tillatte belastninger,all annen risiko som ovennevnte montering, demontering eller endring kan medføre.
+Montering, demontering eller store endringer av stillaser skal skje bare under tilsyn av en kvalifisert person og av de som har sitt arbeid om bord som har fått passende spesialopplæring i arbeidet som skal utføres, særlig med hensyn til mulige risikoer i følge bestemmelsene i artikkel 7 i direktiv [89/655/EØF](eu/31989l0655*), og særlig med hensyn til:
+
+1. forståelse av planer for montering, demontering eller endringer av det aktuelle stillaset,
+2. sikkerhet ved montering, demontering eller endringer av det aktuelle stillaset,
+3. tiltak for å redusere fallrisikoen for personer og gjenstander,
+4. sikkerhetstiltak i tilfelle væromslag som kan virke negativt inn på sikkerheten til det aktuelle stillaset,
+5. tillatte belastninger,
+6. all annen risiko som ovennevnte montering, demontering eller endring kan medføre.
 
 Personen som har tilsynet og de berørte som har sitt arbeid om bord skal ha tilgang til monterings- og demonteringsplanen nevnt i 3.2 og eventuelle instruksjoner i den.
 
@@ -1701,7 +2142,14 @@ Personen som har tilsynet og de berørte som har sitt arbeid om bord skal ha til
 
 4.1.
 
-Ved bruk av tau som atkomstvei og for å innta arbeidsstillinger skal følgende vilkår være oppfylt:Systemet skal omfatte minst to tau med separate fester. Det ene tauet brukes til atkomst, nedstigning og støtte (arbeidstau) og det andre til sikkerhet (sikkerhetstau).De som har sitt arbeid om bord skal være utstyrt med og bruke en egnet sele, som skal være festet til sikkerhetstauet.Arbeidstauet skal være utstyrt med en innretning for sikker opp- og nedstigning samt et automatisk låsesystem som hindrer brukeren i å falle dersom vedkommende mister kontrollen over bevegelsene sine. Sikkerhetstauet skal ha bevegelig fallsikringsutstyr som følger den som har sitt arbeid om bord sine bevegelser.Verktøy og annet utstyr som de som har sitt arbeid om bord bruker, skal være sikret til de som har sitt arbeid om bord sine seler eller arbeidssete eller på en annen, egnet måte.Arbeidet skal planlegges og overvåkes grundig slik at de som har sitt arbeid om bord kan få øyeblikkelig hjelp i en nødssituasjon.De berørte som har sitt arbeid om bord skal i henhold til bestemmelsene i artikkel 7 i direktiv [89/655/EØF](eu/31989l0655*) få egnet spesialopplæring i arbeidet som skal gjøres, særlig med henblikk på framgangsmåter under redningsarbeid.
+Ved bruk av tau som atkomstvei og for å innta arbeidsstillinger skal følgende vilkår være oppfylt:
+
+1. Systemet skal omfatte minst to tau med separate fester. Det ene tauet brukes til atkomst, nedstigning og støtte (arbeidstau) og det andre til sikkerhet (sikkerhetstau).
+2. De som har sitt arbeid om bord skal være utstyrt med og bruke en egnet sele, som skal være festet til sikkerhetstauet.
+3. Arbeidstauet skal være utstyrt med en innretning for sikker opp- og nedstigning samt et automatisk låsesystem som hindrer brukeren i å falle dersom vedkommende mister kontrollen over bevegelsene sine. Sikkerhetstauet skal ha bevegelig fallsikringsutstyr som følger den som har sitt arbeid om bord sine bevegelser.
+4. Verktøy og annet utstyr som de som har sitt arbeid om bord bruker, skal være sikret til de som har sitt arbeid om bord sine seler eller arbeidssete eller på en annen, egnet måte.
+5. Arbeidet skal planlegges og overvåkes grundig slik at de som har sitt arbeid om bord kan få øyeblikkelig hjelp i en nødssituasjon.
+6. De berørte som har sitt arbeid om bord skal i henhold til bestemmelsene i artikkel 7 i direktiv [89/655/EØF](eu/31989l0655*) få egnet spesialopplæring i arbeidet som skal gjøres, særlig med henblikk på framgangsmåter under redningsarbeid.
 
 I unntakstilfeller, dersom risikovurderingen tilsier at bruken av to tau vil gjøre arbeidet farligere, kan bruk av ett tau tillates, forutsatt at det er iverksatt egnede sikkerhetstiltak som garanterer sikkerheten i henhold til nasjonal lovgivning og/eller praksis.
 
@@ -1709,7 +2157,963 @@ I unntakstilfeller, dersom risikovurderingen tilsier at bruken av to tau vil gj�
 
 ## Vedlegg 2: Liste over grenseverdier for forurensninger i arbeidsatmosfæren
 
-Listen inneholder følgende anmerkninger (anm.):Kjemikalier som skal betraktes som at de fremkaller allergi eller annen overfølsomhet i øynene eller luftveier, eller som skal betraktes som at de fremkaller allergi ved hudkontakt.EU har en veiledende grenseverdi og/eller anmerkning for stoffet.EU har fastsatt en bindende grenseverdi og/eller anmerkning for stoffet.Kjemikalier som kan tas opp gjennom huden.Kjemikalier som skal betraktes som kreftfremkallende.Kjemikalier som skal betraktes som mutagene.Kjemikalier som skal betraktes som reproduksjonstoksiske.Korttidsverdi er en verdi for gjennomsnittskonsentrasjonen av et kjemisk stoff i pustesonen til en arbeidstaker som ikke skal overskrides i en fastsatt referanseperiode. Referanseperioden er 15 minutter hvis ikke annet er oppgitt.Takverdi er en øyeblikksverdi som angir maksimalkonsentrasjon av et kjemikalie i pustesonen som ikke skal overskrides.*CAS-nr.**Navn**ppm**mg/m3**anm.**Sist endret*75-07-0Acetaldehyd2545K60-35-5Acetamid1025K67-64-1Aceton125295E75-05-8Acetonitril3050HE2007Acetylentetrabromid se 1,1,2,2-tetrabrometanAcetylentetraklorid se 1,1,2,2-tetrakloretan50-78-2Acetylsalisylsyre5AES-ull0,5 fiber/cm32007Akrolein se akrylaldehyd107-02-8Akrylaldehyd0,020,05HE20180,050,12S79-06-1Akrylamid0,03HKMG2020107-13-1Akrylnitril24H K79-10-7Akrylsyre1029AE20182059S309-00-2Aldrin0,25HAllylalkohol se 2-propen-1-ol107-11-9Allylamin25Allyl (2,3-epoksipropyl) eter se 1-allyloksy-2,3-epoksypropanAllylglycidyleter se 1-allyloksy-2,3-epoksypropanAllylklorid se 3-klorpropen106-92-31-allyloksy-2,3-epoksypropan522TA2179-59-1Allylpropyldisulfid2127429-90-5Aluminiumpulver (pyroteknikk)5Aluminiumløselige salter (beregnet som Al)2Aluminiumalkyler21344-28-1Aluminiumoksid101Aluminium sveiserøyk5141-43-52-aminoetanol12,5HE20072-aminopropan se 2-propylamin504-29-02-aminopyridin0,52106-49-04-aminotoluen14,5HKE202128,9S61-82-5Amitrol0,2E2018Ammat se ammoniumsulfamat7664-41-7Ammoniakk1511E220125036S12125-02-9Ammoniumklorid1017773-06-0Ammoniumsulfamat101Amorf silisiumdioksidRespirabelt støv1,5625-16-1tert-amylacetat50260Eiso-amylalkohol se 3-metyl-1-butanol62-53-3Anilin14HKAE202128So- og p-Anisidin se 2- og 4-metoksyanilinAnon se sykloheksanonAntimon og antimonforb. (beregnet som Sb)0,5K7803-52-3Antimonhydrid0,050,25KAntu se 1-naftyltioureaArsen, arsensyre og dets salter, og uorganiske arsenforbindelser (unntatt arsenhydrid) (beregnet som As), inhalerbar0,005KHG20217784-42-1Arsenhydrid0,0030,01KArsin se arsenhydridAsbest, alle former0,1 fiber/cm3GK8052-42-4Asfalt (røyk)51912-24-9Atrazin5K111-40-03-azapentan-1,5-diamin14HA3-azapentan-1,5-diol se 2,2'-iminodietanol86-50-0Azinfosmetyl0,2HAziridin se EtyleniminBarium og bariumforb. (unntatt bariumsulfat) (beregnet som Ba)0,5E17804-35-2Benomyl0,810171-43-2Benzen0,20,66HKM20201,2-benzendiamin se o-fenylendiamin108-46-31,3-benzendiol1045E2007108-98-5Benzentiol0,521,2,4-benzentrikarboksylsyre-1,2-anhydrid se benzen-1,2,4-trikarboksylsyre-1,2-anhydrid552-30-7Benzen-1,2,4-trikarboksylsyre-1,2-anhydrid0,0050,04A106-51-41,4-benzokinon0,10,494-36-0Benzoylperoksid5A85-68-7Benzylbutylftalat (BBP)1RE2007Benzylklorid se α-klortoluenBeryllium og uorganiske berylliumforbindelser (beregnet som Be), inhalerbar0,00002KAG2520210,0002S92-52-4Bifenyl0,21Bis (2,3-epoksypropyl) eter se 2,2'-[oksibis(metylen)] bisoksiran80-05-7Bisfenol A, inhalerbar2ARE2018Bis (2-kloretyl) se 2,2'-diklordietyleterBis-klormetyleter se 1,1'-diklormetyleterBly og uorg. blyforb. (beregnet som Pb) (støv og røyk)0,05GR301-04-2Blyacetat (beregnet som Pb)0,05KR7446-27-7Blyfosfat (beregnet som Pb)0,05KR7758-97-6Blykromat (beregnet som Cr(VI))0,001KRG20211335-32-6Blysubacetat (beregnet som Pb)0,05KRBlytetraetyl se tetraetylblyBlytetrametyl se tetrametylblyBlåsyre se hydrogencyanidBomullstøv, totalstøv0,23Boraks se natriumtetraborat dekahydrat1303-86-2Boroksid10110294-33-4Bortribromid110T7637-07-2Bortrifluorid13T7726-95-6Brom0,10,7E74-96-4Brometan522HBromoform se tribrommetanBrometylen se vinylbromid74-97-5Bromklormetan1005252-brom-2-klor-1,1,1-trifluoretan se halotan74-83-9Brommetan520HK7789-30-2Brompentafluorid0,10,775-63-8Bromtrifluormetan5003050106-99-01,3-butadien12,2KG2020110-65-6but-2-yn-1,4-diol0,5AE2018106-97-8Butan25060071-36-3Butan-1-ol2575HT200778-92-2Butan-2-ol2575HT2007431-03-82, 3-butandion0,020,07AE20180,10,36SButanol (alle isomere)2575HT200778-93-3Butanon75220E1338-23-42-butanonperoksid1T109-79-5Butantiol0,51,52-butenal se (E)-2-butenal123-73-9(E)-2-butenal26H111-76-22-butoksyetanol1050HE2426-08-61-butoksy-2,3-epoksypropan527A112-34-52-2(butoksyetoksy)etanol1068E2007112-07-22-butoksyetylacetat1065HEButylacetat (alle isomere)502412021150723Sn-butylacetat50241E2021150723Siso-butylacetat50241E2021150723Ssec-butylacetat50241E2021150723S141-32-2Butylakrylat211AE2007Butylamin (alle isomere)515HTButyletylketon se 3-heptanonButyl (2,3-epoksypropyl) eter se 1-butoksy-2,3-epoksypropanButylglycidyleter se 1-butoksy-2,3-epoksypropanButylglykol se 2-butoksyetanol1189-85-1tert-butylkromat (beregnet som CrO3)0,1HT138-22-7Butyllaktat525Butylmerkaptan se butantiol97-88-1Butylmetakrylat1059A20071634-04-4tert-butylmetyleter (MTBE)50183,5E2011100367Sp-tert-butyltoluen se 1-metyl-4-tert-butylbenzen2425-06-1Captafol0,1133-06-2Captan5K1333-86-4Carbon Black (lampesot)3,5Cellosolve se 2-etoksyetanolCellosolveacetat se 2-etoksyetylacetat21351-79-1Cesiumhydroksid2420-04-2Cyanamid0,61HE2007Cyanider (beregnet som CN)5H506-77-4Cyanogenklorid0,250,6T13121-70-5Cyheksatin5Cyklo- se syklo50-29-3DDT1K17702-41-9Dekaboran0,050,3HDekaner og andre høyere alifatiske hydrokarboner402758065-48-3Demeton0,010,1H867-27-6Demeton-O-metyl0,050,5H57041-67-5Desfluran5352010Diacetonalkohol se 4-hydroksy-4-metyl-2-pentanon1,2-diaminobenzen se o-fenylendiamin1,3-diaminobenzen se m-fenylendiamin1,4-diaminobenzen se p-fenylendiaminDiatoméjord (naturlig kieselguhr)Respirabelt støv1,5333-41-5Diazinon0,1H334-88-3Diazometan0,20,4KDibenzoylperoksid se benzoylperoksid19287-45-7Diboran0,10,1Dibrom se dimetyl-1,2-dibrom-2,2-dikloretylfosfat75-61-6Dibromdifluormetan50430106-93-41,2-dibrometan0,010,1HKG2021102-81-82-(dibutylamino)etanol214HDibutylfosfat (alle isomere)1584-74-2Dibutylftalat3460-19-5Dicyan102260-57-1Dieldrin0,25Dieseleksos (målt som elementært karbon)0,05KG22,232021Dietanolamin se 2,2'-iminodietanol315109-89-7Dietylamin515E2007100-37-82-(dietylamino)etanol1050H111-96-6DietylenglykoldimetyleterHRDietylentriamin se 3-zapentan-1,5-diamin200060-29-7Dietyleter100300E200784-66-2Dietylftalat3117-81-7Di-2-etylheksylftalat (DEHP)1R2007Dietylketon se pentan-3-onDifenyl se bifenyl122-39-4Difenylamin5101-84-8Difenyleter17E2018214S101-68-8Difenylmetan-4,4-diisocyanat (MDI)0,0050,05A4Difluordibrommetan se dibromdifluormetan75-71-8Difluordiklormetan500247575-45-6Difluorklormetan5001750E76-12-01,2-difluor-1,1,2,2-tetrakloretan25020851314-56-3Difosfor(V)oksid1EDiglycidyleter se 2,2'-[oksibis(metylen)] bisoksiran120-80-91,2-dihydroksybenzen5201,3-dihydrokybenzen se 1,3-benzendiolDiisobutylketon se 2,6-dimetyl-4-heptanonDiisocyanater0,005A4108-18-9Diisopropylamin520H108-20-3Diisopropyleter1255257572-29-4Dikloracetylen0,10,4T95-50-11,2-diklorbenzen20122HE201250306S106-46-71,4-diklorbenzen212HKE20181060S111-44-42,2'-diklordietyleter530HK542-88-11,1'-diklordimetyleter0,0010,005K118-52-51,3-diklor-5,5-dimetylhydantoin0,275-34-31,1-dikloretan50200HE107-06-21,2-dikloretan0,251HKG202175-35-41,1-dikloreten14HKE2018312S540-59-01,2-dikloreten1003951,2-dikloretylen se 1,2-dikloreten94-75-72,4-diklorfenoksyeddiksyre5136-78-72(2,4-diklorfenoksy)etylsulfat575-09-2Diklormetan1550HKE201845150SDiklormonofluormetan se fluordiklormetan594-72-91,1-diklor-1-nitroetan212HT78-87-51,2-diklorpropan4018575-99-02,2-diklorpropansyre16542-75-61,3-diklorpropen15H2,2-diklorpropionsyre se 2,2-diklorpropansyre1,2-diklor-1,1,2,2-tetrafluoretan se 1,1,2,2-tetrafluor-1,2-dikloretan62-73-7Diklorvos0,11HK85-00-7Diquatdibromid0,5109-87-5Dimetoksymetan5001550127-19-5N,N-dimetylacetamid1035HE124-40-3Dimetylamin24E2000121-69-7N,N-Dimetylanilin525H108-84-91,3-dimetylbutyl acetat25150300-76-5Dimetyl-1,2-dibrom-2,2-dikloretyl fosfat3115-10-6Dimetyleter200384E2007598-56-1Dimetyletylamin2668-12-2N,N-dimetylformamid26HRG2620221030S2022131-11-3Dimetylftalat3108-83-82,6-dimetyl-4-heptanon2012057-14-71,1-dimetylhydrazin0,010,02HAK1,2-dimetylhydrazin0,010,02HK77-78-1Dimetylsulfat0,010,05HKDinitrobenzen (alle isomere)0,151H10024-97-2Dinitrogenoksid5090R2000534-52-14,6-dinitro-o-kresol0,2HDinitrotoluen (alle isomere)0,15HK123-91-11,4-dioksan518HKE20111036S117-84-0Dioktylftalat3138-86-3Dipenten25140ADipropylenglykolmetyleter se (2-metoksymetyletoksy)-propanolDipropylketon se heptan-4-onDisul se 2-(2,4-diklorfenoksy)etylsulfat97-77-8Disulfiram210025-67-9Disvoveldiklorid165124-30-1Disykloheksylmetan-4,4'-diisocyanat0,0050,05A477-73-6Disyklopentadien530298-04-4Disyston0,1H330-54-1Diuron5KDivinylbenzen (alle isomere)1053Dursban se klorpyrifos64-19-7Eddiksyre1025AE20182050S108-24-7Eddiksyreanhydrid520TEkstraksjonsbensin (vesentlig n-heksan)50175Ekstraksjonsbensin (uspesifisert)100500115-29-7Endosulfan0,1H72-20-8Endrin0,1H13838-16-9Enfluran0,32,3R2000Epiklorhydrin se 1-klor-2,3-epoksypropanEPN se O-etyl-O-4-nitrofenylfenyltiofosfonat1,2-epoksy-3-fenoksypropan se fenylglycidyleter1,2-epoksypropan se 1,2-propylenoksid556-52-52,3-epoksy-1-propanol2575A2,3-epoksypropyl fenyleter se fenylglycidyleter4016-14-22,3-epoksypropyl isopropyleter2512064-17-5Etanol500950Etanolamin se 2-aminoetanol107-21-11,2-etandiol2052HE5201240104S628-96-61,2-etandioldinitrat0,030,18H75-08-1Etantiol0,51Eter se dietyleter110-80-52-etoksyetanol28HRE2011111-15-92-etoksyetylacetat211HRE2011141-78-6Etylacetat200734E20184001468S140-88-5Etylakrylat521HAKE20111042S75-04-7Etylamin24E2000Etyl-sek-amylketon se 5-metyl-3-heptanon100-41-4Etylbenzen520HKE2000Etylbromid se brometan107-15-3Etylendiamin1025AEtylendibromid se 1,2-dibrometanEtylendiklorid se 1,2-dikloretanEtylenglykol se 1,2-etandiolEtylenglykoldinitrat se 1,2-etandioldinitratEtylenglykolmonobutyleter se 2-butoksyetanolEtylenglykolmonoetyleter se 2-etoksyetanolEtylenglykolmonoetyleteracetat se 2-etoksyetylacetatEtylenglykolmonometyleter se 2-metoksyetanolEtylenglykolmonometyleteracetat se 2-metoksyetylacetat151-56-4Etylenimin0,51HKEtylenklorhydrin se 2-kloretanol75-21-8Etylenoksid11,8HKG2020109-94-4Etylformiat50150Etylglykol se 2-etoksyetanolEtylglykolacetat se 2-etoksyetylacetat104-76-72-ethylhexanol15,4E20181054SEtylidenklorid se 1,1-dikloretan16219-75-35-etyliden-2-norbornen525TEtylklorid se kloretan97-63-2Etylmetakrylat50250AEtylmerkaptan se etantiolEtylmetanoat se etylformiat100-74-3N-etylmorfolin523HO-etyl-O-(4-nitrofenyl) fenylmonotiofosfonat se O-etyl-O-4-nitrofenylfenyltiofosfonat2104-64-5O-etyl-O-4-nitrofenylfenyltiofosfonat0,5H78-10-4Etylsilikat544E2018108-95-2Fenol14HE2011312S92-84-2Fenotiazin5H1,2-fenylendiamin se o-fenylendiamin1,3-fenylendiamin se m-fenylendiamin1,4-fenylendiamin se p-fenylendiaminFenyleter se difenyleter108-45-2m-fenylendiamin0,1HA95-54-5o-fenylendiamin0,1HAKp-fenylendiamin0,1HA638-21-1Fenylfosfin0,050,25T122-60-1Fenylglycidyleter15A100-63-0Fenylhydrazin0,6AFenylmerkaptan se benzentiol98-82-82-fenylpropan se kumen98-83-92-fenylpropen50240E14484-64-1Ferbam512604-58-9Ferrovanadium17782-41-4Fluor0,10,2EFluorider (beregnet som F) se uorganiske fluoriderFluormonoksid se oksygendifluorid75-43-4Fluordiklormetan104275-69-4Fluortriklormetan5002800Fluss-syre se hydrogenfluorid298-02-2Forat0,05H50-00-0Formaldehyd0,30,37AKG20210,60,74S11,2T75-12-7Formamid1018HFosdrin se mevinfos7803-51-2Fosfin0,10,15E7723-14-0Fosfor (gult)0,1Forforoksyklorid se fosforylklorid10026-13-8Fosforpentaklorid1EForforpentaoksid se difosfor(V)oksid1314-80-3Fosforpentasulfid1E7664-38-2Fosforsyre1EFosforsyreanhydrid se difosfor(V)oksid7719-12-2Fosfortriklorid0,21,510025-87-3Fosforylklorid0,010,064E20210,020,13S75-44-5Fosgen0,050,2TE2012Freon 11 se fluortriklormetanFreon 12 se difluordiklormetanFreon 21 se fluordiklormetanFreon 22 se difluorklormetanFreon 112 se1,2-difluor-1,1,2,2-tetrakloretanFreon 113 se 1,2,2-trifluor-1,1,2-trikloretanFreon 114 se 1,1,2,2-tetrafluor-1,2-dikloretan626-17-5m-ftalodinitril585-44-9Ftalsyreanhydrid2A98-01-12-furaldehyd28HFurfural se 2-furaldehyd98-00-0Furfurylalkohol520H7782-65-2Germaniumtetrahydrid0,20,6Glassfiber/polyester, totalstøv5GlimmerTotalstøv6Respirabelt støv3111-30-8Glutaraldehyd0,20,8ATGlutaraldehyd (alkalisk aktivert)0,25T55-63-0Glyceroltrinitrat0,010,09HE20180,020,19SGlycidol se 2,3-epoksy-1-propanolGrafitt, naturligTotalstøv5Respirabelt støv2Grafitt, syntetiskTotalstøv10Respirabelt støv47440-58-6Hafnium0,5151-67-7Halotan0,020,2R2000HDI se heksan-1,6-diisocyanat684-16-2Heksafluoraceton0,10,7HHeksahydro-1,3,5-trinitro-1,s-triazinse perhydro-1,3,5-trinitro-1,3,5-triazin87-68-3Heksaklorbutadien0,020,24H67-72-1Heksakloretan110H1335-87-1Heksaklornaftalen0,2H77-47-4Heksaklorsyklopentadien0,010,1Heksametylendiisocyanat se heksan-1,6-diisocyanat100-97-0Heksametylentetramin3110-54-3n-heksan2072RE2007Heksan (unntatt n-heksan)2501050124-09-4Heksandiamin0,51HT2007822-06-0Heksan-1,6-diisocyanat0,0050,035A42-heksanon se heksan-2-on591-78-6Heksan-2-on14Hsek-heksylacetat se 1,3-dimetylbutyl acetat4Heksylenglykol se 2-metyl-2,4-pentandiol76-44-8Heptaklor0,5H142-82-5Heptan200800E123-19-3Heptan-4-on25115110-43-02-heptanon25115HE106-35-43-heptanon2095E201450250S4-heptanon se heptan-4-on302-01-2Hydrazin0,010,01AHKG202010035-10-6Hydrogenbromid27STE201474-90-8Hydrogencyanid0,91HE201845S61788-32-7Hydrogenert terfenyl219E2018548S7664-39-3Hydrogenfluorid0,60,5HE20101,81,5SHydrogenfosfid se fosfin7647-01-0Hydrogenklorid57TE7722-84-1Hydrogenperoksid11,47783-07-5Hydrogenselenid0,010,05E7783-06-4Hydrogensulfid57E20111014T123-31-9Hydrokinon0,5AK868-77-92-hydroksyetylmetakrylat211A2007123-42-24-hydroksy-4-metyl-2-pentanon25120999-61-12-hydroksypropylakrylat0,52,9HAIldfaste keramiske fibrer0,1 fiber/cm3KG2020111-42-22,2'-iminodietanol3152,2'-iminodi(etylamin) se 3-azapentan-1,5-diamin95-13-6Inden1045Indium og indiumforb. (beregnet som In)0,1Isoamylacetat se (3-metylbutyl)acetatIsoamylalkohol se 3-metyl-1-butanolIsobutylacetat se butylacetat (alle isomere)97-86-9Isobutylmetakrylat50300AIsocyanater se diisocyanater26675-46-7Isofluran215R201078-59-1Isoforon525T4098-71-9Isoforondiisocyanat0,0050,045A426952-21-6Isooktan-1-ol25135Isooktylalkohol se isooktan-1-ol78-78-4Isopentan250750E2007123-92-2Isopentylacetat50260EIsopropanol se 2-propanol109-59-12-isopropoksyetanol20802-isopropoksypropan se diisopropyleter108-21-4Isopropylacetat100420Isopropylamin se 2-propylamin768-52-5Isopropylanilin211HIsopropylglycidyleter se 2,3-epoksypropyl isopropyleter1309-37-1Jern(III)oksid (beregnet som Fe)313463-40-6Jernpentakarbonyl0,010,08Jernsalter (beregnet som Fe)17553-56-2Jod0,11T74-88-4Jodmetan15HJodoform se trijodmetanKadmium og uorganiske kadmiumforbindelser (unntatt kadmiumoksid) (beregnet som Cd), inhalerbar0,001KG20211306-19-0Kadmiumoksid (beregnet som Cd), inhalerbar0,001KG20210,02T151-50-8Kaliumcyanid0,91HE201845S1310-58-3Kaliumhydroksid2T156-62-7Kalsiumcyanamid0,51305-62-0Kalsiumhydroksid1E2018Respirabelt støv4S1305-78-8Kalsiumoksid1E2018Respirabelt støv4S8001-35-2Kamfeklor0,5H76-22-2Kamfer (syntetisk)212105-60-2ε-kaprolaktam1040E5201263-25-2Karbaryl5H1563-66-2Karbofuran0,1H124-38-9Karbondioksid50009000E75-15-0Karbondisulfid515HRE2011630-08-0Karbonmonoksid2023RE2018100117S6558-13-4Karbontetrabromid0,11,4Karbontetraklorid se tetraklormetan353-50-4Karbonylfluorid25Karbonylklorid se fosgen13466-78-9δ-karen25140AKatekol se 1,2-dihydroksybenzen463-51-4Keten0,50,9Kinon se 1,4-benzokinonKlebersteinTotalstøv6Respirabelt støv37782-50-5Klor0,51,5E200713T107-20-0Kloracetaldehyd13T532-27-4α-kloracetofenon0,050,379-04-9Kloracetylklorid0,050,2H108-90-7Klorbenzen523E20072698-41-1o-klorbenzylidenmalononitril0,050,4HKlorbrommetan se bromklormetan57-74-9Klordan0,5HKlordifluormetan se difluorklormetan10049-04-4Klordioksid0,10,3106-89-81-klor-2,3-epoksypropan0,51,9HAKG202155720-99-5Klorert difenyloksid0,5HKlorert kamfen se toksafen75-00-3Kloretan100270KE2007107-07-32-kloretanol13HTKloreten se vinylklorid74-87-3Klormetan2040KE20214080SKlormetylbenzen se α-klortoluen100-00-51-klor-4-nitrobenzen1H600-25-91-klor-1-nitropropan210Kloroform se triklormetanKlorpikrin se triklornitrometan126-99-82-kloropren13,6H107-05-13-klorpropen13H2921-88-2Klorpyrifos0,2H2039-87-4o-klorstyren25140100-44-7α-klortoluen15KT95-49-8o-klortoluen25125H7790-91-2Klortrifluorid0,10,47440-50-8KobberRøyk0,1Støv1Kobolt (røyk) og uorg. koboltforb. (beregnet som Co, unntatt Co(II)0,02AR2000Kobolt, Co(II)-forb. (røyk) og uorg. (beregnet som Co)0,02AKR2000Kobolthydrokarbonyl (beregnet som Co)0,1Koboltkabonyl (beregnet som Co)0,11319-77-3Kresoler (alle isomere)522HE14464-46-1KristobalittTotalstøv0,15K7Respirabelt støv0,05KG7,212021Krom og Cr2+ – og Crm3+ – forb. (beregnet som Cr)0,5EKromsyre og Kromater (beregnet som Cr(VI)), se seksverdige kromforbindelser (beregnet som Cr(VI))Krotonaldehyd se (E)-2-butenal(E)-krotonaldehyd se (E)-2-butenalKullstøvTotalstøv4Respirabelt støv1,5Kumen se 1-metyletylbenzen14808-60-7Krystallinsk silika (SiO2), α-kvartsTotalstøv0,3K7Respirabelt støv0,05KG7,212021Kvikksølv og kvikksølvforb. (unntatt alkylforbindelser) (beregnet som Hg)0,02AE2007Biologisk grenseverdi for urin30 μg Hg/g kreatinin8Kvikksølv, alkylforb. (beregnet som Hg)0,01AHLimonen se d-limonen, i-limonen og dipenten5989-27-5d-limonen25140A5989-54-8i-limonen2514058-89-9Lindan0,5H7580-67-8Litiumhydrid Inhalerbar0,02SE2018Loddetråd med harpiksholdig kjerne (beregnet som formaldehyd)0,1Lystgass se dinitrogenoksid1309-48-4Magnesiumoksid101121-75-5Malation5H108-31-6Maleinsyreanhydrid0,20,8A7439-96-5Mangan og uorganiske manganforb. (beregnet som Mn)2018Inhalerbar fraksjon0,2E9Respirabel fraksjon0,05E912079-65-1Mangansyklopentadienyltrikarbonyl (beregnet som Mn)0,1H64-18-6Maursyre59EMDI se difenylmetan-4,4'-diisocyanatMelstøv, inhalerbar3A102000Merkaptoeddiksyre se tioglykolsyre108-67-8Mesitylen (trimetylbenzener)20100EMesityloksid se 4-metyl-3-penten-2-on79-41-4Metakrylsyre2070Metakrylsyremetylester se metylmetakrylat67-56-1Metanol100130HE74-93-1Metantiol0,5190-04-02-metoksyanilin0,10,5HK104-94-94-metoksyanilin0,10,5H109-86-42-metoksyetanol13,1HRE2011111-77-32-(2-metoksyetoksy) etanol1050HRE2007110-49-62-metoksyetylacetat14,9HRE2011150-76-54-metoksyfenol572-43-5Metosyklor534590-94-8(2-metoksymetyletoksy)-propanol50300HE107-98-21-metoksy-2-propanol50180HE108-65-61-metoksy-2-propylacetat50270HE1589-47-52-metyloksy-1-propanol2075HR70657-70-42-metoksy-1-propylacetat20110HR16752-77-5Metomyl2,5H79-20-9Metylacetat100305Metylacetylen se propynMetylacetylen-propadien-blanding50090096-33-3Metylakrylat518HAE20111036S126-98-7Metylakrylnitril13HA74-89-5Metylamin1012Metylamylalkohol se 4-metyl-2-pentanolMetylamylketon se 2-heptanon100-61-8N-metylanilin0,52H75-55-82-metylaziridin25HKMetylbromid se brommetan3-metylbutanon se 3-metyl-2-butanon563-80-43-metyl-2-butanon100350H123-51-33-metyl-1-butanol518HE20211037S626-38-01-metylbutylacetat50260E3-metylbutylacetat se isopentylacetat98-51-11-metyl-4-tert-butylbenzen1060Metylbutylketon se Heksan-2-on137-05-3Metyl-2-cyanoakrylat28A101-14-44,4'-metylenbis(2-kloranilin) (MOCA)0,01KHG2021Metylen-bis-(4-syklo heksylisocyanat) se disykloheksylmetan-4,4'-diisocyanatMetylen-bis-fenyldiisocyanat se difenylmetan-4,4'-diisocyanat101-77-94,4'-metylendianilin0,010,08HAKG2021Metylenklorid se diklormetan98-82-81-metyletylbenzen1050HKE202150250SMetyletylketon se butanonMetyletylketonperoksid se 2-butanonperoksidMetylfenol se kresolerMetylformat se metylmetanatMetylglykol se 2-metaoksyetanolMetylglykolacetat se 2-metoksyetylacetat110-12-35-metyl-2-heksanon2095E201450250S541-85-55-metyl-3-heptanon1053E201420107S60-34-4Metylhydrazin0,010,02HKMetylisobutylkarbinol se 4-metyl-2-pentanolMetylisobutylketon se 4-metylpentan-2-on624-83-9Metylisocyanat0,020,05S (5 min.) AE112011Metylisopropylketon se 3-metyl-2-butanonMetyljodid se jodmetanMetylklorid se klormetanMetylkloroform se 1,1,1-trikloretanMetylmerkaptan se metantiol80-62-6Metylmetakrylat25100AE2011100400S107-31-3Metylmetanat50125HE2018100250S107-41-52-metyl-2,4-pentandiol20100T872-50-4N-metyl-2-pyrrolidon520HRE20112080S108-11-24-metyl-2-pentanol2080H108-10-14-metylpentan-2-on2083HE201250208S141-79-74-metyl-3-penten-2-on10404-metylpentyl-2-acetat se 1,3-dimetylbutyl acetat78-83-12-metylpropan-1-ol2575HT200775-65-02-metyl-2-propanol2575HT2007Metylpropylketon se 2-pentanon681-84-5Metylsilikat16α-metylstyren se 2-fenylpropen108-87-2Metylsykloheksan200800Metylsykloheksanol (alle isomere)25120583-60-82-metylsykloheksanon25115H12108-13-3Metylsyklopentadienylmangantrikarbonyl (beregnet som Mn)0,10,2H479-45-8N-Metyl-2,4,6-N-tetranitroanilin1,5HA7786-34-7Mevinfos0,010,1HMMMF (Man Made Mineral Fibers) se ildfaste keramiske fibrer, tynne glassfibrer til spesialformål, mineralull og AES-ullMineraloljer brukt som motoroljeHKG242021Mineralull1 fiber/cm3122007Molybdenforbindelser, løselige (beregnet som Mo)5Molybdenforbindelser, uløselige (beregnet som Mo)10Monofluordiklormetan se fluordiklormetan110-91-8Morfolin1036HE200791-20-3Naftalen1050E3173-72-6Naftalen-1,5-diisocyanat0,0050,04A486-88-41-naftyltiourea0,326628-22-8Natriumazid0,1E20140,3SNatriumbisulfitt se natriumhydrogensulfitt143-33-9Natriumcyanid0,91HE201845S62-74-8Natriumfluoracetat0,05H7631-90-5Natriumhydrogensulfitt51310-73-2Natriumhydroksid2T7681-57-4Natriummetabisulfitt (natriumpyrosulfitt)5Natriumtetraborater:1330-43-4Vannfritt11303-96-4Dekahydrater512447-40-4Pentahydrater1463-82-1Neopentan250750E2007Nikkel og nikkelforbindelser (beregnet som Ni)0,05AKR2000Nikkelkarbonyl se nikkeltetrakarbonyl13463-39-3Nikkeltetrakarbonyl0,0010,007HKR54-11-5Nikotin0,5HE100-01-6p-nitroanilin3H98-95-3Nitrobenzen0,21HKRE200779-24-3Nitroetan2062HE2018100312S10102-44-0Nitrogendioksid0,50,96E13201811,91S10102-43-9Nitrogenmonoksid22,5E142018Nitrogenoksid se nitrogenmonoksid7783-54-2Nitrogentrifluorid1029Nitroglycerol se glyceroltrinitratNitroglykol se 1,2-etandioldinitratp-nitroklorbenzen se 1-klor-4-nitrobenzen75-52-5Nitrometan50125108-03-21-nitropropan207079-46-92-nitropropan518KG2020Nitrotoluen (alle isomere)15,5H111-84-2Nonan100525144-62-7Oksalsyre1E2-okso-heksametylenimin se kaprolaktam2238-07-52,2'-[oksibis(metylen)] bisoksiran0,10,5AT7783-41-7Oksygendifluorid0,050,12234-13-1Oktaklornaftalen0,1H111-65-9Oktan1507252-oktanol se isooktan-1-olOljedamp50Oljetåke (mineraloljepartikler)1Organisk støv, totalstøv520816-12-0Osmiumtetraoksid0,00020,00210028-15-6Ozon0,10,2PAH (polyaromatiske hydrokarboner)0,04HKG15,1620218002-74-2Parafin (røyk)24685-14-7Parakvat0,1H56-38-2Paration0,05H298-00-0Paration-metyl0,2H1336-36-3PCB (polyklorerte bifenyler)0,01HK19624-22-7Pentaboran0,0050,0176-01-7Pentakloretan540H87-86-5Pentaklorfenol0,050,5HK1321-64-8Pentaklornaftalen0,5H109-66-0Pentan250750E96-22-0pentan-3-on100350Pentanol (alle isomere)50180107-87-92-pentanon752603-pentanon se pentan-3-on620-11-13-pentylacetat50260E628-63-7Pentylacetat50260EPentylacetat (alle isomere)50260121-82-4Perhydro-1,3,5-trinitro-1,3,5-triazin1,5HPerkloretylen se tetreakloretenPerklormetylenmerkaptan se triklormetansulfenylklorid7616-94-6Perklorylfluorid314PerlittTotalstøv10Respirabelt støv4Persulfater2A88-89-1Pikrinsyre0,1HE83-26-1Pindon0,180-56-8α-pinen25140H127-91-3β-pinen25140110-85-0Piperazin0,1AE20140,3SPival se pindon2-pivalyl-1,3-indandion se pindonPlatinaforbindelser, løselige (beregnet som Pt)0,0027440-06-4Platina, metalliskIngen verdi vedtattE2012Plictran se cyheksatinPolyester/glassfiber, totalstøv574-98-6Propan50090057-55-6Propan-1,2-diol257920076423-43-4Propan-1,2-diyl dinitrat0,050,3H1,2-propandioldinitrat se propan-1,2-diyl dinitrat71-23-81-propanol100245H67-63-02-propanol100245Propargylalkohol se 2-propyn-1-olPropenal se akrylaldehyd107-18-62-propen-1-ol25HE79-09-4Propionsyre1030E57-57-8β-propiolakton0,51,5K114-26-1Propoxur0,52-propylacetat se isopropylacetat109-60-4n-propylacetat10042075-31-02-propylamin5121,2-propylenglykoldinitrat se propan-1,2-diyl dinitratPropylenglykolmonometyleter se 1-metoksy-2-propanol2-propylglycidyleter se 2,3-epoksypropyl isopropyleterPropylenimin se 2-metylaziridin75-56-91,2-propylenoksid12AHKG2020iso-propylglycidyleter se 2,3-epoksypropyl isopropyleter627-13-4Propylnitrat209074-99-7Propyn500825107-19-72-propyn-1-ol12,5H8003-34-7Pyretrin1E2007110-86-1Pyridin515EPyrokatekol se 1,2-dihydroksybenzenResorcinol se 1,3-benzendiolRespirabelt støv i silisiumkarbidindustri, i ovnshus og ovnshusrelaterte avdelinger i silisiumkarbidindustri0,57440-16-6Rhodium0,1Rhodiumforb., løselige (beregnet som Rh)0,001299-84-3Ronnel583-79-4Rotenon57697-37-2Salpetersyre25E2007Saltsyre se hydrogenkloridSeksverdige kromforbindelser (beregnet som Cr(VI)) For blykromat, se egen oppføring.0,001AKG2021Selen og uorganiske selenforbindelser (unntatt selensulfid, hydrogenselenid og selenheksafluorid) (beregnet som Se)0,05A20007783-79-1Selenheksafluorid0,050,47446-34-6Selensulfid0,05AK200028523-86-6Sevofluran53520107803-62-5Silan0,50,77440-21-3Silisium101Silisiumkarbid fiber0,1 fiber/cm3KSilisiumkarbid se respirabelt støv i silisium karbidindustriSilisiumtetrahydrid se silan7646-85-7Sinkklorid11314-13-2Sinkoksid5Sjenerende støvTotalstøv10Respirabelt støv5Stibin se antimonhydrid57-24-9Stryknin0,15T100-42-5Styren25105M1395-21-7Subtilisiner (vaskemiddelenzymer)0,00006T3689-24-5Sulfotep0,1HE20142699-79-8Sulfurylfluorid520Sveiserøyk (uspesifisert)5177446-09-5Svoveldioksid0,51,3E1820181,02,7S2551-62-4Svovelheksafluorid10006000Svovelmonoklorid se disvoveldiklorid5714-22-7Svovelpentafluorid0,010,1T7664-93-9Svovelsyreaerosol, torakal fraksjon0,1KE20117783-60-0Svoveltetrafluorid0,10,4110-82-7Sykloheksan150525E108-93-0Sykloheksanol25100108-94-1Sykloheksanon1040HE20142080S110-83-8Sykloheksen150510108-91-8Sykloheksylamin1040HSyklonitt se perhydro-1,3,5-trinitro-1,3,5-triazin542-92-71,3-syklopentadien40110Syntetiske mineralfibre se MMMF7440-22-4Sølv, metallstøv og røyk0,1ESølv, løselige forb. (beregnet som Ag)0,01E2,4,5-T se 2,4,5-triklorfenoksyeddiksyreTalkum uten fiberTotalstøv6Respirabelt støv2TDI se 2,4- og 2,6-toluendiisocyanat13494-80-9Tellur0,17783-80-4Tellurheksafluorid0,020,2TEPP se tetraetylpyrofosfatTerfenyler0,54,5T8006-64-2Terpentin (vegetabilsk)25140HA79-27-61,1,2,2-tetrabrometan114Tetrabrommetan se karbontetrabromid78-00-2Tetraetylbly0,010,075HR107-49-3Tetraetylpyrofosfat0,0040,05H76-14-21,1,2,2-tetrafluor-1,2-dikloretan5003500109-99-9Tetrahydrofuran50150HE79-34-51,1,2,2-tetrakloretan17H127-18-4Tetrakloreten640HKRE201818120STetrakloretylen se tetrakloreten56-23-5Tetraklormetan16,3HKE2018319S1335-88-2Tetraklornaftalen2H75-74-1Tetrametylbly0,010,075HR3333-52-6Tetrametylsuccinonitril0,53H7722-88-5Tetranatriumpyrofosfat5509-14-8Tetranitrometan0,0050,04KTetryl se N-metyl-2,4,6-N-tetranitroanilinThallium og løselige thalliumforb. (beregnet som Tl)0,1H7719-09-7Thionylklorid15TTinnforbindelser, organiske (beregnet som Sn)0,1HTinnforbindelser, uorganiske (beregnet som Sn)2E68-11-1Tioglykolsyre15137-26-8Tiram5AM13463-67-7Titandioksid5TNT se 2,4,6-trinitrotoluenToksafen se kamfeklor108-88-3Toluen2594HE584-84-92,4-toluendiisocyanat0,0050,035AK491-08-72,6-toluendiisocyanat0,0050,035AK495-53-4o-toluidin0,10,5HKG2020Trestøv fra harde eksotiske tresorter, eik og bøk1KG192020Trestøv fra nordiske tresorter unntatt eik og bøk, totalstøv2K75-25-2Tribrommetan0,55HK126-73-8Tributylfosfat0,22,5Tri(cykloheksyl)tinnhydroksid se cyheksatin15468-32-3TridymittTotalstøv0,15K7Respirabelt støv0,05KG7,212021102-71-6Trietanolamin5121-44-8Trietylamin28HE112-24-3Trietylentetramin16A2007603-34-9Trifenylamin5115-86-6Trifenylfosfat3Trifluormonobrommetan se bromtrifluormetan76-13-11,2,2-trifluor-1,1,2-trikloretan500380075-47-8Trijodmetan0,23120-82-11,2,4-triklorbenzen215HE201476-03-9Trikloreddiksyre0,75571-55-61,1,1-trikloretan50270E79-00-51,1,2-trikloretan1054H79-01-6Trikloreten633HKG202130164STrikloretylen se trikloretenTriklorfluormetan se fluortriklormetan93-76-52,4,5-triklorfenoksyeddiksyre5H67-66-3Triklormetan210HKRE594-42-3Triklormetansulfenylklorid0,10,81321-65-9Triklornaftalen5H76-06-2Triklornitrometan0,10,796-18-41,2,3-triklorpropan1060HTrimellitsyreanhydrid se benzen-1,2,4-trikarboksylsyre-1,2-anhydrid75-50-3Trimetylamin24,9E2021512S526-73-81,2,3-trimetylbenzen20100E95-63-61,2,4-trimetylbenzen20100ETrimetylbenzen (alle isomere) se mesitylen121-45-9Trimetylfosfitt0,52,6118-96-72,4,6-trinitrotoluen0,1H78-30-8Triortokresylfosfat0,1Trisykloheksylhydroksytinn se cyheksatinTynne glassfibrer til spesialformål0,1 fiber/cm3K202007Uorganiske fluorider (beregnet som F)0,5E2010Uran og uranforb. (beregnet som U)0,2110-62-3Valeraldehyd25907440-62-2VanadiumRøyk (beregnet som V)0,05TStøv (beregnet som V)0,2108-05-4Vinylacetat517,6KE20111035,2SVinylbenzen se styren593-60-2Vinylbromid14KG2020Vinylidenklorid se 1,1-dikloreten75-01-4Vinylklorid, monomer12,6KG2020106-87-6Vinylsykloheksendioksid1060Vinyltoluen (alle isomere)502401304-82-1Vismuttellurid101Vismuttellurid (tilsatt selen)581-81-2Warfarin0,1White Spirit (aromatinnhold ≤ 22 %)50275White Spirit (aromatinnhold > 22 %)25120Wolfram og uløselige wolframforb. (beregnet som W)5Wolframforb. løselige (beregnet som W)11330-20-7Xylen (alle isomere)25108HE108-38-3m-xylen25108HE106-42-3p-xylen25108HE95-47-6o-xylen25108HE1477-55-0m-xylen-α-,α-diamin)0,1TXylidin (alle isomere)15H7440-65-5Yttrium1Zirkoniumforb. (beregnet som Zr)5
+Listen inneholder følgende anmerkninger (anm.):
+
+1. Kjemikalier som skal betraktes som at de fremkaller allergi eller annen overfølsomhet i øynene eller luftveier, eller som skal betraktes som at de fremkaller allergi ved hudkontakt.
+2. EU har en veiledende grenseverdi og/eller anmerkning for stoffet.
+3. EU har fastsatt en bindende grenseverdi og/eller anmerkning for stoffet.
+4. Kjemikalier som kan tas opp gjennom huden.
+5. Kjemikalier som skal betraktes som kreftfremkallende.
+6. Kjemikalier som skal betraktes som mutagene.
+7. Kjemikalier som skal betraktes som reproduksjonstoksiske.
+8. Korttidsverdi er en verdi for gjennomsnittskonsentrasjonen av et kjemisk stoff i pustesonen til en arbeidstaker som ikke skal overskrides i en fastsatt referanseperiode. Referanseperioden er 15 minutter hvis ikke annet er oppgitt.
+9. Takverdi er en øyeblikksverdi som angir maksimalkonsentrasjon av et kjemikalie i pustesonen som ikke skal overskrides.
+
+   | *CAS-nr.* | *Navn* | *ppm* | *mg/m3* | *anm.* | *Sist endret* |
+   | --- | --- | --- | --- | --- | --- |
+   | 75-07-0 | Acetaldehyd | 25 | 45 | K |  |
+   | 60-35-5 | Acetamid | 10 | 25 | K |  |
+   | 67-64-1 | Aceton | 125 | 295 | E |  |
+   | 75-05-8 | Acetonitril | 30 | 50 | HE | 2007 |
+   |  | Acetylentetrabromid se 1,1,2,2-tetrabrometan |  |  |  |  |
+   |  | Acetylentetraklorid se 1,1,2,2-tetrakloretan |  |  |  |  |
+   | 50-78-2 | Acetylsalisylsyre |  | 5 |  |  |
+   |  | AES-ull | 0,5 fiber/cm3 |  | 2007 |  |
+   |  | Akrolein se akrylaldehyd |  |  |  |  |
+   | 107-02-8 | Akrylaldehyd | 0,02 | 0,05 | HE | 2018 |
+   |  |  | 0,05 | 0,12 | S |  |
+   | 79-06-1 | Akrylamid |  | 0,03 | HKMG | 2020 |
+   | 107-13-1 | Akrylnitril | 2 | 4 | H K |  |
+   | 79-10-7 | Akrylsyre | 10 | 29 | AE | 2018 |
+   |  |  | 20 | 59 | S |  |
+   | 309-00-2 | Aldrin |  | 0,25 | H |  |
+   |  | Allylalkohol se 2-propen-1-ol |  |  |  |  |
+   | 107-11-9 | Allylamin | 2 | 5 |  |  |
+   |  | Allyl (2,3-epoksipropyl) eter se 1-allyloksy-2,3-epoksypropan |  |  |  |  |
+   |  | Allylglycidyleter se 1-allyloksy-2,3-epoksypropan |  |  |  |  |
+   |  | Allylklorid se 3-klorpropen |  |  |  |  |
+   | 106-92-3 | 1-allyloksy-2,3-epoksypropan | 5 | 22 | TA |  |
+   | 2179-59-1 | Allylpropyldisulfid | 2 | 12 |  |  |
+   | 7429-90-5 | Aluminiumpulver (pyroteknikk) |  | 5 |  |  |
+   |  | Aluminiumløselige salter (beregnet som Al) |  | 2 |  |  |
+   |  | Aluminiumalkyler |  | 2 |  |  |
+   | 1344-28-1 | Aluminiumoksid |  | 10 | 1 |  |
+   |  | Aluminium sveiserøyk |  | 5 |  |  |
+   | 141-43-5 | 2-aminoetanol | 1 | 2,5 | HE | 2007 |
+   |  | 2-aminopropan se 2-propylamin |  |  |  |  |
+   | 504-29-0 | 2-aminopyridin | 0,5 | 2 |  |  |
+   | 106-49-0 | 4-aminotoluen | 1 | 4,5 | HKE | 2021 |
+   |  |  | 2 | 8,9 | S |  |
+   | 61-82-5 | Amitrol |  | 0,2 | E | 2018 |
+   |  | Ammat se ammoniumsulfamat |  |  |  |  |
+   | 7664-41-7 | Ammoniakk | 15 | 11 | E2 | 2012 |
+   |  |  | 50 | 36 | S |  |
+   | 12125-02-9 | Ammoniumklorid |  | 10 | 1 |  |
+   | 7773-06-0 | Ammoniumsulfamat |  | 10 | 1 |  |
+   |  | Amorf silisiumdioksid |  |  |  |  |
+   |  | Respirabelt støv |  | 1,5 |  |  |
+   | 625-16-1 | tert-amylacetat | 50 | 260 | E |  |
+   |  | iso-amylalkohol se 3-metyl-1-butanol |  |  |  |  |
+   | 62-53-3 | Anilin | 1 | 4 | HKAE | 2021 |
+   |  |  | 2 | 8 | S |  |
+   |  | o- og p-Anisidin se 2- og 4-metoksyanilin |  |  |  |  |
+   |  | Anon se sykloheksanon |  |  |  |  |
+   |  | Antimon og antimonforb. (beregnet som Sb) |  | 0,5 | K |  |
+   | 7803-52-3 | Antimonhydrid | 0,05 | 0,25 | K |  |
+   |  | Antu se 1-naftyltiourea |  |  |  |  |
+   |  | Arsen, arsensyre og dets salter, og uorganiske arsenforbindelser (unntatt arsenhydrid) (beregnet som As), inhalerbar |  | 0,005 | KHG | 2021 |
+   | 7784-42-1 | Arsenhydrid | 0,003 | 0,01 | K |  |
+   |  | Arsin se arsenhydrid |  |  |  |  |
+   |  | Asbest, alle former | 0,1 fiber/cm3 | GK |  |  |
+   | 8052-42-4 | Asfalt (røyk) |  | 5 |  |  |
+   | 1912-24-9 | Atrazin |  | 5 | K |  |
+   | 111-40-0 | 3-azapentan-1,5-diamin | 1 | 4 | HA |  |
+   |  | 3-azapentan-1,5-diol se 2,2'-iminodietanol |  |  |  |  |
+   | 86-50-0 | Azinfosmetyl |  | 0,2 | H |  |
+   |  | Aziridin se Etylenimin |  |  |  |  |
+   |  | Barium og bariumforb. (unntatt bariumsulfat) (beregnet som Ba) |  | 0,5 | E |  |
+   | 17804-35-2 | Benomyl | 0,8 | 10 | 1 |  |
+   | 71-43-2 | Benzen | 0,2 | 0,66 | HKM | 2020 |
+   |  | 1,2-benzendiamin se o-fenylendiamin |  |  |  |  |
+   | 108-46-3 | 1,3-benzendiol | 10 | 45 | E | 2007 |
+   | 108-98-5 | Benzentiol | 0,5 | 2 |  |  |
+   |  | 1,2,4-benzentrikarboksylsyre-1,2-anhydrid se benzen-1,2,4-trikarboksylsyre-1,2-anhydrid |  |  |  |  |
+   | 552-30-7 | Benzen-1,2,4-trikarboksylsyre-1,2-anhydrid | 0,005 | 0,04 | A |  |
+   | 106-51-4 | 1,4-benzokinon | 0,1 | 0,4 |  |  |
+   | 94-36-0 | Benzoylperoksid |  | 5 | A |  |
+   | 85-68-7 | Benzylbutylftalat (BBP) |  | 1 | RE | 2007 |
+   |  | Benzylklorid se α-klortoluen |  |  |  |  |
+   |  | Beryllium og uorganiske berylliumforbindelser (beregnet som Be), inhalerbar |  | 0,00002 | KAG25 | 2021 |
+   |  |  |  | 0,0002 | S |  |
+   | 92-52-4 | Bifenyl | 0,2 | 1 |  |  |
+   |  | Bis (2,3-epoksypropyl) eter se 2,2'-[oksibis(metylen)] bisoksiran |  |  |  |  |
+   | 80-05-7 | Bisfenol A, inhalerbar |  | 2 | ARE | 2018 |
+   |  | Bis (2-kloretyl) se 2,2'-diklordietyleter |  |  |  |  |
+   |  | Bis-klormetyleter se 1,1'-diklormetyleter |  |  |  |  |
+   |  | Bly og uorg. blyforb. (beregnet som Pb) (støv og røyk) |  | 0,05 | GR |  |
+   | 301-04-2 | Blyacetat (beregnet som Pb) |  | 0,05 | KR |  |
+   | 7446-27-7 | Blyfosfat (beregnet som Pb) |  | 0,05 | KR |  |
+   | 7758-97-6 | Blykromat (beregnet som Cr(VI)) |  | 0,001 | KRG | 2021 |
+   | 1335-32-6 | Blysubacetat (beregnet som Pb) |  | 0,05 | KR |  |
+   |  | Blytetraetyl se tetraetylbly |  |  |  |  |
+   |  | Blytetrametyl se tetrametylbly |  |  |  |  |
+   |  | Blåsyre se hydrogencyanid |  |  |  |  |
+   |  | Bomullstøv, totalstøv |  | 0,2 | 3 |  |
+   |  | Boraks se natriumtetraborat dekahydrat |  |  |  |  |
+   | 1303-86-2 | Boroksid |  | 10 | 1 |  |
+   | 10294-33-4 | Bortribromid | 1 | 10 | T |  |
+   | 7637-07-2 | Bortrifluorid | 1 | 3 | T |  |
+   | 7726-95-6 | Brom | 0,1 | 0,7 | E |  |
+   | 74-96-4 | Brometan | 5 | 22 | H |  |
+   |  | Bromoform se tribrommetan |  |  |  |  |
+   |  | Brometylen se vinylbromid |  |  |  |  |
+   | 74-97-5 | Bromklormetan | 100 | 525 |  |  |
+   |  | 2-brom-2-klor-1,1,1-trifluoretan se halotan |  |  |  |  |
+   | 74-83-9 | Brommetan | 5 | 20 | HK |  |
+   | 7789-30-2 | Brompentafluorid | 0,1 | 0,7 |  |  |
+   | 75-63-8 | Bromtrifluormetan | 500 | 3050 |  |  |
+   | 106-99-0 | 1,3-butadien | 1 | 2,2 | KG | 2020 |
+   | 110-65-6 | but-2-yn-1,4-diol |  | 0,5 | AE | 2018 |
+   | 106-97-8 | Butan | 250 | 600 |  |  |
+   | 71-36-3 | Butan-1-ol | 25 | 75 | HT | 2007 |
+   | 78-92-2 | Butan-2-ol | 25 | 75 | HT | 2007 |
+   | 431-03-8 | 2, 3-butandion | 0,02 | 0,07 | AE | 2018 |
+   |  |  | 0,1 | 0,36 | S |  |
+   |  | Butanol (alle isomere) | 25 | 75 | HT | 2007 |
+   | 78-93-3 | Butanon | 75 | 220 | E |  |
+   | 1338-23-4 | 2-butanonperoksid |  | 1 | T |  |
+   | 109-79-5 | Butantiol | 0,5 | 1,5 |  |  |
+   |  | 2-butenal se (E)-2-butenal |  |  |  |  |
+   | 123-73-9 | (E)-2-butenal | 2 | 6 | H |  |
+   | 111-76-2 | 2-butoksyetanol | 10 | 50 | HE |  |
+   | 2426-08-6 | 1-butoksy-2,3-epoksypropan | 5 | 27 | A |  |
+   | 112-34-5 | 2-2(butoksyetoksy)etanol | 10 | 68 | E | 2007 |
+   | 112-07-2 | 2-butoksyetylacetat | 10 | 65 | HE |  |
+   |  | Butylacetat (alle isomere) | 50 | 241 |  | 2021 |
+   |  |  | 150 | 723 | S |  |
+   |  | n-butylacetat | 50 | 241 | E | 2021 |
+   |  |  | 150 | 723 | S |  |
+   |  | iso-butylacetat | 50 | 241 | E | 2021 |
+   |  |  | 150 | 723 | S |  |
+   |  | sec-butylacetat | 50 | 241 | E | 2021 |
+   |  |  | 150 | 723 | S |  |
+   | 141-32-2 | Butylakrylat | 2 | 11 | AE | 2007 |
+   |  | Butylamin (alle isomere) | 5 | 15 | HT |  |
+   |  | Butyletylketon se 3-heptanon |  |  |  |  |
+   |  | Butyl (2,3-epoksypropyl) eter se 1-butoksy-2,3-epoksypropan |  |  |  |  |
+   |  | Butylglycidyleter se 1-butoksy-2,3-epoksypropan |  |  |  |  |
+   |  | Butylglykol se 2-butoksyetanol |  |  |  |  |
+   | 1189-85-1 | tert-butylkromat (beregnet som CrO3) |  | 0,1 | HT |  |
+   | 138-22-7 | Butyllaktat | 5 | 25 |  |  |
+   |  | Butylmerkaptan se butantiol |  |  |  |  |
+   | 97-88-1 | Butylmetakrylat | 10 | 59 | A | 2007 |
+   | 1634-04-4 | tert-butylmetyleter (MTBE) | 50 | 183,5 | E | 2011 |
+   |  |  | 100 | 367 | S |  |
+   |  | p-tert-butyltoluen se 1-metyl-4-tert-butylbenzen |  |  |  |  |
+   | 2425-06-1 | Captafol |  | 0,1 |  |  |
+   | 133-06-2 | Captan |  | 5 | K |  |
+   | 1333-86-4 | Carbon Black (lampesot) |  | 3,5 |  |  |
+   |  | Cellosolve se 2-etoksyetanol |  |  |  |  |
+   |  | Cellosolveacetat se 2-etoksyetylacetat |  |  |  |  |
+   | 21351-79-1 | Cesiumhydroksid |  | 2 |  |  |
+   | 420-04-2 | Cyanamid | 0,6 | 1 | HE | 2007 |
+   |  | Cyanider (beregnet som CN) |  | 5 | H |  |
+   | 506-77-4 | Cyanogenklorid | 0,25 | 0,6 | T |  |
+   | 13121-70-5 | Cyheksatin |  | 5 |  |  |
+   |  | Cyklo- se syklo |  |  |  |  |
+   | 50-29-3 | DDT |  | 1 | K |  |
+   | 17702-41-9 | Dekaboran | 0,05 | 0,3 | H |  |
+   |  | Dekaner og andre høyere alifatiske hydrokarboner | 40 | 275 |  |  |
+   | 8065-48-3 | Demeton | 0,01 | 0,1 | H |  |
+   | 867-27-6 | Demeton-O-metyl | 0,05 | 0,5 | H |  |
+   | 57041-67-5 | Desfluran | 5 | 35 |  | 2010 |
+   |  | Diacetonalkohol se 4-hydroksy-4-metyl-2-pentanon |  |  |  |  |
+   |  | 1,2-diaminobenzen se o-fenylendiamin |  |  |  |  |
+   |  | 1,3-diaminobenzen se m-fenylendiamin |  |  |  |  |
+   |  | 1,4-diaminobenzen se p-fenylendiamin |  |  |  |  |
+   |  | Diatoméjord (naturlig kieselguhr) |  |  |  |  |
+   |  | Respirabelt støv |  | 1,5 |  |  |
+   | 333-41-5 | Diazinon |  | 0,1 | H |  |
+   | 334-88-3 | Diazometan | 0,2 | 0,4 | K |  |
+   |  | Dibenzoylperoksid se benzoylperoksid |  |  |  |  |
+   | 19287-45-7 | Diboran | 0,1 | 0,1 |  |  |
+   |  | Dibrom se dimetyl-1,2-dibrom-2,2-dikloretylfosfat |  |  |  |  |
+   | 75-61-6 | Dibromdifluormetan | 50 | 430 |  |  |
+   | 106-93-4 | 1,2-dibrometan | 0,01 | 0,1 | HKG | 2021 |
+   | 102-81-8 | 2-(dibutylamino)etanol | 2 | 14 | H |  |
+   |  | Dibutylfosfat (alle isomere) | 1 | 5 |  |  |
+   | 84-74-2 | Dibutylftalat |  | 3 |  |  |
+   | 460-19-5 | Dicyan | 10 | 22 |  |  |
+   | 60-57-1 | Dieldrin |  | 0,25 |  |  |
+   |  | Dieseleksos (målt som elementært karbon) |  | 0,05 | KG22,23 | 2021 |
+   |  | Dietanolamin se 2,2'-iminodietanol | 3 | 15 |  |  |
+   | 109-89-7 | Dietylamin | 5 | 15 | E | 2007 |
+   | 100-37-8 | 2-(dietylamino)etanol | 10 | 50 | H |  |
+   | 111-96-6 | Dietylenglykoldimetyleter |  |  | HR |  |
+   |  | Dietylentriamin se 3-zapentan-1,5-diamin |  |  |  | 2000 |
+   | 60-29-7 | Dietyleter | 100 | 300 | E | 2007 |
+   | 84-66-2 | Dietylftalat |  | 3 |  |  |
+   | 117-81-7 | Di-2-etylheksylftalat (DEHP) |  | 1 | R | 2007 |
+   |  | Dietylketon se pentan-3-on |  |  |  |  |
+   |  | Difenyl se bifenyl |  |  |  |  |
+   | 122-39-4 | Difenylamin |  | 5 |  |  |
+   | 101-84-8 | Difenyleter | 1 | 7 | E | 2018 |
+   |  |  | 2 | 14 | S |  |
+   | 101-68-8 | Difenylmetan-4,4-diisocyanat (MDI) | 0,005 | 0,05 | A4 |  |
+   |  | Difluordibrommetan se dibromdifluormetan |  |  |  |  |
+   | 75-71-8 | Difluordiklormetan | 500 | 2475 |  |  |
+   | 75-45-6 | Difluorklormetan | 500 | 1750 | E |  |
+   | 76-12-0 | 1,2-difluor-1,1,2,2-tetrakloretan | 250 | 2085 |  |  |
+   | 1314-56-3 | Difosfor(V)oksid |  | 1 | E |  |
+   |  | Diglycidyleter se 2,2'-[oksibis(metylen)] bisoksiran |  |  |  |  |
+   | 120-80-9 | 1,2-dihydroksybenzen | 5 | 20 |  |  |
+   |  | 1,3-dihydrokybenzen se 1,3-benzendiol |  |  |  |  |
+   |  | Diisobutylketon se 2,6-dimetyl-4-heptanon |  |  |  |  |
+   |  | Diisocyanater | 0,005 |  | A4 |  |
+   | 108-18-9 | Diisopropylamin | 5 | 20 | H |  |
+   | 108-20-3 | Diisopropyleter | 125 | 525 |  |  |
+   | 7572-29-4 | Dikloracetylen | 0,1 | 0,4 | T |  |
+   | 95-50-1 | 1,2-diklorbenzen | 20 | 122 | HE | 2012 |
+   |  |  | 50 | 306 | S |  |
+   | 106-46-7 | 1,4-diklorbenzen | 2 | 12 | HKE | 2018 |
+   |  |  | 10 | 60 | S |  |
+   | 111-44-4 | 2,2'-diklordietyleter | 5 | 30 | HK |  |
+   | 542-88-1 | 1,1'-diklordimetyleter | 0,001 | 0,005 | K |  |
+   | 118-52-5 | 1,3-diklor-5,5-dimetylhydantoin |  | 0,2 |  |  |
+   | 75-34-3 | 1,1-dikloretan | 50 | 200 | HE |  |
+   | 107-06-2 | 1,2-dikloretan | 0,25 | 1 | HKG | 2021 |
+   | 75-35-4 | 1,1-dikloreten | 1 | 4 | HKE | 2018 |
+   |  |  | 3 | 12 | S |  |
+   | 540-59-0 | 1,2-dikloreten | 100 | 395 |  |  |
+   |  | 1,2-dikloretylen se 1,2-dikloreten |  |  |  |  |
+   | 94-75-7 | 2,4-diklorfenoksyeddiksyre |  | 5 |  |  |
+   | 136-78-7 | 2(2,4-diklorfenoksy)etylsulfat |  | 5 |  |  |
+   | 75-09-2 | Diklormetan | 15 | 50 | HKE | 2018 |
+   |  |  | 45 | 150 | S |  |
+   |  | Diklormonofluormetan se fluordiklormetan |  |  |  |  |
+   | 594-72-9 | 1,1-diklor-1-nitroetan | 2 | 12 | HT |  |
+   | 78-87-5 | 1,2-diklorpropan | 40 | 185 |  |  |
+   | 75-99-0 | 2,2-diklorpropansyre | 1 | 6 |  |  |
+   | 542-75-6 | 1,3-diklorpropen | 1 | 5 | H |  |
+   |  | 2,2-diklorpropionsyre se 2,2-diklorpropansyre |  |  |  |  |
+   |  | 1,2-diklor-1,1,2,2-tetrafluoretan se 1,1,2,2-tetrafluor-1,2-dikloretan |  |  |  |  |
+   | 62-73-7 | Diklorvos | 0,1 | 1 | HK |  |
+   | 85-00-7 | Diquatdibromid |  | 0,5 |  |  |
+   | 109-87-5 | Dimetoksymetan | 500 | 1550 |  |  |
+   | 127-19-5 | N,N-dimetylacetamid | 10 | 35 | HE |  |
+   | 124-40-3 | Dimetylamin | 2 | 4 | E | 2000 |
+   | 121-69-7 | N,N-Dimetylanilin | 5 | 25 | H |  |
+   | 108-84-9 | 1,3-dimetylbutyl acetat | 25 | 150 |  |  |
+   | 300-76-5 | Dimetyl-1,2-dibrom-2,2-dikloretyl fosfat |  | 3 |  |  |
+   | 115-10-6 | Dimetyleter | 200 | 384 | E | 2007 |
+   | 598-56-1 | Dimetyletylamin | 2 | 6 |  |  |
+   | 68-12-2 | N,N-dimetylformamid | 2 | 6 | HRG26 | 2022 |
+   |  |  | 10 | 30 | S | 2022 |
+   | 131-11-3 | Dimetylftalat |  | 3 |  |  |
+   | 108-83-8 | 2,6-dimetyl-4-heptanon | 20 | 120 |  |  |
+   | 57-14-7 | 1,1-dimetylhydrazin | 0,01 | 0,02 | HAK |  |
+   |  | 1,2-dimetylhydrazin | 0,01 | 0,02 | HK |  |
+   | 77-78-1 | Dimetylsulfat | 0,01 | 0,05 | HK |  |
+   |  | Dinitrobenzen (alle isomere) | 0,15 | 1 | H |  |
+   | 10024-97-2 | Dinitrogenoksid | 50 | 90 | R | 2000 |
+   | 534-52-1 | 4,6-dinitro-o-kresol |  | 0,2 | H |  |
+   |  | Dinitrotoluen (alle isomere) |  | 0,15 | HK |  |
+   | 123-91-1 | 1,4-dioksan | 5 | 18 | HKE | 2011 |
+   |  |  | 10 | 36 | S |  |
+   | 117-84-0 | Dioktylftalat |  | 3 |  |  |
+   | 138-86-3 | Dipenten | 25 | 140 | A |  |
+   |  | Dipropylenglykolmetyleter se (2-metoksymetyletoksy)-propanol |  |  |  |  |
+   |  | Dipropylketon se heptan-4-on |  |  |  |  |
+   |  | Disul se 2-(2,4-diklorfenoksy)etylsulfat |  |  |  |  |
+   | 97-77-8 | Disulfiram |  | 2 |  |  |
+   | 10025-67-9 | Disvoveldiklorid | 1 | 6 |  |  |
+   | 5124-30-1 | Disykloheksylmetan-4,4'-diisocyanat | 0,005 | 0,05 | A4 |  |
+   | 77-73-6 | Disyklopentadien | 5 | 30 |  |  |
+   | 298-04-4 | Disyston |  | 0,1 | H |  |
+   | 330-54-1 | Diuron |  | 5 | K |  |
+   |  | Divinylbenzen (alle isomere) | 10 | 53 |  |  |
+   |  | Dursban se klorpyrifos |  |  |  |  |
+   | 64-19-7 | Eddiksyre | 10 | 25 | AE | 2018 |
+   |  |  | 20 | 50 | S |  |
+   | 108-24-7 | Eddiksyreanhydrid | 5 | 20 | T |  |
+   |  | Ekstraksjonsbensin (vesentlig n-heksan) | 50 | 175 |  |  |
+   |  | Ekstraksjonsbensin (uspesifisert) | 100 | 500 |  |  |
+   | 115-29-7 | Endosulfan |  | 0,1 | H |  |
+   | 72-20-8 | Endrin |  | 0,1 | H |  |
+   | 13838-16-9 | Enfluran | 0,3 | 2,3 | R | 2000 |
+   |  | Epiklorhydrin se 1-klor-2,3-epoksypropan |  |  |  |  |
+   |  | EPN se O-etyl-O-4-nitrofenylfenyltiofosfonat |  |  |  |  |
+   |  | 1,2-epoksy-3-fenoksypropan se fenylglycidyleter |  |  |  |  |
+   |  | 1,2-epoksypropan se 1,2-propylenoksid |  |  |  |  |
+   | 556-52-5 | 2,3-epoksy-1-propanol | 25 | 75 | A |  |
+   |  | 2,3-epoksypropyl fenyleter se fenylglycidyleter |  |  |  |  |
+   | 4016-14-2 | 2,3-epoksypropyl isopropyleter | 25 | 120 |  |  |
+   | 64-17-5 | Etanol | 500 | 950 |  |  |
+   |  | Etanolamin se 2-aminoetanol |  |  |  |  |
+   | 107-21-1 | 1,2-etandiol | 20 | 52 | HE5 | 2012 |
+   |  |  | 40 | 104 | S |  |
+   | 628-96-6 | 1,2-etandioldinitrat | 0,03 | 0,18 | H |  |
+   | 75-08-1 | Etantiol | 0,5 | 1 |  |  |
+   |  | Eter se dietyleter |  |  |  |  |
+   | 110-80-5 | 2-etoksyetanol | 2 | 8 | HRE | 2011 |
+   | 111-15-9 | 2-etoksyetylacetat | 2 | 11 | HRE | 2011 |
+   | 141-78-6 | Etylacetat | 200 | 734 | E | 2018 |
+   |  |  | 400 | 1468 | S |  |
+   | 140-88-5 | Etylakrylat | 5 | 21 | HAKE | 2011 |
+   |  |  | 10 | 42 | S |  |
+   | 75-04-7 | Etylamin | 2 | 4 | E | 2000 |
+   |  | Etyl-sek-amylketon se 5-metyl-3-heptanon |  |  |  |  |
+   | 100-41-4 | Etylbenzen | 5 | 20 | HKE | 2000 |
+   |  | Etylbromid se brometan |  |  |  |  |
+   | 107-15-3 | Etylendiamin | 10 | 25 | A |  |
+   |  | Etylendibromid se 1,2-dibrometan |  |  |  |  |
+   |  | Etylendiklorid se 1,2-dikloretan |  |  |  |  |
+   |  | Etylenglykol se 1,2-etandiol |  |  |  |  |
+   |  | Etylenglykoldinitrat se 1,2-etandioldinitrat |  |  |  |  |
+   |  | Etylenglykolmonobutyleter se 2-butoksyetanol |  |  |  |  |
+   |  | Etylenglykolmonoetyleter se 2-etoksyetanol |  |  |  |  |
+   |  | Etylenglykolmonoetyleteracetat se 2-etoksyetylacetat |  |  |  |  |
+   |  | Etylenglykolmonometyleter se 2-metoksyetanol |  |  |  |  |
+   |  | Etylenglykolmonometyleteracetat se 2-metoksyetylacetat |  |  |  |  |
+   | 151-56-4 | Etylenimin | 0,5 | 1 | HK |  |
+   |  | Etylenklorhydrin se 2-kloretanol |  |  |  |  |
+   | 75-21-8 | Etylenoksid | 1 | 1,8 | HKG | 2020 |
+   | 109-94-4 | Etylformiat | 50 | 150 |  |  |
+   |  | Etylglykol se 2-etoksyetanol |  |  |  |  |
+   |  | Etylglykolacetat se 2-etoksyetylacetat |  |  |  |  |
+   | 104-76-7 | 2-ethylhexanol | 1 | 5,4 | E | 2018 |
+   |  |  | 10 | 54 | S |  |
+   |  | Etylidenklorid se 1,1-dikloretan |  |  |  |  |
+   | 16219-75-3 | 5-etyliden-2-norbornen | 5 | 25 | T |  |
+   |  | Etylklorid se kloretan |  |  |  |  |
+   | 97-63-2 | Etylmetakrylat | 50 | 250 | A |  |
+   |  | Etylmerkaptan se etantiol |  |  |  |  |
+   |  | Etylmetanoat se etylformiat |  |  |  |  |
+   | 100-74-3 | N-etylmorfolin | 5 | 23 | H |  |
+   |  | O-etyl-O-(4-nitrofenyl) fenylmonotiofosfonat se O-etyl-O-4-nitrofenylfenyltiofosfonat |  |  |  |  |
+   | 2104-64-5 | O-etyl-O-4-nitrofenylfenyltiofosfonat |  | 0,5 | H |  |
+   | 78-10-4 | Etylsilikat | 5 | 44 | E | 2018 |
+   | 108-95-2 | Fenol | 1 | 4 | HE | 2011 |
+   |  |  | 3 | 12 | S |  |
+   | 92-84-2 | Fenotiazin |  | 5 | H |  |
+   |  | 1,2-fenylendiamin se o-fenylendiamin |  |  |  |  |
+   |  | 1,3-fenylendiamin se m-fenylendiamin |  |  |  |  |
+   |  | 1,4-fenylendiamin se p-fenylendiamin |  |  |  |  |
+   |  | Fenyleter se difenyleter |  |  |  |  |
+   | 108-45-2 | m-fenylendiamin |  | 0,1 | HA |  |
+   | 95-54-5 | o-fenylendiamin |  | 0,1 | HAK |  |
+   |  | p-fenylendiamin |  | 0,1 | HA |  |
+   | 638-21-1 | Fenylfosfin | 0,05 | 0,25 | T |  |
+   | 122-60-1 | Fenylglycidyleter | 1 | 5 | A |  |
+   | 100-63-0 | Fenylhydrazin |  | 0,6 | A |  |
+   |  | Fenylmerkaptan se benzentiol |  |  |  |  |
+   | 98-82-8 | 2-fenylpropan se kumen |  |  |  |  |
+   | 98-83-9 | 2-fenylpropen | 50 | 240 | E |  |
+   | 14484-64-1 | Ferbam |  | 5 |  |  |
+   | 12604-58-9 | Ferrovanadium |  | 1 |  |  |
+   | 7782-41-4 | Fluor | 0,1 | 0,2 | E |  |
+   |  | Fluorider (beregnet som F) se uorganiske fluorider |  |  |  |  |
+   |  | Fluormonoksid se oksygendifluorid |  |  |  |  |
+   | 75-43-4 | Fluordiklormetan | 10 | 42 |  |  |
+   | 75-69-4 | Fluortriklormetan | 500 | 2800 |  |  |
+   |  | Fluss-syre se hydrogenfluorid |  |  |  |  |
+   | 298-02-2 | Forat |  | 0,05 | H |  |
+   | 50-00-0 | Formaldehyd | 0,3 | 0,37 | AKG | 2021 |
+   |  |  | 0,6 | 0,74 | S |  |
+   |  |  | 1 | 1,2 | T |  |
+   | 75-12-7 | Formamid | 10 | 18 | H |  |
+   |  | Fosdrin se mevinfos |  |  |  |  |
+   | 7803-51-2 | Fosfin | 0,1 | 0,15 | E |  |
+   | 7723-14-0 | Fosfor (gult) |  | 0,1 |  |  |
+   |  | Forforoksyklorid se fosforylklorid |  |  |  |  |
+   | 10026-13-8 | Fosforpentaklorid |  | 1 | E |  |
+   |  | Forforpentaoksid se difosfor(V)oksid |  |  |  |  |
+   | 1314-80-3 | Fosforpentasulfid |  | 1 | E |  |
+   | 7664-38-2 | Fosforsyre |  | 1 | E |  |
+   |  | Fosforsyreanhydrid se difosfor(V)oksid |  |  |  |  |
+   | 7719-12-2 | Fosfortriklorid | 0,2 | 1,5 |  |  |
+   | 10025-87-3 | Fosforylklorid | 0,01 | 0,064 | E | 2021 |
+   |  |  | 0,02 | 0,13 | S |  |
+   | 75-44-5 | Fosgen | 0,05 | 0,2 | TE | 2012 |
+   |  | Freon 11 se fluortriklormetan |  |  |  |  |
+   |  | Freon 12 se difluordiklormetan |  |  |  |  |
+   |  | Freon 21 se fluordiklormetan |  |  |  |  |
+   |  | Freon 22 se difluorklormetan |  |  |  |  |
+   |  | Freon 112 se |  |  |  |  |
+   |  | 1,2-difluor-1,1,2,2-tetrakloretan |  |  |  |  |
+   |  | Freon 113 se 1,2,2-trifluor-1,1,2-trikloretan |  |  |  |  |
+   |  | Freon 114 se 1,1,2,2-tetrafluor-1,2-dikloretan |  |  |  |  |
+   | 626-17-5 | m-ftalodinitril |  | 5 |  |  |
+   | 85-44-9 | Ftalsyreanhydrid |  | 2 | A |  |
+   | 98-01-1 | 2-furaldehyd | 2 | 8 | H |  |
+   |  | Furfural se 2-furaldehyd |  |  |  |  |
+   | 98-00-0 | Furfurylalkohol | 5 | 20 | H |  |
+   | 7782-65-2 | Germaniumtetrahydrid | 0,2 | 0,6 |  |  |
+   |  | Glassfiber/polyester, totalstøv |  | 5 |  |  |
+   |  | Glimmer |  |  |  |  |
+   |  | Totalstøv |  | 6 |  |  |
+   |  | Respirabelt støv |  | 3 |  |  |
+   | 111-30-8 | Glutaraldehyd | 0,2 | 0,8 | AT |  |
+   |  | Glutaraldehyd (alkalisk aktivert) |  | 0,25 | T |  |
+   | 55-63-0 | Glyceroltrinitrat | 0,01 | 0,09 | HE | 2018 |
+   |  |  | 0,02 | 0,19 | S |  |
+   |  | Glycidol se 2,3-epoksy-1-propanol |  |  |  |  |
+   |  | Grafitt, naturlig |  |  |  |  |
+   |  | Totalstøv |  | 5 |  |  |
+   |  | Respirabelt støv |  | 2 |  |  |
+   |  | Grafitt, syntetisk |  |  |  |  |
+   |  | Totalstøv |  | 10 |  |  |
+   |  | Respirabelt støv |  | 4 |  |  |
+   | 7440-58-6 | Hafnium |  | 0,5 |  |  |
+   | 151-67-7 | Halotan | 0,02 | 0,2 | R | 2000 |
+   |  | HDI se heksan-1,6-diisocyanat |  |  |  |  |
+   | 684-16-2 | Heksafluoraceton | 0,1 | 0,7 | H |  |
+   |  | Heksahydro-1,3,5-trinitro-1,s-triazin |  |  |  |  |
+   |  | se perhydro-1,3,5-trinitro-1,3,5-triazin |  |  |  |  |
+   | 87-68-3 | Heksaklorbutadien | 0,02 | 0,24 | H |  |
+   | 67-72-1 | Heksakloretan | 1 | 10 | H |  |
+   | 1335-87-1 | Heksaklornaftalen |  | 0,2 | H |  |
+   | 77-47-4 | Heksaklorsyklopentadien | 0,01 | 0,1 |  |  |
+   |  | Heksametylendiisocyanat se heksan-1,6-diisocyanat |  |  |  |  |
+   | 100-97-0 | Heksametylentetramin |  | 3 |  |  |
+   | 110-54-3 | n-heksan | 20 | 72 | RE | 2007 |
+   |  | Heksan (unntatt n-heksan) | 250 | 1050 |  |  |
+   | 124-09-4 | Heksandiamin | 0,5 | 1 | HT | 2007 |
+   | 822-06-0 | Heksan-1,6-diisocyanat | 0,005 | 0,035 | A4 |  |
+   |  | 2-heksanon se heksan-2-on |  |  |  |  |
+   | 591-78-6 | Heksan-2-on | 1 | 4 | H |  |
+   |  | sek-heksylacetat se 1,3-dimetylbutyl acetat |  |  |  |  |
+   |  | 4Heksylenglykol se 2-metyl-2,4-pentandiol |  |  |  |  |
+   | 76-44-8 | Heptaklor |  | 0,5 | H |  |
+   | 142-82-5 | Heptan | 200 | 800 | E |  |
+   | 123-19-3 | Heptan-4-on | 25 | 115 |  |  |
+   | 110-43-0 | 2-heptanon | 25 | 115 | HE |  |
+   | 106-35-4 | 3-heptanon | 20 | 95 | E | 2014 |
+   |  |  | 50 | 250 | S |  |
+   |  | 4-heptanon se heptan-4-on |  |  |  |  |
+   | 302-01-2 | Hydrazin | 0,01 | 0,01 | AHKG | 2020 |
+   | 10035-10-6 | Hydrogenbromid | 2 | 7 | STE | 2014 |
+   | 74-90-8 | Hydrogencyanid | 0,9 | 1 | HE | 2018 |
+   |  |  | 4 | 5 | S |  |
+   | 61788-32-7 | Hydrogenert terfenyl | 2 | 19 | E | 2018 |
+   |  |  | 5 | 48 | S |  |
+   | 7664-39-3 | Hydrogenfluorid | 0,6 | 0,5 | HE | 2010 |
+   |  |  | 1,8 | 1,5 | S |  |
+   |  | Hydrogenfosfid se fosfin |  |  |  |  |
+   | 7647-01-0 | Hydrogenklorid | 5 | 7 | TE |  |
+   | 7722-84-1 | Hydrogenperoksid | 1 | 1,4 |  |  |
+   | 7783-07-5 | Hydrogenselenid | 0,01 | 0,05 | E |  |
+   | 7783-06-4 | Hydrogensulfid | 5 | 7 | E | 2011 |
+   |  |  | 10 | 14 | T |  |
+   | 123-31-9 | Hydrokinon |  | 0,5 | AK |  |
+   | 868-77-9 | 2-hydroksyetylmetakrylat | 2 | 11 | A | 2007 |
+   | 123-42-2 | 4-hydroksy-4-metyl-2-pentanon | 25 | 120 |  |  |
+   | 999-61-1 | 2-hydroksypropylakrylat | 0,5 | 2,9 | HA |  |
+   |  | Ildfaste keramiske fibrer | 0,1 fiber/cm3 | KG |  | 2020 |
+   | 111-42-2 | 2,2'-iminodietanol | 3 | 15 |  |  |
+   |  | 2,2'-iminodi(etylamin) se 3-azapentan-1,5-diamin |  |  |  |  |
+   | 95-13-6 | Inden | 10 | 45 |  |  |
+   |  | Indium og indiumforb. (beregnet som In) |  | 0,1 |  |  |
+   |  | Isoamylacetat se (3-metylbutyl)acetat |  |  |  |  |
+   |  | Isoamylalkohol se 3-metyl-1-butanol |  |  |  |  |
+   |  | Isobutylacetat se butylacetat (alle isomere) |  |  |  |  |
+   | 97-86-9 | Isobutylmetakrylat | 50 | 300 | A |  |
+   |  | Isocyanater se diisocyanater |  |  |  |  |
+   | 26675-46-7 | Isofluran | 2 | 15 | R | 2010 |
+   | 78-59-1 | Isoforon | 5 | 25 | T |  |
+   | 4098-71-9 | Isoforondiisocyanat | 0,005 | 0,045 | A4 |  |
+   | 26952-21-6 | Isooktan-1-ol | 25 | 135 |  |  |
+   |  | Isooktylalkohol se isooktan-1-ol |  |  |  |  |
+   | 78-78-4 | Isopentan | 250 | 750 | E | 2007 |
+   | 123-92-2 | Isopentylacetat | 50 | 260 | E |  |
+   |  | Isopropanol se 2-propanol |  |  |  |  |
+   | 109-59-1 | 2-isopropoksyetanol | 20 | 80 |  |  |
+   |  | 2-isopropoksypropan se diisopropyleter |  |  |  |  |
+   | 108-21-4 | Isopropylacetat | 100 | 420 |  |  |
+   |  | Isopropylamin se 2-propylamin |  |  |  |  |
+   | 768-52-5 | Isopropylanilin | 2 | 11 | H |  |
+   |  | Isopropylglycidyleter se 2,3-epoksypropyl isopropyleter |  |  |  |  |
+   | 1309-37-1 | Jern(III)oksid (beregnet som Fe) |  | 3 |  |  |
+   | 13463-40-6 | Jernpentakarbonyl | 0,01 | 0,08 |  |  |
+   |  | Jernsalter (beregnet som Fe) |  | 1 |  |  |
+   | 7553-56-2 | Jod | 0,1 | 1 | T |  |
+   | 74-88-4 | Jodmetan | 1 | 5 | H |  |
+   |  | Jodoform se trijodmetan |  |  |  |  |
+   |  | Kadmium og uorganiske kadmiumforbindelser (unntatt kadmiumoksid) (beregnet som Cd), inhalerbar |  | 0,001 | KG | 2021 |
+   | 1306-19-0 | Kadmiumoksid (beregnet som Cd), inhalerbar |  | 0,001 | KG | 2021 |
+   |  |  |  | 0,02 | T |  |
+   | 151-50-8 | Kaliumcyanid | 0,9 | 1 | HE | 2018 |
+   |  |  | 4 | 5 | S |  |
+   | 1310-58-3 | Kaliumhydroksid |  | 2 | T |  |
+   | 156-62-7 | Kalsiumcyanamid |  | 0,5 |  |  |
+   | 1305-62-0 | Kalsiumhydroksid |  | 1 | E | 2018 |
+   |  | Respirabelt støv |  | 4 | S |  |
+   | 1305-78-8 | Kalsiumoksid |  | 1 | E | 2018 |
+   |  | Respirabelt støv |  | 4 | S |  |
+   | 8001-35-2 | Kamfeklor |  | 0,5 | H |  |
+   | 76-22-2 | Kamfer (syntetisk) | 2 | 12 |  |  |
+   | 105-60-2 | ε-kaprolaktam | 10 | 40 | E5 | 2012 |
+   | 63-25-2 | Karbaryl |  | 5 | H |  |
+   | 1563-66-2 | Karbofuran |  | 0,1 | H |  |
+   | 124-38-9 | Karbondioksid | 5000 | 9000 | E |  |
+   | 75-15-0 | Karbondisulfid | 5 | 15 | HRE | 2011 |
+   | 630-08-0 | Karbonmonoksid | 20 | 23 | RE | 2018 |
+   |  |  | 100 | 117 | S6 |  |
+   | 558-13-4 | Karbontetrabromid | 0,1 | 1,4 |  |  |
+   |  | Karbontetraklorid se tetraklormetan |  |  |  |  |
+   | 353-50-4 | Karbonylfluorid | 2 | 5 |  |  |
+   |  | Karbonylklorid se fosgen |  |  |  |  |
+   | 13466-78-9 | δ-karen | 25 | 140 | A |  |
+   |  | Katekol se 1,2-dihydroksybenzen |  |  |  |  |
+   | 463-51-4 | Keten | 0,5 | 0,9 |  |  |
+   |  | Kinon se 1,4-benzokinon |  |  |  |  |
+   |  | Kleberstein |  |  |  |  |
+   |  | Totalstøv |  | 6 |  |  |
+   |  | Respirabelt støv |  | 3 |  |  |
+   | 7782-50-5 | Klor | 0,5 | 1,5 | E | 2007 |
+   |  |  | 1 | 3 | T |  |
+   | 107-20-0 | Kloracetaldehyd | 1 | 3 | T |  |
+   | 532-27-4 | α-kloracetofenon | 0,05 | 0,3 |  |  |
+   | 79-04-9 | Kloracetylklorid | 0,05 | 0,2 | H |  |
+   | 108-90-7 | Klorbenzen | 5 | 23 | E | 2007 |
+   | 2698-41-1 | o-klorbenzylidenmalononitril | 0,05 | 0,4 | H |  |
+   |  | Klorbrommetan se bromklormetan |  |  |  |  |
+   | 57-74-9 | Klordan |  | 0,5 | H |  |
+   |  | Klordifluormetan se difluorklormetan |  |  |  |  |
+   | 10049-04-4 | Klordioksid | 0,1 | 0,3 |  |  |
+   | 106-89-8 | 1-klor-2,3-epoksypropan | 0,5 | 1,9 | HAKG | 2021 |
+   | 55720-99-5 | Klorert difenyloksid |  | 0,5 | H |  |
+   |  | Klorert kamfen se toksafen |  |  |  |  |
+   | 75-00-3 | Kloretan | 100 | 270 | KE | 2007 |
+   | 107-07-3 | 2-kloretanol | 1 | 3 | HT |  |
+   |  | Kloreten se vinylklorid |  |  |  |  |
+   | 74-87-3 | Klormetan | 20 | 40 | KE | 2021 |
+   |  |  | 40 | 80 | S |  |
+   |  | Klormetylbenzen se α-klortoluen |  |  |  |  |
+   | 100-00-5 | 1-klor-4-nitrobenzen |  | 1 | H |  |
+   | 600-25-9 | 1-klor-1-nitropropan | 2 | 10 |  |  |
+   |  | Kloroform se triklormetan |  |  |  |  |
+   |  | Klorpikrin se triklornitrometan |  |  |  |  |
+   | 126-99-8 | 2-kloropren | 1 | 3,6 | H |  |
+   | 107-05-1 | 3-klorpropen | 1 | 3 | H |  |
+   | 2921-88-2 | Klorpyrifos |  | 0,2 | H |  |
+   | 2039-87-4 | o-klorstyren | 25 | 140 |  |  |
+   | 100-44-7 | α-klortoluen | 1 | 5 | KT |  |
+   | 95-49-8 | o-klortoluen | 25 | 125 | H |  |
+   | 7790-91-2 | Klortrifluorid | 0,1 | 0,4 |  |  |
+   | 7440-50-8 | Kobber |  |  |  |  |
+   |  | Røyk |  | 0,1 |  |  |
+   |  | Støv |  | 1 |  |  |
+   |  | Kobolt (røyk) og uorg. koboltforb. (beregnet som Co, unntatt Co(II) |  | 0,02 | AR | 2000 |
+   |  | Kobolt, Co(II)-forb. (røyk) og uorg. (beregnet som Co) |  | 0,02 | AKR | 2000 |
+   |  | Kobolthydrokarbonyl (beregnet som Co) |  | 0,1 |  |  |
+   |  | Koboltkabonyl (beregnet som Co) |  | 0,1 |  |  |
+   | 1319-77-3 | Kresoler (alle isomere) | 5 | 22 | HE |  |
+   | 14464-46-1 | Kristobalitt |  |  |  |  |
+   |  | Totalstøv |  | 0,15 | K7 |  |
+   |  | Respirabelt støv |  | 0,05 | KG7,21 | 2021 |
+   |  | Krom og Cr2+ – og Crm3+ – forb. (beregnet som Cr) |  | 0,5 | E |  |
+   |  | Kromsyre og Kromater (beregnet som Cr(VI)), se seksverdige kromforbindelser (beregnet som Cr(VI)) |  |  |  |  |
+   |  | Krotonaldehyd se (E)-2-butenal |  |  |  |  |
+   |  | (E)-krotonaldehyd se (E)-2-butenal |  |  |  |  |
+   |  | Kullstøv |  |  |  |  |
+   |  | Totalstøv |  | 4 |  |  |
+   |  | Respirabelt støv |  | 1,5 |  |  |
+   |  | Kumen se 1-metyletylbenzen |  |  |  |  |
+   | 14808-60-7 | Krystallinsk silika (SiO2), α-kvarts |  |  |  |  |
+   |  | Totalstøv |  | 0,3 | K7 |  |
+   |  | Respirabelt støv |  | 0,05 | KG7,21 | 2021 |
+   |  | Kvikksølv og kvikksølvforb. (unntatt alkylforbindelser) (beregnet som Hg) |  | 0,02 | AE | 2007 |
+   |  | Biologisk grenseverdi for urin | 30 μg Hg/g kreatinin |  | 8 |  |
+   |  | Kvikksølv, alkylforb. (beregnet som Hg) |  | 0,01 | AH |  |
+   |  | Limonen se d-limonen, i-limonen og dipenten |  |  |  |  |
+   | 5989-27-5 | d-limonen | 25 | 140 | A |  |
+   | 5989-54-8 | i-limonen | 25 | 140 |  |  |
+   | 58-89-9 | Lindan |  | 0,5 | H |  |
+   | 7580-67-8 | Litiumhydrid Inhalerbar |  | 0,02 | SE | 2018 |
+   |  | Loddetråd med harpiksholdig kjerne (beregnet som formaldehyd) |  | 0,1 |  |  |
+   |  | Lystgass se dinitrogenoksid |  |  |  |  |
+   | 1309-48-4 | Magnesiumoksid |  | 10 | 1 |  |
+   | 121-75-5 | Malation |  | 5 | H |  |
+   | 108-31-6 | Maleinsyreanhydrid | 0,2 | 0,8 | A |  |
+   | 7439-96-5 | Mangan og uorganiske manganforb. (beregnet som Mn) |  |  |  | 2018 |
+   |  | Inhalerbar fraksjon |  | 0,2 | E9 |  |
+   |  | Respirabel fraksjon |  | 0,05 | E9 |  |
+   | 12079-65-1 | Mangansyklopentadienyltrikarbonyl (beregnet som Mn) |  | 0,1 | H |  |
+   | 64-18-6 | Maursyre | 5 | 9 | E |  |
+   |  | MDI se difenylmetan-4,4'-diisocyanat |  |  |  |  |
+   |  | Melstøv, inhalerbar |  | 3 | A10 | 2000 |
+   |  | Merkaptoeddiksyre se tioglykolsyre |  |  |  |  |
+   | 108-67-8 | Mesitylen (trimetylbenzener) | 20 | 100 | E |  |
+   |  | Mesityloksid se 4-metyl-3-penten-2-on |  |  |  |  |
+   | 79-41-4 | Metakrylsyre | 20 | 70 |  |  |
+   |  | Metakrylsyremetylester se metylmetakrylat |  |  |  |  |
+   | 67-56-1 | Metanol | 100 | 130 | HE |  |
+   | 74-93-1 | Metantiol | 0,5 | 1 |  |  |
+   | 90-04-0 | 2-metoksyanilin | 0,1 | 0,5 | HK |  |
+   | 104-94-9 | 4-metoksyanilin | 0,1 | 0,5 | H |  |
+   | 109-86-4 | 2-metoksyetanol | 1 | 3,1 | HRE | 2011 |
+   | 111-77-3 | 2-(2-metoksyetoksy) etanol | 10 | 50 | HRE | 2007 |
+   | 110-49-6 | 2-metoksyetylacetat | 1 | 4,9 | HRE | 2011 |
+   | 150-76-5 | 4-metoksyfenol |  | 5 |  |  |
+   | 72-43-5 | Metosyklor |  | 5 |  |  |
+   | 34590-94-8 | (2-metoksymetyletoksy)-propanol | 50 | 300 | HE |  |
+   | 107-98-2 | 1-metoksy-2-propanol | 50 | 180 | HE |  |
+   | 108-65-6 | 1-metoksy-2-propylacetat | 50 | 270 | HE |  |
+   | 1589-47-5 | 2-metyloksy-1-propanol | 20 | 75 | HR |  |
+   | 70657-70-4 | 2-metoksy-1-propylacetat | 20 | 110 | HR |  |
+   | 16752-77-5 | Metomyl |  | 2,5 | H |  |
+   | 79-20-9 | Metylacetat | 100 | 305 |  |  |
+   |  | Metylacetylen se propyn |  |  |  |  |
+   |  | Metylacetylen-propadien-blanding | 500 | 900 |  |  |
+   | 96-33-3 | Metylakrylat | 5 | 18 | HAE | 2011 |
+   |  |  | 10 | 36 | S |  |
+   | 126-98-7 | Metylakrylnitril | 1 | 3 | HA |  |
+   | 74-89-5 | Metylamin | 10 | 12 |  |  |
+   |  | Metylamylalkohol se 4-metyl-2-pentanol |  |  |  |  |
+   |  | Metylamylketon se 2-heptanon |  |  |  |  |
+   | 100-61-8 | N-metylanilin | 0,5 | 2 | H |  |
+   | 75-55-8 | 2-metylaziridin | 2 | 5 | HK |  |
+   |  | Metylbromid se brommetan |  |  |  |  |
+   |  | 3-metylbutanon se 3-metyl-2-butanon |  |  |  |  |
+   | 563-80-4 | 3-metyl-2-butanon | 100 | 350 | H |  |
+   | 123-51-3 | 3-metyl-1-butanol | 5 | 18 | HE | 2021 |
+   |  |  | 10 | 37 | S |  |
+   | 626-38-0 | 1-metylbutylacetat | 50 | 260 | E |  |
+   |  | 3-metylbutylacetat se isopentylacetat |  |  |  |  |
+   | 98-51-1 | 1-metyl-4-tert-butylbenzen | 10 | 60 |  |  |
+   |  | Metylbutylketon se Heksan-2-on |  |  |  |  |
+   | 137-05-3 | Metyl-2-cyanoakrylat | 2 | 8 | A |  |
+   | 101-14-4 | 4,4'-metylenbis(2-kloranilin) (MOCA) |  | 0,01 | KHG | 2021 |
+   |  | Metylen-bis-(4-syklo heksylisocyanat) se disykloheksylmetan-4,4'-diisocyanat |  |  |  |  |
+   |  | Metylen-bis-fenyldiisocyanat se difenylmetan-4,4'-diisocyanat |  |  |  |  |
+   | 101-77-9 | 4,4'-metylendianilin | 0,01 | 0,08 | HAKG | 2021 |
+   |  | Metylenklorid se diklormetan |  |  |  |  |
+   | 98-82-8 | 1-metyletylbenzen | 10 | 50 | HKE | 2021 |
+   |  |  | 50 | 250 | S |  |
+   |  | Metyletylketon se butanon |  |  |  |  |
+   |  | Metyletylketonperoksid se 2-butanonperoksid |  |  |  |  |
+   |  | Metylfenol se kresoler |  |  |  |  |
+   |  | Metylformat se metylmetanat |  |  |  |  |
+   |  | Metylglykol se 2-metaoksyetanol |  |  |  |  |
+   |  | Metylglykolacetat se 2-metoksyetylacetat |  |  |  |  |
+   | 110-12-3 | 5-metyl-2-heksanon | 20 | 95 | E | 2014 |
+   |  |  | 50 | 250 | S |  |
+   | 541-85-5 | 5-metyl-3-heptanon | 10 | 53 | E | 2014 |
+   |  |  | 20 | 107 | S |  |
+   | 60-34-4 | Metylhydrazin | 0,01 | 0,02 | HK |  |
+   |  | Metylisobutylkarbinol se 4-metyl-2-pentanol |  |  |  |  |
+   |  | Metylisobutylketon se 4-metylpentan-2-on |  |  |  |  |
+   | 624-83-9 | Metylisocyanat | 0,02 | 0,05 | S (5 min.) AE11 | 2011 |
+   |  | Metylisopropylketon se 3-metyl-2-butanon |  |  |  |  |
+   |  | Metyljodid se jodmetan |  |  |  |  |
+   |  | Metylklorid se klormetan |  |  |  |  |
+   |  | Metylkloroform se 1,1,1-trikloretan |  |  |  |  |
+   |  | Metylmerkaptan se metantiol |  |  |  |  |
+   | 80-62-6 | Metylmetakrylat | 25 | 100 | AE | 2011 |
+   |  |  | 100 | 400 | S |  |
+   | 107-31-3 | Metylmetanat | 50 | 125 | HE | 2018 |
+   |  |  | 100 | 250 | S |  |
+   | 107-41-5 | 2-metyl-2,4-pentandiol | 20 | 100 | T |  |
+   | 872-50-4 | N-metyl-2-pyrrolidon | 5 | 20 | HRE | 2011 |
+   |  |  | 20 | 80 | S |  |
+   | 108-11-2 | 4-metyl-2-pentanol | 20 | 80 | H |  |
+   | 108-10-1 | 4-metylpentan-2-on | 20 | 83 | HE | 2012 |
+   |  |  | 50 | 208 | S |  |
+   | 141-79-7 | 4-metyl-3-penten-2-on | 10 | 40 |  |  |
+   |  | 4-metylpentyl-2-acetat se 1,3-dimetylbutyl acetat |  |  |  |  |
+   | 78-83-1 | 2-metylpropan-1-ol | 25 | 75 | HT | 2007 |
+   | 75-65-0 | 2-metyl-2-propanol | 25 | 75 | HT | 2007 |
+   |  | Metylpropylketon se 2-pentanon |  |  |  |  |
+   | 681-84-5 | Metylsilikat | 1 | 6 |  |  |
+   |  | α-metylstyren se 2-fenylpropen |  |  |  |  |
+   | 108-87-2 | Metylsykloheksan | 200 | 800 |  |  |
+   |  | Metylsykloheksanol (alle isomere) | 25 | 120 |  |  |
+   | 583-60-8 | 2-metylsykloheksanon | 25 | 115 | H |  |
+   | 12108-13-3 | Metylsyklopentadienylmangantrikarbonyl (beregnet som Mn) | 0,1 | 0,2 | H |  |
+   | 479-45-8 | N-Metyl-2,4,6-N-tetranitroanilin |  | 1,5 | HA |  |
+   | 7786-34-7 | Mevinfos | 0,01 | 0,1 | H |  |
+   |  | MMMF (Man Made Mineral Fibers) se ildfaste keramiske fibrer, tynne glassfibrer til spesialformål, mineralull og AES-ull |  |  |  |  |
+   |  | Mineraloljer brukt som motorolje |  |  | HKG24 | 2021 |
+   |  | Mineralull | 1 fiber/cm3 |  | 12 | 2007 |
+   |  | Molybdenforbindelser, løselige (beregnet som Mo) |  | 5 |  |  |
+   |  | Molybdenforbindelser, uløselige (beregnet som Mo) |  | 10 |  |  |
+   |  | Monofluordiklormetan se fluordiklormetan |  |  |  |  |
+   | 110-91-8 | Morfolin | 10 | 36 | HE | 2007 |
+   | 91-20-3 | Naftalen | 10 | 50 | E |  |
+   | 3173-72-6 | Naftalen-1,5-diisocyanat | 0,005 | 0,04 | A4 |  |
+   | 86-88-4 | 1-naftyltiourea |  | 0,3 |  |  |
+   | 26628-22-8 | Natriumazid |  | 0,1 | E | 2014 |
+   |  |  |  | 0,3 | S |  |
+   |  | Natriumbisulfitt se natriumhydrogensulfitt |  |  |  |  |
+   | 143-33-9 | Natriumcyanid | 0,9 | 1 | HE | 2018 |
+   |  |  | 4 | 5 | S |  |
+   | 62-74-8 | Natriumfluoracetat |  | 0,05 | H |  |
+   | 7631-90-5 | Natriumhydrogensulfitt |  | 5 |  |  |
+   | 1310-73-2 | Natriumhydroksid |  | 2 | T |  |
+   | 7681-57-4 | Natriummetabisulfitt (natriumpyrosulfitt) |  | 5 |  |  |
+   |  | Natriumtetraborater: |  |  |  |  |
+   | 1330-43-4 | Vannfritt |  | 1 |  |  |
+   | 1303-96-4 | Dekahydrater |  | 5 |  |  |
+   | 12447-40-4 | Pentahydrater |  | 1 |  |  |
+   | 463-82-1 | Neopentan | 250 | 750 | E | 2007 |
+   |  | Nikkel og nikkelforbindelser (beregnet som Ni) |  | 0,05 | AKR | 2000 |
+   |  | Nikkelkarbonyl se nikkeltetrakarbonyl |  |  |  |  |
+   | 13463-39-3 | Nikkeltetrakarbonyl | 0,001 | 0,007 | HKR |  |
+   | 54-11-5 | Nikotin |  | 0,5 | HE |  |
+   | 100-01-6 | p-nitroanilin |  | 3 | H |  |
+   | 98-95-3 | Nitrobenzen | 0,2 | 1 | HKRE | 2007 |
+   | 79-24-3 | Nitroetan | 20 | 62 | HE | 2018 |
+   |  |  | 100 | 312 | S |  |
+   | 10102-44-0 | Nitrogendioksid | 0,5 | 0,96 | E13 | 2018 |
+   |  |  | 1 | 1,91 | S |  |
+   | 10102-43-9 | Nitrogenmonoksid | 2 | 2,5 | E14 | 2018 |
+   |  | Nitrogenoksid se nitrogenmonoksid |  |  |  |  |
+   | 7783-54-2 | Nitrogentrifluorid | 10 | 29 |  |  |
+   |  | Nitroglycerol se glyceroltrinitrat |  |  |  |  |
+   |  | Nitroglykol se 1,2-etandioldinitrat |  |  |  |  |
+   |  | p-nitroklorbenzen se 1-klor-4-nitrobenzen |  |  |  |  |
+   | 75-52-5 | Nitrometan | 50 | 125 |  |  |
+   | 108-03-2 | 1-nitropropan | 20 | 70 |  |  |
+   | 79-46-9 | 2-nitropropan | 5 | 18 | KG | 2020 |
+   |  | Nitrotoluen (alle isomere) | 1 | 5,5 | H |  |
+   | 111-84-2 | Nonan | 100 | 525 |  |  |
+   | 144-62-7 | Oksalsyre |  | 1 | E |  |
+   |  | 2-okso-heksametylenimin se kaprolaktam |  |  |  |  |
+   | 2238-07-5 | 2,2'-[oksibis(metylen)] bisoksiran | 0,1 | 0,5 | AT |  |
+   | 7783-41-7 | Oksygendifluorid | 0,05 | 0,1 |  |  |
+   | 2234-13-1 | Oktaklornaftalen |  | 0,1 | H |  |
+   | 111-65-9 | Oktan | 150 | 725 |  |  |
+   |  | 2-oktanol se isooktan-1-ol |  |  |  |  |
+   |  | Oljedamp |  | 50 |  |  |
+   |  | Oljetåke (mineraloljepartikler) |  | 1 |  |  |
+   |  | Organisk støv, totalstøv |  | 5 |  |  |
+   | 20816-12-0 | Osmiumtetraoksid | 0,0002 | 0,002 |  |  |
+   | 10028-15-6 | Ozon | 0,1 | 0,2 |  |  |
+   |  | PAH (polyaromatiske hydrokarboner) |  | 0,04 | HKG15,16 | 2021 |
+   | 8002-74-2 | Parafin (røyk) |  | 2 |  |  |
+   | 4685-14-7 | Parakvat |  | 0,1 | H |  |
+   | 56-38-2 | Paration |  | 0,05 | H |  |
+   | 298-00-0 | Paration-metyl |  | 0,2 | H |  |
+   | 1336-36-3 | PCB (polyklorerte bifenyler) |  | 0,01 | HK |  |
+   | 19624-22-7 | Pentaboran | 0,005 | 0,01 |  |  |
+   | 76-01-7 | Pentakloretan | 5 | 40 | H |  |
+   | 87-86-5 | Pentaklorfenol | 0,05 | 0,5 | HK |  |
+   | 1321-64-8 | Pentaklornaftalen |  | 0,5 | H |  |
+   | 109-66-0 | Pentan | 250 | 750 | E |  |
+   | 96-22-0 | pentan-3-on | 100 | 350 |  |  |
+   |  | Pentanol (alle isomere) | 50 | 180 |  |  |
+   | 107-87-9 | 2-pentanon | 75 | 260 |  |  |
+   |  | 3-pentanon se pentan-3-on |  |  |  |  |
+   | 620-11-1 | 3-pentylacetat | 50 | 260 | E |  |
+   | 628-63-7 | Pentylacetat | 50 | 260 | E |  |
+   |  | Pentylacetat (alle isomere) | 50 | 260 |  |  |
+   | 121-82-4 | Perhydro-1,3,5-trinitro-1,3,5-triazin |  | 1,5 | H |  |
+   |  | Perkloretylen se tetreakloreten |  |  |  |  |
+   |  | Perklormetylenmerkaptan se triklormetansulfenylklorid |  |  |  |  |
+   | 7616-94-6 | Perklorylfluorid | 3 | 14 |  |  |
+   |  | Perlitt |  |  |  |  |
+   |  | Totalstøv |  | 10 |  |  |
+   |  | Respirabelt støv |  | 4 |  |  |
+   |  | Persulfater |  | 2 | A |  |
+   | 88-89-1 | Pikrinsyre |  | 0,1 | HE |  |
+   | 83-26-1 | Pindon |  | 0,1 |  |  |
+   | 80-56-8 | α-pinen | 25 | 140 | H |  |
+   | 127-91-3 | β-pinen | 25 | 140 |  |  |
+   | 110-85-0 | Piperazin |  | 0,1 | AE | 2014 |
+   |  |  |  | 0,3 | S |  |
+   |  | Pival se pindon |  |  |  |  |
+   |  | 2-pivalyl-1,3-indandion se pindon |  |  |  |  |
+   |  | Platinaforbindelser, løselige (beregnet som Pt) |  | 0,002 |  |  |
+   | 7440-06-4 | Platina, metallisk | Ingen verdi vedtatt | E | 2012 |  |
+   |  | Plictran se cyheksatin |  |  |  |  |
+   |  | Polyester/glassfiber, totalstøv |  | 5 |  |  |
+   | 74-98-6 | Propan | 500 | 900 |  |  |
+   | 57-55-6 | Propan-1,2-diol | 25 | 79 |  | 2007 |
+   | 6423-43-4 | Propan-1,2-diyl dinitrat | 0,05 | 0,3 | H |  |
+   |  | 1,2-propandioldinitrat se propan-1,2-diyl dinitrat |  |  |  |  |
+   | 71-23-8 | 1-propanol | 100 | 245 | H |  |
+   | 67-63-0 | 2-propanol | 100 | 245 |  |  |
+   |  | Propargylalkohol se 2-propyn-1-ol |  |  |  |  |
+   |  | Propenal se akrylaldehyd |  |  |  |  |
+   | 107-18-6 | 2-propen-1-ol | 2 | 5 | HE |  |
+   | 79-09-4 | Propionsyre | 10 | 30 | E |  |
+   | 57-57-8 | β-propiolakton | 0,5 | 1,5 | K |  |
+   | 114-26-1 | Propoxur |  | 0,5 |  |  |
+   |  | 2-propylacetat se isopropylacetat |  |  |  |  |
+   | 109-60-4 | n-propylacetat | 100 | 420 |  |  |
+   | 75-31-0 | 2-propylamin | 5 | 12 |  |  |
+   |  | 1,2-propylenglykoldinitrat se propan-1,2-diyl dinitrat |  |  |  |  |
+   |  | Propylenglykolmonometyleter se 1-metoksy-2-propanol |  |  |  |  |
+   |  | 2-propylglycidyleter se 2,3-epoksypropyl isopropyleter |  |  |  |  |
+   |  | Propylenimin se 2-metylaziridin |  |  |  |  |
+   | 75-56-9 | 1,2-propylenoksid | 1 | 2 | AHKG | 2020 |
+   |  | iso-propylglycidyleter se 2,3-epoksypropyl isopropyleter |  |  |  |  |
+   | 627-13-4 | Propylnitrat | 20 | 90 |  |  |
+   | 74-99-7 | Propyn | 500 | 825 |  |  |
+   | 107-19-7 | 2-propyn-1-ol | 1 | 2,5 | H |  |
+   | 8003-34-7 | Pyretrin |  | 1 | E | 2007 |
+   | 110-86-1 | Pyridin | 5 | 15 | E |  |
+   |  | Pyrokatekol se 1,2-dihydroksybenzen |  |  |  |  |
+   |  | Resorcinol se 1,3-benzendiol |  |  |  |  |
+   |  | Respirabelt støv i silisiumkarbidindustri, i ovnshus og ovnshusrelaterte avdelinger i silisiumkarbidindustri |  | 0,5 |  |  |
+   | 7440-16-6 | Rhodium |  | 0,1 |  |  |
+   |  | Rhodiumforb., løselige (beregnet som Rh) |  | 0,001 |  |  |
+   | 299-84-3 | Ronnel |  | 5 |  |  |
+   | 83-79-4 | Rotenon |  | 5 |  |  |
+   | 7697-37-2 | Salpetersyre | 2 | 5 | E | 2007 |
+   |  | Saltsyre se hydrogenklorid |  |  |  |  |
+   |  | Seksverdige kromforbindelser (beregnet som Cr(VI)) For blykromat, se egen oppføring. |  | 0,001 | AKG | 2021 |
+   |  | Selen og uorganiske selenforbindelser (unntatt selensulfid, hydrogenselenid og selenheksafluorid) (beregnet som Se) |  | 0,05 | A | 2000 |
+   | 7783-79-1 | Selenheksafluorid | 0,05 | 0,4 |  |  |
+   | 7446-34-6 | Selensulfid |  | 0,05 | AK | 2000 |
+   | 28523-86-6 | Sevofluran | 5 | 35 |  | 2010 |
+   | 7803-62-5 | Silan | 0,5 | 0,7 |  |  |
+   | 7440-21-3 | Silisium |  | 10 | 1 |  |
+   |  | Silisiumkarbid fiber | 0,1 fiber/cm3 | K |  |  |
+   |  | Silisiumkarbid se respirabelt støv i silisium karbidindustri |  |  |  |  |
+   |  | Silisiumtetrahydrid se silan |  |  |  |  |
+   | 7646-85-7 | Sinkklorid |  | 1 |  |  |
+   | 1314-13-2 | Sinkoksid |  | 5 |  |  |
+   |  | Sjenerende støv |  |  |  |  |
+   |  | Totalstøv |  | 10 |  |  |
+   |  | Respirabelt støv |  | 5 |  |  |
+   |  | Stibin se antimonhydrid |  |  |  |  |
+   | 57-24-9 | Stryknin |  | 0,15 | T |  |
+   | 100-42-5 | Styren | 25 | 105 | M |  |
+   | 1395-21-7 | Subtilisiner (vaskemiddelenzymer) |  | 0,00006 | T |  |
+   | 3689-24-5 | Sulfotep |  | 0,1 | HE | 2014 |
+   | 2699-79-8 | Sulfurylfluorid | 5 | 20 |  |  |
+   |  | Sveiserøyk (uspesifisert) |  | 5 | 17 |  |
+   | 7446-09-5 | Svoveldioksid | 0,5 | 1,3 | E18 | 2018 |
+   |  |  | 1,0 | 2,7 | S |  |
+   | 2551-62-4 | Svovelheksafluorid | 1000 | 6000 |  |  |
+   |  | Svovelmonoklorid se disvoveldiklorid |  |  |  |  |
+   | 5714-22-7 | Svovelpentafluorid | 0,01 | 0,1 | T |  |
+   | 7664-93-9 | Svovelsyreaerosol, torakal fraksjon |  | 0,1 | KE | 2011 |
+   | 7783-60-0 | Svoveltetrafluorid | 0,1 | 0,4 |  |  |
+   | 110-82-7 | Sykloheksan | 150 | 525 | E |  |
+   | 108-93-0 | Sykloheksanol | 25 | 100 |  |  |
+   | 108-94-1 | Sykloheksanon | 10 | 40 | HE | 2014 |
+   |  |  | 20 | 80 | S |  |
+   | 110-83-8 | Sykloheksen | 150 | 510 |  |  |
+   | 108-91-8 | Sykloheksylamin | 10 | 40 | H |  |
+   |  | Syklonitt se perhydro-1,3,5-trinitro-1,3,5-triazin |  |  |  |  |
+   | 542-92-7 | 1,3-syklopentadien | 40 | 110 |  |  |
+   |  | Syntetiske mineralfibre se MMMF |  |  |  |  |
+   | 7440-22-4 | Sølv, metallstøv og røyk |  | 0,1 | E |  |
+   |  | Sølv, løselige forb. (beregnet som Ag) |  | 0,01 | E |  |
+   |  | 2,4,5-T se 2,4,5-triklorfenoksyeddiksyre |  |  |  |  |
+   |  | Talkum uten fiber |  |  |  |  |
+   |  | Totalstøv |  | 6 |  |  |
+   |  | Respirabelt støv |  | 2 |  |  |
+   |  | TDI se 2,4- og 2,6-toluendiisocyanat |  |  |  |  |
+   | 13494-80-9 | Tellur |  | 0,1 |  |  |
+   | 7783-80-4 | Tellurheksafluorid | 0,02 | 0,2 |  |  |
+   |  | TEPP se tetraetylpyrofosfat |  |  |  |  |
+   |  | Terfenyler | 0,5 | 4,5 | T |  |
+   | 8006-64-2 | Terpentin (vegetabilsk) | 25 | 140 | HA |  |
+   | 79-27-6 | 1,1,2,2-tetrabrometan | 1 | 14 |  |  |
+   |  | Tetrabrommetan se karbontetrabromid |  |  |  |  |
+   | 78-00-2 | Tetraetylbly | 0,01 | 0,075 | HR |  |
+   | 107-49-3 | Tetraetylpyrofosfat | 0,004 | 0,05 | H |  |
+   | 76-14-2 | 1,1,2,2-tetrafluor-1,2-dikloretan | 500 | 3500 |  |  |
+   | 109-99-9 | Tetrahydrofuran | 50 | 150 | HE |  |
+   | 79-34-5 | 1,1,2,2-tetrakloretan | 1 | 7 | H |  |
+   | 127-18-4 | Tetrakloreten | 6 | 40 | HKRE | 2018 |
+   |  |  | 18 | 120 | S |  |
+   |  | Tetrakloretylen se tetrakloreten |  |  |  |  |
+   | 56-23-5 | Tetraklormetan | 1 | 6,3 | HKE | 2018 |
+   |  |  | 3 | 19 | S |  |
+   | 1335-88-2 | Tetraklornaftalen |  | 2 | H |  |
+   | 75-74-1 | Tetrametylbly | 0,01 | 0,075 | HR |  |
+   | 3333-52-6 | Tetrametylsuccinonitril | 0,5 | 3 | H |  |
+   | 7722-88-5 | Tetranatriumpyrofosfat |  | 5 |  |  |
+   | 509-14-8 | Tetranitrometan | 0,005 | 0,04 | K |  |
+   |  | Tetryl se N-metyl-2,4,6-N-tetranitroanilin |  |  |  |  |
+   |  | Thallium og løselige thalliumforb. (beregnet som Tl) |  | 0,1 | H |  |
+   | 7719-09-7 | Thionylklorid | 1 | 5 | T |  |
+   |  | Tinnforbindelser, organiske (beregnet som Sn) |  | 0,1 | H |  |
+   |  | Tinnforbindelser, uorganiske (beregnet som Sn) |  | 2 | E |  |
+   | 68-11-1 | Tioglykolsyre | 1 | 5 |  |  |
+   | 137-26-8 | Tiram |  | 5 | AM |  |
+   | 13463-67-7 | Titandioksid |  | 5 |  |  |
+   |  | TNT se 2,4,6-trinitrotoluen |  |  |  |  |
+   |  | Toksafen se kamfeklor |  |  |  |  |
+   | 108-88-3 | Toluen | 25 | 94 | HE |  |
+   | 584-84-9 | 2,4-toluendiisocyanat | 0,005 | 0,035 | AK4 |  |
+   | 91-08-7 | 2,6-toluendiisocyanat | 0,005 | 0,035 | AK4 |  |
+   | 95-53-4 | o-toluidin | 0,1 | 0,5 | HKG | 2020 |
+   |  | Trestøv fra harde eksotiske tresorter, eik og bøk |  | 1 | KG19 | 2020 |
+   |  | Trestøv fra nordiske tresorter unntatt eik og bøk, totalstøv |  | 2 | K |  |
+   | 75-25-2 | Tribrommetan | 0,5 | 5 | HK |  |
+   | 126-73-8 | Tributylfosfat | 0,2 | 2,5 |  |  |
+   |  | Tri(cykloheksyl)tinnhydroksid se cyheksatin |  |  |  |  |
+   | 15468-32-3 | Tridymitt |  |  |  |  |
+   |  | Totalstøv |  | 0,15 | K7 |  |
+   |  | Respirabelt støv |  | 0,05 | KG7,21 | 2021 |
+   | 102-71-6 | Trietanolamin |  | 5 |  |  |
+   | 121-44-8 | Trietylamin | 2 | 8 | HE |  |
+   | 112-24-3 | Trietylentetramin | 1 | 6 | A | 2007 |
+   | 603-34-9 | Trifenylamin |  | 5 |  |  |
+   | 115-86-6 | Trifenylfosfat |  | 3 |  |  |
+   |  | Trifluormonobrommetan se bromtrifluormetan |  |  |  |  |
+   | 76-13-1 | 1,2,2-trifluor-1,1,2-trikloretan | 500 | 3800 |  |  |
+   | 75-47-8 | Trijodmetan | 0,2 | 3 |  |  |
+   | 120-82-1 | 1,2,4-triklorbenzen | 2 | 15 | HE | 2014 |
+   | 76-03-9 | Trikloreddiksyre | 0,75 | 5 |  |  |
+   | 71-55-6 | 1,1,1-trikloretan | 50 | 270 | E |  |
+   | 79-00-5 | 1,1,2-trikloretan | 10 | 54 | H |  |
+   | 79-01-6 | Trikloreten | 6 | 33 | HKG | 2021 |
+   |  |  | 30 | 164 | S |  |
+   |  | Trikloretylen se trikloreten |  |  |  |  |
+   |  | Triklorfluormetan se fluortriklormetan |  |  |  |  |
+   | 93-76-5 | 2,4,5-triklorfenoksyeddiksyre |  | 5 | H |  |
+   | 67-66-3 | Triklormetan | 2 | 10 | HKRE |  |
+   | 594-42-3 | Triklormetansulfenylklorid | 0,1 | 0,8 |  |  |
+   | 1321-65-9 | Triklornaftalen |  | 5 | H |  |
+   | 76-06-2 | Triklornitrometan | 0,1 | 0,7 |  |  |
+   | 96-18-4 | 1,2,3-triklorpropan | 10 | 60 | H |  |
+   |  | Trimellitsyreanhydrid se benzen-1,2,4-trikarboksylsyre-1,2-anhydrid |  |  |  |  |
+   | 75-50-3 | Trimetylamin | 2 | 4,9 | E | 2021 |
+   |  |  | 5 | 12 | S |  |
+   | 526-73-8 | 1,2,3-trimetylbenzen | 20 | 100 | E |  |
+   | 95-63-6 | 1,2,4-trimetylbenzen | 20 | 100 | E |  |
+   |  | Trimetylbenzen (alle isomere) se mesitylen |  |  |  |  |
+   | 121-45-9 | Trimetylfosfitt | 0,5 | 2,6 |  |  |
+   | 118-96-7 | 2,4,6-trinitrotoluen |  | 0,1 | H |  |
+   | 78-30-8 | Triortokresylfosfat |  | 0,1 |  |  |
+   |  | Trisykloheksylhydroksytinn se cyheksatin |  |  |  |  |
+   |  | Tynne glassfibrer til spesialformål | 0,1 fiber/cm3 | K | 20 | 2007 |
+   |  | Uorganiske fluorider (beregnet som F) |  | 0,5 | E | 2010 |
+   |  | Uran og uranforb. (beregnet som U) |  | 0,2 |  |  |
+   | 110-62-3 | Valeraldehyd | 25 | 90 |  |  |
+   | 7440-62-2 | Vanadium |  |  |  |  |
+   |  | Røyk (beregnet som V) |  | 0,05 | T |  |
+   |  | Støv (beregnet som V) |  | 0,2 |  |  |
+   | 108-05-4 | Vinylacetat | 5 | 17,6 | KE | 2011 |
+   |  |  | 10 | 35,2 | S |  |
+   |  | Vinylbenzen se styren |  |  |  |  |
+   | 593-60-2 | Vinylbromid | 1 | 4 | KG | 2020 |
+   |  | Vinylidenklorid se 1,1-dikloreten |  |  |  |  |
+   | 75-01-4 | Vinylklorid, monomer | 1 | 2,6 | KG | 2020 |
+   | 106-87-6 | Vinylsykloheksendioksid | 10 | 60 |  |  |
+   |  | Vinyltoluen (alle isomere) | 50 | 240 |  |  |
+   | 1304-82-1 | Vismuttellurid |  | 10 | 1 |  |
+   |  | Vismuttellurid (tilsatt selen) |  | 5 |  |  |
+   | 81-81-2 | Warfarin |  | 0,1 |  |  |
+   |  | White Spirit (aromatinnhold ≤ 22 %) | 50 | 275 |  |  |
+   |  | White Spirit (aromatinnhold > 22 %) | 25 | 120 |  |  |
+   |  | Wolfram og uløselige wolframforb. (beregnet som W) |  | 5 |  |  |
+   |  | Wolframforb. løselige (beregnet som W) |  | 1 |  |  |
+   | 1330-20-7 | Xylen (alle isomere) | 25 | 108 | HE |  |
+   | 108-38-3 | m-xylen | 25 | 108 | HE |  |
+   | 106-42-3 | p-xylen | 25 | 108 | HE |  |
+   | 95-47-6 | o-xylen | 25 | 108 | HE |  |
+   | 1477-55-0 | m-xylen-α-,α-diamin) |  | 0,1 | T |  |
+   |  | Xylidin (alle isomere) | 1 | 5 | H |  |
+   | 7440-65-5 | Yttrium |  | 1 |  |  |
+   |  | Zirkoniumforb. (beregnet som Zr) |  | 5 |  |  |
 
 Fotnoter
 
@@ -1775,7 +3179,559 @@ For bransjene gruvedrift under jord og tunnel-virksomhet gjelder følgende grens
 
 ## Vedlegg 3: Liste over klassifiserte biologiske faktorer (smitterisikogrupper)
 
-Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer hos mennesker. I tillegg gir listen en oversikt over følgende merknader:A: kan forårsake allergiske reaksjonerD: Registre over de som arbeider om bord og som utsettes for denne biologiske faktoren skal oppbevares i minst 10 år etter siste kjente eksponeringT: Toksindannende, kan forårsake toksiske reaksjonerV: Effektiv vaksine finnes*Bakterier og lignende**Smitterisikogruppe**Merknad*Aggregatibacter actinomycetemcomitans (Actinobacillus actinomycetemcomitans)2Actinomadura madurae2Actinomadura pelletieri2Actinomyces gerencseriae2Actinomyces israelii2Actinomyces pyogenes2Actinomyces spp.12Anaplasma spp.12Arcanobacterium haemolyticum (Corynebacterium haemolyticum)2Arcobacter butzleri2Bacillus anthracis3TBacteroides fragilis2Bacteroides spp.12Bartonella bacilliformis2Bartonella quintana (Rochalimaea quintana)2Bartonella (Rochalimea) spp.12Bordetella bronchiseptica2Bordetella parapertussis2Bordetella pertussis2T, VBordetella spp.12Borrelia burgdorferi2Borrelia duttonii2Borrelia recurrentis2Borrelia spp.12Brachyspira spp.12Brucella abortus3Brucella canis3Brucella inopinata3Brucella melitensis3Brucella suis3Burkholderia cepacia2Burkholderia mallei (Pseudomonas mallei)3Burkholderia pseudomallei (Pseudomonas pseudomallei)3DCampylobacter fetus subsp. fetus2Campylobacter fetus subsp. venerealis2Campylobacter jejuni subsp. doylei2Campylobacter jejuni subsp. jejuni2Campylobacter spp.12Cardiobacterium hominis2Cardiobacterium valvarum2Chlamydia abortus (Chlamydophila abortus)2Chlamydia caviae (Chlamydophila caviae)2Chlamydia felis (Chlamydophila felis)2Chlamydia pneumoniae (Chlamydophila pneumoniae)2Chlamydia psittaci (Chlamydophila psittaci) (aviære stammer)3Chlamydia psittaci (Chlamydophila psittaci) (andre stammer)2Chlamydia trachomatis (Chlamydophila trachomatis)2Clostridium botulinum2TClostridium difficile2TClostridium perfringens2TClostridium tetani2T, VClostridium spp.12Corynebacterium diphtheriae2T, VCorynebacterium minutissimum2Corynebacterium pseudotuberculosis2TCorynebacterium ulcerans2TCorynebacterium spp.12Coxiella burnetii3Edwardsiella tarda2Ehrlichia sennetsu (Rickettsia sennetsu)2Ehrlichia spp.12Eikenella corrodens2Elizabethkingia meningoseptica (Flavobacterium meningosepticum)2Enterobacter aerogenes (Klebsiella mobilis)2Enterobacter cloacae subsp. cloacae (Enterobacter cloacae)2Enterobacter spp.12Enterococcus spp.12Erysipelothrix rhusiopathiae2Escherichia coli22Escherichia coli, verocytotoksiske stammer f.eks. O157:H7 eller O10333TFlavobacterium meningosepticum2Fluoribacter bozemanae (Legionella)2Francisella hispaniensis2Francisella tularensis subsp. holarctica2Francisella tularensis subsp. mediasiatica2Francisella tularensis subsp. novicida2Francisella tularensis subsp. tularensis3Fusobacterium necrophorum subsp. funduliforme2Fusobacterium necrophorum subsp. necrophorum2Gardnerella vaginalis2Haemophilus ducreyi2Haemophilus influenzae2VHaemophilus spp.12Helicobacter pylori2Helicobacter spp.12Klebsiella oxytoca2Klebsiella pneumoniae subsp. ozaenae2Klebsiella pneumoniae subsp. pneumoniae2Klebsiella pneumoniae subsp. rhinoscleromatis2Klebsiella spp.12Legionella pneumophila subsp. fraseri2Legionella pneumophila subsp. pascullei2Legionella pneumophila subsp. pneumophila2Legionella spp.12Leptospira interrogans (alle serotyper)2Leptospira interrogans spp.12Listeria monocytogenes2Listeria ivanovii subsp. ivanovii2Listeria invanovii subsp. londoniensis2Morganella morganii subsp. morganii (Proteus morganii)2Morganella morganii subsp. sibonii2Mycobacterium abscessus subsp. abscessus2Mycobacterium africanum3VMycobacterium avium subsp. avium (Mycobacterium avium)2Mycobacterium avium subsp. paratuberculosis (Mycobacterium paratuberculosis)2Mycobacterium avium subsp. silvaticum2Mycobacterium bovis3VMycobacterium caprae (Mycobacterium tuberculosis subsp. caprae)3Mycobacterium chelonae2Mycobacterium chimaera2Mycobacterium fortuitum2Mycobacterium intracellulare2Mycobacterium kansasii2Mycobacterium leprae3Mycobacterium malmoense2Mycobacterium marinum2Mycobacterium microti33Mycobacterium pinnipedii3Mycobacterium scrofulaceum2Mycobacterium simiae2Mycobacterium szulgai2Mycobacterium tuberculosis3VMycobacterium ulcerans33Mycobacterium xenopi2Mycoplasma hominis2Mycoplasma pneumoniae2Mycoplasma spp.12Neisseria gonorrhoeae2Neisseria meningitidis2VNeorickettsia sennetsu (Rickettsia sennetsu, Ehrlichia sennetsu)2Nocardia asteroides2Nocardia brasiliensis2Nocardia farcinica2Nocardia nova2Nocardia otitidiscaviarum2Nocardia spp.12Orientia tsutsugamushi (Rickettsia tsutsugamushi)3Pasteurella multocida subsp. gallicida (Pasteurella gallicida)2Pasteurella multocida subsp. multocida2Pasteurella multocida subsp. septica2Pasteurella multocida2Pasteurella spp.12Peptostreptococcus anaerobius2Plesiomonas shigelloides2Porphyromonas spp.12Prevotella spp.12Proteus mirabilis2Proteus penneri2Proteus vulgaris2Providencia alcalifaciens (Proteus inconstans)2Providencia rettgeri (Proteus rettgeri)2Providencia spp.12Pseudomonas aeruginosa2TRhodococcus hoagii (Corynebacterium equii)2Rickettsia africae3Rickettsia akari33Rickettsia australis3Rickettsia canadensis2Rickettsia conorii3Rickettsia heilongjiangensis33Rickettsia japonica3Rickettsia montanensis2Rickettsia typhi3Rickettsia prowazekii3Rickettsia rickettsii3Rickettsia sibirica3Rickettsia spp.12Salmonella enterica (choleraesuis) subsp. arizonae2Salmonella enteritidis2Salmonella typhimurium2Salmonella paratyphi A, B, C2VSalmonella typhi33VSalmonella (andre serotyper)2Shigella boydii2Shigella dysenteriae (Type 1)33TShigella dysenteriae (bortsett fra type 1)2Shigella flexneri2Shigella sonnei2Staphylococcus aureus2TStreptobacillus moniliformis2Streptococcus agalactiae2Streptococcus dysgalactiae subsp. equisimilis2Streptococcus pneumoniae2T, VStreptococcus pyogenes2TStreptococcus suis2Streptococcus spp.12Treponema carateum2Treponema pallidum2Treponema pertenue2Treponema spp.12Trueperella pyogenes2Ureaplasma parvum2Ureaplasma urealyticum2Vibrio cholerae (herunder El Tor)2T, VVibrio parahaemoloyticus (Benecka parahaemolytica)2Vibrio spp.12Yersinia enterocolitica subsp. enterolitica2Yersinia enterocolitica subsp. palearctica2Yersinia pestis3Yersinia pseudotuberculosis2Yersinia spp.12*Virus**Smitterisikogruppe**Merknad**Adenoviridae (F)*2*Arenaviridae (F)*Brazilian mammarenavirus4Chapare mammarenavirus4Flexal mammarenavirus3Guanarito mammarenavirus4Junín mammarenavirus4Lassavirus (Lassa mammarenavirus)4Lujo mammarenavirus4Lymfocyttisk choriomeningitt-virus (neurotrope stammer)2Lymfocyttisk choriomeningitt-virus (andre stammer)2Mobala mammarenavirus2Mopeia virus (Mopeia mammarenavirus)2Tacaribe mammarenavirusMachupo virus (Machupo mammarenavirus)4Whitewater Arroyo mammarenavirus3*Astroviridae (F)*2*Caliciviridae (F)*Norwalkvirus (Norovirus)2Andre calicivirus som man vet er sykdomsfremkallende2*Coronaviridae (F)*Middle East respiratory syndrome coronavirus (MERS-virus)3Severe acute respiratory syndrome-related coronavirus (SARS-virus)3Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2)33Andre coronavirus som man vet er sykdomsfremkallende2*Filoviridae (F)*Ebolavirus4Marburgvirus4*Flaviviridae (F)*Australsk encerfalittvirus (Murrey VaIley-encefalitt)3Sentraleuropeisk flåttspredd encefalitt-virus33VFjerne Østen flåttspredd encefalitt-virus3Sibirsk flåttspredd encefalitt-virus3VAbsettarovvirus3Hanzalovavirus3Hyprvirus3Kumlingevirus3Denguevirus3Hepatitt C-virus (Hepacivirus C)33DJapansk encefalitt-virus3VKyasanur Forest-virus3VLouping ill-virus33Negishi virus3Omskvirus (flåttspredd encefalitt)3Powassanvirus3Rociovirus3Russisk vår-/sommerencefalitt-virus (RSSE) (Flåttspredd encefalitt)3VSt. Louis encefalitt-virus3Wesselsbronvirus33Vest-Nilen-feber-virus3Gulfebervirus3VZika virus2Andre flavivirus som man vet er sykdomsfremkallende2*Hantavirus (F)*Andes ortohantavirus (virus som forårsaker pulmonar syndrom [HPS])3Bayou ortohantavirus3Black Creek Canal ortohantavirus3Cano Delgadito ortohantavirus3Choclo ortohantavirus3Dobrava-Belgrade ortohantavirus (virus som forårsaker hemorragisk feber med renalt syndrom [HFRS])3El Moro Canyon orthohantavirus3Hantaan ortohantavirus (virus som forårsaker hemorragisk feber med renalt syndrom [HFRS], Koreansk hemoragisk feber)3Laguna Negra orthohantavirus3Seoul ortohantavirus (virus som forårsaker hemorragisk feber med renalt syndrom [HFRS])3Puumala ortohantavirus (virus som forårsaker nephropathia epidemica (NE))2Prospect Hill ortohantavirus2Sin Nombre ortohantavirus (virus som forårsaker hantavirus pulmonar syndrome [HPS])3Andre hantavirus som man vet er sykdomsfremkallende2*Hepadnaviridae (F)*Hepatitt B-virus33V, D*Hepeviridae (F)*Hepatitt E-virus (Orthohepevirus A)2*Herpesviridae (F)*Human betaherpesvirus 5 (Cytomegalovirus)2Human gammaherpesvirus 4 (Epstein-Barr-virus)2Herpesvirus simiae (Herpes B virus, Macacine alphaherpesvirus 1)3Herpes simplex-virus, type 1 og 2 (Human alfaherpesvirus 1 og 2, Human herpesvirus 1 og 2)2Herpesvirus varicella-zoster (human alfaherpesvirus 3)2VHumant B-lymphotrophic virus (Humant betaherpesvirus 6A)2Humant betaherpesvirus 6B2Humant betaherpesvirus 72Humant gammaherpesvirus 82D*Nairovirus (F)*Kongo-krimfeber ortonairovirus4Dugbe orthonairovirus2Hazara ortonairovirus2Nairobi sheep disease orthonairovirus2Andre nairoviruses som man vet er sykdomsfremkallende2*Orthomyxoviridae (F)*Influensa A virus fra 1918 H1N1 pandemien (e.g A/New York/1/18 (H1N1)3Influensa A virus fra 1957 H2N2 pandemien (e.g. A/Singapore/1/57)3Highly Pathogenic Avian Influensa Virus HPAIV (H5), e.g. H5N13Highly Pathogenic Avian Influensa Virus HPAIV (H7), e.g. H7N7, H7N93Low Pathogenic Avian Influensa Virus (LPAI) H7N93Influensa A virus – ikke nevnt over2V5Influensa B virus2V5Influensa C virus2V5Flåttspredde orthomyxoviridae: Dhori- og Thogotovirus2*Papillomaviridae (F)*2D6*Paramyxoviridae (F)*Hendra henipavirus4Nipah henipavirus4Meslingvirus2VKusmavirus (Mumps rubulavirus)2VNewcastle disease-virus2Para influensavirus type 1 til 4 (humant respirovirus 1 og 3 og B114humant rubulavirus 2 og 4)2*Parvoviridae (F)*Humant parvovirus (B 19)2*Peribunyaviridae (F)*Bunyamwera ortobunyavirus (Germiston virus)2Californiaencephalitt ortobunyavirus2Germiston virus (se Bunyamwera ortobunyavirus)Oropouche ortobunyavirus3Andre ortobunyavirus som man vet er sykdomsfremkallende2*Phenuiviridae (F)*:Bhanja phlebovirus2Punta Toro phlebovirus2Rift Valley-feber phlebovirus3Sandfluefeber Naples phlebovirus (Toscana virus)2Toscanavirus (se Sandfluefeber Naples phlebovirus)2SFTS phlebovirus (Alvorlig feber med trombocytopeni-syndrom-virus)3Andre phlebovirus som man vet er sykdomsfremkallende2*Picornaviridae (F)*Saffold virus2Cosavirus A2Enterovirus A2Enterovirus B2Enterovirus C2Enterovirus D, Human Enterovirus type 70 (akutt hemorragisk konjunktivitt virus)2Hepatitt A-virus (humant enterovirus, type 72, hepatovirus A)2VPoliovirus, type 1 og 32VPoliovirus, type 2113VRhinovirus2Aichivirus A (Aichi virus 1)2Parechoviruses A2Parechoviruses B (Ljungan virus)2Andre picornaviridae som man vet er sykdomsfremkallende2*Pneumoviridae (F)*Respiratorisk syncytialvirus (RS-virus, humant orthopneumovirus)2*Polyomaviridae (F)*BK and JC virus (Humant polymavirus 1 og 2)2D6*Poxviridae (F)*Bøffelkoppevirus72Kukoppevirus2Elefantkoppevirus82Melkeknutevirus2Molluscum contagiosum-virus2Apekoppevirus3VOrfvirus2Kaninkoppevirus92Vacciniavirus2Variola (major og minor)-virus4VYatapox-virus (Tana og Yaba)2*Reoviridae (F)*Banna virus2Coltivirus2Rotavirus2Orbivirus2Retroviridae (F)Humane immunsviktvirus (HIV), type 1 og 233DHumane T-cellelymfotropevirus (HTLV), type 1 og 233DSIV (Simianape-immunsviktvirus)102*Rhabdoviridae (F)*Australian bat lyssavirus33VDuvenhage lyssavirus33VEuropean bat lyssavirus 133VEuropean bat lyssavirus 233VLagos bat lyssavirus33Mokola lyssavirus3Rabiesvirus (Rabies lyssavirus)33VVesikulær stomatitt-virus (Alagoas vesiculovirus, Indiana vesiculovirus, New Jersey vesiculovirus)2Piry vesiculovirus (Piry virus)2*Togaviridae (F)*Alfavirus:Cabassouvirus3Østamerikansk heste-encefalomeyelitt-virus3VBebaruvirus2Chikungunyavirus33Evergladesvirus33Mayarovirus3Mucambovirus33Ndumuvirus33O'nyong-nyongvirus2Ross River-virus2Semliki Forest-virus2Sindbisvirus2Tonatevirus33Venezuelansk heste-encefalomeyelitt-virus3VVestamerikansk heste-encefalomeyelitt-virus3VAndre kjente alfavirus man vet kan være sykdomsfremkallende2Rubellavirus (røde hunder)2V*Uklassifiserte virus*Hepatitt delta virus42V, D*Parasitter**Smitterisikogruppe**Merknad*Acanthamoeba castellani2Ancylostoma duodenale2Angiostrongylus cantonensis2Angiostrongylus costaricensis2Anisakis simplex2AAscaris lumbricoides2AAscaris suum2ABabesia divergens2Babesia microti2Balamuthia mandrillaris3Balantidium coli2Brugia malayi2Brugia pahangi2Brugia timori2Capillaria philippinensis2Capillaria spp.12Clonorchis sinensis (Opisthorchis sinensis)2Clonorchis viverrini (Opisthirchis viverrini)2Cryptosporidium hominis2Cryptosporidium parvum2Cyclospora cayetanensis2Dicrocoelium dentriticum2Dipetalonema streptocerca2Diphyllobothrium latum2Dracunculus medinensis2Echinococcus granulosus33Echinococcus multilocularis33Echinococcus oligarthrus33Echinococcus vogeli33Entamoeba histolytica2Enterobius vermicularis2Enterocytozoon bieneusi2Fasciola gigantica2Faciola hepatica2Fasciolopsis buski2Giardia lamblia (Giardia duodenalis, Giardia intestinalis)2Heterophyes spp.2Hymenolepis diminuta2Hymenolepis nana2Leishmania aethiopica2Leishmania braziliensis33Leishmania donovani33Leishmania guyanensis (Viannia guyanensis)33Leishmania infantum (Leishmania chagasi)33Leishmania major2Leishmania mexicana2Leishmania panamensis (Viannia panamensis)33Leishmania peruviana2Leishmania tropica2Leishmania spp.12Loa loa2Mansonella ozzardi2Mansonella perstans2Mansonella streptocerca2Metagonimus spp.2Naegleria fowleri3Necator americanus2Onchocerca volvulus2Opisthorchis felineus2Opisthorchis spp.12Paragonimus westermani2Paragonimus spp.2Plasmodium falciparum33Plasmodium knowlesi33Plasmodium spp.1 (hos mennesker og hos aper)2Sarcocystis suihominis2Schistosoma haematobioum2Schistosoma intercalatum2Schistosoma japonicum2Schistosoma mansoni2Schistosoma mekongi2Strongyloides stercoralis2Strongyloides spp.12Taenia saginata2Taenia solium33Toxocara canis2Toxocara cati2Toxoplasma gondii2Trichinella nativa2Trichinella nelsoni2Trichinella pseudospiralis2Trichinella spiralis2Trichomonas vaginalis2Trichostrongylus orientalis2Trichostrongylus spp.2Tricuris trichiura2Trypanosoma brucei brucei2Trypanosoma brucei gambiense2*Trypanosoma brucei rhodesiense*33*Trypanosoma cruzi*33*Wuchereria bancrofti*2*Sopp**Smitterisikogruppe**Merknad*Aspergillus flavus2AAspergillus fumigatus2AAspergillus spp.12Blastomyces dermatitidis (Ajellomyces dermatitidis)3Blastomyces gilchristii3Candida albicans2ACandida dubliniensis2Candida glabrata2Candida parapsilosis2Candida tropicalis2Cladophialophora bantiana (Xylohypha bantiana, Cladosporium bantianum eller tridhoides)3Cladophialophora modesta3Cladophialophora spp.12Coccidioides immitis3ACoccidioides posadasii3ACryptococcus gattii (Filobasidiella neoformans var. bacillispora)2ACryptococcus neoformans (Filobasidiella neoformans var. Neoformans)2AEmmonsia parvavum var. parva2Emmonsia parvavum var. crescens2Epidermophyton floccosum2AEpidermophyton spp.12Fonsecaea pedrosoi2Histoplasma capsulatum3Histoplasma capsulatum var. farciminosum3Histoplasma duboisii3Madurella grisea2Madurella mycetomatis2Microsporum spp.12ANannizzia spp.12Neotestudina rosatii2Paracoccidioides brasiliensis3AParacoccidioides lutzii3Paraphyton spp.2Rhinocladiella mackenziei3Scedosporium apiospermum2Scedosporium prolificans (inflatum)2Sporothrix schenckii2Talaromyces marneffei (Penicillium marneffei)2ATrichophyton rubrum2ATrichophyton tonsurans2ATrichophyton spp.12*Prioner (Ukonvensjonelle faktorer knyttet til overførbare spongiforme encefalopatier)**Smitterisikogruppe**Merknad*Creutzfeldt-Jakobs sykdom33D6Variant Creutzfeldt-Jakobs sykdom33D6Bovin spongiform encefalopai (BSE, kugalskap) og andre relaterte spongiforme encefalopatier (TSE-er)33D6Gerstmann-Sträussler-Scheinker syndromet (GSS)33D6Kuru33D6Skrapesyke2
+Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer hos mennesker. I tillegg gir listen en oversikt over følgende merknader:
+
+- A: kan forårsake allergiske reaksjoner
+- D: Registre over de som arbeider om bord og som utsettes for denne biologiske faktoren skal oppbevares i minst 10 år etter siste kjente eksponering
+- T: Toksindannende, kan forårsake toksiske reaksjoner
+- V: Effektiv vaksine finnes
+
+  | *Bakterier og lignende* | *Smitterisikogruppe* | *Merknad* |
+  | --- | --- | --- |
+  | Aggregatibacter actinomycetemcomitans (Actinobacillus actinomycetemcomitans) | 2 |  |
+  | Actinomadura madurae | 2 |  |
+  | Actinomadura pelletieri | 2 |  |
+  | Actinomyces gerencseriae | 2 |  |
+  | Actinomyces israelii | 2 |  |
+  | Actinomyces pyogenes | 2 |  |
+  | Actinomyces spp.1 | 2 |  |
+  | Anaplasma spp.1 | 2 |  |
+  | Arcanobacterium haemolyticum (Corynebacterium haemolyticum) | 2 |  |
+  | Arcobacter butzleri | 2 |  |
+  | Bacillus anthracis | 3 | T |
+  | Bacteroides fragilis | 2 |  |
+  | Bacteroides spp.1 | 2 |  |
+  | Bartonella bacilliformis | 2 |  |
+  | Bartonella quintana (Rochalimaea quintana) | 2 |  |
+  | Bartonella (Rochalimea) spp.1 | 2 |  |
+  | Bordetella bronchiseptica | 2 |  |
+  | Bordetella parapertussis | 2 |  |
+  | Bordetella pertussis | 2 | T, V |
+  | Bordetella spp.1 | 2 |  |
+  | Borrelia burgdorferi | 2 |  |
+  | Borrelia duttonii | 2 |  |
+  | Borrelia recurrentis | 2 |  |
+  | Borrelia spp.1 | 2 |  |
+  | Brachyspira spp.1 | 2 |  |
+  | Brucella abortus | 3 |  |
+  | Brucella canis | 3 |  |
+  | Brucella inopinata | 3 |  |
+  | Brucella melitensis | 3 |  |
+  | Brucella suis | 3 |  |
+  | Burkholderia cepacia | 2 |  |
+  | Burkholderia mallei (Pseudomonas mallei) | 3 |  |
+  | Burkholderia pseudomallei (Pseudomonas pseudomallei) | 3 | D |
+  | Campylobacter fetus subsp. fetus | 2 |  |
+  | Campylobacter fetus subsp. venerealis | 2 |  |
+  | Campylobacter jejuni subsp. doylei | 2 |  |
+  | Campylobacter jejuni subsp. jejuni | 2 |  |
+  | Campylobacter spp.1 | 2 |  |
+  | Cardiobacterium hominis | 2 |  |
+  | Cardiobacterium valvarum | 2 |  |
+  | Chlamydia abortus (Chlamydophila abortus) | 2 |  |
+  | Chlamydia caviae (Chlamydophila caviae) | 2 |  |
+  | Chlamydia felis (Chlamydophila felis) | 2 |  |
+  | Chlamydia pneumoniae (Chlamydophila pneumoniae) | 2 |  |
+  | Chlamydia psittaci (Chlamydophila psittaci) (aviære stammer) | 3 |  |
+  | Chlamydia psittaci (Chlamydophila psittaci) (andre stammer) | 2 |  |
+  | Chlamydia trachomatis (Chlamydophila trachomatis) | 2 |  |
+  | Clostridium botulinum | 2 | T |
+  | Clostridium difficile | 2 | T |
+  | Clostridium perfringens | 2 | T |
+  | Clostridium tetani | 2 | T, V |
+  | Clostridium spp.1 | 2 |  |
+  | Corynebacterium diphtheriae | 2 | T, V |
+  | Corynebacterium minutissimum | 2 |  |
+  | Corynebacterium pseudotuberculosis | 2 | T |
+  | Corynebacterium ulcerans | 2 | T |
+  | Corynebacterium spp.1 | 2 |  |
+  | Coxiella burnetii | 3 |  |
+  | Edwardsiella tarda | 2 |  |
+  | Ehrlichia sennetsu (Rickettsia sennetsu) | 2 |  |
+  | Ehrlichia spp.1 | 2 |  |
+  | Eikenella corrodens | 2 |  |
+  | Elizabethkingia meningoseptica (Flavobacterium meningosepticum) | 2 |  |
+  | Enterobacter aerogenes (Klebsiella mobilis) | 2 |  |
+  | Enterobacter cloacae subsp. cloacae (Enterobacter cloacae) | 2 |  |
+  | Enterobacter spp.1 | 2 |  |
+  | Enterococcus spp.1 | 2 |  |
+  | Erysipelothrix rhusiopathiae | 2 |  |
+  | Escherichia coli2 | 2 |  |
+  | Escherichia coli, verocytotoksiske stammer f.eks. O157:H7 eller O103 | 33 | T |
+  | Flavobacterium meningosepticum | 2 |  |
+  | Fluoribacter bozemanae (Legionella) | 2 |  |
+  | Francisella hispaniensis | 2 |  |
+  | Francisella tularensis subsp. holarctica | 2 |  |
+  | Francisella tularensis subsp. mediasiatica | 2 |  |
+  | Francisella tularensis subsp. novicida | 2 |  |
+  | Francisella tularensis subsp. tularensis | 3 |  |
+  | Fusobacterium necrophorum subsp. funduliforme | 2 |  |
+  | Fusobacterium necrophorum subsp. necrophorum | 2 |  |
+  | Gardnerella vaginalis | 2 |  |
+  | Haemophilus ducreyi | 2 |  |
+  | Haemophilus influenzae | 2 | V |
+  | Haemophilus spp.1 | 2 |  |
+  | Helicobacter pylori | 2 |  |
+  | Helicobacter spp.1 | 2 |  |
+  | Klebsiella oxytoca | 2 |  |
+  | Klebsiella pneumoniae subsp. ozaenae | 2 |  |
+  | Klebsiella pneumoniae subsp. pneumoniae | 2 |  |
+  | Klebsiella pneumoniae subsp. rhinoscleromatis | 2 |  |
+  | Klebsiella spp.1 | 2 |  |
+  | Legionella pneumophila subsp. fraseri | 2 |  |
+  | Legionella pneumophila subsp. pascullei | 2 |  |
+  | Legionella pneumophila subsp. pneumophila | 2 |  |
+  | Legionella spp.1 | 2 |  |
+  | Leptospira interrogans (alle serotyper) | 2 |  |
+  | Leptospira interrogans spp.1 | 2 |  |
+  | Listeria monocytogenes | 2 |  |
+  | Listeria ivanovii subsp. ivanovii | 2 |  |
+  | Listeria invanovii subsp. londoniensis | 2 |  |
+  | Morganella morganii subsp. morganii (Proteus morganii) | 2 |  |
+  | Morganella morganii subsp. sibonii | 2 |  |
+  | Mycobacterium abscessus subsp. abscessus | 2 |  |
+  | Mycobacterium africanum | 3 | V |
+  | Mycobacterium avium subsp. avium (Mycobacterium avium) | 2 |  |
+  | Mycobacterium avium subsp. paratuberculosis (Mycobacterium paratuberculosis) | 2 |  |
+  | Mycobacterium avium subsp. silvaticum | 2 |  |
+  | Mycobacterium bovis | 3 | V |
+  | Mycobacterium caprae (Mycobacterium tuberculosis subsp. caprae) | 3 |  |
+  | Mycobacterium chelonae | 2 |  |
+  | Mycobacterium chimaera | 2 |  |
+  | Mycobacterium fortuitum | 2 |  |
+  | Mycobacterium intracellulare | 2 |  |
+  | Mycobacterium kansasii | 2 |  |
+  | Mycobacterium leprae | 3 |  |
+  | Mycobacterium malmoense | 2 |  |
+  | Mycobacterium marinum | 2 |  |
+  | Mycobacterium microti | 33 |  |
+  | Mycobacterium pinnipedii | 3 |  |
+  | Mycobacterium scrofulaceum | 2 |  |
+  | Mycobacterium simiae | 2 |  |
+  | Mycobacterium szulgai | 2 |  |
+  | Mycobacterium tuberculosis | 3 | V |
+  | Mycobacterium ulcerans | 33 |  |
+  | Mycobacterium xenopi | 2 |  |
+  | Mycoplasma hominis | 2 |  |
+  | Mycoplasma pneumoniae | 2 |  |
+  | Mycoplasma spp.1 | 2 |  |
+  | Neisseria gonorrhoeae | 2 |  |
+  | Neisseria meningitidis | 2 | V |
+  | Neorickettsia sennetsu (Rickettsia sennetsu, Ehrlichia sennetsu) | 2 |  |
+  | Nocardia asteroides | 2 |  |
+  | Nocardia brasiliensis | 2 |  |
+  | Nocardia farcinica | 2 |  |
+  | Nocardia nova | 2 |  |
+  | Nocardia otitidiscaviarum | 2 |  |
+  | Nocardia spp.1 | 2 |  |
+  | Orientia tsutsugamushi (Rickettsia tsutsugamushi) | 3 |  |
+  | Pasteurella multocida subsp. gallicida (Pasteurella gallicida) | 2 |  |
+  | Pasteurella multocida subsp. multocida | 2 |  |
+  | Pasteurella multocida subsp. septica | 2 |  |
+  | Pasteurella multocida | 2 |  |
+  | Pasteurella spp.1 | 2 |  |
+  | Peptostreptococcus anaerobius | 2 |  |
+  | Plesiomonas shigelloides | 2 |  |
+  | Porphyromonas spp.1 | 2 |  |
+  | Prevotella spp.1 | 2 |  |
+  | Proteus mirabilis | 2 |  |
+  | Proteus penneri | 2 |  |
+  | Proteus vulgaris | 2 |  |
+  | Providencia alcalifaciens (Proteus inconstans) | 2 |  |
+  | Providencia rettgeri (Proteus rettgeri) | 2 |  |
+  | Providencia spp.1 | 2 |  |
+  | Pseudomonas aeruginosa | 2 | T |
+  | Rhodococcus hoagii (Corynebacterium equii) | 2 |  |
+  | Rickettsia africae | 3 |  |
+  | Rickettsia akari | 33 |  |
+  | Rickettsia australis | 3 |  |
+  | Rickettsia canadensis | 2 |  |
+  | Rickettsia conorii | 3 |  |
+  | Rickettsia heilongjiangensis | 33 |  |
+  | Rickettsia japonica | 3 |  |
+  | Rickettsia montanensis | 2 |  |
+  | Rickettsia typhi | 3 |  |
+  | Rickettsia prowazekii | 3 |  |
+  | Rickettsia rickettsii | 3 |  |
+  | Rickettsia sibirica | 3 |  |
+  | Rickettsia spp.1 | 2 |  |
+  | Salmonella enterica (choleraesuis) subsp. arizonae | 2 |  |
+  | Salmonella enteritidis | 2 |  |
+  | Salmonella typhimurium | 2 |  |
+  | Salmonella paratyphi A, B, C | 2 | V |
+  | Salmonella typhi | 33 | V |
+  | Salmonella (andre serotyper) | 2 |  |
+  | Shigella boydii | 2 |  |
+  | Shigella dysenteriae (Type 1) | 33 | T |
+  | Shigella dysenteriae (bortsett fra type 1) | 2 |  |
+  | Shigella flexneri | 2 |  |
+  | Shigella sonnei | 2 |  |
+  | Staphylococcus aureus | 2 | T |
+  | Streptobacillus moniliformis | 2 |  |
+  | Streptococcus agalactiae | 2 |  |
+  | Streptococcus dysgalactiae subsp. equisimilis | 2 |  |
+  | Streptococcus pneumoniae | 2 | T, V |
+  | Streptococcus pyogenes | 2 | T |
+  | Streptococcus suis | 2 |  |
+  | Streptococcus spp.1 | 2 |  |
+  | Treponema carateum | 2 |  |
+  | Treponema pallidum | 2 |  |
+  | Treponema pertenue | 2 |  |
+  | Treponema spp.1 | 2 |  |
+  | Trueperella pyogenes | 2 |  |
+  | Ureaplasma parvum | 2 |  |
+  | Ureaplasma urealyticum | 2 |  |
+  | Vibrio cholerae (herunder El Tor) | 2 | T, V |
+  | Vibrio parahaemoloyticus (Benecka parahaemolytica) | 2 |  |
+  | Vibrio spp.1 | 2 |  |
+  | Yersinia enterocolitica subsp. enterolitica | 2 |  |
+  | Yersinia enterocolitica subsp. palearctica | 2 |  |
+  | Yersinia pestis | 3 |  |
+  | Yersinia pseudotuberculosis | 2 |  |
+  | Yersinia spp.1 | 2 |  |
+
+  | *Virus* | *Smitterisikogruppe* | *Merknad* |
+  | --- | --- | --- |
+  | *Adenoviridae (F)* | 2 |  |
+  | *Arenaviridae (F)* |  |  |
+  | Brazilian mammarenavirus | 4 |  |
+  | Chapare mammarenavirus | 4 |  |
+  | Flexal mammarenavirus | 3 |  |
+  | Guanarito mammarenavirus | 4 |  |
+  | Junín mammarenavirus | 4 |  |
+  | Lassavirus (Lassa mammarenavirus) | 4 |  |
+  | Lujo mammarenavirus | 4 |  |
+  | Lymfocyttisk choriomeningitt-virus (neurotrope stammer) | 2 |  |
+  | Lymfocyttisk choriomeningitt-virus (andre stammer) | 2 |  |
+  | Mobala mammarenavirus | 2 |  |
+  | Mopeia virus (Mopeia mammarenavirus) | 2 |  |
+  | Tacaribe mammarenavirus |  |  |
+  | Machupo virus (Machupo mammarenavirus) | 4 |  |
+  | Whitewater Arroyo mammarenavirus | 3 |  |
+  | *Astroviridae (F)* | 2 |  |
+  | *Caliciviridae (F)* |  |  |
+  | Norwalkvirus (Norovirus) | 2 |  |
+  | Andre calicivirus som man vet er sykdomsfremkallende | 2 |  |
+  | *Coronaviridae (F)* |  |  |
+  | Middle East respiratory syndrome coronavirus (MERS-virus) | 3 |  |
+  | Severe acute respiratory syndrome-related coronavirus (SARS-virus) | 3 |  |
+  | Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) | 33 |  |
+  | Andre coronavirus som man vet er sykdomsfremkallende | 2 |  |
+  | *Filoviridae (F)* |  |  |
+  | Ebolavirus | 4 |  |
+  | Marburgvirus | 4 |  |
+  | *Flaviviridae (F)* |  |  |
+  | Australsk encerfalittvirus (Murrey VaIley-encefalitt) | 3 |  |
+  | Sentraleuropeisk flåttspredd encefalitt-virus | 33 | V |
+  | Fjerne Østen flåttspredd encefalitt-virus | 3 |  |
+  | Sibirsk flåttspredd encefalitt-virus | 3 | V |
+  | Absettarovvirus | 3 |  |
+  | Hanzalovavirus | 3 |  |
+  | Hyprvirus | 3 |  |
+  | Kumlingevirus | 3 |  |
+  | Denguevirus | 3 |  |
+  | Hepatitt C-virus (Hepacivirus C) | 33 | D |
+  | Japansk encefalitt-virus | 3 | V |
+  | Kyasanur Forest-virus | 3 | V |
+  | Louping ill-virus | 33 |  |
+  | Negishi virus | 3 |  |
+  | Omskvirus (flåttspredd encefalitt) | 3 |  |
+  | Powassanvirus | 3 |  |
+  | Rociovirus | 3 |  |
+  | Russisk vår-/sommerencefalitt-virus (RSSE) (Flåttspredd encefalitt) | 3 | V |
+  | St. Louis encefalitt-virus | 3 |  |
+  | Wesselsbronvirus | 33 |  |
+  | Vest-Nilen-feber-virus | 3 |  |
+  | Gulfebervirus | 3 | V |
+  | Zika virus | 2 |  |
+  | Andre flavivirus som man vet er sykdomsfremkallende | 2 |  |
+  | *Hantavirus (F)* |  |  |
+  | Andes ortohantavirus (virus som forårsaker pulmonar syndrom [HPS]) | 3 |  |
+  | Bayou ortohantavirus | 3 |  |
+  | Black Creek Canal ortohantavirus | 3 |  |
+  | Cano Delgadito ortohantavirus | 3 |  |
+  | Choclo ortohantavirus | 3 |  |
+  | Dobrava-Belgrade ortohantavirus (virus som forårsaker hemorragisk feber med renalt syndrom [HFRS]) | 3 |  |
+  | El Moro Canyon orthohantavirus | 3 |  |
+  | Hantaan ortohantavirus (virus som forårsaker hemorragisk feber med renalt syndrom [HFRS], Koreansk hemoragisk feber) | 3 |  |
+  | Laguna Negra orthohantavirus | 3 |  |
+  | Seoul ortohantavirus (virus som forårsaker hemorragisk feber med renalt syndrom [HFRS]) | 3 |  |
+  | Puumala ortohantavirus (virus som forårsaker nephropathia epidemica (NE)) | 2 |  |
+  | Prospect Hill ortohantavirus | 2 |  |
+  | Sin Nombre ortohantavirus (virus som forårsaker hantavirus pulmonar syndrome [HPS]) | 3 |  |
+  | Andre hantavirus som man vet er sykdomsfremkallende | 2 |  |
+  | *Hepadnaviridae (F)* |  |  |
+  | Hepatitt B-virus | 33 | V, D |
+  | *Hepeviridae (F)* |  |  |
+  | Hepatitt E-virus (Orthohepevirus A) | 2 |  |
+  | *Herpesviridae (F)* |  |  |
+  | Human betaherpesvirus 5 (Cytomegalovirus) | 2 |  |
+  | Human gammaherpesvirus 4 (Epstein-Barr-virus) | 2 |  |
+  | Herpesvirus simiae (Herpes B virus, Macacine alphaherpesvirus 1) | 3 |  |
+  | Herpes simplex-virus, type 1 og 2 (Human alfaherpesvirus 1 og 2, Human herpesvirus 1 og 2) | 2 |  |
+  | Herpesvirus varicella-zoster (human alfaherpesvirus 3) | 2 | V |
+  | Humant B-lymphotrophic virus (Humant betaherpesvirus 6A) | 2 |  |
+  | Humant betaherpesvirus 6B | 2 |  |
+  | Humant betaherpesvirus 7 | 2 |  |
+  | Humant gammaherpesvirus 8 | 2 | D |
+  | *Nairovirus (F)* |  |  |
+  | Kongo-krimfeber ortonairovirus | 4 |  |
+  | Dugbe orthonairovirus | 2 |  |
+  | Hazara ortonairovirus | 2 |  |
+  | Nairobi sheep disease orthonairovirus | 2 |  |
+  | Andre nairoviruses som man vet er sykdomsfremkallende | 2 |  |
+  | *Orthomyxoviridae (F)* |  |  |
+  | Influensa A virus fra 1918 H1N1 pandemien (e.g A/New York/1/18 (H1N1) | 3 |  |
+  | Influensa A virus fra 1957 H2N2 pandemien (e.g. A/Singapore/1/57) | 3 |  |
+  | Highly Pathogenic Avian Influensa Virus HPAIV (H5), e.g. H5N1 | 3 |  |
+  | Highly Pathogenic Avian Influensa Virus HPAIV (H7), e.g. H7N7, H7N9 | 3 |  |
+  | Low Pathogenic Avian Influensa Virus (LPAI) H7N9 | 3 |  |
+  | Influensa A virus – ikke nevnt over | 2 | V5 |
+  | Influensa B virus | 2 | V5 |
+  | Influensa C virus | 2 | V5 |
+  | Flåttspredde orthomyxoviridae: Dhori- og Thogotovirus | 2 |  |
+  | *Papillomaviridae (F)* | 2 | D6 |
+  | *Paramyxoviridae (F)* |  |  |
+  | Hendra henipavirus | 4 |  |
+  | Nipah henipavirus | 4 |  |
+  | Meslingvirus | 2 | V |
+  | Kusmavirus (Mumps rubulavirus) | 2 | V |
+  | Newcastle disease-virus | 2 |  |
+  | Para influensavirus type 1 til 4 (humant respirovirus 1 og 3 og B114humant rubulavirus 2 og 4) | 2 |  |
+  | *Parvoviridae (F)* |  |  |
+  | Humant parvovirus (B 19) | 2 |  |
+  | *Peribunyaviridae (F)* |  |  |
+  | Bunyamwera ortobunyavirus (Germiston virus) | 2 |  |
+  | Californiaencephalitt ortobunyavirus | 2 |  |
+  | Germiston virus (se Bunyamwera ortobunyavirus) |  |  |
+  | Oropouche ortobunyavirus | 3 |  |
+  | Andre ortobunyavirus som man vet er sykdomsfremkallende | 2 |  |
+  | *Phenuiviridae (F)*: |  |  |
+  | Bhanja phlebovirus | 2 |  |
+  | Punta Toro phlebovirus | 2 |  |
+  | Rift Valley-feber phlebovirus | 3 |  |
+  | Sandfluefeber Naples phlebovirus (Toscana virus) | 2 |  |
+  | Toscanavirus (se Sandfluefeber Naples phlebovirus) | 2 |  |
+  | SFTS phlebovirus (Alvorlig feber med trombocytopeni-syndrom-virus) | 3 |  |
+  | Andre phlebovirus som man vet er sykdomsfremkallende | 2 |  |
+  | *Picornaviridae (F)* |  |  |
+  | Saffold virus | 2 |  |
+  | Cosavirus A | 2 |  |
+  | Enterovirus A | 2 |  |
+  | Enterovirus B | 2 |  |
+  | Enterovirus C | 2 |  |
+  | Enterovirus D, Human Enterovirus type 70 (akutt hemorragisk konjunktivitt virus) | 2 |  |
+  | Hepatitt A-virus (humant enterovirus, type 72, hepatovirus A) | 2 | V |
+  | Poliovirus, type 1 og 3 | 2 | V |
+  | Poliovirus, type 211 | 3 | V |
+  | Rhinovirus | 2 |  |
+  | Aichivirus A (Aichi virus 1) | 2 |  |
+  | Parechoviruses A | 2 |  |
+  | Parechoviruses B (Ljungan virus) | 2 |  |
+  | Andre picornaviridae som man vet er sykdomsfremkallende | 2 |  |
+  | *Pneumoviridae (F)* |  |  |
+  | Respiratorisk syncytialvirus (RS-virus, humant orthopneumovirus) | 2 |  |
+  | *Polyomaviridae (F)* |  |  |
+  | BK and JC virus (Humant polymavirus 1 og 2) | 2 | D6 |
+  | *Poxviridae (F)* |  |  |
+  | Bøffelkoppevirus7 | 2 |  |
+  | Kukoppevirus | 2 |  |
+  | Elefantkoppevirus8 | 2 |  |
+  | Melkeknutevirus | 2 |  |
+  | Molluscum contagiosum-virus | 2 |  |
+  | Apekoppevirus | 3 | V |
+  | Orfvirus | 2 |  |
+  | Kaninkoppevirus9 | 2 |  |
+  | Vacciniavirus | 2 |  |
+  | Variola (major og minor)-virus | 4 | V |
+  | Yatapox-virus (Tana og Yaba) | 2 |  |
+  | *Reoviridae (F)* |  |  |
+  | Banna virus | 2 |  |
+  | Coltivirus | 2 |  |
+  | Rotavirus | 2 |  |
+  | Orbivirus | 2 |  |
+  | Retroviridae (F) |  |  |
+  | Humane immunsviktvirus (HIV), type 1 og 2 | 33 | D |
+  | Humane T-cellelymfotropevirus (HTLV), type 1 og 2 | 33 | D |
+  | SIV (Simianape-immunsviktvirus)10 | 2 |  |
+  | *Rhabdoviridae (F)* |  |  |
+  | Australian bat lyssavirus | 33 | V |
+  | Duvenhage lyssavirus | 33 | V |
+  | European bat lyssavirus 1 | 33 | V |
+  | European bat lyssavirus 2 | 33 | V |
+  | Lagos bat lyssavirus | 33 |  |
+  | Mokola lyssavirus | 3 |  |
+  | Rabiesvirus (Rabies lyssavirus) | 33 | V |
+  | Vesikulær stomatitt-virus (Alagoas vesiculovirus, Indiana vesiculovirus, New Jersey vesiculovirus) | 2 |  |
+  | Piry vesiculovirus (Piry virus) | 2 |  |
+  | *Togaviridae (F)* |  |  |
+  | Alfavirus: |  |  |
+  | Cabassouvirus | 3 |  |
+  | Østamerikansk heste-encefalomeyelitt-virus | 3 | V |
+  | Bebaruvirus | 2 |  |
+  | Chikungunyavirus | 33 |  |
+  | Evergladesvirus | 33 |  |
+  | Mayarovirus | 3 |  |
+  | Mucambovirus | 33 |  |
+  | Ndumuvirus | 33 |  |
+  | O'nyong-nyongvirus | 2 |  |
+  | Ross River-virus | 2 |  |
+  | Semliki Forest-virus | 2 |  |
+  | Sindbisvirus | 2 |  |
+  | Tonatevirus | 33 |  |
+  | Venezuelansk heste-encefalomeyelitt-virus | 3 | V |
+  | Vestamerikansk heste-encefalomeyelitt-virus | 3 | V |
+  | Andre kjente alfavirus man vet kan være sykdomsfremkallende | 2 |  |
+  | Rubellavirus (røde hunder) | 2 | V |
+  | *Uklassifiserte virus* |  |  |
+  | Hepatitt delta virus4 | 2 | V, D |
+
+  | *Parasitter* | *Smitterisikogruppe* | *Merknad* |
+  | --- | --- | --- |
+  | Acanthamoeba castellani | 2 |  |
+  | Ancylostoma duodenale | 2 |  |
+  | Angiostrongylus cantonensis | 2 |  |
+  | Angiostrongylus costaricensis | 2 |  |
+  | Anisakis simplex | 2 | A |
+  | Ascaris lumbricoides | 2 | A |
+  | Ascaris suum | 2 | A |
+  | Babesia divergens | 2 |  |
+  | Babesia microti | 2 |  |
+  | Balamuthia mandrillaris | 3 |  |
+  | Balantidium coli | 2 |  |
+  | Brugia malayi | 2 |  |
+  | Brugia pahangi | 2 |  |
+  | Brugia timori | 2 |  |
+  | Capillaria philippinensis | 2 |  |
+  | Capillaria spp.1 | 2 |  |
+  | Clonorchis sinensis (Opisthorchis sinensis) | 2 |  |
+  | Clonorchis viverrini (Opisthirchis viverrini) | 2 |  |
+  | Cryptosporidium hominis | 2 |  |
+  | Cryptosporidium parvum | 2 |  |
+  | Cyclospora cayetanensis | 2 |  |
+  | Dicrocoelium dentriticum | 2 |  |
+  | Dipetalonema streptocerca | 2 |  |
+  | Diphyllobothrium latum | 2 |  |
+  | Dracunculus medinensis | 2 |  |
+  | Echinococcus granulosus | 33 |  |
+  | Echinococcus multilocularis | 33 |  |
+  | Echinococcus oligarthrus | 33 |  |
+  | Echinococcus vogeli | 33 |  |
+  | Entamoeba histolytica | 2 |  |
+  | Enterobius vermicularis | 2 |  |
+  | Enterocytozoon bieneusi | 2 |  |
+  | Fasciola gigantica | 2 |  |
+  | Faciola hepatica | 2 |  |
+  | Fasciolopsis buski | 2 |  |
+  | Giardia lamblia (Giardia duodenalis, Giardia intestinalis) | 2 |  |
+  | Heterophyes spp. | 2 |  |
+  | Hymenolepis diminuta | 2 |  |
+  | Hymenolepis nana | 2 |  |
+  | Leishmania aethiopica | 2 |  |
+  | Leishmania braziliensis | 33 |  |
+  | Leishmania donovani | 33 |  |
+  | Leishmania guyanensis (Viannia guyanensis) | 33 |  |
+  | Leishmania infantum (Leishmania chagasi) | 33 |  |
+  | Leishmania major | 2 |  |
+  | Leishmania mexicana | 2 |  |
+  | Leishmania panamensis (Viannia panamensis) | 33 |  |
+  | Leishmania peruviana | 2 |  |
+  | Leishmania tropica | 2 |  |
+  | Leishmania spp.1 | 2 |  |
+  | Loa loa | 2 |  |
+  | Mansonella ozzardi | 2 |  |
+  | Mansonella perstans | 2 |  |
+  | Mansonella streptocerca | 2 |  |
+  | Metagonimus spp. | 2 |  |
+  | Naegleria fowleri | 3 |  |
+  | Necator americanus | 2 |  |
+  | Onchocerca volvulus | 2 |  |
+  | Opisthorchis felineus | 2 |  |
+  | Opisthorchis spp.1 | 2 |  |
+  | Paragonimus westermani | 2 |  |
+  | Paragonimus spp. | 2 |  |
+  | Plasmodium falciparum | 33 |  |
+  | Plasmodium knowlesi | 33 |  |
+  | Plasmodium spp.1 (hos mennesker og hos aper) | 2 |  |
+  | Sarcocystis suihominis | 2 |  |
+  | Schistosoma haematobioum | 2 |  |
+  | Schistosoma intercalatum | 2 |  |
+  | Schistosoma japonicum | 2 |  |
+  | Schistosoma mansoni | 2 |  |
+  | Schistosoma mekongi | 2 |  |
+  | Strongyloides stercoralis | 2 |  |
+  | Strongyloides spp.1 | 2 |  |
+  | Taenia saginata | 2 |  |
+  | Taenia solium | 33 |  |
+  | Toxocara canis | 2 |  |
+  | Toxocara cati | 2 |  |
+  | Toxoplasma gondii | 2 |  |
+  | Trichinella nativa | 2 |  |
+  | Trichinella nelsoni | 2 |  |
+  | Trichinella pseudospiralis | 2 |  |
+  | Trichinella spiralis | 2 |  |
+  | Trichomonas vaginalis | 2 |  |
+  | Trichostrongylus orientalis | 2 |  |
+  | Trichostrongylus spp. | 2 |  |
+  | Tricuris trichiura | 2 |  |
+  | Trypanosoma brucei brucei | 2 |  |
+  | Trypanosoma brucei gambiense | 2 |  |
+  | *Trypanosoma brucei rhodesiense* | 33 |  |
+  | *Trypanosoma cruzi* | 33 |  |
+  | *Wuchereria bancrofti* | 2 |  |
+
+  | *Sopp* | *Smitterisikogruppe* | *Merknad* |
+  | --- | --- | --- |
+  | Aspergillus flavus | 2 | A |
+  | Aspergillus fumigatus | 2 | A |
+  | Aspergillus spp.1 | 2 |  |
+  | Blastomyces dermatitidis (Ajellomyces dermatitidis) | 3 |  |
+  | Blastomyces gilchristii | 3 |  |
+  | Candida albicans | 2 | A |
+  | Candida dubliniensis | 2 |  |
+  | Candida glabrata | 2 |  |
+  | Candida parapsilosis | 2 |  |
+  | Candida tropicalis | 2 |  |
+  | Cladophialophora bantiana (Xylohypha bantiana, Cladosporium bantianum eller tridhoides) | 3 |  |
+  | Cladophialophora modesta | 3 |  |
+  | Cladophialophora spp.1 | 2 |  |
+  | Coccidioides immitis | 3 | A |
+  | Coccidioides posadasii | 3 | A |
+  | Cryptococcus gattii (Filobasidiella neoformans var. bacillispora) | 2 | A |
+  | Cryptococcus neoformans (Filobasidiella neoformans var. Neoformans) | 2 | A |
+  | Emmonsia parvavum var. parva | 2 |  |
+  | Emmonsia parvavum var. crescens | 2 |  |
+  | Epidermophyton floccosum | 2 | A |
+  | Epidermophyton spp.1 | 2 |  |
+  | Fonsecaea pedrosoi | 2 |  |
+  | Histoplasma capsulatum | 3 |  |
+  | Histoplasma capsulatum var. farciminosum | 3 |  |
+  | Histoplasma duboisii | 3 |  |
+  | Madurella grisea | 2 |  |
+  | Madurella mycetomatis | 2 |  |
+  | Microsporum spp.1 | 2 | A |
+  | Nannizzia spp.1 | 2 |  |
+  | Neotestudina rosatii | 2 |  |
+  | Paracoccidioides brasiliensis | 3 | A |
+  | Paracoccidioides lutzii | 3 |  |
+  | Paraphyton spp. | 2 |  |
+  | Rhinocladiella mackenziei | 3 |  |
+  | Scedosporium apiospermum | 2 |  |
+  | Scedosporium prolificans (inflatum) | 2 |  |
+  | Sporothrix schenckii | 2 |  |
+  | Talaromyces marneffei (Penicillium marneffei) | 2 | A |
+  | Trichophyton rubrum | 2 | A |
+  | Trichophyton tonsurans | 2 | A |
+  | Trichophyton spp.1 | 2 |  |
+
+  | *Prioner (Ukonvensjonelle faktorer knyttet til overførbare spongiforme encefalopatier)* | *Smitterisikogruppe* | *Merknad* |
+  | --- | --- | --- |
+  | Creutzfeldt-Jakobs sykdom | 33 | D6 |
+  | Variant Creutzfeldt-Jakobs sykdom | 33 | D6 |
+  | Bovin spongiform encefalopai (BSE, kugalskap) og andre relaterte spongiforme encefalopatier (TSE-er) | 33 | D6 |
+  | Gerstmann-Sträussler-Scheinker syndromet (GSS) | 33 | D6 |
+  | Kuru | 33 | D6 |
+  | Skrapesyke | 2 |  |
 
 1 Betegnelsen «spp.» henviser til andre arter innen slekten som man vet er sykdomsfremkallende for mennesker.
 
@@ -1911,7 +3867,11 @@ For å lese tabellen se her: [(pdf)](static/SF/sf-20050101-0008-17-01.pdf)
 
 De biofysisk relevante eksponeringsverdiene for optisk stråling kan bestemmes ved hjelp av nedenstående formler. Formlene som skal benyttes, avhenger av bølgelengden til og varigheten av strålingsemisjonen fra kilden, og resultatene bør sammenlignes med de tilsvarende grenseverdiene for eksponering som er angitt i tabell 2.2 til 2.4. Det kan være relevant med mer enn en eksponeringsverdi og tilsvarende eksponeringsgrense for en gitt kilde for optisk stråling fra laser.
 
-Koeffisientene som benyttes som beregningsfaktorer i tabell 2.2 til 2.4 er angitt i tabell 2.5, og korrigeringer for gjentatt eksponering er angitt i tabell 2.6. $$E = \\frac{dP}{dA} [Wm^{-2}]$$$$H = \\int\\limits_0^t E(t) \\cdot dt [Jm^{-2}]$$
+Koeffisientene som benyttes som beregningsfaktorer i tabell 2.2 til 2.4 er angitt i tabell 2.5, og korrigeringer for gjentatt eksponering er angitt i tabell 2.6.
+
+$$E = \\frac{dP}{dA} [Wm^{-2}]$$
+
+$$H = \\int\\limits_0^t E(t) \\cdot dt [Jm^{-2}]$$
 
 *Merknader:*
 
@@ -2004,6 +3964,20 @@ For å lese tabellen se her: [(pdf)](static/SF/sf-20050101-0008-22-01.pdf)
 
 ### Tabell 2.6. Korreksjon for gjentatt eksponering
 
-Hver av følgende tre generelle regler bør anvendes på alle gjentatte eksponeringer som skyldes gjentatte laserimpulser eller laserskanning:Eksponeringen for enhver enkeltimpuls i et impulstog skal ikke overskride grenseverdien for eksponering for en enkeltimpuls av denne impulsvarigheten.Eksponeringen for enhver impulsgruppe (eller undergruppe av impulser i et impulstog) innenfor et tidsrom t skal ikke overskride grenseverdien for eksponering for tidsrommet t.Eksponeringen for enhver enkeltimpuls i en gruppe impulser skal ikke overskride grenseverdien for eksponering for en enkeltimpuls multiplisert med en korreksjonsfaktor for akkumulert varmevirkning Cp =N-0,25, der N er antallet impulser. Denne regelen gjelder bare eksponeringsgrenser som skal gi beskyttelse mot termisk skade der alle impulser avgitt i et kortere tidsrom enn Tmin anses som en enkeltpuls.*Parameter**Gyldig spektralområde (nm)**Verdi*Tmin315 < λ ≤ 400Tmin = 10 -9 s (= 1 ns)400 < λ ≤ 1050Tmin = 18· 10 -6 s (= 18 μs)1050 < λ ≤ 1400Tmin = 50· 10 -6 s (= 50 μs)1400 <λ≤ 1500Tmin = 10 -3 s (= 1 ms)1500 <λ≤ 1800Tmin = 10 s1800 <λ≤ 2600Tmin = 10 -3 s (= 1 ms)2600 <λ≤ 106Tmin = 10 -7 s (= 100 ns)
+Hver av følgende tre generelle regler bør anvendes på alle gjentatte eksponeringer som skyldes gjentatte laserimpulser eller laserskanning:
+
+1. Eksponeringen for enhver enkeltimpuls i et impulstog skal ikke overskride grenseverdien for eksponering for en enkeltimpuls av denne impulsvarigheten.
+2. Eksponeringen for enhver impulsgruppe (eller undergruppe av impulser i et impulstog) innenfor et tidsrom t skal ikke overskride grenseverdien for eksponering for tidsrommet t.
+3. Eksponeringen for enhver enkeltimpuls i en gruppe impulser skal ikke overskride grenseverdien for eksponering for en enkeltimpuls multiplisert med en korreksjonsfaktor for akkumulert varmevirkning Cp =N-0,25, der N er antallet impulser. Denne regelen gjelder bare eksponeringsgrenser som skal gi beskyttelse mot termisk skade der alle impulser avgitt i et kortere tidsrom enn Tmin anses som en enkeltpuls.
+
+   | *Parameter* | *Gyldig spektralområde (nm)* | *Verdi* |
+   | --- | --- | --- |
+   | Tmin | 315 < λ ≤ 400 | Tmin = 10 -9 s (= 1 ns) |
+   |  | 400 < λ ≤ 1050 | Tmin = 18· 10 -6 s (= 18 μs) |
+   |  | 1050 < λ ≤ 1400 | Tmin = 50· 10 -6 s (= 50 μs) |
+   |  | 1400 <λ≤ 1500 | Tmin = 10 -3 s (= 1 ms) |
+   |  | 1500 <λ≤ 1800 | Tmin = 10 s |
+   |  | 1800 <λ≤ 2600 | Tmin = 10 -3 s (= 1 ms) |
+   |  | 2600 <λ≤ 106 | Tmin = 10 -7 s (= 100 ns) |
 
 > Tilføyd ved [forskrift 27 april 2010 nr. 606](forskrift/2010-04-27-606).

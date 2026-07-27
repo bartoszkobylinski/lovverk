@@ -15,7 +15,7 @@ xml_hash: "63a5ceaaa677e95770179b764829beed73ef9cc6b244e9b26fe01bc4b99ff373"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,16 @@ Loven gjelder den virksomhet som drives av forvaltningsorganer når ikke annet e
 
 ### § 2. (definisjoner).
 
-I denne lov menes med:vedtak, en avgjørelse som treffes under utøving av offentlig myndighet og som generelt eller konkret er bestemmende for rettigheter eller plikter til private personer (enkeltpersoner eller andre private rettssubjekter);enkeltvedtak, et vedtak som gjelder rettigheter eller plikter til en eller flere bestemte personer;forskrift, et vedtak som gjelder rettigheter eller plikter til et ubestemt antall eller en ubestemt krets av personer;offentlig tjenestemann, en embetsmann eller annen som er ansatt i statens eller en kommunes tjeneste;part, person som en avgjørelse retter seg mot eller som saken ellers direkte gjelder.dokument: en logisk avgrenset informasjonsmengde som er lagret på et medium for senere lesing, lytting, framføring, overføring eller lignende.skriftlig: også elektronisk melding når informasjonen i denne er tilgjengelig også for ettertiden;nedtegning, nedskriving og protokollering: også elektronisk nedtegning når dette oppfyller hensynene bak nedtegningen i like stor grad som nedtegning på papir.
+I denne lov menes med:
+
+1. vedtak, en avgjørelse som treffes under utøving av offentlig myndighet og som generelt eller konkret er bestemmende for rettigheter eller plikter til private personer (enkeltpersoner eller andre private rettssubjekter);
+2. enkeltvedtak, et vedtak som gjelder rettigheter eller plikter til en eller flere bestemte personer;
+3. forskrift, et vedtak som gjelder rettigheter eller plikter til et ubestemt antall eller en ubestemt krets av personer;
+4. offentlig tjenestemann, en embetsmann eller annen som er ansatt i statens eller en kommunes tjeneste;
+5. part, person som en avgjørelse retter seg mot eller som saken ellers direkte gjelder.
+6. dokument: en logisk avgrenset informasjonsmengde som er lagret på et medium for senere lesing, lytting, framføring, overføring eller lignende.
+7. skriftlig: også elektronisk melding når informasjonen i denne er tilgjengelig også for ettertiden;
+8. nedtegning, nedskriving og protokollering: også elektronisk nedtegning når dette oppfyller hensynene bak nedtegningen i like stor grad som nedtegning på papir.
 
 Avgjørelse som gjelder ansettelse, oppsigelse, suspensjon, avskjed eller forflytting av offentlig tjenestemann, regnes som enkeltvedtak. Det samme gjelder vedtak om å ilegge offentlig tjenestemann ordensstraff eller tilstå ham pensjon. Kongen kan bestemme hva som i tvilstilfelle skal regnes som enkeltvedtak etter dette ledd, eller at andre saker om offentlige tjenesteforhold skal regnes som enkeltvedtak.
 
@@ -54,7 +63,10 @@ Når det gjelder enkeltvedtak som nevnt i [§ 2](lov/1967-02-10/§2), annet ledd
 
 ### § 4. (unntak for visse offentlige institusjoner og for visse saker, m. m.).
 
-Med mindre annet er særskilt bestemt, gjelder loven ikkedomstolenes virksomhet, derunder registrerings- og notarialforretninger og lignende som utføres ved et dommerkontor,saker som forvaltningsorganet selv behandler eller avgjør i medhold av rettspleielovene (straffeprosesslovene, [domstolloven](lov/1915-08-13-5), [tvisteloven](lov/2005-06-17-90), [voldgiftsloven](lov/2004-05-14-25), [tvangsfullbyrdelsesloven](lov/1992-06-26-86), [skjønnsloven](lov/1917-06-01-1)) eller lover som knytter seg til disse lovene ([konkursloven](lov/1984-06-08-58), arvelovens tredje del og [gjeldsordningsloven](lov/1992-07-17-99)), eller [jordskiftelova](lov/2013-06-21-100) eller [rettsgebyrloven](lov/1982-12-17-86).
+Med mindre annet er særskilt bestemt, gjelder loven ikke
+
+1. domstolenes virksomhet, derunder registrerings- og notarialforretninger og lignende som utføres ved et dommerkontor,
+2. saker som forvaltningsorganet selv behandler eller avgjør i medhold av rettspleielovene (straffeprosesslovene, [domstolloven](lov/1915-08-13-5), [tvisteloven](lov/2005-06-17-90), [voldgiftsloven](lov/2004-05-14-25), [tvangsfullbyrdelsesloven](lov/1992-06-26-86), [skjønnsloven](lov/1917-06-01-1)) eller lover som knytter seg til disse lovene ([konkursloven](lov/1984-06-08-58), arvelovens tredje del og [gjeldsordningsloven](lov/1992-07-17-99)), eller [jordskiftelova](lov/2013-06-21-100) eller [rettsgebyrloven](lov/1982-12-17-86).
 
 Når et vedtak som omfattes av første ledd kan påklages til departementet, gjelder loven likevel for departementets behandling av klagesaken.
 
@@ -78,7 +90,16 @@ Når riket er i krig eller krig truer eller rikets selvstendighet eller sikkerhe
 
 ### § 6. (habilitetskrav).
 
-En offentlig tjenestemann er ugild til å tilrettelegge grunnlaget for en avgjørelse eller til å treffe avgjørelse i en forvaltningssaknår han selv er part i saken;når han er i slekt eller svogerskap med en part i opp- eller nedstigende linje eller i sidelinje så nær som søsken;når han er eller har vært gift med eller er forlovet med eller er fosterfar, fostermor eller fosterbarn til en part;når han er verge eller fullmektig for en part i saken eller har vært verge eller fullmektig for en part etter at saken begynte;når han leder eller har ledende stilling i, eller er medlem av styret eller bedriftsforsamling foret samvirkeforetak, eller en forening, sparebank eller stiftelse som er part i saken, elleret selskap som er part i saken. Dette gjelder likevel ikke for person som utfører tjeneste eller arbeid for et selskap som er fullt ut offentlig eid og dette selskapet, alene eller sammen med andre tilsvarende selskaper eller det offentlige, fullt ut eier selskapet som er part i saken.
+En offentlig tjenestemann er ugild til å tilrettelegge grunnlaget for en avgjørelse eller til å treffe avgjørelse i en forvaltningssak
+
+1. når han selv er part i saken;
+2. når han er i slekt eller svogerskap med en part i opp- eller nedstigende linje eller i sidelinje så nær som søsken;
+3. når han er eller har vært gift med eller er forlovet med eller er fosterfar, fostermor eller fosterbarn til en part;
+4. når han er verge eller fullmektig for en part i saken eller har vært verge eller fullmektig for en part etter at saken begynte;
+5. når han leder eller har ledende stilling i, eller er medlem av styret eller bedriftsforsamling for
+
+   1. et samvirkeforetak, eller en forening, sparebank eller stiftelse som er part i saken, eller
+   2. et selskap som er part i saken. Dette gjelder likevel ikke for person som utfører tjeneste eller arbeid for et selskap som er fullt ut offentlig eid og dette selskapet, alene eller sammen med andre tilsvarende selskaper eller det offentlige, fullt ut eier selskapet som er part i saken.
 
 Likeså er han ugild når andre særegne forhold foreligger som er egnet til å svekke tilliten til hans upartiskhet; blant annet skal legges vekt på om avgjørelsen i saken kan innebære særlig fordel, tap eller ulempe for ham selv eller noen som han har nær personlig tilknytning til. Det skal også legges vekt på om ugildhetsinnsigelse er reist av en part.
 
@@ -124,7 +145,10 @@ Foruten for offentlige tjenestemenn gjelder bestemmelsene i kapitlet her tilsvar
 
 Forvaltningsorganene har innenfor sitt sakområde en alminnelig veiledningsplikt. Formålet med veiledningen skal være å gi parter og andre interesserte adgang til å vareta sitt tarv i bestemte saker på best mulig måte. Omfanget av veiledningen må likevel tilpasses det enkelte forvaltningsorgans situasjon og kapasitet til å påta seg slik virksomhet.
 
-Forvaltningsorganer som behandler saker med en eller flere private parter, skal av eget tiltak vurdere partenes behov for veiledning. Etter forespørsel fra en part og ellers når sakens art eller partens forhold gir grunn til det, skal forvaltningsorganet gi veiledning om:gjeldende lover og forskrifter og vanlig praksis på vedkommende sakområde, ogregler for saksbehandlingen, særlig om parters rettigheter og plikter etter forvaltningsloven. Om mulig bør forvaltningsorganet også peke på omstendigheter som i det konkrete tilfellet særlig kan få betydning for resultatet.
+Forvaltningsorganer som behandler saker med en eller flere private parter, skal av eget tiltak vurdere partenes behov for veiledning. Etter forespørsel fra en part og ellers når sakens art eller partens forhold gir grunn til det, skal forvaltningsorganet gi veiledning om:
+
+1. gjeldende lover og forskrifter og vanlig praksis på vedkommende sakområde, og
+2. regler for saksbehandlingen, særlig om parters rettigheter og plikter etter forvaltningsloven. Om mulig bør forvaltningsorganet også peke på omstendigheter som i det konkrete tilfellet særlig kan få betydning for resultatet.
 
 Uavhengig av om sak pågår, plikter forvaltningsorganet innen sitt sakområde å gi veiledning som nevnt i annet ledd til en person som spør om sine rettigheter og plikter i et konkret forhold som har aktuell interesse for ham.
 
@@ -184,7 +208,10 @@ Fullmektig som ikke er advokat, skal legge frem skriftlig fullmakt. Advokat beh�
 
 ### § 13. (taushetsplikt).
 
-Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at andre får adgang eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om:noens personlige forhold, ellertekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår.
+Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at andre får adgang eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om:
+
+1. noens personlige forhold, eller
+2. tekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår.
 
 Som personlige forhold regnes ikke fødested, fødselsdato og personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted, med mindre slike opplysninger røper et klientforhold eller andre forhold som må anses som personlige. Kongen kan ellers gi nærmere forskrifter om hvilke opplysninger som skal reknes som personlige, om hvilke organer som kan gi privatpersoner opplysninger som nevnt i punktumet foran og opplysninger om den enkeltes personlige status for øvrig, samt om vilkårene for å gi slike opplysninger.
 
@@ -194,13 +221,28 @@ Taushetsplikten gjelder også etter at vedkommende har avsluttet tjenesten eller
 
 ### § 13 a. (begrensninger i taushetsplikten når det ikke er behov for beskyttelse).
 
-Taushetsplikt etter [§ 13](lov/1967-02-10/§13) er ikke til hinder for:at opplysninger gjøres kjent for dem som de direkte gjelder, eller for andre i den utstrekning de som har krav på taushet samtykker,at opplysningene brukes når behovet for beskyttelse må anses varetatt ved at de gis i statistisk form eller ved at individualiserende kjennetegn utelates på annen måte, ogat opplysningene brukes når ingen berettiget interesse tilsier at de holdes hemmelig, f.eks. når de er alminnelig kjent eller alminnelig tilgjengelig andre steder.at opplysninger om en navngitt domfelt eller botlagt er benådet eller ikke og hvilke reaksjoner vedkommende eventuelt blir benådet til, gjøres kjent.
+Taushetsplikt etter [§ 13](lov/1967-02-10/§13) er ikke til hinder for:
+
+1. at opplysninger gjøres kjent for dem som de direkte gjelder, eller for andre i den utstrekning de som har krav på taushet samtykker,
+2. at opplysningene brukes når behovet for beskyttelse må anses varetatt ved at de gis i statistisk form eller ved at individualiserende kjennetegn utelates på annen måte, og
+3. at opplysningene brukes når ingen berettiget interesse tilsier at de holdes hemmelig, f.eks. når de er alminnelig kjent eller alminnelig tilgjengelig andre steder.
+4. at opplysninger om en navngitt domfelt eller botlagt er benådet eller ikke og hvilke reaksjoner vedkommende eventuelt blir benådet til, gjøres kjent.
 
 > Tilføyd ved lov [27 mai 1977 nr. 40](lov/1977-05-27-40) (i kraft 1 jan 1978 iflg. [res. 16 des 1977 nr. 9](forskrift/1977-12-16-9)), endret ved lov [17 des 2010 nr. 85](lov/2010-12-17-85) (ikr. 17 des 2010 iflg. [res. 17 des 2010 nr. 1668](forskrift/2010-12-17-1668)).
 
 ### § 13 b. (begrensninger av taushetsplikten ut fra private eller offentlige interesser).
 
-Taushetsplikt etter [§ 13](lov/1967-02-10/§13) er ikke til hinder for:at opplysningene i en sak gjøres kjent for sakens parter eller deres representanter,at opplysningene brukes for å oppnå det formål de er gitt eller innhentet for, bl.a. kan brukes i forbindelse med saksforberedelse, avgjørelse, gjennomføring av avgjørelsen, oppfølging og kontroll,at opplysningene er tilgjengelig for andre tjenestemenn innen organet eller etaten i den utstrekning som trengs for en hensiktsmessig arbeids- og arkivordning, bl.a. til bruk ved vegledning i andre saker,at opplysningene brukes for statistisk bearbeiding, utrednings- og planleggingsoppgaver, eller i forbindelse med revisjon eller annen form for kontroll med forvaltningen,at forvaltningsorganet gir andre forvaltningsorganer opplysninger om en persons forbindelse med organet og om avgjørelser som er truffet og ellers slike opplysninger som det er nødvendig å gi for å fremme avgiverorganets oppgaver etter lov, instruks eller oppnevningsgrunnlag,at forvaltningsorganet anmelder eller gir opplysninger (jfr. også nr. 5) om lovbrudd til påtalemyndigheten eller vedkommende kontrollmyndighet, når det finnes ønskelig av allmenne omsyn eller forfølgning av lovbruddet har naturlig sammenheng med avgiverorganets oppgaver,at forvaltningsorganet deler opplysningene med andre så langt det er nødvendig for å unngå fare for liv eller helse,at forvaltningsorganet gir et annet forvaltningsorgan opplysninger (samordning) som forutsatt i lov om Oppgaveregisteret,at forvaltningsorganet gir et forvaltningsorgan i en annen EØS-stat opplysninger som forutsatt i tjenesteloven.
+Taushetsplikt etter [§ 13](lov/1967-02-10/§13) er ikke til hinder for:
+
+1. at opplysningene i en sak gjøres kjent for sakens parter eller deres representanter,
+2. at opplysningene brukes for å oppnå det formål de er gitt eller innhentet for, bl.a. kan brukes i forbindelse med saksforberedelse, avgjørelse, gjennomføring av avgjørelsen, oppfølging og kontroll,
+3. at opplysningene er tilgjengelig for andre tjenestemenn innen organet eller etaten i den utstrekning som trengs for en hensiktsmessig arbeids- og arkivordning, bl.a. til bruk ved vegledning i andre saker,
+4. at opplysningene brukes for statistisk bearbeiding, utrednings- og planleggingsoppgaver, eller i forbindelse med revisjon eller annen form for kontroll med forvaltningen,
+5. at forvaltningsorganet gir andre forvaltningsorganer opplysninger om en persons forbindelse med organet og om avgjørelser som er truffet og ellers slike opplysninger som det er nødvendig å gi for å fremme avgiverorganets oppgaver etter lov, instruks eller oppnevningsgrunnlag,
+6. at forvaltningsorganet anmelder eller gir opplysninger (jfr. også nr. 5) om lovbrudd til påtalemyndigheten eller vedkommende kontrollmyndighet, når det finnes ønskelig av allmenne omsyn eller forfølgning av lovbruddet har naturlig sammenheng med avgiverorganets oppgaver,
+7. at forvaltningsorganet deler opplysningene med andre så langt det er nødvendig for å unngå fare for liv eller helse,
+8. at forvaltningsorganet gir et annet forvaltningsorgan opplysninger (samordning) som forutsatt i lov om Oppgaveregisteret,
+9. at forvaltningsorganet gir et forvaltningsorgan i en annen EØS-stat opplysninger som forutsatt i tjenesteloven.
 
 Part eller partsrepresentant som blir gjort kjent med opplysninger etter første ledd nr. 1, kan bare bruke opplysningene i den utstrekning det er nødvendig for å vareta partens tarv i saken. Forvaltningsorganet skal gjøre ham merksam på dette. Likeledes kan forvaltningsorganet pålegge taushetsplikt når vitner o.l. får opplysninger undergitt taushetsplikt i forbindelse med at de uttaler seg til organet. Overtreding av taushetsplikt etter dette ledd kan straffes etter [straffelovens § 209](lov/2005-05-20-28/§209), dersom vedkommende er gjort merksam på at overtreding kan få slik følge.
 
@@ -228,7 +270,11 @@ Kongen kan gi nærmere forskrifter om vedtak etter denne paragraf.
 
 ### § 13 e. (forskeres taushetsplikt).
 
-Enhver som utfører tjeneste eller arbeid i forbindelse med en forskingsoppgave som et forvaltningsorgan har støttet, godkjent eller gitt opplysninger undergitt taushetsplikt til, plikter å hindre at andre får adgang eller kjennskap til:opplysninger undergitt taushetsplikt som forskeren får fra et forvaltningsorgan,opplysninger som i forbindelse med forskningsarbeidet er mottatt fra private under taushetsløfte, ogopplysninger som gjelder personer som står i et avhengighetsforhold til den instans (skole, sykehus, anstalt, bedrift, offentlig myndighet m.m.) som har formidlet deres kontakt med forskeren.
+Enhver som utfører tjeneste eller arbeid i forbindelse med en forskingsoppgave som et forvaltningsorgan har støttet, godkjent eller gitt opplysninger undergitt taushetsplikt til, plikter å hindre at andre får adgang eller kjennskap til:
+
+1. opplysninger undergitt taushetsplikt som forskeren får fra et forvaltningsorgan,
+2. opplysninger som i forbindelse med forskningsarbeidet er mottatt fra private under taushetsløfte, og
+3. opplysninger som gjelder personer som står i et avhengighetsforhold til den instans (skole, sykehus, anstalt, bedrift, offentlig myndighet m.m.) som har formidlet deres kontakt med forskeren.
 
 Opplysningene kan bare brukes slik det er nødvendig for forskingsarbeidet og i samsvar med de vilkår som måtte være fastsatt etter [§ 13 d](lov/1967-02-10/§13d) annet ledd. Skal resultater av forskingsarbeidet publiseres eller brukes på annen måte, gjelder [§ 13 a](lov/1967-02-10/§13a) nr. 1 og 2 tilsvarende.
 
@@ -274,7 +320,15 @@ Et forvaltningsorgan kan benytte elektronisk kommunikasjon når det henvender se
 
 Alle som henvender seg til et forvaltningsorgan kan benytte elektronisk kommunikasjon dersom forvaltningsorganet har lagt til rette for dette, det skjer på den anviste måten og ikke annet følger av lov eller forskrift gitt i medhold av lov.
 
-Kongen kan gi forskrift om elektronisk kommunikasjon mellom forvaltningen og publikum og elektronisk saksbehandling og kommunikasjon i forvaltningen, herunder blant annet om:hvilken elektronisk kommunikasjonsform som kan benyttes,registrering av kontaktinformasjon for privatpersoner mv. og deres fullmaktsforhold,rett for privatpersoner mv. til å reservere seg mot elektronisk kommunikasjon og om registrering av reservasjoner,hvordan fristregler i forvaltningsloven og annen lovgivning skal anvendes ved elektronisk kommunikasjon,signering, autentisering, sikring av integritet og konfidensialitet,krav til de produkter, tjenester og standarder som kan benyttes,forvaltningens rett til å sperre for brukere som misbruker data ment for signering, autentisering, sikring av integritet eller konfidensialitet, og om hva som skal regnes som misbruk.
+Kongen kan gi forskrift om elektronisk kommunikasjon mellom forvaltningen og publikum og elektronisk saksbehandling og kommunikasjon i forvaltningen, herunder blant annet om:
+
+1. hvilken elektronisk kommunikasjonsform som kan benyttes,
+2. registrering av kontaktinformasjon for privatpersoner mv. og deres fullmaktsforhold,
+3. rett for privatpersoner mv. til å reservere seg mot elektronisk kommunikasjon og om registrering av reservasjoner,
+4. hvordan fristregler i forvaltningsloven og annen lovgivning skal anvendes ved elektronisk kommunikasjon,
+5. signering, autentisering, sikring av integritet og konfidensialitet,
+6. krav til de produkter, tjenester og standarder som kan benyttes,
+7. forvaltningens rett til å sperre for brukere som misbruker data ment for signering, autentisering, sikring av integritet eller konfidensialitet, og om hva som skal regnes som misbruk.
 
 > Tilføyd ved lov [21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)), endret ved lov [14 juni 2013 nr. 42](lov/2013-06-14-42) (ikr. 7 feb 2014 iflg. [res. 7 feb 2014 nr. 101](forskrift/2014-02-07-101). Etter endringsloven del II kan Kongen gi overgangsregler, herunder om adgang for register etter [§ 15 a](lov/1967-02-10/§15a) til å innhente personopplysninger fra kontaktregisteret tilknyttet ID-porten).
 
@@ -286,7 +340,11 @@ Part som ikke allerede ved søknad eller på annen måte har uttalt seg i saken,
 
 Forhåndsvarslet skal gjøre greie for hva saken gjelder og ellers inneholde det som anses påkrevd for at parten på forsvarlig måte kan vareta sitt tarv. I regelen gis forhåndsvarsel skriftlig. Er det særlig byrdefullt å gi skriftlig underretning, kan underretningen gis muntlig eller på annen måte.
 
-Forhåndsvarsling kan unnlates dersom:slik varsling ikke er praktisk mulig eller vil medføre fare for at vedtaket ikke kan gjennomføres,parten ikke har kjent adresse og ettersporing av ham vil kreve mer tid eller arbeid enn rimelig i forhold til partens interesser og til betydningen av varslet,vedkommende part allerede på annen måte har fått kjennskap til at vedtak skal treffes og har hatt rimelig foranledning og tid til å uttale seg, eller varsel av andre grunner må anses åpenbart unødvendig.
+Forhåndsvarsling kan unnlates dersom:
+
+1. slik varsling ikke er praktisk mulig eller vil medføre fare for at vedtaket ikke kan gjennomføres,
+2. parten ikke har kjent adresse og ettersporing av ham vil kreve mer tid eller arbeid enn rimelig i forhold til partens interesser og til betydningen av varslet,
+3. vedkommende part allerede på annen måte har fått kjennskap til at vedtak skal treffes og har hatt rimelig foranledning og tid til å uttale seg, eller varsel av andre grunner må anses åpenbart unødvendig.
 
 > Endret ved lover [27 mai 1977 nr. 40](lov/1977-05-27-40) (i kraft 1 jan 1978 iflg. [res. 16 des 1977 nr. 9](forskrift/1977-12-16-9)), [8 apr 1981 nr. 7](lov/1981-04-08-7), [21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)), [1 aug 2003 nr. 86](lov/2003-08-01-86) (ikr. 1 okt 2003 iflg. [res. 1 aug 2003 nr. 991](forskrift/2003-08-01-991)), [14 juni 2013 nr. 42](lov/2013-06-14-42) (ikr. 7 feb 2014 iflg. [res. 7 feb 2014 nr. 101](forskrift/2014-02-07-101)).
 
@@ -294,7 +352,11 @@ Forhåndsvarsling kan unnlates dersom:slik varsling ikke er praktisk mulig eller
 
 Forvaltningsorganet skal påse at saken er så godt opplyst som mulig før vedtak treffes. Det skal påse at mindreårige parter har fått mulighet til å gi uttrykk for sitt syn, i den grad de er i stand til å danne seg egne synspunkter på det saken gjelder. De mindreåriges syn skal tillegges vekt i samsvar med deres alder og modenhet.
 
-Dersom det under saksforberedelsen mottar opplysninger om en part eller den virksomhet han driver eller planlegger, og parten etter [§§ 18](lov/1967-02-10/§18) til [19](lov/1967-02-10/§19) har rett til å gjøre seg kjent med disse opplysninger, skal de forelegges ham til uttalelse. Dette gjelder likevel ikke nåropplysningene bekreftes av framstilling som parten selv har gitt eller kontrollert i anledning av saken eller parten ikke har kjent oppholdssted,rask avgjørelse i saken er påkrevd av hensyn til andre parter eller offentlige interesser,opplysningene ikke har avgjørende betydning for vedtaket eller underretning av andre grunner er unødvendig eller uhensiktsmessig ut fra hensynet til parten selv, for eksempel fordi han vil bli gjort kjent med opplysningene ved melding om vedtaket.
+Dersom det under saksforberedelsen mottar opplysninger om en part eller den virksomhet han driver eller planlegger, og parten etter [§§ 18](lov/1967-02-10/§18) til [19](lov/1967-02-10/§19) har rett til å gjøre seg kjent med disse opplysninger, skal de forelegges ham til uttalelse. Dette gjelder likevel ikke når
+
+1. opplysningene bekreftes av framstilling som parten selv har gitt eller kontrollert i anledning av saken eller parten ikke har kjent oppholdssted,
+2. rask avgjørelse i saken er påkrevd av hensyn til andre parter eller offentlige interesser,
+3. opplysningene ikke har avgjørende betydning for vedtaket eller underretning av andre grunner er unødvendig eller uhensiktsmessig ut fra hensynet til parten selv, for eksempel fordi han vil bli gjort kjent med opplysningene ved melding om vedtaket.
 
 Partene bør også for øvrig gjøres kjent med opplysninger av vesentlig betydning som det må forutsettes at de har grunnlag og interesse for å uttale seg om, og som parten etter [§§ 18](lov/1967-02-10/§18) til [19](lov/1967-02-10/§19) har rett til å gjøre seg kjent med. Ved avveiningen skal legges vekt på om rask avgjørelse er ønskelig og om hensynet til parten er tilstrekkelig varetatt på annen måte, for eksempel ved at han er gjort kjent med retten etter [§§ 18](lov/1967-02-10/§18) til [19](lov/1967-02-10/§19) til å se sakens dokumenter.
 
@@ -336,7 +398,14 @@ Selv om dokumentet eller deler av det er unntatt etter reglene i [§§ 18 a](lov
 
 ### § 18 d. (innsyn i interne dokumenter hos kommunene og fylkeskommunene).
 
-Unntakene i [§§ 18 a](lov/1967-02-10/§18a) og [18 b](lov/1967-02-10/§18b) gjelder ikke:saksframlegg med vedlegg til et kommunalt eller fylkeskommunalt folkevalgt organ,saksliste til møte i folkevalgte organer i kommuner og fylkeskommuner,dokument fra eller til kommunale og fylkeskommunale kontrollutvalg, revisjonsorgan og klagenemnder, ogdokument i saker der en kommunal eller fylkeskommunal enhet opptrer som ekstern part overfor en annen slik enhet.[§ 18 a](lov/1967-02-10/§18a) gjelder likevel for dokument som blir utvekslet mellom kommunale og fylkeskommunale kontrollutvalg og utvalgets sekretariat.
+Unntakene i [§§ 18 a](lov/1967-02-10/§18a) og [18 b](lov/1967-02-10/§18b) gjelder ikke:
+
+1. saksframlegg med vedlegg til et kommunalt eller fylkeskommunalt folkevalgt organ,
+2. saksliste til møte i folkevalgte organer i kommuner og fylkeskommuner,
+3. dokument fra eller til kommunale og fylkeskommunale kontrollutvalg, revisjonsorgan og klagenemnder, og
+4. dokument i saker der en kommunal eller fylkeskommunal enhet opptrer som ekstern part overfor en annen slik enhet.
+
+[§ 18 a](lov/1967-02-10/§18a) gjelder likevel for dokument som blir utvekslet mellom kommunale og fylkeskommunale kontrollutvalg og utvalgets sekretariat.
 
 Unntaket i [§ 18 a](lov/1967-02-10/§18a) gjelder ikke for dokument fra eller til et kommunalt eller fylkeskommunalt særlovsorgan eller et kommunalt eller fylkeskommunalt foretak etter [kommuneloven kapittel 9](lov/2018-06-22-83/kap9).
 
@@ -346,9 +415,17 @@ Unntaket i [§ 18 a](lov/1967-02-10/§18a) gjelder heller ikke for dokument fra 
 
 ### § 19. (innskrenket adgang til visse slags opplysninger).
 
-En part har ikke krav på å få gjøre seg kjent med de opplysninger i et dokumentsom er av betydning for Norges utenrikspolitiske interesser eller nasjonale forsvars- og sikkerhetsinteresser, når slike opplysninger kan unntas etter [offentleglova §§ 20](lov/2006-05-19-16/§20) og [21](lov/2006-05-19-16/§21),som angår tekniske innretninger, produksjonsmetoder, forretningsmessige analyser og berekninger og forretningshemmeligheter ellers, når de er av en slik art at andre kan utnytte dem i sin egen næringsvirksomhet,som angår forskningsideer eller forskningsprosjekter i sak som gjelder økonomisk støtte eller rådgivning fra det offentlige i forbindelse med forskningsprosjekt, ellersom det av hensyn til hans helse eller hans forhold til personer som står ham nær, må anses utilrådelig at han får kjennskap til; likevel slik at opplysningene på anmodning skal gjøres kjent for en representant for parten når ikke særlige grunner taler mot det.
+En part har ikke krav på å få gjøre seg kjent med de opplysninger i et dokument
 
-Med mindre det er av vesentlig betydning for en part, har han heller ikke krav på å få gjøre seg kjent med de opplysninger i et dokument som gjelderen annen persons helseforhold, ellerandre forhold som av særlige grunner ikke bør meddeles videre.
+1. som er av betydning for Norges utenrikspolitiske interesser eller nasjonale forsvars- og sikkerhetsinteresser, når slike opplysninger kan unntas etter [offentleglova §§ 20](lov/2006-05-19-16/§20) og [21](lov/2006-05-19-16/§21),
+2. som angår tekniske innretninger, produksjonsmetoder, forretningsmessige analyser og berekninger og forretningshemmeligheter ellers, når de er av en slik art at andre kan utnytte dem i sin egen næringsvirksomhet,
+3. som angår forskningsideer eller forskningsprosjekter i sak som gjelder økonomisk støtte eller rådgivning fra det offentlige i forbindelse med forskningsprosjekt, eller
+4. som det av hensyn til hans helse eller hans forhold til personer som står ham nær, må anses utilrådelig at han får kjennskap til; likevel slik at opplysningene på anmodning skal gjøres kjent for en representant for parten når ikke særlige grunner taler mot det.
+
+Med mindre det er av vesentlig betydning for en part, har han heller ikke krav på å få gjøre seg kjent med de opplysninger i et dokument som gjelder
+
+1. en annen persons helseforhold, eller
+2. andre forhold som av særlige grunner ikke bør meddeles videre.
 
 Kongen kan gi forskrifter som for særskilte saksområder utfyller eller nærmere fastlegger hvordan [§§ 18](lov/1967-02-10/§18) til [19](lov/1967-02-10/§19) skal anvendes. Når tungtveiende grunner taler for det, kan forskriftene også gjøre unntak fra disse paragrafer.
 
@@ -420,7 +497,11 @@ I saker der begrunnelsen etter [§ 24](lov/1967-02-10/§24) skal gis samtidig me
 
 I underretningen skal videre gis opplysning om klageadgang, klagefrist, klageinstans og den nærmere fremgangsmåte ved klage, samt om retten etter [§ 18](lov/1967-02-10/§18), jfr [§ 19](lov/1967-02-10/§19) til å se sakens dokumenter. Dersom vedtaket kan tenkes gjennomført til skade for parten før klagesaken er avgjort, skal det også gjøres merksam på adgangen til å be om at gjennomføringen utsettes, jfr. [§ 42](lov/1967-02-10/§42) første ledd. Er det etter § 27 b i loven her eller etter særskilt lovbestemmelse et vilkår for søksmål at klageadgangen er nyttet, eller at søksmålet anlegges innen en viss frist, skal parten i underretningen om vedtaket også gjøres oppmerksom på dette. I motsatt fall kommer slike vilkår for søksmål ikke til anvendelse overfor parten.
 
-I tillegg til veiledningen etter tredje ledd skal underretningen om enkeltvedtak til sakens parter opplyse om følgende når forholdene gir grunn til det:adgangen til å søke fritt rettsråd,forvaltningsorganenes veiledningsplikt etter [§ 11](lov/1967-02-10/§11) og forskrifter gitt i medhold av den, ogadgangen til å få tilkjent sakskostnader etter [§ 36](lov/1967-02-10/§36).
+I tillegg til veiledningen etter tredje ledd skal underretningen om enkeltvedtak til sakens parter opplyse om følgende når forholdene gir grunn til det:
+
+1. adgangen til å søke fritt rettsråd,
+2. forvaltningsorganenes veiledningsplikt etter [§ 11](lov/1967-02-10/§11) og forskrifter gitt i medhold av den, og
+3. adgangen til å få tilkjent sakskostnader etter [§ 36](lov/1967-02-10/§36).
 
 > Endret ved lover [19 juni 1969 nr. 54](lov/1969-06-19-54), [27 mai 1977 nr. 40](lov/1977-05-27-40) (i kraft 1 jan 1978 iflg. [res. 16 des 1977 nr. 9](forskrift/1977-12-16-9)), [12 jan 1995 nr. 4](lov/1995-01-12-4) (ikr. 1 apr 1995), [21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)), [1 aug 2003 nr. 86](lov/2003-08-01-86) (ikr. 1 okt 2003 iflg. [res. 1 aug 2003 nr. 991](forskrift/2003-08-01-991)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [14 juni 2013 nr. 42](lov/2013-06-14-42) (ikr. 7 feb 2014 iflg. [res. 7 feb 2014 nr. 101](forskrift/2014-02-07-101)).
 
@@ -444,7 +525,14 @@ Enkeltvedtak kan påklages av en part eller annen med rettslig klageinteresse i 
 
 For enkeltvedtak som er truffet av forvaltningsorgan opprettet i medhold av lov om kommuner og fylkeskommuner, er klageinstansen kommunestyret eller fylkestinget, eller etter disses bestemmelse, formannskapet eller fylkesutvalget eller en eller flere særskilte klagenemnder oppnevnt av kommunestyret eller fylkestinget. For enkeltvedtak som er truffet av egne rettssubjekter som har fått overført myndighet fra kommunen eller fylkeskommunen, er klageinstansen én eller flere særskilte klagenemnder som er oppnevnt av det øverste organet i rettssubjektet. Departementet er likevel klageinstans når vedtak er truffet av kommunestyret eller fylkestinget eller av det øverste organet i et eget rettssubjekt som har fått overført myndighet fra kommunen eller fylkeskommunen. Vedkommende statlige organ er klageinstans når vedtak er truffet i henhold til myndighet delegert fra et statlig forvaltningsorgan.
 
-Med mindre Kongen bestemmer annerledes, kan klageinstansens vedtak i klagesak ikke påklages. Klageinstansens vedtak om å avvise klagen kan likevel påklages, unntatt:når også underinstansen traff vedtak om å avvise klagen,når underinstansen har prøvd avvisningsspørsmålet og kommet til at vilkårene for realitetsbehandling er til stede,når Kongen vil være klageinstans,når klagen er avvist av en uavhengig klagenemnd.Er det klagerett over et vedtak om å avvise en klage som er truffet av et kommunalt eller fylkeskommunalt organ som klageinstans, går klagen til statsforvalteren.
+Med mindre Kongen bestemmer annerledes, kan klageinstansens vedtak i klagesak ikke påklages. Klageinstansens vedtak om å avvise klagen kan likevel påklages, unntatt:
+
+1. når også underinstansen traff vedtak om å avvise klagen,
+2. når underinstansen har prøvd avvisningsspørsmålet og kommet til at vilkårene for realitetsbehandling er til stede,
+3. når Kongen vil være klageinstans,
+4. når klagen er avvist av en uavhengig klagenemnd.
+
+Er det klagerett over et vedtak om å avvise en klage som er truffet av et kommunalt eller fylkeskommunalt organ som klageinstans, går klagen til statsforvalteren.
 
 For særskilte saksområder kan Kongen fastsette klageregler som utfyller eller avviker fra reglene i dette kapittel. Forskrift som begrenser klageretten eller som ellers vesentlig endrer reglene til skade for partsinteresser, kan bare gis når tungtveiende grunner taler for det.
 
@@ -468,7 +556,10 @@ For at klage skal være fremsatt i tide, er det nok at erklæringen før utløpe
 
 ### § 31. (oversitting av klagefristen).
 
-Selv om klageren har oversittet klagefristen, kan klagen tas under behandling såframtparten eller hans fullmektig ikke kan lastes for å ha oversittet fristen eller for å ha drøyd med klage etterpå, ellerdet av særlige grunner er rimelig at klagen blir prøvd.
+Selv om klageren har oversittet klagefristen, kan klagen tas under behandling såframt
+
+1. parten eller hans fullmektig ikke kan lastes for å ha oversittet fristen eller for å ha drøyd med klage etterpå, eller
+2. det av særlige grunner er rimelig at klagen blir prøvd.
 
 Ved vurderingen av om klagen bør tas opp til behandling, skal det også legges vekt på om endring av vedtaket kan medføre skade eller ulempe for andre.
 
@@ -478,7 +569,12 @@ Klagen kan ikke tas under behandling som klagesak dersom det er gått mer enn et
 
 ### § 32. (klagens adressat, form og innhold).
 
-Erklæring om klage skal:fremsettes for det forvaltningsorgan som har truffet vedtaket; dersom muntlig klage er tillatt, skal erklæringen settes opp skriftlig av vedkommende forvaltningsorgan;være undertegnet av klageren eller hans fullmektig eller være autentisert som fastsatt i forskrift, eller i medhold av forskrift, jf. [§ 15 a](lov/1967-02-10/§15a);nevne det vedtak som det klages over, og om påkrevet gi opplysninger til bedømmelse av klagerett og av om klagefrist er overholdt;nevne den endring som ønskes i det vedtak det klages over.
+Erklæring om klage skal:
+
+1. fremsettes for det forvaltningsorgan som har truffet vedtaket; dersom muntlig klage er tillatt, skal erklæringen settes opp skriftlig av vedkommende forvaltningsorgan;
+2. være undertegnet av klageren eller hans fullmektig eller være autentisert som fastsatt i forskrift, eller i medhold av forskrift, jf. [§ 15 a](lov/1967-02-10/§15a);
+3. nevne det vedtak som det klages over, og om påkrevet gi opplysninger til bedømmelse av klagerett og av om klagefrist er overholdt;
+4. nevne den endring som ønskes i det vedtak det klages over.
 
 Erklæringene bør også nevne de grunner klagen støtter seg til.
 
@@ -514,7 +610,11 @@ Klageinstansen kan selv treffe nytt vedtak i saken eller oppheve det og sende sa
 
 ### § 35. (omgjøring av vedtak uten klage).
 
-Et forvaltningsorgan kan omgjøre sitt eget vedtak uten at det er påklaget dersomendringen ikke er til skade for noen som vedtaket retter seg mot eller direkte tilgodeser ellerunderretning om vedtaket ikke er kommet fram til vedkommende og vedtaket heller ikke er offentlig kunngjort, ellervedtaket må anses ugyldig.
+Et forvaltningsorgan kan omgjøre sitt eget vedtak uten at det er påklaget dersom
+
+1. endringen ikke er til skade for noen som vedtaket retter seg mot eller direkte tilgodeser eller
+2. underretning om vedtaket ikke er kommet fram til vedkommende og vedtaket heller ikke er offentlig kunngjort, eller
+3. vedtaket må anses ugyldig.
 
 Foreligger vilkårene etter første ledd, kan vedtaket omgjøres også av klageinstansen eller av annet overordnet organ.
 
@@ -548,7 +648,11 @@ Offentlige og private institusjoner og organisasjoner for de erverv, fag eller i
 
 Forvaltningsorganet bestemmer på hvilken måte forhåndsvarslingen skal foregå og kan sette frist for å gi uttalelse.
 
-Forhåndsvarsling kan unnlates forsåvidt den:ikke vil være praktisk gjennomførlig, ellerkan vanskeliggjøre gjennomføring av forskriften eller svekke dens effektivitet, ellermå anses åpenbart unødvendig.
+Forhåndsvarsling kan unnlates forsåvidt den:
+
+1. ikke vil være praktisk gjennomførlig, eller
+2. kan vanskeliggjøre gjennomføring av forskriften eller svekke dens effektivitet, eller
+3. må anses åpenbart unødvendig.
 
 Uttalelser skal gis skriftlig. Forvaltningsorganet kan i den enkelte sak samtykke i at uttalelse gis muntlig. Når saken egner sig for det, kan forvaltningsorganet bestemme at forhandlinger om saken skal foregå i møte.
 
@@ -556,7 +660,12 @@ Uttalelser skal gis skriftlig. Forvaltningsorganet kan i den enkelte sak samtykk
 
 ### § 38. (formkrav og kunngjøring).
 
-En forskrift skal:inneholde en uttrykkelig henvisning til den eller de bestemmelser som gir forvaltningsorganet hjemmel til å utferdige forskriften, og en henvisning i samsvar med [EØS-høringsloven § 12](lov/2004-12-17-101/§12) hvis forskriften inneholder tekniske regler i henhold til nevnte lov.nevne det forvaltningsorgan som har gitt forskriften;kunngjøres i Norsk Lovtidend;i kunngjøringen betegnes som forskrift.
+En forskrift skal:
+
+1. inneholde en uttrykkelig henvisning til den eller de bestemmelser som gir forvaltningsorganet hjemmel til å utferdige forskriften, og en henvisning i samsvar med [EØS-høringsloven § 12](lov/2004-12-17-101/§12) hvis forskriften inneholder tekniske regler i henhold til nevnte lov.
+2. nevne det forvaltningsorgan som har gitt forskriften;
+3. kunngjøres i Norsk Lovtidend;
+4. i kunngjøringen betegnes som forskrift.
 
 Når praktiske hensyn gjør det hensiktsmessig, kan kunngjøringen begrenses til en kort omtale av forskriften med opplysning om hvor teksten kan fåes eller finnes.
 
@@ -630,7 +739,17 @@ Administrativt rettighetstap kan bare ilegges så langt det etter overtredelsens
 
 Når det er fastsatt i lov at det kan ilegges administrativ sanksjon overfor et foretak, er skyldkravet uaktsomhet med mindre noe annet er bestemt. Med foretak menes selskap, samvirkeforetak, forening eller annen sammenslutning, enkeltpersonforetak, stiftelse, bo eller offentlig virksomhet.
 
-Ved avgjørelsen av om et foretak skal ilegges administrativ sanksjon og ved individuell utmåling av sanksjonen kan det blant annet tas hensyn tilsanksjonens preventive virkningovertredelsens grovhet, og om noen som handler på vegne av foretaket, har utvist skyldom foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsenom overtredelsen er begått for å fremme foretakets interesserom foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsenom det foreligger gjentakelseforetakets økonomiske evneom andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av det, blant annet om noen enkeltperson blir ilagt administrativ sanksjon eller straffom overenskomst med fremmed stat eller internasjonal organisasjon forutsetter bruk av administrativ foretakssanksjon eller foretaksstraff.
+Ved avgjørelsen av om et foretak skal ilegges administrativ sanksjon og ved individuell utmåling av sanksjonen kan det blant annet tas hensyn til
+
+1. sanksjonens preventive virkning
+2. overtredelsens grovhet, og om noen som handler på vegne av foretaket, har utvist skyld
+3. om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen
+4. om overtredelsen er begått for å fremme foretakets interesser
+5. om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen
+6. om det foreligger gjentakelse
+7. foretakets økonomiske evne
+8. om andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av det, blant annet om noen enkeltperson blir ilagt administrativ sanksjon eller straff
+9. om overenskomst med fremmed stat eller internasjonal organisasjon forutsetter bruk av administrativ foretakssanksjon eller foretaksstraff.
 
 > Tilføyd ved lov [27 mai 2016 nr. 15](lov/2016-05-27-15) (ikr. 1 juli 2017 iflg. [res. 9 juni 2017 nr. 713](forskrift/2017-06-09-713)), endret ved lov [17 juni 2022 nr. 63](lov/2022-06-17-63) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1070](forskrift/2022-06-17-1070)).
 

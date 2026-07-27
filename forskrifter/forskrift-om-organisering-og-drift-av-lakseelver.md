@@ -148,7 +148,10 @@ Interimstyret skal både fremme forslag til vedtekter for fellesforvaltningen, f
 
 ### Til § 6
 
-I utgangspunktet skal andelsberegningen foretas slik at fangst (kg siste 5 år) utgjør 75 % og meter elvestrekning 25 %, jf. vedlegg 2 Eksempel på andelsberegning. Hvis en slik fordeling framstår som uhensiktsmessig bør rettighetshaverne ha mulighet til å bruke en annen fordeling av andeler. Det er lagt opp til to unntaksvarianter:En annen andelsfordeling kan legges til grunn dersom alle rettighetshaverne er enige om det.I godt organiserte vassdrag som allerede har fastsatt andelene etter andre kriterier enn de som fremgår av bestemmelsene, kan andelsfordelingen videreføres i henhold til prosedyre beskrevet i [§ 3](forskrift/2013-06-25-761/§3), nest siste ledd.
+I utgangspunktet skal andelsberegningen foretas slik at fangst (kg siste 5 år) utgjør 75 % og meter elvestrekning 25 %, jf. vedlegg 2 Eksempel på andelsberegning. Hvis en slik fordeling framstår som uhensiktsmessig bør rettighetshaverne ha mulighet til å bruke en annen fordeling av andeler. Det er lagt opp til to unntaksvarianter:
+
+1. En annen andelsfordeling kan legges til grunn dersom alle rettighetshaverne er enige om det.
+2. I godt organiserte vassdrag som allerede har fastsatt andelene etter andre kriterier enn de som fremgår av bestemmelsene, kan andelsfordelingen videreføres i henhold til prosedyre beskrevet i [§ 3](forskrift/2013-06-25-761/§3), nest siste ledd.
 
 Andelsfordelingen bør videre kunne bringes inn for jordskiftedomstolene for avgjørelse enten alene eller gjennom full bruksordning. Jordskifteretten bør etter departementets vurdering ikke være bundet av kriteriene som legges til grunn for andelsberegningen (75 % fangst og 25 % elvestrekning), men stå fritt til å vurdere på objektivt grunnlag hvilken fordeling som er mest hensiktsmessig.
 

@@ -34,7 +34,13 @@ Med pasientnært arbeid menes i denne forskriften arbeid i form av vurdering og 
 
 ## § 3. Særlige vilkår for søker som har autorisasjon som enten ambulansearbeider eller sykepleier
 
-Søker har rett til autorisasjon som paramedisiner etter [helsepersonelloven](lov/1999-07-02-64) dersom søker innen 1. januar 2030:har autorisasjon som enten ambulansearbeider eller sykepleierhar bestått videreutdanning i paramedisin med 60 studiepoeng eller master i prehospitale tjenester med 120 studiepoeng, som ble påbegynt før denne forskriften trådte i krafthar oppnådd minimum 5 års yrkeserfaring fra prehospital tjeneste i 100 prosent stilling eller tilsvarende omfang i deltidsstilling, etter tildelt autorisasjon som ambulansearbeider eller sykepleierhar minimum 50 prosent av yrkeserfaringen etter bokstav c fra pasientnært arbeid oghar gjennomført minimum 50 prosent av yrkeserfaringen etter bokstav c etter bestått videreutdanning, dersom søker har bestått videreutdanning i paramedisin.
+Søker har rett til autorisasjon som paramedisiner etter [helsepersonelloven](lov/1999-07-02-64) dersom søker innen 1. januar 2030:
+
+1. har autorisasjon som enten ambulansearbeider eller sykepleier
+2. har bestått videreutdanning i paramedisin med 60 studiepoeng eller master i prehospitale tjenester med 120 studiepoeng, som ble påbegynt før denne forskriften trådte i kraft
+3. har oppnådd minimum 5 års yrkeserfaring fra prehospital tjeneste i 100 prosent stilling eller tilsvarende omfang i deltidsstilling, etter tildelt autorisasjon som ambulansearbeider eller sykepleier
+4. har minimum 50 prosent av yrkeserfaringen etter bokstav c fra pasientnært arbeid og
+5. har gjennomført minimum 50 prosent av yrkeserfaringen etter bokstav c etter bestått videreutdanning, dersom søker har bestått videreutdanning i paramedisin.
 
 Søker må i tillegg oppfylle vilkårene etter [helsepersonelloven § 48](lov/1999-07-02-64/§48) andre ledd.
 
@@ -42,7 +48,11 @@ For søker som er i permisjon eller har annet fravær fra utdanning eller tjenes
 
 ## § 4. Særlige vilkår for søker som har autorisasjon som både ambulansearbeider og sykepleier
 
-Søker har rett til autorisasjon som paramedisiner etter [helsepersonelloven](lov/1999-07-02-64) dersom søker innen 1. januar 2030:har autorisasjon som både ambulansearbeider og sykepleierhar oppnådd minimum 5 års yrkeserfaring fra prehospital tjeneste i 100 prosent stilling eller tilsvarende omfang i deltidsstilling, etter tildelt autorisasjon som både ambulansearbeider og sykepleier. Yrkeserfaringen må være oppnådd i løpet av de siste 10 årene.har minimum 50 prosent av yrkeserfaringen etter bokstav b fra pasientnært arbeid der søker har arbeidet selvstendig og utført selvstendige helsefaglige beslutninger om pasientbehandling og legemiddeladministrasjon, f.eks. selvstendig vurdering og beslutning om videre henvisning av pasient til annet helsepersonell, administrasjon av legemidler, og sikring av luftveier.
+Søker har rett til autorisasjon som paramedisiner etter [helsepersonelloven](lov/1999-07-02-64) dersom søker innen 1. januar 2030:
+
+1. har autorisasjon som både ambulansearbeider og sykepleier
+2. har oppnådd minimum 5 års yrkeserfaring fra prehospital tjeneste i 100 prosent stilling eller tilsvarende omfang i deltidsstilling, etter tildelt autorisasjon som både ambulansearbeider og sykepleier. Yrkeserfaringen må være oppnådd i løpet av de siste 10 årene.
+3. har minimum 50 prosent av yrkeserfaringen etter bokstav b fra pasientnært arbeid der søker har arbeidet selvstendig og utført selvstendige helsefaglige beslutninger om pasientbehandling og legemiddeladministrasjon, f.eks. selvstendig vurdering og beslutning om videre henvisning av pasient til annet helsepersonell, administrasjon av legemidler, og sikring av luftveier.
 
 Søker må i tillegg oppfylle vilkårene etter [helsepersonelloven § 48](lov/1999-07-02-64/§48) andre ledd.
 

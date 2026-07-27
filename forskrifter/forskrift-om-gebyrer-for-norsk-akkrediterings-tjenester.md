@@ -30,7 +30,10 @@ Forskriften fastsetter gebyr for Norsk akkrediterings myndighetsutøvelse for be
 
 ### § 2. Definisjoner
 
-I forskriften menes med*Akkreditering:* en uavhengig vurdering av en virksomhets kompetanse, integritet og uavhengighet. Vurderingen innbefatter virksomhetens evne og vilje til å utføre angitte oppgaver i samsvar med gitte krav i internasjonale akkrediteringsstandarder.*Innleid personell:* ekspertise som Norsk akkreditering leier inn til å delta i eller lede enkeltoppdrag.
+I forskriften menes med
+
+1. *Akkreditering:* en uavhengig vurdering av en virksomhets kompetanse, integritet og uavhengighet. Vurderingen innbefatter virksomhetens evne og vilje til å utføre angitte oppgaver i samsvar med gitte krav i internasjonale akkrediteringsstandarder.
+2. *Innleid personell:* ekspertise som Norsk akkreditering leier inn til å delta i eller lede enkeltoppdrag.
 
 ### § 3. Gebyrtyper
 

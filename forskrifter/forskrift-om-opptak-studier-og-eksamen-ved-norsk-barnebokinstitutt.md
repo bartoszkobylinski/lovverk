@@ -15,7 +15,7 @@ xml_hash: "584916f183e00d3d39a98ec908155289f4733b620a9086fea7577d6a7dbf4d19"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,15 @@ eu_basis: []
 
 ### § 1-2. Definisjoner
 
-I denne forskrift menes med:*Forfatterutdanningen:* Forfatterutdanningen ved Norsk barnebokinstitutt. Utdanning i skrivekunst og litteraturformidling.*Klagenemnd:* Felles klagenemnd for Skrivekunstakademiet og Norsk barnebokinstitutt.*Opptaksforskriften:* [Forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning.*Samtidslitteraturstudiet:* Samtidslitteratur for barn og unge. Nettbasert videreutdanning for litteraturformidlere.*Utdanningsinstitusjonen:* Norsk barnebokinstitutt.*Mastergradsforskriften:* [Forskrift 1. desember 2005 nr. 1392](forskrift/2005-12-01-1392) om krav til mastergrad.*Masterstudiet:* Masterstudium i barne- og ungdomslitterær skrivekunst og formidling.
+I denne forskrift menes med:
+
+1. *Forfatterutdanningen:* Forfatterutdanningen ved Norsk barnebokinstitutt. Utdanning i skrivekunst og litteraturformidling.
+2. *Klagenemnd:* Felles klagenemnd for Skrivekunstakademiet og Norsk barnebokinstitutt.
+3. *Opptaksforskriften:* [Forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning.
+4. *Samtidslitteraturstudiet:* Samtidslitteratur for barn og unge. Nettbasert videreutdanning for litteraturformidlere.
+5. *Utdanningsinstitusjonen:* Norsk barnebokinstitutt.
+6. *Mastergradsforskriften:* [Forskrift 1. desember 2005 nr. 1392](forskrift/2005-12-01-1392) om krav til mastergrad.
+7. *Masterstudiet:* Masterstudium i barne- og ungdomslitterær skrivekunst og formidling.
 
 > Endret ved forskrift [23 mai 2024 nr. 967](forskrift/2024-05-23-967) (i kraft 1 aug 2024).
 
@@ -40,7 +48,11 @@ I denne forskrift menes med:*Forfatterutdanningen:* Forfatterutdanningen ved Nor
 
 ### § 2-1. Opptak
 
-(1) Opptak til Norsk barnebokinstitutt skjer lokalt, og etter følgende intervaller:*Samtidslitteraturstudiet:* hvert år med studiestart ved høstsemesterets begynnelse.*Forfatterutdanningen:* annethvert år med studiestart ved høstsemesterets begynnelse.*Masterstudiet:* annethvert år med studiestart ved høstsemesterets begynnelse.
+(1) Opptak til Norsk barnebokinstitutt skjer lokalt, og etter følgende intervaller:
+
+1. *Samtidslitteraturstudiet:* hvert år med studiestart ved høstsemesterets begynnelse.
+2. *Forfatterutdanningen:* annethvert år med studiestart ved høstsemesterets begynnelse.
+3. *Masterstudiet:* annethvert år med studiestart ved høstsemesterets begynnelse.
 
 (2) Studier ved utdanningsinstitusjonen er adgangsregulert av kapasitets- og ressurshensyn. Styret fastsetter årlig opptaksrammer for de enkelte studier. Styret har fullmakt til å justere opptaksrammene underveis i opptaksarbeidet.
 
@@ -48,9 +60,25 @@ I denne forskrift menes med:*Forfatterutdanningen:* Forfatterutdanningen ved Nor
 
 (1) Opptak til Samtidslitteraturstudiet krever at søker på søknadstidspunktet har oppnådd en utdanning som kvalifiserer til arbeid med barne- og ungdomslitteratur eller formidling av slik litteratur.
 
-(2) Eksempler på godkjent utdanning er:bibliotekarstudier,litteraturstudier,lærerstudier,formidlingsstudier,pedagogikkstudier, ellerandre relevante fag.
+(2) Eksempler på godkjent utdanning er:
 
-(3) Søknad om opptak skal inneholde:Søknadsbrev der søker gjør rede for:behovet for økt kompetanse,muligheten til å gjennomføre utdanningen,målsettingen med studiet, ogmotivasjonen for utdanningen, ogCV med opplysninger om søker, så som alder, yrke, adresse, telefon og e-postadresse, samt opplysninger om relevant utdanning og arbeidserfaring, ogVitnemål, attester og annen relevant dokumentasjon på utdanning og arbeidserfaring.
+1. bibliotekarstudier,
+2. litteraturstudier,
+3. lærerstudier,
+4. formidlingsstudier,
+5. pedagogikkstudier, eller
+6. andre relevante fag.
+
+(3) Søknad om opptak skal inneholde:
+
+1. Søknadsbrev der søker gjør rede for:
+
+   1. behovet for økt kompetanse,
+   2. muligheten til å gjennomføre utdanningen,
+   3. målsettingen med studiet, og
+   4. motivasjonen for utdanningen, og
+2. CV med opplysninger om søker, så som alder, yrke, adresse, telefon og e-postadresse, samt opplysninger om relevant utdanning og arbeidserfaring, og
+3. Vitnemål, attester og annen relevant dokumentasjon på utdanning og arbeidserfaring.
 
 ### § 2-3. Saksbehandling ved opptak til Samtidslitteraturstudiet
 
@@ -70,9 +98,24 @@ I denne forskrift menes med:*Forfatterutdanningen:* Forfatterutdanningen ved Nor
 
 (2) Før vedtak om opptak kan fattes, må søker i tillegg ha bestått opptaksprøve fastsatt av utdanningsinstitusjonen. Opptaksprøven består av en skriftlig og en muntlig del. Den skriftlige delen besvares og vedlegges søknaden. Den muntlige delen avholdes i samsvar med [§ 2-5](forskrift/2020-02-13-688/§2-5) fjerde og femte ledd.
 
-(3) Søknad om opptak skal inneholde:Søknadsbrev der søker gjør rede for:behovet for økt kompetanse,muligheten til å gjennomføre utdanningen,målsettingen med studiet, ogmotivasjonen for utdanningen, ogCV med opplysninger om søker, så som alder, yrke, adresse, telefon og e-postadresse, samt opplysninger om relevant utdanning og arbeidserfaring, ogDen skriftlige delen av opptaksprøven, ogVitnemål, attester og annen relevant dokumentasjon på utdanning og arbeidserfaring.
+(3) Søknad om opptak skal inneholde:
 
-(4) Den skriftlige delen av opptaksprøven skal bestå av en original tekst utformet av søkeren og ikke tidligere utgitt. Teksten kan ha form av:Enten: Én til tre prosatekster for barn eller ungdom av skjønn- eller faglitterær art, til sammen ca. 15 sider,Eller: Poesi for barn eller ungdom, til sammen ca. ti sider,Eller: Scenetekst for barn eller ungdom, til sammen ca. 12 sider,Eller: En blanding av poesi og prosa for barn eller ungdom, til sammen ca. 15 sider.
+1. Søknadsbrev der søker gjør rede for:
+
+   1. behovet for økt kompetanse,
+   2. muligheten til å gjennomføre utdanningen,
+   3. målsettingen med studiet, og
+   4. motivasjonen for utdanningen, og
+2. CV med opplysninger om søker, så som alder, yrke, adresse, telefon og e-postadresse, samt opplysninger om relevant utdanning og arbeidserfaring, og
+3. Den skriftlige delen av opptaksprøven, og
+4. Vitnemål, attester og annen relevant dokumentasjon på utdanning og arbeidserfaring.
+
+(4) Den skriftlige delen av opptaksprøven skal bestå av en original tekst utformet av søkeren og ikke tidligere utgitt. Teksten kan ha form av:
+
+1. Enten: Én til tre prosatekster for barn eller ungdom av skjønn- eller faglitterær art, til sammen ca. 15 sider,
+2. Eller: Poesi for barn eller ungdom, til sammen ca. ti sider,
+3. Eller: Scenetekst for barn eller ungdom, til sammen ca. 12 sider,
+4. Eller: En blanding av poesi og prosa for barn eller ungdom, til sammen ca. 15 sider.
 
 > Endret ved forskrifter [20 mai 2021 nr. 4001](forskrift/2021-05-20-4001), [23 mai 2024 nr. 967](forskrift/2024-05-23-967) (i kraft 1 aug 2024).
 
@@ -84,7 +127,10 @@ I denne forskrift menes med:*Forfatterutdanningen:* Forfatterutdanningen ved Nor
 
 (3) Søkere som oppfyller de formelle kravene går videre til opptaksrundens annen del. I annen del vurderer opptakskomiteen skrivekunstnerisk talent i den skriftlige delen av opptaksprøven, og foretar en rangering utelukkende på denne bakgrunn.
 
-(4) De søkerne som rangeres høyest etter tredje ledd, går videre til opptaksprøvens muntlige del. Den muntlige delen utføres av opptakskomiteen som intervju med søkeren. I vurderingen av intervjuet vektlegges:søkerens personlige egnethet i form av motivasjon og vilje til å arbeide med studiet, ogsøkerens mulighet for å sette av tilstrekkelig med tid for å gjennomføre studiet.
+(4) De søkerne som rangeres høyest etter tredje ledd, går videre til opptaksprøvens muntlige del. Den muntlige delen utføres av opptakskomiteen som intervju med søkeren. I vurderingen av intervjuet vektlegges:
+
+1. søkerens personlige egnethet i form av motivasjon og vilje til å arbeide med studiet, og
+2. søkerens mulighet for å sette av tilstrekkelig med tid for å gjennomføre studiet.
 
 (5) Som grunnlag for opptakskomiteens og søkerens forberedelser til intervjuet legges søknadsbrevet etter [§ 2-4](forskrift/2020-02-13-688/§2-4) tredje ledd bokstav a til grunn.
 
@@ -100,7 +146,18 @@ I denne forskrift menes med:*Forfatterutdanningen:* Forfatterutdanningen ved Nor
 
 (2) Opptak skjer etter skriftlig søknad og opptaksprøve. Den skriftlige søknaden skal inkludere søknadsbrev og CV. Søknadsbrevet skal opplyse om motivasjon for egen skriving og motivasjon for formidling. CV skal minst opplyse om tidligere utdanning, skriveerfaring og formidlingserfaring.
 
-(3) Skriftlig søknad om opptak skal inneholde:Søknadsbrev der søker gjør rede for:motivasjon for egen skriving,motivasjon for formidling,CV med opplysninger om søker, så som alder, yrke, adresse, telefon og e-postadresse, samt opplysninger om arbeidserfaring, ogtidligere utdanning,tidligere skriveerfaring, ogtidligere formidlingserfaringVitnemål, attester og annen relevant dokumentasjon på utdanning og erfaring.
+(3) Skriftlig søknad om opptak skal inneholde:
+
+1. Søknadsbrev der søker gjør rede for:
+
+   1. motivasjon for egen skriving,
+   2. motivasjon for formidling,
+2. CV med opplysninger om søker, så som alder, yrke, adresse, telefon og e-postadresse, samt opplysninger om arbeidserfaring, og
+
+   1. tidligere utdanning,
+   2. tidligere skriveerfaring, og
+   3. tidligere formidlingserfaring
+3. Vitnemål, attester og annen relevant dokumentasjon på utdanning og erfaring.
 
 (4) Opptaksprøven er todelt. Første del sendes inn sammen med søknaden og består av egen kunstnerisk tekst som skal være på ca. 15 sider og ikke tidligere er utgitt samt en beskrivelse av et formidlingsopplegg for barn på 3–5 sider. Formidlingsopplegget kan være avholdt, men det er ikke et krav.
 
@@ -158,11 +215,25 @@ I denne forskrift menes med:*Forfatterutdanningen:* Forfatterutdanningen ved Nor
 
 ### § 3-1. Rett til avlegging av eksamen
 
-Studenter som er tatt opp til studier etter [kapittel II](forskrift/2020-02-13-688/kapii) har adgang til å avlegge eksamen dersom:Studenten har betalt studieavgift for alle gjennomførte semestre på studiet,Studenten har meldt seg opp til eksamen innen tidsfrist angitt av utdanningsinstitusjonen, ogStudenten har oppfylt arbeidskravene til studiet angitt av utdanningsinstitusjonen.
+Studenter som er tatt opp til studier etter [kapittel II](forskrift/2020-02-13-688/kapii) har adgang til å avlegge eksamen dersom:
+
+1. Studenten har betalt studieavgift for alle gjennomførte semestre på studiet,
+2. Studenten har meldt seg opp til eksamen innen tidsfrist angitt av utdanningsinstitusjonen, og
+3. Studenten har oppfylt arbeidskravene til studiet angitt av utdanningsinstitusjonen.
 
 ### § 3-2. Eksamensformer
 
-Følgende eksamensformer kan tas i bruk:gruppeopplegg og foredrag,mappeinnlevering,muntlig prøve,skriftlig hjemmeoppgave,semesteroppgave,formidlingsopplegg,undervisningsopplegg,masterprosjekt,samtale mellom student og eksamenskommisjon.
+Følgende eksamensformer kan tas i bruk:
+
+1. gruppeopplegg og foredrag,
+2. mappeinnlevering,
+3. muntlig prøve,
+4. skriftlig hjemmeoppgave,
+5. semesteroppgave,
+6. formidlingsopplegg,
+7. undervisningsopplegg,
+8. masterprosjekt,
+9. samtale mellom student og eksamenskommisjon.
 
 ### § 3-3. Gruppeopplegg og foredrag
 

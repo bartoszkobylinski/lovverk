@@ -54,7 +54,12 @@ Kandidater må godtgjøre å ha utført 2 års sammenhengende praktisk tjeneste 
 
 ### § 5-2. Godkjenning av turnusplass
 
-For godkjenning av ortopediteknisk verksted som tjenestested for praktisk tjeneste kreves det at:verkstedet blir ledet av ortopediingeniør med norsk autorisasjon,verkstedet har tilfredsstillende samarbeid med lege. Samarbeidet skal omfatte forskrivning og kontroll av hjelpemidlene, og trening i bruk av slike ortopediske hjelpemidler som krever inntrening,verkstedet som ledd i dette samarbeidet også har tilfredsstillende samarbeide med terapeut (fysioterapeut, ergoterapeut), terapeutisk avdeling eller annen instans for tilfredsstillende trening og atverkstedet gir turnuskandidaten slikt arbeid og slike arbeidsvilkår som nevnt i [§ 5-3](forskrift/2000-12-21-1382/§5-3), [§ 5-4](forskrift/2000-12-21-1382/§5-4) og [§ 5-5](forskrift/2000-12-21-1382/§5-5).
+For godkjenning av ortopediteknisk verksted som tjenestested for praktisk tjeneste kreves det at:
+
+1. verkstedet blir ledet av ortopediingeniør med norsk autorisasjon,
+2. verkstedet har tilfredsstillende samarbeid med lege. Samarbeidet skal omfatte forskrivning og kontroll av hjelpemidlene, og trening i bruk av slike ortopediske hjelpemidler som krever inntrening,
+3. verkstedet som ledd i dette samarbeidet også har tilfredsstillende samarbeide med terapeut (fysioterapeut, ergoterapeut), terapeutisk avdeling eller annen instans for tilfredsstillende trening og at
+4. verkstedet gir turnuskandidaten slikt arbeid og slike arbeidsvilkår som nevnt i [§ 5-3](forskrift/2000-12-21-1382/§5-3), [§ 5-4](forskrift/2000-12-21-1382/§5-4) og [§ 5-5](forskrift/2000-12-21-1382/§5-5).
 
 I forbindelse med godkjenning av tjenestested kan Helsedirektoratet fastsette det antall turnuskandidater som tjenestestedet maksimalt kan ha til enhver tid.
 

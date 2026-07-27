@@ -36,7 +36,10 @@ Føremålet med fylkeskommunale prosjekt og tilskot skal bidra til måloppnåing
 
 Mobiliseringsordninga skal betre tilgangen på kompetent arbeidskraft i distrikta.
 
-Måloppnåing skal bli vurdert etter følgjande kriterium:auka mobilisering av tilsette i offentlege og private verksemder, og dei som i dag står utanfor arbeidslivet, til utdanning og kompetanseutviklingstyrkt regional koordinering og samarbeid for å kvalifisere og mobilisere fleire til utdanning og kompetanseutvikling.
+Måloppnåing skal bli vurdert etter følgjande kriterium:
+
+1. auka mobilisering av tilsette i offentlege og private verksemder, og dei som i dag står utanfor arbeidslivet, til utdanning og kompetanseutvikling
+2. styrkt regional koordinering og samarbeid for å kvalifisere og mobilisere fleire til utdanning og kompetanseutvikling.
 
 Verkeområde for midlar under dette føremålet er heile landet, med unntak av Oslo kommune.
 
@@ -46,11 +49,22 @@ Private og offentlege verksemder, stiftingar og organisasjonar som er registrert
 
 ### § 4. Krav til innhald i søknaden
 
-Søknaden må innehalde følgjande opplysningar om søkjar og økonomi:namn på søkjar og organisasjonsnummerkontaktperson, administrativt ansvarleg eller prosjektleiarbeløp på tilskot det blir søkt ombeskriving av prosjektet som det blir søkt om midlar tileit spesifisert og kostnadseffektivt budsjett og finansieringsplan.
+Søknaden må innehalde følgjande opplysningar om søkjar og økonomi:
+
+1. namn på søkjar og organisasjonsnummer
+2. kontaktperson, administrativt ansvarleg eller prosjektleiar
+3. beløp på tilskot det blir søkt om
+4. beskriving av prosjektet som det blir søkt om midlar til
+5. eit spesifisert og kostnadseffektivt budsjett og finansieringsplan.
 
 Eit prosjekt er her definert som ein konkret eller avgrensa innsats for å oppnå eit bestemt mål innanfor ei planlagt tids- og ressursramme.
 
-Søknaden må innehalde følgjande omtale av prosjektet og forventa resultat:omtale av mål og målgrupperei oversikt over samarbeidspartnerar og deira bidraggjennomføringsplan for prosjektet, inkludert ressursbruk og tidsplanforventa resultat vurdert opp mot kriteria for måloppnåing, jf. [§ 2](forskrift/2025-04-02-576/§2).
+Søknaden må innehalde følgjande omtale av prosjektet og forventa resultat:
+
+1. omtale av mål og målgrupper
+2. ei oversikt over samarbeidspartnerar og deira bidrag
+3. gjennomføringsplan for prosjektet, inkludert ressursbruk og tidsplan
+4. forventa resultat vurdert opp mot kriteria for måloppnåing, jf. [§ 2](forskrift/2025-04-02-576/§2).
 
 Søkjar skal sende inn søknad om tilskot i regionalforvaltning.no. Tilskotsforvaltar fastset søknadsfrist. Søknader som kjem inn etter fristen kan bli avviste.
 
@@ -68,7 +82,13 @@ Samla tilskot til eit prosjekt for mobilisering til utdanning og kompetansehevin
 
 Tilskotet må vere innanfor [EØS-avtalen](lov/1992-11-27-109/eøsl) sine reglar om offentleg tilskot. Tilskot utbetalt etter forskrifta skal ikkje kryssubsidiere anna økonomisk aktivitet som kan vri konkurransen eller påverke samhandling i strid med Noregs EØS-forpliktingar.
 
-Midlane kan ikkje finansiere følgjande:kausjon eller annan økonomisk garantirenter og avdrag på lån og refinansiering av gjennomførte prosjektavsetting av midlar til uspesifiserte fondfysiske byggtiltak retta mot ei einskild bedrift.
+Midlane kan ikkje finansiere følgjande:
+
+1. kausjon eller annan økonomisk garanti
+2. renter og avdrag på lån og refinansiering av gjennomførte prosjekt
+3. avsetting av midlar til uspesifiserte fond
+4. fysiske bygg
+5. tiltak retta mot ei einskild bedrift.
 
 ## Kapittel III. Tilskot til studiesenter
 
@@ -76,7 +96,11 @@ Midlane kan ikkje finansiere følgjande:kausjon eller annan økonomisk garantire
 
 Studiesenterordninga skal bidra til at utdanning og kompetanseutvikling blir tilgjengeleg for innbyggjarar og tilsette i verksemder som ikkje kan følgje ordinær undervisning ved dei faste studiestadene som følgje av lange avstandar.
 
-Måloppnåing skal bli vurdert etter følgjande kriterium:auka innsats for etablering av fleire etterspurde fleksible og/eller desentraliserte tilbod om utdanningauka tal på personar som tileignar seg etterspurd kompetansefleire utanfor arbeidslivet får utdanning og kompetanseutvikling.
+Måloppnåing skal bli vurdert etter følgjande kriterium:
+
+1. auka innsats for etablering av fleire etterspurde fleksible og/eller desentraliserte tilbod om utdanning
+2. auka tal på personar som tileignar seg etterspurd kompetanse
+3. fleire utanfor arbeidslivet får utdanning og kompetanseutvikling.
 
 Eit studiesenter er ein fysisk møteplass og læringsmiljø som legg til rette for desentralisert og fleksibel utdanning og kompetanseutvikling i distrikta i samsvar med behova til individ og offentlege og private verksemder. Det er vidaregåande skular, fagskular, høgskular og universitet som er fagleg ansvarleg for tilboda ved studiesentera.
 
@@ -96,11 +120,25 @@ Kommunal- og distriktsdepartementet og tilskotsforvaltar kan be om informasjon f
 
 ### § 9. Krav til innhaldet i søknaden
 
-Søknaden må innehalde følgjande opplysningar om søkjar og økonomi:namn på søkjar og organisasjonsnummerkontaktperson, administrativt ansvarleg eller prosjektleiartilskotsbeløpet det blir søkt ombeskriving av kva det blir søkt om midlar tileit spesifisert og kostnadseffektivt budsjett og ein finansieringsplaninformasjon om regional medfinansiering på minimum 20 prosent og/eller tilsvarande eigeninnsats.
+Søknaden må innehalde følgjande opplysningar om søkjar og økonomi:
+
+1. namn på søkjar og organisasjonsnummer
+2. kontaktperson, administrativt ansvarleg eller prosjektleiar
+3. tilskotsbeløpet det blir søkt om
+4. beskriving av kva det blir søkt om midlar til
+5. eit spesifisert og kostnadseffektivt budsjett og ein finansieringsplan
+6. informasjon om regional medfinansiering på minimum 20 prosent og/eller tilsvarande eigeninnsats.
 
 Aktørar som yter regional medfinansiering etter første ledd bokstav f kan til dømes vere kommunar, fylkeskommunar, stiftelsar og næringsliv. Med eigeninnsats etter første ledd bokstav f meiner ein løn eller timeinnsats, økonomiske bidrag og honorar, samt lokale og utstyr.
 
-Søknaden må òg innehalde følgjande:omtale av mål og målgrupperforventa resultat vurdert opp mot kriteria for måloppnåinggjennomføringsplan inkludert tidsplaneit relevant kunnskapsgrunnlag, frå til dømes fylkeskommunen, som beskriv behova i arbeidsmarknadeninformasjon om at studiesenteret har kapasitet til å oppretthalde og/eller etablere nye studietilbodein underteikna avtale mellom studiesenteret og utdanningsinstitusjon (eller tilbydar(ar)) om å samarbeide om eit desentralisert og/eller fleksibelt utdanningstilbod.
+Søknaden må òg innehalde følgjande:
+
+1. omtale av mål og målgrupper
+2. forventa resultat vurdert opp mot kriteria for måloppnåing
+3. gjennomføringsplan inkludert tidsplan
+4. eit relevant kunnskapsgrunnlag, frå til dømes fylkeskommunen, som beskriv behova i arbeidsmarknaden
+5. informasjon om at studiesenteret har kapasitet til å oppretthalde og/eller etablere nye studietilbod
+6. ein underteikna avtale mellom studiesenteret og utdanningsinstitusjon (eller tilbydar(ar)) om å samarbeide om eit desentralisert og/eller fleksibelt utdanningstilbod.
 
 Den underteikna avtalen etter tredje ledd bokstav f må òg innehalde informasjon om roller og ansvarsfordeling mellom dei involverte aktørane, fakta om dei konkrete tilboda dei vil samarbeide om, samt korleis studiesentera vil legge til rette for studiane for studentane.
 
@@ -110,7 +148,10 @@ Tilskotsforvaltar kan krevje ytterlegare dokumentasjon for å vurdere søknadane
 
 ### § 10. Tildelingskriterium og utmåling av tilskot
 
-Følgjande krav må vere oppfylte:regional medfinansiering på minimum 20 prosent og/eller tilsvarande eigeninnsats, jf. [§ 9 første ledd bokstav f](forskrift/2025-04-02-576/§9/ledd/1/bokstav/f)søkjar må gjere greie for at studiesenteret har kapasitet til å gjennomføre studietilbodet jf. [§ 9 tredje ledd bokstav e](forskrift/2025-04-02-576/§9/ledd/3/bokstav/e).
+Følgjande krav må vere oppfylte:
+
+1. regional medfinansiering på minimum 20 prosent og/eller tilsvarande eigeninnsats, jf. [§ 9 første ledd bokstav f](forskrift/2025-04-02-576/§9/ledd/1/bokstav/f)
+2. søkjar må gjere greie for at studiesenteret har kapasitet til å gjennomføre studietilbodet jf. [§ 9 tredje ledd bokstav e](forskrift/2025-04-02-576/§9/ledd/3/bokstav/e).
 
 Tilskotsforvaltar skal fordele midlane til studiesentera basert på søknadar og prioritere tilskot som i størst mogeleg grad bidrar til måloppnåing jf. [§ 6](forskrift/2025-04-02-576/§6).
 
@@ -118,9 +159,21 @@ Tilskotsforvaltar kan gi tilsegn om tilskot til studiesentera med ei varigheit p
 
 Tilskotet skal berre dekke kostnadar som er naudsynte for gjennomføring og føremålet med ordninga.
 
-Tilskotet kan ikkje finansiere følgjande:kausjon eller annan økonomisk garantirenter og avdrag på lån og refinansiering av gjennomførte studiesentertilbodavsetting av midlar til uspesifiserte fondfysiske bygg.
+Tilskotet kan ikkje finansiere følgjande:
 
-Tilskot kan ikkje finansiere følgjande driftskostnadar:utstyr over ein samla kostnad på 50 000 kronerløn til undervisarar som er finansierte av andre institusjonar og organisasjonarfagleg og pedagogisk utvikling av undervisararoppgåver som utdanningsinstitusjonane har eit eige ansvar forreise- og opphaldskostnadar for studentarreise- og opphaldskostnadar for undervisarar kan dekkast dersom andre kjelder til finansiering ikkje er mogeleg.
+1. kausjon eller annan økonomisk garanti
+2. renter og avdrag på lån og refinansiering av gjennomførte studiesentertilbod
+3. avsetting av midlar til uspesifiserte fond
+4. fysiske bygg.
+
+Tilskot kan ikkje finansiere følgjande driftskostnadar:
+
+1. utstyr over ein samla kostnad på 50 000 kroner
+2. løn til undervisarar som er finansierte av andre institusjonar og organisasjonar
+3. fagleg og pedagogisk utvikling av undervisarar
+4. oppgåver som utdanningsinstitusjonane har eit eige ansvar for
+5. reise- og opphaldskostnadar for studentar
+6. reise- og opphaldskostnadar for undervisarar kan dekkast dersom andre kjelder til finansiering ikkje er mogeleg.
 
 ## Kapittel IV. Felles føringar om rapportering, kontroll og klage
 
@@ -160,7 +213,12 @@ Ordninga blir forvalta av fylkeskommunen på bakgrunn av løyvinga frå Storting
 
 Departementet tildeler midlane til fylkeskommunane som tilskot utan krav om tilbakebetaling. Fylkeskommunane kan disponere midlane uavhengig av året for løyvinga.
 
-Fylkeskommunane har fullmakt til å:bestemme i kva år eit tilsegn skal bli gittavgjere kor lenge gjeldande tilsegn er gyldig, men maksimalt for tilsegnsår pluss to århandsame søknad om å forlenge gjeldande tilsegngi unytta midlar til nye tiltak i tråd med måla for løyvinga.
+Fylkeskommunane har fullmakt til å:
+
+1. bestemme i kva år eit tilsegn skal bli gitt
+2. avgjere kor lenge gjeldande tilsegn er gyldig, men maksimalt for tilsegnsår pluss to år
+3. handsame søknad om å forlenge gjeldande tilsegn
+4. gi unytta midlar til nye tiltak i tråd med måla for løyvinga.
 
 Fylkeskommunane kan finansiere tiltak og prosjekt i eigen regi, eller etablere eigne regionale støtteordningar av midla under mobiliseringsordninga.
 

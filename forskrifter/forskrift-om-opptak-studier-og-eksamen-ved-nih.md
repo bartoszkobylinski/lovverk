@@ -15,7 +15,7 @@ xml_hash: "a1c61c60d4311327cef2121d243e3d406342c246fe548de38012f8e40657d1d6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -73,19 +73,40 @@ For opptak til alle studier ved Norges idrettshøgskole kreves generell studieko
 
 ### § 6. Rangeringsregler for de enkelte studier
 
-Når antall kvalifiserte søkere overstiger tilgjengelige studieplasser blir søkerne rangert på følgende måter til studieprogrammene:Søkere til studier som tilbys via Samordna opptak blir rangert på grunnlag av regler i [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13).Søkere til direkte opptak til 2. studieår på bachelorstudier ved NIH blir rangert på grunnlag av karakterene fra opptaksgrunnlaget.Søkere til øvrige studieprogrammer på lavere grads nivå: rangeringsregelverk til studium er fastsatt i programplanen.Søkere til mastergrad. Rangeringsregelverk til studiet er fastsatt i programplanen.
+Når antall kvalifiserte søkere overstiger tilgjengelige studieplasser blir søkerne rangert på følgende måter til studieprogrammene:
+
+1. Søkere til studier som tilbys via Samordna opptak blir rangert på grunnlag av regler i [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13).
+2. Søkere til direkte opptak til 2. studieår på bachelorstudier ved NIH blir rangert på grunnlag av karakterene fra opptaksgrunnlaget.
+3. Søkere til øvrige studieprogrammer på lavere grads nivå: rangeringsregelverk til studium er fastsatt i programplanen.
+4. Søkere til mastergrad. Rangeringsregelverk til studiet er fastsatt i programplanen.
 
 > Endret ved [forskrifter 6 nov 2008 nr. 1588](forskrift/2008-11-06-1588), [30 nov 2010 nr. 1850](forskrift/2010-11-30-1850) (i kraft 1 jan 2011), [25 mai 2012 nr. 793](forskrift/2012-05-25-793) (i kraft 1 aug 2012), [12 nov 2015 nr. 1627](forskrift/2015-11-12-1627), [18 des 2018 nr. 2286](forskrift/2018-12-18-2286), [25 feb 2025 nr. 374](forskrift/2025-02-25-374).
 
 ### § 7. Kvoter
 
-Opptak til studieplasser som omfattes av kvoteordningene, forutsetter at generelle og spesielle opptakskrav er oppfylt. Høgskolen har følgende kvoter:Idrettens kvote: Totalt inntil 10 av studieplasser på følgende 3-årige bachelorstudier kan tildeles søkere som er innstilt av Norges idrettsforbund:Bachelor Sport ManagementBachelor i trenerrollen og idrettspsykologiBachelor i trening, helse og prestasjon.Inntil fire studieplasser i 2. studieår på følgende bachelorstudier ved NIH kan tildeles til søkere som er innstilt av Norges Idrettsforbund:Bachelor i Sport managementBachelor i trenerrollen og idrettspsykologiBachelor i trening, helse og prestasjon.En studieplass på master i idrettsfysiologi og bevegelseslære, master i idrettsmedisin eller master i idrett og samfunnsvitenskap kan tildeles tilsvarende til søker som er innstilt av Norges idrettsforbund.
+Opptak til studieplasser som omfattes av kvoteordningene, forutsetter at generelle og spesielle opptakskrav er oppfylt. Høgskolen har følgende kvoter:
+
+1. Idrettens kvote: Totalt inntil 10 av studieplasser på følgende 3-årige bachelorstudier kan tildeles søkere som er innstilt av Norges idrettsforbund:
+
+   1. Bachelor Sport Management
+   2. Bachelor i trenerrollen og idrettspsykologi
+   3. Bachelor i trening, helse og prestasjon.
+2. Inntil fire studieplasser i 2. studieår på følgende bachelorstudier ved NIH kan tildeles til søkere som er innstilt av Norges Idrettsforbund:
+
+   1. Bachelor i Sport management
+   2. Bachelor i trenerrollen og idrettspsykologi
+   3. Bachelor i trening, helse og prestasjon.
+3. En studieplass på master i idrettsfysiologi og bevegelseslære, master i idrettsmedisin eller master i idrett og samfunnsvitenskap kan tildeles tilsvarende til søker som er innstilt av Norges idrettsforbund.
 
 > Endret ved [forskrifter 12 nov 2015 nr. 1627](forskrift/2015-11-12-1627), [30 nov 2016 nr. 1938](forskrift/2016-11-30-1938), [18 des 2018 nr. 2286](forskrift/2018-12-18-2286), [19 des 2019 nr. 2260](forskrift/2019-12-19-2260) (i kraft 10 april 2020), [11 okt 2022 nr. 1732](forskrift/2022-10-11-1732), [25 feb 2025 nr. 374](forskrift/2025-02-25-374).
 
 ### § 8. Overgang mellom studieprogram
 
-1\. En student kan normalt få overgang fra et årsstudium/1BA til et bachelorstudium innenfor samme fagområde dersom:studenten har fått studierett gjennom ordinært opptak, møtt til studiestart og registrert seg på det studieprogrammet vedkommende ble tatt opp til, ogstudieprogrammet studenten søker overgang til ikke er lukket ved poengrangering, ogstudenten oppfyller opptakskravet til studieprogrammet.
+1\. En student kan normalt få overgang fra et årsstudium/1BA til et bachelorstudium innenfor samme fagområde dersom:
+
+1. studenten har fått studierett gjennom ordinært opptak, møtt til studiestart og registrert seg på det studieprogrammet vedkommende ble tatt opp til, og
+2. studieprogrammet studenten søker overgang til ikke er lukket ved poengrangering, og
+3. studenten oppfyller opptakskravet til studieprogrammet.
 
 2\. Dersom studieprogrammet er lukket med poengrangering, kan overgang vurderes dersom studentens poengsum er lik eller høyere enn medianen ved siste opptak.
 
@@ -144,7 +165,17 @@ Søknad om opptak skjer via Samordna Opptak eller Søknadsweb. Alle dokumenter s
 
 ### § 15. Innhold i program- og emneplaner
 
-1. Studiene ved Norges idrettshøgskole er organisert i studieprogram, som består av flere emner. Alle studieprogram skal ha en programplan som fastsetter:Studieprogrammets/fagområdets læringsutbytte, omfang, innhold, organisering, arbeidsformer, eksamensordning og prøve- og vurderingsform.Studieprogrammets læringsutbytte er i samsvar med det nasjonale kvalifikasjonsrammeverket og definert i kunnskap, ferdigheter og generell kompetanse.Eventuelle forkunnskapskrav eller anbefalte forkunnskaper for studieprogrammet eller fagområdet.Hvilke emner som undervises og som det kan avlegges eksamen i.Faglig beskrivelse av emnene som inngår i studieprogrammet. Alle emner skal ha en emneplan som fastsetter emnenes navn og kode, læringsutbytte, organisering og arbeidsformer, vurderingsordning og pensum. I emner der hoveddel av undervisning foregår på annet språk enn norsk, skal dette angis i emneplan.Hvilke grupper av emner som oppfyller kravet til fordypning.Eventuelle krav til rekkefølge for emnene i studieprogrammet.Eventuelle særlige vilkår for å gå opp til eksamen, slik som godkjent deltakelse i laboratorieøvinger, obligatoriske skriftlige arbeider, muntlige framlegg, faglige ekskursjoner, feltkurs eller andre teoretiske og praktiske øvinger.Andre bestemmelser av betydning for gjennomføringen og kvalitetssikringen av studiet.
+1. Studiene ved Norges idrettshøgskole er organisert i studieprogram, som består av flere emner. Alle studieprogram skal ha en programplan som fastsetter:
+
+   - Studieprogrammets/fagområdets læringsutbytte, omfang, innhold, organisering, arbeidsformer, eksamensordning og prøve- og vurderingsform.
+   - Studieprogrammets læringsutbytte er i samsvar med det nasjonale kvalifikasjonsrammeverket og definert i kunnskap, ferdigheter og generell kompetanse.
+   - Eventuelle forkunnskapskrav eller anbefalte forkunnskaper for studieprogrammet eller fagområdet.
+   - Hvilke emner som undervises og som det kan avlegges eksamen i.
+   - Faglig beskrivelse av emnene som inngår i studieprogrammet. Alle emner skal ha en emneplan som fastsetter emnenes navn og kode, læringsutbytte, organisering og arbeidsformer, vurderingsordning og pensum. I emner der hoveddel av undervisning foregår på annet språk enn norsk, skal dette angis i emneplan.
+   - Hvilke grupper av emner som oppfyller kravet til fordypning.
+   - Eventuelle krav til rekkefølge for emnene i studieprogrammet.
+   - Eventuelle særlige vilkår for å gå opp til eksamen, slik som godkjent deltakelse i laboratorieøvinger, obligatoriske skriftlige arbeider, muntlige framlegg, faglige ekskursjoner, feltkurs eller andre teoretiske og praktiske øvinger.
+   - Andre bestemmelser av betydning for gjennomføringen og kvalitetssikringen av studiet.
 
 > Endret ved [forskrifter 6 nov 2008 nr. 1588](forskrift/2008-11-06-1588), [25 mai 2012 nr. 793](forskrift/2012-05-25-793) (i kraft 1 aug 2012), [18 juni 2020 nr. 1974](forskrift/2020-06-18-1974), [13 nov 2025 nr. 2636](forskrift/2025-11-13-2636) (i kraft 1 jan 2026, tidligere § 14).
 
@@ -161,9 +192,27 @@ Endringer i program- og emneplaner skal ferdigstilles i løpet av høstsemestere
 ### § 17. Studierett og studieprogresjon
 
 1. Opptak til et studieprogram gir studenten studierett til studieprogrammet og emner som inngår i dette. En student som ikke fyller eventuelle betingelser som er knyttet til det enkelte studieprogram ved studiestart, mister studieretten.
-2. Studieretten opphører når:Studenten har fullført studieprogrammet ellerNIH mottar melding fra studenten om at vedkommende trekker seg fra studieprogrammet før det er fullført ellerStudentene har brukt alle eksamensforsøk på et emne som er obligatorisk i studieprogrammet hvor studenten har studierett ellerstudenten blir fratatt sin studierett.
-3. En student på lavere grads studier som ikke har inngått utdanningsplan med redusert progresjon, mister studieretten dersom studieprogresjonen er:30 studiepoeng eller mindre etter første studieår,60 studiepoeng eller mindre etter andre studieår,90 studiepoeng eller mindre etter tredje studieår,120 studiepoeng eller mindre etter fjerde studieår.I tillegg må alle emner fra første år bachelor i idrettsvitenskap være bestått før studentene kan starte på tredje år bachelor i idrettsvitenskap.Unntatt fra bestemmelsene om progresjon er studieprogram som er definert som deltidsstudier.
-4. En student på mastergradsstudier som ikke har inngått utdanningsplan med redusert progresjon, mister studieretten dersom studieprogresjonen er:30 studiepoeng eller mindre etter første studieår,mindre enn 60 studiepoeng etter andre studieår,mindre enn 120 studiepoeng etter tre år.
+2. Studieretten opphører når:
+
+   1. Studenten har fullført studieprogrammet eller
+   2. NIH mottar melding fra studenten om at vedkommende trekker seg fra studieprogrammet før det er fullført eller
+   3. Studentene har brukt alle eksamensforsøk på et emne som er obligatorisk i studieprogrammet hvor studenten har studierett eller
+   4. studenten blir fratatt sin studierett.
+3. En student på lavere grads studier som ikke har inngått utdanningsplan med redusert progresjon, mister studieretten dersom studieprogresjonen er:
+
+   - 30 studiepoeng eller mindre etter første studieår,
+   - 60 studiepoeng eller mindre etter andre studieår,
+   - 90 studiepoeng eller mindre etter tredje studieår,
+   - 120 studiepoeng eller mindre etter fjerde studieår.
+
+   I tillegg må alle emner fra første år bachelor i idrettsvitenskap være bestått før studentene kan starte på tredje år bachelor i idrettsvitenskap.
+
+   Unntatt fra bestemmelsene om progresjon er studieprogram som er definert som deltidsstudier.
+4. En student på mastergradsstudier som ikke har inngått utdanningsplan med redusert progresjon, mister studieretten dersom studieprogresjonen er:
+
+   - 30 studiepoeng eller mindre etter første studieår,
+   - mindre enn 60 studiepoeng etter andre studieår,
+   - mindre enn 120 studiepoeng etter tre år.
 5. Studenter har rett til å inngå utdanningsplan med redusert progresjon. Årsaker kan være funksjonsnedsetting, særlig tyngende omsorgsoppgaver, toppidrettsstatus, graviditet, sykdom og skade som er til hinder for gjennomføring av undervisning, eller annen vektig grunn.
 
 > Endret ved [forskrifter 19 juni 2007 nr. 1084](forskrift/2007-06-19-1084) (i kraft 1 aug 2007), [2 mars 2010 nr. 707](forskrift/2010-03-02-707) (i kraft 1 aug 2010 med virkning for masterkullet som tas opp høsten 2010), [25 mai 2012 nr. 793](forskrift/2012-05-25-793) (i kraft 1 aug 2012), [13 nov 2025 nr. 2636](forskrift/2025-11-13-2636) (i kraft 1 jan 2026, tidligere § 16).
@@ -293,7 +342,10 @@ Eksamensbesvarelsen kan kreves på engelsk hvor det er et engelskspråklig emne 
 1. Bacheloroppgaver i 3. studieår i bachelorprogrammene som er vurdert, kan omarbeides og leveres inn til ny vurdering én gang.
 2. En masteroppgave som har fått et ikke-bestått eksamensresultat, kan bare én gang leveres på nytt som et nytt eksamensforsøk. En masteroppgave som har fått et bestått eksamensresultat, kan ikke leveres på nytt i bearbeidet form. Det er ikke anledning til å skrive ny masteroppgave innenfor det samme tema og med samme datagrunnlag.
 3. For andre eksamener enn de som er nevnt i nr. 1 og 2 har en student anledning til å fremstille seg til eksamen i samme emne maksimalt tre ganger. I særlige tilfeller kan studieutvalget gi dispensasjon fra tregangersregelen. Dersom en student unnlater å møte til eksamen uten gyldig grunn, regnes det som om studenten har gått opp til eksamen én gang. Studenter som har gyldig grunn for fravær under eksamen, har ikke brukt et eksamensforsøk.
-4. Ved endring av karakteruttrykk ved gjentak av eksamen gjelder følgende:For studenter som gjentar en eksamen som er bestått med bokstavkarakter gjelder følgende: Ved ikke bestått eksamen vil tidligere bokstavkarakter bli stående som tellende karakter. Ved bestått eksamen vil «Bestått» bli tellende karakter.For studenter som får «Bestått» som tellende karakter i et emne og senere gjentar eksamen med gradert karakter, gjelder følgende: Ved ikke bestått på ny eksamen blir «Bestått» tellende, ved bestått karakter på ny eksamen blir bokstavkarakteren tellende.
+4. Ved endring av karakteruttrykk ved gjentak av eksamen gjelder følgende:
+
+   1. For studenter som gjentar en eksamen som er bestått med bokstavkarakter gjelder følgende: Ved ikke bestått eksamen vil tidligere bokstavkarakter bli stående som tellende karakter. Ved bestått eksamen vil «Bestått» bli tellende karakter.
+   2. For studenter som får «Bestått» som tellende karakter i et emne og senere gjentar eksamen med gradert karakter, gjelder følgende: Ved ikke bestått på ny eksamen blir «Bestått» tellende, ved bestått karakter på ny eksamen blir bokstavkarakteren tellende.
 
 > Endret ved [forskrifter 25 mai 2012 nr. 793](forskrift/2012-05-25-793) (i kraft 1 aug 2012, tidligere § 30), [5 nov 2012 nr. 1455](forskrift/2012-11-05-1455) (i kraft 1 april 2013), [18 juni 2020 nr. 1974](forskrift/2020-06-18-1974), [13 juni 2024 nr. 1577](forskrift/2024-06-13-1577) (i kraft 1 aug 2024), [13 nov 2025 nr. 2636](forskrift/2025-11-13-2636) (i kraft 1 jan 2026, tidligere § 32).
 
@@ -321,10 +373,28 @@ En student kan få innpasset et emne som er bestått ved høgskolen eller en ann
 ### § 37. Sensur
 
 1. Instituttleder oppnevner eksterne sensorer etter forslag fra emneansvarlig. Alle emner skal gjennomgå ekstern sensur minimum hvert 4. år. Ekstern sensor kan ikke være tilsatt i hovedstilling eller bistilling ved institusjonen og heller ikke ha hatt engasjement som timelærer i det aktuelle emnet for eksamenskullet. Tilsatte ved samarbeidsinstitusjoner bør ikke benyttes som eksterne sensorer dersom de har nær tilknytning til det fagmiljøet som har ansvar for undervisningen i emnet. Oppnevningen skal gjelde både ordinær og utsatt eksamen.
-2. Ekstern sensor må ha minst en av følgende kvalifikasjoner:være ansatt på lektor/amanuensisnivå eller høyere nivå ved universitetet, høyskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på tilsvarende nivåha erfaring som sensor i fagområdet ved universitetet/høyskolegjennom yrkespraksis være særlig kvalifisert innen fagområdet.
-3. Ekstern deltakelse i vurderingen kan for eksempel være følgende:vurdering av studentenes prestasjoner i et emne, for alle eller et utvalg av studentenefor å kontrollere og godkjenne eksamensoppgaver og prinsipper for karaktersetting i et emnefor å vurdere intern sensors karaktersettingfor å vurdere emne-/programplaner, undervisningsopplegget og/eller vurderingsordningene i emne eller program.Ekstern sensor skal primært oppnevnes som tilsynssensor, men kan unntaksvis benyttes som ren bedømmersensor. Dette er ytterligere presisert i retningslinjer for ekstern sensor ved NIH.
-4. Det skal benyttes to sensorer hvorav minst en ekstern ved bedømmelse av studentenes prestasjoner i følgende tilfeller:ved vurdering av masteroppgaverved klage over karakterfastsetting.
-5. Det skal benyttes to sensorer ved bedømmelse av studentenes prestasjoner i følgende tilfeller:ved vurdering av bacheloroppgaver eller lignende selvstendig arbeid på lavere gradved vurderinger som ikke er etterprøvbare som eksempelvis muntlig vurdering, praktisk-metodisk vurdering o.l.ved vurderinger som alene utgår 15 studiepoeng eller mer.
+2. Ekstern sensor må ha minst en av følgende kvalifikasjoner:
+
+   - være ansatt på lektor/amanuensisnivå eller høyere nivå ved universitetet, høyskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på tilsvarende nivå
+   - ha erfaring som sensor i fagområdet ved universitetet/høyskole
+   - gjennom yrkespraksis være særlig kvalifisert innen fagområdet.
+3. Ekstern deltakelse i vurderingen kan for eksempel være følgende:
+
+   - vurdering av studentenes prestasjoner i et emne, for alle eller et utvalg av studentene
+   - for å kontrollere og godkjenne eksamensoppgaver og prinsipper for karaktersetting i et emne
+   - for å vurdere intern sensors karaktersetting
+   - for å vurdere emne-/programplaner, undervisningsopplegget og/eller vurderingsordningene i emne eller program.
+
+   Ekstern sensor skal primært oppnevnes som tilsynssensor, men kan unntaksvis benyttes som ren bedømmersensor. Dette er ytterligere presisert i retningslinjer for ekstern sensor ved NIH.
+4. Det skal benyttes to sensorer hvorav minst en ekstern ved bedømmelse av studentenes prestasjoner i følgende tilfeller:
+
+   - ved vurdering av masteroppgaver
+   - ved klage over karakterfastsetting.
+5. Det skal benyttes to sensorer ved bedømmelse av studentenes prestasjoner i følgende tilfeller:
+
+   - ved vurdering av bacheloroppgaver eller lignende selvstendig arbeid på lavere grad
+   - ved vurderinger som ikke er etterprøvbare som eksempelvis muntlig vurdering, praktisk-metodisk vurdering o.l.
+   - ved vurderinger som alene utgår 15 studiepoeng eller mer.
 6. Dersom det er ekstern sensor ved eksamen, fastsettes karakteren i fellesskap av intern og ekstern sensor. Dersom eksamenskommisjonen ikke kommer til enighet om en karakter, skal ekstern sensor avgjøre karakteren.
 7. Sensuren skal foreligge innen 15 virkedager fra eksamen er avlagt. Styret selv skal fatte vedtak om lengre frist dersom det ikke er mulig å skaffe kvalifisert sensor innen denne fristen.
 8. Sensur på masteroppgaver skal foreligge innen to måneder etter innlevering.

@@ -62,7 +62,12 @@ Stortingsgruppene har adgang til å opparbeide seg egenkapital fra gruppetilskud
 
 Det skal være et klart skille mellom den offentlige støtten som går til partiorganisasjonene, og det tilskuddet som bevilges over Stortingets budsjett til stortingsgruppene.
 
-Ingen midler skal overføres til partiorganisasjonen sentralt. Gruppene kan likevel kjøpe følgende tjenester fra eget parti:lønnskjøring,regnskapsføring,kommunikasjonstjenester ogHR-tjenester.
+Ingen midler skal overføres til partiorganisasjonen sentralt. Gruppene kan likevel kjøpe følgende tjenester fra eget parti:
+
+1. lønnskjøring,
+2. regnskapsføring,
+3. kommunikasjonstjenester og
+4. HR-tjenester.
 
 Honoraret for kjøp av slike tjenester skal kun dekke kostnadene partiet har ved å yte gruppen slike tjenester. Honorarets størrelse skal presiseres i egen note i regnskapsrapporten til presidentskapet.
 
@@ -96,7 +101,11 @@ Regnskapsrapporten og revisjonsberetningen gjøres offentlig tilgjengelige når 
 
 ### § 11. Innsyn
 
-Alle kan kreve innsyn i stortingsgruppens bilag og regnskaper, med følgende begrensninger:Opplysninger om noens personlige forhold er unntatt fra innsyn. Det samme gjelder andre opplysninger av personvernmessig karakter samt opplysninger som er underlagt lovbestemt taushetsplikt.Opplysninger av konkurransemessige karakter, herunder politiske og strategiske disposisjoner, kan unntas fra innsyn.Opplysninger om sikkerhetsmessige forhold og om tilsettings- og personalsaker kan unntas fra innsyn.
+Alle kan kreve innsyn i stortingsgruppens bilag og regnskaper, med følgende begrensninger:
+
+1. Opplysninger om noens personlige forhold er unntatt fra innsyn. Det samme gjelder andre opplysninger av personvernmessig karakter samt opplysninger som er underlagt lovbestemt taushetsplikt.
+2. Opplysninger av konkurransemessige karakter, herunder politiske og strategiske disposisjoner, kan unntas fra innsyn.
+3. Opplysninger om sikkerhetsmessige forhold og om tilsettings- og personalsaker kan unntas fra innsyn.
 
 Stortingsgruppen kan også gjøre unntak fra innsyn i andre opplysninger som det av tungtveiende hensyn er viktig å bevare fortrolighet om.
 

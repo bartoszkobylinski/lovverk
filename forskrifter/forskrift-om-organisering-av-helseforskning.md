@@ -32,7 +32,13 @@ Forskriften omfatter organisering og forhåndsgodkjenning av medisinsk og helsef
 
 ## § 3. Forskningsansvarliges plikter
 
-Forskningsansvarlig har det overordnede ansvaret for forskningsprosjektet og skal minst sørge forat det tilrettelegges for at medisinsk og helsefaglig forskning blir utført på en måte som ivaretar etiske, medisinske, helsefaglige, vitenskapelige, personvern- og informasjonssikkerhetsmessige forholdat det tilrettelegges for forsvarlig organisering, igangsetting, gjennomføring, formidling, avslutning og etterforvaltning av forskningsprosjektetat forskningsdata og humant biologisk materiale behandles forsvarligat det foreligger nødvendig forsikring av forskningsdeltakere i samsvar med [helseforskningsloven § 50](lov/2008-06-20-44/§50)at det føres internkontroll i samsvar med [§ 4](forskrift/2009-07-01-955/§4) tilpasset virksomhetens størrelse, egenart, aktiviteter og risikoforhold.
+Forskningsansvarlig har det overordnede ansvaret for forskningsprosjektet og skal minst sørge for
+
+1. at det tilrettelegges for at medisinsk og helsefaglig forskning blir utført på en måte som ivaretar etiske, medisinske, helsefaglige, vitenskapelige, personvern- og informasjonssikkerhetsmessige forhold
+2. at det tilrettelegges for forsvarlig organisering, igangsetting, gjennomføring, formidling, avslutning og etterforvaltning av forskningsprosjektet
+3. at forskningsdata og humant biologisk materiale behandles forsvarlig
+4. at det foreligger nødvendig forsikring av forskningsdeltakere i samsvar med [helseforskningsloven § 50](lov/2008-06-20-44/§50)
+5. at det føres internkontroll i samsvar med [§ 4](forskrift/2009-07-01-955/§4) tilpasset virksomhetens størrelse, egenart, aktiviteter og risikoforhold.
 
 Den forskningsansvarlige kan delegere oppgaver til andre, men ikke ansvar.
 
@@ -40,7 +46,15 @@ Den forskningsansvarlige kan delegere oppgaver til andre, men ikke ansvar.
 
 Med internkontroll menes systematiske tiltak som fremmer god forskning og som sikrer at forskningen planlegges, organiseres, gjennomføres og avsluttes i samsvar med krav fastsatt i eller i medhold av helseforskningsloven.
 
-Internkontroll skal dokumenteres og utformes i den form og det omfang som er nødvendig på bakgrunn av virksomhetens størrelse, egenart, aktiviteter og risikoforhold. Internkontroll skal ha styrende, gjennomførende og kontrollerende elementer, som innebærer at den forskningsansvarlige minst skal sørge forat virksomhetens mål for forskningen, samt ansvars- og myndighetsforhold og hvordan forskningsvirksomheten strukturelt er tilrettelagt og organisert, er beskrevetat det føres løpende oversikt over alle medisinske og helsefaglige forskningsprosjekter som involverer mennesker, humant biologisk materiale eller helseopplysninger innen eget ansvarsområdeå ha oversikt over de krav i og i medhold av helseforskningsloven og annet regelverk, som gjelder for forskningenat det utarbeides og dokumenteres rutiner som setter prosjektleder og medarbeiderne i virksomhetens forskningsprosjekter i stand til å overholde kravene som nevnt i bokstav cat prosjektleder, medarbeidere og annet personell som er involvert i forskningsprosjekter har tilstrekkelig kompetanseat det utarbeides og dokumenteres rutiner for å motta meldinger om avvik og sikre at avvik rettesat det foretas systematisk overvåking og gjennomgang av internkontroll, for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i virksomheten.
+Internkontroll skal dokumenteres og utformes i den form og det omfang som er nødvendig på bakgrunn av virksomhetens størrelse, egenart, aktiviteter og risikoforhold. Internkontroll skal ha styrende, gjennomførende og kontrollerende elementer, som innebærer at den forskningsansvarlige minst skal sørge for
+
+1. at virksomhetens mål for forskningen, samt ansvars- og myndighetsforhold og hvordan forskningsvirksomheten strukturelt er tilrettelagt og organisert, er beskrevet
+2. at det føres løpende oversikt over alle medisinske og helsefaglige forskningsprosjekter som involverer mennesker, humant biologisk materiale eller helseopplysninger innen eget ansvarsområde
+3. å ha oversikt over de krav i og i medhold av helseforskningsloven og annet regelverk, som gjelder for forskningen
+4. at det utarbeides og dokumenteres rutiner som setter prosjektleder og medarbeiderne i virksomhetens forskningsprosjekter i stand til å overholde kravene som nevnt i bokstav c
+5. at prosjektleder, medarbeidere og annet personell som er involvert i forskningsprosjekter har tilstrekkelig kompetanse
+6. at det utarbeides og dokumenteres rutiner for å motta meldinger om avvik og sikre at avvik rettes
+7. at det foretas systematisk overvåking og gjennomgang av internkontroll, for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i virksomheten.
 
 Den forskningsansvarlige kan delegere oppgaver til andre, men ikke ansvar.
 
@@ -48,7 +62,13 @@ Den forskningsansvarlige kan delegere oppgaver til andre, men ikke ansvar.
 
 Prosjektleder skal ha slik faglig og vitenskapelig kompetanse som det aktuelle forskningsprosjektet krever for en forsvarlig gjennomføring.
 
-Prosjektleder har ansvar for den daglige driften av forskningsprosjektet og skal minst sørge forat etiske, medisinske, helsefaglige, vitenskapelige, personvern- og informasjonssikkerhetsmessige forhold ivaretas i den daglige driftenå involvere den forskningsansvarlige i forskningsprosjektet før prosjektet startesnødvendig forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk og eventuelle andre instanserat forskningsprosjekter gjennomføres i henhold til godkjent forskningsprotokollkommunikasjon med offentlige instanser og forskningsansvarlig.
+Prosjektleder har ansvar for den daglige driften av forskningsprosjektet og skal minst sørge for
+
+1. at etiske, medisinske, helsefaglige, vitenskapelige, personvern- og informasjonssikkerhetsmessige forhold ivaretas i den daglige driften
+2. å involvere den forskningsansvarlige i forskningsprosjektet før prosjektet startes
+3. nødvendig forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk og eventuelle andre instanser
+4. at forskningsprosjekter gjennomføres i henhold til godkjent forskningsprotokoll
+5. kommunikasjon med offentlige instanser og forskningsansvarlig.
 
 Prosjektleder har rett til innsyn i alle forskningsdata som prosjektet omfatter, så lenge taushetsplikt ikke er til hinder for dette.
 
@@ -64,7 +84,14 @@ Forskriftens [§ 5](forskrift/2009-07-01-955/§5) om prosjektleders plikter gjel
 
 ## § 7. Søknad om forhåndsgodkjenning
 
-Søknad om forhåndsgodkjenning av et forskningsprosjekt skal sammen med forskningsprotokollen sendes til den regionale komiteen for medisinsk og helsefaglig forskningsetikk. Søknad om forhåndsgodkjenning skal skje på fastsatt skjema og skal minst inneholdeopplysninger om forskningsansvarlig og prosjektleder med dennes kvalifikasjoneren beskrivelse av prosjektet gitt på en allment forståelig måte, herunder med angivelse av prosjektets formål, begrunnelse, materiale, metoder, sannsynliggjøring av at valgt studiedesign kan gi svar på forskningsspørsmålet og anslåtte tidsrammer for prosjektetopplysninger om hvilke kriterier prosjektet legger til grunn for å velge ut forskningsdeltakere og hvordan disse skal rekrutteresopplysninger om informasjon til forskningsdeltakerne, personvern og samtykke, herunder hvordan samtykke skal innhentes eller eventuelt nærmere informasjon om og begrunnelse for hvorfor samtykke ikke skal innhentesvurdering av forskningsetiske utfordringer ved prosjektet, særlig nytte-risiko aspektet for forskningsdeltakereopplysninger om sikkerhet, interesser, herunder opplysninger om finansieringskilder, eventuelle interessekonflikter og økonomiske forhold knyttet til det aktuelle forskningsprosjektet, og offentliggjøring av resultater.
+Søknad om forhåndsgodkjenning av et forskningsprosjekt skal sammen med forskningsprotokollen sendes til den regionale komiteen for medisinsk og helsefaglig forskningsetikk. Søknad om forhåndsgodkjenning skal skje på fastsatt skjema og skal minst inneholde
+
+1. opplysninger om forskningsansvarlig og prosjektleder med dennes kvalifikasjoner
+2. en beskrivelse av prosjektet gitt på en allment forståelig måte, herunder med angivelse av prosjektets formål, begrunnelse, materiale, metoder, sannsynliggjøring av at valgt studiedesign kan gi svar på forskningsspørsmålet og anslåtte tidsrammer for prosjektet
+3. opplysninger om hvilke kriterier prosjektet legger til grunn for å velge ut forskningsdeltakere og hvordan disse skal rekrutteres
+4. opplysninger om informasjon til forskningsdeltakerne, personvern og samtykke, herunder hvordan samtykke skal innhentes eller eventuelt nærmere informasjon om og begrunnelse for hvorfor samtykke ikke skal innhentes
+5. vurdering av forskningsetiske utfordringer ved prosjektet, særlig nytte-risiko aspektet for forskningsdeltakere
+6. opplysninger om sikkerhet, interesser, herunder opplysninger om finansieringskilder, eventuelle interessekonflikter og økonomiske forhold knyttet til det aktuelle forskningsprosjektet, og offentliggjøring av resultater.
 
 Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan kreve nærmere opplysninger om prosjektet før endelig vedtak blir fattet.
 
@@ -72,7 +99,15 @@ Søknad om forhåndsgodkjenning skal som hovedregel utformes på norsk. Dersom p
 
 ## § 8. Forskningsprotokoll
 
-For hvert forskningsprosjekt skal det utarbeides en forskningsprotokoll på norsk eller engelsk som minst skal angiprosjektlederen vitenskapelig utformet prosjektplan med angivelse av prosjektets formål, begrunnelse, materiale, metoder, sannsynliggjøring av at valgt studiedesign kan gi svar på forskningsspørsmålet og anslåtte tidsrammer for prosjektethvordan helseopplysninger skal behandles, herunder fra hvilke kilder helseopplysninger skal innhentes og om slike opplysninger skal utleveres til andre eller overføres til land utenfor EØSfra hvilke kilder humant biologisk materiale skal uttas og om slikt materiale skal utleveres til andre eller overføres til utlandetvurdering av forskningsetiske utfordringer ved prosjektet, særlig nytte-risiko aspektet for forskningsdeltakerefinansieringskilder, interesser og avhengighetsforhold, herunder forskere og forskningsdeltakeres eventuelle økonomiske forhold knyttet til det aktuelle forskningsprosjektetplan for offentliggjøring av resultater og opplysninger om mulig utvidet bruk, herunder kommersiell bruk, av forskningsresultater, data eller biologisk materiale.
+For hvert forskningsprosjekt skal det utarbeides en forskningsprotokoll på norsk eller engelsk som minst skal angi
+
+1. prosjektleder
+2. en vitenskapelig utformet prosjektplan med angivelse av prosjektets formål, begrunnelse, materiale, metoder, sannsynliggjøring av at valgt studiedesign kan gi svar på forskningsspørsmålet og anslåtte tidsrammer for prosjektet
+3. hvordan helseopplysninger skal behandles, herunder fra hvilke kilder helseopplysninger skal innhentes og om slike opplysninger skal utleveres til andre eller overføres til land utenfor EØS
+4. fra hvilke kilder humant biologisk materiale skal uttas og om slikt materiale skal utleveres til andre eller overføres til utlandet
+5. vurdering av forskningsetiske utfordringer ved prosjektet, særlig nytte-risiko aspektet for forskningsdeltakere
+6. finansieringskilder, interesser og avhengighetsforhold, herunder forskere og forskningsdeltakeres eventuelle økonomiske forhold knyttet til det aktuelle forskningsprosjektet
+7. plan for offentliggjøring av resultater og opplysninger om mulig utvidet bruk, herunder kommersiell bruk, av forskningsresultater, data eller biologisk materiale.
 
 Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan kreve nærmere opplysninger i forskningsprotokollen før endelig vedtak blir fattet.
 

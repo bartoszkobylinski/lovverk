@@ -15,7 +15,7 @@ xml_hash: "c6633bd68df426b1b77582bce954ae649a5f6c0a0321a41a758f7be400e19af3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -112,7 +112,12 @@ Ein avdød ektefelle skal reknast som far dersom unnfanginga kan ha skjedd før 
 
 Ein mann kan erklære farskapen til eit barn født i Noreg, under svangerskapen eller seinare, dersom ikkje farskap allereie følgjer av reglane i denne lova. Erklæringa gjeld berre når ho er gitt av den som mora har peika ut som far, eller når mora skriftleg har godteke erklæringa. Dersom den som vil erklære farskap etter denne paragrafen, er under 18 år, må dei som har foreldreansvaret for han, òg skrive under på erklæringa. Faren må identifisere seg på ein sikker måte.
 
-Farskap skal erklærast enten digitalt til Arbeids- og velferdsetaten eller skriftleg ved personleg frammøte forjordmor eller lege ved svangerskapskontroll eller fødsel,folkeregistermyndigheita (skattekontor),Nav-kontor, ellerutsend utanrikstenestetilsett, dersom faren er i utlandet.
+Farskap skal erklærast enten digitalt til Arbeids- og velferdsetaten eller skriftleg ved personleg frammøte for
+
+1. jordmor eller lege ved svangerskapskontroll eller fødsel,
+2. folkeregistermyndigheita (skattekontor),
+3. Nav-kontor, eller
+4. utsend utanrikstenestetilsett, dersom faren er i utlandet.
 
 Farskap kan òg erklærast ved returnering av skjema der Arbeids- og velferdsetaten oppmodar til å erklære farskap, jf. [§ 3-3 tredje ledd](lov/2025-06-20-40/§3-3/ledd/3).
 
@@ -122,7 +127,10 @@ Departementet kan gi forskrift om gjennomføring av reglane om erklæring av far
 
 Ein mann kan erklære farskap til eit barn født i utlandet, dersom barnet ikkje allereie har ein far etter reglane i denne lova. Dette kan skje skriftleg, ved personleg frammøte for utsend utanrikstenestetilsett eller Nav-kontor, når dette er i samsvar med reglane i [§ 15-2](lov/2025-06-20-40/§15-2). Lova [§ 2-5 første ledd](lov/2025-06-20-40/§2-5/ledd/1) andre til fjerde punktum gjeld tilsvarande.
 
-Dersom opplysningane i saka ikkje gir grunnlag for å slå fast farskapen med rimeleg sikkerheit, kan myndigheita be om eigna prøve for DNA-analyse frå barnet, mora og den som vil erklære seg som far, i desse tilfella:når barnet, mora eller ein som vil erklære seg som far, ikkje kan dokumentere identiteten sin, ellernår det er grunn til å tru at nokon har gitt urette opplysningar om kven som er far, for å få norsk statsborgarskap til barnet.
+Dersom opplysningane i saka ikkje gir grunnlag for å slå fast farskapen med rimeleg sikkerheit, kan myndigheita be om eigna prøve for DNA-analyse frå barnet, mora og den som vil erklære seg som far, i desse tilfella:
+
+1. når barnet, mora eller ein som vil erklære seg som far, ikkje kan dokumentere identiteten sin, eller
+2. når det er grunn til å tru at nokon har gitt urette opplysningar om kven som er far, for å få norsk statsborgarskap til barnet.
 
 Når ein som vil erklære seg som far, seier nei til å gi frå seg prøve etter andre ledd, eller når ein DNA-analyse viser at han ikkje er far til barnet, kan han ikkje erklære farskap.
 
@@ -254,7 +262,10 @@ Retten kan gi dom utan hovudforhandling i saker om farskap når resultatet av ei
 
 ### § 4-9. Heving av saka
 
-Retten kan heve saka i orskurd i desse tilfella:når nokon erklærer farskap i samsvar med [§§ 2-5](lov/2025-06-20-40/§2-5) eller [2-6](lov/2025-06-20-40/§2-6), ellernår ein som det er reist sak mot, bur i utlandet og det er uråd å få nok opplysningar til å fastsetje foreldreskapen.
+Retten kan heve saka i orskurd i desse tilfella:
+
+1. når nokon erklærer farskap i samsvar med [§§ 2-5](lov/2025-06-20-40/§2-5) eller [2-6](lov/2025-06-20-40/§2-6), eller
+2. når ein som det er reist sak mot, bur i utlandet og det er uråd å få nok opplysningar til å fastsetje foreldreskapen.
 
 ### § 4-10. Utvida rettskraft
 
@@ -534,7 +545,10 @@ Dersom foreldra ikkje blir einige, kan kvar av dei krevje at Arbeids- og velferd
 
 Dersom foreldra ikkje lever saman når barnet blir født, og dei ikkje har inngått ein avtale om barnebidrag, skal Arbeids- og velferdsetaten av eige tiltak fastsetje barnebidrag til barnet.
 
-Sak om barnebidrag skal likevel avgjerast av domstolanenår nokon av foreldra bed om at det blir gjort i samband med ekteskapssak eller rettssak om foreldreansvar, om kven barnet skal bu saman med, eller om samværsrett,når Arbeids- og velferdsetaten viser partane til domstolane, fordi det er meir tenleg etter den karakteren saka har.
+Sak om barnebidrag skal likevel avgjerast av domstolane
+
+1. når nokon av foreldra bed om at det blir gjort i samband med ekteskapssak eller rettssak om foreldreansvar, om kven barnet skal bu saman med, eller om samværsrett,
+2. når Arbeids- og velferdsetaten viser partane til domstolane, fordi det er meir tenleg etter den karakteren saka har.
 
 Når det gjeld barnebidrag etter [§ 9-3 andre](lov/2025-06-20-40/§9-3/ledd/2) og [tredje ledd](lov/2025-06-20-40/§9-3/ledd/3) til barn som har fylt 18 år, er det barnet sjølv som inngår ein avtale eller er part i saka.
 
@@ -692,7 +706,13 @@ Staten ber kostnadene for dei tiltaka som er nemnde i [§§ 12-6](lov/2025-06-20
 
 Kvar av foreldra kan reise sak for retten i foreldretvistar.
 
-Med foreldretvist meiner ein i denne lova ueinigheit om eitt eller fleire av desse spørsmåla:foreldreansvarkor barnet skal budagleg myndigheitsamværflytting med barnet ut av landet.
+Med foreldretvist meiner ein i denne lova ueinigheit om eitt eller fleire av desse spørsmåla:
+
+1. foreldreansvar
+2. kor barnet skal bu
+3. dagleg myndigheit
+4. samvær
+5. flytting med barnet ut av landet.
 
 Ein forelder kan òg reise sak om foreldreansvar når det er uråd å kome fram til ein avtale fordi den andre forelderen ikkje bur i landet og ikkje lar seg oppspore.
 
@@ -752,7 +772,13 @@ Midlertidige avgjerder blir tekne i orskurd. Det er ikkje nødvendig med munnleg
 
 ### § 12-8. Saksstyring og plan for sakshandsaming
 
-Retten skal styre saksførebuinga etter reglane i [tvisteloven § 9-4](lov/2005-06-17-90/§9-4), og skal mellom anna klarleggjekva partane er ueinige omkva informasjon retten skal hente innkorleis retten skal høyre barnet, og om retten skal nemne opp ein representant for barnetom det er nødvendig å nemne opp ein sakkunnigom det er særlege forhold i saka.
+Retten skal styre saksførebuinga etter reglane i [tvisteloven § 9-4](lov/2005-06-17-90/§9-4), og skal mellom anna klarleggje
+
+1. kva partane er ueinige om
+2. kva informasjon retten skal hente inn
+3. korleis retten skal høyre barnet, og om retten skal nemne opp ein representant for barnet
+4. om det er nødvendig å nemne opp ein sakkunnig
+5. om det er særlege forhold i saka.
 
 ### § 12-9. Avgjerder under saksførebuinga
 
@@ -910,9 +936,17 @@ Utanlandsk rett skal ikkje brukast, og utanlandske avgjerder skal ikkje leggjast
 
 ### § 15-2. Jurisdiksjon i saker om foreldreskap
 
-Ei sak om morskap kan handsamast i Noreg etter [kapittel 4](lov/2025-06-20-40/kap4) og [§ 3-2 første ledd](lov/2025-06-20-40/§3-2/ledd/1) dersombarnet har vanleg bustad i Noreg,mora hadde vanleg bustad i Noreg då barnet vart født, ellermora seinare har fått vanleg bustad i Noreg.
+Ei sak om morskap kan handsamast i Noreg etter [kapittel 4](lov/2025-06-20-40/kap4) og [§ 3-2 første ledd](lov/2025-06-20-40/§3-2/ledd/1) dersom
 
-Farskap eller medmorskap kan handsamast i Noreg etter [§§ 2-5](lov/2025-06-20-40/§2-5), [2-6](lov/2025-06-20-40/§2-6), [2-8](lov/2025-06-20-40/§2-8) og [kapitla 3](lov/2025-06-20-40/kap3) og [4](lov/2025-06-20-40/kap4) dersommora hadde vanleg bustad i Noreg då barnet vart født,barnet seinare har fått vanleg bustad i Noreg, ellerden oppgitte faren eller medmora har vanleg bustad i Noreg.
+1. barnet har vanleg bustad i Noreg,
+2. mora hadde vanleg bustad i Noreg då barnet vart født, eller
+3. mora seinare har fått vanleg bustad i Noreg.
+
+Farskap eller medmorskap kan handsamast i Noreg etter [§§ 2-5](lov/2025-06-20-40/§2-5), [2-6](lov/2025-06-20-40/§2-6), [2-8](lov/2025-06-20-40/§2-8) og [kapitla 3](lov/2025-06-20-40/kap3) og [4](lov/2025-06-20-40/kap4) dersom
+
+1. mora hadde vanleg bustad i Noreg då barnet vart født,
+2. barnet seinare har fått vanleg bustad i Noreg, eller
+3. den oppgitte faren eller medmora har vanleg bustad i Noreg.
 
 Ei sak om farskap og medmorskap skal likevel ikkje handsamast i Noreg dersom partane har nær tilknyting til ein annan stat der dei kan krevje fastsetjing av foreldreskapen, og saka vil bli betre opplyst og handsama i denne staten.
 
@@ -948,7 +982,10 @@ Ei utanlandsk avgjerd om foreldreansvar eller tilsvarande myndigheitsforhold, fl
 
 ### § 15-8. Jurisdiksjon i saker om barnebidrag
 
-Spørsmålet om barnebidrag kan handsamast av Arbeids- og velferdsetaten eller norsk domstolnår det blir reist sak om farskap, medmorskap, foreldreansvar, flytting med barnet ut av landet eller samvær for avgjerdsført norsk organ, ellerdersom ein av partane eller barnet har vanleg bustad i Noreg
+Spørsmålet om barnebidrag kan handsamast av Arbeids- og velferdsetaten eller norsk domstol
+
+1. når det blir reist sak om farskap, medmorskap, foreldreansvar, flytting med barnet ut av landet eller samvær for avgjerdsført norsk organ, eller
+2. dersom ein av partane eller barnet har vanleg bustad i Noreg
 
 ### § 15-9. Henting og utlevering av opplysningar etter avtale med annan stat
 

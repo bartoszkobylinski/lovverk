@@ -28,7 +28,14 @@ Tilskuddsordningen skal bidra til at verneområder og andre verdifulle naturomr�
 
 ## § 2. Tildelingskriterier
 
-Kommuner, regionråd, frivillige organisasjoner, virksomheter, grunneiere, naturinformasjonssenter, tilsynsutvalg og verneområdestyrer kan få tilskudd tilattraksjoner og tiltak for kanalisering av ferdsel, som for eksempel innfallsporter, korte stier og utsiktspunktulike typer informasjon, og tiltak for utvikling av besøksforvaltning og nasjonalparker som merkevarenaturfaglig kompetanseheving i reiselivsvirksomhetertiltak for å bedre samarbeidet mellom naturforvaltning, næring og lokalsamfunnledelse av prosjekter som faller inn under bokstav a til ddriftstilskudd til foreningene Norges Nasjonalparkkommuner og Norske parker.
+Kommuner, regionråd, frivillige organisasjoner, virksomheter, grunneiere, naturinformasjonssenter, tilsynsutvalg og verneområdestyrer kan få tilskudd til
+
+1. attraksjoner og tiltak for kanalisering av ferdsel, som for eksempel innfallsporter, korte stier og utsiktspunkt
+2. ulike typer informasjon, og tiltak for utvikling av besøksforvaltning og nasjonalparker som merkevare
+3. naturfaglig kompetanseheving i reiselivsvirksomheter
+4. tiltak for å bedre samarbeidet mellom naturforvaltning, næring og lokalsamfunn
+5. ledelse av prosjekter som faller inn under bokstav a til d
+6. driftstilskudd til foreningene Norges Nasjonalparkkommuner og Norske parker.
 
 Det gis bare tilskudd etter bokstav a til e til søkere som bidrar med minst 50 prosent egeninnsats (økonomiske midler eller arbeidsinnsats). Fysiske tiltak som får tilskudd skal være åpne for allmennheten.
 

@@ -30,15 +30,36 @@ Utbetalt bustøtte er 73,7 prosent av differansen mellom godkjente buutgifter et
 
 ## § 2. Utrekning av godkjente buutgifter
 
-Ved utrekning av godkjente buutgifter inngår:Husleige for leigde bustaderFelleskostnader og utgifter til renter, avdrag og gebyr på lån til finansiering av bustaden for bustader i burettslag, eigarseksjonssameige, aksjeleilegheiter og obligasjonsleilegheiterFor andre bustader er godkjente buutgifterdriftsutgifter med kr 15 262 per årutgifter til renter, avdrag og gebyr på lån til finansiering av bustadenutgifter til kommunale avgifter som er fastsett på grunnlag av innhenta opplysningar om gjennomsnittet frå kvar kommuneeigedomsskattfesteavgift.For dei som ikkje betalar for oppvarming heilt eller delvis gjennom husleige eller fellesutgifter, inngår i tillegg utgifter til oppvarming med kr 7 631 per år.
+Ved utrekning av godkjente buutgifter inngår:
+
+1. Husleige for leigde bustader
+2. Felleskostnader og utgifter til renter, avdrag og gebyr på lån til finansiering av bustaden for bustader i burettslag, eigarseksjonssameige, aksjeleilegheiter og obligasjonsleilegheiter
+3. For andre bustader er godkjente buutgifter
+
+   1. driftsutgifter med kr 15 262 per år
+   2. utgifter til renter, avdrag og gebyr på lån til finansiering av bustaden
+   3. utgifter til kommunale avgifter som er fastsett på grunnlag av innhenta opplysningar om gjennomsnittet frå kvar kommune
+   4. eigedomsskatt
+   5. festeavgift.
+4. For dei som ikkje betalar for oppvarming heilt eller delvis gjennom husleige eller fellesutgifter, inngår i tillegg utgifter til oppvarming med kr 7 631 per år.
 
 > Endra ved [forskrifter 21 mai 2017 nr. 646](forskrift/2017-05-21-646) (i kraft 1 juni 2017), [25 mai 2018 nr. 767](forskrift/2018-05-25-767) (i kraft 1 juni 2018), [24 mai 2019 nr. 685](forskrift/2019-05-24-685) (i kraft 1 juni 2019), [18 mai 2020 nr. 1022](forskrift/2020-05-18-1022) (i kraft 1 juni 2020), [25 mai 2021 nr. 1693](forskrift/2021-05-25-1693) (i kraft 1 juni 2021), [25 mai 2022 nr. 915](forskrift/2022-05-25-915) (i kraft 1 juni 2022), [30 mai 2023 nr. 753](forskrift/2023-05-30-753) (i kraft 1 juni 2023), [28 mai 2024 nr. 859](forskrift/2024-05-28-859) (i kraft 1 juni 2024), [28 aug 2024 nr. 2046](forskrift/2024-08-28-2046) (i kraft 1 sep 2024), [27 mai 2025 nr. 902](forskrift/2025-05-27-902) (i kraft 1 juni 2025), [26 mai 2026 nr. 940](forskrift/2026-05-26-940) (i kraft 1 juni 2026).
 
 ## § 3. Øvre grense for buutgifter
 
-Årlege buutgifter som ligg innanfor følgjande øvre grenser (buutgiftstak) går inn i utrekninga:kr 92 234 i ein husstand med ein personkr 113 774 i ein husstand med to personarkr 125 977 i ein husstand med tre personarkr 138 182 i ein husstand med fire personarkr 150 385 i ein husstand med fem personar eller fleire.
+Årlege buutgifter som ligg innanfor følgjande øvre grenser (buutgiftstak) går inn i utrekninga:
 
-I nokre kommunar er den øvre grensa for årlege buutgifter høgare enn i resten av landet. Grensa er:kr 27 982 høgare i Oslokr 19 079 høgare i Bergen, Trondheim, Tromsø, Stavanger og Bærumkr 12 720 høgare i Kristiansand, Lillestrøm, Frogn, Lørenskog, Nordre Follo, Asker, Nesodden, Sola og Sandnes.
+1. kr 92 234 i ein husstand med ein person
+2. kr 113 774 i ein husstand med to personar
+3. kr 125 977 i ein husstand med tre personar
+4. kr 138 182 i ein husstand med fire personar
+5. kr 150 385 i ein husstand med fem personar eller fleire.
+
+I nokre kommunar er den øvre grensa for årlege buutgifter høgare enn i resten av landet. Grensa er:
+
+1. kr 27 982 høgare i Oslo
+2. kr 19 079 høgare i Bergen, Trondheim, Tromsø, Stavanger og Bærum
+3. kr 12 720 høgare i Kristiansand, Lillestrøm, Frogn, Lørenskog, Nordre Follo, Asker, Nesodden, Sola og Sandnes.
 
 Har husstanden særskilt høge buutgifter fordi nokon i husstanden er funksjonshemma og har behov for ein spesialtilpassa bustad, kan den øvre grensa for buutgiftene aukast med kr 5 724 per år.
 
@@ -120,7 +141,10 @@ Søkjaren skal gje opplysningar til kommunen om endra forhold som søkjaren fors
 
 ## § 12. Utlevering av opplysningar
 
-Teieplikta etter forvaltningslova hindrar ikkje Husbanken og kommunane i å gje ut opplysningar frå bustøtteregisteret og bustøttesøknadene tilNAV, likningskontor og andre kommunale instansar som i sakshandsaminga si treng opplysningar om dei som får bustøtte og kor mykje bustøtte dei fårrevisjon eller anna form for kontroll av verksemda til Husbanken og kommunane.
+Teieplikta etter forvaltningslova hindrar ikkje Husbanken og kommunane i å gje ut opplysningar frå bustøtteregisteret og bustøttesøknadene til
+
+1. NAV, likningskontor og andre kommunale instansar som i sakshandsaminga si treng opplysningar om dei som får bustøtte og kor mykje bustøtte dei får
+2. revisjon eller anna form for kontroll av verksemda til Husbanken og kommunane.
 
 ## § 13. Utbetaling
 

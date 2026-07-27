@@ -240,7 +240,15 @@ Påtalemyndigheten skal underrettes dersom den prøveløslatte begår nye straff
 
 Dersom retten har satt som vilkår for prøveløslatelse at den forvaringsdømte tar opphold i institusjon eller kommunal boenhet, skal det inngås avtale mellom regionalt nivå og vedkommende kommune om gjennomføringen av prøveløslatelsen.
 
-Avtalen skal inneholde bestemmelser omDen prøveløslattes boforhold,eventuell behandling den prøveløslatte skal få under oppholdet,sikkerhetstiltak, herunder nødvendig bemanning,oppfølgning og kontroll fra friomsorgen,bistand fra andre samarbeidspartnere,oppholdets varighet,utgiftsdekning.
+Avtalen skal inneholde bestemmelser om
+
+1. Den prøveløslattes boforhold,
+2. eventuell behandling den prøveløslatte skal få under oppholdet,
+3. sikkerhetstiltak, herunder nødvendig bemanning,
+4. oppfølgning og kontroll fra friomsorgen,
+5. bistand fra andre samarbeidspartnere,
+6. oppholdets varighet,
+7. utgiftsdekning.
 
 Kriminalomsorgen har ansvaret for at gjennomføringen av prøveløslatelsen er sikkerhetsmessig forsvarlig. Det skal fremgå av avtalen at påtakelige forandringer i den prøveløslattes tilstand skal gjøres kjent for kriminalomsorgen. Det samme gjelder andre forhold av betydning for sikkerheten og for den prøveløslattes velferd.
 

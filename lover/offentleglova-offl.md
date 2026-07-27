@@ -15,7 +15,7 @@ xml_hash: "c80284df355161a93b7f8c1eac34771e7df0ce92888d6a570e6891d76764665f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,14 @@ Formålet med lova er å leggje til rette for at offentleg verksemd er open og g
 
 ### § 2. Verkeområdet til lova
 
-Lova gjeld forstaten, fylkeskommunane og kommunane,andre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift,sjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har ein eigardel som gir meir enn halvparten av røystene i det øvste organet i rettssubjektet, ogsjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.Bokstavane c og d gjeld ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private. For verksemder som etter offentleg oppkjøp eller liknande kjem inn under bokstavane c eller d, gjeld lova frå og med fjerde månadsskiftet etter den månaden da vilkåra vart oppfylte.
+Lova gjeld for
+
+1. staten, fylkeskommunane og kommunane,
+2. andre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift,
+3. sjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har ein eigardel som gir meir enn halvparten av røystene i det øvste organet i rettssubjektet, og
+4. sjølvstendige rettssubjekt der stat, fylkeskommune eller kommune direkte eller indirekte har rett til å velje meir enn halvparten av medlemmene med røysterett i det øvste organet i rettssubjektet.
+
+Bokstavane c og d gjeld ikkje rettssubjekt som hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private. For verksemder som etter offentleg oppkjøp eller liknande kjem inn under bokstavane c eller d, gjeld lova frå og med fjerde månadsskiftet etter den månaden da vilkåra vart oppfylte.
 
 Kongen kan gi forskrift om at lova ikkje skal gjelde for sjølvstendige rettssubjekt eller for visse dokument hos sjølvstendige rettssubjekt som er omfatta av første ledd bokstavane c eller d, dersom det må reknast som nødvendig ut frå omsynet til arten av verksemda, konkurransesituasjonen eller andre særlege tilhøve. Det same gjeld dersom det gjeld unntak frå innsynsretten for det alt vesentlege av dokumenta til verksemda og særlege tungtvegande omsyn tilseier det. Kongen kan gi forskrift om at lova heilt eller delvis skal gjelde for sjølvstendige rettssubjekt som er knytte til stat eller kommune utan å oppfylle vilkåra i første ledd bokstav c eller d, eller som er unnatekne etter første ledd andre punktum.
 
@@ -58,7 +65,13 @@ Med dokument er meint ei logisk avgrensa informasjonsmengd som er lagra på eit 
 
 Saksdokument for organet er dokument som er komne inn til eller lagde fram for eit organ, eller som organet sjølv har oppretta, og som gjeld ansvarsområdet eller verksemda til organet. Eit dokument er oppretta når det er sendt ut av organet. Dersom dette ikkje skjer, skal dokumentet reknast som oppretta når det er ferdigstilt.
 
-Følgjande skal ikkje reknast som saksdokument for organet:dokument som inngår i bibliotek- eller museumssamling,dokument som private har overlate til offentleg arkiv for bevaring,dokument som er overlate til eit organ for offentleggjering i periodisk skrift som blir gitt ut av organet,avis, tidsskrift, reklamemateriell og liknande som organet mottek utan at det er knytt til ei bestemt sak i organet, ogdokument som ein medarbeidar i organet har motteke i annan eigenskap enn som tilsett i organet.
+Følgjande skal ikkje reknast som saksdokument for organet:
+
+1. dokument som inngår i bibliotek- eller museumssamling,
+2. dokument som private har overlate til offentleg arkiv for bevaring,
+3. dokument som er overlate til eit organ for offentleggjering i periodisk skrift som blir gitt ut av organet,
+4. avis, tidsskrift, reklamemateriell og liknande som organet mottek utan at det er knytt til ei bestemt sak i organet, og
+5. dokument som ein medarbeidar i organet har motteke i annan eigenskap enn som tilsett i organet.
 
 Omgrepet organ femner i lova her om alle verksemder som lova gjeld for.
 
@@ -128,7 +141,11 @@ Når det er høve til å gjere unntak frå innsyn, skal organet likevel vurdere 
 
 ### § 12. Unntak for resten av dokumentet
 
-Når organet gjer unntak frå innsyn for delar av eit dokument, kan det også gjere unntak for resten av dokumentet dersomdesse delane aleine vil gi eit klart misvisande inntrykk av innhaldet,det vil vere urimeleg arbeidskrevjande for organet å skilje dei ut, ellerdei unnatekne opplysningane utgjer den vesentlegaste delen av dokumentet.
+Når organet gjer unntak frå innsyn for delar av eit dokument, kan det også gjere unntak for resten av dokumentet dersom
+
+1. desse delane aleine vil gi eit klart misvisande inntrykk av innhaldet,
+2. det vil vere urimeleg arbeidskrevjande for organet å skilje dei ut, eller
+3. dei unnatekne opplysningane utgjer den vesentlegaste delen av dokumentet.
 
 ## Kapittel 3. Unntak frå innsynsretten
 
@@ -144,7 +161,12 @@ Gjeld innsynskravet eit dokument som inneheld opplysningar som er underlagde tei
 
 Eit organ kan gjere unntak frå innsyn for dokument som organet har utarbeidd for si eiga interne saksførebuing.
 
-Første ledd gjeld ikkje:dokument eller del av dokument som inneheld den endelege avgjerda til organet i ei sak,generelle retningslinjer for saksbehandlinga til organet,føredrag til saker som er avgjorde av Kongen i statsråd, ogpresedenskort og liknande, men ikkje dersom kortet gjengir organinterne vurderingar.
+Første ledd gjeld ikkje:
+
+1. dokument eller del av dokument som inneheld den endelege avgjerda til organet i ei sak,
+2. generelle retningslinjer for saksbehandlinga til organet,
+3. føredrag til saker som er avgjorde av Kongen i statsråd, og
+4. presedenskort og liknande, men ikkje dersom kortet gjengir organinterne vurderingar.
 
 Kongen kan gi forskrift om at det ikkje skal kunne gjerast unntak etter første ledd i paragrafen her for bestemte dokument i bestemte statlege eller statleg tilknytte organ.
 
@@ -160,7 +182,14 @@ Paragrafen her gjeld ikkje for dokument som blir innhenta som ledd i allmenn hø
 
 ### § 16. Innsyn i interne dokument hos kommunane og fylkeskommunane
 
-Unntaka i [§§ 14](lov/2006-05-19-16/§14) og [15](lov/2006-05-19-16/§15) gjeld ikkje:saksframlegg med vedlegg til eit kommunalt eller fylkeskommunalt folkevalt organ,sakliste til møte i folkevalde organ i kommunar og fylkeskommunar,dokument frå eller til kommunale og fylkeskommunale kontrollutval, revisjonsorgan og klagenemnder, ogdokument i saker der ei kommunal eller fylkeskommunal eining opptrer som ekstern part i høve til ei anna slik eining.[§ 14](lov/2006-05-19-16/§14) gjeld likevel for dokument som blir utveksla mellom kommunale og fylkeskommunale kontrollutval og sekretariatet til utvalet. For kommunar og fylkeskommunar med parlamentarisk styreform gjeld [§§ 14](lov/2006-05-19-16/§14) og [15](lov/2006-05-19-16/§15) likevel for saksframlegg med vedlegg og sakliste til førebuande møte i kommuneråd og fylkesråd der ein ikkje skal gjere vedtak eller leggje fram innstilling. [§§ 14](lov/2006-05-19-16/§14) og [15](lov/2006-05-19-16/§15) gjeld også for dokument som eit folkevalt organ har kravd innsyn i etter [kommuneloven § 11-13](lov/2018-06-22-83/§11-13).
+Unntaka i [§§ 14](lov/2006-05-19-16/§14) og [15](lov/2006-05-19-16/§15) gjeld ikkje:
+
+1. saksframlegg med vedlegg til eit kommunalt eller fylkeskommunalt folkevalt organ,
+2. sakliste til møte i folkevalde organ i kommunar og fylkeskommunar,
+3. dokument frå eller til kommunale og fylkeskommunale kontrollutval, revisjonsorgan og klagenemnder, og
+4. dokument i saker der ei kommunal eller fylkeskommunal eining opptrer som ekstern part i høve til ei anna slik eining.
+
+[§ 14](lov/2006-05-19-16/§14) gjeld likevel for dokument som blir utveksla mellom kommunale og fylkeskommunale kontrollutval og sekretariatet til utvalet. For kommunar og fylkeskommunar med parlamentarisk styreform gjeld [§§ 14](lov/2006-05-19-16/§14) og [15](lov/2006-05-19-16/§15) likevel for saksframlegg med vedlegg og sakliste til førebuande møte i kommuneråd og fylkesråd der ein ikkje skal gjere vedtak eller leggje fram innstilling. [§§ 14](lov/2006-05-19-16/§14) og [15](lov/2006-05-19-16/§15) gjeld også for dokument som eit folkevalt organ har kravd innsyn i etter [kommuneloven § 11-13](lov/2018-06-22-83/§11-13).
 
 Unntaket i [§ 14](lov/2006-05-19-16/§14) gjeld ikkje for dokument frå eller til eit kommunalt eller fylkeskommunalt særlovsorgan eller eit kommunalt eller fylkeskommunalt føretak etter [kommuneloven kapittel 9](lov/2018-06-22-83/kap9).
 
@@ -184,7 +213,11 @@ Det kan gjerast unntak frå innsyn for dokument som blir utveksla mellom statleg
 
 ### § 20. Unntak av omsyn til Noregs utanrikspolitiske interesser
 
-Det kan gjerast unntak frå innsyn for opplysningar når det er påkravd av omsyn til Noregs utanrikspolitiske interesser dersom:det følgjer av folkerettslege reglar at Noreg har plikt til å nekte innsyn i opplysningane,opplysningane er mottekne under føresetnad av eller det følgjer av fast praksis at dei ikkje skal offentleggjerast, elleropplysningane gjeld norske forhandlingsposisjonar, forhandlingsstrategiar eller liknande og forhandlingane ikkje er avslutta. Etter at forhandlingane er avslutta, kan det framleis gjerast unntak for slike opplysningar dersom det er grunn til å tru at det vil bli teke opp igjen forhandlingar om den same saka.
+Det kan gjerast unntak frå innsyn for opplysningar når det er påkravd av omsyn til Noregs utanrikspolitiske interesser dersom:
+
+1. det følgjer av folkerettslege reglar at Noreg har plikt til å nekte innsyn i opplysningane,
+2. opplysningane er mottekne under føresetnad av eller det følgjer av fast praksis at dei ikkje skal offentleggjerast, eller
+3. opplysningane gjeld norske forhandlingsposisjonar, forhandlingsstrategiar eller liknande og forhandlingane ikkje er avslutta. Etter at forhandlingane er avslutta, kan det framleis gjerast unntak for slike opplysningar dersom det er grunn til å tru at det vil bli teke opp igjen forhandlingar om den same saka.
 
 Opplysningar i offisielle dokument som blir utveksla mellom Noreg og ein mellomstatleg organisasjon i saker som gjeld internasjonal normutvikling som kan få verknad for norsk rett, kan det gjerast unntak for etter første ledd bokstav b berre dersom det er påkravd av omsyn til tungtvegande utanrikspolitiske interesser. Det same gjeld opplysningar om norske forhandlingsposisjonar etter at posisjonane er lagde fram i forhandlingane.
 

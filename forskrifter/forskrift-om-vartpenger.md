@@ -34,7 +34,11 @@ Hvis medlemmet ikke ville fått 30 års tjenestetid ved oppnådd aldersgrense, a
 
 ## § 3.
 
-Vartpengene skal vurderes hvert år. For medlemmer som blir ledig etter fylte 50 år, kan vartpenger likevel fastsettes for inntil 3 år om gangen. Maksimal vartpengeperiode for medlemmet fastsettes ut fra alder på fratredelsestidspunktet etter følgende skala:før fylte 50 år: inntil 3 årfra 50 til 55 år: inntil 4 årfra fylte 55 år: inntil 12 år.
+Vartpengene skal vurderes hvert år. For medlemmer som blir ledig etter fylte 50 år, kan vartpenger likevel fastsettes for inntil 3 år om gangen. Maksimal vartpengeperiode for medlemmet fastsettes ut fra alder på fratredelsestidspunktet etter følgende skala:
+
+- før fylte 50 år: inntil 3 år
+- fra 50 til 55 år: inntil 4 år
+- fra fylte 55 år: inntil 12 år.
 
 Vartpenger kan likevel ikke utbetales i lenger tid enn det antall år vedkommende har vært medlem i Pensjonskassen ved overgang til vartpenger.
 
@@ -42,7 +46,11 @@ Vartpenger kan likevel ikke utbetales i lenger tid enn det antall år vedkommend
 
 Et medlem kan bare få vartpenger når det står tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker. Vartpengene faller bort i et begrenset tidsrom dersom vartpengemottakeren ikke kan anses som reell arbeidssøker etter vilkårene i [folketrygdloven § 4-5](lov/1997-02-28-19/§4-5) første og andre ledd. I særlige tilfeller kan det kreves at vartpengemottakeren er villig til å ta arbeid som er lavere lønnet enn vartpengene.
 
-Retten til vartpenger faller bort iåtte uker første gang et forhold som nevnt i første ledd inntreffer,tolv uker dersom forhold som nevnt i første ledd har inntruffet to ganger innenfor de siste tolv måneder,seks måneder dersom forhold som nevnt i første ledd har inntruffet tre ganger innenfor de siste tolv måneder.
+Retten til vartpenger faller bort i
+
+1. åtte uker første gang et forhold som nevnt i første ledd inntreffer,
+2. tolv uker dersom forhold som nevnt i første ledd har inntruffet to ganger innenfor de siste tolv måneder,
+3. seks måneder dersom forhold som nevnt i første ledd har inntruffet tre ganger innenfor de siste tolv måneder.
 
 > Endret ved [forskrift 26 juni 2006 nr. 702](forskrift/2006-06-26-702) (i kraft 1 juli 2006).
 

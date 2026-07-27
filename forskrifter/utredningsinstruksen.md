@@ -26,7 +26,12 @@ eu_basis: []
 
 ### 1-1 Formål
 
-Formålet med instruksen er å legge et godt grunnlag for beslutninger om statlige tiltak gjennom åidentifisere alternative tiltakutrede og vurdere virkningene av aktuelle tiltakinvolvere dem som er berørt av tiltaket, tidlig i utredningsprosessensamordne berørte myndigheter.
+Formålet med instruksen er å legge et godt grunnlag for beslutninger om statlige tiltak gjennom å
+
+- identifisere alternative tiltak
+- utrede og vurdere virkningene av aktuelle tiltak
+- involvere dem som er berørt av tiltaket, tidlig i utredningsprosessen
+- samordne berørte myndigheter.
 
 Videre er det et formål at Norges deltakelse i EØS- og Schengen-samarbeidet forvaltes på en helhetlig og effektiv måte. Instruksen skal også legge et godt grunnlag for tilstrekkelig utredning av forholdet til [Grunnloven](lov/1814-05-17) og Norges folkerettslige forpliktelser, herunder menneskerettighetene.
 
@@ -62,7 +67,14 @@ Utenriksdepartementet har ansvaret for å gi veiledning om bestemmelsene i utred
 
 ### 2-1 Minimumskrav til utredning
 
-En utredning skal besvare følgende spørsmål:Hva er problemet, og hva vil vi oppnå?Hvilke tiltak er relevante?Hvilke prinsipielle spørsmål reiser tiltakene?Hva er de positive og negative virkningene av tiltakene, hvor varige er de, og hvem blir berørt?Hvilket tiltak anbefales, og hvorfor?Hva er forutsetningene for en vellykket gjennomføring?
+En utredning skal besvare følgende spørsmål:
+
+1. Hva er problemet, og hva vil vi oppnå?
+2. Hvilke tiltak er relevante?
+3. Hvilke prinsipielle spørsmål reiser tiltakene?
+4. Hva er de positive og negative virkningene av tiltakene, hvor varige er de, og hvem blir berørt?
+5. Hvilket tiltak anbefales, og hvorfor?
+6. Hva er forutsetningene for en vellykket gjennomføring?
 
 Utredningen skal omfatte virkninger for enkeltpersoner, privat og offentlig næringsvirksomhet, statlig, fylkeskommunal og kommunal forvaltning og andre berørte.
 
@@ -102,7 +114,11 @@ Offentlige utredninger, forslag til lov og forskrift og forslag til tiltak med v
 
 Høringsfristen skal normalt være tre måneder, og ikke mindre enn seks uker. Høringsfristen i EØS- og Schengen-saker skal tilpasses den tiden som står til rådighet, og kan være kortere enn seks uker.
 
-Høring kan unnlates dersom denikke vil være praktisk gjennomførbarkan vanskeliggjøre gjennomføringen av tiltaket ellermå anses som åpenbart unødvendig.
+Høring kan unnlates dersom den
+
+- ikke vil være praktisk gjennomførbar
+- kan vanskeliggjøre gjennomføringen av tiltaket eller
+- må anses som åpenbart unødvendig.
 
 En beslutning om å unnlate høring skal være skriftlig og begrunnet og skal følge saken.
 

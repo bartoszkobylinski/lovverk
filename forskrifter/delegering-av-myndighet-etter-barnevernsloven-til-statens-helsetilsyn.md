@@ -22,6 +22,10 @@ eu_basis: []
 
 # Delegering av myndighet etter barnevernsloven til Statens helsetilsyn
 
-Følgende oppgaver delegeres til Statens helsetilsyn som overordnet tilsynsmyndighet på barnevernsområdet:Det overordnede ansvaret for behandling av klager etter [barnevernsloven § 12-9](lov/2021-06-18-97/§12-9) og [§ 10-14](lov/2021-06-18-97/§10-14). Ansvaret omfatter også behandling av klage på statsforvalterens vedtak om avvisning av klage. Statens helsetilsyn er overordnet myndighet etter [forvaltningsloven § 35](lov/1967-02-10/§35) ved behandling av klager etter denne bestemmelsen.Det overordnede ansvaret for behandling av klager på statsforvalterens vedtak etter [forvaltningsloven § 36](lov/1967-02-10/§36) om dekning av saksomkostninger i saker etter [barnevernsloven § 12-8](lov/2021-06-18-97/§12-8) og [§ 10-14](lov/2021-06-18-97/§10-14).Det overordnede ansvaret for behandling av klager på avslag om innsyn i saker og dokumenter knyttet til statsforvalterens tilsynsvirksomhet på barnevernsområdet.
+Følgende oppgaver delegeres til Statens helsetilsyn som overordnet tilsynsmyndighet på barnevernsområdet:
+
+1. Det overordnede ansvaret for behandling av klager etter [barnevernsloven § 12-9](lov/2021-06-18-97/§12-9) og [§ 10-14](lov/2021-06-18-97/§10-14). Ansvaret omfatter også behandling av klage på statsforvalterens vedtak om avvisning av klage. Statens helsetilsyn er overordnet myndighet etter [forvaltningsloven § 35](lov/1967-02-10/§35) ved behandling av klager etter denne bestemmelsen.
+2. Det overordnede ansvaret for behandling av klager på statsforvalterens vedtak etter [forvaltningsloven § 36](lov/1967-02-10/§36) om dekning av saksomkostninger i saker etter [barnevernsloven § 12-8](lov/2021-06-18-97/§12-8) og [§ 10-14](lov/2021-06-18-97/§10-14).
+3. Det overordnede ansvaret for behandling av klager på avslag om innsyn i saker og dokumenter knyttet til statsforvalterens tilsynsvirksomhet på barnevernsområdet.
 
 Delegeringen gjelder fra 1. januar 2023. Fra same tidspunkt oppheves departementets delegering av myndighet til Statens helsetilsyn ved [vedtak 18. desember 2009 nr. 1931](forskrift/2009-12-18-1931) og [vedtak 18. juni 2013 nr. 1795](forskrift/2013-06-18-1795).

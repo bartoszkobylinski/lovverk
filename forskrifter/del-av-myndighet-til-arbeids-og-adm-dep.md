@@ -24,7 +24,12 @@ eu_basis: []
 
 ## I
 
-Myndighet og forvaltningsoppgaver vedrørende regulering av arbeidsmarkedet og sivil arbeidsplikt under krig, krigsfare og liknende forhold etter følgende lover overføres til Arbeids- og administrasjonsdepartementet:[lov av 15. desember 1950 nr. 7](lov/1950-12-15-7) om særlig rådgjerder under krig, krigsfare og liknende forhold, [§ 3](lov/1950-12-15-7/§3) og[lov av 14. desember 1956 nr. 7](lov/1956-12-14-7) om forsynings- og beredskapstiltak, [§ 30](lov/1956-12-14-7/§30)for så vidt myndighet etter disse lover ikke ved eget vedtak er lagt til annet forvaltningsorgan og for øvrig som beskrevet i foredraget og i vedlegg til denne resolusjon.
+Myndighet og forvaltningsoppgaver vedrørende regulering av arbeidsmarkedet og sivil arbeidsplikt under krig, krigsfare og liknende forhold etter følgende lover overføres til Arbeids- og administrasjonsdepartementet:
+
+- [lov av 15. desember 1950 nr. 7](lov/1950-12-15-7) om særlig rådgjerder under krig, krigsfare og liknende forhold, [§ 3](lov/1950-12-15-7/§3) og
+- [lov av 14. desember 1956 nr. 7](lov/1956-12-14-7) om forsynings- og beredskapstiltak, [§ 30](lov/1956-12-14-7/§30)
+
+for så vidt myndighet etter disse lover ikke ved eget vedtak er lagt til annet forvaltningsorgan og for øvrig som beskrevet i foredraget og i vedlegg til denne resolusjon.
 
 ## II
 

@@ -34,27 +34,57 @@ Forskriften gjelder for avlyste, stengte eller nedskalerte kulturarrangementer i
 
 ### § 3. Kompensasjonsperioder
 
-Kompensasjonsperioder etter denne forskriften er:1. november til 30. november 20211. desember til 31. desember 20211. januar til 31. januar 20221. februar til 28. februar 2022.
+Kompensasjonsperioder etter denne forskriften er:
+
+1. 1\. november til 30. november 2021
+2. 1\. desember til 31. desember 2021
+3. 1\. januar til 31. januar 2022
+4. 1\. februar til 28. februar 2022.
 
 ### § 4. Kulturarrangement
 
-Med kulturarrangement som nevnt i denne forskrift, menes arrangement som erkonserterteater- og danseforestillingerstand-upsirkuslitteraturarrangementfilmvisninger og nasjonal distribusjon av film til kinokunstutstillinger, museumsutstillinger og formidlingstiltak i museumannet arrangement som i hovedsak formidler et kulturelt eller kunstnerisk innhold.
+Med kulturarrangement som nevnt i denne forskrift, menes arrangement som er
+
+1. konserter
+2. teater- og danseforestillinger
+3. stand-up
+4. sirkus
+5. litteraturarrangement
+6. filmvisninger og nasjonal distribusjon av film til kino
+7. kunstutstillinger, museumsutstillinger og formidlingstiltak i museum
+8. annet arrangement som i hovedsak formidler et kulturelt eller kunstnerisk innhold.
 
 ## Kapittel 2 – Hvem som kan motta kompensasjon
 
 ### § 5. Hvilke arrangører som kan tildeles kompensasjon
 
-(1) Arrangører som i hovedsak formidler eller gjør kunst og kultur tilgjengelig til allmennheten, kan tildeles kompensasjon når følgende vilkår er oppfylt:Arrangøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 1. oktober 2021.Arrangøren har hatt et omsetningsfall på minst 30 prosent i kompensasjonsperioden, jf. [§ 7](forskrift/2022-03-08-345/§7).
+(1) Arrangører som i hovedsak formidler eller gjør kunst og kultur tilgjengelig til allmennheten, kan tildeles kompensasjon når følgende vilkår er oppfylt:
 
-(2) Kompensasjon kan ikke gis til arrangører som:er under konkursbehandling,mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019,på søknadstidspunktet er registrert i Frivillighetsregisteret, ellerpå tildelingstidspunktet er et foretak i vanskeligheter slik definert i forordning [(EU) nr. 651/2014](eu/32014r0651) [artikkel 2](eu/32014r0651/a2) nr. 18, jf. [forskrift 14. november 2008 nr. 1213 om unntak fra notifikasjonsplikt for offentlig støtte § 1](forskrift/2008-11-14-1213/§1), hvis arrangøren også var i vanskeligheter 31. desember 2019.
+1. Arrangøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 1. oktober 2021.
+2. Arrangøren har hatt et omsetningsfall på minst 30 prosent i kompensasjonsperioden, jf. [§ 7](forskrift/2022-03-08-345/§7).
+
+(2) Kompensasjon kan ikke gis til arrangører som:
+
+1. er under konkursbehandling,
+2. mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019,
+3. på søknadstidspunktet er registrert i Frivillighetsregisteret, eller
+4. på tildelingstidspunktet er et foretak i vanskeligheter slik definert i forordning [(EU) nr. 651/2014](eu/32014r0651) [artikkel 2](eu/32014r0651/a2) nr. 18, jf. [forskrift 14. november 2008 nr. 1213 om unntak fra notifikasjonsplikt for offentlig støtte § 1](forskrift/2008-11-14-1213/§1), hvis arrangøren også var i vanskeligheter 31. desember 2019.
 
 (3) Det utbetales ikke kompensasjon dersom det innen utbetalingen blir åpnet konkurs hos arrangøren.
 
 ### § 6. Hvilke underleverandører som kan tildeles kompensasjon
 
-(1) Underleverandører til kulturarrangement kan tildeles kompensasjon når følgende vilkår er oppfylt:Underleverandøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 1. oktober 2021Underleverandøren har hatt et omsetningsfall på minst 30 prosent i kompensasjonsperioden, jf. [§ 7](forskrift/2022-03-08-345/§7).
+(1) Underleverandører til kulturarrangement kan tildeles kompensasjon når følgende vilkår er oppfylt:
 
-(2) Kompensasjon kan ikke gis til underleverandører som:er under konkursbehandling,mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019på søknadstidspunktet er registrert i Frivillighetsregisteret, ellerpå tildelingstidspunktet er et foretak i vanskeligheter slik definert i forordning [(EU) nr. 651/2014](eu/32014r0651) [artikkel 2](eu/32014r0651/a2) nr. 18, jf. [forskrift 14. november 2008 nr. 1213 om unntak fra notifikasjonsplikt for offentlig støtte § 1](forskrift/2008-11-14-1213/§1), hvis underleverandøren også var i vanskeligheter 31. desember 2019.
+1. Underleverandøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 1. oktober 2021
+2. Underleverandøren har hatt et omsetningsfall på minst 30 prosent i kompensasjonsperioden, jf. [§ 7](forskrift/2022-03-08-345/§7).
+
+(2) Kompensasjon kan ikke gis til underleverandører som:
+
+1. er under konkursbehandling,
+2. mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019
+3. på søknadstidspunktet er registrert i Frivillighetsregisteret, eller
+4. på tildelingstidspunktet er et foretak i vanskeligheter slik definert i forordning [(EU) nr. 651/2014](eu/32014r0651) [artikkel 2](eu/32014r0651/a2) nr. 18, jf. [forskrift 14. november 2008 nr. 1213 om unntak fra notifikasjonsplikt for offentlig støtte § 1](forskrift/2008-11-14-1213/§1), hvis underleverandøren også var i vanskeligheter 31. desember 2019.
 
 (3) Med underleverandør menes aktører innenfor lys, lyd, bilde og rigg, artister, management, booking og filmdistributører som leverer tjenester eller innhold til et kulturarrangement, billettselskaper og aktører som leier ut lokaler der det skal gjennomføres et kulturarrangement.
 
@@ -74,9 +104,19 @@ Med kulturarrangement som nevnt i denne forskrift, menes arrangement som erkonse
 
 ### § 8. Hva det kan gis kompensasjon for
 
-(1) Det kan gis kompensasjon til en arrangør på inntil 70 prosent av tapte inntekter knyttet til et kulturarrangement når følgende vilkår er oppfylt:Kulturarrangementet ble eller skulle ha blitt avholdt i en av kompensasjonsperiodene, jf. [§ 3](forskrift/2022-03-08-345/§3)Kulturarrangementet ble avlyst, stengt eller nedskalert som følge av klare og dokumenterbare råd eller pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddetKulturarrangementet var eller skulle vært billettert og åpent for allmennhetenKulturarrangementet var senest planlagt 15 dager før gjennomføringsdato.
+(1) Det kan gis kompensasjon til en arrangør på inntil 70 prosent av tapte inntekter knyttet til et kulturarrangement når følgende vilkår er oppfylt:
 
-(2) Det kan gis kompensasjon til en underleverandør på inntil 70 prosent av tapte inntekter knyttet til kulturarrangement som underleverandøren skulle levere eller leverte tjenester eller innhold til når følgende vilkår er oppfylt:Kulturarrangementet ble eller skulle ha blitt avholdt i en av kompensasjonsperiodene, jf. [§ 3](forskrift/2022-03-08-345/§3)Kulturarrangementet ble avlyst, stengt eller nedskalert som følge av klare og dokumenterbare råd eller pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddetKulturarrangementet var eller skulle vært åpent for allmennhetenKulturarrangementet var senest planlagt 15 dager før gjennomføringsdato.
+1. Kulturarrangementet ble eller skulle ha blitt avholdt i en av kompensasjonsperiodene, jf. [§ 3](forskrift/2022-03-08-345/§3)
+2. Kulturarrangementet ble avlyst, stengt eller nedskalert som følge av klare og dokumenterbare råd eller pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddet
+3. Kulturarrangementet var eller skulle vært billettert og åpent for allmennheten
+4. Kulturarrangementet var senest planlagt 15 dager før gjennomføringsdato.
+
+(2) Det kan gis kompensasjon til en underleverandør på inntil 70 prosent av tapte inntekter knyttet til kulturarrangement som underleverandøren skulle levere eller leverte tjenester eller innhold til når følgende vilkår er oppfylt:
+
+1. Kulturarrangementet ble eller skulle ha blitt avholdt i en av kompensasjonsperiodene, jf. [§ 3](forskrift/2022-03-08-345/§3)
+2. Kulturarrangementet ble avlyst, stengt eller nedskalert som følge av klare og dokumenterbare råd eller pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddet
+3. Kulturarrangementet var eller skulle vært åpent for allmennheten
+4. Kulturarrangementet var senest planlagt 15 dager før gjennomføringsdato.
 
 (3) Det gis ikke kompensasjon dersom foretaket har mottatt støtte til samme arrangement i henhold til [forskrift 14. mai 2021 nr. 1521 om midlertidig tilskudd til kulturarrangement fra juli 2021 som følge av covid-19](forskrift/2021-05-14-1521) (stimuleringsordningen), eller i henhold til støtteordningen for midlertidig tilskudd til frivillighetssektoren som følge av covid-19-utbruddet.
 
@@ -98,7 +138,11 @@ Med kulturarrangement som nevnt i denne forskrift, menes arrangement som erkonse
 
 (2) Tapte inntekter som har blitt dekket eller kan dekkes av foretakets forsikringsordning eller avtale mv. skal trekkes fra beregnet kompensasjon.
 
-(3) Tapte inntekter som har blitt kompensert fra andre offentlige covid-19-ordninger skal trekkes fra beregnet kompensasjon. Dette gjelder likevel ikke tilskudd mottatt som, eller i henhold tilforskrifter til utfylling og gjennomføring av [lov 18. desember 2020 nr. 156 om midlertidig tilskuddsordning for foretak med stort omsetningsfall](lov/2020-12-18-156) (kompensasjonsordningen for næringslivet).forskrifter til utfylling og gjennomføring av [lov 28. januar 2022 nr. 2 om lønnsstøtte (økonomiske tiltak i møte med pandemien)](lov/2022-01-28-2) (lønnsstøtteordningen).uspesifisert støtte fra kommunene som er gitt i tråd med regelverket om bagatellmessig støtte.
+(3) Tapte inntekter som har blitt kompensert fra andre offentlige covid-19-ordninger skal trekkes fra beregnet kompensasjon. Dette gjelder likevel ikke tilskudd mottatt som, eller i henhold til
+
+1. forskrifter til utfylling og gjennomføring av [lov 18. desember 2020 nr. 156 om midlertidig tilskuddsordning for foretak med stort omsetningsfall](lov/2020-12-18-156) (kompensasjonsordningen for næringslivet).
+2. forskrifter til utfylling og gjennomføring av [lov 28. januar 2022 nr. 2 om lønnsstøtte (økonomiske tiltak i møte med pandemien)](lov/2022-01-28-2) (lønnsstøtteordningen).
+3. uspesifisert støtte fra kommunene som er gitt i tråd med regelverket om bagatellmessig støtte.
 
 ### § 11. Øvre grenser for kompensasjon
 
@@ -106,7 +150,11 @@ Med kulturarrangement som nevnt i denne forskrift, menes arrangement som erkonse
 
 (2) For konsern kan summen av kompensasjon til alle foretakene i konsernet som mottar kompensasjon etter denne forskriften, samt etter [forskrift 26. mai 2021 nr. 1642](forskrift/2021-05-26-1642), [forskrift 1. oktober 2021 nr. 2923](forskrift/2021-10-01-2923) eller andre norske covid-19-ordninger hjemlet i kapittel 3.1. i EU-kommisjonens midlertidige ramme for offentlig støtte for økonomien under covid-19-utbruddet ikke overstige 23 mill. kroner. Et konsern må utpeke et foretak med en kontaktperson som er ansvarlig for å opplyse om konsernets eierstruktur og konsernets øvrige innsendte opplysninger. Alle foretak må i søknaden opplyse om de inngår i et konsern, og om ansvarlig foretak i konsernet.
 
-(3) Følgende grenser gjelder:Kompensasjon, jf. [§ 10](forskrift/2022-03-08-345/§10), justert for eventuell avkortning etter dette kapittelet, kan ikke gi et positivt ordinært resultat før skattekostnad i foretaket i kompensasjonsperioden som overstiger foretakets gjennomsnittlige resultat i sammenligningsperioden, jf. [§ 7](forskrift/2022-03-08-345/§7) (1), i 2017–2019. I slike tilfeller vil kompensasjonen bli avkortet, slik at resultatet i kompensasjonsperioden tilsvarer det gjennomsnittlige resultatet i sammenligningsperioden i 2017–2019.For foretak som har beregnet omsetningsfall etter [§ 7](forskrift/2022-03-08-345/§7) (2) vil kompensasjonen bli avkortet slik at resultatet i kompensasjonsperioden tilsvarer det gjennomsnittlige resultatet i kalendermånedene januar og februar 2020.For foretak som har beregnet omsetningsfall etter [§ 7](forskrift/2022-03-08-345/§7) (3) kan kompensasjonen ikke gi et positivt ordinært resultat før skattekostnad for foretaket i kompensasjonsperioden.
+(3) Følgende grenser gjelder:
+
+1. Kompensasjon, jf. [§ 10](forskrift/2022-03-08-345/§10), justert for eventuell avkortning etter dette kapittelet, kan ikke gi et positivt ordinært resultat før skattekostnad i foretaket i kompensasjonsperioden som overstiger foretakets gjennomsnittlige resultat i sammenligningsperioden, jf. [§ 7](forskrift/2022-03-08-345/§7) (1), i 2017–2019. I slike tilfeller vil kompensasjonen bli avkortet, slik at resultatet i kompensasjonsperioden tilsvarer det gjennomsnittlige resultatet i sammenligningsperioden i 2017–2019.
+2. For foretak som har beregnet omsetningsfall etter [§ 7](forskrift/2022-03-08-345/§7) (2) vil kompensasjonen bli avkortet slik at resultatet i kompensasjonsperioden tilsvarer det gjennomsnittlige resultatet i kalendermånedene januar og februar 2020.
+3. For foretak som har beregnet omsetningsfall etter [§ 7](forskrift/2022-03-08-345/§7) (3) kan kompensasjonen ikke gi et positivt ordinært resultat før skattekostnad for foretaket i kompensasjonsperioden.
 
 (4) Selvstendig næringsdrivende registrert i Brønnøysundregistret som enkeltpersonforetak (ENK) eller ansvarlig selskap (ANS/DA), kan, alternativt til resultatet etter beregningen i tredje ledd, ha et positivt ordinært resultat i selskapet før skattekostnad på 36 081 kroner pr. kompensasjonsperiode inkludert kompensasjon fra denne ordningen.
 
@@ -160,7 +208,10 @@ Beregnet kompensasjon, jf. [§ 10](forskrift/2022-03-08-345/§10), justert i sam
 
 ### § 18. Forbud mot å utdele utbytte
 
-(1) Foretak som mottar kompensasjon etter denne forskriften kan ikke utdele utbytte. Dette innebærer at følgende disposisjoner ikke kan foretas:vedtak om eller utbetaling av utbytte, ellervedtak eller gjennomføring av andre disposisjoner som skal ligge innenfor rammen av de midler selskapet kan benytte til utdeling av utbytte etter [aksjeloven](lov/1997-06-13-44) eller [allmennaksjeloven § 8-1](lov/1997-06-13-45/§8-1).
+(1) Foretak som mottar kompensasjon etter denne forskriften kan ikke utdele utbytte. Dette innebærer at følgende disposisjoner ikke kan foretas:
+
+1. vedtak om eller utbetaling av utbytte, eller
+2. vedtak eller gjennomføring av andre disposisjoner som skal ligge innenfor rammen av de midler selskapet kan benytte til utdeling av utbytte etter [aksjeloven](lov/1997-06-13-44) eller [allmennaksjeloven § 8-1](lov/1997-06-13-45/§8-1).
 
 (2) Forbudet etter første ledd gjelder fra forskriften trer i kraft og til og med 31. desember 2022.
 

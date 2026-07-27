@@ -53,7 +53,11 @@ Ordningen blir kunngjort på Kulturdirektoratets nettsider og øvrige publiserin
 
 Søker skal benytte søknadsskjema som er tilgjengelig på Kulturdirektoratets nettsider.
 
-Søknaden må inneholde følgende opplysninger:Beskrivelse av mål og målgruppe, aktiviteter og framdriftsplan for prosjektet.Budsjett med presisering av eventuelle administrative kostnader knyttet til gjennomføringen av prosjektet. Budsjettet må også inneholde opplysninger om egeninnsats og om det er søkt eller mottatt støtte fra andre kilder.Informasjon om den som søker (navn, adresse, e-postadresse, telefonnummer, norsk organisasjonsnummer/personnummer).
+Søknaden må inneholde følgende opplysninger:
+
+1. Beskrivelse av mål og målgruppe, aktiviteter og framdriftsplan for prosjektet.
+2. Budsjett med presisering av eventuelle administrative kostnader knyttet til gjennomføringen av prosjektet. Budsjettet må også inneholde opplysninger om egeninnsats og om det er søkt eller mottatt støtte fra andre kilder.
+3. Informasjon om den som søker (navn, adresse, e-postadresse, telefonnummer, norsk organisasjonsnummer/personnummer).
 
 Kulturdirektoratet har anledning til å innhente tilleggsopplysninger og til å kontrollere at opplysninger i søknaden er korrekte.
 
@@ -83,7 +87,13 @@ Tilskuddsmottaker skal levere rapport og regnskap for bruk av tilskuddsmidlene i
 
 Kulturdirektoratet kan kontrollere om midlene blir benyttet etter forutsetningene og om opplysningene i søknaden og rapporteringen er korrekte. Mottaker skal på forespørsel legge fram opplysninger og bidra på andre måter til å legge til rette for kontrollarbeidet.
 
-Kulturdirektoratet kan stanse utbetaling eller kreve at mottaker helt eller delvis tilbakebetaler utbetalt tilskudd dersom:tilskuddet ikke er brukt i tråd med denne forskriften og/eller tilskuddsbrevettildeling av tilskudd bygger på uriktige opplysninger fra søkertilskuddsmottaker ikke har levert regnskap og rapport innen fastsatt fristrapport og regnskap ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsbrevet er oppfyltikke hele tilskuddsbeløpet er benyttet.
+Kulturdirektoratet kan stanse utbetaling eller kreve at mottaker helt eller delvis tilbakebetaler utbetalt tilskudd dersom:
+
+1. tilskuddet ikke er brukt i tråd med denne forskriften og/eller tilskuddsbrevet
+2. tildeling av tilskudd bygger på uriktige opplysninger fra søker
+3. tilskuddsmottaker ikke har levert regnskap og rapport innen fastsatt frist
+4. rapport og regnskap ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsbrevet er oppfylt
+5. ikke hele tilskuddsbeløpet er benyttet.
 
 > Endret ved forskrift [21 juni 2024 nr. 1191](forskrift/2024-06-21-1191).
 

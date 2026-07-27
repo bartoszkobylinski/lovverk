@@ -32,7 +32,22 @@ Forskriften gjelder tilvirkning av legemidler i apotek. Direktoratet for medisin
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med:*Tilvirkning:* Fremstilling, pakking, ompakking, etikettering, ometikettering og frigivelse av legemidler, samt de nødvendige kontroller i forbindelse med disse aktiviteter. Alle operasjoner som inngår i produksjon og kontroll fra mottak av råvarer til godkjenning av ferdigprodukt, samt dispensering av ferdigprodukt eller råvare regnes som tilvirkning.*Resepturproduksjon:* Tilvirkning av legemiddel for det enkelte tilfelle.*Lagerproduksjon:* Tilvirkning av legemiddel til lager og som ikke er resepturproduksjon.*Resepturleieproduksjon:* Resepturproduksjon hvor legemidlet selges til andre selvstendige apotek.*Råvare:* Substans som anvendes i tilvirkningen.*Ferdigprodukt:* Legemiddel som har gjennomgått alle trinn i fremstillingen, og som er kontrollert og frigitt for bruk.*Mellomprodukt:* Produsert materiale som må gjennomgå en eller flere delprosesser for å bli ferdigprodukt.*Bulkprodukt:* Et produkt som må fylles, pakkes eller etiketteres for å bli ferdigprodukt.*Batch:* En definert mengde råvare, emballasje eller produkt som blir produsert i en prosess eller en serie prosesser, slik at det forventes å bli homogent.*Batchnummer:* En entydig betegnelse, f.eks. tallnummer, for en bestemt batch.*Sluttkontroll:* De kontroller som skal gjøres før ansvarlig farmasøyt godkjenner legemidlet for bruk.*Karantene:* Status til en vare som er adskilt fysisk eller på andre effektive måter, i påvente av en beslutning om frigivelse eller underkjennelse.*Kvalifisering:* Fremgangsmåte for å bevise at utstyr fungerer korrekt og gir forventede resultater.*Validering:* Bevise, i samsvar med prinsippene om GMP, at prosedyre, prosess, utstyr, materiale, aktivitet eller system gir forventede resultater.
+I denne forskrift menes med:
+
+1. *Tilvirkning:* Fremstilling, pakking, ompakking, etikettering, ometikettering og frigivelse av legemidler, samt de nødvendige kontroller i forbindelse med disse aktiviteter. Alle operasjoner som inngår i produksjon og kontroll fra mottak av råvarer til godkjenning av ferdigprodukt, samt dispensering av ferdigprodukt eller råvare regnes som tilvirkning.
+2. *Resepturproduksjon:* Tilvirkning av legemiddel for det enkelte tilfelle.
+3. *Lagerproduksjon:* Tilvirkning av legemiddel til lager og som ikke er resepturproduksjon.
+4. *Resepturleieproduksjon:* Resepturproduksjon hvor legemidlet selges til andre selvstendige apotek.
+5. *Råvare:* Substans som anvendes i tilvirkningen.
+6. *Ferdigprodukt:* Legemiddel som har gjennomgått alle trinn i fremstillingen, og som er kontrollert og frigitt for bruk.
+7. *Mellomprodukt:* Produsert materiale som må gjennomgå en eller flere delprosesser for å bli ferdigprodukt.
+8. *Bulkprodukt:* Et produkt som må fylles, pakkes eller etiketteres for å bli ferdigprodukt.
+9. *Batch:* En definert mengde råvare, emballasje eller produkt som blir produsert i en prosess eller en serie prosesser, slik at det forventes å bli homogent.
+10. *Batchnummer:* En entydig betegnelse, f.eks. tallnummer, for en bestemt batch.
+11. *Sluttkontroll:* De kontroller som skal gjøres før ansvarlig farmasøyt godkjenner legemidlet for bruk.
+12. *Karantene:* Status til en vare som er adskilt fysisk eller på andre effektive måter, i påvente av en beslutning om frigivelse eller underkjennelse.
+13. *Kvalifisering:* Fremgangsmåte for å bevise at utstyr fungerer korrekt og gir forventede resultater.
+14. *Validering:* Bevise, i samsvar med prinsippene om GMP, at prosedyre, prosess, utstyr, materiale, aktivitet eller system gir forventede resultater.
 
 ### § 3. Dispensasjon fra krav
 
@@ -54,7 +69,12 @@ For tilvirkning av radiofarmaka kreves også tillatelse fra Direktoratet for str
 
 ### § 5. Tilvirkertillatelsens omfang
 
-I den grad kravene i denne forskrift er oppfylt, kan tilvirkertillatelsen omfatte:resepturproduksjon,resepturleieproduksjon,lagerproduksjon, ellersalg av egen lagerproduksjon til grossister eller andre apotek.
+I den grad kravene i denne forskrift er oppfylt, kan tilvirkertillatelsen omfatte:
+
+1. resepturproduksjon,
+2. resepturleieproduksjon,
+3. lagerproduksjon, eller
+4. salg av egen lagerproduksjon til grossister eller andre apotek.
 
 Tilvirkningens tillatte omfang skal fremgå av tillatelsen, herunder eventuelle begrensninger i hvilke legemiddelformer som skal kunne tilvirkes.
 
@@ -70,7 +90,15 @@ Direktoratet for medisinske produkter kan sette vilkår for innvilgelse av tilvi
 
 Søknad om tilvirkertillatelse skal sendes til Direktoratet for medisinske produkter.
 
-I søknaden skal søkeren gi de opplysninger som er nødvendige for å vise at kravene til tilvirkertillatelse er oppfylt, herunder opplysninger om:hvilke legemiddelformer som ønskes produsert.hvilke legemiddelformer som ønskes produsert for lagerhold.hvilke legemiddelformer som ønskes solgt til andre apotek og grossister.oversikt over organisasjons- og ansvarsforhold knyttet til tilvirkningen, herunder opplysninger om hvem som søkes godkjent som kontrollfarmasøyt.opplysninger om innkjøp og kontroll av råvarer til bruk i legemiddeltilvirkningen.opplysninger om hvordan kvalitetskontroll av legemidler skal gjøres, herunder bruk av underleverandører av slike tjenester.opplysninger om de lokalene som skal benyttes ved tilvirkningen.
+I søknaden skal søkeren gi de opplysninger som er nødvendige for å vise at kravene til tilvirkertillatelse er oppfylt, herunder opplysninger om:
+
+1. hvilke legemiddelformer som ønskes produsert.
+2. hvilke legemiddelformer som ønskes produsert for lagerhold.
+3. hvilke legemiddelformer som ønskes solgt til andre apotek og grossister.
+4. oversikt over organisasjons- og ansvarsforhold knyttet til tilvirkningen, herunder opplysninger om hvem som søkes godkjent som kontrollfarmasøyt.
+5. opplysninger om innkjøp og kontroll av råvarer til bruk i legemiddeltilvirkningen.
+6. opplysninger om hvordan kvalitetskontroll av legemidler skal gjøres, herunder bruk av underleverandører av slike tjenester.
+7. opplysninger om de lokalene som skal benyttes ved tilvirkningen.
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -88,9 +116,22 @@ Endring av tilvirkertillatelsens omfang og vilkår, herunder ved skifte av kontr
 
 ### § 10. Tilbakekall av tilvirkertillatelse
 
-Direktoratet for medisinske produkter skal kalle tilbake hele eller deler av tilvirkertillatelsen:ved bevisst feilaktig eller mangelfull angivelse av sted for tilvirkning eller hvilke legemiddelformer som tilvirkes,ved vesentlig brudd på de krav som stilles til lokaler, teknisk utstyr og kontrollmuligheter ved tilvirkning av produktene, ellerhvis tilvirkeren ikke lenger har til rådighet en godkjent kontrollfarmasøyt.
+Direktoratet for medisinske produkter skal kalle tilbake hele eller deler av tilvirkertillatelsen:
 
-Direktoratet for medisinske produkter kan kalle tilbake eller endre tilvirkertillatelsen:hvis søkeren har gitt feilaktige opplysninger i søknaden om tilvirkertillatelse, eller har unnlatt å melde fra om endrede forutsetninger for tillatelsen,ved mislighold av vilkår som er satt til tilvirkertillatelsen,ved tilvirkning i andre lokaler eller av andre legemidler eller legemiddelformer enn de som omfattes av tillatelsen,ved mangelfull oppfyllelse av de krav som stilles i forskrift til virksomhetens personale og til å sette kontrollfarmasøyt i stand til å utføre sine plikter,ved manglende overholdelse av leveringsplikt,ved manglende underretninger om foretatt utskifting av kontrollfarmasøyt,ved mangelfull dokumentasjon eller attestasjon i henhold til de krav som stilles til tilvirkning av legemidler i apotek eller ved mangelfull etterlevelse av de tilvirkningsoperasjoner som følger av markedsføringstillatelse, ellerved mislighold av pålagte kontrollkrav.
+1. ved bevisst feilaktig eller mangelfull angivelse av sted for tilvirkning eller hvilke legemiddelformer som tilvirkes,
+2. ved vesentlig brudd på de krav som stilles til lokaler, teknisk utstyr og kontrollmuligheter ved tilvirkning av produktene, eller
+3. hvis tilvirkeren ikke lenger har til rådighet en godkjent kontrollfarmasøyt.
+
+Direktoratet for medisinske produkter kan kalle tilbake eller endre tilvirkertillatelsen:
+
+1. hvis søkeren har gitt feilaktige opplysninger i søknaden om tilvirkertillatelse, eller har unnlatt å melde fra om endrede forutsetninger for tillatelsen,
+2. ved mislighold av vilkår som er satt til tilvirkertillatelsen,
+3. ved tilvirkning i andre lokaler eller av andre legemidler eller legemiddelformer enn de som omfattes av tillatelsen,
+4. ved mangelfull oppfyllelse av de krav som stilles i forskrift til virksomhetens personale og til å sette kontrollfarmasøyt i stand til å utføre sine plikter,
+5. ved manglende overholdelse av leveringsplikt,
+6. ved manglende underretninger om foretatt utskifting av kontrollfarmasøyt,
+7. ved mangelfull dokumentasjon eller attestasjon i henhold til de krav som stilles til tilvirkning av legemidler i apotek eller ved mangelfull etterlevelse av de tilvirkningsoperasjoner som følger av markedsføringstillatelse, eller
+8. ved mislighold av pålagte kontrollkrav.
 
 Vedtak etter første og annet ledd kan være tidsbegrenset eller endelig.
 
@@ -114,7 +155,12 @@ Produktkontroll i henhold til gjeldende farmakopé skal foretas ved tilvirkning 
 
 Produkter med virkestoffer som er sterkt hygroskopiske eller som lett kan forvitre, bør kontrolleres, f.eks. ved tetthetsbestemmelse av oppløsninger.
 
-Det skal utføres en kvantitativ bestemmelse av virkestoffer for følgende produktgrupper:Doserte legemidler, med unntak av stikkpiller, hvor et enkelt virkestoff inngår med mengder på 50 mg eller mindre.Stikkpiller.Triturasjoner, ekstrakter og diluenda av sterktvirkende stoffer.Fortynninger av syrer, ammoniakk o.l. til medisinsk bruk.
+Det skal utføres en kvantitativ bestemmelse av virkestoffer for følgende produktgrupper:
+
+1. Doserte legemidler, med unntak av stikkpiller, hvor et enkelt virkestoff inngår med mengder på 50 mg eller mindre.
+2. Stikkpiller.
+3. Triturasjoner, ekstrakter og diluenda av sterktvirkende stoffer.
+4. Fortynninger av syrer, ammoniakk o.l. til medisinsk bruk.
 
 ### § 13. Råvare- og emballasjekontroll
 
@@ -194,7 +240,16 @@ Det skal utarbeides en hovedforskrift for hvert produkt og for hver batchstørre
 
 Hovedforskriften skal være kontrollert og autorisert av ansvarshavende for produksjon og kontroll.
 
-Arbeidsseddel for den enkelte batch skal være en kopi av den aktuelle del av hovedforskriften, laget slik at overføringsfeil elimineres. Arbeidsseddelen skal inneholde:produktets navn og batchnummer.detaljert fremstillingsforskrift.kontrollnummer for anvendte råvarer og emballasje.datoer for de ulike trinn i fremstillingen med signatur for operatør og eventuelt kontrollør.angivelse av utførte prosesskontroller, herunder utbyttekontroll og kontroll med etiketter.datert underskrift av produksjons ansvarlig.kjemiske, fysikalske og eventuelle mikrobiologiske analyseresultater.datert underskrift for frigivelse for salg av kontrollfarmasøyt.
+Arbeidsseddel for den enkelte batch skal være en kopi av den aktuelle del av hovedforskriften, laget slik at overføringsfeil elimineres. Arbeidsseddelen skal inneholde:
+
+1. produktets navn og batchnummer.
+2. detaljert fremstillingsforskrift.
+3. kontrollnummer for anvendte råvarer og emballasje.
+4. datoer for de ulike trinn i fremstillingen med signatur for operatør og eventuelt kontrollør.
+5. angivelse av utførte prosesskontroller, herunder utbyttekontroll og kontroll med etiketter.
+6. datert underskrift av produksjons ansvarlig.
+7. kjemiske, fysikalske og eventuelle mikrobiologiske analyseresultater.
+8. datert underskrift for frigivelse for salg av kontrollfarmasøyt.
 
 Når tilvirkningen er en dispensering av råvare eller bulkprodukt, skal hovedforskriften bestå av dispenseringsforskrift og kontrollforskrift.
 
@@ -208,7 +263,17 @@ Det enkelte produkt skal fortløpende tildeles et kontrollnummer. Produktets kon
 
 All tilvirkning skal foregå i henhold til arbeidsseddel. Arbeidssedler for produkter fremstilt ved resepturproduksjon oppbevares i minst ett år.
 
-Arbeidsseddelen skal inneholde:Kopi av resept eller hovedforskrift laget slik at overføringsfeil elimineres.Fullstendig fremstillingsforskrift, som gir uttrykk for den fremgangsmåte som er benyttet i fremstillingen. Viktige trinn i tilvirkningen skal være dokumentert.Eventuell steriliseringstid, steriliseringstemperatur og øvrige betingelser forbundet med fremstilling av sterile legemidler skal dokumenteres på arbeidsseddelen.Eventuelle beregninger, detaljert gjengitt.Kontrollnummer for anvendte råvarer.Dokumentasjon av avveining.Nøyaktig gjengivelse av produktmerking.Fremstillingsdato.Datert underskrift av den som har fremstilt produktet og, dersom produktet ikke er fremstilt av en farmasøyt, av den farmasøyt som godkjenner produkt. Ved resepturleieproduksjon skal kontrollfarmasøyt godkjenne produktet.
+Arbeidsseddelen skal inneholde:
+
+1. Kopi av resept eller hovedforskrift laget slik at overføringsfeil elimineres.
+2. Fullstendig fremstillingsforskrift, som gir uttrykk for den fremgangsmåte som er benyttet i fremstillingen. Viktige trinn i tilvirkningen skal være dokumentert.
+3. Eventuell steriliseringstid, steriliseringstemperatur og øvrige betingelser forbundet med fremstilling av sterile legemidler skal dokumenteres på arbeidsseddelen.
+4. Eventuelle beregninger, detaljert gjengitt.
+5. Kontrollnummer for anvendte råvarer.
+6. Dokumentasjon av avveining.
+7. Nøyaktig gjengivelse av produktmerking.
+8. Fremstillingsdato.
+9. Datert underskrift av den som har fremstilt produktet og, dersom produktet ikke er fremstilt av en farmasøyt, av den farmasøyt som godkjenner produkt. Ved resepturleieproduksjon skal kontrollfarmasøyt godkjenne produktet.
 
 ### § 23. Krav til produksjon
 
@@ -232,7 +297,14 @@ Det skal føres en fortløpende journal over mottatte råvarer og den enkelte r�
 
 Aseptisk arbeidsteknikk skal regelmessig kontrolleres ved å simulere en aseptisk fremstilling ved bruk av bakteriologisk næringsmedium.
 
-Ved lagerproduksjon og resepturleieproduksjon gjelder følgende:Kontrollfarmasøyten er ansvarlig for mottakskontroll av råvarer, emballasje og etiketter. Varene skal holdes i karantene inntil de er frigitt for produksjon. Retningslinjer for dette skal finnes i egen instruks.Kvalitetskontrollen skal dessuten omfatte kontroll av produksjonen, kontrollanalyser (herunder prøvetaking), referanselager og oppfølging av reklamasjoner. Det er likevel ikke krav om referanselager ved resepturleieproduksjon.Der det kreves en kvantitativ, en mikrobiologisk eller eventuelt en annen sluttkontroll av et produkt, kan utenforstående laboratorier benyttes til analyseoppdrag. Dersom analyseoppdraget utføres av en ekstern part, må dette oppdraget skje i henhold til en skriftlig avtale. Avtalen må spesifisere partenes oppgaver og ansvar.Ved lagerproduksjon skal mengde ferdig produkt vurderes mot teoretisk utbytte, forbruk av råvarer, etiketter og emballasje. Ved store eller unormale avvik som kan være av betydning for kvaliteten av produktet, skal ikke produktet frigis for salg uten at det er funnet en tilstrekkelig forklaring på avviket.Når det tas ut referanseprøver av ferdigprodukter skal disse lagres ved korrekt oppbevaringstemperatur for produktet. Prøvene skal oppbevares like lenge som arbeidsseddelen.Før frigivelse for salg skal det ferdige produkt holdes atskilt i karantene.
+Ved lagerproduksjon og resepturleieproduksjon gjelder følgende:
+
+1. Kontrollfarmasøyten er ansvarlig for mottakskontroll av råvarer, emballasje og etiketter. Varene skal holdes i karantene inntil de er frigitt for produksjon. Retningslinjer for dette skal finnes i egen instruks.
+2. Kvalitetskontrollen skal dessuten omfatte kontroll av produksjonen, kontrollanalyser (herunder prøvetaking), referanselager og oppfølging av reklamasjoner. Det er likevel ikke krav om referanselager ved resepturleieproduksjon.
+3. Der det kreves en kvantitativ, en mikrobiologisk eller eventuelt en annen sluttkontroll av et produkt, kan utenforstående laboratorier benyttes til analyseoppdrag. Dersom analyseoppdraget utføres av en ekstern part, må dette oppdraget skje i henhold til en skriftlig avtale. Avtalen må spesifisere partenes oppgaver og ansvar.
+4. Ved lagerproduksjon skal mengde ferdig produkt vurderes mot teoretisk utbytte, forbruk av råvarer, etiketter og emballasje. Ved store eller unormale avvik som kan være av betydning for kvaliteten av produktet, skal ikke produktet frigis for salg uten at det er funnet en tilstrekkelig forklaring på avviket.
+5. Når det tas ut referanseprøver av ferdigprodukter skal disse lagres ved korrekt oppbevaringstemperatur for produktet. Prøvene skal oppbevares like lenge som arbeidsseddelen.
+6. Før frigivelse for salg skal det ferdige produkt holdes atskilt i karantene.
 
 ## Kapittel 5. Ikrafttredelse
 

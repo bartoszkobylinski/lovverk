@@ -15,7 +15,7 @@ xml_hash: "7fd6bcf920799b4b82efcadeb1404cd0b200dec5deb3f8d5bc20c6f65882c980"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,20 @@ Denne forskrift regulerer besittelse, omsetning og transport av nukleært materi
 
 ### § 2. (definisjoner)
 
-I denne forskrift menes med*nukleært materiale:* plutonium, anriket uran, naturlig uran, utarmet uran, isotopen uran-233, thorium, samt ethvert materiale som inneholder ett eller flere av disse stoffer. Plutonium med mer enn 80% plutonium-238 regnes også som nukleært materiale dersom det ikke er innoperert i pasienter som ledd i medisinsk behandling. Malmer regnes ikke som nukleært materiale.*flerbruksvarer:* utstyr og ikke-nukleært materiale til bruk ved fremstilling, behandling og bruk av nukleært materiale, slik dette defineres i vedlegg II til Tilleggsprotokollen til Norges avtale om sikkerhetskontroll med Det internasjonale atomenergibyrået, IAEA.*anriket uran:* uran der innholdet av isotopen uran-235 er høyere enn i naturlig uran.*naturlig uran:* uran der innholdet av isotopen uran-235 er slik uran finnes i naturen (ca. 0,72%).*utarmet uran:* uran der innholdet av isotopen uran-235 er mindre enn i naturlig uran.*besitte:* fremstille, eie, lagre, behandle eller for øvrig inneha eller anbringe.*omsette:* importere, selge, donere, kjøpe eller eksportere.*sikkerhetskontroll:* den kontroll og de pålegg som fremmede stater eller internasjonale organisasjoner har avtalemessig rett til for å sikre at nukleært materiale og flerbruksvarer under norsk jurisdiksjon bare brukes til fredelige og ikke-eksplosive formål.*intern sikkerhetskontroll:* de tiltak og den kontroll som foretas fra norsk side for å muliggjøre og lette sikkerhetskontrollen.*kontrollorgan:* Direktoratet for strålevern og atomsikkerhet eller den institusjon som Direktoratet utpeker til å gjennomføre intern sikkerhetskontroll.*innehaver:* en fysisk eller juridisk person som besitter eller omsetter nukleært materiale og flerbruksvarer.*ikke-nukleære formål:* bruk i virksomhet som ikke omfattes av atomenergiloven.
+I denne forskrift menes med
+
+1. *nukleært materiale:* plutonium, anriket uran, naturlig uran, utarmet uran, isotopen uran-233, thorium, samt ethvert materiale som inneholder ett eller flere av disse stoffer. Plutonium med mer enn 80% plutonium-238 regnes også som nukleært materiale dersom det ikke er innoperert i pasienter som ledd i medisinsk behandling. Malmer regnes ikke som nukleært materiale.
+2. *flerbruksvarer:* utstyr og ikke-nukleært materiale til bruk ved fremstilling, behandling og bruk av nukleært materiale, slik dette defineres i vedlegg II til Tilleggsprotokollen til Norges avtale om sikkerhetskontroll med Det internasjonale atomenergibyrået, IAEA.
+3. *anriket uran:* uran der innholdet av isotopen uran-235 er høyere enn i naturlig uran.
+4. *naturlig uran:* uran der innholdet av isotopen uran-235 er slik uran finnes i naturen (ca. 0,72%).
+5. *utarmet uran:* uran der innholdet av isotopen uran-235 er mindre enn i naturlig uran.
+6. *besitte:* fremstille, eie, lagre, behandle eller for øvrig inneha eller anbringe.
+7. *omsette:* importere, selge, donere, kjøpe eller eksportere.
+8. *sikkerhetskontroll:* den kontroll og de pålegg som fremmede stater eller internasjonale organisasjoner har avtalemessig rett til for å sikre at nukleært materiale og flerbruksvarer under norsk jurisdiksjon bare brukes til fredelige og ikke-eksplosive formål.
+9. *intern sikkerhetskontroll:* de tiltak og den kontroll som foretas fra norsk side for å muliggjøre og lette sikkerhetskontrollen.
+10. *kontrollorgan:* Direktoratet for strålevern og atomsikkerhet eller den institusjon som Direktoratet utpeker til å gjennomføre intern sikkerhetskontroll.
+11. *innehaver:* en fysisk eller juridisk person som besitter eller omsetter nukleært materiale og flerbruksvarer.
+12. *ikke-nukleære formål:* bruk i virksomhet som ikke omfattes av atomenergiloven.
 
 > Endret ved [forskrift 20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
 
@@ -90,7 +103,9 @@ Innehaveren skal utpeke en ansvarshavende person for nukleært materiale og fler
 
 Eksport er ikke tillatt uten at dette er særskilt angitt i løyvet.1 Innehaveren skal omgående gi melding til kontrollorganet2 etter avsendelse av materialet.
 
-1 Jf. [lov av 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet [§ 5](lov/1972-05-12-28/§5) nr. 2 siste punktum.2 Jf. [§ 3](forskrift/2000-05-12-433/§3) nr. 4.
+1 Jf. [lov av 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet [§ 5](lov/1972-05-12-28/§5) nr. 2 siste punktum.
+
+2 Jf. [§ 3](forskrift/2000-05-12-433/§3) nr. 4.
 
 ### § 12. (tillatelse fra Utenriksdepartementet)
 
@@ -112,7 +127,9 @@ Nukleært materiale og flerbruksvarer skal ikke eksporteres uten tillatelse fra 
 
 Søknader om løyve til å besitte, omsette og transportere nukleært materiale skal inneholde dokumenterte opplysninger om eierforhold, ansvarsforhold, mengde og type materiale, eventuelle tiltak for fysisk beskyttelse1 samt hensikt med besittelsen eller omsetningen av nukleært materiale. Søker må akseptere de betingelser som stilles fra kontrollorganet for gjennomføringen av intern sikkerhetskontroll.2
 
-1 Jf. [forskrift av 2. november 1984 nr. 1809](forskrift/1984-11-02-1809) om fysisk beskyttelse av nukleære materialer, med senere endringer.2 Jf. [lov av 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet [§ 51](lov/1972-05-12-28/§51).
+1 Jf. [forskrift av 2. november 1984 nr. 1809](forskrift/1984-11-02-1809) om fysisk beskyttelse av nukleære materialer, med senere endringer.
+
+2 Jf. [lov av 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet [§ 51](lov/1972-05-12-28/§51).
 
 ### § 15. (innhold i søknad om løyve for transittransport)
 

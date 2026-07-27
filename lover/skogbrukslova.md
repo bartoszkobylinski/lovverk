@@ -15,7 +15,7 @@ xml_hash: "d682cc2181541421f5c9fbf09cd04785ddf27d2b492646ac65f766e82306bbe0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -214,7 +214,11 @@ Tvangsmulkta er tvangsgrunnlag for utlegg.
 
 Lova tek til å gjelde frå den tid Kongen fastset.1
 
-Frå same tid held desse lovane opp å gjelde:[Lov 9. juni 1939 nr. 17](lov/1939-06-09-17) om husbruksskog.[Lov 9. november 1956 nr. 4](lov/1956-11-09-4) om avgift på skogsvirke til fremme av fellestiltak for skogbruket.[Lov 21. mai 1965](lov/1965-05-21) om skogbruk og skogvern.
+Frå same tid held desse lovane opp å gjelde:
+
+1. [Lov 9. juni 1939 nr. 17](lov/1939-06-09-17) om husbruksskog.
+2. [Lov 9. november 1956 nr. 4](lov/1956-11-09-4) om avgift på skogsvirke til fremme av fellestiltak for skogbruket.
+3. [Lov 21. mai 1965](lov/1965-05-21) om skogbruk og skogvern.
 
 1 Frå 1 jan 2006 iflg. [res. 27 mai 2005 nr. 487](forskrift/2005-05-27-487).
 

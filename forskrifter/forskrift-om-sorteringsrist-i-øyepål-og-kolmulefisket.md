@@ -80,7 +80,10 @@ Ledetunnelen skal være sydd fast i nedre og bakre kant av sorteringsrist, bakov
 
 ## § 8. Spesifikasjoner
 
-Det kan benyttes to typer sorteringsrister:«Flexipanel», som er bygd opp av plastrør og bundet sammen av spektra tauRister av stål eller plast.
+Det kan benyttes to typer sorteringsrister:
+
+- «Flexipanel», som er bygd opp av plastrør og bundet sammen av spektra tau
+- Rister av stål eller plast.
 
 Største tillatte dimensjoner (lengde x bredde) på «Flexipanel» er 360 cm x 180 cm.
 

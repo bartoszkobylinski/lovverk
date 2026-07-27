@@ -22,7 +22,14 @@ eu_basis: []
 
 # Delegering av myndighet til Skattedirektoratet etter ligningsloven kapittel 5
 
-Departementet delegerer til Skattedirektoratet myndighet etter ligningsloven§ 5-1§ 5-4 nr. 2 og 3§ 5-6 nr. 4§ 5-7 nr. 4§ 5-8§ 5-12.
+Departementet delegerer til Skattedirektoratet myndighet etter ligningsloven
+
+- § 5-1
+- § 5-4 nr. 2 og 3
+- § 5-6 nr. 4
+- § 5-7 nr. 4
+- § 5-8
+- § 5-12.
 
 Departementet delegerer også myndighet til å oppheve gjeldende tilsvarende forskrifter på området. Myndigheten etter § 5-6 nr. 4 kan delegeres videre til skattekontoret.
 

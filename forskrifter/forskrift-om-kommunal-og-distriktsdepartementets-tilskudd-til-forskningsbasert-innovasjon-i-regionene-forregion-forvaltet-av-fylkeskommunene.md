@@ -34,13 +34,24 @@ FORREGION skal mobilisere næringslivet til å benytte andre virkemidler for for
 
 ### § 2. Virkemidler
 
-Innenfor FORREGION kan følgende virkemidler benyttes:forprosjekt – mindre FoU-prosjekter som forberedelse til senere større FoU-prosjekt,mobilitetsprosjekt – forsker til låns, der forsker jobber en periode i en bedrift,mobilitetsprosjekt – der person i bedrift hospiterer en periode i forskningsorganisasjon,mobilitetsprosjekt – studenter tilbringer periode i bedrift knyttet til master/bacheloroppgave,kompetansemegling – diskuterer prosjektideer og kobler bedrift med relevant støtteordning og FoU-miljø,nettverksmøte – samler flere aktører til felles diskusjoner av FoU-muligheter.
+Innenfor FORREGION kan følgende virkemidler benyttes:
+
+- forprosjekt – mindre FoU-prosjekter som forberedelse til senere større FoU-prosjekt,
+- mobilitetsprosjekt – forsker til låns, der forsker jobber en periode i en bedrift,
+- mobilitetsprosjekt – der person i bedrift hospiterer en periode i forskningsorganisasjon,
+- mobilitetsprosjekt – studenter tilbringer periode i bedrift knyttet til master/bacheloroppgave,
+- kompetansemegling – diskuterer prosjektideer og kobler bedrift med relevant støtteordning og FoU-miljø,
+- nettverksmøte – samler flere aktører til felles diskusjoner av FoU-muligheter.
 
 Det kan søkes om tilskudd til forprosjekter og mobilitetsprosjekter. Kompetansemeglere kan gi råd til potensielle søkere om utforming av prosjektet og hjelpe med å finne aktuelle støtteordninger og forskningsmiljø. Potensielle søkere kan også delta på nettverksmøter. Unntaksvis kan det søkes om tilskudd til nettverksmøter.
 
 ### § 3. Kriterier for måloppnåelse
 
-Innsatsen skal måles etter følgende kriterier for måloppnåelse:Antall bedrifter som samarbeider med forskningsmiljøer gjennom FORREGION.Antall bedrifter som søker midler fra regionale, nasjonale og internasjonale program.Antall bedrifter som tildeles midler fra regionale, nasjonale og internasjonale program.
+Innsatsen skal måles etter følgende kriterier for måloppnåelse:
+
+1. Antall bedrifter som samarbeider med forskningsmiljøer gjennom FORREGION.
+2. Antall bedrifter som søker midler fra regionale, nasjonale og internasjonale program.
+3. Antall bedrifter som tildeles midler fra regionale, nasjonale og internasjonale program.
 
 ## Kapittel II. Bestemmelser for søkere og mottakere av tilskuddsmidler
 
@@ -56,7 +67,11 @@ Fylkeskommunene kan i vurdering av hvem som er aktuelle mottakere innenfor søke
 
 ### § 5. Forutsetning for støtte
 
-Støtten fra FORREGION til foretak tildeles etter [EUs gruppeunntaksforordning artikkel 25](https://www.forskningsradet.no/sok-om-finansiering/midler-fra-forskningsradet/betingelser-for-tildeling-av-statsstotte/) og skal i sin helhet omfattes av en av følgende kategorier:industriell forskning,eksperimentell utvikling,forundersøkelse.
+Støtten fra FORREGION til foretak tildeles etter [EUs gruppeunntaksforordning artikkel 25](https://www.forskningsradet.no/sok-om-finansiering/midler-fra-forskningsradet/betingelser-for-tildeling-av-statsstotte/) og skal i sin helhet omfattes av en av følgende kategorier:
+
+- industriell forskning,
+- eksperimentell utvikling,
+- forundersøkelse.
 
 Støtten blir tildelt etter de regler for støttegrad og egeninnsats med mer som følger av regelverket i gruppeunntakets artikkel 25. Støtten kan gis som bagatellmessig støtte til virkemidlene «Forprosjekt» og «Forsker til låns» dersom gruppeunntaksforordningen ikke hjemler støtten.
 
@@ -86,7 +101,12 @@ Beskrivelse av prosjektet og forventede resultater
 
 ### § 7. Tildelingskriterier
 
-Fylkeskommunene skal tildele midler til forprosjekter eller mobilitetsprosjekter etter en helhetlig kvalitetsvurdering av søknadene. Følgende kriterier skal vektlegges:prosjektets kvalitet,prosjektets relevans for utlysningen,forventede virkninger og effekter av prosjektet,gjennomføringsplan.
+Fylkeskommunene skal tildele midler til forprosjekter eller mobilitetsprosjekter etter en helhetlig kvalitetsvurdering av søknadene. Følgende kriterier skal vektlegges:
+
+1. prosjektets kvalitet,
+2. prosjektets relevans for utlysningen,
+3. forventede virkninger og effekter av prosjektet,
+4. gjennomføringsplan.
 
 Bedriften må samarbeide med en [godkjent forskningsorganisasjon](https://www.forskningsradet.no/sok-om-finansiering/hvem-kan-soke-om-finansiering/forskningsorganisasjoner/godkjente-forskningsorganisasjoner/) i prosjektet. Utenlandske offentlige universiteter og institutter kan også være FoU-partner. Det må dokumenteres og beskrives i prosjektsøknaden at utenlandsk FoU-partner har faglig kompetanse på området.
 
@@ -125,19 +145,53 @@ Ellers vises det til [forvaltningsloven](lov/1967-02-10) når det gjelder alminn
 
 ### § 12. Fylkeskommunenes ansvar og oppgaver
 
-1. *Disponering av midler og tilbudet av virkemidler i FORREGION*Departementet tildeler tilskuddsmidlene til fylkeskommunene som tilskudd uten krav om tilbakebetaling innenfor de økonomiske rammene Stortinget fastsetter årlig. Fylkeskommunene kan dermed disponere midlene uavhengig av bevilgningsår.Fylkeskommunene har ansvaret for forvaltning av ordningen. Bruken av tilskuddsmidler skal være i tråd med regionale mål og planer.Fylkeskommunene har ansvar for å fordele innsats mellom de ulike virkemidlene i ordningen (jf. § 2). Fylkeskommunene bestemmer områder/tema for bruken av virkemidler i FORREGION i tråd med formålet, og innhold som prosjektperiode, geografisk virkeområde, og støttegrad innenfor rammen av statsstøtteregelverket.Fylkeskommunene har ansvar for å organisere gjennomføringen av kompetansemegling i tråd med gjeldende lover og regelverk.
-2. *Samarbeid*Fylkeskommunene kan samarbeide om bruken av midlene gjennom fellesutlysninger av midler o.l. Fylkeskommunene skal samarbeide, planlegge og koordinere arbeidet med mobilisering til forskningsbasert innovasjon med Norges forskningsråd og andre virkemiddelaktører.
-3. *Utlysning av søkbare tilskuddsmidler*Fylkeskommunene har ansvar for å lyse ut de søkbare tilskuddsmidlene. Utlysningen skal minimum kunngjøres på de regionale sidene på nettstedet [regionaleforskningsfond.no](https://www.regionaleforskningsfond.no/).
-4. *Søknadsbehandling*Fylkeskommunene har ansvar for søknadsbehandling og skal behandle søknadene gjennom Forskningsrådets søknadsportal.
-5. *Tildelinger av tilskudd*Fylkeskommunene har ansvar for å tildele tilskudd og skal ved tildelinger fastsette eventuelt øvrige vilkår som er nødvendig for å sikre at bevilgningene blir brukt i samsvar med Stortingets forutsetninger, vilkår i oppdragsbrev fra departementet og forskrift for ordningen.
-6. *Rapportering*Fylkeskommunene skal rapportere på kriterier for måloppnåelse, se § 3. Fylkeskommunene rapporterer kun på bokstav a og b årlig. Bokstav c dokumenteres gjennom fylkeskommunenes evalueringer og mer langsiktig arbeid, blant annet ved å følge utviklingen hos involverte foretak gjennom Forskningsrådets prosjektbank og foretaksregister.Fylkeskommunenes årlige rapportering skal også omfatte:aktivitetsrapportering,økonomisk rapportering. Rapporteringen skal vise hvordan midlene er fordelt på de ulike virkemidlene og fylkeskommunenes bruk av midler til administrasjon og gjennomføring.Departementet kan gi nærmere regler om fylkeskommunenes rapportering i oppdragsbrevene.All rapportering skal skje gjennom departementets elektroniske forvaltningsportal, [regionalforvaltning.no](https://regionalforvaltning.no/).
-7. *Rutiner for internkontroll*Fylkeskommunene må etablere rutiner for å sikre god internkontroll, slik at de selv og departementet kan kontrollere at betingelsen for tilskuddet og vilkårene i tildelingen er oppfylt.
+1. *Disponering av midler og tilbudet av virkemidler i FORREGION*
+
+   Departementet tildeler tilskuddsmidlene til fylkeskommunene som tilskudd uten krav om tilbakebetaling innenfor de økonomiske rammene Stortinget fastsetter årlig. Fylkeskommunene kan dermed disponere midlene uavhengig av bevilgningsår.
+
+   Fylkeskommunene har ansvaret for forvaltning av ordningen. Bruken av tilskuddsmidler skal være i tråd med regionale mål og planer.
+
+   Fylkeskommunene har ansvar for å fordele innsats mellom de ulike virkemidlene i ordningen (jf. § 2). Fylkeskommunene bestemmer områder/tema for bruken av virkemidler i FORREGION i tråd med formålet, og innhold som prosjektperiode, geografisk virkeområde, og støttegrad innenfor rammen av statsstøtteregelverket.
+
+   Fylkeskommunene har ansvar for å organisere gjennomføringen av kompetansemegling i tråd med gjeldende lover og regelverk.
+2. *Samarbeid*
+
+   Fylkeskommunene kan samarbeide om bruken av midlene gjennom fellesutlysninger av midler o.l. Fylkeskommunene skal samarbeide, planlegge og koordinere arbeidet med mobilisering til forskningsbasert innovasjon med Norges forskningsråd og andre virkemiddelaktører.
+3. *Utlysning av søkbare tilskuddsmidler*
+
+   Fylkeskommunene har ansvar for å lyse ut de søkbare tilskuddsmidlene. Utlysningen skal minimum kunngjøres på de regionale sidene på nettstedet [regionaleforskningsfond.no](https://www.regionaleforskningsfond.no/).
+4. *Søknadsbehandling*
+
+   Fylkeskommunene har ansvar for søknadsbehandling og skal behandle søknadene gjennom Forskningsrådets søknadsportal.
+5. *Tildelinger av tilskudd*
+
+   Fylkeskommunene har ansvar for å tildele tilskudd og skal ved tildelinger fastsette eventuelt øvrige vilkår som er nødvendig for å sikre at bevilgningene blir brukt i samsvar med Stortingets forutsetninger, vilkår i oppdragsbrev fra departementet og forskrift for ordningen.
+6. *Rapportering*
+
+   Fylkeskommunene skal rapportere på kriterier for måloppnåelse, se § 3. Fylkeskommunene rapporterer kun på bokstav a og b årlig. Bokstav c dokumenteres gjennom fylkeskommunenes evalueringer og mer langsiktig arbeid, blant annet ved å følge utviklingen hos involverte foretak gjennom Forskningsrådets prosjektbank og foretaksregister.
+
+   Fylkeskommunenes årlige rapportering skal også omfatte:
+
+   1. aktivitetsrapportering,
+   2. økonomisk rapportering. Rapporteringen skal vise hvordan midlene er fordelt på de ulike virkemidlene og fylkeskommunenes bruk av midler til administrasjon og gjennomføring.
+
+   Departementet kan gi nærmere regler om fylkeskommunenes rapportering i oppdragsbrevene.
+
+   All rapportering skal skje gjennom departementets elektroniske forvaltningsportal, [regionalforvaltning.no](https://regionalforvaltning.no/).
+7. *Rutiner for internkontroll*
+
+   Fylkeskommunene må etablere rutiner for å sikre god internkontroll, slik at de selv og departementet kan kontrollere at betingelsen for tilskuddet og vilkårene i tildelingen er oppfylt.
 
 > Endret ved forskrift [22 mai 2024 nr. 809](forskrift/2024-05-22-809).
 
 ### § 13. Fylkeskommunenes fullmakter
 
-Fylkeskommunene har videre fullmakt til åbestemme hvilket år tilsagnet skal gis,avgjøre hvor lenge tilsagnet er gyldig (maksimalt 5 år),behandle søknad om forlengelse,bevilge ubenyttede midler til nye prosjekt i tråd med denne forskriften.
+Fylkeskommunene har videre fullmakt til å
+
+1. bestemme hvilket år tilsagnet skal gis,
+2. avgjøre hvor lenge tilsagnet er gyldig (maksimalt 5 år),
+3. behandle søknad om forlengelse,
+4. bevilge ubenyttede midler til nye prosjekt i tråd med denne forskriften.
 
 ### § 14. Administrasjons- og gjennomføringskostnader
 
@@ -147,7 +201,11 @@ Fylkeskommunene kan bruke inntil 7 prosent av tildelte midler til å dekke egne 
 
 Norges forskningsråd skal bistå fylkeskommunene i forvaltningen av FORREGION.
 
-Norges forskningsråd skal levere støttetjenester til fylkeskommunenes forvaltning av FORREGION-midlene gjennom å:gi tilgang til relevante IT-systemer for utlysning av midler, søknadsbehandling og rapportering fra tilskuddsmottaker,teknisk drift av hjemmeside, ( [www.regionaleforskningsfond.no](https://www.regionaleforskningsfond.no)) for offentliggjøring av utlysning,bistå med opplæring og kompetanse på FoU-administrasjon og Forskningsrådets IT-systemer som FORREGION anvender.
+Norges forskningsråd skal levere støttetjenester til fylkeskommunenes forvaltning av FORREGION-midlene gjennom å:
+
+- gi tilgang til relevante IT-systemer for utlysning av midler, søknadsbehandling og rapportering fra tilskuddsmottaker,
+- teknisk drift av hjemmeside, ( [www.regionaleforskningsfond.no](https://www.regionaleforskningsfond.no)) for offentliggjøring av utlysning,
+- bistå med opplæring og kompetanse på FoU-administrasjon og Forskningsrådets IT-systemer som FORREGION anvender.
 
 Norges forskningsråd har ansvar for en kunnskaps- og dialogarena, i dialog med fylkeskommunene. Formålet er å utvikle og dele kunnskap om forskningsbasert innovasjon, igangsette kompetansehevende tiltak knyttet til mobiliseringsaktivteter og sikre erfaringsutveksling mellom fylkeskommunene og mellom regionalt og nasjonalt nivå.
 

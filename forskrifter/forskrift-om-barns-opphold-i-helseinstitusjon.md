@@ -15,7 +15,7 @@ xml_hash: "0c97bc5d239afe438537e819d944104eb27975132a2a304ce62e8c1474fee62e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,7 +100,10 @@ Minst én av foreldrene, som pga. barnets sykdom oppholder seg i institusjonen s
 
 Reiseutgifter for ledsager i forbindelse med innleggelse og utskriving dekkes av det regionale helseforetaket i barnets bostedsregion, jf. pasient- og [brukerrettighetsloven § 2-6](lov/1999-07-02-63/§2-6) og [forskrift 25. juni 2015 nr. 793](forskrift/2015-06-25-793) om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften). Begge foreldre har rett til å få dekket reiseutgifter til og fra institusjon når de har oppsøkt institusjonen i forbindelse med innleggelse av sitt barn. Det samme gjelder når de har ledsaget alvorlig eller livstruende sykt barn til eller fra institusjon.
 
-Det regionale helseforetaket i barnets bostedsregion dekker reiseutgifter til og fra helseinstitusjonnår helseinstitusjonen av medisinske grunner innkaller foreldre for å være hos barnet, for informasjon om sykdomsutvikling eller for nødvendig opplæring i forbindelse med barnets sykdom og videre behandling og pleie,etter 14 dagers liggetid én gang i uken for én forelder som er hos barnet under opphold i helseinstitusjon.
+Det regionale helseforetaket i barnets bostedsregion dekker reiseutgifter til og fra helseinstitusjon
+
+1. når helseinstitusjonen av medisinske grunner innkaller foreldre for å være hos barnet, for informasjon om sykdomsutvikling eller for nødvendig opplæring i forbindelse med barnets sykdom og videre behandling og pleie,
+2. etter 14 dagers liggetid én gang i uken for én forelder som er hos barnet under opphold i helseinstitusjon.
 
 Krav om dekning av reiseutgifter etter første og andre ledd sendes til Helseforetakenes senter for pasientreiser ANS. Dekningen beregnes etter reglene i pasientreiseforskriften.
 

@@ -24,7 +24,10 @@ eu_basis: []
 
 Kommunal- og moderniseringsdepartementet viser til vedlagte vedtak av 12. mars 2020 fra Helsedirektoratet, og til departementets vedtak 13. mars 2020 nr. 361 om dispensasjon for nøkkelpersonell med kritiske samfunnsfunksjoner i ekombransjen.
 
-Som det fremgår av vedlagte vedtak fra Helsedirektoratet med hjemmel i [lov om vern mot smittsomme sykdommer § 4-1](lov/1994-08-05-55/§4-1) annet ledd er det ilagt karantene (isolering) etter reiser utenfor Norden for å stoppe spredning av covid-19. Det følger av vedtaket at:alle som ankommer Norge etter reiser utenfor Norden ilegges karantene (isolering) i 14 dager etter ankomst ogalle som ankommer Norge etter reiser utenfor Norden ilegges karantene (isolering) ved symptomer som forkjølelse, feber og/eller tungpustethet. Isoleringen varer i minst 7 dager etter symptomfrihet.
+Som det fremgår av vedlagte vedtak fra Helsedirektoratet med hjemmel i [lov om vern mot smittsomme sykdommer § 4-1](lov/1994-08-05-55/§4-1) annet ledd er det ilagt karantene (isolering) etter reiser utenfor Norden for å stoppe spredning av covid-19. Det følger av vedtaket at:
+
+1. alle som ankommer Norge etter reiser utenfor Norden ilegges karantene (isolering) i 14 dager etter ankomst og
+2. alle som ankommer Norge etter reiser utenfor Norden ilegges karantene (isolering) ved symptomer som forkjølelse, feber og/eller tungpustethet. Isoleringen varer i minst 7 dager etter symptomfrihet.
 
 Restriksjonene omfatter også reisende til Norge via nordiske land, etter opphold utenfor Norden. Reisende som ikke har symptomer kan reise til planlagt oppholdssted, men bør under reisen så langt det lar seg gjøre holde avstand til andre. Reisende med symptomer skal umiddelbart i isolering, og kan ikke bruke offentlig transport.
 

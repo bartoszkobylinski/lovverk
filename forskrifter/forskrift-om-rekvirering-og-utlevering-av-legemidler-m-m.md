@@ -15,7 +15,7 @@ xml_hash: "de4f269ba2c0f2b1c7134b6e015eb22cc5d0776002a1683adcb8204bfa8c6a8e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,14 @@ For grossisters utlevering etter resept og rekvisisjon gjelder forskriften så l
 
 ### § 1-3. Definisjoner
 
-I denne forskrift menes med:*Rekvirering (rekvirere):* muntlig, skriftlig eller elektronisk bestilling av legemiddel ved resept eller rekvisisjon*Rekvirent:* fysisk eller juridisk person med rett til å rekvirere legemidler*Reiterasjon:* rekvirents påtegning på resept om at et legemiddel kan utleveres og ekspederes flere ganger*Ekspedisjon:* farmasøytisk kontroll og istandgjøring av legemiddel i henhold til resept og rekvisisjon*Delutlevering:* porsjonsvis utlevering fra en legemiddelpakning som er ekspedert i sin helhet i henhold til resept*Anbrudd:* oppdeling av legemiddelpakning
+I denne forskrift menes med:
+
+1. *Rekvirering (rekvirere):* muntlig, skriftlig eller elektronisk bestilling av legemiddel ved resept eller rekvisisjon
+2. *Rekvirent:* fysisk eller juridisk person med rett til å rekvirere legemidler
+3. *Reiterasjon:* rekvirents påtegning på resept om at et legemiddel kan utleveres og ekspederes flere ganger
+4. *Ekspedisjon:* farmasøytisk kontroll og istandgjøring av legemiddel i henhold til resept og rekvisisjon
+5. *Delutlevering:* porsjonsvis utlevering fra en legemiddelpakning som er ekspedert i sin helhet i henhold til resept
+6. *Anbrudd:* oppdeling av legemiddelpakning
 
 ## Kap. 2. Grunnkrav til rekvirering, mottak, ekspedisjon og utlevering
 
@@ -82,7 +89,12 @@ Legestudenter med norsk studentlisens har, i samsvar med reglene i [forskrift 21
 
 Til pasienter har tannleger rett til å rekvirere nødvendige legemidler på resept i forbindelse med tannbehandling og forebygging og behandling av sykdom i munnhule eller tilgrensende vev.
 
-Tannleger kan på resept rekvirere følgende legemidler med markedsføringstillatelse til oral og rektal bruk i minstepakning eller terapeutisk bruk i maksimalt 7 dager:Opioidholdige analgetika i ATC-gruppe N02AAnksiolytika i ATC-gruppe N05BHypnotika og sedativa i ATC-gruppe N05CHostedempende midler i ATC-gruppe R05D.
+Tannleger kan på resept rekvirere følgende legemidler med markedsføringstillatelse til oral og rektal bruk i minstepakning eller terapeutisk bruk i maksimalt 7 dager:
+
+1. Opioidholdige analgetika i ATC-gruppe N02A
+2. Anksiolytika i ATC-gruppe N05B
+3. Hypnotika og sedativa i ATC-gruppe N05C
+4. Hostedempende midler i ATC-gruppe R05D.
 
 Tannleger med spesialistgodkjenning i oral kirurgi og oral medisin kan, utover de legemidler som alle tannleger kan rekvirere til bruk på pasienter i tannlegevirksomheten, også rekvirere legemidler i den utstrekning som kreves for diagnostikk og behandling av sykdommer, skader og defekter i kjeve, munnhule samt omkringliggende vev.
 
@@ -90,7 +102,11 @@ Bestemmelsene i første, annet og tredje ledd gjelder tilsvarende for tannleger 
 
 ### § 3-4. Særlige tilfeller
 
-Helsedirektoratet avgjør:Søknad om særskilt rekvireringsrett fra lege som ikke er omfattet av [§ 3-1](forskrift/2022-06-02-977/§3-1) første ledd og [§ 3-2](forskrift/2022-06-02-977/§3-2).I tvilstilfeller hvilke legemidler tannlegers rett til rekvirering etter [§ 3-1](forskrift/2022-06-02-977/§3-1) annet ledd og [§ 3-3](forskrift/2022-06-02-977/§3-3) omfatter.Søknad fra tannleger om utvidet rett til rekvirering utover [§ 3-1](forskrift/2022-06-02-977/§3-1) annet ledd og [§ 3-3](forskrift/2022-06-02-977/§3-3).
+Helsedirektoratet avgjør:
+
+1. Søknad om særskilt rekvireringsrett fra lege som ikke er omfattet av [§ 3-1](forskrift/2022-06-02-977/§3-1) første ledd og [§ 3-2](forskrift/2022-06-02-977/§3-2).
+2. I tvilstilfeller hvilke legemidler tannlegers rett til rekvirering etter [§ 3-1](forskrift/2022-06-02-977/§3-1) annet ledd og [§ 3-3](forskrift/2022-06-02-977/§3-3) omfatter.
+3. Søknad fra tannleger om utvidet rett til rekvirering utover [§ 3-1](forskrift/2022-06-02-977/§3-1) annet ledd og [§ 3-3](forskrift/2022-06-02-977/§3-3).
 
 ## Kapitel 4. Krav til resept og rekvisisjon
 
@@ -104,7 +120,10 @@ Resept og rekvisisjon skal fremsettes skriftlig, med mindre vilkårene er oppfyl
 
 Krav om skriftlighet er ikke til hinder for elektronisk kommunikasjon av resept og rekvisisjon, dersom det benyttes en betryggende metode som autentiserer avsender og sikrer resepten eller rekvisisjonens innhold. Departementet kan stille særskilte krav til elektronisk kommunikasjon ved rekvirering av legemidler
 
-Legemidler på resept skal rekvireres via Reseptformidleren. Dette gjelder ikke:når rekvirent rekvirerer legemidler på resept til inneliggende pasienter i spesialisthelsetjenesten og i virksomheter i kommunene der det finnes andre elektroniske rekvireringsløsninger.dersom rekvirenten, ved rekvirering i enkelttilfelle, ikke har tilgang til et datasystem som gir rekvirenten mulighet til å sende elektroniske resepter.
+Legemidler på resept skal rekvireres via Reseptformidleren. Dette gjelder ikke:
+
+1. når rekvirent rekvirerer legemidler på resept til inneliggende pasienter i spesialisthelsetjenesten og i virksomheter i kommunene der det finnes andre elektroniske rekvireringsløsninger.
+2. dersom rekvirenten, ved rekvirering i enkelttilfelle, ikke har tilgang til et datasystem som gir rekvirenten mulighet til å sende elektroniske resepter.
 
 Rekvisisjoner skal rekvireres skriftlig via elektroniske løsninger der det er mulig.
 
@@ -138,21 +157,43 @@ Resepter og rekvisisjoner skal inneholde alle nødvendige opplysninger for å si
 
 ### § 5-2. Opplysninger om rekvirent på resept
 
-Resepter skal alltid opplyse om reseptutsteders:Fullstendig navnId-nummer i henhold til HelsepersonellregisteretHelseprofesjonSpesialisering eller spesialitetAdresse (arbeidssted)Telefonnummer (arbeidssted).
+Resepter skal alltid opplyse om reseptutsteders:
+
+1. Fullstendig navn
+2. Id-nummer i henhold til Helsepersonellregisteret
+3. Helseprofesjon
+4. Spesialisering eller spesialitet
+5. Adresse (arbeidssted)
+6. Telefonnummer (arbeidssted).
 
 ### § 5-3. Opplysninger om virksomhet på resept på legemidler til mennesker
 
-Resepter skal påføres følgende opplysninger om virksomheter:Virksomhetens navnHER-id fra Adresseregisteret
+Resepter skal påføres følgende opplysninger om virksomheter:
+
+1. Virksomhetens navn
+2. HER-id fra Adresseregisteret
 
 ### § 5-4. Opplysninger om pasient på resept på legemidler til mennesker
 
 Før rekvirering av resept skal legitimasjon kreves, hvis pasienten er ukjent for rekvirenten.
 
-Resepter skal påføres følgende opplysninger om den personen legemidlet er rekvirert til:NavnFødselsnummer/D-nummerAdresse.
+Resepter skal påføres følgende opplysninger om den personen legemidlet er rekvirert til:
+
+1. Navn
+2. Fødselsnummer/D-nummer
+3. Adresse.
 
 ### § 5-5. Opplysninger om legemiddel og dets bruk på resept
 
-Det skal på resepten gis følgende opplysninger om legemidlet:Virkestoffnavn som nevnt i [forskrift 18. desember 2009 nr. 1839 om legemidler § 3-26](forskrift/2009-12-18-1839/§3-26) bokstav b.Dets doseringsform/legemiddelformStyrke eller sammensetningDosering og behandlingsvarighet, eller mengdeBruksområde/diagnoseAdministrasjonsmåteFullstendig dosering og behandlingsvarighet skal angis dersom denne er kortere enn utlevert mengde tilsvarer.
+Det skal på resepten gis følgende opplysninger om legemidlet:
+
+1. Virkestoffnavn som nevnt i [forskrift 18. desember 2009 nr. 1839 om legemidler § 3-26](forskrift/2009-12-18-1839/§3-26) bokstav b.
+2. Dets doseringsform/legemiddelform
+3. Styrke eller sammensetning
+4. Dosering og behandlingsvarighet, eller mengde
+5. Bruksområde/diagnose
+6. Administrasjonsmåte
+7. Fullstendig dosering og behandlingsvarighet skal angis dersom denne er kortere enn utlevert mengde tilsvarer.
 
 Handelsnavn skal fremgå av resepten for legemidler til mennesker der det av medisinske grunner er et bestemt bruksferdig legemiddel som skal brukes. For legemidler til dyr skal handelsnavn fremgå av resepten.
 
@@ -162,17 +203,43 @@ Reiterasjon skal skrives på entydig måte. Reiterasjon gjelder for det konkrete
 
 ### § 5-7. Opplysninger om rekvirent, virksomhet og legemiddel på rekvisisjon av legemidler til mennesker
 
-Rekvisisjonen skal være påført:Rekvirents navnId-nummer i henhold til HelsepersonellregisteretVirksomhetens navnVirksomhetens organisasjonsnummerHER-id fra AdresseregisteretAvdelingens navn der det er relevantRESH-id fra Nasjonalt register over enheter i spesialisthelsetjenesten hvis virksomheten har slik id.Entydig beskrivelse av legemidler og dets mengde.
+Rekvisisjonen skal være påført:
+
+1. Rekvirents navn
+2. Id-nummer i henhold til Helsepersonellregisteret
+3. Virksomhetens navn
+4. Virksomhetens organisasjonsnummer
+5. HER-id fra Adresseregisteret
+6. Avdelingens navn der det er relevant
+7. RESH-id fra Nasjonalt register over enheter i spesialisthelsetjenesten hvis virksomheten har slik id.
+8. Entydig beskrivelse av legemidler og dets mengde.
 
 ### § 5-8. Særregler for resept for legemidler i reseptgruppe A og B
 
-Ved rekvirering av legemidler i reseptgruppe A og B gjelder følgende unntak og særregler:Maksimal mengde er tilsvarende terapeutisk dose i tre måneder.Resept på legemiddel til mennesker kan kun reitereres ved rekvirering for folketrygdens regning via Reseptformidleren, eller for helseforetakets regning.Ved rekvirering av legemidler til mennesker på annen måte enn via Reseptformidleren kan bare minste standardpakning eller en mengde tilsvarende vanlig terapeutisk dose i tre døgn rekvireres. Dette gjelder ikke ved elektronisk kommunikasjon av resepter på legemiddel i reseptgruppe A og B til inneliggende pasienter i spesialisthelsetjenesten og i virksomheter i kommunene der det finnes andre elektroniske rekvireringsløsninger, og ved rekvirering til multidose utenfor Reseptformidleren hvor resepten er merket med «utlevering kun til multidose».Inntil det er etablert elektroniske løsninger for kommunikasjon av resepter på legemidler i reseptgruppene A og B til inneliggende pasienter i kommunale helsevirksomheter og i spesialisthelsetjenesten, kan det benyttes papirresepter for rekvirering av magistrelle legemidler på en mengde tilsvarende ett års forbruk.Elektronisk kommunikasjon av resepten kan bare skje via Reseptformidleren. Elektronisk kommunikasjon av resepter på legemiddel i reseptgruppe A og B til inneliggende pasienter i spesialisthelsetjenesten og i virksomheter i kommunene kan skje via annet rekvireringssystem enn Reseptformidleren.Resept på legemiddel i reseptgruppe B til behandling av kroniske tilstander hos dyr kan reitereres maksimalt 3 ganger.Resept på legemiddel i reseptgruppe A til behandling av dyr kan ikke reitereres.
+Ved rekvirering av legemidler i reseptgruppe A og B gjelder følgende unntak og særregler:
+
+1. Maksimal mengde er tilsvarende terapeutisk dose i tre måneder.
+2. Resept på legemiddel til mennesker kan kun reitereres ved rekvirering for folketrygdens regning via Reseptformidleren, eller for helseforetakets regning.
+3. Ved rekvirering av legemidler til mennesker på annen måte enn via Reseptformidleren kan bare minste standardpakning eller en mengde tilsvarende vanlig terapeutisk dose i tre døgn rekvireres. Dette gjelder ikke ved elektronisk kommunikasjon av resepter på legemiddel i reseptgruppe A og B til inneliggende pasienter i spesialisthelsetjenesten og i virksomheter i kommunene der det finnes andre elektroniske rekvireringsløsninger, og ved rekvirering til multidose utenfor Reseptformidleren hvor resepten er merket med «utlevering kun til multidose».
+
+   Inntil det er etablert elektroniske løsninger for kommunikasjon av resepter på legemidler i reseptgruppene A og B til inneliggende pasienter i kommunale helsevirksomheter og i spesialisthelsetjenesten, kan det benyttes papirresepter for rekvirering av magistrelle legemidler på en mengde tilsvarende ett års forbruk.
+4. Elektronisk kommunikasjon av resepten kan bare skje via Reseptformidleren. Elektronisk kommunikasjon av resepter på legemiddel i reseptgruppe A og B til inneliggende pasienter i spesialisthelsetjenesten og i virksomheter i kommunene kan skje via annet rekvireringssystem enn Reseptformidleren.
+5. Resept på legemiddel i reseptgruppe B til behandling av kroniske tilstander hos dyr kan reitereres maksimalt 3 ganger.
+6. Resept på legemiddel i reseptgruppe A til behandling av dyr kan ikke reitereres.
 
 > Endret ved forskrifter [20 mai 2025 nr. 831](forskrift/2025-05-20-831) (i kraft 1 juli 2025), [11 feb 2026 nr. 183](forskrift/2026-02-11-183). **Endres** ved forskrift [11 feb 2026 nr. 183](forskrift/2026-02-11-183) (i kraft 1 juli 2028).
 
 ### § 5-9. EØS-resepter for legemidler til mennesker
 
-Når en pasient opplyser at resepten planlegges benyttet for utlevering av et legemiddel til mennesker i et annet land i EØS, plikter norsk rekvirent å påse at resepten oppfyller følgende krav:Identifisering av pasienten med fullt fornavn, etternavn og fødselsdato.Dato for utstedelse av resepten.Identifisering av rekvirenten med fullt fornavn, etternavn og stillingsbetegnelse.Rekvirentens kontaktopplysninger i form av e-postadresse, telefonnummer og telefaksnummer med landkoder, arbeidsadresse og land.Håndskrevet eller elektronisk signatur.Identifisering av rekvirert legemiddel med legemidlets generiske navn som nevnt i [legemiddelforskriften § 3-26](forskrift/2009-12-18-1839/§3-26), eller handelsnavn dersom det rekvirerte legemidlet er et biologisk legemiddel eller rekvirenten mener bruk av handelsnavn er medisinsk nødvendig og en kort begrunnelse for dette.Legemiddelform, mengde, legemidlets styrke og dosering.
+Når en pasient opplyser at resepten planlegges benyttet for utlevering av et legemiddel til mennesker i et annet land i EØS, plikter norsk rekvirent å påse at resepten oppfyller følgende krav:
+
+1. Identifisering av pasienten med fullt fornavn, etternavn og fødselsdato.
+2. Dato for utstedelse av resepten.
+3. Identifisering av rekvirenten med fullt fornavn, etternavn og stillingsbetegnelse.
+4. Rekvirentens kontaktopplysninger i form av e-postadresse, telefonnummer og telefaksnummer med landkoder, arbeidsadresse og land.
+5. Håndskrevet eller elektronisk signatur.
+6. Identifisering av rekvirert legemiddel med legemidlets generiske navn som nevnt i [legemiddelforskriften § 3-26](forskrift/2009-12-18-1839/§3-26), eller handelsnavn dersom det rekvirerte legemidlet er et biologisk legemiddel eller rekvirenten mener bruk av handelsnavn er medisinsk nødvendig og en kort begrunnelse for dette.
+7. Legemiddelform, mengde, legemidlets styrke og dosering.
 
 ## Kap. 6. Veterinærers og fiskehelsebiologers rekvireringsrett, rekvirering og resepters innhold
 
@@ -192,7 +259,11 @@ I særlige tilfeller kan Direktoratet for medisinske produkter etter søknad i d
 
 Fiskehelsebiologer med norsk autorisasjon eller lisens har, med de begrensninger som er gitt, rett til å rekvirere legemidler til veterinær bruk.
 
-For fiskehelsebiologers rett til rekvirering gjelder blant annet følgende begrensninger:Legemidler kan bare rekvireres til veterinær bruk på akvatiske dyr unntatt sjøpattedyr, herunder rekvirering til dyreeiere til bruk for akvatiske dyr unntatt sjøpattedyr.Legemidler skal rekvireres som bruksferdig preparat, jf. [§ 3-1](forskrift/2022-06-02-977/§3-1) fjerde ledd.Fiskehelsebiologer kan ikke rekvirere legemidler i reseptgruppe A og B.
+For fiskehelsebiologers rett til rekvirering gjelder blant annet følgende begrensninger:
+
+1. Legemidler kan bare rekvireres til veterinær bruk på akvatiske dyr unntatt sjøpattedyr, herunder rekvirering til dyreeiere til bruk for akvatiske dyr unntatt sjøpattedyr.
+2. Legemidler skal rekvireres som bruksferdig preparat, jf. [§ 3-1](forskrift/2022-06-02-977/§3-1) fjerde ledd.
+3. Fiskehelsebiologer kan ikke rekvirere legemidler i reseptgruppe A og B.
 
 I særlige tilfeller kan Direktoratet for medisinske produkter etter søknad i det enkelte tilfelle gi rett til rekvirering av virkestoff (rensubstans).
 
@@ -228,11 +299,22 @@ Når det til dyr som deltar i konkurranse rekvireres legemiddel som medfører st
 
 ### § 6-7. Opplysninger på rekvisisjon for legemidler til veterinær bruk
 
-Rekvisisjoner for legemidler til bruk i rekvirentens praksis eller i dyreklinikk skal inneholde følgende opplysninger:Utstedelsesdato,Rekvirentens fullstendige navn og kontaktopplysninger, herunder id-nummer i henhold til Helsepersonellregisteret,Rekvirentens underskrift eller en tilsvarende elektronisk form for identifisering av veterinæren eller fiskehelsebiologen,Virksomhetens navn og organisasjonsnummer der det er relevant,Entydig beskrivelse av legemidlet og dets mengde.
+Rekvisisjoner for legemidler til bruk i rekvirentens praksis eller i dyreklinikk skal inneholde følgende opplysninger:
+
+1. Utstedelsesdato,
+2. Rekvirentens fullstendige navn og kontaktopplysninger, herunder id-nummer i henhold til Helsepersonellregisteret,
+3. Rekvirentens underskrift eller en tilsvarende elektronisk form for identifisering av veterinæren eller fiskehelsebiologen,
+4. Virksomhetens navn og organisasjonsnummer der det er relevant,
+5. Entydig beskrivelse av legemidlet og dets mengde.
 
 ### § 6-8. EØS-resept for legemidler til dyr
 
-Når resept utstedt av veterinær som praktiserer i Norge planlegges benyttet for utlevering av et legemiddel til dyr i et annet land i EØS, plikter veterinæren å påse at resepten i tillegg til opplysninger i henhold til [§ 6-4](forskrift/2022-06-02-977/§6-4) inneholder følgende informasjon:Identifisering av dyreeier/dyreholder med fullt fornavn, etternavn og fødselsdato.Identifisering av veterinæren med fullt fornavn, etternavn og stillingsbetegnelse.Veterinærens kontaktopplysninger i form av e-postadresse, telefonnummer med landkode, arbeidsadresse og land.Håndskrevet signatur.
+Når resept utstedt av veterinær som praktiserer i Norge planlegges benyttet for utlevering av et legemiddel til dyr i et annet land i EØS, plikter veterinæren å påse at resepten i tillegg til opplysninger i henhold til [§ 6-4](forskrift/2022-06-02-977/§6-4) inneholder følgende informasjon:
+
+1. Identifisering av dyreeier/dyreholder med fullt fornavn, etternavn og fødselsdato.
+2. Identifisering av veterinæren med fullt fornavn, etternavn og stillingsbetegnelse.
+3. Veterinærens kontaktopplysninger i form av e-postadresse, telefonnummer med landkode, arbeidsadresse og land.
+4. Håndskrevet signatur.
 
 ## Kap. 7. Rekvirering til særlige formål
 
@@ -272,9 +354,16 @@ Bestemmelsene i [§ 4-1](forskrift/2022-06-02-977/§4-1) krav om tydelighet, dat
 
 ### § 7-3. Tannpleiers rett til rekvirering
 
-Tannpleier med norsk autorisasjon eller lisens har rett til å rekvirere følgende legemidler i den grad det er nødvendig for utøvelse av tannpleiervirksomheten:Midler mot karies, innen ATC A01AAOverflateanestetika til odontologisk bruk, innen ATC N01BBAntiseptika til lokal behandling i munn, ATC A01AB.
+Tannpleier med norsk autorisasjon eller lisens har rett til å rekvirere følgende legemidler i den grad det er nødvendig for utøvelse av tannpleiervirksomheten:
 
-Tannpleier med norsk autorisasjon eller lisens og godkjent utdanning i bruk av injiserbare lokalanestetika kan i tillegg rekvirere følgende legemidler i den grad det er nødvendig for utøvelse av tannpleiervirksomheten:Midler til lokal infiltrasjonsanestesi til odontologisk bruk,Adrenalinoppløsning i autoinjektor til bruk mot anafylaktisk sjokk.
+1. Midler mot karies, innen ATC A01AA
+2. Overflateanestetika til odontologisk bruk, innen ATC N01BB
+3. Antiseptika til lokal behandling i munn, ATC A01AB.
+
+Tannpleier med norsk autorisasjon eller lisens og godkjent utdanning i bruk av injiserbare lokalanestetika kan i tillegg rekvirere følgende legemidler i den grad det er nødvendig for utøvelse av tannpleiervirksomheten:
+
+1. Midler til lokal infiltrasjonsanestesi til odontologisk bruk,
+2. Adrenalinoppløsning i autoinjektor til bruk mot anafylaktisk sjokk.
 
 Tannpleiere kan kun rekvirere legemidler til bruk i praksis.
 
@@ -448,7 +537,18 @@ Departementet kan stille særskilte krav til oppbevaring av elektroniske resepto
 
 ### § 11-4. Opplysninger om ekspedisjon og utlevering
 
-Apotek skal registrere følgende opplysninger om ekspedisjon og utlevering av legemidler etter resept og rekvisisjon, samt handelsvarer etter resept:Navn og id-nummer på rekvirent i henhold til Helsepersonellregisteret ved ekspedisjon av resept. Krav om id-nummer gjelder ikke ved ekspedisjon av EØS-resepter, jf. [§ 9-5](forskrift/2022-06-02-977/§9-5). For legemidler til bruk på dyr skal rekvirentens fullstendige navn og kontaktinformasjon registreres, og når det er hensiktsmessig skal en kopi av resept/rekvisisjon oppbevares sammen med informasjonen.Navn og fødselsnummer på pasient. Dyreeiers eller dyreholders navn og dyreart. For legemidler til dyr i reseptgruppe A og B dyreeiers eller dyreholders fødselsnummer. Navn på mottager rekvisisjonen er utstedt til.Dato for utstedelse av resept og rekvisisjon.Handelsnavn, virkestoffnavn, legemiddelform, styrke, varenummer, pakningsstørrelse og antall av den enkelte vare som er utlevert.Unik identifikator, herunder batchnummer, der slik identifikator er skannbar for identifisering av legemiddelpakning med sikkerhetsanordning, for det enkelte legemiddel som er utlevert. For legemidler til veterinær bruk skal også nummeret på markedsføringstillatelsen registreres.Apotekets merking av legemiddel med bruksområde og bruksrettledning, jf. [§ 15-2](forskrift/2022-06-02-977/§15-2) første ledd bokstav e, og tilleggsmerking av advarsler jf. [§ 15-9](forskrift/2022-06-02-977/§15-9) bokstav c og d. Dette gjelder tilsvarende for apotekets merking av handelsvare.Dersom det, etter en faglig vurdering, utleveres noe annet enn det som er rekvirert på resept, påføres merking av bruksområde og bruksrettledning som avviker vesentlig fra det som fremgår av resept, eller det gis særlig veiledning skal dette registreres og begrunnes.Navn og id-nummer i henhold til Helsepersonellregisteret på den som har gjennomført farmasøytkontroll, jf. [§ 9-1](forskrift/2022-06-02-977/§9-1), og dato for gjennomført farmasøytkontroll.Dokumentasjon på gjennomført kontroll i henhold til [§ 15-2](forskrift/2022-06-02-977/§15-2) tredje ledd.Dato for utlevering etter resept.
+Apotek skal registrere følgende opplysninger om ekspedisjon og utlevering av legemidler etter resept og rekvisisjon, samt handelsvarer etter resept:
+
+1. Navn og id-nummer på rekvirent i henhold til Helsepersonellregisteret ved ekspedisjon av resept. Krav om id-nummer gjelder ikke ved ekspedisjon av EØS-resepter, jf. [§ 9-5](forskrift/2022-06-02-977/§9-5). For legemidler til bruk på dyr skal rekvirentens fullstendige navn og kontaktinformasjon registreres, og når det er hensiktsmessig skal en kopi av resept/rekvisisjon oppbevares sammen med informasjonen.
+2. Navn og fødselsnummer på pasient. Dyreeiers eller dyreholders navn og dyreart. For legemidler til dyr i reseptgruppe A og B dyreeiers eller dyreholders fødselsnummer. Navn på mottager rekvisisjonen er utstedt til.
+3. Dato for utstedelse av resept og rekvisisjon.
+4. Handelsnavn, virkestoffnavn, legemiddelform, styrke, varenummer, pakningsstørrelse og antall av den enkelte vare som er utlevert.
+5. Unik identifikator, herunder batchnummer, der slik identifikator er skannbar for identifisering av legemiddelpakning med sikkerhetsanordning, for det enkelte legemiddel som er utlevert. For legemidler til veterinær bruk skal også nummeret på markedsføringstillatelsen registreres.
+6. Apotekets merking av legemiddel med bruksområde og bruksrettledning, jf. [§ 15-2](forskrift/2022-06-02-977/§15-2) første ledd bokstav e, og tilleggsmerking av advarsler jf. [§ 15-9](forskrift/2022-06-02-977/§15-9) bokstav c og d. Dette gjelder tilsvarende for apotekets merking av handelsvare.
+7. Dersom det, etter en faglig vurdering, utleveres noe annet enn det som er rekvirert på resept, påføres merking av bruksområde og bruksrettledning som avviker vesentlig fra det som fremgår av resept, eller det gis særlig veiledning skal dette registreres og begrunnes.
+8. Navn og id-nummer i henhold til Helsepersonellregisteret på den som har gjennomført farmasøytkontroll, jf. [§ 9-1](forskrift/2022-06-02-977/§9-1), og dato for gjennomført farmasøytkontroll.
+9. Dokumentasjon på gjennomført kontroll i henhold til [§ 15-2](forskrift/2022-06-02-977/§15-2) tredje ledd.
+10. Dato for utlevering etter resept.
 
 Plikten til å registrere opplysninger etter første ledd gjelder også ved ekspedisjon av mangelfull resept mv. (nødekspedisjon) etter [§ 9-4](forskrift/2022-06-02-977/§9-4). Begrunnelse for nødekspedisjon skal registreres.
 
@@ -474,7 +574,11 @@ Reseptfrie legemidler som kun er godkjent til mennesker, kan ikke utleveres til 
 
 ### § 12-2. Informasjon om legemidlet
 
-Ved utlevering av legemidler uten resept skal apoteket særlig sørge for at:Legemidlene er forsynt med tilstrekkelig opplysninger om bruk, oppbevaring og holdbarhet.Kunden har tilstrekkelig opplysninger om legemidlene til at de kan brukes riktig.Det opplyses om mulige skadelige effekter, særlig hvis det er grunn til å tro at legemidlet vil bli brukt feil.
+Ved utlevering av legemidler uten resept skal apoteket særlig sørge for at:
+
+1. Legemidlene er forsynt med tilstrekkelig opplysninger om bruk, oppbevaring og holdbarhet.
+2. Kunden har tilstrekkelig opplysninger om legemidlene til at de kan brukes riktig.
+3. Det opplyses om mulige skadelige effekter, særlig hvis det er grunn til å tro at legemidlet vil bli brukt feil.
 
 ### § 12-3. Prisinformasjon
 
@@ -512,13 +616,24 @@ Ved utlevering av legemidler ved forsendelse skal det kreves dokumentasjon for a
 
 ### § 15-1. Alminnelig regel
 
-Ved utlevering av legemiddel skal det påses at det er tilstrekkelig merket til å sikre:Identifikasjon av preparatIdentifikasjon av innehaver av markedsføringstillatelse eventuelt legemidlets produsentRiktig oppbevaringRiktig bruk.
+Ved utlevering av legemiddel skal det påses at det er tilstrekkelig merket til å sikre:
+
+1. Identifikasjon av preparat
+2. Identifikasjon av innehaver av markedsføringstillatelse eventuelt legemidlets produsent
+3. Riktig oppbevaring
+4. Riktig bruk.
 
 Ved utlevering skal legemidlet i tillegg være merket i henhold til bestemmelsene i dette kapitlet.
 
 ### § 15-2. Legemidler utlevert etter resept
 
-Legemiddel som utleveres etter resept, skal være merket med:Pasientens navn eller dyreeiers/dyreholders navn og dyrets artRekvirentens navn og yrkeDato for utleveringApotekets navnBruksområde og bruksrettledning slik dette fremgår av resepten
+Legemiddel som utleveres etter resept, skal være merket med:
+
+1. Pasientens navn eller dyreeiers/dyreholders navn og dyrets art
+2. Rekvirentens navn og yrke
+3. Dato for utlevering
+4. Apotekets navn
+5. Bruksområde og bruksrettledning slik dette fremgår av resepten
 
 Dersom fullstendig bruksrettledning ikke kan påføres, skal «Brukes som avtalt med ...» e.l. påføres.
 
@@ -534,11 +649,30 @@ Tilleggsmerking etter [§ 15-8](forskrift/2022-06-02-977/§15-8) til [§ 15-10](
 
 ### § 15-4. Apotekframstilte legemidler
 
-Når det utleveres apotekframstilte legemidler skal følgende påføres legemidlets emballasje:Kvantitativ og kvalitativ sammensetning,Legemidlets navn (eventuelt kortnavn) dersom det foreligger eller er hensiktsmessigLegemidlets legemiddelformLegemidlets styrkeLegemidlets mengdeLegemidlets produsent (apotek eller leieprodusent)Produsentens kontroll- eller batchnummerUtløpsdato (måned/år).
+Når det utleveres apotekframstilte legemidler skal følgende påføres legemidlets emballasje:
+
+1. Kvantitativ og kvalitativ sammensetning,
+2. Legemidlets navn (eventuelt kortnavn) dersom det foreligger eller er hensiktsmessig
+3. Legemidlets legemiddelform
+4. Legemidlets styrke
+5. Legemidlets mengde
+6. Legemidlets produsent (apotek eller leieprodusent)
+7. Produsentens kontroll- eller batchnummer
+8. Utløpsdato (måned/år).
 
 ### § 15-5. Legemidler som ikke utleveres i original emballasje (anbrudd og delutlevering)
 
-Når det utleveres legemidler i annen emballasje enn produsentens originale ved anbrudd, skal følgende påføres legemidlets emballasje:Legemidlets navnLegemidlets legemiddelformLegemidlets styrkeInnhold etter vekt, volum eller antall doserInnehaver av markedsføringstillatelse eventuelt legemidlets produsentProdusentens produksjonspartinummer,Fullstendig deklarasjon i henhold til opprinnelig merking med mindre legemiddelnavnet er entydigUtløpsdato (måned/år)Navn på apotek som har foretatt anbruddet.
+Når det utleveres legemidler i annen emballasje enn produsentens originale ved anbrudd, skal følgende påføres legemidlets emballasje:
+
+1. Legemidlets navn
+2. Legemidlets legemiddelform
+3. Legemidlets styrke
+4. Innhold etter vekt, volum eller antall doser
+5. Innehaver av markedsføringstillatelse eventuelt legemidlets produsent
+6. Produsentens produksjonspartinummer,
+7. Fullstendig deklarasjon i henhold til opprinnelig merking med mindre legemiddelnavnet er entydig
+8. Utløpsdato (måned/år)
+9. Navn på apotek som har foretatt anbruddet.
 
 Opprinnelig utløpsdato kan bare overføres dersom man har sikkerhet for at samme holdbarhet gjelder i ny emballasje. Den opprinnelige utløpsdato må alltid finnes i apotekets dokumentasjon for anbruddet.
 
@@ -548,7 +682,14 @@ Ved delutlevering skal legemidlet om nødvendig være merket med opplysninger om
 
 ### § 15-6. Legemidler som pakkes i multidose
 
-Den enkelte multidoseenhet skal være merket med:PasientnavnEntydig pasientidentifikasjonLegemiddelnavn og styrke på legemidlene enheten inneholderDato, ukedag og klokkeslett for inntak av legemidleneNavn på ekspederende apotek eller multidosepakkerSporbarhet til produsentens produksjonspartinummer.
+Den enkelte multidoseenhet skal være merket med:
+
+1. Pasientnavn
+2. Entydig pasientidentifikasjon
+3. Legemiddelnavn og styrke på legemidlene enheten inneholder
+4. Dato, ukedag og klokkeslett for inntak av legemidlene
+5. Navn på ekspederende apotek eller multidosepakker
+6. Sporbarhet til produsentens produksjonspartinummer.
 
 Pasient skal, når det ansees hensiktsmessig, få tilbud om å få utlevert pakningsvedlegg.
 
@@ -564,7 +705,13 @@ Dersom det ikke fremgår av annen merking skal legemidler påføres opplysninger
 
 ### § 15-9. Tilleggsmerking av advarsler
 
-Dersom det ikke allerede går fram av standardmerkingen, skal følgende advarsler påføres legemidlet før utlevering:Alle legemidler skal merkes «Oppbevares utilgjengelig for barn».Dersom det på resept fra veterinær eller fiskehelsebiolog er angitt tilbakeholdelsestid for egg, melk, honning eller slakt, skal tilbakeholdelsestid påføres legemidlet.Dersom det på resept fra veterinær er angitt frist for å starte i konkurranse, skal startfristen påføres legemidlet.Brannfarlige, eksplosive eller etsende legemidler skal merkes med dette.Cytostatika skal merkes «Cytostatikum».
+Dersom det ikke allerede går fram av standardmerkingen, skal følgende advarsler påføres legemidlet før utlevering:
+
+1. Alle legemidler skal merkes «Oppbevares utilgjengelig for barn».
+2. Dersom det på resept fra veterinær eller fiskehelsebiolog er angitt tilbakeholdelsestid for egg, melk, honning eller slakt, skal tilbakeholdelsestid påføres legemidlet.
+3. Dersom det på resept fra veterinær er angitt frist for å starte i konkurranse, skal startfristen påføres legemidlet.
+4. Brannfarlige, eksplosive eller etsende legemidler skal merkes med dette.
+5. Cytostatika skal merkes «Cytostatikum».
 
 Perorale legemidler med etanolinnhold over 10 vektprosent og andre legemidler etter Direktoratet for medisinske produkters bestemmelse skal merkes med varseltrekant. Varseltrekantens utforming fastsettes av Direktoratet for medisinske produkter. Dersom rekvirent angir på resepten at et legemiddel kan nedsette evnen til å føre motorkjøretøy eller utføre risikofylt arbeid, skal legemidlet merkes med varseltrekant.
 

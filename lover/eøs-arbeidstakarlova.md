@@ -15,7 +15,7 @@ xml_hash: "e89cdaa819af763602f875b507f54ba2d5157925adba1d6185392833b85df83c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32011R0492"
@@ -102,9 +102,18 @@ Alle statsborgarar i ein *EØS-stat* og alle arbeidsgjevarar som utøver verksem
 
 ### Art 3
 
-1\. I medhald av denne forordninga skal lover, forskrifter eller administrativ praksis i ein *EØS-stat* ikkje nyttast når deifor utanlandske statsborgarar avgrensar eller set vilkår som ikkje gjeld for innanlandske statsborgarar, for tilbod og søknad om arbeid og tilgang til og utøving av arbeid, ellerutan å stille vilkår om nasjonalitet, utelukkande eller hovudsakleg har som føremål eller verknad å utelukke statsborgarar i andre *EØS-statar* frå ledige stillingar.Denne føresegna gjeld ikkje for vilkår om språkkunnskapar som er naudsynte på grunn av arten av det arbeidet som den ledige stillinga inneber.
+1\. I medhald av denne forordninga skal lover, forskrifter eller administrativ praksis i ein *EØS-stat* ikkje nyttast når dei
 
-2\. Dei føresegnene og den praksisen som er nemnde i nr. 1 bokstav a), omfattar særleg slike som i ein *EØS-stat*fastset ein særleg og ufråvikeleg framgangsmåte ved tilsetjing av utanlandske statsborgarar,avgrensar kunngjeringa av ledige stillingar gjennom pressa eller på annan måte, eller set andre vilkår for kunngjeringa enn dei som gjeld for arbeidsgjevarar som utøver verksemda si på territoriet til denne staten,set vilkår om registrering hjå arbeidskontor for tilgang til arbeid, eller hindrar individuell rekruttering av personar som ikkje er busette på territoriet til denne staten.
+1. for utanlandske statsborgarar avgrensar eller set vilkår som ikkje gjeld for innanlandske statsborgarar, for tilbod og søknad om arbeid og tilgang til og utøving av arbeid, eller
+2. utan å stille vilkår om nasjonalitet, utelukkande eller hovudsakleg har som føremål eller verknad å utelukke statsborgarar i andre *EØS-statar* frå ledige stillingar.
+
+Denne føresegna gjeld ikkje for vilkår om språkkunnskapar som er naudsynte på grunn av arten av det arbeidet som den ledige stillinga inneber.
+
+2\. Dei føresegnene og den praksisen som er nemnde i nr. 1 bokstav a), omfattar særleg slike som i ein *EØS-stat*
+
+1. fastset ein særleg og ufråvikeleg framgangsmåte ved tilsetjing av utanlandske statsborgarar,
+2. avgrensar kunngjeringa av ledige stillingar gjennom pressa eller på annan måte, eller set andre vilkår for kunngjeringa enn dei som gjeld for arbeidsgjevarar som utøver verksemda si på territoriet til denne staten,
+3. set vilkår om registrering hjå arbeidskontor for tilgang til arbeid, eller hindrar individuell rekruttering av personar som ikkje er busette på territoriet til denne staten.
 
 ### Art 4
 
@@ -146,7 +155,9 @@ Det første leddet i denne artikkelen skal ikkje røre ved dei lovene og forskri
 
 1\. Ein arbeidstakar som er statsborgar i ein *EØS-stat*, og som er tilsett på territoriet til ein annan *EØS-stat*, skal ha dei same rettane og føremonene som innanlandske arbeidstakarar når det gjeld bustad, medrekna eigedomsrett til den bustaden som han eller ho treng.
 
-2\. Ein arbeidstakar som er nemnd i nr. 1, kan med dei same rettane som innanlandske statsborgarar skrive seg på lister over bustadsøkjarar i regionen der han eller ho er tilsett, der det vert ført slike lister, og såleis nyte godt av dei føremonene og prioriteringane som følgjer av dette.Dersom familien til arbeidstakaren er vorten buande i heimstaten, skal familiemedlemmene reknast som busette i den nemnde regionen, i den grad tilsvarande gjeld for innanlandske arbeidstakarar.
+2\. Ein arbeidstakar som er nemnd i nr. 1, kan med dei same rettane som innanlandske statsborgarar skrive seg på lister over bustadsøkjarar i regionen der han eller ho er tilsett, der det vert ført slike lister, og såleis nyte godt av dei føremonene og prioriteringane som følgjer av dette.
+
+Dersom familien til arbeidstakaren er vorten buande i heimstaten, skal familiemedlemmene reknast som busette i den nemnde regionen, i den grad tilsvarande gjeld for innanlandske arbeidstakarar.
 
 ### Del 3. Familien til arbeidstakarane
 
@@ -162,9 +173,13 @@ Når ein statsborgar i ein *EØS-stat* arbeider eller har arbeidd på territorie
 
 ### Art 11
 
-1\. *EFTA-statane* eller *EFTAs faste komité* skal setje i gang eller i fellesskap gjennomføre alle granskingar om sysselsetjing og arbeidsløyse som dei finn naudsynte for den frie rørsla for arbeidstakarar innanfor *EØS*.Dei sentrale arbeidskontora i *EFTA-statane* skal ha eit nært samarbeid med kvarandre og med *EFTAs faste komité* med sikte på felles tiltak som gjeld arbeidsformidling innanfor *EØS*, og den plasseringa av arbeidstakarar som følgjer av dette.
+1\. *EFTA-statane* eller *EFTAs faste komité* skal setje i gang eller i fellesskap gjennomføre alle granskingar om sysselsetjing og arbeidsløyse som dei finn naudsynte for den frie rørsla for arbeidstakarar innanfor *EØS*.
 
-2\. For dette føremålet skal *EFTA-statane* peike ut særlege kontor som skal ha til oppgåve å organisere arbeidet på dei områda som er nemnde i nr. 1 andre leddet, og å samarbeide med kvarandre og med kontora til *EFTAs faste komité*.*EFTA-statane* skal melde frå til *EFTAs faste komité* om alle endringar når det gjeld utpeiking av desse kontora, og *EFTAs faste komité* skal offentleggjere desse endringane i *EØS-avdelinga av og EØS-tillegget til Den europeiske unions tidende*.
+Dei sentrale arbeidskontora i *EFTA-statane* skal ha eit nært samarbeid med kvarandre og med *EFTAs faste komité* med sikte på felles tiltak som gjeld arbeidsformidling innanfor *EØS*, og den plasseringa av arbeidstakarar som følgjer av dette.
+
+2\. For dette føremålet skal *EFTA-statane* peike ut særlege kontor som skal ha til oppgåve å organisere arbeidet på dei områda som er nemnde i nr. 1 andre leddet, og å samarbeide med kvarandre og med kontora til *EFTAs faste komité*.
+
+*EFTA-statane* skal melde frå til *EFTAs faste komité* om alle endringar når det gjeld utpeiking av desse kontora, og *EFTAs faste komité* skal offentleggjere desse endringane i *EØS-avdelinga av og EØS-tillegget til Den europeiske unions tidende*.
 
 ### Art 12
 
@@ -172,19 +187,32 @@ Når ein statsborgar i ein *EØS-stat* arbeider eller har arbeidd på territorie
 
 2\. *EFTAs faste komité* skal fastsetje kva form dei opplysningane som er nemnde i nr. 1 i denne artikkelen, skal utarbeidast i, samstundes som det vert teke mest mogleg omsyn til fråsegna frå det faglege utvalet som er nemnt i artikkel 29 (heretter kalla «Det faglege utvalet»).
 
-3\. I samsvar med den framgangsmåten som er fastsett av *EFTAs faste komité*, samstundes som det vert teke mest mogleg omsyn til fråsegna frå Det faglege utvalet, skal det særlege kontoret i kvar *EFTA-stat* sende over til dei særlege kontora i dei andre *EFTA-statane* og *EFTAs faste komité* og til Det europeiske samordningskontoret som er nemnt i artikkel 18, opplysningar om leve- og arbeidsvilkår og om situasjonen på arbeidsmarknaden som kan vere til nytte for arbeidstakarar frå dei andre *EFTA-statane*. Desse opplysningane skal ajourførast jamleg.Dei særlege kontora til dei andre *EFTA-statane* skal syte for at desse opplysningane får ei omfattande spreiing, særleg ved å sende dei til dei arbeidskontora som det gjeld, og ved å nytte alle kommunikasjonsmiddel som eignar seg for spreiing av informasjon til dei arbeidstakarane som det gjeld.
+3\. I samsvar med den framgangsmåten som er fastsett av *EFTAs faste komité*, samstundes som det vert teke mest mogleg omsyn til fråsegna frå Det faglege utvalet, skal det særlege kontoret i kvar *EFTA-stat* sende over til dei særlege kontora i dei andre *EFTA-statane* og *EFTAs faste komité* og til Det europeiske samordningskontoret som er nemnt i artikkel 18, opplysningar om leve- og arbeidsvilkår og om situasjonen på arbeidsmarknaden som kan vere til nytte for arbeidstakarar frå dei andre *EFTA-statane*. Desse opplysningane skal ajourførast jamleg.
+
+Dei særlege kontora til dei andre *EFTA-statane* skal syte for at desse opplysningane får ei omfattande spreiing, særleg ved å sende dei til dei arbeidskontora som det gjeld, og ved å nytte alle kommunikasjonsmiddel som eignar seg for spreiing av informasjon til dei arbeidstakarane som det gjeld.
 
 ### Del 2. Formidlingsverksemd
 
 ### Art 13
 
-1\. Det særlege kontoret i kvar *EØS-stat* skal jamleg sende dei særlege kontora i dei andre *EØS-statane* og Det europeiske samordningskontoret som er nemnt i artikkel 18,tilbod om ledige stillingar der det eventuelt kunne tilsetjast statsborgarar frå andre *EØS-statar*,tilbod om ledige stillingar som er melde til tredjestatar,søknader om arbeid frå personar som formelt har uttrykt ønske om å arbeide i ein annan *EØS-stat*,opplysningar som er inndelte etter ulike geografiske område og næringar, om arbeidssøkjarar som har sagt seg villige til å ta arbeid i ein annan stat.Det særlege kontoret i kvar *EØS-stat* skal snarast råd sende desse opplysningane over til dei arbeidskontora og – organa som det gjeld.
+1\. Det særlege kontoret i kvar *EØS-stat* skal jamleg sende dei særlege kontora i dei andre *EØS-statane* og Det europeiske samordningskontoret som er nemnt i artikkel 18,
 
-2\. Dei opplysningane om arbeidsformidling som er nemnde i nr. 1, skal fordelast etter eit einsarta system som skal utarbeidast av Det europeiske samordningskontoret som er nemnt i artikkel 18, i samarbeid med Det faglege utvalet.Dette systemet kan tilpassast dersom det er naudsynt.
+1. tilbod om ledige stillingar der det eventuelt kunne tilsetjast statsborgarar frå andre *EØS-statar*,
+2. tilbod om ledige stillingar som er melde til tredjestatar,
+3. søknader om arbeid frå personar som formelt har uttrykt ønske om å arbeide i ein annan *EØS-stat*,
+4. opplysningar som er inndelte etter ulike geografiske område og næringar, om arbeidssøkjarar som har sagt seg villige til å ta arbeid i ein annan stat.
+
+Det særlege kontoret i kvar *EØS-stat* skal snarast råd sende desse opplysningane over til dei arbeidskontora og – organa som det gjeld.
+
+2\. Dei opplysningane om arbeidsformidling som er nemnde i nr. 1, skal fordelast etter eit einsarta system som skal utarbeidast av Det europeiske samordningskontoret som er nemnt i artikkel 18, i samarbeid med Det faglege utvalet.
+
+Dette systemet kan tilpassast dersom det er naudsynt.
 
 ### Art 14
 
-1\. Alle ledige stillingar i medhald av artikkel 13 som er melde til arbeidskontora i ein *EØS-stat*, skal meldast til og handsamast av dei rette arbeidskontora i den andre *EØS-staten* som det gjeld.Desse kontora skal sende over detaljerte opplysningar om eigna søkjarar til den førstnemnde *EØS-staten*.
+1\. Alle ledige stillingar i medhald av artikkel 13 som er melde til arbeidskontora i ein *EØS-stat*, skal meldast til og handsamast av dei rette arbeidskontora i den andre *EØS-staten* som det gjeld.
+
+Desse kontora skal sende over detaljerte opplysningar om eigna søkjarar til den førstnemnde *EØS-staten*.
 
 2\. Dei søknadene om arbeid som er nemnde artikkel 13 nr. 1 bokstav c), skal svarast på av dei rette kontora i *EØS-statane* innan ein rimeleg frist på høgst éin månad.
 
@@ -192,7 +220,23 @@ Når ein statsborgar i ein *EØS-stat* arbeider eller har arbeidd på territorie
 
 ### Art 15
 
-1\. Føresegnene i artikkel 14 skal gjennomførast av dei særlege kontora. I den grad det ligg føre fullmakt frå dei sentrale kontora, og i den grad organiseringa av arbeidskontora i ein *EFTA-stat* og framgangsmåten ved formidling gjer det mogleg, skal likeveldei regionale arbeidskontora *i EFTA-statane*drive direkte arbeidsformidling på grunnlag av dei oppgåvene som er nemnde i artikkel 13, med etterfølgjande høvelege tiltak,innføre direkte samband med sikte på formidlingav tilbod om ledige stillingar til ein namngjeven arbeidstakar,av individuelle søknader om arbeid som er retta til eit visst arbeidskontor eller til ein arbeidsgjevar som utøver verksemda si innanfor området til dette arbeidskontoret,når formidlingsverksemda gjeld sesongarbeidarar som må tilsetjast så snart som råd,dei rette arbeidskontora i grenseområda i to eller fleire *EØS-statar* jamleg utveksle opplysningar om arbeidsformidling innanfor området sitt, og drive arbeidsformidling direkte seg imellom på same måte som med dei andre arbeidskontora i sin eigen stat.Dersom det er naudsynt, skal dei kontora som har ansvaret for grenseområda, dessutan innføre samarbeids- og tenestestrukturar med sikte på å tilbybrukarane flest mogleg praktiske opplysningar om dei ulike sidene ved fri rørsle, ogpartane i arbeidslivet, sosialtenester (særleg offentlege, private eller allmennyttige) og alle institusjonar som det gjeld, eit sett med samordna tiltak som gjeld fri rørsle,offisielle arbeidskontor som spesialiserer seg innanfor visse yrkes- eller persongrupper, samarbeide direkte med kvarandre.
+1\. Føresegnene i artikkel 14 skal gjennomførast av dei særlege kontora. I den grad det ligg føre fullmakt frå dei sentrale kontora, og i den grad organiseringa av arbeidskontora i ein *EFTA-stat* og framgangsmåten ved formidling gjer det mogleg, skal likevel
+
+1. dei regionale arbeidskontora *i EFTA-statane*
+
+   1. drive direkte arbeidsformidling på grunnlag av dei oppgåvene som er nemnde i artikkel 13, med etterfølgjande høvelege tiltak,
+   2. innføre direkte samband med sikte på formidling
+
+      - av tilbod om ledige stillingar til ein namngjeven arbeidstakar,
+      - av individuelle søknader om arbeid som er retta til eit visst arbeidskontor eller til ein arbeidsgjevar som utøver verksemda si innanfor området til dette arbeidskontoret,
+      - når formidlingsverksemda gjeld sesongarbeidarar som må tilsetjast så snart som råd,
+2. dei rette arbeidskontora i grenseområda i to eller fleire *EØS-statar* jamleg utveksle opplysningar om arbeidsformidling innanfor området sitt, og drive arbeidsformidling direkte seg imellom på same måte som med dei andre arbeidskontora i sin eigen stat.
+
+   Dersom det er naudsynt, skal dei kontora som har ansvaret for grenseområda, dessutan innføre samarbeids- og tenestestrukturar med sikte på å tilby
+
+   - brukarane flest mogleg praktiske opplysningar om dei ulike sidene ved fri rørsle, og
+   - partane i arbeidslivet, sosialtenester (særleg offentlege, private eller allmennyttige) og alle institusjonar som det gjeld, eit sett med samordna tiltak som gjeld fri rørsle,
+3. offisielle arbeidskontor som spesialiserer seg innanfor visse yrkes- eller persongrupper, samarbeide direkte med kvarandre.
 
 2\. Dei *EFTA-statane* som det gjeld, skal sende over til *EFTAs faste komité* ei liste som er utarbeidd ved felles avtale, over arbeidskontor slik det er nemnt i nr. 1, og *EFTAs faste komité* skal offentleggjere lista og alle endringar i denne i *EØS-avdelinga av og EØS-tillegget til Den europeiske unions tidende*.
 
@@ -220,7 +264,11 @@ Det europeiske samordningskontoret skal utarbeide ei oversikt over dei opplysnin
 
 ### Art 19
 
-1\. Det europeiske samordningskontoret skal særleg ha ansvaret forå samordne dei praktiske tiltaka som er naudsynte for arbeidsformidling innanfor Unionen, og å analysere den flyttinga av arbeidstakarar som følgjer av dette,å medverke til å nå desse måla ved å gjennomføre felles tiltak på administrative og faglege plan, i samarbeid med Det faglege utvalet,å drive arbeidsformidling når det ligg føre eit særleg behov og i samarbeid med dei særlege kontora, som òg skal gjennomføre denne formidlinga.
+1\. Det europeiske samordningskontoret skal særleg ha ansvaret for
+
+1. å samordne dei praktiske tiltaka som er naudsynte for arbeidsformidling innanfor Unionen, og å analysere den flyttinga av arbeidstakarar som følgjer av dette,
+2. å medverke til å nå desse måla ved å gjennomføre felles tiltak på administrative og faglege plan, i samarbeid med Det faglege utvalet,
+3. å drive arbeidsformidling når det ligg føre eit særleg behov og i samarbeid med dei særlege kontora, som òg skal gjennomføre denne formidlinga.
 
 2\. Det europeiske samordningskontoret skal sende over til dei særlege kontora opplysningar om ledige stillingar og søknader om arbeid som er sende direkte til Kommisjonen, og skal få melding om den vidare behandlinga av dei.
 
@@ -238,7 +286,12 @@ Det rådgjevande utvalet skal ha ansvaret for å hjelpe Kommisjonen ved granskin
 
 ### Art 22
 
-Det rådgjevande utvalet skal særleg ha til oppgåveå handsame problem i samband med fri rørsle og sysselsetjing innanfor ramma av arbeidsmarknadspolitikken til dei einskilde statane med sikte på samordning av sysselsetjingspolitikken til medlemsstatane på unionsplan, og såleis medverke til å utvikle økonomien deira og skape betre jamvekt på arbeidsmarknaden,å gjere ei allmenn gransking av korleis gjennomføringa av denne forordninga og eventuelle tilleggsføresegner verkar,å sende over til Kommisjonen eventuelle grunngjevne framlegg til endring av denne forordninga,på oppmoding frå Kommisjonen eller på eige initiativ, å gje grunngjevne fråsegner om allmenne eller prinsipielle spørsmål, særleg om utveksling av opplysningar om utviklinga på arbeidsmarknaden, om flyttinga til arbeidstakarane mellom medlemsstatane, om program eller tiltak som fremjar yrkesrettleiing og yrkesretta opplæring og kan leggje tilhøva betre til rette for fri rørsle og sysselsetjing, og om alle former for hjelp til arbeidstakarar og familiane deira, medrekna sosialhjelp og hjelp til bustad.
+Det rådgjevande utvalet skal særleg ha til oppgåve
+
+1. å handsame problem i samband med fri rørsle og sysselsetjing innanfor ramma av arbeidsmarknadspolitikken til dei einskilde statane med sikte på samordning av sysselsetjingspolitikken til medlemsstatane på unionsplan, og såleis medverke til å utvikle økonomien deira og skape betre jamvekt på arbeidsmarknaden,
+2. å gjere ei allmenn gransking av korleis gjennomføringa av denne forordninga og eventuelle tilleggsføresegner verkar,
+3. å sende over til Kommisjonen eventuelle grunngjevne framlegg til endring av denne forordninga,
+4. på oppmoding frå Kommisjonen eller på eige initiativ, å gje grunngjevne fråsegner om allmenne eller prinsipielle spørsmål, særleg om utveksling av opplysningar om utviklinga på arbeidsmarknaden, om flyttinga til arbeidstakarane mellom medlemsstatane, om program eller tiltak som fremjar yrkesrettleiing og yrkesretta opplæring og kan leggje tilhøva betre til rette for fri rørsle og sysselsetjing, og om alle former for hjelp til arbeidstakarar og familiane deira, medrekna sosialhjelp og hjelp til bustad.
 
 ### Art 23
 
@@ -246,7 +299,9 @@ Det rådgjevande utvalet skal særleg ha til oppgåveå handsame problem i samba
 
 2\. For kvar gruppe som er nemnd i nr. 1, skal det oppnemnast ein varamedlem frå kvar medlemsstat.
 
-3\. Mandatet til medlemmene og varamedlemmene skal vare i to år. Mandatet deira kan lengjast.Når mandatet deira går ut, skal medlemmene og varamedlemmene halde fram i tenesta inntil dei vert avløyste eller mandatet deira vert fornya.
+3\. Mandatet til medlemmene og varamedlemmene skal vare i to år. Mandatet deira kan lengjast.
+
+Når mandatet deira går ut, skal medlemmene og varamedlemmene halde fram i tenesta inntil dei vert avløyste eller mandatet deira vert fornya.
 
 ### Art 24
 
@@ -282,7 +337,12 @@ Det faglege utvalet skal ha til oppgåve å hjelpe Kommisjonen med å førebu, f
 
 ### Art 30
 
-Det faglege utvalet skal særleg ha til oppgåveå fremje og betre samarbeidet mellom dei offentlege styresmaktene som det gjeld i medlemsstatane, i alle faglege spørsmål i samband med fri rørsle for og sysselsetjing av arbeidstakarar,å utarbeide framgangsmåtar for organiseringa av den felles verksemda til dei offentlege styresmaktene som det gjeld,å lette innsamlinga av opplysningar som kan vere nyttige for Kommisjonen og for gjennomføringa av granskingar og forsking som er fastsett i denne forordninga, og å fremje utvekslinga av opplysningar og røynsler mellom dei administrative organa som det gjeld,å undersøkje på eit fagleg plan korleis dei kriteria som medlemsstatane nyttar for å vurdere situasjonen på arbeidsmarknaden, kan harmoniserast.
+Det faglege utvalet skal særleg ha til oppgåve
+
+1. å fremje og betre samarbeidet mellom dei offentlege styresmaktene som det gjeld i medlemsstatane, i alle faglege spørsmål i samband med fri rørsle for og sysselsetjing av arbeidstakarar,
+2. å utarbeide framgangsmåtar for organiseringa av den felles verksemda til dei offentlege styresmaktene som det gjeld,
+3. å lette innsamlinga av opplysningar som kan vere nyttige for Kommisjonen og for gjennomføringa av granskingar og forsking som er fastsett i denne forordninga, og å fremje utvekslinga av opplysningar og røynsler mellom dei administrative organa som det gjeld,
+4. å undersøkje på eit fagleg plan korleis dei kriteria som medlemsstatane nyttar for å vurdere situasjonen på arbeidsmarknaden, kan harmoniserast.
 
 ### Art 31
 
@@ -314,7 +374,9 @@ Dei møteføresegnene som gjaldt for Det rådgjevande utvalet og Det faglege utv
 
 1\. Denne forordninga rører ikkje ved dei føresegnene som vert vedtekne i samsvar med artikkel 29 i EØS-avtalen.
 
-2\. Denne forordninga rører ikkje ved dei pliktene som ligg på *EØS-statane* som følgje av særlege tilhøve eller av framtidige avtaler med visse ikkje-europeiske statar eller territorium på grunnlag av institusjonelle band som låg føre 8. november 1968 med visse ikkje-europeiske statar eller territorium på grunnlag av institusjonelle band mellom dei.Arbeidstakarar frå slike statar og territorium som i samsvar med denne føresegna utøver verksemd som arbeidstakarar på territoriet til ein av desse *EØS-statane*, kan ikkje gjere gjeldande føresegnene i denne forordninga på territoriet til dei andre *EØS-statane*.
+2\. Denne forordninga rører ikkje ved dei pliktene som ligg på *EØS-statane* som følgje av særlege tilhøve eller av framtidige avtaler med visse ikkje-europeiske statar eller territorium på grunnlag av institusjonelle band som låg føre 8. november 1968 med visse ikkje-europeiske statar eller territorium på grunnlag av institusjonelle band mellom dei.
+
+Arbeidstakarar frå slike statar og territorium som i samsvar med denne føresegna utøver verksemd som arbeidstakarar på territoriet til ein av desse *EØS-statane*, kan ikkje gjere gjeldande føresegnene i denne forordninga på territoriet til dei andre *EØS-statane*.
 
 ### Art 37
 
@@ -344,4 +406,6 @@ Denne forordninga tek til å gjelde 20. dagen etter at ho er kunngjord i *Den eu
 
 Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.2
 
-1 I EØS: 14 des 2012.2 Jf. EØS-avtalen art. 7 bokstav b: Dette gjeld ikkje i EØS.
+1 I EØS: 14 des 2012.
+
+2 Jf. EØS-avtalen art. 7 bokstav b: Dette gjeld ikkje i EØS.

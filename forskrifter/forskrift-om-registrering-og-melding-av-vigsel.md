@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1
 
-Det skal føres vigselsbok over vigsler som utføres avprest i Den norske kirkeperson som er tildelt vigselsrett i medhold av [trossamfunnsloven](lov/2020-04-24-31)særskilt oppnevnt vigsler etter [ekteskapsloven § 12](lov/1991-07-04-47/§12) eordfører, varaordfører eller kommunalt ansatt eller folkevalgt som kommunestyret selv har gitt vigselsmyndighet.
+Det skal føres vigselsbok over vigsler som utføres av
+
+1. prest i Den norske kirke
+2. person som er tildelt vigselsrett i medhold av [trossamfunnsloven](lov/2020-04-24-31)
+3. særskilt oppnevnt vigsler etter [ekteskapsloven § 12](lov/1991-07-04-47/§12) e
+4. ordfører, varaordfører eller kommunalt ansatt eller folkevalgt som kommunestyret selv har gitt vigselsmyndighet.
 
 Vigselsboken skal føres av den som utfører vigselen.
 

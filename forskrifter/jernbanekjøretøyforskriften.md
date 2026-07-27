@@ -15,7 +15,7 @@ xml_hash: "8fc10b1fac9b99d527e720cd5e26940387d2de70498416752ef3bf8510e83d22"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -83,13 +83,26 @@ For å få tillatelse til å bringe kjøretøy i omsetning etter [samtrafikkfors
 
 Transport av kjøretøy som ikke har tillatelse krever egen transporttillatelse fra Statens jernbanetilsyn.
 
-Søknad om slik transporttillatelse skal minst inneholde:transportplan,risikovurdering,vurdering av teknisk kompatibilitet mellom kjøretøyet og jernbanenettetbekreftelse på at kjøretøyet er i en slik stand at det kan transporteres på en sikker måte, ogeventuelle betingelser ved transport, for eksempel hastighetsbegrensninger.
+Søknad om slik transporttillatelse skal minst inneholde:
+
+- transportplan,
+- risikovurdering,
+- vurdering av teknisk kompatibilitet mellom kjøretøyet og jernbanenettet
+- bekreftelse på at kjøretøyet er i en slik stand at det kan transporteres på en sikker måte, og
+- eventuelle betingelser ved transport, for eksempel hastighetsbegrensninger.
 
 ### § 4-2. Tillatelse til transport av kjøretøy som har tillatelse i et annet EØS-land
 
 Transport av kjøretøy som har tillatelse i et annet EØS-land, men ikke i Norge, krever egen transporttillatelse fra Statens jernbanetilsyn.
 
-Søknad om slik transporttillatelse skal minst inneholde:transportplan,bekreftelse på tillatelse fra et EØS-land,risikovurdering,vurdering av teknisk kompatibilitet mellom kjøretøyet og jernbanenettet,bekreftelse på at kjøretøyet er i en slik stand at det kan transporteres på en sikker måte, ogeventuelle betingelser ved transport, for eksempel hastighetsbegrensninger.
+Søknad om slik transporttillatelse skal minst inneholde:
+
+- transportplan,
+- bekreftelse på tillatelse fra et EØS-land,
+- risikovurdering,
+- vurdering av teknisk kompatibilitet mellom kjøretøyet og jernbanenettet,
+- bekreftelse på at kjøretøyet er i en slik stand at det kan transporteres på en sikker måte, og
+- eventuelle betingelser ved transport, for eksempel hastighetsbegrensninger.
 
 ## Kapittel 5. Tillatelse til test
 
@@ -103,7 +116,12 @@ Delsystem styring, kontroll og signal om bord skal testes særskilt etter kraven
 
 Ved bruk av datasimuleringer skal det legges stor vekt på at forutsetningene lagt til grunn for slike vurderinger gjenspeiler en virkelig situasjon. De samme prinsippene gjelder for sammenligningsanalyse mot et referansesystem.
 
-Følgende dokumentasjon vedlegges søknaden:EF-verifiseringserklæring med midlertidige sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er,verifiseringserklæring med midlertidige sertifikater og dokumentasjon utarbeidet av DeBo for samsvar med de relevante kravene gitt i vedlegget her,Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer i henhold til CSM RA. Risikovurdering som følger CSM RA-prinsippene kan benyttes ved prosjekter av mindre omfang. Dette skal avtales med Statens jernbanetilsyn på forhånd.testplan med aktiviteter og risikovurdering knyttet til den aktuelle testplanen.
+Følgende dokumentasjon vedlegges søknaden:
+
+- EF-verifiseringserklæring med midlertidige sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er,
+- verifiseringserklæring med midlertidige sertifikater og dokumentasjon utarbeidet av DeBo for samsvar med de relevante kravene gitt i vedlegget her,
+- Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer i henhold til CSM RA. Risikovurdering som følger CSM RA-prinsippene kan benyttes ved prosjekter av mindre omfang. Dette skal avtales med Statens jernbanetilsyn på forhånd.
+- testplan med aktiviteter og risikovurdering knyttet til den aktuelle testplanen.
 
 Statens jernbanetilsyn kan kreve ytterligere dokumentasjon ved behov.
 
@@ -119,7 +137,13 @@ Delsystem styring, kontroll og signal om bord skal testes særskilt etter kraven
 
 Ved bruk av datasimuleringer skal det legges stor vekt på at forutsetningene lagt til grunn for slike vurderinger gjenspeiler en virkelig situasjon. De samme prinsippene gjelder for sammenligningsanalyse mot et referansesystem.
 
-Følgende dokumentasjon vedlegges søknaden:Dokumentasjon på at kjøretøyet har tillatelse til å ta i bruk i en annen EØS-stat, og eventuelle vilkår for denne tillatelsen.EF-verifiseringserklæring med sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er,verifiseringserklæring med midlertidige sertifikater og dokumentasjon utarbeidet av DeBo for samsvar med de relevante kravene gitt i vedlegget her,Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer i henhold til CSM RA. Risikovurdering som følger CSM RA-prinsippene kan benyttes ved prosjekter av mindre omfang. Dette skal avtales med SJT på forhånd.Testplan med aktiviteter og risikovurdering knyttet til den aktuelle testplanen.
+Følgende dokumentasjon vedlegges søknaden:
+
+- Dokumentasjon på at kjøretøyet har tillatelse til å ta i bruk i en annen EØS-stat, og eventuelle vilkår for denne tillatelsen.
+- EF-verifiseringserklæring med sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er,
+- verifiseringserklæring med midlertidige sertifikater og dokumentasjon utarbeidet av DeBo for samsvar med de relevante kravene gitt i vedlegget her,
+- Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer i henhold til CSM RA. Risikovurdering som følger CSM RA-prinsippene kan benyttes ved prosjekter av mindre omfang. Dette skal avtales med SJT på forhånd.
+- Testplan med aktiviteter og risikovurdering knyttet til den aktuelle testplanen.
 
 Statens jernbanetilsyn kan kreve ytterligere dokumentasjon ved behov.
 
@@ -133,7 +157,13 @@ Det skal benyttes assessor (ISA) i forbindelse med testaktiviteter fordelt på h
 
 Tester for validering av sikker integrering mellom kjøretøyet og jernbaneinfrastrukturen vurderes særskilt. Ved endring av ombordutrustningen skal kravene i § 5-4 følges.
 
-Følgende dokumentasjon vedlegges søknaden:dokumentasjon på at kjøretøyet har tillatelse til å tas i bruk i Norge,EF-verifiseringserklæring med midlertidige sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er,verifiseringserklæring med midlertidige sertifikater og dokumentasjon utarbeidet av DeBo for samsvar med de relevante kravene gitt i vedlegget her,sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer i henhold til CSM RA. Risikovurdering som følger CSM RA-prinsippene kan benyttes ved prosjekter av mindre omfang. Dette skal avtales med SJT på forhånd.testplan med aktiviteter og risikovurdering knyttet til den aktuelle testplanen.
+Følgende dokumentasjon vedlegges søknaden:
+
+- dokumentasjon på at kjøretøyet har tillatelse til å tas i bruk i Norge,
+- EF-verifiseringserklæring med midlertidige sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er,
+- verifiseringserklæring med midlertidige sertifikater og dokumentasjon utarbeidet av DeBo for samsvar med de relevante kravene gitt i vedlegget her,
+- sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer i henhold til CSM RA. Risikovurdering som følger CSM RA-prinsippene kan benyttes ved prosjekter av mindre omfang. Dette skal avtales med SJT på forhånd.
+- testplan med aktiviteter og risikovurdering knyttet til den aktuelle testplanen.
 
 Statens jernbanetilsyn kan kreve ytterligere dokumentasjon.
 
@@ -149,7 +179,12 @@ Ved endring av kjøretøy som følge av innmontering av CCS-ombordutrustning kla
 
 Testspesifikasjoner skal knyttes til definerte teststrekninger fastlagt av infrastrukturforvalter og skal integreres i overordnet testplan. Testresultater skal aksepteres av infrastrukturforvalteren.
 
-Ved søknad om test skal følgende dokumentasjon sendes til Statens jernbanetilsyn:EF-verifiseringserklæring med tilhørende sertifikater eller midlertidige sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er.Verifiseringserklæring med tilhørende sertifikater eller midlertidige sertifikater og dokumentasjon for samsvar med de kravene gitt i vedlegget her.Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer iht CSM RA.Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering mellom kjøretøyet og det norske jernbanesystemet iht CSM RA.
+Ved søknad om test skal følgende dokumentasjon sendes til Statens jernbanetilsyn:
+
+- EF-verifiseringserklæring med tilhørende sertifikater eller midlertidige sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er.
+- Verifiseringserklæring med tilhørende sertifikater eller midlertidige sertifikater og dokumentasjon for samsvar med de kravene gitt i vedlegget her.
+- Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer iht CSM RA.
+- Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering mellom kjøretøyet og det norske jernbanesystemet iht CSM RA.
 
 Test av ombordutrustningen kan gjøres som del av en generell test av kjøretøyet i henhold til § 5-1 til § 5-3. Dokumentasjonskravene i denne bestemmelsen supplerer kravene i de andre bestemmelsene.
 
@@ -177,7 +212,10 @@ Unntak som nevnt i annet ledd kan gis i forbindelse med registrering av kjøret�
 
 ### § 7-2. Ikrafttredelse og unntak
 
-Forskriften trer i kraft 1. juni 2022. Fra samme dato gjøres følgende endringer i andre forskrifter:[Forskrift 19. desember 2016 nr. 1846 om kjøretøy på det nasjonale jernbanenettet (kjøretøyforskriften)](forskrift/2016-12-19-1846) oppheves.Unntak som er gitt med hjemmel unntaksbestemmelser i [forskrift 19. desember 2005 nr. 1621 om krav til jernbaneforetak på det nasjonale jernbanenettet (sikkerhetsforskriften)](forskrift/2005-12-19-1621) eller med hjemmel i [forskrift 21. juni 2012 nr. 633 om kjøretøy på det nasjonale jernbanenettet (kjøretøyforskriften)](forskrift/2012-06-21-633) og [forskrift 19. desember 2016 nr. 1846 om kjøretøy på det nasjonale jernbanenettet (kjøretøyforskriften)](forskrift/2016-12-19-1846) gjelder videre så langt unntaket rekker.
+Forskriften trer i kraft 1. juni 2022. Fra samme dato gjøres følgende endringer i andre forskrifter:
+
+1. [Forskrift 19. desember 2016 nr. 1846 om kjøretøy på det nasjonale jernbanenettet (kjøretøyforskriften)](forskrift/2016-12-19-1846) oppheves.
+2. Unntak som er gitt med hjemmel unntaksbestemmelser i [forskrift 19. desember 2005 nr. 1621 om krav til jernbaneforetak på det nasjonale jernbanenettet (sikkerhetsforskriften)](forskrift/2005-12-19-1621) eller med hjemmel i [forskrift 21. juni 2012 nr. 633 om kjøretøy på det nasjonale jernbanenettet (kjøretøyforskriften)](forskrift/2012-06-21-633) og [forskrift 19. desember 2016 nr. 1846 om kjøretøy på det nasjonale jernbanenettet (kjøretøyforskriften)](forskrift/2016-12-19-1846) gjelder videre så langt unntaket rekker.
 
 ## Vedlegg – krav til kjøretøy på jernbanenettet
 
@@ -939,9 +977,25 @@ Strømavtakeren skal ha en geometri som beskrevet i EN 50367 Figur B.6 (1800 mm)
 
 8.2.2.3*Strømavtakerens kontaktkraft – inkludert statisk kontaktkraft, dynamisk kontaktkraft og aerodynamiske virkninger*
 
-Strømavtakeren skal ha en statisk kontaktkraft på 55 N. På strekninger angitt i infrastrukturforvalters nettveiledning gjelder kravene i TSI LOC & PAS punkt 4.2.8.2.9.5 tilsvarende. For strømavtakerens kontaktkraft (herunder dynamiske egenskaper og aerodynamiske virkninger) gjelder kravene i TSI LOC & PAS punkt 4.2.8.2.9.6 tilsvarende. I tillegg skal strømavtakeren følge en målkurve angitt etter følgende formel:Hastighet v ≤ 160 km/tFm = 0,000586v2 + 70Hastighet 160 < v ≤ 250 km/tFm = 0,00097v2 + 60,2
+Strømavtakeren skal ha en statisk kontaktkraft på 55 N. På strekninger angitt i infrastrukturforvalters nettveiledning gjelder kravene i TSI LOC & PAS punkt 4.2.8.2.9.5 tilsvarende. For strømavtakerens kontaktkraft (herunder dynamiske egenskaper og aerodynamiske virkninger) gjelder kravene i TSI LOC & PAS punkt 4.2.8.2.9.6 tilsvarende. I tillegg skal strømavtakeren følge en målkurve angitt etter følgende formel:
 
-På strekninger angitt i infrastrukturforvalters nettveiledning skal strømavtakere oppfylle krav til å følge en målkurve angitt etter formler gitt i prEN 50367:2017 tabell 6a og 6b:Tabell 6a:Hastighet v ≤ 200 km/tFm = 0,00047v2 + 90Hastighet v > 200 km/hFm = 0,00097v2 + 70Tabell 6b:Hastighet v ≤ 160 km/tFm = 0,00047(1,25v)2 + 90Hastighet v > 160 km/tFm = 0,00097(1,25v)2 + 70
+- Hastighet v ≤ 160 km/t
+- Fm = 0,000586v2 + 70
+- Hastighet 160 < v ≤ 250 km/t
+- Fm = 0,00097v2 + 60,2
+
+På strekninger angitt i infrastrukturforvalters nettveiledning skal strømavtakere oppfylle krav til å følge en målkurve angitt etter formler gitt i prEN 50367:2017 tabell 6a og 6b:
+
+- Tabell 6a:
+- Hastighet v ≤ 200 km/t
+- Fm = 0,00047v2 + 90
+- Hastighet v > 200 km/h
+- Fm = 0,00097v2 + 70
+- Tabell 6b:
+- Hastighet v ≤ 160 km/t
+- Fm = 0,00047(1,25v)2 + 90
+- Hastighet v > 160 km/t
+- Fm = 0,00097(1,25v)2 + 70
 
 8.2.2.4*Arbeidsområde for strømavtakere*
 
@@ -1043,7 +1097,14 @@ Ingen særlige krav gjelder.
 
 Kravene i TSI LOC & PAS punkt 4.2.8.2.7 gjelder tilsvarende. I tillegg skal det for å sikre teknisk forenlighet også innhentes informasjon fra infrastrukturforvalter i henhold til EN 50388 vedlegg D, ettersom informasjonen i EN 50388 vedlegg D ikke er tilstrekkelig for å sikre teknisk forenelighet mellom kjøretøy og infrastrukturen på jernbanenettet.
 
-Ved testing av kjøretøyets tekniske forenlighet med strømforsyningen på jernbanenettet skal følgende forhold tas i betraktning for både trafikk og hensetting ved forsyning via strømavtaker:Generelt svak strømforsyning karakterisert med lange matestrekninger, enkeltspor (dvs. høy kontaktledningsimpedans) og roterende omformere så vel som statiske omformere fra 50 Hz til 16 2/3 Hz med liten ytelseLavfrekvente pendlinger ved mating fra roterende omformeraggregater på grunn av en elektromekanisk egenfrekvens med lav dempingHøyt innhold av overharmoniske (over 30 % THDu) i kontaktledningsspenningen, spesielt 3. og 5. harmoniske og repeterende høye toppverdier på spenningen (opptil 33 kV) på grunn av mange eksisterende trekkraftkjøretøy med halvstyrte tyristorbruerBruk av automatisk begrensning av effekt/strøm ved lav kontaktledningsspenning og kapasitiv kompensering for økt overføringskapasitet ved lange matestrekningerBruk av automatisk begrensning av effekt/strøm ved høy kontaktledningsspenning og induktiv kompensering for å begrense kontaktledningsspenningen ved tilbakematingLave elektriske resonansfrekvenser på grunn av stor andel kabel i infrastrukturen og passive filtre i eksisterende trekkraftkjøretøy
+Ved testing av kjøretøyets tekniske forenlighet med strømforsyningen på jernbanenettet skal følgende forhold tas i betraktning for både trafikk og hensetting ved forsyning via strømavtaker:
+
+- Generelt svak strømforsyning karakterisert med lange matestrekninger, enkeltspor (dvs. høy kontaktledningsimpedans) og roterende omformere så vel som statiske omformere fra 50 Hz til 16 2/3 Hz med liten ytelse
+- Lavfrekvente pendlinger ved mating fra roterende omformeraggregater på grunn av en elektromekanisk egenfrekvens med lav demping
+- Høyt innhold av overharmoniske (over 30 % THDu) i kontaktledningsspenningen, spesielt 3. og 5. harmoniske og repeterende høye toppverdier på spenningen (opptil 33 kV) på grunn av mange eksisterende trekkraftkjøretøy med halvstyrte tyristorbruer
+- Bruk av automatisk begrensning av effekt/strøm ved lav kontaktledningsspenning og kapasitiv kompensering for økt overføringskapasitet ved lange matestrekninger
+- Bruk av automatisk begrensning av effekt/strøm ved høy kontaktledningsspenning og induktiv kompensering for å begrense kontaktledningsspenningen ved tilbakemating
+- Lave elektriske resonansfrekvenser på grunn av stor andel kabel i infrastrukturen og passive filtre i eksisterende trekkraftkjøretøy
 
 8.4.2.1.5*Virkninger av likestrømsinnhold i vekselstrømforsyningen*
 
@@ -1053,7 +1114,12 @@ EN 50388 (2012) punkt 13 gjelder tilsvarende. Likestrøm opp til 40 A i 60 sekun
 
 8.4.2.2.1*Elektromagnetiske felt/induserte spenninger i sporet under kjøretøyet*
 
-Tilleggskrav til (ev.) andre spesifiserte grenseverdier for samme frekvenser i forbindelse med togdeteksjon:92 Hz–300 Hz, strøm skal måles og dokumenteres.300 Hz–7 kHz, maks 1 A RMS kontinuerlig 1 sek.7 kHz–9 kHz, maks 0,5 A RMS kontinuerlig 1 sek.> 9 kHz, maks 0,33 A RMS kontinuerlig 1 sek.
+Tilleggskrav til (ev.) andre spesifiserte grenseverdier for samme frekvenser i forbindelse med togdeteksjon:
+
+- 92 Hz–300 Hz, strøm skal måles og dokumenteres.
+- 300 Hz–7 kHz, maks 1 A RMS kontinuerlig 1 sek.
+- 7 kHz–9 kHz, maks 0,5 A RMS kontinuerlig 1 sek.
+- \> 9 kHz, maks 0,33 A RMS kontinuerlig 1 sek.
 
 Beregning:
 
@@ -1397,7 +1463,13 @@ Trekkraftkjøretøy som skal brukes på strekninger som er utstyrt med automatis
 
 Statens jernbanetilsyn skal ha utfyllende krav til STM-enheten på tilsynets nettsider. For å sikre teknisk forenlighet og sikker integrering må det foretas testing av styrings- og kontrollutstyr ved integrering av dette utstyret i kjøretøy (integrasjonstesting) jf. § 10. Infrastrukturforvalteren skal ha utfyllende bestemmelser om integrasjonstesting. STM-enheten skal kommunisere sikkert med klasse B-systemet.
 
-Følgende skal dokumenteres:Beskrivelse av STM-enheten. Beskrivelse av alle grensesnitt som ikke er en del av TSI CCS.Samsvar med spesifikasjon for STM-enheten (ref. utfyllende bestemmelser fra SJT).ISA rapport for etterlevelse av krav i EN 50126, EN 50128 og EN 50129.Sikkerhetsvurderingsrapport som bekrefter sikker integrering av STM-enheten i relevante delsystemer)Sikkerhetsvurderingsrapport som bekrefter sikker integrering mellom kjøretøyet og det norske jernbanesystemet, herunder integrasjonstester.
+Følgende skal dokumenteres:
+
+1. Beskrivelse av STM-enheten. Beskrivelse av alle grensesnitt som ikke er en del av TSI CCS.
+2. Samsvar med spesifikasjon for STM-enheten (ref. utfyllende bestemmelser fra SJT).
+3. ISA rapport for etterlevelse av krav i EN 50126, EN 50128 og EN 50129.
+4. Sikkerhetsvurderingsrapport som bekrefter sikker integrering av STM-enheten i relevante delsystemer)
+5. Sikkerhetsvurderingsrapport som bekrefter sikker integrering mellom kjøretøyet og det norske jernbanesystemet, herunder integrasjonstester.
 
 12.2.3*Overganger*
 

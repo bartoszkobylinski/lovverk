@@ -40,7 +40,18 @@ Personer som er tildelt vigselsrett i medhold av [trossamfunnsloven](lov/2020-04
 
 ### § 3. Søknad om registrering
 
-Tros- og livssynssamfunn som ønsker å bli registrert etter [trossamfunnsloven § 4](lov/2020-04-24-31/§4), skal sende søknad til statsforvalteren med forvaltningsansvaret for fylket samfunnet er hjemmehørende i, og opplyse omsamfunnets navn og organisasjonsnummersamfunnets postadresse, e-postadresse og telefonnummernavn, e-postadresse og telefonnummer til styreleder eller tilsvarende øverste leder for tros- eller livssynssamfunnetnavn, e-postadresse og telefonnummer til en norskspråklig kontaktpersonreligionen eller livssynet samfunnet bygger påsamfunnets lære eller verdigrunnlag i form av religiøse skrifter, verdidokument e.l.samfunnets tros- eller livssynsaktiviteter og eventuell annen virksomhetsamfunnets organisasjons- og styringsstruktur, utbredelse, og regler om organisering i form av vedtekter e.l.samfunnets rutiner for inn- og utmelding, vilkår for medlemskap og medlemsregisterføringantall medlemmer.
+Tros- og livssynssamfunn som ønsker å bli registrert etter [trossamfunnsloven § 4](lov/2020-04-24-31/§4), skal sende søknad til statsforvalteren med forvaltningsansvaret for fylket samfunnet er hjemmehørende i, og opplyse om
+
+1. samfunnets navn og organisasjonsnummer
+2. samfunnets postadresse, e-postadresse og telefonnummer
+3. navn, e-postadresse og telefonnummer til styreleder eller tilsvarende øverste leder for tros- eller livssynssamfunnet
+4. navn, e-postadresse og telefonnummer til en norskspråklig kontaktperson
+5. religionen eller livssynet samfunnet bygger på
+6. samfunnets lære eller verdigrunnlag i form av religiøse skrifter, verdidokument e.l.
+7. samfunnets tros- eller livssynsaktiviteter og eventuell annen virksomhet
+8. samfunnets organisasjons- og styringsstruktur, utbredelse, og regler om organisering i form av vedtekter e.l.
+9. samfunnets rutiner for inn- og utmelding, vilkår for medlemskap og medlemsregisterføring
+10. antall medlemmer.
 
 Fremmes registreringssøknaden innen 1. mars, skal tros- eller livssynssamfunnet samtidig levere en digitalt lesbar liste med fødselsnummer for medlemmene per 1. januar i søknadsåret. Når søknaden fremmes etter 1. mars, skal tros- eller livssynssamfunnet levere listen innen 1. mars året etter. For å avklare hvor mange av samfunnets medlemmer som oppfyller vilkårene i [trossamfunnsloven § 4](lov/2020-04-24-31/§4) første ledd bokstav b og c, skal listen kontrolleres mot Folkeregisteret, Den norske kirkes medlemsregister og listene til øvrige tros- og livssynssamfunn. Samfunn som ikke ønsker å kreve tilskudd, kan velge å sende inn et antall fødselsnummer som de antar vil tilfredsstille antallskravet i [trossamfunnsloven § 4](lov/2020-04-24-31/§4) første ledd.
 
@@ -94,7 +105,10 @@ Tros- og livssynssamfunn kan kreve tilskudd parallelt med en søknad om registre
 
 Kravet må være sendt inn innen 1. mars. Departementet kan i særlige tilfeller forlenge fristen for alle tros- og livssynssamfunn.
 
-Tros- eller livssynssamfunnet skal sammen med kravet bekrefte atdet er kjent med og vil overholde lovens vilkår for tilskudd, og atdet vil arbeide for å oppnå minst 40 prosent kvinner og 40 prosent menn i styrende organ som forvalter statstilskuddet.
+Tros- eller livssynssamfunnet skal sammen med kravet bekrefte at
+
+1. det er kjent med og vil overholde lovens vilkår for tilskudd, og at
+2. det vil arbeide for å oppnå minst 40 prosent kvinner og 40 prosent menn i styrende organ som forvalter statstilskuddet.
 
 Stillinger eller verv som kan fylles på bakgrunn av lovlig forskjellsbehandling mellom kjønnene etter [likestillings- og diskrimineringsloven](lov/2017-06-16-51), inngår ikke i beregningen av kjønnssammensetningen i styrende organ etter femte ledd bokstav b.
 
@@ -136,7 +150,14 @@ Statsforvalteren kan utsette et vedtak om å nekte tilskudd i påvente av at for
 
 ### § 11. Nekting og avkorting av tilskudd
 
-Statsforvalteren kan fatte vedtak om å nekte tilskudd dersom tros- eller livssynssamfunnetbegår, oppfordrer til eller støtter krenkelser som nevnt i [trossamfunnsloven § 6](lov/2020-04-24-31/§6) første leddbruker tilskuddet til annet enn tros- eller livssynsformålunnlater å rapportere, rapporterer mangelfullt eller uriktigikke overholder lovens regler for inn- og utmeldinghar oppgitt vesentlig for høyt medlemstall eller har gitt andre uriktige opplysninger som har betydning for tilskuddsvedtaketi løpet av et kalenderår mottar ett eller flere bidrag som til sammen utgjør 50 000 norske kroner eller mer, fra en stat som ikke respekterer retten til tros- og livssynsfrihet.
+Statsforvalteren kan fatte vedtak om å nekte tilskudd dersom tros- eller livssynssamfunnet
+
+1. begår, oppfordrer til eller støtter krenkelser som nevnt i [trossamfunnsloven § 6](lov/2020-04-24-31/§6) første ledd
+2. bruker tilskuddet til annet enn tros- eller livssynsformål
+3. unnlater å rapportere, rapporterer mangelfullt eller uriktig
+4. ikke overholder lovens regler for inn- og utmelding
+5. har oppgitt vesentlig for høyt medlemstall eller har gitt andre uriktige opplysninger som har betydning for tilskuddsvedtaket
+6. i løpet av et kalenderår mottar ett eller flere bidrag som til sammen utgjør 50 000 norske kroner eller mer, fra en stat som ikke respekterer retten til tros- og livssynsfrihet.
 
 I vurderingen av om forhold nevnt i første ledd bokstav a–f skal lede til at tros- eller livssynssamfunnet nektes tilskudd, skal det særlig legges vekt på tiltak samfunnet har satt i verk for å forhindre slike forhold. Det skal også legges vekt på hvor alvorlig forholdet er og om det fremstår som forsettlig.
 
@@ -194,7 +215,13 @@ Tros- og livssynssamfunn skal også rapportere om bruken av tilskuddet, og hvord
 
 Tros- og livssynssamfunn skal opplyse om medlemstallet per 1. januar i det inneværende året, og om antall vigsler utført etter [ekteskapsloven](lov/1991-07-04-47) i løpet av året.
 
-Tros- og livssynssamfunnene skal også redegjøre forden faktiske tilstanden når det gjelder kjønnslikestilling i tros- eller livssynssamfunnet, herunder kjønnsfordelingen i samfunnets styrende organertiltak tros- eller livssynssamfunnet har iverksatt og planlegger iverksatt for å fremme kjønnslikestillingtiltak for å oppnå minst 40 prosent kvinner og 40 prosent menn i styrende organ som forvalter statstilskuddetbegrensninger tros- eller livssynssamfunnet har eller praktiserer når det gjelder tilgang til egne aktiviteter, styrende organer, verv eller stillinger som har sammenheng med ett eller flere diskrimineringsgrunnlagsegregerte aktiviteter eller tilbud i samfunnet.
+Tros- og livssynssamfunnene skal også redegjøre for
+
+1. den faktiske tilstanden når det gjelder kjønnslikestilling i tros- eller livssynssamfunnet, herunder kjønnsfordelingen i samfunnets styrende organer
+2. tiltak tros- eller livssynssamfunnet har iverksatt og planlegger iverksatt for å fremme kjønnslikestilling
+3. tiltak for å oppnå minst 40 prosent kvinner og 40 prosent menn i styrende organ som forvalter statstilskuddet
+4. begrensninger tros- eller livssynssamfunnet har eller praktiserer når det gjelder tilgang til egne aktiviteter, styrende organer, verv eller stillinger som har sammenheng med ett eller flere diskrimineringsgrunnlag
+5. segregerte aktiviteter eller tilbud i samfunnet.
 
 Årsrapporten skal sendes til statsforvalteren ved bruk av den særskilte digitale løsningen for tros- og livssynssamfunn. Departementet kan i særlige tilfeller tillate at rapporten sendes inn på annen måte.
 
@@ -202,7 +229,10 @@ Tros- og livssynssamfunnene skal også redegjøre forden faktiske tilstanden nå
 
 ### § 16. Plikt til å rapportere om særskilte forhold
 
-Statsforvalteren kan også kreve at tros- og livssynssamfunnene rapporterer om følgende forhold av betydning for grunnlaget for å nekte tilskudd:konkrete forhold som er relevante for å vurdere registrerings- eller tilskuddsvilkårene for et enkelt tros- eller livssynssamfunninformasjon fra samtlige samfunn eller en utvalgt gruppe av samfunn som kan gi departementet økt kunnskap som grunnlag for forebyggende tiltak mot forhold nevnt i [trossamfunnsloven § 6](lov/2020-04-24-31/§6) første ledd.
+Statsforvalteren kan også kreve at tros- og livssynssamfunnene rapporterer om følgende forhold av betydning for grunnlaget for å nekte tilskudd:
+
+1. konkrete forhold som er relevante for å vurdere registrerings- eller tilskuddsvilkårene for et enkelt tros- eller livssynssamfunn
+2. informasjon fra samtlige samfunn eller en utvalgt gruppe av samfunn som kan gi departementet økt kunnskap som grunnlag for forebyggende tiltak mot forhold nevnt i [trossamfunnsloven § 6](lov/2020-04-24-31/§6) første ledd.
 
 ## Kapittel 6. Forskjellige bestemmelser
 
@@ -224,7 +254,12 @@ Når den årlige kontrollen nevnt i [§ 3 andre ledd](forskrift/2020-12-18-2825/
 
 ### § 20. Ikrafttredelse
 
-Forskriften trer i kraft 1. januar 2021. Fra samme tidspunkt som forskriften trer i kraft, oppheves[forskrift 19. april 2005 nr. 345 om registrerte og uregistrerte trossamfunn](forskrift/2005-04-19-345)[forskrift 10. oktober 1969 nr. 4361 om ikraftsetting av lov 13. juni 1969 nr. 25 om trudomssamfunn og ymist anna, om delegasjon av myndighet, administrasjon av loven og kompetanse til å gi forskrifter](forskrift/1969-10-10-4361)[forskrift 1. desember 1988 nr. 996 om tilskot til livssynssamfunn](forskrift/1988-12-01-996)[forskrift 25. juni 1953 nr. 2 om innsending av kirkebøker til statsarkivene](forskrift/1953-06-25-2).
+Forskriften trer i kraft 1. januar 2021. Fra samme tidspunkt som forskriften trer i kraft, oppheves
+
+- [forskrift 19. april 2005 nr. 345 om registrerte og uregistrerte trossamfunn](forskrift/2005-04-19-345)
+- [forskrift 10. oktober 1969 nr. 4361 om ikraftsetting av lov 13. juni 1969 nr. 25 om trudomssamfunn og ymist anna, om delegasjon av myndighet, administrasjon av loven og kompetanse til å gi forskrifter](forskrift/1969-10-10-4361)
+- [forskrift 1. desember 1988 nr. 996 om tilskot til livssynssamfunn](forskrift/1988-12-01-996)
+- [forskrift 25. juni 1953 nr. 2 om innsending av kirkebøker til statsarkivene](forskrift/1953-06-25-2).
 
 ### § 21. Overgangsregler
 

@@ -15,7 +15,7 @@ xml_hash: "85997fad708d2b7d6c5eab52afa5363270648adfa823f38c4ee8eeab686b51f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,12 @@ Retter i bygdeallmenningene i kraft av særlig hjemmel går ikke inn under loven
 
 Med de unntak som er nevnt i denne paragraf og i [§ 6-8](lov/1992-06-19-59/§6-8), kan bygdeallmenningsgrunn ikke selges eller festes bort.
 
-Det kan selges eller festes bort parseller av bygdeallmenning til:Oppdyrking, herunder dyrking av kulturbeite.Formål som står i forbindelse med driften av allmenningen eller med virksomhet som allmenningen deltar i.Fremme av allmennyttige tiltak innen det bygdelag allmenningen tilligger.Tomter for oppføring av boliger og fritidshus. Som hovedregel kan slike tomter bare festes bort, og bare i særlige tilfelle selges.
+Det kan selges eller festes bort parseller av bygdeallmenning til:
+
+1. Oppdyrking, herunder dyrking av kulturbeite.
+2. Formål som står i forbindelse med driften av allmenningen eller med virksomhet som allmenningen deltar i.
+3. Fremme av allmennyttige tiltak innen det bygdelag allmenningen tilligger.
+4. Tomter for oppføring av boliger og fritidshus. Som hovedregel kan slike tomter bare festes bort, og bare i særlige tilfelle selges.
 
 Når det er truffet vedtak om ekspropriasjon av grunn fra en bygdeallmenning, kan salg foretas uavhengig av begrensningene i annet ledd, for så vidt avståelsen ikke i vesentlig grad medfører innskrenkninger i bruksrettene, eller det gis samtykke fra eierne av de eiendommer hvis tilliggende bruksrett vesentlig innskrenkes.
 
@@ -130,7 +135,13 @@ Ved eierskifte og ved andre begivenheter som medfører endringer med hensyn til 
 
 ### § 2-6. (bortfall av bruksrett)
 
-Bruksretten faller bort:Hvis jordbruksdriften på eiendommen blir lagt ned, ogjorden tas i bruk til annet formål, ellerblir liggende nede i et sammenhengende tidsrom av fem år.Hvis eiendommen ved frasalg, annen frivillig avståelse, ekspropriasjon eller omdisponering mister sin karakter av jordbruk etter [§ 2-1](lov/1992-06-19-59/§2-1) annet ledd.
+Bruksretten faller bort:
+
+1. Hvis jordbruksdriften på eiendommen blir lagt ned, og
+
+   1. jorden tas i bruk til annet formål, eller
+   2. blir liggende nede i et sammenhengende tidsrom av fem år.
+2. Hvis eiendommen ved frasalg, annen frivillig avståelse, ekspropriasjon eller omdisponering mister sin karakter av jordbruk etter [§ 2-1](lov/1992-06-19-59/§2-1) annet ledd.
 
 Gjenopptas jordbruksdriften på en eiendom hvor bruksretten er falt bort etter første ledd nr. 1, gjelder [§ 2-1](lov/1992-06-19-59/§2-1) tilsvarende for ny bruksrett.
 
@@ -208,9 +219,25 @@ Departementet kan overfor den enkelte bygdeallmenning fastsette en frist for nå
 
 Det skal fastsettes bruksregler om forvaltning og bruk av allmenningen. Bruksreglene må ikke stride mot loven her.
 
-Bruksreglene skal inneholde:Bestemmelse om antall medlemmer og varamedlemmer i allmenningsstyret, jfr. [§ 3-1](lov/1992-06-19-59/§3-1) annet ledd.Nærmere regler om beitebruk, jfr. [§ 6-3](lov/1992-06-19-59/§6-3).Nærmere regler om jakt og fangst, jfr. [§ 7-6](lov/1992-06-19-59/§7-6) første ledd, og om fiske som nevnt i [§ 8-7](lov/1992-06-19-59/§8-7) for såvidt allmenningen disponerer fiskerett.Bestemmelser om frister i forbindelse med utøvelse av virkesrett, og om hva søknader om tildeling av ytelser må inneholde.
+Bruksreglene skal inneholde:
 
-Bruksreglene kan dessuten inneholde:Bestemmelser om hvordan det skal forholdes med bygninger m.v. når bruksretten er falt bort eller en opptatt rett er falt bort, jfr. [§ 6-8](lov/1992-06-19-59/§6-8).Regler om prisavslag ved kjøp av trevirke (virkesrabatt) når det er innført fellesdrift for allmenningen, jfr. [§ 5-4](lov/1992-06-19-59/§5-4), og eventuelt om tilskudd ved bruk av trebesparende materialer i stedet for trevirke fra allmenningen.Nærmere vilkår for ytelser til gjenoppbygging og utbedring av bygninger etter brann m.v., jfr. [§ 5-8](lov/1992-06-19-59/§5-8) annet ledd.Nærmere bestemmelser om disponering av overskudd, jfr. [§ 3-12](lov/1992-06-19-59/§3-12).Nærmere regler om refusjon av allmenningsytelser, jfr. [§ 5-7](lov/1992-06-19-59/§5-7).Regler om motorisert ferdsel, jfr. [lov av 10. juni 1977 nr. 82](lov/1977-06-10-82) om motorferdsel i utmark og vassdrag [§ 10](lov/1977-06-10-82/§10).Bestemmelser om størrelse og standard på føderådsbygninger som det gis ytelser til oppføring og vedlikehold av, jfr. [§ 5-10](lov/1992-06-19-59/§5-10).Nærmere bestemmelser om avgifter, jfr. [§ 5-3](lov/1992-06-19-59/§5-3).Bestemmelser om at visse spørsmål skal avgjøres ved avstemning blant de eiendomsberettigede og bruksberettigede.Andre forhold som det anses hensiktsmessig å regulere ved bestemmelser i allmenningens bruksregler.
+1. Bestemmelse om antall medlemmer og varamedlemmer i allmenningsstyret, jfr. [§ 3-1](lov/1992-06-19-59/§3-1) annet ledd.
+2. Nærmere regler om beitebruk, jfr. [§ 6-3](lov/1992-06-19-59/§6-3).
+3. Nærmere regler om jakt og fangst, jfr. [§ 7-6](lov/1992-06-19-59/§7-6) første ledd, og om fiske som nevnt i [§ 8-7](lov/1992-06-19-59/§8-7) for såvidt allmenningen disponerer fiskerett.
+4. Bestemmelser om frister i forbindelse med utøvelse av virkesrett, og om hva søknader om tildeling av ytelser må inneholde.
+
+Bruksreglene kan dessuten inneholde:
+
+1. Bestemmelser om hvordan det skal forholdes med bygninger m.v. når bruksretten er falt bort eller en opptatt rett er falt bort, jfr. [§ 6-8](lov/1992-06-19-59/§6-8).
+2. Regler om prisavslag ved kjøp av trevirke (virkesrabatt) når det er innført fellesdrift for allmenningen, jfr. [§ 5-4](lov/1992-06-19-59/§5-4), og eventuelt om tilskudd ved bruk av trebesparende materialer i stedet for trevirke fra allmenningen.
+3. Nærmere vilkår for ytelser til gjenoppbygging og utbedring av bygninger etter brann m.v., jfr. [§ 5-8](lov/1992-06-19-59/§5-8) annet ledd.
+4. Nærmere bestemmelser om disponering av overskudd, jfr. [§ 3-12](lov/1992-06-19-59/§3-12).
+5. Nærmere regler om refusjon av allmenningsytelser, jfr. [§ 5-7](lov/1992-06-19-59/§5-7).
+6. Regler om motorisert ferdsel, jfr. [lov av 10. juni 1977 nr. 82](lov/1977-06-10-82) om motorferdsel i utmark og vassdrag [§ 10](lov/1977-06-10-82/§10).
+7. Bestemmelser om størrelse og standard på føderådsbygninger som det gis ytelser til oppføring og vedlikehold av, jfr. [§ 5-10](lov/1992-06-19-59/§5-10).
+8. Nærmere bestemmelser om avgifter, jfr. [§ 5-3](lov/1992-06-19-59/§5-3).
+9. Bestemmelser om at visse spørsmål skal avgjøres ved avstemning blant de eiendomsberettigede og bruksberettigede.
+10. Andre forhold som det anses hensiktsmessig å regulere ved bestemmelser i allmenningens bruksregler.
 
 ### § 3-8. (utarbeidelse og godkjennelse av bruksregler)
 
@@ -252,7 +279,15 @@ Departementet kan etter forslag fra årsmøtet godkjenne andre revisjonsordninge
 
 ### § 3-12. (disponering av overskudd)
 
-Allmenningskassens overskudd skal benyttes til beste for allmenningen og de eiendomsberettigede og bruksberettigede, etter allmenningsstyrets nærmere bestemmelse og etter følgende retningslinjer:Det avsettes først tilstrekkelig med midler til sikring og forbedring av allmenningen, med sikte på en best mulig utnyttelse av produksjonsmulighetene og dekning av de eiendomsberettigedes og bruksberettigedes fremtidige behov – herunder ved innkjøp av eiendom hvor dette kan være aktuelt.Det kan avsettes midler til igangsetting, opprettholdelse og eventuelt utvidelse av foredlingsvirksomhet og forretningsvirksomhet i tilknytning til allmenningens drift.Det kan avsettes midler til ulike tiltak knyttet til naturmiljø og friluftsliv.Det kan avsettes midler til rabatt- og bidragsordninger.Det kan avsettes midler til fond for spesielle formål.Det kan bevilges tilskudd til allmennyttige formål innen allmenningsbygdelaget.Det kan med departementets samtykke foretas utdeling av kontantutbytte.
+Allmenningskassens overskudd skal benyttes til beste for allmenningen og de eiendomsberettigede og bruksberettigede, etter allmenningsstyrets nærmere bestemmelse og etter følgende retningslinjer:
+
+1. Det avsettes først tilstrekkelig med midler til sikring og forbedring av allmenningen, med sikte på en best mulig utnyttelse av produksjonsmulighetene og dekning av de eiendomsberettigedes og bruksberettigedes fremtidige behov – herunder ved innkjøp av eiendom hvor dette kan være aktuelt.
+2. Det kan avsettes midler til igangsetting, opprettholdelse og eventuelt utvidelse av foredlingsvirksomhet og forretningsvirksomhet i tilknytning til allmenningens drift.
+3. Det kan avsettes midler til ulike tiltak knyttet til naturmiljø og friluftsliv.
+4. Det kan avsettes midler til rabatt- og bidragsordninger.
+5. Det kan avsettes midler til fond for spesielle formål.
+6. Det kan bevilges tilskudd til allmennyttige formål innen allmenningsbygdelaget.
+7. Det kan med departementets samtykke foretas utdeling av kontantutbytte.
 
 For øvrig kan overskuddet disponeres innenfor rammen av vanlig forretningsmessig drift.
 
@@ -268,7 +303,15 @@ For årsmøteforhandlingene og allmenningsstyrevalget skal det føres en protoko
 
 ### § 3-14. (årsmøtets saker og myndighet)
 
-Årsmøtet skal:Avgi uttalelse til allmenningsstyrets årsmelding og regnskap.Avgi uttalelse til en orientering fra allmenningsstyret om planer for kommende års virksomhet.Velge allmenningsstyre og valgkomité etter bestemmelsene i [kapittel 4](lov/1992-06-19-59/kap4).Fastsette godtgjørelse for medlemmene av allmenningsstyret.Oppnevne revisorer for neste årsregnskap, for så vidt det ikke er gitt slikt samtykke som nevnt i [§ 3-11](lov/1992-06-19-59/§3-11) annet ledd, og eventuelt fastsette godtgjørelse for revisjonen.Avgi uttalelse i saker som noen med møterett ved skriftlig henvendelse til allmenningsstyret senest en uke før årsmøtet holdes, har krevd behandlet.Avgi uttalelse i andre saker som fremlegges av allmenningsstyret med anmodning om uttalelse fra årsmøtet.
+Årsmøtet skal:
+
+1. Avgi uttalelse til allmenningsstyrets årsmelding og regnskap.
+2. Avgi uttalelse til en orientering fra allmenningsstyret om planer for kommende års virksomhet.
+3. Velge allmenningsstyre og valgkomité etter bestemmelsene i [kapittel 4](lov/1992-06-19-59/kap4).
+4. Fastsette godtgjørelse for medlemmene av allmenningsstyret.
+5. Oppnevne revisorer for neste årsregnskap, for så vidt det ikke er gitt slikt samtykke som nevnt i [§ 3-11](lov/1992-06-19-59/§3-11) annet ledd, og eventuelt fastsette godtgjørelse for revisjonen.
+6. Avgi uttalelse i saker som noen med møterett ved skriftlig henvendelse til allmenningsstyret senest en uke før årsmøtet holdes, har krevd behandlet.
+7. Avgi uttalelse i andre saker som fremlegges av allmenningsstyret med anmodning om uttalelse fra årsmøtet.
 
 Årsmøtet har ingen beslutningsmyndighet i andre saker enn valg av allmenningsstyre og valgkomité og fastsettelse av godtgjørelse til allmenningsstyrets medlemmer og eventuelt oppnevnelse og fastsettelse av godtgjørelse til revisorene. Uttalelser fra årsmøtet er veiledende og binder ikke allmenningsstyret.
 
@@ -288,7 +331,12 @@ Allmenningsstyre velges, med det unntak som fremgår av [§ 3-1](lov/1992-06-19-
 
 ### § 4-2. (stemmerettens innhold, stemmegivning og fullmakt til å avgi stemme)
 
-Det kan avgis to stemmer for hver eiendom bruksrett ligger til, enten slik at den som alene har stemmerett kan avgi to stemmer, eller slik at to som begge har stemmerett kan avgi hver sin stemme ved fremmøte. Følgende regler gjelder for utøvelse av stemmeretten:Ektefeller har begge stemmerett ved fremmøte. Det samme gjelder samboere hvor begge har undertegnet erklæring til allmenningsstyret om at begge skal stå i manntallet som stemmeberettigede.Eies den eiendom bruksretten ligger til i sameie mellom to personer, har hver én stemme ved fremmøte. Ellers kan stemmeretten utøves av én eller to av sameierne som fremlegger skriftlig fullmakt gitt i henhold til reglene i [lov av 18. juni 1965 nr. 6](lov/1965-06-18-6) om sameige [§§ 4](lov/1965-06-18-6/§4) til 7. For ektefeller som er sameiere gjelder nr. 1 ovenfor.For eiendom som eies av en fylkeskommune, en kommune, et selskap, et samvirkeforetak, en stiftelse, en forening, et bo eller lignende, utøves stemmeretten ved skriftlig fullmakt undertegnet av rette vedkommende.For eiendom som er forpaktet tilligger stemmeretten eieren, med mindre det overensstemmende med [§ 2-4](lov/1992-06-19-59/§2-4) er avtalt at bruksretten skal utøves av forpakteren, og det på valgdagen gjenstår minst to år av forpaktningstiden. Når stemmeretten tilligger forpakteren har også dennes ektefelle stemmerett i samsvar med nr. 1 ovenfor.
+Det kan avgis to stemmer for hver eiendom bruksrett ligger til, enten slik at den som alene har stemmerett kan avgi to stemmer, eller slik at to som begge har stemmerett kan avgi hver sin stemme ved fremmøte. Følgende regler gjelder for utøvelse av stemmeretten:
+
+1. Ektefeller har begge stemmerett ved fremmøte. Det samme gjelder samboere hvor begge har undertegnet erklæring til allmenningsstyret om at begge skal stå i manntallet som stemmeberettigede.
+2. Eies den eiendom bruksretten ligger til i sameie mellom to personer, har hver én stemme ved fremmøte. Ellers kan stemmeretten utøves av én eller to av sameierne som fremlegger skriftlig fullmakt gitt i henhold til reglene i [lov av 18. juni 1965 nr. 6](lov/1965-06-18-6) om sameige [§§ 4](lov/1965-06-18-6/§4) til 7. For ektefeller som er sameiere gjelder nr. 1 ovenfor.
+3. For eiendom som eies av en fylkeskommune, en kommune, et selskap, et samvirkeforetak, en stiftelse, en forening, et bo eller lignende, utøves stemmeretten ved skriftlig fullmakt undertegnet av rette vedkommende.
+4. For eiendom som er forpaktet tilligger stemmeretten eieren, med mindre det overensstemmende med [§ 2-4](lov/1992-06-19-59/§2-4) er avtalt at bruksretten skal utøves av forpakteren, og det på valgdagen gjenstår minst to år av forpaktningstiden. Når stemmeretten tilligger forpakteren har også dennes ektefelle stemmerett i samsvar med nr. 1 ovenfor.
 
 Stemmegivningen kan bare skje skriftlig på stemmesedler som utleveres under årsmøtet. Stemmegivning ved fullmakt kan bare skje i de tilfelle som er nevnt i første ledd nr. 2 og 3.
 
@@ -300,7 +348,12 @@ Ingen kan avgi mer enn to stemmer. I tilfelle hvor både vergen og person som ne
 
 ### § 4-3. (valgbarhet)
 
-Valgbare som medlemmer og varamedlemmer av allmenningsstyret er myndige personer som har stemmerett etter [§§ 4-1](lov/1992-06-19-59/§4-1) og [4-2](lov/1992-06-19-59/§4-2), eller som er sameiere i eiendom med tilliggende full bruksrett i allmenningen, med følgende begrensninger:Av flere personer som har stemmerett for en og samme eiendom, er bare én valgbar.En verge er ikke valgbar i egenskap av verge.En forpakter med forpaktningsavtale som utløper i perioden er ikke valgbar.Stemmeberettigede som er fast bosatte utenfor allmenningsbygdelaget er ikke valgbare.
+Valgbare som medlemmer og varamedlemmer av allmenningsstyret er myndige personer som har stemmerett etter [§§ 4-1](lov/1992-06-19-59/§4-1) og [4-2](lov/1992-06-19-59/§4-2), eller som er sameiere i eiendom med tilliggende full bruksrett i allmenningen, med følgende begrensninger:
+
+1. Av flere personer som har stemmerett for en og samme eiendom, er bare én valgbar.
+2. En verge er ikke valgbar i egenskap av verge.
+3. En forpakter med forpaktningsavtale som utløper i perioden er ikke valgbar.
+4. Stemmeberettigede som er fast bosatte utenfor allmenningsbygdelaget er ikke valgbare.
 
 ### § 4-4. (bortfall av valgbarhet i valgperioden, innkalling av varamedlem)
 
@@ -336,7 +389,12 @@ Klage over manntallet må fremsettes skriftlig overfor allmenningsstyret senest 
 
 ### § 4-10. (gjennomføring av valget)
 
-Valg av allmenningsstyre foregår på følgende måte:Det stemmes ved en og samme stemmeseddel på styremedlemmer og varamedlemmer i det antall som skal velges. Alle stemmesedler hvor minst én valgbar person står oppført, telles med.Stemmer på personer som ikke er valgbare, settes ut av betraktning ved valgoppgjøret. Er et navn ført opp flere ganger, regnes det som oppført bare én gang. Er det på en stemmeseddel oppført navn på flere valgbare personer enn det antall styremedlemmer og varamedlemmer som skal velges, anses de overskytende navn som står sist i rekkefølgen som ikke oppført.Ved valgoppgjøret telles samtlige stemmer. De som har fått flest stemmer er valgt til styremedlemmer. De som deretter har fått flest stemmer er valgt til varamedlemmer.I tilfelle av stemmelikhet avgjøres valget ved loddtrekning.
+Valg av allmenningsstyre foregår på følgende måte:
+
+1. Det stemmes ved en og samme stemmeseddel på styremedlemmer og varamedlemmer i det antall som skal velges. Alle stemmesedler hvor minst én valgbar person står oppført, telles med.
+2. Stemmer på personer som ikke er valgbare, settes ut av betraktning ved valgoppgjøret. Er et navn ført opp flere ganger, regnes det som oppført bare én gang. Er det på en stemmeseddel oppført navn på flere valgbare personer enn det antall styremedlemmer og varamedlemmer som skal velges, anses de overskytende navn som står sist i rekkefølgen som ikke oppført.
+3. Ved valgoppgjøret telles samtlige stemmer. De som har fått flest stemmer er valgt til styremedlemmer. De som deretter har fått flest stemmer er valgt til varamedlemmer.
+4. I tilfelle av stemmelikhet avgjøres valget ved loddtrekning.
 
 ### § 4-11. (protokollføring)
 
@@ -466,7 +524,11 @@ Utvist rett til seter faller bort hvis det ikke innen fem år etter utvisningen 
 
 ### § 6-7. (bortfall av opptatt seter)
 
-Rett til opptatt seter med setervoll og eventuelt tilliggende kulturbeite faller bort:Ved oppgivelse uten forbehold.Når setra i et sammenhengende tidsrom av 20 år ikke har vært i bruk til å dekke det jordbruksmessige behov til eiendom med tilliggende bruksrett – likevel slik at retten ikke i noe tilfelle anses bortfalt før fem år etter denne lovs ikrafttredelse.Når bruksretten for den eiendom seterretten tilligger faller bort etter [§ 2-6](lov/1992-06-19-59/§2-6).
+Rett til opptatt seter med setervoll og eventuelt tilliggende kulturbeite faller bort:
+
+1. Ved oppgivelse uten forbehold.
+2. Når setra i et sammenhengende tidsrom av 20 år ikke har vært i bruk til å dekke det jordbruksmessige behov til eiendom med tilliggende bruksrett – likevel slik at retten ikke i noe tilfelle anses bortfalt før fem år etter denne lovs ikrafttredelse.
+3. Når bruksretten for den eiendom seterretten tilligger faller bort etter [§ 2-6](lov/1992-06-19-59/§2-6).
 
 ### § 6-8. (rett til seterhus etter bortfall av opptatt seter)
 

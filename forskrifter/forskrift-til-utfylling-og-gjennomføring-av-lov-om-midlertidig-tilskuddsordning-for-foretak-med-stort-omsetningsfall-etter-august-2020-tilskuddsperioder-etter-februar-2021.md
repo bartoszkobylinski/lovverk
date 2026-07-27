@@ -15,7 +15,7 @@ xml_hash: "96aa08b9635ff6d92686f4014d6b8a89daf528f1f0ff5129113465c89460eb51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,26 @@ eu_basis: []
 
 ### § 1-1. Tilskuddsperioder, sammenligningsperioder og søknadsfrister
 
-(1) Tilskuddsperioder etter denne forskrift er1. mars til 30. april 20211. mai til 30. juni 20211. juli til 31. august 20211. september til 31.oktober 2021.
+(1) Tilskuddsperioder etter denne forskrift er
 
-(2) Sammenligningsperioder etter denne forskrift, jf. [§ 2-3](forskrift/2021-06-04-1792/§2-3), er1. mars til 30. april 20191. mai til 30. juni 20191. juli til 31. august 20191. september til 31.oktober 2019.
+1. 1\. mars til 30. april 2021
+2. 1\. mai til 30. juni 2021
+3. 1\. juli til 31. august 2021
+4. 1\. september til 31.oktober 2021.
 
-(3) Søknader om tilskudd skal for den enkelte tilskuddsperiode, jf. første ledd, sendes inn innenfor følgende tidsrom:9. juni til 15. oktober 202115. juli til 15. oktober 202115. september til 15. november 202115. november til 15. desember 2021.
+(2) Sammenligningsperioder etter denne forskrift, jf. [§ 2-3](forskrift/2021-06-04-1792/§2-3), er
+
+1. 1\. mars til 30. april 2019
+2. 1\. mai til 30. juni 2019
+3. 1\. juli til 31. august 2019
+4. 1\. september til 31.oktober 2019.
+
+(3) Søknader om tilskudd skal for den enkelte tilskuddsperiode, jf. første ledd, sendes inn innenfor følgende tidsrom:
+
+1. 9\. juni til 15. oktober 2021
+2. 15\. juli til 15. oktober 2021
+3. 15\. september til 15. november 2021
+4. 15\. november til 15. desember 2021.
 
 > Endret ved forskrift [25 juni 2021 nr. 2225](forskrift/2021-06-25-2225).
 
@@ -44,9 +59,18 @@ eu_basis: []
 
 ### § 1-3. Foretak som ikke er omfattet
 
-(1) Følgende foretak er ikke omfattet av den midlertidige tilskuddsordningen:Foretak som er finansskattepliktige etter [folketrygdloven § 23-2a](lov/1997-02-28-19/§23-2a)Foretak som er skattepliktige etter [petroleumsskatteloven § 5](lov/1975-06-13-35/§5)Foretak som utøver aktiviteter innenfor næringshovedgruppe 35.1 Produksjon, overføring og distribusjon av elektrisitet i Norsk standard for næringsgruppering (SN2007)For tilskuddsperioden mars–april 2021: Flyselskap med norsk driftstillatelse.
+(1) Følgende foretak er ikke omfattet av den midlertidige tilskuddsordningen:
 
-(2) Foretak som har vært overdrager eller overtaker i fisjon som er registrert gjennomført i Foretaksregisteret 1. mars 2020 eller senere, er ikke omfattet av tilskuddsordningen for noen av tilskuddsperiodene. Dette gjelder likevel ikke:hvis overtaker i fisjonen kun overtok en fisjonsfordring eller andre finansielle eiendeler fra overdrager.hvis både overdrager og overtaker i fisjonen inngår i en samlet konsernsøknad om tilskudd etter [§ 3-4](forskrift/2021-06-04-1792/§3-4) fjerde ledd.hvis eiersammensetningen er identisk i overdrager før fisjonen og på søknadstidspunktet og i overtaker på søknadstidspunktet. Overdrager og overtaker i fisjon kan i disse tilfellene søke om tilskudd samlet som om de var ett foretak, eventuelt sammen med andre konsernselskap, og skal i så fall følge reglene for samlet konsernsøknad, jf. [§ 3-4](forskrift/2021-06-04-1792/§3-4).
+1. Foretak som er finansskattepliktige etter [folketrygdloven § 23-2a](lov/1997-02-28-19/§23-2a)
+2. Foretak som er skattepliktige etter [petroleumsskatteloven § 5](lov/1975-06-13-35/§5)
+3. Foretak som utøver aktiviteter innenfor næringshovedgruppe 35.1 Produksjon, overføring og distribusjon av elektrisitet i Norsk standard for næringsgruppering (SN2007)
+4. For tilskuddsperioden mars–april 2021: Flyselskap med norsk driftstillatelse.
+
+(2) Foretak som har vært overdrager eller overtaker i fisjon som er registrert gjennomført i Foretaksregisteret 1. mars 2020 eller senere, er ikke omfattet av tilskuddsordningen for noen av tilskuddsperiodene. Dette gjelder likevel ikke:
+
+1. hvis overtaker i fisjonen kun overtok en fisjonsfordring eller andre finansielle eiendeler fra overdrager.
+2. hvis både overdrager og overtaker i fisjonen inngår i en samlet konsernsøknad om tilskudd etter [§ 3-4](forskrift/2021-06-04-1792/§3-4) fjerde ledd.
+3. hvis eiersammensetningen er identisk i overdrager før fisjonen og på søknadstidspunktet og i overtaker på søknadstidspunktet. Overdrager og overtaker i fisjon kan i disse tilfellene søke om tilskudd samlet som om de var ett foretak, eventuelt sammen med andre konsernselskap, og skal i så fall følge reglene for samlet konsernsøknad, jf. [§ 3-4](forskrift/2021-06-04-1792/§3-4).
 
 > Endret ved forskrift [25 juni 2021 nr. 2225](forskrift/2021-06-25-2225).
 
@@ -56,9 +80,17 @@ Foretak som er unntatt fra skatteplikt etter [skatteloven § 2-30](lov/1999-03-2
 
 ### § 1-5. Definisjon av små, mellomstore og store foretak
 
-(1) Med små foretak menes foretak der siste godkjente årsregnskap viser atgjennomsnittlig antall ansatte i regnskapsåret utgjør færre enn 50 årsverk, og samtidigsalgsinntekter ikke overstiger 10 millioner euro ellerbalansesum ikke overstiger 10 millioner euro.
+(1) Med små foretak menes foretak der siste godkjente årsregnskap viser at
 
-(2) Med mellomstore foretak menes foretak som ikke er små foretak og siste godkjente årsregnskap viser atgjennomsnittlig antall ansatte i regnskapsåret utgjør færre enn 250 årsverk, og samtidigsalgsinntekter ikke overstiger 50 millioner euro ellerbalansesum ikke overstiger 43 millioner euro.
+1. gjennomsnittlig antall ansatte i regnskapsåret utgjør færre enn 50 årsverk, og samtidig
+2. salgsinntekter ikke overstiger 10 millioner euro eller
+3. balansesum ikke overstiger 10 millioner euro.
+
+(2) Med mellomstore foretak menes foretak som ikke er små foretak og siste godkjente årsregnskap viser at
+
+1. gjennomsnittlig antall ansatte i regnskapsåret utgjør færre enn 250 årsverk, og samtidig
+2. salgsinntekter ikke overstiger 50 millioner euro eller
+3. balansesum ikke overstiger 43 millioner euro.
 
 (3) Med store foretak menes foretak som ikke er små eller mellomstore foretak.
 
@@ -120,13 +152,21 @@ Foretak skal ha de tillatelser, godkjenninger eller bevillinger som kreves for d
 
 (2) Tilsvarende gjelder for innehaver av enkeltpersonforetak og deltaker i ansvarlig selskap.
 
-(3) Støtte etter [§ 3-1](forskrift/2021-06-04-1792/§3-1) og [§ 3-6](forskrift/2021-06-04-1792/§3-6) gis ikke til foretak som var i økonomiske vanskeligheter før koronapandemien. Foretaket var i økonomiske vanskeligheter før koronapandemien etter denne paragrafen hvisforetaket er et mellomstort eller stort foretak og årsregnskapet for siste regnskapsår med balansedag før 1. mars 2020 viser at samlet egenkapital utgjør mindre enn halvparten av selskapskapital og overkurs.foretaket er et stort foretak og årsregnskapet for begge de to siste regnskapsårene med balansedag før 1. mars 2020 viser at samlet gjeld utgjør mer enn 7,5 ganger samlet egenkapital og at forholdet mellom EBITDA og netto rentekostnader er mindre enn 1.
+(3) Støtte etter [§ 3-1](forskrift/2021-06-04-1792/§3-1) og [§ 3-6](forskrift/2021-06-04-1792/§3-6) gis ikke til foretak som var i økonomiske vanskeligheter før koronapandemien. Foretaket var i økonomiske vanskeligheter før koronapandemien etter denne paragrafen hvis
+
+1. foretaket er et mellomstort eller stort foretak og årsregnskapet for siste regnskapsår med balansedag før 1. mars 2020 viser at samlet egenkapital utgjør mindre enn halvparten av selskapskapital og overkurs.
+2. foretaket er et stort foretak og årsregnskapet for begge de to siste regnskapsårene med balansedag før 1. mars 2020 viser at samlet gjeld utgjør mer enn 7,5 ganger samlet egenkapital og at forholdet mellom EBITDA og netto rentekostnader er mindre enn 1.
 
 > Endret ved forskrift [11 juni 2021 nr. 1907](forskrift/2021-06-11-1907).
 
 ### § 2-6. Ytterligere vilkår
 
-(1) Foretak som søker tilskudd, må oppfylle følgende vilkår:Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 skal være betalt.Skattemelding for formues- og inntektsskatt og dersom foretaket er regnskapspliktig, årsregnskap for 2019 må være levert av foretak som ble etablert i 2019 eller tidligere. Skattemelding for merverdiavgift etter [skatteforvaltningsloven § 8-3](lov/2016-05-27-14/§8-3) med leveringsfrist innen utløpet av tilskuddsperioden, må være levert. Skattemelding levert etter skjønnsfastsetting kan godtas når nytt skatteoppgjør bygger på skattemeldingen.Tilskuddsmottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.Person med ledende roller knyttet til foretaket kan ikke være ilagt konkurskarantene, jf. [konkursloven](lov/1984-06-08-58) kapittel XVIII.
+(1) Foretak som søker tilskudd, må oppfylle følgende vilkår:
+
+1. Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 skal være betalt.
+2. Skattemelding for formues- og inntektsskatt og dersom foretaket er regnskapspliktig, årsregnskap for 2019 må være levert av foretak som ble etablert i 2019 eller tidligere. Skattemelding for merverdiavgift etter [skatteforvaltningsloven § 8-3](lov/2016-05-27-14/§8-3) med leveringsfrist innen utløpet av tilskuddsperioden, må være levert. Skattemelding levert etter skjønnsfastsetting kan godtas når nytt skatteoppgjør bygger på skattemeldingen.
+3. Tilskuddsmottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.
+4. Person med ledende roller knyttet til foretaket kan ikke være ilagt konkurskarantene, jf. [konkursloven](lov/1984-06-08-58) kapittel XVIII.
 
 (2) Med person med ledende roller knyttet til foretaket menes daglig leder, styreleder, styremedlem, innehaver av enkeltpersonforetak, deltakere i ansvarlige selskap, hovedaksjonær eller den som kontrollerer selskapet indirekte selv eller gjennom nærstående som definert i [aksjeloven § 1-5](lov/1997-06-13-44/§1-5) første ledd, eller med annen særskilt tilknytning til virksomheten.
 
@@ -142,11 +182,25 @@ Tilskudd for perioden 1. juli til 31. august 2021 beregnes ved at foretakets fas
 
 Tilskudd for perioden 1. september til 31. oktober 2021 beregnes ved at foretakets faste, uunngåelige kostnader i tilskuddsperioden multipliseres med en justeringsfaktor og med omsetningsfallet i prosent fratrukket 40 prosentpoeng. Produktet utgjør beregnet tilskudd.
 
-(2) Justeringsfaktor er85/100 for tilskuddsperioden mars–april 2021, jf. [§ 1-1](forskrift/2021-06-04-1792/§1-1) bokstav a85/100 for tilskuddsperioden mai–juni 2021, jf. [§ 1-1](forskrift/2021-06-04-1792/§1-1) bokstav b85/70 for tilskuddsperioden juli–august 2021, jf. [§ 1-1](forskrift/2021-06-04-1792/§1-1) bokstav c85/70 for tilskuddsperioden september–oktober 2021, jf. [§ 1-1](forskrift/2021-06-04-1792/§1-1) bokstav d.
+(2) Justeringsfaktor er
 
-(3) Tilskudd gis kun til foretak eller konsern som har et beregnet underskudd i tilskuddsperioden etter [§ 3-9](forskrift/2021-06-04-1792/§3-9). Tilskuddet kan ikke overstige foretakets eller konsernets beregnede underskudd i tilskuddsperiodenmultiplisert med 0,9 for små foretakmultiplisert med 0,7 for mellomstore og store foretak.
+1. 85/100 for tilskuddsperioden mars–april 2021, jf. [§ 1-1](forskrift/2021-06-04-1792/§1-1) bokstav a
+2. 85/100 for tilskuddsperioden mai–juni 2021, jf. [§ 1-1](forskrift/2021-06-04-1792/§1-1) bokstav b
+3. 85/70 for tilskuddsperioden juli–august 2021, jf. [§ 1-1](forskrift/2021-06-04-1792/§1-1) bokstav c
+4. 85/70 for tilskuddsperioden september–oktober 2021, jf. [§ 1-1](forskrift/2021-06-04-1792/§1-1) bokstav d.
 
-(4) Tilskuddet begrenses av tidligere underskudd, og kan ikke overstige: X\*(Y+ORFS), derX er det prosentvise omsetningsfallet beregnet etter [§ 2-3](forskrift/2021-06-04-1792/§2-3),Y er summen av faste, uunngåelige kostnader, jf. [§ 3-2](forskrift/2021-06-04-1792/§3-2),ORFS er ordinært resultat før skattekostnad i siste regnskapsår som avsluttes før 1. mars 2020, der resultatet multipliseres med antall måneder i tilskuddsperioden og divideres med antall måneder som regnskapsåret omfatter.Dersom foretaket kan dokumentere at ordinært resultat før skattekostnad i januar og februar 2020 var høyere enn ORFS, kan dette erstatte ORFS.
+(3) Tilskudd gis kun til foretak eller konsern som har et beregnet underskudd i tilskuddsperioden etter [§ 3-9](forskrift/2021-06-04-1792/§3-9). Tilskuddet kan ikke overstige foretakets eller konsernets beregnede underskudd i tilskuddsperioden
+
+1. multiplisert med 0,9 for små foretak
+2. multiplisert med 0,7 for mellomstore og store foretak.
+
+(4) Tilskuddet begrenses av tidligere underskudd, og kan ikke overstige: X\*(Y+ORFS), der
+
+1. X er det prosentvise omsetningsfallet beregnet etter [§ 2-3](forskrift/2021-06-04-1792/§2-3),
+2. Y er summen av faste, uunngåelige kostnader, jf. [§ 3-2](forskrift/2021-06-04-1792/§3-2),
+3. ORFS er ordinært resultat før skattekostnad i siste regnskapsår som avsluttes før 1. mars 2020, der resultatet multipliseres med antall måneder i tilskuddsperioden og divideres med antall måneder som regnskapsåret omfatter.
+
+Dersom foretaket kan dokumentere at ordinært resultat før skattekostnad i januar og februar 2020 var høyere enn ORFS, kan dette erstatte ORFS.
 
 (5) Dersom tilskuddsmottaker får tildelt andre offentlige tilskudd og inntektssikring i forbindelse med koronapandemien av betydning for beregning av tilskuddet etter denne forskrift, jf. [§ 2-2](forskrift/2021-06-04-1792/§2-2) annet ledd, men dette først blir klart etter tildeling etter denne forskrift, og støtte etter denne forskrift ikke er hensyntatt under andre ordninger, skal tilskuddet korrigeres dersom det er nødvendig for å unngå overkompensasjon. Tilskuddsmyndigheten skal varsles uten opphold, jf. [§ 5-6](forskrift/2021-06-04-1792/§5-6), og overskytende beløp skal betales tilbake, jf. [§ 5-3](forskrift/2021-06-04-1792/§5-3) fjerde ledd.
 
@@ -156,7 +210,20 @@ Tilskudd for perioden 1. september til 31. oktober 2021 beregnes ved at foretake
 
 (1) Ved beregning av tilskudd skal faste, uunngåelige kostnader knyttet til foretakets virksomhet i tilskuddsperioden tas med. For virksomhet som skattlegges i Norge etter [skatteloven § 2-3](lov/1999-03-26-14/§2-3) første ledd bokstav b, tas kostnader knyttet til den skattepliktige virksomheten i Norge med.
 
-(2) Som faste uunngåelige kostnader regnes følgende kostnader, i den grad de kan henføres under de angitte postene i næringsoppgaven:post 6300 Leie av lokaler, men begrenset til kostnad for næringslokalerpost 6310 i Næringsoppgave 1, leasingleie av bilpost 6340 Lys og varmepost 6395 Renovasjon, vann, avløp, renhold, men bare i den grad kostnaden utgjør offentlige avgifter og gebyrerpost 6400 Leie maskiner, inventar, transportmidler o.l.post 6700 Fremmed tjeneste (regnskap, revisjonshonorar, rådgivning o.l.), men begrenset til kostnad for revisjon og regnskappost 6995 Elektronisk kommunikasjon, porto mv.post 7040 Forsikring og avgift på transportmidlerpost 7490 Kontingenter, men bare i den grad kostnaden er fradragsberettiget.post 7500 Forsikringspremie.Del av leiekostnad som gjelder tilleggstjenester i form av service, bemanning mv. tas ikke med.
+(2) Som faste uunngåelige kostnader regnes følgende kostnader, i den grad de kan henføres under de angitte postene i næringsoppgaven:
+
+- post 6300 Leie av lokaler, men begrenset til kostnad for næringslokaler
+- post 6310 i Næringsoppgave 1, leasingleie av bil
+- post 6340 Lys og varme
+- post 6395 Renovasjon, vann, avløp, renhold, men bare i den grad kostnaden utgjør offentlige avgifter og gebyrer
+- post 6400 Leie maskiner, inventar, transportmidler o.l.
+- post 6700 Fremmed tjeneste (regnskap, revisjonshonorar, rådgivning o.l.), men begrenset til kostnad for revisjon og regnskap
+- post 6995 Elektronisk kommunikasjon, porto mv.
+- post 7040 Forsikring og avgift på transportmidler
+- post 7490 Kontingenter, men bare i den grad kostnaden er fradragsberettiget.
+- post 7500 Forsikringspremie.
+
+Del av leiekostnad som gjelder tilleggstjenester i form av service, bemanning mv. tas ikke med.
 
 (3) Som fast, uunngåelig kostnad regnes også påløpte rentekostnader på gjeld til banker og kredittinstitusjoner og obligasjonslån, fratrukket renteinntekter på egne utlån, innskudd og obligasjoner. I tillegg kan rentekostnader til andre enn finansinstitusjoner medregnes for den del av rentekostnaden som har motstykke i like stor rentekostnad hos långiveren på gjeld fra banker og kredittinstitusjoner og obligasjonslån. Der netto rentekostnad blir negativ, regnes den som null. Valutatap- og gevinst skal ikke inngå i rentekostnader og -inntekter ved beregning av netto rentekostnad. For tilskuddsperioden kan bare rentekostnad opptil 1,5 prosent av lånebeløpet for det aktuelle lånet per den første dagen i tilskuddsperioden medregnes som fast, uunngåelig kostnad.
 
@@ -214,13 +281,21 @@ Beregnet tilskudd, jf. [§ 3-1](forskrift/2021-06-04-1792/§3-1), justert i sams
 
 ### § 3-6. Kompensasjon for tapt varelager
 
-(1) For tilskuddsperioden mars–april 2021, jf. [§ 1-1](forskrift/2021-06-04-1792/§1-1) bokstav a, kan kostnader til tapt varelager, med de begrensninger som følger av annet ledd, dekkes dersomvirksomheten av smittevernhensyn er pålagt full skjenkestopp eller å holde stengt i henhold til [covid-19-forskriften](forskrift/2020-03-27-470) eller tilsvarende kommunale forskrifter ogvarene er ferskvare som næringsmidler, andre bedervelige varer, blomster eller andre planter ogvarene var bestilt før pålegget om skjenkestopp eller å holde stengt ble gitt ogvarene utgår på dato, eller forringes slik at de ikke holder salgbar kvalitet, i den nedstengte perioden eller innen 14 dager etter perioden som man er pålagt skjenkestopp eller er pålagt stengt, opphører.
+(1) For tilskuddsperioden mars–april 2021, jf. [§ 1-1](forskrift/2021-06-04-1792/§1-1) bokstav a, kan kostnader til tapt varelager, med de begrensninger som følger av annet ledd, dekkes dersom
+
+1. virksomheten av smittevernhensyn er pålagt full skjenkestopp eller å holde stengt i henhold til [covid-19-forskriften](forskrift/2020-03-27-470) eller tilsvarende kommunale forskrifter og
+2. varene er ferskvare som næringsmidler, andre bedervelige varer, blomster eller andre planter og
+3. varene var bestilt før pålegget om skjenkestopp eller å holde stengt ble gitt og
+4. varene utgår på dato, eller forringes slik at de ikke holder salgbar kvalitet, i den nedstengte perioden eller innen 14 dager etter perioden som man er pålagt skjenkestopp eller er pålagt stengt, opphører.
 
 (2) Virksomheter som var pålagt full skjenkestopp, kan få kompensasjon for tap av alkoholholdige drikkevarer etter første ledd. Hvis søkeren stengte virksomheten på grunn av at skjenkestopp gjorde det ulønnsomt å holde åpent, kan også annet tapt varelager kompenseres etter første ledd.
 
 (3) Tapt varelager dekkes til anskaffelseskostnad, eksklusiv særavgifter. Merverdiavgift som er fradragsberettiget for foretaket i merverdiavgiftsoppgjøret, regnes ikke med i anskaffelseskostnaden. Anskaffelseskostnad reduseres med ev. erstatning for tapt varelager som virksomheten har fått utbetalt under forsikringsordning eller gjennom andre kilder.
 
-(4) Søker skal dokumentere anskaffelseskostnad og redegjøre for tapet. Det skal utarbeidesen skriftlig redegjørelse der det beskrives hvorfor tapet oppstod med henvisning til statlig eller kommunalt pålegg om skjenkestopp eller stenging, perioden med pålegg om skjenkestopp eller stenging, hvorfor det ikke var mulig å unngå tapet og hva som har skjedd med de tapte varene. Søker som stengte virksomheten på grunn av skjenkestopp og søker om kompensasjon for annet enn tap av alkoholholdige drikkevarer, jf. annet ledd, skal angi perioden virksomheten holdt stengt og redegjøre for hvorfor skjenkestoppen gjorde det ulønnsomt å holde åpent.en oppstilling over de enkelte varetypene som det søkes om kompensasjon for, med angivelse av antall eller mengde og anskaffelseskostnad, med henvisning til relevante bokføringsbilag.
+(4) Søker skal dokumentere anskaffelseskostnad og redegjøre for tapet. Det skal utarbeides
+
+1. en skriftlig redegjørelse der det beskrives hvorfor tapet oppstod med henvisning til statlig eller kommunalt pålegg om skjenkestopp eller stenging, perioden med pålegg om skjenkestopp eller stenging, hvorfor det ikke var mulig å unngå tapet og hva som har skjedd med de tapte varene. Søker som stengte virksomheten på grunn av skjenkestopp og søker om kompensasjon for annet enn tap av alkoholholdige drikkevarer, jf. annet ledd, skal angi perioden virksomheten holdt stengt og redegjøre for hvorfor skjenkestoppen gjorde det ulønnsomt å holde åpent.
+2. en oppstilling over de enkelte varetypene som det søkes om kompensasjon for, med angivelse av antall eller mengde og anskaffelseskostnad, med henvisning til relevante bokføringsbilag.
 
 (5) Dersom kompensasjon utbetales før ev. forsikringssum, jf. annet ledd, skal tilsynsmyndigheten varsles uten opphold, jf. [§ 5-6](forskrift/2021-06-04-1792/§5-6), og virksomheten skal betale tilbake tilsvarende del av kompensasjonen, jf. [§ 5-3](forskrift/2021-06-04-1792/§5-3) fjerde ledd.
 
@@ -240,7 +315,14 @@ Tilskudd etter [§ 3-5](forskrift/2021-06-04-1792/§3-5) og kompensasjon for tap
 
 (1) Med beregnet underskudd etter [§ 3-1](forskrift/2021-06-04-1792/§3-1) tredje ledd, menes kostnader som angitt i annet og tredje ledd i tilskuddsperioden fratrukket omsetningen etter [§ 2-2](forskrift/2021-06-04-1792/§2-2) i tilskuddsperioden og økonomisk kompensasjon som angitt i fjerde ledd. Hvis dette blir et negativt beløp, settes beregnet underskudd til null.
 
-(2) Følgende kostnader inngår i beregnet underskudd i tilskuddsperioden:Lønn og andre personalkostnaderVarekostnadEndring i beholdning av varer under tilvirkning og ferdig tilvirkede varerAvskrivning på varige driftsmidler og immaterielle eiendelerAnnen driftskostnadNetto rentekostnader etter [§ 3-2](forskrift/2021-06-04-1792/§3-2) tredje ledd, men slik at negativ netto rentekostnad også skal regnes med.
+(2) Følgende kostnader inngår i beregnet underskudd i tilskuddsperioden:
+
+1. Lønn og andre personalkostnader
+2. Varekostnad
+3. Endring i beholdning av varer under tilvirkning og ferdig tilvirkede varer
+4. Avskrivning på varige driftsmidler og immaterielle eiendeler
+5. Annen driftskostnad
+6. Netto rentekostnader etter [§ 3-2](forskrift/2021-06-04-1792/§3-2) tredje ledd, men slik at negativ netto rentekostnad også skal regnes med.
 
 (3) Kostnader som nevnt i annet ledd, skal reduseres med offentlig tilskudd, erstatningsutbetaling fra forsikring og annen dekning for disse kostnadene. Kostnadene etter annet ledd bokstav b skal likevel ikke reduseres med kompensasjon for tapt varelager etter [§ 3-6](forskrift/2021-06-04-1792/§3-6). Tilskuddsmyndigheten trekker kompensasjon for tapt varelager fra beregnet underskudd ved fastsetting av tilskuddet.
 
@@ -262,9 +344,28 @@ Tilskudd etter [§ 3-5](forskrift/2021-06-04-1792/§3-5) og kompensasjon for tap
 
 ### § 4-2. Innhenting av opplysninger fra offentlige myndigheter og private rettssubjekter
 
-(1) Det skal uten hinder av taushetsplikt gis opplysninger til tilskuddsmyndigheten som er nødvendig for fastsetting av tilskudd etter denne forskriften og kontrollen av dette, fra følgende offentlige myndigheter:folkeregistermyndigheten om opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningendeltakende myndigheter i a-krimsentrene, herunder opplysninger om tipsRegisterenheten i Brønnøysundtollmyndighetene, om opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningenSkatteetaten, herunder opplysninger som skattemyndighetene har eller mottar, og opplysninger som Skatteetaten som tilskuddsmyndighet etter [lov 17. april 2020 nr. 23 om midlertidig tilskuddsordning for foretak med stort omsetningsfall](lov/2020-04-17-23), har eller mottarArbeidstilsynet, herunder opplysninger om brudd på permitteringsreglerMattilsynet, herunder opplysninger om aktører med risiko for misbruk av tilskuddsordningenNav, herunder opplysninger fra Aa-registeret for informasjon knyttet til permitteringer, og opplysninger om aktører med risiko for misbruk av tilskuddsordningenFinanstilsynet, herunder opplysninger om autoriserte regnskapsførere og revisorer med merknader knyttet til bevillingen mv.andre offentlige myndigheter som gir tilskudd til foretak som følge av koronapandemienandre offentlige myndigheter dersom opplysningene har betydning for forvaltningen av tilskuddsordningen.
+(1) Det skal uten hinder av taushetsplikt gis opplysninger til tilskuddsmyndigheten som er nødvendig for fastsetting av tilskudd etter denne forskriften og kontrollen av dette, fra følgende offentlige myndigheter:
 
-(2) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende private rettssubjekter til tilskuddsmyndigheten:banker og finansforetak, herunder opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av tilskuddsordningen og andre opplysninger av betydning for forvaltningen av tilskuddsordningenforsikringsselskaper og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikringgjeldsregistre med konsesjon, herunder oppdatert gjeldsinformasjoninkassovirksomheter, herunder inkassoopplysningerkredittvurderingsbyråer, herunder opplysninger om betalingsanmerkninger og inkassosakertilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.
+1. folkeregistermyndigheten om opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningen
+2. deltakende myndigheter i a-krimsentrene, herunder opplysninger om tips
+3. Registerenheten i Brønnøysund
+4. tollmyndighetene, om opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningen
+5. Skatteetaten, herunder opplysninger som skattemyndighetene har eller mottar, og opplysninger som Skatteetaten som tilskuddsmyndighet etter [lov 17. april 2020 nr. 23 om midlertidig tilskuddsordning for foretak med stort omsetningsfall](lov/2020-04-17-23), har eller mottar
+6. Arbeidstilsynet, herunder opplysninger om brudd på permitteringsregler
+7. Mattilsynet, herunder opplysninger om aktører med risiko for misbruk av tilskuddsordningen
+8. Nav, herunder opplysninger fra Aa-registeret for informasjon knyttet til permitteringer, og opplysninger om aktører med risiko for misbruk av tilskuddsordningen
+9. Finanstilsynet, herunder opplysninger om autoriserte regnskapsførere og revisorer med merknader knyttet til bevillingen mv.
+10. andre offentlige myndigheter som gir tilskudd til foretak som følge av koronapandemien
+11. andre offentlige myndigheter dersom opplysningene har betydning for forvaltningen av tilskuddsordningen.
+
+(2) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende private rettssubjekter til tilskuddsmyndigheten:
+
+1. banker og finansforetak, herunder opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av tilskuddsordningen og andre opplysninger av betydning for forvaltningen av tilskuddsordningen
+2. forsikringsselskaper og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikring
+3. gjeldsregistre med konsesjon, herunder oppdatert gjeldsinformasjon
+4. inkassovirksomheter, herunder inkassoopplysninger
+5. kredittvurderingsbyråer, herunder opplysninger om betalingsanmerkninger og inkassosaker
+6. tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.
 
 (3) Opplysningene skal leveres i den formen og innen den fristen tilskuddsmyndigheten bestemmer.
 
@@ -272,13 +373,29 @@ Tilskudd etter [§ 3-5](forskrift/2021-06-04-1792/§3-5) og kompensasjon for tap
 
 (1) Søknad om tilskudd skal leveres elektronisk i den formen tilskuddsmyndigheten bestemmer. Søknadsfrister er angitt i [§ 1-1](forskrift/2021-06-04-1792/§1-1) tredje ledd.
 
-(2) Søker skal blant annet gi følgende opplysninger i søknadsskjemaet:omsetningstall for aktuell periode, jf. [§ 2-2](forskrift/2021-06-04-1792/§2-2) og [§ 2-3](forskrift/2021-06-04-1792/§2-3),om det er mottatt andre offentlige tilskudd og inntektssikring i forbindelse med koronapandemien bortsett fra tilskudd etter denne forskrift, tilskudd etter [forskrift 17. april 2020 nr. 820](forskrift/2020-04-17-820) [(forskrift til lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall)](forskrift/2020-04-17-820) og [forskrift 21. desember 2020 nr. 3085](forskrift/2020-12-21-3085) (forskrift til [lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020](lov/2020-12-18-156) for tilskuddsperioder til og med februar 2021),perioden det søkes for,faste, uunngåelige kostnader som nevnt i [§ 3-2](forskrift/2021-06-04-1792/§3-2),søkers bankkontonummer slik det fremgår i bankenes felles Konto- og adresseringsregister,om søker er skattepliktig til Norge.
+(2) Søker skal blant annet gi følgende opplysninger i søknadsskjemaet:
+
+1. omsetningstall for aktuell periode, jf. [§ 2-2](forskrift/2021-06-04-1792/§2-2) og [§ 2-3](forskrift/2021-06-04-1792/§2-3),
+2. om det er mottatt andre offentlige tilskudd og inntektssikring i forbindelse med koronapandemien bortsett fra tilskudd etter denne forskrift, tilskudd etter [forskrift 17. april 2020 nr. 820](forskrift/2020-04-17-820) [(forskrift til lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall)](forskrift/2020-04-17-820) og [forskrift 21. desember 2020 nr. 3085](forskrift/2020-12-21-3085) (forskrift til [lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020](lov/2020-12-18-156) for tilskuddsperioder til og med februar 2021),
+3. perioden det søkes for,
+4. faste, uunngåelige kostnader som nevnt i [§ 3-2](forskrift/2021-06-04-1792/§3-2),
+5. søkers bankkontonummer slik det fremgår i bankenes felles Konto- og adresseringsregister,
+6. om søker er skattepliktig til Norge.
 
 (3) Søker skal erklære at vedkommende har gjort seg kjent med regelverket og at foretaket faller inn under ordningen, herunder at omsetningsfallet hovedsakelig skyldes koronapandemien. Søker skal bekrefte at opplysningene er riktige, herunder at andre offentlige tilskudd og inntektssikring er tatt med i beregningen av omsetning, og at de kan dokumenteres, og at en er kjent med plikten til å varsle tilskuddsmyndighet dersom det i ettertid oppdages feil. Søker skal også bekrefte at vedkommende er kjent med at det kan bli ilagt straff eller overtredelsesgebyr dersom det er gitt uriktig eller ufullstendig opplysning, eller det unnlates å gi pliktig opplysning.
 
 ### § 4-4. Hvem som kan søke
 
-Personer i virksomheten registrert med nøkkelrolle i Enhetsregisteret kan signere og sende inn søknad. Med nøkkelrolle menes en av følgende roller:norsk representant eller kontaktperson for utenlandsk enhetstyrets lederkomplementarinnehaverdeltaker med fullt ansvardeltaker med delt ansvardaglig leder eller administrerende direktørbestyrende reder.
+Personer i virksomheten registrert med nøkkelrolle i Enhetsregisteret kan signere og sende inn søknad. Med nøkkelrolle menes en av følgende roller:
+
+1. norsk representant eller kontaktperson for utenlandsk enhet
+2. styrets leder
+3. komplementar
+4. innehaver
+5. deltaker med fullt ansvar
+6. deltaker med delt ansvar
+7. daglig leder eller administrerende direktør
+8. bestyrende reder.
 
 ### § 4-5. Bekreftelse fra revisor eller autorisert regnskapsfører, kostnadsdekning
 
@@ -344,7 +461,11 @@ Søker plikter uten opphold å varsle tilskuddsmyndigheten dersom det oppdages f
 
 ### § 6-1. Foretak på Svalbard som kommer inn under ordningen
 
-(1) Foretaket må være entenselskap som er skattemessig hjemmehørende på Svalbard,enkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbard, elleransvarlig selskap hvor deltakerne er skattemessig hjemmehørende på Svalbard.
+(1) Foretaket må være enten
+
+1. selskap som er skattemessig hjemmehørende på Svalbard,
+2. enkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbard, eller
+3. ansvarlig selskap hvor deltakerne er skattemessig hjemmehørende på Svalbard.
 
 (2) Foretaket må følge norske regler om bokføring, regnskap og revisjon. Ble foretaket etablert i 2019 eller tidligere, må dette også være gjort for regnskapsåret 2019.
 

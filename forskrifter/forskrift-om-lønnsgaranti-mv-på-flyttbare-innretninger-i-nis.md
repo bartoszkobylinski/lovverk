@@ -30,7 +30,11 @@ Denne forskrift gjelder arbeidstakere som ikke er omfattet av norske trygdeordni
 
 ## § 2. Rederiets plikt til å stille garanti for utestående arbeidsvederlag og dekning av hjemreise ved konkurs
 
-For hver flyttbare innretning registrert i norsk internasjonalt skipsregister skal rederiet stille en garanti for arbeidstakere som nevnt i [§ 1](forskrift/2005-02-18-146/§1), for utestående arbeidsvederlag som følge av at det åpnes konkurs i selskapet eller hos en person, som direkte eller indirekte, er ansvarlig for å betale vederlag for arbeidstakernes tjenester om bord på den flyttbare innretningen. Garantien skal omfatte:Arbeidstakers krav på tilgodehavende arbeidsvederlag etter lov eller avtale overfor arbeidsgiver ved dennes konkurs.Annet vederlag for arbeid i tjenesteforhold, så som ferie- og fritidsgodtgjøring, krav på dekning av hjemreiseutgifter hjemlet i lov eller avtale, krav på arbeidsgiver for pensjon og annet tapt vederlag for tjenesten om bord.Mulige renter samt kostnader ved å inndrive krav som nevnt under bokstav a og b.
+For hver flyttbare innretning registrert i norsk internasjonalt skipsregister skal rederiet stille en garanti for arbeidstakere som nevnt i [§ 1](forskrift/2005-02-18-146/§1), for utestående arbeidsvederlag som følge av at det åpnes konkurs i selskapet eller hos en person, som direkte eller indirekte, er ansvarlig for å betale vederlag for arbeidstakernes tjenester om bord på den flyttbare innretningen. Garantien skal omfatte:
+
+1. Arbeidstakers krav på tilgodehavende arbeidsvederlag etter lov eller avtale overfor arbeidsgiver ved dennes konkurs.
+2. Annet vederlag for arbeid i tjenesteforhold, så som ferie- og fritidsgodtgjøring, krav på dekning av hjemreiseutgifter hjemlet i lov eller avtale, krav på arbeidsgiver for pensjon og annet tapt vederlag for tjenesten om bord.
+3. Mulige renter samt kostnader ved å inndrive krav som nevnt under bokstav a og b.
 
 > Endret ved [forskrift 19 des 2017 nr. 2294](forskrift/2017-12-19-2294).
 
@@ -42,7 +46,10 @@ Krav om utestående arbeidsvederlag må være fremsatt for bostyrer innen den fr
 
 ## § 4. Beløpsgrenser for garantien
 
-Denne forskrifts krav til forsikring eller garanti ved konkurs anses oppfylt hvis en flyttbar innretning har en garanti på minst NOK 500 000. Det er adgang til å fravike dette etter følgende skala, under forutsetning av at berørte arbeidstaker- og arbeidsgiverorganisasjoner er enige om dette:samlet besetning fra 1 til 5 ansatte; NOK 250 000samlet besetning fra 6 til 10 ansatte; NOK 350 000.
+Denne forskrifts krav til forsikring eller garanti ved konkurs anses oppfylt hvis en flyttbar innretning har en garanti på minst NOK 500 000. Det er adgang til å fravike dette etter følgende skala, under forutsetning av at berørte arbeidstaker- og arbeidsgiverorganisasjoner er enige om dette:
+
+1. samlet besetning fra 1 til 5 ansatte; NOK 250 000
+2. samlet besetning fra 6 til 10 ansatte; NOK 350 000.
 
 For hjemreiseutgifter kan garantisten begrense sitt ansvar til NOK 15 000,- pr. besetningsmedlem innenfor ansvarsgrensene i første ledd.
 

@@ -15,7 +15,7 @@ xml_hash: "6fcee3b9efa5a39cf4e8bf30b558188d694ce5d34d5ebe673cc70d8cb4ee6441"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -134,7 +134,23 @@ Søkere kan søke om opptak på bakgrunn av realkompetanse. LDH avgjør hva som 
 
 ### § 4-1. Rangert opptak til masterstudier og videreutdanninger
 
-Ved rangert opptak rangeres søkere etter konkurransepoeng. Konkurransepoeng beregnes på bakgrunn av karakterer fra bachelorutdanning, tilleggsutdanning og relevant praksis utover minstekravet. Utregning av konkurransepoeng gjøres på følgende måte:Det regnes ut en vektet gjennomsnittskarakter for bachelorutdanning / tilsvarende utdanning som inngår i opptaksgrunnlaget for det aktuelle masterprogrammet.Omregningsskala:*Bokstavkarakter**Tallkarakter**Poeng*A1,0–2,15B2,2–2,54C2,6–2,73D2,8–3,02E3,1–4,01Emner med vurderingsuttrykket «Bestått» blir ikke inkludert i poengberegningen.For studier med tilleggspoeng for praksis, gis det 0,5 tilleggspoeng per halvår for relevant praksis etter avsluttet utdanning som utgjør søkerens opptaksgrunnlag, maksimalt 2 poeng. Det gis ikke tilleggspoeng for praksis som inngår i opptakskravet.For studier med tilleggspoeng for utdanning, gis det 0,5 tilleggspoeng per 30 studiepoeng for høyere utdanning tatt etter opptaksgrunnlaget, maksimalt 2 poeng.
+Ved rangert opptak rangeres søkere etter konkurransepoeng. Konkurransepoeng beregnes på bakgrunn av karakterer fra bachelorutdanning, tilleggsutdanning og relevant praksis utover minstekravet. Utregning av konkurransepoeng gjøres på følgende måte:
+
+1. Det regnes ut en vektet gjennomsnittskarakter for bachelorutdanning / tilsvarende utdanning som inngår i opptaksgrunnlaget for det aktuelle masterprogrammet.
+
+   Omregningsskala:
+
+   | *Bokstavkarakter* | *Tallkarakter* | *Poeng* |
+   | --- | --- | --- |
+   | A | 1,0–2,1 | 5 |
+   | B | 2,2–2,5 | 4 |
+   | C | 2,6–2,7 | 3 |
+   | D | 2,8–3,0 | 2 |
+   | E | 3,1–4,0 | 1 |
+
+   Emner med vurderingsuttrykket «Bestått» blir ikke inkludert i poengberegningen.
+2. For studier med tilleggspoeng for praksis, gis det 0,5 tilleggspoeng per halvår for relevant praksis etter avsluttet utdanning som utgjør søkerens opptaksgrunnlag, maksimalt 2 poeng. Det gis ikke tilleggspoeng for praksis som inngår i opptakskravet.
+3. For studier med tilleggspoeng for utdanning, gis det 0,5 tilleggspoeng per 30 studiepoeng for høyere utdanning tatt etter opptaksgrunnlaget, maksimalt 2 poeng.
 
 Søkere som er vurdert som kvalifiserte etter realkompetansevurdering, rangeres skjønnsmessig i forhold til øvrige søkere etter en helhetsvurdering av søkerens samlede kompetanse.
 

@@ -34,13 +34,24 @@ Innsamling, lagring og behandling av opplysninger i Reseptregisteret skjer elekt
 
 ### § 1-2. Definisjoner
 
-I forskriften forstås med:*pseudonyme helseopplysninger:* helseopplysninger der identitet er kryptert eller skjult på annet vis, men likevel individualisert slik at det lar seg gjøre å følge hver person uten at identiteten røpes; definisjonen i personvernforordningen artikkel 4 nr. 5 gjelder ikke bestemmelsene om pseudonyme opplysninger i denne forskriften;*kryptering:* omforming av opplysninger slik at de ikke kan leses eller rekonstrueres av uvedkommende;*dekryptering:* rekonstruksjon av krypterte opplysninger;*Reseptregisteret:* datasystem hvor det oppbevares pseudonymiserte og kvalitetskontrollerte opplysninger fra alle resepter og rekvisisjoner som er ekspedert på norske apotek;*tiltrodd pseudonymforvalter (TPF):* en uavhengig instans som tildeler og forvalter pseudonymer på oppdrag fra den dataansvarlige.
+I forskriften forstås med:
+
+1. *pseudonyme helseopplysninger:* helseopplysninger der identitet er kryptert eller skjult på annet vis, men likevel individualisert slik at det lar seg gjøre å følge hver person uten at identiteten røpes; definisjonen i personvernforordningen artikkel 4 nr. 5 gjelder ikke bestemmelsene om pseudonyme opplysninger i denne forskriften;
+2. *kryptering:* omforming av opplysninger slik at de ikke kan leses eller rekonstrueres av uvedkommende;
+3. *dekryptering:* rekonstruksjon av krypterte opplysninger;
+4. *Reseptregisteret:* datasystem hvor det oppbevares pseudonymiserte og kvalitetskontrollerte opplysninger fra alle resepter og rekvisisjoner som er ekspedert på norske apotek;
+5. *tiltrodd pseudonymforvalter (TPF):* en uavhengig instans som tildeler og forvalter pseudonymer på oppdrag fra den dataansvarlige.
 
 > Endret ved [forskrift 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018).
 
 ### § 1-3. Reseptregisterets formål
 
-Formålet med Reseptregisteret er å samle inn og behandle data om legemiddelbruk hos mennesker og dyr for å:kartlegge forbruket i landet og belyse endringer over tid,fremme og gi grunnlag for forskning og utredning for å kunne belyse positive og negative effekter av legemiddelbruk,gi myndighetene et statistisk grunnlag for kvalitetssikring av legemiddelbruk og overordnet tilsyn, styring og planlegging,gi legemiddelrekvirenter et grunnlag for internkontroll og kvalitetsforbedring.
+Formålet med Reseptregisteret er å samle inn og behandle data om legemiddelbruk hos mennesker og dyr for å:
+
+1. kartlegge forbruket i landet og belyse endringer over tid,
+2. fremme og gi grunnlag for forskning og utredning for å kunne belyse positive og negative effekter av legemiddelbruk,
+3. gi myndighetene et statistisk grunnlag for kvalitetssikring av legemiddelbruk og overordnet tilsyn, styring og planlegging,
+4. gi legemiddelrekvirenter et grunnlag for internkontroll og kvalitetsforbedring.
 
 ### § 1-4. Lovlig bruk av registeret
 
@@ -74,7 +85,17 @@ Registeret kan også, uten hinder av begrensningene i første ledd, inneholde op
 
 Opplysninger om pasient og rekvirent skal være pseudonymisert.
 
-Reseptregisteret kan, uten samtykke fra den registrerte, inneholde følgende opplysninger i den utstrekning det er aktuelt og nødvendig for å oppnå formålet med registeret:tildelt pseudonym for pasient og rekvirent,pasientopplysninger: pasientens kjønn, fødselsår og -måned, dødsår og -måned og bosted,rekvirentopplysninger: rekvirentens kjønn, fødselsår, profesjon og spesialitet,legemiddelopplysninger: preparat og pakningsstørrelse (varenummer både for rekvirert preparat og utlevert preparat ved generisk bytte), antall pakninger, utleveringsgruppe, ATC eller ATC vet kode og definert døgndose (DDD), refusjonsordning, refundert beløp og refusjonskode iht. refusjonslisten, jf. [forskrift 28. juni 2007 nr. 814](forskrift/2007-06-28-814) om stønad til dekning av utgifter til viktige legemidler mv. [§ 2](forskrift/2007-06-28-814/§2) og [forskrift 12. juni 2015 nr. 646](forskrift/2015-06-12-646) om helseforetaksfinansierte reseptlegemidler til bruk utenfor sykehus, pris (både for rekvirert preparat og utlevert preparat ved generisk bytte), dosering og diagnosekode eller refusjonskode,dyreslag ved ekspedisjon til dyr,apotekets konsesjonsnummer og kommune,leveranser til institusjon, helseenhetsregisternummer (HER) og kommune hvis mulig,leveranser til skip,utleveringsdato.
+Reseptregisteret kan, uten samtykke fra den registrerte, inneholde følgende opplysninger i den utstrekning det er aktuelt og nødvendig for å oppnå formålet med registeret:
+
+1. tildelt pseudonym for pasient og rekvirent,
+2. pasientopplysninger: pasientens kjønn, fødselsår og -måned, dødsår og -måned og bosted,
+3. rekvirentopplysninger: rekvirentens kjønn, fødselsår, profesjon og spesialitet,
+4. legemiddelopplysninger: preparat og pakningsstørrelse (varenummer både for rekvirert preparat og utlevert preparat ved generisk bytte), antall pakninger, utleveringsgruppe, ATC eller ATC vet kode og definert døgndose (DDD), refusjonsordning, refundert beløp og refusjonskode iht. refusjonslisten, jf. [forskrift 28. juni 2007 nr. 814](forskrift/2007-06-28-814) om stønad til dekning av utgifter til viktige legemidler mv. [§ 2](forskrift/2007-06-28-814/§2) og [forskrift 12. juni 2015 nr. 646](forskrift/2015-06-12-646) om helseforetaksfinansierte reseptlegemidler til bruk utenfor sykehus, pris (både for rekvirert preparat og utlevert preparat ved generisk bytte), dosering og diagnosekode eller refusjonskode,
+5. dyreslag ved ekspedisjon til dyr,
+6. apotekets konsesjonsnummer og kommune,
+7. leveranser til institusjon, helseenhetsregisternummer (HER) og kommune hvis mulig,
+8. leveranser til skip,
+9. utleveringsdato.
 
 > Endret ved [forskrifter 2 sep 2005 nr. 1010](forskrift/2005-09-02-1010) (i kraft 24 april 2006), [16 juni 2006 nr. 647](forskrift/2006-06-16-647) (i kraft 1 juli 2006), [28 juni 2007 nr. 817](forskrift/2007-06-28-817) (i kraft 1 mars 2008), [12 juni 2015 nr. 646](forskrift/2015-06-12-646) (i kraft 1 juli 2015), [8 des 2017 nr. 1955](forskrift/2017-12-08-1955).
 
@@ -174,7 +195,16 @@ Den dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å s
 
 Internkontrollen innebærer at den dataansvarlige skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, og har denne dokumentasjonen tilgjengelig for dem den måtte angå.
 
-Dokumentasjonen av internkontrollen skal minst inneholdeoversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre at kravene blir overholdt,rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det systemet virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Dokumentasjonen av internkontrollen skal minst inneholde
+
+1. oversikt over hvordan virksomheten er organisert,
+2. oversikt over ansvars- og myndighetsforhold,
+3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,
+4. rutiner virksomheten følger for å sikre at kravene blir overholdt,
+5. rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det systemet virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,
+8. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i annet ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette, dersom det anses påkrevet. Tilsynsmyndighetene kan dispensere fra hele eller deler av dette kapitlet når særlige forhold foreligger.
 
@@ -280,7 +310,15 @@ Forbudet er et meget vesentlig element i sikring av Reseptregisterets konfidensi
 
 ### Til § 4-3 Behandling av opplysninger
 
-Bestemmelsen pålegger den databehandlingsansvarlige og evt. databehandler å sørge for tilfredsstillende informasjonssikkerhet ved behandling av helseopplysninger. Dette omfatter blant annet et ansvar for at tilstrekkelig sikkerhetsfaglig kompetanse er tilgjengelig. I tillegg til ansvar for sikkerheten i egen organisasjon, må den databehandlingsansvarlige også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører. Begrepet informasjonssikkerhet omfatter blant annet:sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes,sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,sikring av tilgjengelighet, dvs. sørge for at tilstrekkelige og relevante opplysninger er til stede,sikring av kvalitet, dvs. sørge for at opplysningene er riktige.
+Bestemmelsen pålegger den databehandlingsansvarlige og evt. databehandler å sørge for tilfredsstillende informasjonssikkerhet ved behandling av helseopplysninger. Dette omfatter blant annet et ansvar for at tilstrekkelig sikkerhetsfaglig kompetanse er tilgjengelig. I tillegg til ansvar for sikkerheten i egen organisasjon, må den databehandlingsansvarlige også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører. Begrepet informasjonssikkerhet omfatter blant annet:
+
+sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes,
+
+sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,
+
+sikring av tilgjengelighet, dvs. sørge for at tilstrekkelige og relevante opplysninger er til stede,
+
+sikring av kvalitet, dvs. sørge for at opplysningene er riktige.
 
 Tilfredsstillende informasjonssikkerhet skal oppnås ved hjelp av planlagte og systematiske tiltak. Dette innebærer at anerkjente teknikker og standarder for kvalitetsstyring, internkontroll og informasjonssikkerhet skal legges til grunn ved sikkerhetsarbeidet. De tiltak som etableres, skal være både organisatoriske og tekniske. Sikkerhetstiltakene og selve informasjonssystemet skal kunne dokumenteres. Personopplysningsforskriften § 2-1 til § 2-16 gjelder også for Reseptregisteret.
 

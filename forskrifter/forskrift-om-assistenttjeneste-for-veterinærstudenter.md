@@ -30,7 +30,13 @@ Viderekomne veterinærstudenter fra Norges miljø- og biovitenskapelige universi
 
 ## § 2.
 
-Søknaden skal inneholde opplysninger om:søkerens navn, adresse og aldernasjonalitethvilket universitet eller høgskole søkeren studerer vedhvor langt søkeren er kommet i studienehvilken veterinærtjeneste søkeren ønsker å utføre (assistenttjeneste hos praktiserende veterinær, i veterinærlaboratorium eller i den offentlige kjøttkontroll) og i hvilket tidsrom.
+Søknaden skal inneholde opplysninger om:
+
+1. søkerens navn, adresse og alder
+2. nasjonalitet
+3. hvilket universitet eller høgskole søkeren studerer ved
+4. hvor langt søkeren er kommet i studiene
+5. hvilken veterinærtjeneste søkeren ønsker å utføre (assistenttjeneste hos praktiserende veterinær, i veterinærlaboratorium eller i den offentlige kjøttkontroll) og i hvilket tidsrom.
 
 Utenlandsk søker må dessuten gi opplysninger om sine kunnskaper i norsk språk.
 

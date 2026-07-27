@@ -28,7 +28,15 @@ Forskriften skal sikre en effektiv innbetaling og kontroll av bidrag til Energif
 
 ## § 2. Definisjoner
 
-I denne forskrift forstås med:*Omsetningskonsesjonær:* Enhet som har konsesjon meddelt etter [energiloven § 4-1](lov/1990-06-29-50/§4-1).*Husholdningsbruk:* Med husholdningsbruk menes bruk av elektrisk energi for:eneboliger, leiligheter, hybler og fritidsboliger, herunder hytter, setrer, koier o.l.fellesvaskeri, garasjer og andre fellesanlegg i eller for boliger mv. som nevnt i bokstav a og b.*Målepunkt-ID:* Entydig identifikasjon av et målepunkt basert på GS1-standarden Global Service Relation Number (GSRN).*Forvalter av Energifondet:* Den som til enhver tid er satt til å forvalte midlene fra Energifondet.
+I denne forskrift forstås med:
+
+1. *Omsetningskonsesjonær:* Enhet som har konsesjon meddelt etter [energiloven § 4-1](lov/1990-06-29-50/§4-1).
+2. *Husholdningsbruk:* Med husholdningsbruk menes bruk av elektrisk energi for:
+
+   1. eneboliger, leiligheter, hybler og fritidsboliger, herunder hytter, setrer, koier o.l.
+   2. fellesvaskeri, garasjer og andre fellesanlegg i eller for boliger mv. som nevnt i bokstav a og b.
+3. *Målepunkt-ID:* Entydig identifikasjon av et målepunkt basert på GS1-standarden Global Service Relation Number (GSRN).
+4. *Forvalter av Energifondet:* Den som til enhver tid er satt til å forvalte midlene fra Energifondet.
 
 > Endret ved [forskrift 4 juli 2012 nr. 713](forskrift/2012-07-04-713) (i kraft 1 jan 2013).
 

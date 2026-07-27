@@ -15,7 +15,7 @@ xml_hash: "c5ffe63c66c96e690eeb8306a5d147f6db230e6ab5a7d57e729f4c10d6b293c3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,10 @@ Loven gjelder bare i den utstrekning kompetanse som nevnt i første og annet led
 
 ### § 2. Definisjoner
 
-Med personer under vergemål menespersoner under 18 år,personer som har fylt 18 år, og som det er vedtatt vergemål for etter [kapittel 4](lov/2010-03-26-9/kap4).
+Med personer under vergemål menes
+
+1. personer under 18 år,
+2. personer som har fylt 18 år, og som det er vedtatt vergemål for etter [kapittel 4](lov/2010-03-26-9/kap4).
 
 Med personer som er satt under vergemål, menes personer som det er vedtatt vergemål for etter [kapittel 4](lov/2010-03-26-9/kap4).
 
@@ -300,7 +303,13 @@ Er den som er satt under vergemål, fratatt den rettslige handleevnen, skal verg
 
 ### § 34. Vergens habilitet
 
-En verge er inhabil til å handle for den som er under vergemål, når vergen eller noen som står vergen nær, har en interesse i saken som strider mot interessene til den som er under vergemål. Følgende personer skal alltid anses å stå vergen nær:vergens ektefelle eller samboer,vergens slektninger i rett oppstigende og rett nedstigende linje og søsken,slektninger i rett oppstigende og rett nedstigende linje og søsken til en person som nevnt i bokstav a,ektefelle til eller samboer med noen som er nevnt i bokstav b,person som vergen representerer.
+En verge er inhabil til å handle for den som er under vergemål, når vergen eller noen som står vergen nær, har en interesse i saken som strider mot interessene til den som er under vergemål. Følgende personer skal alltid anses å stå vergen nær:
+
+1. vergens ektefelle eller samboer,
+2. vergens slektninger i rett oppstigende og rett nedstigende linje og søsken,
+3. slektninger i rett oppstigende og rett nedstigende linje og søsken til en person som nevnt i bokstav a,
+4. ektefelle til eller samboer med noen som er nevnt i bokstav b,
+5. person som vergen representerer.
 
 Er vergen inhabil, skal det oppnevnes en midlertidig verge (setteverge) etter [§ 27](lov/2010-03-26-9/§27).
 
@@ -344,7 +353,18 @@ Er den som er satt under vergemål, innehaver av eller deltaker i en næringsvir
 
 ### § 39. Disposisjoner over fast eiendom, løsøre og livsforsikring mv. og utlån av midler til vergen
 
-Vergen skal ha statsforvalterens samtykke tilå erverve eller avhende fast eiendom eller rettighet som ligger til fast eiendom, samt å gjøre gjeldende eller gi avkall på odelsrett eller annen rettighet i fast eiendom,å pantsette fast eiendom eller påhefte den en servitutt,å forpakte eller leie bort fast eiendom, herunder bolig,å si opp leieavtale eller avtale om bortforpakting,å kreve sak etter [jordskiftelova](lov/2013-06-21-100),drift av fast eiendom,å begjære bruksendringstillatelse, deling mv. av fast eiendom,å erverve livsforsikring, livrente eller føderåd,å avhende løsøre hvor dette er av større verdi, er av usedvanlig karakter eller for øvrig kan sies å være av en spesiell interesse for den som er under vergemål, eller dennes nærmeste familie,å låne ut midler som tilhører den som er under vergemål, til vergen selv, eller til personer som står i et slikt forhold til vergen som nevnt i [§ 34](lov/2010-03-26-9/§34). Kongen kan i forskrift gi nærmere regler om vilkårene for slike lån.
+Vergen skal ha statsforvalterens samtykke til
+
+1. å erverve eller avhende fast eiendom eller rettighet som ligger til fast eiendom, samt å gjøre gjeldende eller gi avkall på odelsrett eller annen rettighet i fast eiendom,
+2. å pantsette fast eiendom eller påhefte den en servitutt,
+3. å forpakte eller leie bort fast eiendom, herunder bolig,
+4. å si opp leieavtale eller avtale om bortforpakting,
+5. å kreve sak etter [jordskiftelova](lov/2013-06-21-100),
+6. drift av fast eiendom,
+7. å begjære bruksendringstillatelse, deling mv. av fast eiendom,
+8. å erverve livsforsikring, livrente eller føderåd,
+9. å avhende løsøre hvor dette er av større verdi, er av usedvanlig karakter eller for øvrig kan sies å være av en spesiell interesse for den som er under vergemål, eller dennes nærmeste familie,
+10. å låne ut midler som tilhører den som er under vergemål, til vergen selv, eller til personer som står i et slikt forhold til vergen som nevnt i [§ 34](lov/2010-03-26-9/§34). Kongen kan i forskrift gi nærmere regler om vilkårene for slike lån.
 
 Det som er bestemt for fast eiendom i første ledd, gjelder tilsvarende for andel eller aksje i boligselskap så langt det passer.
 
@@ -508,7 +528,12 @@ Saken behandles av statsforvalteren i det vergemålsdistriktet der personen som 
 
 ### § 56. Rett til å begjære vergemål
 
-Statsforvalteren treffer vedtak om opprettelse eller endring av vergemål av eget tiltak eller etter begjæring frapersonen selv,personens ektefelle, samboer, foreldre, nærmeste livsarving eller søsken,vergen, hvis personen allerede er under vergemål,behandlende lege eller tilsynslege ved helseinstitusjon der personen er innlagt eller bor.
+Statsforvalteren treffer vedtak om opprettelse eller endring av vergemål av eget tiltak eller etter begjæring fra
+
+1. personen selv,
+2. personens ektefelle, samboer, foreldre, nærmeste livsarving eller søsken,
+3. vergen, hvis personen allerede er under vergemål,
+4. behandlende lege eller tilsynslege ved helseinstitusjon der personen er innlagt eller bor.
 
 Begjæring som nevnt i første ledd skal begrunnes.
 
@@ -528,11 +553,21 @@ Kongen kan i forskrift gi nærmere regler om meldeplikten.
 
 ### § 58. Forhåndsvarsel
 
-Straks saken er igangsatt, skal det sendes forhåndsvarsel etter [forvaltningsloven § 16](lov/1967-02-10/§16) til personen som saken om vergemål gjelder. Forhåndsvarsel kan unnlates dersompersonen ikke er i stand til å forstå hva saken gjelder,personen allerede på annen måte har fått kjennskap til at vedtak skal treffes, ellerforhåndsvarsel ikke er praktisk mulig.
+Straks saken er igangsatt, skal det sendes forhåndsvarsel etter [forvaltningsloven § 16](lov/1967-02-10/§16) til personen som saken om vergemål gjelder. Forhåndsvarsel kan unnlates dersom
+
+1. personen ikke er i stand til å forstå hva saken gjelder,
+2. personen allerede på annen måte har fått kjennskap til at vedtak skal treffes, eller
+3. forhåndsvarsel ikke er praktisk mulig.
 
 ### § 59. Grunnlaget for statsforvalterens avgjørelse
 
-Statsforvalteren skal påse at saken er så godt opplyst som mulig før vedtak treffes. Statsforvalteren skal blant annet legge til grunn for vedtaket:erklæring fra lege eller annen sakkyndig om hvorvidt personen på grunn av forhold som nevnt i [§ 20](lov/2010-03-26-9/§20) ikke er i stand til å ivareta sine interesser, og om personen forstår hva et samtykke til vergemål innebærer,uttalelse fra pårørende som har begjært vergemål, jf. [§ 56](lov/2010-03-26-9/§56),uttalelse fra institusjon eller tjeneste som har gitt melding etter [§ 57](lov/2010-03-26-9/§57), og fra institusjon der personen er innlagt,samtykkeerklæring der dette kreves, jf. [§ 20](lov/2010-03-26-9/§20),samtale mellom saksbehandler og personen som vergemålssaken gjelder, med mindre det anses som umulig. Samtalen kan på vegne av saksbehandleren foretas av en som kjenner personen.
+Statsforvalteren skal påse at saken er så godt opplyst som mulig før vedtak treffes. Statsforvalteren skal blant annet legge til grunn for vedtaket:
+
+1. erklæring fra lege eller annen sakkyndig om hvorvidt personen på grunn av forhold som nevnt i [§ 20](lov/2010-03-26-9/§20) ikke er i stand til å ivareta sine interesser, og om personen forstår hva et samtykke til vergemål innebærer,
+2. uttalelse fra pårørende som har begjært vergemål, jf. [§ 56](lov/2010-03-26-9/§56),
+3. uttalelse fra institusjon eller tjeneste som har gitt melding etter [§ 57](lov/2010-03-26-9/§57), og fra institusjon der personen er innlagt,
+4. samtykkeerklæring der dette kreves, jf. [§ 20](lov/2010-03-26-9/§20),
+5. samtale mellom saksbehandler og personen som vergemålssaken gjelder, med mindre det anses som umulig. Samtalen kan på vegne av saksbehandleren foretas av en som kjenner personen.
 
 Helsepersonell og ansatte i sosialtjenesten og barnevernstjenesten kan gi nødvendige og relevante opplysninger til statsforvalteren eller oppnevnt sakkyndig uten hinder av taushetsplikten.
 
@@ -690,7 +725,13 @@ Dersom personen ikke selv sørger for prosessfullmektig, skal retten av eget til
 
 ### § 77. Registrering av og varsel om dom om fratakelse av den rettslige handleevnen
 
-Dom om fratakelse av den rettslige handleevnen skal tinglyses eller registreres iLøsøreregisteret,grunnboka og andre lignende realregistre hvis personen eier fast eiendom eller andre registrerte eiendeler,Enhetsregisteret og Foretaksregisteret, hvis personen er innehaver av eller ansvarlig deltaker i et foretak som er innført der,Verdipapirsentralen,Folkeregisteret.
+Dom om fratakelse av den rettslige handleevnen skal tinglyses eller registreres i
+
+1. Løsøreregisteret,
+2. grunnboka og andre lignende realregistre hvis personen eier fast eiendom eller andre registrerte eiendeler,
+3. Enhetsregisteret og Foretaksregisteret, hvis personen er innehaver av eller ansvarlig deltaker i et foretak som er innført der,
+4. Verdipapirsentralen,
+5. Folkeregisteret.
 
 Den retten som har besluttet fratakelsen av den rettslige handleevnen, skal sørge for slik tinglysing eller registrering som nevnt i første ledd. Om retten opphever eller endrer avgjørelsen om fratakelse av den rettslige handleevnen, skal retten sørge for at endringen blir registrert.
 
@@ -748,7 +789,11 @@ Fullmektigen skal ta stilling til når fullmakten er i kraft. Fullmektigen skal 
 
 Fullmektigen kan be statsforvalteren om å stadfeste ikrafttredelsen av en fremtidsfullmakt. Stadfesting skal skje hvis fullmakten er opprettet i samsvar med [§ 81](lov/2010-03-26-9/§81) første ledd, og fullmaktsgiveren er i en tilstand som nevnt i [§ 78](lov/2010-03-26-9/§78).
 
-Stadfesting skal likevel ikke skje hvisdet er klart at fullmaktsgiveren ikke hadde fylt 18 år eller manglet evnen til å forstå disposisjonens betydning når fremtidsfullmakten ble opprettet, jf. [§ 79](lov/2010-03-26-9/§79) første ledd,det er klart at vitnene ikke oppfylte kravene i [§ 81](lov/2010-03-26-9/§81) annet ledd, ellerdet er grunn til å anta at fullmektigen ikke er egnet for oppdraget.
+Stadfesting skal likevel ikke skje hvis
+
+1. det er klart at fullmaktsgiveren ikke hadde fylt 18 år eller manglet evnen til å forstå disposisjonens betydning når fremtidsfullmakten ble opprettet, jf. [§ 79](lov/2010-03-26-9/§79) første ledd,
+2. det er klart at vitnene ikke oppfylte kravene i [§ 81](lov/2010-03-26-9/§81) annet ledd, eller
+3. det er grunn til å anta at fullmektigen ikke er egnet for oppdraget.
 
 Fullmektigen skal legge frem fremtidsfullmakten, bevis for at pårørende er varslet, jf. [§ 83](lov/2010-03-26-9/§83) annet ledd, og en legeerklæring om fullmaktsgiverens aktuelle helsetilstand. Slik legeerklæring kan fullmektigen innhente uten hinder av taushetsplikt. Statsforvalteren sørger for sakens opplysning ellers.
 
@@ -822,7 +867,14 @@ En verge kan innenfor sitt mandat kalle tilbake fullmakter som nevnt i første l
 
 Nærstående har etter reglene i denne paragrafen rett til å representere et familiemedlem som på grunn av sinnslidelse, herunder demens, eller alvorlig svekket helbred, ikke lenger er i stand til å ivareta sine økonomiske interesser. Den nærstående har rett til på familiemedlemmets vegne å foreta økonomiske disposisjoner som gjelder familiemedlemmets bolig og daglige underhold. Den nærstående har også rett til å sørge for betaling av offentlige skatter og avgifter og av forpliktelser som følger av gyldige låneavtaler familiemedlemmet har inngått. Den nærstående kan si opp betalingsoppdrag som nevnt i [§ 93](lov/2010-03-26-9/§93).
 
-Som nærstående regnes følgende personer som har fylt 18 år, og som ikke er under vergemål:ektefelle eller samboerbarnbarnebarnforeldre.En nærstående har bare representasjonsrett dersom samtlige medlemmer med høyere prioritet etter rekkefølgen som følger av første punktum, skriftlig har frasagt seg retten til å representere familiemedlemmet.
+Som nærstående regnes følgende personer som har fylt 18 år, og som ikke er under vergemål:
+
+1. ektefelle eller samboer
+2. barn
+3. barnebarn
+4. foreldre.
+
+En nærstående har bare representasjonsrett dersom samtlige medlemmer med høyere prioritet etter rekkefølgen som følger av første punktum, skriftlig har frasagt seg retten til å representere familiemedlemmet.
 
 Nærståendes representasjonsrett etter denne paragrafen gjelder ikke hvis det er oppnevnt verge for familiemedlemmet, og heller ikke i den utstrekning forholdet omfattes av en fremtidsfullmakt.
 
@@ -880,7 +932,11 @@ Statsforvalteren har myndighet etter [§ 86](lov/2010-03-26-9/§86) annet ledd, 
 
 Når det gjelder gyldighet, omfang, endring og opphør av en fremtidsfullmakt, anvendes loven i den staten hvor fullmaktsgiveren var bosatt når fremtidsfullmakten ble opprettet, om ikke fullmaktsgiveren skriftlig har bestemt at en annen stats lov som nevnt i annet ledd skal anvendes.
 
-Fullmaktsgiveren kan bestemme at anvendelig lov ikke skal være den lov som følger av første ledd, men i stedetloven i en stat der fullmaktsgiveren er statsborger,loven i en stat der fullmaktsgiveren tidligere har vært bosatt, ellerloven i en stat der fullmaktsgiveren har fast eiendom, så langt det gjelder denne eiendommen.
+Fullmaktsgiveren kan bestemme at anvendelig lov ikke skal være den lov som følger av første ledd, men i stedet
+
+1. loven i en stat der fullmaktsgiveren er statsborger,
+2. loven i en stat der fullmaktsgiveren tidligere har vært bosatt, eller
+3. loven i en stat der fullmaktsgiveren har fast eiendom, så langt det gjelder denne eiendommen.
 
 Henvisningene til annen stats lov omfatter ikke bestemmelser som hører til den internasjonale privatretten.
 

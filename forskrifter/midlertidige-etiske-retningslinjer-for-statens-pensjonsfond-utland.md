@@ -36,13 +36,31 @@ Disse retningslinjene gjelder for arbeidet i Etikkrådet for Statens pensjonsfon
 
 ### § 3. Produktbaserte kriterier
 
-(1) Selskaper skal identifiseres for mulig eierskapsutøvelse ut fra om selskapet selv eller gjennom enheter de kontrollerer:utvikler eller produserer våpen eller sentrale komponenter til våpen som ved normal anvendelse bryter med grunnleggende humanitære prinsipper, herunder biologiske våpen, kjemiske våpen, kjernevåpen, ikke-detektbare fragmenter, brannvåpen, blindende laservåpen, antipersonellminer og klaseammunisjonproduserer tobakk eller tobakksvarerproduserer cannabis til rusformål.
+(1) Selskaper skal identifiseres for mulig eierskapsutøvelse ut fra om selskapet selv eller gjennom enheter de kontrollerer:
 
-(2) Gruveselskaper og kraftprodusenter skal identifiseres for mulig eierskapsutøvelse ut fra om de selv eller konsolidert med enheter de kontrollerer enten:får 30 pst. eller mer av sine inntekter fra termisk kull,baserer 30 pst. eller mer av sin virksomhet på termisk kull,utvinner mer enn 20 millioner tonn termisk kull per år, ellerhar en kraftkapasitet på mer enn 10 000 MW fra termisk kull.
+1. utvikler eller produserer våpen eller sentrale komponenter til våpen som ved normal anvendelse bryter med grunnleggende humanitære prinsipper, herunder biologiske våpen, kjemiske våpen, kjernevåpen, ikke-detektbare fragmenter, brannvåpen, blindende laservåpen, antipersonellminer og klaseammunisjon
+2. produserer tobakk eller tobakksvarer
+3. produserer cannabis til rusformål.
+
+(2) Gruveselskaper og kraftprodusenter skal identifiseres for mulig eierskapsutøvelse ut fra om de selv eller konsolidert med enheter de kontrollerer enten:
+
+1. får 30 pst. eller mer av sine inntekter fra termisk kull,
+2. baserer 30 pst. eller mer av sin virksomhet på termisk kull,
+3. utvinner mer enn 20 millioner tonn termisk kull per år, eller
+4. har en kraftkapasitet på mer enn 10 000 MW fra termisk kull.
 
 ### § 4. Atferdsbaserte kriterier
 
-Selskaper skal identifiseres for mulig eierskapsutøvelse ut fra om det er en uakseptabel risiko for at selskapet medvirker til eller selv er ansvarlig for:grove eller systematiske krenkelser av menneskerettighetenealvorlige krenkelser av individers rettigheter i krig eller konfliktsituasjonersalg av våpen til stater i væpnede konflikter som benytter våpnene på måter som utgjør alvorlige og systematiske brudd på folkerettens regler for stridighetenesalg av våpen eller militært materiell til stater som er omfattet av ordningen for statsobligasjonsunntak omtalt i [mandatet for forvaltningen av Statens pensjonsfond utland § 2-1 andre ledd bokstav c](forskrift/2010-11-08-1414/§2-1/ledd/2/bokstav/c)alvorlig miljøskadehandlinger eller unnlatelser som på et aggregert selskapsnivå i uakseptabel grad fører til utslipp av klimagassergrov korrupsjon eller annen grov økonomisk kriminalitetandre særlig grove brudd på grunnleggende etiske normer.
+Selskaper skal identifiseres for mulig eierskapsutøvelse ut fra om det er en uakseptabel risiko for at selskapet medvirker til eller selv er ansvarlig for:
+
+1. grove eller systematiske krenkelser av menneskerettighetene
+2. alvorlige krenkelser av individers rettigheter i krig eller konfliktsituasjoner
+3. salg av våpen til stater i væpnede konflikter som benytter våpnene på måter som utgjør alvorlige og systematiske brudd på folkerettens regler for stridighetene
+4. salg av våpen eller militært materiell til stater som er omfattet av ordningen for statsobligasjonsunntak omtalt i [mandatet for forvaltningen av Statens pensjonsfond utland § 2-1 andre ledd bokstav c](forskrift/2010-11-08-1414/§2-1/ledd/2/bokstav/c)
+5. alvorlig miljøskade
+6. handlinger eller unnlatelser som på et aggregert selskapsnivå i uakseptabel grad fører til utslipp av klimagasser
+7. grov korrupsjon eller annen grov økonomisk kriminalitet
+8. andre særlig grove brudd på grunnleggende etiske normer.
 
 ## III. Organiseringen av arbeidet
 
@@ -100,7 +118,10 @@ Selskaper skal identifiseres for mulig eierskapsutøvelse ut fra om det er en ua
 
 (1) Det skal avholdes møter mellom departementet, banken og Etikkrådet minst én gang i året. Informasjonen som utveksles på møtene skal inngå som del av grunnlaget for rapporteringen om arbeidet med en ansvarlig forvaltningsvirksomhet i den årlige meldingen til Stortinget om forvaltningen av Statens pensjonsfond.
 
-(2) Det skal avholdes møter mellom departementet og Etikkrådet minst én gang i året. På møtene skal følgende behandles:virksomheten det siste åretandre saker departementet og Etikkrådet har meldt opp for behandling.
+(2) Det skal avholdes møter mellom departementet og Etikkrådet minst én gang i året. På møtene skal følgende behandles:
+
+1. virksomheten det siste året
+2. andre saker departementet og Etikkrådet har meldt opp for behandling.
 
 ## IV. Offentliggjøring
 

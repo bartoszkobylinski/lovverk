@@ -28,7 +28,16 @@ Forskriften regulerer tilsynsmyndighetens adgang til å kreve gebyr og sektoravg
 
 ## § 2. Gebyr
 
-Det kan kreves gebyr for utgifter ved forarbeid, gjennomføring, etterarbeid og reisevirksomhet for følgende oppgaver:revisjoner og verifikasjoner,kontroll av dokumentasjon,deltakelse i statusmøter med virksomheter,deltakelse som observatør på komitémøter i tillatelser som nevnt i [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet,oppfølging av inntrådte fare- og ulykkessituasjoner, herunder granskningdeltakelse i virksomhetenes beredskapsøvelser,møter med bistands- og koordineringsetater,administrasjon, herunder ledelse, regnskap og andre serviceytelser i den utstrekning det angår ovennevnte.
+Det kan kreves gebyr for utgifter ved forarbeid, gjennomføring, etterarbeid og reisevirksomhet for følgende oppgaver:
+
+1. revisjoner og verifikasjoner,
+2. kontroll av dokumentasjon,
+3. deltakelse i statusmøter med virksomheter,
+4. deltakelse som observatør på komitémøter i tillatelser som nevnt i [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet,
+5. oppfølging av inntrådte fare- og ulykkessituasjoner, herunder granskning
+6. deltakelse i virksomhetenes beredskapsøvelser,
+7. møter med bistands- og koordineringsetater,
+8. administrasjon, herunder ledelse, regnskap og andre serviceytelser i den utstrekning det angår ovennevnte.
 
 Det kan også kreves gebyr for saksforberedelse og behandling av søknader om samtykke, plan for utbygging og drift, plan for anlegg og drift, avslutningsplaner, samsvarsuttalelser og aktørvurderinger mv. innenfor forskriftens virkeområde, samt arbeid med etablering av avtaler med utenlandske myndigheter for å avgrense tilsynsansvar i forhold til konkrete felt og virksomheter.
 
@@ -40,11 +49,22 @@ Dersom det benyttes andre offentlige eller private juridiske eller fysiske perso
 
 ## § 4. Sektoravgift
 
-Det kan kreves sektoravgift for utgifter ved andre oppfølgingsoppgaver rettet mot petroleumsnæringen. Sektoravgift kan kreves for følgende aktiviteter:etablering av helhetlig risikobilde,forberedelse og tilrettelegging av tilsynskampanjer,kunnskapsutvikling knyttet til sikkerhetsmessige utfordringer,kunnskapsinnhenting fra ulykker og hendelser utenfor tilsynets myndighetsområde,erfaringsoverføring og veiledning,døgnkontinuerlig beredskapsvakt,administrasjon, herunder ledelse, regnskap og andre serviceytelser i den utstrekning det angår ovennevnte.
+Det kan kreves sektoravgift for utgifter ved andre oppfølgingsoppgaver rettet mot petroleumsnæringen. Sektoravgift kan kreves for følgende aktiviteter:
+
+1. etablering av helhetlig risikobilde,
+2. forberedelse og tilrettelegging av tilsynskampanjer,
+3. kunnskapsutvikling knyttet til sikkerhetsmessige utfordringer,
+4. kunnskapsinnhenting fra ulykker og hendelser utenfor tilsynets myndighetsområde,
+5. erfaringsoverføring og veiledning,
+6. døgnkontinuerlig beredskapsvakt,
+7. administrasjon, herunder ledelse, regnskap og andre serviceytelser i den utstrekning det angår ovennevnte.
 
 ## § 5. Krav om sektoravgift
 
-Sektoravgift kan kreves fra:rettighetshaverne ved operatøreneierne av landanlegg ved operatøren.
+Sektoravgift kan kreves fra:
+
+1. rettighetshaverne ved operatøren
+2. eierne av landanlegg ved operatøren.
 
 ## § 6. Beregningsgrunnlaget for sektoravgift
 

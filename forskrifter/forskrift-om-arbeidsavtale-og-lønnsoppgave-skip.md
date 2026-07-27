@@ -28,7 +28,32 @@ Med de unntak som følger av denne forskriften og [forskrift om skipsarbeidslove
 
 ## § 2. Arbeidsavtalens innhold mv.
 
-Arbeidsavtalen skal inneholde opplysninger omarbeidstakerens fulle navn, bosted, nasjonalitet, fødested og fødselsnummer eller, dersom arbeidstakeren ikke har fødselsnummer, fødselsår og datoarbeidsgiverens navn og adressefartøyets navn når det gjelder tjeneste på ett fartøyarbeidstakerens stillingdet som måtte være avtalt eller lovfestet omansettelse med rett og plikt til å tjenestegjøre på flere fartøyansettelse for et bestemt tidsromansettelse for en bestemt reisearbeid av forbigående varighetvarighet av og vilkår for eventuell prøvetidfremgangsmåte ved opphør av arbeidsforholdet, herunder formkrav og oppsigelsesfristereventuell tidligste oppsigelsesdatoeventuelt sted for fratredelse ved arbeidsforholdets opphør,tariffavtale som vil komme til anvendelse på arbeidsforholdet, angitt ved tittel eller navn på partene. Dersom det er avtalt vilkår som er gunstigere for arbeidstakeren enn det som følger av tariffavtalen, skal vilkårene fremgå av arbeidsavtalen. Dersom slik tariffavtale ikke foreligger, skal arbeidsavtalen inneholde opplysninger om de ulike komponentene som utgjør avtalt løpende tidslønn eller annet arbeidsvederlag, betaling per time for arbeid utover avtalt arbeidstid, utbetalingsmåte og tidspunkt for utbetaling av avtalt lønn eller annet arbeidsvederlag, samt eventuelle tillegg og andre godtgjørelser som kommer i tillegg til dettearbeidsforholdets oppstartsdato og datoen lønnen eller arbeidsvederlaget skal løpe fra, samt hvor lang tid reisen forutsettes å ta hvis lønnen eller arbeidsvederlaget er fastsatt for en bestemt reiseomfanget av årlig ferie med lønn eller eventuelt formelen som er benyttet for å beregne densykepenger og trygdeytelser som arbeidsgiveren skal sørge for at arbeidstakeren er dekket avarbeidstakerens rett til hjemreiserett til kompetanseutvikling som arbeidsgiveren eventuelt tilbyrvarigheten av arbeidstakerens rett til annet fravær enn ferie som helt eller delvis skal betales av arbeidsgiver, eller reglene for tildeling og fastsettelse av slikt fravær dersom varigheten ikke kan fastsettes ved inngåelse av arbeidsavtalenlengden på den normale arbeidsdagen eller -uken, samt eventuelle ordninger for arbeid utover avtalt arbeidstid og vaktendringer, dersom arbeidsmønsteret er helt eller overveiende forutsigbarteventuelt andre arbeidsvilkårsted og dato for inngåelse av arbeidsavtalen.
+Arbeidsavtalen skal inneholde opplysninger om
+
+1. arbeidstakerens fulle navn, bosted, nasjonalitet, fødested og fødselsnummer eller, dersom arbeidstakeren ikke har fødselsnummer, fødselsår og dato
+2. arbeidsgiverens navn og adresse
+3. fartøyets navn når det gjelder tjeneste på ett fartøy
+4. arbeidstakerens stilling
+5. det som måtte være avtalt eller lovfestet om
+
+   1. ansettelse med rett og plikt til å tjenestegjøre på flere fartøy
+   2. ansettelse for et bestemt tidsrom
+   3. ansettelse for en bestemt reise
+   4. arbeid av forbigående varighet
+   5. varighet av og vilkår for eventuell prøvetid
+   6. fremgangsmåte ved opphør av arbeidsforholdet, herunder formkrav og oppsigelsesfrister
+   7. eventuell tidligste oppsigelsesdato
+   8. eventuelt sted for fratredelse ved arbeidsforholdets opphør,
+6. tariffavtale som vil komme til anvendelse på arbeidsforholdet, angitt ved tittel eller navn på partene. Dersom det er avtalt vilkår som er gunstigere for arbeidstakeren enn det som følger av tariffavtalen, skal vilkårene fremgå av arbeidsavtalen. Dersom slik tariffavtale ikke foreligger, skal arbeidsavtalen inneholde opplysninger om de ulike komponentene som utgjør avtalt løpende tidslønn eller annet arbeidsvederlag, betaling per time for arbeid utover avtalt arbeidstid, utbetalingsmåte og tidspunkt for utbetaling av avtalt lønn eller annet arbeidsvederlag, samt eventuelle tillegg og andre godtgjørelser som kommer i tillegg til dette
+7. arbeidsforholdets oppstartsdato og datoen lønnen eller arbeidsvederlaget skal løpe fra, samt hvor lang tid reisen forutsettes å ta hvis lønnen eller arbeidsvederlaget er fastsatt for en bestemt reise
+8. omfanget av årlig ferie med lønn eller eventuelt formelen som er benyttet for å beregne den
+9. sykepenger og trygdeytelser som arbeidsgiveren skal sørge for at arbeidstakeren er dekket av
+10. arbeidstakerens rett til hjemreise
+11. rett til kompetanseutvikling som arbeidsgiveren eventuelt tilbyr
+12. varigheten av arbeidstakerens rett til annet fravær enn ferie som helt eller delvis skal betales av arbeidsgiver, eller reglene for tildeling og fastsettelse av slikt fravær dersom varigheten ikke kan fastsettes ved inngåelse av arbeidsavtalen
+13. lengden på den normale arbeidsdagen eller -uken, samt eventuelle ordninger for arbeid utover avtalt arbeidstid og vaktendringer, dersom arbeidsmønsteret er helt eller overveiende forutsigbart
+14. eventuelt andre arbeidsvilkår
+15. sted og dato for inngåelse av arbeidsavtalen.
 
 Opplysninger som nevnt i første ledd bokstav e punkt v og vi og bokstav f, h, i, j, k, l, m og n kan gis i arbeidsavtalen ved å vise til relevante lover, forskrifter eller relevant tariffavtale som regulerer disse forholdene, angitt ved tittel eller ved navn på partene i tariffavtalen.
 
@@ -54,7 +79,12 @@ Bestemmelsen her gjelder ikke for arbeidstakere på fiske- og fangstfartøy og s
 
 Arbeidstakeren kan kreve kontant utbetaling av lønn dersom det foreligger et særskilt behov for det.
 
-Hvis arbeidstakeren blir tatt til fange som følge av piratvirksomhet eller væpnet ran mot skip, gjelder følgende:Lønn skal fortsatt utbetales til arbeidstakeren under fangenskapet. Det samme gjelder utbetalinger til utpekte personer i samsvar med [skipsarbeidsloven § 4-2](lov/2013-06-21-102/§4-2) tredje ledd.Når arbeidsavtalen ikke opphører ved løslatelse fra fangenskapet, skal lønn fortsatt utbetales inntil arbeidsforholdet eventuelt bringes til opphør etter hjemreisen. Hvis arbeidsavtalen har en utløpsdato som er passert under fangenskapet eller før hjemreise, skal lønn utbetales frem til arbeidstakeren har fått hjemreise.Dør arbeidstakeren i fangenskapet, skal lønn utbetales frem til arbeidstakerens dødsdato.Arbeidstakeren har etter løslatelsen rett til fri hjemreise med underhold til bosted.
+Hvis arbeidstakeren blir tatt til fange som følge av piratvirksomhet eller væpnet ran mot skip, gjelder følgende:
+
+1. Lønn skal fortsatt utbetales til arbeidstakeren under fangenskapet. Det samme gjelder utbetalinger til utpekte personer i samsvar med [skipsarbeidsloven § 4-2](lov/2013-06-21-102/§4-2) tredje ledd.
+2. Når arbeidsavtalen ikke opphører ved løslatelse fra fangenskapet, skal lønn fortsatt utbetales inntil arbeidsforholdet eventuelt bringes til opphør etter hjemreisen. Hvis arbeidsavtalen har en utløpsdato som er passert under fangenskapet eller før hjemreise, skal lønn utbetales frem til arbeidstakeren har fått hjemreise.
+3. Dør arbeidstakeren i fangenskapet, skal lønn utbetales frem til arbeidstakerens dødsdato.
+4. Arbeidstakeren har etter løslatelsen rett til fri hjemreise med underhold til bosted.
 
 > Endret ved forskrift [16 des 2020 nr. 2908](forskrift/2020-12-16-2908).
 

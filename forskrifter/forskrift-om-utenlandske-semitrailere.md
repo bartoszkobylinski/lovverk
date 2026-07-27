@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Forskriftens virkeområde.
 
-Disse forskrifter gjelder for semitrailere som oppfyller alle vilkårene (a-c) nedenfor, dvs.:er uregistrert og er i belgisk, britisk eller nederlandsk eie,ikke er registreringspliktig i sitt hjemland, men er registreringspliktig etter norsk lovgivning,brukes midlertidig og gjenutføres fra riket i samsvar med toll og avgiftsmyndighetenes regler og vilkår for internasjonal trafikk,er konstruert for hastighet over 30 km i timen, oghar større tillatt totalvekt enn 750 kg (1.650 eng. pund).
+Disse forskrifter gjelder for semitrailere som oppfyller alle vilkårene (a-c) nedenfor, dvs.:
+
+1. er uregistrert og er i belgisk, britisk eller nederlandsk eie,
+2. ikke er registreringspliktig i sitt hjemland, men er registreringspliktig etter norsk lovgivning,
+3. brukes midlertidig og gjenutføres fra riket i samsvar med toll og avgiftsmyndighetenes regler og vilkår for internasjonal trafikk,
+4. er konstruert for hastighet over 30 km i timen, og
+5. har større tillatt totalvekt enn 750 kg (1.650 eng. pund).
 
 Statens vegvesen kan i tvilstilfeller avgjøre om et kjøretøy skal anses som semitrailer etter første ledd. Vegdirektoratet avgjør om annen tilhenger skal likestilles med semitrailer etter disse forskrifter.
 
@@ -56,9 +62,17 @@ Vogntogets bremseanlegg skal være i stand til å kontrollere og stanse både tr
 
 ## § 6. Lysutstyr o.l.
 
-Under bruk skal semitrailer bak være utstyrt med:et like antall røde baklys som er i funksjon samtidig med hvert av de følgende: trekkvognens parkerings-, nær- eller fjernlys,minst to røde trekantede refleksanordninger anbrakt symmetrisk på hver side av semitraileren,to røde stoppsignallys med vesentlig høyere lysstyrke enn baklysene og som lyser når trekkvognens hovedbremser brukes, ogminst et retningssignallys på hver side.
+Under bruk skal semitrailer bak være utstyrt med:
 
-Foran på semitrailer skal det være anbrakt:to hvite refleksanordninger som ikke har trekantet form, samtto hvite markeringslys plassert så nær semitrailers ytterste kant som mulig.
+1. et like antall røde baklys som er i funksjon samtidig med hvert av de følgende: trekkvognens parkerings-, nær- eller fjernlys,
+2. minst to røde trekantede refleksanordninger anbrakt symmetrisk på hver side av semitraileren,
+3. to røde stoppsignallys med vesentlig høyere lysstyrke enn baklysene og som lyser når trekkvognens hovedbremser brukes, og
+4. minst et retningssignallys på hver side.
+
+Foran på semitrailer skal det være anbrakt:
+
+1. to hvite refleksanordninger som ikke har trekantet form, samt
+2. to hvite markeringslys plassert så nær semitrailers ytterste kant som mulig.
 
 Lys som har samme funksjon og lyser i samme retning, skal ha samme farge. Lys og refleksanordninger i like antall skal plasseres symmetrisk i forhold til kjøretøyets midlere lengdeakse og i samme høyde. Lysintensiteten fra lysene i hvert par skal i det vesentlige være den samme.
 

@@ -15,7 +15,7 @@ xml_hash: "987265a09a7cb3f2f2234a8e0f0506b1b9c4fda7f9b85c90c72eedbe81f15644"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,10 @@ Forskere skal opptre med aktsomhet for å sikre at all forskning skjer i henhold
 
 Forskningsinstitusjoner er offentlige eller private institusjoner som har forskning som en av sine hovedoppgaver.
 
-Forskningsinstitusjoner skal sikre at forskningen ved institusjonen skjer i henhold til anerkjente forskningsetiske normer. Institusjonen har ansvaret for:nødvendig opplæring av studenter, doktorgradskandidater og ansatte i anerkjente forskningsetiske normer ogat alle som utfører eller deltar i forskningen, er kjent med anerkjente forskningsetiske normer.
+Forskningsinstitusjoner skal sikre at forskningen ved institusjonen skjer i henhold til anerkjente forskningsetiske normer. Institusjonen har ansvaret for:
+
+1. nødvendig opplæring av studenter, doktorgradskandidater og ansatte i anerkjente forskningsetiske normer og
+2. at alle som utfører eller deltar i forskningen, er kjent med anerkjente forskningsetiske normer.
 
 > Endret ved lov [8 mars 2024 nr. 9](lov/2024-03-08-9) (i kraft 1 aug 2024 iflg. [res. 8 mars 2024 nr. 407](forskrift/2024-03-08-407)).
 
@@ -70,7 +73,11 @@ Granskingsutvalget skal veilede forskningsinstitusjoner om behandling av saker o
 
 ## § 8. Uttalelser i uredelighetssaker
 
-I uttalelser fra forskningsinstitusjoner etter [§ 5](lov/2017-04-28-23/§5), redelighetsutvalg etter [§ 6](lov/2017-04-28-23/§6) annet ledd og Granskingsutvalget etter [§ 7](lov/2017-04-28-23/§7) i saker om mulige brudd på anerkjente forskningsetiske normer skal det alltid tas stilling til:om forskeren har opptrådt vitenskapelig uredelig eller ikke,om det foreligger systemfeil ved institusjonen ogom det vitenskapelige arbeidet bør korrigeres eller trekkes tilbake.
+I uttalelser fra forskningsinstitusjoner etter [§ 5](lov/2017-04-28-23/§5), redelighetsutvalg etter [§ 6](lov/2017-04-28-23/§6) annet ledd og Granskingsutvalget etter [§ 7](lov/2017-04-28-23/§7) i saker om mulige brudd på anerkjente forskningsetiske normer skal det alltid tas stilling til:
+
+1. om forskeren har opptrådt vitenskapelig uredelig eller ikke,
+2. om det foreligger systemfeil ved institusjonen og
+3. om det vitenskapelige arbeidet bør korrigeres eller trekkes tilbake.
 
 Med vitenskapelig uredelighet menes forfalskning, fabrikkering, plagiering og andre alvorlige brudd på anerkjente forskningsetiske normer som er begått forsettlig eller grovt uaktsomt i planlegging, gjennomføring eller rapportering av forskning.
 

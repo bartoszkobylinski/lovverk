@@ -15,7 +15,7 @@ xml_hash: "71c96732ce29a369c3d2f9eca7f0e2adcf4c7561dacd9a99c9f1fb517aaf696e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,10 @@ Forskriften gjelder forbud mot innførsel av levende storfe fra Spania.
 
 ## § 4. Forbud mot innførsel
 
-Det er forbudt å innføre levende storfe fra følgende områder i Spania:I provinsen Segovia: Kommunen Escalona del Prado og kommunene som grenser opp til denne.I provinsen Madrid: Kommunen Guadalix de la Sierra og kommunene som grenser opp til denne.
+Det er forbudt å innføre levende storfe fra følgende områder i Spania:
+
+1. I provinsen Segovia: Kommunen Escalona del Prado og kommunene som grenser opp til denne.
+2. I provinsen Madrid: Kommunen Guadalix de la Sierra og kommunene som grenser opp til denne.
 
 ## § 5. Tilleggskrav til helsesertifikat
 

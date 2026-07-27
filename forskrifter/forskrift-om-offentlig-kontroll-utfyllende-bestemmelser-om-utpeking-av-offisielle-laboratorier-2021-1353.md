@@ -17,7 +17,7 @@ xml_hash: "9e48aa593280b748576f88c5518084de2e2c26057c08feb11e28db13433ca1e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -77,11 +77,18 @@ Denne forordningen fastsetter i hvilke tilfeller og på hvilke vilkår laborator
 
 ### Artikkel 2. Offisielle laboratorier på områdene materialer som kommer i kontakt med næringsmidler, tilsetningsstoffer i næringsmidler, næringsmiddelenzymer, aromaer og fôrtilsetninger
 
-Vedkommende myndigheter kan utpeke laboratorier som ikke oppfyller vilkårene nevnt i artikkel 37 nr. 4 bokstav e) i forordning (EU) 2017/625 med hensyn til alle metoder for laboratorieanalyse, -undersøkelse og -diagnostisering de bruker til offentlig kontroll eller annen offentlig virksomhet, som offisielle laboratorier på områdene materialer som kommer i kontakt med næringsmidler, tilsetningsstoffer i næringsmidler, næringsmiddelenzymer, aromaer og fôrtilsetninger, forutsatt atdisse laboratoriene har innført et kvalitetssikringssystem for å sikre at pålitelige resultater oppnås ved bruk av metoder for laboratorieanalyse, -undersøkelse eller -diagnostisering som ikke omfattes av deres akkreditering, ogde ikke-akkrediterte metodene som de aktuelle laboratoriene bruker, er kjennetegnet ved de kriteriene i vedlegg III til forordning (EU) 2017/625 som er relevante for områdene som er omfattet av denne artikkelen.
+Vedkommende myndigheter kan utpeke laboratorier som ikke oppfyller vilkårene nevnt i artikkel 37 nr. 4 bokstav e) i forordning (EU) 2017/625 med hensyn til alle metoder for laboratorieanalyse, -undersøkelse og -diagnostisering de bruker til offentlig kontroll eller annen offentlig virksomhet, som offisielle laboratorier på områdene materialer som kommer i kontakt med næringsmidler, tilsetningsstoffer i næringsmidler, næringsmiddelenzymer, aromaer og fôrtilsetninger, forutsatt at
+
+1. disse laboratoriene har innført et kvalitetssikringssystem for å sikre at pålitelige resultater oppnås ved bruk av metoder for laboratorieanalyse, -undersøkelse eller -diagnostisering som ikke omfattes av deres akkreditering, og
+2. de ikke-akkrediterte metodene som de aktuelle laboratoriene bruker, er kjennetegnet ved de kriteriene i vedlegg III til forordning (EU) 2017/625 som er relevante for områdene som er omfattet av denne artikkelen.
 
 ### Artikkel 3. Offisielle laboratorier på området plantehelse
 
-Vedkommende myndigheter kan utpeke laboratorier som ikke oppfyller vilkårene nevnt i artikkel 37 nr. 4 bokstav e) i forordning (EU) 2017/625 med hensyn til alle metoder for laboratorieanalyse, -undersøkelse og -diagnostisering de bruker til offentlig kontroll eller annen offentlig virksomhet, som offisielle laboratorier på området plantehelse, forutsatt atdisse laboratoriene har innført et kvalitetssikringssystem for å sikre at pålitelige resultater oppnås ved bruk av metoder for laboratorieanalyse, -undersøkelse eller -diagnostisering som ikke omfattes av deres akkreditering,de ikke-akkrediterte metodene som de aktuelle laboratoriene bruker, er kjennetegnet ved de kriteriene i vedlegg III til forordning (EU) 2017/625 som er relevante for området plantehelse,laboratoriet allerede er akkreditert for minst én av metodene oppført i kategoriene nevnt i vedlegget for bruk på en skadegjører fra samme organismegruppe som skadegjøreren som den ikke-akkrediterte metoden brukes på.
+Vedkommende myndigheter kan utpeke laboratorier som ikke oppfyller vilkårene nevnt i artikkel 37 nr. 4 bokstav e) i forordning (EU) 2017/625 med hensyn til alle metoder for laboratorieanalyse, -undersøkelse og -diagnostisering de bruker til offentlig kontroll eller annen offentlig virksomhet, som offisielle laboratorier på området plantehelse, forutsatt at
+
+1. disse laboratoriene har innført et kvalitetssikringssystem for å sikre at pålitelige resultater oppnås ved bruk av metoder for laboratorieanalyse, -undersøkelse eller -diagnostisering som ikke omfattes av deres akkreditering,
+2. de ikke-akkrediterte metodene som de aktuelle laboratoriene bruker, er kjennetegnet ved de kriteriene i vedlegg III til forordning (EU) 2017/625 som er relevante for området plantehelse,
+3. laboratoriet allerede er akkreditert for minst én av metodene oppført i kategoriene nevnt i vedlegget for bruk på en skadegjører fra samme organismegruppe som skadegjøreren som den ikke-akkrediterte metoden brukes på.
 
 ### Artikkel 4. Ikrafttredelse og anvendelse
 
@@ -89,7 +96,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Artikkel 3 får anvendelse fra 29. april 2022.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 17. mai 2021.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 17. mai 2021.
 
 |  |  |
 | --- | --- |
@@ -102,10 +111,32 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 ### VEDLEGG
 KATEGORIER AV METODER SOM BRUKES TIL ANALYSER, UNDERSØKELSER OG DIAGNOSTISERING PÅ OMRÅDET PLANTEHELSE
 
-1. Metoder for lokking, isolering og ekstraksjon, herundermetoder for dyrking på platemetoder for ekstraksjon av målorganismer fra matrise
+1. Metoder for lokking, isolering og ekstraksjon, herunder
+
+   - metoder for dyrking på plate
+   - metoder for ekstraksjon av målorganismer fra matrise
 2. Morfologiske og morfometriske metoder
 3. Metoder for vurdering av patogenitet
-4. Biokjemiske metoder, herunderenzymelektroforeseretur-polyakrylamidgelelektroforese (R-PAGE)
-5. Fingeravtrykkmetoder, herunderproteinprofileringfettsyreprofileringDNA-profileringMALDI-TOF-massespektrometri
-6. Molekylære metoder, herunderkonvensjonell polymerasekjedereaksjon (PCR)sanntids polymerasekjedereaksjon (sanntids PCR)sløyfemediert isoterm amplifisering (LAMP)rekombinase-polymeraseamplifisering (RPA)neste generasjons sekvensering (NGS)DNA-strekkoding
-7. Serologiske metoder, herunderimmunfluorescensenzymmerket antistofftest (ELISA)immunosorbent elektronmikroskopi
+4. Biokjemiske metoder, herunder
+
+   - enzymelektroforese
+   - retur-polyakrylamidgelelektroforese (R-PAGE)
+5. Fingeravtrykkmetoder, herunder
+
+   - proteinprofilering
+   - fettsyreprofilering
+   - DNA-profilering
+   - MALDI-TOF-massespektrometri
+6. Molekylære metoder, herunder
+
+   - konvensjonell polymerasekjedereaksjon (PCR)
+   - sanntids polymerasekjedereaksjon (sanntids PCR)
+   - sløyfemediert isoterm amplifisering (LAMP)
+   - rekombinase-polymeraseamplifisering (RPA)
+   - neste generasjons sekvensering (NGS)
+   - DNA-strekkoding
+7. Serologiske metoder, herunder
+
+   - immunfluorescens
+   - enzymmerket antistofftest (ELISA)
+   - immunosorbent elektronmikroskopi

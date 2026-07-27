@@ -28,11 +28,38 @@ Denne forskrift gjelder behandling av saker om oppfinnelser som omfattes av [lov
 
 ## § 2. Hva som er å anse som krigsmateriell eller for å ha direkte betydning for rikets forsvar
 
-Materiell eller oppfinnelser anses som krigsmateriell eller for å ha direkte betydning for rikets forsvar i henhold til [lovens § 2](forskrift/2000-03-09-215/§2) dersom:Materiellet eller oppfinnelsen er særskilt egnet for eller særskilt bestemt for bruk i krig, ogMateriellet/oppfinnelsen kan sies å falle inn under en av de følgende kategorier:Våpen med tilbehør av enhver art, herunder ammunisjon, og lignende materiell med sprengvirkning, brannstiftende virkning, varmevirkning, røykvirkning, lysvirkning, lydvirkning, radioaktiv virkning eller stridsgassvirkning.Biologiske eller kjemiske stridsmidler, samt materiell for konstatering, identifisering eller måling av radioaktive, biologiske eller kjemiske stridsmidler.Materiell for ildledning, observasjon (herunder fotomateriell mv.), beregning, oppklaring og varsling av mål, materiell for sikkerhetstjenesten i samband med dette.Materiell til vern mot observasjon, oppklaring eller annen iakttakelse.Navigasjonsmateriell og materiell til kontroll, målsøkning eller styring av hvilken som helst type våpen.Materiell som kan nyttes av eller er av betydning for sambandstjenesten.Anleggs-, brøyte- eller rydningsmaskiner samt oversettings- og brumateriell.Transportmidler og anordninger av alle slags skip, fly eller biler, med eller uten stridsmidler.Materiell og konstruksjoner til vern mot våpen og stridsmidler av alle slag.Materiell for villedning.Materiell for og mot forstyrrelse av sambandstjenesten, radar eller andre lokaliseringsmidler.Materiell for og mot forstyrrelse av ildledning, varsling, navigering eller målsøkning.
+Materiell eller oppfinnelser anses som krigsmateriell eller for å ha direkte betydning for rikets forsvar i henhold til [lovens § 2](forskrift/2000-03-09-215/§2) dersom:
+
+1. Materiellet eller oppfinnelsen er særskilt egnet for eller særskilt bestemt for bruk i krig, og
+2. Materiellet/oppfinnelsen kan sies å falle inn under en av de følgende kategorier:
+
+   1. Våpen med tilbehør av enhver art, herunder ammunisjon, og lignende materiell med sprengvirkning, brannstiftende virkning, varmevirkning, røykvirkning, lysvirkning, lydvirkning, radioaktiv virkning eller stridsgassvirkning.
+   2. Biologiske eller kjemiske stridsmidler, samt materiell for konstatering, identifisering eller måling av radioaktive, biologiske eller kjemiske stridsmidler.
+   3. Materiell for ildledning, observasjon (herunder fotomateriell mv.), beregning, oppklaring og varsling av mål, materiell for sikkerhetstjenesten i samband med dette.
+   4. Materiell til vern mot observasjon, oppklaring eller annen iakttakelse.
+   5. Navigasjonsmateriell og materiell til kontroll, målsøkning eller styring av hvilken som helst type våpen.
+   6. Materiell som kan nyttes av eller er av betydning for sambandstjenesten.
+   7. Anleggs-, brøyte- eller rydningsmaskiner samt oversettings- og brumateriell.
+   8. Transportmidler og anordninger av alle slags skip, fly eller biler, med eller uten stridsmidler.
+   9. Materiell og konstruksjoner til vern mot våpen og stridsmidler av alle slag.
+   10. Materiell for villedning.
+   11. Materiell for og mot forstyrrelse av sambandstjenesten, radar eller andre lokaliseringsmidler.
+   12. Materiell for og mot forstyrrelse av ildledning, varsling, navigering eller målsøkning.
 
 ## § 3. Delegering av myndighet til å fatte mulige vedtak etter forskriften
 
-Forsvarets overkommando delegeres myndighet til å:Beslutte at en oppfinnelse skal gjøres kjent, jf. [lovens § 2](forskrift/2000-03-09-215/§2) andre ledd, første punktum og tredje ledd.Forlenge fristen etter [lovens § 2](forskrift/2000-03-09-215/§2) andre ledd, andre punktum.Gi tillatelser som nevnt i [lovens § 3](forskrift/2000-03-09-215/§3) andre ledd, første punktum.Gi bemyndigelser som nevnt i [lovens § 3](forskrift/2000-03-09-215/§3) andre ledd, andre punktum.Avgjøre om en oppfinnelse kan antas å være av betydning for rikets forsvar og kreve opplysninger som nevnt i [lovens § 4](forskrift/2000-03-09-215/§4).Foreta ettersyn som nevnt i [lovens § 5](forskrift/2000-03-09-215/§5).Treffe vedtak om avståelse til eie eller bruk for det offentlige eller andre, samt treffe øvrige vedtak om forbud og påbud etter [lovens § 6](forskrift/2000-03-09-215/§6).Treffe vedtak om hemmelighold av patentsøknad og patent etter [lovens § 7](forskrift/2000-03-09-215/§7) første ledd, første punktum.Bestemme at oppfinnelsen skal holdes hemmelig etter at patentet er trådt ut av kraft, jf. [lovens § 7](forskrift/2000-03-09-215/§7) første ledd, sjette punktum.Oppheve vedtak og bestemmelse som nevnt i bokstavene g og h, jf. [lovens § 7](forskrift/2000-03-09-215/§7) andre ledd, første punktum.
+Forsvarets overkommando delegeres myndighet til å:
+
+1. Beslutte at en oppfinnelse skal gjøres kjent, jf. [lovens § 2](forskrift/2000-03-09-215/§2) andre ledd, første punktum og tredje ledd.
+2. Forlenge fristen etter [lovens § 2](forskrift/2000-03-09-215/§2) andre ledd, andre punktum.
+3. Gi tillatelser som nevnt i [lovens § 3](forskrift/2000-03-09-215/§3) andre ledd, første punktum.
+4. Gi bemyndigelser som nevnt i [lovens § 3](forskrift/2000-03-09-215/§3) andre ledd, andre punktum.
+5. Avgjøre om en oppfinnelse kan antas å være av betydning for rikets forsvar og kreve opplysninger som nevnt i [lovens § 4](forskrift/2000-03-09-215/§4).
+6. Foreta ettersyn som nevnt i [lovens § 5](forskrift/2000-03-09-215/§5).
+7. Treffe vedtak om avståelse til eie eller bruk for det offentlige eller andre, samt treffe øvrige vedtak om forbud og påbud etter [lovens § 6](forskrift/2000-03-09-215/§6).
+8. Treffe vedtak om hemmelighold av patentsøknad og patent etter [lovens § 7](forskrift/2000-03-09-215/§7) første ledd, første punktum.
+9. Bestemme at oppfinnelsen skal holdes hemmelig etter at patentet er trådt ut av kraft, jf. [lovens § 7](forskrift/2000-03-09-215/§7) første ledd, sjette punktum.
+10. Oppheve vedtak og bestemmelse som nevnt i bokstavene g og h, jf. [lovens § 7](forskrift/2000-03-09-215/§7) andre ledd, første punktum.
 
 ## § 4. Plikt til å verne informasjon
 

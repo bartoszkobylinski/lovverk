@@ -15,7 +15,7 @@ xml_hash: "77c830072e949657499623a7ed95967010ec2d018563eb8651ca1a27318387b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,10 @@ Fondet kan også utføre andre forvalteroppgaver som det blir tillagt av departe
 
 Fondet utgjør sammen med et datterselskap eller datterselskaper et konsern.
 
-Fondet er morselskap hvis det på grunn av avtale eller som eier av aksjer eller selskapsandeler har bestemmende innflytelse over et annet selskap. Fondet skal alltid anses å ha bestemmende innflytelse hvis fondet:eier så mange aksjer eller andeler i et annet selskap at det representerer flertallet av stemmene i det andre selskapet, ellerhar rett til å velge eller avsette et flertall av medlemmene i det andre selskapets styre.
+Fondet er morselskap hvis det på grunn av avtale eller som eier av aksjer eller selskapsandeler har bestemmende innflytelse over et annet selskap. Fondet skal alltid anses å ha bestemmende innflytelse hvis fondet:
+
+1. eier så mange aksjer eller andeler i et annet selskap at det representerer flertallet av stemmene i det andre selskapet, eller
+2. har rett til å velge eller avsette et flertall av medlemmene i det andre selskapets styre.
 
 Et selskap som står i forhold som nevnt i annet ledd til fondet anses som datterselskap.
 
@@ -224,7 +227,11 @@ Rett til å være til stede i generalforsamlingen og til å uttale seg har, i ti
 
 Ordinær generalforsamling avholdes innen 6 måneder etter utgangen av hvert regnskapsår.
 
-På den ordinære generalforsamlingen skal følgende saker behandles og avgjøres:Godkjennelse av fondets årsregnskap og årsberetning, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd.Godkjennelse av konsernregnskap.Andre saker som etter loven eller vedtektene hører under generalforsamlingen.
+På den ordinære generalforsamlingen skal følgende saker behandles og avgjøres:
+
+1. Godkjennelse av fondets årsregnskap og årsberetning, herunder anvendelse av årsoverskudd eller dekning av årsunderskudd.
+2. Godkjennelse av konsernregnskap.
+3. Andre saker som etter loven eller vedtektene hører under generalforsamlingen.
 
 Årsregnskapet, årsberetningen og revisjonsberetningen skal vedlegges innkallingen til ordinær generalforsamling.
 

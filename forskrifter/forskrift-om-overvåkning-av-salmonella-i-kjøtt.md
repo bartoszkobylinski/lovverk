@@ -15,7 +15,7 @@ xml_hash: "99d80f1085da5ba75ef5af5a0d93ff42679b4dee3bfa5514ffa7a0662bdb5d61"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -144,7 +144,12 @@ Påvisning av salmonella skal etterfølges av vask og desinfeksjon, intensivert 
 
 ### § 13. Tiltak i slakteri ved påvisning av salmonella i prøver tatt som ledd i den løpende overvåkning
 
-Dersom det påvises salmonella i en svaberprøve skal følgende tiltak settes i verk:Det skal foretas intensivert vask og desinfeksjon, opplæring, tilsyn mv. etter tilsynsveterinærens nærmere bestemmelse.Antall svaberprøver som skal undersøkes med hensyn på salmonella, skal økes slik at det pr. uke tas det antall prøver som fremgår av tabell 1 i vedlegg 1.Alle slakt som undersøkes, skal holdes tilbake inntil resultat foreligger.Alle slakt der det er påvist salmonella, kan enten brukes til humant konsum etter behandling som sikrer fjerning av salmonella eller behandles i samsvar med [forskrift 14. september 2016 nr. 1064](forskrift/2016-09-14-1064) om animalske biprodukter som ikke er beregnet på konsum.
+Dersom det påvises salmonella i en svaberprøve skal følgende tiltak settes i verk:
+
+1. Det skal foretas intensivert vask og desinfeksjon, opplæring, tilsyn mv. etter tilsynsveterinærens nærmere bestemmelse.
+2. Antall svaberprøver som skal undersøkes med hensyn på salmonella, skal økes slik at det pr. uke tas det antall prøver som fremgår av tabell 1 i vedlegg 1.
+3. Alle slakt som undersøkes, skal holdes tilbake inntil resultat foreligger.
+4. Alle slakt der det er påvist salmonella, kan enten brukes til humant konsum etter behandling som sikrer fjerning av salmonella eller behandles i samsvar med [forskrift 14. september 2016 nr. 1064](forskrift/2016-09-14-1064) om animalske biprodukter som ikke er beregnet på konsum.
 
 Tiltakene gitt i henhold til første ledd kan oppheves dersom det i løpet av én uke ikke påvises salmonella i noen av prøvene.
 
@@ -156,11 +161,22 @@ Tiltakene gitt i henhold til tredje ledd kan oppheves dersom det i løpet av én
 
 ### § 14. Tiltak i virksomheter der nedskjæring eller pakking finner sted, ved påvisning av salmonella i prøver tatt som ledd i den løpende overvåkning
 
-Dersom det påvises salmonella i en prøve tatt ut som ledd i den løpende kontroll, skal følgende tiltak settes i verk:Det skal foretas intensivert vask og desinfeksjon, forsterket opplæring og forsterket tilsyn mv. i slakteriet etter tilsynsveterinærens nærmere bestemmelse.Antall prøver som skal undersøkes med hensyn på salmonella, skal økes slik at det pr. uke tas det antall prøver som fremgår av tabell 1 i vedlegg 1.Alle partier av kjøtt som undersøkes, skal holdes tilbake inntil resultat foreligger.Alle partier av kjøtt der det er påvist salmonella, kan enten brukes til humant konsum etter behandling som sikrer fjerning av salmonella eller behandles i samsvar med [forskrift 14. september 2016 nr. 1064](forskrift/2016-09-14-1064) om animalske biprodukter som ikke er beregnet på konsum.
+Dersom det påvises salmonella i en prøve tatt ut som ledd i den løpende kontroll, skal følgende tiltak settes i verk:
+
+1. Det skal foretas intensivert vask og desinfeksjon, forsterket opplæring og forsterket tilsyn mv. i slakteriet etter tilsynsveterinærens nærmere bestemmelse.
+2. Antall prøver som skal undersøkes med hensyn på salmonella, skal økes slik at det pr. uke tas det antall prøver som fremgår av tabell 1 i vedlegg 1.
+3. Alle partier av kjøtt som undersøkes, skal holdes tilbake inntil resultat foreligger.
+4. Alle partier av kjøtt der det er påvist salmonella, kan enten brukes til humant konsum etter behandling som sikrer fjerning av salmonella eller behandles i samsvar med [forskrift 14. september 2016 nr. 1064](forskrift/2016-09-14-1064) om animalske biprodukter som ikke er beregnet på konsum.
 
 Tiltakene gitt i henhold til første ledd kan oppheves dersom det i løpet av én uke ikke påvises salmonella i noen av prøvene.
 
-Dersom det i løpet av én uke påvises salmonella i mer enn 5 % av antall produserte enheter, skal følgende tiltak settes i verk i tillegg til de nevnt i første ledd:Det skal bare behandles kjøtt fra én leverandør om gangen.Utstyr og lokaler skal vaskes og desinfiseres før kjøtt fra ny leverandør tas inn i produksjonslokalene og etter tilsynsveterinærens nærmere bestemmelse.Det skal tas prøver av alle partier av kjøtt.I tillegg kan autorisasjonen/godkjenningen av virksomheten trekkes midlertidig tilbake.
+Dersom det i løpet av én uke påvises salmonella i mer enn 5 % av antall produserte enheter, skal følgende tiltak settes i verk i tillegg til de nevnt i første ledd:
+
+1. Det skal bare behandles kjøtt fra én leverandør om gangen.
+2. Utstyr og lokaler skal vaskes og desinfiseres før kjøtt fra ny leverandør tas inn i produksjonslokalene og etter tilsynsveterinærens nærmere bestemmelse.
+3. Det skal tas prøver av alle partier av kjøtt.
+
+I tillegg kan autorisasjonen/godkjenningen av virksomheten trekkes midlertidig tilbake.
 
 Tiltakene gitt i henhold til tredje ledd kan oppheves dersom det i løpet av én uke påvises salmonella i mindre enn 5 % av antall produserte enheter.
 

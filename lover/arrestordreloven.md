@@ -15,7 +15,7 @@ xml_hash: "84ae3006e659b6ed2fca97949b7448da88d981611f403041fdeaba0e59312587"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,11 +40,24 @@ Dersom ikkje anna er bestemt i loven, gjeld [straffeprosessloven](lov/1981-05-22
 
 ### § 4. Definisjonar
 
-I loven tyder desse omgrepa:*arrestordre:* avgjerd fatta av kompetent myndigheit i ein medlemsstat i Den europeiske unionen, Island eller Noreg om at ein annan av dei nemnde statane skal pågripe og overlevere ein ettersøkt person for strafforfølging eller fullbyrding av fridomsstraff eller ein annan fridomsrøvande reaksjon. I [kapittel 1](lov/2012-01-20-4/kap1), 6, 7 og 8 brukt som fellesnemning på nordisk-europeiske og nordiske arrestordrar.*nordisk-europeisk arrestordre:* arrestordre ferda ut i samsvar med avtale 28. juni 2006 mellom Den europeiske unionen og republikken Island og Kongeriket Noreg om overleveringsprosedyre mellom medlemsstatane i Den europeiske unionen og Island og Noreg. Som nordisk-europeisk arrestordre skal også reknast arrestordre ferda ut i samsvar med Det europeiske råds rammeavgjerd 13. juni 2002 om den europeiske arrestordre og prosedyrane for overlevering mellom medlemsstatane (europeisk arrestordre).*nordisk arrestordre:* arrestordre ferda ut i samsvar med konvensjon om overlevering for straffbare forhold mellom dei nordiske landa 15. desember 2005. Ein arrestordre som nemnd i bokstav b som er ferda ut av eit nordisk land, skal også reknast som ein nordisk arrestordre ved bruk av loven her.*utlevering:* utlevering av personar for straffbare forhold etter [utleveringsloven](lov/1975-06-13-39) eller tilsvarande reglar i framand stat.
+I loven tyder desse omgrepa:
+
+1. *arrestordre:* avgjerd fatta av kompetent myndigheit i ein medlemsstat i Den europeiske unionen, Island eller Noreg om at ein annan av dei nemnde statane skal pågripe og overlevere ein ettersøkt person for strafforfølging eller fullbyrding av fridomsstraff eller ein annan fridomsrøvande reaksjon. I [kapittel 1](lov/2012-01-20-4/kap1), 6, 7 og 8 brukt som fellesnemning på nordisk-europeiske og nordiske arrestordrar.
+2. *nordisk-europeisk arrestordre:* arrestordre ferda ut i samsvar med avtale 28. juni 2006 mellom Den europeiske unionen og republikken Island og Kongeriket Noreg om overleveringsprosedyre mellom medlemsstatane i Den europeiske unionen og Island og Noreg. Som nordisk-europeisk arrestordre skal også reknast arrestordre ferda ut i samsvar med Det europeiske råds rammeavgjerd 13. juni 2002 om den europeiske arrestordre og prosedyrane for overlevering mellom medlemsstatane (europeisk arrestordre).
+3. *nordisk arrestordre:* arrestordre ferda ut i samsvar med konvensjon om overlevering for straffbare forhold mellom dei nordiske landa 15. desember 2005. Ein arrestordre som nemnd i bokstav b som er ferda ut av eit nordisk land, skal også reknast som ein nordisk arrestordre ved bruk av loven her.
+4. *utlevering:* utlevering av personar for straffbare forhold etter [utleveringsloven](lov/1975-06-13-39) eller tilsvarande reglar i framand stat.
 
 ### § 5. Krav til utforminga av ein arrestordre
 
-Ein arrestordre skal førast i skjema som oppgitt i forskrift til loven, og skal innehaldenamn, adresse, telefon- og faksnummer og e-postadresse til den myndigheita som har ferda ut arrestordrenpersonalia og statsborgarskapen til den ettersøkteopplysning om rettskraftig dom, pågripingsvedtak eller ei anna avgjerd med same rettskraft som ligg til grunn for arrestordrenei utgreiing av karakteren på lovbrotet med ei påpeiking av straffebod som venteleg råkar handlingaei utgreiing av omstende omkring lovbrotet, under dette tidspunkt, stad og omfang av deltakinga til den ettersøkteden pådømde straffa eller den strafferamma som er fastsett for lovbrotet i den staten som har ferda ut arrestordrenså vidt mogleg andre følgjer av lovbrotet.
+Ein arrestordre skal førast i skjema som oppgitt i forskrift til loven, og skal innehalde
+
+1. namn, adresse, telefon- og faksnummer og e-postadresse til den myndigheita som har ferda ut arrestordren
+2. personalia og statsborgarskapen til den ettersøkte
+3. opplysning om rettskraftig dom, pågripingsvedtak eller ei anna avgjerd med same rettskraft som ligg til grunn for arrestordren
+4. ei utgreiing av karakteren på lovbrotet med ei påpeiking av straffebod som venteleg råkar handlinga
+5. ei utgreiing av omstende omkring lovbrotet, under dette tidspunkt, stad og omfang av deltakinga til den ettersøkte
+6. den pådømde straffa eller den strafferamma som er fastsett for lovbrotet i den staten som har ferda ut arrestordren
+7. så vidt mogleg andre følgjer av lovbrotet.
 
 Har arrestordren vesentlege manglar, utgjer han ikkje ein arrestordre, og påtalemakta kan, etter først å ha gitt den utferdande myndigheita ein rimeleg frist for retting, avslå han.
 
@@ -52,7 +65,10 @@ Har arrestordren vesentlege manglar, utgjer han ikkje ein arrestordre, og påtal
 
 ### § 6. Krav til straffetrusselen eller pådømd straff
 
-Overlevering av personar til ein medlemsstat i Den europeiske unionen på grunnlag av ein nordisk-europeisk arrestordre skjer etter reglane i loven her forstraffeforfølging for forhold som kan medføre fridomsstraff eller ein annan fridomsrøvande reaksjon i 1 år eller meir i den staten som har ferda ut arrestordrenfullbyrding av pådømd fridomsstraff eller annan fridomsrøvande reaksjon på minst fire månader.
+Overlevering av personar til ein medlemsstat i Den europeiske unionen på grunnlag av ein nordisk-europeisk arrestordre skjer etter reglane i loven her for
+
+1. straffeforfølging for forhold som kan medføre fridomsstraff eller ein annan fridomsrøvande reaksjon i 1 år eller meir i den staten som har ferda ut arrestordren
+2. fullbyrding av pådømd fridomsstraff eller annan fridomsrøvande reaksjon på minst fire månader.
 
 Overlevering for fleire straffbare forhold kan skje sjølv om vilkåra i første ledd berre er oppfylte for eitt av forholda, under føresetnad om at dei andre forholda er straffbare etter norsk lov.
 
@@ -60,13 +76,34 @@ Overlevering for fleire straffbare forhold kan skje sjølv om vilkåra i første
 
 Overlevering på grunnlag av ein nordisk-europeisk arrestordre kan berre skje når handlinga som ligg til grunn for arrestordren, eller ei tilsvarande handling, er straffbar også etter norsk lov.
 
-Dette gjeld likevel ikkje dersom arrestordren gjeld handlingar utførte av ein person som har medverka til at ei gruppe personar som opptrer med eit felles mål, utførerterrorhandling eller terrorrelatert handling som nemnd i artikkel 1 og 2 i Europeisk konvensjon om nedkjemping av terrorisme og artikkel 1, 2, 3 og 4 i EUs rammevedtak 13. juni 2002 om nedkjemping av terrorismeulovleg handel med narkotiske og psykotrope stoffdrapgrov kroppsskadekidnapping, ulovleg fridomsrøving eller gisseltakingvaldtekt,under føresetnad om at handling som nemnd i bokstav a til f kan medføre fridomsstraff eller ein annan fridomsrøvande reaksjon i 1 år eller meir i den staten som har ferda ut arrestordren. Handlingane må vere utførte med formål om å fremme gruppa sine mål og med kunnskap om at deltakinga vil bidra til gjennomføring av lovbrot som ligg innanfor gruppa sine kriminelle formål.
+Dette gjeld likevel ikkje dersom arrestordren gjeld handlingar utførte av ein person som har medverka til at ei gruppe personar som opptrer med eit felles mål, utfører
+
+1. terrorhandling eller terrorrelatert handling som nemnd i artikkel 1 og 2 i Europeisk konvensjon om nedkjemping av terrorisme og artikkel 1, 2, 3 og 4 i EUs rammevedtak 13. juni 2002 om nedkjemping av terrorisme
+2. ulovleg handel med narkotiske og psykotrope stoff
+3. drap
+4. grov kroppsskade
+5. kidnapping, ulovleg fridomsrøving eller gisseltaking
+6. valdtekt,
+
+under føresetnad om at handling som nemnd i bokstav a til f kan medføre fridomsstraff eller ein annan fridomsrøvande reaksjon i 1 år eller meir i den staten som har ferda ut arrestordren. Handlingane må vere utførte med formål om å fremme gruppa sine mål og med kunnskap om at deltakinga vil bidra til gjennomføring av lovbrot som ligg innanfor gruppa sine kriminelle formål.
 
 Vilkåret om dobbel strafflegging i første ledd gjeld heller ikkje dersom forholdet i den utferdande staten vert rekna som ei av dei handlingane som er nemnde i forskrift til loven, og i den utferdande staten kan straffast med fengsel eller annan fridomsrøvande reaksjon i minst tre år, om ikkje den utferdande staten sjølv stiller krav om dobbel strafflegging for overlevering til Noreg for straffeforfølging eller fullbyrding av pådømd straff for tilsvarande forhold. Departementet gir forskrift om kva for handlingar kravet til dobbel strafflegging ikkje skal gjelde for på vilkår som nemnde i første punktum i leddet her.
 
 ### § 8. Obligatoriske avslagsgrunnar
 
-Ein nordisk-europeisk arrestordre skal avslåast for forhold somdet er gitt norsk amnesti forden ettersøkte på grunn av alderen sin ikkje kan gjerast strafferettsleg ansvarleg for i Noregdet ligg føre norsk rettskraftig dom for, og straffa i tilfelle domfelling er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdastdet ligg føre norsk rettskraftig dom på overføring til tvungent psykisk helsevern eller tvungen omsorg, og dommen er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdastdet ligg føre norsk rettskraftig førelegg for, og førelegget er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdastdet ligg føre godkjend norsk avtale frå mekling i konfliktråd for, og avtalen ikkje er vesentleg misleghaldennorsk rettsforfølging er innstilt for etter at den ettersøkte først har vore sikta for forholdet, jf. [straffeprosessloven § 82](lov/1981-05-22-25/§82), om ikkje det ligg føre forhold som nemnde i [straffeprosessloven § 74](lov/1981-05-22-25/§74) første, femte eller sjette ledddet er gitt norsk påtaleavkall for, om ikkje det ligg føre forhold som nemnde i [straffeprosessloven § 74](lov/1981-05-22-25/§74) andre, tredje, fjerde eller sjette leddden kompetente myndigheita har kjennskap til at det i ein medlemsstat i Den europeiske unionen eller stat tilknytt Schengen-samarbeidet ligg føre ein rettskraftig dom eller ei anna endeleg avgjerd som avskjer vidare strafforfølging, og, dersom det er pådømd ein reaksjon, at denne reaksjonen er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdastbehandling eller rettskraftig dom eller anna endeleg avgjerd i ein internasjonal eller overnasjonal domstol avskjer vidare strafforfølging for, og, dersom det er pådømd ein reaksjon, at denne reaksjonen er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdaster utført heilt eller delvis i Noreg, under dette på Svalbard, Jan Mayen eller i dei norske bilanda, eller andre område underlagde norsk jurisdiksjon, og forholdet anten ikkje er straffbart eller straffansvaret eller høve til strafforfølging eller straffullbyrding ville vore forelda etter norsk lovgiving.
+Ein nordisk-europeisk arrestordre skal avslåast for forhold som
+
+1. det er gitt norsk amnesti for
+2. den ettersøkte på grunn av alderen sin ikkje kan gjerast strafferettsleg ansvarleg for i Noreg
+3. det ligg føre norsk rettskraftig dom for, og straffa i tilfelle domfelling er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdast
+4. det ligg føre norsk rettskraftig dom på overføring til tvungent psykisk helsevern eller tvungen omsorg, og dommen er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdast
+5. det ligg føre norsk rettskraftig førelegg for, og førelegget er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdast
+6. det ligg føre godkjend norsk avtale frå mekling i konfliktråd for, og avtalen ikkje er vesentleg misleghalden
+7. norsk rettsforfølging er innstilt for etter at den ettersøkte først har vore sikta for forholdet, jf. [straffeprosessloven § 82](lov/1981-05-22-25/§82), om ikkje det ligg føre forhold som nemnde i [straffeprosessloven § 74](lov/1981-05-22-25/§74) første, femte eller sjette ledd
+8. det er gitt norsk påtaleavkall for, om ikkje det ligg føre forhold som nemnde i [straffeprosessloven § 74](lov/1981-05-22-25/§74) andre, tredje, fjerde eller sjette ledd
+9. den kompetente myndigheita har kjennskap til at det i ein medlemsstat i Den europeiske unionen eller stat tilknytt Schengen-samarbeidet ligg føre ein rettskraftig dom eller ei anna endeleg avgjerd som avskjer vidare strafforfølging, og, dersom det er pådømd ein reaksjon, at denne reaksjonen er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdast
+10. behandling eller rettskraftig dom eller anna endeleg avgjerd i ein internasjonal eller overnasjonal domstol avskjer vidare strafforfølging for, og, dersom det er pådømd ein reaksjon, at denne reaksjonen er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdast
+11. er utført heilt eller delvis i Noreg, under dette på Svalbard, Jan Mayen eller i dei norske bilanda, eller andre område underlagde norsk jurisdiksjon, og forholdet anten ikkje er straffbart eller straffansvaret eller høve til strafforfølging eller straffullbyrding ville vore forelda etter norsk lovgiving.
 
 Ein arrestordre som nemnd i første ledd skal også avslåast dersom overlevering vil vere i strid med Den europeiske [menneskerettskonvensjonen med](lov/1999-05-21-30) endringar eller dei tilleggsprotokollane som gjeld som norsk lov.
 
@@ -94,7 +131,10 @@ Forsikring som nemnd i første og andre ledd skal liggje føre før retten avgje
 
 ### § 12. Forhold som kan gi grunnlag for avslag
 
-Overlevering til strafforfølging på grunnlag av ein nordisk-europeisk arrestordre kan avslåast for forhold somdet er sett i gang norsk strafforfølging mot den ettersøkte fornorsk påtalemakt har kjennskap til at det i ein annan stat enn ein EU-medlemsstat eller stat tilknytt Schengen-samarbeidet, ligg føre rettskraftig dom for, og straffa i tilfelle domfelling er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdast etter denne staten sine reglar.
+Overlevering til strafforfølging på grunnlag av ein nordisk-europeisk arrestordre kan avslåast for forhold som
+
+1. det er sett i gang norsk strafforfølging mot den ettersøkte for
+2. norsk påtalemakt har kjennskap til at det i ein annan stat enn ein EU-medlemsstat eller stat tilknytt Schengen-samarbeidet, ligg føre rettskraftig dom for, og straffa i tilfelle domfelling er fullbyrda, under fullbyrding eller ikkje lenger kan fullbyrdast etter denne staten sine reglar.
 
 Overlevering til straffullbyrding kan avslåast dersom den ettersøkte er busett i Noreg, eller er norsk statsborgar, og norske myndigheiter forpliktar seg til å fullbyrde dommen.
 
@@ -144,7 +184,11 @@ Dersom ein arrestordre gjeld overlevering til strafforfølging av ein norsk stat
 
 ### § 16. Samtykke i strafforfølging m.m. for andre straffbare forhold og til overlevering og utlevering vidare
 
-Ein medlemsstat i Den europeiske unionen som har fått ein person overlevert frå Noreg på grunnlag av ein nordisk-europeisk arrestordre, kan når det vert kravd givast samtykke til åstrafforfølgje eller fullbyrde straff mot vedkomande for andre forhold gjorde forut for overleveringa enn dei han vart overlevert foroverlevere personen vidare til ein annan medlemsstat eller Island for forhold gjorde forut for overleveringautlevere personen vidare til ein stat utanfor Norden og Den europeiske unionen for forhold gjorde forut for overlevering, dersom vedkomande ikkje er norsk statsborgar.
+Ein medlemsstat i Den europeiske unionen som har fått ein person overlevert frå Noreg på grunnlag av ein nordisk-europeisk arrestordre, kan når det vert kravd givast samtykke til å
+
+1. strafforfølgje eller fullbyrde straff mot vedkomande for andre forhold gjorde forut for overleveringa enn dei han vart overlevert for
+2. overlevere personen vidare til ein annan medlemsstat eller Island for forhold gjorde forut for overleveringa
+3. utlevere personen vidare til ein stat utanfor Norden og Den europeiske unionen for forhold gjorde forut for overlevering, dersom vedkomande ikkje er norsk statsborgar.
 
 Krav om samtykke i strafforfølging eller straffullbyrding som nemnt i første ledd bokstav a og til overlevering vidare som nemnt i første ledd bokstav b) skal utformast i samsvar med [§§ 5](lov/2012-01-20-4/§5) og [26](lov/2012-01-20-4/§26) og oversendast som oppgitt i [§ 25](lov/2012-01-20-4/§25). Samtykke skal givast dersom vilkåra for overlevering er oppfylte for den straffbare handlinga som kravet om samtykke gjeld, og på dei vilkåra som følgjer av eller som vert stilte i medhald av loven her. Avgjerda skal liggje føre innan 30 dagar etter at kravet vart motteke. [§ 14](lov/2012-01-20-4/§14) gjeld tilsvarande så langt han høver. Spørsmålet om samtykke skal likevel behandlast skriftleg, om ikkje retten avgjer munnleg behandling. Påtalemakta sender kravet til den tingretten som avgjorde spørsmålet om overlevering. Det skal oppnemnast forsvarar for den overleverte.
 
@@ -154,7 +198,10 @@ Krav om samtykke i utlevering vidare som nemnt i første ledd bokstav c skal sen
 
 ### § 17. Krav til straffetrusselen eller pådømd straff
 
-Overlevering av personar til ein annan nordisk stat på grunnlag av ein nordisk arrestordre skjer etter reglane i loven her forstrafforfølging for forhold som kan medføre fridomsstraff eller ein annan fridomsrøvande reaksjon i den staten som har ferda ut arrestordrenfullbyrding av pådømd fridomsstraff som nemnd i bokstav a.
+Overlevering av personar til ein annan nordisk stat på grunnlag av ein nordisk arrestordre skjer etter reglane i loven her for
+
+1. strafforfølging for forhold som kan medføre fridomsstraff eller ein annan fridomsrøvande reaksjon i den staten som har ferda ut arrestordren
+2. fullbyrding av pådømd fridomsstraff som nemnd i bokstav a.
 
 Gjeld arrestordren fleire straffbare forhold, skal han etterkomast og setjast i verk sjølv om vilkåra i første ledd berre er oppfylte for eitt av forholda.
 
@@ -164,7 +211,10 @@ Ein nordisk arrestordre skal avslåast for forhold som det ligg føre ein avslag
 
 ### § 19. Forhold som kan gi grunnlag for avslag
 
-Ein nordisk arrestordre kan avslåast dersomdet ligg føre forhold som nemnde i [§ 12](lov/2012-01-20-4/§12) første og andre leddforholdet er gjort heilt eller delvis i Noreg, under dette på Svalbard, Jan Mayen eller i dei norske bilanda, eller andre område underlagde norsk jurisdiksjon, og det ikkje er straffbart etter norsk lovgiving.
+Ein nordisk arrestordre kan avslåast dersom
+
+1. det ligg føre forhold som nemnde i [§ 12](lov/2012-01-20-4/§12) første og andre ledd
+2. forholdet er gjort heilt eller delvis i Noreg, under dette på Svalbard, Jan Mayen eller i dei norske bilanda, eller andre område underlagde norsk jurisdiksjon, og det ikkje er straffbart etter norsk lovgiving.
 
 [§ 12](lov/2012-01-20-4/§12) tredje ledd gjeld tilsvarande.
 
@@ -242,7 +292,13 @@ Departementet kan gi nærmare føresegner om saksbehandlinga i tilfelle som nemn
 
 Den som er overlevert til Noreg på grunnlag av ein nordisk arrestordre, kan overleverast vidare til ein annan nordisk stat på grunn av ein nordisk arrestordre som gjeld eit straffbart forhold vedkomande har gjort forut for overleveringa til Noreg. Overlevering vidare til ein medlemsstat i Den europeiske unionen utanfor Norden kan skje i tilfelle som nemnde i andre ledd bokstav a, c, d og e.
 
-Den som er overlevert til Noreg på grunnlag av ein nordisk-europeisk arrestordre, skal ikkje overleverast vidare til ein annan medlemsstat i Den europeiske unionen eller Island for eit forhold gjort forut for overleveringa. Overlevering vidare for forhold som nemnt kan likevel skje dersomden ettersøkte i retten skriftleg samtykkjer i overlevering vidare eller i strafforfølging for forholdetden ettersøkte samtykte i å bli overlevert til Noreg og i den samanhengen også samtykte i å bli strafforfølgd eller få fullbyrda straff mot seg for forhold gjorde forut for overleveringaden ettersøkte har unnlate å forlate riket, trass i at han i 45 dagar uhindra har kunna forlate detden ettersøkte frivillig er vend tilbake til riket etter først å ha forlate det, ellerden staten som overleverte den ettersøkte til Noreg, samtykkjer i overlevering vidare.
+Den som er overlevert til Noreg på grunnlag av ein nordisk-europeisk arrestordre, skal ikkje overleverast vidare til ein annan medlemsstat i Den europeiske unionen eller Island for eit forhold gjort forut for overleveringa. Overlevering vidare for forhold som nemnt kan likevel skje dersom
+
+1. den ettersøkte i retten skriftleg samtykkjer i overlevering vidare eller i strafforfølging for forholdet
+2. den ettersøkte samtykte i å bli overlevert til Noreg og i den samanhengen også samtykte i å bli strafforfølgd eller få fullbyrda straff mot seg for forhold gjorde forut for overleveringa
+3. den ettersøkte har unnlate å forlate riket, trass i at han i 45 dagar uhindra har kunna forlate det
+4. den ettersøkte frivillig er vend tilbake til riket etter først å ha forlate det, eller
+5. den staten som overleverte den ettersøkte til Noreg, samtykkjer i overlevering vidare.
 
 Kan overlevering vidare ikkje skje utan samtykke frå den staten som tidlegare har overlevert vedkomande, jf. andre ledd bokstav e, skal påtalemakta sørgje for at det blir sendt ei oppmoding til vedkomande stat om samtykke til overleveringa. Oppmodinga skal utformast i samsvar med [§ 32](lov/2012-01-20-4/§32) og skal sendast kompetent myndigheit i den staten som overleverte vedkomande.
 
@@ -312,9 +368,19 @@ Når ein ettersøkt er overlevert for fullbyrding av dom her i riket, skal det g
 
 Den som er overlevert til Noreg frå ein medlemsstat i Den europeiske unionen på grunnlag av ein nordisk-europeisk arrestordre, kan ikkje strafforfølgjast, og straff kan ikkje fullbyrdast mot vedkomande, for andre straffbare forhold gjorde forut for overleveringa enn dei som arrestordren omfatta.
 
-Forbodet i første ledd gjeld likevel ikkje dersomvedkomande etter overleveringa samtykkjer i strafforfølging eller straffullbyrding for bestemte straffbare forhold gjorde føre overleveringa. Samtykket skal givast i retten og skal protokollerast og vedtakastvedkomande samtykte i å bli overlevert til Noreg og i den samanhengen også samtykte i å bli strafforfølgd eller få fullbyrda straff mot seg for forhold gjorde forut for overleveringaden ettersøkte har unnlate å forlate riket, enda han i 45 dagar har hatt høve til detteden ettersøkte frivillig er vend tilbake til riket etter først å ha forlate detforholdet gjort forut for overleveringa berre kan straffast med bot, ellerstaten som overleverte den ettersøkte til Noreg, samtykkjer.
+Forbodet i første ledd gjeld likevel ikkje dersom
 
-Den som er overlevert til Noreg frå ein nordisk stat på grunnlag av ein nordisk arrestordre, kan strafforfølgjast, og straff kan fullbyrdast mot vedkomande for straffbare forhold gjorde forut for overleveringa om ikkjedet i den staten som overleverte vedkomande ligg føre forhold som nemnde i [§ 8](lov/2012-01-20-4/§8) første ledd bokstav a til h eller det ligg føre forhold som nemnde i [§ 8](lov/2012-01-20-4/§8) første ledd bokstav i eller j, ellerforholdet er gjort heilt eller delvis på territoriet til den staten som overleverte vedkomande, eller ein stad som vert likestilt med dette, og forholdet ikkje er straffbart etter lovgivinga i denne staten, om ikkje denne staten samtykkjer i strafforfølging.
+1. vedkomande etter overleveringa samtykkjer i strafforfølging eller straffullbyrding for bestemte straffbare forhold gjorde føre overleveringa. Samtykket skal givast i retten og skal protokollerast og vedtakast
+2. vedkomande samtykte i å bli overlevert til Noreg og i den samanhengen også samtykte i å bli strafforfølgd eller få fullbyrda straff mot seg for forhold gjorde forut for overleveringa
+3. den ettersøkte har unnlate å forlate riket, enda han i 45 dagar har hatt høve til dette
+4. den ettersøkte frivillig er vend tilbake til riket etter først å ha forlate det
+5. forholdet gjort forut for overleveringa berre kan straffast med bot, eller
+6. staten som overleverte den ettersøkte til Noreg, samtykkjer.
+
+Den som er overlevert til Noreg frå ein nordisk stat på grunnlag av ein nordisk arrestordre, kan strafforfølgjast, og straff kan fullbyrdast mot vedkomande for straffbare forhold gjorde forut for overleveringa om ikkje
+
+1. det i den staten som overleverte vedkomande ligg føre forhold som nemnde i [§ 8](lov/2012-01-20-4/§8) første ledd bokstav a til h eller det ligg føre forhold som nemnde i [§ 8](lov/2012-01-20-4/§8) første ledd bokstav i eller j, eller
+2. forholdet er gjort heilt eller delvis på territoriet til den staten som overleverte vedkomande, eller ein stad som vert likestilt med dette, og forholdet ikkje er straffbart etter lovgivinga i denne staten, om ikkje denne staten samtykkjer i strafforfølging.
 
 Sjølv om vilkåra i tredje ledd bokstav b ikkje er oppfylte, kan vedkomande strafforfølgjast for forhold gjorde forut for overleveringa i tilfelle som nemnde i andre ledd bokstav c og d eller dersom vedkomande før eller etter overleveringa har samtykt til strafforfølging for andre forhold.
 

@@ -30,7 +30,12 @@ Denne forskriften gjelder for de tilfeller motorvogn passerer bomstasjon.
 
 ## § 2. Definisjoner
 
-I denne forskrift menes med:*avtalepart:* fysisk eller juridisk person, eller enhet i enhetsregisteret, som har gyldig AutoPASS-avtale, jf. [forskrift 14. desember 2018 nr. 1917 om utstedervirksomhet for bompenger og ferjebilletter § 6](forskrift/2018-12-14-1917/§6), fra avtalen er registrert i AutoPASS Samvirke.*eier:* fysisk eller juridisk person, eller enhet i enhetsregisteret, som på datoen for motorvognens passering står oppført som eier av motorvognen i Kjøretøyregisteret, jf. [forskrift av 25. januar 1990 nr. 92 om bruk av kjøretøy § 2-1](forskrift/1990-01-25-92/§2-1), eller i andre motorvognregistre.*fører*: fysisk person som fører motorvognen ved passering i bomstasjon.bompengeselskapene er selskaper som har fullmakt til å kreve inn bompenger.
+I denne forskrift menes med:
+
+1. *avtalepart:* fysisk eller juridisk person, eller enhet i enhetsregisteret, som har gyldig AutoPASS-avtale, jf. [forskrift 14. desember 2018 nr. 1917 om utstedervirksomhet for bompenger og ferjebilletter § 6](forskrift/2018-12-14-1917/§6), fra avtalen er registrert i AutoPASS Samvirke.
+2. *eier:* fysisk eller juridisk person, eller enhet i enhetsregisteret, som på datoen for motorvognens passering står oppført som eier av motorvognen i Kjøretøyregisteret, jf. [forskrift av 25. januar 1990 nr. 92 om bruk av kjøretøy § 2-1](forskrift/1990-01-25-92/§2-1), eller i andre motorvognregistre.
+3. *fører*: fysisk person som fører motorvognen ved passering i bomstasjon.
+4. bompengeselskapene er selskaper som har fullmakt til å kreve inn bompenger.
 
 > Endret ved forskrift [19 des 2024 nr. 3539](forskrift/2024-12-19-3539) (i kraft 1 feb 2025).
 
@@ -40,13 +45,22 @@ Bompengenes størrelse følger av gjeldende takstvedtak i medhold av [veglova §
 
 ## § 4. Ansvar for å betale bompenger
 
-Når en registrert motorvogn passerer bomstasjon, har følgende ansvar for å betale bompenger:avtalepart, når motorvognen på tidspunktet for passering er omfattet av AutoPASS-avtale.eier, når motorvognen på tidspunktet for passering ikke er omfattet av AutoPASS-avtale.fører, når motorvogn, kjennemerke eller brikke er meldt stjålet til politiet, regnet fra tidspunktet tyveriet skjedde.
+Når en registrert motorvogn passerer bomstasjon, har følgende ansvar for å betale bompenger:
+
+1. avtalepart, når motorvognen på tidspunktet for passering er omfattet av AutoPASS-avtale.
+2. eier, når motorvognen på tidspunktet for passering ikke er omfattet av AutoPASS-avtale.
+3. fører, når motorvogn, kjennemerke eller brikke er meldt stjålet til politiet, regnet fra tidspunktet tyveriet skjedde.
 
 Når en uregistrert motorvogn passerer bomstasjon, er den som har anskaffet prøvekjennemerke ansvarlig for å betale bompenger.
 
 ## § 5. Utlevering av personopplysninger til bompengeselskap
 
-Følgende personopplysninger knyttet til personer som nevnt i [§ 4](forskrift/2023-01-27-105/§4), og som er innhentet i medhold av [vegtrafikkloven § 15](lov/1965-06-18-4/§15) og [§ 16](lov/1965-06-18-4/§16), kan utleveres fra Statens vegvesen til bompengeselskap:navnadressefødselsdatoorganisasjonsnummer.
+Følgende personopplysninger knyttet til personer som nevnt i [§ 4](forskrift/2023-01-27-105/§4), og som er innhentet i medhold av [vegtrafikkloven § 15](lov/1965-06-18-4/§15) og [§ 16](lov/1965-06-18-4/§16), kan utleveres fra Statens vegvesen til bompengeselskap:
+
+1. navn
+2. adresse
+3. fødselsdato
+4. organisasjonsnummer.
 
 Personopplysningene kan behandles hos bompengeselskap i den utstrekning dette er nødvendig for bompengeselskapets innkreving av bompenger etter [veglova § 27](lov/1963-06-21-23/§27) femte ledd.
 

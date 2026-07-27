@@ -15,7 +15,7 @@ xml_hash: "ec5c71366aef0b3b7f0393c3f108a1049c81493c6ce7dd688e91de8f52846a00"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009R1221"
@@ -39,7 +39,14 @@ Loven skal sikre en forsvarlig miljøkvalitet, slik at forurensninger og avfall 
 
 ### § 2. (retningslinjer)
 
-Gjennomføringen av loven skal skje etter disse retningslinjer:Det skal arbeides for å hindre at forurensning oppstår eller øker, og for å begrense forurensning som finner sted. Det skal likeledes arbeides for å unngå avfallsproblemer. Loven skal nyttes for å oppnå en miljøkvalitet som er tilfredsstillende ut fra en samlet vurdering av helse, velferd, naturmiljøet, kostnader forbundet med tiltakene og økonomiske forhold.Forurensningsmyndighetene skal samordne sin virksomhet med planmyndighetene slik at planlovgivningen sammen med denne lov brukes for å unngå og begrense forurensning og avfallsproblemer.For å unngå og begrense forurensning og avfallsproblemer skal det tas utgangspunkt i den teknologi som ut fra en samlet vurdering av nåværende og fremtidig bruk av miljøet og av økonomiske forhold, gir de beste resultater.Avfall skal tas hånd om slik at det blir minst mulig til skade og ulempe. Det skal gjenvinnes, fortrinnsvis ved at det forberedes til ombruk eller materialgjenvinnes, med mindre gjenvinning ikke er berettiget ut fra en avveining av miljøhensyn, ressurshensyn og økonomiske forhold.1Kostnadene ved å hindre eller begrense forurensning og avfallsproblemer skal dekkes av den ansvarlige for forurensningen eller avfallet.Forurensning og avfallsproblemer som skyldes virksomhet på norsk område skal motvirkes i samme utstrekning hva enten skadene eller ulempene inntrer i eller utenfor Norge.
+Gjennomføringen av loven skal skje etter disse retningslinjer:
+
+1. Det skal arbeides for å hindre at forurensning oppstår eller øker, og for å begrense forurensning som finner sted. Det skal likeledes arbeides for å unngå avfallsproblemer. Loven skal nyttes for å oppnå en miljøkvalitet som er tilfredsstillende ut fra en samlet vurdering av helse, velferd, naturmiljøet, kostnader forbundet med tiltakene og økonomiske forhold.
+2. Forurensningsmyndighetene skal samordne sin virksomhet med planmyndighetene slik at planlovgivningen sammen med denne lov brukes for å unngå og begrense forurensning og avfallsproblemer.
+3. For å unngå og begrense forurensning og avfallsproblemer skal det tas utgangspunkt i den teknologi som ut fra en samlet vurdering av nåværende og fremtidig bruk av miljøet og av økonomiske forhold, gir de beste resultater.
+4. Avfall skal tas hånd om slik at det blir minst mulig til skade og ulempe. Det skal gjenvinnes, fortrinnsvis ved at det forberedes til ombruk eller materialgjenvinnes, med mindre gjenvinning ikke er berettiget ut fra en avveining av miljøhensyn, ressurshensyn og økonomiske forhold.1
+5. Kostnadene ved å hindre eller begrense forurensning og avfallsproblemer skal dekkes av den ansvarlige for forurensningen eller avfallet.
+6. Forurensning og avfallsproblemer som skyldes virksomhet på norsk område skal motvirkes i samme utstrekning hva enten skadene eller ulempene inntrer i eller utenfor Norge.
 
 > Endret ved [lover 11 juni 1993 nr. 107](lov/1993-06-11-107), [9 des 2016 nr. 89](lov/2016-12-09-89).
 
@@ -49,7 +56,12 @@ Gjennomføringen av loven skal skje etter disse retningslinjer:Det skal arbeides
 
 Loven gjelder forurensninger og avfall i det ytre miljø. For utslipp av genmodifiserte mikroorganismer og deponering av slike som avfall i miljøet gjelder [genteknologiloven](lov/1993-04-02-38).
 
-Med de begrensninger som følger av folkeretten gjelder lovenfor forurensningskilder og avfall og kilder for avfall som befinner seg her i riket,for forurensninger som truer med å inntreffe her i riket,for forurensningskilder som befinner seg i eller forurensning som truer med å inntreffe i Norges økonomiske sone dersom forurensningskilden er norsk fartøy eller innretning, eller forøvrig i den utstrekning Kongen bestemmer,for undersøkelse etter og utvinning og utnytting av undersjøiske naturforekomster på den norske del av kontinentalsokkelen, herunder avslutning av slik virksomhet, jf. [§ 4](lov/1981-03-13-6/§4). For annen aktivitet på kontinentalsokkelen og utenfor norske jurisdiksjonsområder gjelder loven i den utstrekning Kongen bestemmer.
+Med de begrensninger som følger av folkeretten gjelder loven
+
+1. for forurensningskilder og avfall og kilder for avfall som befinner seg her i riket,
+2. for forurensninger som truer med å inntreffe her i riket,
+3. for forurensningskilder som befinner seg i eller forurensning som truer med å inntreffe i Norges økonomiske sone dersom forurensningskilden er norsk fartøy eller innretning, eller forøvrig i den utstrekning Kongen bestemmer,
+4. for undersøkelse etter og utvinning og utnytting av undersjøiske naturforekomster på den norske del av kontinentalsokkelen, herunder avslutning av slik virksomhet, jf. [§ 4](lov/1981-03-13-6/§4). For annen aktivitet på kontinentalsokkelen og utenfor norske jurisdiksjonsområder gjelder loven i den utstrekning Kongen bestemmer.
 
 Loven gjelder ikke for Svalbard. For Jan Mayen og bilandene gjelder loven i den utstrekning Kongen bestemmer. Forurensningsmyndigheten kan for disse områder fastsette de endringer i loven som de stedlige forhold tilsier.
 
@@ -83,7 +95,14 @@ Begrensninger i lovens anvendelse som følge av paragrafen her gjelder bare så 
 
 ### § 6. (hva som forstås med forurensning)
 
-Med forurensning forstås i denne lov:tilførsel av fast stoff, væske eller gass til luft, vann eller i grunnen,støy og rystelser,lys og annen stråling i den utstrekning forurensningsmyndigheten bestemmer,påvirkning av temperaturensom er eller kan være til skade eller ulempe for miljøet.
+Med forurensning forstås i denne lov:
+
+1. tilførsel av fast stoff, væske eller gass til luft, vann eller i grunnen,
+2. støy og rystelser,
+3. lys og annen stråling i den utstrekning forurensningsmyndigheten bestemmer,
+4. påvirkning av temperaturen
+
+som er eller kan være til skade eller ulempe for miljøet.
 
 Som forurensning regnes også noe som kan føre til at tidligere forurensning blir til økt skade eller ulempe, eller som sammen med miljøpåvirkning som nevnt i nummer 1 til 4, er eller kan bli til skade eller ulempe for miljøet.
 
@@ -101,7 +120,13 @@ Forurensningsmyndigheten kan pålegge den ansvarlige å treffe tiltak etter anne
 
 ### § 8. (begrensninger i plikten til å unngå forurensninger)
 
-Vanlig forurensning frafiske, jordbruk og skogbruk m.v.,boliger, fritidshus, kontorer, forretnings- eller forsamlingslokaler, skoler, hoteller og lagerbygg o.l.,midlertidig anleggsvirksomhet,er tillatt etter denne lov i den utstrekning det ikke er gitt særlige forskrifter etter [§ 9](lov/1981-03-13-6/§9). For utslipp av sanitært avløpsvann må det likevel søkes om tillatelse med mindre noe annet er bestemt i forskrift.
+Vanlig forurensning fra
+
+1. fiske, jordbruk og skogbruk m.v.,
+2. boliger, fritidshus, kontorer, forretnings- eller forsamlingslokaler, skoler, hoteller og lagerbygg o.l.,
+3. midlertidig anleggsvirksomhet,
+
+er tillatt etter denne lov i den utstrekning det ikke er gitt særlige forskrifter etter [§ 9](lov/1981-03-13-6/§9). For utslipp av sanitært avløpsvann må det likevel søkes om tillatelse med mindre noe annet er bestemt i forskrift.
 
 Bestemmelsen i første ledd gjelder tilsvarende for forsvarets virksomhet. For forurensning fra forsvarets faste anlegg som ikke hovedsakelig nyttes til stridsformål, gjelder loven fullt ut.
 
@@ -111,7 +136,13 @@ Forurensninger som ikke medfører nevneverdige skader eller ulemper kan finne st
 
 ### § 9. (forskrifter om forurensning)
 
-Forurensningsmyndigheten kan gi forskrifter om:grenseverdier for hvilke forurensninger som skal være tillatt eller at forurensning helt eller til bestemte tider skal være forbudt,grenseverdier for forekomster av visse stoffer, støy, rystelse, lys og annen stråling i miljøet, og hva som skal gjøres dersom grenseverdien overskrides,hvordan faste og midlertidige anlegg skal være innrettet og hvordan en virksomhet skal drives for å motvirke forurensning,kvalitetskrav til utstyr til vern mot forurensning og at slikt utstyr ikke må omsettes uten å være godkjent av forurensningsmyndigheten,at driftspersonell i virksomhet som kan medføre forurensning skal ha bestemte kvalifikasjoner.
+Forurensningsmyndigheten kan gi forskrifter om:
+
+1. grenseverdier for hvilke forurensninger som skal være tillatt eller at forurensning helt eller til bestemte tider skal være forbudt,
+2. grenseverdier for forekomster av visse stoffer, støy, rystelse, lys og annen stråling i miljøet, og hva som skal gjøres dersom grenseverdien overskrides,
+3. hvordan faste og midlertidige anlegg skal være innrettet og hvordan en virksomhet skal drives for å motvirke forurensning,
+4. kvalitetskrav til utstyr til vern mot forurensning og at slikt utstyr ikke må omsettes uten å være godkjent av forurensningsmyndigheten,
+5. at driftspersonell i virksomhet som kan medføre forurensning skal ha bestemte kvalifikasjoner.
 
 Forskriftene etter nummer 1-3 kan fastsette at de helt eller delvis og på nærmere vilkår skal gjelde i stedet for tillatelse etter [§ 11](lov/1981-03-13-6/§11). Hvis det etter forskriftene er nødvendig å søke om tillatelse, gjelder bestemmelsene i [kap. 3](lov/1981-03-13-6/kap3). De vilkår som kan settes i den enkelte tillatelse, jf. [§ 16](lov/1981-03-13-6/§16) kan i stedet fastsettes som forskrift etter paragrafen her.
 
@@ -157,7 +188,12 @@ Søknad om tillatelse etter [§ 11](lov/1981-03-13-6/§11) skal gi de opplysning
 
 Den som planlegger virksomhet som kan medføre store forurensninger på et nytt sted, eller en vesentlig utbygging av ny karakter på sted for eksisterende virksomhet, skal på et tidlig trinn under planleggingen gi melding til forurensningsmyndigheten. Forurensningsmyndigheten gir nærmere forskrifter om meldeplikten.
 
-Forurensningsmyndigheten kan fastsette at den som planlegger meldepliktig virksomhet skal foreta en konsekvensanalyse for å klarlegge virkningene forurensningen vil få. Konsekvensanalysen skal vanligvis inneholde en utredning om:hvilke forurensninger virksomheten vil medføre ved vanlig drift og ved praktisk tenkelige former for uhell, samt sannsynligheten for slike uhell,hvilke virkninger forurensningen kan få på kort og lang sikt. Om nødvendig skal det foretas undersøkelser av naturforholdene der forurensningen vil gjøre seg gjeldende. Det skal særskilt klarlegges hvordan forurensningen vil påvirke menneskenes bruk av miljøet og hvem som særlig får ulemper av forurensningen,alternative lokaliseringer, produksjonsprosesser, rensetiltak og måter for å gjenvinne avfall på som har vært vurdert og nærmere begrunnelse for de løsninger søkeren har valgt,hvordan virksomheten blir innpasset i oversiktsplan og reguleringsplan for området, eventuelt hvordan den vil binde fremtidig planlegging.
+Forurensningsmyndigheten kan fastsette at den som planlegger meldepliktig virksomhet skal foreta en konsekvensanalyse for å klarlegge virkningene forurensningen vil få. Konsekvensanalysen skal vanligvis inneholde en utredning om:
+
+1. hvilke forurensninger virksomheten vil medføre ved vanlig drift og ved praktisk tenkelige former for uhell, samt sannsynligheten for slike uhell,
+2. hvilke virkninger forurensningen kan få på kort og lang sikt. Om nødvendig skal det foretas undersøkelser av naturforholdene der forurensningen vil gjøre seg gjeldende. Det skal særskilt klarlegges hvordan forurensningen vil påvirke menneskenes bruk av miljøet og hvem som særlig får ulemper av forurensningen,
+3. alternative lokaliseringer, produksjonsprosesser, rensetiltak og måter for å gjenvinne avfall på som har vært vurdert og nærmere begrunnelse for de løsninger søkeren har valgt,
+4. hvordan virksomheten blir innpasset i oversiktsplan og reguleringsplan for området, eventuelt hvordan den vil binde fremtidig planlegging.
 
 Forurensningsmyndigheten kan gi pålegg om når utredningen skal foreligge og hva den skal inneholde.
 
@@ -203,7 +239,14 @@ Pålegg etter første og annet ledd kan gis også etter at tillatelse til forure
 
 ### § 18. (endring og omgjøring av tillatelse)
 
-Forurensningsmyndigheten kan oppheve eller endre vilkårene i tillatelse etter loven her eller etter forskrift i medhold av loven, eller sette nye vilkår, og om nødvendig kalle tillatelsen tilbake dersomdet viser seg at skaden eller ulempen ved forurensningen blir vesentlig større eller annerledes enn ventet da tillatelse ble gitt,skaden eller ulempen kan reduseres uten urimelig kostnad for forurenseren,ny teknologi gjør det mulig å minske forurensningene i vesentlig grad,vilkårene i tillatelsen er unødvendige for å motvirke forurensninger,de fordeler forurenseren eller andre får av at vilkår blir lempet på eller opphevet, er vesentlig større enn de skader eller ulemper det vil føre til for miljøet, ellerdet forøvrig følger av ellers gjeldende omgjøringsregler.
+Forurensningsmyndigheten kan oppheve eller endre vilkårene i tillatelse etter loven her eller etter forskrift i medhold av loven, eller sette nye vilkår, og om nødvendig kalle tillatelsen tilbake dersom
+
+1. det viser seg at skaden eller ulempen ved forurensningen blir vesentlig større eller annerledes enn ventet da tillatelse ble gitt,
+2. skaden eller ulempen kan reduseres uten urimelig kostnad for forurenseren,
+3. ny teknologi gjør det mulig å minske forurensningene i vesentlig grad,
+4. vilkårene i tillatelsen er unødvendige for å motvirke forurensninger,
+5. de fordeler forurenseren eller andre får av at vilkår blir lempet på eller opphevet, er vesentlig større enn de skader eller ulemper det vil føre til for miljøet, eller
+6. det forøvrig følger av ellers gjeldende omgjøringsregler.
 
 Tillatelse gitt i medhold av [§ 11 annet ledd](lov/1981-03-13-6/§11/ledd/2) kan tilbakekalles eller endres dersom operatørens aktiviteter helt eller delvis ikke lenger omfattes av [klimakvoteloven § 3](lov/2004-12-17-99/§3).
 
@@ -263,7 +306,11 @@ Når det er nødvendig for å avlaste et kommunalt avløpsanlegg, kan kommunen p
 
 Dersom det er nødvendig for å sikre forsvarlig håndtering av overvannet ved pålegg etter første ledd, kan kommunen pålegge eieren å sørge for tiltak som med rimelighet kan kreves for å håndtere overvannet på egen eiendom eller å lede overvannet til et annet avløpsanlegg eller en alternativ avrenningsvei.
 
-Dersom ikke annet er avtalt, skal et pålegg etter første og andre ledd rettes mot festeren av eiendommen istedenfor eieren nårfesteren har arvefestedet er igjen minst 30 år av festetiden når pålegget blir gittavtalen gir festeren rett til å kreve festetiden forlenget så mye at det er igjen en festetid på minst 30 år når pålegget blir gitt
+Dersom ikke annet er avtalt, skal et pålegg etter første og andre ledd rettes mot festeren av eiendommen istedenfor eieren når
+
+1. festeren har arvefeste
+2. det er igjen minst 30 år av festetiden når pålegget blir gitt
+3. avtalen gir festeren rett til å kreve festetiden forlenget så mye at det er igjen en festetid på minst 30 år når pålegget blir gitt
 
 > Tilføyd ved lov [6 juni 2025 nr. 26](lov/2025-06-06-26) (i kraft 1 jan 2026 iflg. [res. 6 juni 2025 nr. 988](forskrift/2025-06-06-988)).
 
@@ -319,9 +366,23 @@ Blir sanitært avløpsvann ledet gjennom slamavskiller til renseanlegg, kan foru
 
 Med avfall menes løsøregjenstander eller stoffer som noen har kassert, har til hensikt å kassere eller er forpliktet til å kassere. Som avfall regnes ikke avløpsvann og avgasser.
 
-Som biprodukt og ikke avfall regnes løsøregjenstander og stoffer somer fremstilt som en integrert del av en produksjonsprosess som primært tar sikte på å fremstille noe annet,kan brukes direkte uten annen bearbeidelse enn det som er normalt i industriell praksis,kan brukes på en måte som er lovlig,ikke medfører nevneverdig høyere risiko for helseskade eller miljøforstyrrelse enn tilsvarende gjenstander og stoffer som ellers kunne blitt brukt, ogmed sikkerhet vil bli utnyttet.
+Som biprodukt og ikke avfall regnes løsøregjenstander og stoffer som
 
-Løsøregjenstander og stoffer som har blitt avfall, skal regnes for å ha opphørt å være avfall når dehar gjennomgått gjenvinningskal brukes til bestemte formålkan omsettes i et marked eller er gjenstand for etterspørselinnfrir de tekniske kravene som følger av de aktuelle bruksområdene og eventuelle produktkrav og -standarder, ogikke medfører nevneverdig høyere risiko for helseskade eller miljøforstyrrelse enn tilsvarende gjenstander og stoffer som ellers kunne blitt brukt.Forurensningsmyndigheten kan bestemme ved enkeltvedtak om avfall har opphørt å være avfall etter første punktum.
+1. er fremstilt som en integrert del av en produksjonsprosess som primært tar sikte på å fremstille noe annet,
+2. kan brukes direkte uten annen bearbeidelse enn det som er normalt i industriell praksis,
+3. kan brukes på en måte som er lovlig,
+4. ikke medfører nevneverdig høyere risiko for helseskade eller miljøforstyrrelse enn tilsvarende gjenstander og stoffer som ellers kunne blitt brukt, og
+5. med sikkerhet vil bli utnyttet.
+
+Løsøregjenstander og stoffer som har blitt avfall, skal regnes for å ha opphørt å være avfall når de
+
+1. har gjennomgått gjenvinning
+2. skal brukes til bestemte formål
+3. kan omsettes i et marked eller er gjenstand for etterspørsel
+4. innfrir de tekniske kravene som følger av de aktuelle bruksområdene og eventuelle produktkrav og -standarder, og
+5. ikke medfører nevneverdig høyere risiko for helseskade eller miljøforstyrrelse enn tilsvarende gjenstander og stoffer som ellers kunne blitt brukt.
+
+Forurensningsmyndigheten kan bestemme ved enkeltvedtak om avfall har opphørt å være avfall etter første punktum.
 
 Forurensningsmyndigheten kan gi forskrift som presiserer hva som skal regnes som avfall.
 
@@ -401,7 +462,12 @@ Forurensningsmyndigheten kan gi forskrifter om betaling av gebyr ved anløp i ha
 
 ### § 32 b. (grensekryssende forsendelser av avfall)
 
-Forurensningsmyndigheten kan gi forskrift om grensekryssende forsendelser av avfall, blant annet om:forbud mot grensekryssende forsendelser av avfall, som forbud mot forsendelser av bestemte typer avfall eller til bestemte former for avfallshåndteringprosedyrer for grensekryssende forsendelser av avfall, som skriftlig forhåndsmelding og samtykke fra myndighetenekrav til grensekryssende forsendelser av avfall, som finansiell sikkerhet, følgedokumenter og behandlingsbekreftelseplikt til å ta en grensekryssende forsendelse av avfall tilbake.
+Forurensningsmyndigheten kan gi forskrift om grensekryssende forsendelser av avfall, blant annet om:
+
+1. forbud mot grensekryssende forsendelser av avfall, som forbud mot forsendelser av bestemte typer avfall eller til bestemte former for avfallshåndtering
+2. prosedyrer for grensekryssende forsendelser av avfall, som skriftlig forhåndsmelding og samtykke fra myndighetene
+3. krav til grensekryssende forsendelser av avfall, som finansiell sikkerhet, følgedokumenter og behandlingsbekreftelse
+4. plikt til å ta en grensekryssende forsendelse av avfall tilbake.
 
 Forurensningsmyndigheten kan gi pålegg om at ulovlige grensekryssende forsendelser av avfall skal leveres til et lovlig avfallsanlegg.
 
@@ -409,13 +475,23 @@ Forurensningsmyndigheten kan gi pålegg om at ulovlige grensekryssende forsendel
 
 ### § 33. (gjenvinning og annen behandling av avfall)
 
-For å løse eller forebygge avfalls- eller forurensningsproblemer kan forurensningsmyndigheten, ved forskrift eller enkeltvedtak, fastsette at avfall skal gjenvinnes eller behandles på annen måte. Forurensningsmyndigheten kan herunder bl.a. treffe vedtak om:forberedelse til ombrukmaterialgjenvinning,utnyttelse av energi,destruksjon,innsamling, oppbevaring, sorteringbindende mål for gjenvinning, herunder mål for forberedelse til ombruk og materialgjenvinning
+For å løse eller forebygge avfalls- eller forurensningsproblemer kan forurensningsmyndigheten, ved forskrift eller enkeltvedtak, fastsette at avfall skal gjenvinnes eller behandles på annen måte. Forurensningsmyndigheten kan herunder bl.a. treffe vedtak om:
+
+1. forberedelse til ombruk
+2. materialgjenvinning,
+3. utnyttelse av energi,
+4. destruksjon,
+5. innsamling, oppbevaring, sortering
+6. bindende mål for gjenvinning, herunder mål for forberedelse til ombruk og materialgjenvinning
 
 Ved avgjørelsen skal det legges vekt på om de samlede miljøfordeler står i rimelig forhold til kostnadene, og kostnadene ved andre måter å håndtere avfallet på.
 
 Vedtak som nevnt i første ledd kan treffes overfor den som produserer, importerer, omsetter eller bruker avfallsskapende produkt og den som samler inn eller besitter avfall.
 
-Oppnås ikke frivillig ordning mellom partene, kan vedtak som nevnt i første ledd også treffes overfor den som kan bruke eller behandle avfall fra andre dersomdette er nødvendig for å sikre en tilfredsstillende behandling av avfall som kan medføre alvorlig forurensning eller helseskade ellerslikt vedtak er nødvendig for å få til en tilfredsstillende gjennomføring av et organisert system for innsamling og behandling av avfall.
+Oppnås ikke frivillig ordning mellom partene, kan vedtak som nevnt i første ledd også treffes overfor den som kan bruke eller behandle avfall fra andre dersom
+
+1. dette er nødvendig for å sikre en tilfredsstillende behandling av avfall som kan medføre alvorlig forurensning eller helseskade eller
+2. slikt vedtak er nødvendig for å få til en tilfredsstillende gjennomføring av et organisert system for innsamling og behandling av avfall.
 
 Den som leverer avfall til noen som etter fjerde ledd har plikt til å ta imot det, skal holde mottakeren skadesløs og levere avfallet på vilkår som sikrer mottakeren rimelig godtgjøring for hans arbeid. Har avfallet en verdi utover dette, skal mottageren betale et rimelig vederlag for avfallet. Partene kan kreve vederlagsspørsmålet avgjort ved voldgift etter [voldgiftsloven](lov/2004-05-14-25).
 
@@ -607,7 +683,11 @@ Med mindre tungtveiende hensyn tilsier noe annet, skal forurensningsmyndigheten 
 
 ### § 51. (pålegg om undersøkelse)
 
-Forurensningsmyndigheten kan pålegge den som har, gjør eller setter i verk noe som fører eller som det er grunn til å tro kan føre til forurensning, å sørge for eller bekoste undersøkelser eller lignende tiltak som med rimelighet kan kreves for åfastslå om og i hvilken grad virksomheten fører eller kan føre til forurensning,klarlegge årsaken til eller virkningene av inntrådt forurensning,klarlegge hvordan forurensningen skal motvirkes.
+Forurensningsmyndigheten kan pålegge den som har, gjør eller setter i verk noe som fører eller som det er grunn til å tro kan føre til forurensning, å sørge for eller bekoste undersøkelser eller lignende tiltak som med rimelighet kan kreves for å
+
+1. fastslå om og i hvilken grad virksomheten fører eller kan føre til forurensning,
+2. klarlegge årsaken til eller virkningene av inntrådt forurensning,
+3. klarlegge hvordan forurensningen skal motvirkes.
 
 Bestemmelsen i første ledd får tilsvarende anvendelse på virksomhet som fører, eller kan føre til avfallsproblemer.
 
@@ -675,7 +755,10 @@ Uavhengig av bestemmelse i eller i medhold av [§ 5](lov/1981-03-13-6/§5) gjeld
 
 ### § 54. (stedlig virkeområde og lovvalg)
 
-Bestemmelsene i kapitlet gjelder forurensningsskade som:inntrer i Norge eller Norges økonomiske sone,inntrer utenfor områder som nevnt i bokstav (a), såfremt skaden er forårsaket av hending eller virksomhet på norsk sjø- eller landterritorium.
+Bestemmelsene i kapitlet gjelder forurensningsskade som:
+
+1. inntrer i Norge eller Norges økonomiske sone,
+2. inntrer utenfor områder som nevnt i bokstav (a), såfremt skaden er forårsaket av hending eller virksomhet på norsk sjø- eller landterritorium.
 
 Skader som ikke omfattes av virkeområdet etter første ledd, faller likevel inn under kapitlet i den utstrekning norsk erstatningsrett skal anvendes etter ellers gjeldende lovvalgregler.
 
@@ -705,7 +788,13 @@ Selv om en forurensningsskade i seg selv ikke gir grunnlag for erstatning etter 
 
 ### § 57. (ansvarets omfang)
 
-Ansvar etter kapitlet omfattererstatning for økonomisk tap som følge av forurensningsskade som nevnt i [§ 53](lov/1981-03-13-6/§53),erstatning for skade, tap, ulempe eller utgifter som følge av rimelige tiltak for å hindre, begrense, fjerne eller avbøte forurensningsskade. Utgifter til tiltak mot forurensning som var tillatt, kan likevel ikke kreves erstattet i den utstrekning slik erstatning klart ville overstige den erstatning som kunne ha vært krevd dersom tiltakene ikke var blitt satt i verk,erstatning for skade, tap eller ulempe som følge av at forurensningen hindrer eller vanskeliggjør utøving av allemannsrett i næring,erstatning for skade, ulempe eller tap med hensyn til annen utøving av allemannsrett etter reglene i [§ 58](lov/1981-03-13-6/§58),erstatning for tap som en arbeidstaker lider ved at forurensningen fører til driftsstans eller innskrenking i en virksomhet han eller hun er ansatt i. Dette gjelder likevel ikke når virksomheten som sådan ikke kan kreve sitt tap erstattet fordi tapet er en for fjern og upåregnelig følge av forurensningen.
+Ansvar etter kapitlet omfatter
+
+1. erstatning for økonomisk tap som følge av forurensningsskade som nevnt i [§ 53](lov/1981-03-13-6/§53),
+2. erstatning for skade, tap, ulempe eller utgifter som følge av rimelige tiltak for å hindre, begrense, fjerne eller avbøte forurensningsskade. Utgifter til tiltak mot forurensning som var tillatt, kan likevel ikke kreves erstattet i den utstrekning slik erstatning klart ville overstige den erstatning som kunne ha vært krevd dersom tiltakene ikke var blitt satt i verk,
+3. erstatning for skade, tap eller ulempe som følge av at forurensningen hindrer eller vanskeliggjør utøving av allemannsrett i næring,
+4. erstatning for skade, ulempe eller tap med hensyn til annen utøving av allemannsrett etter reglene i [§ 58](lov/1981-03-13-6/§58),
+5. erstatning for tap som en arbeidstaker lider ved at forurensningen fører til driftsstans eller innskrenking i en virksomhet han eller hun er ansatt i. Dette gjelder likevel ikke når virksomheten som sådan ikke kan kreve sitt tap erstattet fordi tapet er en for fjern og upåregnelig følge av forurensningen.
 
 > Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
 
@@ -833,7 +922,10 @@ Krav etter paragrafen her foreldes 5 år etter den dag da tiltakene ble gjennomf
 
 Krav på betaling som det offentlige har etter [§ 76](lov/1981-03-13-6/§76) første ledd, kan kreves dekket uten hensyn til avtale, dom eller oppgjør mellom den ansvarlige og andre skadelidte.
 
-Når andre enn det offentlige krever dekning av utgifter for tiltak mot forurensning av fast eiendom, og tiltakene ikke er gjennomført, kan beløpet bare kreves utbetalt av den ansvarligenår det er åpenbart at tiltakene ikke har betydning for allmennheten ellernår forurensningsmyndigheten samtykker. Det kan settes vilkår for slikt samtykke for å sikre at erstatningen nyttes til formålet.
+Når andre enn det offentlige krever dekning av utgifter for tiltak mot forurensning av fast eiendom, og tiltakene ikke er gjennomført, kan beløpet bare kreves utbetalt av den ansvarlige
+
+1. når det er åpenbart at tiltakene ikke har betydning for allmennheten eller
+2. når forurensningsmyndigheten samtykker. Det kan settes vilkår for slikt samtykke for å sikre at erstatningen nyttes til formålet.
 
 For beløp som er betalt overensstemmende med annet ledd bokstav a) eller b), blir den ansvarlige fri sitt ansvar overfor det offentlig etter [§ 76](lov/1981-03-13-6/§76) første ledd.
 
@@ -843,7 +935,12 @@ For beløp som er betalt overensstemmende med annet ledd bokstav a) eller b), bl
 
 ### § 78. (straffansvar for forurensning)
 
-Med bøter eller fengsel inntil 1 år eller begge deler straffes den som forsettlig eller uaktsomthar, gjør eller setter i verk noe som kan forurense i strid med denne lov eller forskrifter i medhold av lovenunnlater å treffe tiltak som han er pliktig til etter [§§ 7](lov/1981-03-13-6/§7) og [40](lov/1981-03-13-6/§40), etter forskrift i medhold av loven, etter vilkår i enkelttillatelse etter [§ 11](lov/1981-03-13-6/§11), vilkår i godkjent beredskapsplan etter [§ 41](lov/1981-03-13-6/§41), eller etter særskilt pålegg i medhold av denne lovunnlater å gi melding etter [§§ 19](lov/1981-03-13-6/§19) eller [20](lov/1981-03-13-6/§20) eller å legge fram beredskapsplan etter [§ 41](lov/1981-03-13-6/§41)unnlater å etterkomme forurensningsmyndighetens pålegg etter §§ 49-51.
+Med bøter eller fengsel inntil 1 år eller begge deler straffes den som forsettlig eller uaktsomt
+
+1. har, gjør eller setter i verk noe som kan forurense i strid med denne lov eller forskrifter i medhold av loven
+2. unnlater å treffe tiltak som han er pliktig til etter [§§ 7](lov/1981-03-13-6/§7) og [40](lov/1981-03-13-6/§40), etter forskrift i medhold av loven, etter vilkår i enkelttillatelse etter [§ 11](lov/1981-03-13-6/§11), vilkår i godkjent beredskapsplan etter [§ 41](lov/1981-03-13-6/§41), eller etter særskilt pålegg i medhold av denne lov
+3. unnlater å gi melding etter [§§ 19](lov/1981-03-13-6/§19) eller [20](lov/1981-03-13-6/§20) eller å legge fram beredskapsplan etter [§ 41](lov/1981-03-13-6/§41)
+4. unnlater å etterkomme forurensningsmyndighetens pålegg etter §§ 49-51.
 
 Har overtredelsen voldt fare for stor skade eller ulempe, eller det forøvrig foreligger skjerpende omstendigheter, kan fengsel inntil 3 år anvendes. Dersom overtredelsen har voldt fare for alvorlig eller irreversibel skade på biologisk mangfold, eller fare for menneskers liv eller helbred, kan fengsel inntil 5 år anvendes.
 
@@ -855,7 +952,10 @@ Har overtredelsen voldt fare for stor skade eller ulempe, eller det forøvrig fo
 
 ### § 79. (straffansvar for ulovlig håndtering av avfall)
 
-Med bøter eller fengsel inntil 1 år eller begge deler straffes den som forsettlig eller uaktsomtetterlater eller tømmer samlet avfall, større kasserte gjenstander eller spesialavfall, slik at det kan virke skjemmende eller være til skade eller ulempe for miljøetunnlater å etterkomme pålegg om tiltak mot avfall etter [§ 37](lov/1981-03-13-6/§37).
+Med bøter eller fengsel inntil 1 år eller begge deler straffes den som forsettlig eller uaktsomt
+
+1. etterlater eller tømmer samlet avfall, større kasserte gjenstander eller spesialavfall, slik at det kan virke skjemmende eller være til skade eller ulempe for miljøet
+2. unnlater å etterkomme pålegg om tiltak mot avfall etter [§ 37](lov/1981-03-13-6/§37).
 
 I forskrift etter [§§ 30](lov/1981-03-13-6/§30) til [33](lov/1981-03-13-6/§33) kan det bestemmes at forsettlig eller uaktsom overtredelse av forskriften straffes med bøter.
 
@@ -865,7 +965,27 @@ Med bøter eller fengsel inntil 2 år straffes den som forsettlig eller uaktsomt
 
 ### § 80. (overtredelsesgebyr)
 
-Forurensningsmyndigheten kan gi forskrift om ileggelse av overtredelsesgebyr til den somhar, gjør eller setter i verk noe som kan forurense i strid med denne lov eller forskrifter i medhold av lovenovertrer tiltaksplikt etter [§ 7](lov/1981-03-13-6/§7) andre ledd eller pålegg etter [§ 7](lov/1981-03-13-6/§7) fjerde leddovertrer vilkår i forskrift etter [§ 9](lov/1981-03-13-6/§9) første ledd eller tillatelse etter [§ 11](lov/1981-03-13-6/§11) første ledd jf. [§ 16](lov/1981-03-13-6/§16)driver virksomhet uten tillatelse i strid med forskrift etter [§ 11](lov/1981-03-13-6/§11) tredje leddovertrer meldingsplikt etter [§ 20](lov/1981-03-13-6/§20) første ledd andre punktum eller tredje ledd første punktum eller forskrift etter [§ 20](lov/1981-03-13-6/§20) fjerde leddovertrer tiltaksplikt etter [§ 20](lov/1981-03-13-6/§20) første ledd første punktum eller pålegg etter [§ 20](lov/1981-03-13-6/§20) andre leddovertrer forskrift etter [§ 24](lov/1981-03-13-6/§24) tredje leddovertrer forbud i [§ 28](lov/1981-03-13-6/§28) første ledd eller plikt etter [§ 28](lov/1981-03-13-6/§28) tredje leddovertrer [§ 29](lov/1981-03-13-6/§29) første ledd første punktumovertrer forbud i [§ 30](lov/1981-03-13-6/§30) tredje ledd andre punktum, eller forskrift etter [§ 30](lov/1981-03-13-6/§30) andre eller tredje leddovertrer forskrift eller enkeltvedtak etter [§ 31](lov/1981-03-13-6/§31) andre leddforsøker å overtre bestemmelser om grensekryssende forsendelse av avfall i forskrift etter [§ 32 b](lov/1981-03-13-6/§32b)overtrer plikt i [§ 32](lov/1981-03-13-6/§32) første ledd første punktumovertrer forskrift etter [§ 32 a](lov/1981-03-13-6/§32a) første leddovertrer forskrift eller enkeltvedtak etter [§ 33](lov/1981-03-13-6/§33) første leddovertrer plikt i [§ 35](lov/1981-03-13-6/§35) første eller tredje ledd eller pålegg etter [§ 35](lov/1981-03-13-6/§35) fjerde leddovertrer varslingsplikt i [§ 39](lov/1981-03-13-6/§39) første eller andre ledd eller forskrift etter [§ 39](lov/1981-03-13-6/§39) tredje ledd, når vedkommende er den ansvarlige for forurensningen,overtrer beredskapsplikt i [§ 40](lov/1981-03-13-6/§40) første ledd eller forskrift eller enkeltvedtak etter [§ 40](lov/1981-03-13-6/§40) andre leddovertrer forskrift etter [§ 52 b](lov/1981-03-13-6/§52b).
+Forurensningsmyndigheten kan gi forskrift om ileggelse av overtredelsesgebyr til den som
+
+1. har, gjør eller setter i verk noe som kan forurense i strid med denne lov eller forskrifter i medhold av loven
+2. overtrer tiltaksplikt etter [§ 7](lov/1981-03-13-6/§7) andre ledd eller pålegg etter [§ 7](lov/1981-03-13-6/§7) fjerde ledd
+3. overtrer vilkår i forskrift etter [§ 9](lov/1981-03-13-6/§9) første ledd eller tillatelse etter [§ 11](lov/1981-03-13-6/§11) første ledd jf. [§ 16](lov/1981-03-13-6/§16)
+4. driver virksomhet uten tillatelse i strid med forskrift etter [§ 11](lov/1981-03-13-6/§11) tredje ledd
+5. overtrer meldingsplikt etter [§ 20](lov/1981-03-13-6/§20) første ledd andre punktum eller tredje ledd første punktum eller forskrift etter [§ 20](lov/1981-03-13-6/§20) fjerde ledd
+6. overtrer tiltaksplikt etter [§ 20](lov/1981-03-13-6/§20) første ledd første punktum eller pålegg etter [§ 20](lov/1981-03-13-6/§20) andre ledd
+7. overtrer forskrift etter [§ 24](lov/1981-03-13-6/§24) tredje ledd
+8. overtrer forbud i [§ 28](lov/1981-03-13-6/§28) første ledd eller plikt etter [§ 28](lov/1981-03-13-6/§28) tredje ledd
+9. overtrer [§ 29](lov/1981-03-13-6/§29) første ledd første punktum
+10. overtrer forbud i [§ 30](lov/1981-03-13-6/§30) tredje ledd andre punktum, eller forskrift etter [§ 30](lov/1981-03-13-6/§30) andre eller tredje ledd
+11. overtrer forskrift eller enkeltvedtak etter [§ 31](lov/1981-03-13-6/§31) andre ledd
+12. forsøker å overtre bestemmelser om grensekryssende forsendelse av avfall i forskrift etter [§ 32 b](lov/1981-03-13-6/§32b)
+13. overtrer plikt i [§ 32](lov/1981-03-13-6/§32) første ledd første punktum
+14. overtrer forskrift etter [§ 32 a](lov/1981-03-13-6/§32a) første ledd
+15. overtrer forskrift eller enkeltvedtak etter [§ 33](lov/1981-03-13-6/§33) første ledd
+16. overtrer plikt i [§ 35](lov/1981-03-13-6/§35) første eller tredje ledd eller pålegg etter [§ 35](lov/1981-03-13-6/§35) fjerde ledd
+17. overtrer varslingsplikt i [§ 39](lov/1981-03-13-6/§39) første eller andre ledd eller forskrift etter [§ 39](lov/1981-03-13-6/§39) tredje ledd, når vedkommende er den ansvarlige for forurensningen,
+18. overtrer beredskapsplikt i [§ 40](lov/1981-03-13-6/§40) første ledd eller forskrift eller enkeltvedtak etter [§ 40](lov/1981-03-13-6/§40) andre ledd
+19. overtrer forskrift etter [§ 52 b](lov/1981-03-13-6/§52b).
 
 Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser.
 
@@ -879,7 +999,11 @@ Adgangen til å ilegge overtredelsesgebyr foreldes 2 år etter at overtredelsen 
 
 ### § 81. (forurensningsmyndighetene)
 
-Forurensningsmyndighetene er:på riksnivå: Kongen, departementet og Miljødirektoratet,på fylkesnivå: fylkeskommunen og statsforvalteren eller den departementet bestemmer,på kommunalt nivå: kommunen.
+Forurensningsmyndighetene er:
+
+1. på riksnivå: Kongen, departementet og Miljødirektoratet,
+2. på fylkesnivå: fylkeskommunen og statsforvalteren eller den departementet bestemmer,
+3. på kommunalt nivå: kommunen.
 
 Kongen fastsetter hvilken forurensningsmyndighet som kan treffe vedtak etter loven. For kommunens og fylkeskommunens myndighet gjelder [§ 82](lov/1981-03-13-6/§82). Departementet kan videre fastsette at vedtak etter loven kan treffes av andre enn forurensningsmyndighetene herunder privat rettssubjekt.
 

@@ -15,7 +15,7 @@ xml_hash: "028d979ff63e4e271df40edfc72339b55ecd4dd9fd543bd2965ee3b7b4b58909"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 Det skal svares produktavgift for all fangst som foretas eller bearbeides av norskregistrert fartøy, uavhengig av fiskeslag mv. og hvilke farvann fangsten har foregått i. Som fangst regnes også leieinntekter og andre inntekter som inngår i lottberegningen.
 
-Produktavgift av egen fangst beregnes av brutto salgsbeløp. Fradrag gis bare for:Særskilt avgift som betales til salgslaget i medhold av [lov 21. juni 2013 nr. 75](lov/2013-06-21-75) om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova) [§ 9](lov/2013-06-21-75/§9).10 prosent av brutto salgsbeløp når et fartøy selv bearbeider fangsten. Fiskeri- og kystdepartementet fastsetter hva som defineres som bearbeidet fangst.Toll som betales i tilknytning til leveranser i utlandet kan trekkes fra i beregningsgrunnlaget for produktavgift.
+Produktavgift av egen fangst beregnes av brutto salgsbeløp. Fradrag gis bare for:
+
+1. Særskilt avgift som betales til salgslaget i medhold av [lov 21. juni 2013 nr. 75](lov/2013-06-21-75) om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova) [§ 9](lov/2013-06-21-75/§9).
+2. 10 prosent av brutto salgsbeløp når et fartøy selv bearbeider fangsten. Fiskeri- og kystdepartementet fastsetter hva som defineres som bearbeidet fangst.
+3. Toll som betales i tilknytning til leveranser i utlandet kan trekkes fra i beregningsgrunnlaget for produktavgift.
 
 Produktavgift av fangst overtatt fra annet fartøy for bearbeiding ombord beregnes av differansen mellom 90 prosent av brutto salgsbeløp etter bearbeidingen og kostpris ved overtakelsen. Produksjonsfartøy skal ikke svare produktavgift. Med produksjonsfartøy menes fartøy som ikke har drevet egen fangstvirksomhet innenfor det aktuelle kalenderår.
 

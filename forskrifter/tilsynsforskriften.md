@@ -40,7 +40,14 @@ Statens helsetilsyn har det overordnede faglige tilsyn med barnevernsinstitusjon
 
 Statsforvalteren skal føre tilsyn med at barnevernsinstitusjoner følger [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven. Statsforvalteren i det fylket institusjonen ligger har ansvar for tilsynet. Dersom institusjonen består av avdelinger som ligger i flere fylker, er det statsforvalteren i det fylket avdelingen ligger som har ansvaret for tilsynet. De berørte statsforvalterne kan avtale at tilsynet skal organiseres på en annen måte.
 
-Tilsynet omfatter også å føre kontroll med at institusjonene gir det enkelte barn forsvarlig omsorg og behandling. Statsforvalteren skal ved utøvelse av tilsynet ha sin oppmerksomhet rettet mot alle forhold som har betydning for barnas utvikling, trivsel, velferd og rettssikkerhet. Som del av tilsynet skal statsforvalteren kontrollereat det foreligger et gyldig vedtak for oppholdet,at institusjonen ivaretar forutsetninger i barnevernstjenestens eller nemndas vedtak,at det foreligger planer for det enkelte barn i samsvar med [barnevernslovens kapittel 8](lov/2021-06-18-97/kap8) og oppfølgingsforskriften § 6,at institusjonen ivaretar det enkelte barnets rettigheter etter [barnevernsloven § 10-1](lov/2021-06-18-97/§10-1) til [§ 10-15](lov/2021-06-18-97/§10-15) og forskrifter til disse bestemmelsene,at institusjonen ivaretar det enkelte barnets etniske, kulturelle, språklige og religiøse bakgrunn ut fra formålet med oppholdet og institusjonens målsetting og rammer, ogat institusjonen følger opp samiske barns særlige rett til å ivareta språklig og kulturell bakgrunn på en hensiktsmessig måte ut fra formålet med oppholdet og institusjonens målsetting og rammer.
+Tilsynet omfatter også å føre kontroll med at institusjonene gir det enkelte barn forsvarlig omsorg og behandling. Statsforvalteren skal ved utøvelse av tilsynet ha sin oppmerksomhet rettet mot alle forhold som har betydning for barnas utvikling, trivsel, velferd og rettssikkerhet. Som del av tilsynet skal statsforvalteren kontrollere
+
+1. at det foreligger et gyldig vedtak for oppholdet,
+2. at institusjonen ivaretar forutsetninger i barnevernstjenestens eller nemndas vedtak,
+3. at det foreligger planer for det enkelte barn i samsvar med [barnevernslovens kapittel 8](lov/2021-06-18-97/kap8) og oppfølgingsforskriften § 6,
+4. at institusjonen ivaretar det enkelte barnets rettigheter etter [barnevernsloven § 10-1](lov/2021-06-18-97/§10-1) til [§ 10-15](lov/2021-06-18-97/§10-15) og forskrifter til disse bestemmelsene,
+5. at institusjonen ivaretar det enkelte barnets etniske, kulturelle, språklige og religiøse bakgrunn ut fra formålet med oppholdet og institusjonens målsetting og rammer, og
+6. at institusjonen følger opp samiske barns særlige rett til å ivareta språklig og kulturell bakgrunn på en hensiktsmessig måte ut fra formålet med oppholdet og institusjonens målsetting og rammer.
 
 Statsforvalteren skal som del av tilsynet kontrollere protokoller etter [barnevernsloven § 10-16](lov/2021-06-18-97/§10-16), og løpende følge med på utviklingen.
 

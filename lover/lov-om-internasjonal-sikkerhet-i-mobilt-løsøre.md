@@ -15,7 +15,7 @@ xml_hash: "5ab048d9e8487f97f750e3fcfe61becbdd8e4c84b66b2bff41f22e6be6f68d55"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,13 +60,69 @@ HAVE AGREED upon the following provisions:
 
 ### Art 1. Definitions
 
-In this Convention, except where the context otherwise requires, the following terms are employed with the meanings set out below:«agreement» means a security agreement, a title reservation agreement or a leasing agreement;«assignment» means a contract which, whether by way of security or otherwise, confers on the assignee associated rights with or without a transfer of the related international interest;«associated rights» means all rights to payment or other performance by a debtor under an agreement which are secured by or associated with the object;«commencement of the insolvency proceedings» means the time at which the insolvency proceedings are deemed to commence under the applicable insolvency law;«conditional buyer» means a buyer under a title reservation agreement;«conditional seller» means a seller under a title reservation agreement;«contract of sale» means a contract for the sale of an object by a seller to a buyer which is not an agreement as defined in (a) above;«court» means a court of law or an administrative or arbitral tribunal established by a Contracting State;«creditor» means a chargee under a security agreement, a conditional seller under a title reservation agreement or a lessor under a leasing agreement;«debtor» means a chargor under a security agreement, a conditional buyer under a title reservation agreement, a lessee under a leasing agreement or a person whose interest in an object is burdened by a registrable non-consensual right or interest;«insolvency administrator» means a person authorised to administer the reorganisation or liquidation, including one authorised on an interim basis, and includes a debtor in possession if permitted by the applicable insolvency law;«insolvency proceedings» means bankruptcy, liquidation or other collective judicial or administrative proceedings, including interim proceedings, in which the assets and affairs of the debtor are subject to control or supervision by a court for the purposes of reorganisation or liquidation;«interested persons» means:the debtor;any person who, for the purpose of assuring performance of any of the obligations in favour of the creditor, gives or issues a suretyship or demand guarantee or a standby letter of credit or any other form of credit insurance;any other person having rights in or over the object;«internal transaction» means a transaction of a type listed in Article 2(2)(a) to (c) where the centre of the main interests of all parties to such transaction is situated, and the relevant object located (as specified in the Protocol), in the same Contracting State at the time of the conclusion of the contract and where the interest created by the transaction has been registered in a national registry in that Contracting State which has made a declaration under Article 50(1);«international interest» means an interest held by a creditor to which Article 2 applies;«International Registry» means the international registration facilities established for the purposes of this Convention or the Protocol;«leasing agreement» means an agreement by which one person (the lessor) grants a right to possession or control of an object (with or without an option to purchase) to another person (the lessee) in return for a rental or other payment;«national interest» means an interest held by a creditor in an object and created by an internal transaction covered by a declaration under Article 50(1);«non-consensual right or interest» means a right or interest conferred under the law of a Contracting State which has made a declaration under Article 39 to secure the performance of an obligation, including an obligation to a State, State entity or an intergovernmental or private organisation;«notice of a national interest» means notice registered or to be registered in the International Registry that a national interest has been created;«object» means an object of a category to which Article 2 applies;«pre-existing right or interest» means a right or interest of any kind in or over an object created or arising before the effective date of this Convention as defined by Article 60(2)(a);«proceeds» means money or non-money proceeds of an object arising from the total or partial loss or physical destruction of the object or its total or partial confiscation, condemnation or requisition;«prospective assignment» means an assignment that is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;«prospective international interest» means an interest that is intended to be created or provided for in an object as an international interest in the future, upon the occurrence of a stated event (which may include the debtor's acquisition of an interest in the object), whether or not the occurrence of the event is certain;«prospective sale» means a sale which is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;«Protocol» means, in respect of any category of object and associated rights to which this Convention applies, the Protocol in respect of that category of object and associated rights;«registered» means registered in the International Registry pursuant to Chapter V;«registered interest» means an international interest, a registrable non-consensual right or interest or a national interest specified in a notice of a national interest registered pursuant to Chapter V;«registrable non-consensual right or interest» means a non-consensual right or interest registrable pursuant to a declaration deposited under Article 40;«Registrar» means, in respect of the Protocol, the person or body designated by that Protocol or appointed under Article 17(2)(b);«regulations» means regulations made or approved by the Supervisory Authority pursuant to the Protocol;«sale» means a transfer of ownership of an object pursuant to a contract of sale;«secured obligation» means an obligation secured by a security interest;«security agreement» means an agreement by which a chargor grants or agrees to grant to a chargee an interest (including an ownership interest) in or over an object to secure the performance of any existing or future obligation of the chargor or a third person;«security interest» means an interest created by a security agreement;«Supervisory Authority» means, in respect of the Protocol, the Supervisory Authority referred to in Article 17(1);«title reservation agreement» means an agreement for the sale of an object on terms that ownership does not pass until fulfilment of the condition or conditions stated in the agreement;«unregistered interest» means a consensual interest or non-consensual right or interest (other than an interest to which Article 39 applies) which has not been registered, whether or not it is registrable under this Convention; and«writing» means a record of information (including information communicated by teletransmission) which is in tangible or other form and is capable of being reproduced in tangible form on a subsequent occasion and which indicates by reasonable means a person's approval of the record.
+In this Convention, except where the context otherwise requires, the following terms are employed with the meanings set out below:
+
+1. «agreement» means a security agreement, a title reservation agreement or a leasing agreement;
+2. «assignment» means a contract which, whether by way of security or otherwise, confers on the assignee associated rights with or without a transfer of the related international interest;
+3. «associated rights» means all rights to payment or other performance by a debtor under an agreement which are secured by or associated with the object;
+4. «commencement of the insolvency proceedings» means the time at which the insolvency proceedings are deemed to commence under the applicable insolvency law;
+5. «conditional buyer» means a buyer under a title reservation agreement;
+6. «conditional seller» means a seller under a title reservation agreement;
+7. «contract of sale» means a contract for the sale of an object by a seller to a buyer which is not an agreement as defined in (a) above;
+8. «court» means a court of law or an administrative or arbitral tribunal established by a Contracting State;
+9. «creditor» means a chargee under a security agreement, a conditional seller under a title reservation agreement or a lessor under a leasing agreement;
+10. «debtor» means a chargor under a security agreement, a conditional buyer under a title reservation agreement, a lessee under a leasing agreement or a person whose interest in an object is burdened by a registrable non-consensual right or interest;
+11. «insolvency administrator» means a person authorised to administer the reorganisation or liquidation, including one authorised on an interim basis, and includes a debtor in possession if permitted by the applicable insolvency law;
+12. «insolvency proceedings» means bankruptcy, liquidation or other collective judicial or administrative proceedings, including interim proceedings, in which the assets and affairs of the debtor are subject to control or supervision by a court for the purposes of reorganisation or liquidation;
+13. «interested persons» means:
+
+    1. the debtor;
+    2. any person who, for the purpose of assuring performance of any of the obligations in favour of the creditor, gives or issues a suretyship or demand guarantee or a standby letter of credit or any other form of credit insurance;
+    3. any other person having rights in or over the object;
+14. «internal transaction» means a transaction of a type listed in Article 2(2)(a) to (c) where the centre of the main interests of all parties to such transaction is situated, and the relevant object located (as specified in the Protocol), in the same Contracting State at the time of the conclusion of the contract and where the interest created by the transaction has been registered in a national registry in that Contracting State which has made a declaration under Article 50(1);
+15. «international interest» means an interest held by a creditor to which Article 2 applies;
+16. «International Registry» means the international registration facilities established for the purposes of this Convention or the Protocol;
+17. «leasing agreement» means an agreement by which one person (the lessor) grants a right to possession or control of an object (with or without an option to purchase) to another person (the lessee) in return for a rental or other payment;
+18. «national interest» means an interest held by a creditor in an object and created by an internal transaction covered by a declaration under Article 50(1);
+19. «non-consensual right or interest» means a right or interest conferred under the law of a Contracting State which has made a declaration under Article 39 to secure the performance of an obligation, including an obligation to a State, State entity or an intergovernmental or private organisation;
+20. «notice of a national interest» means notice registered or to be registered in the International Registry that a national interest has been created;
+21. «object» means an object of a category to which Article 2 applies;
+22. «pre-existing right or interest» means a right or interest of any kind in or over an object created or arising before the effective date of this Convention as defined by Article 60(2)(a);
+23. «proceeds» means money or non-money proceeds of an object arising from the total or partial loss or physical destruction of the object or its total or partial confiscation, condemnation or requisition;
+24. «prospective assignment» means an assignment that is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
+25. «prospective international interest» means an interest that is intended to be created or provided for in an object as an international interest in the future, upon the occurrence of a stated event (which may include the debtor's acquisition of an interest in the object), whether or not the occurrence of the event is certain;
+26. «prospective sale» means a sale which is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
+
+    1. «Protocol» means, in respect of any category of object and associated rights to which this Convention applies, the Protocol in respect of that category of object and associated rights;
+    2. «registered» means registered in the International Registry pursuant to Chapter V;
+    3. «registered interest» means an international interest, a registrable non-consensual right or interest or a national interest specified in a notice of a national interest registered pursuant to Chapter V;
+    4. «registrable non-consensual right or interest» means a non-consensual right or interest registrable pursuant to a declaration deposited under Article 40;
+    5. «Registrar» means, in respect of the Protocol, the person or body designated by that Protocol or appointed under Article 17(2)(b);
+    6. «regulations» means regulations made or approved by the Supervisory Authority pursuant to the Protocol;
+    7. «sale» means a transfer of ownership of an object pursuant to a contract of sale;
+    8. «secured obligation» means an obligation secured by a security interest;
+    9. «security agreement» means an agreement by which a chargor grants or agrees to grant to a chargee an interest (including an ownership interest) in or over an object to secure the performance of any existing or future obligation of the chargor or a third person;
+    10. «security interest» means an interest created by a security agreement;
+    11. «Supervisory Authority» means, in respect of the Protocol, the Supervisory Authority referred to in Article 17(1);
+    12. «title reservation agreement» means an agreement for the sale of an object on terms that ownership does not pass until fulfilment of the condition or conditions stated in the agreement;
+    13. «unregistered interest» means a consensual interest or non-consensual right or interest (other than an interest to which Article 39 applies) which has not been registered, whether or not it is registrable under this Convention; and
+    14. «writing» means a record of information (including information communicated by teletransmission) which is in tangible or other form and is capable of being reproduced in tangible form on a subsequent occasion and which indicates by reasonable means a person's approval of the record.
 
 ### Art 2. The international interest
 
 1. This Convention provides for the constitution and effects of an international interest in certain categories of mobile equipment and associated rights.
-2. For the purposes of this Convention, an international interest in mobile equipment is an interest, constituted under Article 7, in a uniquely identifiable object of a category of such objects listed in paragraph 3 and designated in the Protocol:granted by the chargor under a security agreement;vested in a person who is the conditional seller under a title reservation agreement; orvested in a person who is the lessor under a leasing agreement.An interest falling within sub-paragraph (a) does not also fall within sub-paragraph (b) or (c).
-3. The categories referred to in the preceding paragraphs are:airframes, aircraft engines and helicopters;railway rolling stock; andspace assets.
+2. For the purposes of this Convention, an international interest in mobile equipment is an interest, constituted under Article 7, in a uniquely identifiable object of a category of such objects listed in paragraph 3 and designated in the Protocol:
+
+   1. granted by the chargor under a security agreement;
+   2. vested in a person who is the conditional seller under a title reservation agreement; or
+   3. vested in a person who is the lessor under a leasing agreement.
+
+   An interest falling within sub-paragraph (a) does not also fall within sub-paragraph (b) or (c).
+3. The categories referred to in the preceding paragraphs are:
+
+   1. airframes, aircraft engines and helicopters;
+   2. railway rolling stock; and
+   3. space assets.
 4. The applicable law determines whether an interest to which paragraph 2 applies falls within subparagraph (a), (b) or (c) of that paragraph.
 5. An international interest in an object extends to proceeds of that object.
 
@@ -77,7 +133,12 @@ In this Convention, except where the context otherwise requires, the following t
 
 ### Art 4. Where debtor is situated
 
-1. For the purposes of Article 3(1), the debtor is situated in any Contracting State:under the law of which it is incorporated or formed;where it has its registered office or statutory seat;where it has its centre of administration; orwhere it has its place of business.
+1. For the purposes of Article 3(1), the debtor is situated in any Contracting State:
+
+   1. under the law of which it is incorporated or formed;
+   2. where it has its registered office or statutory seat;
+   3. where it has its centre of administration; or
+   4. where it has its place of business.
 2. A reference in sub-paragraph (d) of the preceding paragraph to the debtor's place of business shall, if it has more than one place of business, mean its principal place of business or, if it has no place of business, its habitual residence.
 
 ### Art 5. Interpretation and applicable law
@@ -96,16 +157,28 @@ In this Convention, except where the context otherwise requires, the following t
 
 ### Art 7. Formal requirements
 
-An interest is constituted as an international interest under this Convention where the agreement creating or providing for the interest:is in writing;relates to an object of which the chargor, conditional seller or lessor has power to dispose;enables the object to be identified in conformity with the Protocol; andin the case of a security agreement, enables the secured obligations to be determined, but without the need to state a sum or maximum sum secured.
+An interest is constituted as an international interest under this Convention where the agreement creating or providing for the interest:
+
+1. is in writing;
+2. relates to an object of which the chargor, conditional seller or lessor has power to dispose;
+3. enables the object to be identified in conformity with the Protocol; and
+4. in the case of a security agreement, enables the secured obligations to be determined, but without the need to state a sum or maximum sum secured.
 
 ### Chapter III. Default remedies
 
 ### Art 8. Remedies of charge
 
-1. In the event of default as provided in Article 11, the chargee may, to the extent that the chargor has at any time so agreed and subject to any declaration that may be made by a Contracting State under Article 54, exercise any one or more of the following remedies:take possession or control of any object charged to it;sell or grant a lease of any such object;collect or receive any income or profits arising from the management or use of any such object.
+1. In the event of default as provided in Article 11, the chargee may, to the extent that the chargor has at any time so agreed and subject to any declaration that may be made by a Contracting State under Article 54, exercise any one or more of the following remedies:
+
+   1. take possession or control of any object charged to it;
+   2. sell or grant a lease of any such object;
+   3. collect or receive any income or profits arising from the management or use of any such object.
 2. The chargee may alternatively apply for a court order authorising or directing any of the acts referred to in the preceding paragraph.
 3. Any remedy set out in sub-paragraph (a), (b) or (c) of paragraph 1 or by Article 13 shall be exercised in a commercially reasonable manner. A remedy shall be deemed to be exercised in a commercially reasonable manner where it is exercised in conformity with a provision of the security agreement except where such a provision is manifestly unreasonable.
-4. A chargee proposing to sell or grant a lease of an object under paragraph 1 shall give reasonable prior notice in writing of the proposed sale or lease to:interested persons specified in Article 1(m)(i) and (ii); andinterested persons specified in Article 1(m)(iii) who have given notice of their rights to the chargee within a reasonable time prior to the sale or lease.
+4. A chargee proposing to sell or grant a lease of an object under paragraph 1 shall give reasonable prior notice in writing of the proposed sale or lease to:
+
+   1. interested persons specified in Article 1(m)(i) and (ii); and
+   2. interested persons specified in Article 1(m)(iii) who have given notice of their rights to the chargee within a reasonable time prior to the sale or lease.
 5. Any sum collected or received by the chargee as a result of exercise of any of the remedies set out in paragraph 1 or 2 shall be applied towards discharge of the amount of the secured obligations.
 6. Where the sums collected or received by the chargee as a result of the exercise of any remedy set out in paragraph 1 or 2 exceed the amount secured by the security interest and any reasonable costs incurred in the exercise of any such remedy, then unless otherwise ordered by the court the chargee shall distribute the surplus among holders of subsequently ranking interests which have been registered or of which the chargee has been given notice, in order of priority, and pay any remaining balance to the chargor.
 
@@ -119,7 +192,10 @@ An interest is constituted as an international interest under this Convention wh
 
 ### Art 10. Remedies of conditional seller or lessor
 
-In the event of default under a title reservation agreement or under a leasing agreement as provided in Article 11, the conditional seller or the lessor, as the case may be, may:subject to any declaration that may be made by a Contracting State under Article 54, terminate the agreement and take possession or control of any object to which the agreement relates; orapply for a court order authorising or directing either of these acts.
+In the event of default under a title reservation agreement or under a leasing agreement as provided in Article 11, the conditional seller or the lessor, as the case may be, may:
+
+1. subject to any declaration that may be made by a Contracting State under Article 54, terminate the agreement and take possession or control of any object to which the agreement relates; or
+2. apply for a court order authorising or directing either of these acts.
 
 ### Art 11. Meaning of default
 
@@ -132,8 +208,16 @@ Any additional remedies permitted by the applicable law, including any remedies 
 
 ### Art 13. Relief pending final determination
 
-1. Subject to any declaration that it may make under Article 55, a Contracting State shall ensure that a creditor who adduces evidence of default by the debtor may, pending final determination of its claim and to the extent that the debtor has at any time so agreed, obtain from a court speedy relief in the form of such one or more of the following orders as the creditor requests:preservation of the object and its value;possession, control or custody of the object;immobilisation of the object; andlease or, except where covered by sub-paragraphs (a) to (c), management of the object and the income therefrom.
-2. In making any order under the preceding paragraph, the court may impose such terms as it considers necessary to protect the interested persons in the event that the creditor:in implementing any order granting such relief, fails to perform any of its obligations to the debtor under this Convention or the Protocol; orfails to establish its claim, wholly or in part, on the final determination of that claim.
+1. Subject to any declaration that it may make under Article 55, a Contracting State shall ensure that a creditor who adduces evidence of default by the debtor may, pending final determination of its claim and to the extent that the debtor has at any time so agreed, obtain from a court speedy relief in the form of such one or more of the following orders as the creditor requests:
+
+   1. preservation of the object and its value;
+   2. possession, control or custody of the object;
+   3. immobilisation of the object; and
+   4. lease or, except where covered by sub-paragraphs (a) to (c), management of the object and the income therefrom.
+2. In making any order under the preceding paragraph, the court may impose such terms as it considers necessary to protect the interested persons in the event that the creditor:
+
+   1. in implementing any order granting such relief, fails to perform any of its obligations to the debtor under this Convention or the Protocol; or
+   2. fails to establish its claim, wholly or in part, on the final determination of that claim.
 3. Before making any order under paragraph 1, the court may require notice of the request to be given to any of the interested persons.
 4. Nothing in this Article affects the application of Article 8(3) or limits the availability of forms of interim relief other than those set out in paragraph 1.
 
@@ -149,14 +233,31 @@ In their relations with each other, any two or more of the parties referred to i
 
 ### Art 16. The International Registry
 
-1. An International Registry shall be established for registrations of:international interests, prospective international interests and registrable non-consensual rights and interests;assignments and prospective assignments of international interests;acquisitions of international interests by legal or contractual subrogations under the applicable law;notices of national interests; andsubordinations of interests referred to in any of the preceding sub-paragraphs.
+1. An International Registry shall be established for registrations of:
+
+   1. international interests, prospective international interests and registrable non-consensual rights and interests;
+   2. assignments and prospective assignments of international interests;
+   3. acquisitions of international interests by legal or contractual subrogations under the applicable law;
+   4. notices of national interests; and
+   5. subordinations of interests referred to in any of the preceding sub-paragraphs.
 2. Different international registries may be established for different categories of object and associated rights.
 3. For the purposes of this Chapter and Chapter V, the term «registration» includes, where appropriate, an amendment, extension or discharge of a registration.
 
 ### Art 17. The Supervisory Authority and the Registrar
 
 1. There shall be a Supervisory Authority as provided by the Protocol.
-2. The Supervisory Authority shall:establish or provide for the establishment of the International Registry;except as otherwise provided by the Protocol, appoint and dismiss the Registrar;ensure that any rights required for the continued effective operation of the International Registry in the event of a change of Registrar will vest in or be assignable to the new Registrar;after consultation with the Contracting States, make or approve and ensure the publication of regulations pursuant to the Protocol dealing with the operation of the International Registry;establish administrative procedures through which complaints concerning the operation of the International Registry can be made to the Supervisory Authority;supervise the Registrar and the operation of the International Registry;at the request of the Registrar, provide such guidance to the Registrar as the Supervisory Authority thinks fit;set and periodically review the structure of fees to be charged for the services and facilities of the International Registry;do all things necessary to ensure that an efficient notice-based electronic registration system exists to implement the objectives of this Convention and the Protocol; andreport periodically to Contracting States concerning the discharge of its obligations under this Convention and the Protocol.
+2. The Supervisory Authority shall:
+
+   1. establish or provide for the establishment of the International Registry;
+   2. except as otherwise provided by the Protocol, appoint and dismiss the Registrar;
+   3. ensure that any rights required for the continued effective operation of the International Registry in the event of a change of Registrar will vest in or be assignable to the new Registrar;
+   4. after consultation with the Contracting States, make or approve and ensure the publication of regulations pursuant to the Protocol dealing with the operation of the International Registry;
+   5. establish administrative procedures through which complaints concerning the operation of the International Registry can be made to the Supervisory Authority;
+   6. supervise the Registrar and the operation of the International Registry;
+   7. at the request of the Registrar, provide such guidance to the Registrar as the Supervisory Authority thinks fit;
+   8. set and periodically review the structure of fees to be charged for the services and facilities of the International Registry;
+   9. do all things necessary to ensure that an efficient notice-based electronic registration system exists to implement the objectives of this Convention and the Protocol; and
+   10. report periodically to Contracting States concerning the discharge of its obligations under this Convention and the Protocol.
 3. The Supervisory Authority may enter into any agreement requisite for the performance of its functions, including any agreement referred to in Article 27(3).
 4. The Supervisory Authority shall own all proprietary rights in the data bases and archives of the International Registry.
 5. The Registrar shall ensure the efficient operation of the International Registry and perform the functions assigned to it by this Convention, the Protocol and the regulations.
@@ -165,7 +266,11 @@ In their relations with each other, any two or more of the parties referred to i
 
 ### Art 18. Registration requirements
 
-1. The Protocol and regulations shall specify the requirements, including the criteria for the identification of the object:for effecting a registration (which shall include provision for prior electronic transmission of any consent from any person whose consent is required under Article 20);for making searches and issuing search certificates, and, subject thereto;for ensuring the confidentiality of information and documents of the International Registry other than information and documents relating to a registration.
+1. The Protocol and regulations shall specify the requirements, including the criteria for the identification of the object:
+
+   1. for effecting a registration (which shall include provision for prior electronic transmission of any consent from any person whose consent is required under Article 20);
+   2. for making searches and issuing search certificates, and, subject thereto;
+   3. for ensuring the confidentiality of information and documents of the International Registry other than information and documents relating to a registration.
 2. The Registrar shall not be under a duty to enquire whether a consent to registration under Article 20 has in fact been given or is valid.
 3. Where an interest registered as a prospective international interest becomes an international interest, no further registration shall be required provided that the registration information is sufficient for a registration of an international interest.
 4. The Registrar shall arrange for registrations to be entered into the International Registry data base and made searchable in chronological order of receipt, and the file shall record the date and time of receipt.
@@ -175,7 +280,10 @@ In their relations with each other, any two or more of the parties referred to i
 
 1. A registration shall be valid only if made in conformity with Article 20.
 2. A registration, if valid, shall be complete upon entry of the required information into the International Registry data base so as to be searchable.
-3. A registration shall be searchable for the purposes of the preceding paragraph at the time when:the International Registry has assigned to it a sequentially ordered file number; andthe registration information, including the file number, is stored in durable form and may be accessed at the International Registry.
+3. A registration shall be searchable for the purposes of the preceding paragraph at the time when:
+
+   1. the International Registry has assigned to it a sequentially ordered file number; and
+   2. the registration information, including the file number, is stored in durable form and may be accessed at the International Registry.
 4. If an interest first registered as a prospective international interest becomes an international interest, that international interest shall be treated as registered from the time of registration of the prospective international interest provided that the registration was still current immediately before the international interest was constituted as provided by Article 7.
 5. The preceding paragraph applies with necessary modifications to the registration of a prospective assignment of an international interest.
 6. A registration shall be searchable in the International Registry data base according to the criteria prescribed by the Protocol.
@@ -196,7 +304,10 @@ Registration of an international interest remains effective until discharged or 
 ### Art 22. Searches
 
 1. Any person may, in the manner prescribed by the Protocol and regulations, make or request a search of the International Registry by electronic means concerning interests or prospective international interests registered therein.
-2. Upon receipt of a request therefor, the Registrar, in the manner prescribed by the Protocol and regulations, shall issue a registry search certificate by electronic means with respect to any object:stating all registered information relating thereto, together with a statement indicating the date and time of registration of such information; orstating that there is no information in the International Registry relating thereto.
+2. Upon receipt of a request therefor, the Registrar, in the manner prescribed by the Protocol and regulations, shall issue a registry search certificate by electronic means with respect to any object:
+
+   1. stating all registered information relating thereto, together with a statement indicating the date and time of registration of such information; or
+   2. stating that there is no information in the International Registry relating thereto.
 3. A search certificate issued under the preceding paragraph shall indicate that the creditor named in the registration information has acquired or intends to acquire an international interest in the object but shall not indicate whether what is registered is an international interest or a prospective international interest, even if this is ascertainable from the relevant registration information.
 
 ### Art 23. List of declarations and declared non-consensual rights or interests
@@ -205,7 +316,10 @@ The Registrar shall maintain a list of declarations, withdrawals of declaration 
 
 ### Art 24. Evidentiary value of certificates
 
-A document in the form prescribed by the regulations which purports to be a certificate issued by the International Registry is prima facie proof:that it has been so issued; andof the facts recited in it, including the date and time of a registration.
+A document in the form prescribed by the regulations which purports to be a certificate issued by the International Registry is prima facie proof:
+
+1. that it has been so issued; and
+2. of the facts recited in it, including the date and time of a registration.
 
 ### Art 25. Discharge of registration
 
@@ -224,7 +338,8 @@ No person shall be denied access to the registration and search facilities of th
 
 1. The Supervisory Authority shall have international legal personality where not already possessing such personality.
 2. The Supervisory Authority and its officers and employees shall enjoy such immunity from legal or administrative process as is specified in the Protocol.
-3. The Supervisory Authority shall enjoy exemption from taxes and such other privileges as may be provided by agreement with the host State.For the purposes of this paragraph, «host State» means the State in which the Supervisory Authority is situated.
+3. 1. The Supervisory Authority shall enjoy exemption from taxes and such other privileges as may be provided by agreement with the host State.
+   2. For the purposes of this paragraph, «host State» means the State in which the Supervisory Authority is situated.
 4. The assets, documents, data bases and archives of the International Registry shall be inviolable and immune from seizure or other legal or administrative process.
 5. For the purposes of any claim against the Registrar under Article 28(1) or Article 44, the claimant shall be entitled to access to such information and documents as are necessary to enable the claimant to pursue its claim.
 6. The Supervisory Authority may waive the inviolability and immunity conferred by paragraph 4.
@@ -243,24 +358,42 @@ No person shall be denied access to the registration and search facilities of th
 ### Art 29. Priority of competing interests
 
 1. A registered interest has priority over any other interest subsequently registered and over an unregistered interest.
-2. The priority of the first-mentioned interest under the preceding paragraph applies:even if the first-mentioned interest was acquired or registered with actual knowledge of the other interest; andeven as regards value given by the holder of the first-mentioned interest with such knowledge.
-3. The buyer of an object acquires its interest in it:subject to an interest registered at the time of its acquisition of that interest; andfree from an unregistered interest even if it has actual knowledge of such an interest.
-4. The conditional buyer or lessee acquires its interest in or right over that object:subject to an interest registered prior to the registration of the international interest held by its conditional seller or lessor; andfree from an interest not so registered at that time even if it has actual knowledge of that interest.
+2. The priority of the first-mentioned interest under the preceding paragraph applies:
+
+   1. even if the first-mentioned interest was acquired or registered with actual knowledge of the other interest; and
+   2. even as regards value given by the holder of the first-mentioned interest with such knowledge.
+3. The buyer of an object acquires its interest in it:
+
+   1. subject to an interest registered at the time of its acquisition of that interest; and
+   2. free from an unregistered interest even if it has actual knowledge of such an interest.
+4. The conditional buyer or lessee acquires its interest in or right over that object:
+
+   1. subject to an interest registered prior to the registration of the international interest held by its conditional seller or lessor; and
+   2. free from an interest not so registered at that time even if it has actual knowledge of that interest.
 5. The priority of competing interests or rights under this Article may be varied by agreement between the holders of those interests, but an assignee of a subordinated interest is not bound by an agreement to subordinate that interest unless at the time of the assignment a subordination had been registered relating to that agreement.
 6. Any priority given by this Article to an interest in an object extends to proceeds.
-7. This Convention:does not affect the rights of a person in an item, other than an object, held prior to its installation on an object if under the applicable law those rights continue to exist after the installation; anddoes not prevent the creation of rights in an item, other than an object, which has previously been installed on an object where under the applicable law those rights are created.
+7. This Convention:
+
+   1. does not affect the rights of a person in an item, other than an object, held prior to its installation on an object if under the applicable law those rights continue to exist after the installation; and
+   2. does not prevent the creation of rights in an item, other than an object, which has previously been installed on an object where under the applicable law those rights are created.
 
 ### Art 30. Effects of insolvency
 
 1. In insolvency proceedings against the debtor an international interest is effective if prior to the commencement of the insolvency proceedings that interest was registered in conformity with this Convention.
 2. Nothing in this Article impairs the effectiveness of an international interest in the insolvency proceedings where that interest is effective under the applicable law.
-3. Nothing in this Article affects:any rules of law applicable in insolvency proceedings relating to the avoidance of a transaction as a preference or a transfer in fraud of creditors; orany rules of procedure relating to the enforcement of rights to property which is under the control or supervision of the insolvency administrator.
+3. Nothing in this Article affects:
+
+   1. any rules of law applicable in insolvency proceedings relating to the avoidance of a transaction as a preference or a transfer in fraud of creditors; or
+   2. any rules of procedure relating to the enforcement of rights to property which is under the control or supervision of the insolvency administrator.
 
 ### Chapter IX. Assignments of associated rights and international interests; rights of subrogation
 
 ### Art 31. Effects of assignment
 
-1. Except as otherwise agreed by the parties, an assignment of associated rights made in conformity with Article 32 also transfers to the assignee:the related international interest; andall the interests and priorities of the assignor under this Convention.
+1. Except as otherwise agreed by the parties, an assignment of associated rights made in conformity with Article 32 also transfers to the assignee:
+
+   1. the related international interest; and
+   2. all the interests and priorities of the assignor under this Convention.
 2. Nothing in this Convention prevents a partial assignment of the assignor's associated rights. In the case of such a partial assignment the assignor and assignee may agree as to their respective rights concerning the related international interest assigned under the preceding paragraph but not so as adversely to affect the debtor without its consent.
 3. Subject to paragraph 4, the applicable law shall determine the defences and rights of set-off available to the debtor against the assignee.
 4. The debtor may at any time by agreement in writing waive all or any of the defences and rights of set-off referred to in the preceding paragraph other than defences arising from fraudulent acts on the part of the assignee.
@@ -268,19 +401,31 @@ No person shall be denied access to the registration and search facilities of th
 
 ### Art 32. Formal requirements of assignment
 
-1. An assignment of associated rights transfers the related international interest only if it:is in writing;enables the associated rights to be identified under the contract from which they arise; andin the case of an assignment by way of security, enables the obligations secured by the assignment to be determined in accordance with the Protocol but without the need to state a sum or maximum sum secured.
+1. An assignment of associated rights transfers the related international interest only if it:
+
+   1. is in writing;
+   2. enables the associated rights to be identified under the contract from which they arise; and
+   3. in the case of an assignment by way of security, enables the obligations secured by the assignment to be determined in accordance with the Protocol but without the need to state a sum or maximum sum secured.
 2. An assignment of an international interest created or provided for by a security agreement is not valid unless some or all related associated rights also are assigned.
 3. This Convention does not apply to an assignment of associated rights which is not effective to transfer the related international interest.
 
 ### Art 33. Debtor's duty to assignee
 
-1. To the extent that associated rights and the related international interest have been transferred in accordance with Articles 31 and 32, the debtor in relation to those rights and that interest is bound by the assignment and has a duty to make payment or give other performance to the assignee, if but only if:the debtor has been given notice of the assignment in writing by or with the authority of the assignor; andthe notice identifies the associated rights.
+1. To the extent that associated rights and the related international interest have been transferred in accordance with Articles 31 and 32, the debtor in relation to those rights and that interest is bound by the assignment and has a duty to make payment or give other performance to the assignee, if but only if:
+
+   1. the debtor has been given notice of the assignment in writing by or with the authority of the assignor; and
+   2. the notice identifies the associated rights.
 2. Irrespective of any other ground on which payment or performance by the debtor discharges the latter from liability, payment or performance shall be effective for this purpose if made in accordance with the preceding paragraph.
 3. Nothing in this Article shall affect the priority of competing assignments.
 
 ### Art 34. Default remedies in respect of assignment by way of security
 
-In the event of default by the assignor under the assignment of associated rights and the related international interest made by way of security, Articles 8, 9 and 11 to 14 apply in the relations between the assignor and the assignee (and, in relation to associated rights, apply in so far as those provisions are capable of application to intangible property) as if references:to the secured obligation and the security interest were references to the obligation secured by the assignment of the associated rights and the related international interest and the security interest created by that assignment;to the chargee or creditor and chargor or debtor were references to the assignee and assignor;to the holder of the international interest were references to the assignee; andto the object were references to the assigned associated rights and the related international interest.
+In the event of default by the assignor under the assignment of associated rights and the related international interest made by way of security, Articles 8, 9 and 11 to 14 apply in the relations between the assignor and the assignee (and, in relation to associated rights, apply in so far as those provisions are capable of application to intangible property) as if references:
+
+1. to the secured obligation and the security interest were references to the obligation secured by the assignment of the associated rights and the related international interest and the security interest created by that assignment;
+2. to the chargee or creditor and chargor or debtor were references to the assignee and assignor;
+3. to the holder of the international interest were references to the assignee; and
+4. to the object were references to the assigned associated rights and the related international interest.
 
 ### Art 35. Priority of competing assignments
 
@@ -289,8 +434,17 @@ In the event of default by the assignor under the assignment of associated right
 
 ### Art 36. Assignee's priority with respect to associated rights
 
-1. The assignee of associated rights and the related international interest whose assignment has been registered only has priority under Article 35(1) over another assignee of the associated rights:if the contract under which the associated rights arise states that they are secured by or associated with the object; andto the extent that the associated rights are related to an object.
-2. For the purposes of sub-paragraph (b) of the preceding paragraph, associated rights are related to an object only to the extent that they consist of rights to payment or performance that relate to:a sum advanced and utilised for the purchase of the object;a sum advanced and utilised for the purchase of another object in which the assignor held another international interest if the assignor transferred that interest to the assignee and the assignment has been registered;the price payable for the object;the rentals payable in respect of the object; orother obligations arising from a transaction referred to in any of the preceding subparagraphs.
+1. The assignee of associated rights and the related international interest whose assignment has been registered only has priority under Article 35(1) over another assignee of the associated rights:
+
+   1. if the contract under which the associated rights arise states that they are secured by or associated with the object; and
+   2. to the extent that the associated rights are related to an object.
+2. For the purposes of sub-paragraph (b) of the preceding paragraph, associated rights are related to an object only to the extent that they consist of rights to payment or performance that relate to:
+
+   1. a sum advanced and utilised for the purchase of the object;
+   2. a sum advanced and utilised for the purchase of another object in which the assignor held another international interest if the assignor transferred that interest to the assignee and the assignment has been registered;
+   3. the price payable for the object;
+   4. the rentals payable in respect of the object; or
+   5. other obligations arising from a transaction referred to in any of the preceding subparagraphs.
 3. In all other cases, the priority of the competing assignments of the associated rights shall be determined by the applicable law.
 
 ### Art 37. Effects of assignor's insolvency
@@ -306,7 +460,10 @@ The provisions of Article 30 apply to insolvency proceedings against the assigno
 
 ### Art 39. Rights having priority without registration
 
-1. A Contracting State may at any time, in a declaration deposited with the Depositary of the Protocol declare, generally or specifically:those categories of non-consensual right or interest (other than a right or interest to which Article 40 applies) which under that State's law have priority over an interest in an object equivalent to that of the holder of a registered international interest and which shall have priority over a registered international interest, whether in or outside insolvency proceedings; andthat nothing in this Convention shall affect the right of a State or State entity, intergovernmental organisation or other private provider of public services to arrest or detain an object under the laws of that State for payment of amounts owed to such entity, organisation or provider directly relating to those services in respect of that object or another object.
+1. A Contracting State may at any time, in a declaration deposited with the Depositary of the Protocol declare, generally or specifically:
+
+   1. those categories of non-consensual right or interest (other than a right or interest to which Article 40 applies) which under that State's law have priority over an interest in an object equivalent to that of the holder of a registered international interest and which shall have priority over a registered international interest, whether in or outside insolvency proceedings; and
+   2. that nothing in this Convention shall affect the right of a State or State entity, intergovernmental organisation or other private provider of public services to arrest or detain an object under the laws of that State for payment of amounts owed to such entity, organisation or provider directly relating to those services in respect of that object or another object.
 2. A declaration made under the preceding paragraph may be expressed to cover categories that are created after the deposit of that declaration.
 3. A non-consensual right or interest has priority over an international interest if and only if the former is of a category covered by a declaration deposited prior to the registration of the international interest.
 4. Notwithstanding the preceding paragraph, a Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that a right or interest of a category covered by a declaration made under sub-paragraph (a) of paragraph 1 shall have priority over an international interest registered prior to the date of such ratification, acceptance, approval or accession.
@@ -331,7 +488,10 @@ This Convention shall apply to the sale or prospective sale of an object as prov
 ### Art 43. Jurisdiction under Article 13
 
 1. The courts of a Contracting State chosen by the parties and the courts of the Contracting State on the territory of which the object is situated have jurisdiction to grant relief under Article 13(1)(a), (b), (c) and Article 13(4) in respect of that object.
-2. Jurisdiction to grant relief under Article 13(1)(d) or other interim relief by virtue of Article 13(4) may be exercised either:by the courts chosen by the parties; orby the courts of a Contracting State on the territory of which the debtor is situated, being relief which, by the terms of the order granting it, is enforceable only in the territory of that Contracting State.
+2. Jurisdiction to grant relief under Article 13(1)(d) or other interim relief by virtue of Article 13(4) may be exercised either:
+
+   1. by the courts chosen by the parties; or
+   2. by the courts of a Contracting State on the territory of which the debtor is situated, being relief which, by the terms of the order granting it, is enforceable only in the territory of that Contracting State.
 3. A court has jurisdiction under the preceding paragraphs even if the final determination of the claim referred to in Article 13(1) will or may take place in a court of another Contracting State or by arbitration.
 
 ### Art 44. Jurisdiction to make orders against the Registrar
@@ -372,7 +532,11 @@ The Protocol may determine the relationship between this Convention and the *UNI
 
 ### Art 49. Entry into force
 
-1. This Convention enters into force on the first day of the month following the expiration of three months after the date of the deposit of the third instrument of ratification, acceptance, approval or accession but only as regards a category of objects to which a Protocol applies:as from the time of entry into force of that Protocol;subject to the terms of that Protocol; andas between States Parties to this Convention and that Protocol.
+1. This Convention enters into force on the first day of the month following the expiration of three months after the date of the deposit of the third instrument of ratification, acceptance, approval or accession but only as regards a category of objects to which a Protocol applies:
+
+   1. as from the time of entry into force of that Protocol;
+   2. subject to the terms of that Protocol; and
+   3. as between States Parties to this Convention and that Protocol.
 2. For other States this Convention enters into force on the first day of the month following the expiration of three months after the date of the deposit of their instrument of ratification, acceptance, approval or accession but only as regards a category of objects to which a Protocol applies and subject, in relation to such Protocol, to the requirements of sub-paragraphs (a), (b) and (c) of the preceding paragraph.
 
 ### Art 50. Internal transactions
@@ -396,7 +560,11 @@ The Protocol may determine the relationship between this Convention and the *UNI
 2. Any such declaration shall state expressly the territorial units to which this Convention applies.
 3. If a Contracting State has not made any declaration under paragraph 1, this Convention shall apply to all territorial units of that State.
 4. Where a Contracting State extends this Convention to one or more of its territorial units, declarations permitted under this Convention may be made in respect of each such territorial unit, and the declarations made in respect of one territorial unit may be different from those made in respect of another territorial unit.
-5. If by virtue of a declaration under paragraph 1, this Convention extends to one or more territorial units of a Contracting State:the debtor is considered to be situated in a Contracting State only if it is incorporated or formed under a law in force in a territorial unit to which this Convention applies or if it has its registered office or statutory seat, centre of administration, place of business or habitual residence in a territorial unit to which this Convention applies;any reference to the location of the object in a Contracting State refers to the location of the object in a territorial unit to which this Convention applies; andany reference to the administrative authorities in that Contracting State shall be construed as referring to the administrative authorities having jurisdiction in a territorial unit to which this Convention applies.
+5. If by virtue of a declaration under paragraph 1, this Convention extends to one or more territorial units of a Contracting State:
+
+   1. the debtor is considered to be situated in a Contracting State only if it is incorporated or formed under a law in force in a territorial unit to which this Convention applies or if it has its registered office or statutory seat, centre of administration, place of business or habitual residence in a territorial unit to which this Convention applies;
+   2. any reference to the location of the object in a Contracting State refers to the location of the object in a territorial unit to which this Convention applies; and
+   3. any reference to the administrative authorities in that Contracting State shall be construed as referring to the administrative authorities having jurisdiction in a territorial unit to which this Convention applies.
 
 ### Art 53. Determination of courts
 
@@ -436,20 +604,39 @@ A Contracting State may, at the time of ratification, acceptance, approval of, o
 ### Art 60. Transitional provisions
 
 1. Unless otherwise declared by a Contracting State at any time, the Convention does not apply to a pre-existing right or interest, which retains the priority it enjoyed under the applicable law before the effective date of this Convention.
-2. For the purposes of Article 1(v) and of determining priority under this Convention:«effective date of this Convention» means in relation to a debtor the time when this Convention enters into force or the time when the State in which the debtor is situated becomes a Contracting State, whichever is the later; andthe debtor is situated in a State where it has its centre of administration or, if it has no centre of administration, its place of business or, if it has more than one place of business, its principal place of business or, if it has no place of business, its habitual residence.
+2. For the purposes of Article 1(v) and of determining priority under this Convention:
+
+   1. «effective date of this Convention» means in relation to a debtor the time when this Convention enters into force or the time when the State in which the debtor is situated becomes a Contracting State, whichever is the later; and
+   2. the debtor is situated in a State where it has its centre of administration or, if it has no centre of administration, its place of business or, if it has more than one place of business, its principal place of business or, if it has no place of business, its habitual residence.
 3. A Contracting State may in its declaration under paragraph 1 specify a date, not earlier than three years after the date on which the declaration becomes effective, when this Convention and the Protocol will become applicable, for the purpose of determining priority, including the protection of any existing priority, to pre-existing rights or interests arising under an agreement made at a time when the debtor was situated in a State referred to in sub-paragraph (b) of the preceding paragraph but only to the extent and in the manner specified in its declaration.
 
 ### Art 61. Review Conferences, amendments and related matters
 
 1. The Depositary shall prepare reports yearly or at such other time as the circumstances may require for the States Parties as to the manner in which the international regimen established in this Convention has operated in practice. In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
-2. At the request of not less than twenty-five per cent of the States Parties, Review Conferences of States Parties shall be convened from time to time by the Depositary, in consultation with the Supervisory Authority, to consider:the practical operation of this Convention and its effectiveness in facilitating the asset-based financing and leasing of the objects covered by its terms;the judicial interpretation given to, and the application made of the terms of this Convention and the regulations;the functioning of the international registration system, the performance of the Registrar and its oversight by the Supervisory Authority, taking into account the reports of the Supervisory Authority; andwhether any modifications to this Convention or the arrangements relating to the International Registry are desirable.
+2. At the request of not less than twenty-five per cent of the States Parties, Review Conferences of States Parties shall be convened from time to time by the Depositary, in consultation with the Supervisory Authority, to consider:
+
+   1. the practical operation of this Convention and its effectiveness in facilitating the asset-based financing and leasing of the objects covered by its terms;
+   2. the judicial interpretation given to, and the application made of the terms of this Convention and the regulations;
+   3. the functioning of the international registration system, the performance of the Registrar and its oversight by the Supervisory Authority, taking into account the reports of the Supervisory Authority; and
+   4. whether any modifications to this Convention or the arrangements relating to the International Registry are desirable.
 3. Subject to paragraph 4, any amendment to this Convention shall be approved by at least a twothirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when ratified, accepted, or approved by three States in accordance with the provisions of Article 49 relating to its entry into force.
 4. Where the proposed amendment to this Convention is intended to apply to more than one category of equipment, such amendment shall also be approved by at least a two-thirds majority of States Parties to each Protocol that are participating in the Conference referred to in paragraph 2.
 
 ### Art 62. Depositary and its functions
 
 1. Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
-2. The Depositary shall:inform all Contracting States of:each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;the date of entry into force of this Convention;each declaration made in accordance with this Convention, together with the date thereof;the withdrawal or amendment of any declaration, together with the date thereof; andthe notification of any denunciation of this Convention together with the date thereof and the date on which it takes effect;transmit certified true copies of this Convention to all Contracting States;provide the Supervisory Authority and the Registrar with a copy of each instrument of ratification, acceptance, approval or accession, together with the date of deposit thereof, of each declaration or withdrawal or amendment of a declaration and of each notification of denunciation, together with the date of notification thereof, so that the information contained therein is easily and fully available; andperform such other functions customary for depositaries.
+2. The Depositary shall:
+
+   1. inform all Contracting States of:
+
+      1. each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;
+      2. the date of entry into force of this Convention;
+      3. each declaration made in accordance with this Convention, together with the date thereof;
+      4. the withdrawal or amendment of any declaration, together with the date thereof; and
+      5. the notification of any denunciation of this Convention together with the date thereof and the date on which it takes effect;
+   2. transmit certified true copies of this Convention to all Contracting States;
+   3. provide the Supervisory Authority and the Registrar with a copy of each instrument of ratification, acceptance, approval or accession, together with the date of deposit thereof, of each declaration or withdrawal or amendment of a declaration and of each notification of denunciation, together with the date of notification thereof, so that the information contained therein is easily and fully available; and
+   4. perform such other functions customary for depositaries.
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorised, have signed this Convention.
 
@@ -479,13 +666,69 @@ ER ENIGE OM følgende bestemmelser:
 
 ### Art 1. Definisjoner
 
-Med mindre sammenhengen tilsier noe annet, menes i denne konvensjon med:«avtale»: en avtale om sikkerhetsstillelse, en avtale om eiendomsforbehold eller en leieavtale,«overdragelse»: en avtale som, enten i form av sikkerhet eller på annen måte, gir mottakeren tilhørende rettigheter, med eller uten overføring av den motsvarende internasjonale sikkerhetsrett,«tilhørende rettigheter»: alle rettigheter til betaling eller annen ytelse fra en debitor i henhold til avtale, som er sikret gjennom formuesgjenstanden eller er knyttet til den,«innledning av insolvensbehandling»: tidspunktet da insolvensbehandlingen anses å begynne etter gjeldende insolvenslovgivning,«kjøper med forbehold»: en kjøper i henhold til en avtale om eiendomsforbehold,«selger med forbehold»: en selger i henhold til en avtale om eiendomsforbehold,«salgsavtale»: en avtale om salg av en formuesgjenstand, fra en selger til en kjøper, som ikke er en avtale som definert i bokstav a),«domstol»: en rettsinstans, et forvaltningsorgan eller en voldgiftsdomstol opprettet av en konvensjonsstat,«kreditor»: en kravshaver i henhold til en avtale om sikkerhetsstillelse, en selger med forbehold i henhold til en avtale om eiendomsforbehold eller en utleier i henhold til en leieavtale,«debitor»: en rettighetsstifter i henhold til en avtale om sikkerhetsstillelse, en kjøper med forbehold i henhold til en avtale om eiendomsforbehold, en leietaker i henhold til en leieavtale eller en person hvis rett til en formuesgjenstand er beheftet med en registrerbar ikke-avtalemessig rettighet eller sikkerhetsrett,«insolvensbestyrer»: en person med fullmakt til å administrere omstrukturering eller avvikling, også på midlertidig basis, herunder en debitor som sitter med formuesgjenstanden dersom dette er tillatt etter gjeldende insolvenslovgivning,«insolvensbehandling»: konkurs, avvikling eller annen kollektiv rettslig eller forvaltningsmessig behandling, herunder midlertidig sikring, der debitors aktiva og anliggender er undergitt en domstols kontroll eller tilsyn med sikte på omstrukturering eller avvikling,«berørte personer»:debitor,enhver person som stiller kausjon eller gir eller utsteder påkravsgaranti eller standby remburs eller annen form for kredittforsikring for å sikre at forpliktelser overfor kreditor blir oppfylt,enhver annen person som har rettigheter i eller over formuesgjenstanden,«intern transaksjon»: en transaksjon av en type som oppført i artikkel 2 nr. 2 bokstav a)-c), når hovedtyngden av virksomheten til alle transaksjonens parter, og den aktuelle formuesgjenstanden (som spesifisert i protokollen), befinner seg i samme konvensjonsstat på avtaletidspunktet, og når sikkerhetsretten som stiftes ved transaksjonen er registrert i et nasjonalt register i denne konvensjonsstat, dersom den har avgitt en erklæring i samsvar med artikkel 50 nr. 1,«internasjonal sikkerhetsrett»: en sikkerhetsrett som innehas av en kreditor som omfattes av artikkel 2,«internasjonalt register»: den internasjonale registreringstjeneste som opprettes i forbindelse med denne konvensjon eller protokollen,«leieavtale»: en avtale der en person (utleieren) gir en annen person (leietakeren) rett til å sitte med eller råde over en formuesgjenstand (med eller uten mulighet for kjøp) mot leie eller annen betaling,«nasjonal sikkerhetsrett»: en kreditors sikkerhetsrett i en formuesgjenstand, stiftet ved en intern transaksjon som omfattes av en erklæring avgitt i samsvar med artikkel 50 nr. 1,«ikke-avtalemessig rettighet eller sikkerhetsrett»: en rettighet eller sikkerhetsrett gitt i henhold til lovgivningen i en konvensjonsstat som har avgitt en erklæring i samsvar med artikkel 39 for å sikre at en forpliktelse oppfylles, herunder en forpliktelse overfor en stat, et statlig organ eller en mellomstatlig eller privat organisasjon,«melding om en nasjonal sikkerhetsrett»: en melding som er registrert eller skal registreres i det internasjonale registeret, om at det er stiftet en nasjonal sikkerhetsrett,«formuesgjenstand»: en formuesgjenstand tilhørende en kategori som omfattes av artikkel 2,«eksisterende rettighet eller sikkerhetsrett»: enhver type rettighet eller sikkerhetsrett i eller over en formuesgjenstand som stiftes eller oppstår før den dag denne konvensjon får virkning, som fastlagt i artikkel 60 nr. 2 bokstav a),«erstatningsproveny»: proveny av en formuesgjenstand i form av penger eller annet som oppstår som en følge av helt eller delvis tap eller fysisk ødeleggelse av formuesgjenstanden, eller hel eller delvis konfiskering, kondemnering eller rekvirering,«framtidig overdragelse»: en overdragelse som er ment å skulle skje når en bestemt begivenhet finner sted i framtiden, uansett om det er sikkert at den vil finne sted eller ikke,«framtidig internasjonal sikkerhetsrett»: en sikkerhetsrett som er ment å skulle stiftes eller knyttes til en formuesgjenstand som en internasjonal sikkerhetsrett når en bestemt begivenhet finner sted i framtiden (som blant annet kan være at debitor får en sikkerhetsrett i formuesgjenstanden), uansett om det er sikkert at den vil finne sted eller ikke,«framtidig salg»: et salg som er ment å skulle skje når en bestemt begivenhet finner sted i framtiden, uansett om det er sikkert at den vil finne sted eller ikke,«protokoll»: for alle kategorier av formuesgjenstander og tilhørende rettigheter som omfattes av denne konvensjon, protokollen for den aktuelle kategorien av formuesgjenstander og tilhørende rettigheter,«registrert»: registrert i det internasjonale registeret i henhold til [kapittel V](lov/2010-11-12-58/kapv),«registrert sikkerhetsrett»: en internasjonal sikkerhetsrett, en registrerbar ikke-avtalemessig rettighet eller sikkerhetsrett, eller en nasjonal sikkerhetsrett angitt i en melding om nasjonal sikkerhetsrett som er registrert i henhold til [kapittel V](lov/2010-11-12-58/kapv),«registrerbar ikke-avtalemessig rettighet eller sikkerhetsrett»: en ikke-avtalemessig rettighet eller sikkerhetsrett som er registrerbar i henhold til en erklæring deponert i samsvar med artikkel 40,«registreringsmyndighet»: i forbindelse med protokollen, den person eller det organ som er oppført i protokollen eller er utpekt i samsvar med artikkel 17 nr. 2 bokstav b),«reglement»: reglement utarbeidet eller godkjent av tilsynsmyndigheten i henhold til protokollen,«salg»: overføring av eiendomsretten til en formuesgjenstand i henhold til en salgsavtale,«sikret forpliktelse»: en forpliktelse der det er stilt sikkerhet,«avtale om sikkerhetsstillelse»: en avtale der en rettighetsstifter gir eller samtykker i å gi en kravshaver en rettighet (herunder eiendomsrett) i eller over en formuesgjenstand for å sikre at enhver eksisterende eller framtidig forpliktelse som hviler på rettighetsstifteren eller en tredjeperson, blir oppfylt,«sikkerhet»: en sikkerhetsrett stiftet ved en avtale om sikkerhetsstillelse,«tilsynsmyndighet»: i forbindelse med protokollen, tilsynsmyndigheten nevnt i artikkel 17 nr. 1,«avtale om eiendomsforbehold»: en avtale om salg av en formuesgjenstand der eiendomsretten kan overføres først når avtalens vilkår er oppfylt,«uregistrert sikkerhetsrett»: en avtalemessig sikkerhetsrett eller ikke-avtalemessig rettighet eller sikkerhetsrett (men ikke en sikkerhetsrett som omfattes av artikkel 39) som ikke er registrert, enten den er registrerbar etter denne konvensjon eller ikke, og«skrift»: registrering av opplysninger (herunder opplysninger oversendt ved dataoverføring) på en fysisk bærer, eller en i en annen form, som kan gjengis på en fysisk bærer ved en senere anledning, slik at det på en rimelig og fornuftig måte framgår av bæreren at en person har godkjent registreringen.
+Med mindre sammenhengen tilsier noe annet, menes i denne konvensjon med:
+
+1. «avtale»: en avtale om sikkerhetsstillelse, en avtale om eiendomsforbehold eller en leieavtale,
+2. «overdragelse»: en avtale som, enten i form av sikkerhet eller på annen måte, gir mottakeren tilhørende rettigheter, med eller uten overføring av den motsvarende internasjonale sikkerhetsrett,
+3. «tilhørende rettigheter»: alle rettigheter til betaling eller annen ytelse fra en debitor i henhold til avtale, som er sikret gjennom formuesgjenstanden eller er knyttet til den,
+4. «innledning av insolvensbehandling»: tidspunktet da insolvensbehandlingen anses å begynne etter gjeldende insolvenslovgivning,
+5. «kjøper med forbehold»: en kjøper i henhold til en avtale om eiendomsforbehold,
+6. «selger med forbehold»: en selger i henhold til en avtale om eiendomsforbehold,
+7. «salgsavtale»: en avtale om salg av en formuesgjenstand, fra en selger til en kjøper, som ikke er en avtale som definert i bokstav a),
+8. «domstol»: en rettsinstans, et forvaltningsorgan eller en voldgiftsdomstol opprettet av en konvensjonsstat,
+9. «kreditor»: en kravshaver i henhold til en avtale om sikkerhetsstillelse, en selger med forbehold i henhold til en avtale om eiendomsforbehold eller en utleier i henhold til en leieavtale,
+10. «debitor»: en rettighetsstifter i henhold til en avtale om sikkerhetsstillelse, en kjøper med forbehold i henhold til en avtale om eiendomsforbehold, en leietaker i henhold til en leieavtale eller en person hvis rett til en formuesgjenstand er beheftet med en registrerbar ikke-avtalemessig rettighet eller sikkerhetsrett,
+11. «insolvensbestyrer»: en person med fullmakt til å administrere omstrukturering eller avvikling, også på midlertidig basis, herunder en debitor som sitter med formuesgjenstanden dersom dette er tillatt etter gjeldende insolvenslovgivning,
+12. «insolvensbehandling»: konkurs, avvikling eller annen kollektiv rettslig eller forvaltningsmessig behandling, herunder midlertidig sikring, der debitors aktiva og anliggender er undergitt en domstols kontroll eller tilsyn med sikte på omstrukturering eller avvikling,
+13. «berørte personer»:
+
+    1. debitor,
+    2. enhver person som stiller kausjon eller gir eller utsteder påkravsgaranti eller standby remburs eller annen form for kredittforsikring for å sikre at forpliktelser overfor kreditor blir oppfylt,
+    3. enhver annen person som har rettigheter i eller over formuesgjenstanden,
+14. «intern transaksjon»: en transaksjon av en type som oppført i artikkel 2 nr. 2 bokstav a)-c), når hovedtyngden av virksomheten til alle transaksjonens parter, og den aktuelle formuesgjenstanden (som spesifisert i protokollen), befinner seg i samme konvensjonsstat på avtaletidspunktet, og når sikkerhetsretten som stiftes ved transaksjonen er registrert i et nasjonalt register i denne konvensjonsstat, dersom den har avgitt en erklæring i samsvar med artikkel 50 nr. 1,
+15. «internasjonal sikkerhetsrett»: en sikkerhetsrett som innehas av en kreditor som omfattes av artikkel 2,
+16. «internasjonalt register»: den internasjonale registreringstjeneste som opprettes i forbindelse med denne konvensjon eller protokollen,
+17. «leieavtale»: en avtale der en person (utleieren) gir en annen person (leietakeren) rett til å sitte med eller råde over en formuesgjenstand (med eller uten mulighet for kjøp) mot leie eller annen betaling,
+18. «nasjonal sikkerhetsrett»: en kreditors sikkerhetsrett i en formuesgjenstand, stiftet ved en intern transaksjon som omfattes av en erklæring avgitt i samsvar med artikkel 50 nr. 1,
+19. «ikke-avtalemessig rettighet eller sikkerhetsrett»: en rettighet eller sikkerhetsrett gitt i henhold til lovgivningen i en konvensjonsstat som har avgitt en erklæring i samsvar med artikkel 39 for å sikre at en forpliktelse oppfylles, herunder en forpliktelse overfor en stat, et statlig organ eller en mellomstatlig eller privat organisasjon,
+20. «melding om en nasjonal sikkerhetsrett»: en melding som er registrert eller skal registreres i det internasjonale registeret, om at det er stiftet en nasjonal sikkerhetsrett,
+21. «formuesgjenstand»: en formuesgjenstand tilhørende en kategori som omfattes av artikkel 2,
+22. «eksisterende rettighet eller sikkerhetsrett»: enhver type rettighet eller sikkerhetsrett i eller over en formuesgjenstand som stiftes eller oppstår før den dag denne konvensjon får virkning, som fastlagt i artikkel 60 nr. 2 bokstav a),
+23. «erstatningsproveny»: proveny av en formuesgjenstand i form av penger eller annet som oppstår som en følge av helt eller delvis tap eller fysisk ødeleggelse av formuesgjenstanden, eller hel eller delvis konfiskering, kondemnering eller rekvirering,
+24. «framtidig overdragelse»: en overdragelse som er ment å skulle skje når en bestemt begivenhet finner sted i framtiden, uansett om det er sikkert at den vil finne sted eller ikke,
+25. «framtidig internasjonal sikkerhetsrett»: en sikkerhetsrett som er ment å skulle stiftes eller knyttes til en formuesgjenstand som en internasjonal sikkerhetsrett når en bestemt begivenhet finner sted i framtiden (som blant annet kan være at debitor får en sikkerhetsrett i formuesgjenstanden), uansett om det er sikkert at den vil finne sted eller ikke,
+26. «framtidig salg»: et salg som er ment å skulle skje når en bestemt begivenhet finner sted i framtiden, uansett om det er sikkert at den vil finne sted eller ikke,
+
+    1. «protokoll»: for alle kategorier av formuesgjenstander og tilhørende rettigheter som omfattes av denne konvensjon, protokollen for den aktuelle kategorien av formuesgjenstander og tilhørende rettigheter,
+    2. «registrert»: registrert i det internasjonale registeret i henhold til [kapittel V](lov/2010-11-12-58/kapv),
+    3. «registrert sikkerhetsrett»: en internasjonal sikkerhetsrett, en registrerbar ikke-avtalemessig rettighet eller sikkerhetsrett, eller en nasjonal sikkerhetsrett angitt i en melding om nasjonal sikkerhetsrett som er registrert i henhold til [kapittel V](lov/2010-11-12-58/kapv),
+    4. «registrerbar ikke-avtalemessig rettighet eller sikkerhetsrett»: en ikke-avtalemessig rettighet eller sikkerhetsrett som er registrerbar i henhold til en erklæring deponert i samsvar med artikkel 40,
+    5. «registreringsmyndighet»: i forbindelse med protokollen, den person eller det organ som er oppført i protokollen eller er utpekt i samsvar med artikkel 17 nr. 2 bokstav b),
+    6. «reglement»: reglement utarbeidet eller godkjent av tilsynsmyndigheten i henhold til protokollen,
+    7. «salg»: overføring av eiendomsretten til en formuesgjenstand i henhold til en salgsavtale,
+    8. «sikret forpliktelse»: en forpliktelse der det er stilt sikkerhet,
+    9. «avtale om sikkerhetsstillelse»: en avtale der en rettighetsstifter gir eller samtykker i å gi en kravshaver en rettighet (herunder eiendomsrett) i eller over en formuesgjenstand for å sikre at enhver eksisterende eller framtidig forpliktelse som hviler på rettighetsstifteren eller en tredjeperson, blir oppfylt,
+    10. «sikkerhet»: en sikkerhetsrett stiftet ved en avtale om sikkerhetsstillelse,
+    11. «tilsynsmyndighet»: i forbindelse med protokollen, tilsynsmyndigheten nevnt i artikkel 17 nr. 1,
+    12. «avtale om eiendomsforbehold»: en avtale om salg av en formuesgjenstand der eiendomsretten kan overføres først når avtalens vilkår er oppfylt,
+    13. «uregistrert sikkerhetsrett»: en avtalemessig sikkerhetsrett eller ikke-avtalemessig rettighet eller sikkerhetsrett (men ikke en sikkerhetsrett som omfattes av artikkel 39) som ikke er registrert, enten den er registrerbar etter denne konvensjon eller ikke, og
+    14. «skrift»: registrering av opplysninger (herunder opplysninger oversendt ved dataoverføring) på en fysisk bærer, eller en i en annen form, som kan gjengis på en fysisk bærer ved en senere anledning, slik at det på en rimelig og fornuftig måte framgår av bæreren at en person har godkjent registreringen.
 
 ### Art 2. Internasjonal sikkerhetsrett
 
 1. Ved denne konvensjon innføres en ordning for stiftelsen og rettsvirkningene av en internasjonal sikkerhetsrett i forbindelse med bestemte kategorier av mobilt løsøre og tilhørende rettigheter.
-2. I denne konvensjon er en internasjonal sikkerhetsrett i mobilt løsøre en sikkerhetsrett, stiftet i samsvar med artikkel 7, i en individuelt identifiserbar formuesgjenstand tilhørende en kategori av formuesgjenstander omhandlet i nr. 3 og oppført i protokollen, som:tilstås av rettighetsstifter i samsvar med en avtale om sikkerhetsstillelse,innehas av den som er selger med forbehold i samsvar med en avtale om eiendomsforbehold, ellerinnehas av utleier i samsvar med en leieavtale.En sikkerhetsrett som hører under bokstav a), kan ikke samtidig høre under bokstav b) eller c).
-3. Kategoriene nevnt i de foregående ledd, er:flyskrog, flymotorer og helikoptre,rullende jernbanemateriell, ogromutstyr.
+2. I denne konvensjon er en internasjonal sikkerhetsrett i mobilt løsøre en sikkerhetsrett, stiftet i samsvar med artikkel 7, i en individuelt identifiserbar formuesgjenstand tilhørende en kategori av formuesgjenstander omhandlet i nr. 3 og oppført i protokollen, som:
+
+   1. tilstås av rettighetsstifter i samsvar med en avtale om sikkerhetsstillelse,
+   2. innehas av den som er selger med forbehold i samsvar med en avtale om eiendomsforbehold, eller
+   3. innehas av utleier i samsvar med en leieavtale.
+
+   En sikkerhetsrett som hører under bokstav a), kan ikke samtidig høre under bokstav b) eller c).
+3. Kategoriene nevnt i de foregående ledd, er:
+
+   1. flyskrog, flymotorer og helikoptre,
+   2. rullende jernbanemateriell, og
+   3. romutstyr.
 4. Gjeldende lovgivning avgjør om en sikkerhetsrett som omfattes av nr. 2, hører under bokstav a), b) eller c).
 5. En internasjonal sikkerhetsrett i en formuesgjenstand omfatter også erstatningsproveny fra denne formuesgjenstanden.
 
@@ -496,7 +739,12 @@ Med mindre sammenhengen tilsier noe annet, menes i denne konvensjon med:«avtale
 
 ### Art 4. Debitors beliggenhet eller oppholdssted
 
-1. Ved anvendelse av artikkel 3 nr. 1 skal debitor anses å befinne seg i den konvensjonsstatetter hvis lovgivning den er stiftet,der den har sitt vedtektsbestemte sete,der den har sin hovedadministrasjon, ellerder den har sitt forretningssted.
+1. Ved anvendelse av artikkel 3 nr. 1 skal debitor anses å befinne seg i den konvensjonsstat
+
+   1. etter hvis lovgivning den er stiftet,
+   2. der den har sitt vedtektsbestemte sete,
+   3. der den har sin hovedadministrasjon, eller
+   4. der den har sitt forretningssted.
 2. Når det i bokstav d) i foregående ledd er vist til debitors forretningssted, menes hovedforetaket dersom debitor har mer enn ett forretningssted, eller det vanlige bostedet dersom vedkommende ikke har noe forretningssted.
 
 ### Art 5. Fortolkning og gjeldende lovgivning
@@ -515,16 +763,28 @@ Med mindre sammenhengen tilsier noe annet, menes i denne konvensjon med:«avtale
 
 ### Art 7. Formelle krav
 
-En rettighet anses som en internasjonal sikkerhetsrett etter denne konvensjon når avtalen om stiftelse eller fastsettelse av sikkerhetsrettener skriftlig,gjelder en formuesgjenstand som rettighetsstifter, selger med forbehold eller utleier har råderett over,gjør det mulig å identifisere formuesgjenstanden i samsvar med protokollen, ognår det dreier seg om en avtale om sikkerhetsstillelse, gjør det mulig å bestemme de sikrede forpliktelsene, men uten at det er nødvendig å fastsette et beløp eller et sikret maksimumsbeløp.
+En rettighet anses som en internasjonal sikkerhetsrett etter denne konvensjon når avtalen om stiftelse eller fastsettelse av sikkerhetsretten
+
+1. er skriftlig,
+2. gjelder en formuesgjenstand som rettighetsstifter, selger med forbehold eller utleier har råderett over,
+3. gjør det mulig å identifisere formuesgjenstanden i samsvar med protokollen, og
+4. når det dreier seg om en avtale om sikkerhetsstillelse, gjør det mulig å bestemme de sikrede forpliktelsene, men uten at det er nødvendig å fastsette et beløp eller et sikret maksimumsbeløp.
 
 ### Kapittel III. Misligholdsbeføyelser
 
 ### Art 8. Tiltak som kan treffes av kravshaver
 
-1. Ved mislighold som fastsatt i artikkel 11 kan kravshaveren, dersom rettighetsstifteren på et tidspunkt har samtykket, og med forbehold for en eventuell erklæring avgitt av en konvensjonsstat i samsvar med artikkel 54, treffe ett eller flere av følgende tiltak:ta i besittelse eller utøve rådighet over enhver formuesgjenstand vedkommende har sikkerhet i,selge eller leie ut formuesgjenstanden,innkreve eller motta enhver inntekt eller fortjeneste som er et resultat av forvaltning eller bruk av formuesgjenstanden.
+1. Ved mislighold som fastsatt i artikkel 11 kan kravshaveren, dersom rettighetsstifteren på et tidspunkt har samtykket, og med forbehold for en eventuell erklæring avgitt av en konvensjonsstat i samsvar med artikkel 54, treffe ett eller flere av følgende tiltak:
+
+   1. ta i besittelse eller utøve rådighet over enhver formuesgjenstand vedkommende har sikkerhet i,
+   2. selge eller leie ut formuesgjenstanden,
+   3. innkreve eller motta enhver inntekt eller fortjeneste som er et resultat av forvaltning eller bruk av formuesgjenstanden.
 2. Kravshaveren kan også anmode om en domstolsbeslutning som gir tillatelse til eller pålegg om en av handlingene nevnt i foregående ledd.
 3. Alle tiltak oppført i nr. 1 bokstav a), b) eller c) eller i artikkel 13 skal utøves på en kommersielt fornuftig måte. Et tiltak skal anses utøvd på en kommersielt fornuftig måte når det skjer i samsvar med en bestemmelse i avtalen om sikkerhetsstillelse, unntatt når en slik bestemmelse er åpenbart urimelig.
-4. En kravshaver som ønsker å selge eller leie ut en formuesgjenstand i samsvar med nr. 1, skal gi et rimelig skriftlig varsel om det foreslåtte salget eller den foreslåtte utleien til:berørte personer som angitt i artikkel 1 bokstav m) i) og ii), ogberørte personer som angitt i artikkel 1 bokstav m) iii) som har gitt kravshaveren melding om sine rettigheter i rimelig tid før salget eller utleien.
+4. En kravshaver som ønsker å selge eller leie ut en formuesgjenstand i samsvar med nr. 1, skal gi et rimelig skriftlig varsel om det foreslåtte salget eller den foreslåtte utleien til:
+
+   1. berørte personer som angitt i artikkel 1 bokstav m) i) og ii), og
+   2. berørte personer som angitt i artikkel 1 bokstav m) iii) som har gitt kravshaveren melding om sine rettigheter i rimelig tid før salget eller utleien.
 5. Ethvert beløp kravshaveren har innkrevd eller mottatt som en følge av iverksettelse av et tiltak som angitt i nr. 1 eller 2, skal benyttes til å innfri de sikrede forpliktelsene.
 6. Når beløp som kravshaveren har innkrevd eller mottatt som en følge av et tiltak som angitt i nr. 1 eller 2, overstiger det sikrede beløpet og eventuelle rimelige utgifter som er påløpt i forbindelse med tiltaket, skal kravshaveren, med mindre domstolen beslutter noe annet, fordele det overskytende beløpet i prioritert rekkefølge blant innehavere av lavere prioriterte sikkerhetsretter som er registrert, eller som kravshaveren har fått melding om, og utbetale et eventuelt restbeløp til rettighetsstifteren.
 
@@ -538,7 +798,10 @@ En rettighet anses som en internasjonal sikkerhetsrett etter denne konvensjon n�
 
 ### Art 10. Tiltak som kan treffes av selger med forbehold eller av utleier
 
-Ved mislighold av en avtale om eiendomsforbehold eller en leieavtale som fastsatt i artikkel 11 kan selger med forbehold eller utleier, alt etter omstendighetene,med forbehold for enhver erklæring som kan avgis av en konvensjonsstat i samsvar med artikkel 54, si opp avtalen og ta i besittelse eller utøve rådighet over enhver formuesgjenstand som omfattes av avtalen, elleranmode om en domstolsbeslutning som gir tillatelse til eller pålegg om en av disse handlingene.
+Ved mislighold av en avtale om eiendomsforbehold eller en leieavtale som fastsatt i artikkel 11 kan selger med forbehold eller utleier, alt etter omstendighetene,
+
+1. med forbehold for enhver erklæring som kan avgis av en konvensjonsstat i samsvar med artikkel 54, si opp avtalen og ta i besittelse eller utøve rådighet over enhver formuesgjenstand som omfattes av avtalen, eller
+2. anmode om en domstolsbeslutning som gir tillatelse til eller pålegg om en av disse handlingene.
 
 ### Art 11. Begrepet mislighold
 
@@ -551,8 +814,16 @@ Alle ytterligere tiltak som kan treffes etter gjeldende lovgivning, herunder til
 
 ### Art 13. Rettsmidler i påvente av endelig avgjørelse
 
-1. En konvensjonsstat skal, med forbehold for en eventuell erklæring den kan avgi i samsvar med artikkel 55, sørge for at en kreditor som fører bevis for debitors mislighold, i påvente av endelig avgjørelse i saken og i den grad debitor på et tidspunkt har samtykket, på anmodning kan utvirke at en domstol raskt beslutter ett eller flere av følgende tiltak:bevaring av formuesgjenstanden og dets verdi,besittelse av, rådighet over eller oppbevaring av formuesgjenstanden,tilbakeholdelse av formuesgjenstanden, ogutleie eller, unntatt i de tilfeller som er omhandlet i bokstav a)-c), forvaltning av formuesgjenstanden og inntektene av dette.
-2. Domstolen kan, når den treffer beslutning i samsvar med foregående ledd, sette de vilkår som den mener er nødvendige for å beskytte de berørte personer dersom:kreditor i forbindelse med iverksettelse av en beslutning om slike tiltak unnlater å oppfylle noen av sine forpliktelser overfor debitor etter denne konvensjon eller protokollen, ellerkreditors krav helt eller delvis avvises i den endelige beslutningen om kravet.
+1. En konvensjonsstat skal, med forbehold for en eventuell erklæring den kan avgi i samsvar med artikkel 55, sørge for at en kreditor som fører bevis for debitors mislighold, i påvente av endelig avgjørelse i saken og i den grad debitor på et tidspunkt har samtykket, på anmodning kan utvirke at en domstol raskt beslutter ett eller flere av følgende tiltak:
+
+   1. bevaring av formuesgjenstanden og dets verdi,
+   2. besittelse av, rådighet over eller oppbevaring av formuesgjenstanden,
+   3. tilbakeholdelse av formuesgjenstanden, og
+   4. utleie eller, unntatt i de tilfeller som er omhandlet i bokstav a)-c), forvaltning av formuesgjenstanden og inntektene av dette.
+2. Domstolen kan, når den treffer beslutning i samsvar med foregående ledd, sette de vilkår som den mener er nødvendige for å beskytte de berørte personer dersom:
+
+   1. kreditor i forbindelse med iverksettelse av en beslutning om slike tiltak unnlater å oppfylle noen av sine forpliktelser overfor debitor etter denne konvensjon eller protokollen, eller
+   2. kreditors krav helt eller delvis avvises i den endelige beslutningen om kravet.
 3. Domstolen kan, før den treffer beslutning i samsvar med nr. 1, kreve at alle berørte personer får melding om anmodningen.
 4. Ingen bestemmelse i denne artikkel berører anvendelsen av artikkel 8 nr. 3 eller innskrenker muligheten for andre midlertidige tiltak enn dem som er angitt i nr. 1.
 
@@ -568,14 +839,31 @@ To eller flere av de parter som er nevnt i dette kapittel, kan i forbindelsene s
 
 ### Art 16. Det internasjonale registeret
 
-1. Det skal opprettes et internasjonalt register for registrering av:internasjonale sikkerhetsretter, framtidige internasjonale sikkerhetsretter og registrerbare ikke-avtalemessige rettigheter og sikkerhetsretter,overdragelser og framtidige overdragelser av internasjonale sikkerhetsretter,erverv av internasjonale sikkerhetsretter ved lovbestemt eller avtalebestemt subrogasjon etter gjeldende lovgivning,meldinger om nasjonale sikkerhetsretter, ogprioritert rekkefølge for sikkerhetsretter nevnt i bokstav a)-d).
+1. Det skal opprettes et internasjonalt register for registrering av:
+
+   1. internasjonale sikkerhetsretter, framtidige internasjonale sikkerhetsretter og registrerbare ikke-avtalemessige rettigheter og sikkerhetsretter,
+   2. overdragelser og framtidige overdragelser av internasjonale sikkerhetsretter,
+   3. erverv av internasjonale sikkerhetsretter ved lovbestemt eller avtalebestemt subrogasjon etter gjeldende lovgivning,
+   4. meldinger om nasjonale sikkerhetsretter, og
+   5. prioritert rekkefølge for sikkerhetsretter nevnt i bokstav a)-d).
 2. Det kan opprettes forskjellige internasjonale registre for forskjellige kategorier av formuesgjenstander og tilhørende rettigheter.
 3. I dette kapittel og i [kapittel V](lov/2010-11-12-58/kapv) omfatter uttrykket «registrering» også endring, forlengelse eller sletting av en registrering, alt etter sammenhengen.
 
 ### Art 17. Tilsynsmyndigheten og registreringsmyndigheten
 
 1. Det skal utpekes en tilsynsmyndighet som fastsatt i protokollen.
-2. Tilsynsmyndigheten skal:opprette eller sørge for opprettelse av det internasjonale registeret,med mindre det er bestemt noe annet i protokollen, utpeke registreringsmyndigheten og avslutte dens virksomhet,dersom registreringsmyndigheten skiftes ut, sørge for at alle rettigheter som kreves for en kontinuerlig og effektiv drift av det internasjonale registeret, overføres til eller kan overdras til den nye registreringsmyndigheten,etter å ha rådspurt konvensjonsstatene, utarbeide eller godkjenne reglementet for driften av det internasjonale registeret i henhold til protokollen, og sørge for at det offentliggjøres,fastsette administrative rutiner for behandlingen av klager på driften av det internasjonale registeret,føre tilsyn med registreringsmyndigheten og med driften av det internasjonale registeret,på anmodning fra registreringsmyndigheten, gi registreringsmyndigheten den veiledning som tilsynsmyndigheten mener er hensiktsmessig,fastsette og jevnlig gjennomgå avgiftssystemet for det internasjonale registerets tjenester,treffe alle nødvendige tiltak for å sikre at det foreligger en effektiv, meldingsbasert elektronisk registreringsordning for det formål å nå målene i denne konvensjon og i protokollen, ograpportere jevnlig til konvensjonsstatene om hvordan den oppfyller sine forpliktelser etter denne konvensjon og protokollen.
+2. Tilsynsmyndigheten skal:
+
+   1. opprette eller sørge for opprettelse av det internasjonale registeret,
+   2. med mindre det er bestemt noe annet i protokollen, utpeke registreringsmyndigheten og avslutte dens virksomhet,
+   3. dersom registreringsmyndigheten skiftes ut, sørge for at alle rettigheter som kreves for en kontinuerlig og effektiv drift av det internasjonale registeret, overføres til eller kan overdras til den nye registreringsmyndigheten,
+   4. etter å ha rådspurt konvensjonsstatene, utarbeide eller godkjenne reglementet for driften av det internasjonale registeret i henhold til protokollen, og sørge for at det offentliggjøres,
+   5. fastsette administrative rutiner for behandlingen av klager på driften av det internasjonale registeret,
+   6. føre tilsyn med registreringsmyndigheten og med driften av det internasjonale registeret,
+   7. på anmodning fra registreringsmyndigheten, gi registreringsmyndigheten den veiledning som tilsynsmyndigheten mener er hensiktsmessig,
+   8. fastsette og jevnlig gjennomgå avgiftssystemet for det internasjonale registerets tjenester,
+   9. treffe alle nødvendige tiltak for å sikre at det foreligger en effektiv, meldingsbasert elektronisk registreringsordning for det formål å nå målene i denne konvensjon og i protokollen, og
+   10. rapportere jevnlig til konvensjonsstatene om hvordan den oppfyller sine forpliktelser etter denne konvensjon og protokollen.
 3. Tilsynsmyndigheten kan inngå enhver avtale som er nødvendig for at den skal kunne utføre sine oppgaver, herunder enhver avtale som nevnt i artikkel 27 nr. 3.
 4. Tilsynsmyndigheten skal ha alle eiendomsrettigheter til det internasjonale registerets databaser og arkiver.
 5. Registreringsmyndigheten skal sikre en effektiv drift av det internasjonale registeret og utføre de oppgaver den er tillagt i denne konvensjon, i protokollen og i reglementet.
@@ -584,7 +872,11 @@ To eller flere av de parter som er nevnt i dette kapittel, kan i forbindelsene s
 
 ### Art 18. Vilkår for registrering
 
-1. Protokollen og reglementet skal angi vilkårene, herunder kravene til identifisering av formuesgjenstanden, for å kunne:foreta en registrering (samtykke i samsvar med artikkel 20 kan gis elektronisk på forhånd),foreta søk og utstede søkeattester og, med forbehold for dette,sikre fortrolig behandling av opplysninger og dokumenter i det internasjonale registeret, bortsett fra opplysninger og dokumenter som gjelder en registrering.
+1. Protokollen og reglementet skal angi vilkårene, herunder kravene til identifisering av formuesgjenstanden, for å kunne:
+
+   1. foreta en registrering (samtykke i samsvar med artikkel 20 kan gis elektronisk på forhånd),
+   2. foreta søk og utstede søkeattester og, med forbehold for dette,
+   3. sikre fortrolig behandling av opplysninger og dokumenter i det internasjonale registeret, bortsett fra opplysninger og dokumenter som gjelder en registrering.
 2. Registreringsmyndigheten skal ikke ha plikt til å undersøke om et samtykke til registrering i samsvar med artikkel 20 er gitt, eller er gyldig.
 3. Når en sikkerhetsrett som er registrert som en framtidig internasjonal sikkerhetsrett, går over til å bli en internasjonal sikkerhetsrett, skal ytterligere registrering ikke kreves, forutsatt at det er gitt tilstrekkelige opplysninger ved registreringen til at en internasjonal sikkerhetsrett kan registreres.
 4. Registreringsmyndigheten skal sørge for at registreringene føres inn i det internasjonale registerets database og gjøres søkbare i kronologisk orden etter tidspunktet for mottak, og dato og klokkeslett for mottak skal framgå av filen.
@@ -594,7 +886,10 @@ To eller flere av de parter som er nevnt i dette kapittel, kan i forbindelsene s
 
 1. En registrering skal være gyldig bare dersom den foretas i samsvar med artikkel 20.
 2. En registrering er, dersom den er gyldig, fullstendig når de nødvendige opplysningene er innført i det internasjonale registerets database, slik at den er søkbar.
-3. En registrering skal være søkbar i samsvar med foregående ledd når:det internasjonale registeret har gitt den et løpenummer, ogopplysningene gitt ved registreringen, herunder løpenummeret, er lagret på en varig bærer og kan hentes ut gjennom det internasjonale registeret.
+3. En registrering skal være søkbar i samsvar med foregående ledd når:
+
+   1. det internasjonale registeret har gitt den et løpenummer, og
+   2. opplysningene gitt ved registreringen, herunder løpenummeret, er lagret på en varig bærer og kan hentes ut gjennom det internasjonale registeret.
 4. Dersom en sikkerhetsrett som først er registrert som en framtidig internasjonal sikkerhetsrett, går over til å bli en internasjonal sikkerhetsrett, skal denne internasjonale sikkerhetsrett anses å være registrert fra det tidspunkt den framtidige internasjonale sikkerhetsretten ble registrert, forutsatt at denne registreringen fremdeles var gyldig umiddelbart før den internasjonale sikkerhetsretten ble stiftet som fastsatt i artikkel 7.
 5. Nr. 4 skal, med nødvendige tilpasninger, gjelde for registrering av en framtidig overdragelse av en internasjonal sikkerhetsrett.
 6. En registrering skal være søkbar i det internasjonale registerets database i samsvar med de kriterier som er fastsatt i protokollen.
@@ -615,7 +910,10 @@ Registreringen av en internasjonal sikkerhetsrett er gyldig til den slettes, ell
 ### Art 22. Søk
 
 1. Enhver person kan, på den måte som er fastsatt i protokollen og i reglementet, foreta eller be om å få foreta et elektronisk søk i det internasjonale registeret, på sikkerhetsretter eller framtidige internasjonale sikkerhetsretter som er registrert der.
-2. Registreringsmyndigheten skal, på den måte som er fastsatt i protokollen og reglementet, når den mottar en anmodning om søk, utstede en elektronisk søkeattestmed angivelse av alle registrerte opplysninger om formuesgjenstanden, samt dato og klokkeslett for registreringen av opplysningene, ellermed angivelse av at det ikke finnes opplysninger om formuesgjenstanden i det internasjonale registeret.
+2. Registreringsmyndigheten skal, på den måte som er fastsatt i protokollen og reglementet, når den mottar en anmodning om søk, utstede en elektronisk søkeattest
+
+   1. med angivelse av alle registrerte opplysninger om formuesgjenstanden, samt dato og klokkeslett for registreringen av opplysningene, eller
+   2. med angivelse av at det ikke finnes opplysninger om formuesgjenstanden i det internasjonale registeret.
 3. En søkeattest utstedt i samsvar med foregående ledd skal angi at den kreditor som er navngitt i registreringsopplysningene, har ervervet eller har til hensikt å erverve en internasjonal sikkerhetsrett i formuesgjenstanden, men den skal ikke angi om registreringen gjelder en internasjonal sikkerhetsrett eller en framtidig internasjonal sikkerhetsrett, selv om det er mulig å bringe dette på det rene ut fra opplysningene gitt ved registreringen.
 
 ### Art 23. Liste over erklæringer og ikke-avtalemessige rettigheter eller sikkerhetsretter
@@ -624,7 +922,10 @@ Registreringsmyndigheten skal føre en liste over erklæringer, tilbaketrukne er
 
 ### Art 24. Attestens bevisverdi
 
-Et dokument som oppfyller formkravene i reglementet og framstår som en attest utstedt av det internasjonale registeret, er prima facie-bevis på:at det er utstedt av det internasjonale registeret, ogdokumentets innhold, herunder dato og klokkeslett for registreringen.
+Et dokument som oppfyller formkravene i reglementet og framstår som en attest utstedt av det internasjonale registeret, er prima facie-bevis på:
+
+1. at det er utstedt av det internasjonale registeret, og
+2. dokumentets innhold, herunder dato og klokkeslett for registreringen.
 
 ### Art 25. Sletting av registrering
 
@@ -643,7 +944,8 @@ Ingen skal nektes tilgang til det internasjonale registerets registrerings- og s
 
 1. Tilsynsmyndigheten skal ha status som internasjonal juridisk person om dette ikke allerede er tilfellet.
 2. Tilsynsmyndigheten og dens tjenestemenn og ansatte skal nyte godt av immunitet mot rettslig eller administrativ forfølgning som angitt i protokollen.
-3. Tilsynsmyndigheten skal nyte godt av skattefritak og andre privilegier etter avtale med vertsstaten.I dette ledd menes med «vertsstat», staten der tilsynsmyndigheten holder til.
+3. 1. Tilsynsmyndigheten skal nyte godt av skattefritak og andre privilegier etter avtale med vertsstaten.
+   2. I dette ledd menes med «vertsstat», staten der tilsynsmyndigheten holder til.
 4. Det internasjonale registerets eiendeler, dokumenter, databaser og arkiver skal være ukrenkelige og ha immunitet med hensyn til beslag eller annen rettslig eller administrativ forfølgning.
 5. Den som fremmer et krav mot registreringsmyndigheten i samsvar med artikkel 28 nr. 1 eller artikkel 44, skal ha rett til innsyn i de opplysninger og dokumenter som er nødvendige for å kunne fremme kravet.
 6. Tilsynsmyndigheten kan gi avkall på den ukrenkelighet og immunitet som er omhandlet i nr. 4.
@@ -662,24 +964,42 @@ Ingen skal nektes tilgang til det internasjonale registerets registrerings- og s
 ### Art 29. Prioritet for konkurrerende sikkerhetsretter
 
 1. En registrert sikkerhetsrett har prioritet framfor enhver annen sikkerhetsrett som er registrert på et senere tidspunkt, og framfor en uregistrert sikkerhetsrett.
-2. Førstnevnte sikkerhetsretts prioritet etter foregående ledd gjelderselv om den andre sikkerhetsretten var kjent da førstnevnte sikkerhetsrett ble ervervet eller registrert, ogselv for ethvert forskudd som innehaveren av førstnevnte sikkerhetsrett, med kjennskap til den andre sikkerhetsretten, har utbetalt.
-3. Kjøperen erverver sin sikkerhetsrett i formuesgjenstandenmed forbehold for en sikkerhetsrett som var registrert på tidspunktet da sikkerhetsretten ble ervervet, ogfrigjort fra en uregistrert sikkerhetsrett, selv om en slik sikkerhetsrett er kjent for kjøperen.
-4. En kjøper med forbehold eller en leietaker erverver sin sikkerhetsrett i formuesgjenstandenmed forbehold for en sikkerhetsrett som ble registrert før den internasjonale sikkerhetsretten som selger med forbehold eller utleier sitter med, ogfrigjort fra en sikkerhetsrett som ikke var registrert på denne måten på det tidspunktet, selv om en slik sikkerhetsrett er kjent for kjøperen.
+2. Førstnevnte sikkerhetsretts prioritet etter foregående ledd gjelder
+
+   1. selv om den andre sikkerhetsretten var kjent da førstnevnte sikkerhetsrett ble ervervet eller registrert, og
+   2. selv for ethvert forskudd som innehaveren av førstnevnte sikkerhetsrett, med kjennskap til den andre sikkerhetsretten, har utbetalt.
+3. Kjøperen erverver sin sikkerhetsrett i formuesgjenstanden
+
+   1. med forbehold for en sikkerhetsrett som var registrert på tidspunktet da sikkerhetsretten ble ervervet, og
+   2. frigjort fra en uregistrert sikkerhetsrett, selv om en slik sikkerhetsrett er kjent for kjøperen.
+4. En kjøper med forbehold eller en leietaker erverver sin sikkerhetsrett i formuesgjenstanden
+
+   1. med forbehold for en sikkerhetsrett som ble registrert før den internasjonale sikkerhetsretten som selger med forbehold eller utleier sitter med, og
+   2. frigjort fra en sikkerhetsrett som ikke var registrert på denne måten på det tidspunktet, selv om en slik sikkerhetsrett er kjent for kjøperen.
 5. Prioriteringen av konkurrerende sikkerhetsretter eller rettigheter etter denne artikkel kan endres etter avtale mellom innehaverne av disse sikkerhetsretter, men en mottaker av en sikkerhetsrett med lavere prioritet er ikke bundet av en avtale om å vike prioritet, med mindre den prioritetsvikelse som følger av en slik avtale, var registrert på overdragelsestidspunktet.
 6. Enhver prioritet for en sikkerhetsrett i en formuesgjenstand etter denne artikkel gjelder tilsvarende for erstatningsprovenyer.
-7. Denne konvensjonberører ikke en persons rettigheter i en gjenstand som ikke er en formuesgjenstand, og som vedkommende satt med før den ble installert på en formuesgjenstand, dersom disse rettigheter fortsatt består etter installeringen i henhold til gjeldende lovgivning, oger ikke til hinder for at det stiftes rettigheter i en gjenstand som ikke er en formuesgjenstand, og som tidligere har vært installert på en formuesgjenstand, når disse rettigheter er stiftet i henhold til gjeldende lovgivning.
+7. Denne konvensjon
+
+   1. berører ikke en persons rettigheter i en gjenstand som ikke er en formuesgjenstand, og som vedkommende satt med før den ble installert på en formuesgjenstand, dersom disse rettigheter fortsatt består etter installeringen i henhold til gjeldende lovgivning, og
+   2. er ikke til hinder for at det stiftes rettigheter i en gjenstand som ikke er en formuesgjenstand, og som tidligere har vært installert på en formuesgjenstand, når disse rettigheter er stiftet i henhold til gjeldende lovgivning.
 
 ### Art 30. Rettsvirkninger ved insolvens
 
 1. Ved insolvensbehandling mot debitor kan en internasjonal sikkerhetsrett gjøres gjeldende dersom den ble registrert i samsvar med denne konvensjon før insolvensbehandlingen ble innledet.
 2. Ingen bestemmelse i denne artikkel innskrenker muligheten for å gjøre en internasjonal sikkerhetsrett gjeldende under insolvensbehandling når denne sikkerhetsrett kan gjøres gjeldende etter den lovgivning som får anvendelse.
-3. Ingen bestemmelse i denne artikkel berører:rettsregler som får anvendelse ved insolvensbehandling, om omstøtelse av en transaksjon, enten fordi den gir en fortrinnsrett, eller fordi den utgjør en svikaktig overførsel av kreditors rettigheter, ellerprosedyreregler om håndheving av eiendomsrettigheter som er undergitt insolvensbestyrerens kontroll eller tilsyn.
+3. Ingen bestemmelse i denne artikkel berører:
+
+   1. rettsregler som får anvendelse ved insolvensbehandling, om omstøtelse av en transaksjon, enten fordi den gir en fortrinnsrett, eller fordi den utgjør en svikaktig overførsel av kreditors rettigheter, eller
+   2. prosedyreregler om håndheving av eiendomsrettigheter som er undergitt insolvensbestyrerens kontroll eller tilsyn.
 
 ### Kapittel IX. Overdragelse av tilhørende rettigheter og internasjonale sikkerhetsretter, subrogasjonsrettigheter
 
 ### Art 31. Rettsvirkninger ved overdragelse
 
-1. Med mindre partene blir enige om noe annet, skal en overdragelse av tilhørende rettigheter som gjennomføres i samsvar med artikkel 32, også innebære overføring til mottakeren av:den motsvarende internasjonale sikkerhetsrett, ogalle overdragerens sikkerhetsretter og prioriteter etter denne konvensjon.
+1. Med mindre partene blir enige om noe annet, skal en overdragelse av tilhørende rettigheter som gjennomføres i samsvar med artikkel 32, også innebære overføring til mottakeren av:
+
+   1. den motsvarende internasjonale sikkerhetsrett, og
+   2. alle overdragerens sikkerhetsretter og prioriteter etter denne konvensjon.
 2. Ingen bestemmelse i denne konvensjon skal være til hinder for en delvis overdragelse av overdragerens tilhørende rettigheter. Ved en slik delvis overdragelse kan overdrageren og mottakeren bli enige om sine respektive rettigheter med hensyn til den motsvarende internasjonale sikkerhetsrett som er overdratt etter foregående ledd, men slik at debitors stilling ikke svekkes uten dens samtykke.
 3. Med forbehold for nr. 4 skal gjeldende lovgivning avgjøre debitors mulighet for innsigelse og rett til motregning overfor mottakeren.
 4. Debitor kan på ethvert tidspunkt ved skriftlig avtale helt eller delvis gi avkall på den mulighet for innsigelse og rett til motregning som er nevnt i foregående ledd, med unntak av innsigelser som skyldes svikaktig handling fra mottakerens side.
@@ -687,19 +1007,31 @@ Ingen skal nektes tilgang til det internasjonale registerets registrerings- og s
 
 ### Art 32. Formelle krav til overdragelse
 
-1. En overdragelse av tilhørende rettigheter innebærer overføring av den motsvarende internasjonale sikkerhetsrett bare dersom overdragelsener avtalt skriftlig,gjør det mulig å identifisere avtalen som ligger til grunn for de tilhørende rettighetene, ognår de tilhørende rettigheter overdras som sikkerhet, gjør det mulig å bestemme hvilke forpliktelser som sikres ved overdragelsen, i samsvar med protokollen, men uten at det er nødvendig å fastsette et beløp eller et sikret maksimumsbeløp.
+1. En overdragelse av tilhørende rettigheter innebærer overføring av den motsvarende internasjonale sikkerhetsrett bare dersom overdragelsen
+
+   1. er avtalt skriftlig,
+   2. gjør det mulig å identifisere avtalen som ligger til grunn for de tilhørende rettighetene, og
+   3. når de tilhørende rettigheter overdras som sikkerhet, gjør det mulig å bestemme hvilke forpliktelser som sikres ved overdragelsen, i samsvar med protokollen, men uten at det er nødvendig å fastsette et beløp eller et sikret maksimumsbeløp.
 2. En overdragelse av en internasjonal sikkerhetsrett som er stiftet eller fastsatt ved en avtale om sikkerhetsstillelse, er ikke gyldig med mindre enkelte eller samtlige tilhørende rettigheter også overdras.
 3. Denne konvensjon gjelder ikke for en overdragelse av tilhørende rettigheter som ikke medfører overføring av den motsvarende internasjonale sikkerhetsretten.
 
 ### Art 33. Debitors forpliktelser overfor mottaker
 
-1. I den grad tilhørende rettigheter og den motsvarende internasjonale sikkerhetsrett er blitt overført i samsvar med artikkel 31 og 32, er debitor for disse rettigheter og denne sikkerhetsrett bundet av overdragelsen og har plikt til å foreta betaling eller gi annen ytelse til mottakeren, hvis men bare dersom:debitor har fått skriftlig melding om overdragelsen fra overdrageren, eller etter dens fullmakt, ogde tilhørende rettighetene identifiseres i meldingen.
+1. I den grad tilhørende rettigheter og den motsvarende internasjonale sikkerhetsrett er blitt overført i samsvar med artikkel 31 og 32, er debitor for disse rettigheter og denne sikkerhetsrett bundet av overdragelsen og har plikt til å foreta betaling eller gi annen ytelse til mottakeren, hvis men bare dersom:
+
+   1. debitor har fått skriftlig melding om overdragelsen fra overdrageren, eller etter dens fullmakt, og
+   2. de tilhørende rettighetene identifiseres i meldingen.
 2. Betaling eller ytelse fra debitor har frigjørende virkning dersom det skjer i samsvar med foregående ledd, uten at dette berører andre former for betaling eller ytelse som også har frigjørende virkning.
 3. Ingen bestemmelse i denne artikkel berører den prioriterte rekkefølgen for konkurrerende overdragelser.
 
 ### Art 34. Misligholdsbeføyelser i forbindelse med overdragelse som sikkerhet
 
-Dersom overdrageren misligholder sine forpliktelser i henhold til en overdragelse av tilhørende rettigheter og den motsvarende internasjonale sikkerhetsrett som stilles som sikkerhet, skal artikkel 8, artikkel 9 og artikkel 11-14 gjelde i forbindelsene mellom overdrageren og mottakeren (og skal for tilhørende rettigheter gjelde i den grad disse bestemmelser kan anvendes på immaterielle eiendeler) som om:henvisninger til den sikrede forpliktelsen og sikkerheten var henvisninger til forpliktelsen som ble sikret ved overdragelsen av de tilhørende rettighetene og den motsvarende internasjonale sikkerhetsrett, og til sikkerheten som ble stiftet ved overdragelsen,henvisninger til kravshaver eller kreditor og rettighetsstifter eller debitor var henvisninger mottaker og overdrager,henvisninger til innehaver av den internasjonale sikkerhetsretten var henvisninger til mottaker, oghenvisninger til formuesgjenstanden var henvisninger til de overdratte tilhørende rettigheter og den motsvarende internasjonale sikkerhetsrett.
+Dersom overdrageren misligholder sine forpliktelser i henhold til en overdragelse av tilhørende rettigheter og den motsvarende internasjonale sikkerhetsrett som stilles som sikkerhet, skal artikkel 8, artikkel 9 og artikkel 11-14 gjelde i forbindelsene mellom overdrageren og mottakeren (og skal for tilhørende rettigheter gjelde i den grad disse bestemmelser kan anvendes på immaterielle eiendeler) som om:
+
+1. henvisninger til den sikrede forpliktelsen og sikkerheten var henvisninger til forpliktelsen som ble sikret ved overdragelsen av de tilhørende rettighetene og den motsvarende internasjonale sikkerhetsrett, og til sikkerheten som ble stiftet ved overdragelsen,
+2. henvisninger til kravshaver eller kreditor og rettighetsstifter eller debitor var henvisninger mottaker og overdrager,
+3. henvisninger til innehaver av den internasjonale sikkerhetsretten var henvisninger til mottaker, og
+4. henvisninger til formuesgjenstanden var henvisninger til de overdratte tilhørende rettigheter og den motsvarende internasjonale sikkerhetsrett.
 
 ### Art 35. Prioritet for konkurrerende overdragelser
 
@@ -708,8 +1040,17 @@ Dersom overdrageren misligholder sine forpliktelser i henhold til en overdragels
 
 ### Art 36. Mottakers prioritet med hensyn til tilhørende rettigheter
 
-1. En mottaker av tilhørende rettigheter og den motsvarende internasjonale sikkerhetsrett hvis overdragelse er registrert, har prioritet i samsvar med artikkel 35 nr. 1 framfor en annen mottaker av de tilhørende rettighetene baredersom avtalen som ligger til grunn for de tilhørende rettighetene, angir at de er sikret ved eller er knyttet til formuesgjenstanden, ogi den grad de tilhørende rettighetene gjelder en formuesgjenstand.
-2. Ved anvendelse av bokstav b) i foregående ledd gjelder tilhørende rettigheter en formuesgjenstand bare i den grad de består av rettigheter til betaling eller ytelse vedrørende:et beløp som er utbetalt på forskudd og benyttet til å kjøpe formuesgjenstanden,et beløp som er utbetalt på forskudd og benyttet til å kjøpe en annen formuesgjenstand der overdrageren sitter med en annen internasjonal sikkerhetsrett, dersom overdrageren har overført denne sikkerhetsrett til mottakeren og overdragelsen er registrert,prisen som skal betales for formuesgjenstanden,leien som skal betales for formuesgjenstanden, ellerandre forpliktelser som oppstår som en følge av en transaksjon nevnt i bokstav a)-d).
+1. En mottaker av tilhørende rettigheter og den motsvarende internasjonale sikkerhetsrett hvis overdragelse er registrert, har prioritet i samsvar med artikkel 35 nr. 1 framfor en annen mottaker av de tilhørende rettighetene bare
+
+   1. dersom avtalen som ligger til grunn for de tilhørende rettighetene, angir at de er sikret ved eller er knyttet til formuesgjenstanden, og
+   2. i den grad de tilhørende rettighetene gjelder en formuesgjenstand.
+2. Ved anvendelse av bokstav b) i foregående ledd gjelder tilhørende rettigheter en formuesgjenstand bare i den grad de består av rettigheter til betaling eller ytelse vedrørende:
+
+   1. et beløp som er utbetalt på forskudd og benyttet til å kjøpe formuesgjenstanden,
+   2. et beløp som er utbetalt på forskudd og benyttet til å kjøpe en annen formuesgjenstand der overdrageren sitter med en annen internasjonal sikkerhetsrett, dersom overdrageren har overført denne sikkerhetsrett til mottakeren og overdragelsen er registrert,
+   3. prisen som skal betales for formuesgjenstanden,
+   4. leien som skal betales for formuesgjenstanden, eller
+   5. andre forpliktelser som oppstår som en følge av en transaksjon nevnt i bokstav a)-d).
 3. I alle andre tilfeller skal prioriteten for konkurrerende overdragelser av tilhørende rettigheter fastsettes etter gjeldende lovgivning.
 
 ### Art 37. Rettsvirkninger av overdragers insolvens
@@ -725,7 +1066,10 @@ Bestemmelsene i artikkel 30 skal gjelde for behandling av overdragers insolvens 
 
 ### Art 39. Rettigheter som har prioritet uten registrering
 
-1. En konvensjonsstat kan på ethvert tidspunkt, i en erklæring deponert hos protokollens depositar, på generelt eller spesifikt grunnlag angi:hvilke kategorier av ikke-avtalemessige rettigheter eller sikkerhetsretter (bortsett fra rettigheter eller sikkerhetsretter som omfattes av artikkel 40) som etter denne stats lovgivning har prioritet framfor en sikkerhetsrett i en formuesgjenstand tilsvarende den rett som tilkommer innehaveren av en registrert internasjonal sikkerhetsrett, og som skal ha prioritet framfor en registrert internasjonal sikkerhetsrett, enten det er i forbindelse med en insolvensbehandling eller ikke, ogat ingen bestemmelse i denne konvensjon skal berøre den rett som tilkommer en stat eller et statlig organ, en mellomstatlig organisasjon eller en annen privat leverandør av offentlige tjenester til å beslaglegge eller holde tilbake en formuesgjenstand etter denne stats lovgivning i forbindelse med betaling av beløp som organet, organisasjonen eller leverandøren har til gode, og som er direkte knyttet til tjenester utført for denne eller en annen formuesgjenstand.
+1. En konvensjonsstat kan på ethvert tidspunkt, i en erklæring deponert hos protokollens depositar, på generelt eller spesifikt grunnlag angi:
+
+   1. hvilke kategorier av ikke-avtalemessige rettigheter eller sikkerhetsretter (bortsett fra rettigheter eller sikkerhetsretter som omfattes av artikkel 40) som etter denne stats lovgivning har prioritet framfor en sikkerhetsrett i en formuesgjenstand tilsvarende den rett som tilkommer innehaveren av en registrert internasjonal sikkerhetsrett, og som skal ha prioritet framfor en registrert internasjonal sikkerhetsrett, enten det er i forbindelse med en insolvensbehandling eller ikke, og
+   2. at ingen bestemmelse i denne konvensjon skal berøre den rett som tilkommer en stat eller et statlig organ, en mellomstatlig organisasjon eller en annen privat leverandør av offentlige tjenester til å beslaglegge eller holde tilbake en formuesgjenstand etter denne stats lovgivning i forbindelse med betaling av beløp som organet, organisasjonen eller leverandøren har til gode, og som er direkte knyttet til tjenester utført for denne eller en annen formuesgjenstand.
 2. I en erklæring avgitt etter foregående ledd kan det angis kategorier som opprettes etter at erklæringen er deponert.
 3. En ikke-avtalemessig rettighet eller sikkerhetsrett har prioritet framfor en internasjonal sikkerhetsrett hvis og bare hvis den ikke-avtalemessige rettighet eller sikkerhetsrett tilhører en kategori omhandlet i en erklæring som ble deponert før den internasjonale sikkerhetsretten ble registrert.
 4. Uten hensyn til foregående ledd kan en konvensjonsstat på det tidspunkt protokollen ratifiseres, godtas, godkjennes eller tiltres, erklære at en rettighet eller sikkerhetsrett tilhørende en kategori omhandlet i en erklæring som er avgitt i henhold til nr. 1 bokstav a), skal ha prioritet framfor en internasjonal sikkerhetsrett som er registrert før tidspunktet for denne ratifikasjon, godtakelse, godkjenning eller tiltredelse.
@@ -750,7 +1094,10 @@ Denne konvensjon skal gjelde for salg eller framtidig salg av en formuesgjenstan
 ### Art 43. Kompetanse i samsvar med artikkel 13
 
 1. De domstoler i en konvensjonsstat som er valgt av partene, og domstolene i den konvensjonsstat på hvis territorium formuesgjenstanden befinner seg, har kompetanse til å treffe beslutning om tiltakene omhandlet i artikkel 13 nr. 1 bokstav a)-c) og i artikkel 13 nr. 4 med hensyn til denne formuesgjenstand.
-2. Kompetanse til å treffe beslutning om tiltakene omhandlet i artikkel 13 nr. 1 bokstav d) eller andre midlertidige tiltak i henhold til artikkel 13 nr. 4 kan utøves av:de domstoler som er valgt av partene, ellerdomstolene i den konvensjonsstat på hvis territorium debitor befinner seg, men tiltaket kan, ifølge vilkårene i beslutningen, utelukkende iverksettes på denne konvensjonsstats territorium.
+2. Kompetanse til å treffe beslutning om tiltakene omhandlet i artikkel 13 nr. 1 bokstav d) eller andre midlertidige tiltak i henhold til artikkel 13 nr. 4 kan utøves av:
+
+   1. de domstoler som er valgt av partene, eller
+   2. domstolene i den konvensjonsstat på hvis territorium debitor befinner seg, men tiltaket kan, ifølge vilkårene i beslutningen, utelukkende iverksettes på denne konvensjonsstats territorium.
 3. En domstol har kompetanse etter de foregående ledd selv om den endelige avgjørelsen i saken som nevnt i artikkel 13 nr. 1 skal eller kan treffes ved en domstol i en annen konvensjonsstat, eller ved voldgift.
 
 ### Art 44. Kompetanse til å treffe beslutning om tiltak overfor registreringsmyndigheten
@@ -791,7 +1138,11 @@ Protokollen kan fastlegge forholdet mellom denne konvensjon og UNIDROIT-konvensj
 
 ### Art 49. Ikrafttredelse
 
-1. Denne konvensjon trer i kraft den første dagen i måneden som følger etter utløpet av et tidsrom på tre måneder fra den dag det tredje ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokumentet deponeres, men for en kategori av formuesgjenstander som omfattes av en protokoll, barefra den dag protokollen trer i kraft,med forbehold for protokollens bestemmelser, ogmellom de stater som er part i denne konvensjon og i protokollen.
+1. Denne konvensjon trer i kraft den første dagen i måneden som følger etter utløpet av et tidsrom på tre måneder fra den dag det tredje ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokumentet deponeres, men for en kategori av formuesgjenstander som omfattes av en protokoll, bare
+
+   1. fra den dag protokollen trer i kraft,
+   2. med forbehold for protokollens bestemmelser, og
+   3. mellom de stater som er part i denne konvensjon og i protokollen.
 2. For andre stater trer denne konvensjon i kraft den første dagen i måneden som følger etter utløpet av et tidsrom på tre måneder fra den dag deres ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokument deponeres, men bare med hensyn til en kategori av formuesgjenstander som omfattes av en protokoll, og med forbehold for vilkårene i nr. 1 bokstav a)-c) med hensyn til en slik protokoll.
 
 ### Art 50. Interne transaksjoner
@@ -815,7 +1166,11 @@ Protokollen kan fastlegge forholdet mellom denne konvensjon og UNIDROIT-konvensj
 2. En slik erklæring skal uttrykkelig angi de territoriale enheter der denne konvensjon skal gjelde.
 3. Dersom en konvensjonsstat ikke har avgitt erklæring etter nr. 1, skal denne konvensjon gjelde for alle territoriale enheter i vedkommende stat.
 4. Når en konvensjonsstat erklærer at denne konvensjon skal omfatte en eller flere av dens territoriale enheter, kan erklæringer etter denne konvensjon avgis for den enkelte territoriale enhet, og erklæringer avgitt for én territorial enhet kan være forskjellige fra erklæringer avgitt for en annen territorial enhet.
-5. Dersom denne konvensjon, i samsvar med en erklæring avgitt etter nr. 1, omfatter en eller flere territoriale enheter i en konvensjonsstat,skal debitor anses å befinne seg i en konvensjonsstat bare dersom den er stiftet etter gjeldende lovgivning i en territorial enhet der denne konvensjon gjelder, eller dersom den har sitt vedtektsbestemte sete, sin hovedadministrasjon, sitt forretningssted eller sitt vanlige bosted i en territorial enhet der denne konvensjon gjelder,skal enhver henvisning til at formuesgjenstanden befinner seg i en konvensjonsstat, også forstås som at formuesgjenstanden befinner seg i en territorial enhet der denne konvensjon gjelder, ogskal enhver henvisning til forvaltningsmyndighetene i denne konvensjonsstat, også anses å vise til de kompetente forvaltningsmyndigheter i en territorial enhet der denne konvensjon gjelder.
+5. Dersom denne konvensjon, i samsvar med en erklæring avgitt etter nr. 1, omfatter en eller flere territoriale enheter i en konvensjonsstat,
+
+   1. skal debitor anses å befinne seg i en konvensjonsstat bare dersom den er stiftet etter gjeldende lovgivning i en territorial enhet der denne konvensjon gjelder, eller dersom den har sitt vedtektsbestemte sete, sin hovedadministrasjon, sitt forretningssted eller sitt vanlige bosted i en territorial enhet der denne konvensjon gjelder,
+   2. skal enhver henvisning til at formuesgjenstanden befinner seg i en konvensjonsstat, også forstås som at formuesgjenstanden befinner seg i en territorial enhet der denne konvensjon gjelder, og
+   3. skal enhver henvisning til forvaltningsmyndighetene i denne konvensjonsstat, også anses å vise til de kompetente forvaltningsmyndigheter i en territorial enhet der denne konvensjon gjelder.
 
 ### Art 53. Utpeking av domstoler
 
@@ -855,20 +1210,39 @@ En konvensjonsstat kan, på det tidspunkt protokollen ratifiseres, godtas, godkj
 ### Art 60. Overgangsbestemmelser
 
 1. Med mindre en konvensjonsstat på ethvert tidspunkt erklærer noe annet, skal konvensjonen ikke gjelde for en eksisterende rettighet eller sikkerhetsrett, som beholder den prioritet den etter gjeldende lovgivning har før den dag denne konvensjon får virkning.
-2. Ved anvendelse av artikkel 1 bokstav v) og fastsettelse av prioritet etter denne konvensjonmenes med «den dag denne konvensjon får virkning»: med hensyn til en debitor, det tidspunkt denne konvensjon trer i kraft eller det tidspunkt staten der debitor befinner seg blir en konvensjonsstat, alt etter hvilket tidspunkt som kommer sist, oganses debitor å befinne seg i staten der den har sin hovedadministrasjon eller, dersom den ikke har noen hovedadministrasjon, sitt forretningssted eller, dersom den har mer enn ett forretningssted, sitt hovedforetak eller, dersom den ikke har noe forretningssted, sitt vanlige bosted.
+2. Ved anvendelse av artikkel 1 bokstav v) og fastsettelse av prioritet etter denne konvensjon
+
+   1. menes med «den dag denne konvensjon får virkning»: med hensyn til en debitor, det tidspunkt denne konvensjon trer i kraft eller det tidspunkt staten der debitor befinner seg blir en konvensjonsstat, alt etter hvilket tidspunkt som kommer sist, og
+   2. anses debitor å befinne seg i staten der den har sin hovedadministrasjon eller, dersom den ikke har noen hovedadministrasjon, sitt forretningssted eller, dersom den har mer enn ett forretningssted, sitt hovedforetak eller, dersom den ikke har noe forretningssted, sitt vanlige bosted.
 3. En konvensjonsstat kan i sin erklæring etter nr. 1 angi et tidspunkt, som ligger minst tre år fram i tid fra det tidspunkt erklæringen får virkning, da denne konvensjon og protokollen skal ta til å gjelde med hensyn til fastsettelse av prioritet, herunder beskyttelse av eventuell eksisterende prioritet, for eksisterende rettigheter eller sikkerhetsretter som er stiftet i henhold til en avtale inngått på et tidspunkt da debitor befant seg i en stat som nevnt i bokstav b) i foregående ledd, men bare i den grad og på den måte som er angitt i erklæringen.
 
 ### Art 61. Tilsynskonferanser, endringer og andre relaterte spørsmål
 
 1. Depositaren skal hvert år, eller med andre passende mellomrom, utarbeide en rapport til de stater som er part, om hvordan det internasjonale regimet som er innført ved denne konvensjon, har virket i praksis. I sitt arbeid med rapportene skal depositaren ta hensyn til tilsynsmyndighetens rapporter om hvordan den internasjonale registreringsordningen virker.
-2. På anmodning fra minst tjuefem prosent av de stater som er part, skal depositaren fra tid til annen og i samråd med tilsynsmyndigheten innkalle til tilsynskonferanse for partene for å få vurdert:hvordan denne konvensjon anvendes i praksis, og hvorvidt den faktisk letter finansiering mot sikkerhet i aktiva og leie av formuesgjenstander som kommer inn under dens bestemmelser,den rettslige fortolkningen og anvendelsen av bestemmelsene i denne konvensjon og i reglementet,hvordan den internasjonale registreringsordningen virker, hvordan registreringsmyndigheten driver sin virksomhet, og hvordan tilsynsmyndigheten gjennomfører sin oppfølging av den, på grunnlag av rapportene fra tilsynsmyndigheten, oghvorvidt det er ønskelig å endre denne konvensjon eller bestemmelsene om det internasjonale registeret.
+2. På anmodning fra minst tjuefem prosent av de stater som er part, skal depositaren fra tid til annen og i samråd med tilsynsmyndigheten innkalle til tilsynskonferanse for partene for å få vurdert:
+
+   1. hvordan denne konvensjon anvendes i praksis, og hvorvidt den faktisk letter finansiering mot sikkerhet i aktiva og leie av formuesgjenstander som kommer inn under dens bestemmelser,
+   2. den rettslige fortolkningen og anvendelsen av bestemmelsene i denne konvensjon og i reglementet,
+   3. hvordan den internasjonale registreringsordningen virker, hvordan registreringsmyndigheten driver sin virksomhet, og hvordan tilsynsmyndigheten gjennomfører sin oppfølging av den, på grunnlag av rapportene fra tilsynsmyndigheten, og
+   4. hvorvidt det er ønskelig å endre denne konvensjon eller bestemmelsene om det internasjonale registeret.
 3. Med forbehold for nr. 4 skal enhver endring av denne konvensjon godkjennes med minst to tredjedels flertall blant de stater som er part og deltar i konferansen nevnt i foregående ledd, og skal deretter tre i kraft for de stater som har ratifisert, godtatt eller godkjent endringen, når den er ratifisert, godtatt eller godkjent av tre stater i samsvar med bestemmelsene i artikkel 49 om konvensjonens ikrafttredelse.
 4. Når den foreslåtte endringen av denne konvensjon er ment å skulle gjelde for mer enn én kategori av utstyr, skal den også godkjennes med minst to tredjedels flertall blant de stater som er part i den enkelte protokoll og deltar på konferansen nevnt i nr. 2.
 
 ### Art 62. Depositaren og dens oppgaver
 
 1. Ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokumentene skal deponeres ved Det internasjonale institutt for ensartet privatrett (UNIDROIT), heretter kalt depositaren.
-2. Depositaren skal:underrette alle konvensjonsstater om:all ny undertegning eller deponering av et ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokument, med angivelse av tidspunkt,tidspunktet for denne konvensjons ikrafttredelse,alle erklæringer avgitt i samsvar med denne konvensjon, med angivelse av tidspunkt,tilbaketrekning eller endring av erklæringer, med angivelse av tidspunkt, ogvarsler om oppsigelse av denne konvensjon, med angivelse av oppsigelsestidspunkt og tidspunktet da oppsigelsen får virkning,oversende bekreftede kopier av denne konvensjon til alle konvensjonsstater,sørge for at tilsynsmyndigheten og registreringsmyndigheten får kopi av alle ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokumenter, med angivelse av deponeringstidspunkt, av enhver erklæring eller tilbaketrekning eller endring av en erklæring, og av ethvert varsel om oppsigelse, med angivelse av oppsigelsestidspunkt, slik at alle opplysninger er fullt ut og lett tilgjengelige, ogutføre de øvrige oppgaver som vanligvis tillegges en depositar.
+2. Depositaren skal:
+
+   1. underrette alle konvensjonsstater om:
+
+      1. all ny undertegning eller deponering av et ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokument, med angivelse av tidspunkt,
+      2. tidspunktet for denne konvensjons ikrafttredelse,
+      3. alle erklæringer avgitt i samsvar med denne konvensjon, med angivelse av tidspunkt,
+      4. tilbaketrekning eller endring av erklæringer, med angivelse av tidspunkt, og
+      5. varsler om oppsigelse av denne konvensjon, med angivelse av oppsigelsestidspunkt og tidspunktet da oppsigelsen får virkning,
+   2. oversende bekreftede kopier av denne konvensjon til alle konvensjonsstater,
+   3. sørge for at tilsynsmyndigheten og registreringsmyndigheten får kopi av alle ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokumenter, med angivelse av deponeringstidspunkt, av enhver erklæring eller tilbaketrekning eller endring av en erklæring, og av ethvert varsel om oppsigelse, med angivelse av oppsigelsestidspunkt, slik at alle opplysninger er fullt ut og lett tilgjengelige, og
+   4. utføre de øvrige oppgaver som vanligvis tillegges en depositar.
 
 SOM BEKREFTELSE PÅ DETTE har nedenstående befullmektigede undertegnet denne konvensjon.
 
@@ -891,7 +1265,36 @@ HAVE AGREED upon the following provisions relating to aircraft equipment:
 ### Art I. Defined terms
 
 1. In this Protocol, except where the context otherwise requires, terms used in it have the meanings set out in the Convention.
-2. In this Protocol the following terms are employed with the meanings set out below:«aircraft» means aircraft as defined for the purposes of the Chicago Convention which are either airframes with aircraft engines installed thereon or helicopters;«aircraft engines» means aircraft engines (other than those used in military, customs or police services) powered by jet propulsion or turbine or piston technology and:in the case of jet propulsion aircraft engines, have at least 1750 lb of thrust or its equivalent; andin the case of turbine-powered or piston-powered aircraft engines, have at least 550 rated take-off shaft horsepower or its equivalent, together with all modules and other installed, incorporated or attached accessories, parts and equipment and all data, manuals and records relating thereto;«aircraft objects» means airframes, aircraft engines and helicopters;«aircraft register» means a register maintained by a State or a common mark registering authority for the purposes of the Chicago Convention;«airframes» means airframes (other than those used in military, customs or police services) that, when appropriate aircraft engines are installed thereon, are type certified by the competent aviation authority to transport:at least eight (8) persons including crew; orgoods in excess of 2750 kilograms, together with all installed, incorporated or attached accessories, parts and equipment (other than aircraft engines), and all data, manuals and records relating thereto;«authorised party» means the party referred to in Article XIII(3);«Chicago Convention» means the *Convention on International Civil Aviation*, signed at Chicago on 7 December 1944, as amended, and its Annexes;«common mark registering authority» means the authority maintaining a register in accordance with Article 77 of the Chicago Convention as implemented by the Resolution adopted on 14 December 1967 by the Council of the International Civil Aviation Organization on nationality and registration of aircraft operated by international operating agencies;«de-registration of the aircraft» means deletion or removal of the registration of the aircraft from its aircraft register in accordance with the Chicago Convention;«guarantee contract» means a contract entered into by a person as guarantor;«guarantor» means a person who, for the purpose of assuring performance of any obligations in favour of a creditor secured by a security agreement or under an agreement, gives or issues a suretyship or demand guarantee or a standby letter of credit or any other form of credit insurance;«helicopters» means heavier-than-air machines (other than those used in military, customs or police services) supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes and which are type certified by the competent aviation authority to transport:at least five (5) persons including crew; orgoods in excess of 450 kilograms, together with all installed, incorporated or attached accessories, parts and equipment (including rotors), and all data, manuals and records relating thereto;«insolvency-related event» means:the commencement of the insolvency proceedings; orthe declared intention to suspend or actual suspension of payments by the debtor where the creditor's right to institute insolvency proceedings against the debtor or to exercise remedies under the Convention is prevented or suspended by law or State action;«primary insolvency jurisdiction» means the Contracting State in which the centre of the debtor's main interests is situated, which for this purpose shall be deemed to be the place of the debtor's statutory seat or, if there is none, the place where the debtor is incorporated or formed, unless proved otherwise;«registry authority» means the national authority or the common mark registering authority, maintaining an aircraft register in a Contracting State and responsible for the registration and de-registration of an aircraft in accordance with the Chicago Convention; and«State of registry» means, in respect of an aircraft, the State on the national register of which an aircraft is entered or the State of location of the common mark registering authority maintaining the aircraft register.
+2. In this Protocol the following terms are employed with the meanings set out below:
+
+   1. «aircraft» means aircraft as defined for the purposes of the Chicago Convention which are either airframes with aircraft engines installed thereon or helicopters;
+   2. «aircraft engines» means aircraft engines (other than those used in military, customs or police services) powered by jet propulsion or turbine or piston technology and:
+
+      1. in the case of jet propulsion aircraft engines, have at least 1750 lb of thrust or its equivalent; and
+      2. in the case of turbine-powered or piston-powered aircraft engines, have at least 550 rated take-off shaft horsepower or its equivalent, together with all modules and other installed, incorporated or attached accessories, parts and equipment and all data, manuals and records relating thereto;
+   3. «aircraft objects» means airframes, aircraft engines and helicopters;
+   4. «aircraft register» means a register maintained by a State or a common mark registering authority for the purposes of the Chicago Convention;
+   5. «airframes» means airframes (other than those used in military, customs or police services) that, when appropriate aircraft engines are installed thereon, are type certified by the competent aviation authority to transport:
+
+      1. at least eight (8) persons including crew; or
+      2. goods in excess of 2750 kilograms, together with all installed, incorporated or attached accessories, parts and equipment (other than aircraft engines), and all data, manuals and records relating thereto;
+   6. «authorised party» means the party referred to in Article XIII(3);
+   7. «Chicago Convention» means the *Convention on International Civil Aviation*, signed at Chicago on 7 December 1944, as amended, and its Annexes;
+   8. «common mark registering authority» means the authority maintaining a register in accordance with Article 77 of the Chicago Convention as implemented by the Resolution adopted on 14 December 1967 by the Council of the International Civil Aviation Organization on nationality and registration of aircraft operated by international operating agencies;
+   9. «de-registration of the aircraft» means deletion or removal of the registration of the aircraft from its aircraft register in accordance with the Chicago Convention;
+   10. «guarantee contract» means a contract entered into by a person as guarantor;
+   11. «guarantor» means a person who, for the purpose of assuring performance of any obligations in favour of a creditor secured by a security agreement or under an agreement, gives or issues a suretyship or demand guarantee or a standby letter of credit or any other form of credit insurance;
+   12. «helicopters» means heavier-than-air machines (other than those used in military, customs or police services) supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes and which are type certified by the competent aviation authority to transport:
+
+       1. at least five (5) persons including crew; or
+       2. goods in excess of 450 kilograms, together with all installed, incorporated or attached accessories, parts and equipment (including rotors), and all data, manuals and records relating thereto;
+   13. «insolvency-related event» means:
+
+       1. the commencement of the insolvency proceedings; or
+       2. the declared intention to suspend or actual suspension of payments by the debtor where the creditor's right to institute insolvency proceedings against the debtor or to exercise remedies under the Convention is prevented or suspended by law or State action;
+   14. «primary insolvency jurisdiction» means the Contracting State in which the centre of the debtor's main interests is situated, which for this purpose shall be deemed to be the place of the debtor's statutory seat or, if there is none, the place where the debtor is incorporated or formed, unless proved otherwise;
+   15. «registry authority» means the national authority or the common mark registering authority, maintaining an aircraft register in a Contracting State and responsible for the registration and de-registration of an aircraft in accordance with the Chicago Convention; and
+   16. «State of registry» means, in respect of an aircraft, the State on the national register of which an aircraft is entered or the State of location of the common mark registering authority maintaining the aircraft register.
 
 ### Art II. Application of Convention as regards aircraft objects
 
@@ -900,19 +1303,34 @@ HAVE AGREED upon the following provisions relating to aircraft equipment:
 
 ### Art III. Application of Convention to sales
 
-The following provisions of the Convention apply as if references to an agreement creating or providing for an international interest were references to a contract of sale and as if references to an international interest, a prospective international interest, the debtor and the creditor were references to a sale, a prospective sale, the seller and the buyer respectively:Articles 3 and 4;Article 16(1)(a);Article 19(4);Article 20(1) (as regards registration of a contract of sale or a prospective sale);Article 25(2) (as regards a prospective sale); andArticle 30.
+The following provisions of the Convention apply as if references to an agreement creating or providing for an international interest were references to a contract of sale and as if references to an international interest, a prospective international interest, the debtor and the creditor were references to a sale, a prospective sale, the seller and the buyer respectively:
+
+- Articles 3 and 4;
+- Article 16(1)(a);
+- Article 19(4);
+- Article 20(1) (as regards registration of a contract of sale or a prospective sale);
+- Article 25(2) (as regards a prospective sale); and
+- Article 30.
 
 In addition, the general provisions of Article 1, Article 5, Chapters IV to VII, Article 29 (other than Article 29(3) which is replaced by Article XIV(1) and (2)), Chapter X, Chapter XII (other than Article 43), Chapter XIII and Chapter XIV (other than Article 60) shall apply to contracts of sale and prospective sales.
 
 ### Art IV. Sphere of application
 
 1. Without prejudice to Article 3(1) of the Convention, the Convention shall also apply in relation to a helicopter, or to an airframe pertaining to an aircraft, registered in an aircraft register of a Contracting State which is the State of registry, and where such registration is made pursuant to an agreement for registration of the aircraft it is deemed to have been effected at the time of the agreement.
-2. For the purposes of the definition of «internal transaction» in Article 1 of the Convention:an airframe is located in the State of registry of the aircraft of which it is a part;an aircraft engine is located in the State of registry of the aircraft on which it is installed or, if it is not installed on an aircraft, where it is physically located; anda helicopter is located in its State of registry, at the time of the conclusion of the agreement creating or providing for the interest.
+2. For the purposes of the definition of «internal transaction» in Article 1 of the Convention:
+
+   1. an airframe is located in the State of registry of the aircraft of which it is a part;
+   2. an aircraft engine is located in the State of registry of the aircraft on which it is installed or, if it is not installed on an aircraft, where it is physically located; and
+   3. a helicopter is located in its State of registry, at the time of the conclusion of the agreement creating or providing for the interest.
 3. The parties may, by agreement in writing, exclude the application of Article XI and, in their relations with each other, derogate from or vary the effect of any of the provisions of this Protocol except Article IX (2)-(4).
 
 ### Art V. Formalities, effects and registration of contracts of sale
 
-1. For the purposes of this Protocol, a contract of sale is one which:is in writing;relates to an aircraft object of which the seller has power to dispose; andenables the aircraft object to be identified in conformity with this Protocol.
+1. For the purposes of this Protocol, a contract of sale is one which:
+
+   1. is in writing;
+   2. relates to an aircraft object of which the seller has power to dispose; and
+   3. enables the aircraft object to be identified in conformity with this Protocol.
 2. A contract of sale transfers the interest of the seller in the aircraft object to the buyer according to its terms.
 3. Registration of a contract of sale remains effective indefinitely. Registration of a prospective sale remains effective unless discharged or until expiry of the period, if any, specified in the registration.
 
@@ -934,21 +1352,37 @@ A description of an aircraft object that contains its manufacturer's serial numb
 
 ### Art IX. Modification of default remedies provisions
 
-1. In addition to the remedies specified in Chapter III of the Convention, the creditor may, to the extent that the debtor has at any time so agreed and in the circumstances specified in that Chapter:procure the de-registration of the aircraft; andprocure the export and physical transfer of the aircraft object from the territory in which it is situated.
+1. In addition to the remedies specified in Chapter III of the Convention, the creditor may, to the extent that the debtor has at any time so agreed and in the circumstances specified in that Chapter:
+
+   1. procure the de-registration of the aircraft; and
+   2. procure the export and physical transfer of the aircraft object from the territory in which it is situated.
 2. The creditor shall not exercise the remedies specified in the preceding paragraph without the prior consent in writing of the holder of any registered interest ranking in priority to that of the creditor.
 3. Article 8(3) of the Convention shall not apply to aircraft objects. Any remedy given by the Convention in relation to an aircraft object shall be exercised in a commercially reasonable manner. A remedy shall be deemed to be exercised in a commercially reasonable manner where it is exercised in conformity with a provision of the agreement except where such a provision is manifestly unreasonable.
 4. A chargee giving ten or more working days' prior written notice of a proposed sale or lease to interested persons shall be deemed to satisfy the requirement of providing «reasonable prior notice» specified in Article 8(4) of the Convention. The foregoing shall not prevent a chargee and a chargor or a guarantor from agreeing to a longer period of prior notice.
-5. The registry authority in a Contracting State shall, subject to any applicable safety laws and regulations, honour a request for de-registration and export if:the request is properly submitted by the authorised party under a recorded irrevocable deregistration and export request authorisation; andthe authorised party certifies to the registry authority, if required by that authority, that all registered interests ranking in priority to that of the creditor in whose favour the authorisation has been issued have been discharged or that the holders of such interests have consented to the de-registration and export.
-6. A chargee proposing to procure the de-registration and export of an aircraft under paragraph 1 otherwise than pursuant to a court order shall give reasonable prior notice in writing of the proposed deregistration and export to:interested persons specified in Article 1(m)(i) and (ii) of the Convention; andinterested persons specified in Article 1(m)(iii) of the Convention who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.
+5. The registry authority in a Contracting State shall, subject to any applicable safety laws and regulations, honour a request for de-registration and export if:
+
+   1. the request is properly submitted by the authorised party under a recorded irrevocable deregistration and export request authorisation; and
+   2. the authorised party certifies to the registry authority, if required by that authority, that all registered interests ranking in priority to that of the creditor in whose favour the authorisation has been issued have been discharged or that the holders of such interests have consented to the de-registration and export.
+6. A chargee proposing to procure the de-registration and export of an aircraft under paragraph 1 otherwise than pursuant to a court order shall give reasonable prior notice in writing of the proposed deregistration and export to:
+
+   1. interested persons specified in Article 1(m)(i) and (ii) of the Convention; and
+   2. interested persons specified in Article 1(m)(iii) of the Convention who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.
 
 ### Art X. Modification of provisions regarding relief pending final determination
 
 1. This Article applies only where a Contracting State has made a declaration under Article XXX(2) and to the extent stated in such declaration.
 2. For the purposes of Article 13(1) of the Convention, «speedy» in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.
-3. Article 13(1) of the Convention applies with the following being added immediately after sub-paragraph (d):if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom»,and Article 43(2) applies with the insertion after the words «Article 13(1)(d)» of the words «and (e)».
+3. Article 13(1) of the Convention applies with the following being added immediately after sub-paragraph (d):
+
+   1. if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom»,
+
+   and Article 43(2) applies with the insertion after the words «Article 13(1)(d)» of the words «and (e)».
 4. Ownership or any other interest of the debtor passing on a sale under the preceding paragraph is free from any other interest over which the creditor's international interest has priority under the provisions of Article 29 of the Convention.
 5. The creditor and the debtor or any other interested person may agree in writing to exclude the application of Article 13(2) of the Convention.
-6. With regard to the remedies in Article IX(1):they shall be made available by the registry authority and other administrative authorities, as applicable, in a Contracting State no later than five working days after the creditor notifies such authorities that the relief specified in Article IX(1) is granted or, in the case of relief granted by a foreign court, recognised by a court of that Contracting State, and that the creditor is entitled to procure those remedies in accordance with the Convention; andthe applicable authorities shall expeditiously co-operate with and assist the creditor in the exercise of such remedies in conformity with the applicable aviation safety laws and regulations.
+6. With regard to the remedies in Article IX(1):
+
+   1. they shall be made available by the registry authority and other administrative authorities, as applicable, in a Contracting State no later than five working days after the creditor notifies such authorities that the relief specified in Article IX(1) is granted or, in the case of relief granted by a foreign court, recognised by a court of that Contracting State, and that the creditor is entitled to procure those remedies in accordance with the Convention; and
+   2. the applicable authorities shall expeditiously co-operate with and assist the creditor in the exercise of such remedies in conformity with the applicable aviation safety laws and regulations.
 7. Paragraphs 2 and 6 shall not affect any applicable aviation safety laws and regulations.
 
 ### Art XI. Remedies on insolvency
@@ -957,13 +1391,22 @@ A description of an aircraft object that contains its manufacturer's serial numb
 
 *Alternative A*
 
-1. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, shall, subject to paragraph 7, give possession of the aircraft object to the creditor no later than the earlier of:the end of the waiting period; andthe date on which the creditor would be entitled to possession of the aircraft object if this Article did not apply.
+1. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, shall, subject to paragraph 7, give possession of the aircraft object to the creditor no later than the earlier of:
+
+   1. the end of the waiting period; and
+   2. the date on which the creditor would be entitled to possession of the aircraft object if this Article did not apply.
 2. For the purposes of this Article, the «waiting period» shall be the period specified in a declaration of the Contracting State which is the primary insolvency jurisdiction.
 3. References in this Article to the «insolvency administrator» shall be to that person in its official, not in its personal, capacity.
-4. Unless and until the creditor is given the opportunity to take possession under paragraph 2:the insolvency administrator or the debtor, as applicable, shall preserve the aircraft object and maintain it and its value in accordance with the agreement; andthe creditor shall be entitled to apply for any other forms of interim relief available under the applicable law.
+4. Unless and until the creditor is given the opportunity to take possession under paragraph 2:
+
+   1. the insolvency administrator or the debtor, as applicable, shall preserve the aircraft object and maintain it and its value in accordance with the agreement; and
+   2. the creditor shall be entitled to apply for any other forms of interim relief available under the applicable law.
 5. sub-paragraph (a) of the preceding paragraph shall not preclude the use of the aircraft object under arrangements designed to preserve the aircraft object and maintain it and its value.
 6. The insolvency administrator or the debtor, as applicable, may retain possession of the aircraft object where, by the time specified in paragraph 2, it has cured all defaults other than a default constituted by the opening of insolvency proceedings and has agreed to perform all future obligations under the agreement. A second waiting period shall not apply in respect of a default in the performance of such future obligations.
-7. With regard to the remedies in Article IX(1):they shall be made available by the registry authority and the administrative authorities in a Contracting State, as applicable, no later than five working days after the date on which the creditor notifies such authorities that it is entitled to procure those remedies in accordance with the Convention; andthe applicable authorities shall expeditiously co-operate with and assist the creditor in the exercise of such remedies in conformity with the applicable aviation safety laws and regulations.
+7. With regard to the remedies in Article IX(1):
+
+   1. they shall be made available by the registry authority and the administrative authorities in a Contracting State, as applicable, no later than five working days after the date on which the creditor notifies such authorities that it is entitled to procure those remedies in accordance with the Convention; and
+   2. the applicable authorities shall expeditiously co-operate with and assist the creditor in the exercise of such remedies in conformity with the applicable aviation safety laws and regulations.
 8. No exercise of remedies permitted by the Convention or this Protocol may be prevented or delayed after the date specified in paragraph 2.
 9. No obligations of the debtor under the agreement may be modified without the consent of the creditor.
 10. Nothing in the preceding paragraph shall be construed to affect the authority, if any, of the insolvency administrator under the applicable law to terminate the agreement.
@@ -972,7 +1415,10 @@ A description of an aircraft object that contains its manufacturer's serial numb
 
 *Alternative B*
 
-1. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, upon the request of the creditor, shall give notice to the creditor within the time specified in a declaration of a Contracting State pursuant to Article XXX(3) whether it will:cure all defaults other than a default constituted by the opening of insolvency proceedings and agree to perform all future obligations, under the agreement and related transaction documents; orgive the creditor the opportunity to take possession of the aircraft object, in accordance with the applicable law.
+1. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, upon the request of the creditor, shall give notice to the creditor within the time specified in a declaration of a Contracting State pursuant to Article XXX(3) whether it will:
+
+   1. cure all defaults other than a default constituted by the opening of insolvency proceedings and agree to perform all future obligations, under the agreement and related transaction documents; or
+   2. give the creditor the opportunity to take possession of the aircraft object, in accordance with the applicable law.
 2. The applicable law referred to in sub-paragraph (b) of the preceding paragraph may permit the court to require the taking of any additional step or the provision of any additional guarantee.
 3. The creditor shall provide evidence of its claims and proof that its international interest has been registered.
 4. If the insolvency administrator or the debtor, as applicable, does not give notice in conformity with paragraph 2, or when the insolvency administrator or the debtor has declared that it will give the creditor the opportunity to take possession of the aircraft object but fails to do so, the court may permit the creditor to take possession of the aircraft object upon such terms as the court may order and may require the taking of any additional step or the provision of any additional guarantee.
@@ -999,11 +1445,16 @@ A description of an aircraft object that contains its manufacturer's serial numb
 
 ### Art XV. Modification of assignment provisions
 
-Article 33(1) of the Convention applies as if the following were added immediately after sub-paragraph (b):«and (c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee.»
+Article 33(1) of the Convention applies as if the following were added immediately after sub-paragraph (b):
+
+- «and (c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee.»
 
 ### Art XVI. Debtor provisions
 
-1. In the absence of a default within the meaning of Article 11 of the Convention, the debtor shall be entitled to the quiet possession and use of the object in accordance with the agreement as against:its creditor and the holder of any interest from which the debtor takes free pursuant to Article 29(4) of the Convention or, in the capacity of buyer, Article XIV(1) of this Protocol, unless and to the extent that the debtor has otherwise agreed; andthe holder of any interest to which the debtor's right or interest is subject pursuant to Article 29(4) of the Convention or, in the capacity of buyer, Article XIV(2) of this Protocol, but only to the extent, if any, that such holder has agreed.
+1. In the absence of a default within the meaning of Article 11 of the Convention, the debtor shall be entitled to the quiet possession and use of the object in accordance with the agreement as against:
+
+   1. its creditor and the holder of any interest from which the debtor takes free pursuant to Article 29(4) of the Convention or, in the capacity of buyer, Article XIV(1) of this Protocol, unless and to the extent that the debtor has otherwise agreed; and
+   2. the holder of any interest to which the debtor's right or interest is subject pursuant to Article 29(4) of the Convention or, in the capacity of buyer, Article XIV(2) of this Protocol, but only to the extent, if any, that such holder has agreed.
 2. Nothing in the Convention or this Protocol affects the liability of a creditor for any breach of the agreement under the applicable law in so far as that agreement relates to an aircraft object.
 
 ### Chapter III. Registry provisions relating to international interests in aircraft objects
@@ -1087,7 +1538,11 @@ The Convention shall supersede the *UNIDROIT Convention on International Financi
 2. Any such declaration shall state expressly the territorial units to which this Protocol applies.
 3. If a Contracting State has not made any declaration under paragraph 1, this Protocol shall apply to all territorial units of that State.
 4. Where a Contracting State extends this Protocol to one or more of its territorial units, declarations permitted under this Protocol may be made in respect of each such territorial unit, and the declarations made in respect of one territorial unit may be different from those made in respect of another territorial unit.
-5. If by virtue of a declaration under paragraph 1, this Protocol extends to one or more territorial units of a Contracting State:the debtor is considered to be situated in a Contracting State only if it is incorporated or formed under a law in force in a territorial unit to which the Convention and this Protocol apply or if it has its registered office or statutory seat, centre of administration, place of business or habitual residence in a territorial unit to which the Convention and this Protocol apply;any reference to the location of the object in a Contracting State refers to the location of the object in a territorial unit to which the Convention and this Protocol apply; andany reference to the administrative authorities in that Contracting State shall be construed as referring to the administrative authorities having jurisdiction in a territorial unit to which the Convention and this Protocol apply and any reference to the national register or to the registry authority in that Contracting State shall be construed as referring to the aircraft register in force or to the registry authority having jurisdiction in the territorial unit or units to which the Convention and this Protocol apply.
+5. If by virtue of a declaration under paragraph 1, this Protocol extends to one or more territorial units of a Contracting State:
+
+   1. the debtor is considered to be situated in a Contracting State only if it is incorporated or formed under a law in force in a territorial unit to which the Convention and this Protocol apply or if it has its registered office or statutory seat, centre of administration, place of business or habitual residence in a territorial unit to which the Convention and this Protocol apply;
+   2. any reference to the location of the object in a Contracting State refers to the location of the object in a territorial unit to which the Convention and this Protocol apply; and
+   3. any reference to the administrative authorities in that Contracting State shall be construed as referring to the administrative authorities having jurisdiction in a territorial unit to which the Convention and this Protocol apply and any reference to the national register or to the registry authority in that Contracting State shall be construed as referring to the aircraft register in force or to the registry authority having jurisdiction in the territorial unit or units to which the Convention and this Protocol apply.
 
 ### Art XXX. Declarations relating to certain provisions
 
@@ -1126,13 +1581,29 @@ Declarations made under the Convention, including those made under Articles 39, 
 ### Art XXXVI. Review Conferences, amendments and related matters
 
 1. The Depositary, in consultation with the Supervisory Authority, shall prepare reports yearly, or at such other time as the circumstances may require, for the States Parties as to the manner in which the international regime established in the Convention as amended by this Protocol has operated in practice. In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
-2. At the request of not less than twenty-five per cent of the States Parties, Review Conferences of the States Parties shall be convened from time to time by the Depositary, in consultation with the Supervisory Authority, to consider:the practical operation of the Convention as amended by this Protocol and its effectiveness in facilitating the asset-based financing and leasing of the objects covered by its terms;the judicial interpretation given to, and the application made of the terms of this Protocol and the regulations;the functioning of the international registration system, the performance of the Registrar and its oversight by the Supervisory Authority, taking into account the reports of the Supervisory Authority; andwhether any modifications to this Protocol or the arrangements relating to the International Registry are desirable.
+2. At the request of not less than twenty-five per cent of the States Parties, Review Conferences of the States Parties shall be convened from time to time by the Depositary, in consultation with the Supervisory Authority, to consider:
+
+   1. the practical operation of the Convention as amended by this Protocol and its effectiveness in facilitating the asset-based financing and leasing of the objects covered by its terms;
+   2. the judicial interpretation given to, and the application made of the terms of this Protocol and the regulations;
+   3. the functioning of the international registration system, the performance of the Registrar and its oversight by the Supervisory Authority, taking into account the reports of the Supervisory Authority; and
+   4. whether any modifications to this Protocol or the arrangements relating to the International Registry are desirable.
 3. Any amendment to this Protocol shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when it has been ratified, accepted or approved by eight States in accordance with the provisions of Article XXVIII relating to its entry into force.
 
 ### Art XXXVII. Depositary and its functions
 
 1. Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
-2. The Depositary shall:inform all Contracting States of:each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;the date of entry into force of this Protocol;each declaration made in accordance with this Protocol, together with the date thereof;the withdrawal or amendment of any declaration, together with the date thereof; andthe notification of any denunciation of this Protocol together with the date thereof and the date on which it takes effect;transmit certified true copies of this Protocol to all Contracting States;provide the Supervisory Authority and the Registrar with a copy of each instrument of ratification, acceptance, approval or accession, together with the date of deposit thereof, of each declaration or withdrawal or amendment of a declaration and of each notification of denunciation, together with the date of notification thereof, so that the information contained therein is easily and fully available; andperform such other functions customary for depositaries.
+2. The Depositary shall:
+
+   1. inform all Contracting States of:
+
+      1. each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;
+      2. the date of entry into force of this Protocol;
+      3. each declaration made in accordance with this Protocol, together with the date thereof;
+      4. the withdrawal or amendment of any declaration, together with the date thereof; and
+      5. the notification of any denunciation of this Protocol together with the date thereof and the date on which it takes effect;
+   2. transmit certified true copies of this Protocol to all Contracting States;
+   3. provide the Supervisory Authority and the Registrar with a copy of each instrument of ratification, acceptance, approval or accession, together with the date of deposit thereof, of each declaration or withdrawal or amendment of a declaration and of each notification of denunciation, together with the date of notification thereof, so that the information contained therein is easily and fully available; and
+   4. perform such other functions customary for depositaries.
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorised, have signed this Protocol.
 
@@ -1150,7 +1621,13 @@ Re: Irrevocable De-Registration and Export Request Authorisation
 
 The undersigned is the registered [operator] [owner]1 of the [insert the airframe/helicopter manufacturer name and model number] bearing manufacturers serial number [insert manufacturer's serial number] and registration [number] [mark] [insert registration number/mark] (together with all installed, incorporated or attached accessories, parts and equipment, the «aircraft»).
 
-This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] («the authorised party») under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment. In accordance with that Article, the undersigned hereby requests:recognition that the authorised party or the person it certifies as its designee is the sole person entitled to:procure the de-registration of the aircraft from the [insert name of aircraft register] maintained by the [insert name of registry authority] for the purposes of Chapter III of the *Convention on International Civil Aviation*, signed at Chicago, on 7 December 1944, andprocure the export and physical transfer of the aircraft from [ insert name of country]; Andconfirmation that the authorised party or the person it certifies as its designee may take the action specified in clause (i) above on written demand without the consent of the undersigned and that, upon such demand, the authorities in [insert name of country] shall co-operate with the authorised party with a view to the speedy completion of such action.
+This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] («the authorised party») under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment. In accordance with that Article, the undersigned hereby requests:
+
+1. recognition that the authorised party or the person it certifies as its designee is the sole person entitled to:
+
+   1. procure the de-registration of the aircraft from the [insert name of aircraft register] maintained by the [insert name of registry authority] for the purposes of Chapter III of the *Convention on International Civil Aviation*, signed at Chicago, on 7 December 1944, and
+   2. procure the export and physical transfer of the aircraft from [ insert name of country]; And
+2. confirmation that the authorised party or the person it certifies as its designee may take the action specified in clause (i) above on written demand without the consent of the undersigned and that, upon such demand, the authorities in [insert name of country] shall co-operate with the authorised party with a view to the speedy completion of such action.
 
 The rights in favour of the authorised party established by this instrument may not be revoked by the undersigned without the written consent of the authorised party.
 
@@ -1183,7 +1660,36 @@ ER ENIGE OM følgende bestemmelser om luftfartøysløsøre:
 ### Art I. Definisjoner
 
 1. Uttrykkene som benyttes i denne protokoll, har den samme betydning som i konvensjonen, med mindre sammenhengen tilsier noe annet.
-2. denne protokoll menes med«luftfartøy»: luftfartøy som definert i Chicago-konvensjonen, enten flyskrog med flymotorer installert eller helikoptre,«flymotorer»: jetdrevne, turbindrevne eller stempeldrevne flymotorer (men ikke de som benyttes av forsvaret, tollvesenet eller politiet), som:i jetdrevne flymotorer har en reaksjonskraft på minst 1750 pund eller tilsvarende, ogi turbindrevne eller stempeldrevne flymotorer har en nominell effekt på propellakselen på minst 550 hk eller tilsvarende, og videre alt tilbehør og alle moduler, deler og utstyrskomponenter som er montert på, integrert i eller festet til motorene, samt alle data, håndbøker og registre i denne forbindelse,«luftfartøysgjenstander»: flyskrog, flymotorer og helikoptre,«luftfartøysregister»: et register som føres av en stat eller en felles registreringsmyndighet for Chicago-konvensjonens formål,«flyskrog»: flyskrog (men ikke de som benyttes av forsvaret, tollvesenet eller politiet) som, når de rette flymotorer er installert, er typesertifisert av den kompetente luftfartsmyndighet for transport av:minst åtte (8) personer inkludert besetning, ellergods over 2750 kg, og videre alt tilbehør og alle deler og utstyrskomponenter (bortsett fra flymotorer) som er påmontert, integrert eller festet, samt alle data, håndbøker og registre i denne forbindelse,«bemyndiget part»: den part som er nevnt i artikkel XIII nr. 3,«Chicago-konvensjonen»: Overenskomst om internasjonal sivil luftfart, undertegnet i Chicago 7. desember 1944, med endringer og vedlegg,«felles registreringsmyndighet»: den myndighet som fører et register i samsvar med artikkel 77 i Chicago-konvensjonen, slik den gjennomføres ved resolusjon vedtatt av Rådet for Den internasjonale sivile luftfartsorganisasjon den 14. desember 1967 om nasjonalitet for og registrering av luftfartøyer som drives av internasjonale driftsorganisasjoner,«avregistrering av luftfartøyet»: sletting eller fjerning av luftfartøyets registrering i luftfartøysregisteret, i samsvar med Chicago-konvensjonen,«garantiavtale»: en avtale der en person går inn som garantist,«garantist»: en person som stiller kausjon eller gir eller utsteder påkravsgaranti eller standby remburs eller annen form for kredittforsikring for å sikre at forpliktelser overfor en kreditor, sikret ved en avtale om sikkerhetsstillelse eller i henhold til avtale, blir oppfylt,«helikopter»: en maskin som er tyngre enn luft (men ikke de som benyttes av forsvaret, tollvesenet eller politiet) som under flyging hovedsakelig holdes oppe av en oppdrift skapt av en eller flere motordrevne rotorer installert på overveiende vertikale aksler, og som er typesertifisert av den kompetente luftfartsmyndighet til transport av:minst fem (5) personer inkludert besetning, ellergods over 450 kg, og videre alt tilbehør og alle deler og utstyrskomponenter (herunder rotorer) som er påmontert, integrert eller festet, samt alle data, håndbøker og registre i denne forbindelse,«insolvenssituasjon»:innledning av insolvensbehandling, ellerdebitors erklærte hensikt om å gå til betalingsinnstilling eller den faktiske betalingsinnstillingen, når loven eller en handling fra statens side hindrer eller stiller i bero kreditors rett til å iverksette insolvensbehandling overfor debitor eller til å treffe tiltak i henhold til konvensjonen,«hovedjurisdiksjon ved insolvens»: konvensjonsstaten der debitor har hovedtyngden av sin virksomhet, som for dette formål og med mindre det motsatte blir bevist, skal anses å være debitors vedtektsbestemte sete, eller om dette ikke finnes, stedet der debitor ble stiftet,«registermyndighet»: den nasjonale myndighet eller den felles registreringsmyndighet som fører et luftfartøysregister i en konvensjonsstat og har ansvar for registrering og avregistrering av et luftfartøy i samsvar med Chicago-konvensjonen, og«registreringsstat»: med hensyn til et luftfartøy, den stat hvis nasjonale register benyttes til å registrere et luftfartøy, eller staten der den felles registreringsmyndighet som fører luftfartøysregisteret, holder til.
+2. denne protokoll menes med
+
+   1. «luftfartøy»: luftfartøy som definert i Chicago-konvensjonen, enten flyskrog med flymotorer installert eller helikoptre,
+   2. «flymotorer»: jetdrevne, turbindrevne eller stempeldrevne flymotorer (men ikke de som benyttes av forsvaret, tollvesenet eller politiet), som:
+
+      1. i jetdrevne flymotorer har en reaksjonskraft på minst 1750 pund eller tilsvarende, og
+      2. i turbindrevne eller stempeldrevne flymotorer har en nominell effekt på propellakselen på minst 550 hk eller tilsvarende, og videre alt tilbehør og alle moduler, deler og utstyrskomponenter som er montert på, integrert i eller festet til motorene, samt alle data, håndbøker og registre i denne forbindelse,
+   3. «luftfartøysgjenstander»: flyskrog, flymotorer og helikoptre,
+   4. «luftfartøysregister»: et register som føres av en stat eller en felles registreringsmyndighet for Chicago-konvensjonens formål,
+   5. «flyskrog»: flyskrog (men ikke de som benyttes av forsvaret, tollvesenet eller politiet) som, når de rette flymotorer er installert, er typesertifisert av den kompetente luftfartsmyndighet for transport av:
+
+      1. minst åtte (8) personer inkludert besetning, eller
+      2. gods over 2750 kg, og videre alt tilbehør og alle deler og utstyrskomponenter (bortsett fra flymotorer) som er påmontert, integrert eller festet, samt alle data, håndbøker og registre i denne forbindelse,
+   6. «bemyndiget part»: den part som er nevnt i artikkel XIII nr. 3,
+   7. «Chicago-konvensjonen»: Overenskomst om internasjonal sivil luftfart, undertegnet i Chicago 7. desember 1944, med endringer og vedlegg,
+   8. «felles registreringsmyndighet»: den myndighet som fører et register i samsvar med artikkel 77 i Chicago-konvensjonen, slik den gjennomføres ved resolusjon vedtatt av Rådet for Den internasjonale sivile luftfartsorganisasjon den 14. desember 1967 om nasjonalitet for og registrering av luftfartøyer som drives av internasjonale driftsorganisasjoner,
+   9. «avregistrering av luftfartøyet»: sletting eller fjerning av luftfartøyets registrering i luftfartøysregisteret, i samsvar med Chicago-konvensjonen,
+   10. «garantiavtale»: en avtale der en person går inn som garantist,
+   11. «garantist»: en person som stiller kausjon eller gir eller utsteder påkravsgaranti eller standby remburs eller annen form for kredittforsikring for å sikre at forpliktelser overfor en kreditor, sikret ved en avtale om sikkerhetsstillelse eller i henhold til avtale, blir oppfylt,
+   12. «helikopter»: en maskin som er tyngre enn luft (men ikke de som benyttes av forsvaret, tollvesenet eller politiet) som under flyging hovedsakelig holdes oppe av en oppdrift skapt av en eller flere motordrevne rotorer installert på overveiende vertikale aksler, og som er typesertifisert av den kompetente luftfartsmyndighet til transport av:
+
+       1. minst fem (5) personer inkludert besetning, eller
+       2. gods over 450 kg, og videre alt tilbehør og alle deler og utstyrskomponenter (herunder rotorer) som er påmontert, integrert eller festet, samt alle data, håndbøker og registre i denne forbindelse,
+   13. «insolvenssituasjon»:
+
+       1. innledning av insolvensbehandling, eller
+       2. debitors erklærte hensikt om å gå til betalingsinnstilling eller den faktiske betalingsinnstillingen, når loven eller en handling fra statens side hindrer eller stiller i bero kreditors rett til å iverksette insolvensbehandling overfor debitor eller til å treffe tiltak i henhold til konvensjonen,
+   14. «hovedjurisdiksjon ved insolvens»: konvensjonsstaten der debitor har hovedtyngden av sin virksomhet, som for dette formål og med mindre det motsatte blir bevist, skal anses å være debitors vedtektsbestemte sete, eller om dette ikke finnes, stedet der debitor ble stiftet,
+   15. «registermyndighet»: den nasjonale myndighet eller den felles registreringsmyndighet som fører et luftfartøysregister i en konvensjonsstat og har ansvar for registrering og avregistrering av et luftfartøy i samsvar med Chicago-konvensjonen, og
+   16. «registreringsstat»: med hensyn til et luftfartøy, den stat hvis nasjonale register benyttes til å registrere et luftfartøy, eller staten der den felles registreringsmyndighet som fører luftfartøysregisteret, holder til.
 
 ### Art II. Konvensjonens anvendelse på luftfartøysgjenstander
 
@@ -1192,19 +1698,34 @@ ER ENIGE OM følgende bestemmelser om luftfartøysløsøre:
 
 ### Art III. Konvensjonens anvendelse på salg
 
-Følgende bestemmelser i konvensjonen skal gjelde som om henvisninger til en avtale om opprettelse eller fastsettelse av en internasjonal sikkerhetsrett var henvisninger til en salgsavtale, og som om henvisninger til en internasjonal sikkerhetsrett, en framtidig internasjonal sikkerhetsrett, debitor og kreditor var henvisninger til henholdsvis et salg, et framtidig salg, selger og kjøper:artikkel 3 og 4,artikkel 16 nr. 1 bokstav a),artikkel 19 nr. 4,artikkel 20 nr. 1 (med hensyn til registrering av en avtale om salg eller framtidig salg),artikkel 25 nr. 2 (med hensyn til et framtidig salg), ogartikkel 30.
+Følgende bestemmelser i konvensjonen skal gjelde som om henvisninger til en avtale om opprettelse eller fastsettelse av en internasjonal sikkerhetsrett var henvisninger til en salgsavtale, og som om henvisninger til en internasjonal sikkerhetsrett, en framtidig internasjonal sikkerhetsrett, debitor og kreditor var henvisninger til henholdsvis et salg, et framtidig salg, selger og kjøper:
+
+- artikkel 3 og 4,
+- artikkel 16 nr. 1 bokstav a),
+- artikkel 19 nr. 4,
+- artikkel 20 nr. 1 (med hensyn til registrering av en avtale om salg eller framtidig salg),
+- artikkel 25 nr. 2 (med hensyn til et framtidig salg), og
+- artikkel 30.
 
 Dessuten skal de alminnelige bestemmelsene i artikkel 1, artikkel 5, kapittel IV-VII, artikkel 29 (bortsett fra artikkel 29 nr. 3, som erstattes med artikkel XIV nr. 1 og 2), [kapittel X](lov/2010-11-12-58/kapx), [kapittel XII](lov/2010-11-12-58/kapxii) (bortsett fra artikkel 43), [kapittel XIII](lov/2010-11-12-58/kapxiii) og [kapittel XIV](lov/2010-11-12-58/kapxiv) (bortsett fra artikkel 60) gjelde for avtaler om salg og framtidige salg.
 
 ### Art IV. Virkeområde
 
 1. Med forbehold for artikkel 3 nr. 1 i konvensjonen skal konvensjonen også gjelde for et helikopter, eller et flyskrog tilhørende et luftfartøy, registrert i et luftfartøysregister i en konvensjonsstat som er registreringsstaten, og når en slik registrering foretas i henhold til en avtale om registrering av luftfartøyet, anses den å ha funnet sted på avtaletidspunktet.
-2. Ved anvendelse av definisjonen av «intern transaksjon» i artikkel 1 i konvensjonenanses et flyskrog å befinne seg i registreringsstaten for luftfartøyet som det er en del av,anses en flymotor å befinne seg i registreringsstaten for luftfartøyet som den er installert i eller, om den ikke er installert i et luftfartøy, der den fysisk befinner seg, oganses et helikopter å befinne seg i staten der det er registrert på det tidspunkt avtalen om stiftelse eller fastsettelse av sikkerhetsretten inngås.
+2. Ved anvendelse av definisjonen av «intern transaksjon» i artikkel 1 i konvensjonen
+
+   1. anses et flyskrog å befinne seg i registreringsstaten for luftfartøyet som det er en del av,
+   2. anses en flymotor å befinne seg i registreringsstaten for luftfartøyet som den er installert i eller, om den ikke er installert i et luftfartøy, der den fysisk befinner seg, og
+   3. anses et helikopter å befinne seg i staten der det er registrert på det tidspunkt avtalen om stiftelse eller fastsettelse av sikkerhetsretten inngås.
 3. Partene kan ved skriftlig avtale utelukke anvendelsen av artikkel XI, og i sine forbindelser med hverandre gjøre unntak fra eller fravike noen av bestemmelsene i denne protokoll, med unntak av artikkel IX nr. 2-4.
 
 ### Art V. Formelle krav til salgsavtaler, registrering av salgsavtaler og salgsavtalers rettsvirkninger
 
-1. I denne protokoll er en salgsavtale en avtale som:er skriftlig,gjelder et luftfartøy som selgeren har råderett over, oggjør det mulig å identifisere luftfartøysgjenstanden i samsvar med denne protokoll.
+1. I denne protokoll er en salgsavtale en avtale som:
+
+   1. er skriftlig,
+   2. gjelder et luftfartøy som selgeren har råderett over, og
+   3. gjør det mulig å identifisere luftfartøysgjenstanden i samsvar med denne protokoll.
 2. En salgsavtale overfører selgerens sikkerhetsrett i luftfartøysgjenstanden til kjøperen i samsvar med avtalens bestemmelser.
 3. Registreringen av en salgsavtale skal gjelde på ubestemt tid. Registreringen av et framtidig salg er gyldig til salget oppheves, eller til tidsrommet angitt i registreringen utløper.
 
@@ -1226,21 +1747,37 @@ En beskrivelse av en luftfartøysgjenstand som inneholder serienummer fra produs
 
 ### Art IX. Endring av bestemmelsene om misligholdsbeføyelser
 
-1. I tillegg til de tiltak som er angitt i kapittel III i konvensjonen, kan kreditor, i den grad debitor på et tidspunkt har samtykket, og i de tilfeller som er omhandlet i samme kapittel:sørge for avregistrering av luftfartøyet, ogsørge for eksport og fysisk overføring av luftfartøysgjenstanden fra territoriet der det befinner seg.
+1. I tillegg til de tiltak som er angitt i kapittel III i konvensjonen, kan kreditor, i den grad debitor på et tidspunkt har samtykket, og i de tilfeller som er omhandlet i samme kapittel:
+
+   1. sørge for avregistrering av luftfartøyet, og
+   2. sørge for eksport og fysisk overføring av luftfartøysgjenstanden fra territoriet der det befinner seg.
 2. Kreditor skal ikke iverksette tiltakene angitt i foregående ledd med mindre det på forhånd foreligger skriftlig samtykke fra innehaveren av enhver registrert sikkerhetsrett som har høyere prioritet enn kreditorens.
 3. Artikkel 8 nr. 3 i konvensjonen skal ikke gjelde for luftfartøysgjenstander. Alle tiltak oppført i konvensjonen i forbindelse med en luftfartøysgjenstand skal utøves på en kommersielt fornuftig måte. Et tiltak skal anses utøvd på en kommersielt fornuftig måte når det skjer i samsvar med en bestemmelse i avtalen, unntatt når en slik bestemmelse er åpenbart urimelig.
 4. En kravshaver som ti eller flere virkedager på forhånd gir berørte personer skriftlig varsel om et foreslått salg eller en foreslått utleie, skal anses å oppfylle kravet om å gi «rimelig skriftlig varsel» oppført i artikkel 8 nr. 4 i konvensjonen. Foregående ledd skal imidlertid ikke være til hinder for at en kravshaver og en rettighetsstifter eller en garantist samtykker i et lengre varsel.
-5. Registermyndigheten i en konvensjonsstat skal, med forbehold for gjeldende lover og forskrifter om luftfartssikkerhet, imøtekomme en anmodning om avregistrering og eksport dersom:anmodningen er fremmet av den bemyndigede part på behørig måte, i henhold til en registrert, ugjenkallelig fullmakt til å anmode om avregistrering og eksport, ogden bemyndigede part bekrefter overfor registermyndigheten, dersom denne krever det, at alle registrerte sikkerhetsretter med høyere prioritet enn den som innehas av den bemyndigede kreditoren, er slettet, eller at innehaverne av disse sikkerhetsretter har gitt sitt samtykke til avregistrering og eksport.
-6. En kravshaver som foreslår at et luftfartøy avregistreres og eksporteres etter nr. 1 på annen måte enn i henhold til en domstolsbeslutning, skal gi et rimelig skriftlig varsel om den foreslåtte avregistreringen og eksporten til:berørte personer som angitt i artikkel 1 bokstav m) i) og ii) i konvensjonen, ogberørte personer som angitt i artikkel 1 bokstav m) iii) i konvensjonen som har gitt kravshaveren melding om sine rettigheter i rimelig tid før avregistrering og eksport.
+5. Registermyndigheten i en konvensjonsstat skal, med forbehold for gjeldende lover og forskrifter om luftfartssikkerhet, imøtekomme en anmodning om avregistrering og eksport dersom:
+
+   1. anmodningen er fremmet av den bemyndigede part på behørig måte, i henhold til en registrert, ugjenkallelig fullmakt til å anmode om avregistrering og eksport, og
+   2. den bemyndigede part bekrefter overfor registermyndigheten, dersom denne krever det, at alle registrerte sikkerhetsretter med høyere prioritet enn den som innehas av den bemyndigede kreditoren, er slettet, eller at innehaverne av disse sikkerhetsretter har gitt sitt samtykke til avregistrering og eksport.
+6. En kravshaver som foreslår at et luftfartøy avregistreres og eksporteres etter nr. 1 på annen måte enn i henhold til en domstolsbeslutning, skal gi et rimelig skriftlig varsel om den foreslåtte avregistreringen og eksporten til:
+
+   1. berørte personer som angitt i artikkel 1 bokstav m) i) og ii) i konvensjonen, og
+   2. berørte personer som angitt i artikkel 1 bokstav m) iii) i konvensjonen som har gitt kravshaveren melding om sine rettigheter i rimelig tid før avregistrering og eksport.
 
 ### Art X. Endring av bestemmelsene om rettsmidler i påvente av endelig avgjørelse
 
 1. Denne artikkel skal ikke gjelde med mindre en konvensjonsstat har avgitt en erklæring etter artikkel XXX nr. 2, og bare i den grad det framgår av erklæringen.
 2. Ved anvendelse av artikkel 13 nr. 1 i konvensjonen skal «raskt» i forbindelse med kreditors utvirkning av en beslutning om tiltak, bety i løpet av det antall virkedager fra anmodningens innlevering som er angitt i erklæringen avgitt av konvensjonsstaten der anmodningen er fremmet.
-3. I artikkel 13 nr. 1 i konvensjonen skal følgende tilføyes umiddelbart etter bokstav d):dersom debitor og kreditor på noe tidspunkt uttrykkelig avtaler det, salg og fordeling av inntektene av salget»,og i artikkel 43 nr. 2 skal ordene «bokstav d)» erstattes med ordene «bokstav d) og e)».
+3. I artikkel 13 nr. 1 i konvensjonen skal følgende tilføyes umiddelbart etter bokstav d):
+
+   1. dersom debitor og kreditor på noe tidspunkt uttrykkelig avtaler det, salg og fordeling av inntektene av salget»,
+
+   og i artikkel 43 nr. 2 skal ordene «bokstav d)» erstattes med ordene «bokstav d) og e)».
 4. Debitors eiendomsrett eller annen sikkerhetsrett som overføres ved salg etter foregående ledd, frigjøres for enhver annen rettighet eller sikkerhetsrett som er prioritert lavere enn kreditors internasjonale sikkerhetsrett etter bestemmelsene i artikkel 29 i konvensjonen.
 5. Kreditor og debitor eller en annen berørt person kan avtale skriftlig at artikkel 13 nr. 2 i konvensjonen ikke skal gjelde.
-6. Hva angår tiltakene nevnt i artikkel IX nr. 1,skal de gjøres tilgjengelige av registermyndigheten og andre forvaltningsmyndigheter, alt etter omstendighetene, i en konvensjonsstat innen fem virkedager fra den dag kreditor gir disse myndigheter melding om at tiltaket angitt i artikkel IX nr. 1 er innvilget, eller, når tiltaket innvilges av en utenlandsk domstol, at det er anerkjent av en domstol i denne konvensjonsstat, og at kreditor har rett til å utvirke disse tiltak i samsvar med konvensjonen, ogskal vedkommende myndigheter umiddelbart gi kreditor støtte og bistand i forbindelse med iverksettelsen, i samsvar med gjeldende lover og forskrifter om luftfartssikkerhet.
+6. Hva angår tiltakene nevnt i artikkel IX nr. 1,
+
+   1. skal de gjøres tilgjengelige av registermyndigheten og andre forvaltningsmyndigheter, alt etter omstendighetene, i en konvensjonsstat innen fem virkedager fra den dag kreditor gir disse myndigheter melding om at tiltaket angitt i artikkel IX nr. 1 er innvilget, eller, når tiltaket innvilges av en utenlandsk domstol, at det er anerkjent av en domstol i denne konvensjonsstat, og at kreditor har rett til å utvirke disse tiltak i samsvar med konvensjonen, og
+   2. skal vedkommende myndigheter umiddelbart gi kreditor støtte og bistand i forbindelse med iverksettelsen, i samsvar med gjeldende lover og forskrifter om luftfartssikkerhet.
 7. Nr. 2 og 6 skal ikke berøre lover og forskrifter om luftfartssikkerhet.
 
 ### Art XI. Tiltak ved insolvens
@@ -1249,13 +1786,22 @@ En beskrivelse av en luftfartøysgjenstand som inneholder serienummer fra produs
 
 *Alternativ A*
 
-1. Når det oppstår en insolvenssituasjon, skal insolvensbestyreren eller debitor, alt etter omstendighetene, med forbehold for nr. 7 overlevere luftfartøysgjenstanden til kreditor innen den første av følgende to datoer:når karenstiden er utløpt, ogden dato kreditor ville hatt rett til å ta luftfartøysgjenstanden i besittelse om denne artikkel ikke fikk anvendelse.
+1. Når det oppstår en insolvenssituasjon, skal insolvensbestyreren eller debitor, alt etter omstendighetene, med forbehold for nr. 7 overlevere luftfartøysgjenstanden til kreditor innen den første av følgende to datoer:
+
+   1. når karenstiden er utløpt, og
+   2. den dato kreditor ville hatt rett til å ta luftfartøysgjenstanden i besittelse om denne artikkel ikke fikk anvendelse.
 2. I denne artikkel skal «karenstiden» være det tidsrom som er angitt i en erklæring fra konvensjonsstaten som har hovedjurisdiksjon ved insolvens.
 3. Når det i denne artikkel er vist til «insolvensbestyreren», menes denne person i tjenestesammenheng, og ikke i vedkommende personlig.
-4. Så lenge kreditor ikke har fått mulighet for å ta luftfartøysgjenstanden i besittelse i henhold til nr. 2,skal insolvensbestyreren eller debitor, alt etter omstendighetene, bevare og vedlikeholde luftfartøysgjenstanden og opprettholde dens verdi i samsvar med avtalen, ogskal kreditor ha rett til å anmode om andre midlertidige tiltak som foreligger etter gjeldende lovgivning.
+4. Så lenge kreditor ikke har fått mulighet for å ta luftfartøysgjenstanden i besittelse i henhold til nr. 2,
+
+   1. skal insolvensbestyreren eller debitor, alt etter omstendighetene, bevare og vedlikeholde luftfartøysgjenstanden og opprettholde dens verdi i samsvar med avtalen, og
+   2. skal kreditor ha rett til å anmode om andre midlertidige tiltak som foreligger etter gjeldende lovgivning.
 5. Bokstav a) i foregående ledd skal ikke være til hinder for at luftfartøysgjenstanden kan brukes i henhold til avtaler inngått med sikte på å bevare og vedlikeholde luftfartøysgjenstanden og opprettholde dens verdi.
 6. Insolvensbestyreren eller debitor, alt etter omstendighetene, kan fortsatt ha luftfartøysgjenstanden i sin besittelse når den på tidspunktet angitt i nr. 2 har rettet opp alle andre mangler enn dem som skyldes åpningen av insolvensbehandlingen, og har forpliktet seg til å oppfylle alle framtidige forpliktelser i henhold til avtalen. Ved mislighold av framtidige forpliktelser skal det ikke innrømmes ny karenstid.
-7. Hva angår tiltakene omhandlet i artikkel IX nr. 1,skal de gjøres tilgjengelige i en konvensjonsstat av registermyndigheten og forvaltningsmyndighetene, alt etter omstendighetene, innen fem virkedager fra den dag kreditor gir disse myndigheter melding om at den har rett til å utvirke disse tiltakene i samsvar med konvensjonen, ogskal vedkommende myndigheter umiddelbart gi kreditor støtte og bistand i forbindelse med iverksettelsen av disse tiltak, i samsvar med gjeldende lover og forskrifter om luftfartssikkerhet.
+7. Hva angår tiltakene omhandlet i artikkel IX nr. 1,
+
+   1. skal de gjøres tilgjengelige i en konvensjonsstat av registermyndigheten og forvaltningsmyndighetene, alt etter omstendighetene, innen fem virkedager fra den dag kreditor gir disse myndigheter melding om at den har rett til å utvirke disse tiltakene i samsvar med konvensjonen, og
+   2. skal vedkommende myndigheter umiddelbart gi kreditor støtte og bistand i forbindelse med iverksettelsen av disse tiltak, i samsvar med gjeldende lover og forskrifter om luftfartssikkerhet.
 8. Etter tidspunktet angitt i nr. 2 er det forbudt å hindre eller forsinke iverksettelsen av tiltak som kan treffes i henhold til konvensjonen eller denne protokoll.
 9. Debitors forpliktelser i henhold til avtalen kan ikke endres uten kreditors samtykke.
 10. Ingen bestemmelse i foregående ledd skal tolkes slik at den berører insolvensbestyrerens eventuelle myndighet til å si opp avtalen etter gjeldende lovgivning.
@@ -1264,7 +1810,10 @@ En beskrivelse av en luftfartøysgjenstand som inneholder serienummer fra produs
 
 *Alternativ B*
 
-1. Når det oppstår en insolvenssituasjon, skal insolvensbestyreren eller debitor, alt etter omstendighetene, på anmodning fra kreditor og i løpet av det tidsrom som er angitt i en erklæring fra en konvensjonsstat i henhold til artikkel XXX nr. 3, gi kreditor melding om den vil:rette opp alle andre mangler enn dem som skyldes åpningen av insolvensbehandlingen, og forplikte seg til å oppfylle alle framtidige forpliktelser i henhold til avtalen og tilknyttede dokumenter, ellergi kreditor mulighet for å ta luftfartøysgjenstanden i besittelse i samsvar med gjeldende lovgivning.
+1. Når det oppstår en insolvenssituasjon, skal insolvensbestyreren eller debitor, alt etter omstendighetene, på anmodning fra kreditor og i løpet av det tidsrom som er angitt i en erklæring fra en konvensjonsstat i henhold til artikkel XXX nr. 3, gi kreditor melding om den vil:
+
+   1. rette opp alle andre mangler enn dem som skyldes åpningen av insolvensbehandlingen, og forplikte seg til å oppfylle alle framtidige forpliktelser i henhold til avtalen og tilknyttede dokumenter, eller
+   2. gi kreditor mulighet for å ta luftfartøysgjenstanden i besittelse i samsvar med gjeldende lovgivning.
 2. I gjeldende lovgivning som nevnt i bokstav b) kan domstolen gis mulighet til å kreve at det treffes ytterligere tiltak eller stilles ytterligere sikkerhet.
 3. Kreditor skal kunne godtgjøre sine krav og vise at dens internasjonale sikkerhetsrett er registrert.
 4. Dersom insolvensbestyreren eller debitor, alt etter omstendighetene, ikke gir melding i samsvar med nr. 2, eller når insolvensbestyreren eller debitor har erklært at den vil gi kreditor mulighet for å ta luftfartøysgjenstanden i besittelse men unnlater å gjøre det, kan domstolen tillate at kreditor tar luftfartøysgjenstanden i besittelse på de vilkår som domstolen beslutter, og kan kreve at det treffes ytterligere tiltak eller stilles ytterligere sikkerhet.
@@ -1291,11 +1840,16 @@ En beskrivelse av en luftfartøysgjenstand som inneholder serienummer fra produs
 
 ### Art XV. Endring av bestemmelsene om overdragelse
 
-I artikkel 33 nr. 1 i konvensjonen skal følgende tilføyes umiddelbart etter bokstav b):«og c) debitor har gitt skriftlig samtykke, uansett om samtykket er gitt før overdragelsen eller ikke, eller om det identifiserer mottakeren eller ikke.»
+I artikkel 33 nr. 1 i konvensjonen skal følgende tilføyes umiddelbart etter bokstav b):
+
+- «og c) debitor har gitt skriftlig samtykke, uansett om samtykket er gitt før overdragelsen eller ikke, eller om det identifiserer mottakeren eller ikke.»
 
 ### Art XVI. Bestemmelser om debitor
 
-1. Om det ikke foreligger mislighold som definert i artikkel 11 i konvensjonen, skal debitor ha rett til fri faktisk rådighet over og bruk av luftfartøysgjenstanden i samsvar med avtalen i forholdet til:kreditor og innehaveren av enhver sikkerhetsrett som debitor er frigjort fra i henhold til artikkel 29 nr. 4 i konvensjonen eller, i egenskap av kjøper, i henhold til artikkel XIV nr. 1 i denne protokoll, med mindre og i den grad debitor samtykket i noe annet, oginnehaveren av enhver sikkerhetsrett som går foran debitors rettighet henhold til artikkel 29 nr. 4 i konvensjonen eller, i egenskap av kjøper, i henhold til artikkel XIV nr. 2 i denne protokoll, men bare i den grad innehaveren har samtykket.
+1. Om det ikke foreligger mislighold som definert i artikkel 11 i konvensjonen, skal debitor ha rett til fri faktisk rådighet over og bruk av luftfartøysgjenstanden i samsvar med avtalen i forholdet til:
+
+   1. kreditor og innehaveren av enhver sikkerhetsrett som debitor er frigjort fra i henhold til artikkel 29 nr. 4 i konvensjonen eller, i egenskap av kjøper, i henhold til artikkel XIV nr. 1 i denne protokoll, med mindre og i den grad debitor samtykket i noe annet, og
+   2. innehaveren av enhver sikkerhetsrett som går foran debitors rettighet henhold til artikkel 29 nr. 4 i konvensjonen eller, i egenskap av kjøper, i henhold til artikkel XIV nr. 2 i denne protokoll, men bare i den grad innehaveren har samtykket.
 2. Ingen bestemmelse i konvensjonen eller denne protokoll berører kreditors ansvar ved avtalebrudd etter gjeldende lovgivning, i den grad avtalen gjelder en luftfartøysgjenstand.
 
 ### Kapittel III. Bestemmelser om registreringsordningen for internasjonale sikkerhetsretter i luftfartøysgjenstander
@@ -1379,7 +1933,11 @@ Konvensjonen skal gå foran UNIDROIT-konvensjonen om internasjonal finansiell le
 2. En slik erklæring skal uttrykkelig angi de territoriale enheter der denne protokoll skal gjelde.
 3. Dersom en konvensjonsstat ikke har avgitt erklæring etter nr. 1, skal denne protokoll gjelde for alle territoriale enheter i vedkommende stat.
 4. Når en konvensjonsstat erklærer at denne konvensjon skal omfatte en eller flere av dens territoriale enheter, kan erklæringer etter denne protokoll avgis for den enkelte territoriale enhet, og erklæringer avgitt for én territorial enhet kan være forskjellige fra erklæringer avgitt for en annen territorial enhet.
-5. Dersom denne protokoll, i samsvar med en erklæring avgitt etter nr. 1, omfatter en eller flere territoriale enheter i en konvensjonsstat,skal debitor anses å befinne seg i en konvensjonsstat bare dersom den er stiftet etter gjeldende lovgivning i en territorial enhet der konvensjonen og denne protokoll gjelder, eller dersom den har sitt vedtektsbestemte sete, sin hovedadministrasjon, sitt forretningssted eller sitt vanlige bosted i en territorial enhet der konvensjonen og denne protokoll gjelder,skal enhver henvisning til at luftfartøysgjenstanden befinner seg i en konvensjonsstat, forstås som at luftfartøysgjenstanden befinner seg i en territorial enhet der konvensjonen og denne protokoll gjelder, ogskal enhver henvisning til forvaltningsmyndighetene i denne konvensjonsstat, også anses å vise til de kompetente forvaltningsmyndigheter i en territorial enhet der konvensjonen og denne protokoll gjelder, og enhver henvisning til det nasjonale registeret eller registermyndigheten i den konvensjonsstaten også anses å vise til luftfartøysregisteret eller den kompetente registermyndigheten i den eller de territoriale enheter der konvensjonen og denne protokoll gjelder.
+5. Dersom denne protokoll, i samsvar med en erklæring avgitt etter nr. 1, omfatter en eller flere territoriale enheter i en konvensjonsstat,
+
+   1. skal debitor anses å befinne seg i en konvensjonsstat bare dersom den er stiftet etter gjeldende lovgivning i en territorial enhet der konvensjonen og denne protokoll gjelder, eller dersom den har sitt vedtektsbestemte sete, sin hovedadministrasjon, sitt forretningssted eller sitt vanlige bosted i en territorial enhet der konvensjonen og denne protokoll gjelder,
+   2. skal enhver henvisning til at luftfartøysgjenstanden befinner seg i en konvensjonsstat, forstås som at luftfartøysgjenstanden befinner seg i en territorial enhet der konvensjonen og denne protokoll gjelder, og
+   3. skal enhver henvisning til forvaltningsmyndighetene i denne konvensjonsstat, også anses å vise til de kompetente forvaltningsmyndigheter i en territorial enhet der konvensjonen og denne protokoll gjelder, og enhver henvisning til det nasjonale registeret eller registermyndigheten i den konvensjonsstaten også anses å vise til luftfartøysregisteret eller den kompetente registermyndigheten i den eller de territoriale enheter der konvensjonen og denne protokoll gjelder.
 
 ### Art XXX. Erklæringer om visse bestemmelser
 
@@ -1418,13 +1976,29 @@ Erklæringer som er avgitt i henhold til konvensjonen, herunder erklæringer avg
 ### Art XXXVI. Tilsynskonferanser, endringer og andre relaterte spørsmål
 
 1. Depositaren skal hvert år eller med andre passende mellomrom, i samråd med tilsynsmyndigheten, utarbeide en rapport til de stater som er part, om hvordan det internasjonale regimet som er innført ved konvensjonen og endret ved denne protokoll, har virket i praksis. I sitt arbeid med rapportene skal depositaren ta hensyn til tilsynsmyndighetens rapporter om hvordan den internasjonale registreringsordningen virker.
-2. På anmodning fra minst tjuefem prosent av de stater som er part, skal depositaren fra tid til annen og i samråd med tilsynsmyndigheten innkalle til tilsynskonferanse for partene for å få vurdert:hvordan konvensjonen, endret ved denne protokoll, anvendes i praksis, og hvorvidt den faktisk letter finansiering mot sikkerhet i aktiva og leie av luftfartøysgjenstander som kommer inn under dens bestemmelser,den rettslige fortolkningen og anvendelsen av bestemmelsene i denne protokoll og i reglementet,hvordan den internasjonale registreringsordningen virker, hvordan registreringsmyndigheten driver sin virksomhet, og hvordan tilsynsmyndigheten gjennomfører sin oppfølging av den, på grunnlag av rapportene fra tilsynsmyndigheten, oghvorvidt det er ønskelig å endre denne protokoll eller bestemmelsene om det internasjonale registeret.
+2. På anmodning fra minst tjuefem prosent av de stater som er part, skal depositaren fra tid til annen og i samråd med tilsynsmyndigheten innkalle til tilsynskonferanse for partene for å få vurdert:
+
+   1. hvordan konvensjonen, endret ved denne protokoll, anvendes i praksis, og hvorvidt den faktisk letter finansiering mot sikkerhet i aktiva og leie av luftfartøysgjenstander som kommer inn under dens bestemmelser,
+   2. den rettslige fortolkningen og anvendelsen av bestemmelsene i denne protokoll og i reglementet,
+   3. hvordan den internasjonale registreringsordningen virker, hvordan registreringsmyndigheten driver sin virksomhet, og hvordan tilsynsmyndigheten gjennomfører sin oppfølging av den, på grunnlag av rapportene fra tilsynsmyndigheten, og
+   4. hvorvidt det er ønskelig å endre denne protokoll eller bestemmelsene om det internasjonale registeret.
 3. Enhver endring av denne protokoll skal godkjennes med minst to tredjedels flertall blant de stater som er part og deltar i konferansen nevnt i foregående ledd, og skal deretter tre i kraft for de stater som har ratifisert, godtatt eller godkjent endringen, når den er ratifisert, godtatt eller godkjent av åtte stater i samsvar med bestemmelsene i artikkel XXVIII om protokollens ikrafttredelse.
 
 ### Art XXXVII. Depositaren og dens oppgaver
 
 1. Ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokumentene skal deponeres ved Det internasjonale institutt for ensartet privatrett (UNIDROIT), heretter kalt depositaren.
-2. Depositaren skal:underrette alle konvensjonsstater om:all ny undertegning eller deponering av et ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokument, med angivelse av tidspunkt,tidspunktet for denne protokolls ikrafttredelse,alle erklæringer avgitt i samsvar med denne protokoll, med angivelse av tidspunkt,tilbaketrekning eller endring av erklæringer, med angivelse av tidspunkt, ogvarsler om oppsigelse av denne protokoll, med angivelse av oppsigelsestidspunkt og tidspunktet da oppsigelsen får virkning,oversende bekreftede kopier av denne protokoll til alle konvensjonsstater,sørge for at tilsynsmyndigheten og registreringsmyndigheten får kopi av alle ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokumenter, med angivelse av deponeringstidspunkt, av enhver erklæring eller tilbaketrekning eller endring av en erklæring, og av ethvert varsel om oppsigelse, med angivelse av oppsigelsestidspunkt, slik at alle opplysninger er fullt ut og lett tilgjengelige, ogutføre de øvrige oppgaver som vanligvis tillegges en depositar.
+2. Depositaren skal:
+
+   1. underrette alle konvensjonsstater om:
+
+      1. all ny undertegning eller deponering av et ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokument, med angivelse av tidspunkt,
+      2. tidspunktet for denne protokolls ikrafttredelse,
+      3. alle erklæringer avgitt i samsvar med denne protokoll, med angivelse av tidspunkt,
+      4. tilbaketrekning eller endring av erklæringer, med angivelse av tidspunkt, og
+      5. varsler om oppsigelse av denne protokoll, med angivelse av oppsigelsestidspunkt og tidspunktet da oppsigelsen får virkning,
+   2. oversende bekreftede kopier av denne protokoll til alle konvensjonsstater,
+   3. sørge for at tilsynsmyndigheten og registreringsmyndigheten får kopi av alle ratifikasjons-, godtakelses-, godkjennings- eller tiltredelsesdokumenter, med angivelse av deponeringstidspunkt, av enhver erklæring eller tilbaketrekning eller endring av en erklæring, og av ethvert varsel om oppsigelse, med angivelse av oppsigelsestidspunkt, slik at alle opplysninger er fullt ut og lett tilgjengelige, og
+   4. utføre de øvrige oppgaver som vanligvis tillegges en depositar.
 
 SOM BEKREFTELSE PÅ DETTE har nedenstående befullmektigede undertegnet denne konvensjon.
 
@@ -1442,7 +2016,13 @@ Sak: Ugjenkallelig fullmakt til å anmode om avregistrering og tillatelse til ek
 
 Undertegnede er den registrerte [operatør] [eier]1 av [sett inn produsentens navn og flyskrog-/helikoptermodell], med serienummer [ sett inn nummeret] og registrert som [registreringsnummer] [ registreringsmerke] [sett inn registreringsnummer/registreringsmerke] (og tilbehør, deler og utstyrskomponenter som er montert på, integrert i eller festet til dette, heretter kalt «luftfartøyet»).
 
-Dette dokument er en ugjenkallelig fullmakt til å anmode om avregistrering og tillatelse til eksport, utstedt av undertegnede i favør av [kreditors navn] (heretter kalt «den bemyndigede part») med hjemmel i artikkel XIII i Protokoll til konvensjonen om internasjonale sikkerhetsretter i mobilt løsøre om særlige forhold for luftfartøysløsøre. I samsvar med nevnte artikkel ber undertegnede om:godkjenning av den bemyndigede part, eller den person denne part utpeker, som den eneste person med rett til:å sørge for avregistrering av luftfartøyet i [navnet på luftfartøysregisteret] som føres av [navnet på registermyndigheten] i samsvar med kapittel III i Overenskomst om internasjonal sivil luftfart, undertegnet i Chicago 7. desember 1944, ogå sørge for eksport og fysisk overføring av luftfartøyet fra [ landets navn], ogbekreftelse på at den bemyndigede part eller den person denne part utpeker, etter skriftlig anmodning kan treffe tiltak som angitt i bokstav i) uten samtykke fra undertegnede, og at myndighetene i [landets navn] når anmodningen mottas, skal samarbeide med den bemyndigede part med sikte på en rask iverksettelse av de aktuelle tiltak.
+Dette dokument er en ugjenkallelig fullmakt til å anmode om avregistrering og tillatelse til eksport, utstedt av undertegnede i favør av [kreditors navn] (heretter kalt «den bemyndigede part») med hjemmel i artikkel XIII i Protokoll til konvensjonen om internasjonale sikkerhetsretter i mobilt løsøre om særlige forhold for luftfartøysløsøre. I samsvar med nevnte artikkel ber undertegnede om:
+
+1. godkjenning av den bemyndigede part, eller den person denne part utpeker, som den eneste person med rett til:
+
+   1. å sørge for avregistrering av luftfartøyet i [navnet på luftfartøysregisteret] som føres av [navnet på registermyndigheten] i samsvar med kapittel III i Overenskomst om internasjonal sivil luftfart, undertegnet i Chicago 7. desember 1944, og
+   2. å sørge for eksport og fysisk overføring av luftfartøyet fra [ landets navn], og
+2. bekreftelse på at den bemyndigede part eller den person denne part utpeker, etter skriftlig anmodning kan treffe tiltak som angitt i bokstav i) uten samtykke fra undertegnede, og at myndighetene i [landets navn] når anmodningen mottas, skal samarbeide med den bemyndigede part med sikte på en rask iverksettelse av de aktuelle tiltak.
 
 Den bemyndigede parts rettigheter i henhold til dette dokument kan ikke tilbakekalles av undertegnede uten skriftlig samtykke fra den bemyndigede part.
 

@@ -15,7 +15,7 @@ xml_hash: "41bb0495c08ccf27419918c2e72c793606350bbb3d90c4ad9d9a92ae8f318861"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,7 +49,11 @@ Skolene skal begynne opptak av elever fra 15. november året før oppstart av ny
 
 Elever på kurs skal ha et undervisningsprogram på minst 24 timer per uke. Lørdag er normalt skoledag. Undervisningsomfanget skal normalt være minst 4 timer hver dag. Skolens kapasitet utgjør skolens maksimale elevtall, jf. [§ 6](forskrift/2025-08-21-1693/§6).
 
-Folkehøgskolen kan i tillegg arrangere kurs av kortere varighet rettet mot følgende grupper:personer med dokumentert redusert funksjonsevne og deres nærmesteinnvandrerungdom, dersom kursene har et klart definert integreringsformålungdom som har falt ut av skole og arbeidsliv.
+Folkehøgskolen kan i tillegg arrangere kurs av kortere varighet rettet mot følgende grupper:
+
+1. personer med dokumentert redusert funksjonsevne og deres nærmeste
+2. innvandrerungdom, dersom kursene har et klart definert integreringsformål
+3. ungdom som har falt ut av skole og arbeidsliv.
 
 Undervisningsomfanget på kurs av kortere varighet skal være på minst 12 timer, fordelt over minst 3 dager og normalt minst 4 timer hver dag. Kursene skal kun utgjøre en mindre del av skolens samlede virksomhet. Kravet i [§ 4 første ledd fjerde punktum](forskrift/2025-08-21-1693/§4/ledd/1/setning/4) gjelder.
 
@@ -73,7 +77,11 @@ Departementet fastsetter skolens kapasitet. Dette gjøres minimum hvert femte å
 
 ### § 7. Krav til dokumentasjon
 
-Alle elever skal få dokumentasjon på fullført kurs ved folkehøgskole som varer minimum 16,5 uker. Dokumentasjonen skal inneholde informasjon omeleven har fullført et kurs med varighet på minimum 16,5 ukerelevens fraværelevens prosentvise fremmøte i tråd med reglene om føring av fravær, jf. [§ 9](forskrift/2025-08-21-1693/§9).
+Alle elever skal få dokumentasjon på fullført kurs ved folkehøgskole som varer minimum 16,5 uker. Dokumentasjonen skal inneholde informasjon om
+
+1. eleven har fullført et kurs med varighet på minimum 16,5 uker
+2. elevens fravær
+3. elevens prosentvise fremmøte i tråd med reglene om føring av fravær, jf. [§ 9](forskrift/2025-08-21-1693/§9).
 
 ### § 8. Fravær
 
@@ -85,7 +93,14 @@ Rektor eller daglig leder kan selv beslutte at en elev som har opptil 20 prosent
 
 Skolen skal ha et system for føring av fravær. Det skal føres fravær i dager og enkelttimer. En elev kan kreve at årsaken til fraværet blir ført på et vedlegg til vitnemålet, dersom eleven fremlegger dokumentasjon på årsaken til fraværet.
 
-En elev kan kreve at opptil 15 dager fravær i løpet av et kurs på 33 uker og opptil 7,5 dager fravær i løpet av et kurs på 16,5 uker, ikke skal føres på vitnemålet dersom årsaken til fraværet er:politisk arbeidlovpålagte oppmøterhelse- og velferdsgrunnerhjelpearbeidinntil to dager ved religiøse høytider for elever som er medlemmer av andre religiøse trossamfunn enn Den norske kirkerepresentasjon i arrangement på nasjonalt eller internasjonalt nivå, f.eks. i idrett eller kultur.
+En elev kan kreve at opptil 15 dager fravær i løpet av et kurs på 33 uker og opptil 7,5 dager fravær i løpet av et kurs på 16,5 uker, ikke skal føres på vitnemålet dersom årsaken til fraværet er:
+
+1. politisk arbeid
+2. lovpålagte oppmøter
+3. helse- og velferdsgrunner
+4. hjelpearbeid
+5. inntil to dager ved religiøse høytider for elever som er medlemmer av andre religiøse trossamfunn enn Den norske kirke
+6. representasjon i arrangement på nasjonalt eller internasjonalt nivå, f.eks. i idrett eller kultur.
 
 Selvstendig studiearbeid som er avtalt med skolen, regnes ikke som fravær.
 
@@ -119,11 +134,20 @@ Enkeltelever som tas opp på spesielle vilkår gjennom avtaler med annen offentl
 
 Fire skoler kan ta inn et gitt antall elever som utløser særtilskudd. Dette tilskuddet baserer seg på en årlig sats per elev fastsatt av departementet. Skolen skal innen fristen for rapportering etter [§ 14](forskrift/2025-08-21-1693/§14) ha dokumentasjon på at eleven har en redusert funksjonsevne som utløser et omfattende tilretteleggingsbehov ved skolen.
 
-Normtallet til de fire folkehøgskolene som er godkjent for særtilskuddselever er:Lundheim folkehøgskole: 40 eleverPeder Morset stiftelse: 40 eleverÅl Folkehøgskole og Kurssenter for Døve: 20 eleverRønningen folkehøgskole: 25 elever.
+Normtallet til de fire folkehøgskolene som er godkjent for særtilskuddselever er:
+
+1. Lundheim folkehøgskole: 40 elever
+2. Peder Morset stiftelse: 40 elever
+3. Ål Folkehøgskole og Kurssenter for Døve: 20 elever
+4. Rønningen folkehøgskole: 25 elever.
 
 Tilskuddsgrunnlaget for særtilskuddet består av gjennomsnittlig antall årselever som utløser særtilskudd fra kurs, fra tre år forut for siste kalenderår.
 
-Hvis gjennomsnittlig årselever liggermellom 40 og 100 prosent av skolens normtall, blir det gitt fullt særtilskudd opptil normtallet til den enkelte skolemellom 20 og 40 prosent av skolens normtall, blir det gitt særtilskudd med 40 prosent av satsenunder 20 prosent av normtallet, blir det ikke gitt særtilskudd til skolen.
+Hvis gjennomsnittlig årselever ligger
+
+1. mellom 40 og 100 prosent av skolens normtall, blir det gitt fullt særtilskudd opptil normtallet til den enkelte skole
+2. mellom 20 og 40 prosent av skolens normtall, blir det gitt særtilskudd med 40 prosent av satsen
+3. under 20 prosent av normtallet, blir det ikke gitt særtilskudd til skolen.
 
 Det gis ikke tilskudd etter [§ 12](forskrift/2025-08-21-1693/§12) for elever som overskrider normtallet.
 

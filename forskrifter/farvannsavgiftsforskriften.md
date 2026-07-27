@@ -40,7 +40,15 @@ Kommuner som samarbeider om oppgavene som kan finansieres med farvannsavgift, ka
 
 Farvannsavgift kan ilegges fartøy som anløper havn og innretning for drift av akvakulturanlegg i kommunens sjøområde. Med anløp menes inn- og utseiling. Ved flere anløp til havn eller akvakulturanlegg i kommunen i løpet av samme kalenderdøgn, kan avgift kun ilegges én gang. Med innretning for drift av akvakulturanlegg menes fôrflåter og tilsvarende anlegg.
 
-Unntatt fra plikt til å betale farvannsavgift er:fartøy med største lengde under 15 meterisbryterfartøy i forbindelse ivaretakelse av ansvaret for fremkommelighet i [havne- og farvannsloven § 6](lov/2019-06-21-70/§6)norske og utenlandske orlogsfartøyKystverkets fartøy i forbindelse med arbeid i farvannetSysselmesteren på Svalbards tjenestefartøy og Norsk Polarinstitutts fartøy i forbindelse med arbeid i farvannet på Svalbardbergingsfartøy i forbindelse med bergingfartøy som anløper havn på grunn av skade eller nødstilstand og fartøyet ikke laster, losser eller tar om bord passasjerer.
+Unntatt fra plikt til å betale farvannsavgift er:
+
+1. fartøy med største lengde under 15 meter
+2. isbryterfartøy i forbindelse ivaretakelse av ansvaret for fremkommelighet i [havne- og farvannsloven § 6](lov/2019-06-21-70/§6)
+3. norske og utenlandske orlogsfartøy
+4. Kystverkets fartøy i forbindelse med arbeid i farvannet
+5. Sysselmesteren på Svalbards tjenestefartøy og Norsk Polarinstitutts fartøy i forbindelse med arbeid i farvannet på Svalbard
+6. bergingsfartøy i forbindelse med berging
+7. fartøy som anløper havn på grunn av skade eller nødstilstand og fartøyet ikke laster, losser eller tar om bord passasjerer.
 
 Kommunen kan frita andre fartøy enn dem som er nevnt i andre ledd, fra plikten til å betale farvannsavgift.
 

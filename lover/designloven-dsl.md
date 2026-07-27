@@ -15,7 +15,7 @@ xml_hash: "72425323ad83a708dc87fd02236cb96c281f125b0ff2022cb2900621ae1d814b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "31998L0071"
@@ -35,7 +35,11 @@ Registrering av en design utelukker ikke beskyttelse etter annen lovgivning hvis
 
 ### § 2. Definisjoner
 
-I loven her forstås meddesign: utseendet til et produkt eller en del av et produkt som særlig følger av de karakteriserende trekkene ved linjene, konturene, fargene, formen, strukturen eller materialet til produktet eller produktets ornamentering.produkt: en industrielt eller håndverksmessig fremstilt gjenstand, herunder deler som er bestemt til å inngå i et sammensatt produkt, emballasje, utstyr, grafiske symboler og typografiske skrifttyper, men ikke edb-programmer.sammensatt produkt: et produkt som består av flere bestanddeler som kan skiftes ut, slik at produktet kan tas fra hverandre og settes sammen igjen.
+I loven her forstås med
+
+1. design: utseendet til et produkt eller en del av et produkt som særlig følger av de karakteriserende trekkene ved linjene, konturene, fargene, formen, strukturen eller materialet til produktet eller produktets ornamentering.
+2. produkt: en industrielt eller håndverksmessig fremstilt gjenstand, herunder deler som er bestemt til å inngå i et sammensatt produkt, emballasje, utstyr, grafiske symboler og typografiske skrifttyper, men ikke edb-programmer.
+3. sammensatt produkt: et produkt som består av flere bestanddeler som kan skiftes ut, slik at produktet kan tas fra hverandre og settes sammen igjen.
 
 ### § 3. Nyhet og individuell karakter
 
@@ -47,7 +51,10 @@ En design anses å ha individuell karakter hvis helhetsinntrykket designen gir d
 
 ### § 4. Sammensatte produkter
 
-Designen til en bestanddel av et sammensatt produkt anses bare for å være ny og ha individuell karakter i den gradbestanddelen er synlig under normal bruk av det sammensatte produktet, ogden synlige delen av bestanddelen oppfyller vilkårene om nyhet og individuell karakter.
+Designen til en bestanddel av et sammensatt produkt anses bare for å være ny og ha individuell karakter i den grad
+
+1. bestanddelen er synlig under normal bruk av det sammensatte produktet, og
+2. den synlige delen av bestanddelen oppfyller vilkårene om nyhet og individuell karakter.
 
 Med normal bruk forstås sluttbrukerens anvendelse av det sammensatte produktet, med unntak av vedlikehold, service eller reparasjon av produktet.
 
@@ -55,25 +62,43 @@ Med normal bruk forstås sluttbrukerens anvendelse av det sammensatte produktet,
 
 En design er allment tilgjengelig etter loven her hvis den har blitt offentliggjort ved registrering eller på annen måte. Det samme gjelder hvis designen har blitt utstilt, utnyttet kommersielt eller blitt kjent på annen måte.
 
-Designen anses likevel ikke for å ha blitt allment tilgjengelig hvisfagkretsene innenfor den aktuelle sektoren i EØS gjennom sin alminnelige næringsvirksomhet ikke med rimelighet kunne ha fått kjennskap til designen gjennom omstendigheter som nevnt i første ledd før søknadsdagen eller før prioritetsdagen, hvis det er påberopt prioritet etter [§ 16](lov/2003-03-14-15/§16), ellerandre har fått kjennskap til designen under en underforstått eller uttrykkelig forutsetning om fortrolighet.
+Designen anses likevel ikke for å ha blitt allment tilgjengelig hvis
+
+1. fagkretsene innenfor den aktuelle sektoren i EØS gjennom sin alminnelige næringsvirksomhet ikke med rimelighet kunne ha fått kjennskap til designen gjennom omstendigheter som nevnt i første ledd før søknadsdagen eller før prioritetsdagen, hvis det er påberopt prioritet etter [§ 16](lov/2003-03-14-15/§16), eller
+2. andre har fått kjennskap til designen under en underforstått eller uttrykkelig forutsetning om fortrolighet.
 
 ### § 6. Handlinger som ikke ødelegger nyheten (nyhetsfrist)
 
-Designen anses ikke for å ha blitt allment tilgjengelig etter [§ 5](lov/2003-03-14-15/§5) hvis den tidligst tolv måneder før den dagen som er nevnt i [§ 3](lov/2003-03-14-15/§3) annet ledd, er gjort allment tilgjengeligav designeren eller den som designerens rett har gått over til,av andre på grunnlag av opplysninger som er gitt eller handlinger som er foretatt av designeren eller den som designerens rett har gått over til, ellersom følge av misbruk i forhold til designeren eller den som designerens rett har gått over til.
+Designen anses ikke for å ha blitt allment tilgjengelig etter [§ 5](lov/2003-03-14-15/§5) hvis den tidligst tolv måneder før den dagen som er nevnt i [§ 3](lov/2003-03-14-15/§3) annet ledd, er gjort allment tilgjengelig
+
+1. av designeren eller den som designerens rett har gått over til,
+2. av andre på grunnlag av opplysninger som er gitt eller handlinger som er foretatt av designeren eller den som designerens rett har gått over til, eller
+3. som følge av misbruk i forhold til designeren eller den som designerens rett har gått over til.
 
 ### § 7. Design som strider mot offentlige interesser og andres rettigheter
 
-En design kan ikke registreres hvis denstrider mot offentlig orden eller moral, elleruten tillatelse inneholder et våpen eller annet tegn som er omfattet av [straffeloven § 165](lov/2005-05-20-28/§165) bokstav b og [§ 166](lov/2005-05-20-28/§166), et statsflagg eller et offentlig kontroll- eller garantimerke for produkter av samme eller liknende slag som produktene designen gjelder, eller noe som er egnet til å oppfattes som et slikt tegn, flagg eller merke.
+En design kan ikke registreres hvis den
+
+1. strider mot offentlig orden eller moral, eller
+2. uten tillatelse inneholder et våpen eller annet tegn som er omfattet av [straffeloven § 165](lov/2005-05-20-28/§165) bokstav b og [§ 166](lov/2005-05-20-28/§166), et statsflagg eller et offentlig kontroll- eller garantimerke for produkter av samme eller liknende slag som produktene designen gjelder, eller noe som er egnet til å oppfattes som et slikt tegn, flagg eller merke.
 
 Designrett kan ikke oppnås hvis designen kolliderer med en design i en tidligere søknad om designrett her i landet som ikke var allment tilgjengelig før søknadsdagen for den nye søknaden eller før prioritetsdagen, hvis det er påberopt prioritet etter [§ 16](lov/2003-03-14-15/§16), men som blir gjort offentlig på et senere tidspunkt.
 
-Designrett kan heller ikke oppnås hvis designen krenker en annens rett her i landet til:et varemerke, foretaksnavn eller annet forretningskjennetegn,et åndsverk eller fotografisk bilde,en betegnelse som er beskyttet ved forskrift etter matloven, elleret navn, kunstnernavn eller lignende eller portrett, med mindre det åpenbart siktes til en forlengst avdød person.
+Designrett kan heller ikke oppnås hvis designen krenker en annens rett her i landet til:
+
+1. et varemerke, foretaksnavn eller annet forretningskjennetegn,
+2. et åndsverk eller fotografisk bilde,
+3. en betegnelse som er beskyttet ved forskrift etter matloven, eller
+4. et navn, kunstnernavn eller lignende eller portrett, med mindre det åpenbart siktes til en forlengst avdød person.
 
 > Endret ved lover [23 mai 2003 nr. 33](lov/2003-05-23-33) (ikr. 1 juni 2003 iflg. [res. 23 mai 2003 nr. 624](forskrift/2003-05-23-624)), [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
 
 ### § 8. Design som er bestemt av teknisk funksjon
 
-Designrett kan ikke oppnås for de trekkene ved et produkts utseendesom bare er bestemt av teknisk funksjon, ellersom må gjengis i nøyaktig form og dimensjon for at produktet skal kunne kobles mekanisk til eller plasseres i, rundt eller mot et annet produkt, slik at begge produktene fyller sin funksjon.
+Designrett kan ikke oppnås for de trekkene ved et produkts utseende
+
+1. som bare er bestemt av teknisk funksjon, eller
+2. som må gjengis i nøyaktig form og dimensjon for at produktet skal kunne kobles mekanisk til eller plasseres i, rundt eller mot et annet produkt, slik at begge produktene fyller sin funksjon.
 
 Designrett kan likevel oppnås for design av gjensidig utskiftbare produkter som kan bygges eller kobles sammen på forskjellige måter i et modulsystem.
 
@@ -85,11 +110,18 @@ Designretten omfatter enhver design som ikke gir den informerte brukeren et anne
 
 ### § 10. Unntak fra designretten
 
-Designretten er ikke til hinder for at designenutnyttes i privat og ikke-kommersielt øyemed,utnyttes til eksperimentelle formål, ellergjengis med det formål å sitere eller undervise, forutsatt at handlingen er i samsvar med god forretningsskikk og ikke i urimelig grad skader den normale utnyttelsen av designen, samt at kilden blir oppgitt.
+Designretten er ikke til hinder for at designen
+
+1. utnyttes i privat og ikke-kommersielt øyemed,
+2. utnyttes til eksperimentelle formål, eller
+3. gjengis med det formål å sitere eller undervise, forutsatt at handlingen er i samsvar med god forretningsskikk og ikke i urimelig grad skader den normale utnyttelsen av designen, samt at kilden blir oppgitt.
 
 ### § 11. Utstyr på skip og luftfartøy
 
-Designretten er ikke til hinder forutnyttelse av utstyr på skip og luftfartøy som hører hjemme i en annen stat, hvis fartøyet oppholder seg midlertidig her i landet,innføring til Norge av reservedeler og tilbehør for reparasjon av slike fartøy samt gjennomføring av reparasjoner.
+Designretten er ikke til hinder for
+
+1. utnyttelse av utstyr på skip og luftfartøy som hører hjemme i en annen stat, hvis fartøyet oppholder seg midlertidig her i landet,
+2. innføring til Norge av reservedeler og tilbehør for reparasjon av slike fartøy samt gjennomføring av reparasjoner.
 
 ### § 12. Konsumpsjon av designretten
 
@@ -203,7 +235,11 @@ Registreringen kan ikke oppheves eller kjennes ugyldig på det grunnlaget at des
 
 Krav om administrativ overprøving kan fremmes av enhver så lenge registreringen består, om ikke annet er bestemt i annet og tredje ledd.
 
-Et krav om administrativ overprøving kan bare fremmes avden som påstår å ha retten til designen, hvis kravet er begrunnet med at designhaveren ikke har retten til designen.den som søker om eller har den eldre rettigheten, hvis kravet er begrunnet med at registreringen krenker rettigheter nevnt i [§ 7](lov/2003-03-14-15/§7) annet og tredje ledd.departementet eller av den personen eller det organet som berøres av bruken, hvis kravet er begrunnet med at registreringen krenker rettigheter nevnt i [§ 7](lov/2003-03-14-15/§7) første ledd nr. 2.
+Et krav om administrativ overprøving kan bare fremmes av
+
+1. den som påstår å ha retten til designen, hvis kravet er begrunnet med at designhaveren ikke har retten til designen.
+2. den som søker om eller har den eldre rettigheten, hvis kravet er begrunnet med at registreringen krenker rettigheter nevnt i [§ 7](lov/2003-03-14-15/§7) annet og tredje ledd.
+3. departementet eller av den personen eller det organet som berøres av bruken, hvis kravet er begrunnet med at registreringen krenker rettigheter nevnt i [§ 7](lov/2003-03-14-15/§7) første ledd nr. 2.
 
 Er kravet begrunnet med at designhaveren ikke har retten til designen, må det settes frem senest ett år etter at den som fremmer kravet, fikk kjennskap til registreringen og de øvrige forholdene som kravet bygger på. Var designhaveren i god tro da designen ble registrert, eller da registreringen ble overført til designhaveren, kan kravet ikke fremmes senere enn tre år etter registreringen eller overføringen.
 
@@ -217,7 +253,14 @@ Hvis krav om administrativ overprøving med påstand om at designhaveren ikke ha
 
 ### § 27. Innlevering og behandling av krav om administrativ overprøving
 
-Et krav om administrativ overprøving skal innleveres skriftlig til Patentstyret ogoppgi navnet og adressen til den som har innlevert kravet,oppgi registreringen og eventuelt hvilken design i registreringen som kreves overprøvd,oppgi hvilke grunner kravet bygger på, oginneholde nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.Kravet skal i tillegg oppfylle de vilkårene som er fastsatt av Kongen ved forskrift. Det skal betales fastsatt gebyr, ellers anses kravet som ikke innkommet.
+Et krav om administrativ overprøving skal innleveres skriftlig til Patentstyret og
+
+1. oppgi navnet og adressen til den som har innlevert kravet,
+2. oppgi registreringen og eventuelt hvilken design i registreringen som kreves overprøvd,
+3. oppgi hvilke grunner kravet bygger på, og
+4. inneholde nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.
+
+Kravet skal i tillegg oppfylle de vilkårene som er fastsatt av Kongen ved forskrift. Det skal betales fastsatt gebyr, ellers anses kravet som ikke innkommet.
 
 Hvis kravet ikke oppfyller vilkårene i første ledd og [§ 26](lov/2003-03-14-15/§26), skal Patentstyret gi en rimelig frist for uttalelse og om mulig retting av manglene. Blir manglene ikke rettet innen utløpet av fristen, skal kravet avvises hvis ikke Patentstyret finner at det bør gis en ny frist for retting.
 
@@ -297,7 +340,15 @@ Avgjørelsen av en sak om administrativ oppheving etter [§ 25](lov/2003-03-14-1
 
 Avgjørelsen om å oppheve en innføring etter [§ 33](lov/2003-03-14-15/§33), kan påklages til Klagenemnden av innehaveren.
 
-Avgjørelsen om å avvise eller avslå et krav omgjenopptakelse etter [§ 19](lov/2003-03-14-15/§19) fjerde ledd,unntak fra offentlighet etter [§§ 21](lov/2003-03-14-15/§21) fjerde ledd, [27](lov/2003-03-14-15/§27) sjette ledd og [38](lov/2003-03-14-15/§38) femte ledd,innsyn i dokumenter i saker etter loven her,fornyelse av en designregistrering etter [§ 24](lov/2003-03-14-15/§24), ellerat en sak skal tas under behandling etter [§ 50](lov/2003-03-14-15/§50),kan påklages til Klagenemnden av den som har fremsatt kravet.
+Avgjørelsen om å avvise eller avslå et krav om
+
+1. gjenopptakelse etter [§ 19](lov/2003-03-14-15/§19) fjerde ledd,
+2. unntak fra offentlighet etter [§§ 21](lov/2003-03-14-15/§21) fjerde ledd, [27](lov/2003-03-14-15/§27) sjette ledd og [38](lov/2003-03-14-15/§38) femte ledd,
+3. innsyn i dokumenter i saker etter loven her,
+4. fornyelse av en designregistrering etter [§ 24](lov/2003-03-14-15/§24), eller
+5. at en sak skal tas under behandling etter [§ 50](lov/2003-03-14-15/§50),
+
+kan påklages til Klagenemnden av den som har fremsatt kravet.
 
 Andre avgjørelser i Patentstyret kan ikke påklages.
 
@@ -305,7 +356,14 @@ Andre avgjørelser i Patentstyret kan ikke påklages.
 
 ### § 37. Innlevering av klage
 
-En klage må være innlevert skriftlig til Patentstyret innen to måneder etter den dagen da melding om avgjørelsen ble sendt vedkommende part. Klagen skal oppgiklagerens navn og adresse,avgjørelsen som det klages over,hvilken endring som ønskes i avgjørelsen, oghvilke grunner klagen bygger på.Klagen skal i tillegg oppfylle de vilkårene som er fastsatt av Kongen ved forskrift. Fastsatt klagegebyr skal betales, ellers opptas ikke klagen til behandling.
+En klage må være innlevert skriftlig til Patentstyret innen to måneder etter den dagen da melding om avgjørelsen ble sendt vedkommende part. Klagen skal oppgi
+
+1. klagerens navn og adresse,
+2. avgjørelsen som det klages over,
+3. hvilken endring som ønskes i avgjørelsen, og
+4. hvilke grunner klagen bygger på.
+
+Klagen skal i tillegg oppfylle de vilkårene som er fastsatt av Kongen ved forskrift. Fastsatt klagegebyr skal betales, ellers opptas ikke klagen til behandling.
 
 > Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
 
@@ -343,7 +401,13 @@ Den som har gjort inngrep i en annens rett etter denne loven, eller medvirket ti
 
 ### § 40. Vederlag og erstatning for designinngrep
 
-For forsettlig eller uaktsomt designinngrep skal inngriperen betale til rettighetshaveren:vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering,erstatning for skade som følge av inngrepet, ellervederlag svarende til vinningen som er oppnådd ved inngrepet.Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for rettighetshaveren.
+For forsettlig eller uaktsomt designinngrep skal inngriperen betale til rettighetshaveren:
+
+1. vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering,
+2. erstatning for skade som følge av inngrepet, eller
+3. vederlag svarende til vinningen som er oppnådd ved inngrepet.
+
+Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for rettighetshaveren.
 
 Er det handlet forsettlig eller grovt uaktsomt skal inngriperen, dersom rettighetshaveren krever det, i stedet for vederlag og erstatning fastsatt etter første ledd betale vederlag svarende til det dobbelte av en rimelig lisensavgift for utnyttelsen.
 
@@ -357,7 +421,14 @@ Ansvaret etter første til tredje ledd kan lempes etter [lov 13. juni 1969 nr. 2
 
 ### § 41. Tiltak for å hindre inngrep
 
-For å hindre inngrep kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for produkter som utgjør designinngrep og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slike produkter. Slikt pålegg kan blant annet gå ut på at produkter og materialer og hjelpemidler skal:tilbakekalles fra handelen,definitivt fjernes fra handelen,ødelegges, ellerutleveres til rettighetshaveren.Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjeparts interesser.
+For å hindre inngrep kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for produkter som utgjør designinngrep og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slike produkter. Slikt pålegg kan blant annet gå ut på at produkter og materialer og hjelpemidler skal:
+
+1. tilbakekalles fra handelen,
+2. definitivt fjernes fra handelen,
+3. ødelegges, eller
+4. utleveres til rettighetshaveren.
+
+Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjeparts interesser.
 
 Første ledd gjelder tilsvarende i tilfeller som nevnt i [§ 39 a](lov/2003-03-14-15/§39a) annet punktum.
 
@@ -409,7 +480,12 @@ Den som forsettlig eller uaktsomt har brutt opplysningsplikten etter [§ 22](lov
 
 ### § 46. Tvungent verneting
 
-Følgende søksmål må reises ved Oslo tingrett:Søksmål om retten til en design som er søkt registrert etter loven her, jf. [§ 30](lov/2003-03-14-15/§30).Søksmål om prøving av avgjørelse truffet av Klagenemnden som omtalt i [§ 39](lov/2003-03-14-15/§39).Søksmål om ugyldighet eller om overføring av en registrering, jf. [§§ 25](lov/2003-03-14-15/§25) og [30](lov/2003-03-14-15/§30).Sivilt søksmål om designinngrep.
+Følgende søksmål må reises ved Oslo tingrett:
+
+1. Søksmål om retten til en design som er søkt registrert etter loven her, jf. [§ 30](lov/2003-03-14-15/§30).
+2. Søksmål om prøving av avgjørelse truffet av Klagenemnden som omtalt i [§ 39](lov/2003-03-14-15/§39).
+3. Søksmål om ugyldighet eller om overføring av en registrering, jf. [§§ 25](lov/2003-03-14-15/§25) og [30](lov/2003-03-14-15/§30).
+4. Sivilt søksmål om designinngrep.
 
 Oslo tingrett er verneting for søkere og designhavere som ikke har bopel i Norge.
 
@@ -465,7 +541,14 @@ Gebyrsatsene for ikke bekreftede utskrifter og kopier skal fastsettes slik at de
 
 ### § 52. Forskrifter til loven (avgifter og gebyrer mv.)
 
-Kongen kan ved forskrift gi nærmere bestemmelser til utfylling og gjennomføring av loven her. Kongen kan blant annet gi bestemmelser omomfanget av Patentstyrets undersøkelse av søknader,internasjonale søknader og registreringer,lengden på frister etter loven,deling og sammenslåing av søknader og registreringer,føring av og innsyn i designregistret, ogsatser for avgifter og gebyrer, og betaling av disse. Kongen kan herunder fastsette gebyrer for deling og sammenslåing av søknader og registreringer.
+Kongen kan ved forskrift gi nærmere bestemmelser til utfylling og gjennomføring av loven her. Kongen kan blant annet gi bestemmelser om
+
+1. omfanget av Patentstyrets undersøkelse av søknader,
+2. internasjonale søknader og registreringer,
+3. lengden på frister etter loven,
+4. deling og sammenslåing av søknader og registreringer,
+5. føring av og innsyn i designregistret, og
+6. satser for avgifter og gebyrer, og betaling av disse. Kongen kan herunder fastsette gebyrer for deling og sammenslåing av søknader og registreringer.
 
 > Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
 

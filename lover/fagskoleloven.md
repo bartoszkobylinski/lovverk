@@ -15,7 +15,7 @@ xml_hash: "d37ccbbeae3f5222488b74cedd4081c90bc0b672c958790f85368f29982b3dc0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,11 @@ Formålet med virksomheten til Nasjonalt organ for kvalitet i utdanningen (NOKUT
 
 NOKUTs styre er regulert i [universitets- og høyskoleloven § 16-4](lov/2024-03-08-9/§16-4).
 
-NOKUT er faglig uavhengig i følgende oppgaver:akkreditering av institusjoner, fagområder og fagskoleutdanningertilsyn med akkrediterte institusjoner, fagområder og fagskoleutdanningerevalueringer for å vurdere kvaliteten i høyere yrkesfaglig utdanning.
+NOKUT er faglig uavhengig i følgende oppgaver:
+
+1. akkreditering av institusjoner, fagområder og fagskoleutdanninger
+2. tilsyn med akkrediterte institusjoner, fagområder og fagskoleutdanninger
+3. evalueringer for å vurdere kvaliteten i høyere yrkesfaglig utdanning.
 
 Departementet kan fastsette forskrift om saksbehandlingsregler for NOKUTs virksomhet.
 
@@ -84,7 +88,12 @@ Dersom NOKUT avviser eller avslår en søknad om akkreditering, kan NOKUT i sær
 
 Fagskoler skal ha tilfredsstillende interne systemer for kvalitetssikring. Studentevalueringer skal inngå i disse systemene.
 
-Departementet gir forskrift omvilkår for akkreditering av fagskoleutdanningvilkår for akkreditering av fagområdevilkår for institusjonsakkrediteringkrav til kvalitetssikringssystemer og kvalitetsarbeid.
+Departementet gir forskrift om
+
+1. vilkår for akkreditering av fagskoleutdanning
+2. vilkår for akkreditering av fagområde
+3. vilkår for institusjonsakkreditering
+4. krav til kvalitetssikringssystemer og kvalitetsarbeid.
 
 > Endret ved lover [11 juni 2021 nr. 81](lov/2021-06-11-81) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1972](forskrift/2021-06-18-1972)), [31 mai 2024 nr. 26](lov/2024-05-31-26) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 873](forskrift/2024-05-31-873)).
 
@@ -128,7 +137,11 @@ Departementet kan ved enkeltvedtak forby bruk av betegnelse eller navn som urikt
 
 Departementet kan etter søknad tillate bruk av etablerte sammensatte betegnelser selv om de kan forveksles med betegnelsene fagskole eller fagskoleutdanning.
 
-Departementet kan ilegge overtredelsesgebyr til virksomheter som forsettlig eller uaktsomtbruker betegnelsen fagskole eller fagskoleutdanning uten at det foreligger nødvendig akkrediteringmarkedsfører en skole eller utdanning på en måte som gir et uriktig inntrykk av at det foreligger en akkreditering som fagskole eller fagskoleutdanningbryter et forbud som nevnt i annet ledd mot bruk av betegnelser eller navn.
+Departementet kan ilegge overtredelsesgebyr til virksomheter som forsettlig eller uaktsomt
+
+1. bruker betegnelsen fagskole eller fagskoleutdanning uten at det foreligger nødvendig akkreditering
+2. markedsfører en skole eller utdanning på en måte som gir et uriktig inntrykk av at det foreligger en akkreditering som fagskole eller fagskoleutdanning
+3. bryter et forbud som nevnt i annet ledd mot bruk av betegnelser eller navn.
 
 Departementet kan gi forskrift om overtredelsesgebyr. Et endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
 
@@ -178,7 +191,14 @@ Alle fagskoler skal ha et eget styre. Offentlige fagskoler og fagskoler organise
 
 Styret selv skal fatte vedtak om at det etter styrets skjønn er forsvarlig å ta opp nye studenter. Vedtaket skal fattes før studiestart.
 
-Styret skal for øvrigsørge for at studentene får den utdanningen som fagskolen har akkreditering forsørge for at alle vilkår for eventuelle offentlige tilskudd er oppfyltsørge for at opplysninger som blir gitt til NOKUT, studenter og dem som søker utdanning er korrekte og fullstendigesørge for at det blir gitt nødvendig informasjon og veiledning til søkere til og studenter ved fagskolen, blant annet om skolepenger, studietilbud, søknadsfrister og opptakskravfastsette krav til lærerkompetanse, instruktørkompetanse og ledelse ved fagskolensørge for at virksomheten drives i samsvar med gjeldende lover og regler, og etablere og sørge for gjennomføring av systematiske kontrolltiltak (internkontroll) for å sikre dette. Departementet kan gi forskrift om krav til internkontroll etter første punktum.
+Styret skal for øvrig
+
+1. sørge for at studentene får den utdanningen som fagskolen har akkreditering for
+2. sørge for at alle vilkår for eventuelle offentlige tilskudd er oppfylt
+3. sørge for at opplysninger som blir gitt til NOKUT, studenter og dem som søker utdanning er korrekte og fullstendige
+4. sørge for at det blir gitt nødvendig informasjon og veiledning til søkere til og studenter ved fagskolen, blant annet om skolepenger, studietilbud, søknadsfrister og opptakskrav
+5. fastsette krav til lærerkompetanse, instruktørkompetanse og ledelse ved fagskolen
+6. sørge for at virksomheten drives i samsvar med gjeldende lover og regler, og etablere og sørge for gjennomføring av systematiske kontrolltiltak (internkontroll) for å sikre dette. Departementet kan gi forskrift om krav til internkontroll etter første punktum.
 
 Styret kan delegere sin avgjørelsesmyndighet til andre ved fagskolen hvis det ikke følger av denne loven at styret selv skal fatte vedtak.
 
@@ -230,7 +250,17 @@ Styret har det overordnede ansvaret for studentenes læringsmiljø. Styret skal,
 
 Hvis fagskolen er tilknyttet en studentsamskipnad, skal styret i samarbeid med studentsamskipnaden legge til rette for et godt og inkluderende læringsmiljø og arbeide for å bedre studentvelferden på lærestedet.
 
-Styret har ansvaret for at læringsmiljøet og det fysiske og psykiske arbeidsmiljøet er fullt forsvarlig med hensyn til studentenes helse, sikkerhet og velferd. I utformingen av det fysiske arbeidsmiljøet skal styret, så langt det er mulig og rimelig, sørge forat lokaler, adkomstveier, trapper, mv. er dimensjonert og innredet for den virksomheten som drivesat lokalene har gode lys- og lydforhold og forsvarlig inneklima og luftkvalitetat lokalene blir vedlikeholdt og er rene og ryddigeat lokalene er innredet slik at studentene unngår uheldige fysiske belastningerat virksomheten er planlagt slik at skader og ulykker forebyggesat tekniske innretninger og utstyr er sikret og blir vedlikeholdt, slik at studentene unngår skader og ulykkerat lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at personer med nedsatt funksjonsevne kan studere ved fagskolenat læringsmiljøet er innrettet for studenter av ulike kjønnat læringsmiljøet er utformet etter prinsippet om universell utforming.
+Styret har ansvaret for at læringsmiljøet og det fysiske og psykiske arbeidsmiljøet er fullt forsvarlig med hensyn til studentenes helse, sikkerhet og velferd. I utformingen av det fysiske arbeidsmiljøet skal styret, så langt det er mulig og rimelig, sørge for
+
+1. at lokaler, adkomstveier, trapper, mv. er dimensjonert og innredet for den virksomheten som drives
+2. at lokalene har gode lys- og lydforhold og forsvarlig inneklima og luftkvalitet
+3. at lokalene blir vedlikeholdt og er rene og ryddige
+4. at lokalene er innredet slik at studentene unngår uheldige fysiske belastninger
+5. at virksomheten er planlagt slik at skader og ulykker forebygges
+6. at tekniske innretninger og utstyr er sikret og blir vedlikeholdt, slik at studentene unngår skader og ulykker
+7. at lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at personer med nedsatt funksjonsevne kan studere ved fagskolen
+8. at læringsmiljøet er innrettet for studenter av ulike kjønn
+9. at læringsmiljøet er utformet etter prinsippet om universell utforming.
 
 Departementet kan gi forskrift om kravene til læringsmiljøet.
 
@@ -280,7 +310,10 @@ Departementet kan gi forskrift om behandlingen av personopplysninger ved gjennom
 
 Styret skal fastsette en plan for innholdet i utdanningen og bestemme hvordan planen skal gjennomføres. Det skal blant annet fastsettes bestemmelser om obligatoriske kurs, praksisstudier, vurderingsformer og lignende.
 
-Departementet kan gi forskrift omnasjonalt kvalifikasjonsrammeverket felles vurderingsuttrykk ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering.
+Departementet kan gi forskrift om
+
+1. nasjonalt kvalifikasjonsrammeverk
+2. et felles vurderingsuttrykk ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering.
 
 > Endret ved lov [31 mai 2024 nr. 26](lov/2024-05-31-26) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 873](forskrift/2024-05-31-873)).
 
@@ -576,9 +609,21 @@ Fagskoler kan dele en persons fødselsnummer, D-nummer og informasjon som kan id
 
 Personopplysninger som nevnt i annet og tredje ledd kan behandles i en database for statistikk om fagskoleutdanning for å legge til rette for å utarbeide statistikk og gjennomføre utredninger og forskning, og for departementets forvaltning og ansvar for fagskoleutdanning.
 
-For søkere til og studenter ved fagskoler kan følgende personopplysninger behandles:fødselsnummermidlertidig fødselsnummernavnstatsborgerskapopplysninger knyttet til utdanningen som studieprogresjon og karakterer.
+For søkere til og studenter ved fagskoler kan følgende personopplysninger behandles:
 
-For ansatte ved fagskoler kan følgende personopplysninger behandles:fødselsnummerID-type og ID-nummernavnstatsborgerskapopplysninger knyttet til stillingsforhold og finansiering av stillingen.
+1. fødselsnummer
+2. midlertidig fødselsnummer
+3. navn
+4. statsborgerskap
+5. opplysninger knyttet til utdanningen som studieprogresjon og karakterer.
+
+For ansatte ved fagskoler kan følgende personopplysninger behandles:
+
+1. fødselsnummer
+2. ID-type og ID-nummer
+3. navn
+4. statsborgerskap
+5. opplysninger knyttet til stillingsforhold og finansiering av stillingen.
 
 Fagskoler skal rapportere personopplysninger som nevnt i annet og tredje ledd til databasen for statistikk om fagskoleutdanning. Departementet kan fastsette frister for rapporteringen, og at rapporteringen skal skje elektronisk. Departementet kan gi fagskoler fritak fra plikten til å rapportere opplysninger om søkere.
 

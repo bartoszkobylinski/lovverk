@@ -38,9 +38,21 @@ Nasjonalbiblioteket kan gi utfyllende bestemmelser.
 
 ## § 3. Utforming, innberetning og publisering
 
-1. UtformingNasjonalbiblioteket utarbeider statistikkskjemaer med veiledninger for de bibliotekkategoriene forskriften i henhold til [§ 1](forskrift/1987-01-05-2/§1) gjelder for. Nasjonalbiblioteket kan gi bestemmelser om annen innhenting av statistikk enn utfylling av skjema.
-2. InnberetningKommunen skal utarbeide og avgi statistikk for folkebibliotekene i kommunen til fylkesbiblioteket innen fastsatt frist.Fylkeskommunen skal avgi statistikk for egen virksomhet jf. [§ 6 i lov om folkebibliotek](lov/1985-12-20-108/§6), og rammebetingelser til Nasjonalbiblioteket innen fastsatt frist.Fylkeskommunen utarbeider samlet statistisk oversikt over folkebibliotekenes virksomhet og rammebetingelser i fylkeskommunens virkekrets og avgir statistikken til Nasjonalbiblioteket innen fastsatt frist. Fylkeskommunen skal bistå Nasjonalbiblioteket ved utarbeiding av spesialstatistikker.Bibliotekstatistikk for fengsler utarbeides av den som er ansvarlig for driften av institusjonen. Nasjonalbiblioteket gir nærmere regler.
-3. PubliseringNasjonalbiblioteket er ansvarlig for å utarbeide og offentliggjøre den samlede statistikken for de bibliotekkategorier forskriften i henhold til [§ 1](forskrift/1987-01-05-2/§1) gjelder for.
+1. Utforming
+
+   Nasjonalbiblioteket utarbeider statistikkskjemaer med veiledninger for de bibliotekkategoriene forskriften i henhold til [§ 1](forskrift/1987-01-05-2/§1) gjelder for. Nasjonalbiblioteket kan gi bestemmelser om annen innhenting av statistikk enn utfylling av skjema.
+2. Innberetning
+
+   Kommunen skal utarbeide og avgi statistikk for folkebibliotekene i kommunen til fylkesbiblioteket innen fastsatt frist.
+
+   Fylkeskommunen skal avgi statistikk for egen virksomhet jf. [§ 6 i lov om folkebibliotek](lov/1985-12-20-108/§6), og rammebetingelser til Nasjonalbiblioteket innen fastsatt frist.
+
+   Fylkeskommunen utarbeider samlet statistisk oversikt over folkebibliotekenes virksomhet og rammebetingelser i fylkeskommunens virkekrets og avgir statistikken til Nasjonalbiblioteket innen fastsatt frist. Fylkeskommunen skal bistå Nasjonalbiblioteket ved utarbeiding av spesialstatistikker.
+
+   Bibliotekstatistikk for fengsler utarbeides av den som er ansvarlig for driften av institusjonen. Nasjonalbiblioteket gir nærmere regler.
+3. Publisering
+
+   Nasjonalbiblioteket er ansvarlig for å utarbeide og offentliggjøre den samlede statistikken for de bibliotekkategorier forskriften i henhold til [§ 1](forskrift/1987-01-05-2/§1) gjelder for.
 
 > Endret ved [forskrift 10 aug 2022 nr. 1421](forskrift/2022-08-10-1421) (i kraft 1 jan 2023).
 

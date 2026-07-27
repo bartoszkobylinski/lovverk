@@ -34,7 +34,14 @@ Innsamling og behandling av helseopplysninger i registeret skjer etter nærmere 
 
 ### § 1-2. Registerets formål
 
-Registeret skal bidra til overvåking av antibiotikabruk og helsetjenesteassosierte infeksjoner hos pasienter i sykehus, dagkirurgiske klinikker og sykehjem gjennom systematisk fortløpende eller periodisk innsamling av data. Rapportering, tolkning og analyse av data fra disse virksomhetene jf. [§ 1-3](forskrift/2005-06-17-611/§1-3) annet ledd, skal legge grunnlaget for åovervåke antibiotikabruk og forekomsten av helsetjenesteassosierte infeksjoner i virksomhetene over tid,oppdage og bidra til oppklaring av utbrudd av helsetjenesteassosierte infeksjoner,evaluere tiltak for rasjonell antibiotikabruk og virkninger av smitteverntiltak i virksomhetene,gi råd til helsepersonell, virksomheter og forvaltning om antibiotikabruk og smitteverntiltak,gi grunnlag for forskning om antibiotikabruk og forskning om helsetjenesteassosierte infeksjoner i sykehus, dagkirurgiske klinikker og sykehjem,bidra med data til europeisk overvåking av antibiotikabruk og helsetjenesteassosierte infeksjoner.
+Registeret skal bidra til overvåking av antibiotikabruk og helsetjenesteassosierte infeksjoner hos pasienter i sykehus, dagkirurgiske klinikker og sykehjem gjennom systematisk fortløpende eller periodisk innsamling av data. Rapportering, tolkning og analyse av data fra disse virksomhetene jf. [§ 1-3](forskrift/2005-06-17-611/§1-3) annet ledd, skal legge grunnlaget for å
+
+1. overvåke antibiotikabruk og forekomsten av helsetjenesteassosierte infeksjoner i virksomhetene over tid,
+2. oppdage og bidra til oppklaring av utbrudd av helsetjenesteassosierte infeksjoner,
+3. evaluere tiltak for rasjonell antibiotikabruk og virkninger av smitteverntiltak i virksomhetene,
+4. gi råd til helsepersonell, virksomheter og forvaltning om antibiotikabruk og smitteverntiltak,
+5. gi grunnlag for forskning om antibiotikabruk og forskning om helsetjenesteassosierte infeksjoner i sykehus, dagkirurgiske klinikker og sykehjem,
+6. bidra med data til europeisk overvåking av antibiotikabruk og helsetjenesteassosierte infeksjoner.
 
 Opplysninger i registeret kan foruten de formål som nevnt ovenfor, behandles til styring, planlegging og kvalitetssikring av helse- og omsorgstjenesten og helse- og omsorgsforvaltningen, samt til utarbeiding av statistikk og til forskning.
 
@@ -42,7 +49,10 @@ Opplysninger i registeret kan foruten de formål som nevnt ovenfor, behandles ti
 
 ### § 1-3. Innholdet i registeret
 
-Registeret kan inneholde avidentifiserte helseopplysninger om hvorvidt personer som følges opp under og etter et opphold i sykehus, dagkirurgiske klinikker og sykehjemhar mottatt antibiotika for forebygging eller behandlinghar blitt påført en helsetjenesteassosiert infeksjon.
+Registeret kan inneholde avidentifiserte helseopplysninger om hvorvidt personer som følges opp under og etter et opphold i sykehus, dagkirurgiske klinikker og sykehjem
+
+1. har mottatt antibiotika for forebygging eller behandling
+2. har blitt påført en helsetjenesteassosiert infeksjon.
 
 Helsedirektoratet gir nærmere bestemmelser om antibiotikabruk som skal rapporteres, hvilke infeksjoner som skal rapporteres, hvilke sykehus, dagkirurgiske klinikker, sykehjem og pasientgrupper, jf. første ledd som skal inkluderes i registeret og hvilke som skal delta i prevalens- eller insidensundersøkelser.
 
@@ -74,7 +84,27 @@ Folkehelseinstituttet kan inngå skriftlig avtale med en databehandler om innsam
 
 ### § 1-7. Opplysninger i registeret
 
-Registeret kan inneholde følgende opplysninger om personer som tilhører de pasientgrupper som er bestemt inkludert i registeret, jf. [§ 1-3](forskrift/2005-06-17-611/§1-3) annet ledd.avidentifiserte personopplysninger:virksomhetens løpenummer for pasienten,pasientens kjønn,pasientens fødselsår.administrative opplysninger:innleggelsesdato, utskrivingsdato og oppfølgingsdatoer,virksomhet der pasienten var innlagt og avdelingstype,om operasjonen, som operasjonskode, -type, -dato, -klokkeslett og -varighet,bruk av pasientnært utstyr; type og varighet.medisinske opplysninger:om forebyggende antibiotikabruk og antibiotikabruk som ikke relaterer seg til helsetjenesteassosierte infeksjoner, herunder indikasjon, virkestoff(er), dose, varighet og administrasjonsmåte.om antatt disponerende faktorer for helsetjenesteassosierte infeksjoner,om type infeksjon og innsykningsdato,om smittestoffet inkludert antibiotikaresistens,om antibiotikabehandling, varighet og eventuelle følgetilstander,status ved utskrivelse og i oppfølgingsperioden.
+Registeret kan inneholde følgende opplysninger om personer som tilhører de pasientgrupper som er bestemt inkludert i registeret, jf. [§ 1-3](forskrift/2005-06-17-611/§1-3) annet ledd.
+
+1. avidentifiserte personopplysninger:
+
+   1. virksomhetens løpenummer for pasienten,
+   2. pasientens kjønn,
+   3. pasientens fødselsår.
+2. administrative opplysninger:
+
+   1. innleggelsesdato, utskrivingsdato og oppfølgingsdatoer,
+   2. virksomhet der pasienten var innlagt og avdelingstype,
+   3. om operasjonen, som operasjonskode, -type, -dato, -klokkeslett og -varighet,
+   4. bruk av pasientnært utstyr; type og varighet.
+3. medisinske opplysninger:
+
+   1. om forebyggende antibiotikabruk og antibiotikabruk som ikke relaterer seg til helsetjenesteassosierte infeksjoner, herunder indikasjon, virkestoff(er), dose, varighet og administrasjonsmåte.
+   2. 1. om antatt disponerende faktorer for helsetjenesteassosierte infeksjoner,
+      2. om type infeksjon og innsykningsdato,
+      3. om smittestoffet inkludert antibiotikaresistens,
+      4. om antibiotikabehandling, varighet og eventuelle følgetilstander,
+      5. status ved utskrivelse og i oppfølgingsperioden.
 
 > Endret ved [forskrift 27 april 2012 nr. 497](forskrift/2012-04-27-497) (i kraft 1 juli 2012).
 
@@ -162,7 +192,21 @@ Databehandleren som behandler helseopplysninger på vegne av Folkehelseinstitutt
 
 Internkontrollen innebærer at Folkehelseinstituttet skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem det måtte angå.
 
-Internkontrollen skal blant annet inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:oppfyllelse av krav om at avidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften [§ 1-8](forskrift/2005-06-17-611/§1-8),hvordan virksomheten oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften [§ 3-1](forskrift/2005-06-17-611/§3-1),rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik, og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Internkontrollen skal blant annet inneholde:
+
+1. oversikt over hvordan virksomheten er organisert,
+2. oversikt over ansvars- og myndighetsforhold,
+3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,
+4. rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:
+
+   1. oppfyllelse av krav om at avidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),
+   2. dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften [§ 1-8](forskrift/2005-06-17-611/§1-8),
+   3. hvordan virksomheten oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften [§ 3-1](forskrift/2005-06-17-611/§3-1),
+5. rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik, og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,
+8. rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og
+9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i annet ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette, dersom det anses påkrevd. Tilsynsmyndighetene kan dispensere fra hele eller deler av dette kapittel når særlige forhold foreligger.
 
@@ -214,7 +258,11 @@ Til å begynne med vil den landsomfattende overvåkingsperioden kun vare tre må
 
 Registeret er primært et helseregister for oversikt over og forskning om infeksjoner i sykehustjenesten. Derfor er god oppslutning om overvåkingen og tidlig bruk av opplysningene viktig. God overvåking er kjennetegnet ved at data fører til handling.
 
-Mange virksomheter har etablert overvåking av sykehusinfeksjoner i henhold til den nå opphevede forskrift fra 1996 om smittevern i helseinstitusjoner – sykehusinfeksjoner. Fra og med 1. juli 2005 er denne erstattet av forskrift om smittevern i helse- og omsorgstjenesten som viderefører kravet om infeksjonsovervåking internt i virksomheten. Denne overvåkingen fungerer som et verktøy for det praktiske smittevernarbeidet lokalt i virksomheten. Norsk overvåkingssystem for infeksjoner i sykehustjenesten skal ikke erstatte, men utfylle denne overvåkingen. Systemet skal gi en nasjonal tilleggsgevinst utover den som kan oppnås i den enkelte virksomhet. Det gjelder blant annet på følgende områder:Sammenlikning av infeksjonsforekomsten i ulike virksomheter.Forskning om årsaker til sykehusinfeksjoner i et register som inneholder tilstrekkelig mange pasienter.Nasjonal oversikt over forekomst av sykehusinfeksjoner.
+Mange virksomheter har etablert overvåking av sykehusinfeksjoner i henhold til den nå opphevede forskrift fra 1996 om smittevern i helseinstitusjoner – sykehusinfeksjoner. Fra og med 1. juli 2005 er denne erstattet av forskrift om smittevern i helse- og omsorgstjenesten som viderefører kravet om infeksjonsovervåking internt i virksomheten. Denne overvåkingen fungerer som et verktøy for det praktiske smittevernarbeidet lokalt i virksomheten. Norsk overvåkingssystem for infeksjoner i sykehustjenesten skal ikke erstatte, men utfylle denne overvåkingen. Systemet skal gi en nasjonal tilleggsgevinst utover den som kan oppnås i den enkelte virksomhet. Det gjelder blant annet på følgende områder:
+
+- Sammenlikning av infeksjonsforekomsten i ulike virksomheter.
+- Forskning om årsaker til sykehusinfeksjoner i et register som inneholder tilstrekkelig mange pasienter.
+- Nasjonal oversikt over forekomst av sykehusinfeksjoner.
 
 Registeret har positive tilleggseffekter for de enkelte deltakende virksomhetene. Nasjonalt folkehelseinstitutt har utarbeidet en nasjonal mal for overvåkingen med felles kodeverk og registreringsmetoder, og dette vil gjøre det lettere å komme i gang med overvåkingen lokalt. Virksomhetene vil få veiledning om datatekniske løsninger, og de kan sammenlikne seg med andre virksomheter som har utført overvåkingen på tilsvarende måte. I tillegg får forskere ved virksomhetene tilgang til et nasjonalt register for forskning om årsaker til sykehusinfeksjoner.
 
@@ -316,7 +364,12 @@ Bestemmelsen pålegger den databehandlingsansvarlige for registeret å føre ove
 
 ### Til § 4-1 Informasjonssikkerhet
 
-Første ledd viser til [helseregisterloven §§ 16](lov/2014-06-20-43/§16) flg. Bestemmelsen pålegger Nasjonalt folkehelseinstitutt og databehandleren å sørge for tilfredsstillende informasjonssikkerhet ved behandling av helseopplysninger. Dette omfatter blant annet et ansvar for å sørge for at tilstrekkelig sikkerhetsfaglig kompetanse er tilgjengelig. I tillegg til ansvar for sikkerheten i egen organisasjon må Nasjonalt folkehelseinstitutt også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører. Begrepet informasjonssikkerhet omfatter:sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes,sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,sikring av tilgjengelighet, dvs. sørge for at tilstrekkelige og relevante opplysninger er til stede,sikring av kvalitet, dvs. sørge for at opplysningene er riktige.
+Første ledd viser til [helseregisterloven §§ 16](lov/2014-06-20-43/§16) flg. Bestemmelsen pålegger Nasjonalt folkehelseinstitutt og databehandleren å sørge for tilfredsstillende informasjonssikkerhet ved behandling av helseopplysninger. Dette omfatter blant annet et ansvar for å sørge for at tilstrekkelig sikkerhetsfaglig kompetanse er tilgjengelig. I tillegg til ansvar for sikkerheten i egen organisasjon må Nasjonalt folkehelseinstitutt også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører. Begrepet informasjonssikkerhet omfatter:
+
+- sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes,
+- sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,
+- sikring av tilgjengelighet, dvs. sørge for at tilstrekkelige og relevante opplysninger er til stede,
+- sikring av kvalitet, dvs. sørge for at opplysningene er riktige.
 
 Tilfredsstillende informasjonssikkerhet skal oppnås ved hjelp av planlagte og systematiske tiltak. Dette innebærer at anerkjente teknikker og standarder for kvalitetsstyring, internkontroll og informasjonssikkerhet skal legges til grunn ved sikkerhetsarbeidet. De tiltak som etableres, skal være både organisatoriske og tekniske. Sikkerhetstiltakene og selve informasjonssystemet skal kunne dokumenteres.
 

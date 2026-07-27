@@ -56,17 +56,38 @@ Andel egenfinansiering eller egeninnsats vil bli tillagt vekt ved prioritering m
 
 Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter. Søknadsfristen fastsettes og kunngjøres av Miljødirektoratet.
 
-Søknaden skal inneholdesøkerens/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson,hva det søkes om tilskudd til og hvordan det kan bidra til å oppfylle målet med tilskuddsordningen, herunder om tilskuddet vil bidra til tiltak vedtatt i kommunedelplan for naturmangfold, se [§ 6](forskrift/2025-11-02-2228/§6),kartfesting av tiltaksområdet i Miljødirektoratets søknadssenter,bekreftelse på at grunneier har intensjon om å inngå avtale om langsiktig bevaring ved søknad om prosjektering, og vedlagt signert grunneieravtale ved søknad om gjennomføring av tiltak, se [§ 5](forskrift/2025-11-02-2228/§5),søknadsbeløp,detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem,informasjon om hvilke andre finansieringsordninger det er søkt tiltaksmidler over, hvis relevant,eventuell egenfinansiering og/eller egen arbeidsinnsats (dugnad), se [§ 6](forskrift/2025-11-02-2228/§6)informasjon om søker også utøver økonomisk aktivitet, se [§ 11](forskrift/2025-11-02-2228/§11),informasjon om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket,vurdering av miljørettsprinsippene i [naturmangfoldloven §§ 8](lov/2009-06-19-100/§8)–[12](lov/2009-06-19-100/§12), jf. [§ 7](lov/2009-06-19-100/§7),en fremdriftsplan.
+Søknaden skal inneholde
+
+1. søkerens/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson,
+2. hva det søkes om tilskudd til og hvordan det kan bidra til å oppfylle målet med tilskuddsordningen, herunder om tilskuddet vil bidra til tiltak vedtatt i kommunedelplan for naturmangfold, se [§ 6](forskrift/2025-11-02-2228/§6),
+3. kartfesting av tiltaksområdet i Miljødirektoratets søknadssenter,
+4. bekreftelse på at grunneier har intensjon om å inngå avtale om langsiktig bevaring ved søknad om prosjektering, og vedlagt signert grunneieravtale ved søknad om gjennomføring av tiltak, se [§ 5](forskrift/2025-11-02-2228/§5),
+5. søknadsbeløp,
+6. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem,
+7. informasjon om hvilke andre finansieringsordninger det er søkt tiltaksmidler over, hvis relevant,
+8. eventuell egenfinansiering og/eller egen arbeidsinnsats (dugnad), se [§ 6](forskrift/2025-11-02-2228/§6)
+9. informasjon om søker også utøver økonomisk aktivitet, se [§ 11](forskrift/2025-11-02-2228/§11),
+10. informasjon om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket,
+11. vurdering av miljørettsprinsippene i [naturmangfoldloven §§ 8](lov/2009-06-19-100/§8)–[12](lov/2009-06-19-100/§12), jf. [§ 7](lov/2009-06-19-100/§7),
+12. en fremdriftsplan.
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
 ## § 8. Tilleggsopplysninger, kontroll og befaring før vedtak
 
-Miljødirektoratet kankreve at søkeren gir ytterligere opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden,kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere, oggjennomføre befaring som er nødvendig for å vurdere søknaden, og kreve at søkeren medvirker når det er nødvendig.
+Miljødirektoratet kan
+
+1. kreve at søkeren gir ytterligere opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden,
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere, og
+3. gjennomføre befaring som er nødvendig for å vurdere søknaden, og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 9. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til Miljødirektoratet dersomsøker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger,uberettiget tilskudd er utbetalt, ellerdet oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Miljødirektoratet avgjør om endringene kan godkjennes.
+Søker plikter straks å melde fra til Miljødirektoratet dersom
+
+1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger,
+2. uberettiget tilskudd er utbetalt, eller
+3. det oppstår vesentlige forsinkelser eller andre endringer som har betydning for økonomi eller resultatoppnåelse. Tilskuddsmottaker skal redegjøre for og begrunne endringer, og eventuelt legge frem oppdatert prosjektbeskrivelse og budsjett. Miljødirektoratet avgjør om endringene kan godkjennes.
 
 ## § 10. Behandling av søknad om tilskudd
 

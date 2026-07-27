@@ -28,17 +28,36 @@ Forskriften skal sikre en nøyaktig og pålitelig innmåling av ledninger og ann
 
 ## § 2. Definisjoner
 
-I forskriften menes med*ledning:* kabel, rør, tunnel, kanal, kulvert, boring og andre framføringselementer med tilhørende koplinger, kummer og andre forbindelseselementer*ledningsnett:* ledninger beregnet for transport av petroleum, varme- og kuldeutveksling, elektrisitet, elektronisk kommunikasjon, drikkevann, avløpsvann, overvann eller avfall*allmennyttig ledningsnett:* ledningsnett til bruk for tjue eller flere sluttbrukere*lokalt ledningsnett:* ledningsnett til bruk for færre enn tjue sluttbrukere og som ikke er koplet til allmennyttig ledningsnett*stikkledning:* ledning som forbinder ledningsnett med sluttbrukeren*trekkerør:* ledning beregnet for framføring av annen ledning i ledningsnett*ledningsanlegg:* allmennyttig ledningsnett med stikkledninger og tilhørende trekkerør, samt ledninger langs vei og jernbane som nevnt i [§ 3](forskrift/2020-12-18-2986/§3) andre og tredje ledd*ledningseieren:* den som har ansvaret for at et ledningsanlegg fungerer og er i drift*utbyggeren:* den som planlegger eller skal utføre arbeider i nærheten av et ledningsanlegg.
+I forskriften menes med
+
+1. *ledning:* kabel, rør, tunnel, kanal, kulvert, boring og andre framføringselementer med tilhørende koplinger, kummer og andre forbindelseselementer
+2. *ledningsnett:* ledninger beregnet for transport av petroleum, varme- og kuldeutveksling, elektrisitet, elektronisk kommunikasjon, drikkevann, avløpsvann, overvann eller avfall
+3. *allmennyttig ledningsnett:* ledningsnett til bruk for tjue eller flere sluttbrukere
+4. *lokalt ledningsnett:* ledningsnett til bruk for færre enn tjue sluttbrukere og som ikke er koplet til allmennyttig ledningsnett
+5. *stikkledning:* ledning som forbinder ledningsnett med sluttbrukeren
+6. *trekkerør:* ledning beregnet for framføring av annen ledning i ledningsnett
+7. *ledningsanlegg:* allmennyttig ledningsnett med stikkledninger og tilhørende trekkerør, samt ledninger langs vei og jernbane som nevnt i [§ 3](forskrift/2020-12-18-2986/§3) andre og tredje ledd
+8. *ledningseieren:* den som har ansvaret for at et ledningsanlegg fungerer og er i drift
+9. *utbyggeren:* den som planlegger eller skal utføre arbeider i nærheten av et ledningsanlegg.
 
 ## § 3. Virkeområde
 
 Forskriften gjelder ledningsanlegg i grunnen og sjø og vassdrag. Et ledningsanlegg regnes som å ligge i grunnen også når det er lagt på eller over grunnen med beskyttende overdekning, langs veg- og jernbanebruer, eller under bygninger og konstruksjoner. I sjøen gjelder forskriften ut til én nautisk mil utenfor grunnlinjene.
 
-I eller langs offentlig veggrunn, eller nærmere offentlig veg enn 3 meter fra vegkant, gjelder forskriften også:lokalt ledningsnettledninger som hører til vegens belysning, drift eller konstruksjon, inkludert tilhørende trekkerørledninger som hører til drift eller konstruksjon av jernbane, sporvogn og liknende som benytter veggrunnen, inkludert tilhørende trekkerør.
+I eller langs offentlig veggrunn, eller nærmere offentlig veg enn 3 meter fra vegkant, gjelder forskriften også:
+
+1. lokalt ledningsnett
+2. ledninger som hører til vegens belysning, drift eller konstruksjon, inkludert tilhørende trekkerør
+3. ledninger som hører til drift eller konstruksjon av jernbane, sporvogn og liknende som benytter veggrunnen, inkludert tilhørende trekkerør.
 
 I eller langs grunn til jernbane omfattet av [jernbaneloven](lov/1993-06-11-100) gjelder forskriften også trekkerør som hører til jernbanens drift eller konstruksjon.
 
-Forskriften gjelder ikkede deler av et ledningsanlegg som går i luftspennledninger til drenering i landbruketrørledninger i sjø for transport av petroleumledninger i bygninger og konstruksjoner.
+Forskriften gjelder ikke
+
+1. de deler av et ledningsanlegg som går i luftspenn
+2. ledninger til drenering i landbruket
+3. rørledninger i sjø for transport av petroleum
+4. ledninger i bygninger og konstruksjoner.
 
 For ledninger som er klassifisert som skjermingsverdige objekter eller infrastruktur etter [sikkerhetsloven](lov/2018-06-01-24), gjelder kun [§ 4](lov/1998-03-20-10/§4).
 
@@ -48,7 +67,11 @@ Forskriften begrenser ikke adgangen grunneiere eller andre rettighetshavere har 
 
 Ledningseieren skal stedfeste og dokumentere egne ledningsanlegg i henhold til standard utgitt av Statens kartverk eller likeverdig internasjonalt akseptert standard.
 
-Kravet etter første ledd gjelder når ledningseierenetablerer et nytt ledningsanleggutfører arbeider som endrer egne eksisterende ledningsanleggutfører arbeider som avdekker et eget eksisterende ledningsanlegg, når dette ikke tidligere er målt inn eller dokumentert i henhold til gjeldende krav etter første ledd, eller det er feil i denne dokumentasjon.
+Kravet etter første ledd gjelder når ledningseieren
+
+1. etablerer et nytt ledningsanlegg
+2. utfører arbeider som endrer egne eksisterende ledningsanlegg
+3. utfører arbeider som avdekker et eget eksisterende ledningsanlegg, når dette ikke tidligere er målt inn eller dokumentert i henhold til gjeldende krav etter første ledd, eller det er feil i denne dokumentasjon.
 
 Før stikkledning koples til allmennyttig ledningsanlegg, kan ledningseieren kreve at eier av stikkledningen stedfester og dokumenterer stikkledningen i henhold til standard utgitt av Statens kartverk eller likeverdig internasjonalt akseptert standard.
 
@@ -80,7 +103,12 @@ Fristen for å påvise ledningsanlegg etter [§ 5](forskrift/2020-12-18-2986/§5
 
 Ledningseieren kan kreve betaling for å utlevere dokumentasjon. De samlede inntektene må ikke overstige de faktiske kostnadene ved reproduksjon og formidling av informasjonen, med tillegg av en rimelig avkastning av investeringene. Ledningseieren skal på forespørsel kunne dokumentere at kravet er oppfylt. Det kan ikke kreves betaling etter denne bestemmelsen fra eier eller annen rettighetshaver til grunnen der ledningene ligger, uten etter særskilt avtale.
 
-Nødvendig påvisning skal skje uten krav om ytterligere betaling, med mindrepåvisning skal skje utenfor normal arbeidstiddet gjelder gjentatt påvisning av samme ledningsanlegg innenfor fastsatt gyldighetsperiode for påvisningenavbestilling skjer for sentgjennomføringen av påvisningen er blitt unødig tidkrevende eller forsinket på grunn av andre forhold som skyldes utbyggeren.
+Nødvendig påvisning skal skje uten krav om ytterligere betaling, med mindre
+
+1. påvisning skal skje utenfor normal arbeidstid
+2. det gjelder gjentatt påvisning av samme ledningsanlegg innenfor fastsatt gyldighetsperiode for påvisningen
+3. avbestilling skjer for sent
+4. gjennomføringen av påvisningen er blitt unødig tidkrevende eller forsinket på grunn av andre forhold som skyldes utbyggeren.
 
 Fristen for tilbakerapportering etter [§ 6](forskrift/2020-12-18-2986/§6) er tjue virkedager etter at den aktuelle delen av ledningsanlegget er dekket til. Slik tilbakerapportering eller melding skal skje uten krav om betaling.
 

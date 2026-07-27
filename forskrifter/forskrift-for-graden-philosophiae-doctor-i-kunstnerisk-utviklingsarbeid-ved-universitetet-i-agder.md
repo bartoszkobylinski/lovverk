@@ -15,7 +15,7 @@ xml_hash: "1793ffde9a9acd13c8de5c3fc667a3a1d2a79ee99d2b7eea395ce5723e1ce98d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,13 @@ Doktorgradsutdanningen skal gi kandidaten kunnskap, ferdigheter og kompetanse i 
 
 Doktorgradsutdanningens viktigste komponent er et selvstendig arbeid innen kunstnerisk utviklingsarbeid som gjennomføres under aktiv veiledning.
 
-Ph.d. i kunstnerisk utviklingsarbeid tildeles på grunnlag av:godkjent gjennomføring av opplæringsdelengodkjent kunstnerisk resultatgodkjent refleksjonsdelgodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av det kunstneriske ph.d.-resultatet (disputas).
+Ph.d. i kunstnerisk utviklingsarbeid tildeles på grunnlag av:
+
+- godkjent gjennomføring av opplæringsdelen
+- godkjent kunstnerisk resultat
+- godkjent refleksjonsdel
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av det kunstneriske ph.d.-resultatet (disputas).
 
 *2.3. Omfang av doktorgradsutdanningen*
 
@@ -100,7 +106,12 @@ Endelig vedtak om opptak fattes av dekan. I de tilfeller hvor doktorgradskandida
 
 I vedtaket skal minst én veileder oppnevnes, ansvaret for håndtering av andre behov som er skissert i søknaden plasseres, og avtaleperioden fastsettes med startdato og sluttdato. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker eller avklares spesielt i forhold til kandidatens finansieringsgrunnlag.
 
-Opptak kan nektes om:Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av doktorgradsarbeidet.Søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til doktorgradsprogrammet, jf. pkt. 5.1.Doktorgradsprogrammet ikke har veiledningskompetanse innenfor søkerens fagområde.Søkeren ikke har en veldokumentert finansiering, dvs. normalt være fullfinansiert i samsvar med kostnadene spesifisert i budsjettdokumentet.
+Opptak kan nektes om:
+
+- Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av doktorgradsarbeidet.
+- Søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til doktorgradsprogrammet, jf. pkt. 5.1.
+- Doktorgradsprogrammet ikke har veiledningskompetanse innenfor søkerens fagområde.
+- Søkeren ikke har en veldokumentert finansiering, dvs. normalt være fullfinansiert i samsvar med kostnadene spesifisert i budsjettdokumentet.
 
 *5.4. Avtaleperiode*
 
@@ -120,7 +131,12 @@ Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt el
 
 Tvungen avslutning:
 
-Fakultetsstyret selv kan vedta tvungen avslutning ved vitenskapelig uredelighet eller når en kandidat i vesentlig grad ikke oppfyller sine forpliktelser etter doktorgradsavtalen, jf. [lov om universiteter og høyskoler § 4-13](lov/2005-04-01-15/§4-13). Som vesentlig brudd på forpliktelser etter doktorgradsavtalen regnes blant annet:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. pkt. 9.Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet.Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av doktorgradsutdanningen.
+Fakultetsstyret selv kan vedta tvungen avslutning ved vitenskapelig uredelighet eller når en kandidat i vesentlig grad ikke oppfyller sine forpliktelser etter doktorgradsavtalen, jf. [lov om universiteter og høyskoler § 4-13](lov/2005-04-01-15/§4-13). Som vesentlig brudd på forpliktelser etter doktorgradsavtalen regnes blant annet:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. pkt. 9.
+- Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet.
+- Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av doktorgradsutdanningen.
 
 > Endret ved forskrift [10 mai 2023 nr. 702](forskrift/2023-05-10-702).
 
@@ -220,7 +236,11 @@ Normalt skal kun arbeider som er produsert etter opptak i et doktorgradsprogram 
 
 Det kunstneriske resultatet skal være et kunstnerisk arbeid på høyt nivå når det gjelder originalitet, uttrykk, koherens og formidling. Det kunstneriske resultatet skal presenteres offentlig.
 
-Den kunstneriske og kritiske refleksjonen skal dokumenteres i form av innlevert materiale, særskilt når det gjelderprosess mht. kunstneriske valg og vendepunkt, bruk av teori og metoder, dialog med ulike nettverk og fagmiljøer m.m.plassering og beskrivelse av eget kunstneriske ståsted og arbeid i forhold til det aktuelle fagfeltet, nasjonalt og internasjonalt.bidrag til fagutviklingen i feltet, herunder eventuelle faglige nyvinninger.
+Den kunstneriske og kritiske refleksjonen skal dokumenteres i form av innlevert materiale, særskilt når det gjelder
+
+- prosess mht. kunstneriske valg og vendepunkt, bruk av teori og metoder, dialog med ulike nettverk og fagmiljøer m.m.
+- plassering og beskrivelse av eget kunstneriske ståsted og arbeid i forhold til det aktuelle fagfeltet, nasjonalt og internasjonalt.
+- bidrag til fagutviklingen i feltet, herunder eventuelle faglige nyvinninger.
 
 Kandidaten velger selv medium og form for refleksjonsdelen og for eventuell annen dokumentasjon.
 
@@ -272,7 +292,17 @@ Hovedveileder bør normalt anbefale søknaden.
 
 *14.1. Søknad om bedømmelse av det kunstneriske ph.d.-resultatet*
 
-Søknaden om bedømmelse kan først leveres når opplæringsdelen er godkjent. Søknad om bedømmelse skal normalt rettes til fakultetet senest fem (5) måneder før det planlagte tidspunktet for presentasjon av det kunstneriske resultatet. Som vedlegg til søknaden skal følge:Redegjørelse for hva som skal danne grunnlaget for bedømmelsen, herunder plan for hvor, når og på hvilken måte det kunstneriske resultatet skal presenteres offentlig.Redegjørelse for valg av medium, språk og form for refleksjonsdelen og tidspunkt for innlevering.Redegjørelse for hvordan opplæringsdelen er eller vil bli oppfylt, og for eventuelt annen faglig skolering eller kompetanse.Dokumentasjon av nødvendige tillatelser.Plan for godkjent dokumentasjon og arkivering i varig format av hele doktorgradsresultatet.Erklæring fra samarbeidspartner der dette er påkrevd.Erklæring om arbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at arbeidet ikke er levert inn til bedømmelse ved annen institusjon.Uttalelse fra hovedveileder.
+Søknaden om bedømmelse kan først leveres når opplæringsdelen er godkjent. Søknad om bedømmelse skal normalt rettes til fakultetet senest fem (5) måneder før det planlagte tidspunktet for presentasjon av det kunstneriske resultatet. Som vedlegg til søknaden skal følge:
+
+- Redegjørelse for hva som skal danne grunnlaget for bedømmelsen, herunder plan for hvor, når og på hvilken måte det kunstneriske resultatet skal presenteres offentlig.
+- Redegjørelse for valg av medium, språk og form for refleksjonsdelen og tidspunkt for innlevering.
+- Redegjørelse for hvordan opplæringsdelen er eller vil bli oppfylt, og for eventuelt annen faglig skolering eller kompetanse.
+- Dokumentasjon av nødvendige tillatelser.
+- Plan for godkjent dokumentasjon og arkivering i varig format av hele doktorgradsresultatet.
+- Erklæring fra samarbeidspartner der dette er påkrevd.
+- Erklæring om arbeidet leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at arbeidet ikke er levert inn til bedømmelse ved annen institusjon.
+- Uttalelse fra hovedveileder.
 
 *14.2. Innhenting av supplerende opplysninger*
 
@@ -292,7 +322,12 @@ Dekan oppnevner bedømmelseskomité etter forslag fra programleder, hovedveilede
 
 Habilitetsreglene i [forvaltningsloven § 6](lov/1967-02-10/§6) gjelder for komiteens medlemmer og eventuelt koordinator. Habiliteten skal vurderes i forhold til doktorgradskandidaten og veilederne. Som inhabile anses personer som har bidratt til det kunstneriske ph.d.-resultatet. Fakultetet kan, når det er påkrevd, oppnevne et settemedlem til bedømmelseskomiteen. Eksterne medlemmer som er oppnevnt kan ikke være ansatt ved Universitetet i Stavanger (grunnet fellesgrad).
 
-Bedømmelseskomiteen skal normalt settes sammen slik atbegge kjønn er representertflertallet i bedømmelseskomiteen er eksterne medlemmerminst ett av medlemmene ikke har hovedstilling ved norske institusjoneralle medlemmene har doktorgrad eller tilsvarende kompetanse innen fagområdet og minst to av medlemmene har relevant kunstnerisk kompetanse på førsteamanuensisnivå.
+Bedømmelseskomiteen skal normalt settes sammen slik at
+
+- begge kjønn er representert
+- flertallet i bedømmelseskomiteen er eksterne medlemmer
+- minst ett av medlemmene ikke har hovedstilling ved norske institusjoner
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse innen fagområdet og minst to av medlemmene har relevant kunstnerisk kompetanse på førsteamanuensisnivå.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt. Komiteens sammensetning skal begrunnes. Begrunnelsen skal vise hvordan komiteen samlet dekker det kunstneriske ph.d.-resultatets fagfelt.
 

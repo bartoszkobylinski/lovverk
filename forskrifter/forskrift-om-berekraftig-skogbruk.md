@@ -15,7 +15,7 @@ xml_hash: "2d2969d748d067dfd894367a890b94252e62b175efd9511b81f2f927f5033294"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -142,7 +142,14 @@ Statsforvaltaren kan gi nærare reglar med m.a. konkrete fristar for uttransport
 
 ### § 13. Førebyggjande behandling av virke
 
-Virke som blir behandla eller lagra slik at det blir uegna som ynglemateriale for insekt som kan gjere skade på skog, er unnteke frå [§ 12](forskrift/2006-06-07-593/§12), dersom eitt eller fleire av følgjande tiltak er sett i verk:Barking.Lagring i vatn. Ved bunting må den delen av virket som ligg over vatn overrislast.Overrisling.Tildekking av velter. Granvirke kan lagrast såframt dei 3 øvste virkeslaga er dekt med f.eks. plastduk før insektsverming.Veltesskrelling. Granvirke kan lagrast såframt dei 3 øvste virkeslaga blir kjørt bort eller barka etter insektsverming, men før 15. juli.Behandling med godkjende preparat (insekticider). Godkjende preparat skal berre brukast i unntakstilfelle, og må ikkje påførast virke som skal fløytast, overrislast, lagrast i vatn eller trommelbarkast. Virke hogd før 1. mai må vere behandla innan denne dato. Seinare hogd virke må behandlast innan ei veke.
+Virke som blir behandla eller lagra slik at det blir uegna som ynglemateriale for insekt som kan gjere skade på skog, er unnteke frå [§ 12](forskrift/2006-06-07-593/§12), dersom eitt eller fleire av følgjande tiltak er sett i verk:
+
+1. Barking.
+2. Lagring i vatn. Ved bunting må den delen av virket som ligg over vatn overrislast.
+3. Overrisling.
+4. Tildekking av velter. Granvirke kan lagrast såframt dei 3 øvste virkeslaga er dekt med f.eks. plastduk før insektsverming.
+5. Veltesskrelling. Granvirke kan lagrast såframt dei 3 øvste virkeslaga blir kjørt bort eller barka etter insektsverming, men før 15. juli.
+6. Behandling med godkjende preparat (insekticider). Godkjende preparat skal berre brukast i unntakstilfelle, og må ikkje påførast virke som skal fløytast, overrislast, lagrast i vatn eller trommelbarkast. Virke hogd før 1. mai må vere behandla innan denne dato. Seinare hogd virke må behandlast innan ei veke.
 
 ### § 14. Pålegg om tiltak
 

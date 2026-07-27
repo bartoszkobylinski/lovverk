@@ -124,7 +124,11 @@ Foretaket kan hvert år kreve vederlag for forvaltning og administrasjon av frip
 
 ### § 2-7. Fortsettelsesforsikringer
 
-Foretaket kan for fortsettelsesforsikringer benytte en pristariff for risiko knyttet til person som avviker fra tariffen for den fripolise som er utstedt, og som legger til grunn:andre forutsetninger om sivilstand og antall barn,at prisen for uføredekninger i kollektiv pensjonsforsikring skal svare til den pris foretaket anvender for individuelle pensjonsforsikringer av personer med normal helse, eller fastsettes med et rimelig prosentvis tillegg til kollektivtariffen,at prisen for fortsettelsesforsikringer etter utmelding fra gruppelivsforsikring baseres på pristariffen for individuelle ettårige risikoforsikringer anvendt ut fra de helseopplysninger som forelå ved opptak av medlemmet i gruppelivsforsikringen.
+Foretaket kan for fortsettelsesforsikringer benytte en pristariff for risiko knyttet til person som avviker fra tariffen for den fripolise som er utstedt, og som legger til grunn:
+
+1. andre forutsetninger om sivilstand og antall barn,
+2. at prisen for uføredekninger i kollektiv pensjonsforsikring skal svare til den pris foretaket anvender for individuelle pensjonsforsikringer av personer med normal helse, eller fastsettes med et rimelig prosentvis tillegg til kollektivtariffen,
+3. at prisen for fortsettelsesforsikringer etter utmelding fra gruppelivsforsikring baseres på pristariffen for individuelle ettårige risikoforsikringer anvendt ut fra de helseopplysninger som forelå ved opptak av medlemmet i gruppelivsforsikringen.
 
 > Endret ved [forskrift 9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017, tidligere § 2-8).
 
@@ -134,7 +138,12 @@ Når et forsikrings- eller pensjonsprodukt første gang blir markedsført eller 
 
 En produktmelding skal inneholde en beskrivelse av produktet, herunder om produktet er med eller uten rett til overskudd av avkastnings- eller risikoresultat. Det skal også gis opplysninger om produktkombinasjoner som produktet skal inngå i. For produkter med særskilte investeringsporteføljer skal det opplyses om de prinsipper for sammensetningen av investeringsporteføljer og for utformingen av avkastningsgarantier og rett til investeringsvalg som vil bli lagt til grunn.
 
-Melding skal i tilfelle også inneholde opplysninger om:grunnlaget for beregning av premien og premiereserven, herunder den diskonteringsrente og det formelverk for beregning av risiko knyttet til person som vil bli benyttet,prinsipper for beregning av fripoliserettigheter, pensjonsbevis og pensjonskapitalbevis,avbruddsgebyr og prinsipper for beregning av gjenkjøpsverdi, ogforhold som forsikringstakeren skal gi opplysning om til bruk ved vurdering av risiko knyttet til person.
+Melding skal i tilfelle også inneholde opplysninger om:
+
+1. grunnlaget for beregning av premien og premiereserven, herunder den diskonteringsrente og det formelverk for beregning av risiko knyttet til person som vil bli benyttet,
+2. prinsipper for beregning av fripoliserettigheter, pensjonsbevis og pensjonskapitalbevis,
+3. avbruddsgebyr og prinsipper for beregning av gjenkjøpsverdi, og
+4. forhold som forsikringstakeren skal gi opplysning om til bruk ved vurdering av risiko knyttet til person.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017, tidligere § 2-9).
 
@@ -142,7 +151,15 @@ Melding skal i tilfelle også inneholde opplysninger om:grunnlaget for beregning
 
 Melding om pristariffer foretaket har fastsatt, skal sendes til Finanstilsynet når pristariffene blir tatt i bruk. Det samme gjelder ved endring av pristariff. Meldingen skal angi fra hvilket tidspunkt en pristariff gjelder.
 
-Meldingen skal i tilfelle også inneholde opplysninger om:det formelverk for beregning av risiko knyttet til person som er benyttet,den beregningsrente som er benyttet,fortjenesteelement som er bygget inn i pristariffen,kontraktsgebyr for nye kontrakter,flyttegebyr etter [§ 10-3](forskrift/2006-06-30-869/§10-3),prinsipper for beregning av vederlag for avkastningsgaranti knyttet til særskilte investeringsporteføljer, ogandre prinsipper for utformingen av pristariff.
+Meldingen skal i tilfelle også inneholde opplysninger om:
+
+1. det formelverk for beregning av risiko knyttet til person som er benyttet,
+2. den beregningsrente som er benyttet,
+3. fortjenesteelement som er bygget inn i pristariffen,
+4. kontraktsgebyr for nye kontrakter,
+5. flyttegebyr etter [§ 10-3](forskrift/2006-06-30-869/§10-3),
+6. prinsipper for beregning av vederlag for avkastningsgaranti knyttet til særskilte investeringsporteføljer, og
+7. andre prinsipper for utformingen av pristariff.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017, tidligere § 2-10).
 
@@ -156,7 +173,11 @@ For pensjonskasser med virksomhet som bare omfatter kollektiv pensjonsforsikring
 
 For pensjonsforetak som driver virksomhet som ikke regnes som livsforsikring, gjelder bestemmelsene i [§ 2-2](forskrift/2006-06-30-869/§2-2) til [§ 2-6](forskrift/2006-06-30-869/§2-6) tilsvarende. Det samme gjelder bestemmelsene i [forsikringsvirksomhetsloven § 3-5](lov/2005-06-10-44/§3-5), [§ 3-6](lov/2005-06-10-44/§3-6) første og annet ledd og [§ 3-7](lov/2005-06-10-44/§3-7) annet og tredje ledd.
 
-Bestemmelsene i [§ 2-8](forskrift/2006-06-30-869/§2-8) og [§ 2-9](forskrift/2006-06-30-869/§2-9) gjelder tilsvarende så langt de passer. Skal pensjonsforetakets virksomhet omfatte pensjonsordning med innskuddspensjon tilknyttet innskuddsfritak ved uførhet eller annet livsforsikringsprodukt, skal melding til Finanstilsynet etter [§ 2-8](forskrift/2006-06-30-869/§2-8) og [§ 2-9](forskrift/2006-06-30-869/§2-9) også omfatte:opplysning om avtalen med det foretak som skal levere produktene,en beskrivelse av produktene, ogde pristariffer for slike produkter som vil bli benyttet.
+Bestemmelsene i [§ 2-8](forskrift/2006-06-30-869/§2-8) og [§ 2-9](forskrift/2006-06-30-869/§2-9) gjelder tilsvarende så langt de passer. Skal pensjonsforetakets virksomhet omfatte pensjonsordning med innskuddspensjon tilknyttet innskuddsfritak ved uførhet eller annet livsforsikringsprodukt, skal melding til Finanstilsynet etter [§ 2-8](forskrift/2006-06-30-869/§2-8) og [§ 2-9](forskrift/2006-06-30-869/§2-9) også omfatte:
+
+1. opplysning om avtalen med det foretak som skal levere produktene,
+2. en beskrivelse av produktene, og
+3. de pristariffer for slike produkter som vil bli benyttet.
 
 For pensjonskasse med virksomhet som bare omfatter pensjonsordning med innskuddspensjon for én arbeidsgiver, gjelder [§ 2-10](forskrift/2006-06-30-869/§2-10) og annet ledd i paragrafen her tilsvarende.
 
@@ -196,7 +217,11 @@ Overskudd som etter [forsikringsvirksomhetsloven § 3-13](lov/2005-06-10-44/§3-
 
 ### § 4-2. Overskudd tilordnet fripoliser, pensjonsbevis og pensjonskapitalbevis mv.
 
-Reglene om anvendelsen av overskudd i [forsikringsvirksomhetsloven § 3-16](lov/2005-06-10-44/§3-16), jf. [§ 2-6](lov/2005-06-10-44/§2-6), gjelder også:fripoliser med ytelser under utbetaling,opptjente rettigheter i kommunale pensjonsordninger som tilordnes overskudd etter [forsikringsvirksomhetsloven § 4-14](lov/2005-06-10-44/§4-14) annet ledd, ogindividuelle livsforsikringskontrakter med kontraktsfastsatte ytelser som er inngått før 1. januar 2008, unntatt når samtlige slike kontrakter er skilt ut til forvaltning som egen portefølje etter bestemmelsene i [§ 7-1](forskrift/2006-06-30-869/§7-1).
+Reglene om anvendelsen av overskudd i [forsikringsvirksomhetsloven § 3-16](lov/2005-06-10-44/§3-16), jf. [§ 2-6](lov/2005-06-10-44/§2-6), gjelder også:
+
+1. fripoliser med ytelser under utbetaling,
+2. opptjente rettigheter i kommunale pensjonsordninger som tilordnes overskudd etter [forsikringsvirksomhetsloven § 4-14](lov/2005-06-10-44/§4-14) annet ledd, og
+3. individuelle livsforsikringskontrakter med kontraktsfastsatte ytelser som er inngått før 1. januar 2008, unntatt når samtlige slike kontrakter er skilt ut til forvaltning som egen portefølje etter bestemmelsene i [§ 7-1](forskrift/2006-06-30-869/§7-1).
 
 Reglene i [forsikringsvirksomhetsloven § 3-16](lov/2005-06-10-44/§3-16), jf. [§ 2-6](lov/2005-06-10-44/§2-6), gjelder ikke pensjonsspareavtaler og pensjonsforsikringsavtaler etter [innskuddspensjonsloven § 7-3](lov/2000-11-24-81/§7-3).
 
@@ -308,9 +333,20 @@ Et livsforsikringsforetak kan skille ut samtlige individuelle livsforsikringskon
 
 Foretaket skal ha et system for registrering av hvilke kontrakter som omfattes av porteføljen.
 
-For foretakets forvaltning av porteføljen gjelder bestemmelsene i [forsikringsvirksomhetsloven kapittel 3](lov/2005-06-10-44/kap3) med følgende unntak:bestemmelsene i [§ 3-3](forskrift/2006-06-30-869/§3-3) til § 3-6 gjelder ikke.eiendeler motsvarende forsikringskapitalen for de kontrakter porteføljen omfatter, skal forvaltes som egen underportefølje i kollektivporteføljen.overskudd ved forvaltningen av eiendeler som nevnt i bokstav b) beregnes og fordeles etter de tidligere gjeldende regler i [lov 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet [§ 8-1](lov/1988-06-10-39/§8-1) med tilhørende forskrifter.premiereserve skal beregnes på bruttobasis ut fra forskjellen mellom kapitalverdien av samtlige bruttoforpliktelser etter kontrakten, herunder fremtidige kostnader, og kapitalverdien av bruttopremier som skal betales etter kontrakten, dersom dette gir høyere premiereserve enn beregning etter § 3-9.Bestemmelsene om risikoutjevningsfond i § 3-14 og § 3-22 gjelder ikke.
+For foretakets forvaltning av porteføljen gjelder bestemmelsene i [forsikringsvirksomhetsloven kapittel 3](lov/2005-06-10-44/kap3) med følgende unntak:
 
-Finansinntekter og finanskostnader som knytter seg til portefølje som nevnt i første ledd skal fordeles mellom kontraktene i forhold til de forsikringsmessige avsetninger som er knyttet til kontraktene. Som finansinntekter eller finanskostnader regnesrenter, gebyrer, provisjoner o.l. som foretaket mottar eller yter for å sikre, opprettholde eller opprette fordrings- eller gjeldsforhold som går ut på betaling i penger,gevinst eller tap ved omsetning av eller kursendringer på verdipapirer eller valutakursendringer for så vidt gevinst eller tap skal tas med i resultatregnskapet,gevinst eller tap på fordringer eller andre aktiva som ikke omfattes av bokstav b) for så vidt gevinsten eller tapet tas med i resultatregnskapet,aksjeutbytte som foretaket mottar.
+1. bestemmelsene i [§ 3-3](forskrift/2006-06-30-869/§3-3) til § 3-6 gjelder ikke.
+2. eiendeler motsvarende forsikringskapitalen for de kontrakter porteføljen omfatter, skal forvaltes som egen underportefølje i kollektivporteføljen.
+3. overskudd ved forvaltningen av eiendeler som nevnt i bokstav b) beregnes og fordeles etter de tidligere gjeldende regler i [lov 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet [§ 8-1](lov/1988-06-10-39/§8-1) med tilhørende forskrifter.
+4. premiereserve skal beregnes på bruttobasis ut fra forskjellen mellom kapitalverdien av samtlige bruttoforpliktelser etter kontrakten, herunder fremtidige kostnader, og kapitalverdien av bruttopremier som skal betales etter kontrakten, dersom dette gir høyere premiereserve enn beregning etter § 3-9.
+5. Bestemmelsene om risikoutjevningsfond i § 3-14 og § 3-22 gjelder ikke.
+
+Finansinntekter og finanskostnader som knytter seg til portefølje som nevnt i første ledd skal fordeles mellom kontraktene i forhold til de forsikringsmessige avsetninger som er knyttet til kontraktene. Som finansinntekter eller finanskostnader regnes
+
+1. renter, gebyrer, provisjoner o.l. som foretaket mottar eller yter for å sikre, opprettholde eller opprette fordrings- eller gjeldsforhold som går ut på betaling i penger,
+2. gevinst eller tap ved omsetning av eller kursendringer på verdipapirer eller valutakursendringer for så vidt gevinst eller tap skal tas med i resultatregnskapet,
+3. gevinst eller tap på fordringer eller andre aktiva som ikke omfattes av bokstav b) for så vidt gevinsten eller tapet tas med i resultatregnskapet,
+4. aksjeutbytte som foretaket mottar.
 
 > Endret ved forskrifter [21 des 2011 nr. 1442](forskrift/2011-12-21-1442), [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024).
 
@@ -330,7 +366,13 @@ Ved flytting av en forsikringskontrakt gjelder reglene i [forsikringsvirksomhets
 
 [Forsikringsvirksomhetsloven § 3-23](lov/2005-06-10-44/§3-23) og [§ 4-16](lov/2005-06-10-44/§4-16) gjelder for livsforsikringsforetak, innskuddspensjonsforetak, samt pensjonskasser som har overtatt pensjonsordninger for mer enn ett foretak eller én institusjon.
 
-[Forsikringsvirksomhetsloven § 3-23](lov/2005-06-10-44/§3-23) og [§ 4-16](lov/2005-06-10-44/§4-16) gjelder ikkedøds- og uførerisikoforsikringer uten rett til overskuddved forvaltning av utenlandske foretaks pensjonsordningpensjonsavtaler som omfattes av [lov 27. juni 2008 nr. 62](lov/2008-06-27-62) om individuell pensjonsordning,pensjonsbevis som omfattes av [lov 13. desember 2013 nr. 106](lov/2013-12-13-106) om tjenestepensjoninnskuddspensjonsordninger som omfattes av [forskrift 30. juni 2006 nr. 870](forskrift/2006-06-30-870) om innskuddspensjonsordninger som skal oppfylle minstekravene i lov om obligatorisk tjenestepensjon.
+[Forsikringsvirksomhetsloven § 3-23](lov/2005-06-10-44/§3-23) og [§ 4-16](lov/2005-06-10-44/§4-16) gjelder ikke
+
+1. døds- og uførerisikoforsikringer uten rett til overskudd
+2. ved forvaltning av utenlandske foretaks pensjonsordning
+3. pensjonsavtaler som omfattes av [lov 27. juni 2008 nr. 62](lov/2008-06-27-62) om individuell pensjonsordning,
+4. pensjonsbevis som omfattes av [lov 13. desember 2013 nr. 106](lov/2013-12-13-106) om tjenestepensjon
+5. innskuddspensjonsordninger som omfattes av [forskrift 30. juni 2006 nr. 870](forskrift/2006-06-30-870) om innskuddspensjonsordninger som skal oppfylle minstekravene i lov om obligatorisk tjenestepensjon.
 
 For et livsforsikringsforetak som har skilt ut samtlige individuelle livsforsikringskontrakter med kontraktsfastsatte forpliktelser inngått før 1. januar 2008 til forvaltning som egen portefølje, jf. [forsikringsvirksomhetsloven § 3-2](lov/2005-06-10-44/§3-2) annet ledd med forskrift, gjelder bestemmelsene i kapitlet her så langt de passer for kontraktene i denne porteføljen.
 
@@ -348,7 +390,14 @@ Opplysningene i kontoutskriften skal gis på norsk, men kan gis på et annet spr
 
 Det skal i kontoutskriften gis særskilt opplysning om de midler som er knyttet til kontrakten, herunder premiereserve, pensjonskapital, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond og bufferavsetning.
 
-Kontoutskriften skal vise saldoen ved utgangen av foregående år og utgangen av året, samt alle bevegelser som er relevante for saldoens utvikling, inkludert:Årets premie eller innskudd.Årets vederlag for dekning av henholdsvis risiko, administrative tjenester og forvaltning av midlene knyttet til kontrakten, samt eventuelt vederlag som er avregnet i avkastning av forvaltning av midlene.Årets belastning av kontraktens administrasjonsreserver.Årets avkastning på midler knyttet til kontrakten, herunder eventuell avkastning som er benyttet til å dekke vederlag for forvaltning av midlene. I tillegg skal det opplyses om årets overskudd på avkastning tilordnet midlene og fordeling av overskuddet til henholdsvis premiereserve, pensjonskapital, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond og bufferavsetning etter [§ 6-3](forskrift/2006-06-30-869/§6-3). Hvis årets avkastning ikke er tilstrekkelig til å dekke økningen av premiereserve etter kontraktens premieberegningsgrunnlag, skal bruk av bufferfond og bufferavsetning samt tilførte midler fra foretaket fremgå.Årets overskudd på risikoresultatet tilordnet kontrakten og fordeling av overskuddet til henholdsvis premiereserve, premiefond og pensjonistenes overskuddsfond. Hvis årets risikoresultat er negativt, skal bruk av risikoutjevningsfond og tilførte midler fra foretaket fremgå.Årets belastning av motregningskrav etter [forsikringsvirksomhetsloven § 3-19a](lov/2005-06-10-44/§3-19a).
+Kontoutskriften skal vise saldoen ved utgangen av foregående år og utgangen av året, samt alle bevegelser som er relevante for saldoens utvikling, inkludert:
+
+1. Årets premie eller innskudd.
+2. Årets vederlag for dekning av henholdsvis risiko, administrative tjenester og forvaltning av midlene knyttet til kontrakten, samt eventuelt vederlag som er avregnet i avkastning av forvaltning av midlene.
+3. Årets belastning av kontraktens administrasjonsreserver.
+4. Årets avkastning på midler knyttet til kontrakten, herunder eventuell avkastning som er benyttet til å dekke vederlag for forvaltning av midlene. I tillegg skal det opplyses om årets overskudd på avkastning tilordnet midlene og fordeling av overskuddet til henholdsvis premiereserve, pensjonskapital, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond og bufferavsetning etter [§ 6-3](forskrift/2006-06-30-869/§6-3). Hvis årets avkastning ikke er tilstrekkelig til å dekke økningen av premiereserve etter kontraktens premieberegningsgrunnlag, skal bruk av bufferfond og bufferavsetning samt tilførte midler fra foretaket fremgå.
+5. Årets overskudd på risikoresultatet tilordnet kontrakten og fordeling av overskuddet til henholdsvis premiereserve, premiefond og pensjonistenes overskuddsfond. Hvis årets risikoresultat er negativt, skal bruk av risikoutjevningsfond og tilførte midler fra foretaket fremgå.
+6. Årets belastning av motregningskrav etter [forsikringsvirksomhetsloven § 3-19a](lov/2005-06-10-44/§3-19a).
 
 Kontoutskriften skal opplyse om risikoutjevningsfondets størrelse ved utgangen av året. Størrelsen skal oppgis både i kroner og i prosent av forsikringskapitalen. Det skal også opplyses om kontraktens andel av årets overskudd som overføres til risikoutjevningsfondet. Andelen beregnes ved at det etter at overføringen til risikoutjevningsfondet er fordelt mellom de enkelte grupper av kontrakter iht. § 5-7 annet ledd annet punktum i forskriften her, foretas en fordeling på de enkelte kontrakter i gruppen etter forholdet mellom de risikopremier som er betalt for den enkelte kontrakt.
 
@@ -382,7 +431,13 @@ Kontoutskriften for andre individuelle livsforsikringer skal vise forsikringsbel
 
 Pensjonsoversikten skal være skriftlig og på norsk og skal gjøres tilgjengelig for hvert enkelt medlem vederlagsfritt. Kravet til skriftlighet er ikke til hinder for at foretaket benytter elektronisk kommunikasjon så lenge medlemmet ikke har reservert seg mot slik kommunikasjon. Bruk av elektronisk kommunikasjon må sette medlemmet i stand til å lagre informasjonen og gi mulighet til uendret gjengivelse av den lagrede informasjonen for bruk i et tidsrom som er tilstrekkelig for formålet.
 
-Pensjonsoversikten skal inneholde personopplysninger om medlemmet, herunder angivelse av medlemmets pensjonsalder, navnet på foretaket, dets adresse og pensjonsordningens polisenummer. Pensjonsoversikten skal inneholde informasjon ompensjonsbeløpene er garanterte eller om pensjonsbeløpet avhenger av pensjonskapitalens verdiutvikling,forventet fremtidig nivå på medlemmets pensjon basert på medlemmets antatte pensjonsalder,opptjente pensjonsrettigheter eller oppspart pensjonskapital,innbetalinger fra arbeidsgiver eller fra medlemmet i foregående år og kostnader som er belastet av foretaket,verdien av de midler som er knyttet til pensjonsordningen som helhet.
+Pensjonsoversikten skal inneholde personopplysninger om medlemmet, herunder angivelse av medlemmets pensjonsalder, navnet på foretaket, dets adresse og pensjonsordningens polisenummer. Pensjonsoversikten skal inneholde informasjon om
+
+1. pensjonsbeløpene er garanterte eller om pensjonsbeløpet avhenger av pensjonskapitalens verdiutvikling,
+2. forventet fremtidig nivå på medlemmets pensjon basert på medlemmets antatte pensjonsalder,
+3. opptjente pensjonsrettigheter eller oppspart pensjonskapital,
+4. innbetalinger fra arbeidsgiver eller fra medlemmet i foregående år og kostnader som er belastet av foretaket,
+5. verdien av de midler som er knyttet til pensjonsordningen som helhet.
 
 Hvis pensjonsprognosene etter annet ledd bokstav b er basert på økonomiske scenarioer, skal informasjonen også omfatte det best tenkte scenarioet og et ugunstig scenario. For ytelsesbaserte pensjonsordninger skal prognosene gjenspeile de forutsetningene som inngår i premieberegningsgrunnlaget. Det skal klart fremgå at prognosene kan avvike fra endelig faktisk verdi på pensjonen. For kommunale pensjonsordninger gjelder annet ledd bokstav b så langt det passer.
 
@@ -440,9 +495,24 @@ Foretaket kan ikke kreve dekning av kostnader knyttet til overføringen av en fo
 
 ### § 11-1. Informasjon om pensjonsordningen
 
-Informasjonen til medlemmer om pensjonsordningen og om pensjonsforetaket etter [forsikringsvirksomhetsloven § 2-7](lov/2005-06-10-44/§2-7) første ledd skal minst omfattenavnet på pensjonsforetaket og hvilken myndighet som har gitt foretaket konsesjon,hvilke rettigheter og plikter partene i pensjonsordningen har,opplysninger om investeringsprofilen,eventuelle økonomiske risikoer som bæres av medlemmene,eventuelle garantier knyttet til ytelser,rettigheter ved endringer av regelverket for pensjonsordninger,kostnadsstrukturen for kostnader som bæres av medlemmene,valgmuligheter knyttet til utbetaling av pensjoner,ordninger for overføring av pensjonsrettigheter.
+Informasjonen til medlemmer om pensjonsordningen og om pensjonsforetaket etter [forsikringsvirksomhetsloven § 2-7](lov/2005-06-10-44/§2-7) første ledd skal minst omfatte
 
-For pensjonsordninger med investeringsvalg for medlemmene skal det informeres omavkastning på pensjonsordningens midler i de fem foregående år,ulike investeringsprofiler og alternative investeringsvalg som pensjonsforetaket tilbyr,eventuelle standardporteføljer og risikoreduserende tiltak når medlemmet har nådd en alder med få år igjen til uttak av pensjon,at medlemmene på forespørsel har rett til å motta opplysninger etter [verdipapirfondloven § 8-2](lov/2011-11-25-44/§8-2) (prospekt) og [§ 8-3](lov/2011-11-25-44/§8-3) (nøkkelinformasjon) for fond som inngår i porteføljen.
+1. navnet på pensjonsforetaket og hvilken myndighet som har gitt foretaket konsesjon,
+2. hvilke rettigheter og plikter partene i pensjonsordningen har,
+3. opplysninger om investeringsprofilen,
+4. eventuelle økonomiske risikoer som bæres av medlemmene,
+5. eventuelle garantier knyttet til ytelser,
+6. rettigheter ved endringer av regelverket for pensjonsordninger,
+7. kostnadsstrukturen for kostnader som bæres av medlemmene,
+8. valgmuligheter knyttet til utbetaling av pensjoner,
+9. ordninger for overføring av pensjonsrettigheter.
+
+For pensjonsordninger med investeringsvalg for medlemmene skal det informeres om
+
+1. avkastning på pensjonsordningens midler i de fem foregående år,
+2. ulike investeringsprofiler og alternative investeringsvalg som pensjonsforetaket tilbyr,
+3. eventuelle standardporteføljer og risikoreduserende tiltak når medlemmet har nådd en alder med få år igjen til uttak av pensjon,
+4. at medlemmene på forespørsel har rett til å motta opplysninger etter [verdipapirfondloven § 8-2](lov/2011-11-25-44/§8-2) (prospekt) og [§ 8-3](lov/2011-11-25-44/§8-3) (nøkkelinformasjon) for fond som inngår i porteføljen.
 
 > Endret ved [forskrifter 21 des 2011 nr. 1442](forskrift/2011-12-21-1442), [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017, tidligere § 12-1), [22 juni 2022 nr. 1139](forskrift/2022-06-22-1139) (i kraft 1 jan 2023).
 
@@ -482,13 +552,31 @@ Forskriften trer i kraft 1. juli 2006.
 
 Livsforsikringsselskaper skal oppfylle kravene i [forsikringsvirksomhetsloven kapittel 9](lov/2005-06-10-44/kap9) og forskriften her fra 1. januar 2008. Inntil dette tidspunkt skal livsforsikringsselskaper drive virksomheten i samsvar med bestemmelsene i lov [10](lov/1988-06-10-39/kap10). juni 1988 nr. 39 om forsikringsvirksomhet [kapitlene 7](lov/1988-06-10-39/kap7) og [8](lov/1988-06-10-39/kap8) med tilhørende forskrifter, med mindre annet følger av [§ 13-3](lov/1988-06-10-39/§13-3).
 
-Et livsforsikringsselskap har likevel rett til en andel av overskuddet etter [forsikringsvirksomhetsloven § 9-9](lov/2005-06-10-44/§9-9) første ledd tilordnet en kollektiv pensjonsordning som 1. januar 2008 har pensjonister med rett til løpende pensjon, etter følgende regler:inntil 15 prosent av overskuddet for 2008,inntil 10 prosent av overskuddet for 2009, oginntil 5 prosent av overskuddet for 2010.
+Et livsforsikringsselskap har likevel rett til en andel av overskuddet etter [forsikringsvirksomhetsloven § 9-9](lov/2005-06-10-44/§9-9) første ledd tilordnet en kollektiv pensjonsordning som 1. januar 2008 har pensjonister med rett til løpende pensjon, etter følgende regler:
+
+- inntil 15 prosent av overskuddet for 2008,
+- inntil 10 prosent av overskuddet for 2009, og
+- inntil 5 prosent av overskuddet for 2010.
 
 > Endret ved [forskrifter 21 des 2011 nr. 1442](forskrift/2011-12-21-1442), [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) som endret ved [forskrift 20 des 2016 nr. 1778](forskrift/2016-12-20-1778) (i kraft 1 jan 2017, tidligere § 13-2).
 
 ### § 12-3. Særlige virksomhetsregler
 
-Fra det tidspunkt forskriften her trer i kraft, gjelder følgende:Et livsforsikringsselskap har adgang til å overta pensjonsordninger med innskuddspensjon med tilstrekkelig forsikringselement. Innskuddsfritak ved uførhet regnes her som tilstrekkelig forsikringselement. Finanstilsynet avgjør ellers hva som regnes som tilstrekkelig forsikringselement.Et livsforsikringsselskap kan overta kontrakter som fastsetter at midlene knyttet til en kontrakt skal forvaltes i en særskilt investeringsportefølje. Selskapet skal kreve særskilt vederlag for avkastningsgaranti knyttet til slik portefølje og foreta supplerende avsetninger til dekning av sitt ansvar etter avkastningsgarantien.Bestemmelsene i første og annet avsnitt gjelder tilsvarende for et livsforsikringsselskaps adgang til å overta individuelle livsforsikrings- og pensjonsavtaler.Et fondsforsikringsselskap kan også drive annen virksomhet som regnes som livsforsikring. Bokstav a) gjelder tilsvarende.Livsforsikringsselskaper og fondsforsikringsselskaper som igangsetter virksomhet iht. ny forsikringsklasse, skal gi melding til Finanstilsynet ved igangsettelsen. Konsesjon anses gitt med mindre Finanstilsynet innen to måneder etter at meldingen er mottatt, krever at institusjonen sender særskilt søknad om konsesjon for utvidelse av virksomheten til ny klasse.Livsforsikringsselskap og fondsforsikringsselskap kan gis tillatelse til sammenslåing etter [forsikringsvirksomhetsloven § 3-6](lov/2005-06-10-44/§3-6).For pensjonskasser gjelder bokstav a) første og annet avsnitt tilsvarende.Skadeforsikringsselskaper som har tillatelse etter [lov 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet [§ 1-2](lov/1988-06-10-39/§1-2) tredje ledd til å overta livsforsikringer, kan også overta forsikringer knyttet til uførerisiko hvor det er avtalt at det i en periode på inntil fem år skal utbetales årlig innskuddsfritak/premiefritak og i tilfelle årlig uførepensjon i samsvar med uføregraden, med tillegg av utbetaling av et engangsbeløp i samsvar med uføregraden ved utløpet av femårsperioden.Engangsbeløpet skal benyttes til dekning av engangspremie etter avtale med livsforsikringsselskap eller pensjonskasse som gir rett til årlige uføreytelser inntil henholdsvis opptjeningsalder etter [foretakspensjonsloven § 6-6](lov/2000-03-24-16/§6-6) annet ledd, og 67 år etter [innskuddspensjonsloven § 2-4](lov/2000-11-24-81/§2-4) annet ledd.Forskriftens [§ 11-2](forskrift/2006-06-30-869/§11-2) annet ledd gjelder fra 1. juli 2006. Forskriftens [§ 11-2](forskrift/2006-06-30-869/§11-2) femte ledd gjelder ved flytting av individuelle kontrakter, herunder fripoliser og pensjonskapitalbevis, etter 1. juli 2006.
+Fra det tidspunkt forskriften her trer i kraft, gjelder følgende:
+
+1. Et livsforsikringsselskap har adgang til å overta pensjonsordninger med innskuddspensjon med tilstrekkelig forsikringselement. Innskuddsfritak ved uførhet regnes her som tilstrekkelig forsikringselement. Finanstilsynet avgjør ellers hva som regnes som tilstrekkelig forsikringselement.
+
+   Et livsforsikringsselskap kan overta kontrakter som fastsetter at midlene knyttet til en kontrakt skal forvaltes i en særskilt investeringsportefølje. Selskapet skal kreve særskilt vederlag for avkastningsgaranti knyttet til slik portefølje og foreta supplerende avsetninger til dekning av sitt ansvar etter avkastningsgarantien.
+
+   Bestemmelsene i første og annet avsnitt gjelder tilsvarende for et livsforsikringsselskaps adgang til å overta individuelle livsforsikrings- og pensjonsavtaler.
+2. Et fondsforsikringsselskap kan også drive annen virksomhet som regnes som livsforsikring. Bokstav a) gjelder tilsvarende.
+3. Livsforsikringsselskaper og fondsforsikringsselskaper som igangsetter virksomhet iht. ny forsikringsklasse, skal gi melding til Finanstilsynet ved igangsettelsen. Konsesjon anses gitt med mindre Finanstilsynet innen to måneder etter at meldingen er mottatt, krever at institusjonen sender særskilt søknad om konsesjon for utvidelse av virksomheten til ny klasse.
+4. Livsforsikringsselskap og fondsforsikringsselskap kan gis tillatelse til sammenslåing etter [forsikringsvirksomhetsloven § 3-6](lov/2005-06-10-44/§3-6).
+5. For pensjonskasser gjelder bokstav a) første og annet avsnitt tilsvarende.
+6. Skadeforsikringsselskaper som har tillatelse etter [lov 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet [§ 1-2](lov/1988-06-10-39/§1-2) tredje ledd til å overta livsforsikringer, kan også overta forsikringer knyttet til uførerisiko hvor det er avtalt at det i en periode på inntil fem år skal utbetales årlig innskuddsfritak/premiefritak og i tilfelle årlig uførepensjon i samsvar med uføregraden, med tillegg av utbetaling av et engangsbeløp i samsvar med uføregraden ved utløpet av femårsperioden.
+
+   Engangsbeløpet skal benyttes til dekning av engangspremie etter avtale med livsforsikringsselskap eller pensjonskasse som gir rett til årlige uføreytelser inntil henholdsvis opptjeningsalder etter [foretakspensjonsloven § 6-6](lov/2000-03-24-16/§6-6) annet ledd, og 67 år etter [innskuddspensjonsloven § 2-4](lov/2000-11-24-81/§2-4) annet ledd.
+7. Forskriftens [§ 11-2](forskrift/2006-06-30-869/§11-2) annet ledd gjelder fra 1. juli 2006. Forskriftens [§ 11-2](forskrift/2006-06-30-869/§11-2) femte ledd gjelder ved flytting av individuelle kontrakter, herunder fripoliser og pensjonskapitalbevis, etter 1. juli 2006.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [10 aug 2011 nr. 815](forskrift/2011-08-10-815), [21 des 2011 nr. 1442](forskrift/2011-12-21-1442), [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) som endret ved [forskrift 20 des 2016 nr. 1778](forskrift/2016-12-20-1778) (i kraft 1 jan 2017, tidligere § 13-3).
 
@@ -496,7 +584,10 @@ Fra det tidspunkt forskriften her trer i kraft, gjelder følgende:Et livsforsikr
 
 Private og kommunale pensjonskasser som driver virksomhet som regnes som livsforsikring, skal oppfylle kravene i [forsikringsvirksomhetsloven kapittel 7](lov/2005-06-10-44/kap7) og forskriften her fra 1. januar 2008. Inntil dette tidspunkt skal pensjonskasser drive virksomheten i samsvar med bestemmelsene i [forskrift 19. februar 1993 nr. 117](forskrift/1993-02-19-117) om forsikringsvirksomhetslovens anvendelse på pensjonskasser og pensjonsfond.
 
-For pensjonskasser som driver virksomhet på det tidspunkt forsikringsvirksomhetsloven trer i kraft, gjelder likevel følgende:En pensjonskasse som har søkt tillatelse etter forsikringsvirksomhetsloven § 7-3 senest 1. desember 2007, kan inntil søknaden er avgjort fortsette den virksomhet pensjonskassen hadde adgang til å drive da forsikringsvirksomhetsloven trådte i kraft. Overholdes ikke fristen eller avslås søknaden, skal pensjonskassen avvikles etter ellers gjeldende regler.Minstekravet til grunnkapitalen i en pensjonskasse i [forsikringsvirksomhetsloven § 7-5](lov/2005-06-10-44/§7-5) skal være oppfylt senest 1. januar 2009.
+For pensjonskasser som driver virksomhet på det tidspunkt forsikringsvirksomhetsloven trer i kraft, gjelder likevel følgende:
+
+1. En pensjonskasse som har søkt tillatelse etter forsikringsvirksomhetsloven § 7-3 senest 1. desember 2007, kan inntil søknaden er avgjort fortsette den virksomhet pensjonskassen hadde adgang til å drive da forsikringsvirksomhetsloven trådte i kraft. Overholdes ikke fristen eller avslås søknaden, skal pensjonskassen avvikles etter ellers gjeldende regler.
+2. Minstekravet til grunnkapitalen i en pensjonskasse i [forsikringsvirksomhetsloven § 7-5](lov/2005-06-10-44/§7-5) skal være oppfylt senest 1. januar 2009.
 
 Pensjonskasser skal senest 1. januar 2010 ha oppfylt minstekravet til solvensmarginkapitalen i en pensjonskasse i [forsikringsvirksomhetsloven § 7-9](lov/2005-06-10-44/§7-9) første ledd og § 9-2 i forskriften her. Pensjonskassene skal også senest 1. januar 2010 ha oppfylt de krav og grenser for en pensjonskasses investeringer i foretak eller annen arbeidsgiver som har pensjonsordning i pensjonskassen, som følger av [forsikringsvirksomhetsloven § 7-10](lov/2005-06-10-44/§7-10) og § 3-2 i forskriften her.
 
@@ -510,13 +601,25 @@ Midler i sikkerhetsfondet 1. januar 2008 kan overføres til risikoutjevningsfond
 
 ### § 12-6. Oppheving av forskrifter
 
-Følgende forskrifter oppheves fra 1. januar 2008:[Forskrift 21. november 1989 nr. 1169](forskrift/1989-11-21-1169) om skille mellom risiko-, spare- og omkostningsdelen av premien.[Forskrift 1. juni 1990 nr. 430](forskrift/1990-06-01-430) om overskudd i livsforsikring.[Forskrift 29. november 1990 nr. 941](forskrift/1990-11-29-941) om sikkerhetsfond i livsforsikring.[Forskrift 19. februar 1993 nr. 117](forskrift/1993-02-19-117) om forsikringsvirksomhetslovens anvendelse på pensjonskasser og pensjonsfond.[Forskrift 10. november 1994 nr. 1000](forskrift/1994-11-10-1000) om meldeplikt for forsikringstekniske avsetninger.[Forskrift 15. september 1997 nr. 1005](forskrift/1997-09-15-1005) om premier og forsikringsfond i livsforsikring.[Forskrift 25. september 2000 nr. 979](forskrift/2000-09-25-979) om tilleggsavsetninger i livsforsikringsselskaper.[Forskrift 18. desember 2003 nr. 1610](forskrift/2003-12-18-1610) om maksimalsatser for flyttegebyr.[Forskrift 22. desember 2003 nr. 1735](forskrift/2003-12-22-1735) om innbetaling av premier for kommunale pensjonsordninger.
+Følgende forskrifter oppheves fra 1. januar 2008:
+
+- [Forskrift 21. november 1989 nr. 1169](forskrift/1989-11-21-1169) om skille mellom risiko-, spare- og omkostningsdelen av premien.
+- [Forskrift 1. juni 1990 nr. 430](forskrift/1990-06-01-430) om overskudd i livsforsikring.
+- [Forskrift 29. november 1990 nr. 941](forskrift/1990-11-29-941) om sikkerhetsfond i livsforsikring.
+- [Forskrift 19. februar 1993 nr. 117](forskrift/1993-02-19-117) om forsikringsvirksomhetslovens anvendelse på pensjonskasser og pensjonsfond.
+- [Forskrift 10. november 1994 nr. 1000](forskrift/1994-11-10-1000) om meldeplikt for forsikringstekniske avsetninger.
+- [Forskrift 15. september 1997 nr. 1005](forskrift/1997-09-15-1005) om premier og forsikringsfond i livsforsikring.
+- [Forskrift 25. september 2000 nr. 979](forskrift/2000-09-25-979) om tilleggsavsetninger i livsforsikringsselskaper.
+- [Forskrift 18. desember 2003 nr. 1610](forskrift/2003-12-18-1610) om maksimalsatser for flyttegebyr.
+- [Forskrift 22. desember 2003 nr. 1735](forskrift/2003-12-22-1735) om innbetaling av premier for kommunale pensjonsordninger.
 
 > Endret ved [forskrift 9 des 2016 nr. 1504](forskrift/2016-12-09-1504) som endret ved [forskrift 20 des 2016 nr. 1778](forskrift/2016-12-20-1778) (i kraft 1 jan 2017, tidligere § 13-6).
 
 ### § 12-7. Endringer i andre forskrifter
 
 1. Endringer som trer i kraft 1. juli 2006: ---
-2. Endringer som trer i kraft 1. januar 2008:I [forskrift 21. november 1989 nr. 1167](forskrift/1989-11-21-1167) om fordeling av kostnader, tap, inntekter, fond mv. mellom forsikringsselskaper i konsernforhold og mellom bransjer og kontrakter i et forsikringsselskap gjøres følgende endringer: ---
+2. Endringer som trer i kraft 1. januar 2008:
+
+   I [forskrift 21. november 1989 nr. 1167](forskrift/1989-11-21-1167) om fordeling av kostnader, tap, inntekter, fond mv. mellom forsikringsselskaper i konsernforhold og mellom bransjer og kontrakter i et forsikringsselskap gjøres følgende endringer: ---
 
 > Endret ved [forskrift 9 des 2016 nr. 1504](forskrift/2016-12-09-1504) som endret ved [forskrift 20 des 2016 nr. 1778](forskrift/2016-12-20-1778) (i kraft 1 jan 2017, tidligere § 13-7).

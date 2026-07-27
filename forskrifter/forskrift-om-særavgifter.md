@@ -15,7 +15,7 @@ xml_hash: "eb8be8e1687fc27faf3fe96354a6ece589b9be45278f2fbff22541f9f11bf6a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,11 @@ Denne forskriften får anvendelse på avgifter som oppkreves etter [lov 19. mai 
 
 ### § 2-1. Når avgiftsplikten oppstår
 
-(1) For registrerte virksomheter oppstår avgiftsplikten veduttak fra virksomhetens godkjente lokaler, herunder tyveri og manko. Driftsmessig svinn anses ikke som uttak,innførsel, når varene ikke legges inn på godkjent lokale,ved opphør av registrering.
+(1) For registrerte virksomheter oppstår avgiftsplikten ved
+
+1. uttak fra virksomhetens godkjente lokaler, herunder tyveri og manko. Driftsmessig svinn anses ikke som uttak,
+2. innførsel, når varene ikke legges inn på godkjent lokale,
+3. ved opphør av registrering.
 
 (2) For ikke-registrerte importører oppstår avgiftsplikten ved innførselen.
 
@@ -74,7 +78,12 @@ Registrerte virksomheter kan overføre avgiftspliktige varer uten at avgiftsplik
 
 ### § 2-4. Returvarer
 
-(1) Registrerte virksomheter kan føre tidligere beregnet avgift på returvarer til fradrag i skattemeldingen på følgende vilkår:varene er tilbakeført til den registrerte virksomhetens godkjente lokale,varene er tilgangsført lagerbeholdningen,det er utstedt kreditnota for vare- og avgiftsbeløp ogvarene er returnert innen to år regnet fra faktureringsdato.
+(1) Registrerte virksomheter kan føre tidligere beregnet avgift på returvarer til fradrag i skattemeldingen på følgende vilkår:
+
+1. varene er tilbakeført til den registrerte virksomhetens godkjente lokale,
+2. varene er tilgangsført lagerbeholdningen,
+3. det er utstedt kreditnota for vare- og avgiftsbeløp og
+4. varene er returnert innen to år regnet fra faktureringsdato.
 
 (2) Dersom tilbakeføring til den registrerte virksomhetens godkjente lokale er upraktisk, kan varer i stedet tilintetgjøres etter [§ 2-5](forskrift/2001-12-11-1451/§2-5) med samtykke fra skattekontoret, eller leveres til mottaker for utdeling på veldedig grunnlag etter [§ 4-12-1](forskrift/2001-12-11-1451/§4-12-1). Vilkårene i første ledd bokstav b–d gjelder tilsvarende.
 
@@ -82,7 +91,10 @@ Registrerte virksomheter kan overføre avgiftspliktige varer uten at avgiftsplik
 
 ### § 2-5. Tilintetgjøring av varer
 
-(1) Ved tilintetgjøring av varer i den registrerte virksomhetens godkjente lokale gis fritak for avgift på følgende vilkår:tilintetgjøringen skjer i nærvær av skattekontoret om ikke skattekontoret har gitt samtykke til annet, ogtilintetgjorte varer føres som uttak uten avgift i skattemeldingen for samme avgiftstermin som tilintetgjøringen finner sted.
+(1) Ved tilintetgjøring av varer i den registrerte virksomhetens godkjente lokale gis fritak for avgift på følgende vilkår:
+
+1. tilintetgjøringen skjer i nærvær av skattekontoret om ikke skattekontoret har gitt samtykke til annet, og
+2. tilintetgjorte varer føres som uttak uten avgift i skattemeldingen for samme avgiftstermin som tilintetgjøringen finner sted.
 
 (2) Skattekontoret kan samtykke i at tilintetgjøringen skjer på annet sted når dette er mest praktisk.
 
@@ -132,9 +144,20 @@ Ved overtredelse av vilkårene for avgiftsfritak kan skattekontoret nekte fritak
 
 (1) Avgiftsplikten omfatter varer som nevnt i denne bestemmelsen.
 
-(2) Som sigarer regnes følgende varer bestemt for røyking:sammenrullet tobakk uten omslag,tobakk med ytre omslag (dekkblad) av naturtobakk,tobakk med ytre omslag (dekkblad) av homogenisert tobakk når:varens største omkrets overstiger 40 mm,varen har ett eller flere indre omslag (omblad) av naturtobakk, ellervaren har ett eller flere indre omslag (omblad) av homogenisert tobakk og minst ett av omslagene (dekk- eller omblad) er spiralformet med en stigningsvinkel på høyst 60 grader.
+(2) Som sigarer regnes følgende varer bestemt for røyking:
 
-(3) Som sigaretter regnes følgende varer bestemt for røyking:tobakk med ytre omslag av papir eller annet materiale som ikke er tobakk eller homogenisert tobakk,tobakk med ytre omslag av homogenisert tobakk, når varen ikke er å anse som sigar etter annet ledd bokstav c.
+1. sammenrullet tobakk uten omslag,
+2. tobakk med ytre omslag (dekkblad) av naturtobakk,
+3. tobakk med ytre omslag (dekkblad) av homogenisert tobakk når:
+
+   1. varens største omkrets overstiger 40 mm,
+   2. varen har ett eller flere indre omslag (omblad) av naturtobakk, eller
+   3. varen har ett eller flere indre omslag (omblad) av homogenisert tobakk og minst ett av omslagene (dekk- eller omblad) er spiralformet med en stigningsvinkel på høyst 60 grader.
+
+(3) Som sigaretter regnes følgende varer bestemt for røyking:
+
+1. tobakk med ytre omslag av papir eller annet materiale som ikke er tobakk eller homogenisert tobakk,
+2. tobakk med ytre omslag av homogenisert tobakk, når varen ikke er å anse som sigar etter annet ledd bokstav c.
 
 (4) Som røyketobakk regnes all bearbeidet tobakk som er bestemt for røyking, når varene ikke er å anse som sigarer eller sigaretter etter annet eller tredje ledd.
 
@@ -148,7 +171,10 @@ Ved overtredelse av vilkårene for avgiftsfritak kan skattekontoret nekte fritak
 
 (9) Varer som ut fra reklame, etiketter og lignende er ment eller som er tjenlig som erstatning for avgiftspliktige tobakksvarer etter annet til sjette ledd, kan avgiftsbelegges som tobakksvarer.
 
-(10) Følgende varer skal avgiftslegges som erstatningsvarer for tobakk:urtesigaretter,vannpipemelasse av urter.
+(10) Følgende varer skal avgiftslegges som erstatningsvarer for tobakk:
+
+1. urtesigaretter,
+2. vannpipemelasse av urter.
 
 (11) Som e-væske regnes nikotinholdig væske som inneholder inntil 20 milligram nikotin per milliliter væske.
 
@@ -172,7 +198,10 @@ Ved overtredelse av vilkårene for avgiftsfritak kan skattekontoret nekte fritak
 
 (5) Ved beregning av avgift på andre nikotinvarer legges varens nettovekt til grunn.
 
-(6) Reisende kan på de vilkår som er fastsatt i [vareførselsforskriften § 4-1-7 første ledd bokstav a](forskrift/2022-10-27-1901/§4-1-7/ledd/1/bokstav/a) innføre nærmere bestemte mengder tobakksvarer, e-væske og andre nikotinvarer etter de satser som er fastsatt i tabellen i syvende ledd. Dette gjelder for varer utover avgiftsfri kvote og som er til personlig bruk. Ordningen gjelder ikke for varer som er:ment for videresalg eller annet ervervsmessig formål ellerkjøpt ved ankomst i tollavgiftsfritt utsalg (taxfree) på lufthavn.
+(6) Reisende kan på de vilkår som er fastsatt i [vareførselsforskriften § 4-1-7 første ledd bokstav a](forskrift/2022-10-27-1901/§4-1-7/ledd/1/bokstav/a) innføre nærmere bestemte mengder tobakksvarer, e-væske og andre nikotinvarer etter de satser som er fastsatt i tabellen i syvende ledd. Dette gjelder for varer utover avgiftsfri kvote og som er til personlig bruk. Ordningen gjelder ikke for varer som er:
+
+1. ment for videresalg eller annet ervervsmessig formål eller
+2. kjøpt ved ankomst i tollavgiftsfritt utsalg (taxfree) på lufthavn.
 
 (7) Avgiften etter sjette ledd beregnes etter følgende mengder og satser:
 
@@ -218,7 +247,10 @@ Skattekontoret kan fatte enkeltvedtak om avgiftsplikt for varer som nevnt i [§ 
 
 (3) For feilmerkede varepartier som har høyere alkoholinnhold enn oppgitt, beregnes avgiften for hele partiet etter det høyeste alkoholinnholdet.
 
-(4) Reisende kan på de vilkår som er fastsatt i [vareførselsforskriften § 4-1-7 første ledd bokstav b](forskrift/2022-10-27-1901/§4-1-7/ledd/1/bokstav/b) innføre nærmere bestemte mengder alkoholholdige drikkevarer etter de satser som er fastsatt i tabellen i femte ledd. Dette gjelder for varer utover avgiftsfri kvote og som er til personlig bruk. Ordningen gjelder ikke for varer som er:ment for videresalg eller annet ervervsmessig formål ellerkjøpt ved ankomst i tollavgiftsfritt utsalg (taxfree) på lufthavn.
+(4) Reisende kan på de vilkår som er fastsatt i [vareførselsforskriften § 4-1-7 første ledd bokstav b](forskrift/2022-10-27-1901/§4-1-7/ledd/1/bokstav/b) innføre nærmere bestemte mengder alkoholholdige drikkevarer etter de satser som er fastsatt i tabellen i femte ledd. Dette gjelder for varer utover avgiftsfri kvote og som er til personlig bruk. Ordningen gjelder ikke for varer som er:
+
+1. ment for videresalg eller annet ervervsmessig formål eller
+2. kjøpt ved ankomst i tollavgiftsfritt utsalg (taxfree) på lufthavn.
 
 (5) Avgiften etter fjerde ledd beregnes etter følgende mengder og satser:
 
@@ -267,9 +299,21 @@ Ved innførsel av alkoholholdig drikk med alkoholstyrke over 2,5 volumprosent, m
 
 (2) Med teknisk etanol menes i denne forskriften ren etanol eller etanolholdig vare med alkoholstyrke over 0,7 volumprosent, som skal benyttes til annet formål enn drikk (teknisk bruk), og som faller inn under tolltariffens posisjoner 22.03 til 22.08 (drikkevarer og teknisk etanol).
 
-(3) Med etanolholdige preparater menes i denne forskriften etanolholdig vare med alkoholstyrke over 2,5 volumprosent, og som ikke faller inn under følgende posisjoner i tolltariffen:22.03 til 22.08 (drikkevarer og teknisk etanol),30.03 til 30.06 (legemidler),17.04 (drops),18.06 (sjokoladevarer),20.08 (frukt og bær mv. nedlagt i alkohol).
+(3) Med etanolholdige preparater menes i denne forskriften etanolholdig vare med alkoholstyrke over 2,5 volumprosent, og som ikke faller inn under følgende posisjoner i tolltariffen:
 
-(4) Følgende etanolholdige varer regnes ikke som etanolholdige preparater:etanolholdige preparater med godkjent denaturering,essenser og tinkturer i emballasje på maksimalt 50 ml,essenser som inngår i produksjon av nærings- og nytelsesmidler og i farmasøytisk produksjon,nærmere angitte varer fastsatt av Skattedirektoratet i forskrift,varer godkjent av skattekontoret etter enkeltvedtak.
+1. 22.03 til 22.08 (drikkevarer og teknisk etanol),
+2. 30.03 til 30.06 (legemidler),
+3. 17.04 (drops),
+4. 18.06 (sjokoladevarer),
+5. 20.08 (frukt og bær mv. nedlagt i alkohol).
+
+(4) Følgende etanolholdige varer regnes ikke som etanolholdige preparater:
+
+1. etanolholdige preparater med godkjent denaturering,
+2. essenser og tinkturer i emballasje på maksimalt 50 ml,
+3. essenser som inngår i produksjon av nærings- og nytelsesmidler og i farmasøytisk produksjon,
+4. nærmere angitte varer fastsatt av Skattedirektoratet i forskrift,
+5. varer godkjent av skattekontoret etter enkeltvedtak.
 
 > Endret ved [forskrifter 22 juni 2005 nr. 682](forskrift/2005-06-22-682) (i kraft 1 juli 2005), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016).
 
@@ -281,9 +325,20 @@ Avgiften beregnes på samme måte som for alkoholholdig drikk, jf. [§ 3-2-2](fo
 
 ### § 3-3-3. Når avgiftsplikten oppstår
 
-(1) For registrert produsent og importør:ved uttak av teknisk etanol fra virksomhetens godkjente lokaler, herunder tyveri og manko. Driftsmessig svinn anses ikke som uttak,ved innførsel, når varen ikke legges inn på godkjent lokale,ved opphør av registrering,ved behandling av en vare i strid med bestemmelser eller vilkår, fastsatt i eller med hjemmel i denne forskriften,ved manko oppstått under transport til mottaker.
+(1) For registrert produsent og importør:
 
-(2) For andre enn registrert produsent og importør:ved innførsel eller produksjon som ikke omfattes av første ledd,ved behandling av en vare i strid med bestemmelser eller vilkår, fastsatt i eller med hjemmel i denne forskriften,ved urettmessig fjerning av denatureringsmiddel,ved urettmessig uttrekk av etanol fra teknisk etanol eller fra etanolholdige preparater.
+1. ved uttak av teknisk etanol fra virksomhetens godkjente lokaler, herunder tyveri og manko. Driftsmessig svinn anses ikke som uttak,
+2. ved innførsel, når varen ikke legges inn på godkjent lokale,
+3. ved opphør av registrering,
+4. ved behandling av en vare i strid med bestemmelser eller vilkår, fastsatt i eller med hjemmel i denne forskriften,
+5. ved manko oppstått under transport til mottaker.
+
+(2) For andre enn registrert produsent og importør:
+
+1. ved innførsel eller produksjon som ikke omfattes av første ledd,
+2. ved behandling av en vare i strid med bestemmelser eller vilkår, fastsatt i eller med hjemmel i denne forskriften,
+3. ved urettmessig fjerning av denatureringsmiddel,
+4. ved urettmessig uttrekk av etanol fra teknisk etanol eller fra etanolholdige preparater.
 
 > Endret ved [forskrifter 13 des 2002 nr. 1639](forskrift/2002-12-13-1639) (i kraft 1 jan 2003), [19 des 2003 nr. 1758](forskrift/2003-12-19-1758) (i kraft 1 jan 2004), [22 juni 2005 nr. 682](forskrift/2005-06-22-682) (i kraft 1 juli 2005).
 
@@ -297,7 +352,11 @@ Avgiften beregnes på samme måte som for alkoholholdig drikk, jf. [§ 3-2-2](fo
 
 ### § 3-3-5. Godkjent denaturering
 
-Med godkjent denaturering menes:denaturering i samsvar med forordning [(EF) nr. 3199/93](eu/31993r3199),denaturering fastsatt i forskrift av Skattedirektoratet, ogdenaturering fastsatt av skattekontoret ved enkeltvedtak.
+Med godkjent denaturering menes:
+
+1. denaturering i samsvar med forordning [(EF) nr. 3199/93](eu/31993r3199),
+2. denaturering fastsatt i forskrift av Skattedirektoratet, og
+3. denaturering fastsatt av skattekontoret ved enkeltvedtak.
 
 > Tilføyd ved [forskrift 22 juni 2005 nr. 682](forskrift/2005-06-22-682) (i kraft 1 juli 2005), endret ved [forskrift 15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [19 des 2019 nr. 2030](forskrift/2019-12-19-2030) (i kraft 1 jan 2020).
 
@@ -311,7 +370,11 @@ Ved innførsel og produksjon av teknisk etanol må virksomheten være registrert
 
 (1) Levering av udenaturert teknisk etanol kan kun skje fra produsenter eller importører som er registrert etter bestemmelsene i [§ 5-1](forskrift/2001-12-11-1451/§5-1).
 
-(2) Levering uten avgift, kan skje til følgende brukere:brukere som benytter etanol som råstoff eller hjelpemiddel ved vareproduksjon,vitenskapelige og statlige høyskoler og universiteter til slik bruk som skattekontoret har godkjent,laboratorier, sykehus og blodbanker.
+(2) Levering uten avgift, kan skje til følgende brukere:
+
+1. brukere som benytter etanol som råstoff eller hjelpemiddel ved vareproduksjon,
+2. vitenskapelige og statlige høyskoler og universiteter til slik bruk som skattekontoret har godkjent,
+3. laboratorier, sykehus og blodbanker.
 
 (3) Brukere som nevnt i annet ledd må være registrert for bruk av avgiftsfri teknisk etanol etter bestemmelsene i [§ 3-3-11](forskrift/2001-12-11-1451/§3-3-11).
 
@@ -321,7 +384,13 @@ Ved innførsel og produksjon av teknisk etanol må virksomheten være registrert
 
 (1) Levering av udenaturert teknisk etanol kan kun skje fra produsenter eller importører som er registrert etter bestemmelsene i [§ 5-1](forskrift/2001-12-11-1451/§5-1).
 
-(2) Levering av udenaturert teknisk etanol, med avgift, kan skje til følgende brukere:leger, tannleger og veterinærer,kommune/fylke,undervisning i ungdomsskole og videregående skole,brukere som nevnt i [§ 3-3-7](forskrift/2001-12-11-1451/§3-3-7) annet ledd ogandre mottakere som er registrert for bruk av udenaturert teknisk etanol med avgift etter bestemmelsene i [§ 3-3-11](forskrift/2001-12-11-1451/§3-3-11) annet ledd.
+(2) Levering av udenaturert teknisk etanol, med avgift, kan skje til følgende brukere:
+
+1. leger, tannleger og veterinærer,
+2. kommune/fylke,
+3. undervisning i ungdomsskole og videregående skole,
+4. brukere som nevnt i [§ 3-3-7](forskrift/2001-12-11-1451/§3-3-7) annet ledd og
+5. andre mottakere som er registrert for bruk av udenaturert teknisk etanol med avgift etter bestemmelsene i [§ 3-3-11](forskrift/2001-12-11-1451/§3-3-11) annet ledd.
 
 > Tilføyd ved [forskrift 22 juni 2005 nr. 682](forskrift/2005-06-22-682) (i kraft 1 juli 2005), endret ved [forskrifter 22 sep 2005 nr. 1091](forskrift/2005-09-22-1091), [19 des 2016 nr. 1677](forskrift/2016-12-19-1677) (i kraft 1 jan 2017).
 
@@ -405,7 +474,10 @@ Ved detaljhandel av denaturert teknisk etanol skal det ikke, uten særskilt till
 
 ### § 3-5-1. Saklig virkeområde
 
-(1) Avgiftsplikten omfatter inneremballasje til drikkevarer. Som inneremballasje anses den emballasjeenhet som drikkevaren er tappet på. På slik emballasje skal det beregnes følgende avgifter:Miljøavgift.Grunnavgift. Avgiftsplikten omfatter engangsemballasje. Som engangsemballasje anses emballasje som ikke kan gjenbrukes i sin opprinnelige form.
+(1) Avgiftsplikten omfatter inneremballasje til drikkevarer. Som inneremballasje anses den emballasjeenhet som drikkevaren er tappet på. På slik emballasje skal det beregnes følgende avgifter:
+
+1. Miljøavgift.
+2. Grunnavgift. Avgiftsplikten omfatter engangsemballasje. Som engangsemballasje anses emballasje som ikke kan gjenbrukes i sin opprinnelige form.
 
 (2) Avgiftsplikten omfatter ikke emballasje der påfylt drikkevare utgjør minst fire liter.
 
@@ -437,7 +509,12 @@ De enkelte returselskap skal gi skattemyndighetene melding om endringer i medlem
 
 ### § 3-6-1. Saklig virkeområde
 
-(1) Avgiftsplikten omfatter:*Mineralolje.* Som mineralolje anses oljer med mineralsk opphav hvor mindre enn 90 volumprosent destillerer over ved minst 210 °C (ASTM D 86-metoden). Avgiftsplikten omfatter ikke oljer som det skal betales avgift av etter Stortingets vedtak om avgift på smøreolje mv.*Bensin.* Som bensin anses oljer med mineralsk opphav hvor mindre enn 10 volumprosent destillerer over ved 20 °C og hvor mer enn 90 volumprosent destillerer over ved mindre enn 210 °C (ASTM D 86-metoden). Avgiftsplikten omfatter også blandinger dersom bensin er hovedbestanddel og blandingen kan benyttes som motordrivstoff. Avgiftsplikten omfatter ikke white spirit, kristall (krystallolje) og dilutin.*Naturgass.* Som naturgass anses også blandinger dersom naturgass er hovedbestanddel. Blandinger hvor andelen naturgass er mindre enn 50 volumprosent omfattes ikke av avgiftsplikten.*LPG.* Som LPG anses også blandinger dersom LPG er hovedbestanddel. Blandinger hvor andelen LPG er mindre enn 50 volumprosent omfattes ikke av avgiftsplikten.
+(1) Avgiftsplikten omfatter:
+
+1. *Mineralolje.* Som mineralolje anses oljer med mineralsk opphav hvor mindre enn 90 volumprosent destillerer over ved minst 210 °C (ASTM D 86-metoden). Avgiftsplikten omfatter ikke oljer som det skal betales avgift av etter Stortingets vedtak om avgift på smøreolje mv.
+2. *Bensin.* Som bensin anses oljer med mineralsk opphav hvor mindre enn 10 volumprosent destillerer over ved 20 °C og hvor mer enn 90 volumprosent destillerer over ved mindre enn 210 °C (ASTM D 86-metoden). Avgiftsplikten omfatter også blandinger dersom bensin er hovedbestanddel og blandingen kan benyttes som motordrivstoff. Avgiftsplikten omfatter ikke white spirit, kristall (krystallolje) og dilutin.
+3. *Naturgass.* Som naturgass anses også blandinger dersom naturgass er hovedbestanddel. Blandinger hvor andelen naturgass er mindre enn 50 volumprosent omfattes ikke av avgiftsplikten.
+4. *LPG.* Som LPG anses også blandinger dersom LPG er hovedbestanddel. Blandinger hvor andelen LPG er mindre enn 50 volumprosent omfattes ikke av avgiftsplikten.
 
 (2) Som autodiesel anses mineralolje som det skal betales veibrukavgift for etter bestemmelsene i [kap. 3-11](forskrift/2001-12-11-1451/KAPITTEL_3-11).
 
@@ -639,7 +716,10 @@ Det gis fritak for avgift ved utførsel av mineralolje dersom det utføres over 
 
 ### § 3-8-1. Saklig virkeområde
 
-(1) Avgiftsplikten omfatter:motor- og girsmøreolje (auto, marine og fly) og industrielle smøreoljer som hører under tolltariffens varenummer 27.10.1981, 27.10.1983, 27.10.1985, 27.10.1987, 27.10.1991, 27.10.1993, 27.10.1994, 27.10.1999, 27.10.9100, 27.10.9900, 34.03.1901, 34.03.1909, 34.03.9901 og 34.03.9909,hydrauliske oljer som hører under tolltariffens varenummer 27.10.1999 og 38.19.0000.
+(1) Avgiftsplikten omfatter:
+
+1. motor- og girsmøreolje (auto, marine og fly) og industrielle smøreoljer som hører under tolltariffens varenummer 27.10.1981, 27.10.1983, 27.10.1985, 27.10.1987, 27.10.1991, 27.10.1993, 27.10.1994, 27.10.1999, 27.10.9100, 27.10.9900, 34.03.1901, 34.03.1909, 34.03.9901 og 34.03.9909,
+2. hydrauliske oljer som hører under tolltariffens varenummer 27.10.1999 og 38.19.0000.
 
 (2) Avgiftsplikten gjelder mineraloljebaserte smøreoljer og tilsvarende produkter av annen opprinnelse.
 
@@ -699,7 +779,10 @@ Det gis fritak for avgift ved utførsel av bensin og bioetanol dersom det utfør
 
 ### § 3-9-5. Tilskudd til båt eller snøscooter i veiløse strøk
 
-(1) Det gis tilskudd som kompensasjon for veibruksavgift på bensin til båt eller snøscooter i veiløse strøk. Tilskudd gis tilfastboende som er uten helårs veiforbindelse og som er avhengige av å bruke mer enn 100 liter bensin pr. år til egen motorbåt eller snøscooter for å komme frem til bilvei eller kai som har regulært daglig ruteanløp,eier av båt i Finnmark når båten hovedsakelig (minst 80 pst.) nyttes i næring på elver eller vassdrag i Finnmark. Det gis ikke tilskudd for fritidsbruk.
+(1) Det gis tilskudd som kompensasjon for veibruksavgift på bensin til båt eller snøscooter i veiløse strøk. Tilskudd gis til
+
+1. fastboende som er uten helårs veiforbindelse og som er avhengige av å bruke mer enn 100 liter bensin pr. år til egen motorbåt eller snøscooter for å komme frem til bilvei eller kai som har regulært daglig ruteanløp,
+2. eier av båt i Finnmark når båten hovedsakelig (minst 80 pst.) nyttes i næring på elver eller vassdrag i Finnmark. Det gis ikke tilskudd for fritidsbruk.
 
 (2) Det gis bare tilskudd for motorbåt eller snøscooter som er registrert.
 
@@ -707,7 +790,14 @@ Det gis fritak for avgift ved utførsel av bensin og bioetanol dersom det utfør
 
 (4) Ordningen gjennomføres ved at søknad om tilskudd sendes gjennom lensmann eller politi på bostedet til skattekontoret. Søknad fremsettes en gang i året og skal sendes lensmann eller politi innen utgangen av januar det etterfølgende året.
 
-(5) Søknaden skal inneholde opplysninger omsøkerens navn og postadresse,registreringskjennetegnet for motorbåten eller snøscooteren,søkerens bosted og den korteste avstanden fra bosted til bilvei eller til kai som angitt i første ledd,hva slags bruk av egen motorbåt eller snøscooter søknaden gjelder,forbruk av bensin i søknadsåret for å komme frem til vei eller kai,søkeren får tilskudd gjennom ordninger nevnt i tredje ledd.
+(5) Søknaden skal inneholde opplysninger om
+
+1. søkerens navn og postadresse,
+2. registreringskjennetegnet for motorbåten eller snøscooteren,
+3. søkerens bosted og den korteste avstanden fra bosted til bilvei eller til kai som angitt i første ledd,
+4. hva slags bruk av egen motorbåt eller snøscooter søknaden gjelder,
+5. forbruk av bensin i søknadsåret for å komme frem til vei eller kai,
+6. søkeren får tilskudd gjennom ordninger nevnt i tredje ledd.
 
 (6) Skattekontoret utbetaler tilskudd etter følgende grupper og satser:
 
@@ -785,7 +875,13 @@ Tilskudd gis årlig. Utbetalingen skjer etterskuddsvis.
 
 (4) All mineralolje og biodiesel som ikke er merket på det tidspunkt avgiftsplikten oppstår, er omfattet av avgiftsplikten. Avgift beregnes når den avgiftspliktige ikke på betryggende måte kan dokumentere at mineraloljen eller biodieselen er merket etter reglene i [§ 3-11-3](forskrift/2001-12-11-1451/§3-11-3) til [§ 3-11-6](forskrift/2001-12-11-1451/§3-11-6).
 
-(5) På vilkår fastsatt av Skattedirektoratet omfattes følgende produkter og anvendelsesområder ikke av avgiftsplikten og merkebestemmelsene:tung fyringsolje (mineralolje som inneholder destillasjonsrest),tungdestillat (gassolje med tåkepunkt over 5 °C),flyparafin levert til bruk for luftfartøy,olje som nyttes som råstoff i industriell virksomhet, dersom den av hensyn til bruken ikke kan merkes,olje som leveres i detaljpakning på maksimum fem liter, i den utstrekning det fremgår av pakningen at varen er til annen bruk enn framdrift av motorvogn.
+(5) På vilkår fastsatt av Skattedirektoratet omfattes følgende produkter og anvendelsesområder ikke av avgiftsplikten og merkebestemmelsene:
+
+1. tung fyringsolje (mineralolje som inneholder destillasjonsrest),
+2. tungdestillat (gassolje med tåkepunkt over 5 °C),
+3. flyparafin levert til bruk for luftfartøy,
+4. olje som nyttes som råstoff i industriell virksomhet, dersom den av hensyn til bruken ikke kan merkes,
+5. olje som leveres i detaljpakning på maksimum fem liter, i den utstrekning det fremgår av pakningen at varen er til annen bruk enn framdrift av motorvogn.
 
 (6) For mineralolje beregnes avgiften i tillegg til CO2-avgift og svovelavgift.
 
@@ -819,17 +915,34 @@ Tilskudd gis årlig. Utbetalingen skjer etterskuddsvis.
 
 ### § 3-11-5. Tidspunkt for merking av mineralolje og biodiesel – unntak
 
-Skattekontoret kan gi tillatelse til at merking skjer på et senere tidspunkt enn angitt i [§ 3-11-4](forskrift/2001-12-11-1451/§3-11-4) første ledd dersomdet foreligger spesielle forhold (force majeure mv.). Det er et vilkår at merking kan skje på betryggende måte. Skattekontoret kan sette vilkår for tillatelsen, herunder at merking skal skje under skattekontorets kontroll. Kostnadene kan kreves dekket av rekvirenten,en registrert virksomhet leverer mineralolje eller biodiesel fra tankbåt, ellersærlige hensyn gjør det hensiktsmessig å foreta merking av mineralolje eller biodiesel ved anlegg som drives av frittstående virksomheter. Anlegget må være underlagt en registrert virksomhets kontrollverk. Den registrerte virksomheten må ha full adgang til å kontrollere driften, og må ha instruksjonsmyndighet med hensyn til anleggets drift.
+Skattekontoret kan gi tillatelse til at merking skjer på et senere tidspunkt enn angitt i [§ 3-11-4](forskrift/2001-12-11-1451/§3-11-4) første ledd dersom
+
+1. det foreligger spesielle forhold (force majeure mv.). Det er et vilkår at merking kan skje på betryggende måte. Skattekontoret kan sette vilkår for tillatelsen, herunder at merking skal skje under skattekontorets kontroll. Kostnadene kan kreves dekket av rekvirenten,
+2. en registrert virksomhet leverer mineralolje eller biodiesel fra tankbåt, eller
+3. særlige hensyn gjør det hensiktsmessig å foreta merking av mineralolje eller biodiesel ved anlegg som drives av frittstående virksomheter. Anlegget må være underlagt en registrert virksomhets kontrollverk. Den registrerte virksomheten må ha full adgang til å kontrollere driften, og må ha instruksjonsmyndighet med hensyn til anleggets drift.
 
 > Endret ved [forskrifter 12 des 2003 nr. 1533](forskrift/2003-12-12-1533) (i kraft 1 jan 2004), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [26 juni 2020 nr. 1393](forskrift/2020-06-26-1393) (i kraft 1 juli 2020).
 
 ### § 3-11-6. Merkestoffer
 
-Merking av mineralolje og biodiesel kan skje med følgende stoffer og i følgende mengder pr. liter levert olje:mellom 0,0125 gram og 0,01875 gram ACCUTRACETM PLUS, og0,005 gram av følgende derivater av 1,4-diaminoantrakinon, enkeltvis eller i blanding:1,4-bis-N--2-etylhexyl- og/eller
--3-(2-etylhexyloxi)propyl- og/eller
--3-metoxypropyl-Aminoantrakinon(Solvent Blue 79)eller1,4-bis-N--etyl- og/eller
--amyl- og/eller
--2-etylhexyl-Aminoantrakinon(Solvent Blue 98)ellerandre tilsvarende antrakinonderivater i en slik mengde at de enkeltvis eller i blanding vil gi like sterk blå farge ved en spektrofotometrisk bestemmelse.
+Merking av mineralolje og biodiesel kan skje med følgende stoffer og i følgende mengder pr. liter levert olje:
+
+1. mellom 0,0125 gram og 0,01875 gram ACCUTRACETM PLUS, og
+2. 0,005 gram av følgende derivater av 1,4-diaminoantrakinon, enkeltvis eller i blanding:
+
+   1. |  |  |  |  |
+      | --- | --- | --- | --- |
+      | 1,4-bis-N- | -2-etylhexyl- og/eller<br>-3-(2-etylhexyloxi)propyl- og/eller<br>-3-metoxypropyl- | Aminoantrakinon | (Solvent Blue 79) |
+
+   eller
+
+   1. |  |  |  |  |
+      | --- | --- | --- | --- |
+      | 1,4-bis-N- | -etyl- og/eller<br>-amyl- og/eller<br>-2-etylhexyl- | Aminoantrakinon | (Solvent Blue 98) |
+
+   eller
+
+   1. andre tilsvarende antrakinonderivater i en slik mengde at de enkeltvis eller i blanding vil gi like sterk blå farge ved en spektrofotometrisk bestemmelse.
 
 Frem til og med 31. desember 2025 kan merking etter første ledd bokstav a skje med 0,005 gram 4-, N-etyl, N- [ 2- [ 1-(2-metylpropoxy)etoxyl ] etyl ] aminoazobenzen (Solvent Yellow 124) i stedet for ACCUTRACETM PLUS.
 
@@ -897,7 +1010,12 @@ Det gis fritak for avgift ved utførsel av mineralolje og biodiesel dersom det u
 
 (1) Ved levering av elektrisk kraft til industri, bergverk og arbeidsmarkedsbedrifter som utøver industriproduksjon, skal det betales redusert sats.
 
-(2) Den reduserte satsen omfatter elektrisk kraft som benyttes av virksomheten selv i forbindelse med selve produksjonsprosessen. Virksomheten må være registrert i en av følgende næringsundergrupper (næringskoder) etter Standard for næringsgruppering SN2025:næringsundergruppe innenfor næringshovedområde B Bergverksdrift og utvinning (næringene 05 til og med 09),næringsundergruppe innenfor næringshovedområde C Industri (næringene 10 til og med 33),næringsundergruppe 38.210 Materialgjenvinning,næringsundergruppe 88.993 Arbeidstrening og varig tilrettelagt arbeid, forutsatt at bedriften utøver aktivitet som etter sin art faller inn under næringshovedområdene B eller C.
+(2) Den reduserte satsen omfatter elektrisk kraft som benyttes av virksomheten selv i forbindelse med selve produksjonsprosessen. Virksomheten må være registrert i en av følgende næringsundergrupper (næringskoder) etter Standard for næringsgruppering SN2025:
+
+1. næringsundergruppe innenfor næringshovedområde B Bergverksdrift og utvinning (næringene 05 til og med 09),
+2. næringsundergruppe innenfor næringshovedområde C Industri (næringene 10 til og med 33),
+3. næringsundergruppe 38.210 Materialgjenvinning,
+4. næringsundergruppe 88.993 Arbeidstrening og varig tilrettelagt arbeid, forutsatt at bedriften utøver aktivitet som etter sin art faller inn under næringshovedområdene B eller C.
 
 (3) En endring av næringsundergruppe gis virkning fra det tidspunkt endringen registreres.
 
@@ -923,7 +1041,16 @@ Ved levering av elektrisk kraft til bruk om bord i skip i næring, skal det beta
 
 (1) Ved levering av elektrisk kraft til produksjon eller omforming av energiprodukt, skal det betales redusert sats. Den reduserte satsen omfatter elektrisk kraft som benyttes i forbindelse med selve produksjonsprosessen.
 
-(2) Med energiprodukt menes vare som hører under følgende posisjoner i tolltariffen:15.07–15.18, når disse er beregnet til bruk som oppvarmingsbrensel eller motorbrensel,27.01–27.15,29.01 og 29.02,29.05. 11 00, som ikke er av syntetisk opprinnelse, når disse er beregnet til bruk som oppvarmingsbrensel eller motorbrensel,34.03,38.11,38.17,38.26.0000 når disse er beregnet til bruk som oppvarmingsbrensel eller motorbrensel.
+(2) Med energiprodukt menes vare som hører under følgende posisjoner i tolltariffen:
+
+1. 15.07–15.18, når disse er beregnet til bruk som oppvarmingsbrensel eller motorbrensel,
+2. 27.01–27.15,
+3. 29.01 og 29.02,
+4. 29.05. 11 00, som ikke er av syntetisk opprinnelse, når disse er beregnet til bruk som oppvarmingsbrensel eller motorbrensel,
+5. 34.03,
+6. 38.11,
+7. 38.17,
+8. 38.26.0000 når disse er beregnet til bruk som oppvarmingsbrensel eller motorbrensel.
 
 > Tilføyd ved [forskrift 14 des 2018 nr. 2034](forskrift/2018-12-14-2034) (i kraft 1 jan 2019).
 
@@ -945,7 +1072,13 @@ Ved levering av elektrisk kraft til bruk om bord i skip i næring, skal det beta
 
 ### § 3-12-11. Dokumentasjon for rett til redusert sats
 
-(1) Foretak med rett til å få kraft levert med redusert avgiftssats må legge frem følgende dokumentasjon for nettselskapet:bekreftelse på næringsundergruppe (næringskode) fra Enhetsregisteret, med mindre Skattedirektoratet bestemmer noe annet. Fjernvarmeprodusenter kan i stedet legge frem konsesjon gitt av Norges vassdrags- og energidirektorat.fjernvarmeprodusenter må også legge frem dokumentasjon på bruk av energikilde ved kopi av innvilget støtte til fjernvarmeanlegg eller annen lignende dokumentasjon. Fjernvarmeprodusenter under oppbygging må dokumentere dette ved for eksempel uttalelse fra Norges vassdrags- og energidirektorat eller Enova SF.egenerklæring som viser fordelingen mellom kraft som benyttes til industri, bergverk, fjernvarme og til skip i næring med krav på redusert sats og kraft som benyttes til andre formål. Fordelingen skal kunne sannsynliggjøres.egenerklæring som viser mengde kraft som er levert med redusert sats til skip i næring. Opplysninger om kundeforhold mv. skal ikke framkomme av erklæringen. Leveringen skal kunne dokumenteres med erklæring fra bruker av kraften med opplysninger om skipets navn og kjennemerke. Generelle erklæringer kan gis av rederiet.egenerklæring som viser mengde kraft som er levert med redusert sats til produksjon eller omforming av energiprodukt.
+(1) Foretak med rett til å få kraft levert med redusert avgiftssats må legge frem følgende dokumentasjon for nettselskapet:
+
+1. bekreftelse på næringsundergruppe (næringskode) fra Enhetsregisteret, med mindre Skattedirektoratet bestemmer noe annet. Fjernvarmeprodusenter kan i stedet legge frem konsesjon gitt av Norges vassdrags- og energidirektorat.
+2. fjernvarmeprodusenter må også legge frem dokumentasjon på bruk av energikilde ved kopi av innvilget støtte til fjernvarmeanlegg eller annen lignende dokumentasjon. Fjernvarmeprodusenter under oppbygging må dokumentere dette ved for eksempel uttalelse fra Norges vassdrags- og energidirektorat eller Enova SF.
+3. egenerklæring som viser fordelingen mellom kraft som benyttes til industri, bergverk, fjernvarme og til skip i næring med krav på redusert sats og kraft som benyttes til andre formål. Fordelingen skal kunne sannsynliggjøres.
+4. egenerklæring som viser mengde kraft som er levert med redusert sats til skip i næring. Opplysninger om kundeforhold mv. skal ikke framkomme av erklæringen. Leveringen skal kunne dokumenteres med erklæring fra bruker av kraften med opplysninger om skipets navn og kjennemerke. Generelle erklæringer kan gis av rederiet.
+5. egenerklæring som viser mengde kraft som er levert med redusert sats til produksjon eller omforming av energiprodukt.
 
 (2) Dokumentasjonen etter første ledd skal ikke være eldre enn ett år. Den som avgir dokumentasjonen er ansvarlig for at opplysningene er riktige og fullstendige. Nettselskapet skal oppbevare dokumentasjonen i ti år.
 
@@ -989,8 +1122,11 @@ Elektrisk kraft som produseres i solceller og som brukes direkte av produsenten 
 
 ### § 3-12-18. Avgiftsfritak for lokal deling av kraft fra fornybare energikilder
 
-(1) Det gis fritak for elektrisk kraft produsert av fornybare energikilder og som leveres til:abonnenter innenfor samme eiendom, fra anlegg på inntil 1 MW som leveres i henhold til [forskrift om kraftomsetning og nettjenester § 3-12](forskrift/1999-03-11-301/§3-12)
-ellerabonnenter innenfor samme næringsområde, fra anlegg på inntil 5 MW, som leveres i henhold til [forskrift om kraftomsetning og nettjenester § 3-13](forskrift/1999-03-11-301/§3-13).
+(1) Det gis fritak for elektrisk kraft produsert av fornybare energikilder og som leveres til:
+
+1. abonnenter innenfor samme eiendom, fra anlegg på inntil 1 MW som leveres i henhold til [forskrift om kraftomsetning og nettjenester § 3-12](forskrift/1999-03-11-301/§3-12)
+   eller
+2. abonnenter innenfor samme næringsområde, fra anlegg på inntil 5 MW, som leveres i henhold til [forskrift om kraftomsetning og nettjenester § 3-13](forskrift/1999-03-11-301/§3-13).
 
 (2) Med samme eiendom menes samme kommune-, gårds-, bruks- og eventuelt festenummer som produksjonsanlegget befinner seg på. Med samme næringsområde menes et geografisk avgrenset areal der næringsvirksomheter er samlokalisert, og omfatter næringsparker, industriparker og lignende hvor næringsvirksomheter samarbeider, har fellesfunksjoner og deler infrastruktur. Næringsområde omfatter ikke generell næringsbebyggelse i by- og sentrumsområder. Fritaket gjelder kraft fra ett eller flere produksjonsanlegg som alene eller til sammen ikke er større enn 1 MW per eiendom eller 5 MW (AC) per næringsområde.
 
@@ -1006,7 +1142,14 @@ ellerabonnenter innenfor samme næringsområde, fra anlegg på inntil 5 MW, som 
 
 ### § 3-12-20. Dokumentasjon for fritak
 
-(1) Fritaksberettigede foretak må fremlegge følgende dokumentasjon for nettselskapet:foretak som bruker elektrisk kraft til kjemisk reduksjon eller i elektrolyse, metallurgiske og mineralogiske prosesser må legge frem egenerklæring knyttet til faktisk bruk,foretak som deltar i godkjent energieffektiviseringsprogram må fremlegge bekreftelse på deltakelse fra NVE,produsent av kraft fra fornybare energikilder som leveres i samsvar med [§ 3-12-18](forskrift/2001-12-11-1451/§3-12-18) må legge frem erklæring om samlet installert effekt for produksjonsanlegg på eiendommen eller næringsområdet samt hvordan kraften skal fordeles mellom abonnentene (målepunkt-ID),foretak i veksthusnæringen må legge fram egenerklæring om at de har veksthus med elektrisk varmeanlegg,foretak som bruker elektrisk kraft til framdrift, oppvarming og belysning i et skinnegående transportmiddel eller trolleybuss må legge fram egenerklæring knyttet til faktisk bruk,egenerklæring som viser fordelingen mellom kraft som er fritatt fra avgift og kraft som benyttes til andre formål. Fordelingen skal kunne sannsynliggjøres.
+(1) Fritaksberettigede foretak må fremlegge følgende dokumentasjon for nettselskapet:
+
+1. foretak som bruker elektrisk kraft til kjemisk reduksjon eller i elektrolyse, metallurgiske og mineralogiske prosesser må legge frem egenerklæring knyttet til faktisk bruk,
+2. foretak som deltar i godkjent energieffektiviseringsprogram må fremlegge bekreftelse på deltakelse fra NVE,
+3. produsent av kraft fra fornybare energikilder som leveres i samsvar med [§ 3-12-18](forskrift/2001-12-11-1451/§3-12-18) må legge frem erklæring om samlet installert effekt for produksjonsanlegg på eiendommen eller næringsområdet samt hvordan kraften skal fordeles mellom abonnentene (målepunkt-ID),
+4. foretak i veksthusnæringen må legge fram egenerklæring om at de har veksthus med elektrisk varmeanlegg,
+5. foretak som bruker elektrisk kraft til framdrift, oppvarming og belysning i et skinnegående transportmiddel eller trolleybuss må legge fram egenerklæring knyttet til faktisk bruk,
+6. egenerklæring som viser fordelingen mellom kraft som er fritatt fra avgift og kraft som benyttes til andre formål. Fordelingen skal kunne sannsynliggjøres.
 
 (2) Dokumentasjonen etter første ledd skal ikke være eldre enn ett år. Den som avgir dokumentasjonen er ansvarlig for at opplysningene er riktige og fullstendige. Nettselskapet skal oppbevare dokumentasjonen i ti år.
 
@@ -1032,7 +1175,12 @@ Avgiftsplikten oppstår ved innlevering av avfall til forbrenning i forbrennings
 
 ### § 3-13-3. Definisjoner
 
-I dette kapittel menes med:*avfall:* avfall som nevnt i [forurensningsloven § 27](lov/1981-03-13-6/§27),*forbrenningsanlegg:* anlegg som nevnt i [avfallsforskriften § 10-3 bokstav g](forskrift/2004-06-01-930/§10-3/bokstav/g),*farlig avfall:* avfall som nevnt i [avfallsforskriften § 11-2](forskrift/2004-06-01-930/§11-2),*fangst og lagring av CO2:* fangst av CO2 fra forbrenningsanlegg og som lagres permanent i en geologisk formasjon med nødvendige tillatelser gitt av kompetente myndigheter.
+I dette kapittel menes med:
+
+1. *avfall:* avfall som nevnt i [forurensningsloven § 27](lov/1981-03-13-6/§27),
+2. *forbrenningsanlegg:* anlegg som nevnt i [avfallsforskriften § 10-3 bokstav g](forskrift/2004-06-01-930/§10-3/bokstav/g),
+3. *farlig avfall:* avfall som nevnt i [avfallsforskriften § 11-2](forskrift/2004-06-01-930/§11-2),
+4. *fangst og lagring av CO2:* fangst av CO2 fra forbrenningsanlegg og som lagres permanent i en geologisk formasjon med nødvendige tillatelser gitt av kompetente myndigheter.
 
 > Opphevet ved [forskrift 16 des 2014 nr. 1766](forskrift/2014-12-16-1766) (i kraft 1 jan 2015), tilføyd ved forskrift [17 des 2021 nr. 3712](forskrift/2021-12-17-3712) (i kraft 1 jan 2022), endret ved forskrifter [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [20 des 2023 nr. 2206](forskrift/2023-12-20-2206) (i kraft 1 jan 2024).
 
@@ -1108,7 +1256,10 @@ I dette kapittel menes med:*avfall:* avfall som nevnt i [forurensningsloven § 2
 
 ### § 3-16-1. Saklig virkeområde
 
-Avgiftsplikten omfatter:sukker (roe-/bete- og rørsukker)sirup og sukkeroppløsning av varer som nevnt i bokstav a. Dette gjelder likevel ikke melkesukker, kunsthonning, karamell, sukkerkulør og honning.
+Avgiftsplikten omfatter:
+
+1. sukker (roe-/bete- og rørsukker)
+2. sirup og sukkeroppløsning av varer som nevnt i bokstav a. Dette gjelder likevel ikke melkesukker, kunsthonning, karamell, sukkerkulør og honning.
 
 > Endret ved [forskrifter 13 des 2002 nr. 1639](forskrift/2002-12-13-1639) (i kraft 1 jan 2003), [14 des 2018 nr. 2034](forskrift/2018-12-14-2034) (i kraft 1 jan 2019).
 
@@ -1118,9 +1269,16 @@ Avgiften beregnes av varens nettovekt. For den enkelte forbruksenhet og fakturer
 
 ### § 3-16-3. Avgiftsfritak for varer til ervervsmessig bruk
 
-(1) Varer som omfattes av [§ 3-16-1](forskrift/2001-12-11-1451/§3-16-1) som benyttes i ervervsmessig produksjon av andre varer, er fritatt for avgift når:varer i flytende form leveres i enheter på minst 12,5 kg og andre varer leveres i inneremballasje på minst 25 kg, ogvarene innføres eller kjøpes hos registrert virksomhet mot erklæring om at varene skal benyttes i ervervsmessig produksjon av andre varer.
+(1) Varer som omfattes av [§ 3-16-1](forskrift/2001-12-11-1451/§3-16-1) som benyttes i ervervsmessig produksjon av andre varer, er fritatt for avgift når:
 
-(2) Fritaket omfatter ikke varer til følgende virksomheter:institusjoner av alle slag,hoteller, restauranter, kafeer, kantiner, serverings- og cateringvirksomheter o.l.,kjøtt-, fiske-, delikatesseforretninger o.l.
+1. varer i flytende form leveres i enheter på minst 12,5 kg og andre varer leveres i inneremballasje på minst 25 kg, og
+2. varene innføres eller kjøpes hos registrert virksomhet mot erklæring om at varene skal benyttes i ervervsmessig produksjon av andre varer.
+
+(2) Fritaket omfatter ikke varer til følgende virksomheter:
+
+1. institusjoner av alle slag,
+2. hoteller, restauranter, kafeer, kantiner, serverings- og cateringvirksomheter o.l.,
+3. kjøtt-, fiske-, delikatesseforretninger o.l.
 
 (3) Fritaket gjennomføres etter bestemmelsene i [§ 2-3](forskrift/2001-12-11-1451/§2-3).
 
@@ -1211,7 +1369,23 @@ Avgiften beregnes av varens nettovekt. For den enkelte forbruksenhet og fakturer
 
 (4) Dersom blandingsforholdet i en blanding hvor HFK og/eller PFK inngår ikke kan dokumenteres, benyttes GWP-verdien for produkttypen i blandingen med høyeste sats for hele blandingen. Det tas hensyn til dokumentasjon som eventuelt utelukker enkelte blandingsforhold.
 
-(5) Dersom mengde HFK og PFK som bestanddel i andre varer ikke kan dokumenteres, betales avgift etter følgende grunnlag for følgende varer:husholdningskjøleskap og -frysere: 250 gram pr. kjøleenhet.kompakte væskekjølere (til luftkondisjoneringsanlegg til bygninger): 0,25 kg pr. kW kjøleytelse.luftkjølere (til luftkondisjoneringsanlegg til bygninger), varmepumper og avfuktere: 0,5 kg pr. kW kjøleytelse.melkeanlegg, indirekte: 1 kg pr. kW kjøleytelse.melkeanlegg, direkte: 2 kg pr. kW kjøleytelse.industrielle kjøle- og fryserom: 1,5 kg pr. kW kjøleytelse.kommersielle kjøle- og fryseanlegg, herunder kjølerom uten offentlig adgang: 2,5 kg pr. kW kjøleytelse.spraybokser: 0,5 kg pr. enhet, unntatt astmaspraybokser hvor det benyttes 10 gram pr. enhet.klimaanlegg (airconditioner) til motorkjøretøyer som person-, vare-, kombinerte- og campingbiler, traktorer, trucker: 1 kg pr. enhet.klimaanlegg (airconditioner) til lastebiler, anleggsmaskiner, skurtreskere, spesialbiler: 2,5 kg pr. enhet.klimaanlegg (airconditioner) i busser: 5 kg pr. enhet.fugeskum: 0,5 kg pr. kg.isolerte dører og porter: 0,25 kg pr. m2.ekstrudert polystyren til isolering: 2,5 kg pr. m3.paneler til kjøle- og fryserom: 6 kg pr. m3.
+(5) Dersom mengde HFK og PFK som bestanddel i andre varer ikke kan dokumenteres, betales avgift etter følgende grunnlag for følgende varer:
+
+1. husholdningskjøleskap og -frysere: 250 gram pr. kjøleenhet.
+2. kompakte væskekjølere (til luftkondisjoneringsanlegg til bygninger): 0,25 kg pr. kW kjøleytelse.
+3. luftkjølere (til luftkondisjoneringsanlegg til bygninger), varmepumper og avfuktere: 0,5 kg pr. kW kjøleytelse.
+4. melkeanlegg, indirekte: 1 kg pr. kW kjøleytelse.
+5. melkeanlegg, direkte: 2 kg pr. kW kjøleytelse.
+6. industrielle kjøle- og fryserom: 1,5 kg pr. kW kjøleytelse.
+7. kommersielle kjøle- og fryseanlegg, herunder kjølerom uten offentlig adgang: 2,5 kg pr. kW kjøleytelse.
+8. spraybokser: 0,5 kg pr. enhet, unntatt astmaspraybokser hvor det benyttes 10 gram pr. enhet.
+9. klimaanlegg (airconditioner) til motorkjøretøyer som person-, vare-, kombinerte- og campingbiler, traktorer, trucker: 1 kg pr. enhet.
+10. klimaanlegg (airconditioner) til lastebiler, anleggsmaskiner, skurtreskere, spesialbiler: 2,5 kg pr. enhet.
+11. klimaanlegg (airconditioner) i busser: 5 kg pr. enhet.
+12. fugeskum: 0,5 kg pr. kg.
+13. isolerte dører og porter: 0,25 kg pr. m2.
+14. ekstrudert polystyren til isolering: 2,5 kg pr. m3.
+15. paneler til kjøle- og fryserom: 6 kg pr. m3.
 
 (6) Dersom avgiftsgrunnlaget ikke kan fastsettes etter første eller femte ledd, benyttes det grunnlaget som skattemyndighetene finner mest sannsynlig.
 
@@ -1223,7 +1397,11 @@ Avgiften beregnes av varens nettovekt. For den enkelte forbruksenhet og fakturer
 
 ### § 3-19-1. Saklig virkeområde
 
-(1) Avgiftsplikten omfatter utslipp av nitrogenoksider (NOx) ved energiproduksjon fra følgende kilder:framdriftsmaskineri med samlet installert effekt på mer enn 750 kW,motorer, kjeler og turbiner med samlet installert innfyrt effekt på mer enn 10 MW,fakler på innretninger på norsk kontinentalsokkel og anlegg på land.
+(1) Avgiftsplikten omfatter utslipp av nitrogenoksider (NOx) ved energiproduksjon fra følgende kilder:
+
+1. framdriftsmaskineri med samlet installert effekt på mer enn 750 kW,
+2. motorer, kjeler og turbiner med samlet installert innfyrt effekt på mer enn 10 MW,
+3. fakler på innretninger på norsk kontinentalsokkel og anlegg på land.
 
 (2) Ved beregningen av effekt etter bokstav a og b, skal effekten av elektromotorer og elektrokjeler ikke tas med.
 
@@ -1231,7 +1409,11 @@ Avgiften beregnes av varens nettovekt. For den enkelte forbruksenhet og fakturer
 
 ### § 3-19-2. Stedlig virkeområde
 
-(1) For fartøy gjelder avgiftsplikten følgende utslipp:utslipp fra fart innenfor norsk territorialfarvann,utslipp fra innenriks fart selv om deler av farten skjer utenfor norsk territorialfarvann,for norskregistrerte fartøy gjelder avgiftsplikten i tillegg utslipp i nære farvann.
+(1) For fartøy gjelder avgiftsplikten følgende utslipp:
+
+1. utslipp fra fart innenfor norsk territorialfarvann,
+2. utslipp fra innenriks fart selv om deler av farten skjer utenfor norsk territorialfarvann,
+3. for norskregistrerte fartøy gjelder avgiftsplikten i tillegg utslipp i nære farvann.
 
 (2) For luftfartøy gjelder avgiftsplikten utslipp mellom norske landingsplasser og mellom norsk landingsplass og innretning på norsk kontinentalsokkel. For fly gjelder avgiftsplikten i disse tilfellene kun utslipp fra avgang og landing. For luftfartøy gjelder avgiftsplikten videre utslipp mellom norsk landingsplass og landingsplass på Svalbard, Jan Mayen og bilandene. For fly gjelder avgiftsplikten i disse tilfellene kun utslipp fra avgang og landing ved norsk landingsplass.
 
@@ -1243,7 +1425,19 @@ Avgiften beregnes av varens nettovekt. For den enkelte forbruksenhet og fakturer
 
 ### § 3-19-3. Definisjoner
 
-I dette kapittel forstås med:«fremdriftsmaskineri» – maskineri som benyttes eller er konstruert til fremdrift av fartøy, luftfartøy eller kjøretøy,«norsk territorialfarvann» – havområder rundt norsk fastland omfattet av [lov 27. juni 2003 nr. 57](lov/2003-06-27-57) om Norges territorialfarvann og tilstøtende sone,«innenriks fart» – fart mellom to norske havner og mellom norsk havn og Svalbard, Jan Mayen, bilandene og innretninger på norsk kontinentalsokkel,«innretninger på norsk kontinentalsokkel» – anlegg eller installasjon, herunder flytende, som har tilknytning til utnyttelsen av naturforekomster i havområdene utenfor norsk territorialfarvann,«nære farvann» – havområder hvor avstanden til norskekysten (grunnlinjen) er mindre enn 250 nautiske mil,«fjerne farvann» – havområder hvor avstanden til norskekysten (grunnlinjen) er 250 nautiske mil eller mer,«direkte fart» – fart mellom norsk og utenlandsk havn uten at det under farten drives fiske eller fangst eller annen virksomhet,«havn» – ethvert sted der et fartøy kan legge til kai, verksted eller sokkelinnretning og ethvert sted innenfor territorialgrensen der et fartøy laster eller losser gods eller setter av eller tar om bord personer,«landingsplass» – landingsplass som nevnt i [luftfartsloven § 7-5](lov/1993-06-11-101/§7-5) første ledd,«luftfartøy» – fly og helikopter,«turtall» – motorens maksimale turtall i henhold til sertifikat eller lignende.
+I dette kapittel forstås med:
+
+1. «fremdriftsmaskineri» – maskineri som benyttes eller er konstruert til fremdrift av fartøy, luftfartøy eller kjøretøy,
+2. «norsk territorialfarvann» – havområder rundt norsk fastland omfattet av [lov 27. juni 2003 nr. 57](lov/2003-06-27-57) om Norges territorialfarvann og tilstøtende sone,
+3. «innenriks fart» – fart mellom to norske havner og mellom norsk havn og Svalbard, Jan Mayen, bilandene og innretninger på norsk kontinentalsokkel,
+4. «innretninger på norsk kontinentalsokkel» – anlegg eller installasjon, herunder flytende, som har tilknytning til utnyttelsen av naturforekomster i havområdene utenfor norsk territorialfarvann,
+5. «nære farvann» – havområder hvor avstanden til norskekysten (grunnlinjen) er mindre enn 250 nautiske mil,
+6. «fjerne farvann» – havområder hvor avstanden til norskekysten (grunnlinjen) er 250 nautiske mil eller mer,
+7. «direkte fart» – fart mellom norsk og utenlandsk havn uten at det under farten drives fiske eller fangst eller annen virksomhet,
+8. «havn» – ethvert sted der et fartøy kan legge til kai, verksted eller sokkelinnretning og ethvert sted innenfor territorialgrensen der et fartøy laster eller losser gods eller setter av eller tar om bord personer,
+9. «landingsplass» – landingsplass som nevnt i [luftfartsloven § 7-5](lov/1993-06-11-101/§7-5) første ledd,
+10. «luftfartøy» – fly og helikopter,
+11. «turtall» – motorens maksimale turtall i henhold til sertifikat eller lignende.
 
 > Tilføyd ved [forskrift 20 des 2006 nr. 1587](forskrift/2006-12-20-1587) (i kraft 1 jan 2007), endret ved [forskrifter 8 des 2011 nr. 1214](forskrift/2011-12-08-1214) (i kraft 1 jan 2012), [17 des 2013 nr. 1565](forskrift/2013-12-17-1565) (i kraft 1 jan 2014).
 
@@ -1277,7 +1471,9 @@ Kompetent myndighet kan fastsette kildespesifikk utslippsfaktor etter søknad fr
 
 ### § 3-19-8. Formel for beregning av utslipp fra fly
 
-(1) For fly beregnes avgiften etter følgende formel: $$\\text{Utslippsverdi} = a \\cdot \\text{motorer} \\cdot \\sum\\limits_{\\text{LTO-modus}} \\left( \\frac{60 \\cdot \\text{tid} \\cdot \\text{drivstoffrate} \\cdot NO_x \\text{-indeks}}{1000} \\right)$$
+(1) For fly beregnes avgiften etter følgende formel:
+
+$$\\text{Utslippsverdi} = a \\cdot \\text{motorer} \\cdot \\sum\\limits_{\\text{LTO-modus}} \\left( \\frac{60 \\cdot \\text{tid} \\cdot \\text{drivstoffrate} \\cdot NO_x \\text{-indeks}}{1000} \\right)$$
 
 |  |  |
 | --- | --- |
@@ -1303,7 +1499,19 @@ Kompetent myndighet kan fastsette kildespesifikk utslippsfaktor etter søknad fr
 | c) | Turtall fra og med 1000 rpm til 1500 rpm: | 50 kg NOx pr. tonn energivare |
 | d) | Turtall fra og med 1500 rpm: | 44 kg NOx pr. tonn energivare (45 kg for motorer bygget før år 2000) |
 
-(2) *Kjeler*9,6 kg NOx pr. tonn tungolje4,5 kg NOx pr. tonn steinkull3,6 kg NOx pr. tonn lettolje3,6 kg NOx pr. tonn marine gassolje/diesel3,6 kg NOx pr. tonn tungdestillat1,8 kg NOx pr. tonn biobrensel, jomfruelig brensel (tørrstoff)2,4 kg NOx pr. tonn biobrensel, returtrevirke (tørrstoff)1,7 g NOx pr. Sm3 naturgass, gasskjeler2,8 g NOx pr. Sm3 naturgass, konverterte kjeler2,0 g NOx pr. Sm3 LPG, gasskjeler3,4 g NOx pr. Sm3 LPG, konverterte kjeler.
+(2) *Kjeler*
+
+1. 9,6 kg NOx pr. tonn tungolje
+2. 4,5 kg NOx pr. tonn steinkull
+3. 3,6 kg NOx pr. tonn lettolje
+4. 3,6 kg NOx pr. tonn marine gassolje/diesel
+5. 3,6 kg NOx pr. tonn tungdestillat
+6. 1,8 kg NOx pr. tonn biobrensel, jomfruelig brensel (tørrstoff)
+7. 2,4 kg NOx pr. tonn biobrensel, returtrevirke (tørrstoff)
+8. 1,7 g NOx pr. Sm3 naturgass, gasskjeler
+9. 2,8 g NOx pr. Sm3 naturgass, konverterte kjeler
+10. 2,0 g NOx pr. Sm3 LPG, gasskjeler
+11. 3,4 g NOx pr. Sm3 LPG, konverterte kjeler.
 
 (3) *Turbiner*
 
@@ -1312,11 +1520,19 @@ Kompetent myndighet kan fastsette kildespesifikk utslippsfaktor etter søknad fr
 | a) | Turbiner: | 16 g NOx pr. Sm3 gass<br>25 kg NOx pr. tonn flytende energivare |
 | b) | Lav-NOx-turbiner: | 1,8 g NOx pr. Sm3 gass |
 
-(4) *Fakler*4 g NOx pr. Sm3 gass, fakler i raffineri2 g NOx pr. Sm3 gass, fakling av deponigass12 g NOx pr. Sm3 gass, øvrig fakling.
+(4) *Fakler*
 
-(5) *Helikoptre*For helikoptre beregnes avgiften på grunnlag av en faktor på 6,67 kg NOx pr. tonn forbrukt energivare.
+1. 4 g NOx pr. Sm3 gass, fakler i raffineri
+2. 2 g NOx pr. Sm3 gass, fakling av deponigass
+3. 12 g NOx pr. Sm3 gass, øvrig fakling.
 
-(6) *Jernbanekjøretøy*For jernbanekjøretøy beregnes avgiften på grunnlag av en faktor på 47 kg NOx pr. tonn forbrukt energivare.
+(5) *Helikoptre*
+
+For helikoptre beregnes avgiften på grunnlag av en faktor på 6,67 kg NOx pr. tonn forbrukt energivare.
+
+(6) *Jernbanekjøretøy*
+
+For jernbanekjøretøy beregnes avgiften på grunnlag av en faktor på 47 kg NOx pr. tonn forbrukt energivare.
 
 > Tilføyd ved [forskrift 20 des 2006 nr. 1587](forskrift/2006-12-20-1587) (i kraft 1 jan 2007), endret ved [forskrifter 8 des 2011 nr. 1214](forskrift/2011-12-08-1214) (i kraft 1 jan 2012), [16 des 2014 nr. 1766](forskrift/2014-12-16-1766) (i kraft 1 jan 2015).
 
@@ -1354,7 +1570,11 @@ Kompetent myndighet kan fastsette kildespesifikk utslippsfaktor etter søknad fr
 
 (3) Fritaket gis på vilkår av at Miljødirektoratet godkjenner gjennomføringen av miljøforpliktelsene for den enkelte periode. Dersom Miljødirektoratet ikke godkjenner gjennomføring av miljøforpliktelsene for en periode, skal avgift som det er gitt fritak for innrapporteres og betales innen 18. juli påfølgende år etter den aktuelle perioden. Av avgift som ikke blir betalt innen betalingsfristen, skal det svares renter etter [skattebetalingsloven § 11-1](lov/2005-06-17-67/§11-1).
 
-(4) Satsen for avgift som skal betales etter tredje ledd, beregnes etter følgende formel:Sats = 15 \* X \* Yder X er den prosentvise overskridelsen av miljøforpliktelsen for en periode, og Y er avgiftssatsen i Stortingets vedtak om avgift på utslipp av NOx. Skattedirektoratet kan fastsette forskrift om satsen.
+(4) Satsen for avgift som skal betales etter tredje ledd, beregnes etter følgende formel:
+
+Sats = 15 \* X \* Y
+
+der X er den prosentvise overskridelsen av miljøforpliktelsen for en periode, og Y er avgiftssatsen i Stortingets vedtak om avgift på utslipp av NOx. Skattedirektoratet kan fastsette forskrift om satsen.
 
 (5) Grunnlaget for fritak etter denne bestemmelsen skal dokumenteres ved tilslutningsbevis fra Næringslivets NOx-fond. NOx-fondet skal oversende kopi av tilslutningsbeviset til skattekontoret.
 
@@ -1494,7 +1714,54 @@ Avgiftsplikten oppstår ved levering av naturgass og LPG til autogassanlegg elle
 
 (1) Avgiftsplikten omfatter ervervsmessig flyging av passasjerer fra norsk lufthavn, unntatt flyginger fra kontinentalsokkelen og lufthavn på Svalbard, Jan Mayen og bilandene.
 
-(2) Avgiften betales per passasjer med de satser som framgår av Stortingets vedtak § 1, avhengig av sluttdestinasjon. Flyginger med sluttdestinasjon i land og områder som framgår av listen under ilegges lav sats. Flyginger med sluttdestinasjon i andre land og områder ilegges høy sats.AlbaniaAndorraBelgiaBosnia-HercegovinaBulgariaDanmark, med unntak av GrønlandEstlandFinlandFrankrike, med unntak av oversjøiske departementer, territorier og samfunnHellasBelarusIrlandIslandItaliaKosovoKroatiaKyprosLatviaLiechtensteinLitauenLuxemburgMaltaMoldovaMonacoMontenegroNederlandNord-MakedoniaNorgePolenPortugalRomaniaRussland vest for UralfjelleneSan MarinoSerbiaSlovakiaSloveniaSpaniaStorbritanniaSveitsSverigeTsjekkiaTysklandUkrainaUngarnVatikanstatenØsterrike
+(2) Avgiften betales per passasjer med de satser som framgår av Stortingets vedtak § 1, avhengig av sluttdestinasjon. Flyginger med sluttdestinasjon i land og områder som framgår av listen under ilegges lav sats. Flyginger med sluttdestinasjon i andre land og områder ilegges høy sats.
+
+- Albania
+- Andorra
+- Belgia
+- Bosnia-Hercegovina
+- Bulgaria
+- Danmark, med unntak av Grønland
+- Estland
+- Finland
+- Frankrike, med unntak av oversjøiske departementer, territorier og samfunn
+- Hellas
+- Belarus
+- Irland
+- Island
+- Italia
+- Kosovo
+- Kroatia
+- Kypros
+- Latvia
+- Liechtenstein
+- Litauen
+- Luxemburg
+- Malta
+- Moldova
+- Monaco
+- Montenegro
+- Nederland
+- Nord-Makedonia
+- Norge
+- Polen
+- Portugal
+- Romania
+- Russland vest for Uralfjellene
+- San Marino
+- Serbia
+- Slovakia
+- Slovenia
+- Spania
+- Storbritannia
+- Sveits
+- Sverige
+- Tsjekkia
+- Tyskland
+- Ukraina
+- Ungarn
+- Vatikanstaten
+- Østerrike
 
 (3) Med ervervsmessig flyging menes all flyging unntatt militærflyging og flyging i rednings-, nødhjelps- eller ambulansetjeneste.
 
@@ -1550,7 +1817,10 @@ Flyging av barn som er under to år på avreisetidspunktet, er fritatt for avgif
 
 (1) Avgiftsplikten omfatter forsikringsavtaler om obligatoriske ansvarsforsikringer (trafikkforsikringer), samt gebyr etter [bilansvarslova § 17a](lov/1961-02-03/§17a).
 
-(2) Avgiftsplikten omfatter ikke forsikringer for motorvognersom er registrert etter bestemmelsene i [forskrift 28. mars 1967 nr. 9350](forskrift/1967-03-28-9350) om bruk av utenlandsk motorvogn i riket og om særskilt registrering av motorvogn for midlertidig bruk,med utenlandske kjennemerker.
+(2) Avgiftsplikten omfatter ikke forsikringer for motorvogner
+
+1. som er registrert etter bestemmelsene i [forskrift 28. mars 1967 nr. 9350](forskrift/1967-03-28-9350) om bruk av utenlandsk motorvogn i riket og om særskilt registrering av motorvogn for midlertidig bruk,
+2. med utenlandske kjennemerker.
 
 > Tilføyd ved [forskrift 19 des 2016 nr. 1677](forskrift/2016-12-19-1677) (i kraft 1 jan 2017), endret ved [forskrift 20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018).
 
@@ -1606,7 +1876,12 @@ Beregnet avgift kan føres til fradrag i skattemeldingen dersom motorvognen er d
 
 (1) Dersom et utestående premiekrav som det er beregnet avgift for, på grunn av skyldnerens manglende betalingsevne kan konstateres endelig tapt, kan avgiften føres til fradrag i skattemeldingen for den skattleggingsperiode tapet konstateres.
 
-(2) Et utstående premiekrav anses endelig tapt dersomforetatt tvangsinndriving eller inkasso har vært forgjeves,fordringen er en kundefordring som ikke er innfridd seks måneder etter forfall til tross for minst tre purringskrav med normale purringsintervaller og slik aktivitet fra kreditors side som forholdene tilsier,offentlig gjeldsmegling, konkurs-, likvidasjons- eller avviklingsbehandling i skyldnerens bo gjør det klart at bomidlene ikke gir eller ikke vil gi fordringen dekning, ellerfordringen ellers ut fra en samlet vurdering må anses klart uerholdelig.
+(2) Et utstående premiekrav anses endelig tapt dersom
+
+1. foretatt tvangsinndriving eller inkasso har vært forgjeves,
+2. fordringen er en kundefordring som ikke er innfridd seks måneder etter forfall til tross for minst tre purringskrav med normale purringsintervaller og slik aktivitet fra kreditors side som forholdene tilsier,
+3. offentlig gjeldsmegling, konkurs-, likvidasjons- eller avviklingsbehandling i skyldnerens bo gjør det klart at bomidlene ikke gir eller ikke vil gi fordringen dekning, eller
+4. fordringen ellers ut fra en samlet vurdering må anses klart uerholdelig.
 
 (3) En fordring anses likevel ikke tapt i den utstrekning den er tilstrekkelig sikret ved pant, kausjon e.l.
 
@@ -1711,7 +1986,11 @@ Avgiftsplikten oppstår når kraft produseres i landbaserte vindkraftverk.
 
 (1) Avgiftsplikten omfatter ren svovelheksafluorid (SF6) og SF6 som inngår i produkter.
 
-(2) Avgiftsplikten omfatter ikke SF6 som:er lagret på tidspunktet avgiften trer i kraft,er installert i SF6-isolerte anlegg på tidspunktet avgiften trer i kraft,gjenbrukes etter tapping fra SF6-isolerte anlegg som tas ut av drift.
+(2) Avgiftsplikten omfatter ikke SF6 som:
+
+1. er lagret på tidspunktet avgiften trer i kraft,
+2. er installert i SF6-isolerte anlegg på tidspunktet avgiften trer i kraft,
+3. gjenbrukes etter tapping fra SF6-isolerte anlegg som tas ut av drift.
 
 > Tilføyd ved forskrift [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), endret ved forskrifter [17 des 2024 nr. 3310](forskrift/2024-12-17-3310) (i kraft 1 jan 2025), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026).
 
@@ -1853,7 +2132,11 @@ Søknad om refusjon sendes til skattekontoret.
 
 (2) For avgiftsbelagte produkter levert fra ikke registrerte virksomheter gis det refusjon for tilsvarende innbetalte avgifter.
 
-(3) Med skip i utenriks fart menes:skip som skal direkte til utenlandsk havn, Svalbard, Jan Mayen eller andre faste anlegg til havs utenfor Norges økonomiske sone, og hvor det er gitt melding om dette til tollmyndighetene,skip som skal til utenlandsk havn, Svalbard, Jan Mayen eller andre faste anlegg til havs utenfor Norges økonomiske sone via annen norsk havn, og hvor det er gitt melding om dette til tollmyndighetene. Det er et vilkår for fritak at fartøyet bare medbringer last eller passasjerer som kommer fra eller er bestemt til utenlandsk havn,værskip som skal ligge stasjonært i havområdene utenfor Norge.
+(3) Med skip i utenriks fart menes:
+
+1. skip som skal direkte til utenlandsk havn, Svalbard, Jan Mayen eller andre faste anlegg til havs utenfor Norges økonomiske sone, og hvor det er gitt melding om dette til tollmyndighetene,
+2. skip som skal til utenlandsk havn, Svalbard, Jan Mayen eller andre faste anlegg til havs utenfor Norges økonomiske sone via annen norsk havn, og hvor det er gitt melding om dette til tollmyndighetene. Det er et vilkår for fritak at fartøyet bare medbringer last eller passasjerer som kommer fra eller er bestemt til utenlandsk havn,
+3. værskip som skal ligge stasjonært i havområdene utenfor Norge.
 
 (4) Fiske- og fangstfartøy som har gått i utenriks fart, jf. tredje ledd, og bunkret avgiftsbelagt mineralolje, naturgass, LPG eller smøreolje i perioden 1. juli 2025 til 12. august 2025, kan søke om refusjon for tilsvarende innbetalte avgifter.
 
@@ -1967,7 +2250,11 @@ Bensin med særlig helse- og miljømessige egenskaper til bruk i motorsager og a
 
 ### § 4-7-2. Vilkår
 
-Bensinen må oppfylle følgende vilkår for å anses for å ha særlige helse- og miljømessige egenskaper:det kvantum av bensinen som destillerer over til og med 70 °C skal være mellom 15 og 42 pst. (metode ASTM D 86),benzeninnholdet må være under 0,1 pst. ogsvovelinnholdet må være under 10 ppm.
+Bensinen må oppfylle følgende vilkår for å anses for å ha særlige helse- og miljømessige egenskaper:
+
+1. det kvantum av bensinen som destillerer over til og med 70 °C skal være mellom 15 og 42 pst. (metode ASTM D 86),
+2. benzeninnholdet må være under 0,1 pst. og
+3. svovelinnholdet må være under 10 ppm.
 
 > Endret ved [forskrift 14 juli 2011 nr. 782](forskrift/2011-07-14-782).
 
@@ -2093,13 +2380,36 @@ Søknad om refusjon sendes til skattekontoret.
 
 ### § 5-1. Registreringsplikt
 
-Følgende skal registreres for den enkelte avgift:produsenter av avgiftspliktige varer, med unntak av produsenter som leverer kraft i samsvar med [§ 3-12-12](forskrift/2001-12-11-1451/§3-12-12), [§ 3-12-17](forskrift/2001-12-11-1451/§3-12-17), eller [§ 3-12-18](forskrift/2001-12-11-1451/§3-12-18), og produsenter som ikke har avgiftspliktig uttak,virksomheter som produserer eller innfører teknisk etanol med alkoholstyrke over 2,5 volumprosent,– – –virksomheter som transporterer elektrisk kraft til forbruker,importører av alkoholholdig drikk med alkoholstyrke over 2,5 volumprosent, når det ikke foreligger særskilt tillatelse eller bevilling,virksomheter som eier NOx-avgiftspliktige anlegg, fartøy, luftfartøy eller kjøretøy, med unntak av virksomheter som kun har avgiftsfrie utslipp eller utenlandske virksomheter som benytter representant registrert etter [§ 5-2](forskrift/2001-12-11-1451/§5-2) bokstav c,operatører for NOx-avgiftspliktige innretninger på norsk kontinentalsokkel, herunder flyttbare innretninger som driver petroleumsvirksomhet,norske virksomheter som utfører flyginger fra norsk lufthavn,representanter for utenlandske virksomheter som utfører flyginger fra norsk lufthavn,virksomheter og representanter for utenlandske virksomheter som etter [forskrift 1. april 1974 nr. 3](forskrift/1974-04-01-3) om trafikktrygd m.v. [§ 1a](forskrift/1974-04-01-3/§1a) nr 3 plikter å være medlem av Trafikkforsikringsforeningen, jf. [bilansvarslova § 17](lov/1961-02-03/§17) første ledd bokstav c,trafikkforsikringsforeningen, jf. [bilansvarslova § 17](lov/1961-02-03/§17) annet ledd og [forskrift 1. april 1974 nr. 3](forskrift/1974-04-01-3) om trafikktrygd m.v,virksomheter som leverer naturgass eller LPG til autogassanlegg eller andre fyllestasjoner,virksomhet som innfører bensin, mineralolje til fremdrift av motorvogn (autodiesel), bioetanol og biodiesel.virksomhet som har eller plikter å ha tillatelse til akvakultur av matfisk av laks, ørret og regnbueørret i territorialfarvannet, også når tillatelsen er gitt til særlige formål, unntatt tillatelser til slaktemerd og fiskeparktillatelser.salgsorganisasjoner som er godkjent etter [fiskesalslagslova](lov/2013-06-21-75),forbrenningsanlegg som har avgiftspliktig CO2-utslipp,konsesjonspliktig for landbasert vindkraftverk.– – –
+Følgende skal registreres for den enkelte avgift:
+
+1. produsenter av avgiftspliktige varer, med unntak av produsenter som leverer kraft i samsvar med [§ 3-12-12](forskrift/2001-12-11-1451/§3-12-12), [§ 3-12-17](forskrift/2001-12-11-1451/§3-12-17), eller [§ 3-12-18](forskrift/2001-12-11-1451/§3-12-18), og produsenter som ikke har avgiftspliktig uttak,
+2. virksomheter som produserer eller innfører teknisk etanol med alkoholstyrke over 2,5 volumprosent,
+3. – – –
+4. virksomheter som transporterer elektrisk kraft til forbruker,
+5. importører av alkoholholdig drikk med alkoholstyrke over 2,5 volumprosent, når det ikke foreligger særskilt tillatelse eller bevilling,
+6. virksomheter som eier NOx-avgiftspliktige anlegg, fartøy, luftfartøy eller kjøretøy, med unntak av virksomheter som kun har avgiftsfrie utslipp eller utenlandske virksomheter som benytter representant registrert etter [§ 5-2](forskrift/2001-12-11-1451/§5-2) bokstav c,
+7. operatører for NOx-avgiftspliktige innretninger på norsk kontinentalsokkel, herunder flyttbare innretninger som driver petroleumsvirksomhet,
+8. norske virksomheter som utfører flyginger fra norsk lufthavn,
+9. representanter for utenlandske virksomheter som utfører flyginger fra norsk lufthavn,
+10. virksomheter og representanter for utenlandske virksomheter som etter [forskrift 1. april 1974 nr. 3](forskrift/1974-04-01-3) om trafikktrygd m.v. [§ 1a](forskrift/1974-04-01-3/§1a) nr 3 plikter å være medlem av Trafikkforsikringsforeningen, jf. [bilansvarslova § 17](lov/1961-02-03/§17) første ledd bokstav c,
+11. trafikkforsikringsforeningen, jf. [bilansvarslova § 17](lov/1961-02-03/§17) annet ledd og [forskrift 1. april 1974 nr. 3](forskrift/1974-04-01-3) om trafikktrygd m.v,
+12. virksomheter som leverer naturgass eller LPG til autogassanlegg eller andre fyllestasjoner,
+13. virksomhet som innfører bensin, mineralolje til fremdrift av motorvogn (autodiesel), bioetanol og biodiesel.
+14. virksomhet som har eller plikter å ha tillatelse til akvakultur av matfisk av laks, ørret og regnbueørret i territorialfarvannet, også når tillatelsen er gitt til særlige formål, unntatt tillatelser til slaktemerd og fiskeparktillatelser.
+15. salgsorganisasjoner som er godkjent etter [fiskesalslagslova](lov/2013-06-21-75),
+16. forbrenningsanlegg som har avgiftspliktig CO2-utslipp,
+17. konsesjonspliktig for landbasert vindkraftverk.
+18. – – –
 
 > Endret ved [forskrifter 19 des 2002 nr. 1836](forskrift/2002-12-19-1836) (i kraft 1 jan 2003), [19 des 2003 nr. 1758](forskrift/2003-12-19-1758) (i kraft 1 jan 2004), [25 juni 2004 nr. 1040](forskrift/2004-06-25-1040) (i kraft 1 juli 2004), [22 juni 2005 nr. 682](forskrift/2005-06-22-682) (i kraft 1 juli 2005), [15 des 2006 nr. 1442](forskrift/2006-12-15-1442) (i kraft 1 jan 2007), [20 des 2006 nr. 1587](forskrift/2006-12-20-1587) (i kraft 1 jan 2007), [15 des 2009 nr. 1524](forskrift/2009-12-15-1524) (i kraft 1 jan 2010), [1 sep 2010 nr. 1233](forskrift/2010-09-01-1233) (i kraft 1 okt 2010), [17 des 2013 nr. 1565](forskrift/2013-12-17-1565) (i kraft 1 jan 2014), [16 des 2014 nr. 1766](forskrift/2014-12-16-1766) (i kraft 1 jan 2015), [16 nov 2015 nr. 1327](forskrift/2015-11-16-1327) (i kraft 1 jan 2016), [13 mai 2016 nr. 496](forskrift/2016-05-13-496) (i kraft 1 juni 2016), [19 des 2016 nr. 1677](forskrift/2016-12-19-1677) (i kraft 1 jan 2017), [16 mars 2017 nr. 331](forskrift/2017-03-16-331), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), [26 juni 2020 nr. 1393](forskrift/2020-06-26-1393) (i kraft 1 juli 2020), [21 des 2020 nr. 3101](forskrift/2020-12-21-3101) (i kraft 1 jan 2021), [23 juni 2021 nr. 2189](forskrift/2021-06-23-2189) (i kraft 1 juli 2021), [17 des 2021 nr. 3712](forskrift/2021-12-17-3712) (i kraft 1 jan 2022), [10 juni 2022 nr. 1087](forskrift/2022-06-10-1087) (i kraft 1 juli 2022), [19 des 2022 nr. 2382](forskrift/2022-12-19-2382) (i kraft 28 sep 2022), [19 sep 2023 nr. 1448](forskrift/2023-09-19-1448) (i kraft 1 okt 2023), [20 des 2023 nr. 2206](forskrift/2023-12-20-2206) (i kraft 1 jan 2024), [12 jan 2024 nr. 63](forskrift/2024-01-12-63) (i kraft 1 jan 2024), [30 juni 2025 nr. 1366](forskrift/2025-06-30-1366) (i kraft 1 jan 2026, endring satt i kraft ved forskrift [19 des 2025 nr. 2789](forskrift/2025-12-19-2789)).
 
 ### § 5-2. Registreringsadgang
 
-Følgende virksomheter kan etter søknad til skattekontoret registreres:importører av avgiftspliktige varer som er registreringspliktige etter [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1),importører av avgiftspliktige varer når varene skal brukes som råvarer eller de er til avgiftsfri bruk etter bestemmelsene i Stortingets avgiftsvedtak,representant for utenlandsk virksomhet som eier NOx-avgiftspliktige fartøy eller luftfartøy.
+Følgende virksomheter kan etter søknad til skattekontoret registreres:
+
+1. importører av avgiftspliktige varer som er registreringspliktige etter [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1),
+2. importører av avgiftspliktige varer når varene skal brukes som råvarer eller de er til avgiftsfri bruk etter bestemmelsene i Stortingets avgiftsvedtak,
+3. representant for utenlandsk virksomhet som eier NOx-avgiftspliktige fartøy eller luftfartøy.
 
 > Endret ved [forskrifter 12 des 2003 nr. 1533](forskrift/2003-12-12-1533) (i kraft 1 jan 2004), [15 des 2006 nr. 1442](forskrift/2006-12-15-1442) (i kraft 1 jan 2007), [20 des 2006 nr. 1587](forskrift/2006-12-20-1587) (i kraft 1 jan 2007), [24 juni 2010 nr. 964](forskrift/2010-06-24-964) (i kraft 1 juli 2010), [17 des 2013 nr. 1565](forskrift/2013-12-17-1565) (i kraft 1 jan 2014), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [18 des 2015 nr. 1766](forskrift/2015-12-18-1766) (i kraft 1 jan 2016).
 
@@ -2125,7 +2435,11 @@ Registrering skal skje ved skattekontoret.
 
 ### § 5-6. Nektelse eller tilbakekallelse av registrering
 
-(1) Skattekontoret kan nekte eller tilbakekalle registreringen dersomvirksomheten, styret eller ledelsen ikke anses kredittverdig,virksomheten har uoppgjorte restanser med hensyn til skatter eller avgifter eller har overtrådt regelverket om særavgifter, tollavgift eller merverdiavgift ellervirksomhetens karakter endres.
+(1) Skattekontoret kan nekte eller tilbakekalle registreringen dersom
+
+1. virksomheten, styret eller ledelsen ikke anses kredittverdig,
+2. virksomheten har uoppgjorte restanser med hensyn til skatter eller avgifter eller har overtrådt regelverket om særavgifter, tollavgift eller merverdiavgift eller
+3. virksomhetens karakter endres.
 
 (2) Skattekontoret skal tilbakekalle registreringen om vilkårene i [§ 5-3](forskrift/2001-12-11-1451/§5-3) ikke lenger er oppfylt, eller den registrerte ikke lenger oppfyller sine forpliktelser etter denne forskrift, skatteforvaltningsloven og skatteforvaltningsforskriften eller skattebetalingsforskriften.
 
@@ -2249,4 +2563,34 @@ Virksomheter med godkjente lokaler må innen to år fra denne forskriftens ikraf
 
 (1) Forskriften gjelder fra 1. januar 2002.
 
-(2) Fra samme tid oppheves følgende forskrifter:[forskrift 29. september 1976 nr. 9950](forskrift/1976-09-29-9950) om avgift på tobakkvarer,[forskrift 17. desember 1999 nr. 1306](forskrift/1999-12-17-1306) om avgift på alkohol,[forskrift 15. januar 1996 nr. 21](forskrift/1996-01-15-21) om avgift på brennevin og vin m.m. til teknisk, vitenskapelig og medisinsk bruk m.v. (teknisk sprit),[forskrift 18. desember 2000 nr. 1305](forskrift/2000-12-18-1305) om avgift på alkoholfrie drikkevarer,[forskrift 20. desember 1999 nr. 1370](forskrift/1999-12-20-1370) om avgifter på drikkevareemballasje,[forskrift 16. juli 1990 nr. 611](forskrift/1990-07-16-611) om avgift på sjokolade- og sukkervarer m.m.,[forskrift 25. november 1981 nr. 9930](forskrift/1981-11-25-9930) om avgift på sukker m.v.,[forskrift 18. desember 1998 nr. 1249](forskrift/1998-12-18-1249) om CO2-avgift på mineralske produkter,[forskrift 18. desember 1998 nr. 1250](forskrift/1998-12-18-1250) om svovelavgift på mineralske produkter,[forskrift 29. januar 1990 nr. 75](forskrift/1990-01-29-75) om beregning, oppkreving og kontroll av avgift på bensin,[forskrift 29. januar 1990 nr. 77](forskrift/1990-01-29-77) om avgift på smøreolje m.v.,[forskrift 8. juni 1993 nr. 436](forskrift/1993-06-08-436) om avgift på mineralolje til framdrift av motorvogn og om merking av mineralolje,[forskrift 14. desember 1999 nr. 1298](forskrift/1999-12-14-1298) om grunnavgift på fyringsolje mv.,[forskrift 27. januar 1978 nr. 8](forskrift/1978-01-27-8) om avgift på båtmotorer,[forskrift 26. november 1979 nr. 3](forskrift/1979-11-26-3) om avgift på elektrisk kraft,[forskrift 6. desember 1999 nr. 1257](forskrift/1999-12-06-1257) om avgift på trikloreten (TRI) og tetrakloreten (PER),[forskrift 2. desember 1998 nr. 1106](forskrift/1998-12-02-1106) om avgift på sluttbehandling av avfall,[forskrift 29. mars 1996 nr. 312](forskrift/1996-03-29-312) om refusjon av avgift på mineralske produkter og elektrisk kraft som leveres til bruk i verneverdige fartøy, museumsjernbaner, tekniske og industrielle kulturminner og tekniske anlegg på museumssektoren,[forskrift 10. november 1988 nr. 898](forskrift/1988-11-10-898) om refusjon av avgift på mineralolje til bruk i fartøy som driver fiske og fangst i nære farvann,[forskrift 10. juni 1991 nr. 369](forskrift/1991-06-10-369) om refusjon av avgift på mineralolje til bruk om bord i fartøy som driver gods- og/eller passasjertransport i innenriks sjøfart,[forskrift 30. desember 1992 nr. 1227](forskrift/1992-12-30-1227) om nedsatt avgift på mineralolje for treforedlingsindustrien, sildemel- og fiskemelindustrien,[forskrift 18. desember 1998 nr. 1251](forskrift/1998-12-18-1251) om bensin og mineralolje til bruk i fly,[forskrift 20. desember 2000 nr. 1427](forskrift/2000-12-20-1427) om redusert svovelavgift ved rensing mv.,[forskrift 13. juni 1975 nr. 6](forskrift/1975-06-13-6) om tilskudd som kompensasjon for bensinavgift,[forskrift 27. januar 1978 nr. 9](forskrift/1978-01-27-9) om fritak og refusjon av avgift på båtmotorer,[forskrift 23. desember 1992 nr. 1203](forskrift/1992-12-23-1203) om avgiftsmessig avgrensning og praktisering av fritak for avgift på elektrisk kraft for industrien m.v.,[forskrift 19. august 1993 nr. 809](forskrift/1993-08-19-809) om kontroll og avgiftsberegning ved urettmessig bruk av merket mineralolje,[forskrift 20. august 1993 nr. 821](forskrift/1993-08-20-821) om lageravgift på mineralolje til framdrift av motorvogn og[forskrift 28. mai 1999 nr. 656](forskrift/1999-05-28-656) om refusjon av innbetalt CO2– og svovelavgift på flydrivstoff levert til bruk i internasjonal flytrafikk.
+(2) Fra samme tid oppheves følgende forskrifter:
+
+- [forskrift 29. september 1976 nr. 9950](forskrift/1976-09-29-9950) om avgift på tobakkvarer,
+- [forskrift 17. desember 1999 nr. 1306](forskrift/1999-12-17-1306) om avgift på alkohol,
+- [forskrift 15. januar 1996 nr. 21](forskrift/1996-01-15-21) om avgift på brennevin og vin m.m. til teknisk, vitenskapelig og medisinsk bruk m.v. (teknisk sprit),
+- [forskrift 18. desember 2000 nr. 1305](forskrift/2000-12-18-1305) om avgift på alkoholfrie drikkevarer,
+- [forskrift 20. desember 1999 nr. 1370](forskrift/1999-12-20-1370) om avgifter på drikkevareemballasje,
+- [forskrift 16. juli 1990 nr. 611](forskrift/1990-07-16-611) om avgift på sjokolade- og sukkervarer m.m.,
+- [forskrift 25. november 1981 nr. 9930](forskrift/1981-11-25-9930) om avgift på sukker m.v.,
+- [forskrift 18. desember 1998 nr. 1249](forskrift/1998-12-18-1249) om CO2-avgift på mineralske produkter,
+- [forskrift 18. desember 1998 nr. 1250](forskrift/1998-12-18-1250) om svovelavgift på mineralske produkter,
+- [forskrift 29. januar 1990 nr. 75](forskrift/1990-01-29-75) om beregning, oppkreving og kontroll av avgift på bensin,
+- [forskrift 29. januar 1990 nr. 77](forskrift/1990-01-29-77) om avgift på smøreolje m.v.,
+- [forskrift 8. juni 1993 nr. 436](forskrift/1993-06-08-436) om avgift på mineralolje til framdrift av motorvogn og om merking av mineralolje,
+- [forskrift 14. desember 1999 nr. 1298](forskrift/1999-12-14-1298) om grunnavgift på fyringsolje mv.,
+- [forskrift 27. januar 1978 nr. 8](forskrift/1978-01-27-8) om avgift på båtmotorer,
+- [forskrift 26. november 1979 nr. 3](forskrift/1979-11-26-3) om avgift på elektrisk kraft,
+- [forskrift 6. desember 1999 nr. 1257](forskrift/1999-12-06-1257) om avgift på trikloreten (TRI) og tetrakloreten (PER),
+- [forskrift 2. desember 1998 nr. 1106](forskrift/1998-12-02-1106) om avgift på sluttbehandling av avfall,
+- [forskrift 29. mars 1996 nr. 312](forskrift/1996-03-29-312) om refusjon av avgift på mineralske produkter og elektrisk kraft som leveres til bruk i verneverdige fartøy, museumsjernbaner, tekniske og industrielle kulturminner og tekniske anlegg på museumssektoren,
+- [forskrift 10. november 1988 nr. 898](forskrift/1988-11-10-898) om refusjon av avgift på mineralolje til bruk i fartøy som driver fiske og fangst i nære farvann,
+- [forskrift 10. juni 1991 nr. 369](forskrift/1991-06-10-369) om refusjon av avgift på mineralolje til bruk om bord i fartøy som driver gods- og/eller passasjertransport i innenriks sjøfart,
+- [forskrift 30. desember 1992 nr. 1227](forskrift/1992-12-30-1227) om nedsatt avgift på mineralolje for treforedlingsindustrien, sildemel- og fiskemelindustrien,
+- [forskrift 18. desember 1998 nr. 1251](forskrift/1998-12-18-1251) om bensin og mineralolje til bruk i fly,
+- [forskrift 20. desember 2000 nr. 1427](forskrift/2000-12-20-1427) om redusert svovelavgift ved rensing mv.,
+- [forskrift 13. juni 1975 nr. 6](forskrift/1975-06-13-6) om tilskudd som kompensasjon for bensinavgift,
+- [forskrift 27. januar 1978 nr. 9](forskrift/1978-01-27-9) om fritak og refusjon av avgift på båtmotorer,
+- [forskrift 23. desember 1992 nr. 1203](forskrift/1992-12-23-1203) om avgiftsmessig avgrensning og praktisering av fritak for avgift på elektrisk kraft for industrien m.v.,
+- [forskrift 19. august 1993 nr. 809](forskrift/1993-08-19-809) om kontroll og avgiftsberegning ved urettmessig bruk av merket mineralolje,
+- [forskrift 20. august 1993 nr. 821](forskrift/1993-08-20-821) om lageravgift på mineralolje til framdrift av motorvogn og
+- [forskrift 28. mai 1999 nr. 656](forskrift/1999-05-28-656) om refusjon av innbetalt CO2– og svovelavgift på flydrivstoff levert til bruk i internasjonal flytrafikk.

@@ -50,7 +50,12 @@ eu_basis: []
 
 ### § 2-1. Grader og utdanninger
 
-(1) VID vitenskapelige høgskole kan tildele følgende grader:Bachelor, normert studietid 3 årMaster, normert studietid 1,5–2 årCandidata/candidatus theologiae (cand.theol.) normert studietid 6 årPhilosophiae doctor (ph.d.) normert studietid 3 år.
+(1) VID vitenskapelige høgskole kan tildele følgende grader:
+
+1. Bachelor, normert studietid 3 år
+2. Master, normert studietid 1,5–2 år
+3. Candidata/candidatus theologiae (cand.theol.) normert studietid 6 år
+4. Philosophiae doctor (ph.d.) normert studietid 3 år.
 
 (2) VID vitenskapelige høgskole gir videreutdanninger som bygger på avsluttet bachelorgrad eller tilsvarende kompetanse. Høgskolen tilbyr også årsstudier og studietilbud av kortere varighet som bygger på generell studiekompetanse eller tilsvarende.
 
@@ -60,7 +65,10 @@ eu_basis: []
 
 (1) Graden bachelor oppnås på grunnlag av eksamen i emner, emnekombinasjoner eller studieprogram med et omfang på minimum 180 studiepoeng.
 
-(2) Grunnlaget for graden skal omfatte ett av følgende:Fullført 3-årig studieprogram (180 studiepoeng) som ifølge studieplan gir bachelorgrad.Selvvalgt bachelorgrad (180 studiepoeng) med fordypningsenhet på minimum 80 studiepoeng og en breddeenhet på minimum 30 studiepoeng.
+(2) Grunnlaget for graden skal omfatte ett av følgende:
+
+1. Fullført 3-årig studieprogram (180 studiepoeng) som ifølge studieplan gir bachelorgrad.
+2. Selvvalgt bachelorgrad (180 studiepoeng) med fordypningsenhet på minimum 80 studiepoeng og en breddeenhet på minimum 30 studiepoeng.
 
 (3) I grunnlaget for bachelorgraden skal det inngå et selvstendig arbeid av minimum 15 studiepoengs omfang med mindre forskrift om rammeplan eller forskrift om nasjonale retningslinjer sier noe annet. Arbeidet kan være utført individuelt eller i gruppe.
 
@@ -166,13 +174,26 @@ Fakultet avgjør søknader om godkjenning av utdanning og grader fra andre insti
 
 (8) Studenten kan søke om å inngå avtale med høgskolen om endret studieprogresjon. Avtalen kan ikke innebære at studenten bruker mer studietid enn den fastsatte grensen for studietid, jf. (3-6), med mindre studenten har individuell tilrettelegging av studieløpet, jf. [universitets- og høyskoleloven § 10-5](lov/2024-03-08-9/§10-5).
 
-(9) Studieretten opphører når:studiet er fullført og vitnemål eller annen sluttdokumentasjon er utstedtenkeltemner er fullførtstudenten trekker seg fra studieprogrammetstudenten mister studieretten, jf. [§ 5-2](forskrift/2024-06-04-1483/§5-2) i denne forskriften.
+(9) Studieretten opphører når:
+
+1. studiet er fullført og vitnemål eller annen sluttdokumentasjon er utstedt
+2. enkeltemner er fullført
+3. studenten trekker seg fra studieprogrammet
+4. studenten mister studieretten, jf. [§ 5-2](forskrift/2024-06-04-1483/§5-2) i denne forskriften.
 
 > Endret ved forskrift [9 des 2025 nr. 2582](forskrift/2025-12-09-2582) (i kraft 1 jan 2026).
 
 ### § 5-2. Tap av studierett
 
-(1) Studenten mister studierett i følgende tilfeller:studenten unnlater å betale studie- eller semesteravgift innen fastsatt friststudenten har eller kommer til å overskride den fastsatte grensen utover fastsatt studielengde eller individuell tilrettelegging jf. denne forskriftens [§ 5-1 (3)](forskrift/2024-06-04-1483/§5-2/ledd/3) til [(6)](forskrift/2024-06-04-1483/§5-2/ledd/6)studenten får stopp i studieløpet grunnet utestenging fra praksis etter [universitets- og høyskoleloven § 12-2 annet ledd](lov/2024-03-08-9/§12-2/ledd/2)studenten har brukt opp sine forsøk til eksamen eller praksisperiode jf. denne forskriftens [§§ 6-6](forskrift/2024-06-04-1483/§6-6) og [6-7](forskrift/2024-06-04-1483/§6-7)studenten ikke har produsert studiepoeng ved studieprogrammet vedkommende er tatt opp til i løpet av de to siste studieårene og ikke har hatt permisjon eller vært utestengtstudenten ved forespørsel ikke foreviser originale dokumenter av grunnlaget for opptak innen fastsatt frist, jf. denne forskriftens [§ 3-7](forskrift/2024-06-04-1483/§3-7), eller ikke leverer politiattest innen fastsatt friststudenten ikke møter første studiedag i sitt første semester, med mindre fraværet er forhåndsgodkjent, studenten er innvilget reservert studieplass eller det oppstår uforutsette hendelser som studenten ikke rår over og som forhindrer studenten å ta kontakt med høgskolen.
+(1) Studenten mister studierett i følgende tilfeller:
+
+1. studenten unnlater å betale studie- eller semesteravgift innen fastsatt frist
+2. studenten har eller kommer til å overskride den fastsatte grensen utover fastsatt studielengde eller individuell tilrettelegging jf. denne forskriftens [§ 5-1 (3)](forskrift/2024-06-04-1483/§5-2/ledd/3) til [(6)](forskrift/2024-06-04-1483/§5-2/ledd/6)
+3. studenten får stopp i studieløpet grunnet utestenging fra praksis etter [universitets- og høyskoleloven § 12-2 annet ledd](lov/2024-03-08-9/§12-2/ledd/2)
+4. studenten har brukt opp sine forsøk til eksamen eller praksisperiode jf. denne forskriftens [§§ 6-6](forskrift/2024-06-04-1483/§6-6) og [6-7](forskrift/2024-06-04-1483/§6-7)
+5. studenten ikke har produsert studiepoeng ved studieprogrammet vedkommende er tatt opp til i løpet av de to siste studieårene og ikke har hatt permisjon eller vært utestengt
+6. studenten ved forespørsel ikke foreviser originale dokumenter av grunnlaget for opptak innen fastsatt frist, jf. denne forskriftens [§ 3-7](forskrift/2024-06-04-1483/§3-7), eller ikke leverer politiattest innen fastsatt frist
+7. studenten ikke møter første studiedag i sitt første semester, med mindre fraværet er forhåndsgodkjent, studenten er innvilget reservert studieplass eller det oppstår uforutsette hendelser som studenten ikke rår over og som forhindrer studenten å ta kontakt med høgskolen.
 
 (2) Seksjon for læringsstøtte og digital utvikling fatter vedtak om tap av studierett etter denne forskriftens [§ 5-2 (1) bokstav a](forskrift/2024-06-04-1483/§5-2/ledd/1/bokstav/a). Dekan fatter vedtak om tap av studierett etter denne forskriftens [§ 5-2 (1) bokstav b](forskrift/2024-06-04-1483/§5-2/ledd/1/bokstav/b) til [g](forskrift/2024-06-04-1483/§5-2/ledd/1/bokstav/g).
 
@@ -238,7 +259,15 @@ Eksamensoppgaver utformes som hovedregel på bokmål og nynorsk, jf. [universite
 
 (2) En student som ikke har bestått eksamen i et emne etter tre forsøk, kan søke om et fjerde forsøk. Fakultetet avgjør søknaden.
 
-(3) En student anses å ha brukt et eksamensforsøk dersom hen:har bestått eksamentrekker seg etter trekkfristen utløp eller under eksamenikke møter på eksamen, uten dokumentert gyldig fravær, jf. denne forskriftens [§ 6-5 (4)](forskrift/2024-06-04-1483/§6-5/ledd/4)ikke leverer besvarelse, uten dokumentert gyldig fravær, jf. denne forskriftens [§ 6-5 (4)](forskrift/2024-06-04-1483/§6-5/ledd/4)leverer blank besvarelse eller en besvarelse som åpenbart ikke er et forsøk på faglig besvarelsefår karakter F / ikke beståttfår eksamen annullert på grunn av fusk eller forsøk på fusk.
+(3) En student anses å ha brukt et eksamensforsøk dersom hen:
+
+1. har bestått eksamen
+2. trekker seg etter trekkfristen utløp eller under eksamen
+3. ikke møter på eksamen, uten dokumentert gyldig fravær, jf. denne forskriftens [§ 6-5 (4)](forskrift/2024-06-04-1483/§6-5/ledd/4)
+4. ikke leverer besvarelse, uten dokumentert gyldig fravær, jf. denne forskriftens [§ 6-5 (4)](forskrift/2024-06-04-1483/§6-5/ledd/4)
+5. leverer blank besvarelse eller en besvarelse som åpenbart ikke er et forsøk på faglig besvarelse
+6. får karakter F / ikke bestått
+7. får eksamen annullert på grunn av fusk eller forsøk på fusk.
 
 (4) Dersom en student ikke har bestått eksamen i emnet etter å ha brukt sine forsøk, mister studenten studieretten, jf. denne forskriftens [§ 5-2 (1) bokstav d](forskrift/2024-06-04-1483/§5-2/ledd/1/bokstav/d).
 
@@ -330,7 +359,20 @@ Eksamensoppgaver utformes som hovedregel på bokmål og nynorsk, jf. [universite
 
 ### § 6-13. Fusk eller forsøk på fusk
 
-(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:å handle i strid med gjeldende regler for den spesifikke eksamenå bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamenå presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitatå levere besvarelse som er utarbeidet av andre enn studenten(e) selvgjenbruk av eget tidligere innlevert arbeid som har gitt uttelling i form av oppnådde studiepoeng eller rett til å gå opp til eksamen, uten å ha opplyst om dettefabrikkering eller forfalskning av databesvarelse hvor innhold er generert av skriverobot / kunstig intelligens, og presentert som studentens eget arbeidå vise til fiktive kilderå levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selvureglementert samarbeid mellom studenter eller grupperurettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starterforsøk på å skaffe seg adgang til eksamen ved å fuske på obligatoriske aktiviteter som er gitt som vilkår for å avlegge eksamen.
+(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:
+
+1. å handle i strid med gjeldende regler for den spesifikke eksamen
+2. å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen
+3. å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat
+4. å levere besvarelse som er utarbeidet av andre enn studenten(e) selv
+5. gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling i form av oppnådde studiepoeng eller rett til å gå opp til eksamen, uten å ha opplyst om dette
+6. fabrikkering eller forfalskning av data
+7. besvarelse hvor innhold er generert av skriverobot / kunstig intelligens, og presentert som studentens eget arbeid
+8. å vise til fiktive kilder
+9. å levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selv
+10. ureglementert samarbeid mellom studenter eller grupper
+11. urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+12. forsøk på å skaffe seg adgang til eksamen ved å fuske på obligatoriske aktiviteter som er gitt som vilkår for å avlegge eksamen.
 
 (2) Fusk eller forsøk på fusk kan medføre annullering av eksamen, obligatoriske aktiviteter eller kurs, utestenging fra høgskolen og tap av retten til å avlegge eksamen i inntil ett år ved alle utdanningsinstitusjoner. I særlig grove tilfeller kan studenten utestenges i inntil to år, jf. [universitets- og høyskoleloven § 12-4](lov/2024-03-08-9/§12-4).
 
@@ -358,7 +400,11 @@ Eksamensoppgaver utformes som hovedregel på bokmål og nynorsk, jf. [universite
 
 (4) Det skal være minst to sensorer, hvorav minst en ekstern, ved bedømmelse av studentens masteroppgave, jf. [universitets- og høyskoleloven § 11-7 andre ledd](lov/2024-03-08-9/§11-7/ledd/2).
 
-(5) Det skal være to sensorer ved sensur av:bacheloroppgaver eller lignede selvstendig arbeid på lavere gradeksamener som ikke er etterprøvbare, som muntlig eksamen, praksis og praktiske testereksamener som alene utgjør 15 studiepoeng eller mer, jf. [universitets- og høyskoleloven § 11-7 andre ledd](lov/2024-03-08-9/§11-7/ledd/2).
+(5) Det skal være to sensorer ved sensur av:
+
+1. bacheloroppgaver eller lignede selvstendig arbeid på lavere grad
+2. eksamener som ikke er etterprøvbare, som muntlig eksamen, praksis og praktiske tester
+3. eksamener som alene utgjør 15 studiepoeng eller mer, jf. [universitets- og høyskoleloven § 11-7 andre ledd](lov/2024-03-08-9/§11-7/ledd/2).
 
 (6) Dersom intern og ekstern sensor ikke blir enige om vurderingen av en besvarelse, avgjør ekstern sensor. Dersom intern og ekstern sensor ikke blir enige om vurderingen av en praksisperiode, avgjør intern sensor.
 

@@ -28,7 +28,11 @@ Det er forbudt for norske fartøy å fiske og lande leppefisk i 2026.
 
 ## § 2. Totalkvote
 
-Uten hinder av forbudet i [§ 1](forskrift/2025-12-22-2836/§1) kan fartøy som har adgang til å delta i fisket etter leppefisk fiske og lande inntil:4 millioner leppefisk på kyststrekningen fra grensen mot Sverige til Varnes fyr på Lista (Sørlandet) fra 13. juli kl. 08.00 til 20. oktober kl. 20.00.10 millioner leppefisk på kyststrekningen fra og med Varnes fyr på Lista til 62° N (Vestlandet) fra 13. juli kl. 08.00 til 20. oktober kl. 20.00.4 millioner leppefisk på kyststrekningen nord for 62° N fra 27. juli kl. 08.00 til 20. oktober kl. 20.00.
+Uten hinder av forbudet i [§ 1](forskrift/2025-12-22-2836/§1) kan fartøy som har adgang til å delta i fisket etter leppefisk fiske og lande inntil:
+
+1. 4 millioner leppefisk på kyststrekningen fra grensen mot Sverige til Varnes fyr på Lista (Sørlandet) fra 13. juli kl. 08.00 til 20. oktober kl. 20.00.
+2. 10 millioner leppefisk på kyststrekningen fra og med Varnes fyr på Lista til 62° N (Vestlandet) fra 13. juli kl. 08.00 til 20. oktober kl. 20.00.
+3. 4 millioner leppefisk på kyststrekningen nord for 62° N fra 27. juli kl. 08.00 til 20. oktober kl. 20.00.
 
 Kvotene i første ledd fordeles med 90 prosent til fartøy som deltar i lukket gruppe og 10 prosent til fartøy som deltar i åpen gruppe, ungdomsfiskeordningen og fritidsfiske.
 
@@ -42,11 +46,19 @@ Fisket må skje innenfor de begrensninger som følger av fiskeriregelverket for 
 
 ## § 4. Fredningstid
 
-Det er forbudt å fiske leppefisk med teiner og ruser i følgende områder og tidsrom:Sør for 62° N fra og med 1. januar til 13. juli kl. 08:00, og fra 20. oktober kl. 20:00 til og med 31. desember.Nord for 62° N fra og med 1. januar til 27. juli kl. 08:00, og fra 20. oktober kl. 20:00 til og med 31. desember.
+Det er forbudt å fiske leppefisk med teiner og ruser i følgende områder og tidsrom:
+
+1. Sør for 62° N fra og med 1. januar til 13. juli kl. 08:00, og fra 20. oktober kl. 20:00 til og med 31. desember.
+2. Nord for 62° N fra og med 1. januar til 27. juli kl. 08:00, og fra 20. oktober kl. 20:00 til og med 31. desember.
 
 ## § 5. Forskningsområde
 
-Det er forbudt å fiske leppefisk i et område i Austevoll kommune avgrenset av en rette linjer mellom følgende posisjoner:N 60° 05,514′ Ø 005° 16,099′N 60° 05,638′ Ø 005° 16,439′N 60° 04,877′ Ø 005° 17,809′N 60° 04,736′ Ø 005° 17,497′.
+Det er forbudt å fiske leppefisk i et område i Austevoll kommune avgrenset av en rette linjer mellom følgende posisjoner:
+
+- N 60° 05,514′ Ø 005° 16,099′
+- N 60° 05,638′ Ø 005° 16,439′
+- N 60° 04,877′ Ø 005° 17,809′
+- N 60° 04,736′ Ø 005° 17,497′.
 
 ## § 6. Fritidsfiske
 

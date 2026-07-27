@@ -32,7 +32,11 @@ Tilskudd etter denne forskriften kan gis til jordbruksforetak som oppfyller vilk
 
 Tilskuddet gis for klimarådgiving gjennomført etter rådgivingsopplegg godkjent av Landbruksdirektoratet etter [§ 3](forskrift/2026-02-23-262/§3). Rådgivingen skal ha resultert i en plan for tiltak som har til hensikt å redusere jordbruksforetakets klimabelastning og bedre jordbruksforetakets mulighet til å tilpasse seg et klima i endring.
 
-Tilskudd kan ikke gis dersom det har gått mindre enn tre år siden tilskudd for klimarådgiving ble innvilget. Det kan likevel gis nytt tilskudd innen tre år dersom jordbruksforetaket:har hatt omfattende omlegging til andre typer driftsmetoder i jordbruksproduksjonen,har hatt omlegging til annen type produksjon som er berettiget produksjonstilskudd i jordbruket, ellerdriver flere typer jordbruksproduksjoner enn tidligere mottatt rådgiving dekker.
+Tilskudd kan ikke gis dersom det har gått mindre enn tre år siden tilskudd for klimarådgiving ble innvilget. Det kan likevel gis nytt tilskudd innen tre år dersom jordbruksforetaket:
+
+1. har hatt omfattende omlegging til andre typer driftsmetoder i jordbruksproduksjonen,
+2. har hatt omlegging til annen type produksjon som er berettiget produksjonstilskudd i jordbruket, eller
+3. driver flere typer jordbruksproduksjoner enn tidligere mottatt rådgiving dekker.
 
 ## § 3. Godkjenning av klimarådgivingens innhold og utførelse
 

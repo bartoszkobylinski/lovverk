@@ -29,4 +29,8 @@ eu_basis: []
 
 ## Vedlegg:
 
-Barne- og likestillingsdepartementet overtar fra 1. januar 2008 ansvaret for:[Lov 3. juni 2005 nr. 33](lov/2005-06-03-33) om forbud mot diskriminering på grunn av etnisitet, religion mv. (diskrimineringsloven).[Lov 17. juni 2005 nr. 58](lov/2005-06-17-58) om råd eller anna representasjonsordning i kommunar og fylkeskommunar for menneske med nedsett funksjonsevne m.m.Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven), kapittel [13](lov/2005-06-17-62/kap13) Vern mot diskriminering.
+Barne- og likestillingsdepartementet overtar fra 1. januar 2008 ansvaret for:
+
+- [Lov 3. juni 2005 nr. 33](lov/2005-06-03-33) om forbud mot diskriminering på grunn av etnisitet, religion mv. (diskrimineringsloven).
+- [Lov 17. juni 2005 nr. 58](lov/2005-06-17-58) om råd eller anna representasjonsordning i kommunar og fylkeskommunar for menneske med nedsett funksjonsevne m.m.
+- Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven), kapittel [13](lov/2005-06-17-62/kap13) Vern mot diskriminering.

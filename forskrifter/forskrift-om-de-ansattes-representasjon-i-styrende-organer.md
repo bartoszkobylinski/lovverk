@@ -26,7 +26,13 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I denne forskriften menes med*ansatt:* person som arbeider i selskapet eller er i lovfestet permisjon. Ferievikarer anses likevel ikke som ansatt.*hovedstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig minst 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art.*deltidsstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig mindre enn 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art. Når det i denne forskriften kreves et bestemt antall ansatte, telles hver ansatt i deltidsstilling som en halv.*gjennomsnittlig antall ansatte de tre siste regnskapsår:* det antall ansatte som fremkommer ved å legge sammen antall ansatte ved utgangen av de tre siste regnskapsår og dele på tre.*lokal fagforening:* fagforening i selskapet eller avdeling av fagforening i selskapet som utelukkende har ansatte i selskapet som medlemmer, og som er bundet av tariffavtale med selskapet eller arbeidsgiverorganisasjon som selskapet er medlem av (bedriftsklubb e.l.).
+I denne forskriften menes med
+
+1. *ansatt:* person som arbeider i selskapet eller er i lovfestet permisjon. Ferievikarer anses likevel ikke som ansatt.
+2. *hovedstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig minst 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art.
+3. *deltidsstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig mindre enn 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art. Når det i denne forskriften kreves et bestemt antall ansatte, telles hver ansatt i deltidsstilling som en halv.
+4. *gjennomsnittlig antall ansatte de tre siste regnskapsår:* det antall ansatte som fremkommer ved å legge sammen antall ansatte ved utgangen av de tre siste regnskapsår og dele på tre.
+5. *lokal fagforening:* fagforening i selskapet eller avdeling av fagforening i selskapet som utelukkende har ansatte i selskapet som medlemmer, og som er bundet av tariffavtale med selskapet eller arbeidsgiverorganisasjon som selskapet er medlem av (bedriftsklubb e.l.).
 
 Reglene i denne forskriften gjelder også for virksomhet som utøves for enkeltpersoners regning og risiko, jf. [selskapsloven § 1-1](lov/1985-06-21-83/§1-1) tredje ledd.
 
@@ -278,7 +284,10 @@ Konsernet og et flertall av de ansatte eller lokale fagforeninger som represente
 
 ### § 25. Avtale om unntak ved felles representasjonsordning
 
-Ved felles representasjonsordning, kan konsernet og et flertall av de ansatte i konsernet eller lokale fagforeninger som representerer et flertall av de ansatte i konsernet, inngå skriftlig avtale omgjennomgående styrerepresentasjon for de ansattevalgte styremedlemmer, observatører og varamedlemmer,valgkretser.
+Ved felles representasjonsordning, kan konsernet og et flertall av de ansatte i konsernet eller lokale fagforeninger som representerer et flertall av de ansatte i konsernet, inngå skriftlig avtale om
+
+1. gjennomgående styrerepresentasjon for de ansattevalgte styremedlemmer, observatører og varamedlemmer,
+2. valgkretser.
 
 Endring av avtale må skje på samme vilkår som etablering av avtale etter første ledd.
 

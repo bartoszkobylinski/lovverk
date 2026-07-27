@@ -15,7 +15,7 @@ xml_hash: "5e40986caf1907445c378bad37113d95beee301643aa377f3ba7a893cabfabee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,14 +36,27 @@ Denne forskriften er gitt for å sikre arbeidstakernes rett til representasjon i
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*det fusjonerte selskapet;* selskapet som oppstår ved fusjonen over landegrensene.*de fusjonerende selskapene;* selskapene som deltar i fusjonen over landegrensene.*filial;* en del av et selskap som utøver en økonomisk aktivitet i en annen EU/EØS-stat enn der selskapet har sitt forretningskontor.*berørt datterselskap eller filial;* et deltagende selskaps datterselskap eller filial som vil bli datterselskap eller filial til det fusjonerte selskapet.*representasjon;* den innflytelse arbeidstakerne har på driften av selskapet gjennom:å benytte retten til å velge eller utpeke noen av medlemmene i selskapets administrasjons- eller kontrollorgan eller deres komiteer eller i ledelsesgruppen som omfatter selskapets resultatenheter og som omfattes av arbeidstakernes representasjon,
-ellerå benytte retten til å anbefale og/eller gå i mot utpekingen av noen eller alle medlemmene i selskapets administrasjons- eller kontrollorgan.
+I denne forskriften menes med:
+
+1. *det fusjonerte selskapet;* selskapet som oppstår ved fusjonen over landegrensene.
+2. *de fusjonerende selskapene;* selskapene som deltar i fusjonen over landegrensene.
+3. *filial;* en del av et selskap som utøver en økonomisk aktivitet i en annen EU/EØS-stat enn der selskapet har sitt forretningskontor.
+4. *berørt datterselskap eller filial;* et deltagende selskaps datterselskap eller filial som vil bli datterselskap eller filial til det fusjonerte selskapet.
+5. *representasjon;* den innflytelse arbeidstakerne har på driften av selskapet gjennom:
+
+   - å benytte retten til å velge eller utpeke noen av medlemmene i selskapets administrasjons- eller kontrollorgan eller deres komiteer eller i ledelsesgruppen som omfatter selskapets resultatenheter og som omfattes av arbeidstakernes representasjon,
+     eller
+   - å benytte retten til å anbefale og/eller gå i mot utpekingen av noen eller alle medlemmene i selskapets administrasjons- eller kontrollorgan.
 
 ## § 4. Regler for arbeidstakernes representasjon
 
 (1) Som hovedregel skal det fusjonerte selskapet være omfattet av de bestemmelser om arbeidstakernes representasjon som gjelder i medlemsstaten der selskapet har sitt forretningskontor.
 
-(2) Første ledd gjelder likevel ikke;Dersom minst ett av de fusjonerende selskapene i løpet av de seks siste månedene forut for offentliggjøringen av fusjonsplanen har et gjennomsnittlig antall arbeidstakere på over 500 og er omfattet av reglene for representasjon i henhold til [§ 3](forskrift/2008-01-09-50/§3) bokstav e).Dersom reglene etter første ledd gir et lavere nivå for arbeidstakernes representasjon enn det som gjelder for de berørte fusjonerende selskapene, målt i forhold til andelen arbeidstakerrepresentanter i administrasjons- eller kontrollorganet eller deres komiteer eller i ledelsesgruppen som omfatter selskapets resultatenheter og som omfattes av arbeidstakernes representasjon.Dersom reglene etter første ledd ikke fastsetter samme rett til representasjon for arbeidstakere i driftsenheter i det fusjonerte selskapet som ligger i andre medlemsstater som for arbeidstakerne i medlemsstaten der det fusjonerte selskapet har sitt forretningskontor.
+(2) Første ledd gjelder likevel ikke;
+
+1. Dersom minst ett av de fusjonerende selskapene i løpet av de seks siste månedene forut for offentliggjøringen av fusjonsplanen har et gjennomsnittlig antall arbeidstakere på over 500 og er omfattet av reglene for representasjon i henhold til [§ 3](forskrift/2008-01-09-50/§3) bokstav e).
+2. Dersom reglene etter første ledd gir et lavere nivå for arbeidstakernes representasjon enn det som gjelder for de berørte fusjonerende selskapene, målt i forhold til andelen arbeidstakerrepresentanter i administrasjons- eller kontrollorganet eller deres komiteer eller i ledelsesgruppen som omfatter selskapets resultatenheter og som omfattes av arbeidstakernes representasjon.
+3. Dersom reglene etter første ledd ikke fastsetter samme rett til representasjon for arbeidstakere i driftsenheter i det fusjonerte selskapet som ligger i andre medlemsstater som for arbeidstakerne i medlemsstaten der det fusjonerte selskapet har sitt forretningskontor.
 
 (3) I disse tilfellene kommer isteden bestemmelsene i [§ 5](forskrift/2008-01-09-50/§5) til [§ 15](forskrift/2008-01-09-50/§15) til anvendelse.
 
@@ -93,7 +106,12 @@ ellerå benytte retten til å anbefale og/eller gå i mot utpekingen av noen ell
 
 ## § 9. Avtalens innhold
 
-(1) Avtalen mellom det særlige forhandlingsutvalget og de fusjonerende selskapene om arbeidstakernes representasjon skal være skriftlig og bør minst fastsette:avtalens virkeområde.dersom partene under forhandlingene beslutter å opprette representasjonsordninger, innholdet i disse ordningene, herunder antall medlemmer i det fusjonerte selskapets administrasjons- eller kontrollorgan som arbeidstakerne vil ha rett til å velge, utpeke, anbefale eller gå imot, fremgangsmåten for hvordan arbeidstakerne kan velge, utpeke, anbefale eller gå imot disse medlemmene og deres rettigheter.avtalens ikrafttredelsesdato og dens varighet, tilfeller der avtalen bør reforhandles og fremgangsmåten for reforhandling.avtalen er ikke underlagt standardbestemmelsene i vedlegget med mindre avtalen inneholder bestemmelser om noe annet.
+(1) Avtalen mellom det særlige forhandlingsutvalget og de fusjonerende selskapene om arbeidstakernes representasjon skal være skriftlig og bør minst fastsette:
+
+1. avtalens virkeområde.
+2. dersom partene under forhandlingene beslutter å opprette representasjonsordninger, innholdet i disse ordningene, herunder antall medlemmer i det fusjonerte selskapets administrasjons- eller kontrollorgan som arbeidstakerne vil ha rett til å velge, utpeke, anbefale eller gå imot, fremgangsmåten for hvordan arbeidstakerne kan velge, utpeke, anbefale eller gå imot disse medlemmene og deres rettigheter.
+3. avtalens ikrafttredelsesdato og dens varighet, tilfeller der avtalen bør reforhandles og fremgangsmåten for reforhandling.
+4. avtalen er ikke underlagt standardbestemmelsene i vedlegget med mindre avtalen inneholder bestemmelser om noe annet.
 
 ## § 10. Forhandlingenes varighet
 
@@ -101,9 +119,16 @@ Forhandlingene skal innledes så snart det særlige forhandlingsutvalget er oppr
 
 ## § 11. Standardbestemmelsenes anvendelse
 
-(1) Standardbestemmelsene fastsatt i vedlegget til denne forskrift får anvendelse dersom:partene er enige om det, ellerdet ikke er inngått noen avtale innen fristen som er fastsatt i [§ 10](forskrift/2008-01-09-50/§10) og hvert av de fusjonerende selskapene beslutter å godta anvendelse av standardbestemmelsene og dermed gå videre med registreringen, og det særlige forhandlingsutvalget ikke har truffet beslutning som fastsatt i [§ 8](forskrift/2008-01-09-50/§8) sjette ledd, ellerde fusjonerende selskapene har besluttet å være direkte underlagt standardbestemmelsene.
+(1) Standardbestemmelsene fastsatt i vedlegget til denne forskrift får anvendelse dersom:
 
-(2) Med mindre annet følger av avtalen som nevnt i første ledd bokstav a, får standardbestemmelsene bare anvendelsedersom det gjaldt en eller flere former for representasjon i ett eller flere av de fusjonerende selskapene før registreringen av det fusjonerte selskapet som omfattet minst en tredjedel av det samlede antall arbeidstakere i alle selskapene som inngår i fusjonen ellerdet gjaldt en eller flere former for representasjon i ett eller flere av de fusjonerende selskapene før registreringen av det fusjonerte selskapet som omfattet mindre enn en tredjedel av det samlede antall arbeidstakere i alle selskapene som inngår i fusjonen og dersom det særlige forhandlingsutvalget bestemmer det.
+1. partene er enige om det, eller
+2. det ikke er inngått noen avtale innen fristen som er fastsatt i [§ 10](forskrift/2008-01-09-50/§10) og hvert av de fusjonerende selskapene beslutter å godta anvendelse av standardbestemmelsene og dermed gå videre med registreringen, og det særlige forhandlingsutvalget ikke har truffet beslutning som fastsatt i [§ 8](forskrift/2008-01-09-50/§8) sjette ledd, eller
+3. de fusjonerende selskapene har besluttet å være direkte underlagt standardbestemmelsene.
+
+(2) Med mindre annet følger av avtalen som nevnt i første ledd bokstav a, får standardbestemmelsene bare anvendelse
+
+1. dersom det gjaldt en eller flere former for representasjon i ett eller flere av de fusjonerende selskapene før registreringen av det fusjonerte selskapet som omfattet minst en tredjedel av det samlede antall arbeidstakere i alle selskapene som inngår i fusjonen eller
+2. det gjaldt en eller flere former for representasjon i ett eller flere av de fusjonerende selskapene før registreringen av det fusjonerte selskapet som omfattet mindre enn en tredjedel av det samlede antall arbeidstakere i alle selskapene som inngår i fusjonen og dersom det særlige forhandlingsutvalget bestemmer det.
 
 (3) Dersom det fantes mer enn en form for representasjon i selskapene som inngår i fusjonen, skal det særlige forhandlingsutvalget beslutte hvilken av disse formene som skal etableres i det fusjonerte selskapet. Dersom det fusjonerte selskapet skal registreres i Norge og det særlige forhandlingsutvalget ikke har besluttet hvilken form for representasjon som skal etableres i det fusjonerte selskapet, beslutter de fusjonerende selskapene hvilken form for representasjon som skal innføres i det fusjonerte selskapet.
 
@@ -119,7 +144,13 @@ Det fusjonerte selskapet eller de fusjonerende selskapene kan i særlige tilfell
 
 ## § 14. Tvisteløsning
 
-(1) Tvisteløsningsnemnd etter arbeidsmiljøloven kan avgjøre:Tvister som knytter seg til opprettelsen av det særlige forhandlingsutvalget etter [§ 5](forskrift/2008-01-09-50/§5) og [§ 6](forskrift/2008-01-09-50/§6). For valg av representantene for de norske arbeidstakerne til det særlige forhandlingsutvalget gjelder representasjonsforskriften tilsvarende, jf. [§ 7](forskrift/2008-01-09-50/§7) (2).Tvister som knytter seg til inngåelse av avtale om representasjon, herunder om avtalen er inngått i tråd med forskriftens stemmeregler, jf. [§ 8](forskrift/2008-01-09-50/§8) og [§ 9](forskrift/2008-01-09-50/§9).Tvister som knytter seg til om vilkårene for anvendelse av standardbestemmelsene i vedlegget er oppfylt, jf. [§ 11](forskrift/2008-01-09-50/§11).Tvister vedrørende beslutning om taushetsplikt eller tilbakehold av informasjon, jf. [§ 12](forskrift/2008-01-09-50/§12) og [§ 13](forskrift/2008-01-09-50/§13).Tvister vedrørende fordelingen av plasser samt valg eller utpeking av arbeidstakernes representanter til administrasjons- eller kontrollorganet etter standardbestemmelsene.
+(1) Tvisteløsningsnemnd etter arbeidsmiljøloven kan avgjøre:
+
+1. Tvister som knytter seg til opprettelsen av det særlige forhandlingsutvalget etter [§ 5](forskrift/2008-01-09-50/§5) og [§ 6](forskrift/2008-01-09-50/§6). For valg av representantene for de norske arbeidstakerne til det særlige forhandlingsutvalget gjelder representasjonsforskriften tilsvarende, jf. [§ 7](forskrift/2008-01-09-50/§7) (2).
+2. Tvister som knytter seg til inngåelse av avtale om representasjon, herunder om avtalen er inngått i tråd med forskriftens stemmeregler, jf. [§ 8](forskrift/2008-01-09-50/§8) og [§ 9](forskrift/2008-01-09-50/§9).
+3. Tvister som knytter seg til om vilkårene for anvendelse av standardbestemmelsene i vedlegget er oppfylt, jf. [§ 11](forskrift/2008-01-09-50/§11).
+4. Tvister vedrørende beslutning om taushetsplikt eller tilbakehold av informasjon, jf. [§ 12](forskrift/2008-01-09-50/§12) og [§ 13](forskrift/2008-01-09-50/§13).
+5. Tvister vedrørende fordelingen av plasser samt valg eller utpeking av arbeidstakernes representanter til administrasjons- eller kontrollorganet etter standardbestemmelsene.
 
 (2) Tvister om beslutninger som nevnt i første ledd bokstav d) kan ikke bringes inn for tvisteløsningsnemnda etter at opplysningene beslutningen gjelder er blitt offentlig kjent.
 

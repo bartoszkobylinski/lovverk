@@ -32,7 +32,10 @@ Forskriften kommer til anvendelse dersom avtalefestet pensjon under utbetaling e
 
 Det beregnes først hva grunnpensjon, tilleggspensjon og/eller særtillegg utgjør etter endring omfattet av [§ 1](forskrift/2010-11-30-1494/§1).
 
-Deretter beregnes en faktor som uttrykker forholdet mellomgrunnpensjon, tilleggspensjon og særtillegg som utbetales på omregningstidspunktet, oggrunnpensjon, tilleggspensjon og særtillegg før endring.
+Deretter beregnes en faktor som uttrykker forholdet mellom
+
+1. grunnpensjon, tilleggspensjon og særtillegg som utbetales på omregningstidspunktet, og
+2. grunnpensjon, tilleggspensjon og særtillegg før endring.
 
 Ny grunnpensjon, tilleggspensjon og/eller særtillegg framkommer ved at pensjonen etter første ledd multipliseres med faktoren som fastsatt i andre ledd, begrenset til de komponentene av pensjonen som endres, slik at dersom grunnpensjonen endres etter omregningen i første ledd, multipliseres grunnpensjonen med faktoren, og så videre.
 

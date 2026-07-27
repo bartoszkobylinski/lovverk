@@ -92,7 +92,14 @@ Helsedirektoratet kan ilegge overtredelsesgebyr overfor den som overtrer [§§ 4
 
 Overtredelsesgebyr for foretak skal ikke overstige 15 ganger folketrygdens grunnbeløp. Overtredelsesgebyr for fysiske personer skal ikke overstige 2 ganger folketrygdens grunnbeløp.
 
-I vurderingen av overtredelsesgebyrets størrelse innenfor de maksimale rammene i annet ledd, kan Helsedirektoratet blant annet ta hensyn tilovertredelsesgebyrets preventive virkningovertredelsens grovhet og varighetovertrederens grad av skyldovertrederens økonomiske evnefordeler som er oppnådd eller kunne vært oppnådd ved overtredelseneventuelle tidligere overtredelser av bestemmelser i denne forskrift.
+I vurderingen av overtredelsesgebyrets størrelse innenfor de maksimale rammene i annet ledd, kan Helsedirektoratet blant annet ta hensyn til
+
+1. overtredelsesgebyrets preventive virkning
+2. overtredelsens grovhet og varighet
+3. overtrederens grad av skyld
+4. overtrederens økonomiske evne
+5. fordeler som er oppnådd eller kunne vært oppnådd ved overtredelsen
+6. eventuelle tidligere overtredelser av bestemmelser i denne forskrift.
 
 ### § 13. Ikrafttredelse
 

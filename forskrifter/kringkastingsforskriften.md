@@ -28,7 +28,14 @@ eu_basis: []
 
 En tjenestetilbyder skal følge det norske regelverket om fjernsyn og audiovisuelle bestillingstjenester dersom selskapet er underlagt norsk jurisdiksjon i henhold til denne bestemmelsen.
 
-En tjenestetilbyder er underlagt norsk jurisdiksjon dersom selskapet er etablert i Norge i samsvar med direktiv [2010/13/EU](eu/32010l0013), dvs. i følgende tilfeller:der tjenestetilbyderens hovedkontor ligger i Norge, og redaksjonelle avgjørelser blir tatt i Norge, ellerder tjenestetilbyderens hovedkontor ligger i et annet EØS-land, men redaksjonelle avgjørelser blir tatt i Norge og en betydelig del av arbeidsstyrken engasjert i den programrelaterte virksomheten arbeider i Norge, ellerder tjenestetilbyderens hovedkontor ligger i Norge, men redaksjonelle avgjørelser tas i et annet EØS-land, dersom en betydelig del av arbeidsstyrken engasjert i den programrelaterte virksomheten arbeider i Norge, ellerder en betydelig del av arbeidsstyrken engasjert i den programrelaterte virksomheten arbeider i Norge så vel som i et annet EØS-land, men hovedkontoret ligger i Norge, ellerder en betydelig del av arbeidsstyrken engasjert i den programrelaterte virksomheten ikke arbeider i Norge eller i et annet EØS-land etter bokstavene b til d, men tjenestetilbyderen først begynte sin virksomhet i Norge i samsvar med norsk lovgivning og fortsatt har en stabil og reell økonomisk tilknytning til Norge, ellerder tjenestetilbyderens hovedkontor ligger i Norge, men avgjørelser om fjernsynssendingene eller den audiovisuelle bestillingstjenesten tas i et land utenfor EØS-området, eller omvendt, dersom en betydelig del av arbeidsstyrken som er engasjert i fjernsynssendingene eller den audiovisuelle bestillingstjenesten arbeider i Norge.
+En tjenestetilbyder er underlagt norsk jurisdiksjon dersom selskapet er etablert i Norge i samsvar med direktiv [2010/13/EU](eu/32010l0013), dvs. i følgende tilfeller:
+
+1. der tjenestetilbyderens hovedkontor ligger i Norge, og redaksjonelle avgjørelser blir tatt i Norge, eller
+2. der tjenestetilbyderens hovedkontor ligger i et annet EØS-land, men redaksjonelle avgjørelser blir tatt i Norge og en betydelig del av arbeidsstyrken engasjert i den programrelaterte virksomheten arbeider i Norge, eller
+3. der tjenestetilbyderens hovedkontor ligger i Norge, men redaksjonelle avgjørelser tas i et annet EØS-land, dersom en betydelig del av arbeidsstyrken engasjert i den programrelaterte virksomheten arbeider i Norge, eller
+4. der en betydelig del av arbeidsstyrken engasjert i den programrelaterte virksomheten arbeider i Norge så vel som i et annet EØS-land, men hovedkontoret ligger i Norge, eller
+5. der en betydelig del av arbeidsstyrken engasjert i den programrelaterte virksomheten ikke arbeider i Norge eller i et annet EØS-land etter bokstavene b til d, men tjenestetilbyderen først begynte sin virksomhet i Norge i samsvar med norsk lovgivning og fortsatt har en stabil og reell økonomisk tilknytning til Norge, eller
+6. der tjenestetilbyderens hovedkontor ligger i Norge, men avgjørelser om fjernsynssendingene eller den audiovisuelle bestillingstjenesten tas i et land utenfor EØS-området, eller omvendt, dersom en betydelig del av arbeidsstyrken som er engasjert i fjernsynssendingene eller den audiovisuelle bestillingstjenesten arbeider i Norge.
 
 Med redaksjonelle avgjørelser menes avgjørelser som treffes regelmessig med sikte på å utøve redaksjonell kontroll, og som er knyttet til den daglige driften av fjernsynskanalen eller den audiovisuelle bestillingstjenesten.
 
@@ -44,7 +51,12 @@ Dersom andre til femte ledd ikke kommer til anvendelse, og tjenestetilbyder regi
 
 Fjernsynssendinger fra norsk territorium hvor det inngår reklame som særskilt og jevnlig er rettet mot en stat som har tiltrådt Europarådets konvensjon om fjernsyn over landegrensene, skal følge mottakerlandets regler om fjernsynsreklame, så langt mottakerlandet kan kreve dette lagt til grunn etter konvensjonens artikkel 16.
 
-Ved vurdering av om sendinger omfattes av første ledd, skal det blant annet legges vekt på følgende elementer:om sendingen faktisk mottas i ett eller flere land,om de varer og/eller tjenester det reklameres for, er tilgjengelige i mottakerlandet,om mottakerlandets språk benyttes i reklameinnslagene, eller om de på annen måte henvender seg spesielt til seere i mottakerlandet,om salgssteder i mottakerlandet omtales eller nevnes i reklameinnslagene.
+Ved vurdering av om sendinger omfattes av første ledd, skal det blant annet legges vekt på følgende elementer:
+
+- om sendingen faktisk mottas i ett eller flere land,
+- om de varer og/eller tjenester det reklameres for, er tilgjengelige i mottakerlandet,
+- om mottakerlandets språk benyttes i reklameinnslagene, eller om de på annen måte henvender seg spesielt til seere i mottakerlandet,
+- om salgssteder i mottakerlandet omtales eller nevnes i reklameinnslagene.
 
 ### § 1-2a. Anmodning om å følge nasjonal rett i andre EØS-land
 
@@ -106,7 +118,10 @@ Departementet kan gi nærmere bestemmelser om gjennomføring av bestemmelsen i f
 
 ### § 1-8. Tilsynsorgan
 
-Forbrukertilsynet fører tilsyn med reklame etter regler gitt i:[kringkastingsloven §§ 3-1 første ledd](lov/1992-12-04-127/§3-1/ledd/1) og [5A-5 første ledd](lov/1992-12-04-127/§5A-5/ledd/1) i saker som gjelder [kringkastingsloven § 3-1 første ledd](lov/1992-12-04-127/§3-1/ledd/1), ogforskriften [§§ 3-4 andre ledd](forskrift/1997-02-28-153/§3-4/ledd/2), [3-6](forskrift/1997-02-28-153/§3-6), [5A-6 bokstav a](forskrift/1997-02-28-153/§5A-6/bokstav/a) i saker som gjelder [§ 3-4 andre ledd](forskrift/1997-02-28-153/§3-4/ledd/2) og [§ 5A-6 bokstav b](forskrift/1997-02-28-153/§5A-6/bokstav/b).
+Forbrukertilsynet fører tilsyn med reklame etter regler gitt i:
+
+1. [kringkastingsloven §§ 3-1 første ledd](lov/1992-12-04-127/§3-1/ledd/1) og [5A-5 første ledd](lov/1992-12-04-127/§5A-5/ledd/1) i saker som gjelder [kringkastingsloven § 3-1 første ledd](lov/1992-12-04-127/§3-1/ledd/1), og
+2. forskriften [§§ 3-4 andre ledd](forskrift/1997-02-28-153/§3-4/ledd/2), [3-6](forskrift/1997-02-28-153/§3-6), [5A-6 bokstav a](forskrift/1997-02-28-153/§5A-6/bokstav/a) i saker som gjelder [§ 3-4 andre ledd](forskrift/1997-02-28-153/§3-4/ledd/2) og [§ 5A-6 bokstav b](forskrift/1997-02-28-153/§5A-6/bokstav/b).
 
 Datatilsynet fører tilsyn med § 5A-4 tredje ledd.
 
@@ -156,7 +171,11 @@ Minst 10 prosent av sendetiden i fjernsyn som ikke består av nyheter, sport, un
 
 [§ 2-1](forskrift/1997-02-28-153/§2-1) andre og tredje ledd gjelder tilsvarende.
 
-En produsent er å anse som uavhengig produsent i forhold til første ledd dersom:En kringkaster ikke eier aksjer eller andeler i produksjonsselskapet som representerer mer enn 25 prosent av stemmene i selskapet. Der flere kringkastere er medeiere i et produksjonsselskap må ikke kringkasternes eierandeler utgjøre mer enn 50 prosent av stemmene i produksjonsselskapet. Tilsvarende gjelder der et produksjonsselskap eier aksjer eller andeler i en kringkaster.Produsenten ikke selger mer enn 90 prosent av sin produksjon over en treårsperiode til en og samme kringkaster, med mindre produsenten produserer bare ett program eller en serie i løpet av denne perioden.Produsenten innehar sekundærrettigheter til sine produksjoner.
+En produsent er å anse som uavhengig produsent i forhold til første ledd dersom:
+
+1. En kringkaster ikke eier aksjer eller andeler i produksjonsselskapet som representerer mer enn 25 prosent av stemmene i selskapet. Der flere kringkastere er medeiere i et produksjonsselskap må ikke kringkasternes eierandeler utgjøre mer enn 50 prosent av stemmene i produksjonsselskapet. Tilsvarende gjelder der et produksjonsselskap eier aksjer eller andeler i en kringkaster.
+2. Produsenten ikke selger mer enn 90 prosent av sin produksjon over en treårsperiode til en og samme kringkaster, med mindre produsenten produserer bare ett program eller en serie i løpet av denne perioden.
+3. Produsenten innehar sekundærrettigheter til sine produksjoner.
 
 > Endret ved [forskrift 21 sep 2001 nr. 1093](forskrift/2001-09-21-1093) (i kraft 1 okt 2001).
 
@@ -164,11 +183,18 @@ En produsent er å anse som uavhengig produsent i forhold til første ledd derso
 
 Med europeiske verk forstås verk som har sin opprinnelse i stater som har tiltrådt [EØS-avtalen](lov/1992-11-27-109/eøsl) eller i stater som har tiltrådt Europarådets konvensjon om fjernsyn over landegrensene. Verkene må være produsert ved medvirkning av opphavsmenn og medarbeidere bosatt i ett eller flere av de nevnte stater.
 
-Verkene må videre oppfylle minst ett av følgende tre vilkår:De må være produsert av én eller flere produsenter etablert i de nevnte stater, ellerproduksjonen må faktisk overvåkes og kontrolleres av én eller flere produsenter etablert i de nevnte stater, ellersamprodusenter i de nevnte stater må stå for majoriteten av de totale samproduksjonskostnader. Samproduksjonen skal ikke kontrolleres av én eller flere produsenter etablert utenfor de nevnte stater.
+Verkene må videre oppfylle minst ett av følgende tre vilkår:
+
+1. De må være produsert av én eller flere produsenter etablert i de nevnte stater, eller
+2. produksjonen må faktisk overvåkes og kontrolleres av én eller flere produsenter etablert i de nevnte stater, eller
+3. samprodusenter i de nevnte stater må stå for majoriteten av de totale samproduksjonskostnader. Samproduksjonen skal ikke kontrolleres av én eller flere produsenter etablert utenfor de nevnte stater.
 
 Verk som hovedsakelig er produsert ved medvirkning av opphavsmenn og medarbeidere bosatt i en eller flere stater som har tiltrådt [EØS-avtalen](lov/1992-11-27-109/eøsl), men som ikke omfattes av første og andre ledd, skal anses som europeiske verk i samme forhold som samprodusenter i statene som har tiltrådt [EØS-avtalen](lov/1992-11-27-109/eøsl) har bidratt til å dekke de totale produksjonskostnader.
 
-Med europeiske verk forstås også verk som har sin opprinnelse i andre europeiske stater enn stater som har tiltrådt [EØS-avtalen](lov/1992-11-27-109/eøsl) eller Europarådets konvensjon om fjernsyn over landegrensene. For slike verk er det en forutsetning at verkene hovedsakelig er produsert med medvirkning av opphavsmenn eller medarbeidere bosatt i en eller flere europeiske stater samt at:Verkene enten utelukkende er produsert av eller i samproduksjon med produsenter etablert i en eller flere stater som har tiltrådt [EØS-avtalen](lov/1992-11-27-109/eøsl), ellerverkene er produsert av produsenter etablert i andre europeiske stater og det er inngått nødvendige avtaler mellom stater som har tiltrådt [EØS-avtalen](lov/1992-11-27-109/eøsl) og vedkommende stat.
+Med europeiske verk forstås også verk som har sin opprinnelse i andre europeiske stater enn stater som har tiltrådt [EØS-avtalen](lov/1992-11-27-109/eøsl) eller Europarådets konvensjon om fjernsyn over landegrensene. For slike verk er det en forutsetning at verkene hovedsakelig er produsert med medvirkning av opphavsmenn eller medarbeidere bosatt i en eller flere europeiske stater samt at:
+
+1. Verkene enten utelukkende er produsert av eller i samproduksjon med produsenter etablert i en eller flere stater som har tiltrådt [EØS-avtalen](lov/1992-11-27-109/eøsl), eller
+2. verkene er produsert av produsenter etablert i andre europeiske stater og det er inngått nødvendige avtaler mellom stater som har tiltrådt [EØS-avtalen](lov/1992-11-27-109/eøsl) og vedkommende stat.
 
 Første til fjerde ledd får anvendelse under forutsetning av at verker som har sin opprinnelse i stater som har tiltrådt [EØS-avtalen](lov/1992-11-27-109/eøsl), ikke blir utsatt for diskriminerende tiltak i de berørte europeiske tredjestater.
 
@@ -212,19 +238,43 @@ Medietilsynet skal rapportere til EFTAs overvåkingsorgan om tiltak som er iverk
 
 ### § 2A-1. Universell utforming av NRKs bildeprogrammer
 
-NRK skal universelt utforme bildeprogrammer for personer med funksjonsnedsettelse ved å:tekste alle forhåndsproduserte fjernsynsprogrammer,tekste alle direktesendte fjernsynsprogrammer dersom det er teknisk og praktisk mulig,tekste alle nye bildeprogrammer som legges ut i en audiovisuell bestillingstjeneste,tilgjengeliggjøre distriktssendinger med teksting når slike bildeprogrammer legges ut i en audiovisuell bestillingstjeneste,tilgjengeliggjøre fjernsynsprogrammer på samisk med teksting på det samiske språket som er talespråk i bildeprogrammet, når slike bildeprogrammer legges ut i en audiovisuell bestillingstjeneste, dersom det er teknisk og praktisk mulig,daglig sende fjernsynsprogrammer med tegnspråktolking,daglig sende fjernsynsprogrammer på norsk tegnspråk,ukentlig sende fjernsynsprogrammer med synstolking,tilby lydtekst for alle forhåndsproduserte fjernsynsprogrammer med teksting der det snakkes et annet språk enn norsk,tilby direktesendte fjernsynsprogrammer med lydtekst dersom det er teknisk og praktisk mulig,tilgjengeliggjøre alle bildeprogrammer som har blitt tegnspråktolket i fjernsyn med tegnspråktolking når bildeprogrammene legges ut i en audiovisuell bestillingstjeneste, ogtilgjengeliggjøre alle bildeprogrammer som har blitt synstolket i fjernsyn, med synstolking når bildeprogrammene legges ut i en audiovisuell bestillingstjeneste.
+NRK skal universelt utforme bildeprogrammer for personer med funksjonsnedsettelse ved å:
+
+1. tekste alle forhåndsproduserte fjernsynsprogrammer,
+2. tekste alle direktesendte fjernsynsprogrammer dersom det er teknisk og praktisk mulig,
+3. tekste alle nye bildeprogrammer som legges ut i en audiovisuell bestillingstjeneste,
+4. tilgjengeliggjøre distriktssendinger med teksting når slike bildeprogrammer legges ut i en audiovisuell bestillingstjeneste,
+5. tilgjengeliggjøre fjernsynsprogrammer på samisk med teksting på det samiske språket som er talespråk i bildeprogrammet, når slike bildeprogrammer legges ut i en audiovisuell bestillingstjeneste, dersom det er teknisk og praktisk mulig,
+6. daglig sende fjernsynsprogrammer med tegnspråktolking,
+7. daglig sende fjernsynsprogrammer på norsk tegnspråk,
+8. ukentlig sende fjernsynsprogrammer med synstolking,
+9. tilby lydtekst for alle forhåndsproduserte fjernsynsprogrammer med teksting der det snakkes et annet språk enn norsk,
+10. tilby direktesendte fjernsynsprogrammer med lydtekst dersom det er teknisk og praktisk mulig,
+11. tilgjengeliggjøre alle bildeprogrammer som har blitt tegnspråktolket i fjernsyn med tegnspråktolking når bildeprogrammene legges ut i en audiovisuell bestillingstjeneste, og
+12. tilgjengeliggjøre alle bildeprogrammer som har blitt synstolket i fjernsyn, med synstolking når bildeprogrammene legges ut i en audiovisuell bestillingstjeneste.
 
 > Tilføyd ved forskrift [10 april 2025 nr. 654](forskrift/2025-04-10-654) (i kraft 1 mai 2025).
 
 ### § 2A-2. Universell utforming av bildeprogrammer i kommersielle fjernsynskanaler med seerandel på mer enn fem prosent
 
-Tilbydere av kommersielle fjernsynskanaler med en andel på mer enn fem prosent av de samlede seertallene for fjernsyn skal universelt utforme bildeprogrammer ved å:tekste alle forhåndsproduserte bildeprogrammer,tekste alle direktesendte bildeprogrammer dersom det er teknisk og praktisk mulig,ukentlig sende bildeprogrammer med tegnspråktolking,månedlig sende bildeprogrammer med synstolking, ogukentlig tilby lydtekst for forhåndsproduserte bildeprogrammer med teksting der det snakkes et annet språk enn norsk, dersom det er teknisk og praktisk mulig.
+Tilbydere av kommersielle fjernsynskanaler med en andel på mer enn fem prosent av de samlede seertallene for fjernsyn skal universelt utforme bildeprogrammer ved å:
+
+1. tekste alle forhåndsproduserte bildeprogrammer,
+2. tekste alle direktesendte bildeprogrammer dersom det er teknisk og praktisk mulig,
+3. ukentlig sende bildeprogrammer med tegnspråktolking,
+4. månedlig sende bildeprogrammer med synstolking, og
+5. ukentlig tilby lydtekst for forhåndsproduserte bildeprogrammer med teksting der det snakkes et annet språk enn norsk, dersom det er teknisk og praktisk mulig.
 
 > Tilføyd ved forskrift [10 april 2025 nr. 654](forskrift/2025-04-10-654) (i kraft 1 mai 2025).
 
 ### § 2A-3. Universell utforming av bildeprogrammer i kommersielle audiovisuelle bestillingstjenester med seerandel på mer enn fem prosent
 
-Tilbydere av kommersielle audiovisuelle bestillingstjenester med seerandel på mer enn fem prosent i det nasjonale markedet for slike tjenester skal universelt utforme bildeprogrammene ved å:tekste alle nye bildeprogrammer,tilgjengeliggjøre alle nye bildeprogrammer som har blitt tegnspråktolket på fjernsyn, med tegnspråktolking når bildeprogrammene legges ut i audiovisuell bestillingstjeneste,tilgjengeliggjøre alle nye bildeprogrammer som har blitt synstolket på fjernsyn, med synstolking når bildeprogrammene legges ut i audiovisuell bestillingstjeneste, ogtilgjengeliggjøre forhåndsproduserte bildeprogrammer som har blitt lydtekstet på fjernsyn, med lydteksting når bildeprogrammene legges ut i audiovisuell bestillingstjeneste.
+Tilbydere av kommersielle audiovisuelle bestillingstjenester med seerandel på mer enn fem prosent i det nasjonale markedet for slike tjenester skal universelt utforme bildeprogrammene ved å:
+
+1. tekste alle nye bildeprogrammer,
+2. tilgjengeliggjøre alle nye bildeprogrammer som har blitt tegnspråktolket på fjernsyn, med tegnspråktolking når bildeprogrammene legges ut i audiovisuell bestillingstjeneste,
+3. tilgjengeliggjøre alle nye bildeprogrammer som har blitt synstolket på fjernsyn, med synstolking når bildeprogrammene legges ut i audiovisuell bestillingstjeneste, og
+4. tilgjengeliggjøre forhåndsproduserte bildeprogrammer som har blitt lydtekstet på fjernsyn, med lydteksting når bildeprogrammene legges ut i audiovisuell bestillingstjeneste.
 
 > Tilføyd ved forskrift [10 april 2025 nr. 654](forskrift/2025-04-10-654) (i kraft 1 mai 2025).
 
@@ -264,7 +314,12 @@ Medietilsynet skal opprette et enkelt tilgjengelig nettbasert kontaktpunkt hvor 
 
 Andelen reklameinnslag i kringkasting skal ikke overstige 20 prosent av sendetiden mellom klokken 06.00 og 18.00. Andelen reklameinnslag i kringkasting skal heller ikke overstige 20 prosent av sendetiden mellom klokken 18.00 og 24.00.
 
-Følgende skal ikke regnes med i varigheten av reklametiden etter første ledd:reklame for kringkasterens egne programmer eller tilleggsprodukter direkte avledet av disse programmene. Det samme gjelder reklame for programvirksomhet fra andre kringkastere eller tilbydere av audiovisuelle bestillingstjenester som tilhører samme kringkastingsgruppe som kringkasteren,meldinger om offentlige tjenester,vederlagsfrie innslag om veldedige formål,nøytrale rammer mellom redaksjonelt innhold og fjernsynsreklame samt mellom individuelle reklameinnslag.
+Følgende skal ikke regnes med i varigheten av reklametiden etter første ledd:
+
+1. reklame for kringkasterens egne programmer eller tilleggsprodukter direkte avledet av disse programmene. Det samme gjelder reklame for programvirksomhet fra andre kringkastere eller tilbydere av audiovisuelle bestillingstjenester som tilhører samme kringkastingsgruppe som kringkasteren,
+2. meldinger om offentlige tjenester,
+3. vederlagsfrie innslag om veldedige formål,
+4. nøytrale rammer mellom redaksjonelt innhold og fjernsynsreklame samt mellom individuelle reklameinnslag.
 
 Ingen reklameinnslag kan sendes utenfor reklameblokkene, med unntak av direktesendinger fra idrettsbegivenheter.
 
@@ -300,11 +355,23 @@ Det må tas hensyn til at all reklame kan bli sett eller hørt av barn, og det m
 
 Det kan ikke sendes reklameinnslag for produkt eller tjenester som er av særlig interesse for barn og unge der det deltar personer eller figurer som i løpet av de siste 12 måneder regelmessig eller over en lengre periode har fremstått som viktige element i barne- eller ungdomsprogram i en radio- eller fjernsynskanal som mottas i Norge.
 
-Det kan ikke sendes reklameinnslag som særlig er rettet mot barn, jf. lovens § 3-1. Ved vurderingen av om reklame er særlig rettet mot barn skal det bl.a. legges vekt på følgende elementer:om reklamen gjelder et produkt eller en tjeneste av særlig interesse for barn,sendetidspunkt for reklamen,om det medvirker barn under 13 år,om det benyttes animasjon eller annen presentasjonsform som særlig appellerer til barn.
+Det kan ikke sendes reklameinnslag som særlig er rettet mot barn, jf. lovens § 3-1. Ved vurderingen av om reklame er særlig rettet mot barn skal det bl.a. legges vekt på følgende elementer:
+
+- om reklamen gjelder et produkt eller en tjeneste av særlig interesse for barn,
+- sendetidspunkt for reklamen,
+- om det medvirker barn under 13 år,
+- om det benyttes animasjon eller annen presentasjonsform som særlig appellerer til barn.
 
 Det kan ikke sendes reklameinnslag 10 minutter umiddelbart før og etter barneprogram.
 
-Et program er å anse som et barneprogram når barn anses å være den primære målgruppe for programmet. Ved vurdering av om et program er å anse som et barneprogram skal det bl.a. legges vekt på følgende elementer:programmets innhold og form,hvorvidt barn under 13 år deltar,når programmet sendes,hvem som er potensielle seere i forhold til sendetidspunktet,faktiske seere,språkbruken i programmet.
+Et program er å anse som et barneprogram når barn anses å være den primære målgruppe for programmet. Ved vurdering av om et program er å anse som et barneprogram skal det bl.a. legges vekt på følgende elementer:
+
+- programmets innhold og form,
+- hvorvidt barn under 13 år deltar,
+- når programmet sendes,
+- hvem som er potensielle seere i forhold til sendetidspunktet,
+- faktiske seere,
+- språkbruken i programmet.
 
 Sider i tekstfjernsyn som har barn som målgruppe skal ikke inneholde reklame.
 
@@ -374,7 +441,11 @@ Politiske partiorganisasjoner kan ikke sponse kringkastingsprogram.
 
 Sider i Norsk rikskringkasting AS' tekstfjernsyn som inneholder programoversikter skal ikke inneholde reklame. Ved identifisering av sponsor i Norsk rikskringkasting AS' sendinger i kringkasting og audiovisuelle bestillingstjenester, gjelder i tillegg til forskriften [§ 3-10](forskrift/1997-02-28-153/§3-10) at sponsor kun kan identifiseres muntlig og/eller ved et ikke-bevegelig bilde. Sponsoridentifiseringen kan ikke inneholde stillbilder eller bevegelige bilder av sponsors produkt eller tjeneste. Sponsor kan ikke identifiseres i program eller i programtrailere i Norsk rikskringkasting AS' sendinger.
 
-Norsk rikskringkasting AS kan motta tilskudd fra sponsorer til:produksjon og sendinger som sendes direkte eller i opptak fra idrettsarrangement. NRK kan ikke motta tilskudd til andre idrettsprogram som ikke er rene sendinger fra idrettsarrangement.produksjon fra arrangement, når produksjonen helt eller delvis skjer i NRKs regi og programmet skal sendes til flere land eller er av samfunnsmessig interesse eller kulturell betydning; fortrinnsvis produksjoner fra viktige nasjonale begivenheter.produksjon av undervisningsprogram. For undervisningsprogram som er rettet mot barn og/eller ungdom gjelder [§ 3-11](forskrift/1997-02-28-153/§3-11) første ledd tilsvarende. Ved vurderingen av om et undervisningsprogram er rettet mot barn og/eller ungdom får [§ 3-6](forskrift/1997-02-28-153/§3-6) anvendelse så langt den passer.
+Norsk rikskringkasting AS kan motta tilskudd fra sponsorer til:
+
+1. produksjon og sendinger som sendes direkte eller i opptak fra idrettsarrangement. NRK kan ikke motta tilskudd til andre idrettsprogram som ikke er rene sendinger fra idrettsarrangement.
+2. produksjon fra arrangement, når produksjonen helt eller delvis skjer i NRKs regi og programmet skal sendes til flere land eller er av samfunnsmessig interesse eller kulturell betydning; fortrinnsvis produksjoner fra viktige nasjonale begivenheter.
+3. produksjon av undervisningsprogram. For undervisningsprogram som er rettet mot barn og/eller ungdom gjelder [§ 3-11](forskrift/1997-02-28-153/§3-11) første ledd tilsvarende. Ved vurderingen av om et undervisningsprogram er rettet mot barn og/eller ungdom får [§ 3-6](forskrift/1997-02-28-153/§3-6) anvendelse så langt den passer.
 
 Norsk rikskringkasting AS kan ikke motta tilskudd fra sponsorer til andre typer program enn det som følger av andre ledd.
 
@@ -432,7 +503,12 @@ Før det treffes pålegg etter første ledd, skal Medietilsynet skriftlig meddel
 
 Dersom grunnlaget for pålegg etter [kringkastingsloven § 4-5 første ledd bokstav a](lov/1992-12-04-127/§4-5/ledd/1/bokstav/a) til c fremdeles er til stede femten dager etter at forholdet er tatt opp i samsvar med andre ledd, kan Medietilsynet pålegge hindring eller vanskeliggjøring av tilgangen til fjernsynskanalen.
 
-Ved vurderingen av om fjernsynskanaler som bare omfattes av Europarådets konvensjon om fjernsyn over landegrensene, særskilt og jevnlig bringer reklame rettet mot norske seere, jf. [kringkastingsloven § 4-5 andre ledd andre punktum](lov/1992-12-04-127/§4-5/ledd/2/setning/2), skal det bl.a. legges vekt på følgende elementer:om sendingen faktisk bare mottas i Norge,om de varer og/eller tjenester det reklameres for, er tilgjengelige i Norge,om det benyttes norsk språk i reklameinnslagene, eller om de på annen måte henvender seg spesielt til norske seere,om salgssteder i Norge omtales eller nevnes i reklameinnslagene.
+Ved vurderingen av om fjernsynskanaler som bare omfattes av Europarådets konvensjon om fjernsyn over landegrensene, særskilt og jevnlig bringer reklame rettet mot norske seere, jf. [kringkastingsloven § 4-5 andre ledd andre punktum](lov/1992-12-04-127/§4-5/ledd/2/setning/2), skal det bl.a. legges vekt på følgende elementer:
+
+- om sendingen faktisk bare mottas i Norge,
+- om de varer og/eller tjenester det reklameres for, er tilgjengelige i Norge,
+- om det benyttes norsk språk i reklameinnslagene, eller om de på annen måte henvender seg spesielt til norske seere,
+- om salgssteder i Norge omtales eller nevnes i reklameinnslagene.
 
 Ved behandling av saker som gjelder [kringkastingsloven § 4-5 første ledd bokstav a](lov/1992-12-04-127/§4-5/ledd/1/bokstav/a) til c, skal Medietilsynet be de instanser med kompetanse på de aktuelle områder vurdere om innholdet er i strid med gjeldende regler.
 
@@ -442,13 +518,25 @@ Ved behandling av saker som gjelder [kringkastingsloven § 4-5 første ledd boks
 
 Pålegg etter [kringkastingsloven § 4-5 første ledd bokstav b](lov/1992-12-04-127/§4-5/ledd/1/bokstav/b) eller [c](lov/1992-12-04-127/§4-5/ledd/1/bokstav/c) om å midlertidig hindre eller vanskeliggjøre tilgangen til fjernsyn fra andre EØS-land, kan gis dersom tjenestetilbyderen åpenbart, vesentlig og alvorlig har formidlet innhold som nevnt i [kringkastingsloven § 4-5 bokstav b](lov/1992-12-04-127/§4-5/bokstav/b) eller [c](lov/1992-12-04-127/§4-5/ledd/1/bokstav/c) minst to ganger de siste 12 månedene, og pålegget er forholdsmessig.
 
-Før Medietilsynet kan gi pålegg etter [kringkastingsloven § 4-5 første ledd bokstav b](lov/1992-12-04-127/§4-5/ledd/1/bokstav/b) eller [c](lov/1992-12-04-127/§4-5/ledd/1/bokstav/c), må følgende vilkår være oppfylt:Tjenestetilbyderen, senderlandets myndigheter og EFTAs overvåkingsorgan er skriftlig meddelt om overtredelsen og pålegget Medietilsynet vil treffe dersom overtredelse skjer igjen.Medietilsynet har respektert tjenestetilbyderens rett til forsvar og gitt vedkommende mulighet til å gi sitt syn på de påståtte overtredelsene.Konsultasjoner med senderlandet og EFTAs overvåkingsorgan har ikke ført til en minnelig løsning innen én måned etter at EFTAs overvåkingsorgan mottok melding etter andre ledd bokstav a.
+Før Medietilsynet kan gi pålegg etter [kringkastingsloven § 4-5 første ledd bokstav b](lov/1992-12-04-127/§4-5/ledd/1/bokstav/b) eller [c](lov/1992-12-04-127/§4-5/ledd/1/bokstav/c), må følgende vilkår være oppfylt:
+
+1. Tjenestetilbyderen, senderlandets myndigheter og EFTAs overvåkingsorgan er skriftlig meddelt om overtredelsen og pålegget Medietilsynet vil treffe dersom overtredelse skjer igjen.
+2. Medietilsynet har respektert tjenestetilbyderens rett til forsvar og gitt vedkommende mulighet til å gi sitt syn på de påståtte overtredelsene.
+3. Konsultasjoner med senderlandet og EFTAs overvåkingsorgan har ikke ført til en minnelig løsning innen én måned etter at EFTAs overvåkingsorgan mottok melding etter andre ledd bokstav a.
 
 > Tilføyd ved forskrift [10 april 2025 nr. 654](forskrift/2025-04-10-654) (i kraft 1 mai 2025).
 
 ### § 4-6. Prosedyrer ved midlertidig pålegg om å hindre eller vanskeliggjøre tilgang til fjernsyn etter kringkastingsloven § 4-5 første ledd bokstav d
 
-Medietilsynet kan gi pålegg etter [kringkastingsloven § 4-5 første ledd bokstav d](lov/1992-12-04-127/§4-5/ledd/1/bokstav/d), dersom følgende vilkår er oppfylt:sendingen er helt eller hovedsakelig rettet mot Norge,Medietilsynet har kontaktet den medlemsstat hvor tjenestetilbyderen er etablert med en begrunnet anmodning med sikte på å oppnå en gjensidig tilfredsstillende løsning,henvendelsen etter bokstav b har ikke gitt tilfredsstillende resultater eller er ikke besvart innen to måneder,de norske reglene er fastsatt i allmennhetens interesse og tiltakene er objektivt sett nødvendige, anvendes på en måte som sikrer likebehandling og går ikke lengre enn det som er nødvendig for å nå disse målene,Medietilsynet har respektert tjenestetilbyderens rett til forsvar og gitt vedkommende mulighet til å gi sitt syn på de påståtte overtredelsene,Medietilsynet har underrettet EFTAs overvåkingsorgan og den medlemsstat hvor tjenestetilbyderen er etablert om at Medietilsynet har til hensikt å hindre eller vanskeliggjøre tilgangen til fjernsynskanalen og begrunnelsen for dette, ogEFTAs overvåkingsorgan har slått fast at forbudet er forenelig med EØS-retten og at tiltakene er velbegrunnet.
+Medietilsynet kan gi pålegg etter [kringkastingsloven § 4-5 første ledd bokstav d](lov/1992-12-04-127/§4-5/ledd/1/bokstav/d), dersom følgende vilkår er oppfylt:
+
+1. sendingen er helt eller hovedsakelig rettet mot Norge,
+2. Medietilsynet har kontaktet den medlemsstat hvor tjenestetilbyderen er etablert med en begrunnet anmodning med sikte på å oppnå en gjensidig tilfredsstillende løsning,
+3. henvendelsen etter bokstav b har ikke gitt tilfredsstillende resultater eller er ikke besvart innen to måneder,
+4. de norske reglene er fastsatt i allmennhetens interesse og tiltakene er objektivt sett nødvendige, anvendes på en måte som sikrer likebehandling og går ikke lengre enn det som er nødvendig for å nå disse målene,
+5. Medietilsynet har respektert tjenestetilbyderens rett til forsvar og gitt vedkommende mulighet til å gi sitt syn på de påståtte overtredelsene,
+6. Medietilsynet har underrettet EFTAs overvåkingsorgan og den medlemsstat hvor tjenestetilbyderen er etablert om at Medietilsynet har til hensikt å hindre eller vanskeliggjøre tilgangen til fjernsynskanalen og begrunnelsen for dette, og
+7. EFTAs overvåkingsorgan har slått fast at forbudet er forenelig med EØS-retten og at tiltakene er velbegrunnet.
 
 Ved vurderingen av om sendingen er helt eller hovedsakelig rettet mot Norge etter første ledd bokstav a, skal det legges vekt på sendingens språk, hvor reklame- og abonnementsinntekter hovedsakelig kommer fra og om det finnes programmer eller reklamesendinger spesifikt beregnet for norske seere.
 
@@ -466,7 +554,12 @@ Dersom Medietilsynet og et annet EØS-land ved anvendelse av bestemmelsene i [§
 
 ### § 4-8. Unntak fra kravet til samtykke ved overliggende innslag for kommersielle formål mv.
 
-Kravet i [kringkastingsloven § 4-8](lov/1992-12-04-127/§4-8) om at fjernsyn og audiovisuelle bestillingstjenester ikke kan forsynes med overliggende innslag for kommersielle formål eller endres uten samtykke fra tjenestetilbyderen, gjelder ikke for:overliggende innslag som mottakeren av tjenesten utelukkende selv har tatt initiativ til eller tillatt til privat bruk, for eksempel overliggende innslag knyttet til tjenester for personlig kommunikasjon,betjeningselementer for brukergrensesnitt som er nødvendige for å kunne bruke utstyr eller navigere mellom programmer, for eksempel volumregulering, søkefunksjoner, navigeringsmenyer eller kanallister,overliggende innslag i form av advarselsmeldinger, generelle opplysninger av allmenn interesse, undertekster eller kommersiell kommunikasjon som leveres av tilbyderen av medietjenester, ogdatakomprimeringsteknikker som reduserer størrelsen på en datafil og andre teknikker som tilpasser en tjeneste til distribusjonsmåten, for eksempel oppløsning og koding, som ikke endrer noe av innholdet, med forbehold for artikkel 3 (3) i europaparlamentets- og rådsforordning [(EU) 2015/2120](eu/32015r2120) om nettnøytralitet, jf. [ekomforskriften § 1-12](forskrift/2024-12-20-3410/§1-12).
+Kravet i [kringkastingsloven § 4-8](lov/1992-12-04-127/§4-8) om at fjernsyn og audiovisuelle bestillingstjenester ikke kan forsynes med overliggende innslag for kommersielle formål eller endres uten samtykke fra tjenestetilbyderen, gjelder ikke for:
+
+1. overliggende innslag som mottakeren av tjenesten utelukkende selv har tatt initiativ til eller tillatt til privat bruk, for eksempel overliggende innslag knyttet til tjenester for personlig kommunikasjon,
+2. betjeningselementer for brukergrensesnitt som er nødvendige for å kunne bruke utstyr eller navigere mellom programmer, for eksempel volumregulering, søkefunksjoner, navigeringsmenyer eller kanallister,
+3. overliggende innslag i form av advarselsmeldinger, generelle opplysninger av allmenn interesse, undertekster eller kommersiell kommunikasjon som leveres av tilbyderen av medietjenester, og
+4. datakomprimeringsteknikker som reduserer størrelsen på en datafil og andre teknikker som tilpasser en tjeneste til distribusjonsmåten, for eksempel oppløsning og koding, som ikke endrer noe av innholdet, med forbehold for artikkel 3 (3) i europaparlamentets- og rådsforordning [(EU) 2015/2120](eu/32015r2120) om nettnøytralitet, jf. [ekomforskriften § 1-12](forskrift/2024-12-20-3410/§1-12).
 
 > Tilføyd ved forskrift [10 april 2025 nr. 654](forskrift/2025-04-10-654) (i kraft 1 mai 2025).
 
@@ -476,7 +569,22 @@ Kravet i [kringkastingsloven § 4-8](lov/1992-12-04-127/§4-8) om at fjernsyn og
 
 ### § 5-1. Begivenheter av vesentlig samfunnsmessig betydning
 
-Følgende begivenheter er å anse som begivenheter av vesentlig samfunnsmessig betydning:OL, sommer- og vinterlekene i sin helhet, arrangert av Den internasjonale olympiske komité (IOC).VM i fotball for menn i sin helhet, herunder kvalifiseringskamper med norsk deltakelse, arrangert av Fédération Internationale de Football Association (FIFA).EM i fotball for menn i sin helhet, herunder kvalifiseringskamper med norsk deltakelse, arrangert av Union of European Football Associations (UEFA).VM i håndball for kvinner i sin helhet arrangert av International Handball Federation (IHF).EM i håndball for kvinner i sin helhet, arrangert av European Handball Federation (EHF).Cupfinalen i fotball for menn arrangert av Norges Fotballforbund (NFF).VM på ski i nordiske grener i sin helhet, arrangert av Det internasjonale skiforbundet (FIS).VM i alpint i sin helhet arrangert av Det internasjonale skiforbundet (FIS).Holmenkollen FIS World Cup Nordic.VM i skiskyting i sin helhet arrangert av International Biathlon Union (IBU).VM i fotball for kvinner i sin helhet, arrangert av Fédération Internationale de Football Association (FIFA).EM i fotball for kvinner i sin helhet, arrangert av Union of European Football Associations (UEFA).VM i håndball for menn i sin helhet, arrangert av International Handball Federation (IHF).EM i håndball for menn i sin helhet, arrangert av European Handball Federation (EHF).
+Følgende begivenheter er å anse som begivenheter av vesentlig samfunnsmessig betydning:
+
+1. OL, sommer- og vinterlekene i sin helhet, arrangert av Den internasjonale olympiske komité (IOC).
+2. VM i fotball for menn i sin helhet, herunder kvalifiseringskamper med norsk deltakelse, arrangert av Fédération Internationale de Football Association (FIFA).
+3. EM i fotball for menn i sin helhet, herunder kvalifiseringskamper med norsk deltakelse, arrangert av Union of European Football Associations (UEFA).
+4. VM i håndball for kvinner i sin helhet arrangert av International Handball Federation (IHF).
+5. EM i håndball for kvinner i sin helhet, arrangert av European Handball Federation (EHF).
+6. Cupfinalen i fotball for menn arrangert av Norges Fotballforbund (NFF).
+7. VM på ski i nordiske grener i sin helhet, arrangert av Det internasjonale skiforbundet (FIS).
+8. VM i alpint i sin helhet arrangert av Det internasjonale skiforbundet (FIS).
+9. Holmenkollen FIS World Cup Nordic.
+10. VM i skiskyting i sin helhet arrangert av International Biathlon Union (IBU).
+11. VM i fotball for kvinner i sin helhet, arrangert av Fédération Internationale de Football Association (FIFA).
+12. EM i fotball for kvinner i sin helhet, arrangert av Union of European Football Associations (UEFA).
+13. VM i håndball for menn i sin helhet, arrangert av International Handball Federation (IHF).
+14. EM i håndball for menn i sin helhet, arrangert av European Handball Federation (EHF).
 
 > Tilføyd ved [forskrift 21 sep 2001 nr. 1093](forskrift/2001-09-21-1093) (i kraft 1 okt 2001), endret ved forskrifter [9 aug 2013 nr. 966](forskrift/2013-08-09-966) (i kraft 1 juli 2014), [4 des 2025 nr. 2416](forskrift/2025-12-04-2416) (i kraft 1 jan 2026).
 
@@ -501,7 +609,11 @@ En fjernsynskanal mottas av en betydelig del av seerne på vederlagsfritt fjerns
 
 En fjernsynskanal som i henhold til [§ 5-3](forskrift/1997-02-28-153/§5-3) har kjøpt en senderett til en begivenhet av vesentlig samfunnsmessig betydning skal sende hele begivenheten direkte.
 
-Fjernsynskanalen kan likevel kringkaste deler av begivenheten direkte, eller hele eller deler av begivenheten i opptak på følgende vilkår:Begivenheten foregår om natten mellom kl. 24.00 og 06.00 norsk tid,Begivenheten består av flere parallelle øvelser ellerAndre forhold tilsier at det vil være i allmennhetens interesse at begivenheten vises delvis direkte, eller helt eller delvis i opptak.
+Fjernsynskanalen kan likevel kringkaste deler av begivenheten direkte, eller hele eller deler av begivenheten i opptak på følgende vilkår:
+
+1. Begivenheten foregår om natten mellom kl. 24.00 og 06.00 norsk tid,
+2. Begivenheten består av flere parallelle øvelser eller
+3. Andre forhold tilsier at det vil være i allmennhetens interesse at begivenheten vises delvis direkte, eller helt eller delvis i opptak.
 
 > Tilføyd ved [forskrift 9 aug 2013 nr. 966](forskrift/2013-08-09-966) (i kraft 1 juli 2014).
 
@@ -525,9 +637,16 @@ Kringkastere kan kun utnytte senderettigheter i et annet EØS-land i samsvar med
 
 En tilbyder av en videodelingsplattform er underlagt norsk jurisdiksjon dersom tilbyderen er etablert i Norge etter [lov 23. mai 2003 nr. 35 om visse sider av elektronisk handel og andre informasjonssamfunnstjenester § 4](lov/2003-05-23-35/§4), jf. [§ 3 bokstav c](lov/2003-05-23-35/§3/bokstav/c).
 
-En tilbyder som ikke er underlagt norsk jurisdiksjon etter første ledd, ansees å være underlagt norsk jurisdiksjon der tilbyderen:har et morforetak eller et datterforetak som er etablert i Norge etter første ledd, ellerer en del av en foretaksgruppe, og et annet foretak i samme foretaksgruppe er etablert i Norge etter første ledd.
+En tilbyder som ikke er underlagt norsk jurisdiksjon etter første ledd, ansees å være underlagt norsk jurisdiksjon der tilbyderen:
 
-I denne bestemmelse menes med:morforetak; et foretak som kontrollerer ett eller flere datterforetak,datterforetak; et foretak som kontrolleres av et morforetak, herunder ethvert datterforetak av et overordnet morforetak,foretaksgruppe; et morforetak, alle dets datterforetak og alle andre foretak som har økonomiske og juridisk organisatoriske bånd til dem.
+1. har et morforetak eller et datterforetak som er etablert i Norge etter første ledd, eller
+2. er en del av en foretaksgruppe, og et annet foretak i samme foretaksgruppe er etablert i Norge etter første ledd.
+
+I denne bestemmelse menes med:
+
+1. morforetak; et foretak som kontrollerer ett eller flere datterforetak,
+2. datterforetak; et foretak som kontrolleres av et morforetak, herunder ethvert datterforetak av et overordnet morforetak,
+3. foretaksgruppe; et morforetak, alle dets datterforetak og alle andre foretak som har økonomiske og juridisk organisatoriske bånd til dem.
 
 Ved anvendelse av andre ledd skal tilbyderen av videodelingsplattformen, når morforetaket, datterforetaket eller andre foretak i foretaksgruppen alle er etablert i forskjellige EØS-land, anses som etablert i Norge dersom morforetaket er etablert i Norge. Dersom morforetaket ikke er etablert i et EØS-land, skal tilbyderen anses etablert i Norge dersom datterforetaket er etablert i Norge. Dersom datterforetaket ikke er etablert i et EØS-land, skal tilbyderen anses etablert i Norge dersom andre foretak i foretaksgruppen er etablert i Norge.
 
@@ -557,7 +676,16 @@ Listen som utarbeides etter første ledd skal angi hvilke kriterier i [§ 5A-1](
 
 ### § 5A-4. Hensiktsmessige tiltak for å beskytte barn mot skadelig innhold og allmennheten mot nærmere bestemt ulovlig innhold
 
-Hensiktsmessige tiltak etter [kringkastingsloven §§ 5A-3](lov/1992-12-04-127/§5A-3) og [5A-4](lov/1992-12-04-127/§5A-4) omfatter, avhengig av hva som er relevant:å innta som krav i brukervilkårene at [kringkastingsloven § 5A-3](lov/1992-12-04-127/§5A-3) om beskyttelse av mindreårige mot skadelig innhold og [kringkastingsloven § 5A-4](lov/1992-12-04-127/§5A-4) om beskyttelse av allmennheten mot visse former for ulovlig innhold skal overholdes,å opprette og drifte åpne og brukervennlige mekanismer som brukere av en videodelingsplattformtjeneste kan benytte overfor tilbyderen av videodelingsplattformen til å rapportere eller flagge innhold som tilbys på plattformen og som er nevnt i [kringkastingsloven §§ 5A-3](lov/1992-12-04-127/§5A-3) og [5A-4](lov/1992-12-04-127/§5A-4),å opprette og drifte systemer som tilbydere av videodelingsplattformer kan benytte til å opplyse brukerne av plattformene om hvilken virkning rapportering og flagging nevnt i bokstav b har hatt,å opprette og drifte systemer for alderskontroll av brukere av videodelingsplattformtjenester med hensyn til innhold som kan være skadelig for mindreårige,å opprette og drifte systemer som er enkle å bruke og som gjør det mulig for brukere av videodelingsplattformtjenester å vurdere innhold som nevnt i [kringkastingsloven §§ 5A-3](lov/1992-12-04-127/§5A-3) og [5A-4](lov/1992-12-04-127/§5A-4),å sørge for systemer for tilgangskontroll som kan aktiveres av foresatte eller andre i foresattes sted for å sikre at mindreårige normalt ikke får tilgang til skadelig innhold,å opprette og tilby transparente, brukervennlige og effektive prosedyrer for å håndtere og avgjøre klager fra brukere på tilbyderens gjennomføring av tiltakene nevnt i bokstav b til f,å sørge for effektive tiltak og verktøy som gir økt kritisk medieforståelse, og å øke bevisstheten hos brukerne om disse tiltakene og verktøyene.
+Hensiktsmessige tiltak etter [kringkastingsloven §§ 5A-3](lov/1992-12-04-127/§5A-3) og [5A-4](lov/1992-12-04-127/§5A-4) omfatter, avhengig av hva som er relevant:
+
+1. å innta som krav i brukervilkårene at [kringkastingsloven § 5A-3](lov/1992-12-04-127/§5A-3) om beskyttelse av mindreårige mot skadelig innhold og [kringkastingsloven § 5A-4](lov/1992-12-04-127/§5A-4) om beskyttelse av allmennheten mot visse former for ulovlig innhold skal overholdes,
+2. å opprette og drifte åpne og brukervennlige mekanismer som brukere av en videodelingsplattformtjeneste kan benytte overfor tilbyderen av videodelingsplattformen til å rapportere eller flagge innhold som tilbys på plattformen og som er nevnt i [kringkastingsloven §§ 5A-3](lov/1992-12-04-127/§5A-3) og [5A-4](lov/1992-12-04-127/§5A-4),
+3. å opprette og drifte systemer som tilbydere av videodelingsplattformer kan benytte til å opplyse brukerne av plattformene om hvilken virkning rapportering og flagging nevnt i bokstav b har hatt,
+4. å opprette og drifte systemer for alderskontroll av brukere av videodelingsplattformtjenester med hensyn til innhold som kan være skadelig for mindreårige,
+5. å opprette og drifte systemer som er enkle å bruke og som gjør det mulig for brukere av videodelingsplattformtjenester å vurdere innhold som nevnt i [kringkastingsloven §§ 5A-3](lov/1992-12-04-127/§5A-3) og [5A-4](lov/1992-12-04-127/§5A-4),
+6. å sørge for systemer for tilgangskontroll som kan aktiveres av foresatte eller andre i foresattes sted for å sikre at mindreårige normalt ikke får tilgang til skadelig innhold,
+7. å opprette og tilby transparente, brukervennlige og effektive prosedyrer for å håndtere og avgjøre klager fra brukere på tilbyderens gjennomføring av tiltakene nevnt i bokstav b til f,
+8. å sørge for effektive tiltak og verktøy som gir økt kritisk medieforståelse, og å øke bevisstheten hos brukerne om disse tiltakene og verktøyene.
 
 Innhold som kan være alvorlig skadelig for mindreårige skal være underlagt de strengeste alders- og tilgangskontrolltiltak som PIN-koder, passord eller andre løsninger som gir tilsvarende sikkerhet.
 
@@ -567,7 +695,10 @@ Personopplysninger om mindreårige som innhentes eller på annen måte genereres
 
 ### § 5A-5. Hensiktsmessige tiltak for å overholde krav til reklame, sponsing og produktplassering som markedsføres, selges eller tilrettelegges av andre enn tilbydere av videodelingsplattformer
 
-Hensiktsmessige tiltak etter [kringkastingsloven § 5A-6](lov/1992-12-04-127/§5A-6) omfatter, avhengig av hva som er relevant:å innta som krav i brukervilkårene at [kringkastingsloven § 5A-6](lov/1992-12-04-127/§5A-6) om reklame, sponsing og produktplassering som ikke markedsføres, selges eller tilrettelegges av tilbyderen av videodelingsplattformen, skal overholdes,å ha en funksjon der brukere som laster opp brukergenererte videoer, kan angi om videoen etter det de kjenner til eller med rimelighet kan forventes å kjenne til, inneholder reklame, sponsing eller produktplassering.
+Hensiktsmessige tiltak etter [kringkastingsloven § 5A-6](lov/1992-12-04-127/§5A-6) omfatter, avhengig av hva som er relevant:
+
+1. å innta som krav i brukervilkårene at [kringkastingsloven § 5A-6](lov/1992-12-04-127/§5A-6) om reklame, sponsing og produktplassering som ikke markedsføres, selges eller tilrettelegges av tilbyderen av videodelingsplattformen, skal overholdes,
+2. å ha en funksjon der brukere som laster opp brukergenererte videoer, kan angi om videoen etter det de kjenner til eller med rimelighet kan forventes å kjenne til, inneholder reklame, sponsing eller produktplassering.
 
 Tilbydere av videodelingsplattformer skal tydelig informere brukerne om at programmer og brukergenererte videoer inneholder reklame, sponsing og produktplassering dersom brukeren har gitt opplysninger om dette i tråd med første ledd bokstav b, eller tilbyderen av videodelingsplattformen på annen måte har fått kunnskap om dette.
 
@@ -575,7 +706,12 @@ Tilbydere av videodelingsplattformer skal tydelig informere brukerne om at progr
 
 ### § 5A-6. Reklame og sponsing i videodelingsplattformtjenester
 
-Følgende regler gjelder tilsvarende for reklame og sponsing som markedsføres, selges eller tilrettelegges av tilbydere av videodelingsplattformer, og som inngår i eller følger med bildeprogrammer og brukergenererte videoer:[§ 3-4](forskrift/1997-02-28-153/§3-4) om innhold i reklame[§ 3-6](forskrift/1997-02-28-153/§3-6) om reklame og forholdet til barn og unge under 18 år[§ 3-10](forskrift/1997-02-28-153/§3-10) om identifisering av sponsing av programmer i kringkasting og audiovisuelle bestillingstjenester[§ 3-11 første ledd](forskrift/1997-02-28-153/§3-11/ledd/1) om forbud mot sponsing av barne- og ungdomsprogram.
+Følgende regler gjelder tilsvarende for reklame og sponsing som markedsføres, selges eller tilrettelegges av tilbydere av videodelingsplattformer, og som inngår i eller følger med bildeprogrammer og brukergenererte videoer:
+
+1. [§ 3-4](forskrift/1997-02-28-153/§3-4) om innhold i reklame
+2. [§ 3-6](forskrift/1997-02-28-153/§3-6) om reklame og forholdet til barn og unge under 18 år
+3. [§ 3-10](forskrift/1997-02-28-153/§3-10) om identifisering av sponsing av programmer i kringkasting og audiovisuelle bestillingstjenester
+4. [§ 3-11 første ledd](forskrift/1997-02-28-153/§3-11/ledd/1) om forbud mot sponsing av barne- og ungdomsprogram.
 
 > Tilføyd ved forskrift [10 april 2025 nr. 654](forskrift/2025-04-10-654) (i kraft 1 mai 2025).
 
@@ -727,7 +863,16 @@ Det er forbudt på norsk territorium – herunder sjøterritoriet og luftterrito
 
 Det er forbudt også utenfor norsk territorium å medvirke til slik virksomhet i den utstrekning den omfattes av lovens § 9-1.
 
-Som medvirkning til kringkasting regnes:å opprette eller bistå med å opprette, drive eller lede kontor med sikte på kringkastingsvirksomhet,tjenesteyting vedrørende reklame til fordel for slik virksomhet,å annonsere, drive eller formidle reklame eller bestille utsending eller liknende over stasjon for kringkastingsvirksomhet,på annen måte yte økonomisk bistand til kringkastingsvirksomhet,å forberede, kunngjøre eller lede utsending over en slik stasjon eller yte teknisk bistand,levering av utstyr, tekniske hjelpemidler, lydbånd eller liknende til bruk for slik virksomhet, samt vedlikehold og reparasjon av utstyret,å stille fartøy til rådighet, yte personlig arbeid for fartøy eller stasjon, transportere mannskap, personell eller liknende eller levere eller transportere forsyninger og materiell til bruk for kringkastingsvirksomhet,bestilling eller framstilling av programmateriale av et hvert slag, herunder levering av nyhetsstoff til bruk for kringkasting. Bestemmelsen gjelder likevel ikke for opptredende kunstneres prestasjoner når disse er ytet et annet sted enn på stasjon eller anlegg beregnet på kringkastingsvirksomhet som nevnt i lovens § 9-1.
+Som medvirkning til kringkasting regnes:
+
+1. å opprette eller bistå med å opprette, drive eller lede kontor med sikte på kringkastingsvirksomhet,
+2. tjenesteyting vedrørende reklame til fordel for slik virksomhet,
+3. å annonsere, drive eller formidle reklame eller bestille utsending eller liknende over stasjon for kringkastingsvirksomhet,
+4. på annen måte yte økonomisk bistand til kringkastingsvirksomhet,
+5. å forberede, kunngjøre eller lede utsending over en slik stasjon eller yte teknisk bistand,
+6. levering av utstyr, tekniske hjelpemidler, lydbånd eller liknende til bruk for slik virksomhet, samt vedlikehold og reparasjon av utstyret,
+7. å stille fartøy til rådighet, yte personlig arbeid for fartøy eller stasjon, transportere mannskap, personell eller liknende eller levere eller transportere forsyninger og materiell til bruk for kringkastingsvirksomhet,
+8. bestilling eller framstilling av programmateriale av et hvert slag, herunder levering av nyhetsstoff til bruk for kringkasting. Bestemmelsen gjelder likevel ikke for opptredende kunstneres prestasjoner når disse er ytet et annet sted enn på stasjon eller anlegg beregnet på kringkastingsvirksomhet som nevnt i lovens § 9-1.
 
 ## Kapittel 10 – Sanksjoner
 
@@ -735,7 +880,13 @@ Som medvirkning til kringkasting regnes:å opprette eller bistå med å opprette
 
 Ved overtredelse av [kringkastingsloven § 3-1 første ledd](lov/1992-12-04-127/§3-1/ledd/1) første alternativ om sending av reklameinnslag i tilknytning til barneprogram, [§ 3-2 første ledd](lov/1992-12-04-127/§3-2/ledd/1) eller forskriften [§ 3-1](forskrift/1997-02-28-153/§3-1), [§ 3-3](forskrift/1997-02-28-153/§3-3), [§ 3-4 tredje ledd](forskrift/1997-02-28-153/§3-4/ledd/3), [§ 3-6 fjerde ledd](forskrift/1997-02-28-153/§3-6/ledd/4), [§ 3-7](forskrift/1997-02-28-153/§3-7) eller [§ 3-9](forskrift/1997-02-28-153/§3-9) kan tilsynsmyndigheten ilegge overtredelsesgebyrer.
 
-Overtredelsesgebyr som ilegges etter første ledd, skal utmåles etter følgende regler:Overtredelsesgebyret beregnes ved at et basisbeløp multipliseres med det antall seere eller lyttere som så eller hørte programmet eller innslaget i det tidsrom overtredelsen fant sted. Overtredelsesgebyr beregnes pr. påbegynt 30-sekunders sendeintervall overtredelsen pågikkFor kringkastingsselskap som etter [kringkastingsloven § 2-1](lov/1992-12-04-127/§2-1) har rett til, eller som er konsesjons- eller registreringspliktig for, å drive riksdekkende fjernsyn er basisbeløpet kr 0,25 pr. seer. For kringkastingsselskap som etter [kringkastingsloven § 2-1](lov/1992-12-04-127/§2-1) har rett til, eller som er konsesjons- eller registreringspliktig for, å drive lokalfjernsyn er basisbeløpet kr 0,12 pr. seer. For kringkastingsselskap som etter [kringkastingsloven § 2-1](lov/1992-12-04-127/§2-1) har rett til, eller er konsesjons- eller registreringspliktig for, å drive lokalradio eller riksdekkende radiosendinger er basisbeløpet kr 0,06 pr. lytterI de tilfeller hvor det ikke foreligger lytter- eller seertall for det tidspunkt overtredelsen fant sted, benyttes kringkastingsselskapets gjennomsnittlige lytter- eller seertall på det tilsvarende sendetidspunkt i den måned overtredelsen fant sted. For kringkastingsselskaper som ikke omfattes av de ordinære lytter- eller seerundersøkelser, innhentes anslag over lytter- eller seertall på annen måteGebyr etter denne bestemmelsen skal ikke settes lavere enn 2R og begrenses oppad til kr 2 000 000. R er det til enhver tid gjeldende rettsgebyr.Tilsynsmyndigheten eller klageinstansen kan i særlige tilfeller fravike beregningsmåten i denne bestemmelsen.
+Overtredelsesgebyr som ilegges etter første ledd, skal utmåles etter følgende regler:
+
+1. Overtredelsesgebyret beregnes ved at et basisbeløp multipliseres med det antall seere eller lyttere som så eller hørte programmet eller innslaget i det tidsrom overtredelsen fant sted. Overtredelsesgebyr beregnes pr. påbegynt 30-sekunders sendeintervall overtredelsen pågikk
+2. For kringkastingsselskap som etter [kringkastingsloven § 2-1](lov/1992-12-04-127/§2-1) har rett til, eller som er konsesjons- eller registreringspliktig for, å drive riksdekkende fjernsyn er basisbeløpet kr 0,25 pr. seer. For kringkastingsselskap som etter [kringkastingsloven § 2-1](lov/1992-12-04-127/§2-1) har rett til, eller som er konsesjons- eller registreringspliktig for, å drive lokalfjernsyn er basisbeløpet kr 0,12 pr. seer. For kringkastingsselskap som etter [kringkastingsloven § 2-1](lov/1992-12-04-127/§2-1) har rett til, eller er konsesjons- eller registreringspliktig for, å drive lokalradio eller riksdekkende radiosendinger er basisbeløpet kr 0,06 pr. lytter
+3. I de tilfeller hvor det ikke foreligger lytter- eller seertall for det tidspunkt overtredelsen fant sted, benyttes kringkastingsselskapets gjennomsnittlige lytter- eller seertall på det tilsvarende sendetidspunkt i den måned overtredelsen fant sted. For kringkastingsselskaper som ikke omfattes av de ordinære lytter- eller seerundersøkelser, innhentes anslag over lytter- eller seertall på annen måte
+4. Gebyr etter denne bestemmelsen skal ikke settes lavere enn 2R og begrenses oppad til kr 2 000 000. R er det til enhver tid gjeldende rettsgebyr.
+5. Tilsynsmyndigheten eller klageinstansen kan i særlige tilfeller fravike beregningsmåten i denne bestemmelsen.
 
 > Endret ved forskrifter [20 nov 1997 nr. 1180](forskrift/1997-11-20-1180) (i kraft 1 des 1997), [20 nov 1998 nr. 1068](forskrift/1998-11-20-1068), [21 sep 2001 nr. 1093](forskrift/2001-09-21-1093) (i kraft 1 okt 2001), [18 feb 2005 nr. 150](forskrift/2005-02-18-150), [30 mai 2008 nr. 525](forskrift/2008-05-30-525) (i kraft 1 juli 2008), [22 nov 2013 nr. 1333](forskrift/2013-11-22-1333) (i kraft 1 jan 2014), [15 des 2017 nr. 2104](forskrift/2017-12-15-2104) (i kraft 1 jan 2018), [10 april 2025 nr. 654](forskrift/2025-04-10-654) (i kraft 1 mai 2025).
 
@@ -749,7 +900,18 @@ Ved utmålingen av overtredelsesgebyr etter første ledd, skal tilsynsmyndighete
 
 ### § 10-3. Standardisert utmåling av overtredelsesgebyr
 
-Ved overtredelse av [kringkastingsloven § 2-1 første ledd](lov/1992-12-04-127/§2-1/ledd/1) og [tredje ledd første punktum](lov/1992-12-04-127/§2-1/ledd/3/setning/1), [§ 2-2 første ledd](lov/1992-12-04-127/§2-2/ledd/1) og vilkår fastsatt i medhold av [§ 2-2 andre ledd](lov/1992-12-04-127/§2-2/ledd/2), [§ 2-4](lov/1992-12-04-127/§2-4), [§ 2-5](lov/1992-12-04-127/§2-5), eller forskriften [§ 1-3](forskrift/1997-02-28-153/§1-3), [§ 1-7](forskrift/1997-02-28-153/§1-7), [§ 2-1](forskrift/1997-02-28-153/§2-1), [§ 2-2](forskrift/1997-02-28-153/§2-2), [§ 2-4 første ledd](forskrift/1997-02-28-153/§2-4/ledd/1), [§ 7-1 andre ledd](forskrift/1997-02-28-153/§7-1/ledd/2), [§ 7-8](forskrift/1997-02-28-153/§7-8), [§ 7-9 andre](forskrift/1997-02-28-153/§7-9/ledd/2) og [tredje ledd](forskrift/1997-02-28-153/§7-9/ledd/3), [§ 7-10](forskrift/1997-02-28-153/§7-10) og [§ 7-11](forskrift/1997-02-28-153/§7-11), kan tilsynsmyndigheten ilegge overtredelsesgebyr etter følgende regler:Gebyret utmåles ut i fra kringkasterens eller senderanleggets dekningsgrad. For kringkastingsselskap som etter [kringkastingsloven § 2-1](lov/1992-12-04-127/§2-1) har tillatelse til å drive lokalkringkasting eller selskaper som etter [kringkastingsloven § 2-2](lov/1992-12-04-127/§2-2) har tillatelse til å drive senderanlegg for lokalkringkasting, er dekningsgraden antall innbyggere i det konsesjonsområdet tillatelsen gjelder for. For andre kringkastere og senderanlegg, innhentes faktiske tall om dekningsgrad fra samferdselsmyndigheten som beregner dette. Dersom pålitelige tall om dekningsgrad ikke er tilgjengelig, fastsettes gebyret etter maksimumsbeløpet i nr. 3.Gebyret utmåles etter følgende satser, hvor R er det til enhver tid gjeldende rettsgebyr:Over 2 millioner lyttere/seere: 200R500 000–2 millioner lyttere/seere: 70R50 000–499 999 lyttere/seere: 20R10 000–49 999 lyttere/seere: 8RUnder 10 000 lyttere/seere: 4R.Gebyret kan likevel ikke overstige 0,5 prosent av kringkasterens eller senderanleggets samlede omsetning for siste regnskapsår, dog slik at minstegebyr etter denne bestemmelse utgjør 2R.Tilsynsmyndigheten eller klageinstansen kan i særlige tilfeller fravike beregningsmåten i denne bestemmelsen.
+Ved overtredelse av [kringkastingsloven § 2-1 første ledd](lov/1992-12-04-127/§2-1/ledd/1) og [tredje ledd første punktum](lov/1992-12-04-127/§2-1/ledd/3/setning/1), [§ 2-2 første ledd](lov/1992-12-04-127/§2-2/ledd/1) og vilkår fastsatt i medhold av [§ 2-2 andre ledd](lov/1992-12-04-127/§2-2/ledd/2), [§ 2-4](lov/1992-12-04-127/§2-4), [§ 2-5](lov/1992-12-04-127/§2-5), eller forskriften [§ 1-3](forskrift/1997-02-28-153/§1-3), [§ 1-7](forskrift/1997-02-28-153/§1-7), [§ 2-1](forskrift/1997-02-28-153/§2-1), [§ 2-2](forskrift/1997-02-28-153/§2-2), [§ 2-4 første ledd](forskrift/1997-02-28-153/§2-4/ledd/1), [§ 7-1 andre ledd](forskrift/1997-02-28-153/§7-1/ledd/2), [§ 7-8](forskrift/1997-02-28-153/§7-8), [§ 7-9 andre](forskrift/1997-02-28-153/§7-9/ledd/2) og [tredje ledd](forskrift/1997-02-28-153/§7-9/ledd/3), [§ 7-10](forskrift/1997-02-28-153/§7-10) og [§ 7-11](forskrift/1997-02-28-153/§7-11), kan tilsynsmyndigheten ilegge overtredelsesgebyr etter følgende regler:
+
+1. Gebyret utmåles ut i fra kringkasterens eller senderanleggets dekningsgrad. For kringkastingsselskap som etter [kringkastingsloven § 2-1](lov/1992-12-04-127/§2-1) har tillatelse til å drive lokalkringkasting eller selskaper som etter [kringkastingsloven § 2-2](lov/1992-12-04-127/§2-2) har tillatelse til å drive senderanlegg for lokalkringkasting, er dekningsgraden antall innbyggere i det konsesjonsområdet tillatelsen gjelder for. For andre kringkastere og senderanlegg, innhentes faktiske tall om dekningsgrad fra samferdselsmyndigheten som beregner dette. Dersom pålitelige tall om dekningsgrad ikke er tilgjengelig, fastsettes gebyret etter maksimumsbeløpet i nr. 3.
+2. Gebyret utmåles etter følgende satser, hvor R er det til enhver tid gjeldende rettsgebyr:
+
+   1. Over 2 millioner lyttere/seere: 200R
+   2. 500 000–2 millioner lyttere/seere: 70R
+   3. 50 000–499 999 lyttere/seere: 20R
+   4. 10 000–49 999 lyttere/seere: 8R
+   5. Under 10 000 lyttere/seere: 4R.
+3. Gebyret kan likevel ikke overstige 0,5 prosent av kringkasterens eller senderanleggets samlede omsetning for siste regnskapsår, dog slik at minstegebyr etter denne bestemmelse utgjør 2R.
+4. Tilsynsmyndigheten eller klageinstansen kan i særlige tilfeller fravike beregningsmåten i denne bestemmelsen.
 
 > Tilføyd ved [forskrift 30 mai 2008 nr. 525](forskrift/2008-05-30-525) (i kraft 1 juli 2008), endret ved forskrifter [22 nov 2013 nr. 1333](forskrift/2013-11-22-1333) (i kraft 1 jan 2014) [9 aug 2013 nr. 966](forskrift/2013-08-09-966) (i kraft 1 juli 2014), [10 april 2025 nr. 654](forskrift/2025-04-10-654) (i kraft 1 mai 2025).
 
@@ -801,4 +963,14 @@ Dersom en tilbyder av audiovisuelle bestillingstjenester overtrer [§ 1-3](forsk
 
 Forskriften trer i kraft straks.
 
-Fra samme dag oppheves:[forskrift av 29. mai 1981 nr. 8630](forskrift/1981-05-29-8630) om kringkasting m.m.[forskrift av 28. september 1988 nr. 3953](forskrift/1988-09-28-3953) om Stiftelsen Norsk rikskringkastings adgang til erverv og salg av fast eiendom og til å ta opp lån[forskrift av 7. oktober 1988 nr. 773](forskrift/1988-10-07-773) om kabelsendingar[forskrift av 22. desember 1988 nr. 1220](forskrift/1988-12-22-1220) om avgift på utstyr for opptak og gjengivelse av lyd eller bilder m.v.[forskrift av 18. desember 1989 nr. 1338](forskrift/1989-12-18-1338) om avgift på radio- og fjernsynsmateriell m.v.[forskrift av 19. april 1991 nr. 228](forskrift/1991-04-19-228) om reklame i kringkasting[forskrift av 19. april 1991 nr. 229](forskrift/1991-04-19-229) om sponsing m.v. av kringkastingsprogram[forskrift av 26. november 1993 nr. 1068](forskrift/1993-11-26-1068) i medhold av lov om kringkasting[forskrift av 5. januar 1996 nr. 10](forskrift/1996-01-05-10) om nærkringkasting
+Fra samme dag oppheves:
+
+- [forskrift av 29. mai 1981 nr. 8630](forskrift/1981-05-29-8630) om kringkasting m.m.
+- [forskrift av 28. september 1988 nr. 3953](forskrift/1988-09-28-3953) om Stiftelsen Norsk rikskringkastings adgang til erverv og salg av fast eiendom og til å ta opp lån
+- [forskrift av 7. oktober 1988 nr. 773](forskrift/1988-10-07-773) om kabelsendingar
+- [forskrift av 22. desember 1988 nr. 1220](forskrift/1988-12-22-1220) om avgift på utstyr for opptak og gjengivelse av lyd eller bilder m.v.
+- [forskrift av 18. desember 1989 nr. 1338](forskrift/1989-12-18-1338) om avgift på radio- og fjernsynsmateriell m.v.
+- [forskrift av 19. april 1991 nr. 228](forskrift/1991-04-19-228) om reklame i kringkasting
+- [forskrift av 19. april 1991 nr. 229](forskrift/1991-04-19-229) om sponsing m.v. av kringkastingsprogram
+- [forskrift av 26. november 1993 nr. 1068](forskrift/1993-11-26-1068) i medhold av lov om kringkasting
+- [forskrift av 5. januar 1996 nr. 10](forskrift/1996-01-05-10) om nærkringkasting

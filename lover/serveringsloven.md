@@ -15,7 +15,7 @@ xml_hash: "7f3b561b93a7b623516b8bca4823ab6d5157a832b959f58ae04c5c821339dbe4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,15 @@ Lovens formål er å sikre forsvarlig drift av serveringssteder av hensyn til n�
 
 Loven gjelder etablering og drift av alle serveringssteder der det foregår servering av mat og/eller drikke og hvor forholdene ligger til rette for fortæring på stedet.
 
-Loven gjelder ikke for:servering som ikke skjer i næring,serveringssteder ved helseinstitusjoner, skoler og barnehager når disse må godkjennes av offentlig myndighet etter annen lov eller forskrift, og serveringen skjer i institusjonens regi,serveringssteder som drives av staten til bruk for ansatte og annet personell i offentlig tjeneste, og for andre som har adgang etter gjeldende bestemmelser for virksomheten,servering i kantine som et foretak driver etter selvkostprinsippet og som er til bruk for egne ansatte,servering i tog, fly og båter i rutetrafikk,serveringssteder på flyttbare innretninger og faste installasjoner i forbindelse med undersøkelser etter eller utnyttelse av undersjøiske petroleumsforekomster på norsk kontinentalsokkel,serveringssteder som drives av lag, foreninger o l, hvor formålet med serveringen utelukkende er å skaffe inntekter til drift av laget, foreningen o l.
+Loven gjelder ikke for:
+
+1. servering som ikke skjer i næring,
+2. serveringssteder ved helseinstitusjoner, skoler og barnehager når disse må godkjennes av offentlig myndighet etter annen lov eller forskrift, og serveringen skjer i institusjonens regi,
+3. serveringssteder som drives av staten til bruk for ansatte og annet personell i offentlig tjeneste, og for andre som har adgang etter gjeldende bestemmelser for virksomheten,
+4. servering i kantine som et foretak driver etter selvkostprinsippet og som er til bruk for egne ansatte,
+5. servering i tog, fly og båter i rutetrafikk,
+6. serveringssteder på flyttbare innretninger og faste installasjoner i forbindelse med undersøkelser etter eller utnyttelse av undersjøiske petroleumsforekomster på norsk kontinentalsokkel,
+7. serveringssteder som drives av lag, foreninger o l, hvor formålet med serveringen utelukkende er å skaffe inntekter til drift av laget, foreningen o l.
 
 Departementet kan i forskrift bestemme at også andre grupper serveringssteder helt eller delvis skal unntas fra loven.
 
@@ -78,15 +86,30 @@ Ved vurderingen av bevillingshavers og andre personers vandel etter første ledd
 
 ### § 7. Konsolidering av eierandeler
 
-I vurderingen av om en person har vesentlig innflytelse på virksomheten, regnes vedkommendes eierandeler eller stemmer sammen med eierandeler eller stemmer som tilhører følgende personer:ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,slektninger i rett oppstigende eller nedstigende linje samt søsken,ektefelle til person som nevnt i nr. 2 eller person som bor i ekteskapslignende forhold sammen med person som nevnt i nr. 2.
+I vurderingen av om en person har vesentlig innflytelse på virksomheten, regnes vedkommendes eierandeler eller stemmer sammen med eierandeler eller stemmer som tilhører følgende personer:
+
+1. ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,
+2. slektninger i rett oppstigende eller nedstigende linje samt søsken,
+3. ektefelle til person som nevnt i nr. 2 eller person som bor i ekteskapslignende forhold sammen med person som nevnt i nr. 2.
 
 > Endret ved [lov 21 des 2007 nr. 133](lov/2007-12-21-133) (ikr. 1 jan 2008 iflg. [res. 21 des 2007 nr. 1710](forskrift/2007-12-21-1710)).
 
 ### § 8. Krav til søknaden
 
-Den som vil etablere et serveringssted skal sende skriftlig søknad til kommunen. Søknaden skal inneholde følgende opplysninger:navn og adresse på den for hvis regning serveringsstedet skal drives. Dersom serveringsstedet drives av en juridisk person, skal det også gis opplysninger om organisasjonsnummer og eiersammensetning,angivelse av det sted hvor serveringsstedet skal drives,navn og adresse på daglig leder og personer som etter [§ 6](lov/1997-06-13-55/§6) har vesentlig innflytelse på virksomheten,dokumentasjon av faglige kvalifikasjoner i henhold til [§ 5](lov/1997-06-13-55/§5),skatteattest for den for hvis regning serveringsstedet skal drives.
+Den som vil etablere et serveringssted skal sende skriftlig søknad til kommunen. Søknaden skal inneholde følgende opplysninger:
 
-I tillegg kan kommunen, når den finner det påkrevet, kreve fremlagt:leiekontrakt,finansieringsplan,driftbudsjett oglikviditetsbudsjett.
+1. navn og adresse på den for hvis regning serveringsstedet skal drives. Dersom serveringsstedet drives av en juridisk person, skal det også gis opplysninger om organisasjonsnummer og eiersammensetning,
+2. angivelse av det sted hvor serveringsstedet skal drives,
+3. navn og adresse på daglig leder og personer som etter [§ 6](lov/1997-06-13-55/§6) har vesentlig innflytelse på virksomheten,
+4. dokumentasjon av faglige kvalifikasjoner i henhold til [§ 5](lov/1997-06-13-55/§5),
+5. skatteattest for den for hvis regning serveringsstedet skal drives.
+
+I tillegg kan kommunen, når den finner det påkrevet, kreve fremlagt:
+
+1. leiekontrakt,
+2. finansieringsplan,
+3. driftbudsjett og
+4. likviditetsbudsjett.
 
 Opplysningene som nevnt i andre ledd må kreves uten ugrunnet opphold etter at kommunen har mottatt søknad om serveringsbevilling.
 
@@ -146,7 +169,11 @@ Departementet kan i forskrift gi nærmere regler om utøvelse av kontroll ved se
 
 ### § 14. Melding om endringer ved serveringsstedet
 
-Bevillingshaveren plikter uten ugrunnet opphold å sende melding til kommunen ved:skifte av daglig leder,andre endringer i den personkrets som er nevnt i [§ 6](lov/1997-06-13-55/§6), jf [§ 7](lov/1997-06-13-55/§7),innstilt drift av serveringsstedet.
+Bevillingshaveren plikter uten ugrunnet opphold å sende melding til kommunen ved:
+
+1. skifte av daglig leder,
+2. andre endringer i den personkrets som er nevnt i [§ 6](lov/1997-06-13-55/§6), jf [§ 7](lov/1997-06-13-55/§7),
+3. innstilt drift av serveringsstedet.
 
 Melding om forhold som nevnt i bokstav a og b skal inneholde slik dokumentasjon som kreves etter [§ 8](lov/1997-06-13-55/§8).
 
@@ -178,7 +205,11 @@ Personer som gjentagne ganger har brutt serveringsstedets ordensregler eller for
 
 ### § 17. Politiets adgang til midlertidig stenging av serveringssted
 
-Politiet kan stenge et serveringssted for inntil syv dager dersom det er nødvendig:for å stanse forstyrrelser av den offentlige ro og orden eller når omstendighetene gir grunn til frykt for slike forstyrrelser,for å ivareta enkeltpersoners eller allmennhetens sikkerhet,for å avverge eller stanse lovbrudd.
+Politiet kan stenge et serveringssted for inntil syv dager dersom det er nødvendig:
+
+1. for å stanse forstyrrelser av den offentlige ro og orden eller når omstendighetene gir grunn til frykt for slike forstyrrelser,
+2. for å ivareta enkeltpersoners eller allmennhetens sikkerhet,
+3. for å avverge eller stanse lovbrudd.
 
 Politiet skal uten ugrunnet opphold gi melding til kommunen om stenging av serveringssted.
 
@@ -206,7 +237,13 @@ Politiet skal stenge et serveringssted som mangler serveringsbevilling eller som
 
 ### § 21. Straff
 
-Med bøter straffes den som forsettlig eller uaktsomt:driver serveringssted uten serveringsbevilling som kreves i henhold til [§ 3](lov/1997-06-13-55/§3),overtrer [§§ 4](lov/1997-06-13-55/§4) og [5](lov/1997-06-13-55/§5) jf [§ 12](lov/1997-06-13-55/§12),ikke overholder åpningstidene som er fastsatt i medhold av [§ 15](lov/1997-06-13-55/§15),ikke oppfyller politiets pålegg i medhold av [§ 16](lov/1997-06-13-55/§16) om å holde godkjent ordensvakt.unnlater å melde endringer til kommunen etter [§ 14](lov/1997-06-13-55/§14).
+Med bøter straffes den som forsettlig eller uaktsomt:
+
+1. driver serveringssted uten serveringsbevilling som kreves i henhold til [§ 3](lov/1997-06-13-55/§3),
+2. overtrer [§§ 4](lov/1997-06-13-55/§4) og [5](lov/1997-06-13-55/§5) jf [§ 12](lov/1997-06-13-55/§12),
+3. ikke overholder åpningstidene som er fastsatt i medhold av [§ 15](lov/1997-06-13-55/§15),
+4. ikke oppfyller politiets pålegg i medhold av [§ 16](lov/1997-06-13-55/§16) om å holde godkjent ordensvakt.
+5. unnlater å melde endringer til kommunen etter [§ 14](lov/1997-06-13-55/§14).
 
 > Endret ved [lover 21 des 2007 nr. 133](lov/2007-12-21-133) (ikr. 1 jan 2008 iflg. [res. 21 des 2007 nr. 1710](forskrift/2007-12-21-1710)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
@@ -270,4 +307,6 @@ Loven gjelder også for den som har serveringsbevilling gitt med hjemmel i [lov 
 
 For den person som er styrer ved et igangværende serveringssted ved denne lovs ikrafttredelse2 gjøres det unntak fra kravet i [§ 5](lov/1997-06-13-55/§5). For øvrig må lovens krav om gjennomført etablererprøve i [§ 5](lov/1997-06-13-55/§5) være oppfylt senest seks måneder etter ikrafttredelsestidspunktet, med mindre departementet bestemmer noe annet.
 
-1 Inkurie: Opphevet.2 1 jan 1998 iflg. [res. 13 juni 1997 nr. 579](forskrift/1997-06-13-579).
+1 Inkurie: Opphevet.
+
+2 1 jan 1998 iflg. [res. 13 juni 1997 nr. 579](forskrift/1997-06-13-579).

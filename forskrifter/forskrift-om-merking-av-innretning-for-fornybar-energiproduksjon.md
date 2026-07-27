@@ -15,7 +15,7 @@ xml_hash: "8a1fc38226be7dda61e9a4a178fd866294e69eb7a078e1c71fd2b45a8c07391c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -150,7 +150,13 @@ Lyssignal skal fortrinnsvis være i en høyde ikke under 6 m og ikke over 15 m o
 
 4.2.1 *Lyssignal*
 
-Innretninger for energiproduksjon i sjø skal være utrustet med følgende lyssignal:Farge: GulKarakter (benevnelse): Oc Y 2sPeriode: 2 sekunder (1,75 sekund lys – 0,25 sekund mørke, dvs. arbeidssyklus 87,5 %)Lysvidde: 5 nautiske milDekning: 360° horisontalt.
+Innretninger for energiproduksjon i sjø skal være utrustet med følgende lyssignal:
+
+- Farge: Gul
+- Karakter (benevnelse): Oc Y 2s
+- Periode: 2 sekunder (1,75 sekund lys – 0,25 sekund mørke, dvs. arbeidssyklus 87,5 %)
+- Lysvidde: 5 nautiske mil
+- Dekning: 360° horisontalt.
 
 4.2.2 *Vindparker*
 
@@ -162,7 +168,10 @@ Lyssignal i et område med flere vindenergiinnretninger (vindpark) skal være sy
 
 ### 5 Standard merking av bølge- og tidevannsenergiinnretninger
 
-Bølge- og tidevannsenergiinnretninger som skal merkes omfatter blant annet innretninger som er:plassert på eller forankret til sjøbunnen og i hele eller deler av vannsøylen over, ellerforankret til sjøbunnen eller fortøyd på annen måte og ligger på overflaten.
+Bølge- og tidevannsenergiinnretninger som skal merkes omfatter blant annet innretninger som er:
+
+- plassert på eller forankret til sjøbunnen og i hele eller deler av vannsøylen over, eller
+- forankret til sjøbunnen eller fortøyd på annen måte og ligger på overflaten.
 
 ### 5.1 Overflatefarge, retrorefleksmateriale, identifikasjon og lyssignal
 
@@ -188,7 +197,10 @@ Radarsvarer skal svare med et signal i form av en passende bokstav i morsealfabe
 
 ### 6.2 AIS navigasjonsinnretning
 
-En AIS navigasjonsinnretning kan være fysisk eller virtuell:1En fysisk AIS navigasjonsinnretning er en AIS melding 21 'Aids-to-navigation report (AtoN)' som representerer en innretning som eksisterer fysisk.En virtuell AIS navigasjonsinnretning er en AIS melding 21 'Aids-to-navigation report (AtoN)' som representerer en innretning som ikke eksisterer fysisk.
+En AIS navigasjonsinnretning kan være fysisk eller virtuell:1
+
+- En fysisk AIS navigasjonsinnretning er en AIS melding 21 'Aids-to-navigation report (AtoN)' som representerer en innretning som eksisterer fysisk.
+- En virtuell AIS navigasjonsinnretning er en AIS melding 21 'Aids-to-navigation report (AtoN)' som representerer en innretning som ikke eksisterer fysisk.
 
 *Tilgangskontroll til og rapportering i nettverket*
 
@@ -198,7 +210,10 @@ Rapportering til nettverket bør være Mode B med utsendelse av den samme meldin
 
 *AIS navigasjonsinnretning rapport*
 
-En AIS navigasjonsinnretning rapport skal være i form av en 'Aids-to-navigation report (AtoN)' rapport med typeindikasjon:'Fixed structure offshore, such as oil platforms, wind farms',andre typeindikasjoner som for eksempel 'Special mark'.
+En AIS navigasjonsinnretning rapport skal være i form av en 'Aids-to-navigation report (AtoN)' rapport med typeindikasjon:
+
+- 'Fixed structure offshore, such as oil platforms, wind farms',
+- andre typeindikasjoner som for eksempel 'Special mark'.
 
 Innretninger skal betegnes med passende identifikasjon.
 
@@ -218,6 +233,9 @@ Indirekte lys1 (flomlys) på vindenergiinnretninger skal ikke være til sjenanse
 
 ### 7 Bruk av navigasjonsinnretninger
 
-Navigasjonsinnretninger som beskrevet i Kystverkets retningslinjer for utforming, tekniske krav til og plassering av navigasjonsinnretninger kan brukes til:permanent merking av vindenergiparker eller bølge- og tidevannsenergiparker eller enkeltstående innretninger, ellermidlertidig merking ved anleggsarbeider i sjø.
+Navigasjonsinnretninger som beskrevet i Kystverkets retningslinjer for utforming, tekniske krav til og plassering av navigasjonsinnretninger kan brukes til:
+
+- permanent merking av vindenergiparker eller bølge- og tidevannsenergiparker eller enkeltstående innretninger, eller
+- midlertidig merking ved anleggsarbeider i sjø.
 
 Dette omfatter særskilt lateralmerker, kardinalmerker, frittliggende fare merke, spesialmerke og sektorlys.

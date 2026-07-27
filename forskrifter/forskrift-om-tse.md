@@ -17,7 +17,7 @@ xml_hash: "3beba360f90c577bc428f3f2a7a8e2cd5769371f9e8302051ea5c94c62f2618a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,80 @@ Formålet med denne forskriften er å forebygge, ha kontroll med og utrydde over
 
 ## § 2. Overførbare spongiforme encefalopatier (TSE)
 
-EØS-avtalen vedlegg I kapittel I del 7.1 nr. 12 (forordning [(EF) nr. 999/2001](eu/32001r0999)) som endret ved:forordning [(EF) nr. 1248/2001](eu/32001r1248),forordning [(EF) nr. 1326/2001](eu/32001r1326),forordning [(EF) nr. 270/2002](eu/32002r0270),forordning [(EF) nr. 1494/2002](eu/32002r1494),forordning [(EF) nr. 260/2003](eu/32003r0260),forordning [(EF) nr. 650/2003](eu/32003r0650),forordning [(EF) nr. 1053/2003](eu/32003r1053),forordning [(EF) nr. 1128/2003](eu/32003r1128),forordning [(EF) nr. 1139/2003](eu/32003r1139),forordning [(EF) nr. 1234/2003](eu/32003r1234),forordning [(EF) nr. 1809/2003](eu/32003r1809),forordning [(EF) nr. 1915/2003](eu/32003r1915),forordning [(EF) nr. 2245/2003](eu/32003r2245),forordning [(EF) nr. 876/2004](eu/32004r0876),forordning [(EF) nr. 1471/2004](eu/32004r1471),forordning [(EF) nr. 1492/2004](eu/32004r1492),forordning [(EF) nr. 1993/2004](eu/32004r1993),forordning [(EF) nr. 36/2005](eu/32005r0036),forordning [(EF) nr. 214/2005](eu/32005r0214),forordning [(EF) nr. 260/2005](eu/32005r0260),forordning [(EF) nr. 932/2005](eu/32005r0932),forordning [(EF) nr. 1292/2005](eu/32005r1292),forordning [(EF) nr. 1974/2005](eu/32005r1974),forordning [(EF) nr. 253/2006](eu/32006r0253),forordning [(EF) nr. 339/2006](eu/32006r0339),forordning [(EF) nr. 657/2006](eu/32006r0657),forordning [(EF) nr. 688/2006](eu/32006r0688),forordning [(EF) nr. 1923/2006](eu/32006r1923),forordning [(EF) nr. 722/2007](eu/32007r0722),forordning [(EF) nr. 727/2007](eu/32007r0727),forordning [(EF) nr. 1275/2007](eu/32007r1275),forordning [(EF) nr. 357/2008](eu/32008r0357),forordning [(EF) nr. 571/2008](eu/32008r0571),forordning [(EF) nr. 746/2008](eu/32008r0746),forordning [(EF) nr. 956/2008](eu/32008r0956),forordning [(EF) nr. 103/2009](eu/32009r0103),forordning [(EF) nr. 162/2009](eu/32009r0162),forordning [(EF) nr. 163/2009](eu/32009r0163),forordning [(EF) nr. 220/2009](eu/32009r0220),forordning [(EU) nr. 956/2010](eu/32010r0956),forordning [(EU) nr. 189/2011](eu/32011r0189),forordning [(EU) nr. 1064/2012](eu/32012r1064),forordning [(EU) nr. 56/2013](eu/32013r0056),forordning [(EU) nr. 517/2013](eu/32013r0517),forordning [(EU) nr. 630/2013](eu/32013r0630),forordning [(EU) nr. 1148/2014](eu/32014r1148),forordning [(EU) 2015/728](eu/32015r0728),forordning [(EU) 2015/1162](eu/32015r1162),forordning [(EU) 2016/27](eu/32016r0027),forordning [(EU) 2016/1396](eu/32016r1396),forordning [(EU) 2017/110](eu/32017r0110),forordning [(EU) 2017/736](eu/32017r0736),forordning [(EU) 2017/625](eu/32017r0625*),forordning [(EU) 2017/893](eu/32017r0893),forordning [(EU) 2017/894](eu/32017r0894),forordning [(EU) 2017/1972](eu/32017r1972),forordning [(EU) 2018/221](eu/32018r0221),forordning [(EU) 2018/969](eu/32018r0969),forordning [(EU) 2019/319](eu/32019r0319),forordning [(EU) 2019/1091](eu/32019r1091),forordning [(EU) 2020/772](eu/32020r0772),forordning [(EU) 2020/1593](eu/32020r1593),forordning [(EU) 2021/1176](eu/32021r1176),forordning [(EU) 2021/1372](eu/32021r1372),forordning [(EU) 2022/175](eu/32022r0175),forordning [(EU) 2022/2246](eu/32022r2246),forordning [(EU) 2024/877](eu/32024r0877),forordning [(EU) 2024/887](eu/32024r0887),forordning [(EU) 2024/918](eu/32024r0918) ogforordning [(EU) 2025/328](eu/32025r0328)om fastsettelse av regler for å forebygge, bekjempe og utrydde visse overførbare spongiforme encefalopatier), gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
+EØS-avtalen vedlegg I kapittel I del 7.1 nr. 12 (forordning [(EF) nr. 999/2001](eu/32001r0999)) som endret ved:
+
+- forordning [(EF) nr. 1248/2001](eu/32001r1248),
+- forordning [(EF) nr. 1326/2001](eu/32001r1326),
+- forordning [(EF) nr. 270/2002](eu/32002r0270),
+- forordning [(EF) nr. 1494/2002](eu/32002r1494),
+- forordning [(EF) nr. 260/2003](eu/32003r0260),
+- forordning [(EF) nr. 650/2003](eu/32003r0650),
+- forordning [(EF) nr. 1053/2003](eu/32003r1053),
+- forordning [(EF) nr. 1128/2003](eu/32003r1128),
+- forordning [(EF) nr. 1139/2003](eu/32003r1139),
+- forordning [(EF) nr. 1234/2003](eu/32003r1234),
+- forordning [(EF) nr. 1809/2003](eu/32003r1809),
+- forordning [(EF) nr. 1915/2003](eu/32003r1915),
+- forordning [(EF) nr. 2245/2003](eu/32003r2245),
+- forordning [(EF) nr. 876/2004](eu/32004r0876),
+- forordning [(EF) nr. 1471/2004](eu/32004r1471),
+- forordning [(EF) nr. 1492/2004](eu/32004r1492),
+- forordning [(EF) nr. 1993/2004](eu/32004r1993),
+- forordning [(EF) nr. 36/2005](eu/32005r0036),
+- forordning [(EF) nr. 214/2005](eu/32005r0214),
+- forordning [(EF) nr. 260/2005](eu/32005r0260),
+- forordning [(EF) nr. 932/2005](eu/32005r0932),
+- forordning [(EF) nr. 1292/2005](eu/32005r1292),
+- forordning [(EF) nr. 1974/2005](eu/32005r1974),
+- forordning [(EF) nr. 253/2006](eu/32006r0253),
+- forordning [(EF) nr. 339/2006](eu/32006r0339),
+- forordning [(EF) nr. 657/2006](eu/32006r0657),
+- forordning [(EF) nr. 688/2006](eu/32006r0688),
+- forordning [(EF) nr. 1923/2006](eu/32006r1923),
+- forordning [(EF) nr. 722/2007](eu/32007r0722),
+- forordning [(EF) nr. 727/2007](eu/32007r0727),
+- forordning [(EF) nr. 1275/2007](eu/32007r1275),
+- forordning [(EF) nr. 357/2008](eu/32008r0357),
+- forordning [(EF) nr. 571/2008](eu/32008r0571),
+- forordning [(EF) nr. 746/2008](eu/32008r0746),
+- forordning [(EF) nr. 956/2008](eu/32008r0956),
+- forordning [(EF) nr. 103/2009](eu/32009r0103),
+- forordning [(EF) nr. 162/2009](eu/32009r0162),
+- forordning [(EF) nr. 163/2009](eu/32009r0163),
+- forordning [(EF) nr. 220/2009](eu/32009r0220),
+- forordning [(EU) nr. 956/2010](eu/32010r0956),
+- forordning [(EU) nr. 189/2011](eu/32011r0189),
+- forordning [(EU) nr. 1064/2012](eu/32012r1064),
+- forordning [(EU) nr. 56/2013](eu/32013r0056),
+- forordning [(EU) nr. 517/2013](eu/32013r0517),
+- forordning [(EU) nr. 630/2013](eu/32013r0630),
+- forordning [(EU) nr. 1148/2014](eu/32014r1148),
+- forordning [(EU) 2015/728](eu/32015r0728),
+- forordning [(EU) 2015/1162](eu/32015r1162),
+- forordning [(EU) 2016/27](eu/32016r0027),
+- forordning [(EU) 2016/1396](eu/32016r1396),
+- forordning [(EU) 2017/110](eu/32017r0110),
+- forordning [(EU) 2017/736](eu/32017r0736),
+- forordning [(EU) 2017/625](eu/32017r0625*),
+- forordning [(EU) 2017/893](eu/32017r0893),
+- forordning [(EU) 2017/894](eu/32017r0894),
+- forordning [(EU) 2017/1972](eu/32017r1972),
+- forordning [(EU) 2018/221](eu/32018r0221),
+- forordning [(EU) 2018/969](eu/32018r0969),
+- forordning [(EU) 2019/319](eu/32019r0319),
+- forordning [(EU) 2019/1091](eu/32019r1091),
+- forordning [(EU) 2020/772](eu/32020r0772),
+- forordning [(EU) 2020/1593](eu/32020r1593),
+- forordning [(EU) 2021/1176](eu/32021r1176),
+- forordning [(EU) 2021/1372](eu/32021r1372),
+- forordning [(EU) 2022/175](eu/32022r0175),
+- forordning [(EU) 2022/2246](eu/32022r2246),
+- forordning [(EU) 2024/877](eu/32024r0877),
+- forordning [(EU) 2024/887](eu/32024r0887),
+- forordning [(EU) 2024/918](eu/32024r0918) og
+- forordning [(EU) 2025/328](eu/32025r0328)
+
+om fastsettelse av regler for å forebygge, bekjempe og utrydde visse overførbare spongiforme encefalopatier), gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
 
 > Endret ved [forskrifter 7 juli 2005 nr. 816](forskrift/2005-07-07-816) (i kraft 15 juli 2005), [29 des 2005 nr. 1769](forskrift/2005-12-29-1769) (i kraft 1 jan 2006), [31 jan 2006 nr. 100](forskrift/2006-01-31-100) (i kraft 1 feb 2006), [28 juni 2007 nr. 740](forskrift/2007-06-28-740), [8 nov 2007 nr. 1233](forskrift/2007-11-08-1233), [6 mars 2008 nr. 221](forskrift/2008-03-06-221), [29 april 2010 nr. 615](forskrift/2010-04-29-615) (i kraft 1 mai 2010), [3 mai 2010 nr. 696](forskrift/2010-05-03-696), [11 nov 2010 nr. 1450](forskrift/2010-11-11-1450), [11 juli 2011 nr. 776](forskrift/2011-07-11-776), [1 nov 2011 nr. 1063](forskrift/2011-11-01-1063), [13 feb 2012 nr. 145](forskrift/2012-02-13-145), [20 nov 2012 nr. 1084](forskrift/2012-11-20-1084), [17 juni 2013 nr. 655](forskrift/2013-06-17-655), [19 nov 2013 nr. 1366](forskrift/2013-11-19-1366), [17 sep 2014 nr. 1294](forskrift/2014-09-17-1294), [24 okt 2014 nr. 1357](forskrift/2014-10-24-1357), [22 juni 2015 nr. 763](forskrift/2015-06-22-763), [2 nov 2015 nr. 1257](forskrift/2015-11-02-1257), [6 feb 2017 nr. 131](forskrift/2017-02-06-131), [9 mai 2017 nr. 589](forskrift/2017-05-09-589), [18 des 2017 nr. 2228](forskrift/2017-12-18-2228), [12 feb 2018 nr. 207](forskrift/2018-02-12-207), [9 juli 2018 nr. 1166](forskrift/2018-07-09-1166), [7 sep 2018 nr. 1314](forskrift/2018-09-07-1314), [10 des 2018 nr. 1874](forskrift/2018-12-10-1874), [6 des 2018 nr. 1815](forskrift/2018-12-06-1815) (i kraft 1 jan 2019), [6 mars 2020 nr. 707](forskrift/2020-03-06-707) (i kraft 7 april 2020), [10 juli 2020 nr. 1549](forskrift/2020-07-10-1549), [7 okt 2020 nr. 1986](forskrift/2020-10-07-1986), [9 feb 2021 nr. 416](forskrift/2021-02-09-416), [16 juni 2021 nr. 1952](forskrift/2021-06-16-1952), [2 mai 2022 nr. 753](forskrift/2022-05-02-753), [11 juli 2022 nr. 1337](forskrift/2022-07-11-1337), [11 des 2023 nr. 2014](forskrift/2023-12-11-2014), [24 sep 2024 nr. 2373](forskrift/2024-09-24-2373), [28 okt 2024 nr. 2678](forskrift/2024-10-28-2678), [17 juni 2025 nr. 1064](forskrift/2025-06-17-1064).
 
@@ -38,7 +111,10 @@ EØS-avtalen vedlegg I kapittel I del 7.1 nr. 12 (forordning [(EF) nr. 999/2001]
 
 I de tilfellene det etter forordningene som denne forskriften gjennomfører, kreves egen godkjenning, kan slik gis av Mattilsynet etter søknad. Det kan settes vilkår for godkjenningen. Godkjenningen kan trekkes tilbake dersom vilkårene ikke oppfylles.
 
-Særskilt godkjenning etter forordning [(EF) nr. 999/2001](eu/32001r0999), vedlegg V punkt 4.3 kan innvilges for:fjerning av ryggmarg fra sau og geit i autorisert eller godkjent nedskjæringsvirksomhet, jf. vedlegg V punkt 4.3 bokstav a, ellerfjerning av virvelsøyle fra storfeskrotter eller deler av storfeskrotter i næringsmiddelvirksomheter, jf. vedlegg V punkt 4.3 bokstav b.
+Særskilt godkjenning etter forordning [(EF) nr. 999/2001](eu/32001r0999), vedlegg V punkt 4.3 kan innvilges for:
+
+1. fjerning av ryggmarg fra sau og geit i autorisert eller godkjent nedskjæringsvirksomhet, jf. vedlegg V punkt 4.3 bokstav a, eller
+2. fjerning av virvelsøyle fra storfeskrotter eller deler av storfeskrotter i næringsmiddelvirksomheter, jf. vedlegg V punkt 4.3 bokstav b.
 
 For å få særskilt godkjenning etter annet ledd må virksomheten fremlegge en plan for oppfyllelse av krav til SRM-håndtering.
 
@@ -48,7 +124,10 @@ For å få særskilt godkjenning etter annet ledd må virksomheten fremlegge en 
 
 Virksomhet som er ansvarlig for å fjerne og behandle spesifisert risikomateriale (SRM) i henhold til denne forskriften, skal innføre nødvendige tiltak for å sikre at SRM ikke forurenser. SRM skal holdes fullstendig atskilt fra annet avfall som ikke skal behandles og destrueres som SRM.
 
-Virksomhet som er ansvarlig for å fjerne og behandle spesifisert risikomateriale (SRM) i henhold til denne forskriften, skal dokumentere:hvor avfallet skal leveres,mengde SRM-avfall som er levert.
+Virksomhet som er ansvarlig for å fjerne og behandle spesifisert risikomateriale (SRM) i henhold til denne forskriften, skal dokumentere:
+
+1. hvor avfallet skal leveres,
+2. mengde SRM-avfall som er levert.
 
 > Endret ved [forskrift 12 okt 2004 nr. 1343](forskrift/2004-10-12-1343) (i kraft 1 jan 2005).
 
@@ -60,7 +139,11 @@ Slakteri som har et særskilt system som hindrer kontaminasjon mellom storfeskro
 
 ## § 4b. Unntak fra reglene om overvåkning av BSE hos storfe
 
-Unntak fra reglene om overvåkning i forordning [(EF) nr. 999/2001](eu/32001r0999) vedlegg III kapittel A I punkt 2 følger av vedtak [2009/719/EF](eu/32009d0719) med endringer som er gjort gjeldende for Norge. Unntak fra reglene er som følger:Alderen i forordning [(EF) nr. 999/2001](eu/32001r0999) vedlegg III kapittel A I punkt 2.1 er 48 måneder.Alderen i forordning [(EF) nr. 999/2001](eu/32001r0999) vedlegg III kapittel A I punkt 2.2 er 72 måneder, men prøver tas ikke av dyr i denne subpopulasjonen.Alderen i forordning [(EF) nr. 999/2001](eu/32001r0999) vedlegg III kapittel A I punkt 3.1 er 48 måneder.
+Unntak fra reglene om overvåkning i forordning [(EF) nr. 999/2001](eu/32001r0999) vedlegg III kapittel A I punkt 2 følger av vedtak [2009/719/EF](eu/32009d0719) med endringer som er gjort gjeldende for Norge. Unntak fra reglene er som følger:
+
+- Alderen i forordning [(EF) nr. 999/2001](eu/32001r0999) vedlegg III kapittel A I punkt 2.1 er 48 måneder.
+- Alderen i forordning [(EF) nr. 999/2001](eu/32001r0999) vedlegg III kapittel A I punkt 2.2 er 72 måneder, men prøver tas ikke av dyr i denne subpopulasjonen.
+- Alderen i forordning [(EF) nr. 999/2001](eu/32001r0999) vedlegg III kapittel A I punkt 3.1 er 48 måneder.
 
 > Tilføyd ved [forskrift 11 april 2014 nr. 529](forskrift/2014-04-11-529), endret ved [forskrift 26 sep 2016 nr. 1102](forskrift/2016-09-26-1102).
 
@@ -88,7 +171,15 @@ Hjortedyr fra Norge som fraktes til slakt i Sverige eller Finland eller sendes i
 
 ## § 5D. Tillatelse ved innførsel av levende hjortedyr fra visse deler av Sverige og Finland
 
-Følgende hjortedyr fra områder i Finland og Sverige listeført under TSE-forordning vedlegg VIII kapittel A avsnitt C punkt 1.2 kan innføres til Norge i henhold til samme avsnitts punkt 3.2 bokstav a:svenske tamrein som skal beite i Norge eller norske tamrein som har beitet i angitt område i Sverigefinske tamrein som skal beite i Norge i områder i tilknytning til riksgrensen hvor den norsk-finske reingjerdekommisjonen åpner for grensekryssende beitingnorske tamrein som har beitet i angitt område i Finlandhjortedyr som sendes i transitt gjennom Norge til Finland eller Sverige eller som returnerer til Norge etter transitt gjennom Finland og Sverigehjortedyr som sendes direkte til slakteri i Norge.Dyrene som fraktes til slakt eller sendes i transitt, skal ikke ut av kjøretøyet under reisen.
+Følgende hjortedyr fra områder i Finland og Sverige listeført under TSE-forordning vedlegg VIII kapittel A avsnitt C punkt 1.2 kan innføres til Norge i henhold til samme avsnitts punkt 3.2 bokstav a:
+
+1. svenske tamrein som skal beite i Norge eller norske tamrein som har beitet i angitt område i Sverige
+2. finske tamrein som skal beite i Norge i områder i tilknytning til riksgrensen hvor den norsk-finske reingjerdekommisjonen åpner for grensekryssende beiting
+3. norske tamrein som har beitet i angitt område i Finland
+4. hjortedyr som sendes i transitt gjennom Norge til Finland eller Sverige eller som returnerer til Norge etter transitt gjennom Finland og Sverige
+5. hjortedyr som sendes direkte til slakteri i Norge.
+
+Dyrene som fraktes til slakt eller sendes i transitt, skal ikke ut av kjøretøyet under reisen.
 
 For andre hjortedyr som skal flyttes fra områder i Finland og Sverige listeført under TSE-forordning vedlegg VIII kapittel A avsnitt C punkt 1.2 til Norge vil tillatelse avhenge av en vurdering av risiko for spredning av Chronic Wasting Disease.
 
@@ -328,7 +419,16 @@ under henvisning til forslag fra Kommisjonen,
 
 under henvisning til uttalelse fra Den økonomiske og sosiale komité, under samråd med Regionkomiteen, etter framgangsmåten fastsatt i traktatens artikkel 251, og
 
-ut fra følgende betraktninger:Flere forskjellige overførbare spongiforme encefalopatier (TSE) har i flere år forekommet atskilt hos mennesker og dyr. Bovin spongiform encefalopati (BSE) ble først konstatert hos storfe i 1986 og ble i årene etterpå konstatert hos andre dyrearter. En ny variant av Creutzfeldt-Jakobs sykdom ble beskrevet i 1996. Det framkommer stadig flere bevis på likhet mellom BSE-agensen og agensen som forårsaker den nye varianten av Creutzfeldt-Jakobs sykdom.Siden 1990 har Fellesskapet vedtatt en rekke tiltak for å verne folkehelsen og dyrehelsen mot risikoen for BSE. Disse tiltakene bygger på vernebestemmelsene i direktivene om dyrehelsetiltak. På bakgrunn av den risikoen som visse former for TSE utgjør for folkehelsen og dyrehelsen, bør det vedtas særlige regler for å forebygge, bekjempe og utrydde disse.Denne forordning vedrører folkehelsen direkte og er relevant for det indre markeds funksjon. Den omfatter produkter både i og utenfor traktatens vedlegg I. Traktatens artikkel 152 nr. 4 bokstav b) bør derfor være det rettslige grunnlag.Kommisjonen har innhentet vitenskapelige uttalelser om flere TSE-spørsmål, særlig fra Styringskomiteen for vitenskapelige spørsmål og Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen. Disse uttalelsene omfatter råd om tiltak for å redusere den mulige risikoen for mennesker og dyr som følge av eksponering for infiserte animalske produkter.Disse reglene bør få anvendelse på produksjon og markedsføring av levende dyr og produkter av animalsk opprinnelse. Det er imidlertid ikke nødvendig at de får anvendelse på kosmetiske produkter og legemidler, medisinsk utstyr eller utgangsmateriale eller halvfabrikata til disse som andre særlige regler får anvendelse på, særlig regler som forbyr bruk av spesifisert risikomateriale. De bør heller ikke få anvendelse på produkter av animalsk opprinnelse som ikke utgjør noen risiko for folkehelsen eller dyrehelsen, siden de er beregnet på andre formål enn produksjon av næringsmidler, fôrvarer eller gjødsel. Det er derimot nødvendig å sikre at produkter av animalsk opprinnelse som ikke omfattes av denne forordning, holdes atskilt fra produktene som omfattes av forordningen, med mindre de minst oppfyller de samme helsemessige standardene som disse.Det bør fastsettes at Kommisjonen kan treffe vernetiltak i tilfeller der vedkommende myndighet i en medlemsstat eller en tredjestat ikke har truffet tilstrekkelige tiltak overfor en TSE-risiko.Det bør fastsettes en framgangsmåte for å bestemme den epidemiologiske statusen i en EØS-stat, en tredjestat eller en region i en av disse (heretter kalt «stater eller regioner») med hensyn til BSE, på grunnlag av risikoen for forekomst (engelsk: «incident risk»), spredning og menneskers eksponering ut fra de opplysningene som foreligger. Medlemsstater og tredjestater som velger ikke å søke om å få sin status bestemt, bør av Kommisjonen klassifiseres i en kategori på grunnlag av alle de opplysningene den har tilgjengelig.Medlemsstatene bør innføre opplæringsprogrammer for personer som deltar i arbeidet med å forebygge og bekjempe TSE, og for veterinærer, gårdbrukere og arbeidere som er beskjeftiget med transport, markedsføring og slakting av produksjonsdyr.
+ut fra følgende betraktninger:
+
+1. Flere forskjellige overførbare spongiforme encefalopatier (TSE) har i flere år forekommet atskilt hos mennesker og dyr. Bovin spongiform encefalopati (BSE) ble først konstatert hos storfe i 1986 og ble i årene etterpå konstatert hos andre dyrearter. En ny variant av Creutzfeldt-Jakobs sykdom ble beskrevet i 1996. Det framkommer stadig flere bevis på likhet mellom BSE-agensen og agensen som forårsaker den nye varianten av Creutzfeldt-Jakobs sykdom.
+2. Siden 1990 har Fellesskapet vedtatt en rekke tiltak for å verne folkehelsen og dyrehelsen mot risikoen for BSE. Disse tiltakene bygger på vernebestemmelsene i direktivene om dyrehelsetiltak. På bakgrunn av den risikoen som visse former for TSE utgjør for folkehelsen og dyrehelsen, bør det vedtas særlige regler for å forebygge, bekjempe og utrydde disse.
+3. Denne forordning vedrører folkehelsen direkte og er relevant for det indre markeds funksjon. Den omfatter produkter både i og utenfor traktatens vedlegg I. Traktatens artikkel 152 nr. 4 bokstav b) bør derfor være det rettslige grunnlag.
+4. Kommisjonen har innhentet vitenskapelige uttalelser om flere TSE-spørsmål, særlig fra Styringskomiteen for vitenskapelige spørsmål og Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen. Disse uttalelsene omfatter råd om tiltak for å redusere den mulige risikoen for mennesker og dyr som følge av eksponering for infiserte animalske produkter.
+5. Disse reglene bør få anvendelse på produksjon og markedsføring av levende dyr og produkter av animalsk opprinnelse. Det er imidlertid ikke nødvendig at de får anvendelse på kosmetiske produkter og legemidler, medisinsk utstyr eller utgangsmateriale eller halvfabrikata til disse som andre særlige regler får anvendelse på, særlig regler som forbyr bruk av spesifisert risikomateriale. De bør heller ikke få anvendelse på produkter av animalsk opprinnelse som ikke utgjør noen risiko for folkehelsen eller dyrehelsen, siden de er beregnet på andre formål enn produksjon av næringsmidler, fôrvarer eller gjødsel. Det er derimot nødvendig å sikre at produkter av animalsk opprinnelse som ikke omfattes av denne forordning, holdes atskilt fra produktene som omfattes av forordningen, med mindre de minst oppfyller de samme helsemessige standardene som disse.
+6. Det bør fastsettes at Kommisjonen kan treffe vernetiltak i tilfeller der vedkommende myndighet i en medlemsstat eller en tredjestat ikke har truffet tilstrekkelige tiltak overfor en TSE-risiko.
+7. Det bør fastsettes en framgangsmåte for å bestemme den epidemiologiske statusen i en EØS-stat, en tredjestat eller en region i en av disse (heretter kalt «stater eller regioner») med hensyn til BSE, på grunnlag av risikoen for forekomst (engelsk: «incident risk»), spredning og menneskers eksponering ut fra de opplysningene som foreligger. Medlemsstater og tredjestater som velger ikke å søke om å få sin status bestemt, bør av Kommisjonen klassifiseres i en kategori på grunnlag av alle de opplysningene den har tilgjengelig.
+8. Medlemsstatene bør innføre opplæringsprogrammer for personer som deltar i arbeidet med å forebygge og bekjempe TSE, og for veterinærer, gårdbrukere og arbeidere som er beskjeftiget med transport, markedsføring og slakting av produksjonsdyr.
 
 ►**M30**
 
@@ -372,7 +472,12 @@ Alminnelige bestemmelser
 
 1\. Denne forordning fastsetter regler for å forebygge, bekjempe og utrydde overførbare spongiforme encefalopatier (TSE) hos dyr. Den får anvendelse på produksjon og markedsføring av levende dyr og produkter av animalsk opprinnelse og i visse særlige tilfeller på eksport av disse.
 
-2\. Denne forordning får ikke anvendelse på:kosmetiske produkter, legemidler eller medisinsk utstyr eller utgangsmateriale eller halvfabrikata til disse,produkter, eller utgangsmateriale eller halvfabrikata til disse, som ikke er beregnet på bruk i næringsmidler, fôrvarer eller gjødsel,produkter av animalsk opprinnelse beregnet på utstilling, undervisning, forskning, særlige undersøkelser eller analyser, forutsatt at disse produktene ikke senere blir konsumert eller brukt av mennesker eller av andre dyr enn dem som holdes med sikte på de aktuelle forskningsprosjektene,levende dyr som brukes i eller er beregnet på forskning.
+2\. Denne forordning får ikke anvendelse på:
+
+1. kosmetiske produkter, legemidler eller medisinsk utstyr eller utgangsmateriale eller halvfabrikata til disse,
+2. produkter, eller utgangsmateriale eller halvfabrikata til disse, som ikke er beregnet på bruk i næringsmidler, fôrvarer eller gjødsel,
+3. produkter av animalsk opprinnelse beregnet på utstilling, undervisning, forskning, særlige undersøkelser eller analyser, forutsatt at disse produktene ikke senere blir konsumert eller brukt av mennesker eller av andre dyr enn dem som holdes med sikte på de aktuelle forskningsprosjektene,
+4. levende dyr som brukes i eller er beregnet på forskning.
 
 ### Artikkel 2. Atskillelse av levende dyr og produkter av animalsk opprinnelse
 
@@ -382,7 +487,19 @@ Nærmere regler for gjennomføringen av denne artikkel skal vedtas etter framgan
 
 ### Artikkel 3. Definisjoner
 
-1\. I denne forordning menes med:«TSE»: alle overførbare spongiforme encefalopatier, unntatt dem som forekommer hos mennesker,«markedsføring»: enhver aktivitet med det formål å selge levende dyr eller produkter av animalsk opprinnelse som omfattes av denne forordning, til en tredjepart i EØS-området, eller enhver annen form for levering, mot betaling eller gratis, til en slik tredjepart, eller lagring med henblikk på senere levering til en slik tredjepart,«produkter av animalsk opprinnelse»: ethvert produkt som er framstilt av eller inneholder et produkt som er framstilt av et dyr som omfattes av bestemmelsene i direktiv [89/662/EØF](eu/31989l0662*) eller direktiv [90/425/EØF](eu/31990l0425),«utgangsmateriale»: råstoffer eller andre produkter av animalsk opprinnelse som produktene nevnt i artikkel 1 nr. 2 bokstav a) og b) er framstilt av eller ved hjelp av,«vedkommende myndighet»: den sentrale myndigheten i en EØS-stat som har myndighet til å sikre at kravene i denne forordning overholdes, eller enhver annen myndighet som den sentrale myndigheten har delegert denne myndigheten til, særlig med hensyn til kontroll av fôrvarer; definisjonen skal, når det er hensiktsmessig, også omfatte tilsvarende myndighet i en tredjestat,«kategori»: en av klassifiseringskategoriene nevnt i kapittel C i vedlegg II,«spesifisert risikomateriale»: vevet nevnt i vedlegg V; med mindre annet er angitt, omfatter denne definisjonen ikke produkter som inneholder eller er framstilt av slikt vev,«dyr som er mistenkt for å være angrepet eller infisert av TSE»: levende, slaktede eller døde dyr som har tegn på eller har hatt tegn på nevrologiske forstyrrelser eller atferdsforstyrrelser eller en gradvis svekkelse av allmenntilstanden som følge av forstyrrelser i sentralnervesystemet, og som det er innhentet opplysninger om på grunnlag av en klinisk undersøkelse, reaksjon på behandling, kontroll post mortem eller laboratorieanalyse ante mortem eller post mortem som ikke gjør det mulig å stille en annen diagnose. Storfe som har gitt positivt resultat ved en egen hurtigprøve for BSE, skal mistenkes for å være angrepet av bovin spongiform encefalopati (BSE),«driftsenhet»: ethvert sted der dyr som omfattes av denne forordning, holdes, oppdrettes, håndteres eller utstilles,«prøvetaking»: når det tas prøver av dyr eller deres miljø eller av produkter av animalsk opprinnelse slik at det sikres en statistisk riktig representasjon, med det formål å diagnostisere en sykdom, fastslå slektskap, overvåke dyrehelsen eller kontrollere at det ikke forekommer mikrobiologiske agenser eller visse materialer i produkter av animalsk opprinnelse,«gjødsel»: ethvert stoff som inneholder produkter av animalsk opprinnelse, og som brukes på jorden for å fremme planteveksten; det kan omfatte fordøyelsesrester fra biogassproduksjon eller kompostering,
+1\. I denne forordning menes med:
+
+1. «TSE»: alle overførbare spongiforme encefalopatier, unntatt dem som forekommer hos mennesker,
+2. «markedsføring»: enhver aktivitet med det formål å selge levende dyr eller produkter av animalsk opprinnelse som omfattes av denne forordning, til en tredjepart i EØS-området, eller enhver annen form for levering, mot betaling eller gratis, til en slik tredjepart, eller lagring med henblikk på senere levering til en slik tredjepart,
+3. «produkter av animalsk opprinnelse»: ethvert produkt som er framstilt av eller inneholder et produkt som er framstilt av et dyr som omfattes av bestemmelsene i direktiv [89/662/EØF](eu/31989l0662*) eller direktiv [90/425/EØF](eu/31990l0425),
+4. «utgangsmateriale»: råstoffer eller andre produkter av animalsk opprinnelse som produktene nevnt i artikkel 1 nr. 2 bokstav a) og b) er framstilt av eller ved hjelp av,
+5. «vedkommende myndighet»: den sentrale myndigheten i en EØS-stat som har myndighet til å sikre at kravene i denne forordning overholdes, eller enhver annen myndighet som den sentrale myndigheten har delegert denne myndigheten til, særlig med hensyn til kontroll av fôrvarer; definisjonen skal, når det er hensiktsmessig, også omfatte tilsvarende myndighet i en tredjestat,
+6. «kategori»: en av klassifiseringskategoriene nevnt i kapittel C i vedlegg II,
+7. «spesifisert risikomateriale»: vevet nevnt i vedlegg V; med mindre annet er angitt, omfatter denne definisjonen ikke produkter som inneholder eller er framstilt av slikt vev,
+8. «dyr som er mistenkt for å være angrepet eller infisert av TSE»: levende, slaktede eller døde dyr som har tegn på eller har hatt tegn på nevrologiske forstyrrelser eller atferdsforstyrrelser eller en gradvis svekkelse av allmenntilstanden som følge av forstyrrelser i sentralnervesystemet, og som det er innhentet opplysninger om på grunnlag av en klinisk undersøkelse, reaksjon på behandling, kontroll post mortem eller laboratorieanalyse ante mortem eller post mortem som ikke gjør det mulig å stille en annen diagnose. Storfe som har gitt positivt resultat ved en egen hurtigprøve for BSE, skal mistenkes for å være angrepet av bovin spongiform encefalopati (BSE),
+9. «driftsenhet»: ethvert sted der dyr som omfattes av denne forordning, holdes, oppdrettes, håndteres eller utstilles,
+10. «prøvetaking»: når det tas prøver av dyr eller deres miljø eller av produkter av animalsk opprinnelse slik at det sikres en statistisk riktig representasjon, med det formål å diagnostisere en sykdom, fastslå slektskap, overvåke dyrehelsen eller kontrollere at det ikke forekommer mikrobiologiske agenser eller visse materialer i produkter av animalsk opprinnelse,
+11. «gjødsel»: ethvert stoff som inneholder produkter av animalsk opprinnelse, og som brukes på jorden for å fremme planteveksten; det kan omfatte fordøyelsesrester fra biogassproduksjon eller kompostering,
 
 ►**M30**
 
@@ -417,13 +534,27 @@ Bestemmelse av BSE-status
 
 ►**M30**
 
-1\. BSE-status i EØS-stater eller tredjestater eller en region i en av disse (heretter kalt «stater eller regioner») skal bestemmes ved klassifisering i én av følgende tre kategorier:ubetydelig BSE-risiko som definert i vedlegg II,kontrollert BSE-risiko som definert i vedlegg II,ikke-fastsatt BSE-risiko som definert i vedlegg II.BSE-statusen i stater eller regioner kan bestemmes bare på grunnlag av kriteriene fastsatt i vedlegg II kapittel A. Disse kriteriene skal omfatte resultatene av en risikoanalyse som identifiserer alle potensielle faktorer for forekomsten av BSE som definert i vedlegg II kapittel B, og hvordan de utvikler seg over tid, samt omfattende aktive og passive overvåkingstiltak som tar hensyn til statens eller regionens risikokategori.EØS-stater og tredjestater som ønsker å bli stående på listen over tredjestater som er godkjent for eksport til EØS-området av levende dyr eller produkter som omfattes av denne forordning, skal framlegge for ESA/Kommisjonen en søknad om å få sin BSE-status bestemt, ledsaget av relevante opplysninger om kriteriene nevnt i vedlegg II kapittel A, de mulige risikofaktorene fastsatt i vedlegg II kapittel B, og hvordan de utvikler seg over tid.
+1\. BSE-status i EØS-stater eller tredjestater eller en region i en av disse (heretter kalt «stater eller regioner») skal bestemmes ved klassifisering i én av følgende tre kategorier:
+
+- ubetydelig BSE-risiko som definert i vedlegg II,
+- kontrollert BSE-risiko som definert i vedlegg II,
+- ikke-fastsatt BSE-risiko som definert i vedlegg II.
+
+BSE-statusen i stater eller regioner kan bestemmes bare på grunnlag av kriteriene fastsatt i vedlegg II kapittel A. Disse kriteriene skal omfatte resultatene av en risikoanalyse som identifiserer alle potensielle faktorer for forekomsten av BSE som definert i vedlegg II kapittel B, og hvordan de utvikler seg over tid, samt omfattende aktive og passive overvåkingstiltak som tar hensyn til statens eller regionens risikokategori.
+
+EØS-stater og tredjestater som ønsker å bli stående på listen over tredjestater som er godkjent for eksport til EØS-området av levende dyr eller produkter som omfattes av denne forordning, skal framlegge for ESA/Kommisjonen en søknad om å få sin BSE-status bestemt, ledsaget av relevante opplysninger om kriteriene nevnt i vedlegg II kapittel A, de mulige risikofaktorene fastsatt i vedlegg II kapittel B, og hvordan de utvikler seg over tid.
 
 ◄**M30**
 
-2\. Det skal etter framgangsmåten fastsatt i artikkel 24 nr. 2, og idet det tas hensyn til kriteriene og de potensielle risikofaktorene nevnt i nr. 1, gjøres et vedtak om hver søknad for å klassifisere EØS-staten eller tredjestaten eller regionen i EØS-staten eller tredjestaten som framla søknaden, i en av kategoriene fastsatt i vedlegg II kapittel C.Dette vedtaket skal gjøres innen seks måneder etter at søknaden og de relevante opplysningene nevnt i nr. 1 annet ledd, ble framlagt. Dersom Kommisjonen finner at underlagsmaterialet ikke inneholder opplysningene fastsatt i vedlegg II kapittel A og B, skal den be om at ytterligere opplysninger framlegges innen en frist som skal fastsettes. Det endelige vedtaket skal deretter gjøres innen seks måneder etter at alle opplysningene er framlagt.Etter at Verdens Dyrehelseorganisasjon (OIE) har fastsatt en framgangsmåte for å klassifisere stater i kategorier, og dersom OIE har klassifisert søkerstaten i en av disse kategoriene, kan det etter framgangsmåten fastsatt i artikkel 24 nr. 2, eventuelt gjøres vedtak om en ny vurdering av Fellesskapets kategorisering av den berørte staten i samsvar med første ledd i dette nummer.
+2\. Det skal etter framgangsmåten fastsatt i artikkel 24 nr. 2, og idet det tas hensyn til kriteriene og de potensielle risikofaktorene nevnt i nr. 1, gjøres et vedtak om hver søknad for å klassifisere EØS-staten eller tredjestaten eller regionen i EØS-staten eller tredjestaten som framla søknaden, i en av kategoriene fastsatt i vedlegg II kapittel C.
 
-3\. Dersom Kommisjonen finner at opplysningene som en EØS-stat eller tredjestat framlegger i samsvar med bestemmelsene i vedlegg II kapittel A og B, er ufullstendige eller uklare, kan den etter framgangsmåten fastsatt i artikkel 24 nr. 2, bestemme BSE-statusen i den berørte EØS-staten eller tredjestaten på grunnlag av en fullstendig risikoanalyse.En slik risikoanalyse forutsetter at det utarbeides en fullstendig statistisk oversikt over den epidemiologiske situasjonen med hensyn til TSE i søker-EØS-staten eller -tredjestaten på grunnlag av bruken av hurtigprøver i en kartleggingsrutine. Kommisjonen skal ta hensyn til klassifiseringskriteriene som OIE bruker.
+Dette vedtaket skal gjøres innen seks måneder etter at søknaden og de relevante opplysningene nevnt i nr. 1 annet ledd, ble framlagt. Dersom Kommisjonen finner at underlagsmaterialet ikke inneholder opplysningene fastsatt i vedlegg II kapittel A og B, skal den be om at ytterligere opplysninger framlegges innen en frist som skal fastsettes. Det endelige vedtaket skal deretter gjøres innen seks måneder etter at alle opplysningene er framlagt.
+
+Etter at Verdens Dyrehelseorganisasjon (OIE) har fastsatt en framgangsmåte for å klassifisere stater i kategorier, og dersom OIE har klassifisert søkerstaten i en av disse kategoriene, kan det etter framgangsmåten fastsatt i artikkel 24 nr. 2, eventuelt gjøres vedtak om en ny vurdering av Fellesskapets kategorisering av den berørte staten i samsvar med første ledd i dette nummer.
+
+3\. Dersom Kommisjonen finner at opplysningene som en EØS-stat eller tredjestat framlegger i samsvar med bestemmelsene i vedlegg II kapittel A og B, er ufullstendige eller uklare, kan den etter framgangsmåten fastsatt i artikkel 24 nr. 2, bestemme BSE-statusen i den berørte EØS-staten eller tredjestaten på grunnlag av en fullstendig risikoanalyse.
+
+En slik risikoanalyse forutsetter at det utarbeides en fullstendig statistisk oversikt over den epidemiologiske situasjonen med hensyn til TSE i søker-EØS-staten eller -tredjestaten på grunnlag av bruken av hurtigprøver i en kartleggingsrutine. Kommisjonen skal ta hensyn til klassifiseringskriteriene som OIE bruker.
 
 ►**M44**
 
@@ -443,7 +574,9 @@ Kostnadene ved en slik kartlegging skal dekkes av den berørte EØS-staten eller
 
 5\. EØS-statene skal snarest mulig underrette Kommisjonen om alle epidemiologiske eller andre opplysninger som kan føre til at BSE-statusen endres, særlig resultatene av overvåkingsprogrammene fastsatt i artikkel 6.
 
-6\. Etter framgangsmåten fastsatt i artikkel 24 nr. 2, fastsettes det som vilkår for at en tredjestat skal bli stående på en av listene som er fastsatt i EØS-reglene for det formål å kunne eksportere til EØS-området levende dyr og produkter av animalsk opprinnelse som denne forordning fastsetter særlige regler for, at den berørte stat – på grunnlag av de opplysningene som foreligger eller når det antas at TSE forekommer – framlegger opplysningene fastsatt i nr. 1. Dersom tredjestaten ikke gir de nevnte opplysningene innen tre måneder etter at Kommisjonen har bedt om dem, får bestemmelsene i nr. 4 i denne artikkel anvendelse til disse opplysningene er framlagt og evaluert i samsvar med nr. 2 eller 3.Tredjestatenes rett til å eksportere til EØS-området levende dyr eller produkter av animalsk opprinnelse som denne forordning fastsetter særlige regler for, på de vilkårene som er knyttet til den kategorien Kommisjonen har klassifisert dem i, er betinget av at de forplikter seg til straks å underrette Kommisjonen skriftlig om alle epidemiologiske eller andre opplysninger som kan føre til at BSE-statusen endres.
+6\. Etter framgangsmåten fastsatt i artikkel 24 nr. 2, fastsettes det som vilkår for at en tredjestat skal bli stående på en av listene som er fastsatt i EØS-reglene for det formål å kunne eksportere til EØS-området levende dyr og produkter av animalsk opprinnelse som denne forordning fastsetter særlige regler for, at den berørte stat – på grunnlag av de opplysningene som foreligger eller når det antas at TSE forekommer – framlegger opplysningene fastsatt i nr. 1. Dersom tredjestaten ikke gir de nevnte opplysningene innen tre måneder etter at Kommisjonen har bedt om dem, får bestemmelsene i nr. 4 i denne artikkel anvendelse til disse opplysningene er framlagt og evaluert i samsvar med nr. 2 eller 3.
+
+Tredjestatenes rett til å eksportere til EØS-området levende dyr eller produkter av animalsk opprinnelse som denne forordning fastsetter særlige regler for, på de vilkårene som er knyttet til den kategorien Kommisjonen har klassifisert dem i, er betinget av at de forplikter seg til straks å underrette Kommisjonen skriftlig om alle epidemiologiske eller andre opplysninger som kan føre til at BSE-statusen endres.
 
 7\. Etter framgangsmåten fastsatt i artikkel 24 nr. 2, kan det gjøres vedtak om å endre BSE-klassifiseringen til en EØS-stat eller tredjestat eller en av dens regioner på grunnlag av resultatene av kontrollen fastsatt i artikkel 21.
 
@@ -456,11 +589,27 @@ Forebygging av TSE
 
 ►**M30**
 
-1\. Hver EØS-stat skal gjennomføre et årlig program for overvåking av TSE i form av aktiv eller passiv overvåking i samsvar med vedlegg III. Programmet skal omfatte en screeningprosedyre med bruk av hurtigprøver, dersom slikt finnes for den aktuelle dyrearten.Hurtigprøvene skal godkjennes for dette formål etter framgangsmåten fastsatt i artikkel 24 nr. 3 og oppføres på listen i vedlegg X.
+1\. Hver EØS-stat skal gjennomføre et årlig program for overvåking av TSE i form av aktiv eller passiv overvåking i samsvar med vedlegg III. Programmet skal omfatte en screeningprosedyre med bruk av hurtigprøver, dersom slikt finnes for den aktuelle dyrearten.
 
-1a. Det årlige programmet for overvåking som nevnt i nr. 1 skal omfatte minst følgende delpopulasjoner:alt storfe over 24 måneder som er sendt til nødslakting eller med kliniske symptomer ved kontroll ante mortem,1alt storfe over 30 måneder som er slaktet på vanlig måte med henblikk på konsum,2alt storfe over 24 måneder som ikke er slaktet med henblikk på konsum og er døde eller er blitt avlivet på driftsenheten, under transport eller på et slakteri (selvdøde dyr).1EØS-statene kan gjøre unntak fra bestemmelsen i bokstav c) i fjerntliggende områder med lav dyretetthet, der det ikke organiseres innsamling av døde dyr. EØS-stater som benytter denne muligheten, skal underrette ESA/Kommisjonen og framlegge en liste over de berørte områdene med en begrunnelse for unntaket. Unntaket skal ikke omfatte mer enn 10 % av storfebestanden i en EØS-stat.
+Hurtigprøvene skal godkjennes for dette formål etter framgangsmåten fastsatt i artikkel 24 nr. 3 og oppføres på listen i vedlegg X.
 
-1b. Etter samråd med den relevante vitenskapskomiteen, kan alderen fastsatt i nr. 1a bokstav a) og c) tilpasses i henhold til den vitenskapelige utviklingen, i samsvar med framgangsmåten nevnt i artikkel 24 nr. 3.På anmodning fra en EØS-stat som kan påvise en forbedring i den epidemiologiske situasjonen i staten, og i henhold til visse kriterier som skal fastsettes i samsvar med framgangsmåten i artikkel 24 nr. 3, kan de årlige programmene for overvåking for den gjeldende staten revideres.Den berørte EØS-staten skal framlegge bevis for at den er i stand til å fastsette effektiviteten ved nåværende tiltak og sikre vern av menneskers og dyrs helse på grunnlag av en omfattende risikoanalyse. EØS-staten skal særlig kunne påvise:at prevalensen av BSE er klart fallende eller konstant lav, basert på ajourførte prøveresultater,at den i minst seks år har gjennomført og håndhevet et fullt kartleggingsprogram for BSE (EØS-regelverk for sporbarhet og identifisering av levende dyr og overvåking av BSE),at den i minst seks år har gjennomført og håndhevet Fellesskapets regelverk for totalt fôrforbud for produksjonsdyr.
+1a. Det årlige programmet for overvåking som nevnt i nr. 1 skal omfatte minst følgende delpopulasjoner:
+
+1. alt storfe over 24 måneder som er sendt til nødslakting eller med kliniske symptomer ved kontroll ante mortem,1
+2. alt storfe over 30 måneder som er slaktet på vanlig måte med henblikk på konsum,2
+3. alt storfe over 24 måneder som ikke er slaktet med henblikk på konsum og er døde eller er blitt avlivet på driftsenheten, under transport eller på et slakteri (selvdøde dyr).1
+
+EØS-statene kan gjøre unntak fra bestemmelsen i bokstav c) i fjerntliggende områder med lav dyretetthet, der det ikke organiseres innsamling av døde dyr. EØS-stater som benytter denne muligheten, skal underrette ESA/Kommisjonen og framlegge en liste over de berørte områdene med en begrunnelse for unntaket. Unntaket skal ikke omfatte mer enn 10 % av storfebestanden i en EØS-stat.
+
+1b. Etter samråd med den relevante vitenskapskomiteen, kan alderen fastsatt i nr. 1a bokstav a) og c) tilpasses i henhold til den vitenskapelige utviklingen, i samsvar med framgangsmåten nevnt i artikkel 24 nr. 3.
+
+På anmodning fra en EØS-stat som kan påvise en forbedring i den epidemiologiske situasjonen i staten, og i henhold til visse kriterier som skal fastsettes i samsvar med framgangsmåten i artikkel 24 nr. 3, kan de årlige programmene for overvåking for den gjeldende staten revideres.
+
+Den berørte EØS-staten skal framlegge bevis for at den er i stand til å fastsette effektiviteten ved nåværende tiltak og sikre vern av menneskers og dyrs helse på grunnlag av en omfattende risikoanalyse. EØS-staten skal særlig kunne påvise:
+
+1. at prevalensen av BSE er klart fallende eller konstant lav, basert på ajourførte prøveresultater,
+2. at den i minst seks år har gjennomført og håndhevet et fullt kartleggingsprogram for BSE (EØS-regelverk for sporbarhet og identifisering av levende dyr og overvåking av BSE),
+3. at den i minst seks år har gjennomført og håndhevet Fellesskapets regelverk for totalt fôrforbud for produksjonsdyr.
 
 ◄**M30**
 
@@ -474,7 +623,9 @@ Forebygging av TSE
 
 5\. Gjennomføringsreglene for denne artikkel skal vedtas etter framgangsmåten nevnt i artikkel 24 nr. 2.
 
-1 Unntak følger av [§ 4b](forskrift/2004-03-30-595/§4b). Testing av denne gruppen gjelder for dyr eldre enn 48 måneder.2 Unntak følger av [§ 4b](forskrift/2004-03-30-595/§4b). Det er ikke nødvendig å teste dyr i denne gruppen.
+1 Unntak følger av [§ 4b](forskrift/2004-03-30-595/§4b). Testing av denne gruppen gjelder for dyr eldre enn 48 måneder.
+
+2 Unntak følger av [§ 4b](forskrift/2004-03-30-595/§4b). Det er ikke nødvendig å teste dyr i denne gruppen.
 
 ### Artikkel 6a. Avlsprogrammer
 
@@ -494,9 +645,15 @@ Forebygging av TSE
 
 2\. Forbudet fastsatt i nr. 1 skal utvides til å omfatte andre dyr enn drøvtyggere og begrenses når det gjelder fôring av disse dyrene med produkter av animalsk opprinnelse i samsvar med vedlegg IV.
 
-3\. Nr. 1 og 2 får anvendelse med forbehold for bestemmelsene i vedlegg IV om unntak fra forbudet i nevnte numre.Kommisjonen kan etter framgangsmåten i artikkel 24 nr. 3 og på grunnlag av en vitenskapelig vurdering av fôrbehovet til unge drøvtyggere og i samsvar med gjennomføringsreglene i nr. 5 i denne artikkel, samt etter å ha vurdert de kontrollmessige sidene ved unntaket, tillate bruk av proteiner fra fisk i fôr til unge drøvtyggere.
+3\. Nr. 1 og 2 får anvendelse med forbehold for bestemmelsene i vedlegg IV om unntak fra forbudet i nevnte numre.
 
-4\. EØS-stater eller regioner i EØS-stater med ikke-fastsatt BSE-risiko, har ikke tillatelse til å eksportere eller lagre fôrvarer beregnet på produksjonsdyr, som inneholder protein fra pattedyr, eller fôrvarer beregnet på pattedyr, unntatt hunder, katter og pelsdyr, som inneholder bearbeidet protein fra pattedyr.Tredjestater eller regioner i tredjestater med ikke-fastsatt BSE-risiko, har ikke tillatelse til å eksportere til EØS-området fôrvarer beregnet på produksjonsdyr, som inneholder protein fra pattedyr, eller fôrvarer beregnet på pattedyr, unntatt hunder, katter og pelsdyr, som inneholder bearbeidet protein fra pattedyr.På anmodning fra en EØS-stat eller tredjestat kan det etter framgangsmåten nevnt i artikkel 24 nr. 2 treffes beslutning om å gjøre individuelle unntak fra begrensningene i dette nummer i samsvar med nærmere kriterier som skal fastlegges etter framgangsmåten i artikkel 24 nr. 3. Alle unntak skal ta hensyn til bestemmelsene i nr. 3 i denne artikkel.
+Kommisjonen kan etter framgangsmåten i artikkel 24 nr. 3 og på grunnlag av en vitenskapelig vurdering av fôrbehovet til unge drøvtyggere og i samsvar med gjennomføringsreglene i nr. 5 i denne artikkel, samt etter å ha vurdert de kontrollmessige sidene ved unntaket, tillate bruk av proteiner fra fisk i fôr til unge drøvtyggere.
+
+4\. EØS-stater eller regioner i EØS-stater med ikke-fastsatt BSE-risiko, har ikke tillatelse til å eksportere eller lagre fôrvarer beregnet på produksjonsdyr, som inneholder protein fra pattedyr, eller fôrvarer beregnet på pattedyr, unntatt hunder, katter og pelsdyr, som inneholder bearbeidet protein fra pattedyr.
+
+Tredjestater eller regioner i tredjestater med ikke-fastsatt BSE-risiko, har ikke tillatelse til å eksportere til EØS-området fôrvarer beregnet på produksjonsdyr, som inneholder protein fra pattedyr, eller fôrvarer beregnet på pattedyr, unntatt hunder, katter og pelsdyr, som inneholder bearbeidet protein fra pattedyr.
+
+På anmodning fra en EØS-stat eller tredjestat kan det etter framgangsmåten nevnt i artikkel 24 nr. 2 treffes beslutning om å gjøre individuelle unntak fra begrensningene i dette nummer i samsvar med nærmere kriterier som skal fastlegges etter framgangsmåten i artikkel 24 nr. 3. Alle unntak skal ta hensyn til bestemmelsene i nr. 3 i denne artikkel.
 
 4a. På grunnlag av en gunstig risikovurdering som minst omfatter mengden og den mulige kontamineringskilden samt sendingens endelige bestemmelsessted, kan det etter framgangsmåten nevnt i artikkel 24 nr. 3, treffes beslutning om å innføre en toleranseterskel for ubetydelige mengder animalsk protein i fôrvarer forårsaket av utilsiktet og teknisk uunngåelig kontaminering.
 
@@ -512,7 +669,9 @@ Forebygging av TSE
 
 Listen over spesifisert risikomateriale nevnt i vedlegg V skal minst omfatte hjerne, ryggmarg, øyne og mandler fra storfe som er over tolv måneder, samt virvelsøyle fra storfe over en bestemt alder som skal fastsettes etter framgangsmåten nevnt i artikkel 24 nr. 3. Idet det tas hensyn til de ulike risikokategoriene som er fastsatt i artikkel 5 nr. 1 første ledd samt kravene i artikkel 6 nr. 1a og 1b, skal listen over spesifisert risikomateriale i vedlegg V endres tilsvarende.
 
-2\. Nr. 1 i denne artikkel får ikke anvendelse på vev fra dyr som har gjennomgått en alternativ prøve som er godkjent for dette særlige formålet etter framgangsmåten fastsatt i artikkel 24 nr. 3, forutsatt at prøven er ført på listen i vedlegg X, at prøven er utført på vilkårene oppført i vedlegg V og resultatene av prøven er negative.EØS-stater som godkjenner bruk av en alternativ prøve i samsvar med dette nummer, skal underrette de øvrige EØS-statene og ESA/Kommisjonen om dette.
+2\. Nr. 1 i denne artikkel får ikke anvendelse på vev fra dyr som har gjennomgått en alternativ prøve som er godkjent for dette særlige formålet etter framgangsmåten fastsatt i artikkel 24 nr. 3, forutsatt at prøven er ført på listen i vedlegg X, at prøven er utført på vilkårene oppført i vedlegg V og resultatene av prøven er negative.
+
+EØS-stater som godkjenner bruk av en alternativ prøve i samsvar med dette nummer, skal underrette de øvrige EØS-statene og ESA/Kommisjonen om dette.
 
 3\. I EØS-stater eller regioner i EØS-stater med kontrollert eller ikke-fastsatt BSE-risiko, skal sentralnervevev hos storfe, sauer eller geiter hvis kjøtt er beregnet på konsum eller fôr, ikke ødelegges ved at et avlangt stavformet instrument etter bedøving føres inn i kraniehulen, eller ved innsprøyting av gass i kraniehulen i forbindelse med bedøvelse.
 
@@ -569,7 +728,15 @@ Vedkommende myndighet skal omgående treffe de tiltak som er fastsatt i artikkel
 
 ►**M30**
 
-1\. Det skal innføres offentlige restriksjoner på forflytning av alle dyr som er mistenkt for å være angrepet av TSE, til resultatene av en klinisk og epidemiologisk undersøkelse som vedkommende myndighet foretar, er kjent, eller til dyret avlives med henblikk på laboratorieundersøkelse under offentlig tilsyn.Dersom det er offisiell mistanke om forekomst av TSE hos storfe i en driftsenhet i en EØS-stat, skal det innføres offentlige restriksjoner på forflytning av alt annet storfe i denne driftsenheten, til resultatene av undersøkelsen foreligger. Dersom det er offisiell mistanke om forekomst av TSE hos en sau eller geit i en driftsenhet i en EØS-stat, skal det innføres offentlige restriksjoner på forflytning av alle andre sauer og geiter i denne driftsenheten, til resultatene av undersøkelsen foreligger.Dersom det imidlertid kan dokumenteres at det er usannsynlig at driftsenheten der dyret oppholdt seg da det oppstod mistanke om TSE, er driftsenheten der dyret kan ha blitt utsatt for TSE, kan vedkommende myndighet bestemme at det skal innføres offentlige restriksjoner på forflytning bare for det dyret som er mistenkt for å være angrepet.Dersom det vurderes som nødvendig, kan vedkommende myndighet også bestemme at andre driftsenheter eller bare den utsatte driftsenheten skal settes under offentlig tilsyn, avhengig av de epidemiologiske opplysningene som foreligger.En EØS-stat kan etter framgangsmåten fastsatt i artikkel 24 nr. 2, og som unntak fra offisielle restriksjoner når det gjelder flytting av dyr som fastsatt i dette nummer, fritas fra å anvende slike restriksjoner, dersom den gjennomfører tiltak som gir tilsvarende garantier, på grunnlag av en hensiktsmessig vurdering av mulige risikoer for menneskers og dyrs helse.
+1\. Det skal innføres offentlige restriksjoner på forflytning av alle dyr som er mistenkt for å være angrepet av TSE, til resultatene av en klinisk og epidemiologisk undersøkelse som vedkommende myndighet foretar, er kjent, eller til dyret avlives med henblikk på laboratorieundersøkelse under offentlig tilsyn.
+
+Dersom det er offisiell mistanke om forekomst av TSE hos storfe i en driftsenhet i en EØS-stat, skal det innføres offentlige restriksjoner på forflytning av alt annet storfe i denne driftsenheten, til resultatene av undersøkelsen foreligger. Dersom det er offisiell mistanke om forekomst av TSE hos en sau eller geit i en driftsenhet i en EØS-stat, skal det innføres offentlige restriksjoner på forflytning av alle andre sauer og geiter i denne driftsenheten, til resultatene av undersøkelsen foreligger.
+
+Dersom det imidlertid kan dokumenteres at det er usannsynlig at driftsenheten der dyret oppholdt seg da det oppstod mistanke om TSE, er driftsenheten der dyret kan ha blitt utsatt for TSE, kan vedkommende myndighet bestemme at det skal innføres offentlige restriksjoner på forflytning bare for det dyret som er mistenkt for å være angrepet.
+
+Dersom det vurderes som nødvendig, kan vedkommende myndighet også bestemme at andre driftsenheter eller bare den utsatte driftsenheten skal settes under offentlig tilsyn, avhengig av de epidemiologiske opplysningene som foreligger.
+
+En EØS-stat kan etter framgangsmåten fastsatt i artikkel 24 nr. 2, og som unntak fra offisielle restriksjoner når det gjelder flytting av dyr som fastsatt i dette nummer, fritas fra å anvende slike restriksjoner, dersom den gjennomfører tiltak som gir tilsvarende garantier, på grunnlag av en hensiktsmessig vurdering av mulige risikoer for menneskers og dyrs helse.
 
 ◄**M30**
 
@@ -592,9 +759,9 @@ Vedkommende myndighet skal omgående treffe de tiltak som er fastsatt i artikkel
 ►**M30**
 
 1. alle dyrets kroppsdeler skal destrueres i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*), unntatt materiale som holdes tilbake for registrering i samsvar med kapittel B i vedlegg III til denne forordning.1
-◄**M30**
+   ◄**M30**
 2. det skal gjennomføres en undersøkelse for å finne fram til alle dyr som er i fare for å bli angrepet, i samsvar med vedlegg VII nr. 1.
-►**M30**
+   ►**M30**
 3. alle dyr og produkter av animalsk opprinnelse som er oppført i vedlegg VII nr. 2 til denne forordning og i undersøkelsen nevnt i bokstav b) i dette nummer er identifisert som å stå i fare for å bli angrepet, skal nedslaktes og destrueres i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*).1
 
 På anmodning fra en EØS-stat og på grunnlag av en gunstig risikovurdering som særlig tar hensyn til kontrolltiltak i gjeldende EØS-stat, kan det etter framgangsmåten nevnt i artikkel 24 nr. 2, treffes beslutning om å tillate bruk av storfe som omhandlet i dette nummer, inntil dyrene ikke lenger benyttes til produksjon.
@@ -607,7 +774,9 @@ Som unntak fra bestemmelsene i dette nummer kan en medlemsstat på grunnlag av e
 
 ◄**M44**
 
-2\. I påvente av at tiltakene nevnt i nr. 1 bokstav b) og c) blir gjennomført, skal driftsenheten der dyret oppholdt seg da forekomsten av TSE ble bekreftet, settes under offentlig tilsyn, og all forflytning til eller fra driftsenheten av dyr som er mottakelige for TSE, og av produkter av animalsk opprinnelse framstilt av disse, skal finne sted bare med tillatelse fra vedkommende myndighet, slik at de berørte dyrene og produktene av animalsk opprinnelse kan spores og identifiseres umiddelbart.Dersom det kan dokumenteres at det ikke er sannsynlig at driftsenheten der det angrepne dyret oppholdt seg da TSE ble bekreftet, er driftsenheten der dyret ble utsatt for TSE, kan vedkommende myndighet bestemme at begge driftsenhetene eller bare driftsenheten der dyret ble utsatt for TSE, skal settes under offentlig tilsyn.
+2\. I påvente av at tiltakene nevnt i nr. 1 bokstav b) og c) blir gjennomført, skal driftsenheten der dyret oppholdt seg da forekomsten av TSE ble bekreftet, settes under offentlig tilsyn, og all forflytning til eller fra driftsenheten av dyr som er mottakelige for TSE, og av produkter av animalsk opprinnelse framstilt av disse, skal finne sted bare med tillatelse fra vedkommende myndighet, slik at de berørte dyrene og produktene av animalsk opprinnelse kan spores og identifiseres umiddelbart.
+
+Dersom det kan dokumenteres at det ikke er sannsynlig at driftsenheten der det angrepne dyret oppholdt seg da TSE ble bekreftet, er driftsenheten der dyret ble utsatt for TSE, kan vedkommende myndighet bestemme at begge driftsenhetene eller bare driftsenheten der dyret ble utsatt for TSE, skal settes under offentlig tilsyn.
 
 3\. Etter framgangsmåten fastsatt i artikkel 24 nr. 2, kan EØS-stater som har iverksatt en alternativ ordning som gir tilsvarende garantier som fastsatt i artikkel 12 nr. 1 femte ledd, som unntak fra kravene i nr. 1 bokstav b) og c) fritas fra kravet om å innføre offentlige restriksjoner på forflytning av dyr, og fra kravet om å nedslakte og destruere dyr.
 
@@ -644,12 +813,24 @@ Markedsføring og eksport
 
 ### Artikkel 16. Markedsføring av produkter av animalsk opprinnelse
 
-1\. Følgende produkter av animalsk opprinnelse framstilt av friske drøvtyggere, skal ikke være underlagt restriksjoner når de markedsføres eller eventuelt eksporteres i samsvar med denne artikkel, vedlegg VIII kapittel C og D og vedlegg IX kapittel A, C, F og G:produkter av animalsk opprinnelse som omfattes av bestemmelsene i artikkel 15, særlig sæd, embryoer og egg,
-►**M30**melk og meieriprodukter, huder og skinn, samt gelatin og kollagen fra huder og skinn.
+1\. Følgende produkter av animalsk opprinnelse framstilt av friske drøvtyggere, skal ikke være underlagt restriksjoner når de markedsføres eller eventuelt eksporteres i samsvar med denne artikkel, vedlegg VIII kapittel C og D og vedlegg IX kapittel A, C, F og G:
+
+1. produkter av animalsk opprinnelse som omfattes av bestemmelsene i artikkel 15, særlig sæd, embryoer og egg,
+   ►**M30**
+2. melk og meieriprodukter, huder og skinn, samt gelatin og kollagen fra huder og skinn.
 
 2\. Produkter av animalsk opprinnelse importert fra tredjestater med kontrollert eller ikke-fastsatt BSE-risiko, skal stamme fra friskt storfe, friske sauer og friske geiter som det ikke er foretatt ødeleggelse av sentralnervevev hos eller som ikke er avlivet ved innsprøyting av gass i kraniehulen, som nevnt i artikkel 8 nr. 3.
 
-3\. Næringsmidler av animalsk opprinnelse som inneholder materiale fra storfe med opprinnelse i en stat eller region med ikke-fastsatt BSE-risiko, skal ikke omsettes med mindre de stammer fra dyr som:er født åtte år etter den datoen da forbudet mot fôring av drøvtyggere med proteiner fra pattedyr ble iverksatt på en effektiv måte, oger født, oppdrettet og har oppholdt seg i besetninger som har vært bekreftet fri for BSE i minst sju år.Videre skal næringsmidler fra drøvtyggere ikke sendes fra en EØS-stat eller en region i en EØS-stat med ikke-fastsatt BSE-risiko, til en annen EØS-stat eller importeres fra en tredjestat med ikke-fastsatt BSE-risiko.Dette forbudet får ikke anvendelse på produkter av animalsk opprinnelse som er oppført i vedlegg VIII kapittel C, og som oppfyller kravene i vedlegg VIII kapittel C.De skal ledsages av et helsesertifikat utstedt av en offentlig veterinær, som bekrefter at de er framstilt i samsvar med denne forordning.
+3\. Næringsmidler av animalsk opprinnelse som inneholder materiale fra storfe med opprinnelse i en stat eller region med ikke-fastsatt BSE-risiko, skal ikke omsettes med mindre de stammer fra dyr som:
+
+1. er født åtte år etter den datoen da forbudet mot fôring av drøvtyggere med proteiner fra pattedyr ble iverksatt på en effektiv måte, og
+2. er født, oppdrettet og har oppholdt seg i besetninger som har vært bekreftet fri for BSE i minst sju år.
+
+Videre skal næringsmidler fra drøvtyggere ikke sendes fra en EØS-stat eller en region i en EØS-stat med ikke-fastsatt BSE-risiko, til en annen EØS-stat eller importeres fra en tredjestat med ikke-fastsatt BSE-risiko.
+
+Dette forbudet får ikke anvendelse på produkter av animalsk opprinnelse som er oppført i vedlegg VIII kapittel C, og som oppfyller kravene i vedlegg VIII kapittel C.
+
+De skal ledsages av et helsesertifikat utstedt av en offentlig veterinær, som bekrefter at de er framstilt i samsvar med denne forordning.
 
 ◄**M30**
 
@@ -745,7 +926,7 @@ Følgende tiltak som er utformet for å forbedre ikke-vesentlige deler av denne 
 8. regler for unntak fra kravet om å fjerne og destruere spesifisert risikomateriale som nevnt i artikkel 8 nr. 5,
 9. godkjenning av produksjonsprosesser nevnt i artikkel 9 nr. 1,
 10. beslutning om å utvide visse bestemmelser til å omfatte andre dyrearter som nevnt i artikkel 15 nr. 3.
-►**M44**
+    ►**M44**
 11. utvidelse av bestemmelsene i artikkel 16 nr. 1-6 til å omfatte andre produkter av animalsk opprinnelse,
 12. vedtakelse av metoden for å bekrefte forekomst av BSE hos sauer og geiter, som nevnt i artikkel 20 nr. 2,
 13. endring eller utfylling av vedleggene og vedtakelse av egnede overgangstiltak, som nevnt i artikkel 23. ◄**M44**
@@ -754,7 +935,9 @@ Følgende tiltak som er utformet for å forbedre ikke-vesentlige deler av denne 
 
 1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen. Når det gjelder artikkel 6a, skal imidlertid Kommisjonen også rådspørre Den faste komité for avlsspørsmål.
 
-2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsfristene som angis i artikkel 5 nr. 6 i nevnte beslutning, skal være tre måneder, og ved vernetiltak som nevnt i artikkel 4 nr. 2 i denne forordning, 15 dager.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+Tidsfristene som angis i artikkel 5 nr. 6 i nevnte beslutning, skal være tre måneder, og ved vernetiltak som nevnt i artikkel 4 nr. 2 i denne forordning, 15 dager.
 
 3\. Når det vises til dette nummer, får artikkel 5a nr. 1-4, og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
@@ -785,19 +968,75 @@ Særlige definisjoner ◄**M10**
 
 ►**M66**
 
-1\. I denne forordningen gjelder følgende definisjoner i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)\*, kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)\*\*, europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)\*\*\*, europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767)\*\*\*\*, rådsdirektiv [2006/88/EF](eu/32006l0088)\*\*\*\*\* og europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012)\*\*\*\*\*\*:◄**M66**definisjonen av «produksjonsdyr» i artikkel 3 nr. 6 i forordning [(EF) nr. 1069/2009](eu/32009r1069),følgende definisjoner i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142):«pelsdyr» i nr. 1,«blodprodukter» i nr. 4,«bearbeidet animalsk protein» i nr. 5,«fiskemel» i nr. 7,«kollagen» i nr. 11,«gelatin» i nr. 12,«hydrolyserte proteiner» i nr. 14,«boksefôr til kjæledyr» i nr. 16,«fôr til kjæledyr» i nr. 19,«bearbeidet fôr til kjæledyr» i nr. 20,definisjonen av «fôr» i artikkel 3 nr. 4 i forordning [(EF) nr. 178/2002](eu/32002r0178),i forordning [(EF) nr. 767/2009](eu/32009r0767):«fôrmidler» i artikkel 3 nr. 2 bokstav g),«fôrblandinger» i artikkel 3 nr. 2 bokstav h),«fullfôr» i artikkel 3 nr. 2 bokstav i),
-►**M59**«etikett» i artikkel 3 nr. 2 bokstav t),
-◄**M59**i direktiv [2006/88/EF](eu/32006l0088*):«akvakulturdyr» i artikkel 3 nr. 1 bokstav b),«vanndyr» i artikkel 3 nr. 1 bokstav e).
-◄**M48**►**M66**Definisjonen av «rase som er truet av utryddelse» i [artikkel 2](eu/32016r1012/a2) nr. 24 i forordning [(EU) 2016/1012](eu/32016r1012).
+1\. I denne forordningen gjelder følgende definisjoner i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)\*, kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)\*\*, europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)\*\*\*, europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767)\*\*\*\*, rådsdirektiv [2006/88/EF](eu/32006l0088)\*\*\*\*\* og europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012)\*\*\*\*\*\*:
+
 ◄**M66**
+
+1. definisjonen av «produksjonsdyr» i artikkel 3 nr. 6 i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+2. følgende definisjoner i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142):
+
+   1. «pelsdyr» i nr. 1,
+   2. «blodprodukter» i nr. 4,
+   3. «bearbeidet animalsk protein» i nr. 5,
+   4. «fiskemel» i nr. 7,
+   5. «kollagen» i nr. 11,
+   6. «gelatin» i nr. 12,
+   7. «hydrolyserte proteiner» i nr. 14,
+   8. «boksefôr til kjæledyr» i nr. 16,
+   9. «fôr til kjæledyr» i nr. 19,
+   10. «bearbeidet fôr til kjæledyr» i nr. 20,
+3. definisjonen av «fôr» i artikkel 3 nr. 4 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+4. i forordning [(EF) nr. 767/2009](eu/32009r0767):
+
+   1. «fôrmidler» i artikkel 3 nr. 2 bokstav g),
+   2. «fôrblandinger» i artikkel 3 nr. 2 bokstav h),
+   3. «fullfôr» i artikkel 3 nr. 2 bokstav i),
+      ►**M59**
+   4. «etikett» i artikkel 3 nr. 2 bokstav t),
+      ◄**M59**
+5. i direktiv [2006/88/EF](eu/32006l0088*):
+
+   1. «akvakulturdyr» i artikkel 3 nr. 1 bokstav b),
+   2. «vanndyr» i artikkel 3 nr. 1 bokstav e).
+      ◄**M48**
+
+   ►**M66**
+6. Definisjonen av «rase som er truet av utryddelse» i [artikkel 2](eu/32016r1012/a2) nr. 24 i forordning [(EU) 2016/1012](eu/32016r1012).
+   ◄**M66**
 
 ►**M50**
 
-2\. I denne forordning menes videre med:«nasjonalt tilfelle av BSE» et tilfelle av bovin spongiform encefalopati der det ikke klart kan påvises at infeksjonen forelå før dyret ble importert levende,«kohort» en gruppe storfe som omfatter bådedyr født i samme besetning som det infiserte dyret inntil tolv måneder før eller etter at det infiserte dyret ble født, ogdyr som på noe tidspunkt i løpet av sitt første leveår ble oppdrettet sammen med det infiserte dyret i løpet av dettes første leveår,«indekstilfelle» det første dyret med bekreftet TSE-infeksjon i en driftsenhet eller i en epidemiologisk definert gruppe,«TSE hos småfe» et tilfelle av overførbar spongiform encefalopati som er påvist hos en sau eller geit etter en bekreftende prøve for abnormt PrP-protein,«tilfelle av skrapesyke» et bekreftet tilfelle av overførbar spongiform encefalopati hos en sau eller geit, der diagnosen BSE er utelukket i samsvar med kriteriene fastsatt i Den europeiske unions referanselaboratoriums tekniske håndbok om karakterisering av TSE-stammer hos småfe,«tilfelle av klassisk skrapesyke» et bekreftet tilfelle av skrapesyke som er klassifisert som klassisk i samsvar med kriteriene fastsatt i Den europeiske unions referanselaboratoriums tekniske håndbok om karakterisering av TSE-stammer hos småfe,«tilfelle av atypisk skrapesyke» et bekreftet tilfelle av skrapesyke som kan skilles fra klassisk skrapesyke i samsvar med kriteriene fastsatt i Den europeiske unions referanselaboratoriums tekniske håndbok om karakterisering av TSE-stammer hos småfe,«prionproteingenotype» hos sauer en kombinasjon av to alleler som beskrevet i nr. 1 i vedlegg I til kommisjonsbeslutning [2002/1003/EF](eu/32002d1003),«tilfelle av BSE» et tilfelle av BSE som er bekreftet av et nasjonalt referanselaboratorium i samsvar med metodene og protokollene i nr. 3.1 bokstav a) og b) i kapittel C i vedlegg X,«tilfelle av klassisk BSE» et tilfelle av BSE som er klassifisert som klassisk i samsvar med kriteriene fastsatt i Den europeiske unions referanselaboratoriums metode for klassifisering av TSE-isolater fra storfe,«tilfelle av atypisk BSE» et tilfelle av BSE som ikke kan klassifiseres som et tilfelle av klassisk BSE i samsvar med kriteriene fastsatt i Den europeiske unions referanselaboratoriums metode for klassifisering av TSE-isolater fra storfe,«sauer og geiter eldre enn 18 måneder» sauer og geiterhvis alder bekreftes av registrene eller transportdokumentene nevnt i artikkel 3 nr. 1 bokstav b), c) og d) i rådsforordning [(EF) nr. 21/2004](eu/32004r0021*), ellersom har som har mer enn to frambrutte blivende fortenner.◄**M50**
-►**M59**«oppdrettsinsekter» produksjonsdyr som definert i artikkel 3 nr. 6 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069), av de insektartene som er tillatt ved framstilling av bearbeidet animalsk protein i samsvar med nr. 2 i del A i avsnitt 1 i kapittel II i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142),«hjemmeblandere» oppdrettere som lager fôrblandinger utelukkende til bruk på egen driftsenhet.
-◄**M59**
-►**M61**«oppdrettshjortedyr og hjortedyr i fangenskap» dyr av familien Cervidae som holdes av mennesker, på et lukket område,«viltlevende hjortedyr» dyr av familien Cervidae som ikke holdes av mennesker,«halvtamme hjortedyr» dyr av familien Cervidae som holdes av mennesker, men ikke på et lukket område.
-◄**M61**
+2\. I denne forordning menes videre med:
+
+1. «nasjonalt tilfelle av BSE» et tilfelle av bovin spongiform encefalopati der det ikke klart kan påvises at infeksjonen forelå før dyret ble importert levende,
+2. «kohort» en gruppe storfe som omfatter både
+
+   1. dyr født i samme besetning som det infiserte dyret inntil tolv måneder før eller etter at det infiserte dyret ble født, og
+   2. dyr som på noe tidspunkt i løpet av sitt første leveår ble oppdrettet sammen med det infiserte dyret i løpet av dettes første leveår,
+3. «indekstilfelle» det første dyret med bekreftet TSE-infeksjon i en driftsenhet eller i en epidemiologisk definert gruppe,
+4. «TSE hos småfe» et tilfelle av overførbar spongiform encefalopati som er påvist hos en sau eller geit etter en bekreftende prøve for abnormt PrP-protein,
+5. «tilfelle av skrapesyke» et bekreftet tilfelle av overførbar spongiform encefalopati hos en sau eller geit, der diagnosen BSE er utelukket i samsvar med kriteriene fastsatt i Den europeiske unions referanselaboratoriums tekniske håndbok om karakterisering av TSE-stammer hos småfe,
+6. «tilfelle av klassisk skrapesyke» et bekreftet tilfelle av skrapesyke som er klassifisert som klassisk i samsvar med kriteriene fastsatt i Den europeiske unions referanselaboratoriums tekniske håndbok om karakterisering av TSE-stammer hos småfe,
+7. «tilfelle av atypisk skrapesyke» et bekreftet tilfelle av skrapesyke som kan skilles fra klassisk skrapesyke i samsvar med kriteriene fastsatt i Den europeiske unions referanselaboratoriums tekniske håndbok om karakterisering av TSE-stammer hos småfe,
+8. «prionproteingenotype» hos sauer en kombinasjon av to alleler som beskrevet i nr. 1 i vedlegg I til kommisjonsbeslutning [2002/1003/EF](eu/32002d1003),
+9. «tilfelle av BSE» et tilfelle av BSE som er bekreftet av et nasjonalt referanselaboratorium i samsvar med metodene og protokollene i nr. 3.1 bokstav a) og b) i kapittel C i vedlegg X,
+10. «tilfelle av klassisk BSE» et tilfelle av BSE som er klassifisert som klassisk i samsvar med kriteriene fastsatt i Den europeiske unions referanselaboratoriums metode for klassifisering av TSE-isolater fra storfe,
+11. «tilfelle av atypisk BSE» et tilfelle av BSE som ikke kan klassifiseres som et tilfelle av klassisk BSE i samsvar med kriteriene fastsatt i Den europeiske unions referanselaboratoriums metode for klassifisering av TSE-isolater fra storfe,
+12. «sauer og geiter eldre enn 18 måneder» sauer og geiter
+
+    1. hvis alder bekreftes av registrene eller transportdokumentene nevnt i artikkel 3 nr. 1 bokstav b), c) og d) i rådsforordning [(EF) nr. 21/2004](eu/32004r0021*), eller
+    2. som har som har mer enn to frambrutte blivende fortenner.
+
+    ◄**M50**
+    ►**M59**
+13. «oppdrettsinsekter» produksjonsdyr som definert i artikkel 3 nr. 6 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069), av de insektartene som er tillatt ved framstilling av bearbeidet animalsk protein i samsvar med nr. 2 i del A i avsnitt 1 i kapittel II i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142),
+14. «hjemmeblandere» oppdrettere som lager fôrblandinger utelukkende til bruk på egen driftsenhet.
+    ◄**M59**
+    ►**M61**
+15. «oppdrettshjortedyr og hjortedyr i fangenskap» dyr av familien Cervidae som holdes av mennesker, på et lukket område,
+16. «viltlevende hjortedyr» dyr av familien Cervidae som ikke holdes av mennesker,
+17. «halvtamme hjortedyr» dyr av familien Cervidae som holdes av mennesker, men ikke på et lukket område.
+    ◄**M61**
 
 ►**M66**
 
@@ -852,32 +1091,85 @@ Risikoanalysene skal omfatte en innførselsvurdering og en eksponeringsvurdering
 
 Innførselsvurderingen skal omfatte en vurdering av sannsynligheten for at BSE-agensen er blitt innført i staten eller regionen gjennom varer som kan være kontaminert med BSE-agensen, eller at den allerede forekommer i staten eller regionen.
 
-Det skal tas hensyn til følgende risikofaktorer:forekomst eller fravær av BSE-agensen i staten eller regionen, og dersom agensen forekommer, dens prevalens på grunnlag av resultatene av overvåkingsvirksomheten,produksjonen av kjøttbeinmel og fettgrever fra den stedegne drøvtyggerpopulasjonen,importert kjøttbeinmel eller fettgrever,storfe, sau og geit som er importert,fôr og fôringredienser som er importert,importerte produkter av drøvtyggeropprinnelse og beregnet på konsum, som kan ha inneholdt vev oppført i nr. 1 i vedlegg V, og som kan ha vært brukt som storfefôr,importerte produkter av drøvtyggeropprinnelse til bruk *in vivo* hos storfe.
+Det skal tas hensyn til følgende risikofaktorer:
+
+1. forekomst eller fravær av BSE-agensen i staten eller regionen, og dersom agensen forekommer, dens prevalens på grunnlag av resultatene av overvåkingsvirksomheten,
+2. produksjonen av kjøttbeinmel og fettgrever fra den stedegne drøvtyggerpopulasjonen,
+3. importert kjøttbeinmel eller fettgrever,
+4. storfe, sau og geit som er importert,
+5. fôr og fôringredienser som er importert,
+6. importerte produkter av drøvtyggeropprinnelse og beregnet på konsum, som kan ha inneholdt vev oppført i nr. 1 i vedlegg V, og som kan ha vært brukt som storfefôr,
+7. importerte produkter av drøvtyggeropprinnelse til bruk *in vivo* hos storfe.
 
 2.2.
 
-Ved innførselsvurderingen skal det tas hensyn til særlige utryddelsestiltak, overvåking og andre epidemiologiske undersøkelser (særlig overvåking av BSE hos storfepopulasjonen) som er relevante for risikofaktorene oppført i nr. 2.1.◄**M51**
+Ved innførselsvurderingen skal det tas hensyn til særlige utryddelsestiltak, overvåking og andre epidemiologiske undersøkelser (særlig overvåking av BSE hos storfepopulasjonen) som er relevante for risikofaktorene oppført i nr. 2.1.
+
+◄**M51**
 
 ►**M31**
 
 *3. Eksponeringsvurdering*
 
-Eksponeringsvurderingen skal omfatte en vurdering av sannsynligheten for at storfe eksponeres for BSE-agensen, der det tas hensyn til følgende:Resirkulering og spredning av BSE-agensen gjennom storfes konsum av kjøttbeinmel eller fettgrever fra drøvtyggere, eller annet fôr eller fôringredienser som er kontaminert med disse.Bruk av skrotter av drøvtyggere (herunder skrotter av selvdøde dyr), biprodukter og slakteriavfall, parametrene i smelteprosessene og metodene for fôrproduksjon.Fôring eller ikke av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, herunder tiltak for å forhindre krysskontaminering av fôrvarer.Omfanget av den overvåkingen av BSE hos storfepopulasjonen som hittil er utført, samt resultatene av overvåkingen.
+Eksponeringsvurderingen skal omfatte en vurdering av sannsynligheten for at storfe eksponeres for BSE-agensen, der det tas hensyn til følgende:
+
+1. Resirkulering og spredning av BSE-agensen gjennom storfes konsum av kjøttbeinmel eller fettgrever fra drøvtyggere, eller annet fôr eller fôringredienser som er kontaminert med disse.
+2. Bruk av skrotter av drøvtyggere (herunder skrotter av selvdøde dyr), biprodukter og slakteriavfall, parametrene i smelteprosessene og metodene for fôrproduksjon.
+3. Fôring eller ikke av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, herunder tiltak for å forhindre krysskontaminering av fôrvarer.
+4. Omfanget av den overvåkingen av BSE hos storfepopulasjonen som hittil er utført, samt resultatene av overvåkingen.
 
 ### Kapittel C
 Definisjon av kategorier
 
 *I. Stat eller region med ubetydelig BSE-risiko*
 
-En stat eller en regionder det er foretatt en risikoanalyse i samsvar med kapittel B for å kartlegge de historiske og eksisterende risikofaktorene,som har dokumentert at det er truffet hensiktsmessige, særlige tiltak i det berørte tidsrommet som er definert under, for å håndtere hver identifiserte risiko,som har dokumentert at type B-overvåking i samsvar med kapittel D er innført, og at den gjeldende målverdi, uttrykt i poeng, i henhold til tabell 2 i nevnte kapittel er oppnådd, ogsom erenten i følgende situasjon:Det har ikke vært noe tilfelle av BSE i staten eller regionen, eller det er dokumentert at eventuelle tilfeller av BSE er påvist å være importert og fullstendig destruert.Kriteriene i bokstav c), d) og e) i kapittel A i dette vedlegg har vært oppfylt i minst sju år.Det er gjennom et passende kontroll- og revisjonsnivå påvist at drøvtyggere ikke er blitt fôret med kjøttbeinmel eller fettgrever fra drøvtyggere på minst åtte år.eller i følgende situasjon:Det har vært minst ett nasjonalt tilfelle av BSE i staten eller regionen, men hvert nasjonalt tilfelle av BSE har vært hos storfe født for mer enn 11 år siden.Kriteriene i bokstav c), d) og e) i kapittel A har vært oppfylt i minst sju år.Det er gjennom et passende kontroll- og revisjonsnivå påvist at drøvtyggere ikke er blitt fôret med kjøttbeinmel eller fettgrever fra drøvtyggere på minst åtte år.Følgende dyr, som fortsatt er i live i staten eller regionen, gis er varig merke, forflytninger kontrolleres strengt, og når dyrene er slaktet eller døde, destrueres de fullstendig:alle BSE-tilfeller,
-alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med BSE-tilfeller i løpet av deres første leveår, og som i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret i det tidsrommet eller,
-dersom resultatene av undersøkelsen nevnt i annet strekpunkt er usikre, alt storfe født i den samme besetningen som BSE-tilfellene tolv måneder før eller etter BSE-tilfellenes fødsel.
+En stat eller en region
+
+1. der det er foretatt en risikoanalyse i samsvar med kapittel B for å kartlegge de historiske og eksisterende risikofaktorene,
+2. som har dokumentert at det er truffet hensiktsmessige, særlige tiltak i det berørte tidsrommet som er definert under, for å håndtere hver identifiserte risiko,
+3. som har dokumentert at type B-overvåking i samsvar med kapittel D er innført, og at den gjeldende målverdi, uttrykt i poeng, i henhold til tabell 2 i nevnte kapittel er oppnådd, og
+4. som er
+
+   1. enten i følgende situasjon:
+
+      1. Det har ikke vært noe tilfelle av BSE i staten eller regionen, eller det er dokumentert at eventuelle tilfeller av BSE er påvist å være importert og fullstendig destruert.
+      2. Kriteriene i bokstav c), d) og e) i kapittel A i dette vedlegg har vært oppfylt i minst sju år.
+      3. Det er gjennom et passende kontroll- og revisjonsnivå påvist at drøvtyggere ikke er blitt fôret med kjøttbeinmel eller fettgrever fra drøvtyggere på minst åtte år.
+   2. eller i følgende situasjon:
+
+      1. Det har vært minst ett nasjonalt tilfelle av BSE i staten eller regionen, men hvert nasjonalt tilfelle av BSE har vært hos storfe født for mer enn 11 år siden.
+      2. Kriteriene i bokstav c), d) og e) i kapittel A har vært oppfylt i minst sju år.
+      3. Det er gjennom et passende kontroll- og revisjonsnivå påvist at drøvtyggere ikke er blitt fôret med kjøttbeinmel eller fettgrever fra drøvtyggere på minst åtte år.
+      4. Følgende dyr, som fortsatt er i live i staten eller regionen, gis er varig merke, forflytninger kontrolleres strengt, og når dyrene er slaktet eller døde, destrueres de fullstendig:
+
+      alle BSE-tilfeller,
+      alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med BSE-tilfeller i løpet av deres første leveår, og som i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret i det tidsrommet eller,
+      dersom resultatene av undersøkelsen nevnt i annet strekpunkt er usikre, alt storfe født i den samme besetningen som BSE-tilfellene tolv måneder før eller etter BSE-tilfellenes fødsel.
 
 *II. Stat eller region med kontrollert BSE-risiko*
 
-En stat eller en regionder det er foretatt en risikoanalyse på grunnlag av opplysningene fastsatt i kapittel B for å kartlegge de historiske og eksisterende risikofaktorene,som har påvist at det er truffet hensiktsmessige tiltak for å håndtere alle påviste risikoer, men disse tiltakene er ikke truffet i det berørte tidsrommet,som har påvist at type A-overvåking i samsvar med kapittel D er innført, og at den gjeldende punktverdi i henhold til tabell 2 er oppnådd. Type B-overvåking kan erstatte type A-overvåking så snart den gjeldende målverdien er oppnådd, ogsom erenten i følgende situasjon:Det har ikke vært noe BSE-tilfelle i staten eller regionen, eller det er påvist at alle BSE-tilfeller har vært importert og er fullstendig destruert, kriteriene i bokstav c), d) og e) i kapittel A er oppfylt, og det kan ved et hensiktsmessig kontroll- og revisjonsnivå påvises at drøvtyggere ikke er blitt fôret med kjøttbeinmel eller fettgrever fra drøvtyggere.Kriteriene i bokstav c), d) og e) i kapittel A har vært oppfylt i mindre enn sju år, og/ellerdet kan ikke påvises at det i åtte år er ført kontroll med at drøvtyggere ikke er fôret med kjøttbeinmel eller fettgrever fra drøvtyggere.eller i følgende situasjon:Det har vært et nasjonalt tilfelle av BSE i staten eller regionen, kriteriene i bokstav c), d) og e) i kapittel A er oppfylt og det kan med et hensiktsmessig kontroll- og revisjonsnivå påvises at drøvtyggere ikke er fôret med kjøttbeinmel eller fettgrever fra drøvtyggere.Kriteriene i bokstav c)-e) i kapittel A i dette vedlegg har vært oppfylt i mindre enn sju år, og/ellerdet kan ikke påvises at det i minst åtte år er ført kontroll med at drøvtyggere ikke er fôret med kjøttbeinmel eller fettgrever fra drøvtyggere.Følgende dyr, som fortsatt er i live i staten eller regionen, gis et varig merke, forflytninger kontrolleres strengt, og når dyrene er slaktet eller døde, destrueres de fullstendig:alle tilfeller av BSE, og
-alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med BSE-tilfeller i løpet av deres første leveår, og som i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret i det tidsrommet eller,
-dersom resultatene av undersøkelsen nevnt i annet strekpunkt er usikre, alt storfe født i den samme besetningen som BSE-tilfellene tolv måneder før eller etter BSE-tilfellenes fødsel.
+En stat eller en region
+
+1. der det er foretatt en risikoanalyse på grunnlag av opplysningene fastsatt i kapittel B for å kartlegge de historiske og eksisterende risikofaktorene,
+2. som har påvist at det er truffet hensiktsmessige tiltak for å håndtere alle påviste risikoer, men disse tiltakene er ikke truffet i det berørte tidsrommet,
+3. som har påvist at type A-overvåking i samsvar med kapittel D er innført, og at den gjeldende punktverdi i henhold til tabell 2 er oppnådd. Type B-overvåking kan erstatte type A-overvåking så snart den gjeldende målverdien er oppnådd, og
+4. som er
+
+   1. enten i følgende situasjon:
+
+      1. Det har ikke vært noe BSE-tilfelle i staten eller regionen, eller det er påvist at alle BSE-tilfeller har vært importert og er fullstendig destruert, kriteriene i bokstav c), d) og e) i kapittel A er oppfylt, og det kan ved et hensiktsmessig kontroll- og revisjonsnivå påvises at drøvtyggere ikke er blitt fôret med kjøttbeinmel eller fettgrever fra drøvtyggere.
+      2. Kriteriene i bokstav c), d) og e) i kapittel A har vært oppfylt i mindre enn sju år, og/eller
+      3. det kan ikke påvises at det i åtte år er ført kontroll med at drøvtyggere ikke er fôret med kjøttbeinmel eller fettgrever fra drøvtyggere.
+   2. eller i følgende situasjon:
+
+      1. Det har vært et nasjonalt tilfelle av BSE i staten eller regionen, kriteriene i bokstav c), d) og e) i kapittel A er oppfylt og det kan med et hensiktsmessig kontroll- og revisjonsnivå påvises at drøvtyggere ikke er fôret med kjøttbeinmel eller fettgrever fra drøvtyggere.
+      2. Kriteriene i bokstav c)-e) i kapittel A i dette vedlegg har vært oppfylt i mindre enn sju år, og/eller
+      3. det kan ikke påvises at det i minst åtte år er ført kontroll med at drøvtyggere ikke er fôret med kjøttbeinmel eller fettgrever fra drøvtyggere.
+      4. Følgende dyr, som fortsatt er i live i staten eller regionen, gis et varig merke, forflytninger kontrolleres strengt, og når dyrene er slaktet eller døde, destrueres de fullstendig:
+
+      alle tilfeller av BSE, og
+      alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med BSE-tilfeller i løpet av deres første leveår, og som i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret i det tidsrommet eller,
+      dersom resultatene av undersøkelsen nevnt i annet strekpunkt er usikre, alt storfe født i den samme besetningen som BSE-tilfellene tolv måneder før eller etter BSE-tilfellenes fødsel.
 
 *III. Stat eller region med ubestemt BSE-risiko*
 
@@ -888,7 +1180,25 @@ Minstekrav til overvåking
 
 *1. Overvåkingstyper*
 
-I dette vedlegg menes med:Type A-overvåkingGjennom type A-overvåking skal det være mulig å oppdage en antatt prevalens av BSE1 på minst ett tilfelle per 100 000 hos den voksne storfepopulasjonen i den berørte staten eller regionen, med et konfidensintervall på 95 %.Type B-overvåkingGjennom type B-overvåking skal det være mulig å oppdage en antatt prevalens av BSE på minst ett tilfelle per 50 000 hos den voksne storfepopulasjonen i den berørte staten eller regionen, med et konfidensintervall på 95 %.Type B-overvåking kan utføres i stater eller regioner med ubetydelig BSE-risiko, for å bekrefte konklusjonene i risikoanalysen, for eksempel ved å påvise effektiviteten av tiltakene for å redusere eventuelle fastslåtte risikofaktorer, gjennom målrettet overvåking for å gjøre sannsynligheten for å identifisere mangler ved slike tiltak så stor som mulig.Type B-overvåking kan også utføres i stater eller regioner med kontrollert BSE-risiko etter at den gjeldende målverdi er oppnådd ved hjelp av type A-overvåking, for å opprettholde tilliten til den kunnskap som er oppnådd med type A-overvåking.I forbindelse med overvåking brukes i dette vedlegg følgende fire delpopulasjoner av storfe:storfe over 30 måneder som viser atferdsmessige eller kliniske tegn på BSE (klinisk mistenkte),storfe over 30 måneder som ikke kan røre seg, som ligger, som ikke kan reise seg eller gå uten hjelp; storfe over 30 måneder som er sendt til nødslakting eller som har gitt opphav til unormale observasjoner ved undersøkelse ante mortem (nødslakting),storfe over 30 måneder som er døde eller avlivet ved driftsenheten, under forflytning eller i et slakteri (selvdøde dyr),storfe over 36 måneder ved vanlig slakting.
+I dette vedlegg menes med:
+
+1. Type A-overvåking
+
+   Gjennom type A-overvåking skal det være mulig å oppdage en antatt prevalens av BSE1 på minst ett tilfelle per 100 000 hos den voksne storfepopulasjonen i den berørte staten eller regionen, med et konfidensintervall på 95 %.
+2. Type B-overvåking
+
+   Gjennom type B-overvåking skal det være mulig å oppdage en antatt prevalens av BSE på minst ett tilfelle per 50 000 hos den voksne storfepopulasjonen i den berørte staten eller regionen, med et konfidensintervall på 95 %.
+
+   Type B-overvåking kan utføres i stater eller regioner med ubetydelig BSE-risiko, for å bekrefte konklusjonene i risikoanalysen, for eksempel ved å påvise effektiviteten av tiltakene for å redusere eventuelle fastslåtte risikofaktorer, gjennom målrettet overvåking for å gjøre sannsynligheten for å identifisere mangler ved slike tiltak så stor som mulig.
+
+   Type B-overvåking kan også utføres i stater eller regioner med kontrollert BSE-risiko etter at den gjeldende målverdi er oppnådd ved hjelp av type A-overvåking, for å opprettholde tilliten til den kunnskap som er oppnådd med type A-overvåking.
+
+   I forbindelse med overvåking brukes i dette vedlegg følgende fire delpopulasjoner av storfe:
+
+   1. storfe over 30 måneder som viser atferdsmessige eller kliniske tegn på BSE (klinisk mistenkte),
+   2. storfe over 30 måneder som ikke kan røre seg, som ligger, som ikke kan reise seg eller gå uten hjelp; storfe over 30 måneder som er sendt til nødslakting eller som har gitt opphav til unormale observasjoner ved undersøkelse ante mortem (nødslakting),
+   3. storfe over 30 måneder som er døde eller avlivet ved driftsenheten, under forflytning eller i et slakteri (selvdøde dyr),
+   4. storfe over 36 måneder ved vanlig slakting.
 
 1 Antatt prevalens brukes for å bestemme størrelsen på en prøveundersøkelse uttrykt som målverdi (poeng). Dersom den faktiske prevalensen er større enn den valgte antatte prevalensen, vil undersøkelsen med stor sannsynlighet påvise sykdom.
 
@@ -1007,22 +1317,33 @@ Storfe skal overvåkes i samsvar med laboratoriemetodene fastsatt i vedlegg X ka
 
 2.1
 
-Alt storfe eldre enn 24 måneder skal undersøkes for BSE dersom de harblitt nødslaktet i samsvar med avsnitt I kapittel VI nr. 1 i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), ellergjennomgått en kontroll ante mortem med observasjoner om ulykker, alvorlige fysiologiske og funksjonelle forstyrrelser eller tegn i samsvar med avsnitt I kapittel II del B nr. 2 i vedlegg I til forordning [(EF) nr. 854/2004](eu/32004r0854*).
+Alt storfe eldre enn 24 måneder skal undersøkes for BSE dersom de har
+
+- blitt nødslaktet i samsvar med avsnitt I kapittel VI nr. 1 i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), eller
+- gjennomgått en kontroll ante mortem med observasjoner om ulykker, alvorlige fysiologiske og funksjonelle forstyrrelser eller tegn i samsvar med avsnitt I kapittel II del B nr. 2 i vedlegg I til forordning [(EF) nr. 854/2004](eu/32004r0854*).
 
 2.2
 
-Alt friskt storfe eldre enn 30 måneder som slaktes på vanlig måte for konsum, skal undersøkes for BSE.◄**M50**
+Alt friskt storfe eldre enn 30 måneder som slaktes på vanlig måte for konsum, skal undersøkes for BSE.
+
+◄**M50**
 ►**M13**
 
 3.*Overvåking av dyr som ikke slaktes for konsum*
 
 3.1.
 
-Alt storfe som er eldre enn 24 måneder1 og som er døde eller avlivet, men som ikke:ble avlivet for destruering i henhold til kommisjonsforordning [(EF) nr. 716/96](eu/31996r0716),ble avlivet i forbindelse med en epidemi, for eksempel munn- og klovsyke,ble slaktet for konsum, skal undersøkes for BSE.
+Alt storfe som er eldre enn 24 måneder1 og som er døde eller avlivet, men som ikke:
+
+- ble avlivet for destruering i henhold til kommisjonsforordning [(EF) nr. 716/96](eu/31996r0716),
+- ble avlivet i forbindelse med en epidemi, for eksempel munn- og klovsyke,
+- ble slaktet for konsum, skal undersøkes for BSE.
 
 3.2.
 
-EØS-statene kan fravike bestemmelsene i nr. 3.1 i fjerntliggende områder med lav dyretetthet der det ikke er organisert noen innsamling av døde dyr. EØS-stater som benytter seg av dette unntaket, skal underrette ESA/Kommisjonen om dette, og oversende en liste over de områdene som er omfattet av unntaket. Unntaket skal ikke omfatte mer enn 10 % av storfepopulasjonen i EØS-staten.◄**M13**
+EØS-statene kan fravike bestemmelsene i nr. 3.1 i fjerntliggende områder med lav dyretetthet der det ikke er organisert noen innsamling av døde dyr. EØS-stater som benytter seg av dette unntaket, skal underrette ESA/Kommisjonen om dette, og oversende en liste over de områdene som er omfattet av unntaket. Unntaket skal ikke omfatte mer enn 10 % av storfepopulasjonen i EØS-staten.
+
+◄**M13**
 ►**M26**
 
 4.*Overvåking av dyr som kjøpes opp for destruksjon i henhold til forordning [(EF) nr. 716/96](eu/31996r0716)*
@@ -1063,20 +1384,35 @@ Som unntak fra første ledd kan medlemsstatene beslutte å destruere nevnte skro
 
 6.6.
 
-Medlemsstatene kan gjøre unntak fra bestemmelsene i nr. 6.5 dersom det er etablert et system på slakteriet som hindrer krysskontaminering mellom skrottene.◄**M55**
+Medlemsstatene kan gjøre unntak fra bestemmelsene i nr. 6.5 dersom det er etablert et system på slakteriet som hindrer krysskontaminering mellom skrottene.
+
+◄**M55**
 ►**M38**
 
 7.*Revisjon av de årlige programmene for overvåking av BSE nevnt i artikkel 6 punkt 1b*
 
 7.1.*Medlemsstatenes anmodninger*
 
-Medlemsstatenes anmodninger til Kommisjonen om revisjon av deres årlige programmer for overvåking av BSE skal inneholde minst følgende:opplysninger om det system for årlig BSE-overvåking som har vært anvendt de siste seks årene på medlemsstatens territorium, herunder detaljert dokumentasjon som viser at de epidemiologiske kriteriene i nr. 7.2 er oppfylt,opplysninger om det system for identifikasjon og sporbarhet med hensyn til storfe, som omhandlet i artikkel 6 punkt 1b tredje ledd bokstav b), som har vært anvendt de siste seks årene på medlemsstatens territorium, herunder en detaljert beskrivelse av hvordan den edb–baserte databasen nevnt i artikkel 5 i europaparlaments- og rådsforordning [1760/2000](eu/32000r1760)\* virker,opplysninger om fôrforbud på medlemsstatens territorium de siste seks årene, herunder en detaljert beskrivelse av håndhevingen av fôrforbudet for produksjonsdyr nevnt i artikkel 6 punkt 1b tredje ledd bokstav c), inklusive en prøvetakingsplan og antallet og arten av overtredelser som er fastslått samt resultatene av oppfølgingen,en detaljert beskrivelse av det foreslåtte reviderte overvåkingsprogrammet for BSE, herunder det geografiske området der programmet skal gjennomføres og en beskrivelse av delpopulasjonene av storfe som skal omfattes av det reviderte programmet for overvåking av BSE, inklusive opplysninger om aldersgrenser og antall prøver som skal undersøkes,resultatet av en omfattende risikoanalyse som viser at det reviderte overvåkingsprogrammet for BSE vil sikre vern av menneskers og dyrs helse. Risikoanalysen skal inneholde en analyse av fødselskohort eller andre relevante undersøkelser som viser at de risikoreduserende tiltakene, herunder fôrforbudet nevnt i artikkel 6 punkt 1b tredje ledd bokstav c), er gjennomført på en effektiv måte.
+Medlemsstatenes anmodninger til Kommisjonen om revisjon av deres årlige programmer for overvåking av BSE skal inneholde minst følgende:
+
+1. opplysninger om det system for årlig BSE-overvåking som har vært anvendt de siste seks årene på medlemsstatens territorium, herunder detaljert dokumentasjon som viser at de epidemiologiske kriteriene i nr. 7.2 er oppfylt,
+2. opplysninger om det system for identifikasjon og sporbarhet med hensyn til storfe, som omhandlet i artikkel 6 punkt 1b tredje ledd bokstav b), som har vært anvendt de siste seks årene på medlemsstatens territorium, herunder en detaljert beskrivelse av hvordan den edb–baserte databasen nevnt i artikkel 5 i europaparlaments- og rådsforordning [1760/2000](eu/32000r1760)\* virker,
+3. opplysninger om fôrforbud på medlemsstatens territorium de siste seks årene, herunder en detaljert beskrivelse av håndhevingen av fôrforbudet for produksjonsdyr nevnt i artikkel 6 punkt 1b tredje ledd bokstav c), inklusive en prøvetakingsplan og antallet og arten av overtredelser som er fastslått samt resultatene av oppfølgingen,
+4. en detaljert beskrivelse av det foreslåtte reviderte overvåkingsprogrammet for BSE, herunder det geografiske området der programmet skal gjennomføres og en beskrivelse av delpopulasjonene av storfe som skal omfattes av det reviderte programmet for overvåking av BSE, inklusive opplysninger om aldersgrenser og antall prøver som skal undersøkes,
+5. resultatet av en omfattende risikoanalyse som viser at det reviderte overvåkingsprogrammet for BSE vil sikre vern av menneskers og dyrs helse. Risikoanalysen skal inneholde en analyse av fødselskohort eller andre relevante undersøkelser som viser at de risikoreduserende tiltakene, herunder fôrforbudet nevnt i artikkel 6 punkt 1b tredje ledd bokstav c), er gjennomført på en effektiv måte.
 
 7.2.*Epidemiologiske kriterier*
 
-Anmodninger om revisjon av et overvåkingsprogram for BSE kan godtas bare dersom den berørte medlemsstat kan dokumentere at følgende epidemiologiske kriterier, i tillegg til kravene fastsatt i artikkel 6 punkt 1b tredje ledd bokstav a), b) og c), er oppfylt på deres territorium:I minst seks sammenhengende år etter datoen for gjennomføringen av Fellesskapets kartleggingsprogram for BSE nevnt i artikkel 6 punkt 1b tredje ledd bokstav b),har den gjennomsnittlige reduksjonen i årlig BSE-forekomst påvist hos populasjonen av voksent storfe (over 24 måneder) vært større enn 20 %, og det samlede antall BSE-angrepne dyr av storfe født etter gjennomføringen av Fellesskapets totale fôrforbud for produksjonsdyr, som omhandlet i artikkel 6 punkt 1b tredje ledd bokstav c), har utgjort høyst 5 % av det samlede antall bekreftede BSE-tilfeller,
-ellerhar den årlige BSE-forekomsten påvist hos populasjonen av voksent storfe (over 24 måneder) sammenhengende vært lavere enn 1/100 000,
-ellerhar det samlede antall bekreftede BSE-tilfeller sammenhengende vært under fem, for en medlemsstat med en populasjon av voksent storfe (over 24 måneder) på mindre enn 1 000 000 dyr.Etter seksårsperioden nevnt i bokstav a) har det ikke vært noen tegn på at den epidemiologiske situasjonen med hensyn til BSE har forverret seg.
+Anmodninger om revisjon av et overvåkingsprogram for BSE kan godtas bare dersom den berørte medlemsstat kan dokumentere at følgende epidemiologiske kriterier, i tillegg til kravene fastsatt i artikkel 6 punkt 1b tredje ledd bokstav a), b) og c), er oppfylt på deres territorium:
+
+1. I minst seks sammenhengende år etter datoen for gjennomføringen av Fellesskapets kartleggingsprogram for BSE nevnt i artikkel 6 punkt 1b tredje ledd bokstav b),
+
+   1. har den gjennomsnittlige reduksjonen i årlig BSE-forekomst påvist hos populasjonen av voksent storfe (over 24 måneder) vært større enn 20 %, og det samlede antall BSE-angrepne dyr av storfe født etter gjennomføringen av Fellesskapets totale fôrforbud for produksjonsdyr, som omhandlet i artikkel 6 punkt 1b tredje ledd bokstav c), har utgjort høyst 5 % av det samlede antall bekreftede BSE-tilfeller,
+      eller
+   2. har den årlige BSE-forekomsten påvist hos populasjonen av voksent storfe (over 24 måneder) sammenhengende vært lavere enn 1/100 000,
+      eller
+   3. har det samlede antall bekreftede BSE-tilfeller sammenhengende vært under fem, for en medlemsstat med en populasjon av voksent storfe (over 24 måneder) på mindre enn 1 000 000 dyr.
+2. Etter seksårsperioden nevnt i bokstav a) har det ikke vært noen tegn på at den epidemiologiske situasjonen med hensyn til BSE har forverret seg.
 
 1 Unntak følger av [§ 4b](forskrift/2004-03-30-595/§4b). Testing av denne gruppen gjelder for dyr eldre enn 48 måneder.
 
@@ -1102,14 +1438,20 @@ Overvåking av sauer og geiter skal utføres i samsvar med laboratoriemetodene f
 
 1. I medlemsstater med en bestand av søyer og bedekkede søyelam som overstiger 750 000 dyr, skal det i samsvar med prøvetakingsreglene fastsatt i nr. 4 årlig tas prøve av minst 10 000 sauer slaktet for konsum,
 2. I medlemsstater med en bestand av geiter som har fått kje og bedekkede geiter som overstiger 750 000 dyr, skal det i samsvar med prøvetakingsreglene fastsatt i nr. 4 årlig tas prøve av minst 10 000 geiter slaktet for konsum,
-3. En medlemsstat kan velge å erstatte inntil50 % av det minste antall prøver av sauer og geiter slaktet for konsum som fastsatt i bokstav a) og b), med prøver av døde sauer eller geiter som er eldre enn 18 måneder, i forholdet en til en og i tillegg til det minste antall prøver som er fastsatt i nr. 3,10 % av det minste antall prøver som er fastsatt i bokstav a) og b), med prøver av sauer eller geiter eldre enn 18 måneder som er avlivet i forbindelse med en kampanje for utryddelse av sykdommer, i forholdet en til en.
+3. En medlemsstat kan velge å erstatte inntil
+
+   - 50 % av det minste antall prøver av sauer og geiter slaktet for konsum som fastsatt i bokstav a) og b), med prøver av døde sauer eller geiter som er eldre enn 18 måneder, i forholdet en til en og i tillegg til det minste antall prøver som er fastsatt i nr. 3,
+   - 10 % av det minste antall prøver som er fastsatt i bokstav a) og b), med prøver av sauer eller geiter eldre enn 18 måneder som er avlivet i forbindelse med en kampanje for utryddelse av sykdommer, i forholdet en til en.
 
 ◄**M50**
 ►**M32**
 
 3.*Overvåking av sauer og geiter som ikke er slaktet for konsum*
 
-EØS-statene skal ta prøver i samsvar med prøvetakingsreglene fastsatt i nr. 4 og de minste prøvestørrelsene oppført i tabell A og B, av sauer og geiter som er selvdøde eller avlivet, men som ikke:ble avlivet i forbindelse med en plan for utryddelse av sykdommer, ellerble slaktet for konsum.
+EØS-statene skal ta prøver i samsvar med prøvetakingsreglene fastsatt i nr. 4 og de minste prøvestørrelsene oppført i tabell A og B, av sauer og geiter som er selvdøde eller avlivet, men som ikke:
+
+- ble avlivet i forbindelse med en plan for utryddelse av sykdommer, eller
+- ble slaktet for konsum.
 
 *Tabell A*
 
@@ -1187,7 +1529,9 @@ Når en sau eller geit som er slaktet for konsum er valgt ut til TSE-undersøkel
 
 7.2.
 
-EØS-statene kan gjøre unntak fra nr. 7.1 når et system som er godkjent av vedkommende myndighet er innført i slakteriet, som sikrer at alle deler av et dyr kan spores og at ingen deler av de undersøkte dyrene som er påført stempelmerke forlater slakteriet før det foreligger et negativt resultat i hurtigtesten.►**M55**
+EØS-statene kan gjøre unntak fra nr. 7.1 når et system som er godkjent av vedkommende myndighet er innført i slakteriet, som sikrer at alle deler av et dyr kan spores og at ingen deler av de undersøkte dyrene som er påført stempelmerke forlater slakteriet før det foreligger et negativt resultat i hurtigtesten.
+
+►**M55**
 
 7.3.
 
@@ -1195,7 +1539,9 @@ Alle kroppsdeler av et dyr som er undersøkt, herunder huden, skal holdes under 
 
 7.4.
 
-Alle kroppsdeler av et dyr med et positivt eller usikkert resultat på hurtigprøven, herunder huden, skal disponeres direkte i samsvar med artikkel 12 bokstav a) eller b) i forordning [(EF) nr. 1069/2009](eu/32009r1069), bortsett fra materiale som skal beholdes i forbindelse med registrene fastsatt i kapittel B del III i dette vedlegg, og bortsett fra fett fra en slik kropp, forutsatt at fettet bearbeides i samsvar med forordning [(EU) nr. 142/2011](eu/32011r0142) og anvendes i samsvar med artikkel 12 bokstav e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), eller brukes til framstilling av avledede produkter nevnt i artikkel 36 i nevnte forordning.◄**M32**
+Alle kroppsdeler av et dyr med et positivt eller usikkert resultat på hurtigprøven, herunder huden, skal disponeres direkte i samsvar med artikkel 12 bokstav a) eller b) i forordning [(EF) nr. 1069/2009](eu/32009r1069), bortsett fra materiale som skal beholdes i forbindelse med registrene fastsatt i kapittel B del III i dette vedlegg, og bortsett fra fett fra en slik kropp, forutsatt at fettet bearbeides i samsvar med forordning [(EU) nr. 142/2011](eu/32011r0142) og anvendes i samsvar med artikkel 12 bokstav e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), eller brukes til framstilling av avledede produkter nevnt i artikkel 36 i nevnte forordning.
+
+◄**M32**
 ◄**M55**
 ►**M68**
 
@@ -1207,7 +1553,9 @@ Prionproteingenotypen for kodon 136, 154 og 171 skal bestemmes for hvert positiv
 
 8.2.
 
-Prionproteingenotypen for kodon 146 og 222 skal bestemmes for hvert positivt tilfelle av TSE hos geiter. Tilfeller av TSE hos geiter med genotyper som koder for serin (S) eller asparaginsyre (D) på minst ett allel i kodon 146 og/eller lysin (K) på minst ett allel i kodon 222, skal umiddelbart meldes til Kommisjonen.◄**M68**
+Prionproteingenotypen for kodon 146 og 222 skal bestemmes for hvert positivt tilfelle av TSE hos geiter. Tilfeller av TSE hos geiter med genotyper som koder for serin (S) eller asparaginsyre (D) på minst ett allel i kodon 146 og/eller lysin (K) på minst ett allel i kodon 222, skal umiddelbart meldes til Kommisjonen.
+
+◄**M68**
 ►**M61**
 
 *III. OVERVÅKING AV HJORTEDYR*
@@ -1222,7 +1570,14 @@ De medlemsstatene som har en viltlevende og/eller oppdrettet og/eller halvtam po
 
 1.2.
 
-Det treårige overvåkingsprogrammet for CWD skal omfatte følgende arter av hjortedyr:Eurasisk fjellrein (Rangifer tarandus tarandus).Finsk skogsrein (Rangifer tarandus fennicus).Elg (Alces alces).Rådyr (Capreolus capreolus).Hvithalehjort (Odocoileus virginianus).Hjort (Cervus elaphus).
+Det treårige overvåkingsprogrammet for CWD skal omfatte følgende arter av hjortedyr:
+
+- Eurasisk fjellrein (Rangifer tarandus tarandus).
+- Finsk skogsrein (Rangifer tarandus fennicus).
+- Elg (Alces alces).
+- Rådyr (Capreolus capreolus).
+- Hvithalehjort (Odocoileus virginianus).
+- Hjort (Cervus elaphus).
 
 1.3.
 
@@ -1232,11 +1587,39 @@ Som unntak fra nr. 1.2 kan en medlemsstat på grunnlag av en dokumentert risikov
 
 2.1.
 
-Medlemsstatene nevnt i nr. 1.1 skal identifisere primære utvalgsenheter (PSU-er) som skal omfatte alle områder med populasjoner av hjortedyr ved hjelp av minst følgende elementer:For oppdrettshjortedyr og hjortedyr i fangenskap skal hver driftsenhet og hvert anlegg der hjortedyr holdes på et lukket område, anses som en PSU.For viltlevende eller halvtamme hjortedyr skal PSU defineres geografisk på grunnlag av følgende kriterier:Områdene der viltlevende eller halvtamme dyr av en art som omfattes av overvåkingsprogrammet, samles i minst en viss periode av året.Dersom dyr av en art ikke samles, de områdene som er avgrenset av naturlige eller kunstige hindringer der dyr av artene som omfattes av overvåkingsprogrammet, forekommer.Områdene der det drives jakt på dyr av arter som omfattes av overvåkingsprogrammet, og områder knyttet til andre relevante former for virksomhet som gjelder artene som omfattes av overvåkingsprogrammet.
+Medlemsstatene nevnt i nr. 1.1 skal identifisere primære utvalgsenheter (PSU-er) som skal omfatte alle områder med populasjoner av hjortedyr ved hjelp av minst følgende elementer:
+
+1. For oppdrettshjortedyr og hjortedyr i fangenskap skal hver driftsenhet og hvert anlegg der hjortedyr holdes på et lukket område, anses som en PSU.
+2. For viltlevende eller halvtamme hjortedyr skal PSU defineres geografisk på grunnlag av følgende kriterier:
+
+   1. Områdene der viltlevende eller halvtamme dyr av en art som omfattes av overvåkingsprogrammet, samles i minst en viss periode av året.
+   2. Dersom dyr av en art ikke samles, de områdene som er avgrenset av naturlige eller kunstige hindringer der dyr av artene som omfattes av overvåkingsprogrammet, forekommer.
+   3. Områdene der det drives jakt på dyr av arter som omfattes av overvåkingsprogrammet, og områder knyttet til andre relevante former for virksomhet som gjelder artene som omfattes av overvåkingsprogrammet.
 
 2.2.
 
-Medlemsstatene nevnt i nr. 1.1 skal velge ut oppdrettshjortedyr, hjortedyr i fangenskap, viltlevende og halvtamme hjortedyr til testing for TSE ved hjelp av følgende prøvetakingsmetode i to trinn:I første trinn skal disse medlemsstatene gjøre følgende utvalg:For oppdrettshjortedyr og hjortedyr i fangenskap:Stikkprøvebasis, idet geografisk representativitet sikres og, dersom det er relevant, der det tas hensyn til relevante risikofaktorer som er identifisert i en dokumentert risikovurdering utført av medlemsstaten, 100 PSU-er som skal undersøkes i den treårsperioden overvåkingsprogrammet varer, eller,dersom medlemsstaten ikke har kunnet identifisere 100 PSU-er for oppdrettshjortedyr og hjortedyr i fangenskap, alle identifiserte PSU-er.For viltlevende og halvtamme hjortedyr:Stikkprøvebasis, idet geografisk representativitet sikres og, dersom det er relevant, der det tas hensyn til relevante risikofaktorer som er identifisert i en dokumentert risikovurdering utført av medlemsstaten, 100 PSU-er som skal undersøkes i den treårsperioden overvåkingsprogrammet varer, eller,dersom medlemsstaten ikke har kunnet identifisere 100 PSU-er for viltlevende hjortedyr og halvtamme hjortedyr, alle identifiserte PSU-er.I annet trinn:For oppdrettshjortedyr og hjortedyr i fangenskap:En medlemsstat som har valgt ut 100 PSU-er, skal i hver utvalgt PSU ta prøver av alle dyr som tilhører målgruppene oppført i nr. 2.4. bokstav a) i løpet av treårsperioden, inntil målet på 30 testede dyr per PSU er nådd. Dersom det imidlertid for visse PSU-er ikke er mulig å nå målet på 30 testede dyr i løpet av treårsperioden på grunn av hjortedyrpopulasjonens begrensede størrelse, kan prøvetakingen av dyr som tilhører målgruppene oppført i nr. 2.4. bokstav a), fortsette i større PSU-er selv etter at målet på 30 testede dyr er nådd, med sikte på å oppnå at et samlet antall på opptil 3 000 oppdrettshjortedyr og hjortedyr i fangenskap om mulig er blitt testet på nasjonalt plan i løpet av treårsperioden som overvåkingsprogrammet varer.En medlemsstat som har identifisert færre enn 100 PSU-er, skal innenfor hver PSU ta prøver av alle dyr som tilhører målgruppene oppført i nr. 2.4. bokstav a) i løpet av treårsperioden, med sikte på å nærme seg at et samlet antall på opptil 3 000 oppdrettshjortedyr og hjortedyr i fangenskap om mulig er blitt testet på nasjonalt plan i løpet av treårsperioden som overvåkingsprogrammet varer.For viltlevende og halvtamme hjortedyr:En medlemsstat som har valgt ut 100 PSU-er, skal i hver utvalgt PSU ta prøver av alle dyr som tilhører målgruppene oppført i nr. 2.4 bokstav b) i løpet av treårsperioden, inntil et mål på 30 testede dyr per PSU er nådd, med sikte på å oppnå at opptil 3 000 viltlevende og halvtamme hjortedyr er blitt testet på nasjonalt plan i løpet av treårsperioden.En medlemsstat som har identifisert færre enn 100 PSU-er, skal i hver PSU ta prøver av alle dyr som tilhører målgruppene oppført i nr. 2.4. bokstav b) i løpet av treårsperioden, med sikte på å nærme seg at et samlet antall på 3 000 viltlevende og halvtamme hjortedyr er blitt testet på nasjonalt plan i løpet av treårsperioden som overvåkingsprogrammet varer.
+Medlemsstatene nevnt i nr. 1.1 skal velge ut oppdrettshjortedyr, hjortedyr i fangenskap, viltlevende og halvtamme hjortedyr til testing for TSE ved hjelp av følgende prøvetakingsmetode i to trinn:
+
+1. I første trinn skal disse medlemsstatene gjøre følgende utvalg:
+
+   1. For oppdrettshjortedyr og hjortedyr i fangenskap:
+
+      - Stikkprøvebasis, idet geografisk representativitet sikres og, dersom det er relevant, der det tas hensyn til relevante risikofaktorer som er identifisert i en dokumentert risikovurdering utført av medlemsstaten, 100 PSU-er som skal undersøkes i den treårsperioden overvåkingsprogrammet varer, eller,
+      - dersom medlemsstaten ikke har kunnet identifisere 100 PSU-er for oppdrettshjortedyr og hjortedyr i fangenskap, alle identifiserte PSU-er.
+   2. For viltlevende og halvtamme hjortedyr:
+
+      - Stikkprøvebasis, idet geografisk representativitet sikres og, dersom det er relevant, der det tas hensyn til relevante risikofaktorer som er identifisert i en dokumentert risikovurdering utført av medlemsstaten, 100 PSU-er som skal undersøkes i den treårsperioden overvåkingsprogrammet varer, eller,
+      - dersom medlemsstaten ikke har kunnet identifisere 100 PSU-er for viltlevende hjortedyr og halvtamme hjortedyr, alle identifiserte PSU-er.
+2. I annet trinn:
+
+   1. For oppdrettshjortedyr og hjortedyr i fangenskap:
+
+      - En medlemsstat som har valgt ut 100 PSU-er, skal i hver utvalgt PSU ta prøver av alle dyr som tilhører målgruppene oppført i nr. 2.4. bokstav a) i løpet av treårsperioden, inntil målet på 30 testede dyr per PSU er nådd. Dersom det imidlertid for visse PSU-er ikke er mulig å nå målet på 30 testede dyr i løpet av treårsperioden på grunn av hjortedyrpopulasjonens begrensede størrelse, kan prøvetakingen av dyr som tilhører målgruppene oppført i nr. 2.4. bokstav a), fortsette i større PSU-er selv etter at målet på 30 testede dyr er nådd, med sikte på å oppnå at et samlet antall på opptil 3 000 oppdrettshjortedyr og hjortedyr i fangenskap om mulig er blitt testet på nasjonalt plan i løpet av treårsperioden som overvåkingsprogrammet varer.
+      - En medlemsstat som har identifisert færre enn 100 PSU-er, skal innenfor hver PSU ta prøver av alle dyr som tilhører målgruppene oppført i nr. 2.4. bokstav a) i løpet av treårsperioden, med sikte på å nærme seg at et samlet antall på opptil 3 000 oppdrettshjortedyr og hjortedyr i fangenskap om mulig er blitt testet på nasjonalt plan i løpet av treårsperioden som overvåkingsprogrammet varer.
+   2. For viltlevende og halvtamme hjortedyr:
+
+      - En medlemsstat som har valgt ut 100 PSU-er, skal i hver utvalgt PSU ta prøver av alle dyr som tilhører målgruppene oppført i nr. 2.4 bokstav b) i løpet av treårsperioden, inntil et mål på 30 testede dyr per PSU er nådd, med sikte på å oppnå at opptil 3 000 viltlevende og halvtamme hjortedyr er blitt testet på nasjonalt plan i løpet av treårsperioden.
+      - En medlemsstat som har identifisert færre enn 100 PSU-er, skal i hver PSU ta prøver av alle dyr som tilhører målgruppene oppført i nr. 2.4. bokstav b) i løpet av treårsperioden, med sikte på å nærme seg at et samlet antall på 3 000 viltlevende og halvtamme hjortedyr er blitt testet på nasjonalt plan i løpet av treårsperioden som overvåkingsprogrammet varer.
 
 2.3.
 
@@ -1244,7 +1627,21 @@ Alle hjortedyr i målgruppen skal være eldre enn tolv måneder. Alderen skal be
 
 2.4.
 
-Hjortedyrene skal velges ut fra følgende målgrupper:For oppdrettshjortedyr og hjortedyr i fangenskap:Selvdøde/avlivede oppdrettshjortedyr eller hjortedyr i fangenskap, definert som oppdrettshjortedyr eller hjortedyr i fangenskap som er funnet døde på et lukket område der dyrene holdes, under transport eller på slakteriet samt andre oppdrettshjortedyr eller hjortedyr i fangenskap som er avlivet på grunn av helsetilstand eller alder.Oppdrettshjortedyr eller hjortedyr i fangenskap som er syke/viser kliniske tegn på sykdom, definert som oppdrettshjortedyr eller hjortedyr i fangenskap som viser tegn på unormal atferd og/eller bevegelsesforstyrrelser og/eller generelt svekket tilstand.Slaktede oppdrettshjortedyr som er erklært uegnede til konsum.Slaktede oppdrettshjortedyr som er erklært som egnede til konsum, dersom en medlemsstat påviser færre enn 3 000 oppdrettshjortedyr og hjortedyr i fangenskap fra gruppe i)–iii).For viltlevende og halvtamme hjortedyr:Selvdøde/avlivede viltlevende eller halvtamme hjortedyr, definert som hjortedyr funnet døde i naturen samt halvtamme hjortedyr som er funnet døde eller er avlivet på grunn av helsetilstand eller alder.Hjortedyr som er blitt drept eller skadet i trafikken eller av rovdyr, definert som viltlevende eller halvtamme hjortedyr som er truffet av veigående kjøretøyer, tog eller er angrepet av rovdyr.Viltlevende hjortedyr og halvtamme hjortedyr som er syke/viser kliniske tegn på sykdom, definert som viltlevende hjortedyr og halvtamme hjortedyr som viser tegn på unormal atferd og/eller bevegelsesforstyrrelser og/eller generelt svekket tilstand.Viltlevende hjortedyr som er felt og slaktede halvtamme hjortedyr som er erklært uegnede til konsum.Viltlevende vilt som er felt og slaktede halvtamme hjortedyr som er funnet egnede til konsum, dersom en medlemsstat har påvist færre enn 3 000 viltlevende og halvtamme hjortedyr fra gruppe i)–iv).
+Hjortedyrene skal velges ut fra følgende målgrupper:
+
+1. For oppdrettshjortedyr og hjortedyr i fangenskap:
+
+   1. Selvdøde/avlivede oppdrettshjortedyr eller hjortedyr i fangenskap, definert som oppdrettshjortedyr eller hjortedyr i fangenskap som er funnet døde på et lukket område der dyrene holdes, under transport eller på slakteriet samt andre oppdrettshjortedyr eller hjortedyr i fangenskap som er avlivet på grunn av helsetilstand eller alder.
+   2. Oppdrettshjortedyr eller hjortedyr i fangenskap som er syke/viser kliniske tegn på sykdom, definert som oppdrettshjortedyr eller hjortedyr i fangenskap som viser tegn på unormal atferd og/eller bevegelsesforstyrrelser og/eller generelt svekket tilstand.
+   3. Slaktede oppdrettshjortedyr som er erklært uegnede til konsum.
+   4. Slaktede oppdrettshjortedyr som er erklært som egnede til konsum, dersom en medlemsstat påviser færre enn 3 000 oppdrettshjortedyr og hjortedyr i fangenskap fra gruppe i)–iii).
+2. For viltlevende og halvtamme hjortedyr:
+
+   1. Selvdøde/avlivede viltlevende eller halvtamme hjortedyr, definert som hjortedyr funnet døde i naturen samt halvtamme hjortedyr som er funnet døde eller er avlivet på grunn av helsetilstand eller alder.
+   2. Hjortedyr som er blitt drept eller skadet i trafikken eller av rovdyr, definert som viltlevende eller halvtamme hjortedyr som er truffet av veigående kjøretøyer, tog eller er angrepet av rovdyr.
+   3. Viltlevende hjortedyr og halvtamme hjortedyr som er syke/viser kliniske tegn på sykdom, definert som viltlevende hjortedyr og halvtamme hjortedyr som viser tegn på unormal atferd og/eller bevegelsesforstyrrelser og/eller generelt svekket tilstand.
+   4. Viltlevende hjortedyr som er felt og slaktede halvtamme hjortedyr som er erklært uegnede til konsum.
+   5. Viltlevende vilt som er felt og slaktede halvtamme hjortedyr som er funnet egnede til konsum, dersom en medlemsstat har påvist færre enn 3 000 viltlevende og halvtamme hjortedyr fra gruppe i)–iv).
 
 2.5.
 
@@ -1256,7 +1653,11 @@ Ved et positivt resultat for TSE hos et hjortedyr må antallet prøver av hjorte
 
 For hvert hjortedyr som er valgt ut i samsvar med nr. 2, skal det tas en prøve av obex som skal undersøkes for TSE.
 
-Dessuten skal det, dersom det er mulig, tas en prøve av ett av følgende vev i følgende prioriterte rekkefølge:Retrofaryngeale lymfeknuter.Mandlene.Andre lymfeknuter i hodet.
+Dessuten skal det, dersom det er mulig, tas en prøve av ett av følgende vev i følgende prioriterte rekkefølge:
+
+1. Retrofaryngeale lymfeknuter.
+2. Mandlene.
+3. Andre lymfeknuter i hodet.
 
 For hurtigtesting skal det sendes inn en hemiseksjon av obex i fersk eller fryst tilstand. Den gjenværende hemiseksjonen bør fikseres. Lymfeknuter og mandler bør fikseres når de samles inn.
 
@@ -1264,13 +1665,31 @@ En stykke ferskt vev fra hver prøve skal oppbevares nedfryst til det foreligger
 
 3.2.
 
-Fram til EUs referanselaboratorium for TSE har offentliggjort retningslinjer for testing for TSE hos hjortedyr, skal følgende laboratoriemetode brukes i forbindelse med programmet for overvåking for CWD:*Hurtigtester:*Hurtigtester som nevnt i kapittel C nr. 4 i vedlegg X og som brukes for påvisning av TSE i obex hos storfe eller små drøvtyggere, skal anses som egnede for påvisning av TSE i obex hos hjortedyr. Hurtigtester som nevnt i kapittel C nr. 4 i vedlegg X og som brukes for påvisning av TSE i lymfeknuter hos storfe eller små drøvtyggere, skal anses som egnede for påvisning av TSE i lymfeknuter hos hjortedyr. Medlemsstatene kan også bruke immunhistokjemi for screeningformål, og i den forbindelse skal de oppnå et tilfredsstillende resultat i en egnethetstest ved EUs referanselaboratorium for TSE.*Bekreftende tester:*Dersom resultatet av hurtigtesten er usikkert eller positivt, skal prøven umiddelbart gjennomgå bekreftende undersøkelser ved hjelp av minst én av følgende metoder eller protokoller som fastsatt i siste utgave av OIEs landdyrhåndbok:Immunhistokjemisk metode (IHC).Western blot.Dersom en medlemsstat ikke kan bekrefte et positivt resultat på en hurtigtest, skal egnet vev sendes til EUs referanselaboratorium for bekreftelse.*Karakterisering av isolater:*Når det gjelder positive resultater for TSE, bør ytterligere karakterisering av isolater foretas i samråd med EUs referanselaboratorium for TSE.
+Fram til EUs referanselaboratorium for TSE har offentliggjort retningslinjer for testing for TSE hos hjortedyr, skal følgende laboratoriemetode brukes i forbindelse med programmet for overvåking for CWD:
+
+1. *Hurtigtester:*
+
+   Hurtigtester som nevnt i kapittel C nr. 4 i vedlegg X og som brukes for påvisning av TSE i obex hos storfe eller små drøvtyggere, skal anses som egnede for påvisning av TSE i obex hos hjortedyr. Hurtigtester som nevnt i kapittel C nr. 4 i vedlegg X og som brukes for påvisning av TSE i lymfeknuter hos storfe eller små drøvtyggere, skal anses som egnede for påvisning av TSE i lymfeknuter hos hjortedyr. Medlemsstatene kan også bruke immunhistokjemi for screeningformål, og i den forbindelse skal de oppnå et tilfredsstillende resultat i en egnethetstest ved EUs referanselaboratorium for TSE.
+2. *Bekreftende tester:*
+
+   Dersom resultatet av hurtigtesten er usikkert eller positivt, skal prøven umiddelbart gjennomgå bekreftende undersøkelser ved hjelp av minst én av følgende metoder eller protokoller som fastsatt i siste utgave av OIEs landdyrhåndbok:
+
+   - Immunhistokjemisk metode (IHC).
+   - Western blot.
+
+   Dersom en medlemsstat ikke kan bekrefte et positivt resultat på en hurtigtest, skal egnet vev sendes til EUs referanselaboratorium for bekreftelse.
+3. *Karakterisering av isolater:*
+
+   Når det gjelder positive resultater for TSE, bør ytterligere karakterisering av isolater foretas i samråd med EUs referanselaboratorium for TSE.
 
 3.3.
 
 Prionproteinets genotype skal bestemmes for hvert enkelt positivt funn av TSE hos hjortedyr.
 
-Dessuten skal for hvert hjortedyr som er testet og funnet negativt for TSE, entenprionproteinets genotype bestemmes for dyret som er testet og funnet negativt for TSE, elleren vevsprøve, som kan være av obex, oppbevares nedfryst til minst 31. desember 2021, slik at genotype kan bestemmes dersom det treffes beslutning om det.
+Dessuten skal for hvert hjortedyr som er testet og funnet negativt for TSE, enten
+
+- prionproteinets genotype bestemmes for dyret som er testet og funnet negativt for TSE, eller
+- en vevsprøve, som kan være av obex, oppbevares nedfryst til minst 31. desember 2021, slik at genotype kan bestemmes dersom det treffes beslutning om det.
 
 *B. Annen overvåking av hjortedyr*
 
@@ -1302,15 +1721,29 @@ A. *Opplysninger som skal tas med i medlemsstatenes årlige rapporter i samsvar 
 4. Antall storfe som er undersøkt i hver delpopulasjon nevnt i kapittel A del I nr. 2.1, 2.2, 3.1 og 5. Metoden for utvelging av prøver, resultatene av hurtigprøvene og de bekreftende prøvene og aldersfordelingen hos de undersøkte dyrene, gruppert som fastsatt i nr. 2, skal angis.
 5. Antall sauer og geiter og besetninger som er undersøkt i hver delpopulasjon nevnt i kapittel A del II nr. 2, 3, 5 og 6, samt metoden for utvelging av prøver og resultatene av hurtigprøvene og de bekreftende prøvene.
 6. Den geografiske fordelingen, herunder opprinnelsesstaten dersom den ikke er den samme som rapporteringsstaten, av positive tilfeller av BSE og skrapesyke. Det bør opplyses om fødselsår og om mulig fødselsmåned for hvert enkelt tilfelle av TSE hos storfe, sauer og geiter. TSE-tilfeller som vurderes som atypiske, skal angis. For tilfeller av skrapesyke skal resultatene av den første og andre molekylære undersøkelsen nevnt i vedlegg X kapittel C nr. 3.2 bokstav c) rapporteres.
-◄**M54**
-►**M61**
+   ◄**M54**
+   ►**M61**
 7. Hos andre dyr enn storfe, sauer og geiter samt hos andre hjortedyr enn dem som omfattes av det treårige programmet for overvåking for CWD nevnt i kapittel A del III avsnitt A i dette vedlegg, antall prøver og bekreftede tilfeller av TSE per art.
-◄**M61**
-►**M68**
+   ◄**M61**
+   ►**M68**
 8. Genotype og om mulig rase for hver sau eller geit som enten er påvist å være positiv for TSE, eller som det er tatt prøve av i samsvar med kapittel A del II nr. 8.
-◄**M68**
-►**M61**
-9. For medlemsstater som omfattes av det treårige overvåkingsprogrammet for CWD nevnt i kapittel A del III avsnitt A i dette vedlegg, skal årsrapporten for årene 2018, 2019 og 2020 omfatte følgende:Antall prøver av hjortedyr som er oversendt for testing, fordelt på målgruppe i henhold til følgende kriterier:Identifikator for den primære utvalgsenheten (PSU).Art.Driftssystem: oppdrettet, i fangenskap, viltlevende eller halvtamme.Målgruppe.Kjønn.Resultatene av hurtigtester og bekreftende tester (antallet positive og negative) og, dersom det er relevant, av ytterligere undersøkelser for karakterisering av isolater, vevet som det er tatt prøver av samt hurtigtesten og den bekreftende teknikken som er brukt.Det geografiske området, herunder opprinnelsesstaten dersom den ikke er den samme som den innberettende medlemsstaten, der det forekommer positive tilfeller av TSE.Genotype og art for hvert hjortedyr som er TSE-positivt.Dersom det er testet, genotypen for hjortedyr som er blitt testet og funnet negative for TSE.◄**M61**
+   ◄**M68**
+   ►**M61**
+9. For medlemsstater som omfattes av det treårige overvåkingsprogrammet for CWD nevnt i kapittel A del III avsnitt A i dette vedlegg, skal årsrapporten for årene 2018, 2019 og 2020 omfatte følgende:
+
+   1. Antall prøver av hjortedyr som er oversendt for testing, fordelt på målgruppe i henhold til følgende kriterier:
+
+      - Identifikator for den primære utvalgsenheten (PSU).
+      - Art.
+      - Driftssystem: oppdrettet, i fangenskap, viltlevende eller halvtamme.
+      - Målgruppe.
+      - Kjønn.
+   2. Resultatene av hurtigtester og bekreftende tester (antallet positive og negative) og, dersom det er relevant, av ytterligere undersøkelser for karakterisering av isolater, vevet som det er tatt prøver av samt hurtigtesten og den bekreftende teknikken som er brukt.
+   3. Det geografiske området, herunder opprinnelsesstaten dersom den ikke er den samme som den innberettende medlemsstaten, der det forekommer positive tilfeller av TSE.
+   4. Genotype og art for hvert hjortedyr som er TSE-positivt.
+   5. Dersom det er testet, genotypen for hjortedyr som er blitt testet og funnet negative for TSE.
+
+   ◄**M61**
 
 ►**M54**
 
@@ -1328,7 +1761,7 @@ III. REGISTRE
 
 1. Vedkommende myndighet skal føre registre over opplysningene nevnt i del I.A, som skal oppbevares i sju år.
 2. Laboratoriet som utfører undersøkelsene, skal i sju år oppbevare registre med alle opplysninger fra prøvene, særlig laboratoriejournaler og, eventuelt, parafinblokker og fotografier av Western blot.
-◄**M54**
+   ◄**M54**
 
 ### Vedlegg IV1
 ►**M48**
@@ -1339,15 +1772,69 @@ Fôrvarer
 ### Kapittel I
 Utvidelse av forbudet fastsatt i artikkel 7 nr. 1
 
-I samsvar med artikkel 7 nr. 2 skal forbudet fastsatt i artikkel 7 nr. 1, utvides til å omfatte fôringav drøvtyggere med dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse og fôrblandinger som inneholder disse produkter,
-►**M69**av ikke-drøvtyggende produksjonsdyr, bortsett fra pelsdyr, medbearbeidet animalsk protein,blodprodukter,hydrolysert protein av animalsk opprinnelse,dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,fôr som inneholder produktene oppført i punkt i)–v).◄**M69**
+I samsvar med artikkel 7 nr. 2 skal forbudet fastsatt i artikkel 7 nr. 1, utvides til å omfatte fôring
+
+1. av drøvtyggere med dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse og fôrblandinger som inneholder disse produkter,
+   ►**M69**
+2. av ikke-drøvtyggende produksjonsdyr, bortsett fra pelsdyr, med
+
+   1. bearbeidet animalsk protein,
+   2. blodprodukter,
+   3. hydrolysert protein av animalsk opprinnelse,
+   4. dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,
+   5. fôr som inneholder produktene oppført i punkt i)–v).
+
+   ◄**M69**
 
 ### Kapittel II
 Unntak fra forbudene fastsatt i artikkel 7 nr. 1 og i kapittel 1
 
-I samsvar med første ledd i artikkel 7 nr. 3 skal forbudet fastsatt i artikkel 7 nr. 1 og i kapittel I ikke få anvendelse på fôr tildrøvtyggere avmelk, melkebaserte produkter og produkter framstilt av melk, råmelk og råmelksprodukter,egg og eggprodukter,kollagen og gelatin fra andre dyr enn drøvtyggere,hydrolyserte proteiner fradeler av andre dyr enn drøvtyggere, ellerhuder og skinn fra drøvtyggere,fôrblandinger som inneholder produktene oppført i nr. i)–iv) ovenfor,andre produksjonsdyr enn drøvtyggere med følgende fôrmidler og fôrblandinger:hydrolyserte proteiner fra deler av andre dyr enn drøvtyggere eller av huder og skinn fra drøvtyggere,fiskemel og fôrblandinger som inneholder fiskemel som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkår fastsatt i kapittel III og de særlige vilkår fastsatt i kapittel VI avsnitt A,dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse og fôrblandinger som inneholder slike fosfater, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkår fastsatt i kapittel III og de særlige vilkår fastsatt i kapittel IV avsnitt B,blodprodukter fra andre dyr enn drøvtyggere, og fôrblandinger som inneholder slike blodprodukter som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkår fastsatt i kapittel III og de særlige vilkår fastsatt i kapittel IV avsnitt C,►**M59**akvakulturdyr med følgende fôrmidler og fôrblandinger:bearbeidet animalsk protein fra andre dyr enn drøvtyggere, bortsett fra fiskemel og bortsett fra bearbeidet animalsk protein fra oppdrettsinsekter, og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III, og de særlige vilkårene fastsatt i avsnitt D i kapittel IV,bearbeidet animalsk protein fra oppdrettsinsekter og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III, og de særlige vilkårene fastsatt i avsnitt F i kapittel IV,◄**M59**drøvtyggere som ikke er avvent, med melkeerstatning som inneholder fiskemel og som framstilles, bringes i omsetning og brukes i samsvar med særlige vilkår fastsatt i kapittel IV avsnitt E,produksjonsdyr med fôrmidler av vegetabilsk opprinnelse og fôrblandinger som inneholder slike fôrmidler og som er kontaminert med en ubetydelig mengde beinsplinter fra ikke-tillatte dyrearter. Medlemsstatene kan bare benytte dette unntaket dersom de på forhånd har gjennomført en risikovurdering som har bekreftet at risikoen for dyrs helse er ubetydelig. Denne risikovurderingen må ta hensyn minst til følgende:kontamineringsnivå,kontamineringens art og kilde,den tiltenkte bruken av det kontaminerte fôret.►**M69**
-►**M69**fjørfe med følgende fôrmidler og fôrblandinger:
-◄**M69**Bearbeidet animalsk protein fra svin og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III og de særlige vilkårene fastsatt i kapittel IV avsnitt G.Bearbeidet animalsk protein fra oppdrettsinsekter og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III og de særlige vilkårene fastsatt i kapittel IV avsnitt F.svin med følgende fôrmidler og fôrblandinger:Bearbeidet animalsk protein fra fjørfe og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III og de særlige vilkårene fastsatt i kapittel IV avsnitt H.Bearbeidet animalsk protein fra oppdrettsinsekter og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III og de særlige vilkårene fastsatt i kapittel IV avsnitt F.◄**M69**
+I samsvar med første ledd i artikkel 7 nr. 3 skal forbudet fastsatt i artikkel 7 nr. 1 og i kapittel I ikke få anvendelse på fôr til
+
+1. drøvtyggere av
+
+   1. melk, melkebaserte produkter og produkter framstilt av melk, råmelk og råmelksprodukter,
+   2. egg og eggprodukter,
+   3. kollagen og gelatin fra andre dyr enn drøvtyggere,
+   4. hydrolyserte proteiner fra
+
+      - deler av andre dyr enn drøvtyggere, eller
+      - huder og skinn fra drøvtyggere,
+   5. fôrblandinger som inneholder produktene oppført i nr. i)–iv) ovenfor,
+2. andre produksjonsdyr enn drøvtyggere med følgende fôrmidler og fôrblandinger:
+
+   1. hydrolyserte proteiner fra deler av andre dyr enn drøvtyggere eller av huder og skinn fra drøvtyggere,
+   2. fiskemel og fôrblandinger som inneholder fiskemel som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkår fastsatt i kapittel III og de særlige vilkår fastsatt i kapittel VI avsnitt A,
+   3. dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse og fôrblandinger som inneholder slike fosfater, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkår fastsatt i kapittel III og de særlige vilkår fastsatt i kapittel IV avsnitt B,
+   4. blodprodukter fra andre dyr enn drøvtyggere, og fôrblandinger som inneholder slike blodprodukter som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkår fastsatt i kapittel III og de særlige vilkår fastsatt i kapittel IV avsnitt C,
+
+   ►**M59**
+3. akvakulturdyr med følgende fôrmidler og fôrblandinger:
+
+   1. bearbeidet animalsk protein fra andre dyr enn drøvtyggere, bortsett fra fiskemel og bortsett fra bearbeidet animalsk protein fra oppdrettsinsekter, og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III, og de særlige vilkårene fastsatt i avsnitt D i kapittel IV,
+   2. bearbeidet animalsk protein fra oppdrettsinsekter og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III, og de særlige vilkårene fastsatt i avsnitt F i kapittel IV,
+
+   ◄**M59**
+4. drøvtyggere som ikke er avvent, med melkeerstatning som inneholder fiskemel og som framstilles, bringes i omsetning og brukes i samsvar med særlige vilkår fastsatt i kapittel IV avsnitt E,
+5. produksjonsdyr med fôrmidler av vegetabilsk opprinnelse og fôrblandinger som inneholder slike fôrmidler og som er kontaminert med en ubetydelig mengde beinsplinter fra ikke-tillatte dyrearter. Medlemsstatene kan bare benytte dette unntaket dersom de på forhånd har gjennomført en risikovurdering som har bekreftet at risikoen for dyrs helse er ubetydelig. Denne risikovurderingen må ta hensyn minst til følgende:
+
+   1. kontamineringsnivå,
+   2. kontamineringens art og kilde,
+   3. den tiltenkte bruken av det kontaminerte fôret.
+
+   ►**M69**
+   ►**M69**
+6. fjørfe med følgende fôrmidler og fôrblandinger:
+   ◄**M69**
+
+   1. Bearbeidet animalsk protein fra svin og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III og de særlige vilkårene fastsatt i kapittel IV avsnitt G.
+   2. Bearbeidet animalsk protein fra oppdrettsinsekter og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III og de særlige vilkårene fastsatt i kapittel IV avsnitt F.
+7. svin med følgende fôrmidler og fôrblandinger:
+
+   1. Bearbeidet animalsk protein fra fjørfe og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III og de særlige vilkårene fastsatt i kapittel IV avsnitt H.
+   2. Bearbeidet animalsk protein fra oppdrettsinsekter og fôrblandinger som inneholder slikt bearbeidet animalsk protein, som framstilles, bringes i omsetning og brukes i samsvar med de alminnelige vilkårene fastsatt i kapittel III og de særlige vilkårene fastsatt i kapittel IV avsnitt F.
+
+   ◄**M69**
 
 ### Kapittel III
 Alminnelige vilkår for anvendelsen av visse unntak fastsatt i kapittel II
@@ -1363,14 +1850,16 @@ Transport og lagring av fôrmidler og fôrblandinger beregnet på fôring av and
 ►**M69**
 
 1. Bearbeidet animalsk protein i bulk fra ikke-drøvtyggere, herunder fiskemel, bearbeidet animalsk protein fra oppdrettsinsekter, bearbeidet animalsk protein fra svin og bearbeidet animalsk protein fra fjørfe.
-◄**M69**
+   ◄**M69**
 2. dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse i bulk,
 3. blodprodukter i bulk fra andre dyr enn drøvtyggere,
 4. fôrblandinger i bulk som inneholder fôrmidlene oppført i bokstav a), b) og c).
 
 Registre over hvilke typer produkter som er blitt transportert eller lagret i et lagringsanlegg, skal være tilgjengelige for vedkommende myndighet i minst to år.
 
-2\. Som unntak fra nr. 1 kan kjøretøyer, containere og lagringsanlegg som tidligere er brukt til transport eller lagring av produktene oppført i nevnte nummer, senere brukes til transport eller lagring av fôr beregnet på drøvtyggere, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
+2\. Som unntak fra nr. 1 kan kjøretøyer, containere og lagringsanlegg som tidligere er brukt til transport eller lagring av produktene oppført i nevnte nummer, senere brukes til transport eller lagring av fôr beregnet på drøvtyggere, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.
+
+Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
 
 3\. Lagringsanlegg der det i samsvar med nr. 2 lagres fôrmidler og fôrblandinger oppført i nr. 1, skal godkjennes av vedkommende myndighet på grunnlag av kontroll av at de oppfyller kravene angitt i nr. 2.
 
@@ -1380,19 +1869,27 @@ Registre over hvilke typer produkter som er blitt transportert eller lagret i et
 
 4\. Bearbeidet animalsk protein i bulk fra svin og fôrblandinger i bulk som inneholder slikt bearbeidet animalsk protein, skal transporteres i kjøretøyer og containere og lagres i lagringsfasiliteter som ikke brukes til henholdsvis transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr og fjørfe.
 
-5\. Som unntak fra nr. 4 kan kjøretøyer, containere og lagringsfasiliteter som tidligere er brukt til transport eller lagring av bearbeidet animalsk protein i bulk fra svin og fôrblandinger i bulk som inneholder slikt bearbeidet animalsk protein, senere brukes til transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr og fjørfe, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
+5\. Som unntak fra nr. 4 kan kjøretøyer, containere og lagringsfasiliteter som tidligere er brukt til transport eller lagring av bearbeidet animalsk protein i bulk fra svin og fôrblandinger i bulk som inneholder slikt bearbeidet animalsk protein, senere brukes til transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr og fjørfe, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.
+
+Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
 
 6\. Bearbeidet animalsk protein i bulk fra fjørfe og fôrblandinger i bulk som inneholder slikt bearbeidet animalsk protein, skal transporteres i kjøretøyer og containere og lagres i lagringsfasiliteter som ikke brukes til henholdsvis transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr og svin.
 
-7\. Som unntak fra nr. 6 kan kjøretøyer, containere og lagringsfasiliteter som tidligere er brukt til transport eller lagring av bearbeidet animalsk protein i bulk fra fjørfe og fôrblandinger i bulk som inneholder slikt bearbeidet animalsk protein, senere brukes til transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr og svin, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
+7\. Som unntak fra nr. 6 kan kjøretøyer, containere og lagringsfasiliteter som tidligere er brukt til transport eller lagring av bearbeidet animalsk protein i bulk fra fjørfe og fôrblandinger i bulk som inneholder slikt bearbeidet animalsk protein, senere brukes til transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr og svin, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.
+
+Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
 
 8\. Bearbeidet animalsk protein i bulk fra oppdrettsinsekter og fôrblandinger i bulk som inneholder slikt bearbeidet animalsk protein, skal transporteres i kjøretøyer og containere og lagres i lagringsfasiliteter som ikke brukes til henholdsvis transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr, fjørfe og svin.
 
-9\. Som unntak fra nr. 8 kan kjøretøyer, containere og lagringsfasiliteter som tidligere er brukt til transport eller lagring av bearbeidet animalsk protein i bulk fra oppdrettsinsekter og fôrblandinger i bulk som inneholder slikt bearbeidet animalsk protein, senere brukes til transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr, fjørfe og svin, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
+9\. Som unntak fra nr. 8 kan kjøretøyer, containere og lagringsfasiliteter som tidligere er brukt til transport eller lagring av bearbeidet animalsk protein i bulk fra oppdrettsinsekter og fôrblandinger i bulk som inneholder slikt bearbeidet animalsk protein, senere brukes til transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr, fjørfe og svin, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.
+
+Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
 
 10\. Bearbeidet animalsk protein i bulk fra ikke-drøvtyggere, bortsett fra fiskemel og bearbeidet animalsk protein fra fjørfe, svin og oppdrettsinsekter, og fôrblandinger i bulk som inneholder slikt bearbeidet animalsk protein, skal transporteres i kjøretøyer og containere og lagres i lagringsfasiliteter som ikke brukes til henholdsvis transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr.
 
-11\. Som unntak fra nr. 10 kan kjøretøyer, containere og lagringsfasiliteter som tidligere er brukt til transport eller lagring av produktene omhandlet i nevnte nummer, senere brukes til transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
+11\. Som unntak fra nr. 10 kan kjøretøyer, containere og lagringsfasiliteter som tidligere er brukt til transport eller lagring av produktene omhandlet i nevnte nummer, senere brukes til transport eller lagring av fôr beregnet på ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.
+
+Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
 
 ◄**M69**
 
@@ -1400,14 +1897,34 @@ Registre over hvilke typer produkter som er blitt transportert eller lagret i et
 
 Framstilling av fôrblandinger beregnet på fôring av andre produksjonsdyr enn drøvtyggere
 
-1\. Fôrblandinger beregnet på fôring av andre produksjonsdyr enn drøvtyggere og som inneholder følgende fôrmidler, skal framstilles i virksomheter som ikke framstiller fôrblandinger til drøvtyggere, og som er godkjent av vedkommende myndighet:fiskemel,dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,blodprodukter fra andre dyr enn drøvtyggere,►**M74**____◄**M74**
+1\. Fôrblandinger beregnet på fôring av andre produksjonsdyr enn drøvtyggere og som inneholder følgende fôrmidler, skal framstilles i virksomheter som ikke framstiller fôrblandinger til drøvtyggere, og som er godkjent av vedkommende myndighet:
 
-2\. Som unntak fra nr. 1 kan vedkommende myndighet tillate framstilling av fôrblandinger til drøvtyggere i virksomheter som også framstiller fôrblandinger til andre produksjonsdyr enn drøvtyggere, som inneholder produktene oppført i nevnte nummer, etter at vedkommende myndighet har foretatt en kontroll på stedet og under forutsetning av at følgende vilkår er oppfylt:fôrblandinger beregnet på drøvtyggere skal framstilles og under lagring, transport og emballering oppbevares i anlegg som er fysisk atskilt fra de anlegg der fôrblandinger for andre dyr enn drøvtyggere framstilles og oppbevares,registre over innkjøp og bruk av produktene oppført i nr. 1 og salg av fôrblandinger som inneholder nevnte produkter, må oppbevares tilgjengelig for vedkommende myndighet i minst fem år,det skal regelmessig tas prøver og analyser av fôrblandinger beregnet på drøvtyggere for å kontrollere at ingen ikke-tillatte bestanddeler av animalsk opprinnelse forekommer, ved bruk av de analysemetoder for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med kontroll av fôr som er angitt i vedlegg VI til kommisjonsforordning [(EF) nr. 152/2009](eu/32009r0152); hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering som skal utføres av den driftsansvarlige som ledd i dennes framgangsmåter, basert på prinsippene om fareanalyse og kritiske kontrollpunkter (HACCP); resultatene av prøvetakinger og analyser skal oppbevares tilgjengelig for vedkommende myndighet i minst fem år.
-►**M59**
+1. fiskemel,
+2. dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,
+3. blodprodukter fra andre dyr enn drøvtyggere,
 
-3\. Som unntak fra nr. 1 kreves det ikke en særlig tillatelse til produksjon av fullfôr fra fôrblandinger som inneholder produktene oppført i nevnte nummer, for hjemmeblandere som oppfyller følgende vilkår:de skal være registrert av vedkommende myndighet som produsent av fullfôr fra fôrblandinger som inneholder produktene oppført i nr. 1,
-►**M74**De skal holde bare andre dyr enn drøvtyggere
-◄**M74**alle fôrblandinger som inneholder fiskemel, og som brukes i produksjonen av fullfôr, skal inneholde høyst 50 % råprotein,alle fôrblandinger som inneholder dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse, og som brukes i produksjonen av fullfôr, skal inneholde høyst 10 % totalt fosfor,alle fôrblandinger som inneholder blodprodukter fra andre dyr enn drøvtyggere, og som brukes i produksjonen av fullfôr, skal inneholde høyst 50 % råprotein. ◄**M59**
+   ►**M74**
+
+   ____
+
+   ◄**M74**
+
+2\. Som unntak fra nr. 1 kan vedkommende myndighet tillate framstilling av fôrblandinger til drøvtyggere i virksomheter som også framstiller fôrblandinger til andre produksjonsdyr enn drøvtyggere, som inneholder produktene oppført i nevnte nummer, etter at vedkommende myndighet har foretatt en kontroll på stedet og under forutsetning av at følgende vilkår er oppfylt:
+
+1. fôrblandinger beregnet på drøvtyggere skal framstilles og under lagring, transport og emballering oppbevares i anlegg som er fysisk atskilt fra de anlegg der fôrblandinger for andre dyr enn drøvtyggere framstilles og oppbevares,
+2. registre over innkjøp og bruk av produktene oppført i nr. 1 og salg av fôrblandinger som inneholder nevnte produkter, må oppbevares tilgjengelig for vedkommende myndighet i minst fem år,
+3. det skal regelmessig tas prøver og analyser av fôrblandinger beregnet på drøvtyggere for å kontrollere at ingen ikke-tillatte bestanddeler av animalsk opprinnelse forekommer, ved bruk av de analysemetoder for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med kontroll av fôr som er angitt i vedlegg VI til kommisjonsforordning [(EF) nr. 152/2009](eu/32009r0152); hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering som skal utføres av den driftsansvarlige som ledd i dennes framgangsmåter, basert på prinsippene om fareanalyse og kritiske kontrollpunkter (HACCP); resultatene av prøvetakinger og analyser skal oppbevares tilgjengelig for vedkommende myndighet i minst fem år.
+   ►**M59**
+
+3\. Som unntak fra nr. 1 kreves det ikke en særlig tillatelse til produksjon av fullfôr fra fôrblandinger som inneholder produktene oppført i nevnte nummer, for hjemmeblandere som oppfyller følgende vilkår:
+
+1. de skal være registrert av vedkommende myndighet som produsent av fullfôr fra fôrblandinger som inneholder produktene oppført i nr. 1,
+   ►**M74**
+2. De skal holde bare andre dyr enn drøvtyggere
+   ◄**M74**
+3. alle fôrblandinger som inneholder fiskemel, og som brukes i produksjonen av fullfôr, skal inneholde høyst 50 % råprotein,
+4. alle fôrblandinger som inneholder dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse, og som brukes i produksjonen av fullfôr, skal inneholde høyst 10 % totalt fosfor,
+5. alle fôrblandinger som inneholder blodprodukter fra andre dyr enn drøvtyggere, og som brukes i produksjonen av fullfôr, skal inneholde høyst 50 % råprotein. ◄**M59**
 
 ###### Avsnitt C
 
@@ -1418,7 +1935,7 @@ Før frigivelse for fri omsetning i Unionen skal importørene sikre at hver enke
 ►**M69**
 
 1. bearbeidet animalsk protein fra ikke-drøvtyggere, herunder fiskemel, bearbeidet animalsk protein fra oppdrettsinsekter, bearbeidet animalsk protein fra svin og bearbeidet animalsk protein fra fjørfe,
-◄**M69**
+   ◄**M69**
 2. blodprodukter fra andre dyr enn drøvtyggere,
 3. fôrblandinger som inneholder fôrmidlene oppført i bokstav a) og b).
 
@@ -1431,7 +1948,7 @@ Bruk og lagring på driftsenheter av fôr beregnet på fôring av andre produksj
 ►**M69**
 
 1. bearbeidet animalsk protein fra ikke-drøvtyggere, herunder fiskemel, bearbeidet animalsk protein fra oppdrettsinsekter, bearbeidet animalsk protein fra svin og bearbeidet animalsk protein fra fjørfe,
-◄**M69**
+   ◄**M69**
 2. dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,
 3. blodprodukter fra andre dyr enn drøvtyggere,
 4. fôrblandinger som inneholder fôrmidlene oppført i bokstav a)–c).
@@ -1449,11 +1966,19 @@ Følgende særlige vilkår får anvendelse på framstilling og bruk av fiskemel 
 
 ►**M56**
 
-1. fiskemelet skal produseres i bearbeidingsanlegg som utelukkende brukes til framstilling av produkter fraakvatiske dyr, unntatt havpattedyr,andre oppdrettede virvelløse akvatiske dyr enn dem som omfattes av definisjonen av «vanndyr» i artikkel 3 nr. 1 bokstav e) i direktiv [2006/88/EF](eu/32006l0088*), ellersjøstjerner av arten *Asterias rubens* som er høstet i et produksjonsområde som definert i nr. 2.5 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), og som er klassifisert i samsvar med dette.◄**M56**
-►**M59**
-2. teksten «Fiskemel – skal ikke brukes i fôr til andre drøvtyggere enn ikke avvente drøvtyggere» skal klart angis på det medfølgende handelsdokumentet eller hygienesertifikatet, alt etter som, nevnt i artikkel 21 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), samt på etiketten på fiskemel,teksten «Inneholder fiskemel – skal ikke gis til drøvtyggere» skal klart angis på etiketten på fôrblandinger som inneholder fiskemel beregnet på andre produksjonsdyr enn drøvtyggere, bortsett fra pelsdyr.
-◄**M59**
-►**M59**
+1. fiskemelet skal produseres i bearbeidingsanlegg som utelukkende brukes til framstilling av produkter fra
+
+   1. akvatiske dyr, unntatt havpattedyr,
+   2. andre oppdrettede virvelløse akvatiske dyr enn dem som omfattes av definisjonen av «vanndyr» i artikkel 3 nr. 1 bokstav e) i direktiv [2006/88/EF](eu/32006l0088*), eller
+   3. sjøstjerner av arten *Asterias rubens* som er høstet i et produksjonsområde som definert i nr. 2.5 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), og som er klassifisert i samsvar med dette.
+
+   ◄**M56**
+   ►**M59**
+2. teksten «Fiskemel – skal ikke brukes i fôr til andre drøvtyggere enn ikke avvente drøvtyggere» skal klart angis på det medfølgende handelsdokumentet eller hygienesertifikatet, alt etter som, nevnt i artikkel 21 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), samt på etiketten på fiskemel,
+
+   teksten «Inneholder fiskemel – skal ikke gis til drøvtyggere» skal klart angis på etiketten på fôrblandinger som inneholder fiskemel beregnet på andre produksjonsdyr enn drøvtyggere, bortsett fra pelsdyr.
+   ◄**M59**
+   ►**M59**
 
 ###### Avsnitt B
 
@@ -1461,13 +1986,49 @@ Særlige vilkår for bruk av dikalsiumfosfat og trikalsiumfosfat av animalsk opp
 
 1. Teksten «Dikalsiumfosfat/trikalsiumfosfat av animalsk opprinnelse – skal ikke brukes i fôr til drøvtyggere» skal klart angis på det medfølgende handelsdokumentet eller hygienesertifikatet, alt etter som, nevnt i artikkel 21 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), samt på etiketten på dikalsiumfosfat/trikalsiumfosfat av animalsk opprinnelse.
 2. Teksten «Inneholder dikalsiumfosfat/trikalsiumfosfat av animalsk opprinnelse – skal ikke gis til drøvtyggere» skal klart angis på etiketten på fôrblandinger som inneholder dikalsiumfosfat/trikalsiumfosfat av animalsk opprinnelse.
-◄**M59**
+   ◄**M59**
 
 ###### Avsnitt C
 
 Særlige vilkår for framstilling og bruk av blodprodukter fra andre dyr enn drøvtyggere og fôrblandinger som inneholder slike produkter, og som er beregnet på fôring av andre produksjonsdyr enn drøvtyggere, bortsett fra pelsdyr
 
-Følgende særlige vilkår får anvendelse på framstilling og bruk av blodprodukter fra andre dyr enn drøvtyggere og fôrblandinger som inneholder slike blodprodukter, og som er beregnet på fôring av andre dyr enn drøvtyggere, bortsett fra pelsdyr:Blodet som er beregnet på framstilling av blodprodukter, skal framstilles av slakterier som ikke slakter drøvtyggere, og som er registret av vedkommende myndighet som et slakteri som ikke slakter drøvtyggere.Som unntak fra dette særlige vilkår kan vedkommende myndighet tillate slakting av drøvtyggere i slakterier som framstiller blod fra andre dyr enn drøvtyggere beregnet på framstilling av blodprodukter beregnet på bruk i fôr til andre produksjonsdyr enn drøvtyggere.Nevnte tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har fastslått at tiltakene som tar sikte på å forhindre krysskontaminering mellom blod fra drøvtyggere og blod fra andre dyr enn drøvtyggere, er effektive.Disse tiltakene skal omfatte følgende minstekrav:slakting av andre dyr enn drøvtyggere må utføres i linjer som er fysisk atskilt fra linjer som brukes til slakting av drøvtyggere,blod fra andre dyr enn drøvtyggere skal samles inn, lagres, transporteres og emballeres i anlegg som er fysisk atskilt fra anlegg der blod fra drøvtyggere samles inn, lagres, transporteres og emballeres,det skal regelmessig tas prøver og foretas analyser av blod fra andre dyr enn drøvtyggere for å avdekke forekomst av proteiner fra drøvtyggere. Analysemetoden som benyttes, må være vitenskapelig validert for dette formål. Hyppigheten for prøvetaking og analyser må fastsettes på grunnlag av en risikovurdering som skal utføres av den driftsansvarlige som del av sine framgangsmåter basert på HACCP-prinsippene.Blod som er beregnet på framstilling av blodprodukter til andre dyr enn drøvtyggere, skal transporteres til et bearbeidingsanlegg i kjøretøyer og containere som utelukkende brukes til transport av blod fra andre dyr enn drøvtyggere.Som unntak fra dette særlige vilkår kan kjøretøyer og containere som nylig er brukt til transport av blod fra drøvtyggere brukes til transport av blod fra andre dyr enn drøvtyggere, under forutsetning av at de på forhånd er grundig rengjort for å unngå krysskontaminering, i samsvar med en dokumentert framgangsmåte som på forhånd er godkjent av vedkommende myndighet. Når en slik framgangsmåte er benyttet, skal dette dokumenteres, og dokumentasjonen skal være tilgjengelig for vedkommende myndighet i minst to år.►**M59**Blodproduktene skal framstilles i bearbeidingsanlegg som utelukkende bearbeider blod fra andre dyr enn drøvtyggere, og som er registrert av vedkommende myndighet som et anlegg der det utelukkende bearbeides blod fra andre dyr enn drøvtyggere.◄**M59**Som unntak fra dette særlige vilkår kan vedkommende myndighet tillate framstilling av blodprodukter til bruk i fôr til andre produksjonsdyr enn drøvtyggere, i bearbeidingsanlegg som bearbeider blod fra drøvtyggere.Nevnte tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har fastslått at tiltakene som tar sikte på å forhindre krysskontaminering, er effektive.Disse tiltakene skal omfatte følgende minstekrav:framstillingen av blodprodukter fra andre dyr enn drøvtyggere må skje i et lukket system som holdes fysisk atskilt fra det som brukes til framstilling av blodprodukter fra drøvtyggere,innsamling, lagring, transport og emballering av råvarer i bulk og ferdige produkter i bulk fra andre dyr enn drøvtyggere skal foregå i anlegg som er fysisk atskilt fra anlegg der råmateriale i bulk og ferdige produkter i bulk fra drøvtyggere oppbevares under innsamling, lagring, transport og emballering,det skal anvendes en framgangsmåte som vedvarende sikrer den nødvendige samordning av tilgangen til blod fra henholdsvis drøvtyggere og andre dyr enn drøvtyggere og tilsvarende blodprodukter,det skal regelmessig tas prøver og analyser av blodprodukter fra andre dyr enn drøvtyggere for å kontrollere at det ikke kan forekomme krysskontaminering med blodprodukter fra drøvtyggere, ved bruk av de analysemetoder for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med kontroll av fôr som er angitt i vedlegg VI til forordning [(EF) nr. 152/2009](eu/32009r0152); hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering som skal utføres av den driftsansvarlige som ledd i dennes framgangsmåter, basert på prinsippene om fareanalyse og kritiske kontrollpunkter (HACCP); resultatene av prøvetakinger og analyser skal oppbevares tilgjengelig for vedkommende myndighet i minst fem år.►**M59**Teksten «Blodprodukter fra andre dyr enn drøvtyggere – skal ikke brukes i fôr til drøvtyggere» skal klart angis på det medfølgende handelsdokumentet eller hygienesertifikatet, alt etter som, nevnt i artikkel 21 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), samt på etiketten på blodprodukter fra andre dyr enn drøvtyggere.Teksten «Inneholder blodprodukter fra andre dyr enn drøvtyggere – skal ikke gis til drøvtyggere» skal klart angis på etiketten på fôrblandinger som inneholder blodprodukter fra andre dyr enn drøvtyggere. ◄**M59**
+Følgende særlige vilkår får anvendelse på framstilling og bruk av blodprodukter fra andre dyr enn drøvtyggere og fôrblandinger som inneholder slike blodprodukter, og som er beregnet på fôring av andre dyr enn drøvtyggere, bortsett fra pelsdyr:
+
+1. Blodet som er beregnet på framstilling av blodprodukter, skal framstilles av slakterier som ikke slakter drøvtyggere, og som er registret av vedkommende myndighet som et slakteri som ikke slakter drøvtyggere.
+
+   Som unntak fra dette særlige vilkår kan vedkommende myndighet tillate slakting av drøvtyggere i slakterier som framstiller blod fra andre dyr enn drøvtyggere beregnet på framstilling av blodprodukter beregnet på bruk i fôr til andre produksjonsdyr enn drøvtyggere.
+
+   Nevnte tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har fastslått at tiltakene som tar sikte på å forhindre krysskontaminering mellom blod fra drøvtyggere og blod fra andre dyr enn drøvtyggere, er effektive.
+
+   Disse tiltakene skal omfatte følgende minstekrav:
+
+   1. slakting av andre dyr enn drøvtyggere må utføres i linjer som er fysisk atskilt fra linjer som brukes til slakting av drøvtyggere,
+   2. blod fra andre dyr enn drøvtyggere skal samles inn, lagres, transporteres og emballeres i anlegg som er fysisk atskilt fra anlegg der blod fra drøvtyggere samles inn, lagres, transporteres og emballeres,
+   3. det skal regelmessig tas prøver og foretas analyser av blod fra andre dyr enn drøvtyggere for å avdekke forekomst av proteiner fra drøvtyggere. Analysemetoden som benyttes, må være vitenskapelig validert for dette formål. Hyppigheten for prøvetaking og analyser må fastsettes på grunnlag av en risikovurdering som skal utføres av den driftsansvarlige som del av sine framgangsmåter basert på HACCP-prinsippene.
+2. Blod som er beregnet på framstilling av blodprodukter til andre dyr enn drøvtyggere, skal transporteres til et bearbeidingsanlegg i kjøretøyer og containere som utelukkende brukes til transport av blod fra andre dyr enn drøvtyggere.
+
+   Som unntak fra dette særlige vilkår kan kjøretøyer og containere som nylig er brukt til transport av blod fra drøvtyggere brukes til transport av blod fra andre dyr enn drøvtyggere, under forutsetning av at de på forhånd er grundig rengjort for å unngå krysskontaminering, i samsvar med en dokumentert framgangsmåte som på forhånd er godkjent av vedkommende myndighet. Når en slik framgangsmåte er benyttet, skal dette dokumenteres, og dokumentasjonen skal være tilgjengelig for vedkommende myndighet i minst to år.
+
+   ►**M59**
+3. Blodproduktene skal framstilles i bearbeidingsanlegg som utelukkende bearbeider blod fra andre dyr enn drøvtyggere, og som er registrert av vedkommende myndighet som et anlegg der det utelukkende bearbeides blod fra andre dyr enn drøvtyggere.
+
+   ◄**M59**
+
+   Som unntak fra dette særlige vilkår kan vedkommende myndighet tillate framstilling av blodprodukter til bruk i fôr til andre produksjonsdyr enn drøvtyggere, i bearbeidingsanlegg som bearbeider blod fra drøvtyggere.
+
+   Nevnte tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har fastslått at tiltakene som tar sikte på å forhindre krysskontaminering, er effektive.
+
+   Disse tiltakene skal omfatte følgende minstekrav:
+
+   1. framstillingen av blodprodukter fra andre dyr enn drøvtyggere må skje i et lukket system som holdes fysisk atskilt fra det som brukes til framstilling av blodprodukter fra drøvtyggere,
+   2. innsamling, lagring, transport og emballering av råvarer i bulk og ferdige produkter i bulk fra andre dyr enn drøvtyggere skal foregå i anlegg som er fysisk atskilt fra anlegg der råmateriale i bulk og ferdige produkter i bulk fra drøvtyggere oppbevares under innsamling, lagring, transport og emballering,
+   3. det skal anvendes en framgangsmåte som vedvarende sikrer den nødvendige samordning av tilgangen til blod fra henholdsvis drøvtyggere og andre dyr enn drøvtyggere og tilsvarende blodprodukter,
+   4. det skal regelmessig tas prøver og analyser av blodprodukter fra andre dyr enn drøvtyggere for å kontrollere at det ikke kan forekomme krysskontaminering med blodprodukter fra drøvtyggere, ved bruk av de analysemetoder for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med kontroll av fôr som er angitt i vedlegg VI til forordning [(EF) nr. 152/2009](eu/32009r0152); hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering som skal utføres av den driftsansvarlige som ledd i dennes framgangsmåter, basert på prinsippene om fareanalyse og kritiske kontrollpunkter (HACCP); resultatene av prøvetakinger og analyser skal oppbevares tilgjengelig for vedkommende myndighet i minst fem år.
+
+   ►**M59**
+4. Teksten «Blodprodukter fra andre dyr enn drøvtyggere – skal ikke brukes i fôr til drøvtyggere» skal klart angis på det medfølgende handelsdokumentet eller hygienesertifikatet, alt etter som, nevnt i artikkel 21 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), samt på etiketten på blodprodukter fra andre dyr enn drøvtyggere.
+
+   Teksten «Inneholder blodprodukter fra andre dyr enn drøvtyggere – skal ikke gis til drøvtyggere» skal klart angis på etiketten på fôrblandinger som inneholder blodprodukter fra andre dyr enn drøvtyggere. ◄**M59**
 
 ►**M59**
 
@@ -1481,15 +2042,74 @@ Følgende særlige vilkår får anvendelse på framstilling og bruk av bearbeide
 
 ►**M69**
 
-1. De animalske biproduktene som skal brukes til framstilling av bearbeidet animalsk protein nevnt i dette avsnittet, skal komme fra en eller flere av følgende:Slakterier som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke slakter drøvtyggere, og som er registrert av vedkommende myndighet som et slakteri som ikke slakter drøvtyggere.Nedskjæringsanlegg som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke utbeiner eller skjærer kjøtt fra drøvtyggere, og som er registrert av vedkommende myndighet som et anlegg som ikke utbeiner eller skjærer kjøtt fra drøvtyggere.Andre virksomheter enn dem som er nevnt i punkt i) eller ii), som er registrert eller godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke håndterer produkter fra drøvtyggere, og som er registrert av vedkommende myndighet som en virksomhet som ikke håndterer produkter fra drøvtyggere.Godkjente virksomheter omhandlet i artikkel 24 nr. 1 bokstav h) og i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) som er registrert av vedkommende myndighet som virksomheter som håndterer eller lagrer bare animalske biprodukter fra ikke-drøvtyggere som kommer fra virksomheter omhandlet i punkt i), ii) og iii).Som unntak fra første ledd punkt i), ii) og iii) kan vedkommende myndighet tillate slakting av drøvtyggere og håndtering av produkter fra drøvtyggere i virksomhetene omhandlet i første ledd punkt i), ii) og iii) som framstiller animalske biprodukter fra ikke-drøvtyggere beregnet på framstilling av bearbeidet animalsk protein som omhandlet i dette avsnittet.En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon på stedet har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering mellom biprodukter fra drøvtyggere og biprodukter fra ikke-drøvtyggere, er effektive.Disse tiltakene skal omfatte følgende minstekrav:Slakting av ikke-drøvtyggere skal utføres i linjer som er fysisk atskilt fra linjer som brukes til slakting av drøvtyggere.Produkter fra ikke-drøvtyggere skal håndteres på produksjonslinjer som er fysisk atskilt fra linjer som brukes til håndtering av produkter fra drøvtyggere.Animalske biprodukter fra ikke-drøvtyggere skal samles inn, lagres, transporteres og pakkes i fasiliteter som er fysisk atskilt fra fasiliteter brukt til animalske biprodukter fra drøvtyggere.Det skal regelmessig tas prøver og foretas analyser av animalske biprodukter fra ikke-drøvtyggere for å avdekke forekomst av proteiner fra drøvtyggere. Analysemetoden som benyttes, skal være vitenskapelig validert for dette formålet. Hyppigheten av prøvetaking og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene.◄**M69**
-2. Animalske biprodukter fra andre dyr enn drøvtyggere som er beregnet på framstilling av bearbeidet animalsk protein som nevnt i dette avsnitt, skal transporteres til et bearbeidingsanlegg i kjøretøyer og containere som ikke brukes til transport av animalske biprodukter fra drøvtyggere.Som unntak fra dette særlige vilkår kan de transporteres i kjøretøyer og containere som tidligere er brukt til transport av animalske biprodukter fra drøvtyggere, under forutsetning av at de på forhånd er rengjort for å unngå krysskontaminering, i samsvar med en dokumentert framgangsmåte som på forhånd er godkjent av vedkommende myndighet.Når en slik framgangsmåte er benyttet, skal dette dokumenteres, og dokumentasjonen skal være tilgjengelig for vedkommende myndighet i minst to år.►**M59**
-3. Det bearbeidede animalske proteinet nevnt i dette avsnitt, skal framstilles i bearbeidingsanlegg som utelukkende brukes til bearbeiding av animalske biprodukter fra andre dyr enn drøvtyggere som har sin opprinnelse i slakterier, nedskjæringsanlegg eller andre virksomheter nevnt i bokstav a). Disse bearbeidingsanleggene skal registreres av vedkommende myndighet som anlegg som utelukkende behandler animalske biprodukter fra andre dyr enn drøvtyggere.◄**M59**Som unntak fra dette særlige vilkår kan vedkommende myndighet tillate framstilling av bearbeidet animalsk protein som nevnt i dette avsnitt, i bearbeidingsanlegg som bearbeider animalske biprodukter fra drøvtyggere.Nevnte tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har fastslått at tiltakene som tar sikte på å forhindre krysskontaminering mellom behandlet animalsk protein fra drøvtyggere og behandlet animalsk protein fra andre dyr enn drøvtyggere, er effektive.Disse forebyggende tiltak skal omfatte følgende minstekrav:framstilling av bearbeidet animalsk protein fra andre dyr enn drøvtyggere må skje i et lukket system som holdes fysisk atskilt fra det som brukes til framstilling av bearbeidet animalsk protein som nevnt i dette avsnitt,lagring og transport av animalske biprodukter fra drøvtyggere skal foregå i anlegg som er fysisk atskilt fra anlegg der animalske biprodukter framstilt av andre dyr enn drøvtyggere, oppbevares under lagring og transport,lagring og emballering av bearbeidet animalsk protein fra drøvtyggere skal foregå i anlegg som er fysisk atskilt fra anlegg der ferdige produkter framstilt av andre dyr enn drøvtyggere, oppbevares under lagring og emballering,det skal regelmessig tas prøver og analyser av bearbeidet animalsk protein som nevnt i dette avsnitt, for å kontrollere at det ikke kan forekomme krysskontaminering med bearbeidet animalsk protein fra drøvtyggere, ved bruk av de analysemetoder for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med kontroll av fôr som er angitt i vedlegg VI til forordning [(EF) nr. 152/2009](eu/32009r0152); hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering som skal utføres av den driftsansvarlige som ledd i dennes framgangsmåter, basert på prinsippene om fareanalyse og kritiske kontrollpunkter (HACCP); resultatene av prøvetakinger og analyser skal oppbevares tilgjengelig for vedkommende myndighet i minst fem år.
-4. Fôrblandinger som inneholder bearbeidet animalsk protein som nevnt i dette avsnitt, skal framstilles i virksomheter som er godkjent for dette formål av vedkommende myndighet, og som utelukkende brukes til framstilling av fôr til akvakulturdyr.Som unntak fra dette særlige vilkår gjelder følgende:
-►**M59**Vedkommende myndighet kan etter inspeksjon på stedet tillate produksjon av fôrblandinger som inneholder bearbeidet animalsk protein nevnt i dette avsnitt, til akvakulturdyr i virksomheter som også produserer fôrblandinger til andre produksjonsdyr enn pelsdyr, forutsatt at følgende vilkår er oppfylt:
-◄**M59**fôrblandinger beregnet på drøvtyggere skal framstilles og under lagring, transport og emballering oppbevares i anlegg som er fysisk atskilt fra de anlegg der fôrblandinger for andre dyr enn drøvtyggere framstilles og oppbevares,fôrblandinger beregnet på akvakulturdyr skal framstilles og under lagring, transport og emballering oppbevares i anlegg som er fysisk atskilt fra de anlegg der fôrblandinger for andre dyr enn drøvtyggere framstilles og oppbevares,registre over innkjøp og bruk av bearbeidet animalsk protein som nevnt i dette avsnitt og salg av fôrblandinger som inneholder nevnte protein, må oppbevares tilgjengelig for vedkommende myndighet i minst fem år,det skal regelmessig tas prøver og analyser av fôrblandinger beregnet på andre produksjonsdyr enn akvakulturdyr for å kontrollere at ingen ikke-tillatte bestanddeler av animalsk opprinnelse forekommer, ved bruk av de analysemetoder for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med kontroll av fôr som er angitt i vedlegg VI til kommisjonsforordning [(EF) nr. 152/2009](eu/32009r0152); hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering som skal utføres av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene; resultatene skal oppbevares tilgjengelig for vedkommende myndighet i minst fem år.►**M59**det kreves ikke en særlig tillatelse til produksjon av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein som nevnt i dette avsnitt, for hjemmeblandere som oppfyller følgende vilkår:de er registrert av vedkommende myndighet som produsenter av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra andre dyr enn drøvtyggere, bortsett fra fiskemel og bortsett fra bearbeidet animalsk protein fra oppdrettsinsekter,de holder bare akvakulturdyr, ogfôrblandingen som inneholder bearbeidet animalsk protein som nevnt i dette avsnitt som brukes i deres produksjon, inneholder høyst 50 % råprotein.◄**M59**
-►**M59**
-5. Handelsdokumentet eller hygienesertifikatet, alt etter som, nevnt i artikkel 21 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), som følger med bearbeidet animalsk protein nevnt i dette avsnitt, samt etiketten på dette, skal være tydelig merket med følgende tekst: «Bearbeidet animalsk protein fra andre dyr enn drøvtyggere – skal ikke brukes i fôr til produksjonsdyr, bortsett fra akvakulturdyr og pelsdyr».Følgende skal angis tydelig på etiketten på fôrblandinger som inneholder bearbeidet animalsk protein som nevnt i dette avsnitt:«Inneholder bearbeidet animalsk protein fra andre dyr enn drøvtyggere – skal ikke gis til produksjonsdyr, bortsett fra akvakulturdyr og pelsdyr»
-◄**M59**
+1. De animalske biproduktene som skal brukes til framstilling av bearbeidet animalsk protein nevnt i dette avsnittet, skal komme fra en eller flere av følgende:
+
+   1. Slakterier som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke slakter drøvtyggere, og som er registrert av vedkommende myndighet som et slakteri som ikke slakter drøvtyggere.
+   2. Nedskjæringsanlegg som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke utbeiner eller skjærer kjøtt fra drøvtyggere, og som er registrert av vedkommende myndighet som et anlegg som ikke utbeiner eller skjærer kjøtt fra drøvtyggere.
+   3. Andre virksomheter enn dem som er nevnt i punkt i) eller ii), som er registrert eller godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke håndterer produkter fra drøvtyggere, og som er registrert av vedkommende myndighet som en virksomhet som ikke håndterer produkter fra drøvtyggere.
+   4. Godkjente virksomheter omhandlet i artikkel 24 nr. 1 bokstav h) og i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) som er registrert av vedkommende myndighet som virksomheter som håndterer eller lagrer bare animalske biprodukter fra ikke-drøvtyggere som kommer fra virksomheter omhandlet i punkt i), ii) og iii).
+
+   Som unntak fra første ledd punkt i), ii) og iii) kan vedkommende myndighet tillate slakting av drøvtyggere og håndtering av produkter fra drøvtyggere i virksomhetene omhandlet i første ledd punkt i), ii) og iii) som framstiller animalske biprodukter fra ikke-drøvtyggere beregnet på framstilling av bearbeidet animalsk protein som omhandlet i dette avsnittet.
+
+   En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon på stedet har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering mellom biprodukter fra drøvtyggere og biprodukter fra ikke-drøvtyggere, er effektive.
+
+   Disse tiltakene skal omfatte følgende minstekrav:
+
+   1. Slakting av ikke-drøvtyggere skal utføres i linjer som er fysisk atskilt fra linjer som brukes til slakting av drøvtyggere.
+   2. Produkter fra ikke-drøvtyggere skal håndteres på produksjonslinjer som er fysisk atskilt fra linjer som brukes til håndtering av produkter fra drøvtyggere.
+   3. Animalske biprodukter fra ikke-drøvtyggere skal samles inn, lagres, transporteres og pakkes i fasiliteter som er fysisk atskilt fra fasiliteter brukt til animalske biprodukter fra drøvtyggere.
+   4. Det skal regelmessig tas prøver og foretas analyser av animalske biprodukter fra ikke-drøvtyggere for å avdekke forekomst av proteiner fra drøvtyggere. Analysemetoden som benyttes, skal være vitenskapelig validert for dette formålet. Hyppigheten av prøvetaking og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene.
+
+   ◄**M69**
+2. Animalske biprodukter fra andre dyr enn drøvtyggere som er beregnet på framstilling av bearbeidet animalsk protein som nevnt i dette avsnitt, skal transporteres til et bearbeidingsanlegg i kjøretøyer og containere som ikke brukes til transport av animalske biprodukter fra drøvtyggere.
+
+   Som unntak fra dette særlige vilkår kan de transporteres i kjøretøyer og containere som tidligere er brukt til transport av animalske biprodukter fra drøvtyggere, under forutsetning av at de på forhånd er rengjort for å unngå krysskontaminering, i samsvar med en dokumentert framgangsmåte som på forhånd er godkjent av vedkommende myndighet.
+
+   Når en slik framgangsmåte er benyttet, skal dette dokumenteres, og dokumentasjonen skal være tilgjengelig for vedkommende myndighet i minst to år.
+
+   ►**M59**
+3. Det bearbeidede animalske proteinet nevnt i dette avsnitt, skal framstilles i bearbeidingsanlegg som utelukkende brukes til bearbeiding av animalske biprodukter fra andre dyr enn drøvtyggere som har sin opprinnelse i slakterier, nedskjæringsanlegg eller andre virksomheter nevnt i bokstav a). Disse bearbeidingsanleggene skal registreres av vedkommende myndighet som anlegg som utelukkende behandler animalske biprodukter fra andre dyr enn drøvtyggere.
+
+   ◄**M59**
+
+   Som unntak fra dette særlige vilkår kan vedkommende myndighet tillate framstilling av bearbeidet animalsk protein som nevnt i dette avsnitt, i bearbeidingsanlegg som bearbeider animalske biprodukter fra drøvtyggere.
+
+   Nevnte tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har fastslått at tiltakene som tar sikte på å forhindre krysskontaminering mellom behandlet animalsk protein fra drøvtyggere og behandlet animalsk protein fra andre dyr enn drøvtyggere, er effektive.
+
+   Disse forebyggende tiltak skal omfatte følgende minstekrav:
+
+   1. framstilling av bearbeidet animalsk protein fra andre dyr enn drøvtyggere må skje i et lukket system som holdes fysisk atskilt fra det som brukes til framstilling av bearbeidet animalsk protein som nevnt i dette avsnitt,
+   2. lagring og transport av animalske biprodukter fra drøvtyggere skal foregå i anlegg som er fysisk atskilt fra anlegg der animalske biprodukter framstilt av andre dyr enn drøvtyggere, oppbevares under lagring og transport,
+   3. lagring og emballering av bearbeidet animalsk protein fra drøvtyggere skal foregå i anlegg som er fysisk atskilt fra anlegg der ferdige produkter framstilt av andre dyr enn drøvtyggere, oppbevares under lagring og emballering,
+   4. det skal regelmessig tas prøver og analyser av bearbeidet animalsk protein som nevnt i dette avsnitt, for å kontrollere at det ikke kan forekomme krysskontaminering med bearbeidet animalsk protein fra drøvtyggere, ved bruk av de analysemetoder for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med kontroll av fôr som er angitt i vedlegg VI til forordning [(EF) nr. 152/2009](eu/32009r0152); hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering som skal utføres av den driftsansvarlige som ledd i dennes framgangsmåter, basert på prinsippene om fareanalyse og kritiske kontrollpunkter (HACCP); resultatene av prøvetakinger og analyser skal oppbevares tilgjengelig for vedkommende myndighet i minst fem år.
+4. Fôrblandinger som inneholder bearbeidet animalsk protein som nevnt i dette avsnitt, skal framstilles i virksomheter som er godkjent for dette formål av vedkommende myndighet, og som utelukkende brukes til framstilling av fôr til akvakulturdyr.
+
+   Som unntak fra dette særlige vilkår gjelder følgende:
+   ►**M59**
+
+   1. Vedkommende myndighet kan etter inspeksjon på stedet tillate produksjon av fôrblandinger som inneholder bearbeidet animalsk protein nevnt i dette avsnitt, til akvakulturdyr i virksomheter som også produserer fôrblandinger til andre produksjonsdyr enn pelsdyr, forutsatt at følgende vilkår er oppfylt:
+      ◄**M59**
+
+      - fôrblandinger beregnet på drøvtyggere skal framstilles og under lagring, transport og emballering oppbevares i anlegg som er fysisk atskilt fra de anlegg der fôrblandinger for andre dyr enn drøvtyggere framstilles og oppbevares,
+      - fôrblandinger beregnet på akvakulturdyr skal framstilles og under lagring, transport og emballering oppbevares i anlegg som er fysisk atskilt fra de anlegg der fôrblandinger for andre dyr enn drøvtyggere framstilles og oppbevares,
+      - registre over innkjøp og bruk av bearbeidet animalsk protein som nevnt i dette avsnitt og salg av fôrblandinger som inneholder nevnte protein, må oppbevares tilgjengelig for vedkommende myndighet i minst fem år,
+      - det skal regelmessig tas prøver og analyser av fôrblandinger beregnet på andre produksjonsdyr enn akvakulturdyr for å kontrollere at ingen ikke-tillatte bestanddeler av animalsk opprinnelse forekommer, ved bruk av de analysemetoder for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med kontroll av fôr som er angitt i vedlegg VI til kommisjonsforordning [(EF) nr. 152/2009](eu/32009r0152); hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering som skal utføres av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene; resultatene skal oppbevares tilgjengelig for vedkommende myndighet i minst fem år.
+
+      ►**M59**
+   2. det kreves ikke en særlig tillatelse til produksjon av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein som nevnt i dette avsnitt, for hjemmeblandere som oppfyller følgende vilkår:
+
+      - de er registrert av vedkommende myndighet som produsenter av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra andre dyr enn drøvtyggere, bortsett fra fiskemel og bortsett fra bearbeidet animalsk protein fra oppdrettsinsekter,
+      - de holder bare akvakulturdyr, og
+      - fôrblandingen som inneholder bearbeidet animalsk protein som nevnt i dette avsnitt som brukes i deres produksjon, inneholder høyst 50 % råprotein.
+
+   ◄**M59**
+   ►**M59**
+5. Handelsdokumentet eller hygienesertifikatet, alt etter som, nevnt i artikkel 21 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), som følger med bearbeidet animalsk protein nevnt i dette avsnitt, samt etiketten på dette, skal være tydelig merket med følgende tekst: «Bearbeidet animalsk protein fra andre dyr enn drøvtyggere – skal ikke brukes i fôr til produksjonsdyr, bortsett fra akvakulturdyr og pelsdyr».
+
+   Følgende skal angis tydelig på etiketten på fôrblandinger som inneholder bearbeidet animalsk protein som nevnt i dette avsnitt:
+
+   «Inneholder bearbeidet animalsk protein fra andre dyr enn drøvtyggere – skal ikke gis til produksjonsdyr, bortsett fra akvakulturdyr og pelsdyr»
+   ◄**M59**
 
 ###### Avsnitt E
 
@@ -1499,16 +2119,31 @@ Følgende særlige vilkår får anvendelse på framstilling, omsetning og bruk a
 
 ►**M56**
 
-1. fiskemelet som brukes i melkeerstatninger, skal produseres i bearbeidingsanlegg som utelukkende brukes til framstilling av produkter fraakvatiske dyr, unntatt havpattedyr,andre oppdrettede virvelløse akvatiske dyr enn dem som omfattes av definisjonen av «vanndyr» i artikkel 3 nr. 1 bokstav e) i direktiv [2006/88/EF](eu/32006l0088*), ellersjøstjerner av arten *Asterias rubens* som er høstet i et produksjonsområde som definert i nr. 2.5 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), og som er klassifisert i samsvar med dette.Fiskemel som brukes i melkeerstatninger, skal oppfylle de alminnelige vilkårene i kapittel III. ◄**M56**
+1. fiskemelet som brukes i melkeerstatninger, skal produseres i bearbeidingsanlegg som utelukkende brukes til framstilling av produkter fra
+
+   1. akvatiske dyr, unntatt havpattedyr,
+   2. andre oppdrettede virvelløse akvatiske dyr enn dem som omfattes av definisjonen av «vanndyr» i artikkel 3 nr. 1 bokstav e) i direktiv [2006/88/EF](eu/32006l0088*), eller
+   3. sjøstjerner av arten *Asterias rubens* som er høstet i et produksjonsområde som definert i nr. 2.5 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), og som er klassifisert i samsvar med dette.
+
+   Fiskemel som brukes i melkeerstatninger, skal oppfylle de alminnelige vilkårene i kapittel III. ◄**M56**
 
 ►**M59**
 
 1. teksten «Fiskemel – skal ikke brukes i fôr til andre drøvtyggere enn ikke avvente drøvtyggere» skal klart angis på det medfølgende handelsdokumentet eller hygienesertifikatet, alt etter som, nevnt i artikkel 21 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), samt på etiketten på fiskemel som skal brukes i melkeerstatningsfôr,
 2. bruk av fiskemel til ikke avvente produksjonsdyr av drøvtyggende arter skal være tillatt bare til framstilling av melkeerstatninger som distribueres i tørr form og gis til drøvtyggere etter fortynning i en gitt mengde væske som tillegg til eller erstatning for morsmelken etter råmelken før dyrene er helt avvent,
-3. melkeerstatninger som inneholder fiskemel og er beregnet på ikke avvente produksjonsdyr av drøvtyggende arter, skal framstilles i virksomheter som ikke produserer andre fôrblandinger til drøvtyggere, og som er godkjent for dette formålet av vedkommende myndighet.Som unntak fra dette særlige vilkåret kan vedkommende myndighet etter inspeksjon på stedet tillate produksjon av andre fôrblandinger til drøvtyggere i virksomheter som også framstiller melkeerstatninger som inneholder fiskemel og er beregnet på ikke avvente produksjonsdyr av drøvtyggende arter, forutsatt at følgende vilkår er oppfylt:andre fôrblandinger beregnet på drøvtyggere, skal oppbevares i anlegg som er fysisk atskilt fra anlegg der fiskemel i bulk og melkeerstatninger i bulk som inneholder fiskemel, oppbevares under lagring, transport og emballering,andre fôrblandinger beregnet på drøvtyggere, skal produseres i anlegg som er fysisk atskilt fra anlegg der melkeerstatninger som inneholder fiskemel, framstilles,registre over innkjøp og bruk av fiskemel og salg av melkeerstatninger som inneholder fiskemel, skal være tilgjengelige for vedkommende myndighet i minst fem år,det skal regelmessig tas prøver og analyser av andre fôrblandinger beregnet på drøvtyggere, for å kontrollere at det ikke forekommer ikke-tillatte bestanddeler av animalsk opprinnelse, gjennom bruk av de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning [(EF) nr. 152/2009](eu/32009r0152); hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene; resultatene skal være tilgjengelige for vedkommende myndighet i minst fem år,
+3. melkeerstatninger som inneholder fiskemel og er beregnet på ikke avvente produksjonsdyr av drøvtyggende arter, skal framstilles i virksomheter som ikke produserer andre fôrblandinger til drøvtyggere, og som er godkjent for dette formålet av vedkommende myndighet.
+
+   Som unntak fra dette særlige vilkåret kan vedkommende myndighet etter inspeksjon på stedet tillate produksjon av andre fôrblandinger til drøvtyggere i virksomheter som også framstiller melkeerstatninger som inneholder fiskemel og er beregnet på ikke avvente produksjonsdyr av drøvtyggende arter, forutsatt at følgende vilkår er oppfylt:
+
+   1. andre fôrblandinger beregnet på drøvtyggere, skal oppbevares i anlegg som er fysisk atskilt fra anlegg der fiskemel i bulk og melkeerstatninger i bulk som inneholder fiskemel, oppbevares under lagring, transport og emballering,
+   2. andre fôrblandinger beregnet på drøvtyggere, skal produseres i anlegg som er fysisk atskilt fra anlegg der melkeerstatninger som inneholder fiskemel, framstilles,
+   3. registre over innkjøp og bruk av fiskemel og salg av melkeerstatninger som inneholder fiskemel, skal være tilgjengelige for vedkommende myndighet i minst fem år,
+   4. det skal regelmessig tas prøver og analyser av andre fôrblandinger beregnet på drøvtyggere, for å kontrollere at det ikke forekommer ikke-tillatte bestanddeler av animalsk opprinnelse, gjennom bruk av de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning [(EF) nr. 152/2009](eu/32009r0152); hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene; resultatene skal være tilgjengelige for vedkommende myndighet i minst fem år,
 4. før frigivelse for fri omsetning i Unionen skal importørene sikre at hver enkelt forsendelse av importerte melkeerstatninger som inneholder fiskemel, analyseres i samsvar med de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning [(EF) nr. 152/2009](eu/32009r0152), for å kontrollere at det ikke forekommer ikke-tillatte bestanddeler av animalsk opprinnelse,
 5. etiketten på melkeerstatninger som inneholder fiskemel og er beregnet på ikke avvente produksjonsdyr av drøvtyggende arter, skal være tydelig merket med teksten «Inneholder fiskemel – skal ikke gis til andre drøvtyggere enn ikke avvente drøvtyggere»,
-6. melkeerstatninger i bulk som inneholder fiskemel og er beregnet på ikke avvente produksjonsdyr av drøvtyggende arter, skal transporteres i kjøretøyer og containere og oppbevares i lagringsanlegg som ikke brukes til henholdsvis transport eller lagring av annet fôr beregnet på drøvtyggere.Som unntak fra dette særlige vilkåret kan kjøretøyer, containere og lagringsanlegg som senere skal brukes til transport eller lagring av annet fôr i bulk beregnet på drøvtyggere, brukes til transport eller lagring av melkeerstatninger i bulk som inneholder fiskemel beregnet på ikke avvente produksjonsdyr av drøvtyggende arter, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet. Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år,
+6. melkeerstatninger i bulk som inneholder fiskemel og er beregnet på ikke avvente produksjonsdyr av drøvtyggende arter, skal transporteres i kjøretøyer og containere og oppbevares i lagringsanlegg som ikke brukes til henholdsvis transport eller lagring av annet fôr beregnet på drøvtyggere.
+
+   Som unntak fra dette særlige vilkåret kan kjøretøyer, containere og lagringsanlegg som senere skal brukes til transport eller lagring av annet fôr i bulk beregnet på drøvtyggere, brukes til transport eller lagring av melkeerstatninger i bulk som inneholder fiskemel beregnet på ikke avvente produksjonsdyr av drøvtyggende arter, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet. Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år,
 7. på driftsenheter der det holdes drøvtyggere, skal det treffes tiltak på driftsenheten for å hindre at melkeerstatninger som inneholder fiskemel, gis som fôr til andre drøvtyggere enn ikke avvente drøvtyggere. Vedkommende myndighet skal utarbeide en liste over driftsenheter der det brukes melkeerstatninger som inneholder fiskemel, gjennom en ordning med forhåndsmelding fra driftsenheten eller en annen ordning som sikrer at dette særlige vilkåret overholdes. ◄**M59**
 
 ►**M69**
@@ -1517,19 +2152,169 @@ Følgende særlige vilkår får anvendelse på framstilling, omsetning og bruk a
 
 Særlige vilkår for framstilling og bruk av bearbeidet animalsk protein fra oppdrettsinsekter og fôrblandinger som inneholder slikt protein, som er beregnet på fôring av akvakulturdyr, fjørfe og svin
 
-Følgende særlige vilkår får anvendelse på framstilling og bruk av bearbeidet animalsk protein fra oppdrettsinsekter og fôrblandinger som inneholder slikt bearbeidet animalsk protein, og som er beregnet på fôring av akvakulturdyr, fjørfe og svin:Bearbeidet animalsk protein fra oppdrettsinsekter skal framstillesi bearbeidingsanlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav a) i forordning (EF) nr. 1069/2009 og utelukkende brukes til framstilling av produkter fra oppdrettsinsekter,i samsvar med kravene fastsatt i kapittel II avsnitt 1 i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).Som unntak fra vilkåret i første ledd punkt i) kan vedkommende myndighet tillate framstilling av bearbeidet animalsk protein fra oppdrettsinsekter i bearbeidingsanlegg som bearbeider biprodukter fra andre arter.En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering av bearbeidet animalsk protein fra oppdrettsinsekter med bearbeidet animalsk protein fra andre oppdrettsdyr, er effektive.Disse forebyggende tiltakene skal omfatte følgende minstekrav:Framstilling av bearbeidet animalsk protein fra drøvtyggere eller andre ikke-drøvtyggere enn insekter må skje i et lukket system som holdes fysisk atskilt fra det som brukes til framstilling av bearbeidet animalsk protein fra oppdrettsinsekter.Animalske biprodukter fra drøvtyggere eller andre ikke-drøvtyggere enn insekter skal under lagring og transport oppbevares i fasiliteter som er fysisk atskilt fra fasiliteter som brukes til animalske biprodukter fra oppdrettsinsekter.Bearbeidet animalsk protein fra drøvtyggere eller andre ikke-drøvtyggere enn insekter skal under lagring og pakking oppbevares i fasiliteter som er fysisk atskilt fra fasiliteter som brukes til ferdige produkter fra oppdrettsinsekter.Det skal regelmessig tas prøver og foretas analyser av bearbeidet animalsk protein fra oppdrettsinsekter for å kontrollere at det ikke forekommer krysskontaminering med bearbeidet animalsk protein fra drøvtyggere eller andre ikke-drøvtyggere, ved å bruke de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene av slike prøvetakinger og analyser skal være tilgjengelige for vedkommende myndighet i minst fem år.Fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter, skal produseres i virksomheter somer godkjent for dette formålet av vedkommende myndighet,utelukkende brukes til produksjon av fôr til akvakulturdyr, fjørfe eller svin.Som unntak fra første ledd punkt i) kreves det ikke en særlig tillatelse til produksjon av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter, for hjemmeblandere som oppfyller følgende vilkår:De er registrert av vedkommende myndighet som produsent av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter.De holder ikke produksjonsdyr som definert i artikkel 3 nr. 6 bokstav a) i forordning (EF) nr. 1069/2009, bortsett fra akvakulturdyr, fjørfe, svin eller pelsdyr.Fôrblandingen som inneholder bearbeidet animalsk protein fra oppdrettsinsekter som brukes i produksjonen, inneholder mindre enn 50 % råprotein.Som unntak fra første ledd punkt ii) kan vedkommende myndighet etter inspeksjon på stedet tillate produksjon av fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter, og som er beregnet på akvakulturdyr, fjørfe eller svin, i virksomheter som også produserer fôrblandinger beregnet på andre produksjonsdyr enn pelsdyr, forutsatt at følgende vilkår er oppfylt:Fôrblandinger beregnet på drøvtyggere skal produseres og under lagring, transport og pakking oppbevares i fasiliteter som er fysisk atskilt fra de fasilitetene der fôrblandinger til ikke-drøvtyggere produseres og oppbevares.Fôrblandinger beregnet på svin skal produseres og under lagring, transport og pakking oppbevares i anlegg som er fysisk atskilt fra de anleggene der fôrblandinger til andre ikke-drøvtyggere produseres og oppbevares.Registre over innkjøp og bruk av bearbeidet animalsk protein fra oppdrettsinsekter og salg av fôrblandinger som inneholder slikt protein, skal være tilgjengelige for vedkommende myndighet i minst fem år.Det skal regelmessig tas prøver og foretas analyser av fôrblandinger beregnet på andre produksjonsdyr enn akvakulturdyr, fjørfe og svin for å kontrollere at det ikke forekommer ikke-tillatte bestanddeler av animalsk opprinnelse, gjennom bruk av de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene skal være tilgjengelige for vedkommende myndighet i minst fem år.Handelsdokumentet eller eventuelt hygienesertifikatet som følger med det bearbeidede animalske proteinet fra oppdrettsinsekter i samsvar med artikkel 21 nr. 2 i forordning (EF) nr. 1069/2009, etiketten til det bearbeidede animalske proteinet fra oppdrettsinsekter og etiketten til fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter, skal være tydelig merket i samsvar med kapittel V avsnitt G i dette vedlegget.
+Følgende særlige vilkår får anvendelse på framstilling og bruk av bearbeidet animalsk protein fra oppdrettsinsekter og fôrblandinger som inneholder slikt bearbeidet animalsk protein, og som er beregnet på fôring av akvakulturdyr, fjørfe og svin:
+
+1. Bearbeidet animalsk protein fra oppdrettsinsekter skal framstilles
+
+   1. i bearbeidingsanlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav a) i forordning (EF) nr. 1069/2009 og utelukkende brukes til framstilling av produkter fra oppdrettsinsekter,
+   2. i samsvar med kravene fastsatt i kapittel II avsnitt 1 i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).
+
+   Som unntak fra vilkåret i første ledd punkt i) kan vedkommende myndighet tillate framstilling av bearbeidet animalsk protein fra oppdrettsinsekter i bearbeidingsanlegg som bearbeider biprodukter fra andre arter.
+
+   En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering av bearbeidet animalsk protein fra oppdrettsinsekter med bearbeidet animalsk protein fra andre oppdrettsdyr, er effektive.
+
+   Disse forebyggende tiltakene skal omfatte følgende minstekrav:
+
+   - Framstilling av bearbeidet animalsk protein fra drøvtyggere eller andre ikke-drøvtyggere enn insekter må skje i et lukket system som holdes fysisk atskilt fra det som brukes til framstilling av bearbeidet animalsk protein fra oppdrettsinsekter.
+   - Animalske biprodukter fra drøvtyggere eller andre ikke-drøvtyggere enn insekter skal under lagring og transport oppbevares i fasiliteter som er fysisk atskilt fra fasiliteter som brukes til animalske biprodukter fra oppdrettsinsekter.
+   - Bearbeidet animalsk protein fra drøvtyggere eller andre ikke-drøvtyggere enn insekter skal under lagring og pakking oppbevares i fasiliteter som er fysisk atskilt fra fasiliteter som brukes til ferdige produkter fra oppdrettsinsekter.
+   - Det skal regelmessig tas prøver og foretas analyser av bearbeidet animalsk protein fra oppdrettsinsekter for å kontrollere at det ikke forekommer krysskontaminering med bearbeidet animalsk protein fra drøvtyggere eller andre ikke-drøvtyggere, ved å bruke de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene av slike prøvetakinger og analyser skal være tilgjengelige for vedkommende myndighet i minst fem år.
+2. Fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter, skal produseres i virksomheter som
+
+   1. er godkjent for dette formålet av vedkommende myndighet,
+   2. utelukkende brukes til produksjon av fôr til akvakulturdyr, fjørfe eller svin.
+
+   Som unntak fra første ledd punkt i) kreves det ikke en særlig tillatelse til produksjon av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter, for hjemmeblandere som oppfyller følgende vilkår:
+
+   - De er registrert av vedkommende myndighet som produsent av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter.
+   - De holder ikke produksjonsdyr som definert i artikkel 3 nr. 6 bokstav a) i forordning (EF) nr. 1069/2009, bortsett fra akvakulturdyr, fjørfe, svin eller pelsdyr.
+   - Fôrblandingen som inneholder bearbeidet animalsk protein fra oppdrettsinsekter som brukes i produksjonen, inneholder mindre enn 50 % råprotein.
+
+   Som unntak fra første ledd punkt ii) kan vedkommende myndighet etter inspeksjon på stedet tillate produksjon av fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter, og som er beregnet på akvakulturdyr, fjørfe eller svin, i virksomheter som også produserer fôrblandinger beregnet på andre produksjonsdyr enn pelsdyr, forutsatt at følgende vilkår er oppfylt:
+
+   - Fôrblandinger beregnet på drøvtyggere skal produseres og under lagring, transport og pakking oppbevares i fasiliteter som er fysisk atskilt fra de fasilitetene der fôrblandinger til ikke-drøvtyggere produseres og oppbevares.
+   - Fôrblandinger beregnet på svin skal produseres og under lagring, transport og pakking oppbevares i anlegg som er fysisk atskilt fra de anleggene der fôrblandinger til andre ikke-drøvtyggere produseres og oppbevares.
+   - Registre over innkjøp og bruk av bearbeidet animalsk protein fra oppdrettsinsekter og salg av fôrblandinger som inneholder slikt protein, skal være tilgjengelige for vedkommende myndighet i minst fem år.
+   - Det skal regelmessig tas prøver og foretas analyser av fôrblandinger beregnet på andre produksjonsdyr enn akvakulturdyr, fjørfe og svin for å kontrollere at det ikke forekommer ikke-tillatte bestanddeler av animalsk opprinnelse, gjennom bruk av de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene skal være tilgjengelige for vedkommende myndighet i minst fem år.
+3. Handelsdokumentet eller eventuelt hygienesertifikatet som følger med det bearbeidede animalske proteinet fra oppdrettsinsekter i samsvar med artikkel 21 nr. 2 i forordning (EF) nr. 1069/2009, etiketten til det bearbeidede animalske proteinet fra oppdrettsinsekter og etiketten til fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter, skal være tydelig merket i samsvar med kapittel V avsnitt G i dette vedlegget.
 
 ###### Avsnitt G
 
 Særlige vilkår for framstilling og bruk av bearbeidet animalsk protein fra svin og fôrblandinger som inneholder slikt protein, som er beregnet på fôring av fjørfe
 
-Følgende særlige vilkår får anvendelse på framstilling og bruk av bearbeidet animalsk protein fra svin og fôrblandinger som inneholder slikt protein, og som er beregnet på fôring av fjørfe (heretter «bearbeidet animalsk protein fra svin»):De animalske biproduktene som skal brukes til framstilling av bearbeidet animalsk protein fra svin, skal komme fra en eller flere av følgende:Slakterier som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke slakter drøvtyggere og fjørfe, og som er registrert av vedkommende myndighet som et slakteri som ikke slakter drøvtyggere og fjørfe.Nedskjæringsanlegg som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke utbeiner eller skjærer kjøtt fra drøvtyggere og fjørfe, og som er registrert av vedkommende myndighet som et anlegg som ikke utbeiner eller skjærer kjøtt fra drøvtyggere og fjørfe.Andre virksomheter enn dem som er nevnt i punkt i) eller ii), som er registrert eller godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke håndterer produkter fra drøvtyggere og fjørfe, og som er registrert av vedkommende myndighet som en virksomhet som ikke håndterer produkter fra drøvtyggere og fjørfe.Godkjente virksomheter omhandlet i artikkel 24 nr. 1 bokstav h) og i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) som er registrert av vedkommende myndighet som virksomheter som håndterer eller lagrer bare animalske biprodukter fra ikke-drøvtyggere som kommer fra virksomheter omhandlet i punkt i), ii) og iii).Som unntak fra første ledd punkt i), ii) og iii) kan vedkommende myndighet tillate slakting av drøvtyggere eller fjørfe og håndtering av produkter fra drøvtyggere eller fjørfe i virksomhetene omhandlet i første ledd punkt i), ii) og iii) som framstiller animalske biprodukter fra svin beregnet på framstilling av bearbeidet animalsk protein fra svin.En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon på stedet har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering mellom biprodukter fra drøvtyggere eller fjørfe og biprodukter fra svin, er effektive.Disse tiltakene skal omfatte følgende minstekrav:Slakting av svin skal utføres i linjer som er fysisk atskilt fra linjer som brukes til slakting av drøvtyggere eller fjørfe.Produkter fra svin skal håndteres på produksjonslinjer som er fysisk atskilt fra linjer som brukes til håndtering av produkter fra drøvtyggere eller fjørfe.Animalske biprodukter fra svin skal samles inn, lagres, transporteres og pakkes i fasiliteter som er fysisk atskilt fra fasiliteter brukt til animalske biprodukter fra drøvtyggere eller fjørfe.Det skal regelmessig tas prøver og foretas analyser av animalske biprodukter fra svin for å avdekke forekomst av proteiner fra drøvtyggere eller fjørfe. Analysemetoden som benyttes, skal være vitenskapelig validert for dette formålet. Hyppigheten av prøvetaking og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene.Animalske biprodukter fra svin som er beregnet på framstilling av bearbeidet animalsk protein fra svin, skal transporteres til et bearbeidingsanlegg i kjøretøyer og containere som ikke brukes til transport av animalske biprodukter fra drøvtyggere eller fjørfe.Som unntak fra første ledd kan de transporteres i kjøretøyer og containere som tidligere er brukt til transport av animalske biprodukter fra drøvtyggere eller fjørfe, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.Bearbeidet animalsk protein fra svin skal framstilles i bearbeidingsanleggsom utelukkende brukes til bearbeiding av biprodukter fra slakterier, nedskjæringsanlegg eller andre virksomheter som omhandlet i bokstav a),som er registrert av vedkommende myndighet som et anlegg som ikke bearbeider biprodukter fra drøvtyggere eller fjørfe.Som unntak fra første ledd punkt ii) kan vedkommende myndighet tillate framstilling av bearbeidet animalsk protein fra svin i bearbeidingsanlegg som bearbeider biprodukter fra drøvtyggere eller fjørfe.En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering mellom bearbeidet animalsk protein fra drøvtyggere eller fjørfe og bearbeidet animalsk protein fra svin, er effektive.Disse forebyggende tiltakene skal omfatte følgende minstekrav:Framstilling av bearbeidet animalsk protein fra drøvtyggere eller fjørfe må skje i et lukket system som holdes fysisk atskilt fra det som brukes til framstilling av bearbeidet animalsk protein fra svin.Animalske biprodukter fra drøvtyggere og fjørfe skal under lagring og transport oppbevares i fasiliteter som er fysisk atskilt fra fasiliteter som brukes til animalske biprodukter fra svin.Bearbeidet animalsk protein fra drøvtyggere eller fjørfe skal under lagring og pakking oppbevares i fasiliteter som er fysisk atskilt fra fasiliteter som brukes til ferdige produkter fra svin.Det skal regelmessig tas prøver og foretas analyser av bearbeidet animalsk protein fra svin for å kontrollere at det ikke forekommer krysskontaminering med bearbeidet animalsk protein fra drøvtyggere eller fjørfe, ved å bruke de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene av slike prøvetakinger og analyser skal være tilgjengelige for vedkommende myndighet i minst fem år.Fôrblandinger som inneholder bearbeidet animalsk protein fra svin, skal produseres i virksomheter somer godkjent for dette formålet av vedkommende myndighet,utelukkende brukes til framstilling av fôr til fjørfe, akvakulturdyr eller pelsdyr.Som unntak fra første ledd punkt i) kreves det ikke en særlig tillatelse til produksjon av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra svin, for hjemmeblandere som oppfyller følgende vilkår:De er registrert av vedkommende myndighet som produsent av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra svin.De holder ikke produksjonsdyr som definert i artikkel 3 nr. 6 bokstav a) i forordning (EF) nr. 1069/2009, bortsett fra fjørfe, akvakulturdyr eller pelsdyr.Fôrblandingen som inneholder bearbeidet animalsk protein fra svin som brukes i produksjonen, inneholder mindre enn 50 % råprotein.Som unntak fra første ledd punkt ii) kan vedkommende myndighet etter inspeksjon på stedet tillate produksjon av fôrblandinger som er beregnet på fjørfe, og som inneholder bearbeidet animalsk protein fra svin, i virksomheter som også produserer fôrblandinger beregnet på andre produksjonsdyr enn akvakulturdyr og pelsdyr, forutsatt at følgende vilkår er oppfylt:Fôrblandinger beregnet på drøvtyggere skal produseres og under lagring, transport og pakking oppbevares i fasiliteter som er fysisk atskilt fra de fasilitetene der fôrblandinger til ikke-drøvtyggere produseres og oppbevares.Fôrblandinger beregnet på svin skal produseres og under lagring, transport og pakking oppbevares i fasiliteter som er fysisk atskilt fra de fasilitetene der fôrblandinger til andre ikke-drøvtyggere produseres og oppbevares.Registre over innkjøp og bruk av bearbeidet animalsk protein fra svin og salg av fôrblandinger som inneholder slikt protein, skal være tilgjengelige for vedkommende myndighet i minst fem år.Det skal regelmessig tas prøver og foretas analyser av fôrblandinger beregnet på andre produksjonsdyr enn fjørfe, akvakulturdyr og pelsdyr for å kontrollere at det ikke forekommer ikke-tillatte bestanddeler av animalsk opprinnelse, gjennom bruk av de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene skal være tilgjengelige for vedkommende myndighet i minst fem år.Handelsdokumentet eller eventuelt hygienesertifikatet som følger med det bearbeidede animalske proteinet fra svin i samsvar med artikkel 21 nr. 2 i forordning (EF) nr. 1069/2009, etiketten til det bearbeidede animalske proteinet fra svin og etiketten til fôrblandinger som inneholder bearbeidet animalsk protein fra svin, skal være tydelig merket i samsvar med kapittel V avsnitt G i dette vedlegget.
+Følgende særlige vilkår får anvendelse på framstilling og bruk av bearbeidet animalsk protein fra svin og fôrblandinger som inneholder slikt protein, og som er beregnet på fôring av fjørfe (heretter «bearbeidet animalsk protein fra svin»):
+
+1. De animalske biproduktene som skal brukes til framstilling av bearbeidet animalsk protein fra svin, skal komme fra en eller flere av følgende:
+
+   1. Slakterier som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke slakter drøvtyggere og fjørfe, og som er registrert av vedkommende myndighet som et slakteri som ikke slakter drøvtyggere og fjørfe.
+   2. Nedskjæringsanlegg som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke utbeiner eller skjærer kjøtt fra drøvtyggere og fjørfe, og som er registrert av vedkommende myndighet som et anlegg som ikke utbeiner eller skjærer kjøtt fra drøvtyggere og fjørfe.
+   3. Andre virksomheter enn dem som er nevnt i punkt i) eller ii), som er registrert eller godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke håndterer produkter fra drøvtyggere og fjørfe, og som er registrert av vedkommende myndighet som en virksomhet som ikke håndterer produkter fra drøvtyggere og fjørfe.
+   4. Godkjente virksomheter omhandlet i artikkel 24 nr. 1 bokstav h) og i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) som er registrert av vedkommende myndighet som virksomheter som håndterer eller lagrer bare animalske biprodukter fra ikke-drøvtyggere som kommer fra virksomheter omhandlet i punkt i), ii) og iii).
+
+   Som unntak fra første ledd punkt i), ii) og iii) kan vedkommende myndighet tillate slakting av drøvtyggere eller fjørfe og håndtering av produkter fra drøvtyggere eller fjørfe i virksomhetene omhandlet i første ledd punkt i), ii) og iii) som framstiller animalske biprodukter fra svin beregnet på framstilling av bearbeidet animalsk protein fra svin.
+
+   En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon på stedet har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering mellom biprodukter fra drøvtyggere eller fjørfe og biprodukter fra svin, er effektive.
+
+   Disse tiltakene skal omfatte følgende minstekrav:
+
+   1. Slakting av svin skal utføres i linjer som er fysisk atskilt fra linjer som brukes til slakting av drøvtyggere eller fjørfe.
+   2. Produkter fra svin skal håndteres på produksjonslinjer som er fysisk atskilt fra linjer som brukes til håndtering av produkter fra drøvtyggere eller fjørfe.
+   3. Animalske biprodukter fra svin skal samles inn, lagres, transporteres og pakkes i fasiliteter som er fysisk atskilt fra fasiliteter brukt til animalske biprodukter fra drøvtyggere eller fjørfe.
+   4. Det skal regelmessig tas prøver og foretas analyser av animalske biprodukter fra svin for å avdekke forekomst av proteiner fra drøvtyggere eller fjørfe. Analysemetoden som benyttes, skal være vitenskapelig validert for dette formålet. Hyppigheten av prøvetaking og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene.
+2. Animalske biprodukter fra svin som er beregnet på framstilling av bearbeidet animalsk protein fra svin, skal transporteres til et bearbeidingsanlegg i kjøretøyer og containere som ikke brukes til transport av animalske biprodukter fra drøvtyggere eller fjørfe.
+
+   Som unntak fra første ledd kan de transporteres i kjøretøyer og containere som tidligere er brukt til transport av animalske biprodukter fra drøvtyggere eller fjørfe, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.
+
+   Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
+3. Bearbeidet animalsk protein fra svin skal framstilles i bearbeidingsanlegg
+
+   1. som utelukkende brukes til bearbeiding av biprodukter fra slakterier, nedskjæringsanlegg eller andre virksomheter som omhandlet i bokstav a),
+   2. som er registrert av vedkommende myndighet som et anlegg som ikke bearbeider biprodukter fra drøvtyggere eller fjørfe.
+
+   Som unntak fra første ledd punkt ii) kan vedkommende myndighet tillate framstilling av bearbeidet animalsk protein fra svin i bearbeidingsanlegg som bearbeider biprodukter fra drøvtyggere eller fjørfe.
+
+   En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering mellom bearbeidet animalsk protein fra drøvtyggere eller fjørfe og bearbeidet animalsk protein fra svin, er effektive.
+
+   Disse forebyggende tiltakene skal omfatte følgende minstekrav:
+
+   1. Framstilling av bearbeidet animalsk protein fra drøvtyggere eller fjørfe må skje i et lukket system som holdes fysisk atskilt fra det som brukes til framstilling av bearbeidet animalsk protein fra svin.
+   2. Animalske biprodukter fra drøvtyggere og fjørfe skal under lagring og transport oppbevares i fasiliteter som er fysisk atskilt fra fasiliteter som brukes til animalske biprodukter fra svin.
+   3. Bearbeidet animalsk protein fra drøvtyggere eller fjørfe skal under lagring og pakking oppbevares i fasiliteter som er fysisk atskilt fra fasiliteter som brukes til ferdige produkter fra svin.
+   4. Det skal regelmessig tas prøver og foretas analyser av bearbeidet animalsk protein fra svin for å kontrollere at det ikke forekommer krysskontaminering med bearbeidet animalsk protein fra drøvtyggere eller fjørfe, ved å bruke de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene av slike prøvetakinger og analyser skal være tilgjengelige for vedkommende myndighet i minst fem år.
+4. Fôrblandinger som inneholder bearbeidet animalsk protein fra svin, skal produseres i virksomheter som
+
+   1. er godkjent for dette formålet av vedkommende myndighet,
+   2. utelukkende brukes til framstilling av fôr til fjørfe, akvakulturdyr eller pelsdyr.
+
+   Som unntak fra første ledd punkt i) kreves det ikke en særlig tillatelse til produksjon av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra svin, for hjemmeblandere som oppfyller følgende vilkår:
+
+   - De er registrert av vedkommende myndighet som produsent av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra svin.
+   - De holder ikke produksjonsdyr som definert i artikkel 3 nr. 6 bokstav a) i forordning (EF) nr. 1069/2009, bortsett fra fjørfe, akvakulturdyr eller pelsdyr.
+   - Fôrblandingen som inneholder bearbeidet animalsk protein fra svin som brukes i produksjonen, inneholder mindre enn 50 % råprotein.
+
+   Som unntak fra første ledd punkt ii) kan vedkommende myndighet etter inspeksjon på stedet tillate produksjon av fôrblandinger som er beregnet på fjørfe, og som inneholder bearbeidet animalsk protein fra svin, i virksomheter som også produserer fôrblandinger beregnet på andre produksjonsdyr enn akvakulturdyr og pelsdyr, forutsatt at følgende vilkår er oppfylt:
+
+   - Fôrblandinger beregnet på drøvtyggere skal produseres og under lagring, transport og pakking oppbevares i fasiliteter som er fysisk atskilt fra de fasilitetene der fôrblandinger til ikke-drøvtyggere produseres og oppbevares.
+   - Fôrblandinger beregnet på svin skal produseres og under lagring, transport og pakking oppbevares i fasiliteter som er fysisk atskilt fra de fasilitetene der fôrblandinger til andre ikke-drøvtyggere produseres og oppbevares.
+   - Registre over innkjøp og bruk av bearbeidet animalsk protein fra svin og salg av fôrblandinger som inneholder slikt protein, skal være tilgjengelige for vedkommende myndighet i minst fem år.
+   - Det skal regelmessig tas prøver og foretas analyser av fôrblandinger beregnet på andre produksjonsdyr enn fjørfe, akvakulturdyr og pelsdyr for å kontrollere at det ikke forekommer ikke-tillatte bestanddeler av animalsk opprinnelse, gjennom bruk av de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene skal være tilgjengelige for vedkommende myndighet i minst fem år.
+5. Handelsdokumentet eller eventuelt hygienesertifikatet som følger med det bearbeidede animalske proteinet fra svin i samsvar med artikkel 21 nr. 2 i forordning (EF) nr. 1069/2009, etiketten til det bearbeidede animalske proteinet fra svin og etiketten til fôrblandinger som inneholder bearbeidet animalsk protein fra svin, skal være tydelig merket i samsvar med kapittel V avsnitt G i dette vedlegget.
 
 ###### Avsnitt H
 
 Særlige vilkår for framstilling og bruk av bearbeidet animalsk protein fra fjørfe og fôrblandinger som inneholder slikt protein, og som er beregnet på fôring av svin
 
-Følgende særlige vilkår får anvendelse på framstilling og bruk av bearbeidet animalsk protein fra fjørfe og fôrblandinger som inneholder slikt protein, og som er beregnet på fôring av svin (heretter «bearbeidet animalsk protein fra fjørfe»):De animalske biproduktene som skal brukes til framstilling av bearbeidet animalsk protein fra fjørfe, skal komme fra en eller flere av følgende:Slakterier som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke slakter drøvtyggere og svin, og som er registrert av vedkommende myndighet som et slakteri som ikke slakter drøvtyggere og svin.Nedskjæringsanlegg som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke utbeiner eller skjærer kjøtt fra drøvtyggere og svin, og som er registrert av vedkommende myndighet som et anlegg som ikke utbeiner eller skjærer kjøtt fra drøvtyggere og svin.Andre virksomheter enn dem som er nevnt i punkt i) eller ii), som er registrert eller godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke håndterer produkter fra drøvtyggere og svin, og som er registrert av vedkommende myndighet som en virksomhet som ikke håndterer produkter fra drøvtyggere og svin.Godkjente virksomheter omhandlet i artikkel 24 nr. 1 bokstav h) og i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) som er registrert av vedkommende myndighet som virksomheter som håndterer eller lagrer bare animalske biprodukter fra ikke-drøvtyggere som kommer fra virksomheter omhandlet i punkt i), ii) og iii).Som unntak fra første ledd punkt i), ii) og iii) kan vedkommende myndighet tillate slakting av drøvtyggere eller svin og håndtering av produkter fra drøvtyggere eller svin i virksomhetene omhandlet i første ledd punkt i), ii) og iii) som framstiller animalske biprodukter fra fjørfe beregnet på framstilling av bearbeidet animalsk protein fra fjørfe.En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon på stedet har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering mellom biprodukter fra drøvtyggere eller svin og biprodukter fra fjørfe, er effektive.Disse tiltakene skal omfatte følgende minstekrav:Slakting av fjørfe skal utføres i linjer som er fysisk atskilt fra linjer som brukes til slakting av drøvtyggere eller svin.Produkter fra fjørfe skal håndteres på produksjonslinjer som er fysisk atskilt fra linjer som brukes til håndtering av produkter fra drøvtyggere eller svin.Animalske biprodukter fra fjørfe skal samles inn, lagres, transporteres og pakkes i fasiliteter som er fysisk atskilt fra fasiliteter brukt til animalske biprodukter fra drøvtyggere eller svin.Det skal regelmessig tas prøver og foretas analyser av animalske biprodukter fra fjørfe for å avdekke forekomst av proteiner fra drøvtyggere eller svin. Analysemetoden som benyttes, skal være vitenskapelig validert for dette formålet. Hyppigheten av prøvetaking og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene.Animalske biprodukter fra fjørfe som er beregnet på framstilling av bearbeidet animalsk protein fra fjørfe, skal transporteres til et bearbeidingsanlegg i kjøretøyer og containere som ikke brukes til transport av animalske biprodukter fra drøvtyggere eller svin.Som unntak fra første ledd kan de transporteres i kjøretøyer og containere som tidligere er brukt til transport av animalske biprodukter fra drøvtyggere eller svin, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.Bearbeidet animalsk protein fra fjørfe skal framstilles i bearbeidingsanleggsom utelukkende brukes til bearbeiding av animalske biprodukter fra slakterier, nedskjæringsanlegg eller andre virksomheter som omhandlet i bokstav a),som er registrert av vedkommende myndighet som et anlegg som ikke bearbeider animalske biprodukter fra drøvtyggere eller svin.Som unntak fra første ledd punkt ii) kan vedkommende myndighet tillate framstilling av bearbeidet animalsk protein fra fjørfe i bearbeidingsanlegg som bearbeider animalske biprodukter fra drøvtyggere eller svin.En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering mellom bearbeidet animalsk protein fra drøvtyggere eller svin og bearbeidet animalsk protein fra fjørfe, er effektive.Disse forebyggende tiltakene skal omfatte følgende minstekrav:Framstilling av bearbeidet animalsk protein fra drøvtyggere eller svin må skje i et lukket system som holdes fysisk atskilt fra det som brukes til framstilling av bearbeidet animalsk protein fra fjørfe.Animalske biprodukter fra drøvtyggere eller svin skal under lagring og transport oppbevares i anlegg og beholdere som er fysisk atskilt fra de som brukes til animalske biprodukter fra fjørfe.Bearbeidet animalsk protein fra drøvtyggere eller svin skal under lagring og pakking oppbevares i anlegg som er fysisk atskilt fra anlegg som brukes til ferdige produkter fra fjørfe.Det skal regelmessig tas prøver og foretas analyser av bearbeidet animalsk protein fra fjørfe for å kontrollere at det ikke forekommer krysskontaminering med bearbeidet animalsk protein fra drøvtyggere eller svin, ved å bruke de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene av slike prøvetakinger og analyser skal være tilgjengelige for vedkommende myndighet i minst fem år.Fôrblandinger som inneholder bearbeidet animalsk protein fra fjørfe, skal produseres i virksomheter somer godkjent for dette formålet av vedkommende myndighet,utelukkende brukes til framstilling av fôr til svin, akvakulturdyr eller pelsdyr.Som unntak fra første ledd punkt i) kreves det ikke en særlig tillatelse til produksjon av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra fjørfe, for hjemmeblandere som oppfyller følgende vilkår:De er registrert av vedkommende myndighet som produsent av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra fjørfe.De holder ikke produksjonsdyr som definert i artikkel 3 nr. 6 bokstav a) i forordning (EF) nr. 1069/2009, bortsett fra svin, akvakulturdyr eller pelsdyr.Fôrblandingen som inneholder bearbeidet animalsk protein fra fjørfe som brukes i produksjonen, inneholder mindre enn 50 % råprotein.Som unntak fra første ledd punkt ii) kan vedkommende myndighet etter inspeksjon på stedet tillate produksjon av fôrblandinger som er beregnet på svin, og som inneholder bearbeidet animalsk protein fra fjørfe, i virksomheter som også produserer fôrblandinger beregnet på andre produksjonsdyr enn akvakulturdyr og pelsdyr, forutsatt at følgende vilkår er oppfylt:Fôrblandinger beregnet på drøvtyggere skal produseres og under lagring, transport og pakking oppbevares i fasiliteter som er fysisk atskilt fra de fasilitetene der fôrblandinger til ikke-drøvtyggere produseres og oppbevares.Fôrblandinger beregnet på fjørfe skal produseres og under lagring, transport og pakking oppbevares i fasiliteter som er fysisk atskilt fra de fasilitetene der fôrblandinger til andre ikke-drøvtyggere produseres og oppbevares.Registre over innkjøp og bruk av bearbeidet animalsk protein fra fjørfe og salg av fôrblandinger som inneholder slikt protein, skal være tilgjengelige for vedkommende myndighet i minst fem år.►**M74**Det skal regelmessig tas prøver og foretas analyser av fôrblandinger beregnet på andre produksjonsdyr enn svin, akvakulturdyr og pelsdyr for å kontrollere at det ikke forekommer ikke-tillatte bestanddeler av animalsk opprinnelse, gjennom bruk av de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene skal være tilgjengelige for vedkommende myndighet i minst fem år.◄**M74**Handelsdokumentet eller eventuelt hygienesertifikatet som følger med det bearbeidede animalske proteinet fra fjørfe i samsvar med artikkel 21 nr. 2 i forordning (EF) nr. 1069/2009, etiketten til det bearbeidede animalske proteinet fra fjørfe og etiketten til fôrblandinger som inneholder bearbeidet animalsk protein fra fjørfe, skal være tydelig merket i samsvar med kapittel V avsnitt G i dette vedlegget.
+Følgende særlige vilkår får anvendelse på framstilling og bruk av bearbeidet animalsk protein fra fjørfe og fôrblandinger som inneholder slikt protein, og som er beregnet på fôring av svin (heretter «bearbeidet animalsk protein fra fjørfe»):
+
+1. De animalske biproduktene som skal brukes til framstilling av bearbeidet animalsk protein fra fjørfe, skal komme fra en eller flere av følgende:
+
+   1. Slakterier som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke slakter drøvtyggere og svin, og som er registrert av vedkommende myndighet som et slakteri som ikke slakter drøvtyggere og svin.
+   2. Nedskjæringsanlegg som er godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke utbeiner eller skjærer kjøtt fra drøvtyggere og svin, og som er registrert av vedkommende myndighet som et anlegg som ikke utbeiner eller skjærer kjøtt fra drøvtyggere og svin.
+   3. Andre virksomheter enn dem som er nevnt i punkt i) eller ii), som er registrert eller godkjent i samsvar med artikkel 4 i forordning (EF) nr. 853/2004, som ikke håndterer produkter fra drøvtyggere og svin, og som er registrert av vedkommende myndighet som en virksomhet som ikke håndterer produkter fra drøvtyggere og svin.
+   4. Godkjente virksomheter omhandlet i artikkel 24 nr. 1 bokstav h) og i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) som er registrert av vedkommende myndighet som virksomheter som håndterer eller lagrer bare animalske biprodukter fra ikke-drøvtyggere som kommer fra virksomheter omhandlet i punkt i), ii) og iii).
+
+   Som unntak fra første ledd punkt i), ii) og iii) kan vedkommende myndighet tillate slakting av drøvtyggere eller svin og håndtering av produkter fra drøvtyggere eller svin i virksomhetene omhandlet i første ledd punkt i), ii) og iii) som framstiller animalske biprodukter fra fjørfe beregnet på framstilling av bearbeidet animalsk protein fra fjørfe.
+
+   En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon på stedet har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering mellom biprodukter fra drøvtyggere eller svin og biprodukter fra fjørfe, er effektive.
+
+   Disse tiltakene skal omfatte følgende minstekrav:
+
+   1. Slakting av fjørfe skal utføres i linjer som er fysisk atskilt fra linjer som brukes til slakting av drøvtyggere eller svin.
+   2. Produkter fra fjørfe skal håndteres på produksjonslinjer som er fysisk atskilt fra linjer som brukes til håndtering av produkter fra drøvtyggere eller svin.
+   3. Animalske biprodukter fra fjørfe skal samles inn, lagres, transporteres og pakkes i fasiliteter som er fysisk atskilt fra fasiliteter brukt til animalske biprodukter fra drøvtyggere eller svin.
+   4. Det skal regelmessig tas prøver og foretas analyser av animalske biprodukter fra fjørfe for å avdekke forekomst av proteiner fra drøvtyggere eller svin. Analysemetoden som benyttes, skal være vitenskapelig validert for dette formålet. Hyppigheten av prøvetaking og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene.
+2. Animalske biprodukter fra fjørfe som er beregnet på framstilling av bearbeidet animalsk protein fra fjørfe, skal transporteres til et bearbeidingsanlegg i kjøretøyer og containere som ikke brukes til transport av animalske biprodukter fra drøvtyggere eller svin.
+
+   Som unntak fra første ledd kan de transporteres i kjøretøyer og containere som tidligere er brukt til transport av animalske biprodukter fra drøvtyggere eller svin, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.
+
+   Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
+3. Bearbeidet animalsk protein fra fjørfe skal framstilles i bearbeidingsanlegg
+
+   1. som utelukkende brukes til bearbeiding av animalske biprodukter fra slakterier, nedskjæringsanlegg eller andre virksomheter som omhandlet i bokstav a),
+   2. som er registrert av vedkommende myndighet som et anlegg som ikke bearbeider animalske biprodukter fra drøvtyggere eller svin.
+
+   Som unntak fra første ledd punkt ii) kan vedkommende myndighet tillate framstilling av bearbeidet animalsk protein fra fjørfe i bearbeidingsanlegg som bearbeider animalske biprodukter fra drøvtyggere eller svin.
+
+   En slik tillatelse kan bare gis dersom vedkommende myndighet gjennom inspeksjon har konkludert med at tiltakene som tar sikte på å forhindre krysskontaminering mellom bearbeidet animalsk protein fra drøvtyggere eller svin og bearbeidet animalsk protein fra fjørfe, er effektive.
+
+   Disse forebyggende tiltakene skal omfatte følgende minstekrav:
+
+   1. Framstilling av bearbeidet animalsk protein fra drøvtyggere eller svin må skje i et lukket system som holdes fysisk atskilt fra det som brukes til framstilling av bearbeidet animalsk protein fra fjørfe.
+   2. Animalske biprodukter fra drøvtyggere eller svin skal under lagring og transport oppbevares i anlegg og beholdere som er fysisk atskilt fra de som brukes til animalske biprodukter fra fjørfe.
+   3. Bearbeidet animalsk protein fra drøvtyggere eller svin skal under lagring og pakking oppbevares i anlegg som er fysisk atskilt fra anlegg som brukes til ferdige produkter fra fjørfe.
+   4. Det skal regelmessig tas prøver og foretas analyser av bearbeidet animalsk protein fra fjørfe for å kontrollere at det ikke forekommer krysskontaminering med bearbeidet animalsk protein fra drøvtyggere eller svin, ved å bruke de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene av slike prøvetakinger og analyser skal være tilgjengelige for vedkommende myndighet i minst fem år.
+4. Fôrblandinger som inneholder bearbeidet animalsk protein fra fjørfe, skal produseres i virksomheter som
+
+   1. er godkjent for dette formålet av vedkommende myndighet,
+   2. utelukkende brukes til framstilling av fôr til svin, akvakulturdyr eller pelsdyr.
+
+   Som unntak fra første ledd punkt i) kreves det ikke en særlig tillatelse til produksjon av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra fjørfe, for hjemmeblandere som oppfyller følgende vilkår:
+
+   - De er registrert av vedkommende myndighet som produsent av fullfôr fra fôrblandinger som inneholder bearbeidet animalsk protein fra fjørfe.
+   - De holder ikke produksjonsdyr som definert i artikkel 3 nr. 6 bokstav a) i forordning (EF) nr. 1069/2009, bortsett fra svin, akvakulturdyr eller pelsdyr.
+   - Fôrblandingen som inneholder bearbeidet animalsk protein fra fjørfe som brukes i produksjonen, inneholder mindre enn 50 % råprotein.
+
+   Som unntak fra første ledd punkt ii) kan vedkommende myndighet etter inspeksjon på stedet tillate produksjon av fôrblandinger som er beregnet på svin, og som inneholder bearbeidet animalsk protein fra fjørfe, i virksomheter som også produserer fôrblandinger beregnet på andre produksjonsdyr enn akvakulturdyr og pelsdyr, forutsatt at følgende vilkår er oppfylt:
+
+   - Fôrblandinger beregnet på drøvtyggere skal produseres og under lagring, transport og pakking oppbevares i fasiliteter som er fysisk atskilt fra de fasilitetene der fôrblandinger til ikke-drøvtyggere produseres og oppbevares.
+   - Fôrblandinger beregnet på fjørfe skal produseres og under lagring, transport og pakking oppbevares i fasiliteter som er fysisk atskilt fra de fasilitetene der fôrblandinger til andre ikke-drøvtyggere produseres og oppbevares.
+   - Registre over innkjøp og bruk av bearbeidet animalsk protein fra fjørfe og salg av fôrblandinger som inneholder slikt protein, skal være tilgjengelige for vedkommende myndighet i minst fem år.
+
+     ►**M74**
+   - Det skal regelmessig tas prøver og foretas analyser av fôrblandinger beregnet på andre produksjonsdyr enn svin, akvakulturdyr og pelsdyr for å kontrollere at det ikke forekommer ikke-tillatte bestanddeler av animalsk opprinnelse, gjennom bruk av de analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse ved kontroll av fôr som er angitt i vedlegg VI til forordning (EF) nr. 152/2009. Hyppigheten av prøvetakinger og analyser skal fastsettes på grunnlag av en risikovurdering utført av den driftsansvarlige som ledd i dennes framgangsmåter, basert på HACCP-prinsippene. Resultatene skal være tilgjengelige for vedkommende myndighet i minst fem år.
+
+     ◄**M74**
+5. Handelsdokumentet eller eventuelt hygienesertifikatet som følger med det bearbeidede animalske proteinet fra fjørfe i samsvar med artikkel 21 nr. 2 i forordning (EF) nr. 1069/2009, etiketten til det bearbeidede animalske proteinet fra fjørfe og etiketten til fôrblandinger som inneholder bearbeidet animalsk protein fra fjørfe, skal være tydelig merket i samsvar med kapittel V avsnitt G i dette vedlegget.
 
 ◄**M69**
 
@@ -1544,7 +2329,27 @@ Alminnelige krav
 
 Lister
 
-1\. Medlemsstatene skal ajourføre og offentliggjøre lister overslakterier som er registrert som slakterier som ikke slakter drøvtyggere, i samsvar med kapittel IV avsnitt C bokstav a) første ledd, samt godkjente slakterier som blod framstilt i samsvar med kapittel IV avsnitt C bokstav a) andre, tredje og fjerde ledd kan komme fra,slakterier, nedskjæringsanlegg, andre næringsmiddelvirksomheter og virksomheter for animalske biprodukter som er registrert som virksomheter som henholdsvis ikke slakter drøvtyggere, ikke utbeiner eller skjærer kjøtt fra drøvtyggere, ikke håndterer produkter fra drøvtyggere og håndterer og oppbevarer bare animalske biprodukter fra disse næringsmiddelvirksomhetene, som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra ikke-drøvtyggere, kan komme fra i samsvar med kapittel IV avsnitt D bokstav a) første ledd, samt godkjente slakterier, nedskjæringsanlegg og andre næringsmiddelvirksomheter som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra ikke-drøvtyggere, kan komme fra i samsvar med kapittel IV avsnitt D bokstav a) andre, tredje og fjerde ledd,slakterier, nedskjæringsanlegg, andre næringsmiddelvirksomheter og virksomheter for animalske biprodukter som er registrert som virksomheter som henholdsvis ikke slakter drøvtyggere og fjørfe, ikke utbeiner eller skjærer kjøtt fra drøvtyggere og fjørfe, ikke håndterer produkter fra drøvtyggere og fjørfe og håndterer og oppbevarer bare animalske biprodukter fra disse næringsmiddelvirksomhetene, som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra svin, kan komme fra i samsvar med kapittel IV avsnitt G bokstav a) første ledd, samt godkjente slakterier, nedskjæringsanlegg og andre næringsmiddelvirksomheter som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra svin, kan komme fra i samsvar med kapittel IV avsnitt G bokstav a) andre, tredje og fjerde ledd,slakterier, nedskjæringsanlegg, andre næringsmiddelvirksomheter og virksomheter for animalske biprodukter som er registrert som virksomheter som henholdsvis ikke slakter drøvtyggere og svin, ikke utbeiner eller skjærer kjøtt fra drøvtyggere og svin, ikke håndterer produkter fra drøvtyggere og svin og håndterer og oppbevarer bare animalske biprodukter fra disse næringsmiddelvirksomhetene, som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra fjørfe, kan komme fra i samsvar med kapittel IV avsnitt H bokstav a) første ledd, samt godkjente slakterier, nedskjæringsanlegg og andre næringsmiddelvirksomheter som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra fjørfe, kan komme fra i samsvar med kapittel IV avsnitt H bokstav a) andre, tredje og fjerde ledd,bearbeidingsanlegg som er registrert som anlegg som utelukkende bearbeider blod fra ikke-drøvtyggere, i samsvar med kapittel IV avsnitt C bokstav c) første ledd, samt godkjente bearbeidingsanlegg som framstiller blodprodukter, i samsvar med kapittel IV avsnitt C bokstav c) andre, tredje og fjerde ledd,bearbeidingsanlegg som er registrert som anlegg som ikke bearbeider animalske biprodukter fra drøvtyggere, i samsvar med kapittel IV avsnitt D bokstav c) første ledd, samt godkjente bearbeidingsanlegg som framstiller bearbeidet animalsk protein fra ikke-drøvtyggere, og som driver virksomhet i samsvar med kapittel IV avsnitt D bokstav c) andre, tredje og fjerde ledd,bearbeidingsanlegg som er registrert som anlegg som ikke bearbeider animalske biprodukter fra drøvtyggere og fjørfe, i samsvar med kapittel IV avsnitt G bokstav c) første ledd, samt godkjente bearbeidingsanlegg som framstiller bearbeidet animalsk protein fra svin, og som driver virksomhet i samsvar med kapittel IV avsnitt G bokstav c) andre, tredje og fjerde ledd,bearbeidingsanlegg som er registrert som anlegg som ikke bearbeider animalske biprodukter fra drøvtyggere og svin, i samsvar med kapittel IV avsnitt H bokstav c) første ledd, samt godkjente bearbeidingsanlegg som framstiller bearbeidet animalsk protein fra fjørfe, og som driver virksomhet i samsvar med kapittel IV avsnitt H bokstav c) andre, tredje og fjerde ledd,►**M74**godkjente fôrblandingsvirksomheter som i samsvar med kapittel III avsnitt B produserer fôrblandinger som inneholder fiskemel, dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse, eller blodprodukter fra andre dyr enn drøvtyggere,◄**M74**godkjente fôrblandingsvirksomheter som i samsvar med kapittel IV avsnitt D bokstav d) produserer fôrblandinger som inneholder bearbeidet animalsk protein fra ikke-drøvtyggere, samt godkjente fôrblandingsvirksomheter som i samsvar med kapittel V avsnitt E nr. 3 bokstav b) ii) utelukkende produserer fôrblandinger for eksport fra Unionen, eller fôrblandinger for eksport fra Unionen og fôrblandinger til akvakulturdyr som skal bringes i omsetning,godkjente fôrblandingsvirksomheter som i samsvar med kapittel IV avsnitt E bokstav d) framstiller melkeerstatninger som inneholder fiskemel, beregnet på ikke avvente produksjonsdyr av drøvtyggerarter,godkjente fôrblandingsvirksomheter som i samsvar med kapittel IV avsnitt F bokstav b) produserer fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter,godkjente fôrblandingsvirksomheter som i samsvar med kapittel IV avsnitt G bokstav b) produserer fôrblandinger som inneholder bearbeidet animalsk protein fra svin, beregnet på fjørfe,godkjente fôrblandingsvirksomheter som i samsvar med kapittel IV avsnitt H bokstav b) produserer fôrblandinger som inneholder bearbeidet animalsk protein fra fjørfe, beregnet på svin,lagringsanlegg som er godkjent i samsvar med kapittel III avsnitt A nr. 3, eller i samsvar med kapittel V avsnitt E nr. 3 bokstav d) tredje ledd.
+1\. Medlemsstatene skal ajourføre og offentliggjøre lister over
+
+1. slakterier som er registrert som slakterier som ikke slakter drøvtyggere, i samsvar med kapittel IV avsnitt C bokstav a) første ledd, samt godkjente slakterier som blod framstilt i samsvar med kapittel IV avsnitt C bokstav a) andre, tredje og fjerde ledd kan komme fra,
+2. slakterier, nedskjæringsanlegg, andre næringsmiddelvirksomheter og virksomheter for animalske biprodukter som er registrert som virksomheter som henholdsvis ikke slakter drøvtyggere, ikke utbeiner eller skjærer kjøtt fra drøvtyggere, ikke håndterer produkter fra drøvtyggere og håndterer og oppbevarer bare animalske biprodukter fra disse næringsmiddelvirksomhetene, som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra ikke-drøvtyggere, kan komme fra i samsvar med kapittel IV avsnitt D bokstav a) første ledd, samt godkjente slakterier, nedskjæringsanlegg og andre næringsmiddelvirksomheter som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra ikke-drøvtyggere, kan komme fra i samsvar med kapittel IV avsnitt D bokstav a) andre, tredje og fjerde ledd,
+3. slakterier, nedskjæringsanlegg, andre næringsmiddelvirksomheter og virksomheter for animalske biprodukter som er registrert som virksomheter som henholdsvis ikke slakter drøvtyggere og fjørfe, ikke utbeiner eller skjærer kjøtt fra drøvtyggere og fjørfe, ikke håndterer produkter fra drøvtyggere og fjørfe og håndterer og oppbevarer bare animalske biprodukter fra disse næringsmiddelvirksomhetene, som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra svin, kan komme fra i samsvar med kapittel IV avsnitt G bokstav a) første ledd, samt godkjente slakterier, nedskjæringsanlegg og andre næringsmiddelvirksomheter som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra svin, kan komme fra i samsvar med kapittel IV avsnitt G bokstav a) andre, tredje og fjerde ledd,
+4. slakterier, nedskjæringsanlegg, andre næringsmiddelvirksomheter og virksomheter for animalske biprodukter som er registrert som virksomheter som henholdsvis ikke slakter drøvtyggere og svin, ikke utbeiner eller skjærer kjøtt fra drøvtyggere og svin, ikke håndterer produkter fra drøvtyggere og svin og håndterer og oppbevarer bare animalske biprodukter fra disse næringsmiddelvirksomhetene, som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra fjørfe, kan komme fra i samsvar med kapittel IV avsnitt H bokstav a) første ledd, samt godkjente slakterier, nedskjæringsanlegg og andre næringsmiddelvirksomheter som animalske biprodukter som skal brukes til framstilling av bearbeidet animalsk protein fra fjørfe, kan komme fra i samsvar med kapittel IV avsnitt H bokstav a) andre, tredje og fjerde ledd,
+5. bearbeidingsanlegg som er registrert som anlegg som utelukkende bearbeider blod fra ikke-drøvtyggere, i samsvar med kapittel IV avsnitt C bokstav c) første ledd, samt godkjente bearbeidingsanlegg som framstiller blodprodukter, i samsvar med kapittel IV avsnitt C bokstav c) andre, tredje og fjerde ledd,
+6. bearbeidingsanlegg som er registrert som anlegg som ikke bearbeider animalske biprodukter fra drøvtyggere, i samsvar med kapittel IV avsnitt D bokstav c) første ledd, samt godkjente bearbeidingsanlegg som framstiller bearbeidet animalsk protein fra ikke-drøvtyggere, og som driver virksomhet i samsvar med kapittel IV avsnitt D bokstav c) andre, tredje og fjerde ledd,
+7. bearbeidingsanlegg som er registrert som anlegg som ikke bearbeider animalske biprodukter fra drøvtyggere og fjørfe, i samsvar med kapittel IV avsnitt G bokstav c) første ledd, samt godkjente bearbeidingsanlegg som framstiller bearbeidet animalsk protein fra svin, og som driver virksomhet i samsvar med kapittel IV avsnitt G bokstav c) andre, tredje og fjerde ledd,
+8. bearbeidingsanlegg som er registrert som anlegg som ikke bearbeider animalske biprodukter fra drøvtyggere og svin, i samsvar med kapittel IV avsnitt H bokstav c) første ledd, samt godkjente bearbeidingsanlegg som framstiller bearbeidet animalsk protein fra fjørfe, og som driver virksomhet i samsvar med kapittel IV avsnitt H bokstav c) andre, tredje og fjerde ledd,
+
+   ►**M74**
+9. godkjente fôrblandingsvirksomheter som i samsvar med kapittel III avsnitt B produserer fôrblandinger som inneholder fiskemel, dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse, eller blodprodukter fra andre dyr enn drøvtyggere,
+
+   ◄**M74**
+10. godkjente fôrblandingsvirksomheter som i samsvar med kapittel IV avsnitt D bokstav d) produserer fôrblandinger som inneholder bearbeidet animalsk protein fra ikke-drøvtyggere, samt godkjente fôrblandingsvirksomheter som i samsvar med kapittel V avsnitt E nr. 3 bokstav b) ii) utelukkende produserer fôrblandinger for eksport fra Unionen, eller fôrblandinger for eksport fra Unionen og fôrblandinger til akvakulturdyr som skal bringes i omsetning,
+11. godkjente fôrblandingsvirksomheter som i samsvar med kapittel IV avsnitt E bokstav d) framstiller melkeerstatninger som inneholder fiskemel, beregnet på ikke avvente produksjonsdyr av drøvtyggerarter,
+12. godkjente fôrblandingsvirksomheter som i samsvar med kapittel IV avsnitt F bokstav b) produserer fôrblandinger som inneholder bearbeidet animalsk protein fra oppdrettsinsekter,
+13. godkjente fôrblandingsvirksomheter som i samsvar med kapittel IV avsnitt G bokstav b) produserer fôrblandinger som inneholder bearbeidet animalsk protein fra svin, beregnet på fjørfe,
+14. godkjente fôrblandingsvirksomheter som i samsvar med kapittel IV avsnitt H bokstav b) produserer fôrblandinger som inneholder bearbeidet animalsk protein fra fjørfe, beregnet på svin,
+15. lagringsanlegg som er godkjent i samsvar med kapittel III avsnitt A nr. 3, eller i samsvar med kapittel V avsnitt E nr. 3 bokstav d) tredje ledd.
 
 2\. Medlemsstatene skal ajourføre lister over hjemmeblandere som er registrert i samsvar med kapittel III avsnitt B nr. 3, og med kapittel IV avsnitt D bokstav d) ii), avsnitt F bokstav b) ii), avsnitt G bokstav d) ii) og avsnitt H bokstav d) ii).
 
@@ -1554,21 +2359,38 @@ Lister
 
 Transport og lagring av fôrmidler og fôrblandinger som inneholder produkter fra drøvtyggere
 
-1\. Fôrmidler i bulk og fôrblandinger i bulk som inneholder andre produkter fra drøvtyggere enn de som er oppført i bokstav a)–d) nedenfor, skal transporteres i kjøretøyer og containere og oppbevares i lagringsanlegg som ikke brukes til henholdsvis transport eller lagring av fôr beregnet på andre produksjonsdyr enn pelsdyr:melk, melkebaserte produkter, produkter framstilt fra melk, råmelk og råmelksprodukter,dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,hydrolyserte proteiner fra huder og skinn fra drøvtyggere,smeltet fett fra drøvtyggere med høyeste tillatte nivå for uløselige urenheter på 0,15 vektprosent og avledede produkter fra slikt fett.
+1\. Fôrmidler i bulk og fôrblandinger i bulk som inneholder andre produkter fra drøvtyggere enn de som er oppført i bokstav a)–d) nedenfor, skal transporteres i kjøretøyer og containere og oppbevares i lagringsanlegg som ikke brukes til henholdsvis transport eller lagring av fôr beregnet på andre produksjonsdyr enn pelsdyr:
 
-2\. Som unntak fra nr. 1 kan kjøretøyer, containere og lagringsanlegg som tidligere er brukt til transport eller lagring av fôrmidler i bulk og fôrblandinger i bulk oppført i nevnte nummer, brukes til transport eller lagring av fôrvarer beregnet på andre produksjonsdyr enn pelsdyr, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
+1. melk, melkebaserte produkter, produkter framstilt fra melk, råmelk og råmelksprodukter,
+2. dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,
+3. hydrolyserte proteiner fra huder og skinn fra drøvtyggere,
+4. smeltet fett fra drøvtyggere med høyeste tillatte nivå for uløselige urenheter på 0,15 vektprosent og avledede produkter fra slikt fett.
+
+2\. Som unntak fra nr. 1 kan kjøretøyer, containere og lagringsanlegg som tidligere er brukt til transport eller lagring av fôrmidler i bulk og fôrblandinger i bulk oppført i nevnte nummer, brukes til transport eller lagring av fôrvarer beregnet på andre produksjonsdyr enn pelsdyr, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet.
+
+Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
 
 ###### Avsnitt C
 
 Produksjon av fôrblandinger beregnet på pelsdyr eller kjæledyr, som inneholder produkter fra drøvtyggere eller andre dyr enn drøvtyggere
 
-1\. Fôrblandinger beregnet på pelsdyr eller kjæledyr, som inneholder andre produkter fra drøvtyggere enn de som er oppført i bokstav a)–d) nedenfor, skal ikke produseres i virksomheter som produserer fôr til andre produksjonsdyr enn pelsdyr:melk, melkebaserte produkter, produkter framstilt fra melk, råmelk og råmelksprodukter,dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,hydrolyserte proteiner fra huder og skinn fra drøvtyggere,smeltet fett fra drøvtyggere med høyeste tillatte nivå for uløselige urenheter på 0,15 vektprosent og avledede produkter fra slikt fett.
+1\. Fôrblandinger beregnet på pelsdyr eller kjæledyr, som inneholder andre produkter fra drøvtyggere enn de som er oppført i bokstav a)–d) nedenfor, skal ikke produseres i virksomheter som produserer fôr til andre produksjonsdyr enn pelsdyr:
+
+1. melk, melkebaserte produkter, produkter framstilt fra melk, råmelk og råmelksprodukter,
+2. dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,
+3. hydrolyserte proteiner fra huder og skinn fra drøvtyggere,
+4. smeltet fett fra drøvtyggere med høyeste tillatte nivå for uløselige urenheter på 0,15 vektprosent og avledede produkter fra slikt fett.
 
 ►**M69**
 
 2\. Fôrblandinger som er beregnet på pelsdyr eller kjæledyr, og som inneholder bearbeidet animalsk protein fra ikke-drøvtyggere, skal ikke produseres i virksomheter som produserer fôr til andre produksjonsdyr enn pelsdyr eller akvakulturdyr.
 
-3\. Som unntak fra nr. 2 gjelder følgende:Fôrblandinger som er beregnet på pelsdyr eller kjæledyr, og som inneholder fiskemel, kan produseres i virksomheter som produserer fôr til ikke-drøvtyggende produksjonsdyr og melkeerstatninger til fôring av drøvtyggere som ikke er avvente.Fôrblandinger som er beregnet på pelsdyr eller kjæledyr, og som inneholder bearbeidet animalsk protein fra oppdrettsinsekter, kan produseres i virksomheter som produserer fôr til fjørfe eller svin, forutsatt at det bearbeidede animalske proteinet fra oppdrettsinsekter oppfyller kravene i kapittel IV avsnitt F bokstav a).Fôrblandinger som er beregnet på pelsdyr eller kjæledyr, og som inneholder bearbeidet animalsk protein fra svin, kan produseres i virksomheter som produserer fôr til fjørfe, forutsatt at det bearbeidede animalske proteinet fra svin oppfyller kravene i kapittel IV avsnitt G bokstav a), b) og c).Fôrblandinger som er beregnet på pelsdyr eller kjæledyr, og som inneholder bearbeidet animalsk protein fra fjørfe, kan produseres i virksomheter som produserer fôr til svin, forutsatt at det bearbeidede animalske proteinet fra fjørfe oppfyller kravene i kapittel IV avsnitt H bokstav a), b) og c).
+3\. Som unntak fra nr. 2 gjelder følgende:
+
+1. Fôrblandinger som er beregnet på pelsdyr eller kjæledyr, og som inneholder fiskemel, kan produseres i virksomheter som produserer fôr til ikke-drøvtyggende produksjonsdyr og melkeerstatninger til fôring av drøvtyggere som ikke er avvente.
+2. Fôrblandinger som er beregnet på pelsdyr eller kjæledyr, og som inneholder bearbeidet animalsk protein fra oppdrettsinsekter, kan produseres i virksomheter som produserer fôr til fjørfe eller svin, forutsatt at det bearbeidede animalske proteinet fra oppdrettsinsekter oppfyller kravene i kapittel IV avsnitt F bokstav a).
+3. Fôrblandinger som er beregnet på pelsdyr eller kjæledyr, og som inneholder bearbeidet animalsk protein fra svin, kan produseres i virksomheter som produserer fôr til fjørfe, forutsatt at det bearbeidede animalske proteinet fra svin oppfyller kravene i kapittel IV avsnitt G bokstav a), b) og c).
+4. Fôrblandinger som er beregnet på pelsdyr eller kjæledyr, og som inneholder bearbeidet animalsk protein fra fjørfe, kan produseres i virksomheter som produserer fôr til svin, forutsatt at det bearbeidede animalske proteinet fra fjørfe oppfyller kravene i kapittel IV avsnitt H bokstav a), b) og c).
 
 ◄**M69**
 
@@ -1576,17 +2398,67 @@ Produksjon av fôrblandinger beregnet på pelsdyr eller kjæledyr, som inneholde
 
 Bruk og lagring på driftsenheter av fôrmidler og fôrblandinger til produksjonsdyr som inneholder produkter fra drøvtyggere
 
-Bruk og lagring av fôrmidler og fôrblandinger til produksjonsdyr som inneholder andre produkter fra drøvtyggere enn de som er oppført i bokstav a)–d), skal være forbudt på driftsenheter som holder andre produksjonsdyr enn pelsdyr:melk, melkebaserte produkter, produkter framstilt fra melk, råmelk og råmelksprodukter,dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,hydrolyserte proteiner fra huder og skinn fra drøvtyggere,smeltet fett fra drøvtyggere med høyeste tillatte nivå for uløselige urenheter på 0,15 vektprosent og avledede produkter fra slikt fett.
+Bruk og lagring av fôrmidler og fôrblandinger til produksjonsdyr som inneholder andre produkter fra drøvtyggere enn de som er oppført i bokstav a)–d), skal være forbudt på driftsenheter som holder andre produksjonsdyr enn pelsdyr:
+
+1. melk, melkebaserte produkter, produkter framstilt fra melk, råmelk og råmelksprodukter,
+2. dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,
+3. hydrolyserte proteiner fra huder og skinn fra drøvtyggere,
+4. smeltet fett fra drøvtyggere med høyeste tillatte nivå for uløselige urenheter på 0,15 vektprosent og avledede produkter fra slikt fett.
 
 ###### Avsnitt E
 
 Eksport av bearbeidet animalsk protein og produkter som inneholder slikt protein
 
-1\. Eksport av bearbeidet animalsk protein fra drøvtyggere, eller av bearbeidet animalsk protein fra både drøvtyggere og andre dyr enn drøvtyggere, er tillatt forutsatt at følgende vilkår er oppfylt:Det bearbeidede animalske proteinet skal transporteres i forseglede containere, direkte fra bearbeidingsanlegget der det er framstilt, til utførselsstedet fra Unionens territorium, som skal være en grensekontrollstasjon oppført i vedlegg I til kommisjonsvedtak [2009/821/EF](eu/32009d0821).\* Før utførsel fra Unionens territorium skal den driftsansvarlige som har ansvaret for å ordne transporten av det bearbeidede animalske proteinet, underrette vedkommende myndighet på grensekontrollstasjonen om forsendelsens ankomst på utførselsstedet.Forsendelsen skal følges av et behørig utfylt handelsdokument som er utarbeidet i samsvar med modellen fastsatt i nr. 6 i kapittel III i vedlegg VIII til forordning [(EU) nr. 142/2011](eu/32011r0142) og utstedt av det integrerte edb-systemet for veterinærmyndighetene (TRACES), som ble innført ved kommisjonsvedtak [2004/292/EF](eu/32004d0292).\*\* På dette handelsdokumentet skal utførselsgrensekontrollstasjonen være angitt som utførselssted i felt I.28.Når forsendelsen kommer til utførselsstedet, skal vedkommende myndighet på grensekontrollstasjonen kontrollere forseglingen på hver container som framlegges ved grensekontrollstasjonen.Som unntak, basert på en risikoanalyse, kan vedkommende myndighet på grensekontrollstasjonen beslutte å kontrollere containerens forsegling på stikkprøvebasis.Dersom kontrollen av forseglingen ikke er tilfredsstillende, skal forsendelsen enten destrueres eller sendes tilbake til opprinnelsesvirksomheten.Vedkommende myndighet på grensekontrollstasjonen skal via TRACES underrette vedkommende myndighet med ansvar for opprinnelsesvirksomheten, om forsendelsens ankomst på utførselsstedet og eventuelt om resultatet av kontrollen av forseglingen og av eventuelle korrigerende tiltak som er truffet.Vedkommende myndighet med ansvar for opprinnelsesvirksomheten skal regelmessig foreta offentlig kontroll for å kontrollere korrekt gjennomføring av bokstav a) og b), og for å kontrollere at det for hver enkelt forsendelse av bearbeidet animalsk protein fra drøvtyggere beregnet på eksport, er mottatt bekreftelse via TRACES på kontrollen som er utført på utførselsstedet, fra vedkommende myndighet på grensekontrollstasjonen.
+1\. Eksport av bearbeidet animalsk protein fra drøvtyggere, eller av bearbeidet animalsk protein fra både drøvtyggere og andre dyr enn drøvtyggere, er tillatt forutsatt at følgende vilkår er oppfylt:
+
+1. Det bearbeidede animalske proteinet skal transporteres i forseglede containere, direkte fra bearbeidingsanlegget der det er framstilt, til utførselsstedet fra Unionens territorium, som skal være en grensekontrollstasjon oppført i vedlegg I til kommisjonsvedtak [2009/821/EF](eu/32009d0821).\* Før utførsel fra Unionens territorium skal den driftsansvarlige som har ansvaret for å ordne transporten av det bearbeidede animalske proteinet, underrette vedkommende myndighet på grensekontrollstasjonen om forsendelsens ankomst på utførselsstedet.
+2. Forsendelsen skal følges av et behørig utfylt handelsdokument som er utarbeidet i samsvar med modellen fastsatt i nr. 6 i kapittel III i vedlegg VIII til forordning [(EU) nr. 142/2011](eu/32011r0142) og utstedt av det integrerte edb-systemet for veterinærmyndighetene (TRACES), som ble innført ved kommisjonsvedtak [2004/292/EF](eu/32004d0292).\*\* På dette handelsdokumentet skal utførselsgrensekontrollstasjonen være angitt som utførselssted i felt I.28.
+3. Når forsendelsen kommer til utførselsstedet, skal vedkommende myndighet på grensekontrollstasjonen kontrollere forseglingen på hver container som framlegges ved grensekontrollstasjonen.
+
+Som unntak, basert på en risikoanalyse, kan vedkommende myndighet på grensekontrollstasjonen beslutte å kontrollere containerens forsegling på stikkprøvebasis.
+
+Dersom kontrollen av forseglingen ikke er tilfredsstillende, skal forsendelsen enten destrueres eller sendes tilbake til opprinnelsesvirksomheten.
+
+Vedkommende myndighet på grensekontrollstasjonen skal via TRACES underrette vedkommende myndighet med ansvar for opprinnelsesvirksomheten, om forsendelsens ankomst på utførselsstedet og eventuelt om resultatet av kontrollen av forseglingen og av eventuelle korrigerende tiltak som er truffet.
+
+1. Vedkommende myndighet med ansvar for opprinnelsesvirksomheten skal regelmessig foreta offentlig kontroll for å kontrollere korrekt gjennomføring av bokstav a) og b), og for å kontrollere at det for hver enkelt forsendelse av bearbeidet animalsk protein fra drøvtyggere beregnet på eksport, er mottatt bekreftelse via TRACES på kontrollen som er utført på utførselsstedet, fra vedkommende myndighet på grensekontrollstasjonen.
 
 ►**M65**
 
-2\. Uten at det berører nr. 1, er eksport av produkter som inneholder bearbeidet animalsk protein fra drøvtyggere, forbudt.Som unntak får dette forbudet ikke anvendelse påbearbeidet fôr til kjæledyr som inneholder bearbeidet animalsk protein fra drøvtyggere somer bearbeidet i virksomheter eller anlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), oger emballert og merket i samsvar med Unionens regelverk,►**M74**organisk gjødsel eller jordforbedringsmidler, som definert i artikkel 3 nr. 22 i forordning [(EF) nr. 1069/2009](eu/32009r1069), hvis sammensetning inneholder bearbeidede animalske proteiner fra drøvtyggere eller en blanding av bearbeidede animalske proteiner fra drøvtyggere og andre dyr enn drøvtyggere, forutsatt at de enten har nådd sluttpunktet som definert i artikkel 4 nr. 1 bokstav c) eller i artikkel 4 nr. 2 i delegert kommisjonsforordning [(EU) 2023/1605](eu/32023r1605)\*, eller◄**M74**De inneholder ikke kategori 1-materiale og avledede produkter eller kategori 2-materiale og avledede produkter, unntatt naturgjødsel som definert i artikkel 3 nr. 20 i forordning [(EF) nr. 1069/2009](eu/32009r1069) som er bearbeidet i samsvar med reglene for omsetning av bearbeidet husdyrgjødsel fastsatt i avsnitt 2 bokstav a), b), d) og e) i kapittel I i vedlegg XI til kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142).De bearbeidede animalske proteinene i organisk gjødsel eller jordforbedringsmidler er i samsvar med de særlige kravene beskrevet i avsnitt 1 i kapittel II i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).Den organiske gjødselen eller jordforbedringsmidlene kan inneholde andre kategori 3-materialer som er bearbeidet i samsvar meden av bearbeidingsmetodene 1-7 fastsatt i kapittel III i vedlegg IV til forordning [(EU) nr. 142/2011](eu/32011r0142), ellerkravene fastsatt i avsnitt 1 kapittel III i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142) når det gjelder kompost eller råtnerester fra omdanning av animalske biprodukter til biogass, ellerde særlige kravene fastsatt i vedlegg XIII til forordning [(EU) nr. 142/2011](eu/32011r0142), dersom slikt materiale kan brukes til organisk gjødsel og jordforbedringsmidler i samsvar med nevnte forordning.De er produsert i virksomheter eller anlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069).De er blandet med en tilstrekkelig andel av en komponent som er godkjent av vedkommende myndighet i medlemsstaten der det produseres organisk gjødsel eller jordforbedringsmidler, og som gjør produktet uspiselig for dyr, eller som på annen måte er effektivt for å hindre misbruk av blandingen til fôrformål. Denne komponenten skal blandes med organisk gjødsel eller jordforbedringsmidler i anlegget som framstiller dem, eller i et anlegg som er registrert for dette formål i samsvar med nr. 2 avsnitt 1 i kapittel II i vedlegg XI til forordning [(EU) nr. 142/2011](eu/32011r0142).Dersom vedkommende myndighet i bestemmelsestredjestaten krever det, kan vedkommende myndighet i medlemsstaten der den organiske gjødselen eller jordforbedringsmidlene er produsert, godta bruk av andre komponenter eller andre metoder for å hindre bruk av organisk gjødsel eller jordforbedringsmidler som fôr enn dem som er godkjent i denne medlemsstaten, forutsatt at disse ikke er i strid med reglene fastsatt i artikkel 22 nr. 3 og kapittel II avsnitt 1 nr. 3 i vedlegg XI til forordning [(EU) nr. 142/2011](eu/32011r0142).De er blitt bearbeidet for å sikre dekontaminering av sykdomsframkallende stoffer i samsvar med kapittel II avsnitt 1 nr. 5 i vedlegg XI til forordning [(EU) nr. 142/2011](eu/32011r0142).De har en etikett på emballasjen eller beholderen med påskriften «organisk gjødsel eller jordforbedringsmidler / produksjonsdyr skal ikke beite og ikke fôres med fôrvekster i minst 21 dager etter spredning».De eksporteres i samsvar med følgende vilkår:De skal transporteres i forseglede beholdere direkte fra anlegget som framstiller organisk gjødsel eller jordforbedringsmidler, eller det registrerte anlegget der komponenten som gjør produktet uegnet for dyr, tilsettes, til stedet for utførsel fra Unionens territorium, som skal være en grensekontrollstasjon oppført i vedlegg I til kommisjonsvedtak [2009/821/EF](eu/32009d0821). Før utførsel fra Unionens territorium skal operatøren som har ansvaret for å organisere transporten av den organiske gjødselen eller jordforbedringsmidlene, underrette vedkommende myndighet på grensekontrollstasjonen om forsendelsens ankomst til utførselsstedet.Forsendelsen skal følges av et behørig utfylt handelsdokument som er utarbeidet i samsvar med modellen fastsatt i nr. 6 i kapittel III i vedlegg VIII til forordning [(EU) nr. 142/2011](eu/32011r0142) og utstedt via det integrerte edb-systemet for veterinærmyndighetene (TRACES) innført ved kommisjonsvedtak [2004/292/EF](eu/32004d0292). I handelsdokumentet skal grensekontrollstasjonen der utførselen skjer, være angitt i felt I.28.Når forsendelsen ankommer utførselsstedet, skal vedkommende myndighet på grensekontrollstasjonen på risikobasis kontrollere forseglingen på beholderne som framvises på grensekontrollstasjonen. Dersom forseglingen kontrolleres og kontrollen ikke er tilfredsstillende, skal forsendelsen enten destrueres eller sendes tilbake til opprinnelsesvirksomheten, angitt i felt I.12 i handelsdokumentet.Vedkommende myndighet på grensekontrollstasjonen skal via TRACES underrette vedkommende myndighet angitt i felt I.4 i handelsdokumentet om forsendelsens ankomst til utførselsstedet, og eventuelt om resultatet av kontrollen av forseglingen og av eventuelle korrigerende tiltak som er truffet.Vedkommende myndighet som er ansvarlig for opprinnelsesproduksjonsanlegget eller det registrerte anlegget der komponenten som gjør produktet uspiselig for dyr, er tilsatt, skal foreta risikobaserte offentlige kontroller for å kontrollere at første og annet strekpunkt er oppfylt, og for å kontrollere at det for hver eksportert forsendelse av organisk gjødsel og jordforbedringsmidler hvis sammensetning inneholder bearbeidede animalske proteiner fra drøvtyggere eller en blanding av bearbeidede animalske proteiner fra drøvtyggere og andre dyr enn drøvtyggere, er mottatt bekreftelse av kontrollen som ble foretatt ved utførselsstedet, fra vedkommende myndighet på grensekontrollstasjonen via TRACES.
+2\. Uten at det berører nr. 1, er eksport av produkter som inneholder bearbeidet animalsk protein fra drøvtyggere, forbudt.
+
+Som unntak får dette forbudet ikke anvendelse på
+
+1. bearbeidet fôr til kjæledyr som inneholder bearbeidet animalsk protein fra drøvtyggere som
+
+   1. er bearbeidet i virksomheter eller anlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), og
+   2. er emballert og merket i samsvar med Unionens regelverk,
+
+   ►**M74**
+2. organisk gjødsel eller jordforbedringsmidler, som definert i artikkel 3 nr. 22 i forordning [(EF) nr. 1069/2009](eu/32009r1069), hvis sammensetning inneholder bearbeidede animalske proteiner fra drøvtyggere eller en blanding av bearbeidede animalske proteiner fra drøvtyggere og andre dyr enn drøvtyggere, forutsatt at de enten har nådd sluttpunktet som definert i artikkel 4 nr. 1 bokstav c) eller i artikkel 4 nr. 2 i delegert kommisjonsforordning [(EU) 2023/1605](eu/32023r1605)\*, eller
+
+   ◄**M74**
+
+   1. De inneholder ikke kategori 1-materiale og avledede produkter eller kategori 2-materiale og avledede produkter, unntatt naturgjødsel som definert i artikkel 3 nr. 20 i forordning [(EF) nr. 1069/2009](eu/32009r1069) som er bearbeidet i samsvar med reglene for omsetning av bearbeidet husdyrgjødsel fastsatt i avsnitt 2 bokstav a), b), d) og e) i kapittel I i vedlegg XI til kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142).
+   2. De bearbeidede animalske proteinene i organisk gjødsel eller jordforbedringsmidler er i samsvar med de særlige kravene beskrevet i avsnitt 1 i kapittel II i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).
+   3. Den organiske gjødselen eller jordforbedringsmidlene kan inneholde andre kategori 3-materialer som er bearbeidet i samsvar med
+
+      - en av bearbeidingsmetodene 1-7 fastsatt i kapittel III i vedlegg IV til forordning [(EU) nr. 142/2011](eu/32011r0142), eller
+      - kravene fastsatt i avsnitt 1 kapittel III i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142) når det gjelder kompost eller råtnerester fra omdanning av animalske biprodukter til biogass, eller
+      - de særlige kravene fastsatt i vedlegg XIII til forordning [(EU) nr. 142/2011](eu/32011r0142), dersom slikt materiale kan brukes til organisk gjødsel og jordforbedringsmidler i samsvar med nevnte forordning.
+   4. De er produsert i virksomheter eller anlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+   5. De er blandet med en tilstrekkelig andel av en komponent som er godkjent av vedkommende myndighet i medlemsstaten der det produseres organisk gjødsel eller jordforbedringsmidler, og som gjør produktet uspiselig for dyr, eller som på annen måte er effektivt for å hindre misbruk av blandingen til fôrformål. Denne komponenten skal blandes med organisk gjødsel eller jordforbedringsmidler i anlegget som framstiller dem, eller i et anlegg som er registrert for dette formål i samsvar med nr. 2 avsnitt 1 i kapittel II i vedlegg XI til forordning [(EU) nr. 142/2011](eu/32011r0142).
+
+      Dersom vedkommende myndighet i bestemmelsestredjestaten krever det, kan vedkommende myndighet i medlemsstaten der den organiske gjødselen eller jordforbedringsmidlene er produsert, godta bruk av andre komponenter eller andre metoder for å hindre bruk av organisk gjødsel eller jordforbedringsmidler som fôr enn dem som er godkjent i denne medlemsstaten, forutsatt at disse ikke er i strid med reglene fastsatt i artikkel 22 nr. 3 og kapittel II avsnitt 1 nr. 3 i vedlegg XI til forordning [(EU) nr. 142/2011](eu/32011r0142).
+   6. De er blitt bearbeidet for å sikre dekontaminering av sykdomsframkallende stoffer i samsvar med kapittel II avsnitt 1 nr. 5 i vedlegg XI til forordning [(EU) nr. 142/2011](eu/32011r0142).
+   7. De har en etikett på emballasjen eller beholderen med påskriften «organisk gjødsel eller jordforbedringsmidler / produksjonsdyr skal ikke beite og ikke fôres med fôrvekster i minst 21 dager etter spredning».
+   8. De eksporteres i samsvar med følgende vilkår:
+
+      - De skal transporteres i forseglede beholdere direkte fra anlegget som framstiller organisk gjødsel eller jordforbedringsmidler, eller det registrerte anlegget der komponenten som gjør produktet uegnet for dyr, tilsettes, til stedet for utførsel fra Unionens territorium, som skal være en grensekontrollstasjon oppført i vedlegg I til kommisjonsvedtak [2009/821/EF](eu/32009d0821). Før utførsel fra Unionens territorium skal operatøren som har ansvaret for å organisere transporten av den organiske gjødselen eller jordforbedringsmidlene, underrette vedkommende myndighet på grensekontrollstasjonen om forsendelsens ankomst til utførselsstedet.
+      - Forsendelsen skal følges av et behørig utfylt handelsdokument som er utarbeidet i samsvar med modellen fastsatt i nr. 6 i kapittel III i vedlegg VIII til forordning [(EU) nr. 142/2011](eu/32011r0142) og utstedt via det integrerte edb-systemet for veterinærmyndighetene (TRACES) innført ved kommisjonsvedtak [2004/292/EF](eu/32004d0292). I handelsdokumentet skal grensekontrollstasjonen der utførselen skjer, være angitt i felt I.28.
+      - Når forsendelsen ankommer utførselsstedet, skal vedkommende myndighet på grensekontrollstasjonen på risikobasis kontrollere forseglingen på beholderne som framvises på grensekontrollstasjonen. Dersom forseglingen kontrolleres og kontrollen ikke er tilfredsstillende, skal forsendelsen enten destrueres eller sendes tilbake til opprinnelsesvirksomheten, angitt i felt I.12 i handelsdokumentet.
+      - Vedkommende myndighet på grensekontrollstasjonen skal via TRACES underrette vedkommende myndighet angitt i felt I.4 i handelsdokumentet om forsendelsens ankomst til utførselsstedet, og eventuelt om resultatet av kontrollen av forseglingen og av eventuelle korrigerende tiltak som er truffet.
+      - Vedkommende myndighet som er ansvarlig for opprinnelsesproduksjonsanlegget eller det registrerte anlegget der komponenten som gjør produktet uspiselig for dyr, er tilsatt, skal foreta risikobaserte offentlige kontroller for å kontrollere at første og annet strekpunkt er oppfylt, og for å kontrollere at det for hver eksportert forsendelse av organisk gjødsel og jordforbedringsmidler hvis sammensetning inneholder bearbeidede animalske proteiner fra drøvtyggere eller en blanding av bearbeidede animalske proteiner fra drøvtyggere og andre dyr enn drøvtyggere, er mottatt bekreftelse av kontrollen som ble foretatt ved utførselsstedet, fra vedkommende myndighet på grensekontrollstasjonen via TRACES.
 
 \* ►**M74** Delegert kommisjonsforordning [(EU) 2023/1605](eu/32023r1605) av 22. mai 2023 om utfylling av europaparlaments- og rådsforordning [(EU) 1069/2009](eu/32009r1069) med hensyn til fastsettelse av sluttpunkter i produksjonskjeden for visse typer organisk gjødsel og visse jordforbedringsmidler (EUT L 198 av 8.8.2023, s. 1). ◄**M74**
 
@@ -1596,11 +2468,32 @@ Vilkårene fastsatt i nr. 2 bokstav b) punkt v), vii) og viii) får ikke anvende
 
 ►**M69**
 
-3\. Eksport av bearbeidet animalsk protein fra ikke-drøvtyggere, eller av fôrblandinger som inneholder slikt protein, er tillatt forutsatt at følgende vilkår er oppfylt:Bearbeidet animalsk protein fra ikke-drøvtyggere skal framstilles i bearbeidingsanlegg som oppfyller kravene i kapittel IV avsnitt D bokstav c), kravene i kapittel IV avsnitt F bokstav a) i), kravene i kapittel IV avsnitt G bokstav c) eller kravene i kapittel IV avsnitt H bokstav c).Fôrblandinger som inneholder bearbeidet animalsk protein fra ikke-drøvtyggere, skal produseres i fôrblandingsvirksomheter somoppfyller kravene i kapittel IV avsnitt D bokstav d), kravene i kapittel IV avsnitt F bokstav b), kravene i kapittel IV avsnitt G bokstav d) eller kravene i kapittel IV avsnitt H bokstav d), ellerhenter det bearbeidede animalske proteinet som brukes i fôrblandinger beregnet på eksport, i bearbeidingsanlegg som oppfyller kravene i bokstav a), og som entenutelukkende brukes til produksjon av fôrblandinger for eksport fra Unionen og er godkjent for dette formålet av vedkommende myndighet, ellerutelukkende brukes til produksjon av fôrblandinger for eksport fra Unionen og til produksjon av fôrblandinger til akvakulturdyr, fjørfe eller svin som skal bringes i omsetning i Unionen, og er godkjent for dette formålet av vedkommende myndighet.Fôrblandinger som inneholder bearbeidet animalsk protein fra ikke-drøvtyggere, skal være pakket og merket i samsvar med Unionens regelverk, eller i samsvar med lovfestede krav i importlandet. Dersom fôrblandinger som inneholder bearbeidet animalsk protein fra ikke-drøvtyggere, ikke er merket i samsvar med Unionens regelverk, skal følgende angis på etiketten: «Inneholder bearbeidet animalsk protein fra ikke-drøvtyggere».Bearbeidet animalsk protein i bulk fra ikke-drøvtyggere og fôrblandinger i bulk som inneholder slikt protein, og som er beregnet på eksport fra Unionen, skal transporteres i kjøretøyer og containere og lagres i lagringsfasiliteter som ikke brukes til henholdsvis transport eller lagring av fôr som skal bringes i omsetning og er beregnet på fôring av drøvtyggere eller ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr. Registre over hvilke typer produkter som er blitt transportert eller lagret, skal være tilgjengelige for vedkommende myndighet i minst to år.Som unntak fra første ledd kan kjøretøyer, containere og lagringsfasiliteter som tidligere er blitt brukt til transport eller lagring av bearbeidet animalsk protein fra ikke-drøvtyggere og fôrblandinger i bulk som inneholder slikt protein, og er beregnet på eksport fra Unionen, senere brukes til transport eller lagring av fôr som skal bringes i omsetning og er beregnet på fôring av drøvtyggere eller ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet. Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.Lagringsanlegg der det lagres bearbeidet animalsk protein fra ikke-drøvtyggere og fôrblandinger i bulk som inneholder slikt protein på de vilkårene som er fastsatt i bokstav d) andre ledd, skal godkjennes av vedkommende myndighet på grunnlag av kontroll av at de oppfyller kravene angitt i nevnte ledd.
+3\. Eksport av bearbeidet animalsk protein fra ikke-drøvtyggere, eller av fôrblandinger som inneholder slikt protein, er tillatt forutsatt at følgende vilkår er oppfylt:
+
+1. Bearbeidet animalsk protein fra ikke-drøvtyggere skal framstilles i bearbeidingsanlegg som oppfyller kravene i kapittel IV avsnitt D bokstav c), kravene i kapittel IV avsnitt F bokstav a) i), kravene i kapittel IV avsnitt G bokstav c) eller kravene i kapittel IV avsnitt H bokstav c).
+2. Fôrblandinger som inneholder bearbeidet animalsk protein fra ikke-drøvtyggere, skal produseres i fôrblandingsvirksomheter som
+
+   1. oppfyller kravene i kapittel IV avsnitt D bokstav d), kravene i kapittel IV avsnitt F bokstav b), kravene i kapittel IV avsnitt G bokstav d) eller kravene i kapittel IV avsnitt H bokstav d), eller
+   2. henter det bearbeidede animalske proteinet som brukes i fôrblandinger beregnet på eksport, i bearbeidingsanlegg som oppfyller kravene i bokstav a), og som enten
+
+      - utelukkende brukes til produksjon av fôrblandinger for eksport fra Unionen og er godkjent for dette formålet av vedkommende myndighet, eller
+      - utelukkende brukes til produksjon av fôrblandinger for eksport fra Unionen og til produksjon av fôrblandinger til akvakulturdyr, fjørfe eller svin som skal bringes i omsetning i Unionen, og er godkjent for dette formålet av vedkommende myndighet.
+3. Fôrblandinger som inneholder bearbeidet animalsk protein fra ikke-drøvtyggere, skal være pakket og merket i samsvar med Unionens regelverk, eller i samsvar med lovfestede krav i importlandet. Dersom fôrblandinger som inneholder bearbeidet animalsk protein fra ikke-drøvtyggere, ikke er merket i samsvar med Unionens regelverk, skal følgende angis på etiketten: «Inneholder bearbeidet animalsk protein fra ikke-drøvtyggere».
+4. Bearbeidet animalsk protein i bulk fra ikke-drøvtyggere og fôrblandinger i bulk som inneholder slikt protein, og som er beregnet på eksport fra Unionen, skal transporteres i kjøretøyer og containere og lagres i lagringsfasiliteter som ikke brukes til henholdsvis transport eller lagring av fôr som skal bringes i omsetning og er beregnet på fôring av drøvtyggere eller ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr. Registre over hvilke typer produkter som er blitt transportert eller lagret, skal være tilgjengelige for vedkommende myndighet i minst to år.
+
+Som unntak fra første ledd kan kjøretøyer, containere og lagringsfasiliteter som tidligere er blitt brukt til transport eller lagring av bearbeidet animalsk protein fra ikke-drøvtyggere og fôrblandinger i bulk som inneholder slikt protein, og er beregnet på eksport fra Unionen, senere brukes til transport eller lagring av fôr som skal bringes i omsetning og er beregnet på fôring av drøvtyggere eller ikke-drøvtyggende produksjonsdyr, bortsett fra akvakulturdyr, forutsatt at de for å unngå krysskontaminering først rengjøres i samsvar med en dokumentert framgangsmåte som er forhåndsgodkjent av vedkommende myndighet. Når en slik framgangsmåte er benyttet, skal dokumentasjonen på dette være tilgjengelig for vedkommende myndighet i minst to år.
+
+Lagringsanlegg der det lagres bearbeidet animalsk protein fra ikke-drøvtyggere og fôrblandinger i bulk som inneholder slikt protein på de vilkårene som er fastsatt i bokstav d) andre ledd, skal godkjennes av vedkommende myndighet på grunnlag av kontroll av at de oppfyller kravene angitt i nevnte ledd.
 
 ◄**M69**
 
-4\. Som unntak fra nr. 3 får vilkårene fastsatt i nevnte nummer, ikke anvendelse på:fôr til kjæledyr som inneholder bearbeidet animalsk protein fra andre dyr enn drøvtyggere, og som er behandlet i godkjente produksjonsanlegg for fôr til kjæledyr i samsvar med artikkel 24 i forordning [(EF) nr. 1069/2009](eu/32009r1069), og som er emballert og merket i samsvar med Unionens regelverk,fiskemel, forutsatt at det er framstilt i samsvar med dette vedlegg,bearbeidet animalsk protein fra oppdrettsinsekter, forutsatt at det er framstilt i samsvar med dette vedlegg,fôrblandinger som ikke inneholder annet bearbeidet animalsk protein enn fiskemel og bearbeidet animalsk protein fra oppdrettsinsekter, forutsatt at de er produsert i samsvar med dette vedlegg,bearbeidet animalsk protein fra andre dyr enn drøvtyggere beregnet på produksjon av fôr til kjæledyr eller organisk gjødsel og jordforbedringsmidler i bestemmelsestredjestaten, forutsatt at eksportøren før eksport sikrer at hver enkelt forsendelse med bearbeidet animalsk protein analyseres i samsvar med analysemetodene angitt nr. 2.2 i vedlegg VI til forordning [(EF) nr. 152/2009](eu/32009r0152), for å kontrollere at det ikke finnes bestanddeler fra drøvtyggere.
+4\. Som unntak fra nr. 3 får vilkårene fastsatt i nevnte nummer, ikke anvendelse på:
+
+1. fôr til kjæledyr som inneholder bearbeidet animalsk protein fra andre dyr enn drøvtyggere, og som er behandlet i godkjente produksjonsanlegg for fôr til kjæledyr i samsvar med artikkel 24 i forordning [(EF) nr. 1069/2009](eu/32009r1069), og som er emballert og merket i samsvar med Unionens regelverk,
+2. fiskemel, forutsatt at det er framstilt i samsvar med dette vedlegg,
+3. bearbeidet animalsk protein fra oppdrettsinsekter, forutsatt at det er framstilt i samsvar med dette vedlegg,
+4. fôrblandinger som ikke inneholder annet bearbeidet animalsk protein enn fiskemel og bearbeidet animalsk protein fra oppdrettsinsekter, forutsatt at de er produsert i samsvar med dette vedlegg,
+5. bearbeidet animalsk protein fra andre dyr enn drøvtyggere beregnet på produksjon av fôr til kjæledyr eller organisk gjødsel og jordforbedringsmidler i bestemmelsestredjestaten, forutsatt at eksportøren før eksport sikrer at hver enkelt forsendelse med bearbeidet animalsk protein analyseres i samsvar med analysemetodene angitt nr. 2.2 i vedlegg VI til forordning [(EF) nr. 152/2009](eu/32009r0152), for å kontrollere at det ikke finnes bestanddeler fra drøvtyggere.
 
 \* Kommisjonsvedtak av 28. september 2009 om utarbeiding av ei liste over godkjende grensekontrollstasjonar, om fastsetjing av visse reglar for dei inspeksjonane som veterinærsakkunnige frå Kommisjonen skal utføre, og om fastsetjing av veterinæreiningar i TRACES (EUT L 296 av 12.11.2009, s. 1).
 
@@ -1610,7 +2503,16 @@ Vilkårene fastsatt i nr. 2 bokstav b) punkt v), vii) og viii) får ikke anvende
 
 ►**M65**
 
-5\. Eksport av organisk gjødsel eller jordforbedringsmidler hvis sammensetning inneholder bearbeidede animalske proteiner fra andre dyr enn drøvtyggere, og som ikke inneholder noe materiale fra drøvtyggere, skal være underlagt følgende vilkår:Kravene fastsatt i nr. 2 bokstav b) punkt i), ii), iii), iv), v), vi) og vii) i dette avsnitt får anvendelse. Vilkårene angitt i nr. 2 bokstav b) punkt v) og vii) får ikke anvendelse på organisk gjødsel og jordforbedringsmidler i salgsklar emballasje på høyst 50 kg til bruk for sluttforbrukeren.Bearbeidet animalsk protein fra andre dyr enn drøvtyggere som den organiske gjødselen og jordforbedringsmidlene inneholder, skal framstilles i bearbeidingsanlegg som oppfyller kravene i bokstav c) i avsnitt D i kapittel IV, og som er oppført i samsvar med nr. 1 bokstav d) i avsnitt A i kapittel V.De er produsert i virksomheter eller anlegg som utelukkende er beregnet på bearbeiding av organisk gjødsel eller jordforbedringsmidler fra andre dyr enn drøvtyggere.Som unntak fra dette særlige vilkåret kan vedkommende myndighet tillate eksport av organisk gjødsel eller jordforbedringsmidler nevnt i dette punktet som er framstilt i virksomheter eller anlegg som bearbeider organisk gjødsel eller jordforbedringsmidler som inneholder materiale fra drøvtyggere, dersom det iverksettes effektive tiltak for å hindre krysskontaminering mellom organisk gjødsel eller jordforbedringsmidler som bare inneholder materiale fra dyr som ikke er drøvtyggere, og organisk gjødsel eller jordforbedringsmidler som inneholder materiale fra drøvtyggere.De transporteres til stedet for utførsel fra Unionens territorium i nytt emballasjemateriale eller i bulkcontainere som ikke brukes til transport av materiale fra drøvtyggere, eller som på forhånd er rengjort for å unngå krysskontaminering i samsvar med en dokumentert framgangsmåte som på forhånd er godkjent av vedkommende myndighet.Vilkårene fastsatt i nr. 5 bokstav c) og d) får ikke anvendelse på organisk gjødsel eller jordforbedringsmidler som er i salgsklar emballasje på høyst 50 kg til bruk for sluttforbrukeren.
+5\. Eksport av organisk gjødsel eller jordforbedringsmidler hvis sammensetning inneholder bearbeidede animalske proteiner fra andre dyr enn drøvtyggere, og som ikke inneholder noe materiale fra drøvtyggere, skal være underlagt følgende vilkår:
+
+1. Kravene fastsatt i nr. 2 bokstav b) punkt i), ii), iii), iv), v), vi) og vii) i dette avsnitt får anvendelse. Vilkårene angitt i nr. 2 bokstav b) punkt v) og vii) får ikke anvendelse på organisk gjødsel og jordforbedringsmidler i salgsklar emballasje på høyst 50 kg til bruk for sluttforbrukeren.
+2. Bearbeidet animalsk protein fra andre dyr enn drøvtyggere som den organiske gjødselen og jordforbedringsmidlene inneholder, skal framstilles i bearbeidingsanlegg som oppfyller kravene i bokstav c) i avsnitt D i kapittel IV, og som er oppført i samsvar med nr. 1 bokstav d) i avsnitt A i kapittel V.
+3. De er produsert i virksomheter eller anlegg som utelukkende er beregnet på bearbeiding av organisk gjødsel eller jordforbedringsmidler fra andre dyr enn drøvtyggere.
+
+   Som unntak fra dette særlige vilkåret kan vedkommende myndighet tillate eksport av organisk gjødsel eller jordforbedringsmidler nevnt i dette punktet som er framstilt i virksomheter eller anlegg som bearbeider organisk gjødsel eller jordforbedringsmidler som inneholder materiale fra drøvtyggere, dersom det iverksettes effektive tiltak for å hindre krysskontaminering mellom organisk gjødsel eller jordforbedringsmidler som bare inneholder materiale fra dyr som ikke er drøvtyggere, og organisk gjødsel eller jordforbedringsmidler som inneholder materiale fra drøvtyggere.
+4. De transporteres til stedet for utførsel fra Unionens territorium i nytt emballasjemateriale eller i bulkcontainere som ikke brukes til transport av materiale fra drøvtyggere, eller som på forhånd er rengjort for å unngå krysskontaminering i samsvar med en dokumentert framgangsmåte som på forhånd er godkjent av vedkommende myndighet.
+
+   Vilkårene fastsatt i nr. 5 bokstav c) og d) får ikke anvendelse på organisk gjødsel eller jordforbedringsmidler som er i salgsklar emballasje på høyst 50 kg til bruk for sluttforbrukeren.
 
 ◄**M65**
 
@@ -1627,7 +2529,9 @@ Offentlig kontroll
 
 1\. Offentlige kontroller som foretas av vedkommende myndighet for å kontrollere at reglene fastsatt i dette vedlegg overholdes, skal omfatte inspeksjoner og prøvetaking for analyse av bearbeidet animalsk protein og fôr i samsvar med analysemetodene for bestemmelse av bestanddeler av animalsk opprinnelse for kontroll av fôr fastsatt i vedlegg VI til forordning [(EF) nr. 152/2009](eu/32009r0152).
 
-2\. Vedkommende myndighet skal regelmessig kontrollere kompetansen ved laboratoriene som foretar analyser i forbindelse med slike offentlige kontroller, særlig ved å vurdere resultatene av ringprøving.Dersom kompetansen ikke anses å være tilfredsstillende, skal laboratoriet som korrigerende tiltak som et minimum gi laboratoriepersonalet ny opplæring før ytterligere analyser kan utføres.
+2\. Vedkommende myndighet skal regelmessig kontrollere kompetansen ved laboratoriene som foretar analyser i forbindelse med slike offentlige kontroller, særlig ved å vurdere resultatene av ringprøving.
+
+Dersom kompetansen ikke anses å være tilfredsstillende, skal laboratoriet som korrigerende tiltak som et minimum gi laboratoriepersonalet ny opplæring før ytterligere analyser kan utføres.
 
 ◄**M48**
 
@@ -1660,11 +2564,23 @@ Spesifisert risikomateriale
 
 1.*Definisjon på spesifisert risikomateriale*
 
-Følgende vev skal bestemmes som spesifisert risikomateriale dersom det kommer fra dyr med opprinnelse i en medlemsstat eller tredjestat eller en av deres regioner med kontrollert eller ikke-fastsatt BSE-risiko:Når det gjelder storfe:kraniet unntatt mandibelen, herunder hjernen og øynene, samt ryggmargen fra dyr over 12 måneder,
-►**M37**virvelsøylen utenom halevirvelen, halsvirvlenes, brystvirvlenes og lendevirvlenes tverr- og ryggtapper, den mediale korsbeinskammens og korsbeinets vinger, men inklusive nerveknutene i ryggmargen fra dyr som er eldre enn 30 måneder, og
-◄**M37**
-►**M52**mandlene, de siste fire meterne av tynntarmen, blindtarmen og mesenteriet fra dyr uansett alder◄**M52**
-►**M68**Når det gjelder sau og geit: Kraniet, herunder hjernen og øynene, samt ryggmargen fra dyr som er eldre enn 12 måneder eller som har en frambrutt blivende fortann.◄**M68**
+Følgende vev skal bestemmes som spesifisert risikomateriale dersom det kommer fra dyr med opprinnelse i en medlemsstat eller tredjestat eller en av deres regioner med kontrollert eller ikke-fastsatt BSE-risiko:
+
+1. Når det gjelder storfe:
+
+   1. kraniet unntatt mandibelen, herunder hjernen og øynene, samt ryggmargen fra dyr over 12 måneder,
+      ►**M37**
+   2. virvelsøylen utenom halevirvelen, halsvirvlenes, brystvirvlenes og lendevirvlenes tverr- og ryggtapper, den mediale korsbeinskammens og korsbeinets vinger, men inklusive nerveknutene i ryggmargen fra dyr som er eldre enn 30 måneder, og
+      ◄**M37**
+      ►**M52**
+   3. mandlene, de siste fire meterne av tynntarmen, blindtarmen og mesenteriet fra dyr uansett alder
+
+◄**M52**
+►**M68**
+
+1. Når det gjelder sau og geit: Kraniet, herunder hjernen og øynene, samt ryggmargen fra dyr som er eldre enn 12 måneder eller som har en frambrutt blivende fortann.
+
+◄**M68**
 ►**M53**
 
 2.*Særlige krav til medlemsstater med statusen ubetydelig BSE-risiko*
@@ -1681,19 +2597,33 @@ Spesifisert risikomateriale skal farges med et fargestoff eller eventuelt merkes
 
 4.1.
 
-Spesifisert risikomateriale skal fjernes:i slakterier eller eventuelt andre slaktesteder,i nedskjæringsanlegg når det er snakk om virvelsøylen hos storfe,der det er hensiktsmessig, i godkjente virksomheter eller anlegg nevnt i artikkel 24 nr. 1 bokstav h) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+Spesifisert risikomateriale skal fjernes:
+
+1. i slakterier eller eventuelt andre slaktesteder,
+2. i nedskjæringsanlegg når det er snakk om virvelsøylen hos storfe,
+3. der det er hensiktsmessig, i godkjente virksomheter eller anlegg nevnt i artikkel 24 nr. 1 bokstav h) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 4.2.
 
-Som unntak fra nr. 4.1 kan bruk av en alternativ test for fjerning av spesifisert risikomateriale nevnt i artikkel 8 nr. 2, tillates i samsvar med framgangsmåten nevnt i artikkel 24 nr. 3 i denne forordning, forutsatt at denne alternative testen er oppført på listen i vedlegg X, i samsvar med følgende vilkår:de alternative testene skal foretas i slakterier på alle dyr som det skal fjernes spesifisert risikomateriale fra,ingen produkter av storfe, sauer eller geiter som er beregnet på konsum eller fôrvarer, kan fjernes fra slakteriet før vedkommende myndighet har mottatt og godkjent resultatene av de alternative testene på alle slaktede dyr som kan være kontaminert, dersom BSE bekreftes hos ett av dem,når en alternativ test gir positivt resultat, skal alt materiale fra storfe, sauer og geiter som kan være kontaminert i slakteriet, destrueres i samsvar med nr. 3, med mindre alle deler av kroppen av det berørte dyret, herunder huden, kan identifiseres og holdes atskilt.
+Som unntak fra nr. 4.1 kan bruk av en alternativ test for fjerning av spesifisert risikomateriale nevnt i artikkel 8 nr. 2, tillates i samsvar med framgangsmåten nevnt i artikkel 24 nr. 3 i denne forordning, forutsatt at denne alternative testen er oppført på listen i vedlegg X, i samsvar med følgende vilkår:
+
+1. de alternative testene skal foretas i slakterier på alle dyr som det skal fjernes spesifisert risikomateriale fra,
+2. ingen produkter av storfe, sauer eller geiter som er beregnet på konsum eller fôrvarer, kan fjernes fra slakteriet før vedkommende myndighet har mottatt og godkjent resultatene av de alternative testene på alle slaktede dyr som kan være kontaminert, dersom BSE bekreftes hos ett av dem,
+3. når en alternativ test gir positivt resultat, skal alt materiale fra storfe, sauer og geiter som kan være kontaminert i slakteriet, destrueres i samsvar med nr. 3, med mindre alle deler av kroppen av det berørte dyret, herunder huden, kan identifiseres og holdes atskilt.
 
 4.3.
 
-Medlemsstatene kan som unntak fra nr. 4.1 beslutte å tillatefjerning av ryggmargen fra sauer og geiter i nedskjæringsanlegg som er særskilt godkjent for dette formål,fjerning av virvelsøylen fra skrotter eller deler av skrotter fra storfe hos slaktere som er særskilt godkjent, kontrollert og registrert for dette formål,uttak av hodekjøtt fra storfe i nedskjæringsanlegg som har særskilt godkjenning for dette i samsvar med nr. 9.
+Medlemsstatene kan som unntak fra nr. 4.1 beslutte å tillate
+
+1. fjerning av ryggmargen fra sauer og geiter i nedskjæringsanlegg som er særskilt godkjent for dette formål,
+2. fjerning av virvelsøylen fra skrotter eller deler av skrotter fra storfe hos slaktere som er særskilt godkjent, kontrollert og registrert for dette formål,
+3. uttak av hodekjøtt fra storfe i nedskjæringsanlegg som har særskilt godkjenning for dette i samsvar med nr. 9.
 
 4.4.
 
-Reglene for fjerning av spesifisert risikomateriale fastsatt i dette kapittel får ikke anvendelse på kategori 1-materiale i samsvar med artikkel 18 nr. 2 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069) til fôring av dyr i zoologiske hager, samt for kategori 1-materiale brukt i samsvar med artikkel 18 nr. 2 bokstav b) i nevnte forordning, til fôring av utryddelsestruede eller vernede arter av åtselfugler og andre arter som lever i sitt habitat, for å fremme biologisk mangfold.◄**M55**
+Reglene for fjerning av spesifisert risikomateriale fastsatt i dette kapittel får ikke anvendelse på kategori 1-materiale i samsvar med artikkel 18 nr. 2 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069) til fôring av dyr i zoologiske hager, samt for kategori 1-materiale brukt i samsvar med artikkel 18 nr. 2 bokstav b) i nevnte forordning, til fôring av utryddelsestruede eller vernede arter av åtselfugler og andre arter som lever i sitt habitat, for å fremme biologisk mangfold.
+
+◄**M55**
 
 5.*Tiltak med hensyn til mekanisk utbeinet kjøtt*
 
@@ -1713,7 +2643,14 @@ Tunger fra storfe uansett alder, beregnet på konsum eller fôr, skal tas ut i s
 
 8.1.
 
-Hodekjøtt fra storfe over 12 måneder skal tas ut i slakterier i henhold til et kontrollsystem som er godkjent av den vedkommende myndighet, for å sikre at eventuell kontaminering av hodekjøtt med sentralnervevev unngås. Systemet skal inneholde minst følgende bestemmelser:Uttaket skal foregå på et tiltenkt område, fysisk atskilt fra andre deler av slaktelinjen.Når hodene fjernes fra transportøren eller kroker før kjøttet er tatt ut, skal skuddhullet i pannen og hullet i bakhodet forsegles med en tett og holdbar kork. Når det tas prøver av hjernestammen for laboratorieundersøkelse for BSE, skal hullet i bakhodet forsegles umiddelbart etter prøvetakingen.Hodekjøtt skal ikke tas ut fra hoder der øynene er skadd eller mangler umiddelbart før eller etter slakting, eller som er skadd på en annen måte som kan føre til at hodet kontamineres med sentralnervevev.Hodekjøtt skal ikke tas ut fra hoder som ikke er skikkelig forseglet i samsvar med bokstav b).Med forbehold om hovedregler for hygiene skal det finnes særlige arbeidsinstrukser for å hindre at hodekjøtt kontamineres når det tas ut, særlig når forseglingen nevnt i bokstav b) mangler eller øynene ble skadd ved uttak.En prøvetakingsplan med en passende laboratorieundersøkelse for å påvise sentralnervevev skal gjennomføres for å kontrollere at tiltakene for å redusere kontaminering anvendes korrekt.
+Hodekjøtt fra storfe over 12 måneder skal tas ut i slakterier i henhold til et kontrollsystem som er godkjent av den vedkommende myndighet, for å sikre at eventuell kontaminering av hodekjøtt med sentralnervevev unngås. Systemet skal inneholde minst følgende bestemmelser:
+
+1. Uttaket skal foregå på et tiltenkt område, fysisk atskilt fra andre deler av slaktelinjen.
+2. Når hodene fjernes fra transportøren eller kroker før kjøttet er tatt ut, skal skuddhullet i pannen og hullet i bakhodet forsegles med en tett og holdbar kork. Når det tas prøver av hjernestammen for laboratorieundersøkelse for BSE, skal hullet i bakhodet forsegles umiddelbart etter prøvetakingen.
+3. Hodekjøtt skal ikke tas ut fra hoder der øynene er skadd eller mangler umiddelbart før eller etter slakting, eller som er skadd på en annen måte som kan føre til at hodet kontamineres med sentralnervevev.
+4. Hodekjøtt skal ikke tas ut fra hoder som ikke er skikkelig forseglet i samsvar med bokstav b).
+5. Med forbehold om hovedregler for hygiene skal det finnes særlige arbeidsinstrukser for å hindre at hodekjøtt kontamineres når det tas ut, særlig når forseglingen nevnt i bokstav b) mangler eller øynene ble skadd ved uttak.
+6. En prøvetakingsplan med en passende laboratorieundersøkelse for å påvise sentralnervevev skal gjennomføres for å kontrollere at tiltakene for å redusere kontaminering anvendes korrekt.
 
 8.2.
 
@@ -1725,7 +2662,18 @@ Dersom uttaket foretas uten å fjerne storfehodet fra transportøren eller kroke
 
 9.*Uttak av hodekjøtt fra storfe i godkjente nedskjæringsanlegg*
 
-Som unntak fra nr. 8 kan medlemsstater beslutte å tillate uttak av hodekjøtt, forutsatt at følgende vilkår oppfylles:Hodene beregnet på transport til nedskjæringsanlegget skal henges på et stativ ved lagring og ved transport fra slakteriet til nedskjæringsanlegget.Skuddhullet i pannen og hullet i bakhodet skal være skikkelig forseglet med en tett og holdbar kork før hodene flyttes fra transportøren eller krokene til stativene. Når det tas prøver av hjernestammen for laboratorieundersøkelse for BSE, skal hullet i bakhodet forsegles umiddelbart etter prøvetakingen.Hoder som ikke er skikkelig forseglet i samsvar med bokstav b), der øynene er skadd eller mangler umiddelbart før eller etter slakting, eller som er skadd på en annen måte som kan føre til at hodekjøtt kontamineres med sentralnervevev, skal utelukkes fra transport til de særskilt godkjente nedskjæringsanleggene.En prøvetakingsplan for slakteriet med en passende laboratorieundersøkelse for å påvise sentralnervevev skal gjennomføres for å kontrollere at tiltakene for å redusere kontaminering anvendes korrekt.Uttak av hodekjøtt skal foretas i samsvar med et kontrollsystem som er godkjent av den vedkommende myndighet, for å sikre at mulig kontaminering av hodekjøtt unngås. Systemet skal omfatte minst følgende:Alle hoder skal kontrolleres visuelt for tegn på kontaminering eller skade samt skikkelig forsegling før uttak av hodekjøtt påbegynnes.Hodekjøtt skal ikke tas ut fra hoder som ikke er skikkelig forseglet, når øynene er skadd eller på annen måte er skadd som kan føre til at hodekjøttet kontamineres med sentralnervevev. Hodekjøtt skal heller ikke tas ut fra hoder der det foreligger mistanke om slik kontaminering.Med forbehold om hovedregler for hygiene skal det finnes særlige arbeidsinstrukser for å hindre at hodekjøtt kontamineres under transport eller når det tas ut, særlig når forseglingen mangler eller øynene ble skadd under transport eller ved uttak.En prøvetakingsplan for nedskjæringsanlegget med en passende laboratorieundersøkelse for å påvise sentralnervevev skal gjennomføres for å kontrollere at tiltakene for å redusere kontaminering anvendes korrekt.
+Som unntak fra nr. 8 kan medlemsstater beslutte å tillate uttak av hodekjøtt, forutsatt at følgende vilkår oppfylles:
+
+1. Hodene beregnet på transport til nedskjæringsanlegget skal henges på et stativ ved lagring og ved transport fra slakteriet til nedskjæringsanlegget.
+2. Skuddhullet i pannen og hullet i bakhodet skal være skikkelig forseglet med en tett og holdbar kork før hodene flyttes fra transportøren eller krokene til stativene. Når det tas prøver av hjernestammen for laboratorieundersøkelse for BSE, skal hullet i bakhodet forsegles umiddelbart etter prøvetakingen.
+3. Hoder som ikke er skikkelig forseglet i samsvar med bokstav b), der øynene er skadd eller mangler umiddelbart før eller etter slakting, eller som er skadd på en annen måte som kan føre til at hodekjøtt kontamineres med sentralnervevev, skal utelukkes fra transport til de særskilt godkjente nedskjæringsanleggene.
+4. En prøvetakingsplan for slakteriet med en passende laboratorieundersøkelse for å påvise sentralnervevev skal gjennomføres for å kontrollere at tiltakene for å redusere kontaminering anvendes korrekt.
+5. Uttak av hodekjøtt skal foretas i samsvar med et kontrollsystem som er godkjent av den vedkommende myndighet, for å sikre at mulig kontaminering av hodekjøtt unngås. Systemet skal omfatte minst følgende:
+
+   1. Alle hoder skal kontrolleres visuelt for tegn på kontaminering eller skade samt skikkelig forsegling før uttak av hodekjøtt påbegynnes.
+   2. Hodekjøtt skal ikke tas ut fra hoder som ikke er skikkelig forseglet, når øynene er skadd eller på annen måte er skadd som kan føre til at hodekjøttet kontamineres med sentralnervevev. Hodekjøtt skal heller ikke tas ut fra hoder der det foreligger mistanke om slik kontaminering.
+   3. Med forbehold om hovedregler for hygiene skal det finnes særlige arbeidsinstrukser for å hindre at hodekjøtt kontamineres under transport eller når det tas ut, særlig når forseglingen mangler eller øynene ble skadd under transport eller ved uttak.
+6. En prøvetakingsplan for nedskjæringsanlegget med en passende laboratorieundersøkelse for å påvise sentralnervevev skal gjennomføres for å kontrollere at tiltakene for å redusere kontaminering anvendes korrekt.
 
 10.*Regler for handel og eksport*
 
@@ -1739,7 +2687,9 @@ Som unntak fra nr. 10.1 kan skrotter, halve skrotter eller halve skrotter som er
 
 10.3.
 
-Eksport utenfor EØS-området av hoder og ferskt kjøtt av storfe, sauer og geiter som inneholder spesifiserte risikomaterialer, skal være forbudt.►**M55**
+Eksport utenfor EØS-området av hoder og ferskt kjøtt av storfe, sauer og geiter som inneholder spesifiserte risikomaterialer, skal være forbudt.
+
+►**M55**
 
 11.*Kontroller*
 
@@ -1753,7 +2703,13 @@ Medlemsstatene skal særlig opprette et system for å sikre og kontrollere at sp
 
 11.3.
 
-Det skal opprettes et kontrollsystem for fjerning av virvelsøylen som angitt i nr. 1 bokstav a.. Systemet skal omfatte minst følgende tiltak:Dersom det ikke kreves at virvelsøylen fjernes, skal skrotter av storfe, eller stykker av skrotter for engrossalg, som inneholder virvelsøyle, fram til 30. juni 2017 identifiseres ved hjelp av en godt synlig blå stripe på etiketten nevnt i artikkel 13 i forordning [(EF) nr. 1760/2000](eu/32000r1760).Dersom det kreves at virvelsøylen fjernes, skal skrotter av storfe, eller stykker av skrotter for engrossalg, som inneholder virvelsøyle, fra 1. juli 2017 identifiseres ved hjelp av en godt synlig rød stripe på etiketten nevnt i artikkel 13 i forordning [(EF) nr. 1760/2000](eu/32000r1760).Når det er relevant, en særskilt angivelse av antallet skrotter av storfe eller antallet skrotter av storfe oppdelt i stykker for engrossalg, der det kreves at virvelsøylen fjernes, skal tilføyes handelsdokumentet knyttet til forsendelser av kjøtt. Når det er relevant, skal denne særskilte angivelsen tilføyes det felles veterinærdokument til bruk ved import (CVED) nevnt i artikkel 2 nr. 1 i kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136),\* når det gjelder import.Slakterier skal oppbevare handelsdokumentene nevnt i bokstav b) i minst et år.
+Det skal opprettes et kontrollsystem for fjerning av virvelsøylen som angitt i nr. 1 bokstav a.. Systemet skal omfatte minst følgende tiltak:
+
+1. Dersom det ikke kreves at virvelsøylen fjernes, skal skrotter av storfe, eller stykker av skrotter for engrossalg, som inneholder virvelsøyle, fram til 30. juni 2017 identifiseres ved hjelp av en godt synlig blå stripe på etiketten nevnt i artikkel 13 i forordning [(EF) nr. 1760/2000](eu/32000r1760).
+
+   Dersom det kreves at virvelsøylen fjernes, skal skrotter av storfe, eller stykker av skrotter for engrossalg, som inneholder virvelsøyle, fra 1. juli 2017 identifiseres ved hjelp av en godt synlig rød stripe på etiketten nevnt i artikkel 13 i forordning [(EF) nr. 1760/2000](eu/32000r1760).
+2. Når det er relevant, en særskilt angivelse av antallet skrotter av storfe eller antallet skrotter av storfe oppdelt i stykker for engrossalg, der det kreves at virvelsøylen fjernes, skal tilføyes handelsdokumentet knyttet til forsendelser av kjøtt. Når det er relevant, skal denne særskilte angivelsen tilføyes det felles veterinærdokument til bruk ved import (CVED) nevnt i artikkel 2 nr. 1 i kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136),\* når det gjelder import.
+3. Slakterier skal oppbevare handelsdokumentene nevnt i bokstav b) i minst et år.
 
 \* Kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136) av 22. januar 2004 om fastsettelse av framgangsmåtene for veterinærkontroller ved Fellesskapets grensekontrollstasjoner ved import av produkter fra tredjestater (EUT L 21 av 28.1.2004, s. 11).
 
@@ -1767,7 +2723,16 @@ Det skal opprettes et kontrollsystem for fjerning av virvelsøylen som angitt i 
 
 ◄**M31**
 
-I samsvar med artikkel 9 nr. 1 er det forbudt å bruke materiale fra drøvtyggere til framstilling av følgende produkter av animalsk opprinnelse:mekanisk utbeinet kjøtt,dikalsiumfosfat beregnet på fôrvarer til produksjonsdyr,gelatin, med mindre det er framstilt av huder fra drøvtyggere,avledede produkter av smeltet fett fra drøvtyggere,smeltet fett fra drøvtyggere, med mindre det er framstilt av:spredt fettvev som er erklært egnet til konsum,råstoff som er bearbeidet i samsvar med standardene nevnt i direktiv [90/667/EØF](eu/31990l0667).
+I samsvar med artikkel 9 nr. 1 er det forbudt å bruke materiale fra drøvtyggere til framstilling av følgende produkter av animalsk opprinnelse:
+
+1. mekanisk utbeinet kjøtt,
+2. dikalsiumfosfat beregnet på fôrvarer til produksjonsdyr,
+3. gelatin, med mindre det er framstilt av huder fra drøvtyggere,
+4. avledede produkter av smeltet fett fra drøvtyggere,
+5. smeltet fett fra drøvtyggere, med mindre det er framstilt av:
+
+   1. spredt fettvev som er erklært egnet til konsum,
+   2. råstoff som er bearbeidet i samsvar med standardene nevnt i direktiv [90/667/EØF](eu/31990l0667).
 
 ### ►**M50** Vedlegg VII
 Bekjempelse og utryddelse av overførbar spongiform encefalopati
@@ -1786,7 +2751,23 @@ Tiltak ved bekreftet forekomst av TSE hos storfe, sauer og geiter
 
 1\.
 
-I undersøkelsen nevnt i artikkel 13 nr. 1 bokstav b. skal følgende identifiseres:for storfe:alle andre drøvtyggere i den driftsenheten der dyret som sykdommen er bekreftet hos, oppholder seg,når sykdommen er bekreftet hos et hunndyr, avkom som er født inntil to år før eller etter sykdommens kliniske utbrudd,alle dyr i samme kohort som dyret som sykdommen er bekreftet hos,sykdommens mulige opprinnelse,andre dyr i driftsenheten der dyret som sykdommen ble bekreftet hos, oppholder seg, eller dyr i andre driftsenheter som kan ha blitt infisert av agensen for TSE eller utsatt for samme fôr eller infeksjonskilde,forflytning av fôr eller annet materiale som kan være kontaminert, eller enhver annen form for overføring som kan ha gjort at agensen for TSE er blitt overført til eller fra den berørte driftsenheten,for sauer og geiter:alle andre drøvtyggere enn sauer og geiter i den driftsenheten der dyret som sykdommen er bekreftet hos, oppholder seg,i den grad de kan identifiseres, foreldrene, og for hunndyr, alle embryoer, egg og siste avkom av hunndyret som sykdommen er bekreftet hos,alle andre sauer og geiter i driftsenheten der dyret som sykdommen er bekreftet hos, oppholder seg, i tillegg til dyrene nevnt i annet strekpunkt,sykdommens mulige opprinnelse og andre driftsenheter der det finnes dyr, embryoer eller egg som kan være infisert av agensen for TSE eller eksponert for samme fôr eller infeksjonskilde,forflytning av fôr eller annet materiale som kan være kontaminert, eller enhver annen form for overføring som kan ha gjort at agensen for TSE er blitt overført til eller fra den berørte driftsenheten.
+I undersøkelsen nevnt i artikkel 13 nr. 1 bokstav b. skal følgende identifiseres:
+
+1. for storfe:
+
+   - alle andre drøvtyggere i den driftsenheten der dyret som sykdommen er bekreftet hos, oppholder seg,
+   - når sykdommen er bekreftet hos et hunndyr, avkom som er født inntil to år før eller etter sykdommens kliniske utbrudd,
+   - alle dyr i samme kohort som dyret som sykdommen er bekreftet hos,
+   - sykdommens mulige opprinnelse,
+   - andre dyr i driftsenheten der dyret som sykdommen ble bekreftet hos, oppholder seg, eller dyr i andre driftsenheter som kan ha blitt infisert av agensen for TSE eller utsatt for samme fôr eller infeksjonskilde,
+   - forflytning av fôr eller annet materiale som kan være kontaminert, eller enhver annen form for overføring som kan ha gjort at agensen for TSE er blitt overført til eller fra den berørte driftsenheten,
+2. for sauer og geiter:
+
+   - alle andre drøvtyggere enn sauer og geiter i den driftsenheten der dyret som sykdommen er bekreftet hos, oppholder seg,
+   - i den grad de kan identifiseres, foreldrene, og for hunndyr, alle embryoer, egg og siste avkom av hunndyret som sykdommen er bekreftet hos,
+   - alle andre sauer og geiter i driftsenheten der dyret som sykdommen er bekreftet hos, oppholder seg, i tillegg til dyrene nevnt i annet strekpunkt,
+   - sykdommens mulige opprinnelse og andre driftsenheter der det finnes dyr, embryoer eller egg som kan være infisert av agensen for TSE eller eksponert for samme fôr eller infeksjonskilde,
+   - forflytning av fôr eller annet materiale som kan være kontaminert, eller enhver annen form for overføring som kan ha gjort at agensen for TSE er blitt overført til eller fra den berørte driftsenheten.
 
 2\.
 
@@ -1794,7 +2775,10 @@ Tiltakene fastsatt i artikkel 13 nr. 1 bokstav c. skal minst omfatte følgende:
 
 2.1
 
-Dersom BSE bekreftes hos et storfe, avliving og fullstendig destruering av storfe som er identifisert i undersøkelsen nevnt i nr. 1 bokstav a. annet og tredje strekpunkt. Medlemsstaten kan imidlertid beslutte åikke avlive og destruere dyr i kohorten nevnt i nr. 1 bokstav a) tredje strekpunkt dersom det foreligger bevis på at disse dyrene ikke hadde tilgang til det samme fôret som det infiserte dyret,utsette avliving og destruering av dyr i kohorten nevnt i nr. 1 bokstav a) tredje strekpunkt til slutten av deres produktive liv, forutsatt at det er okser som uten avbrudd holdes på en sædstasjon, og at det kan garanteres at de destrueres fullstendig når de er døde.
+Dersom BSE bekreftes hos et storfe, avliving og fullstendig destruering av storfe som er identifisert i undersøkelsen nevnt i nr. 1 bokstav a. annet og tredje strekpunkt. Medlemsstaten kan imidlertid beslutte å
+
+- ikke avlive og destruere dyr i kohorten nevnt i nr. 1 bokstav a) tredje strekpunkt dersom det foreligger bevis på at disse dyrene ikke hadde tilgang til det samme fôret som det infiserte dyret,
+- utsette avliving og destruering av dyr i kohorten nevnt i nr. 1 bokstav a) tredje strekpunkt til slutten av deres produktive liv, forutsatt at det er okser som uten avbrudd holdes på en sædstasjon, og at det kan garanteres at de destrueres fullstendig når de er døde.
 
 2.2
 
@@ -1802,7 +2786,9 @@ Når TSE bekreftes hos en sau eller geit:
 
 2.2.1
 
-Dersom BSE ikke kan utelukkes◄**M50**
+Dersom BSE ikke kan utelukkes
+
+◄**M50**
 ►**M51**
 
 Dersom BSE ikke kan utelukkes på grunnlag av resultatene av den sekundære molekylære undersøkelsen foretatt i samsvar med metodene og protokollene fastsatt i vedlegg X kapittel C nr. 3.2 bokstav c) ii), umiddelbar avliving og fullstendig destruering av alle dyr, embryoer og egg identifisert i undersøkelsen nevnt i nr. 1 bokstav b) annet til femte strekpunkt. 
@@ -1819,21 +2805,106 @@ Etter avliving og fullstendig destruering av alle dyr får vilkårene fastsatt i
 
 2.2.2
 
-Dersom BSE og atypisk skrapesyke kan utelukkes►**M66**
+Dersom BSE og atypisk skrapesyke kan utelukkes
+
+►**M66**
 
 Dersom BSE og atypisk skrapesyke utelukkes i samsvar med laboratoriemetodene og protokollene angitt i vedlegg X kapittel C del 3 nr. 3.2, skal driftsenheten omfattes av vilkårene i bokstav a). Dessuten skal driftsenheten i henhold til beslutningen til den medlemsstaten som er ansvarlig for driftsenheten, omfattes av vilkårene i enten alternativ 1 i bokstav b), alternativ 2 i bokstav c) eller alternativ 3 i bokstav d). Hvis det dreier seg om en driftsenhet med en blandet saue- og geitebesetning, kan den medlemsstaten som er ansvarlig for driftsenheten, beslutte å anvende vilkårene til et av alternativene på driftsenhetens sauer, mens et annet alternativ anvendes på driftsenhetens geiter.
-◄**M66**Melk og melkeprodukter fra dyr som skal destrueres eller slaktes, og som befant seg i driftsenheten i perioden fra den dag tilfellet av TSE ble bekreftet, og til den dag alle tiltak som skulle anvendes på driftsenheten i samsvar med bokstav b) og c) var gjennomført, eller fra den infiserte besetningen, til alle restriksjoner fastsatt i bokstav d) og nr. 4 er opphevet, skal ikke brukes til fôring av drøvtyggere, bortsett fra drøvtyggere i samme driftsenhet.Omsetning av slik melk og slike melkeprodukter som fôr til andre dyr enn drøvtyggere skal begrenses til territoriet til den medlemsstat som er ansvarlig for driftsenheten.Handelsdokumentet som ledsager forsendelser av slik melk og slike melkeprodukter og all emballasje som inneholder slike forsendelser, skal være tydelig merket med ordene «skal ikke gis til drøvtyggere».Bruk og lagring av fôrvarer som inneholder slik melk og slike melkeprodukter, skal være forbudt i driftsenheter der det holdes drøvtyggere.Fôr i løs vekt som inneholder slik melk og slike melkeprodukter, skal transporteres i kjøretøyer som ikke samtidig transporterer drøvtyggerfôr.Dersom slike kjøretøyer senere brukes til transport av drøvtyggerfôr, skal de, for å unngå krysskontaminering, rengjøres grundig etter en framgangsmåte som er godkjent av den medlemsstat som er ansvarlig for driftsenheten.Alternativ 1 – avliving og fullstendig destruering av alle dyrUmiddelbar avliving og fullstendig destruering av alle dyr, embryoer og egg som er identifisert i undersøkelsen nevnt i nr. 1 bokstav b) annet og tredje strekpunkt.Dyr eldre enn 18 måneder som er avlivet for destruering, skal undersøkes for forekomst av TSE i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C del 3 nr. 3.2, i henhold til vedlegg III kapittel A del II nr. 5.Prionproteingenotype skal bestemmes hos høyst 50 sauer.Som unntak fra vilkårene fastsatt i alternativ 1 første ledd, kan medlemsstatene i stedet beslutte å iverksette tiltakene nevnt i nr. i) eller ii):Umiddelbar avliving og fullstendig destruering av alle dyr kan erstattes med umiddelbar slakting for konsum forutsatt atdyrene slaktes for konsum på territoriet til den medlemsstat som er ansvarlig for driftsenheten,alle dyr eldre enn 18 måneder som slaktes for konsum, skal undersøkes for forekomst av TSE i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C del 3 nr. 3.2.Lam og kje som er yngre enn tre måneder, kan unntas fra kravet om umiddelbar avliving og fullstendig destruering forutsatt at de slaktes for konsum senest når de er tre måneder gamle.►**M66**Forflytning av dyr nevnt i punkt i) og ii) fra driftsenheten til slakteriet skal tillates.
-◄**M66**Inntil alle dyr er avlivet og fullstendig destruert eller slaktet for konsum, skal vilkårene fastsatt i nr. 3 få anvendelse på en driftsenhet der alternativ 1 er besluttet anvendt.
-►**M66**Alternativ 2 – avliving og fullstendig destruering av bare mottakelige dyrBestemmelse av prionproteingenotypen til alle sauer og geiter i driftsenheten, unntatt lam og kje som er yngre enn tre måneder, forutsatt at de slaktes for konsum senest når de er tre måneder gamle.Umiddelbar avliving og fullstendig destruering av alle sauer og/eller geiter, embryoer og egg som er identifisert i undersøkelsen nevnt i nr. 1 bokstav b) andre og tredje strekpunkt, unntattavlsværer med genotypen ARR/ARR,avlssøyer med minst ett ARR-allel og ingen VRQ-alleler samt, dersom disse avlssøyene er drektige når undersøkelsen finner sted, lammene som senere fødes, dersom deres genotype oppfyller kravene i dette leddet,sauer med minst ett ARR-allel som utelukkende er beregnet på konsum,geiter som har minst ett av følgende alleler: K222, D146 og S146,etter beslutning av den medlemsstaten som er ansvarlig for driftsenheten, lam og kje som er yngre enn tre måneder, forutsatt at de slaktes for konsum senest når de er tre måneder gamle.Dyr eldre enn 18 måneder som er avlivet for destruering, skal testes for forekomst av TSE i samsvar med laboratoriemetodene og protokollene angitt i vedlegg X kapittel C del 3 nr. 3.2, som fastsatt i vedlegg III kapittel A del II nr. 5.Som unntak fra vilkårene i alternativ 2 første og andre ledd kan medlemsstatene i stedet beslutte å iverksette tiltakene nevnt i punkt i), ii) eller iii):Erstatte avliving og fullstendig destruering av dyr nevnt i alternativ 2 andre ledd med slakting for konsum, forutsatt atdyrene slaktes for konsum på territoriet til den medlemsstaten som er ansvarlig for driftsenheten,alle dyr eldre enn 18 måneder som slaktes for konsum, testes for forekomst av TSE i samsvar med laboratoriemetodene og protokollene angitt i vedlegg X kapittel C del 3 nr. 3.2.Utsette bestemmelsen av genotypen og den etterfølgende avlivingen og fullstendige destrueringen eller slaktingen for konsum av dyrene nevnt i alternativ 2 andre ledd i inntil tre måneder. Dette unntaket kan benyttes i situasjoner der indekstilfellet bekreftes tett på det tidspunktet da sesongen for lamming og/eller kjeing begynner, forutsatt at søyer og/eller geiter og deres nyfødte holdes isolert fra sauer og/eller geiter fra andre driftsenheter i hele perioden.Utsette avlivingen og den fullstendige destrueringen eller slaktingen for konsum av dyrene nevnt i alternativ 2 andre ledd i inntil tre år fra dagen for bekreftelse av indekstilfellet i saue- eller geitebesetninger og i driftsenheter der sauer og geiter holdes sammen. Unntaket fastsatt i dette nummeret skal være begrenset til tilfeller der den medlemsstaten som er ansvarlig for driftsenheten, anser at den epidemiologiske situasjonen ikke kan håndteres uten å avlive de berørte dyrene, men at dette ikke kan gjennomføres umiddelbart på grunn av det lave resistensnivået i saue- og geitebestanden i driftsenheten kombinert med andre hensyn, herunder økonomiske faktorer. Andre avlsværer enn dem med genotype ARR/ARR skal avlives eller kastreres umiddelbart. Alle mulige tiltak skal gjennomføres for raskt å bygge opp genetisk resistens i saue- og/eller geitebestanden i driftsenheten, herunder ved fornuftig avl og slakting av søyer for å øke forekomsten av ARR-allelet og fjerne VRQ-allelet, og ved avl av bukker som bærer allelene K222, D146 eller S146. Den medlemsstaten som er ansvarlig for driftsenheten, skal sikre at antallet dyr som skal avlives ved utløpet av den forlengede fristen, ikke er større enn det var umiddelbart etter at indekstilfellet ble bekreftet. Dersom unntaket i dette nummeret benyttes, skal tiltakene angitt i nr. 4 anvendes på driftsenheten inntil dyrene nevnt i alternativ 2 andre ledd er fullstendig destruert eller slaktet for konsum, og deretter gjelder restriksjonene fastsatt i nr. 3.Etter at dyrene nevnt i alternativ 2 andre ledd er avlivet og fullstendig destruert eller slaktet for konsum, skal vil-kårene fastsatt i nr. 3 gjelde for driftsenheten.Alternativ 3 – ingen obligatorisk avliving og fullstendig destruering av dyrEn medlemsstat kan treffe beslutning om ikke å avlive og fullstendig destruere dyrene identifisert i undersøkelsen nevnt i nr. 1 bokstav b) andre og tredje strekpunkt dersom kriteriene fastsatt i minst ett av følgende strekpunkter er oppfylt:Det er vanskelig å finne erstatningshanndyr av sau med genotype ARR/ARR og hunndyr av sau med minst ett ARR-allel eller ingen VRQ-alleler eller geiter som har minst ett av følgende alleler: K222, D146 og S146.Forekomsten av ARR-allelet innenfor sauerasen eller driftsenheten eller forekomsten av allelene K222, D146 eller S146 innenfor geitebestanden eller driftsenheten er lav.Det anses som nødvendig for å unngå innavl.Medlemsstaten anser det som nødvendig basert på en grunngitt vurdering av samtlige epidemiologiske faktorer.Prionproteingenotypen hos alle sauer og geiter, opptil høyst 50 av hvert art, skal fastsettes innen tre måneder etter den dagen indekstilfellet av klassisk skrapesyke ble bekreftet.Dersom det påvises ytterligere tilfeller av klassisk skrapesyke i en driftsenhet der alternativ 3 anvendes, skal medlemsstaten revurdere relevansen av de grunnene og kriteriene som lå til grunn for beslutningen om å anvende alternativ 3 på denne driftsenheten. Dersom konklusjonen er at alternativ 3 ikke sikrer tilstrekkelig kontroll med utbruddet, skal medlemsstaten i stedet anvende alternativ 1 eller alternativ 2 på denne driftsenheten som fastsatt i bokstav b) og c).Vilkårene angitt i nr. 4 skal umiddelbart gjelde driftsenheter der det er besluttet å anvende alternativ 3.Medlemsstater som tillater anvendelse av alternativ 3 for håndtering av utbrudd av klassisk skrapesyke, skal føre register over de grunnene og kriteriene som ligger til grunn for enhver beslutning om å anvende dette alternativet.
-◄**M66**►**M68**
+◄**M66**
+
+1. Melk og melkeprodukter fra dyr som skal destrueres eller slaktes, og som befant seg i driftsenheten i perioden fra den dag tilfellet av TSE ble bekreftet, og til den dag alle tiltak som skulle anvendes på driftsenheten i samsvar med bokstav b) og c) var gjennomført, eller fra den infiserte besetningen, til alle restriksjoner fastsatt i bokstav d) og nr. 4 er opphevet, skal ikke brukes til fôring av drøvtyggere, bortsett fra drøvtyggere i samme driftsenhet.
+
+   Omsetning av slik melk og slike melkeprodukter som fôr til andre dyr enn drøvtyggere skal begrenses til territoriet til den medlemsstat som er ansvarlig for driftsenheten.
+
+   Handelsdokumentet som ledsager forsendelser av slik melk og slike melkeprodukter og all emballasje som inneholder slike forsendelser, skal være tydelig merket med ordene «skal ikke gis til drøvtyggere».
+
+   Bruk og lagring av fôrvarer som inneholder slik melk og slike melkeprodukter, skal være forbudt i driftsenheter der det holdes drøvtyggere.
+
+   Fôr i løs vekt som inneholder slik melk og slike melkeprodukter, skal transporteres i kjøretøyer som ikke samtidig transporterer drøvtyggerfôr.
+
+   Dersom slike kjøretøyer senere brukes til transport av drøvtyggerfôr, skal de, for å unngå krysskontaminering, rengjøres grundig etter en framgangsmåte som er godkjent av den medlemsstat som er ansvarlig for driftsenheten.
+2. Alternativ 1 – avliving og fullstendig destruering av alle dyr
+
+   Umiddelbar avliving og fullstendig destruering av alle dyr, embryoer og egg som er identifisert i undersøkelsen nevnt i nr. 1 bokstav b) annet og tredje strekpunkt.
+
+   Dyr eldre enn 18 måneder som er avlivet for destruering, skal undersøkes for forekomst av TSE i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C del 3 nr. 3.2, i henhold til vedlegg III kapittel A del II nr. 5.
+
+   Prionproteingenotype skal bestemmes hos høyst 50 sauer.
+
+   Som unntak fra vilkårene fastsatt i alternativ 1 første ledd, kan medlemsstatene i stedet beslutte å iverksette tiltakene nevnt i nr. i) eller ii):
+
+   1. Umiddelbar avliving og fullstendig destruering av alle dyr kan erstattes med umiddelbar slakting for konsum forutsatt at
+
+      - dyrene slaktes for konsum på territoriet til den medlemsstat som er ansvarlig for driftsenheten,
+      - alle dyr eldre enn 18 måneder som slaktes for konsum, skal undersøkes for forekomst av TSE i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C del 3 nr. 3.2.
+   2. Lam og kje som er yngre enn tre måneder, kan unntas fra kravet om umiddelbar avliving og fullstendig destruering forutsatt at de slaktes for konsum senest når de er tre måneder gamle.
+
+   ►**M66**
+
+   Forflytning av dyr nevnt i punkt i) og ii) fra driftsenheten til slakteriet skal tillates.
+   ◄**M66**
+
+   Inntil alle dyr er avlivet og fullstendig destruert eller slaktet for konsum, skal vilkårene fastsatt i nr. 3 få anvendelse på en driftsenhet der alternativ 1 er besluttet anvendt.
+   ►**M66**
+3. Alternativ 2 – avliving og fullstendig destruering av bare mottakelige dyr
+
+   Bestemmelse av prionproteingenotypen til alle sauer og geiter i driftsenheten, unntatt lam og kje som er yngre enn tre måneder, forutsatt at de slaktes for konsum senest når de er tre måneder gamle.
+
+   Umiddelbar avliving og fullstendig destruering av alle sauer og/eller geiter, embryoer og egg som er identifisert i undersøkelsen nevnt i nr. 1 bokstav b) andre og tredje strekpunkt, unntatt
+
+   - avlsværer med genotypen ARR/ARR,
+   - avlssøyer med minst ett ARR-allel og ingen VRQ-alleler samt, dersom disse avlssøyene er drektige når undersøkelsen finner sted, lammene som senere fødes, dersom deres genotype oppfyller kravene i dette leddet,
+   - sauer med minst ett ARR-allel som utelukkende er beregnet på konsum,
+   - geiter som har minst ett av følgende alleler: K222, D146 og S146,
+   - etter beslutning av den medlemsstaten som er ansvarlig for driftsenheten, lam og kje som er yngre enn tre måneder, forutsatt at de slaktes for konsum senest når de er tre måneder gamle.
+
+   Dyr eldre enn 18 måneder som er avlivet for destruering, skal testes for forekomst av TSE i samsvar med laboratoriemetodene og protokollene angitt i vedlegg X kapittel C del 3 nr. 3.2, som fastsatt i vedlegg III kapittel A del II nr. 5.
+
+   Som unntak fra vilkårene i alternativ 2 første og andre ledd kan medlemsstatene i stedet beslutte å iverksette tiltakene nevnt i punkt i), ii) eller iii):
+
+   1. Erstatte avliving og fullstendig destruering av dyr nevnt i alternativ 2 andre ledd med slakting for konsum, forutsatt at
+
+      - dyrene slaktes for konsum på territoriet til den medlemsstaten som er ansvarlig for driftsenheten,
+      - alle dyr eldre enn 18 måneder som slaktes for konsum, testes for forekomst av TSE i samsvar med laboratoriemetodene og protokollene angitt i vedlegg X kapittel C del 3 nr. 3.2.
+   2. Utsette bestemmelsen av genotypen og den etterfølgende avlivingen og fullstendige destrueringen eller slaktingen for konsum av dyrene nevnt i alternativ 2 andre ledd i inntil tre måneder. Dette unntaket kan benyttes i situasjoner der indekstilfellet bekreftes tett på det tidspunktet da sesongen for lamming og/eller kjeing begynner, forutsatt at søyer og/eller geiter og deres nyfødte holdes isolert fra sauer og/eller geiter fra andre driftsenheter i hele perioden.
+   3. Utsette avlivingen og den fullstendige destrueringen eller slaktingen for konsum av dyrene nevnt i alternativ 2 andre ledd i inntil tre år fra dagen for bekreftelse av indekstilfellet i saue- eller geitebesetninger og i driftsenheter der sauer og geiter holdes sammen. Unntaket fastsatt i dette nummeret skal være begrenset til tilfeller der den medlemsstaten som er ansvarlig for driftsenheten, anser at den epidemiologiske situasjonen ikke kan håndteres uten å avlive de berørte dyrene, men at dette ikke kan gjennomføres umiddelbart på grunn av det lave resistensnivået i saue- og geitebestanden i driftsenheten kombinert med andre hensyn, herunder økonomiske faktorer. Andre avlsværer enn dem med genotype ARR/ARR skal avlives eller kastreres umiddelbart. Alle mulige tiltak skal gjennomføres for raskt å bygge opp genetisk resistens i saue- og/eller geitebestanden i driftsenheten, herunder ved fornuftig avl og slakting av søyer for å øke forekomsten av ARR-allelet og fjerne VRQ-allelet, og ved avl av bukker som bærer allelene K222, D146 eller S146. Den medlemsstaten som er ansvarlig for driftsenheten, skal sikre at antallet dyr som skal avlives ved utløpet av den forlengede fristen, ikke er større enn det var umiddelbart etter at indekstilfellet ble bekreftet. Dersom unntaket i dette nummeret benyttes, skal tiltakene angitt i nr. 4 anvendes på driftsenheten inntil dyrene nevnt i alternativ 2 andre ledd er fullstendig destruert eller slaktet for konsum, og deretter gjelder restriksjonene fastsatt i nr. 3.
+
+   Etter at dyrene nevnt i alternativ 2 andre ledd er avlivet og fullstendig destruert eller slaktet for konsum, skal vil-kårene fastsatt i nr. 3 gjelde for driftsenheten.
+4. Alternativ 3 – ingen obligatorisk avliving og fullstendig destruering av dyr
+
+   En medlemsstat kan treffe beslutning om ikke å avlive og fullstendig destruere dyrene identifisert i undersøkelsen nevnt i nr. 1 bokstav b) andre og tredje strekpunkt dersom kriteriene fastsatt i minst ett av følgende strekpunkter er oppfylt:
+
+   - Det er vanskelig å finne erstatningshanndyr av sau med genotype ARR/ARR og hunndyr av sau med minst ett ARR-allel eller ingen VRQ-alleler eller geiter som har minst ett av følgende alleler: K222, D146 og S146.
+   - Forekomsten av ARR-allelet innenfor sauerasen eller driftsenheten eller forekomsten av allelene K222, D146 eller S146 innenfor geitebestanden eller driftsenheten er lav.
+   - Det anses som nødvendig for å unngå innavl.
+   - Medlemsstaten anser det som nødvendig basert på en grunngitt vurdering av samtlige epidemiologiske faktorer.
+
+   Prionproteingenotypen hos alle sauer og geiter, opptil høyst 50 av hvert art, skal fastsettes innen tre måneder etter den dagen indekstilfellet av klassisk skrapesyke ble bekreftet.
+
+   Dersom det påvises ytterligere tilfeller av klassisk skrapesyke i en driftsenhet der alternativ 3 anvendes, skal medlemsstaten revurdere relevansen av de grunnene og kriteriene som lå til grunn for beslutningen om å anvende alternativ 3 på denne driftsenheten. Dersom konklusjonen er at alternativ 3 ikke sikrer tilstrekkelig kontroll med utbruddet, skal medlemsstaten i stedet anvende alternativ 1 eller alternativ 2 på denne driftsenheten som fastsatt i bokstav b) og c).
+
+   Vilkårene angitt i nr. 4 skal umiddelbart gjelde driftsenheter der det er besluttet å anvende alternativ 3.
+
+   Medlemsstater som tillater anvendelse av alternativ 3 for håndtering av utbrudd av klassisk skrapesyke, skal føre register over de grunnene og kriteriene som ligger til grunn for enhver beslutning om å anvende dette alternativet.
+   ◄**M66**
+
+►**M68**
 
 2.2.3
 
-Utgår◄**M68**
+Utgår
+
+◄**M68**
 
 2.3
 
-Dersom et dyr infisert av TSE er innført fra en annen driftsenhetkan medlemsstaten, på grunnlag av det infiserte dyrets sykehistorie, treffe beslutning om at utryddelsestiltak skal gjennomføres på opprinnelsesenheten i tillegg til eller i stedet for i den driftsenhet der infeksjonen ble bekreftet,kan medlemsstatene, i tilfeller der et fellesbeite brukes av mer enn én besetning, beslutte å begrense gjennomføringen av utryddelsestiltakene til en enkelt besetning, etter en begrunnet vurdering av alle epidemiologiske faktorer,kan medlemsstatene, i tilfeller der mer enn én besetning oppholder seg i en driftsenhet, beslutte å begrense gjennomføringen av utryddelsestiltakene til den besetningen der TSE ble bekreftet, forutsatt at det er bekreftet at besetningene har blitt holdt isolert fra hverandre, og at det er lite sannsynlig at infeksjonen har spredt seg mellom besetningene ved direkte eller indirekte kontakt.►**M66**
+Dersom et dyr infisert av TSE er innført fra en annen driftsenhet
+
+1. kan medlemsstaten, på grunnlag av det infiserte dyrets sykehistorie, treffe beslutning om at utryddelsestiltak skal gjennomføres på opprinnelsesenheten i tillegg til eller i stedet for i den driftsenhet der infeksjonen ble bekreftet,
+2. kan medlemsstatene, i tilfeller der et fellesbeite brukes av mer enn én besetning, beslutte å begrense gjennomføringen av utryddelsestiltakene til en enkelt besetning, etter en begrunnet vurdering av alle epidemiologiske faktorer,
+3. kan medlemsstatene, i tilfeller der mer enn én besetning oppholder seg i en driftsenhet, beslutte å begrense gjennomføringen av utryddelsestiltakene til den besetningen der TSE ble bekreftet, forutsatt at det er bekreftet at besetningene har blitt holdt isolert fra hverandre, og at det er lite sannsynlig at infeksjonen har spredt seg mellom besetningene ved direkte eller indirekte kontakt.
+
+►**M66**
 
 3\.
 
@@ -1845,19 +2916,55 @@ Driftsenheten skal underlegges en protokoll for skjerpet overvåking for TSE. De
 
 3.2.
 
-Bare følgende dyr kan innføres i driftsenheten:Hanndyr av sau med genotype ARR/ARR.Hunndyr av sau med minst ett ARR-allel og ingen VRQ-alleler.Geiter, forutsatt at alle husdyrlokaler i driftsenheten er rengjort og desinfisert etter at besetningen ble avviklet.
+Bare følgende dyr kan innføres i driftsenheten:
+
+- Hanndyr av sau med genotype ARR/ARR.
+- Hunndyr av sau med minst ett ARR-allel og ingen VRQ-alleler.
+- Geiter, forutsatt at alle husdyrlokaler i driftsenheten er rengjort og desinfisert etter at besetningen ble avviklet.
 
 3.3.
 
-Bare følgende avlsværer, avlsbukker og formeringsmateriale fra sau og geit kan brukes i driftsenheten:Hanndyr av sau med genotype ARR/ARR.Sæd fra værer med genotype ARR/ARR.Embryoer med minst ett ARR-allel og ingen VRQ-alleler.Avlsbukker og formeringsmateriale av geit som definert i tiltakene som medlemsstatene har truffet for å bygge opp genetisk resistens i geitebestanden i driftsenheten.
+Bare følgende avlsværer, avlsbukker og formeringsmateriale fra sau og geit kan brukes i driftsenheten:
+
+- Hanndyr av sau med genotype ARR/ARR.
+- Sæd fra værer med genotype ARR/ARR.
+- Embryoer med minst ett ARR-allel og ingen VRQ-alleler.
+- Avlsbukker og formeringsmateriale av geit som definert i tiltakene som medlemsstatene har truffet for å bygge opp genetisk resistens i geitebestanden i driftsenheten.
 
 3.4.
 
-Forflytning av dyr fra driftsenheten skal være tillatt for destruering eller være underlagt følgende vilkår:Følgende dyr kan forflyttes fra driftsenheten for alle formål, herunder avl:Sauer med genotype ARR/ARR.Søyer med ett ARR-allel og ingen VRQ-alleler, forutsatt at de forflyttes til andre driftsenheter som er underlagt restriksjoner etter gjennomføringen av tiltakene i samsvar med nr. 2.2.2 bokstav b) (alternativ 1), nr. 2.2.2 bokstav c) (alternativ 2) eller nr. 2.2.2 bokstav d) (alternativ 3).Geiter som har minst ett av følgende alleler: K222, D146 og S146.Geiter, forutsatt at de forflyttes til andre driftsenheter som er underlagt restriksjoner etter gjennomføringen av tiltakene i samsvar med nr. 2.2.2 bokstav b) (alternativ 1), nr. 2.2.2 bokstav c) (alternativ 2) eller nr. 2.2.2 bokstav d) (alternativ 3).Følgende dyr kan forflyttes fra driftsenheten for å sendes direkte til slakting for konsum:Sauer med minst ett ARR-allel.Geiter.Dersom medlemsstaten beslutter det, lam og kje som er yngre enn tre måneder på slaktedatoen.Alle dyr dersom medlemsstaten har besluttet å anvende unntakene fastsatt i nr. 2.2.2 bokstav b) punkt i) og nr. 2.2.2 bokstav c) punkt i).Dersom medlemsstaten beslutter det, kan lam og kje forflyttes til en annen driftsenhet på dens territorium utelukkende for oppfôring før slakting, forutsatt at følgende vilkår er oppfylt:I mottakerenheten skal det ikke finnes noen andre sauer eller geiter enn dem som fôres opp før slakting.Ved utløpet av oppfôringsperioden skal lammene og kjeene som stammer fra driftsenheter underlagt utryddelsestiltak, transporteres direkte til et slakteri på den samme medlemsstatens territorium for slakting senest når de er 12 måneder gamle.
+Forflytning av dyr fra driftsenheten skal være tillatt for destruering eller være underlagt følgende vilkår:
+
+1. Følgende dyr kan forflyttes fra driftsenheten for alle formål, herunder avl:
+
+   - Sauer med genotype ARR/ARR.
+   - Søyer med ett ARR-allel og ingen VRQ-alleler, forutsatt at de forflyttes til andre driftsenheter som er underlagt restriksjoner etter gjennomføringen av tiltakene i samsvar med nr. 2.2.2 bokstav b) (alternativ 1), nr. 2.2.2 bokstav c) (alternativ 2) eller nr. 2.2.2 bokstav d) (alternativ 3).
+   - Geiter som har minst ett av følgende alleler: K222, D146 og S146.
+   - Geiter, forutsatt at de forflyttes til andre driftsenheter som er underlagt restriksjoner etter gjennomføringen av tiltakene i samsvar med nr. 2.2.2 bokstav b) (alternativ 1), nr. 2.2.2 bokstav c) (alternativ 2) eller nr. 2.2.2 bokstav d) (alternativ 3).
+2. Følgende dyr kan forflyttes fra driftsenheten for å sendes direkte til slakting for konsum:
+
+   - Sauer med minst ett ARR-allel.
+   - Geiter.
+   - Dersom medlemsstaten beslutter det, lam og kje som er yngre enn tre måneder på slaktedatoen.
+   - Alle dyr dersom medlemsstaten har besluttet å anvende unntakene fastsatt i nr. 2.2.2 bokstav b) punkt i) og nr. 2.2.2 bokstav c) punkt i).
+3. Dersom medlemsstaten beslutter det, kan lam og kje forflyttes til en annen driftsenhet på dens territorium utelukkende for oppfôring før slakting, forutsatt at følgende vilkår er oppfylt:
+
+   - I mottakerenheten skal det ikke finnes noen andre sauer eller geiter enn dem som fôres opp før slakting.
+   - Ved utløpet av oppfôringsperioden skal lammene og kjeene som stammer fra driftsenheter underlagt utryddelsestiltak, transporteres direkte til et slakteri på den samme medlemsstatens territorium for slakting senest når de er 12 måneder gamle.
 
 3.5.
 
-Restriksjonene i nr. 3.1–3.4 skal fortsette å gjelde for driftsenhetenfram til den dagen alle sauene i driftsenheten har oppnådd ARR/ARR-status, forutsatt at ingen geiter holdes i driftsenheten, ellerfram til den dagen alle geiter i driftsenheten har minst ett av allelene K222, D146 eller S146, forutsatt at ingen sauer holdes i driftsenheten, ellerfram til den dagen alle sauer i driftsenheten har oppnådd ARR/ARR-status og alle geiter i driftsenheten har minst ett av allelene K222, D146- eller S146, eller►**M68**i en periode på to år fra den dagen alle tiltakene nevnt i nr. 2.2.1, nr. 2.2.2 bokstav b) eller nr. 2.2.2 bokstav c) er gjennomført, forutsatt at ingen andre tilfeller av TSE enn atypisk skrapesyke blir påvist i denne toårsperioden.◄**M68**
+Restriksjonene i nr. 3.1–3.4 skal fortsette å gjelde for driftsenheten
+
+1. fram til den dagen alle sauene i driftsenheten har oppnådd ARR/ARR-status, forutsatt at ingen geiter holdes i driftsenheten, eller
+2. fram til den dagen alle geiter i driftsenheten har minst ett av allelene K222, D146 eller S146, forutsatt at ingen sauer holdes i driftsenheten, eller
+3. fram til den dagen alle sauer i driftsenheten har oppnådd ARR/ARR-status og alle geiter i driftsenheten har minst ett av allelene K222, D146- eller S146, eller
+
+►**M68**
+
+1. i en periode på to år fra den dagen alle tiltakene nevnt i nr. 2.2.1, nr. 2.2.2 bokstav b) eller nr. 2.2.2 bokstav c) er gjennomført, forutsatt at ingen andre tilfeller av TSE enn atypisk skrapesyke blir påvist i denne toårsperioden.
+
+◄**M68**
 
 4\.
 
@@ -1865,7 +2972,10 @@ Etter beslutningen om å anvende alternativ 3 som fastsatt i nr. 2.2.2 bokstav d
 
 4.1.
 
-Driftsenheten skal underlegges en protokoll for skjerpet overvåking for TSE. Dette skal omfatte testing for forekomst av TSE hos dyr som er over 18 måneder gamle, og somer blitt slaktet for konsum,er selvdøde eller er avlivet i driftsenheten, men ikke i forbindelse med en kampanje for utryddelse av sykdom.
+Driftsenheten skal underlegges en protokoll for skjerpet overvåking for TSE. Dette skal omfatte testing for forekomst av TSE hos dyr som er over 18 måneder gamle, og som
+
+- er blitt slaktet for konsum,
+- er selvdøde eller er avlivet i driftsenheten, men ikke i forbindelse med en kampanje for utryddelse av sykdom.
 
 Sauer med genotype ARR/ARR og geiter med minst ett av allelene K222, D146 eller S146 er unntatt. Testing skal utføres i samsvar med laboratoriemetodene og protokollen i vedlegg X kapittel C del 3 nr. 3.2.
 
@@ -1873,11 +2983,27 @@ Sauer med genotype ARR/ARR og geiter med minst ett av allelene K222, D146 eller 
 
 Vilkårene i nr. 3.2 og 3.3 skal gjelde.
 
-Som unntak fra nr. 3.2 og 3.3 kan imidlertid en medlemsstat tillate innføring til og bruk i driftsenheten avhanndyr av sau med minst ett ARR-allel og ingen VRQ-alleler samt sæd fra disse, også til avl,hunndyr av sau uten VRQ-alleler,embryoer uten VRQ-alleler,forutsatt at følgende krav oppfylles:Dyrerasen som holdes i driftsenheten, er en utryddelsestruet rase.Dyrerasen som holdes i driftsenheten, omfattes av et avlsprogram som har som formål å bevare denne rasen, og som gjennomføres av et avlslag som definert i [artikkel 2 nr. 5 i forordning (EU) 2016/1012](eu/32016r1012/a2) eller en vedkommende myndighet i samsvar med artikkel 38 i den samme forordningen.Forekomsten av ARR-allelet hos rasen er lav.
+Som unntak fra nr. 3.2 og 3.3 kan imidlertid en medlemsstat tillate innføring til og bruk i driftsenheten av
+
+- hanndyr av sau med minst ett ARR-allel og ingen VRQ-alleler samt sæd fra disse, også til avl,
+- hunndyr av sau uten VRQ-alleler,
+- embryoer uten VRQ-alleler,
+
+forutsatt at følgende krav oppfylles:
+
+- Dyrerasen som holdes i driftsenheten, er en utryddelsestruet rase.
+- Dyrerasen som holdes i driftsenheten, omfattes av et avlsprogram som har som formål å bevare denne rasen, og som gjennomføres av et avlslag som definert i [artikkel 2 nr. 5 i forordning (EU) 2016/1012](eu/32016r1012/a2) eller en vedkommende myndighet i samsvar med artikkel 38 i den samme forordningen.
+- Forekomsten av ARR-allelet hos rasen er lav.
 
 4.3.
 
-Forflytning av dyr fra driftsenheten skal være tillatt for destruering eller direkte for slakting for konsum eller være underlagt følgende vilkår:Værer og søyer med genotype ARR/ARR og geiter med minst ett av allelene K222, D146 eller S146 kan forflyttes fra driftsenheten for ethvert formål, inkludert avl, forutsatt at de flyttes til andre driftsenheter som er underlagt anvendelsen av tiltak i henhold til nr. 2.2.2 bokstav c) (alternativ 2) eller nr. 2.2.2 bokstav d) (alternativ 3).Dersom medlemsstaten beslutter det, kan lam og kje forflyttes til en annen driftsenhet på dens territorium utelukkende for oppfôring før slakting, forutsatt at følgende vilkår er oppfylt:I mottakerenheten skal det ikke finnes noen andre sauer eller geiter enn dem som fôres opp før slakting.Ved utløpet av oppfôringsperioden skal lammene og kjeene transporteres direkte til et slakteri på den samme medlemsstatens territorium for slakting senest når de er 12 måneder gamle.
+Forflytning av dyr fra driftsenheten skal være tillatt for destruering eller direkte for slakting for konsum eller være underlagt følgende vilkår:
+
+1. Værer og søyer med genotype ARR/ARR og geiter med minst ett av allelene K222, D146 eller S146 kan forflyttes fra driftsenheten for ethvert formål, inkludert avl, forutsatt at de flyttes til andre driftsenheter som er underlagt anvendelsen av tiltak i henhold til nr. 2.2.2 bokstav c) (alternativ 2) eller nr. 2.2.2 bokstav d) (alternativ 3).
+2. Dersom medlemsstaten beslutter det, kan lam og kje forflyttes til en annen driftsenhet på dens territorium utelukkende for oppfôring før slakting, forutsatt at følgende vilkår er oppfylt:
+
+   - I mottakerenheten skal det ikke finnes noen andre sauer eller geiter enn dem som fôres opp før slakting.
+   - Ved utløpet av oppfôringsperioden skal lammene og kjeene transporteres direkte til et slakteri på den samme medlemsstatens territorium for slakting senest når de er 12 måneder gamle.
 
 4.4.
 
@@ -1892,7 +3018,9 @@ Utenfor lammings- og/eller kjeingsperioden skal fellesbeiting være underlagt re
 
 4.6.
 
-Restriksjonene angitt i nr. 4.1–4.5 skal gjelde i en periode på to år etter at det siste tilfellet av annen TSE enn atypisk skrapesyke påvises i driftsenheter der alternativ 3 fastsatt i nr. 2.2.2 bokstav d. er blitt gjennomført.◄**M68**
+Restriksjonene angitt i nr. 4.1–4.5 skal gjelde i en periode på to år etter at det siste tilfellet av annen TSE enn atypisk skrapesyke påvises i driftsenheter der alternativ 3 fastsatt i nr. 2.2.2 bokstav d. er blitt gjennomført.
+
+◄**M68**
 ◄**M66**
 
 ### Kapittel C
@@ -1902,14 +3030,32 @@ Minstekrav til et avlsprogram for resistens mot TSE hos sauer i samsvar med arti
 
 Allmenne krav
 
-1. Avlsprogrammet skal konsentreres om besetninger med høy avlsverdi i samsvar med definisjonen i nr. 3 i vedlegg I til kommisjonsvedtak [2002/1003/EF](eu/32002d1003).Medlemsstater som har et avlsprogram, kan likevel treffe beslutning om å tillate prøvetaking og bestemmelse av genotype hos bare avlsværer i besetninger som ikke deltar i avlsprogrammet.
-2. Det skal opprettes en database som minst skal inneholde følgende opplysninger:identitet, rase og antall dyr i alle besetninger som deltar i avlsprogrammet,identifikasjon av de enkelte dyr det er tatt prøver av som et ledd i avlsprogrammet, herunder avlsværer det er tatt prøver av i besetninger som ikke deltar i avlsprogrammet,resultatene av alle genotypebestemmelsene.
+1. Avlsprogrammet skal konsentreres om besetninger med høy avlsverdi i samsvar med definisjonen i nr. 3 i vedlegg I til kommisjonsvedtak [2002/1003/EF](eu/32002d1003).
+
+   Medlemsstater som har et avlsprogram, kan likevel treffe beslutning om å tillate prøvetaking og bestemmelse av genotype hos bare avlsværer i besetninger som ikke deltar i avlsprogrammet.
+2. Det skal opprettes en database som minst skal inneholde følgende opplysninger:
+
+   1. identitet, rase og antall dyr i alle besetninger som deltar i avlsprogrammet,
+   2. identifikasjon av de enkelte dyr det er tatt prøver av som et ledd i avlsprogrammet, herunder avlsværer det er tatt prøver av i besetninger som ikke deltar i avlsprogrammet,
+   3. resultatene av alle genotypebestemmelsene.
 3. Det skal opprettes en ordning med ensartet sertifisering der genotypen til hvert dyr som det tas prøver av i forbindelse med avlsprogrammet, herunder avlsværer som det tas prøver av i besetninger som ikke deltar i avlsprogrammet, sertifiseres med henvisning til dyrets individuelle identifikasjonsnummer.
 4. Det skal opprettes et system for identifikasjon av dyr og prøver, behandling av prøver og levering av resultater som gjør muligheten for menneskelige feil så liten som mulig. Systemets effektivitet skal kontrolleres ved regelmessige stikkprøver.
 5. Bestemmelse av genotype av blod eller annet vev som er innsamlet i forbindelse med avlsprogrammet, herunder fra avlsværer det er tatt prøver av i besetninger som ikke deltar i avlsprogrammet, skal utføres i laboratorier som er godkjent innenfor rammen av programmet.
 6. Vedkommende myndighet i medlemsstaten kan bistå avlslag med å opprette genbanker for sæd, egg og embryoer som er representative for de prionproteingenotypene som trolig vil bli sjeldne som følge av avlsprogrammet.
-7. Det skal opprettes avlsprogrammer for hver rase, som skal ta hensyn tilhvor hyppig de forskjellige allelene forekommer hos rasen,hvor sjelden rasen er,unngåelse av innavl eller genetisk drift. ◄**M50**►**M60**
-8. Dersom medlemsstaten i samsvar med annet ledd i nr. 1 tillater prøvetaking og genotypebestemmelse av avlsværer i besetninger som ikke deltar i avlsprogrammet, skal prionproteingenotypen for kodon 136, 141, 154 og 171 bestemmes for et minste utvalg som er representativt for hele sauepopulasjonen i medlemsstaten, entenén gang hvert tredje år med et minste utvalg på minst 1 560 sauer, ellermed en hyppighet og med et prøveantall som er bestemt av medlemsstaten basert på at følgende kriterier overholdes:Prøvetakingsplanen tar hensyn til relevante epidemiologiske data som er innsamlet ved tidligere undersøkelser, herunder data om prionproteingenotypen hos sau for kodon 136, 141, 154 og 171 etter rase, region, alder, kjønn og besetning.Prøvetakingsplanen gjør det mulig minst å påvise en endring på 5 % i genotypens prevalens over et tidsrom på tre år, med et effektnivå på 80 % og et konfidensnivå på 95 %. ◄**M60**
+7. Det skal opprettes avlsprogrammer for hver rase, som skal ta hensyn til
+
+   1. hvor hyppig de forskjellige allelene forekommer hos rasen,
+   2. hvor sjelden rasen er,
+   3. unngåelse av innavl eller genetisk drift. ◄**M50**
+
+   ►**M60**
+8. Dersom medlemsstaten i samsvar med annet ledd i nr. 1 tillater prøvetaking og genotypebestemmelse av avlsværer i besetninger som ikke deltar i avlsprogrammet, skal prionproteingenotypen for kodon 136, 141, 154 og 171 bestemmes for et minste utvalg som er representativt for hele sauepopulasjonen i medlemsstaten, enten
+
+   1. én gang hvert tredje år med et minste utvalg på minst 1 560 sauer, eller
+   2. med en hyppighet og med et prøveantall som er bestemt av medlemsstaten basert på at følgende kriterier overholdes:
+
+      1. Prøvetakingsplanen tar hensyn til relevante epidemiologiske data som er innsamlet ved tidligere undersøkelser, herunder data om prionproteingenotypen hos sau for kodon 136, 141, 154 og 171 etter rase, region, alder, kjønn og besetning.
+      2. Prøvetakingsplanen gjør det mulig minst å påvise en endring på 5 % i genotypens prevalens over et tidsrom på tre år, med et effektnivå på 80 % og et konfidensnivå på 95 %. ◄**M60**
 
 ►**M50**
 
@@ -1918,7 +3064,13 @@ Allmenne krav
 Særskilte regler for besetninger som deltar
 
 1. Formålet med avlsprogrammet skal være å øke hyppigheten av ARR-allelet i besetningen og samtidig redusere forekomsten av de allelene som påviselig bidrar til mottakelighet for TSE.
-2. Følgende minstekrav gjelder for besetningene som deltar:alle dyr i besetningen som genotype skal bestemmes for, skal identifiseres individuelt ved hjelp av sikre midler,genotypen til alle værer som er beregnet på avl i besetningen, skal bestemmes før de brukes til avl,alle hanndyr som bærer VRQ-allelet, skal slaktes eller kastreres innen seks måneder etter genotypebestemmelsen. Dyret skal ikke forlate driftsenheten, unntatt for å slaktes,hunndyr som man vet bærer VRQ-allelet, skal ikke forlate driftsenheten, unntatt for å slaktes,bare hanndyr som er sertifisert i forbindelse med avlsprogrammet, herunder sædgivere som brukes til kunstig sædoverføring, skal brukes til avl i besetningen.
+2. Følgende minstekrav gjelder for besetningene som deltar:
+
+   1. alle dyr i besetningen som genotype skal bestemmes for, skal identifiseres individuelt ved hjelp av sikre midler,
+   2. genotypen til alle værer som er beregnet på avl i besetningen, skal bestemmes før de brukes til avl,
+   3. alle hanndyr som bærer VRQ-allelet, skal slaktes eller kastreres innen seks måneder etter genotypebestemmelsen. Dyret skal ikke forlate driftsenheten, unntatt for å slaktes,
+   4. hunndyr som man vet bærer VRQ-allelet, skal ikke forlate driftsenheten, unntatt for å slaktes,
+   5. bare hanndyr som er sertifisert i forbindelse med avlsprogrammet, herunder sædgivere som brukes til kunstig sædoverføring, skal brukes til avl i besetningen.
 3. Medlemsstatene kan beslutte å gi unntak fra kravene fastsatt i nr. 2 bokstav c) og d) for å beskytte raser og produksjonsegenskaper.
 4. Medlemsstatene skal underrette Kommisjonen om unntak som er gitt i henhold til nr. 3, og om hvilke kriterier som er lagt til grunn.
 
@@ -1933,8 +3085,18 @@ Særlige regler for avlsværer som det tas prøver av i besetninger som ikke del
 
 Rammeregler for godkjenning av sauebesetningers status som TSE-resistente
 
-1. Etter rammereglene for godkjenning av sauebesetningers status som TSE-resistente skal TSE-resistent status godkjennes for sauebesetninger som på grunn av sin deltakelse i avlsprogrammet som fastsatt i artikkel 6a, oppfyller kriteriene i programmet.Denne godkjenningen skal gis på følgende to nivåer:nivå-1-besetninger er besetninger som består utelukkende av sauer med genotype ARR/ARR,nivå-II-besetninger er besetninger der avkommet nedstammer utelukkende fra værer med genotype ARR/ARR.Medlemsstatene kan vedta å godkjenne ytterligere nivåer for å oppfylle nasjonale krav.
-2. Det skal tas regelmessige stikkprøver av sauer fra TSE-resistente besetningeri driftsenheten eller på slakteriet, for å verifisere genotypen,for nivå-1-besetninger, av dyr eldre enn 18 måneder i slakteriet, for undersøkelser for TSE i samsvar med vedlegg III.
+1. Etter rammereglene for godkjenning av sauebesetningers status som TSE-resistente skal TSE-resistent status godkjennes for sauebesetninger som på grunn av sin deltakelse i avlsprogrammet som fastsatt i artikkel 6a, oppfyller kriteriene i programmet.
+
+   Denne godkjenningen skal gis på følgende to nivåer:
+
+   1. nivå-1-besetninger er besetninger som består utelukkende av sauer med genotype ARR/ARR,
+   2. nivå-II-besetninger er besetninger der avkommet nedstammer utelukkende fra værer med genotype ARR/ARR.
+
+   Medlemsstatene kan vedta å godkjenne ytterligere nivåer for å oppfylle nasjonale krav.
+2. Det skal tas regelmessige stikkprøver av sauer fra TSE-resistente besetninger
+
+   1. i driftsenheten eller på slakteriet, for å verifisere genotypen,
+   2. for nivå-1-besetninger, av dyr eldre enn 18 måneder i slakteriet, for undersøkelser for TSE i samsvar med vedlegg III.
 
 ►**M75**
 
@@ -1942,7 +3104,10 @@ Rammeregler for godkjenning av sauebesetningers status som TSE-resistente
 
 Rapporter som medlemsstatene skal framlegge for Kommisjonen
 
-Medlemsstater som innfører nasjonale avlsprogrammer med sikte på utvelging for TSE-resistens i sine sauebestander, skalunderrette Kommisjonen om kravene i disse programmene,framlegge en rapport for Kommisjonen når det gjøres endringer i disse programmene.
+Medlemsstater som innfører nasjonale avlsprogrammer med sikte på utvelging for TSE-resistens i sine sauebestander, skal
+
+1. underrette Kommisjonen om kravene i disse programmene,
+2. framlegge en rapport for Kommisjonen når det gjøres endringer i disse programmene.
 
 ◄**M75**
 
@@ -1976,11 +3141,81 @@ I forbindelse med handel innenfor Unionen kan medlemsstatene eventuelt etablere 
 
 En driftsenhet med sauer som har status som TSE-resistent på nivå 1 i henhold til vedlegg VII kapittel C del 4 nr. 1 bokstav a), og der ikke noe tilfelle av klassisk skrapesyke har vært bekreftet i løpet av minst de siste sju årene, kan anerkjennes som en driftsenhet med ubetydelig risiko for klassisk skrapesyke.
 
-En driftsenhet med sauer og/eller geiter kan anerkjennes som en driftsenhet med ubetydelig risiko for klassisk skrapesyke også dersom den har oppfylt følgende vilkår i løpet av minst de siste sju årene:Sauene og geitene er gitt et varig merke, og det føres register slik at dyrene kan spores tilbake til driftsenheten der de ble født.Det føres register over forflytninger av sauer og geiter til og fra driftsenheten.Bare følgende sauer og geiter innføres i driftsenheten:Sauer og geiter fra driftsenheter med ubetydelig risiko for klassisk skrapesyke.Sauer og geiter fra driftsenheter som har oppfylt vilkårene fastsatt i bokstav a)–i) i løpet av minst de siste sju årene eller minst like lenge som driftsenheten de skal innføres i, har oppfylt vilkårene fastsatt i disse bokstavene.Sauer med prionproteingenotypen ARR/ARR og geiter med minst ett av allelene K222, D146 eller S146.Sauer eller geiter som oppfyller vilkårene fastsatt i punkt i) eller ii), unntatt det tidsrommet de ble holdt på en sædstasjon, forutsatt at sædstasjonen oppfyller følgende vilkår:Sædstasjonen er godkjent i samsvar med del II kapittel 1 i delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)\*.I løpet av de siste sju årene ble bare sauer og geiter fra driftsenheter som i løpet av denne perioden har oppfylt vilkårene fastsatt i bokstav a), b) og e), og som har vært gjenstand for regelmessig kontroll av en offisiell veterinær eller en veterinær godkjent av vedkommende myndighet, innført i sædstasjonen.Ingen tilfeller av klassisk skrapesyke har vært bekreftet på sædstasjonen i løpet av de siste sju årene.Det er gjennomført biosikkerhetstiltak på sædstasjonen for å sikre at sauer og geiter som holdes på stasjonen, og som kommer fra driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke, verken direkte eller indirekte har kontakt med sauer og geiter fra driftsenheter med lavere status for klassisk skrapesyke.Driftsenheten blir regelmessig kontrollert for å verifisere overholdelse av bestemmelsene fastsatt i bokstav a)–i) av en offisiell veterinær eller en veterinær godkjent for dette formålet av vedkommende myndighet; dette skal skje minst en gang i året.Ingen tilfeller av klassisk skrapesyke er blitt bekreftet.Alle sauer og geiter eldre enn 18 måneder som er selvdøde eller avlivet for andre formål enn slakting for konsum, skal undersøkes i laboratorium for klassisk skrapesyke i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C nr. 3.2.Som unntak fra dette spesifikke kravet kan medlemsstatene beslutte at alle sauer og geiter eldre enn 18 måneder uten kommersiell verdi som avlives på slutten av sitt produktive liv i stedet for å slaktes for konsum, undersøkes av en offentlig veterinær, og alle som viser tegn på kakeksi eller nevrologiske tegn, undersøkes for klassisk skrapesyke i et laboratorium i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C nr. 3.2.Bare følgende egg og embryoer fra sau og geit innføres i driftsenheten:Egg og embryoer fra donordyr som siden fødselen er blitt holdt i en medlemsstat med ubetydelig risiko for klassisk skrapesyke eller i en driftsenhet med ubetydelig eller kontrollert risiko for klassisk skrapesyke, eller som oppfyller følgende krav:De er gitt et varig merke slik at de kan spores tilbake til driftsstedet der de ble født.De er siden fødselen blitt holdt i driftsenheter der det har ikke vært noe bekreftet tilfelle av klassisk skrapesyke så lenge de har oppholdt seg der.De viste ingen kliniske tegn på klassisk skrapesyke på tidspunktet for oppsamling av egg eller embryoer.Egg og embryoer fra sauer med minst ett ARR-allel og fra geiter med minst ett av allelene K222, D146 eller S146.Bare følgende sæd fra sauer og geiter innføres i driftsenheten:Sæd fra donordyr som siden fødselen er blitt holdt i en medlemsstat med ubetydelig risiko for klassisk skrapesyke eller i en driftsenhet med ubetydelig risiko eller kontrollert risiko for klassisk skrapesyke, eller som oppfyller følgende krav:De er gitt et varig merke slik at de kan spores tilbake til driftsstedet der de ble født.De viste ingen kliniske tegn på klassisk skrapesyke på tidspunktet for sædoppsamling.Sæd fra værer med prionproteingenotypen ARR/ARR og bukker med minst ett av allelene K222, D146 eller S146.Sauene og geitene i driftsenheten har ingen direkte eller indirekte kontakt med og beiter ikke på samme beite som sauer og geiter fra driftsenheter med lavere status for klassisk skrapesyke.
+En driftsenhet med sauer og/eller geiter kan anerkjennes som en driftsenhet med ubetydelig risiko for klassisk skrapesyke også dersom den har oppfylt følgende vilkår i løpet av minst de siste sju årene:
+
+1. Sauene og geitene er gitt et varig merke, og det føres register slik at dyrene kan spores tilbake til driftsenheten der de ble født.
+2. Det føres register over forflytninger av sauer og geiter til og fra driftsenheten.
+3. Bare følgende sauer og geiter innføres i driftsenheten:
+
+   1. Sauer og geiter fra driftsenheter med ubetydelig risiko for klassisk skrapesyke.
+   2. Sauer og geiter fra driftsenheter som har oppfylt vilkårene fastsatt i bokstav a)–i) i løpet av minst de siste sju årene eller minst like lenge som driftsenheten de skal innføres i, har oppfylt vilkårene fastsatt i disse bokstavene.
+   3. Sauer med prionproteingenotypen ARR/ARR og geiter med minst ett av allelene K222, D146 eller S146.
+   4. Sauer eller geiter som oppfyller vilkårene fastsatt i punkt i) eller ii), unntatt det tidsrommet de ble holdt på en sædstasjon, forutsatt at sædstasjonen oppfyller følgende vilkår:
+
+      - Sædstasjonen er godkjent i samsvar med del II kapittel 1 i delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)\*.
+      - I løpet av de siste sju årene ble bare sauer og geiter fra driftsenheter som i løpet av denne perioden har oppfylt vilkårene fastsatt i bokstav a), b) og e), og som har vært gjenstand for regelmessig kontroll av en offisiell veterinær eller en veterinær godkjent av vedkommende myndighet, innført i sædstasjonen.
+      - Ingen tilfeller av klassisk skrapesyke har vært bekreftet på sædstasjonen i løpet av de siste sju årene.
+      - Det er gjennomført biosikkerhetstiltak på sædstasjonen for å sikre at sauer og geiter som holdes på stasjonen, og som kommer fra driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke, verken direkte eller indirekte har kontakt med sauer og geiter fra driftsenheter med lavere status for klassisk skrapesyke.
+4. Driftsenheten blir regelmessig kontrollert for å verifisere overholdelse av bestemmelsene fastsatt i bokstav a)–i) av en offisiell veterinær eller en veterinær godkjent for dette formålet av vedkommende myndighet; dette skal skje minst en gang i året.
+5. Ingen tilfeller av klassisk skrapesyke er blitt bekreftet.
+6. Alle sauer og geiter eldre enn 18 måneder som er selvdøde eller avlivet for andre formål enn slakting for konsum, skal undersøkes i laboratorium for klassisk skrapesyke i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C nr. 3.2.
+
+   Som unntak fra dette spesifikke kravet kan medlemsstatene beslutte at alle sauer og geiter eldre enn 18 måneder uten kommersiell verdi som avlives på slutten av sitt produktive liv i stedet for å slaktes for konsum, undersøkes av en offentlig veterinær, og alle som viser tegn på kakeksi eller nevrologiske tegn, undersøkes for klassisk skrapesyke i et laboratorium i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C nr. 3.2.
+7. Bare følgende egg og embryoer fra sau og geit innføres i driftsenheten:
+
+   1. Egg og embryoer fra donordyr som siden fødselen er blitt holdt i en medlemsstat med ubetydelig risiko for klassisk skrapesyke eller i en driftsenhet med ubetydelig eller kontrollert risiko for klassisk skrapesyke, eller som oppfyller følgende krav:
+
+      - De er gitt et varig merke slik at de kan spores tilbake til driftsstedet der de ble født.
+      - De er siden fødselen blitt holdt i driftsenheter der det har ikke vært noe bekreftet tilfelle av klassisk skrapesyke så lenge de har oppholdt seg der.
+      - De viste ingen kliniske tegn på klassisk skrapesyke på tidspunktet for oppsamling av egg eller embryoer.
+   2. Egg og embryoer fra sauer med minst ett ARR-allel og fra geiter med minst ett av allelene K222, D146 eller S146.
+8. Bare følgende sæd fra sauer og geiter innføres i driftsenheten:
+
+   1. Sæd fra donordyr som siden fødselen er blitt holdt i en medlemsstat med ubetydelig risiko for klassisk skrapesyke eller i en driftsenhet med ubetydelig risiko eller kontrollert risiko for klassisk skrapesyke, eller som oppfyller følgende krav:
+
+      - De er gitt et varig merke slik at de kan spores tilbake til driftsstedet der de ble født.
+      - De viste ingen kliniske tegn på klassisk skrapesyke på tidspunktet for sædoppsamling.
+   2. Sæd fra værer med prionproteingenotypen ARR/ARR og bukker med minst ett av allelene K222, D146 eller S146.
+9. Sauene og geitene i driftsenheten har ingen direkte eller indirekte kontakt med og beiter ikke på samme beite som sauer og geiter fra driftsenheter med lavere status for klassisk skrapesyke.
 
 1.3.
 
-En driftsenhet med sauer og/eller geiter kan anerkjennes som en driftsenhet med kontrollert risiko for klassisk skrapesyke dersom den har oppfylt følgende vilkår i løpet av minst de siste tre årene:Sauene og geitene er gitt et varig merke, og det føres register slik at dyrene kan spores tilbake til driftsenheten der de ble født.Det føres register over forflytninger av sauer og geiter til og fra driftsenheten.Bare følgende sauer og geiter innføres i driftsenheten:Sauer og geiter fra driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke.Sauer og geiter fra driftsenheter som har oppfylt vilkårene fastsatt i bokstav a)–i) i løpet av minst de siste tre årene eller minst like lenge som driftsenheten de skal innføres i, har oppfylt vilkårene fastsatt i disse bokstavene.Sauer med prionproteingenotypen ARR/ARR og geiter med minst ett av allelene K222, D146 eller S146.Sauer eller geiter som oppfyller vilkårene fastsatt i punkt i) eller ii), unntatt det tidsrommet de ble holdt på en sædstasjon, forutsatt at sædstasjonen oppfyller følgende vilkår:Sædstasjonen er godkjent i samsvar med del II kapittel 1 i delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686).I løpet av de siste tre årene ble bare sauer og geiter fra driftsenheter som i løpet av denne perioden har oppfylt vilkårene fastsatt i bokstav a), b) og e), og som har vært gjenstand for regelmessig kontroll av en offisiell veterinær eller en veterinær godkjent av vedkommende myndighet, innført i sædstasjonen.Ingen tilfeller av klassisk skrapesyke har vært bekreftet på sædstasjonen i løpet av de siste tre årene.Det er gjennomført biosikkerhetstiltak på sædstasjonen for å sikre at sauer og geiter som holdes på stasjonen, og som kommer fra driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke, verken direkte eller indirekte har kontakt med sauer og geiter fra driftsenheter med lavere status for klassisk skrapesyke.Driftsenheten blir regelmessig kontrollert for å verifisere overholdelse av bestemmelsene fastsatt i bokstav a)–i) av en offisiell veterinær eller en veterinær godkjent for dette formålet av vedkommende myndighet; dette skal skje minst en gang i året.Ingen tilfeller av klassisk skrapesyke er blitt bekreftet.Alle sauer og geiter eldre enn 18 måneder som er selvdøde eller avlivet for andre formål enn slakting for konsum, skal undersøkes i laboratorium for klassisk skrapesyke i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C nr. 3.2.Som unntak fra dette spesifikke kravet kan medlemsstatene beslutte at alle sauer og geiter eldre enn 18 måneder uten kommersiell verdi som avlives på slutten av sitt produktive liv i stedet for å slaktes for konsum, undersøkes av en offentlig veterinær, og alle som viser tegn på kakeksi eller nevrologiske tegn, undersøkes for klassisk skrapesyke i et laboratorium i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C nr. 3.2.Bare følgende egg og embryoer fra sau og geit innføres i driftsenheten:Egg og embryoer fra donordyr som siden fødselen er blitt holdt i en medlemsstat med ubetydelig risiko for klassisk skrapesyke eller i en driftsenhet med ubetydelig eller kontrollert risiko for klassisk skrapesyke, eller som oppfyller følgende krav:De er gitt et varig merke slik at de kan spores tilbake til driftsstedet der de ble født.De er siden fødselen blitt holdt i driftsenheter der det har ikke vært noe bekreftet tilfelle av klassisk skrapesyke så lenge de har oppholdt seg der.De viste ingen kliniske tegn på klassisk skrapesyke på tidspunktet for oppsamling av embryoer eller egg.Egg og embryoer fra sauer med minst ett ARR-allel og fra geiter med minst ett av allelene K222, D146 eller S146.Bare følgende sæd fra sauer og geiter innføres i driftsenheten:Sæd fra donordyr som siden fødselen er blitt holdt i en medlemsstat med ubetydelig risiko for klassisk skrapesyke eller i en driftsenhet med ubetydelig risiko eller med kontrollert risiko for klassisk skrapesyke, eller som oppfyller følgende krav:De er gitt et varig merke slik at de kan spores tilbake til driftsstedet der de ble født.De viste ingen kliniske tegn på klassisk skrapesyke på tidspunktet for sædoppsamling.Sæd fra værer med prionproteingenotypen ARR/ARR og bukker med minst ett av allelene K222, D146 eller S146.Sauene og geitene i driftsenheten har ingen direkte eller indirekte kontakt med og beiter ikke på samme beite som sauer og geiter fra driftsenheter med lavere status for klassisk skrapesyke.
+En driftsenhet med sauer og/eller geiter kan anerkjennes som en driftsenhet med kontrollert risiko for klassisk skrapesyke dersom den har oppfylt følgende vilkår i løpet av minst de siste tre årene:
+
+1. Sauene og geitene er gitt et varig merke, og det føres register slik at dyrene kan spores tilbake til driftsenheten der de ble født.
+2. Det føres register over forflytninger av sauer og geiter til og fra driftsenheten.
+3. Bare følgende sauer og geiter innføres i driftsenheten:
+
+   1. Sauer og geiter fra driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke.
+   2. Sauer og geiter fra driftsenheter som har oppfylt vilkårene fastsatt i bokstav a)–i) i løpet av minst de siste tre årene eller minst like lenge som driftsenheten de skal innføres i, har oppfylt vilkårene fastsatt i disse bokstavene.
+   3. Sauer med prionproteingenotypen ARR/ARR og geiter med minst ett av allelene K222, D146 eller S146.
+   4. Sauer eller geiter som oppfyller vilkårene fastsatt i punkt i) eller ii), unntatt det tidsrommet de ble holdt på en sædstasjon, forutsatt at sædstasjonen oppfyller følgende vilkår:
+
+      - Sædstasjonen er godkjent i samsvar med del II kapittel 1 i delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686).
+      - I løpet av de siste tre årene ble bare sauer og geiter fra driftsenheter som i løpet av denne perioden har oppfylt vilkårene fastsatt i bokstav a), b) og e), og som har vært gjenstand for regelmessig kontroll av en offisiell veterinær eller en veterinær godkjent av vedkommende myndighet, innført i sædstasjonen.
+      - Ingen tilfeller av klassisk skrapesyke har vært bekreftet på sædstasjonen i løpet av de siste tre årene.
+      - Det er gjennomført biosikkerhetstiltak på sædstasjonen for å sikre at sauer og geiter som holdes på stasjonen, og som kommer fra driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke, verken direkte eller indirekte har kontakt med sauer og geiter fra driftsenheter med lavere status for klassisk skrapesyke.
+4. Driftsenheten blir regelmessig kontrollert for å verifisere overholdelse av bestemmelsene fastsatt i bokstav a)–i) av en offisiell veterinær eller en veterinær godkjent for dette formålet av vedkommende myndighet; dette skal skje minst en gang i året.
+5. Ingen tilfeller av klassisk skrapesyke er blitt bekreftet.
+6. Alle sauer og geiter eldre enn 18 måneder som er selvdøde eller avlivet for andre formål enn slakting for konsum, skal undersøkes i laboratorium for klassisk skrapesyke i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C nr. 3.2.
+
+   Som unntak fra dette spesifikke kravet kan medlemsstatene beslutte at alle sauer og geiter eldre enn 18 måneder uten kommersiell verdi som avlives på slutten av sitt produktive liv i stedet for å slaktes for konsum, undersøkes av en offentlig veterinær, og alle som viser tegn på kakeksi eller nevrologiske tegn, undersøkes for klassisk skrapesyke i et laboratorium i samsvar med laboratoriemetodene og protokollene fastsatt i vedlegg X kapittel C nr. 3.2.
+7. Bare følgende egg og embryoer fra sau og geit innføres i driftsenheten:
+
+   1. Egg og embryoer fra donordyr som siden fødselen er blitt holdt i en medlemsstat med ubetydelig risiko for klassisk skrapesyke eller i en driftsenhet med ubetydelig eller kontrollert risiko for klassisk skrapesyke, eller som oppfyller følgende krav:
+
+      - De er gitt et varig merke slik at de kan spores tilbake til driftsstedet der de ble født.
+      - De er siden fødselen blitt holdt i driftsenheter der det har ikke vært noe bekreftet tilfelle av klassisk skrapesyke så lenge de har oppholdt seg der.
+      - De viste ingen kliniske tegn på klassisk skrapesyke på tidspunktet for oppsamling av embryoer eller egg.
+   2. Egg og embryoer fra sauer med minst ett ARR-allel og fra geiter med minst ett av allelene K222, D146 eller S146.
+8. Bare følgende sæd fra sauer og geiter innføres i driftsenheten:
+
+   1. Sæd fra donordyr som siden fødselen er blitt holdt i en medlemsstat med ubetydelig risiko for klassisk skrapesyke eller i en driftsenhet med ubetydelig risiko eller med kontrollert risiko for klassisk skrapesyke, eller som oppfyller følgende krav:
+
+      - De er gitt et varig merke slik at de kan spores tilbake til driftsstedet der de ble født.
+      - De viste ingen kliniske tegn på klassisk skrapesyke på tidspunktet for sædoppsamling.
+   2. Sæd fra værer med prionproteingenotypen ARR/ARR og bukker med minst ett av allelene K222, D146 eller S146.
+9. Sauene og geitene i driftsenheten har ingen direkte eller indirekte kontakt med og beiter ikke på samme beite som sauer og geiter fra driftsenheter med lavere status for klassisk skrapesyke.
 
 ◄**M74**
 
@@ -2002,8 +3237,22 @@ Medlemsstater eller soner i en medlemsstat med ubetydelig risiko for klassisk sk
 
 2.1
 
-Dersom en medlemsstat anser at risikoen for klassisk skrapesyke er ubetydelig på dens territorium eller en del av dens territorium, skal den framlegge relevant dokumentasjon for Kommisjonen, særlig med opplysninger om følgende:Det har vært gjennomført en risikovurdering som har vist at det er iverksatt hensiktsmessige tiltak av tilstrekkelig varighet til å håndtere enhver risiko som er identifisert. Risikovurderingen skal være tilstrekkelig omfattende til at den kartlegger alle potensielle faktorer med hensyn til forekomsten av klassisk skrapesyke og setter dem i et historisk perspektiv, særligimport eller innførsel av sauer og geiter eller sæd og embryoer fra sauer og geiter som kan være infisert av klassisk skrapesyke,kunnskapsnivået om saue- og geitebestandenes struktur og oppdrettspraksis,fôringspraksis, herunder forbruk av kjøttbeinmel eller fettgrever fra drøvtyggere,import av melk og melkeprodukter fra sauer og geiter beregnet til bruk i fôr til sauer og geiter.►**M55**Det har blitt tatt prøver minst de sju siste årene av sauer og geiter som har vist kliniske tegn som er forenlige med klassisk skrapesyke,I minst de sju siste årene har et tilstrekkelig stort antall sauer og geiter eldre enn 18 måneder som er representative for sauer og geiter som er slaktet, har dødd eller avlivet av andre årsaker enn slakting for konsum, årlig vært gjenstand for undersøkelser som gjør det mulig å påvise klassisk skrapesyke med en sannsynlighet på 95 % dersom sykdommen er til stede i bestanden med en prevalens som overstiger 0,1 %, og det har ikke blitt ra portert noen tilfeller av klassisk skrapesyke i perioden.
-◄**M55**Fôring av sauer og geiter med kjøttbeinmel eller fettgrever fra drøvtyggere er forbudt, og forbudet har vært håndhevet i hele medlemsstaten i minst sju år.Innførsel fra andre medlemsstater av sauer og geiter samt sæd og embryoer fra disse, gjennomføres i samsvar med nr. 4.1 bokstav b) eller nr. 4.2.Innførsel fra tredjestater av sauer og geiter samt sæd og embryoer fra disse, gjennomføres i samsvar med kapittel E eller kapittel H i vedlegg IX.
+Dersom en medlemsstat anser at risikoen for klassisk skrapesyke er ubetydelig på dens territorium eller en del av dens territorium, skal den framlegge relevant dokumentasjon for Kommisjonen, særlig med opplysninger om følgende:
+
+1. Det har vært gjennomført en risikovurdering som har vist at det er iverksatt hensiktsmessige tiltak av tilstrekkelig varighet til å håndtere enhver risiko som er identifisert. Risikovurderingen skal være tilstrekkelig omfattende til at den kartlegger alle potensielle faktorer med hensyn til forekomsten av klassisk skrapesyke og setter dem i et historisk perspektiv, særlig
+
+   1. import eller innførsel av sauer og geiter eller sæd og embryoer fra sauer og geiter som kan være infisert av klassisk skrapesyke,
+   2. kunnskapsnivået om saue- og geitebestandenes struktur og oppdrettspraksis,
+   3. fôringspraksis, herunder forbruk av kjøttbeinmel eller fettgrever fra drøvtyggere,
+   4. import av melk og melkeprodukter fra sauer og geiter beregnet til bruk i fôr til sauer og geiter.
+
+   ►**M55**
+2. Det har blitt tatt prøver minst de sju siste årene av sauer og geiter som har vist kliniske tegn som er forenlige med klassisk skrapesyke,
+3. I minst de sju siste årene har et tilstrekkelig stort antall sauer og geiter eldre enn 18 måneder som er representative for sauer og geiter som er slaktet, har dødd eller avlivet av andre årsaker enn slakting for konsum, årlig vært gjenstand for undersøkelser som gjør det mulig å påvise klassisk skrapesyke med en sannsynlighet på 95 % dersom sykdommen er til stede i bestanden med en prevalens som overstiger 0,1 %, og det har ikke blitt ra portert noen tilfeller av klassisk skrapesyke i perioden.
+   ◄**M55**
+4. Fôring av sauer og geiter med kjøttbeinmel eller fettgrever fra drøvtyggere er forbudt, og forbudet har vært håndhevet i hele medlemsstaten i minst sju år.
+5. Innførsel fra andre medlemsstater av sauer og geiter samt sæd og embryoer fra disse, gjennomføres i samsvar med nr. 4.1 bokstav b) eller nr. 4.2.
+6. Innførsel fra tredjestater av sauer og geiter samt sæd og embryoer fra disse, gjennomføres i samsvar med kapittel E eller kapittel H i vedlegg IX.
 
 2.2
 
@@ -2017,9 +3266,15 @@ På bakgrunn av denne underretningen kan status som innebærer ubetydelig risiko
 
 2.3.
 
-Følgende medlemsstater eller områder i medlemsstater har ubetydelig risiko for klassisk skrapesyke:ØsterrikeTsjekkiaSloveniaFinlandSverige.
-◄**M76**
-►**M50**
+Følgende medlemsstater eller områder i medlemsstater har ubetydelig risiko for klassisk skrapesyke:
+
+- Østerrike
+- Tsjekkia
+- Slovenia
+- Finland
+- Sverige.
+  ◄**M76**
+  ►**M50**
 
 3\.
 
@@ -2027,13 +3282,28 @@ Nasjonalt program for bekjempelse av klassisk skrapesyke:
 
 3.1
 
-En medlemsstat som har et nasjonalt program for bekjempelse av klassisk skrapesyke som dekker hele dens territorium,kan framlegge dette programmet for Kommisjonen med nærmere opplysninger omfordelingen av klassisk skrapesyke i medlemsstaten,begrunnelsen for det nasjonale bekjempelsesprogrammet, idet det tas hensyn til sykdommens alvor og nytte-kostnadsforholdet,de statuskategorier som er definert for driftsenheter, og de standarder som må oppnås i hver slik kategori,prøvingsmetodene som skal brukes,overvåkingsordningene for det nasjonale bekjempelsesprogrammet,tiltakene som skal treffes dersom en driftsenhet av noen grunn mister sin status,tiltakene som skal treffes dersom resultatene av kontrollene som gjennomføres i samsvar med bestemmelsene i det nasjonale bekjempelsesprogrammet, er positive,programmet nevnt i bokstav a) kan godkjennes dersom det oppfyller kriteriene fastsatt i samme bokstav, etter framgangsmåten fastsatt i artikkel 24 nr. 2; endringer av eller tillegg til programmene framlagt av medlemsstatene, kan godkjennes etter framgangsmåten fastsatt i artikkel 24 nr. 2.
-◄**M50**
-►**M58**
+En medlemsstat som har et nasjonalt program for bekjempelse av klassisk skrapesyke som dekker hele dens territorium,
+
+1. kan framlegge dette programmet for Kommisjonen med nærmere opplysninger om
+
+   - fordelingen av klassisk skrapesyke i medlemsstaten,
+   - begrunnelsen for det nasjonale bekjempelsesprogrammet, idet det tas hensyn til sykdommens alvor og nytte-kostnadsforholdet,
+   - de statuskategorier som er definert for driftsenheter, og de standarder som må oppnås i hver slik kategori,
+   - prøvingsmetodene som skal brukes,
+   - overvåkingsordningene for det nasjonale bekjempelsesprogrammet,
+   - tiltakene som skal treffes dersom en driftsenhet av noen grunn mister sin status,
+   - tiltakene som skal treffes dersom resultatene av kontrollene som gjennomføres i samsvar med bestemmelsene i det nasjonale bekjempelsesprogrammet, er positive,
+2. programmet nevnt i bokstav a) kan godkjennes dersom det oppfyller kriteriene fastsatt i samme bokstav, etter framgangsmåten fastsatt i artikkel 24 nr. 2; endringer av eller tillegg til programmene framlagt av medlemsstatene, kan godkjennes etter framgangsmåten fastsatt i artikkel 24 nr. 2.
+   ◄**M50**
+   ►**M58**
 
 3.2.
 
-Følgende medlemsstaters nasjonale programmer for bekjempelse av skrapesyke godkjennes herved:DanmarkSloveniaNorge.2
+Følgende medlemsstaters nasjonale programmer for bekjempelse av skrapesyke godkjennes herved:
+
+- Danmark
+- Slovenia
+- Norge.2
 
 2 Norges nasjonal program for bekjempelse av skrapesyke er godkjent gjennom tilpasningstekst til EØS-avtalen, jf. EØS-komitébeslutning 161/2014.
 
@@ -2047,23 +3317,56 @@ Følgende vilkår får anvendelse:
 
 4.1.
 
-Sauer og geiter:Avlsdyr av sau og geit beregnet på andre medlemsstater enn medlemsstater med ubetydelig risiko for klassisk skrapesyke eller med et godkjent nasjonalt program for bekjempelse av skrapesyke skalkomme fra en driftsenhet eller driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke, ellerkomme fra en medlemsstat eller en sone i en medlemsstat med ubetydelig risiko for klassisk skrapesyke, eller
-►**M66**når det gjelder sauer, være av prionproteingenotypen ARR/ARR, og når det gjelder geiter, ha minst ett av allelene K222, D146 eller S146, forutsatt at de ikke kommer fra en driftsenhet som er underlagt restriksjonene angitt i vedlegg VII kapittel B nr. 3 og 4.
-◄**M66**Sauer og geiter for alle formål unntatt umiddelbar slakting, beregnet på medlemsstater med ubetydelig risiko for klassisk skrapesyke eller med et godkjent nasjonalt program for bekjempelse av skrapesyke skalkomme fra en driftsenhet eller driftsenheter med ubetydelig risiko for klassisk skrapesyke, ellerkomme fra en medlemsstat eller en sone i en medlemsstat med ubetydelig risiko for klassisk skrapesyke, eller
-►**M66**når det gjelder sauer, være av prionproteingenotypen ARR/ARR, og når det gjelder geiter, ha minst ett av allelene K222, D146 eller S146, forutsatt at de ikke kommer fra en driftsenhet som er underlagt restriksjonene angitt i vedlegg VII kapittel B nr. 3 og 4.
-◄**M66**►**M74**Som unntak fra bokstav a) og b) får kravene fastsatt i nevnte bokstaver ikke anvendelse på sauer og geiter som holdes i og flyttes utelukkende mellom avgrensede anlegg som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429)\*.◄**M74**Som unntak fra bokstav a) og b) kan vedkommende myndighet i en medlemsstat kan tillate handel innenfor Unionen med dyr som ikke oppfyller kravene fastsatt i nevnte bokstaver, forutsatt at den har innhentet forhåndssamtykke fra vedkommende myndighet i bestemmelsesmedlemsstaten for dyrene, og forutsatt at dyrene oppfyller følgende vilkår:
-►**M66**dyrerasen er en utryddelsestruet rase,dyrene er innført i en stambok for denne rasen i avsendermedlemsstaten. Stamboken er opprettet og vedlikeholdes av et avlslag som er anerkjent i samsvar med [artikkel 4 nr. 3 i forordning (EU) 2016/1012](eu/32016r1012/a4), eller av en vedkommende myndighet i denne medlemsstaten i samsvar med artikkel 38 i den samme forordningen. Dyrene skal også innføres i en stambok for denne rasen i bestemmelsesmedlemsstaten. Denne stamboken er også opprettet og vedlikeholdes av et avlslag som er anerkjent i samsvar med [artikkel 4 nr. 3 i forordning (EU) 2016/1012](eu/32016r1012/a4), eller av en vedkommende myndighet i denne medlemsstaten i samsvar med artikkel 38 i den samme forordningen,i avsendermedlemsstaten og i bestemmelsesmedlemsstaten gjennomfører avlslag eller vedkommende myndigheter nevnt i punkt ii) et avlsprogram som har som formål å bevare denne rasen,
-◄**M66**dyrene kommer ikke fra en driftsenhet som er underlagt restriksjonene fastsatt i kapittel B nr. 3 og 4 i vedlegg VII,
-►**M66**etter at dyrene som ikke oppfyller kravene i bokstav a) eller b), er ført inn i den mottakende driftsenheten i bestemmelsesmedlemsstaten, skal forflytning av alle sauer og geiter i denne driftsenheten begrenses i samsvar med vedlegg VII kapittel B nr. 3.4 i en periode på tre år. Når bestemmelsesmedlemsstaten har en ubetydelig risiko for klassisk skrapesyke eller har et godkjent nasjonalt program for bekjempelse av skrapesyke, skal denne restriksjonen opprettholdes i en periode på sju år.Som unntak fra første ledd i dette punktet skal slike restriksjoner på handel innenfor Unionen eller på forflytning av dyr innenfor medlemsstaten ikke gjelde for dyr som tilhører en utryddelsestruet rase, og som skal sendes til en driftsenhet som avler opp denne utryddelsestruede rasen. Rasen skal være omfattet av et avlsprogram som har som formål å bevare denne rasen, og som gjennomføres av et avlslag som definert i [artikkel 2 nr. 5 i forordning (EU) 2016/1012](eu/32016r1012/a2) eller en vedkommende myndighet i samsvar med artikkel 38 i den samme forordningen.
-◄**M66**I forbindelse med handelen innenfor Unionen eller den innenlands forflytningen som er nevnt i bokstav v) annet ledd, skal forflytning av alle sauer og geiter i driftsenheten eller driftsenhetene som mottar dyr i henhold til nevnte unntak, begrenses i samsvar med bokstav v) første og annet ledd.
+Sauer og geiter:
+
+1. Avlsdyr av sau og geit beregnet på andre medlemsstater enn medlemsstater med ubetydelig risiko for klassisk skrapesyke eller med et godkjent nasjonalt program for bekjempelse av skrapesyke skal
+
+   1. komme fra en driftsenhet eller driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke, eller
+   2. komme fra en medlemsstat eller en sone i en medlemsstat med ubetydelig risiko for klassisk skrapesyke, eller
+      ►**M66**
+   3. når det gjelder sauer, være av prionproteingenotypen ARR/ARR, og når det gjelder geiter, ha minst ett av allelene K222, D146 eller S146, forutsatt at de ikke kommer fra en driftsenhet som er underlagt restriksjonene angitt i vedlegg VII kapittel B nr. 3 og 4.
+      ◄**M66**
+2. Sauer og geiter for alle formål unntatt umiddelbar slakting, beregnet på medlemsstater med ubetydelig risiko for klassisk skrapesyke eller med et godkjent nasjonalt program for bekjempelse av skrapesyke skal
+
+   1. komme fra en driftsenhet eller driftsenheter med ubetydelig risiko for klassisk skrapesyke, eller
+   2. komme fra en medlemsstat eller en sone i en medlemsstat med ubetydelig risiko for klassisk skrapesyke, eller
+      ►**M66**
+   3. når det gjelder sauer, være av prionproteingenotypen ARR/ARR, og når det gjelder geiter, ha minst ett av allelene K222, D146 eller S146, forutsatt at de ikke kommer fra en driftsenhet som er underlagt restriksjonene angitt i vedlegg VII kapittel B nr. 3 og 4.
+      ◄**M66**
+
+   ►**M74**
+3. Som unntak fra bokstav a) og b) får kravene fastsatt i nevnte bokstaver ikke anvendelse på sauer og geiter som holdes i og flyttes utelukkende mellom avgrensede anlegg som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429)\*.
+
+   ◄**M74**
+4. Som unntak fra bokstav a) og b) kan vedkommende myndighet i en medlemsstat kan tillate handel innenfor Unionen med dyr som ikke oppfyller kravene fastsatt i nevnte bokstaver, forutsatt at den har innhentet forhåndssamtykke fra vedkommende myndighet i bestemmelsesmedlemsstaten for dyrene, og forutsatt at dyrene oppfyller følgende vilkår:
+   ►**M66**
+
+   1. dyrerasen er en utryddelsestruet rase,
+   2. dyrene er innført i en stambok for denne rasen i avsendermedlemsstaten. Stamboken er opprettet og vedlikeholdes av et avlslag som er anerkjent i samsvar med [artikkel 4 nr. 3 i forordning (EU) 2016/1012](eu/32016r1012/a4), eller av en vedkommende myndighet i denne medlemsstaten i samsvar med artikkel 38 i den samme forordningen. Dyrene skal også innføres i en stambok for denne rasen i bestemmelsesmedlemsstaten. Denne stamboken er også opprettet og vedlikeholdes av et avlslag som er anerkjent i samsvar med [artikkel 4 nr. 3 i forordning (EU) 2016/1012](eu/32016r1012/a4), eller av en vedkommende myndighet i denne medlemsstaten i samsvar med artikkel 38 i den samme forordningen,
+   3. i avsendermedlemsstaten og i bestemmelsesmedlemsstaten gjennomfører avlslag eller vedkommende myndigheter nevnt i punkt ii) et avlsprogram som har som formål å bevare denne rasen,
+      ◄**M66**
+   4. dyrene kommer ikke fra en driftsenhet som er underlagt restriksjonene fastsatt i kapittel B nr. 3 og 4 i vedlegg VII,
+      ►**M66**
+   5. etter at dyrene som ikke oppfyller kravene i bokstav a) eller b), er ført inn i den mottakende driftsenheten i bestemmelsesmedlemsstaten, skal forflytning av alle sauer og geiter i denne driftsenheten begrenses i samsvar med vedlegg VII kapittel B nr. 3.4 i en periode på tre år. Når bestemmelsesmedlemsstaten har en ubetydelig risiko for klassisk skrapesyke eller har et godkjent nasjonalt program for bekjempelse av skrapesyke, skal denne restriksjonen opprettholdes i en periode på sju år.
+
+      Som unntak fra første ledd i dette punktet skal slike restriksjoner på handel innenfor Unionen eller på forflytning av dyr innenfor medlemsstaten ikke gjelde for dyr som tilhører en utryddelsestruet rase, og som skal sendes til en driftsenhet som avler opp denne utryddelsestruede rasen. Rasen skal være omfattet av et avlsprogram som har som formål å bevare denne rasen, og som gjennomføres av et avlslag som definert i [artikkel 2 nr. 5 i forordning (EU) 2016/1012](eu/32016r1012/a2) eller en vedkommende myndighet i samsvar med artikkel 38 i den samme forordningen.
+      ◄**M66**
+
+   I forbindelse med handelen innenfor Unionen eller den innenlands forflytningen som er nevnt i bokstav v) annet ledd, skal forflytning av alle sauer og geiter i driftsenheten eller driftsenhetene som mottar dyr i henhold til nevnte unntak, begrenses i samsvar med bokstav v) første og annet ledd.
 
 \* ►**M74** Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen») (EUT L 84 av 31.3.2016, s. 1). ►**M74**
 
 4.2.
 
-Sæd og embryoer fra sau og geit skaloppsamles fra dyr som siden fødselen og uten avbrudd har vært holdt i en driftsenhet eller driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke, med mindre driftsenheten er en sædstasjon, forutsatt at sædstasjonen oppfyller vilkårene fastsatt i nr. 1.3 bokstav c) iv), elleroppsamles fra dyr som i de tre siste årene før oppsamlingen uten avbrudd har vært holdt i en eller flere driftsenheter som har oppfylt alle vilkår fastsatt i nr. 1.3 bokstav a)–f) i tre år, med mindre driftsenheten er en sædstasjon, forutsatt at sædstasjonen oppfyller vilkårene fastsatt i nr. 1.3 bokstav c) iv), elleroppsamles fra dyr som siden fødselen uten avbrudd har vært holdt i en stat eller sone med ubetydelig risiko for klassisk skrapesyke, eller
-►**M74**når det gjelder sæd fra sauer, oppsamles fra hanndyr med prionproteingenotypen ARR/ARR, og når det gjelder sæd fra geiter, oppsamles fra hanndyr med minst ett av allelene K222, D146 eller S146, ellernår det gjelder embryoer fra sauer, ha minst ett ARR-allel, og når det gjelder embryoer fra geiter, ha minst ett av allelene K222, D146 eller S146.
-◄**M74**
+Sæd og embryoer fra sau og geit skal
+
+1. oppsamles fra dyr som siden fødselen og uten avbrudd har vært holdt i en driftsenhet eller driftsenheter med ubetydelig eller kontrollert risiko for klassisk skrapesyke, med mindre driftsenheten er en sædstasjon, forutsatt at sædstasjonen oppfyller vilkårene fastsatt i nr. 1.3 bokstav c) iv), eller
+2. oppsamles fra dyr som i de tre siste årene før oppsamlingen uten avbrudd har vært holdt i en eller flere driftsenheter som har oppfylt alle vilkår fastsatt i nr. 1.3 bokstav a)–f) i tre år, med mindre driftsenheten er en sædstasjon, forutsatt at sædstasjonen oppfyller vilkårene fastsatt i nr. 1.3 bokstav c) iv), eller
+3. oppsamles fra dyr som siden fødselen uten avbrudd har vært holdt i en stat eller sone med ubetydelig risiko for klassisk skrapesyke, eller
+   ►**M74**
+4. når det gjelder sæd fra sauer, oppsamles fra hanndyr med prionproteingenotypen ARR/ARR, og når det gjelder sæd fra geiter, oppsamles fra hanndyr med minst ett av allelene K222, D146 eller S146, eller
+5. når det gjelder embryoer fra sauer, ha minst ett ARR-allel, og når det gjelder embryoer fra geiter, ha minst ett av allelene K222, D146 eller S146.
+   ◄**M74**
 
 ◄**M55**
 
@@ -2083,11 +3386,24 @@ Liste over medlemsstater og områder i medlemsstater som er opprettet i forbinde
 
 1.1.
 
-Medlemsstater der det er bekreftet tilfeller av skrantesyke:FinlandSverige
+Medlemsstater der det er bekreftet tilfeller av skrantesyke:
+
+1. Finland
+2. Sverige
 
 1.2.
 
-Områder i Finland og Sverige som er definert i forbindelse med risikoen for skrantesyke knyttet til tradisjonelle grensekryssende forflytninger av levende halvtamme reinsdyr til og fra Norge:i Finland: området mellom den norsk-finske grensen og det norsk-finske reingjerdeti Sverige:Norrbottens lenVästerbottens lenJämtlands lenVästernorrlands lenÄlvdalen kommune i Dalarnas lenKommunene Nordanstig, Hudiksvall og Söderhamn i Gävleborgs len
+Områder i Finland og Sverige som er definert i forbindelse med risikoen for skrantesyke knyttet til tradisjonelle grensekryssende forflytninger av levende halvtamme reinsdyr til og fra Norge:
+
+1. i Finland: området mellom den norsk-finske grensen og det norsk-finske reingjerdet
+2. i Sverige:
+
+   - Norrbottens len
+   - Västerbottens len
+   - Jämtlands len
+   - Västernorrlands len
+   - Älvdalen kommune i Dalarnas len
+   - Kommunene Nordanstig, Hudiksvall og Söderhamn i Gävleborgs len
 
 2\.
 
@@ -2099,7 +3415,16 @@ Forflytning av levende hjortedyr fra Norge til Unionen er forbudt.
 
 2.2.
 
-Som unntak fra nr. 2.1 er følgende forflytninger av levende hjortedyr tillatt:Forflytninger fra Norge til de områdene i Sverige som er nevnt i nr. 1.2 bokstav b), av levende halvtamme reinsdyr for sesongbeite, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til slike forflytninger.Retur fra Norge til de områdene i Sverige som er oppført i nr. 1.2 bokstav b), av levende halvtamme reinsdyr etter sesongbeite i Norge, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til slike forflytninger.Forflytninger fra Norge til de områdene i Finland som er oppført i nr. 1.2 bokstav a), av levende halvtamme reinsdyr for sesongbeite.Retur fra Norge til Finland av levende halvtamme reinsdyr som har beitet i Norge i området mellom den norsk-finske grensen og det norsk-finske reingjerdet.Forflytninger fra Norge til Sverige eller Finland av levende hjortedyr for direkte slakting, forutsatt at vedkommende myndighet i bestemmelsesmedlemsstaten på forhånd gir sitt skriftlige samtykke til slike forflytninger.Forflytninger fra Norge til de områdene i Sverige som er nevnt i nr. 1.2 bokstav b), av levende halvtamme reinsdyr for kultur- eller idrettsarrangementer, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til slike forflytninger.Retur fra Norge til de områdene i Sverige som er oppført i nr. 1.2 bokstav b), av levende halvtamme reinsdyr etter at de har vært brukt i kultur- eller idrettsarrangementer i Norge, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til forflytning av hver forsendelse.Transitt av levende hjortedyr fra Norge gjennom Sverige eller Finland og bestemt til Norge, forutsatt at vedkommende myndighet i transittmedlemsstaten på forhånd gir sitt skriftlige samtykke.
+Som unntak fra nr. 2.1 er følgende forflytninger av levende hjortedyr tillatt:
+
+1. Forflytninger fra Norge til de områdene i Sverige som er nevnt i nr. 1.2 bokstav b), av levende halvtamme reinsdyr for sesongbeite, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+2. Retur fra Norge til de områdene i Sverige som er oppført i nr. 1.2 bokstav b), av levende halvtamme reinsdyr etter sesongbeite i Norge, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+3. Forflytninger fra Norge til de områdene i Finland som er oppført i nr. 1.2 bokstav a), av levende halvtamme reinsdyr for sesongbeite.
+4. Retur fra Norge til Finland av levende halvtamme reinsdyr som har beitet i Norge i området mellom den norsk-finske grensen og det norsk-finske reingjerdet.
+5. Forflytninger fra Norge til Sverige eller Finland av levende hjortedyr for direkte slakting, forutsatt at vedkommende myndighet i bestemmelsesmedlemsstaten på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+6. Forflytninger fra Norge til de områdene i Sverige som er nevnt i nr. 1.2 bokstav b), av levende halvtamme reinsdyr for kultur- eller idrettsarrangementer, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+7. Retur fra Norge til de områdene i Sverige som er oppført i nr. 1.2 bokstav b), av levende halvtamme reinsdyr etter at de har vært brukt i kultur- eller idrettsarrangementer i Norge, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til forflytning av hver forsendelse.
+8. Transitt av levende hjortedyr fra Norge gjennom Sverige eller Finland og bestemt til Norge, forutsatt at vedkommende myndighet i transittmedlemsstaten på forhånd gir sitt skriftlige samtykke.
 
 3\.
 
@@ -2111,7 +3436,12 @@ Forflytning av levende hjortedyr ut av områdene nevnt i nr. 1.2 er forbudt.
 
 3.2.
 
-Som unntak fra nr. 3.1 er følgende forflytninger av levende hjortedyr ut av områdene nevnt i nr. 1.2 tillatt:Forflytninger av levende hjortedyr til Norge, forutsatt at vedkommende myndighet i Norge på forhånd gir sitt skriftlige samtykke til slike forflytninger.Forflytninger av levende hjortedyr for direkte slakting i Finland eller Sverige, forutsatt at vedkommende myndighet i bestemmelsesmedlemsstaten på forhånd gir sitt skriftlige samtykke til slike forflytninger.Forflytninger til Finland fra de områdene i Sverige som er nevnt i nr. 1.2 bokstav b), av levende skogsrein, forutsatt at vedkommende myndighet i Finland på forhånd gir sitt skriftlige samtykke til slike forflytninger.Forflytninger av levende hjortedyr fra et avgrenset anlegg som definert i artikkel 4 nr. 48 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429),1 og som ligger i et område som er oppført i nr. 1.2 bokstav b) i dette vedlegget, til et avgrenset anlegg, som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429), i Sverige, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+Som unntak fra nr. 3.1 er følgende forflytninger av levende hjortedyr ut av områdene nevnt i nr. 1.2 tillatt:
+
+1. Forflytninger av levende hjortedyr til Norge, forutsatt at vedkommende myndighet i Norge på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+2. Forflytninger av levende hjortedyr for direkte slakting i Finland eller Sverige, forutsatt at vedkommende myndighet i bestemmelsesmedlemsstaten på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+3. Forflytninger til Finland fra de områdene i Sverige som er nevnt i nr. 1.2 bokstav b), av levende skogsrein, forutsatt at vedkommende myndighet i Finland på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+4. Forflytninger av levende hjortedyr fra et avgrenset anlegg som definert i artikkel 4 nr. 48 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429),1 og som ligger i et område som er oppført i nr. 1.2 bokstav b) i dette vedlegget, til et avgrenset anlegg, som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429), i Sverige, forutsatt at vedkommende myndighet i Sverige på forhånd gir sitt skriftlige samtykke til slike forflytninger.
 
 4\.
 
@@ -2123,7 +3453,11 @@ Uten at det berører bestemmelsene i nr. 3 er forflytning av levende hjortedyr u
 
 4.2.
 
-Som unntak fra nr. 4.1 er følgende forflytninger av levende hjortedyr ut av en medlemsstat nevnt i nr. 1.1 tillatt:Forflytninger av levende hjortedyr for direkte slakting i en annen medlemsstat nevnt i nr. 1.1 eller i Norge.Forflytninger av levende hjortedyr for andre formål enn direkte slakting til en annen medlemsstat nevnt i nr. 1.1 eller til Norge, forutsatt at vedkommende myndighet i bestemmelsesmedlemsstaten på forhånd gir sitt skriftlige samtykke til slike forflytninger.Forflytninger av levende hjortedyr fra et avgrenset anlegg som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429), til et avgrenset anlegg, som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429), i en annen medlemsstat, forutsatt at vedkommende myndighet i bestemmelsesmedlemsstaten på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+Som unntak fra nr. 4.1 er følgende forflytninger av levende hjortedyr ut av en medlemsstat nevnt i nr. 1.1 tillatt:
+
+1. Forflytninger av levende hjortedyr for direkte slakting i en annen medlemsstat nevnt i nr. 1.1 eller i Norge.
+2. Forflytninger av levende hjortedyr for andre formål enn direkte slakting til en annen medlemsstat nevnt i nr. 1.1 eller til Norge, forutsatt at vedkommende myndighet i bestemmelsesmedlemsstaten på forhånd gir sitt skriftlige samtykke til slike forflytninger.
+3. Forflytninger av levende hjortedyr fra et avgrenset anlegg som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429), til et avgrenset anlegg, som definert i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429), i en annen medlemsstat, forutsatt at vedkommende myndighet i bestemmelsesmedlemsstaten på forhånd gir sitt skriftlige samtykke til slike forflytninger.
 
 1 Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen») (EUT L 84 av 31.3.2016, s. 1).
 
@@ -2143,13 +3477,26 @@ Vilkår for handel innenfor EØS-området med visse produkter av animalsk opprin
 
 Produkter
 
-Følgende produkter av animalsk opprinnelse er unntatt fra forbudet nevnt i artikkel 16 nr. 3, forutsatt at de er framstilt av storfe, sauer og geiter som oppfyller kravene i del B:ferskt kjøtt,hakket kjøtt,tilberedt kjøtt,kjøttprodukter.
+Følgende produkter av animalsk opprinnelse er unntatt fra forbudet nevnt i artikkel 16 nr. 3, forutsatt at de er framstilt av storfe, sauer og geiter som oppfyller kravene i del B:
+
+- ferskt kjøtt,
+- hakket kjøtt,
+- tilberedt kjøtt,
+- kjøttprodukter.
 
 ###### Avsnitt B
 
 Krav
 
-Produktene nevnt i del A må oppfylle følgende krav:Dyrene som produktene fra storfe, sauer og geiter kommer fra, har ikke blitt fôret med kjøttbeinmel eller fettgrever fra drøvtyggere og har gjennomgått kontroll ante mortem og post mortem.Dyrene som produktene fra storfe, sauer og geiter kommer fra, er ikke slaktet etter bedøving ved innsprøyting av gass i kraniehulrommet eller avlivet med samme metode, og er heller ikke slaktet etter bedøving ved ødeleggelse av sentralnervevev ved at et avlangt stavformet instrument føres inn i kraniehulen.Produktene fra storfe, sauer og geiter kommer ikke fraspesifisert risikomateriale som definert i vedlegg V,nerve- eller lymfevev som eksponeres under utbeiningen ellermekanisk utbeinet kjøtt fra bein fra storfe, sauer eller geiter.
+Produktene nevnt i del A må oppfylle følgende krav:
+
+1. Dyrene som produktene fra storfe, sauer og geiter kommer fra, har ikke blitt fôret med kjøttbeinmel eller fettgrever fra drøvtyggere og har gjennomgått kontroll ante mortem og post mortem.
+2. Dyrene som produktene fra storfe, sauer og geiter kommer fra, er ikke slaktet etter bedøving ved innsprøyting av gass i kraniehulrommet eller avlivet med samme metode, og er heller ikke slaktet etter bedøving ved ødeleggelse av sentralnervevev ved at et avlangt stavformet instrument føres inn i kraniehulen.
+3. Produktene fra storfe, sauer og geiter kommer ikke fra
+
+   1. spesifisert risikomateriale som definert i vedlegg V,
+   2. nerve- eller lymfevev som eksponeres under utbeiningen eller
+   3. mekanisk utbeinet kjøtt fra bein fra storfe, sauer eller geiter.
 
 ◄**M31**
 
@@ -2181,9 +3528,23 @@ Import av storfe1
 
 Import fra en stat eller region med en ubetydelig BSE-risiko
 
-Ved import av storfe fra en stat eller region med en ubetydelig BSE-risiko skal det framlegges et helsesertifikat som attesterer atDyrene ble født og oppdrettet uten avbrudd i en stat eller region eller stater eller regioner som er klassifisert i samsvar med kommisjonsvedtak [2007/453/EF](eu/32007d0453)\* som stater eller regioner med en ubetydelig BSE-risiko,
-►**M64**Dyrene er identifisert ved hjelp av et permanent identifikasjonssystem som gjør det mulig å spore dem tilbake til mordyret og opprinnelsesbesetningen, og ikke er følgende storfe:
-◄**M64**alle tilfeller av BSE,alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med syke dyr i sitt første leveår, og som i dette tidsrommet i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret, ellerdersom resultatene av undersøkelsen nevnt i punkt ii) er usikre, alt storfe født i den samme besetningen som dyrene med BSE tolv måneder før eller etter dyrene med BSE ble født,ogDersom det har vært nasjonale tilfeller av BSE i den berørte staten, er dyrene født:etter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, i henhold til definisjonen i OIEs helseregelverk for landdyr, var effektivt iverksatt, ellerEtter at det siste nasjonale tilfellet av BSE ble født etter datoen for fôringsforbudet nevnt i i).
+Ved import av storfe fra en stat eller region med en ubetydelig BSE-risiko skal det framlegges et helsesertifikat som attesterer at
+
+1. Dyrene ble født og oppdrettet uten avbrudd i en stat eller region eller stater eller regioner som er klassifisert i samsvar med kommisjonsvedtak [2007/453/EF](eu/32007d0453)\* som stater eller regioner med en ubetydelig BSE-risiko,
+   ►**M64**
+2. Dyrene er identifisert ved hjelp av et permanent identifikasjonssystem som gjør det mulig å spore dem tilbake til mordyret og opprinnelsesbesetningen, og ikke er følgende storfe:
+   ◄**M64**
+
+   1. alle tilfeller av BSE,
+   2. alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med syke dyr i sitt første leveår, og som i dette tidsrommet i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret, eller
+   3. dersom resultatene av undersøkelsen nevnt i punkt ii) er usikre, alt storfe født i den samme besetningen som dyrene med BSE tolv måneder før eller etter dyrene med BSE ble født,
+
+og
+
+1. Dersom det har vært nasjonale tilfeller av BSE i den berørte staten, er dyrene født:
+
+   1. etter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, i henhold til definisjonen i OIEs helseregelverk for landdyr, var effektivt iverksatt, eller
+   2. Etter at det siste nasjonale tilfellet av BSE ble født etter datoen for fôringsforbudet nevnt i i).
 
 \* Kommisjonsvedtak [2007/453/EF](eu/32007d0453) av 29. juni 2007 om fastsetjing av BSE-status for medlemsstatar eller tredjestatar eller regionar i desse statane på grunnlag av BSE-risikoen deira (TEU L 172 av 30.6.2007, s. 84).
 
@@ -2191,17 +3552,40 @@ Ved import av storfe fra en stat eller region med en ubetydelig BSE-risiko skal 
 
 Import fra stater eller regioner med en kontrollert BSE-risiko
 
-Ved import av storfe fra en stat eller region med en kontrollert BSE-risiko skal det framlegges et helsesertifikat som attesterer atstaten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en kontrollert BSE-risiko,
-►**M64**dyrene er identifisert ved hjelp av et permanent identifikasjonssystem som gjør det mulig å spore dem tilbake til mordyret og opprinnelsesbesetningen, og ikke er følgende storfe:
-◄**M64**alle tilfeller av BSE,alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med syke dyr i sitt første leveår, og som i dette tidsrommet i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret, ellerdersom resultatene av undersøkelsen nevnt i ii) er usikre, alt storfe født i den samme besetningen som dyrene med BSE tolv måneder før eller etter dyrene med BSE ble født.dyrene ble fødtetter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, i henhold til definisjonen i OIEs helseregelverk for landdyr, var effektivt iverksatt, elleretter datoen da det siste nasjonale tilfellet av BSE ble født, dersom dyrene ble født etter datoen for fôringsforbudet nevnt i i).
+Ved import av storfe fra en stat eller region med en kontrollert BSE-risiko skal det framlegges et helsesertifikat som attesterer at
+
+1. staten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en kontrollert BSE-risiko,
+   ►**M64**
+2. dyrene er identifisert ved hjelp av et permanent identifikasjonssystem som gjør det mulig å spore dem tilbake til mordyret og opprinnelsesbesetningen, og ikke er følgende storfe:
+   ◄**M64**
+
+   1. alle tilfeller av BSE,
+   2. alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med syke dyr i sitt første leveår, og som i dette tidsrommet i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret, eller
+   3. dersom resultatene av undersøkelsen nevnt i ii) er usikre, alt storfe født i den samme besetningen som dyrene med BSE tolv måneder før eller etter dyrene med BSE ble født.
+3. dyrene ble født
+
+   1. etter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, i henhold til definisjonen i OIEs helseregelverk for landdyr, var effektivt iverksatt, eller
+   2. etter datoen da det siste nasjonale tilfellet av BSE ble født, dersom dyrene ble født etter datoen for fôringsforbudet nevnt i i).
 
 ###### Avsnitt C
 
 Import fra stater eller regioner med en ikke-fastsatt BSE-risiko
 
-Ved import av storfe fra en stat eller region med en ikke-fastsatt BSE-risiko skal det framlegges et helsesertifikat som attesterer atstaten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en ikke-fastsatt BSE-risiko,fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere som definert i OIEs helseregelverk for landdyr, er forbudt, og forbudet har vært effektivt håndhevet i staten eller regionen,
-►**M64**dyrene er identifisert ved hjelp av et permanent identifikasjonssystem som gjør det mulig å spore dem tilbake til mordyret og opprinnelsesbesetningen, og ikke er følgende storfe:
-◄**M64**alle tilfeller av BSE,alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med syke dyr i sitt første leveår, og som i dette tidsrommet i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret, ellerdersom resultatene av undersøkelsen nevnt i ii) er usikre, alt storfe født i den samme besetningen som dyrene med BSE tolv måneder før eller etter dyrene med BSE ble født.dyrene ble fødtminst to år etter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, i henhold til definisjonen i OIEs helseregelverk for landdyr, var effektivt iverksatt, elleretter datoen da det siste nasjonale tilfellet av BSE ble født, dersom dyrene ble født etter datoen for fôringsforbudet nevnt i i).
+Ved import av storfe fra en stat eller region med en ikke-fastsatt BSE-risiko skal det framlegges et helsesertifikat som attesterer at
+
+1. staten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en ikke-fastsatt BSE-risiko,
+2. fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere som definert i OIEs helseregelverk for landdyr, er forbudt, og forbudet har vært effektivt håndhevet i staten eller regionen,
+   ►**M64**
+3. dyrene er identifisert ved hjelp av et permanent identifikasjonssystem som gjør det mulig å spore dem tilbake til mordyret og opprinnelsesbesetningen, og ikke er følgende storfe:
+   ◄**M64**
+
+   1. alle tilfeller av BSE,
+   2. alt storfe som i løpet av sitt første leveår ble oppdrettet sammen med syke dyr i sitt første leveår, og som i dette tidsrommet i henhold til undersøkelsen konsumerte det samme potensielt kontaminerte fôret, eller
+   3. dersom resultatene av undersøkelsen nevnt i ii) er usikre, alt storfe født i den samme besetningen som dyrene med BSE tolv måneder før eller etter dyrene med BSE ble født.
+4. dyrene ble født
+
+   1. minst to år etter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, i henhold til definisjonen i OIEs helseregelverk for landdyr, var effektivt iverksatt, eller
+   2. etter datoen da det siste nasjonale tilfellet av BSE ble født, dersom dyrene ble født etter datoen for fôringsforbudet nevnt i i).
 
 ### Kapittel C
 Import av produkter av animalsk opprinnelse fra storfe, sauer eller geiter
@@ -2210,21 +3594,48 @@ Import av produkter av animalsk opprinnelse fra storfe, sauer eller geiter
 
 Produkter
 
-Følgende produkter framstilt av storfe, sauer eller geiter som definert i følgende numre i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal være underlagt vilkårene fastsatt i avsnitt B, C eller D i dette kapittel, avhengig av opprinnelsesstatens BSE-risikokategori:ferskt kjøtt i henhold til nr. 1.10,kvernet kjøtt i henhold til nr. 1.13,mekanisk utbeinet kjøtt i henhold til nr. 1.14,bearbeidet kjøtt i henhold til nr. 1.15,kjøttprodukter i henhold til nr. 7.1,smeltet animalsk fett i henhold til nr. 7.5,fettgrever i henhold til nr. 7.6,gelatin i henhold til nr. 7.7, unntatt gelatin fra huder og skinn,kollagen i henhold til nr. 7.8, unntatt kollagen fra huder og skinn,behandlede mager, blærer og tarmer i henhold til nr. 7.9.
+Følgende produkter framstilt av storfe, sauer eller geiter som definert i følgende numre i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal være underlagt vilkårene fastsatt i avsnitt B, C eller D i dette kapittel, avhengig av opprinnelsesstatens BSE-risikokategori:
+
+- ferskt kjøtt i henhold til nr. 1.10,
+- kvernet kjøtt i henhold til nr. 1.13,
+- mekanisk utbeinet kjøtt i henhold til nr. 1.14,
+- bearbeidet kjøtt i henhold til nr. 1.15,
+- kjøttprodukter i henhold til nr. 7.1,
+- smeltet animalsk fett i henhold til nr. 7.5,
+- fettgrever i henhold til nr. 7.6,
+- gelatin i henhold til nr. 7.7, unntatt gelatin fra huder og skinn,
+- kollagen i henhold til nr. 7.8, unntatt kollagen fra huder og skinn,
+- behandlede mager, blærer og tarmer i henhold til nr. 7.9.
 
 ###### Avsnitt B
 
 Import fra en stat eller region med en ubetydelig BSE-risiko
 
-Ved import av produkter av animalsk opprinnelse fra storfe, sauer og geiter nevnt i avsnitt A fra en stat eller region med en ubetydelig BSE-risiko, skal det framlegges et hygienesertifikat som attesterer atstaten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en ubetydelig BSE-risiko,dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter kommer fra, har gjennomgått en kontroll ante mortem og post mortem med positivt resultat,produktene av animalsk opprinnelse fra storfe, sauer eller geiter ikke inneholder eller er framstilt av spesifisert risikomateriale i henhold til nr. 1 i vedlegg V til denne forordning,dersom dyrene som produktene av animalsk opprinnelse fra storfe kommer fra, stammer fra en stat eller region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en kontrollert eller ikke-fastsatt BSE-risiko, som unntak fra bokstav c) i dette avsnitt, kan skrotter, halve skrotter eller halve skrotter oppdelt i høyst tre stykker for engrossalg samt kvarte skrotter som ikke inneholder annet spesifisert risikomateriale enn virvelsøylen, herunder nerveknutene i ryggraden, importeres. Når det gjelder slik import, skal skrotter eller stykker av skrotter av storfe for engrossalg som inneholder virvelsøyle som defineres som spesifisert risikomateriale i samsvar med nr. 1 i vedlegg V til denne forordning, identifiseres ved hjelp av en klart synlig rød stripe på etiketten som nevnt i artikkel 13 eller 15 i forordning [(EF) nr. 1760/2000](eu/32000r1760). Dessuten skal en særskilt angivelse av antallet skrotter av storfe eller antallet skrotter av storfe oppdelt i stykker for engrossalg, fra hvilke det kreves at virvelsøylen fjernes, tilføyes det felles veterinærdokument til bruk ved import nevnt i artikkel 2 nr. 1 i forordning [(EF) nr. 136/2004](eu/32004r0136),produkter av animalsk opprinnelse fra storfe, sauer og geiter som ikke inneholder og ikke er framstilt av mekanisk utbeinet kjøtt fra bein fra storfe, sauer eller geiter, unntatt dersom dyrene som produktene av storfe, sauer og geiter kommer fra, ble født, oppdrettet uten avbrudd og slaktet i en stat eller region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med ubetydelig BSE-risiko der det ikke har forekommet nasjonale tilfeller av BSE,dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter kommer fra, ikke er slaktet etter bedøving ved innsprøyting av gass i kraniehulen eller avlivet med samme metode, eller slaktet etter bedøving ved ødeleggelse av sentralnervevev ved at et avlangt stavformet instrument føres inn i kraniehulen, unntatt dersom dyrene som produktene av storfe, sauer og geiter kommer fra, ble født, oppdrettet uten avbrudd og slaktet i en stat eller region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en ubetydelig BSE-risiko,dersom dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter er framstilt av, stammer fra en stat eller region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med ikke-fastsatt BSE-risiko, at dyrene ikke har blitt fôret med kjøttbeinmel eller fettgrever som definert i OIEs helseregelverk for landdyr,dersom dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter er framstilt av, stammer fra en stat eller region som er klassifisert i samsvar med kommisjonsvedtak [2007/453/EF](eu/32007d0453) som en stat eller region med ikke-fastsatt BSE-risiko, skal produktene være framstilt og håndtert på en måte som sikrer at de ikke inneholder og ikke er forurenset med nerve- eller lymfevev som eksponeres under utbeiningen.
+Ved import av produkter av animalsk opprinnelse fra storfe, sauer og geiter nevnt i avsnitt A fra en stat eller region med en ubetydelig BSE-risiko, skal det framlegges et hygienesertifikat som attesterer at
+
+1. staten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en ubetydelig BSE-risiko,
+2. dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter kommer fra, har gjennomgått en kontroll ante mortem og post mortem med positivt resultat,
+3. produktene av animalsk opprinnelse fra storfe, sauer eller geiter ikke inneholder eller er framstilt av spesifisert risikomateriale i henhold til nr. 1 i vedlegg V til denne forordning,
+4. dersom dyrene som produktene av animalsk opprinnelse fra storfe kommer fra, stammer fra en stat eller region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en kontrollert eller ikke-fastsatt BSE-risiko, som unntak fra bokstav c) i dette avsnitt, kan skrotter, halve skrotter eller halve skrotter oppdelt i høyst tre stykker for engrossalg samt kvarte skrotter som ikke inneholder annet spesifisert risikomateriale enn virvelsøylen, herunder nerveknutene i ryggraden, importeres. Når det gjelder slik import, skal skrotter eller stykker av skrotter av storfe for engrossalg som inneholder virvelsøyle som defineres som spesifisert risikomateriale i samsvar med nr. 1 i vedlegg V til denne forordning, identifiseres ved hjelp av en klart synlig rød stripe på etiketten som nevnt i artikkel 13 eller 15 i forordning [(EF) nr. 1760/2000](eu/32000r1760). Dessuten skal en særskilt angivelse av antallet skrotter av storfe eller antallet skrotter av storfe oppdelt i stykker for engrossalg, fra hvilke det kreves at virvelsøylen fjernes, tilføyes det felles veterinærdokument til bruk ved import nevnt i artikkel 2 nr. 1 i forordning [(EF) nr. 136/2004](eu/32004r0136),
+5. produkter av animalsk opprinnelse fra storfe, sauer og geiter som ikke inneholder og ikke er framstilt av mekanisk utbeinet kjøtt fra bein fra storfe, sauer eller geiter, unntatt dersom dyrene som produktene av storfe, sauer og geiter kommer fra, ble født, oppdrettet uten avbrudd og slaktet i en stat eller region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med ubetydelig BSE-risiko der det ikke har forekommet nasjonale tilfeller av BSE,
+6. dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter kommer fra, ikke er slaktet etter bedøving ved innsprøyting av gass i kraniehulen eller avlivet med samme metode, eller slaktet etter bedøving ved ødeleggelse av sentralnervevev ved at et avlangt stavformet instrument føres inn i kraniehulen, unntatt dersom dyrene som produktene av storfe, sauer og geiter kommer fra, ble født, oppdrettet uten avbrudd og slaktet i en stat eller region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en ubetydelig BSE-risiko,
+7. dersom dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter er framstilt av, stammer fra en stat eller region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med ikke-fastsatt BSE-risiko, at dyrene ikke har blitt fôret med kjøttbeinmel eller fettgrever som definert i OIEs helseregelverk for landdyr,
+8. dersom dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter er framstilt av, stammer fra en stat eller region som er klassifisert i samsvar med kommisjonsvedtak [2007/453/EF](eu/32007d0453) som en stat eller region med ikke-fastsatt BSE-risiko, skal produktene være framstilt og håndtert på en måte som sikrer at de ikke inneholder og ikke er forurenset med nerve- eller lymfevev som eksponeres under utbeiningen.
 
 ###### Avsnitt C
 
 Import fra stater eller regioner med en kontrollert BSE-risiko
 
-1\. Ved import av produkter av animalsk opprinnelse fra storfe, sauer og geiter nevnt i avsnitt A fra en stat eller region med en kontrollert BSE-risiko, skal det framlegges et hygienesertifikat som attesterer atstaten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en kontrollert BSE-risiko,dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter kommer fra, har gjennomgått en kontroll ante mortem og post mortem med positivt resultat,dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter beregnet på eksport kommer fra, ikke er slaktet etter bedøving ved ødeleggelse av sentralnervevev ved at et avlangt stavformet instrument føres inn i kraniehulen, eller ved innsprøyting av gass i kraniet,produktene av animalsk opprinnelse fra storfe, sauer og geiter verken inneholder eller er framstilt av spesifisert risikomateriale som definert i nr. 1 i vedlegg V til denne forordning, eller mekanisk utbeinet kjøtt fra bein fra storfe, sauer eller geiter.
-►**M68**dersom dyrene som produktene av animalsk opprinnelse fra storfe, sau og geit er framstilt av, stammer fra et land eller en region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som et land eller en region med ikke-fastsatt BSE-risiko, har dyrene ikke blitt fôret med kjøttbeinmel eller fettgrever, i henhold til definisjonen i OIEs helseregelverk for landdyr,dersom dyrene som produktene av animalsk opprinnelse fra storfe, sau og geit er framstilt av, stammer fra et land eller en region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som et land eller en region med ikke-fastsatt BSE-risiko, skal produktene være framstilt og håndtert på en måte som sikrer at de ikke inneholder og ikke er forurenset med nerve- eller lymfevev som eksponeres under utbeiningen.
-◄**M68**
+1\. Ved import av produkter av animalsk opprinnelse fra storfe, sauer og geiter nevnt i avsnitt A fra en stat eller region med en kontrollert BSE-risiko, skal det framlegges et hygienesertifikat som attesterer at
+
+1. staten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en kontrollert BSE-risiko,
+2. dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter kommer fra, har gjennomgått en kontroll ante mortem og post mortem med positivt resultat,
+3. dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter beregnet på eksport kommer fra, ikke er slaktet etter bedøving ved ødeleggelse av sentralnervevev ved at et avlangt stavformet instrument føres inn i kraniehulen, eller ved innsprøyting av gass i kraniet,
+4. produktene av animalsk opprinnelse fra storfe, sauer og geiter verken inneholder eller er framstilt av spesifisert risikomateriale som definert i nr. 1 i vedlegg V til denne forordning, eller mekanisk utbeinet kjøtt fra bein fra storfe, sauer eller geiter.
+   ►**M68**
+5. dersom dyrene som produktene av animalsk opprinnelse fra storfe, sau og geit er framstilt av, stammer fra et land eller en region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som et land eller en region med ikke-fastsatt BSE-risiko, har dyrene ikke blitt fôret med kjøttbeinmel eller fettgrever, i henhold til definisjonen i OIEs helseregelverk for landdyr,
+6. dersom dyrene som produktene av animalsk opprinnelse fra storfe, sau og geit er framstilt av, stammer fra et land eller en region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som et land eller en region med ikke-fastsatt BSE-risiko, skal produktene være framstilt og håndtert på en måte som sikrer at de ikke inneholder og ikke er forurenset med nerve- eller lymfevev som eksponeres under utbeiningen.
+   ◄**M68**
 
 2\. For produkter av animalsk opprinnelse fra storfe kan, som unntak fra nr. 1 bokstav d), skrotter, halve skrotter eller halve skrotter oppdelt i høyst tre deler for engrossalg samt firedeler som ikke inneholder annet spesifisert risikomateriale enn virvelsøylen, herunder nerveknutene i ryggraden, importeres.
 
@@ -2232,13 +3643,28 @@ Import fra stater eller regioner med en kontrollert BSE-risiko
 
 4\. Når det gjelder import, skal antallet skrotter av storfe, eller stykker av skrotter for engrossalg, der det kreves at virvelsøylen fjernes, tilføyes det felles veterinærdokument til bruk ved import nevnt i artikkel 2 nr. 1 i forordning [(EF) nr. 136/2004](eu/32004r0136).
 
-5\. For tarmer som har opprinnelse i en stat eller region med en ubetydelig BSE-risiko, skal det ved import av behandlede tarmer framlegges et hygienesertifikat som attesterer:at staten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en kontrollert BSE-risiko,at dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter er framstilt av, ble født, oppdrettet uten avbrudd og slaktet i en stat eller region med en ubetydelig BSE-risiko, og har gjennomgått en kontroll ante mortem og post mortem,at dersom tarmene har opprinnelse i en stat eller region der det har vært nasjonale tilfeller av BSE:ble dyrene født etter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere var iverksatt, ellerinneholder ikke og stammer ikke produktene av animalsk opprinnelse fra storfe, sauer eller geiter fra spesifisert risikomateriale i henhold til nr. 1 i vedlegg V til denne forordning.
+5\. For tarmer som har opprinnelse i en stat eller region med en ubetydelig BSE-risiko, skal det ved import av behandlede tarmer framlegges et hygienesertifikat som attesterer:
+
+1. at staten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en kontrollert BSE-risiko,
+2. at dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter er framstilt av, ble født, oppdrettet uten avbrudd og slaktet i en stat eller region med en ubetydelig BSE-risiko, og har gjennomgått en kontroll ante mortem og post mortem,
+3. at dersom tarmene har opprinnelse i en stat eller region der det har vært nasjonale tilfeller av BSE:
+
+   1. ble dyrene født etter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere var iverksatt, eller
+   2. inneholder ikke og stammer ikke produktene av animalsk opprinnelse fra storfe, sauer eller geiter fra spesifisert risikomateriale i henhold til nr. 1 i vedlegg V til denne forordning.
 
 ###### Avsnitt D
 
 Import fra stater eller regioner med en ikke-fastsatt BSE-risiko
 
-1\. Ved import av produkter av animalsk opprinnelse fra storfe, sauer og geiter nevnt i avsnitt A fra en stat eller region med en ikke-fastsatt BSE-risiko, skal det framlegges et hygienesertifikat som attesterer atdyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter kommer fra, ikke er blitt fôret med kjøttbeinmel eller fettgrever fra drøvtyggere som definert i OIEs helseregelverk for landdyr, og har gjennomgått en kontroll ante mortem og post mortem med positivt resultat,dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter kommer fra, ikke er blitt slaktet etter bedøving ved ødeleggelse av sentralnervevev ved at et avlangt stavformet instrument føres inn i kraniehulen, eller ved innsprøyting av gass i kraniet.produktene av animalsk opprinnelse fra storfe, sauer og geiter ikke inneholder og ikke stammer fraspesifisert risikomateriale som definert i nr. 1 i vedlegg V til denne forordning,nerve- eller lymfevev som eksponeres under utbeiningen, ellermekanisk utbeinet kjøtt fra bein fra storfe, sauer eller geiter.
+1\. Ved import av produkter av animalsk opprinnelse fra storfe, sauer og geiter nevnt i avsnitt A fra en stat eller region med en ikke-fastsatt BSE-risiko, skal det framlegges et hygienesertifikat som attesterer at
+
+1. dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter kommer fra, ikke er blitt fôret med kjøttbeinmel eller fettgrever fra drøvtyggere som definert i OIEs helseregelverk for landdyr, og har gjennomgått en kontroll ante mortem og post mortem med positivt resultat,
+2. dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter kommer fra, ikke er blitt slaktet etter bedøving ved ødeleggelse av sentralnervevev ved at et avlangt stavformet instrument føres inn i kraniehulen, eller ved innsprøyting av gass i kraniet.
+3. produktene av animalsk opprinnelse fra storfe, sauer og geiter ikke inneholder og ikke stammer fra
+
+   1. spesifisert risikomateriale som definert i nr. 1 i vedlegg V til denne forordning,
+   2. nerve- eller lymfevev som eksponeres under utbeiningen, eller
+   3. mekanisk utbeinet kjøtt fra bein fra storfe, sauer eller geiter.
 
 2\. For produkter av animalsk opprinnelse fra storfe kan, som unntak fra nr. 1 bokstav c), skrotter, halve skrotter eller halve skrotter oppdelt i høyst tre deler for engrossalg samt firedeler som ikke inneholder annet spesifisert risikomateriale enn virvelsøylen, herunder nerveknutene i ryggraden, importeres.
 
@@ -2246,7 +3672,14 @@ Import fra stater eller regioner med en ikke-fastsatt BSE-risiko
 
 4\. Når det gjelder import, skal en særskilt angivelse av antallet skrotter av storfe, eller stykker av skrotter for engrossalg, der det kreves at virvelsøylen fjernes, tilføyes det felles veterinærdokument til bruk ved import nevnt i artikkel 2 nr. 1 i forordning [(EF) nr. 136/2004](eu/32004r0136).
 
-5\. For tarmer som har opprinnelse i en stat eller region med en ubetydelig BSE-risiko, skal det ved import av behandlede tarmer framlegges et hygienesertifikat som attesterer:at staten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en ikke-fastsatt BSE-risiko,at dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter er framstilt av, ble født, oppdrettet uten avbrudd og slaktet i en stat eller region med en ubetydelig BSE-risiko, og har gjennomgått en kontroll ante mortem og post mortem,at dersom tarmene har opprinnelse i en stat eller region der det har vært nasjonale tilfeller av BSE:ble dyrene født etter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere var iverksatt, ellerinneholder ikke og stammer ikke produktene av animalsk opprinnelse fra storfe, sauer eller geiter fra spesifisert risikomateriale i henhold til nr. 1 i vedlegg V til denne forordning.
+5\. For tarmer som har opprinnelse i en stat eller region med en ubetydelig BSE-risiko, skal det ved import av behandlede tarmer framlegges et hygienesertifikat som attesterer:
+
+1. at staten eller regionen er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som en stat eller region med en ikke-fastsatt BSE-risiko,
+2. at dyrene som produktene av animalsk opprinnelse fra storfe, sauer og geiter er framstilt av, ble født, oppdrettet uten avbrudd og slaktet i en stat eller region med en ubetydelig BSE-risiko, og har gjennomgått en kontroll ante mortem og post mortem,
+3. at dersom tarmene har opprinnelse i en stat eller region der det har vært nasjonale tilfeller av BSE:
+
+   1. ble dyrene født etter datoen da forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere var iverksatt, eller
+   2. inneholder ikke og stammer ikke produktene av animalsk opprinnelse fra storfe, sauer eller geiter fra spesifisert risikomateriale i henhold til nr. 1 i vedlegg V til denne forordning.
 
 ### Kapittel D
 Import av animalske biprodukter og avledede produkter fra storfe, sauer eller geiter
@@ -2255,7 +3688,21 @@ Import av animalske biprodukter og avledede produkter fra storfe, sauer eller ge
 
 Animalske biprodukter
 
-Dette kapittel får anvendelse på følgende animalske biprodukter og avledede produkter i henhold til henholdsvis nr. 1 og 2 i artikkel 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069), forutsatt at nevnte animalske biprodukter og avledede produkter er av animalsk opprinnelse fra storfe, sauer eller geiter:smeltet fett fra kategori 2-materiale, som er beregnet på bruk som organisk gjødsel eller jordforbedringsmiddel, som fastsatt i nr. 22 i artikkel 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069),bein eller beinprodukter fra kategori 2-materiale,smeltet fett fra kategori 3-materiale, som er beregnet på bruk som organisk gjødsel, jordforbedringsmiddel eller fôr, som fastsatt i henholdsvis nr. 22 og 25 i artikkel 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069), eller deres utgangsmateriale,fôr til kjæledyr og tyggesaker til hunder,blodprodukter,bearbeidet animalsk protein,bein eller beinprodukter fra kategori 3-materiale,gelatin og kollagen fra andre materialer enn huder og skinn,kategori 3-materiale og avledede produkter som ikke er nevnt i bokstav c)–h), unntatt:ferske huder og skinn, behandlede huder og skinn,gelatin og kollagen fra huder og skinn,fettderivater.
+Dette kapittel får anvendelse på følgende animalske biprodukter og avledede produkter i henhold til henholdsvis nr. 1 og 2 i artikkel 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069), forutsatt at nevnte animalske biprodukter og avledede produkter er av animalsk opprinnelse fra storfe, sauer eller geiter:
+
+1. smeltet fett fra kategori 2-materiale, som er beregnet på bruk som organisk gjødsel eller jordforbedringsmiddel, som fastsatt i nr. 22 i artikkel 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+2. bein eller beinprodukter fra kategori 2-materiale,
+3. smeltet fett fra kategori 3-materiale, som er beregnet på bruk som organisk gjødsel, jordforbedringsmiddel eller fôr, som fastsatt i henholdsvis nr. 22 og 25 i artikkel 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069), eller deres utgangsmateriale,
+4. fôr til kjæledyr og tyggesaker til hunder,
+5. blodprodukter,
+6. bearbeidet animalsk protein,
+7. bein eller beinprodukter fra kategori 3-materiale,
+8. gelatin og kollagen fra andre materialer enn huder og skinn,
+9. kategori 3-materiale og avledede produkter som ikke er nevnt i bokstav c)–h), unntatt:
+
+   1. ferske huder og skinn, behandlede huder og skinn,
+   2. gelatin og kollagen fra huder og skinn,
+   3. fettderivater.
 
 ►**M64**
 
@@ -2263,13 +3710,47 @@ Dette kapittel får anvendelse på følgende animalske biprodukter og avledede p
 
 Krav til hygienesertifikater
 
-1\. Ved import av animalske biprodukter og avledede produkter fra storfe, sau og geit nevnt i avsnitt A skal det framlegges et hygienesertifikat som attesterer atdet animalske biproduktet eller avledede produktetikke inneholder og ikke stammer fra spesifisert risikomateriale i henhold til nr. 1 i vedlegg V til denne forordningen, ogikke inneholder og ikke stammer fra mekanisk utbeinet kjøtt fra bein fra storfe, sau eller geit, unntatt dersom dyrene som de animalske biproduktene eller avledede produktet er framstilt av, ble født, oppdrettet uten avbrudd og slaktet i et land eller en region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som et land eller en region med ubetydelig BSE-risiko, der det ikke har forekommet nasjonale tilfeller av BSE, ogstammer fra dyr som ikke er blitt avlivet, etter bedøving, ved ødeleggelse av sentralnervevev ved at et avlangt stavformet instrument føres inn i kraniehulen, eller ved innsprøyting av gass i kraniehulen, med unntak av dyr som er født, oppdrettet uten avbrudd og slaktet i et land eller en region klassifisert som et land eller en region med ubetydelig BSE-risiko i samsvar med vedtak [2007/453/EF](eu/32007d0453),ellerdet animalske biproduktet eller avledede produktet verken inneholder eller stammer fra andre materialer fra storfe, sau og geit enn de som stammer fra dyr som er født, oppdrettet uten avbrudd og slaktet i et land eller en region som er klassifisert som et land eller en region med ubetydelig BSE-risiko i samsvar med vedtak [2007/453/EF](eu/32007d0453).
+1\. Ved import av animalske biprodukter og avledede produkter fra storfe, sau og geit nevnt i avsnitt A skal det framlegges et hygienesertifikat som attesterer at
 
-2\. I tillegg kravene i nr. 1 i dette avsnittet skal det ved import av animalske biprodukter og avledede produkter nevnt i bokstav d) og f) i avsnitt A framlegges et hygienesertifikat som attesterer atdet animalske biproduktet eller avledede produktet kommer fra et land eller en region som er klassifisert som et land eller en region med ubetydelig BSE-risiko i samsvar med vedtak [2007/453/EF](eu/32007d0453), og der det ikke har forekommet nasjonale tilfeller av BSE,
-ellerdet animalske biproduktet eller avledede produktet kommer fra et land eller en region som er klassifisert som et land eller en region med ubetydelig BSE-risiko i samsvar med vedtak [2007/453/EF](eu/32007d0453), der det ikke har forekommet nasjonale tilfeller av BSE, og det animalske biproduktet eller avledede produktet stammer fra dyr som er født etter den datoen da reell håndheving av forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, som definert i OIEs helseregelverk for landdyr, begynte i landet eller regionen.Som unntak fra forrige ledd kreves ikke sertifikatet nevnt i bokstav a) og b) ved import av bearbeidet kjæledyrfôr som er emballert og merket i samsvar med Unionens regelverk.
+1. det animalske biproduktet eller avledede produktet
 
-3\. I tillegg til kravene i nr. 1 og 2 skal det ved import av animalske biprodukter og avledede produkter nevnt i avsnitt A som inneholder melk eller melkeprodukter fra sau eller geit, og som er beregnet på bruk som fôr, framlegges et hygienesertifikat som attesterer atde sauene og geitene som de nevnte animalske biproduktene eller avledede produktene stammer fra, siden fødselen uten avbrudd har vært holdt i et land der følgende vilkår er oppfylt:Klassisk skrapesyke er meldepliktig.Det finnes et informasjons-, overvåkings- og kontrollsystem.Det er innført offentlige restriksjoner på driftsenheter med sau eller geit ved mistanke om TSE eller bekreftelse på klassisk skrapesyke.Sauer og geiter som er smittet av klassisk skrapesyke, blir avlivet og fullstendig destruert.Fôring av sauer og geiter med kjøttbeinmel eller fettgrever fra drøvtyggere, som definert i OIEs helseregelverk for landdyr, har blitt forbudt, og forbudet har vært håndhevet i hele landet i minst de siste sju årene.melken og melkeproduktene fra sau eller geit kommer fra driftsenheter som ikke er underlagt offentlige restriksjoner på grunn av mistanke om TSE,►**M74**melken og melkeproduktene fra sauer eller geiter kommer fra driftsenheter der det ikke har vært diagnostisert noe tilfelle av klassisk skrapesyke i minst de siste sju årene, eller dersom et tilfelle av klassisk skrapesyke er blitt bekreftet,er alle geiter og sauer i driftsenheten blitt avlivet og destruert, unntatt avlsværer med genotypen ARR/ARR, avlssøyer med minst ett ARR-allel og ingen VRQ-alleler, andre sauer med minst ett ARR-allel samt geiter med minst ett av allelene K222, D146 eller S146,
-ellerer alle dyr der klassisk skrapesyke er bekreftet, blitt avlivet og destruert, og driftsenheten har i minst to år etter datoen da det siste tilfellet av klassisk skrapesyke ble bekreftet, vært underlagt skjerpet overvåking for TSE som omfatter undersøkelser med negativt resultat for forekomst av TSE i samsvar med laboratoriemetodene fastsatt i vedlegg X kapittel C nr. 3.2, av alle følgende dyr som er eldre enn 18 måneder, unntatt sauer med genotypen ARR/ARR og geiter med minst ett av allelene K222, D146 eller S146:Dyr som er slaktet for konsum.Dyr som er selvdøde eller er avlivet i driftsenheten, men som ikke ble avlivet i forbindelse med en kampanje for utryddelse av sykdom.◄**M74**
+   1. ikke inneholder og ikke stammer fra spesifisert risikomateriale i henhold til nr. 1 i vedlegg V til denne forordningen, og
+   2. ikke inneholder og ikke stammer fra mekanisk utbeinet kjøtt fra bein fra storfe, sau eller geit, unntatt dersom dyrene som de animalske biproduktene eller avledede produktet er framstilt av, ble født, oppdrettet uten avbrudd og slaktet i et land eller en region som er klassifisert i samsvar med vedtak [2007/453/EF](eu/32007d0453) som et land eller en region med ubetydelig BSE-risiko, der det ikke har forekommet nasjonale tilfeller av BSE, og
+   3. stammer fra dyr som ikke er blitt avlivet, etter bedøving, ved ødeleggelse av sentralnervevev ved at et avlangt stavformet instrument føres inn i kraniehulen, eller ved innsprøyting av gass i kraniehulen, med unntak av dyr som er født, oppdrettet uten avbrudd og slaktet i et land eller en region klassifisert som et land eller en region med ubetydelig BSE-risiko i samsvar med vedtak [2007/453/EF](eu/32007d0453),
+
+   eller
+2. det animalske biproduktet eller avledede produktet verken inneholder eller stammer fra andre materialer fra storfe, sau og geit enn de som stammer fra dyr som er født, oppdrettet uten avbrudd og slaktet i et land eller en region som er klassifisert som et land eller en region med ubetydelig BSE-risiko i samsvar med vedtak [2007/453/EF](eu/32007d0453).
+
+2\. I tillegg kravene i nr. 1 i dette avsnittet skal det ved import av animalske biprodukter og avledede produkter nevnt i bokstav d) og f) i avsnitt A framlegges et hygienesertifikat som attesterer at
+
+1. det animalske biproduktet eller avledede produktet kommer fra et land eller en region som er klassifisert som et land eller en region med ubetydelig BSE-risiko i samsvar med vedtak [2007/453/EF](eu/32007d0453), og der det ikke har forekommet nasjonale tilfeller av BSE,
+   eller
+2. det animalske biproduktet eller avledede produktet kommer fra et land eller en region som er klassifisert som et land eller en region med ubetydelig BSE-risiko i samsvar med vedtak [2007/453/EF](eu/32007d0453), der det ikke har forekommet nasjonale tilfeller av BSE, og det animalske biproduktet eller avledede produktet stammer fra dyr som er født etter den datoen da reell håndheving av forbudet mot fôring av drøvtyggere med kjøttbeinmel og fettgrever fra drøvtyggere, som definert i OIEs helseregelverk for landdyr, begynte i landet eller regionen.
+
+Som unntak fra forrige ledd kreves ikke sertifikatet nevnt i bokstav a) og b) ved import av bearbeidet kjæledyrfôr som er emballert og merket i samsvar med Unionens regelverk.
+
+3\. I tillegg til kravene i nr. 1 og 2 skal det ved import av animalske biprodukter og avledede produkter nevnt i avsnitt A som inneholder melk eller melkeprodukter fra sau eller geit, og som er beregnet på bruk som fôr, framlegges et hygienesertifikat som attesterer at
+
+1. de sauene og geitene som de nevnte animalske biproduktene eller avledede produktene stammer fra, siden fødselen uten avbrudd har vært holdt i et land der følgende vilkår er oppfylt:
+
+   1. Klassisk skrapesyke er meldepliktig.
+   2. Det finnes et informasjons-, overvåkings- og kontrollsystem.
+   3. Det er innført offentlige restriksjoner på driftsenheter med sau eller geit ved mistanke om TSE eller bekreftelse på klassisk skrapesyke.
+   4. Sauer og geiter som er smittet av klassisk skrapesyke, blir avlivet og fullstendig destruert.
+   5. Fôring av sauer og geiter med kjøttbeinmel eller fettgrever fra drøvtyggere, som definert i OIEs helseregelverk for landdyr, har blitt forbudt, og forbudet har vært håndhevet i hele landet i minst de siste sju årene.
+2. melken og melkeproduktene fra sau eller geit kommer fra driftsenheter som ikke er underlagt offentlige restriksjoner på grunn av mistanke om TSE,
+
+   ►**M74**
+3. melken og melkeproduktene fra sauer eller geiter kommer fra driftsenheter der det ikke har vært diagnostisert noe tilfelle av klassisk skrapesyke i minst de siste sju årene, eller dersom et tilfelle av klassisk skrapesyke er blitt bekreftet,
+
+   1. er alle geiter og sauer i driftsenheten blitt avlivet og destruert, unntatt avlsværer med genotypen ARR/ARR, avlssøyer med minst ett ARR-allel og ingen VRQ-alleler, andre sauer med minst ett ARR-allel samt geiter med minst ett av allelene K222, D146 eller S146,
+      eller
+   2. er alle dyr der klassisk skrapesyke er bekreftet, blitt avlivet og destruert, og driftsenheten har i minst to år etter datoen da det siste tilfellet av klassisk skrapesyke ble bekreftet, vært underlagt skjerpet overvåking for TSE som omfatter undersøkelser med negativt resultat for forekomst av TSE i samsvar med laboratoriemetodene fastsatt i vedlegg X kapittel C nr. 3.2, av alle følgende dyr som er eldre enn 18 måneder, unntatt sauer med genotypen ARR/ARR og geiter med minst ett av allelene K222, D146 eller S146:
+
+      - Dyr som er slaktet for konsum.
+      - Dyr som er selvdøde eller er avlivet i driftsenheten, men som ikke ble avlivet i forbindelse med en kampanje for utryddelse av sykdom.
+
+   ◄**M74**
 
 ◄**M64**
 
@@ -2278,19 +3759,50 @@ Import av sauer og geiter1
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg IX kap. E, jf. EØS-avtalen vedlegg I del 7.1. nr. 12.
 
-Ved import av sauer og geiter til Unionen skal det framlegges et helsesertifikat som attesterer at dyrene siden fødselen uten avbrudd har vært holdt i en stat der følgende vilkår er oppfylt:Klassisk skrapesyke er meldepliktig.Det er innført holdningsskapende tiltak og en overvåkings- og tilsynsordning.Sauer og geiter infisert med klassisk skrapesyke blir avlivet og fullstendig destruert.Fôring av sauer og geiter med kjøttbeinmel eller fettgrever fra drøvtyggere, som definert i Verdens dyrehelseorganisasjons (IOE) helseregelverk for landdyr, er blitt forbudt, og forbudet har vært håndhevet i hele staten i minst de sju siste årene,I tillegg til vilkårene fastsatt i nr. 1-4 skal helsesertifikatet attestere at:
+Ved import av sauer og geiter til Unionen skal det framlegges et helsesertifikat som attesterer at dyrene siden fødselen uten avbrudd har vært holdt i en stat der følgende vilkår er oppfylt:
+
+1. Klassisk skrapesyke er meldepliktig.
+2. Det er innført holdningsskapende tiltak og en overvåkings- og tilsynsordning.
+3. Sauer og geiter infisert med klassisk skrapesyke blir avlivet og fullstendig destruert.
+4. Fôring av sauer og geiter med kjøttbeinmel eller fettgrever fra drøvtyggere, som definert i Verdens dyrehelseorganisasjons (IOE) helseregelverk for landdyr, er blitt forbudt, og forbudet har vært håndhevet i hele staten i minst de sju siste årene,
+
+I tillegg til vilkårene fastsatt i nr. 1-4 skal helsesertifikatet attestere at:
 
 ►**M70**
 
-1. Ved import til Unionen av avlsdyr av sau og geit som er beregnet på andre medlemsstater enn medlemsstater med ubetydelig risiko for klassisk skrapesyke eller medlemsstater med et godkjent nasjonalt program for bekjempelse av skrapesyke som fastsatt i vedlegg VIII kapittel A avsnitt A nr. 3.2, skal følgende vilkår være oppfylt:De importerte sauene og geitene kommer fra en eller flere driftsenheter som oppfyller kravene i vedlegg VIII kapittel A avsnitt A nr. 1.3, eller►**M74**de er sauer av prionproteingenotypen ARR/ARR eller geiter med minst ett av allelene K222, D146 eller S146, og de kommer fra en driftsenhet som ikke har vært underlagt noen offentlige restriksjoner på forflytning på grunn av BSE eller klassisk skrapesyke de to siste årene.◄**M74**Når det gjelder sauer og geiter fra Storbritannia som importeres til Nord-Irland fram til 31. desember 2024, de importerte sauene og geitene kommer fra en eller flere driftsenheterder det ikke er innført noen offentlige restriksjoner på forflytning på grunn av BSE eller klassisk skrapesyke de siste tre årene, ogsom før 1. januar 2022 anvendte den offisielle ordningen for godkjenning av driftsenheter med kontrollert risiko for klassisk skrapesyke i samsvar med vilkårene fastsatt i vedlegg VIII kapittel A avsnitt A nr. 1.3, og som oppfyller vilkårene fastsatt i samme nummer bokstav a)-i) på tidspunktet for import til Nord-Irland.◄**M70**
-2. Ved import til Unionen av sauer og geiter for alle formål unntatt umiddelbar slakting, som er beregnet på en medlemsstat med en ubetydelig risiko for klassisk skrapesyke eller som har et godkjent nasjonalt program for bekjempelse av skrapesyke som fastsatt i kapittel A avsnitt A nr. 3.2 i vedlegg VIII, skal følgende vilkår være oppfylt:De kommer fra en eller flere driftsenheter som oppfyller kravene i kapittel A avsnitt A nr. 1.2 i vedlegg VIII, eller◄**M74**de er sauer av prionproteingenotypen ARR/ARR eller geiter med minst ett av allelene K222, D146 eller S146, og de kommer fra en driftsenhet som ikke har vært underlagt noen offentlige restriksjoner på forflytning på grunn av BSE eller klassisk skrapesyke de to siste årene.◄**M74**
+1. Ved import til Unionen av avlsdyr av sau og geit som er beregnet på andre medlemsstater enn medlemsstater med ubetydelig risiko for klassisk skrapesyke eller medlemsstater med et godkjent nasjonalt program for bekjempelse av skrapesyke som fastsatt i vedlegg VIII kapittel A avsnitt A nr. 3.2, skal følgende vilkår være oppfylt:
+
+   1. De importerte sauene og geitene kommer fra en eller flere driftsenheter som oppfyller kravene i vedlegg VIII kapittel A avsnitt A nr. 1.3, eller
+
+      ►**M74**
+   2. de er sauer av prionproteingenotypen ARR/ARR eller geiter med minst ett av allelene K222, D146 eller S146, og de kommer fra en driftsenhet som ikke har vært underlagt noen offentlige restriksjoner på forflytning på grunn av BSE eller klassisk skrapesyke de to siste årene.
+
+      ◄**M74**
+   3. Når det gjelder sauer og geiter fra Storbritannia som importeres til Nord-Irland fram til 31. desember 2024, de importerte sauene og geitene kommer fra en eller flere driftsenheter
+
+      1. der det ikke er innført noen offentlige restriksjoner på forflytning på grunn av BSE eller klassisk skrapesyke de siste tre årene, og
+      2. som før 1. januar 2022 anvendte den offisielle ordningen for godkjenning av driftsenheter med kontrollert risiko for klassisk skrapesyke i samsvar med vilkårene fastsatt i vedlegg VIII kapittel A avsnitt A nr. 1.3, og som oppfyller vilkårene fastsatt i samme nummer bokstav a)-i) på tidspunktet for import til Nord-Irland.
+
+   ◄**M70**
+2. Ved import til Unionen av sauer og geiter for alle formål unntatt umiddelbar slakting, som er beregnet på en medlemsstat med en ubetydelig risiko for klassisk skrapesyke eller som har et godkjent nasjonalt program for bekjempelse av skrapesyke som fastsatt i kapittel A avsnitt A nr. 3.2 i vedlegg VIII, skal følgende vilkår være oppfylt:
+
+   1. De kommer fra en eller flere driftsenheter som oppfyller kravene i kapittel A avsnitt A nr. 1.2 i vedlegg VIII, eller
+
+      ◄**M74**
+   2. de er sauer av prionproteingenotypen ARR/ARR eller geiter med minst ett av allelene K222, D146 eller S146, og de kommer fra en driftsenhet som ikke har vært underlagt noen offentlige restriksjoner på forflytning på grunn av BSE eller klassisk skrapesyke de to siste årene.
+
+      ◄**M74**
 
 ### Kapittel F
 Import av animalske produkter fra oppdrettshjortedyr og viltlevende hjortedyr
 
-1\. Ved import til Unionen fra Canada eller De forente stater av ferskt kjøtt, kvernet kjøtt, bearbeidet kjøtt og kjøttprodukter som definert i nr. 1.10, 1.13, 1.15 og 7.1 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), framstilt av oppdrettshjortedyr, skal hygienesertifikatene ledsages av en erklæring underskrevet av vedkommende myndighet i produksjonsstaten, med følgende ordlyd:«Dette produktet inneholder eller er utelukkende framstilt av kjøtt, men ikke slakteavfall og ryggmarg, fra oppdrettshjortedyr som med negativt resultat er undersøkt for skrantesyke med en histopatologisk eller immunohistokjemisk metode, eller en annen diagnostisk metode som er anerkjent av vedkommende myndighet, og produktet er heller ikke framstilt av dyr fra en besetning der det er bekreftet forekomst av skrantesyke eller der det foreligger offisiell mistanke om sykdommen.»
+1\. Ved import til Unionen fra Canada eller De forente stater av ferskt kjøtt, kvernet kjøtt, bearbeidet kjøtt og kjøttprodukter som definert i nr. 1.10, 1.13, 1.15 og 7.1 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), framstilt av oppdrettshjortedyr, skal hygienesertifikatene ledsages av en erklæring underskrevet av vedkommende myndighet i produksjonsstaten, med følgende ordlyd:
 
-2\. Ved import til Unionen fra Canada eller De forente stater av ferskt kjøtt, kvernet kjøtt, bearbeidet kjøtt og kjøttprodukter som definert i nr. 1.10, 1.13, 1.15 og 7.1 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), framstilt av oppdrettshjortedyr, skal hygienesertifikatene ledsages av en erklæring underskrevet av vedkommende myndighet i produksjonsstaten, med følgende ordlyd:«Dette produktet inneholder eller er utelukkende framstilt av kjøtt, men ikke slakteavfall og ryggmarg, fra viltlevende hjortedyr som med negativt resultat er undersøkt for skrantesyke med en histopatologisk eller immunohistokjemisk metode, eller en annen diagnostisk metode som er anerkjent av vedkommende myndighet, og produktet er heller ikke framstilt av dyr fra et område der det de tre siste årene er bekreftet forekomst av skrantesyke eller der det foreligger offisiell mistanke om sykdommen.»
+«Dette produktet inneholder eller er utelukkende framstilt av kjøtt, men ikke slakteavfall og ryggmarg, fra oppdrettshjortedyr som med negativt resultat er undersøkt for skrantesyke med en histopatologisk eller immunohistokjemisk metode, eller en annen diagnostisk metode som er anerkjent av vedkommende myndighet, og produktet er heller ikke framstilt av dyr fra en besetning der det er bekreftet forekomst av skrantesyke eller der det foreligger offisiell mistanke om sykdommen.»
+
+2\. Ved import til Unionen fra Canada eller De forente stater av ferskt kjøtt, kvernet kjøtt, bearbeidet kjøtt og kjøttprodukter som definert i nr. 1.10, 1.13, 1.15 og 7.1 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), framstilt av oppdrettshjortedyr, skal hygienesertifikatene ledsages av en erklæring underskrevet av vedkommende myndighet i produksjonsstaten, med følgende ordlyd:
+
+«Dette produktet inneholder eller er utelukkende framstilt av kjøtt, men ikke slakteavfall og ryggmarg, fra viltlevende hjortedyr som med negativt resultat er undersøkt for skrantesyke med en histopatologisk eller immunohistokjemisk metode, eller en annen diagnostisk metode som er anerkjent av vedkommende myndighet, og produktet er heller ikke framstilt av dyr fra et område der det de tre siste årene er bekreftet forekomst av skrantesyke eller der det foreligger offisiell mistanke om sykdommen.»
 
 ►**M72**
 
@@ -2303,7 +3815,22 @@ Import av sæd og embryoer av sauer og geiter1
 
 1 EØS-komitébeslutning nr. 133/2007 trer i kraft 1. mai 2010 og gir Island tilpasningstekst til vedlegg IX kap. H, jf. EØS-avtalen vedlegg I del 7.1. nr. 12
 
-Ved import av sæd og embryoer av sauer og geiter til Unionen skal det framlegges et helsesertifikat som attesterer atdonordyrene siden fødselen uten avbrudd har vært holdt i en stat der følgende vilkår er oppfylt:Klassisk skrapesyke er meldepliktig.Det er innført holdningsskapende tiltak og en overvåkings- og tilsynsordning.Sauer og geiter infisert med klassisk skrapesyke blir avlivet og fullstendig destruert.Fôring av sauer og geiter med kjøttbeinmel eller fettgrever fra drøvtyggere, som definert i Verdens dyrehelseorganisasjons (IOE) helseregelverk for landdyr, er blitt forbudt, og forbudet har vært håndhevet i hele staten i minst de sju siste årene,Donordyrene er uten avbrudd blitt holdt i et tidsrom på tre år før datoen for oppsamling av sæden eller embryoene som eksporteres, i en eller flere driftsenheter som i løpet av denne perioden har oppfylt alle krav fastsatt i nr. 1.3 bokstav a)–f) i avsnitt A kapittel A i vedlegg VIII, med mindre driftsenheten er en sædstasjon, forutsatt at sædstasjonen oppfyller vilkårene fastsatt i nr. 1.3 bokstav c) iv) i nevnte avsnitt, eller►**M74**når det gjelder sæd fra sauer, oppsamles fra hanndyr med prionproteingenotypen ARR/ARR, og når det gjelder sæd fra geiter, oppsamles fra hanndyr med minst ett av allelene K222, D146 eller S146, ellernår det gjelder embryoer fra sauer, har embryoene minst ett av ARR-allel, og når det gjelder embryoer fra geiter, har embryoenes minst ett av allelene K222, D146 eller S146.◄**M74**
+Ved import av sæd og embryoer av sauer og geiter til Unionen skal det framlegges et helsesertifikat som attesterer at
+
+1. donordyrene siden fødselen uten avbrudd har vært holdt i en stat der følgende vilkår er oppfylt:
+
+   1. Klassisk skrapesyke er meldepliktig.
+   2. Det er innført holdningsskapende tiltak og en overvåkings- og tilsynsordning.
+   3. Sauer og geiter infisert med klassisk skrapesyke blir avlivet og fullstendig destruert.
+   4. Fôring av sauer og geiter med kjøttbeinmel eller fettgrever fra drøvtyggere, som definert i Verdens dyrehelseorganisasjons (IOE) helseregelverk for landdyr, er blitt forbudt, og forbudet har vært håndhevet i hele staten i minst de sju siste årene,
+2. Donordyrene er uten avbrudd blitt holdt i et tidsrom på tre år før datoen for oppsamling av sæden eller embryoene som eksporteres, i en eller flere driftsenheter som i løpet av denne perioden har oppfylt alle krav fastsatt i nr. 1.3 bokstav a)–f) i avsnitt A kapittel A i vedlegg VIII, med mindre driftsenheten er en sædstasjon, forutsatt at sædstasjonen oppfyller vilkårene fastsatt i nr. 1.3 bokstav c) iv) i nevnte avsnitt, eller
+
+   ►**M74**
+
+   1. når det gjelder sæd fra sauer, oppsamles fra hanndyr med prionproteingenotypen ARR/ARR, og når det gjelder sæd fra geiter, oppsamles fra hanndyr med minst ett av allelene K222, D146 eller S146, eller
+   2. når det gjelder embryoer fra sauer, har embryoene minst ett av ARR-allel, og når det gjelder embryoer fra geiter, har embryoenes minst ett av allelene K222, D146 eller S146.
+
+   ◄**M74**
 
 ◄**M55**
 
@@ -2333,16 +3860,114 @@ Alle laboratorieundersøkelser for TSE skal foretas i offisielle diagnoselaborat
 
 3.1.
 
-Laboratorieundersøkelser for å påvise BSE hos storfeTilfeller under mistankePrøver fra storfe som er sendt til laboratorieundersøkelse i samsvar med bestemmelsene i artikkel 12 nr. 2, skal umiddelbart gjennomgå bekreftende undersøkelser ved hjelp av minst én av følgende metoder eller protokoller som er fastsatt i siste utgave av håndboken:immunhistokjemisk metode (IHC),Western blot,påvisning av karakteristiske fibriller ved elektronmikroskopi,histopatologisk undersøkelse,kombinasjon av hurtigprøver i henhold til tredje ledd.Dersom resultatet av den histopatologiske undersøkelsen er usikkert eller negativt, skal vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.Hurtigprøver kan brukes både til den første undersøkelsen av tilfeller under mistanke og, dersom resultatet er usikkert eller positivt, til etterfølgende bekreftelse, i samsvar med retningslinjene fra EUs referanselaboratorium – «OIE rules for the official confirmation of BSE in bovines (based on an initial reactive result in an approved rapid test) by using a second rapid test» og forutsatt atden bekreftende undersøkelsen utføres på et nasjonalt referanselaboratorium for TSE, ogen av de to hurtigprøvene er Western blot, ogden andre hurtigprøvenomfatter en negativ vevskontrollprøve og en BSE-prøve som positiv vevskontrollprøve,er av en annen type enn prøven som ble brukt til den første undersøkelsen, ogdersom den første hurtigprøven er Western blot, resultatet av prøven dokumenteres og blot-bildet oversendes det nasjonale referanselaboratoriet for TSE, ogdersom resultatet av den første undersøkelsen ikke bekreftes av den etterfølgende hurtigprøven, må prøven undersøkes ved hjelp av en av de andre bekreftelsesmetodene. Dersom den histopatologiske undersøkelsen brukes for dette formål, men resultatet er usikkert eller negativt, må vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.Dersom resultatet av en av de bekreftende undersøkelsene nevnt i første ledd punkt i)–v) er positivt, skal dyret anses som et positivt BSE-tilfelle.BSE-overvåkingPrøver fra storfe som er sendt til laboratorieundersøkelse i samsvar med bestemmelsene i vedlegg III kapittel A del I, skal undersøkes ved hjelp av en hurtigprøve.Dersom resultatet av hurtigprøven er usikkert eller positivt, skal prøven umiddelbart gjennomgå bekreftende undersøkelser ved hjelp av minst én av følgende metoder eller protokoller som er fastsatt i siste utgave av håndboken:immunhistokjemisk metode (IHC),Western blot,påvisning av karakteristiske fibriller ved elektronmikroskopi,histopatologisk undersøkelse,kombinasjon av hurtigprøver i henhold til fjerde ledd.Dersom resultatet av den histopatologiske undersøkelsen er usikkert eller negativt, skal vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.Hurtigprøver kan brukes både til den første undersøkelsen og, dersom resultatet er usikkert eller positivt, til etterfølgende bekreftelse, i samsvar med retningslinjene fra EUs referanselaboratorium – «OIE rules for the official confirmation of BSE in bovines (based on an initial reactive result in an approved rapid test) by using a second rapid test» og forutsatt atden bekreftende undersøkelsen utføres på et nasjonalt referanselaboratorium for TSE, ogen av de to hurtigprøvene er Western blot, ogden andre hurtigprøvenomfatter en negativ vevskontrollprøve og en BSE-prøve som positiv vevskontrollprøve,er av en annen type enn prøven som ble brukt til den første undersøkelsen, ogdersom den første hurtigprøven er Western blot, resultatet av prøven dokumenteres og blot-bildet oversendes det nasjonale referanselaboratoriet for TSE, ogdersom resultatet av den første undersøkelsen ikke bekreftes av den etterfølgende hurtigprøven, prøven undersøkes ved hjelp av en av de andre bekreftelsesmetodene. Dersom den histopatologiske undersøkelsen brukes for dette formål, men resultatet er usikkert eller negativt, må vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.Et dyr skal anses som et positivt BSE-tilfelle dersom resultatet av hurtigprøven er positivt eller usikkert, og resultatet av minst én av de bekreftende undersøkelsene nevnt i andre ledd punkt i)–v) er positivt.Videre undersøkelse av positive tilfeller av BSEPrøver fra alle positive tilfeller av BSE skal sendes til et laboratorium som er utpekt av vedkommende myndighet, og som med godt resultat har gjennomgått egnethetsprøving organisert av EUs referanselaboratorium i skjelneprøving av bekreftede tilfeller av BSE, der prøvene skal undersøkes videre i samsvar med de metoder og protokoller som er fastsatt i EUs referanselaboratoriums metode for klassifisering av TSE-isolater fra storfe (en metode med dobbeltblotting til foreløpig klassifisering av TSE-isolater fra storfe).
+Laboratorieundersøkelser for å påvise BSE hos storfe
+
+1. Tilfeller under mistanke
+
+   Prøver fra storfe som er sendt til laboratorieundersøkelse i samsvar med bestemmelsene i artikkel 12 nr. 2, skal umiddelbart gjennomgå bekreftende undersøkelser ved hjelp av minst én av følgende metoder eller protokoller som er fastsatt i siste utgave av håndboken:
+
+   1. immunhistokjemisk metode (IHC),
+   2. Western blot,
+   3. påvisning av karakteristiske fibriller ved elektronmikroskopi,
+   4. histopatologisk undersøkelse,
+   5. kombinasjon av hurtigprøver i henhold til tredje ledd.
+
+   Dersom resultatet av den histopatologiske undersøkelsen er usikkert eller negativt, skal vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.
+
+   Hurtigprøver kan brukes både til den første undersøkelsen av tilfeller under mistanke og, dersom resultatet er usikkert eller positivt, til etterfølgende bekreftelse, i samsvar med retningslinjene fra EUs referanselaboratorium – «OIE rules for the official confirmation of BSE in bovines (based on an initial reactive result in an approved rapid test) by using a second rapid test» og forutsatt at
+
+   1. den bekreftende undersøkelsen utføres på et nasjonalt referanselaboratorium for TSE, og
+   2. en av de to hurtigprøvene er Western blot, og
+   3. den andre hurtigprøven
+
+      - omfatter en negativ vevskontrollprøve og en BSE-prøve som positiv vevskontrollprøve,
+      - er av en annen type enn prøven som ble brukt til den første undersøkelsen, og
+   4. dersom den første hurtigprøven er Western blot, resultatet av prøven dokumenteres og blot-bildet oversendes det nasjonale referanselaboratoriet for TSE, og
+   5. dersom resultatet av den første undersøkelsen ikke bekreftes av den etterfølgende hurtigprøven, må prøven undersøkes ved hjelp av en av de andre bekreftelsesmetodene. Dersom den histopatologiske undersøkelsen brukes for dette formål, men resultatet er usikkert eller negativt, må vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.
+
+   Dersom resultatet av en av de bekreftende undersøkelsene nevnt i første ledd punkt i)–v) er positivt, skal dyret anses som et positivt BSE-tilfelle.
+2. BSE-overvåking
+
+   Prøver fra storfe som er sendt til laboratorieundersøkelse i samsvar med bestemmelsene i vedlegg III kapittel A del I, skal undersøkes ved hjelp av en hurtigprøve.
+
+   Dersom resultatet av hurtigprøven er usikkert eller positivt, skal prøven umiddelbart gjennomgå bekreftende undersøkelser ved hjelp av minst én av følgende metoder eller protokoller som er fastsatt i siste utgave av håndboken:
+
+   1. immunhistokjemisk metode (IHC),
+   2. Western blot,
+   3. påvisning av karakteristiske fibriller ved elektronmikroskopi,
+   4. histopatologisk undersøkelse,
+   5. kombinasjon av hurtigprøver i henhold til fjerde ledd.
+
+   Dersom resultatet av den histopatologiske undersøkelsen er usikkert eller negativt, skal vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.
+
+   Hurtigprøver kan brukes både til den første undersøkelsen og, dersom resultatet er usikkert eller positivt, til etterfølgende bekreftelse, i samsvar med retningslinjene fra EUs referanselaboratorium – «OIE rules for the official confirmation of BSE in bovines (based on an initial reactive result in an approved rapid test) by using a second rapid test» og forutsatt at
+
+   1. den bekreftende undersøkelsen utføres på et nasjonalt referanselaboratorium for TSE, og
+   2. en av de to hurtigprøvene er Western blot, og
+   3. den andre hurtigprøven
+
+      - omfatter en negativ vevskontrollprøve og en BSE-prøve som positiv vevskontrollprøve,
+      - er av en annen type enn prøven som ble brukt til den første undersøkelsen, og
+   4. dersom den første hurtigprøven er Western blot, resultatet av prøven dokumenteres og blot-bildet oversendes det nasjonale referanselaboratoriet for TSE, og
+   5. dersom resultatet av den første undersøkelsen ikke bekreftes av den etterfølgende hurtigprøven, prøven undersøkes ved hjelp av en av de andre bekreftelsesmetodene. Dersom den histopatologiske undersøkelsen brukes for dette formål, men resultatet er usikkert eller negativt, må vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.
+
+      Et dyr skal anses som et positivt BSE-tilfelle dersom resultatet av hurtigprøven er positivt eller usikkert, og resultatet av minst én av de bekreftende undersøkelsene nevnt i andre ledd punkt i)–v) er positivt.
+3. Videre undersøkelse av positive tilfeller av BSE
+
+   Prøver fra alle positive tilfeller av BSE skal sendes til et laboratorium som er utpekt av vedkommende myndighet, og som med godt resultat har gjennomgått egnethetsprøving organisert av EUs referanselaboratorium i skjelneprøving av bekreftede tilfeller av BSE, der prøvene skal undersøkes videre i samsvar med de metoder og protokoller som er fastsatt i EUs referanselaboratoriums metode for klassifisering av TSE-isolater fra storfe (en metode med dobbeltblotting til foreløpig klassifisering av TSE-isolater fra storfe).
 
 3.2.
 
-Laboratorieundersøkelser for å påvise TSE hos sau og geitTilfeller under mistankePrøver fra sau og geit som er sendt til laboratorieundersøkelse i samsvar med bestemmelsene i artikkel 12 nr. 2, skal umiddelbart gjennomgå bekreftende undersøkelser ved hjelp av minst én av følgende metoder eller protokoller som er fastsatt i siste utgave av håndboken:immunhistokjemisk metode (IHC),Western blot,påvisning av karakteristiske fibriller ved elektronmikroskopi,histopatologisk undersøkelse.Dersom resultatet av den histopatologiske undersøkelsen er usikkert eller negativt, skal vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.Hurtigprøver kan brukes til den første undersøkelsen av tilfeller under mistanke. Slike prøver kan ikke brukes til etterfølgende bekreftelse.Dersom resultatet av hurtigprøven som ble brukt til den første undersøkelsen av tilfeller under mistanke, er positivt eller usikkert, skal prøven gjennomgå en av de bekreftende undersøkelsene nevnt i første ledd punkt i)–iv). Dersom den histopatologiske undersøkelsen brukes for dette formål, men resultatet er usikkert eller negativt, skal vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.
-►**M67**Dersom resultatet av en av de bekreftende undersøkelsene nevnt i første ledd punkt i)–iv) er positivt, skal dyret anses som et TSE-positivt tilfelle.
-◄**M67**Overvåking av TSEPrøver fra sau og geit som er sendt til laboratorieundersøkelse i samsvar med bestemmelsene i vedlegg III kapittel A del II (Overvåking av sau og geit), skal undersøkes ved hjelp av en hurtigprøve for å sikre at alle kjente TSE-stammer påvises.Dersom resultatet av hurtigtesten er usikkert eller positivt, skal vevet det er tatt prøve av, umiddelbart sendes til et offentlig laboratorium for bekreftende undersøkelser ved hjelp av histopatologi, immunohistokjemi, Western blot eller påvisning av karakteristiske fibriller med elektronmikroskopi, som nevnt i bokstav a). Dersom resultatet av den bekreftende undersøkelsen er negativt eller usikkert, skal vevene gjennomgå en ytterligere undersøkelse ved immunohistokjemi eller Western blot.
-►**M67**Dersom resultatet av en av de bekreftende undersøkelsene er positivt, skal dyret anses som et TSE-positivt tilfelle.
-◄**M67**Ytterligere undersøkelse av positive TSE-tilfeller
-►**M67**Prøver som etter undersøkelsene nevnt i bokstav a) eller b) anses som TSE-positive tilfeller, men som ikke anses som atypiske tilfeller, skal undersøkes for å utelukke forekomst av BSE bare dersom de stammer fra et indekstilfelle. Andre tilfeller som viser tegn som etter forsøkslaboratoriets vurdering bør undersøkes, skal også undersøkes for å utelukke forekomst av BSE.Innledende molekylær testing med skjelnende Western blot-metodeFor å utelukke forekomst av BSE skal prøvene undersøkes med en skjelnende Western blot-metode oppført i retningslinjene for EUs referanselaboratorium. Den skjelnende undersøkelsen skal utføres av et offisielt laboratorium som er utpekt av vedkommende myndighet, og som med godt resultat har deltatt i den seneste sammenlig-nende prøvingen organisert av EUs referanselaboratorium for bruk av denne metoden.Supplerende molekylær testing med ytterligere molekylære testmetoderTSE-tilfeller der den innledende molekylære testingen nevnt i punkt i) ikke kan utelukke forekomst av BSE etter retningslinjene fra EUs referanselaboratorium, skal umiddelbart sendes til EUs referanselaboratorium sammen med alle relevante tilgjengelige opplysninger. Prøvene skal gjennomgå ytterligere undersøkelse og bekreftelse ved minst en alternativ metode som er immunokjemisk forskjellig fra den opprinnelige innledende molekylære metoden. Utformingen av de supplerende molekylære testene skal godkjennes fra tilfelle til tilfelle av EUs referanselaboratorium som beskrevet i laboratoriets retningslinjer, i samsvar med den nyeste vitenskapelige kunnskapen og laboratorieekspertisen. EUs referanselaboratorium skal bistås av ekspertgruppen Strain Typing Expert Group (STEG) og av en representant for det relevante nasjonale referanselaboratoriet.Resultatene skal tolkes av EUs referanselaboratorium med hjelp av STEG og av en representant for det relevante nasjonale referanselaboratoriet. Kommisjonen skal umiddelbart underrettes om resultatet av denne fortolkningen.◄**M67**Biologisk analyse med musPrøver som viser BSE eller har et uvisst resultat etter sekundær molekylær undersøkelse, skal undersøkes videre ved hjelp av en biologisk analyse med mus for å bli endelig bekreftet. Utformingen av den biologiske analysen med mus kan bli påvirket av arten og mengden av tilgjengelig materiale, og skal godkjennes av EUs referanselaboratorium med bistand fra STEG i hvert enkelt tilfelle. Biologiske analyser med mus skal utføres av EUs referanselaboratorium eller av laboratorier utpekt av EUs referanselaboratorium.Resultatene skal tolkes av EUs referanselaboratorium med bistand fra STEG. Kommisjonen skal umiddelbart underrettes om resultatet av denne fortolkningen.
+Laboratorieundersøkelser for å påvise TSE hos sau og geit
+
+1. Tilfeller under mistanke
+
+   Prøver fra sau og geit som er sendt til laboratorieundersøkelse i samsvar med bestemmelsene i artikkel 12 nr. 2, skal umiddelbart gjennomgå bekreftende undersøkelser ved hjelp av minst én av følgende metoder eller protokoller som er fastsatt i siste utgave av håndboken:
+
+   1. immunhistokjemisk metode (IHC),
+   2. Western blot,
+   3. påvisning av karakteristiske fibriller ved elektronmikroskopi,
+   4. histopatologisk undersøkelse.
+
+   Dersom resultatet av den histopatologiske undersøkelsen er usikkert eller negativt, skal vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.
+
+   Hurtigprøver kan brukes til den første undersøkelsen av tilfeller under mistanke. Slike prøver kan ikke brukes til etterfølgende bekreftelse.
+
+   Dersom resultatet av hurtigprøven som ble brukt til den første undersøkelsen av tilfeller under mistanke, er positivt eller usikkert, skal prøven gjennomgå en av de bekreftende undersøkelsene nevnt i første ledd punkt i)–iv). Dersom den histopatologiske undersøkelsen brukes for dette formål, men resultatet er usikkert eller negativt, skal vevene gjennomgå en ytterligere undersøkelse ved hjelp av en av de andre bekreftelsesmetodene eller -protokollene.
+   ►**M67**
+
+   Dersom resultatet av en av de bekreftende undersøkelsene nevnt i første ledd punkt i)–iv) er positivt, skal dyret anses som et TSE-positivt tilfelle.
+   ◄**M67**
+2. Overvåking av TSE
+
+   Prøver fra sau og geit som er sendt til laboratorieundersøkelse i samsvar med bestemmelsene i vedlegg III kapittel A del II (Overvåking av sau og geit), skal undersøkes ved hjelp av en hurtigprøve for å sikre at alle kjente TSE-stammer påvises.
+
+   Dersom resultatet av hurtigtesten er usikkert eller positivt, skal vevet det er tatt prøve av, umiddelbart sendes til et offentlig laboratorium for bekreftende undersøkelser ved hjelp av histopatologi, immunohistokjemi, Western blot eller påvisning av karakteristiske fibriller med elektronmikroskopi, som nevnt i bokstav a). Dersom resultatet av den bekreftende undersøkelsen er negativt eller usikkert, skal vevene gjennomgå en ytterligere undersøkelse ved immunohistokjemi eller Western blot.
+   ►**M67**
+
+   Dersom resultatet av en av de bekreftende undersøkelsene er positivt, skal dyret anses som et TSE-positivt tilfelle.
+   ◄**M67**
+3. Ytterligere undersøkelse av positive TSE-tilfeller
+   ►**M67**
+
+   Prøver som etter undersøkelsene nevnt i bokstav a) eller b) anses som TSE-positive tilfeller, men som ikke anses som atypiske tilfeller, skal undersøkes for å utelukke forekomst av BSE bare dersom de stammer fra et indekstilfelle. Andre tilfeller som viser tegn som etter forsøkslaboratoriets vurdering bør undersøkes, skal også undersøkes for å utelukke forekomst av BSE.
+
+   1. Innledende molekylær testing med skjelnende Western blot-metode
+
+      For å utelukke forekomst av BSE skal prøvene undersøkes med en skjelnende Western blot-metode oppført i retningslinjene for EUs referanselaboratorium. Den skjelnende undersøkelsen skal utføres av et offisielt laboratorium som er utpekt av vedkommende myndighet, og som med godt resultat har deltatt i den seneste sammenlig-nende prøvingen organisert av EUs referanselaboratorium for bruk av denne metoden.
+   2. Supplerende molekylær testing med ytterligere molekylære testmetoder
+
+      TSE-tilfeller der den innledende molekylære testingen nevnt i punkt i) ikke kan utelukke forekomst av BSE etter retningslinjene fra EUs referanselaboratorium, skal umiddelbart sendes til EUs referanselaboratorium sammen med alle relevante tilgjengelige opplysninger. Prøvene skal gjennomgå ytterligere undersøkelse og bekreftelse ved minst en alternativ metode som er immunokjemisk forskjellig fra den opprinnelige innledende molekylære metoden. Utformingen av de supplerende molekylære testene skal godkjennes fra tilfelle til tilfelle av EUs referanselaboratorium som beskrevet i laboratoriets retningslinjer, i samsvar med den nyeste vitenskapelige kunnskapen og laboratorieekspertisen. EUs referanselaboratorium skal bistås av ekspertgruppen Strain Typing Expert Group (STEG) og av en representant for det relevante nasjonale referanselaboratoriet.
+
+      Resultatene skal tolkes av EUs referanselaboratorium med hjelp av STEG og av en representant for det relevante nasjonale referanselaboratoriet. Kommisjonen skal umiddelbart underrettes om resultatet av denne fortolkningen.
+
+   ◄**M67**
+
+   1. Biologisk analyse med mus
+
+      Prøver som viser BSE eller har et uvisst resultat etter sekundær molekylær undersøkelse, skal undersøkes videre ved hjelp av en biologisk analyse med mus for å bli endelig bekreftet. Utformingen av den biologiske analysen med mus kan bli påvirket av arten og mengden av tilgjengelig materiale, og skal godkjennes av EUs referanselaboratorium med bistand fra STEG i hvert enkelt tilfelle. Biologiske analyser med mus skal utføres av EUs referanselaboratorium eller av laboratorier utpekt av EUs referanselaboratorium.
+
+      Resultatene skal tolkes av EUs referanselaboratorium med bistand fra STEG. Kommisjonen skal umiddelbart underrettes om resultatet av denne fortolkningen.
 
 3.3.
 
@@ -2354,9 +3979,20 @@ Særlig dersom BSE mistenkes hos en annen art enn storfe, skal tilfellene henvis
 
 4.*Hurtigprøver*
 
-Med sikte på å gjennomføre hurtigprøvene i samsvar med artikkel 5 nr. 3 og artikkel 6 nr. 1 skal bare følgende metoder brukes som hurtigprøver ved overvåking av BSE hos storfe:immunoblot-prøve basert på en Western blot-metode for påvisning av proteinase K-resistent fragment PrPRes (Prionics-Check Western-prøve),immunologisk analyse (Sandwich-metoden) for påvisning av PrPRes (kort analyseprotokoll) gjennomført etter denaturering og konsentrering (Bio-Rad TeSeE SAP-hurtigprøve),mikroplatebasert immunologisk analyse (ELISA) som påviser proteinase K-resistent PrPRes med monoklonale antistoffer (Prionics-Check LIA-prøve),immunologisk analyse med bruk av en kjemisk polymer for selektiv PrPSc-binding og et monoklonalt påvisningsantistoff rettet mot bevarte deler av PrP-molekylet (IDEXX HerdChek BSE Antigen Test Kit, EIA og HerdChek BSE-Scrapie Antigen (IDEXX -laboratorier)),immunologisk analyse basert på lateral strømning med bruk av to ulike monoklonale antistoffer for påvisning av proteinase K-resistente PrP-fraksjoner (Prionics Check PrioSTRIP),tosidig immunologisk analyse ved bruk av to ulike monoklonale antistoffer rettet mot to epitoper som finnes i fullt utfoldet PrPSc hos storfe (Roboscreen Beta Prion BSE EIA Test Kit),
+Med sikte på å gjennomføre hurtigprøvene i samsvar med artikkel 5 nr. 3 og artikkel 6 nr. 1 skal bare følgende metoder brukes som hurtigprøver ved overvåking av BSE hos storfe:
 
-Med sikte på å gjennomføre hurtigprøvene i samsvar med artikkel 5 nr. 3 og artikkel 6 nr. 1 skal bare følgende metoder brukes som hurtigprøver for overvåking av TSE hos sau og geit:immunologisk analyse (Sandwich-metoden) for påvisning av PrPRes (kort analyseprotokoll) gjennomført etter denaturering og konsentrering (Bio-Rad TeSeE SAP-hurtigprøve),immunologisk analyse (Sandwich-metoden) for påvisning av PrPRes ved hjelp av TeSeE Sheep/Goat Detection kit, gjennomført etter denaturering og konsentrering ved hjelp av TeSeE Sheep/Goat Purification kit (Bio-Rad TeSeE Sheep/Goat-hurtigprøve),immunologisk analyse med bruk av en kjemisk polymer for selektiv PrPSc-binding og et monoklonalt påvisningsantistoff rettet mot bevarte deler av PrP-molekylet (HerdChek BSE Scrapie Antigen (IDEXX -laboratorier)),
+- immunoblot-prøve basert på en Western blot-metode for påvisning av proteinase K-resistent fragment PrPRes (Prionics-Check Western-prøve),
+- immunologisk analyse (Sandwich-metoden) for påvisning av PrPRes (kort analyseprotokoll) gjennomført etter denaturering og konsentrering (Bio-Rad TeSeE SAP-hurtigprøve),
+- mikroplatebasert immunologisk analyse (ELISA) som påviser proteinase K-resistent PrPRes med monoklonale antistoffer (Prionics-Check LIA-prøve),
+- immunologisk analyse med bruk av en kjemisk polymer for selektiv PrPSc-binding og et monoklonalt påvisningsantistoff rettet mot bevarte deler av PrP-molekylet (IDEXX HerdChek BSE Antigen Test Kit, EIA og HerdChek BSE-Scrapie Antigen (IDEXX -laboratorier)),
+- immunologisk analyse basert på lateral strømning med bruk av to ulike monoklonale antistoffer for påvisning av proteinase K-resistente PrP-fraksjoner (Prionics Check PrioSTRIP),
+- tosidig immunologisk analyse ved bruk av to ulike monoklonale antistoffer rettet mot to epitoper som finnes i fullt utfoldet PrPSc hos storfe (Roboscreen Beta Prion BSE EIA Test Kit),
+
+Med sikte på å gjennomføre hurtigprøvene i samsvar med artikkel 5 nr. 3 og artikkel 6 nr. 1 skal bare følgende metoder brukes som hurtigprøver for overvåking av TSE hos sau og geit:
+
+- immunologisk analyse (Sandwich-metoden) for påvisning av PrPRes (kort analyseprotokoll) gjennomført etter denaturering og konsentrering (Bio-Rad TeSeE SAP-hurtigprøve),
+- immunologisk analyse (Sandwich-metoden) for påvisning av PrPRes ved hjelp av TeSeE Sheep/Goat Detection kit, gjennomført etter denaturering og konsentrering ved hjelp av TeSeE Sheep/Goat Purification kit (Bio-Rad TeSeE Sheep/Goat-hurtigprøve),
+- immunologisk analyse med bruk av en kjemisk polymer for selektiv PrPSc-binding og et monoklonalt påvisningsantistoff rettet mot bevarte deler av PrP-molekylet (HerdChek BSE Scrapie Antigen (IDEXX -laboratorier)),
 
 I alle hurtigprøver skal den vevsprøven som prøven skal utføres på, være i samsvar med produsentens bruksanvisning.
 

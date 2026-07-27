@@ -168,9 +168,23 @@ Banken skal søke å begrense refinansieringsrisikoen i låneporteføljen. Låne
 
 (2) Departementet skal påse at kontoplan og øvrige begrepsverdier for registrerings- og rapporteringsformål er registrert i regnskapssystemet. Banken må i god tid før regnskapsfil oversendes varsle om nye lån og avtaler som er inngått.
 
-(3) Banken skal levere regnskapsfiler på følgende områder:Nye statslån og utvidelser i disse, både utestående gjeld og egenbeholdning og ev. tilbakekjøp av statspapirer.Terminbetalinger og forfall i norske statspapirer, herunder avskriving av over-/underkurs og håndtering av ev. returer, både på gjeld og egenbeholdning.Kvartalsvis rapportering av avdrag på statsobligasjoner mot kapitalregnskapet, både på gjeld og egenbeholdning.Handel med statens egenbeholdning av statspapirer for pleie av markedet.Ordinære renteterminer knyttet til inngåtte rentebytteavtaler.Inn- og utbetaling av sikkerhetsbeløp knyttet til inngåtte rentebytteavtaler.Utbetaling av opptjent rente til motparter under ordningen med sikkerhetsbeløp knyttet til inngåtte rentebytteavtaler.Mottatt opptjent rente til staten under ordningen med sikkerhetsbeløp knyttet til inngåtte rentebytteavtaler.
+(3) Banken skal levere regnskapsfiler på følgende områder:
 
-(4) For handel med statens egenbeholdning av statspapirer (gjenkjøpsavtaler) skal banken halvårlig sende departementet en rapport som viser regnskapsstørrelser pr. statspapir for:Beholdningen av statspapirer (nominell verdi, kostpris inkl. transaksjonskostnader og markedsverdi).Beholdningen av gjenkjøpsavtaler (nominell verdi og avtalepris/markedsverdi).Renteinntekter etter kontantprinsippet (rentekupong innbetalt via gjenkjøpsavtaler).Rentekostnad etter kontantprinsippet (rente på mottatt likviditet under gjenkjøpsavtaler).
+1. Nye statslån og utvidelser i disse, både utestående gjeld og egenbeholdning og ev. tilbakekjøp av statspapirer.
+2. Terminbetalinger og forfall i norske statspapirer, herunder avskriving av over-/underkurs og håndtering av ev. returer, både på gjeld og egenbeholdning.
+3. Kvartalsvis rapportering av avdrag på statsobligasjoner mot kapitalregnskapet, både på gjeld og egenbeholdning.
+4. Handel med statens egenbeholdning av statspapirer for pleie av markedet.
+5. Ordinære renteterminer knyttet til inngåtte rentebytteavtaler.
+6. Inn- og utbetaling av sikkerhetsbeløp knyttet til inngåtte rentebytteavtaler.
+7. Utbetaling av opptjent rente til motparter under ordningen med sikkerhetsbeløp knyttet til inngåtte rentebytteavtaler.
+8. Mottatt opptjent rente til staten under ordningen med sikkerhetsbeløp knyttet til inngåtte rentebytteavtaler.
+
+(4) For handel med statens egenbeholdning av statspapirer (gjenkjøpsavtaler) skal banken halvårlig sende departementet en rapport som viser regnskapsstørrelser pr. statspapir for:
+
+1. Beholdningen av statspapirer (nominell verdi, kostpris inkl. transaksjonskostnader og markedsverdi).
+2. Beholdningen av gjenkjøpsavtaler (nominell verdi og avtalepris/markedsverdi).
+3. Renteinntekter etter kontantprinsippet (rentekupong innbetalt via gjenkjøpsavtaler).
+4. Rentekostnad etter kontantprinsippet (rente på mottatt likviditet under gjenkjøpsavtaler).
 
 ## Kapittel 6: Rapportering
 

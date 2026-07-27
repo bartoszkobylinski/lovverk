@@ -15,7 +15,7 @@ xml_hash: "ce8e5fd5ef24174df64e62d3042ca46ba0ee96e07066acd852edaef352988a92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -228,11 +228,17 @@ Den nye bruken etter andre og tredje stykket i paragrafen må ikkje vere til ves
 
 ### § 22
 
-Rett til oppteken seter med setervoll og tilliggjande kulturbeite fell bort:Ved oppgjeving utan atterhald.Når setra i eit samanhengande tidsrom av 20 år ikkje har vore i bruk som seter.
+Rett til oppteken seter med setervoll og tilliggjande kulturbeite fell bort:
+
+1. Ved oppgjeving utan atterhald.
+2. Når setra i eit samanhengande tidsrom av 20 år ikkje har vore i bruk som seter.
 
 Bortfall av rett til seter etter første stykke nr. 2 får først verknad 5 år etter at lova har teke til å gjelde, med mindre retten etter § 20 i lov 12 mars 1920 ville ha falle bort før.
 
-Rett til utvist tilleggsjord etter [§ 19](lov/1975-06-06-31/§19), og som ikkje direkte er knytt til ei seter, fell bort:Ved oppgjeving utan atterhald.Når tilleggsjorda i 5 år samanhengande ikkje har vore i bruk.
+Rett til utvist tilleggsjord etter [§ 19](lov/1975-06-06-31/§19), og som ikkje direkte er knytt til ei seter, fell bort:
+
+1. Ved oppgjeving utan atterhald.
+2. Når tilleggsjorda i 5 år samanhengande ikkje har vore i bruk.
 
 ## Kap. XI. – Jakt og fangst.
 

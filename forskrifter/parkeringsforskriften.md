@@ -15,7 +15,7 @@ xml_hash: "c6ad4afc9e1bb5a87c45daf24f1404d62d53e22d815337e14d3fc04a3357d263"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,25 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med denne forskriften er å:sikre en forutsigbar, balansert og forbrukervennlig utøvelse av parkeringsvirksomhet,sikre at parkeringstilbudet er universelt utformet,sikre at parkeringsvirksomhet utøves med god kvalitet og mest mulig likt uavhengig av hvem som er tilbyder,bidra til likere konkurranseforhold mellom tilbydere av parkeringstjenester oglegge til rette for offentlig kontroll av virksomheten.
+Formålet med denne forskriften er å:
+
+1. sikre en forutsigbar, balansert og forbrukervennlig utøvelse av parkeringsvirksomhet,
+2. sikre at parkeringstilbudet er universelt utformet,
+3. sikre at parkeringsvirksomhet utøves med god kvalitet og mest mulig likt uavhengig av hvem som er tilbyder,
+4. bidra til likere konkurranseforhold mellom tilbydere av parkeringstjenester og
+5. legge til rette for offentlig kontroll av virksomheten.
 
 ### § 2. Definisjoner
 
-I denne forskriften forstås med:*Vilkårsparkering:* parkering mot betaling, med tidsbegrensning med eller uten dokumentasjonsplikt, på oppstillingsvilkår, med krav om parkeringstillatelse for forflytningshemmede eller på andre vilkår.*Parkering:* Enhver hensetting av kjøretøy, selv om føreren ikke forlater det. Unntatt er kortest mulig stans for av- eller påstigning eller av- eller pålessing, jf. [forskrift om kjørende og gående trafikk § 1 bokstav k](forskrift/1986-03-21-747/§1/ledd/1/bokstav/k).*Avgiftsbelagt kommunal parkeringsplass:* parkeringsplass som driftes og håndheves av en kommune eller heleide kommunale selskaper, hvor det tilbys vilkårsparkering mot betaling. Unntatt er tilfeller der kommunen eller heleid kommunalt selskap har inngått skriftlig avtale om å håndheve for private på et område utenfor den offentlige ferdselsåren hvor det er åpenbart at plassen likevel driftes av private. Statens vegvesen avgjør i tvilstilfelle om en avgiftsbelagt parkeringsplass er kommunal.*Håndheving:* både ileggelse av kontrollsanksjoner og beslutning om fjerning av kjøretøy jf. [§ 38](forskrift/2016-03-18-260/§38) og [§ 42](forskrift/2016-03-18-260/§42).*Ladbar motorvogn:* motorvogn som helt eller delvis drives frem av elektrisk motor og som har batterier som kan lades direkte fra strømnettet.*Private skilt:* skilt som ikke er regulert i [skiltforskriften](forskrift/2005-10-07-1219) eller denne forskriften med vedlegg.*Offentlig ferdselsåre:* Ferdselsdelen av offentlig veg, beregnet på trafikk med motorvogn, med integrerte arealer som kantsteinsparkering og lignende.
+I denne forskriften forstås med:
+
+1. *Vilkårsparkering:* parkering mot betaling, med tidsbegrensning med eller uten dokumentasjonsplikt, på oppstillingsvilkår, med krav om parkeringstillatelse for forflytningshemmede eller på andre vilkår.
+2. *Parkering:* Enhver hensetting av kjøretøy, selv om føreren ikke forlater det. Unntatt er kortest mulig stans for av- eller påstigning eller av- eller pålessing, jf. [forskrift om kjørende og gående trafikk § 1 bokstav k](forskrift/1986-03-21-747/§1/ledd/1/bokstav/k).
+3. *Avgiftsbelagt kommunal parkeringsplass:* parkeringsplass som driftes og håndheves av en kommune eller heleide kommunale selskaper, hvor det tilbys vilkårsparkering mot betaling. Unntatt er tilfeller der kommunen eller heleid kommunalt selskap har inngått skriftlig avtale om å håndheve for private på et område utenfor den offentlige ferdselsåren hvor det er åpenbart at plassen likevel driftes av private. Statens vegvesen avgjør i tvilstilfelle om en avgiftsbelagt parkeringsplass er kommunal.
+4. *Håndheving:* både ileggelse av kontrollsanksjoner og beslutning om fjerning av kjøretøy jf. [§ 38](forskrift/2016-03-18-260/§38) og [§ 42](forskrift/2016-03-18-260/§42).
+5. *Ladbar motorvogn:* motorvogn som helt eller delvis drives frem av elektrisk motor og som har batterier som kan lades direkte fra strømnettet.
+6. *Private skilt:* skilt som ikke er regulert i [skiltforskriften](forskrift/2005-10-07-1219) eller denne forskriften med vedlegg.
+7. *Offentlig ferdselsåre:* Ferdselsdelen av offentlig veg, beregnet på trafikk med motorvogn, med integrerte arealer som kantsteinsparkering og lignende.
 
 > Endret ved [forskrift 24 nov 2023 nr. 1950](forskrift/2023-11-24-1950) (i kraft 4 des 2023).
 
@@ -64,7 +78,10 @@ Det enkelte parkeringsområde må tilfredsstille kravene i [§ 16](forskrift/201
 
 Foretak, enkeltpersonforetak eller forvaltningsorgan kan drive vilkårsparkering. Foretak må være registret i Foretaksregisteret og ha fast forretningssted i riket.
 
-Enkeltpersonforetak må være registrert i Enhetsregisteret. Organisasjonsnummer må oppgis i egenmeldingsskjemaet. Innehaveren må dessuten:være fylt 18 år ogvære statsborger i stat som er part i [EØS-avtalen](lov/1992-11-27-109/eøsl), eller ha fast bopel i Norge.
+Enkeltpersonforetak må være registrert i Enhetsregisteret. Organisasjonsnummer må oppgis i egenmeldingsskjemaet. Innehaveren må dessuten:
+
+1. være fylt 18 år og
+2. være statsborger i stat som er part i [EØS-avtalen](lov/1992-11-27-109/eøsl), eller ha fast bopel i Norge.
 
 Dersom foretaket eller enkeltpersonforetaket har daglig leder, må også denne personen oppfylle vilkårene i annet ledd bokstav a) og b).
 
@@ -102,7 +119,11 @@ Virksomhetens ledelse har plikt til å sørge for at ansatte som skal utføre ko
 
 ### § 9. Krav til opplæring
 
-Den som skal utføre kontrolltjeneste med vilkårsparkering må ha gjennomført og bestått godkjent opplæring. Opplæringen skal til sammen ha en varighet på minst 70 skoletimer og bestå av:en innledende teoretisk del og praksisopplæring i kontrolltjeneste på til sammen minst 30 skoletimer og med avsluttende prøve,praksisopplæring og oppsummerende teorikurs på minst 30 skoletimer og med avsluttende prøve ogbestått regodkjenningsprøve hvert femte år.
+Den som skal utføre kontrolltjeneste med vilkårsparkering må ha gjennomført og bestått godkjent opplæring. Opplæringen skal til sammen ha en varighet på minst 70 skoletimer og bestå av:
+
+1. en innledende teoretisk del og praksisopplæring i kontrolltjeneste på til sammen minst 30 skoletimer og med avsluttende prøve,
+2. praksisopplæring og oppsummerende teorikurs på minst 30 skoletimer og med avsluttende prøve og
+3. bestått regodkjenningsprøve hvert femte år.
 
 Opplæringen i første ledd bokstav a) skal inneholde generell teoretisk opplæring i vilkårsparkeringsregler, virksomhetens rutiner, innføring i uniformbruk og opptreden i tjeneste.
 
@@ -126,7 +147,11 @@ Opplæringspersonell skal ha tilstrekkelig faglig opplæringskompetanse for å s
 
 Dersom yrkesutøver med kvalifikasjoner ervervet fra en annen EØS-stat, Sveits eller Storbritannia ønsker å etablere seg i Norge, kan Statens vegvesen godkjenne dennes yrkeskvalifikasjon som et alternativ til opplæringskravene i [§ 9](forskrift/2016-03-18-260/§9), jf. reglene i [yrkeskvalifikasjonsloven](lov/2017-06-16-69) og [forskrift 22. desember 2017 nr. 2384 om godkjenning av yrkeskvalifikasjoner](forskrift/2017-12-22-2384).
 
-Dersom en yrkesutøver med kvalifikasjoner ervervet fra en annen EØS-stat eller Sveits skal utføre midlertidig tjenesteytelse i Norge, kreves det forhåndsmelding i tråd med reglene i [forskrift om godkjenning av yrkeskvalifikasjoner § 2-2](forskrift/2017-12-22-2384/§2-2). Følgende dokumenter skal leveres i tillegg til forhåndsmeldingen:bevis på identitet og nasjonalitet,bekreftelse på at yrkesutøveren er lovlig etablert i en annen EØS-stat eller Sveits og at vedkommende har rett til å arbeide i staten,bevis på yrkeskvalifikasjoner eller bekreftelse på at yrkesutøveren har arbeidet i minimum ett år i løpet av de siste ti årene i etableringsstaten dersom verken yrket eller utdanningen er lovregulert der.
+Dersom en yrkesutøver med kvalifikasjoner ervervet fra en annen EØS-stat eller Sveits skal utføre midlertidig tjenesteytelse i Norge, kreves det forhåndsmelding i tråd med reglene i [forskrift om godkjenning av yrkeskvalifikasjoner § 2-2](forskrift/2017-12-22-2384/§2-2). Følgende dokumenter skal leveres i tillegg til forhåndsmeldingen:
+
+1. bevis på identitet og nasjonalitet,
+2. bekreftelse på at yrkesutøveren er lovlig etablert i en annen EØS-stat eller Sveits og at vedkommende har rett til å arbeide i staten,
+3. bevis på yrkeskvalifikasjoner eller bekreftelse på at yrkesutøveren har arbeidet i minimum ett år i løpet av de siste ti årene i etableringsstaten dersom verken yrket eller utdanningen er lovregulert der.
 
 > Endret ved forskrifter [10 okt 2018 nr. 1568](forskrift/2018-10-10-1568) (i kraft 15 okt 2018), [15 okt 2024 nr. 2490](forskrift/2024-10-15-2490) (i kraft 16 okt 2024).
 
@@ -140,9 +165,18 @@ Den som utfører kontrolltjeneste med vilkårsparkering, skal bære uniform. Uni
 
 Den som utfører kontrolltjeneste med vilkårsparkering skal bære synlig og lesbart legitimasjonskort og plikter å oppgi virksomhetens navn og tjenestenummer når dette forlanges av den som tjenestehandlingen direkte angår, politiet eller Statens vegvesen.
 
-Kortet skal på forsiden inneholde:virksomhetens navn og organisasjonsnummer,«parkeringsvakt», «parkeringsbetjent», «trafikkbetjent», «bybetjent» eller «parkeringskontrollør». For person som ikke har fullført utdanningen skal «under opplæring» fremgå,bilde av kontrolløren,identitetsnummer (tjenestenummer) ogutløpsdato
+Kortet skal på forsiden inneholde:
 
-På baksiden skal kortet inneholde:dato for når kontrolløren ble godkjent som kontrollør eller regodkjent ogutstedelsesdato.
+1. virksomhetens navn og organisasjonsnummer,
+2. «parkeringsvakt», «parkeringsbetjent», «trafikkbetjent», «bybetjent» eller «parkeringskontrollør». For person som ikke har fullført utdanningen skal «under opplæring» fremgå,
+3. bilde av kontrolløren,
+4. identitetsnummer (tjenestenummer) og
+5. utløpsdato
+
+På baksiden skal kortet inneholde:
+
+1. dato for når kontrolløren ble godkjent som kontrollør eller regodkjent og
+2. utstedelsesdato.
 
 Kortet skal ha gyldighet på inntil fem år fra fullført og bestått opplæring eller siste regodkjenning. Ved endringer i opplysningene på kortet skal det utstedes nytt kort.
 
@@ -170,7 +204,11 @@ Retten til å tilby vilkårsparkering bortfaller dersom virksomheten tas under k
 
 ### § 16. Krav til det enkelte parkeringsområde
 
-1. Før virksomheten kan tilby vilkårsparkering regulert med skilt som vist i denne forskrift, skal skiltplan og tilleggsinformasjon for det enkelte parkeringsområde være registrert i sentralt elektronisk register. Dersom dette ikke er gjort, kan det ikke håndheves.Området skal være skiltet i tråd med skiltplanen. Virksomheten har ansvaret for å utarbeide og registrere slik skiltplan. Skiltplanen skal inneholde kart over parkeringsområdets utforming, vise totalt antall plasser og plassering av skilt og betalingsautomater. Tilleggsinformasjonen skal oppsummere tallmaterialet fra skiltplanen og inneholde en vurdering fra virksomheten i henhold til [§ 62](forskrift/2016-03-18-260/§62). Opplysningene skal gis ved utfylling av skjema for tilleggsinformasjon. Vegdirektoratet kan stille nærmere krav til skiltplan.Alle endringer i skiltplanen med tilleggsinformasjon skal registreres i sentralt elektronisk register med angivelse av når endringen trer i kraft. Før endringer i skiltplanen er meldt inn i registeret, kan endringene ikke håndheves. Innmeldingskravet gjelder likevel ikke for nødvendige reguleringsendringer på inntil 48 timer og heller ikke for midlertidige endringer som følge av akutte hendelser.
+1. Før virksomheten kan tilby vilkårsparkering regulert med skilt som vist i denne forskrift, skal skiltplan og tilleggsinformasjon for det enkelte parkeringsområde være registrert i sentralt elektronisk register. Dersom dette ikke er gjort, kan det ikke håndheves.
+
+   Området skal være skiltet i tråd med skiltplanen. Virksomheten har ansvaret for å utarbeide og registrere slik skiltplan. Skiltplanen skal inneholde kart over parkeringsområdets utforming, vise totalt antall plasser og plassering av skilt og betalingsautomater. Tilleggsinformasjonen skal oppsummere tallmaterialet fra skiltplanen og inneholde en vurdering fra virksomheten i henhold til [§ 62](forskrift/2016-03-18-260/§62). Opplysningene skal gis ved utfylling av skjema for tilleggsinformasjon. Vegdirektoratet kan stille nærmere krav til skiltplan.
+
+   Alle endringer i skiltplanen med tilleggsinformasjon skal registreres i sentralt elektronisk register med angivelse av når endringen trer i kraft. Før endringer i skiltplanen er meldt inn i registeret, kan endringene ikke håndheves. Innmeldingskravet gjelder likevel ikke for nødvendige reguleringsendringer på inntil 48 timer og heller ikke for midlertidige endringer som følge av akutte hendelser.
 2. Vilkårsparkering vist med skiltforskriftskilt skal følge reglene om skiltvedtak, jf. [skiltforskriften § 28](forskrift/2005-10-07-1219/§28), jf. [§ 36](forskrift/2005-10-07-1219/§36). Vilkårsparkering vist med skiltforskriftskilt kan håndheves når vedtak er fattet og skilt er satt opp og avdekket jf. [skiltforskriften § 2 nr. 1](forskrift/2005-10-07-1219/§2/nummer/1). Virksomhetene skal likevel registrere skiltplan i sentralt elektronisk register slik som omtalt i paragrafen her bokstav a, andre ledd. Kravet om innmelding av skiltplan gjelder også for arbeid på offentlig veg som følger reglene i [skiltforskriften kap. 14](forskrift/2005-10-07-1219/kap14), så lenge arbeidet ikke faller inn under bokstav a, tredje ledd, siste punktum (midlertidige endringer mv.) i paragrafen her. Virksomhetene er ved slikt arbeid likevel fritatt fra plikten til fortløpende oppdatering av endringer i skiltplan med tilleggsinformasjon.
 
 Virksomhetene bærer selv kostnader ved utforming av skiltplan, produksjon og oppsetting av skilt.
@@ -223,7 +261,12 @@ Vegdirektoratet kan fastsette forskrift om gebyr for dekning av kostnader med ti
 
 Regulering av vilkårsparkering skal gjøres ved bruk av skilt som angitt i [vedlegg 1](forskrift/2016-03-18-260/vedlegg1). Skilt som er vist i [vedlegg 1](forskrift/2016-03-18-260/vedlegg1) er å anse som offentlige skilt.
 
-Sentralt på det enkelte parkeringsområde skal det plasseres informasjonsskilt med følgende opplysninger:virksomhetens navn og telefonnummer,vilkår for bruker, herunder angivelse av eventuell betalingsplikt for forflytningshemmede,reaksjoner ved brudd på vilkår ogsummarisk om klageadgang.
+Sentralt på det enkelte parkeringsområde skal det plasseres informasjonsskilt med følgende opplysninger:
+
+1. virksomhetens navn og telefonnummer,
+2. vilkår for bruker, herunder angivelse av eventuell betalingsplikt for forflytningshemmede,
+3. reaksjoner ved brudd på vilkår og
+4. summarisk om klageadgang.
 
 Der vilkårsparkering tilbys på områder hvor skilting etter annet ledd anses uhensiktsmessig kan informasjonen gis på annen måte.
 
@@ -361,14 +404,31 @@ Ved overtredelse av vilkårene for avgiftsparkering i over tre døgn skal kontro
 
 ### § 37. Betalingsansvar og kontrollsanksjonens lovlighet
 
-1. Kontrollsanksjon skal ilegges fører av motorvognen på stedet. Dersom føreren er en annen enn den som var registrert som eier ved tidspunktet for overtredelsen, er de solidarisk ansvarlig for betalingen, med mindre motorvognen var fratatt eieren ved et lovbrudd med en strafferamme på mer enn ett år. Der føreren er kjent, må føreren først kreves for beløpet. Dersom kontrollsanksjon ikke er betalt 30 dager etter at betalingsoppfordring er sendt fører, kan beløpet kreves inn fra registrert eier av motorvognen.Solidaransvaret etter første ledd omfatter også kostnader ved fjerning og oppbevaring av motorvogn.Blanketten for sanksjonen skal normalt festes på motorvognen sammen med nødvendig informasjon om innbetaling eller leveres føreren. I særlige tilfeller kan den likevel sendes fører eller eier i posten.Betalingsfrist for ilagt kontrollsanksjon skal være minst tre uker etter ileggelse av denne. For fristberegningen gjelder [forvaltningsloven § 30 annet ledd](lov/1967-02-10/§30/ledd/2) tilsvarende. Dersom kontrollsanksjonen ikke betales innen fristen, kan den inndrives som et alminnelig pengekrav. Det kan ikke tas særskilte gebyr for inndriving av kontrollsanksjon, utover det som eventuelt måtte følge av annen lovgivning.
-2. Blanketten skal, for at sanksjonen skal anses lovlig ilagt, inneholde informasjon om:hvordan man kan kontakte virksomheten som har ilagt kontrollsanksjonendet faktiske og rettslige grunnlaget for sanksjonen, herunder blant annet hvilken bestemmelse som er overtrådt, sted og tidspunkt for overtredelsen og korrekt kjennemerke for det ilagte kjøretøyetklagerett og klagefrist og at bestridte krav, forutsatt at fristene for klage i [kapittel 9](forskrift/2016-03-18-260/kap9) er overholdt, ikke kan sendes til inkasso før kravets rettmessighet er endelig avgjort.at klageretten gjelder uavhengig av om klager har bistand fra advokat eller lignende.Dersom nr. 1–4 i denne bestemmelsen ikke er ivaretatt, skal sanksjonen oppheves.
+1. Kontrollsanksjon skal ilegges fører av motorvognen på stedet. Dersom føreren er en annen enn den som var registrert som eier ved tidspunktet for overtredelsen, er de solidarisk ansvarlig for betalingen, med mindre motorvognen var fratatt eieren ved et lovbrudd med en strafferamme på mer enn ett år. Der føreren er kjent, må føreren først kreves for beløpet. Dersom kontrollsanksjon ikke er betalt 30 dager etter at betalingsoppfordring er sendt fører, kan beløpet kreves inn fra registrert eier av motorvognen.
+
+   Solidaransvaret etter første ledd omfatter også kostnader ved fjerning og oppbevaring av motorvogn.
+
+   Blanketten for sanksjonen skal normalt festes på motorvognen sammen med nødvendig informasjon om innbetaling eller leveres føreren. I særlige tilfeller kan den likevel sendes fører eller eier i posten.
+
+   Betalingsfrist for ilagt kontrollsanksjon skal være minst tre uker etter ileggelse av denne. For fristberegningen gjelder [forvaltningsloven § 30 annet ledd](lov/1967-02-10/§30/ledd/2) tilsvarende. Dersom kontrollsanksjonen ikke betales innen fristen, kan den inndrives som et alminnelig pengekrav. Det kan ikke tas særskilte gebyr for inndriving av kontrollsanksjon, utover det som eventuelt måtte følge av annen lovgivning.
+2. Blanketten skal, for at sanksjonen skal anses lovlig ilagt, inneholde informasjon om:
+
+   1. hvordan man kan kontakte virksomheten som har ilagt kontrollsanksjonen
+   2. det faktiske og rettslige grunnlaget for sanksjonen, herunder blant annet hvilken bestemmelse som er overtrådt, sted og tidspunkt for overtredelsen og korrekt kjennemerke for det ilagte kjøretøyet
+   3. klagerett og klagefrist og at bestridte krav, forutsatt at fristene for klage i [kapittel 9](forskrift/2016-03-18-260/kap9) er overholdt, ikke kan sendes til inkasso før kravets rettmessighet er endelig avgjort.
+   4. at klageretten gjelder uavhengig av om klager har bistand fra advokat eller lignende.
+
+   Dersom nr. 1–4 i denne bestemmelsen ikke er ivaretatt, skal sanksjonen oppheves.
 
 > Endret ved [forskrift 24 nov 2023 nr. 1950](forskrift/2023-11-24-1950) (i kraft 4 des 2023).
 
 ### § 38. Fjerning av motorvogn
 
-Motorvogn kan om nødvendig fjernes fra parkeringsplasser som omfattes av [§ 3](forskrift/2016-03-18-260/§3) og tas i forvaring når følgende vilkår er oppfylt:motorvognen står til hinder og i strid med vilkårene for parkering i eller i medhold av denne forskriften,fører/eier av motorvognen er forsøkt varslet og ved kontakt gitt rimelig frist for selv å fjerne motorvognen ogdet klart fremgår av skilt eller annet hvor føreren kan innhente opplysninger om fjerningen.
+Motorvogn kan om nødvendig fjernes fra parkeringsplasser som omfattes av [§ 3](forskrift/2016-03-18-260/§3) og tas i forvaring når følgende vilkår er oppfylt:
+
+1. motorvognen står til hinder og i strid med vilkårene for parkering i eller i medhold av denne forskriften,
+2. fører/eier av motorvognen er forsøkt varslet og ved kontakt gitt rimelig frist for selv å fjerne motorvognen og
+3. det klart fremgår av skilt eller annet hvor føreren kan innhente opplysninger om fjerningen.
 
 Kravet etter første ledd bokstav a om at motorvognen står til hinder gjelder ikke for fjerning fra plass reservert for forflytningshemmede med parkeringstillatelse.
 
@@ -386,7 +446,11 @@ Dersom motorvogn tilbys flyttet når fjerning er igangsatt, men ikke fullført, 
 
 ### § 39. Varsling ved fjerning
 
-Dersom motorvogn blir fjernet, skal eier av motorvognen og fører av motorvognen, dersom denne er kjent, så snart som mulig varsles om:fjerningen og grunnlaget for denne,hvor motorvognen er blitt plassert ogkostnadene som har påløpt/kan påløpe i forbindelse med fjerningen.
+Dersom motorvogn blir fjernet, skal eier av motorvognen og fører av motorvognen, dersom denne er kjent, så snart som mulig varsles om:
+
+1. fjerningen og grunnlaget for denne,
+2. hvor motorvognen er blitt plassert og
+3. kostnadene som har påløpt/kan påløpe i forbindelse med fjerningen.
 
 Eventuell kostnad for uavhentede motorvogner kan ikke påløpe fører eller eier av motorvogn før vedkommende har fått eller burde fått kunnskap om opplysningene nevnt i første ledd.
 
@@ -406,7 +470,11 @@ Motorvogn som er tatt i forvaring, står for eierens regning og risiko, jf. imid
 
 ### § 42. Annen fjerning av motorvogn
 
-Eier eller bruker av privat grunn kan fjerne og ta i forvaring motorvogn som er plassert ulovlig på privat grunn og som ikke omfattes av [§ 38](forskrift/2016-03-18-260/§38) når følgende vilkår er oppfylt:motorvognen er plassert til fare for andre eller slik at eier eller bruker av grunnen utsettes for vesentlig skade eller ulempe,fører/eieren av motorvognen er forsøkt varslet der dette kan skje uten vesentlig ulempe. Dersom kontakt med føreren eller eieren av motorvognen oppnås, skal denne gis en rimelig frist for selv å fjerne motorvognen ogdet ved oppsatt skilt eller på annen måte klart fremgår at området er privat og at uvedkommende motorvogner kan bli fjernet for eiers regning og risiko og med opplysning om hvor en kan henvende seg for å få utlevert motorvognen som er fjernet. Dette gjelder likevel ikke når motorvognen er plassert på et sted hvor det etter omstendighetene er åpenbart at den vil kunne være til fare eller til vesentlig skade eller ulempe for andre.
+Eier eller bruker av privat grunn kan fjerne og ta i forvaring motorvogn som er plassert ulovlig på privat grunn og som ikke omfattes av [§ 38](forskrift/2016-03-18-260/§38) når følgende vilkår er oppfylt:
+
+1. motorvognen er plassert til fare for andre eller slik at eier eller bruker av grunnen utsettes for vesentlig skade eller ulempe,
+2. fører/eieren av motorvognen er forsøkt varslet der dette kan skje uten vesentlig ulempe. Dersom kontakt med føreren eller eieren av motorvognen oppnås, skal denne gis en rimelig frist for selv å fjerne motorvognen og
+3. det ved oppsatt skilt eller på annen måte klart fremgår at området er privat og at uvedkommende motorvogner kan bli fjernet for eiers regning og risiko og med opplysning om hvor en kan henvende seg for å få utlevert motorvognen som er fjernet. Dette gjelder likevel ikke når motorvognen er plassert på et sted hvor det etter omstendighetene er åpenbart at den vil kunne være til fare eller til vesentlig skade eller ulempe for andre.
 
 Dersom eier eller bruker av grunnen engasjerer andre til å forestå fjerning eller forvaring av motorvognen, skal dette gjøres uttrykkelig for hver enkelt motorvogn. Det skal foreligge skriftlig begjæring som dokumenterer engasjementet.
 
@@ -452,7 +520,11 @@ Fristene i denne paragraf beregnes i samsvar med [forvaltningsloven § 29](lov/1
 
 ### § 46. Organisering av parkeringsklagenemnda.
 
-Parkeringsklagenemnda består av følgende organer:nemnda,sekretariatet ogstyret.
+Parkeringsklagenemnda består av følgende organer:
+
+1. nemnda,
+2. sekretariatet og
+3. styret.
 
 ### § 47. Parkeringsklagenemnda
 
@@ -518,7 +590,11 @@ Nemndas avgjørelse skal være skriftlig og begrunnet. Det skal opplyses om avgj
 
 Nemnda kan avgi generelle uttalelser som er foranlediget av tilbakevendende problemstillinger i konkrete saker.
 
-Nemnda kan omgjøre sin egen avgjørelse uten at det er påklaget dersom:endringen ikke er til skade for noen som avgjørelsen retter seg mot eller direkte tilgodeser ellerunderretning om avgjørelsen ikke er kommet fram til vedkommende og avgjørelsen heller ikke er offentlig kunngjort, elleravgjørelsen er fattet med grunnlag i åpenbare feil som har hatt avgjørende betydning for sakens utfall.
+Nemnda kan omgjøre sin egen avgjørelse uten at det er påklaget dersom:
+
+1. endringen ikke er til skade for noen som avgjørelsen retter seg mot eller direkte tilgodeser eller
+2. underretning om avgjørelsen ikke er kommet fram til vedkommende og avgjørelsen heller ikke er offentlig kunngjort, eller
+3. avgjørelsen er fattet med grunnlag i åpenbare feil som har hatt avgjørende betydning for sakens utfall.
 
 Dersom avgjørelsen blir omgjort til gunst for virksomheten, faller kravet om å betale sats for tapt eller trukket sak som omtalt i denne forskrifts [§ 58 andre ledd](forskrift/2016-03-18-260/§58/ledd/2) bort.
 
@@ -534,9 +610,17 @@ Nemndas avgjørelser kan ikke påklages. Sak som nemnda har realitetsbehandlet k
 
 Sekretariatets leder, eller den leder bemyndiger, kan treffe vedtak i klagesaker hvor det foreligger en fast nemndspraksis eller er truffet vedtak av prinsipiell betydning i tilsvarende saker. I tvilstilfelle skal sekretariatet konferere med nemndas leder. Vedtaket skal utformes i samsvar med reglene for nemndsvedtak, og får virkning som slikt vedtak.
 
-Sekretariatets leder, eller den leder bemyndiger, kan avvise en klage dersom:saken er endelig avgjort ved dom, rettsforlik eller bindende voldgiftsavgjørelse,saken er til behandling ved de alminnelige domstolene og ikke er besluttet stanset etter [§ 45 fjerde ledd](forskrift/2016-03-18-260/§45/ledd/4),saken tidligere har vært behandlet av nemnda,saken ikke har vært klaget inn til virksomheten eller klagefristen er oversittet.
+Sekretariatets leder, eller den leder bemyndiger, kan avvise en klage dersom:
 
-Nemnda kan avvise en klage dersom:saken reiser bevisspørsmål som vanskelig kan klarlegges under saksbehandlingen eller av andre grunner ikke egner seg for behandling i nemnda ellersaken har tidligere vært behandlet av nemnda.
+1. saken er endelig avgjort ved dom, rettsforlik eller bindende voldgiftsavgjørelse,
+2. saken er til behandling ved de alminnelige domstolene og ikke er besluttet stanset etter [§ 45 fjerde ledd](forskrift/2016-03-18-260/§45/ledd/4),
+3. saken tidligere har vært behandlet av nemnda,
+4. saken ikke har vært klaget inn til virksomheten eller klagefristen er oversittet.
+
+Nemnda kan avvise en klage dersom:
+
+1. saken reiser bevisspørsmål som vanskelig kan klarlegges under saksbehandlingen eller av andre grunner ikke egner seg for behandling i nemnda eller
+2. saken har tidligere vært behandlet av nemnda.
 
 Avvisningen skal være skriftlig og inneholde begrunnelse som gjengir de rettslige betingelsene for avvisning. Avvisning besluttet av sekretariatets leder skal i tillegg inneholde informasjon om adgangen til å påklage avgjørelsen til nemnda.
 
@@ -650,7 +734,9 @@ Vilkårsparkeringsplasser på offentlig ferdselsåre skal skiltes i henhold til 
 
 1.2
 
-Andre vilkårsparkeringsplasser skal benytte følgende skilt:*1P Parkering*
+Andre vilkårsparkeringsplasser skal benytte følgende skilt:
+
+*1P Parkering*
 
 Skiltet angir at parkering kan skje i tråd med parkeringsvilkårene på stedet, dersom parkeringen ikke er i strid med [trafikkreglenes](forskrift/1986-03-21-747) bestemmelser om stans eller parkering.
 

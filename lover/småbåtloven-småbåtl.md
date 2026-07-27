@@ -15,7 +15,7 @@ xml_hash: "6719fe6cb01ee1bf6ff7f0883aa9df48a74433cf4590372ee3789afee4c7822d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I loven her menes med:småbåt, enhver flytende innretning som er beregnet på og i stand til å bevege seg på vann, og som har en største lengde på inntil 15 meter;fritidsbåt, enhver flytende innretning som er beregnet på og i stand til å bevege seg på vann med en største lengde på inntil 24 meter, og som brukes utenfor næringsvirksomhet.
+I loven her menes med:
+
+1. småbåt, enhver flytende innretning som er beregnet på og i stand til å bevege seg på vann, og som har en største lengde på inntil 15 meter;
+2. fritidsbåt, enhver flytende innretning som er beregnet på og i stand til å bevege seg på vann med en største lengde på inntil 24 meter, og som brukes utenfor næringsvirksomhet.
 
 > Endret ved [lov 16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)).
 
@@ -58,7 +61,11 @@ Kongen kan gi nærmere forskrifter om de krav som stilles i første ledd.
 
 Alle fritidsbåter skal under seilas være utstyrt med egnet rednings- og flyteutstyr til alle om bord.
 
-Kongen kan gi forskrifter om rednings- og flyteutstyr og om krav til annet utstyr, herunder om:kommunikasjonsutstyr;brannslokningsutstyr;annet sikkerhetsutstyr.
+Kongen kan gi forskrifter om rednings- og flyteutstyr og om krav til annet utstyr, herunder om:
+
+1. kommunikasjonsutstyr;
+2. brannslokningsutstyr;
+3. annet sikkerhetsutstyr.
 
 > Endret ved [lov 16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)).
 
@@ -74,7 +81,13 @@ Kongen kan i forskrift fastsette unntak fra kravet i første ledd, herunder i si
 
 En fritidsbåt skal navigeres slik at det ikke oppstår fare for liv og helse, miljø eller materielle verdier.
 
-Kongen kan gi forskrifter om:at fritidsbåter skal være utstyrt med navigasjonshjelpemidler og utstyr til bruk i navigeringen,de kravene som skal stilles til slikt utstyr, ogde kravene som skal stilles til utstyrets plassering og betjening.faremeldinger, nødmeldinger og nødsignaler,sjøveisregler
+Kongen kan gi forskrifter om:
+
+1. at fritidsbåter skal være utstyrt med navigasjonshjelpemidler og utstyr til bruk i navigeringen,
+2. de kravene som skal stilles til slikt utstyr, og
+3. de kravene som skal stilles til utstyrets plassering og betjening.
+4. faremeldinger, nødmeldinger og nødsignaler,
+5. sjøveisregler
 
 > Endret ved [lov 16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)).
 
@@ -98,7 +111,13 @@ Kongen kan gi nærmere regler om besiktigelsen.
 
 ### § 26 a. Måling av fritidsbåter
 
-Kongen kan gi forskrift om måling av fritidsbåter, herunder omhvilke fritidsbåter som er målepliktige,hvem som skal foreta målingen,dokumentasjon vedrørende måling,båteierens medvirkningsplikt ved målingen,gebyr.
+Kongen kan gi forskrift om måling av fritidsbåter, herunder om
+
+1. hvilke fritidsbåter som er målepliktige,
+2. hvem som skal foreta målingen,
+3. dokumentasjon vedrørende måling,
+4. båteierens medvirkningsplikt ved målingen,
+5. gebyr.
 
 > Tilføyd ved [lov 16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)).
 
@@ -178,9 +197,16 @@ Ingen som på grunn av sin tilstand må anses uskikket til det, må føre eller 
 
 ### § 33. Alkoholpåvirkning av småbåtfører
 
-Under påvirkning av alkohol eller annet berusende eller bedøvende middel må ingen føre eller forsøke å føre en småbåt som har:motor som fremdriftsmiddel,seil som fremdriftsmiddel og en største lengde på 4,5 meter eller mer, ellerbrukes til passasjertransport i næring.
+Under påvirkning av alkohol eller annet berusende eller bedøvende middel må ingen føre eller forsøke å føre en småbåt som har:
 
-Føreren av en småbåt som nevnt i første ledd regnes alltid som påvirket når han eller hun:har en alkoholkonsentrasjon i blodet som er større enn 0,8 promille eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet, ellerhar en større alkoholkonsentrasjon i utåndingsluft enn 0,4 milligram per liter luft.
+1. motor som fremdriftsmiddel,
+2. seil som fremdriftsmiddel og en største lengde på 4,5 meter eller mer, eller
+3. brukes til passasjertransport i næring.
+
+Føreren av en småbåt som nevnt i første ledd regnes alltid som påvirket når han eller hun:
+
+1. har en alkoholkonsentrasjon i blodet som er større enn 0,8 promille eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet, eller
+2. har en større alkoholkonsentrasjon i utåndingsluft enn 0,4 milligram per liter luft.
 
 Villfarelse med hensyn til alkoholkonsentrasjonens størrelse fritar ikke for straff.
 
@@ -200,7 +226,11 @@ Eieren av en småbåt plikter å forvisse seg om at den som han eller hun lar br
 
 ### § 36. Alkotest, utåndingsprøve, blodprøve
 
-Politiet kan ta alkotest (foreløpig blåseprøve) av en båtfører når:det er grunn til å tro at båtføreren har overtrådt bestemmelsene i [§ 33](lov/1998-06-26-47/§33),båtføreren med eller uten egen skyld er innblandet i en ulykke, ellerbåtføreren er blitt stanset som ledd i kontroll av båttrafikken.
+Politiet kan ta alkotest (foreløpig blåseprøve) av en båtfører når:
+
+1. det er grunn til å tro at båtføreren har overtrådt bestemmelsene i [§ 33](lov/1998-06-26-47/§33),
+2. båtføreren med eller uten egen skyld er innblandet i en ulykke, eller
+3. båtføreren er blitt stanset som ledd i kontroll av båttrafikken.
 
 Dersom resultatet av alkotesten eller andre forhold gir grunn til å tro at båtføreren har overtrådt bestemmelsene i [§ 33](lov/1998-06-26-47/§33), kan politiet fremstille båtføreren for utåndingsprøve, blodprøve og klinisk legeundersøkelse for å søke å fastslå påvirkningen. Slik fremstilling skal i alminnelighet finne sted når føreren nekter å medvirke til alkotest.
 
@@ -228,7 +258,12 @@ Forurensning av det ytre miljø ved utslipp eller dumping fra fritidsbåt eller 
 
 Båteieren og båtføreren skal sørge for at det ikke skjer forurensning av det ytre miljø i strid med første ledd, og skal treffe rimelige tiltak for å begrense virkningene av forurensning.
 
-Kongen kan gi forskrifter med nærmere bestemmelser om forbudet mot forurensning og om pliktene etter annet ledd, herunder om:hva som skal anses som skadelige stoffer og som utslipp, dumping og forbrenning,hvordan fritidsbåter skal håndteres for å unngå forurensning,hvilke tiltak som skal settes i verk dersom forurensning oppstår,levering av skadelige stoffer til mottaksanlegg.
+Kongen kan gi forskrifter med nærmere bestemmelser om forbudet mot forurensning og om pliktene etter annet ledd, herunder om:
+
+1. hva som skal anses som skadelige stoffer og som utslipp, dumping og forbrenning,
+2. hvordan fritidsbåter skal håndteres for å unngå forurensning,
+3. hvilke tiltak som skal settes i verk dersom forurensning oppstår,
+4. levering av skadelige stoffer til mottaksanlegg.
 
 > Tilføyd ved [lov 7 juli 2000 nr. 72](lov/2000-07-07-72) (ikr. 1 jan 2001 iflg. [res. 7 juli 2000 nr. 731](forskrift/2000-07-07-731)), endret ved [lov 16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)).
 
@@ -248,7 +283,11 @@ Departementet kan i forskrift gi nærmere regler for bruk av fartøyer som nevnt
 
 I særlige tilfeller der hensynet til natur, næring, sikkerhet eller støy tilsier det, kan departementet i forskrift forby eller begrense bruk av fartøyer som nevnt i første ledd i andre områder enn de som er nevnt i tredje ledd første punktum. Departementets myndighet etter tredje ledd annet punktum og fjerde ledd kan delegeres til kommunen.
 
-Uten hinder av bestemmelser i forskrift gitt i medhold av tredje og fjerde ledd er bruk av fartøy som nevnt i første ledd tillatt i forbindelse med:politi-, rednings- og ambulansetjeneste, samt oppsyns- og tilsynstjeneste etablert med hjemmel i lov,Forsvarets øvelser, forflytninger og transporter, ogmarinarkeologiske og andre vitenskapelige undersøkelser.
+Uten hinder av bestemmelser i forskrift gitt i medhold av tredje og fjerde ledd er bruk av fartøy som nevnt i første ledd tillatt i forbindelse med:
+
+1. politi-, rednings- og ambulansetjeneste, samt oppsyns- og tilsynstjeneste etablert med hjemmel i lov,
+2. Forsvarets øvelser, forflytninger og transporter, og
+3. marinarkeologiske og andre vitenskapelige undersøkelser.
 
 Kongen kan i forskrift gjøre unntak fra bestemmelser i forskrift gitt i medhold av tredje og fjerde ledd for bruk av fartøy som nevnt i første ledd til andre transportformål.
 

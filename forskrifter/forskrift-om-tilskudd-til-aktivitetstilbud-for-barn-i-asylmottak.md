@@ -40,21 +40,49 @@ Det kan gis tilskudd til tiltak som bidrar til å oppfylle formålet i [§ 1](fo
 
 ## § 4. Krav til aktiviteter i tilskuddsperioden
 
-En tilskuddsmottaker skalbruke tilskuddet i samsvar med formålet, aktivitetene og budsjettet som ligger til grunn for tilskuddsvedtaketgjøre berørte asylmottak og eventuelle samarbeidspartnere kjent med vilkårene for tilskuddetbenytte tilskuddet innen 12 måneder etter at vedtak om tilskuddet er mottatt, med mindre tilskuddsvedtaket fastsetter noe annet.
+En tilskuddsmottaker skal
+
+1. bruke tilskuddet i samsvar med formålet, aktivitetene og budsjettet som ligger til grunn for tilskuddsvedtaket
+2. gjøre berørte asylmottak og eventuelle samarbeidspartnere kjent med vilkårene for tilskuddet
+3. benytte tilskuddet innen 12 måneder etter at vedtak om tilskuddet er mottatt, med mindre tilskuddsvedtaket fastsetter noe annet.
 
 ## § 5. Krav om rapportering
 
-En tilskuddsmottaker skal innen 1. april året etter det året tilskuddet gjelder for, rapportere til Utlendingsdirektoratet om hvordan tiltaket har bidratt til å fremme formålet med tilskuddet slik det er fastsatt i tilskuddsvedtaket, og dersom tilskuddet er kr 200 000 eller merlevere revisorbekreftet ordinært årsregnskap for organisasjonensynliggjøre det tildelte tilskuddet i en note i det ordinære årsregnskapet til organisasjonenlevere en forenklet oversikt over regnskapet for bruken av tilskuddet.
+En tilskuddsmottaker skal innen 1. april året etter det året tilskuddet gjelder for, rapportere til Utlendingsdirektoratet om hvordan tiltaket har bidratt til å fremme formålet med tilskuddet slik det er fastsatt i tilskuddsvedtaket, og dersom tilskuddet er kr 200 000 eller mer
+
+1. levere revisorbekreftet ordinært årsregnskap for organisasjonen
+2. synliggjøre det tildelte tilskuddet i en note i det ordinære årsregnskapet til organisasjonen
+3. levere en forenklet oversikt over regnskapet for bruken av tilskuddet.
 
 Utlendingsdirektoratet kan fastsette ytterligere rapporteringskrav i tilskuddsvedtaket.
 
 ## § 6. Kravene til en søknad om tilskudd
 
-En søknad om tilskudd skal leveres på fastsatt skjema til Utlendingsdirektoratet og være undertegnet av organisasjonens leder, generalsekretær eller den som gis fullmakt. Søknaden skalangi søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktpersonha vedlagt årsberetning der dette er påkrevd, regnskap og vedtekterangi særlige kvalifikasjoner søkeren måtte ha for å gjennomføre tiltaketangi hva søkeren vil oppnå med tilskuddet og forventet resultatangi hvem tilskuddet skal rettes mot, anslå antallet barn som inkluderes, hvilke asylmottak det vil omfatte og i hvilket geografiske området det vil bli bruktangi en plan for gjennomføringen av tiltaket, aktiviteten e.l. med virkemidler, samarbeidspartnere og tidsrammeropplyse om eventuelle planer om å videreføre tiltaketangi muligheter for å koordinere gjennomføringen av tiltaket med andre organisasjoner, der det er aktueltinneholde budsjett for tiltaketangi om og eventuelt i hvilket år søkeren tidligere har mottatt tilskudd fra Justis- og beredskapsdepartementet eller underliggende organerangi beløpet det søkes ominneholde eventuelle opplysninger om søkerens egne økonomiske bidragangi hvilke beløp søkeren har søkt om fra andre offentlige myndigheter eller fra andre finansieringskilderredegjøre for inntektsgivende aktiviteter søkeren måtte hainneholde opplysninger om kontakt som måtte ha vært med asylmottak om målgruppe og gjennomføring av tiltaket.
+En søknad om tilskudd skal leveres på fastsatt skjema til Utlendingsdirektoratet og være undertegnet av organisasjonens leder, generalsekretær eller den som gis fullmakt. Søknaden skal
+
+1. angi søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktperson
+2. ha vedlagt årsberetning der dette er påkrevd, regnskap og vedtekter
+3. angi særlige kvalifikasjoner søkeren måtte ha for å gjennomføre tiltaket
+4. angi hva søkeren vil oppnå med tilskuddet og forventet resultat
+5. angi hvem tilskuddet skal rettes mot, anslå antallet barn som inkluderes, hvilke asylmottak det vil omfatte og i hvilket geografiske området det vil bli brukt
+6. angi en plan for gjennomføringen av tiltaket, aktiviteten e.l. med virkemidler, samarbeidspartnere og tidsrammer
+7. opplyse om eventuelle planer om å videreføre tiltaket
+8. angi muligheter for å koordinere gjennomføringen av tiltaket med andre organisasjoner, der det er aktuelt
+9. inneholde budsjett for tiltaket
+10. angi om og eventuelt i hvilket år søkeren tidligere har mottatt tilskudd fra Justis- og beredskapsdepartementet eller underliggende organer
+11. angi beløpet det søkes om
+12. inneholde eventuelle opplysninger om søkerens egne økonomiske bidrag
+13. angi hvilke beløp søkeren har søkt om fra andre offentlige myndigheter eller fra andre finansieringskilder
+14. redegjøre for inntektsgivende aktiviteter søkeren måtte ha
+15. inneholde opplysninger om kontakt som måtte ha vært med asylmottak om målgruppe og gjennomføring av tiltaket.
 
 ## § 7. Søknadsbehandlingen
 
-Utlendingsdirektoratet kan i tillegg til opplysningene nevnt i [§ 5](forskrift/2020-12-17-2921/§5)kreve at søkeren gir andre opplysninger som er nødvendige for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevereavholde befaring som er nødvendig for å vurdere søknaden og kreve at søkeren i nødvendig utstrekning medvirker til befaringen.
+Utlendingsdirektoratet kan i tillegg til opplysningene nevnt i [§ 5](forskrift/2020-12-17-2921/§5)
+
+1. kreve at søkeren gir andre opplysninger som er nødvendige for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. avholde befaring som er nødvendig for å vurdere søknaden og kreve at søkeren i nødvendig utstrekning medvirker til befaringen.
 
 ## § 8. Hvordan søknaden blir vurdert
 
@@ -64,7 +92,11 @@ Utlendingsdirektoratet tildeler tilskudd for ett år av gangen etter en skjønns
 
 ## § 9. Adgang til å kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt
 
-Utlendingsdirektoratet kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom åkreve opplysninger og dokumentasjon som er nødvendig for kontrolleninnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenebesiktige tiltaket, og mottakeren skal medvirke til besiktigelsen dersom det er nødvendig for kontrollen.
+Utlendingsdirektoratet kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom å
+
+1. kreve opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. besiktige tiltaket, og mottakeren skal medvirke til besiktigelsen dersom det er nødvendig for kontrollen.
 
 > Endret ved [forskrift 24 jan 2024 nr. 105](forskrift/2024-01-24-105) (tidligere § 10).
 

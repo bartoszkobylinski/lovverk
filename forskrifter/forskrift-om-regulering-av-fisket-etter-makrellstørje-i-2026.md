@@ -82,7 +82,11 @@ Det kan gis tillatelse til syv fartøy som fisker med not og seks fartøy som fi
 
 Fiskeridirektoratet gir tillatelse til småskala kystfartøy som kan delta i fisket etter makrellstørje.
 
-Fartøy med største lengde til og med 14,99 meter og der fartøyeier står på blad B, kan delta i gruppen for småskala kystfiskefartøy dersom to av tre av følgende vilkår er oppfylt:hver tur skal ha en varighet på under 24 timerdet skal være et mannskap på maksimalt fire personer om bordfisket skal foregå innenfor Norges territorialfarvann.
+Fartøy med største lengde til og med 14,99 meter og der fartøyeier står på blad B, kan delta i gruppen for småskala kystfiskefartøy dersom to av tre av følgende vilkår er oppfylt:
+
+- hver tur skal ha en varighet på under 24 timer
+- det skal være et mannskap på maksimalt fire personer om bord
+- fisket skal foregå innenfor Norges territorialfarvann.
 
 Det kan kun fiskes med stang, dorg eller juksa. Fiskeridirektoratet kan gi dispensasjon til å fiske med line. Søknad om dispensasjon må sendes til [postmottak@fiskeridir.no](mailto:postmottak@fiskeridir.no).
 
@@ -110,7 +114,10 @@ Dersom det er flere fartøy påmeldt til fiske i de ulike gruppene som nevnt §�
 
 ## § 14. Krav til fartøy som ønsker å delta i fisket med not, line eller i gruppen for småskala kystfartøy
 
-Fartøy som vil delta i fisket etter makrellstørje med not, line eller i gruppen for småskala kystfartøy må dokumentere at de:er egnet, bemannet og utrustet til fiske etter makrellstørjehar en plan for håndtering og lagring av fangst om bord, samt landing og omsetning av fangsten, som sikrer at kvaliteten ivaretas.
+Fartøy som vil delta i fisket etter makrellstørje med not, line eller i gruppen for småskala kystfartøy må dokumentere at de:
+
+- er egnet, bemannet og utrustet til fiske etter makrellstørje
+- har en plan for håndtering og lagring av fangst om bord, samt landing og omsetning av fangsten, som sikrer at kvaliteten ivaretas.
 
 Det kan stilles vilkår om at fartøy som deltar i fisket skal ha observatør fra Havforskningsinstituttet om bord eller samle biologiske data etter nærmere angitte retningslinjer. Fartøyet kan søke om dispensasjon fra dette kravet. I forbindelse med vurderingen av dispensasjonssøknaden skal det innhentes uttalelse fra Havforskningsinstituttet.
 
@@ -120,7 +127,10 @@ Det er et vilkår for deltakelse i fisket med not at maskevidden (helmaske) i no
 
 ## § 15. Krav til sports- og rekreasjonsfiskere som ønsker å delta i fisket
 
-Sports- og rekreasjonsfiskelag som vil delta i fisket etter makrellstørje må dokumentere at:laget er egnet, bemannet og utrustet til sports- og rekreasjonsfiske etter makrellstørjealle deltakerne i fiskelaget er bosatt i Norge.
+Sports- og rekreasjonsfiskelag som vil delta i fisket etter makrellstørje må dokumentere at:
+
+- laget er egnet, bemannet og utrustet til sports- og rekreasjonsfiske etter makrellstørje
+- alle deltakerne i fiskelaget er bosatt i Norge.
 
 Sports- og rekreasjonsfisket med det enkelte lag må avsluttes når laget har fisket og landet en makrellstørje til matauk. Lag med tillatelse til å delta i merk-og-slipp-fiske kan lande totalt to makrellstørjer til matauk i løpet av året.
 

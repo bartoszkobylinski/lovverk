@@ -28,7 +28,10 @@ eu_basis: []
 
 Institusjoner og avdelinger som skal være ansvarlig for eller kunne bruke tvungen observasjon eller tvungent psykisk helsevern med og uten døgnopphold etter lov om psykisk helsevern, skal ha godkjenning av Helsedirektoratet.
 
-Godkjenning gis til institusjoner someies av eller utfører tjenester etter avtale med regionalt helseforetak ogoppfyller kravene i [§§ 2](forskrift/2026-05-29-941/§2) og [3](forskrift/2026-05-29-941/§3).
+Godkjenning gis til institusjoner som
+
+1. eies av eller utfører tjenester etter avtale med regionalt helseforetak og
+2. oppfyller kravene i [§§ 2](forskrift/2026-05-29-941/§2) og [3](forskrift/2026-05-29-941/§3).
 
 Dersom det er nødvendig for å ivareta et forsvarlig tilbud til pasientene, kan institusjoner som ikke oppfyller kravene i [§§ 2](forskrift/2026-05-29-941/§2) og [3](forskrift/2026-05-29-941/§3), gis midlertidig godkjenning i inntil ett år.
 
@@ -38,17 +41,36 @@ Helsedirektoratets vedtak kan påklages til departementet.
 
 Institusjonen eller avdelingen skal være fysisk utformet og materielt utstyrt på en slik måte at kravet til forsvarlig helsehjelp, jf. [spesialisthelsetjenesteloven § 2-2](lov/1999-07-02-61/§2-2), kan ivaretas.
 
-Institusjoner som skal ha ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal i tilleggså langt det er mulig gi tilbud om eneromha tilstrekkelige og oversiktlige fellesarealerha lokaler som er egnet til fritidsaktiviteter og opplæringsformålha tilgang på egnede utearealer i rimelig nærhet av institusjonenvære fysisk utformet og materielt utstyrt slik at bruk av tvang i størst mulig grad unngåsvære materielt utstyrt slik at bruk av tvang er forsvarligsørge for at rom som tenkes brukt til isolasjon er egnet til formåletha tilfredsstillende skjermingsmuligheter.
+Institusjoner som skal ha ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal i tillegg
+
+1. så langt det er mulig gi tilbud om enerom
+2. ha tilstrekkelige og oversiktlige fellesarealer
+3. ha lokaler som er egnet til fritidsaktiviteter og opplæringsformål
+4. ha tilgang på egnede utearealer i rimelig nærhet av institusjonen
+5. være fysisk utformet og materielt utstyrt slik at bruk av tvang i størst mulig grad unngås
+6. være materielt utstyrt slik at bruk av tvang er forsvarlig
+7. sørge for at rom som tenkes brukt til isolasjon er egnet til formålet
+8. ha tilfredsstillende skjermingsmuligheter.
 
 ### § 3. Krav til personell og kompetanse
 
-Institusjonen skal ha tilsatt personell med tilstrekkelig nivå og bredde i kompetansen til at institusjonen til enhver tid kan tilby diagnostikk og de mest sentrale anerkjente behandlingsformene for institusjonens pasientgruppe, inkludertlege som er spesialist i psykiatripsykolog som er spesialist i psykologiannet helsepersonell med tilstrekkelig medisinsk-, psykolog- eller sykepleiefaglig kompetanse til at observasjon og behandling kan gjennomføres forsvarlig.
+Institusjonen skal ha tilsatt personell med tilstrekkelig nivå og bredde i kompetansen til at institusjonen til enhver tid kan tilby diagnostikk og de mest sentrale anerkjente behandlingsformene for institusjonens pasientgruppe, inkludert
 
-Institusjoner som skal ha ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal alltidkunne tilkalle lege som er spesialist i psykiatriha helsepersonell med tilstrekkelig medisinsk-, psykolog- eller sykepleiefaglig kompetanse til stede.
+1. lege som er spesialist i psykiatri
+2. psykolog som er spesialist i psykologi
+3. annet helsepersonell med tilstrekkelig medisinsk-, psykolog- eller sykepleiefaglig kompetanse til at observasjon og behandling kan gjennomføres forsvarlig.
+
+Institusjoner som skal ha ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal alltid
+
+1. kunne tilkalle lege som er spesialist i psykiatri
+2. ha helsepersonell med tilstrekkelig medisinsk-, psykolog- eller sykepleiefaglig kompetanse til stede.
 
 I psykisk helsevern for barn og ungdom skal legen være spesialist i barne- og ungdomspsykiatri og psykologen være spesialist i barne- og ungdomspsykologi.
 
-Institusjoner som skal ha ansvar for tvungent psykisk helsevern med døgnopphold skal i tilleggha tilgang på kvalifisert personell for å kunne gi et godt tilbud om miljø- og fritidsaktiviteterha tilgang på kvalifisert personell for å sikre tilbud om nødvendig opplæring.
+Institusjoner som skal ha ansvar for tvungent psykisk helsevern med døgnopphold skal i tillegg
+
+1. ha tilgang på kvalifisert personell for å kunne gi et godt tilbud om miljø- og fritidsaktiviteter
+2. ha tilgang på kvalifisert personell for å sikre tilbud om nødvendig opplæring.
 
 Institusjoner som har ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal ha nok personell og faglig kompetanse til å i størst mulig grad forebygge bruk av tvang. Dersom det likevel brukes tvang, skal institusjonen ha tilstrekkelig personell til at tvangen kan gjennomføres på en forsvarlig måte.
 
@@ -68,7 +90,11 @@ Helsedirektoratet kan gi dispensasjon fra andre og tredje ledd når særlige hen
 
 Institusjonen skal sørge for at vedtak etter [psykisk helsevernloven kapittel 4](lov/1999-07-02-62/kap4) og [4A](lov/1999-07-02-62/kap4A) registreres i elektronisk pasientjournal på en måte som gir kontrollkommisjonen en samlet oversikt over vedtak som er gjort for den enkelte pasient og for en bestemt periode.
 
-Det samme gjelder for informasjon om gjennomføringen av følgende tiltak:skjerming, jf. [psykisk helsevernloven § 4-3](lov/1999-07-02-62/§4-3)behandling uten eget samtykke med legemiddel i form av depot, jf. [psykisk helsevernloven § 4-4a nr. 4](lov/1999-07-02-62/§4-4a/nummer/4)mekaniske tvangsmidler med hjemmel i [psykisk helsevernloven § 4-8 andre ledd bokstav a](lov/1999-07-02-62/§4-8/ledd/2/bokstav/a).
+Det samme gjelder for informasjon om gjennomføringen av følgende tiltak:
+
+1. skjerming, jf. [psykisk helsevernloven § 4-3](lov/1999-07-02-62/§4-3)
+2. behandling uten eget samtykke med legemiddel i form av depot, jf. [psykisk helsevernloven § 4-4a nr. 4](lov/1999-07-02-62/§4-4a/nummer/4)
+3. mekaniske tvangsmidler med hjemmel i [psykisk helsevernloven § 4-8 andre ledd bokstav a](lov/1999-07-02-62/§4-8/ledd/2/bokstav/a).
 
 Institusjonen skal sørge for at kontrollkommisjonen så snart som mulig får melding om vedtak om tvangsmidler. Kontrollkommisjonen skal også få informasjon ved langvarig bruk av tvangsmidler og skjerming.
 
@@ -90,15 +116,33 @@ Institusjonen skal ta initiativ til å samarbeide med pasientens pårørende.
 
 ### § 9. Begjæring om tvungen legeundersøkelse, tvungen observasjon eller tvungent psykisk helsevern
 
-Offentlig myndighet som etter [psykisk helsevernloven § 3-6](lov/1999-07-02-62/§3-6) kan begjære legeundersøkelse, tvungen observasjon eller tvungent psykisk helsevern, erkommuneoverlegen eller dennes stedfortrederden kommunale helse- og omsorgstjenestensosialtjenestenpolitiet dersom pasienten allerede er i politiets varetekt, ved avverging av vesentlig fare for pasientens eller andres liv eller helse, eller når politiets bistand er nødvendig for å få pasienten under tvungen observasjon eller tvungent psykisk helsevernansvarlig fengselsmyndighet når pasienten er innsatt i fengsel.
+Offentlig myndighet som etter [psykisk helsevernloven § 3-6](lov/1999-07-02-62/§3-6) kan begjære legeundersøkelse, tvungen observasjon eller tvungent psykisk helsevern, er
+
+1. kommuneoverlegen eller dennes stedfortreder
+2. den kommunale helse- og omsorgstjenesten
+3. sosialtjenesten
+4. politiet dersom pasienten allerede er i politiets varetekt, ved avverging av vesentlig fare for pasientens eller andres liv eller helse, eller når politiets bistand er nødvendig for å få pasienten under tvungen observasjon eller tvungent psykisk helsevern
+5. ansvarlig fengselsmyndighet når pasienten er innsatt i fengsel.
 
 Den som fremsetter begjæringen, må ha kjennskap til saken og pasientens situasjon.
 
-Begjæring om tvungen observasjon eller tvungent psykisk helsevern skal mottas av institusjonen senest samtidig med pasienten ogvære skriftlig, datert og adressert til institusjoneninneholde pasientens navn, fødselsdato og adresseangi hvem som har satt fram kravet og hvilket forhold vedkommende har til pasienten.
+Begjæring om tvungen observasjon eller tvungent psykisk helsevern skal mottas av institusjonen senest samtidig med pasienten og
+
+1. være skriftlig, datert og adressert til institusjonen
+2. inneholde pasientens navn, fødselsdato og adresse
+3. angi hvem som har satt fram kravet og hvilket forhold vedkommende har til pasienten.
 
 ### § 10. Uttalelse etter legeundersøkelse
 
-Legen skal i sin skriftlige uttalelse etter [psykisk helsevernloven § 3-1](lov/1999-07-02-62/§3-1) gi opplysninger omundersøkelsen skjer etter vedtak om tvungen legeundersøkelsetidspunkt og sted for undersøkelsenpasientens syn på tilbud om psykisk helsevernrelevante opplysninger som legen har mottatt fra andreobservasjoner av medisinsk eller annen art inkludert om det antas å foreligge en alvorlig sinnslidelsehvilket grunnlag det anses å være for å etablere tvungen observasjon eller tvungent psykisk helsevern, jf. [psykisk helsevernloven §§ 3-2](lov/1999-07-02-62/§3-2) og [3-3](lov/1999-07-02-62/§3-3)det foreligger en begjæring om tvungent psykisk helsevern.
+Legen skal i sin skriftlige uttalelse etter [psykisk helsevernloven § 3-1](lov/1999-07-02-62/§3-1) gi opplysninger om
+
+1. undersøkelsen skjer etter vedtak om tvungen legeundersøkelse
+2. tidspunkt og sted for undersøkelsen
+3. pasientens syn på tilbud om psykisk helsevern
+4. relevante opplysninger som legen har mottatt fra andre
+5. observasjoner av medisinsk eller annen art inkludert om det antas å foreligge en alvorlig sinnslidelse
+6. hvilket grunnlag det anses å være for å etablere tvungen observasjon eller tvungent psykisk helsevern, jf. [psykisk helsevernloven §§ 3-2](lov/1999-07-02-62/§3-2) og [3-3](lov/1999-07-02-62/§3-3)
+7. det foreligger en begjæring om tvungent psykisk helsevern.
 
 Opplysninger fra legeundersøkelsen skal sendes til aktuell psykisk helseverninstitusjon.
 
@@ -124,7 +168,10 @@ Offentlig myndighet som har satt fram begjæring om observasjon eller tvungent p
 
 Den faglig ansvarlige skal vurdere om pasienten trenger døgnkontinuerlig omsorg og behandling, eller om det er bedre for pasienten å bo et annet sted enn på en institusjon som er godkjent for tvungent vern med døgnopphold. Det skal legges særlig vekt på pasientens eget ønske. Det skal også tas hensyn til pasientens sykdom, bo- og familiesituasjon, sosiale situasjon og andre individuelle behov. Ved vurderingen skal det også tas hensyn til pårørende, jf. [psykisk helsevernloven § 3-5 tredje ledd](lov/1999-07-02-62/§3-5/ledd/3).
 
-Tvungen observasjon og tvungent psykisk helsevern kan bare gjennomføres uten døgnopphold i institusjon når pasientenhar en kjent sykdomshistorie og det på bakgrunn av pasientens symptomer og tidligere sykdomsforløp, er utvilsomt hvilken behandling pasienten trenger, ellerhar vært observert i institusjon med døgnopphold og observasjonen har klargjort pasientens diagnose og hva slags behandlingsopplegg som anses nødvendig.
+Tvungen observasjon og tvungent psykisk helsevern kan bare gjennomføres uten døgnopphold i institusjon når pasienten
+
+1. har en kjent sykdomshistorie og det på bakgrunn av pasientens symptomer og tidligere sykdomsforløp, er utvilsomt hvilken behandling pasienten trenger, eller
+2. har vært observert i institusjon med døgnopphold og observasjonen har klargjort pasientens diagnose og hva slags behandlingsopplegg som anses nødvendig.
 
 Tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon kan ikke omfatte tvangstiltak der pasienten bor. Dette gjelder likevel ikke ved gjennomføring av legemiddelbehandling uten eget samtykke i sykehjem, jf. [psykisk helsevernloven § 4-8a første ledd](lov/1999-07-02-62/§4-8a/ledd/1).
 
@@ -294,7 +341,15 @@ Helsedirektoratet kan gi nærmere retningslinjer om hva rapporten skal inneholde
 
 ### § 37. Kontrollkommisjonens tilgang på opplysninger
 
-Helsepersonell i spesialisthelsetjenesten og den kommunale helse- og omsorgstjenesten skal på forespørsel fra kontrollkommisjonen, gi opplysninger og fremlegge dokumenter som kontrollkommisjonen vurderer som nødvendige for utøvelsen av sin virksomhet, inkludertdokumenter utarbeidet i forbindelse med vedtak om tvungen observasjon og tvungent psykisk helsevernoversikt over pasienter som er overført til opphold i eller til andre tiltak under ansvar av institusjon som nevnt i [psykisk helsevernloven § 3-5](lov/1999-07-02-62/§3-5), jf. [loven § 4-10](lov/1999-07-02-62/§4-10) og [§ 5-4](lov/1999-07-02-62/§5-4)pasientjournalindividuell plan, jf. [psykisk helsevernloven § 4-1](lov/1999-07-02-62/§4-1)vedtak etter [psykisk helsevernloven kapittel 4](lov/1999-07-02-62/kap4) og [kapittel 4A](lov/1999-07-02-62/kap4A)ansvarlig helsepersonells beslutning om helsehjelp etter [pasient- og brukerrettighetsloven § 4-6 andre ledd](lov/1999-07-02-63/§4-6/ledd/2), jf. [femte ledd](lov/1999-07-02-63/§4-6/ledd/5)oversikt over vedtak om tvungent vern og om gjennomføring av tvang, jf. [§ 5](forskrift/2026-05-29-941/§5).
+Helsepersonell i spesialisthelsetjenesten og den kommunale helse- og omsorgstjenesten skal på forespørsel fra kontrollkommisjonen, gi opplysninger og fremlegge dokumenter som kontrollkommisjonen vurderer som nødvendige for utøvelsen av sin virksomhet, inkludert
+
+1. dokumenter utarbeidet i forbindelse med vedtak om tvungen observasjon og tvungent psykisk helsevern
+2. oversikt over pasienter som er overført til opphold i eller til andre tiltak under ansvar av institusjon som nevnt i [psykisk helsevernloven § 3-5](lov/1999-07-02-62/§3-5), jf. [loven § 4-10](lov/1999-07-02-62/§4-10) og [§ 5-4](lov/1999-07-02-62/§5-4)
+3. pasientjournal
+4. individuell plan, jf. [psykisk helsevernloven § 4-1](lov/1999-07-02-62/§4-1)
+5. vedtak etter [psykisk helsevernloven kapittel 4](lov/1999-07-02-62/kap4) og [kapittel 4A](lov/1999-07-02-62/kap4A)
+6. ansvarlig helsepersonells beslutning om helsehjelp etter [pasient- og brukerrettighetsloven § 4-6 andre ledd](lov/1999-07-02-63/§4-6/ledd/2), jf. [femte ledd](lov/1999-07-02-63/§4-6/ledd/5)
+7. oversikt over vedtak om tvungent vern og om gjennomføring av tvang, jf. [§ 5](forskrift/2026-05-29-941/§5).
 
 ## Kapittel 5. Saksbehandling m.v.
 
@@ -306,13 +361,21 @@ I saker etter [psykisk helsevernloven § 2-1 andre ledd](lov/1999-07-02-62/§2-1
 
 I andre klagesaker etter [psykisk helsevernloven](lov/1999-07-02-62) kan kontrollkommisjonen be om at den faglig ansvarlige for vedtak gir en skriftlig redegjørelse innen en frist fastsatt av kontrollkommisjonen.
 
-Redegjørelsen skal inneholdeopplysninger om avgjørelsen som er påklaget, inkludert vurdering av om lovens vilkår er oppfyltinformasjon om hvilke opplysninger avgjørelsen er bygget på.
+Redegjørelsen skal inneholde
+
+1. opplysninger om avgjørelsen som er påklaget, inkludert vurdering av om lovens vilkår er oppfylt
+2. informasjon om hvilke opplysninger avgjørelsen er bygget på.
 
 Kontrollkommisjonen skal, så snart som mulig, gjøre redegjørelsen kjent for pasienten og eventuelt den som handler på vegne av pasienten.
 
 ### § 39. Informasjon til pasienten
 
-Kontrollkommisjonen skal informere pasienten eller den som handler på vegne av pasienten omnavnet på kontrollkommisjonens medlemmerat pasienten og/eller den som handler på vegne av pasienten, har rett til å være til stede og at pasienten har anledning til å uttale seg før kontrollkommisjonen avgjør sakentidspunktet for møtet i kontrollkommisjonen ogat pasienten eller den som handler på vegne av pasienten, snarest mulig må gi beskjed dersom de mener at noen av kontrollkommisjonens medlemmer er inhabile.
+Kontrollkommisjonen skal informere pasienten eller den som handler på vegne av pasienten om
+
+1. navnet på kontrollkommisjonens medlemmer
+2. at pasienten og/eller den som handler på vegne av pasienten, har rett til å være til stede og at pasienten har anledning til å uttale seg før kontrollkommisjonen avgjør saken
+3. tidspunktet for møtet i kontrollkommisjonen og
+4. at pasienten eller den som handler på vegne av pasienten, snarest mulig må gi beskjed dersom de mener at noen av kontrollkommisjonens medlemmer er inhabile.
 
 ### § 40. Kontrollkommisjonens ansvar for opplysning av saken
 
@@ -332,7 +395,13 @@ Når kontrollkommisjonens leder finner at sak om klage på vedtak etter [psykisk
 
 Vedtak skal gjøres i møte av fulltallig kommisjon. Før det gjøres vedtak, skal kontrollkommisjonen diskutere saken og stemme over resultatet. Ved stemmelikhet har kontrollkommisjonens leder dobbeltstemme.
 
-Vedtaket skal inneholdeopplysning om kontrollkommisjonens sammensetning og tid og sted for det avsluttende møteten kort fremstilling av hva saken gjelder, avgjørelsesgrunnene og avgjørelsenomtale av de faktiske forhold som har vært avgjørende for vedtaket og de hensyn det er lagt vekt på ved skjønnsutøvelseopplysning om eventuell dissensgrunner for de forskjellige standpunkter dersom vedtaket ikke er enstemmig.
+Vedtaket skal inneholde
+
+1. opplysning om kontrollkommisjonens sammensetning og tid og sted for det avsluttende møtet
+2. en kort fremstilling av hva saken gjelder, avgjørelsesgrunnene og avgjørelsen
+3. omtale av de faktiske forhold som har vært avgjørende for vedtaket og de hensyn det er lagt vekt på ved skjønnsutøvelse
+4. opplysning om eventuell dissens
+5. grunner for de forskjellige standpunkter dersom vedtaket ikke er enstemmig.
 
 Kontrollkommisjonen skal om mulig gjøre sitt vedtak innen 2 uker etter at saken ble brakt inn for den. Dersom fristen ikke kan overholdes, skal grunnen til dette gå fram av vedtaket.
 
@@ -432,11 +501,20 @@ Kontrollkommisjonens medlemmer får godtgjøring per time. Satsen beregnes i pro
 
 Det skal ikke utbetales feriegodtgjøring i tillegg til godtgjøringssatsene. Annet fravær som for eksempel sykdom, godtgjøres heller ikke.
 
-Leder og varaleder:jurist som er i dommerembete eller som er ansatt i annen stilling, godtgjøres per time med 75 prosent av salærsatsenadvokat som er selvstendig næringsdrivende godtgjøres per time med 100 prosent av salærsatsen.
+Leder og varaleder:
 
-Lege og varamedlem for lege:lege i lønnet stilling godtgjøres per time med 75 prosent av salærsatsenlege som er selvstendig næringsdrivende godtgjøres per time med 100 prosent av salærsatsen.
+1. jurist som er i dommerembete eller som er ansatt i annen stilling, godtgjøres per time med 75 prosent av salærsatsen
+2. advokat som er selvstendig næringsdrivende godtgjøres per time med 100 prosent av salærsatsen.
 
-Øvrige medlemmer:øvrige medlemmer og varamedlemmer godtgjøres per time med 37,5 prosent av salærsatsenmedlem og varamedlem som er selvstendig næringsdrivende som hovedstilling, godtgjøres per time med 50 prosent av salærsatsen.
+Lege og varamedlem for lege:
+
+1. lege i lønnet stilling godtgjøres per time med 75 prosent av salærsatsen
+2. lege som er selvstendig næringsdrivende godtgjøres per time med 100 prosent av salærsatsen.
+
+Øvrige medlemmer:
+
+1. øvrige medlemmer og varamedlemmer godtgjøres per time med 37,5 prosent av salærsatsen
+2. medlem og varamedlem som er selvstendig næringsdrivende som hovedstilling, godtgjøres per time med 50 prosent av salærsatsen.
 
 Merkantilt personell som bistår kommisjonen godtgjøres per time med 25 prosent av salærsatsen.
 

@@ -42,7 +42,10 @@ Tilleggspensjonen skal beregnes med en pensjonsprosent på 42 for det antallet �
 
 Når den antatte årlige arbeidsinntekten på skadetidspunktet er større enn seks ganger grunnbeløpet, skal det på grunnlag av denne inntekten fastsettes et poengtall for hvert år fra og med det året vedkommende fylte 17 år til og med det året han eller hun fyller 66 år. Det skal likevel ikke fastsettes poengtall for årene før 1967.
 
-Poengtallene som nevnt i første ledd beregnes på følgende måte:For år etter 1991 skal poengtallet beregnes ved at den del av den antatte årlige arbeidsinntekten som overstiger grunnbeløpet, divideres med grunnbeløpet. Det ses bort fra inntekt over tolv ganger grunnbeløpet. Av inntekt mellom seks og tolv ganger grunnbeløpet skal bare en tredel tas med, se [folketrygdloven § 3-13](lov/1997-02-28-19/§3-13).For år før 1992 skal poengtallet beregnes ved at den del av den antatte årlige arbeidsinntekten som overstiger grunnbeløpet, divideres med grunnbeløpet. Det ses bort fra inntekt over tolv ganger grunnbeløpet. Av inntekt mellom åtte og tolv ganger grunnbeløpet skal bare en tredel tas med.
+Poengtallene som nevnt i første ledd beregnes på følgende måte:
+
+1. For år etter 1991 skal poengtallet beregnes ved at den del av den antatte årlige arbeidsinntekten som overstiger grunnbeløpet, divideres med grunnbeløpet. Det ses bort fra inntekt over tolv ganger grunnbeløpet. Av inntekt mellom seks og tolv ganger grunnbeløpet skal bare en tredel tas med, se [folketrygdloven § 3-13](lov/1997-02-28-19/§3-13).
+2. For år før 1992 skal poengtallet beregnes ved at den del av den antatte årlige arbeidsinntekten som overstiger grunnbeløpet, divideres med grunnbeløpet. Det ses bort fra inntekt over tolv ganger grunnbeløpet. Av inntekt mellom åtte og tolv ganger grunnbeløpet skal bare en tredel tas med.
 
 Det poengtallet som etter [folketrygdloven § 3-30](lov/1997-02-28-19/§3-30) første ledd bokstav c skal legges til grunn ved beregningen av tilleggspensjonen, skal være gjennomsnittet av de 20 høyeste poengtallene som er fastsatt etter andre ledd.
 

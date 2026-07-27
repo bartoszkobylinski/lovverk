@@ -15,7 +15,7 @@ xml_hash: "4e4ebcd0758a534a4f7cdb49917ef0954af8c1a22614a783e5ef896f8c5e91b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ Formålet med lova er å fremje rask tilbakeføring av barn som er bortførte ti
 
 Lova gjeld for saker om bortføring av barn til utlandet.
 
-Eit barn skal reknast for bortført dersom det til vanleg er busett i Noreg, men er teke med til, eller vert halde tilbake i, eit anna land i strid med reglane i barnelova om foreldreansvaret. Det er også eit vilkår atBarne-, ungdoms- og familiedirektoratet handsamar saka som ei bortføringssak etter reglane i [Haag-konvensjonen](lov/1988-07-08-72/bbk) frå 1980 om dei sivile sidene ved internasjonal barnebortføring eller [Europarådskonvensjonen](lov/1988-07-08-72/fak) frå 1980 om godkjenning og fullbyrding av avgjerder om foreldreansvar og om gjenoppretting av foreldreansvar (heretter kalla «konvensjonane»),politiet har registrert eit barn som sakna, ellerdet er oppretta straffesak om barnebortføring.
+Eit barn skal reknast for bortført dersom det til vanleg er busett i Noreg, men er teke med til, eller vert halde tilbake i, eit anna land i strid med reglane i barnelova om foreldreansvaret. Det er også eit vilkår at
+
+1. Barne-, ungdoms- og familiedirektoratet handsamar saka som ei bortføringssak etter reglane i [Haag-konvensjonen](lov/1988-07-08-72/bbk) frå 1980 om dei sivile sidene ved internasjonal barnebortføring eller [Europarådskonvensjonen](lov/1988-07-08-72/fak) frå 1980 om godkjenning og fullbyrding av avgjerder om foreldreansvar og om gjenoppretting av foreldreansvar (heretter kalla «konvensjonane»),
+2. politiet har registrert eit barn som sakna, eller
+3. det er oppretta straffesak om barnebortføring.
 
 Som barn skal reknast personar som ikkje har fylt 16 år.
 
@@ -38,7 +42,11 @@ Som barn skal reknast personar som ikkje har fylt 16 år.
 
 ## § 3. Definisjonar
 
-Offentlege ytingar tyder i lova herytingar etter [folketrygdloven](lov/1997-02-28-19), [barnetrygdloven](lov/2002-03-08-4), [kontantstøtteloven](lov/1998-06-26-41), [forskotteringsloven](lov/1989-02-17-2) og andre lover som vert administrerte av arbeids- og velferdsetaten,stønad etter [lov 18. desember 2009 nr. 131](lov/2009-12-18-131) om sosiale tjenester i arbeids- og velferdsforvaltningen, ogbustøtte etter [bustøttelova](lov/2012-08-24-64).
+Offentlege ytingar tyder i lova her
+
+1. ytingar etter [folketrygdloven](lov/1997-02-28-19), [barnetrygdloven](lov/2002-03-08-4), [kontantstøtteloven](lov/1998-06-26-41), [forskotteringsloven](lov/1989-02-17-2) og andre lover som vert administrerte av arbeids- og velferdsetaten,
+2. stønad etter [lov 18. desember 2009 nr. 131](lov/2009-12-18-131) om sosiale tjenester i arbeids- og velferdsforvaltningen, og
+3. bustøtte etter [bustøttelova](lov/2012-08-24-64).
 
 Barnebidrag tyder i lova her barnebidrag som vert kravd inn av Innkrevjingsmyndigheita, med unntak av oppfostringsbidrag fastsett etter [barnevernsloven § 15-12](lov/2021-06-18-97/§15-12).
 
@@ -72,7 +80,13 @@ Når eit barn er bortført til utlandet, skal Arbeids- og velferdsdirektoratet e
 
 Ved handsaminga av saker etter [§ 7](lov/2014-06-06-19/§7) kan organet som skal treffe avgjerda, krevje opplysningar frå instansar og personar som er nemnde i [folketrygdloven § 21-4](lov/1997-02-28-19/§21-4) første leddet. Det er eit vilkår at opplysningane er naudsynte for avgjerda.
 
-Ein kan til vanleg berre hente inn opplysningar omnamn, adresse, fødselsdato, slektskap og sivilstatus,staden der barnet og bortføraren oppheld seg og tilhøva som dei lever under,den fysiske og psykiske helsa til barnet og bortføraren og særlege behov og utgifter knytte til helsetilstanden deira,bortføraren si inntekt og økonomi medan bortføringa varar, ogtilhøva mellom foreldra og barnet.
+Ein kan til vanleg berre hente inn opplysningar om
+
+1. namn, adresse, fødselsdato, slektskap og sivilstatus,
+2. staden der barnet og bortføraren oppheld seg og tilhøva som dei lever under,
+3. den fysiske og psykiske helsa til barnet og bortføraren og særlege behov og utgifter knytte til helsetilstanden deira,
+4. bortføraren si inntekt og økonomi medan bortføringa varar, og
+5. tilhøva mellom foreldra og barnet.
 
 Ein kan berre hente inn opplysningane som er nemnde i andre leddet bokstavane b, c og e dersom ein ikkje kan skaffe opplysningane på anna vis.
 
@@ -94,7 +108,12 @@ Dersom nye opplysningar eller endringar i den einskilde saka talar for det, skal
 
 Pengar som vert haldne tilbake, skal stå på sperra renteberande konto.
 
-Offentlege ytingar på sperra konto skal utbetalast til den som har rett til pengane eller rett til å ta imot pengane på vegner av barnet, nårbarnet er ført tilbake,det er avgjort rettsleg eller avtalt mellom partane at barnet ikkje skal tilbake,vedtak er gjort om etter [§ 10](lov/2014-06-06-19/§10), ellerdet bortførte barnet har fylt 16 år.
+Offentlege ytingar på sperra konto skal utbetalast til den som har rett til pengane eller rett til å ta imot pengane på vegner av barnet, når
+
+1. barnet er ført tilbake,
+2. det er avgjort rettsleg eller avtalt mellom partane at barnet ikkje skal tilbake,
+3. vedtak er gjort om etter [§ 10](lov/2014-06-06-19/§10), eller
+4. det bortførte barnet har fylt 16 år.
 
 Barnebidrag for tidsrom etter at vilkåra i andre leddet bokstavane a til c er oppfylte, vert utbetalt etter dei vanlege reglane om dette. I andre tilfelle skal bidraget setjast på sperra konto, også etter at barnet har fylt 16 år. Barnebidrag på sperra konto skal utbetalast til barnet når barnet fyller 18 år.
 
@@ -116,11 +135,22 @@ Dersom foreldra er saman om bortføringa, kan tiltak etter lova nyttast mot begg
 
 ## § 14. Handsaming av saker om å halde tilbake ytingar og barnebidrag
 
-Ved handsaminga av saker etter [§§ 7](lov/2014-06-06-19/§7) til [11](lov/2014-06-06-19/§11) gjeld reglane i forvaltningsloven, med desse særreglane og presiseringane:både bortføraren og den attverande av foreldra skal reknast som part i saka ved avgjerder etter [§ 7](lov/2014-06-06-19/§7),avgjerd om ikkje å halde tilbake ytingar og barnebidrag skal reknast for enkeltvedtak,arbeids- og velferdsetaten og sakkunnige etter [§ 9](lov/2014-06-06-19/§9) har teieplikt etter reglane i [arbeids- og velferdsforvaltningsloven § 7](lov/2006-06-16-20/§7), ogavgjerder etter § 7 kan ikkje påklagast, men kan ankast inn for Trygderetten etter reglane i [lov 16. desember 1966 nr. 9](lov/1966-12-16-9) om anke til Trygderetten.
+Ved handsaminga av saker etter [§§ 7](lov/2014-06-06-19/§7) til [11](lov/2014-06-06-19/§11) gjeld reglane i forvaltningsloven, med desse særreglane og presiseringane:
+
+1. både bortføraren og den attverande av foreldra skal reknast som part i saka ved avgjerder etter [§ 7](lov/2014-06-06-19/§7),
+2. avgjerd om ikkje å halde tilbake ytingar og barnebidrag skal reknast for enkeltvedtak,
+3. arbeids- og velferdsetaten og sakkunnige etter [§ 9](lov/2014-06-06-19/§9) har teieplikt etter reglane i [arbeids- og velferdsforvaltningsloven § 7](lov/2006-06-16-20/§7), og
+4. avgjerder etter § 7 kan ikkje påklagast, men kan ankast inn for Trygderetten etter reglane i [lov 16. desember 1966 nr. 9](lov/1966-12-16-9) om anke til Trygderetten.
 
 ## § 15. Forskrifter
 
-Departementet kan gje forskrifter til utfylling og gjennomføring av lova, mellom anna til[§ 4](lov/2014-06-06-19/§4) om meldingar når barn er bortført,[§ 7](lov/2014-06-06-19/§7) om å halde tilbake ytingar og barnebidrag,[§ 9](lov/2014-06-06-19/§9) om oppnemning av og betaling til sakkunnige,[§ 11](lov/2014-06-06-19/§11) om sperra konto, og[§ 12](lov/2014-06-06-19/§12) om ytingar og bidrag til den attverande av foreldra.
+Departementet kan gje forskrifter til utfylling og gjennomføring av lova, mellom anna til
+
+1. [§ 4](lov/2014-06-06-19/§4) om meldingar når barn er bortført,
+2. [§ 7](lov/2014-06-06-19/§7) om å halde tilbake ytingar og barnebidrag,
+3. [§ 9](lov/2014-06-06-19/§9) om oppnemning av og betaling til sakkunnige,
+4. [§ 11](lov/2014-06-06-19/§11) om sperra konto, og
+5. [§ 12](lov/2014-06-06-19/§12) om ytingar og bidrag til den attverande av foreldra.
 
 ## § 16. Ikraftsetjing og overgangsreglar
 

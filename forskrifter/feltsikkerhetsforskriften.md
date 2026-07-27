@@ -15,7 +15,7 @@ xml_hash: "727cdc68ec746bc6a5f2c0715319af78b368b80903a8a1088ed5bd217aad9b56"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Formål
 
-Formålet med forskriften er atsikkerhet og beredskap ivaretas på en forsvarlig måte ved ferdsel, aktivitet eller opphold på Svalbardferdsel, aktivitet eller opphold på Svalbard som drives av eller i regi av turistvirksomheter, feltvirksomheter og forsknings- og utdanningsvirksomheter, ikke medfører skade på person eller miljø.
+Formålet med forskriften er at
+
+1. sikkerhet og beredskap ivaretas på en forsvarlig måte ved ferdsel, aktivitet eller opphold på Svalbard
+2. ferdsel, aktivitet eller opphold på Svalbard som drives av eller i regi av turistvirksomheter, feltvirksomheter og forsknings- og utdanningsvirksomheter, ikke medfører skade på person eller miljø.
 
 ## § 2. Geografisk virkeområde
 
@@ -32,7 +35,17 @@ Forskriften gjelder for Svalbards landområder og sjøområdet ut til territoria
 
 ## § 3. Definisjoner
 
-I forskriften menes med*turistvirksomhet:* fysiske eller juridiske personers organisering mot vederlag av ferdsel, aktivitet eller opphold med tjenesteytelser eller transport av personer på land eller sjø eller annen tilrettelegging av turistaktivitet på Svalbard*feltvirksomhet:* fysiske og juridiske personers organisering mot vederlag av ferdsel, aktivitet eller opphold med tjenesteytelser eller transport av personer på land eller sjø eller annen tilrettelegging der dette ikke er turistvirksomhet etter bokstav a*forsknings- og utdanningsvirksomhet:* aktivitet på Svalbard drevet av forskningsinstitusjoner, utdanningsinstitusjoner og institutter*Svalbardguide:* person som veileder, følger eller på annen måte ivaretar deltakere under forberedelsen og gjennomføringen av ferdselen, aktiviteten eller oppholdet, og som er godkjent etter forskriften her*fastboende på Svalbard:* person som er innført i befolkningsregisteret for Svalbard*tilreisende:* andre personer enn fastboende når disse ikke deltar i turistvirksomhet eller feltvirksomhet*ferdselsområde:* område som vist på kart i [Vedlegg I](forskrift/2025-06-06-940/vedleggI) til forskriften her*bebodd område:* sentrum av Longyearbyen, inkludert Svalbard lufthavn Longyear, Pyramiden, Barentsburg og Ny-Ålesund*vederlag:* betaling for tjenester og innbetaling som skjer til dekning av faktiske utgifter uten at det er beregnet fortjeneste og uavhengig av hvem mottaker av vederlaget er.
+I forskriften menes med
+
+1. *turistvirksomhet:* fysiske eller juridiske personers organisering mot vederlag av ferdsel, aktivitet eller opphold med tjenesteytelser eller transport av personer på land eller sjø eller annen tilrettelegging av turistaktivitet på Svalbard
+2. *feltvirksomhet:* fysiske og juridiske personers organisering mot vederlag av ferdsel, aktivitet eller opphold med tjenesteytelser eller transport av personer på land eller sjø eller annen tilrettelegging der dette ikke er turistvirksomhet etter bokstav a
+3. *forsknings- og utdanningsvirksomhet:* aktivitet på Svalbard drevet av forskningsinstitusjoner, utdanningsinstitusjoner og institutter
+4. *Svalbardguide:* person som veileder, følger eller på annen måte ivaretar deltakere under forberedelsen og gjennomføringen av ferdselen, aktiviteten eller oppholdet, og som er godkjent etter forskriften her
+5. *fastboende på Svalbard:* person som er innført i befolkningsregisteret for Svalbard
+6. *tilreisende:* andre personer enn fastboende når disse ikke deltar i turistvirksomhet eller feltvirksomhet
+7. *ferdselsområde:* område som vist på kart i [Vedlegg I](forskrift/2025-06-06-940/vedleggI) til forskriften her
+8. *bebodd område:* sentrum av Longyearbyen, inkludert Svalbard lufthavn Longyear, Pyramiden, Barentsburg og Ny-Ålesund
+9. *vederlag:* betaling for tjenester og innbetaling som skjer til dekning av faktiske utgifter uten at det er beregnet fortjeneste og uavhengig av hvem mottaker av vederlaget er.
 
 > Endret ved forskrift [12 des 2025 nr. 2557](forskrift/2025-12-12-2557) (i kraft 1 jan 2026).
 
@@ -86,7 +99,21 @@ Krav til bruk av godkjente Svalbardguider gjelder ikke fartøy som ankommer og f
 
 ## § 11. Krav om godkjenning for å bli Svalbardguide – kurs- og læringskrav
 
-Det kreves godkjenning for å bli Svalbardguide. En Svalbardguide skal ha gjennomført grunnleggende sikkerhetsopplæring, som minst gir:kunnskap om risikoforhold ved ferdsel, aktivitet eller opphold på Svalbardferdigheter og rutiner for å unngå eller redusere farene og kunne håndtere møtet med en faresituasjon dersom den oppstår for å ivareta gruppen på best mulig måtekunnskap og ferdigheter om hvilket sikkerhetsutstyr som er nødvendig for hver aktivitet ved redning og kunne bruke utstyretevnen til å håndtere våpen og skremmemidler i møter med isbjørn, og til å sikre gruppen mot isbjørn både ved ferdsel, aktivitet eller oppholdevnen til å kommunisere med gruppen slik at gruppen forstår den grunnleggende sikkerhetsinformasjonen for det de skal gjørekunnskap og ferdigheter i å kunne varsle, kommunisere og bistå redningstjenesten i en nødsituasjonkunnskap og ferdigheter i å planlegge og etablere en nødcamp ved uhell for å samle og sikre skadede og resten av gruppen og kunne gi førstehjelp inntil annen hjelp ankommergrunnleggende kunnskap omSvalbards flora, fauna, kulturminner, naturmiljøet for øvrig og økologiske sammenhengereffekter av ulike ferdselsformer på Svalbards naturmiljø og kulturminnergjeldende regler i [svalbardmiljøloven](lov/2001-06-15-79) med forskrifterSvalbards historie og forvaltningen av øygruppen.
+Det kreves godkjenning for å bli Svalbardguide. En Svalbardguide skal ha gjennomført grunnleggende sikkerhetsopplæring, som minst gir:
+
+1. kunnskap om risikoforhold ved ferdsel, aktivitet eller opphold på Svalbard
+2. ferdigheter og rutiner for å unngå eller redusere farene og kunne håndtere møtet med en faresituasjon dersom den oppstår for å ivareta gruppen på best mulig måte
+3. kunnskap og ferdigheter om hvilket sikkerhetsutstyr som er nødvendig for hver aktivitet ved redning og kunne bruke utstyret
+4. evnen til å håndtere våpen og skremmemidler i møter med isbjørn, og til å sikre gruppen mot isbjørn både ved ferdsel, aktivitet eller opphold
+5. evnen til å kommunisere med gruppen slik at gruppen forstår den grunnleggende sikkerhetsinformasjonen for det de skal gjøre
+6. kunnskap og ferdigheter i å kunne varsle, kommunisere og bistå redningstjenesten i en nødsituasjon
+7. kunnskap og ferdigheter i å planlegge og etablere en nødcamp ved uhell for å samle og sikre skadede og resten av gruppen og kunne gi førstehjelp inntil annen hjelp ankommer
+8. grunnleggende kunnskap om
+
+   1. Svalbards flora, fauna, kulturminner, naturmiljøet for øvrig og økologiske sammenhenger
+   2. effekter av ulike ferdselsformer på Svalbards naturmiljø og kulturminner
+   3. gjeldende regler i [svalbardmiljøloven](lov/2001-06-15-79) med forskrifter
+   4. Svalbards historie og forvaltningen av øygruppen.
 
 Sysselmesteren utformer kurs- og læringskrav som kreves for godkjenning som Svalbardguide. Kurs- og læringskravene fastsetter hvilke kurstemaer og læringskrav som oppfyller kompetansekravene, fordelingen av teori og praksis, og hvilke av kurstemaene som skal gjennomføres på Svalbard.
 
@@ -128,7 +155,14 @@ Hvis en utenlandsk statsborger ikke har fått tildelt identitetsnummer, skal ove
 
 ## § 15. Forhåndsgodkjenning av kurs
 
-Sysselmesteren skal forhåndsgodkjenne kurs som helt eller delvis kvalifiserer til godkjenning som Svalbardguide. For at et kurs skal bli godkjent, må opplæringen:helt eller delvis oppfylle kravene i [§ 11](forskrift/2025-06-06-940/§11) og kurs- og læringskravene Sysselmesteren har fastsattgjennomføres med det personellet og utstyret som kreves for å kunne gjennomføre opplæringen på en forsvarlig måtehelt eller delvis gjennomføres på Svalbardavsluttes med kunnskaps- og ferdighetstesterutføres med faglig integritet og dyktighet uten at personalet lar vurderinger eller resultater av opplæringen påvirkes av noen form for påtrykk eller tilskyndelser, for eksempel av økonomisk artutføres av personer med god faglig bakgrunn, tilstrekkelig kjennskap til emnene i [§ 11](forskrift/2025-06-06-940/§11) og nødvendige ferdigheter i feltsikkerhet.
+Sysselmesteren skal forhåndsgodkjenne kurs som helt eller delvis kvalifiserer til godkjenning som Svalbardguide. For at et kurs skal bli godkjent, må opplæringen:
+
+1. helt eller delvis oppfylle kravene i [§ 11](forskrift/2025-06-06-940/§11) og kurs- og læringskravene Sysselmesteren har fastsatt
+2. gjennomføres med det personellet og utstyret som kreves for å kunne gjennomføre opplæringen på en forsvarlig måte
+3. helt eller delvis gjennomføres på Svalbard
+4. avsluttes med kunnskaps- og ferdighetstester
+5. utføres med faglig integritet og dyktighet uten at personalet lar vurderinger eller resultater av opplæringen påvirkes av noen form for påtrykk eller tilskyndelser, for eksempel av økonomisk art
+6. utføres av personer med god faglig bakgrunn, tilstrekkelig kjennskap til emnene i [§ 11](forskrift/2025-06-06-940/§11) og nødvendige ferdigheter i feltsikkerhet.
 
 Søknad om forhåndsgodkjenning av kurs skal inneholde dokumentasjon som viser at kravene etter første ledd er oppfylt og for betalt gebyr etter sjette ledd.
 
@@ -146,7 +180,11 @@ Sysselmesteren fastsetter gebyr for behandling av søknader. Gebyret skal dekke 
 
 Turistvirksomhet og feltvirksomhet skal ha tilstrekkelig forsikring eller garanti for utgifter av enhver art som påføres det offentlige eller andre i forbindelse med søk, redningsaksjon eller syketransport som settes i verk som følge av virksomhetens ferdsel, aktivitet eller opphold på Svalbard.
 
-Forsikringene og garantiene skal dekke utgiftene selv om virksomheten, personer i dens tjeneste eller deltakere ikke har vært uaktsomme, og er begrenset oppad i hver sone med tilhørende grensebeskrivelse i [Vedlegg II](forskrift/2025-06-06-940/vedleggII) til120 000 norske kroner per søk, redningsaksjon eller syketransport i Sone A350 000 norske kroner per søk, redningsaksjon eller syketransport i Sone B650 000 norske kroner per søk, redningsaksjon eller syketransport i Sone C.
+Forsikringene og garantiene skal dekke utgiftene selv om virksomheten, personer i dens tjeneste eller deltakere ikke har vært uaktsomme, og er begrenset oppad i hver sone med tilhørende grensebeskrivelse i [Vedlegg II](forskrift/2025-06-06-940/vedleggII) til
+
+1. 120 000 norske kroner per søk, redningsaksjon eller syketransport i Sone A
+2. 350 000 norske kroner per søk, redningsaksjon eller syketransport i Sone B
+3. 650 000 norske kroner per søk, redningsaksjon eller syketransport i Sone C.
 
 Kravene gjelder også for forsknings- og utdanningsvirksomhet og for tilreisende utenfor ferdselsområdet.
 
@@ -186,7 +224,11 @@ Det skal rapporteres på skjema utarbeidet av Sysselmesteren.
 
 ## § 20. Internkontroll etter arbeidsmiljøloven og produktkontrolloven
 
-[Forskrift 6. desember 1996 nr. 1127 om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter](forskrift/1996-12-06-1127) gjelder for turistvirksomhet, feltvirksomhet og forsknings- og utdanningsvirksomhet for krav fastsatt i eller med hjemmel i [lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv.](lov/2005-06-17-62) og [lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester](lov/1976-06-11-79) for deres forbrukertjenester, men slik at[internkontrollforskriften § 1](forskrift/1996-12-06-1127/§1) tredje strekpunkt om miljøforstyrrelser og fjerde strekpunkt, [§ 2](forskrift/1996-12-06-1127/§2), [§ 8](forskrift/1996-12-06-1127/§8) og [§ 9](forskrift/1996-12-06-1127/§9) gjelder ikkemed helse-, miljø- og sikkerhetslovgivningen i [internkontrollforskriften](forskrift/1996-12-06-1127) menes [arbeidsmiljøloven](lov/2005-06-17-62) og [produktkontrolloven](lov/1976-06-11-79)tilsynsmyndighet for internkontrollen er etter [internkontrollforskriften § 7](forskrift/1996-12-06-1127/§7) her Arbeidstilsynet og Direktoratet for samfunnssikkerhet og beredskap.
+[Forskrift 6. desember 1996 nr. 1127 om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter](forskrift/1996-12-06-1127) gjelder for turistvirksomhet, feltvirksomhet og forsknings- og utdanningsvirksomhet for krav fastsatt i eller med hjemmel i [lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv.](lov/2005-06-17-62) og [lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester](lov/1976-06-11-79) for deres forbrukertjenester, men slik at
+
+1. [internkontrollforskriften § 1](forskrift/1996-12-06-1127/§1) tredje strekpunkt om miljøforstyrrelser og fjerde strekpunkt, [§ 2](forskrift/1996-12-06-1127/§2), [§ 8](forskrift/1996-12-06-1127/§8) og [§ 9](forskrift/1996-12-06-1127/§9) gjelder ikke
+2. med helse-, miljø- og sikkerhetslovgivningen i [internkontrollforskriften](forskrift/1996-12-06-1127) menes [arbeidsmiljøloven](lov/2005-06-17-62) og [produktkontrolloven](lov/1976-06-11-79)
+3. tilsynsmyndighet for internkontrollen er etter [internkontrollforskriften § 7](forskrift/1996-12-06-1127/§7) her Arbeidstilsynet og Direktoratet for samfunnssikkerhet og beredskap.
 
 [Lov 16. februar 2007 nr. 9 om skipssikkerhet](lov/2007-02-16-9) gjelder for turistvirksomhet, feltvirksomhet og forsknings- og utdanningsvirksomhet for så vidt gjelder krav fastsatt i eller med hjemmel i [skipssikkerhetsloven § 7](lov/2007-02-16-9/§7).
 

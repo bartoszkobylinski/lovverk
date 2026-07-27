@@ -25,7 +25,11 @@ eu_basis: []
 ## I
 
 1. Fritak kan gis for hele mesterutdanningen eller enkeltstående fagområder innen mesterutdanningen.
-2. Ved vurdering av annen utdanning som kan gi fritak for mesterutdanning legges følgende kriterier til grunn:Utdanningen må i grove trekk samsvare med mesterutdanningen når det gjelder nivå og faglig innhold.Utdanningen må som hovedregel gi lederkompetanse og omfatte etablererkunnskap.Eksamen må bestås med karakter D eller bedre i fag som inngår i vurderingsgrunnlaget. I fag hvor det ikke avlegges eksamen må standpunktkarakteren tilfredsstille karakterkravet.
+2. Ved vurdering av annen utdanning som kan gi fritak for mesterutdanning legges følgende kriterier til grunn:
+
+   1. Utdanningen må i grove trekk samsvare med mesterutdanningen når det gjelder nivå og faglig innhold.
+   2. Utdanningen må som hovedregel gi lederkompetanse og omfatte etablererkunnskap.
+   3. Eksamen må bestås med karakter D eller bedre i fag som inngår i vurderingsgrunnlaget. I fag hvor det ikke avlegges eksamen må standpunktkarakteren tilfredsstille karakterkravet.
 3. Utdanningen må som hovedregel være gjennomført innen de siste 10 årene på det tidspunktet det søkes om mesterbrev.
 4. Søker som søker om godkjenning av annen utdanning med bakgrunn i utdanning fra annet land må i tillegg kunne dokumentere kompetanse i de til enhver tid gjeldende norske myndighetskrav og bransjestandarder innen mesterfaget. Dette inkluderer lover, forskrifter og standarder. All dokumentasjon skal foreligge på norsk.
 

@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder for følgende norske skip som opererer i polare farvann:skip med sikkerhetssertifikat for passasjerskipskip med sikkerhetssertifikat for konstruksjon av lasteskip og sikkerhetssertifikat for utstyr på lasteskipfiskefartøy med største lengde 24 meter eller merskip som brukes utenfor næringsvirksomhet med bruttotonnasje 300 eller merlasteskip med bruttotonnasje 300 eller mer, men med bruttotonnasje under 500.
+Forskriften gjelder for følgende norske skip som opererer i polare farvann:
+
+1. skip med sikkerhetssertifikat for passasjerskip
+2. skip med sikkerhetssertifikat for konstruksjon av lasteskip og sikkerhetssertifikat for utstyr på lasteskip
+3. fiskefartøy med største lengde 24 meter eller mer
+4. skip som brukes utenfor næringsvirksomhet med bruttotonnasje 300 eller mer
+5. lasteskip med bruttotonnasje 300 eller mer, men med bruttotonnasje under 500.
 
 Første ledd gjelder også for skip som eies eller opereres av staten og som for tiden kun brukes i ikke-kommersiell offentlig tjeneste, med unntak av skip som tilhører Forsvaret eller som benyttes i Forsvarets tjeneste.
 

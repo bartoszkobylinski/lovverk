@@ -32,17 +32,39 @@ Strider forskriften mot nasjonale lover eller forskrifter, gjelder lovens eller 
 
 ### § 1-2. Definisjoner
 
-- *Student*En person som er tatt opp til ett eller flere emner eller studieprogram ved LDH.
-- *Studierett*En students rettigheter og plikter knyttet til å være tatt opp til et studieprogram eller enkeltemne.
-- *Studieprogram*En studieenhet som består av to eller flere emner med totalt læringsutbytte som studenter søker på og blir tatt opp til.
-- *Emne*En studiepoenggivende enhet med et fastsatt faglig innhold. Alle emner skal ha en emneplan.
-- *Emneplan*En beskrivelse av emnets innhold med forventet læringsutbytte, forkunnskapskrav, arbeids- og undervisningsformer, vurderingsform og obligatorisk aktivitet.
-- *Studieplan*En beskrivelse av et studieprograms innhold og organisering. Studieplanen skal inneholde informasjon om forventet læringsutbytte, opptakskrav, forkunnskapskrav, arbeids- og undervisningsformer og vurderingsformer. Til hver studieplan er det knyttet emneplaner.
-- *Eksamen*Eksamen er en vurderingsform der studentens muntlige, skriftlige eller praktiske prestasjoner blir vurdert. Det gis karakteren A-F eller bestått / ikke bestått.
-- *Praksisstudier*I praksisstudiene skal studentene oppnå fastsatte læringsutbytter. Praksisstudiene kan være veiledet, eller hospitering av kortere varighet uten veiledning. Praksisstudiene kan utgjøre egne emner med vurdering bestått / ikke bestått, eller inngå i emner som obligatorisk læringsaktivitet med vurdering godkjent / ikke godkjent. Når praksisstudier vurderes med bestått / ikke bestått, skal det være to sensorer, jf. [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7).
-- *Obligatorisk aktivitet*En aktivitet som må være godkjent for å ta eksamen eller bestå et emne der resultatet ikke inngår i grunnlaget for endelig karakter. Obligatorisk aktivitet kan for eksempel være skriftlig arbeidskrav, obligatorisk undervisning, ferdighetstrening eller praksisstudier.
-- *Forkunnskapskrav*Ett eller flere emner som må være bestått før et annet emne. Forkunnskapskrav for det enkelte emnet fremgår av studie- og emneplan.
-- *Privatist*En person uten studierett ved LDH som tar eksamen etter [universitets- og høyskoleloven § 11-4](lov/2024-03-08-9/§11-4).
+- *Student*
+
+  En person som er tatt opp til ett eller flere emner eller studieprogram ved LDH.
+- *Studierett*
+
+  En students rettigheter og plikter knyttet til å være tatt opp til et studieprogram eller enkeltemne.
+- *Studieprogram*
+
+  En studieenhet som består av to eller flere emner med totalt læringsutbytte som studenter søker på og blir tatt opp til.
+- *Emne*
+
+  En studiepoenggivende enhet med et fastsatt faglig innhold. Alle emner skal ha en emneplan.
+- *Emneplan*
+
+  En beskrivelse av emnets innhold med forventet læringsutbytte, forkunnskapskrav, arbeids- og undervisningsformer, vurderingsform og obligatorisk aktivitet.
+- *Studieplan*
+
+  En beskrivelse av et studieprograms innhold og organisering. Studieplanen skal inneholde informasjon om forventet læringsutbytte, opptakskrav, forkunnskapskrav, arbeids- og undervisningsformer og vurderingsformer. Til hver studieplan er det knyttet emneplaner.
+- *Eksamen*
+
+  Eksamen er en vurderingsform der studentens muntlige, skriftlige eller praktiske prestasjoner blir vurdert. Det gis karakteren A-F eller bestått / ikke bestått.
+- *Praksisstudier*
+
+  I praksisstudiene skal studentene oppnå fastsatte læringsutbytter. Praksisstudiene kan være veiledet, eller hospitering av kortere varighet uten veiledning. Praksisstudiene kan utgjøre egne emner med vurdering bestått / ikke bestått, eller inngå i emner som obligatorisk læringsaktivitet med vurdering godkjent / ikke godkjent. Når praksisstudier vurderes med bestått / ikke bestått, skal det være to sensorer, jf. [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7).
+- *Obligatorisk aktivitet*
+
+  En aktivitet som må være godkjent for å ta eksamen eller bestå et emne der resultatet ikke inngår i grunnlaget for endelig karakter. Obligatorisk aktivitet kan for eksempel være skriftlig arbeidskrav, obligatorisk undervisning, ferdighetstrening eller praksisstudier.
+- *Forkunnskapskrav*
+
+  Ett eller flere emner som må være bestått før et annet emne. Forkunnskapskrav for det enkelte emnet fremgår av studie- og emneplan.
+- *Privatist*
+
+  En person uten studierett ved LDH som tar eksamen etter [universitets- og høyskoleloven § 11-4](lov/2024-03-08-9/§11-4).
 
 > Endret ved forskrift [10 juni 2025 nr. 1061](forskrift/2025-06-10-1061) (i kraft 1 aug 2025).
 
@@ -50,11 +72,17 @@ Strider forskriften mot nasjonale lover eller forskrifter, gjelder lovens eller 
 
 ### § 2-1. Grader
 
-LDH kan tildele følgende grader:Bachelor, 180 studiepoengMaster, 120 studiepoeng.
+LDH kan tildele følgende grader:
+
+1. Bachelor, 180 studiepoeng
+2. Master, 120 studiepoeng.
 
 ### § 2-2. Videreutdanninger
 
-LDH kan tilby følgende videreutdanninger:Videreutdanninger på høyere grads nivå som bygger på bachelorgrad, inntil 90 studiepoeng.Videreutdanninger på lavere grads nivå som bygger på bachelorgrad.
+LDH kan tilby følgende videreutdanninger:
+
+1. Videreutdanninger på høyere grads nivå som bygger på bachelorgrad, inntil 90 studiepoeng.
+2. Videreutdanninger på lavere grads nivå som bygger på bachelorgrad.
 
 ### § 2-3. Andre utdanninger
 
@@ -102,7 +130,14 @@ Endringer i studieplan skal behandles i god tid før ikrafttredelse.
 
 ### § 3-3. Generelle bestemmelser knyttet til studieplan
 
-Studieplanen skal inneholde:Læringsutbytte, varighet, omfang og nivåOpptakskravOppbygging og organiseringForkunnskapskravArbeids- og undervisningsformerVurderingsformer.
+Studieplanen skal inneholde:
+
+1. Læringsutbytte, varighet, omfang og nivå
+2. Opptakskrav
+3. Oppbygging og organisering
+4. Forkunnskapskrav
+5. Arbeids- og undervisningsformer
+6. Vurderingsformer.
 
 Til hver studieplan er det knyttet emneplaner.
 
@@ -136,7 +171,16 @@ Studenten må hvert semester på fastsatt måte og innen fastsatt frist, registr
 
 Studieretten opphører når studenten skriftlig trekker seg fra studiet eller emnet, når studenten har fullført studiet eller emnet, eller ved tap av studierett.
 
-Studenten vil miste studieretten ved ett eller flere av følgende tilfeller:Studenten har ikke møtt ved studiestart.Studenten har ikke levert politiattest innen fastsatt frist.Studenten har ikke betalt semester- og studieavgift og ikke registrert seg innen fastsatt frist.Studenten har brukt opp sine forsøk på eksamen eller i praksisstudier.Studenten har ikke avlagt studiepoeng i løpet av de to siste semestrene.Studenten har ikke levert og bestått masteroppgaven i løpet av de fire siste semestrene etter at øvrige emner er bestått.Studenten har ikke meldt tilbakekomst etter permisjon innen fastsatt frist.Studenten viser ikke originaldokumentasjon som er grunnlag for opptak.
+Studenten vil miste studieretten ved ett eller flere av følgende tilfeller:
+
+1. Studenten har ikke møtt ved studiestart.
+2. Studenten har ikke levert politiattest innen fastsatt frist.
+3. Studenten har ikke betalt semester- og studieavgift og ikke registrert seg innen fastsatt frist.
+4. Studenten har brukt opp sine forsøk på eksamen eller i praksisstudier.
+5. Studenten har ikke avlagt studiepoeng i løpet av de to siste semestrene.
+6. Studenten har ikke levert og bestått masteroppgaven i løpet av de fire siste semestrene etter at øvrige emner er bestått.
+7. Studenten har ikke meldt tilbakekomst etter permisjon innen fastsatt frist.
+8. Studenten viser ikke originaldokumentasjon som er grunnlag for opptak.
 
 ### § 4-3. Permisjon med dokumentasjon
 
@@ -242,7 +286,10 @@ Studenter som ønsker å forbedre karakter, skal normalt gjøre det ved ordinær
 
 Utsatt eksamen skal gjennomføres innen rimelig tid etter ordinær eksamen.
 
-Studenter som har rett til utsatt eksamen:En student som har gyldig fravær fra ordinær eksamen. Som gyldig fravær regnes sykdom eller annen dokumentert tvingende fraværsgrunn.En student som har fått karakteren F / ikke bestått ved ordinær eksamen.
+Studenter som har rett til utsatt eksamen:
+
+1. En student som har gyldig fravær fra ordinær eksamen. Som gyldig fravær regnes sykdom eller annen dokumentert tvingende fraværsgrunn.
+2. En student som har fått karakteren F / ikke bestått ved ordinær eksamen.
 
 Dersom utsatt eksamen arrangeres, kan også studenter uten gyldig fravær fra ordinær eksamen ta utsatt eksamen.
 
@@ -324,7 +371,10 @@ For hver praksisperiode skal det foretas en avsluttende vurdering av studentens 
 
 Dersom det kan være tvil om studenten vil bestå / få godkjent praksisstudiene, skal studenten få skriftlig varsel om dette så tidlig som mulig. I varselet skal det gis en begrunnelse og en beskrivelse av hva studenten må gjøre for å bestå / få godkjent praksisstudiene, og hvilken veiledning som vil gis.
 
-Studenten kan få praksisstudiene vurdert til ikke bestått / ikke godkjent uten at det er gitt forhåndsvarsel i følgende tilfeller:Studenten oppfyller ikke kravet til tilstedeværelse.Studenten viser handling eller adferd som utvilsomt gir grunnlag for ikke å bestå / ikke få godkjent praksisstudiene.
+Studenten kan få praksisstudiene vurdert til ikke bestått / ikke godkjent uten at det er gitt forhåndsvarsel i følgende tilfeller:
+
+1. Studenten oppfyller ikke kravet til tilstedeværelse.
+2. Studenten viser handling eller adferd som utvilsomt gir grunnlag for ikke å bestå / ikke få godkjent praksisstudiene.
 
 ### § 7-4. Avbrudd i praksisstudier
 
@@ -424,7 +474,18 @@ Karakterutskrifter inneholder oversikt over alle emner en person har bestått ve
 
 ### § 10-1. Skikkethetsvurdering
 
-Ved LDH er følgende studier omfattet av skikkethetsvurdering:Bachelor i sykepleieMaster i avansert klinisk allmennsykepleieMaster i avansert klinisk nyfødtsykepleieMaster i avansert klinisk sykepleieMaster i klinisk intensivsykepleieMaster i klinisk operasjonssykepleieMaster i sykepleie innen psykisk helse, rus og avhengighetVidereutdanning i barselomsorgVidereutdanning i klinisk sykepleieVidereutdanning i palliativ omsorg.
+Ved LDH er følgende studier omfattet av skikkethetsvurdering:
+
+- Bachelor i sykepleie
+- Master i avansert klinisk allmennsykepleie
+- Master i avansert klinisk nyfødtsykepleie
+- Master i avansert klinisk sykepleie
+- Master i klinisk intensivsykepleie
+- Master i klinisk operasjonssykepleie
+- Master i sykepleie innen psykisk helse, rus og avhengighet
+- Videreutdanning i barselomsorg
+- Videreutdanning i klinisk sykepleie
+- Videreutdanning i palliativ omsorg.
 
 Skikkethetsvurdering gjøres i tråd med [universitets- og høyskoleloven § 12-3](lov/2024-03-08-9/§12-3) og [universitets- og høyskoleforskriften, kapittel 7](forskrift/2024-06-28-1392/kap7).
 
@@ -442,7 +503,18 @@ LDHs nemnd for studentsaker fatter vedtak om skikkethet, og vedtak om studenter 
 
 Fusk er handlinger i strid med regler for eksamen og obligatoriske aktiviteter som er egnet til å gi studenten en urettmessig fordel.
 
-Eksempler på fusk eller forsøk på fusk:Studenten siterer eller på andre måter benytter kilder uten tilstrekkelig kildehenvisning.Studenten gjenbruker eget arbeid som tidligere har gitt uttelling, uten tilstrekkelig kildehenvisning.Studenten fremstiller tekst som ikke er et resultat av eget, selvstendig arbeid som egen tekst.Studenten fremstiller tekst generert av kunstig intelligens som egen tekst.Studenten oppgir fiktive data eller kilder.Studenten samarbeider med andre på måter som ikke er tillatt.Studenten medvirker til fusk.Studenten har tilgang til eller bruker hjelpemidler som ikke er tillatt.Studenten skaffer seg tilgang til eksamensoppgaven før eksamen starter.Studenten skaffer seg adgang til å ta eksamen ved å fuske på arbeidskrav eller annen obligatorisk aktivitet, eller ved å få godkjent obligatoriske aktiviteter på uriktig grunnlag.
+Eksempler på fusk eller forsøk på fusk:
+
+1. Studenten siterer eller på andre måter benytter kilder uten tilstrekkelig kildehenvisning.
+2. Studenten gjenbruker eget arbeid som tidligere har gitt uttelling, uten tilstrekkelig kildehenvisning.
+3. Studenten fremstiller tekst som ikke er et resultat av eget, selvstendig arbeid som egen tekst.
+4. Studenten fremstiller tekst generert av kunstig intelligens som egen tekst.
+5. Studenten oppgir fiktive data eller kilder.
+6. Studenten samarbeider med andre på måter som ikke er tillatt.
+7. Studenten medvirker til fusk.
+8. Studenten har tilgang til eller bruker hjelpemidler som ikke er tillatt.
+9. Studenten skaffer seg tilgang til eksamensoppgaven før eksamen starter.
+10. Studenten skaffer seg adgang til å ta eksamen ved å fuske på arbeidskrav eller annen obligatorisk aktivitet, eller ved å få godkjent obligatoriske aktiviteter på uriktig grunnlag.
 
 Listen er ikke uttømmende.
 

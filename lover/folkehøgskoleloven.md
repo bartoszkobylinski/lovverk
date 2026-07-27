@@ -54,7 +54,10 @@ Departementet skal gi forskrift om offentlige tilskudd til godkjente folkehøgsk
 
 ### § 5. Krav til bruken av offentlige tilskudd og elevbetalinger
 
-Alle offentlige tilskudd og elevbetalinger skal komme elevene til gode. Dette innebærer blant annet at skolen ikke kangi utbytte eller på annen måte overføre overskudd til eierne eller deres nærstående, verken når skolen er i drift, eller om driften blir nedlagtpådra seg kostnader i form av leieutgifter for eiendom eller lokale som tilhører skolens eiere eller deres nærstående, eller på annen måte pådra seg kostnader som kan innebære at alle offentlige tilskudd eller elevbetalinger ikke kommer elevene til gode.
+Alle offentlige tilskudd og elevbetalinger skal komme elevene til gode. Dette innebærer blant annet at skolen ikke kan
+
+1. gi utbytte eller på annen måte overføre overskudd til eierne eller deres nærstående, verken når skolen er i drift, eller om driften blir nedlagt
+2. pådra seg kostnader i form av leieutgifter for eiendom eller lokale som tilhører skolens eiere eller deres nærstående, eller på annen måte pådra seg kostnader som kan innebære at alle offentlige tilskudd eller elevbetalinger ikke kommer elevene til gode.
 
 Ved opphør av skoledriften kan departementet kreve tilbakeført gjenstående midler som skriver seg fra det offentlige tilskuddet.
 
@@ -86,7 +89,19 @@ Et mindretall i styret kan klage på vedtak i styret. I saker som gjelder skolen
 
 Styret har ansvar for at skolen drives i samsvar med lover og forskrifter.
 
-Styret skalsørge for at elevene får det kurstilbudet som er forutsatt som grunnlag for godkjenningensørge for at vilkår for offentlige tilskudd oppfyllesfastsette opptaks- og skoleregleretablere et organ for behandling av saker om brudd på skoleregleneetablere og sørge for gjennomføring av systematiske kontrolltiltak for å sikre at krav fastsatt i eller med hjemmel i denne loven oppfylles (internkontroll)sørge for et system for kvalitetssikring og kvalitetsutvikling og for at dette systemet er forsvarlig og tilpasset skolens egenart og aktiviteteransette rektor og sørge for at skolens ansatte har riktig kompetansesørge for at skolen har et elevråd, og utover dette fastsette hvilke råd og organer som er nødvendige for å sikre demokratiske rettigheter og forsvarlig driftvære åpent om arbeidet sittfør oppstart av skoleåret fatte vedtak om at det er forsvarlig å starte opp et nytt skoleår, og gjøre vedtaket offentlig tilgjengeligfastsette størrelsen på elevbetalingen.
+Styret skal
+
+1. sørge for at elevene får det kurstilbudet som er forutsatt som grunnlag for godkjenningen
+2. sørge for at vilkår for offentlige tilskudd oppfylles
+3. fastsette opptaks- og skoleregler
+4. etablere et organ for behandling av saker om brudd på skolereglene
+5. etablere og sørge for gjennomføring av systematiske kontrolltiltak for å sikre at krav fastsatt i eller med hjemmel i denne loven oppfylles (internkontroll)
+6. sørge for et system for kvalitetssikring og kvalitetsutvikling og for at dette systemet er forsvarlig og tilpasset skolens egenart og aktiviteter
+7. ansette rektor og sørge for at skolens ansatte har riktig kompetanse
+8. sørge for at skolen har et elevråd, og utover dette fastsette hvilke råd og organer som er nødvendige for å sikre demokratiske rettigheter og forsvarlig drift
+9. være åpent om arbeidet sitt
+10. før oppstart av skoleåret fatte vedtak om at det er forsvarlig å starte opp et nytt skoleår, og gjøre vedtaket offentlig tilgjengelig
+11. fastsette størrelsen på elevbetalingen.
 
 Andre ledd bokstav e gjelder ikke for kommunale og fylkeskommunale skoler.
 

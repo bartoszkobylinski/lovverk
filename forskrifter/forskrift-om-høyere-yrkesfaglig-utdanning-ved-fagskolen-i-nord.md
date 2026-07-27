@@ -15,7 +15,7 @@ xml_hash: "ab0acc15400695c518bfb0b366b553308bf726b9ce5ba76733b364e5d3ff32da"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,9 @@ Forskriften gjelder for personer som søker opptak til studieprogram eller har s
 
 Forskriften regulerer bl.a. forhold knyttet til opptak, vurdering av skikkethet og krav om politiattest, avsluttende vurdering, eksamen og sensur, dokumentasjon, disiplinære sanksjoner, annullering av eksamen, samt klage og klagebehandling.
 
-Definisjoner:Sluttvurdering omfatter all avsluttende vurdering av studentens læringsutbytte med karakter som kommer til uttrykk på vitnemålet. Dette inkluderer også eksamen.
+Definisjoner:
+
+1. Sluttvurdering omfatter all avsluttende vurdering av studentens læringsutbytte med karakter som kommer til uttrykk på vitnemålet. Dette inkluderer også eksamen.
 
 Forskriften har kortnavnet forskrift for Fagskolen i Nord.
 
@@ -74,7 +76,11 @@ Fagskolen i Nord rangerer søkere som ikke kan poengberegnes etter antall måned
 
 ### § 2-4. Opptakskrav
 
-Opptakskrav til fagskolen er en av følgende:Fullført og bestått videregående opplæring med fagbrev, svennebrev eller vitnemål fra relevant yrkesutdanning.Dokumentert realkompetanse tilsvarende de ordinære opptakskravene. Søkere må være fylt 23 år innen opptaksåret.Studiekompetanse på enkelte studier.
+Opptakskrav til fagskolen er en av følgende:
+
+1. Fullført og bestått videregående opplæring med fagbrev, svennebrev eller vitnemål fra relevant yrkesutdanning.
+2. Dokumentert realkompetanse tilsvarende de ordinære opptakskravene. Søkere må være fylt 23 år innen opptaksåret.
+3. Studiekompetanse på enkelte studier.
 
 Informasjon om hvilke kompetanser som gir rett til opptak på den enkelte utdanning finnes i de enkelte studieplaner.
 
@@ -98,7 +104,11 @@ Det er helsekrav knyttet til rollen som skipsoffiser, jf. [forskrift 5. juni 201
 
 Fagskolen skal gjennomføre realkompetansevurdering når søkere ber om det i søknaden. Kompetansen til søkeren blir vurdert opp mot læreplanmål i videregående opplæring innen relevante programområde. Informasjon om hva som er relevant yrkesutdanning er nedfelt i studieplanene. Opptak gjort på bakgrunn av realkompetanse vil bare gjelde for den utdanningen det er realkompetansevurdert til.
 
-Søkere som søker studieplass på bakgrunn av realkompetanse kan være:Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravetSøkere som ikke har fullført videregående opplæringSøkere med utenlandsk utdanning.
+Søkere som søker studieplass på bakgrunn av realkompetanse kan være:
+
+1. Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravet
+2. Søkere som ikke har fullført videregående opplæring
+3. Søkere med utenlandsk utdanning.
 
 Søkere må dokumentere kompetanse i felles allmenne fag som svarer til nivå 4 i Nasjonalt kvalifikasjonsrammeverk (NKR), ha fylt 25 år i søkeåret og må ha relevant arbeidserfaring i forhold til utdanningen det søkes opptak til, jf. [forskrift 8. november 2017 nr. 1846 om Nasjonalt kvalifikasjonsrammeverk for livslang læring og om henvisningen til Det europeiske kvalifikasjonsrammeverket for livslang læring](forskrift/2017-11-08-1846).
 
@@ -116,7 +126,12 @@ Søkere til maritim og teknisk utdanning må dokumentere kunnskaper i engelsk p�
 
 Studenter som kan dokumentere å ha likeverdig eller tilsvarende emne med samme omfang ved samme eller annen institusjon, eller likeverdig eller tilsvarende realkompetanse kan søke om godskriving for deler av tidligere utdanning.
 
-Søknad om godskriving og fritak må leveres til fagskolen innen 15. september for emner i høstsemesteret og 15. januar for emner i vårsemesteret. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:Vitnemål/karakterutskrift/realkompetansevurderingOversikt over hvilke temaer som inngår i emnetOversikt over læringsutbyttebeskrivelsen av emnet eller studieplanEventuelt annen relevant dokumentasjon.
+Søknad om godskriving og fritak må leveres til fagskolen innen 15. september for emner i høstsemesteret og 15. januar for emner i vårsemesteret. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:
+
+1. Vitnemål/karakterutskrift/realkompetansevurdering
+2. Oversikt over hvilke temaer som inngår i emnet
+3. Oversikt over læringsutbyttebeskrivelsen av emnet eller studieplan
+4. Eventuelt annen relevant dokumentasjon.
 
 Fagskolen skal godskrive beståtte emner som oppfyller kravene for emnene jf. [fagskoleloven § 8 første ledd](lov/2018-06-08-28/§8/ledd/1).
 
@@ -164,7 +179,11 @@ Den lokale klagenemnda for Fagskolen i Nord kan fatte vedtak om at en student sk
 
 En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetningene for å kunne utøve yrket. En student som i utdanningen eller i framtidig yrkesutøvelse kan utgjøre fare for liv, fysisk og/eller psykisk helse, rettigheter og sikkerhet til barn, unge eller voksne i sårbare situasjoner, er ikke skikket for yrket.
 
-Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare jf. [§ 4-1 andre ledd](forskrift/2025-06-24-1413/§4-1/ledd/2). Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved Fagskolen i Nord jf. [forskrift om høyere yrkesfaglig utdanning § 27 tredje ledd](forskrift/2019-07-11-1005/§27/ledd/3):Helse, aldring og aktiv omsorgPsykisk helsearbeid og rusarbeidKreftomsorg og lindrende pleie.
+Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare jf. [§ 4-1 andre ledd](forskrift/2025-06-24-1413/§4-1/ledd/2). Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved Fagskolen i Nord jf. [forskrift om høyere yrkesfaglig utdanning § 27 tredje ledd](forskrift/2019-07-11-1005/§27/ledd/3):
+
+1. Helse, aldring og aktiv omsorg
+2. Psykisk helsearbeid og rusarbeid
+3. Kreftomsorg og lindrende pleie.
 
 Skikkethetsvurderingen skal foretas løpende og skal foretas gjennom hele fagskoleutdanningen. Den skal inngå i en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket. Dersom det er begrunnet tvil om en student er skikket, skal det i tillegg foretas en særskilt skikkethetsvurdering.
 
@@ -178,7 +197,13 @@ Skikkethetsansvarlige innstiller i saker til skikkethetsnemnda.
 
 Styret for Fagskolen i Nord oppnevner også en skikkethetsnemnd. Flere fagskoler kan gå sammen om en felles skikkethetsnemnd. En fagskole eller dens eier skal administrere en slik felles skikkethetsnemnd.
 
-Skikkethetsnemnda skal bestå av:en faglig leder eller tilsvarende funksjon (Faglig leder for avdeling eller tilsvarende funksjon, er nemndas leder.)to faglærereto representanter fra praksisfeltetto studentrepresentanteren ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+Skikkethetsnemnda skal bestå av:
+
+1. en faglig leder eller tilsvarende funksjon (Faglig leder for avdeling eller tilsvarende funksjon, er nemndas leder.)
+2. to faglærere
+3. to representanter fra praksisfeltet
+4. to studentrepresentanter
+5. en ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
 
 Medlemmene oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år.
 
@@ -371,7 +396,12 @@ Fagskolen har ikke privatistordning.
 
 ### § 5-7. Antall forsøk på eksamen eller en annen form for sluttvurdering
 
-En student har rett til å møte til eksamen eller en annen form for sluttvurdering ved fagskolen i samme emne to ganger. En student er å regne som møtt til eksamen om han eller hun:trekker seg etter frist for å melde seg avikke møter på eksamen eller en annen form for sluttvurderingikke leverer svarmøter på eksamen eller en annen form for sluttvurdering og trekker seg under eksamen eller en annen form for sluttvurdering.
+En student har rett til å møte til eksamen eller en annen form for sluttvurdering ved fagskolen i samme emne to ganger. En student er å regne som møtt til eksamen om han eller hun:
+
+1. trekker seg etter frist for å melde seg av
+2. ikke møter på eksamen eller en annen form for sluttvurdering
+3. ikke leverer svar
+4. møter på eksamen eller en annen form for sluttvurdering og trekker seg under eksamen eller en annen form for sluttvurdering.
 
 Dersom studenten kan dokumentere gyldig fravær innen fastsatt frist vil det ikke telles som et forsøk.
 
@@ -469,7 +499,12 @@ Studenten skal ha anledning til å forklare seg før saken sendes til klagenemnd
 
 ### § 5-18. Sensur
 
-Det fremgår av studieplanen hvilken form for sensur som gjennomføres ved eksamen og andre vurderingsformer i de enkelte emner. Fagskolen i Nord bruker følgende sensurformer:Full sensur. Innebærer at intern og ekstern sensor retter alle besvarelsene på det enkelte emne.Begrenset sensur. Ekstern sensor godkjenner oppgavene og sensorveiledningene. Intern sensor gjør all sensurering. Dokumentasjon på at ekstern sensor har godkjent oppgavene og sensorveiledningen skal være skriftlig fra ekstern sensor. Dokumentasjon skal vedlegges oppgavene når de leveres til administrasjonen.Utvalg. Ekstern sensor sensurerer utvalgte kandidaters besvarelser. For eksempel at 30 av 200 besvarelser sendes til ekstern sensor, mens samtlige besvarelser sensureres av intern sensor. Ekstern sensors vurdering brukes som kalibrering av intern sensors vurdering.Løpende vurdering med karakter. Ved prøver, bedømmelser av oppgaver eller arbeid der resultatet inngår i vitnemålet eller innregnes i karakter for utdanningen er det faglærer(e) som gjennomfører vurdering og beslutter emnekarakter.
+Det fremgår av studieplanen hvilken form for sensur som gjennomføres ved eksamen og andre vurderingsformer i de enkelte emner. Fagskolen i Nord bruker følgende sensurformer:
+
+1. Full sensur. Innebærer at intern og ekstern sensor retter alle besvarelsene på det enkelte emne.
+2. Begrenset sensur. Ekstern sensor godkjenner oppgavene og sensorveiledningene. Intern sensor gjør all sensurering. Dokumentasjon på at ekstern sensor har godkjent oppgavene og sensorveiledningen skal være skriftlig fra ekstern sensor. Dokumentasjon skal vedlegges oppgavene når de leveres til administrasjonen.
+3. Utvalg. Ekstern sensor sensurerer utvalgte kandidaters besvarelser. For eksempel at 30 av 200 besvarelser sendes til ekstern sensor, mens samtlige besvarelser sensureres av intern sensor. Ekstern sensors vurdering brukes som kalibrering av intern sensors vurdering.
+4. Løpende vurdering med karakter. Ved prøver, bedømmelser av oppgaver eller arbeid der resultatet inngår i vitnemålet eller innregnes i karakter for utdanningen er det faglærer(e) som gjennomfører vurdering og beslutter emnekarakter.
 
 Sensur skal foreligge innen tre uker dersom ikke særlige årsaker gjør det nødvendig å bruke mer tid. Styret kan selv gjøre unntak og fastsette lengre frist om det ikke er mulig å skaffe tilstrekkelig med kvalifiserte sensorer som er nødvendig for å avvikle sensuren på tre uker.
 
@@ -505,7 +540,15 @@ Fagskolen utferdiger vitnemål om fullført fagskoleutdanning.
 
 Vitnemål utstedes til studenter som har fullført og bestått hele fagskoleutdanningen – minimum 30 studiepoeng (½ år).
 
-Vitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:Gradsbetegnelse: Fagskolegrad (30–90 studiepoeng) eller høyere fagskolegrad (fra 120 studiepoeng), jf. [forskrift om høyere yrkesfaglig utdanning § 41](forskrift/2019-07-11-1005/§41)Det overordnede læringsutbyttetEmner og eventuell praksisKvalifikasjonsnivået som oppnås (nivå 5 i NKR og fagskole 1 eller fagskole 2)Karaktersystemet som benyttes (A–F eller bestått/ikke bestått)Antall studiepoengKarakter/karakterer.
+Vitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:
+
+1. Gradsbetegnelse: Fagskolegrad (30–90 studiepoeng) eller høyere fagskolegrad (fra 120 studiepoeng), jf. [forskrift om høyere yrkesfaglig utdanning § 41](forskrift/2019-07-11-1005/§41)
+2. Det overordnede læringsutbyttet
+3. Emner og eventuell praksis
+4. Kvalifikasjonsnivået som oppnås (nivå 5 i NKR og fagskole 1 eller fagskole 2)
+5. Karaktersystemet som benyttes (A–F eller bestått/ikke bestått)
+6. Antall studiepoeng
+7. Karakter/karakterer.
 
 Tittel og omtale av hovedprosjekt eller fordypningsemne skal gå fram av vitnemålet.
 
@@ -523,7 +566,10 @@ For at fagskolen skal kunne utstede vitnemål, evt. annen dokumentasjon for full
 
 ### § 6-1. Bortvisning og utestenging
 
-Definisjoner:*Bortvisning:* Betyr at studenten kan nektes tilgang til bestemte områder eller i bestemte sammenhenger, men innebærer ikke at studenten mister retten til å få sluttvurdering.*Utestenging:* Innebærer at studenten mister retten til å få sluttvurdering.
+Definisjoner:
+
+1. *Bortvisning:* Betyr at studenten kan nektes tilgang til bestemte områder eller i bestemte sammenhenger, men innebærer ikke at studenten mister retten til å få sluttvurdering.
+2. *Utestenging:* Innebærer at studenten mister retten til å få sluttvurdering.
 
 Rektor og klagenemnd for opplæring kan fatte vedtak om bortvisning og/eller utestenging etter bestemmelsene i [fagskoleloven § 25](lov/2018-06-08-28/§25).
 
@@ -557,13 +603,31 @@ Annullering av eksamen eller sluttvurdering er et enkeltvedtak, og studenten kan
 
 Den lokale klagenemnden for Fagskolen i Nord oppnevnes av styret og består av fem medlemmer med personlige varamedlemmer. Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere og ikke være ansatt ved fagskolen. Alle medlemmer skal ha personlig varamedlem som oppfyller samme krav. Klagenemnden er vedtaksfør når lederen eller nestlederen og minst to andre medlemmer er til stede.
 
-Klagenemnda skal ha slik sammensetning:en lederett medlem med fagskoleadministrativ kompetanseett medlem som er fagskolelærerto studenter.
+Klagenemnda skal ha slik sammensetning:
+
+1. en leder
+2. ett medlem med fagskoleadministrativ kompetanse
+3. ett medlem som er fagskolelærer
+4. to studenter.
 
 Den lokale klagenemnden for Fagskolen i Nord behandler klager på alle enkeltvedtak som er gjort ved fagskolen, med unntak av de nevnt i femte ledd og klager på karakterfastsetting jf. § 5-22 i denne forskriften.
 
-Vedtakskompetansen i følgende saker som ikke er klagesaker er delegert til den lokale klagenemnda:vedtak om annullering av eksamen eller prøve jf. [fagskoleloven § 24](lov/2018-06-08-28/§24)vedtak bortvisning og utestenging jf. [fagskoleloven § 25](lov/2018-06-08-28/§25)vedtak om vurdering av skikkethet [§ 26](lov/2018-06-08-28/§26)Vedtak om utestenging som følge av merknad i politiattest jf. [fagskoleloven § 27](lov/2018-06-08-28/§27).
+Vedtakskompetansen i følgende saker som ikke er klagesaker er delegert til den lokale klagenemnda:
 
-Følgende klager skal behandles av den nasjonale klagenemnda:[fagskoleloven § 7 tredje ledd](lov/2018-06-08-28/§7/ledd/3) om inndragning, annullering og karantenetid[fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolenes opptaksvedtak om realkompetanse jf. [§ 7 første ledd](lov/2018-06-08-28/§7/ledd/1) eller spesielle opptakskrav jf. [§ 7 femte ledd](lov/2018-06-08-28/§7/ledd/5)[fagskoleloven § 16a tredje ledd](lov/2018-06-08-28/§16a/ledd/3) om inndragning, annullering og karantenetid[fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve[fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging[fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet[fagskoleloven § 27](lov/2018-06-08-28/§27) om politiattest.
+1. vedtak om annullering av eksamen eller prøve jf. [fagskoleloven § 24](lov/2018-06-08-28/§24)
+2. vedtak bortvisning og utestenging jf. [fagskoleloven § 25](lov/2018-06-08-28/§25)
+3. vedtak om vurdering av skikkethet [§ 26](lov/2018-06-08-28/§26)
+4. Vedtak om utestenging som følge av merknad i politiattest jf. [fagskoleloven § 27](lov/2018-06-08-28/§27).
+
+Følgende klager skal behandles av den nasjonale klagenemnda:
+
+1. [fagskoleloven § 7 tredje ledd](lov/2018-06-08-28/§7/ledd/3) om inndragning, annullering og karantenetid
+2. [fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolenes opptaksvedtak om realkompetanse jf. [§ 7 første ledd](lov/2018-06-08-28/§7/ledd/1) eller spesielle opptakskrav jf. [§ 7 femte ledd](lov/2018-06-08-28/§7/ledd/5)
+3. [fagskoleloven § 16a tredje ledd](lov/2018-06-08-28/§16a/ledd/3) om inndragning, annullering og karantenetid
+4. [fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve
+5. [fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging
+6. [fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet
+7. [fagskoleloven § 27](lov/2018-06-08-28/§27) om politiattest.
 
 Den nasjonale klagenemndas vedtak kan ikke påklages, jf. [forskrift om høyere yrkesfaglig utdanning § 45 fjerde ledd](forskrift/2019-07-11-1005/§45/ledd/4).
 
@@ -581,7 +645,12 @@ Dersom det er fremsatt klage på karakterfastsettingen eller klage over formelle
 
 Klagen skal være skriftlig og sendes til fagskolen sitt postmottak (e-post eller brev).
 
-Den skriftlige klagen skal inneholde:hvem som klager (navn og adresse)hva klagen gjeldervedtak/forhold det klages overdato og underskrift/er.
+Den skriftlige klagen skal inneholde:
+
+1. hvem som klager (navn og adresse)
+2. hva klagen gjelder
+3. vedtak/forhold det klages over
+4. dato og underskrift/er.
 
 Studenten skal få svar på klagen senest innen tre uker etter at fagskolen mottok klagen. Dersom klagebehandlingen tar lengre tid, skal klager underrettes om dette skriftlig.
 

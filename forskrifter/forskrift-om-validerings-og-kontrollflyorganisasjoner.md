@@ -28,7 +28,11 @@ Forskriften gjelder for organisasjoner som utfører validerings- og kontrollflyg
 
 ## § 2. Definisjoner
 
-I forskriften forstås med*spesielle besetningsmedlemmer*: personell som opererer kontrollflyutstyr,*kontrollflyging*: en flyging som utføres for å verifisere at det utstrålte signal fra bakkeanlegget er korrekt, samt å verifisere at luftfartøyets navigasjonssystem mottar korrekt informasjon,*valideringsflyging*: en type kontrollflyging som utføres for å verifisere at den designede versjon av prosedyren som er programmert i luftfartøyets Flight Management System (FMS), kan godkjennes for operativ bruk.
+I forskriften forstås med
+
+1. *spesielle besetningsmedlemmer*: personell som opererer kontrollflyutstyr,
+2. *kontrollflyging*: en flyging som utføres for å verifisere at det utstrålte signal fra bakkeanlegget er korrekt, samt å verifisere at luftfartøyets navigasjonssystem mottar korrekt informasjon,
+3. *valideringsflyging*: en type kontrollflyging som utføres for å verifisere at den designede versjon av prosedyren som er programmert i luftfartøyets Flight Management System (FMS), kan godkjennes for operativ bruk.
 
 ## § 3. Gjennomføring i norsk rett
 
@@ -38,7 +42,13 @@ ICAO DOC 8071 Volume I Fourth Edition – 2000, 31.10.2002, Volume II Fifth Edit
 
 Validerings- og kontrollflyging skal kun utføres av en virksomhet med godkjenning fra Luftfartstilsynet som validerings- og kontrollflyorganisasjon.
 
-For å få godkjenning som validerings- og kontrollflyorganisasjon måvirksomheten utføre spesialiserte luftfartsoperasjoner etter en selverklæring, jf. forordning [(EU) nr. 965/2012](eu/32012r0965), ORO.DEC.100, som gjennomført ved [forskrift 7. august 2013 nr. 956](forskrift/2013-08-07-956) om luftfartsoperasjoner,installasjoner av måleutstyr, kraftuttak og antenner være godkjent i henhold til [forskrift 4. mars 2013 nr. 252](forskrift/2013-03-04-252) om luftdyktighets- og miljøsertifisering for luftfartøyer mv. og sertifisering av design- og produksjonsorganisasjoner [(sertifiseringsforskriften)](forskrift/2005-05-24-461),kontrollflyet ha tekniske og operative spesifikasjoner som oppfyller krav til at flyet kan operere på norske lufthavner,virksomheten utføres i samsvar med krav i DOC 8071 Volum I og II og DOC 9906 Volum V. Validerings- og kontrollflyging av en SCAT-I installasjon skal følge krav fastsatt i ICAO DOC 8071 Volume II Chapter 4 Ground-Based Augmentation Systems (GBAS),spesielle besetningsmedlemmer ha kompetanse i samsvar med pkt 1.11 og 1.12 i DOC 8071 Volume I og pkt 1.11 i DOC 8071 Volume II.
+For å få godkjenning som validerings- og kontrollflyorganisasjon må
+
+1. virksomheten utføre spesialiserte luftfartsoperasjoner etter en selverklæring, jf. forordning [(EU) nr. 965/2012](eu/32012r0965), ORO.DEC.100, som gjennomført ved [forskrift 7. august 2013 nr. 956](forskrift/2013-08-07-956) om luftfartsoperasjoner,
+2. installasjoner av måleutstyr, kraftuttak og antenner være godkjent i henhold til [forskrift 4. mars 2013 nr. 252](forskrift/2013-03-04-252) om luftdyktighets- og miljøsertifisering for luftfartøyer mv. og sertifisering av design- og produksjonsorganisasjoner [(sertifiseringsforskriften)](forskrift/2005-05-24-461),
+3. kontrollflyet ha tekniske og operative spesifikasjoner som oppfyller krav til at flyet kan operere på norske lufthavner,
+4. virksomheten utføres i samsvar med krav i DOC 8071 Volum I og II og DOC 9906 Volum V. Validerings- og kontrollflyging av en SCAT-I installasjon skal følge krav fastsatt i ICAO DOC 8071 Volume II Chapter 4 Ground-Based Augmentation Systems (GBAS),
+5. spesielle besetningsmedlemmer ha kompetanse i samsvar med pkt 1.11 og 1.12 i DOC 8071 Volume I og pkt 1.11 i DOC 8071 Volume II.
 
 Godkjenning som validerings- og kontrollflyorganisasjon kan gis for en periode inntil fem år.
 

@@ -15,7 +15,7 @@ xml_hash: "cf8d3ab092f7325689cbe7157dbd221ff04c88f1f622d12d058a2b3fff1b596d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,98 @@ Det kan inngås private avtaler om en annen leveringskvalitet enn det som er fas
 
 ### § 1-4. Definisjoner
 
-I denne forskriften menes med:*Avbrudd:* Tilstand karakterisert ved uteblitt levering av elektrisk energi til en eller flere sluttbrukere, hvor alle forsyningsspenningene er under 5 % av avtalt spenningsnivå. Avbruddene klassifiseres i langvarige avbrudd (> 3 min) og kortvarige avbrudd (≤ 3 min).*Avbruddsvarighet:* Medgått tid fra avbrudd inntrer til sluttbruker igjen har spenning over 90 % av avtalt spenningsnivå.*CAIDIK (Customer average interruption duration index):* Sum varighet av kortvarige avbrudd over året dividert på antall kortvarige avbrudd innenfor året.*CAIDIL (Customer average interruption duration index):* Sum varighet av langvarige avbrudd over året dividert på antall langvarige avbrudd innenfor året.*CAIFIK (Customer average interruption frequency index):* Sum antall kortvarige avbrudd over året dividert på antall sluttbrukere som har opplevd kortvarige avbrudd innenfor året.*CAIFIL (Customer average interruption frequency index):* Sum antall langvarige avbrudd over året dividert på antall sluttbrukere som har opplevd langvarige avbrudd innenfor året.*CTAIDIK (Customer total average interruption duration index):* Sum varighet av kortvarige avbrudd over året dividert på antall sluttbrukere som har opplevd kortvarige avbrudd innenfor året.*CTAIDIL (Customer total average interruption duration index):* Sum varighet av langvarige avbrudd over året dividert på antall sluttbrukere som har opplevd langvarige avbrudd innenfor året.*Driftsforstyrrelse*: Automatisk, påtvungen eller utilsiktet utkobling.*Elektrisk lavspenningsanlegg:* Anlegg med høyeste nominell spenning til og med 1 000 V vekselspenning eller 1 500 V likespenning.*FASIT:* Et standardisert registrerings- og rapporteringssystem (med egen kravspesifikasjon) for feil og avbrudd i kraftsystemet. FASIT omfatter en felles terminologi, strukturering og klassifisering av data, felles opptellingsregler m.m.*Flimmer:* Den synlige variasjon i lys hvor luminansen eller spektralfordelingen varierer med tiden.*Flimmerintensitet:* Intensiteten av flimmerubehaget er definert ved UIE-IEC flimmermålemetode og beregnes ved de følgende størrelser:Korttids intensitet (Pst) målt over en periode på ti minutter.Langtids intensitet (Plt) beregnet ut fra 12 Pst-verdier over et to timers intervall, i henhold til følgende uttrykk: $$P_{lt} = \\sqrt[3]{\\sum\\limits_{i=1}^{12} \\frac{P^3_{sti}}{12}}$$*Ikke levert energi (ILE):* Beregnet mengde elektrisk energi som ville blitt levert til sluttbruker dersom svikt i leveringen ikke hadde inntruffet.*Ikke varslet avbrudd:* Avbrudd som skyldes driftsforstyrrelse eller planlagt utkobling der berørte sluttbrukere ikke er informert på forhånd.*Interharmoniske spenninger:* Sinusformede spenninger med frekvens som ligger mellom de overharmoniske, det vil si at frekvensen ikke er et multiplum av forsyningsspenningens grunnharmoniske frekvens.*kortvarige overspenninger:* hurtig økning i spenningens effektivverdi til høyere enn 110 % av avtalt spenningsnivå, med varighet fra 10 millisekunder til 60 sekunder. I et system der et elektrisk anlegg eller elektrisk utstyr forsynes med mer enn én forsyningspenning vil en kortvarig overspenning inntreffe når spenningen på minst én av forsyningsspenningene stiger over 110 % av avtalt spenning og opphøre når alle forsyningsspenningene faller til 110 % eller mindre av avtalt spenning.*Kortvarige underspenninger, spenningsdipp:* Hurtig reduksjon i spenningens effektivverdi til under 90 %, men større enn 5 % av avtalt spenningsnivå, med varighet fra 10 millisekunder til 60 sekunder. I et system der et elektrisk anlegg eller elektrisk utstyr forsynes med mer enn én forsyningsspenning vil en kortvarig underspenning inntreffe når minst én av forsyningsspenningene faller under 90 % av avtalt spenning og opphøre når alle forsyningsspenningene stiger til 90 % eller mer av avtalt spenning.*Langsomme variasjoner i spenningens effektivverdi:* Endringer i spenningens stasjonære effektivverdi, målt over et gitt tidsintervall.*Leveringskvalitet:* Kvalitet på levering av elektrisitet i henhold til gitte kriterier.*Leveringspålitelighet:* Kraftsystemets evne til å levere elektrisk energi til sluttbruker. Leveringspålitelighet er knyttet til hyppighet og varighet av avbrudd i forsyningsspenningen.*Måleteknisk sporbarhet:* Et måleresultat eller verdien til en normal skal kunne relateres til kjente referanser, vanligvis til nasjonale eller internasjonale normaler, gjennom en ubrutt kjede av sammenligninger (kalibreringer) med angitte måleusikkerheter for alle trinn i kjeden.*Nettkunde:* Den som driver eller eier anlegg eller utstyr for bruk eller produksjon av elektrisitet som er tilknyttet et nettselskaps anlegg. Nettselskap tilknyttet annet nettselskap, regnes også som nettkunde.*Nettselskap:* Omsetningskonsesjonær som eier overføringsnett eller har ansvar for nettjenester.*Nettjenester:* En eller flere av følgende:Overføring av kraft, herunder drift, vedlikehold og investering i nettanlegg.Tariffering.Måling, avregning og kundehåndtering.Tilsyn og sikkerhet.Driftskoordinering.Pålagte beredskapstiltak.Pålagt kraftsystemutredning eller lokal energiutredning.*Nominell spenning:* Spenningen som et system er betegnet eller identifisert ved, og som visse driftskarakteristikker er referert til.*Overharmoniske spenninger:* Sinusformede spenninger med frekvens lik et multiplum av forsyningsspenningens grunnharmoniske frekvens. Total harmonisk forvrengning av spenningen uttrykkes ved: $$\\% THD_U = \\frac{\\sqrt{\\sum\\limits_2^{40} U_k^2}}{U_1} \\cdot 100 \\%$$Individuell harmonisk forvrengning for hvert multiplum av den grunnharmoniske frekvensen uttrykkes ved: $$\\% U_k = \\frac{U_k}{U_1} \\cdot 100\\%$$der U1 er spenningens grunnharmoniske komponent, Uh er en gitt harmonisk spenningskomponent, og h er komponentens harmoniske orden.*Rapporteringspunkt:* Leveringspunkt med krav om rapportering av avbrudd til Reguleringsmyndigheten for energi. Rapporteringspunkt tilsvarer tilknytningspunkt med levering direkte til sluttbruker.*Redusert leveringskapasitet:* Tilstand karakterisert ved at avtalt leveringskapasitet ikke er tilgjengelig for sluttbrukerne på grunn av hendelser i kraftsystemet, uten at det er definert et avbrudd i tilhørende rapporteringspunkt.*SAIDIK (System average interruption duration index):* Sum varighet av kortvarige avbrudd over året dividert på antall sluttbrukere siste dag i året.*SAIDIL (System average interruption duration index):* Sum varighet av langvarige avbrudd over året dividert på antall sluttbrukere siste dag i året.*SAIFIK (System average interruption frequency index):* Sum antall kortvarige avbrudd over året dividert på antall sluttbrukere siste dag i året.*SAIFIL (System average interruption frequency index):* Sum antall langvarige avbrudd over året dividert på antall sluttbrukere siste dag i året.*Signalspenning overlagret forsyningsspenningen:* Signaler som overlagres forsyningsspenningen i den hensikt å overføre informasjon via det offentlige kraftledningsnettet. Signalene brukt i det offentlige kraftledningsnettet, kan klassifiseres i tre typer:Rippelkontroll signaler: overlagret sinusformet signal i området 110 Hz til 3000 Hz.Kraftledning bæresignal: overlagret sinusformet signal i området mellom 3 kHz og 148,5 kHz.Merkesignaler på nettet: overlagrede korttids endringer (transienter) på utvalgte punkter av spenningens kurveform.*Sluttbruker:* Kjøper av elektrisk energi som ikke selger denne videre.*Spenningsendringskarakteristikk:* Endring i spenningens effektivverdi evaluert pr. halvperiode som funksjon av tiden, mellom tidsperioder hvor spenningen har vært stabil i minimum ett sekund. Spenningen anses stabil når dens effektivverdi befinner seg innenfor et spenningsintervall tilsvarende 0,5 % av avtalt spenningsnivå.*Spenningskvalitet:* Kvalitet på spenning i henhold til gitte kriterier.*Spenningssprang:* En endring av spenningens effektivverdi innenfor ± 10 % av avtalt spenningsnivå, som skjer hurtigere enn 0,5 % av avtalt spenningsnivå pr. sekund. Spenningssprang uttrykkes ved stasjonær og maksimal spenningsendring som er gitt ved henholdsvis: $$\\% U_{\\text{stasjonær}} = \\frac{\\Delta U_{\\text{stasjonær}}}{U_{\\text{avtalt}}} \\cdot 100 \\%$$og $$\\% U_{maks} = \\frac{\\Delta U_{maks}}{U_{avtalt}} \\cdot 100\\%$$der *ΔUstasjonær* er stasjonær spenningsendring som følge av en spenningsendringskarakteristikk,ΔUmaks er den maksimale spenningsdifferansen i løpet av en spenningsendringskarakteristikkog Uavtalt er avtalt spenningsnivå.*Spenningsusymmetri:* Tilstand i et flerfaset system hvor linjespenningenes effektivverdier (grunnharmonisk komponent), eller fasevinklene mellom etterfølgende linjespenninger, ikke er helt like. Grad av usymmetri beregnes ved forholdet mellom spenningens negative og positive sekvenskomponent, og kan uttrykkes ved: $$\\frac{U_-}{U_+} = \\sqrt{\\frac{1 - \\sqrt{3 - 6 \\beta}}{1 + \\sqrt{3 - 6 \\beta}}} \\cdot 100\\%$$der U– er spenningens negative sekvenskomponent,U+ er spenningens positive sekvenskomponent, $$\\beta = \\frac{U_{12}^4 + U_{23}^4 + U_{31}^4}{\\left(U_{12}^2 + U_{23}^2 + U_{31}^2 \\right)^2}$$og Uij representerer linjespenningens grunnharmoniske komponent mellom de nummererte faser.*Tilknytningspunkt:* Punkt i overføringsnettet der det foregår innmating eller uttak av kraft, eller utveksling mellom nettselskap.*Transiente overspenninger:* Høyfrekvente eller overfrekvente overspenninger med varighet normalt innenfor en halvperiode (10 ms). Stigetiden kan variere fra mindre enn ett mikrosekund til noen få millisekunder.*Utkobling*: Åpning av bryter, eller sikringsbrudd.*Varslet avbrudd:* Avbrudd som skyldes planlagt utkobling der berørte sluttbrukere er informert på forhånd.
+I denne forskriften menes med:
+
+1. *Avbrudd:* Tilstand karakterisert ved uteblitt levering av elektrisk energi til en eller flere sluttbrukere, hvor alle forsyningsspenningene er under 5 % av avtalt spenningsnivå. Avbruddene klassifiseres i langvarige avbrudd (> 3 min) og kortvarige avbrudd (≤ 3 min).
+2. *Avbruddsvarighet:* Medgått tid fra avbrudd inntrer til sluttbruker igjen har spenning over 90 % av avtalt spenningsnivå.
+3. *CAIDIK (Customer average interruption duration index):* Sum varighet av kortvarige avbrudd over året dividert på antall kortvarige avbrudd innenfor året.
+4. *CAIDIL (Customer average interruption duration index):* Sum varighet av langvarige avbrudd over året dividert på antall langvarige avbrudd innenfor året.
+5. *CAIFIK (Customer average interruption frequency index):* Sum antall kortvarige avbrudd over året dividert på antall sluttbrukere som har opplevd kortvarige avbrudd innenfor året.
+6. *CAIFIL (Customer average interruption frequency index):* Sum antall langvarige avbrudd over året dividert på antall sluttbrukere som har opplevd langvarige avbrudd innenfor året.
+7. *CTAIDIK (Customer total average interruption duration index):* Sum varighet av kortvarige avbrudd over året dividert på antall sluttbrukere som har opplevd kortvarige avbrudd innenfor året.
+8. *CTAIDIL (Customer total average interruption duration index):* Sum varighet av langvarige avbrudd over året dividert på antall sluttbrukere som har opplevd langvarige avbrudd innenfor året.
+9. *Driftsforstyrrelse*: Automatisk, påtvungen eller utilsiktet utkobling.
+10. *Elektrisk lavspenningsanlegg:* Anlegg med høyeste nominell spenning til og med 1 000 V vekselspenning eller 1 500 V likespenning.
+11. *FASIT:* Et standardisert registrerings- og rapporteringssystem (med egen kravspesifikasjon) for feil og avbrudd i kraftsystemet. FASIT omfatter en felles terminologi, strukturering og klassifisering av data, felles opptellingsregler m.m.
+12. *Flimmer:* Den synlige variasjon i lys hvor luminansen eller spektralfordelingen varierer med tiden.
+13. *Flimmerintensitet:* Intensiteten av flimmerubehaget er definert ved UIE-IEC flimmermålemetode og beregnes ved de følgende størrelser:
+
+    1. Korttids intensitet (Pst) målt over en periode på ti minutter.
+    2. Langtids intensitet (Plt) beregnet ut fra 12 Pst-verdier over et to timers intervall, i henhold til følgende uttrykk:
+
+       $$P_{lt} = \\sqrt[3]{\\sum\\limits_{i=1}^{12} \\frac{P^3_{sti}}{12}}$$
+14. *Ikke levert energi (ILE):* Beregnet mengde elektrisk energi som ville blitt levert til sluttbruker dersom svikt i leveringen ikke hadde inntruffet.
+15. *Ikke varslet avbrudd:* Avbrudd som skyldes driftsforstyrrelse eller planlagt utkobling der berørte sluttbrukere ikke er informert på forhånd.
+16. *Interharmoniske spenninger:* Sinusformede spenninger med frekvens som ligger mellom de overharmoniske, det vil si at frekvensen ikke er et multiplum av forsyningsspenningens grunnharmoniske frekvens.
+17. *kortvarige overspenninger:* hurtig økning i spenningens effektivverdi til høyere enn 110 % av avtalt spenningsnivå, med varighet fra 10 millisekunder til 60 sekunder. I et system der et elektrisk anlegg eller elektrisk utstyr forsynes med mer enn én forsyningspenning vil en kortvarig overspenning inntreffe når spenningen på minst én av forsyningsspenningene stiger over 110 % av avtalt spenning og opphøre når alle forsyningsspenningene faller til 110 % eller mindre av avtalt spenning.
+18. *Kortvarige underspenninger, spenningsdipp:* Hurtig reduksjon i spenningens effektivverdi til under 90 %, men større enn 5 % av avtalt spenningsnivå, med varighet fra 10 millisekunder til 60 sekunder. I et system der et elektrisk anlegg eller elektrisk utstyr forsynes med mer enn én forsyningsspenning vil en kortvarig underspenning inntreffe når minst én av forsyningsspenningene faller under 90 % av avtalt spenning og opphøre når alle forsyningsspenningene stiger til 90 % eller mer av avtalt spenning.
+19. *Langsomme variasjoner i spenningens effektivverdi:* Endringer i spenningens stasjonære effektivverdi, målt over et gitt tidsintervall.
+20. *Leveringskvalitet:* Kvalitet på levering av elektrisitet i henhold til gitte kriterier.
+21. *Leveringspålitelighet:* Kraftsystemets evne til å levere elektrisk energi til sluttbruker. Leveringspålitelighet er knyttet til hyppighet og varighet av avbrudd i forsyningsspenningen.
+22. *Måleteknisk sporbarhet:* Et måleresultat eller verdien til en normal skal kunne relateres til kjente referanser, vanligvis til nasjonale eller internasjonale normaler, gjennom en ubrutt kjede av sammenligninger (kalibreringer) med angitte måleusikkerheter for alle trinn i kjeden.
+23. *Nettkunde:* Den som driver eller eier anlegg eller utstyr for bruk eller produksjon av elektrisitet som er tilknyttet et nettselskaps anlegg. Nettselskap tilknyttet annet nettselskap, regnes også som nettkunde.
+24. *Nettselskap:* Omsetningskonsesjonær som eier overføringsnett eller har ansvar for nettjenester.
+25. *Nettjenester:* En eller flere av følgende:
+
+    1. Overføring av kraft, herunder drift, vedlikehold og investering i nettanlegg.
+    2. Tariffering.
+    3. Måling, avregning og kundehåndtering.
+    4. Tilsyn og sikkerhet.
+    5. Driftskoordinering.
+    6. Pålagte beredskapstiltak.
+    7. Pålagt kraftsystemutredning eller lokal energiutredning.
+26. *Nominell spenning:* Spenningen som et system er betegnet eller identifisert ved, og som visse driftskarakteristikker er referert til.
+27. *Overharmoniske spenninger:* Sinusformede spenninger med frekvens lik et multiplum av forsyningsspenningens grunnharmoniske frekvens. Total harmonisk forvrengning av spenningen uttrykkes ved:
+
+    $$\\% THD_U = \\frac{\\sqrt{\\sum\\limits_2^{40} U_k^2}}{U_1} \\cdot 100 \\%$$
+
+    Individuell harmonisk forvrengning for hvert multiplum av den grunnharmoniske frekvensen uttrykkes ved:
+
+    $$\\% U_k = \\frac{U_k}{U_1} \\cdot 100\\%$$
+
+    der U1 er spenningens grunnharmoniske komponent, Uh er en gitt harmonisk spenningskomponent, og h er komponentens harmoniske orden.
+28. *Rapporteringspunkt:* Leveringspunkt med krav om rapportering av avbrudd til Reguleringsmyndigheten for energi. Rapporteringspunkt tilsvarer tilknytningspunkt med levering direkte til sluttbruker.
+29. *Redusert leveringskapasitet:* Tilstand karakterisert ved at avtalt leveringskapasitet ikke er tilgjengelig for sluttbrukerne på grunn av hendelser i kraftsystemet, uten at det er definert et avbrudd i tilhørende rapporteringspunkt.
+30. *SAIDIK (System average interruption duration index):* Sum varighet av kortvarige avbrudd over året dividert på antall sluttbrukere siste dag i året.
+31. *SAIDIL (System average interruption duration index):* Sum varighet av langvarige avbrudd over året dividert på antall sluttbrukere siste dag i året.
+32. *SAIFIK (System average interruption frequency index):* Sum antall kortvarige avbrudd over året dividert på antall sluttbrukere siste dag i året.
+33. *SAIFIL (System average interruption frequency index):* Sum antall langvarige avbrudd over året dividert på antall sluttbrukere siste dag i året.
+34. *Signalspenning overlagret forsyningsspenningen:* Signaler som overlagres forsyningsspenningen i den hensikt å overføre informasjon via det offentlige kraftledningsnettet. Signalene brukt i det offentlige kraftledningsnettet, kan klassifiseres i tre typer:
+
+    1. Rippelkontroll signaler: overlagret sinusformet signal i området 110 Hz til 3000 Hz.
+    2. Kraftledning bæresignal: overlagret sinusformet signal i området mellom 3 kHz og 148,5 kHz.
+    3. Merkesignaler på nettet: overlagrede korttids endringer (transienter) på utvalgte punkter av spenningens kurveform.
+35. *Sluttbruker:* Kjøper av elektrisk energi som ikke selger denne videre.
+36. *Spenningsendringskarakteristikk:* Endring i spenningens effektivverdi evaluert pr. halvperiode som funksjon av tiden, mellom tidsperioder hvor spenningen har vært stabil i minimum ett sekund. Spenningen anses stabil når dens effektivverdi befinner seg innenfor et spenningsintervall tilsvarende 0,5 % av avtalt spenningsnivå.
+37. *Spenningskvalitet:* Kvalitet på spenning i henhold til gitte kriterier.
+38. *Spenningssprang:* En endring av spenningens effektivverdi innenfor ± 10 % av avtalt spenningsnivå, som skjer hurtigere enn 0,5 % av avtalt spenningsnivå pr. sekund. Spenningssprang uttrykkes ved stasjonær og maksimal spenningsendring som er gitt ved henholdsvis:
+
+    $$\\% U_{\\text{stasjonær}} = \\frac{\\Delta U_{\\text{stasjonær}}}{U_{\\text{avtalt}}} \\cdot 100 \\%$$
+
+    og
+
+    $$\\% U_{maks} = \\frac{\\Delta U_{maks}}{U_{avtalt}} \\cdot 100\\%$$
+
+    der *ΔUstasjonær* er stasjonær spenningsendring som følge av en spenningsendringskarakteristikk,
+
+    ΔUmaks er den maksimale spenningsdifferansen i løpet av en spenningsendringskarakteristikk
+
+    og Uavtalt er avtalt spenningsnivå.
+39. *Spenningsusymmetri:* Tilstand i et flerfaset system hvor linjespenningenes effektivverdier (grunnharmonisk komponent), eller fasevinklene mellom etterfølgende linjespenninger, ikke er helt like. Grad av usymmetri beregnes ved forholdet mellom spenningens negative og positive sekvenskomponent, og kan uttrykkes ved:
+
+    $$\\frac{U_-}{U_+} = \\sqrt{\\frac{1 - \\sqrt{3 - 6 \\beta}}{1 + \\sqrt{3 - 6 \\beta}}} \\cdot 100\\%$$
+
+    der U– er spenningens negative sekvenskomponent,
+
+    U+ er spenningens positive sekvenskomponent,
+
+    $$\\beta = \\frac{U_{12}^4 + U_{23}^4 + U_{31}^4}{\\left(U_{12}^2 + U_{23}^2 + U_{31}^2 \\right)^2}$$
+
+    og Uij representerer linjespenningens grunnharmoniske komponent mellom de nummererte faser.
+40. *Tilknytningspunkt:* Punkt i overføringsnettet der det foregår innmating eller uttak av kraft, eller utveksling mellom nettselskap.
+41. *Transiente overspenninger:* Høyfrekvente eller overfrekvente overspenninger med varighet normalt innenfor en halvperiode (10 ms). Stigetiden kan variere fra mindre enn ett mikrosekund til noen få millisekunder.
+42. *Utkobling*: Åpning av bryter, eller sikringsbrudd.
+43. *Varslet avbrudd:* Avbrudd som skyldes planlagt utkobling der berørte sluttbrukere er informert på forhånd.
 
 > Endret ved [forskrifter 5 des 2005 nr. 1436](forskrift/2005-12-05-1436) (i kraft 1 jan 2006), [14 des 2006 nr. 1464](forskrift/2006-12-14-1464) (i kraft 1 jan 2007), [7 des 2012 nr. 1183](forskrift/2012-12-07-1183) (i kraft 1 jan 2014), [14 des 2017 nr. 2029](forskrift/2017-12-14-2029) (i kraft 1 jan 2019), [24 okt 2019 nr. 1417](forskrift/2019-10-24-1417) (i kraft 1 nov 2019).
 
@@ -92,7 +183,14 @@ Henvendelser fra nettkunder om misnøye med spenningskvaliteten skal rettes til 
 
 Nettselskapet skal ved henvendelser der det ikke er en åpenbar årsak, utføre nødvendige målinger og utredninger. Nettselskapet kan i slike tilfeller kreve at nettkunden skriftlig beskriver hva som har ført til misnøyen. Målinger som utføres, skal som minimum ha én ukes varighet og skal så langt som mulig reflektere tilsvarende driftsforhold som henvendelsen refererer til.
 
-I tilfeller der det ikke er åpenbar årsak skal nettselskapet skriftlig informere nettkunden om følgende:Foreløpig vurdering og fremdriftsplan.Resultat av spenningskvalitetsmålinger.At nettselskapet har utpekt utbedringsansvarlig etter [§ 2-1 tredje ledd](forskrift/2004-11-30-1557/§2-1/ledd/3).Plan for utbedring når nettselskapet er utbedringsansvarlig etter [§ 2-1 tredje ledd](forskrift/2004-11-30-1557/§2-1/ledd/3).Når spenningskvaliteten er utbedret.Mulighet til å bringe uenighetssak inn til Reguleringsmyndigheten for energi.
+I tilfeller der det ikke er åpenbar årsak skal nettselskapet skriftlig informere nettkunden om følgende:
+
+1. Foreløpig vurdering og fremdriftsplan.
+2. Resultat av spenningskvalitetsmålinger.
+3. At nettselskapet har utpekt utbedringsansvarlig etter [§ 2-1 tredje ledd](forskrift/2004-11-30-1557/§2-1/ledd/3).
+4. Plan for utbedring når nettselskapet er utbedringsansvarlig etter [§ 2-1 tredje ledd](forskrift/2004-11-30-1557/§2-1/ledd/3).
+5. Når spenningskvaliteten er utbedret.
+6. Mulighet til å bringe uenighetssak inn til Reguleringsmyndigheten for energi.
 
 Nettselskapet skal så snart som mulig og senest innen én måned, oversende nettkunden en foreløpig vurdering og fremdriftsplan, samt informasjon om mulighet til å bringe uenighetssak inn til Reguleringsmyndigheten for energi.
 
@@ -114,7 +212,13 @@ Nettselskapet skal ved henvendelser om et enkeltavbrudd, informere om sannsynlig
 
 Nettselskapet skal ved henvendelser om gjentakende avbrudd, utføre nødvendige utredninger. Nettselskapet kan i slike tilfeller kreve at nettkunden skriftlig beskriver hva som har ført til misnøyen.
 
-I tilfeller der henvendelsen gjelder gjentakende avbrudd skal nettselskapet skriftlig informere nettkunden om følgende:Foreløpig vurdering og fremdriftsplan.Resultat av utredninger.Plan for å bedre leveringspåliteligheten eller begrunnelse for å ikke iverksette tiltak.Når forholdet er utbedret eller saken er avsluttet.Mulighet til å bringe uenighetssak inn til Reguleringsmyndigheten for energi.
+I tilfeller der henvendelsen gjelder gjentakende avbrudd skal nettselskapet skriftlig informere nettkunden om følgende:
+
+1. Foreløpig vurdering og fremdriftsplan.
+2. Resultat av utredninger.
+3. Plan for å bedre leveringspåliteligheten eller begrunnelse for å ikke iverksette tiltak.
+4. Når forholdet er utbedret eller saken er avsluttet.
+5. Mulighet til å bringe uenighetssak inn til Reguleringsmyndigheten for energi.
 
 I tilfeller der henvendelsen gjelder gjentakende avbrudd skal nettselskapet så snart som mulig og senest innen én måned, oversende nettkunden en foreløpig vurdering og fremdriftsplan, samt informasjon om mulighet til å bringe uenighetssak inn til Reguleringsmyndigheten for energi.
 
@@ -202,7 +306,18 @@ Uenighet om hvem som er ansvarlig konsesjonær jf. [§ 2A-3](forskrift/2004-11-3
 
 ### § 2A-6. Spesifiserte data som skal rapporteres
 
-Spesifiserte data for avbrudd som skyldes driftsforstyrrelser eller planlagte utkoblinger i eget eller andres nett som berørt konsesjonær årlig skal rapportere til Reguleringsmyndigheten for energi, jf. [§ 2A-1](forskrift/2004-11-30-1557/§2a-1):Netto mengde energi oppgitt i [kWh] eksklusiv tap i nettet levert til sluttbruker i rapporteringsåret.Antall rapporteringspunkt i rapporteringsområdet siste dag i rapporteringsåret.Antall avbrudd.Varighet av avbrudd oppgitt i [min].Avbrutt effekt oppgitt i [kW].Ikke levert energi oppgitt i [kWh].KILE med standardsats oppgitt i [kr].KILE med individuell avtale oppgitt i [kr].SAIFIL , SAIFIK , CAIFIL , CAIFIK , SAIDIL , SAIDIK , CTAIDIL , CTAIDIK , CAIDIL og CAIDIK .Antall sluttbrukere i rapporteringsområdet som har opplevd avbrudd i rapporteringsåret.
+Spesifiserte data for avbrudd som skyldes driftsforstyrrelser eller planlagte utkoblinger i eget eller andres nett som berørt konsesjonær årlig skal rapportere til Reguleringsmyndigheten for energi, jf. [§ 2A-1](forskrift/2004-11-30-1557/§2a-1):
+
+1. Netto mengde energi oppgitt i [kWh] eksklusiv tap i nettet levert til sluttbruker i rapporteringsåret.
+2. Antall rapporteringspunkt i rapporteringsområdet siste dag i rapporteringsåret.
+3. Antall avbrudd.
+4. Varighet av avbrudd oppgitt i [min].
+5. Avbrutt effekt oppgitt i [kW].
+6. Ikke levert energi oppgitt i [kWh].
+7. KILE med standardsats oppgitt i [kr].
+8. KILE med individuell avtale oppgitt i [kr].
+9. SAIFIL , SAIFIK , CAIFIL , CAIFIK , SAIDIL , SAIDIK , CTAIDIL , CTAIDIK , CAIDIL og CAIDIK .
+10. Antall sluttbrukere i rapporteringsområdet som har opplevd avbrudd i rapporteringsåret.
 
 Nettselskap skal ved rapportering til Reguleringsmyndigheten for energi informere om vesentlige endringer i forhold til forrige rapportering, samt FASIT-programleverandør, -programnavn, -programversjon og -ansvarlig.
 
@@ -210,13 +325,27 @@ Nettselskap skal ved rapportering til Reguleringsmyndigheten for energi informer
 
 ### § 2A-7. Fordeling av spesifiserte data ved rapportering
 
-Data angitt i [§ 2A-6](forskrift/2004-11-30-1557/§2a-6) første ledd bokstav a) og b) skal ved rapportering til Reguleringsmyndigheten for energi fordeles separat på:NettID: Transmisjonsnett (1), regionalnett (2), høyspenningsdistribusjonsnett (3) og lavspenningsdistribusjonsnett (4) (nettID tilsvarer det nettnivået der berørt sluttbruker er tilknyttet).Samme sluttbrukergrupper som i regnskapsrapporteringen til Reguleringsmyndigheten for energi.
+Data angitt i [§ 2A-6](forskrift/2004-11-30-1557/§2a-6) første ledd bokstav a) og b) skal ved rapportering til Reguleringsmyndigheten for energi fordeles separat på:
 
-Data angitt i [§ 2A-6](forskrift/2004-11-30-1557/§2a-6) første ledd bokstav c) til h) skal ved rapportering til Reguleringsmyndigheten for energi fordeles på:Kortvarige og langvarige avbrudd.Varslede og ikke varslede avbrudd.Eget og andres nett.NettID: Transmisjonsnett (1), regionalnett (2), høyspenningsdistribusjonsnett (3) og lavspenningsdistribusjonsnett (4) (nettID tilsvarer det nettnivået der berørt sluttbruker er tilknyttet).Spenningsnivå: [0,23–1] kV, [1–22] kV, [33–110] kV, 132 kV, [220–300] kV og 420 kV (systemspenningen der driftsforstyrrelsen eller den planlagte utkoblingen inntraff).Samme sluttbrukergrupper som i regnskapsrapporteringen til Reguleringsmyndigheten for energi.
+1. NettID: Transmisjonsnett (1), regionalnett (2), høyspenningsdistribusjonsnett (3) og lavspenningsdistribusjonsnett (4) (nettID tilsvarer det nettnivået der berørt sluttbruker er tilknyttet).
+2. Samme sluttbrukergrupper som i regnskapsrapporteringen til Reguleringsmyndigheten for energi.
+
+Data angitt i [§ 2A-6](forskrift/2004-11-30-1557/§2a-6) første ledd bokstav c) til h) skal ved rapportering til Reguleringsmyndigheten for energi fordeles på:
+
+1. Kortvarige og langvarige avbrudd.
+2. Varslede og ikke varslede avbrudd.
+3. Eget og andres nett.
+4. NettID: Transmisjonsnett (1), regionalnett (2), høyspenningsdistribusjonsnett (3) og lavspenningsdistribusjonsnett (4) (nettID tilsvarer det nettnivået der berørt sluttbruker er tilknyttet).
+5. Spenningsnivå: [0,23–1] kV, [1–22] kV, [33–110] kV, 132 kV, [220–300] kV og 420 kV (systemspenningen der driftsforstyrrelsen eller den planlagte utkoblingen inntraff).
+6. Samme sluttbrukergrupper som i regnskapsrapporteringen til Reguleringsmyndigheten for energi.
 
 Data angitt i [§ 2A-6](forskrift/2004-11-30-1557/§2a-6) første ledd bokstav c) til h) som skyldes andres nett skal ved rapportering til Reguleringsmyndigheten for energi i tillegg angis pr. ansvarlig konsesjonær, fordelt på samme sluttbrukergrupper som i regnskapsrapporteringen til Reguleringsmyndigheten for energi.
 
-Data angitt i [§ 2A-6](forskrift/2004-11-30-1557/§2a-6) første ledd bokstav j) skal ved rapportering til Reguleringsmyndigheten for energi fordeles på:Kortvarige og langvarige avbrudd.Varslede og/eller ikke varslede avbrudd; varslede avbrudd; ikke varslede avbrudd.Samme sluttbrukergrupper som i regnskapsrapporteringen til Reguleringsmyndigheten for energi.
+Data angitt i [§ 2A-6](forskrift/2004-11-30-1557/§2a-6) første ledd bokstav j) skal ved rapportering til Reguleringsmyndigheten for energi fordeles på:
+
+1. Kortvarige og langvarige avbrudd.
+2. Varslede og/eller ikke varslede avbrudd; varslede avbrudd; ikke varslede avbrudd.
+3. Samme sluttbrukergrupper som i regnskapsrapporteringen til Reguleringsmyndigheten for energi.
 
 > Tilføyd ved [forskrift 5 des 2005 nr. 1436](forskrift/2005-12-05-1436) (i kraft 1 jan 2006), endret ved [forskrifter 14 des 2006 nr. 1464](forskrift/2006-12-14-1464) (i kraft 1 jan 2007), [7 des 2012 nr. 1183](forskrift/2012-12-07-1183) (i kraft 1 jan 2014), [14 des 2017 nr. 2029](forskrift/2017-12-14-2029) (i kraft 1 jan 2019), [24 okt 2019 nr. 1417](forskrift/2019-10-24-1417) (i kraft 1 nov 2019).
 
@@ -236,7 +365,11 @@ Berørt konsesjonær skal beregne avbrutt effekt og ikke levert energi per rappo
 
 Metoden i henhold til første ledd skal baseres på egendefinerte lastprofiler for sluttbrukere i regional- og transmisjonsnettet. For resterende sluttbrukere skal det benyttes egendefinerte eller generelle lastprofiler, jf. gjeldende kravspesifikasjon for FASIT. Egendefinerte lastprofiler skal ha basis i timemålinger tatt opp over en periode på minimum ett år. Egendefinert lastprofil for én sluttbruker kan benyttes også for en annen sluttbruker innenfor samme sluttbrukergruppe, forutsatt at det kan sannsynliggjøres at profilen for denne vil være tilsvarende. Underlaget som er lagt til grunn for profilene skal kunne dokumenteres.
 
-Berørt konsesjonær skal ta hensyn til følgende forhold når avbrutt effekt og ikke levert energi beregnes:Oppdatert koblingsbilde for nett.Levert energi fordelt på sluttbrukergrupper i hvert rapporteringspunkt for siste år (kWh).Lokale klimadata i henhold til gjeldende kravspesifikasjon for FASIT.
+Berørt konsesjonær skal ta hensyn til følgende forhold når avbrutt effekt og ikke levert energi beregnes:
+
+1. Oppdatert koblingsbilde for nett.
+2. Levert energi fordelt på sluttbrukergrupper i hvert rapporteringspunkt for siste år (kWh).
+3. Lokale klimadata i henhold til gjeldende kravspesifikasjon for FASIT.
 
 Berørt konsesjonær kan ta hensyn til tilgjengelige timemålinger i nettet siste time(r) før avbrudd inntreffer. Dette gjelder ikke ved nedkjøring som følge av et varslet avbrudd eller endringer som følge av feil i nettanlegg. Målinger skal korrigeres for egenproduksjon hos sluttbruker, det vil si som om produksjonen ikke er tilstede. Berørt konsesjonær skal være konsekvent overfor samme sluttbruker(e) dersom timemålinger brukes til kalibrering av lastprofilene.
 
@@ -407,7 +540,12 @@ Nettselskap skal sørge for at det i nettavtaler, inngått i henhold til forskri
 
 Nettselskap skal ved henvendelser fra nettkunder så snart som mulig og senest innen én måned, informere om gjeldende relevant regulering av leveringskvalitet.
 
-Nettselskap skal på forespørsel fra nåværende eller fremtidige nettkunder, senest innen én måned, informere om følgende:Tidspunkt, varighet og hovedårsak for avbrudd som registrert i henhold til [§ 2A-1](forskrift/2004-11-30-1557/§2A-1). Estimerte antall nåværende og fremtidige kortvarige og langvarige avbrudd i nettkundens tilknytningspunkt, på bakgrunn av registreringene av historiske data, utført i henhold til [§ 2A-1](forskrift/2004-11-30-1557/§2A-1).Resultater fra registreringer utført i henhold til [§ 2A-2](forskrift/2004-11-30-1557/§2A-2). Estimerte antall nåværende og fremtidige kortvarige over- og underspenninger i egne forsyningsområder, på bakgrunn av registreringene av historiske data, utført i henhold til [§ 2A-2 første ledd](forskrift/2004-11-30-1557/§2A-2/ledd/1). Registreringer etter [§ 2A-2](forskrift/2004-11-30-1557/§2A-2) og estimater basert på registreringer etter [§ 2A-2](forskrift/2004-11-30-1557/§2A-2) skal kun fremlegges der målingene er relevante for, og gir et korrekt bilde av, spenningskvaliteten i tilknytningspunktet til nettkunden som etterspør informasjonen.Beregnet minimal og maksimal kortslutningsytelse for tilknytningspunkt. Ved vesentlige endringer i minimal og maksimal kortslutningsytelse, skal dette meddeles de berørte nettkunder som er tilknyttet i høyspenningsnettet.Spesielle forhold i nettet som kan ha innvirkning på leveringskvaliteten, for å forberede nettkunder på forhold som kan oppstå. Eksempler på dette kan være: spesiell risiko for fasebrudd i spolejordet nett eller koblingstransienter, bruk av gjeninnkoblingsautomatikk i egne nettanlegg, naturgitte forhold, med mer.
+Nettselskap skal på forespørsel fra nåværende eller fremtidige nettkunder, senest innen én måned, informere om følgende:
+
+1. Tidspunkt, varighet og hovedårsak for avbrudd som registrert i henhold til [§ 2A-1](forskrift/2004-11-30-1557/§2A-1). Estimerte antall nåværende og fremtidige kortvarige og langvarige avbrudd i nettkundens tilknytningspunkt, på bakgrunn av registreringene av historiske data, utført i henhold til [§ 2A-1](forskrift/2004-11-30-1557/§2A-1).
+2. Resultater fra registreringer utført i henhold til [§ 2A-2](forskrift/2004-11-30-1557/§2A-2). Estimerte antall nåværende og fremtidige kortvarige over- og underspenninger i egne forsyningsområder, på bakgrunn av registreringene av historiske data, utført i henhold til [§ 2A-2 første ledd](forskrift/2004-11-30-1557/§2A-2/ledd/1). Registreringer etter [§ 2A-2](forskrift/2004-11-30-1557/§2A-2) og estimater basert på registreringer etter [§ 2A-2](forskrift/2004-11-30-1557/§2A-2) skal kun fremlegges der målingene er relevante for, og gir et korrekt bilde av, spenningskvaliteten i tilknytningspunktet til nettkunden som etterspør informasjonen.
+3. Beregnet minimal og maksimal kortslutningsytelse for tilknytningspunkt. Ved vesentlige endringer i minimal og maksimal kortslutningsytelse, skal dette meddeles de berørte nettkunder som er tilknyttet i høyspenningsnettet.
+4. Spesielle forhold i nettet som kan ha innvirkning på leveringskvaliteten, for å forberede nettkunder på forhold som kan oppstå. Eksempler på dette kan være: spesiell risiko for fasebrudd i spolejordet nett eller koblingstransienter, bruk av gjeninnkoblingsautomatikk i egne nettanlegg, naturgitte forhold, med mer.
 
 Nettselskap skal, basert på faktiske målinger i et gitt punkt i nettet, informere om nivå av langsomme spenningsvariasjoner, flimmerintensitet, grad av spenningsusymmetri og overharmoniske spenninger, dersom nåværende eller fremtidige nettkunder skriftlig ber om dette.
 

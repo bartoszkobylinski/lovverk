@@ -15,7 +15,7 @@ xml_hash: "de238ee5e7abea04b2c0193196b6a4e9c52d3eb089ea2130229d1fe2665be433"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,27 @@ Forskriften får anvendelse på innførsel og salg av tobakksvarer, urtebaserte 
 
 ### § 3. Definisjoner
 
-I denne forskrift menes med*røykfri tobakksvare:* en tobakksvare som ikke brukes via forbrenning, herunder tyggetobakk, nesetobakk og tobakk til bruk i munnen.*nikotinprodukter:* ethvert produkt som inneholder nikotin og som er beregnet for konsum ved inhalasjon, tygging, absorpsjon, i oppløsninger eller som inntas på annen måte, med unntak av tobakksvarer.*tjære:* nikotinfritt anhydridkondensat av vannfritt råkondensat av røyk.*nikotin:* nikotinalkaloider.*ingredienser:* tobakk, et tilsetningsstoff samt ethvert stoff eller element som finnes i en ferdig tobakksvare eller et relatert produkt, herunder papir, filter, blekk, kapsler og klebemiddel.*innlegg:* ethvert element som er plassert i en tobakkspakning med unntak av fôret.*varemerke:* kjennetegn for varer eller tjenester i næringsvirksomhet etter bestemmelsene i [varemerkeloven](lov/2010-03-26-8).*merkenavn:* navn for tobakksvarer som tilhører samme merkefamilie.*variantnavn:* navn som brukes til å skille ulike tobakksvarer som tilhører samme merkefamilie.*pung:* en enkeltpakning for rulletobakk, enten i form av en rektangulær lomme med en klaff som dekker åpningen, eller i form av en stående pung.*enkeltpakning:* den minste individuelle pakning av en tobakksvare eller relatert produkt som bringes i omsetning.*ytre emballasje:* enhver emballasje som tobakksvarer eller relaterte produkter bringes i omsetning i og som inneholder en eller flere enkeltpakninger. Gjennomsiktig innpakningsmateriale regnes ikke som ytre emballasje.*innpakningsmateriale:* cellofan- eller plastikkomslag eller annet gjennomsiktig materiale som brukes til å pakke inn enkeltpakning eller ytre emballasje.*ytre flater:**for enkeltpakninger av og ytre emballasje på tobakksvarer eller relaterte produkter, med unntak av tobakksvarer i pungpakning:* enhver flate som er synlig før pakningen eller emballasjen åpnes.*for tobakksvarer i pungpakning:* enhver flate som er synlig før pakningen åpnes, samt den overflaten som er dekket av klaffen før denne åpnes.*indre flater:* den delen av pakningen eller emballasjen som ikke omfattes av ytre flater.*indre leppe i en sigarettpakke:* den delen av ytre flate som ikke er synlig når lokket er lukket.
+I denne forskrift menes med
+
+1. *røykfri tobakksvare:* en tobakksvare som ikke brukes via forbrenning, herunder tyggetobakk, nesetobakk og tobakk til bruk i munnen.
+2. *nikotinprodukter:* ethvert produkt som inneholder nikotin og som er beregnet for konsum ved inhalasjon, tygging, absorpsjon, i oppløsninger eller som inntas på annen måte, med unntak av tobakksvarer.
+3. *tjære:* nikotinfritt anhydridkondensat av vannfritt råkondensat av røyk.
+4. *nikotin:* nikotinalkaloider.
+5. *ingredienser:* tobakk, et tilsetningsstoff samt ethvert stoff eller element som finnes i en ferdig tobakksvare eller et relatert produkt, herunder papir, filter, blekk, kapsler og klebemiddel.
+6. *innlegg:* ethvert element som er plassert i en tobakkspakning med unntak av fôret.
+7. *varemerke:* kjennetegn for varer eller tjenester i næringsvirksomhet etter bestemmelsene i [varemerkeloven](lov/2010-03-26-8).
+8. *merkenavn:* navn for tobakksvarer som tilhører samme merkefamilie.
+9. *variantnavn:* navn som brukes til å skille ulike tobakksvarer som tilhører samme merkefamilie.
+10. *pung:* en enkeltpakning for rulletobakk, enten i form av en rektangulær lomme med en klaff som dekker åpningen, eller i form av en stående pung.
+11. *enkeltpakning:* den minste individuelle pakning av en tobakksvare eller relatert produkt som bringes i omsetning.
+12. *ytre emballasje:* enhver emballasje som tobakksvarer eller relaterte produkter bringes i omsetning i og som inneholder en eller flere enkeltpakninger. Gjennomsiktig innpakningsmateriale regnes ikke som ytre emballasje.
+13. *innpakningsmateriale:* cellofan- eller plastikkomslag eller annet gjennomsiktig materiale som brukes til å pakke inn enkeltpakning eller ytre emballasje.
+14. *ytre flater:*
+
+    1. *for enkeltpakninger av og ytre emballasje på tobakksvarer eller relaterte produkter, med unntak av tobakksvarer i pungpakning:* enhver flate som er synlig før pakningen eller emballasjen åpnes.
+    2. *for tobakksvarer i pungpakning:* enhver flate som er synlig før pakningen åpnes, samt den overflaten som er dekket av klaffen før denne åpnes.
+15. *indre flater:* den delen av pakningen eller emballasjen som ikke omfattes av ytre flater.
+16. *indre leppe i en sigarettpakke:* den delen av ytre flate som ikke er synlig når lokket er lukket.
 
 ### § 4. Opplysnings- og rapporteringsplikter
 
@@ -48,7 +68,11 @@ Plikten til å innlevere opplysninger i henhold til denne forskrift, påhviler i
 
 ### § 5. Grenseverdier for utslipp av tjære, nikotin og karbonmonoksid
 
-Utslipp fra sigaretter som bringes i omsetning eller produseres i Norge, skal ikke inneholde mer enn10 mg tjære per sigarett1 mg nikotin per sigarett10 mg karbonmonoksid per sigarett.
+Utslipp fra sigaretter som bringes i omsetning eller produseres i Norge, skal ikke inneholde mer enn
+
+1. 10 mg tjære per sigarett
+2. 1 mg nikotin per sigarett
+3. 10 mg karbonmonoksid per sigarett.
 
 ### § 6. Målemetoder for utslipp av tjære, nikotin og karbonmonoksid
 
@@ -58,7 +82,12 @@ Målingene av tjære, nikotin og karbonmonoksid i sigarettrøyk skal verifiseres
 
 ### § 7. Rapportering om ingredienser, utslippsmålinger og salgsvolum
 
-Produsenter og importører av tobakksvarer skal rapportere følgende opplysninger om tobakksvarer, etter merke- og variantnavn:En liste over alle ingredienser med mengdeangivelse, som benyttes ved fremstilling av tobakksvarene, i synkende rekkefølge etter vekt.Utslippsnivåer i henhold til [§§ 5](forskrift/2026-03-27-526/§5) og [6](forskrift/2026-03-27-526/§6).Informasjon om andre utslipp og deres nivå, dersom de er tilgjengelige.Importør til Norge av det aktuelle produktet.
+Produsenter og importører av tobakksvarer skal rapportere følgende opplysninger om tobakksvarer, etter merke- og variantnavn:
+
+1. En liste over alle ingredienser med mengdeangivelse, som benyttes ved fremstilling av tobakksvarene, i synkende rekkefølge etter vekt.
+2. Utslippsnivåer i henhold til [§§ 5](forskrift/2026-03-27-526/§5) og [6](forskrift/2026-03-27-526/§6).
+3. Informasjon om andre utslipp og deres nivå, dersom de er tilgjengelige.
+4. Importør til Norge av det aktuelle produktet.
 
 Produsenter og importører av urtebaserte røykeprodukter skal rapportere lister med opplysninger om produktenes ingredienser, og mengde av disse, oppdelt etter merke- og variantnavn.
 
@@ -90,7 +119,12 @@ Det er forbudt å bringe i omsetning i Norge tobakksvarer og urtebaserte røykep
 
 ### § 9. Utvidet rapporteringsplikt for enkelte tilsetningsstoffer
 
-Produsenter og importører av sigaretter og rulletobakk som inneholder et tilsetningsstoff oppført på listen i [vedlegg 1](forskrift/2026-03-27-526/vedlegg1), skal foreta omfattende undersøkelser av om tilsetningsstoffetbidrar til den toksiske eller avhengighetsskapende effekten til produktet, eller øker denne i vesentlig eller målbar grad,gir en karakteristisk aroma,letter inhaleringen eller nikotinopptak, ellermedfører dannelse av stoffer som har CMR-egenskaper, mengden av disse og om dette øker CMR-egenskapene i vesentlig eller målbar grad.
+Produsenter og importører av sigaretter og rulletobakk som inneholder et tilsetningsstoff oppført på listen i [vedlegg 1](forskrift/2026-03-27-526/vedlegg1), skal foreta omfattende undersøkelser av om tilsetningsstoffet
+
+1. bidrar til den toksiske eller avhengighetsskapende effekten til produktet, eller øker denne i vesentlig eller målbar grad,
+2. gir en karakteristisk aroma,
+3. letter inhaleringen eller nikotinopptak, eller
+4. medfører dannelse av stoffer som har CMR-egenskaper, mengden av disse og om dette øker CMR-egenskapene i vesentlig eller målbar grad.
 
 Helsedirektoratet fastsetter på hvilken måte eventuelle undersøkelser og studier skal utføres. Studiene skal ta hensyn til tiltenkt bruksmåte for produktet, og spesielt undersøke de utslipp som forårsakes av forbrenningsprosessen og som omfatter det aktuelle tilsetningsstoffet. Det skal også undersøkes hvordan tilsetningsstoffet reagerer med andre ingredienser i produktet. Produsenter eller importører som bruker samme tilsetningsstoff kan foreta en felles undersøkelse når tilsetningsstoffet brukes i en sammenlignbar produktsammensetning.
 
@@ -108,7 +142,13 @@ Sigaretter, rulletobakk og produkter med oppvarmet tobakk med karakteristisk aro
 
 ### § 11. Forbud mot enkelte tilsetningsstoffer
 
-Det er forbudt å innføre eller bringe i omsetning i Norge tobakksvarer som inneholder følgende tilsetningsstoffer:Vitaminer eller andre tilsetningsstoffer som gir inntrykk av en helsefordel eller en redusert helserisikoKoffein, taurin eller andre tilsetningsstoffer som forbindes med energi og vitalitetTilsetningsstoffer som gir fargede egenskaper ved utslippTilsetningsstoffer i røyketobakk som letter inhalering eller nikotinopptakTilsetningsstoffer med CMR-egenskaper i uforbrent form.
+Det er forbudt å innføre eller bringe i omsetning i Norge tobakksvarer som inneholder følgende tilsetningsstoffer:
+
+1. Vitaminer eller andre tilsetningsstoffer som gir inntrykk av en helsefordel eller en redusert helserisiko
+2. Koffein, taurin eller andre tilsetningsstoffer som forbindes med energi og vitalitet
+3. Tilsetningsstoffer som gir fargede egenskaper ved utslipp
+4. Tilsetningsstoffer i røyketobakk som letter inhalering eller nikotinopptak
+5. Tilsetningsstoffer med CMR-egenskaper i uforbrent form.
 
 Bokstavene c og d gjelder ikke for røykfri tobakk.
 
@@ -122,9 +162,19 @@ Det er forbudt å innføre eller bringe i omsetning i Norge sigaretter, rulletob
 
 Helsedirektoratet kan kreve at kostnadene ved arbeid knyttet til mottak, lagring, håndtering, verifisering, analyse og offentliggjøring i henhold til [§§ 6](forskrift/2026-03-27-526/§6), [7](forskrift/2026-03-27-526/§7) og [9](forskrift/2026-03-27-526/§9) dekkes av produsent eller importør gjennom gebyr. Gebyret skal også dekke kostnader med arbeid knyttet til vurderinger av om en tobakksvare har karakteristisk aroma eller inneholder forbudte tilsetningsstoffer i medhold av [§§ 10](forskrift/2026-03-27-526/§10), [11](forskrift/2026-03-27-526/§11) og [12](forskrift/2026-03-27-526/§12).
 
-Følgende gebyr betales ved rapportering av opplysninger og vesentlige endringer av disse i EU-CEG:For sigaretter 18 000 kronerFor rulletobakk 17 000 kronerFor røykfri tobakk 10 500 kronerFor øvrig røyketobakk 8 500 kroner.
+Følgende gebyr betales ved rapportering av opplysninger og vesentlige endringer av disse i EU-CEG:
 
-Følgende gebyr betales årlig for å opprettholde registreringen:For sigaretter 19 000 kronerFor rulletobakk 18 000 kronerFor røykfri tobakk 4 000 kronerFor øvrig røyketobakk 3 000 kroner.
+1. For sigaretter 18 000 kroner
+2. For rulletobakk 17 000 kroner
+3. For røykfri tobakk 10 500 kroner
+4. For øvrig røyketobakk 8 500 kroner.
+
+Følgende gebyr betales årlig for å opprettholde registreringen:
+
+1. For sigaretter 19 000 kroner
+2. For rulletobakk 18 000 kroner
+3. For røykfri tobakk 4 000 kroner
+4. For øvrig røyketobakk 3 000 kroner.
 
 ## Kapittel 3. Merking med helseadvarsel mv.
 
@@ -136,7 +186,11 @@ Merkeplikten i første ledd gjelder ikke den varekvoten som reisende til Norge p
 
 ### § 15. Helseadvarsel på røyketobakk
 
-Alle tobakksvarepakninger, med unntak av pakninger for røykfri tobakk, skal merkes meden generell advarsel: «Røyking dreper – slutt nå»,en informasjonstekst: «Tobakksrøyk inneholder over 70 kreftfremkallende stoffer», ogen av kombinasjonsadvarslene i [vedlegg 2](forskrift/2026-03-27-526/vedlegg2) til denne forskrift.
+Alle tobakksvarepakninger, med unntak av pakninger for røykfri tobakk, skal merkes med
+
+1. en generell advarsel: «Røyking dreper – slutt nå»,
+2. en informasjonstekst: «Tobakksrøyk inneholder over 70 kreftfremkallende stoffer», og
+3. en av kombinasjonsadvarslene i [vedlegg 2](forskrift/2026-03-27-526/vedlegg2) til denne forskrift.
 
 Advarslene skal påføres alle enkeltpakninger. Ved detaljsalg skal advarselen også trykkes på eventuell ytre emballasje, med mindre denne er gjennomsiktig.
 
@@ -174,7 +228,10 @@ Alle advarslene skal alterneres årlig slik at hver og en av dem forekommer like
 
 ### § 20. Helseadvarsler for røykfrie tobakksvarer
 
-Enkeltpakninger og ytre emballasje for røykfrie tobakksvarer skal merkes med en av følgende advarsler:«Denne tobakksvaren er helseskadelig og avhengighetsskapende»«Denne tobakksvaren øker risikoen for fosterskader og dødfødsel».
+Enkeltpakninger og ytre emballasje for røykfrie tobakksvarer skal merkes med en av følgende advarsler:
+
+1. «Denne tobakksvaren er helseskadelig og avhengighetsskapende»
+2. «Denne tobakksvaren øker risikoen for fosterskader og dødfødsel».
 
 Advarslene skal forekomme like regelmessig på de enkelte produktvariantene.
 
@@ -194,13 +251,25 @@ Advarselen skal trykkes på pakningenes forside og bakside, og dekke minst 30 pr
 
 ### § 22. Generelle krav til utforming av advarselsmerking
 
-Merking etter [§§ 16](forskrift/2026-03-27-526/§16), [18](forskrift/2026-03-27-526/§18), [20](forskrift/2026-03-27-526/§20) og [21](forskrift/2026-03-27-526/§21) skal oppfylle følgende krav:Helseadvarselen skal være på norsk og dekke hele det areal på pakningen eller den ytre emballasjen som er forbeholdt den og må ikke kommenteres, omformuleres eller på noen måte henvises til.Helseadvarslene skal være fullt synlige, og ikke kunne fjernes eller slettes. De må ikke helt eller delvis skjules eller forstyrres av avgiftsmerking, prismerking, sikkerhetsmerking, omslag, futteral, esker eller lignende, når de bringes i omsetning. På andre pakninger enn for sigaretter og rulletobakk i pung, kan helseadvarslene festes ved selvklebende merker, dersom disse merkene ikke kan fjernes.Helseadvarslene skal være intakte ved åpning av enkeltpakningen, unntatt for pakninger med brettbart lokk (flipp-topp), hvor helseadvarselen kan brytes ved åpning av pakken, men kun på en måte som sikrer den grafiske helheten og synligheten av tekst, bilde og slutteinformasjon.Helseadvarslene må ikke skjule eller forstyrre avgiftsmerker, prismerker, sporingsmerker eller sikkerhetsmerker på enkeltpakninger.Dimensjonene på helseadvarslene skal beregnes i forhold til den gjeldende overflate når pakningen er lukket.Helseadvarslene skal være omgitt av en svart kantlinje på 1 mm innenfor området som er reservert for advarselsmerkingen.
+Merking etter [§§ 16](forskrift/2026-03-27-526/§16), [18](forskrift/2026-03-27-526/§18), [20](forskrift/2026-03-27-526/§20) og [21](forskrift/2026-03-27-526/§21) skal oppfylle følgende krav:
+
+1. Helseadvarselen skal være på norsk og dekke hele det areal på pakningen eller den ytre emballasjen som er forbeholdt den og må ikke kommenteres, omformuleres eller på noen måte henvises til.
+2. Helseadvarslene skal være fullt synlige, og ikke kunne fjernes eller slettes. De må ikke helt eller delvis skjules eller forstyrres av avgiftsmerking, prismerking, sikkerhetsmerking, omslag, futteral, esker eller lignende, når de bringes i omsetning. På andre pakninger enn for sigaretter og rulletobakk i pung, kan helseadvarslene festes ved selvklebende merker, dersom disse merkene ikke kan fjernes.
+3. Helseadvarslene skal være intakte ved åpning av enkeltpakningen, unntatt for pakninger med brettbart lokk (flipp-topp), hvor helseadvarselen kan brytes ved åpning av pakken, men kun på en måte som sikrer den grafiske helheten og synligheten av tekst, bilde og slutteinformasjon.
+4. Helseadvarslene må ikke skjule eller forstyrre avgiftsmerker, prismerker, sporingsmerker eller sikkerhetsmerker på enkeltpakninger.
+5. Dimensjonene på helseadvarslene skal beregnes i forhold til den gjeldende overflate når pakningen er lukket.
+6. Helseadvarslene skal være omgitt av en svart kantlinje på 1 mm innenfor området som er reservert for advarselsmerkingen.
 
 > Endret ved forskrift [30 juni 2026 nr. 1447](forskrift/2026-06-30-1447).
 
 ### § 23. Utforming av generell advarsel og informasjonstekst og av helseadvarsel for røykfri tobakk og urtebaserte røykeprodukter
 
-Merking etter [§§ 15 første ledd bokstav a](forskrift/2026-03-27-526/§15/ledd/1/bokstav/a) og [b](forskrift/2026-03-27-526/§15/ledd/1/bokstav/b), [20](forskrift/2026-03-27-526/§20) og [21](forskrift/2026-03-27-526/§21) skal være:trykt med sort, fet skrift av typen Helvetica på hvit bakgrunn,trykt med skriftstørrelse som sikrer at advarselsteksten dekker mest mulig av det området som er reservert for den,sentrert på det reserverte området av pakkens overflate,parallell med pakkens sidekant på kubeformede pakninger og ytre emballasje.
+Merking etter [§§ 15 første ledd bokstav a](forskrift/2026-03-27-526/§15/ledd/1/bokstav/a) og [b](forskrift/2026-03-27-526/§15/ledd/1/bokstav/b), [20](forskrift/2026-03-27-526/§20) og [21](forskrift/2026-03-27-526/§21) skal være:
+
+1. trykt med sort, fet skrift av typen Helvetica på hvit bakgrunn,
+2. trykt med skriftstørrelse som sikrer at advarselsteksten dekker mest mulig av det området som er reservert for den,
+3. sentrert på det reserverte området av pakkens overflate,
+4. parallell med pakkens sidekant på kubeformede pakninger og ytre emballasje.
 
 ## Kapittel 4. Krav til farge og andre pakningselementer for tobakkspakninger
 
@@ -250,7 +319,11 @@ Avrivningsbånd skal være enten gjennomsiktig eller svart. Det kan ikke være b
 
 ### § 30. Strekkode
 
-Innpakningsmateriale, ytre emballasje og enkeltpakninger kan merkes med en strekkode dersomden brukes til salgsformål, distribusjon eller lagerkontroll,den er enten svart og hvit, eller Pantone 448 C og hvit, ogden ikke utgjør et bilde, mønster eller symbol som etterligner noe annet enn en strekkode.
+Innpakningsmateriale, ytre emballasje og enkeltpakninger kan merkes med en strekkode dersom
+
+1. den brukes til salgsformål, distribusjon eller lagerkontroll,
+2. den er enten svart og hvit, eller Pantone 448 C og hvit, og
+3. den ikke utgjør et bilde, mønster eller symbol som etterligner noe annet enn en strekkode.
 
 Strekkoden kan bare trykkes én gang og ikke på forsiden til enkeltpakningen eller den ytre emballasjen. Strekkoden kan være et selvklebende merke.
 
@@ -264,7 +337,14 @@ Det er forbudt å innføre eller bringe i omsetning i Norge tobakkspakninger og 
 
 ### § 33. Forbud mot pakningselementer som endres etter salg
 
-Det er forbudt å innføre eller bringe i omsetning tobakksvarer med pakningselementer som endres etter salg, herundervarmeaktivert blekk,blekk eller elementer som blir synlige over tid,blekk som er selvlysende i bestemte typer lys,pakningsdeler som kan skrapes bort eller manipuleres for å vise bilde eller tekst,avtagbar etikett, ogflater som kan brettes ut.
+Det er forbudt å innføre eller bringe i omsetning tobakksvarer med pakningselementer som endres etter salg, herunder
+
+1. varmeaktivert blekk,
+2. blekk eller elementer som blir synlige over tid,
+3. blekk som er selvlysende i bestemte typer lys,
+4. pakningsdeler som kan skrapes bort eller manipuleres for å vise bilde eller tekst,
+5. avtagbar etikett, og
+6. flater som kan brettes ut.
 
 ### § 34. Krav til materiale, størrelse, form og åpningsmekanisme for sigarettpakninger
 
@@ -284,19 +364,40 @@ For klappesker med hengslet lokk skal høyden på sideflaten, målt mellom forsi
 
 ### § 36. Utforming av merke- og variantnavn på pakningen
 
-Ytre emballasje og enkeltpakninger med tobakksvarer kan merkes med merkenavn og variantnavn gitt at følgende krav er oppfylt:Skriften må kun bestå av karakterer som er alfabetiske, numeriske eller tegnet «&».Første bokstaven i et ord er enten stor eller liten bokstav, resten av ordet angis i små bokstaver.Skriften er type Helvetica.Skriftfargen skal være matt Pantone Cool Gray 2 C.Skrifttypen skal være normal vektet.Merkenavnet skal skrives på maks én linje og ikke være større enn 14 pkt.Variantnavnet skal plasseres rett under merkenavnet, skrives på maks én linje og ikke være større enn 10 pkt.
+Ytre emballasje og enkeltpakninger med tobakksvarer kan merkes med merkenavn og variantnavn gitt at følgende krav er oppfylt:
+
+1. Skriften må kun bestå av karakterer som er alfabetiske, numeriske eller tegnet «&».
+2. Første bokstaven i et ord er enten stor eller liten bokstav, resten av ordet angis i små bokstaver.
+3. Skriften er type Helvetica.
+4. Skriftfargen skal være matt Pantone Cool Gray 2 C.
+5. Skrifttypen skal være normal vektet.
+6. Merkenavnet skal skrives på maks én linje og ikke være større enn 14 pkt.
+7. Variantnavnet skal plasseres rett under merkenavnet, skrives på maks én linje og ikke være større enn 10 pkt.
 
 ### § 37. Merking med informasjon om produsent
 
 Enkeltpakninger eller ytre emballasje for tobakksvarer kan merkes én gang på enten ytre eller indre flater med følgende informasjon; firmanavn, adresse, e-postadresse og telefonnummer.
 
-Merkingen skalkun bestå av karakterer som er alfabetiske, numeriske eller tegnet «&» samt tegnet «@» for e-postadresser,skrives med stor eller liten forbokstav, resten av ordet skal skrives med små bokstaver,være trykt med typen Helvetica,på ytre flater av ytre emballasje og enkeltpakninger være matt med fargen Pantone Cool Gray 2 C,på indre flater av ytre emballasje og enkeltpakninger enten være fargen matt Pantone Cool Gray 2 C, matt Pantone 448 C eller matt svart,ha skrifttype som er normal vektet og ikke større enn 10 pkt., ogikke trykkes på forsiden av enkeltpakningen eller ytre emballasje.
+Merkingen skal
+
+1. kun bestå av karakterer som er alfabetiske, numeriske eller tegnet «&» samt tegnet «@» for e-postadresser,
+2. skrives med stor eller liten forbokstav, resten av ordet skal skrives med små bokstaver,
+3. være trykt med typen Helvetica,
+4. på ytre flater av ytre emballasje og enkeltpakninger være matt med fargen Pantone Cool Gray 2 C,
+5. på indre flater av ytre emballasje og enkeltpakninger enten være fargen matt Pantone Cool Gray 2 C, matt Pantone 448 C eller matt svart,
+6. ha skrifttype som er normal vektet og ikke større enn 10 pkt., og
+7. ikke trykkes på forsiden av enkeltpakningen eller ytre emballasje.
 
 ## Kapittel 6. Minstestørrelser og merking av innhold og vekt
 
 ### § 38. Minstestørrelser og -vekt for tobakksvarer
 
-En enkeltpakning for salg til forbruker medsigaretter skal inneholde minst 20 sigaretterrulletobakk skal inneholde minst 30 gramporsjonssnus skal inneholde minst 20 porsjoner og 15 gramløssnus skal inneholde minst 30 gram.
+En enkeltpakning for salg til forbruker med
+
+1. sigaretter skal inneholde minst 20 sigaretter
+2. rulletobakk skal inneholde minst 30 gram
+3. porsjonssnus skal inneholde minst 20 porsjoner og 15 gram
+4. løssnus skal inneholde minst 30 gram.
 
 Disse enkeltpakningene kan ikke inneholde mindre pakninger eller kunne deles opp i mindre pakninger.
 
@@ -306,11 +407,25 @@ Sigarer kan selges enkeltvis med advarselsmerking på pakningen.
 
 Ytre emballasje og enkeltpakninger skal merkes én gang med «Sigaretter», «Rulletobakk» eller «Snus».
 
-Videre skal ytre emballasje og enkeltpakninger merkes meden numerisk angivelse av antall sigaretter eller snusporsjoner etterfulgt av «stk.»for rulletobakk og snus; vekt etterfulgt av bokstaven «g».for snus; produksjonsdato og best før-dato.
+Videre skal ytre emballasje og enkeltpakninger merkes med
 
-Ytre emballasje kan merkes én gang med enten:totalantall sigaretter i samtlige enkeltpakninger eller antall enkeltpakninger multiplisert med antall sigaretter i hver enkeltpakning ved bruk av tegnet «x», ellertotalvekten i samtlige enkeltpakninger eller antall enkeltpakninger multiplisert med vekten av tobakk i hver enkeltpakning ved bruk av tegnet «x».
+1. en numerisk angivelse av antall sigaretter eller snusporsjoner etterfulgt av «stk.»
+2. for rulletobakk og snus; vekt etterfulgt av bokstaven «g».
+3. for snus; produksjonsdato og best før-dato.
 
-På ytre emballasje og enkeltpakninger er følgende formkrav obligatoriske:merkingen skal være trykt med typen Helveticaskriften skal være fargen skrift i fargen matt Pantone Cool Gray 2 Cskrifttypen skal være normal vektet skrifttypeskriften på enkeltpakninger skal ikke være større enn 10 pkt.skriften på ytre emballasje skal ikke være større enn 14 pkt.merking i samme retning som helseadvarselen.
+Ytre emballasje kan merkes én gang med enten:
+
+1. totalantall sigaretter i samtlige enkeltpakninger eller antall enkeltpakninger multiplisert med antall sigaretter i hver enkeltpakning ved bruk av tegnet «x», eller
+2. totalvekten i samtlige enkeltpakninger eller antall enkeltpakninger multiplisert med vekten av tobakk i hver enkeltpakning ved bruk av tegnet «x».
+
+På ytre emballasje og enkeltpakninger er følgende formkrav obligatoriske:
+
+1. merkingen skal være trykt med typen Helvetica
+2. skriften skal være fargen skrift i fargen matt Pantone Cool Gray 2 C
+3. skrifttypen skal være normal vektet skrifttype
+4. skriften på enkeltpakninger skal ikke være større enn 10 pkt.
+5. skriften på ytre emballasje skal ikke være større enn 14 pkt.
+6. merking i samme retning som helseadvarselen.
 
 Ytre emballasje og enkeltpakninger for snus kan merkes én gang med betegnelser som «løssnus», «porsjonssnus», «tørrsnus», «ferdig bakt» eller «kjølevare».
 
@@ -318,7 +433,13 @@ Ytre emballasje og enkeltpakninger for snus kan merkes én gang med betegnelser 
 
 Dersom en enkeltpakning med rulletobakk inneholder sigarettpapir og/eller filter, kan pakningen merkes én gang med «inkludert sigarettpapir og filter», «inkludert sigarettpapir» eller «inkludert filter».
 
-Merkingen skalskrives med små bokstaver,være trykt med typen Helvetica,være matt med fargen Pantone Cool Gray 2 C,skrifttypen skal være normal vektet og ikke større enn 10 pkt., ogplasseres rett under variantnavnet eller merkenavnet dersom det ikke er noe variantnavn.
+Merkingen skal
+
+1. skrives med små bokstaver,
+2. være trykt med typen Helvetica,
+3. være matt med fargen Pantone Cool Gray 2 C,
+4. skrifttypen skal være normal vektet og ikke større enn 10 pkt., og
+5. plasseres rett under variantnavnet eller merkenavnet dersom det ikke er noe variantnavn.
 
 ## Kapittel 7. Krav til utforming av tobakksvarer
 
@@ -330,7 +451,15 @@ Forbudene i [§ 32](forskrift/2026-03-27-526/§32) mot lyd og unaturlig lukt og 
 
 Sigaretter skal utformes på følgende måte: Papir, filter, foringsrør utenpå filter og annet materiale brukt i sigaretter, med unntak av tobakk, skal være enhetlig matt hvit. Foringsrøret på enden av sigaretten kan farges på en slik måte at den imiterer kork.
 
-Sigaretter kan merkes med tekst for å identifisere merkenavn og variantnavn dersom følgende krav oppfylles:Skriften er parallell med, og ikke mer enn 38 millimeter fra, enden som ikke skal tennes.Skriften skal ikke inneholde karakterer som ikke er alfabetiske, numeriske eller tegnet «&».Første bokstav i et ord skal enten være stor eller liten bokstav, resten av ordet skrives i små bokstaver.Skriften er av typen Helvetica.Skriften skal være matt svart.Skrifttypen skal være normal vektet.Skriftstørrelsen skal ikke være større enn 8 pkt.
+Sigaretter kan merkes med tekst for å identifisere merkenavn og variantnavn dersom følgende krav oppfylles:
+
+1. Skriften er parallell med, og ikke mer enn 38 millimeter fra, enden som ikke skal tennes.
+2. Skriften skal ikke inneholde karakterer som ikke er alfabetiske, numeriske eller tegnet «&».
+3. Første bokstav i et ord skal enten være stor eller liten bokstav, resten av ordet skrives i små bokstaver.
+4. Skriften er av typen Helvetica.
+5. Skriften skal være matt svart.
+6. Skrifttypen skal være normal vektet.
+7. Skriftstørrelsen skal ikke være større enn 8 pkt.
 
 ### § 43. Krav til papir, filter og hylser til rulletobakk
 
@@ -342,7 +471,13 @@ Papir til bruk sammen med rulletobakk skal være hvite eller brune, i matt utfø
 
 Det er forbudt å innføre eller bringe i omsetning nye tobakks- eller nikotinprodukter uten at produktet er godkjent av Helsedirektoratet. Det samme gjelder utstyr som er nødvendig for bruken av produktet.
 
-Produsent eller importør må sende søknad om godkjenning til direktoratet senest seks måneder før produktet planlegges plassert på markedet. Søknaden skal inneholdeen detaljert beskrivelse av produktet og dets funksjonhvis relevant, bruksanvisning og opplysninger om ingredienser og utslipptilgjengelige vitenskapelige studier om produktets toksisitet, avhengighetsskapende egenskaper og attraktivitet, særlig med henblikk på ingredienser og utslipptilgjengelige studier, oppsummeringer av disse og markedsundersøkelser av ulike forbrukergruppers preferanser, herunder unge og nåværende røykereannen tilgjengelig og relevant informasjon, herunder en nytte/risikoanalyse av produktet, forventede effekter på tobakksavvenning, forventede effekter på oppstart av tobakksbruk og antatt oppfatning av produktet hos forbrukere.
+Produsent eller importør må sende søknad om godkjenning til direktoratet senest seks måneder før produktet planlegges plassert på markedet. Søknaden skal inneholde
+
+1. en detaljert beskrivelse av produktet og dets funksjon
+2. hvis relevant, bruksanvisning og opplysninger om ingredienser og utslipp
+3. tilgjengelige vitenskapelige studier om produktets toksisitet, avhengighetsskapende egenskaper og attraktivitet, særlig med henblikk på ingredienser og utslipp
+4. tilgjengelige studier, oppsummeringer av disse og markedsundersøkelser av ulike forbrukergruppers preferanser, herunder unge og nåværende røykere
+5. annen tilgjengelig og relevant informasjon, herunder en nytte/risikoanalyse av produktet, forventede effekter på tobakksavvenning, forventede effekter på oppstart av tobakksbruk og antatt oppfatning av produktet hos forbrukere.
 
 Direktoratet skal i behandlingen av søknaden særlig legge vekt på om produktet kan virke tiltrekkende på barn og unge eller bidra til oppstart eller normalisering av tobakksbruk.
 

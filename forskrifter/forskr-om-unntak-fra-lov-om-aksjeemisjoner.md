@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Innbydelser til tegning av aksjer skal være unntatt fra lovens regler for så vidt angår følgende selskaper:Banker undergitt [lov av 24. mai 1961 nr. 2](lov/1961-05-24-2) om forretningsbanker.Forsikringsselskaper undergitt [lov av 29. juli 1911 nr. 1](lov/1911-07-29-1) om forsikringsselskaper.
+Innbydelser til tegning av aksjer skal være unntatt fra lovens regler for så vidt angår følgende selskaper:
+
+1. Banker undergitt [lov av 24. mai 1961 nr. 2](lov/1961-05-24-2) om forretningsbanker.
+2. Forsikringsselskaper undergitt [lov av 29. juli 1911 nr. 1](lov/1911-07-29-1) om forsikringsselskaper.
 
 ## § 2.
 

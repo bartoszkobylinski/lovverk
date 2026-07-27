@@ -34,7 +34,17 @@ Et tilrettelagt avhør skal sikre at etterforskingen og straffeforfølgningen i 
 
 Et tilrettelagt avhør skal ledes av en påtalejurist med utvidet påtalekompetanse. Avhørslederen skal så vidt mulig ha bestått Politihøgskolens spesialutdanning i å lede et tilrettelagt avhør.
 
-Avhørslederen har ansvar for å planlegge og forberede avhøret og utføre nødvendig etterarbeid, blant annetå undersøke om vitnet har en verge som etter sitt mandat kan bistå og som kan varsles, jf. [straffeprosessloven § 239b](lov/1981-05-22-25/§239b) andre ledd, og melde fra til Fylkesmannen dersom vitnet ikke har en slik verge og kan ha behov for detå sikre at vitnet får oppnevnt bistandsadvokat der det følger av reglene i [straffeprosessloven § 107a](lov/1981-05-22-25/§107a), jf. [straffeprosessloven § 107b](lov/1981-05-22-25/§107b)om noen er siktet i saken, å sikre at siktede får oppnevnt forsvarer der det følger av reglene i [straffeprosessloven § 97](lov/1981-05-22-25/§97), jf. [straffeprosessloven § 102](lov/1981-05-22-25/§102) og [§ 239b](lov/1981-05-22-25/§239b)å beslutte hvem som skal kunne følge avhøret, jf. [straffeprosessloven § 239d](lov/1981-05-22-25/§239d) tredje ledd, fastsette tidspunkt for avhør, jf. [straffeprosessloven § 239a](lov/1981-05-22-25/§239a) første ledd, og sørge for innkallingå sikre vitnet forsvarlig følgeå avholde samrådsmøte, formøte og ettermøte etter [§ 7](forskrift/2015-09-24-1098/§7), [§ 8](forskrift/2015-09-24-1098/§8) og [§ 12](forskrift/2015-09-24-1098/§12)å sørge for at det føres logg fra saksbehandlingen forut for og i etterkant av avhøretå sørge for at det føres protokoll etter [§ 13](forskrift/2015-09-24-1098/§13) fra avhøretå sørge for at det tas utskrift, eventuelt skrives sammendrag av avhøret etter [§ 14](forskrift/2015-09-24-1098/§14) første ledd eller skrives oppsummering etter [§ 14](forskrift/2015-09-24-1098/§14) andre ledd.
+Avhørslederen har ansvar for å planlegge og forberede avhøret og utføre nødvendig etterarbeid, blant annet
+
+1. å undersøke om vitnet har en verge som etter sitt mandat kan bistå og som kan varsles, jf. [straffeprosessloven § 239b](lov/1981-05-22-25/§239b) andre ledd, og melde fra til Fylkesmannen dersom vitnet ikke har en slik verge og kan ha behov for det
+2. å sikre at vitnet får oppnevnt bistandsadvokat der det følger av reglene i [straffeprosessloven § 107a](lov/1981-05-22-25/§107a), jf. [straffeprosessloven § 107b](lov/1981-05-22-25/§107b)
+3. om noen er siktet i saken, å sikre at siktede får oppnevnt forsvarer der det følger av reglene i [straffeprosessloven § 97](lov/1981-05-22-25/§97), jf. [straffeprosessloven § 102](lov/1981-05-22-25/§102) og [§ 239b](lov/1981-05-22-25/§239b)
+4. å beslutte hvem som skal kunne følge avhøret, jf. [straffeprosessloven § 239d](lov/1981-05-22-25/§239d) tredje ledd, fastsette tidspunkt for avhør, jf. [straffeprosessloven § 239a](lov/1981-05-22-25/§239a) første ledd, og sørge for innkalling
+5. å sikre vitnet forsvarlig følge
+6. å avholde samrådsmøte, formøte og ettermøte etter [§ 7](forskrift/2015-09-24-1098/§7), [§ 8](forskrift/2015-09-24-1098/§8) og [§ 12](forskrift/2015-09-24-1098/§12)
+7. å sørge for at det føres logg fra saksbehandlingen forut for og i etterkant av avhøret
+8. å sørge for at det føres protokoll etter [§ 13](forskrift/2015-09-24-1098/§13) fra avhøret
+9. å sørge for at det tas utskrift, eventuelt skrives sammendrag av avhøret etter [§ 14](forskrift/2015-09-24-1098/§14) første ledd eller skrives oppsummering etter [§ 14](forskrift/2015-09-24-1098/§14) andre ledd.
 
 Avhørsleder kan få bistand til den praktiske gjennomføringen av oppgavene.
 
@@ -114,11 +124,29 @@ Ettermøte kan utelates dersom avhørslederen, etter å ha konferert med barnehu
 
 Avhørslederen skal sikre at det føres protokoll fra alle tilrettelagte avhør.
 
-Protokollen skal opplyse omtid og sted for avhøret, og dersom avhøret ikke er tatt på barnehus, skal grunnen til dette oppgis, jf. [straffeprosessloven § 239f](lov/1981-05-22-25/§239f)vitnets navn og hva saken gjeldernavnet på protokollføreren, avhøreren og alle som følger avhøret og hvor de som ikke er på avhørsstedet befinner segdet har blitt avholdt samrådsmøte, formøte og ettermøte, jf. [§ 7](forskrift/2015-09-24-1098/§7), [§ 8](forskrift/2015-09-24-1098/§8) og [§ 12](forskrift/2015-09-24-1098/§12), og hvis ikke, årsaken til dettehvem som deltok i samrådsmøtet, formøtet og ettermøtet og hva som ble diskutertfristen for å ta avhøret er overholdt, og dersom fristen er forlenget, grunnen til forlengelsen, jf. [straffeprosessloven § 239e](lov/1981-05-22-25/§239e)avhøret er det første eller et supplerende avhør, jf. § 239cvitner som ikke har vitne- og forklaringsplikt har blitt informert om at de ikke har det, jf. [straffeprosessloven § 239a](lov/1981-05-22-25/§239a) annet ledd, jf. [straffeprosessloven § 235](lov/1981-05-22-25/§235)siktede har blitt varslet, når det ble varslet og om siktede har fått oppnevnt forsvarer, jf. [straffeprosessloven § 239b](lov/1981-05-22-25/§239b) første, fjerde og femte leddhvilke spørsmål og innsigelser forsvareren har reist og hvis disse har blitt avvist, begrunnelsen for avslaget, jf. [straffeprosessloven § 239d](lov/1981-05-22-25/§239d) fjerde leddavhøret er tatt opp på video- eller lydopptak og om opptaket ble stoppet under avhøret, jf. [straffeprosessloven § 239a](lov/1981-05-22-25/§239a) tredje ledd.
+Protokollen skal opplyse om
+
+1. tid og sted for avhøret, og dersom avhøret ikke er tatt på barnehus, skal grunnen til dette oppgis, jf. [straffeprosessloven § 239f](lov/1981-05-22-25/§239f)
+2. vitnets navn og hva saken gjelder
+3. navnet på protokollføreren, avhøreren og alle som følger avhøret og hvor de som ikke er på avhørsstedet befinner seg
+4. det har blitt avholdt samrådsmøte, formøte og ettermøte, jf. [§ 7](forskrift/2015-09-24-1098/§7), [§ 8](forskrift/2015-09-24-1098/§8) og [§ 12](forskrift/2015-09-24-1098/§12), og hvis ikke, årsaken til dette
+5. hvem som deltok i samrådsmøtet, formøtet og ettermøtet og hva som ble diskutert
+6. fristen for å ta avhøret er overholdt, og dersom fristen er forlenget, grunnen til forlengelsen, jf. [straffeprosessloven § 239e](lov/1981-05-22-25/§239e)
+7. avhøret er det første eller et supplerende avhør, jf. § 239c
+8. vitner som ikke har vitne- og forklaringsplikt har blitt informert om at de ikke har det, jf. [straffeprosessloven § 239a](lov/1981-05-22-25/§239a) annet ledd, jf. [straffeprosessloven § 235](lov/1981-05-22-25/§235)
+9. siktede har blitt varslet, når det ble varslet og om siktede har fått oppnevnt forsvarer, jf. [straffeprosessloven § 239b](lov/1981-05-22-25/§239b) første, fjerde og femte ledd
+10. hvilke spørsmål og innsigelser forsvareren har reist og hvis disse har blitt avvist, begrunnelsen for avslaget, jf. [straffeprosessloven § 239d](lov/1981-05-22-25/§239d) fjerde ledd
+11. avhøret er tatt opp på video- eller lydopptak og om opptaket ble stoppet under avhøret, jf. [straffeprosessloven § 239a](lov/1981-05-22-25/§239a) tredje ledd.
 
 Etter avhøret skal protokollen gjennomgås og undertegnes av avhørsleder, forsvarer og bistandsadvokat.
 
-Protokollen skal etter avhøret suppleres med informasjonom og når det er tatt ut siktelse, jf. [straffeprosessloven § 239b](lov/1981-05-22-25/§239b), eller om saken er henlagtom og når siktede og forsvareren har fått gjøre seg kjent med dokumentene i saken, herunder videoopptak av tilrettelagt avhør, jf. [straffeprosessloven § 239b](lov/1981-05-22-25/§239b) fjerde leddom og når siktede har fått forkynt at det er adgang til å begjære supplerende avhør av vitnet og at videoopptak kan tre i stedet for vitnets personlige forklaring under hovedforhandlingen og hvilken frist som er satt for å begjære supplerende avhør, jf. [straffeprosessloven § 239b](lov/1981-05-22-25/§239b) fjerde leddom og når siktede har begjært supplerende avhør, jf. [straffeprosessloven § 239c](lov/1981-05-22-25/§239c) andre ledd, og hvis begjæringen er avvist, begrunnelsen for detteom det er besluttet supplerende avhør, jf. [straffeprosessloven § 239c](lov/1981-05-22-25/§239c).
+Protokollen skal etter avhøret suppleres med informasjon
+
+1. om og når det er tatt ut siktelse, jf. [straffeprosessloven § 239b](lov/1981-05-22-25/§239b), eller om saken er henlagt
+2. om og når siktede og forsvareren har fått gjøre seg kjent med dokumentene i saken, herunder videoopptak av tilrettelagt avhør, jf. [straffeprosessloven § 239b](lov/1981-05-22-25/§239b) fjerde ledd
+3. om og når siktede har fått forkynt at det er adgang til å begjære supplerende avhør av vitnet og at videoopptak kan tre i stedet for vitnets personlige forklaring under hovedforhandlingen og hvilken frist som er satt for å begjære supplerende avhør, jf. [straffeprosessloven § 239b](lov/1981-05-22-25/§239b) fjerde ledd
+4. om og når siktede har begjært supplerende avhør, jf. [straffeprosessloven § 239c](lov/1981-05-22-25/§239c) andre ledd, og hvis begjæringen er avvist, begrunnelsen for dette
+5. om det er besluttet supplerende avhør, jf. [straffeprosessloven § 239c](lov/1981-05-22-25/§239c).
 
 ## § 14. Utskrift av avhør
 

@@ -15,7 +15,7 @@ xml_hash: "58dbced5f7c377193a8bbf82b29a7c142b9d7a310d5023c6b589b14c3797bf8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ eu_basis: []
 
 ### § 2. Avgrensning og omfang
 
-Det fredete området omfatter;hele øya, med unntak av et virksomhetsområde på østsiden av øya (Olonkinbyen, den meteorologiske stasjonen og flyplassen), samt et mindre område i Kvalrossbukta på vestsiden av øyatilliggende territorialfarvann med unntak av et marint areal i og 500 meter utenfor Båtvika.
+Det fredete området omfatter;
+
+- hele øya, med unntak av et virksomhetsområde på østsiden av øya (Olonkinbyen, den meteorologiske stasjonen og flyplassen), samt et mindre område i Kvalrossbukta på vestsiden av øya
+- tilliggende territorialfarvann med unntak av et marint areal i og 500 meter utenfor Båtvika.
 
 Naturreservatet utgjør ca. 375 km2 landareal og ca. 4315 km2 marint areal.
 
@@ -42,7 +45,15 @@ Fredningsforskriften med kart skal oppbevares hos Statsforvalteren i Nordland, i
 
 ### § 3. Formål
 
-Formålet med fredningen er å bevare en tilnærmet uberørt arktisk øy og tilgrensende sjøområder, inkludert havbunnen, med særegent landskap, aktive vulkansystemer, spesiell flora og fauna og mange kulturminner, herunder spesielt sikre;øyas storslåtte og unike landskapøyas egenartede vulkanske bergarter og landformerøya som et meget viktig leveområde for sjøfuglden nære sammenhengen mellom livet i havet og på landden særegne økologien som utvikles på isolerte øyerdet historiske perspektivet som kulturminner fra alle hovedepokene i Jan Mayens historie representererøya og tilliggende marint areal som et referanseområde for forskning.
+Formålet med fredningen er å bevare en tilnærmet uberørt arktisk øy og tilgrensende sjøområder, inkludert havbunnen, med særegent landskap, aktive vulkansystemer, spesiell flora og fauna og mange kulturminner, herunder spesielt sikre;
+
+- øyas storslåtte og unike landskap
+- øyas egenartede vulkanske bergarter og landformer
+- øya som et meget viktig leveområde for sjøfugl
+- den nære sammenhengen mellom livet i havet og på land
+- den særegne økologien som utvikles på isolerte øyer
+- det historiske perspektivet som kulturminner fra alle hovedepokene i Jan Mayens historie representerer
+- øya og tilliggende marint areal som et referanseområde for forskning.
 
 ## Kapittel II. Fredningsbestemmelser
 
@@ -60,7 +71,12 @@ Ingen må skade, grave ut, flytte, fjerne, forandre, tildekke, skjule eller skje
 
 1.3
 
-Bestemmelsen i pkt. 1.1 er ikke til hinder for;bruk av tillatte fiske- og fangstredskaper i sjøen med unntak av redskaper som kan gi vesentlig skade på havbunnennødvendig vedlikehold av eksisterende vei mellom Olonkinbyen/Flyplassen og Kvalrossbuktanødvendig vedlikehold av eksisterende vei/kjørespor mellom Trongskarkrysset og Gamle Mettenbruk av drivtømmer til vedlikehold av og brensel til eksisterende hytter på øya og til mindre bål på stedet.
+Bestemmelsen i pkt. 1.1 er ikke til hinder for;
+
+- bruk av tillatte fiske- og fangstredskaper i sjøen med unntak av redskaper som kan gi vesentlig skade på havbunnen
+- nødvendig vedlikehold av eksisterende vei mellom Olonkinbyen/Flyplassen og Kvalrossbukta
+- nødvendig vedlikehold av eksisterende vei/kjørespor mellom Trongskarkrysset og Gamle Metten
+- bruk av drivtømmer til vedlikehold av og brensel til eksisterende hytter på øya og til mindre bål på stedet.
 
 2.*Planter og dyr*
 
@@ -74,7 +90,9 @@ Plante- eller dyrearter, herunder genmodifiserte arter og former, må ikke innf�
 
 2.3
 
-Bestemmelsen i pkt. 2.1 er ikke til hinder for;høsting av viltlevende marine ressurser i henhold til regler gitt av Fiskeri- og kystdepartementet. Unntaket gjelder ikke bruk av redskaper som kan gi vesentlig skade på havbunnen.
+Bestemmelsen i pkt. 2.1 er ikke til hinder for;
+
+- høsting av viltlevende marine ressurser i henhold til regler gitt av Fiskeri- og kystdepartementet. Unntaket gjelder ikke bruk av redskaper som kan gi vesentlig skade på havbunnen.
 
 3.*Kulturminner*
 
@@ -87,7 +105,13 @@ I denne forskrift forstås med;
 
 3.2
 
-Automatisk fredete kulturminner er;faste kulturminner fra 1945 eller tidligere, herunder fly- og båtvrakløse kulturminner fra 1945 eller tidligere, når de kommer for dagen tilfeldig, ved undersøkelse, utgraving eller på annen måteGamle Metten-anlegget med tilhørende inventar og utstyrspor etter menneskegraver av alle slag, herunder kors og andre gravmarkeringer, minnesmerker og bein og skjelettresterhvalbein og skjelettrester på tidligere slakteplasser for hval.
+Automatisk fredete kulturminner er;
+
+- faste kulturminner fra 1945 eller tidligere, herunder fly- og båtvrak
+- løse kulturminner fra 1945 eller tidligere, når de kommer for dagen tilfeldig, ved undersøkelse, utgraving eller på annen måte
+- Gamle Metten-anlegget med tilhørende inventar og utstyr
+- spor etter menneskegraver av alle slag, herunder kors og andre gravmarkeringer, minnesmerker og bein og skjelettrester
+- hvalbein og skjelettrester på tidligere slakteplasser for hval.
 
 Forvaltningsmyndigheten avgjør i tvilstilfelle hva som er fredet fast og løst kulturminne og kan oppheve fredningen av bestemte kulturminner.
 
@@ -129,7 +153,12 @@ Bestemmelsen i 1.1 og 4.5 er ikke til hinder for bruk av alternative spor i forb
 
 4.7
 
-Bestemmelsen i 4.5 er ikke til hinder for ferdsel i terrenget med snøscooter eller bandvogn på frossen og snødekt mark;ved transport av forsyninger til stasjonen, dersom værforholdene medfører at skip må anløpe annet sted ved øya enn i Båtvika,ved inspeksjon og vedlikehold av installasjoner,ved transport i forbindelse med vedlikehold og frakt av brensel og forsyninger til eksisterende veiløse hytter,ved kjøring til hyttene for helgeturer og lignende som rekreasjon for ansatte ved stasjonen.
+Bestemmelsen i 4.5 er ikke til hinder for ferdsel i terrenget med snøscooter eller bandvogn på frossen og snødekt mark;
+
+- ved transport av forsyninger til stasjonen, dersom værforholdene medfører at skip må anløpe annet sted ved øya enn i Båtvika,
+- ved inspeksjon og vedlikehold av installasjoner,
+- ved transport i forbindelse med vedlikehold og frakt av brensel og forsyninger til eksisterende veiløse hytter,
+- ved kjøring til hyttene for helgeturer og lignende som rekreasjon for ansatte ved stasjonen.
 
 4.8
 
@@ -153,13 +182,25 @@ Stoffer og gjenstander som kan skade planter og dyr, som er skjemmende eller som
 
 ### § 5. Generelle unntak
 
-Bestemmelsene i [§ 4](forskrift/2010-11-19-1456/§4) er ikke til hinder for;Utrykning for brann-, politi- eller redningstjeneste, militær operativ virksomhet og oppsyn eller tilsyn med verneområdet.Undersøkelser, skjøtsel og vedlikehold av kulturminner.
+Bestemmelsene i [§ 4](forskrift/2010-11-19-1456/§4) er ikke til hinder for;
+
+- Utrykning for brann-, politi- eller redningstjeneste, militær operativ virksomhet og oppsyn eller tilsyn med verneområdet.
+- Undersøkelser, skjøtsel og vedlikehold av kulturminner.
 
 Forvaltningsmyndigheten har rett til og kan gi andre tillatelse til å søke etter, grave frem, granske og dokumentere fredete kulturminner.
 
 ### § 6. Dispensasjoner
 
-Forvaltningsmyndigheten kan gi dispensasjon til;ombygging og mindre tilbygg til eksisterende bygningergjenoppbygging av bygninger som er ødelagt ved brann eller naturkatastrofeuttak av grus fra et område i Trongskaret (Blåsåsen)anlegg langs veien mellom Kvalrossbukta og Båtvika knyttet til aktivitet innenfor virksomhetsområdeneanlegg på sjøbunnen knyttet til aktivitet innenfor virksomhetsområdeneetablering av navigasjonshjelpemidler og romrelatert bakkeinfrastrukturtiltak som ivaretar særskilte behov i forbindelse med rekreasjon hos stasjonens ansatte.tiltak som kan virke inn på fredete kulturminner.
+Forvaltningsmyndigheten kan gi dispensasjon til;
+
+- ombygging og mindre tilbygg til eksisterende bygninger
+- gjenoppbygging av bygninger som er ødelagt ved brann eller naturkatastrofe
+- uttak av grus fra et område i Trongskaret (Blåsåsen)
+- anlegg langs veien mellom Kvalrossbukta og Båtvika knyttet til aktivitet innenfor virksomhetsområdene
+- anlegg på sjøbunnen knyttet til aktivitet innenfor virksomhetsområdene
+- etablering av navigasjonshjelpemidler og romrelatert bakkeinfrastruktur
+- tiltak som ivaretar særskilte behov i forbindelse med rekreasjon hos stasjonens ansatte.
+- tiltak som kan virke inn på fredete kulturminner.
 
 Utover tiltak som nevnt i første ledd kan forvaltningsmyndigheten dispensere fra fredningsbestemmelsene i [§ 4](forskrift/2010-11-19-1456/§4), når vitenskapelige eller særlige grunner for øvrig taler for det.
 

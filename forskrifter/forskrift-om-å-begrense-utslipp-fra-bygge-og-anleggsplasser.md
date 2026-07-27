@@ -30,7 +30,10 @@ Kommunen kan fastsette forskrift etter [forurensningsloven § 9](lov/1981-03-13-
 
 ## § 2. Unntak fra kravene
 
-Vedtar kommunen forskrift som nevnt i [§ 1](forskrift/2025-04-03-594/§1), skal forskriften åpne for unntak i tilfeller der kravene:ikke er teknisk mulig å nå,blir uforholdsmessig kostbare.
+Vedtar kommunen forskrift som nevnt i [§ 1](forskrift/2025-04-03-594/§1), skal forskriften åpne for unntak i tilfeller der kravene:
+
+1. ikke er teknisk mulig å nå,
+2. blir uforholdsmessig kostbare.
 
 ## § 3. Ikrafttreden
 

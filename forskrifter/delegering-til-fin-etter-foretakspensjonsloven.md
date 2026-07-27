@@ -22,4 +22,9 @@ eu_basis: []
 
 # Delegering av myndighet til Finansdepartementet etter lov av 21. desember 2000 nr. 107 om endringer i lov om foretakspensjon m.v.
 
-Kongens myndighet etter følgende bestemmelser i [lov av 21. desember 2000 nr. 107](lov/2000-12-21-107) om endringer i [lov av 24. mars 2000 nr. 16](lov/2000-03-24-16) om foretakspensjon delegeres til Finansdepartementet:§ 2-8 tredje ledd,§ 3-3 første ledd,§ 9-7,§ 9-8 første ledd.
+Kongens myndighet etter følgende bestemmelser i [lov av 21. desember 2000 nr. 107](lov/2000-12-21-107) om endringer i [lov av 24. mars 2000 nr. 16](lov/2000-03-24-16) om foretakspensjon delegeres til Finansdepartementet:
+
+- § 2-8 tredje ledd,
+- § 3-3 første ledd,
+- § 9-7,
+- § 9-8 første ledd.

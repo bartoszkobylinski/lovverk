@@ -15,7 +15,7 @@ xml_hash: "f523c750ea788a4d9ac33b33ebd7089bd53c1ee5ea0d5fd656279e16da34dddf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,31 @@ Formålet med denne forskriften er å sørge for at jernbanevirksomheten drives 
 
 ### § 1-3. Definisjoner
 
-I forskriften her forstås med:*Alvorlig jernbanehendelse:* en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke*Byrået:* det europeiske jernbanebyrået (ERA)*Enhet med ansvar for vedlikehold (ECM):* en enhet som er ansvarlig for vedlikehold av et kjøretøy, og som er registrert som sådan i et kjøretøyregister*ERA-forordningen:* Forordning [(EU) 2016/796](eu/32016r0796)*Felles sikkerhetsmetoder (CSM):* metoder som beskriver vurdering av sikkerhetsnivåene, og oppfyllelsen av sikkerhetsmålene og andre sikkerhetskrav*Felles sikkerhetsmål (CST):* de minste sikkerhetsnivåene som systemet skal nå som helhet og dersom mulig, av de forskjellige delene av det jernbanesystemet i EØS (f.eks. jernbanesystemet for konvensjonelle tog, jernbanesystemet for høyhastighetstog, lange jernbanetunneler eller linjer som brukes bare til godstransport)*Infrastrukturforvalter:* Ethvert organ eller foretak som er ansvarlig særlig for å opprette, forvalte og vedlikeholde jernbaneinfrastruktur, herunder trafikkstyring og styring, kontroll og signal. Infrastrukturforvalters oppgaver på et nett eller en del av et nett kan tildeles forskjellige organer eller foretak*Innehaver:* den fysiske eller juridiske personen som i egenskap av å være eier av et kjøretøy eller som har rett til å bruke det, benytter kjøretøyet som et transportmiddel og er registrert som sådan i et kjøretøyregister*Jernbaneforetak:* ethvert offentlig eller privat foretak som har som virksomhet å yte tjenester for transport av gods og/eller passasjerer med jernbane, der foretaket forplikter seg til å sørge for trekkraften, herunder foretak som bare sørger for trekkraften*Jernbanehendelse:* enhver annen uønsket hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på driftssikkerheten*Jernbaneulykke:* en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på jernbaneinfrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker*Jernbanesystemet i EØS:* jernbanesystemet i EØS som definert i [samtrafikkforskriften](forskrift/2021-09-09-2742)*Jernbanevirksomhet:* fellesbetegnelse for jernbaneforetak og infrastrukturforvalter*Kjøretøy:* et jernbanekjøretøy som kjører på egne hjul på jernbanelinjer, med eller uten egen trekkraft. Et kjøretøy består av ett eller flere strukturelle og funksjonelle delsystemer*Nasjonale regler:* alle bindende regler vedtatt i en medlemsstat, uavhengig av hvilket organ som utsteder dem, som inneholder andre krav til jernbanesikkerhet eller tekniske krav enn de som er fastsatt i EØS-regelverket eller internasjonale regler, og som gjelder i den aktuelle EØS-staten for jernbanevirksomheter eller tredjepart*Nasjonal sikkerhetsmyndighet:* nasjonalt organ som er tillagt oppgaver knyttet til jernbanesikkerhet i samsvar med denne forskrift, eller ethvert organ som av flere EØS-stater er tillagt slike oppgaver for å sikre en enhetlig sikkerhetsordning*One-stop shop:* informasjons- og kommunikasjonssystem blant annet for behandling av søknader om sikkerhetssertifikat og tillatelse til å ta i bruk kjøretøy, jf. artikkel 12 i ERA-forordningen*Oppdragsgiver:* et offentlig eller privat foretak som bestiller prosjektering, bygging, fornyelse eller oppgradering av et delsystem*RSD:* jernbanesikkerhetsdirektivet (Railway Safety Directive) [(EU) 2016/798](eu/32016l0798)*Sikkerhetsstyringssystem*: den organisasjonen, de tiltakene og de framgangsmåtene som en jernbanevirksomhet har opprettet med sikte på en sikker drift av sin virksomhet*Teknisk spesifikasjon for samtrafikkevne (TSI):* en spesifikasjon vedtatt i samsvar direktiv [(EU) 2016/797](eu/32016l0797) som hvert delsystem eller del av et delsystem skal omfattes av for å oppfylle de grunnleggende kravene og sikre samtrafikkevnen i jernbanesystemet*Samsvarsvurderingsorgan:* et organ som er meldt eller utpekt til å være ansvarlig for samsvarsvurderingsvirksomhet, inkludert kalibrering, prøving, sertifisering og inspeksjon. Et samsvarsvurderingsorgan klassifiseres som «teknisk kontrollorgan» etter melding fra en EØS-stat. Et samsvarsvurderingsorgan klassifiseres som «utpekt organ» etter utpeking av en EØS-stat*Samtrafikkomponent:* enhver enkeltstående komponent, gruppe av komponenter, underenhet eller fullstendig enhet av utstyr som inngår i eller er bestemt til å inngå i et delsystem, og som samtrafikkevnen til jernbanesystemet direkte eller indirekte er avhengig av, inkludert både materielle og immaterielle produkter.
+I forskriften her forstås med:
+
+1. *Alvorlig jernbanehendelse:* en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke
+2. *Byrået:* det europeiske jernbanebyrået (ERA)
+3. *Enhet med ansvar for vedlikehold (ECM):* en enhet som er ansvarlig for vedlikehold av et kjøretøy, og som er registrert som sådan i et kjøretøyregister
+4. *ERA-forordningen:* Forordning [(EU) 2016/796](eu/32016r0796)
+5. *Felles sikkerhetsmetoder (CSM):* metoder som beskriver vurdering av sikkerhetsnivåene, og oppfyllelsen av sikkerhetsmålene og andre sikkerhetskrav
+6. *Felles sikkerhetsmål (CST):* de minste sikkerhetsnivåene som systemet skal nå som helhet og dersom mulig, av de forskjellige delene av det jernbanesystemet i EØS (f.eks. jernbanesystemet for konvensjonelle tog, jernbanesystemet for høyhastighetstog, lange jernbanetunneler eller linjer som brukes bare til godstransport)
+7. *Infrastrukturforvalter:* Ethvert organ eller foretak som er ansvarlig særlig for å opprette, forvalte og vedlikeholde jernbaneinfrastruktur, herunder trafikkstyring og styring, kontroll og signal. Infrastrukturforvalters oppgaver på et nett eller en del av et nett kan tildeles forskjellige organer eller foretak
+8. *Innehaver:* den fysiske eller juridiske personen som i egenskap av å være eier av et kjøretøy eller som har rett til å bruke det, benytter kjøretøyet som et transportmiddel og er registrert som sådan i et kjøretøyregister
+9. *Jernbaneforetak:* ethvert offentlig eller privat foretak som har som virksomhet å yte tjenester for transport av gods og/eller passasjerer med jernbane, der foretaket forplikter seg til å sørge for trekkraften, herunder foretak som bare sørger for trekkraften
+10. *Jernbanehendelse:* enhver annen uønsket hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på driftssikkerheten
+11. *Jernbaneulykke:* en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på jernbaneinfrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker
+12. *Jernbanesystemet i EØS:* jernbanesystemet i EØS som definert i [samtrafikkforskriften](forskrift/2021-09-09-2742)
+13. *Jernbanevirksomhet:* fellesbetegnelse for jernbaneforetak og infrastrukturforvalter
+14. *Kjøretøy:* et jernbanekjøretøy som kjører på egne hjul på jernbanelinjer, med eller uten egen trekkraft. Et kjøretøy består av ett eller flere strukturelle og funksjonelle delsystemer
+15. *Nasjonale regler:* alle bindende regler vedtatt i en medlemsstat, uavhengig av hvilket organ som utsteder dem, som inneholder andre krav til jernbanesikkerhet eller tekniske krav enn de som er fastsatt i EØS-regelverket eller internasjonale regler, og som gjelder i den aktuelle EØS-staten for jernbanevirksomheter eller tredjepart
+16. *Nasjonal sikkerhetsmyndighet:* nasjonalt organ som er tillagt oppgaver knyttet til jernbanesikkerhet i samsvar med denne forskrift, eller ethvert organ som av flere EØS-stater er tillagt slike oppgaver for å sikre en enhetlig sikkerhetsordning
+17. *One-stop shop:* informasjons- og kommunikasjonssystem blant annet for behandling av søknader om sikkerhetssertifikat og tillatelse til å ta i bruk kjøretøy, jf. artikkel 12 i ERA-forordningen
+18. *Oppdragsgiver:* et offentlig eller privat foretak som bestiller prosjektering, bygging, fornyelse eller oppgradering av et delsystem
+19. *RSD:* jernbanesikkerhetsdirektivet (Railway Safety Directive) [(EU) 2016/798](eu/32016l0798)
+20. *Sikkerhetsstyringssystem*: den organisasjonen, de tiltakene og de framgangsmåtene som en jernbanevirksomhet har opprettet med sikte på en sikker drift av sin virksomhet
+21. *Teknisk spesifikasjon for samtrafikkevne (TSI):* en spesifikasjon vedtatt i samsvar direktiv [(EU) 2016/797](eu/32016l0797) som hvert delsystem eller del av et delsystem skal omfattes av for å oppfylle de grunnleggende kravene og sikre samtrafikkevnen i jernbanesystemet
+22. *Samsvarsvurderingsorgan:* et organ som er meldt eller utpekt til å være ansvarlig for samsvarsvurderingsvirksomhet, inkludert kalibrering, prøving, sertifisering og inspeksjon. Et samsvarsvurderingsorgan klassifiseres som «teknisk kontrollorgan» etter melding fra en EØS-stat. Et samsvarsvurderingsorgan klassifiseres som «utpekt organ» etter utpeking av en EØS-stat
+23. *Samtrafikkomponent:* enhver enkeltstående komponent, gruppe av komponenter, underenhet eller fullstendig enhet av utstyr som inngår i eller er bestemt til å inngå i et delsystem, og som samtrafikkevnen til jernbanesystemet direkte eller indirekte er avhengig av, inkludert både materielle og immaterielle produkter.
 
 ## Kapittel 2. Roller
 
@@ -46,15 +70,37 @@ Byrået og Statens jernbanetilsyn skal innenfor grensene for sine myndighetsomr�
 
 ### § 2-2. Statens jernbanetilsyn
 
-Statens jernbanetilsyn skal:sørge for at alt gjeldende regelverk håndheves på en åpen måte uten forskjellsbehandling, slik at de fremmer utviklingen av et felles jernbanetransportsystem innen EØS,sørge for at tiltak med sikte på å utvikle og forbedre jernbanesikkerheten tar hensyn til behovet for en systembasert tilnærming,sørge for at ansvaret for sikker drift av jernbanesystemet i EØS og risikohåndteringen knyttet til den ligger hos jernbanevirksomhetene ved å forplikte dem til å:gjennomføre de nødvendige tiltak for risikohåndtering som nevnt i § 3-2 bokstav a, eventuelt i samarbeid med hverandre,anvende gjeldende regelverk,opprette sikkerhetsstyringssystemer i samsvar med denne forskrift,sørge for at jernbanevirksomhetene gjøres ansvarlig for sin del av systemet og for en sikker drift av dette. Dette inkluderer levering av materialer og inngåelse av kontrakter om tjenesteyting overfor brukere, kunder, berørte arbeidstakere og andre aktører nevnt i § 2-3 annet ledd. Dette gjelder uten at det berører erstatningsansvaret i samsvar med lovbestemmelsene i EØS-statene,utarbeide og offentliggjøre årlige sikkerhetsplaner som fastsetter de planlagte tiltakene for å oppnå CST-ene, ogeventuelt støtte Byrået i dets arbeid for å overvåke utviklingen av jernbanesikkerheten innenfor EØS.
+Statens jernbanetilsyn skal:
+
+1. sørge for at alt gjeldende regelverk håndheves på en åpen måte uten forskjellsbehandling, slik at de fremmer utviklingen av et felles jernbanetransportsystem innen EØS,
+2. sørge for at tiltak med sikte på å utvikle og forbedre jernbanesikkerheten tar hensyn til behovet for en systembasert tilnærming,
+3. sørge for at ansvaret for sikker drift av jernbanesystemet i EØS og risikohåndteringen knyttet til den ligger hos jernbanevirksomhetene ved å forplikte dem til å:
+
+   1. gjennomføre de nødvendige tiltak for risikohåndtering som nevnt i § 3-2 bokstav a, eventuelt i samarbeid med hverandre,
+   2. anvende gjeldende regelverk,
+   3. opprette sikkerhetsstyringssystemer i samsvar med denne forskrift,
+4. sørge for at jernbanevirksomhetene gjøres ansvarlig for sin del av systemet og for en sikker drift av dette. Dette inkluderer levering av materialer og inngåelse av kontrakter om tjenesteyting overfor brukere, kunder, berørte arbeidstakere og andre aktører nevnt i § 2-3 annet ledd. Dette gjelder uten at det berører erstatningsansvaret i samsvar med lovbestemmelsene i EØS-statene,
+5. utarbeide og offentliggjøre årlige sikkerhetsplaner som fastsetter de planlagte tiltakene for å oppnå CST-ene, og
+6. eventuelt støtte Byrået i dets arbeid for å overvåke utviklingen av jernbanesikkerheten innenfor EØS.
 
 ### § 2-3. Jernbanevirksomhetene
 
-(1) Jernbanevirksomhetene skal:gjennomføre de nødvendige tiltak for risikohåndtering nevnt i [§ 3-2](forskrift/2021-09-08-2740/§3-2) bokstav a, eventuelt i samarbeid med hverandre og med andre aktører,i sine sikkerhetsstyringssystemer ta hensyn til de risikoene som er forbundet med virksomheten til andre aktører og tredjeparter,eventuelt kontraktsmessig forplikte de andre aktørene som nevnt i annet ledd som kan ha en mulig virkning på sikker drift av jernbanesystemet i EØS, til å gjennomføre tiltak for risikohåndtering, ogsørge for at underleverandører gjennomfører tiltak for risikohåndtering gjennom anvendelse av CSM-ene for overvåking nevnt i § 3-2 bokstav c, og at dette er fastlagt i kontraktsregulerte ordninger som skal framlegges på anmodning fra Byrået eller Statens jernbanetilsyn.
+(1) Jernbanevirksomhetene skal:
 
-(2) Med forbehold for jernbanevirksomhetenes ansvar som nevnt i første ledd, skal ECM og alle andre aktører som har en mulig virkning på sikker drift av jernbanesystemet i EØS, inkludert produsenter, leverandører av vedlikeholdstjenester, innehavere, tjenesteytere, oppdragsgivere, transportører, avsendere, mottakere, laste- og losseforetak:gjennomføre de nødvendige tiltak for risikohåndtering, eventuelt i samarbeid med andre aktører,sørge for at delsystemer, tilbehør, utstyr og tjenester som de leverer eller yter, oppfyller de fastsatte kravene og bruksvilkårene, slik at den aktuelle jernbanevirksomheten på en sikker måte kan bruke dem i driften.
+1. gjennomføre de nødvendige tiltak for risikohåndtering nevnt i [§ 3-2](forskrift/2021-09-08-2740/§3-2) bokstav a, eventuelt i samarbeid med hverandre og med andre aktører,
+2. i sine sikkerhetsstyringssystemer ta hensyn til de risikoene som er forbundet med virksomheten til andre aktører og tredjeparter,
+3. eventuelt kontraktsmessig forplikte de andre aktørene som nevnt i annet ledd som kan ha en mulig virkning på sikker drift av jernbanesystemet i EØS, til å gjennomføre tiltak for risikohåndtering, og
+4. sørge for at underleverandører gjennomfører tiltak for risikohåndtering gjennom anvendelse av CSM-ene for overvåking nevnt i § 3-2 bokstav c, og at dette er fastlagt i kontraktsregulerte ordninger som skal framlegges på anmodning fra Byrået eller Statens jernbanetilsyn.
 
-(3) Jernbanevirksomheter og enhver aktør som er nevnt i annet ledd som finner eller underrettes om en sikkerhetsrisiko i forbindelse med feil og konstruksjonsmessig manglende samsvar eller funksjonssvikt på teknisk utstyr, herunder på strukturelle delsystemer, skal, innenfor grensene for deres respektive myndighetsområder:gjennomføre eventuelle nødvendige korrigerende tiltak for å håndtere den sikkerhetsrisikoen som er funnet,rapportere disse risikoene til de relevante involverte parter for å gjøre dem i stand til å gjennomføre eventuelle nødvendige ytterligere korrigerende tiltak for å sikre at sikkerheten i jernbanesystemet i EØS opprettholdes. Byrået kan utarbeide et verktøy som forenkler informasjonsutvekslingen mellom de relevante aktørene, idet det tas hensyn til de involverte brukernes personvern, resultatene av en nytte- og kostnadsanalyse og IT-applikasjonene og registrene som Byrået allerede har opprettet.
+(2) Med forbehold for jernbanevirksomhetenes ansvar som nevnt i første ledd, skal ECM og alle andre aktører som har en mulig virkning på sikker drift av jernbanesystemet i EØS, inkludert produsenter, leverandører av vedlikeholdstjenester, innehavere, tjenesteytere, oppdragsgivere, transportører, avsendere, mottakere, laste- og losseforetak:
+
+1. gjennomføre de nødvendige tiltak for risikohåndtering, eventuelt i samarbeid med andre aktører,
+2. sørge for at delsystemer, tilbehør, utstyr og tjenester som de leverer eller yter, oppfyller de fastsatte kravene og bruksvilkårene, slik at den aktuelle jernbanevirksomheten på en sikker måte kan bruke dem i driften.
+
+(3) Jernbanevirksomheter og enhver aktør som er nevnt i annet ledd som finner eller underrettes om en sikkerhetsrisiko i forbindelse med feil og konstruksjonsmessig manglende samsvar eller funksjonssvikt på teknisk utstyr, herunder på strukturelle delsystemer, skal, innenfor grensene for deres respektive myndighetsområder:
+
+1. gjennomføre eventuelle nødvendige korrigerende tiltak for å håndtere den sikkerhetsrisikoen som er funnet,
+2. rapportere disse risikoene til de relevante involverte parter for å gjøre dem i stand til å gjennomføre eventuelle nødvendige ytterligere korrigerende tiltak for å sikre at sikkerheten i jernbanesystemet i EØS opprettholdes. Byrået kan utarbeide et verktøy som forenkler informasjonsutvekslingen mellom de relevante aktørene, idet det tas hensyn til de involverte brukernes personvern, resultatene av en nytte- og kostnadsanalyse og IT-applikasjonene og registrene som Byrået allerede har opprettet.
 
 (4) Når det gjelder utveksling av kjøretøyer mellom jernbaneforetakene, skal enhver involvert aktør utveksle all informasjon som er relevant for sikker drift, for eksempel det aktuelle kjøretøyets status og historie, elementer i vedlikeholdsplanene med tanke på sporbarhet, sporbarhet for lasting og fraktbrev mv.
 
@@ -68,7 +114,14 @@ Statens jernbanetilsyn skal:sørge for at alt gjeldende regelverk håndheves på
 
 ### § 3-2. Felles sikkerhetsmetoder (CSM-er)
 
-(1) Felles sikkerhetsmetoder skal beskrive hvordan sikkerhetsnivåer, oppfyllelse av sikkerhetsmål og samsvar med andre sikkerhetskrav skal vurderes ved å utdype og angi:metoder for risikovurdering og -evaluering,metoder for vurdering av samsvar med kravene i sikkerhetssertifikater og sikkerhetstillatelser utstedt i samsvar med [kapittel 5](forskrift/2021-09-08-2740/kap5) og [6](forskrift/2021-09-08-2740/kap6),tilsynsmetoder som skal anvendes av nasjonale sikkerhetsmyndigheter og overvåkingsmetoder som skal anvendes av jernbanevirksomheter og ECM,metoder for vurdering av sikkerhetsnivået og sikkerhetsresultat til jernbanevirksomheter nasjonalt og innen EØS,metoder for vurdering av oppnåelsen av sikkerhetsmål nasjonalt og innen EØS,eventuelle andre metoder som omfatter en prosess i sikkerhetsstyringssystemet som skal harmoniseres innen EØS.
+(1) Felles sikkerhetsmetoder skal beskrive hvordan sikkerhetsnivåer, oppfyllelse av sikkerhetsmål og samsvar med andre sikkerhetskrav skal vurderes ved å utdype og angi:
+
+1. metoder for risikovurdering og -evaluering,
+2. metoder for vurdering av samsvar med kravene i sikkerhetssertifikater og sikkerhetstillatelser utstedt i samsvar med [kapittel 5](forskrift/2021-09-08-2740/kap5) og [6](forskrift/2021-09-08-2740/kap6),
+3. tilsynsmetoder som skal anvendes av nasjonale sikkerhetsmyndigheter og overvåkingsmetoder som skal anvendes av jernbanevirksomheter og ECM,
+4. metoder for vurdering av sikkerhetsnivået og sikkerhetsresultat til jernbanevirksomheter nasjonalt og innen EØS,
+5. metoder for vurdering av oppnåelsen av sikkerhetsmål nasjonalt og innen EØS,
+6. eventuelle andre metoder som omfatter en prosess i sikkerhetsstyringssystemet som skal harmoniseres innen EØS.
 
 (2) Der hvor det er hensiktsmessig kan det benyttes et uavhengig vurderingsorgan til å vurdere samsvar med CSM-ene.
 
@@ -76,7 +129,10 @@ Statens jernbanetilsyn skal:sørge for at alt gjeldende regelverk håndheves på
 
 ### § 3-3. Felles sikkerhetsmål (CST-er)
 
-De felles sikkerhetsmålene (CST-ene) skal fastsette de laveste sikkerhetsnivåene som jernbanesystemet skal oppnå som helhet, og så langt det passer, av de forskjellige delene av jernbanesystemet nasjonalt og innen EØS. CST-ene kan uttrykkes som risikoakseptkriterier eller mål for sikkerhetsnivåer og skal særlig ta hensyn til:individrisikoer for passasjerer, personale, herunder ansatte eller underleverandører, brukere av planoverganger og andre, samt, med forbehold for gjeldende nasjonale og internasjonale ansvarsregler, individrisikoer for uvedkommende,samfunnsrisikoer.
+De felles sikkerhetsmålene (CST-ene) skal fastsette de laveste sikkerhetsnivåene som jernbanesystemet skal oppnå som helhet, og så langt det passer, av de forskjellige delene av jernbanesystemet nasjonalt og innen EØS. CST-ene kan uttrykkes som risikoakseptkriterier eller mål for sikkerhetsnivåer og skal særlig ta hensyn til:
+
+1. individrisikoer for passasjerer, personale, herunder ansatte eller underleverandører, brukere av planoverganger og andre, samt, med forbehold for gjeldende nasjonale og internasjonale ansvarsregler, individrisikoer for uvedkommende,
+2. samfunnsrisikoer.
 
 > Tilføyd ved forskrift [25 mai 2022 nr. 914](forskrift/2022-05-25-914) (i kraft 1 juni 2022).
 
@@ -88,11 +144,32 @@ Alle jernbanevirksomheter skal ha et sikkerhetsstyringssystem. Formålet med sik
 
 ### § 4-2. Krav til dokumentasjon av sikkerhetsstyringssystemet
 
-Alle relevante deler av sikkerhetsstyringssystemet skal dokumenteres og skal:Ha en beskrivelse av ansvarsfordelingen innenfor den enkelte jernbanevirksomhets organisasjon.Vise hvordanledelsen sikrer kontroll på ulike nivåer,personalet og dets representanter på alle nivåer er involvert,den kontinuerlige forbedringen av sikkerhetsstyringssystemet sikres.Inneholde en forpliktelse til konsekvent å anvende kunnskap om menneskelige faktorer og metoder.Fremme en kultur av gjensidig tillit, trygghet og læring der personalet oppmuntres til å bidra til utvikling av sikkerheten, samtidig som det sikres fortrolighet.
+Alle relevante deler av sikkerhetsstyringssystemet skal dokumenteres og skal:
+
+1. Ha en beskrivelse av ansvarsfordelingen innenfor den enkelte jernbanevirksomhets organisasjon.
+2. Vise hvordan
+
+   1. ledelsen sikrer kontroll på ulike nivåer,
+   2. personalet og dets representanter på alle nivåer er involvert,
+   3. den kontinuerlige forbedringen av sikkerhetsstyringssystemet sikres.
+3. Inneholde en forpliktelse til konsekvent å anvende kunnskap om menneskelige faktorer og metoder.
+4. Fremme en kultur av gjensidig tillit, trygghet og læring der personalet oppmuntres til å bidra til utvikling av sikkerheten, samtidig som det sikres fortrolighet.
 
 ### § 4-3. Elementer i sikkerhetsstyringssystemet
 
-(1) Sikkerhetsstyringssystemet skal inneholde følgende grunnleggende elementer:en sikkerhetspolitikk som er godkjent av organisasjonens øverste leder og formidlet til alt personell,organisasjonens kvalitative og kvantitative mål for å opprettholde og fremme sikkerheten, og planer og framgangsmåter for å nå disse målene,bestemmelser for å oppfylle eksisterende, nye og endrede tekniske og driftsmessige standarder og andre bestemmelser som er fastsatt i TSI-er, nasjonale regler nevnt i vedlegg II, og andre relevante myndighetskrav,bestemmelser for å sikre at utstyr og operativ virksomhet er i samsvar med standarder og andre forutsetninger i hele utstyrets levetid,framgangsmåter og metoder for risikovurdering og gjennomføring av tiltak for risikohåndtering hver gang en endring i driftsvilkårene eller innføring av nytt materiell fører til nye risikoer for infrastrukturen eller samspillet menneske-maskin-organisasjon,opplæringsprogrammer for personalet og systemer for å sikre at personalets kompetanse vedlikeholdes samt at oppgavene utføres i samsvar med dette, inkludert tiltak med hensyn til fysisk og psykisk skikkethet,plan for å sikre tilstrekkelig informasjonsflyt i organisasjonen og om nødvendig mellom organisasjonene i jernbanesystemet,framgangsmåter og formater for hvordan sikkerhetsopplysninger skal dokumenteres, og fastsettelse av framgangsmåter for kontroll med utformingen av viktige sikkerhetsopplysninger,framgangsmåter som sikrer at jernbaneulykker, alvorlige jernbanehendelser, og jernbanehendelser rapporteres, undersøkes og analyseres, og at nødvendige forebyggende tiltak treffes,planer for tiltak, varsling og informasjon i nødssituasjoner utarbeidet i samråd med relevante offentlige etater, ogbestemmelser om regelmessig intern revisjon av sikkerhetsstyringssystemet.
+(1) Sikkerhetsstyringssystemet skal inneholde følgende grunnleggende elementer:
+
+1. en sikkerhetspolitikk som er godkjent av organisasjonens øverste leder og formidlet til alt personell,
+2. organisasjonens kvalitative og kvantitative mål for å opprettholde og fremme sikkerheten, og planer og framgangsmåter for å nå disse målene,
+3. bestemmelser for å oppfylle eksisterende, nye og endrede tekniske og driftsmessige standarder og andre bestemmelser som er fastsatt i TSI-er, nasjonale regler nevnt i vedlegg II, og andre relevante myndighetskrav,
+4. bestemmelser for å sikre at utstyr og operativ virksomhet er i samsvar med standarder og andre forutsetninger i hele utstyrets levetid,
+5. framgangsmåter og metoder for risikovurdering og gjennomføring av tiltak for risikohåndtering hver gang en endring i driftsvilkårene eller innføring av nytt materiell fører til nye risikoer for infrastrukturen eller samspillet menneske-maskin-organisasjon,
+6. opplæringsprogrammer for personalet og systemer for å sikre at personalets kompetanse vedlikeholdes samt at oppgavene utføres i samsvar med dette, inkludert tiltak med hensyn til fysisk og psykisk skikkethet,
+7. plan for å sikre tilstrekkelig informasjonsflyt i organisasjonen og om nødvendig mellom organisasjonene i jernbanesystemet,
+8. framgangsmåter og formater for hvordan sikkerhetsopplysninger skal dokumenteres, og fastsettelse av framgangsmåter for kontroll med utformingen av viktige sikkerhetsopplysninger,
+9. framgangsmåter som sikrer at jernbaneulykker, alvorlige jernbanehendelser, og jernbanehendelser rapporteres, undersøkes og analyseres, og at nødvendige forebyggende tiltak treffes,
+10. planer for tiltak, varsling og informasjon i nødssituasjoner utarbeidet i samråd med relevante offentlige etater, og
+11. bestemmelser om regelmessig intern revisjon av sikkerhetsstyringssystemet.
 
 (2) Jernbanevirksomheter skal ta med alle andre elementer som er nødvendige for å dekke sikkerhetsrisikoene, i samsvar med risikovurderinger av egen virksomhet.
 
@@ -124,7 +201,13 @@ Etter en jernbaneulykke skal jernbaneforetaket gi bistand til ofrene ved å hjel
 
 ### § 4-8. Årlig sikkerhetsrapport
 
-Før 31. mai hvert år skal jernbanevirksomhetene oversende en sikkerhetsrapport for foregående kalenderår til Statens jernbanetilsyn. Sikkerhetsrapporten skal inneholde følgende:opplysninger om hvordan jernbanevirksomheten har oppfylt egne sikkerhetsmål samt resultatene av sikkerhetsplanene,en rapport om utviklingen av nasjonale sikkerhetsindikatorer og av CSI-ene nevnt i § 3-1, i den grad det er relevant for virksomheten,resultatene av interne sikkerhetsrevisjoner,merknader om mangler og funksjonssvikt ved jernbanevirksomheten som kan være av betydning for Statens jernbanetilsyn, inkludert en oversikt over opplysningene fra de relevante aktørene i samsvar med § 2-3 tredje ledd bokstav b, ogen rapport om anvendelsen av de relevante CSM-ene.
+Før 31. mai hvert år skal jernbanevirksomhetene oversende en sikkerhetsrapport for foregående kalenderår til Statens jernbanetilsyn. Sikkerhetsrapporten skal inneholde følgende:
+
+1. opplysninger om hvordan jernbanevirksomheten har oppfylt egne sikkerhetsmål samt resultatene av sikkerhetsplanene,
+2. en rapport om utviklingen av nasjonale sikkerhetsindikatorer og av CSI-ene nevnt i § 3-1, i den grad det er relevant for virksomheten,
+3. resultatene av interne sikkerhetsrevisjoner,
+4. merknader om mangler og funksjonssvikt ved jernbanevirksomheten som kan være av betydning for Statens jernbanetilsyn, inkludert en oversikt over opplysningene fra de relevante aktørene i samsvar med § 2-3 tredje ledd bokstav b, og
+5. en rapport om anvendelsen av de relevante CSM-ene.
 
 ## Kapittel 5. Felles sikkerhetssertifikat
 
@@ -136,7 +219,10 @@ Før 31. mai hvert år skal jernbanevirksomhetene oversende en sikkerhetsrapport
 
 (3) I søknaden om et felles sikkerhetssertifikat skal jernbaneforetaket angi arten og omfanget av jernbanedriften.
 
-(4) Søknaden skal inneholde underlagsdokumenter som viser atjernbaneforetaket har innført et sikkerhetsstyringssystem i samsvar med [kapittel 4](forskrift/2021-09-08-2740/kap4), og at det oppfyller kravene fastsatt i TSI-er, CSM-er og CST-er og i annet relevant regelverk når det gjelder risikohåndtering og sikker ytelse av transporttjenester på jernbanenettet, og atjernbaneforetaket oppfyller kravene fastsatt i relevante nasjonale regler.
+(4) Søknaden skal inneholde underlagsdokumenter som viser at
+
+1. jernbaneforetaket har innført et sikkerhetsstyringssystem i samsvar med [kapittel 4](forskrift/2021-09-08-2740/kap4), og at det oppfyller kravene fastsatt i TSI-er, CSM-er og CST-er og i annet relevant regelverk når det gjelder risikohåndtering og sikker ytelse av transporttjenester på jernbanenettet, og at
+2. jernbaneforetaket oppfyller kravene fastsatt i relevante nasjonale regler.
 
 (5) All kommunikasjon og saksbehandling knyttet til søknaden skal oversendes gjennom One-stop shop.
 
@@ -144,7 +230,10 @@ Før 31. mai hvert år skal jernbanevirksomhetene oversende en sikkerhetsrapport
 
 (1) Byrået, eller Statens jernbanetilsyn i tilfellene fastsatt i [§ 5-4](forskrift/2021-09-08-2740/§5-4), utsteder felles sikkerhetssertifikat eller underretter søkeren om sin negative beslutning innen en rimelig frist som er fastsatt på forhånd. Det skal uansett ikke gå mer enn fire måneder etter at søkeren har fremlagt alle nødvendige opplysninger og eventuell annen etterspurt informasjon har blitt sendt inn. Byrået, eller i tilfellene fastsatt i § 5-4 Statens jernbanetilsyn, skal anvende de praktiske ordningene i sertifiseringsprosessen som fastsatt i forordning [(EU) 2018/763](eu/32018r0763).
 
-(2) Byrået utsteder et felles sikkerhetssertifikat til jernbaneforetak som har drift i én eller flere EØS-stater. For å kunne utstede et slikt sertifikat, skal Byrået:vurdere elementene angitt i § 5-1 fjerde ledd bokstav a, ogumiddelbart oversende jernbaneforetakets søknad i sin helhet til de nasjonale sikkerhetsmyndighetene som berøres av den tiltenkte driften for en vurdering av de nasjonale kravene som er angitt i § 5-1 fjerde ledd bokstav b.
+(2) Byrået utsteder et felles sikkerhetssertifikat til jernbaneforetak som har drift i én eller flere EØS-stater. For å kunne utstede et slikt sertifikat, skal Byrået:
+
+1. vurdere elementene angitt i § 5-1 fjerde ledd bokstav a, og
+2. umiddelbart oversende jernbaneforetakets søknad i sin helhet til de nasjonale sikkerhetsmyndighetene som berøres av den tiltenkte driften for en vurdering av de nasjonale kravene som er angitt i § 5-1 fjerde ledd bokstav b.
 
 (3) Som en del av saksbehandlingen kan Byrået eller Statens jernbanetilsyn foreta besøk og inspeksjoner på jernbaneforetakets driftssteder, samt foreta revisjoner. De kan også be om relevante utfyllende opplysninger. Byrået og Statens jernbanetilsyn skal samordne slike besøk, revisjoner og inspeksjoner.
 
@@ -234,11 +323,21 @@ Før et kjøretøy blir benyttet på jernbanenettet, skal det være utpekt en en
 
 ### § 7-2. Krav til ECM
 
-Uten at det berører jernbanevirksomhetens ansvar for sikker drift som fastsatt i [kapittel 2](forskrift/2021-09-08-2740/kap2), skal ECM sikre at kjøretøyene den er ansvarlig for vedlikehold av, har en sikker driftstilstand. For dette formålet skal ECM innføre et vedlikeholdssystem for disse kjøretøyene, og skal ved hjelp av dette systemet:sikre at kjøretøyene vedlikeholdes i samsvar med vedlikeholdsplanen for hvert kjøretøy og gjeldende krav, herunder vedlikeholdsregler og relevante TSI-bestemmelser,implementere de nødvendige metodene for risikoevaluering og -vurdering fastsatt i CSM-ene som nevnt i § 3-2 første ledd bokstav a, eventuelt i samarbeid med andre aktører,sikre at underleverandører implementerer tiltak for risikohåndtering gjennom anvendelse av CSM-en for overvåking nevnt i § 3-2 første ledd bokstav c, og at dette er fastlagt i kontraktsregulerte ordninger som skal framlegges på anmodning fra Byrået eller Statens jernbanetilsyn, ogsikre vedlikeholdsarbeidets sporbarhet.
+Uten at det berører jernbanevirksomhetens ansvar for sikker drift som fastsatt i [kapittel 2](forskrift/2021-09-08-2740/kap2), skal ECM sikre at kjøretøyene den er ansvarlig for vedlikehold av, har en sikker driftstilstand. For dette formålet skal ECM innføre et vedlikeholdssystem for disse kjøretøyene, og skal ved hjelp av dette systemet:
+
+1. sikre at kjøretøyene vedlikeholdes i samsvar med vedlikeholdsplanen for hvert kjøretøy og gjeldende krav, herunder vedlikeholdsregler og relevante TSI-bestemmelser,
+2. implementere de nødvendige metodene for risikoevaluering og -vurdering fastsatt i CSM-ene som nevnt i § 3-2 første ledd bokstav a, eventuelt i samarbeid med andre aktører,
+3. sikre at underleverandører implementerer tiltak for risikohåndtering gjennom anvendelse av CSM-en for overvåking nevnt i § 3-2 første ledd bokstav c, og at dette er fastlagt i kontraktsregulerte ordninger som skal framlegges på anmodning fra Byrået eller Statens jernbanetilsyn, og
+4. sikre vedlikeholdsarbeidets sporbarhet.
 
 ### § 7-3. Krav til vedlikeholdssystem
 
-(1) Vedlikeholdssystemet skal bestå av følgende:en ledelsesfunksjon som overvåker og koordinerer vedlikeholdsfunksjonene nevnt i bokstav b–d og sikrer at kjøretøyet er i sikker driftstilstand i jernbanesystemet,funksjon for utvikling av vedlikehold, som er ansvarlig for å styre vedlikeholdsdokumentasjonen, herunder konfigurasjonsstyringen, på grunnlag av opplysninger om data fra design og drift, samt ytelse og erfaring fra drift,funksjon for styring av flåtevedlikehold, som styrer når kjøretøyet skal tas ut av bruk for vedlikehold, og når den skal gjeninnsettes i bruk etter vedlikehold,funksjon for leveranse av nødvendig teknisk vedlikehold av et kjøretøy eller deler av det, inkludert dokumentasjon for frigivelse til bruk.
+(1) Vedlikeholdssystemet skal bestå av følgende:
+
+1. en ledelsesfunksjon som overvåker og koordinerer vedlikeholdsfunksjonene nevnt i bokstav b–d og sikrer at kjøretøyet er i sikker driftstilstand i jernbanesystemet,
+2. funksjon for utvikling av vedlikehold, som er ansvarlig for å styre vedlikeholdsdokumentasjonen, herunder konfigurasjonsstyringen, på grunnlag av opplysninger om data fra design og drift, samt ytelse og erfaring fra drift,
+3. funksjon for styring av flåtevedlikehold, som styrer når kjøretøyet skal tas ut av bruk for vedlikehold, og når den skal gjeninnsettes i bruk etter vedlikehold,
+4. funksjon for leveranse av nødvendig teknisk vedlikehold av et kjøretøy eller deler av det, inkludert dokumentasjon for frigivelse til bruk.
 
 (2) ECM skal selv utføre ledelsesfunksjonen, men kan sette ut vedlikeholdsfunksjonene nevnt i bokstav b–d, eller deler av dem, til andre avtaleparter, for eksempel vedlikeholdsverksteder.
 
@@ -248,7 +347,12 @@ Uten at det berører jernbanevirksomhetens ansvar for sikker drift som fastsatt 
 
 ### § 7-4. Sertifisering av ECM
 
-(1) ECM skal sertifiseres. Hver ECM sertifiseres og tildeles et ECM-sertifikat av et akkreditert organ i samsvar med følgende krav:akkrediterings- og godkjenningsdelen av sertifiseringsprosessen skal bygge på kriterier om uavhengighet, kompetanse og upartiskhet,sertifiseringssystemet skal dokumentere at en ECM har innført vedlikeholdssystem med sikte på å sikre at ethvert kjøretøy som den er ansvarlig for vedlikeholdet av, har en sikker driftstilstand,ECM-sertifiseringen skal bygge på en vurdering av ECM sin evne til å oppfylle de relevante kravene og vurderingskriteriene angitt i vedlegg III, og til å anvende dem på en konsistent måte. Den skal omfatte et tilsynssystem for å sikre fortsatt oppfyllelse av disse kravene og vurderingskriteriene etter at ECM-sertifikatet er tildelt,sertifiseringen av vedlikeholdsverksteder skal bygge på overensstemmelse med de relevante kravene i vedlegg III som anvendes på tilsvarende funksjoner og aktiviteter som skal sertifiseres.
+(1) ECM skal sertifiseres. Hver ECM sertifiseres og tildeles et ECM-sertifikat av et akkreditert organ i samsvar med følgende krav:
+
+1. akkrediterings- og godkjenningsdelen av sertifiseringsprosessen skal bygge på kriterier om uavhengighet, kompetanse og upartiskhet,
+2. sertifiseringssystemet skal dokumentere at en ECM har innført vedlikeholdssystem med sikte på å sikre at ethvert kjøretøy som den er ansvarlig for vedlikeholdet av, har en sikker driftstilstand,
+3. ECM-sertifiseringen skal bygge på en vurdering av ECM sin evne til å oppfylle de relevante kravene og vurderingskriteriene angitt i vedlegg III, og til å anvende dem på en konsistent måte. Den skal omfatte et tilsynssystem for å sikre fortsatt oppfyllelse av disse kravene og vurderingskriteriene etter at ECM-sertifikatet er tildelt,
+4. sertifiseringen av vedlikeholdsverksteder skal bygge på overensstemmelse med de relevante kravene i vedlegg III som anvendes på tilsvarende funksjoner og aktiviteter som skal sertifiseres.
 
 (2) Dersom ECM er en jernbanevirksomhet, kan oppfyllelsen av de kravene som er angitt i første ledd kontrolleres av Statens jernbanetilsyn etter framgangsmåtene som er nevnt i kapittel 5 eller 6, og kan bekreftes på de sertifikatene som utstedes etter disse framgangsmåtene.
 
@@ -256,9 +360,17 @@ Uten at det berører jernbanevirksomhetens ansvar for sikker drift som fastsatt 
 
 ### § 7-5. Unntak fra systemet for sertifisering av ECM
 
-(1) Statens jernbanetilsyn kan i følgende tilfeller anvende andre tiltak for å oppfylle forpliktelsen om å identifisere ECM enn det som følger av § 7-1 til § 7-5:kjøretøy som er registrert i en tredjestat og vedlikeholdes i samsvar med lovgivningen i vedkommende stat,kjøretøy som brukes på jernbanenett eller -linjer hvis sporvidde er forskjellig fra sporvidden til hovedjernbanenettet i EØS, og der oppfyllelsen av kravene fastsatt i § 7-2 sikres ved internasjonale avtaler med tredjestater,godsvogner og passasjervogner som er i felles bruk med tredjestater hvis sporvidde er forskjellig fra sporvidden til hovedjernbanenettet i EØS,kjøretøy som brukes til spesialtransport og transport av militært utstyr som krever en ad hoc-tillatelse fra Statens jernbanetilsyn som må foreligge før de tas i bruk. I dette tilfellet skal det gis unntak for tidsrom på høyst fem år.
+(1) Statens jernbanetilsyn kan i følgende tilfeller anvende andre tiltak for å oppfylle forpliktelsen om å identifisere ECM enn det som følger av § 7-1 til § 7-5:
 
-(2) De alternative tiltakene nevnt i første ledd, skal gjennomføres gjennom unntak som gis av Statens jernbanetilsyn ved:registrering av kjøretøy i samsvar med [samtrafikkforskriften](forskrift/2021-09-09-2742) når det gjelder identifiseringen av ECM,utstedelse av felles sikkerhetssertifikater og sikkerhetstillatelser til jernbanevirksomheter i samsvar med kapittel 5 og 7 i denne forskrift, når det gjelder identifisering eller sertifisering av ECM.
+1. kjøretøy som er registrert i en tredjestat og vedlikeholdes i samsvar med lovgivningen i vedkommende stat,
+2. kjøretøy som brukes på jernbanenett eller -linjer hvis sporvidde er forskjellig fra sporvidden til hovedjernbanenettet i EØS, og der oppfyllelsen av kravene fastsatt i § 7-2 sikres ved internasjonale avtaler med tredjestater,
+3. godsvogner og passasjervogner som er i felles bruk med tredjestater hvis sporvidde er forskjellig fra sporvidden til hovedjernbanenettet i EØS,
+4. kjøretøy som brukes til spesialtransport og transport av militært utstyr som krever en ad hoc-tillatelse fra Statens jernbanetilsyn som må foreligge før de tas i bruk. I dette tilfellet skal det gis unntak for tidsrom på høyst fem år.
+
+(2) De alternative tiltakene nevnt i første ledd, skal gjennomføres gjennom unntak som gis av Statens jernbanetilsyn ved:
+
+1. registrering av kjøretøy i samsvar med [samtrafikkforskriften](forskrift/2021-09-09-2742) når det gjelder identifiseringen av ECM,
+2. utstedelse av felles sikkerhetssertifikater og sikkerhetstillatelser til jernbanevirksomheter i samsvar med kapittel 5 og 7 i denne forskrift, når det gjelder identifisering eller sertifisering av ECM.
 
 (3) Unntak skal identifiseres og begrunnes i den årlige rapporten nevnt i [kapittel 11](forskrift/2021-09-08-2740/kap11).
 
@@ -266,7 +378,20 @@ Uten at det berører jernbanevirksomhetens ansvar for sikker drift som fastsatt 
 
 ### § 8-1. Statens jernbanetilsyns oppgaver
 
-(1) Statens jernbanetilsyn skal minst ha ansvaret for følgende oppgaver:utstede tillatelse til å ta i bruk delsystemene «Styring, kontroll og signal langs sporet», «Energi» og «Infrastruktur» som inngår i jernbanesystemet i EØS i samsvar med artikkel 18 nr. 2 i direktiv [(EU) 2016/797](eu/32016l0797),utstedelse, fornyelse, endring og tilbakekalling av tillatelser til å bringe kjøretøy i omsetning i samsvar med artikkel 21 nr. 8 i direktiv [(EU) 2016/797](eu/32016l0797),støtte Byrået i utstedelse, fornyelse, endring og tilbakekalling av tillatelser til å bringe kjøretøy i omsetning i samsvar med artikkel 21 nr. 5 i direktiv [(EU) 2016/797](eu/32016l0797) og typetillatelser for kjøretøy i samsvar med artikkel 24 i direktiv [(EU) 2016/797](eu/32016l0797),på sitt territorium føre tilsyn med at samtrafikkomponentene oppfyller de grunnleggende kravene i samsvar med artikkel 8 i direktiv [(EU) 2016/797](eu/32016l0797),sikre at det er tildelt et kjøretøynummer i samsvar med artikkel 46 i direktiv [(EU) 2016/797](eu/32016l0797), med forbehold for artikkel 47 nr. 4 i nevnte direktiv,støtte Byrået i utstedelse, fornyelse, endring og tilbakekalling av felles sikkerhetssertifikater som er utstedt i samsvar med [§ 5-2](forskrift/2021-09-08-2740/§5-2) annet ledd,utstede, fornye, endre og tilbakekalle felles sikkerhetssertifikater som er utstedt i samsvar med [§ 5-4](forskrift/2021-09-08-2740/§5-4),utstede, fornye, endre og tilbakekalle sikkerhetstillatelser som er gitt i samsvar med kapittel 6,overvåke, fremme og eventuelt håndheve og oppdatere rammereglene for sikkerhet, herunder systemet med nasjonale regler,føre tilsyn med jernbanevirksomheter i samsvar med [kapittel 9](forskrift/2021-09-08-2740/kap9),dersom relevant, og i samsvar med nasjonal lovgivning, utstede, fornye, endre og tilbakekalle førerbeviser i samsvar med direktiv [2007/59/EF](eu/32007l0059),dersom relevant, og i samsvar med nasjonal lovgivning, utstede, fornye, endre og tilbakekalle sertifikater som er utstedt til enheter ansvarlige for vedlikehold.
+(1) Statens jernbanetilsyn skal minst ha ansvaret for følgende oppgaver:
+
+1. utstede tillatelse til å ta i bruk delsystemene «Styring, kontroll og signal langs sporet», «Energi» og «Infrastruktur» som inngår i jernbanesystemet i EØS i samsvar med artikkel 18 nr. 2 i direktiv [(EU) 2016/797](eu/32016l0797),
+2. utstedelse, fornyelse, endring og tilbakekalling av tillatelser til å bringe kjøretøy i omsetning i samsvar med artikkel 21 nr. 8 i direktiv [(EU) 2016/797](eu/32016l0797),
+3. støtte Byrået i utstedelse, fornyelse, endring og tilbakekalling av tillatelser til å bringe kjøretøy i omsetning i samsvar med artikkel 21 nr. 5 i direktiv [(EU) 2016/797](eu/32016l0797) og typetillatelser for kjøretøy i samsvar med artikkel 24 i direktiv [(EU) 2016/797](eu/32016l0797),
+4. på sitt territorium føre tilsyn med at samtrafikkomponentene oppfyller de grunnleggende kravene i samsvar med artikkel 8 i direktiv [(EU) 2016/797](eu/32016l0797),
+5. sikre at det er tildelt et kjøretøynummer i samsvar med artikkel 46 i direktiv [(EU) 2016/797](eu/32016l0797), med forbehold for artikkel 47 nr. 4 i nevnte direktiv,
+6. støtte Byrået i utstedelse, fornyelse, endring og tilbakekalling av felles sikkerhetssertifikater som er utstedt i samsvar med [§ 5-2](forskrift/2021-09-08-2740/§5-2) annet ledd,
+7. utstede, fornye, endre og tilbakekalle felles sikkerhetssertifikater som er utstedt i samsvar med [§ 5-4](forskrift/2021-09-08-2740/§5-4),
+8. utstede, fornye, endre og tilbakekalle sikkerhetstillatelser som er gitt i samsvar med kapittel 6,
+9. overvåke, fremme og eventuelt håndheve og oppdatere rammereglene for sikkerhet, herunder systemet med nasjonale regler,
+10. føre tilsyn med jernbanevirksomheter i samsvar med [kapittel 9](forskrift/2021-09-08-2740/kap9),
+11. dersom relevant, og i samsvar med nasjonal lovgivning, utstede, fornye, endre og tilbakekalle førerbeviser i samsvar med direktiv [2007/59/EF](eu/32007l0059),
+12. dersom relevant, og i samsvar med nasjonal lovgivning, utstede, fornye, endre og tilbakekalle sertifikater som er utstedt til enheter ansvarlige for vedlikehold.
 
 (2) Oppgavene nevnt i første ledd, kan ikke overføres til jernbanevirksomheter eller oppdragsgivere eller utføres av disse som kontraktsoppdrag.
 
@@ -276,7 +401,11 @@ Uten at det berører jernbanevirksomhetens ansvar for sikker drift som fastsatt 
 
 (1) Statens jernbanetilsyn skal føre tilsyn med om jernbanevirksomhetene har et sikkerhetsstyringssystem som er i samsvar med kravene i [kapittel 5](forskrift/2021-09-08-2740/kap5), og at sikkerhetsstyringssystemet etterleves.
 
-(2) Statens jernbanetilsyn skal anvende prinsippene i CSM-ene nevnt i [§ 3-2](forskrift/2021-09-08-2740/§3-2) første ledd bokstav c, og i sin tilsynsvirksomhet særlig påse at jernbanevirksomhetene:overvåker sikkerhetsstyringssystemets hensiktsmessighet,overvåker elementene i sikkerhetsstyringssystemet, inkludert drift, leveranse av vedlikeholdstjenester og materiell, og bruken av leverandører for å overvåke sikkerhetsstyringssystemets hensiktsmessighet, ogbruker de relevante CSM-ene som nevnt i [§ 3-2](forskrift/2021-09-08-2740/§3-2). Tilsynsaktiviteten knyttet til dette punktet gjelder også ECM dersom det er hensiktsmessig.
+(2) Statens jernbanetilsyn skal anvende prinsippene i CSM-ene nevnt i [§ 3-2](forskrift/2021-09-08-2740/§3-2) første ledd bokstav c, og i sin tilsynsvirksomhet særlig påse at jernbanevirksomhetene:
+
+1. overvåker sikkerhetsstyringssystemets hensiktsmessighet,
+2. overvåker elementene i sikkerhetsstyringssystemet, inkludert drift, leveranse av vedlikeholdstjenester og materiell, og bruken av leverandører for å overvåke sikkerhetsstyringssystemets hensiktsmessighet, og
+3. bruker de relevante CSM-ene som nevnt i [§ 3-2](forskrift/2021-09-08-2740/§3-2). Tilsynsaktiviteten knyttet til dette punktet gjelder også ECM dersom det er hensiktsmessig.
 
 ### § 9-2. Jernbaneforetakets plikt til å underrette
 
@@ -310,7 +439,10 @@ Uten at det berører jernbanevirksomhetens ansvar for sikker drift som fastsatt 
 
 (1) Statens jernbanetilsyn skal føre tilsyn med delsystemene «Styring, kontroll og signal langs sporet», «Energi» og «Infrastruktur», og sikre at de oppfyller de grunnleggende kravene. Når det gjelder grensekryssende infrastruktur skal tilsynet utføres i samarbeid med andre relevante nasjonale sikkerhetsmyndigheter. Dersom Statens jernbanetilsyn fastslår at en infrastrukturforvalter ikke lenger oppfyller vilkårene for sin sikkerhetstillatelse, skal tilsynet begrense eller tilbakekalle sikkerhetstillatelsen. Beslutningen skal begrunnes.
 
-(2) Når Statens jernbanetilsyn fører tilsyn med hensiktsmessigheten av jernbanevirksomhetenes sikkerhetsstyringssystemer kan de, når aktiviteten virker inn på jernbanesikkerheten, ta hensyn tilsikkerhetsbidragene fra aktørene nevnt i [§ 2-3](forskrift/2021-09-08-2740/§2-3) annet leddsikkerhetsbidragene fra opplæringssentrene nevnt i [forskrift 27. november 2009 nr. 1414 om sertifisering av førere av trekkraftkjøretøy på det nasjonale jernbanenettet](forskrift/2009-11-27-1414) der det er relevant
+(2) Når Statens jernbanetilsyn fører tilsyn med hensiktsmessigheten av jernbanevirksomhetenes sikkerhetsstyringssystemer kan de, når aktiviteten virker inn på jernbanesikkerheten, ta hensyn til
+
+1. sikkerhetsbidragene fra aktørene nevnt i [§ 2-3](forskrift/2021-09-08-2740/§2-3) annet ledd
+2. sikkerhetsbidragene fra opplæringssentrene nevnt i [forskrift 27. november 2009 nr. 1414 om sertifisering av førere av trekkraftkjøretøy på det nasjonale jernbanenettet](forskrift/2009-11-27-1414) der det er relevant
 
 (3) Denne bestemmelsen gjelder uten at det berører jernbanevirksomhetenes ansvar som nevnt i § 2-3 første ledd.
 
@@ -356,7 +488,14 @@ De nasjonale sikkerhetsmyndighetene skal utveksle synspunkter og erfaringer, sæ
 
 ### § 11-1. Årsrapport fra Statens jernbanetilsyn
 
-Statens jernbanetilsyn offentliggjør årlig en rapport om sin virksomhet fra året før og sender den til Byrået innen 30. september. Rapporten skal inneholde opplysninger om:utviklingen av jernbanesikkerheten, inkludert en status på nasjonalt plan for CSI-ene i samsvar med § 3-1 første ledd,viktige endringer i lover og forskrifter knyttet til jernbanesikkerhet,utviklingen med hensyn til sikkerhetssertifisering og sikkerhetstillatelser,resultater og erfaringer fra tilsynet med jernbanevirksomheter, inkludert antall inspeksjoner og revisjoner og utfall av disse,unntakene som er besluttet i samsvar med § 7-6, ogjernbanevirksomhetenes erfaring med anvendelsen av de relevante CSM-ene.
+Statens jernbanetilsyn offentliggjør årlig en rapport om sin virksomhet fra året før og sender den til Byrået innen 30. september. Rapporten skal inneholde opplysninger om:
+
+1. utviklingen av jernbanesikkerheten, inkludert en status på nasjonalt plan for CSI-ene i samsvar med § 3-1 første ledd,
+2. viktige endringer i lover og forskrifter knyttet til jernbanesikkerhet,
+3. utviklingen med hensyn til sikkerhetssertifisering og sikkerhetstillatelser,
+4. resultater og erfaringer fra tilsynet med jernbanevirksomheter, inkludert antall inspeksjoner og revisjoner og utfall av disse,
+5. unntakene som er besluttet i samsvar med § 7-6, og
+6. jernbanevirksomhetenes erfaring med anvendelsen av de relevante CSM-ene.
 
 ## Kapittel 12. Overgangsbestemmelser og ikrafttredelse
 
@@ -382,17 +521,35 @@ Felles definisjoner av de felles sikkerhetsindikatorene og felles metoder for be
 
 1.1.
 
-Samlet og relativt (i forhold til togkilometer) antall alvorlige ulykker og fordeling på følgende ulykkestyper:kollisjon mellom tog og jernbanekjøretøy,kollisjon mellom tog og hindring i frittromsprofilen,togavsporing,ulykker på planoverganger, herunder ulykker der fotgjengere er innblandet, og en ytterlige fordeling for de fem planovergangstypene definert i nr. 6.2,personulykker forårsaket av rullende materiell i bevegelse, unntatt selvmord og selvmordsforsøk,brann i rullende materiell,annet.
+Samlet og relativt (i forhold til togkilometer) antall alvorlige ulykker og fordeling på følgende ulykkestyper:
+
+- kollisjon mellom tog og jernbanekjøretøy,
+- kollisjon mellom tog og hindring i frittromsprofilen,
+- togavsporing,
+- ulykker på planoverganger, herunder ulykker der fotgjengere er innblandet, og en ytterlige fordeling for de fem planovergangstypene definert i nr. 6.2,
+- personulykker forårsaket av rullende materiell i bevegelse, unntatt selvmord og selvmordsforsøk,
+- brann i rullende materiell,
+- annet.
 
 Enhver alvorlig ulykke skal rapporteres under den primære ulykkestypen, også selv om følgene av den sekundære ulykken er mer alvorlige (f.eks. avsporing etterfulgt av brann).
 
 1.2.
 
-Samlet og relativt (per togkilometer) antall alvorlig skadede eller omkomne personer etter ulykkestype, inndelt i følgende personkategorier:passasjerer (også i forhold til samlet antall passasjerkilometer og passasjertogkilometer),ansatt eller entreprenør,bruker av planovergang,uvedkommende,annen person som befinner seg på en perrong,annen person som ikke befinner seg på en perrong.
+Samlet og relativt (per togkilometer) antall alvorlig skadede eller omkomne personer etter ulykkestype, inndelt i følgende personkategorier:
+
+- passasjerer (også i forhold til samlet antall passasjerkilometer og passasjertogkilometer),
+- ansatt eller entreprenør,
+- bruker av planovergang,
+- uvedkommende,
+- annen person som befinner seg på en perrong,
+- annen person som ikke befinner seg på en perrong.
 
 2.*Indikatorer knyttet til farlig gods*
 
-Samlet og relativt (i forhold til togkilometer) antall ulykker i forbindelse med transport av farlig gods med jernbane, inndelt i følgende kategorier:ulykker der minst ett jernbanekjøretøy som transporterer farlig gods, som definert i tillegget, er innblandet,antall slike ulykker med utslipp av farlig gods.
+Samlet og relativt (i forhold til togkilometer) antall ulykker i forbindelse med transport av farlig gods med jernbane, inndelt i følgende kategorier:
+
+- ulykker der minst ett jernbanekjøretøy som transporterer farlig gods, som definert i tillegget, er innblandet,
+- antall slike ulykker med utslipp av farlig gods.
 
 3.*Indikatorer knyttet til selvmord*
 
@@ -400,13 +557,26 @@ Samlet og relativt (i forhold til togkilometer) antall selvmord og selvmordsfors
 
 4.*Indikatorer knyttet til tilløp til ulykker*
 
-Samlet og relativt (i forhold til togkilometer) antall tilløp til ulykker og fordeling på følgende typer tilløp til ulykker:skinnebrudd,solslyng og andre sporgeometriske feil,signalfeil,passering av stoppsignal med påfølgende passering av et farepunkt,passering av stoppsignal uten påfølgende passering av et farepunkt,hjulbrudd på rullende materiell i trafikk,akselbrudd på rullende materiell i trafikk.
+Samlet og relativt (i forhold til togkilometer) antall tilløp til ulykker og fordeling på følgende typer tilløp til ulykker:
+
+- skinnebrudd,
+- solslyng og andre sporgeometriske feil,
+- signalfeil,
+- passering av stoppsignal med påfølgende passering av et farepunkt,
+- passering av stoppsignal uten påfølgende passering av et farepunkt,
+- hjulbrudd på rullende materiell i trafikk,
+- akselbrudd på rullende materiell i trafikk.
 
 Alle tilløp skal rapporteres, både de som fører til ulykker og de som ikke gjør det. (Et tilløp som fører til en alvorlig ulykke skal også rapporteres under indikatorer knyttet til tilløp; et tilløp som ikke fører til en alvorlig ulykke skal bare rapporteres under indikatorer knyttet til tilløp).
 
 5.*Indikatorer for beregning av økonomiske konsekvenser av ulykker*
 
-Samlet og relativ (i forhold til togkilometer) kostnad i euro:antall dødsfall og alvorlige skader multiplisert med verdien av å forebygge et dødsfall eller en alvorlig skade,kostnad ved miljøskader,kostnad ved materiell skade på rullende materiell eller infrastruktur,kostnad ved forsinkelser som følge av ulykker.
+Samlet og relativ (i forhold til togkilometer) kostnad i euro:
+
+- antall dødsfall og alvorlige skader multiplisert med verdien av å forebygge et dødsfall eller en alvorlig skade,
+- kostnad ved miljøskader,
+- kostnad ved materiell skade på rullende materiell eller infrastruktur,
+- kostnad ved forsinkelser som følge av ulykker.
 
 De nasjonale sikkerhetsmyndighetene skal rapportere de økonomiske konsekvensene av alvorlige ulykker.
 
@@ -416,11 +586,24 @@ Verdien av å forebygge et dødsfall eller en alvorlig skade er den verdien samf
 
 6.1.
 
-Prosentandel spor med automatisk togkontroll i drift, og prosentandelen togkilometer med systemer for automatisk togkontroll om bord på toget, der disse systemene omfatter:varsling,varsling og automatisk stopp,varsling og automatisk stopp og punktvis hastighetsovervåking,varsling og automatisk stopp og kontinuerlig hastighetsovervåking.
+Prosentandel spor med automatisk togkontroll i drift, og prosentandelen togkilometer med systemer for automatisk togkontroll om bord på toget, der disse systemene omfatter:
+
+- varsling,
+- varsling og automatisk stopp,
+- varsling og automatisk stopp og punktvis hastighetsovervåking,
+- varsling og automatisk stopp og kontinuerlig hastighetsovervåking.
 
 6.2.
 
-Antall planoverganger (samlet, per linjekilometer og sporkilometer) etter følgende fem typer:planoverganger med passiv sikringplanoverganger med aktiv sikring:manuell,automatisk varsling for veifarende,automatisk sikring for veifarende,sikring mot skinnegangen.
+Antall planoverganger (samlet, per linjekilometer og sporkilometer) etter følgende fem typer:
+
+1. planoverganger med passiv sikring
+2. planoverganger med aktiv sikring:
+
+   1. manuell,
+   2. automatisk varsling for veifarende,
+   3. automatisk sikring for veifarende,
+   4. sikring mot skinnegangen.
 
 ### Tillegg. Felles definisjoner av de felles sikkerhetsindikatorene og felles metoder for beregning av de økonomiske konsekvensene av ulykker
 
@@ -548,7 +731,11 @@ Antall planoverganger (samlet, per linjekilometer og sporkilometer) etter følge
 
 Å kjøre lenger enn tillatt som nevnt i nr. 4.4 og 4.5, betyr å passere:
 
-\- lys- eller semaforsignaler ved sporet som med farge eller stilling signaliserer fare, eller en stoppordre på linjer der automatisk togkontroll ikke er i drift,sluttpunktet i en sikkerhetsrelatert kjøretillatelse gitt gjennom automatisk togkontroll,et bestemt punkt som er meddelt gjennom en muntlig eller skriftlig tillatelse fastsatt i forskrift,stoppskilter (ikke sporstoppere) eller håndsignaler.
+\- lys- eller semaforsignaler ved sporet som med farge eller stilling signaliserer fare, eller en stoppordre på linjer der automatisk togkontroll ikke er i drift,
+
+- sluttpunktet i en sikkerhetsrelatert kjøretillatelse gitt gjennom automatisk togkontroll,
+- et bestemt punkt som er meddelt gjennom en muntlig eller skriftlig tillatelse fastsatt i forskrift,
+- stoppskilter (ikke sporstoppere) eller håndsignaler.
 
 Tilfeller der et kjøretøy uten trekkvogn eller et ubemannet tog kjører forbi et stoppsignal, omfattes ikke. Tilfeller der signalet av en eller annen grunn ikke signaliserer fare tidsnok til at togføreren kan stoppe toget før signalet, omfattes ikke.
 
@@ -566,7 +753,14 @@ Nasjonale sikkerhetsmyndigheter kan rapportere om de fire tilfellene der toget k
 
 5.1.
 
-Verdien av å forhindre et dødsfall eller en alvorlig skade (VPC) består av:Egenverdien av sikkerhet: Verdien av betalingsviljen (WTP) basert på undersøkelser av oppgitte preferanser gjennomført i de EØS-statene denne verdien får anvendelse.Direkte og indirekte økonomiske kostnader: anslag over kostnadene beregnet i EØS-statene som består av:kostnader ved medisinsk behandling og rehabilitering,saksomkostninger, kostnader til politi, kostnader ved privat etterforskning av ulykken, kostnader ved redningstjeneste og administrative kostnader ved forsikring,produksjonstap: den verdien samfunnet setter på varer og tjenester som kunne ha blitt produsert av personen dersom ulykken ikke hadde inntruffet.
+Verdien av å forhindre et dødsfall eller en alvorlig skade (VPC) består av:
+
+1. Egenverdien av sikkerhet: Verdien av betalingsviljen (WTP) basert på undersøkelser av oppgitte preferanser gjennomført i de EØS-statene denne verdien får anvendelse.
+2. Direkte og indirekte økonomiske kostnader: anslag over kostnadene beregnet i EØS-statene som består av:
+
+   - kostnader ved medisinsk behandling og rehabilitering,
+   - saksomkostninger, kostnader til politi, kostnader ved privat etterforskning av ulykken, kostnader ved redningstjeneste og administrative kostnader ved forsikring,
+   - produksjonstap: den verdien samfunnet setter på varer og tjenester som kunne ha blitt produsert av personen dersom ulykken ikke hadde inntruffet.
 
 Ved beregning av kostnadene ved ulykker skal dødsfall og alvorlige skader beregnes hver for seg (verdien av å forebygge et dødsfall er forskjellig fra verdien av å forebygge en alvorlig skade).
 
@@ -574,7 +768,11 @@ Ved beregning av kostnadene ved ulykker skal dødsfall og alvorlige skader bereg
 
 Felles prinsipper for fastsettelse av egenverdien av sikkerhet og direkte og/eller indirekte økonomiske kostnader:
 
-For egenverdien av sikkerhet skal vurderingen av hvorvidt tilgjengelige estimater er egnet eller ikke, bygge på følgende betraktninger:estimatene skal være basert på et system for vurdering av redusert risiko for dødsfall i transportsektoren etter metoden som bygger på verdien av betalingsvilje i henhold til oppgitte preferanser,det utvalg av respondenter som benyttes for å fastsette verdiene, skal være representativt for den berørte befolkningen. Utvalget skal særlig gjenspeile fordelingen på alder/inntekt i tillegg til andre relevante sosioøkonomiske og/eller demografiske kjennetegn ved befolkningen,metode for å finne fram til verdien av betalingsvilje: spørreundersøkelsen skal være utformet slik at spørsmålene er entydige/meningsfulle for respondentene.
+For egenverdien av sikkerhet skal vurderingen av hvorvidt tilgjengelige estimater er egnet eller ikke, bygge på følgende betraktninger:
+
+- estimatene skal være basert på et system for vurdering av redusert risiko for dødsfall i transportsektoren etter metoden som bygger på verdien av betalingsvilje i henhold til oppgitte preferanser,
+- det utvalg av respondenter som benyttes for å fastsette verdiene, skal være representativt for den berørte befolkningen. Utvalget skal særlig gjenspeile fordelingen på alder/inntekt i tillegg til andre relevante sosioøkonomiske og/eller demografiske kjennetegn ved befolkningen,
+- metode for å finne fram til verdien av betalingsvilje: spørreundersøkelsen skal være utformet slik at spørsmålene er entydige/meningsfulle for respondentene.
 
 Verdien av direkte og indirekte kostnader skal fastsettes på grunnlag av de faktiske samfunnskostnadene.
 
@@ -624,7 +822,10 @@ Kostnaden ved forsinkelser som følge av en ulykke = CMP \* (antall minutters fo
 
 *Virkeområdet for modellen*
 
-Kostnaden ved forsinkelser skal beregnes for alle alvorlige ulykker, på følgende måte:faktiske forsinkelser på jernbanelinjen der ulykken inntraff, målt på endestasjonen,faktiske forsinkelser eller, om dette ikke lar seg beregne, beregnede forsinkelser på andre berørte linjer.
+Kostnaden ved forsinkelser skal beregnes for alle alvorlige ulykker, på følgende måte:
+
+- faktiske forsinkelser på jernbanelinjen der ulykken inntraff, målt på endestasjonen,
+- faktiske forsinkelser eller, om dette ikke lar seg beregne, beregnede forsinkelser på andre berørte linjer.
 
 6.*Indikatorer knyttet til infrastrukturens tekniske sikkerhet og gjennomføringen av denne*
 
@@ -634,7 +835,12 @@ Kostnaden ved forsinkelser skal beregnes for alle alvorlige ulykker, på følgen
 
 6.2.
 
-«ombordsystemer»: systemer som hjelper føreren med å respektere signalene langs linjen og inne i førerhuset og som dermed sørger for beskyttelse mot farepunkter og overholdelse av fartsgrenser. Automatisk togkontroll om bord beskrives på følgende måte:Varsling som varsler føreren automatisk.Varsling og automatisk stopp: føreren varsles automatisk og toget stopper automatisk ved passering av stoppsignal.Varsling og automatisk stopp og punktvis hastighetsovervåking: beskyttelse ved farepunkter, der «punktvis hastighetsovervåking» betyr overvåking av hastigheten på visse steder (fartskontroller) når toget nærmer seg et signal.Varsling og automatisk stopp og kontinuerlig hastighetsovervåking: beskyttelse ved farepunkter og kontinuerlig overvåking av fartsgrensene på strekningen, der «kontinuerlig hastighetsovervåking» betyr kontinuerlig angivelse og overholdelse av høyeste tillatte målhastighet på alle delstrekninger av linjen.
+«ombordsystemer»: systemer som hjelper føreren med å respektere signalene langs linjen og inne i førerhuset og som dermed sørger for beskyttelse mot farepunkter og overholdelse av fartsgrenser. Automatisk togkontroll om bord beskrives på følgende måte:
+
+1. Varsling som varsler føreren automatisk.
+2. Varsling og automatisk stopp: føreren varsles automatisk og toget stopper automatisk ved passering av stoppsignal.
+3. Varsling og automatisk stopp og punktvis hastighetsovervåking: beskyttelse ved farepunkter, der «punktvis hastighetsovervåking» betyr overvåking av hastigheten på visse steder (fartskontroller) når toget nærmer seg et signal.
+4. Varsling og automatisk stopp og kontinuerlig hastighetsovervåking: beskyttelse ved farepunkter og kontinuerlig overvåking av fartsgrensene på strekningen, der «kontinuerlig hastighetsovervåking» betyr kontinuerlig angivelse og overholdelse av høyeste tillatte målhastighet på alle delstrekninger av linjen.
 
 Type d. anses som et system for automatisk hastighetsovervåking (ATP).
 
@@ -656,9 +862,23 @@ Type d. anses som et system for automatisk hastighetsovervåking (ATP).
 
 6.7.
 
-«planovergang med aktiv sikring»: planovergang der kryssende brukere beskyttes mot eller varsles om et tog som nærmer seg ved at innretninger aktiveres når det ikke er trygt for brukerne å benytte overgangen.Sikring i form av fysiske innretninger omfatter:halve eller hele bommer,porter.Varsling i form av fastmontert utstyr ved planoverganger:synlige innretninger: lys,hørbare innretninger: klokker, horn, sirener osv.
+«planovergang med aktiv sikring»: planovergang der kryssende brukere beskyttes mot eller varsles om et tog som nærmer seg ved at innretninger aktiveres når det ikke er trygt for brukerne å benytte overgangen.
 
-Planovergang med aktiv sikring klassifiseres som:Manuell: en planovergang der sikring eller varsling for veifarende aktiveres manuelt av en jernbaneansatt.Automatisk varsling for veifarende: en planovergang der varslingen for veifarende aktiveres av toget som nærmer seg.Automatisk sikring for veifarende: en planovergang der sikringen for veifarende aktiveres av toget som nærmer seg. Dette skal omfatte en planovergang med både sikring og varsling for veifarende.Sikring mot skinnegangen: en planovergang der et signal eller annet togsikringssystem lar toget fortsette når planovergangen er fullstendig sikret for veifarende og ingen er i ferd med å krysse sporet.
+- Sikring i form av fysiske innretninger omfatter:
+
+  - halve eller hele bommer,
+  - porter.
+- Varsling i form av fastmontert utstyr ved planoverganger:
+
+  - synlige innretninger: lys,
+  - hørbare innretninger: klokker, horn, sirener osv.
+
+Planovergang med aktiv sikring klassifiseres som:
+
+1. Manuell: en planovergang der sikring eller varsling for veifarende aktiveres manuelt av en jernbaneansatt.
+2. Automatisk varsling for veifarende: en planovergang der varslingen for veifarende aktiveres av toget som nærmer seg.
+3. Automatisk sikring for veifarende: en planovergang der sikringen for veifarende aktiveres av toget som nærmer seg. Dette skal omfatte en planovergang med både sikring og varsling for veifarende.
+4. Sikring mot skinnegangen: en planovergang der et signal eller annet togsikringssystem lar toget fortsette når planovergangen er fullstendig sikret for veifarende og ingen er i ferd med å krysse sporet.
 
 7.*Definisjoner av målenheter*
 
@@ -680,10 +900,43 @@ Planovergang med aktiv sikring klassifiseres som:Manuell: en planovergang der si
 
 ## Vedlegg II. Underretning om nasjonale sikkerhetsregler
 
-Nasjonale sikkerhetsregler som er meldt i samsvar med § 4-1 første ledd bokstav a, omfatter:regler om eksisterende nasjonale sikkerhetsmål og sikkerhetsmetoder,regler om krav til sikkerhetsstyringssystemer og sikkerhetssertifisering av jernbaneforetak,felles driftsregler for jernbanenettet som ikke allerede er omfattet av TSI-er, herunder regler om trafikkstyrings- og signalsystemet,regler om fastsettelse av krav til interne tilleggsregler for driften (selskapsregler) som må fastsettes av infrastrukturforvaltninger og jernbaneforetak,regler om krav til personale som utfører viktige sikkerhetsoppgaver, herunder utvelgingskriterier, helsekrav, yrkesopplæring og sertifisering, i den grad de ikke allerede er omfattet av en TSI,regler om undersøkelser av ulykker og hendelser.
+Nasjonale sikkerhetsregler som er meldt i samsvar med § 4-1 første ledd bokstav a, omfatter:
+
+1. regler om eksisterende nasjonale sikkerhetsmål og sikkerhetsmetoder,
+2. regler om krav til sikkerhetsstyringssystemer og sikkerhetssertifisering av jernbaneforetak,
+3. felles driftsregler for jernbanenettet som ikke allerede er omfattet av TSI-er, herunder regler om trafikkstyrings- og signalsystemet,
+4. regler om fastsettelse av krav til interne tilleggsregler for driften (selskapsregler) som må fastsettes av infrastrukturforvaltninger og jernbaneforetak,
+5. regler om krav til personale som utfører viktige sikkerhetsoppgaver, herunder utvelgingskriterier, helsekrav, yrkesopplæring og sertifisering, i den grad de ikke allerede er omfattet av en TSI,
+6. regler om undersøkelser av ulykker og hendelser.
 
 ## Vedlegg III. Krav og vurderingskriterier for organisasjoner som søker om ECM-sertifikat eller sertifikat for vedlikeholdsfunksjoner som driftsutsettes av en enhet ansvarlig for vedlikehold
 
 Alle vesentlige deler av organisasjonens ledelse skal dokumenteres, og særlig skal ansvarsfordelingen i organisasjonen og med underleverandørene beskrives. Systemet skal vise hvordan kontrollen er sikret fra ledelsens side på ulike nivåer, hvordan personalet og dets representanter på alle nivåer er involvert, og hvordan den kontinuerlige forbedringen sikres.
 
-De følgende grunnleggende kravene skal anvendes på de fire funksjonene til en enhet ansvarlig for vedlikehold (ECM) som skal dekkes av organisasjonen selv eller gjennom underleverandøravtaler:Ledelse – forpliktelse til utvikling og gjennomføring av organisasjonens vedlikeholdssystem og til kontinuerlig forbedring av effektiviteten.Risikovurdering – en strukturert metode for å vurdere risiko knyttet til vedlikehold av kjøretøyer, herunder risiko som er en direkte følge av driftsprosesser og virksomheten til andre organisasjoner eller personer, og for å identifisere egnede tiltak for risikohåndtering.Overvåking – en strukturert metode for å sikre at det finnes tiltak for risikohåndtering som fungerer slik de skal, og medvirker til å nå organisasjonens mål.Kontinuerlig forbedring – en strukturert metode for å analysere opplysningene som innhentes, ved hjelp av regelmessig tilsyn, revisjon eller andre relevante kilder, og for å bruke resultatene til å trekke lærdom og til å innføre forebyggende og korrigerende tiltak med sikte på å opprettholde eller forbedre sikkerhetsnivået.Struktur og ansvar – en strukturert metode for å definere enkeltpersoners og gruppers ansvarsområder for at organisasjonens sikkerhetsmål skal kunne nås på en sikker måte.Kompetansestyring – en strukturert metode for å sikre at de ansatte har den nødvendige kompetansen for å nå organisasjonens mål på en sikker og effektiv måte under alle omstendigheter.Opplysninger – en strukturert metode for å sikre at viktige opplysninger er tilgjengelige for dem som skal foreta vurderinger og treffe beslutninger på alle nivåer i organisasjonen, og for å sikre at opplysningene er fullstendige og hensiktsmessige.Dokumentasjon – en strukturert metode for å sikre at alle relevante opplysninger kan spores.Avtaleinngåelse – en strukturert metode for å sikre at virksomhet som er overdratt til en underleverandør, forvaltes på en hensiktsmessig måte, slik at organisasjonens mål nås og alle kompetanseområder og krav er oppfylt.Vedlikeholdsvirksomhet – en strukturert metode for å sikre:at all vedlikeholdsvirksomhet som påvirker sikkerheten og sikkerhetskritiske komponenter, identifiseres og styres riktig, og at alle nødvendige endringer av slik vedlikeholdsvirksomhet som påvirker sikkerheten, identifiseres og styres riktig på grunnlag av erfaring og anvendelse av felles sikkerhetsmetoder for risikovurdering i samsvar med § 3-2 første ledd bokstav a. og blir behørig dokumentert,samsvar med de grunnleggende kravene til samtrafikkevne,innføring og kontroll av vedlikeholdsanlegg, utstyr og verktøy som er særlig utviklet og påkrevd for utføring av vedlikehold,analyse av den første dokumentasjonen for kjøretøyet med sikte på å utarbeide den første vedlikeholdsplanen og sikre at den gjennomføres riktig ved utarbeiding av vedlikeholdsordrer,at komponenter (herunder reservedeler) og materialer brukes som angitt i vedlikeholdsordrene og leverandørdokumentasjonen, at de oppbevares, håndteres og transporteres på en måte som angitt i vedlikeholdsordrene og leverandørdokumentasjonen, og er i samsvar med nasjonale og internasjonale regler samt med kravene i de relevante vedlikeholdsordrene,at egnede og tilfredsstillende anlegg, utstyr og verktøy fastsettes, identifiseres, skaffes, registreres og stilles til rådighet slik at vedlikeholdstjenestene kan utføres i samsvar med vedlikeholdsordrene og andre gjeldende spesifikasjoner, og som sikrer sikker utføring av vedlikehold, ergonomi og helsevern,at organisasjonen har prosesser for å sikre at dens måleutstyr, alle anlegg, alt utstyr og alt verktøy brukes riktig, kalibreres, bevares og vedlikeholdes i samsvar med dokumenterte prosesser,Kontrollvirksomhet – en strukturert metode for å sikre:at kjøretøyer tas ut av bruk for planlagt, betinget eller korrigerende vedlikehold i rett tid, eller når det er oppdaget mangler eller andre behov,nødvendige tiltak for kvalitetskontroll,at vedlikeholdsoppgavene utføres i samsvar med vedlikeholdsordrene, og for å utstede meldingen om gjeninnsetting i bruk som omfatter eventuelle bruksbegrensninger,at mulige tilfeller av manglende oppfyllelse i anvendelsen av ledelsessystemet som kan føre til ulykker, hendelser, nestenulykker eller andre farlige episoder rapporteres, undersøkes og analyseres, og at det treffes nødvendige korrigerende tiltak i samsvar med den felles sikkerhetsmetoden for tilsyn fastsatt i § 3-2 første ledd bokstav c,en regelmessig intern prosess for revisjon og tilsyn som er i samsvar med den felles sikkerhetsmetoden for tilsyn fastsatt i § 3-2 første ledd bokstav c.
+De følgende grunnleggende kravene skal anvendes på de fire funksjonene til en enhet ansvarlig for vedlikehold (ECM) som skal dekkes av organisasjonen selv eller gjennom underleverandøravtaler:
+
+1. Ledelse – forpliktelse til utvikling og gjennomføring av organisasjonens vedlikeholdssystem og til kontinuerlig forbedring av effektiviteten.
+2. Risikovurdering – en strukturert metode for å vurdere risiko knyttet til vedlikehold av kjøretøyer, herunder risiko som er en direkte følge av driftsprosesser og virksomheten til andre organisasjoner eller personer, og for å identifisere egnede tiltak for risikohåndtering.
+3. Overvåking – en strukturert metode for å sikre at det finnes tiltak for risikohåndtering som fungerer slik de skal, og medvirker til å nå organisasjonens mål.
+4. Kontinuerlig forbedring – en strukturert metode for å analysere opplysningene som innhentes, ved hjelp av regelmessig tilsyn, revisjon eller andre relevante kilder, og for å bruke resultatene til å trekke lærdom og til å innføre forebyggende og korrigerende tiltak med sikte på å opprettholde eller forbedre sikkerhetsnivået.
+5. Struktur og ansvar – en strukturert metode for å definere enkeltpersoners og gruppers ansvarsområder for at organisasjonens sikkerhetsmål skal kunne nås på en sikker måte.
+6. Kompetansestyring – en strukturert metode for å sikre at de ansatte har den nødvendige kompetansen for å nå organisasjonens mål på en sikker og effektiv måte under alle omstendigheter.
+7. Opplysninger – en strukturert metode for å sikre at viktige opplysninger er tilgjengelige for dem som skal foreta vurderinger og treffe beslutninger på alle nivåer i organisasjonen, og for å sikre at opplysningene er fullstendige og hensiktsmessige.
+8. Dokumentasjon – en strukturert metode for å sikre at alle relevante opplysninger kan spores.
+9. Avtaleinngåelse – en strukturert metode for å sikre at virksomhet som er overdratt til en underleverandør, forvaltes på en hensiktsmessig måte, slik at organisasjonens mål nås og alle kompetanseområder og krav er oppfylt.
+10. Vedlikeholdsvirksomhet – en strukturert metode for å sikre:
+
+    - at all vedlikeholdsvirksomhet som påvirker sikkerheten og sikkerhetskritiske komponenter, identifiseres og styres riktig, og at alle nødvendige endringer av slik vedlikeholdsvirksomhet som påvirker sikkerheten, identifiseres og styres riktig på grunnlag av erfaring og anvendelse av felles sikkerhetsmetoder for risikovurdering i samsvar med § 3-2 første ledd bokstav a. og blir behørig dokumentert,
+    - samsvar med de grunnleggende kravene til samtrafikkevne,
+    - innføring og kontroll av vedlikeholdsanlegg, utstyr og verktøy som er særlig utviklet og påkrevd for utføring av vedlikehold,
+    - analyse av den første dokumentasjonen for kjøretøyet med sikte på å utarbeide den første vedlikeholdsplanen og sikre at den gjennomføres riktig ved utarbeiding av vedlikeholdsordrer,
+    - at komponenter (herunder reservedeler) og materialer brukes som angitt i vedlikeholdsordrene og leverandørdokumentasjonen, at de oppbevares, håndteres og transporteres på en måte som angitt i vedlikeholdsordrene og leverandørdokumentasjonen, og er i samsvar med nasjonale og internasjonale regler samt med kravene i de relevante vedlikeholdsordrene,
+    - at egnede og tilfredsstillende anlegg, utstyr og verktøy fastsettes, identifiseres, skaffes, registreres og stilles til rådighet slik at vedlikeholdstjenestene kan utføres i samsvar med vedlikeholdsordrene og andre gjeldende spesifikasjoner, og som sikrer sikker utføring av vedlikehold, ergonomi og helsevern,
+    - at organisasjonen har prosesser for å sikre at dens måleutstyr, alle anlegg, alt utstyr og alt verktøy brukes riktig, kalibreres, bevares og vedlikeholdes i samsvar med dokumenterte prosesser,
+11. Kontrollvirksomhet – en strukturert metode for å sikre:
+
+    - at kjøretøyer tas ut av bruk for planlagt, betinget eller korrigerende vedlikehold i rett tid, eller når det er oppdaget mangler eller andre behov,
+    - nødvendige tiltak for kvalitetskontroll,
+    - at vedlikeholdsoppgavene utføres i samsvar med vedlikeholdsordrene, og for å utstede meldingen om gjeninnsetting i bruk som omfatter eventuelle bruksbegrensninger,
+    - at mulige tilfeller av manglende oppfyllelse i anvendelsen av ledelsessystemet som kan føre til ulykker, hendelser, nestenulykker eller andre farlige episoder rapporteres, undersøkes og analyseres, og at det treffes nødvendige korrigerende tiltak i samsvar med den felles sikkerhetsmetoden for tilsyn fastsatt i § 3-2 første ledd bokstav c,
+    - en regelmessig intern prosess for revisjon og tilsyn som er i samsvar med den felles sikkerhetsmetoden for tilsyn fastsatt i § 3-2 første ledd bokstav c.

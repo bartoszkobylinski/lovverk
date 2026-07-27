@@ -38,7 +38,15 @@ Ved avgjørelse av søknad om tillatelse til framleie skal det legges vekt på h
 
 ## § 3. Unntak
 
-Tillatelse fra statsforvalteren er likevel ikke nødvendig hvorleieren enten eren ideell organisasjon tilknyttet en landsomfattende organisasjon med sportsfiske som en hovedaktivitet, elleren ideell lokal organisasjon med sportsfiske som en hovedaktivitet og minst 100 medlemmer,ogeventuelt overskudd av framleien etter at leiesummen og utgifter ved framleien er dekket, i sin helhet går til tiltak for fiskebestandene i området.
+Tillatelse fra statsforvalteren er likevel ikke nødvendig hvor
+
+1. leieren enten er
+
+   1. en ideell organisasjon tilknyttet en landsomfattende organisasjon med sportsfiske som en hovedaktivitet, eller
+   2. en ideell lokal organisasjon med sportsfiske som en hovedaktivitet og minst 100 medlemmer,
+
+   og
+2. eventuelt overskudd av framleien etter at leiesummen og utgifter ved framleien er dekket, i sin helhet går til tiltak for fiskebestandene i området.
 
 Statsforvalteren kan til enhver tid kreve de opplysninger denne finner nødvendig for å avgjøre om et framleieforhold faller inn under første ledd.
 

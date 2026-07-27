@@ -15,7 +15,7 @@ xml_hash: "84b71ddb78058b537c2627f163e68a1ad4586ba828409a363c02bae3a1eeef62"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,11 @@ Direktoratet for strålevern og atomsikkerhet skal varsle Folkehelseinstituttet 
 
 ### § 5. Varslingsplikt for fører av skip, luftfartøy og andre transportmidler
 
-Fører av skip eller luftfartøy skal snarest mulig og senest ved ankomst til første ankomstpunkt i Norge varsle om helsetilstanden om bord, dersom ett av følgende vilkår er oppfylt:føreren har grunn til å anta at det finnes smittestoffer eller annet agens om bord, som kan utgjøre en alvorlig hendelse av betydning for internasjonal folkehelse,fartøyet kommer fra en havn eller lufthavn i et område som er erklært rammet av en smittsom sykdom eller annen alvorlig hendelse som kan ha betydning for internasjonal folkehelse, og ankomsten skjer i inkubasjonstiden,det finnes en person om bord som har oppholdt seg i et område som er erklært rammet av en smittsom sykdom eller annen alvorlig hendelse som kan ha betydning for internasjonal folkehelse på et slikt tidspunkt at inkubasjonstiden ikke er over ved fartøyets ankomst til Norge.
+Fører av skip eller luftfartøy skal snarest mulig og senest ved ankomst til første ankomstpunkt i Norge varsle om helsetilstanden om bord, dersom ett av følgende vilkår er oppfylt:
+
+1. føreren har grunn til å anta at det finnes smittestoffer eller annet agens om bord, som kan utgjøre en alvorlig hendelse av betydning for internasjonal folkehelse,
+2. fartøyet kommer fra en havn eller lufthavn i et område som er erklært rammet av en smittsom sykdom eller annen alvorlig hendelse som kan ha betydning for internasjonal folkehelse, og ankomsten skjer i inkubasjonstiden,
+3. det finnes en person om bord som har oppholdt seg i et område som er erklært rammet av en smittsom sykdom eller annen alvorlig hendelse som kan ha betydning for internasjonal folkehelse på et slikt tidspunkt at inkubasjonstiden ikke er over ved fartøyets ankomst til Norge.
 
 Varsel etter første ledd skal gis kontrollsentralen, tollvesenet eller Kystverket, som deretter varsler kommunelegen eller Folkehelseinstituttet, jf. [§ 4](forskrift/2007-12-21-1573/§4).
 
@@ -152,7 +156,14 @@ Kommunen kan følge opp anbefaling fra Verdens helseorganisasjon gjennom pålegg
 
 ### § 14. Tiltak overfor personer
 
-Helsedirektoratet kan, i tillegg til tiltak etter [smittevernloven kapittel 3](lov/1994-08-05-55/kap3), [4](lov/1994-08-05-55/kap4) og 5, bestemme at følgende tiltak, i den utstrekning de er nødvendige, skal iverksettes overfor personer ved innreise til eller utreise fra Norge for å motvirke at smittsomme sykdommer eller annet agens som kan ha betydning for internasjonal folkehelse føres inn i landet eller spres til andre land, jf. [smittevernloven § 4-3](lov/1994-08-05-55/§4-3) og [folkehelseloven § 29](lov/2011-06-24-29/§29) fjerde ledd, jf. første ledd:plikt til å opplyse om reisehistorikk i berørte områder, samt planlagt reiserute eller oppholdssted,plikt til å fremlegge dokumentasjon på medisinske undersøkelser, laboratorieanalyser, vaksinasjon eller annen profylaktisk behandling, herunder vaksinasjonssertifikat,medisinske undersøkelser av personer som er mistenkt smittet,masseundersøkelser,nekte mistenkt smittede personer innreise, dersom ingen andre tiltak anses tilstrekkelige,nekte ikke-smittede personer innreise til berørte områder, dersom ingen andre tiltak anses tilstrekkelige.
+Helsedirektoratet kan, i tillegg til tiltak etter [smittevernloven kapittel 3](lov/1994-08-05-55/kap3), [4](lov/1994-08-05-55/kap4) og 5, bestemme at følgende tiltak, i den utstrekning de er nødvendige, skal iverksettes overfor personer ved innreise til eller utreise fra Norge for å motvirke at smittsomme sykdommer eller annet agens som kan ha betydning for internasjonal folkehelse føres inn i landet eller spres til andre land, jf. [smittevernloven § 4-3](lov/1994-08-05-55/§4-3) og [folkehelseloven § 29](lov/2011-06-24-29/§29) fjerde ledd, jf. første ledd:
+
+1. plikt til å opplyse om reisehistorikk i berørte områder, samt planlagt reiserute eller oppholdssted,
+2. plikt til å fremlegge dokumentasjon på medisinske undersøkelser, laboratorieanalyser, vaksinasjon eller annen profylaktisk behandling, herunder vaksinasjonssertifikat,
+3. medisinske undersøkelser av personer som er mistenkt smittet,
+4. masseundersøkelser,
+5. nekte mistenkt smittede personer innreise, dersom ingen andre tiltak anses tilstrekkelige,
+6. nekte ikke-smittede personer innreise til berørte områder, dersom ingen andre tiltak anses tilstrekkelige.
 
 Undersøkelser etter første ledd bokstav c) eller d) kan iverksettes etter vilkårene i [smittevernloven § 3-1](lov/1994-08-05-55/§3-1). Undersøkelsene kan omfatte bildeundersøkelse, tuberkulinprøving, blodprøvetaking eller andre tilsvarende undersøkelser som kan gjøres uten fare.
 
@@ -162,7 +173,16 @@ Helsedirektoratet kan pålegge andre myndigheter å bistå med gjennomføringen 
 
 ### § 15. Tiltak overfor bagasje, last, containere, transportmidler, postpakker, humant biologisk materiale og varer
 
-Helsedirektoratet kan, i tillegg til tiltak etter [smittevernloven kapittel 4](lov/1994-08-05-55/kap4), bestemme at følgende tiltak, i den utstrekning de er nødvendige, skal iverksettes overfor bagasje, last, containere, transportmidler, postpakker, humant biologisk materiale og varer for å motvirke at smittsomme sykdommer eller annet agens som kan ha betydning for internasjonal folkehelse føres inn i landet eller spres til andre land, jf. [smittevernloven § 4-3](lov/1994-08-05-55/§4-3) og [folkehelseloven § 29](lov/2011-06-24-29/§29) fjerde ledd, jf. første ledd:gjennomgang av godsmanifest og rute,gjennomføring av inspeksjoner og undersøkelser,gjennomgang av dokumentasjon på tiltak iverksatt ved avsendelse eller i transitt for å utelukke smitte,behandling av bagasje, last, containere, transportmidler, postpakker, humant biologisk materiale eller varer for å fjerne smitte, herunder vektorer og reservoarer,andre særlige helsetiltak for å sikre trygg håndtering og transport av humant biologisk materiale,isolasjon eller karantene,beslag og destruksjon av mistenkt infisert bagasje, last, containere, transportmidler, postpakker eller varer, dersom ingen annen tilgjengelig behandling anses tilstrekkelig,nekte inn- eller utførsel, samt innreise eller avreise for transportmidler.
+Helsedirektoratet kan, i tillegg til tiltak etter [smittevernloven kapittel 4](lov/1994-08-05-55/kap4), bestemme at følgende tiltak, i den utstrekning de er nødvendige, skal iverksettes overfor bagasje, last, containere, transportmidler, postpakker, humant biologisk materiale og varer for å motvirke at smittsomme sykdommer eller annet agens som kan ha betydning for internasjonal folkehelse føres inn i landet eller spres til andre land, jf. [smittevernloven § 4-3](lov/1994-08-05-55/§4-3) og [folkehelseloven § 29](lov/2011-06-24-29/§29) fjerde ledd, jf. første ledd:
+
+1. gjennomgang av godsmanifest og rute,
+2. gjennomføring av inspeksjoner og undersøkelser,
+3. gjennomgang av dokumentasjon på tiltak iverksatt ved avsendelse eller i transitt for å utelukke smitte,
+4. behandling av bagasje, last, containere, transportmidler, postpakker, humant biologisk materiale eller varer for å fjerne smitte, herunder vektorer og reservoarer,
+5. andre særlige helsetiltak for å sikre trygg håndtering og transport av humant biologisk materiale,
+6. isolasjon eller karantene,
+7. beslag og destruksjon av mistenkt infisert bagasje, last, containere, transportmidler, postpakker eller varer, dersom ingen annen tilgjengelig behandling anses tilstrekkelig,
+8. nekte inn- eller utførsel, samt innreise eller avreise for transportmidler.
 
 Helsedirektoratet kan pålegge andre myndigheter å bistå med gjennomføringen av tiltakene i første ledd, jf. [smittevernloven § 4-10](lov/1994-08-05-55/§4-10).
 
@@ -170,7 +190,13 @@ Helsedirektoratet kan pålegge andre myndigheter å bistå med gjennomføringen 
 
 ### § 16. Unntak for transportmidler og varer i transitt
 
-Med mindre det foreligger begrunnet mistanke om eller kliniske tegn, symptomer eller annen dokumentasjon på smittekilder om bord, kan tiltak etter [§ 14](forskrift/2007-12-21-1573/§14) ikke iverksettes overfor:skip i transitt som passerer gjennom en sjøkanal eller vannvei i Norge, og som ikke kommer fra et område som er rammet av en alvorlig hendelse av betydning for internasjonal folkehelse,skip som passerer gjennom norsk territorialfarvann uten å anløpe havn eller kyst,luftfartøy i transitt ved norsk lufthavn, dog slik at luftfartøyet kan bli pålagt å holde seg til en bestemt del av lufthavnen og ikke tillate noen ombordstigning, avstigning, lasting eller lossing,lastebiler, tog og busser i transitt som ikke kommer fra et område som er rammet av en alvorlig hendelse av betydning for internasjonal folkehelse, og som passerer gjennom et område uten noen ombordstigning, avstigning, lasting eller lossing, ellervarer i transitt som ikke blir omlastet, unntatt levende dyr.
+Med mindre det foreligger begrunnet mistanke om eller kliniske tegn, symptomer eller annen dokumentasjon på smittekilder om bord, kan tiltak etter [§ 14](forskrift/2007-12-21-1573/§14) ikke iverksettes overfor:
+
+1. skip i transitt som passerer gjennom en sjøkanal eller vannvei i Norge, og som ikke kommer fra et område som er rammet av en alvorlig hendelse av betydning for internasjonal folkehelse,
+2. skip som passerer gjennom norsk territorialfarvann uten å anløpe havn eller kyst,
+3. luftfartøy i transitt ved norsk lufthavn, dog slik at luftfartøyet kan bli pålagt å holde seg til en bestemt del av lufthavnen og ikke tillate noen ombordstigning, avstigning, lasting eller lossing,
+4. lastebiler, tog og busser i transitt som ikke kommer fra et område som er rammet av en alvorlig hendelse av betydning for internasjonal folkehelse, og som passerer gjennom et område uten noen ombordstigning, avstigning, lasting eller lossing, eller
+5. varer i transitt som ikke blir omlastet, unntatt levende dyr.
 
 Ethvert transportmiddel skal tillates å ta om bord drivstoff, vann, mat og forsyninger.
 
@@ -226,7 +252,14 @@ Eier eller driftsansvarlig for skip, luftfartøy og annet transportmiddel som ko
 
 Helsedirektoratet fastsetter nærmere gebyrsatser for undersøkelse og kontroll som foretas i forbindelse med utstedelse av «Sertifikat for hygienekontroll på skip» eller «Sertifikat for dispensasjon fra hygienekontroll på skip». Det kan kreves betaling for inspektørenes reise til og fra skipet. Det kan ikke kreves betaling for utstedelse av ovennevnte sertifikater.
 
-Det kan ikke kreves dekning av utgifter fra reisende for følgende ytelser:medisinsk undersøkelse som utføres i henhold til denne forskriften,tilleggsundersøkelser for å undersøke den reisendes helsetilstand,vaksinasjon eller annen profylaktisk behandling ved ankomst til Norge,påkrevd isolasjon av eller karantene for reisende,ethvert sertifikat utstedt til den reisende, ogethvert helsetiltak iverksatt overfor bagasje som den reisende bringer med seg.
+Det kan ikke kreves dekning av utgifter fra reisende for følgende ytelser:
+
+1. medisinsk undersøkelse som utføres i henhold til denne forskriften,
+2. tilleggsundersøkelser for å undersøke den reisendes helsetilstand,
+3. vaksinasjon eller annen profylaktisk behandling ved ankomst til Norge,
+4. påkrevd isolasjon av eller karantene for reisende,
+5. ethvert sertifikat utstedt til den reisende, og
+6. ethvert helsetiltak iverksatt overfor bagasje som den reisende bringer med seg.
 
 > Endret ved [forskrift 18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016).
 
@@ -246,7 +279,12 @@ Forskriften trer i kraft 1. januar 2008.
 
 ### § 26. Opphevelse av og endringer i andre forskrifter
 
-Fra den tid forskriften trer i kraft, oppheves følgende forskrifter:[Forskrifter 9. mai 1953 nr. 7](forskrift/1953-05-09-7) om vern mot overføring av smittsom sykdom fra utlandet m.v.[Forskrifter 1. februar 1954 nr. 2](forskrift/1954-02-01-2) om karantenetilsyn i havner og lufthavner.[Forskrifter 1. februar 1954 nr. 1](forskrift/1954-02-01-1) om tollvesenets plikter, om plikter for de ansvarshavende for lufthavner (flyplasser) og om godkjenning for utstedelse av rottesertifikater.[Forskrift 29. april 1955 nr. 1](forskrift/1955-04-29-1) om tollvesenets plikter og om plikter for de ansvarshavende for lufthavner (flyplasser).
+Fra den tid forskriften trer i kraft, oppheves følgende forskrifter:
+
+1. [Forskrifter 9. mai 1953 nr. 7](forskrift/1953-05-09-7) om vern mot overføring av smittsom sykdom fra utlandet m.v.
+2. [Forskrifter 1. februar 1954 nr. 2](forskrift/1954-02-01-2) om karantenetilsyn i havner og lufthavner.
+3. [Forskrifter 1. februar 1954 nr. 1](forskrift/1954-02-01-1) om tollvesenets plikter, om plikter for de ansvarshavende for lufthavner (flyplasser) og om godkjenning for utstedelse av rottesertifikater.
+4. [Forskrift 29. april 1955 nr. 1](forskrift/1955-04-29-1) om tollvesenets plikter og om plikter for de ansvarshavende for lufthavner (flyplasser).
 
 Fra samme tid gjøres følgende endringer i andre forskrifter: – – –
 
@@ -290,7 +328,10 @@ En del smittsomme sykdommer og utbrudd er allerede varslingspliktige i Norge, jf
 
 En alvorlig hendelse av betydning for internasjonal folkehelse er definert i forskriften som en folkehelserisiko eller helsetrussel som kan spres over landegrensene, og som kan kreve en internasjonalt koordinert bekjemping. En slik alvorlig hendelse som er av betydning for internasjonal folkehelse utgjør en såkalt PHEIC under IHR/WHO. Behovet for oppmerksomhet og varsling gjelder også før en hendelse er definert som PHEIC, og flere av forskriftens bestemmelser viser derfor til alvorlig hendelse som kan ha betydning for internasjonal folkehelse.
 
-Definisjonen ble endret 1. januar 2017 for å innlemme EWRS og varsling til Kommisjonen, som har en noe lavere terskel enn varsling etter IHR. Definisjonen omfatter fortsatt en ekstraordinær hendelse (en PHEIC) som etter IHR er fastslått åutgjøre en folkehelserisiko for andre stater gjennom internasjonal spredning av sykdom med mer, ogpotensielt fordrer en samordnet internasjonal respons.
+Definisjonen ble endret 1. januar 2017 for å innlemme EWRS og varsling til Kommisjonen, som har en noe lavere terskel enn varsling etter IHR. Definisjonen omfatter fortsatt en ekstraordinær hendelse (en PHEIC) som etter IHR er fastslått å
+
+1. utgjøre en folkehelserisiko for andre stater gjennom internasjonal spredning av sykdom med mer, og
+2. potensielt fordrer en samordnet internasjonal respons.
 
 En folkehelserisiko er sannsynlighet for at en hendelse skal finne sted som kan være helseskadelig for befolkningen, særlig en hendelse som kan spre seg internasjonalt eller utgjør en alvorlig og direkte fare.
 
@@ -354,9 +395,18 @@ Folkehelseinstituttet vil fortløpende vurdere alle hendelser som instituttet er
 
 *Til andre ledd*
 
-Folkehelseinstituttet vil varsle hendelser til WHO dersom minst to av følgende kriterier er oppfylt:hendelsen har alvorlig innvirkning på folkehelsen,hendelsen er uvanlig eller uventet,det er risiko for internasjonal spredning, og/ellerdet er risiko for internasjonale reise- eller handelsrestriksjoner.
+Folkehelseinstituttet vil varsle hendelser til WHO dersom minst to av følgende kriterier er oppfylt:
 
-Folkehelseinstituttet vil varsle hendelser til Kommisjonen dersom følgende kriterier er oppfylt:den er uvanlig eller uventet på det aktuelle sted og tidspunkt, eller den fører til eller kan føre til betydelig sykelighet eller dødelighet hos mennesker, eller den øker eller kan øke raskt i omfang, eller den er for omfattende til å kunne håndteres med nasjonal innsatskapasitet, ogden berører eller kan berøre mer enn én medlemsstat, ogden krever eller kan kreve samordnet innsats på innenfor EU/EØS.
+- hendelsen har alvorlig innvirkning på folkehelsen,
+- hendelsen er uvanlig eller uventet,
+- det er risiko for internasjonal spredning, og/eller
+- det er risiko for internasjonale reise- eller handelsrestriksjoner.
+
+Folkehelseinstituttet vil varsle hendelser til Kommisjonen dersom følgende kriterier er oppfylt:
+
+- den er uvanlig eller uventet på det aktuelle sted og tidspunkt, eller den fører til eller kan føre til betydelig sykelighet eller dødelighet hos mennesker, eller den øker eller kan øke raskt i omfang, eller den er for omfattende til å kunne håndteres med nasjonal innsatskapasitet, og
+- den berører eller kan berøre mer enn én medlemsstat, og
+- den krever eller kan kreve samordnet innsats på innenfor EU/EØS.
 
 Det er i praksis en noe lavere terskel for å varsle Kommisjonen enn å varsle WHO. Innenfor EU varsles ikke hendelser med radioaktive eller nukleære stoffer i EWRS, da slike hendelser varsles via EUs varslingssystem for atomulykker (ECURIE).
 

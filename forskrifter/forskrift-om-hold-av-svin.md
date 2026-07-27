@@ -15,7 +15,7 @@ xml_hash: "1e7593f322c1677130c037d0d3a087fa7bff472d13ad8a58612858fa24ce279d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -108,7 +108,12 @@ Når det nyttes spaltegulv til svin, skal spalteplankens bredde og spalteåpning
 | – betongspalter | minimum 80 | maksimum 20 |
 | – plast- og metallspalter, se åttende ledd |  |  |
 
-Forholdet mellom spaltebredde og bredden på spalteplank skal være slik at gulvet gir dyrene en tilfredsstillende flate å trå på, og slik at klauvskader ikke oppstår. Bredden av spalteåpningen skal ikke være større enn 20 mm. For andre typer spaltegolv enn betong skal spalteplankens bredde være:minst lik bredden av spalteåpningen når denne er 10-12 mm.minst lik 2 x bredden av spalteåpningen når denne er 13-20 mm.I fødebinger skal spaltegolv med spalteåpning større enn 10 mm skal tildekkes i tiden omkring grising.
+Forholdet mellom spaltebredde og bredden på spalteplank skal være slik at gulvet gir dyrene en tilfredsstillende flate å trå på, og slik at klauvskader ikke oppstår. Bredden av spalteåpningen skal ikke være større enn 20 mm. For andre typer spaltegolv enn betong skal spalteplankens bredde være:
+
+1. minst lik bredden av spalteåpningen når denne er 10-12 mm.
+2. minst lik 2 x bredden av spalteåpningen når denne er 13-20 mm.
+
+I fødebinger skal spaltegolv med spalteåpning større enn 10 mm skal tildekkes i tiden omkring grising.
 
 > Endret ved [forskrift 18 des 2009 nr. 1808](forskrift/2009-12-18-1808) (i kraft 1 jan 2010).
 
@@ -124,13 +129,24 @@ Automatisk melketildeling som erstatning for naturlig amming er unntaksvis tilla
 
 Inngrep som skjer i annen hensikt enn å gi behandling eller å stille diagnose er forbudt.
 
-Forbudet i første ledd omfatter ikke:Tenner hos smågris yngre enn 7 dager, som ved behov kan files eller kuttes med egnet redskap forutsatt at dette etterlater en jevn tannflate og uten at det åpnes til tannkanalen. Klipping av tenner på smågris er forbudt.Reduksjon av lengden av hjørnetenner til råner som kan reduseres hvis det er nødvendig ut fra sikkerhetshensyn.Kirurgisk kastrering av hanngris under 4 ukers alder som er tillatt. Inngrepet skal utføres av veterinær med bruk av bedøvelse, og det skal i tillegg til bedøvelse brukes langtidsvirkende smertebehandling gitt som injeksjon i forbindelse med inngrepet. Ved kastrering skal det ikke nyttes metode med overriving av vev.Amputering av hale på svin, dersom dette er nødvendig ut fra en veterinærmedisinsk indikasjon. Inngrepet kan bare utføres av veterinær som bruker bedøvelse og langtidsvirkende smertebehandling i forbindelse med inngrepet.Merking av svin etter merkeforskriften, eller om nødvendig merking av behandlet svin.
+Forbudet i første ledd omfatter ikke:
+
+1. Tenner hos smågris yngre enn 7 dager, som ved behov kan files eller kuttes med egnet redskap forutsatt at dette etterlater en jevn tannflate og uten at det åpnes til tannkanalen. Klipping av tenner på smågris er forbudt.
+2. Reduksjon av lengden av hjørnetenner til råner som kan reduseres hvis det er nødvendig ut fra sikkerhetshensyn.
+3. Kirurgisk kastrering av hanngris under 4 ukers alder som er tillatt. Inngrepet skal utføres av veterinær med bruk av bedøvelse, og det skal i tillegg til bedøvelse brukes langtidsvirkende smertebehandling gitt som injeksjon i forbindelse med inngrepet. Ved kastrering skal det ikke nyttes metode med overriving av vev.
+4. Amputering av hale på svin, dersom dette er nødvendig ut fra en veterinærmedisinsk indikasjon. Inngrepet kan bare utføres av veterinær som bruker bedøvelse og langtidsvirkende smertebehandling i forbindelse med inngrepet.
+5. Merking av svin etter merkeforskriften, eller om nødvendig merking av behandlet svin.
 
 > Endret ved [forskrifter 30 des 2008 nr. 1546](forskrift/2008-12-30-1546), [18 des 2009 nr. 1808](forskrift/2009-12-18-1808) (i kraft 1 jan 2010).
 
 ### § 11. Fiksering og prøvetaking
 
-Det er ikke tillatt å fiksere svin. Det er likevel tillatt med fiksering i følgende tilfeller:i forbindelse med fôringi forbindelse med veterinærbehandling/insemineringspesielt urolige enkeltdyr under brunstspesielt urolige purker fra grisingstidspunktet og opp til 7 dager etter grising.
+Det er ikke tillatt å fiksere svin. Det er likevel tillatt med fiksering i følgende tilfeller:
+
+- i forbindelse med fôring
+- i forbindelse med veterinærbehandling/inseminering
+- spesielt urolige enkeltdyr under brunst
+- spesielt urolige purker fra grisingstidspunktet og opp til 7 dager etter grising.
 
 Oppbinding er ikke tillatt som fikseringsmetode. Ved nybygg og ombygging av fødeavdelinger skal det legges til rette for at fiksering ikke er nødvendig.
 
@@ -303,7 +319,24 @@ Etter avvenning skal smågrisene plasseres og holdes i stabile grupper, og flytt
 
 ### § 26a. Dyrevelferdsprogram
 
-Dyreholdere som har en eller flere purker, eller som har planlagt å levere eller leverer flere enn 10 griser til slakt i året, skal være med i et dyrevelferdsprogram som er godkjent av Mattilsynet. Dyrevelferdsprogrammet skal som minimum stille krav til dyreholderen om åha dyrefaglig kompetanse om velferd for svinha en egen skriftlig plan for hvordan grisene skal sikres god velferdregistrere sykdom og skade, all medisinsk behandling, mulige dødsårsaker og avliving av griser i dyreholdetha ekstern og intern revisjon av dyreholdetha avtale med veterinær som skal besøke dyreholdet og vurdere og gi råd om velferden for grisene minst så mange ganger i året som vist i denne tabellen:*Årlig antall leverte eller planlagt leverte griser, og spesielle driftsformer**Minste antall årlige veterinærbesøk*Inntil 750 griser til slakteriEtt veterinærbesøk0 til 200 smågriser til andre dyreholdEtt veterinærbesøk751 til 1500 griser til slakteriTo veterinærbesøkFlere enn 200 smågriser til andre dyreholdTo veterinærbesøkFlere enn 1500 griser til slakteriTre veterinærbesøkForedlingsbesetningTre veterinærbesøkFormeringsbesetningTre veterinærbesøkNav i purkeringTre veterinærbesøk
+Dyreholdere som har en eller flere purker, eller som har planlagt å levere eller leverer flere enn 10 griser til slakt i året, skal være med i et dyrevelferdsprogram som er godkjent av Mattilsynet. Dyrevelferdsprogrammet skal som minimum stille krav til dyreholderen om å
+
+1. ha dyrefaglig kompetanse om velferd for svin
+2. ha en egen skriftlig plan for hvordan grisene skal sikres god velferd
+3. registrere sykdom og skade, all medisinsk behandling, mulige dødsårsaker og avliving av griser i dyreholdet
+4. ha ekstern og intern revisjon av dyreholdet
+5. ha avtale med veterinær som skal besøke dyreholdet og vurdere og gi råd om velferden for grisene minst så mange ganger i året som vist i denne tabellen:
+
+   | *Årlig antall leverte eller planlagt leverte griser, og spesielle driftsformer* | *Minste antall årlige veterinærbesøk* |
+   | --- | --- |
+   | Inntil 750 griser til slakteri | Ett veterinærbesøk |
+   | 0 til 200 smågriser til andre dyrehold | Ett veterinærbesøk |
+   | 751 til 1500 griser til slakteri | To veterinærbesøk |
+   | Flere enn 200 smågriser til andre dyrehold | To veterinærbesøk |
+   | Flere enn 1500 griser til slakteri | Tre veterinærbesøk |
+   | Foredlingsbesetning | Tre veterinærbesøk |
+   | Formeringsbesetning | Tre veterinærbesøk |
+   | Nav i purkering | Tre veterinærbesøk |
 
 > Tilføyd ved [forskrift 10 juni 2020 nr. 1166](forskrift/2020-06-10-1166).
 
@@ -355,6 +388,24 @@ Denne forskriften trer i kraft straks. Fra samme tid oppheves bestemmelsene om s
 
 Bestemmelsene i [§ 25](forskrift/2003-02-18-175/§25) hva angår lengde på bingesider, krav til fritt areal og til areal med tett gulv gjøres gjeldende for alle nye eller ominnredede dyrerom for svin som tas i bruk etter 1. januar 2003. For dyrerom som var i bruk ved forskriftens ikrafttreden, gjøres bestemmelsene gjeldende fra 1. januar 2013. Inntil da er kravet til fritt areal i gruppebinger minimum 1,8 m2 pr. drektig purke.
 
-Følgende bestemmelse trer i kraft 1. januar 2007:[§ 12](forskrift/2003-02-18-175/§12) hva angår alarm tilknyttet ventilasjonsanlegg.For dyrerom som var i bruk til svin ved denne forskriftens ikrafttreden, trer i tillegg følgende bestemmelser i kraft 1. januar 2006:[§ 7](forskrift/2003-02-18-175/§7), annet ledd hva angår smittesluse og egnet plass for inn- og utlasting av dyr, og[§ 8](forskrift/2003-02-18-175/§8), sjette ledd hva angår kravet om minst én sykebinge pr. 50 slaktegris og purker, og[§ 25](forskrift/2003-02-18-175/§25), åttende ledd.For dyrerom som var i bruk til svin ved denne forskriftens ikrafttreden, trer følgende bestemmelser i kraft 1. januar 2013:[§ 8](forskrift/2003-02-18-175/§8), sjuende ledd om minimum spalteplankbredde og maksimum spalteåpning, og[§ 27](forskrift/2003-02-18-175/§27) hva angår areal.Følgende bestemmelser trer i kraft 1. januar 2011:[§ 7](forskrift/2003-02-18-175/§7) siste ledd siste punktum om at forbindelsen mellom dyrerom og gjødsellager i nybygg skal være utformet slik at gjødselgassforgiftning ikke oppstår.[§ 16](forskrift/2003-02-18-175/§16) femte ledd om brannalarm.
+Følgende bestemmelse trer i kraft 1. januar 2007:
+
+- [§ 12](forskrift/2003-02-18-175/§12) hva angår alarm tilknyttet ventilasjonsanlegg.
+
+For dyrerom som var i bruk til svin ved denne forskriftens ikrafttreden, trer i tillegg følgende bestemmelser i kraft 1. januar 2006:
+
+- [§ 7](forskrift/2003-02-18-175/§7), annet ledd hva angår smittesluse og egnet plass for inn- og utlasting av dyr, og
+- [§ 8](forskrift/2003-02-18-175/§8), sjette ledd hva angår kravet om minst én sykebinge pr. 50 slaktegris og purker, og
+- [§ 25](forskrift/2003-02-18-175/§25), åttende ledd.
+
+For dyrerom som var i bruk til svin ved denne forskriftens ikrafttreden, trer følgende bestemmelser i kraft 1. januar 2013:
+
+- [§ 8](forskrift/2003-02-18-175/§8), sjuende ledd om minimum spalteplankbredde og maksimum spalteåpning, og
+- [§ 27](forskrift/2003-02-18-175/§27) hva angår areal.
+
+Følgende bestemmelser trer i kraft 1. januar 2011:
+
+- [§ 7](forskrift/2003-02-18-175/§7) siste ledd siste punktum om at forbindelsen mellom dyrerom og gjødsellager i nybygg skal være utformet slik at gjødselgassforgiftning ikke oppstår.
+- [§ 16](forskrift/2003-02-18-175/§16) femte ledd om brannalarm.
 
 > Endret ved [forskrifter 17 juni 2003 nr. 710](forskrift/2003-06-17-710), [29 juni 2006 nr. 858](forskrift/2006-06-29-858), [18 des 2009 nr. 1808](forskrift/2009-12-18-1808) (i kraft 1 jan 2010).

@@ -56,15 +56,45 @@ Luftfartstilsynet er ansvarlig for gjennomføring av beskyttelsesbestemmelsene s
 
 ## § 6. Varsling av luftfartsulykker
 
-Inntreffer en luftfartsulykke skalfartøysjefenandre besetningsmedlemmerbrukeren av luftfartøyeteieren av luftfartøyetansatte i flysikringstjenestenansatte i bakketjenestenstraks varsle nærmeste enhet av lufttrafikktjenesten, nærmeste politimyndighet eller Hovedredningssentralen om ulykken.
+Inntreffer en luftfartsulykke skal
 
-Varsel etter første ledd skal gis per telefon eller annet egnet middel, og så langt det er praktisk mulig inneholde opplysninger omluftfartøyets registreringsmerke (og radiokallesignal, hvis forskjellig)luftfartøyets typetidspunkt for ulykkenposisjon/sted hvor ulykken har inntruffet angitt i bredde- og lengdegrad eller i forhold til et kjent geografisk punkt, samt opplysninger om terrengforholdeneeierens eller brukerens navnfartøysjefens navn, hvordan vedkommende kan kontaktes og fartøysjefens skadetilstand i den grad undersøkelsesmyndigheten bør vite om detantall personer om bord, antall omkomne, antall alvorlig skadede og lettere skadedeomfanget av skader på luftfartøyetskade på tredjemanns eiendomkort beskrivelse av hendelsesforløpetkort beskrivelse av lokalt vær.
+1. fartøysjefen
+2. andre besetningsmedlemmer
+3. brukeren av luftfartøyet
+4. eieren av luftfartøyet
+5. ansatte i flysikringstjenesten
+6. ansatte i bakketjenesten
+
+straks varsle nærmeste enhet av lufttrafikktjenesten, nærmeste politimyndighet eller Hovedredningssentralen om ulykken.
+
+Varsel etter første ledd skal gis per telefon eller annet egnet middel, og så langt det er praktisk mulig inneholde opplysninger om
+
+1. luftfartøyets registreringsmerke (og radiokallesignal, hvis forskjellig)
+2. luftfartøyets type
+3. tidspunkt for ulykken
+4. posisjon/sted hvor ulykken har inntruffet angitt i bredde- og lengdegrad eller i forhold til et kjent geografisk punkt, samt opplysninger om terrengforholdene
+5. eierens eller brukerens navn
+6. fartøysjefens navn, hvordan vedkommende kan kontaktes og fartøysjefens skadetilstand i den grad undersøkelsesmyndigheten bør vite om det
+7. antall personer om bord, antall omkomne, antall alvorlig skadede og lettere skadede
+8. omfanget av skader på luftfartøyet
+9. skade på tredjemanns eiendom
+10. kort beskrivelse av hendelsesforløpet
+11. kort beskrivelse av lokalt vær.
 
 Varslingen må ikke forsinkes på grunn av at enkelte opplysninger mangler.
 
 ## § 7. Varsling av alvorlige luftfartshendelse
 
-Inntreffer en alvorlig luftfartshendelse skalfartøysjefenandre besetningsmedlemmerbrukeren av luftfartøyeteieren av luftfartøyetansatte i flysikringstjenestenansatte i bakketjenestenstraks varsle Statens havarikommisjon om hendelsen. Er den varslingspliktige hendelsen en lufttrafikkhendelse, plikter fartøysjefen dessuten umiddelbart å varsle den enhet av lufttrafikktjenesten som fartøysjefen står i forbindelse med over radio. Hvis dette ikke er mulig, skal varsling gis over telefon eller over det faste sambandsnettet for luftfarten umiddelbart etter landing.
+Inntreffer en alvorlig luftfartshendelse skal
+
+1. fartøysjefen
+2. andre besetningsmedlemmer
+3. brukeren av luftfartøyet
+4. eieren av luftfartøyet
+5. ansatte i flysikringstjenesten
+6. ansatte i bakketjenesten
+
+straks varsle Statens havarikommisjon om hendelsen. Er den varslingspliktige hendelsen en lufttrafikkhendelse, plikter fartøysjefen dessuten umiddelbart å varsle den enhet av lufttrafikktjenesten som fartøysjefen står i forbindelse med over radio. Hvis dette ikke er mulig, skal varsling gis over telefon eller over det faste sambandsnettet for luftfarten umiddelbart etter landing.
 
 Med lufttrafikkhendelse menes en trafikkrelatert luftfartshendelse som for eksempel en nærpassering («aircraft proximity»), alvorlige vanskeligheter som oppstår fordi fartøysjefen eller lufttrafikktjenesten unnlater å følge gjeldende fremgangsmåte eller avviker fra gjeldende («procedure») samt alvorlige vanskeligheter forårsaket av mangler eller feil ved bakkeinstallasjon eller hjelpemiddel («facility»).
 
@@ -76,21 +106,52 @@ Varslingen må ikke forsinkes på grunn av at enkelte opplysninger mangler.
 
 ## § 8. Varsling av alvorlige tekniske feil
 
-Tekniske feil som er av en slik karakter at det kan bli aktuelt å gjennomføre tiltak på samtlige produkter eller utstyr av en bestemt type, skal snarest mulig varsles til Luftfartstilsynet avfartøysjefenandre besetningsmedlemmervedlikeholdsinstansbrukeren av luftfartøyeteieren av luftfartøyethvis det dreier seg om feil ved et luftfartøy, og avansatte i flysikringstjenestenansatte i bakketjenestenhvis det dreier seg om feil ved produkter eller utstyr som brukes i slike typer virksomhet.
+Tekniske feil som er av en slik karakter at det kan bli aktuelt å gjennomføre tiltak på samtlige produkter eller utstyr av en bestemt type, skal snarest mulig varsles til Luftfartstilsynet av
+
+1. fartøysjefen
+2. andre besetningsmedlemmer
+3. vedlikeholdsinstans
+4. brukeren av luftfartøyet
+5. eieren av luftfartøyet
+
+hvis det dreier seg om feil ved et luftfartøy, og av
+
+1. ansatte i flysikringstjenesten
+2. ansatte i bakketjenesten
+
+hvis det dreier seg om feil ved produkter eller utstyr som brukes i slike typer virksomhet.
 
 Varsel etter første ledd skal gis per telefon eller annet egnet middel.
 
 ## § 9. Varsling av hendelser med farlig gods i luftfartøy
 
-Inntrer en irregulær hendelse med farlig gods, når godset er om bord i et luftfartøy, skalfartøysjefenbrukeren eller eieren av luftfartøyetden som på vegne av bruker forestår lasting eller lossing av fartøyetsnarest mulig varsle nærmeste politimyndighet og brannvesen, og nærmeste enhet av lufttrafikktjenesten.
+Inntrer en irregulær hendelse med farlig gods, når godset er om bord i et luftfartøy, skal
+
+1. fartøysjefen
+2. brukeren eller eieren av luftfartøyet
+3. den som på vegne av bruker forestår lasting eller lossing av fartøyet
+
+snarest mulig varsle nærmeste politimyndighet og brannvesen, og nærmeste enhet av lufttrafikktjenesten.
 
 ## § 10. Varsling av kollisjon mv. mellom luftfartøy og fugl
 
-Oppdages kollisjon mellom luftfartøy og fugl under flyging, skalfartøysjefenannet besetningsmedlemsnarest mulig varsle den enheten av lufttrafikktjenesten som vedkommende står i forbindelse med over radio. Det samme gjelder dersom det er fare for slik kollisjon.
+Oppdages kollisjon mellom luftfartøy og fugl under flyging, skal
+
+1. fartøysjefen
+2. annet besetningsmedlem
+
+snarest mulig varsle den enheten av lufttrafikktjenesten som vedkommende står i forbindelse med over radio. Det samme gjelder dersom det er fare for slik kollisjon.
 
 ## § 11. Varsling av ulykker og hendelser med mikrolett fly, fallskjerm, hengeglider og paraglider
 
-Fører en luftfartsulykke til tap av menneskeliv eller alvorlig personskade under flyging med mikrolett fly, ved fallskjermhopping eller under flyging med henge-/paraglider, skalfartøysjefenutøverenden person som er oppnevnt som operativt ansvarlig for angjeldende luftsportsaktiviteteieren av innretningensnarest mulig varsle nærmeste politimyndighet om ulykken. Det samme gjelder dersom en luftfartshendelse har ført til skade på tredjemanns eiendom.
+Fører en luftfartsulykke til tap av menneskeliv eller alvorlig personskade under flyging med mikrolett fly, ved fallskjermhopping eller under flyging med henge-/paraglider, skal
+
+1. fartøysjefen
+2. utøveren
+3. den person som er oppnevnt som operativt ansvarlig for angjeldende luftsportsaktivitet
+4. eieren av innretningen
+
+snarest mulig varsle nærmeste politimyndighet om ulykken. Det samme gjelder dersom en luftfartshendelse har ført til skade på tredjemanns eiendom.
 
 Varsel etter første ledd skal gis per telefon eller annet egnet middel, og, så langt det er praktisk mulig, inneholde opplysninger som nevnt i [§ 6](forskrift/2016-07-01-868/§6) andre ledd.
 

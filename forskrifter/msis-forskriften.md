@@ -15,7 +15,7 @@ xml_hash: "b56fa353c15a50aa739e6f523721fb7bf0c12508e80e809627a9a67c9e8bf9c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,13 @@ Departementet gir nærmere bestemmelser i forskrift om hvilke smittsomme sykdomm
 
 ### § 1-3. (Registerets formål)
 
-MSIS skal bidra til overvåkingen av smittsomme sykdommer hos mennesker i Norge gjennom fortløpende og systematisk innsamling, analyse, tolkning og rapportering av opplysninger om forekomst av smittsomme sykdommer og dermed legge grunnlaget for å:beskrive forekomsten av smittsomme sykdommer over tid og etter geografiske og demografiske forhold,oppdage og bidra til oppklaring av utbrudd av smittsomme sykdommer,gi råd til publikum, helsepersonell og forvaltning om smitteverntiltak,evaluere virkninger av smitteverntiltak ogdrive, fremme og gi grunnlag for forskning om smittsomme sykdommers utbredelse og årsaker.
+MSIS skal bidra til overvåkingen av smittsomme sykdommer hos mennesker i Norge gjennom fortløpende og systematisk innsamling, analyse, tolkning og rapportering av opplysninger om forekomst av smittsomme sykdommer og dermed legge grunnlaget for å:
+
+1. beskrive forekomsten av smittsomme sykdommer over tid og etter geografiske og demografiske forhold,
+2. oppdage og bidra til oppklaring av utbrudd av smittsomme sykdommer,
+3. gi råd til publikum, helsepersonell og forvaltning om smitteverntiltak,
+4. evaluere virkninger av smitteverntiltak og
+5. drive, fremme og gi grunnlag for forskning om smittsomme sykdommers utbredelse og årsaker.
 
 MSIS skal i tillegg til formål nevnt i første ledd, legge grunnlaget for å evaluere virkninger av behandlingstiltak og sikre kvaliteten av disse.
 
@@ -98,13 +104,50 @@ MSIS kan uten samtykke inneholde opplysninger som nevnt i tredje ledd om persone
 
 MSIS kan uten samtykke inneholde opplysninger som nevnt i tredje ledd om personer som har eller har hatt tuberkulose eller personer som får forebyggende behandling mot tuberkulose, jf. [forskrift om tuberkulosekontroll § 4-5](forskrift/2009-02-13-205/§4-5).
 
-Registeret kan inneholde følgende opplysninger i den utstrekning det er nødvendig for å nå formålet med registeret:personopplysninger:navn, fødselsnummer eller annen personentydig identifikasjon for personer uten norsk fødselsnummer, sivilstand og yrke,bostedsadresse,fødeland, foreldres fødeland, tidspunkt for ankomst til Norge og årsak til oppholdet i Norge,navn på arbeidssted, skole eller barnehage pasienten er tilknyttet.administrative opplysninger:institusjon/virksomhet der helsehjelp tilbys og ytes,behandlingsansvarlig leges, fastleges eller meldende leges navn og adresse,institusjonsopphold, innleggelsesdato, utskrivingsdato,laboratorium der diagnosen er stilt.medisinske opplysninger:om diagnose og diagnosegrunnlag,om smittestoffet, inkludert resistens,om disponerende og forebyggende faktorer,MSIS kan i tillegg inneholde opplysninger om sykdomsforløp og behandling av tuberkulose og behandlingsresultat.epidemiologiske opplysninger:om smitteforhold og smitteoppsporing,om varsling.
+Registeret kan inneholde følgende opplysninger i den utstrekning det er nødvendig for å nå formålet med registeret:
+
+1. personopplysninger:
+
+   - navn, fødselsnummer eller annen personentydig identifikasjon for personer uten norsk fødselsnummer, sivilstand og yrke,
+   - bostedsadresse,
+   - fødeland, foreldres fødeland, tidspunkt for ankomst til Norge og årsak til oppholdet i Norge,
+   - navn på arbeidssted, skole eller barnehage pasienten er tilknyttet.
+2. administrative opplysninger:
+
+   - institusjon/virksomhet der helsehjelp tilbys og ytes,
+   - behandlingsansvarlig leges, fastleges eller meldende leges navn og adresse,
+   - institusjonsopphold, innleggelsesdato, utskrivingsdato,
+   - laboratorium der diagnosen er stilt.
+3. medisinske opplysninger:
+
+   - om diagnose og diagnosegrunnlag,
+   - om smittestoffet, inkludert resistens,
+   - om disponerende og forebyggende faktorer,
+   - MSIS kan i tillegg inneholde opplysninger om sykdomsforløp og behandling av tuberkulose og behandlingsresultat.
+4. epidemiologiske opplysninger:
+
+   - om smitteforhold og smitteoppsporing,
+   - om varsling.
 
 > Endret ved [forskrifter 13 feb 2009 nr. 168](forskrift/2009-02-13-168) (i kraft 1 mars 2009), [23 mai 2014 nr. 667](forskrift/2014-05-23-667) som endret ved [forskrift 27 mai 2014 nr. 676](forskrift/2014-05-27-676) (i kraft 1 juli 2014), [3 juni 2016 nr. 564](forskrift/2016-06-03-564), [22 mars 2019 nr. 279](forskrift/2019-03-22-279), [20 des 2019 nr. 1930](forskrift/2019-12-20-1930) (i kraft 1 jan 2020), [23 juni 2020 nr. 1287](forskrift/2020-06-23-1287), [26 nov 2021 nr. 3293](forskrift/2021-11-26-3293) (i kraft 13 des 2021, jf. vedtak [12 des 2021 nr. 3484](forskrift/2021-12-12-3484)), [23 juni 2020 nr. 1287](forskrift/2020-06-23-1287) (i kraft 1 juli 2024, endring endret ved forskrifter [17 juni 2022 nr. 1046](forskrift/2022-06-17-1046), [16 juni 2023 nr. 910](forskrift/2023-06-16-910)), [21 juni 2024 nr. 1104](forskrift/2024-06-21-1104) (i kraft 1 juli 2024).
 
 ### § 1-8. (Opplysninger i MSIS om tilfeller av smittsom sykdom i gruppe C)
 
-MSIS kan uten samtykke inneholde følgende opplysninger om personer som har eller har hatt smittsom sykdom i gruppe C, jf. [§ 1-2](forskrift/2003-06-20-740/§1-2) i den utstrekning det er nødvendig for å nå formålet med registeret:personopplysninger:fødselsår,kjønn,bostedskommune,administrative opplysninger:institusjon/virksomhet der helsehjelp tilbys og ytes,laboratorium der diagnosen er stilt,medisinske opplysninger:infeksjonssykdommens lokalisasjondiagnosens grunnlag.
+MSIS kan uten samtykke inneholde følgende opplysninger om personer som har eller har hatt smittsom sykdom i gruppe C, jf. [§ 1-2](forskrift/2003-06-20-740/§1-2) i den utstrekning det er nødvendig for å nå formålet med registeret:
+
+1. personopplysninger:
+
+   - fødselsår,
+   - kjønn,
+   - bostedskommune,
+2. administrative opplysninger:
+
+   - institusjon/virksomhet der helsehjelp tilbys og ytes,
+   - laboratorium der diagnosen er stilt,
+3. medisinske opplysninger:
+
+   - infeksjonssykdommens lokalisasjon
+   - diagnosens grunnlag.
 
 ### § 1-8a. (Biobank tilknyttet MSIS)
 
@@ -164,7 +207,13 @@ Kreftregisteret skal melde opplysninger etter [§ 1-7](forskrift/2003-06-20-740/
 
 Laboratorier med nasjonal referansefunksjon i medisinsk mikrobiologi skal sikre høy kvalitet på mikrobiologiske tjenester for ivaretakelse av pasienter og folkehelsen.
 
-Laboratorier med nasjonal referansefunksjon i medisinsk mikrobiologi er tillagt følgende oppgaver:ReferansediagnostikkOpprettholde en samling av stammer og annet referansematerialeVitenskapelig råd og støtteSamarbeid og forskningBistå i overvåking, beredskap og respons ved utbrudd av smittsomme sykdommer.
+Laboratorier med nasjonal referansefunksjon i medisinsk mikrobiologi er tillagt følgende oppgaver:
+
+- Referansediagnostikk
+- Opprettholde en samling av stammer og annet referansemateriale
+- Vitenskapelig råd og støtte
+- Samarbeid og forskning
+- Bistå i overvåking, beredskap og respons ved utbrudd av smittsomme sykdommer.
 
 Departementet peker ut laboratorier med nasjonal referansefunksjon i medisinsk mikrobiologi.
 
@@ -344,7 +393,22 @@ Databehandleren som behandler helseopplysninger på vegne av Folkehelseinstitutt
 
 Internkontrollen innebærer at den dataansvarlige skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem det måtte angå.
 
-Internkontrollen skal blant annet inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:oppfyllelse av krav om at personidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften [§ 1-10](forskrift/2003-06-20-740/§1-10) og [§ 2-6](forskrift/2003-06-20-740/§2-6),oppfyllelse av begjæringer om informasjon og innsyn, jf. [helseregisterloven § 24](lov/2014-06-20-43/§24), samt forskriften [§ 6-2](forskrift/2003-06-20-740/§6-2),hvordan virksomheten oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. [§ 3-1](forskrift/2003-06-20-740/§3-1),rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik, og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven.rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Internkontrollen skal blant annet inneholde:
+
+1. oversikt over hvordan virksomheten er organisert,
+2. oversikt over ansvars- og myndighetsforhold,
+3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,
+4. rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:
+
+   - oppfyllelse av krav om at personidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),
+   - dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften [§ 1-10](forskrift/2003-06-20-740/§1-10) og [§ 2-6](forskrift/2003-06-20-740/§2-6),
+   - oppfyllelse av begjæringer om informasjon og innsyn, jf. [helseregisterloven § 24](lov/2014-06-20-43/§24), samt forskriften [§ 6-2](forskrift/2003-06-20-740/§6-2),
+   - hvordan virksomheten oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. [§ 3-1](forskrift/2003-06-20-740/§3-1),
+5. rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik, og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven.
+8. rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og
+9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i annet ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette, dersom det anses påkrevet. Tilsynsmyndighetene kan dispensere fra hele eller deler av dette kapittel når særlige forhold foreligger.
 
@@ -524,7 +588,9 @@ Følgende sykdommer skal meldes:
 
 ## Vedlegg II
 
-Følgende humant biologisk materiale kan lagres i biobank i tilknytning til MSIS-registeret:Prøvemateriale fra livmorhalsen fra kvinner med kreft eller forstadier til kreft hvor HPV er påvist.
+Følgende humant biologisk materiale kan lagres i biobank i tilknytning til MSIS-registeret:
+
+- Prøvemateriale fra livmorhalsen fra kvinner med kreft eller forstadier til kreft hvor HPV er påvist.
 
 > Tilføyd ved [forskrift 23 mai 2014 nr. 667](forskrift/2014-05-23-667) som endret ved [forskrift 27 mai 2014 nr. 676](forskrift/2014-05-27-676) (i kraft 1 juli 2014).
 
@@ -710,7 +776,13 @@ Med varsling menes en umiddelbart formidlet beskjed om visse enkelttilfeller ell
 
 Det er varslingsplikt for enkelttilfeller av visse sykdommer og for visse typer utbrudd av smittsomme sykdommer. Med utbrudd menes enten flere tilfeller enn forventet av en bestemt sykdom innenfor et område i et gitt tidsrom eller to eller flere tilfeller med antatt felles kilde. Det følger av dette at enkelttilfeller av sykdommer som normalt ikke forventes å forekomme i Norge, er utbrudd som skal varsles.
 
-Varsling skal bidra til at:enkelttilfeller eller utbrudd raskt kan sees i sammenheng slik at større utbrudd oppdages tidlig og smitteverntiltak kan iverksettes,varsleren får bistand til håndtering av situasjonen, om nødvendig på stedet,myndigheter som har ansvar for håndteringen, blir brakt inn i saken,omfanget av utbrudd i landet kartlegges, ogutenlandske myndigheter blir orientert gjennom Norges deltakelse i internasjonale varslingssystemer.
+Varsling skal bidra til at:
+
+- enkelttilfeller eller utbrudd raskt kan sees i sammenheng slik at større utbrudd oppdages tidlig og smitteverntiltak kan iverksettes,
+- varsleren får bistand til håndtering av situasjonen, om nødvendig på stedet,
+- myndigheter som har ansvar for håndteringen, blir brakt inn i saken,
+- omfanget av utbrudd i landet kartlegges, og
+- utenlandske myndigheter blir orientert gjennom Norges deltakelse i internasjonale varslingssystemer.
 
 Det er etablert en døgnåpen sentral for mottak av varsler på Folkehelseinstituttet (Smittevernvakta tlf: 21 07 63 58). Folkehelseinstituttet har utarbeidet et web-baserte varslingssystem (VESUV) til hjelp for dem som skal varsle utbrudd av smittsom sykdom.
 
@@ -722,11 +794,38 @@ Varsling av enkelttilfeller eller utbrudd kommer i tillegg til meldingen til MSI
 
 Varsler om enkelttilfeller av smittsom sykdom eller om utbrudd av sykdommer som er meldingspliktige til registeret, jf. [§ 1-2](forskrift/2003-06-20-740/§1-2), kan inneholde de opplysninger som går fram av [§ 1-7](forskrift/2003-06-20-740/§1-7). Det er departementet som i henhold til annet ledd nærmere bestemmer hvilke sykdommer innen gruppe A jf. [§ 1-2](forskrift/2003-06-20-740/§1-2) det skal varsles om.
 
-Følgende sykdommer skal det per 1. juni 2025 varsles om:Alvorlig, akutt luftveissyndrom – SARSBotulismeDiareassosiert hemolytisk uremisk syndromDifteriEnterohemorrhagisk E.coli-infeksjonFlekktyfusHemoragisk feberInfluensa forårsaket av virus med pandemisk potensialKoleraKopperLegionelloseMeningokokksykdomMeslingerMiddle East Respiratory Syndrome – MERSMiltbrannM-kopperPestPoliomyelittRabiesRøde hunderTrikinose
+Følgende sykdommer skal det per 1. juni 2025 varsles om:
+
+- Alvorlig, akutt luftveissyndrom – SARS
+- Botulisme
+- Diareassosiert hemolytisk uremisk syndrom
+- Difteri
+- Enterohemorrhagisk E.coli-infeksjon
+- Flekktyfus
+- Hemoragisk feber
+- Influensa forårsaket av virus med pandemisk potensial
+- Kolera
+- Kopper
+- Legionellose
+- Meningokokksykdom
+- Meslinger
+- Middle East Respiratory Syndrome – MERS
+- Miltbrann
+- M-kopper
+- Pest
+- Poliomyelitt
+- Rabies
+- Røde hunder
+- Trikinose
 
 ### Til § 3-3 Varsling om utbrudd av smittsom sykdom
 
-Utbrudd av fire typer skal varsles til kommunelegen og deretter til fylkesmannen og Folkehelseinstituttet:utbrudd sykdommene som er meldingspliktige i MSIS, jf. [§ 1-2](forskrift/2003-06-20-740/§1-2),utbrudd av særlig alvorlige sykdommer (andre enn dem som omfattes av MSIS), dvs. sykdommer med høy dødelighet, alvorlig sykdomsbilde eller høy komplikasjonsrate,utbrudd som mistenkes å være næringsmiddelbårne,særlig omfattende utbrudd.
+Utbrudd av fire typer skal varsles til kommunelegen og deretter til fylkesmannen og Folkehelseinstituttet:
+
+- utbrudd sykdommene som er meldingspliktige i MSIS, jf. [§ 1-2](forskrift/2003-06-20-740/§1-2),
+- utbrudd av særlig alvorlige sykdommer (andre enn dem som omfattes av MSIS), dvs. sykdommer med høy dødelighet, alvorlig sykdomsbilde eller høy komplikasjonsrate,
+- utbrudd som mistenkes å være næringsmiddelbårne,
+- særlig omfattende utbrudd.
 
 De tre siste kategoriene gjelder også utbrudd av smittsomme sykdommer som ikke er meldingspliktige til MSIS.
 
@@ -748,7 +847,12 @@ Overlagt spredning av smittestoffer i terrorhensikt (bioterrorisme) eller annen 
 
 Tidlig oppsporing er viktig for å 1) kunne gi riktig behandling av de diagnostiserte pasientene, 2) kunne veilede diagnostikken av andre personer som er under utredning for uvanlige sykdomsbilder og 3) kunne finne andre personer som er eksponert og i inkubasjonsfasen, og tilby dem behandling som forebygger at sykdommen bryter ut.
 
-Et godt varslingssystem forutsetter årvåkne leger. Indikasjoner på at smittsom sykdom skyldes overlagt spredning av smittestoffer kan være:sykdommen eller smittestoffet er uvanlig på stedet.smittestoffet har uvanlige karakteristika, f.eks. resistensmønster og genetisk mønster.et visst smittestoff gir et uvanlig sykdomsbilde, f.eks. høyere sykelighet eller dødelighet.tilfellene fordeler seg uvanlig over tid, sted og person, f.eks. bare hos personer som har oppholdt seg utendørs.
+Et godt varslingssystem forutsetter årvåkne leger. Indikasjoner på at smittsom sykdom skyldes overlagt spredning av smittestoffer kan være:
+
+- sykdommen eller smittestoffet er uvanlig på stedet.
+- smittestoffet har uvanlige karakteristika, f.eks. resistensmønster og genetisk mønster.
+- et visst smittestoff gir et uvanlig sykdomsbilde, f.eks. høyere sykelighet eller dødelighet.
+- tilfellene fordeler seg uvanlig over tid, sted og person, f.eks. bare hos personer som har oppholdt seg utendørs.
 
 Overlagt spredning av smittestoffer behøver ikke være begrenset til smittestoffer som vanligvis forbindes med biologiske stridsmidler.
 

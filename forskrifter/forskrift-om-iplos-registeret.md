@@ -38,13 +38,22 @@ Denne forskriften regulerer opplysninger om personer som har søkt, mottar og ha
 
 ### § 1-2. Definisjoner
 
-I forskriften forstås med:*pseudonyme helseopplysninger:* helseopplysninger der identitet er kryptert eller skjult på annet vis, men likevel individualisert slik at det lar seg gjøre å følge hver person uten at identiteten røpes; definisjonen i personvernforordningen artikkel 4 nr. 5 gjelder ikke bestemmelsene om pseudonyme opplysninger i denne forskriften;*kryptering:* omforming av opplysninger slik at de ikke kan leses eller rekonstrueres av uvedkommende;*dekryptering:* rekonstruksjon av krypterte opplysninger;*IPLOS-registeret:* helseregister hvor det oppbevares pseudonymiserte og kvalitetskontrollerte opplysninger om personer som har søkt, mottar eller har mottatt pleie- og omsorgstjenester;*tiltrodd pseudonymforvalter (TPF):* en uavhengig instans som tildeler og forvalter av pseudonymer på oppdrag fra den dataansvarlige.
+I forskriften forstås med:
+
+1. *pseudonyme helseopplysninger:* helseopplysninger der identitet er kryptert eller skjult på annet vis, men likevel individualisert slik at det lar seg gjøre å følge hver person uten at identiteten røpes; definisjonen i personvernforordningen artikkel 4 nr. 5 gjelder ikke bestemmelsene om pseudonyme opplysninger i denne forskriften;
+2. *kryptering:* omforming av opplysninger slik at de ikke kan leses eller rekonstrueres av uvedkommende;
+3. *dekryptering:* rekonstruksjon av krypterte opplysninger;
+4. *IPLOS-registeret:* helseregister hvor det oppbevares pseudonymiserte og kvalitetskontrollerte opplysninger om personer som har søkt, mottar eller har mottatt pleie- og omsorgstjenester;
+5. *tiltrodd pseudonymforvalter (TPF):* en uavhengig instans som tildeler og forvalter av pseudonymer på oppdrag fra den dataansvarlige.
 
 > Endret ved [forskrifter 13 des 2013 nr. 1452](forskrift/2013-12-13-1452) (i kraft 1 jan 2014), [15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018).
 
 ### § 1-3. IPLOS-registerets formål
 
-Formålet med IPLOS-registeret er å samle inn og behandle data fra kommunene om personer som har søkt, mottar eller har mottatt helse- og omsorgstjenester for å:gi grunnlag for overvåking, kvalitetssikring, planlegging, utvikling og overordnet styring av helse- og omsorgstjenesten og helse- og omsorgsforvaltningen,gi grunnlag for forskning.
+Formålet med IPLOS-registeret er å samle inn og behandle data fra kommunene om personer som har søkt, mottar eller har mottatt helse- og omsorgstjenester for å:
+
+1. gi grunnlag for overvåking, kvalitetssikring, planlegging, utvikling og overordnet styring av helse- og omsorgstjenesten og helse- og omsorgsforvaltningen,
+2. gi grunnlag for forskning.
 
 Opplysninger i IPLOS-registeret kan foruten til formål som er nevnt i første ledd, behandles og brukes til utarbeiding av nasjonal, regional og lokal pleie- og omsorgsstatistikk.
 
@@ -78,7 +87,26 @@ Den dataansvarlige skal inngå skriftlig avtale med en tiltrodd pseudonymforvalt
 
 ### § 1-8. Opplysninger i IPLOS-registeret
 
-IPLOS-registeret kan uten samtykke fra den opplysningen gjelder, inneholde følgende typer opplysninger om personer som har søkt, mottar og har mottatt helse og omsorgstjenester i den utstrekning det er nødvendig for å oppnå formålet med IPLOS-registeret:tildelt pseudonym for søker/mottaker av helse- og omsorgstjenester,bakgrunnsopplysninger:bostedskommune, tjenesteytende kommune, bydel, distrikt,kjønn, fødselsår, sivilstand, dødsdato,behov for assistert kommunikasjon,opplysninger av betydning for vurdering av tjenestebehov:opplysning om bolig og hushold og om personen får privat ikke betalt hjelp,personens funksjonsevne i dagliglivets aktiviteter og andre opplysninger om helsetilstand og sykdom (herunder diagnose) som er relevante og nødvendige for å vurdere tjenestebehovet,om og eventuelt når personen er vurdert av lege i løpet av de siste 12 måneder,om og eventuelt når personen er vurdert av tannhelsepersonell i løpet av de siste 12 måneder,opplysninger om tjenester:vedtak eller beslutning om, herunder avslag på helse- og omsorgstjenester jf. [§ 1-1a](forskrift/2006-02-17-204/§1-1a),melding om skadeavvergende tiltak i nødssituasjoner og vedtak om bruk av tvang og makt,døgnopphold i institusjoner under spesialisthelsetjenesten,opplysning om individuell plan.
+IPLOS-registeret kan uten samtykke fra den opplysningen gjelder, inneholde følgende typer opplysninger om personer som har søkt, mottar og har mottatt helse og omsorgstjenester i den utstrekning det er nødvendig for å oppnå formålet med IPLOS-registeret:
+
+1. tildelt pseudonym for søker/mottaker av helse- og omsorgstjenester,
+2. bakgrunnsopplysninger:
+
+   1. bostedskommune, tjenesteytende kommune, bydel, distrikt,
+   2. kjønn, fødselsår, sivilstand, dødsdato,
+   3. behov for assistert kommunikasjon,
+3. opplysninger av betydning for vurdering av tjenestebehov:
+
+   1. opplysning om bolig og hushold og om personen får privat ikke betalt hjelp,
+   2. personens funksjonsevne i dagliglivets aktiviteter og andre opplysninger om helsetilstand og sykdom (herunder diagnose) som er relevante og nødvendige for å vurdere tjenestebehovet,
+   3. om og eventuelt når personen er vurdert av lege i løpet av de siste 12 måneder,
+   4. om og eventuelt når personen er vurdert av tannhelsepersonell i løpet av de siste 12 måneder,
+4. opplysninger om tjenester:
+
+   1. vedtak eller beslutning om, herunder avslag på helse- og omsorgstjenester jf. [§ 1-1a](forskrift/2006-02-17-204/§1-1a),
+   2. melding om skadeavvergende tiltak i nødssituasjoner og vedtak om bruk av tvang og makt,
+   3. døgnopphold i institusjoner under spesialisthelsetjenesten,
+   4. opplysning om individuell plan.
 
 Opplysningene skal gis i henhold til den klassifikasjon den dataansvarlige bestemmer.
 
@@ -172,7 +200,16 @@ Den dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å s
 
 Internkontrollen innebærer at den dataansvarlige skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, og tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner. Dokumentasjonen skal være tilgjengelig for dem den måtte angå.
 
-Dokumentasjonen av internkontrollen skal minst inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre at kravene blir overholdt,rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det systemet virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Dokumentasjonen av internkontrollen skal minst inneholde:
+
+1. oversikt over hvordan virksomheten er organisert,
+2. oversikt over ansvars- og myndighetsforhold,
+3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,
+4. rutiner virksomheten følger for å sikre at kravene blir overholdt,
+5. rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det systemet virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,
+8. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i første ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette dersom det anses påkrevet. Tilsynsmyndighetene kan dispensere fra hele eller deler av denne bestemmelsen når særlige forhold foreligger.
 
@@ -220,7 +257,10 @@ Den registrerte har rett til informasjon om IPLOS-registeret i samsvar med [hels
 
 ### § 6-2. Innsynsrett
 
-Den registrerte har i medhold av [helseregisterloven § 24](lov/2014-06-20-43/§24) på forespørsel rett til å få opplyst:hvilke helseopplysninger om den registrerte som behandles, ogsikkerhetstiltakene ved behandlingen av helseopplysningene så langt innsyn ikke svekker sikkerheten.
+Den registrerte har i medhold av [helseregisterloven § 24](lov/2014-06-20-43/§24) på forespørsel rett til å få opplyst:
+
+1. hvilke helseopplysninger om den registrerte som behandles, og
+2. sikkerhetstiltakene ved behandlingen av helseopplysningene så langt innsyn ikke svekker sikkerheten.
 
 Innsyn i helseopplysninger om en selv fra registeret skal gis gjennom den kommunen der forespørselen rettes.
 
@@ -354,7 +394,12 @@ Enhver tjenestemann eller oppdragstaker som får kjennskap til IPLOS-registerets
 
 Bestemmelsene pålegger den databehandlingsansvarlige og databehandler å sørge for tilfredsstillende informasjonssikkerhet ved behandling av opplysninger som inngår i IPLOS-registeret. Dette omfatter blant annet å sørge for at tilstrekkeligg sikkerhetsfaglig kompetanse er tilgjengelig. Den databehandlingssansvarlige må også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører.
 
-Begrepet informasjonssikkerhet omfatter blant annet:sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes,sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,sikring av tilgjengelighet, dvs. sørge for at tilstrekkelige og relevante opplysninger er til stede,sikring av kvalitet, dvs. så langt det er mulig sørge for at opplysningene er riktige.
+Begrepet informasjonssikkerhet omfatter blant annet:
+
+- sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes,
+- sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,
+- sikring av tilgjengelighet, dvs. sørge for at tilstrekkelige og relevante opplysninger er til stede,
+- sikring av kvalitet, dvs. så langt det er mulig sørge for at opplysningene er riktige.
 
 Tilfredsstillende informasjonssikkerhet skal oppnås ved hjelp av planlagte og systematiske tiltak. Dette innebærer at anerkjente teknikker og standarder for kvalitetsstyring, internkontroll og informasjonssikkerhet skal legges til grunn. Tiltakene som etableres skal både være organisatoriske og tekniske. Tiltakene og selve informasjonssystemet skal kunne dokumenteres. Personopplysningsloven § 2-1 til § 2-16 om informasjonssikkerhet gjelder også for IPLOS-registeret.
 

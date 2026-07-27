@@ -15,7 +15,7 @@ xml_hash: "5189d6e928cdd5011eeb09e63cdad09957574fb6573506a96f1fc0b24a0162ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009R0723"
@@ -126,7 +126,11 @@ Ved denne forordning fastsettes en rettslig ramme for kravene til og framgangsm�
 
 ### Art 2. Definisjoner
 
-I denne forordning menes med:«forskningsinfrastruktur» anlegg, ressurser og tilknyttede tjenester som forskningsmiljøer benytter for å gjennomføre forskning på høyt nivå innenfor sine respektive fagområder; definisjonen omfatter grunnleggende vitenskapelig utstyr og forskningsmateriell, kunnskapsbaserte kilder som samlinger, arkiver og strukturerte vitenskapelige opplysninger, IKT-infrastrukturer som nett, datautstyr, programvare og kommunikasjonsverktøyer samt alt annet spesialutstyr som er nødvendig for å oppnå fremragende kunnskap innenfor forskning. Slike infrastrukturer kan være samlet på ett sted eller være «distribuerte» (et organisert nett av ressurser),«tredjestat» en stat som ikke er en medlemsstat i Den europeiske union,«assosiert stat» en tredjestat som er part i en internasjonal avtale inngått med Fellesskapet, og som i henhold til eller på grunnlag av denne avtalen bidrar til finansieringen av alle eller en del av Fellesskapets programmer for forskning, teknologisk utvikling og demonstrasjon.
+I denne forordning menes med:
+
+1. «forskningsinfrastruktur» anlegg, ressurser og tilknyttede tjenester som forskningsmiljøer benytter for å gjennomføre forskning på høyt nivå innenfor sine respektive fagområder; definisjonen omfatter grunnleggende vitenskapelig utstyr og forskningsmateriell, kunnskapsbaserte kilder som samlinger, arkiver og strukturerte vitenskapelige opplysninger, IKT-infrastrukturer som nett, datautstyr, programvare og kommunikasjonsverktøyer samt alt annet spesialutstyr som er nødvendig for å oppnå fremragende kunnskap innenfor forskning. Slike infrastrukturer kan være samlet på ett sted eller være «distribuerte» (et organisert nett av ressurser),
+2. «tredjestat» en stat som ikke er en medlemsstat i Den europeiske union,
+3. «assosiert stat» en tredjestat som er part i en internasjonal avtale inngått med Fellesskapet, og som i henhold til eller på grunnlag av denne avtalen bidrar til finansieringen av alle eller en del av Fellesskapets programmer for forskning, teknologisk utvikling og demonstrasjon.
 
 ### Art 3. Oppgave og annen virksomhet
 
@@ -138,19 +142,35 @@ I denne forordning menes med:«forskningsinfrastruktur» anlegg, ressurser og ti
 
 ### Art 4. Krav til infrastruktur
 
-Forskningsinfrastrukturen som opprettes av et ERIC-konsortium, skal oppfylle følgende krav:Den skal være nødvendig for å gjennomføre europeiske forskningsprogrammer og -prosjekter, herunder effektiv gjennomføring av Fellesskapets programmer for forskning, teknologisk utvikling og demonstrasjon.Den skal utgjøre en merverdi i styrkingen og struktureringen av Det europeiske forskningsområde (ERA) og en vesentlig forbedring på de berørte vitenskapelige og teknologiske områder på internasjonalt plan.Det gis i samsvar med reglene i vedtektene reel tilgang for det europeiske forskningsmiljø, bestående av forskere fra medlemsstatene og fra assosierte stater.Den bidrar til mobilitet for kunnskap og/eller forskere innenfor Det europeiske forskningsområde og øker utnyttelsen av det intellektuelle potensialet i hele Europa.Den bidrar til formidling og optimering av resultatene fra Fellesskapets virksomhet innenfor forskning, teknologisk utvikling og demonstrasjon.
+Forskningsinfrastrukturen som opprettes av et ERIC-konsortium, skal oppfylle følgende krav:
+
+1. Den skal være nødvendig for å gjennomføre europeiske forskningsprogrammer og -prosjekter, herunder effektiv gjennomføring av Fellesskapets programmer for forskning, teknologisk utvikling og demonstrasjon.
+2. Den skal utgjøre en merverdi i styrkingen og struktureringen av Det europeiske forskningsområde (ERA) og en vesentlig forbedring på de berørte vitenskapelige og teknologiske områder på internasjonalt plan.
+3. Det gis i samsvar med reglene i vedtektene reel tilgang for det europeiske forskningsmiljø, bestående av forskere fra medlemsstatene og fra assosierte stater.
+4. Den bidrar til mobilitet for kunnskap og/eller forskere innenfor Det europeiske forskningsområde og øker utnyttelsen av det intellektuelle potensialet i hele Europa.
+5. Den bidrar til formidling og optimering av resultatene fra Fellesskapets virksomhet innenfor forskning, teknologisk utvikling og demonstrasjon.
 
 ### Art 5. Søknad om opprettelse av et ERIC-konsortium
 
-1\. Enheter som ønsker å opprette et ERIC-konsortium (heretter kalt «søkere»), skal sende en søknad til Kommisjonen. Søknaden skal framlegges skriftlig på et av EU-institusjonenes offisielle språk og inneholde følgende:en anmodning til Kommisjonen om opprettelse av ERIC-konsortiet,et forslag til vedtekter for ERIC-konsortiet, nevnt i artikkel 10,en teknisk og vitenskapelig beskrivelse av forskningsinfrastrukturen som skal opprettes og drives av ERIC-konsortiet, herunder særlig kravene i artikkel 4,en erklæring der vertsstaten anerkjenner ERIC-konsortiet som et internasjonalt organ i henhold til artikkel 143 bokstav g) og artikkel 151 nr. 1 bokstav b) i direktiv [2006/112/EF](eu/32006l0112) og som en internasjonal organisasjon i henhold til artikkel 23 nr. 1 annet strekpunkt i direktiv [92/12/EØF](eu/31992ec0044-0012), fra og med tidspunktet for opprettelsen. Begrensningene og vilkårene for unntak fastsatt i disse bestemmelsene skal angis i en avtale mellom medlemmene av ERIC-konsortiet.
+1\. Enheter som ønsker å opprette et ERIC-konsortium (heretter kalt «søkere»), skal sende en søknad til Kommisjonen. Søknaden skal framlegges skriftlig på et av EU-institusjonenes offisielle språk og inneholde følgende:
+
+1. en anmodning til Kommisjonen om opprettelse av ERIC-konsortiet,
+2. et forslag til vedtekter for ERIC-konsortiet, nevnt i artikkel 10,
+3. en teknisk og vitenskapelig beskrivelse av forskningsinfrastrukturen som skal opprettes og drives av ERIC-konsortiet, herunder særlig kravene i artikkel 4,
+4. en erklæring der vertsstaten anerkjenner ERIC-konsortiet som et internasjonalt organ i henhold til artikkel 143 bokstav g) og artikkel 151 nr. 1 bokstav b) i direktiv [2006/112/EF](eu/32006l0112) og som en internasjonal organisasjon i henhold til artikkel 23 nr. 1 annet strekpunkt i direktiv [92/12/EØF](eu/31992ec0044-0012), fra og med tidspunktet for opprettelsen. Begrensningene og vilkårene for unntak fastsatt i disse bestemmelsene skal angis i en avtale mellom medlemmene av ERIC-konsortiet.
 
 2\. Kommisjonen skal vurdere søknaden i lys av kravene fastsatt i denne forordning. Under vurderingen skal den innhente uttalelser fra uavhengige eksperter, særlig innenfor de områder der ERIC-konsortiet akter å drive virksomhet. Resultatet av en slik vurdering skal meddeles søkerne, som eventuelt skal bli bedt om å utfylle eller endre søknaden.
 
 ### Art 6. Beslutning om søknaden
 
-1\. Kommisjonen skal, idet den tar hensyn til resultatene av vurderingen nevnt i artikkel 5 nr. 2 og etter framgangsmåten nevnt i artikkel 20,treffe en beslutning om opprettelse av ERIC-konsortiet etter å ha forvisset seg om at kravene fastsatt i denne forordning er oppfylt, elleravslå søknaden dersom den konkluderer med at kravene fastsatt i denne forordning ikke er oppfylt, herunder at erklæringen nevnt i artikkel 5 nr. 1 bokstav d) mangler.
+1\. Kommisjonen skal, idet den tar hensyn til resultatene av vurderingen nevnt i artikkel 5 nr. 2 og etter framgangsmåten nevnt i artikkel 20,
 
-2\. Beslutningen om søknaden skal meddeles søkerne. Dersom søknaden avslås, skal beslutningen begrunnes klart og tydelig overfor søkerne.Beslutningen om opprettelse av ERIC-konsortiet skal også offentliggjøres i L-serien av *Den europeiske unions tidende*.
+1. treffe en beslutning om opprettelse av ERIC-konsortiet etter å ha forvisset seg om at kravene fastsatt i denne forordning er oppfylt, eller
+2. avslå søknaden dersom den konkluderer med at kravene fastsatt i denne forordning ikke er oppfylt, herunder at erklæringen nevnt i artikkel 5 nr. 1 bokstav d) mangler.
+
+2\. Beslutningen om søknaden skal meddeles søkerne. Dersom søknaden avslås, skal beslutningen begrunnes klart og tydelig overfor søkerne.
+
+Beslutningen om opprettelse av ERIC-konsortiet skal også offentliggjøres i L-serien av *Den europeiske unions tidende*.
 
 3\. De viktigste delene av vedtektene som er nevnt i artikkel 10 bokstav b)-f) og i bokstav g) i)-vi), og som inngår i søknaden, skal være vedlagt beslutningen om opprettelse av ERIC-konsortiet.
 
@@ -170,7 +190,12 @@ Forskningsinfrastrukturen som opprettes av et ERIC-konsortium, skal oppfylle fø
 
 ### Art 9. Kriterier for sammensetning
 
-1\. Følgende enheter kan bli medlem av et ERIC-konsortium:medlemsstater,assosierte stater,andre tredjestater enn assosierte stater,mellomstatlige organisasjoner.
+1\. Følgende enheter kan bli medlem av et ERIC-konsortium:
+
+1. medlemsstater,
+2. assosierte stater,
+3. andre tredjestater enn assosierte stater,
+4. mellomstatlige organisasjoner.
 
 2\. Et ERIC-konsortium skal ha minst tre medlemsstater som medlemmer. Ytterligere medlemsstater kan når som helst bli medlemmer på rettferdige og rimelige vilkår angitt i vedtektene og observatører uten stemmerett på vilkårene som er angitt i vedtektene. Ytterligere assosierte stater og andre tredjestater enn assosierte stater samt mellomstatlige organisasjoner kan også bli medlemmer av et ERIC-konsortium, forutsatt at medlemsforsamlingen nevnt i artikkel 12 bokstav a) gir sitt samtykke, i samsvar med vilkårene og framgangsmåtene for medlemskap fastsatt i vedtektene.
 
@@ -186,7 +211,28 @@ Forskningsinfrastrukturen som opprettes av et ERIC-konsortium, skal oppfylle fø
 
 ### Art 10. Vedtekter
 
-Vedtektene til et ERIC-konsortium skal inneholde minst følgende:en liste over medlemmer, observatører og eventuelt enheter som representerer medlemmer samt vilkår og framgangsmåte for endring av ERIC-konsortiets sammensetning og representasjon i samsvar med artikkel 9,ERIC-konsortiets oppgaver og virksomhet,vedtektsbestemt sete i samsvar med artikkel 8 nr. 1,ERIC-konsortiets navn i samsvar med artikkel 8 nr. 2,varighet og framgangsmåte for avvikling i samsvar med artikkel 16,ansvarsordning i samsvar med artikkel 14 nr. 2,grunnleggende regler for:adgang for brukere,vitenskapelig vurdering,formidling,immaterialrettigheter,sysselsetting, herunder like muligheter,tildeling av kontrakter, som overholder prinsippene om innsyn, likebehandling og konkurranse,eventuell nedlegging,data,medlemmenes rettigheter og plikter, herunder plikt til å bidra til et balansert budsjett samt stemmerett,ERIC-konsortiets organer, deres roller og ansvar, sammensetning og beslutningsprosess, særlig i forbindelse med endring av vedtektene, i samsvar med artikkel 11 og 12,fastsettelse av ett eller flere arbeidsspråk,henvisninger til gjennomføringsregler for vedtektene.
+Vedtektene til et ERIC-konsortium skal inneholde minst følgende:
+
+1. en liste over medlemmer, observatører og eventuelt enheter som representerer medlemmer samt vilkår og framgangsmåte for endring av ERIC-konsortiets sammensetning og representasjon i samsvar med artikkel 9,
+2. ERIC-konsortiets oppgaver og virksomhet,
+3. vedtektsbestemt sete i samsvar med artikkel 8 nr. 1,
+4. ERIC-konsortiets navn i samsvar med artikkel 8 nr. 2,
+5. varighet og framgangsmåte for avvikling i samsvar med artikkel 16,
+6. ansvarsordning i samsvar med artikkel 14 nr. 2,
+7. grunnleggende regler for:
+
+   1. adgang for brukere,
+   2. vitenskapelig vurdering,
+   3. formidling,
+   4. immaterialrettigheter,
+   5. sysselsetting, herunder like muligheter,
+   6. tildeling av kontrakter, som overholder prinsippene om innsyn, likebehandling og konkurranse,
+   7. eventuell nedlegging,
+   8. data,
+8. medlemmenes rettigheter og plikter, herunder plikt til å bidra til et balansert budsjett samt stemmerett,
+9. ERIC-konsortiets organer, deres roller og ansvar, sammensetning og beslutningsprosess, særlig i forbindelse med endring av vedtektene, i samsvar med artikkel 11 og 12,
+10. fastsettelse av ett eller flere arbeidsspråk,
+11. henvisninger til gjennomføringsregler for vedtektene.
 
 Vedtektene skal være offentlig tilgjengelig på ERIC-konsortiets nettsted og på dets vedtektsbestemte sete.
 
@@ -200,11 +246,17 @@ Vedtektene skal være offentlig tilgjengelig på ERIC-konsortiets nettsted og p�
 
 4\. Endringen skal ikke tre i kraft før fristen for innsigelse har utløpt eller er opphevet av Kommisjonen, eller før en innsigelse er trukket tilbake.
 
-5\. Søknaden om endring skal inneholde følgende:teksten til den foreslåtte eller eventuelt vedtatte endringen, herunder datoen den trer i kraft,den endrede konsoliderte utgaven av vedtektene.
+5\. Søknaden om endring skal inneholde følgende:
+
+1. teksten til den foreslåtte eller eventuelt vedtatte endringen, herunder datoen den trer i kraft,
+2. den endrede konsoliderte utgaven av vedtektene.
 
 ### Art 12. ERIC-konsortiets organisasjon
 
-I vedtektene skal minst følgende organer opprettes, med følgende kompetanse:en medlemsforsamling som er det organet som har full beslutningsmyndighet, herunder til å vedta budsjettet,en direktør eller et styre, utpekt av medlemsforsamlingen som ERIC-konsortiets utøvende organ og lovlige representant.
+I vedtektene skal minst følgende organer opprettes, med følgende kompetanse:
+
+1. en medlemsforsamling som er det organet som har full beslutningsmyndighet, herunder til å vedta budsjettet,
+2. en direktør eller et styre, utpekt av medlemsforsamlingen som ERIC-konsortiets utøvende organ og lovlige representant.
 
 Det skal framgå av vedtektene hvordan styremedlemmene er lovlige representanter for ERIC-konsortiet.
 
@@ -232,7 +284,11 @@ Det skal framgå av vedtektene hvordan styremedlemmene er lovlige representanter
 
 ### Art 15. Gjeldende lovgivning og domsmyndighet
 
-1\. Opprettelsen av og den interne virkemåten til et ERIC-konsortium skal styresav Fellesskapets regelverk, særlig denne forordning, og beslutningene nevnt i artikkel 6 nr. 1 bokstav a) og artikkel 11 nr. 1,av lovgivningen i den staten der ERIC-konsortiet har sitt vedtektsbestemte sete i saker som ikke eller bare delvis reguleres av rettsaktene nevnt i bokstav a),av vedtektene og gjennomføringsreglene for dem.
+1\. Opprettelsen av og den interne virkemåten til et ERIC-konsortium skal styres
+
+1. av Fellesskapets regelverk, særlig denne forordning, og beslutningene nevnt i artikkel 6 nr. 1 bokstav a) og artikkel 11 nr. 1,
+2. av lovgivningen i den staten der ERIC-konsortiet har sitt vedtektsbestemte sete i saker som ikke eller bare delvis reguleres av rettsaktene nevnt i bokstav a),
+3. av vedtektene og gjennomføringsreglene for dem.
 
 2\. De europeiske fellesskaps domstol skal ha domsmyndighet i tvister mellom medlemmene når det gjelder ERIC-konsortiet, mellom medlemmene og ERIC-konsortiet og i eventuelle tvister som Fellesskapet er del i.
 
@@ -272,7 +328,9 @@ Kommisjonen skal senest 27. juli 2014 framlegge for Europaparlamentet og Rådet 
 
 1\. Kommisjonen skal bistås av en forvaltningskomité.
 
-2\. Når det vises til dette nummer, får artikkel 4 og 7 i beslutning 1999/468/EF anvendelse.Tidsrommet fastsatt i artikkel 4 nr. 3 i beslutning 1999/468/EF skal være to måneder.
+2\. Når det vises til dette nummer, får artikkel 4 og 7 i beslutning 1999/468/EF anvendelse.
+
+Tidsrommet fastsatt i artikkel 4 nr. 3 i beslutning 1999/468/EF skal være to måneder.
 
 ### Art 21. Ikrafttredelse
 
@@ -322,7 +380,10 @@ vedtatt denne forordning:
 
 ### Art 1
 
-Artikkel 9 nr. 2 og 3 i forordning [(EU) nr. 723/2009](eu/32009r0723) skal lyde:Et ERIC-konsortium skal ha en medlemsstat og to andre stater som enten er medlemsstater eller assosierte stater, som deltakere. Ytterligere medlemsstater eller assosierte stater kan når som helst bli medlemmer på rettferdige og rimelige vilkår angitt i vedtektene og observatører uten stemmeretter på vilkårene angitt i vedtektene. Andre tredjestater enn assosierte stater samt mellomstatlige organisasjoner kan også bli medlemmer av et ERIC-konsortium, forutsatt at medlemsforsamlingen nevnt i artikkel 12 bokstav a) gir sitt samtykke, i samsvar med vilkårene og framgangsmåtene for medlemskap fastsatt i vedtektene.Medlemsstater eller assosierte stater skal til sammen inneha flertallet av stemmerettene i medlemsforsamlingen. Endring av vedtektene for et ERIC-konsortium som har hjemsted i en medlemsstat, krever samtykke fra flertallet av medlemsstatene som deltar i nevnte ERIC-konsortium.»
+Artikkel 9 nr. 2 og 3 i forordning [(EU) nr. 723/2009](eu/32009r0723) skal lyde:
+
+1. Et ERIC-konsortium skal ha en medlemsstat og to andre stater som enten er medlemsstater eller assosierte stater, som deltakere. Ytterligere medlemsstater eller assosierte stater kan når som helst bli medlemmer på rettferdige og rimelige vilkår angitt i vedtektene og observatører uten stemmeretter på vilkårene angitt i vedtektene. Andre tredjestater enn assosierte stater samt mellomstatlige organisasjoner kan også bli medlemmer av et ERIC-konsortium, forutsatt at medlemsforsamlingen nevnt i artikkel 12 bokstav a) gir sitt samtykke, i samsvar med vilkårene og framgangsmåtene for medlemskap fastsatt i vedtektene.
+2. Medlemsstater eller assosierte stater skal til sammen inneha flertallet av stemmerettene i medlemsforsamlingen. Endring av vedtektene for et ERIC-konsortium som har hjemsted i en medlemsstat, krever samtykke fra flertallet av medlemsstatene som deltar i nevnte ERIC-konsortium.»
 
 ### Art 2
 

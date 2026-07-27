@@ -30,7 +30,11 @@ Denne forskrift har til formål å forebygge at rafting medfører helseskade for
 
 ### § 2. Virkeområde
 
-Forskriften omfatter:Raftingutstyr.Bruk av deltakernes personlige verneutstyr.Virksomhet som arrangerer rafting som en organisert tjeneste.
+Forskriften omfatter:
+
+1. Raftingutstyr.
+2. Bruk av deltakernes personlige verneutstyr.
+3. Virksomhet som arrangerer rafting som en organisert tjeneste.
 
 Forskriften retter seg mot produsenter, importører, distributører, detaljister, og andre som har befatning med bruk eller omsetning av raftingutstyr.
 

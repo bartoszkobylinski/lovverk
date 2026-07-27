@@ -42,7 +42,26 @@ Denne forskriften kan ikke fravikes ved avtale.
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*bygning:* en konstruksjon med tak, vegger og tekniske installasjoner som er varig forbundet med grunnen, der det brukes energi for å påvirke inneklimaet. Som bygning regnes også del av slik konstruksjon som er utformet eller endret for separat bruk. Som bygning regnes også brakker og andre midlertidige bygninger når disse planlegges benyttet i mer enn to år,*bolig:* en bygning eller del av en bygning som utgjør en egen boenhet,*yrkesbygg:* offentlig eller privat eid bygning eller del av bygning som utgjør en selvstendig enhet, og som ikke benyttes til boligformål,*offentlige myndigheter:* ethvert organ for stat eller kommune, jf. [forvaltningsloven § 1 første](lov/1967-02-10/§1/setning/1) og [annet punktum](lov/1967-02-10/§1/setning/2), samt domstoler og særdomstoler,*varmeanlegg:* anlegg i eller ved bygningen for å sørge for varme til bygningen,*brenselsfyrte varmeanlegg:* varmeanlegg med forbrenning av brensel som olje, gass eller fast brensel,*klimaanlegg:* en kombinasjon av alle komponenter som er nødvendige for en form for luftbehandling, hvor temperaturen kontrolleres eller senkes, inkludert anlegg med regulering av ventilasjon, fukt og luftrensing,*eier av bolig eller bygning:*den som har grunnbokshjemmel, jf. [lov 7. juni 1935 nr. 2](lov/1935-06-07-2) om tinglysing [§ 14](lov/1935-06-07-2/§14)eier av sameieandel i bebygd eiendom med tilknyttet enerett til bruk av en av flere boliger eller andre bruksenheter i eiendommen, jf. [lov 23. mai 1997 nr. 31](lov/1997-05-23-31) om eierseksjoner 1997 nr. 31 [§ 1](lov/1997-05-23-31/§1)andelseier, jf. [lov 6. juni 2003 nr. 39](lov/2003-06-06-39) om burettslag [§ 1-1](lov/2003-06-06-39/§1-1)eier av aksje i bolig eller bygning med tilknyttet bruksrett,reell eier der den som har grunnbokshjemmel ikke kan pålegges plikter etter denne forskrift,*energiattest:* en attest som består av et energimerke, en tiltaksliste for mulige energieffektiviseringstiltak og dokumentasjon av de faktiske opplysningene utregningen bygger på, utstedt gjennom energimerkesystemet,*energimerke:* en visuell fremstilling av en bygnings energitilstand, som viser energikarakteren på en energikarakterskala fra A til G,*energimerkesystem:* system for energimerking av bygninger og energivurdering av varme- og klimaanlegg. Systemet utformes, driftes og utvikles av Enova SF,*bygning som ofte besøkes av allmennheten:* en bygning som omfattes av følgende bygningskategorier etter norsk standard for beregning av bygningers energiytelse: barnehager, kontorbygning, skolebygning, universitet/høyskole, sykehus, sykehjem, hotellbygning, idrettsbygning, forretningsbygning og kulturbygning. Bygning som ikke er åpen for besøk fra privatpersoner, er unntatt.
+I denne forskriften menes med:
+
+1. *bygning:* en konstruksjon med tak, vegger og tekniske installasjoner som er varig forbundet med grunnen, der det brukes energi for å påvirke inneklimaet. Som bygning regnes også del av slik konstruksjon som er utformet eller endret for separat bruk. Som bygning regnes også brakker og andre midlertidige bygninger når disse planlegges benyttet i mer enn to år,
+2. *bolig:* en bygning eller del av en bygning som utgjør en egen boenhet,
+3. *yrkesbygg:* offentlig eller privat eid bygning eller del av bygning som utgjør en selvstendig enhet, og som ikke benyttes til boligformål,
+4. *offentlige myndigheter:* ethvert organ for stat eller kommune, jf. [forvaltningsloven § 1 første](lov/1967-02-10/§1/setning/1) og [annet punktum](lov/1967-02-10/§1/setning/2), samt domstoler og særdomstoler,
+5. *varmeanlegg:* anlegg i eller ved bygningen for å sørge for varme til bygningen,
+6. *brenselsfyrte varmeanlegg:* varmeanlegg med forbrenning av brensel som olje, gass eller fast brensel,
+7. *klimaanlegg:* en kombinasjon av alle komponenter som er nødvendige for en form for luftbehandling, hvor temperaturen kontrolleres eller senkes, inkludert anlegg med regulering av ventilasjon, fukt og luftrensing,
+8. *eier av bolig eller bygning:*
+
+   1. den som har grunnbokshjemmel, jf. [lov 7. juni 1935 nr. 2](lov/1935-06-07-2) om tinglysing [§ 14](lov/1935-06-07-2/§14)
+   2. eier av sameieandel i bebygd eiendom med tilknyttet enerett til bruk av en av flere boliger eller andre bruksenheter i eiendommen, jf. [lov 23. mai 1997 nr. 31](lov/1997-05-23-31) om eierseksjoner 1997 nr. 31 [§ 1](lov/1997-05-23-31/§1)
+   3. andelseier, jf. [lov 6. juni 2003 nr. 39](lov/2003-06-06-39) om burettslag [§ 1-1](lov/2003-06-06-39/§1-1)
+   4. eier av aksje i bolig eller bygning med tilknyttet bruksrett,
+   5. reell eier der den som har grunnbokshjemmel ikke kan pålegges plikter etter denne forskrift,
+9. *energiattest:* en attest som består av et energimerke, en tiltaksliste for mulige energieffektiviseringstiltak og dokumentasjon av de faktiske opplysningene utregningen bygger på, utstedt gjennom energimerkesystemet,
+10. *energimerke:* en visuell fremstilling av en bygnings energitilstand, som viser energikarakteren på en energikarakterskala fra A til G,
+11. *energimerkesystem:* system for energimerking av bygninger og energivurdering av varme- og klimaanlegg. Systemet utformes, driftes og utvikles av Enova SF,
+12. *bygning som ofte besøkes av allmennheten:* en bygning som omfattes av følgende bygningskategorier etter norsk standard for beregning av bygningers energiytelse: barnehager, kontorbygning, skolebygning, universitet/høyskole, sykehus, sykehjem, hotellbygning, idrettsbygning, forretningsbygning og kulturbygning. Bygning som ikke er åpen for besøk fra privatpersoner, er unntatt.
 
 > Endret ved [forskrifter 29 juni 2010 nr. 1034](forskrift/2010-06-29-1034) (i kraft 1 juli 2010), [12 des 2011 nr. 1240](forskrift/2011-12-12-1240) (i kraft 1 jan 2012), [27 juni 2016 nr. 823](forskrift/2016-06-27-823) (i kraft 1 juli 2016), [28 feb 2024 nr. 356](forskrift/2024-02-28-356) (i kraft 1 mars 2024).
 
@@ -114,7 +133,15 @@ Eier av bygning som nevnt i [§ 8](forskrift/2009-12-18-1665/§8) skal plassere 
 
 ### § 9. Unntak fra plikten til å ha energiattest
 
-Følgende boliger og bygninger er unntatt fra plikten til å ha energiattest:frittstående bygninger med mindre enn 50 m2 bruksareal,selvstendig enhet i yrkesbygg hvor flere enheter har felles varmeanlegg,eldre bygninger som benyttes til gudstjenester eller andre religiøse formål,boliger og bygninger som er vedtatt vernet på grunn av miljøet, arkitektur eller historikk, der gjennomføring av energisparetiltak ikke er gjennomførbare på grunn av vernekrav,driftsbygninger i landbruket med lavt energibehov til oppvarming og drift av bygningens tekniske anlegg,industrianlegg og verksteder med lavt energibehov til oppvarming og drift av bygningens tekniske anlegg,bolig eller bygning som etter avtale selges for nedrivning.
+Følgende boliger og bygninger er unntatt fra plikten til å ha energiattest:
+
+1. frittstående bygninger med mindre enn 50 m2 bruksareal,
+2. selvstendig enhet i yrkesbygg hvor flere enheter har felles varmeanlegg,
+3. eldre bygninger som benyttes til gudstjenester eller andre religiøse formål,
+4. boliger og bygninger som er vedtatt vernet på grunn av miljøet, arkitektur eller historikk, der gjennomføring av energisparetiltak ikke er gjennomførbare på grunn av vernekrav,
+5. driftsbygninger i landbruket med lavt energibehov til oppvarming og drift av bygningens tekniske anlegg,
+6. industrianlegg og verksteder med lavt energibehov til oppvarming og drift av bygningens tekniske anlegg,
+7. bolig eller bygning som etter avtale selges for nedrivning.
 
 Dersom over halvparten av det samlede areal i en bolig eller bygning brukes til formål som nevnt i denne paragrafen, er boligen eller bygningen som helhet unntatt fra plikten i denne forskriften.
 
@@ -136,7 +163,14 @@ Energikarakteren skal beregnes etter NS 3031:2025, med de presiseringer og unnta
 
 For boliger kan det gjøres en forenklet beregning etter kriterier som Enova SF bestemmer.
 
-Energikarakteren skal baseres på beregnet vektet levert energi (beregningspunkt E etter NS 3031:2025), inkludert systemtap. Levert energi skal vektes med følgende vektingsfaktorer per energibærer:Elektrisitet: 1Fjernvarme: 0,45Fjernkjøling: 0,45Biobrensel: 0,45Øvrige energibærere: 1Eksportert energi: 0.
+Energikarakteren skal baseres på beregnet vektet levert energi (beregningspunkt E etter NS 3031:2025), inkludert systemtap. Levert energi skal vektes med følgende vektingsfaktorer per energibærer:
+
+1. Elektrisitet: 1
+2. Fjernvarme: 0,45
+3. Fjernkjøling: 0,45
+4. Biobrensel: 0,45
+5. Øvrige energibærere: 1
+6. Eksportert energi: 0.
 
 Anlegg for produksjon av kraft på taket eller fasaden av bygningen som skal energimerkes, og anlegg på samme eiendom som bygningen, anses å være innenfor bygningens systemgrense i den grad produksjonen reduserer behovet brukeren av bygningen har for å kjøpe energi. Dersom anlegget forsyner flere bygninger eller bygningen består av ulike bygningskategorier eller flere boliger som skal ha energiattest, skal beregnet egenprodusert energi fordeles på de ulike bygningene eller den enkelte del ved beregningen av energikarakteren.
 
@@ -158,7 +192,13 @@ Den nedre grensen for energikarakter A skal tilsvare energikravene i [TEK17](for
 
 ### § 11. Innholdet i energiattest
 
-Energiattest skal inneholde:Et energimerke som skal gjengi resultatet av beregningen etter [§ 10a](forskrift/2009-12-18-1665/§10a). Energimerket gir en indikasjon på om boligen eller bygningen har et høyt eller lavt energibehov sammenlignet med andre boliger og bygninger innen samme bygningskategori med samme oppvarmingsløsning. Beste karakter kan ikke gis uten at det er gjennomført tetthetskontroll.En tiltaksliste som skal gi oversikt over kostnadseffektive energitiltak på bygningskroppen eller bygningens varme- og klimaanlegg. Dette kravet gjelder ikke for nye bygninger. Tiltakslisten for bygninger hvor det er stilt kompetansekrav for merking, skal beskrive de mest aktuelle energitiltakene i rangert rekkefølge og med beregning av antatt redusert energibruk dersom det blir gjennomført. Tiltakslisten skal inneholde en vurdering av kostnader og konsekvenser mht. fukt og inneklima knyttet til det enkelte energitiltaket. Tiltakslisten skal kunne brukes som grunnlag for å planlegge program for vedlikehold og oppgradering av bygningen. I tilfeller der det ikke er praktisk mulig å gjennomføre kostnadseffektive energitiltak, skal dette opplyses om og begrunnes.Dokumentasjon av de mest sentrale faktiske opplysninger utregningen bygger på.For yrkesbygning som er i drift, skal målt energibruk for de tre siste år oppgis.Et sammendrag som er egnet for oppslag og som minst inneholder energimerket og referanseverdier som gjør det mulig for eier eller leier å sammenligne eller vurdere bygningens energitilstand.
+Energiattest skal inneholde:
+
+1. Et energimerke som skal gjengi resultatet av beregningen etter [§ 10a](forskrift/2009-12-18-1665/§10a). Energimerket gir en indikasjon på om boligen eller bygningen har et høyt eller lavt energibehov sammenlignet med andre boliger og bygninger innen samme bygningskategori med samme oppvarmingsløsning. Beste karakter kan ikke gis uten at det er gjennomført tetthetskontroll.
+2. En tiltaksliste som skal gi oversikt over kostnadseffektive energitiltak på bygningskroppen eller bygningens varme- og klimaanlegg. Dette kravet gjelder ikke for nye bygninger. Tiltakslisten for bygninger hvor det er stilt kompetansekrav for merking, skal beskrive de mest aktuelle energitiltakene i rangert rekkefølge og med beregning av antatt redusert energibruk dersom det blir gjennomført. Tiltakslisten skal inneholde en vurdering av kostnader og konsekvenser mht. fukt og inneklima knyttet til det enkelte energitiltaket. Tiltakslisten skal kunne brukes som grunnlag for å planlegge program for vedlikehold og oppgradering av bygningen. I tilfeller der det ikke er praktisk mulig å gjennomføre kostnadseffektive energitiltak, skal dette opplyses om og begrunnes.
+3. Dokumentasjon av de mest sentrale faktiske opplysninger utregningen bygger på.
+4. For yrkesbygning som er i drift, skal målt energibruk for de tre siste år oppgis.
+5. Et sammendrag som er egnet for oppslag og som minst inneholder energimerket og referanseverdier som gjør det mulig for eier eller leier å sammenligne eller vurdere bygningens energitilstand.
 
 Energiattest skal ikke inneholde navn eller personnummer.
 
@@ -180,7 +220,10 @@ For yrkesbygg, offentlige bygninger og nye bygninger som omfattes av [§ 5](fors
 
 ### § 13. Plikt til å gjennomføre energivurdering av varme- og klimaanlegg
 
-Eier plikter å gjennomføre en energivurdering av varme- og klimaanlegg når det i bygningen er:varmeanlegg med samlet installert effekt høyere enn 20 kW, ellerklimaanlegg med samlet installert effekt høyere enn 12 kW eller klimaanleggene samlet betjener et oppvarmet bruksareal over 500 m2.
+Eier plikter å gjennomføre en energivurdering av varme- og klimaanlegg når det i bygningen er:
+
+1. varmeanlegg med samlet installert effekt høyere enn 20 kW, eller
+2. klimaanlegg med samlet installert effekt høyere enn 12 kW eller klimaanleggene samlet betjener et oppvarmet bruksareal over 500 m2.
 
 Energivurderingen etter første ledd skal gjennomføres hvert fjerde år, første gang senest to år etter at bygningen er tatt i bruk.
 
@@ -198,7 +241,15 @@ Unntaket i [§ 9 første ledd bokstav f](forskrift/2009-12-18-1665/§9/ledd/1/bo
 
 ### § 14. Utarbeidelse av rapport fra energivurdering
 
-Det skal utarbeides en rapport etter energivurderingen av varme- og klimaanlegg. Eieren plikter på forespørsel fra NVE og interesserte kjøpere eller leietakere å vise frem rapporten, eventuelt dokumentasjon fra energi- eller miljøledelsessystem. Rapporten fra energivurderingen skal minimum ha følgende innhold:bygningsidentifikasjon, herunder navn på eierbeskrivelse av varme- og klimaanleggetsammendrag av energivurderingen med angivelse av avvik fra normalsituasjonen. Energivurderingen skal omfatte tekniske data, dokumentasjon av anlegget og dets driftsopplegg, anleggets funksjon og dimensjonering i forhold til bygningens behov. Vurderingen av dimensjonering behøver ikke gjentas dersom anlegget eller bygningen ikke er endret siden forrige vurderingdokumentasjon av registrerte datatiltaksliste med anbefalinger om forbedringer av bygningens energitilstand og dimensjonering i forhold til behovunderskrift og opplysninger om den som er ansvarlig for vurderingengenerell informasjon om energivurderingsrapporten.
+Det skal utarbeides en rapport etter energivurderingen av varme- og klimaanlegg. Eieren plikter på forespørsel fra NVE og interesserte kjøpere eller leietakere å vise frem rapporten, eventuelt dokumentasjon fra energi- eller miljøledelsessystem. Rapporten fra energivurderingen skal minimum ha følgende innhold:
+
+1. bygningsidentifikasjon, herunder navn på eier
+2. beskrivelse av varme- og klimaanlegget
+3. sammendrag av energivurderingen med angivelse av avvik fra normalsituasjonen. Energivurderingen skal omfatte tekniske data, dokumentasjon av anlegget og dets driftsopplegg, anleggets funksjon og dimensjonering i forhold til bygningens behov. Vurderingen av dimensjonering behøver ikke gjentas dersom anlegget eller bygningen ikke er endret siden forrige vurdering
+4. dokumentasjon av registrerte data
+5. tiltaksliste med anbefalinger om forbedringer av bygningens energitilstand og dimensjonering i forhold til behov
+6. underskrift og opplysninger om den som er ansvarlig for vurderingen
+7. generell informasjon om energivurderingsrapporten.
 
 > Endret ved [forskrifter 12 des 2011 nr. 1240](forskrift/2011-12-12-1240) (i kraft 1 jan 2012), [28 feb 2024 nr. 356](forskrift/2024-02-28-356) (i kraft 1 mars 2024).
 
@@ -234,7 +285,12 @@ Eier har ansvar for at kompetansekravene er oppfylt, og skal kunne fremskaffe do
 
 ### § 18. Kompetansekrav til å utføre energivurdering
 
-For energivurdering av varme- og klimaanlegg kreves det følgende kompetanse:for varmeanlegg med samlet installert effekt høyere enn 20 kW: minst to års yrkeserfaring fra installasjon, ettersyn og/eller drift av slike varmeanlegg,for varmeanlegg med samlet installert effekt høyere enn 100 kW: minst fem års yrkeserfaring fra prosjektering, installasjon, ettersyn og/eller drift av slike varmeanlegg,for varmeanlegg når dimensjonering skal vurderes: minimum to års godkjent fagskoleutdanning i relevant fagretning. I tillegg kreves det to års yrkeserfaring fra energiberegning for bygninger. Den delen av vurderingen som omfatter kjelen skal utføres av en virksomhet med kompetanse som beskrevet i a) og b),for klimaanlegg: minimum to års godkjent fagskoleutdanning i relevant fagretning. I tillegg kreves det to års yrkeserfaring fra energiberegning i bygninger.
+For energivurdering av varme- og klimaanlegg kreves det følgende kompetanse:
+
+1. for varmeanlegg med samlet installert effekt høyere enn 20 kW: minst to års yrkeserfaring fra installasjon, ettersyn og/eller drift av slike varmeanlegg,
+2. for varmeanlegg med samlet installert effekt høyere enn 100 kW: minst fem års yrkeserfaring fra prosjektering, installasjon, ettersyn og/eller drift av slike varmeanlegg,
+3. for varmeanlegg når dimensjonering skal vurderes: minimum to års godkjent fagskoleutdanning i relevant fagretning. I tillegg kreves det to års yrkeserfaring fra energiberegning for bygninger. Den delen av vurderingen som omfatter kjelen skal utføres av en virksomhet med kompetanse som beskrevet i a) og b),
+4. for klimaanlegg: minimum to års godkjent fagskoleutdanning i relevant fagretning. I tillegg kreves det to års yrkeserfaring fra energiberegning i bygninger.
 
 Kompetansekravene er oppfylt dersom virksomheten som er ansvarlig for vurderingen har personell med nødvendige kompetansen, og denne benyttes for vurderingene.
 

@@ -15,7 +15,7 @@ xml_hash: "5fdecd99d9b79a44c5d466f32f4e08a6b4bc60d0eb402f26f7e305139a1b6bd1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,17 @@ Forskriften med tilhørende vedlegg gjelder på norsk territorium.
 
 ### § 3. Definisjoner
 
-I forskriften her forstås med:*elsertifikat:* et bevis utstedt av staten for at det er produsert en megawattime (MWh) fornybar elektrisk energi i henhold til lov om elsertifikater og denne forskriften.*elsertifikatberettiget:* innehaveren av et produksjonsanlegg som har rett til elsertifikater dersom vilkårene i kapittel 2 i [lov om elsertifikater og](lov/2011-06-24-39/kap2) denne forskriften er oppfylt.*elsertifikatplikt:* plikt til per 1. april hvert år å inneha et visst antall sertifikater for annullering i henhold til lov om elsertifikater og denne forskriften.*fornybarandel:* den delen av innmatet energi i et anlegg som er fornybar energi og dermed grunnlag for tildeling av elsertifikater.*produksjonsanlegg:* en innretning for produksjon av elektrisk energi.*registeransvarlig:* den enhet som er utpekt som ansvarlig for å utstede elsertifikater, samt utvikle og drive et elektronisk register for elsertifikater.*tildelingsfaktor:* den delen av et anleggs totale produksjon av elektrisk energi som kvalifiserer for rett til elsertifikater.*avregningsansvarlig:* den som i henhold til [energiloven § 4-3](lov/1990-06-29-50/§4-3) er utpekt som avregningsansvarlig.*netto produksjon:* med netto produksjon menes brutto produksjon i et kraftverk, referert til generatorklemme eller tilsvarende, minus forbruk i eventuelt hjelpeutstyr i forbindelse med produksjon av elektrisk energi, tap i hovedtransformatoren relatert til produksjonen i kraftverket og energi fra eventuell hjelpegenerator.
+I forskriften her forstås med:
+
+1. *elsertifikat:* et bevis utstedt av staten for at det er produsert en megawattime (MWh) fornybar elektrisk energi i henhold til lov om elsertifikater og denne forskriften.
+2. *elsertifikatberettiget:* innehaveren av et produksjonsanlegg som har rett til elsertifikater dersom vilkårene i kapittel 2 i [lov om elsertifikater og](lov/2011-06-24-39/kap2) denne forskriften er oppfylt.
+3. *elsertifikatplikt:* plikt til per 1. april hvert år å inneha et visst antall sertifikater for annullering i henhold til lov om elsertifikater og denne forskriften.
+4. *fornybarandel:* den delen av innmatet energi i et anlegg som er fornybar energi og dermed grunnlag for tildeling av elsertifikater.
+5. *produksjonsanlegg:* en innretning for produksjon av elektrisk energi.
+6. *registeransvarlig:* den enhet som er utpekt som ansvarlig for å utstede elsertifikater, samt utvikle og drive et elektronisk register for elsertifikater.
+7. *tildelingsfaktor:* den delen av et anleggs totale produksjon av elektrisk energi som kvalifiserer for rett til elsertifikater.
+8. *avregningsansvarlig:* den som i henhold til [energiloven § 4-3](lov/1990-06-29-50/§4-3) er utpekt som avregningsansvarlig.
+9. *netto produksjon:* med netto produksjon menes brutto produksjon i et kraftverk, referert til generatorklemme eller tilsvarende, minus forbruk i eventuelt hjelpeutstyr i forbindelse med produksjon av elektrisk energi, tap i hovedtransformatoren relatert til produksjonen i kraftverket og energi fra eventuell hjelpegenerator.
 
 Uttrykk som ikke er definert i denne forskriften skal forstås på samme måte som i lov om elsertifikater.
 
@@ -76,9 +86,17 @@ Elsertifikater utstedes for produksjon av elektrisk energi basert på fornybare 
 
 ### § 9. Krav til produksjonsanlegget
 
-Anlegg for produksjon av elektrisk energi basert på fornybare kilder må:ha hatt byggestart etter 7. september 2009,være et vannkraftverk som hadde byggestart etter 1. januar 2004, ellervarig øke sin energiproduksjon med byggestart etter 7. september 2009.
+Anlegg for produksjon av elektrisk energi basert på fornybare kilder må:
 
-Produksjonsanlegget må i tillegg:være i samsvar med gjeldende konsesjon, konsesjonsvilkår eller forutsetninger for fritak for konsesjonsplikt,settes i drift innen 31. desember 2021, ogha betalt tilbake eventuell statlig investeringsstøtte, med renter som fastsatt av NVE, innen 30. april 2012.
+1. ha hatt byggestart etter 7. september 2009,
+2. være et vannkraftverk som hadde byggestart etter 1. januar 2004, eller
+3. varig øke sin energiproduksjon med byggestart etter 7. september 2009.
+
+Produksjonsanlegget må i tillegg:
+
+1. være i samsvar med gjeldende konsesjon, konsesjonsvilkår eller forutsetninger for fritak for konsesjonsplikt,
+2. settes i drift innen 31. desember 2021, og
+3. ha betalt tilbake eventuell statlig investeringsstøtte, med renter som fastsatt av NVE, innen 30. april 2012.
 
 I produksjonsanlegg som kvalifiserer for rett til elsertifikater vil det utelukkende tildeles elsertifikater for den delen av produksjonsanlegget som har blitt satt i drift innen 31. desember 2021.
 
@@ -86,7 +104,12 @@ I produksjonsanlegg som kvalifiserer for rett til elsertifikater vil det utelukk
 
 ### § 10. Krav til dokumentasjon av byggestart
 
-Søknad om godkjenning etter [§ 6](forskrift/2011-12-16-1398/§6) skal inneholde dokumentasjon av byggestart ved fremleggelse av minst én av følgende:melding til Arbeidstilsynet om oppstart av anleggsarbeid,godkjent detaljplan fra NVE,kontrakt for leveranse av maskin- og elektroutstyr, som til sammen tilsvarer minst 20 prosent av den totale byggekostnaden, ellerkontrakt for hele eller deler av anleggsarbeidet, som til sammen tilsvarer minst 20 prosent av den totale byggekostnaden.
+Søknad om godkjenning etter [§ 6](forskrift/2011-12-16-1398/§6) skal inneholde dokumentasjon av byggestart ved fremleggelse av minst én av følgende:
+
+1. melding til Arbeidstilsynet om oppstart av anleggsarbeid,
+2. godkjent detaljplan fra NVE,
+3. kontrakt for leveranse av maskin- og elektroutstyr, som til sammen tilsvarer minst 20 prosent av den totale byggekostnaden, eller
+4. kontrakt for hele eller deler av anleggsarbeidet, som til sammen tilsvarer minst 20 prosent av den totale byggekostnaden.
 
 For produksjonsanlegg inntil 1 MW kan det alternativt fremlegges dokumentasjon fra nettselskap på når anlegget ble satt i drift, som grunnlag for å fastsette tidspunktet for byggestart.
 
@@ -162,7 +185,11 @@ Registeransvarlig skal løpende registrere beregningsrelevant mengde elektrisk e
 
 ### § 18. Elsertifikatpliktige
 
-Elsertifikatpliktige er:enhver som leverer elektrisk energi til sluttbruker,enhver som forbruker elektrisk energi som er egenprodusert, ogenhver som kjøper elektrisk energi til eget forbruk på den nordiske kraftbørsen eller gjennom bilateral avtale.
+Elsertifikatpliktige er:
+
+1. enhver som leverer elektrisk energi til sluttbruker,
+2. enhver som forbruker elektrisk energi som er egenprodusert, og
+3. enhver som kjøper elektrisk energi til eget forbruk på den nordiske kraftbørsen eller gjennom bilateral avtale.
 
 I tilfeller hvor kjøperen er elsertifikatpliktig etter bokstav c) er ikke selgeren elsertifikatpliktig.
 
@@ -237,7 +264,17 @@ En kontohaver kan ha flere konti med tilhørende underkonti i elsertifikatregist
 
 Kontohaveren kan ved fullmakt overlate disponeringen av kontoen til andre.
 
-Registeransvarlig skal innhente og registrere opplysninger, herunder:når konto ble opprettetnødvendige opplysninger om kontohaver, som kan omfatte organisasjonsnummer, for- og etternavn, fødselsdato og fødested på personen som skal disponere kontoen, adresse, land, telefonnummer og stilling i virksomhetenkontoens elsertifikatbeholdningbevegelser i kontoenelsertifikatets omsetningspris og dato for kontraktsinngåelseheftelser som hviler på elsertifikatbeholdningennår elsertifikatet ble utstedtnår elsertifikatet ble annullerteventuelle fullmakter og nødvendige opplysninger om disse, som kan omfatte navn på fullmaktsgiver, organisasjonsnummer, eventuelt for- og etternavn på fullmektig, fødselsdato og fødested på fullmektig, adresse, land, telefonnummer og stilling i virksomheten.
+Registeransvarlig skal innhente og registrere opplysninger, herunder:
+
+1. når konto ble opprettet
+2. nødvendige opplysninger om kontohaver, som kan omfatte organisasjonsnummer, for- og etternavn, fødselsdato og fødested på personen som skal disponere kontoen, adresse, land, telefonnummer og stilling i virksomheten
+3. kontoens elsertifikatbeholdning
+4. bevegelser i kontoen
+5. elsertifikatets omsetningspris og dato for kontraktsinngåelse
+6. heftelser som hviler på elsertifikatbeholdningen
+7. når elsertifikatet ble utstedt
+8. når elsertifikatet ble annullert
+9. eventuelle fullmakter og nødvendige opplysninger om disse, som kan omfatte navn på fullmaktsgiver, organisasjonsnummer, eventuelt for- og etternavn på fullmektig, fødselsdato og fødested på fullmektig, adresse, land, telefonnummer og stilling i virksomheten.
 
 Registeransvarlig er ansvarlig for driften av elsertifikatregisteret og for registrering ved utstedelse og annullering av elsertifikater.
 
@@ -281,7 +318,12 @@ Den elsertifikatpliktige plikter innen utgangen av 31. mars å inneha på sin ko
 
 NVE skal ha direkte tilgang til elsertifikatregisteret. NVE kan kreve at det skal utarbeides en funksjon for standardrapporter, og tilgang til denne funksjonen.
 
-Registeransvarlig skal utarbeide kvartalsvise rapporter til NVE med opplysninger om blant annet:elsertifikatpliktiges beregningsrelevante kraftleveranser eller forbruk, samt anskaffelser av elsertifikater,antall utstedte sertifikater totalt og per anlegg med angivelse av tidspunkt for utstedelse,antall omsatte sertifikater, ogregistrerte priser.
+Registeransvarlig skal utarbeide kvartalsvise rapporter til NVE med opplysninger om blant annet:
+
+1. elsertifikatpliktiges beregningsrelevante kraftleveranser eller forbruk, samt anskaffelser av elsertifikater,
+2. antall utstedte sertifikater totalt og per anlegg med angivelse av tidspunkt for utstedelse,
+3. antall omsatte sertifikater, og
+4. registrerte priser.
 
 ### § 29. Prisinformasjon mv.
 
@@ -299,7 +341,14 @@ Enhver som omfattes av denne forskriften skal medvirke til gjennomføring av kon
 
 ### § 31. Opplysningsplikt og utlevering av opplysninger
 
-Elsertifikatberettiget har opplysningsplikt overfor NVE, og skal av eget tiltak snarest mulig informere om bl.a. følgende:ombygging av produksjonsanlegg som medfører endring i installert effekt,opphør av timesmåling av produksjon,forandringer som påvirker produksjonsanleggets produksjon av elektrisk energi, sammenliknet med hva som er angitt i søknaden om godkjenning jf. [§ 6](forskrift/2011-12-16-1398/§6),andre vesentlige endringer i produksjonsanlegget som er godkjent jf. [§ 7](forskrift/2011-12-16-1398/§7),opplysninger om ny innehaver av godkjent produksjonsanlegg, herunder den nye innehaverens navn, firma og person- eller organisasjonsnummer,adresseendringer, nye kontaktpersoner eller telefonnummer.
+Elsertifikatberettiget har opplysningsplikt overfor NVE, og skal av eget tiltak snarest mulig informere om bl.a. følgende:
+
+1. ombygging av produksjonsanlegg som medfører endring i installert effekt,
+2. opphør av timesmåling av produksjon,
+3. forandringer som påvirker produksjonsanleggets produksjon av elektrisk energi, sammenliknet med hva som er angitt i søknaden om godkjenning jf. [§ 6](forskrift/2011-12-16-1398/§6),
+4. andre vesentlige endringer i produksjonsanlegget som er godkjent jf. [§ 7](forskrift/2011-12-16-1398/§7),
+5. opplysninger om ny innehaver av godkjent produksjonsanlegg, herunder den nye innehaverens navn, firma og person- eller organisasjonsnummer,
+6. adresseendringer, nye kontaktpersoner eller telefonnummer.
 
 Dersom elektrisitetsproduksjonen legges ned, skal elsertifikatberettiget av eget tiltak informere NVE innen 14 virkedager.
 
@@ -349,11 +398,38 @@ Forskriften trer i kraft 1. januar 2012.
 
 ## Vedlegg 1. Innhold i søknad om godkjenning av produksjonsanlegg som elsertifikatberettiget
 
-Følgende informasjon skal gis i søknad om godkjenning:Type søknad (godkjenning for hele produksjonen, godkjenning for deler av produksjonen og/eller godkjenning av produksjonsanlegg med variabel fornybarandel).Informasjon om innehaver av produksjonsanlegget (navn/firma, organisasjonsnummer, eierskapsstruktur, adresse m.m.).Kontaktperson for søknaden.Informasjon om produksjonsanlegget (navn, type anlegg, årsproduksjon, installert effekt, lokalitet).Dokumentasjon av byggestart og/eller idriftsettelse.P-kode(r) – identifikasjon av produksjonsmåler(e) og eventuelle koder for pumping.Kontoførers medlemsnummer i elsertifikatregisteret.Hvis relevant: Hvilke tiltak som er truffet for varig å øke produksjonen, og hvor stor den varige økningen av totalproduksjonen er etter tiltak.Beskrivelse av målearrangementI forbindelse med søknaden skal det for produksjonsanlegg som ikke er omfattet av [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) vedlegges et enlinjeskjema over det elektriske anlegg. For produksjonsanlegg som er omfattet av [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) kan det vedlegges enlinjeskjema over det elektriske anlegg:Enlinjeskjemaet over det elektriske anlegg skal vise følgende utstyr og dets plassering:Hvilke(n) måler(e) som danner grunnlaget for innrapporterte produksjonsdata (målernummer/navn)For samtlige målere: type og nøyaktighetsklasseTransformatorenheter på kraftverkslokasjonenEventuelt hjelpeutstyr i forbindelse med produksjon av elektrisk energiEventuelle målere for importert energi til kraftverketEventuelt nødstrøms-/reserveaggregaterFor transformatorenhetene skal det oppgis årlige tap eller data som gjør det mulig å beregne disse, dersom måler for produksjonsdata er plassert foran transformatorNår årlig energiforbruk til eget forbruk og hjelpeutstyr ikke er fratrukket måledata skal dette oppgis.
+Følgende informasjon skal gis i søknad om godkjenning:
+
+1. Type søknad (godkjenning for hele produksjonen, godkjenning for deler av produksjonen og/eller godkjenning av produksjonsanlegg med variabel fornybarandel).
+2. Informasjon om innehaver av produksjonsanlegget (navn/firma, organisasjonsnummer, eierskapsstruktur, adresse m.m.).
+3. Kontaktperson for søknaden.
+4. Informasjon om produksjonsanlegget (navn, type anlegg, årsproduksjon, installert effekt, lokalitet).
+5. Dokumentasjon av byggestart og/eller idriftsettelse.
+6. P-kode(r) – identifikasjon av produksjonsmåler(e) og eventuelle koder for pumping.
+7. Kontoførers medlemsnummer i elsertifikatregisteret.
+8. Hvis relevant: Hvilke tiltak som er truffet for varig å øke produksjonen, og hvor stor den varige økningen av totalproduksjonen er etter tiltak.
+9. Beskrivelse av målearrangement
+
+   I forbindelse med søknaden skal det for produksjonsanlegg som ikke er omfattet av [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) vedlegges et enlinjeskjema over det elektriske anlegg. For produksjonsanlegg som er omfattet av [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) kan det vedlegges enlinjeskjema over det elektriske anlegg:
+
+   Enlinjeskjemaet over det elektriske anlegg skal vise følgende utstyr og dets plassering:
+
+   1. Hvilke(n) måler(e) som danner grunnlaget for innrapporterte produksjonsdata (målernummer/navn)
+   2. For samtlige målere: type og nøyaktighetsklasse
+   3. Transformatorenheter på kraftverkslokasjonen
+   4. Eventuelt hjelpeutstyr i forbindelse med produksjon av elektrisk energi
+   5. Eventuelle målere for importert energi til kraftverket
+   6. Eventuelt nødstrøms-/reserveaggregater
+   7. For transformatorenhetene skal det oppgis årlige tap eller data som gjør det mulig å beregne disse, dersom måler for produksjonsdata er plassert foran transformator
+   8. Når årlig energiforbruk til eget forbruk og hjelpeutstyr ikke er fratrukket måledata skal dette oppgis.
 
 ## Vedlegg 2. Varig produksjonsøkning i eksisterende vannkraftanlegg
 
-Tiltak som kan gi varig økt produksjonsevne i eksisterende vannkraftverk grupperes slik:Økt slukeevne, økt magasinvolum, nye overføringer. Disse effektene av tiltak innebærer at kraftstasjonen vil kunne utnytte et større årlig vannvolum.Økt brutto fallhøyde, redusert falltap. Disse effektene kan gi en høyere energiproduksjon fra det samme tilsiget.Økt virkningsgrad på fast utstyr. Med økt virkningsgrad forstås økt virkningsgrad på turbin, generator og/eller stasjonens transformator.
+Tiltak som kan gi varig økt produksjonsevne i eksisterende vannkraftverk grupperes slik:
+
+1. Økt slukeevne, økt magasinvolum, nye overføringer. Disse effektene av tiltak innebærer at kraftstasjonen vil kunne utnytte et større årlig vannvolum.
+2. Økt brutto fallhøyde, redusert falltap. Disse effektene kan gi en høyere energiproduksjon fra det samme tilsiget.
+3. Økt virkningsgrad på fast utstyr. Med økt virkningsgrad forstås økt virkningsgrad på turbin, generator og/eller stasjonens transformator.
 
 1\. *Dokumentasjon*
 
@@ -365,11 +441,25 @@ Tiltak som faller inn under c), som nevnt innledningsvis i vedlegg 2, dokumenter
 
 Ved større prosjekter som omfatter flere komponenter skal en samlet vurdering av den økte produksjonsevnen kvalitetssikres av en profesjonell og uavhengig tredjepart.
 
-Søknader som gjelder varig økt produksjonsevne fra eksisterende vannkraftverk skal inneholde følgende informasjon:For følgende punkter skal verdier for produksjonsanlegget både før og etter investering oppgis:Middeltilsig [millioner m3 /år]Middelproduksjon [GWh/år]Midlere brutto fallhøyde [m]Magasinvolum [mill. m3 ]Slukeevne, Qmaks [m3 /s]; Største vannføring gjennom kraftverket ved midlere brutto fallhøydeMaksimal effekt [MW]; Maksimal effekt ved maksimal vannføring, Qmaks, og midlere brutto fallhøydeEnergiekvivalent ved Qmaks [kWh/m3 ]; Spesifikk energiproduksjon ved kraftverkets slukeevneAlder på komponenter som skiftes ut.
+Søknader som gjelder varig økt produksjonsevne fra eksisterende vannkraftverk skal inneholde følgende informasjon:
+
+For følgende punkter skal verdier for produksjonsanlegget både før og etter investering oppgis:
+
+1. Middeltilsig [millioner m3 /år]
+2. Middelproduksjon [GWh/år]
+3. Midlere brutto fallhøyde [m]
+4. Magasinvolum [mill. m3 ]
+5. Slukeevne, Qmaks [m3 /s]; Største vannføring gjennom kraftverket ved midlere brutto fallhøyde
+6. Maksimal effekt [MW]; Maksimal effekt ved maksimal vannføring, Qmaks, og midlere brutto fallhøyde
+7. Energiekvivalent ved Qmaks [kWh/m3 ]; Spesifikk energiproduksjon ved kraftverkets slukeevne
+8. Alder på komponenter som skiftes ut.
 
 Middeltilsig og middelproduksjon, som referert til i bokstavene a) og b) ovenfor, både før og etter investering, skal refereres til det av NVE bestemte hydrologiske grunnlag.
 
-Midlere brutto fallhøyde skal beregnes på følgende måte: $$H_{m,brt} = HRV - \\frac 13 \\times (HRV - LRV) - UV$$
+Midlere brutto fallhøyde skal beregnes på følgende måte:
+
+$$H_{m,brt} = HRV - \\frac 13 \\times (HRV - LRV) - UV$$
+
 der
 *Hm,brt* = Midlere brutto fallhøyde; meter
 HRV = Høyeste regulerte vannstand; meter over havet
@@ -378,7 +468,9 @@ UV = Undervann/høyde for utløp, meter over havet.
 
 Denne definisjonen kan fravikes ved flerårsmagasiner og ved små inntaksmagasiner hvor det bestrebes å holde en høy vannstand.
 
-Dersom undervann (UV) er regulert, beregnes denne som $$UV = HRV - \\frac 13 \\times (HRV - LRV)$$
+Dersom undervann (UV) er regulert, beregnes denne som
+
+$$UV = HRV - \\frac 13 \\times (HRV - LRV)$$
 
 2\. *Beregning av effekten av økt slukeevne, økt magasinvolum, nye overføringer*
 
@@ -430,7 +522,21 @@ For innmelding av fornybarandel brukes eget skjema som sendes til registeransvar
 
 *Beregningsmetodikk for fornybarandel*
 
-Utgangspunktet for fastsetting av fornybarandelen i et termisk produksjonsanlegg med blandede energikilder er energikildenes nedre brennverdi. Leverer anlegget både kraft og varme skal samme fornybarandel anvendes for både kraft- og varmeproduksjon.*Avfall*Fornybarandel og energiinnhold ved forbrenning av avfall kan fastsettes på grunnlag av gjennomsnittsverdier. NVE fastsetter gjennomsnittsverdier som baseres på analyser utført i samarbeid med bransjen for følgende avfallstyper:*Husholdningsavfall:* Restavfall fra husholdninger samlet inn gjennom den kommunale renovasjonsordningen.*Sortert næringsavfall:* Restavfall fra næringer, normalt uten eller med lite våtorganisk avfall, som har gjennomgått en forbehandling i sorteringsanlegg, eller enklere forbehandling, før det leveres som brensel. Bygg- og anleggsavfall (BA) inngår i denne kategorien.*Usortert næringsavfall:* Restavfall fra næringer som normalt er samlet inn via beholder eller containerrenovasjon i forretninger, kontor, privat og offentlig tjenesteytende virksomheter mv. Kategorien inneholder normalt mye våtorganisk avfall på nivå med husholdningsavfall. Avfallet blir levert direkte til forbrenning med energiutnyttelse uten forbehandling eller bare med kverning som forbehandling.*Brennbart restavfall fra gjenvinningsstasjon:* Omfatter både husholdnings- og næringsavfall som leveres på gjenvinningsstasjon og sorteres som brennbart restavfall.For annet næringsavfall, som ikke kan fordeles på de kategoriene som er nevnt ovenfor, må fornybarandelen fastsettes gjennom egne analyser, gjennomført av en profesjonell og uavhengig tredjepart.*Trevirke*For trevirke benyttes standardiserte brennverdier. Benyttes trevirke med varierende grad av fuktighet, må denne dokumenteres. Gjennomsnittsverdi for energiinnhold i anvendt trevirke kan brukes hvis denne er beregnet av en profesjonell og uavhengig tredjepart.
+Utgangspunktet for fastsetting av fornybarandelen i et termisk produksjonsanlegg med blandede energikilder er energikildenes nedre brennverdi. Leverer anlegget både kraft og varme skal samme fornybarandel anvendes for både kraft- og varmeproduksjon.
+
+1. *Avfall*
+
+   Fornybarandel og energiinnhold ved forbrenning av avfall kan fastsettes på grunnlag av gjennomsnittsverdier. NVE fastsetter gjennomsnittsverdier som baseres på analyser utført i samarbeid med bransjen for følgende avfallstyper:
+
+   1. *Husholdningsavfall:* Restavfall fra husholdninger samlet inn gjennom den kommunale renovasjonsordningen.
+   2. *Sortert næringsavfall:* Restavfall fra næringer, normalt uten eller med lite våtorganisk avfall, som har gjennomgått en forbehandling i sorteringsanlegg, eller enklere forbehandling, før det leveres som brensel. Bygg- og anleggsavfall (BA) inngår i denne kategorien.
+   3. *Usortert næringsavfall:* Restavfall fra næringer som normalt er samlet inn via beholder eller containerrenovasjon i forretninger, kontor, privat og offentlig tjenesteytende virksomheter mv. Kategorien inneholder normalt mye våtorganisk avfall på nivå med husholdningsavfall. Avfallet blir levert direkte til forbrenning med energiutnyttelse uten forbehandling eller bare med kverning som forbehandling.
+   4. *Brennbart restavfall fra gjenvinningsstasjon:* Omfatter både husholdnings- og næringsavfall som leveres på gjenvinningsstasjon og sorteres som brennbart restavfall.
+
+   For annet næringsavfall, som ikke kan fordeles på de kategoriene som er nevnt ovenfor, må fornybarandelen fastsettes gjennom egne analyser, gjennomført av en profesjonell og uavhengig tredjepart.
+2. *Trevirke*
+
+   For trevirke benyttes standardiserte brennverdier. Benyttes trevirke med varierende grad av fuktighet, må denne dokumenteres. Gjennomsnittsverdi for energiinnhold i anvendt trevirke kan brukes hvis denne er beregnet av en profesjonell og uavhengig tredjepart.
 
 > Endret ved [forskrift 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016).
 

@@ -15,7 +15,7 @@ xml_hash: "ac6048a3c4dd2c2fa1a91461475740e073934adadf6d2ef83625c533c3a50d92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,7 +98,15 @@ Tilskuddsmottakere kan få tilskudd til et bestemt tiltak i maksimalt 5 år selv
 
 Tilskuddet skal kun dekke kostnader som er nødvendige for å realisere tiltaket. I vurderingen av hva som er direkte tilknyttet realiseringen, skal forvalter blant annet legge vekt på hva som er nødvendige utgifter for å realisere formålet med tilskuddet. Tilskuddet skal ha effekt utover å opprettholde et tilbud.
 
-Tilskuddet skal ikke brukes tilløpende driftskostnader i næringsvirksomheter eller organisasjonerkausjon eller annen økonomisk garantidirekte eller indirekte investeringer i virksomhetens egenkapitalrenter og avdrag på lån og refinansiering av gjennomførte prosjekterdrift av eller investeringer i statlige, fylkeskommunale eller kommunale lovpålagte oppgaver som er utført av fylkeskommunen, kommunen eller andreavsetting av midler til uspesifiserte fond hos tilskuddsmottaker. Dette omfatter ikke delegerte midler til kommuner, regionråd eller andre forvaltere, der bruken av midlene er i tråd med denne forskriftenpolitikkforberedende aktiviteter internt hos eller i regi av den som tildeler tilskuddene, innbefattet kjøp av tjenester i samband med utforming av nye tiltak og lovpålagte eller egeninitierte plan- og strategiprosesser.
+Tilskuddet skal ikke brukes til
+
+1. løpende driftskostnader i næringsvirksomheter eller organisasjoner
+2. kausjon eller annen økonomisk garanti
+3. direkte eller indirekte investeringer i virksomhetens egenkapital
+4. renter og avdrag på lån og refinansiering av gjennomførte prosjekter
+5. drift av eller investeringer i statlige, fylkeskommunale eller kommunale lovpålagte oppgaver som er utført av fylkeskommunen, kommunen eller andre
+6. avsetting av midler til uspesifiserte fond hos tilskuddsmottaker. Dette omfatter ikke delegerte midler til kommuner, regionråd eller andre forvaltere, der bruken av midlene er i tråd med denne forskriften
+7. politikkforberedende aktiviteter internt hos eller i regi av den som tildeler tilskuddene, innbefattet kjøp av tjenester i samband med utforming av nye tiltak og lovpålagte eller egeninitierte plan- og strategiprosesser.
 
 Bokstavene i tredje ledd a, b og c gjelder ikke Innovasjon Norge.
 
@@ -110,7 +118,13 @@ Tilskuddsmottaker plikter også å medvirke til at den som skal evaluere det enk
 
 ### § 8. Redusering og stans i utbetaling av tilskuddsmidler. Krav om tilbakebetaling
 
-Departementet og forvalter kan redusere utbetalingene av tilskudd, stanse utbetalingen av tilskudd eller kreve at tilskuddsmottakeren betaler tilbake hele eller deler av det utbetalte tilskuddet dersomtilskuddsmottakeren har påbegynt arbeidet tilskuddet er ment å dekke, før tilskuddet ble innvilgettildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkerentilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket, og forvalter ikke har godtatt endringenetiltaket gjennomføres til en lavere kostnad enn forutsatt ved tildelingentilskuddsmottaker unnlater å levere pliktig rapportering.
+Departementet og forvalter kan redusere utbetalingene av tilskudd, stanse utbetalingen av tilskudd eller kreve at tilskuddsmottakeren betaler tilbake hele eller deler av det utbetalte tilskuddet dersom
+
+1. tilskuddsmottakeren har påbegynt arbeidet tilskuddet er ment å dekke, før tilskuddet ble innvilget
+2. tildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkeren
+3. tilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket, og forvalter ikke har godtatt endringene
+4. tiltaket gjennomføres til en lavere kostnad enn forutsatt ved tildelingen
+5. tilskuddsmottaker unnlater å levere pliktig rapportering.
 
 ### § 9. Krav til tilskuddsmottakers rapportering
 
@@ -134,7 +148,12 @@ For tilskudd over 200 000 kroner skal tilskuddsmottaker sende inn revidert pros
 
 Det kan gis tilskudd til alle offentlige og private aktører og virksomheter med konkrete tiltak som faller innenfor formålet i [§ 1a](forskrift/2018-05-23-747/§1a).
 
-I vurderingen av søknader om tilskudd skal forvalter legge vekt på følgende tildelingskriterier:Resultatene av tiltaket må kunne vurderes konkret, og knyttes til [§ 12](forskrift/2018-05-23-747/§12) om kriterier for måloppnåelse.Tiltaket må være godt lokalt forankret.Hvorvidt samarbeidet er tverrsektorielt, der en samler ressurser for størst mulig samfunnseffekt.Tiltaket må bidra til kunnskapsbygging og informasjonsdeling.
+I vurderingen av søknader om tilskudd skal forvalter legge vekt på følgende tildelingskriterier:
+
+1. Resultatene av tiltaket må kunne vurderes konkret, og knyttes til [§ 12](forskrift/2018-05-23-747/§12) om kriterier for måloppnåelse.
+2. Tiltaket må være godt lokalt forankret.
+3. Hvorvidt samarbeidet er tverrsektorielt, der en samler ressurser for størst mulig samfunnseffekt.
+4. Tiltaket må bidra til kunnskapsbygging og informasjonsdeling.
 
 Fylkeskommunene må ved tildeling av tilskudd velge ut de prosjektene som i størst grad bidrar til måloppnåelsen i ordningen, jf. [§ 12](forskrift/2018-05-23-747/§12).
 
@@ -142,19 +161,34 @@ Tilskuddsforvalteren kan fastsette ytterligere tildelingskriterier, innenfor ram
 
 ### § 12. Kriterier for måloppnåelse for ordningene
 
-Fylkeskommunen skal vurdere måloppnåelse ut fra følgende kriterier:Økt sysselsetting.Flere søkere til ledige stillinger.Om lokalsamfunnet beholder tilflyttere.Økt samarbeid mellom lokale aktører.Økt grad av deltakelse i frivillige organisasjoner.Utvikle og legge til rette for lokalt næringsliv.
+Fylkeskommunen skal vurdere måloppnåelse ut fra følgende kriterier:
+
+1. Økt sysselsetting.
+2. Flere søkere til ledige stillinger.
+3. Om lokalsamfunnet beholder tilflyttere.
+4. Økt samarbeid mellom lokale aktører.
+5. Økt grad av deltakelse i frivillige organisasjoner.
+6. Utvikle og legge til rette for lokalt næringsliv.
 
 Fylkeskommunene skal rapportere til departementet i hvilken grad innsatsen påvirker disse kriteriene.
 
 ### § 13. Særregler om krav til tilskuddsmottakers rapportering
 
-I tillegg til rapporteringskravene i [§ 9](forskrift/2018-05-23-747/§9), gjelder følgende krav til rapportering:For tilskudd under 200 000 kroner skal rapporteringen være knyttet til at tiltaket er gjennomført i henhold til søknaden og vedtaket.For tilskudd mellom 200 000 og 500 000 kroner skal rapporteringen i tillegg være knyttet til de resultatet som er nådd ved avslutningen av tiltaket.Ved enkelttilskudd på mer enn 500 000 kroner skal fylkeskommunene rapportere til departementet på forventede virkninger av tiltaket på sikt.
+I tillegg til rapporteringskravene i [§ 9](forskrift/2018-05-23-747/§9), gjelder følgende krav til rapportering:
+
+1. For tilskudd under 200 000 kroner skal rapporteringen være knyttet til at tiltaket er gjennomført i henhold til søknaden og vedtaket.
+2. For tilskudd mellom 200 000 og 500 000 kroner skal rapporteringen i tillegg være knyttet til de resultatet som er nådd ved avslutningen av tiltaket.
+3. Ved enkelttilskudd på mer enn 500 000 kroner skal fylkeskommunene rapportere til departementet på forventede virkninger av tiltaket på sikt.
 
 ## Kapittel III. Særregler for søkere og mottakere av tilskudd til velfungerende næringsmiljøer og tilgang til relevant kompetanse, jf. § 1b
 
 ### § 14. Hvem som kan søke om tilskudd til hva og tildelingskriterier
 
-Det kan gis tilskudd til offentlige og private virksomheter som driver tiltak som faller innenfor formålet i [§ 1b](forskrift/2018-05-23-747/§1b) og oppfyller følgende tildelingskriterier:Tiltakets formål skal være i tråd med regionale nærings- og kompetansestrategier.Tiltaket skal ikke rettes mot enkeltbedrifter, men nå flere bedrifter samtidig.Innsatsen for næringsmiljøer og kompetanseheving skal gi samarbeid i verdikjeder, mellom bedrifter og mellom bedrifter og utdannings- og kompetansemiljøer.
+Det kan gis tilskudd til offentlige og private virksomheter som driver tiltak som faller innenfor formålet i [§ 1b](forskrift/2018-05-23-747/§1b) og oppfyller følgende tildelingskriterier:
+
+1. Tiltakets formål skal være i tråd med regionale nærings- og kompetansestrategier.
+2. Tiltaket skal ikke rettes mot enkeltbedrifter, men nå flere bedrifter samtidig.
+3. Innsatsen for næringsmiljøer og kompetanseheving skal gi samarbeid i verdikjeder, mellom bedrifter og mellom bedrifter og utdannings- og kompetansemiljøer.
 
 Fylkeskommunene må ved tildeling av tilskudd velge ut de prosjektene som i størst grad bidrar til måloppnåelsen i ordningen, jf. [§ 15](forskrift/2018-05-23-747/§15).
 
@@ -162,13 +196,22 @@ Tilskuddsforvalteren kan fastsette ytterligere tildelingskriterier i relevant om
 
 ### § 15. Kriterier for måloppnåelse for ordningen
 
-Fylkeskommunene skal rapportere om de overordnede kriteriene for måloppnåelse, som er styrket innovasjonsevne og bedre tilgang til relevant kompetanse i bedriftene. Konkret innebærer dette å angitall på mobiliseringstiltak for kompetanseheving og for samarbeid i næringsmiljøtall på næringsmiljø med nytt eller styrket samarbeidtall på utviklingsprosjekt for kompetanseheving.
+Fylkeskommunene skal rapportere om de overordnede kriteriene for måloppnåelse, som er styrket innovasjonsevne og bedre tilgang til relevant kompetanse i bedriftene. Konkret innebærer dette å angi
+
+1. tall på mobiliseringstiltak for kompetanseheving og for samarbeid i næringsmiljø
+2. tall på næringsmiljø med nytt eller styrket samarbeid
+3. tall på utviklingsprosjekt for kompetanseheving.
 
 ## Kapittel IV. Særregler for tilskudd til nye arbeidsplasser i kommuner med vesentlig reduksjon i sysselsettingen jf. § 1c
 
 ### § 16. Fordeling av ordinære tilskuddsmidler etter innspill fra fylkeskommunene
 
-Fylkeskommunene skal opplyse departementet om følgende:omfanget av reduksjonen i sysselsettingen i kommunene og regionenemuligheten for pendling til andre arbeidsmarkederden generelle arbeidsledigheten i kommunene og regioneneeventuelle andre forhold som kan ha betydning.
+Fylkeskommunene skal opplyse departementet om følgende:
+
+1. omfanget av reduksjonen i sysselsettingen i kommunene og regionene
+2. muligheten for pendling til andre arbeidsmarkeder
+3. den generelle arbeidsledigheten i kommunene og regionene
+4. eventuelle andre forhold som kan ha betydning.
 
 Fylkeskommunene skal legge de ovennevnte tildelingskriteriene til grunn ved tildeling til omstillingskommuner.
 
@@ -182,7 +225,11 @@ I en totalvurdering av situasjonen i området vil det også bli lagt vekt på re
 
 ### § 18. Kriterier for måloppnåelse som enkelt tiltak skal vurderes opp mot
 
-Måloppnåelsen vil bli vurdert opp motantall arbeidsplasser som er etablert eller sikret som følge av omstillingsarbeidetet styrket næringsgrunnlag, slik at kommunene og regionene fremstår mer robust og med en mer variert næringsstrukturstyrket utviklingsevne i området i løpet av omstillingsperioden
+Måloppnåelsen vil bli vurdert opp mot
+
+1. antall arbeidsplasser som er etablert eller sikret som følge av omstillingsarbeidet
+2. et styrket næringsgrunnlag, slik at kommunene og regionene fremstår mer robust og med en mer variert næringsstruktur
+3. styrket utviklingsevne i området i løpet av omstillingsperioden
 
 Innovasjon Norge rapporterer kun på bokstav a. De øvrige kriteriene dokumenteres gjennom evalueringer, jf. [§ 7](forskrift/2018-05-23-747/§7).
 
@@ -192,7 +239,12 @@ Innovasjon Norge rapporterer kun på bokstav a. De øvrige kriteriene dokumenter
 
 Departementet tildeler tilskuddsmidler til fylkeskommunen som tilskudd uten krav om tilbakebetaling. Fylkeskommunen kan dermed disponere midlene uavhengig av bevilgningsår, og det fremgår av statsbudsjettet hvorvidt midler tildelt under en ordning kan brukes under andre ordninger.
 
-Fylkeskommunene har videre fullmakt til åbestemme i hvilket år tilsagnet skal gisavgjøre hvor lenge tilsagnet er gyldig (maksimalt 5 år)behandle søknad om forlengelsebevilge ubenyttede midler til nye tiltak i tråd med de målene som er satt for bevilgningene.
+Fylkeskommunene har videre fullmakt til å
+
+1. bestemme i hvilket år tilsagnet skal gis
+2. avgjøre hvor lenge tilsagnet er gyldig (maksimalt 5 år)
+3. behandle søknad om forlengelse
+4. bevilge ubenyttede midler til nye tiltak i tråd med de målene som er satt for bevilgningene.
 
 Fylkeskommunene kan finansiere tiltak og programmer i egen regi, utarbeide egne tilskuddsordninger og medfinansiere nasjonale eller regionale prosjekter og programmer. Fylkeskommunen kan unntaksvis tildele enkelttilskudd ved særskilt å navngi mottakeren i vedtak fattet av fylkestinget. Forvalter skal rapportere på lik linje med øvrige tilskuddsmottakere. Bruken av tilskuddsmidlene skal være forankret i regionale mål og strategier, i forpliktende partnerskap med næringslivet og regionale og lokale aktører.
 
@@ -216,15 +268,27 @@ Fylkeskommunene er ansvarlig ovenfor Kommunal- og moderniseringsdepartementet fo
 
 ### § 22. Forvalteres etablering av tilskuddsordninger
 
-Forvaltere skal etablere en eller flere tilskuddsordninger innenfor rammen av denne forskriften. En tilskuddsordning består av følgende hovedelementer:Målet med tilskuddsordningen, jf. [§ 1](forskrift/2018-05-23-747/§1)Kriterier for måloppnåelse, jf. [§ 12](forskrift/2018-05-23-747/§12), [§ 15](forskrift/2018-05-23-747/§15), [§ 18](forskrift/2018-05-23-747/§18)Tildelingskriterier, herunder beregningsregler, jf. [§ 11](forskrift/2018-05-23-747/§11), [§ 14](forskrift/2018-05-23-747/§14), [§ 16](forskrift/2018-05-23-747/§16)Oppfølging og kontroll, jf. [§ 7](forskrift/2018-05-23-747/§7)Eventuelt evaluering, jf. [§ 7](forskrift/2018-05-23-747/§7).
+Forvaltere skal etablere en eller flere tilskuddsordninger innenfor rammen av denne forskriften. En tilskuddsordning består av følgende hovedelementer:
 
-Forvaltere skal selv vurdere hvorvidt det er nødvendig åytterligere presisere hovedelementene for hver enkelt tilskuddsordning innenfor de som fremgår av denne forskriftenvurdere om en slik presisering av hovedelementene har karakter av rettigheter og plikter og derfor skal fastsettes i forskrifts form.
+1. Målet med tilskuddsordningen, jf. [§ 1](forskrift/2018-05-23-747/§1)
+2. Kriterier for måloppnåelse, jf. [§ 12](forskrift/2018-05-23-747/§12), [§ 15](forskrift/2018-05-23-747/§15), [§ 18](forskrift/2018-05-23-747/§18)
+3. Tildelingskriterier, herunder beregningsregler, jf. [§ 11](forskrift/2018-05-23-747/§11), [§ 14](forskrift/2018-05-23-747/§14), [§ 16](forskrift/2018-05-23-747/§16)
+4. Oppfølging og kontroll, jf. [§ 7](forskrift/2018-05-23-747/§7)
+5. Eventuelt evaluering, jf. [§ 7](forskrift/2018-05-23-747/§7).
+
+Forvaltere skal selv vurdere hvorvidt det er nødvendig å
+
+1. ytterligere presisere hovedelementene for hver enkelt tilskuddsordning innenfor de som fremgår av denne forskriften
+2. vurdere om en slik presisering av hovedelementene har karakter av rettigheter og plikter og derfor skal fastsettes i forskrifts form.
 
 Private rettssubjekt skal ikke lage forskrifter, smnl. denne bestemmelsen annet ledd, bokstav b.
 
 ### § 23. Krav til forvalters tilsyn med tilskuddsmidlene
 
-Forvaltere skaletablere rutiner for å sikre god internkontroll, slik at de selv og departementet kan kontrollere at betingelsene for tilskuddet og vilkårene i tildelingen er oppfyltføre tilsyn med at kravene i forskriften og i tilskuddsvedtaket blir fulgt opp.
+Forvaltere skal
+
+1. etablere rutiner for å sikre god internkontroll, slik at de selv og departementet kan kontrollere at betingelsene for tilskuddet og vilkårene i tildelingen er oppfylt
+2. føre tilsyn med at kravene i forskriften og i tilskuddsvedtaket blir fulgt opp.
 
 ### § 24. Konsekvenser ved feil forvaltning og feil bruk av tilskuddsmidlene
 

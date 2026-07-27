@@ -52,7 +52,13 @@ Foreldreveiledning skal gi informasjon om og veiledning i foreldrerollen i en no
 
 Kommunen skal benytte kunnskapsbaserte foreldreveiledningsmetoder som er tilpasset deltagere i introduksjonsprogram. Foreldreveiledningen skal gis ut fra et forebyggende perspektiv.
 
-Foreldreveiledningen skal minst inneholde temaene:barnets behov og tilpasning av omsorg til barnets behovpositiv utvikling av det følelsesmessige forholdet mellom omsorgsgiver og barnetet godt og stimulerende samspill mellom omsorgsgiveren og barnetregulering og grensesettingnegativ sosial kontroll, æresrelatert vold, vold i nære relasjoner, tvangsekteskap og kjønnslemlestelse samt helserisikoen ved å få barn med nært beslektede personer.
+Foreldreveiledningen skal minst inneholde temaene:
+
+1. barnets behov og tilpasning av omsorg til barnets behov
+2. positiv utvikling av det følelsesmessige forholdet mellom omsorgsgiver og barnet
+3. et godt og stimulerende samspill mellom omsorgsgiveren og barnet
+4. regulering og grensesetting
+5. negativ sosial kontroll, æresrelatert vold, vold i nære relasjoner, tvangsekteskap og kjønnslemlestelse samt helserisikoen ved å få barn med nært beslektede personer.
 
 Foreldreveiledning gjennomføres enten i gruppe eller som individuell veiledning. Veiledning i gruppe skal bestå av mellom åtte og tolv veiledningsmøter. Individuell veiledning skal bestå av mellom fem og åtte veiledningssamtaler.
 
@@ -88,7 +94,11 @@ Ved langvarig fravær fra introduksjonsprogram som skyldes sykdom eller skade, k
 
 ### § 6. Rett til introduksjonsstønad ved fravær på grunn av barns eller barnepassers sykdom eller skade
 
-Deltagere i introduksjonsprogrammet som har omsorg for barn, beholder retten til introduksjonsstønad etter [integreringsloven kapittel 5](lov/2020-11-06-127/kap5) når deltageren bruker egenmelding eller legger fram legeerklæring som viser at han eller hun er forhindret fra å delta i introduksjonsprogrampå grunn av nødvendig tilsyn med og pleie av et barn med sykdom eller skade i hjemmet eller i helseinstitusjonfordi den som har det daglige tilsynet med barnet, er syk eller skadetfordi den som har det daglige tilsynet med barnet, er forhindret fra å ha tilsyn med barnet fordi vedkommende følger et annet barn til utredning eller til innleggelse i helseinstitusjon.
+Deltagere i introduksjonsprogrammet som har omsorg for barn, beholder retten til introduksjonsstønad etter [integreringsloven kapittel 5](lov/2020-11-06-127/kap5) når deltageren bruker egenmelding eller legger fram legeerklæring som viser at han eller hun er forhindret fra å delta i introduksjonsprogram
+
+1. på grunn av nødvendig tilsyn med og pleie av et barn med sykdom eller skade i hjemmet eller i helseinstitusjon
+2. fordi den som har det daglige tilsynet med barnet, er syk eller skadet
+3. fordi den som har det daglige tilsynet med barnet, er forhindret fra å ha tilsyn med barnet fordi vedkommende følger et annet barn til utredning eller til innleggelse i helseinstitusjon.
 
 Retten til å beholde introduksjonsstønaden etter første ledd gjelder til og med det kalenderåret barnet fyller 12 år. Dersom barnet har kronisk sykdom eller nedsatt funksjonsevne, gjelder retten til og med det året barnet fyller 18 år.
 
@@ -148,7 +158,14 @@ En deltager som ammer sitt barn, har rett til den fritid hun av den grunn trenge
 
 Når det foreligger viktige velferdsgrunner, kan den enkelte kommune innvilge søknad om velferdspermisjon i inntil ti virkedager for hvert kalenderår med introduksjonsstønad.
 
-Kommunen kan gi velferdspermisjon i blant annet følgende tilfeller:inntil tre virkedager ved tilvenning av barn i barnehage og lignendeén dag for å følge barnet på skolen den dagen barnet begynner på skolenden dagen den enkelte deltager gifter seg eller inngår partnerskapinntil tre virkedager i forbindelse med dødsfall i nær familie eller vennekrets.i forbindelse med jobbintervju, opptak ved skole eller avtalt time hos lege eller tannlegenår en deltager i hjemmet pleier en nær pårørende.
+Kommunen kan gi velferdspermisjon i blant annet følgende tilfeller:
+
+1. inntil tre virkedager ved tilvenning av barn i barnehage og lignende
+2. én dag for å følge barnet på skolen den dagen barnet begynner på skolen
+3. den dagen den enkelte deltager gifter seg eller inngår partnerskap
+4. inntil tre virkedager i forbindelse med dødsfall i nær familie eller vennekrets.
+5. i forbindelse med jobbintervju, opptak ved skole eller avtalt time hos lege eller tannlege
+6. når en deltager i hjemmet pleier en nær pårørende.
 
 Etter andre ledd bokstav d likestilles samboer og samboers familie med ektefelle og ektefelles familie. Det kan i tillegg gis permisjon med introduksjonsstønad på eventuelle nødvendige reisedager mellom tjenestested og det sted hvor begravelse, bisettelse eller urnenedsettelse finner sted.
 
@@ -228,7 +245,16 @@ Dokumentasjon på tilbakeholdelse mot sin vilje kan være bekreftelse fra person
 
 ### § 23. Fritak fra plikt til opplæring i norsk på grunn av dokumenterte kunnskaper
 
-Fritak fra plikten til å delta i opplæring i norsk gis etter søknad hvis den enkelte kan dokumentere et av følgende:oppnådd minimum nivå B1 på prøve i norsk i hver av de fire delferdighetene leseforståelse, lytteforståelse, skriftlig fremstilling og muntlig kommunikasjonoppnådd minimum nivå B1 på prøve i norsk som måler skriftlige og muntlige ferdigheter, herunder norskprøve 3 og test i norsk – høyere nivå (Bergenstesten).standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk muntlig og skriftlig eller samisk i modul 4 i forberedende opplæring for voksnestandpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)halvårsvurdering, midtveisvurdering, standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i videregående opplæringgodkjent kompetanse etter realkompetansevurdering i norsk eller samisk i forberedende opplæring for voksne eller videregående opplæring etter opplæringslova eller i grunnskole eller videregående opplæring etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)gjennomført studier i norsk eller samisk på universitets- og høyskolenivå i Norge eller i utlandet tilsvarende 30 studiepoengoppfylt inntakskrav for norsk eller samisk for universitet, høyskole eller fagskole.
+Fritak fra plikten til å delta i opplæring i norsk gis etter søknad hvis den enkelte kan dokumentere et av følgende:
+
+1. oppnådd minimum nivå B1 på prøve i norsk i hver av de fire delferdighetene leseforståelse, lytteforståelse, skriftlig fremstilling og muntlig kommunikasjon
+2. oppnådd minimum nivå B1 på prøve i norsk som måler skriftlige og muntlige ferdigheter, herunder norskprøve 3 og test i norsk – høyere nivå (Bergenstesten).
+3. standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk muntlig og skriftlig eller samisk i modul 4 i forberedende opplæring for voksne
+4. standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)
+5. halvårsvurdering, midtveisvurdering, standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i videregående opplæring
+6. godkjent kompetanse etter realkompetansevurdering i norsk eller samisk i forberedende opplæring for voksne eller videregående opplæring etter opplæringslova eller i grunnskole eller videregående opplæring etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)
+7. gjennomført studier i norsk eller samisk på universitets- og høyskolenivå i Norge eller i utlandet tilsvarende 30 studiepoeng
+8. oppfylt inntakskrav for norsk eller samisk for universitet, høyskole eller fagskole.
 
 Ved fritak etter første ledd bokstav a, kan lytteforståelse dokumenteres ved avlesningsprøve i norsk tegnspråk med delprøve i lytteforståelse. Muntlig kommunikasjon kan dokumenteres ved prøve i tegnspråklig kommunikasjon.
 
@@ -238,7 +264,13 @@ Kommunen kan beslutte at fritak fra plikten til å delta i opplæring også inne
 
 ### § 24. Fritak fra plikt til opplæring i samfunnskunnskap på grunn av dokumenterte kunnskaper
 
-Fritak fra plikten til å delta i opplæring i samfunnskunnskap gis etter søknad hvis den enkelte kan dokumentere et av følgende:bestått prøve i samfunnskunnskap på et språk deltageren forstårstandpunktkarakter eller eksamenskarakter 2 eller høyere i samfunnsfag i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61).halvårsvurdering, midtveisvurdering, standpunktkarakter eller eksamenskarakter 2 eller høyere i samfunnskunnskap i videregående opplæringgodkjent kompetanse etter realkompetansevurdering i samfunnskunnskap i videregående opplæring etter [opplæringslova](lov/2023-06-09-30) eller i samfunnsfag i grunnskole eller samfunnskap i videregående opplæring etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)gjennomført og bestått studier i samfunnsfag som gir kunnskap om Norge, på universitetsnivå, høyskolenivå eller fagskolenivå tilsvarende minimum 10 studiepoeng.
+Fritak fra plikten til å delta i opplæring i samfunnskunnskap gis etter søknad hvis den enkelte kan dokumentere et av følgende:
+
+1. bestått prøve i samfunnskunnskap på et språk deltageren forstår
+2. standpunktkarakter eller eksamenskarakter 2 eller høyere i samfunnsfag i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61).
+3. halvårsvurdering, midtveisvurdering, standpunktkarakter eller eksamenskarakter 2 eller høyere i samfunnskunnskap i videregående opplæring
+4. godkjent kompetanse etter realkompetansevurdering i samfunnskunnskap i videregående opplæring etter [opplæringslova](lov/2023-06-09-30) eller i samfunnsfag i grunnskole eller samfunnskap i videregående opplæring etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)
+5. gjennomført og bestått studier i samfunnsfag som gir kunnskap om Norge, på universitetsnivå, høyskolenivå eller fagskolenivå tilsvarende minimum 10 studiepoeng.
 
 Kommunen kan beslutte at fritaket også innebærer et bortfall av retten til å delta i opplæring i samfunnskunnskap.
 
@@ -318,7 +350,15 @@ Reglene om permisjon i dette kapitlet gjelder ikke for personer som deltar i opp
 
 Når det foreligger viktige velferdsgrunner, kan den enkelte kommune innvilge søknad om velferdspermisjon fra opplæringen i norsk og samfunnskunnskap i inntil ti virkedager for hvert kalenderår.
 
-Kommunen kan innvilge velferdspermisjon i blant annet følgende tilfeller:inntil tre virkedager tilvenning av barn i barnehage og lignendeén dag for å følge barn på skolen den dagen barnet begynner på skolenden dagen deltageren gifter seg eller inngår partnerskapinntil tre virkedager i forbindelse med dødsfall i nær familie eller vennekretsi forbindelse med jobbintervju, opptak ved skole eller avtalt time hos lege eller tannlegenår en deltager i hjemmet pleier en nær pårørendefor å feire religiøse høytidsdager i inntil to virkedager.
+Kommunen kan innvilge velferdspermisjon i blant annet følgende tilfeller:
+
+1. inntil tre virkedager tilvenning av barn i barnehage og lignende
+2. én dag for å følge barn på skolen den dagen barnet begynner på skolen
+3. den dagen deltageren gifter seg eller inngår partnerskap
+4. inntil tre virkedager i forbindelse med dødsfall i nær familie eller vennekrets
+5. i forbindelse med jobbintervju, opptak ved skole eller avtalt time hos lege eller tannlege
+6. når en deltager i hjemmet pleier en nær pårørende
+7. for å feire religiøse høytidsdager i inntil to virkedager.
 
 Etter andre ledd bokstav d likestilles samboer og samboers familie med ektefelle og ektefelles familie. Det kan i tillegg gis permisjon på eventuelle nødvendige reisedager mellom tjenestested og det sted hvor begravelse, bisettelse eller urnenedsettelse finner sted.
 
@@ -346,9 +386,17 @@ Ved adopsjon har adoptivforeldre som deltar i opplæring i norsk og samfunnskunn
 
 ### § 34. Innholdet i prøver i norsk og samfunnskunnskap
 
-Prøver i norsk på nivå A1 til B2 måler kandidatens ferdigheter i å lese, lytte, skrive, snakke og samtale og består av følgende fire delprøver:delprøve i leseforståelsedelprøve i lytteforståelsedelprøve i skriftlig framstillingdelprøve i muntlig kommunikasjon.
+Prøver i norsk på nivå A1 til B2 måler kandidatens ferdigheter i å lese, lytte, skrive, snakke og samtale og består av følgende fire delprøver:
 
-Avlesningsprøve i norsk tegnspråk sidestilles med delprøve i lytteforståelse og prøve i tegnspråklig kommunikasjon sidestilles med delprøve i muntlig i kommunikasjon. Prøver i norsk på nivå C1 måler kandidatens ferdigheter i å lese, lytte, skrive og snakke og består av følgende to delprøver:delprøve i leseforståelse og muntlig kommunikasjondelprøve i lytteforståelse og skriftlig framstilling.
+1. delprøve i leseforståelse
+2. delprøve i lytteforståelse
+3. delprøve i skriftlig framstilling
+4. delprøve i muntlig kommunikasjon.
+
+Avlesningsprøve i norsk tegnspråk sidestilles med delprøve i lytteforståelse og prøve i tegnspråklig kommunikasjon sidestilles med delprøve i muntlig i kommunikasjon. Prøver i norsk på nivå C1 måler kandidatens ferdigheter i å lese, lytte, skrive og snakke og består av følgende to delprøver:
+
+1. delprøve i leseforståelse og muntlig kommunikasjon
+2. delprøve i lytteforståelse og skriftlig framstilling.
 
 Prøve i samfunnskunnskap prøver kandidatens grunnleggende kunnskaper om det norske samfunnet i forhold til målene for samfunnskunnskap slik de er beskrevet i læreplanen.
 
@@ -374,7 +422,22 @@ Søknad sendes til kommunen. Kommunen fatter vedtak om fritak fra plikt til å a
 
 ### § 37. Informasjon om prøver og avvikling av disse
 
-Direktoratet for høyere utdanning og kompetanse skal sørge for at relevant informasjon om prøver i norsk og samfunnskunnskap publiseres senest to måneder før avvikling av neste prøve. Informasjonen skal inneholde følgende opplysninger:tidspunkt for avvikling av prøver i norskavvikling av prøve i samfunnskunnskaphvordan søke fritak fra plikten til å gå opp til prøver i norsk, og samfunnskunnskaphvordan melde seg opp til prøverpåmeldingsfristprøveavgiftavmeldinginnholdet i prøvenehva prøvene skal måletidsramme for hver av delprøvene i norsk og prøve i samfunnskunnskapeventuell tilretteleggingvurderingklagerett, klagefrist, herunder muligheten for hurtigklage, og formkrav for klagehvordan få tilgang til eksempelmateriale.
+Direktoratet for høyere utdanning og kompetanse skal sørge for at relevant informasjon om prøver i norsk og samfunnskunnskap publiseres senest to måneder før avvikling av neste prøve. Informasjonen skal inneholde følgende opplysninger:
+
+1. tidspunkt for avvikling av prøver i norsk
+2. avvikling av prøve i samfunnskunnskap
+3. hvordan søke fritak fra plikten til å gå opp til prøver i norsk, og samfunnskunnskap
+4. hvordan melde seg opp til prøver
+5. påmeldingsfrist
+6. prøveavgift
+7. avmelding
+8. innholdet i prøvene
+9. hva prøvene skal måle
+10. tidsramme for hver av delprøvene i norsk og prøve i samfunnskunnskap
+11. eventuell tilrettelegging
+12. vurdering
+13. klagerett, klagefrist, herunder muligheten for hurtigklage, og formkrav for klage
+14. hvordan få tilgang til eksempelmateriale.
 
 > Endret ved forskrift [26 juni 2023 nr. 1105](forskrift/2023-06-26-1105) (i kraft 1 aug 2023).
 
@@ -520,7 +583,19 @@ Deltagere som nevnt i første ledd har rett til å fullføre påbegynt introduks
 
 ### § 44. Innhenting av personopplysninger
 
-Integrerings- og mangfoldsdirektoratet og Direktoratet for høyere utdanning og kompetanse kan innhente nødvendige personopplysninger til de etablerte personregistrene etter [integreringsloven § 43](lov/2020-11-06-127/§43) første ledd fra følgende aktører:Utlendingsdirektoratet (UDI)Utlendingsnemnda (UNE)FolkeregisteretIntegrerings- og mangfoldsdirektoratet (IMDi)Barne-, ungdoms-, og familieetaten (Bufetat)Direktoratet for høyere utdanning og kompetansekommunenefylkeskommuneneomsorgssentreneoffentlige karrieresentreArbeids- og velferdsetaten.
+Integrerings- og mangfoldsdirektoratet og Direktoratet for høyere utdanning og kompetanse kan innhente nødvendige personopplysninger til de etablerte personregistrene etter [integreringsloven § 43](lov/2020-11-06-127/§43) første ledd fra følgende aktører:
+
+1. Utlendingsdirektoratet (UDI)
+2. Utlendingsnemnda (UNE)
+3. Folkeregisteret
+4. Integrerings- og mangfoldsdirektoratet (IMDi)
+5. Barne-, ungdoms-, og familieetaten (Bufetat)
+6. Direktoratet for høyere utdanning og kompetanse
+7. kommunene
+8. fylkeskommunene
+9. omsorgssentrene
+10. offentlige karrieresentre
+11. Arbeids- og velferdsetaten.
 
 I saker der hensynet til barnets beste gjør det nødvendig, kan IMDi innhente opplysninger fra den kommunale barnevernstjenesten og krisesentre uten hinder av disse organenes taushetsplikt.
 
@@ -532,57 +607,155 @@ Offentlige organer som behandler personopplysninger etter forskriften skal sørg
 
 ### § 46. Personopplysninger som kan behandles for alle formålene
 
-Følgende personopplysninger om asylsøkere og nyankomne innvandrere anses nødvendige for alle formålene som nevnt i [integreringsloven § 41](lov/2020-11-06-127/§41):navn, kjønn og fødselsdatofødselsnummer eller annet identifikasjonsnummer i form av DUF-nummer, registreringsnummer i mottak, D-nummer eller passnummerkontaktinformasjon, herunder adresse, telefonnummer og e-postadressesivilstatusfamilierelasjoner og andre nære relasjonerstatsborgerskap og opprinnelseslandom personen er enslig mindreårigboformopplysninger om personens oppholdstillatelse, herunder søknads- og vedtaksdato for innvilgelse eller avslag, oppholdsgrunnlag, varighet på oppholdstillatelsen, tidligere oppholdstillatelser, saker om tilbakekall av tillatelsen og utvisning og om det er søkt om fornyet oppholdstillatelsesærskilte opplysninger om overføringsflyktningerreservasjon mot behandling av personopplysninger til forskningsformål.
+Følgende personopplysninger om asylsøkere og nyankomne innvandrere anses nødvendige for alle formålene som nevnt i [integreringsloven § 41](lov/2020-11-06-127/§41):
+
+1. navn, kjønn og fødselsdato
+2. fødselsnummer eller annet identifikasjonsnummer i form av DUF-nummer, registreringsnummer i mottak, D-nummer eller passnummer
+3. kontaktinformasjon, herunder adresse, telefonnummer og e-postadresse
+4. sivilstatus
+5. familierelasjoner og andre nære relasjoner
+6. statsborgerskap og opprinnelsesland
+7. om personen er enslig mindreårig
+8. boform
+9. opplysninger om personens oppholdstillatelse, herunder søknads- og vedtaksdato for innvilgelse eller avslag, oppholdsgrunnlag, varighet på oppholdstillatelsen, tidligere oppholdstillatelser, saker om tilbakekall av tillatelsen og utvisning og om det er søkt om fornyet oppholdstillatelse
+10. særskilte opplysninger om overføringsflyktninger
+11. reservasjon mot behandling av personopplysninger til forskningsformål.
 
 Personopplysningene innhentes fra den enkelte person, utlendingsmyndighetenes registre eller Folkeregisteret. Opplysningene kan i registrene knyttes til fødselsnummer eller annet identifikasjonsnummer.
 
 ### § 47. Opplysninger om personer som gjennomfører kompetansekartlegging og karriereveiledning
 
-Følgende opplysninger om en persons kompetanse kan behandles:morsmål, foretrukket tolkespråk og landbakgrunnutdanning og realkompetansespråk den enkelte behersker og med hvilket ferdighetsnivådigitale ferdighetersertifikat for kjøretøyarbeidserfaringinteresserønsker for utdanning og arbeid.
+Følgende opplysninger om en persons kompetanse kan behandles:
 
-Følgende opplysninger om en person som har gjennomført karriereveiledning kan behandles:utfyllende kompetanseopplysningerønsker og muligheter innen utdanning og arbeidbehov for å søke kompletterende utdanning, godkjenning, autorisasjon eller behov for realkompetansevurderinginformasjon om eventuelle hindringer for å delta i kvalifiseringstiltak, arbeid og utdanning.
+1. morsmål, foretrukket tolkespråk og landbakgrunn
+2. utdanning og realkompetanse
+3. språk den enkelte behersker og med hvilket ferdighetsnivå
+4. digitale ferdigheter
+5. sertifikat for kjøretøy
+6. arbeidserfaring
+7. interesser
+8. ønsker for utdanning og arbeid.
+
+Følgende opplysninger om en person som har gjennomført karriereveiledning kan behandles:
+
+1. utfyllende kompetanseopplysninger
+2. ønsker og muligheter innen utdanning og arbeid
+3. behov for å søke kompletterende utdanning, godkjenning, autorisasjon eller behov for realkompetansevurdering
+4. informasjon om eventuelle hindringer for å delta i kvalifiseringstiltak, arbeid og utdanning.
 
 ### § 48. Opplysninger om beboer i mottak som deltar i integreringsfremmende program
 
-Følgende opplysninger om beboer i mottak som deltar i integreringsfremmende program kan behandles:navn og adresse til mottaketregistrering i mottaktilbud om og tildeling, start og stans av fulltidsprogrammetkontrakten mellom beboeren og mottaketfraværtiltak som følges i fulltidsprogrammet, herunder varighet og omfangrelevante helseopplysninger.
+Følgende opplysninger om beboer i mottak som deltar i integreringsfremmende program kan behandles:
+
+1. navn og adresse til mottaket
+2. registrering i mottak
+3. tilbud om og tildeling, start og stans av fulltidsprogrammet
+4. kontrakten mellom beboeren og mottaket
+5. fravær
+6. tiltak som følges i fulltidsprogrammet, herunder varighet og omfang
+7. relevante helseopplysninger.
 
 ### § 49. Opplysninger om beboer i mottak som deltar i opplæring
 
-Følgende opplysninger om en asylsøker som deltar i opplæring i norsk og opplæring i samfunnskunnskap i mottak, kan behandles:navn og adresse til mottakettidspunkt for registrering i mottaktildeling, start og stans av opplæringenmorsmålspråket opplæringen blir gitt påfritak fra plikten til å delta i opplæringen og rettsgrunnlaget for slikt fritak.antall timer gjennomført opplæring i norsk og samfunnskunnskap og fordeling av gjennomførte timer opplæring i samfunnskunnskap på moduler
+Følgende opplysninger om en asylsøker som deltar i opplæring i norsk og opplæring i samfunnskunnskap i mottak, kan behandles:
+
+1. navn og adresse til mottaket
+2. tidspunkt for registrering i mottak
+3. tildeling, start og stans av opplæringen
+4. morsmål
+5. språket opplæringen blir gitt på
+6. fritak fra plikten til å delta i opplæringen og rettsgrunnlaget for slikt fritak.
+7. antall timer gjennomført opplæring i norsk og samfunnskunnskap og fordeling av gjennomførte timer opplæring i samfunnskunnskap på moduler
 
 > Endret ved [forskrift 22 des 2021 nr. 3852](forskrift/2021-12-22-3852) (i kraft 1 jan 2022).
 
 ### § 50. Opplysninger om beboer i mottak som deltar i integreringsfremmende tiltak
 
-Følgende opplysninger om en beboer i mottak som deltar i integreringsfremmende tiltak etter [integreringsloven § 7](lov/2020-11-06-127/§7), kan behandles:hvorvidt foreldreveiledning og livsmestring er gjennomførthvilke andre integreringsfremmende tiltak som er påbegynt eller gjennomført.
+Følgende opplysninger om en beboer i mottak som deltar i integreringsfremmende tiltak etter [integreringsloven § 7](lov/2020-11-06-127/§7), kan behandles:
+
+1. hvorvidt foreldreveiledning og livsmestring er gjennomført
+2. hvilke andre integreringsfremmende tiltak som er påbegynt eller gjennomført.
 
 > Endret ved forskrift [20 juni 2025 nr. 1154](forskrift/2025-06-20-1154) (i kraft 1 juli 2025).
 
 ### § 51. Opplysninger om personer som bosettes
 
-Følgende opplysninger om den som bosettes kan behandles:bosettingsønskersærlige forhold det bør tas hensyn til ved bosettingenopplysninger om bosettingsprosessen, tidspunkter og adressermorsmål og foretrukket tolkespråk.
+Følgende opplysninger om den som bosettes kan behandles:
 
-Når det er nødvendig for bosettingen, kan også følgende personopplysninger behandles:etnisk opprinnelsereligiøs oppfatning og tilknytningstraffbare forholdhelseforholdseksuelle forhold.
+1. bosettingsønsker
+2. særlige forhold det bør tas hensyn til ved bosettingen
+3. opplysninger om bosettingsprosessen, tidspunkter og adresser
+4. morsmål og foretrukket tolkespråk.
+
+Når det er nødvendig for bosettingen, kan også følgende personopplysninger behandles:
+
+1. etnisk opprinnelse
+2. religiøs oppfatning og tilknytning
+3. straffbare forhold
+4. helseforhold
+5. seksuelle forhold.
 
 ### § 52. Opplysninger om personer som deltar i introduksjonsprogram
 
-Følgende opplysninger om personer som deltar i introduksjonsprogram kan behandles:tilbud om og tildeling, start og stans av introduksjonsprogramsluttmål for deltakelsen i introduksjonsprogramhvorvidt kompetansekartlegging og karriereveiledning er gjennomførtinnholdet i introduksjonsprogrammet, herunder varighet og omfang av elementer og andre tiltakhvorvidt foreldreveiledning og livsmestring er gjennomførtpermisjoner og fravær, herunder årsak til fravær etter endt permisjon ved fødsel og adopsjonklager og klagebehandlingintroduksjonsstønad.
+Følgende opplysninger om personer som deltar i introduksjonsprogram kan behandles:
+
+1. tilbud om og tildeling, start og stans av introduksjonsprogram
+2. sluttmål for deltakelsen i introduksjonsprogram
+3. hvorvidt kompetansekartlegging og karriereveiledning er gjennomført
+4. innholdet i introduksjonsprogrammet, herunder varighet og omfang av elementer og andre tiltak
+5. hvorvidt foreldreveiledning og livsmestring er gjennomført
+6. permisjoner og fravær, herunder årsak til fravær etter endt permisjon ved fødsel og adopsjon
+7. klager og klagebehandling
+8. introduksjonsstønad.
 
 > Endret ved forskrift [20 juni 2025 nr. 1154](forskrift/2025-06-20-1154) (i kraft 1 juli 2025).
 
 ### § 53. Opplysninger om personer som deltar i opplæring i norsk og samfunnskunnskap
 
-Følgende opplysninger om personer som deltar i opplæring i norsk og samfunnskunnskap kan behandles:tildeling, start og stans av opplæringen, og om det er kommunen eller fylkeskommunen som sørger for opplæringenmorsmålnorskmålfritak fra plikten til å delta i opplæringen og rettsgrunnlaget for slikt fritakfritak fra plikten til å avlegge prøver og rettsgrunnlaget for slikt fritakspråket opplæringen blir gitt påantall timer gjennomført opplæring i norskantall timer gjennomført opplæring i samfunnskunnskap og fordeling av timene på moduleromfang av opplæring som oppfølging under omsorgspermisjonpermisjoner og fraværklager og klagebehandling.
+Følgende opplysninger om personer som deltar i opplæring i norsk og samfunnskunnskap kan behandles:
+
+1. tildeling, start og stans av opplæringen, og om det er kommunen eller fylkeskommunen som sørger for opplæringen
+2. morsmål
+3. norskmål
+4. fritak fra plikten til å delta i opplæringen og rettsgrunnlaget for slikt fritak
+5. fritak fra plikten til å avlegge prøver og rettsgrunnlaget for slikt fritak
+6. språket opplæringen blir gitt på
+7. antall timer gjennomført opplæring i norsk
+8. antall timer gjennomført opplæring i samfunnskunnskap og fordeling av timene på moduler
+9. omfang av opplæring som oppfølging under omsorgspermisjon
+10. permisjoner og fravær
+11. klager og klagebehandling.
 
 > Endret ved [forskrifter 22 des 2021 nr. 3852](forskrift/2021-12-22-3852) (i kraft 1 jan 2022), [26 juni 2023 nr. 1105](forskrift/2023-06-26-1105) (i kraft 1 aug 2023).
 
 ### § 54. Opplysninger om prøveavvikling
 
-Følgende opplysninger om den som avlegger prøver i norsk og samfunnskunnskap kan behandles:kandidatnummermorsmålhvorvidt kandidaten avlegger prøven etter å ha deltatt i opplæring etter [integreringsloven](lov/2020-11-06-127)hvorvidt kandidaten har betalt for prøvenantall år med skolegangantatt nivå i lese- og lytteforståelsebehovet for tilrettelegging på grunn av helsemessige eller andre forholdtid og sted for prøvene og hvordan de ble gjennomført, herunder eventuell tilretteleggingIP-adresser og andre personidentifiserende nettverkselementerhvilket språk og målform prøvene ble avlagt påbesvarelsene, lydopptak av besvarelsene, vurderingene og resultatene.klager, bortvisning fra prøver og om prøven ble annullertkarantenetid etter vedtak om fusk eller forsøk på fuskfravær på grunn av helsemessige eller andre forhold.
+Følgende opplysninger om den som avlegger prøver i norsk og samfunnskunnskap kan behandles:
+
+1. kandidatnummer
+2. morsmål
+3. hvorvidt kandidaten avlegger prøven etter å ha deltatt i opplæring etter [integreringsloven](lov/2020-11-06-127)
+4. hvorvidt kandidaten har betalt for prøven
+5. antall år med skolegang
+6. antatt nivå i lese- og lytteforståelse
+7. behovet for tilrettelegging på grunn av helsemessige eller andre forhold
+8. tid og sted for prøvene og hvordan de ble gjennomført, herunder eventuell tilrettelegging
+9. IP-adresser og andre personidentifiserende nettverkselementer
+10. hvilket språk og målform prøvene ble avlagt på
+11. besvarelsene, lydopptak av besvarelsene, vurderingene og resultatene.
+12. klager, bortvisning fra prøver og om prøven ble annullert
+13. karantenetid etter vedtak om fusk eller forsøk på fusk
+14. fravær på grunn av helsemessige eller andre forhold.
 
 ### § 55. Opplysninger om tilskudd
 
-Følgende opplysninger kan behandles om tilskudd:hvem som er tilskuddsmottakertidspunktet for utbetaling av tilskuddtype tilskuddtilskuddssatshvilken person det utbetales tilskudd for.
+Følgende opplysninger kan behandles om tilskudd:
+
+1. hvem som er tilskuddsmottaker
+2. tidspunktet for utbetaling av tilskudd
+3. type tilskudd
+4. tilskuddssats
+5. hvilken person det utbetales tilskudd for.
 
 ### § 56. Integrerings- og mangfoldsdirektoratets ansvar
 
@@ -590,9 +763,19 @@ Integrerings- og mangfoldsdirektoratet er behandlingsansvarlig for registre og s
 
 Direktoratet skal utlevere opplysninger om antall timer den enkelte asylsøker har gjennomført av opplæring per uke i norsk og i norsk kultur og norske verdier til utlendingsmyndighetene.
 
-Direktoratet skal utlevere følgende opplysninger til utlendingsmyndighetene om personer som har deltatt i introduksjonsprogram:hvorvidt personen har rett og plikt til deltagelse i introduksjonsprogramnår introduksjonsprogrammet startet og stanset.
+Direktoratet skal utlevere følgende opplysninger til utlendingsmyndighetene om personer som har deltatt i introduksjonsprogram:
 
-Direktoratet skal utlevere følgende opplysninger til utlendingsmyndighetene om personer som omfattes av målgruppen for opplæring i norsk og samfunnskunnskap:gjennomføringen av pliktig opplæring i norsk og samfunnskunnskapnår prøver eller delprøver i norsk og prøver i samfunnskunnskap ble avlagtresultat på prøver eller delprøver i norskresultat på prøve i samfunnskunnskap og på hvilket språk prøven ble avlagtresultat på statsborgerprøven, dersom prøve i samfunnskunnskap er avlagt på et annet språk enn norskfritak fra plikten til å delta i opplæringen i norsk og samfunnskunnskap eller fritak fra plikten til å avlegge prøver og rettsgrunnlaget for fritaket.
+1. hvorvidt personen har rett og plikt til deltagelse i introduksjonsprogram
+2. når introduksjonsprogrammet startet og stanset.
+
+Direktoratet skal utlevere følgende opplysninger til utlendingsmyndighetene om personer som omfattes av målgruppen for opplæring i norsk og samfunnskunnskap:
+
+1. gjennomføringen av pliktig opplæring i norsk og samfunnskunnskap
+2. når prøver eller delprøver i norsk og prøver i samfunnskunnskap ble avlagt
+3. resultat på prøver eller delprøver i norsk
+4. resultat på prøve i samfunnskunnskap og på hvilket språk prøven ble avlagt
+5. resultat på statsborgerprøven, dersom prøve i samfunnskunnskap er avlagt på et annet språk enn norsk
+6. fritak fra plikten til å delta i opplæringen i norsk og samfunnskunnskap eller fritak fra plikten til å avlegge prøver og rettsgrunnlaget for fritaket.
 
 Direktoratet skal inngå informasjonsutvekslingsavtaler med kommunene og fylkeskommunene for at kommunene og fylkeskommunene skal kunne oppfylle sitt ansvar etter [§ 58](forskrift/2020-12-15-2912/§58) og [§ 59](forskrift/2020-12-15-2912/§59).
 
@@ -600,7 +783,12 @@ Direktoratet skal inngå informasjonsutvekslingsavtaler med kommunene og fylkesk
 
 Direktoratet for høyere utdanning og kompetanse er behandlingsansvarlig for registre og saksbehandlingsverktøy om prøver i norsk og samfunnskunnskap som opprettes i medhold av [integreringsloven § 43](lov/2020-11-06-127/§43). Direktoratet for høyere utdanning og kompetanse skal sørge for at personopplysninger slettes når lagringstiden etter [§ 60](forskrift/2020-12-15-2912/§60) er ute.
 
-Direktoratet for høyere utdanning og kompetanse skal utlevere følgende opplysninger til utlendingsmyndighetene om personer som avlegger prøver i norsk og samfunnskunnskap og statsborgerprøven for behandling av søknader etter [utlendingsloven](lov/2008-05-15-35) eller [statsborgerloven](lov/2005-06-10-51):tidspunktet for når prøvene ble avlagtresultatet på prøve eller delprøve i norskresultatet på prøve i samfunnskunnskap og på hvilket språk prøven i samfunnskunnskap ble avlagtresultatet på statsborgerprøven.
+Direktoratet for høyere utdanning og kompetanse skal utlevere følgende opplysninger til utlendingsmyndighetene om personer som avlegger prøver i norsk og samfunnskunnskap og statsborgerprøven for behandling av søknader etter [utlendingsloven](lov/2008-05-15-35) eller [statsborgerloven](lov/2005-06-10-51):
+
+1. tidspunktet for når prøvene ble avlagt
+2. resultatet på prøve eller delprøve i norsk
+3. resultatet på prøve i samfunnskunnskap og på hvilket språk prøven i samfunnskunnskap ble avlagt
+4. resultatet på statsborgerprøven.
 
 Direktoratet for høyere utdanning og kompetanse skal inngå informasjonsutvekslingsavtaler med kommunene og fylkeskommunene for at kommunene og fylkeskommunene skal kunne oppfylle sitt ansvar etter [§ 58](forskrift/2020-12-15-2912/§58) og [§ 59](forskrift/2020-12-15-2912/§59).
 
@@ -686,7 +874,14 @@ Personer med opphold etter [utlendingsloven § 34](lov/2008-05-15-35/§34) som h
 
 ### § 66. Forsøk
 
-Departementet kan godkjenne organisatoriske, pedagogiske og økonomiske forsøk etter [integreringsloven § 38](lov/2020-11-06-127/§38) dersom følgende kriterier er oppfylt:Formålet må være å finne bedre løsninger enn dagens regelverk med sikte på å øke andelen deltagere som gjennomfører formell utdanning innenfor rammene av introduksjonsprogrammet eller går over til videre utdanning eller arbeid etter introduksjonsprogrammet eller opplæring i norsk og samfunnskunnskap.Fordelene som kan oppnås ved forsøket må overstige de ulempene som inngrepet i rettigheter etter loven medfører.Forsøket må ikke medføre at deltagere i introduksjonsprogrammet eller opplæring i norsk og samfunnskunnskap ikke kan oppfylle sin plikt til å delta i opplæring og gå opp til prøver, ikke kan få fritak fra plikt, eller ikke kan oppfylle vilkårene for permanent oppholdstillatelse eller statsborgerskap.Forsøket kan ikke innebære unntak fra saksbehandlingsregler som er gitt av hensyn til deltagernes rettssikkerhet med mindre departementet finner at dette hensynet ivaretas minst like godt ved den framgangsmåten det søkes om samtykke til.Forsøket kan ikke innebære unntak fra kommunens plikt til å registrere nødvendige opplysninger i personregistre med hjemmel i [integreringsloven § 43](lov/2020-11-06-127/§43).Forsøket skal evalueres og evalueringen rapporteres til departementet.
+Departementet kan godkjenne organisatoriske, pedagogiske og økonomiske forsøk etter [integreringsloven § 38](lov/2020-11-06-127/§38) dersom følgende kriterier er oppfylt:
+
+1. Formålet må være å finne bedre løsninger enn dagens regelverk med sikte på å øke andelen deltagere som gjennomfører formell utdanning innenfor rammene av introduksjonsprogrammet eller går over til videre utdanning eller arbeid etter introduksjonsprogrammet eller opplæring i norsk og samfunnskunnskap.
+2. Fordelene som kan oppnås ved forsøket må overstige de ulempene som inngrepet i rettigheter etter loven medfører.
+3. Forsøket må ikke medføre at deltagere i introduksjonsprogrammet eller opplæring i norsk og samfunnskunnskap ikke kan oppfylle sin plikt til å delta i opplæring og gå opp til prøver, ikke kan få fritak fra plikt, eller ikke kan oppfylle vilkårene for permanent oppholdstillatelse eller statsborgerskap.
+4. Forsøket kan ikke innebære unntak fra saksbehandlingsregler som er gitt av hensyn til deltagernes rettssikkerhet med mindre departementet finner at dette hensynet ivaretas minst like godt ved den framgangsmåten det søkes om samtykke til.
+5. Forsøket kan ikke innebære unntak fra kommunens plikt til å registrere nødvendige opplysninger i personregistre med hjemmel i [integreringsloven § 43](lov/2020-11-06-127/§43).
+6. Forsøket skal evalueres og evalueringen rapporteres til departementet.
 
 Godkjenning kan gis for en periode på inntil fire år. Perioden kan forlenges med inntil to år dersom forsøket har ønskede resultater.
 
@@ -696,7 +891,10 @@ Unntak fra loven og forskriftene etter loven godkjent for forsøk med forbereden
 
 ### § 67. Kompetansekrav for personer som skal undervise i norsk etter integreringsloven
 
-Den som skal undervise i norsk i kommunen etter [integreringsloven](lov/2020-11-06-127), må oppfylle følgende krav:kravene for tilsetting i undervisningsstilling i [kapittel 12](forskrift/2024-06-03-900/KAPITTEL_3-4) i forskrift til opplæringslova30 studiepoeng i norsk som andrespråk.
+Den som skal undervise i norsk i kommunen etter [integreringsloven](lov/2020-11-06-127), må oppfylle følgende krav:
+
+1. kravene for tilsetting i undervisningsstilling i [kapittel 12](forskrift/2024-06-03-900/KAPITTEL_3-4) i forskrift til opplæringslova
+2. 30 studiepoeng i norsk som andrespråk.
 
 Første ledd gjelder ikke den som er tilsatt midlertidig eller på vilkår etter [§ 68](forskrift/2020-12-15-2912/§68).
 
@@ -734,7 +932,11 @@ Ved klage på gjennomføring av eller resultat på prøver i norsk og samfunnsku
 
 Forskriften trer i kraft 1. januar 2021.
 
-Fra samme tidspunkt oppheves følgende forskrifter:[forskrift 18. juli 2003 nr. 973 om fravær og permisjon ved nyankomne innvandreres deltakelse i introduksjonsordning](forskrift/2003-07-18-973)[forskrift 20. april 2005 nr. 341 om opplæring i norsk og samfunnskunnskap for nyankomne innvandrere](forskrift/2005-04-20-341)[forskrift 30. august 2018 nr. 1283 om behandling av personopplysninger etter introduksjonsloven](forskrift/2018-08-30-1283)
+Fra samme tidspunkt oppheves følgende forskrifter:
+
+1. [forskrift 18. juli 2003 nr. 973 om fravær og permisjon ved nyankomne innvandreres deltakelse i introduksjonsordning](forskrift/2003-07-18-973)
+2. [forskrift 20. april 2005 nr. 341 om opplæring i norsk og samfunnskunnskap for nyankomne innvandrere](forskrift/2005-04-20-341)
+3. [forskrift 30. august 2018 nr. 1283 om behandling av personopplysninger etter introduksjonsloven](forskrift/2018-08-30-1283)
 
 > Endret ved [forskrift 22 des 2021 nr. 3852](forskrift/2021-12-22-3852) (i kraft 1 jan 2022).
 

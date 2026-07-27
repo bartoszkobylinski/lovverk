@@ -15,7 +15,7 @@ xml_hash: "ef519e6e7141fe97d188d7be526184e459320a83517491a6b626ddc7664d23a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "31985L0374"
@@ -43,7 +43,14 @@ eu_basis:
 
 ### § 1-3. (den ansvarlige)
 
-(1) Ansvarlig som «produsent» etter loven er:enhver som tilvirker eller frambringer et produkt som definert i [§ 1-2](lov/1988-12-23-104/§1-2) nr. 1,enhver som frambyr et produkt som sitt ved å anbringe sitt navn, varemerke eller annet kjennetegn på produktet eller dets pakning,forhandler av produktet, når produsenten ikke uten vanske lar seg identifisere ut fra produktet og forhandleren heller ikke innen rimelig tid oppgir enten produsentens eller en tidligere forhandlers navn og adresse,forhandler av et ubearbeidd naturprodukt som stammer fra fiske eller fangst av ville dyr eller sanking av ville vekster, når leverandøren av slikt produkt ikke reknes som produsent etter bokstav (a),importøren av et produkt innført fra utlandet,forhandler av importert produkt, om ikke importørens eller mellomliggende salgsledds navn og adresse her i riket blir oppgitt innen rimelig tid.
+(1) Ansvarlig som «produsent» etter loven er:
+
+1. enhver som tilvirker eller frambringer et produkt som definert i [§ 1-2](lov/1988-12-23-104/§1-2) nr. 1,
+2. enhver som frambyr et produkt som sitt ved å anbringe sitt navn, varemerke eller annet kjennetegn på produktet eller dets pakning,
+3. forhandler av produktet, når produsenten ikke uten vanske lar seg identifisere ut fra produktet og forhandleren heller ikke innen rimelig tid oppgir enten produsentens eller en tidligere forhandlers navn og adresse,
+4. forhandler av et ubearbeidd naturprodukt som stammer fra fiske eller fangst av ville dyr eller sanking av ville vekster, når leverandøren av slikt produkt ikke reknes som produsent etter bokstav (a),
+5. importøren av et produkt innført fra utlandet,
+6. forhandler av importert produkt, om ikke importørens eller mellomliggende salgsledds navn og adresse her i riket blir oppgitt innen rimelig tid.
 
 (2) Kongen kan ved avtale med fremmed stat bestemme at import hit fra en eller flere oppgitte stater ikke skal anses som import etter paragrafen her, og at den som har innført produktet til en av vedkommende avtalestater fra en annen stat, skal være ansvarlig som produsent.
 
@@ -71,15 +78,28 @@ Loven gjelder ikke atomskade og annen skade som går inn under reglene om erstat
 
 ### § 2-2. (unntak fra ansvaret)
 
-Produsenten er uten ansvar dersom han sannsynliggjør:at han ikke har satt produktet i omsetning som ledd i sin virksomhet, ellerat sikkerhetsmangelen ikke forelå da produktet ble satt i omsetning, og mangelen eller skaden heller ikke burde vært avverget eller avhjulpet etterpå, ellerat sikkerhetsmangelen skyldes at produktet er i samsvar med regler som er gitt av offentlig myndighet, og som i enhver henseende er ufravikelige.
+Produsenten er uten ansvar dersom han sannsynliggjør:
+
+1. at han ikke har satt produktet i omsetning som ledd i sin virksomhet, eller
+2. at sikkerhetsmangelen ikke forelå da produktet ble satt i omsetning, og mangelen eller skaden heller ikke burde vært avverget eller avhjulpet etterpå, eller
+3. at sikkerhetsmangelen skyldes at produktet er i samsvar med regler som er gitt av offentlig myndighet, og som i enhver henseende er ufravikelige.
 
 > Endret ved lov [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994 – se dens II nr. 5).
 
 ### § 2-3. (skade som omfattes)
 
-(1) Loven gjelder skade påperson ellerting somer av et slag som normalt er bestemt for privat bruk eller forbruk, ogble brukt av skadelidte hovedsakelig til privat bruk eller forbruk.
+(1) Loven gjelder skade på
 
-(2) Loven omfatter likevel ikke:skade som voldes på produktet selv,skade som et delprodukt volder på et produkt som delproduktet er innføyd i eller omdannet til før produktet er satt i omsetning til en bruker.
+1. person eller
+2. ting som
+
+   - er av et slag som normalt er bestemt for privat bruk eller forbruk, og
+   - ble brukt av skadelidte hovedsakelig til privat bruk eller forbruk.
+
+(2) Loven omfatter likevel ikke:
+
+1. skade som voldes på produktet selv,
+2. skade som et delprodukt volder på et produkt som delproduktet er innføyd i eller omdannet til før produktet er satt i omsetning til en bruker.
 
 (3) Når erstatning for skade på ting fastsettes etter denne loven, gjøres fradrag for et beløp på kr 4.000,-.
 
@@ -115,7 +135,9 @@ Avtale som innskrenker eller begrenser ansvar etter loven er ugyldig.
 
 ### § 3-1. (særreglenes virkeområde)
 
-(1) Personskade voldt av legemiddel (legemiddelskade) eller under utprøving av legemiddel (forsøksskade) erstattes etter bestemmelsene i kapitlet her, for så vidt norsk rett får anvendelse (jf [§ 1-4](lov/1988-12-23-104/§1-4)).Som forsøksskade anses enhver skade forårsaket av forsøket, f.eks. av legemidlet selv (legemiddelskade), forsøksprosedyren, særskilt prøvetaking, særskilt bruk av teknisk utstyr eller særskilt behandling i tilknytning til forsøket.
+(1) Personskade voldt av legemiddel (legemiddelskade) eller under utprøving av legemiddel (forsøksskade) erstattes etter bestemmelsene i kapitlet her, for så vidt norsk rett får anvendelse (jf [§ 1-4](lov/1988-12-23-104/§1-4)).
+
+Som forsøksskade anses enhver skade forårsaket av forsøket, f.eks. av legemidlet selv (legemiddelskade), forsøksprosedyren, særskilt prøvetaking, særskilt bruk av teknisk utstyr eller særskilt behandling i tilknytning til forsøket.
 
 (2) Dersom det skadevoldende legemiddel ikke var gitt til forbruk her i riket, gjelder bestemmelsene bare såframt den direkte skadelidte var bosatt her og samme legemiddelmerke framstilt av samme produsent på skadetiden også var satt i omsetning eller godkjent for registrering her.
 
@@ -133,7 +155,12 @@ Avtale som innskrenker eller begrenser ansvar etter loven er ugyldig.
 
 (1) Legemiddelforsikringen etter [§ 3-4](lov/1988-12-23-104/§3-4) erstatter skade etter kapitlet her uten hensyn til om produsent, importør eller annen forsikringspliktig har skyld i skaden eller har ansvar for sikkerhetsmangel etter [kapittel 2](lov/1988-12-23-104/kap2).
 
-(2) Bortsett fra tilfeller der skaden skyldes en sikkerhetsmangel ved legemidlet som medfører ansvar etter [kapittel 2](lov/1988-12-23-104/kap2), gis likevel ikke erstatning i den utstrekning skadener en følge av feilekspedering eller forveksling av legemiddel eller annen forsømmelse på apotek, hos lege, i sykehus eller annet omsetningsledd,er voldt på annen måte enn ved påreknelig bruk av legemidlet, herunder bruk i strid med forsvarlig og spesifisert advarsel eller uriktig bruk som skyldes forsømmelse av legen ved feilordinasjon eller mangelfull vegledning,er en følge av at legemidlet ikke har virket eller ikke har virket effektivt nok, ellerskyldes bivirkning som det i skadelidtes situasjon er rimelig at han selv bærer følgene av. Ved denne vurderingen legges vekt på hans helsetilstand før bruken, legemidlets betydning for hans sykdom, legemidlets forutsatte og faktiske virkninger, skadens art og omfang og forholdene ellers.
+(2) Bortsett fra tilfeller der skaden skyldes en sikkerhetsmangel ved legemidlet som medfører ansvar etter [kapittel 2](lov/1988-12-23-104/kap2), gis likevel ikke erstatning i den utstrekning skaden
+
+1. er en følge av feilekspedering eller forveksling av legemiddel eller annen forsømmelse på apotek, hos lege, i sykehus eller annet omsetningsledd,
+2. er voldt på annen måte enn ved påreknelig bruk av legemidlet, herunder bruk i strid med forsvarlig og spesifisert advarsel eller uriktig bruk som skyldes forsømmelse av legen ved feilordinasjon eller mangelfull vegledning,
+3. er en følge av at legemidlet ikke har virket eller ikke har virket effektivt nok, eller
+4. skyldes bivirkning som det i skadelidtes situasjon er rimelig at han selv bærer følgene av. Ved denne vurderingen legges vekt på hans helsetilstand før bruken, legemidlets betydning for hans sykdom, legemidlets forutsatte og faktiske virkninger, skadens art og omfang og forholdene ellers.
 
 (3) Ved forsøksskader gjelder likevel ikke unntakene i nr. 2 bokstav (a) eller (b).
 
@@ -165,7 +192,11 @@ Avtale som innskrenker eller begrenser ansvar etter loven er ugyldig.
 
 ### § 3-6. (begrensninger i legemiddelansvaret)
 
-(1) De samlete erstatninger etter kapitlet her skal ikke overstige 80 millioner kroner for skader som er konstatert i samme kalenderår. En skade anses konstatert på det første tidspunkt da skadelidte entendøde av skaden uten å ha søkt legehjelp,første gang søkte legehjelp for sin skade, ellerførste gang meldte krav til Legemiddelforsikringen på grunn av skaden.
+(1) De samlete erstatninger etter kapitlet her skal ikke overstige 80 millioner kroner for skader som er konstatert i samme kalenderår. En skade anses konstatert på det første tidspunkt da skadelidte enten
+
+1. døde av skaden uten å ha søkt legehjelp,
+2. første gang søkte legehjelp for sin skade, eller
+3. første gang meldte krav til Legemiddelforsikringen på grunn av skaden.
 
 (2) De samlete erstatninger for skade som skyldes samme substans i ett eller flere legemidler (serieskader), begrenses dessuten til 100 millioner kroner. Når en serieskade er konstatert, kan Kongen bestemme hvilke erstatningsvilkår som skal gjelde for fortsatt omsetning av den skadevoldende substans eller av et legemiddel der substansen inngår.
 

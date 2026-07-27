@@ -82,13 +82,26 @@ Mattilsynet kan i særlige tilfeller dispensere fra avstandskravet nevnt i førs
 
 Fisk som er fanget levende og transportert om bord skal ved første gangs utsett i merd settes ut i en restitusjonsmerd.
 
-Krav til utforming av og hold av fisk i restitusjonsmerd:bunnen skal være flat og stram og av en slik størrelse at fisken umiddelbart etter utsett har mulighet til å legge seg på bunnen,det skal være god vannkvalitet og egnede lysforhold,fisk i restitusjonsmerd skal ha daglig tilsyn,utformingen av restitusjonsmerden skal være slik at man lett skal kunne inspisere fisken, ogskadet eller død fisk skal plukkes ut og om nødvendig avlives med bløgging.
+Krav til utforming av og hold av fisk i restitusjonsmerd:
+
+1. bunnen skal være flat og stram og av en slik størrelse at fisken umiddelbart etter utsett har mulighet til å legge seg på bunnen,
+2. det skal være god vannkvalitet og egnede lysforhold,
+3. fisk i restitusjonsmerd skal ha daglig tilsyn,
+4. utformingen av restitusjonsmerden skal være slik at man lett skal kunne inspisere fisken, og
+5. skadet eller død fisk skal plukkes ut og om nødvendig avlives med bløgging.
 
 Fisken skal holdes i restitusjonsmerd inntil man er sikker på at fisken svømmer pelagisk og reagerer på ytre stimuli.
 
 ## § 11. Krav til mellomlagringsmerd og bruk av det
 
-Krav til hold av fisk i mellomlagringsmerd:fiskens adferdsmessige og fysiologiske behov skal ivaretassyk, skadet eller død fisk skal tas ut og om nødvendig avlives med bløggingfisken skal ha regelmessig tilsynfisken skal tilbys fôr daglig når det har gått maksimum fire uker etter restitusjonfør fôring tar til bør fisken i samme merd være av likeartet størrelsefisk kan holdes i mellomlagringsmerd i inntil 12 uker før den må slaktes eller overføres til akvakulturanlegg.
+Krav til hold av fisk i mellomlagringsmerd:
+
+1. fiskens adferdsmessige og fysiologiske behov skal ivaretas
+2. syk, skadet eller død fisk skal tas ut og om nødvendig avlives med bløgging
+3. fisken skal ha regelmessig tilsyn
+4. fisken skal tilbys fôr daglig når det har gått maksimum fire uker etter restitusjon
+5. før fôring tar til bør fisken i samme merd være av likeartet størrelse
+6. fisk kan holdes i mellomlagringsmerd i inntil 12 uker før den må slaktes eller overføres til akvakulturanlegg.
 
 Ved oppstart av fôring skal melding sendes til Mattilsynet og Statsforvalteren.
 

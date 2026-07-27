@@ -44,7 +44,11 @@ En skyldner som ikke kan oppfylle sine forpliktelser etter hvert som de forfalle
 
 ### § 2. Begjæring om åpning av gjeldsforhandling.
 
-Begjæring om åpning av gjeldsforhandling fremsettes skriftlig for tingretten. Det skal fremgå av begjæringen om skyldneren begjærer åpning av forhandling om frivillig gjeldsordning eller tvangsakkord. Som vedlegg til begjæringen må skyldneren gi tingretten:en kort redegjørelse for årsakene til betalingsproblemene, og for hvorledes gjelden tenkes ordnet;en oppgave over sine eiendeler og sin gjeld, med angivelse av fordringshavernes navn, adresser og tilgodehavender og de sikkerheter som hefter for gjelden; har en fordringshaver panterett eller annen tilsvarende sikkerhetsrett i skyldnerens eiendeler, må tidspunktet for så vel gjeldens som sikkerhetens stiftelse oppgis;en redegjørelse for hvordan registrering og dokumentasjon av regnskapsopplysninger er innrettet.
+Begjæring om åpning av gjeldsforhandling fremsettes skriftlig for tingretten. Det skal fremgå av begjæringen om skyldneren begjærer åpning av forhandling om frivillig gjeldsordning eller tvangsakkord. Som vedlegg til begjæringen må skyldneren gi tingretten:
+
+1. en kort redegjørelse for årsakene til betalingsproblemene, og for hvorledes gjelden tenkes ordnet;
+2. en oppgave over sine eiendeler og sin gjeld, med angivelse av fordringshavernes navn, adresser og tilgodehavender og de sikkerheter som hefter for gjelden; har en fordringshaver panterett eller annen tilsvarende sikkerhetsrett i skyldnerens eiendeler, må tidspunktet for så vel gjeldens som sikkerhetens stiftelse oppgis;
+3. en redegjørelse for hvordan registrering og dokumentasjon av regnskapsopplysninger er innrettet.
 
 Tingretten gir begjæringen påtegning om dagen og klokkeslettet da den kom inn til retten. Begjæringen kan tilbakekalles eller endres så lenge retten ikke har avsagt kjennelse om hvorvidt gjeldsforhandling skal åpnes.
 
@@ -66,7 +70,11 @@ Omkostninger som skyldneren ikke kan betale, plikter staten å dekke.
 
 ### § 4. Tingrettens avgjørelse. Rettsmidler.
 
-Tingretten skal avslå begjæringen dersom:den ikke tilfredsstiller kravene etter [§ 2](lov/1984-06-08-58/§2) og manglene ikke blir rettet i tide;skyldneren unnlater å skaffe de ytterligere opplysninger som tingretten krever;tingretten etter de opplysninger som foreligger, finner det lite sannsynlig at skyldneren vil kunne oppnå frivillig gjeldsordning eller tvangsakkord.
+Tingretten skal avslå begjæringen dersom:
+
+1. den ikke tilfredsstiller kravene etter [§ 2](lov/1984-06-08-58/§2) og manglene ikke blir rettet i tide;
+2. skyldneren unnlater å skaffe de ytterligere opplysninger som tingretten krever;
+3. tingretten etter de opplysninger som foreligger, finner det lite sannsynlig at skyldneren vil kunne oppnå frivillig gjeldsordning eller tvangsakkord.
 
 Retten må treffe sin avgjørelse snarest mulig, normalt innen tre dager etter at begjæringen kom inn til retten.
 
@@ -140,7 +148,11 @@ Retten kan når som helst forlange at gjeldsnemnda og dens medlemmer gir fulle o
 
 ### § 10. Overprøving av vedtak.
 
-Retten kan etter begjæring fra skyldneren, en fordringshaver eller et medlem av gjeldsnemnda ved kjennelse oppheve eller omgjøre vedtak som er gjort av gjeldsnemnda eller dens leder, dersom vedtaket:er i strid med skyldnerens, en fordringshavers eller en tredjepersons rett;er ulovlig i andre henseender;er åpenbart urimelig.
+Retten kan etter begjæring fra skyldneren, en fordringshaver eller et medlem av gjeldsnemnda ved kjennelse oppheve eller omgjøre vedtak som er gjort av gjeldsnemnda eller dens leder, dersom vedtaket:
+
+1. er i strid med skyldnerens, en fordringshavers eller en tredjepersons rett;
+2. er ulovlig i andre henseender;
+3. er åpenbart urimelig.
 
 Slik begjæring må fremsettes uten ugrunnet opphold. Den som har gjort vedtaket, kan fastsette en frist for å bringe vedtaket inn for retten. Retten kan gi oppfriskning under de samme vilkår som om avgjørelsen var tatt under rettergang.
 
@@ -154,7 +166,14 @@ Retten skal, etter innstilling fra gjeldsnemnda, oppnevne en revisor til å fore
 
 ### § 12. Habilitetsregler for medlemmene av gjeldsnemnda og revisor.
 
-Til medlem av gjeldsnemnda eller til revisor må ikke oppnevnes den som:er i slekt eller svogerskap med skyldneren i oppstigende eller nedstigende linje eller i sidelinje så nær som søskenbarn;er eller har vært gift med eller er forlovet med skyldneren, eller som er skyldnerens fosterfar, fostermor eller fosterbarn;er eller etter gjeldsforhandlingens åpning har vært verge for skyldneren;er eller i de to siste år før åpningen av gjeldsforhandlingen har vært i skyldnerens tjeneste, eller som i det nevnte tidsrom har fungert som hans faste juridiske rådgiver eller revisor; denne regel gjelder ikke ved valg av representant for de ansatte til medlem av gjeldsnemnda. Er skyldneren en sammenslutning eller en stiftelse, må ingen oppnevnes som i de to siste år før åpningen av gjeldsforhandlingen har vært medlem av skyldnerens styre, representantskap eller bedriftsforsamling;selv søker frivillig gjeldsordning eller tvangsakkord, eller hvis bo er tatt under konkursbehandling;på grunn av andre særlige omstendigheter ikke kan antas å være tilstrekkelig uhildet.
+Til medlem av gjeldsnemnda eller til revisor må ikke oppnevnes den som:
+
+1. er i slekt eller svogerskap med skyldneren i oppstigende eller nedstigende linje eller i sidelinje så nær som søskenbarn;
+2. er eller har vært gift med eller er forlovet med skyldneren, eller som er skyldnerens fosterfar, fostermor eller fosterbarn;
+3. er eller etter gjeldsforhandlingens åpning har vært verge for skyldneren;
+4. er eller i de to siste år før åpningen av gjeldsforhandlingen har vært i skyldnerens tjeneste, eller som i det nevnte tidsrom har fungert som hans faste juridiske rådgiver eller revisor; denne regel gjelder ikke ved valg av representant for de ansatte til medlem av gjeldsnemnda. Er skyldneren en sammenslutning eller en stiftelse, må ingen oppnevnes som i de to siste år før åpningen av gjeldsforhandlingen har vært medlem av skyldnerens styre, representantskap eller bedriftsforsamling;
+5. selv søker frivillig gjeldsordning eller tvangsakkord, eller hvis bo er tatt under konkursbehandling;
+6. på grunn av andre særlige omstendigheter ikke kan antas å være tilstrekkelig uhildet.
 
 Til medlem av gjeldsnemnda eller til revisor bør som regel ikke oppnevnes noen som skyldneren i de siste to år før gjeldsforhandlingens åpning fortrinnsvis har benyttet som juridisk eller forretningsmessig rådgiver.
 
@@ -258,7 +277,14 @@ Skyldnerens eiendeler skal verdsettes. Så vidt mulig angis den verdi eiendelene
 
 ### § 21. Gjeldsnemndas redegjørelse.
 
-Når gjeldsnemnda har skaffet seg den nødvendige oversikt over skyldnerens forhold og finner at det er utsikt til at skyldneren vil kunne oppnå frivillig gjeldsordning eller tvangsakkord, skal den utarbeide en redegjørelse, som bl a skal inneholde:en oversikt over skyldnerens forretningsførsel med opplysning om hvordan registrering og dokumentasjon av regnskapsopplysninger har vært og om de forhold som har ført til gjeldsforhandlingen. I oversikten bør inntas skyldnerens to siste årsregnskap og årsberetninger (status, driftsregnskap) og dessuten oppgave over omsetningen;en oversikt over boets stilling, med opplysning blant annet om skyldnerens kausjon- og vekselforpliktelser, de heftelser som hviler på skyldnerens eiendeler og hvordan eiendelene er verdsatt;opplysning om skyldnerens ekteskapelige formuesforhold;opplysning om skyldneren antas å ha foretatt disposisjoner som kan omstøtes i tilfelle av forhandling om tvangsakkord eller konkurs, og om det er holdt tvangsforretninger hos skyldneren som i så fall vil være uvirksomme;opplysning om skyldneren tidligere har søkt frivillig gjeldsordning eller vært under forhandling om tvangsakkord eller konkurs, i tilfelle med angivelse av den dividende fordringshaverne oppnådde;opplysning om skyldneren tidligere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet, og om det nå må antas å foreligge forhold som kan gi grunn til straffeforfølging mot vedkommende i forbindelse med slik virksomhet. Er skyldneren en sammenslutning eller en stiftelse, gis opplysning om forretningsfører eller styremedlem antas å ha gjort seg skyldig i slikt forhold.
+Når gjeldsnemnda har skaffet seg den nødvendige oversikt over skyldnerens forhold og finner at det er utsikt til at skyldneren vil kunne oppnå frivillig gjeldsordning eller tvangsakkord, skal den utarbeide en redegjørelse, som bl a skal inneholde:
+
+1. en oversikt over skyldnerens forretningsførsel med opplysning om hvordan registrering og dokumentasjon av regnskapsopplysninger har vært og om de forhold som har ført til gjeldsforhandlingen. I oversikten bør inntas skyldnerens to siste årsregnskap og årsberetninger (status, driftsregnskap) og dessuten oppgave over omsetningen;
+2. en oversikt over boets stilling, med opplysning blant annet om skyldnerens kausjon- og vekselforpliktelser, de heftelser som hviler på skyldnerens eiendeler og hvordan eiendelene er verdsatt;
+3. opplysning om skyldnerens ekteskapelige formuesforhold;
+4. opplysning om skyldneren antas å ha foretatt disposisjoner som kan omstøtes i tilfelle av forhandling om tvangsakkord eller konkurs, og om det er holdt tvangsforretninger hos skyldneren som i så fall vil være uvirksomme;
+5. opplysning om skyldneren tidligere har søkt frivillig gjeldsordning eller vært under forhandling om tvangsakkord eller konkurs, i tilfelle med angivelse av den dividende fordringshaverne oppnådde;
+6. opplysning om skyldneren tidligere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet, og om det nå må antas å foreligge forhold som kan gi grunn til straffeforfølging mot vedkommende i forbindelse med slik virksomhet. Er skyldneren en sammenslutning eller en stiftelse, gis opplysning om forretningsfører eller styremedlem antas å ha gjort seg skyldig i slikt forhold.
 
 Dersom særskilt revisor er oppnevnt, vedlegges denne innberetning.
 
@@ -280,11 +306,22 @@ Dersom gjeldsnemnda finner at det ikke er utsikt til at skyldneren vil kunne opp
 
 ### § 23. Forslagets innhold.
 
-En frivillig gjeldsordning kan bl a gå ut på:betalingsutsettelse (frivillig moratorium),prosentvis reduksjon av gjelden (frivillig akkord),avvikling av skyldnerens formue eller en nærmere avgrenset del av denne, uten at skyldneren blir frigjort for den del av gjelden som ikke dekkes ved likvidasjonen (frivillig likvidasjon),avvikling av skyldnerens formue eller en nærmere avgrenset del av denne, mot at skyldneren blir frigjort for den del av gjelden som ikke dekkes ved likvidasjonen (frivillig likvidasjonsakkord), elleren kombinasjon av disse ordninger.
+En frivillig gjeldsordning kan bl a gå ut på:
+
+1. betalingsutsettelse (frivillig moratorium),
+2. prosentvis reduksjon av gjelden (frivillig akkord),
+3. avvikling av skyldnerens formue eller en nærmere avgrenset del av denne, uten at skyldneren blir frigjort for den del av gjelden som ikke dekkes ved likvidasjonen (frivillig likvidasjon),
+4. avvikling av skyldnerens formue eller en nærmere avgrenset del av denne, mot at skyldneren blir frigjort for den del av gjelden som ikke dekkes ved likvidasjonen (frivillig likvidasjonsakkord), eller
+5. en kombinasjon av disse ordninger.
 
 Den foreslåtte gjeldsordning må omfatte og likestille alle kjente fordringer på skyldneren som skriver seg fra tiden før gjeldsforhandling ble åpnet.
 
-Følgende fordringer kan imidlertid holdes utenfor ordningen eller, om de medtas, tilsis bedre dekning enn de øvrige fordringer:fordringer som har lovbestemt fortrinnsrett,fordringer som er sikret ved panterett eller annen sikkerhetsrett i skyldnerens eiendeler, for så vidt sikkerheten kan antas å dekke fordringen,fordringer som kan kreves avgjort ved motregning for så vidt de dekkes av motkravet, ogfordringer som tilkommer fordringshaver hvis samlede tilgodehavende er mindre enn et bestemt beløp som oppgis i forslaget.
+Følgende fordringer kan imidlertid holdes utenfor ordningen eller, om de medtas, tilsis bedre dekning enn de øvrige fordringer:
+
+1. fordringer som har lovbestemt fortrinnsrett,
+2. fordringer som er sikret ved panterett eller annen sikkerhetsrett i skyldnerens eiendeler, for så vidt sikkerheten kan antas å dekke fordringen,
+3. fordringer som kan kreves avgjort ved motregning for så vidt de dekkes av motkravet, og
+4. fordringer som tilkommer fordringshaver hvis samlede tilgodehavende er mindre enn et bestemt beløp som oppgis i forslaget.
 
 Reglene i annet ledd er ikke til hinder for at enkelte fordringshavere etter samtykke stilles dårligere enn de øvrige fordringshavere.
 
@@ -292,7 +329,11 @@ Reglene i annet ledd er ikke til hinder for at enkelte fordringshavere etter sam
 
 ### § 24. Utsendelse av forslaget. Svarfrist.
 
-Når skyldneren har utarbeidet et forslag til gjeldsordning, og gjeldsnemnda finner å burde fremme det, skal nemnda sende forslaget til alle fordringshavere hvis fordringer omfattes av det. Med forslaget skal følge:den redegjørelse som er nevnt i [§ 21](lov/1984-06-08-58/§21),skyldnerens erklæring om at alt skyldneren eier og skylder er oppgitt, samtgjeldsnemndas uttalelse om hvorvidt den anbefaler forslaget vedtatt, om utsikten til og den sikkerhet som has for at forslaget vil bli oppfylt fra skyldnerens side, om de betingelser som nemnda har satt for å anbefale forslaget, samt om hvordan boets stilling antas å ville bli i tilfelle av konkurs.
+Når skyldneren har utarbeidet et forslag til gjeldsordning, og gjeldsnemnda finner å burde fremme det, skal nemnda sende forslaget til alle fordringshavere hvis fordringer omfattes av det. Med forslaget skal følge:
+
+1. den redegjørelse som er nevnt i [§ 21](lov/1984-06-08-58/§21),
+2. skyldnerens erklæring om at alt skyldneren eier og skylder er oppgitt, samt
+3. gjeldsnemndas uttalelse om hvorvidt den anbefaler forslaget vedtatt, om utsikten til og den sikkerhet som has for at forslaget vil bli oppfylt fra skyldnerens side, om de betingelser som nemnda har satt for å anbefale forslaget, samt om hvordan boets stilling antas å ville bli i tilfelle av konkurs.
 
 Fordringshaverne oppfordres samtidig til innen en frist som ikke må settes kortere enn to uker, og ikke lengre enn tre uker, å underrette gjeldsnemnda skriftlig om de vedtar forslaget.
 
@@ -318,7 +359,10 @@ Dersom forslaget til frivillig gjeldsordning ikke blir vedtatt, og skyldneren ut
 
 Når et forslag til gjeldsordning er vedtatt, skal gjeldsnemnda sende melding om dette til samtlige fordringshavere som ikke er tilsagt full dekning for krav som skriver seg fra tiden før gjeldsforhandlingen ble åpnet.
 
-Gjeldsnemnda skal samtidig sende retten:det vedtatte forslag til gjeldsordning, med påtegning om hvordan forslaget er blitt vedtatt;de vedlegg som er nevnt i [§ 24](lov/1984-06-08-58/§24) første ledd.
+Gjeldsnemnda skal samtidig sende retten:
+
+1. det vedtatte forslag til gjeldsordning, med påtegning om hvordan forslaget er blitt vedtatt;
+2. de vedlegg som er nevnt i [§ 24](lov/1984-06-08-58/§24) første ledd.
 
 Retten skal føre inn forslaget med påtegning i skifteprotokollen, med angivelse av når det kom inn til retten.
 
@@ -326,7 +370,12 @@ Retten skal føre inn forslaget med påtegning i skifteprotokollen, med angivels
 
 ### § 28. Ugyldig moratorium og akkord.
 
-Dersom et frivillig moratorium, en frivillig akkord eller en frivillig likvidasjonsakkord er istandbrakt ved at:skyldneren forsettlig eller uaktsomt har gitt uriktige eller ufullstendige opplysninger om sine eiendeler eller forpliktelser, ellerskyldneren eller tredjeperson med skyldnerens medvirkning i strid med gjeldsordningen og forutsetningene for den har gitt eller tilsagt en eller flere fordringshavere særlige fordeler,taper skyldneren overfor alle de fordringshavere som ikke har kjent til forholdet, den henstand som ble innrømmet, og skyldneren plikter å betale til disse fordringshavere også de deler av fordringene som ble ettergitt ved akkorden.
+Dersom et frivillig moratorium, en frivillig akkord eller en frivillig likvidasjonsakkord er istandbrakt ved at:
+
+1. skyldneren forsettlig eller uaktsomt har gitt uriktige eller ufullstendige opplysninger om sine eiendeler eller forpliktelser, eller
+2. skyldneren eller tredjeperson med skyldnerens medvirkning i strid med gjeldsordningen og forutsetningene for den har gitt eller tilsagt en eller flere fordringshavere særlige fordeler,
+
+taper skyldneren overfor alle de fordringshavere som ikke har kjent til forholdet, den henstand som ble innrømmet, og skyldneren plikter å betale til disse fordringshavere også de deler av fordringene som ble ettergitt ved akkorden.
 
 En fordringshavers rett etter foregående ledd foreldes ett år fra den dag da han fikk vite om det forhold som ga ham adgang til å angripe gjeldsordningen, men kan ikke i noe tilfelle gjøres gjeldende om retten ikke er erkjent eller gjort gjeldende ved søksmål senest tre år etter at gjeldsforhandlingen er opphørt.
 
@@ -346,7 +395,12 @@ Bestemmelsene i første ledd og første og tredje punktum gjelder tilsvarende fo
 
 ### § 30. Hva en tvangsakkord kan gå ut på.
 
-En tvangsakkord kan gå ut på:betalingsutsettelse (tvungent moratorium),prosentvis reduksjon av gjelden (alminnelig tvangsakkord),avvikling av skyldnerens formue eller en nærmere avgrenset del av denne mot at skyldneren frigjøres for den del av gjelden som ikke dekkes ved likvidasjonen, likevel så at skyldneren må innestå for at dekningen minst vil utgjøre en viss prosent av gjelden (tvungen likvidasjonsakkord), elleren kombinasjon av disse ordninger.
+En tvangsakkord kan gå ut på:
+
+1. betalingsutsettelse (tvungent moratorium),
+2. prosentvis reduksjon av gjelden (alminnelig tvangsakkord),
+3. avvikling av skyldnerens formue eller en nærmere avgrenset del av denne mot at skyldneren frigjøres for den del av gjelden som ikke dekkes ved likvidasjonen, likevel så at skyldneren må innestå for at dekningen minst vil utgjøre en viss prosent av gjelden (tvungen likvidasjonsakkord), eller
+4. en kombinasjon av disse ordninger.
 
 En alminnelig tvangsakkord må gå ut på betaling av minst 25 pst av de alminnelige fordringshaveres tilgodehavender.
 
@@ -382,7 +436,11 @@ Gjeldsnemnda foretar verdsettelsen av pantet. En panthaver med sikkerhet utenfor
 
 ### § 35. Kunngjøring av at forhandling om tvangsakkord er åpnet
 
-Når forhandling om tvangsakkord er åpnet, skal gjeldsnemnda, hvis ikke tingretten beslutter å gjøre det selv, uten opphold utferdige en kunngjøring som skal inneholde:underretning om at skyldneren har åpnet forhandling om tvangsakkord;oppfordring til fordringshaverne om innen tre uker å sende inn til gjeldsnemnda en spesifisert oppgave over sine fordringer på skyldneren. Med oppgaven skal følge de dokumenter som tjener som bevis for fordringene, og opplysning skal gis om fordringenes grunnlag, om de sikkerheter i skyldnerens eller i tredjepersons eiendeler som måtte hefte for dem og om det er solidarisk medforpliktede. Har det før forhandlingen om tvangsakkord vært forhandling om frivillig gjeldsordning, meddeles det samtidig at fordringer som allerede er meldt til gjeldsnemnda, ikke behøver å meldes på nytt;berammelse av et fordringshavermøte, jf. [§ 38 a](lov/1984-06-08-58/§38a), eller opplysning om at tingretten har bestemt at det ikke skal holdes slikt møte.
+Når forhandling om tvangsakkord er åpnet, skal gjeldsnemnda, hvis ikke tingretten beslutter å gjøre det selv, uten opphold utferdige en kunngjøring som skal inneholde:
+
+1. underretning om at skyldneren har åpnet forhandling om tvangsakkord;
+2. oppfordring til fordringshaverne om innen tre uker å sende inn til gjeldsnemnda en spesifisert oppgave over sine fordringer på skyldneren. Med oppgaven skal følge de dokumenter som tjener som bevis for fordringene, og opplysning skal gis om fordringenes grunnlag, om de sikkerheter i skyldnerens eller i tredjepersons eiendeler som måtte hefte for dem og om det er solidarisk medforpliktede. Har det før forhandlingen om tvangsakkord vært forhandling om frivillig gjeldsordning, meddeles det samtidig at fordringer som allerede er meldt til gjeldsnemnda, ikke behøver å meldes på nytt;
+3. berammelse av et fordringshavermøte, jf. [§ 38 a](lov/1984-06-08-58/§38a), eller opplysning om at tingretten har bestemt at det ikke skal holdes slikt møte.
 
 Kunngjøringen rykkes inn i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.
 
@@ -394,7 +452,12 @@ Alle som har en rettslig interesse i bobehandlingen, har rett til å gjøre seg 
 
 ### § 36. Tinglysing m.m. av melding om at forhandling om tvangsakkord er åpnet
 
-Melding om at skyldneren har åpnet forhandling om tvangsakkord, skal på begjæring av gjeldsnemnda tinglyses eller registreres i:Løsøreregisteret,grunnboken og liknende realregistre, for så vidt skyldneren eier fast eiendom eller andre registrerte eiendeler,en verdipapirsentral, dersom det er registrert rettigheter der som gjeldsnemnda mener tilhører skyldneren, ogForetaksregisteret, dersom skyldnerens foretaksnavn er innført der.
+Melding om at skyldneren har åpnet forhandling om tvangsakkord, skal på begjæring av gjeldsnemnda tinglyses eller registreres i:
+
+1. Løsøreregisteret,
+2. grunnboken og liknende realregistre, for så vidt skyldneren eier fast eiendom eller andre registrerte eiendeler,
+3. en verdipapirsentral, dersom det er registrert rettigheter der som gjeldsnemnda mener tilhører skyldneren, og
+4. Foretaksregisteret, dersom skyldnerens foretaksnavn er innført der.
 
 Gjeldsnemnda skal videre sende underretning om åpningen av forhandling om tvangsakkord til de banker og tilsvarende institusjoner hvor skyldneren har innskudd.
 
@@ -432,7 +495,12 @@ Skyldneren plikter å være til stede på fordringshavermøter og et eventuelt a
 
 ### § 40. Utsendelse av akkordforslaget. Avstemningen.
 
-Gjeldsnemnda skal sende skyldnerens forslag til tvangsakkord til alle kjente fordringshavere med angivelse av en frist på minst to uker for skriftlig svar til gjeldsnemnda. Med forslaget skal følge:den redegjørelsen som er nevnt i [§ 21](lov/1984-06-08-58/§21),den listen som er nevnt i [§ 41](lov/1984-06-08-58/§41),skyldnerens erklæring om at alt skyldneren eier og skylder er oppgitt, samtgjeldsnemndas uttalelse om hvorvidt den anbefaler forslaget vedtatt, om utsikten til og den sikkerhet som has for at forslaget vil bli oppfylt fra skyldnerens side, om de betingelser som nemnda har satt for å anbefale forslaget, samt om hvordan boets stilling antas å ville bli i tilfelle av konkurs.
+Gjeldsnemnda skal sende skyldnerens forslag til tvangsakkord til alle kjente fordringshavere med angivelse av en frist på minst to uker for skriftlig svar til gjeldsnemnda. Med forslaget skal følge:
+
+1. den redegjørelsen som er nevnt i [§ 21](lov/1984-06-08-58/§21),
+2. den listen som er nevnt i [§ 41](lov/1984-06-08-58/§41),
+3. skyldnerens erklæring om at alt skyldneren eier og skylder er oppgitt, samt
+4. gjeldsnemndas uttalelse om hvorvidt den anbefaler forslaget vedtatt, om utsikten til og den sikkerhet som has for at forslaget vil bli oppfylt fra skyldnerens side, om de betingelser som nemnda har satt for å anbefale forslaget, samt om hvordan boets stilling antas å ville bli i tilfelle av konkurs.
 
 Retten kan etter begjæring fra gjeldsnemnda beslutte at det skal stemmes over skyldnerens akkordforslag i et avstemningsmøte. Dersom det er truffet beslutning om avstemningsmøte, skal forslaget og vedleggene nevnt i første ledd nr. 1 til 4 sendes til fordringshaverne minst to uker før møtet med angivelse av tid og sted for møtet.
 
@@ -456,7 +524,14 @@ Når noen i forbindelse med avstemningen bestrider en oppført fordring eller me
 
 ### § 42. Fordringer som ikke gir stemmerett.
 
-Ved avstemningen over akkordforslaget skal alle kjente fordringer regnes med, selv om de ikke er meldt til gjeldsnemnda. Likevel skal følgende fordringer settes ut av betraktning:fordring som akkorden etter [§ 55](lov/1984-06-08-58/§55) ikke vil bli bindende for. Dersom en fordring er sikret ved panterett eller annen sikkerhetsrett i skyldnerens eiendeler, kan fordringshaveren utøve stemmerett for den del av fordringen som sikkerheten antas ikke å ville gi dekning for, eller – hvis fordringshaveren uttrykkelig frafaller sin sikkerhetsrett for en større del av fordringen – da for denne del. En fordring som er utstyrt med lovbestemt fortrinnsrett, gir stemmerett i den utstrekning fortrinnsretten uttrykkelig frafalles;fordring som er avhengig av en betingelse som ennå ikke er inntrådt;fordring som er overdratt til fordringshaveren etter at gjeldsforhandlingen ble åpnet. Dette gjelder likevel ikke når fordringshaveren ved ervervelsen var uvitende om at begjæring om åpning av gjeldsforhandling var innkommet til retten eller hvis fordringshaveren har overtatt fordringen i samsvar med en tidligere forpliktelse;fordring som tilhører skyldnerens nærstående, jf [lov om fordringshavernes dekningsrett § 1-5](lov/1984-06-08-59/§1-5);fordring eller del av fordring som skal dekkes fullt ut i henhold til akkordforslaget, jf [§ 30](lov/1984-06-08-58/§30) femte ledd;etterprioritert fordring som faller bort ved akkorden.
+Ved avstemningen over akkordforslaget skal alle kjente fordringer regnes med, selv om de ikke er meldt til gjeldsnemnda. Likevel skal følgende fordringer settes ut av betraktning:
+
+1. fordring som akkorden etter [§ 55](lov/1984-06-08-58/§55) ikke vil bli bindende for. Dersom en fordring er sikret ved panterett eller annen sikkerhetsrett i skyldnerens eiendeler, kan fordringshaveren utøve stemmerett for den del av fordringen som sikkerheten antas ikke å ville gi dekning for, eller – hvis fordringshaveren uttrykkelig frafaller sin sikkerhetsrett for en større del av fordringen – da for denne del. En fordring som er utstyrt med lovbestemt fortrinnsrett, gir stemmerett i den utstrekning fortrinnsretten uttrykkelig frafalles;
+2. fordring som er avhengig av en betingelse som ennå ikke er inntrådt;
+3. fordring som er overdratt til fordringshaveren etter at gjeldsforhandlingen ble åpnet. Dette gjelder likevel ikke når fordringshaveren ved ervervelsen var uvitende om at begjæring om åpning av gjeldsforhandling var innkommet til retten eller hvis fordringshaveren har overtatt fordringen i samsvar med en tidligere forpliktelse;
+4. fordring som tilhører skyldnerens nærstående, jf [lov om fordringshavernes dekningsrett § 1-5](lov/1984-06-08-59/§1-5);
+5. fordring eller del av fordring som skal dekkes fullt ut i henhold til akkordforslaget, jf [§ 30](lov/1984-06-08-58/§30) femte ledd;
+6. etterprioritert fordring som faller bort ved akkorden.
 
 > Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
@@ -484,7 +559,13 @@ I det nye avstemningsmøtet kan skyldneren ikke gjøre noen forandring i akkordf
 
 ### § 45. Redegjørelse for avstemningen sendes tingretten.
 
-Gjeldsnemnda skal innen en uke etter avstemningen sende tingretten en redegjørelse for resultatet av avstemningen med uttalelse om hvorvidt det antas å foreligge noe forhold som vil være til hinder for stadfestelse av akkorden. Med redegjørelsen skal følge:legitimasjoner for at forhandlingen om tvangsakkord har vært kunngjort og bekreftelse av at fordringshaverne har vært varslet om avstemningen i overensstemmelse med lovens regler;gjeldsnemndas forhandlingsbok;den liste over fordringshaverne som er nevnt i [§ 41](lov/1984-06-08-58/§41), vedlagt fordringsanmeldelsene og de dokumenter som foreligger om omtvistede eller uklare fordringer;skyldnerens endelige akkordforslag og fordringshavernes vedtagelser;andre dokumenter som måtte være fremlagt i forbindelse med avstemningen, og de protester som måtte være fremkommet mot stadfestelse av akkorden.
+Gjeldsnemnda skal innen en uke etter avstemningen sende tingretten en redegjørelse for resultatet av avstemningen med uttalelse om hvorvidt det antas å foreligge noe forhold som vil være til hinder for stadfestelse av akkorden. Med redegjørelsen skal følge:
+
+1. legitimasjoner for at forhandlingen om tvangsakkord har vært kunngjort og bekreftelse av at fordringshaverne har vært varslet om avstemningen i overensstemmelse med lovens regler;
+2. gjeldsnemndas forhandlingsbok;
+3. den liste over fordringshaverne som er nevnt i [§ 41](lov/1984-06-08-58/§41), vedlagt fordringsanmeldelsene og de dokumenter som foreligger om omtvistede eller uklare fordringer;
+4. skyldnerens endelige akkordforslag og fordringshavernes vedtagelser;
+5. andre dokumenter som måtte være fremlagt i forbindelse med avstemningen, og de protester som måtte være fremkommet mot stadfestelse av akkorden.
 
 > Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
@@ -510,19 +591,35 @@ Når vedkommende fordringshaver krever det, kan retten bestemme at den dividende
 
 ### § 48. Tilfeller hvor stadfestelse skal nektes.
 
-Retten skal nekte å stadfeste akkorden:når reglene om fremgangsmåten ved gjeldsforhandlingen ikke har vært overholdt, og retten finner det sannsynlig at feilen har hatt avgjørende betydning for vedtagelsen av akkorden;når akkordforslaget går ut på betaling av mindre enn den foreskrevne minstedividende, eller ikke er blitt vedtatt med det nødvendige flertall, jf [§§ 30](lov/1984-06-08-58/§30) og [43](lov/1984-06-08-58/§43);når akkorden ikke vil gi like rett for alle alminnelige fordringshavere som den vil bli bindende for, og som ikke har samtykket i å stå tilbake;når det viser seg at det foreligger omstendigheter som nevnt i [§ 50](lov/1984-06-08-58/§50) nr. 1 og 2, og som ikke er meddelt fordringshaverne før avstemningen, såfremt forholdet kan antas å ha hatt avgjørende innflytelse på utfallet av denne.
+Retten skal nekte å stadfeste akkorden:
+
+1. når reglene om fremgangsmåten ved gjeldsforhandlingen ikke har vært overholdt, og retten finner det sannsynlig at feilen har hatt avgjørende betydning for vedtagelsen av akkorden;
+2. når akkordforslaget går ut på betaling av mindre enn den foreskrevne minstedividende, eller ikke er blitt vedtatt med det nødvendige flertall, jf [§§ 30](lov/1984-06-08-58/§30) og [43](lov/1984-06-08-58/§43);
+3. når akkorden ikke vil gi like rett for alle alminnelige fordringshavere som den vil bli bindende for, og som ikke har samtykket i å stå tilbake;
+4. når det viser seg at det foreligger omstendigheter som nevnt i [§ 50](lov/1984-06-08-58/§50) nr. 1 og 2, og som ikke er meddelt fordringshaverne før avstemningen, såfremt forholdet kan antas å ha hatt avgjørende innflytelse på utfallet av denne.
 
 > Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 49. Tilfeller hvor stadfestelse kan nektes.
 
-Retten kan nekte å stadfeste akkorden:når skyldneren vegrer seg for å gi de opplysninger retten trenger ved avgjørelsen, eller uten gyldig grunn uteblir fra fordringshavermøtet, avstemningsmøtet eller stadfestelsesmøtet;når retten finner det godtgjort at skyldneren i løpet av de siste tre år før åpningen av gjeldsforhandlingen eller senere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet. Er skyldneren en sammenslutning eller en stiftelse, kan stadfestelse nektes dersom forretningsfører eller styremedlem i det nevnte tidsrom har gjort seg skyldig i slike straffbare forhold til skyldnerens fordel eller på skyldnerens vegne.
+Retten kan nekte å stadfeste akkorden:
+
+1. når skyldneren vegrer seg for å gi de opplysninger retten trenger ved avgjørelsen, eller uten gyldig grunn uteblir fra fordringshavermøtet, avstemningsmøtet eller stadfestelsesmøtet;
+2. når retten finner det godtgjort at skyldneren i løpet av de siste tre år før åpningen av gjeldsforhandlingen eller senere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet. Er skyldneren en sammenslutning eller en stiftelse, kan stadfestelse nektes dersom forretningsfører eller styremedlem i det nevnte tidsrom har gjort seg skyldig i slike straffbare forhold til skyldnerens fordel eller på skyldnerens vegne.
 
 > Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 50. Tilfeller hvor stadfestelse kan nektes etter begjæring.
 
-Etter begjæring av gjeldsnemnda eller av en fordringshaver som i tilfelle vil bli bundet av akkorden, kan retten nekte stadfestelse:når det påvises at akkorden er brakt i stand ved at en fordringshaver er blitt begunstiget eller har fått løfte om begunstigelse, enten av skyldneren eller av tredjeperson;når det påvises at akkorden ikke stemmer med fordringshavernes felles interesser, fordi f eks:den dividende som er tilbudt, står i fremtredende misforhold til skyldnerens betalingsmuligheter, ellerde fordringsbeløp som skal dekkes fullt ut i henhold til akkordforslaget, jf [§ 30](lov/1984-06-08-58/§30) femte ledd, er så betydelige at det innebærer en urimelig forfordeling av fordringshaverne, ellerde betalingsterminer som er oppstilt, medfører en utsettelse av betalingen som går lenger enn det finnes rimelig, ellerdet ikke er rimelig utsikt til at akkorden vil bli oppfylt.
+Etter begjæring av gjeldsnemnda eller av en fordringshaver som i tilfelle vil bli bundet av akkorden, kan retten nekte stadfestelse:
+
+1. når det påvises at akkorden er brakt i stand ved at en fordringshaver er blitt begunstiget eller har fått løfte om begunstigelse, enten av skyldneren eller av tredjeperson;
+2. når det påvises at akkorden ikke stemmer med fordringshavernes felles interesser, fordi f eks:
+
+   1. den dividende som er tilbudt, står i fremtredende misforhold til skyldnerens betalingsmuligheter, eller
+   2. de fordringsbeløp som skal dekkes fullt ut i henhold til akkordforslaget, jf [§ 30](lov/1984-06-08-58/§30) femte ledd, er så betydelige at det innebærer en urimelig forfordeling av fordringshaverne, eller
+   3. de betalingsterminer som er oppstilt, medfører en utsettelse av betalingen som går lenger enn det finnes rimelig, eller
+   4. det ikke er rimelig utsikt til at akkorden vil bli oppfylt.
 
 > Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
@@ -568,7 +665,11 @@ Bestemmelsen i [§ 51](lov/1984-06-08-58/§51) annet og tredje ledd gjelder tils
 
 ### § 55. Hvem akkorden er bindende for.
 
-Den stadfestede akkord er bindende for alle fordringshavere hvis fordringer skriver seg fra tiden før åpningen av gjeldsforhandlingen. Akkorden er likevel ikke bindende for:fordringer som har lovbestemt fortrinnsrett;fordringer som er sikret ved panterett eller annen sikkerhetsrett i skyldnerens eiendeler, i den utstrekning fordringen faller innenfor pantets antatte verdi;fordringer som kan kreves avgjort ved motregning for så vidt de dekkes av motkravet.
+Den stadfestede akkord er bindende for alle fordringshavere hvis fordringer skriver seg fra tiden før åpningen av gjeldsforhandlingen. Akkorden er likevel ikke bindende for:
+
+1. fordringer som har lovbestemt fortrinnsrett;
+2. fordringer som er sikret ved panterett eller annen sikkerhetsrett i skyldnerens eiendeler, i den utstrekning fordringen faller innenfor pantets antatte verdi;
+3. fordringer som kan kreves avgjort ved motregning for så vidt de dekkes av motkravet.
 
 [§§ 28](lov/1984-06-08-58/§28) og [29](lov/1984-06-08-58/§29) gjelder tilsvarende ved tvangsakkord.
 
@@ -588,7 +689,12 @@ Retten skal innstille gjeldsforhandlingen ved kjennelse når det etter utløpet 
 
 ### § 57. Innstilling av mislykket gjeldsforhandling og åpning av konkurs.
 
-Retten skal innstille gjeldsforhandlingen og åpne konkurs i skyldnerens bo:når retten etter innberetning fra gjeldsnemnda finner at det ikke er utsikt til at skyldneren vil kunne oppnå frivillig gjeldsordning eller tvangsakkord, eller at skyldneren ikke innen rimelig tid har fremsatt forslag til frivillig gjeldsordning eller tvangsakkord, jf [§ 22](lov/1984-06-08-58/§22) annet ledd;når det er åpnet forhandling om frivillig gjeldsordning og retten avslår skyldnerens endringsbegjæring om åpning av forhandling om tvangsakkord, jf [§ 6 a](lov/1984-06-08-58/§6a);når retten nekter å stadfeste en tvangsakkord, jf [§ 52](lov/1984-06-08-58/§52);når gjeldsforhandlingen ikke er avsluttet innen seks måneder fra åpningen eller innen en lengre frist som retten har satt etter anmodning fra gjeldsnemnda.
+Retten skal innstille gjeldsforhandlingen og åpne konkurs i skyldnerens bo:
+
+1. når retten etter innberetning fra gjeldsnemnda finner at det ikke er utsikt til at skyldneren vil kunne oppnå frivillig gjeldsordning eller tvangsakkord, eller at skyldneren ikke innen rimelig tid har fremsatt forslag til frivillig gjeldsordning eller tvangsakkord, jf [§ 22](lov/1984-06-08-58/§22) annet ledd;
+2. når det er åpnet forhandling om frivillig gjeldsordning og retten avslår skyldnerens endringsbegjæring om åpning av forhandling om tvangsakkord, jf [§ 6 a](lov/1984-06-08-58/§6a);
+3. når retten nekter å stadfeste en tvangsakkord, jf [§ 52](lov/1984-06-08-58/§52);
+4. når gjeldsforhandlingen ikke er avsluttet innen seks måneder fra åpningen eller innen en lengre frist som retten har satt etter anmodning fra gjeldsnemnda.
 
 Retten kan etter begjæring av gjeldsnemnda innstille gjeldsforhandlingen og åpne konkurs i skyldnerens bo når retten finner at skyldneren grovt eller gjentatte ganger har handlet mot sine plikter etter [§§ 14](lov/1984-06-08-58/§14) og [18](lov/1984-06-08-58/§18).
 
@@ -598,7 +704,12 @@ Retten treffer sin avgjørelse ved kjennelse. Før retten avsier kjennelse, skal
 
 ### § 58. Tidspunktet for gjeldsforhandlingens avslutning.
 
-Gjeldsforhandlingen anses for avsluttet:når retten mottar melding om at skyldneren har fått frivillig gjeldsordning, jf [§ 27](lov/1984-06-08-58/§27);når skyldneren har fått tvangsakkord som er stadfestet ved rettskraftig kjennelse, jf [§ 52](lov/1984-06-08-58/§52);når det er avsagt kjennelse om innstilling av gjeldsforhandlingen etter [§ 56](lov/1984-06-08-58/§56), og kjennelsen er blitt rettskraftig;når det er avsagt kjennelse om innstilling av gjeldsforhandlingen etter [§ 57](lov/1984-06-08-58/§57) uten at konkurs er blitt åpnet, og kjennelsen er blitt rettskraftig.
+Gjeldsforhandlingen anses for avsluttet:
+
+1. når retten mottar melding om at skyldneren har fått frivillig gjeldsordning, jf [§ 27](lov/1984-06-08-58/§27);
+2. når skyldneren har fått tvangsakkord som er stadfestet ved rettskraftig kjennelse, jf [§ 52](lov/1984-06-08-58/§52);
+3. når det er avsagt kjennelse om innstilling av gjeldsforhandlingen etter [§ 56](lov/1984-06-08-58/§56), og kjennelsen er blitt rettskraftig;
+4. når det er avsagt kjennelse om innstilling av gjeldsforhandlingen etter [§ 57](lov/1984-06-08-58/§57) uten at konkurs er blitt åpnet, og kjennelsen er blitt rettskraftig.
 
 > Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
@@ -638,7 +749,11 @@ I den betalingsoppfordring som skal forkynnes for skyldneren, skal skyldneren gj
 
 ### § 64. Sikkerhetsstillelse og kausjon som konkurshindring.
 
-Konkurs skal ikke åpnes etter begjæring av en fordringshaver dersom:fordringshaverens fordring er sikret ved betryggende panterett i skyldnerens eiendeler;fordringshaverens fordring er sikret ved betryggende panterett i tredjepersons eiendeler, og konkursbegjæringen er i strid med vilkårene for sikkerhetsstillelsen;fordringshaverens fordring er uforfalt og er sikret eller sikres ved betryggende panterett i tredjepersons eiendeler.
+Konkurs skal ikke åpnes etter begjæring av en fordringshaver dersom:
+
+1. fordringshaverens fordring er sikret ved betryggende panterett i skyldnerens eiendeler;
+2. fordringshaverens fordring er sikret ved betryggende panterett i tredjepersons eiendeler, og konkursbegjæringen er i strid med vilkårene for sikkerhetsstillelsen;
+3. fordringshaverens fordring er uforfalt og er sikret eller sikres ved betryggende panterett i tredjepersons eiendeler.
 
 Hvis retten bare under tvil finner at det er ført tilstrekkelig bevis for eksistensen eller omfanget av fordringshaverens fordring, kan konkurs nektes åpnet dersom fordringen er sikret eller sikres ved betryggende panterett i tredjepersons eiendeler.
 
@@ -656,7 +771,10 @@ Dersom en skyldner som har fått tvangsakkord, og som er blitt undergitt tilsyn 
 
 Begjæring om åpning av konkurs må fremsettes skriftlig for tingretten og angi de omstendigheter begjæringen grunnes på.
 
-Begjærer skyldneren konkurs åpnet, må denne som vedlegg til begjæringen gi retten:en oppgave over sine eiendeler og sin gjeld, med angivelse av fordringshavernes navn, adresser og tilgodehavender og de sikkerheter som hefter for gjelden; dersom en fordringshaver har panterett eller annen tilsvarende sikkerhetsrett i skyldnerens eiendeler, må tidspunktet for så vel gjeldens som sikkerhetens stiftelse oppgis;en redegjørelse for hvordan registrering og dokumentasjon av regnskapsopplysninger er innrettet.
+Begjærer skyldneren konkurs åpnet, må denne som vedlegg til begjæringen gi retten:
+
+1. en oppgave over sine eiendeler og sin gjeld, med angivelse av fordringshavernes navn, adresser og tilgodehavender og de sikkerheter som hefter for gjelden; dersom en fordringshaver har panterett eller annen tilsvarende sikkerhetsrett i skyldnerens eiendeler, må tidspunktet for så vel gjeldens som sikkerhetens stiftelse oppgis;
+2. en redegjørelse for hvordan registrering og dokumentasjon av regnskapsopplysninger er innrettet.
 
 > Endret ved [lover 17 juli 1998 nr. 56](lov/1998-07-17-56) (ikr. 1 jan 1999), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
 
@@ -764,7 +882,13 @@ Retten kan også oppnevne revisor, jf [§ 90](lov/1984-06-08-58/§90).
 
 ### § 78. Kunngjøring av at konkurs er åpnet.
 
-Retten skal uten opphold utferdige en kunngjøring som skal inneholde:underretning om at konkurs er åpnet i skyldnerens bo med opplysning om skyldnerens stilling eller bransje, forretningsadresse og bopel og om skyldnerens foretaksnavn hvor dette atskiller seg fra vedkommendes navn;opplysning om hvem som er oppnevnt som bostyrer og eventuelt borevisor;berammelse av første skiftesamling i boet, som bør holdes senest 3 uker etter at kunngjøringen er utferdiget;oppfordring til fordringshaverne om å melde sine krav til bostyreren innen en nærmere angitt frist, jf. [§ 109](lov/1984-06-08-58/§109),opplysning om hvilken domstol som behandler boet.
+Retten skal uten opphold utferdige en kunngjøring som skal inneholde:
+
+1. underretning om at konkurs er åpnet i skyldnerens bo med opplysning om skyldnerens stilling eller bransje, forretningsadresse og bopel og om skyldnerens foretaksnavn hvor dette atskiller seg fra vedkommendes navn;
+2. opplysning om hvem som er oppnevnt som bostyrer og eventuelt borevisor;
+3. berammelse av første skiftesamling i boet, som bør holdes senest 3 uker etter at kunngjøringen er utferdiget;
+4. oppfordring til fordringshaverne om å melde sine krav til bostyreren innen en nærmere angitt frist, jf. [§ 109](lov/1984-06-08-58/§109),
+5. opplysning om hvilken domstol som behandler boet.
 
 Dersom det må antas at boet ikke vil gi dekning til uprioriterte fordringer, kan dette opplyses i kunngjøringen sammen med rettens mulige beslutning etter [§ 156](lov/1984-06-08-58/§156) første ledd.
 
@@ -846,7 +970,18 @@ Kongen kan ved forskrift eller vedtak i det enkelte tilfelle gjøre unntak fra d
 
 ### § 85. Bostyrerens oppgaver og legitimasjon.
 
-Bostyreren skal vareta fordringshavernes felles interesse overfor den enkelte fordringshaver og overfor tredjeperson. Så langt det er forenlig med disse interessene, skal bostyreren i samarbeid med offentlige myndigheter medvirke til at hensynet til berørte arbeidstakere og særlige samfunnsinteresser varetas under bobehandlingen. Det påhviler bostyreren å foreta det nødvendige for at boet kan bli oppgjort, bl a:å skaffe rede på hva som hører til boets masse, derunder å undersøke og om nødvendig imøtegå påstander om utlevering av verdier som finnes i boet;å innfordre boets utestående fordringer;å sørge for bevaring, tilsyn, nødvendig forsikring og mulig forøkning av boets eiendeler og for at de blir solgt så fordelaktig som mulig;å bringe på det rene hvilke fordringer som bør godkjennes som dividendeberettigede og eventuelt fortrinnsberettigede i boet;å avgjøre – med unntak av sin egen, borevisorens og kreditorutvalgsmedlemmenes godtgjørelse – hvilke fordringer som skal godtas som massefordringer og dermed likestilte fordringer;å treffe beslutning om opphevelse av konkursbeslaget (abandonering) eller overføring til panthaver for nærmere angitte eiendeler;å gi opplysninger som nevnt i [§ 122a](lov/1984-06-08-58/§122a) til påtalemyndigheten og Finanstilsynet;å gi melding til statsforvalteren så tidlig som mulig dersom virksomheten antas å kunne medføre forurensning som ikke er lovlig uten tillatelse etter forurensningsloven;å gi melding så tidlig som mulig til det felles lokale kontoret i arbeids- og velferdsforvaltningen der skyldneren holder til om konkursen og om hvilke arbeidstakere som har krav i boet, dersom det er arbeidstakere i skyldnerens virksomhet;Bostyrer plikter, uten hinder av taushetsplikt, å informere Advokattilsynet om at det er åpnet konkurs i en advokats bo.
+Bostyreren skal vareta fordringshavernes felles interesse overfor den enkelte fordringshaver og overfor tredjeperson. Så langt det er forenlig med disse interessene, skal bostyreren i samarbeid med offentlige myndigheter medvirke til at hensynet til berørte arbeidstakere og særlige samfunnsinteresser varetas under bobehandlingen. Det påhviler bostyreren å foreta det nødvendige for at boet kan bli oppgjort, bl a:
+
+1. å skaffe rede på hva som hører til boets masse, derunder å undersøke og om nødvendig imøtegå påstander om utlevering av verdier som finnes i boet;
+2. å innfordre boets utestående fordringer;
+3. å sørge for bevaring, tilsyn, nødvendig forsikring og mulig forøkning av boets eiendeler og for at de blir solgt så fordelaktig som mulig;
+4. å bringe på det rene hvilke fordringer som bør godkjennes som dividendeberettigede og eventuelt fortrinnsberettigede i boet;
+5. å avgjøre – med unntak av sin egen, borevisorens og kreditorutvalgsmedlemmenes godtgjørelse – hvilke fordringer som skal godtas som massefordringer og dermed likestilte fordringer;
+6. å treffe beslutning om opphevelse av konkursbeslaget (abandonering) eller overføring til panthaver for nærmere angitte eiendeler;
+7. å gi opplysninger som nevnt i [§ 122a](lov/1984-06-08-58/§122a) til påtalemyndigheten og Finanstilsynet;
+8. å gi melding til statsforvalteren så tidlig som mulig dersom virksomheten antas å kunne medføre forurensning som ikke er lovlig uten tillatelse etter forurensningsloven;
+9. å gi melding så tidlig som mulig til det felles lokale kontoret i arbeids- og velferdsforvaltningen der skyldneren holder til om konkursen og om hvilke arbeidstakere som har krav i boet, dersom det er arbeidstakere i skyldnerens virksomhet;
+10. Bostyrer plikter, uten hinder av taushetsplikt, å informere Advokattilsynet om at det er åpnet konkurs i en advokats bo.
 
 Er det oppnevnt et kreditorutvalg, skal bostyreren i alle spørsmål av vesentlig betydning så vidt mulig treffe sin beslutning i samråd med kreditorutvalget.
 
@@ -890,7 +1025,10 @@ Bostyret treffer sine vedtak ved stemmeflerhet. I tilfelle av stemmelikhet gjør
 
 Med mindre det er oppnevnt revisor etter [§ 77](lov/1984-06-08-58/§77) tredje ledd, skal retten oppnevne en revisor for boet etter at fordringshaverne på den første skiftesamlingen har hatt anledning til å uttale seg.
 
-Det påhviler revisor:å gjennomgå og kommentere skyldnerens regnskaper og forretningsførsel og å utarbeide en revisjonsinnberetning i den utstrekning bostyreren antar det har betydning for utarbeidelse av innberetning etter [§ 120](lov/1984-06-08-58/§120);å revidere boets regnskap i henhold til god revisjonsskikk og å kontrollere utbetalinger fra boet.
+Det påhviler revisor:
+
+1. å gjennomgå og kommentere skyldnerens regnskaper og forretningsførsel og å utarbeide en revisjonsinnberetning i den utstrekning bostyreren antar det har betydning for utarbeidelse av innberetning etter [§ 120](lov/1984-06-08-58/§120);
+2. å revidere boets regnskap i henhold til god revisjonsskikk og å kontrollere utbetalinger fra boet.
 
 Retten kan ved oppnevnelsen eller senere begrense revisors oppgaver etter annet ledd nr. 1. Retten kan også frita revisor for oppgavene etter annet ledd nr. 2.
 
@@ -908,7 +1046,12 @@ Oppnevnelse av ny bostyrer, ny revisor eller nye medlemmer av kreditorutvalget, 
 
 ### § 92. Når skiftesamling skal avholdes.
 
-Skiftesamling skal holdes nårdet etter loven er påbudt,retten finner det påkrevd,bostyreren eller et annet medlem av bostyret begjærer det, ellerdet begjæres av fordringshavere som representerer minst 1/5 av det samlede beløp av de fordringer som gir stemmerett.
+Skiftesamling skal holdes når
+
+1. det etter loven er påbudt,
+2. retten finner det påkrevd,
+3. bostyreren eller et annet medlem av bostyret begjærer det, eller
+4. det begjæres av fordringshavere som representerer minst 1/5 av det samlede beløp av de fordringer som gir stemmerett.
 
 Hvor arbeidsforholdene gjør det nødvendig, kan dommeren i påtrengende tilfelle bemyndige en funksjonær til å styre en enkelt skiftesamling i konkurs.
 
@@ -928,7 +1071,11 @@ Når fristen for anmeldelse av fordringer er utløpt, kan retten hvor den finner
 
 Om ikke annet er bestemt i denne lov, kan stemmerett på skiftesamling bare utøves av fordringshaver som møter personlig eller ved en representant som har alminnelig bemyndigelse til å opptre på fordringshaverens vegne på skiftesamlingen.
 
-Ingen kan personlig, som representant eller ved representant delta i avstemning som gjelder:avtale mellom ham selv og skyldneren eller boet;hans eget ansvar overfor skyldneren eller boet;en sak der han selv har en fremtredende personlig eller økonomisk særinteresse.
+Ingen kan personlig, som representant eller ved representant delta i avstemning som gjelder:
+
+1. avtale mellom ham selv og skyldneren eller boet;
+2. hans eget ansvar overfor skyldneren eller boet;
+3. en sak der han selv har en fremtredende personlig eller økonomisk særinteresse.
 
 > Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
 
@@ -966,7 +1113,11 @@ De vedtak som skiftesamlingen gjør, er bindende for bostyreren og bostyret, med
 
 Tingretten kan pålegge bostyreren eller bostyret å forelegge bestemte spørsmål om bobehandlingen for skiftesamlingen til uttalelse eller avgjørelse.
 
-Retten kan av eget tiltak eller etter begjæring av skyldneren, en fordringshaver eller et medlem av bostyret ved kjennelse oppheve eller omgjøre vedtak truffet av bostyreren, bostyret eller skiftesamlingen, dersom vedtaket:er i strid med skyldnerens, en fordringshavers eller en tredjepersons rett;er ulovlig i andre henseender;er åpenbart urimelig.
+Retten kan av eget tiltak eller etter begjæring av skyldneren, en fordringshaver eller et medlem av bostyret ved kjennelse oppheve eller omgjøre vedtak truffet av bostyreren, bostyret eller skiftesamlingen, dersom vedtaket:
+
+1. er i strid med skyldnerens, en fordringshavers eller en tredjepersons rett;
+2. er ulovlig i andre henseender;
+3. er åpenbart urimelig.
 
 [§ 10](lov/1984-06-08-58/§10) annet ledd gjelder tilsvarende.
 
@@ -1016,7 +1167,11 @@ Bostyreren har rett til å kreve utlevert brev og andre postsendinger og telegra
 
 ### § 105. Frihetsinnskrenkninger pålagt skyldneren.
 
-Retten kan ved kjennelse pålegge skyldneren frihetsinnskrenkninger:når det er grunn til å tro at skyldneren søker å unndra boet noen av dets eiendeler eller rettigheter;når det er grunn til å tro at skyldneren vil handle i strid med sine plikter etter [§ 102](lov/1984-06-08-58/§102);når det ellers er grunn til å tro at skyldneren grovt vil krenke sine plikter etter denne lov.
+Retten kan ved kjennelse pålegge skyldneren frihetsinnskrenkninger:
+
+1. når det er grunn til å tro at skyldneren søker å unndra boet noen av dets eiendeler eller rettigheter;
+2. når det er grunn til å tro at skyldneren vil handle i strid med sine plikter etter [§ 102](lov/1984-06-08-58/§102);
+3. når det ellers er grunn til å tro at skyldneren grovt vil krenke sine plikter etter denne lov.
 
 Frihetsinnskrenkninger kan bestå i pågripelse og fremstilling for retten eller bostyreren, i fengslig forvaring eller i andre innskrenkninger i den personlige frihet etter nærmere bestemmelse av retten.
 
@@ -1140,7 +1295,10 @@ Reglene i [§ 17](lov/1984-06-08-58/§17) annet ledd gjelder tilsvarende, likeve
 
 ### § 117a. Salg av overbeheftede eiendeler.
 
-Bostyreren kan selge boets overbeheftede eiendeler med utslettende virkning for udekkede heftelser dersomsalget skjer sammen med andre av boets eiendeler og et samlet salg forventes å gi større utbytte for boet enn et salg av eiendelene enkeltvis, ellersalget skjer som ledd i en samlet overdragelse av hele eller deler av virksomheten med sikte på fortsatt drift etter konkursen.
+Bostyreren kan selge boets overbeheftede eiendeler med utslettende virkning for udekkede heftelser dersom
+
+1. salget skjer sammen med andre av boets eiendeler og et samlet salg forventes å gi større utbytte for boet enn et salg av eiendelene enkeltvis, eller
+2. salget skjer som ledd i en samlet overdragelse av hele eller deler av virksomheten med sikte på fortsatt drift etter konkursen.
 
 Ved salget overtas alle pengeheftelser som ligger innenfor kjøpesummen i den utstrekning heftelsene har rettsvern i forhold til konkursboet. Andre heftelser enn pengeheftelser i vedkommende gjenstand overtas av kjøperen utenfor kjøpesummen i den utstrekning vedkommende heftelse har rettsvern i forhold til konkursboet. Slike heftelser skal likevel settes til side i den utstrekning det er nødvendig for å gi dekning til pengeheftelser med bedre eller lik prioritet.
 
@@ -1202,7 +1360,15 @@ Besluttes det i samråd med panthaverne eller andre at virksomheten skal fortset
 
 ### § 120. Boets innberetning.
 
-Dersom ikke tingretten ved oppnevnelsen av bostyrer eller senere bestemmer annet, skal bostyreren, eller bostyret dersom det er oppnevnt kreditorutvalg, senest tre måneder etter oppnevnelsen avgi innberetning til tingretten, som bl.a. skal inneholde:en oversikt over skyldnerens forretningsførsel med opplysning om hvordan registrering og dokumentasjon av regnskapsopplysninger har vært og om de forhold som har ført til konkursen. I oversikten bør inntas skyldnerens to siste årsregnskap og årsberetninger (status, driftsregnskap) og dessuten oppgave over omsetningen;en oversikt over boets stilling, med opplysning blant annet om skyldnerens kausjon- og vekselforpliktelser, de heftelser som hviler på skyldnerens eiendeler og hvordan eiendelene er verdsatt;opplysning om skyldnerens ekteskapelige formuesforhold;opplysning om hvorvidt skyldneren antas å ha foretatt disposisjoner som kan omstøtes;opplysning om hvorvidt det i forbindelse med skyldnerens økonomiske virksomhet antas å foreligge forhold som kan gi grunn til strafforfølgning mot skyldneren eller mot noen som har handlet på skyldnerens vegne. Er skyldneren en sammenslutning eller en stiftelse, gis opplysning om hvorvidt forretningsfører eller et styremedlem antas å ha gjort seg skyldig i slikt forhold;opplysning om hvorvidt det antas å foreligge forhold som kan gi grunnlag for sanksjoner fra Finanstilsynet overfor skyldnerens revisor etter [revisorloven §§ 9-1](lov/1999-01-15-2/§9-1) og [9-2](lov/1999-01-15-2/§9-2);en vurdering av om det foreligger forhold som omfattes av reglene om konkurskarantene i [§ 142](lov/1984-06-08-58/§142).
+Dersom ikke tingretten ved oppnevnelsen av bostyrer eller senere bestemmer annet, skal bostyreren, eller bostyret dersom det er oppnevnt kreditorutvalg, senest tre måneder etter oppnevnelsen avgi innberetning til tingretten, som bl.a. skal inneholde:
+
+1. en oversikt over skyldnerens forretningsførsel med opplysning om hvordan registrering og dokumentasjon av regnskapsopplysninger har vært og om de forhold som har ført til konkursen. I oversikten bør inntas skyldnerens to siste årsregnskap og årsberetninger (status, driftsregnskap) og dessuten oppgave over omsetningen;
+2. en oversikt over boets stilling, med opplysning blant annet om skyldnerens kausjon- og vekselforpliktelser, de heftelser som hviler på skyldnerens eiendeler og hvordan eiendelene er verdsatt;
+3. opplysning om skyldnerens ekteskapelige formuesforhold;
+4. opplysning om hvorvidt skyldneren antas å ha foretatt disposisjoner som kan omstøtes;
+5. opplysning om hvorvidt det i forbindelse med skyldnerens økonomiske virksomhet antas å foreligge forhold som kan gi grunn til strafforfølgning mot skyldneren eller mot noen som har handlet på skyldnerens vegne. Er skyldneren en sammenslutning eller en stiftelse, gis opplysning om hvorvidt forretningsfører eller et styremedlem antas å ha gjort seg skyldig i slikt forhold;
+6. opplysning om hvorvidt det antas å foreligge forhold som kan gi grunnlag for sanksjoner fra Finanstilsynet overfor skyldnerens revisor etter [revisorloven §§ 9-1](lov/1999-01-15-2/§9-1) og [9-2](lov/1999-01-15-2/§9-2);
+7. en vurdering av om det foreligger forhold som omfattes av reglene om konkurskarantene i [§ 142](lov/1984-06-08-58/§142).
 
 En eventuell innberetning fra revisor skal vedlegges. Dessuten vedlegges en erklæring fra skyldneren om at opplysningene i innberetningen om dennes økonomiske forhold etter skyldnerens vitende er riktige og uttømmende.
 
@@ -1278,7 +1444,10 @@ Når kjennelsen om stadfestelse er blitt rettskraftig, skal bostyreren betale ma
 
 ### § 126. Tvangsakkord etter at skyldneren er død.
 
-Dersom skyldneren dør før boet er opptatt til slutning, kan arvingene i skyldnerens sted fremsette forslag om tvangsakkord eller fortsette forhandlingen om et allerede fremsatt forslag såfremt de:overfor retten erklærer at de overtar fullt og udelt ansvar for oppfyllelsen av den akkord som måtte bli brakt i stand;etter [arveloven](lov/2019-06-14-21) for øvrig ville ha hatt adgang til å overta skyldnerens bo til privat skifte.
+Dersom skyldneren dør før boet er opptatt til slutning, kan arvingene i skyldnerens sted fremsette forslag om tvangsakkord eller fortsette forhandlingen om et allerede fremsatt forslag såfremt de:
+
+1. overfor retten erklærer at de overtar fullt og udelt ansvar for oppfyllelsen av den akkord som måtte bli brakt i stand;
+2. etter [arveloven](lov/2019-06-14-21) for øvrig ville ha hatt adgang til å overta skyldnerens bo til privat skifte.
 
 Reglene i [§§ 18](lov/1984-06-08-58/§18) og [39](lov/1984-06-08-58/§39) gjelder i så fall tilsvarende for arvingene, men bostyreren kan gjøre unntak fra møteplikten.
 
@@ -1374,7 +1543,10 @@ Innstilling av bobehandlingen skjer ved kjennelse. Kjennelsen meddeles de fordri
 
 ### § 136. Tilbakelevering av boet til skyldneren.
 
-Bobehandlingen skal innstilles ved kjennelse når det etter anmeldelsesfristens utløp:foreligger skriftlig samtykke til at boet tilbakeleveres skyldneren fra alle fordringshavere som har anmeldt fordringer i boet, unntatt fordringshavere hvis fordringer er sikret eller sikres med betryggende selvskyldnerkausjon, panterett eller annen tilsvarende sikkerhetsrett, ellerlegges frem bevis for at alle fordringer som er nevnt i nr. 1 er dekket.
+Bobehandlingen skal innstilles ved kjennelse når det etter anmeldelsesfristens utløp:
+
+1. foreligger skriftlig samtykke til at boet tilbakeleveres skyldneren fra alle fordringshavere som har anmeldt fordringer i boet, unntatt fordringshavere hvis fordringer er sikret eller sikres med betryggende selvskyldnerkausjon, panterett eller annen tilsvarende sikkerhetsrett, eller
+2. legges frem bevis for at alle fordringer som er nevnt i nr. 1 er dekket.
 
 Dersom boets kontantbeholdning ikke er tilstrekkelig til å dekke massefordringene, skal kjennelse bare avsies hvis det blir stilt betryggende sikkerhet for at det manglende beløp blir innbetalt i tilfelle av tilbakelevering. Når kjennelsen om tilbakelevering er blitt rettskraftig, skal bostyreren betale massefordringene eller – for så vidt fordringene er omtvistet – sette inn i bank de nødvendige beløp til å dekke dem, idet [§ 46](lov/1984-06-08-58/§46) annet ledd får tilsvarende anvendelse.
 
@@ -1424,7 +1596,10 @@ Dersom proklama er utferdiget før konkurs blir åpnet, skal en opplysning om de
 
 ### § 142. Vilkår for konkurskarantene.
 
-En skyldner hvis bo er tatt under konkursbehandling, kan settes i konkurskarantene av tingretten dersomvedkommende med skjellig grunn mistenkes for en straffbar handling i forbindelse med konkursen eller den virksomhet som har ført til insolvensen, ellerdet må antas at vedkommende på grunn av uforsvarlig forretningsførsel er uskikket til å stifte et nytt selskap eller å være styremedlem eller daglig leder (administrerende direktør) i et slikt selskap.
+En skyldner hvis bo er tatt under konkursbehandling, kan settes i konkurskarantene av tingretten dersom
+
+1. vedkommende med skjellig grunn mistenkes for en straffbar handling i forbindelse med konkursen eller den virksomhet som har ført til insolvensen, eller
+2. det må antas at vedkommende på grunn av uforsvarlig forretningsførsel er uskikket til å stifte et nytt selskap eller å være styremedlem eller daglig leder (administrerende direktør) i et slikt selskap.
 
 Ved avgjørelsen skal det legges vekt på om det under hensyn til skyldnerens handlemåte og forholdene for øvrig synes rimelig å sette ham i karantene.
 
@@ -1434,7 +1609,10 @@ I tilfelle som nevnt i første ledd punkt 1 kan retten bestemme at konkurskarant
 
 Med selskap i tredje og fjerde ledd menes aksjeselskap, allmennaksjeselskap, forretningsavdeling av utenlandsk selskap, stiftelse, boligbyggelag, borettslag, samvirkeforetak, gjensidig forsikringsselskap og statsforetak.
 
-Reglene om konkurskarantene gjelder tilsvarende for den som i løpet av det siste år før konkurs blir åpnet i selskapets bohar vært fullt ansvarlig deltager i et ansvarlig selskap eller kommandittselskap, ellerformelt har innehatt eller reelt har utøvet verv som medlem eller varamedlem av styret eller som daglig leder (administrerende direktør) i et selskap som nevnt i femte ledd.
+Reglene om konkurskarantene gjelder tilsvarende for den som i løpet av det siste år før konkurs blir åpnet i selskapets bo
+
+1. har vært fullt ansvarlig deltager i et ansvarlig selskap eller kommandittselskap, eller
+2. formelt har innehatt eller reelt har utøvet verv som medlem eller varamedlem av styret eller som daglig leder (administrerende direktør) i et selskap som nevnt i femte ledd.
 
 > Endret ved [lover 21 juni 1985 nr. 83](lov/1985-06-21-83), [30 mars 1990 nr. 8](lov/1990-03-30-8), [30 aug 1991 nr. 71](lov/1991-08-30-71), [5 juni 1992 nr. 51](lov/1992-06-05-51), [4 nov 1994 nr. 59](lov/1994-11-04-59), [22 nov 1996 nr. 67](lov/1996-11-22-67) (ikr. 1 des 1996), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999), [18 juni 1999 nr. 42](lov/1999-06-18-42) (ikr. 22 juni 1999), [21 juni 2002 nr. 43](lov/2002-06-21-43) (ikr. 1 juli 2002 iflg. [res. 21 juni 2002 nr. 569](forskrift/2002-06-21-569)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)).
 
@@ -1480,7 +1658,15 @@ Departementet bestemmer hvilke opplysninger som skal medtas i utskrift fra regis
 
 ### § 145. Tingrettens saklige kompetanse.
 
-Det hører under tingretten å avgjøre:spørsmål om åpning og innstilling av gjeldsforhandling og andre spørsmål om gjeldsforhandling som loven har lagt til den;alle spørsmål som gjelder åpning og gjennomføring av akkordforhandling og konkurs.Det hører under den tingrett som har behandlet begjæring etter nr. 1 eller 2 å avgjøre:tvist om hvorvidt anmeldt masse- eller konkursfordring skal godkjennes, og om dens størrelse og prioritet;tvist om hvorvidt en fordring vedrører en gjeldsforhandling, forutsatt at gjeldsnemnda har samtykket i at tingretten avgjør tvisten.
+Det hører under tingretten å avgjøre:
+
+1. spørsmål om åpning og innstilling av gjeldsforhandling og andre spørsmål om gjeldsforhandling som loven har lagt til den;
+2. alle spørsmål som gjelder åpning og gjennomføring av akkordforhandling og konkurs.
+
+Det hører under den tingrett som har behandlet begjæring etter nr. 1 eller 2 å avgjøre:
+
+1. tvist om hvorvidt anmeldt masse- eller konkursfordring skal godkjennes, og om dens størrelse og prioritet;
+2. tvist om hvorvidt en fordring vedrører en gjeldsforhandling, forutsatt at gjeldsnemnda har samtykket i at tingretten avgjør tvisten.
 
 Tingretten kan dessuten avgjøre spørsmål om omstøtelse som ikke etter en ufravikelig vernetingsregel hører under en annen domstol. Dette gjelder selv om boets motpart har alminnelig verneting i utlandet.
 
@@ -1650,7 +1836,10 @@ Overtredelse av taushetsplikten straffes som bestemt i [straffeloven § 209](lov
 
 Gjeldsforhandling eller konkurs som omfatter skyldnerens samlede formue, kan bare åpnes i Norge hvis skyldneren har sine hovedinteresser her. Med mindre noe annet godtgjøres, anses selskaper og andre upersonlige rettssubjekter for å ha sine hovedinteresser i den registrerte hjemstaten, eller i mangel av slik, den vedtektsbestemte hjemstaten.
 
-Er skyldneren et norskregistrert utenlandsk foretak med hovedinteresser i en annen stat, og det der ikke er åpnet insolvensbehandling som nevnt i første ledd, kan tingretten i en rettskrets hvor skyldneren har forretningssted, åpne konkurs som omfatter foretakets formue i Norge (særkonkurs) dersomlovgivningen i den staten hvor skyldneren har sine hovedinteresser, ikke tillater at det der åpnes insolvensbehandling som omfatter skyldnerens samlede formue, ellerdet begjæres av en fordringshaver som har sin bopel, sitt sedvanlige oppholdssted eller sitt hjemsted i Norge, eller som har en fordring som utspringer av eller har forbindelse med skyldnerens forretningsvirksomhet i Norge.
+Er skyldneren et norskregistrert utenlandsk foretak med hovedinteresser i en annen stat, og det der ikke er åpnet insolvensbehandling som nevnt i første ledd, kan tingretten i en rettskrets hvor skyldneren har forretningssted, åpne konkurs som omfatter foretakets formue i Norge (særkonkurs) dersom
+
+1. lovgivningen i den staten hvor skyldneren har sine hovedinteresser, ikke tillater at det der åpnes insolvensbehandling som omfatter skyldnerens samlede formue, eller
+2. det begjæres av en fordringshaver som har sin bopel, sitt sedvanlige oppholdssted eller sitt hjemsted i Norge, eller som har en fordring som utspringer av eller har forbindelse med skyldnerens forretningsvirksomhet i Norge.
 
 Er skyldneren et norskregistrert utenlandsk foretak med hovedinteresser i en annen stat, og det der er åpnet insolvensbehandling som nevnt i [§ 163](lov/1984-06-08-58/§163) første ledd i foretaket, kan tingretten i en rettskrets hvor skyldneren har forretningssted, på begjæring av den utenlandske insolvensforvalteren eller en fordringshaver som nevnt i annet ledd bokstav b åpne konkurs som omfatter foretakets formue i Norge.
 
@@ -1668,7 +1857,14 @@ For konkurs etter [§ 161](lov/1984-06-08-58/§161) annet ledd gjelder [§§ 60]
 
 ### § 163. Hvilke utenlandske hovedinsolvensbehandlinger som har virkninger i Norge
 
-Åpning av en utenlandsk insolvensbehandling som omfatter skyldnerens samlede formue, har slik virkning i Norge som angitt i [§§ 164](lov/1984-06-08-58/§164) til [166](lov/1984-06-08-58/§166), dersomden er åpnet der skyldneren har sine hovedinteresser,den er kollektiv,den medfører at skyldneren helt eller delvis mister rådigheten over sin formue,det er utnevnt en person eller organ med oppgave å forvalte eller realisere skyldnerens aktiva eller å føre tilsyn med forvaltningen av skyldnerens aktiva og interesser (insolvensforvalter),skyldneren er en juridisk person, oginsolvensbehandlingen er åpnet i en stat som etter sin nasjonale rett anerkjenner tilsvarende insolvensbehandling åpnet i Norge.
+Åpning av en utenlandsk insolvensbehandling som omfatter skyldnerens samlede formue, har slik virkning i Norge som angitt i [§§ 164](lov/1984-06-08-58/§164) til [166](lov/1984-06-08-58/§166), dersom
+
+1. den er åpnet der skyldneren har sine hovedinteresser,
+2. den er kollektiv,
+3. den medfører at skyldneren helt eller delvis mister rådigheten over sin formue,
+4. det er utnevnt en person eller organ med oppgave å forvalte eller realisere skyldnerens aktiva eller å føre tilsyn med forvaltningen av skyldnerens aktiva og interesser (insolvensforvalter),
+5. skyldneren er en juridisk person, og
+6. insolvensbehandlingen er åpnet i en stat som etter sin nasjonale rett anerkjenner tilsvarende insolvensbehandling åpnet i Norge.
 
 Første ledd gjelder ikke for insolvensbehandling i kredittinstitusjoner, forsikringsforetak, pensjonsforetak, verdipapirforetak og andre foretak omfattet av direktiv [2001/24/EF](eu/32001l0024), UCITS-fond og alternative investeringsfond når insolvensbehandlingen er åpnet i en stat som er omfattet av Europaparlamentets og Rådets forordning 2015/848. For insolvensbehandling som er åpnet i andre stater, gjelder første ledd ikke for insolvensbehandling i banker, andre kredittinstitusjoner, pensjonsforetak og forsikringsselskaper.
 
@@ -1678,9 +1874,17 @@ Departementet kan i forskrift gi regler om unntak for utenlandsk insolvensbehand
 
 ### § 164. Utenlandsk hovedinsolvensbehandlings virkninger for eiendeler i Norge
 
-Utenlandsk insolvensbehandling som nevnt i [§ 163](lov/1984-06-08-58/§163) første ledd har samme virkning for skyldnerens rett til å råde over sine eiendeler i Norge som insolvensbehandlingen har i den staten der den er åpnet. Det samme gjelder omfanget av det utenlandske boets beslagsrett overfor skyldneren. For øvrig kommer skyldnerens eiendeler i Norge i samme stilling ved slik insolvensbehandling som ved gjeldsforhandling eller konkurs som åpnes her, likevel slik atfrivillig rettsstiftelse i eiendeler i Norge står seg overfor insolvensbehandlingen dersom slik rettsvernsakt som sikrer rettsstiftelsen vern ved norsk gjeldsforhandling eller konkurs, er besørget senest dagen før kunngjøring i Norge, og erververen ikke kjente eller burde kjenne til den utenlandske insolvensbehandlingen,fristdagen ved omstøtelse anses å være dagen åpningen av den utenlandske insolvensbehandlingen kunngjøres i Norge, ogrettsvernet panterett, tilbakeholdsrett og annen sikkerhetsrett i eiendeler som tilhører skyldneren, og som befinner seg i Norge ved åpningen av insolvensbehandlingen, ikke berøres, med mindre boet har rett til omstøtelse.
+Utenlandsk insolvensbehandling som nevnt i [§ 163](lov/1984-06-08-58/§163) første ledd har samme virkning for skyldnerens rett til å råde over sine eiendeler i Norge som insolvensbehandlingen har i den staten der den er åpnet. Det samme gjelder omfanget av det utenlandske boets beslagsrett overfor skyldneren. For øvrig kommer skyldnerens eiendeler i Norge i samme stilling ved slik insolvensbehandling som ved gjeldsforhandling eller konkurs som åpnes her, likevel slik at
 
-Norsk rett avgjør ogsåom en frivillig rettsstiftelse har rettsvern overfor en utenlandsk insolvensbehandling som omhandlet i [§ 163](lov/1984-06-08-58/§163) første ledd, dersom eiendelen befant seg i Norge på tidspunktet for rettsstiftelsen,om en frivillig disposisjon kan omstøtes ved utenlandsk insolvensbehandling som omhandlet i [§ 163](lov/1984-06-08-58/§163) første ledd, dersom eiendelen befant seg her på tidspunktet for disposisjonen,om skyldnerens medkontrahent overfor det utenlandske boet har rett til å stanse, heve eller holde tilbake egen ytelse, dersom den aktuelle eiendelen befant seg her da beføyelsen ble påberopt. Det samme gjelder ved salgspant og rett som likestilles med salgspant.
+1. frivillig rettsstiftelse i eiendeler i Norge står seg overfor insolvensbehandlingen dersom slik rettsvernsakt som sikrer rettsstiftelsen vern ved norsk gjeldsforhandling eller konkurs, er besørget senest dagen før kunngjøring i Norge, og erververen ikke kjente eller burde kjenne til den utenlandske insolvensbehandlingen,
+2. fristdagen ved omstøtelse anses å være dagen åpningen av den utenlandske insolvensbehandlingen kunngjøres i Norge, og
+3. rettsvernet panterett, tilbakeholdsrett og annen sikkerhetsrett i eiendeler som tilhører skyldneren, og som befinner seg i Norge ved åpningen av insolvensbehandlingen, ikke berøres, med mindre boet har rett til omstøtelse.
+
+Norsk rett avgjør også
+
+1. om en frivillig rettsstiftelse har rettsvern overfor en utenlandsk insolvensbehandling som omhandlet i [§ 163](lov/1984-06-08-58/§163) første ledd, dersom eiendelen befant seg i Norge på tidspunktet for rettsstiftelsen,
+2. om en frivillig disposisjon kan omstøtes ved utenlandsk insolvensbehandling som omhandlet i [§ 163](lov/1984-06-08-58/§163) første ledd, dersom eiendelen befant seg her på tidspunktet for disposisjonen,
+3. om skyldnerens medkontrahent overfor det utenlandske boet har rett til å stanse, heve eller holde tilbake egen ytelse, dersom den aktuelle eiendelen befant seg her da beføyelsen ble påberopt. Det samme gjelder ved salgspant og rett som likestilles med salgspant.
 
 Første ledd er ikke til hinder for åpning av konkurs som omhandlet i [§ 161](lov/1984-06-08-58/§161) tredje ledd, og gjelder med de begrensninger som følger av slik konkurs eller av konkurs som nevnt i [§ 161](lov/1984-06-08-58/§161) annet ledd.
 
@@ -1774,7 +1978,10 @@ Reglene i konvensjon 7. november 1933 mellem Norge, Danmark, Finnland, Island og
 
 ### § 176. Overenskomster med fremmede stater om gjeldsforhandling og konkurs.
 
-Ved overenskomst med fremmed stat kan det vedtas at:gjeldsforhandling eller akkordforhandling som er åpnet i en av statene, skal kunne hindre åpning av gjeldsforhandling, akkordforhandling eller konkurs og innskrenke adgangen til tvangsfullbyrdelse i den annen stat, og at vedtatt gjeldsordning og rettskraftig stadfestet akkord, herunder akkord under konkurs, skal ha bindende virkning også i den annen stat;konkurs som er åpnet i en av statene, skal kunne hindre åpning av gjeldsforhandling, akkordforhandling eller konkurs i den annen stat, at konkursen skal ha direkte virkning for skyldnerens formue i den annen stat, og at rettskraftig sluttutlodning eller etterutlodning skal ha bindende virkning også i den annen stat.
+Ved overenskomst med fremmed stat kan det vedtas at:
+
+1. gjeldsforhandling eller akkordforhandling som er åpnet i en av statene, skal kunne hindre åpning av gjeldsforhandling, akkordforhandling eller konkurs og innskrenke adgangen til tvangsfullbyrdelse i den annen stat, og at vedtatt gjeldsordning og rettskraftig stadfestet akkord, herunder akkord under konkurs, skal ha bindende virkning også i den annen stat;
+2. konkurs som er åpnet i en av statene, skal kunne hindre åpning av gjeldsforhandling, akkordforhandling eller konkurs i den annen stat, at konkursen skal ha direkte virkning for skyldnerens formue i den annen stat, og at rettskraftig sluttutlodning eller etterutlodning skal ha bindende virkning også i den annen stat.
 
 Det kan i overenskomsten fastsettes nærmere bestemmelser om hvilke av statenes rettsregler som skal gjelde for de spørsmål som oppstår under bobehandlingen, og i denne forbindelse foretas de tilpasninger av denne lov som er nødvendige.
 

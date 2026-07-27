@@ -126,19 +126,74 @@ Regnskapsperioden skal normalt være 12 måneder og normalt følge kalenderåret
 
 ### § 13. Aktivitetsregnskap
 
-Aktivitetsregnskapet skal ha følgende oppstillingsplan:Anskaffede midler:MedlemsinntekterTilskuddInnsamlede midler, gaver mv.Inntekter fra operasjonelle aktiviteterFinansinntekterAndre inntekterForbrukte midlerKostnader knyttet til anskaffelse av midlerKostnader knyttet til organisasjonens formålAdministrasjonskostnaderÅrets aktivitetsresultatTillegg/reduksjon egenkapitalGrunnkapitalAnnen egenkapital.
+Aktivitetsregnskapet skal ha følgende oppstillingsplan:
+
+1. Anskaffede midler:
+
+   1. Medlemsinntekter
+   2. Tilskudd
+   3. Innsamlede midler, gaver mv.
+   4. Inntekter fra operasjonelle aktiviteter
+   5. Finansinntekter
+   6. Andre inntekter
+2. Forbrukte midler
+
+   1. Kostnader knyttet til anskaffelse av midler
+   2. Kostnader knyttet til organisasjonens formål
+   3. Administrasjonskostnader
+3. Årets aktivitetsresultat
+4. Tillegg/reduksjon egenkapital
+
+   1. Grunnkapital
+   2. Annen egenkapital.
 
 ### § 14. Balanse
 
-Balansen skal ha følgende oppstillingsplan:EiendelerAnleggsmidlerImmaterielle eiendelerBevaringsverdige eiendelerAndre driftsmidlerFinansielle anleggsmidlerOmløpsmidlerBeholdingerFordringerInvesteringerBankinnskudd, kontanter og lignendeEgenkapital og gjeldEgenkapitalGrunnkapitalAnnen egenkapitalGjeldAvsetninger for forpliktelserAnnen langsiktig gjeldKortsiktig gjeld.
+Balansen skal ha følgende oppstillingsplan:
+
+1. Eiendeler
+
+   1. Anleggsmidler
+
+      1. Immaterielle eiendeler
+      2. Bevaringsverdige eiendeler
+      3. Andre driftsmidler
+      4. Finansielle anleggsmidler
+   2. Omløpsmidler
+
+      1. Beholdinger
+      2. Fordringer
+      3. Investeringer
+      4. Bankinnskudd, kontanter og lignende
+2. Egenkapital og gjeld
+
+   1. Egenkapital
+
+      1. Grunnkapital
+      2. Annen egenkapital
+   2. Gjeld
+
+      1. Avsetninger for forpliktelser
+      2. Annen langsiktig gjeld
+      3. Kortsiktig gjeld.
 
 ### § 15. Noter
 
-Det skal utarbeides noter som minst skal inneholde:Regnskapsprinsipper – det skal opplyses om anvendte regnskapsprinsipper, herunder prinsipper for inntektsføring om omregning av utenlandsk valuta.Opplysninger som er nødvendige for å bedømme enhetens stilling og resultat og som ikke fremgår av regnskapet for øvrig.Lønnsforhold til ledende ansatte – eventuelle ytelser til ledende ansatte og styret skal oppgis.Medlemmer – antall medlemmer ved regnskapsårets slutt skal oppgis.Antall årsverk – det skal opplyses om antall årsverk som enheten har sysselsatt i regnskapsåret.
+Det skal utarbeides noter som minst skal inneholde:
+
+1. Regnskapsprinsipper – det skal opplyses om anvendte regnskapsprinsipper, herunder prinsipper for inntektsføring om omregning av utenlandsk valuta.
+2. Opplysninger som er nødvendige for å bedømme enhetens stilling og resultat og som ikke fremgår av regnskapet for øvrig.
+3. Lønnsforhold til ledende ansatte – eventuelle ytelser til ledende ansatte og styret skal oppgis.
+4. Medlemmer – antall medlemmer ved regnskapsårets slutt skal oppgis.
+5. Antall årsverk – det skal opplyses om antall årsverk som enheten har sysselsatt i regnskapsåret.
 
 ### § 16. Årsberetning
 
-Det skal utarbeides en årsberetning som minst skal inneholde:Opplysninger om arten av virksomheten og hvor virksomheten drives.En oversikt over enhetens virksomhet, aktiviteter i regnskapsåret og en redegjørelse for årsregnskapet.Forslag til anvendelse av overskudd eller dekning av tap dersom dette ikke framgår av årsregnskapet.
+Det skal utarbeides en årsberetning som minst skal inneholde:
+
+1. Opplysninger om arten av virksomheten og hvor virksomheten drives.
+2. En oversikt over enhetens virksomhet, aktiviteter i regnskapsåret og en redegjørelse for årsregnskapet.
+3. Forslag til anvendelse av overskudd eller dekning av tap dersom dette ikke framgår av årsregnskapet.
 
 ### § 17. Krav til språk og valuta
 

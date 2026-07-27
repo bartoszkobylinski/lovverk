@@ -28,13 +28,24 @@ eu_basis: []
 
 (1) Bestemmelsene i denne forskriften gjelder studiepoenggivende studier ved etter- og videreutdanningen ved Norges Handelshøyskole (NHH) – NHH Executive (NHHE) og vurderinger i tilknytning til disse.
 
-(2) Studiepoenggivende studier ved NHHE inkluderer;Executive MBA (erfaringsbasert masterstudium)Executive mastergrader (erfaringsbasert masterstudium)Andre videreutdanningsstudier som ikke er gradsgivende.
+(2) Studiepoenggivende studier ved NHHE inkluderer;
+
+1. Executive MBA (erfaringsbasert masterstudium)
+2. Executive mastergrader (erfaringsbasert masterstudium)
+3. Andre videreutdanningsstudier som ikke er gradsgivende.
 
 (3) Studiene som omhandles av denne forskrift er organisert som deltidsstudier og er finansiert med egenbetaling eller gjennom oppdragsinntekter.
 
 ### § 1-2. Definisjoner
 
-(1) I denne forskrift menes med:*Videreutdanning* gir ny formell kompetanse på universitets- og høyskolenivå og er studiepoengsgivende.*Studieprogram* er et studieløp bestående av emner med definert innhold og et samlet læringsutbytte i henhold til studieplan som fører frem til en grad.*Emne* kan inngå i et studieprogram, eller tilbys som et frittstående studium med eget opptak.*Emneplan* er en plan for en emne som angir omfang og nivå, opptakskrav, læringsutbytte, faginnhold, læringsaktiviteter, arbeidskrav og vurderingsformer. Emne kan inngår i én eller flere studieplaner.*Studieplan* er en plan for et studieprogram som angir omfang og nivå, opptakskrav, det totale læringsutbytte, faginnhold, læringsaktiviteter, arbeidskrav og vurderingsformer.*Vurdering* er bedømmelse av studentens oppnådde læringsutbytte. Vurderingsform kan variere i innhold og struktur.
+(1) I denne forskrift menes med:
+
+1. *Videreutdanning* gir ny formell kompetanse på universitets- og høyskolenivå og er studiepoengsgivende.
+2. *Studieprogram* er et studieløp bestående av emner med definert innhold og et samlet læringsutbytte i henhold til studieplan som fører frem til en grad.
+3. *Emne* kan inngå i et studieprogram, eller tilbys som et frittstående studium med eget opptak.
+4. *Emneplan* er en plan for en emne som angir omfang og nivå, opptakskrav, læringsutbytte, faginnhold, læringsaktiviteter, arbeidskrav og vurderingsformer. Emne kan inngår i én eller flere studieplaner.
+5. *Studieplan* er en plan for et studieprogram som angir omfang og nivå, opptakskrav, det totale læringsutbytte, faginnhold, læringsaktiviteter, arbeidskrav og vurderingsformer.
+6. *Vurdering* er bedømmelse av studentens oppnådde læringsutbytte. Vurderingsform kan variere i innhold og struktur.
 
 > **Endres** ved forskrift [16 juni 2026 nr. 1097](forskrift/2026-06-16-1097) (i kraft 1 aug 2026).
 
@@ -74,7 +85,12 @@ Studenter ved NHHE må ha tilgang til egen bærbar datamaskin for bruk i undervi
 
 ### § 2-2. Studierett
 
-(1) Studieretten gjelder det studieprogrammet eller emne studenten er tatt opp til og omfatter:rett og plikt til å delta i undervisning i samsvar med studieplan eller emneplan for hvert enkelt studiumrett til veiledning i samsvar med studieplan eller emneplanrett til å bli vurdert i samsvar med studieplan eller emneplanrett til tilgang til læringsplattform og øvrige digitale tjenester NHHE tilbyr, samt tilgang til bibliotek.
+(1) Studieretten gjelder det studieprogrammet eller emne studenten er tatt opp til og omfatter:
+
+1. rett og plikt til å delta i undervisning i samsvar med studieplan eller emneplan for hvert enkelt studium
+2. rett til veiledning i samsvar med studieplan eller emneplan
+3. rett til å bli vurdert i samsvar med studieplan eller emneplan
+4. rett til tilgang til læringsplattform og øvrige digitale tjenester NHHE tilbyr, samt tilgang til bibliotek.
 
 (2) For å opprettholde studieretten gjennom studiet må studenten hvert semester gjennomføre semesterregistrering, samt betale semesteravgift til studentsamskipnaden de(t) semester det gjennomføres vurdering.
 
@@ -82,11 +98,20 @@ Studenter ved NHHE må ha tilgang til egen bærbar datamaskin for bruk i undervi
 
 ### § 2-3. Automatisk tap av studierett
 
-Studieretten opphører når studenten:har oppnådd studiets kvalifikasjonselv melder fra om at hun eller han ønsker å avslutte aktuelt studium innen angitte frister i inngått studiekontrakt.
+Studieretten opphører når studenten:
+
+1. har oppnådd studiets kvalifikasjon
+2. selv melder fra om at hun eller han ønsker å avslutte aktuelt studium innen angitte frister i inngått studiekontrakt.
 
 ### § 2-4. Tap av studierett
 
-(1) Studenten kan miste studieretten:ved unnlatt innbetaling av studieavgiftved manglende semesterregistrering og manglende betaling av semesteravgift jf. [§ 2-2](forskrift/2024-06-18-1057/§2-2)har brukt opp antall forsøk for vurdering, jf. [§ 4-6](forskrift/2024-06-18-1057/§4-6)ved kontroll ikke fremlegger original dokumentene som ligger til grunn for opptak eller for utstedelse av vitnemåler utestengt pga. fusk, forsøk på fusk eller medvirkning til fusk.
+(1) Studenten kan miste studieretten:
+
+1. ved unnlatt innbetaling av studieavgift
+2. ved manglende semesterregistrering og manglende betaling av semesteravgift jf. [§ 2-2](forskrift/2024-06-18-1057/§2-2)
+3. har brukt opp antall forsøk for vurdering, jf. [§ 4-6](forskrift/2024-06-18-1057/§4-6)
+4. ved kontroll ikke fremlegger original dokumentene som ligger til grunn for opptak eller for utstedelse av vitnemål
+5. er utestengt pga. fusk, forsøk på fusk eller medvirkning til fusk.
 
 (2) Vedtak om tap av studierett etter bokstavene a) til d) fattes av NHHE. Vedtak om tap av studierett etter bokstav e) fattes av Klagenemnda etter innstilling fra NHHE.
 
@@ -172,7 +197,10 @@ Eventuelle vilkår for gjennomføring av vurdering vil fremgå av studiets studi
 
 ### § 4-7. Særlige sensurfrister
 
-(1) Styret ved NHH har i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, hjemmel for å gjøre unntak fra den ordinære sensurfristen på 15 virkedager i to tilfeller. Dette gjeldergenerelt tidsavgrenset unntak fastsatt i midlertidig forskriftunntak for avhandlinger og tilsvarende større skriftlige arbeidet fastsatt i forskrift.
+(1) Styret ved NHH har i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, hjemmel for å gjøre unntak fra den ordinære sensurfristen på 15 virkedager i to tilfeller. Dette gjelder
+
+1. generelt tidsavgrenset unntak fastsatt i midlertidig forskrift
+2. unntak for avhandlinger og tilsvarende større skriftlige arbeidet fastsatt i forskrift.
 
 (2) Med hjemmel i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, fastsettes en særskilt sensurfrist på seks uker på masteroppgaver, avhandlinger eller lignende skriftlige arbeider med et omfang på minimum ti studiepoeng.
 
@@ -188,7 +216,18 @@ NHHE kan gjennomføre plagiatkontroll både av innleverte arbeider underveis i e
 
 (1) Fusk er et alvorlig tillitsbrudd overfor NHHE, medstudenter og samfunnet for øvrig. NHHE reagerer derfor strengt overfor alle former for fusk som inngår i gjennomføringen av studier ved NHHE.
 
-(2) Som fusk regnes eksempelvis:å ha ulovlige hjelpemidler tilgjengelig under vurderingå presentere andres arbeid som sitt egetå presentere eget tidligere arbeid, som har gitt uttelling i form av studiepoeng eller rett til å gjennomføre vurdering, som noe nytt (selvplagiat)å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisningerå ha skaffet seg adgang til vurdering ved å ha fusket på prøve eller lignende som er vilkår for å gjennomføre vurderingpå uriktig grunnlag ha fått godkjenning for deltakelse i obligatorisk undervisning eller andre obligatoriske aktiviteterureglementert samarbeid mellom studenter eller grupper av kandidatermanipulering av en besvarelse etter at den er leverturedelige handlinger eller forhold som tar sikte på å gi eller kan gi studenten et uberettiget fortrinn i tilknytning til oppfyllelse av vilkår for vurderinghandlinger som på andre måter kan bidra til at studentens kunnskaper og ferdigheter ikke blir prøvet og vurdert på en upartisk og faglig betryggende måte (jf. [§ 4-1](forskrift/2024-06-18-1057/§4-1)).
+(2) Som fusk regnes eksempelvis:
+
+1. å ha ulovlige hjelpemidler tilgjengelig under vurdering
+2. å presentere andres arbeid som sitt eget
+3. å presentere eget tidligere arbeid, som har gitt uttelling i form av studiepoeng eller rett til å gjennomføre vurdering, som noe nytt (selvplagiat)
+4. å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger
+5. å ha skaffet seg adgang til vurdering ved å ha fusket på prøve eller lignende som er vilkår for å gjennomføre vurdering
+6. på uriktig grunnlag ha fått godkjenning for deltakelse i obligatorisk undervisning eller andre obligatoriske aktiviteter
+7. ureglementert samarbeid mellom studenter eller grupper av kandidater
+8. manipulering av en besvarelse etter at den er levert
+9. uredelige handlinger eller forhold som tar sikte på å gi eller kan gi studenten et uberettiget fortrinn i tilknytning til oppfyllelse av vilkår for vurdering
+10. handlinger som på andre måter kan bidra til at studentens kunnskaper og ferdigheter ikke blir prøvet og vurdert på en upartisk og faglig betryggende måte (jf. [§ 4-1](forskrift/2024-06-18-1057/§4-1)).
 
 (3) Forsøk på og medvirkning til fusk kan sanksjoneres på samme måte som fusk.
 

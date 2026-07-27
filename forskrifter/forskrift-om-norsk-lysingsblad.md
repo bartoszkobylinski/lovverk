@@ -15,7 +15,7 @@ xml_hash: "59fef29c0ca3527134016c270bbcb23d165af0890f2098b6514adfda1b7c5b41"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,18 @@ Etter den nye ordning vil rubrikken for proklamaer eksempelvis få følgende uts
 
 *Proklamaer*
 
-Krav etter avdøde må om kravet ikke skal tapes, meldes innen 3 måneder til den som er nevnt nedenfor:gangs innrykking:Bakken, Peder, fisker, Ballangen. Steigen skifterett, Narvik.Gjertsen, Rolf, lærer, Storgt. 17, Haugesund, i uskiftet bo med før avdøde hustru Gerd. Bokholder Sverre Gjertsen, Storgt. 17, Haugesund.Moløkken, Nikoline, føderådsenke, Gransherad. Tinn og Heddal skifterett, Notodden.Røsvik, Johannes, kjøpmann, Prinsensgt. 20, Oslo, i felleseie med gjenlevende hustru Othilie. Sakfører Peder Ås, Grubbegt. 1, Oslo.gangs innrykking:Flessvik, Ingvald, gårdbruker, Feiring. Eidsvoll skifterett, Eidsvoll.Uthaug, Inga, rentenist, Havnegt. 11, Tromsø, i uskiftet bo med før avdød mann Olav. Skipsfører Olav Uthaug, Storgt. 7, Tromsø.
+Krav etter avdøde må om kravet ikke skal tapes, meldes innen 3 måneder til den som er nevnt nedenfor:
+
+1. gangs innrykking:
+
+   - Bakken, Peder, fisker, Ballangen. Steigen skifterett, Narvik.
+   - Gjertsen, Rolf, lærer, Storgt. 17, Haugesund, i uskiftet bo med før avdøde hustru Gerd. Bokholder Sverre Gjertsen, Storgt. 17, Haugesund.
+   - Moløkken, Nikoline, føderådsenke, Gransherad. Tinn og Heddal skifterett, Notodden.
+   - Røsvik, Johannes, kjøpmann, Prinsensgt. 20, Oslo, i felleseie med gjenlevende hustru Othilie. Sakfører Peder Ås, Grubbegt. 1, Oslo.
+2. gangs innrykking:
+
+   - Flessvik, Ingvald, gårdbruker, Feiring. Eidsvoll skifterett, Eidsvoll.
+   - Uthaug, Inga, rentenist, Havnegt. 11, Tromsø, i uskiftet bo med før avdød mann Olav. Skipsfører Olav Uthaug, Storgt. 7, Tromsø.
 
 En har funnet å kunne fastsette ens betaling for alle innrykkinger. Prisen vil inntil videre være kr. 3 pr. innrykking.
 

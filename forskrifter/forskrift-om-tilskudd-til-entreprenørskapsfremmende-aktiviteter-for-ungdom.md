@@ -42,7 +42,15 @@ Tilskudd kan gis til virksomheter som tilbyr aktiviteter som fremmer målet for 
 
 Søknad om tilskudd skal sendes til forvalteren av tilskuddsordningen innen den søknadsfristen som er fastsatt i kunngjøringen.
 
-Søknaden skal inneholdevirksomhetens organisasjonsnummer,beskrivelse av aktiviteten, herunder begrunnet informasjon om aktiviteten det søkes om midler til er en integrert del av deltakernes ordinære videregående opplæring, på hvilken måte i hvilket omfang og i hvilket fag,plan for gjennomføring av aktiviteten (tidspunkt og skoler),budsjett og finansieringsplan, herunder oversikt over andre finansieringskilder og eventuelle samarbeidspartnere,angivelse av geografisk nedslagsfelt,dokumentasjon på virksomhetens kapasitet og kompetanse til å gjennomføre aktivitetene det søkes om midler til å gjennomføre,dokumentasjon på nødvendige etiske retningslinjer og rutiner som ivaretar tryggheten til barn og unge i aktivitetene.
+Søknaden skal inneholde
+
+1. virksomhetens organisasjonsnummer,
+2. beskrivelse av aktiviteten, herunder begrunnet informasjon om aktiviteten det søkes om midler til er en integrert del av deltakernes ordinære videregående opplæring, på hvilken måte i hvilket omfang og i hvilket fag,
+3. plan for gjennomføring av aktiviteten (tidspunkt og skoler),
+4. budsjett og finansieringsplan, herunder oversikt over andre finansieringskilder og eventuelle samarbeidspartnere,
+5. angivelse av geografisk nedslagsfelt,
+6. dokumentasjon på virksomhetens kapasitet og kompetanse til å gjennomføre aktivitetene det søkes om midler til å gjennomføre,
+7. dokumentasjon på nødvendige etiske retningslinjer og rutiner som ivaretar tryggheten til barn og unge i aktivitetene.
 
 Forvalter av tilskuddsordningen kan kreve at søkeren gir flere opplysninger dersom det er nødvendig for å vurdere søknaden.
 
@@ -50,7 +58,13 @@ Forvalter av tilskuddsordningen kan kreve at søkeren gir flere opplysninger der
 
 Tilskudd etter denne forskriften skal gå til utvikling eller gjennomføring av aktiviteter rettet mot målgruppen, jf. [§ 2](forskrift/2024-04-15-640/§2).
 
-Aktivitetene skalfremme kunnskap om entreprenørskap,fokusere på innovasjon,gjennomføres i samarbeid med utdanningsinstitusjon og næringsliv,forutsette egenaktivitet for eleven,ha et nasjonalt eller regionalt nedslagsfelt.
+Aktivitetene skal
+
+1. fremme kunnskap om entreprenørskap,
+2. fokusere på innovasjon,
+3. gjennomføres i samarbeid med utdanningsinstitusjon og næringsliv,
+4. forutsette egenaktivitet for eleven,
+5. ha et nasjonalt eller regionalt nedslagsfelt.
 
 Aktiviteter med lengre varighet prioriteres. Med lengre varighet menes at aktiviteten gjennomføres utover en skoledag. Driftsutgifter som søkes dekket skal være på et rimelig nivå sett i forhold til aktivitetene som gjennomføres. Med driftsutgifter menes utgifter til administrasjon av aktiviteten slik den er beskrevet i søknaden.
 
@@ -60,7 +74,12 @@ Tilskuddet må være nødvendig for gjennomføringen av aktiviteten.
 
 Vedtak om tilskudd fattes av tilskuddsforvalter etter en samlet vurdering av søknaden.
 
-Søknader om tilskudd vurderes på bakgrunn avhvor godt virksomhetens aktiviteter og tiltak vurderes å bidra til å nå målet for ordningen, jf. [§ 1](forskrift/2024-04-15-640/§1),økonomisk støtte virksomheten mottar, eller vil motta, fra andre offentlige instanser til samme formål som i søknaden,om og ev hvordan aktiviteten er integrert i ordinær videregående opplæring,hvor mange skoler og elever som antas å kunne delta i aktiviteten.
+Søknader om tilskudd vurderes på bakgrunn av
+
+1. hvor godt virksomhetens aktiviteter og tiltak vurderes å bidra til å nå målet for ordningen, jf. [§ 1](forskrift/2024-04-15-640/§1),
+2. økonomisk støtte virksomheten mottar, eller vil motta, fra andre offentlige instanser til samme formål som i søknaden,
+3. om og ev hvordan aktiviteten er integrert i ordinær videregående opplæring,
+4. hvor mange skoler og elever som antas å kunne delta i aktiviteten.
 
 Den samlede rammen for tilskuddsordningen følger av Stortingets årlige budsjettvedtak. Innenfor denne rammen skal tilskuddsforvalteren søke å bidra til en god geografisk fordeling av aktivitetstilbudet.
 
@@ -72,7 +91,12 @@ Med forbehold om Stortingets årlige budsjettvedtak, kan det gis tilskudd for in
 
 Tilskuddsmottakeren skal levere rapport og regnskap til tilskuddsforvalteren om hvordan tilskuddet har blitt brukt. Fristen for å sende inn regnskap og rapport bestemmes av tilskuddsforvalteren og fremgår av tilskuddsbrevet. Rapporten må inneholde informasjon som gjør det mulig å vurdere måloppnåelse for tilskuddet. For å avklare måloppnåelse kan forvalteren stille oppfølgende krav til rapporteringen fra enkeltmottakere av tilskudd. Særskilte krav til rapporteringen vil fremgå av tilskuddsbrevet eller inngå som en del av oppfølgingen av rapporten.
 
-Måloppnåelsen for tilskuddet vurderes ut fraantall skoler som har takket ja versus nei til å ta i bruk aktivitetene ut fra planen levert i henhold til [§ 5](forskrift/2024-04-15-640/§5) andre ledd bokstav b,antall elever som har deltatt på aktiviteter,næringslivets involvering i den enkelte aktiviteten,varighet på aktivitetene.
+Måloppnåelsen for tilskuddet vurderes ut fra
+
+1. antall skoler som har takket ja versus nei til å ta i bruk aktivitetene ut fra planen levert i henhold til [§ 5](forskrift/2024-04-15-640/§5) andre ledd bokstav b,
+2. antall elever som har deltatt på aktiviteter,
+3. næringslivets involvering i den enkelte aktiviteten,
+4. varighet på aktivitetene.
 
 Forvalteren av tilskuddsordningen kan kreve at søkeren gir flere opplysninger som er nødvendige for å vurdere måloppnåelsen.
 

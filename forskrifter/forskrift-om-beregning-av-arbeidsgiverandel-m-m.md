@@ -32,7 +32,18 @@ Departementet godkjenner nærmere retningslinjer fastsatt av Statens pensjonskas
 
 ## § 2. Definisjoner
 
-I denne forskriften betyr:*Medlemsvirksomhet:* En virksomhet som har pensjonsordning i Statens pensjonskasse.*Åpningsreserve:* Verdien av medlemsvirksomhetens forsikringsmessige avsetninger på tidspunktet åpningsreserven gjelder fra.*Fiktivt fond:* Estimering av midler som skal dekke beregnede forsikringsmessige avsetninger på tidspunktet for åpningsreserven, samt senere innbetalt premie og tildelt avkastning for å dekke endringer i pensjonsforpliktelsene.*Ordinær årspremie:* Premie som skal dekke ett års opptjening av de beregnede pensjonsforpliktelsene, herunder sparepremie og risikopremie.*Administrasjonspremie:* Premie for å dekke Statens pensjonskasses administrasjonskostnader.*Forsikringstekniske prinsipper:* Forsikringsmessige bransjestandarder for utføring av forsikringstekniske beregninger.*Fellesordning:* Premien til et antall medlemsvirksomheter beregnes samlet og utjevnes over fellesskapet.*Forsikringsteknisk oppgjør:* Beregning av økonomisk status i medlemsvirksomhetenes pensjonsordning ved årets utløp.*Underfinansiering:* Det fiktive fondet er lavere enn det som kreves for å dekke de beregnede pensjonsforpliktelsene.*Overfinansiering:* Det fiktive fondet er høyere enn det som kreves for å dekke de beregnede pensjonsforpliktelsene.
+I denne forskriften betyr:
+
+1. *Medlemsvirksomhet:* En virksomhet som har pensjonsordning i Statens pensjonskasse.
+2. *Åpningsreserve:* Verdien av medlemsvirksomhetens forsikringsmessige avsetninger på tidspunktet åpningsreserven gjelder fra.
+3. *Fiktivt fond:* Estimering av midler som skal dekke beregnede forsikringsmessige avsetninger på tidspunktet for åpningsreserven, samt senere innbetalt premie og tildelt avkastning for å dekke endringer i pensjonsforpliktelsene.
+4. *Ordinær årspremie:* Premie som skal dekke ett års opptjening av de beregnede pensjonsforpliktelsene, herunder sparepremie og risikopremie.
+5. *Administrasjonspremie:* Premie for å dekke Statens pensjonskasses administrasjonskostnader.
+6. *Forsikringstekniske prinsipper:* Forsikringsmessige bransjestandarder for utføring av forsikringstekniske beregninger.
+7. *Fellesordning:* Premien til et antall medlemsvirksomheter beregnes samlet og utjevnes over fellesskapet.
+8. *Forsikringsteknisk oppgjør:* Beregning av økonomisk status i medlemsvirksomhetenes pensjonsordning ved årets utløp.
+9. *Underfinansiering:* Det fiktive fondet er lavere enn det som kreves for å dekke de beregnede pensjonsforpliktelsene.
+10. *Overfinansiering:* Det fiktive fondet er høyere enn det som kreves for å dekke de beregnede pensjonsforpliktelsene.
 
 > Endret ved [forskrift 2 des 2014 nr. 1501](forskrift/2014-12-02-1501) (i kraft 1 jan 2015).
 

@@ -15,7 +15,7 @@ xml_hash: "5b34bd96fc34688112528202a889cf24fc87867c8063815413c34ba79769753e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,12 @@ eu_basis: []
 
 Utdanningen som nevnt i [regnskapsførerloven § 3-1](lov/2022-12-16-90/§3-1) første og andre ledd skal oppfylle anbefalt plan for regnskapsførerutdanning fastsatt av UHR-Økonomi og administrasjon.
 
-Følgende emner skal dekkes av utdanningen:finansregnskap og bokføringskatte- og avgiftsrettforetaksrettregnskapsførerregelverket, regnskapsorganisering og forretningsforståelse.
+Følgende emner skal dekkes av utdanningen:
+
+1. finansregnskap og bokføring
+2. skatte- og avgiftsrett
+3. foretaksrett
+4. regnskapsførerregelverket, regnskapsorganisering og forretningsforståelse.
 
 Utdanningen skal dokumenteres med fullstendig vitnemål og karakterutskrift for alle aktuelle eksamener. Det skal fremgå når eksamenene er avlagt. Dokumentasjonen skal vise hvilke eksamener som dekker kravet i andre ledd.
 

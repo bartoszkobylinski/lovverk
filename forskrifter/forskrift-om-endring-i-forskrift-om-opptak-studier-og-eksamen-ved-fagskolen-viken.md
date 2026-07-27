@@ -15,7 +15,7 @@ xml_hash: "7f9f1806473dd5b2c92f3f3618f8dce6078999100e9a48643f0c69b2f5b95452"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,11 @@ Ny [§ 1-4](forskrift/2021-06-14-1978/§1-4) skal lyde:
 
 (4) For ettårige utdanninger på minimum 60 studiepoeng som tilbys på heltid, eller toårige deltidsutdanninger på normert tid, kan det innvilges inntil ett år forlenget studierett. Det innvilges ikke forlenget studierett for studier av kortere varighet.
 
-(5) Studieretten opphører når studenten:skriftlig bekrefter at vedkommende trekker seg fra studiethar fullført studiet og vitnemål eller karakterutskrift er utstedt, ellermister studieretten, jf. [§ 2-8](forskrift/2021-06-14-1978/§2-8).
+(5) Studieretten opphører når studenten:
+
+1. skriftlig bekrefter at vedkommende trekker seg fra studiet
+2. har fullført studiet og vitnemål eller karakterutskrift er utstedt, eller
+3. mister studieretten, jf. [§ 2-8](forskrift/2021-06-14-1978/§2-8).
 
 [§ 2-2 første ledd](forskrift/2021-06-14-1978/§2-2/ledd/1) skal lyde:
 

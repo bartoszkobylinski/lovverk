@@ -32,7 +32,10 @@ Måloppnåelse vurderes med utgangspunkt i om tildelte tilskudd bidrar til økt 
 
 ## § 3. Hvem som kan søke om tilskudd
 
-De som kan søke om tilskudd erfrivillige medlemsorganisasjoner som er registrert i Enhetsregisteret og som arbeider med aktivitetsfremmende tiltak for friluftsliv.interkommunale friluftsråd og Friluftsrådenes Landsforbund.
+De som kan søke om tilskudd er
+
+1. frivillige medlemsorganisasjoner som er registrert i Enhetsregisteret og som arbeider med aktivitetsfremmende tiltak for friluftsliv.
+2. interkommunale friluftsråd og Friluftsrådenes Landsforbund.
 
 ## § 4. Hva det kan tildeles tilskudd til
 
@@ -44,9 +47,18 @@ Det kan også gis tilskudd til informasjonstiltak om rettigheter og plikter ette
 
 ## § 5. Prioriteringer for tilskuddsordningen
 
-Tilskuddsordningen prioriterer aktiviteter og tiltak som imøtekommer en eller flere av følgende kriterier:er lite ressurskrevende og lett tilgjengelig for ulike brukergruppergjennomføres i nærmiljøet med særlig vekt på byer og tettstederbidrar til varig deltakelse i friluftsliv.
+Tilskuddsordningen prioriterer aktiviteter og tiltak som imøtekommer en eller flere av følgende kriterier:
 
-Aktiviteter og tiltak som er rettet mot en eller flere av følgende grupper er prioritert:barn, unge og barnefamilierpersoner med nedsatt funksjonsevnepersoner med innvandrerbakgrunnpersoner som er lite fysisk aktive.
+- er lite ressurskrevende og lett tilgjengelig for ulike brukergrupper
+- gjennomføres i nærmiljøet med særlig vekt på byer og tettsteder
+- bidrar til varig deltakelse i friluftsliv.
+
+Aktiviteter og tiltak som er rettet mot en eller flere av følgende grupper er prioritert:
+
+- barn, unge og barnefamilier
+- personer med nedsatt funksjonsevne
+- personer med innvandrerbakgrunn
+- personer som er lite fysisk aktive.
 
 I vurderingen av søknader til friluftslivsaktivitet vil forventet antall deltakere tillegges vekt. Det vil også tillegges vekt om aktiviteten vil være tilgjengelig for mange innenfor den aktuelle målgruppen eller om den kun er tilgjengelig for et begrenset antall.
 
@@ -58,7 +70,15 @@ Det skal legges til rette for at kostnader, som for eksempel deltakeravgift og l
 
 Søknad om tilskudd skal sendes i Miljødirektoratets elektroniske søknadssenter. Søknadsfristen fastsettes og kunngjøres av Miljødirektoratet.
 
-Søknaden skal inneholde informasjon omsøkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson.hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningensøknadsbeløpdetaljert budsjett og en komplett finansieringsplan, der også eventuell annen finansiering kommer frem, herunder tilskudd fra andre offentlige instanseregenfinansiering og /eller egen arbeidsinnsats (dugnad)opplysning om søker også utøver økonomisk aktivitet, jf. [§ 10](forskrift/2023-11-15-1832/§10)om søker har søkt eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaket.
+Søknaden skal inneholde informasjon om
+
+1. søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson.
+2. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningen
+3. søknadsbeløp
+4. detaljert budsjett og en komplett finansieringsplan, der også eventuell annen finansiering kommer frem, herunder tilskudd fra andre offentlige instanser
+5. egenfinansiering og /eller egen arbeidsinnsats (dugnad)
+6. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 10](forskrift/2023-11-15-1832/§10)
+7. om søker har søkt eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte tiltaket.
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
@@ -66,11 +86,18 @@ Nye søkere må legge ved organisasjonens vedtekter, siste årsmelding, regnskap
 
 ## § 7. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
-Miljødirektoratet og fylkeskommunen kankreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utleveregå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Miljødirektoratet og fylkeskommunen kan
+
+1. kreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 8. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til Miljødirektoratet eller fylkeskommunen dersomsøker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysningeruberettiget tilskudd er utbetalt.
+Søker plikter straks å melde fra til Miljødirektoratet eller fylkeskommunen dersom
+
+1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+2. uberettiget tilskudd er utbetalt.
 
 ## § 9. Behandling av søknad om tilskudd
 

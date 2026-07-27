@@ -28,7 +28,10 @@ Formålet med denne forskriften er å sikre brukerfinansiering av Parkeringsklag
 
 ## § 2. Plikt til å bidra til å finansiere Parkeringsklagenemnda
 
-Følgende skal bidra til å finansiere Parkeringsklagenemnda:Parkeringsvirksomhet (foretak, enkeltpersonforetak eller forvaltningsorgan) som ilegger kontrollsanksjon, jf. [parkeringsforskriften § 36](forskrift/2016-03-18-260/§36).Andre (virksomhet eller person) som ilegger sanksjon i henhold til [parkeringsforskriften § 3](forskrift/2016-03-18-260/§3) andre ledd andre og tredje punktum eller som håndhever parkeringsrestriksjoner etter [§ 3](forskrift/2016-12-20-1787/§3) tredje ledd inkludert fjerningsvirksomheter som fjerner etter [parkeringsforskriften § 38](forskrift/2016-03-18-260/§38).
+Følgende skal bidra til å finansiere Parkeringsklagenemnda:
+
+- Parkeringsvirksomhet (foretak, enkeltpersonforetak eller forvaltningsorgan) som ilegger kontrollsanksjon, jf. [parkeringsforskriften § 36](forskrift/2016-03-18-260/§36).
+- Andre (virksomhet eller person) som ilegger sanksjon i henhold til [parkeringsforskriften § 3](forskrift/2016-03-18-260/§3) andre ledd andre og tredje punktum eller som håndhever parkeringsrestriksjoner etter [§ 3](forskrift/2016-12-20-1787/§3) tredje ledd inkludert fjerningsvirksomheter som fjerner etter [parkeringsforskriften § 38](forskrift/2016-03-18-260/§38).
 
 > Endret ved [forskrift 21 des 2017 nr. 2359](forskrift/2017-12-21-2359) (i kraft 1 jan 2018).
 

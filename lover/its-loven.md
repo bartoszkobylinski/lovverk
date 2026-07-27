@@ -41,7 +41,16 @@ Loven gjelder ikke for saker som omhandler nasjonal sikkerhet eller som er nødv
 
 ## § 3. Definisjoner
 
-I denne loven betyr:*intelligente transportsystemer (ITS)*: systemer for anvendelse av informasjons- og kommunikasjonsteknologi for vegtransport, herunder infrastruktur, kjøretøy og brukere, og innenfor trafikkstyring og mobilitetsstyring, samt for grensesnitt mot andre transportformer,*ITS-applikasjon*: et praktisk verktøy for anvendelsen av ITS,*ITS-tjeneste:* fremskaffelse av en ITS-applikasjon innenfor en veldefinert organisatorisk og driftsmessig ramme med sikte på å øke brukerens sikkerhet, effektivitet og komfort og/eller forenkle eller understøtte transporter og reiser,*grensesnitt*: innretning mellom systemer som muliggjør forbindelse og kommunikasjon mellom systemene,*samvirkningsevne*: den evne systemene og de underliggende forretningsprosessene har til å utveksle data og dele informasjon og kunnskap,*kontinuitet*: evnen til å sikre sømløse tjenester,*kompatibilitet*: en innretnings eller et systems generelle evne til uten endringer å fungere sammen med en annen innretning eller et annet system,*ITS-bruker* – alle brukere av ITS-applikasjoner eller -tjenester, herunder passasjerer, myke trafikanter, brukere og operatører av veitransportinfrastruktur, vognparkforvaltere og operatører av redningstjenester.
+I denne loven betyr:
+
+1. *intelligente transportsystemer (ITS)*: systemer for anvendelse av informasjons- og kommunikasjonsteknologi for vegtransport, herunder infrastruktur, kjøretøy og brukere, og innenfor trafikkstyring og mobilitetsstyring, samt for grensesnitt mot andre transportformer,
+2. *ITS-applikasjon*: et praktisk verktøy for anvendelsen av ITS,
+3. *ITS-tjeneste:* fremskaffelse av en ITS-applikasjon innenfor en veldefinert organisatorisk og driftsmessig ramme med sikte på å øke brukerens sikkerhet, effektivitet og komfort og/eller forenkle eller understøtte transporter og reiser,
+4. *grensesnitt*: innretning mellom systemer som muliggjør forbindelse og kommunikasjon mellom systemene,
+5. *samvirkningsevne*: den evne systemene og de underliggende forretningsprosessene har til å utveksle data og dele informasjon og kunnskap,
+6. *kontinuitet*: evnen til å sikre sømløse tjenester,
+7. *kompatibilitet*: en innretnings eller et systems generelle evne til uten endringer å fungere sammen med en annen innretning eller et annet system,
+8. *ITS-bruker* – alle brukere av ITS-applikasjoner eller -tjenester, herunder passasjerer, myke trafikanter, brukere og operatører av veitransportinfrastruktur, vognparkforvaltere og operatører av redningstjenester.
 
 ## § 4. Krav til ITS-applikasjoner og -tjenester
 

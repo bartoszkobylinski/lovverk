@@ -15,7 +15,7 @@ xml_hash: "0c045066f28e7331f29472916e14b39615e742962aa52a2370653f80de08c448"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,12 @@ Kandidaten kan oppdatere sin kunnskap innenfor fagfeltet, både gjennom informas
 
 *Ferdigheter*
 
-Innen praktiske og teoretiske problemstillinger i finansiell revisjon, regnskap, skatt- og avgiftsrett og rettslære, kan kandidatenanvende analysemetoder,anvende relevante resultater fra forsknings- og utviklingsarbeidanvende annen relevant kunnskap, ogbegrunne sine valg.
+Innen praktiske og teoretiske problemstillinger i finansiell revisjon, regnskap, skatt- og avgiftsrett og rettslære, kan kandidaten
+
+- anvende analysemetoder,
+- anvende relevante resultater fra forsknings- og utviklingsarbeid
+- anvende annen relevant kunnskap, og
+- begrunne sine valg.
 
 Kandidaten behersker sentrale og aktuelle metoder, teknikker og uttrykksformer i regnskap og revisjon.
 

@@ -28,7 +28,13 @@ eu_basis: []
 
 Formålet med denne lova er å medverke til at det kan opprettast og drivast private skolar, slik at foreldre og elevar kan velje andre skolar enn dei offentlege, jf. [menneskerettsloven § 2](lov/1999-05-21-30/§2) nr. 2.
 
-Opplæringa ved skolar som blir godkjende etter lova her, skal ta sikte på:å utvikle personlegdommen, talentet og dei mentale og fysiske evnene til elevane,å utvikle respekt for menneskerettane, grunnleggjande fridommar og for dei prinsippa som pakta til Dei sameinte nasjonane vernar om,å utvikle respekt for foreldra og den kulturelle identiteten, språket og verdiane til eleven, for dei nasjonale verdiane i det landet der eleven bur, og respekt for kulturar som er ulike hans eller hennar eigen,å førebu eleven til eit ansvarleg liv i eit fritt samfunn i ei ånd av forståing, fred, toleranse, likestilling mellom kjønna og venskap mellom alle folkeslag, etniske, nasjonale og religiøse grupper og personar som høyrer til urfolk,å fremje respekten for naturmiljøet.
+Opplæringa ved skolar som blir godkjende etter lova her, skal ta sikte på:
+
+1. å utvikle personlegdommen, talentet og dei mentale og fysiske evnene til elevane,
+2. å utvikle respekt for menneskerettane, grunnleggjande fridommar og for dei prinsippa som pakta til Dei sameinte nasjonane vernar om,
+3. å utvikle respekt for foreldra og den kulturelle identiteten, språket og verdiane til eleven, for dei nasjonale verdiane i det landet der eleven bur, og respekt for kulturar som er ulike hans eller hennar eigen,
+4. å førebu eleven til eit ansvarleg liv i eit fritt samfunn i ei ånd av forståing, fred, toleranse, likestilling mellom kjønna og venskap mellom alle folkeslag, etniske, nasjonale og religiøse grupper og personar som høyrer til urfolk,
+5. å fremje respekten for naturmiljøet.
 
 Det skal leggjast vekt på å skape godt arbeidsmiljø og gode samarbeidsformer mellom lærarar og elevar og mellom skole og heim. Alle som er knytte til skolen, skal arbeide for å hindre at elevane kjem til skade eller blir utsette for krenkjande ord eller handlingar.
 
@@ -70,7 +76,15 @@ Med skole i denne lova er det meint private skolar som er godkjent etter [§ 2-1
 
 Departementet kan godkjenne private skolar og driftsendringar ved godkjende private skolar. Departementet kan godkjenne at ein grunnskole flyttar verksemda si til ein annan kommune eller at ein vidaregåande skole flyttar verksemda si til ein annan fylkeskommune. Ein skole skal ikkje få godkjenning dersom etableringa vil medføre negative konsekvensar for det offentlege skoletilbodet, eller andre særlege grunnar tilseier at skolen ikkje bør godkjennast. Vertskommunen eller vertsfylket skal få høve til å gi fråsegn før departementet gjer vedtak i saka, og dei kan klage på departementet sitt vedtak. Departementet skal leggje vesentleg vekt på fråsegna til vertskommunen eller vertsfylket. Godkjende skolar har rett til statstilskot etter [§ 6-1](lov/2003-07-04-84/§6-1) og til å drive verksemd etter lova.
 
-Skolane skal drive verksemda si på følgjande grunnlag:livssynanerkjend pedagogisk retninginternasjonaltsærskilt tilrettelagd vidaregåande opplæring i kombinasjon med toppidrettnorsk grunnskoleopplæring i utlandetsærskilt tilrettelagd opplæring for elevar med dokumenterte behovvidaregåande opplæring i tradisjonshandverksfag.
+Skolane skal drive verksemda si på følgjande grunnlag:
+
+1. livssyn
+2. anerkjend pedagogisk retning
+3. internasjonalt
+4. særskilt tilrettelagd vidaregåande opplæring i kombinasjon med toppidrett
+5. norsk grunnskoleopplæring i utlandet
+6. særskilt tilrettelagd opplæring for elevar med dokumenterte behov
+7. vidaregåande opplæring i tradisjonshandverksfag.
 
 For å få godkjenning på grunnlag av livssyn etter andre ledd bokstav a skal skolen ha ei tilknyting til livssynet det blir søkt om godkjenning på grunnlag av.
 
@@ -318,7 +332,12 @@ Styret skal sørgje for at skolen driv eit kontinuerleg og systematisk arbeid fo
 
 ### § 3-10 b. Fysiske inngrep for å avverje skade m.m.
 
-Tilsette i skolen kan, når andre tiltak ikkje er tilstrekkelege, gripe inn fysisk mot elevar for å avverje at ein elevkrenkjer ein person fysisk eller psykisk eller utsett seg sjølv for fysisk fareskader eigedomviser ei åtferd som er sterkt fornedrande for eleven sjølvvesentleg forstyrrar opplæringa til andre elevar
+Tilsette i skolen kan, når andre tiltak ikkje er tilstrekkelege, gripe inn fysisk mot elevar for å avverje at ein elev
+
+1. krenkjer ein person fysisk eller psykisk eller utsett seg sjølv for fysisk fare
+2. skader eigedom
+3. viser ei åtferd som er sterkt fornedrande for eleven sjølv
+4. vesentleg forstyrrar opplæringa til andre elevar
 
 Det fysiske inngrepet kan ikkje gå lenger enn nødvendig, og det skal stå i eit rimeleg forhold til dei interessene som skal varetakast.
 
@@ -452,7 +471,14 @@ Skolen skal sørgje for å ha tilgang på vikarar ved vanleg og venta fråvær.
 
 Som øvste ansvarlege organ skal kvar skole ha eit styre. Skolen sitt styre skal oppnemnast i samsvar med det rettsgrunnlaget skolen blir driven etter.
 
-Rett til å vere til stades på møte i styret, til å seie meininga si og få denne tilført protokollen, har:ein representant oppnemnd av vertskommunen når det gjeld ein grunnskole, ein representant oppnemnd av fylkeskommunen når det gjeld ein vidaregåande skole,ein representant frå elevane,ein representant frå foreldra i grunnskolar,ein representant for undervisningspersonalet ved skolen,ein representant for andre tilsette ved skolen,dagleg leiar av skolen.
+Rett til å vere til stades på møte i styret, til å seie meininga si og få denne tilført protokollen, har:
+
+1. ein representant oppnemnd av vertskommunen når det gjeld ein grunnskole, ein representant oppnemnd av fylkeskommunen når det gjeld ein vidaregåande skole,
+2. ein representant frå elevane,
+3. ein representant frå foreldra i grunnskolar,
+4. ein representant for undervisningspersonalet ved skolen,
+5. ein representant for andre tilsette ved skolen,
+6. dagleg leiar av skolen.
 
 Departementet kan i særskilde tilfelle og etter søknad gjere unntak frå andre ledd.
 
@@ -464,7 +490,19 @@ Ved behandling av saker der det gjeld lovfesta teieplikt, skal styret sørgje fo
 
 Styret har den øvste leiinga av skolen og skal sjå til at skolen blir driven i samsvar med gjeldande lover og forskrifter.
 
-Styret skal:sjå til at elevar i opplæringspliktig alder som blir tekne inn ved skolen, får oppfylt retten til grunnskoleopplæring, og melde frå til foreldra og heimkommunen til elevar som over lengre tid ikkje møter fram til undervisninga utan lovleg grunn,fastsetje storleiken på skolepengane og om grunnskolen skal ha ei ordning med graderte skolepengar og reduserte skolepengar til hushaldningar med fleire barn på skolen,vedta budsjett og rekneskap for skolen,fastsetje inntaks- og skolereglar for skolen,fremje saker om pålagt skolebyte etter [opplæringslova § 13-2](lov/2023-06-09-30/§13-2), jf. [§ 2-4](lov/2003-07-04-84/§2-4) andre ledd,ha ansvar for at skolen har ei forsvarleg økonomi- og rekneskapsforvaltning,sjå til at offentlege tilskot og skolepengar kjem elevane til gode,sjå til at offentlege krav og føresetnader for verksemda blir oppfylte.sørgje for å ha rett og nødvendig kompetanse i verksemda. Styret skal sørgje for at lærarar, dagleg leiar og andre tilsette i skolen får høve til å utvikle seg fagleg og pedagogisk så dei kan vere på høgd med utviklinga i skolen og samfunnet.tilsetje dagleg leiar.drøfte den årlege rapporten om tilstanden i skolen som er utarbeidd etter [§ 5-2b](lov/2003-07-04-84/§5-2b).
+Styret skal:
+
+1. sjå til at elevar i opplæringspliktig alder som blir tekne inn ved skolen, får oppfylt retten til grunnskoleopplæring, og melde frå til foreldra og heimkommunen til elevar som over lengre tid ikkje møter fram til undervisninga utan lovleg grunn,
+2. fastsetje storleiken på skolepengane og om grunnskolen skal ha ei ordning med graderte skolepengar og reduserte skolepengar til hushaldningar med fleire barn på skolen,
+3. vedta budsjett og rekneskap for skolen,
+4. fastsetje inntaks- og skolereglar for skolen,
+5. fremje saker om pålagt skolebyte etter [opplæringslova § 13-2](lov/2023-06-09-30/§13-2), jf. [§ 2-4](lov/2003-07-04-84/§2-4) andre ledd,
+6. ha ansvar for at skolen har ei forsvarleg økonomi- og rekneskapsforvaltning,
+7. sjå til at offentlege tilskot og skolepengar kjem elevane til gode,
+8. sjå til at offentlege krav og føresetnader for verksemda blir oppfylte.
+9. sørgje for å ha rett og nødvendig kompetanse i verksemda. Styret skal sørgje for at lærarar, dagleg leiar og andre tilsette i skolen får høve til å utvikle seg fagleg og pedagogisk så dei kan vere på høgd med utviklinga i skolen og samfunnet.
+10. tilsetje dagleg leiar.
+11. drøfte den årlege rapporten om tilstanden i skolen som er utarbeidd etter [§ 5-2b](lov/2003-07-04-84/§5-2b).
 
 I andre saker enn dei som følgjer av andre ledd, kan styret med 2/3 fleirtal delegere avgjerdsretten.
 
@@ -476,7 +514,13 @@ Styret skal ha internkontroll for å sikre at krava i denne lova med forskrifter
 
 Internkontrollen skal vere systematisk og tilpassa storleiken på skolen og særpreget, aktivitetane og risikoforholda der.
 
-Ved internkontroll etter denne paragrafen skal styretutarbeide ei beskriving av skolen sine hovudoppgåver, mål og organiseringha nødvendige rutinar og prosedyraravdekkje og følgje opp avvik og risiko for avvikdokumentere internkontrollen i den forma og det omfanget som er nødvendigevaluere og ved behov forbetre skriftlege prosedyrar og andre tiltak for internkontroll.
+Ved internkontroll etter denne paragrafen skal styret
+
+1. utarbeide ei beskriving av skolen sine hovudoppgåver, mål og organisering
+2. ha nødvendige rutinar og prosedyrar
+3. avdekkje og følgje opp avvik og risiko for avvik
+4. dokumentere internkontrollen i den forma og det omfanget som er nødvendig
+5. evaluere og ved behov forbetre skriftlege prosedyrar og andre tiltak for internkontroll.
 
 > Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
 
@@ -604,7 +648,10 @@ Vidaregåande skolar kan ikkje krevje noka form for betaling for opplæringa fr�
 
 ### § 6-3. Krav til bruken av offentlege tilskot og skolepengar
 
-Alle offentlege tilskot og skolepengar skal kome elevane til gode. Dette inneber mellom anna at skolen ikkje kangi utbytte eller på annan måte overføre overskot til eigarane eller deira nærståande, verken når skolen er i drift eller om drifta blir nedlagdpådra seg kostnader i form av leigeutgifter for eigedom eller lokale som tilhører skolens eigarar eller deira nærståande eller på anna måte pådra seg kostnader som kan innebere at alle offentlege tilskot eller eigendelar frå elevane ikkje kjem elevane til gode.
+Alle offentlege tilskot og skolepengar skal kome elevane til gode. Dette inneber mellom anna at skolen ikkje kan
+
+1. gi utbytte eller på annan måte overføre overskot til eigarane eller deira nærståande, verken når skolen er i drift eller om drifta blir nedlagd
+2. pådra seg kostnader i form av leigeutgifter for eigedom eller lokale som tilhører skolens eigarar eller deira nærståande eller på anna måte pådra seg kostnader som kan innebere at alle offentlege tilskot eller eigendelar frå elevane ikkje kjem elevane til gode.
 
 Departementet kan gi nærare forskrift om forbod mot utbytte eller anna overføring som nemnt i første ledd.
 
@@ -614,7 +661,11 @@ Departementet kan gi forskrift om korleis skolane skal dokumentere at første le
 
 ### § 6-4. Statstilskot til kompletterande undervisning
 
-Det kan givast tilskot til kompletterande undervisning til elevar som er i eit ordinært utdanningsløp ved ein grunnskole i utlandet. Tilskotet kan gis fornorske statsborgarar og barn av norske statsborgararEØS-borgarar og barn av EØS-borgarar som har rett til likebehandling med norske statsborgarar etter [EØS-avtalen](lov/1992-11-27-109/eøsl)britiske statsborgarar og barn av britiske statsborgarar som har rett til likebehandling med norske statsborgarar etter [lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union § 3](lov/2020-11-27-131/§3).
+Det kan givast tilskot til kompletterande undervisning til elevar som er i eit ordinært utdanningsløp ved ein grunnskole i utlandet. Tilskotet kan gis for
+
+1. norske statsborgarar og barn av norske statsborgarar
+2. EØS-borgarar og barn av EØS-borgarar som har rett til likebehandling med norske statsborgarar etter [EØS-avtalen](lov/1992-11-27-109/eøsl)
+3. britiske statsborgarar og barn av britiske statsborgarar som har rett til likebehandling med norske statsborgarar etter [lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union § 3](lov/2020-11-27-131/§3).
 
 Det kan ikkje givast tilskot til kompletterande undervisning for elevar ved skole som er godkjend etter lova her.
 
@@ -680,7 +731,10 @@ Avgjerd om bortvising er enkeltvedtak etter [forvaltningsloven § 2](lov/1967-02
 
 ### § 6A-6. Offentlege tilskot, skolepengar mv.
 
-Alle offentlege tilskot og skolepengar skal kome elevane til gode. Dette inneber mellom anna at skolen ikkje kan:gi utbytte eller på annan måte overføre overskot til eigarane eller deira nærståande, verken når skolen er i drift, eller om drifta blir nedlagdpådra seg kostnader i form av leigeutgifter for eigedom eller lokale som tilhøyrer skolens eigarar eller deira nærståande, eller på annan måte pådra seg kostnader som kan innebere at offentlege tilskot eller eigendelar frå elevane ikkje kjem elevane til gode.
+Alle offentlege tilskot og skolepengar skal kome elevane til gode. Dette inneber mellom anna at skolen ikkje kan:
+
+1. gi utbytte eller på annan måte overføre overskot til eigarane eller deira nærståande, verken når skolen er i drift, eller om drifta blir nedlagd
+2. pådra seg kostnader i form av leigeutgifter for eigedom eller lokale som tilhøyrer skolens eigarar eller deira nærståande, eller på annan måte pådra seg kostnader som kan innebere at offentlege tilskot eller eigendelar frå elevane ikkje kjem elevane til gode.
 
 Departementet kan gi forskrift om forbod mot utbytte eller anna overføring som nemnt i første ledd.
 
@@ -694,7 +748,32 @@ Skolane kan påleggje elevane å halde seg med undervisningsmateriell og utstyr 
 
 ### § 6A-7. Andre reglar
 
-Følgjande reglar i denne lova gjeld så langt dei passar for skolar etter dette kapitlet:[§ 1-1](lov/2003-07-04-84/§1-1) andre og tredje ledd om formålet med lova[§ 1-2](lov/2003-07-04-84/§1-2) om verkeområdet[§ 2-2](lov/2003-07-04-84/§2-2) om krav til verksemda til skolen, med unntak av tredje ledd. Dersom ein skole etter dette kapittelet har færre enn 10 elevar tre skoleår i samanheng, fell godkjenninga bort[§ 2-4](lov/2003-07-04-84/§2-4) om krav til skoleanlegg og skolemiljø[§ 3-3](lov/2003-07-04-84/§3-3) tredje ledd om skolegangen[§ 3-4](lov/2003-07-04-84/§3-4) om organisering av elevane i klassar eller basisgrupper[§ 3-4 a](lov/2003-07-04-84/§3-4a) om fjernundervisning[§ 3-4 b](lov/2003-07-04-84/§3-4b) om tilpassa opplæring[§ 3-15](lov/2003-07-04-84/§3-15) om forbod mot bruk av plagg som dekkjer ansiktet[§ 4-1](lov/2003-07-04-84/§4-1) om leiing[§ 4-3](lov/2003-07-04-84/§4-3) om politiattest og forbod mot tilsetjing[§ 5-1](lov/2003-07-04-84/§5-1) om styret, med unntak av bokstavane a og c[§ 5-2](lov/2003-07-04-84/§5-2) om styret sine oppgåver, med unntak av bokstavane a og e[§ 5-2a](lov/2003-07-04-84/§5-2a) om internkontroll[§ 5-2b](lov/2003-07-04-84/§5-2b) første ledd om plikt til å arbeide med kvalitetsutvikling[§ 5 A-5](lov/2003-07-04-84/§5A-5) andre ledd om organisering av skoledemokratiet[§ 5 A-7](lov/2003-07-04-84/§5A-7) om skolereglar[§ 7-1](lov/2003-07-04-84/§7-1) om budsjett, rekneskap og rapportering[§ 7-2](lov/2003-07-04-84/§7-2) om tilsyn m.m.[§ 7-2a](lov/2003-07-04-84/§7-2a) om moglege reaksjonsformer[§ 7-2b](lov/2003-07-04-84/§7-2b) om karantene[§ 7-2 c](lov/2003-07-04-84/§7-2c) om lovbrotsgebyr[§ 7-3](lov/2003-07-04-84/§7-3) om teieplikt[§ 7-9](lov/2003-07-04-84/§7-9) første og femte ledd om behandling av personopplysningar
+Følgjande reglar i denne lova gjeld så langt dei passar for skolar etter dette kapitlet:
+
+1. [§ 1-1](lov/2003-07-04-84/§1-1) andre og tredje ledd om formålet med lova
+2. [§ 1-2](lov/2003-07-04-84/§1-2) om verkeområdet
+3. [§ 2-2](lov/2003-07-04-84/§2-2) om krav til verksemda til skolen, med unntak av tredje ledd. Dersom ein skole etter dette kapittelet har færre enn 10 elevar tre skoleår i samanheng, fell godkjenninga bort
+4. [§ 2-4](lov/2003-07-04-84/§2-4) om krav til skoleanlegg og skolemiljø
+5. [§ 3-3](lov/2003-07-04-84/§3-3) tredje ledd om skolegangen
+6. [§ 3-4](lov/2003-07-04-84/§3-4) om organisering av elevane i klassar eller basisgrupper
+7. [§ 3-4 a](lov/2003-07-04-84/§3-4a) om fjernundervisning
+8. [§ 3-4 b](lov/2003-07-04-84/§3-4b) om tilpassa opplæring
+9. [§ 3-15](lov/2003-07-04-84/§3-15) om forbod mot bruk av plagg som dekkjer ansiktet
+10. [§ 4-1](lov/2003-07-04-84/§4-1) om leiing
+11. [§ 4-3](lov/2003-07-04-84/§4-3) om politiattest og forbod mot tilsetjing
+12. [§ 5-1](lov/2003-07-04-84/§5-1) om styret, med unntak av bokstavane a og c
+13. [§ 5-2](lov/2003-07-04-84/§5-2) om styret sine oppgåver, med unntak av bokstavane a og e
+14. [§ 5-2a](lov/2003-07-04-84/§5-2a) om internkontroll
+15. [§ 5-2b](lov/2003-07-04-84/§5-2b) første ledd om plikt til å arbeide med kvalitetsutvikling
+16. [§ 5 A-5](lov/2003-07-04-84/§5A-5) andre ledd om organisering av skoledemokratiet
+17. [§ 5 A-7](lov/2003-07-04-84/§5A-7) om skolereglar
+18. [§ 7-1](lov/2003-07-04-84/§7-1) om budsjett, rekneskap og rapportering
+19. [§ 7-2](lov/2003-07-04-84/§7-2) om tilsyn m.m.
+20. [§ 7-2a](lov/2003-07-04-84/§7-2a) om moglege reaksjonsformer
+21. [§ 7-2b](lov/2003-07-04-84/§7-2b) om karantene
+22. [§ 7-2 c](lov/2003-07-04-84/§7-2c) om lovbrotsgebyr
+23. [§ 7-3](lov/2003-07-04-84/§7-3) om teieplikt
+24. [§ 7-9](lov/2003-07-04-84/§7-9) første og femte ledd om behandling av personopplysningar
 
 > Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), endra ved lover [11 juni 2021 nr. 80](lov/2021-06-11-80) som retta ved ny kunngjering [25 juni 2021 nr. 2136](forskrift/2021-06-25-2136) (ikr. 1 aug 2021 iflg. [res. 11 juni 2021 nr. 1899](forskrift/2021-06-11-1899)), [9 juni 2023 nr. 30](lov/2023-06-09-30) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028)), [20 juni 2025 nr. 98](lov/2025-06-20-98) (i kraft 1 aug 2025 iflg. [res. 20 juni 2025 nr. 1091](forskrift/2025-06-20-1091)).
 
@@ -794,7 +873,12 @@ Reglane om teieplikt i forvaltningslova gjeld ved behandling av saker etter denn
 
 Alle som utfører tenester eller arbeid etter denne lova, skal i arbeidet sitt vere merksame på forhold som kan føre til tiltak frå barnevernstenesta.
 
-Alle som utfører tenester eller arbeid etter denne lova, skal utan hinder av teieplikta melde frå til barnevernstenesta utan ugrunna opphaldnår det er grunn til å tru at eit barn blir eller kjem til å bli mishandla, utsett for alvorlege manglar ved den daglege omsorga eller annan alvorleg omsorgssviktnår det er grunn til å tru at eit barn har ein livstruande eller annan alvorleg sjukdom eller skade og ikkje kjem til undersøking eller behandling, eller at eit barn med nedsett funksjonsevne eller eit særleg hjelpetrengande barn ikkje får dekt det særlege behovet for behandling eller opplæringnår eit barn set utviklinga si i alvorleg fare i form av alvorleg eller gjentatt kriminalitet, misbruk av rusmiddel eller andre utprega skadelege handlingarnår det er grunn til å tru at eit barn blir eller kjem til å bli utnytta til menneskehandel
+Alle som utfører tenester eller arbeid etter denne lova, skal utan hinder av teieplikta melde frå til barnevernstenesta utan ugrunna opphald
+
+1. når det er grunn til å tru at eit barn blir eller kjem til å bli mishandla, utsett for alvorlege manglar ved den daglege omsorga eller annan alvorleg omsorgssvikt
+2. når det er grunn til å tru at eit barn har ein livstruande eller annan alvorleg sjukdom eller skade og ikkje kjem til undersøking eller behandling, eller at eit barn med nedsett funksjonsevne eller eit særleg hjelpetrengande barn ikkje får dekt det særlege behovet for behandling eller opplæring
+3. når eit barn set utviklinga si i alvorleg fare i form av alvorleg eller gjentatt kriminalitet, misbruk av rusmiddel eller andre utprega skadelege handlingar
+4. når det er grunn til å tru at eit barn blir eller kjem til å bli utnytta til menneskehandel
 
 Alle som utfører tenester eller arbeid etter denne lova, har også plikt til å gi opplysninger etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
 

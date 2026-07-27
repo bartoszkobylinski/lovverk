@@ -42,13 +42,38 @@ Tilskudd skal ikke tildeles foretak i økonomiske vanskeligheter eller som ikke 
 
 ### § 1-3. Definisjoner
 
-I denne forskriften betyr*audiovisuelt verk:* en fiksjonsbasert eller dokumentarisk fremstilling gjennom lyd og bilder i form av film eller serier produsert for offentlig visning eller omsetning.*offentlig tilskudd*: tilskudd som faller inn under EØS-avtalen artikkel 61 (1), herunder tilskudd fra kommuner og fylkeskommuner og offentlige investeringer som ikke er på markedsvilkår. Tilskudd fra overnasjonale organer regnes ikke som offentlig tilskudd.*kulturprodukt*: et audiovisuelt verk som oppfyller minst tre av vilkårene i kulturtesten, jf. [§ 1-4](forskrift/2016-10-31-1264/§1-4).*smalt audiovisuelt verk:* et audiovisuelt verk som oppfyller minst ett av følgende kriterier:har Norge som primærmarked,inneholder mer enn 50 prosent norsk eller samisk dialog,er av tydelig kunstnerisk karakter,bruker et eksperimentelt eller innovativt filmspråk,fokuserer på norsk kultur eller historier, ellerer rettet mot barn eller unge og basert på et originalmanuskript skrevet av norsk manusforfatter.*tilskuddsforvalter*: Norsk filminstitutt, regionale filmsentre eller filmfond.*format:* audiovisuelle verk definert i denne bestemmelsens bokstav g til l.*spillefilm*: fiksjonsbasert audiovisuelt verk med lengde på minimum 60 minutter. Norsk filminstitutt kan i særskilte tilfeller beslutte at filmer med kortere lengde faller inn under definisjonen av spillefilm.*dokumentarfilm*: audiovisuelt verk som har til hensikt å dokumentere eller vise virkelige hendelser.*kortfilm*: fiksjonsbasert audiovisuelt verk med lengde på under 60 minutter.*serie:* drama- og dokumentarserie som definert i denne bestemmelsen bokstav k og l.*dramaserie:* En fiksjonsbasert fremstilling i flere deler med klar innbyrdes tematisk eller motivmessig sammenheng.*dokumentarserie:* En dokumentarisk fremstilling i flere deler med klar innbyrdes tematisk eller motivmessig sammenheng.
+I denne forskriften betyr
+
+1. *audiovisuelt verk:* en fiksjonsbasert eller dokumentarisk fremstilling gjennom lyd og bilder i form av film eller serier produsert for offentlig visning eller omsetning.
+2. *offentlig tilskudd*: tilskudd som faller inn under EØS-avtalen artikkel 61 (1), herunder tilskudd fra kommuner og fylkeskommuner og offentlige investeringer som ikke er på markedsvilkår. Tilskudd fra overnasjonale organer regnes ikke som offentlig tilskudd.
+3. *kulturprodukt*: et audiovisuelt verk som oppfyller minst tre av vilkårene i kulturtesten, jf. [§ 1-4](forskrift/2016-10-31-1264/§1-4).
+4. *smalt audiovisuelt verk:* et audiovisuelt verk som oppfyller minst ett av følgende kriterier:
+
+   1. har Norge som primærmarked,
+   2. inneholder mer enn 50 prosent norsk eller samisk dialog,
+   3. er av tydelig kunstnerisk karakter,
+   4. bruker et eksperimentelt eller innovativt filmspråk,
+   5. fokuserer på norsk kultur eller historier, eller
+   6. er rettet mot barn eller unge og basert på et originalmanuskript skrevet av norsk manusforfatter.
+5. *tilskuddsforvalter*: Norsk filminstitutt, regionale filmsentre eller filmfond.
+6. *format:* audiovisuelle verk definert i denne bestemmelsens bokstav g til l.
+7. *spillefilm*: fiksjonsbasert audiovisuelt verk med lengde på minimum 60 minutter. Norsk filminstitutt kan i særskilte tilfeller beslutte at filmer med kortere lengde faller inn under definisjonen av spillefilm.
+8. *dokumentarfilm*: audiovisuelt verk som har til hensikt å dokumentere eller vise virkelige hendelser.
+9. *kortfilm*: fiksjonsbasert audiovisuelt verk med lengde på under 60 minutter.
+10. *serie:* drama- og dokumentarserie som definert i denne bestemmelsen bokstav k og l.
+11. *dramaserie:* En fiksjonsbasert fremstilling i flere deler med klar innbyrdes tematisk eller motivmessig sammenheng.
+12. *dokumentarserie:* En dokumentarisk fremstilling i flere deler med klar innbyrdes tematisk eller motivmessig sammenheng.
 
 > Endret ved forskrift [19 feb 2021 nr. 509](forskrift/2021-02-19-509).
 
 ### § 1-4. Kulturtesten
 
-Følgende vilkår skal vurderes i kulturtesten:Manuskript eller litterært forelegg er originalskrevet på norsk eller samisk.Hovedtemaet er knyttet til norsk historie, kultur eller samfunnsforhold.Handlingen utspiller seg i Norge eller et annet EØS-land.Verket har et vesentlig bidrag fra opphavsmenn eller utøvende kunstnere bosatt i Norge eller et annet EØS-land.
+Følgende vilkår skal vurderes i kulturtesten:
+
+1. Manuskript eller litterært forelegg er originalskrevet på norsk eller samisk.
+2. Hovedtemaet er knyttet til norsk historie, kultur eller samfunnsforhold.
+3. Handlingen utspiller seg i Norge eller et annet EØS-land.
+4. Verket har et vesentlig bidrag fra opphavsmenn eller utøvende kunstnere bosatt i Norge eller et annet EØS-land.
 
 ### § 1-5. Krav til søknad
 
@@ -84,7 +109,11 @@ Det kan gis tilskudd til utvikling av ideer og manuskripter, til faglig utviklin
 
 ### § 2-2. Krav til søker
 
-For å kunne motta tilskudd etter [§ 2-4](forskrift/2016-10-31-1264/§2-4) må søker være registrert som enkeltpersonsforetak i Enhetsregisteret, og:Ha relevant utdanning på bachelornivå eller høyere innen skapende audiovisuelle fag. Utdanningen skal ha resultert i en eksamensfilm eller et manus i langt format, som manus til spillefilm eller dramaserie. For søkere som skal utvikle et dokumentarisk verk kan også annen utdanning på bachelornivå, blant annet innen journalistikk eller kreative fag, anses relevant, ellerkunne dokumentere yrkeserfaring som regissør eller manusforfatter fra produksjon av audiovisuelle verk med profesjonell distribusjon eller, for dem som søker med et dokumentarisk verk også annen relevant yrkeserfaring fra produksjon av audiovisuelle verk med profesjonell distribusjon, ellerkunne dokumentere yrkeserfaring som regissør eller manusforfatter for et audiovisuelt verk som har mottatt tilskudd fra NFI, regionale filmsentre eller fond, Internasjonalt Samisk Filminstitutt eller andre prioriterte tilskuddsforvaltere.
+For å kunne motta tilskudd etter [§ 2-4](forskrift/2016-10-31-1264/§2-4) må søker være registrert som enkeltpersonsforetak i Enhetsregisteret, og:
+
+1. Ha relevant utdanning på bachelornivå eller høyere innen skapende audiovisuelle fag. Utdanningen skal ha resultert i en eksamensfilm eller et manus i langt format, som manus til spillefilm eller dramaserie. For søkere som skal utvikle et dokumentarisk verk kan også annen utdanning på bachelornivå, blant annet innen journalistikk eller kreative fag, anses relevant, eller
+2. kunne dokumentere yrkeserfaring som regissør eller manusforfatter fra produksjon av audiovisuelle verk med profesjonell distribusjon eller, for dem som søker med et dokumentarisk verk også annen relevant yrkeserfaring fra produksjon av audiovisuelle verk med profesjonell distribusjon, eller
+3. kunne dokumentere yrkeserfaring som regissør eller manusforfatter for et audiovisuelt verk som har mottatt tilskudd fra NFI, regionale filmsentre eller fond, Internasjonalt Samisk Filminstitutt eller andre prioriterte tilskuddsforvaltere.
 
 Med profesjonell distribusjon menes at verket har blitt tilgjengeliggjort ved visning på prioriterte festivaler, gjennom kinodistribusjon, strømmetjenester eller kringkasting. Tilgjengeliggjøring av et filmverk via åpne videodelingsplattformtjenester faller utenfor definisjonen av profesjonell distribusjon.
 
@@ -156,7 +185,20 @@ For tilskudd til lansering etter [§ 3-11](forskrift/2016-10-31-1264/§3-11) kan
 
 ### § 3-3. Vilkår
 
-Følgende vilkår må være oppfylt for å kunne motta tilskudd:Søker skal dokumentere å ha inngått avtaler med rettighetshavere etter [åndsverkloven](lov/2018-06-15-40) som sikrer at søker besitter eller kan erverve alle nødvendige rettigheter for å realisere det audiovisuelle verket, og at søker kan inngå avtaler om salg, distribusjon og visning av det ferdige audiovisuelle verket. Ved engasjement av slike rettighetshavere kreves at søker ved ethvert tilfelle følger de gjeldende avtalene om kollektiv rettighetsforvaltning med bransjens organisasjoner.Tilskuddsmottaker skal besitte og alene ha den nødvendige rett til å råde over slike rettigheter når tilbud om tilskudd aksepteres.Tilskuddsmottaker skal også uten begrensninger ha de nødvendige rettigheter for den eksklusive forvaltning av rettigheter i det audiovisuelle verket, samt den økonomiske forvaltning av det audiovisuelle verket.Tilskuddsmottaker kan inngå avtaler som gir tredjepart utnyttelsesrett (lisens) til salg, distribusjon og visning av det audiovisuelle verket forutsatt at avtalene er tidsavgrensede og geografisk avgrensede, men kan ikke overdra eierskap til immaterielle rettigheter til eller i det audiovisuelle verket.For minoritetsprodusenter kreves det kun eierandel i det audiovisuelle verket.Søker skal dokumentere tilfredsstillende økonomisk, faglig og praktisk evne til å gjennomføre prosjektet og være ansvarlig for prosjektets regnskap.Søknaden må gjelde et kulturprodukt. For samproduksjoner med norske minoritetsprodusenter er det tilstrekkelig at prosjektet er definert som kulturprodukt i opphavslandet. For søkere med hovedprodusent fra land uten kompetent myndighet til slik godkjenning, vil tilskuddsforvalter gjøre en vurdering av hvorvidt prosjektet er et kulturproduktFor søknader som gjelder produksjonstilskudd skal prosjektet etterleve nordisk standard for bærekraft (NES). Kravet gjelder ikke dersom prosjektets produksjonsbudsjett er lavere enn 1 million kroner på søknadstidspunktet.
+Følgende vilkår må være oppfylt for å kunne motta tilskudd:
+
+1. Søker skal dokumentere å ha inngått avtaler med rettighetshavere etter [åndsverkloven](lov/2018-06-15-40) som sikrer at søker besitter eller kan erverve alle nødvendige rettigheter for å realisere det audiovisuelle verket, og at søker kan inngå avtaler om salg, distribusjon og visning av det ferdige audiovisuelle verket. Ved engasjement av slike rettighetshavere kreves at søker ved ethvert tilfelle følger de gjeldende avtalene om kollektiv rettighetsforvaltning med bransjens organisasjoner.
+
+   Tilskuddsmottaker skal besitte og alene ha den nødvendige rett til å råde over slike rettigheter når tilbud om tilskudd aksepteres.
+
+   Tilskuddsmottaker skal også uten begrensninger ha de nødvendige rettigheter for den eksklusive forvaltning av rettigheter i det audiovisuelle verket, samt den økonomiske forvaltning av det audiovisuelle verket.
+
+   Tilskuddsmottaker kan inngå avtaler som gir tredjepart utnyttelsesrett (lisens) til salg, distribusjon og visning av det audiovisuelle verket forutsatt at avtalene er tidsavgrensede og geografisk avgrensede, men kan ikke overdra eierskap til immaterielle rettigheter til eller i det audiovisuelle verket.
+
+   For minoritetsprodusenter kreves det kun eierandel i det audiovisuelle verket.
+2. Søker skal dokumentere tilfredsstillende økonomisk, faglig og praktisk evne til å gjennomføre prosjektet og være ansvarlig for prosjektets regnskap.
+3. Søknaden må gjelde et kulturprodukt. For samproduksjoner med norske minoritetsprodusenter er det tilstrekkelig at prosjektet er definert som kulturprodukt i opphavslandet. For søkere med hovedprodusent fra land uten kompetent myndighet til slik godkjenning, vil tilskuddsforvalter gjøre en vurdering av hvorvidt prosjektet er et kulturprodukt
+4. For søknader som gjelder produksjonstilskudd skal prosjektet etterleve nordisk standard for bærekraft (NES). Kravet gjelder ikke dersom prosjektets produksjonsbudsjett er lavere enn 1 million kroner på søknadstidspunktet.
 
 > Endret ved forskrifter [19 feb 2021 nr. 509](forskrift/2021-02-19-509), [21 juni 2021 nr. 2083](forskrift/2021-06-21-2083), [17 des 2025 nr. 2641](forskrift/2025-12-17-2641) (i kraft 1 jan 2026).
 
@@ -170,7 +212,13 @@ For audiovisuelle verk som får produksjons-, lanserings- og/eller etterhåndsti
 
 ### § 3-5. Prioritering
 
-Med mindre annet følger av forskriften, skal vurdering av og prioritering mellom søknader om tilskudd baseres på en samlet vurdering av kunstneriske, produksjonsmessige, økonomiske, tekniske og markedsmessige hensyn. Det skal legges vekt påformålet med tilskuddsordningen,prioriterte satsingsområder eller hensyn fastsatt av departementet eller tilskuddsforvalter,tidligere kunstneriske og/eller kommersielle resultater hos søker eller andre nøkkelpersoner i prosjektet,prosjekter som kan bidra til utvikling av talentfulle regissører og manuskriptforfattere,mangfold i skaper-, innholds- og brukerleddet, og kjønnsbalanse.
+Med mindre annet følger av forskriften, skal vurdering av og prioritering mellom søknader om tilskudd baseres på en samlet vurdering av kunstneriske, produksjonsmessige, økonomiske, tekniske og markedsmessige hensyn. Det skal legges vekt på
+
+1. formålet med tilskuddsordningen,
+2. prioriterte satsingsområder eller hensyn fastsatt av departementet eller tilskuddsforvalter,
+3. tidligere kunstneriske og/eller kommersielle resultater hos søker eller andre nøkkelpersoner i prosjektet,
+4. prosjekter som kan bidra til utvikling av talentfulle regissører og manuskriptforfattere,
+5. mangfold i skaper-, innholds- og brukerleddet, og kjønnsbalanse.
 
 Tillskuddsforvalter kan vektlegge prosjektets regionale tilknytning i sin prioritering.
 
@@ -210,7 +258,10 @@ Tilskuddet beregnes med utgangspunkt i den norske budsjettandelen i prosjektet.
 
 Etterhåndstilskudd er etterskuddsvis produksjonstilskudd. Etterhåndstilskudd skal stimulere til solid publikumsoppslutning, utnyttelse av prosjektenes markedspotensial, produksjon av barne- og ungdomsfilm og høy andel av privat kapital i norsk filmproduksjon.
 
-Det kan gis etterhåndstilskudd til spillefilmer og dokumentarfilmer med primærlansering på kino som oppfyller vilkårene i denne paragrafen, og som har mottatt:produksjonstilskudd fra Norsk filminstitutt etter [§ 3-6](forskrift/2016-10-31-1264/§3-6) eller [§ 3-7](forskrift/2016-10-31-1264/§3-7), ellerproduksjonstilskudd etter [§ 3-6](forskrift/2016-10-31-1264/§3-6) fra regional tilskuddsforvalter, dersom de samlede utviklings- og produksjonstilskuddene fra en eller flere regionale tilskuddsforvaltere utgjør minst 25 % av utviklings- og produksjonsbudsjettet, eller minimum 3 millioner kroner.
+Det kan gis etterhåndstilskudd til spillefilmer og dokumentarfilmer med primærlansering på kino som oppfyller vilkårene i denne paragrafen, og som har mottatt:
+
+1. produksjonstilskudd fra Norsk filminstitutt etter [§ 3-6](forskrift/2016-10-31-1264/§3-6) eller [§ 3-7](forskrift/2016-10-31-1264/§3-7), eller
+2. produksjonstilskudd etter [§ 3-6](forskrift/2016-10-31-1264/§3-6) fra regional tilskuddsforvalter, dersom de samlede utviklings- og produksjonstilskuddene fra en eller flere regionale tilskuddsforvaltere utgjør minst 25 % av utviklings- og produksjonsbudsjettet, eller minimum 3 millioner kroner.
 
 Med primærlansering på kino menes at filmen vises offentlig eksklusivt på norske kinoer i en periode på minimum 8 uker før andre plattformer viser filmen. Tilskuddsmottaker skal også sikre at tilgjengeliggjøring på andre plattformer ikke fører til bortfall av norske kinoers mulighet for videre visning av filmen. Norsk filminstitutt kan gjøre unntak fra dette vilkåret i særlige tilfeller.
 
@@ -248,7 +299,10 @@ Inntekter fra salg godkjennes kun dersom Norsk filminstitutt mener at avtalene g
 
 Hvis Norsk filminstitutt vurderer det slik at filmen ikke har Norge som sitt primærmarked, skjer beregning av etterhåndstilskudd på grunnlag av filmens dokumenterte inntekter fra visning i Norge.
 
-Maksimalt etterhåndstilskudd for filmer med produksjonstilskudd etter [§ 3-7](forskrift/2016-10-31-1264/§3-7) kan ikke overskride 50 % av godkjent sluttregnskap for utviklings- og produksjonskostnader eller følgende beløpstak:etterhåndstilskudd til filmer som er tildelt produksjonstilskudd på under 12 millioner kroner, kan ikke overskride 12 millioner kroner,etterhåndstilskudd til filmer som er tildelt produksjonstilskudd på 12 millioner kroner eller høyere, kan ikke overskride 18 millioner kroner.
+Maksimalt etterhåndstilskudd for filmer med produksjonstilskudd etter [§ 3-7](forskrift/2016-10-31-1264/§3-7) kan ikke overskride 50 % av godkjent sluttregnskap for utviklings- og produksjonskostnader eller følgende beløpstak:
+
+1. etterhåndstilskudd til filmer som er tildelt produksjonstilskudd på under 12 millioner kroner, kan ikke overskride 12 millioner kroner,
+2. etterhåndstilskudd til filmer som er tildelt produksjonstilskudd på 12 millioner kroner eller høyere, kan ikke overskride 18 millioner kroner.
 
 For filmer som gis tilskudd til produksjon etter [§ 3-6](forskrift/2016-10-31-1264/§3-6), skal maksimalt etterhåndstilskudd ikke overskride 20 % av godkjent sluttregnskap for utviklings- og produksjonskostnader eller 8 millioner krone.
 
@@ -256,7 +310,10 @@ For filmer som gis tilskudd til produksjon etter [§ 3-6](forskrift/2016-10-31-1
 
 ### § 3-11. Tilskudd til lansering av audiovisuelle verk
 
-Tilskudd til lansering skal bidra til:å øke produksjonsforetakets inntekter fra verket fra alle plattformer, ogat hvert audiovisuelt verk når sitt optimale publikumspotensial og hevder seg internasjonalt.
+Tilskudd til lansering skal bidra til:
+
+1. å øke produksjonsforetakets inntekter fra verket fra alle plattformer, og
+2. at hvert audiovisuelt verk når sitt optimale publikumspotensial og hevder seg internasjonalt.
 
 Tilskudd til lansering i Norge kan gis til et nytt audiovisuelt verk i sin primære lanseringsfase. Det er et vilkår at verket gjøres allment tilgjengelig for et bredt norsk publikum. I vurderingen av, og prioriteringen mellom, søknader om tilskudd til lansering i Norge skal det legges vekt på lanseringsplaner, lanseringstidspunkt, publikumsestimat, grad av tilgjengelighet for publikum og prosjektets forventede inntektspotensial basert på gjeldende markedsvilkår. Norsk filminstitutt kan prioritere audiovisuelle verk som har mottatt produksjonstilskudd etter denne forskriften.
 
@@ -280,7 +337,13 @@ Norsk filminstitutt kan fastsette satser for lanseringstilskudd.
 
 Dersom ikke annet følger av denne bestemmelsens andre ledd, skal maksimalt samlet offentlig tilskudd til audiovisuelle verk ikke overstige 50 prosent av filmens godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader.
 
-Maksimalt samlet offentlig tilskudd til smale audiovisuelle verk som mottar tilskudd etter dette kapittelet skal:for film som mottar etterhåndstilskudd og har fått forhåndstilskudd etter [§ 3-7](forskrift/2016-10-31-1264/§3-7), ikke overstige 75 prosent av filmens godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader. Dersom filmen mottar etterhåndstilskudd og har mottatt produksjonstilskudd fra tilskuddsforvalter etter [§ 3-6](forskrift/2016-10-31-1264/§3-6) skal offentlig tilskudd ikke overstige 80 prosent av filmens godkjente regnskapsførte utviklings- og produksjonskostnader,for spillefilm som ikke mottar etterhåndstilskudd, ikke overstige 80 prosent av filmens godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader,for dokumentarfilm som ikke mottar etterhåndstilskudd, ikke overstige 90 prosent av verkets godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader,for kortfilm, ikke overstige 100 prosent av verkets godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader,for serie, ikke overstige 50 prosent av verkets godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader. Tilskuddsforvalter kan i særlige tilfeller godkjenne høyere offentlig tilskuddsandel for serier med smal målgruppe.
+Maksimalt samlet offentlig tilskudd til smale audiovisuelle verk som mottar tilskudd etter dette kapittelet skal:
+
+1. for film som mottar etterhåndstilskudd og har fått forhåndstilskudd etter [§ 3-7](forskrift/2016-10-31-1264/§3-7), ikke overstige 75 prosent av filmens godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader. Dersom filmen mottar etterhåndstilskudd og har mottatt produksjonstilskudd fra tilskuddsforvalter etter [§ 3-6](forskrift/2016-10-31-1264/§3-6) skal offentlig tilskudd ikke overstige 80 prosent av filmens godkjente regnskapsførte utviklings- og produksjonskostnader,
+2. for spillefilm som ikke mottar etterhåndstilskudd, ikke overstige 80 prosent av filmens godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader,
+3. for dokumentarfilm som ikke mottar etterhåndstilskudd, ikke overstige 90 prosent av verkets godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader,
+4. for kortfilm, ikke overstige 100 prosent av verkets godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader,
+5. for serie, ikke overstige 50 prosent av verkets godkjente regnskapsførte utviklings-, produksjons- og lanseringskostnader. Tilskuddsforvalter kan i særlige tilfeller godkjenne høyere offentlig tilskuddsandel for serier med smal målgruppe.
 
 For samproduksjoner med utenlandsk hovedprodusent, gjelder prosenttaket for den norske andelen i prosjektet.
 
@@ -306,7 +369,12 @@ Tilskuddsmottakeren skal ved kjøp og leie av utstyr velge det alternativet som 
 
 ### § 3-16. Regnskap, rapportering og kontroll
 
-Regnskap skal føres i henhold til gjeldende lover og regler og i tråd med god regnskapsskikk. Følgende krav gjelder:det skal føres eget regnskap for hvert audiovisuelle verk som mottar tilskudd etter dette kapittelet,regnskapet skal normalt føres i henhold til kontoplan i godkjent kalkyleskjema,utgifter som dekkes over budsjettpostens uforutsette utgifter skal konteres på den relevante posten,alle avtaler om rettigheter, avtaler med stab og skuespillere, avtaler om kjøp eller leie av et visst omfang, som skal belastes regnskapet, skal inngås skriftlig.
+Regnskap skal føres i henhold til gjeldende lover og regler og i tråd med god regnskapsskikk. Følgende krav gjelder:
+
+1. det skal føres eget regnskap for hvert audiovisuelle verk som mottar tilskudd etter dette kapittelet,
+2. regnskapet skal normalt føres i henhold til kontoplan i godkjent kalkyleskjema,
+3. utgifter som dekkes over budsjettpostens uforutsette utgifter skal konteres på den relevante posten,
+4. alle avtaler om rettigheter, avtaler med stab og skuespillere, avtaler om kjøp eller leie av et visst omfang, som skal belastes regnskapet, skal inngås skriftlig.
 
 Norsk filminstitutt skal fastsette nærmere retningslinjer for føring av regnskap for audiovisuell produksjon.
 
@@ -338,7 +406,10 @@ Norsk filminstitutt kan kreve at mottaker av tilskudd til produksjon av spillefi
 
 Tilskuddsmottaker har plikt til å sørge for at øvrige aktører som distributør, salgsagent og co-produsent oppgir inntekter som nevnt i første ledd til Norsk filminstitutt, eller tredjepart oppnevnt i henhold til første ledd.
 
-Inntektsopplysningene kan innhentes, anvendes og oppbevares til følgende formål:Statistiske formålSamling av opplysningene i en database, hvor opplysningene oppbevares i aggregert og anonymisert form sammen med andre tilsvarende opplysninger.
+Inntektsopplysningene kan innhentes, anvendes og oppbevares til følgende formål:
+
+1. Statistiske formål
+2. Samling av opplysningene i en database, hvor opplysningene oppbevares i aggregert og anonymisert form sammen med andre tilsvarende opplysninger.
 
 Med statistiske formål menes statistikk som publiseres på et aggregert nivå. Informasjonen skal publiseres slik at det ikke er mulig å spore inntektsopplysninger tilbake til enkeltprosjekter.
 
@@ -370,7 +441,11 @@ Tilskudd etter denne bestemmelsen kan gis til produksjonsforetak som har oppnåd
 
 Tilskudd etter denne bestemmelsen kan tildeles produksjonsforetak som har oppnådd gode kunstneriske og/eller kommersielle resultater. Foretaket må ha produsert minst én spillefilm, dokumentar eller serie med nasjonal og internasjonal distribusjon i løpet av de siste tre år.
 
-I vurderingen av, og prioritering mellom, søkerne, kan det legges vekt på:foretakets tidligere kunstneriske og/eller kommersielle resultater,foretakets soliditet,målet om likestilling og mangfold i filmbransjen.
+I vurderingen av, og prioritering mellom, søkerne, kan det legges vekt på:
+
+1. foretakets tidligere kunstneriske og/eller kommersielle resultater,
+2. foretakets soliditet,
+3. målet om likestilling og mangfold i filmbransjen.
 
 > Endret ved forskrifter [19 feb 2021 nr. 509](forskrift/2021-02-19-509), [3 aug 2022 nr. 1402](forskrift/2022-08-03-1402).
 
@@ -432,7 +507,16 @@ Regnskap skal føres i henhold til særregler gitt i denne forskriften, gjeldend
 
 ### § 7-1. Omgjøring av vedtak om tildeling av tilskudd
 
-Tilskuddsforvalter kan trekke tilbake tilsagn om tilskudd helt eller delvis og kreve tilbakebetaling av utbetalt tilskudd dersom:tilskuddsmottakeren har brutt opplysningsplikten i [§ 1-6](forskrift/2016-10-31-1264/§1-6) ved å gi mangelfulle, uriktige eller misvisende opplysninger av betydning for saken. Det kan for eksempel være opplysninger av betydning for vurderingen og prioriteringen av prosjektet eller for hvorvidt tilskuddsmottaker oppfyller vilkårene i forskriften,tilskuddet ikke blir benyttet i henhold til vilkår og forutsetninger for tilskuddet,tilskuddsmottakers drift er i strid med lov eller annet relevant regelverk og dette er dokumentert av en annen offentlig myndighet,det er vesentlige mangler ved tilskuddsmottakers rapportering,tilskuddet er i strid med [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte,prosjektet endres vesentlig uten godkjenning av tilskuddsforvalter,prosjektet ikke gjennomføres, eller det er sannsynliggjort at tilskuddsmottaker ikke vil kunne gjennomføre prosjektet i tråd med betingelser og vilkår i tilskuddsbrevet,tilskuddsmottaker på annen vesentlig måte har brutt bestemmelsene i denne forskriften eller vilkår fastsatt av tilskuddsforvalter med hjemmel i denne forskriften, for eksempel i retningslinjer.
+Tilskuddsforvalter kan trekke tilbake tilsagn om tilskudd helt eller delvis og kreve tilbakebetaling av utbetalt tilskudd dersom:
+
+1. tilskuddsmottakeren har brutt opplysningsplikten i [§ 1-6](forskrift/2016-10-31-1264/§1-6) ved å gi mangelfulle, uriktige eller misvisende opplysninger av betydning for saken. Det kan for eksempel være opplysninger av betydning for vurderingen og prioriteringen av prosjektet eller for hvorvidt tilskuddsmottaker oppfyller vilkårene i forskriften,
+2. tilskuddet ikke blir benyttet i henhold til vilkår og forutsetninger for tilskuddet,
+3. tilskuddsmottakers drift er i strid med lov eller annet relevant regelverk og dette er dokumentert av en annen offentlig myndighet,
+4. det er vesentlige mangler ved tilskuddsmottakers rapportering,
+5. tilskuddet er i strid med [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte,
+6. prosjektet endres vesentlig uten godkjenning av tilskuddsforvalter,
+7. prosjektet ikke gjennomføres, eller det er sannsynliggjort at tilskuddsmottaker ikke vil kunne gjennomføre prosjektet i tråd med betingelser og vilkår i tilskuddsbrevet,
+8. tilskuddsmottaker på annen vesentlig måte har brutt bestemmelsene i denne forskriften eller vilkår fastsatt av tilskuddsforvalter med hjemmel i denne forskriften, for eksempel i retningslinjer.
 
 Ved krav om tilbakebetaling kan det fastsettes rente etter [forsinkelsesrenteloven](lov/1976-12-17-100). Dersom tilbakebetalingskravet skyldes at tilskuddet strider mot EØS-regelverket skal det fastsettes renter og renters rente i tråd med EFTAs overvåkingsorgans referanserente.
 
@@ -456,7 +540,12 @@ Tilskuddsforvalter kan motregne krav som ikke er tilbakebetalt opp mot ikke utbe
 
 Tilskuddsforvalter kan utestenge tilskuddsmottaker fra tilskuddsforvalters tilskuddsordninger i opptil tre år.
 
-Utestengelse kan vedtas:dersom tilbaketrukne midler ikke blir tilbakebetalt,ved gjentatte eller alvorlige brudd på regelverk eller forutsetninger, som beskrevet i § 7-1 første ledd,dersom tilskuddsmottaker grovt misligholder opplysningsplikten eller forsettlig gir uriktige eller ufullstendige opplysninger,dersom tilskuddsmottaker fremkaller, styrker eller utnytter en misforståelse hos tilskuddsforvalter.
+Utestengelse kan vedtas:
+
+1. dersom tilbaketrukne midler ikke blir tilbakebetalt,
+2. ved gjentatte eller alvorlige brudd på regelverk eller forutsetninger, som beskrevet i § 7-1 første ledd,
+3. dersom tilskuddsmottaker grovt misligholder opplysningsplikten eller forsettlig gir uriktige eller ufullstendige opplysninger,
+4. dersom tilskuddsmottaker fremkaller, styrker eller utnytter en misforståelse hos tilskuddsforvalter.
 
 > Tilføyd ved forskrift [19 feb 2021 nr. 509](forskrift/2021-02-19-509).
 

@@ -36,7 +36,25 @@ Forskriften gjelder for fjernvarmekunder med husholdnings- og fritidsboligforbru
 
 ### § 3. Definisjoner
 
-I denne forskrift menes med:*annet forbruk:* alt annet forbruk enn husholdnings- eller fritidsboligforbruk, herunder næringsforbruk*boligselskap:* eierseksjonssameier, borettslag, boligaksjeselskaper og ikke-seksjonerte boligsameier*energimåler:* måleren mellom fjernvarmeselskap og fjernvarmekunde*fellesarealer:* arealer eid av boligselskapet som husholdningene eller fritidsboligene benytter i det daglige, f.eks. vaskekjeller, trappeoppgang, boder og garasje*fjernvarmekunde:* den parten som har en avtale om fjernvarmeleveranse med fjernvarmeselskap*fjernvarmeselskap:* aktør som har et fjernvarmeanlegg i tråd med [energiloven § 1-3 andre ledd](lov/1990-06-29-50/§1-3/ledd/2)*fritidsboligforbruk:* fjernvarmeforbruk i fritidsboliger. Dette inkluderer fjernvarmekundens bruk av fjernvarme til oppvarming i den enkelte fritidsbolig, den enkelte boenhet eller i fellesarealer i et boligselskap*husholdningsforbruk:* husholdningers fjernvarmeforbruk i boliger. Med husholdningsforbruk menes også fjernvarmeforbruk i fellesarealer og boenheter i boligselskap*leveringssted:* varmesentralen som er det fysiske punktet hos fjernvarmekunden der fjernvarmen leveres og avregnes*nærvarmeselskap:* fjernvarmeselskap som ikke har konsesjon etter [energiloven § 5-1](lov/1990-06-29-50/§5-1)*prisperiode:* perioden som referanseprisen er gyldig*prissikringsbeløp:* prissikringsverdi multiplisert med fjernvarmekundens avregnede forbruk per måned*prissikringsverdi:* differansen mellom månedlig gjennomsnittlig elspotpris i prisområdet hvor fjernvarmekunden er tilknyttet og referanseprisen i den enkelte måned*referansepris:* pris i øre per kWh eksklusiv merverdiavgift fastsatt i denne forskrift som fjernvarmekunde tilbys prissikring til*stønadsgrad:* andelen av elspotpris over fastsatt terskelverdi som det gis støtte for*strømstønadsbeløp:* differansen mellom månedlig gjennomsnittlig elspotpris i prisområdet hvor fjernvarmekunden er tilknyttet og terskelverdien, multiplisert med fjernvarmekundens avregnende forbruk og stønadsgrad*terskelverdi:* nivået på elspotpris i budområdet i øre per kWh eksklusiv merverdiavgift hvor stønaden slår inn. Det gis kun støtte for delen av elspotpris over terskelverdien.
+I denne forskrift menes med:
+
+1. *annet forbruk:* alt annet forbruk enn husholdnings- eller fritidsboligforbruk, herunder næringsforbruk
+2. *boligselskap:* eierseksjonssameier, borettslag, boligaksjeselskaper og ikke-seksjonerte boligsameier
+3. *energimåler:* måleren mellom fjernvarmeselskap og fjernvarmekunde
+4. *fellesarealer:* arealer eid av boligselskapet som husholdningene eller fritidsboligene benytter i det daglige, f.eks. vaskekjeller, trappeoppgang, boder og garasje
+5. *fjernvarmekunde:* den parten som har en avtale om fjernvarmeleveranse med fjernvarmeselskap
+6. *fjernvarmeselskap:* aktør som har et fjernvarmeanlegg i tråd med [energiloven § 1-3 andre ledd](lov/1990-06-29-50/§1-3/ledd/2)
+7. *fritidsboligforbruk:* fjernvarmeforbruk i fritidsboliger. Dette inkluderer fjernvarmekundens bruk av fjernvarme til oppvarming i den enkelte fritidsbolig, den enkelte boenhet eller i fellesarealer i et boligselskap
+8. *husholdningsforbruk:* husholdningers fjernvarmeforbruk i boliger. Med husholdningsforbruk menes også fjernvarmeforbruk i fellesarealer og boenheter i boligselskap
+9. *leveringssted:* varmesentralen som er det fysiske punktet hos fjernvarmekunden der fjernvarmen leveres og avregnes
+10. *nærvarmeselskap:* fjernvarmeselskap som ikke har konsesjon etter [energiloven § 5-1](lov/1990-06-29-50/§5-1)
+11. *prisperiode:* perioden som referanseprisen er gyldig
+12. *prissikringsbeløp:* prissikringsverdi multiplisert med fjernvarmekundens avregnede forbruk per måned
+13. *prissikringsverdi:* differansen mellom månedlig gjennomsnittlig elspotpris i prisområdet hvor fjernvarmekunden er tilknyttet og referanseprisen i den enkelte måned
+14. *referansepris:* pris i øre per kWh eksklusiv merverdiavgift fastsatt i denne forskrift som fjernvarmekunde tilbys prissikring til
+15. *stønadsgrad:* andelen av elspotpris over fastsatt terskelverdi som det gis støtte for
+16. *strømstønadsbeløp:* differansen mellom månedlig gjennomsnittlig elspotpris i prisområdet hvor fjernvarmekunden er tilknyttet og terskelverdien, multiplisert med fjernvarmekundens avregnende forbruk og stønadsgrad
+17. *terskelverdi:* nivået på elspotpris i budområdet i øre per kWh eksklusiv merverdiavgift hvor stønaden slår inn. Det gis kun støtte for delen av elspotpris over terskelverdien.
 
 ### § 4. Forvaltning av ordningene
 
@@ -70,9 +88,15 @@ Informasjon om forbruk og stønads- eller prissikringsbeløp skal fremgå av fak
 
 ### § 8. Rett til stønad
 
-Følgende kunder har rett til strømstønad for fjernvarme:fjernvarmekunder med husholdningsforbruk som er kunder av fjernvarmeselskap med konsesjon etter [energiloven § 5-1](lov/1990-06-29-50/§5-1), ogfjernvarmekunder med husholdningsforbruk som er kunder av nærvarmeselskap som registrerer seg i tråd med denne forskrift [§ 24](forskrift/2025-09-08-1792/§24).
+Følgende kunder har rett til strømstønad for fjernvarme:
 
-Fjernvarmekunde som bor fast i fritidsbolig, og som har egen energimåler registrert hos et fjernvarmeselskap som nevnt i første ledd bokstav a eller b, har rett til stønad dersom:fjernvarmekunden har fremlagt for fjernvarmeselskapet gyldig vedtak fra kommunen om varig eller midlertidig bruksendringstillatelse til boligformål, ellerdet fremgår av Folkeregisteret at fjernvarmekunden er og har vært bostedsregistrert på nåværende adresse senest 9. juni 2025.
+1. fjernvarmekunder med husholdningsforbruk som er kunder av fjernvarmeselskap med konsesjon etter [energiloven § 5-1](lov/1990-06-29-50/§5-1), og
+2. fjernvarmekunder med husholdningsforbruk som er kunder av nærvarmeselskap som registrerer seg i tråd med denne forskrift [§ 24](forskrift/2025-09-08-1792/§24).
+
+Fjernvarmekunde som bor fast i fritidsbolig, og som har egen energimåler registrert hos et fjernvarmeselskap som nevnt i første ledd bokstav a eller b, har rett til stønad dersom:
+
+1. fjernvarmekunden har fremlagt for fjernvarmeselskapet gyldig vedtak fra kommunen om varig eller midlertidig bruksendringstillatelse til boligformål, eller
+2. det fremgår av Folkeregisteret at fjernvarmekunden er og har vært bostedsregistrert på nåværende adresse senest 9. juni 2025.
 
 Fjernvarmekunde som nevnt i andre ledd bokstav a, og som fortsatt har et kundeforhold, har rett til stønad fra og med tidspunktet for vedtaket fra kommunen, men tidligst 1. oktober 2025. Fjernvarmekunde som nevnt i andre ledd bokstav b, og som fortsatt har et kundeforhold, har rett til stønad for forbruk fra og med 1. oktober 2025.
 
@@ -106,7 +130,10 @@ Dersom fjernvarmeselskap mottar opplysninger om antall boenheter i et boligselsk
 
 ### § 13. Plikt til å tilby deltakelse i ordning for sikring av fjernvarmepris
 
-Fjernvarmeselskap med konsesjon etter [energiloven § 5-1](lov/1990-06-29-50/§5-1), eller nærvarmeselskap som registrerer seg i tråd med denne forskrift [§ 24](forskrift/2025-09-08-1792/§24), plikter på forespørsel å tilby deltakelse i ordning for sikring av fjernvarmepris til:fjernvarmekunder med husholdningsforbruk, ogfjernvarmekunder med fritidsboligforbruk.
+Fjernvarmeselskap med konsesjon etter [energiloven § 5-1](lov/1990-06-29-50/§5-1), eller nærvarmeselskap som registrerer seg i tråd med denne forskrift [§ 24](forskrift/2025-09-08-1792/§24), plikter på forespørsel å tilby deltakelse i ordning for sikring av fjernvarmepris til:
+
+1. fjernvarmekunder med husholdningsforbruk, og
+2. fjernvarmekunder med fritidsboligforbruk.
 
 Fjernvarmeselskapet skal informere kunden om hvordan kunden kan bestille ordning for sikring av fjernvarmepris.
 
@@ -114,7 +141,13 @@ Kunde med husholdningsforbruk mister rett til strømstønad, så lenge vedkommen
 
 ### § 14. Vilkår for kundens deltakelse i ordning for sikring av fjernvarmepris
 
-For å delta i ordning for sikring av fjernvarmepris må kunden:ha rett til å delta i ordningen, jf. [§ 13](forskrift/2025-09-08-1792/§13)fylle ut bestillingsskjemaoppgi nødvendig kundeinformasjongodkjenne at fjernvarmeselskapet kan kreve inn og betale ut prissikringsbeløp, jf. [lov om Norgespris og strømstønad til husholdninger §§ 15](lov/2025-06-20-44/§15) og [16](lov/2025-06-20-44/§16)bekrefte at kunden er klar over vilkår om bindingstid, referansepris, forbrukstak, avbestillingsrett og eventuelle opplysningsplikter som regulert i denne forskriften.
+For å delta i ordning for sikring av fjernvarmepris må kunden:
+
+1. ha rett til å delta i ordningen, jf. [§ 13](forskrift/2025-09-08-1792/§13)
+2. fylle ut bestillingsskjema
+3. oppgi nødvendig kundeinformasjon
+4. godkjenne at fjernvarmeselskapet kan kreve inn og betale ut prissikringsbeløp, jf. [lov om Norgespris og strømstønad til husholdninger §§ 15](lov/2025-06-20-44/§15) og [16](lov/2025-06-20-44/§16)
+5. bekrefte at kunden er klar over vilkår om bindingstid, referansepris, forbrukstak, avbestillingsrett og eventuelle opplysningsplikter som regulert i denne forskriften.
 
 Boligselskap med fellesmålt fjernvarmeforbruk skal, ved bestilling av ordning for sikring av fjernvarmepris, opplyse om antall boenheter. Boligselskap med fellesmålt fjernvarmeforbruk, som også omfatter annet forbruk, skal opplyse om andel oppvarmet areal til annet forbruk som utgjør mer enn 20 prosent av totalt oppvarmet areal.
 
@@ -180,7 +213,10 @@ Det skal ikke beregnes prissikringsbeløp for samlet forbruk over 1 000 kWh per
 
 For boligselskap med fellesmålt fjernvarme skal det ikke beregnes prissikringsbeløp for samlet forbruk over 4 500 kWh per måned per boenhet, og 1 000 kWh per måned per boenhet for fritidsboliger.
 
-Fjernvarmekunde som bor fast i fritidsbolig, og som har egen energimåler registrert hos et fjernvarmeselskap med konsesjon etter [energiloven § 5-1](lov/1990-06-29-50/§5-1), eller nærvarmeselskap som har registrert seg etter denne forskrift [§ 24](forskrift/2025-09-08-1792/§24), har rett til samme forbrukstak som husholdningskunder dersom:fjernvarmekunden har fremlagt for fjernvarmeselskapet gyldig vedtak fra kommunen om varig eller midlertidig bruksendringstillatelse til boligformål, ellerdet fremgår av Folkeregisteret at fjernvarmekunden er og har vært bostedsregistrert på nåværende adresse senest 9. juni 2025.
+Fjernvarmekunde som bor fast i fritidsbolig, og som har egen energimåler registrert hos et fjernvarmeselskap med konsesjon etter [energiloven § 5-1](lov/1990-06-29-50/§5-1), eller nærvarmeselskap som har registrert seg etter denne forskrift [§ 24](forskrift/2025-09-08-1792/§24), har rett til samme forbrukstak som husholdningskunder dersom:
+
+1. fjernvarmekunden har fremlagt for fjernvarmeselskapet gyldig vedtak fra kommunen om varig eller midlertidig bruksendringstillatelse til boligformål, eller
+2. det fremgår av Folkeregisteret at fjernvarmekunden er og har vært bostedsregistrert på nåværende adresse senest 9. juni 2025.
 
 Fjernvarmekunde som nevnt i bokstav a, og som har et fortsatt kundeforhold, har rett til samme forbrukstak som husholdningskunder fra og med tidspunktet for vedtaket fra kommunen, men tidligst 1. oktober 2025. Fjernvarmekunde som nevnt i bokstav b, og som har et fortsatt kundeforhold, har rett til samme forbrukstak som husholdningskunder fra og med 1. oktober 2025.
 
@@ -234,7 +270,16 @@ Fjernvarmeselskapet skal snarest mulig hver måned, oversende dokumentasjon av u
 
 Den departementet utpeker etter [§ 4](forskrift/2025-09-08-1792/§4) kan fastsette format på dokumentasjonen.
 
-Dokumentasjonen skal inneholde følgende informasjon:indikator på om kunden har strømstønad eller ordning for sikring av fjernvarmeprisidentifikasjon av kunden og energimålerstartdato og sluttdato for den aktuelle utbetalingentotalt forbruk i kWhstønadsberettiget eller prissikret forbruk i kWhutbetalt stønad eller ut- eller innbetalt prissikringsbeløpindikator på om kunden er enkelthusholdning, boligselskap eller fritidsboligantall boenheter i boligselskap, der dette er tilgjengelig for fjernvarmeselskapet.
+Dokumentasjonen skal inneholde følgende informasjon:
+
+1. indikator på om kunden har strømstønad eller ordning for sikring av fjernvarmepris
+2. identifikasjon av kunden og energimåler
+3. startdato og sluttdato for den aktuelle utbetalingen
+4. totalt forbruk i kWh
+5. stønadsberettiget eller prissikret forbruk i kWh
+6. utbetalt stønad eller ut- eller innbetalt prissikringsbeløp
+7. indikator på om kunden er enkelthusholdning, boligselskap eller fritidsbolig
+8. antall boenheter i boligselskap, der dette er tilgjengelig for fjernvarmeselskapet.
 
 Den departementet utpeker etter [§ 4](forskrift/2025-09-08-1792/§4) kan be om ytterligere informasjon.
 

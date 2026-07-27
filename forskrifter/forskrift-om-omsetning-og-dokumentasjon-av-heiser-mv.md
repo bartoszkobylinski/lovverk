@@ -15,7 +15,7 @@ xml_hash: "7e239c1a27d441330550051187be07e413101298a7a18331a42a1a41d620732e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,17 +30,58 @@ Forskriften skal sikre at heiser og sikkerhetskomponenter for heiser som settes 
 
 ### § 2. Virkeområde
 
-Denne forskriften gjelder for heiser som permanent betjener bygninger og anlegg, og som er beregnet på transport avpersonerpersoner og varerbare varer dersom heisstolen er tilgjengelig, dvs. at en person uten vanskeligheter kan komme seg på den, og utstyrt med betjeningsinnretning som er plassert på heisstolen eller kan nås av en person på heisstolen.
+Denne forskriften gjelder for heiser som permanent betjener bygninger og anlegg, og som er beregnet på transport av
+
+1. personer
+2. personer og varer
+3. bare varer dersom heisstolen er tilgjengelig, dvs. at en person uten vanskeligheter kan komme seg på den, og utstyrt med betjeningsinnretning som er plassert på heisstolen eller kan nås av en person på heisstolen.
 
 Forskriften får også anvendelse på sikkerhetskomponenter for heiser som er angitt i vedlegg III for bruk i heiser som angitt i første ledd.
 
-Denne forskriften får ikke anvendelse påløfteinnretninger med en hastighet som ikke overskrider 0,15 m/sbyggeplassheisertaubaner, herunder kabelbanerheiser som er spesialkonstruert og -bygd for militære formål eller politiformålløfteinnretninger fra hvilke det kan utføres arbeidheiser i gruvesjakterløfteinnretninger beregnet på å løfte de opptredende under kunstneriske opptredenerløfteinnretninger installert i transportmidlerløfteinnretninger i tilknytning til maskiner, som utelukkende er beregnet på å gi adgang til arbeidsstasjonene, herunder vedlikeholds- og kontrollpunkter på maskinen,tannhjulsdrevne togrulletrapper og rullende fortau.
+Denne forskriften får ikke anvendelse på
+
+1. løfteinnretninger med en hastighet som ikke overskrider 0,15 m/s
+2. byggeplassheiser
+3. taubaner, herunder kabelbaner
+4. heiser som er spesialkonstruert og -bygd for militære formål eller politiformål
+5. løfteinnretninger fra hvilke det kan utføres arbeid
+6. heiser i gruvesjakter
+7. løfteinnretninger beregnet på å løfte de opptredende under kunstneriske opptredener
+8. løfteinnretninger installert i transportmidler
+9. løfteinnretninger i tilknytning til maskiner, som utelukkende er beregnet på å gi adgang til arbeidsstasjonene, herunder vedlikeholds- og kontrollpunkter på maskinen,
+10. tannhjulsdrevne tog
+11. rulletrapper og rullende fortau.
 
 Dersom farer forbundet med heiser eller sikkerhetskomponenter nevnt i denne forskrift helt eller delvis er omfattet av et særlig EØS-harmoniseringsregelverk, får denne forskriften ikke anvendelse.
 
 ### § 3. Definisjoner
 
-I denne forskrift menes med:*heis:* en løfteinnretning som betjener fastlagte nivåer ved hjelp av en heisstol som beveger seg langs stive føringsskinner og heller mer enn 15 grader i forhold til et vannrett plan, eller en løfteinnretning som beveger seg langs en fastlagt bane, også når den ikke beveger seg langs stive føringsskinner*heisstol:* en del av heisen som bærer personer og/eller varer som skal løftes eller senkes*typeheis:* en representativ heis hvis tekniske dokumentasjon viser på hvilken måte de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I vil bli oppfylt for heiser som er i samsvar med typeheisen definert ved hjelp av objektive parametere, og som bruker identiske sikkerhetskomponenter*gjøre tilgjengelig på markedet:* enhver levering av en sikkerhetskomponent for distribusjon eller bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller gratis*bringe i omsetning:*gjøre en sikkerhetskomponent tilgjengelig for første gang, ellerlevering av en heis for bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller gratis,*installatør:* den fysiske eller juridiske person som har ansvaret for konstruksjonen, produksjonen, installasjonen og omsetningen av heisen*produsent:* en fysisk eller juridisk person som produserer en sikkerhetskomponent eller får en sikkerhetskomponent konstruert eller produsert, og som markedsfører den under sitt navn eller varemerke*representant:* enhver fysisk eller juridisk person etablert innenfor EØS som har fått skriftlig fullmakt fra en installatør eller produsent til å handle på dennes vegne i forbindelse med nærmere angitte oppgaver*importør:* enhver fysisk eller juridisk person som er etablert i EØS og som bringer en sikkerhetskomponent fra en tredjestat i omsetning innenfor EØS*distributør:* enhver fysisk eller juridisk person i omsetningskjeden, bortsett fra produsenten eller importøren, som gjør sikkerhetskomponenter tilgjengelig på markedet*markedsdeltakere:* installatøren, produsenten, representanten, importøren og distributøren*teknisk spesifikasjon:* et dokument der de tekniske kravene til en heis eller en sikkerhetskomponent er beskrevet*harmonisert standard:* en harmonisert standard som definert i artikkel 2 nr. 1 bokstav c) i forordning [(EU) nr. 1025/2012](eu/32012r1025)*akkreditering:* en akkreditering som definert i artikkel 2 nr. 10 i forordning [(EF) nr. 765/2008](eu/32008r0765)*nasjonalt akkrediteringsorgan:* et nasjonalt akkrediteringsorgan som definert i artikkel 2 nr. 11 i forordning [(EF) nr. 765/2008](eu/32008r0765)*samsvarsvurdering:* en prosess som viser om de grunnleggende helse- og sikkerhetskravene i denne forskriften med hensyn til en heis eller en sikkerhetskomponent er oppfylt*teknisk kontrollorgan:* et organ som utfører samsvarsvurderingsvirksomhet, herunder kalibrering, prøving, sertifisering og inspeksjon*tilbakekalling:* når det gjelder heiser, alle tiltak som tar sikte på å demontere en heis og disponere den på en sikker måte, og når det gjelder sikkerhetskomponenter, alle tiltak som tar sikte på å levere tilbake en sikkerhetskomponent som allerede er gjort tilgjengelig for installatøren eller sluttbrukeren*tilbaketrekking:* alle tiltak som tar sikte på å hindre at en sikkerhetskomponent i omsetningskjeden blir gjort tilgjengelig på markedet*EØS-harmoniseringsregelverk:* alt EØS-regelverk som harmoniserer vilkårene for markedsføring av produkter*CE-merking:* merking der installatøren eller produsenten angir at heisen eller sikkerhetskomponenten er i samsvar med gjeldende krav fastsatt i EØS-harmoniseringsregelverk om påføring av slik merking.
+I denne forskrift menes med:
+
+1. *heis:* en løfteinnretning som betjener fastlagte nivåer ved hjelp av en heisstol som beveger seg langs stive føringsskinner og heller mer enn 15 grader i forhold til et vannrett plan, eller en løfteinnretning som beveger seg langs en fastlagt bane, også når den ikke beveger seg langs stive føringsskinner
+2. *heisstol:* en del av heisen som bærer personer og/eller varer som skal løftes eller senkes
+3. *typeheis:* en representativ heis hvis tekniske dokumentasjon viser på hvilken måte de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I vil bli oppfylt for heiser som er i samsvar med typeheisen definert ved hjelp av objektive parametere, og som bruker identiske sikkerhetskomponenter
+4. *gjøre tilgjengelig på markedet:* enhver levering av en sikkerhetskomponent for distribusjon eller bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller gratis
+5. *bringe i omsetning:*
+
+   - gjøre en sikkerhetskomponent tilgjengelig for første gang, eller
+   - levering av en heis for bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller gratis,
+6. *installatør:* den fysiske eller juridiske person som har ansvaret for konstruksjonen, produksjonen, installasjonen og omsetningen av heisen
+7. *produsent:* en fysisk eller juridisk person som produserer en sikkerhetskomponent eller får en sikkerhetskomponent konstruert eller produsert, og som markedsfører den under sitt navn eller varemerke
+8. *representant:* enhver fysisk eller juridisk person etablert innenfor EØS som har fått skriftlig fullmakt fra en installatør eller produsent til å handle på dennes vegne i forbindelse med nærmere angitte oppgaver
+9. *importør:* enhver fysisk eller juridisk person som er etablert i EØS og som bringer en sikkerhetskomponent fra en tredjestat i omsetning innenfor EØS
+10. *distributør:* enhver fysisk eller juridisk person i omsetningskjeden, bortsett fra produsenten eller importøren, som gjør sikkerhetskomponenter tilgjengelig på markedet
+11. *markedsdeltakere:* installatøren, produsenten, representanten, importøren og distributøren
+12. *teknisk spesifikasjon:* et dokument der de tekniske kravene til en heis eller en sikkerhetskomponent er beskrevet
+13. *harmonisert standard:* en harmonisert standard som definert i artikkel 2 nr. 1 bokstav c) i forordning [(EU) nr. 1025/2012](eu/32012r1025)
+14. *akkreditering:* en akkreditering som definert i artikkel 2 nr. 10 i forordning [(EF) nr. 765/2008](eu/32008r0765)
+15. *nasjonalt akkrediteringsorgan:* et nasjonalt akkrediteringsorgan som definert i artikkel 2 nr. 11 i forordning [(EF) nr. 765/2008](eu/32008r0765)
+16. *samsvarsvurdering:* en prosess som viser om de grunnleggende helse- og sikkerhetskravene i denne forskriften med hensyn til en heis eller en sikkerhetskomponent er oppfylt
+17. *teknisk kontrollorgan:* et organ som utfører samsvarsvurderingsvirksomhet, herunder kalibrering, prøving, sertifisering og inspeksjon
+18. *tilbakekalling:* når det gjelder heiser, alle tiltak som tar sikte på å demontere en heis og disponere den på en sikker måte, og når det gjelder sikkerhetskomponenter, alle tiltak som tar sikte på å levere tilbake en sikkerhetskomponent som allerede er gjort tilgjengelig for installatøren eller sluttbrukeren
+19. *tilbaketrekking:* alle tiltak som tar sikte på å hindre at en sikkerhetskomponent i omsetningskjeden blir gjort tilgjengelig på markedet
+20. *EØS-harmoniseringsregelverk:* alt EØS-regelverk som harmoniserer vilkårene for markedsføring av produkter
+21. *CE-merking:* merking der installatøren eller produsenten angir at heisen eller sikkerhetskomponenten er i samsvar med gjeldende krav fastsatt i EØS-harmoniseringsregelverk om påføring av slik merking.
 
 ### § 4. Omsetning, tilgjengeliggjøring på markedet og ibruktaking og grunnleggende helse- og sikkerhetskrav
 
@@ -88,7 +129,11 @@ En installatør kan ved en skriftlig fullmakt utpeke en representant.
 
 Forpliktelsene fastsatt i [§ 5](forskrift/2016-04-13-373/§5) første ledd og forpliktelsen til å utarbeide teknisk dokumentasjon som nevnt i [§ 5](forskrift/2016-04-13-373/§5) annet ledd, skal ikke utgjøre noen del av representantens fullmakt.
 
-En representant skal utføre de oppgaver som er angitt i fullmakten den har fått fra installatøren. På grunnlag av fullmakten skal representanten minst kunneoppbevare EU-samsvarserklæringen og eventuelt beslutningen(e) om godkjenning av produsentens eller installatørens kvalitetssystem og den tekniske dokumentasjonen og kunne stille dette til rådighet for nasjonale markedstilsynsmyndigheter i ti år etter at heisen ble brakt i omsetningetter begrunnet anmodning fra en vedkommende nasjonal myndighet, gi denne alle de opplysninger og den dokumentasjon som er nødvendig for å vise at heisen er i samsvar med regelverketpå anmodning fra vedkommende nasjonale myndigheter, samarbeide med dem om alle tiltak som er truffet for å fjerne risikoene forbundet med heisen som omfattes av representantens fullmakt.
+En representant skal utføre de oppgaver som er angitt i fullmakten den har fått fra installatøren. På grunnlag av fullmakten skal representanten minst kunne
+
+1. oppbevare EU-samsvarserklæringen og eventuelt beslutningen(e) om godkjenning av produsentens eller installatørens kvalitetssystem og den tekniske dokumentasjonen og kunne stille dette til rådighet for nasjonale markedstilsynsmyndigheter i ti år etter at heisen ble brakt i omsetning
+2. etter begrunnet anmodning fra en vedkommende nasjonal myndighet, gi denne alle de opplysninger og den dokumentasjon som er nødvendig for å vise at heisen er i samsvar med regelverket
+3. på anmodning fra vedkommende nasjonale myndigheter, samarbeide med dem om alle tiltak som er truffet for å fjerne risikoene forbundet med heisen som omfattes av representantens fullmakt.
 
 ### Del II. Krav til sikkerhetskomponenter
 
@@ -116,7 +161,11 @@ Produsentene skal, etter en begrunnet anmodning fra en vedkommende nasjonale myn
 
 En produsent kan ved en skriftlig fullmakt utpeke en representant. Forpliktelsene fastsatt i [§ 8](forskrift/2016-04-13-373/§8) første ledd og forpliktelsen til å utarbeide teknisk dokumentasjon som nevnt i [§ 8](forskrift/2016-04-13-373/§8) annet ledd, skal ikke utgjøre noen del av representantens fullmakt.
 
-En representant skal utføre de oppgaver som er angitt i fullmakten den har fått fra produsenten. På grunnlag av fullmakten skal representanten minst kunneoppbevare EU-samsvarserklæringen og eventuelt beslutningen(e) om godkjenning av produsentens eller installatørens kvalitetssystem og den tekniske dokumentasjonen og kunne stille dette til rådighet for nasjonale markedstilsynsmyndigheter i ti år etter at sikkerhetskomponenten ble brakt i omsetningetter begrunnet anmodning fra en vedkommende nasjonal myndighet, gi denne alle de opplysninger og den dokumentasjon som er nødvendig for å vise at sikkerhetskomponenten er i samsvar med regelverketpå anmodning fra vedkommende nasjonale myndigheter, samarbeide med dem om alle tiltak som er truffet for å fjerne risikoene forbundet med sikkerhetskomponenten som omfattes av representantens fullmakt.
+En representant skal utføre de oppgaver som er angitt i fullmakten den har fått fra produsenten. På grunnlag av fullmakten skal representanten minst kunne
+
+1. oppbevare EU-samsvarserklæringen og eventuelt beslutningen(e) om godkjenning av produsentens eller installatørens kvalitetssystem og den tekniske dokumentasjonen og kunne stille dette til rådighet for nasjonale markedstilsynsmyndigheter i ti år etter at sikkerhetskomponenten ble brakt i omsetning
+2. etter begrunnet anmodning fra en vedkommende nasjonal myndighet, gi denne alle de opplysninger og den dokumentasjon som er nødvendig for å vise at sikkerhetskomponenten er i samsvar med regelverket
+3. på anmodning fra vedkommende nasjonale myndigheter, samarbeide med dem om alle tiltak som er truffet for å fjerne risikoene forbundet med sikkerhetskomponenten som omfattes av representantens fullmakt.
 
 ### § 10. Importørenes forpliktelser
 
@@ -156,7 +205,10 @@ En importør eller distributør skal i denne forskrift anses som produsent og sk
 
 ### § 13. Identifikasjon av markedsdeltakere
 
-Markedsdeltakerne skal på anmodning fra markedstilsynsmyndighetene navngi følgende markedsdeltakere:alle markedsdeltakere som har levert en sikkerhetskomponent til demalle markedsdeltakere som de har levert en sikkerhetskomponent til.
+Markedsdeltakerne skal på anmodning fra markedstilsynsmyndighetene navngi følgende markedsdeltakere:
+
+1. alle markedsdeltakere som har levert en sikkerhetskomponent til dem
+2. alle markedsdeltakere som de har levert en sikkerhetskomponent til.
 
 Markedsdeltakerne skal kunne framlegge opplysningene nevnt i første ledd i ti år etter at de har fått en sikkerhetskomponent levert, og i ti år etter at de har levert en sikkerhetskomponent.
 
@@ -168,11 +220,28 @@ Heiser og sikkerhetskomponenter som er i samsvar med harmoniserte standarder ell
 
 ### § 15. Framgangsmåter for samsvarsvurdering av sikkerhetskomponenter
 
-Sikkerhetskomponenter skal være gjenstand for en av følgende framgangsmåter for samsvarsvurdering:modellen av sikkerhetskomponenten skal underkastes EU-typeprøvingen fastsatt i vedlegg IV del A, og typesamsvaret for sikkerhetskomponenten skal sikres med stikkprøvekontroll som fastsatt i vedlegg IXmodellen av sikkerhetskomponenten skal underkastes EU-typeprøvingen fastsatt i vedlegg IV del A, med typesamsvar basert på kvalitetssikring av produkter i samsvar med vedlegg VIsamsvar basert på fullstendig kvalitetssikring som fastsatt i vedlegg VII.
+Sikkerhetskomponenter skal være gjenstand for en av følgende framgangsmåter for samsvarsvurdering:
+
+1. modellen av sikkerhetskomponenten skal underkastes EU-typeprøvingen fastsatt i vedlegg IV del A, og typesamsvaret for sikkerhetskomponenten skal sikres med stikkprøvekontroll som fastsatt i vedlegg IX
+2. modellen av sikkerhetskomponenten skal underkastes EU-typeprøvingen fastsatt i vedlegg IV del A, med typesamsvar basert på kvalitetssikring av produkter i samsvar med vedlegg VI
+3. samsvar basert på fullstendig kvalitetssikring som fastsatt i vedlegg VII.
 
 ### § 16. Framgangsmåter for samsvarsvurdering av heiser
 
-Heiser skal være gjenstand for en av følgende framgangsmåter for samsvarsvurdering:dersom de er konstruert og produsert i samsvar med en typeheis som har vært gjenstand for EU-typeprøving i henhold til vedlegg IV del B:sluttkontroll av heiser som fastsatt i vedlegg Vtypesamsvar for heiser basert på kvalitetssikring av produkter som fastsatt i vedlegg Xtypesamsvar for heiser basert på kvalitetssikring av produksjonen som fastsatt i vedlegg XIIdersom de er konstruert og produsert i henhold til et kvalitetssystem som er godkjent i samsvar med vedlegg XI:sluttkontroll av heiser som fastsatt i vedlegg Vtypesamsvar for heiser basert på kvalitetssikring av produkter som fastsatt i vedlegg Xtypesamsvar for heiser basert på kvalitetssikring av produksjonen som fastsatt i vedlegg XIIsamsvar for heiser basert på verifisering av enkelteksemplarer som fastsatt i vedlegg VIIIsamsvar for heiser basert på fullstendig kvalitetssikring pluss konstruksjonskontroll som fastsatt i vedlegg XI.
+Heiser skal være gjenstand for en av følgende framgangsmåter for samsvarsvurdering:
+
+1. dersom de er konstruert og produsert i samsvar med en typeheis som har vært gjenstand for EU-typeprøving i henhold til vedlegg IV del B:
+
+   1. sluttkontroll av heiser som fastsatt i vedlegg V
+   2. typesamsvar for heiser basert på kvalitetssikring av produkter som fastsatt i vedlegg X
+   3. typesamsvar for heiser basert på kvalitetssikring av produksjonen som fastsatt i vedlegg XII
+2. dersom de er konstruert og produsert i henhold til et kvalitetssystem som er godkjent i samsvar med vedlegg XI:
+
+   1. sluttkontroll av heiser som fastsatt i vedlegg V
+   2. typesamsvar for heiser basert på kvalitetssikring av produkter som fastsatt i vedlegg X
+   3. typesamsvar for heiser basert på kvalitetssikring av produksjonen som fastsatt i vedlegg XII
+3. samsvar for heiser basert på verifisering av enkelteksemplarer som fastsatt i vedlegg VIII
+4. samsvar for heiser basert på fullstendig kvalitetssikring pluss konstruksjonskontroll som fastsatt i vedlegg XI.
 
 I tilfellene nevnt i første ledd bokstav a) og b) skal den som er ansvarlig for konstruksjon og produksjon av heisen, dersom den ikke også er ansvarlig for installasjon og prøving av heisen, gi sistnevnte alle nødvendige dokumenter og opplysninger slik at sistnevnte kan sikre korrekt og sikker installasjon og prøving av heisen.
 
@@ -200,9 +269,17 @@ CE-merkingen skal påføres hver heisstol og hver sikkerhetskomponent slik at de
 
 CE-merkingen skal påføres før heisen eller sikkerhetskomponentene bringes i omsetning.
 
-CE-merkingen på heiser skal etterfølges av identifikasjonsnummeret til det tekniske kontrollorganet som deltar i en av følgende framgangsmåter for samsvarsvurdering:sluttkontroll som nevnt i vedlegg Vverifisering av enkelteksemplarer som nevnt i vedlegg VIIIkvalitetssikring som nevnt i vedlegg X, XI eller XII.
+CE-merkingen på heiser skal etterfølges av identifikasjonsnummeret til det tekniske kontrollorganet som deltar i en av følgende framgangsmåter for samsvarsvurdering:
 
-CE-merkingen på sikkerhetskomponenter skal etterfølges av identifikasjonsnummeret til det tekniske kontrollorganet som deltar i en av følgende framgangsmåter for samsvarsvurdering:kvalitetssikring av produkter som nevnt i vedlegg VIfullstendig kvalitetssikring som nevnt i vedlegg VIItypesamsvar for sikkerhetskomponenter med stikkprøvekontroll som nevnt i vedlegg IX.
+1. sluttkontroll som nevnt i vedlegg V
+2. verifisering av enkelteksemplarer som nevnt i vedlegg VIII
+3. kvalitetssikring som nevnt i vedlegg X, XI eller XII.
+
+CE-merkingen på sikkerhetskomponenter skal etterfølges av identifikasjonsnummeret til det tekniske kontrollorganet som deltar i en av følgende framgangsmåter for samsvarsvurdering:
+
+1. kvalitetssikring av produkter som nevnt i vedlegg VI
+2. fullstendig kvalitetssikring som nevnt i vedlegg VII
+3. typesamsvar for sikkerhetskomponenter med stikkprøvekontroll som nevnt i vedlegg IX.
 
 Det tekniske kontrollorganets identifikasjonsnummer skal påføres av organet selv eller av produsenten eller dennes representant eller installatøren eller dennes representant, etter organets anvisning. CE-merkingen og det tekniske kontrollorganets identifikasjonsnummer kan etterfølges av et annet merke som angir en særlig risiko eller bruk.
 
@@ -238,11 +315,20 @@ Et teknisk kontrollorgan, dets øverste ledelse og personell som har ansvar for 
 
 De tekniske kontrollorganene og deres personell skal utføre samsvarsvurderingsvirksomheten med den største faglige integritet og ha de nødvendige tekniske kvalifikasjoner på det aktuelle området, og de skal ikke være utsatt for noen form for press eller påvirkning, særlig av økonomisk art, som kan påvirke deres skjønn eller resultatene av deres samsvarsvurderingsvirksomhet, særlig ikke fra personer eller grupper av personer som berøres av resultatene av denne virksomheten.
 
-Et teknisk kontrollorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt i henhold til vedlegg IV–XII, og som det er utpekt for, uansett om disse oppgaver utføres av det tekniske kontrollorganet selv eller på dets vegne og ansvar. Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av heiser eller sikkerhetskomponenter som det er utpekt for, ha til rådighetnødvendig personell med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingennødvendige beskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene. Organet skal ha egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som utpekt organ, og annen virksomhetnødvendige framgangsmåter for utførelse av virksomheten, som tar behørig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, kompleksiteten ved det aktuelle produktets teknologi samt produksjonsprosessens masse- eller seriepreg.
+Et teknisk kontrollorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt i henhold til vedlegg IV–XII, og som det er utpekt for, uansett om disse oppgaver utføres av det tekniske kontrollorganet selv eller på dets vegne og ansvar. Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av heiser eller sikkerhetskomponenter som det er utpekt for, ha til rådighet
+
+1. nødvendig personell med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingen
+2. nødvendige beskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene. Organet skal ha egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som utpekt organ, og annen virksomhet
+3. nødvendige framgangsmåter for utførelse av virksomheten, som tar behørig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, kompleksiteten ved det aktuelle produktets teknologi samt produksjonsprosessens masse- eller seriepreg.
 
 Et teknisk kontrollorgan skal ha de nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgaver som er forbundet med samsvarsvurderingsvirksomheten, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige anlegg.
 
-Personell med ansvar for å utføre samsvarsvurderinger skal hasolid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som det tekniske kontrollorganet er utpekt fortilfredsstillende kunnskap om de krav som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderingertilfredsstillende kunnskap om og forståelse av de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I, gjeldende harmoniserte standarder og relevante bestemmelser i EØS'harmoniseringsregelverk og i nasjonal lovgivningkompetanse til å utarbeide sertifikater, dokumenter og rapporter som viser at vurderingene er utført.
+Personell med ansvar for å utføre samsvarsvurderinger skal ha
+
+1. solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som det tekniske kontrollorganet er utpekt for
+2. tilfredsstillende kunnskap om de krav som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderinger
+3. tilfredsstillende kunnskap om og forståelse av de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I, gjeldende harmoniserte standarder og relevante bestemmelser i EØS'harmoniseringsregelverk og i nasjonal lovgivning
+4. kompetanse til å utarbeide sertifikater, dokumenter og rapporter som viser at vurderingene er utført.
 
 Det skal sikres at det tekniske kontrollorganet, dets øverste ledelse og personell med ansvar for å utføre samsvarsvurderinger er upartiske. Godtgjøringen til et teknisk kontrollorgans øverste ledelse og til personell med ansvar for å utføre samsvarsvurderingene skal ikke være avhengig av antallet utførte vurderinger eller av resultatet av slike vurderinger.
 
@@ -286,7 +372,12 @@ Dersom det ikke treffes korrigerende tiltak, eller dersom de ikke har den ønske
 
 ### § 27. Tekniske kontrollorganers informasjonsplikt
 
-Tekniske kontrollorgan skal underrette utpekingsmyndigheten omalle tilfeller av avslag, begrensning, midlertidig oppheving eller tilbaketrekking av et sertifikat eller en beslutning om godkjenning av kvalitetssystemalle omstendigheter som påvirker omfanget av eller vilkårene for utpekingalle anmodninger de har mottatt fra markedstilsynsmyndighetene vedrørende opplysninger om samsvarsvurderingsvirksomhetpå anmodning, samsvarsvurderingsvirksomhet som er utført innenfor rammen av organets utpeking, og enhver annen virksomhet som er utført, herunder virksomhet og underleveranser over landegrensene.
+Tekniske kontrollorgan skal underrette utpekingsmyndigheten om
+
+1. alle tilfeller av avslag, begrensning, midlertidig oppheving eller tilbaketrekking av et sertifikat eller en beslutning om godkjenning av kvalitetssystem
+2. alle omstendigheter som påvirker omfanget av eller vilkårene for utpeking
+3. alle anmodninger de har mottatt fra markedstilsynsmyndighetene vedrørende opplysninger om samsvarsvurderingsvirksomhet
+4. på anmodning, samsvarsvurderingsvirksomhet som er utført innenfor rammen av organets utpeking, og enhver annen virksomhet som er utført, herunder virksomhet og underleveranser over landegrensene.
 
 Tekniske kontrollorganer skal gi de andre organene som er utpekt i henhold til denne forskrift og som utfører tilsvarende former for samsvarsvurdering som omfatter de samme typene heiser eller sikkerhetskomponenter, alle relevante opplysninger om spørsmål knyttet til negative og, på anmodning, positive resultater av samsvarsvurderinger.
 
@@ -322,7 +413,10 @@ Markedstilsynsmyndighetene skal underrette det relevante tekniske kontrollorgan 
 
 Markedsdeltakeren skal sikre at alle egnede korrigerende tiltak treffes med hensyn til alle berørte heiser som denne har brakt i omsetning eller gjort tilgjengelig på EØS-markedet.
 
-Dersom installatøren ikke treffer fyllestgjørende korrigerende tiltak innen fristen nevnt i annet ledd, skal markedstilsynsmyndighetenetreffe alle egnede midlertidige tiltak for å forby eller begrense omsetningen av den berørte heisen på deres nasjonale marked eller bruken av den, ellertilbakekalle heisen.
+Dersom installatøren ikke treffer fyllestgjørende korrigerende tiltak innen fristen nevnt i annet ledd, skal markedstilsynsmyndighetene
+
+1. treffe alle egnede midlertidige tiltak for å forby eller begrense omsetningen av den berørte heisen på deres nasjonale marked eller bruken av den, eller
+2. tilbakekalle heisen.
 
 Dersom markedstilsynsmyndighetene anser at det manglende samsvaret ikke er begrenset til deres nasjonale territorium, skal de underrette Kommisjonen og de andre EØS-statene om resultatene av vurderingen og om de tiltak de har pålagt markedsdeltakerne å treffe.
 
@@ -330,21 +424,43 @@ Dersom markedstilsynsmyndighetene anser at det manglende samsvaret ikke er begre
 
 Dersom markedstilsynsmyndighetene har tilstrekkelige grunner til å anta at en sikkerhetskomponent som omfattes av denne forskrift, utgjør en risiko for menneskers helse eller sikkerhet eller eventuelt for sikkerheten for eiendom, skal de utføre en vurdering av den berørte sikkerhetskomponenten som omfatter alle relevante krav fastsatt i denne forskrift. De berørte markedsdeltakere skal samarbeide med markedstilsynsmyndighetene for dette formål etter behov.
 
-Dersom markedstilsynsmyndighetene i forbindelse med vurderingen nevnt i første ledd finner at en sikkerhetskomponent ikke oppfyller kravene i denne forskrift, skal de omgående kreve at den berørte markedsdeltaker treffer alle egnede korrigerende tiltak for åbringe sikkerhetskomponenten i samsvar med disse kravenetrekker sikkerhetskomponenten tilbake fra markedet ellertilbakekaller sikkerhetskomponenteninnen en rimelig frist som de fastsetter ut fra risikoens art.
+Dersom markedstilsynsmyndighetene i forbindelse med vurderingen nevnt i første ledd finner at en sikkerhetskomponent ikke oppfyller kravene i denne forskrift, skal de omgående kreve at den berørte markedsdeltaker treffer alle egnede korrigerende tiltak for å
+
+1. bringe sikkerhetskomponenten i samsvar med disse kravene
+2. trekker sikkerhetskomponenten tilbake fra markedet eller
+3. tilbakekaller sikkerhetskomponenten
+
+innen en rimelig frist som de fastsetter ut fra risikoens art.
 
 Markedstilsynsmyndighetene skal underrette det relevante tekniske kontrollorgan om dette. Artikkel 21 i forordning [(EF) nr. 765/2008](eu/32008r0765) får anvendelse på tiltakene nevnt i annet ledd.
 
 Markedsdeltakeren skal sikre at alle egnede korrigerende tiltak treffes med hensyn til alle berørte sikkerhetskomponenter som denne har brakt i omsetning eller gjort tilgjengelig på EØS-markedet.
 
-Dersom den berørte markedsdeltaker ikke treffer fyllestgjørende korrigerende tiltak innen fristen nevnt i annet ledd, skal markedstilsynsmyndighetene treffe alle egnede midlertidige tiltak for åforby eller begrense tilgjengeliggjøring av sikkerhetskomponenten på deres nasjonale markedtrekke sikkerhetskomponenten tilbake fra dette markedet ellertilbakekalle sikkerhetskomponenten.
+Dersom den berørte markedsdeltaker ikke treffer fyllestgjørende korrigerende tiltak innen fristen nevnt i annet ledd, skal markedstilsynsmyndighetene treffe alle egnede midlertidige tiltak for å
+
+1. forby eller begrense tilgjengeliggjøring av sikkerhetskomponenten på deres nasjonale marked
+2. trekke sikkerhetskomponenten tilbake fra dette markedet eller
+3. tilbakekalle sikkerhetskomponenten.
 
 Dersom markedstilsynsmyndighetene anser at det manglende samsvaret ikke er begrenset til deres nasjonale territorium, skal de underrette Kommisjonen og de andre EØS-statene om resultatene av vurderingen og om de tiltak de har pålagt markedsdeltakerne å treffe.
 
 ### § 33. Heiser eller sikkerhetskomponenter som oppfyller kravene, men som utgjør en risiko
 
-Dersom markedstilsynsmyndigheten etter å ha utført en vurdering i henhold til [§ 31](forskrift/2016-04-13-373/§31) første ledd kommer til at en heis, selv om den er i samsvar med denne forskrift, utgjør en risiko for menneskers helse eller sikkerhet eller eventuelt for sikkerheten for eiendom, skal markedstilsynsmyndigheten kreve at installatøren treffer alle egnede tiltak for åsikre at den berørte heisen ikke lenger utgjør noen risikotilbakekaller heisen ellerbegrenser eller forbyr bruken av heiseninnen et rimelig tidsrom, som markedstilsynsmyndigheten fastsetter ut fra risikoens art.
+Dersom markedstilsynsmyndigheten etter å ha utført en vurdering i henhold til [§ 31](forskrift/2016-04-13-373/§31) første ledd kommer til at en heis, selv om den er i samsvar med denne forskrift, utgjør en risiko for menneskers helse eller sikkerhet eller eventuelt for sikkerheten for eiendom, skal markedstilsynsmyndigheten kreve at installatøren treffer alle egnede tiltak for å
 
-Dersom markedstilsynsmyndigheten etter å ha utført en vurdering i henhold til [§ 32](forskrift/2016-04-13-373/§32) første ledd kommer til at en sikkerhetskomponent, selv om den er i samsvar med denne forskrift, utgjør en risiko for menneskers helse eller sikkerhet eller eventuelt for sikkerheten for eiendom, skal markedstilsynsmyndigheten kreve at den berørte markedsdeltaker treffer alle egnede tiltak for åsikre at den berørte sikkerhetskomponent ikke lenger utgjør noen risiko når den bringes i omsetning,trekker sikkerhetskomponenten tilbake fra markedet ellertilbakekaller sikkerhetskomponenteninnen et rimelig tidsrom, som markedstilsynsmyndigheten fastsetter ut fra risikoens art.
+1. sikre at den berørte heisen ikke lenger utgjør noen risiko
+2. tilbakekaller heisen eller
+3. begrenser eller forbyr bruken av heisen
+
+innen et rimelig tidsrom, som markedstilsynsmyndigheten fastsetter ut fra risikoens art.
+
+Dersom markedstilsynsmyndigheten etter å ha utført en vurdering i henhold til [§ 32](forskrift/2016-04-13-373/§32) første ledd kommer til at en sikkerhetskomponent, selv om den er i samsvar med denne forskrift, utgjør en risiko for menneskers helse eller sikkerhet eller eventuelt for sikkerheten for eiendom, skal markedstilsynsmyndigheten kreve at den berørte markedsdeltaker treffer alle egnede tiltak for å
+
+1. sikre at den berørte sikkerhetskomponent ikke lenger utgjør noen risiko når den bringes i omsetning,
+2. trekker sikkerhetskomponenten tilbake fra markedet eller
+3. tilbakekaller sikkerhetskomponenten
+
+innen et rimelig tidsrom, som markedstilsynsmyndigheten fastsetter ut fra risikoens art.
 
 Markedsdeltakeren skal sikre at korrigerende tiltak treffes med hensyn til alle berørte heiser eller sikkerhetskomponenter som denne har brakt i omsetning eller gjort tilgjengelig på EØS-markedet.
 
@@ -352,11 +468,27 @@ Markedstilsynsmyndigheten skal umiddelbart underrette Kommisjonen og de øvrige 
 
 ### § 34. Formelt manglende samsvar
 
-Markedstilsynsmyndigheten skal pålegge den berørte markedsdeltaker å bringe det manglende samsvaret til opphør dersom markedstilsynsmyndigheten fastslår et av følgende tilfeller:CE-merkingen er påført i strid med artikkel 30 i forordning [(EF) nr. 765/2008](eu/32008r0765) eller [§ 19](forskrift/2016-04-13-373/§19) i denne forskriftCE-merkingen er ikke påførtidentifikasjonsnummeret til det tekniske kontrollorgan er påført i strid med [§ 19](forskrift/2016-04-13-373/§19) eller er ikke påført selv om dette i henhold til [§ 19](forskrift/2016-04-13-373/§19) skulle ha vært gjortdet er ikke utarbeidet noen EU-samsvarserklæringEU-samsvarserklæringen er ikke utarbeidet på riktig måteden tekniske dokumentasjonen nevnt i vedlegg IV del A og B og i vedlegg VII, VIII og XI er enten ikke tilgjengelig eller er ikke fullstendignavn, firma eller registrert varemerke eller adressen til installatøren, produsenten eller importøren er ikke angitt i samsvar med [§ 5](forskrift/2016-04-13-373/§5) sjette ledd, [§ 8](forskrift/2016-04-13-373/§8) sjette ledd eller [§ 10](forskrift/2016-04-13-373/§10) tredje leddopplysningene som gjør det mulig å identifisere heisen eller sikkerhetskomponenten, er ikke angitt i samsvar med [§ 5](forskrift/2016-04-13-373/§5) femte ledd eller [§ 8](forskrift/2016-04-13-373/§8) femte leddheisen eller sikkerhetskomponenten er ikke ledsaget av dokumentene nevnt i [§ 5](forskrift/2016-04-13-373/§5) syvende ledd eller [§ 8](forskrift/2016-04-13-373/§8) syvende ledd, eller dokumentene er ikke i samsvar med gjeldende krav.
+Markedstilsynsmyndigheten skal pålegge den berørte markedsdeltaker å bringe det manglende samsvaret til opphør dersom markedstilsynsmyndigheten fastslår et av følgende tilfeller:
 
-Dersom det manglende samsvaret nevnt i første ledd vedvarer for en heis, skal markedstilsynsmyndigheten treffe alle egnede tiltak for åbegrense eller forby bruken av heisen ellertilbakekalle heisen.
+1. CE-merkingen er påført i strid med artikkel 30 i forordning [(EF) nr. 765/2008](eu/32008r0765) eller [§ 19](forskrift/2016-04-13-373/§19) i denne forskrift
+2. CE-merkingen er ikke påført
+3. identifikasjonsnummeret til det tekniske kontrollorgan er påført i strid med [§ 19](forskrift/2016-04-13-373/§19) eller er ikke påført selv om dette i henhold til [§ 19](forskrift/2016-04-13-373/§19) skulle ha vært gjort
+4. det er ikke utarbeidet noen EU-samsvarserklæring
+5. EU-samsvarserklæringen er ikke utarbeidet på riktig måte
+6. den tekniske dokumentasjonen nevnt i vedlegg IV del A og B og i vedlegg VII, VIII og XI er enten ikke tilgjengelig eller er ikke fullstendig
+7. navn, firma eller registrert varemerke eller adressen til installatøren, produsenten eller importøren er ikke angitt i samsvar med [§ 5](forskrift/2016-04-13-373/§5) sjette ledd, [§ 8](forskrift/2016-04-13-373/§8) sjette ledd eller [§ 10](forskrift/2016-04-13-373/§10) tredje ledd
+8. opplysningene som gjør det mulig å identifisere heisen eller sikkerhetskomponenten, er ikke angitt i samsvar med [§ 5](forskrift/2016-04-13-373/§5) femte ledd eller [§ 8](forskrift/2016-04-13-373/§8) femte ledd
+9. heisen eller sikkerhetskomponenten er ikke ledsaget av dokumentene nevnt i [§ 5](forskrift/2016-04-13-373/§5) syvende ledd eller [§ 8](forskrift/2016-04-13-373/§8) syvende ledd, eller dokumentene er ikke i samsvar med gjeldende krav.
 
-Dersom det manglende samsvaret nevnt i første ledd vedvarer for en sikkerhetskomponent, skal markedstilsynsmyndighetenbegrense eller forby tilgjengeliggjøringen på markedet av sikkerhetskomponenten ellerpåse at sikkerhetskomponenten blir tilbakekalt eller trukket tilbake fra markedet.
+Dersom det manglende samsvaret nevnt i første ledd vedvarer for en heis, skal markedstilsynsmyndigheten treffe alle egnede tiltak for å
+
+1. begrense eller forby bruken av heisen eller
+2. tilbakekalle heisen.
+
+Dersom det manglende samsvaret nevnt i første ledd vedvarer for en sikkerhetskomponent, skal markedstilsynsmyndigheten
+
+1. begrense eller forby tilgjengeliggjøringen på markedet av sikkerhetskomponenten eller
+2. påse at sikkerhetskomponenten blir tilbakekalt eller trukket tilbake fra markedet.
 
 ### § 35. Tvangsmulkt
 
@@ -378,7 +510,14 @@ Høyere overtredelsesgebyr enn nevnt i annet ledd kan ilegges ved alvorlige over
 
 ### § 37. Utmåling av overtredelsesgebyr
 
-Ved vurdering av overtredelsesgebyrets størrelse kan markedstilsynsmyndigheten legge vekt på:hvor alvorlig overtredelsen erom eventuelt pålegg gitt med hjemmel i denne forskriften er fulgtom overtrederen gjentatte ganger har vært ansvarlig for forhold som kan medføre overtredelsesgebyrom overtredelsen bidrar til økonomisk gevinstom overtredelsen er gjort i vinnings hensiktom overtredelsesgebyret vil virke urimelig ut fra overtrederens økonomiske situasjon.
+Ved vurdering av overtredelsesgebyrets størrelse kan markedstilsynsmyndigheten legge vekt på:
+
+1. hvor alvorlig overtredelsen er
+2. om eventuelt pålegg gitt med hjemmel i denne forskriften er fulgt
+3. om overtrederen gjentatte ganger har vært ansvarlig for forhold som kan medføre overtredelsesgebyr
+4. om overtredelsen bidrar til økonomisk gevinst
+5. om overtredelsen er gjort i vinnings hensikt
+6. om overtredelsesgebyret vil virke urimelig ut fra overtrederens økonomiske situasjon.
 
 ### § 38. Gebyr
 
@@ -470,7 +609,12 @@ En gruppe heiser kan ha felles eller innbyrdes forbundne kallesystemer.
 
 1.6.4
 
-Elektrisk utstyr skal være installert og tilkoplet på en slik måte atdet ikke kan forekomme noen forveksling med kretser som ikke har direkte forbindelse med heisen,strømtilførselen kan koples når heisen er belastet,heisens bevegelser er avhengige av elektriske sikkerhetsinnretninger som er plassert i en uavhengig elektrisk sikkerhetskrets,en feil i den elektriske installasjonen ikke skaper en farlig situasjon.
+Elektrisk utstyr skal være installert og tilkoplet på en slik måte at
+
+1. det ikke kan forekomme noen forveksling med kretser som ikke har direkte forbindelse med heisen,
+2. strømtilførselen kan koples når heisen er belastet,
+3. heisens bevegelser er avhengige av elektriske sikkerhetsinnretninger som er plassert i en uavhengig elektrisk sikkerhetskrets,
+4. en feil i den elektriske installasjonen ikke skaper en farlig situasjon.
 
 2.*Risiko for personer utenfor heisstolen*
 
@@ -490,7 +634,10 @@ For at medlemsstatene skal kunne gi forhåndsgodkjenning, særlig i eksisterende
 
 Avsatsene ved inn- og utgangene til heisstolen skal være utstyrt med etasjedører med en mekanisk motstandsevne som er tilstrekkelig for de bruksvilkår heisen er beregnet på.
 
-En forriglingsinnretning skal under normal drift hindreat heisstolen begynner å bevege seg, enten den aktiveres forsettlig eller ikke, med mindre alle etasjedører er lukket og låst,at etasjedøren åpnes når heisstolen fremdeles er i bevegelse og ikke befinner seg på høyde med et definert stopp.
+En forriglingsinnretning skal under normal drift hindre
+
+1. at heisstolen begynner å bevege seg, enten den aktiveres forsettlig eller ikke, med mindre alle etasjedører er lukket og låst,
+2. at etasjedøren åpnes når heisstolen fremdeles er i bevegelse og ikke befinner seg på høyde med et definert stopp.
 
 Justeringsbevegelser med dørene åpne skal imidlertid være mulig i bestemte soner, forutsatt at dette skjer med kontrollert hastighet.
 
@@ -578,11 +725,19 @@ Dersom heisen er konstruert slik at personer som befinner seg i en heis som er s
 
 6.1
 
-Med sikkerhetskomponentene som er nevnt i vedlegg III, skal det følge en instruksjon slik at følgende kan utføres effektivt og uten fare:montering,tilkopling,justering,vedlikehold.
+Med sikkerhetskomponentene som er nevnt i vedlegg III, skal det følge en instruksjon slik at følgende kan utføres effektivt og uten fare:
+
+1. montering,
+2. tilkopling,
+3. justering,
+4. vedlikehold.
 
 6.2
 
-En instruksjon skal følge hver heis. Instruksjonene skal inneholde minst følgende dokumenter:en instruksjon som inneholder de nødvendige tegninger og diagrammer for normal bruk, samt veiledning for vedlikehold, inspeksjon, reparasjon, periodiske kontroller og redningsoperasjonene nevnt i nr. 4.4,en loggbok der reparasjoner og eventuelt periodiske kontroller noteres.
+En instruksjon skal følge hver heis. Instruksjonene skal inneholde minst følgende dokumenter:
+
+1. en instruksjon som inneholder de nødvendige tegninger og diagrammer for normal bruk, samt veiledning for vedlikehold, inspeksjon, reparasjon, periodiske kontroller og redningsoperasjonene nevnt i nr. 4.4,
+2. en loggbok der reparasjoner og eventuelt periodiske kontroller noteres.
 
 1 EUT L 157 av 9.6.2006, s. 24.
 
@@ -590,18 +745,52 @@ En instruksjon skal følge hver heis. Instruksjonene skal inneholde minst følge
 
 ### A. Innhold i EU-samsvarserklæringen for sikkerhetskomponenter
 
-EU-samsvarserklæringen for sikkerhetskomponenter skal inneholde følgende opplysninger:produsentens navn og adresse,eventuelt representantens navn og adresse,beskrivelse av sikkerhetskomponenten, med nærmere opplysninger om type eller serie og eventuelt serienummer; denne kan, dersom det er nødvendig for å kunne identifisere sikkerhetskomponenten, omfatte et bilde,sikkerhetsfunksjonen til sikkerhetskomponenten, dersom denne ikke framgår klart av beskrivelsen,produksjonsåret for sikkerhetskomponenten,alle relevante bestemmelser som sikkerhetskomponenten oppfyller,en erklæring om at sikkerhetskomponenten er i samsvar med relevante deler av Unionens harmoniseringsregelverk,eventuelt henvisning til de harmoniserte standarder som er brukt,eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har utført EU-typeprøvingen av sikkerhetskomponenter som fastsatt i vedlegg IV del A og vedlegg VI, og henvisning til EU-typeprøvingssertifikatet utstedt av nevnte tekniske kontrollorgan,eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har utført typesamsvarsprøvingen med stikkprøvekontroll av sikkerhetskomponenter som fastsatt i vedlegg IX,eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har godkjent produsentens kvalitetssystem i samsvar med framgangsmåten for samsvarsvurdering fastsatt i vedlegg VI eller VII,navn og stilling til den personen som har fullmakt til å undertegne erklæringen på vegne av produsenten eller dennes representant,sted og dato,underskrift.
+EU-samsvarserklæringen for sikkerhetskomponenter skal inneholde følgende opplysninger:
+
+1. produsentens navn og adresse,
+2. eventuelt representantens navn og adresse,
+3. beskrivelse av sikkerhetskomponenten, med nærmere opplysninger om type eller serie og eventuelt serienummer; denne kan, dersom det er nødvendig for å kunne identifisere sikkerhetskomponenten, omfatte et bilde,
+4. sikkerhetsfunksjonen til sikkerhetskomponenten, dersom denne ikke framgår klart av beskrivelsen,
+5. produksjonsåret for sikkerhetskomponenten,
+6. alle relevante bestemmelser som sikkerhetskomponenten oppfyller,
+7. en erklæring om at sikkerhetskomponenten er i samsvar med relevante deler av Unionens harmoniseringsregelverk,
+8. eventuelt henvisning til de harmoniserte standarder som er brukt,
+9. eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har utført EU-typeprøvingen av sikkerhetskomponenter som fastsatt i vedlegg IV del A og vedlegg VI, og henvisning til EU-typeprøvingssertifikatet utstedt av nevnte tekniske kontrollorgan,
+10. eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har utført typesamsvarsprøvingen med stikkprøvekontroll av sikkerhetskomponenter som fastsatt i vedlegg IX,
+11. eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har godkjent produsentens kvalitetssystem i samsvar med framgangsmåten for samsvarsvurdering fastsatt i vedlegg VI eller VII,
+12. navn og stilling til den personen som har fullmakt til å undertegne erklæringen på vegne av produsenten eller dennes representant,
+13. sted og dato,
+14. underskrift.
 
 ### B. Innhold i EU-samsvarserklæringen for heiser
 
-EU-samsvarserklæringen for heiser skal utarbeides på samme språk som instruksjonen nevnt i vedlegg I nr. 6.2 og skal inneholde følgende opplysninger:installatørens navn og adresse,eventuelt representantens navn og adresse,beskrivelse av heisen, nærmere opplysninger om type eller serie samt serienummer og adressen der heisen er installert,heisens installasjonsår,alle relevante bestemmelser som heisen oppfyller,en erklæring om at heisen er i samsvar med relevante deler av Unionens harmoniseringsregelverk,eventuelt henvisning til de harmoniserte standarder som er brukt,eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har utført EU-typeprøvingen av heiser som fastsatt i vedlegg IV del B, og henvisning til EU-typeprøvingssertifikatet utstedt av det nevnte tekniske kontrollorganet,eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har utført verifiseringen av enkelteksemplarer av heiser som fastsatt i vedlegg VIII,eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har utført sluttkontrollen av heiser som fastsatt i vedlegg V,eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har godkjent installatørens kvalitetssystem i samsvar med framgangsmåten for samsvarsvurdering fastsatt i vedlegg X, XI eller XII,navn og stilling til den personen som har fullmakt til å undertegne erklæringen på vegne av installatøren eller dennes representant,sted og dato,underskrift.
+EU-samsvarserklæringen for heiser skal utarbeides på samme språk som instruksjonen nevnt i vedlegg I nr. 6.2 og skal inneholde følgende opplysninger:
+
+1. installatørens navn og adresse,
+2. eventuelt representantens navn og adresse,
+3. beskrivelse av heisen, nærmere opplysninger om type eller serie samt serienummer og adressen der heisen er installert,
+4. heisens installasjonsår,
+5. alle relevante bestemmelser som heisen oppfyller,
+6. en erklæring om at heisen er i samsvar med relevante deler av Unionens harmoniseringsregelverk,
+7. eventuelt henvisning til de harmoniserte standarder som er brukt,
+8. eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har utført EU-typeprøvingen av heiser som fastsatt i vedlegg IV del B, og henvisning til EU-typeprøvingssertifikatet utstedt av det nevnte tekniske kontrollorganet,
+9. eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har utført verifiseringen av enkelteksemplarer av heiser som fastsatt i vedlegg VIII,
+10. eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har utført sluttkontrollen av heiser som fastsatt i vedlegg V,
+11. eventuelt navn, adresse og identifikasjonsnummer til det tekniske kontrollorganet som har godkjent installatørens kvalitetssystem i samsvar med framgangsmåten for samsvarsvurdering fastsatt i vedlegg X, XI eller XII,
+12. navn og stilling til den personen som har fullmakt til å undertegne erklæringen på vegne av installatøren eller dennes representant,
+13. sted og dato,
+14. underskrift.
 
 ## Vedlegg III. Liste over sikkerhetskomponenter for heiser
 
 1. Innretninger for låsing av etasjedørene.
 2. Innretninger for å hindre fall som nevnt i nr. 3.2 i vedlegg I, for å hindre heisstolen i å falle eller foreta ukontrollerte bevegelser.
 3. Hastighetsbegrensere.
-4. Energiakkumulerende buffere:ikke-lineære, ellermed demping av returbevegelsen.Energiabsorberende buffere.
+4. 1. Energiakkumulerende buffere:
+
+      1. ikke-lineære, eller
+      2. med demping av returbevegelsen.
+   2. Energiabsorberende buffere.
 5. Sikkerhetsinnretninger på hydrauliske sylindere i hydrauliske kretser, når de brukes som innretninger for å hindre fall.
 6. Elektriske sikkerhetsinnretninger i form av sikkerhetsbrytere med elektroniske komponenter.
 
@@ -610,31 +799,115 @@ EU-samsvarserklæringen for heiser skal utarbeides på samme språk som instruks
 ### A. EU-typeprøving av sikkerhetskomponenter
 
 1. EU-typeprøving er den del av framgangsmåten for samsvarsvurdering der et teknisk kontrollorgan undersøker en sikkerhetskomponents tekniske konstruksjon og kontrollerer og bekrefter at sikkerhetskomponentens tekniske konstruksjon oppfyller de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I og vil sikre at en heis som den er korrekt montert i, oppfyller nevnte krav.
-2. Søknaden om EU-typeprøving skal sendes inn av produsenten eller dennes representant til ett enkelt teknisk kontrollorgan etter eget valg.Søknaden skal inneholdeprodusentens navn og adresse, og representantens navn og adresse dersom søknaden inngis av representanten, samt produksjonsstedet for sikkerhetskomponenten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen,et representativt eksemplar av sikkerhetskomponenten eller nærmere opplysninger om stedet der den kan bli undersøkt. Det tekniske kontrollorgan kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter, herunder andre relevante tekniske spesifikasjoner som er brukt, særlig der relevante harmoniserte standarder ikke er anvendt fullt ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger utført i samsvar med andre relevante tekniske spesifikasjoner av egnet laboratorium hos produsenten eller av et annet prøvingslaboratorium på produsentens vegne og ansvar.
-3. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om sikkerhetskomponenten oppfyller vilkårene nevnt i nr. 1, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke konstruksjon, produksjon og virkemåte for sikkerhetskomponenten.I den grad det er relevant, skal den tekniske dokumentasjonen inneholdeen beskrivelse av sikkerhetskomponenten, herunder dens bruksområde (særlig eventuelle begrensninger med hensyn til hastighet, last og kraft) og forhold (særlig eksplosive atmosfærer og væreksponering),konstruksjons- og produksjonstegninger og -diagrammer,nødvendige beskrivelser og forklaringer for å forstå tegningene og diagrammene og hvordan sikkerhetskomponenten fungerer,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for at sikkerhetskomponenten skal oppfylle vilkårene nevnt i nr. 1, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger utført av eller for produsenten,prøvingsrapporter,et eksemplar av instruksjonen for sikkerhetskomponentene,tiltak som er truffet på produksjonstrinnet for å sikre at serieproduserte sikkerhetskomponenter er i samsvar med den sikkerhetskomponenten som er undersøkt.
-4. Det tekniske kontrollorgan skalundersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om sikkerhetskomponenten har en tilfredsstillende teknisk konstruksjon,avtale med søkeren hvor undersøkelsene og prøvingene skal gjennomføres,kontrollere at eksemplaret eller eksemplarene er produsert i samsvar med den tekniske dokumentasjonen, og identifisere deler som er konstruert i henhold til gjeldende bestemmelser i relevante harmoniserte standarder, samt deler som er konstruert i samsvar med andre relevante tekniske spesifikasjoner,gjennomføre eller besørge gjennomført hensiktsmessige undersøkelser og prøvinger for å kontrollere om relevante harmoniserte standarder er anvendt på riktig måte, der produsenten har valgt å anvende dem,utføre eller besørge utført hensiktsmessige undersøkelser og prøvinger for å kontrollere, i tilfeller der spesifikasjonene i relevante harmoniserte standarder ikke er anvendt, om løsningene produsenten har valgt fra andre relevante tekniske spesifikasjoner, sikrer at sikkerhetskomponenten oppfyller vilkårene nevnt i nr. 1.Det tekniske kontrollorgan skal utarbeide en vurderingsrapport som beskriver undersøkelsene, kontrollene og prøvingene som er gjennomført, og resultatene av dem. Uten at det berører dets forpliktelser overfor utpekingsmyndigheten, skal det tekniske kontrollorganet ikke offentliggjøre hele eller deler av innholdet i rapporten uten produsentens samtykke.
-5. Når typen sikkerhetskomponent oppfyller vilkårene nevnt i nr. 1, skal det tekniske kontrollorganet utstede et EU-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde produsentens navn og adresse, konklusjonene av EU-typeprøvingen, alle vilkår for sertifikatets gyldighet og tilstrekkelige opplysninger til å kunne identifisere den godkjente typen.EU-typeprøvingssertifikatet kan ha ett eller flere vedlegg.EU-typeprøvingssertifikatet med vedlegg skal inneholde alle opplysninger som er nødvendige for å vurdere om de produserte sikkerhetskomponentene er i samsvar med den undersøkte typen, og for å kontrollere produkter i brukDersom typen sikkerhetskomponent ikke oppfyller vilkårene nevnt i nr. 1, skal det tekniske kontrollorganet nekte å utstede et EU-typeprøvingssertifikat og skal underrette søkeren om dette, med en detaljert begrunnelse for avslaget.Det tekniske kontrollorganet skal oppbevare en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg og den tekniske dokumentasjonen og vurderingsrapporten i 15 år fra den dato sertifikatet ble utstedt.
+2. Søknaden om EU-typeprøving skal sendes inn av produsenten eller dennes representant til ett enkelt teknisk kontrollorgan etter eget valg.
+
+   Søknaden skal inneholde
+
+   1. produsentens navn og adresse, og representantens navn og adresse dersom søknaden inngis av representanten, samt produksjonsstedet for sikkerhetskomponenten,
+   2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+   3. den tekniske dokumentasjonen,
+   4. et representativt eksemplar av sikkerhetskomponenten eller nærmere opplysninger om stedet der den kan bli undersøkt. Det tekniske kontrollorgan kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,
+   5. underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter, herunder andre relevante tekniske spesifikasjoner som er brukt, særlig der relevante harmoniserte standarder ikke er anvendt fullt ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger utført i samsvar med andre relevante tekniske spesifikasjoner av egnet laboratorium hos produsenten eller av et annet prøvingslaboratorium på produsentens vegne og ansvar.
+3. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om sikkerhetskomponenten oppfyller vilkårene nevnt i nr. 1, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke konstruksjon, produksjon og virkemåte for sikkerhetskomponenten.
+
+   I den grad det er relevant, skal den tekniske dokumentasjonen inneholde
+
+   1. en beskrivelse av sikkerhetskomponenten, herunder dens bruksområde (særlig eventuelle begrensninger med hensyn til hastighet, last og kraft) og forhold (særlig eksplosive atmosfærer og væreksponering),
+   2. konstruksjons- og produksjonstegninger og -diagrammer,
+   3. nødvendige beskrivelser og forklaringer for å forstå tegningene og diagrammene og hvordan sikkerhetskomponenten fungerer,
+   4. en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for at sikkerhetskomponenten skal oppfylle vilkårene nevnt i nr. 1, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+   5. resultater av konstruksjonsberegninger utført av eller for produsenten,
+   6. prøvingsrapporter,
+   7. et eksemplar av instruksjonen for sikkerhetskomponentene,
+   8. tiltak som er truffet på produksjonstrinnet for å sikre at serieproduserte sikkerhetskomponenter er i samsvar med den sikkerhetskomponenten som er undersøkt.
+4. Det tekniske kontrollorgan skal
+
+   1. undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om sikkerhetskomponenten har en tilfredsstillende teknisk konstruksjon,
+   2. avtale med søkeren hvor undersøkelsene og prøvingene skal gjennomføres,
+   3. kontrollere at eksemplaret eller eksemplarene er produsert i samsvar med den tekniske dokumentasjonen, og identifisere deler som er konstruert i henhold til gjeldende bestemmelser i relevante harmoniserte standarder, samt deler som er konstruert i samsvar med andre relevante tekniske spesifikasjoner,
+   4. gjennomføre eller besørge gjennomført hensiktsmessige undersøkelser og prøvinger for å kontrollere om relevante harmoniserte standarder er anvendt på riktig måte, der produsenten har valgt å anvende dem,
+   5. utføre eller besørge utført hensiktsmessige undersøkelser og prøvinger for å kontrollere, i tilfeller der spesifikasjonene i relevante harmoniserte standarder ikke er anvendt, om løsningene produsenten har valgt fra andre relevante tekniske spesifikasjoner, sikrer at sikkerhetskomponenten oppfyller vilkårene nevnt i nr. 1.
+
+   Det tekniske kontrollorgan skal utarbeide en vurderingsrapport som beskriver undersøkelsene, kontrollene og prøvingene som er gjennomført, og resultatene av dem. Uten at det berører dets forpliktelser overfor utpekingsmyndigheten, skal det tekniske kontrollorganet ikke offentliggjøre hele eller deler av innholdet i rapporten uten produsentens samtykke.
+5. Når typen sikkerhetskomponent oppfyller vilkårene nevnt i nr. 1, skal det tekniske kontrollorganet utstede et EU-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde produsentens navn og adresse, konklusjonene av EU-typeprøvingen, alle vilkår for sertifikatets gyldighet og tilstrekkelige opplysninger til å kunne identifisere den godkjente typen.
+
+   EU-typeprøvingssertifikatet kan ha ett eller flere vedlegg.
+
+   EU-typeprøvingssertifikatet med vedlegg skal inneholde alle opplysninger som er nødvendige for å vurdere om de produserte sikkerhetskomponentene er i samsvar med den undersøkte typen, og for å kontrollere produkter i bruk
+
+   Dersom typen sikkerhetskomponent ikke oppfyller vilkårene nevnt i nr. 1, skal det tekniske kontrollorganet nekte å utstede et EU-typeprøvingssertifikat og skal underrette søkeren om dette, med en detaljert begrunnelse for avslaget.
+
+   Det tekniske kontrollorganet skal oppbevare en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg og den tekniske dokumentasjonen og vurderingsrapporten i 15 år fra den dato sertifikatet ble utstedt.
 6. Det tekniske kontrollorganet skal holde seg underrettet om alle endringer i det allment anerkjente nåværende utviklingstrinn i teknikken som tyder på at den godkjente typen ikke lenger oppfyller vilkårene nevnt i nr. 1, og avgjøre om slike endringer krever ytterligere undersøkelse. I så tilfelle skal det tekniske kontrollorganet underrette produsenten om dette.
-7. Produsenten skal underrette det tekniske kontrollorganet som har den tekniske dokumentasjonen for EU-typeprøvingssertifikatet, om alle endringer av den godkjente typen som kan ha betydning for om sikkerhetskomponenten oppfyller vilkårene nevnt i nr. 1 eller gyldighetsvilkårene for EU-typeprøvingssertifikatet.Det tekniske kontrollorganet skal undersøke endringen og underrette søkeren om EU-typeprøvingssertifikatet fortsatt er gyldig eller om ytterligere undersøkelser, kontroller eller prøvinger er nødvendig. Det tekniske kontrollorganet skal utstede et tillegg til det opprinnelige EU-typeprøvingssertifikatet eller be om at en ny søknad om EU-typeprøvingssertifikat sendes inn, alt etter hva som er relevant.
-8. Hvert tekniske kontrollorgan skal underrette sin utpekingsmyndighet om EU-typeprøvingssertifikatene og eventuelle tillegg til dem som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for utpekingsmyndigheten fortegnelser over slike sertifikater og tillegg til dem som er avslått, midlertidig opphevet eller på andre måter begrenset.Hvert tekniske kontrollorgan skal underrette de andre tekniske kontrollorganene om EU-typeprøvingssertifikatene og eventuelle tillegg til dem som det har avslått, trukket tilbake, midlertidig opphevet eller på andre måter begrenset, og på anmodning om slike sertifikater og/eller tillegg til dem det har utstedt.
+7. Produsenten skal underrette det tekniske kontrollorganet som har den tekniske dokumentasjonen for EU-typeprøvingssertifikatet, om alle endringer av den godkjente typen som kan ha betydning for om sikkerhetskomponenten oppfyller vilkårene nevnt i nr. 1 eller gyldighetsvilkårene for EU-typeprøvingssertifikatet.
+
+   Det tekniske kontrollorganet skal undersøke endringen og underrette søkeren om EU-typeprøvingssertifikatet fortsatt er gyldig eller om ytterligere undersøkelser, kontroller eller prøvinger er nødvendig. Det tekniske kontrollorganet skal utstede et tillegg til det opprinnelige EU-typeprøvingssertifikatet eller be om at en ny søknad om EU-typeprøvingssertifikat sendes inn, alt etter hva som er relevant.
+8. Hvert tekniske kontrollorgan skal underrette sin utpekingsmyndighet om EU-typeprøvingssertifikatene og eventuelle tillegg til dem som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for utpekingsmyndigheten fortegnelser over slike sertifikater og tillegg til dem som er avslått, midlertidig opphevet eller på andre måter begrenset.
+
+   Hvert tekniske kontrollorgan skal underrette de andre tekniske kontrollorganene om EU-typeprøvingssertifikatene og eventuelle tillegg til dem som det har avslått, trukket tilbake, midlertidig opphevet eller på andre måter begrenset, og på anmodning om slike sertifikater og/eller tillegg til dem det har utstedt.
 9. Kommisjonen, medlemsstatene og de andre tekniske kontrollorganene kan på anmodning få en kopi av EU-typeprøvingssertifikatene og tilleggene til dem. På anmodning kan Kommisjonen og medlemsstatene få en kopi av den tekniske dokumentasjonen og resultatene av de undersøkelsene, kontrollene og prøvingene som er gjennomført av det tekniske kontrollorganet.
 10. Produsenten skal kunne framlegge en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg og den tekniske dokumentasjonen for de nasjonale myndigheter i ti år etter at sikkerhetskomponenten ble brakt i omsetning.
-11. RepresentantProdusentens representant kan inngi søknaden nevnt i nr. 2 og oppfylle forpliktelsene i nr. 7 og 10, forutsatt at de er angitt i fullmakten.
+11. Representant
+
+    Produsentens representant kan inngi søknaden nevnt i nr. 2 og oppfylle forpliktelsene i nr. 7 og 10, forutsatt at de er angitt i fullmakten.
 
 ### B. EU-typeprøving av heiser
 
-1. EU-typeprøving av heiser er den del av framgangsmåten for samsvarsvurdering der et teknisk kontrollorgan undersøker den tekniske konstruksjonen til en typeheis, eventuelt en heis som det ikke leveres noen utvidelse eller variant av, og kontrollerer og bekrefter at typeheisens eller heisens tekniske konstruksjon oppfyller de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.EU-typeprøving av en heis omfatter undersøkelse av et representativt eksemplar av en ferdigoppbygd heis.
-2. Søknaden om EU-typeprøving skal sendes inn av installatøren eller dennes representant til ett enkelt teknisk kontrollorgan etter eget valg.Søknaden skal inneholdeinstallatørens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen,opplysninger om stedet der heiseksemplaret kan bli undersøkt. Heiseksemplaret som presenteres for undersøkelse, skal omfatte tilslutningsdeler og kunne betjene minst tre nivåer (det øverste, det nederste og et mellomliggende),underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter, herunder andre relevante spesifikasjoner som er brukt, særlig der relevante harmoniserte standarder ikke er anvendt fullt ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger utført i samsvar med andre relevante tekniske spesifikasjoner av egnet laboratorium hos installatøren eller av et annet prøvingslaboratorium på installatørens vegne og ansvar.
-3. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om heisen oppfyller de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.I den grad det er relevant, skal den tekniske dokumentasjonen inneholdeen beskrivelse av typeheisen med tydelig angivelse av hvilke variasjoner som tillates av typeheisen,konstruksjons- og produksjonstegninger og -diagrammer,nødvendige beskrivelser og forklaringer for å forstå tegningene og diagrammene og hvordan heisen fungerer,en liste over de grunnleggende helse- og sikkerhetskravene som er tatt i betraktning,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende helse- og sikkerhetskravene i denne forskrift, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,en kopi av EU-samsvarserklæringene for de sikkerhetskomponenter som er montert i heisen,resultater av konstruksjonsberegninger utført av eller for installatøren,prøvingsrapporter,en kopi av instruksjonen nevnt i nr. 6.2 i vedlegg I,beskrivelse av de tiltak som er iverksatt i installasjonsfasen for å sikre at serieproduserte heiser oppfyller de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.
-4. Det tekniske kontrollorgan skalundersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om den tekniske konstruksjonen til en typeheis er tilfredsstillende, eventuelt en heis som det ikke leveres noen utvidelse eller variant av,avtale med installatøren hvor undersøkelsene og prøvingene skal gjennomføres,kontrollere at heiseksemplaret er produsert i samsvar med den tekniske dokumentasjonen, og identifisere deler som er konstruert i henhold til gjeldende bestemmelser i relevante harmoniserte standarder, og deler som er konstruert i samsvar med andre relevante tekniske spesifikasjoner,gjennomføre eller besørge gjennomført hensiktsmessige undersøkelser og prøvinger for å kontrollere om relevante harmoniserte standarder er anvendt på riktig måte, der installatøren har valgt å anvende dem,gjennomføre eller besørge gjennomført hensiktsmessige undersøkelser og prøvinger for å kontrollere om løsninger produsenten har valgt fra andre relevante tekniske spesifikasjoner, oppfyller de grunnleggende helse- og sikkerhetskravene i denne forskrift, i tilfeller der spesifikasjonene i relevante harmoniserte standarder ikke er anvendt.
+1. EU-typeprøving av heiser er den del av framgangsmåten for samsvarsvurdering der et teknisk kontrollorgan undersøker den tekniske konstruksjonen til en typeheis, eventuelt en heis som det ikke leveres noen utvidelse eller variant av, og kontrollerer og bekrefter at typeheisens eller heisens tekniske konstruksjon oppfyller de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.
+
+   EU-typeprøving av en heis omfatter undersøkelse av et representativt eksemplar av en ferdigoppbygd heis.
+2. Søknaden om EU-typeprøving skal sendes inn av installatøren eller dennes representant til ett enkelt teknisk kontrollorgan etter eget valg.
+
+   Søknaden skal inneholde
+
+   1. installatørens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+   2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+   3. den tekniske dokumentasjonen,
+   4. opplysninger om stedet der heiseksemplaret kan bli undersøkt. Heiseksemplaret som presenteres for undersøkelse, skal omfatte tilslutningsdeler og kunne betjene minst tre nivåer (det øverste, det nederste og et mellomliggende),
+   5. underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter, herunder andre relevante spesifikasjoner som er brukt, særlig der relevante harmoniserte standarder ikke er anvendt fullt ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger utført i samsvar med andre relevante tekniske spesifikasjoner av egnet laboratorium hos installatøren eller av et annet prøvingslaboratorium på installatørens vegne og ansvar.
+3. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om heisen oppfyller de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.
+
+   I den grad det er relevant, skal den tekniske dokumentasjonen inneholde
+
+   1. en beskrivelse av typeheisen med tydelig angivelse av hvilke variasjoner som tillates av typeheisen,
+   2. konstruksjons- og produksjonstegninger og -diagrammer,
+   3. nødvendige beskrivelser og forklaringer for å forstå tegningene og diagrammene og hvordan heisen fungerer,
+   4. en liste over de grunnleggende helse- og sikkerhetskravene som er tatt i betraktning,
+   5. en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende helse- og sikkerhetskravene i denne forskrift, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+   6. en kopi av EU-samsvarserklæringene for de sikkerhetskomponenter som er montert i heisen,
+   7. resultater av konstruksjonsberegninger utført av eller for installatøren,
+   8. prøvingsrapporter,
+   9. en kopi av instruksjonen nevnt i nr. 6.2 i vedlegg I,
+   10. beskrivelse av de tiltak som er iverksatt i installasjonsfasen for å sikre at serieproduserte heiser oppfyller de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.
+4. Det tekniske kontrollorgan skal
+
+   1. undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om den tekniske konstruksjonen til en typeheis er tilfredsstillende, eventuelt en heis som det ikke leveres noen utvidelse eller variant av,
+   2. avtale med installatøren hvor undersøkelsene og prøvingene skal gjennomføres,
+   3. kontrollere at heiseksemplaret er produsert i samsvar med den tekniske dokumentasjonen, og identifisere deler som er konstruert i henhold til gjeldende bestemmelser i relevante harmoniserte standarder, og deler som er konstruert i samsvar med andre relevante tekniske spesifikasjoner,
+   4. gjennomføre eller besørge gjennomført hensiktsmessige undersøkelser og prøvinger for å kontrollere om relevante harmoniserte standarder er anvendt på riktig måte, der installatøren har valgt å anvende dem,
+   5. gjennomføre eller besørge gjennomført hensiktsmessige undersøkelser og prøvinger for å kontrollere om løsninger produsenten har valgt fra andre relevante tekniske spesifikasjoner, oppfyller de grunnleggende helse- og sikkerhetskravene i denne forskrift, i tilfeller der spesifikasjonene i relevante harmoniserte standarder ikke er anvendt.
 5. Det tekniske kontrollorgan skal utarbeide en vurderingsrapport som beskriver undersøkelsene, kontrollene og prøvingene som er gjennomført, og resultatene av dem. Uten at det berører dets forpliktelser overfor utpekingsmyndighetene, skal det tekniske kontrollorgan ikke offentliggjøre hele eller deler av innholdet i rapporten uten installatørens samtykke.
-6. Når typen oppfyller de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I som får anvendelse på den berørte heisen, skal det tekniske kontrollorganet utstede et EU-typeprøvingssertifikat til installatøren. Sertifikatet skal inneholde installatørens navn og adresse, konklusjonene av EU-typeprøvingen, alle vilkår for sertifikatets gyldighet og tilstrekkelige opplysninger til å kunne identifisere den godkjente typen.EU-typeprøvingssertifikatet kan ha ett eller flere vedlegg.EU-typeprøvingssertifikatet med vedlegg skal inneholde alle opplysninger som er nødvendige for å kunne vurdere under sluttkontrollen om heisene er i samsvar med den godkjente typen.Dersom typen ikke oppfyller de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I, skal det tekniske kontrollorganet avslå å utstede et EU-typeprøvingssertifikat og skal underrette installatøren om dette, med en detaljert begrunnelse for avslaget.Det tekniske kontrollorganet skal oppbevare en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg samt den tekniske dokumentasjonen og vurderingsrapporten i 15 år fra den dato sertifikatet ble utstedt.
+6. Når typen oppfyller de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I som får anvendelse på den berørte heisen, skal det tekniske kontrollorganet utstede et EU-typeprøvingssertifikat til installatøren. Sertifikatet skal inneholde installatørens navn og adresse, konklusjonene av EU-typeprøvingen, alle vilkår for sertifikatets gyldighet og tilstrekkelige opplysninger til å kunne identifisere den godkjente typen.
+
+   EU-typeprøvingssertifikatet kan ha ett eller flere vedlegg.
+
+   EU-typeprøvingssertifikatet med vedlegg skal inneholde alle opplysninger som er nødvendige for å kunne vurdere under sluttkontrollen om heisene er i samsvar med den godkjente typen.
+
+   Dersom typen ikke oppfyller de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I, skal det tekniske kontrollorganet avslå å utstede et EU-typeprøvingssertifikat og skal underrette installatøren om dette, med en detaljert begrunnelse for avslaget.
+
+   Det tekniske kontrollorganet skal oppbevare en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg samt den tekniske dokumentasjonen og vurderingsrapporten i 15 år fra den dato sertifikatet ble utstedt.
 7. Det tekniske kontrollorganet skal holde seg underrettet om alle endringer i det allment anerkjente nåværende utviklingstrinn i teknikken som tyder på at den godkjente typen ikke lenger oppfyller de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I, og skal avgjøre om slike endringer krever ytterligere undersøkelse. I så tilfelle skal det tekniske kontrollorgan underrette installatøren om dette.
-8. Installatøren skal underrette det tekniske kontrollorgan om alle endringer av den godkjente typen, herunder variasjoner som ikke er angitt i den opprinnelige tekniske dokumentasjonen, som kan ha betydning for om heisen oppfyller de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I eller gyldighetsvilkårene for EU-typeprøvingssertifikatet.Det tekniske kontrollorgan skal undersøke endringen og underrette installatøren om EU-typeprøvingssertifikatet fortsatt er gyldig eller om ytterligere undersøkelser, kontroller eller prøvinger er nødvendig. Det tekniske kontrollorgan skal utstede et tillegg til det opprinnelige EU-typeprøvingssertifikatet eller be om at en ny søknad om EU-typeprøvingssertifikat sendes inn, alt etter hva som er relevant.
-9. Hvert teknisk kontrollorgan skal underrette sin utpekingsmyndighet om EU-typeprøvingssertifikatene og eventuelle tillegg til dem som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for utpekingsmyndigheten fortegnelser over slike sertifikater og tillegg til dem som er avslått, midlertidig opphevet eller på andre måter begrenset.Hvert teknisk kontrollorgan skal underrette de andre tekniske kontrollorganene om EU-typeprøvingssertifikatene og eventuelle tillegg til dem som det har avslått, trukket tilbake, midlertidig opphevet eller på andre måter begrenset, og på anmodning om slike sertifikater og tillegg til dem det har utstedt.
+8. Installatøren skal underrette det tekniske kontrollorgan om alle endringer av den godkjente typen, herunder variasjoner som ikke er angitt i den opprinnelige tekniske dokumentasjonen, som kan ha betydning for om heisen oppfyller de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I eller gyldighetsvilkårene for EU-typeprøvingssertifikatet.
+
+   Det tekniske kontrollorgan skal undersøke endringen og underrette installatøren om EU-typeprøvingssertifikatet fortsatt er gyldig eller om ytterligere undersøkelser, kontroller eller prøvinger er nødvendig. Det tekniske kontrollorgan skal utstede et tillegg til det opprinnelige EU-typeprøvingssertifikatet eller be om at en ny søknad om EU-typeprøvingssertifikat sendes inn, alt etter hva som er relevant.
+9. Hvert teknisk kontrollorgan skal underrette sin utpekingsmyndighet om EU-typeprøvingssertifikatene og eventuelle tillegg til dem som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for utpekingsmyndigheten fortegnelser over slike sertifikater og tillegg til dem som er avslått, midlertidig opphevet eller på andre måter begrenset.
+
+   Hvert teknisk kontrollorgan skal underrette de andre tekniske kontrollorganene om EU-typeprøvingssertifikatene og eventuelle tillegg til dem som det har avslått, trukket tilbake, midlertidig opphevet eller på andre måter begrenset, og på anmodning om slike sertifikater og tillegg til dem det har utstedt.
 10. Kommisjonen, medlemsstatene og de andre tekniske kontrollorganene kan på anmodning få en kopi av EU-typeprøvingssertifikatene og tilleggene til dem. På anmodning kan Kommisjonen og medlemsstatene få en kopi av den tekniske dokumentasjonen og resultatene av de undersøkelsene, kontrollene og prøvingene som er gjennomført av det tekniske kontrollorganet.
 11. Installatøren skal kunne framlegge en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg og den tekniske dokumentasjonen for de nasjonale myndigheter i ti år etter at heisen ble brakt i omsetning.
-12. RepresentantInstallatørens representant kan inngi søknaden nevnt i nr. 2 og oppfylle forpliktelsene i nr. 8 og 11, forutsatt at de er angitt i fullmakten.
+12. Representant
+
+    Installatørens representant kan inngi søknaden nevnt i nr. 2 og oppfylle forpliktelsene i nr. 8 og 11, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg V. Sluttkontroll av heiser
 
@@ -644,7 +917,10 @@ Sluttkontroll er den del av framgangsmåten for samsvarsvurdering der et teknisk
 
 2.*Installatørens forpliktelser*
 
-Installatøren skal treffe alle nødvendige tiltak for å sikre at heisen som installeres, oppfyller de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I, og er i samsvar medenten en godkjent type beskrevet i et EU-typeprøvingssertifikat,eller en heis konstruert og produsert i samsvar med et kvalitetssystem i henhold til vedlegg XI og EU-sertifikatet for konstruksjonskontroll dersom konstruksjonen ikke er helt i samsvar med de harmoniserte standardene.
+Installatøren skal treffe alle nødvendige tiltak for å sikre at heisen som installeres, oppfyller de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I, og er i samsvar med
+
+1. enten en godkjent type beskrevet i et EU-typeprøvingssertifikat,
+2. eller en heis konstruert og produsert i samsvar med et kvalitetssystem i henhold til vedlegg XI og EU-sertifikatet for konstruksjonskontroll dersom konstruksjonen ikke er helt i samsvar med de harmoniserte standardene.
 
 3.*Sluttkontroll*
 
@@ -652,7 +928,12 @@ Et teknisk kontrollorgan valgt av installatøren skal utføre sluttkontrollen av
 
 3.1
 
-Installatøren skal inngi en søknad om sluttkontroll til ett enkelt teknisk kontrollorgan etter eget valg, og skal legge fram følgende dokumenter for det tekniske kontrollorganet:en oversiktstegning av heisen,de tegninger og diagrammer som er nødvendige for sluttkontrollen, særlig styrekretsskjemaer,en kopi av instruksjonen nevnt i vedlegg I nr. 6.2,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
+Installatøren skal inngi en søknad om sluttkontroll til ett enkelt teknisk kontrollorgan etter eget valg, og skal legge fram følgende dokumenter for det tekniske kontrollorganet:
+
+1. en oversiktstegning av heisen,
+2. de tegninger og diagrammer som er nødvendige for sluttkontrollen, særlig styrekretsskjemaer,
+3. en kopi av instruksjonen nevnt i vedlegg I nr. 6.2,
+4. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
 
 Det tekniske kontrollorganet kan ikke kreve detaljerte tegninger eller nøyaktige opplysninger som ikke er nødvendige for å kontrollere heisens samsvar.
 
@@ -660,11 +941,18 @@ Nødvendige prøvinger i henhold til den eller de relevante harmoniserte standar
 
 3.2
 
-Undersøkelsene skal bestå av minst ett av følgende elementer:gjennomgåelse av dokumentene nevnt i nr. 3.1 for å kontrollere at heisen er i samsvar med den godkjente typen beskrevet i EU-typeprøvingssertifikatet i henhold til vedlegg IV del B,gjennomgåelse av dokumentene nevnt i nr. 3.1 for å kontrollere at heisen er i samsvar med den heisen som er konstruert og produsert i samsvar med et godkjent kvalitetssystem i henhold til vedlegg XI, og dersom konstruksjonen ikke er helt i samsvar med de harmoniserte standardene, at den er i samsvar med EU-sertifikatet for konstruksjonskontroll.
+Undersøkelsene skal bestå av minst ett av følgende elementer:
+
+1. gjennomgåelse av dokumentene nevnt i nr. 3.1 for å kontrollere at heisen er i samsvar med den godkjente typen beskrevet i EU-typeprøvingssertifikatet i henhold til vedlegg IV del B,
+2. gjennomgåelse av dokumentene nevnt i nr. 3.1 for å kontrollere at heisen er i samsvar med den heisen som er konstruert og produsert i samsvar med et godkjent kvalitetssystem i henhold til vedlegg XI, og dersom konstruksjonen ikke er helt i samsvar med de harmoniserte standardene, at den er i samsvar med EU-sertifikatet for konstruksjonskontroll.
 
 3.3
 
-Prøvingene av heisen skal minst omfatte følgende:heisens drift både tom og med høyeste last for å sikre korrekt installasjon og drift av sikkerhetsinnretningene (endebrytere, låseinnretninger osv.),heisens drift både med høyeste last og tom for å sikre at sikkerhetsinnretningene fungerer korrekt i tilfelle strømbrudd,statisk prøving med en last tilsvarende 1,25 ganger nominell last.
+Prøvingene av heisen skal minst omfatte følgende:
+
+1. heisens drift både tom og med høyeste last for å sikre korrekt installasjon og drift av sikkerhetsinnretningene (endebrytere, låseinnretninger osv.),
+2. heisens drift både med høyeste last og tom for å sikre at sikkerhetsinnretningene fungerer korrekt i tilfelle strømbrudd,
+3. statisk prøving med en last tilsvarende 1,25 ganger nominell last.
 
 Nominell last skal være som nevnt i vedlegg I nr. 5.
 
@@ -712,13 +1000,26 @@ Produsenten skal anvende et godkjent kvalitetssystem for sluttkontroll og prøvi
 
 Produsenten skal inngi en søknad om vurdering av sitt kvalitetssystem for den berørte sikkerhetskomponenten til ett enkelt teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,adressen til lokalene der sluttkontrollen og prøvingen av sikkerhetskomponentene utføres,alle relevante opplysninger om sikkerhetskomponentene som skal produseres,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen for de godkjente sikkerhetskomponentene og en kopi av EU-typeprøvingssertifikatet.
+Søknaden skal inneholde
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+3. adressen til lokalene der sluttkontrollen og prøvingen av sikkerhetskomponentene utføres,
+4. alle relevante opplysninger om sikkerhetskomponentene som skal produseres,
+5. dokumentasjon for kvalitetssystemet,
+6. den tekniske dokumentasjonen for de godkjente sikkerhetskomponentene og en kopi av EU-typeprøvingssertifikatet.
 
 3.2
 
 I henhold til kvalitetssystemet skal hver sikkerhetskomponent kontrolleres, og hensiktsmessige prøvinger i henhold til relevante harmoniserte standarder eller tilsvarende prøvinger skal utføres for å sikre at den oppfyller vilkårene nevnt i nr. 1. Alle elementer, krav og bestemmelser som produsenten har fulgt, skal dokumenteres på en systematisk og ordnet måte i form av skriftlige tiltak, framgangsmåter og anvisninger. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemenes programmer, planer, håndbøker og registre på en ensartet måte.
 
-Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål,organisasjonsstruktur samt ledelsens ansvar og fullmakter med hensyn til produktkvalitet,undersøkelser og prøvinger som skal utføres etter produksjon,metoder for å overvåke at kvalitetssystemet fungerer effektivt, ogkvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
+Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse av
+
+1. kvalitetsmål,
+2. organisasjonsstruktur samt ledelsens ansvar og fullmakter med hensyn til produktkvalitet,
+3. undersøkelser og prøvinger som skal utføres etter produksjon,
+4. metoder for å overvåke at kvalitetssystemet fungerer effektivt, og
+5. kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
 
 3.3
 
@@ -752,7 +1053,11 @@ Formålet med tilsynet er å sikre at produsenten korrekt oppfyller forpliktelse
 
 4.2
 
-Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til de lokaler der sluttkontroll, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemet,teknisk dokumentasjon,kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner.
+Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til de lokaler der sluttkontroll, prøving og lagring finner sted, og gi det alle nødvendige opplysninger, særlig
+
+1. dokumentasjon for kvalitetssystemet,
+2. teknisk dokumentasjon,
+3. kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner.
 
 4.3
 
@@ -776,7 +1081,12 @@ Produsenten skal utarbeide en skriftlig EU-samsvarserklæring for hver sikkerhet
 
 6\.
 
-Produsenten skal i et tidsrom på ti år etter at sikkerhetskomponenten ble brakt i omsetning, kunne framlegge for de nasjonale myndigheterden tekniske dokumentasjonen nevnt i nr. 3.1 bokstav f),dokumentasjonen nevnt i nr. 3.1 bokstav e),opplysningene om endringer nevnt i nr. 3.5,beslutningene og rapportene fra det tekniske kontrollorganet som er nevnt i nr. 3.5 tredje ledd og i nr. 4.3 og 4.4.
+Produsenten skal i et tidsrom på ti år etter at sikkerhetskomponenten ble brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+1. den tekniske dokumentasjonen nevnt i nr. 3.1 bokstav f),
+2. dokumentasjonen nevnt i nr. 3.1 bokstav e),
+3. opplysningene om endringer nevnt i nr. 3.5,
+4. beslutningene og rapportene fra det tekniske kontrollorganet som er nevnt i nr. 3.5 tredje ledd og i nr. 4.3 og 4.4.
 
 7\.
 
@@ -804,13 +1114,28 @@ Produsenten skal anvende et godkjent kvalitetssystem for konstruksjon, produksjo
 
 3.1
 
-Produsenten skal inngi en søknad om vurdering av sitt kvalitetssystem til ett enkelt teknisk kontrollorgan etter eget valg. Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,adressen til lokalene der sikkerhetskomponentene konstrueres, produseres, kontrolleres og prøves,alle relevante opplysninger om sikkerhetskomponentene som skal produseres,den tekniske dokumentasjonen beskrevet i nr. 3 i vedlegg IV del A for én type av hver kategori sikkerhetskomponenter som skal produseres,dokumentasjon for kvalitetssystemet,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
+Produsenten skal inngi en søknad om vurdering av sitt kvalitetssystem til ett enkelt teknisk kontrollorgan etter eget valg. Søknaden skal inneholde
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. adressen til lokalene der sikkerhetskomponentene konstrueres, produseres, kontrolleres og prøves,
+3. alle relevante opplysninger om sikkerhetskomponentene som skal produseres,
+4. den tekniske dokumentasjonen beskrevet i nr. 3 i vedlegg IV del A for én type av hver kategori sikkerhetskomponenter som skal produseres,
+5. dokumentasjon for kvalitetssystemet,
+6. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
 
 3.2
 
 Kvalitetssystemet skal sikre at sikkerhetskomponentene oppfyller vilkårene nevnt i nr. 1. Alle elementer, krav og bestemmelser som produsenten har fulgt, skal dokumenteres på en systematisk og ordnet måte i form av skriftlige tiltak, framgangsmåter og anvisninger. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemenes programmer, planer, håndbøker og registre på en ensartet måte.
 
-Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og fullmakter med hensyn til konstruksjon og produktkvalitet,tekniske konstruksjonsspesifikasjoner, herunder standarder som vil bli anvendt, og dersom relevante harmoniserte standarder ikke vil bli anvendt eller ikke vil bli anvendt fullt ut, de metoder, herunder andre relevante tekniske spesifikasjoner, som vil bli brukt for å sikre at vilkårene nevnt i nr. 1 vil bli oppfylt,teknikker, prosesser og systematiske tiltak som vil bli brukt ved konstruksjon av sikkerhetskomponentene for å kontrollere og verifisere konstruksjonen,de tilsvarende teknikker, prosesser og systematiske tiltak som vil bli brukt ved produksjon, kvalitetskontroll og kvalitetssikring,undersøkelser og prøvinger som skal utføres før, under og etter produksjon, og hyppigheten av dem,kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner,metoder for å overvåke at den nødvendige konstruksjons- og produktkvaliteten er oppnådd, og for at kvalitetssystemet fungerer effektivt.
+Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og fullmakter med hensyn til konstruksjon og produktkvalitet,
+2. tekniske konstruksjonsspesifikasjoner, herunder standarder som vil bli anvendt, og dersom relevante harmoniserte standarder ikke vil bli anvendt eller ikke vil bli anvendt fullt ut, de metoder, herunder andre relevante tekniske spesifikasjoner, som vil bli brukt for å sikre at vilkårene nevnt i nr. 1 vil bli oppfylt,
+3. teknikker, prosesser og systematiske tiltak som vil bli brukt ved konstruksjon av sikkerhetskomponentene for å kontrollere og verifisere konstruksjonen,
+4. de tilsvarende teknikker, prosesser og systematiske tiltak som vil bli brukt ved produksjon, kvalitetskontroll og kvalitetssikring,
+5. undersøkelser og prøvinger som skal utføres før, under og etter produksjon, og hyppigheten av dem,
+6. kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner,
+7. metoder for å overvåke at den nødvendige konstruksjons- og produktkvaliteten er oppnådd, og for at kvalitetssystemet fungerer effektivt.
 
 3.3
 
@@ -842,7 +1167,12 @@ Formålet med tilsynet er å sikre at produsenten korrekt oppfyller forpliktelse
 
 4.2
 
-Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til konstruksjons-, produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemet,kvalitetsregistrene fastsatt i kvalitetssystemets konstruksjonsdel, for eksempel resultater av analyser, beregninger og prøvinger,teknisk dokumentasjon for sikkerhetskomponentene som produseres,kvalitetsregistrene fastsatt i produksjonsdelen av det fullstendige kvalitetssystemet, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
+Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til konstruksjons-, produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+1. dokumentasjon for kvalitetssystemet,
+2. kvalitetsregistrene fastsatt i kvalitetssystemets konstruksjonsdel, for eksempel resultater av analyser, beregninger og prøvinger,
+3. teknisk dokumentasjon for sikkerhetskomponentene som produseres,
+4. kvalitetsregistrene fastsatt i produksjonsdelen av det fullstendige kvalitetssystemet, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
 
 4.3
 
@@ -864,7 +1194,12 @@ Produsenten skal utarbeide en skriftlig EU-samsvarserklæring for hver sikkerhet
 
 6\.
 
-Produsenten skal i et tidsrom på ti år etter at sikkerhetskomponenten ble brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 3.1 bokstav e),den tekniske dokumentasjonen nevnt i nr. 3.1 bokstav d),opplysningene om endringer nevnt i nr. 3.5 første ledd,beslutningene og rapportene fra det tekniske kontrollorganet nevnt i nr. 3.5 tredje ledd og i nr. 4.3 og 4.4.
+Produsenten skal i et tidsrom på ti år etter at sikkerhetskomponenten ble brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+1. dokumentasjonen nevnt i nr. 3.1 bokstav e),
+2. den tekniske dokumentasjonen nevnt i nr. 3.1 bokstav d),
+3. opplysningene om endringer nevnt i nr. 3.5 første ledd,
+4. beslutningene og rapportene fra det tekniske kontrollorganet nevnt i nr. 3.5 tredje ledd og i nr. 4.3 og 4.4.
 
 7\.
 
@@ -896,13 +1231,28 @@ Installatøren skal treffe alle nødvendige tiltak slik at produksjonsprosessen 
 
 Installatøren skal inngi en søknad om verifisering av enkelteksemplarer til ett enkelt teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholdeinstallatørens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,stedet der heisen er installert,en skriftlig erklæring om at tilsvarende søknad ikke er inngitt til noe annet teknisk kontrollorgan,den tekniske dokumentasjonen.
+Søknaden skal inneholde
+
+1. installatørens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. stedet der heisen er installert,
+3. en skriftlig erklæring om at tilsvarende søknad ikke er inngitt til noe annet teknisk kontrollorgan,
+4. den tekniske dokumentasjonen.
 
 3\.
 
 Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om heisen oppfyller de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.
 
-Den tekniske dokumentasjonen skal minst inneholde følgende elementer:beskrivelse av heisen,konstruksjons- og produksjonstegninger og -diagrammer,nødvendige beskrivelser og forklaringer for å forstå tegningene og diagrammene og hvordan heisen fungerer,en liste over de grunnleggende helse- og sikkerhetskravene som er tatt i betraktning,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende helse- og sikkerhetskravene i denne forskrift, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,en kopi av EU-typeprøvingssertifikatene for de sikkerhetskomponenter som er montert i heisen,resultater av konstruksjonsberegninger utført av eller for installatøren,prøvingsrapporter,en kopi av instruksjonen nevnt i nr. 6.2 i vedlegg I.
+Den tekniske dokumentasjonen skal minst inneholde følgende elementer:
+
+1. beskrivelse av heisen,
+2. konstruksjons- og produksjonstegninger og -diagrammer,
+3. nødvendige beskrivelser og forklaringer for å forstå tegningene og diagrammene og hvordan heisen fungerer,
+4. en liste over de grunnleggende helse- og sikkerhetskravene som er tatt i betraktning,
+5. en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende helse- og sikkerhetskravene i denne forskrift, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+6. en kopi av EU-typeprøvingssertifikatene for de sikkerhetskomponenter som er montert i heisen,
+7. resultater av konstruksjonsberegninger utført av eller for installatøren,
+8. prøvingsrapporter,
+9. en kopi av instruksjonen nevnt i nr. 6.2 i vedlegg I.
 
 4.*Verifisering*
 
@@ -948,7 +1298,12 @@ Produsenten skal treffe alle nødvendige tiltak for at produksjonsprosessen og o
 
 Produsenten skal inngi en søknad om stikkprøvekontroll til ett enkelt teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,alle relevante opplysninger om de produserte sikkerhetskomponentene,adressen til de lokalene der prøven av sikkerhetskomponentene kan tas.
+Søknaden skal inneholde
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+3. alle relevante opplysninger om de produserte sikkerhetskomponentene,
+4. adressen til de lokalene der prøven av sikkerhetskomponentene kan tas.
 
 4\.
 
@@ -990,7 +1345,13 @@ Installatøren skal anvende et godkjent kvalitetssystem for sluttkontroll og pr�
 
 Produsenten skal inngi en søknad om vurdering av sitt kvalitetssystem for de berørte heisene til ett enkelt teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholdeinstallatørens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,alle relevante opplysninger om heisene som skal installeres,dokumentasjon for kvalitetssystemet,teknisk dokumentasjon for heisene som skal installeres,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
+Søknaden skal inneholde
+
+1. installatørens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. alle relevante opplysninger om heisene som skal installeres,
+3. dokumentasjon for kvalitetssystemet,
+4. teknisk dokumentasjon for heisene som skal installeres,
+5. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
 
 3.2
 
@@ -998,7 +1359,13 @@ I henhold til kvalitetssystemet skal hver enkelt heis undersøkes, og hensiktsme
 
 Alle elementer, krav og bestemmelser som installatøren har fulgt, skal dokumenteres på en systematisk og ordnet måte i form av skriftlige tiltak, framgangsmåter og anvisninger. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemenes programmer, planer, håndbøker og kvalitetsregistre på en ensartet måte.
 
-Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål,organisasjonsstruktur samt ledelsens ansvar og fullmakter med hensyn til produktkvalitet,undersøkelser og prøvinger som skal utføres før produktet bringes i omsetning, herunder minst prøvingene fastsatt i nr. 3.3 i vedlegg V,metoder for å overvåke at kvalitetssystemet fungerer effektivt,kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner.
+Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse av
+
+1. kvalitetsmål,
+2. organisasjonsstruktur samt ledelsens ansvar og fullmakter med hensyn til produktkvalitet,
+3. undersøkelser og prøvinger som skal utføres før produktet bringes i omsetning, herunder minst prøvingene fastsatt i nr. 3.3 i vedlegg V,
+4. metoder for å overvåke at kvalitetssystemet fungerer effektivt,
+5. kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner.
 
 3.3
 
@@ -1032,7 +1399,11 @@ Formålet med tilsynet er å sikre at installatøren korrekt oppfyller forplikte
 
 4.2
 
-Installatøren skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons- og prøvingslokalene og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemet,teknisk dokumentasjon,kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
+Installatøren skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons- og prøvingslokalene og gi det alle nødvendige opplysninger, særlig
+
+1. dokumentasjon for kvalitetssystemet,
+2. teknisk dokumentasjon,
+3. kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
 
 4.3
 
@@ -1046,7 +1417,12 @@ Ved slike besøk kan det tekniske kontrollorganet om nødvendig utføre eller f�
 
 5\.
 
-Installatøren skal i et tidsrom på ti år etter at den siste heisen ble brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 3.1 bokstav c),den tekniske dokumentasjonen nevnt i nr. 3.1 bokstav d),opplysningene om endringer nevnt i nr. 3.4.1,beslutningene og rapportene fra det tekniske kontrollorganet som er nevnt i nr. 3.4.2 annet ledd og i nr. 4.3 og 4.4.
+Installatøren skal i et tidsrom på ti år etter at den siste heisen ble brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+1. dokumentasjonen nevnt i nr. 3.1 bokstav c),
+2. den tekniske dokumentasjonen nevnt i nr. 3.1 bokstav d),
+3. opplysningene om endringer nevnt i nr. 3.4.1,
+4. beslutningene og rapportene fra det tekniske kontrollorganet som er nevnt i nr. 3.4.2 annet ledd og i nr. 4.3 og 4.4.
 
 6\.
 
@@ -1086,13 +1462,28 @@ Installatøren skal anvende et godkjent kvalitetssystem for konstruksjon, produk
 
 Installatøren skal inngi en søknad om vurdering av sitt kvalitetssystem til ett enkelt teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholdeinstallatørens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,alle relevante opplysninger om heisene som skal installeres, særlig opplysninger som gjør det mulig å forstå sammenhengen mellom heisens konstruksjon og virkemåte,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen beskrevet i nr. 3 i vedlegg IV del B,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
+Søknaden skal inneholde
+
+1. installatørens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. alle relevante opplysninger om heisene som skal installeres, særlig opplysninger som gjør det mulig å forstå sammenhengen mellom heisens konstruksjon og virkemåte,
+3. dokumentasjon for kvalitetssystemet,
+4. den tekniske dokumentasjonen beskrevet i nr. 3 i vedlegg IV del B,
+5. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
 
 3.2
 
 Kvalitetssystemet skal sikre at heisene oppfyller de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I. Alle elementer, krav og bestemmelser som installatøren har fulgt, skal dokumenteres på en systematisk og ordnet måte i form av skriftlige tiltak, framgangsmåter og anvisninger. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemenes programmer, planer, håndbøker og kvalitetsregistre på en ensartet måte.
 
-Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og fullmakter med hensyn til konstruksjon og produktkvalitet,tekniske konstruksjonsspesifikasjoner, herunder standarder som vil bli anvendt, og dersom relevante harmoniserte standarder ikke vil bli anvendt fullt ut, de metoder, herunder andre relevante tekniske spesifikasjoner, som vil bli brukt for å sikre at de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I vil bli oppfylt,teknikker, prosesser og systematiske tiltak som vil bli brukt ved konstruksjon av heiser for å kontrollere og verifisere konstruksjonen,undersøkelser og prøvinger som skal utføres ved godkjenning av leveranser av materialer, deler og delenheter,de tilsvarende teknikker, prosesser og systematiske tiltak som vil bli brukt ved montering, installasjon, kvalitetskontroll og kvalitetssikring,undersøkelser og prøvinger som skal utføres før (kontroll av installasjonsforhold: heissjakt, heismaskinrom osv.), under og etter installasjon (herunder minst prøvingene fastsatt i nr. 3.3 i vedlegg V),kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner,metoder for å overvåke at den nødvendige konstruksjons- og produktkvaliteten er oppnådd, og for at kvalitetssystemet fungerer effektivt.
+Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og fullmakter med hensyn til konstruksjon og produktkvalitet,
+2. tekniske konstruksjonsspesifikasjoner, herunder standarder som vil bli anvendt, og dersom relevante harmoniserte standarder ikke vil bli anvendt fullt ut, de metoder, herunder andre relevante tekniske spesifikasjoner, som vil bli brukt for å sikre at de gjeldende grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I vil bli oppfylt,
+3. teknikker, prosesser og systematiske tiltak som vil bli brukt ved konstruksjon av heiser for å kontrollere og verifisere konstruksjonen,
+4. undersøkelser og prøvinger som skal utføres ved godkjenning av leveranser av materialer, deler og delenheter,
+5. de tilsvarende teknikker, prosesser og systematiske tiltak som vil bli brukt ved montering, installasjon, kvalitetskontroll og kvalitetssikring,
+6. undersøkelser og prøvinger som skal utføres før (kontroll av installasjonsforhold: heissjakt, heismaskinrom osv.), under og etter installasjon (herunder minst prøvingene fastsatt i nr. 3.3 i vedlegg V),
+7. kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner,
+8. metoder for å overvåke at den nødvendige konstruksjons- og produktkvaliteten er oppnådd, og for at kvalitetssystemet fungerer effektivt.
 
 3.3*Konstruksjonskontroll*
 
@@ -1152,7 +1543,11 @@ Formålet med tilsynet er å sikre at installatøren korrekt oppfyller forplikte
 
 4.2
 
-Installatøren skal for vurderingsformål gi det tekniske kontrollorganet adgang til konstruksjons-, produksjons-, monterings-, installasjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemet,kvalitetsregistreringer som fastsatt i kvalitetssystemets konstruksjonsdel, for eksempel resultater av analyser, beregninger og prøvinger,kvalitetsregistrene fastsatt i den delen av kvalitetssystemet som gjelder godkjenning av leveranser og installasjon, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
+Installatøren skal for vurderingsformål gi det tekniske kontrollorganet adgang til konstruksjons-, produksjons-, monterings-, installasjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+1. dokumentasjon for kvalitetssystemet,
+2. kvalitetsregistreringer som fastsatt i kvalitetssystemets konstruksjonsdel, for eksempel resultater av analyser, beregninger og prøvinger,
+3. kvalitetsregistrene fastsatt i den delen av kvalitetssystemet som gjelder godkjenning av leveranser og installasjon, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
 
 4.3
 
@@ -1164,7 +1559,12 @@ Det tekniske kontrollorganet kan dessuten avlegge uanmeldte besøk i lokalene ti
 
 5\.
 
-Installatøren skal i et tidsrom på ti år etter at heisen ble brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 3.1 bokstav c),den tekniske dokumentasjonen nevnt i nr. 3.1 bokstav d),opplysningene om endringer nevnt i nr. 3.5 annet ledd,beslutningene og rapportene fra det tekniske kontrollorganet som er nevnt i nr. 3.5 fjerde ledd og i nr. 4.3 og 4.4.
+Installatøren skal i et tidsrom på ti år etter at heisen ble brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+1. dokumentasjonen nevnt i nr. 3.1 bokstav c),
+2. den tekniske dokumentasjonen nevnt i nr. 3.1 bokstav d),
+3. opplysningene om endringer nevnt i nr. 3.5 annet ledd,
+4. beslutningene og rapportene fra det tekniske kontrollorganet som er nevnt i nr. 3.5 fjerde ledd og i nr. 4.3 og 4.4.
 
 6\.
 
@@ -1206,7 +1606,13 @@ Installatøren skal anvende et godkjent kvalitetssystem for produksjon, monterin
 
 Installatøren skal inngi en søknad om vurdering av sitt kvalitetssystem til ett enkelt teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholdeinstallatørens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,alle relevante opplysninger om heisene som skal installeres,dokumentasjon for kvalitetssystemet,teknisk dokumentasjon for heisene som skal installeres,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
+Søknaden skal inneholde
+
+1. installatørens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. alle relevante opplysninger om heisene som skal installeres,
+3. dokumentasjon for kvalitetssystemet,
+4. teknisk dokumentasjon for heisene som skal installeres,
+5. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
 
 3.2
 
@@ -1214,7 +1620,13 @@ Kvalitetssystemet skal sikre at heisene oppfyller de gjeldende grunnleggende hel
 
 Alle elementer, krav og bestemmelser som installatøren har fulgt, skal dokumenteres på en systematisk og ordnet måte i form av skriftlige tiltak, framgangsmåter og anvisninger. Dokumentasjonen for kvalitetssystemet skal sikre en felles forståelse av kvalitetsprogrammer, -planer, -håndbøker og -registre.
 
-Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og fullmakter med hensyn til produktkvalitet,teknikker, prosesser og systematiske tiltak som vil bli brukt ved produksjon, kvalitetskontroll og kvalitetssikring,undersøkelser og prøvinger som skal utføres før, under og etter installasjon,kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner,metoder for å overvåke at den nødvendige produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
+Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse av
+
+1. kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og fullmakter med hensyn til produktkvalitet,
+2. teknikker, prosesser og systematiske tiltak som vil bli brukt ved produksjon, kvalitetskontroll og kvalitetssikring,
+3. undersøkelser og prøvinger som skal utføres før, under og etter installasjon,
+4. kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner,
+5. metoder for å overvåke at den nødvendige produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
 
 3.3
 
@@ -1250,7 +1662,11 @@ Formålet med tilsynet er å sikre at installatøren korrekt oppfyller forplikte
 
 4.2
 
-Installatøren skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, monterings-, installasjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjon for kvalitetssystemet,teknisk dokumentasjon,kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner.
+Installatøren skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, monterings-, installasjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+1. dokumentasjon for kvalitetssystemet,
+2. teknisk dokumentasjon,
+3. kvalitetsregistre, for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata og rapporter om det berørte personalets kvalifikasjoner.
 
 4.3
 
@@ -1262,7 +1678,12 @@ Det tekniske kontrollorganet kan dessuten avlegge uanmeldte besøk hos installat
 
 5\.
 
-Installatøren skal i et tidsrom på ti år etter at heisen ble brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 3.1 bokstav c),den tekniske dokumentasjonen nevnt i nr. 3.1 bokstav d),opplysningene om endringer nevnt i nr. 3.4.1,beslutningene og rapportene fra det tekniske kontrollorganet som er nevnt i nr. 3.4.2 annet ledd og i nr. 4.3 og 4.4.
+Installatøren skal i et tidsrom på ti år etter at heisen ble brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+1. dokumentasjonen nevnt i nr. 3.1 bokstav c),
+2. den tekniske dokumentasjonen nevnt i nr. 3.1 bokstav d),
+3. opplysningene om endringer nevnt i nr. 3.4.1,
+4. beslutningene og rapportene fra det tekniske kontrollorganet som er nevnt i nr. 3.4.2 annet ledd og i nr. 4.3 og 4.4.
 
 6\.
 

@@ -15,7 +15,7 @@ xml_hash: "ff3fa2aac4f68383dd8d8f6820d76ba95913d669ae1f794e9d4e8398f2442d3c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,12 @@ Loven gjelder for barn som oppholder seg på Svalbard og som er medlem i folketr
 
 ### § 4. Bosetting i riket m.m.
 
-Et barn anses som bosatt i riket når barnetfødes i riket og moren ved fødselen har oppholdt seg eller skal oppholde seg i riket i mer enn 12 måneder,skal oppholde seg i riket i mer enn 12 måneder,fødes under morens utenlandsopphold, dersom moren er å regne som bosatt i riket eller fyller vilkårene om medlemskap i folketrygden etter [§ 5](lov/2002-03-08-4/§5), elleradopteres etter norsk lov under adoptivforeldrenes utenlandsopphold, og adoptivforeldrene er å regne som bosatt i riket eller fyller vilkårene om medlemskap i folketrygden etter [§ 5](lov/2002-03-08-4/§5).
+Et barn anses som bosatt i riket når barnet
+
+1. fødes i riket og moren ved fødselen har oppholdt seg eller skal oppholde seg i riket i mer enn 12 måneder,
+2. skal oppholde seg i riket i mer enn 12 måneder,
+3. fødes under morens utenlandsopphold, dersom moren er å regne som bosatt i riket eller fyller vilkårene om medlemskap i folketrygden etter [§ 5](lov/2002-03-08-4/§5), eller
+4. adopteres etter norsk lov under adoptivforeldrenes utenlandsopphold, og adoptivforeldrene er å regne som bosatt i riket eller fyller vilkårene om medlemskap i folketrygden etter [§ 5](lov/2002-03-08-4/§5).
 
 Det er et vilkår for rett til barnetrygd at barnet og den barnet bor fast hos har lovlig opphold i Norge.
 
@@ -108,7 +113,12 @@ Departementet gir forskrifter med nærmere bestemmelser om unntak fra retten til
 
 Det foreligger rett til utvidet barnetrygd i de tilfeller der barnets foreldre er ugift, skilt eller separert og ikke bor sammen i en felles husholdning. Utvidet barnetrygd kan også gis til gjenlevende ektefelle. Det gis ikke utvidet barnetrygd dersom søkeren bor i samme boenhet som den andre av barnets foreldre.
 
-Utvidet barnetrygd kan likevel gis i tilfeller der foreldrene er gift, hvis den som setter fram krav godtgjør atsamlivet mellom ektefellene har vært hevet i minst 6 måneder (faktisk separasjon),den ene ektefellen har vært forsvunnet i minst 6 måneder. Tilsvarende gjelder for forsvunnet samboer eller partner,ektefellene er midlertidig separert ved kjennelse etter [ekteskapsloven § 92](lov/1991-07-04-47/§92), ellerden ene ektefellen er innsatt i fengsel med dom på fengselsstraff der den ubetingede delen av straffen ikke er lavere enn 6 måneder eller er idømt forvaring. Det samme gjelder hvis vedkommende er idømt overføring til tvungent psykisk helsevern reller1 tvungen omsorg og av den grunn ikke kan bo sammen med ektefellen. Videre kan utvidet barnetrygd gis ved utholdt varetekt i minst 6 måneder. Bestemmelsen gjelder tilsvarende for samboer eller partner.
+Utvidet barnetrygd kan likevel gis i tilfeller der foreldrene er gift, hvis den som setter fram krav godtgjør at
+
+1. samlivet mellom ektefellene har vært hevet i minst 6 måneder (faktisk separasjon),
+2. den ene ektefellen har vært forsvunnet i minst 6 måneder. Tilsvarende gjelder for forsvunnet samboer eller partner,
+3. ektefellene er midlertidig separert ved kjennelse etter [ekteskapsloven § 92](lov/1991-07-04-47/§92), eller
+4. den ene ektefellen er innsatt i fengsel med dom på fengselsstraff der den ubetingede delen av straffen ikke er lavere enn 6 måneder eller er idømt forvaring. Det samme gjelder hvis vedkommende er idømt overføring til tvungent psykisk helsevern reller1 tvungen omsorg og av den grunn ikke kan bo sammen med ektefellen. Videre kan utvidet barnetrygd gis ved utholdt varetekt i minst 6 måneder. Bestemmelsen gjelder tilsvarende for samboer eller partner.
 
 Det foreligger ikke rett til utvidet barnetrygd i tilfeller der barnas foreldre vanligvis bor sammen, men der de midlertidig bor atskilt som følge av arbeid, utdannelse e.l.
 
@@ -116,7 +126,11 @@ Bestemmelsen i denne paragrafen gjelder tilsvarende for annen omsorgsperson som 
 
 For at utvidet barnetrygd skal kunne tilstås etter samlivsbrudd mellom samboere med felles barn under 16 år, må det legges fram meklingsattest.
 
-Det foreligger ikke rett til utvidet barnetrygd for særkullsbarn dersom stønadsmottakereninngår ekteskap,lever i et ekteskapslignende forhold i en felles husholdning uten felles barn og har levd slik i minst 12 av de siste 18 måneder, ellerhar eller får felles barn med en person som han eller hun lever sammen med i et ekteskapslignende forhold i en felles husholdning.
+Det foreligger ikke rett til utvidet barnetrygd for særkullsbarn dersom stønadsmottakeren
+
+1. inngår ekteskap,
+2. lever i et ekteskapslignende forhold i en felles husholdning uten felles barn og har levd slik i minst 12 av de siste 18 måneder, eller
+3. har eller får felles barn med en person som han eller hun lever sammen med i et ekteskapslignende forhold i en felles husholdning.
 
 > Endret ved lover [7 apr 2006 nr. 6](lov/2006-04-07-6) (ikr. 1 jan 2007 iflg. [res. 7 apr 2006 nr. 392](forskrift/2006-04-07-392)), [15 juni 2007 nr. 22](lov/2007-06-15-22) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 629](forskrift/2007-06-15-629)).
 
@@ -168,7 +182,12 @@ Trekk etter tredje ledd avbryter foreldelse. Dersom slikt trekk opphører, varer
 
 Barnetrygd for barn som fødes i Norge ytes automatisk, uten at krav må settes fram.
 
-Krav må likevel settes fram på skjema fastsatt av Arbeids- og velferdsdirektoratet, dersombarnets mor ikke er registrert som bosatt i Norge i henhold til [lov 9. desember 2016 nr. 88](lov/2016-12-09-88) om folkeregistrering,barnet er eldre enn seks måneder når rett til barnetrygd inntrer, selv om barnet tidligere har vært berettiget til barnetrygd fra Norge,stønadsmottakeren har krav på barnetrygd for ett barn mer enn det faktiske barnetall, utvidet barnetrygd, etter [§ 9](lov/2002-03-08-4/§9), ellerretten til barnetrygd skal vurderes etter EØS-avtalens regler1 eller regler i andre trygdeavtaler.
+Krav må likevel settes fram på skjema fastsatt av Arbeids- og velferdsdirektoratet, dersom
+
+1. barnets mor ikke er registrert som bosatt i Norge i henhold til [lov 9. desember 2016 nr. 88](lov/2016-12-09-88) om folkeregistrering,
+2. barnet er eldre enn seks måneder når rett til barnetrygd inntrer, selv om barnet tidligere har vært berettiget til barnetrygd fra Norge,
+3. stønadsmottakeren har krav på barnetrygd for ett barn mer enn det faktiske barnetall, utvidet barnetrygd, etter [§ 9](lov/2002-03-08-4/§9), eller
+4. retten til barnetrygd skal vurderes etter EØS-avtalens regler1 eller regler i andre trygdeavtaler.
 
 Når krav om barnetrygd må settes fram skal kravet i alminnelighet settes fram av den som barnet bor fast sammen med. Når barnet bor sammen med begge foreldrene, setter en av disse fram kravet.
 
@@ -206,7 +225,10 @@ Arbeids- og velferdsetaten kan kreve at stønadsmottakeren gir de opplysninger o
 
 ### § 18. Uriktige opplysninger m.m. – følger for barnetrygden
 
-Et krav om barnetrygd kan avslås og en løpende stønad kan stanses dersomdet ikke blir gitt opplysninger som blir krevd, eller det blir gitt uriktige opplysninger eller fortiet opplysninger av betydning, ellervedkommende ikke retter seg etter pålegg som er gitt med hjemmel i denne loven.
+Et krav om barnetrygd kan avslås og en løpende stønad kan stanses dersom
+
+1. det ikke blir gitt opplysninger som blir krevd, eller det blir gitt uriktige opplysninger eller fortiet opplysninger av betydning, eller
+2. vedkommende ikke retter seg etter pålegg som er gitt med hjemmel i denne loven.
 
 ## Kapittel 7. Administrative bestemmelser
 
@@ -262,6 +284,10 @@ Loven trer i kraft fra den tid Kongen bestemmer.1 Fra samme dato blir [lov 24. o
 
 ### § 26. Overgangsbestemmelser
 
-For den som har satt fram krav og fyller vilkårene for barnetrygd etter [lov 24. oktober 1946 nr. 2](lov/1946-10-24-2) om barnetrygd før denne loven trer i kraft, gjelder følgende overgangsbestemmelser:Foreldre som ved lovens ikrafttredelse ikke lever sammen, men deler den daglige omsorgen for barn og mottar eller har rett til delt utbetaling av barnetrygd, vil kunne fortsette med denne ordningen inntil det blir fremsatt krav om endring av den delte utbetalingen.Den som ved lovens ikrafttredelse mottar eller har rett til barnetrygd under utenlandsopphold etter reglene i forskrifter om fravikelse av vilkåret i lov om barnetrygd av 24. oktober 1946 § 1 første ledd om at barnet skal være bosatt i riket, kan motta stønaden inntil saken tas opp til revisjon.Barnetrygdmidler for fosterbarn og barn i institusjon, som ved lovens ikrafttredelse er oppspart etter reglene i forskrifter om hvem som skal ha retten til barnetrygd for barn som ikke blir oppfostret hos sine foreldre eller adoptivforeldre, overføres til barnet dersom barnet er 18 år, eller til barnets verge. Dersom barnet ved lovens ikrafttredelse er under barneverntjenestens omsorg, skal oppsparte barnetrygdmidler settes på sperret konto og overføres til barnet når barnet fyller 18 år. Dersom vedtak om omsorgsovertakelse blir opphevet før barnet fyller 18 år, overføres de oppsparte barnetrygdmidlene til vergen.
+For den som har satt fram krav og fyller vilkårene for barnetrygd etter [lov 24. oktober 1946 nr. 2](lov/1946-10-24-2) om barnetrygd før denne loven trer i kraft, gjelder følgende overgangsbestemmelser:
+
+1. Foreldre som ved lovens ikrafttredelse ikke lever sammen, men deler den daglige omsorgen for barn og mottar eller har rett til delt utbetaling av barnetrygd, vil kunne fortsette med denne ordningen inntil det blir fremsatt krav om endring av den delte utbetalingen.
+2. Den som ved lovens ikrafttredelse mottar eller har rett til barnetrygd under utenlandsopphold etter reglene i forskrifter om fravikelse av vilkåret i lov om barnetrygd av 24. oktober 1946 § 1 første ledd om at barnet skal være bosatt i riket, kan motta stønaden inntil saken tas opp til revisjon.
+3. Barnetrygdmidler for fosterbarn og barn i institusjon, som ved lovens ikrafttredelse er oppspart etter reglene i forskrifter om hvem som skal ha retten til barnetrygd for barn som ikke blir oppfostret hos sine foreldre eller adoptivforeldre, overføres til barnet dersom barnet er 18 år, eller til barnets verge. Dersom barnet ved lovens ikrafttredelse er under barneverntjenestens omsorg, skal oppsparte barnetrygdmidler settes på sperret konto og overføres til barnet når barnet fyller 18 år. Dersom vedtak om omsorgsovertakelse blir opphevet før barnet fyller 18 år, overføres de oppsparte barnetrygdmidlene til vergen.
 
 > Endret ved lov [20 des 2002 nr. 91](lov/2002-12-20-91) (ikr. 1 jan 2003).

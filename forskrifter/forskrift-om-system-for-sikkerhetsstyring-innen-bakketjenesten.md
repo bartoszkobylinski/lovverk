@@ -40,7 +40,13 @@ Formålet med denne forskriften er å stille krav til innføring og bruk av et s
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Bakketjeneste (Aerodrome Services):* De aktiviteter som er nødvendig for flyplassens drift og vedlikehold og som omfatter plasstjeneste, elektrotjeneste, brann- og redningstjeneste og forebyggelse av anslag mot luftfarten.*Risiko:* Uttrykk for den påvirkning som uønskede hendelser representerer på menneske, miljø eller materielle verdier. Risikoen uttrykkes ved sannsynligheten for/hyppigheten av og konsekvensene av de uønskede hendelsene.*Risikoevaluering:* Sammenligning av resultater fra en risikoanalyse med akseptkriterier for risiko og andre beslutningskriterier.*System for sikkerhetsstyring:* En systematisk tilnærming til sikkerhetsstyring som omfatter organisering av virksomheten, ansvarslinjer, overordnede strategier samt prosedyrer. Styringssystemet dokumenterer hvordan virksomheten skal oppnå og opprettholde et akseptabelt sikkerhetsnivå.*Tjenesteleverandør:* Foretak som er ansvarlig for etablering og drift av bakketjenester.
+I denne forskriften menes med:
+
+1. *Bakketjeneste (Aerodrome Services):* De aktiviteter som er nødvendig for flyplassens drift og vedlikehold og som omfatter plasstjeneste, elektrotjeneste, brann- og redningstjeneste og forebyggelse av anslag mot luftfarten.
+2. *Risiko:* Uttrykk for den påvirkning som uønskede hendelser representerer på menneske, miljø eller materielle verdier. Risikoen uttrykkes ved sannsynligheten for/hyppigheten av og konsekvensene av de uønskede hendelsene.
+3. *Risikoevaluering:* Sammenligning av resultater fra en risikoanalyse med akseptkriterier for risiko og andre beslutningskriterier.
+4. *System for sikkerhetsstyring:* En systematisk tilnærming til sikkerhetsstyring som omfatter organisering av virksomheten, ansvarslinjer, overordnede strategier samt prosedyrer. Styringssystemet dokumenterer hvordan virksomheten skal oppnå og opprettholde et akseptabelt sikkerhetsnivå.
+5. *Tjenesteleverandør:* Foretak som er ansvarlig for etablering og drift av bakketjenester.
 
 > Endret ved [forskrifter 1 feb 2007 nr. 115](forskrift/2007-02-01-115), [2 mars 2020 nr. 234](forskrift/2020-03-02-234).
 
@@ -60,7 +66,17 @@ I denne forskriften menes med:*Bakketjeneste (Aerodrome Services):* De aktivitet
 
 (1) Tjenesteleverandøren skal utarbeide en sikkerhetsstrategi som viser virksomhetens mål. Strategien skal gi en beskrivelse av den aktivitet som utføres på en slik måte at det er mulig å ta stilling til graden av måloppnåelse.
 
-(2) Systemet for sikkerhetsstyring skal som et minimum inneholde dokumentasjon som viser:de etablerte ledelses- og ansvarsforhold som er av betydning for flysikkerheten,de etablerte planer for oppnåelse av flysikkerhetsmål som viser hvordan de fastsatte målene skal oppnås og videreutvikles. Planene skal vise hvordan man sikrer samsvar mellom kortsiktige og langsiktige mål,myndighetskrav og de etablerte interne krav til flysikkerhet, samt rutiner for å ivareta disse. Det skal være utarbeidet rutiner for å sikre at underleverandører av tjenester og produkter som har betydning for flysikkerheten tilfredsstiller tjenesteleverandørens egne krav,planlagte og gjennomførte analyser som er nødvendige for å identifisere forhold som kan føre til svekkelse av flysikkerheten, samt oppfølging av resultatene fra analysene,de etablerte kriterier for akseptabel risiko for uønskede hendelser i virksomheten, samt vurderingene som ligger til grunn for utformingen av kriteriene,de etablerte krav til kompetanse for personell som utøver arbeidsoppgaver av betydning for flysikkerheten. Det skal sikres at alle som har arbeidsoppgaver av betydning for flysikkerheten har individuelt ansvar for sikkerheten knyttet til egne handlinger i arbeidsutøvelsen, herunder at ledere har ansvaret for sitt ansvarsområdes bidrag til flysikkerheten.de etablerte planer for å opprettholde flysikkerheten ved feil på systemer og operativ drift,de etablerte krav til intern rapportering og granskning av uønskede hendelser, jf. [§ 9](forskrift/2003-08-21-1068/§9).at det er etablert rutiner for identifisering og håndtering av brudd på myndighetskrav og på egne krav.
+(2) Systemet for sikkerhetsstyring skal som et minimum inneholde dokumentasjon som viser:
+
+1. de etablerte ledelses- og ansvarsforhold som er av betydning for flysikkerheten,
+2. de etablerte planer for oppnåelse av flysikkerhetsmål som viser hvordan de fastsatte målene skal oppnås og videreutvikles. Planene skal vise hvordan man sikrer samsvar mellom kortsiktige og langsiktige mål,
+3. myndighetskrav og de etablerte interne krav til flysikkerhet, samt rutiner for å ivareta disse. Det skal være utarbeidet rutiner for å sikre at underleverandører av tjenester og produkter som har betydning for flysikkerheten tilfredsstiller tjenesteleverandørens egne krav,
+4. planlagte og gjennomførte analyser som er nødvendige for å identifisere forhold som kan føre til svekkelse av flysikkerheten, samt oppfølging av resultatene fra analysene,
+5. de etablerte kriterier for akseptabel risiko for uønskede hendelser i virksomheten, samt vurderingene som ligger til grunn for utformingen av kriteriene,
+6. de etablerte krav til kompetanse for personell som utøver arbeidsoppgaver av betydning for flysikkerheten. Det skal sikres at alle som har arbeidsoppgaver av betydning for flysikkerheten har individuelt ansvar for sikkerheten knyttet til egne handlinger i arbeidsutøvelsen, herunder at ledere har ansvaret for sitt ansvarsområdes bidrag til flysikkerheten.
+7. de etablerte planer for å opprettholde flysikkerheten ved feil på systemer og operativ drift,
+8. de etablerte krav til intern rapportering og granskning av uønskede hendelser, jf. [§ 9](forskrift/2003-08-21-1068/§9).
+9. at det er etablert rutiner for identifisering og håndtering av brudd på myndighetskrav og på egne krav.
 
 > Endret ved [forskrift 1 feb 2007 nr. 115](forskrift/2007-02-01-115).
 
@@ -84,7 +100,13 @@ I denne forskriften menes med:*Bakketjeneste (Aerodrome Services):* De aktivitet
 
 (3) Tjenesteleverandøren skal sørge for at de ansatte er oppmerksomme på de potensielle farer knyttet til sine arbeidsoppgaver.
 
-(4) Krav til vedkommende som skal inneha sikkerhetsstyringsfunksjonen:dokumenterbar kunnskap om sikkerhetsstyring og system for sikkerhetsstyring,god kjennskap til aktuelle bestemmelser for sivil luftfart (BSL),god kjennskap til tjenesteleverandørens sikkerhetsstyrings- og håndboksystem,kjennskap til tjenesteleverandørens organisasjon,dokumenterbar kunnskap om kvalitetsrevisjon.
+(4) Krav til vedkommende som skal inneha sikkerhetsstyringsfunksjonen:
+
+1. dokumenterbar kunnskap om sikkerhetsstyring og system for sikkerhetsstyring,
+2. god kjennskap til aktuelle bestemmelser for sivil luftfart (BSL),
+3. god kjennskap til tjenesteleverandørens sikkerhetsstyrings- og håndboksystem,
+4. kjennskap til tjenesteleverandørens organisasjon,
+5. dokumenterbar kunnskap om kvalitetsrevisjon.
 
 > Endret ved [forskrifter 1 feb 2007 nr. 115](forskrift/2007-02-01-115), [2 mars 2020 nr. 234](forskrift/2020-03-02-234).
 
@@ -126,7 +148,11 @@ I denne forskriften menes med:*Bakketjeneste (Aerodrome Services):* De aktivitet
 
 (1) Tjenesteleverandør skal etablere måleparametere og indikatorer for å kontinuerlig overvåke forhold som er av betydning for flysikkerheten.
 
-(2) Måleparametere og indikatorer skal utformes på en slik måte at:man kan overvåke om de etablerte krav til akseptable sikkerhetsnivåer opprettholdes,graden av måloppnåelse klart fremkommer,de kan danne grunnlag for korrigerende og forebyggende tiltak.
+(2) Måleparametere og indikatorer skal utformes på en slik måte at:
+
+1. man kan overvåke om de etablerte krav til akseptable sikkerhetsnivåer opprettholdes,
+2. graden av måloppnåelse klart fremkommer,
+3. de kan danne grunnlag for korrigerende og forebyggende tiltak.
 
 ### § 13. Dokumentasjon
 
@@ -164,7 +190,10 @@ Tjenesteleverandøren skal utarbeide rutiner for utveksling av erfaringer som op
 
 ### § 17. Tilbakekall
 
-Dersom tjenesteleverandør ikke overholder bestemmelsene i denne forskrift, kan Luftfartstilsynet tilbakekalle aksepteringen av:systemet for sikkerhetsstyring, og/ellerpersonen som innehar sikkerhetsstyringsfunksjonen.
+Dersom tjenesteleverandør ikke overholder bestemmelsene i denne forskrift, kan Luftfartstilsynet tilbakekalle aksepteringen av:
+
+1. systemet for sikkerhetsstyring, og/eller
+2. personen som innehar sikkerhetsstyringsfunksjonen.
 
 > Endret ved [forskrifter 1 feb 2007 nr. 115](forskrift/2007-02-01-115), [2 mars 2020 nr. 234](forskrift/2020-03-02-234).
 

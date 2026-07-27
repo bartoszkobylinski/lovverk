@@ -15,7 +15,7 @@ xml_hash: "a967547e4ca0eaa052377eedd287501840b3b32c5d8eeabdc886c43cb733f6e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,11 @@ Skip som omfattes av denne forskrift tillates å føre last mellom havner på Sv
 
 ### § 3. Utvidelse av fartsområde for lasteskip
 
-Lasteskip der en vesentlig del av skipets virksomhet skjer utenfor norske farvann, tillates å føre last mellom norske havner når dette skjersom del av en regulær rute mellom norsk og utenlandsk havn; ellersom frakt av petroleum1 i bulk fra innretning på norsk kontinentalsokkel; ellerleilighetsvis i inntil 3 måneder.
+Lasteskip der en vesentlig del av skipets virksomhet skjer utenfor norske farvann, tillates å føre last mellom norske havner når dette skjer
+
+1. som del av en regulær rute mellom norsk og utenlandsk havn; eller
+2. som frakt av petroleum1 i bulk fra innretning på norsk kontinentalsokkel; eller
+3. leilighetsvis i inntil 3 måneder.
 
 Sjøfartsdirektoratet fører kontroll med at betingelsene etterleves.
 
@@ -64,7 +68,11 @@ Et skip kan ikke føre last mellom norske havner i medhold av denne forskrift f�
 
 ### § 5. Liste over spesielle lasteskip som kan føre last mellom norske havner
 
-Sjøfartsdirektoratet skal føre en liste over spesielle lasteskip som kan føre last mellom norske havner i medhold av [§ 4](forskrift/1989-08-11-802/§4). Oppføring på listen skjer nårdet ikke innen en slik frist som direktoratet setter, kommer begrunnede innvendinger om at vilkårene i [§ 4](forskrift/1989-08-11-802/§4) første ledd siste punktum ikke er oppfyltskipet ikke tidligere under samme eier har vært brukt i strid med [lovens § 4](forskrift/1989-08-11-802/§4) eller bestemmelsene i denne forskrift, ogdirektoratet ellers finner at vilkårene er til stede.
+Sjøfartsdirektoratet skal føre en liste over spesielle lasteskip som kan føre last mellom norske havner i medhold av [§ 4](forskrift/1989-08-11-802/§4). Oppføring på listen skjer når
+
+- det ikke innen en slik frist som direktoratet setter, kommer begrunnede innvendinger om at vilkårene i [§ 4](forskrift/1989-08-11-802/§4) første ledd siste punktum ikke er oppfylt
+- skipet ikke tidligere under samme eier har vært brukt i strid med [lovens § 4](forskrift/1989-08-11-802/§4) eller bestemmelsene i denne forskrift, og
+- direktoratet ellers finner at vilkårene er til stede.
 
 Listen skal gi opplysning om for hvilket tidsrom og hvilke laste- og lossehavner skipet har annet fartsområde enn det som følger av [lovens § 4](forskrift/1989-08-11-802/§4) første ledd, samt om hvilken type last det fører i dette fartsområdet.
 

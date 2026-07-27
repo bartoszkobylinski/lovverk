@@ -46,7 +46,14 @@ Stortinget kan gi utfyllende bestemmelser om institusjonens virksomhet.
 
 ## § 3. Institusjonens oppgaver
 
-Norges institusjon for menneskerettigheter skal bidra til å styrke gjennomføringen av menneskerettighetene i samsvar med Paris-prinsippene om nasjonale institusjoners status, særlig ved å:overvåke og rapportere om menneskerettighetenes stilling i Norge, herunder legge frem anbefalinger for å sikre at Norges menneskerettslige forpliktelser oppfylles,rådgi Stortinget, regjeringen, Sametinget og andre offentlige organer og private aktører om gjennomføringen av menneskerettighetene,informere om menneskerettighetene, herunder veilede enkeltpersoner om nasjonale og internasjonale klageordninger,fremme opplæring, utdanning og forskning på menneskerettighetene,legge til rette for samarbeid med relevante offentlige organer og andre aktører som arbeider med menneskerettighetene,delta i internasjonalt samarbeid for å fremme og beskytte menneskerettighetene.
+Norges institusjon for menneskerettigheter skal bidra til å styrke gjennomføringen av menneskerettighetene i samsvar med Paris-prinsippene om nasjonale institusjoners status, særlig ved å:
+
+1. overvåke og rapportere om menneskerettighetenes stilling i Norge, herunder legge frem anbefalinger for å sikre at Norges menneskerettslige forpliktelser oppfylles,
+2. rådgi Stortinget, regjeringen, Sametinget og andre offentlige organer og private aktører om gjennomføringen av menneskerettighetene,
+3. informere om menneskerettighetene, herunder veilede enkeltpersoner om nasjonale og internasjonale klageordninger,
+4. fremme opplæring, utdanning og forskning på menneskerettighetene,
+5. legge til rette for samarbeid med relevante offentlige organer og andre aktører som arbeider med menneskerettighetene,
+6. delta i internasjonalt samarbeid for å fremme og beskytte menneskerettighetene.
 
 Institusjonen er overvåkingsorgan etter [Europarådets konvensjon om forebygging og bekjempelse av vold mot kvinner og vold i nære relasjoner](traktat/2011-05-11-22) artikkel 10 og [Europarådets konvensjon om tiltak mot menneskehandel](traktat/2005-05-16-41) artikkel 29 nr. 4.
 

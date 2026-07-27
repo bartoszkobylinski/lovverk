@@ -62,7 +62,14 @@ Pilotfasen startet januar 2007 etter avtale med 15 kommuner. Pilotfasen vil gå 
 
 ### Til § 2
 
-Matrikkelen erstatter GAB-registeret og kommunens eiendomskartverk. Når det i lov eller forskrift vises til GAB-registeret eller kommunens eiendomskart, skal vedkommende bestemmelse gjelde matrikkelen tilsvarende. Det gjelder også indirekte henvisninger, f.eks. i form av henvisning til delingsloven. Slike direkte eller indirekte henvisninger finnes bl.a. i:[lov 23. juni 1978 nr. 70](lov/1978-06-23-70) om kartlegging, deling og registrering av grunneiendom (Delingsloven)[forskrift 19. oktober 1979 nr. 4](forskrift/1979-10-19-4) til lov om kartlegging, deling og registrering av grunneiendom (delingsloven). Del. av myndighet[forskrift 26. juni 2003 nr. 968](forskrift/2003-06-26-968) om føringen av grunneiendoms-, adresse- og bygningsregisteret (GAB-registeret)[lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner[forskrift 24. juni 2003 nr. 749](forskrift/2003-06-24-749) om saksbehandling og kontroll i byggesaker (SAK)[forskrift 5. juli 1991 nr. 456](forskrift/1991-07-05-456) om skrivemåten m.v. av stadnamn.
+Matrikkelen erstatter GAB-registeret og kommunens eiendomskartverk. Når det i lov eller forskrift vises til GAB-registeret eller kommunens eiendomskart, skal vedkommende bestemmelse gjelde matrikkelen tilsvarende. Det gjelder også indirekte henvisninger, f.eks. i form av henvisning til delingsloven. Slike direkte eller indirekte henvisninger finnes bl.a. i:
+
+- [lov 23. juni 1978 nr. 70](lov/1978-06-23-70) om kartlegging, deling og registrering av grunneiendom (Delingsloven)
+- [forskrift 19. oktober 1979 nr. 4](forskrift/1979-10-19-4) til lov om kartlegging, deling og registrering av grunneiendom (delingsloven). Del. av myndighet
+- [forskrift 26. juni 2003 nr. 968](forskrift/2003-06-26-968) om føringen av grunneiendoms-, adresse- og bygningsregisteret (GAB-registeret)
+- [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner
+- [forskrift 24. juni 2003 nr. 749](forskrift/2003-06-24-749) om saksbehandling og kontroll i byggesaker (SAK)
+- [forskrift 5. juli 1991 nr. 456](forskrift/1991-07-05-456) om skrivemåten m.v. av stadnamn.
 
 ### Til § 3
 

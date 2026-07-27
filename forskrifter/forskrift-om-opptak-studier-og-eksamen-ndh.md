@@ -15,7 +15,7 @@ xml_hash: "3f3f8c3887c65789b6099aa5b32891ae653f9b419527d4e11d0a943c7ccecb2c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,11 +69,17 @@ For opptak til studiet ved NDH som omfattes av denne forskriften kreves generell
 
 ### § 6. Rangeringsregler for studiet
 
-Når antall kvalifiserte søkere overstiger antall tilgjengelige studieplasser blir søkerne rangert på følgende måter til studieprogrammet:Søkere blir rangert på grunnlag av opptaksprøven med teknisk nivå, kreativitet og motivasjon.Karakter trekkes kun inn i de tilfeller hvor det er søkere som vektes likt i de tre ovennevnte punkter og hvor det er tvilstilfeller.
+Når antall kvalifiserte søkere overstiger antall tilgjengelige studieplasser blir søkerne rangert på følgende måter til studieprogrammet:
+
+1. Søkere blir rangert på grunnlag av opptaksprøven med teknisk nivå, kreativitet og motivasjon.
+2. Karakter trekkes kun inn i de tilfeller hvor det er søkere som vektes likt i de tre ovennevnte punkter og hvor det er tvilstilfeller.
 
 ### § 7. Kvoter
 
-Opptak til studieplasser som omfattes av kvoteringene, forutsetter at generelle og spesielle opptakskrav er oppfylt. Høyskolen har følgende kvoter:Inntil 10 studieplasser på 3-årig bachelor i dans med pedagogikk tildeles søkere fra Distrikts-Norge.Ved like gode søkere som tilfredsstiller generelle og spesielle opptakskrav prioriteres gutter ut i fra kjønnskvotering.
+Opptak til studieplasser som omfattes av kvoteringene, forutsetter at generelle og spesielle opptakskrav er oppfylt. Høyskolen har følgende kvoter:
+
+1. Inntil 10 studieplasser på 3-årig bachelor i dans med pedagogikk tildeles søkere fra Distrikts-Norge.
+2. Ved like gode søkere som tilfredsstiller generelle og spesielle opptakskrav prioriteres gutter ut i fra kjønnskvotering.
 
 > Endret ved [forskrift 10 juni 2010 nr. 1912](forskrift/2010-06-10-1912) (fra vårsemesteret 2011).
 
@@ -114,7 +120,11 @@ Søkere som er tatt opp som student ved NDH kan få reservert studieplassen til 
 ### § 14. Opptak som hospitant på fagblokk
 
 1. Personer uten studierett på høyskolens studieprogram kan få anledning til å følge undervisning og ta eksamen på fagblokk med ledig kapasitet, som hospitant. En hospitant må fylle opptakskrav og forkunnskapskrav som er fastsatt for fagblokken og for studieprogrammet som fagblokken inngår i. Hospitanter må betale semesteravgift for å følge undervisning og ta eksamen.
-2. Personer som kan få hospitantstatus er:En som gjennom sitt arbeid eller utøvelse av sin dansekarriere har spesielt behov for kompetanse i et område som inngår i en fagblokk som tilbys ved høyskolen, og hvor det ikke forventes at vedkommende søker det ordinære studieprogrammet.Studenter ved andre utdanningsinstitusjoner som søker å ta eksamen/følge undervisning i fagblokker som tilbys ved NDH.Personer med utenlandsk utdanning som mangler et eller flere fag for å få godkjent sin utdanning som tilsvarende norsk utdanning.
+2. Personer som kan få hospitantstatus er:
+
+   - En som gjennom sitt arbeid eller utøvelse av sin dansekarriere har spesielt behov for kompetanse i et område som inngår i en fagblokk som tilbys ved høyskolen, og hvor det ikke forventes at vedkommende søker det ordinære studieprogrammet.
+   - Studenter ved andre utdanningsinstitusjoner som søker å ta eksamen/følge undervisning i fagblokker som tilbys ved NDH.
+   - Personer med utenlandsk utdanning som mangler et eller flere fag for å få godkjent sin utdanning som tilsvarende norsk utdanning.
 3. Hospitantstatus gir rett til å følge undervisning og ta eksamen i samme periode. Hospitanter har bare mulighet for å ta enkelte fagblokker ved høyskolen, ikke hele studieprogram.
 4. Hospitanter skal ha samme vurderingsform og vurderingsordning som ordinære studenter på fagblokken har, og kan ikke ta eksamen etter tidligere ordninger. Hospitanter omfattes av øvrige krav som ordinære studenter har.
 
@@ -136,7 +146,17 @@ Søknad om opptak skjer på fastsatt søknadsskjema. Alle dokumenter som skal gi
 
 ### § 17. Innhold i studie- og semesterplaner
 
-Studiet ved NDH er organisert i studieprogram, som består av flere fagblokker. Studieprogrammet skal ha en studieplan. Studieplanen skal fastsette:Studieprogrammets/fagområdets mål, innhold, organisering, arbeidsformer, eksamensordning og vurderingsform.Eventuelle forkunnskapskrav, eller anbefalte forkunnskaper for studieprogrammet eller fagområder.Hvilke fagblokker/emner som undervises og som det kan avlegges eksamen i.Faglig beskrivelse av fagblokkene som inngår i studieprogrammet.Hvilke grupper av fagblokkene som oppfyller kravet til fordypning.Eventuelle krav til progresjon for fagblokkene/emnene i studieprogrammet.Eventuelle særlige vilkår for å gå opp til eksamen.Andre bestemmelser av betydning for gjennomføringen og kvalitetssikringen av studiet.Fagblokkene skal ha et omfang på minimum 5 studiepoeng og normalt bygges opp etter en fagblokkstørrelse på 5, 10 eller 15 studiepoeng.
+Studiet ved NDH er organisert i studieprogram, som består av flere fagblokker. Studieprogrammet skal ha en studieplan. Studieplanen skal fastsette:
+
+- Studieprogrammets/fagområdets mål, innhold, organisering, arbeidsformer, eksamensordning og vurderingsform.
+- Eventuelle forkunnskapskrav, eller anbefalte forkunnskaper for studieprogrammet eller fagområder.
+- Hvilke fagblokker/emner som undervises og som det kan avlegges eksamen i.
+- Faglig beskrivelse av fagblokkene som inngår i studieprogrammet.
+- Hvilke grupper av fagblokkene som oppfyller kravet til fordypning.
+- Eventuelle krav til progresjon for fagblokkene/emnene i studieprogrammet.
+- Eventuelle særlige vilkår for å gå opp til eksamen.
+- Andre bestemmelser av betydning for gjennomføringen og kvalitetssikringen av studiet.
+- Fagblokkene skal ha et omfang på minimum 5 studiepoeng og normalt bygges opp etter en fagblokkstørrelse på 5, 10 eller 15 studiepoeng.
 
 > Endret ved [forskrifter 24 sep 2008 nr. 1040](forskrift/2008-09-24-1040) (fra høstsemesteret 2008), [10 juni 2010 nr. 1912](forskrift/2010-06-10-1912) (fra vårsemesteret 2011).
 
@@ -150,7 +170,19 @@ Fagseksjonene utarbeider forslag til studie- og semesterplaner. Styret vedtar st
 
 ### § 19
 
-Studierett og studieprogresjonOpptak til studieprogram gir studenten studierett til studieprogrammet og fagblokker som inngår i dette. En student som ikke fyller eventuelle betingelser som er knyttet til studieprogram ved studiestart, mister studieretten.Studieretten opphører når:Studenten har fullført studieprogrammet ellerNDH mottar melding fra studenten om at vedkommende trekker seg fra studieprogrammet før det er fullført ellerstudenten blir fratatt sin studierett.En student på lavere grads studie som ikke har inngått utdanningsplan med redusert progresjon, mister studieretten dersom studieprogresjonen er:30 studiepoeng eller mindre etter første studieår.60 studiepoeng eller mindre etter andre studieår.90 studiepoeng eller mindre etter tredje studieår.
+Studierett og studieprogresjon
+
+1. Opptak til studieprogram gir studenten studierett til studieprogrammet og fagblokker som inngår i dette. En student som ikke fyller eventuelle betingelser som er knyttet til studieprogram ved studiestart, mister studieretten.
+2. Studieretten opphører når:
+
+   1. Studenten har fullført studieprogrammet eller
+   2. NDH mottar melding fra studenten om at vedkommende trekker seg fra studieprogrammet før det er fullført eller
+   3. studenten blir fratatt sin studierett.
+3. En student på lavere grads studie som ikke har inngått utdanningsplan med redusert progresjon, mister studieretten dersom studieprogresjonen er:
+
+   - 30 studiepoeng eller mindre etter første studieår.
+   - 60 studiepoeng eller mindre etter andre studieår.
+   - 90 studiepoeng eller mindre etter tredje studieår.
 
 > Endret ved [forskrift 10 juni 2010 nr. 1912](forskrift/2010-06-10-1912) (fra vårsemesteret 2011).
 
@@ -265,7 +297,18 @@ En student kan få fritak fra eksamen, prøve eller obligatorisk undervisning n�
 
 ### § 37. Karaktersystem
 
-1. Ved eksamen skal det benyttes bestått/ikke bestått (C eller bedre), eller bokstavkarakter etter en skala fra A-F, hvor A er høyeste karakter, E er laveste karakter og F er ikke bestått.Bokstavkarakterene har følgende betegnelse og generell beskrivelse:*Symbol**Betegnelse**Kvalitativ beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Viser svært god kompetanse i forhold til de læringsmål som er definert for fagnivået. Viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Viser meget god kompetanse i forhold til de læringsmål som er definert for fagnivået. Viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon. Viser god kompetanse i forhold til de læringsmål som er definert for fagnivået. Viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene men heller ikke mer. Viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjonen tilfredsstiller ikke de faglige minimumskravene. Viser både manglende vurderingsevne og selvstendighet.
+1. Ved eksamen skal det benyttes bestått/ikke bestått (C eller bedre), eller bokstavkarakter etter en skala fra A-F, hvor A er høyeste karakter, E er laveste karakter og F er ikke bestått.
+
+   Bokstavkarakterene har følgende betegnelse og generell beskrivelse:
+
+   | *Symbol* | *Betegnelse* | *Kvalitativ beskrivelse av vurderingskriterier* |
+   | --- | --- | --- |
+   | A | Fremragende | Fremragende prestasjon som klart utmerker seg. Viser svært god kompetanse i forhold til de læringsmål som er definert for fagnivået. Viser svært god vurderingsevne og stor grad av selvstendighet. |
+   | B | Meget god | Meget god prestasjon. Viser meget god kompetanse i forhold til de læringsmål som er definert for fagnivået. Viser meget god vurderingsevne og selvstendighet. |
+   | C | God | Jevnt god prestasjon. Viser god kompetanse i forhold til de læringsmål som er definert for fagnivået. Viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+   | D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Viser en viss grad av vurderingsevne og selvstendighet. |
+   | E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene men heller ikke mer. Viser liten vurderingsevne og selvstendighet. |
+   | F | Ikke bestått | Prestasjonen tilfredsstiller ikke de faglige minimumskravene. Viser både manglende vurderingsevne og selvstendighet. |
 2. Dersom en student har bestått samme eksamen mer enn én gang, gjelder beste karakter.
 3. Ved fastsetting av sammenlagt karakter på bakgrunn av flere deleksamener, må alle deleksamener være bestått for at studenten kan få endelig karakter.
 4. Bokstavkarakterene er gitt tallverdier som benyttes ved fastsetting av sammenlagt karakter, til rangering av søkere ved opptak mv. Tallverdiene er følgende: A-5, B-4, C-3, D-2, E-1. Tallverdiene regnes ut med én desimal som forhøyes til nærmeste hele tall.

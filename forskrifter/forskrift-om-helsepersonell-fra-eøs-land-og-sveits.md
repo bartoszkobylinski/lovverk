@@ -15,7 +15,7 @@ xml_hash: "ba9b59b31186acf04d1b4796e5ec95038cb52bf70b4fd6d94584effaf0903028"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,19 @@ Helsepersonell som får autorisasjon, lisens eller spesialistgodkjenning etter d
 
 ### § 4. Ordforklaringer
 
-I forskriften menes med*avtalestat:* EØS-stat og Sveits.*EUs yrkeskvalifikasjonsdirektiv:* Direktiv [2005/36/EF](eu/32005l0036*) med endringer i direktiv [2006/100/EF](eu/32006l0100*), direktiv [2013/25/EU](eu/32013l0025), direktiv [2013/55/EU](eu/32013l0055) og Kommisjonens delegerte beslutning (EU) [2016/790](eu/32016d0790) av 13. januar 2016, i samsvar med [EØS-avtalen](lov/1992-11-27-109) vedlegg VII og Konvensjonen om opprettelse av Det europeiske frihandelsforbund (EFTA-konvensjonen).*hjemstat:* Den staten hvor yrkesutøveren har ervervet sine yrkeskvalifikasjoner.*Det indre markeds informasjonssystem (IMI):* EUs database for informasjonsutveksling mellom ansvarlige myndigheter i EØS-statene.*kvalifikasjonsbevis:* Eksamensbevis, attester og annen dokumentasjon utstedt av en ansvarlig myndighet i en avtalestat. Beviset skal dokumentere en bestått yrkeskompetansegivende utdanning som i hovedsak er ervervet innen EØS-området eller i Sveits. Som kvalifikasjonsbevis regnes også bevis utstedt av en tredjestat dersom innehaveren har tre års yrkeserfaring i det aktuelle yrket i den medlemsstat som godkjente beviset.*lovlig etablert:* Yrkesutøveren oppfyller alle vilkårene for å utøve et yrke og har ikke fått forbud mot eller begrensninger i retten til å utøve yrket, i en EØS-stat eller Sveits.*lovregulert utdanning:* Enhver utdanning som er særlig rettet mot utøvelsen av et gitt yrke og som omfatter ett eller flere kurs, eventuelt supplert med yrkesrettet opplæring eller med en praktisk eller faglig prøveperiode. Strukturen i og nivået på den yrkesrettede utdanningen eller den praktiske eller faglige prøveperioden skal fastsettes ved lov eller forskrift av vedkommende avtalestat eller overvåkes eller godkjennes av den myndighet som er utpekt for dette formål.*lovregulert yrke:* Et yrke som nevnt i [helsepersonelloven § 48](lov/1999-07-02-64/§48) første ledd. I andre EØS-stater eller i Sveits en yrkesvirksomhet som er underlagt lov- eller forskriftsfestede krav om særlige yrkeskvalifikasjoner. I andre EØS-stater regnes også yrkesvirksomhet utøvet av medlemmer i de britiske organisasjonene Chartered Society of Physiotherapy, Royal Society of Chemistry og British Psychological Society som lovregulert yrke.*vertsstat:* Den staten hvor yrkesutøveren har søkt om å utøve sitt yrke enten ved midlertidig tjenesteytelse eller ved etablering.*yrkeserfaring:* Faktisk og lovlig utøvelse av det aktuelle yrket i en avtalestat.*yrkeskvalifikasjoner:* Kvalifikasjoner dokumentert med kvalifikasjonsbevis, en kompetanseattest som nevnt i forskriften vedlegg I bokstav a, nr. 1 eller yrkeserfaring.
+I forskriften menes med
+
+1. *avtalestat:* EØS-stat og Sveits.
+2. *EUs yrkeskvalifikasjonsdirektiv:* Direktiv [2005/36/EF](eu/32005l0036*) med endringer i direktiv [2006/100/EF](eu/32006l0100*), direktiv [2013/25/EU](eu/32013l0025), direktiv [2013/55/EU](eu/32013l0055) og Kommisjonens delegerte beslutning (EU) [2016/790](eu/32016d0790) av 13. januar 2016, i samsvar med [EØS-avtalen](lov/1992-11-27-109) vedlegg VII og Konvensjonen om opprettelse av Det europeiske frihandelsforbund (EFTA-konvensjonen).
+3. *hjemstat:* Den staten hvor yrkesutøveren har ervervet sine yrkeskvalifikasjoner.
+4. *Det indre markeds informasjonssystem (IMI):* EUs database for informasjonsutveksling mellom ansvarlige myndigheter i EØS-statene.
+5. *kvalifikasjonsbevis:* Eksamensbevis, attester og annen dokumentasjon utstedt av en ansvarlig myndighet i en avtalestat. Beviset skal dokumentere en bestått yrkeskompetansegivende utdanning som i hovedsak er ervervet innen EØS-området eller i Sveits. Som kvalifikasjonsbevis regnes også bevis utstedt av en tredjestat dersom innehaveren har tre års yrkeserfaring i det aktuelle yrket i den medlemsstat som godkjente beviset.
+6. *lovlig etablert:* Yrkesutøveren oppfyller alle vilkårene for å utøve et yrke og har ikke fått forbud mot eller begrensninger i retten til å utøve yrket, i en EØS-stat eller Sveits.
+7. *lovregulert utdanning:* Enhver utdanning som er særlig rettet mot utøvelsen av et gitt yrke og som omfatter ett eller flere kurs, eventuelt supplert med yrkesrettet opplæring eller med en praktisk eller faglig prøveperiode. Strukturen i og nivået på den yrkesrettede utdanningen eller den praktiske eller faglige prøveperioden skal fastsettes ved lov eller forskrift av vedkommende avtalestat eller overvåkes eller godkjennes av den myndighet som er utpekt for dette formål.
+8. *lovregulert yrke:* Et yrke som nevnt i [helsepersonelloven § 48](lov/1999-07-02-64/§48) første ledd. I andre EØS-stater eller i Sveits en yrkesvirksomhet som er underlagt lov- eller forskriftsfestede krav om særlige yrkeskvalifikasjoner. I andre EØS-stater regnes også yrkesvirksomhet utøvet av medlemmer i de britiske organisasjonene Chartered Society of Physiotherapy, Royal Society of Chemistry og British Psychological Society som lovregulert yrke.
+9. *vertsstat:* Den staten hvor yrkesutøveren har søkt om å utøve sitt yrke enten ved midlertidig tjenesteytelse eller ved etablering.
+10. *yrkeserfaring:* Faktisk og lovlig utøvelse av det aktuelle yrket i en avtalestat.
+11. *yrkeskvalifikasjoner:* Kvalifikasjoner dokumentert med kvalifikasjonsbevis, en kompetanseattest som nevnt i forskriften vedlegg I bokstav a, nr. 1 eller yrkeserfaring.
 
 > Endret ved [forskrifter 28 juni 2013 nr. 864](forskrift/2013-06-28-864) [9 des 2019 nr. 1718](forskrift/2019-12-09-1718).
 
@@ -56,11 +68,24 @@ I forskriften menes med*avtalestat:* EØS-stat og Sveits.*EUs yrkeskvalifikasjon
 
 ### § 5. Autorisasjon og lisens på grunnlag av kvalifikasjonsbevis
 
-Søker har rett til autorisasjon eller lisens som lege, sykepleier, tannlege, jordmor eller provisorfarmasøyt dersom søkeren fremlegger slikt kvalifikasjonsbevis somfor lege er nevnt i forskriften vedlegg II punkt 5.1.1, og som er vedlagt en eventuell attest om praktisk tjeneste mv.for sykepleier er nevnt i forskriften vedlegg II punkt 5.2.2for tannlege er nevnt i forskriften vedlegg II punkt 5.3.2 og som er vedlagt en eventuell attest om praktisk tjeneste mv.for jordmor er nevnt i forskriften vedlegg II punkt 5.5.2for provisorfarmasøyt er nevnt i forskriften vedlegg II punkt 5.6.2 og som er vedlagt en eventuell attest om praktisk tjeneste mv.
+Søker har rett til autorisasjon eller lisens som lege, sykepleier, tannlege, jordmor eller provisorfarmasøyt dersom søkeren fremlegger slikt kvalifikasjonsbevis som
+
+1. for lege er nevnt i forskriften vedlegg II punkt 5.1.1, og som er vedlagt en eventuell attest om praktisk tjeneste mv.
+2. for sykepleier er nevnt i forskriften vedlegg II punkt 5.2.2
+3. for tannlege er nevnt i forskriften vedlegg II punkt 5.3.2 og som er vedlagt en eventuell attest om praktisk tjeneste mv.
+4. for jordmor er nevnt i forskriften vedlegg II punkt 5.5.2
+5. for provisorfarmasøyt er nevnt i forskriften vedlegg II punkt 5.6.2 og som er vedlagt en eventuell attest om praktisk tjeneste mv.
 
 Søker som fremlegger kvalifikasjonsbevis som ikke svarer til de titler som fremgår av første ledd, har rett til autorisasjon eller lisens dersom vedkommende fremlegger bekreftelse fra myndighetene i den avtalestaten som har utstedt kvalifikasjonsbeviset. Bekreftelsen skal opplyse om at utdanningen er i samsvar med EUs yrkeskvalifikasjonsdirektiv og at kvalifikasjonsbeviset kan likestilles med de kvalifikasjonsbevis som er nevnt i direktivet.
 
-Autorisasjon eller lisens som jordmor etter første og annet ledd skal bare gis dersom kvalifikasjonsbeviset gjelderen heltidsutdanning til jordmor på minst tre år somenten er betinget av at vedkommende innehar et diplom, en attest eller annet kvalifikasjonsbevis som gir adgang til universiteter eller høyskoler eller som ellers garanterer et tilsvarende kunnskapsnivå, ellerfølges av to år med yrkespraksis som det er utstedt en attest for i samsvar med fjerde ledd,utdanning på heltid som jordmor i minst to år eller 3600 timer, betinget av at utøveren innehar et kvalifikasjonsbevis som sykepleier med ansvar for alminnelig sykepleie som nevnt i forskriften vedlegg II nr. 5.2.2, ellerutdanning på heltid som jordmor i minst 18 måneder eller 3000 timer, betinget av at utøveren innehar et kvalifikasjonsbevis som sykepleier med ansvar for alminnelig sykepleie som nevnt i forskriften vedlegg II nr. 5.2.2, og etterfulgt av ett års yrkespraksis som det er utstedt en attest for i samsvar med fjerde ledd.
+Autorisasjon eller lisens som jordmor etter første og annet ledd skal bare gis dersom kvalifikasjonsbeviset gjelder
+
+1. en heltidsutdanning til jordmor på minst tre år som
+
+   1. enten er betinget av at vedkommende innehar et diplom, en attest eller annet kvalifikasjonsbevis som gir adgang til universiteter eller høyskoler eller som ellers garanterer et tilsvarende kunnskapsnivå, eller
+   2. følges av to år med yrkespraksis som det er utstedt en attest for i samsvar med fjerde ledd,
+2. utdanning på heltid som jordmor i minst to år eller 3600 timer, betinget av at utøveren innehar et kvalifikasjonsbevis som sykepleier med ansvar for alminnelig sykepleie som nevnt i forskriften vedlegg II nr. 5.2.2, eller
+3. utdanning på heltid som jordmor i minst 18 måneder eller 3000 timer, betinget av at utøveren innehar et kvalifikasjonsbevis som sykepleier med ansvar for alminnelig sykepleie som nevnt i forskriften vedlegg II nr. 5.2.2, og etterfulgt av ett års yrkespraksis som det er utstedt en attest for i samsvar med fjerde ledd.
 
 Attest som nevnt i tredje ledd bokstav a nr. 2 og bokstav c skal utstedes av ansvarlig myndighet i staten der kvalifikasjonene er ervervet. Den skal dokumentere at innehaveren etter å ha oppnådd kvalifikasjonsbevis som jordmor, på tilfredsstillende måte har utført alle former for jordmorvirksomhet i en tilsvarende periode ved et sykehus eller en helseinstitusjon godkjent for dette formål.
 
@@ -72,7 +97,16 @@ Likestilt med kvalifikasjonsbevis som nevnt i første ledd bokstav b er dokument
 
 ### § 6. Autorisasjon og lisens på grunnlag av ervervede rettigheter
 
-Søker med kvalifikasjonsbevis som ikke er nevnt i forskriften vedlegg II, har rett til autorisasjon eller lisens som lege, sykepleier, tannlege, jordmor eller provisorfarmasøyt dersomkvalifikasjonsbevis enten er utferdiget før eller gjelder en utdanning påbegynt før tidspunkt som fremgår av forskriften vedlegg IIfor lege i punkt 5.1.1for sykepleier i punkt 5.2.2for tannlege i punkt 5.3.2for jordmor i punkt 5.5.2for provisorfarmasøyt i punkt 5.6.2, ogsøkeren fremlegger attest på faktisk og lovlig å ha utøvet det aktuelle yrket sammenhengende i minst tre år i løpet av de siste fem år før attesten ble utstedt. For sykepleier må denne virksomheten ha omfattet fullt ansvar for planlegging, organisering og utføring av omsorg for pasienten.
+Søker med kvalifikasjonsbevis som ikke er nevnt i forskriften vedlegg II, har rett til autorisasjon eller lisens som lege, sykepleier, tannlege, jordmor eller provisorfarmasøyt dersom
+
+1. kvalifikasjonsbevis enten er utferdiget før eller gjelder en utdanning påbegynt før tidspunkt som fremgår av forskriften vedlegg II
+
+   1. for lege i punkt 5.1.1
+   2. for sykepleier i punkt 5.2.2
+   3. for tannlege i punkt 5.3.2
+   4. for jordmor i punkt 5.5.2
+   5. for provisorfarmasøyt i punkt 5.6.2, og
+2. søkeren fremlegger attest på faktisk og lovlig å ha utøvet det aktuelle yrket sammenhengende i minst tre år i løpet av de siste fem år før attesten ble utstedt. For sykepleier må denne virksomheten ha omfattet fullt ansvar for planlegging, organisering og utføring av omsorg for pasienten.
 
 Søker med kvalifikasjonsbevis fra Den tidligere tyske demokratiske republikk, det tidligere Tsjekkoslovakia, det tidligere Sovjetunionen og det tidligere Jugoslavia har rett til autorisasjon, lisens eller spesialistgodkjenning på de vilkårene som fremkommer av forskriften vedlegg III.
 
@@ -92,7 +126,11 @@ Søker med kvalifikasjonsbevis som jordmor fra Den tidligere tyske demokratiske 
 
 ### § 8. Spesialistgodkjenning på grunnlag av kvalifikasjonsbevis
 
-Søker har rett til godkjenning som spesialist innen medisin eller odontologi dersomspesialiteten er godkjent som spesialitet i Norgesøkeren har autorisasjon eller lisens som henholdsvis lege eller tannlege etter [§ 5](forskrift/2008-10-08-1130/§5), [§ 6](forskrift/2008-10-08-1130/§6) eller [§ 7](forskrift/2008-10-08-1130/§7), ogsøkeren fremlegger kvalifikasjonsbevis som henholdsvis er omhandlet i forskriften vedlegg II punkt 5.1.2 og 5.1.3 for spesialist innen medisin og punkt 5.3.3 for spesialist innen en avgrenset del av de odontologiske fagområder.
+Søker har rett til godkjenning som spesialist innen medisin eller odontologi dersom
+
+1. spesialiteten er godkjent som spesialitet i Norge
+2. søkeren har autorisasjon eller lisens som henholdsvis lege eller tannlege etter [§ 5](forskrift/2008-10-08-1130/§5), [§ 6](forskrift/2008-10-08-1130/§6) eller [§ 7](forskrift/2008-10-08-1130/§7), og
+3. søkeren fremlegger kvalifikasjonsbevis som henholdsvis er omhandlet i forskriften vedlegg II punkt 5.1.2 og 5.1.3 for spesialist innen medisin og punkt 5.3.3 for spesialist innen en avgrenset del av de odontologiske fagområder.
 
 Søker som fremlegger kvalifikasjonsbevis som spesialist innen medisin eller odontologi som ikke svarer til de titler som fremgår av første ledd, har rett til spesialistgodkjenning dersom vedkommende fremlegger en bekreftelse fra myndighetene i den avtalestaten som har utstedt kvalifikasjonsbeviset. Bekreftelsen skal opplyse om at spesialistutdanningen er i samsvar med EUs yrkeskvalifikasjonsdirektiv og at kvalifikasjonsbeviset kan likestilles med de kvalifikasjonsbevis som er nevnt i dette direktiv.
 
@@ -100,7 +138,13 @@ Søker som fremlegger kvalifikasjonsbevis som spesialist innen medisin eller odo
 
 ### § 9. Spesialistgodkjenning på grunnlag av ervervede rettigheter
 
-Søker med kvalifikasjonsbevis for spesialistkompetanse som ikke er nevnt i forskriften vedlegg II, har rett til spesialistgodkjenning innen medisin eller odontologi dersomkvalifikasjonsbevis enten ble utferdiget før, eller gjelder en utdanning påbegyntfør tidspunktet i forskriften vedlegg II punkt 5.1.2 og 5.1.3 for spesialist innen medisin, ellerfør tidspunktet i forskriften vedlegg II punkt 5.3.3 for spesialist innen odontologi, ogsøkeren fremlegger attest på faktisk og lovlig å ha arbeidet innen den aktuelle spesialiteten sammenhengende i minst tre år i løpet av de siste fem år før attesten ble utstedt.
+Søker med kvalifikasjonsbevis for spesialistkompetanse som ikke er nevnt i forskriften vedlegg II, har rett til spesialistgodkjenning innen medisin eller odontologi dersom
+
+1. kvalifikasjonsbevis enten ble utferdiget før, eller gjelder en utdanning påbegynt
+
+   1. før tidspunktet i forskriften vedlegg II punkt 5.1.2 og 5.1.3 for spesialist innen medisin, eller
+   2. før tidspunktet i forskriften vedlegg II punkt 5.3.3 for spesialist innen odontologi, og
+2. søkeren fremlegger attest på faktisk og lovlig å ha arbeidet innen den aktuelle spesialiteten sammenhengende i minst tre år i løpet av de siste fem år før attesten ble utstedt.
 
 Søker med kvalifikasjonsbevis tildelt i Spania til leger som fullførte sin spesialistutdanning før 1. januar 1995, har rett til spesialistgodkjenning selv om denne utdanningen ikke oppfyller minstekravene for utdanning i direktivets artikkel 25, dersom dette beviset ledsages av en attest utstedt av ansvarlig spansk myndighet. Attesten skal bekrefte at søkeren har bestått eksamen i særlig faglig kompetanse, jf. spansk kongelig anordning 1497/99.
 
@@ -110,9 +154,15 @@ Søker med kvalifikasjonsbevis tildelt i Spania til leger som fullførte sin spe
 
 ### § 10. Godkjenning som spesialist i allmennmedisin
 
-Søker har rett til godkjenning som spesialist i allmennmedisin dersom søkerenhar autorisasjon eller lisens som lege i samsvar med [§ 5](forskrift/2008-10-08-1130/§5) eller [§ 6](forskrift/2008-10-08-1130/§6), ogfremlegger slikt bevis som nevnt i forskriften vedlegg II punkt 5.1.4.
+Søker har rett til godkjenning som spesialist i allmennmedisin dersom søkeren
 
-Med bevis som kreves i første ledd bokstav b likestilles attest fra en avtalestat som bekrefter at søkeren på det referansetidspunktet som er nevnt i forskriften vedlegg II punkt 5.1.4var etablert på avtalestatens område som lege etter bestemmelsene i direktiv [2005/36/EF](eu/32005l0036*) artikler 21 om automatisk anerkjennelse eller 23 om ervervede rettigheter, oghadde rett til å virke som allmennpraktiserende lege med rett til trygderefusjon, uten å ha oppnådd formelle kvalifikasjoner på referansetidspunktet som nevnt i vedlegg II punkt 5.1.4.
+1. har autorisasjon eller lisens som lege i samsvar med [§ 5](forskrift/2008-10-08-1130/§5) eller [§ 6](forskrift/2008-10-08-1130/§6), og
+2. fremlegger slikt bevis som nevnt i forskriften vedlegg II punkt 5.1.4.
+
+Med bevis som kreves i første ledd bokstav b likestilles attest fra en avtalestat som bekrefter at søkeren på det referansetidspunktet som er nevnt i forskriften vedlegg II punkt 5.1.4
+
+1. var etablert på avtalestatens område som lege etter bestemmelsene i direktiv [2005/36/EF](eu/32005l0036*) artikler 21 om automatisk anerkjennelse eller 23 om ervervede rettigheter, og
+2. hadde rett til å virke som allmennpraktiserende lege med rett til trygderefusjon, uten å ha oppnådd formelle kvalifikasjoner på referansetidspunktet som nevnt i vedlegg II punkt 5.1.4.
 
 > Endret ved [forskrifter 28 juni 2013 nr. 864](forskrift/2013-06-28-864), [18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016), [9 des 2019 nr. 1718](forskrift/2019-12-09-1718), [28 nov 2019 nr. 1636](forskrift/2019-11-28-1636) (i kraft 1 jan 2020).
 
@@ -126,7 +176,14 @@ Stilles det i tilknytning til driftskonsesjon krav om tjeneste i norsk apotek, s
 
 ### § 12. Godkjenning av søker som ikke oppfyller vilkårene i kapitlet
 
-Søknad om godkjenning til et yrke hvor utdanningen er harmonisert, men søkeren ikke oppfyller vilkårene for automatisk godkjenning etter [§ 5](forskrift/2008-10-08-1130/§5) til [§ 11](forskrift/2008-10-08-1130/§11), skal vurderes etter [§ 13](forskrift/2008-10-08-1130/§13) og [§ 15](forskrift/2008-10-08-1130/§15) dersom følgende vilkår er oppfylt:Det er særlige og unntaksvise årsaker til at søkeren ikke oppfyller vilkårene i [§ 5](forskrift/2008-10-08-1130/§5) til [§ 11](forskrift/2008-10-08-1130/§11).Søknaden gjelder en av følgende situasjoner:Søkeren har utdanning til yrket det søkes godkjenning for, men mangler tilstrekkelig yrkeserfaring til å påberope seg ervervede rettigheter, jf. direktivet artikkel 10 bokstav b.Søkeren har relevant godkjenning som lege- eller tannlegespesialist, jf. direktivet artikkel 10 bokstav d.Søkeren er spesialsykepleier uten utdanning i alminnelig sykepleie, jf. direktivet artikkel 10 bokstav f.
+Søknad om godkjenning til et yrke hvor utdanningen er harmonisert, men søkeren ikke oppfyller vilkårene for automatisk godkjenning etter [§ 5](forskrift/2008-10-08-1130/§5) til [§ 11](forskrift/2008-10-08-1130/§11), skal vurderes etter [§ 13](forskrift/2008-10-08-1130/§13) og [§ 15](forskrift/2008-10-08-1130/§15) dersom følgende vilkår er oppfylt:
+
+1. Det er særlige og unntaksvise årsaker til at søkeren ikke oppfyller vilkårene i [§ 5](forskrift/2008-10-08-1130/§5) til [§ 11](forskrift/2008-10-08-1130/§11).
+2. Søknaden gjelder en av følgende situasjoner:
+
+   - Søkeren har utdanning til yrket det søkes godkjenning for, men mangler tilstrekkelig yrkeserfaring til å påberope seg ervervede rettigheter, jf. direktivet artikkel 10 bokstav b.
+   - Søkeren har relevant godkjenning som lege- eller tannlegespesialist, jf. direktivet artikkel 10 bokstav d.
+   - Søkeren er spesialsykepleier uten utdanning i alminnelig sykepleie, jf. direktivet artikkel 10 bokstav f.
 
 > Endret ved [forskrifter 9 des 2019 nr. 1718](forskrift/2019-12-09-1718), [22 mai 2020 nr. 1047](forskrift/2020-05-22-1047).
 
@@ -152,7 +209,10 @@ Yrkeserfaring som nevnt i første ledd kreves ikke når det søkes om autorisasj
 
 ### § 15. Særlige krav som kan stilles på grunn av utdanningens varighet, innhold og nivå
 
-Helsedirektoratet kan kreve at søker gjennomgår enten en prøveperiode på høyst tre år under veiledning eller består en egnethetsprøve dersomsøkers utdanning er vesentlig forskjellig fra den utdanning som gis for det aktuelle yrket i Norge, ellerdet aktuelle yrket i Norge omfatter lovregulerte yrkesaktiviteter som ikke inngår i en sammenlignbar form i det tilsvarende yrket i søkers hjemstat, og det i Norge kreves en særskilt utdanning som er vesentlig forskjellige fra søkers utdanning.
+Helsedirektoratet kan kreve at søker gjennomgår enten en prøveperiode på høyst tre år under veiledning eller består en egnethetsprøve dersom
+
+1. søkers utdanning er vesentlig forskjellig fra den utdanning som gis for det aktuelle yrket i Norge, eller
+2. det aktuelle yrket i Norge omfatter lovregulerte yrkesaktiviteter som ikke inngår i en sammenlignbar form i det tilsvarende yrket i søkers hjemstat, og det i Norge kreves en særskilt utdanning som er vesentlig forskjellige fra søkers utdanning.
 
 Utdanning som nevnt i første ledd er vesentlig forskjellig fra søkers utdanning når søker mangler kunnskap på områder som er avgjørende for utøvelsen av yrket og søkers utdanning viser viktige forskjeller med hensyn til varighet eller innhold sammenlignet med utdanning som kreves i Norge.
 
@@ -162,7 +222,11 @@ Med egnethetsprøve menes en prøve av søkers faglige kunnskaper for å vurdere
 
 Før vedtak om prøveperiode eller egnethetstest treffes må det vurderes om kunnskap søker har ervervet ved yrkeserfaring, helt eller delvis oppveier det vesentlige avviket i og mellom utdanningene.
 
-Søker kan velge mellom prøveperiode og egnethetsprøve. Helsedirektoratet skal likevel velge mellom prøveperiode eller egnethetsprøve i følgende tilfeller:for leger med medisinsk grunnutdanning, legespesialister, sykepleiere, tannleger, tannlegespesialister, jordmødre og farmasøyter som ikke fyller kravene til praksis for å erverve rettigheter som nevnt i EUs yrkeskvalifikasjonsdirektiv artiklene 23, 27, 33, 37, 39, 43 og 49,for godkjenning av relevant spesialitet for leger og tannleger, som kan fremvise formell dokumentasjon på at vedkommende er en spesialist som må ha deltatt i utdanning som leder til en tittel som nevnt i EUs yrkeskvalifikasjonsdirektiv vedlegg V punkt 5.1.1, 5.2.2, 5.3.2, 5.4.2, 5.5.2, 5.6.2 og 5.7.1,for søkere som har yrkeskvalifikasjoner fra tredjeland som er anerkjent av en annen EØS-medlemsstat eller Sveits og som kan dokumentere tre års praksis i det relevante yrket fra denne staten.
+Søker kan velge mellom prøveperiode og egnethetsprøve. Helsedirektoratet skal likevel velge mellom prøveperiode eller egnethetsprøve i følgende tilfeller:
+
+1. for leger med medisinsk grunnutdanning, legespesialister, sykepleiere, tannleger, tannlegespesialister, jordmødre og farmasøyter som ikke fyller kravene til praksis for å erverve rettigheter som nevnt i EUs yrkeskvalifikasjonsdirektiv artiklene 23, 27, 33, 37, 39, 43 og 49,
+2. for godkjenning av relevant spesialitet for leger og tannleger, som kan fremvise formell dokumentasjon på at vedkommende er en spesialist som må ha deltatt i utdanning som leder til en tittel som nevnt i EUs yrkeskvalifikasjonsdirektiv vedlegg V punkt 5.1.1, 5.2.2, 5.3.2, 5.4.2, 5.5.2, 5.6.2 og 5.7.1,
+3. for søkere som har yrkeskvalifikasjoner fra tredjeland som er anerkjent av en annen EØS-medlemsstat eller Sveits og som kan dokumentere tre års praksis i det relevante yrket fra denne staten.
 
 > Endret ved [forskrifter 18 feb 2013 nr. 211](forskrift/2013-02-18-211) (i kraft 1 mars 2013), [28 juni 2013 nr. 864](forskrift/2013-06-28-864), [9 des 2019 nr. 1718](forskrift/2019-12-09-1718).
 
@@ -182,7 +246,12 @@ Før en yrkesutøver tilbyr tjenester i samsvar med første ledd, skal vedkommen
 
 ### § 17. Krav til dokumentasjon
 
-Første gang tjenesten ytes, eller dersom det senere foreligger en vesentlig endring av de forhold som omhandles i dokumentene, skal tjenesteyteren dokumentereidentitet og nasjonalitetat vedkommende er lovlig etablert i en annen EØS-stat eller i Sveits med det formål å utøve den aktuelle virksomheten og at det på tidspunktet for utstedelsen ikke er forbudt for vedkommende å praktisere, heller ikke midlertidigyrkeskvalifikasjoner ogå ha utøvd den aktuelle virksomheten i minst ett av de siste ti årene, dersom yrket ikke er lovregulert i det land tjenesteyter har etablert sin virksomhet.
+Første gang tjenesten ytes, eller dersom det senere foreligger en vesentlig endring av de forhold som omhandles i dokumentene, skal tjenesteyteren dokumentere
+
+1. identitet og nasjonalitet
+2. at vedkommende er lovlig etablert i en annen EØS-stat eller i Sveits med det formål å utøve den aktuelle virksomheten og at det på tidspunktet for utstedelsen ikke er forbudt for vedkommende å praktisere, heller ikke midlertidig
+3. yrkeskvalifikasjoner og
+4. å ha utøvd den aktuelle virksomheten i minst ett av de siste ti årene, dersom yrket ikke er lovregulert i det land tjenesteyter har etablert sin virksomhet.
 
 Søker som skal drive selvstendig virksomhet skal legge frem informasjon om forsikringsdekning for yrkesansvar som gjelder virksomhet i Norge.
 
@@ -206,7 +275,10 @@ Tjenesteyter som ikke har fått tilbud om en egnethetsprøve innen en måned ett
 
 ### § 19. Informasjon til pasienter
 
-Tjenesteyter som benytter yrkestittelen fra en avtalestat vedkommende er etablert i eller benytter tittelen på sitt kvalifikasjonsbevis, skal gi pasientene skriftlig opplysning omnavnet på og adressen til tilsynsmyndigheten i det land vedkommende er etablert, dersom virksomheten er lovregulert der, ogforsikringsdekning eller andre former for personlig eller kollektiv sikkerhetsstillelse med hensyn til yrkesansvar.
+Tjenesteyter som benytter yrkestittelen fra en avtalestat vedkommende er etablert i eller benytter tittelen på sitt kvalifikasjonsbevis, skal gi pasientene skriftlig opplysning om
+
+1. navnet på og adressen til tilsynsmyndigheten i det land vedkommende er etablert, dersom virksomheten er lovregulert der, og
+2. forsikringsdekning eller andre former for personlig eller kollektiv sikkerhetsstillelse med hensyn til yrkesansvar.
 
 Relevant myndighet skal sikre utveksling av informasjon som er nødvendig for at klager fra pasienter skal bli fulgt opp på en riktig måte.
 
@@ -308,7 +380,11 @@ For søknad etter [kapittel 3](forskrift/2008-10-08-1130/kap3) er fristen senest
 
 Vedtak om autorisasjon, lisens eller spesialistgodkjenning etter [kapittel 2](forskrift/2008-10-08-1130/kap2) eller [kapittel 3](forskrift/2008-10-08-1130/kap3) kan påklages til Statens helsepersonellnemnd.
 
-Følgende vedtak eller manglende vedtak kan påklages til Nasjonalt klageorgan for helsetjenesten:oversittelse av frister fastsatt i denne forskriften ved manglende vedtak om autorisasjon, lisens eller spesialistgodkjenning etter [kapittel 2](forskrift/2008-10-08-1130/kap2) eller [kapittel 3](forskrift/2008-10-08-1130/kap3)vedtak om å kontrollere kvalifikasjonene og pålegge egnethetsprøve ved midlertidig tjenesteyting etter [§ 18](forskrift/2008-10-08-1130/§18)varsling til andre land etter [§ 28](forskrift/2008-10-08-1130/§28).
+Følgende vedtak eller manglende vedtak kan påklages til Nasjonalt klageorgan for helsetjenesten:
+
+1. oversittelse av frister fastsatt i denne forskriften ved manglende vedtak om autorisasjon, lisens eller spesialistgodkjenning etter [kapittel 2](forskrift/2008-10-08-1130/kap2) eller [kapittel 3](forskrift/2008-10-08-1130/kap3)
+2. vedtak om å kontrollere kvalifikasjonene og pålegge egnethetsprøve ved midlertidig tjenesteyting etter [§ 18](forskrift/2008-10-08-1130/§18)
+3. varsling til andre land etter [§ 28](forskrift/2008-10-08-1130/§28).
 
 > Tilføyd ved [forskrift 15 aug 2018 nr. 1261](forskrift/2018-08-15-1261), endret ved [forskrifter 9 des 2019 nr. 1718](forskrift/2019-12-09-1718), [28 nov 2019 nr. 1636](forskrift/2019-11-28-1636) (i kraft 1 jan 2020), [24 april 2020 nr. 890](forskrift/2020-04-24-890).
 
@@ -344,7 +420,13 @@ Informasjon om EUs yrkeskvalifikasjonsdirektiv kan også fås hos Helsedirektora
 
 ### § 26. Dokumentasjon ved søknad
 
-Helsedirektoratet kan kreve at den som søker om autorisasjon, lisens eller spesialistgodkjenning fremleggerbevis for søkerens identitet og nasjonalitetkopi av bekreftelse på yrkeskvalifikasjoner eller bevis for formelle kvalifikasjoner som gir adgang til det aktuelle yrketattest for yrkeserfaring der det følger av forskriftenopplysninger om suspensjon, begrensninger i eller tilbakekall av autorisasjon, lisens eller spesialistgodkjenning på grunn av alvorlig yrkesmessig feilhandling, strafferettslig reaksjon eller andre forholden attest fra ansvarlig myndighet i søkerens hjemstat som slår fast at den aktuelle dokumentasjon på formelle kvalifikasjoner er slik som det går frem av EUs yrkeskvalifikasjonsdirektiv.
+Helsedirektoratet kan kreve at den som søker om autorisasjon, lisens eller spesialistgodkjenning fremlegger
+
+1. bevis for søkerens identitet og nasjonalitet
+2. kopi av bekreftelse på yrkeskvalifikasjoner eller bevis for formelle kvalifikasjoner som gir adgang til det aktuelle yrket
+3. attest for yrkeserfaring der det følger av forskriften
+4. opplysninger om suspensjon, begrensninger i eller tilbakekall av autorisasjon, lisens eller spesialistgodkjenning på grunn av alvorlig yrkesmessig feilhandling, strafferettslig reaksjon eller andre forhold
+5. en attest fra ansvarlig myndighet i søkerens hjemstat som slår fast at den aktuelle dokumentasjon på formelle kvalifikasjoner er slik som det går frem av EUs yrkeskvalifikasjonsdirektiv.
 
 Dokumentene som nevnt i bokstav d skal ikke være eldre enn tre måneder. Dersom relevant avtalestat ikke utsteder de nødvendige dokumenter, kan disse erstattes av en attest som dokumenterer en forsikring på ære og samvittighet gitt av søkeren for vedkommende retts- eller forvaltningsmyndighet, en notarius publicus eller et kvalifisert bransjeorgan i vedkommende stat.
 
@@ -352,7 +434,11 @@ Søkeren skal på anmodning gi opplysninger som er nødvendige for å slå fast 
 
 Ved begrunnet tvil kan Helsedirektoratet kreve en bekreftelse fra ansvarlig myndighet i en annen EØS-stat eller i Sveits på gyldigheten av utstedt kvalifikasjonsbevis og på at søkeren oppfyller de utdanningskrav som er fastsatt i EUs yrkeskvalifikasjonsdirektiv.
 
-Ved begrunnet tvil og der kvalifikasjonsbeviset omfatter utdanning helt eller delvis ved en institusjon som er lovlig etablert på territoriet til en annen EØS-stat eller Sveits, kan Helsedirektoratet undersøke omutdanningsforløpet ved institusjonen som gav utdanningen har vært formelt sertifisert av utdanningsmyndigheten i en EØS-stat eller i Sveitsde utstedte kvalifikasjonsbevis samsvarer med de bevis som den aktuelle EØS-staten eller Sveits utsteder for tilsvarende utdanningkvalifikasjonsbevis gir de samme yrkesmessige rettigheter på territoriet til den avtalestaten hvor kvalifikasjonsbeviset ble ervervet.
+Ved begrunnet tvil og der kvalifikasjonsbeviset omfatter utdanning helt eller delvis ved en institusjon som er lovlig etablert på territoriet til en annen EØS-stat eller Sveits, kan Helsedirektoratet undersøke om
+
+1. utdanningsforløpet ved institusjonen som gav utdanningen har vært formelt sertifisert av utdanningsmyndigheten i en EØS-stat eller i Sveits
+2. de utstedte kvalifikasjonsbevis samsvarer med de bevis som den aktuelle EØS-staten eller Sveits utsteder for tilsvarende utdanning
+3. kvalifikasjonsbevis gir de samme yrkesmessige rettigheter på territoriet til den avtalestaten hvor kvalifikasjonsbeviset ble ervervet.
 
 > Endret ved [forskrifter 28 juni 2013 nr. 864](forskrift/2013-06-28-864), [9 des 2019 nr. 1718](forskrift/2019-12-09-1718).
 
@@ -366,7 +452,13 @@ Ved midlertidig tjenesteyting etter [kapittel 4](forskrift/2008-10-08-1130/kap4)
 
 ### § 28. Varsling til andre land
 
-Dersom en yrkesutøver her i landet har fått begrenset retten til å utøve yrket, skal Statens helsetilsyn varsle ansvarlige myndigheter i alle øvrige EØS-stater. Varslingen skal inneholde informasjon omidentiteten til yrkesutøveren,hvilket yrke det gjelder,hvilken myndighet som har fattet vedtaket,omfanget av vedtaket, oghvilken periode vedtaket gjelder.
+Dersom en yrkesutøver her i landet har fått begrenset retten til å utøve yrket, skal Statens helsetilsyn varsle ansvarlige myndigheter i alle øvrige EØS-stater. Varslingen skal inneholde informasjon om
+
+1. identiteten til yrkesutøveren,
+2. hvilket yrke det gjelder,
+3. hvilken myndighet som har fattet vedtaket,
+4. omfanget av vedtaket, og
+5. hvilken periode vedtaket gjelder.
 
 Varslingen skal skje innen tre dager etter vedtaket eller dommen. Dersom begrensningen eller forbudet mot å utøve yrket opphører eller dersom vedtaket eller dommen er opphevet, skal ansvarlige myndigheter i alle øvrige EØS-stater underrettes om dette innen tre dager.
 
@@ -404,7 +496,22 @@ Forskriften trer i kraft 1. november 2008. Fra samme tid oppheves [forskrift 21.
 
 ## Vedlegg I – Kvalifikasjonsnivåer
 
-Yrkeskvalifikasjonene er ordnet i følgende nivåer:En kompetanseattest utstedt av kompetent myndighet i hjemstaten på grunnlag aventen et opplæringskurs som ikke utgjør noen del av en attest eller et diplom i betydningen til bokstav b, c, d eller e, eller en særskilt eksamen uten forutgående opplæring, eller utøvelse av yrket på heltid i en medlemsstat i tre sammenhengende år eller av tilsvarende varighet på deltid i løpet av de siste ti årene, ellergenerell utdanning fra grunnskole eller videregående skole, med dokumentasjon på at innehaveren har ervervet generell kunnskap.En attest som dokumenterer en bestått videregående opplæringenten av generell karakter, supplert av annet studium eller annen yrkesrettet utdanning enn den som er nevnt under bokstav c, eller av en praktisk eller faglig praksisperiode som krevdes i tillegg til nevnte studium, ellerav teknisk eller faglig karakter, eventuelt supplert av et studium eller en yrkesrettet utdanning som nevnt i nr. 1, eller av en praktisk eller faglig praksisperiode som krevdes i tillegg til nevnte studium.Et diplom som dokumenterer bestått fullføring aventen en annen utdanning ut over videregående opplæring enn det som er nevnt under bokstav d og e, av minst ett års varighet, eller av tilsvarende varighet på deltid, der et av opptaksvilkårene vanligvis er at søkeren har bestått en videregående opplæring som er nødvendig for å oppnå adgang til universitet eller høyere utdanning eller fullføring av tilsvarende skoleutdanning ut over videregående opplæring, samt den yrkesrettede utdanning som måtte kreves i tillegg til utdanning ut over videregående opplæring, ellernår det gjelder et lovregulert yrke, opplæring med en særlig struktur, inkludert i vedlegg II til direktiv [2005/36/EF](eu/32005l0036*), tilsvarende utdanningsnivået i nr. 1, som gir en sammenlignbar yrkesmessig standard og som forbereder utøveren til et sammenlignbart nivå med hensyn til ansvar og funksjoner.Et diplom som dokumenterer at innehaveren har bestått en utdanning ut over videregående opplæring av minst tre års og ikke mer enn fire års varighet, eller av tilsvarende varighet på deltid. Utdanningen må ha foregått ved et universitet, en høyere utdanningsinstitusjon eller en annen institusjon på tilsvarende opplæringsnivå. Søkeren må også ha bestått den yrkesrettede utdanningen som kreves i tillegg til utdanning ut over videregående opplæring.Et diplom som viser at innehaveren har bestått en utdanning ut over videregående opplæring av minst fire års varighet, eller av tilsvarende varighet på deltid. Utdanningen må ha foregått ved et universitet, en institusjon for høyere utdanning eller en annen institusjon på tilsvarende utdanningsnivå. Søkeren må hvor det er aktuelt ha bestått den yrkesrettede utdanningen som kreves i tillegg til utdanning ut over videregående opplæring.
+Yrkeskvalifikasjonene er ordnet i følgende nivåer:
+
+1. En kompetanseattest utstedt av kompetent myndighet i hjemstaten på grunnlag av
+
+   1. enten et opplæringskurs som ikke utgjør noen del av en attest eller et diplom i betydningen til bokstav b, c, d eller e, eller en særskilt eksamen uten forutgående opplæring, eller utøvelse av yrket på heltid i en medlemsstat i tre sammenhengende år eller av tilsvarende varighet på deltid i løpet av de siste ti årene, eller
+   2. generell utdanning fra grunnskole eller videregående skole, med dokumentasjon på at innehaveren har ervervet generell kunnskap.
+2. En attest som dokumenterer en bestått videregående opplæring
+
+   1. enten av generell karakter, supplert av annet studium eller annen yrkesrettet utdanning enn den som er nevnt under bokstav c, eller av en praktisk eller faglig praksisperiode som krevdes i tillegg til nevnte studium, eller
+   2. av teknisk eller faglig karakter, eventuelt supplert av et studium eller en yrkesrettet utdanning som nevnt i nr. 1, eller av en praktisk eller faglig praksisperiode som krevdes i tillegg til nevnte studium.
+3. Et diplom som dokumenterer bestått fullføring av
+
+   1. enten en annen utdanning ut over videregående opplæring enn det som er nevnt under bokstav d og e, av minst ett års varighet, eller av tilsvarende varighet på deltid, der et av opptaksvilkårene vanligvis er at søkeren har bestått en videregående opplæring som er nødvendig for å oppnå adgang til universitet eller høyere utdanning eller fullføring av tilsvarende skoleutdanning ut over videregående opplæring, samt den yrkesrettede utdanning som måtte kreves i tillegg til utdanning ut over videregående opplæring, eller
+   2. når det gjelder et lovregulert yrke, opplæring med en særlig struktur, inkludert i vedlegg II til direktiv [2005/36/EF](eu/32005l0036*), tilsvarende utdanningsnivået i nr. 1, som gir en sammenlignbar yrkesmessig standard og som forbereder utøveren til et sammenlignbart nivå med hensyn til ansvar og funksjoner.
+4. Et diplom som dokumenterer at innehaveren har bestått en utdanning ut over videregående opplæring av minst tre års og ikke mer enn fire års varighet, eller av tilsvarende varighet på deltid. Utdanningen må ha foregått ved et universitet, en høyere utdanningsinstitusjon eller en annen institusjon på tilsvarende opplæringsnivå. Søkeren må også ha bestått den yrkesrettede utdanningen som kreves i tillegg til utdanning ut over videregående opplæring.
+5. Et diplom som viser at innehaveren har bestått en utdanning ut over videregående opplæring av minst fire års varighet, eller av tilsvarende varighet på deltid. Utdanningen må ha foregått ved et universitet, en institusjon for høyere utdanning eller en annen institusjon på tilsvarende utdanningsnivå. Søkeren må hvor det er aktuelt ha bestått den yrkesrettede utdanningen som kreves i tillegg til utdanning ut over videregående opplæring.
 
 Alle kvalifikasjonsbevis eller sett av kvalifikasjonsbevis utstedt av kompetent myndighet i en EØS-stat, som bevitner bestått utdanning innenfor EØS og som er godkjent av vedkommende stat som å være på et tilsvarende nivå og som gir innehaveren de samme rettigheter med hensyn til adgang til eller utøvelse av et yrke eller forbereder kandidaten for utøvelse av vedkommende yrke, skal behandles som et kvalifikasjonsbevis av den type som omfattes av første ledd, inkludert det aktuelle nivået.
 
@@ -457,13 +564,25 @@ For å lese vedlegget se her: [pdf-fil](static/SF/sf-20081008-1130-01-12.pdf)
 
 ## Vedlegg III – ervervede rettigheter for søker med utdanning fra det tidligere Øst-Tyskland, det tidligere Tsjekkoslovakia, det tidligere Sovjetunionen og det tidligere Jugoslavia
 
-Kvalifikasjonsbevis som nevnt i nr. 1-4 er likestilt med bevis som nevnt i forskriften [§ 6](forskrift/2008-10-08-1130/§6) og [§ 9](forskrift/2008-10-08-1130/§9) og gir rett til autorisasjon, lisens eller spesialistgodkjenning dersomsøkeren legger frem en attest utstedt av kompetent myndighet som dokumenterer at søkeren faktisk og rettmessig har utøvd det aktuelle yrket på den aktuelle medlemsstatens territorium i minst tre sammenhengende år i løpet av de fem år før attesten ble utstedt, ogKompetent myndighet i de aktuelle landene må dokumentere at slike kvalifikasjonsbevis har samme rettslige gyldighet innenfor deres territorium som de kvalifikasjonsbevis de selv utsteder når det gjelder adgang til yrkesvirksomhet som nevnt i nr. 1 og som farmasøyt når det gjelder virksomheten nevnt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 45 nr. 2.
+Kvalifikasjonsbevis som nevnt i nr. 1-4 er likestilt med bevis som nevnt i forskriften [§ 6](forskrift/2008-10-08-1130/§6) og [§ 9](forskrift/2008-10-08-1130/§9) og gir rett til autorisasjon, lisens eller spesialistgodkjenning dersom
 
-1\. Kvalifikasjonsbevis som gir adgang til yrkesaktivitet som lege med grunnutdanning og med spesialistutdanning, som sykepleier med ansvar for alminnelig sykepleie, som tannlege, som tannlege med spesialistutdanning, som jordmor og som farmasøyt, ervervet på territoriet til det tidligere Øst-Tyskland, men som ikke oppfyller de krav til minsteutdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 24, 25, 31, 34, 35, 38, 40 og 44, dersom slike bevis dokumenterer bestått fullføring av opplæring som var påbegynt før3. oktober 1990 for leger med grunnutdanning, sykepleiere med ansvar for alminnelig sykepleie, tannleger, tannleger med spesialistutdanning, veterinærer, jordmødre og farmasøyter, og3. april 1992 for leger med spesialistutdanning.Kvalifikasjonsbevis som nevnt i første ledd gir søkeren rett til å utøve yrket på tysk territorium under de samme vilkår som kvalifikasjonsbevis utstedt av vedkommende tyske myndigheter som nevnt i forskriften vedlegg II nr. 5.1.1, 5.1.2, 5.2.2, 5.3.2, 5.3.3, 5.4.2, 5.5.2 og 5.6.2.
+1. søkeren legger frem en attest utstedt av kompetent myndighet som dokumenterer at søkeren faktisk og rettmessig har utøvd det aktuelle yrket på den aktuelle medlemsstatens territorium i minst tre sammenhengende år i løpet av de fem år før attesten ble utstedt, og
+2. Kompetent myndighet i de aktuelle landene må dokumentere at slike kvalifikasjonsbevis har samme rettslige gyldighet innenfor deres territorium som de kvalifikasjonsbevis de selv utsteder når det gjelder adgang til yrkesvirksomhet som nevnt i nr. 1 og som farmasøyt når det gjelder virksomheten nevnt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 45 nr. 2.
+
+1\. Kvalifikasjonsbevis som gir adgang til yrkesaktivitet som lege med grunnutdanning og med spesialistutdanning, som sykepleier med ansvar for alminnelig sykepleie, som tannlege, som tannlege med spesialistutdanning, som jordmor og som farmasøyt, ervervet på territoriet til det tidligere Øst-Tyskland, men som ikke oppfyller de krav til minsteutdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 24, 25, 31, 34, 35, 38, 40 og 44, dersom slike bevis dokumenterer bestått fullføring av opplæring som var påbegynt før
+
+1. 3\. oktober 1990 for leger med grunnutdanning, sykepleiere med ansvar for alminnelig sykepleie, tannleger, tannleger med spesialistutdanning, veterinærer, jordmødre og farmasøyter, og
+2. 3\. april 1992 for leger med spesialistutdanning.
+
+Kvalifikasjonsbevis som nevnt i første ledd gir søkeren rett til å utøve yrket på tysk territorium under de samme vilkår som kvalifikasjonsbevis utstedt av vedkommende tyske myndigheter som nevnt i forskriften vedlegg II nr. 5.1.1, 5.1.2, 5.2.2, 5.3.2, 5.3.3, 5.4.2, 5.5.2 og 5.6.2.
 
 2\. Kvalifikasjonsbevis som gir adgang til yrkesaktivitet som lege med grunnutdanning og med spesialistutdanning, som sykepleier med ansvar for alminnelig sykepleie, som farmasøyt og som jordmor, som innehas av borgere i medlemsstatene og som er utstedt av det tidligere Tsjekkoslovakia, eller for Den tsjekkiske republikk og Slovakia hvis opplæring var påbegynt før 1. januar 1993.
 
-3\. Bevis for yrkeskvalifikasjoner som gir adgang til yrkesaktivitet som nevnt i nr. 1 som innehas av borgere i medlemsstatene og er utstedt av det tidligere Sovjetunionen, eller hvis opplæring var påbegyntfor Estland, før 20. august 1991,for Latvia, før 21. august 1991,for Litauen, før 11. mars 1990.
+3\. Bevis for yrkeskvalifikasjoner som gir adgang til yrkesaktivitet som nevnt i nr. 1 som innehas av borgere i medlemsstatene og er utstedt av det tidligere Sovjetunionen, eller hvis opplæring var påbegynt
+
+1. for Estland, før 20. august 1991,
+2. for Latvia, før 21. august 1991,
+3. for Litauen, før 11. mars 1990.
 
 4\. Kvalifikasjonsbevis som gir adgang til yrkesaktivitet som nevnt i nr. 1, som innehas av borgere i medlemsstatene og er utstedt av det tidligere Jugoslavia, eller hvis utdanning når det gjelder Slovenia, var påbegynt før 25. juni 1991, eller når det gjelder Kroatia, utdanningen var påbegynt før 1. juli 2013.
 
@@ -473,13 +592,29 @@ Kvalifikasjonsbevis som nevnt i nr. 1-4 er likestilt med bevis som nevnt i forsk
 
 1\. For polske og rumenske sykepleiere med ansvar for alminnelig sykepleie, kommer bare følgende bestemmelser om ervervede rettigheter til anvendelse.
 
-2\. Helsedirektoratet skal godta kvalifikasjonsbevis som sykepleier med ansvar for alminnelig sykepleie som ikke oppfyller de minstekravene for utdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 31 dersom det er tildelt av, eller hvis opplæring startet i, Polen før 1. mai 2004. Kvalifikasjonsbeviset må ledsages av en attest som dokumenterer at søkeren faktisk og rettmessig har utøvd yrket som sykepleier med ansvar for alminnelig sykepleie i Polen i den perioden som er angitt nedenfor:kvalifikasjonsbevis som sykepleier på universitetsnivå (dyplom licencjata pielćgniarstwa) i minst tre sammenhengende år i løpet av de siste fem årene før attesten ble utstedt,kvalifikasjonsbevis som sykepleier som dokumenterer fullføring av utdanning ut over videregående nivå ved en medisinsk fagskole (dyplom pielęgniarki albo pielęgniarki dyplomowanej) i minst tre sammenhengende år i løpet av de siste fem årene før attesten ble utstedt.
+2\. Helsedirektoratet skal godta kvalifikasjonsbevis som sykepleier med ansvar for alminnelig sykepleie som ikke oppfyller de minstekravene for utdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 31 dersom det er tildelt av, eller hvis opplæring startet i, Polen før 1. mai 2004. Kvalifikasjonsbeviset må ledsages av en attest som dokumenterer at søkeren faktisk og rettmessig har utøvd yrket som sykepleier med ansvar for alminnelig sykepleie i Polen i den perioden som er angitt nedenfor:
 
-3\. Helsedirektoratet skal godta følgende kvalifikasjonsbevis for sykepleier med ansvar for alminnelig sykepleie med utdanning fra Romania som ikke oppfyller de minstekravene for utdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036) artikkel 31:Certificat de competențe profesionale de asistent medical generalist fra en høyere yrkesfaglig utdanning ved en școală postliceală dersom det er tildelt av, eller hvis opplæring startet i, Romania før 1. januar 2007.Diplomă de absolvire de asistent medical generalist fra en kortere høyere yrkesfaglig utdanning dersom det er tildelt av, eller hvis opplæring startet i, Romania før 1. oktober 2003.Diplomă de licență de asistent medical generalist fra en høyere utdanning dersom det er tildelt av, eller hvis opplæring startet før 1. oktober 2003.Kvalifikasjonsbeviset må ledsages av en attest som dokumenterer at søkeren faktisk og rettmessig har utøvd yrket som sykepleier med ansvar for alminnelig sykepleie i Romania i minst tre sammenhengende år i de siste fem årene før attesten ble utstedt.
+1. kvalifikasjonsbevis som sykepleier på universitetsnivå (dyplom licencjata pielćgniarstwa) i minst tre sammenhengende år i løpet av de siste fem årene før attesten ble utstedt,
+2. kvalifikasjonsbevis som sykepleier som dokumenterer fullføring av utdanning ut over videregående nivå ved en medisinsk fagskole (dyplom pielęgniarki albo pielęgniarki dyplomowanej) i minst tre sammenhengende år i løpet av de siste fem årene før attesten ble utstedt.
+
+3\. Helsedirektoratet skal godta følgende kvalifikasjonsbevis for sykepleier med ansvar for alminnelig sykepleie med utdanning fra Romania som ikke oppfyller de minstekravene for utdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036) artikkel 31:
+
+1. Certificat de competențe profesionale de asistent medical generalist fra en høyere yrkesfaglig utdanning ved en școală postliceală dersom det er tildelt av, eller hvis opplæring startet i, Romania før 1. januar 2007.
+2. Diplomă de absolvire de asistent medical generalist fra en kortere høyere yrkesfaglig utdanning dersom det er tildelt av, eller hvis opplæring startet i, Romania før 1. oktober 2003.
+3. Diplomă de licență de asistent medical generalist fra en høyere utdanning dersom det er tildelt av, eller hvis opplæring startet før 1. oktober 2003.
+
+Kvalifikasjonsbeviset må ledsages av en attest som dokumenterer at søkeren faktisk og rettmessig har utøvd yrket som sykepleier med ansvar for alminnelig sykepleie i Romania i minst tre sammenhengende år i de siste fem årene før attesten ble utstedt.
 
 4\. Virksomhet som nevnt i punktene 1–3 må ha omfattet fullt ansvar for planlegging, organisering og utføring av omsorg for pasienten.
 
-5\. Helsedirektoratet skal også godta følgende kvalifikasjonsbevis for sykepleier med ansvar for alminnelig sykepleie med utdanning fra Romania som ikke oppfyller de minstekravene for utdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036) artikkel 31:Kvalifikasjonsbevis som nevnt i punkt 3 bokstav b eller c, forutsatt at det er ledsaget av følgende kvalifikasjonsbevis som er utstedt etter fullføring av et særlig etterutdanningsprogram:Diplomă de licență, som omhandlet i § 3 punkt 2 i den rumenske undervisningsministerens og helseministerens felles bekjentgjørelse nr. 4317/943/2014 av 11. august 2014 om godkjenning av det særlige etterutdanningsprogrammet for personer med en høyere yrkesfaglig utdanning til supplering av grunnutdanningen som sykepleier med ansvar for alminnelig sykepleie, dersom grunnutdanningen er ervervet før 1. januar 2007 (Romanias statsblad nr. 624 av 6. august 2014), ledsaget av et tillegg til eksamensbeviset som viser at studenten har fullført det særlige etterutdanningsprogrammet.Kvalifikasjonsbevis på høyere nivå som er nevnt i § 4 i den rumenske undervisningsministerens bekjentgjørelse nr. 5114/2014 om godkjenning av metodene for tilrettelegging, gjennomføring og fullføring av det særlige etterutdanningsprogrammet for personer med høyere yrkesfaglig utdanning til supplering av grunnutdanning som sykepleier med ansvar for alminnelig sykepleie, dersom grunnutdanningen er ervervet før 1. januar 2007 (Romanias statsblad nr. 5 av 6. januar 2015), forutsatt at kvalifikasjonsbeviset er ledsaget av følgende kvalifikasjonsbevis som er utstedt etter fullføring av et særlig etterutdanningsprogram:Certificatul de revalorizare a competențelor profesionale, som omhandlet i § 3 punkt 1 og i vedlegg 3 i den rumenske undervisningsministerens og helseministerens felles bekjentgjørelse nr. 4317/943/2014 av 11. august 2014 og i § 16 i den rumenske undervisningsministerens bekjentgjørelse nr. 5114/2014.
+5\. Helsedirektoratet skal også godta følgende kvalifikasjonsbevis for sykepleier med ansvar for alminnelig sykepleie med utdanning fra Romania som ikke oppfyller de minstekravene for utdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036) artikkel 31:
+
+1. Kvalifikasjonsbevis som nevnt i punkt 3 bokstav b eller c, forutsatt at det er ledsaget av følgende kvalifikasjonsbevis som er utstedt etter fullføring av et særlig etterutdanningsprogram:
+
+   - Diplomă de licență, som omhandlet i § 3 punkt 2 i den rumenske undervisningsministerens og helseministerens felles bekjentgjørelse nr. 4317/943/2014 av 11. august 2014 om godkjenning av det særlige etterutdanningsprogrammet for personer med en høyere yrkesfaglig utdanning til supplering av grunnutdanningen som sykepleier med ansvar for alminnelig sykepleie, dersom grunnutdanningen er ervervet før 1. januar 2007 (Romanias statsblad nr. 624 av 6. august 2014), ledsaget av et tillegg til eksamensbeviset som viser at studenten har fullført det særlige etterutdanningsprogrammet.
+2. Kvalifikasjonsbevis på høyere nivå som er nevnt i § 4 i den rumenske undervisningsministerens bekjentgjørelse nr. 5114/2014 om godkjenning av metodene for tilrettelegging, gjennomføring og fullføring av det særlige etterutdanningsprogrammet for personer med høyere yrkesfaglig utdanning til supplering av grunnutdanning som sykepleier med ansvar for alminnelig sykepleie, dersom grunnutdanningen er ervervet før 1. januar 2007 (Romanias statsblad nr. 5 av 6. januar 2015), forutsatt at kvalifikasjonsbeviset er ledsaget av følgende kvalifikasjonsbevis som er utstedt etter fullføring av et særlig etterutdanningsprogram:
+
+   - Certificatul de revalorizare a competențelor profesionale, som omhandlet i § 3 punkt 1 og i vedlegg 3 i den rumenske undervisningsministerens og helseministerens felles bekjentgjørelse nr. 4317/943/2014 av 11. august 2014 og i § 16 i den rumenske undervisningsministerens bekjentgjørelse nr. 5114/2014.
 
 6\. Helsedirektoratet skal godkjenne kvalifikasjonsbevis i sykepleie tildelt i Polen, til sykepleiere som fullførte sin utdanning før 1. mai 2004, men som ikke var i overensstemmelse med minstekravene for utdanning som fastsatt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 31. Søker må legge frem et «bachelor»-diplom som er oppnådd på grunnlag av et særlig kompletteringsprogram i henhold til artikkel 11 i polsk lov av 20. april 2004 vedrørende endring i lov om yrkene sykepleier og jordmor og om andre rettsakter, og den polske helseministerens forordning av 11. mai 2004 vedrørende nærmere vilkår for å tilby studier for sykepleiere og jordmødre som innehar et eksamensbevis fra videregående skole (avsluttende eksamen – «matura») og som har bestått eksamen ved et medisinsk gymnas og medisinske fagskoler som underviser i sykepleier- og jordmoryrket, med det mål å verifisere at den aktuelle personen har et nivå med hensyn til kunnskap og kompetanse som er sammenlignbart med nivået for sykepleiere som innehar de kvalifikasjoner som, når det gjelder Polen, er definert i forskriften vedlegg II nr. 5.2.2.
 
@@ -487,21 +622,49 @@ Kvalifikasjonsbevis som nevnt i nr. 1-4 er likestilt med bevis som nevnt i forsk
 
 ## Vedlegg V – særlig ervervede rettigheter for tannleger
 
-1\. For utøvelse av yrke som tannlege i henhold til kvalifikasjonene i forskriften vedlegg II nr. 5.3.2, skal Helsedirektoratet godkjenne kvalifikasjonsbevis utstedt i Italia, Spania, Østerrike, Den tsjekkiske republikk, Romania og Slovakia til personer som begynte sin medisinske opplæring senest på den referansedato som er fastsatt i nevnte vedlegg for vedkommende medlemsstater, ledsaget av en attest utstedt av kompetent myndighet i denne medlemsstaten.Attesten må vise at de to følgende vilkårene er oppfylt:Søkeren har faktisk, rettmessig og som hovedbeskjeftigelse i den aktuelle medlemsstat utøvd den virksomhet som er nevnt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 36 i minst tre sammenhengende år i løpet av de siste fem år forut for utstedelsen av attesten.Søkeren er autorisert til å utøve den nevnte virksomhet i henhold til de samme vilkår som innehavere av kvalifikasjonsbevis for den aktuelle medlemsstat som vist i forskriften vedlegg II nr. 5.3.2.Personer som har bestått minst tre års studier, dokumentert av kompetent myndighet i vedkommende medlemsstat som å tilsvare utdanningen nevnt i direktivet artikkel 34, skal være unntatt fra kravet til tre års praktisk yrkeserfaring som nevnt i annet ledd bokstav a).Når det gjelder Den tsjekkiske republikk og Slovakia, skal kvalifikasjonsbevis ervervet i det tidligere Tsjekkoslovakia gis samme grad av godkjenning som tsjekkiske og slovakiske kvalifikasjonsbevis og i henhold til de samme vilkår som i forrige ledd.
+1\. For utøvelse av yrke som tannlege i henhold til kvalifikasjonene i forskriften vedlegg II nr. 5.3.2, skal Helsedirektoratet godkjenne kvalifikasjonsbevis utstedt i Italia, Spania, Østerrike, Den tsjekkiske republikk, Romania og Slovakia til personer som begynte sin medisinske opplæring senest på den referansedato som er fastsatt i nevnte vedlegg for vedkommende medlemsstater, ledsaget av en attest utstedt av kompetent myndighet i denne medlemsstaten.
 
-2\. Helsedirektoratet skal godkjenne kvalifikasjonsbevis som er utstedt i Italia til søker som påbegynte sin universitetsutdanning i medisin mellom 28. januar 1980 og 31. desember 1984, ledsaget av en attest utstedt av vedkommende italienske myndigheter.Attesten må vise at de tre følgende vilkårene er oppfylt:Søker skal ha bestått den relevante egnethetsprøven som avholdes av kompetent italiensk myndighet for å slå fast at de aktuelle personene har et kunnskaps- og ferdighetsnivå som tilsvarer nivået for innehavere av de kvalifikasjonsbevis som er oppført for Italia i forskriften vedlegg II nr. 5.3.2.Søker har faktisk, rettmessig og som hovedbeskjeftigelse i Italia utøvd virksomhet som nevnt i direktivet artikkel 36 i minst tre sammenhengende år i løpet av de siste fem år før attesten ble utstedt.Søker har tillatelse til å utøve, eller faktisk, rettmessig og som hovedbeskjeftigelse utøver, den virksomhet som er nevnt i direktivet artikkel 36, på samme vilkår som innehavere av de kvalifikasjonsbevis som er oppført for Italia i forskriften vedlegg II nr. 5.3.2.Søker som har bestått minst tre års studier, dokumentert av kompetent myndigheter som å tilsvare utdanningen nevnt i direktivet artikkel 34, skal være unntatt fra kravet om en egnethetsprøve som nevnt i andre ledd bokstav a).Søker som påbegynte sin medisinske universitetsutdanning etter 31. desember 1984, skal behandles på samme måte som personene omhandlet foran, forutsatt at de forannevnte tre års studier var påbegynt før 31. desember 1994.
+Attesten må vise at de to følgende vilkårene er oppfylt:
+
+1. Søkeren har faktisk, rettmessig og som hovedbeskjeftigelse i den aktuelle medlemsstat utøvd den virksomhet som er nevnt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 36 i minst tre sammenhengende år i løpet av de siste fem år forut for utstedelsen av attesten.
+2. Søkeren er autorisert til å utøve den nevnte virksomhet i henhold til de samme vilkår som innehavere av kvalifikasjonsbevis for den aktuelle medlemsstat som vist i forskriften vedlegg II nr. 5.3.2.
+
+Personer som har bestått minst tre års studier, dokumentert av kompetent myndighet i vedkommende medlemsstat som å tilsvare utdanningen nevnt i direktivet artikkel 34, skal være unntatt fra kravet til tre års praktisk yrkeserfaring som nevnt i annet ledd bokstav a).
+
+Når det gjelder Den tsjekkiske republikk og Slovakia, skal kvalifikasjonsbevis ervervet i det tidligere Tsjekkoslovakia gis samme grad av godkjenning som tsjekkiske og slovakiske kvalifikasjonsbevis og i henhold til de samme vilkår som i forrige ledd.
+
+2\. Helsedirektoratet skal godkjenne kvalifikasjonsbevis som er utstedt i Italia til søker som påbegynte sin universitetsutdanning i medisin mellom 28. januar 1980 og 31. desember 1984, ledsaget av en attest utstedt av vedkommende italienske myndigheter.
+
+Attesten må vise at de tre følgende vilkårene er oppfylt:
+
+1. Søker skal ha bestått den relevante egnethetsprøven som avholdes av kompetent italiensk myndighet for å slå fast at de aktuelle personene har et kunnskaps- og ferdighetsnivå som tilsvarer nivået for innehavere av de kvalifikasjonsbevis som er oppført for Italia i forskriften vedlegg II nr. 5.3.2.
+2. Søker har faktisk, rettmessig og som hovedbeskjeftigelse i Italia utøvd virksomhet som nevnt i direktivet artikkel 36 i minst tre sammenhengende år i løpet av de siste fem år før attesten ble utstedt.
+3. Søker har tillatelse til å utøve, eller faktisk, rettmessig og som hovedbeskjeftigelse utøver, den virksomhet som er nevnt i direktivet artikkel 36, på samme vilkår som innehavere av de kvalifikasjonsbevis som er oppført for Italia i forskriften vedlegg II nr. 5.3.2.
+
+Søker som har bestått minst tre års studier, dokumentert av kompetent myndigheter som å tilsvare utdanningen nevnt i direktivet artikkel 34, skal være unntatt fra kravet om en egnethetsprøve som nevnt i andre ledd bokstav a).
+
+Søker som påbegynte sin medisinske universitetsutdanning etter 31. desember 1984, skal behandles på samme måte som personene omhandlet foran, forutsatt at de forannevnte tre års studier var påbegynt før 31. desember 1994.
 
 ## Vedlegg VI – særlig ervervede rettigheter for jordmødre
 
-1\. Helsedirektoratet skal godkjenne kvalifikasjonsbevis som jordmor utstedt tidligere enn referansedatoen nevnt i forskriften vedlegg II nr. 5.5.2, som oppfyller alle de minstekrav for utdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 40, men som i henhold til artikkel 41 ikke blir godkjent med mindre det ledsages av en attest om yrkespraksis som nevnt i artikkel 41 nr. 2.Kvalifikasjonsbeviset skal ledsages av en attest som slår fast at søkeren har utøvd yrket faktisk og rettmessig i minst to sammenhengende år i løpet av de siste fem årene før attesten ble utstedt.
+1\. Helsedirektoratet skal godkjenne kvalifikasjonsbevis som jordmor utstedt tidligere enn referansedatoen nevnt i forskriften vedlegg II nr. 5.5.2, som oppfyller alle de minstekrav for utdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 40, men som i henhold til artikkel 41 ikke blir godkjent med mindre det ledsages av en attest om yrkespraksis som nevnt i artikkel 41 nr. 2.
+
+Kvalifikasjonsbeviset skal ledsages av en attest som slår fast at søkeren har utøvd yrket faktisk og rettmessig i minst to sammenhengende år i løpet av de siste fem årene før attesten ble utstedt.
 
 2\. Vilkårene i nr. 1 kommer til anvendelse på søkere med kvalifikasjonsbevis som jordmødre som dokumenterer fullført utdanning på territoriet til det tidligere Øst-Tyskland og som oppfyller alle krav til minimumsutdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 40, men der kvalifikasjonsbeviset i henhold til forskriften vedlegg III ikke blir godkjent med mindre det ledsages av den attesten om yrkeserfaring som er nevnt i vedlegg II nr. 2, der det dokumenteres et utdanningsforløp som begynte før 3. oktober 1990.
 
-3\. For polske jordmødre, kommer bare følgende bestemmelser om ervervede rettigheter til anvendelse.Helsedirektoratet skal godkjenne følgende kvalifikasjonsbevis som jordmor utstedt av, eller hvis opplæring startet i, Polen før 1. mai 2004 og som ikke oppfyller de krav til minimumsutdanning som er fastsatt i artikkel 40 dersom det ledsages av en attest som dokumenterer at søker har utøvd yrket faktisk og rettmessig i angitt periode:kvalifikasjonsbevis som jordmor på universitetsnivå (dyplom licencjata położnictwa): minst tre sammenhengende år i løpet av de siste fem årene før attesten ble utstedt,kvalifikasjonsbevis som jordmor som dokumenterer fullføring av utdanning ut over videregående opplæring ved en medisinsk fagskole (dyplom położnej): minst tre sammenhengende år i løpet av de siste fem årene før attesten ble utstedt.
+3\. For polske jordmødre, kommer bare følgende bestemmelser om ervervede rettigheter til anvendelse.
+
+Helsedirektoratet skal godkjenne følgende kvalifikasjonsbevis som jordmor utstedt av, eller hvis opplæring startet i, Polen før 1. mai 2004 og som ikke oppfyller de krav til minimumsutdanning som er fastsatt i artikkel 40 dersom det ledsages av en attest som dokumenterer at søker har utøvd yrket faktisk og rettmessig i angitt periode:
+
+1. kvalifikasjonsbevis som jordmor på universitetsnivå (dyplom licencjata położnictwa): minst tre sammenhengende år i løpet av de siste fem årene før attesten ble utstedt,
+2. kvalifikasjonsbevis som jordmor som dokumenterer fullføring av utdanning ut over videregående opplæring ved en medisinsk fagskole (dyplom położnej): minst tre sammenhengende år i løpet av de siste fem årene før attesten ble utstedt.
 
 4\. Medlemsstatene skal godkjenne kvalifikasjonsbevis som jordmor tildelt i Polen, til jordmødre som fullførte sin utdanning før 1. mai 2004, som ikke var i overensstemmelse med kravene til minimumsutdanning fastsatt i artikkel 40. Søker skal fremlegge et «bachelor»-diplom som er ervervet på grunnlag av et spesielt kompletteringsprogram i henhold til artikkel 11 i polsk lov av 20. april 2004 vedrørende endring i lov om yrkene sykepleier og jordmor og om andre rettsakter, og den polske helseministerens forordning av 11. mai 2004 vedrørende nærmere vilkår for å tilby studier for sykepleiere og jordmødre som innehar et sertifikat fra videregående skole (avsluttende eksamen – «matura») og som har bestått eksamen ved medisinsk gymnas og medisinske fagskoler som underviser i sykepleier- og jordmoryrket, med det mål å verifisere at den vedkommende person har et nivå med hensyn til kunnskap og kompetanse som er sammenlignbart med nivået for jordmødre som innehar de kvalifikasjoner som, når det gjelder Polen, er definert i forskriften vedlegg II nr. 5.5.2.
 
-5\. For rumenske jordmødre, kommer bare følgende bestemmelser om ervervede rettigheter til anvendelse.Helsedirektoratet skal godkjenne kvalifikasjonsbevis som jordmor (asistent medical obstetricăginecologie) utstedt av Romania før 1. januar 2007 og som ikke oppfyller de krav til minimumsutdanning som er fastsatt i artikkel 40 dersom det ledsages av en attest som dokumenterer at søker har utøvd yrket faktisk og rettmessig i Romania minst fem sammenhengende år i løpet av de siste syv årene før attesten ble utstedt.
+5\. For rumenske jordmødre, kommer bare følgende bestemmelser om ervervede rettigheter til anvendelse.
+
+Helsedirektoratet skal godkjenne kvalifikasjonsbevis som jordmor (asistent medical obstetricăginecologie) utstedt av Romania før 1. januar 2007 og som ikke oppfyller de krav til minimumsutdanning som er fastsatt i artikkel 40 dersom det ledsages av en attest som dokumenterer at søker har utøvd yrket faktisk og rettmessig i Romania minst fem sammenhengende år i løpet av de siste syv årene før attesten ble utstedt.
 
 > Endret ved forskrift [19 april 2022 nr. 593](forskrift/2022-04-19-593).
 

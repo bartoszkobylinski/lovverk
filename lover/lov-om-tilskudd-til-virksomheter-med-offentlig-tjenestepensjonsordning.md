@@ -15,7 +15,7 @@ xml_hash: "c9fb36ee888f68775a55e44aab2c655a4f07f9254d93c19a8492a75039f8eab0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,10 @@ Søknader om tilskudd avgjøres av departementet.
 
 Det skal ytes årlige tilskudd beregnet på grunnlag av virksomhetens årlige pensjonspremie, begrenset til premie for pensjonsrettigheter som medlemmer av pensjonsordningen har opptjent før 1. januar 2019. Tilskuddet omfatter ikke premie som er knyttet til annen virksomhet enn levering av tjenester som nevnt i [§ 2](lov/2019-03-01-3/§2).
 
-I tilskuddet skal det gjøres fradrag forvirksomhetens avkastning på premiereserve og bufferfond forvaltet av tjenestepensjonsleverandør for den andel som tilskuddsordningen dekker, fratrukket administrative kostnaderkompensasjon som allerede er gitt eller er forutsatt dekket etter avtale.
+I tilskuddet skal det gjøres fradrag for
+
+1. virksomhetens avkastning på premiereserve og bufferfond forvaltet av tjenestepensjonsleverandør for den andel som tilskuddsordningen dekker, fratrukket administrative kostnader
+2. kompensasjon som allerede er gitt eller er forutsatt dekket etter avtale.
 
 > Endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 

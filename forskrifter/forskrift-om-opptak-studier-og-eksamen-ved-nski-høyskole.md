@@ -15,7 +15,7 @@ xml_hash: "9fa2da9b1e536b3654d00bdeb95c965ccf4f5b6df10a6915a64bd0a5de0db506"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -192,7 +192,11 @@ NSKI Høyskole kan tildele bachelorgrader i samsvar med [forskrift 16. desember 
 
 (1) Graden bachelor tildeles for 3-årige utdanninger av 180 studiepoeng.
 
-(2) NSKI Høyskole har rett til å tildele følgende grader:Bachelor i skuespillerfagBachelor i regiBachelor i manus – scenetekst og tv-drama.
+(2) NSKI Høyskole har rett til å tildele følgende grader:
+
+1. Bachelor i skuespillerfag
+2. Bachelor i regi
+3. Bachelor i manus – scenetekst og tv-drama.
 
 (3) For å få en bachelorgrad utstedt fra NSKI Høyskole er det et vilkår at minst 60 nye studiepoeng er avlagt ved NSKI Høyskole.
 
@@ -272,13 +276,22 @@ NSKI Høyskole kan tildele bachelorgrader i samsvar med [forskrift 16. desember 
 
 ### § 6-2. Oppsigelse og opphør av studieplass
 
-(1) Studieretten opphører når:studenten har fått utstedt vitnemål eller karakterutskrift etter å ha fullført studiet studenten er tatt opp til,studenten melder fra at han/hun ønsker å avslutte studiet i henhold til gjeldende frister som fremkommer av studiekontrakten.studenten er vurdert som sluttet iht. [§ 1-6](forskrift/2017-06-27-1229/§1-6) (3).
+(1) Studieretten opphører når:
+
+1. studenten har fått utstedt vitnemål eller karakterutskrift etter å ha fullført studiet studenten er tatt opp til,
+2. studenten melder fra at han/hun ønsker å avslutte studiet i henhold til gjeldende frister som fremkommer av studiekontrakten.
+3. studenten er vurdert som sluttet iht. [§ 1-6](forskrift/2017-06-27-1229/§1-6) (3).
 
 (2) Oppsigelse av studieplass gjøres i henhold til de frister som fremgår av studiekontrakten. Oppsigelse skal skje skriftlig.
 
 ### § 6-3. Heving av studiekontrakt/tap av studierett
 
-(1) Studenten kan tape studieretten når studenten:ikke betaler semesteravgiften eller andre pålagte avgifterikke oppfyller øvrige forpliktelser som fremgår av studiekontraktenhar brukt opp sine forsøk til eksamen, eller avsluttende vurdering i et fag/en emnegruppe som ifølge studieplanen er obligatorisk.tross skriftlig advarsel gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid eller for virksomheten ved institusjonen ellers, jf. [lov om universiteter og høyskoler § 4-8](lov/2005-04-01-15/§4-8).
+(1) Studenten kan tape studieretten når studenten:
+
+1. ikke betaler semesteravgiften eller andre pålagte avgifter
+2. ikke oppfyller øvrige forpliktelser som fremgår av studiekontrakten
+3. har brukt opp sine forsøk til eksamen, eller avsluttende vurdering i et fag/en emnegruppe som ifølge studieplanen er obligatorisk.
+4. tross skriftlig advarsel gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid eller for virksomheten ved institusjonen ellers, jf. [lov om universiteter og høyskoler § 4-8](lov/2005-04-01-15/§4-8).
 
 (2) Studenten skal varsles og ha anledning til å uttale seg innen gitt frist før vedtak om tap av studierett fattes. Vedtak kan påklages til NSKI Høyskoles klagenemnd.
 
@@ -386,7 +399,9 @@ NSKI Høyskole kan tildele bachelorgrader i samsvar med [forskrift 16. desember 
 
 (1) Annullering av eksamen behandles etter § 4-7 i [lov om Universiteter og høyskoler.](lov/2005-04-01-15/§4-7)
 
-(2) Institusjonens klagenemnd, jf. § 5-1 i [lov om universiteter og høyskoler, kan annullere](lov/2005-04-01-15/§5-1) eksamen eller prøve, eller godkjenning av kurs, hvis kandidaten:«ved hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å gå opp til vedkommende eksamen eller prøve, eller til å delta i vedkommende kurs, eller har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende kurs».
+(2) Institusjonens klagenemnd, jf. § 5-1 i [lov om universiteter og høyskoler, kan annullere](lov/2005-04-01-15/§5-1) eksamen eller prøve, eller godkjenning av kurs, hvis kandidaten:
+
+- «ved hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å gå opp til vedkommende eksamen eller prøve, eller til å delta i vedkommende kurs, eller har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende kurs».
 
 (3) Institusjonens klagenemnd kan annullere godskriving eller godkjenning av utdanningen, eller fritak fra eksamen/prøve/avsluttende vurdering hvis kandidaten har oppnådd dette ved hjelp av falskt vitnemål eller annen form for uredelig opptreden.
 
@@ -421,7 +436,11 @@ NSKI Høyskole kan tildele bachelorgrader i samsvar med [forskrift 16. desember 
 
 (1) Sensur behandles etter § 3-9 i [lov om universiteter og høyskoler.](lov/2005-04-01-15/§3-9)
 
-(2) For å sikre at studentene blir vurdert på en upartisk og faglig betryggende måte, benyttes to sensorer, hvorav minst én ekstern. Eksterne sensorer skal ikke være ansatt ved institusjonen eller være knyttet til institusjonen som timelærer, og skal minimum ha en av følgende kvalifikasjoner:Ha dokumentert faglig kompetanse på høyskole-/universitetsnivå, eller på en annen måte kunne dokumentere tilsvarende faglig kompetanseVære ansatt som høgskolelektor eller høyere nivå ved universitet/høyskole innen vedkommende fagHa erfaring som sensor i vedkommende fag ved universitet/høyskole eller som jurymedlem.
+(2) For å sikre at studentene blir vurdert på en upartisk og faglig betryggende måte, benyttes to sensorer, hvorav minst én ekstern. Eksterne sensorer skal ikke være ansatt ved institusjonen eller være knyttet til institusjonen som timelærer, og skal minimum ha en av følgende kvalifikasjoner:
+
+- Ha dokumentert faglig kompetanse på høyskole-/universitetsnivå, eller på en annen måte kunne dokumentere tilsvarende faglig kompetanse
+- Være ansatt som høgskolelektor eller høyere nivå ved universitet/høyskole innen vedkommende fag
+- Ha erfaring som sensor i vedkommende fag ved universitet/høyskole eller som jurymedlem.
 
 (3) Dersom det foreligger uenighet eller usikkerhet mellom sensorene i forhold til karaktersettingen, er det de eksterne sensorene som har det avgjørende ordet.
 
@@ -465,7 +484,15 @@ NSKI Høyskole kan tildele bachelorgrader i samsvar med [forskrift 16. desember 
 
 (3) Hvis deler av utdanningen er gitt i samarbeid med andre institusjoner skal dette fremgå av vitnemålet.
 
-(4) Vitnemål og karakterutskrift skal ha følgende opplysninger:Fullt navn og fødsels- og personnummergrad eller yrkesutdanningtidspunkt for fullført utdanningnavn, studiepoeng og karakter for fag/emner som inngårtidspunkt for avlagt eksamengrunnlaget for eventuelle fritak for fag/emnegrupperhvilket karaktersystem som er benyttet.
+(4) Vitnemål og karakterutskrift skal ha følgende opplysninger:
+
+1. Fullt navn og fødsels- og personnummer
+2. grad eller yrkesutdanning
+3. tidspunkt for fullført utdanning
+4. navn, studiepoeng og karakter for fag/emner som inngår
+5. tidspunkt for avlagt eksamen
+6. grunnlaget for eventuelle fritak for fag/emnegrupper
+7. hvilket karaktersystem som er benyttet.
 
 (5) Dersom en student har fått fritak for fag/emnegrupper skal dette fremgå av vitnemålet.
 

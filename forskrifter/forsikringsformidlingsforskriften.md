@@ -28,7 +28,14 @@ eu_basis: []
 
 Forsikringsforetakets bekreftelse etter [forsikringsformidlingsloven § 3-3](lov/2021-12-22-163/§3-3) første ledd annet punktum skal gis skriftlig og på den måten Finanstilsynet bestemmer.
 
-Bekreftelsen skal angiat vilkårene for registrering i [forsikringsformidlingsloven § 3-4](lov/2021-12-22-163/§3-4) første ledd bokstav a til e er oppfylt og dokumentertat dokumentasjon etter [forsikringsformidlingsloven § 6-5](lov/2021-12-22-163/§6-5) annet ledd ikke er eldre enn tre månederrolle og navn på personene i foretaket som oppfyller kravene til egnethet i [forsikringsformidlingsloven kapittel 6](lov/2021-12-22-163/kap6)forsikringsproduktene som er omfattet av formidlingsavtalenhvilke forsikringsklasser formidlingen gjelderopplysninger om ansvarlig for vurdering av egnethetskrav i forsikringsforetaket.
+Bekreftelsen skal angi
+
+1. at vilkårene for registrering i [forsikringsformidlingsloven § 3-4](lov/2021-12-22-163/§3-4) første ledd bokstav a til e er oppfylt og dokumentert
+2. at dokumentasjon etter [forsikringsformidlingsloven § 6-5](lov/2021-12-22-163/§6-5) annet ledd ikke er eldre enn tre måneder
+3. rolle og navn på personene i foretaket som oppfyller kravene til egnethet i [forsikringsformidlingsloven kapittel 6](lov/2021-12-22-163/kap6)
+4. forsikringsproduktene som er omfattet av formidlingsavtalen
+5. hvilke forsikringsklasser formidlingen gjelder
+6. opplysninger om ansvarlig for vurdering av egnethetskrav i forsikringsforetaket.
 
 Bekreftelsen skal inneholde en beskrivelse av hvordan forsikringsagentene oppfyller kvalifikasjonskravene som følger av [§ 6-3 i forsikringsformidlingsloven](lov/2021-12-22-163/§6-3) og [§ 2-2](lov/2021-12-22-163/§2-2) i denne forskrift, eller [forsikringsformidlingsloven § 6-4](lov/2021-12-22-163/§6-4) annet ledd.
 
@@ -44,19 +51,36 @@ Ved opphør av avtale om forsikringsformidling skal forsikringsforetaket straks 
 
 ### § 2-1. Kvalifikasjonskrav for forsikringsmegler
 
-I vurderingen av kvalifikasjonskravene etter [forsikringsformidlingsloven § 6-2](lov/2021-12-22-163/§6-2) første ledd skal forsikringsmegleren minst godtgjøre at kunnskapskravene som følger av denne forskrift [§ 2-3](forskrift/2021-12-22-3872/§2-3) er oppfylt. I tillegg skal forsikringsmegleren oppfylle minst ett av følgende vilkår:Forsikringsmegleren har en tilfredsstillende utdannelse og tre års praksis fra forsikring som er relevant for forsikringsmeglingsforetakets virksomhet.Forsikringsmegleren har relevant praksis fra fem sammenhengende år i et forsikringsformidlingsforetak eller et forsikringsforetak.Forsikringsmegleren er autorisert forsikringsmegler i medhold av bestemmelser om autorisasjon fra bransjeorganisasjon eller utdannelsesinstitusjon, godkjent av Finanstilsynet.
+I vurderingen av kvalifikasjonskravene etter [forsikringsformidlingsloven § 6-2](lov/2021-12-22-163/§6-2) første ledd skal forsikringsmegleren minst godtgjøre at kunnskapskravene som følger av denne forskrift [§ 2-3](forskrift/2021-12-22-3872/§2-3) er oppfylt. I tillegg skal forsikringsmegleren oppfylle minst ett av følgende vilkår:
+
+1. Forsikringsmegleren har en tilfredsstillende utdannelse og tre års praksis fra forsikring som er relevant for forsikringsmeglingsforetakets virksomhet.
+2. Forsikringsmegleren har relevant praksis fra fem sammenhengende år i et forsikringsformidlingsforetak eller et forsikringsforetak.
+3. Forsikringsmegleren er autorisert forsikringsmegler i medhold av bestemmelser om autorisasjon fra bransjeorganisasjon eller utdannelsesinstitusjon, godkjent av Finanstilsynet.
 
 Opparbeidet praksis i henhold til første ledd må ikke være avsluttet mer enn fem år før tiltredelse av stillingen.
 
 ### § 2-2. Kvalifikasjonskrav for forsikringsagent
 
-I vurderingen av kvalifikasjonskravene etter [forsikringsformidlingsloven § 6-3](lov/2021-12-22-163/§6-3) første ledd skal forsikringsagenten minst godtgjøre at kunnskapskravene som følger av denne forskrift [§ 2-3](forskrift/2021-12-22-3872/§2-3) er oppfylt. I tillegg skal forsikringsagenten oppfylle minst ett av følgende vilkår:Forsikringsagenten har en tilfredsstillende utdannelse og ett års praksis fra forsikring som er relevant for agentforetakets virksomhet.Forsikringsagenten har relevant praksis fra tre sammenhengende år i et forsikringsformidlingsforetak eller et forsikringsforetak.Forsikringsagenten er autorisert forsikringsrådgiver i medhold av bestemmelser om autorisasjon fra bransjeorganisasjon eller utdannelsesinstitusjon, godkjent av Finanstilsynet.
+I vurderingen av kvalifikasjonskravene etter [forsikringsformidlingsloven § 6-3](lov/2021-12-22-163/§6-3) første ledd skal forsikringsagenten minst godtgjøre at kunnskapskravene som følger av denne forskrift [§ 2-3](forskrift/2021-12-22-3872/§2-3) er oppfylt. I tillegg skal forsikringsagenten oppfylle minst ett av følgende vilkår:
+
+1. Forsikringsagenten har en tilfredsstillende utdannelse og ett års praksis fra forsikring som er relevant for agentforetakets virksomhet.
+2. Forsikringsagenten har relevant praksis fra tre sammenhengende år i et forsikringsformidlingsforetak eller et forsikringsforetak.
+3. Forsikringsagenten er autorisert forsikringsrådgiver i medhold av bestemmelser om autorisasjon fra bransjeorganisasjon eller utdannelsesinstitusjon, godkjent av Finanstilsynet.
 
 Opparbeidet praksis i henhold til første ledd må ikke være avsluttet mer enn fem år før tiltredelse av stillingen.
 
 ### § 2-3. Generelle krav til faglige kvalifikasjoner
 
-Forsikringsmegler og forsikringsagent må ha relevant kunnskap om de forsikringer vedkommende formidler, og må minst godtgjøre kunnskap omvilkår og betingelser som gjelder for forsikringen, herunder tilleggsrisikoerbehandling av krav under forsikringenklagehåndtering og utenrettslige klageordningerhvilke forhold det er relevant å avdekke om en kundes forsikringsbehovhåndtering av interessekonflikterforsikringsmarkedetrelevant regelverk for fagområdetrelevante bransjestandarder.
+Forsikringsmegler og forsikringsagent må ha relevant kunnskap om de forsikringer vedkommende formidler, og må minst godtgjøre kunnskap om
+
+1. vilkår og betingelser som gjelder for forsikringen, herunder tilleggsrisikoer
+2. behandling av krav under forsikringen
+3. klagehåndtering og utenrettslige klageordninger
+4. hvilke forhold det er relevant å avdekke om en kundes forsikringsbehov
+5. håndtering av interessekonflikter
+6. forsikringsmarkedet
+7. relevant regelverk for fagområdet
+8. relevante bransjestandarder.
 
 På livsforsikrings- og pensjonsområdet skal personer som nevnt i første ledd i tillegg minst ha kunnskap om premiefastsetting, egenskapene ved de ulike produktene, fordeler og ulemper ved forskjellige investeringsvalg og om sparemarkedet.
 
@@ -72,7 +96,12 @@ Etterutdanning skal minst dekke emner som nevnt i denne forskrift [§ 2-3](forsk
 
 ### § 2-5. Krav til dokumentasjon
 
-Forsikringsformidlingsforetaket må til enhver tid kunne dokumentere at kravene til etterutdanning er oppfylt. Dokumentasjonen skal anginavn på ansatt og stilling i foretaketarrangør av etterutdanningenemneområde med kort beskrivelse av kursets innholddato for kursdeltakelser og varighet på kursene.
+Forsikringsformidlingsforetaket må til enhver tid kunne dokumentere at kravene til etterutdanning er oppfylt. Dokumentasjonen skal angi
+
+1. navn på ansatt og stilling i foretaket
+2. arrangør av etterutdanningen
+3. emneområde med kort beskrivelse av kursets innhold
+4. dato for kursdeltakelser og varighet på kursene.
 
 ### § 2-6. Krav til hederlig vandel for aksessoriske forsikringsagentforetak
 
@@ -102,7 +131,11 @@ Forsikringen som dekker underslag av klientmidler, skal minst dekke 75 prosent a
 
 Klientkonto skal opprettes i foretakets navn og betegnes «klientkonto».
 
-I kontoavtalen for klientkonto skal banken forplikte seg tilikke å gjøre motregning gjeldende i klientkontoen for de krav banken måtte ha overfor forsikringsformidlingsforetaketå registrere opphør av rett til å disponere over klientkontoen hvis Finanstilsynet fatter vedtak om å sperre klientkontoen i medhold av denne forskrift [§ 4-2](forskrift/2021-12-22-3872/§4-2)å gi personer som Finanstilsynet utpeker i samsvar med denne forskrift [§ 4-2](forskrift/2021-12-22-3872/§4-2), rett til å disponere over klientkontoen.
+I kontoavtalen for klientkonto skal banken forplikte seg til
+
+1. ikke å gjøre motregning gjeldende i klientkontoen for de krav banken måtte ha overfor forsikringsformidlingsforetaket
+2. å registrere opphør av rett til å disponere over klientkontoen hvis Finanstilsynet fatter vedtak om å sperre klientkontoen i medhold av denne forskrift [§ 4-2](forskrift/2021-12-22-3872/§4-2)
+3. å gi personer som Finanstilsynet utpeker i samsvar med denne forskrift [§ 4-2](forskrift/2021-12-22-3872/§4-2), rett til å disponere over klientkontoen.
 
 ### § 4-2. Disponering av klientmidler
 
@@ -110,7 +143,15 @@ I tilfeller der klientmidler er disponert i strid med regler om klientkonto kan 
 
 ### § 4-3. Forsikringsforetak som kan overta forsikringsrisikoen
 
-[Forsikringsformidlingsloven § 8-6](lov/2021-12-22-163/§8-6) første ledd er ikke til hinder for at forsikringsagentforetak kan formidle skadeforsikringer til forsikringsforetak med hovedsete i stat utenfor EØS dersom forsikringsforetaket ikke driver forsikringsvirksomhet i Norge eller dersom forsikringen gjelder:Grupper av forsikringsklasser i skadeforsikring som omfatter sjø- og transportforsikring samt luftfartsforsikring, jf. [finansforetaksforskriften § 2-13](forskrift/2016-12-09-1502/§2-13) bokstav c og d.Grupper av forsikringsklasser i skadeforsikring som omfatter kreditt og kausjonsforsikring, jf. [finansforetaksforskriften § 2-13](forskrift/2016-12-09-1502/§2-13) bokstav g, hvis forsikringstaker er deltaker i en industriell eller kommersiell aktivitet.Forsikringsklassene landkjøretøy, brann og naturskader, annen skade på eiendom og eiendeler, ansvar forårsaket ved bruk av landkjøretøy, alminnelig ansvar og diverse økonomiske tap, jf. [finansforetaksforskriften § 2-12](forskrift/2016-12-09-1502/§2-12) nr. 3, 8, 9, 10, 13 og 16, hvis forsikringstaker oppfyller minst to av følgende tre kriterier:en balansesum på 6,2 millioner EURen nettoomsetning på 12,8 millioner EURet gjennomsnitt på 250 ansatte gjennom regnskapsåret.
+[Forsikringsformidlingsloven § 8-6](lov/2021-12-22-163/§8-6) første ledd er ikke til hinder for at forsikringsagentforetak kan formidle skadeforsikringer til forsikringsforetak med hovedsete i stat utenfor EØS dersom forsikringsforetaket ikke driver forsikringsvirksomhet i Norge eller dersom forsikringen gjelder:
+
+1. Grupper av forsikringsklasser i skadeforsikring som omfatter sjø- og transportforsikring samt luftfartsforsikring, jf. [finansforetaksforskriften § 2-13](forskrift/2016-12-09-1502/§2-13) bokstav c og d.
+2. Grupper av forsikringsklasser i skadeforsikring som omfatter kreditt og kausjonsforsikring, jf. [finansforetaksforskriften § 2-13](forskrift/2016-12-09-1502/§2-13) bokstav g, hvis forsikringstaker er deltaker i en industriell eller kommersiell aktivitet.
+3. Forsikringsklassene landkjøretøy, brann og naturskader, annen skade på eiendom og eiendeler, ansvar forårsaket ved bruk av landkjøretøy, alminnelig ansvar og diverse økonomiske tap, jf. [finansforetaksforskriften § 2-12](forskrift/2016-12-09-1502/§2-12) nr. 3, 8, 9, 10, 13 og 16, hvis forsikringstaker oppfyller minst to av følgende tre kriterier:
+
+   1. en balansesum på 6,2 millioner EUR
+   2. en nettoomsetning på 12,8 millioner EUR
+   3. et gjennomsnitt på 250 ansatte gjennom regnskapsåret.
 
 Forsikringsagentforetak kan likevel ikke formidle forsikringer som nevnt i første ledd bokstav a til c dersom forsikringen gjelder lovpliktig yrkesskadeforsikring, lovpliktig ansvarsforsikring for motorkjøretøy eller lovpliktig ansvarsforsikring som gjelder erstatningsansvar for skade voldt ved atomskade eller av legemidler.
 
@@ -158,7 +199,16 @@ Forsikringsagentforetak som formidler forsikringer på vegne av skadeforsikrings
 
 ### § 6-3. Overgangsregler om informasjon mv.
 
-Før inngåelse av forsikringsavtale og ved endring eller fornyelse av avtalen, skal forsikringsformidlingsforetaket minst gi kunden informasjon om følgende:forsikringsformidlingsforetakets navn og adressehvilket register forsikringsformidlingsforetaket er oppført i, og hvordan det kan kontrolleres at foretaket er registrertom forsikringsformidlingsforetaket yter rådgivning på basis av en objektiv analyse, jf. [lov 22. desember 2021 nr. 163 om forsikringsformidling § 2-1](lov/2021-12-22-163/§2-1) første alternativstørrelsen på provisjon og/eller annen godtgjørelse som forsikringsformidlingsforetaket mottar fra forsikringsgiveren i tilknytning til inngåelsen av avtale om angjeldende forsikring, og størrelsen på den provisjon eller annet vederlag som forsikringsformidlingsforetaket vil kreve fra oppdragsgiverom forsikringsformidlingsforetaket har en direkte eller indirekte eierandel som utgjør mer enn 10 % av stemmeretten eller kapitalen i et forsikringsforetakom et forsikringsforetak, eller morselskapet til et forsikringsforetak, har en direkte eller indirekte eierandel som utgjør mer enn 10 % av forsikringsformidlingsforetakets stemmerett eller kapitalden avgift forsikringstaker er pliktig til å svare til Norsk Naturskadepool etter [lov 16. juni 1989 nr. 70 om naturskadeforsikring § 4a](lov/1989-06-16-70/§4a) dersom brannskadeforsikring på ting her i riket formidles til forsikringsforetak som ikke er medlem av Naturskadepoolenom utenrettslige klageordninger.
+Før inngåelse av forsikringsavtale og ved endring eller fornyelse av avtalen, skal forsikringsformidlingsforetaket minst gi kunden informasjon om følgende:
+
+1. forsikringsformidlingsforetakets navn og adresse
+2. hvilket register forsikringsformidlingsforetaket er oppført i, og hvordan det kan kontrolleres at foretaket er registrert
+3. om forsikringsformidlingsforetaket yter rådgivning på basis av en objektiv analyse, jf. [lov 22. desember 2021 nr. 163 om forsikringsformidling § 2-1](lov/2021-12-22-163/§2-1) første alternativ
+4. størrelsen på provisjon og/eller annen godtgjørelse som forsikringsformidlingsforetaket mottar fra forsikringsgiveren i tilknytning til inngåelsen av avtale om angjeldende forsikring, og størrelsen på den provisjon eller annet vederlag som forsikringsformidlingsforetaket vil kreve fra oppdragsgiver
+5. om forsikringsformidlingsforetaket har en direkte eller indirekte eierandel som utgjør mer enn 10 % av stemmeretten eller kapitalen i et forsikringsforetak
+6. om et forsikringsforetak, eller morselskapet til et forsikringsforetak, har en direkte eller indirekte eierandel som utgjør mer enn 10 % av forsikringsformidlingsforetakets stemmerett eller kapital
+7. den avgift forsikringstaker er pliktig til å svare til Norsk Naturskadepool etter [lov 16. juni 1989 nr. 70 om naturskadeforsikring § 4a](lov/1989-06-16-70/§4a) dersom brannskadeforsikring på ting her i riket formidles til forsikringsforetak som ikke er medlem av Naturskadepoolen
+8. om utenrettslige klageordninger.
 
 Når forsikringsformidlingsforetaket informerer kunden om at den gir råd på basis av en objektiv analyse, jf. første ledd bokstav c, er den forpliktet til å gi disse rådene på grunnlag av en analyse av et så stort antall forsikringsavtaler som er tilgjengelig på markedet, at den er i stand til å gi en anbefaling, i samsvar med faglige kriterier, av hvilken forsikringsavtale som ville passe kundens behov.
 

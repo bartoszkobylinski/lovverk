@@ -28,13 +28,48 @@ Forskriftens formål er å styrke sikkerheten for bulkskip som anløper terminal
 
 ## § 2. Virkeområde
 
-(1) Denne forskriften gjelder for:Alle bulkskip, uansett flagg, som anløper en terminal i Norge for lasting eller lossing av faste bulklaster,alle terminaler i Norge som anløpes av bulkskip som omfattes av denne forskriftens virkeområde.
+(1) Denne forskriften gjelder for:
 
-(2) Uten hensyn til regel VI/7 i Sjøsikkerhetskonvensjonen, får denne forskriften ikke anvendelse for:Anlegg som bare under uvanlige omstendigheter brukes til lasting eller lossing av tørrlast i bulk inn i eller ut av bulkskip,tilfeller der lastingen eller lossingen utføres bare med utstyret om bord på det aktuelle bulkskipet.
+1. Alle bulkskip, uansett flagg, som anløper en terminal i Norge for lasting eller lossing av faste bulklaster,
+2. alle terminaler i Norge som anløpes av bulkskip som omfattes av denne forskriftens virkeområde.
+
+(2) Uten hensyn til regel VI/7 i Sjøsikkerhetskonvensjonen, får denne forskriften ikke anvendelse for:
+
+1. Anlegg som bare under uvanlige omstendigheter brukes til lasting eller lossing av tørrlast i bulk inn i eller ut av bulkskip,
+2. tilfeller der lastingen eller lossingen utføres bare med utstyret om bord på det aktuelle bulkskipet.
 
 ## § 3. Definisjoner
 
-I denne forskriften betyr:*Anerkjent klasseinstitusjon:* Klasseinstitusjoner som departementet har inngått overenskomst med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):American Bureau of Shipping (ABS)Bureau Veritas (BV)DNV GLLloyd's Register of Shipping (LRS)Rina Services S.p.A (RINA)Nippon Kaiji Kyokai (Class NK).*BLU-koden:* De praktiske reglene for sikker lasting og lossing av bulkskip, inntatt i vedlegget til IMO-resolusjon A.862(20) av 27. november 1997, slik den gjelder per 4. desember 2001,*Bulkskip:* Bulkskip i henhold til regel IX/1.6 i Sjøsikkerhetskonvensjonen og fortolket i resolusjon 6 fra SOLAS-konferansen av 1997, dvs.:et skip konstruert med ett dekk, topptanker og hoppertanker i lasterom, og som er beregnet hovedsakelig på å føre tørrlast i bulk, elleret malmskip, dvs. et sjøgående skip med ett dekk og med to langskipsskott og dobbeltbunn i hele lasteområdet, og som er beregnet på å føre malmlast bare i midtrommene, elleret kombinasjonsskip i henhold til regel II-2/3.27 i Sjøsikkerhetskonvensjonen,*Erklæring om faste bulklasters densitet:* De opplysninger om lastens densitet som skal gis i henhold til regel XII/10 i [SOLAS-konvensjonen 1974,](traktat/1974-11-01-1)*Flaggstatens myndighet:* Vedkommende myndigheter i den stat hvis flagg bulkskipet har rett til å føre,*Godkjent organisasjon:* En organisasjon i samsvar med artikkel 4 i direktiv [94/57/EF](eu/31994l0057),*Internasjonale konvensjoner:* Konvensjoner i henhold til artikkel 2 punkt 1 i direktiv [95/21/EF](eu/31995l0021*) med senere endringer,*Korn:* Korn i henhold til regel VI/8.2 i Sjøsikkerhetskonvensjonen,*Lastinformasjon:* Den lastinformasjon som kreves etter regel VI/2 i Sjøsikkerhetskonvensjonen,*Laste- eller losseplan:* En plan som nevnt i regel VI/7.3 i Sjøsikkerhetskonvensjonen, og som har det format som er oppført i tillegg 2 til BLU-koden,*Sikkerhetssjekkliste for skip/land:* Den sjekkliste som er nevnt i avsnitt 4 i BLU-koden, og som har det format som er oppført i tillegg 3 til BLU-koden,*Skipsfører:* Den person som har kommandoen over et bulkskip, eller en skipsoffiser som skipsføreren har utpekt til laste- eller losseoperasjoner,*Sjøsikkerhetskonvensjonen ([SOLAS):](traktat/1974-11-01-1)* Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974, med](traktat/1974-11-01-1) senere endringer,*Terminal:* Ethvert fast, flytende eller flyttbart anlegg som er utstyrt og brukes til lasting eller lossing av tørrlast i bulk inn i eller ut av bulkskip,*Terminaloperatør:* Eieren av en terminal, eller en organisasjon eller person som eieren har overdratt ansvaret for laste- eller losseoperasjoner som foretas ved terminalen for et bestemt bulkskip,*Terminalrepresentant:* En person utpekt av terminaloperatøren, som har det generelle ansvaret for forberedelse, gjennomføring og fullføring av laste- eller losseoperasjoner som foretas av terminalen for et bestemt bulkskip, og myndighet til å kontrollere operasjonene,*Tørrlast i bulk eller fast bulklast:* Fast bulklast i henhold til regel XII/1.4 i Sjøsikkerhetskonvensjonen, unntatt korn.
+I denne forskriften betyr:
+
+1. *Anerkjent klasseinstitusjon:* Klasseinstitusjoner som departementet har inngått overenskomst med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):
+
+   1. American Bureau of Shipping (ABS)
+   2. Bureau Veritas (BV)
+   3. DNV GL
+   4. Lloyd's Register of Shipping (LRS)
+   5. Rina Services S.p.A (RINA)
+   6. Nippon Kaiji Kyokai (Class NK).
+2. *BLU-koden:* De praktiske reglene for sikker lasting og lossing av bulkskip, inntatt i vedlegget til IMO-resolusjon A.862(20) av 27. november 1997, slik den gjelder per 4. desember 2001,
+3. *Bulkskip:* Bulkskip i henhold til regel IX/1.6 i Sjøsikkerhetskonvensjonen og fortolket i resolusjon 6 fra SOLAS-konferansen av 1997, dvs.:
+
+   - et skip konstruert med ett dekk, topptanker og hoppertanker i lasterom, og som er beregnet hovedsakelig på å føre tørrlast i bulk, eller
+   - et malmskip, dvs. et sjøgående skip med ett dekk og med to langskipsskott og dobbeltbunn i hele lasteområdet, og som er beregnet på å føre malmlast bare i midtrommene, eller
+   - et kombinasjonsskip i henhold til regel II-2/3.27 i Sjøsikkerhetskonvensjonen,
+4. *Erklæring om faste bulklasters densitet:* De opplysninger om lastens densitet som skal gis i henhold til regel XII/10 i [SOLAS-konvensjonen 1974,](traktat/1974-11-01-1)
+5. *Flaggstatens myndighet:* Vedkommende myndigheter i den stat hvis flagg bulkskipet har rett til å føre,
+6. *Godkjent organisasjon:* En organisasjon i samsvar med artikkel 4 i direktiv [94/57/EF](eu/31994l0057),
+7. *Internasjonale konvensjoner:* Konvensjoner i henhold til artikkel 2 punkt 1 i direktiv [95/21/EF](eu/31995l0021*) med senere endringer,
+8. *Korn:* Korn i henhold til regel VI/8.2 i Sjøsikkerhetskonvensjonen,
+9. *Lastinformasjon:* Den lastinformasjon som kreves etter regel VI/2 i Sjøsikkerhetskonvensjonen,
+10. *Laste- eller losseplan:* En plan som nevnt i regel VI/7.3 i Sjøsikkerhetskonvensjonen, og som har det format som er oppført i tillegg 2 til BLU-koden,
+11. *Sikkerhetssjekkliste for skip/land:* Den sjekkliste som er nevnt i avsnitt 4 i BLU-koden, og som har det format som er oppført i tillegg 3 til BLU-koden,
+12. *Skipsfører:* Den person som har kommandoen over et bulkskip, eller en skipsoffiser som skipsføreren har utpekt til laste- eller losseoperasjoner,
+13. *Sjøsikkerhetskonvensjonen ([SOLAS):](traktat/1974-11-01-1)* Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974, med](traktat/1974-11-01-1) senere endringer,
+14. *Terminal:* Ethvert fast, flytende eller flyttbart anlegg som er utstyrt og brukes til lasting eller lossing av tørrlast i bulk inn i eller ut av bulkskip,
+15. *Terminaloperatør:* Eieren av en terminal, eller en organisasjon eller person som eieren har overdratt ansvaret for laste- eller losseoperasjoner som foretas ved terminalen for et bestemt bulkskip,
+16. *Terminalrepresentant:* En person utpekt av terminaloperatøren, som har det generelle ansvaret for forberedelse, gjennomføring og fullføring av laste- eller losseoperasjoner som foretas av terminalen for et bestemt bulkskip, og myndighet til å kontrollere operasjonene,
+17. *Tørrlast i bulk eller fast bulklast:* Fast bulklast i henhold til regel XII/1.4 i Sjøsikkerhetskonvensjonen, unntatt korn.
 
 > Endret ved [forskrifter 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018).
 
@@ -44,7 +79,12 @@ Terminaloperatøren skal ved å kontrollere om bestemmelsene i vedlegg 1 overhol
 
 ## § 5. Krav angående terminalenes egnethet
 
-Terminaloperatøren skal påse at følgende krav er oppfylt for terminaler vedkommende har ansvaret for etter denne forskriften:terminalen er i samsvar med bestemmelsene i vedlegg 2,det er utpekt terminalrepresentant(er),det er utarbeidet informasjonshefter med terminalens egne krav og krav fra offentlige myndigheter, herunder Kystverket og Sjøfartsdirektoratet, samt opplysninger om havnen og terminalen som oppført i tillegg 1 nr. 1.2 i BLU-koden, og disse heftene gjøres tilgjengelige for førerne av bulkskip som har anløp ved terminalen for lasting eller lossing av faste bulklaster, oget kvalitetsstyringssystem er utviklet, iverksatt og vedlikeholdes. Et slikt kvalitetsstyringssystem skal være sertifisert i samsvar med standardene ISO 9001:2000 eller tilsvarende standard som minst omfatter alle sider ved ISO 9001:2000, og det skal revideres i samsvar med retningslinjene i ISO 10011:1991 eller tilsvarende standard som omfatter alle sider ved ISO 10011:1991. Direktiv [98/34/EF](eu/31998l0034) skal overholdes når det gjelder nevnte standarder. Kvalitetsstyringssystem skal være opprettet innen tre år etter at denne forskriften trer i kraft. Kvalitetsstyringssystem skal være sertifisert innen fire år etter at denne forskriften trer i kraft.
+Terminaloperatøren skal påse at følgende krav er oppfylt for terminaler vedkommende har ansvaret for etter denne forskriften:
+
+1. terminalen er i samsvar med bestemmelsene i vedlegg 2,
+2. det er utpekt terminalrepresentant(er),
+3. det er utarbeidet informasjonshefter med terminalens egne krav og krav fra offentlige myndigheter, herunder Kystverket og Sjøfartsdirektoratet, samt opplysninger om havnen og terminalen som oppført i tillegg 1 nr. 1.2 i BLU-koden, og disse heftene gjøres tilgjengelige for førerne av bulkskip som har anløp ved terminalen for lasting eller lossing av faste bulklaster, og
+4. et kvalitetsstyringssystem er utviklet, iverksatt og vedlikeholdes. Et slikt kvalitetsstyringssystem skal være sertifisert i samsvar med standardene ISO 9001:2000 eller tilsvarende standard som minst omfatter alle sider ved ISO 9001:2000, og det skal revideres i samsvar med retningslinjene i ISO 10011:1991 eller tilsvarende standard som omfatter alle sider ved ISO 10011:1991. Direktiv [98/34/EF](eu/31998l0034) skal overholdes når det gjelder nevnte standarder. Kvalitetsstyringssystem skal være opprettet innen tre år etter at denne forskriften trer i kraft. Kvalitetsstyringssystem skal være sertifisert innen fire år etter at denne forskriften trer i kraft.
 
 ## § 6. Midlertidig tillatelse til nyetablerte terminaler
 
@@ -52,13 +92,23 @@ Kystdirektoratet kan gi unntak for nyetablerte terminaler fra kravene i [§ 5](f
 
 ## § 7. Skipsførerens ansvarsområder
 
-Følgende oppgaver tilligger skipsførerens ansvarsområde:skipsføreren skal til enhver tid være ansvarlig for sikker lasting og lossing av det bulkskipet skipsføreren har kommandoen på,skipsføreren skal melde om anløp i tråd med [forskrift 21. desember 2015 nr. 1790 om fartøys meldeplikter etter havne- og farvannsloven](forskrift/2015-12-21-1790),før en fast bulklast lastes, skal skipsføreren påse å ha mottatt de opplysningene om lasten som kreves etter regel VI/2.2 i Sjøsikkerhetskonvensjonen, og om nødvendig en erklæring om den nevnte faste bulklastens densitet. Disse opplysningene skal finnes på lasterklæringsskjemaet som det er gjengitt en modell for i tillegg 5 til BLU-koden,før igangsetting av og under lasting eller lossing skal skipsføreren utføre pliktene oppført i [vedlegg 3](forskrift/2015-12-21-1790/vedlegg3).
+Følgende oppgaver tilligger skipsførerens ansvarsområde:
+
+1. skipsføreren skal til enhver tid være ansvarlig for sikker lasting og lossing av det bulkskipet skipsføreren har kommandoen på,
+2. skipsføreren skal melde om anløp i tråd med [forskrift 21. desember 2015 nr. 1790 om fartøys meldeplikter etter havne- og farvannsloven](forskrift/2015-12-21-1790),
+3. før en fast bulklast lastes, skal skipsføreren påse å ha mottatt de opplysningene om lasten som kreves etter regel VI/2.2 i Sjøsikkerhetskonvensjonen, og om nødvendig en erklæring om den nevnte faste bulklastens densitet. Disse opplysningene skal finnes på lasterklæringsskjemaet som det er gjengitt en modell for i tillegg 5 til BLU-koden,
+4. før igangsetting av og under lasting eller lossing skal skipsføreren utføre pliktene oppført i [vedlegg 3](forskrift/2015-12-21-1790/vedlegg3).
 
 > Endret ved forskrifter [21 des 2015 nr. 1802](forskrift/2015-12-21-1802) (i kraft 1 jan 2016), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ## § 8. Terminalrepresentantens ansvarsområder
 
-Følgende oppgaver tilligger terminalrepresentantens ansvarsområde:ved mottak av skipets første melding om dets beregnede ankomsttid, skal terminalrepresentanten gi skipsføreren de opplysninger som er nevnt i vedlegg 4,terminalrepresentanten skal forvisse seg om at skipsføreren er underrettet så tidlig som mulig om de opplysninger som finnes på lasteerklæringsskjemaet,terminalrepresentanten skal uten opphold underrette skipsføreren og Sjøfartsdirektoratet om åpenbare mangler han har merket seg om bord på et bulkskip, og som vil kunne true sikkerheten for lasting eller lossing av faste bulklaster,før igangsetting av og under lasting eller lossing, skal terminalrepresentanten utføre pliktene oppført i vedlegg 5.
+Følgende oppgaver tilligger terminalrepresentantens ansvarsområde:
+
+1. ved mottak av skipets første melding om dets beregnede ankomsttid, skal terminalrepresentanten gi skipsføreren de opplysninger som er nevnt i vedlegg 4,
+2. terminalrepresentanten skal forvisse seg om at skipsføreren er underrettet så tidlig som mulig om de opplysninger som finnes på lasteerklæringsskjemaet,
+3. terminalrepresentanten skal uten opphold underrette skipsføreren og Sjøfartsdirektoratet om åpenbare mangler han har merket seg om bord på et bulkskip, og som vil kunne true sikkerheten for lasting eller lossing av faste bulklaster,
+4. før igangsetting av og under lasting eller lossing, skal terminalrepresentanten utføre pliktene oppført i vedlegg 5.
 
 > Endret ved [forskrift 21 des 2015 nr. 1802](forskrift/2015-12-21-1802) (i kraft 1 jan 2016).
 
@@ -84,7 +134,10 @@ Følgende oppgaver tilligger terminalrepresentantens ansvarsområde:ved mottak a
 
 (1) Dersom det oppstår skade på skipets konstruksjon eller utstyr under lasting eller lossing, skal skaden omgående meldes av terminalrepresentanten til skipsføreren og om nødvendig repareres.
 
-(2) Dersom skaden vil kunne svekke skrogets konstruksjon eller vanntetthet eller skipets vesentlige tekniske systemer, skal skipsføreren underrette i henhold til følgende:Norske skip: Sjøfartsdirektoratet eller anerkjent klasseinstitusjon.Utenlandske skip: Flaggstatens myndighet eller en organisasjon som er godkjent av den og opptrer på dens vegne samt Sjøfartsdirektoratet.
+(2) Dersom skaden vil kunne svekke skrogets konstruksjon eller vanntetthet eller skipets vesentlige tekniske systemer, skal skipsføreren underrette i henhold til følgende:
+
+1. Norske skip: Sjøfartsdirektoratet eller anerkjent klasseinstitusjon.
+2. Utenlandske skip: Flaggstatens myndighet eller en organisasjon som er godkjent av den og opptrer på dens vegne samt Sjøfartsdirektoratet.
 
 (3) Beslutningen om hvorvidt det er nødvendig med umiddelbar reparasjon eller om den kan utsettes, skal treffes av Sjøfartsdirektoratet under hensyn til eventuell uttalelse fra flaggstatens myndighet eller organisasjonen som er godkjent av den og opptrer på dens vegne, samt skipsføreren. Dersom det anses nødvendig med umiddelbar reparasjon, skal den utføres til skipsførerens og vedkommende myndighets tilfredshet før skipet forlater havnen.
 
@@ -106,7 +159,15 @@ Denne forskriften trer i kraft 1. mars 2004.
 
 ## Vedlegg 1. Krav angående bulkskips driftsmessige egnethet til lasting og lossing av faste bulklaster (jf. § 4)
 
-Bulkskip som anløper terminaler i Norge for å laste eller losse faste bulklaster, skal av terminaloperatøren kontrolleres med henblikk på om følgende krav er oppfylt:de skal være utstyrt med lasterom og lukeåpninger av tilstrekkelig størrelse og med slik konstruksjon at den faste bulklasten kan lastes, stues, trimmes og losses på tilfredsstillende måte,de skal være utstyrt med de identifikasjonsnumre for lasteromslukene som brukes i laste- eller losseplanen. Identifikasjonsnumrene for lasterom og lasteromsluker skal være tydelig merket. Numrenes plassering skal gjøre det lett for terminalens laste- og losseoperatører å identifisere lasterommene. Identifikasjonsnumrene skal også benyttes i lasteplanen,lasteromslukene, åpningssystemene for lukene og sikkerhetsinnretningene skal være i god driftsmessig stand og brukes bare til de formål de er konstruert for,varsellys for slagside skal, dersom de finnes, prøves før lasting eller lossing, og skal påvises å være i orden,dersom det er påbudt å ha en godkjent lastmåler om bord, skal dette instrumentet være sertifisert og i stand til å foreta belastningsberegninger under lasting eller lossing,framdrifts- og hjelpemaskineri skal være i god driftsmessig stand,dekksutstyr som brukes i forbindelse med fortøynings- og ankringsoperasjoner skal være driftsklart og i god stand.
+Bulkskip som anløper terminaler i Norge for å laste eller losse faste bulklaster, skal av terminaloperatøren kontrolleres med henblikk på om følgende krav er oppfylt:
+
+1. de skal være utstyrt med lasterom og lukeåpninger av tilstrekkelig størrelse og med slik konstruksjon at den faste bulklasten kan lastes, stues, trimmes og losses på tilfredsstillende måte,
+2. de skal være utstyrt med de identifikasjonsnumre for lasteromslukene som brukes i laste- eller losseplanen. Identifikasjonsnumrene for lasterom og lasteromsluker skal være tydelig merket. Numrenes plassering skal gjøre det lett for terminalens laste- og losseoperatører å identifisere lasterommene. Identifikasjonsnumrene skal også benyttes i lasteplanen,
+3. lasteromslukene, åpningssystemene for lukene og sikkerhetsinnretningene skal være i god driftsmessig stand og brukes bare til de formål de er konstruert for,
+4. varsellys for slagside skal, dersom de finnes, prøves før lasting eller lossing, og skal påvises å være i orden,
+5. dersom det er påbudt å ha en godkjent lastmåler om bord, skal dette instrumentet være sertifisert og i stand til å foreta belastningsberegninger under lasting eller lossing,
+6. framdrifts- og hjelpemaskineri skal være i god driftsmessig stand,
+7. dekksutstyr som brukes i forbindelse med fortøynings- og ankringsoperasjoner skal være driftsklart og i god stand.
 
 ## Vedlegg 2. Krav angående terminalenes egnethet til lasting og lossing av faste bulklaster (jf. § 5 bokstav a)
 
@@ -116,7 +177,23 @@ Bulkskip som anløper terminaler i Norge for å laste eller losse faste bulklast
 
 ## Vedlegg 3. Skipsførerens plikter før og under lasting eller lossing (jf. § 7 bokstav d)
 
-Før og under laste- eller losseoperasjoner skal skipsføreren påseat lasting eller lossing av last og ballastoperasjoner utføres under ansvarshavende offisers kontroll,at fordelingen av last og ballastvann overvåkes under hele laste- eller losseprosessen for å sikre at skipets konstruksjon ikke overbelastes,at skipet holdes på rett kjøl eller, dersom det er nødvendig med en viss slagside av driftsmessige grunner, at slagsiden holdes så liten som mulig,at skipet holdes forsvarlig fortøyd, under behørig hensyn til lokale værforhold og værmeldinger,at det finnes et tilstrekkelig antall offiserer og mannskap om bord til å justere fortøyningene og for enhver normal situasjon eller nødssituasjon, samtidig som det tas hensyn til besetningens behov for tilstrekkelige hvileperioder for å unngå tretthet,at terminalrepresentanten gjøres oppmerksom på kravene med hensyn til trimming av lasten, som skal være i samsvar med framgangsmåtene i IMOs regelverk for sikker transport av fast bulklast,at terminalrepresentanten gjøres oppmerksom på kravene som stilles til skipet med hensyn til harmonisering mellom ballastoperasjoner og laste- eller lossehastigheten og på eventuelle avvik fra planen for tømming eller inntak av ballast, eller på eventuelle andre forhold som kan påvirke lastingen eller lossingen,at ballastvannet lenses med en hastighet som er i samsvar med den avtalte lasteplanen og ikke fører til oversvømmelse av kaien eller av nærliggende fartøyer. Dersom det ikke er praktisk mulig for skipet å tømme alt ballastvannet før trimmingsstadiet i lasteprosessen, skal skipsføreren avtale med terminalrepresentanten de tidspunktene da lastingen eventuelt må stanses, og varigheten av slik stans,at det er avtalt med terminalrepresentanten hvilke tiltak som skal treffes i tilfelle regn eller annet væromslag dersom lastens art vil kunne skape en risiko ved slike væromslag,at det ikke utføres noe varmearbeid om bord eller i nærheten av skipet mens det ligger ved kai, med mindre dette skjer med terminalrepresentantens tillatelse og i samsvar med eventuelle krav fra vedkommende myndighet,at det føres nøye oppsyn med lastingen eller lossingen og med skipet under de siste stadiene av laste- eller losseprosessen,at terminalrepresentanten varsles umiddelbart dersom laste- eller losseprosessen har forårsaket skade eller en farlig situasjon, eller vil kunne gjøre det,at terminalrepresentanten underrettes når endelig trimming av skipet må begynne, slik at transportsystemet kan tømmes,at lossing av babord side avpasses nøyaktig etter lossing av styrbord side i samme rom for å unngå vridning i skipets konstruksjon,at det ved inntak av ballast i ett eller flere rom tas hensyn til muligheten for utslipp av brennbar damp fra rommene, og at det treffes forholdsregler før varmearbeid tillates ved siden av eller over disse rommene.
+Før og under laste- eller losseoperasjoner skal skipsføreren påse
+
+1. at lasting eller lossing av last og ballastoperasjoner utføres under ansvarshavende offisers kontroll,
+2. at fordelingen av last og ballastvann overvåkes under hele laste- eller losseprosessen for å sikre at skipets konstruksjon ikke overbelastes,
+3. at skipet holdes på rett kjøl eller, dersom det er nødvendig med en viss slagside av driftsmessige grunner, at slagsiden holdes så liten som mulig,
+4. at skipet holdes forsvarlig fortøyd, under behørig hensyn til lokale værforhold og værmeldinger,
+5. at det finnes et tilstrekkelig antall offiserer og mannskap om bord til å justere fortøyningene og for enhver normal situasjon eller nødssituasjon, samtidig som det tas hensyn til besetningens behov for tilstrekkelige hvileperioder for å unngå tretthet,
+6. at terminalrepresentanten gjøres oppmerksom på kravene med hensyn til trimming av lasten, som skal være i samsvar med framgangsmåtene i IMOs regelverk for sikker transport av fast bulklast,
+7. at terminalrepresentanten gjøres oppmerksom på kravene som stilles til skipet med hensyn til harmonisering mellom ballastoperasjoner og laste- eller lossehastigheten og på eventuelle avvik fra planen for tømming eller inntak av ballast, eller på eventuelle andre forhold som kan påvirke lastingen eller lossingen,
+8. at ballastvannet lenses med en hastighet som er i samsvar med den avtalte lasteplanen og ikke fører til oversvømmelse av kaien eller av nærliggende fartøyer. Dersom det ikke er praktisk mulig for skipet å tømme alt ballastvannet før trimmingsstadiet i lasteprosessen, skal skipsføreren avtale med terminalrepresentanten de tidspunktene da lastingen eventuelt må stanses, og varigheten av slik stans,
+9. at det er avtalt med terminalrepresentanten hvilke tiltak som skal treffes i tilfelle regn eller annet væromslag dersom lastens art vil kunne skape en risiko ved slike væromslag,
+10. at det ikke utføres noe varmearbeid om bord eller i nærheten av skipet mens det ligger ved kai, med mindre dette skjer med terminalrepresentantens tillatelse og i samsvar med eventuelle krav fra vedkommende myndighet,
+11. at det føres nøye oppsyn med lastingen eller lossingen og med skipet under de siste stadiene av laste- eller losseprosessen,
+12. at terminalrepresentanten varsles umiddelbart dersom laste- eller losseprosessen har forårsaket skade eller en farlig situasjon, eller vil kunne gjøre det,
+13. at terminalrepresentanten underrettes når endelig trimming av skipet må begynne, slik at transportsystemet kan tømmes,
+14. at lossing av babord side avpasses nøyaktig etter lossing av styrbord side i samme rom for å unngå vridning i skipets konstruksjon,
+15. at det ved inntak av ballast i ett eller flere rom tas hensyn til muligheten for utslipp av brennbar damp fra rommene, og at det treffes forholdsregler før varmearbeid tillates ved siden av eller over disse rommene.
 
 > Endret ved [forskrift 21 des 2015 nr. 1802](forskrift/2015-12-21-1802) (i kraft 1 jan 2016, tidligere vedlegg 4).
 
@@ -146,6 +223,18 @@ Før og under laste- eller losseoperasjoner skal skipsføreren påseat lasting e
 
 ## Vedlegg 5. Terminalrepresentantens plikter før og under laste- eller losseoperasjoner (jf. § 8 bokstav d)
 
-Før og under laste- eller losseoperasjoner skal terminalrepresentanten:gi skipsføreren navnene til terminalpersonalet eller avskiperens agent som vil ha ansvaret for laste- eller losseoperasjonen og som skipsføreren vil ha kontakt med, samt fremgangsmåtene for å kontakte disse personene,treffe alle forholdsregler for å unngå skade på skipet forårsaket av laste- eller losseutstyret, og underrette skipsføreren dersom skade oppstår,påse at skipet holdes på rett kjøl eller, dersom det er nødvendig med en slagside av driftsmessige grunner, at slagsiden holdes på et minimum,påse at lossing av babord side avpasses nøyaktig etter lossing av styrbord side i samme rom for å unngå vridning i skipets konstruksjon,i tilfelle av last med høy densitet, eller når de enkelte grabblastene er store, varsle skipsføreren om at det kan forekomme store lokale støtbelastninger på skipets konstruksjon helt til tanktoppen er fullstendig dekket av last, særlig når det er tillatt at lasten faller fritt fra stor høyde, og at det treffes spesielle forholdsregler ved begynnelsen av lasteoperasjonen i hvert rom,påse at det er enighet mellom skipsføreren og terminalrepresentanten i alle stadier av prosessen og med hensyn til alle sider ved laste- eller losseoperasjonene, og at skipsføreren underrettes om eventuelle endringer i den avtalte lastehastigheten, og om vekten som er lastet inn etter hver tømming,føre register over vekten og fordelingen av lasten som er lastet eller losset, og påse at vekten i rommet ikke avviker fra den avtalte laste- eller losseplanen,påse at lasten trimmes ved lasting og lossing i samsvar med skipsførerens krav,påse at de lastmengder som er nødvendige for å oppnå dypgående og trim for avreise, er beregnet på en slik måte at all last som befinner seg på terminalens transportsystemer tømmes, og at disse systemene er tomme når lastingen er fullført. For dette formålet skal terminalrepresentanten underrette skipsføreren om den nominelle tonnasjen som disse transportsystemene tar, og oppgi om det er nødvendig å tømme transportsystemet etter lasting,når det gjelder lossing, gi skipsføreren behørig varsel når det er planlagt å øke eller redusere antall losserenner, og underrette skipsføreren når lossing betraktes som fullført fra hvert rom,påse at det ikke utføres noe varmearbeid om bord på eller i nærheten av skipet mens skipet ligger ved kai, unntatt med skipsførerens tillatelse, og i samsvar med eventuelle krav fra offentlige myndigheter.
+Før og under laste- eller losseoperasjoner skal terminalrepresentanten:
+
+1. gi skipsføreren navnene til terminalpersonalet eller avskiperens agent som vil ha ansvaret for laste- eller losseoperasjonen og som skipsføreren vil ha kontakt med, samt fremgangsmåtene for å kontakte disse personene,
+2. treffe alle forholdsregler for å unngå skade på skipet forårsaket av laste- eller losseutstyret, og underrette skipsføreren dersom skade oppstår,
+3. påse at skipet holdes på rett kjøl eller, dersom det er nødvendig med en slagside av driftsmessige grunner, at slagsiden holdes på et minimum,
+4. påse at lossing av babord side avpasses nøyaktig etter lossing av styrbord side i samme rom for å unngå vridning i skipets konstruksjon,
+5. i tilfelle av last med høy densitet, eller når de enkelte grabblastene er store, varsle skipsføreren om at det kan forekomme store lokale støtbelastninger på skipets konstruksjon helt til tanktoppen er fullstendig dekket av last, særlig når det er tillatt at lasten faller fritt fra stor høyde, og at det treffes spesielle forholdsregler ved begynnelsen av lasteoperasjonen i hvert rom,
+6. påse at det er enighet mellom skipsføreren og terminalrepresentanten i alle stadier av prosessen og med hensyn til alle sider ved laste- eller losseoperasjonene, og at skipsføreren underrettes om eventuelle endringer i den avtalte lastehastigheten, og om vekten som er lastet inn etter hver tømming,
+7. føre register over vekten og fordelingen av lasten som er lastet eller losset, og påse at vekten i rommet ikke avviker fra den avtalte laste- eller losseplanen,
+8. påse at lasten trimmes ved lasting og lossing i samsvar med skipsførerens krav,
+9. påse at de lastmengder som er nødvendige for å oppnå dypgående og trim for avreise, er beregnet på en slik måte at all last som befinner seg på terminalens transportsystemer tømmes, og at disse systemene er tomme når lastingen er fullført. For dette formålet skal terminalrepresentanten underrette skipsføreren om den nominelle tonnasjen som disse transportsystemene tar, og oppgi om det er nødvendig å tømme transportsystemet etter lasting,
+10. når det gjelder lossing, gi skipsføreren behørig varsel når det er planlagt å øke eller redusere antall losserenner, og underrette skipsføreren når lossing betraktes som fullført fra hvert rom,
+11. påse at det ikke utføres noe varmearbeid om bord på eller i nærheten av skipet mens skipet ligger ved kai, unntatt med skipsførerens tillatelse, og i samsvar med eventuelle krav fra offentlige myndigheter.
 
 > Endret ved [forskrift 21 des 2015 nr. 1802](forskrift/2015-12-21-1802) (i kraft 1 jan 2016, tidligere vedlegg 6).

@@ -15,7 +15,7 @@ xml_hash: "8b0cc86de20e358aa13f69419eec192e89c96bb57b634f06c7c62dd9e177576b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -29,7 +29,15 @@ Loven gjelder lovvalg i direkte forsikringsavtaler.
 
 ## § 2. Definisjoner
 
-I denne lov menes med:Det land der forpliktelsen består: Det land der forsikringstakeren har sitt vanlige bosted eller, dersom forsikringstakeren er en juridisk person, det land der den virksomhet som avtalen gjelder, ligger.Det land der risikoen består:Det land der eiendommen ligger, når forsikringen gjelder enten fast eiendom eller fast eiendom med innbo, i den utstrekning innboet er dekket av den samme forsikringspolisen,det land der registrering er foretatt, når forsikringen gjelder transportmidler av enhver art,det land der forsikringstakeren tegnet forsikringen, når det gjelder forsikringsavtaler med en varighet på fire måneder eller mindre, som dekker risikoer i forbindelse med reiser og ferier, uansett forsikringsklasse,det land der forsikringstakeren har sitt vanlige bosted eller, dersom forsikringstakeren er en juridisk person, det land der den virksomhet som avtalen gjelder ligger, i alle tilfeller som ikke uttrykkelig er nevnt i bokstav a til c.
+I denne lov menes med:
+
+1. Det land der forpliktelsen består: Det land der forsikringstakeren har sitt vanlige bosted eller, dersom forsikringstakeren er en juridisk person, det land der den virksomhet som avtalen gjelder, ligger.
+2. Det land der risikoen består:
+
+   1. Det land der eiendommen ligger, når forsikringen gjelder enten fast eiendom eller fast eiendom med innbo, i den utstrekning innboet er dekket av den samme forsikringspolisen,
+   2. det land der registrering er foretatt, når forsikringen gjelder transportmidler av enhver art,
+   3. det land der forsikringstakeren tegnet forsikringen, når det gjelder forsikringsavtaler med en varighet på fire måneder eller mindre, som dekker risikoer i forbindelse med reiser og ferier, uansett forsikringsklasse,
+   4. det land der forsikringstakeren har sitt vanlige bosted eller, dersom forsikringstakeren er en juridisk person, det land der den virksomhet som avtalen gjelder ligger, i alle tilfeller som ikke uttrykkelig er nevnt i bokstav a til c.
 
 ## § 3. Henvisning til et lands lov omfatter ikke lovvalgsreglene
 
@@ -79,13 +87,35 @@ Partenes vedtakelse av en bestemt lovgivning kan, hvis alle andre relevante omst
 
 ## § 9 a.1 Utvidet adgang til avtalt lovvalg i annen forsikring enn livsforsikring2
 
-I avtaler som gjelder følgende forsikringsklasser, kan partene alltid velge et hvilket som helst lands lovgivning:rullende jernbanemateriell,luftfartøyer,havgående fartøyer og fartøyer på innsjø, elv og kanal,gods under transport,ansvarsforsikring for luftfartøyer,ansvarsforsikring for havgående fartøyer og fartøyer på innsjø, elv og kanal.
+I avtaler som gjelder følgende forsikringsklasser, kan partene alltid velge et hvilket som helst lands lovgivning:
 
-Når forsikringstakeren utøver handels- eller industrivirksomhet eller et fritt yrke, kan partene også velge et hvilket som helst lands lovgivning i følgende forsikringsklasser:kreditt,kausjon,såfremt avtalen gjelder for virksomheten.
+- rullende jernbanemateriell,
+- luftfartøyer,
+- havgående fartøyer og fartøyer på innsjø, elv og kanal,
+- gods under transport,
+- ansvarsforsikring for luftfartøyer,
+- ansvarsforsikring for havgående fartøyer og fartøyer på innsjø, elv og kanal.
 
-Når forsikringstakeren er et foretak som omfattes av [forsikringsavtaleloven § 1-3](lov/1989-06-16-69/§1-3) annet ledd bokstav a, kan partene også velge et hvilket som helst lands lovgivning i følgende forsikringsklasser:landkjøretøyer,brann- og naturskader,annen skade på eiendom og eiendeler,ansvarsforsikring for motorvogner,alminnelig ansvarsforsikring,diverse økonomisk tap.
+Når forsikringstakeren utøver handels- eller industrivirksomhet eller et fritt yrke, kan partene også velge et hvilket som helst lands lovgivning i følgende forsikringsklasser:
 
-I forhold der norsk rett vil komme til anvendelse etter [§ 9](lov/1992-11-27-111/§9) første ledd, eller kunne komme til anvendelse etter partenes valg i medhold av [§ 9](lov/1992-11-27-111/§9) annet eller tredje ledd, gjelder følgende:For forsikring som er omfattet av [forsikringsavtaleloven § 1-3](lov/1989-06-16-69/§1-3) annet ledd bokstav c, kan partene velge et hvilket som helst lands lovgivning.For personforsikring der den forsikrede har fast bosted eller er statsborger i et annet land enn Norge, kan partene, i tillegg til den valgfrihet som følger av [§ 9](lov/1992-11-27-111/§9) annet og tredje ledd, velge dette landets lovgivning.
+- kreditt,
+- kausjon,
+
+såfremt avtalen gjelder for virksomheten.
+
+Når forsikringstakeren er et foretak som omfattes av [forsikringsavtaleloven § 1-3](lov/1989-06-16-69/§1-3) annet ledd bokstav a, kan partene også velge et hvilket som helst lands lovgivning i følgende forsikringsklasser:
+
+- landkjøretøyer,
+- brann- og naturskader,
+- annen skade på eiendom og eiendeler,
+- ansvarsforsikring for motorvogner,
+- alminnelig ansvarsforsikring,
+- diverse økonomisk tap.
+
+I forhold der norsk rett vil komme til anvendelse etter [§ 9](lov/1992-11-27-111/§9) første ledd, eller kunne komme til anvendelse etter partenes valg i medhold av [§ 9](lov/1992-11-27-111/§9) annet eller tredje ledd, gjelder følgende:
+
+1. For forsikring som er omfattet av [forsikringsavtaleloven § 1-3](lov/1989-06-16-69/§1-3) annet ledd bokstav c, kan partene velge et hvilket som helst lands lovgivning.
+2. For personforsikring der den forsikrede har fast bosted eller er statsborger i et annet land enn Norge, kan partene, i tillegg til den valgfrihet som følger av [§ 9](lov/1992-11-27-111/§9) annet og tredje ledd, velge dette landets lovgivning.
 
 I forhold der lovgivningen i et annet land enn Norge ville komme til anvendelse etter [§ 9](lov/1992-11-27-111/§9) første ledd eller kunne komme til anvendelse etter partenes valg i medhold av [§ 9](lov/1992-11-27-111/§9) annet eller tredje ledd, kan partene også velge tredjelands lovgivning i den utstrekning det annet lands lovgivning tillater det.
 
@@ -93,7 +123,9 @@ I forhold der lovgivningen i et annet land enn Norge ville komme til anvendelse 
 
 > Tilføyd ved [lov 24 juni 1994 nr. 40](lov/1994-06-24-40), endret ved [lov 24 jan 1997 nr. 14](lov/1997-01-24-14).
 
-1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 7a (dir [92/49](eu/31992l0049*)), se nå dir [2009/138](eu/32009l0138*), jf. EØS-avtalen vedlegg IX nr. 2 (dir [90/618](eu/31990l0618)) og nr. 7a (dir [92/49](eu/31992l0049*), se nå dir [2009/138](eu/32009l0138*).2 Jf. frd. [593/2008](eu/32008r0593*) art 7 nr. 2 og 3.
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 7a (dir [92/49](eu/31992l0049*)), se nå dir [2009/138](eu/32009l0138*), jf. EØS-avtalen vedlegg IX nr. 2 (dir [90/618](eu/31990l0618)) og nr. 7a (dir [92/49](eu/31992l0049*), se nå dir [2009/138](eu/32009l0138*).
+
+2 Jf. frd. [593/2008](eu/32008r0593*) art 7 nr. 2 og 3.
 
 ## § 10. Den alminnelige lovvalgsregel for annen forsikring enn livsforsikring
 

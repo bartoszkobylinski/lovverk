@@ -15,7 +15,7 @@ xml_hash: "f904148f6aa15ea2c60bd806ca16038e18b383325dd86ee864fae4b2ffbaf892"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,11 @@ Loven gjelder for barn som ikke har fylt 16 år.
 
 ### § 5
 
-(1) Sentralmyndigheten skal:motta og formidle henvendelser etter konvensjonenesamarbeide med sentralmyndighetene i konvensjonstateneutføre de oppgaver som konvensjonene ellers pålegger den.
+(1) Sentralmyndigheten skal:
+
+1. motta og formidle henvendelser etter konvensjonene
+2. samarbeide med sentralmyndighetene i konvensjonstatene
+3. utføre de oppgaver som konvensjonene ellers pålegger den.
 
 (2) Sentralmyndigheten kan, uten hinder av taushetsplikt, innhente fra Folkeregisteret de opplysninger som er nødvendige for utførelsen av oppgaver etter denne loven. Sentralmyndigheten skal også ha tilgang til opplysninger i registeret til utredning og produksjon av statistikk.
 
@@ -64,15 +68,29 @@ Loven gjelder for barn som ikke har fylt 16 år.
 
 ### § 7
 
-Anerkjennelse og fullbyrding av avgjørelse som nevnt i [§ 6](lov/1988-07-08-72/§6) skal ikke finne sted, dersom:dette vil være klart uforenlig med de grunnleggende prinsipper i norsk rett om familie og barns rettsforholdavgjørelsen på grunn av endrete forhold åpenbart ikke lenger er i samsvar med barnets beste. Som endrete forhold reknes blant annet den tid som har gått siden avgjørelsen ble truffet, men ikke bare endring som har skjedd i barnets oppholdssted etter den ulovlige bortføringbarnet på den tid saken ble reist for retten eller tatt under behandling av administrativt organ i opphavsstaten, var statsborger eller hadde bosted her i landet uten samtidig å ha noen slik tilknytning til opphavsstatenbarnet på den tid saken ble reist for retten eller tatt under behandling av administrativt organ i opphavsstaten, var statsborger både her i landet og i opphavsstaten og hadde sitt bosted her i landetbarnet ifølge loven i den stat hvor det er statsborger eller har bosted, har rett til selv å bestemme hvor det skal bo, elleravgjørelsen er uforenlig med en avgjørelse som er truffet her i landet i sak som er påbegynt før søknaden om anerkjennelse eller fullbyrding ble satt fram, og avslaget er i samsvar med barnets beste. En avgjørelse som er truffet i en tredje stat og som kan fullbyrdes her i landet, likestilles med avgjørelse truffet her i landet.
+Anerkjennelse og fullbyrding av avgjørelse som nevnt i [§ 6](lov/1988-07-08-72/§6) skal ikke finne sted, dersom:
+
+1. dette vil være klart uforenlig med de grunnleggende prinsipper i norsk rett om familie og barns rettsforhold
+2. avgjørelsen på grunn av endrete forhold åpenbart ikke lenger er i samsvar med barnets beste. Som endrete forhold reknes blant annet den tid som har gått siden avgjørelsen ble truffet, men ikke bare endring som har skjedd i barnets oppholdssted etter den ulovlige bortføring
+3. barnet på den tid saken ble reist for retten eller tatt under behandling av administrativt organ i opphavsstaten, var statsborger eller hadde bosted her i landet uten samtidig å ha noen slik tilknytning til opphavsstaten
+4. barnet på den tid saken ble reist for retten eller tatt under behandling av administrativt organ i opphavsstaten, var statsborger både her i landet og i opphavsstaten og hadde sitt bosted her i landet
+5. barnet ifølge loven i den stat hvor det er statsborger eller har bosted, har rett til selv å bestemme hvor det skal bo, eller
+6. avgjørelsen er uforenlig med en avgjørelse som er truffet her i landet i sak som er påbegynt før søknaden om anerkjennelse eller fullbyrding ble satt fram, og avslaget er i samsvar med barnets beste. En avgjørelse som er truffet i en tredje stat og som kan fullbyrdes her i landet, likestilles med avgjørelse truffet her i landet.
 
 ### § 8
 
-En avgjørelse i sak etter [§ 6](lov/1988-07-08-72/§6) som er truffet uten at saksøkte eller saksøktes juridiske representant var til stede, skal bare anerkjennes eller fullbyrdes når følgende vilkår er oppfylt:Saksøkte har fått forkynt stevning eller tilsvarende dokument med tilstrekkelig tid til å avgi tilsvar. Det kravet gjelder likevel ikke når årsaken til manglende eller forsinket forkynning er at saksøkte har holdt sitt oppholdssted hemmelig for motparten.Den myndighet som har truffet avgjørelsen, har bygd sin kompetanse enten på saksøktes bosted, på barnets foreldres siste felles bosted så lenge en av foreldrene fortsatt bor der, eller på barnets bosted.
+En avgjørelse i sak etter [§ 6](lov/1988-07-08-72/§6) som er truffet uten at saksøkte eller saksøktes juridiske representant var til stede, skal bare anerkjennes eller fullbyrdes når følgende vilkår er oppfylt:
+
+1. Saksøkte har fått forkynt stevning eller tilsvarende dokument med tilstrekkelig tid til å avgi tilsvar. Det kravet gjelder likevel ikke når årsaken til manglende eller forsinket forkynning er at saksøkte har holdt sitt oppholdssted hemmelig for motparten.
+2. Den myndighet som har truffet avgjørelsen, har bygd sin kompetanse enten på saksøktes bosted, på barnets foreldres siste felles bosted så lenge en av foreldrene fortsatt bor der, eller på barnets bosted.
 
 ### § 9
 
-(1) Behandlingen av sak om fullbyrding av en avgjørelse som nevnt i [§ 6](lov/1988-07-08-72/§6) kan stanses dersom:avgjørelsen blir overprøvet ved ordinært rettsmiddel i opphavsstatenrettssak om foreldreansvar eller samværsrett er reist og ennå ikke avsluttet her i landet før sak er reist i opphavsstatenspørsmålet om anerkjennelse eller fullbyrding av en annen avgjørelse om foreldreansvaret eller samværsretten samtidig behandles i en annen sak.
+(1) Behandlingen av sak om fullbyrding av en avgjørelse som nevnt i [§ 6](lov/1988-07-08-72/§6) kan stanses dersom:
+
+1. avgjørelsen blir overprøvet ved ordinært rettsmiddel i opphavsstaten
+2. rettssak om foreldreansvar eller samværsrett er reist og ennå ikke avsluttet her i landet før sak er reist i opphavsstaten
+3. spørsmålet om anerkjennelse eller fullbyrding av en annen avgjørelse om foreldreansvaret eller samværsretten samtidig behandles i en annen sak.
 
 (2) Stansing besluttes ved kjennelse. Saken settes i gang igjen ved kjennelse når stansingsgrunnen ikke lenger gjør stansingen berettiget.
 
@@ -86,11 +104,20 @@ I forbindelse med anerkjennelse og tvangsfullbyrding av samværsrett, jf [§ 6](
 
 (1) Barn som er ulovlig bortført til eller holdt tilbake her i landet, skal leveres tilbake straks dersom barnet umiddelbart før bortføringen eller tilbakeholdelsen hadde bosted i en stat som er tilsluttet Haag-konvensjonen.
 
-(2) Bortføring eller tilbakeholdelse er ulovlig dersom:bortføringen eller tilbakeholdelsen er i strid med rett til foreldreansvar som en person, en institusjon eller annen instans har, enten i fellesskap eller alene, ifølge loven i den stat der barnet hadde sitt bosted umiddelbart før bortføringen eller tilbakeholdelsen, ogforeldreansvaret faktisk ble utøvd på den tid bortføringen eller tilbakeholdelsen fant sted, eller ville ha blitt utøvd dersom bortføringen eller tilbakeholdelsen ikke hadde funnet sted.
+(2) Bortføring eller tilbakeholdelse er ulovlig dersom:
+
+1. bortføringen eller tilbakeholdelsen er i strid med rett til foreldreansvar som en person, en institusjon eller annen instans har, enten i fellesskap eller alene, ifølge loven i den stat der barnet hadde sitt bosted umiddelbart før bortføringen eller tilbakeholdelsen, og
+2. foreldreansvaret faktisk ble utøvd på den tid bortføringen eller tilbakeholdelsen fant sted, eller ville ha blitt utøvd dersom bortføringen eller tilbakeholdelsen ikke hadde funnet sted.
 
 ### § 12
 
-Tilbakelevering av barn etter [§ 11](lov/1988-07-08-72/§11) kan nektes dersom:det når begjæring om tilbakelevering ble framsatt for retten har gått minst ett år fra den ulovlige bortføring eller tilbakeholdelse fant sted, og barnet har funnet seg til rette i sitt nye miljødet er en alvorlig risiko for at tilbakelevering vil påføre barnet fysisk eller psykisk skade, eller på annen måte sette barnet i en stilling som ikke kan godtasbarnet selv motsetter seg tilbakeleveringen, og det har nådd en alder og modenhetsgrad som gjør det naturlig å ta hensyn til barnets meningden person, institusjon eller instans som hadde omsorgen for barnet, faktisk ikke utøvde retten til foreldreansvar på den tid da bortføringen eller tilbakeholdelsen fant sted, eller hadde samtykket i eller på et senere tidspunkt godtatt bortføringen eller tilbakeholdelsendet ikke er forenlig med grunnleggende prinsipper her i landet om vernet av menneskerettighetene å beslutte tilbakelevering.
+Tilbakelevering av barn etter [§ 11](lov/1988-07-08-72/§11) kan nektes dersom:
+
+1. det når begjæring om tilbakelevering ble framsatt for retten har gått minst ett år fra den ulovlige bortføring eller tilbakeholdelse fant sted, og barnet har funnet seg til rette i sitt nye miljø
+2. det er en alvorlig risiko for at tilbakelevering vil påføre barnet fysisk eller psykisk skade, eller på annen måte sette barnet i en stilling som ikke kan godtas
+3. barnet selv motsetter seg tilbakeleveringen, og det har nådd en alder og modenhetsgrad som gjør det naturlig å ta hensyn til barnets mening
+4. den person, institusjon eller instans som hadde omsorgen for barnet, faktisk ikke utøvde retten til foreldreansvar på den tid da bortføringen eller tilbakeholdelsen fant sted, eller hadde samtykket i eller på et senere tidspunkt godtatt bortføringen eller tilbakeholdelsen
+5. det ikke er forenlig med grunnleggende prinsipper her i landet om vernet av menneskerettighetene å beslutte tilbakelevering.
 
 > Endret ved [lover 10 jan 1992 nr. 6](lov/1992-01-10-6), [18 des 2015 nr. 126](lov/2015-12-18-126) (ikr. 1 jan 2016 iflg. [res. 18 des 2015 nr. 1625](forskrift/2015-12-18-1625)).
 
@@ -196,7 +223,15 @@ De medlemstater i Europarådet som har undertegnet denne konvensjon; Som erkjenn
 
 ### Art 1
 
-I denne konvensjon forstås med*barn:* en person av hvilken som helst nasjonalitet, så lenge han er under 16 år og ikke selv har rett til å bestemme hvor han skal bo ifølge loven i det land der han har sitt bosted, eller der han er statsborger, eller ifølge den interne lovgivning i mottakerstaten;*myndighet:* juridisk eller administrativ myndighet;*avgjørelse om foreldreansvar:* avgjørelse truffet av en myndighet, i den utstrekning avgjørelsen angår omsorgen for barnets person, herunder retten til å bestemme hvor barnet skal bo og retten til samvær med barnet;*ulovlig bortføring:* bortføring av et barn over en statsgrense i strid med en avgjørelse om foreldreansvar for barnet, som er truffet og kan fullbyrdes i en konvensjonstat; som ulovlig bortføring anses også:forsømmelse av å levere tilbake et barn over en statsgrense, når tiden for å utøve samværsrett med barnet er gått ut, eller når tiden er gått ut for et annet tilfeldig opphold i et annet område enn der foreldreansvaret utøves;bortføring som i etterhånd er erklært ulovlig som definert i artikkel 12.
+I denne konvensjon forstås med
+
+1. *barn:* en person av hvilken som helst nasjonalitet, så lenge han er under 16 år og ikke selv har rett til å bestemme hvor han skal bo ifølge loven i det land der han har sitt bosted, eller der han er statsborger, eller ifølge den interne lovgivning i mottakerstaten;
+2. *myndighet:* juridisk eller administrativ myndighet;
+3. *avgjørelse om foreldreansvar:* avgjørelse truffet av en myndighet, i den utstrekning avgjørelsen angår omsorgen for barnets person, herunder retten til å bestemme hvor barnet skal bo og retten til samvær med barnet;
+4. *ulovlig bortføring:* bortføring av et barn over en statsgrense i strid med en avgjørelse om foreldreansvar for barnet, som er truffet og kan fullbyrdes i en konvensjonstat; som ulovlig bortføring anses også:
+
+   1. forsømmelse av å levere tilbake et barn over en statsgrense, når tiden for å utøve samværsrett med barnet er gått ut, eller når tiden er gått ut for et annet tilfeldig opphold i et annet område enn der foreldreansvaret utøves;
+   2. bortføring som i etterhånd er erklært ulovlig som definert i artikkel 12.
 
 ### Del I. Sentralmyndigheter.
 
@@ -212,7 +247,11 @@ I denne konvensjon forstås med*barn:* en person av hvilken som helst nasjonalit
 
 (1) Sentralmyndighetene i konvensjonstatene skal samarbeide med hverandre og fremme samarbeidet mellom de kompetente myndigheter i sine respektive land. De skal utføre sine oppgaver uten unødvendig opphold.
 
-(2) For å lette gjennomføringen av denne konvensjon skal sentralmyndighetene i konvensjonstatene:påse at anmodninger om opplysninger videresendes, når disse anmodningene kommer fra kompetente myndigheter og angår rettslige eller faktiske spørsmål om verserende saker;etter anmodning gi hverandre opplysninger om sitt eget lands lover vedrørende foreldreansvar og endringer i disse lover;holde hverandre informert om de vansker som sannsynligvis vil oppstå ved anvendelsen av konvensjonen, og så vidt mulig, fjerne hindringen for anvendelsen.
+(2) For å lette gjennomføringen av denne konvensjon skal sentralmyndighetene i konvensjonstatene:
+
+1. påse at anmodninger om opplysninger videresendes, når disse anmodningene kommer fra kompetente myndigheter og angår rettslige eller faktiske spørsmål om verserende saker;
+2. etter anmodning gi hverandre opplysninger om sitt eget lands lover vedrørende foreldreansvar og endringer i disse lover;
+3. holde hverandre informert om de vansker som sannsynligvis vil oppstå ved anvendelsen av konvensjonen, og så vidt mulig, fjerne hindringen for anvendelsen.
 
 ### Art 4
 
@@ -228,7 +267,13 @@ I denne konvensjon forstås med*barn:* en person av hvilken som helst nasjonalit
 
 ### Art 5
 
-(1) Sentralmyndigheten i mottakerstaten skal uten opphold treffe eller la treffe alle bestemmelser som den anser formålstjenlige, om nødvendig ved å legge saken fram for statens kompetente myndigheter, for å:bringe på det rene hvor barnet befinner seg;unngå, særlig gjennom nødvendige førebels tiltak, at barnets eller søkerens interesser blir skadelidende;sikre anerkjennelse eller fullbyrding av avgjørelsen;sikre at barnet blir overlevert til søkeren når fullbyrding er oppnådd;informere den myndighet som sender søknaden om de tiltak som treffes og om resultatet av disse.
+(1) Sentralmyndigheten i mottakerstaten skal uten opphold treffe eller la treffe alle bestemmelser som den anser formålstjenlige, om nødvendig ved å legge saken fram for statens kompetente myndigheter, for å:
+
+1. bringe på det rene hvor barnet befinner seg;
+2. unngå, særlig gjennom nødvendige førebels tiltak, at barnets eller søkerens interesser blir skadelidende;
+3. sikre anerkjennelse eller fullbyrding av avgjørelsen;
+4. sikre at barnet blir overlevert til søkeren når fullbyrding er oppnådd;
+5. informere den myndighet som sender søknaden om de tiltak som treffes og om resultatet av disse.
 
 (2) Dersom sentralmyndigheten i mottakerstaten har grunn til å tro at barnet befinner seg innenfor området til en annen konvensjonstat, skal den direkte og uten opphold sende dokumentene til sentralmyndigheten i den staten.
 
@@ -238,7 +283,10 @@ I denne konvensjon forstås med*barn:* en person av hvilken som helst nasjonalit
 
 ### Art 6
 
-(1) Med forbehold for særskilte avtaler mellom de berørte sentralmyndigheter og for bestemmelsene i paragraf (3) i denne artikkel, skal;meddelelser til sentralmyndigheten i mottakerstaten skrives på det offisielle språk eller ett av de offisielle språk i mottakerstaten eller vedlegges en oversetting til det språket;sentralmyndigheten i mottakerstaten likevel godta meddelelser som er skrevet på engelsk eller fransk eller er vedlagt en oversettelse til ett av disse språk.
+(1) Med forbehold for særskilte avtaler mellom de berørte sentralmyndigheter og for bestemmelsene i paragraf (3) i denne artikkel, skal;
+
+1. meddelelser til sentralmyndigheten i mottakerstaten skrives på det offisielle språk eller ett av de offisielle språk i mottakerstaten eller vedlegges en oversetting til det språket;
+2. sentralmyndigheten i mottakerstaten likevel godta meddelelser som er skrevet på engelsk eller fransk eller er vedlagt en oversettelse til ett av disse språk.
 
 (2) Meddelelser fra sentralmyndigheten i mottakerstaten, herunder resultater av undersøkelser som er gjort, kan skrives på det offisielle språket eller ett av de offisielle språk i mottakerstaten eller på fransk eller engelsk.
 
@@ -254,7 +302,10 @@ En avgjørelse om foreldreansvar som er truffet i en konvensjonstat, skal anerkj
 
 ### Art 8
 
-(1) Når en ulovlig bortføring foreligger, skal sentralmyndigheten i mottakerstaten straks treffe tiltak for å gjenopprette foreldreansvaret, dersom:barnet og dets foreldre, på den tid da saken ble innledet i den stat der avgjørelsen ble truffet, eller på den tid da den ulovlige bortføringen fant sted, om dette var tidligere, var statsborgere bare i denne staten, og barnet hadde sitt bosted innenfor denne statens territorium, oganmodning om gjenopprettelse er innlevert hos en sentralmyndighet innen seks måneder fra den dag da den ulovlige bortføringen fant sted.
+(1) Når en ulovlig bortføring foreligger, skal sentralmyndigheten i mottakerstaten straks treffe tiltak for å gjenopprette foreldreansvaret, dersom:
+
+1. barnet og dets foreldre, på den tid da saken ble innledet i den stat der avgjørelsen ble truffet, eller på den tid da den ulovlige bortføringen fant sted, om dette var tidligere, var statsborgere bare i denne staten, og barnet hadde sitt bosted innenfor denne statens territorium, og
+2. anmodning om gjenopprettelse er innlevert hos en sentralmyndighet innen seks måneder fra den dag da den ulovlige bortføringen fant sted.
 
 (2) Dersom de krav som er angitt i paragraf (1) i denne artikkel ifølge mottakerstatens lov ikke kan oppfylles uten medvirkning fra en rettslig myndighet, kan ingen av de grunner for å nekte å tilbakelevere barnet som er angitt i denne konvensjon, påropes under de rettslige forhandlingene.
 
@@ -262,7 +313,15 @@ En avgjørelse om foreldreansvar som er truffet i en konvensjonstat, skal anerkj
 
 ### Art 9
 
-(1) I andre tilfelle av ulovlig bortføring enn de som er nevnt i artikkel 8, kan anerkjennelse og fullbyrding, når søknad er kommet inn til en sentralmyndighet innen seks måneder fra den dag da den ulovlige bortføringen fant sted, bare nektes dersom:avgjørelsen ble truffet uten at saksøkte eller dennes juridiske representant var til stede, og saksøkte ikke på korrekt måte er blitt meddelt det dokument som reiste saken, eller tilsvarende dokument, tidsnok til å ordne med sitt forsvar; en slik mangel på meddelelse kan likevel ikke legges til grunn for å nekte anerkjennelse eller fullbyrding når meddelelsen ikke har funnet sted fordi saksøkte har holdt sitt oppholdsted hemmelig for den person som har reist sak i opphavstaten;avgjørelsen ble meddelt uten at saksøkte og dennes juridiske representant var til stede, og den myndighet som utferdiget avgjørelsen, ikke bygde sin kompetanse på:saksøktes bosted, ellerdet bosted som barnets foreldre seinest hadde felles, så lenge en av foreldrene fortsatt bor der, ellerbarnets bosted;avgjørelsen er uforenlig med en avgjørelse om foreldreansvar som kunne fullbyrdes i mottakerstaten før barnet ble bortført, såframt ikke barnet hadde sitt bosted innenfor søkerstatens territorium i minst ett år før bortføringen fant sted.
+(1) I andre tilfelle av ulovlig bortføring enn de som er nevnt i artikkel 8, kan anerkjennelse og fullbyrding, når søknad er kommet inn til en sentralmyndighet innen seks måneder fra den dag da den ulovlige bortføringen fant sted, bare nektes dersom:
+
+1. avgjørelsen ble truffet uten at saksøkte eller dennes juridiske representant var til stede, og saksøkte ikke på korrekt måte er blitt meddelt det dokument som reiste saken, eller tilsvarende dokument, tidsnok til å ordne med sitt forsvar; en slik mangel på meddelelse kan likevel ikke legges til grunn for å nekte anerkjennelse eller fullbyrding når meddelelsen ikke har funnet sted fordi saksøkte har holdt sitt oppholdsted hemmelig for den person som har reist sak i opphavstaten;
+2. avgjørelsen ble meddelt uten at saksøkte og dennes juridiske representant var til stede, og den myndighet som utferdiget avgjørelsen, ikke bygde sin kompetanse på:
+
+   1. saksøktes bosted, eller
+   2. det bosted som barnets foreldre seinest hadde felles, så lenge en av foreldrene fortsatt bor der, eller
+   3. barnets bosted;
+3. avgjørelsen er uforenlig med en avgjørelse om foreldreansvar som kunne fullbyrdes i mottakerstaten før barnet ble bortført, såframt ikke barnet hadde sitt bosted innenfor søkerstatens territorium i minst ett år før bortføringen fant sted.
 
 (2) Dersom det ikke er sendt søknad til en sentralmyndighet, skal bestemmelsene i paragraf (1) i denne artikkel anvendes på samme måte når det anmodes om anerkjennelse og fullbyrding innen seks måneder fra den dato da den ulovlige bortføringen fant sted.
 
@@ -270,9 +329,21 @@ En avgjørelse om foreldreansvar som er truffet i en konvensjonstat, skal anerkj
 
 ### Art 10
 
-(1) I andre tilfelle enn de som er nevnt i artiklene 8 og 9, kan anerkjennelse og fullbyrding nektes ikke bare av de grunner som er fastsatt i artikkel 9, men også av en av følgende grunner:dersom det fastslås at følgene av avgjørelsen er klart uforenlige med de grunnleggende prinsipper i mottakerstatens lovgivning om familie og barn;dersom det fastslås at følgene av den opprinnelige avgjørelsen åpenbart ikke lenger er i samsvar med barnets beste, grunnet endrete forhold, herunder den tid som er gått, men ikke utelukkende endringen av barnets oppholdsted etter en ulovlig bortføring;dersom barnet på den tid da saken ble reist i opphavstaten:var statsborger i mottakerstaten eller hadde sitt bosted der og ikke hadde noen slik tilknytning til opphavstaten:var statsborger både i opphavstaten og i mottakerstaten og hadde sitt bosted i mottakerstaten:dersom avgjørelsen er uforenlig med en avgjørelse som er truffet i mottakerstaten eller med en avgjørelse som kan fullbyrdes i mottakerstaten etter å ha blitt truffet i en tredjestat, som følge av en sak som er reist før søknaden om anerkjennelse eller fullbyrding ble satt fram, og avslaget er i samsvar med barnets beste.
+(1) I andre tilfelle enn de som er nevnt i artiklene 8 og 9, kan anerkjennelse og fullbyrding nektes ikke bare av de grunner som er fastsatt i artikkel 9, men også av en av følgende grunner:
 
-(2) På samme vilkår kan saker vedrørende anerkjennelse og fullbyrding utsettes av en av følgende grunner:dersom den opprinnelige avgjørelsen er gjort til gjenstand for overprøving på vanlig måte;dersom rettssak vedrørende foreldreansvaret for barnet pågår i mottakerstaten og denne saken ble innledet før sak ble reist i opphavstaten;dersom en annen avgjørelse vedrørende foreldreansvaret for barnet er gjenstand for fullbyrding eller annen behandling som gjelder anerkjennelse av avgjørelsen.
+1. dersom det fastslås at følgene av avgjørelsen er klart uforenlige med de grunnleggende prinsipper i mottakerstatens lovgivning om familie og barn;
+2. dersom det fastslås at følgene av den opprinnelige avgjørelsen åpenbart ikke lenger er i samsvar med barnets beste, grunnet endrete forhold, herunder den tid som er gått, men ikke utelukkende endringen av barnets oppholdsted etter en ulovlig bortføring;
+3. dersom barnet på den tid da saken ble reist i opphavstaten:
+
+   1. var statsborger i mottakerstaten eller hadde sitt bosted der og ikke hadde noen slik tilknytning til opphavstaten:
+   2. var statsborger både i opphavstaten og i mottakerstaten og hadde sitt bosted i mottakerstaten:
+4. dersom avgjørelsen er uforenlig med en avgjørelse som er truffet i mottakerstaten eller med en avgjørelse som kan fullbyrdes i mottakerstaten etter å ha blitt truffet i en tredjestat, som følge av en sak som er reist før søknaden om anerkjennelse eller fullbyrding ble satt fram, og avslaget er i samsvar med barnets beste.
+
+(2) På samme vilkår kan saker vedrørende anerkjennelse og fullbyrding utsettes av en av følgende grunner:
+
+1. dersom den opprinnelige avgjørelsen er gjort til gjenstand for overprøving på vanlig måte;
+2. dersom rettssak vedrørende foreldreansvaret for barnet pågår i mottakerstaten og denne saken ble innledet før sak ble reist i opphavstaten;
+3. dersom en annen avgjørelse vedrørende foreldreansvaret for barnet er gjenstand for fullbyrding eller annen behandling som gjelder anerkjennelse av avgjørelsen.
 
 ### Art 11
 
@@ -290,7 +361,14 @@ Dersom det, på den tid da barnet ble bortført over en statsgrense, ikke forel�
 
 ### Art 13
 
-(1) Anmodning om anerkjennelse eller fullbyrding i en annen konvensjonstat av et vedtak om foreldreansvar skal være vedlagt:et dokument som gir sentralmyndigheten i mottakerstaten fullmakt til å opptre på søkerens vegne eller til å utpeke en annen representant for dette formål;en kopi av avgjørelsen som oppfyller de nødvendige vilkår for at dokumentet skal anses for autentisk;når vedtaket er truffet uten at saksøkte eller dennes juridiske representant har vært til stede, et dokument som viser at saksøkte på tilbørlig måte er blitt meddelt det dokument som reiste saken eller et tilsvarende dokument;i forekommende tilfelle, et dokument som viser at avgjørelsen kan fullbyrdes ifølge loven i opphavstaten;om mulig, en redegjørelse om hvor barnet befinner seg eller trolig befinner seg i mottakerstaten;forslag om hvordan foreldreansvaret for barnet bør gjenopprettes.
+(1) Anmodning om anerkjennelse eller fullbyrding i en annen konvensjonstat av et vedtak om foreldreansvar skal være vedlagt:
+
+1. et dokument som gir sentralmyndigheten i mottakerstaten fullmakt til å opptre på søkerens vegne eller til å utpeke en annen representant for dette formål;
+2. en kopi av avgjørelsen som oppfyller de nødvendige vilkår for at dokumentet skal anses for autentisk;
+3. når vedtaket er truffet uten at saksøkte eller dennes juridiske representant har vært til stede, et dokument som viser at saksøkte på tilbørlig måte er blitt meddelt det dokument som reiste saken eller et tilsvarende dokument;
+4. i forekommende tilfelle, et dokument som viser at avgjørelsen kan fullbyrdes ifølge loven i opphavstaten;
+5. om mulig, en redegjørelse om hvor barnet befinner seg eller trolig befinner seg i mottakerstaten;
+6. forslag om hvordan foreldreansvaret for barnet bør gjenopprettes.
 
 (2) Ovennevnte dokumenter skal om nødvendig vedlegges en oversetting i samsvar med bestemmelsene i artikkel 6.
 
@@ -300,7 +378,10 @@ Enhver konvensjonstat skal anvende en enkel og rask framgangsmåte når det gjel
 
 ### Art 15
 
-(1) Før vedkommende myndighet i mottakerstaten treffer en beslutning i henhold til paragraf (1)(b) i artikkel 10:skal den bringe barnets mening på det rene, når dette ikke er praktisk umulig, særlig på grunn av barnets alder og modenhet; ogkan den kreve at andre hensiktsmessige undersøkelser blir foretatt.
+(1) Før vedkommende myndighet i mottakerstaten treffer en beslutning i henhold til paragraf (1)(b) i artikkel 10:
+
+1. skal den bringe barnets mening på det rene, når dette ikke er praktisk umulig, særlig på grunn av barnets alder og modenhet; og
+2. kan den kreve at andre hensiktsmessige undersøkelser blir foretatt.
 
 (2) Kostnader for undersøkelser som er foretatt i en konvensjonstat, skal dekkes av staten der undersøkelsene ble gjort.
 
@@ -372,7 +453,10 @@ Denne konvensjon er åpen for undertegning av medlemstatene i Europarådet. Den 
 
 ### Art 26
 
-(1) Når det gjelder stater som i spørsmål vedrørende foreldreansvar for barn har to eller flere rettssystemer med hensyn til territorial anvendelse, skal:henvisning til loven om en persons bosted eller statsborgerskap forstås som henvisning til det rettssystem som er fastsatt ved gjeldende regler i staten, eller, dersom det ikke eksisterer slike regler, til det system som den person det gjelder, har sterkest tilknytning til;henvisning til opphavstaten eller mottakerstaten forstås, alt etter tilhøva, som henvisning til den territoriale enhet der vedtaket ble truffet, eller til den territoriale enhet der det ble anmodet om anerkjennelse eller fullbyrding av vedtaket eller om gjenoppretting av foreldreansvar.
+(1) Når det gjelder stater som i spørsmål vedrørende foreldreansvar for barn har to eller flere rettssystemer med hensyn til territorial anvendelse, skal:
+
+1. henvisning til loven om en persons bosted eller statsborgerskap forstås som henvisning til det rettssystem som er fastsatt ved gjeldende regler i staten, eller, dersom det ikke eksisterer slike regler, til det system som den person det gjelder, har sterkest tilknytning til;
+2. henvisning til opphavstaten eller mottakerstaten forstås, alt etter tilhøva, som henvisning til den territoriale enhet der vedtaket ble truffet, eller til den territoriale enhet der det ble anmodet om anerkjennelse eller fullbyrding av vedtaket eller om gjenoppretting av foreldreansvar.
 
 (2) Paragraf (1) punkt (a) i denne artikkel skal likeledes anvendes med de nødvendige endringer, i forhold til stater som i spørsmål vedrørende foreldreansvar for barn har to eller flere rettssystemer med hensyn til anvendelse på personer.
 
@@ -394,9 +478,16 @@ Etter utgangen av det tredje året som følger etter den dag da denne konvensjon
 
 ### Art 30
 
-(1) Generalsekretæren i Europarådet skal underrette medlemstatene i Europarådet og alle stater som har sluttet seg til denne konvensjon om:undertegning:deponering av ratifikasjons-, vedtakelses-, godkjennings- og tiltredingsdokumenter;dato for ikrafttreden av konvensjonen i samsvar med artiklene 22, 23, 24 og 25;andre dokumenter, meldinger eller underretninger som gjelder konvensjonen.
+(1) Generalsekretæren i Europarådet skal underrette medlemstatene i Europarådet og alle stater som har sluttet seg til denne konvensjon om:
 
-(2) Til bekreftelse av foranstående har de undertegnete med behørig fullmakt undertegnet denne konvensjon.Utferdiget i Luxembourg 20 mai 1980 på fransk og engelsk, idet de to tekstene har samme gyldighet, i ett eksemplar – – –
+1. undertegning:
+2. deponering av ratifikasjons-, vedtakelses-, godkjennings- og tiltredingsdokumenter;
+3. dato for ikrafttreden av konvensjonen i samsvar med artiklene 22, 23, 24 og 25;
+4. andre dokumenter, meldinger eller underretninger som gjelder konvensjonen.
+
+(2) Til bekreftelse av foranstående har de undertegnete med behørig fullmakt undertegnet denne konvensjon.
+
+Utferdiget i Luxembourg 20 mai 1980 på fransk og engelsk, idet de to tekstene har samme gyldighet, i ett eksemplar – – –
 
 ## Konvensjon av 25 oktober 1980 om de sivile sider ved internasjonal barnebortføring.1
 
@@ -408,7 +499,10 @@ De stater som har undertegnet denne konvensjon; Som er av den faste overbevisnin
 
 ### Art 1
 
-Formålet med denne konvensjon er –å sikre umiddelbar tilbakelevering av barn som er ulovlig bortført til eller ulovlig holdt tilbake i en konvensjonstat; ogå sørge for at rett til foreldreansvar og rett til samvær i en konvensjonstat effektivt respekteres i andre konvensjonstater.
+Formålet med denne konvensjon er –
+
+1. å sikre umiddelbar tilbakelevering av barn som er ulovlig bortført til eller ulovlig holdt tilbake i en konvensjonstat; og
+2. å sørge for at rett til foreldreansvar og rett til samvær i en konvensjonstat effektivt respekteres i andre konvensjonstater.
 
 ### Art 2
 
@@ -416,7 +510,10 @@ Konvensjonstatene skal treffe alle nødvendige tiltak for å sikre at formålet 
 
 ### Art 3
 
-(1) Bortføring eller tilbakeholdelse av et barn skal anses som ulovlig når:den er i strid med en rett til foreldreansvar som er tilkjent en person, en institusjon eller en annen instans, enten i fellesskap eller alene, ifølge loven i den stat der barnet hadde sitt bosted umiddelbart før bortføringen eller tilbakeholdelsen; og;denne rett faktisk ble utøvd, i fellesskap eller alene, på det tidspunkt da bortføringen eller tilbakeholdelsen fant sted, eller ville ha blitt utøvd dersom ikke bortføringen eller tilbakeholdelsen hadde funnet sted.
+(1) Bortføring eller tilbakeholdelse av et barn skal anses som ulovlig når:
+
+1. den er i strid med en rett til foreldreansvar som er tilkjent en person, en institusjon eller en annen instans, enten i fellesskap eller alene, ifølge loven i den stat der barnet hadde sitt bosted umiddelbart før bortføringen eller tilbakeholdelsen; og;
+2. denne rett faktisk ble utøvd, i fellesskap eller alene, på det tidspunkt da bortføringen eller tilbakeholdelsen fant sted, eller ville ha blitt utøvd dersom ikke bortføringen eller tilbakeholdelsen hadde funnet sted.
 
 (2) Retten til foreldreansvar som nevnt i bokstav (a) kan i første rekke være et resultat av lovgivning eller av et juridisk eller administrativt vedtak, men også av en overenskomst med rettslig gyldighet i henhold til loven i den staten.
 
@@ -426,7 +523,10 @@ Konvensjonen skal anvendes på alle barn som hadde sitt bosted i en konvensjonst
 
 ### Art 5
 
-I denne konvensjon skal:«rett til foreldreansvar» omfatte retten til omsorg for barnets person og særlig retten til å bestemme hvor barnet skal bo;«samværsrett» omfatte retten til å bringe barnet til et annet sted enn der hvor barnet har sitt bosted for en begrenset tidsperiode.
+I denne konvensjon skal:
+
+1. «rett til foreldreansvar» omfatte retten til omsorg for barnets person og særlig retten til å bestemme hvor barnet skal bo;
+2. «samværsrett» omfatte retten til å bringe barnet til et annet sted enn der hvor barnet har sitt bosted for en begrenset tidsperiode.
 
 ### Kapittel II. Sentralmyndigheter.
 
@@ -440,7 +540,17 @@ I denne konvensjon skal:«rett til foreldreansvar» omfatte retten til omsorg fo
 
 (1) Sentralmyndighetene skal samarbeide med hverandre og fremme samarbeidet mellom de kompetente myndigheter i sine respektive stater for å sikre at barn umiddelbart blir levert tilbake og for å nå de øvrige mål som er satt i denne konvensjon.
 
-(2) De skal særlig, enten direkte eller ved hjelp av mellommann, treffe alle nødvendige tiltak:for å finne ut hvor et barn befinner seg som er blitt ulovlig bortført eller holdt tilbake;for å hindre ved midlertidige forholdsregler at barnet kommer ytterligere til skade eller at berørte parter blir skadelidende;for å sikre at barnet leveres tilbake frivillig eller for å få i stand en minnelig løsning;for å utveksle opplysninger om barnets sosiale bakgrunn, dersom dette er ønskelig;for å skaffe til veie generelle opplysninger om den lovgivning i egen stat som vedrører anvendelsen av konvensjonen;for å innlede rettslige eller administrative forhandlinger, eller for å fremme at slike forhandlinger kommer i stand, i den hensikt å få barnet tilbakelevert og, om nødvendig, å organisere eller sikre reell utøving av samværsretten;for, om nødvendig, å sørge for at det oppnås, eller for å gjøre det lettere å oppnå, juridisk hjelp og rådgivning, herunder medvirkning av advokat;for å sikre, ved de administrative forholdsregler som måtte være nødvendige og hensiktsmessige, at barnet leveres trygt tilbake;for å holde hverandre underrettet om hvordan konvensjonen virker og, så langt mulig, for å fjerne hindringer for anvendelsen av konvensjonen.
+(2) De skal særlig, enten direkte eller ved hjelp av mellommann, treffe alle nødvendige tiltak:
+
+1. for å finne ut hvor et barn befinner seg som er blitt ulovlig bortført eller holdt tilbake;
+2. for å hindre ved midlertidige forholdsregler at barnet kommer ytterligere til skade eller at berørte parter blir skadelidende;
+3. for å sikre at barnet leveres tilbake frivillig eller for å få i stand en minnelig løsning;
+4. for å utveksle opplysninger om barnets sosiale bakgrunn, dersom dette er ønskelig;
+5. for å skaffe til veie generelle opplysninger om den lovgivning i egen stat som vedrører anvendelsen av konvensjonen;
+6. for å innlede rettslige eller administrative forhandlinger, eller for å fremme at slike forhandlinger kommer i stand, i den hensikt å få barnet tilbakelevert og, om nødvendig, å organisere eller sikre reell utøving av samværsretten;
+7. for, om nødvendig, å sørge for at det oppnås, eller for å gjøre det lettere å oppnå, juridisk hjelp og rådgivning, herunder medvirkning av advokat;
+8. for å sikre, ved de administrative forholdsregler som måtte være nødvendige og hensiktsmessige, at barnet leveres trygt tilbake;
+9. for å holde hverandre underrettet om hvordan konvensjonen virker og, så langt mulig, for å fjerne hindringer for anvendelsen av konvensjonen.
 
 ### Kapittel III. Tilbakelevering av barn.
 
@@ -448,9 +558,18 @@ I denne konvensjon skal:«rett til foreldreansvar» omfatte retten til omsorg fo
 
 (1) En person, en institusjon eller en instans som hevder at et barn er bortført eller holdt tilbake i strid med retten til foreldreansvar, kan søke enten sentralmyndigheten i den stat der barnet har sitt bosted eller sentralmyndigheten i enhver annen konvensjonstat om bistand for å sikre at barnet blir levert tilbake.
 
-(2) Søknaden skal inneholde:opplysninger om søkerens og barnets identitet og om den persons identitet som påstås å ha bortført eller holdt tilbake barnet;barnets fødselsdato, dersom denne er tilgjengelig;de grunner som søkeren påroper for å få tilbake barnet;alle tilgjengelige opplysninger om hvor barnet befinner seg og om identiteten til den person som barnet antas å befinne seg hos.
+(2) Søknaden skal inneholde:
 
-(3) Søknaden kan kompletteres med eller vedlegges:en bekreftet kopi av alle relevante vedtak eller avtaler;en attest eller erklæring, bekreftet av en sentralmyndighet eller annen kompetent myndighet i den stat der barnet har sitt bosted eller av en kompetent person, vedrørende statens lover på området;alle andre relevante dokumenter.
+1. opplysninger om søkerens og barnets identitet og om den persons identitet som påstås å ha bortført eller holdt tilbake barnet;
+2. barnets fødselsdato, dersom denne er tilgjengelig;
+3. de grunner som søkeren påroper for å få tilbake barnet;
+4. alle tilgjengelige opplysninger om hvor barnet befinner seg og om identiteten til den person som barnet antas å befinne seg hos.
+
+(3) Søknaden kan kompletteres med eller vedlegges:
+
+1. en bekreftet kopi av alle relevante vedtak eller avtaler;
+2. en attest eller erklæring, bekreftet av en sentralmyndighet eller annen kompetent myndighet i den stat der barnet har sitt bosted eller av en kompetent person, vedrørende statens lover på området;
+3. alle andre relevante dokumenter.
 
 ### Art 9
 
@@ -476,7 +595,10 @@ Sentralmyndigheten i den stat der barnet befinner seg, skal treffe eller la tref
 
 ### Art 13
 
-(1) Uansett bestemmelsene i foregående artikkel plikter ikke den juridiske eller administrative myndighet i mottakerstaten å påby tilbakelevering av barnet dersom den person, institusjon eller instans som motsetter seg tilbakelevering, påviser at:den person, institusjon eller instans som hadde omsorgen for barnets person, faktisk ikke utøvde retten til foreldreansvar på den tid da bortføringen eller tilbakeholdelsen fant sted, eller hadde samtykt i eller på et seinere tidspunkt godtatt bortføringen eller tilbakeholdelsen; ellerdet er en alvorlig risiko for at tilbakelevering vil påføre barnet fysisk eller psykisk skade, eller på annen måte sette barnet i en situasjon som ikke kan godtas.
+(1) Uansett bestemmelsene i foregående artikkel plikter ikke den juridiske eller administrative myndighet i mottakerstaten å påby tilbakelevering av barnet dersom den person, institusjon eller instans som motsetter seg tilbakelevering, påviser at:
+
+1. den person, institusjon eller instans som hadde omsorgen for barnets person, faktisk ikke utøvde retten til foreldreansvar på den tid da bortføringen eller tilbakeholdelsen fant sted, eller hadde samtykt i eller på et seinere tidspunkt godtatt bortføringen eller tilbakeholdelsen; eller
+2. det er en alvorlig risiko for at tilbakelevering vil påføre barnet fysisk eller psykisk skade, eller på annen måte sette barnet i en situasjon som ikke kan godtas.
 
 (2) Den juridiske eller administrative myndighet kan også nekte å påby tilbakelevering av barnet dersom den finner at barnet motsetter seg tilbakelevering og barnet har nådd en alder og modenhetsgrad som gjør det naturlig å ta hensyn til barnets mening.
 
@@ -572,7 +694,10 @@ Enhver søknad som leveres inn til en sentralmyndighet eller direkte til de juri
 
 ### Art 31
 
-Når det gjelder stater som i spørsmål om foreldreansvar for barn har to eller flere rettssystemer som anvendes innenfor forskjellige territoriale enheter, skal:enhver henvisning til bosted i den staten anses som bosted innenfor en territorial enhet i den staten;enhver henvisning til loven til bostedstaten anses som loven i den territoriale enhet der barnet har sitt bosted i den staten.
+Når det gjelder stater som i spørsmål om foreldreansvar for barn har to eller flere rettssystemer som anvendes innenfor forskjellige territoriale enheter, skal:
+
+1. enhver henvisning til bosted i den staten anses som bosted innenfor en territorial enhet i den staten;
+2. enhver henvisning til loven til bostedstaten anses som loven i den territoriale enhet der barnet har sitt bosted i den staten.
 
 ### Art 32
 
@@ -644,7 +769,10 @@ Dersom en konvensjonstat har en styringsform der den utøvede, dømmende og lovg
 
 (1) Konvensjonen trer i kraft den første dagen i den tredje kalendermåned etter den dag da det tredje ratifikasjons-, vedtakelses-, godkjennings- eller tiltredingsdokumenter ble deponert i henhold til artiklene 37 og 38.
 
-(2) Deretter trer konvensjonen i kraft:når det gjelder enhver stat som ratifiserer, vedtar, godkjenner eller tiltrer konvensjonen på et seinere tidspunkt, den første dagen i den tredje kalendermåned etter den dag da statens ratifikasjons-, vedtakelses-, godkjennings- eller tiltredingsdokument ble deponert;når det gjelder territorier eller territoriale enheter som konvensjonens anvendelse er utvidet til i henhold til artikkel 39 eller 40, den første dagen i den tredje kalendermåned etter at den meddelelse er avgitt som er nevnt i disse artiklene.
+(2) Deretter trer konvensjonen i kraft:
+
+1. når det gjelder enhver stat som ratifiserer, vedtar, godkjenner eller tiltrer konvensjonen på et seinere tidspunkt, den første dagen i den tredje kalendermåned etter den dag da statens ratifikasjons-, vedtakelses-, godkjennings- eller tiltredingsdokument ble deponert;
+2. når det gjelder territorier eller territoriale enheter som konvensjonens anvendelse er utvidet til i henhold til artikkel 39 eller 40, den første dagen i den tredje kalendermåned etter at den meddelelse er avgitt som er nevnt i disse artiklene.
 
 ### Art 44
 
@@ -670,7 +798,13 @@ Utenriksdepartementet i kongeriket Nederland skal underrette konferansens medlem
 
 6\. forbehold som nevnt i artikkel 24 og artikkel 26 paragraf (3), og tilbaketrekking av forbehold som nevnt i artikkel 42;
 
-7\. oppsiing som nevnt i artikkel 44.Til bekreftelse av foranstående har undertegnete med behørig fullmakt undertegnet denne konvensjon.Utferdiget i Haag 25 oktober 1980 på fransk og engelsk, idet de to tekstene har samme gyldighet, i ett eksemplar – – –Den fjortende sesjon anbefaler de stater som er parter i Konvensjonen om de sivile sider ved internasjonal barnebortføring å bruke det mønster til blankett som følger nedenfor ved søknader om tilbakelevering av barn som er ulovlig bortført eller holdt tilbake:
+7\. oppsiing som nevnt i artikkel 44.
+
+Til bekreftelse av foranstående har undertegnete med behørig fullmakt undertegnet denne konvensjon.
+
+Utferdiget i Haag 25 oktober 1980 på fransk og engelsk, idet de to tekstene har samme gyldighet, i ett eksemplar – – –
+
+Den fjortende sesjon anbefaler de stater som er parter i Konvensjonen om de sivile sider ved internasjonal barnebortføring å bruke det mønster til blankett som følger nedenfor ved søknader om tilbakelevering av barn som er ulovlig bortført eller holdt tilbake:
 
 ### Søknad om tilbakelevering
 

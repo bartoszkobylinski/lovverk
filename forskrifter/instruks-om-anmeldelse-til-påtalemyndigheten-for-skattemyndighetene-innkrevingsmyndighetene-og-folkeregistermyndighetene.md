@@ -44,7 +44,12 @@ Den som tross pålegg fra en alminnelig eller særskilt namsmyndighet unnlater �
 
 ### 3.2. Anmeldelse etter [straffeloven § 202](lov/2005-05-20-28/§202) (identitetskrenkelse)
 
-Den som uberettiget setter seg i besittelse av en annens identitetsbevis, eller opptrer med en annens identitet eller med en identitet som er lett å forveksle med en annens identitet, med forsett om åoppnå en uberettiget vinning for seg eller en annen, ellerpåføre en annen tap eller ulempeanmeldes når skadevirkningene for det offentlige eller andre grunner tilsier det.
+Den som uberettiget setter seg i besittelse av en annens identitetsbevis, eller opptrer med en annens identitet eller med en identitet som er lett å forveksle med en annens identitet, med forsett om å
+
+1. oppnå en uberettiget vinning for seg eller en annen, eller
+2. påføre en annen tap eller ulempe
+
+anmeldes når skadevirkningene for det offentlige eller andre grunner tilsier det.
 
 ### 3.3. Anmeldelse etter [straffeloven § 221 første ledd bokstav c](lov/2005-05-20-28/§221/ledd/1/bokstav/c) (uriktig forklaring til offentlig myndighet)
 
@@ -58,11 +63,21 @@ Anmeldelse forbeholdes grove eller gjentatte tilfeller av uriktig forklaring.
 
 Den som rettsstridig forføyer over forskuddstrekk eller skattetrekk han har innfordret for skattekontoret anmeldes når underslaget utgjør et betydelig beløp.
 
-Selv om unndragelsene ikke utgjør et betydelig beløp, kan anmeldelse likevel foretas etter en samlet vurdering av lovbruddet. Det skal da særlig legges vekt på om:underslaget har pågått over lengre tid,det er begått ved brudd på en særlig tillit som følger med en stilling, et verv eller oppdrag, ellerdet er ført eller utarbeidet uriktige regnskaper eller uriktig regnskapsdokumentasjon.
+Selv om unndragelsene ikke utgjør et betydelig beløp, kan anmeldelse likevel foretas etter en samlet vurdering av lovbruddet. Det skal da særlig legges vekt på om:
+
+- underslaget har pågått over lengre tid,
+- det er begått ved brudd på en særlig tillit som følger med en stilling, et verv eller oppdrag, eller
+- det er ført eller utarbeidet uriktige regnskaper eller uriktig regnskapsdokumentasjon.
 
 ### 3.5. Anmeldelse etter [straffeloven § 361](lov/2005-05-20-28/§361) (dokumentfalsk)
 
-Den somettergjør eller forfalsker et dokument, eller anskaffer et ettergjort eller forfalsket dokument med forsett om å bruke det eller la det fremstå som ekte eller uforfalsket,rettsstridig bruker et dokument som nevnt i bokstav a og lar det fremstå som ekte eller uforfalsket ellerutsteder et dokument og uriktig tillegger seg en stilling som er av vesentlig betydning for dokumentets bevisverdi, og lar dokumentet fremstå som riktiganmeldes når skadevirkningene for det offentlige eller andre grunner tilsier det.
+Den som
+
+1. ettergjør eller forfalsker et dokument, eller anskaffer et ettergjort eller forfalsket dokument med forsett om å bruke det eller la det fremstå som ekte eller uforfalsket,
+2. rettsstridig bruker et dokument som nevnt i bokstav a og lar det fremstå som ekte eller uforfalsket eller
+3. utsteder et dokument og uriktig tillegger seg en stilling som er av vesentlig betydning for dokumentets bevisverdi, og lar dokumentet fremstå som riktig
+
+anmeldes når skadevirkningene for det offentlige eller andre grunner tilsier det.
 
 Hvis forholdet gjelder mindre dokumentfalsk, jf. [straffeloven § 362](lov/2005-05-20-28/§362), skal det ikke inngis anmeldelse med mindre hensynet til det offentlige eller andre grunner tilsier det.
 
@@ -82,7 +97,12 @@ Den, som til forberedelse av dokumentfalsk tilvirker, erverver, innfører, utfø
 
 Den som fremkaller, styrker eller utnytter en villfarelse og derved rettsstridig forleder noen til å gjøre eller unnlate noe som volder tap eller fare for tap for noen, eller bruker uriktig eller ufullstendig opplysning, endrer data eller datasystem, disponerer over et kredittkort eller debetkort som tilhører en annen, eller på annen måte uberettiget påvirker resultatet av en automatisert databehandling, og derved volder tap eller fare for tap anmeldes for bedrageri når det foreligger betydelig økonomisk skade for det offentlige.
 
-Selv om unndragelsene ikke utgjør betydelig økonomisk skade, kan anmeldelse likevel foretas etter en samlet vurdering av lovbruddet. Det skal da særlig legges vekt på om:det er begått ved flere anledninger eller over lengre tid,det er begått av flere i fellesskap eller har et systematisk eller organisert preg,lovbryteren har foregitt eller misbrukt stilling, verv eller oppdrag,det er ført eller utarbeidet uriktige regnskaper eller uriktig regnskapsdokumentasjon.
+Selv om unndragelsene ikke utgjør betydelig økonomisk skade, kan anmeldelse likevel foretas etter en samlet vurdering av lovbruddet. Det skal da særlig legges vekt på om:
+
+- det er begått ved flere anledninger eller over lengre tid,
+- det er begått av flere i fellesskap eller har et systematisk eller organisert preg,
+- lovbryteren har foregitt eller misbrukt stilling, verv eller oppdrag,
+- det er ført eller utarbeidet uriktige regnskaper eller uriktig regnskapsdokumentasjon.
 
 ### 3.10. Anmeldelse etter [straffeloven §§ 378](lov/2005-05-20-28/§378)–380 (skattesvik mv.)
 
@@ -90,7 +110,11 @@ Selv om unndragelsene ikke utgjør betydelig økonomisk skade, kan anmeldelse li
 
 Den som gir skattekontoret uriktige eller ufullstendige opplysninger som omfattes av bestemmelsene om skattesvik i [straffeloven § 378](lov/2005-05-20-28/§378), jf. [§§ 379](lov/2005-05-20-28/§379) og [380](lov/2005-05-20-28/§380) og som forstår eller bør forstå at det kan føre til skattemessige fordeler skal som hovedregel anmeldes når de skatte- eller avgiftsmessige fordeler utgjør et betydelig beløp.
 
-Selv om unndragelsene ikke utgjør et betydelig beløp, kan anmeldelse likevel foretas etter en samlet vurdering av lovbruddet. Det skal da særlig legges vekt på om unndragelsen er søkt gjennomført:på en planmessig måte,ved handlinger utført på en måte som i særlig grad har vanskeliggjort oppdagelsen, ellerved misbruk av stilling eller tillitsforhold.
+Selv om unndragelsene ikke utgjør et betydelig beløp, kan anmeldelse likevel foretas etter en samlet vurdering av lovbruddet. Det skal da særlig legges vekt på om unndragelsen er søkt gjennomført:
+
+- på en planmessig måte,
+- ved handlinger utført på en måte som i særlig grad har vanskeliggjort oppdagelsen, eller
+- ved misbruk av stilling eller tillitsforhold.
 
 Foreligger det spesielle formildende omstendigheter, kan de skatte- eller avgiftsmessige fordeler utgjøre et høyere beløp før forholdet anmeldes.
 

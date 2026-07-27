@@ -15,7 +15,7 @@ xml_hash: "e76c4c9adf9a4cdb579d4875b45c1b6bbaece0b82ca3749352568ce94e4b504e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -137,7 +137,12 @@ Med tillatelse menes i denne forskrift enhver godkjenning, verifikasjon, deklara
 
 (6) Årsgebyret dekker en periode på tolv måneder fra kalenderårets begynnelse. Årsgebyr betales etter de rettigheter som er registrert i Norges Luftsportforbund og Norges luftfartøyregister per 1. januar og etter gebyrsatser som fastsatt i denne forskrift.
 
-(7) Ved første gangs betaling av årsgebyr skal gebyretved utstedelse i første kvartal være 4/4 av årsgebyretved utstedelse i annet kvartal være 3/4 av årsgebyretved utstedelse i tredje kvartal være 2/4 av årsgebyretved utstedelse i fjerde kvartal være 1/4 av årsgebyret.
+(7) Ved første gangs betaling av årsgebyr skal gebyret
+
+1. ved utstedelse i første kvartal være 4/4 av årsgebyret
+2. ved utstedelse i annet kvartal være 3/4 av årsgebyret
+3. ved utstedelse i tredje kvartal være 2/4 av årsgebyret
+4. ved utstedelse i fjerde kvartal være 1/4 av årsgebyret.
 
 ## Kapittel III. Avsluttende bestemmelser
 

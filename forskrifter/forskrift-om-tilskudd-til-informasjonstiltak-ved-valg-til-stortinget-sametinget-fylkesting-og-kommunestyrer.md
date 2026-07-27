@@ -24,19 +24,41 @@ eu_basis: []
 
 ## § 1. Formålet med tilskuddsordningen
 
-Tilskuddet skal bidra til åøke stemmeberettigedes kunnskap om stortingsvalg, sametingsvalg og kommunestyre- og fylkestingsvalgøke valgdeltakelsenstøtte tiltak rettet mot stemmeberettigede med lav valgdeltakelse, som unge velgere, velgere med innvandrerbakgrunn og velgere med behov for særskilt informasjon.
+Tilskuddet skal bidra til å
+
+1. øke stemmeberettigedes kunnskap om stortingsvalg, sametingsvalg og kommunestyre- og fylkestingsvalg
+2. øke valgdeltakelsen
+3. støtte tiltak rettet mot stemmeberettigede med lav valgdeltakelse, som unge velgere, velgere med innvandrerbakgrunn og velgere med behov for særskilt informasjon.
 
 ## § 2. Hvem som kan gis tilskudd og hva det kan gis tilskudd til
 
 Det kan gis tilskudd til organisasjoner registrert i Enhetsregisteret, men ikke til politiske partier. Frivillige organisasjoner må i tillegg være registrert i Frivillighetsregisteret.
 
-Det kan gis tilskudd til partipolitisk nøytrale informasjonstiltak som er egnet til å oppfylle formålet i [§ 1](forskrift/2020-10-13-2034/§1), som for eksempelkonferanserkampanjerinternettsiderproduksjon og distribusjon av trykksakeraudovisuelle produksjonerkulturtiltaknettverksarbeid.
+Det kan gis tilskudd til partipolitisk nøytrale informasjonstiltak som er egnet til å oppfylle formålet i [§ 1](forskrift/2020-10-13-2034/§1), som for eksempel
+
+1. konferanser
+2. kampanjer
+3. internettsider
+4. produksjon og distribusjon av trykksaker
+5. audovisuelle produksjoner
+6. kulturtiltak
+7. nettverksarbeid.
 
 ## § 3. Krav til søknaden
 
 Søker skal benytte elektronisk søknadsskjema som finnes på Valgdirektoratets nettsider. Søknaden skal sendes inn innen 15. november året før det gjennomføres valg.
 
-Søknaden skaloppgi organisasjonens navn, adresse, organisasjonsnummer, telefonnummer, e-postadresse, kontonummer og kontaktperson for søknadenangi hva søkeren vil oppnå med tiltaket og forventet resultatangi hvem tiltaket rettes mot og det geografiske området for tiltaketbeskrive hvilke tiltak og aktiviteter det søkes midler for å gjennomføreangi en plan for gjennomføringen av tiltaket med virkemidler og tidsrammerangi beløp det søkes omoppgi søkerens egenandeloppgi beløp søkeren har søkt om fra andre offentlige myndigheter eller fra andre finansieringskilderinneholde budsjett for tiltaket og aktivitetsplan som viser når kostnadene oppstår.
+Søknaden skal
+
+1. oppgi organisasjonens navn, adresse, organisasjonsnummer, telefonnummer, e-postadresse, kontonummer og kontaktperson for søknaden
+2. angi hva søkeren vil oppnå med tiltaket og forventet resultat
+3. angi hvem tiltaket rettes mot og det geografiske området for tiltaket
+4. beskrive hvilke tiltak og aktiviteter det søkes midler for å gjennomføre
+5. angi en plan for gjennomføringen av tiltaket med virkemidler og tidsrammer
+6. angi beløp det søkes om
+7. oppgi søkerens egenandel
+8. oppgi beløp søkeren har søkt om fra andre offentlige myndigheter eller fra andre finansieringskilder
+9. inneholde budsjett for tiltaket og aktivitetsplan som viser når kostnadene oppstår.
 
 ## § 4. Valgdirektoratets rett til å kreve ytterligere opplysninger
 
@@ -44,7 +66,13 @@ Dersom det er nødvendig for å vurdere søknaden, kan Valgdirektoratet kreve at
 
 ## § 5. Hvordan søknadene blir vurdert
 
-Valgdirektoratet tildeler tilskudd etter en skjønnsmessig vurdering av i hvilken grad tiltaket bidrar til å oppfylle formålet med tilskuddsordningen. I vurderingen av søknadene skal det særlig legges vekt påom tiltaket er rettet mot unge velgere, innvandrere og velgere med behov for særskilt tilrettelagt informasjonantallet søkeren når ut til gjennom sine aktiviteterom kostnadene står i et rimelig forhold til formålet og den antatte effekten av tiltakettidligere relevant erfaring med tilsvarende tiltakspredning når det gjelder tema for informasjonstiltaket, geografisk område og hvem tiltaket er rettet mot.
+Valgdirektoratet tildeler tilskudd etter en skjønnsmessig vurdering av i hvilken grad tiltaket bidrar til å oppfylle formålet med tilskuddsordningen. I vurderingen av søknadene skal det særlig legges vekt på
+
+1. om tiltaket er rettet mot unge velgere, innvandrere og velgere med behov for særskilt tilrettelagt informasjon
+2. antallet søkeren når ut til gjennom sine aktiviteter
+3. om kostnadene står i et rimelig forhold til formålet og den antatte effekten av tiltaket
+4. tidligere relevant erfaring med tilsvarende tiltak
+5. spredning når det gjelder tema for informasjonstiltaket, geografisk område og hvem tiltaket er rettet mot.
 
 ## § 6. Hvordan tilskuddsbeløpet beregnes og utbetales
 
@@ -66,13 +94,22 @@ Tilskuddsmottaker skal innen 30. juni året etter valgåret levere revisorbekref
 
 ## § 9. Adgang til å kontrollere at vilkårene for tilskudd er oppfylt
 
-Valgdirektoratet kan kontrollere at midlene blir benyttet etter forutsetningene i denne forskriften og vilkårene i tilskuddsvedtaket ved.å kreve opplysninger og dokumentasjon som er nødvendig for kontrolleninnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenestedlig besøk i forbindelse med bokettersyn hos organisasjonen som mottar tilskudd for tiltaket.
+Valgdirektoratet kan kontrollere at midlene blir benyttet etter forutsetningene i denne forskriften og vilkårene i tilskuddsvedtaket ved.
+
+1. å kreve opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. stedlig besøk i forbindelse med bokettersyn hos organisasjonen som mottar tilskudd for tiltaket.
 
 Tilskuddsmottaker skal på forespørsel legge fram nødvendige opplysninger, og bidra til å gjøre kontrollarbeidet mulig.
 
 ## § 10. Uriktige opplysninger og mislighold
 
-Valgdirektoratet kan kreve at organisasjonen helt eller delvis tilbakebetaler utbetalt tilskudd dersom:tilskuddet ikke blir brukt i tråd med forutsetningene i denne forskriften eller vilkårene fastsatt i tilskuddsvedtakettildeling av tilskuddet bygger på uriktige opplysninger fra søkertilskuddsmottaker ikke har levert regnskap og rapport innen fastsatt fristregnskap og rapport ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsvedtaket er oppfylt.
+Valgdirektoratet kan kreve at organisasjonen helt eller delvis tilbakebetaler utbetalt tilskudd dersom:
+
+1. tilskuddet ikke blir brukt i tråd med forutsetningene i denne forskriften eller vilkårene fastsatt i tilskuddsvedtaket
+2. tildeling av tilskuddet bygger på uriktige opplysninger fra søker
+3. tilskuddsmottaker ikke har levert regnskap og rapport innen fastsatt frist
+4. regnskap og rapport ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsvedtaket er oppfylt.
 
 Valgdirektoratet kan i tilfeller som nevnt i første ledd hvor innvilget tilskudd ikke er utbetalt, stoppe videre utbetalinger.
 

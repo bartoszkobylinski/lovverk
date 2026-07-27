@@ -36,7 +36,17 @@ De kommunale pleie- og omsorgstjenestene skal legge til rette for en eldreomsorg
 
 ## § 3. Tjenestens innhold
 
-Tjenestetilbudet skal innrettes i respekt for den enkeltes selvbestemmelsesrett, egenverd og livsførsel og sikre at medisinske behov blir ivaretatt. For å oppnå disse målsettingene skal tjenestetilbudet legge til rette for at følgende hensyn ivaretas:En riktig og forsvarlig boform ut fra den enkeltes behov og tilstand.Et variert og tilstrekkelig kosthold og tilpasset hjelp ved måltider.Et mest mulig normalt liv, med normal døgnrytme og adgang til å komme ut, samt nødvendig hjelp til personlig hygiene.Tilby samtaler om eksistensielle spørsmål.Lindrende behandling og en verdig død.Å bevare eller øke sin mulighet til å fungere i hverdagen. Omsorgen skal bidra til habilitering og rehabilitering.Faglig forsvarlig oppfølging av lege og annet relevant personell, som sikrer kontinuitet i behandlingen.Tilby eldre som bor på helseinstitusjon enerom.at par som ønsker det skal kunne bo sammen.
+Tjenestetilbudet skal innrettes i respekt for den enkeltes selvbestemmelsesrett, egenverd og livsførsel og sikre at medisinske behov blir ivaretatt. For å oppnå disse målsettingene skal tjenestetilbudet legge til rette for at følgende hensyn ivaretas:
+
+1. En riktig og forsvarlig boform ut fra den enkeltes behov og tilstand.
+2. Et variert og tilstrekkelig kosthold og tilpasset hjelp ved måltider.
+3. Et mest mulig normalt liv, med normal døgnrytme og adgang til å komme ut, samt nødvendig hjelp til personlig hygiene.
+4. Tilby samtaler om eksistensielle spørsmål.
+5. Lindrende behandling og en verdig død.
+6. Å bevare eller øke sin mulighet til å fungere i hverdagen. Omsorgen skal bidra til habilitering og rehabilitering.
+7. Faglig forsvarlig oppfølging av lege og annet relevant personell, som sikrer kontinuitet i behandlingen.
+8. Tilby eldre som bor på helseinstitusjon enerom.
+9. at par som ønsker det skal kunne bo sammen.
 
 > Endret ved [forskrift 19 juni 2020 nr. 1238](forskrift/2020-06-19-1238) (i kraft 1 juli 2020).
 

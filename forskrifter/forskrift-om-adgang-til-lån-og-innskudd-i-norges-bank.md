@@ -108,11 +108,23 @@ I forskriften her betyr
 
 (1) Det skal stilles betryggende sikkerhet for lån gitt av Norges Bank.
 
-(2) Norges Bank kan godkjenne følgende aktiva som sikkerhet for lån:obligasjoner og sertifikater,eierandeler i verdipapirfond registrert i norsk verdipapirregister,F-innskudd i Norges Bank,innskudd i annen sentralbank.
+(2) Norges Bank kan godkjenne følgende aktiva som sikkerhet for lån:
+
+1. obligasjoner og sertifikater,
+2. eierandeler i verdipapirfond registrert i norsk verdipapirregister,
+3. F-innskudd i Norges Bank,
+4. innskudd i annen sentralbank.
 
 (3) Norges Bank kan i særlige tilfeller godta andre aktiva som sikkerhet.
 
-(4) Norges Bank fastsetter nærmere regler om aktiva som skal godkjennes som sikkerhet for lån, blant annet krav til:pålydende valuta,minimum utestående volum,kredittvurdering,børsnotering eller notering på annen godkjent markedsplass,registrering i godkjent verdipapirregister, ogtid til forfall eller uttrekk.
+(4) Norges Bank fastsetter nærmere regler om aktiva som skal godkjennes som sikkerhet for lån, blant annet krav til:
+
+1. pålydende valuta,
+2. minimum utestående volum,
+3. kredittvurdering,
+4. børsnotering eller notering på annen godkjent markedsplass,
+5. registrering i godkjent verdipapirregister, og
+6. tid til forfall eller uttrekk.
 
 (5) Norges Bank kan stille krav om at en motpart øker sin sikkerhetsstillelse dersom størrelsen på motpartens lån og påløpte renter overstiger låneverdien av pantet. Norges Bank kan også benytte motpartens innskudd i Norges Bank som sikkerhet. Innskudd som benyttes som sikkerhet godskrives rente etter [§ 4](forskrift/2019-12-18-2025/§4). Dersom låneverdien av sikkerhetsstillelsen er lavere enn låneopptaket ved slutten av oppgjørsdagen, belastes motparten et gebyr, jf. [§ 8](forskrift/2019-12-18-2025/§8).
 
@@ -126,7 +138,12 @@ I forskriften her betyr
 
 ### § 7. Oppsigelse, begrensning, endring eller suspensjon av adgangen til Norges Banks fasiliteter
 
-Norges Bank kan si opp, begrense, endre eller suspendere adgangen til Norges Banks fasiliteter hvis:denne forskrift eller andre vilkår for Norges Banks fasiliteter er overtrådt;motpartens økonomiske situasjon tilsier det;en pengepolitisk motpart ikke lenger tilfredsstiller kravene til å være pengepolitisk motpart; ellervilkårene for tillatelsen ikke lenger er oppfylt eller motpartens virksomhet ikke lenger i samme grad fremmer sentralbankvirksomhetens formål.
+Norges Bank kan si opp, begrense, endre eller suspendere adgangen til Norges Banks fasiliteter hvis:
+
+1. denne forskrift eller andre vilkår for Norges Banks fasiliteter er overtrådt;
+2. motpartens økonomiske situasjon tilsier det;
+3. en pengepolitisk motpart ikke lenger tilfredsstiller kravene til å være pengepolitisk motpart; eller
+4. vilkårene for tillatelsen ikke lenger er oppfylt eller motpartens virksomhet ikke lenger i samme grad fremmer sentralbankvirksomhetens formål.
 
 > Endret ved forskrift [4 feb 2021 nr. 493](forskrift/2021-02-04-493).
 

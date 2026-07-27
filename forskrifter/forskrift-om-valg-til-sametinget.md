@@ -92,7 +92,15 @@ Senest 31. mai i valgåret skal Sametinget kunngjøre opplysning om at de som an
 
 ### § 10. Grunnlag for oppdatering av Sametingets valgmanntall etter 30. juni
 
-Oppdatering i Sametingets valgmanntall etter 30. juni kan bare skje på bakgrunn av følgende forhold:Krav om retting av feil, oppdaget feil eller klage.Flyttemelding som ikke ble registrert før valgmanntallet ble skrevet ut, men som er mottatt av folkeregistermyndigheten innen skjæringsdatoen 30. juni. Vedkommende skal føres inn i valgmanntallet i tilflyttingskommunen og strykes fra valgmanntallet i fraflyttingskommunen.Søknad om innføring i valgmanntallet fra samer bosatt i utlandet. Vedkommende skal manntallsføres i den kommunen han/hun sist var registrert som bosatt.Søknad om innføring i valgmanntallet fra samer som har flyttet tilbake til Norge. Vedkommende skal føres inn i valgmanntallet i tilflyttingskommunen. Dersom tilflyttingskommunen er en annen kommune enn den vedkommende var registrert som bosatt i på utflyttingstidspunktet, skal melding også sendes tidligere bostedskommune. Dersom vedkommende allerede er innført i valgmanntallet i denne kommunen, skal vedkommende strykes på grunnlag av meldingen.Søknad om innføring i valgmanntallet mottatt av Sametinget innen skjæringsdatoen 30. juni, men som ikke ble registrert før utkastet til valgmanntall ble skrevet ut.Melding om dødsfall. Vedkommende skal strykes fra valgmanntallet, med mindre vedkommende allerede har avgitt godkjent forhåndsstemmegivning.Melding om at utenlandske statsborgere som ellers ville fylt stemmerettsvilkårene på valgdagen, har flyttet ut av landet etter 30. juni. Vedkommende skal strykes fra valgmanntallet.
+Oppdatering i Sametingets valgmanntall etter 30. juni kan bare skje på bakgrunn av følgende forhold:
+
+1. Krav om retting av feil, oppdaget feil eller klage.
+2. Flyttemelding som ikke ble registrert før valgmanntallet ble skrevet ut, men som er mottatt av folkeregistermyndigheten innen skjæringsdatoen 30. juni. Vedkommende skal føres inn i valgmanntallet i tilflyttingskommunen og strykes fra valgmanntallet i fraflyttingskommunen.
+3. Søknad om innføring i valgmanntallet fra samer bosatt i utlandet. Vedkommende skal manntallsføres i den kommunen han/hun sist var registrert som bosatt.
+4. Søknad om innføring i valgmanntallet fra samer som har flyttet tilbake til Norge. Vedkommende skal føres inn i valgmanntallet i tilflyttingskommunen. Dersom tilflyttingskommunen er en annen kommune enn den vedkommende var registrert som bosatt i på utflyttingstidspunktet, skal melding også sendes tidligere bostedskommune. Dersom vedkommende allerede er innført i valgmanntallet i denne kommunen, skal vedkommende strykes på grunnlag av meldingen.
+5. Søknad om innføring i valgmanntallet mottatt av Sametinget innen skjæringsdatoen 30. juni, men som ikke ble registrert før utkastet til valgmanntall ble skrevet ut.
+6. Melding om dødsfall. Vedkommende skal strykes fra valgmanntallet, med mindre vedkommende allerede har avgitt godkjent forhåndsstemmegivning.
+7. Melding om at utenlandske statsborgere som ellers ville fylt stemmerettsvilkårene på valgdagen, har flyttet ut av landet etter 30. juni. Vedkommende skal strykes fra valgmanntallet.
 
 ### § 11. Underretninger om endringer i Sametingets valgmanntall
 
@@ -126,7 +134,12 @@ Valgbar til Sametinget og pliktig til å ta imot valget er enhver som er innfør
 
 ### § 16. Rett til å kreve fritak
 
-(1) Rett til å kreve seg fritatt for valg til Sametinget harden som har fylt 60 år innen valgårets utløp,den som har gjort tjeneste som medlem av Sametinget de siste fire år,den som overfor Sametingets valgnemnd godtgjør at han/hun ikke vil kunne skjøtte sine plikter som medlem av Sametinget uten uforholdsmessig vanskelighet, ogden som er medlem av en organisasjon (en gruppe, et parti eller en liknende sammenslutning) som er registrert etter [§ 19](forskrift/2008-12-19-1480/§19), når vedkommende er ført opp som kandidat på et listeforslag som ikke er fremsatt av denne organisasjonen.
+(1) Rett til å kreve seg fritatt for valg til Sametinget har
+
+1. den som har fylt 60 år innen valgårets utløp,
+2. den som har gjort tjeneste som medlem av Sametinget de siste fire år,
+3. den som overfor Sametingets valgnemnd godtgjør at han/hun ikke vil kunne skjøtte sine plikter som medlem av Sametinget uten uforholdsmessig vanskelighet, og
+4. den som er medlem av en organisasjon (en gruppe, et parti eller en liknende sammenslutning) som er registrert etter [§ 19](forskrift/2008-12-19-1480/§19), når vedkommende er ført opp som kandidat på et listeforslag som ikke er fremsatt av denne organisasjonen.
 
 (2) Kandidater som er satt opp på listeforslag må søke om fritak innen den frist Sametingets valgnemnd setter, ellers tapes retten til å strykes av listeforslaget.
 
@@ -164,11 +177,19 @@ Valgbar til Sametinget og pliktig til å ta imot valget er enhver som er innfør
 
 ### § 20. Vilkår for registrering hos Sametinget
 
-(1) For at et navn skal kunne bli registrert hos Sametinget, må navnet ikke kunne forveksles med navnet påannen samepolitisk organisasjon registrert hos Sametinget ellerannet parti registrert i Partiregisteret, jf. partiloven.
+(1) For at et navn skal kunne bli registrert hos Sametinget, må navnet ikke kunne forveksles med navnet på
+
+1. annen samepolitisk organisasjon registrert hos Sametinget eller
+2. annet parti registrert i Partiregisteret, jf. partiloven.
 
 (2) Når særlige grunner foreligger, kan Sametinget også ellers nekte å registrere navn.
 
-(3) Sammen med søknaden skal organisasjonen legge ved følgende dokumentasjon:stiftelsesprotokoll for organisasjonen,opplysning om hvem som er valgt til medlemmer i organisasjonens utøvende organ, og som har fullmakt til å representere organisasjonen i saker etter denne forskriften,vedtekt som fastsetter hvilket organ i organisasjonen som velger organisasjonens utøvende organ, ogunderskrift fra minst 200 personer med stemmerett ved sametingsvalg om at de ønsker navnet registrert. Den som avgir erklæring, må ha nådd stemmerettsalderen innen utløpet av det kalenderår søknaden fremsettes. Settes søknaden frem mindre enn ett år før et valg, er det tilstrekkelig at stemmerettsalderen er nådd innen utløpet av valgåret. Av erklæringen skal fremgå navnet, fødselsdatoen og adressen til den som har avgitt den. Erklæringen skal være egenhendig underskrevet og være datert av den som har avgitt den. Ingen erklæring skal være mer enn ett år eldre enn søknaden.
+(3) Sammen med søknaden skal organisasjonen legge ved følgende dokumentasjon:
+
+1. stiftelsesprotokoll for organisasjonen,
+2. opplysning om hvem som er valgt til medlemmer i organisasjonens utøvende organ, og som har fullmakt til å representere organisasjonen i saker etter denne forskriften,
+3. vedtekt som fastsetter hvilket organ i organisasjonen som velger organisasjonens utøvende organ, og
+4. underskrift fra minst 200 personer med stemmerett ved sametingsvalg om at de ønsker navnet registrert. Den som avgir erklæring, må ha nådd stemmerettsalderen innen utløpet av det kalenderår søknaden fremsettes. Settes søknaden frem mindre enn ett år før et valg, er det tilstrekkelig at stemmerettsalderen er nådd innen utløpet av valgåret. Av erklæringen skal fremgå navnet, fødselsdatoen og adressen til den som har avgitt den. Erklæringen skal være egenhendig underskrevet og være datert av den som har avgitt den. Ingen erklæring skal være mer enn ett år eldre enn søknaden.
 
 (4) Søknaden må ha blitt journalført hos Sametinget innen 2. januar i valgåret for at registreringen skal kunne få virkning ved valget.
 
@@ -228,7 +249,14 @@ Sametingets valgnemnd skal senest den 28. februar i valgåret kunngjøre en oppf
 
 (1) Fristen for innlevering av listeforslag er kl. 12 den 31. mars i valgåret. Listeforslaget anses for innlevert når det er kommet inn til Sametinget. Samme parti eller gruppe kan bare stille én liste i hver valgkrets.
 
-(2) Listeforslaget må oppfylle følgende vilkår:Listeforslaget må angi at det gjelder sametingsvalget.Listeforslaget må ha en overskrift som angir det parti eller den gruppe som har fremsatt forslaget, og hvilken valgkrets det gjelder. Hvis listeforslaget er satt frem av en organisasjon som er registrert hos Sametinget, skal overskriften være enslydende med det registrerte navnet. Overskriften må ellers ikke kunne forveksles med navnet på et registrert politisk parti, registrert samepolitisk organisasjon eller med overskriften på andre listeforslag i valgkretsen.Listeforslaget fra valgkretser som skal ha to til fire mandater skal være utfylt med ni kandidater som er valgbare i kretsen. Dersom valgkretsen skal ha fem eller flere mandater, skal antallet kandidater på listen være minst ni eller inntil det dobbelte av det samlete antall mandater i kretsen. Sametinget kan bestemme at hvert kjønn skal være representert med minst 40 prosent blant de foreslåtte kandidatene på hver liste. Slikt vedtak må være truffet senest 15. desember året før valgåret. Kandidatene må ikke være felles med kandidater på andre listeforslag som gjelder sametingsvalget. Kandidatene skal være oppført med fornavn, etternavn og fødselsår. Opplysning om kandidatenes stilling eller bosted kan påføres. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen. Dersom opplysning om kandidatenes stilling og/eller bosted påføres listeforslaget, skal dette gjøres for alle kandidatene på listen. På felleslister kan forslagstillerne opplyse om de enkelte kandidatenes tilhørighet i forhold til de ulike gruppene som står bak forslaget.Listeforslaget må være underskrevet av minst 30 personer som er innført i valgmanntallet i kretsen. Utgår listeforslaget fra en organisasjon som er registrert hos Sametinget, og som ved forrige sametingsvalg fikk en oppslutning på minst 60 stemmer i en valgkrets eller minst 200 stemmer i hele landet, er det tilstrekkelig at listeforslaget er underskrevet av minst to av styremedlemmene i organisasjonens lokalavdeling i valgkretsen eller av to personer i organisasjonens utøvende organ. Det samme gjelder for organisasjoner som er blitt registrert hos Sametinget etter forrige sametingsvalg. Hvis en registrert organisasjon stiller listeforslag sammen med en uregistrert gruppe, gjelder likevel første punktum. Underskriftene på andre listeforslag enn de som går inn under annet og tredje punktum skal være skrift på papir.Listeforslaget må inneholde navn på en tillitsvalgt og en vararepresentant blant dem som har skrevet under på listeforslaget. Disse skal ha myndighet til å forhandle med Sametingets valgnemnd om endringer på listeforslaget. Når et listeforslag fra en registrert organisasjon er underskrevet av to av lokalavdelingens styremedlemmer, anses disse å være tillitsvalgt og vararepresentant. Når et listeforslag som ikke omfattes av forrige punktum ikke angir hvem som er tillitsvalgte, anses de to øverste underskriverne å være tillitsvalgt og vararepresentant.Listeforslaget bør inneholde navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake. Når et listeforslag utgår fra en registrert organisasjon, anses lokalavdelingens styre å utgjøre tillitsutvalget. På andre listeforslag anses de fem øverste underskriverne å utgjøre tillitsutvalget og de tre neste vararepresentanter.
+(2) Listeforslaget må oppfylle følgende vilkår:
+
+1. Listeforslaget må angi at det gjelder sametingsvalget.
+2. Listeforslaget må ha en overskrift som angir det parti eller den gruppe som har fremsatt forslaget, og hvilken valgkrets det gjelder. Hvis listeforslaget er satt frem av en organisasjon som er registrert hos Sametinget, skal overskriften være enslydende med det registrerte navnet. Overskriften må ellers ikke kunne forveksles med navnet på et registrert politisk parti, registrert samepolitisk organisasjon eller med overskriften på andre listeforslag i valgkretsen.
+3. Listeforslaget fra valgkretser som skal ha to til fire mandater skal være utfylt med ni kandidater som er valgbare i kretsen. Dersom valgkretsen skal ha fem eller flere mandater, skal antallet kandidater på listen være minst ni eller inntil det dobbelte av det samlete antall mandater i kretsen. Sametinget kan bestemme at hvert kjønn skal være representert med minst 40 prosent blant de foreslåtte kandidatene på hver liste. Slikt vedtak må være truffet senest 15. desember året før valgåret. Kandidatene må ikke være felles med kandidater på andre listeforslag som gjelder sametingsvalget. Kandidatene skal være oppført med fornavn, etternavn og fødselsår. Opplysning om kandidatenes stilling eller bosted kan påføres. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen. Dersom opplysning om kandidatenes stilling og/eller bosted påføres listeforslaget, skal dette gjøres for alle kandidatene på listen. På felleslister kan forslagstillerne opplyse om de enkelte kandidatenes tilhørighet i forhold til de ulike gruppene som står bak forslaget.
+4. Listeforslaget må være underskrevet av minst 30 personer som er innført i valgmanntallet i kretsen. Utgår listeforslaget fra en organisasjon som er registrert hos Sametinget, og som ved forrige sametingsvalg fikk en oppslutning på minst 60 stemmer i en valgkrets eller minst 200 stemmer i hele landet, er det tilstrekkelig at listeforslaget er underskrevet av minst to av styremedlemmene i organisasjonens lokalavdeling i valgkretsen eller av to personer i organisasjonens utøvende organ. Det samme gjelder for organisasjoner som er blitt registrert hos Sametinget etter forrige sametingsvalg. Hvis en registrert organisasjon stiller listeforslag sammen med en uregistrert gruppe, gjelder likevel første punktum. Underskriftene på andre listeforslag enn de som går inn under annet og tredje punktum skal være skrift på papir.
+5. Listeforslaget må inneholde navn på en tillitsvalgt og en vararepresentant blant dem som har skrevet under på listeforslaget. Disse skal ha myndighet til å forhandle med Sametingets valgnemnd om endringer på listeforslaget. Når et listeforslag fra en registrert organisasjon er underskrevet av to av lokalavdelingens styremedlemmer, anses disse å være tillitsvalgt og vararepresentant. Når et listeforslag som ikke omfattes av forrige punktum ikke angir hvem som er tillitsvalgte, anses de to øverste underskriverne å være tillitsvalgt og vararepresentant.
+6. Listeforslaget bør inneholde navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake. Når et listeforslag utgår fra en registrert organisasjon, anses lokalavdelingens styre å utgjøre tillitsutvalget. På andre listeforslag anses de fem øverste underskriverne å utgjøre tillitsutvalget og de tre neste vararepresentanter.
 
 (3) Listeforslaget skal ikke inneholde annen type informasjon til velgerne enn det som fremgår av denne paragrafen.
 
@@ -240,7 +268,12 @@ Sametingets valgnemnd skal senest den 28. februar i valgåret kunngjøre en oppf
 
 ### § 29. Vedlegg til listeforslaget
 
-Listeforslaget skal ha følgende vedlegg:En oversikt over kandidatenes fødselsdato.En oversikt over fødselsdato og bostedsadresse til dem som har skrevet under på listeforslaget.Dersom en kandidat ikke er innført i folkeregisteret som bosatt i valgkretsen når listeforslaget innleveres, må det ligge ved en erklæring fra kandidaten om at vedkommende vil være valgbar på valgdagen.Dersom en kandidat ikke er valgbar på grunn av sin stilling, må det ligge ved en erklæring fra kandidaten om at vedkommende vil ha fratrådt stillingen på valgdagen.
+Listeforslaget skal ha følgende vedlegg:
+
+1. En oversikt over kandidatenes fødselsdato.
+2. En oversikt over fødselsdato og bostedsadresse til dem som har skrevet under på listeforslaget.
+3. Dersom en kandidat ikke er innført i folkeregisteret som bosatt i valgkretsen når listeforslaget innleveres, må det ligge ved en erklæring fra kandidaten om at vedkommende vil være valgbar på valgdagen.
+4. Dersom en kandidat ikke er valgbar på grunn av sin stilling, må det ligge ved en erklæring fra kandidaten om at vedkommende vil ha fratrådt stillingen på valgdagen.
 
 ### § 30. Underskrifter på listeforslag. Taushetsplikt
 
@@ -302,9 +335,15 @@ Sametingets valgnemnd sørger for at det blir trykt stemmesedler for alle godkje
 
 (6) Stemmeseddelen kan ha forskutt falsing. Etter falsing skal størrelsen på stemmeseddelen være bredde 150 × høyde 203 millimeter. Den skal være trykket på 90 gram ubestrøket hvitt papir.
 
-(7) Stemmeseddelen skal inneholde:Opplysning om hvilket valg stemmeseddelen gjelder for.Overskrift som viser hvilket parti eller gruppe listen utgår fra. Overskriften skal trykkes i skriftstørrelse minimum 20 punkt.Fornavn, etternavn og fødselsår på kandidatene som stiller til valg på listen. Opplysning om kandidatenes stilling og/eller bosted kan påføres stemmeseddelen. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen. Dersom slike opplysninger påføres stemmeseddelen, skal dette gjøres for alle kandidatene på listen. Stemmesedler som gjelder en fellesliste, kan også påføres opplysning om de enkelte kandidatenes tilknytning til de gruppene som står bak felleslisten.
+(7) Stemmeseddelen skal inneholde:
 
-(8) Stemmeseddelens utside skal se slik ut:Stemmeseddelens utside (mønsterside) skal se slik ut:
+1. Opplysning om hvilket valg stemmeseddelen gjelder for.
+2. Overskrift som viser hvilket parti eller gruppe listen utgår fra. Overskriften skal trykkes i skriftstørrelse minimum 20 punkt.
+3. Fornavn, etternavn og fødselsår på kandidatene som stiller til valg på listen. Opplysning om kandidatenes stilling og/eller bosted kan påføres stemmeseddelen. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen. Dersom slike opplysninger påføres stemmeseddelen, skal dette gjøres for alle kandidatene på listen. Stemmesedler som gjelder en fellesliste, kan også påføres opplysning om de enkelte kandidatenes tilknytning til de gruppene som står bak felleslisten.
+
+(8) Stemmeseddelens utside skal se slik ut:
+
+Stemmeseddelens utside (mønsterside) skal se slik ut:
 
 > Endret ved [forskrifter 16 aug 2013 nr. 983](forskrift/2013-08-16-983), [13 feb 2017 nr. 174](forskrift/2017-02-13-174).
 
@@ -328,7 +367,14 @@ Den tillitsvalgte for den enkelte valgliste kan for egen regning kreve å få de
 
 (1) Velgere som er manntallsført i kommuner med færre enn 30 manntallsførte kan bare avgi stemme på forhånd, jf. [sameloven § 2-3](lov/1987-06-12-56/§2-3). For å avgjøre hvilke kommuner dette skal gjelde for, skal Sametingets valgmanntall pr. 30. juni i det år det sist ble avholdt kommunestyre- og fylkestingsvalg legges til grunn.
 
-(2) I kommuner med færre enn 30 manntallsførte, jf. første ledd annet punktum, skal samevalgstyret før forhåndsstemmegivningen starter underrette velgerne om at de bare kan stemme til sametingsvalget i perioden for forhåndsstemmegivningen. Underretningen skal være skriftlig og skal bare inneholde opplysninger omhjemmelen for at velgeren kun kan stemme på forhånd,i hvilken kommune velgeren er manntallsført,perioden for forhåndsstemmegivningen,på hvilke steder det mottas forhåndsstemmer i kommunen,muligheten for å avgi stemme på forhånd i andre kommuner, ogadgangen til å stemme fra utlandet, på Svalbard og Jan Mayen.
+(2) I kommuner med færre enn 30 manntallsførte, jf. første ledd annet punktum, skal samevalgstyret før forhåndsstemmegivningen starter underrette velgerne om at de bare kan stemme til sametingsvalget i perioden for forhåndsstemmegivningen. Underretningen skal være skriftlig og skal bare inneholde opplysninger om
+
+1. hjemmelen for at velgeren kun kan stemme på forhånd,
+2. i hvilken kommune velgeren er manntallsført,
+3. perioden for forhåndsstemmegivningen,
+4. på hvilke steder det mottas forhåndsstemmer i kommunen,
+5. muligheten for å avgi stemme på forhånd i andre kommuner, og
+6. adgangen til å stemme fra utlandet, på Svalbard og Jan Mayen.
 
 > Endret ved [forskrifter 6 mai 2011 nr. 459](forskrift/2011-05-06-459), [19 des 2012 nr. 1333](forskrift/2012-12-19-1333).
 
@@ -386,7 +432,14 @@ Den tillitsvalgte for den enkelte valgliste kan for egen regning kreve å få de
 
 (5) Avgis stemmen innenriks, skal stemmemottakeren skrive ut valgkort til velgeren med mindre velgeren har med seg valgkort. Valgkortet skal fylles ut slik at det er mulig å identifisere velgeren ut fra opplysningene på kortet. Opplysningene om hvilket valg og år det gjelder, velgerens navn og fødselsnummer og navn og adresse til samevalgstyret i den kommunen velgeren er manntallsført eller adressen til opptellingsvalgstyret i kretsen skal være synlige i vinduet på omslagskonvolutten. Valgkortet skal også inneholde et felt hvor stemmemottakeren skal påføre tid og sted for stemmegivningen samt signere for stemmemottaket. I tillegg skal det fremgå av valgkortet hvilket valg det gjelder. Velgeren legger selv stemmeseddelen i en stemmeseddelkonvolutt og gir denne til stemmemottaker. Deretter skal stemmemottakeren legge stemmeseddelkonvolutten og valgkortet ned i en omslagskonvolutt og lime den igjen. Velgeren legger omslagskonvolutten i en forseglet urne.
 
-(6) Avgis stemmen utenriks, på Svalbard eller Jan Mayen skal stemmemottakeren legge stemmeseddelkonvolutten i en omslagskonvolutt og lime denne igjen i velgerens påsyn. Stemmemottaker skal deretter påføre omslagskonvolutten følgende opplysninger:samevalgstyrets navn og adresse dersom velgeren er manntallsført i en kommune med 30 eller flere i valgmanntallet, eller opptellingsvalgstyrets navn og adresse dersom velgeren er manntallsført i en kommune med færre enn 30 i valgmanntallet,velgerens navn og fødselsdato,adresse på hjemstedet 30. juni valgåret, eventuelt siste adresse i Norge dersom velgeren har meldt flytting til utlandet, ogtid og sted for stemmegivningen.Stemmemottakeren og velgeren skriver deretter under på omslagskonvolutten.
+(6) Avgis stemmen utenriks, på Svalbard eller Jan Mayen skal stemmemottakeren legge stemmeseddelkonvolutten i en omslagskonvolutt og lime denne igjen i velgerens påsyn. Stemmemottaker skal deretter påføre omslagskonvolutten følgende opplysninger:
+
+1. samevalgstyrets navn og adresse dersom velgeren er manntallsført i en kommune med 30 eller flere i valgmanntallet, eller opptellingsvalgstyrets navn og adresse dersom velgeren er manntallsført i en kommune med færre enn 30 i valgmanntallet,
+2. velgerens navn og fødselsdato,
+3. adresse på hjemstedet 30. juni valgåret, eventuelt siste adresse i Norge dersom velgeren har meldt flytting til utlandet, og
+4. tid og sted for stemmegivningen.
+
+Stemmemottakeren og velgeren skriver deretter under på omslagskonvolutten.
 
 (7) Forhåndsstemmegivningene skal fortløpende sendes til samevalgstyret i kommunen hvor velger er manntallsført, eller til opptellingsvalgstyret i kretsen dersom velger er manntallsført i en kommune med færre enn 30 manntallsførte. Det skal brukes forsendelseskonvolutt.
 
@@ -402,7 +455,12 @@ Den tillitsvalgte for den enkelte valgliste kan for egen regning kreve å få de
 
 (2) Stemmeseddelkonvolutten skal legges i en omslagskonvolutt som limes igjen.
 
-(3) Velgeren påfører omslagskonvolutten følgende opplysninger:samevalgstyrets navn og adresse dersom velgeren er manntallsført i en kommune med 30 eller flere manntallsførte, eller opptellingsvalgstyrets navn og adresse dersom velgeren er manntallsført i en kommune med færre enn 30 manntallsførte,velgerens navn og fødselsdato,adresse på hjemstedet 30. juni i valgåret, eventuelt siste adresse i Norge dersom velgeren har meldt flytting til utlandet, ogtid og sted for stemmegivningen.
+(3) Velgeren påfører omslagskonvolutten følgende opplysninger:
+
+1. samevalgstyrets navn og adresse dersom velgeren er manntallsført i en kommune med 30 eller flere manntallsførte, eller opptellingsvalgstyrets navn og adresse dersom velgeren er manntallsført i en kommune med færre enn 30 manntallsførte,
+2. velgerens navn og fødselsdato,
+3. adresse på hjemstedet 30. juni i valgåret, eventuelt siste adresse i Norge dersom velgeren har meldt flytting til utlandet, og
+4. tid og sted for stemmegivningen.
 
 (4) Velgeren skriver under på omslagskonvolutten.
 
@@ -494,7 +552,10 @@ Velgere som ikke er innført i vedkommende del av valgmanntallet eller som aller
 
 ### § 53. Tømming av urner i løpet av valgdagen
 
-Dersom det er nødvendig å tømme valgurner i løpet av valgdagen, skal samevalgstyret sørge for at leder i valglokalet benytter følgende prosedyre:Forseglingen av valgurnen skal brytes av minst to valgmedarbeidere i fellesskapInnholdet tømmes umiddelbart over i egnet emballasje som forsegles og merkes med serienumre.
+Dersom det er nødvendig å tømme valgurner i løpet av valgdagen, skal samevalgstyret sørge for at leder i valglokalet benytter følgende prosedyre:
+
+1. Forseglingen av valgurnen skal brytes av minst to valgmedarbeidere i fellesskap
+2. Innholdet tømmes umiddelbart over i egnet emballasje som forsegles og merkes med serienumre.
 
 > Endret ved [forskrifter 16 aug 2013 nr. 983](forskrift/2013-08-16-983), [5 nov 2024 nr. 2663](forskrift/2024-11-05-2663).
 
@@ -518,7 +579,17 @@ Valgresultater og prognoser som er laget på grunnlag av undersøkelser foretatt
 
 ### § 56. Godkjenning av stemmegivning avgitt på forhånd
 
-(1) En forhåndsstemmegivning skal godkjennes dersomvelgeren er innført i Sametingets valgmanntall i kommunen,stemmegivningen inneholder tilstrekkelige opplysninger til å fastslå hvem velgeren er,stemmegivningen er avgitt til rett tid,stemmegivningen er avgitt til rett stemmemottaker, med mindre den er avgitt som brevstemme,omslagskonvolutten ikke er åpnet eller forsøkt åpnet,velgeren ikke har avgitt godkjent stemmegivning, ogstemmegivningen er kommet inn til samevalgstyret innen kl. 17 dagen etter valgdagen.Stemmegivninger avgitt i kommuner med færre enn 30 manntallsførte må ha kommet inn til opptellingsvalgstyret i kretsen innen kl. 17 dagen etter valgdagen.
+(1) En forhåndsstemmegivning skal godkjennes dersom
+
+1. velgeren er innført i Sametingets valgmanntall i kommunen,
+2. stemmegivningen inneholder tilstrekkelige opplysninger til å fastslå hvem velgeren er,
+3. stemmegivningen er avgitt til rett tid,
+4. stemmegivningen er avgitt til rett stemmemottaker, med mindre den er avgitt som brevstemme,
+5. omslagskonvolutten ikke er åpnet eller forsøkt åpnet,
+6. velgeren ikke har avgitt godkjent stemmegivning, og
+7. stemmegivningen er kommet inn til samevalgstyret innen kl. 17 dagen etter valgdagen.
+
+Stemmegivninger avgitt i kommuner med færre enn 30 manntallsførte må ha kommet inn til opptellingsvalgstyret i kretsen innen kl. 17 dagen etter valgdagen.
 
 (2) Velgerens stemmegivning er godkjent når vedkommende er krysset av i valgmanntallet.
 
@@ -528,7 +599,12 @@ Valgresultater og prognoser som er laget på grunnlag av undersøkelser foretatt
 
 ### § 57. Godkjenning av stemmegivning avgitt på valgtinget
 
-(1) En stemmegivning avgitt på valgtinget skal godkjennes dersomvelgeren er innført i Sametingets valgmanntall i kommunen,velgeren har fått anledning til å avgi stemme,velgeren hadde rett til å stemme, ogvelgeren ikke allerede har avgitt godkjent stemmegivning.
+(1) En stemmegivning avgitt på valgtinget skal godkjennes dersom
+
+1. velgeren er innført i Sametingets valgmanntall i kommunen,
+2. velgeren har fått anledning til å avgi stemme,
+3. velgeren hadde rett til å stemme, og
+4. velgeren ikke allerede har avgitt godkjent stemmegivning.
 
 (2) Velgerens stemmegivning er godkjent når vedkommende er krysset av i valgmanntallet.
 
@@ -544,7 +620,11 @@ Dersom en stemmegivning inneholder flere stemmeseddelkonvolutter eller stemmesed
 
 ### § 60. Godkjenning av stemmesedler
 
-(1) En stemmeseddel skal godkjennes dersomdet fremgår at den gjelder sametingsvalget,det fremgår hvilket parti eller gruppe velgeren har stemt på, ogpartiet eller gruppen stiller liste i valgkretsen. Stemmeseddel beregnet på en annen valgkrets kan bare godkjennes dersom den gjelder en organisasjon som er registrert i medhold av kapittel 5 i denne forskriften.
+(1) En stemmeseddel skal godkjennes dersom
+
+1. det fremgår at den gjelder sametingsvalget,
+2. det fremgår hvilket parti eller gruppe velgeren har stemt på, og
+3. partiet eller gruppen stiller liste i valgkretsen. Stemmeseddel beregnet på en annen valgkrets kan bare godkjennes dersom den gjelder en organisasjon som er registrert i medhold av kapittel 5 i denne forskriften.
 
 (2) En avgitt stemmeseddel anses å være enslydende med den offisielle valglisten.
 
@@ -556,7 +636,11 @@ Dersom en stemmegivning inneholder flere stemmeseddelkonvolutter eller stemmesed
 
 (1) Dersom velgeren har levert flere stemmesedler til samme parti eller gruppe, skal en av sedlene godkjennes.
 
-(2) Dersom velgeren har levert flere stemmesedler til samme parti og noen av dem er rettet, gjelder følgende:når bare én av stemmesedlene er rettet, godkjennes denne,når flere stemmesedler er rettet på samme måte, godkjennes én av stemmesedlene,når flere stemmesedler er rettet ulikt, godkjennes én av stemmesedlene, men det ses bort fra rettingene.
+(2) Dersom velgeren har levert flere stemmesedler til samme parti og noen av dem er rettet, gjelder følgende:
+
+1. når bare én av stemmesedlene er rettet, godkjennes denne,
+2. når flere stemmesedler er rettet på samme måte, godkjennes én av stemmesedlene,
+3. når flere stemmesedler er rettet ulikt, godkjennes én av stemmesedlene, men det ses bort fra rettingene.
 
 ### § 62. Ansvar for opptelling og valgoppgjør
 
@@ -564,7 +648,15 @@ Dersom en stemmegivning inneholder flere stemmeseddelkonvolutter eller stemmesed
 
 (2) Opptellingsvalgstyret er ansvarlig for foreløpig og endelig opptelling av forhåndsstemmer i kommuner med færre enn 30 i valgmanntallet, og endelig opptelling av forhåndsstemmer og valgtingsstemmer i kommuner med 30 eller flere manntallsførte. Opptellingsvalgstyrene skal forestå valgoppgjør for samtlige valgkretser.
 
-(3) Følgende samevalgstyrer fungerer som opptellingsvalgstyrer:Østre valgkrets/Nuortaguovllu válgabiire: Tana kommune – Deanu gieldaÁvjovári valgkrets/Ávjovári válgabiire: Karasjok kommune – Kárášjoga gieldaNordre valgkrets/Davveguovllu válgabiire: Alta kommuneGáisi valgkrets/Gáiseguovllu válgabiire: Tromsø kommuneVesthavet valgkrets/Viestarmera válggabijrra/Viesttarmeara válgabiire: Narvik kommuneSørsamisk valgkrets/Åarjel-Saepmie veeljemegievlie: Steinkjer kommuneSør-Norge valgkrets/Lulli-Norgga válgabiire: Oslo kommune.
+(3) Følgende samevalgstyrer fungerer som opptellingsvalgstyrer:
+
+1. Østre valgkrets/Nuortaguovllu válgabiire: Tana kommune – Deanu gielda
+2. Ávjovári valgkrets/Ávjovári válgabiire: Karasjok kommune – Kárášjoga gielda
+3. Nordre valgkrets/Davveguovllu válgabiire: Alta kommune
+4. Gáisi valgkrets/Gáiseguovllu válgabiire: Tromsø kommune
+5. Vesthavet valgkrets/Viestarmera válggabijrra/Viesttarmeara válgabiire: Narvik kommune
+6. Sørsamisk valgkrets/Åarjel-Saepmie veeljemegievlie: Steinkjer kommune
+7. Sør-Norge valgkrets/Lulli-Norgga válgabiire: Oslo kommune.
 
 ### § 63. Forsendelse
 
@@ -572,7 +664,12 @@ Dersom en stemmegivning inneholder flere stemmeseddelkonvolutter eller stemmesed
 
 (2) I kommuner med færre enn 30 personer i Sametingets valgmanntall, skal valgstyret sørge for at forhåndsstemmegivninger avgitt til sametingsvalget sendes opptellingsvalgstyret uåpnet etter hvert som de kommer inn.
 
-(3) I kommuner med 30 eller flere personer i Sametingets valgmanntall skal samevalgstyret så snart foreløpig opptelling av forhåndsstemmer og valgtingsstemmer er avsluttet, sende opptellingsvalgstyretalle stemmegivninger og stemmesedler som er avgitt på valgtinget og de som er avgitt på forhånd hver for segalle omslagskonvolutter fra forhåndsstemmegivningen utenriks og på Svalbard og Jan Mayenbekreftet avskrift av samevalgstyrets protokoll ogkopi av innkomne klager.
+(3) I kommuner med 30 eller flere personer i Sametingets valgmanntall skal samevalgstyret så snart foreløpig opptelling av forhåndsstemmer og valgtingsstemmer er avsluttet, sende opptellingsvalgstyret
+
+1. alle stemmegivninger og stemmesedler som er avgitt på valgtinget og de som er avgitt på forhånd hver for seg
+2. alle omslagskonvolutter fra forhåndsstemmegivningen utenriks og på Svalbard og Jan Mayen
+3. bekreftet avskrift av samevalgstyrets protokoll og
+4. kopi av innkomne klager.
 
 (4) Materiellet skal pakkes i god orden i forsvarlig forseglet emballasje og sendes på hurtigst betryggende måte. Materiellet skal være sendt fra samevalgstyret senest innen onsdag etter valget kl. 15.
 
@@ -634,7 +731,11 @@ Dersom en stemmegivning inneholder flere stemmeseddelkonvolutter eller stemmesed
 
 (1) Fordeling av mandatene på valgkretsene skjer etter St. Laguës metode, jf. [sameloven § 2-4](lov/1987-06-12-56/§2-4). Samtlige 39 mandater til Sametinget skal fordeles på valgkretsene. Fordelingstallet for valgkretsen ved mandatfordelingen mellom valgkretsene er antall manntallsførte i valgkretsen. Sametingets valgmanntall pr. 30. juni i det år det sist ble avholdt kommunestyre- og fylkestingsvalg legges til grunn.
 
-(2) Fordelingen etter første ledd skjer på følgende måte:Hver valgkrets skal ha 2 mandater.De øvrige 25 mandatene fordeles deretter forholdsmessig mellom valgkretsene på grunnlag av antall manntallsførte, ved at fordelingstallet i den enkelte krets divideres med 1-3-5-7 osv. De kvotienter som fremkommer, nummereres fortløpende. Mandatene fordeles på valgkretsene på grunnlag av de fremkomne kvotientene. Mandat nr. 1 tilfaller den valgkretsen som har den største kvotienten. Mandat nr. 2 tilfaller den valgkretsen som har den nest største kvotienten, osv. Dersom to eller flere valgkretser har samme kvotient, tilfaller mandatet det valgdistriktet som har det høyeste fordelingstallet. Har de samme fordelingstall, avgjøres det ved loddtrekning hvilken valgkrets mandatet skal tilfalle.Sør-Norge valgkrets skal likevel ikke tildeles flere mandater enn valgkretsen ville fått dersom alle 39 mandater var fordelt forholdsmessig mellom valgkretsene.
+(2) Fordelingen etter første ledd skjer på følgende måte:
+
+1. Hver valgkrets skal ha 2 mandater.
+2. De øvrige 25 mandatene fordeles deretter forholdsmessig mellom valgkretsene på grunnlag av antall manntallsførte, ved at fordelingstallet i den enkelte krets divideres med 1-3-5-7 osv. De kvotienter som fremkommer, nummereres fortløpende. Mandatene fordeles på valgkretsene på grunnlag av de fremkomne kvotientene. Mandat nr. 1 tilfaller den valgkretsen som har den største kvotienten. Mandat nr. 2 tilfaller den valgkretsen som har den nest største kvotienten, osv. Dersom to eller flere valgkretser har samme kvotient, tilfaller mandatet det valgdistriktet som har det høyeste fordelingstallet. Har de samme fordelingstall, avgjøres det ved loddtrekning hvilken valgkrets mandatet skal tilfalle.
+3. Sør-Norge valgkrets skal likevel ikke tildeles flere mandater enn valgkretsen ville fått dersom alle 39 mandater var fordelt forholdsmessig mellom valgkretsene.
 
 > Endret ved [forskrift 6 mai 2011 nr. 459](forskrift/2011-05-06-459).
 
@@ -648,7 +749,11 @@ Dersom en stemmegivning inneholder flere stemmeseddelkonvolutter eller stemmesed
 
 ### § 69. Kandidatkåringen
 
-(1) Når det er avgjort hvor mange mandater en valgliste skal ha, fordeler opptellingsvalgstyret disse til kandidatene på listen. Kandidater som ikke er valgbare settes ut av betraktning.(2) Kandidatkåringen foregår på følgende måte:Først telles de navn som er oppført som nr. 1 på stemmesedlene. Den kandidaten som har flest oppføringer blir valgt. Deretter telles de navn som er oppført som nr. 2 på stemmesedlene. Den kandidaten som har flest oppføringer når man legger sammen resultatene fra første og andre opptelling, blir valgt. Opptellingene fortsetter på samme måte inntil alle de representantplassene listen skal ha, er besatt. Oppnår flere kandidater samme resultat, er den opprinnelige rekkefølgen på listen avgjørende.
+(1) Når det er avgjort hvor mange mandater en valgliste skal ha, fordeler opptellingsvalgstyret disse til kandidatene på listen. Kandidater som ikke er valgbare settes ut av betraktning.
+
+(2) Kandidatkåringen foregår på følgende måte:
+
+Først telles de navn som er oppført som nr. 1 på stemmesedlene. Den kandidaten som har flest oppføringer blir valgt. Deretter telles de navn som er oppført som nr. 2 på stemmesedlene. Den kandidaten som har flest oppføringer når man legger sammen resultatene fra første og andre opptelling, blir valgt. Opptellingene fortsetter på samme måte inntil alle de representantplassene listen skal ha, er besatt. Oppnår flere kandidater samme resultat, er den opprinnelige rekkefølgen på listen avgjørende.
 
 (3) Hver liste skal så vidt mulig tildeles så mange vararepresentanter som den får representanter, med tillegg av tre. Vararepresentantplassene fordeles på samme måte som representantene.
 
@@ -736,7 +841,11 @@ Oppbevaring, avhending og tilintetgjøring av valgmateriell etter at valget er o
 
 ### § 81. Tilgang til manntallet og det øvrige materiellet – offentlighet
 
-(1) Om ikke annet følger av bestemmelser i lov eller forskrift, kan tilgang til eller avskrift av Sametingets valgmanntall, herunder det som er brukt til avkryssing, bare gis eller utleverestil offentlig ansatte når det er nødvendig av hensyn til tjenesten, ellertil forskere i vitenskapelig øyemed når det foreligger samtykke fra Sametinget, ellertil andre når det foreligger samtykke fra Sametinget.
+(1) Om ikke annet følger av bestemmelser i lov eller forskrift, kan tilgang til eller avskrift av Sametingets valgmanntall, herunder det som er brukt til avkryssing, bare gis eller utleveres
+
+1. til offentlig ansatte når det er nødvendig av hensyn til tjenesten, eller
+2. til forskere i vitenskapelig øyemed når det foreligger samtykke fra Sametinget, eller
+3. til andre når det foreligger samtykke fra Sametinget.
 
 (2) Tilgang til det øvrige valgmateriellet kan bare gis til forskere i vitenskapelig øyemed og etter samtykke fra Sametinget.
 

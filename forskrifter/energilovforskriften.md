@@ -70,7 +70,10 @@ Solkraftanlegg på land er ikke konsesjonspliktig når den installerte effekten 
 
 Fordelingsanlegg med spenning under 1000 volt vekselstrøm/1500 volt likestrøm er konsesjonspliktige frem til tilknytningspunkt hos kunde.
 
-Unntatt fra konsesjonsplikten for fordelingsanlegg med spenning under 1000 volt vekselstrøm/1500 volt likestrøm er:kundespesifikke anleggfordelingsnett som er bygget for å levere kraft fra lokal produksjon til uttakskunder hvor samlet hovedsikringskapasitet ikke overstiger 200 A ved 3 faser og 230 V.
+Unntatt fra konsesjonsplikten for fordelingsanlegg med spenning under 1000 volt vekselstrøm/1500 volt likestrøm er:
+
+1. kundespesifikke anlegg
+2. fordelingsnett som er bygget for å levere kraft fra lokal produksjon til uttakskunder hvor samlet hovedsikringskapasitet ikke overstiger 200 A ved 3 faser og 230 V.
 
 Andre fordelingsanlegg med spenning under 1000 volt vekselstrøm/1500 volt likestrøm kan ved enkeltvedtak unntas fra konsesjonsplikt dersom konsesjon anses åpenbart unødvendig.
 
@@ -78,7 +81,17 @@ Andre fordelingsanlegg med spenning under 1000 volt vekselstrøm/1500 volt likes
 
 ### § 3-2. Innholdet i søknader om konsesjon for elektriske anlegg
 
-Søknad om konsesjon for elektriske anlegg skal så langt det passer omfatte følgende punkter:beskrivelse av søkeren og dennes virksomhet, samt eierforholdteknisk og økonomisk beskrivelse av anlegget, herunder den fysiske utførelse av anlegget og eventuelle hjelpeanlegg som veier mv.anleggets innpassing i energiplanplanlagt tidspunkt for påbegynnelse og fullførelse av anleggetredegjørelse for den landskapsmessige tilpassing med nødvendig tegnings- og kartunderlaginnvirkning på allmenne interesser og mulige avbøtende tiltakresultat av eventuelle konsekvensutredningerinnvirkning på private interesser, herunder grunneieres og andre rettighetshaveres interesserbehov for tillatelser etter annen lov, herunder forholdet til kommunale planer hjemlet i plan- og bygningsloven.
+Søknad om konsesjon for elektriske anlegg skal så langt det passer omfatte følgende punkter:
+
+1. beskrivelse av søkeren og dennes virksomhet, samt eierforhold
+2. teknisk og økonomisk beskrivelse av anlegget, herunder den fysiske utførelse av anlegget og eventuelle hjelpeanlegg som veier mv.
+3. anleggets innpassing i energiplan
+4. planlagt tidspunkt for påbegynnelse og fullførelse av anlegget
+5. redegjørelse for den landskapsmessige tilpassing med nødvendig tegnings- og kartunderlag
+6. innvirkning på allmenne interesser og mulige avbøtende tiltak
+7. resultat av eventuelle konsekvensutredninger
+8. innvirkning på private interesser, herunder grunneieres og andre rettighetshaveres interesser
+9. behov for tillatelser etter annen lov, herunder forholdet til kommunale planer hjemlet i plan- og bygningsloven.
 
 > Endret ved [forskrifter 14 des 2001 nr. 1456](forskrift/2001-12-14-1456) (i kraft 1 jan 2002), [25 juni 2010 nr. 987](forskrift/2010-06-25-987) (i kraft 1 juli 2010).
 
@@ -106,10 +119,32 @@ Hvis flere nettselskaper får behov for nettforsterkninger som følge av nye pro
 
 ### § 3-5. Plikter ved konsesjon for elektriske anlegg
 
-1. *Drift, vedlikehold og modernisering*Konsesjonæren plikter til enhver tid å holde anlegget i tilfredsstillende driftssikker stand, herunder sørge for atdet utarbeides planer for systematisk vedlikehold av anlegg og planer for modernisering av anlegg i transmisjonsnettet og regionalnettet. Planene skal oppdateres minimum hvert annet år.det foreligger systemer og rutiner for kontroll for å fastslå anleggenes tilstand.normer vedtatt av Norsk Elektroteknisk Komité (NEK) og Standard Norge om drift, vedlikehold og modernisering av elektriske anlegg følges, med mindre det kan dokumenteres at andre metoder gir tilfredsstillende driftssikker stand.det gjennomføres vedlikehold og modernisering av anlegget, slik at konsesjonsgitt kapasitet og øvrig funksjonalitet opprettholdes i hele konsesjonsperioden.det foreligger oppdatert dokumentasjon for planlagte og gjennomførte tiltak i henhold til [§ 3-5](forskrift/1990-12-07-959/§3-5) bokstav a. All dokumentasjon skal oppbevares i konsesjonsperioden.
-2. *Miljø og landskap*Konsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at allmennheten påføres minst mulig miljø- og landskapsmessige ulemper i den grad det kan skje uten urimelige kostnader eller ulemper for konsesjonæren.
-3. *Beredskap*Konsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at det tas beredskapsmessige hensyn.
-4. *Nedleggelse og rydding av anlegg*Anlegg med konsesjon etter [energiloven § 3-1](lov/1990-06-29-50/§3-1) kan ikke nedlegges uten tillatelse fra Norges vassdrags- og energidirektorat.Hvis konsesjonæren ikke lenger vil drive anlegget mens konsesjonen løper, skal det søkes Norges vassdrags- og energidirektorat om nedleggelse.Senest ett år før konsesjon utløper skal konsesjonæren søke Norges vassdrags- og energidirektorat om forlengelse av konsesjon eller skriftlig varsle om nedleggelse av elektriske anlegg.Ved nedleggelse plikter den tidligere konsesjonæren å fjerne det nedlagte anlegg og så langt det er mulig føre landskapet tilbake til naturlig tilstand.Norges vassdrags- og energidirektorat kan sette frist for arbeidet og treffe bestemmelser med hensyn til tilbakeføringen.
+1. *Drift, vedlikehold og modernisering*
+
+   Konsesjonæren plikter til enhver tid å holde anlegget i tilfredsstillende driftssikker stand, herunder sørge for at
+
+   1. det utarbeides planer for systematisk vedlikehold av anlegg og planer for modernisering av anlegg i transmisjonsnettet og regionalnettet. Planene skal oppdateres minimum hvert annet år.
+   2. det foreligger systemer og rutiner for kontroll for å fastslå anleggenes tilstand.
+   3. normer vedtatt av Norsk Elektroteknisk Komité (NEK) og Standard Norge om drift, vedlikehold og modernisering av elektriske anlegg følges, med mindre det kan dokumenteres at andre metoder gir tilfredsstillende driftssikker stand.
+   4. det gjennomføres vedlikehold og modernisering av anlegget, slik at konsesjonsgitt kapasitet og øvrig funksjonalitet opprettholdes i hele konsesjonsperioden.
+   5. det foreligger oppdatert dokumentasjon for planlagte og gjennomførte tiltak i henhold til [§ 3-5](forskrift/1990-12-07-959/§3-5) bokstav a. All dokumentasjon skal oppbevares i konsesjonsperioden.
+2. *Miljø og landskap*
+
+   Konsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at allmennheten påføres minst mulig miljø- og landskapsmessige ulemper i den grad det kan skje uten urimelige kostnader eller ulemper for konsesjonæren.
+3. *Beredskap*
+
+   Konsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at det tas beredskapsmessige hensyn.
+4. *Nedleggelse og rydding av anlegg*
+
+   Anlegg med konsesjon etter [energiloven § 3-1](lov/1990-06-29-50/§3-1) kan ikke nedlegges uten tillatelse fra Norges vassdrags- og energidirektorat.
+
+   Hvis konsesjonæren ikke lenger vil drive anlegget mens konsesjonen løper, skal det søkes Norges vassdrags- og energidirektorat om nedleggelse.
+
+   Senest ett år før konsesjon utløper skal konsesjonæren søke Norges vassdrags- og energidirektorat om forlengelse av konsesjon eller skriftlig varsle om nedleggelse av elektriske anlegg.
+
+   Ved nedleggelse plikter den tidligere konsesjonæren å fjerne det nedlagte anlegg og så langt det er mulig føre landskapet tilbake til naturlig tilstand.
+
+   Norges vassdrags- og energidirektorat kan sette frist for arbeidet og treffe bestemmelser med hensyn til tilbakeføringen.
 
 > Endret ved [forskrifter 18 feb 1999 nr. 165](forskrift/1999-02-18-165) (i kraft 1 april 1999), [14 des 2001 nr. 1456](forskrift/2001-12-14-1456) (i kraft 1 jan 2002), [25 juni 2010 nr. 987](forskrift/2010-06-25-987) (i kraft 1 juli 2010, tidligere § 3-4), [7 des 2012 nr. 1154](forskrift/2012-12-07-1154) (i kraft 1 jan 2013), [24 okt 2019 nr. 1414](forskrift/2019-10-24-1414) (i kraft 1 nov 2019).
 
@@ -131,7 +166,13 @@ Konsesjonæren skal sørge for at det innføres og praktiseres internkontroll fo
 
 Konsesjonæren skal tilpasse internkontrollen til virksomhetens art, aktiviteter, risikoforhold og størrelse i det omfang som er nødvendig for å etterleve de krav som er omfattet av første ledd.
 
-Internkontrollsystemet skal minimum inneholde:oversikt over relevante lover, forskrifter og vedtak for anleggenekart, tegninger og annen nødvendig dokumentasjon for anleggetdokumentasjon og konkretisering av at anleggene bygges og drives i samsvar med krav om miljø og landskap fastsatt i eller i medhold av [energiloven kapittel 3](lov/1990-06-29-50/kap3)kartlegging og vurdering av risikoforhold med utarbeiding av tilhørende planer for risikoreduserende tiltakrutiner for å forebygge, avdekke og rette opp avvik.
+Internkontrollsystemet skal minimum inneholde:
+
+1. oversikt over relevante lover, forskrifter og vedtak for anleggene
+2. kart, tegninger og annen nødvendig dokumentasjon for anlegget
+3. dokumentasjon og konkretisering av at anleggene bygges og drives i samsvar med krav om miljø og landskap fastsatt i eller i medhold av [energiloven kapittel 3](lov/1990-06-29-50/kap3)
+4. kartlegging og vurdering av risikoforhold med utarbeiding av tilhørende planer for risikoreduserende tiltak
+5. rutiner for å forebygge, avdekke og rette opp avvik.
 
 Konsesjonæren skal skriftlig dokumentere internkontrollen i den form og det omfang som er nødvendig på bakgrunn av virksomhetens art, aktiviteter, risikoforhold og størrelse.
 
@@ -199,16 +240,38 @@ Fjernvarmeanlegg som skal forsyne offentlige institusjonsbygg, større forretnin
 
 ### § 5-2. Innholdet i søknader om konsesjon for fjernvarmeanlegg
 
-Søknad om konsesjon skal så langt det passer omfatte følgende punkter:beskrivelse av søkeren og dennes virksomhet, samt eierforholdteknisk og økonomisk beskrivelse av anlegget, herunder den fysiske utførelse av anleggetanleggets innpassing i energiplan og til eventuelle større interkommunale eller regionale fjernvarmeanleggplanlagt tidspunkt for påbegynnelse og fullførelse av anleggetinnvirkning på allmenne interesser og mulige avbøtende tiltakresultat av eventuelle konsekvensutredningerinnvirkning på private interesser, herunder grunneieres og andre rettighetshaveres interesserbehov for tillatelser etter annen lov, herunder forholdet til forurensningsloven, lov om brannfarlige varer, plan- og bygningsloven mv.opplysninger om priser og andre leveringsvilkår dersom søkeren forutsetter at det innføres vedtekt om tilknytningsplikt etter plan- og bygningsloven § 66a.
+Søknad om konsesjon skal så langt det passer omfatte følgende punkter:
+
+1. beskrivelse av søkeren og dennes virksomhet, samt eierforhold
+2. teknisk og økonomisk beskrivelse av anlegget, herunder den fysiske utførelse av anlegget
+3. anleggets innpassing i energiplan og til eventuelle større interkommunale eller regionale fjernvarmeanlegg
+4. planlagt tidspunkt for påbegynnelse og fullførelse av anlegget
+5. innvirkning på allmenne interesser og mulige avbøtende tiltak
+6. resultat av eventuelle konsekvensutredninger
+7. innvirkning på private interesser, herunder grunneieres og andre rettighetshaveres interesser
+8. behov for tillatelser etter annen lov, herunder forholdet til forurensningsloven, lov om brannfarlige varer, plan- og bygningsloven mv.
+9. opplysninger om priser og andre leveringsvilkår dersom søkeren forutsetter at det innføres vedtekt om tilknytningsplikt etter plan- og bygningsloven § 66a.
 
 > Endret ved [forskrifter 14 des 2001 nr. 1456](forskrift/2001-12-14-1456) (i kraft 1 jan 2002), [25 juni 2010 nr. 987](forskrift/2010-06-25-987) (i kraft 1 juli 2010).
 
 ### § 5-3. Plikter ved konsesjon for fjernvarmeanlegg
 
-1. *Drift og vedlikehold*Konsesjonæren plikter til enhver tid å holde anlegget i tilfredsstillende driftssikker stand, herunder sørge for vedlikehold og modernisering som sikrer kundene en pålitelig energilevering.
-2. *Miljø og landskap*Konsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at allmennheten påføres minst mulig miljø- og landskapsmessige ulemper i den grad det kan skje uten urimelige kostnader og ulemper for konsesjonæren.
-3. *Beredskap*Konsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at det tas beredskapsmessige hensyn.
-4. *Nedleggelse og rydding av anlegg*Ved nedleggelse plikter den tidligere konsesjonæren å fjerne det nedlagte anlegg og så langt det er mulig føre landskapet tilbake i naturlig tilstand.Det kan bestemmes at nedgravde deler av anlegget ikke skal graves opp igjen.Norges vassdrags- og energidirektorat kan sette frist for arbeidet og treffe bestemmelser om tilbakeføringen.
+1. *Drift og vedlikehold*
+
+   Konsesjonæren plikter til enhver tid å holde anlegget i tilfredsstillende driftssikker stand, herunder sørge for vedlikehold og modernisering som sikrer kundene en pålitelig energilevering.
+2. *Miljø og landskap*
+
+   Konsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at allmennheten påføres minst mulig miljø- og landskapsmessige ulemper i den grad det kan skje uten urimelige kostnader og ulemper for konsesjonæren.
+3. *Beredskap*
+
+   Konsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at det tas beredskapsmessige hensyn.
+4. *Nedleggelse og rydding av anlegg*
+
+   Ved nedleggelse plikter den tidligere konsesjonæren å fjerne det nedlagte anlegg og så langt det er mulig føre landskapet tilbake i naturlig tilstand.
+
+   Det kan bestemmes at nedgravde deler av anlegget ikke skal graves opp igjen.
+
+   Norges vassdrags- og energidirektorat kan sette frist for arbeidet og treffe bestemmelser om tilbakeføringen.
 
 > Endret ved [forskrifter 18 feb 1999 nr. 165](forskrift/1999-02-18-165) (i kraft 1 april 1999), [14 des 2001 nr. 1456](forskrift/2001-12-14-1456) (i kraft 1 jan 2002), [7 des 2012 nr. 1154](forskrift/2012-12-07-1154) (i kraft 1 jan 2013).
 
@@ -240,7 +303,15 @@ Departementet utpeker en rasjoneringsmyndighet.
 
 Rasjoneringsmyndigheten er ansvarlig for planlegging og administrativ gjennomføring av tiltak i forbindelse med kraftrasjonering.
 
-Ansvaret omfatter tiltak før, under og etter selve kraftrasjoneringsperioden, herunder:til enhver tid å være informert om forhold som har betydning for vurderingen av kraftoppdekningenanalysere kraftsituasjonen og vurdere hvorvidt vilkårene for å iverksette eller terminere kraftrasjonering er til stedeinformere departementet når kraftrasjonering kan være aktuelt og foreslå nødvendige tiltakholde departementet løpende orientert om utviklingen etter at kraftrasjonering er innførtnødvendige informative tiltak i tilknytning til en kraftrasjoneringssituasjon.sørge for at det til enhver tid er utarbeidet nødvendige planer og prosedyrer for sikker og effektiv varsling og rapportering om iverksettelse, gjennomføring og opphør av kraftrasjoneringføre kontroll og tilsyn med at pålagte forberedende tiltak gjennomføres.
+Ansvaret omfatter tiltak før, under og etter selve kraftrasjoneringsperioden, herunder:
+
+1. til enhver tid å være informert om forhold som har betydning for vurderingen av kraftoppdekningen
+2. analysere kraftsituasjonen og vurdere hvorvidt vilkårene for å iverksette eller terminere kraftrasjonering er til stede
+3. informere departementet når kraftrasjonering kan være aktuelt og foreslå nødvendige tiltak
+4. holde departementet løpende orientert om utviklingen etter at kraftrasjonering er innført
+5. nødvendige informative tiltak i tilknytning til en kraftrasjoneringssituasjon.
+6. sørge for at det til enhver tid er utarbeidet nødvendige planer og prosedyrer for sikker og effektiv varsling og rapportering om iverksettelse, gjennomføring og opphør av kraftrasjonering
+7. føre kontroll og tilsyn med at pålagte forberedende tiltak gjennomføres.
 
 Rasjoneringsmyndigheten skal legge til rette for at markedet kan virke så lenge som mulig og i så stor utstrekning som mulig. Det skal legges til rette for at markedsmessige virkemidler benyttes før, under og etter iverksettelse av kraftrasjonering.
 
@@ -302,7 +373,13 @@ Pålagte energiplaner skal oversendes Norges vassdrags- og energidirektorat. Nor
 
 Norges vassdrags- og energidirektorat kan innhente og behandle alle opplysninger fra Elhub, også personopplysninger, med samme detaljeringsgrad som de til enhver tid har i kraftsystemet.
 
-Norges vassdrags- og energidirektorat kan behandle personopplysninger overført fra Elhub når det er nødvendig for de forvaltningsoppgaver Norges vassdrags- og energidirektorat til enhver tid har som:energimyndighetkonsesjonsmyndighetmiljøtilsyn med energi- og vassdragsanleggberedskapsmyndighetrasjoneringsmyndighet.
+Norges vassdrags- og energidirektorat kan behandle personopplysninger overført fra Elhub når det er nødvendig for de forvaltningsoppgaver Norges vassdrags- og energidirektorat til enhver tid har som:
+
+1. energimyndighet
+2. konsesjonsmyndighet
+3. miljøtilsyn med energi- og vassdragsanlegg
+4. beredskapsmyndighet
+5. rasjoneringsmyndighet.
 
 Norges vassdrags- og energidirektorat kan vurdere, kvalitetssikre, analysere, sammenstille og på annen måte behandle personopplysninger overført fra Elhub med andre opplysninger fra interne og eksterne datakilder.
 
@@ -316,7 +393,11 @@ Norges vassdrags- og energidirektorat er behandlingsansvarlig for personopplysni
 
 Reguleringsmyndigheten for energi kan innhente og behandle alle opplysninger fra Elhub, også personopplysninger, med samme detaljeringsgrad som de til enhver tid har i kraftsystemet.
 
-Reguleringsmyndigheten for energi kan behandle personopplysninger overført fra Elhub når det er nødvendig for de forvaltningsoppgaver Reguleringsmyndigheten for energi til enhver tid har for følgende:fatte vedtak om nettselskapets inntektsrammerutvikling og bruk av analyser, metoder og annet grunnlagsmateriale i forbindelse med inntektsregulering av nettselskapenekontroll med arbeid knyttet til inntektsregulering av nettselskapene.
+Reguleringsmyndigheten for energi kan behandle personopplysninger overført fra Elhub når det er nødvendig for de forvaltningsoppgaver Reguleringsmyndigheten for energi til enhver tid har for følgende:
+
+1. fatte vedtak om nettselskapets inntektsrammer
+2. utvikling og bruk av analyser, metoder og annet grunnlagsmateriale i forbindelse med inntektsregulering av nettselskapene
+3. kontroll med arbeid knyttet til inntektsregulering av nettselskapene.
 
 Reguleringsmyndigheten for energi kan vurdere, kvalitetssikre, analysere, sammenstille og på annen måte behandle personopplysninger overført fra Elhub med andre opplysninger fra interne og eksterne datakilder.
 
@@ -330,7 +411,11 @@ Reguleringsmyndigheten for energi er behandlingsansvarlig for personopplysninger
 
 Statnett SF kan, som systemansvarlig etter [forskrift om systemansvaret i kraftsystemet](forskrift/2002-05-07-448) og som nettutreder etter [energiutredningsforskriften](forskrift/2024-01-25-106), innhente og behandle alle opplysninger fra Elhub, også personopplysninger, med samme detaljeringsgrad som de til enhver tid har i kraftsystemet.
 
-Statnett SF kan behandle personopplysninger overført fra Elhub når det er nødvendig for de forvaltningsoppgaver Statnett SF til enhver tid har for følgende:arbeid med analyser av kraftproduksjon, forbrukerfleksibilitet og endringeroptimalisering av systemdriftennettplanlegging.
+Statnett SF kan behandle personopplysninger overført fra Elhub når det er nødvendig for de forvaltningsoppgaver Statnett SF til enhver tid har for følgende:
+
+1. arbeid med analyser av kraftproduksjon, forbrukerfleksibilitet og endringer
+2. optimalisering av systemdriften
+3. nettplanlegging.
 
 Statnett SF kan vurdere, kvalitetssikre, analysere, sammenstille og på annen måte behandle personopplysninger overført fra Elhub med andre opplysninger fra interne og eksterne datakilder.
 
@@ -358,7 +443,13 @@ Enhver som skal utføre, utfører eller har utført arbeid eller oppdrag for Nor
 
 ### § 9-1. Kompetanse
 
-Norges vassdrags- og energidirektorat kan gi forskrifter om:ytterligere krav til søknaderkraftrasjonering og virkemidler for å unngå kraftrasjoneringenergiplanleggingberedskapovertredelsesgebyr.
+Norges vassdrags- og energidirektorat kan gi forskrifter om:
+
+1. ytterligere krav til søknader
+2. kraftrasjonering og virkemidler for å unngå kraftrasjonering
+3. energiplanlegging
+4. beredskap
+5. overtredelsesgebyr.
 
 > Tilføyd ved [forskrift 18 feb 1999 nr. 165](forskrift/1999-02-18-165) (i kraft 1 april 1999), endret ved [forskrifter 14 des 2001 nr. 1456](forskrift/2001-12-14-1456) (i kraft 1 jan 2002), [13 des 2006 nr. 1462](forskrift/2006-12-13-1462) (i kraft 1 jan 2007), [25 juni 2010 nr. 987](forskrift/2010-06-25-987) (i kraft 1 juli 2010, tidligere § 7-1), [21 des 2011 nr. 1469](forskrift/2011-12-21-1469) (i kraft 1 jan 2012), [24 okt 2019 nr. 1414](forskrift/2019-10-24-1414) (i kraft 1 nov 2019), [8 mai 2024 nr. 752](forskrift/2024-05-08-752) (i kraft 1 juli 2024).
 

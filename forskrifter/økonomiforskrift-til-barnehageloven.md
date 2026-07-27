@@ -34,7 +34,11 @@ Forskriften gjelder godkjente private barnehager som driver virksomhet etter [ba
 
 ## § 3. Tilleggsvirksomhet
 
-Når vilkårene i [barnehageloven § 23a](lov/2005-06-17-64/§23a) andre ledd er oppfylt, kan barnehagen drive følgende tilleggsvirksomhet:utleie av barnehagelokalene og barnehagens uteområde utenfor barnehagens åpningstidutleie av barnehagens driftsmidler utenfor barnehagens åpningstid eller utenfor barnehagens områdekurs og veiledning.
+Når vilkårene i [barnehageloven § 23a](lov/2005-06-17-64/§23a) andre ledd er oppfylt, kan barnehagen drive følgende tilleggsvirksomhet:
+
+1. utleie av barnehagelokalene og barnehagens uteområde utenfor barnehagens åpningstid
+2. utleie av barnehagens driftsmidler utenfor barnehagens åpningstid eller utenfor barnehagens område
+3. kurs og veiledning.
 
 Når vilkårene i [barnehageloven § 23a andre ledd](lov/2005-06-17-64/§23a/ledd/2) er oppfylt, kan barnehagene til studentsamskipnadene, jf. [studentsamskipnadsloven](lov/2007-12-14-116), drive studentvelferdstjenester etter [forskrift om studentsamskipnader § 8 første ledd](forskrift/2008-07-22-828/§8/ledd/1).
 
@@ -42,7 +46,11 @@ Når vilkårene i [barnehageloven § 23a andre ledd](lov/2005-06-17-64/§23a/led
 
 ## § 3a. Unntak fra kravet om selvstendig rettssubjekt
 
-Kravet i [barnehageloven § 7a første ledd](lov/2005-06-17-64/§7a/ledd/1) om at hver private barnehage skal være et selvstendig rettssubjekt gjelder ikke forbarnehager som er en del av virksomheten til sokn i Den norske kirkebarnehager som er en del av virksomheten til Den franske skolen i Oslo, Den tysk-norske skolen i Oslo, International School of Bergen, International School of Stavanger eller Oslo International School og barnehager som er en del av private grunnskoler godkjent etter [opplæringslova 2023 § 22-1](lov/2023-06-09-30/§22-1)barnehager som sammen med en eller flere andre barnehager var organisert i samme stiftelse før kravet i [barnehageloven § 7a første ledd](lov/2005-06-17-64/§7a/ledd/1) ble vedtatt, og som ikke driver annen virksomhet enn barnehagevirksomhet eller tilleggsvirksomhet som er tillatt etter [barnehageloven § 23a andre ledd](lov/2005-06-17-64/§23a/ledd/2) og som ikke gjør utdelinger.
+Kravet i [barnehageloven § 7a første ledd](lov/2005-06-17-64/§7a/ledd/1) om at hver private barnehage skal være et selvstendig rettssubjekt gjelder ikke for
+
+1. barnehager som er en del av virksomheten til sokn i Den norske kirke
+2. barnehager som er en del av virksomheten til Den franske skolen i Oslo, Den tysk-norske skolen i Oslo, International School of Bergen, International School of Stavanger eller Oslo International School og barnehager som er en del av private grunnskoler godkjent etter [opplæringslova 2023 § 22-1](lov/2023-06-09-30/§22-1)
+3. barnehager som sammen med en eller flere andre barnehager var organisert i samme stiftelse før kravet i [barnehageloven § 7a første ledd](lov/2005-06-17-64/§7a/ledd/1) ble vedtatt, og som ikke driver annen virksomhet enn barnehagevirksomhet eller tilleggsvirksomhet som er tillatt etter [barnehageloven § 23a andre ledd](lov/2005-06-17-64/§23a/ledd/2) og som ikke gjør utdelinger.
 
 > Tilføyd ved forskrift [14 juni 2024 nr. 1006](forskrift/2024-06-14-1006), endret ved forskrift [1 juli 2025 nr. 1378](forskrift/2025-07-01-1378).
 
@@ -96,7 +104,10 @@ Barnehagen skal oppbevare regnskapsmateriale og annen dokumentasjon etter denne 
 
 ## § 10. Meldeplikt
 
-Barnehagen skal melde fra til kommunen og Utdanningsdirektoratet omendring av foretaksnavn, forretningsadresse, formål/aktivitet/bransje, organisasjonsform, innehaver av enkeltpersonforetak, deltaker i ansvarlig selskap og selskap med delt ansvar og vedtekter etter [barnehageloven](lov/2005-06-17-64)fisjon, fusjon, varsel om tvangsavvikling, sletting, nyregistrering eller overdragelse eller overtakelse eller sletting av underenhet
+Barnehagen skal melde fra til kommunen og Utdanningsdirektoratet om
+
+1. endring av foretaksnavn, forretningsadresse, formål/aktivitet/bransje, organisasjonsform, innehaver av enkeltpersonforetak, deltaker i ansvarlig selskap og selskap med delt ansvar og vedtekter etter [barnehageloven](lov/2005-06-17-64)
+2. fisjon, fusjon, varsel om tvangsavvikling, sletting, nyregistrering eller overdragelse eller overtakelse eller sletting av underenhet
 
 Barnehagen skal melde fra på standardisert skjema fastsatt av Utdanningsdirektoratet før endringene finner sted.
 

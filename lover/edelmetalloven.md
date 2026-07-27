@@ -15,7 +15,7 @@ xml_hash: "9326f79fa9c12ddb653d7eb78434ce3de8a983f86f7d69cc40e9c09d91d71e86"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,11 @@ Kongen kan gi forskrifter om lovens anvendelse på Svalbard, og kan fastsette s�
 
 Varer kan bare markedsføres eller omsettes som gull, sølv eller platina når de i hver enkelt del inneholder minst henholdsvis 375 tusendeler gull, 800 tusendeler sølv eller 850 tusendeler platina. Kravet gjelder ikke varer som importeres fra annen EØS-stat og som lovlig omsettes som varer av edelt metall der.
 
-Departementet kan gi forskrift ombetegnelser på varer sammensatt av to eller flere edle metaller og varer sammensatt av edelt metall og annet materialekontroll av innhold av edelt metall, analysemetoder mv.bruk av loddemetall mv.
+Departementet kan gi forskrift om
+
+1. betegnelser på varer sammensatt av to eller flere edle metaller og varer sammensatt av edelt metall og annet materiale
+2. kontroll av innhold av edelt metall, analysemetoder mv.
+3. bruk av loddemetall mv.
 
 ## § 4. Krav til finhetsstempel mv.
 
@@ -44,7 +48,11 @@ Varer som markedsføres eller omsettes som varer av edelt metall, skal ha finhet
 
 Finhetsstempel kan bare påføres varer som tilfredsstiller kravene i [§ 3](lov/2010-09-03-52/§3) første ledd. Finhetsstempel kan likevel påføres varer med deler av annet materiale dersom delen er synlig ved en utvendig besiktigelse og ikke har et utseende som kan medføre forveksling med edelt metall. Varer som ikke kan påføres finhetsstempel, skal heller ikke merkes på måter som kan forveksles med finhetsstempel.
 
-Departementet kan gi forskrift om:stempling av varer av edelt metallstempling mv. av varer sammensatt av to eller flere edle metaller og varer sammensatt av slikt metall og annet materialeunntak fra reglene om stempling for enkelte varegrupper.
+Departementet kan gi forskrift om:
+
+1. stempling av varer av edelt metall
+2. stempling mv. av varer sammensatt av to eller flere edle metaller og varer sammensatt av slikt metall og annet materiale
+3. unntak fra reglene om stempling for enkelte varegrupper.
 
 ## § 5. Krav til ansvarsmerke
 
@@ -52,13 +60,21 @@ Varer av edelt metall som påføres finhetsstempel, skal samtidig påføres ansv
 
 Ansvarsmerket skal være registrert hos Patentstyret.
 
-Kravet i annet ledd gjelder ikke for varer av edelt metall som importeres fra en EØS-stat og som er merket i samsvar med lovgivningen der, når Justervesenet mottar melding om merkingen før varene blir markedsført ogmerket ikke er egnet til å forveksles med et norsk ansvarsmerke,produsenten av varen kan identifiseres, ogdet er dokumentert at merket er lovlig påført varen.
+Kravet i annet ledd gjelder ikke for varer av edelt metall som importeres fra en EØS-stat og som er merket i samsvar med lovgivningen der, når Justervesenet mottar melding om merkingen før varene blir markedsført og
+
+1. merket ikke er egnet til å forveksles med et norsk ansvarsmerke,
+2. produsenten av varen kan identifiseres, og
+3. det er dokumentert at merket er lovlig påført varen.
 
 Departementet kan gi forskrift om ansvarsmerker, herunder søknadsbehandling, registrering, overdragelse, opphør og fornyelse av registreringer. Departementet kan gi forskrift om avgift og gebyr for Patentstyrets registrering av ansvarsmerke og fornyelse av registrering.
 
 ## § 6. Forskrift om konvensjonen om kontroll og merking av artikler av edle metaller
 
-Departementet kan gi forskrift omunntak fra [§ 5](lov/2010-09-03-52/§5) annet ledd for varer som er stemplet med det felles kontrollmerke (CCM) etter Wienkonvensjonen 15. november 1972 om kontroll og merking av artikler av edle metallerstempling med CCM og om vilkår for slik stemplingkontroll av varer som er stemplet med CCM.
+Departementet kan gi forskrift om
+
+1. unntak fra [§ 5](lov/2010-09-03-52/§5) annet ledd for varer som er stemplet med det felles kontrollmerke (CCM) etter Wienkonvensjonen 15. november 1972 om kontroll og merking av artikler av edle metaller
+2. stempling med CCM og om vilkår for slik stempling
+3. kontroll av varer som er stemplet med CCM.
 
 ## § 7. Tilsyn
 
@@ -68,7 +84,11 @@ Justervesenet kan kreve at produsenter, importører, forhandlere, ansatte hos di
 
 ## § 8. Retting, omsetningsforbud og tilbaketrekking
 
-Tilfredsstiller ikke varer av edelt metall krav fastsatt i eller med hjemmel i loven, kan Justervesenet fatte vedtak omretting innen fastsatt fristforbud mot omsetningtilbaketrekking fra markedet av varer som allerede er lagt ut for salg eller annen type omsetning.
+Tilfredsstiller ikke varer av edelt metall krav fastsatt i eller med hjemmel i loven, kan Justervesenet fatte vedtak om
+
+1. retting innen fastsatt frist
+2. forbud mot omsetning
+3. tilbaketrekking fra markedet av varer som allerede er lagt ut for salg eller annen type omsetning.
 
 Retting, omsetningsforbud og pålegg om tilbaketrekking kan vedtas for enkeltprodukter eller for angitte varepartier, produksjonsserier og lignende.
 
@@ -104,7 +124,10 @@ Ved forsinket betaling skal det betales rente i henhold til [lov 17. desember 19
 
 ## § 12. Ikrafttredelse og overgangsbestemmelse
 
-Loven gjelder fra den tid Kongen bestemmer.1 Fra samme tid oppheves[lov 6. juni 1891 nr. 2](lov/1891-06-06-2) om Guld-, Sølv- og Platinavarers Finhed og Stempling m.v.[lov 22. mai 1902 nr. 10](lov/1902-05-22-10) Almindelig borgerlig Straffelov [§ 375](lov/1902-05-22-10/§375).
+Loven gjelder fra den tid Kongen bestemmer.1 Fra samme tid oppheves
+
+- [lov 6. juni 1891 nr. 2](lov/1891-06-06-2) om Guld-, Sølv- og Platinavarers Finhed og Stempling m.v.
+- [lov 22. mai 1902 nr. 10](lov/1902-05-22-10) Almindelig borgerlig Straffelov [§ 375](lov/1902-05-22-10/§375).
 
 Varer som før ikrafttredelsen er stemplet etter tidligere regler, kan fortsatt omsettes.
 

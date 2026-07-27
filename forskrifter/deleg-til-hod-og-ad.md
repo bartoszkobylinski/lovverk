@@ -23,6 +23,9 @@ eu_basis: []
 
 # Delegering av myndighet til Helse- og omsorgsdepartementet og Arbeidsdepartementet etter lov om helsetjenesten i kommunene § 2-3 tredje og femte ledd og etter lov om anke til Trygderetten § 4 annet ledd
 
-1. Følgende myndighet delegeres fra Kongen til Helse- og omsorgsdepartementet og Arbeidsdepartementet:Til Helse- og omsorgsdepartementet: [Lov 19. november 1982 nr. 66](lov/1982-11-19-66) om helsetjenesten i kommunene [§ 2-3](lov/1982-11-19-66/§2-3) tredje og femte ledd.Til Arbeidsdepartementet: [Lov 16. desember 1966 nr. 9](lov/1966-12-16-9) om anke til Trygderetten [§ 4](lov/1966-12-16-9/§4) annet ledd.
+1. Følgende myndighet delegeres fra Kongen til Helse- og omsorgsdepartementet og Arbeidsdepartementet:
+
+   - Til Helse- og omsorgsdepartementet: [Lov 19. november 1982 nr. 66](lov/1982-11-19-66) om helsetjenesten i kommunene [§ 2-3](lov/1982-11-19-66/§2-3) tredje og femte ledd.
+   - Til Arbeidsdepartementet: [Lov 16. desember 1966 nr. 9](lov/1966-12-16-9) om anke til Trygderetten [§ 4](lov/1966-12-16-9/§4) annet ledd.
 
 > Endret ved [forskrifter 18 feb 2005 nr. 218](forskrift/2005-02-18-218), [8 jan 2010 nr. 15](forskrift/2010-01-08-15).

@@ -34,7 +34,11 @@ Forskriften skal være et virkemiddel for kommunen for å sikre kvalitet i og en
 
 ### § 2. Definisjoner
 
-I forskriften menes med:*Fysioterapeut:* Selvstendig næringsdrivende fysioterapeut, inkludert manuellterapeut, med kommunal driftsavtale.*Manuellterapeut:* Fysioterapeut registrert med autorisasjon som manuellterapeut i Helsepersonellregisteret.*Kommunal driftsavtale:* Avtale med kommunen om å tilby fysioterapitjenester på vegne av kommunen.
+I forskriften menes med:
+
+1. *Fysioterapeut:* Selvstendig næringsdrivende fysioterapeut, inkludert manuellterapeut, med kommunal driftsavtale.
+2. *Manuellterapeut:* Fysioterapeut registrert med autorisasjon som manuellterapeut i Helsepersonellregisteret.
+3. *Kommunal driftsavtale:* Avtale med kommunen om å tilby fysioterapitjenester på vegne av kommunen.
 
 > Endret ved forskrifter [16 des 2022 nr. 2321](forskrift/2022-12-16-2321) (i kraft 1 jan 2023), [9 des 2024 nr. 3011](forskrift/2024-12-09-3011) (i kraft 1 jan 2025).
 
@@ -150,7 +154,10 @@ Trer i kraft når departementet bestemmer, se [§ 23](forskrift/2017-09-01-1334/
 
 ### § 17. Behandling i hjemmet og ambulante tilbud
 
-Fysioterapeuten skal gi tilbud om behandling i hjemmet til hjemmeboende pasienter som:på grunn av sin helsetilstand eller funksjonsevne ikke er i stand til å møte til konsultasjon i fysioterapeutens lokaler ellernår dette anses nødvendig for å sikre pasienten forsvarlig helsehjelp
+Fysioterapeuten skal gi tilbud om behandling i hjemmet til hjemmeboende pasienter som:
+
+1. på grunn av sin helsetilstand eller funksjonsevne ikke er i stand til å møte til konsultasjon i fysioterapeutens lokaler eller
+2. når dette anses nødvendig for å sikre pasienten forsvarlig helsehjelp
 
 Kommunen og fysioterapeuten avtaler nærmere hvordan fysioterapeuten skal bidra til å avhjelpe kommunens behov for ambulerende tjenester.
 

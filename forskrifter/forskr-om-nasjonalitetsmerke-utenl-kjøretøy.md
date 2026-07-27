@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Utenlandsregistrert kjøretøy skal ved opphold i Norge være utstyrt mednasjonalitetsmerke med nasjonalitetsbokstav(er) bak i henhold til Wienkonvensjonen 8. november 1968, artikkel 37 og bilag 3, og/ellerde samme nasjonalitetsbokstaver på kjøretøy fra EU-stat angitt på venstre side av kjennemerket i henhold til Rfo. [(EF) nr. 2411/98](eu/31998r2411).
+Utenlandsregistrert kjøretøy skal ved opphold i Norge være utstyrt med
+
+1. nasjonalitetsmerke med nasjonalitetsbokstav(er) bak i henhold til Wienkonvensjonen 8. november 1968, artikkel 37 og bilag 3, og/eller
+2. de samme nasjonalitetsbokstaver på kjøretøy fra EU-stat angitt på venstre side av kjennemerket i henhold til Rfo. [(EF) nr. 2411/98](eu/31998r2411).
 
 ## § 2.
 

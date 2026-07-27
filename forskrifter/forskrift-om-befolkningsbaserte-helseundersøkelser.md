@@ -15,7 +15,7 @@ xml_hash: "52a7f69b347b7675bdac897dfc57244c11764906dff99fab6a0580560a13d741"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,12 @@ Forskriften skal sikre at behandlingen av helseopplysninger og humant biologisk 
 
 ### § 1-2. Virkeområde
 
-Forskriften regulerer innsamling og annen behandling av helseopplysninger og humant biologisk materiale i befolkningsbaserte helseundersøkelser. Forskriften gjelder befolkningsbaserte helseundersøkelser som oppfyller følgende vilkår:Helseopplysninger og eventuelt humant biologisk materiale behandles etter samtykke fra hver enkelt deltaker.Helseopplysninger fra undersøkelsen skal benyttes til analyser og forskning som kan gi kunnskap om befolkningens helse. Dette omfatter også faktorer som har sammenheng med helse og sosiale ulikheter i helse, og forutsetninger for diagnostikk, behandling av sykdom, å bli frisk fra sykdom, å mestre sykdom eller å forbli frisk.En hel befolkning, en befolkningsgruppe eller et representativt utvalg blir invitert til å delta.Folkehelseinstituttet, et universitet eller en høyskole med medisinsk eller helsefaglig utdanning eller et helseforetak med universitetsfunksjon er dataansvarlig for behandlingen av helseopplysningene og ansvarlig for eventuell behandling av humant biologisk materiale i undersøkelsen.
+Forskriften regulerer innsamling og annen behandling av helseopplysninger og humant biologisk materiale i befolkningsbaserte helseundersøkelser. Forskriften gjelder befolkningsbaserte helseundersøkelser som oppfyller følgende vilkår:
+
+1. Helseopplysninger og eventuelt humant biologisk materiale behandles etter samtykke fra hver enkelt deltaker.
+2. Helseopplysninger fra undersøkelsen skal benyttes til analyser og forskning som kan gi kunnskap om befolkningens helse. Dette omfatter også faktorer som har sammenheng med helse og sosiale ulikheter i helse, og forutsetninger for diagnostikk, behandling av sykdom, å bli frisk fra sykdom, å mestre sykdom eller å forbli frisk.
+3. En hel befolkning, en befolkningsgruppe eller et representativt utvalg blir invitert til å delta.
+4. Folkehelseinstituttet, et universitet eller en høyskole med medisinsk eller helsefaglig utdanning eller et helseforetak med universitetsfunksjon er dataansvarlig for behandlingen av helseopplysningene og ansvarlig for eventuell behandling av humant biologisk materiale i undersøkelsen.
 
 Undersøkelser som ikke oppfyller vilkårene i første ledd, kan likevel etableres dersom det er adgang til å behandle helseopplysninger etter EUs personvernforordning artikkel 6 og 9 og til å behandle humant biologisk materiale etter [helseforskningsloven § 25](lov/2008-06-20-44/§25) følgende.
 
@@ -56,7 +61,14 @@ Helseregistre i befolkningsbaserte helseundersøkelser kan etableres når vilkå
 
 Den helsefaglige eller samfunnsmessige nytten av registeret må klart overstige personvernulempene.
 
-Den dataansvarlige skalfastsette formålene for undersøkelsenfastsette kriteriene for hvem som skal inviteres til å delta i undersøkelsenfastsette hva slags opplysninger som vil bli samlet inn og lagretgi informasjon til deltakerne og innhente samtykkevurdere personvernkonsekvenser av undersøkelsen og rådføre seg med Datatilsynet dersom behandlingen av opplysninger vil føre til høy risiko for fysiske personers rettigheter og friheter, jf. EUs personvernforordning artikkel 35 og 36fastsette prosedyrer for tilgjengeliggjøring av opplysninger fra undersøkelsen.
+Den dataansvarlige skal
+
+1. fastsette formålene for undersøkelsen
+2. fastsette kriteriene for hvem som skal inviteres til å delta i undersøkelsen
+3. fastsette hva slags opplysninger som vil bli samlet inn og lagret
+4. gi informasjon til deltakerne og innhente samtykke
+5. vurdere personvernkonsekvenser av undersøkelsen og rådføre seg med Datatilsynet dersom behandlingen av opplysninger vil føre til høy risiko for fysiske personers rettigheter og friheter, jf. EUs personvernforordning artikkel 35 og 36
+6. fastsette prosedyrer for tilgjengeliggjøring av opplysninger fra undersøkelsen.
 
 Vilkårene i denne bestemmelsen gjelder tilsvarende ved etterfølgende utvidelser eller endringer i undersøkelsen.
 
@@ -64,7 +76,15 @@ Den dataansvarlige skal utarbeide dokumentasjon på at vilkårene er oppfylt. Do
 
 ### § 2-2. Opplysningstyper som kan registreres
 
-Når det er nødvendig for undersøkelsens formål og innenfor deltakerens samtykke, kan følgende opplysninger registreres:fødselsnummer eller annet direkte personidentifiserende kjennetegndemografiske og sosioøkonomiske opplysningeropplysninger som vedkommende selv oppgir i spørreskjema eller ved intervjumålte verdier og opplysninger framkommet ved helseundersøkelse i henhold til fastsatt undersøkelsesprogramhelseopplysninger framkommet ved analyser av humant biologisk materiale innsamlet i undersøkelsenopplysninger fra andre registreopplysninger framkommet ved analyse av opplysninger fra undersøkelsen og fra andre registre.
+Når det er nødvendig for undersøkelsens formål og innenfor deltakerens samtykke, kan følgende opplysninger registreres:
+
+1. fødselsnummer eller annet direkte personidentifiserende kjennetegn
+2. demografiske og sosioøkonomiske opplysninger
+3. opplysninger som vedkommende selv oppgir i spørreskjema eller ved intervju
+4. målte verdier og opplysninger framkommet ved helseundersøkelse i henhold til fastsatt undersøkelsesprogram
+5. helseopplysninger framkommet ved analyser av humant biologisk materiale innsamlet i undersøkelsen
+6. opplysninger fra andre registre
+7. opplysninger framkommet ved analyse av opplysninger fra undersøkelsen og fra andre registre.
 
 ### § 2-3. Vilkår for etablering av forskningsbiobanker
 
@@ -72,7 +92,12 @@ Den dataansvarlige for befolkningsbaserte helseundersøkelser kan etablere en el
 
 Innsamlingen av humant biologisk materiale skal være nødvendig for undersøkelsens formål. [Helseforskningsloven § 5](lov/2008-06-20-44/§5) og [§ 6](lov/2008-06-20-44/§6) om forsvarlighet og organisering gjelder tilsvarende. Den dataansvarlige for behandling av helseopplysninger i undersøkelsen, skal også være forskningsansvarlig for forskningsbiobanken.
 
-I tillegg til kravene som følger av [§ 2-1](forskrift/2018-04-27-645/§2-1), skal den dataansvarligevurdere forskningsetiske hensyn ved behandlingen av humant biologisk materialefastsette hva slags materiale som skal innhentes, og fra hvor eller hvem materialet skal innhentesfastsette prosedyrer for utlevering av humant biologisk materiale fra undersøkelsenutpeke en ansvarshavende person for forskningsbiobanken, jf. [helseforskningsloven § 26](lov/2008-06-20-44/§26).
+I tillegg til kravene som følger av [§ 2-1](forskrift/2018-04-27-645/§2-1), skal den dataansvarlige
+
+1. vurdere forskningsetiske hensyn ved behandlingen av humant biologisk materiale
+2. fastsette hva slags materiale som skal innhentes, og fra hvor eller hvem materialet skal innhentes
+3. fastsette prosedyrer for utlevering av humant biologisk materiale fra undersøkelsen
+4. utpeke en ansvarshavende person for forskningsbiobanken, jf. [helseforskningsloven § 26](lov/2008-06-20-44/§26).
 
 Den dataansvarlige skal melde etableringen av forskningsbiobanken til Biobankregisteret ved Folkehelseinstituttet, jf. [helseforskningsloven § 44](lov/2008-06-20-44/§44) siste ledd. Meldingen skal inneholde dokumentasjon som viser at vilkårene i andre og tredje ledd er oppfylt. Dokumentasjonen skal være offentlig tilgjengelig.
 
@@ -88,7 +113,25 @@ Når foreldre eller andre med foreldreansvar har samtykket på vegne av en delta
 
 Den dataansvarlige skal sørge for at deltakerne får den informasjonen som er nødvendig for å få innsikt i hva samtykket innebærer.
 
-Hver deltaker skal før avgivelsen av samtykket få informasjon i samsvar med EUs personvernforordning artikkel 13 og 14. Deltakeren skal minst få informasjon omhvilken undersøkelse samtykket gjelderundersøkelsens formålhva undersøkelsen i praksis vil innebære for den enkelte deltakeren (om deltakeren skal svare på et spørreskjema, bli undersøkt av lege, testes, avgi blodprøve, e.l.)hvem som er dataansvarlig, forskningsansvarlig og personvernombud, samt deres kontaktopplysningerhvilke opplysninger og hva slags humant biologisk materiale som vil bli samlet inn og lagrethvor opplysningene skal hentes frahvor lenge helseopplysningene og humant biologisk materiale skal lagresom det vil bli gitt tilbakemelding til deltakeren om resultatet av undersøkelserhvordan helseopplysningene og humant biologisk materiale skal tilgjengeliggjøres og behandles på andre måterom helseopplysningene kan sammenstilles med andre registre og hvilke registre det kan sammenstilles medom helseopplysninger skal utledes av humant biologisk materiale og i tilfelle om slike opplysninger kan inneholde genetiske opplysningerom analyseresultater av opplysninger og humant biologisk materiale vil bli tilbakeført og lagret i undersøkelsenat deltakelsen er frivillig, at deltakeren til enhver tid kan trekke seg fra undersøkelsen og fremgangsmåten for slik tilbaketrekningdeltakerens rett til informasjon, innsyn, sletting og sperring etter [helseregisterloven § 23](lov/2014-06-20-43/§23) til [§ 25](lov/2014-06-20-43/§25)hvordan informasjon vil bli formidlet i løpet av undersøkelsenom deltakeren senere kan bli kontaktet for tilleggsundersøkelserat deltakeren kan henvende seg til Datatilsynet eller Statens helsetilsyn dersom opplysninger eller humant biologisk materiale ikke behandles i samsvar med forskriften.
+Hver deltaker skal før avgivelsen av samtykket få informasjon i samsvar med EUs personvernforordning artikkel 13 og 14. Deltakeren skal minst få informasjon om
+
+1. hvilken undersøkelse samtykket gjelder
+2. undersøkelsens formål
+3. hva undersøkelsen i praksis vil innebære for den enkelte deltakeren (om deltakeren skal svare på et spørreskjema, bli undersøkt av lege, testes, avgi blodprøve, e.l.)
+4. hvem som er dataansvarlig, forskningsansvarlig og personvernombud, samt deres kontaktopplysninger
+5. hvilke opplysninger og hva slags humant biologisk materiale som vil bli samlet inn og lagret
+6. hvor opplysningene skal hentes fra
+7. hvor lenge helseopplysningene og humant biologisk materiale skal lagres
+8. om det vil bli gitt tilbakemelding til deltakeren om resultatet av undersøkelser
+9. hvordan helseopplysningene og humant biologisk materiale skal tilgjengeliggjøres og behandles på andre måter
+10. om helseopplysningene kan sammenstilles med andre registre og hvilke registre det kan sammenstilles med
+11. om helseopplysninger skal utledes av humant biologisk materiale og i tilfelle om slike opplysninger kan inneholde genetiske opplysninger
+12. om analyseresultater av opplysninger og humant biologisk materiale vil bli tilbakeført og lagret i undersøkelsen
+13. at deltakelsen er frivillig, at deltakeren til enhver tid kan trekke seg fra undersøkelsen og fremgangsmåten for slik tilbaketrekning
+14. deltakerens rett til informasjon, innsyn, sletting og sperring etter [helseregisterloven § 23](lov/2014-06-20-43/§23) til [§ 25](lov/2014-06-20-43/§25)
+15. hvordan informasjon vil bli formidlet i løpet av undersøkelsen
+16. om deltakeren senere kan bli kontaktet for tilleggsundersøkelser
+17. at deltakeren kan henvende seg til Datatilsynet eller Statens helsetilsyn dersom opplysninger eller humant biologisk materiale ikke behandles i samsvar med forskriften.
 
 Deltakerne skal informeres jevnlig om undersøkelsen, blant annet om hvordan helseopplysninger og humant biologisk materiale brukes.
 
@@ -150,7 +193,12 @@ Bare autorisert personell som utfører tjenester eller arbeid mot registeret og 
 
 ### § 4-6. Internkontroll ved behandling av helseopplysninger
 
-Den dataansvarlige og databehandleren skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandlingen utføres i samsvar med personvernkravene, jf. EUs personvernforordning artikkel 24. Blant annet skal den dataansvarlige sørge forå ha oversikt over kravene som gjelder for behandling av helseopplysningerat det utarbeides og dokumenteres rutiner som setter ledere, medarbeiderne og annet personell i stand til å overholde kraveneat det utarbeides og dokumenteres rutiner for å motta meldinger om avvik og sikre at avvik rettessystematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i behandlingen av helseopplysninger i undersøkelsen.
+Den dataansvarlige og databehandleren skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandlingen utføres i samsvar med personvernkravene, jf. EUs personvernforordning artikkel 24. Blant annet skal den dataansvarlige sørge for
+
+1. å ha oversikt over kravene som gjelder for behandling av helseopplysninger
+2. at det utarbeides og dokumenteres rutiner som setter ledere, medarbeiderne og annet personell i stand til å overholde kravene
+3. at det utarbeides og dokumenteres rutiner for å motta meldinger om avvik og sikre at avvik rettes
+4. systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i behandlingen av helseopplysninger i undersøkelsen.
 
 ### § 4-7. Bevaring av helseopplysninger
 
@@ -166,7 +214,12 @@ Dersom andre får utlevert humant biologisk materiale, kan den dataansvarlige st
 
 ### § 5-2. Internkontroll for behandling av humant biologisk materiale
 
-Den dataansvarlige skal gjennom planlagte, systematiske og dokumenterte tiltak sørge for at materialet i forskningsbiobanken oppbevares og behandles i samsvar med kravene i [§ 5-1](forskrift/2018-04-27-645/§5-1). Blant annet skal den dataansvarlige sørge forå ha oversikt over kravene som gjelder for forskningsbiobankenat det utarbeides og dokumenteres rutiner som setter ledere, medarbeiderne og annet personell i stand til å overholde kraveneat det utarbeides og dokumenteres rutiner for å motta meldinger om avvik og sikre at avvik rettessystematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i behandlingen av humant biologisk materiale i undersøkelsen.
+Den dataansvarlige skal gjennom planlagte, systematiske og dokumenterte tiltak sørge for at materialet i forskningsbiobanken oppbevares og behandles i samsvar med kravene i [§ 5-1](forskrift/2018-04-27-645/§5-1). Blant annet skal den dataansvarlige sørge for
+
+1. å ha oversikt over kravene som gjelder for forskningsbiobanken
+2. at det utarbeides og dokumenteres rutiner som setter ledere, medarbeiderne og annet personell i stand til å overholde kravene
+3. at det utarbeides og dokumenteres rutiner for å motta meldinger om avvik og sikre at avvik rettes
+4. systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i behandlingen av humant biologisk materiale i undersøkelsen.
 
 ### § 5-3. Bevaring av humant biologisk materiale
 

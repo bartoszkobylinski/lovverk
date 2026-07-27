@@ -15,7 +15,7 @@ xml_hash: "9719470142d3439f2cee0044e115fece215f80a21efcea8101a3436ab8200983"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,13 +62,22 @@ Ved forlengelse av legeattest gjelder de samme medisinske krav som ved utstedels
 
 ## 4. Generelle helsekrav
 
-Den medisinske bedømmelsen av søkeren skal skje på grunnlag av resultatene som fremkommer ved undersøkelse bygget på:fysiske og psykiske helsekravsynskravfargesanskravhørselskrav.
+Den medisinske bedømmelsen av søkeren skal skje på grunnlag av resultatene som fremkommer ved undersøkelse bygget på:
+
+1. fysiske og psykiske helsekrav
+2. synskrav
+3. fargesanskrav
+4. hørselskrav.
 
 ## 5. Fysiske og psykiske helsekrav
 
 5.1.*Generelt*
 
-Søkeren skal ikke vise symptomer eller tegn til:medfødt eller ervervet defekt eller lyteaktiv, latent, akutt eller kronisk funksjonsforstyrrelseskade eller tilstand som følge av kirurgisk inngrep som kan medføre at søkeren ikke er i stand til å utføre tjenesten på en sikker måte eller utføre annen tjeneste som sertifikatet gir rett til.
+Søkeren skal ikke vise symptomer eller tegn til:
+
+1. medfødt eller ervervet defekt eller lyte
+2. aktiv, latent, akutt eller kronisk funksjonsforstyrrelse
+3. skade eller tilstand som følge av kirurgisk inngrep som kan medføre at søkeren ikke er i stand til å utføre tjenesten på en sikker måte eller utføre annen tjeneste som sertifikatet gir rett til.
 
 5.2.*Latente forhold*
 
@@ -78,13 +87,24 @@ Søkeren skal ikke vise tegn til sykdom eller funksjonsforstyrrelse som plutseli
 
 5.3.1.
 
-Sykdomstilstandene som er nevnt nedenfor kan føre til at søkeren ikke blir i stand til å utføre tjenesten på en sikker måte:psykosealkoholismeandre former for misbruk av stimulerende eller bedøvende midlerpersonlighetsforstyrrelse av alvorlig artmental abnormitet eller nevrose.
+Sykdomstilstandene som er nevnt nedenfor kan føre til at søkeren ikke blir i stand til å utføre tjenesten på en sikker måte:
+
+1. psykose
+2. alkoholisme
+3. andre former for misbruk av stimulerende eller bedøvende midler
+4. personlighetsforstyrrelse av alvorlig art
+5. mental abnormitet eller nevrose.
 
 Dette kan medføre udyktighet.
 
 5.3.2.
 
-Søkeren skal ikke ha noen av de anamnestiske eller klinisk diagnostiserte sykdommene som er nevnt nedenfor:aktiv eller latent sykdom i nervesystemetepilepsi eller øket risiko for andre krampetilstanderbevissthetsforstyrrelser eller bevissthetstap uten tilfredsstillende medisinsk forklaring.alvorlige hjerne- eller hodeskader
+Søkeren skal ikke ha noen av de anamnestiske eller klinisk diagnostiserte sykdommene som er nevnt nedenfor:
+
+1. aktiv eller latent sykdom i nervesystemet
+2. epilepsi eller øket risiko for andre krampetilstander
+3. bevissthetsforstyrrelser eller bevissthetstap uten tilfredsstillende medisinsk forklaring.
+4. alvorlige hjerne- eller hodeskader
 
 5.4.*Hjerte og sirkulasjonsorganer*
 
@@ -200,7 +220,13 @@ Det skal være fri luftpassasje gjennom begge nesebor.
 
 5.13.2.
 
-Søkeren skal ikke ha noen klinisk diagnostisert tilstand som nevnt nedenfor:aktiv sykelig prosess i det indre øret eller mellomøret. Enkel tørr perforasjon av trommehinnen medfører ikke udyktighetpermanent passasjehindring i tuba Eustachiiforstyrrelse i vestibularapparatets funksjonalvorlig deformitet eller sykdom i munnhule eller øvre luftveiertalefeil eller stamming.
+Søkeren skal ikke ha noen klinisk diagnostisert tilstand som nevnt nedenfor:
+
+1. aktiv sykelig prosess i det indre øret eller mellomøret. Enkel tørr perforasjon av trommehinnen medfører ikke udyktighet
+2. permanent passasjehindring i tuba Eustachii
+3. forstyrrelse i vestibularapparatets funksjon
+4. alvorlig deformitet eller sykdom i munnhule eller øvre luftveier
+5. talefeil eller stamming.
 
 ## 6. Synskrav
 
@@ -210,7 +236,13 @@ Søkeren skal ha normale synsfelt.
 
 6.2.
 
-Søkeren skal ha en synsstyrke (fjern) på hvert øye for seg, med eller uten korreksjon, som ikke er dårligere enn 6/12 (20/40, 0,5). Hvis minste tillatte synsstyrke bare kan oppnås med korreksjon, kan søkeren godkjennes under forutsetning av at alle følgende krav kan oppfylles:søkerens synsstyrke uten korreksjon på hvert øye for seg ikke er dårligere enn 6/60 (20/200, 0,1)øyets refraksjon i akkomodasjonshvile ikke overstiger ±5 dioptrier i noen meridian. Søkere med refraksjon fra -5 til -8 dioptrier kan godkjennes hvis synsstyrken kan korrigeres til 6/9 på hvert øyekorreksjonsglass bæres under tjenesteutøvelsenden nødvendige korreksjon ikke medfører dobbeltsyntilsvarende reservebriller medbringes og er umiddelbart tilgjengelige for bruk.
+Søkeren skal ha en synsstyrke (fjern) på hvert øye for seg, med eller uten korreksjon, som ikke er dårligere enn 6/12 (20/40, 0,5). Hvis minste tillatte synsstyrke bare kan oppnås med korreksjon, kan søkeren godkjennes under forutsetning av at alle følgende krav kan oppfylles:
+
+1. søkerens synsstyrke uten korreksjon på hvert øye for seg ikke er dårligere enn 6/60 (20/200, 0,1)
+2. øyets refraksjon i akkomodasjonshvile ikke overstiger ±5 dioptrier i noen meridian. Søkere med refraksjon fra -5 til -8 dioptrier kan godkjennes hvis synsstyrken kan korrigeres til 6/9 på hvert øye
+3. korreksjonsglass bæres under tjenesteutøvelsen
+4. den nødvendige korreksjon ikke medfører dobbeltsyn
+5. tilsvarende reservebriller medbringes og er umiddelbart tilgjengelige for bruk.
 
 6.3.
 

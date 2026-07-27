@@ -48,9 +48,15 @@ Markedsregulator skal fremme forslag til satser for tiltaket. Frist for innsendi
 
 Satser for prisnedskriving av melk solgt til barnehager, barneskoler, ungdomsskoler og videregående skoler blir vedtatt av Omsetningsrådet for perioden 1. juli–30. juni.
 
-Satser for prisnedskriving av melk solgt til skoler og barnehager i perioden 1. juli 2024–30. juni 2025 skal være som følger:Sats for ¼ liters forpakninger er 1,00 kr per liter.Sats for andre forpakninger er 0,00 kr per liter.
+Satser for prisnedskriving av melk solgt til skoler og barnehager i perioden 1. juli 2024–30. juni 2025 skal være som følger:
 
-Satser for prisnedskriving av melk solgt til skoler og barnehager i perioden 1. juli 2025–30. juni 2026 skal være som følger:Sats for ¼ liters forpakninger er 1,30 kr per liter.Sats for andre forpakninger er 0,00 kr per liter.
+- Sats for ¼ liters forpakninger er 1,00 kr per liter.
+- Sats for andre forpakninger er 0,00 kr per liter.
+
+Satser for prisnedskriving av melk solgt til skoler og barnehager i perioden 1. juli 2025–30. juni 2026 skal være som følger:
+
+- Sats for ¼ liters forpakninger er 1,30 kr per liter.
+- Sats for andre forpakninger er 0,00 kr per liter.
 
 > Endret ved forskrifter [16 april 2021 nr. 1195](forskrift/2021-04-16-1195) (i kraft 1 juli 2021), [20 mai 2022 nr. 912](forskrift/2022-05-20-912) (i kraft 1 juli 2022), [20 april 2023 nr. 2508](forskrift/2023-04-20-2508) (i kraft 1 juli 2023), [22 mai 2024 nr. 999](forskrift/2024-05-22-999) (i kraft 1 juli 2024), [23 mai 2025 nr. 952](forskrift/2025-05-23-952) (i kraft 1 juli 2025).
 

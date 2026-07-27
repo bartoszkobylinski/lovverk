@@ -15,7 +15,7 @@ xml_hash: "488d47c2f0086bf1dca7ddbee00ea933652a8c7d4b74d01b1fc207f1e54c70d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -140,7 +140,12 @@ Dersom spørsmålet om å få dekket kostnadene ved inndrivingen blir avgjort av
 
 5.9
 
-Nemnda skal avvise en klage dersom:Saken faller utenfor nemndas saklige kompetanse, jf. [inkassolovens § 22](lov/1988-05-13-26/§22).Saken reiser bevisspørsmål som vanskelig kan klarlegges under saksbehandlingen, eller saken som følge av sitt omfang, kompliserte saksforhold, økonomiske betydning eller karakter for øvrig ikke egner seg for behandling i nemnda.Saken naturlig hører inn under et annet organ.Saken er eller har vært under behandling i domstolene.
+Nemnda skal avvise en klage dersom:
+
+- Saken faller utenfor nemndas saklige kompetanse, jf. [inkassolovens § 22](lov/1988-05-13-26/§22).
+- Saken reiser bevisspørsmål som vanskelig kan klarlegges under saksbehandlingen, eller saken som følge av sitt omfang, kompliserte saksforhold, økonomiske betydning eller karakter for øvrig ikke egner seg for behandling i nemnda.
+- Saken naturlig hører inn under et annet organ.
+- Saken er eller har vært under behandling i domstolene.
 
 5.10
 
@@ -192,7 +197,11 @@ Saker som er avsluttet i nemnda, er offentlige i sin helhet. Klagerens navn er i
 
 Sekretariatet skal opprette et register over alle innkomne saker.
 
-Av registeret bør framgå:Partene, med adresseKlagegrunn og krav/påstandResultatet av saken i nemnda/sekretariatet.
+Av registeret bør framgå:
+
+- Partene, med adresse
+- Klagegrunn og krav/påstand
+- Resultatet av saken i nemnda/sekretariatet.
 
 Registeret skal opprettes i samsvar med personopplysningsloven.
 

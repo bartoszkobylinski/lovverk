@@ -24,7 +24,11 @@ eu_basis: []
 
 ## I
 
-Barne- og familiedepartementet delegeres myndighet etter følgende bestemmelser i [lov av 20. desember 2019 nr. 109 om behandling av opplysninger i kredittopplysningsvirksomhet](lov/2019-12-20-109):[§ 2](lov/2019-12-20-109/§2) annet ledd (myndighet til å gi forskrift om at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen)[§ 29](lov/2019-12-20-109/§29) første ledd (myndighet til i forskrift å gi nærmere regler om kredittopplysningsvirksomhet og behandling av opplysninger i slik virksomhet, herunder hvilke opplysninger som kan behandles etter [§ 6](lov/2019-12-20-109/§6), og hvilke kilder opplysningene kan hentes fra i henhold til [§ 9](lov/2019-12-20-109/§9).)[§ 29](lov/2019-12-20-109/§29) annet ledd (myndighet til å gi forskrift om dekning av Datatilsynets kostnader ved kontroll med etterlevelse av denne loven).
+Barne- og familiedepartementet delegeres myndighet etter følgende bestemmelser i [lov av 20. desember 2019 nr. 109 om behandling av opplysninger i kredittopplysningsvirksomhet](lov/2019-12-20-109):
+
+- [§ 2](lov/2019-12-20-109/§2) annet ledd (myndighet til å gi forskrift om at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen)
+- [§ 29](lov/2019-12-20-109/§29) første ledd (myndighet til i forskrift å gi nærmere regler om kredittopplysningsvirksomhet og behandling av opplysninger i slik virksomhet, herunder hvilke opplysninger som kan behandles etter [§ 6](lov/2019-12-20-109/§6), og hvilke kilder opplysningene kan hentes fra i henhold til [§ 9](lov/2019-12-20-109/§9).)
+- [§ 29](lov/2019-12-20-109/§29) annet ledd (myndighet til å gi forskrift om dekning av Datatilsynets kostnader ved kontroll med etterlevelse av denne loven).
 
 ## II
 

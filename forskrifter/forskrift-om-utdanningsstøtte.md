@@ -28,7 +28,11 @@ eu_basis: []
 
 ### § 1. Hva og hvem forskriften gjelder
 
-Denne forskriften gjelder utdanningsstøtte fra Lånekassen som lån og stipend. Forskriften gir regler omhvem som har rett til lån og stipendhvilke utdanninger som gir rett til lån og stipendhvilke lån og stipend som kan gis og hvordan disse beregnes.
+Denne forskriften gjelder utdanningsstøtte fra Lånekassen som lån og stipend. Forskriften gir regler om
+
+1. hvem som har rett til lån og stipend
+2. hvilke utdanninger som gir rett til lån og stipend
+3. hvilke lån og stipend som kan gis og hvordan disse beregnes.
 
 Forskriftens del 2 gjelder for søkere som tar videregående opplæring i Norge eller tilsvarende opplæring i utlandet, frem til søkeren har oppnådd studie- eller yrkeskompetanse, men ikke lenger enn frem til studieårets start i det kalenderåret søkeren fyller 21 år. Forskriftens del 2 gjelder også for søkere som tar forberedende opplæring for voksne, frem til studieårets start i det kalenderåret søkeren fyller 21 år. Forskriftens del 2 gjelder for søkere som er 16 år eller eldre i det kalenderåret opplæringen starter, eller som har fullført grunnskolen eller tilsvarende opplæring.
 
@@ -40,11 +44,23 @@ Departementet kan ved krig eller andre alvorlige hendelser gjøre tidsavgrensede
 
 ### § 2. Definisjoner
 
-I forskriften menes med*søker:* den som søker om, mottar eller har mottatt lån og stipend fra Lånekassen*forsørger:* den som har forsørgeransvar etter [barnelova § 66](lov/1981-04-08-7/§66)*studieufør:* den som er helt eller delvis ute av stand til å følge undervisningen på grunn av sykdom*høstsemester:* periode med lån og stipend fra 16. august til 15. januar*vårsemester:* periode med lån og stipend fra 16. januar til 15. juni*studieår:* periode med lån og stipend fra 16. august til 15. juni.Definisjonene i bokstav d, e og f vil ikke gjelde for utdanning i utlandet med egne semester- eller studieårsperioder.
+I forskriften menes med
+
+1. *søker:* den som søker om, mottar eller har mottatt lån og stipend fra Lånekassen
+2. *forsørger:* den som har forsørgeransvar etter [barnelova § 66](lov/1981-04-08-7/§66)
+3. *studieufør:* den som er helt eller delvis ute av stand til å følge undervisningen på grunn av sykdom
+4. *høstsemester:* periode med lån og stipend fra 16. august til 15. januar
+5. *vårsemester:* periode med lån og stipend fra 16. januar til 15. juni
+6. *studieår:* periode med lån og stipend fra 16. august til 15. juni.
+
+Definisjonene i bokstav d, e og f vil ikke gjelde for utdanning i utlandet med egne semester- eller studieårsperioder.
 
 ### § 3. Søkere som ikke bor sammen med foreldrene
 
-En søker regnes som ikke å bo sammen med foreldrene når søkeren oppfyller ett av følgende vilkår:Søkeren bor i en selvstendig boenhet som er fysisk atskilt fra huset der foreldrene bor.Søkeren bor i en selvstendig og klart atskilt boenhet i samme hus som foreldrene, og søkerens boenhet er registrert med et eget bruksenhetsnummer eller tilsvarende i Folkeregisteret eller i matrikkelen.
+En søker regnes som ikke å bo sammen med foreldrene når søkeren oppfyller ett av følgende vilkår:
+
+1. Søkeren bor i en selvstendig boenhet som er fysisk atskilt fra huset der foreldrene bor.
+2. Søkeren bor i en selvstendig og klart atskilt boenhet i samme hus som foreldrene, og søkerens boenhet er registrert med et eget bruksenhetsnummer eller tilsvarende i Folkeregisteret eller i matrikkelen.
 
 En søker som på grunn av krig eller andre alvorlige hendelser som fører til at det er umulig eller uforholdsmessig vanskelig for søkeren å gjennomføre utdanning i utlandet ved å oppholde seg ved studiestedet, og som midlertidig flytter til foreldrehjemmet og fortsetter utdanningen med nettbaserte løsninger, kan regnes som ikke å bo med foreldrene. Unntak kan gis for inntil ett studieår av gangen.
 
@@ -68,7 +84,15 @@ Norsk statsborgerskap gir rett til lån og stipend. Statsborgere av andre land l
 
 ### § 7. Lån og stipend til utenlandske statsborgere som tar utdanning i Norge
 
-En utenlandsk statsborger som har lovlig opphold og tar utdanning i Norge, har rett til lån og stipend på samme vilkår som norske statsborgere når søkeren oppfyller ett av følgende vilkår:Søkeren har permanent oppholdstillatelse.Søkeren har opphold på grunnlag av beskyttelse, sterke menneskelige hensyn eller særlig tilknytning til riket.Søkeren har opphold etter [utlendingsloven § 113](lov/2008-05-15-35/§113) eller [§ 114](lov/2008-05-15-35/§114), jf. [§ 110](lov/2008-05-15-35/§110) som familiemedlem til en EØS-borger med annet oppholdsgrunnlag i Norge enn studier.Søkeren har opphold på grunnlag av familieinnvandring med norsk eller utenlandsk statsborger med et annet oppholdsgrunnlag i Norge enn studier, eller søkeren har fortsatt opphold på selvstendig grunnlag etter [utlendingsloven § 53](lov/2008-05-15-35/§53).Søkeren er gift, samboer med felles barn eller partner med norsk statsborger, og begge bor i Norge.Søkeren har i en opptjeningstid på minst 24 måneder hatt sammenhengende fulltidsarbeid i Norge, vært bosatt i og betalt skatt til Norge. Søkeren skal ha hatt oppholdstillatelse som arbeidstaker i opptjeningstiden. Det skal ikke være opphold i opptjeningstiden eller mellom opptjeningstiden og perioden med lån og stipend. Det kan likevel gjøres unntak for opphold på inntil 1 år ved sykdom eller fødsel.Søkeren har i en opptjeningstid på minst 36 måneder vært bosatt i og vært i utdanning i Norge og bestått utdanning tilsvarende 3 års fulltidsutdanning. Det skal ikke være opphold i opptjeningstiden eller mellom opptjeningstiden og perioden med lån og stipend. Det kan likevel gjøres unntak for opphold på inntil 1 år ved sykdom eller fødsel. Søkeren kan i opptjeningstiden ikke ha mottatt støtte til utdanningen fra offentlige utdanningsstøtteordninger eller norske offentlige støtteordninger for utvikling.
+En utenlandsk statsborger som har lovlig opphold og tar utdanning i Norge, har rett til lån og stipend på samme vilkår som norske statsborgere når søkeren oppfyller ett av følgende vilkår:
+
+1. Søkeren har permanent oppholdstillatelse.
+2. Søkeren har opphold på grunnlag av beskyttelse, sterke menneskelige hensyn eller særlig tilknytning til riket.
+3. Søkeren har opphold etter [utlendingsloven § 113](lov/2008-05-15-35/§113) eller [§ 114](lov/2008-05-15-35/§114), jf. [§ 110](lov/2008-05-15-35/§110) som familiemedlem til en EØS-borger med annet oppholdsgrunnlag i Norge enn studier.
+4. Søkeren har opphold på grunnlag av familieinnvandring med norsk eller utenlandsk statsborger med et annet oppholdsgrunnlag i Norge enn studier, eller søkeren har fortsatt opphold på selvstendig grunnlag etter [utlendingsloven § 53](lov/2008-05-15-35/§53).
+5. Søkeren er gift, samboer med felles barn eller partner med norsk statsborger, og begge bor i Norge.
+6. Søkeren har i en opptjeningstid på minst 24 måneder hatt sammenhengende fulltidsarbeid i Norge, vært bosatt i og betalt skatt til Norge. Søkeren skal ha hatt oppholdstillatelse som arbeidstaker i opptjeningstiden. Det skal ikke være opphold i opptjeningstiden eller mellom opptjeningstiden og perioden med lån og stipend. Det kan likevel gjøres unntak for opphold på inntil 1 år ved sykdom eller fødsel.
+7. Søkeren har i en opptjeningstid på minst 36 måneder vært bosatt i og vært i utdanning i Norge og bestått utdanning tilsvarende 3 års fulltidsutdanning. Det skal ikke være opphold i opptjeningstiden eller mellom opptjeningstiden og perioden med lån og stipend. Det kan likevel gjøres unntak for opphold på inntil 1 år ved sykdom eller fødsel. Søkeren kan i opptjeningstiden ikke ha mottatt støtte til utdanningen fra offentlige utdanningsstøtteordninger eller norske offentlige støtteordninger for utvikling.
 
 > Endret ved forskrift [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022).
 
@@ -76,7 +100,14 @@ En utenlandsk statsborger som har lovlig opphold og tar utdanning i Norge, har r
 
 En statsborger fra et EØS- eller EFTA-land som er arbeidstaker i Norge, har rett til lån og stipend på samme vilkår som norske statsborgere. En EØS- eller EFTA-borger som slutter å arbeide og går over i utdanning, opprettholder sin status som arbeidstaker dersom utdanningen har faglig sammenheng med det tidligere arbeidet. EØS-borgere eller EFTA-borgere som har blitt ufrivillig arbeidsledige, blir likevel regnet som arbeidstakere.
 
-Følgende medlemmer av EØS- eller EFTA-arbeidstakerens familie har rett til lån og stipend på samme vilkår som norske statsborgere:ektefellebarn eller barnebarn av arbeidstakeren eller arbeidstakerens ektefelle, dersom de er under 21 år, eller blir forsørget av arbeidstakeren eller arbeidstakerens ektefelleforeldre eller besteforeldre av arbeidstakeren eller arbeidstakerens ektefelle, dersom de blir forsørget av arbeidstakeren eller arbeidstakerens ektefellebarn av arbeidstakeren eller arbeidstakerens ektefelle, dersom barnet bor og tar utdanning i Norge. Barnet må enten bo sammen med arbeidstakeren eller ha bodd sammen med arbeidstakeren da arbeidstakeren ble regnet som arbeidstaker i Norge.Retten til lån og stipend etter bokstav a, b og c gjelder bare så lenge EØS- eller EFTA-borgeren regnes som arbeidstaker i Norge.
+Følgende medlemmer av EØS- eller EFTA-arbeidstakerens familie har rett til lån og stipend på samme vilkår som norske statsborgere:
+
+1. ektefelle
+2. barn eller barnebarn av arbeidstakeren eller arbeidstakerens ektefelle, dersom de er under 21 år, eller blir forsørget av arbeidstakeren eller arbeidstakerens ektefelle
+3. foreldre eller besteforeldre av arbeidstakeren eller arbeidstakerens ektefelle, dersom de blir forsørget av arbeidstakeren eller arbeidstakerens ektefelle
+4. barn av arbeidstakeren eller arbeidstakerens ektefelle, dersom barnet bor og tar utdanning i Norge. Barnet må enten bo sammen med arbeidstakeren eller ha bodd sammen med arbeidstakeren da arbeidstakeren ble regnet som arbeidstaker i Norge.
+
+Retten til lån og stipend etter bokstav a, b og c gjelder bare så lenge EØS- eller EFTA-borgeren regnes som arbeidstaker i Norge.
 
 > Endret ved forskrift [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022).
 
@@ -86,7 +117,13 @@ En EØS-borger med varig oppholdsrett i Norge etter [utlendingsloven § 115](lov
 
 ### § 10. Krav om søkerens tilknytning til Norge ved utdanning i utlandet eller nettstudier
 
-For å ha rett til lån og stipend til utdanning i utlandet eller til nettstudier i Norge eller i et annet EØS-land, skal søkeren oppfylle ett av følgende vilkår:Søkeren har bodd i Norge i en sammenhengende periode på minst 2 av de siste 5 årene.Søkeren har gått på skole eller tatt utdanning i Norge i minst 3 år.Søkeren har barn, ektefelle eller en forelder som bor i Norge mens søkeren er under utdanning. Dersom søkerens grunnlag for rett til lån og stipend er [§ 8](forskrift/2020-04-15-798/§8), kan dette familiemedlemmet ikke være den EØS- eller EFTA-arbeidstakeren som gir grunnlaget for retten til lån og stipend. Søkeren skal enten bo sammen med familiemedlemmet i Norge når utdanningen starter, eller ha bodd sammen med familiemedlemmet i minst 2 år i Norge eller i utlandet. Søkeren skal ha norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk.Søkeren er EØS- eller EFTA-grensearbeider og har arbeidet i Norge i minst 2 av de siste 5 årene. Søkeren skal i tillegg ha norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk.Søkeren er familiemedlem til en EØS- eller EFTA-grensearbeider som har arbeidet i Norge i minst 2 av de siste 5 årene. Søkeren skal i tillegg ha bodd i et annet nordisk land i denne perioden og ha norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk.
+For å ha rett til lån og stipend til utdanning i utlandet eller til nettstudier i Norge eller i et annet EØS-land, skal søkeren oppfylle ett av følgende vilkår:
+
+1. Søkeren har bodd i Norge i en sammenhengende periode på minst 2 av de siste 5 årene.
+2. Søkeren har gått på skole eller tatt utdanning i Norge i minst 3 år.
+3. Søkeren har barn, ektefelle eller en forelder som bor i Norge mens søkeren er under utdanning. Dersom søkerens grunnlag for rett til lån og stipend er [§ 8](forskrift/2020-04-15-798/§8), kan dette familiemedlemmet ikke være den EØS- eller EFTA-arbeidstakeren som gir grunnlaget for retten til lån og stipend. Søkeren skal enten bo sammen med familiemedlemmet i Norge når utdanningen starter, eller ha bodd sammen med familiemedlemmet i minst 2 år i Norge eller i utlandet. Søkeren skal ha norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk.
+4. Søkeren er EØS- eller EFTA-grensearbeider og har arbeidet i Norge i minst 2 av de siste 5 årene. Søkeren skal i tillegg ha norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk.
+5. Søkeren er familiemedlem til en EØS- eller EFTA-grensearbeider som har arbeidet i Norge i minst 2 av de siste 5 årene. Søkeren skal i tillegg ha bodd i et annet nordisk land i denne perioden og ha norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk.
 
 Søkeren har også rett til lån og stipend dersom søkeren etter en samlet skjønnsmessig vurdering, kan sies å ha en tilstrekkelig tilknytning til Norge. Tilknytningen skal være av en slik art at det er sannsynlig at søkeren vil arbeide i Norge etter endt utdanning, se [utdanningsstøtteloven § 1](lov/2005-06-03-37/§1). Søkere som delvis oppfyller ett eller flere av vilkårene i første ledd, kan ha tilstrekkelig tilknytning til Norge på grunnlag av en kombinasjon av vilkår, eller i kombinasjon med andre forhold som viser tilknytning. Det skal legges vekt på alle forhold som viser tilknytning til Norge. I tillegg til forholdene som er omfattet av første ledd, kan det for eksempel legges vekt på at søker har annen familietilknytning i Norge enn den som er omfattet av første ledd bokstav c, at søkeren eller familien har eiendom i Norge, eller at søkeren har tilbrakt ferier i Norge. Norskkunnskaper tillegges særlig vekt i vurderingen.
 
@@ -100,7 +137,10 @@ En statsborger fra Storbritannia har rett til lån og stipend etter vilkårene i
 
 En utenlandsk statsborger med rett til lån og stipend etter [§ 7](forskrift/2020-04-15-798/§7), har ikke rett til lån og stipend til å ta hele utdanningen i utlandet.
 
-Den utenlandske statsborgeren har likevel rett til lån og stipend tilutvekslingsopphold i utlandet med en varighet på inntil 1 år som er en godkjent del av en universitets- og høyskoleutdanning eller fagskoleutdanning som søkeren har begynt på i Norge. Det samme gjelder søkere som tar et utvekslingsopphold i utlandet som er en godkjent del av norsk videregående opplæringutdanning som bare foregår på nett ved et lærested i et annet EØS-land enn Norge.
+Den utenlandske statsborgeren har likevel rett til lån og stipend til
+
+1. utvekslingsopphold i utlandet med en varighet på inntil 1 år som er en godkjent del av en universitets- og høyskoleutdanning eller fagskoleutdanning som søkeren har begynt på i Norge. Det samme gjelder søkere som tar et utvekslingsopphold i utlandet som er en godkjent del av norsk videregående opplæring
+2. utdanning som bare foregår på nett ved et lærested i et annet EØS-land enn Norge.
 
 ### § 13. Utstyrsstipend til ungdom som søker opphold i Norge
 
@@ -124,7 +164,11 @@ For å ha rett til lån og stipend skal søkeren være tatt opp som elev eller s
 
 For å ha rett til lån og stipend til universitets- og høyskoleutdanning i land utenfor Norden, skal søkeren ha generell studiekompetanse i Norge. Kravene til norskkunnskaper for å få generell studiekompetanse gjelder ikke for søkere som har bestått videregående opplæring i utlandet eller International Baccalaureate (IB).
 
-Kravet om generell studiekompetanse i Norge gjelder ikke når søkeren oppfyller ett av følgende vilkår:Søkeren er 25 år eller eldre i det kalenderåret søkeren tas opp på grunnlag av realkompetanse.Søkeren er under 25 år, og på grunn av egen varig sykdom, egen funksjonshemming eller liknende ikke kan tilfredsstille ett eller flere av kravene som stilles for å få generell studiekompetanse.Søkeren har opptak til utdanning i utøvende eller skapende musikk, ballett, skuespill eller bildende kunst ved et fremstående lærested med strenge krav for opptak.
+Kravet om generell studiekompetanse i Norge gjelder ikke når søkeren oppfyller ett av følgende vilkår:
+
+1. Søkeren er 25 år eller eldre i det kalenderåret søkeren tas opp på grunnlag av realkompetanse.
+2. Søkeren er under 25 år, og på grunn av egen varig sykdom, egen funksjonshemming eller liknende ikke kan tilfredsstille ett eller flere av kravene som stilles for å få generell studiekompetanse.
+3. Søkeren har opptak til utdanning i utøvende eller skapende musikk, ballett, skuespill eller bildende kunst ved et fremstående lærested med strenge krav for opptak.
 
 ### § 17. Aldersbegrensninger
 
@@ -136,11 +180,22 @@ En søker som er over 50 år når utdanningen avsluttes, kan ikke ha høyere gje
 
 ### § 18. Unntak fra retten til lån og stipend når utgifter til livsopphold og bolig dekkes av det offentlige
 
-En søker som får dekket utgifter til livsopphold og bolig av det offentlige, har ikke rett til lån og stipend i den samme perioden. Følgende søkere har likevel rett til lån og stipend:Søkere som er omfattet av [del 2](forskrift/2020-04-15-798/del2), har rett til utstyrsstipend dersom utgifter til individuelt utstyr ikke dekkes av fylkeskommunen eller andre offentlige ordninger.Søkere som er under omsorg av barnevernet, som bor i fosterhjem eller barnevernsinstitusjon og som er omfattet av [del 2](forskrift/2020-04-15-798/del2), har rett til utstyrsstipend og stipend til dekning av skolepenger. Søkeren har også rett til lån til dekning av skolepenger dersom kommunen ikke dekker slike utgifter.Søkere som er under omsorg av barnevernet, som bor i fosterhjem eller barnevernsinstitusjon og som er omfattet av [del 3](forskrift/2020-04-15-798/del3), har rett til lån etter samme regler som søkere som bor sammen med foreldrene, jf. [§ 74](forskrift/2020-04-15-798/§74).
+En søker som får dekket utgifter til livsopphold og bolig av det offentlige, har ikke rett til lån og stipend i den samme perioden. Følgende søkere har likevel rett til lån og stipend:
+
+1. Søkere som er omfattet av [del 2](forskrift/2020-04-15-798/del2), har rett til utstyrsstipend dersom utgifter til individuelt utstyr ikke dekkes av fylkeskommunen eller andre offentlige ordninger.
+2. Søkere som er under omsorg av barnevernet, som bor i fosterhjem eller barnevernsinstitusjon og som er omfattet av [del 2](forskrift/2020-04-15-798/del2), har rett til utstyrsstipend og stipend til dekning av skolepenger. Søkeren har også rett til lån til dekning av skolepenger dersom kommunen ikke dekker slike utgifter.
+3. Søkere som er under omsorg av barnevernet, som bor i fosterhjem eller barnevernsinstitusjon og som er omfattet av [del 3](forskrift/2020-04-15-798/del3), har rett til lån etter samme regler som søkere som bor sammen med foreldrene, jf. [§ 74](forskrift/2020-04-15-798/§74).
 
 ### § 19. Retten til lån og stipend for søkere som er under omsorg av barnevernet og som bor utenfor fosterhjem eller barnevernsinstitusjon
 
-En søker som er under omsorg av barnevernet, som bor utenfor fosterhjem eller barnevernsinstitusjon og som er omfattet av [del 2](forskrift/2020-04-15-798/del2), har rett tilutstyrsstipendstipend til dekning av skolepengerlån til dekning av skolepenger dersom kommunen ikke dekker slike utgifterinntektsavhengig stipend etter høyeste sats dersom søkeren får ytelser fra kommunen til dekning av livsopphold som er lavere enn stipendsatsenborteboerstipend dersom søkeren får ytelser fra kommunen til dekning av bolig som er lavere enn stipendet. Vilkårene om avstand og reisetid i [§ 51](forskrift/2020-04-15-798/§51) gjelder ikke herstipend til reiser dersom søkeren får ytelser fra kommunen til dekning av reise som er lavere enn stipendet.
+En søker som er under omsorg av barnevernet, som bor utenfor fosterhjem eller barnevernsinstitusjon og som er omfattet av [del 2](forskrift/2020-04-15-798/del2), har rett til
+
+1. utstyrsstipend
+2. stipend til dekning av skolepenger
+3. lån til dekning av skolepenger dersom kommunen ikke dekker slike utgifter
+4. inntektsavhengig stipend etter høyeste sats dersom søkeren får ytelser fra kommunen til dekning av livsopphold som er lavere enn stipendsatsen
+5. borteboerstipend dersom søkeren får ytelser fra kommunen til dekning av bolig som er lavere enn stipendet. Vilkårene om avstand og reisetid i [§ 51](forskrift/2020-04-15-798/§51) gjelder ikke her
+6. stipend til reiser dersom søkeren får ytelser fra kommunen til dekning av reise som er lavere enn stipendet.
 
 En søker som er under omsorg av barnevernet, som bor utenfor fosterhjem eller barnevernsinstitusjon og som er omfattet av [del 3](forskrift/2020-04-15-798/del3), har rett til lån og stipend etter samme regler som søkere som ikke bor sammen med foreldrene, jf. [§ 74](forskrift/2020-04-15-798/§74). Søkeren har likevel ikke rett til lån og stipend dersom søkeren får ytelser fra kommunen til dekning av livsopphold som er høyere enn basislånet.
 
@@ -170,13 +225,20 @@ En søker som tidligere har fått slettet gjeld etter [forskrift om tilbakebetal
 
 ### § 24. Krav om at utdanning i Norge skal være godkjent for utdanningsstøtte
 
-En utdanning i Norge skal være godkjent for utdanningsstøtte for å gi rett til lån og stipend. For å bli godkjent for utdanningsstøtte skal utdanningenkomme inn under en av bestemmelsene i [forskrift om godkjenning for utdanningsstøtte i Norge](forskrift/2020-03-27-562), ogtilfredsstille kravet til varighet i [forskrift om godkjenning for utdanningsstøtte i Norge](forskrift/2020-03-27-562).
+En utdanning i Norge skal være godkjent for utdanningsstøtte for å gi rett til lån og stipend. For å bli godkjent for utdanningsstøtte skal utdanningen
+
+1. komme inn under en av bestemmelsene i [forskrift om godkjenning for utdanningsstøtte i Norge](forskrift/2020-03-27-562), og
+2. tilfredsstille kravet til varighet i [forskrift om godkjenning for utdanningsstøtte i Norge](forskrift/2020-03-27-562).
 
 Det gjøres unntak fra kravet i bokstav b for utdanning som har sammenheng med søkerens yrke eller tidligere utdanning, for grunnutdanning for yrkessjåfør og for forkurs eller sommerkurs ved universiteter og høyskoler.
 
 ### § 25. Krav til utdanning i utlandet
 
-Utdanning i utlandet gir rett til lån og stipend når utdanningen oppfyller følgende vilkår:Utdanningen skal være stedbasert.Utdanningen skal være på fulltid.Utdanningen skal vare i minst ett semester.
+Utdanning i utlandet gir rett til lån og stipend når utdanningen oppfyller følgende vilkår:
+
+1. Utdanningen skal være stedbasert.
+2. Utdanningen skal være på fulltid.
+3. Utdanningen skal vare i minst ett semester.
 
 Det kan gjøres unntak fra kravet i bokstav a og b for utdanning som bare foregår på nett ved et lærested i et annet EØS-land enn Norge. Det gis ikke lån og stipend til samlingsbasert utdanning.
 
@@ -192,13 +254,27 @@ Det kan gjøres unntak fra kravet i bokstav a for søkere i utdanning i utlandet
 
 ### § 26. Utdanning i Norden
 
-Utdanning i Norden gir rett til lån og stipend når utdanningen oppfyller følgende vilkår:Utdanningen skal normalt være offentlig godkjent i studielandet.Utdanningen skal gi rett til lån og stipend i studielandet.
+Utdanning i Norden gir rett til lån og stipend når utdanningen oppfyller følgende vilkår:
+
+1. Utdanningen skal normalt være offentlig godkjent i studielandet.
+2. Utdanningen skal gi rett til lån og stipend i studielandet.
 
 ### § 27. Universitets- og høyskoleutdanning i land utenfor Norden
 
-Universitets- og høyskoleutdanning i et land utenfor Norden gir rett til lån og stipend når utdanningen oppfyller minst ett av følgende vilkår:Utdanningen kan bli godkjent av Direktoratet for høyere utdanning og kompetanse som likestilt med akkreditert norsk utdanning på bachelor- eller masternivå eller en akkreditert ph.d.-grad.Utdanningen kan forhåndsgodkjennes i Norge som en del av en utdanning på bachelor- eller masternivå ved en institusjon akkreditert som universitet, vitenskapelig høyskole eller høyskole.
+Universitets- og høyskoleutdanning i et land utenfor Norden gir rett til lån og stipend når utdanningen oppfyller minst ett av følgende vilkår:
 
-Følgende utdanninger gir også rett til lån og stipend:det første og andre året av en bachelorutdanning, også når disse årene ikke tilsvarer utdanning på bachelornivå i Norgeforberedende år av studieprogrammer på masternivå for ingeniør- og økonomifag i Frankrike og Tyskland som er spesielt tilrettelagt for norske studenter og administrert av Direktoratet for høyere utdanning og kompetanse (HK-dir)årskurs for lærere ved de norske studiesentrene og instituttene i utlandetspråkkurs i andre språk enn engelsk eller et skandinavisk språk, og som tilbys ved et universitet eller ved en språkskole med offentlig akkrediteringballettutdanning ved Royal Ballet School i London, Storbritannia, til søkere som er tatt opp ved Upper School og til søkere som har fullført norsk grunnskole, og som er tatt opp i siste året ved Lower Schoolballettutdanning ved fremstående læresteder som tilsvarer Royal Ballet School, som blir anbefalt av relevant norsk faginstans og hvor faginstansen bekrefter at lærestedet har strenge krav for opptakopphold i utlandet som er en del av 1-årig utdanningsprogram for jødiske veivisere som administreres av Det Mosaiske Trossamfund.
+1. Utdanningen kan bli godkjent av Direktoratet for høyere utdanning og kompetanse som likestilt med akkreditert norsk utdanning på bachelor- eller masternivå eller en akkreditert ph.d.-grad.
+2. Utdanningen kan forhåndsgodkjennes i Norge som en del av en utdanning på bachelor- eller masternivå ved en institusjon akkreditert som universitet, vitenskapelig høyskole eller høyskole.
+
+Følgende utdanninger gir også rett til lån og stipend:
+
+1. det første og andre året av en bachelorutdanning, også når disse årene ikke tilsvarer utdanning på bachelornivå i Norge
+2. forberedende år av studieprogrammer på masternivå for ingeniør- og økonomifag i Frankrike og Tyskland som er spesielt tilrettelagt for norske studenter og administrert av Direktoratet for høyere utdanning og kompetanse (HK-dir)
+3. årskurs for lærere ved de norske studiesentrene og instituttene i utlandet
+4. språkkurs i andre språk enn engelsk eller et skandinavisk språk, og som tilbys ved et universitet eller ved en språkskole med offentlig akkreditering
+5. ballettutdanning ved Royal Ballet School i London, Storbritannia, til søkere som er tatt opp ved Upper School og til søkere som har fullført norsk grunnskole, og som er tatt opp i siste året ved Lower School
+6. ballettutdanning ved fremstående læresteder som tilsvarer Royal Ballet School, som blir anbefalt av relevant norsk faginstans og hvor faginstansen bekrefter at lærestedet har strenge krav for opptak
+7. opphold i utlandet som er en del av 1-årig utdanningsprogram for jødiske veivisere som administreres av Det Mosaiske Trossamfund.
 
 Språkkurset som reguleres i bokstav d, skal ha et omfang på minimum 15 undervisningstimer per uke og en varighet på minst 3 måneder. Til lengre kurs kan det gis lån og stipend i inntil 2 semestre. Kurs ved en språkskole skal lede til en offisiell språkeksamen som teller som grunnlag for opptak til universitets- og høyskoleutdanning. Kurset skal tas i et land hvor søkeren planlegger å ta utdanning som gir rett til lån og stipend. Dersom slikt kurs ikke finnes i landet, kan kurset tas i et annet land, hvor språket er offisielt språk.
 
@@ -232,13 +308,23 @@ Søkere som tar et praksisopphold eller en studietur i utlandet, har ikke rett t
 
 ### § 32. Videregående opplæring i land utenfor Norden
 
-Videregående opplæring i land utenfor Norden gir rett til lån og stipend når søkeren oppfyller ett av følgende vilkår:Søkeren er bosatt i utlandet på grunn av egen sykdom, eller fordi en av foreldrene eller ektefellen til søkeren har et tidsbegrenset opphold i utlandet, eller er bosatt i utlandet på grunn av sykdom. En separert person regnes ikke som ektefelle i denne bestemmelsen. Søkeren skal ha rett til videregående opplæring etter [opplæringslova § 5-1](lov/2023-06-09-30/§5-1).Søkeren er tatt opp av United World College Norge.Søkeren er tatt opp i en utdanning ved utvalgte læresteder i Frankrike, som tilsvarer studiespesialisering i videregående opplæring, gjennom Institut français ved Den franske ambassaden eller Direktoratet for høyere utdanning og kompetanse (HK-dir).Søkeren er tatt opp i yrkesfaglig opplæring ved utvalgte skoler i Frankrike gjennom Institut français ved Den franske ambassaden.
+Videregående opplæring i land utenfor Norden gir rett til lån og stipend når søkeren oppfyller ett av følgende vilkår:
+
+1. Søkeren er bosatt i utlandet på grunn av egen sykdom, eller fordi en av foreldrene eller ektefellen til søkeren har et tidsbegrenset opphold i utlandet, eller er bosatt i utlandet på grunn av sykdom. En separert person regnes ikke som ektefelle i denne bestemmelsen. Søkeren skal ha rett til videregående opplæring etter [opplæringslova § 5-1](lov/2023-06-09-30/§5-1).
+2. Søkeren er tatt opp av United World College Norge.
+3. Søkeren er tatt opp i en utdanning ved utvalgte læresteder i Frankrike, som tilsvarer studiespesialisering i videregående opplæring, gjennom Institut français ved Den franske ambassaden eller Direktoratet for høyere utdanning og kompetanse (HK-dir).
+4. Søkeren er tatt opp i yrkesfaglig opplæring ved utvalgte skoler i Frankrike gjennom Institut français ved Den franske ambassaden.
 
 > Endret ved forskrifter [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025).
 
 ### § 33. Utvekslingsopphold i videregående opplæring i land utenfor Norden
 
-Utvekslingsopphold i videregående opplæring i land utenfor Norden gir rett til lån og stipend når søkeren oppfyller ett av følgende vilkår:Søkeren er tatt opp i et utvekslingssamarbeid mellom norsk videregående skole og utenlandsk skole som er godkjent av Direktoratet for høyere utdanning og kompetanse (HK-dir).Søkeren er tatt opp i et utvekslingsprogram som varer i 1 år og som vil kunne erstatte videregående trinn 2 i norsk videregående opplæring. Utvekslingsorganisasjonen som tilbyr utvekslingsprogrammet, skal være godkjent av Direktoratet for høyere utdanning og kompetanse (HK-dir).Utvekslingsopphold i utlandet på videregående opplæringsnivå gjennom Erasmus+ eller andre nasjonalt inngåtte avtaler, gir også rett til lån og stipend. Utvekslingsoppholdet skal ha en varighet på minst 3 måneder.
+Utvekslingsopphold i videregående opplæring i land utenfor Norden gir rett til lån og stipend når søkeren oppfyller ett av følgende vilkår:
+
+1. Søkeren er tatt opp i et utvekslingssamarbeid mellom norsk videregående skole og utenlandsk skole som er godkjent av Direktoratet for høyere utdanning og kompetanse (HK-dir).
+2. Søkeren er tatt opp i et utvekslingsprogram som varer i 1 år og som vil kunne erstatte videregående trinn 2 i norsk videregående opplæring. Utvekslingsorganisasjonen som tilbyr utvekslingsprogrammet, skal være godkjent av Direktoratet for høyere utdanning og kompetanse (HK-dir).
+
+Utvekslingsopphold i utlandet på videregående opplæringsnivå gjennom Erasmus+ eller andre nasjonalt inngåtte avtaler, gir også rett til lån og stipend. Utvekslingsoppholdet skal ha en varighet på minst 3 måneder.
 
 > Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022).
 
@@ -248,7 +334,12 @@ En lærling som tar hele eller deler av læretiden i en bedrift i utlandet, har 
 
 ### § 35. Utdanninger i utlandet som ikke gir rett til lån og stipend
 
-Følgende utdanninger i utlandet gir ikke rett til lån og stipend:flygerutdanning utenfor Nordenflygerutdanning i Norden ved andre læresteder enn offentlige høyskoler eller universiteterhelsefaglig utdanning i et fagområde som ikke er et lovregulert yrke etter [lov om helsepersonell § 48](lov/1999-07-02-64/§48)jordmor-, medisin-, provisorfarmasøyt-, sykepleier-, tannlege- eller veterinærmedisinutdanning som tas i land utenfor EØS, Sveits, Storbritannia, USA, Canada, Australia og New Zealand. En søker som våren 2022 eller tidligere startet i en helsefaglig utdanning som ga rett til lån og stipend, har rett til å fullføre denne utdanningen med lån og stipend.
+Følgende utdanninger i utlandet gir ikke rett til lån og stipend:
+
+1. flygerutdanning utenfor Norden
+2. flygerutdanning i Norden ved andre læresteder enn offentlige høyskoler eller universiteter
+3. helsefaglig utdanning i et fagområde som ikke er et lovregulert yrke etter [lov om helsepersonell § 48](lov/1999-07-02-64/§48)
+4. jordmor-, medisin-, provisorfarmasøyt-, sykepleier-, tannlege- eller veterinærmedisinutdanning som tas i land utenfor EØS, Sveits, Storbritannia, USA, Canada, Australia og New Zealand. En søker som våren 2022 eller tidligere startet i en helsefaglig utdanning som ga rett til lån og stipend, har rett til å fullføre denne utdanningen med lån og stipend.
 
 > Endret ved forskrift [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022).
 
@@ -256,13 +347,27 @@ Følgende utdanninger i utlandet gir ikke rett til lån og stipend:flygerutdanni
 
 ### § 36. Foreldrestipend
 
-En søker som får eller adopterer barn i utdanningsperioden og har rett til lån og stipend, får i en periode lån og stipend som foreldrestipend når følgende vilkår er oppfylt:Søkeren har hatt rett til lån og stipend i en opptjeningstid på de siste 4 månedene før fødselen eller adopsjonen.Søkeren bor sammen med barnet.Søkerens ektefelle eller samboer får ikke foreldrestipend.Søkerens ektefelle eller samboer tar ikke samtidig ut foreldrepenger.
+En søker som får eller adopterer barn i utdanningsperioden og har rett til lån og stipend, får i en periode lån og stipend som foreldrestipend når følgende vilkår er oppfylt:
 
-Følgende lån og stipend blir likevel ikke gitt som foreldrestipend:utstyrsstipendtilleggsstipend til søkere med nedsatt funksjonsevnetilleggslån til søkere som er 18 år eller eldre med barn under 16 årtilleggslån til søkere som er 30 år eller eldrelån til skolepenger til utdanning som bare foregår på nett ved et lærested i et annet EØS-land enn Norge.
+1. Søkeren har hatt rett til lån og stipend i en opptjeningstid på de siste 4 månedene før fødselen eller adopsjonen.
+2. Søkeren bor sammen med barnet.
+3. Søkerens ektefelle eller samboer får ikke foreldrestipend.
+4. Søkerens ektefelle eller samboer tar ikke samtidig ut foreldrepenger.
+
+Følgende lån og stipend blir likevel ikke gitt som foreldrestipend:
+
+1. utstyrsstipend
+2. tilleggsstipend til søkere med nedsatt funksjonsevne
+3. tilleggslån til søkere som er 18 år eller eldre med barn under 16 år
+4. tilleggslån til søkere som er 30 år eller eldre
+5. lån til skolepenger til utdanning som bare foregår på nett ved et lærested i et annet EØS-land enn Norge.
 
 Dersom søkerens ektefelle eller samboer mottar mindre enn 50 prosent av valgt sats for foreldrepenger, har søkeren rett til fullt foreldrestipend. Dersom søkerens ektefelle eller samboer mottar fra 50 til 99 prosent av valgt sats for foreldrepenger, har søkeren rett til halvt foreldrestipend.
 
-Opptjeningstiden i første ledd avbrytes ikke når ett av følgende vilkår er oppfylt:Barnet fødes før termindato, og søkeren ellers ville hatt rett til foreldrestipend ved fødsel på termindato.Søkeren har permisjon i mer enn 3 uker før fødselen på grunn av sykdom, fødsel etter termin, termin innen 2 måneder etter semesterstart eller anbefaling fra lærestedet.
+Opptjeningstiden i første ledd avbrytes ikke når ett av følgende vilkår er oppfylt:
+
+1. Barnet fødes før termindato, og søkeren ellers ville hatt rett til foreldrestipend ved fødsel på termindato.
+2. Søkeren har permisjon i mer enn 3 uker før fødselen på grunn av sykdom, fødsel etter termin, termin innen 2 måneder etter semesterstart eller anbefaling fra lærestedet.
 
 Søkeren har rett til foreldrestipend i inntil 49 uker. Ved flerbarnsfødsel blir det samlede uketallet på 49 økt med 5 uker for hvert barn mer enn ett. Søkeren har rett til stipendet fra og med 3 uker før fødselen. 3 uker før fødselen og 6 uker etter fødselen er forbeholdt mor til barnet. Ved adopsjon får mor eller far stipendet i inntil 46 uker etter adopsjonen. Ved flerbarnsadopsjon blir uketallet på 46 økt med 5 uker for hvert barn mer enn ett.
 
@@ -280,7 +385,11 @@ Dersom søkeren begynner i utdanning igjen, gjelder vilkårene i [§ 36](forskri
 
 ### § 38. Sykestipend på grunnlag av egen sykdom
 
-En søker som er syk, har rett til å få lån og stipend gjort om til sykestipend i sykdomsperioden nårsøkeren er minst 50 prosent studieufør i mer enn 14 dager i perioden med lån og stipendsøkeren blir syk etter at Lånekassen har fått søknad om lån og stipend. Dersom søkeren har vært i utdanning som gir rett til lån og stipend i semesteret før sykdomsperioden, gjøres det unntak fra dette kravet.søkeren ikke har rett til arbeidsavklaringspenger i sykdomsperioden. Dersom søkeren bare mottar arbeidsavklaringspenger i deler av sykdomsperioden, kan sykestipend gis for den perioden søkeren ikke mottar arbeidsavklaringspenger.
+En søker som er syk, har rett til å få lån og stipend gjort om til sykestipend i sykdomsperioden når
+
+1. søkeren er minst 50 prosent studieufør i mer enn 14 dager i perioden med lån og stipend
+2. søkeren blir syk etter at Lånekassen har fått søknad om lån og stipend. Dersom søkeren har vært i utdanning som gir rett til lån og stipend i semesteret før sykdomsperioden, gjøres det unntak fra dette kravet.
+3. søkeren ikke har rett til arbeidsavklaringspenger i sykdomsperioden. Dersom søkeren bare mottar arbeidsavklaringspenger i deler av sykdomsperioden, kan sykestipend gis for den perioden søkeren ikke mottar arbeidsavklaringspenger.
 
 Sykestipendet gis for den delen av sykdomsperioden som går utover de første 14 dagene nevnt i bokstav a, men ikke for mer enn 4 måneder og 15 dager per studieår.
 
@@ -302,7 +411,11 @@ Sykestipendet blir beregnet ut fra den maksimale summen søkeren har rett til. S
 
 En søker som enten før utdanningen eller i kombinasjon med utdanningen, tar et språkkurs med en varighet på minimum 4 uker, har i studieåret 2026–2027 rett til et stipend på 26 986 kr. Språkkurset skal ha minimum 15 timer undervisning per uke.
 
-Søkeren skal være tatt opp ien utdanning som gir rett til lån og stipend. Utdanningen kan ikke være et lengre språkkurs som gir rett til lån og stipend etter [§ 27](forskrift/2020-04-15-798/§27)en utdanning som har et annet undervisningsspråk enn engelsken utdanning i et land utenfor Skandinavia.
+Søkeren skal være tatt opp i
+
+1. en utdanning som gir rett til lån og stipend. Utdanningen kan ikke være et lengre språkkurs som gir rett til lån og stipend etter [§ 27](forskrift/2020-04-15-798/§27)
+2. en utdanning som har et annet undervisningsspråk enn engelsk
+3. en utdanning i et land utenfor Skandinavia.
 
 Språkkurset skal normalt tas i det landet der utdanningen skal tas.
 
@@ -322,7 +435,12 @@ Søkere som får stipend til språkkurs fra andre, får redusert språkstipend.
 
 Starter utdanningen før 1. november 2026, skal en søknad om lån og stipend for høsten 2026 være mottatt senest 15. november 2026. En søknad om lån og stipend for våren 2027 skal være mottatt senest 15. mars 2027.
 
-Dette gjelder likevel ikkefor utdanning som starter før 1. november 2026 og som avsluttes før 15. november 2026. Søknaden skal være mottatt før utdanningen er avsluttet.for utdanning som starter 1. november 2026 eller senere. Søknaden for høsten 2026 skal være mottatt senest 15. mars 2027. Hvis utdanningen avsluttes før 15. mars 2027, skal søknaden for våren 2027 være mottatt før utdanningen er avsluttet.for utdanning som starter 1. mars 2027 eller senere og for utdanning som er avsluttet før 15. mars 2027. Søknaden for våren 2027 skal være mottatt før utdanningen er avsluttet.for lærlinger, lærekandidater, praksisbrevkandidater og kandidater for fagbrev på jobb. Søknaden for høsten 2026 og våren 2027 skal være mottatt senest 30. juni 2027. Hvis opplæringen avsluttes før 30. juni 2027, skal søknaden være mottatt før utdanningen er avsluttet.
+Dette gjelder likevel ikke
+
+1. for utdanning som starter før 1. november 2026 og som avsluttes før 15. november 2026. Søknaden skal være mottatt før utdanningen er avsluttet.
+2. for utdanning som starter 1. november 2026 eller senere. Søknaden for høsten 2026 skal være mottatt senest 15. mars 2027. Hvis utdanningen avsluttes før 15. mars 2027, skal søknaden for våren 2027 være mottatt før utdanningen er avsluttet.
+3. for utdanning som starter 1. mars 2027 eller senere og for utdanning som er avsluttet før 15. mars 2027. Søknaden for våren 2027 skal være mottatt før utdanningen er avsluttet.
+4. for lærlinger, lærekandidater, praksisbrevkandidater og kandidater for fagbrev på jobb. Søknaden for høsten 2026 og våren 2027 skal være mottatt senest 30. juni 2027. Hvis opplæringen avsluttes før 30. juni 2027, skal søknaden være mottatt før utdanningen er avsluttet.
 
 En søker som etter at perioden med lån og stipend er avsluttet, melder endringer eller sender inn opplysninger som Lånekassen har bedt om, har ikke rett til å få behandlet søknaden på nytt. Søkeren har heller ikke rett til å få utbetalt lån og stipend. Det gjøres unntak hvis opplysningene ikke har vært tilgjengelige tidligere.
 
@@ -350,7 +468,10 @@ Lånekassen kan utvide fristen i første ledd hvis det ikke var mulig for søker
 
 ### § 45. Utbetaling av lån og stipend til utdanning i Norge
 
-En søker får månedlige utbetalinger i perioden med lån og stipend. Følgende lån og stipend blir likevel ikke utbetalt månedlig:lån til skolepenger, som blir utbetalt sammen med den første månedlige utbetalingen hvert semesterutstyrsstipend, som blir utbetalt for 1 eller 2 semestre.
+En søker får månedlige utbetalinger i perioden med lån og stipend. Følgende lån og stipend blir likevel ikke utbetalt månedlig:
+
+1. lån til skolepenger, som blir utbetalt sammen med den første månedlige utbetalingen hvert semester
+2. utstyrsstipend, som blir utbetalt for 1 eller 2 semestre.
 
 Den første utbetalingen hvert semester for søkere som har rett til lån og stipend etter forskriftens del 2, inkluderer 10 prosent av lån og stipend for resten av semesteret. Lån til søkere som er 18 år eller eldre etter [§ 67](forskrift/2020-04-15-798/§67) og [§ 68](forskrift/2020-04-15-798/§68) regnes ikke med når 10 prosent av lån og stipend for semesteret skal beregnes.
 
@@ -358,7 +479,11 @@ Den første utbetalingen hvert semester for søkere som har rett til lån og sti
 
 ### § 46. Utbetaling av lån og stipend til utdanning i utlandet
 
-En søker får én utbetaling om høsten og én om våren i perioden med lån og stipend. Følgende lån og stipend blir likevel ikke utbetalt per semester:lån og stipend til skolepenger etter [§ 66](forskrift/2020-04-15-798/§66), [§ 69](forskrift/2020-04-15-798/§69) og [§ 87](forskrift/2020-04-15-798/§87) til [§ 89a](forskrift/2020-04-15-798/§89a) blir utbetalt i sin helhet første semester dersom lærestedet krever hele skolepengebeløpet innbetalt ved starten av studieåretdet siste månedsbeløpet for søkere som har rett til lån og stipend i 11 måneder blir utbetalt i den siste måneden søkeren har rett til lån og stipendlån til søkere som er 18 år eller eldre etter [§ 67](forskrift/2020-04-15-798/§67) og [§ 68](forskrift/2020-04-15-798/§68) blir utbetalt månedlig.
+En søker får én utbetaling om høsten og én om våren i perioden med lån og stipend. Følgende lån og stipend blir likevel ikke utbetalt per semester:
+
+1. lån og stipend til skolepenger etter [§ 66](forskrift/2020-04-15-798/§66), [§ 69](forskrift/2020-04-15-798/§69) og [§ 87](forskrift/2020-04-15-798/§87) til [§ 89a](forskrift/2020-04-15-798/§89a) blir utbetalt i sin helhet første semester dersom lærestedet krever hele skolepengebeløpet innbetalt ved starten av studieåret
+2. det siste månedsbeløpet for søkere som har rett til lån og stipend i 11 måneder blir utbetalt i den siste måneden søkeren har rett til lån og stipend
+3. lån til søkere som er 18 år eller eldre etter [§ 67](forskrift/2020-04-15-798/§67) og [§ 68](forskrift/2020-04-15-798/§68) blir utbetalt månedlig.
 
 > Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024).
 
@@ -368,7 +493,12 @@ En søker mister retten til lån og stipend fra det tidspunktet utdanningen avbr
 
 Lån og stipend som ikke er utbetalt når utdanningen avbrytes, blir utbetalt frem til avbruddet dersom utdanningen har vart i minst 3 måneder.
 
-Dersom utdanningen har vart i minst 3 måneder, har søkeren, i det semesteret utdanningen avbrytes, rett til å beholde eller å få utbetaltlån og stipend til skolepenger, dersom søkeren har betalt skolepenger som lærestedet ikke refundererlån og stipend til reiser, dersom søkeren har reist til lærestedettilleggsstipend til spesielt tilrettelagt ingeniør- og økonomiutdanning i Frankrike og Tysklandrekrutteringsstipend til utdanning i utvalgte land.
+Dersom utdanningen har vart i minst 3 måneder, har søkeren, i det semesteret utdanningen avbrytes, rett til å beholde eller å få utbetalt
+
+1. lån og stipend til skolepenger, dersom søkeren har betalt skolepenger som lærestedet ikke refunderer
+2. lån og stipend til reiser, dersom søkeren har reist til lærestedet
+3. tilleggsstipend til spesielt tilrettelagt ingeniør- og økonomiutdanning i Frankrike og Tyskland
+4. rekrutteringsstipend til utdanning i utvalgte land.
 
 Det gjøres unntak fra kravet om 3 måneder i andre og tredje ledd hvis søkeren må avbryte utdanningen på grunn av sykdom og hvis søkeren oppfyller vilkåret i [§ 38](forskrift/2020-04-15-798/§38) første ledd bokstav b.
 
@@ -396,7 +526,10 @@ Søkere som tar forberedende opplæring for voksne, har rett til lån og stipend
 
 En søker har normalt rett til lån og stipend i 10 måneder per studieår.
 
-Dette gjelder likevel ikke forlærlinger, praksisbrevkandidater, lærekandidater og kandidater for fagbrev på jobb. Slike søkere har rett til lån og stipend i 11 måneder per studieår.søkere som tar utdanning som varer i mindre enn 1 studieår, eller som har fleksibel start- og sluttdato. Slike søkere har rett til lån og stipend fra den datoen utdanningen starter, til den datoen utdanningen, inkludert eksamen, slutter.
+Dette gjelder likevel ikke for
+
+1. lærlinger, praksisbrevkandidater, lærekandidater og kandidater for fagbrev på jobb. Slike søkere har rett til lån og stipend i 11 måneder per studieår.
+2. søkere som tar utdanning som varer i mindre enn 1 studieår, eller som har fleksibel start- og sluttdato. Slike søkere har rett til lån og stipend fra den datoen utdanningen starter, til den datoen utdanningen, inkludert eksamen, slutter.
 
 > Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024).
 
@@ -427,11 +560,21 @@ Søkere som bytter utdanningsprogram eller programområde i studieåret, får be
 
 ### § 51. Borteboerstipend
 
-En søker som ikke bor sammen med foreldrene, har i studieåret 2026–2027 rett til et stipend til dekning av bokostnader med 7 015 kr per måned når ett av følgende vilkår er oppfylt:Avstanden mellom foreldrehjemmet og skolen er 40 km eller mer.Reisetiden tur-retur mellom foreldrehjemmet og skolen er 3 timer eller mer per dag i 3 eller flere dager per uke.Søkerens gjennomsnittlige reisetid per uke utgjør minimum 3 timer eller mer per dag.Søkeren bor utenfor foreldrehjemmet på grunn av særlige personlige eller sosiale forhold som hindrer søkeren i å gjennomføre utdanningen.
+En søker som ikke bor sammen med foreldrene, har i studieåret 2026–2027 rett til et stipend til dekning av bokostnader med 7 015 kr per måned når ett av følgende vilkår er oppfylt:
+
+1. Avstanden mellom foreldrehjemmet og skolen er 40 km eller mer.
+2. Reisetiden tur-retur mellom foreldrehjemmet og skolen er 3 timer eller mer per dag i 3 eller flere dager per uke.
+3. Søkerens gjennomsnittlige reisetid per uke utgjør minimum 3 timer eller mer per dag.
+4. Søkeren bor utenfor foreldrehjemmet på grunn av særlige personlige eller sosiale forhold som hindrer søkeren i å gjennomføre utdanningen.
 
 Hvem som regnes som ikke å bo sammen med foreldrene, reguleres i [§ 3](forskrift/2020-04-15-798/§3).
 
-Søkere som bor sammen med foreldrene, har rett til stipendet hvis deer giftforsørger barn og bor sammen med barnet.En separert søker regnes ikke som gift i denne bestemmelsen.
+Søkere som bor sammen med foreldrene, har rett til stipendet hvis de
+
+1. er gift
+2. forsørger barn og bor sammen med barnet.
+
+En separert søker regnes ikke som gift i denne bestemmelsen.
 
 > Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [7 april 2022 nr. 555](forskrift/2022-04-07-555) (med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
@@ -447,7 +590,11 @@ For lærlinger, praksisbrevkandidater, lærekandidater og kandidater for fagbrev
 
 ### § 54. Inntektsavhengig stipend
 
-En søker fra en familie med svak økonomi kan få stipend som et bidrag til å dekke livsopphold. Stipendet gis etter 3 satser avhengig avinntekten til søkerens forsørgereantall barn i søkerens familie, det vil si søkeren selv og søkerens søsken eller halvsøsken født i 2008 eller seneresøkerens trygde- og pensjonsytelser eller lønn som lærling, praksisbrevkandidat, lærekandidat eller kandidat for fagbrev på jobb.
+En søker fra en familie med svak økonomi kan få stipend som et bidrag til å dekke livsopphold. Stipendet gis etter 3 satser avhengig av
+
+1. inntekten til søkerens forsørgere
+2. antall barn i søkerens familie, det vil si søkeren selv og søkerens søsken eller halvsøsken født i 2008 eller senere
+3. søkerens trygde- og pensjonsytelser eller lønn som lærling, praksisbrevkandidat, lærekandidat eller kandidat for fagbrev på jobb.
 
 Tabellene under viser satser per måned for inntektsavhengig stipend for studieåret 2026–2027, avhengig av forsørgernes inntekt og antall barn i søkerens familie. Inntekten som blir lagt til grunn er personinntekt og netto positiv kapitalinntekt ved fastsettingen av formues- og inntektsskatt for 2024. Inntekt i utlandet eller på Svalbard, som ikke er med i fastsettingen, skal også regnes med.
 
@@ -479,9 +626,20 @@ Stipendet blir redusert hvis søkeren får lønn som lærling, praksisbrevkandid
 
 ### § 55. Unntak fra vilkår om behovsprøving av inntektsavhengig stipend mot forsørgerinntekt
 
-Lånekassen ser bort fra følgende når det inntektsavhengige stipendet behovsprøves:erstatnings- og forsikringsutbetaling som følge av kritisk sykdom eller personskade på forsørgeravkastning av søkerens formue, og av formuen til søkerens søsken, dersom formuen forvaltes av statsforvalteren.
+Lånekassen ser bort fra følgende når det inntektsavhengige stipendet behovsprøves:
 
-Lånekassen ser bort fra inntekten til en av eller begge forsørgere når ett av følgende vilkår er oppfylt:Forsørgerne er i frivillig eller tvungen rettslig gjeldsordning eller utenrettslig gjeldsordning.Forsørgerne mangler bidragsevne.Særlig tyngende sosiale grunner gjør at søkeren ikke får økonomisk bidrag fra forsørgerne.Søkeren er gift.Søkeren forsørger barn og bor sammen med barnet.En separert søker regnes ikke som gift i denne bestemmelsen.
+1. erstatnings- og forsikringsutbetaling som følge av kritisk sykdom eller personskade på forsørger
+2. avkastning av søkerens formue, og av formuen til søkerens søsken, dersom formuen forvaltes av statsforvalteren.
+
+Lånekassen ser bort fra inntekten til en av eller begge forsørgere når ett av følgende vilkår er oppfylt:
+
+1. Forsørgerne er i frivillig eller tvungen rettslig gjeldsordning eller utenrettslig gjeldsordning.
+2. Forsørgerne mangler bidragsevne.
+3. Særlig tyngende sosiale grunner gjør at søkeren ikke får økonomisk bidrag fra forsørgerne.
+4. Søkeren er gift.
+5. Søkeren forsørger barn og bor sammen med barnet.
+
+En separert søker regnes ikke som gift i denne bestemmelsen.
 
 Når Lånekassen ser bort fra inntekten til en av forsørgerne, gjelder inntektsgrensene i tabell A i [§ 54](forskrift/2020-04-15-798/§54).
 
@@ -521,7 +679,12 @@ Ved behovsprøvingen reduseres først det inntektsavhengige stipendet, deretter 
 
 En utenlandsk statsborger som har beskyttelse i Norge og som ikke mottar introduksjonsstønad etter [integreringsloven](lov/2020-11-06-127), har rett til lån og stipend som flyktningstipend.
 
-Følgende lån og stipend blir likevel ikke gitt som flyktningstipend:utstyrsstipendlån til skolepengerlån til reisetilleggslån til søkere som er 18 år eller eldre med barn under 16 år.
+Følgende lån og stipend blir likevel ikke gitt som flyktningstipend:
+
+1. utstyrsstipend
+2. lån til skolepenger
+3. lån til reise
+4. tilleggslån til søkere som er 18 år eller eldre med barn under 16 år.
 
 Stipendet blir ikke gjort om til lån etter [§ 103](forskrift/2020-04-15-798/§103) hvis søkeren avbryter utdanningen.
 
@@ -537,7 +700,10 @@ En søker har rett til flyktningstipend i inntil 3 år, innenfor en periode på 
 | Innen 4 år etter innvilget beskyttelse | 2 år |
 | Innen 5 år etter innvilget beskyttelse | 1 år |
 
-Søkeren har rett til flyktningstipend i inntil 3 år, innenfor en periode på 8 år etter datoen beskyttelsen ble innvilget, når søkeren oppfyller ett av følgende vilkår:Søkeren har barn eller får barn i løpet av den tiden flyktningstipendet normalt kan gis. Søkeren skal begynne på utdanningen før barnet er fylt 10 år.Søkeren tar forberedende opplæring for voksne.
+Søkeren har rett til flyktningstipend i inntil 3 år, innenfor en periode på 8 år etter datoen beskyttelsen ble innvilget, når søkeren oppfyller ett av følgende vilkår:
+
+1. Søkeren har barn eller får barn i løpet av den tiden flyktningstipendet normalt kan gis. Søkeren skal begynne på utdanningen før barnet er fylt 10 år.
+2. Søkeren tar forberedende opplæring for voksne.
 
 > Endret ved forskrift [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024).
 
@@ -623,7 +789,13 @@ Hvis søkeren får støtte til skolepenger fra andre, og den samlede støtten ti
 
 ### § 67. Lån til søkere som er 18 år eller eldre
 
-En søker som er 18 år eller eldre, har i studieåret 2026–2027 rett til å låne inntil 4 046 kr per måned når søkeren oppfyller ett av følgende vilkår:Søkeren bor ikke sammen med foreldrene.Søkeren er gift og bor sammen med foreldrene.Søkeren forsørger barn og bor sammen både med barnet og foreldrene.En separert søker regnes ikke som gift i denne bestemmelsen.
+En søker som er 18 år eller eldre, har i studieåret 2026–2027 rett til å låne inntil 4 046 kr per måned når søkeren oppfyller ett av følgende vilkår:
+
+1. Søkeren bor ikke sammen med foreldrene.
+2. Søkeren er gift og bor sammen med foreldrene.
+3. Søkeren forsørger barn og bor sammen både med barnet og foreldrene.
+
+En separert søker regnes ikke som gift i denne bestemmelsen.
 
 Lånet kan tas opp fra måneden etter at søkeren har fylt 18 år.
 
@@ -635,7 +807,11 @@ Lånet kan tas opp fra måneden etter at søkeren har fylt 18 år.
 
 ### § 68. Tilleggslån til søkere som er 18 år eller eldre med barn under 16 år
 
-En søker har i studieåret 2026–2027 rett til et lån på inntil 6 087 kr per måned i 10 måneder når følgende vilkår er oppfylt:Søkeren er 18 år eller eldre.Søkeren har barn som er født i 2011 eller senere som søkeren bor sammen med minst 40 prosent.Søkeren tar annen utdanning enn forberedende opplæring for voksne.
+En søker har i studieåret 2026–2027 rett til et lån på inntil 6 087 kr per måned i 10 måneder når følgende vilkår er oppfylt:
+
+1. Søkeren er 18 år eller eldre.
+2. Søkeren har barn som er født i 2011 eller senere som søkeren bor sammen med minst 40 prosent.
+3. Søkeren tar annen utdanning enn forberedende opplæring for voksne.
 
 Dersom søkeren har permisjon fra utdanningen på grunn av fødsel eller adopsjon, blir tilleggslånet beregnet etter reglene i [§ 36](forskrift/2020-04-15-798/§36) syvende ledd.
 
@@ -667,7 +843,12 @@ En søker har rett til lån og stipend til utdanning på inntil 480 studiepoeng 
 
 Tidligere perioder med lån og stipend regnes med, også om gjelden er nedbetalt. Det samme gjelder hvis søkeren har fått støtte fra andre lands offentlige utdanningsstøtteordninger i tidligere perioder.
 
-Lån og stipend kan gis utover grensene i første ledd når søkeren oppfyller ett av følgende vilkår:Søkeren er blitt forsinket i utdanningen på grunn av sykdom eller fødsel.Søkeren har nedsatt funksjonsevne og er blitt forsinket i utdanningen fordi læringsmiljøet eller studiesituasjonen ikke er tilpasset søkerens nedsatte funksjonsevne.Grensen for antall år med lån og stipend til folkehøgskoleutdanning eller forberedende opplæring for voksne kan likevel ikke utvides.
+Lån og stipend kan gis utover grensene i første ledd når søkeren oppfyller ett av følgende vilkår:
+
+1. Søkeren er blitt forsinket i utdanningen på grunn av sykdom eller fødsel.
+2. Søkeren har nedsatt funksjonsevne og er blitt forsinket i utdanningen fordi læringsmiljøet eller studiesituasjonen ikke er tilpasset søkerens nedsatte funksjonsevne.
+
+Grensen for antall år med lån og stipend til folkehøgskoleutdanning eller forberedende opplæring for voksne kan likevel ikke utvides.
 
 En søker som tok gradsutdanning i utlandet og som måtte avbryte utdanningen eller ble forhindret fra å avlegge studiepoeng på grunn av krig eller andre alvorlige hendelser som førte til at det var umulig eller uforholdsmessig vanskelig å gjennomføre utdanningen, kan få utvidet antall studiepoeng søkeren kan få lån og stipend til, med inntil 30 studiepoeng. Dersom søkeren skulle ha tatt eksamen for hele studieåret i vårsemesteret, utvides grensen med inntil 60 studiepoeng.
 
@@ -687,7 +868,12 @@ Retten til lån og stipend utvides med 30 studiepoeng eller tilsvarende utover g
 
 En søker regnes som forsinket i utdanningen hvis søkeren ikke består en utdanning søkeren har fått lån og stipend til. Søkere som er mer enn 60 studiepoeng forsinket, har ikke rett til lån og stipend før semesteret etter at forsinkelse som overstiger 60 studiepoeng, er hentet inn.
 
-Søkere som er forsinket ut over 60 studiepoeng, kan likevel ha rett til lån og stipend dersom forsinkelsen skyldes en av følgende årsaker:sykdomfødsel i utdanningsperiodenlæringsmiljøet eller studiesituasjonen ved lærestedet er ikke tilpasset søkerens nedsatte funksjonsevneandre særlige grunner som gjør det vanskelig å unngå forsinkelse.
+Søkere som er forsinket ut over 60 studiepoeng, kan likevel ha rett til lån og stipend dersom forsinkelsen skyldes en av følgende årsaker:
+
+1. sykdom
+2. fødsel i utdanningsperioden
+3. læringsmiljøet eller studiesituasjonen ved lærestedet er ikke tilpasset søkerens nedsatte funksjonsevne
+4. andre særlige grunner som gjør det vanskelig å unngå forsinkelse.
 
 Søkere som er forsinket ut over 60 studiepoeng og som har nedbetalt utdanningslånet, har likevel rett til lån og stipend. Dersom søkeren senere blir mer enn 60 studiepoeng forsinket, skal vilkårene i første eller andre ledd være oppfylt for å ha rett til lån og stipend.
 
@@ -695,7 +881,10 @@ Søkere som er forsinket ut over 60 studiepoeng og som har nedbetalt utdanningsl
 
 ### § 72. Periode med lån og stipend i studieåret
 
-En søker som tar universitets- og høyskoleutdanning og fagskoleutdanning, har rett til lån og stipend i 11 måneder per studieår når følgende vilkår er oppfylt:Søkeren har rett til lån og stipend i vårsemesteret i en periode på mellom 4 og 5 måneder innenfor tidsrommet 16. januar til 15. juli for utdanning i Norge, eller 16. januar til 15. august for utdanning i utlandet.Søkeren er i utdanning på fulltid ved utløpet av perioden etter bokstav a.
+En søker som tar universitets- og høyskoleutdanning og fagskoleutdanning, har rett til lån og stipend i 11 måneder per studieår når følgende vilkår er oppfylt:
+
+1. Søkeren har rett til lån og stipend i vårsemesteret i en periode på mellom 4 og 5 måneder innenfor tidsrommet 16. januar til 15. juli for utdanning i Norge, eller 16. januar til 15. august for utdanning i utlandet.
+2. Søkeren er i utdanning på fulltid ved utløpet av perioden etter bokstav a.
 
 Lærlinger, praksisbrevkandidater, lærekandidater og kandidater for fagbrev på jobb har normalt rett til lån og stipend i 11 måneder per studieår.
 
@@ -707,7 +896,14 @@ Retten til lån og stipend regnes normalt fra 16. august.
 
 Søkere som tar utdanning som varer i mindre enn 1 studieår, eller har fleksibel start- og sluttdato, har rett til lån og stipend fra den datoen utdanningen starter til den datoen utdanningen, inkludert eksamen, slutter.
 
-Perioden med lån og stipend etter første og fjerde ledd kan utvides når søkeren oppfyller ett av følgende vilkår:Søkeren tar feltarbeid som av naturgitte årsaker må foregå utenfor perioden med lån og stipend.Søkeren tar en utdanning hvor det er en særlig grunn til at en del av utdanningen må foregå utenfor perioden med lån og stipend.Søkeren tar studiepoeng som inngår i søkerens utdanning, og som fører til at søkeren sparer inn på normert studietid.Søkeren tar forkurs eller sommerkurs ved universiteter og høyskoler i Norge.Utdanningen om sommeren må vare i minst 2 uker.
+Perioden med lån og stipend etter første og fjerde ledd kan utvides når søkeren oppfyller ett av følgende vilkår:
+
+1. Søkeren tar feltarbeid som av naturgitte årsaker må foregå utenfor perioden med lån og stipend.
+2. Søkeren tar en utdanning hvor det er en særlig grunn til at en del av utdanningen må foregå utenfor perioden med lån og stipend.
+3. Søkeren tar studiepoeng som inngår i søkerens utdanning, og som fører til at søkeren sparer inn på normert studietid.
+4. Søkeren tar forkurs eller sommerkurs ved universiteter og høyskoler i Norge.
+
+Utdanningen om sommeren må vare i minst 2 uker.
 
 > Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
@@ -775,7 +971,11 @@ En søker som består en grad i universitets- og høyskoleutdanning, får inntil
 
 Studiepoeng som inngår i 2 beståtte grader, kan bare brukes til omgjøring én gang.
 
-Disse utdanningene bestått i Norge regnes som grader eller likestilt med grader, og gir rett til omgjøring:Utdanning som er regulert i [forskrift til universitets- og høyskoleloven (universitets- og høyskoleforskriften) Vedlegg I](forskrift/2024-06-28-1392/vedleggI). Gradene ph.d. og dr.philos. gir likevel ikke rett til omgjøring til utdanningsstipend.Fullført praktisk-pedagogisk utdanning i samsvar med [forskrift til rammeplan for praktisk-pedagogisk utdanning](forskrift/2005-12-13-1454) og følgende videreutdanninger i sykepleie i samsvar med forskriftene til rammeplaner for utdanningene: helsesykepleier, jordmor, anestesi-, barne-, intensiv-, operasjons- og kreftsykepleie.Fullført videreutdanning ved universitet eller høyskole som er et vilkår for autorisasjon etter [helsepersonelloven § 48a](lov/1999-07-02-64/§48a).
+Disse utdanningene bestått i Norge regnes som grader eller likestilt med grader, og gir rett til omgjøring:
+
+1. Utdanning som er regulert i [forskrift til universitets- og høyskoleloven (universitets- og høyskoleforskriften) Vedlegg I](forskrift/2024-06-28-1392/vedleggI). Gradene ph.d. og dr.philos. gir likevel ikke rett til omgjøring til utdanningsstipend.
+2. Fullført praktisk-pedagogisk utdanning i samsvar med [forskrift til rammeplan for praktisk-pedagogisk utdanning](forskrift/2005-12-13-1454) og følgende videreutdanninger i sykepleie i samsvar med forskriftene til rammeplaner for utdanningene: helsesykepleier, jordmor, anestesi-, barne-, intensiv-, operasjons- og kreftsykepleie.
+3. Fullført videreutdanning ved universitet eller høyskole som er et vilkår for autorisasjon etter [helsepersonelloven § 48a](lov/1999-07-02-64/§48a).
 
 Disse gradene bestått i utlandet gir også rett til omgjøring: bachelorgrad, mastergrad og ph.d.-grad som kan gis generell godkjenning av Direktoratet for høyere utdanning og kompetanse som likestilt med en akkreditert norsk grad på tilsvarende nivå.
 
@@ -783,13 +983,25 @@ Disse gradene bestått i utlandet gir også rett til omgjøring: bachelorgrad, m
 
 ### § 79. Unntak fra vilkåret om studiepoeng eller grad
 
-En søker som ikke har bestått studiepoeng eller grad, får gjort om basislånet til utdanningsstipend for de semestrene søkerenhar fått foreldrestipendoppfyller vilkårene for sykestipender blitt forsinket fordi læringsmiljøet eller studiesituasjonen ikke er tilpasset søkerens nedsatte funksjonsevnehar hatt tillitsverv på fulltid i minst tre måneder i landsomfattende elev- eller studentorganisasjon, eller i tilknytning til utdanningsinstitusjon eller studentsamskipnadhar fått fritak for et bestemt antall studiepoeng i juridisk utdanning på grunn av fullført praksis i frivillig studentdrevet rettshjelpstiltak. Søkeren får gjort om lån til utdanningsstipend for samme antall studiepoeng som fritaket.
+En søker som ikke har bestått studiepoeng eller grad, får gjort om basislånet til utdanningsstipend for de semestrene søkeren
+
+1. har fått foreldrestipend
+2. oppfyller vilkårene for sykestipend
+3. er blitt forsinket fordi læringsmiljøet eller studiesituasjonen ikke er tilpasset søkerens nedsatte funksjonsevne
+4. har hatt tillitsverv på fulltid i minst tre måneder i landsomfattende elev- eller studentorganisasjon, eller i tilknytning til utdanningsinstitusjon eller studentsamskipnad
+5. har fått fritak for et bestemt antall studiepoeng i juridisk utdanning på grunn av fullført praksis i frivillig studentdrevet rettshjelpstiltak. Søkeren får gjort om lån til utdanningsstipend for samme antall studiepoeng som fritaket.
 
 ### § 80. Omgjøring av basislån til utdanningsstipend for tidligere perioder
 
-Dersom søkeren ikke har fått full omgjøring til utdanningsstipend for et semester, kan basislånet for dette semesteret gjøres om på et senere tidspunkt hvis søkeren oppfyller ett av følgende vilkår:Søkeren fullfører mer utdanning enn det er gitt lån og stipend til.Søkeren tar utdanning uten lån og stipend.
+Dersom søkeren ikke har fått full omgjøring til utdanningsstipend for et semester, kan basislånet for dette semesteret gjøres om på et senere tidspunkt hvis søkeren oppfyller ett av følgende vilkår:
 
-Basislånet kan bli gjort om til utdanningsstipend på følgende grunnlag:beståtte studiepoeng eller tilsvarende: for 4 år tilbake i tid, regnet fra det kalenderåret hvor Lånekassen mottar de endelige eksamensresultatenefullført grad: for 8 år tilbake i tid, regnet fra starten av det semesteret graden er fullført.
+1. Søkeren fullfører mer utdanning enn det er gitt lån og stipend til.
+2. Søkeren tar utdanning uten lån og stipend.
+
+Basislånet kan bli gjort om til utdanningsstipend på følgende grunnlag:
+
+1. beståtte studiepoeng eller tilsvarende: for 4 år tilbake i tid, regnet fra det kalenderåret hvor Lånekassen mottar de endelige eksamensresultatene
+2. fullført grad: for 8 år tilbake i tid, regnet fra starten av det semesteret graden er fullført.
 
 Basislånet for det semesteret som ligger lengst tilbake i tid, blir gjort om først.
 
@@ -799,7 +1011,10 @@ Fullført utdanning i en periode søkeren har fått utdanningsstipend etter [§ 
 
 ### § 81. Omgjøring av basislån til utdanningsstipend for senere perioder
 
-Basislånet blir gjort om til utdanningsstipend for senere perioder med lån og stipend dersom de faglige vilkårene for å gjøre om lån til utdanningsstipend ikke er oppfylt, og søkeren oppfyller følgende vilkår:Søkeren består mer utdanning enn det er gitt lån og stipend til, eller tar utdanning uten støtte.Søkeren har tidligere fått fullt utdanningsstipend.
+Basislånet blir gjort om til utdanningsstipend for senere perioder med lån og stipend dersom de faglige vilkårene for å gjøre om lån til utdanningsstipend ikke er oppfylt, og søkeren oppfyller følgende vilkår:
+
+1. Søkeren består mer utdanning enn det er gitt lån og stipend til, eller tar utdanning uten støtte.
+2. Søkeren har tidligere fått fullt utdanningsstipend.
 
 Basislån kan bli gjort om til utdanningsstipend i opptil 4 år fremover i tid, regnet fra det kalenderåret hvor eksamen er tatt. Dette gjelder ikke omgjøring på grunnlag av fullført grad.
 
@@ -881,7 +1096,11 @@ Av de første 84 866 kr blir 40 prosent av beløpet gitt som stipend, og den re
 
 Skolepenger utover 84 866 kr blir gitt som lån.
 
-Søkere som er forsinket i utdanningen, har ikke rett til stipend til dekning av skolepenger. Dette gjelder likevel ikke søkere som oppfyller ett av følgende vilkår:Søkeren har nedsatt funksjonsevne og er blitt forsinket i utdanningen på grunn av at læringsmiljøet eller studiesituasjonen ved lærestedet ikke er tilpasset søkerens nedsatte funksjonsevne.Søkeren får barn i utdanningsperioden.Søkeren er blitt forsinket på grunn av sykdom.
+Søkere som er forsinket i utdanningen, har ikke rett til stipend til dekning av skolepenger. Dette gjelder likevel ikke søkere som oppfyller ett av følgende vilkår:
+
+1. Søkeren har nedsatt funksjonsevne og er blitt forsinket i utdanningen på grunn av at læringsmiljøet eller studiesituasjonen ved lærestedet ikke er tilpasset søkerens nedsatte funksjonsevne.
+2. Søkeren får barn i utdanningsperioden.
+3. Søkeren er blitt forsinket på grunn av sykdom.
 
 Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har rett til halv sats.
 
@@ -899,7 +1118,11 @@ Skolepenger fra 165 957 kr til 255 686 kr blir gitt som stipend.
 
 Skolepenger fra 255 687 kr til 384 264 kr blir gitt som lån.
 
-Søkere som er forsinket i utdanningen, har ikke rett til stipend til dekning av skolepenger. Dette gjelder likevel ikke søkere som oppfyller ett av følgende vilkår:Søkeren har nedsatt funksjonsevne og er blitt forsinket i utdanningen på grunn av at læringsmiljøet eller studiesituasjonen ved lærestedet ikke er tilpasset søkerens nedsatte funksjonsevne.Søkeren får barn i utdanningsperioden.Søkeren er blitt forsinket på grunn av sykdom.
+Søkere som er forsinket i utdanningen, har ikke rett til stipend til dekning av skolepenger. Dette gjelder likevel ikke søkere som oppfyller ett av følgende vilkår:
+
+1. Søkeren har nedsatt funksjonsevne og er blitt forsinket i utdanningen på grunn av at læringsmiljøet eller studiesituasjonen ved lærestedet ikke er tilpasset søkerens nedsatte funksjonsevne.
+2. Søkeren får barn i utdanningsperioden.
+3. Søkeren er blitt forsinket på grunn av sykdom.
 
 Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har rett til halv sats.
 
@@ -995,7 +1218,12 @@ Søkeren kan maksimalt få lån på til sammen 243 480 kr etter [§ 68](forskri
 
 ### § 96. Tilleggslån til søkere som er 18 år eller eldre med barn under 16 år
 
-En søker har i studieåret 2026–2027 rett til et lån på inntil 6 087 kr per måned i tillegg til basislånet, i 10 måneder, når søkeren oppfyller følgende vilkår:Søkeren er 18 år eller eldre.Søkeren har barn som er født i 2011 eller senere som søkeren bor sammen med minst 40 prosent.Søkeren tar annen utdanning enn forberedende opplæring for voksne.Søkeren har ikke rett til tilleggslån etter [§ 95](forskrift/2020-04-15-798/§95).
+En søker har i studieåret 2026–2027 rett til et lån på inntil 6 087 kr per måned i tillegg til basislånet, i 10 måneder, når søkeren oppfyller følgende vilkår:
+
+1. Søkeren er 18 år eller eldre.
+2. Søkeren har barn som er født i 2011 eller senere som søkeren bor sammen med minst 40 prosent.
+3. Søkeren tar annen utdanning enn forberedende opplæring for voksne.
+4. Søkeren har ikke rett til tilleggslån etter [§ 95](forskrift/2020-04-15-798/§95).
 
 Dersom søkeren har permisjon fra utdanningen på grunn av fødsel eller adopsjon, blir tilleggslånet beregnet etter reglene i [§ 36](forskrift/2020-04-15-798/§36) syvende ledd.
 
@@ -1030,9 +1258,20 @@ En søker som har brutto person- og kapitalinntekt over grensene i tabellen unde
 | 2026 | 234 821 kr | 587 053 kr |
 | 2027 | 243 040 kr | 607 600 kr |
 
-Eksempler på ytelser etter [folketrygdloven](lov/1997-02-28-19) som behovsprøves etter [§ 98](forskrift/2020-04-15-798/§98):sykepengerpleiepenger, omsorgspenger og opplæringspengerforeldrepengerdagpenger under arbeidsløshet med unntak for søkere som tar høyere utdanning eller høyere utdanning i kombinasjon med annen utdanning, jf. [§ 99](forskrift/2020-04-15-798/§99) tredje ledd.
+Eksempler på ytelser etter [folketrygdloven](lov/1997-02-28-19) som behovsprøves etter [§ 98](forskrift/2020-04-15-798/§98):
 
-Følgende inntekter regnes ikke med:renteinntekter fra Boligsparing for ungdombarnepensjonavkastning av barns formue dersom formuen forvaltes av statsforvalterenerstatnings- og forsikringsutbetaling som følge av kritisk sykdom eller personskade på søkeren eller søkerens ektefelleskattefrie inntekter.
+1. sykepenger
+2. pleiepenger, omsorgspenger og opplæringspenger
+3. foreldrepenger
+4. dagpenger under arbeidsløshet med unntak for søkere som tar høyere utdanning eller høyere utdanning i kombinasjon med annen utdanning, jf. [§ 99](forskrift/2020-04-15-798/§99) tredje ledd.
+
+Følgende inntekter regnes ikke med:
+
+1. renteinntekter fra Boligsparing for ungdom
+2. barnepensjon
+3. avkastning av barns formue dersom formuen forvaltes av statsforvalteren
+4. erstatnings- og forsikringsutbetaling som følge av kritisk sykdom eller personskade på søkeren eller søkerens ektefelle
+5. skattefrie inntekter.
 
 > Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [7 april 2022 nr. 555](forskrift/2022-04-07-555), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
@@ -1045,7 +1284,15 @@ En søker som får trygde- eller pensjonsytelser over grensene i tabellen under,
 | 2026 | 125 643 kr | 352 231 kr |
 | 2027 | 130 041 kr | 364 559 kr |
 
-Eksempler på ytelser etter [folketrygdloven](lov/1997-02-28-19), [integreringsloven](lov/2020-11-06-127) og [sosialtjenesteloven](lov/2009-12-18-131) som behovsprøves etter [§ 99](forskrift/2020-04-15-798/§99):stønad til enslig mor eller far/overgangsstønadarbeidsavklaringspengeruføretrygdgjenlevendepensjon (etterlattepensjon)alderspensjonintroduksjonsstønadkvalifiseringsstønad.
+Eksempler på ytelser etter [folketrygdloven](lov/1997-02-28-19), [integreringsloven](lov/2020-11-06-127) og [sosialtjenesteloven](lov/2009-12-18-131) som behovsprøves etter [§ 99](forskrift/2020-04-15-798/§99):
+
+1. stønad til enslig mor eller far/overgangsstønad
+2. arbeidsavklaringspenger
+3. uføretrygd
+4. gjenlevendepensjon (etterlattepensjon)
+5. alderspensjon
+6. introduksjonsstønad
+7. kvalifiseringsstønad.
 
 Fra 1. januar 2022 skal dagpenger under arbeidsløshet for søkere som tar høyere utdanning, eller høyere utdanning i kombinasjon med annen utdanning, behovsprøves etter [§ 99](forskrift/2020-04-15-798/§99).
 
@@ -1066,7 +1313,11 @@ Gifte søkere som har formue over grensene i tabellen under, får stipendet redu
 | 2026 | 534 225 kr | 1 026 024 kr |
 | 2027 | 552 923 kr | 1 061 935 kr |
 
-Følgende regnes ikke som formue:barns formue dersom formuen forvaltes av statsforvalterenerstatnings- og forsikringsutbetaling som følge av kritisk sykdom eller personskade på søkeren eller søkerens ektefelleformuesverdien av trygdefinansiert bil. Dersom formuesverdien av bilen er høyere enn tilskuddet til innkjøp av bilen fra folketrygden, skal differansen mellom disse beløpene regnes som en del av formuen.
+Følgende regnes ikke som formue:
+
+1. barns formue dersom formuen forvaltes av statsforvalteren
+2. erstatnings- og forsikringsutbetaling som følge av kritisk sykdom eller personskade på søkeren eller søkerens ektefelle
+3. formuesverdien av trygdefinansiert bil. Dersom formuesverdien av bilen er høyere enn tilskuddet til innkjøp av bilen fra folketrygden, skal differansen mellom disse beløpene regnes som en del av formuen.
 
 > Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 

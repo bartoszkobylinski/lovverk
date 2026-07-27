@@ -42,7 +42,11 @@ Arbeids- og velferdsdirektoratet gir nærmere retningslinjer om hvilke brukerorg
 
 ## § 3. Kyndighet
 
-I førerhundutvalget skal det være kyndighet iKynologiBruker av tjenestehunder/førerhunderMobilitet/orienteringsfaget for synshemmede.
+I førerhundutvalget skal det være kyndighet i
+
+- Kynologi
+- Bruker av tjenestehunder/førerhunder
+- Mobilitet/orienteringsfaget for synshemmede.
 
 > Endret ved [forskrifter 3 jan 2002 nr. 7](forskrift/2002-01-03-7), [7 feb 2003 nr. 127](forskrift/2003-02-07-127), [30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [22 des 2014 nr. 1895](forskrift/2014-12-22-1895).
 
@@ -64,7 +68,12 @@ Medlemmer av førerhundutvalget kan uanmeldt besiktige alle anlegg og lokalitete
 
 Førerhundutvalgets medlemmer kan benyttes som rådgivere for Arbeids- og velferdsetaten bl.a. i forbindelse med anskaffelse og formidling av førerhunder.
 
-Førerhundutvalget skal vurdere de faglige forutsetninger for stønad til førerhund, jf [§§ 7](forskrift/1997-04-15-322/§7), 8, 9 og 10. Vurderingen skal bygge påprøve av hunder for eventuell samtrening med bruker,prøve av bruker for eventuell samtrening med førerhund,prøve av bruker og hund (ekvipasjen) etter gjennomført samtrening,prøve av hund i arbeid med bruker når det søkes om skifte av hund under 10 år på grunn av forhold som ikke gjelder hundens helsetilstand, jf [§ 10](forskrift/1997-04-15-322/§10).
+Førerhundutvalget skal vurdere de faglige forutsetninger for stønad til førerhund, jf [§§ 7](forskrift/1997-04-15-322/§7), 8, 9 og 10. Vurderingen skal bygge på
+
+- prøve av hunder for eventuell samtrening med bruker,
+- prøve av bruker for eventuell samtrening med førerhund,
+- prøve av bruker og hund (ekvipasjen) etter gjennomført samtrening,
+- prøve av hund i arbeid med bruker når det søkes om skifte av hund under 10 år på grunn av forhold som ikke gjelder hundens helsetilstand, jf [§ 10](forskrift/1997-04-15-322/§10).
 
 > Endret ved [forskrifter 30 aug 2006 nr. 1010](forskrift/2006-08-30-1010), [6 april 2010 nr. 675](forskrift/2010-04-06-675).
 

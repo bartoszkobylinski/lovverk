@@ -31,7 +31,13 @@ Formålet med forskriften er å verne arbeidstakere og andre personer samt mater
 ### § 2. Virkeområde
 
 1. Forskriften gjelder krav til vern av sikkerheten og helsen til arbeidstakere og andre personer som vil kunne utsettes for fare gjennom eksplosive atmosfærer, som definert i [§ 3](forskrift/2003-06-30-911/§3). I tillegg gjelder forskriften krav til vern av materielle verdier.
-2. Forskriften får ikke anvendelse på:områder som benyttes direkte for og under medisinsk behandling av pasienter,bruk av gassapparater som omfattes av [forskrift av 5. oktober 1994 nr. 919](forskrift/1994-10-05-919) om gassapparater og utstyr,fremstilling, behandling, bruk, lagring og transport av eksplosive varer eller ustabile kjemiske stoffer,utvinningsindustri som omfattes av [forskrift 17. september 1998 nr. 982](forskrift/1998-09-17-982) om helse og sikkerhet i forbindelse med boringsrelatert utvinningsindustri for landbasert sektor, eller bergarbeid, jf. forskrift [6. desember 2011 nr. 1357](forskrift/2011-12-06-1357) om utførelse av arbeid [§ 1-4](forskrift/2011-12-06-1357/§1-4) nr. 7 og [kapittel 27](forskrift/2011-12-06-1357/kap27).bruk av transportmidler til lands, til vanns eller i luften der bestemmelser i internasjonale avtaler og lov eller forskrift som iverksetter disse avtalene, får anvendelse. Transportmidler beregnet til bruk i potensielt eksplosive atmosfærer, er ikke unntatt.
+2. Forskriften får ikke anvendelse på:
+
+   1. områder som benyttes direkte for og under medisinsk behandling av pasienter,
+   2. bruk av gassapparater som omfattes av [forskrift av 5. oktober 1994 nr. 919](forskrift/1994-10-05-919) om gassapparater og utstyr,
+   3. fremstilling, behandling, bruk, lagring og transport av eksplosive varer eller ustabile kjemiske stoffer,
+   4. utvinningsindustri som omfattes av [forskrift 17. september 1998 nr. 982](forskrift/1998-09-17-982) om helse og sikkerhet i forbindelse med boringsrelatert utvinningsindustri for landbasert sektor, eller bergarbeid, jf. forskrift [6. desember 2011 nr. 1357](forskrift/2011-12-06-1357) om utførelse av arbeid [§ 1-4](forskrift/2011-12-06-1357/§1-4) nr. 7 og [kapittel 27](forskrift/2011-12-06-1357/kap27).
+   5. bruk av transportmidler til lands, til vanns eller i luften der bestemmelser i internasjonale avtaler og lov eller forskrift som iverksetter disse avtalene, får anvendelse. Transportmidler beregnet til bruk i potensielt eksplosive atmosfærer, er ikke unntatt.
 3. Forskriften gjelder også for Svalbard unntatt for kullgruvene, der [forskrift av 18. januar 1993 nr. 33](forskrift/1993-01-18-33) om kullgruvene på Svalbard gjelder.
 
 > Endret ved [forskrift 20 des 2018 nr. 2210](forskrift/2018-12-20-2210) (i kraft 1 jan 2019).
@@ -54,17 +60,29 @@ Planlegging og vurdering av arbeidsmiljøet og gjennomføring av nødvendige til
 
 ### § 6. Risikovurdering av eksplosjonsfare
 
-Det skal foretas en helhetsvurdering av de særlige farer som eksplosiv atmosfære skaper ved virksomheten. Som et minimum skal det tas hensyn til:sannsynligheten for at eksplosive atmosfærer vil dannes og varigheten av disse,sannsynligheten for at tennkilder, herunder elektrostatiske utladninger, vil være til stede og bli aktive og virksomme,anlegg, anvendte stoffer, prosesser og deres eventuelle innvirkning på hverandre,omfanget av de forventede virkningene.
+Det skal foretas en helhetsvurdering av de særlige farer som eksplosiv atmosfære skaper ved virksomheten. Som et minimum skal det tas hensyn til:
+
+1. sannsynligheten for at eksplosive atmosfærer vil dannes og varigheten av disse,
+2. sannsynligheten for at tennkilder, herunder elektrostatiske utladninger, vil være til stede og bli aktive og virksomme,
+3. anlegg, anvendte stoffer, prosesser og deres eventuelle innvirkning på hverandre,
+4. omfanget av de forventede virkningene.
 
 Områder som gjennom åpninger er tilknyttet eller kan tilknyttes områder der det kan dannes eksplosive atmosfærer, skal tas i betraktning når eksplosjonsfarene vurderes.
 
 ### § 7. Forebyggende tiltak og vern mot eksplosjoner
 
-For å forebygge og verne mot eksplosjoner skal det iverksettes tiltak av teknisk og/eller organisatorisk art tilpasset den aktivitet det gjelder, i prioritert rekkefølge og etter følgende grunnleggende prinsipper:forhindre at det dannes eksplosive atmosfærer eller, dersom aktivitetens art ikke gjør dette mulig,unngå antenning av eksplosive atmosfærer og,ved eventuell antenning, begrense skadevirkningene av en eksplosjon. For å hindre spredning av eksplosjoner og motvirke sekundæreksplosjoner skal det om nødvendig iverksettes ytterligere tiltak.
+For å forebygge og verne mot eksplosjoner skal det iverksettes tiltak av teknisk og/eller organisatorisk art tilpasset den aktivitet det gjelder, i prioritert rekkefølge og etter følgende grunnleggende prinsipper:
+
+1. forhindre at det dannes eksplosive atmosfærer eller, dersom aktivitetens art ikke gjør dette mulig,
+2. unngå antenning av eksplosive atmosfærer og,
+3. ved eventuell antenning, begrense skadevirkningene av en eksplosjon. For å hindre spredning av eksplosjoner og motvirke sekundæreksplosjoner skal det om nødvendig iverksettes ytterligere tiltak.
 
 Tiltakene i første og annet ledd skal gjennomgås regelmessig og i alle tilfeller der det skjer endringer som nevnt i [§ 9](forskrift/2003-06-30-911/§9) annet ledd.
 
-I samsvar med prinsippene fastsatt i første ledd og risikovurderingen i [§ 6](forskrift/2003-06-30-911/§6), skal de nødvendige tiltak iverksettes slik atområder der eksplosive atmosfærer kan dannes i et slikt omfang at arbeidstakernes eller andres helse og sikkerhet eller materielle verdier kan settes i fare, er innrettet slik at aktuelle aktiviteter kan utføres fullt forsvarlig, ogarbeidstakerne sikres ved at arbeidsmiljøet overvåkes ved hjelp av egnede tekniske hjelpemidler i samsvar med risikovurderingen.
+I samsvar med prinsippene fastsatt i første ledd og risikovurderingen i [§ 6](forskrift/2003-06-30-911/§6), skal de nødvendige tiltak iverksettes slik at
+
+- områder der eksplosive atmosfærer kan dannes i et slikt omfang at arbeidstakernes eller andres helse og sikkerhet eller materielle verdier kan settes i fare, er innrettet slik at aktuelle aktiviteter kan utføres fullt forsvarlig, og
+- arbeidstakerne sikres ved at arbeidsmiljøet overvåkes ved hjelp av egnede tekniske hjelpemidler i samsvar med risikovurderingen.
 
 ### § 8. Samordningsplikt
 
@@ -76,7 +94,14 @@ Eksplosjonsverndokumentet, jf. [§ 9](forskrift/2003-06-30-911/§9), skal inneho
 
 ### § 9. Eksplosjonsverndokument
 
-I forbindelse med risikovurderingen etter [§ 6](forskrift/2003-06-30-911/§6) skal det utarbeides og ajourføres et dokument, heretter kalt *eksplosjonsverndokumentet*. Eksplosjonsverndokumentet skal utarbeides før arbeidet begynner og skal særlig vise:at eksplosjonsfarene er blitt kartlagt og vurdert,at egnede tiltak vil bli iverksatt for å nå målene med forskriften her,hvilke områder som er klassifisert i soner i samsvar med [§ 11](forskrift/2003-06-30-911/§11) og [§ 12](forskrift/2003-06-30-911/§12),hvilke områder der minimumskravene i [§ 14](forskrift/2003-06-30-911/§14) og [§ 15](forskrift/2003-06-30-911/§15) får anvendelse,at arbeidsplassene og arbeidsutstyret (herunder alarminnretninger), utformes, brukes og vedlikeholdes på sikkerhetsmessig forsvarlig måte,at det er iverksatt tiltak for bruk av arbeidsutstyr i samsvar med [forskrift 6. desember 2011 nr. 1355](forskrift/2011-12-06-1355) om organisering, ledelse og medvirkning, [forskrift 6. desember 2011 nr. 1356](forskrift/2011-12-06-1356) om utforming og innretning av arbeidsplasser og arbeidslokaler, [forskrift 6. desember 2011 nr. 1357](forskrift/2011-12-06-1357) om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav og [forskrift 6. desember 2011 nr. 1360](forskrift/2011-12-06-1360) om administrative ordninger på arbeidsmiljølovens område.
+I forbindelse med risikovurderingen etter [§ 6](forskrift/2003-06-30-911/§6) skal det utarbeides og ajourføres et dokument, heretter kalt *eksplosjonsverndokumentet*. Eksplosjonsverndokumentet skal utarbeides før arbeidet begynner og skal særlig vise:
+
+- at eksplosjonsfarene er blitt kartlagt og vurdert,
+- at egnede tiltak vil bli iverksatt for å nå målene med forskriften her,
+- hvilke områder som er klassifisert i soner i samsvar med [§ 11](forskrift/2003-06-30-911/§11) og [§ 12](forskrift/2003-06-30-911/§12),
+- hvilke områder der minimumskravene i [§ 14](forskrift/2003-06-30-911/§14) og [§ 15](forskrift/2003-06-30-911/§15) får anvendelse,
+- at arbeidsplassene og arbeidsutstyret (herunder alarminnretninger), utformes, brukes og vedlikeholdes på sikkerhetsmessig forsvarlig måte,
+- at det er iverksatt tiltak for bruk av arbeidsutstyr i samsvar med [forskrift 6. desember 2011 nr. 1355](forskrift/2011-12-06-1355) om organisering, ledelse og medvirkning, [forskrift 6. desember 2011 nr. 1356](forskrift/2011-12-06-1356) om utforming og innretning av arbeidsplasser og arbeidslokaler, [forskrift 6. desember 2011 nr. 1357](forskrift/2011-12-06-1357) om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav og [forskrift 6. desember 2011 nr. 1360](forskrift/2011-12-06-1360) om administrative ordninger på arbeidsmiljølovens område.
 
 Eksplosjonsverndokumentet skal oppdateres når det foretas vesentlige endringer, enten med hensyn til utvidelser eller ombygninger på arbeidsplassen, eller med hensyn til arbeidsutstyret eller organiseringen av arbeidet. Det samme gjelder dersom andre produksjonsmetoder eller andre stoffer eller stoffblandinger tas i bruk. Eksisterende risikovurderinger, dokumenter eller andre tilsvarende rapporter utarbeidet i henhold til øvrig regelverk, kan kombineres.
 
@@ -104,18 +129,47 @@ Brennbare stoffer anses som stoffer som kan gi opphav til eksplosive atmosfærer
 
 ### § 12. Klassifisering og soneinndeling av eksplosjonsfarlige områder
 
-Eksplosjonsfarlige områder skal klassifiseres i soner på grunnlag av hvor ofte det kan dannes en eksplosiv atmosfære og hvor lenge den varer. Områdene skal klassifiseres som følger:Sone 0Et område der det alltid, i lange perioder eller ofte dannes en eksplosiv atmosfære bestående av en blanding av luft og brennbare stoffer i form av gass, damp eller tåke.Sone 1Et område der det ved vanlig drift er sannsynlig at det til tider dannes en eksplosiv atmosfære bestående av en blanding av luft og brennbare stoffer i form av gass, damp eller tåke.Sone 2Et område der det ved vanlig drift sannsynligvis ikke dannes en eksplosiv atmosfære bestående av en blanding av luft og brennbare stoffer i form av gass, damp eller tåke. Dersom en eksplosiv atmosfære likevel dannes, vil den være kortvarig.Sone 20Et område der det alltid, i lange perioder eller ofte dannes en eksplosiv atmosfære i form av en sky av brennbart støv.Sone 21Et område der det ved vanlig drift er sannsynlig at det til tider dannes en eksplosiv atmosfære i form av en sky av brennbart støv.Sone 22Et område der det ved vanlig drift sannsynligvis ikke dannes en eksplosiv atmosfære i form av en sky av brennbart støv i luften. Dersom en eksplosiv atmosfære likevel dannes, vil den være kortvarig.
+Eksplosjonsfarlige områder skal klassifiseres i soner på grunnlag av hvor ofte det kan dannes en eksplosiv atmosfære og hvor lenge den varer. Områdene skal klassifiseres som følger:
+
+- Sone 0
+
+  Et område der det alltid, i lange perioder eller ofte dannes en eksplosiv atmosfære bestående av en blanding av luft og brennbare stoffer i form av gass, damp eller tåke.
+- Sone 1
+
+  Et område der det ved vanlig drift er sannsynlig at det til tider dannes en eksplosiv atmosfære bestående av en blanding av luft og brennbare stoffer i form av gass, damp eller tåke.
+- Sone 2
+
+  Et område der det ved vanlig drift sannsynligvis ikke dannes en eksplosiv atmosfære bestående av en blanding av luft og brennbare stoffer i form av gass, damp eller tåke. Dersom en eksplosiv atmosfære likevel dannes, vil den være kortvarig.
+- Sone 20
+
+  Et område der det alltid, i lange perioder eller ofte dannes en eksplosiv atmosfære i form av en sky av brennbart støv.
+- Sone 21
+
+  Et område der det ved vanlig drift er sannsynlig at det til tider dannes en eksplosiv atmosfære i form av en sky av brennbart støv.
+- Sone 22
+
+  Et område der det ved vanlig drift sannsynligvis ikke dannes en eksplosiv atmosfære i form av en sky av brennbart støv i luften. Dersom en eksplosiv atmosfære likevel dannes, vil den være kortvarig.
 
 ## Kapittel 4. Tiltak for å bedre vernet av sikkerheten og helsen til arbeidstakere som kan utsettes for fare gjennom eksplosive atmosfærer
 
 ### § 13. Presisering av virkeområdet
 
-Pliktene fastsatt i dette kapittelet får anvendelse på:områder som i samsvar med [§ 11](forskrift/2003-06-30-911/§11) og [§ 12](forskrift/2003-06-30-911/§12) er klassifisert som eksplosjonsfarlige,utstyr plassert på ikke-eksplosjonsfarlige områder, men som er nødvendig for eller bidrar til en sikker drift av utstyr plassert på eksplosjonsfarlige områder.
+Pliktene fastsatt i dette kapittelet får anvendelse på:
+
+- områder som i samsvar med [§ 11](forskrift/2003-06-30-911/§11) og [§ 12](forskrift/2003-06-30-911/§12) er klassifisert som eksplosjonsfarlige,
+- utstyr plassert på ikke-eksplosjonsfarlige områder, men som er nødvendig for eller bidrar til en sikker drift av utstyr plassert på eksplosjonsfarlige områder.
 
 ### § 14. Organisatoriske tiltak
 
-1. Opplæring av arbeidstakere:Arbeidsgiveren skal sørge for at verneombud og arbeidstakere som arbeider på områder der eksplosive atmosfærer kan dannes, får tilstrekkelig og egnet opplæring i eksplosjonsvern.
-2. Skriftlige instrukser og arbeidstillatelse:Når eksplosjonsverndokumentet krever det,skal arbeid på eksplosjonsfarlige områder utføres i samsvar med skriftlig instruks;skal det tas i bruk et system for arbeidstillatelser både for eksplosjonsfarlig arbeid og for arbeid som kan være eksplosjonsfarlig i kombinasjon med annet arbeid. Det skal utpekes en kompetent person til å utstede arbeidstillatelser. Tillatelsen skal være utstedt før arbeidet kan begynne.
+1. Opplæring av arbeidstakere:
+
+   Arbeidsgiveren skal sørge for at verneombud og arbeidstakere som arbeider på områder der eksplosive atmosfærer kan dannes, får tilstrekkelig og egnet opplæring i eksplosjonsvern.
+2. Skriftlige instrukser og arbeidstillatelse:
+
+   Når eksplosjonsverndokumentet krever det,
+
+   1. skal arbeid på eksplosjonsfarlige områder utføres i samsvar med skriftlig instruks;
+   2. skal det tas i bruk et system for arbeidstillatelser både for eksplosjonsfarlig arbeid og for arbeid som kan være eksplosjonsfarlig i kombinasjon med annet arbeid. Det skal utpekes en kompetent person til å utstede arbeidstillatelser. Tillatelsen skal være utstedt før arbeidet kan begynne.
 
 ### § 15. Vernetiltak mot eksplosjoner
 
@@ -126,14 +180,24 @@ Pliktene fastsatt i dette kapittelet får anvendelse på:områder som i samsvar 
 5. Alle nødvendige tiltak skal iverksettes for å sikre at området, arbeidsplassen, arbeidsutstyret og ethvert tilhørende koplingsutstyr er utformet, konstruert, montert, installert, brukt, vedlikeholdt og holdt rent på en slik måte at eksplosjonsrisikoen reduseres til et minimum. Dersom en eksplosjon skulle inntreffe, skal alle nødvendige tiltak iverksettes for å stanse spredningen eller begrense den mest mulig. Det skal iverksettes egnede tiltak for i størst mulig grad å redusere risikoen for at arbeidstakerne og andre personer blir skadet av en eksplosjon.
 6. Hvor det er nødvendig, skal fare for eksplosjon varsles med lyssignaler eller lydsignaler, og området skal evakueres.
 7. Det skal finnes rømningsveier for å sikre at de eksplosjonsfarlige områdene kan forlates på en hurtig og sikker måte. Rømningsveiene skal til enhver tid holdes ved like og være tilgjengelige.
-8. Før man for første gang kan ta i bruk områder der det kan danne seg eksplosive atmosfærer, skal anleggets eksplosjonssikkerhet kontrolleres i sin helhet. Alle nødvendige forhold for å sikre eksplosjonsvernet, skal ivaretas.Kontrollen skal utføres av personer som gjennom sin erfaring eller utdanning har den nødvendige kompetansen på området eksplosjonsvern.
-9. Dersom risikovurderingen viser atbrudd på energitilførselen kan medføre ytterligere fare, skal utstyr og sikkerhetssystemer kunne holdes i sikker drift uavhengig av den øvrige installasjonen i de tilfeller det oppstår svikt i energitilførselen,det er nødvendig, skal utstyr og sikkerhetssystemer i automatiske prosesser kunne overstyres manuelt dersom det oppstår avvik fra de vanlige prosessbetingelsene, forutsatt at det ikke setter sikkerheten i fare. Slike inngrep skal bare foretas av kompetente arbeidstakere,det er nødvendig i de tilfeller at nødstoppsystemet aktiveres, skal oppsamlet energi ledes bort så hurtig og sikkert som mulig, eller isoleres slik at den ikke lenger utgjør en fare.
+8. Før man for første gang kan ta i bruk områder der det kan danne seg eksplosive atmosfærer, skal anleggets eksplosjonssikkerhet kontrolleres i sin helhet. Alle nødvendige forhold for å sikre eksplosjonsvernet, skal ivaretas.
+
+   Kontrollen skal utføres av personer som gjennom sin erfaring eller utdanning har den nødvendige kompetansen på området eksplosjonsvern.
+9. Dersom risikovurderingen viser at
+
+   - brudd på energitilførselen kan medføre ytterligere fare, skal utstyr og sikkerhetssystemer kunne holdes i sikker drift uavhengig av den øvrige installasjonen i de tilfeller det oppstår svikt i energitilførselen,
+   - det er nødvendig, skal utstyr og sikkerhetssystemer i automatiske prosesser kunne overstyres manuelt dersom det oppstår avvik fra de vanlige prosessbetingelsene, forutsatt at det ikke setter sikkerheten i fare. Slike inngrep skal bare foretas av kompetente arbeidstakere,
+   - det er nødvendig i de tilfeller at nødstoppsystemet aktiveres, skal oppsamlet energi ledes bort så hurtig og sikkert som mulig, eller isoleres slik at den ikke lenger utgjør en fare.
 
 > Endret ved [forskrift 20 des 2018 nr. 2210](forskrift/2018-12-20-2210) (i kraft 1 jan 2019).
 
 ### § 16. Kriterier for valg av utstyr og sikkerhetssystem
 
-Dersom ikke annet fremgår av eksplosjonsverndokumentet, skal utstyr og sikkerhetssystem på alle områder der eksplosive atmosfærer kan dannes, velges på grunnlag av kategoriene fastsatt i [forskrift 29. november 2017 nr. 1849](forskrift/2017-11-29-1849) om utstyr og sikkerhetssystem til bruk i eksplosjonsfarlig område, vedlegg I. Særlig skal følgende utstyrskategorier brukes i de angitte soner, forutsatt at utstyret er egnet for gasser, damper eller tåker og/eller støv som forekommer:utstyr fra kategori 1, i sone 0 eller 20,utstyr fra kategori 1 eller 2, i sone 1 eller 21,utstyr fra kategori 1, 2 eller 3 i sone 2 eller 22.
+Dersom ikke annet fremgår av eksplosjonsverndokumentet, skal utstyr og sikkerhetssystem på alle områder der eksplosive atmosfærer kan dannes, velges på grunnlag av kategoriene fastsatt i [forskrift 29. november 2017 nr. 1849](forskrift/2017-11-29-1849) om utstyr og sikkerhetssystem til bruk i eksplosjonsfarlig område, vedlegg I. Særlig skal følgende utstyrskategorier brukes i de angitte soner, forutsatt at utstyret er egnet for gasser, damper eller tåker og/eller støv som forekommer:
+
+- utstyr fra kategori 1, i sone 0 eller 20,
+- utstyr fra kategori 1 eller 2, i sone 1 eller 21,
+- utstyr fra kategori 1, 2 eller 3 i sone 2 eller 22.
 
 > Endret ved [forskrift 20 des 2018 nr. 2210](forskrift/2018-12-20-2210) (i kraft 1 jan 2019).
 
@@ -147,7 +211,13 @@ Arbeidstilsynet og Direktoratet for samfunnssikkerhet og beredskap fører tilsyn
 
 ### § 18. Straff
 
-Overtredelse av denne forskriften eller vedtak truffet i medhold av denne kan straffes etter:Lov [17. juni 2005 nr. 62](lov/2005-06-17-62) om arbeidsmiljø, arbeidstid og stillingsvern mv. [kapittel 19](lov/2005-06-17-62/kap19),[Lov 14. juni 2002 nr. 20](lov/2002-06-14-20) om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver § 42,[Lov 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr [§ 14](lov/1929-05-24-4/§14),[Lov 21. mai 1971 nr. 47](lov/1971-05-21-47) om brannfarlige varer samt væsker og gasser under trykk [§ 44](lov/1971-05-21-47/§44),[Lov 20. mai 2005 nr. 28](lov/2005-05-20-28) om straff [§ 27](lov/2005-05-20-28/§27) og [§ 28](lov/2005-05-20-28/§28).
+Overtredelse av denne forskriften eller vedtak truffet i medhold av denne kan straffes etter:
+
+- Lov [17. juni 2005 nr. 62](lov/2005-06-17-62) om arbeidsmiljø, arbeidstid og stillingsvern mv. [kapittel 19](lov/2005-06-17-62/kap19),
+- [Lov 14. juni 2002 nr. 20](lov/2002-06-14-20) om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver § 42,
+- [Lov 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr [§ 14](lov/1929-05-24-4/§14),
+- [Lov 21. mai 1971 nr. 47](lov/1971-05-21-47) om brannfarlige varer samt væsker og gasser under trykk [§ 44](lov/1971-05-21-47/§44),
+- [Lov 20. mai 2005 nr. 28](lov/2005-05-20-28) om straff [§ 27](lov/2005-05-20-28/§27) og [§ 28](lov/2005-05-20-28/§28).
 
 > Endret ved [forskrift 4 des 2015 nr. 1395](forskrift/2015-12-04-1395).
 

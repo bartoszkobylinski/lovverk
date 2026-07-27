@@ -22,4 +22,7 @@ eu_basis: []
 
 # Delegering av myndighet til Finansdepartementet etter lov om beskyttelse av supplerende pensjonsrettigheter for arbeidstakere og selvstendig næringsdrivende som flytter innenfor EØS-området § 8 og § 9 første og annet punktum.
 
-Kongens myndighet etter følgende bestemmelser i [lov av 14. desember 2001 nr. 95](lov/2001-12-14-95) om beskyttelse av supplerende pensjonsrettigheter for arbeidstakere og selvstendig næringsdrivende som flytter innenfor EØS-området delegeres til Finansdepartementet:§ 8.§ 9 første og annet punktum.
+Kongens myndighet etter følgende bestemmelser i [lov av 14. desember 2001 nr. 95](lov/2001-12-14-95) om beskyttelse av supplerende pensjonsrettigheter for arbeidstakere og selvstendig næringsdrivende som flytter innenfor EØS-området delegeres til Finansdepartementet:
+
+- § 8.
+- § 9 første og annet punktum.

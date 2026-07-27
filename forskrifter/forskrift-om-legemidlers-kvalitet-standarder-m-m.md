@@ -15,7 +15,7 @@ xml_hash: "fb04e0dcb14a56eeae6531ad34a4a80aa63eba327261a5b60d9cf7dad3c35eab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,11 @@ Tilvirkeren av et farmasøytisk preparat plikter å sørge for at preparatet og 
 
 ## § 4. Kvalitetsspesifikasjoner
 
-Kvaliteten av en råvare eller et farmasøytisk preparat skal fastlegges i en spesifikasjon. Spesifikasjonen skal omfatte de nødvendige angivelser av:råvarens eller preparatets opprinnelse, sammensetning og hvis relevant, fremstillingsmåtekontrollprøver med tilhørende krav til resultatene samt metodebeskrivelseroppbevaringsbetingelser og holdbarhetstid.
+Kvaliteten av en råvare eller et farmasøytisk preparat skal fastlegges i en spesifikasjon. Spesifikasjonen skal omfatte de nødvendige angivelser av:
+
+1. råvarens eller preparatets opprinnelse, sammensetning og hvis relevant, fremstillingsmåte
+2. kontrollprøver med tilhørende krav til resultatene samt metodebeskrivelser
+3. oppbevaringsbetingelser og holdbarhetstid.
 
 ## § 5. Kvalitetskrav for råvarer og farmasøytiske preparater
 

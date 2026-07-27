@@ -15,7 +15,7 @@ xml_hash: "8664edd9c08184dc0c4e579aca15009518dba3747d9237455eba7c05a311c02a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,19 @@ eu_basis: []
 
 ### § 2-1. Generell studiekompetanse – Kunnskapsløftet
 
-(1) Det generelle grunnlaget for opptak til universitet og høgskular (generell studiekompetanse) skal normalt vere at søkjaren harvitnemål om bestått norsk treårig vidaregåande opplæring som gir studie- eller yrkeskompetanse; ellerfylt 23 år i løpet av opptaksåret og kan dokumentere minimum fem års fulltids arbeidserfaring og/eller utdanning (23/5-søkjarar). Omsorgsarbeid og militær førstegongsteneste eller sivilteneste kan òg reknast som arbeidserfaring. Som utdanning gjeld bestått årstrinn i vidaregåande opplæring, godkjent årskurs frå folkehøgskule og/eller eksamen frå studium som har vart i minst eitt år.Begge alternativa ovanfor krev desse faga frå vidaregåande opplæring, som må vere dekte innanfor eller tekne i tillegg til krava ovanfor. Faga er oppgitt med samla omfang i timar (60 minutts einingar). Faga må vere beståtte:norsk 393 timarengelsk 140 timarmatematikk 224 timarnaturfag 140 timarsamfunnskunnskap 84 timarhistorie 140 timar.
+(1) Det generelle grunnlaget for opptak til universitet og høgskular (generell studiekompetanse) skal normalt vere at søkjaren har
+
+1. vitnemål om bestått norsk treårig vidaregåande opplæring som gir studie- eller yrkeskompetanse; eller
+2. fylt 23 år i løpet av opptaksåret og kan dokumentere minimum fem års fulltids arbeidserfaring og/eller utdanning (23/5-søkjarar). Omsorgsarbeid og militær førstegongsteneste eller sivilteneste kan òg reknast som arbeidserfaring. Som utdanning gjeld bestått årstrinn i vidaregåande opplæring, godkjent årskurs frå folkehøgskule og/eller eksamen frå studium som har vart i minst eitt år.
+
+Begge alternativa ovanfor krev desse faga frå vidaregåande opplæring, som må vere dekte innanfor eller tekne i tillegg til krava ovanfor. Faga er oppgitt med samla omfang i timar (60 minutts einingar). Faga må vere beståtte:
+
+- norsk 393 timar
+- engelsk 140 timar
+- matematikk 224 timar
+- naturfag 140 timar
+- samfunnskunnskap 84 timar
+- historie 140 timar.
 
 (2) For søkjarar som har bestått norsk 309 timar, samisk/finsk 309 timar og historie 113 timar, gjeld ikkje kravet om norsk 393 timar og kravet om historie 140 timar.
 
@@ -58,13 +70,59 @@ eu_basis: []
 
 (1) Søkjarar med 3-årig vidaregåande utdanning frå dei andre nordiske landa er kvalifiserte for opptak utan tilleggskrav i norsk når den vidaregåande utdanninga gir generelt opptaksgrunnlag til universitet og høgskular i dei respektive landa.
 
-(2) Søkjarar som har utanlandsk utdanning frå land utanfor Norden, må dokumentere bestått utdanning på nivå med norsk 3-årig vidaregåande opplæring som gir generell studiekompetanse, sjå også åttande ledd, og i tillegg dokumentere kunnskapar i norsk og engelsk med éi av desse prøvene:Norskprøver:Bestått norsk med 393 timar frå vidaregåande opplæring.Bestått eksamen frå trinn 3 i norsk for utanlandske studentar ved universiteta.Bestått årskurs i norsk språk og samfunnskunnskap for utanlandske studentar.Skriftleg og munnleg test i norsk, høgare nivå («Bergenstesten»), begge vurdert til «bestått» eller betre resultat.Avsluttande prøve i norsk (norskprøven) med ferdigheiter på minimum nivå B2 i alle delprøver, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (Integreringslova) § 37](lov/2020-11-06-127/§37).Frå og med opptak til studieåret 2023–2024 kan kunnskapar i norsk også dokumenterast med en av følgjande kombinasjonar av prøvedelar:Bestått eller betre resultat i munnleg test frå test i norsk, høgare nivå («Bergenstesten»), saman med avsluttande prøver i leseforståing, lytteforståing og skriftleg framstilling frå norskprøven (jf. pkt. 5 ovanfor) med minimum nivå B2 som resultat i alle tre delprøver.Bestått eller betre resultat i skriftleg test frå test i norsk, høgare nivå («Bergenstesten»), saman med delprøve i munnleg kommunikasjon frå norskprøven (jf. pkt. 5 ovanfor) med minimum B2 som resultat.Engelskprøver:Faget Engelsk frå norsk vidaregåande skule (140 timar)Test of English as a Foreign Language (TOEFL) medMinst 60 poeng på TOEFL iBT, ellerMinst 60 poeng på TOEFL iBT Home Edition, ellerMinst 500 poeng på papirbasert testInternational English Language Testing Service (IELTS) Academic test eller Online academic test med overall Band Score på minst 5,0 eller betreCambridge ESOL ExaminationsFirst certificate in English, ellerCertificate in Advanced English, ellerCertificate of Proficiency in EnglishPearson PTE Academic eller Academic online med overall score på minst 51The European language certificate (telc)English B2, ellerEnglish B2-C1 University, ellerEnglish certificate på C1-nivåUniversity of Michigan, Michigan Language AssessmentCertificate og Proficiency (ECPE)Certificate of Competency in English (ECCE)Fullført og bestått eitt år i vidaregåande skule eller høgare utdanning frå Australia, Canada, Irland, New Zealand, Storbritannia eller USA, der undervisningsspråket har vore engelsk.Fullført og bestått 60 studiepoeng i engelsk språk og litteratur frå universitet eller høgskule.Fullført og bestått engelskspråkleg mastergrad.
+(2) Søkjarar som har utanlandsk utdanning frå land utanfor Norden, må dokumentere bestått utdanning på nivå med norsk 3-årig vidaregåande opplæring som gir generell studiekompetanse, sjå også åttande ledd, og i tillegg dokumentere kunnskapar i norsk og engelsk med éi av desse prøvene:
+
+Norskprøver:
+
+1. Bestått norsk med 393 timar frå vidaregåande opplæring.
+2. Bestått eksamen frå trinn 3 i norsk for utanlandske studentar ved universiteta.
+3. Bestått årskurs i norsk språk og samfunnskunnskap for utanlandske studentar.
+4. Skriftleg og munnleg test i norsk, høgare nivå («Bergenstesten»), begge vurdert til «bestått» eller betre resultat.
+5. Avsluttande prøve i norsk (norskprøven) med ferdigheiter på minimum nivå B2 i alle delprøver, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (Integreringslova) § 37](lov/2020-11-06-127/§37).
+6. Frå og med opptak til studieåret 2023–2024 kan kunnskapar i norsk også dokumenterast med en av følgjande kombinasjonar av prøvedelar:
+
+   1. Bestått eller betre resultat i munnleg test frå test i norsk, høgare nivå («Bergenstesten»), saman med avsluttande prøver i leseforståing, lytteforståing og skriftleg framstilling frå norskprøven (jf. pkt. 5 ovanfor) med minimum nivå B2 som resultat i alle tre delprøver.
+   2. Bestått eller betre resultat i skriftleg test frå test i norsk, høgare nivå («Bergenstesten»), saman med delprøve i munnleg kommunikasjon frå norskprøven (jf. pkt. 5 ovanfor) med minimum B2 som resultat.
+
+Engelskprøver:
+
+1. Faget Engelsk frå norsk vidaregåande skule (140 timar)
+2. Test of English as a Foreign Language (TOEFL) med
+
+   1. Minst 60 poeng på TOEFL iBT, eller
+   2. Minst 60 poeng på TOEFL iBT Home Edition, eller
+   3. Minst 500 poeng på papirbasert test
+3. International English Language Testing Service (IELTS) Academic test eller Online academic test med overall Band Score på minst 5,0 eller betre
+4. Cambridge ESOL Examinations
+
+   1. First certificate in English, eller
+   2. Certificate in Advanced English, eller
+   3. Certificate of Proficiency in English
+5. Pearson PTE Academic eller Academic online med overall score på minst 51
+6. The European language certificate (telc)
+
+   1. English B2, eller
+   2. English B2-C1 University, eller
+   3. English certificate på C1-nivå
+7. University of Michigan, Michigan Language Assessment
+
+   1. Certificate og Proficiency (ECPE)
+   2. Certificate of Competency in English (ECCE)
+8. Fullført og bestått eitt år i vidaregåande skule eller høgare utdanning frå Australia, Canada, Irland, New Zealand, Storbritannia eller USA, der undervisningsspråket har vore engelsk.
+9. Fullført og bestått 60 studiepoeng i engelsk språk og litteratur frå universitet eller høgskule.
+10. Fullført og bestått engelskspråkleg mastergrad.
 
 (3) Søkjarar som har fullført utanlandsk vidaregåande utdanning som ikkje er på nivå med norsk 3-årig vidaregåande opplæring som gir generell studiekompetanse og ikkje kan dokumentere eitt års høgare utdanning jf. åttande ledd, kan få opptak når dei kan dokumentere å ha bestått og fullført fag i samsvar med [§ 2-1 første ledd](forskrift/2017-01-06-13/§2-1/ledd/1).
 
-(4) Søkjarar som har utdanning frå International Baccalaureate (IB) frå 2021 eller seinare, og som anten har teke norsk A på minst lågare nivå («standard level»), eller norsk B på høgare nivå («higher level»), eller fyller kravet til norsk etter denne føresegna på andre måtar, fyller krava til generell studiekompetanse dersom dei i tillegghar oppnådd diplom frå International Baccalaureate (IB), ellerhar oppnådd IB Diploma Programme Course Result (tidlegare IB-Certificate) med meir enn 20 poeng og bestått tre fag på lågare nivå («standard level») og tre fag på høgare nivå («higher level»), eller bestått to fag på lågare nivå («standard level») og fire fag på høgare nivå («higher level»). Slike søkjarar kan ikkje ha lågare karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må òg vere bestått.
+(4) Søkjarar som har utdanning frå International Baccalaureate (IB) frå 2021 eller seinare, og som anten har teke norsk A på minst lågare nivå («standard level»), eller norsk B på høgare nivå («higher level»), eller fyller kravet til norsk etter denne føresegna på andre måtar, fyller krava til generell studiekompetanse dersom dei i tillegg
 
-(5) Søkjarar som har utdanning frå International Baccalaureate (IB) fram til og med 2020, og som anten har teke norsk A eller norsk B på minst lågare nivå («standard level»), eller fyller kravet til norsk etter denne føresegna på andre måtar, fyller krava til generell studiekompetanse dersom dei i tillegghar oppnådd diplom frå International Baccalaureate (IB), ellerhar oppnådd IB Diploma Programme Course Results (tidlegare IB-Certificate) med meir enn 20 poeng og bestått tre fag på lågare nivå («standard level») og tre fag på høgare nivå («higher level»), eller bestått to fag på lågare nivå («standard level») og fire fag på høgare nivå («higher level»). Slike søkjarar kan ikkje ha lågare karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må òg vere bestått.
+1. har oppnådd diplom frå International Baccalaureate (IB), eller
+2. har oppnådd IB Diploma Programme Course Result (tidlegare IB-Certificate) med meir enn 20 poeng og bestått tre fag på lågare nivå («standard level») og tre fag på høgare nivå («higher level»), eller bestått to fag på lågare nivå («standard level») og fire fag på høgare nivå («higher level»). Slike søkjarar kan ikkje ha lågare karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må òg vere bestått.
+
+(5) Søkjarar som har utdanning frå International Baccalaureate (IB) fram til og med 2020, og som anten har teke norsk A eller norsk B på minst lågare nivå («standard level»), eller fyller kravet til norsk etter denne føresegna på andre måtar, fyller krava til generell studiekompetanse dersom dei i tillegg
+
+1. har oppnådd diplom frå International Baccalaureate (IB), eller
+2. har oppnådd IB Diploma Programme Course Results (tidlegare IB-Certificate) med meir enn 20 poeng og bestått tre fag på lågare nivå («standard level») og tre fag på høgare nivå («higher level»), eller bestått to fag på lågare nivå («standard level») og fire fag på høgare nivå («higher level»). Slike søkjarar kan ikkje ha lågare karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må òg vere bestått.
 
 (6) Universitetet eller høgskulen kan godta annan dokumentasjon av norskkunnskapar.
 
@@ -118,7 +176,10 @@ Institusjonar kan ta opp søkjarar som ikkje oppfyller krava til generell studie
 
 ### § 3-4. Unntak frå kravet om generell studiekompetanse for opptak til enkelte arkitekturfag og tekniske fag
 
-Desse studia er unnatekne frå kravet om generell studiekompetanse:Integrert masterstudium i teknologiske fag, 3-årig ingeniørutdanning og maritime fag har unntak frå kravet om generell studiekompetanse for søkjarar som har bestått 1-årig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag etter fagplan av 2014.Arkitektutdanning ved Noregs teknisk-naturvitskaplege universitet har unntak frå kravet om generell studiekompetanse for søkjarar som har bestått 2-årig fagskuleutdanning etter studieordningar før rammeplan fastsett av departementet i 1998–1999.
+Desse studia er unnatekne frå kravet om generell studiekompetanse:
+
+1. Integrert masterstudium i teknologiske fag, 3-årig ingeniørutdanning og maritime fag har unntak frå kravet om generell studiekompetanse for søkjarar som har bestått 1-årig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag etter fagplan av 2014.
+2. Arkitektutdanning ved Noregs teknisk-naturvitskaplege universitet har unntak frå kravet om generell studiekompetanse for søkjarar som har bestått 2-årig fagskuleutdanning etter studieordningar før rammeplan fastsett av departementet i 1998–1999.
 
 > Endra ved [forskrifter 23 nov 2018 nr. 1767](forskrift/2018-11-23-1767) (i kraft 1 jan 2019), [26 nov 2019 nr. 1580](forskrift/2019-11-26-1580) (i kraft 1 jan 2020), [16 des 2020 nr. 2916](forskrift/2020-12-16-2916) (i kraft 1 jan 2021), [1 des 2021 nr. 3391](forskrift/2021-12-01-3391) (i kraft 1 jan 2022).
 
@@ -132,7 +193,19 @@ Desse studia er unnatekne frå kravet om generell studiekompetanse:Integrert mas
 
 ### § 3-6. Unntak frå kravet om generell studiekompetanse for opptak til enkelte kunstfag
 
-Generell studiekompetanse skal framleis vere det normale kravet for opptak også for desse studia. Unntak frå kravet om generell studiekompetanse gjeld for søkjarar som fyller spesielle faglege krav fastsette av institusjonen ved opptak til desse utdanningane og/eller institusjonane (jf. [§ 4-1](forskrift/2017-01-06-13/§4-1)):*Studium i utøvande og skapande kunst**Studium i utøvande og skapande musikk**Forfattarstudium**Scenekunstutdanning**Folkekunst og folkemusikk* ved Universitetet i Søraust-Noreg*Kunstfagleg utdanning* ved Noregs teknisk–naturvitskaplege universitet og ved Universitetet i Tromsø – Noregs arktiske universitet*Studium i folkedans* ved Noregs teknisk–naturvitskaplege universitet*Studium i duodji 1* ved Samisk høgskole*Studium i visuell kunst, film og tv, manus, lyddesign og Visual Effects* ved Høyskolen Kristiania*Studium ved Den norske filmskolen* ved Universitetet i Innlandet*Studium i manus – scenetekst og tv-drama* ved NSKI Høgskole.
+Generell studiekompetanse skal framleis vere det normale kravet for opptak også for desse studia. Unntak frå kravet om generell studiekompetanse gjeld for søkjarar som fyller spesielle faglege krav fastsette av institusjonen ved opptak til desse utdanningane og/eller institusjonane (jf. [§ 4-1](forskrift/2017-01-06-13/§4-1)):
+
+1. *Studium i utøvande og skapande kunst*
+2. *Studium i utøvande og skapande musikk*
+3. *Forfattarstudium*
+4. *Scenekunstutdanning*
+5. *Folkekunst og folkemusikk* ved Universitetet i Søraust-Noreg
+6. *Kunstfagleg utdanning* ved Noregs teknisk–naturvitskaplege universitet og ved Universitetet i Tromsø – Noregs arktiske universitet
+7. *Studium i folkedans* ved Noregs teknisk–naturvitskaplege universitet
+8. *Studium i duodji 1* ved Samisk høgskole
+9. *Studium i visuell kunst, film og tv, manus, lyddesign og Visual Effects* ved Høyskolen Kristiania
+10. *Studium ved Den norske filmskolen* ved Universitetet i Innlandet
+11. *Studium i manus – scenetekst og tv-drama* ved NSKI Høgskole.
 
 > Endra ved [forskrifter 30 jan 2018 nr. 137](forskrift/2018-01-30-137) (i kraft 1 feb 2018), [23 nov 2018 nr. 1767](forskrift/2018-11-23-1767) (i kraft 1 jan 2019), [11 jan 2022 nr. 52](forskrift/2022-01-11-52) (i kraft 12 jan 2022), [29 nov 2022 nr. 2086](forskrift/2022-11-29-2086) (i kraft 1 jan 2023), [19 des 2024 nr. 3488](forskrift/2024-12-19-3488).
 
@@ -212,19 +285,32 @@ Institusjonar kan ta opp søkjarar med relevant fagbrev som ikkje oppfyller krav
 
 ### § 4-4. Spesielle opptakskrav til arkitekturfag og teknologiske fag
 
-(1) Arkitektutdanning ved Noregs teknisk-naturvitskaplege universitet har krav om matematikk (R1 + R2) og fysikk 1.Søkjarar med 2-årig teknisk fagskule etter rammeplan fastsett av departementet 1998–1999 og tidlegare studieordningar fyller krava for opptak utan omsyn til dei spesielle krava i matematikk og fysikk som er fastsette her.
+(1) Arkitektutdanning ved Noregs teknisk-naturvitskaplege universitet har krav om matematikk (R1 + R2) og fysikk 1.
+
+Søkjarar med 2-årig teknisk fagskule etter rammeplan fastsett av departementet 1998–1999 og tidlegare studieordningar fyller krava for opptak utan omsyn til dei spesielle krava i matematikk og fysikk som er fastsette her.
 
 (2) *Arkitektutdanning* ved Arkitektur- og designhøgskolen i Oslo og Bergen arkitekthøgskole har krav om at søkjaren må bestå opptaksprøve etter nærmare reglar fastsette av institusjonen.
 
-(3) *Integrert masterstudium i teknologiske fag*, med unntak av Noregs teknisk-naturvitskaplege universitetet, har krav om matematikk (R1 + R2) og fysikk 1. Sjå òg ledd 7.Søkjarar med 2-årig teknisk fagskule etter rammeplan fastsett av departementet i 1998–1999 og tidlegare studieordningar fyller krava for opptak utan omsyn til dei spesielle krava i matematikk og fysikk som er fastsette her.Søkjarar med bestått 1-årig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag etter fagplan av 2014 og søkjarar med bestått 1-årig forkurs for ingeniørutdanning og maritim høgskuleutdanning fyller fagkrava for opptak utan omsyn til dei spesielle krava i matematikk og fysikk som er fastsette her.
+(3) *Integrert masterstudium i teknologiske fag*, med unntak av Noregs teknisk-naturvitskaplege universitetet, har krav om matematikk (R1 + R2) og fysikk 1. Sjå òg ledd 7.
 
-(4) *3-årig ingeniørutdanning* har krav om matematikk (R1 + R2) og fysikk 1.Søkjarar med 2-årig teknisk fagskule etter rammeplan fastsett av departementet i 1998–1999 og tidlegare studieordningar fyller krava for opptak utan omsyn til dei spesielle krava i matematikk og fysikk som er fastsette her.Søkjarar som har bestått 1-årig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag etter fagplan av 2014, og søkjarar med bestått 1-årig forkurs for ingeniørutdanning og maritim høgskuleutdanning, fyller krava for opptak utan omsyn til dei spesielle opptakskrava i matematikk og fysikk som er fastsette her.For søkjarar som blir tekne opp til treterminordning, gjeld ikkje det spesielle opptakskravet i matematikk og fysikk som er fastsett her.
+1. Søkjarar med 2-årig teknisk fagskule etter rammeplan fastsett av departementet i 1998–1999 og tidlegare studieordningar fyller krava for opptak utan omsyn til dei spesielle krava i matematikk og fysikk som er fastsette her.
+2. Søkjarar med bestått 1-årig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag etter fagplan av 2014 og søkjarar med bestått 1-årig forkurs for ingeniørutdanning og maritim høgskuleutdanning fyller fagkrava for opptak utan omsyn til dei spesielle krava i matematikk og fysikk som er fastsette her.
+
+(4) *3-årig ingeniørutdanning* har krav om matematikk (R1 + R2) og fysikk 1.
+
+1. Søkjarar med 2-årig teknisk fagskule etter rammeplan fastsett av departementet i 1998–1999 og tidlegare studieordningar fyller krava for opptak utan omsyn til dei spesielle krava i matematikk og fysikk som er fastsette her.
+2. Søkjarar som har bestått 1-årig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag etter fagplan av 2014, og søkjarar med bestått 1-årig forkurs for ingeniørutdanning og maritim høgskuleutdanning, fyller krava for opptak utan omsyn til dei spesielle opptakskrava i matematikk og fysikk som er fastsette her.
+3. For søkjarar som blir tekne opp til treterminordning, gjeld ikkje det spesielle opptakskravet i matematikk og fysikk som er fastsett her.
 
 (5) *Tradisjonelt bygghandverk* har krav om relevant fag- eller sveinebrev eller annan tilsvarande kompetanse.
 
 (6) *Landskapsarkitektur* ved Arkitektur- og designhøgskolen i Oslo har krav om at søkjarar må bestå opptaksprøve etter nærmare reglar fastsette av institusjonen.
 
-(7) *Integrert masterstudium i teknologiske fag* ved Noregs teknisk-naturvitskaplege universitet har krav om matematikk (R1 + R2) og fysikk 1. Søkjarar må dokumentere eit gjennomsnitt på minimum karakteren 4,0 i matematikk R2 (140 timar).Søkjarar med nyare godkjend 2-årig fagskuleutdanning i tekniske fag må dokumentere tilsvarande kunnskapar i matematikk og fysikk.Søkjarar med 2-årig teknisk fagskule etter rammeplan fastsett av departementet i 1998–1999 og tidlegare studieordningar må dokumentere kunnskapar tilsvarande matematikk R2 med eit gjennomsnitt på minimum karakteren 4,0.Søkjarar med bestått 1-årig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag etter fagplan av 2014 og søkjarar med 1-årig forkurs for ingeniørutdanning og maritim høgskuleutdanning fyller fagkrava for opptak utan omsyn til dei spesielle fagkrava i matematikk og fysikk som er fastsette her. Søkjarar må ha karakteren C eller betre i matematikk frå forkurs.
+(7) *Integrert masterstudium i teknologiske fag* ved Noregs teknisk-naturvitskaplege universitet har krav om matematikk (R1 + R2) og fysikk 1. Søkjarar må dokumentere eit gjennomsnitt på minimum karakteren 4,0 i matematikk R2 (140 timar).
+
+1. Søkjarar med nyare godkjend 2-årig fagskuleutdanning i tekniske fag må dokumentere tilsvarande kunnskapar i matematikk og fysikk.
+2. Søkjarar med 2-årig teknisk fagskule etter rammeplan fastsett av departementet i 1998–1999 og tidlegare studieordningar må dokumentere kunnskapar tilsvarande matematikk R2 med eit gjennomsnitt på minimum karakteren 4,0.
+3. Søkjarar med bestått 1-årig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag etter fagplan av 2014 og søkjarar med 1-årig forkurs for ingeniørutdanning og maritim høgskuleutdanning fyller fagkrava for opptak utan omsyn til dei spesielle fagkrava i matematikk og fysikk som er fastsette her. Søkjarar må ha karakteren C eller betre i matematikk frå forkurs.
 
 > Endra ved [forskrifter 30 jan 2018 nr. 137](forskrift/2018-01-30-137) (i kraft 1 feb 2018), [23 nov 2018 nr. 1767](forskrift/2018-11-23-1767) (i kraft 1 jan 2019), [16 des 2020 nr. 2916](forskrift/2020-12-16-2916) (i kraft 1 jan 2021), [1 des 2021 nr. 3391](forskrift/2021-12-01-3391) (i kraft 1 jan 2022), [19 des 2023 nr. 2223](forskrift/2023-12-19-2223), [19 des 2024 nr. 3488](forskrift/2024-12-19-3488).
 
@@ -242,7 +328,13 @@ For studium innan økonomiske og administrative fag kan institusjonane sjølv fa
 
 ### § 4-7. Spesielle opptakskrav til lærarutdanningar
 
-(1) *Grunnskulelærarutdanning og 5-årig lektorutdanning* har krav om at søkjarar må dokumentere minimum 35 skulepoeng og eit gjennomsnitt på minimum karakteren 3,0 i norsk (393 timar) og 4,0 i fellesfaget matematikk (224 timar) eller minimum 40 skulepoeng og eit gjennomsnitt på minimum karakteren 3,0 i norsk (393 timar) og 3,0 i fellesfaget matematikk (224 timar). Karakterkravet i matematikk gjeld ikkje for søkjarar som kan dokumentere bestått programfag i matematikk med eit omfang på minst 140 timar eller tilsvarande. Søkjarar kan i tillegg måtte gjennomføre ei opptaksprøve i form av eit intervju etter nærmare reglar fastsette av institusjonen.For søkjarar som har samisk som førstespråk eller andrespråk, gjeld karakterkravet i norsk for gjennomsnittet av karakterane i norsk (309 timar) og samisk (309 timar).For søkjarar som har norsk teiknspråk, kvensk eller finsk som andrespråk, gjeld karakterkravet i norsk gjennomsnittet av karakterane i første- og andrespråket.For søkjarar til grunnskulelærarutdanning ved Samisk høgskole gjeld i tillegg krava som er fastsette i [§ 4-10](forskrift/2017-01-06-13/§4-10).
+(1) *Grunnskulelærarutdanning og 5-årig lektorutdanning* har krav om at søkjarar må dokumentere minimum 35 skulepoeng og eit gjennomsnitt på minimum karakteren 3,0 i norsk (393 timar) og 4,0 i fellesfaget matematikk (224 timar) eller minimum 40 skulepoeng og eit gjennomsnitt på minimum karakteren 3,0 i norsk (393 timar) og 3,0 i fellesfaget matematikk (224 timar). Karakterkravet i matematikk gjeld ikkje for søkjarar som kan dokumentere bestått programfag i matematikk med eit omfang på minst 140 timar eller tilsvarande. Søkjarar kan i tillegg måtte gjennomføre ei opptaksprøve i form av eit intervju etter nærmare reglar fastsette av institusjonen.
+
+For søkjarar som har samisk som førstespråk eller andrespråk, gjeld karakterkravet i norsk for gjennomsnittet av karakterane i norsk (309 timar) og samisk (309 timar).
+
+For søkjarar som har norsk teiknspråk, kvensk eller finsk som andrespråk, gjeld karakterkravet i norsk gjennomsnittet av karakterane i første- og andrespråket.
+
+For søkjarar til grunnskulelærarutdanning ved Samisk høgskole gjeld i tillegg krava som er fastsette i [§ 4-10](forskrift/2017-01-06-13/§4-10).
 
 (2) *Grunnskulelærarutdanning og 5-årig lektorutdanning med realfag, miljø- og naturfag* har krav om at søkjarar må dokumentere minimum 35 skulepoeng og eit gjennomsnitt på minimum karakteren 3,0 i norsk (393 timar) og i tillegg kravet som er fastsett for realfag, miljø- og naturfag i [§ 4-3](forskrift/2017-01-06-13/§4-3) tredje eller fjerde ledd.
 
@@ -264,7 +356,23 @@ For studium innan økonomiske og administrative fag kan institusjonane sjølv fa
 
 (1) Departementet kan etter søknad frå ein institusjon innvilge unntak frå nivåkrava i [§ 4-7](forskrift/2017-01-06-13/§4-7) første til femte ledd og åttande ledd dersom institusjonen har tiltak som varetek dei same omsyna som nivåkrava er meint å vareta.
 
-(2) For følgande utdanningar har departementet gitt dispensasjon frå krava til karakter i norsk og matematikk og krava til skulepoeng i [§ 4-7](forskrift/2017-01-06-13/§4-7):Grunnskulelærarutdanning for trinn 1–7 og grunnskulelærarutdanning for trinn 5–10 ved Høgskolen i ØstfoldGrunnskulelærarutdanning for trinn 1–7 og grunnskulelærarutdanning for trinn 5–10 ved Høgskulen i VoldaGrunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10 og lærarutdanning i praktiske og estetiske fag for trinn 1–13 ved Høgskulen på Vestlandet.Grunnskulelærarutdanning for trinn 1–7 og grunnskulelærarutdanning for trinn 5–10 ved NLA HøgskolenGrunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10, samisk grunnskulelærarutdanning for trinn 1–7, lærarutdanning i praktiske og estetiske fag for trinn 1–13, lektorutdanning og grunnskulelærarutdanning for trinn 1–10 ved Nord universitetGrunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10, grunnskulelærarutdanning for trinn 1–7 med steinerpedagogikk og lærarutdanning i praktiske og estetiske fag for trinn 1–13 ved OsloMet – storbyuniversitetetGrunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10, lektorutdanning ved UiT – Noregs arktiske universitetGrunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10, lektorutdanning og lærarutdanning i praktiske og estetiske fag for trinn 1–13 ved Universitetet i InnlandetGrunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10 og lektorutdanning ved Universitetet i StavangerGrunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10 og lærarutdanning i praktiske og estetiske fag for trinn 1–13 ved Universitetet i Søraust-NoregFor følgande utdanningar har departementet gitt dispensasjon frå krava til karakter i matematikk i [§ 4-7](forskrift/2017-01-06-13/§4-7):Lektorutdanning ved MF – vitenskapelig høyskoleGrunnskolelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10, lektorutdanning med engelsk i første studieår, lektorutdanning med framandspråk i første studieår, lektorutdanning med historie i første studieår, lektorutdanning med idrett i første studieår, lektorutdanning med norsk i første studieår, lektorutdanning med religion i første studieår og lektorutdanning med samfunnskunnskap i første studieår ved Universitetet i Agder.
+(2) For følgande utdanningar har departementet gitt dispensasjon frå krava til karakter i norsk og matematikk og krava til skulepoeng i [§ 4-7](forskrift/2017-01-06-13/§4-7):
+
+1. Grunnskulelærarutdanning for trinn 1–7 og grunnskulelærarutdanning for trinn 5–10 ved Høgskolen i Østfold
+2. Grunnskulelærarutdanning for trinn 1–7 og grunnskulelærarutdanning for trinn 5–10 ved Høgskulen i Volda
+3. Grunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10 og lærarutdanning i praktiske og estetiske fag for trinn 1–13 ved Høgskulen på Vestlandet.
+4. Grunnskulelærarutdanning for trinn 1–7 og grunnskulelærarutdanning for trinn 5–10 ved NLA Høgskolen
+5. Grunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10, samisk grunnskulelærarutdanning for trinn 1–7, lærarutdanning i praktiske og estetiske fag for trinn 1–13, lektorutdanning og grunnskulelærarutdanning for trinn 1–10 ved Nord universitet
+6. Grunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10, grunnskulelærarutdanning for trinn 1–7 med steinerpedagogikk og lærarutdanning i praktiske og estetiske fag for trinn 1–13 ved OsloMet – storbyuniversitetet
+7. Grunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10, lektorutdanning ved UiT – Noregs arktiske universitet
+8. Grunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10, lektorutdanning og lærarutdanning i praktiske og estetiske fag for trinn 1–13 ved Universitetet i Innlandet
+9. Grunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10 og lektorutdanning ved Universitetet i Stavanger
+10. Grunnskulelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10 og lærarutdanning i praktiske og estetiske fag for trinn 1–13 ved Universitetet i Søraust-Noreg
+
+For følgande utdanningar har departementet gitt dispensasjon frå krava til karakter i matematikk i [§ 4-7](forskrift/2017-01-06-13/§4-7):
+
+1. Lektorutdanning ved MF – vitenskapelig høyskole
+2. Grunnskolelærarutdanning for trinn 1–7, grunnskulelærarutdanning for trinn 5–10, lektorutdanning med engelsk i første studieår, lektorutdanning med framandspråk i første studieår, lektorutdanning med historie i første studieår, lektorutdanning med idrett i første studieår, lektorutdanning med norsk i første studieår, lektorutdanning med religion i første studieår og lektorutdanning med samfunnskunnskap i første studieår ved Universitetet i Agder.
 
 (3) For grunnskulelærarutdanning for trinn 1–7 og grunnskulelærarutdanning for trinn 5–10 ved Samisk høgskole har departementet gitt dispensasjon frå krava til karakter i matematikk og krava til skulepoeng i [§ 4-7](forskrift/2017-01-06-13/§4-7).
 
@@ -278,7 +386,22 @@ For bachelorprogram og integrerte masterprogam som i sin heilskap har engelsk so
 
 ### § 4-9. Spesielle opptakskrav til enkelte kunstfag
 
-Ved opptak til desse utdanningane må søkjarar bestå opptaksprøve etter nærmare reglar fastsette av institusjonen:*Scenekunstutdanning**Studium i utøvande og skapande musikk**Forfattarstudium**Studieprogram i dansevitskap*Studium ved fakultet for kunst, musikk og design ved Universitetet i BergenStudium ved Kunsthøgskolen i Oslo*Musikkvitskap* og *musikkteknologi* ved Noregs teknisk-naturvitskaplege universitet og musikkvitskap ved Universitetet i Oslo*Kunstfagleg utdanning* ved Noregs teknisk-naturvitskaplege universitet og ved Universitetet i Tromsø – Noregs arktiske universitet*Studium i utøvande og skapande kunst* ved Universitetet i Stavanger*Studium i kunst* ved Høyskolen Kristiania*Bachelorstudium i dansekunst* ved Høyskolen for Dansekunst*Bachelorstudium i manus – scenetekst og tv-drama* ved NSKI Høgskole.*Film- og fjernsynsutdanning* ved Universitetet i Innlandet.*Årsstudium i instrumentmaking* ved Universitetet i Søraust-Noreg
+Ved opptak til desse utdanningane må søkjarar bestå opptaksprøve etter nærmare reglar fastsette av institusjonen:
+
+1. *Scenekunstutdanning*
+2. *Studium i utøvande og skapande musikk*
+3. *Forfattarstudium*
+4. *Studieprogram i dansevitskap*
+5. Studium ved fakultet for kunst, musikk og design ved Universitetet i Bergen
+6. Studium ved Kunsthøgskolen i Oslo
+7. *Musikkvitskap* og *musikkteknologi* ved Noregs teknisk-naturvitskaplege universitet og musikkvitskap ved Universitetet i Oslo
+8. *Kunstfagleg utdanning* ved Noregs teknisk-naturvitskaplege universitet og ved Universitetet i Tromsø – Noregs arktiske universitet
+9. *Studium i utøvande og skapande kunst* ved Universitetet i Stavanger
+10. *Studium i kunst* ved Høyskolen Kristiania
+11. *Bachelorstudium i dansekunst* ved Høyskolen for Dansekunst
+12. *Bachelorstudium i manus – scenetekst og tv-drama* ved NSKI Høgskole.
+13. *Film- og fjernsynsutdanning* ved Universitetet i Innlandet.
+14. *Årsstudium i instrumentmaking* ved Universitetet i Søraust-Noreg
 
 > Endra ved [forskrifter 30 jan 2018 nr. 137](forskrift/2018-01-30-137) (i kraft 1 feb 2018), [23 nov 2018 nr. 1767](forskrift/2018-11-23-1767) (i kraft 1 jan 2019), [16 des 2020 nr. 2916](forskrift/2020-12-16-2916) (i kraft 1 jan 2021), [1 des 2021 nr. 3391](forskrift/2021-12-01-3391) (i kraft 1 jan 2022), [11 jan 2022 nr. 52](forskrift/2022-01-11-52) (i kraft 12 jan 2022), [29 nov 2022 nr. 2086](forskrift/2022-11-29-2086) (i kraft 1 jan 2023), [19 des 2023 nr. 2223](forskrift/2023-12-19-2223), [19 des 2024 nr. 3488](forskrift/2024-12-19-3488), [21 nov 2025 nr. 2336](forskrift/2025-11-21-2336).
 
@@ -298,11 +421,36 @@ Ved opptak til desse utdanningane må søkjarar bestå opptaksprøve etter nærm
 
 (7) *1-årig studium i Arktisk naturguide* ved Universitetet i Tromsø – Noregs arktiske universitet har krav om at søkjarar må ha gyldig førarkort klasse S eller klasse B og dokumentere relevant praksis etter nærmare reglar fastsette av institusjonen.
 
-(8) Til følgjande studium har Høgskolen i Innlandet krav om at søkjarar må dokumentere kunnskapar i form av innsendt arbeid og bestå opptaksprøve etter nærmare reglar fastsette av institusjonen:Bachelorstudium i dokumentar- og TV-produksjonBachelorstudium i dokumentar- og TV-regiBachelorstudium i prosjekt- og produksjonsleiing for dokumentar og TVBachelorstudium i kulturprosjektleiing.
+(8) Til følgjande studium har Høgskolen i Innlandet krav om at søkjarar må dokumentere kunnskapar i form av innsendt arbeid og bestå opptaksprøve etter nærmare reglar fastsette av institusjonen:
+
+- Bachelorstudium i dokumentar- og TV-produksjon
+- Bachelorstudium i dokumentar- og TV-regi
+- Bachelorstudium i prosjekt- og produksjonsleiing for dokumentar og TV
+- Bachelorstudium i kulturprosjektleiing.
 
 (9) *Bachelorstudium i animasjon og digital kunst ved Høgskolen i Innlandet* har krav om at søkjarar må dokumentere kunnskapar i form av innsendt arbeid og bestå opptaksprøve etter nærmare reglar fastsette av institusjonen.
 
-(10) Søkjarar til desse studia og institusjonane må bestå opptaksprøve etter nærmare reglar fastsette ved institusjonen:Følgjande studium ved OsloMet – storbyuniversitetetFotojournalistutdanningProduktdesignutdanningBachelor i tolking i offentleg sektorBachelor i norsk tegnspråk.Animasjon ved Høgskulen i VoldaIndustridesign ved Arkitektur- og designhøgskolen i OsloStudium ved SteinerhøyskolenFølgjande studium ved Høyskolen KristianiaBachelor i Art DirectionBachelor i interiørarkitekturBachelor i Grafisk designBachelor i tekst og skribentBachelor i film og TVBachelor i lys for sceneBachelor i manusBachelor i lyddesign
+(10) Søkjarar til desse studia og institusjonane må bestå opptaksprøve etter nærmare reglar fastsette ved institusjonen:
+
+1. Følgjande studium ved OsloMet – storbyuniversitetet
+
+   - Fotojournalistutdanning
+   - Produktdesignutdanning
+   - Bachelor i tolking i offentleg sektor
+   - Bachelor i norsk tegnspråk.
+2. Animasjon ved Høgskulen i Volda
+3. Industridesign ved Arkitektur- og designhøgskolen i Oslo
+4. Studium ved Steinerhøyskolen
+5. Følgjande studium ved Høyskolen Kristiania
+
+   - Bachelor i Art Direction
+   - Bachelor i interiørarkitektur
+   - Bachelor i Grafisk design
+   - Bachelor i tekst og skribent
+   - Bachelor i film og TV
+   - Bachelor i lys for scene
+   - Bachelor i manus
+   - Bachelor i lyddesign
 
 (11) Høgskulekandidatutdanning for trafikklærar for tunge klassar ved Nord universitet har krav om at søkjarar oppfyller krava til førarkort for klassane BECEDE per 1. mars i opptaksåret, og dokumenterer 3 års yrkespraksis på heiltid per 1. mars i opptaksåret med køyretøy som har tillaten totalvekt over 16 tonn.
 
@@ -522,7 +670,11 @@ Ved berekning av karakterpoeng utanom kvoten for førstegongsvitnemål skal kara
 
 ### § 7-14. Rangering på grunnlag av opptaksprøve
 
-(1) Søkjarar til studium som etter [§ 4-4](forskrift/2017-01-06-13/§4-4), [§ 4-7](forskrift/2017-01-06-13/§4-7), [§ 4-9](forskrift/2017-01-06-13/§4-9) og [§ 4-10](forskrift/2017-01-06-13/§4-10) har opptaksprøve som spesielt opptakskrav, kan rangerast på éin av desse måtane:etter [§ 7-1](forskrift/2017-01-06-13/§7-1) til [§ 7-13](forskrift/2017-01-06-13/§7-13) åleinepå grunnlag av opptaksprøve åleinepå grunnlag av både [§ 7-1](forskrift/2017-01-06-13/§7-1) til [§ 7-13](forskrift/2017-01-06-13/§7-13) og opptaksprøve.
+(1) Søkjarar til studium som etter [§ 4-4](forskrift/2017-01-06-13/§4-4), [§ 4-7](forskrift/2017-01-06-13/§4-7), [§ 4-9](forskrift/2017-01-06-13/§4-9) og [§ 4-10](forskrift/2017-01-06-13/§4-10) har opptaksprøve som spesielt opptakskrav, kan rangerast på éin av desse måtane:
+
+- etter [§ 7-1](forskrift/2017-01-06-13/§7-1) til [§ 7-13](forskrift/2017-01-06-13/§7-13) åleine
+- på grunnlag av opptaksprøve åleine
+- på grunnlag av både [§ 7-1](forskrift/2017-01-06-13/§7-1) til [§ 7-13](forskrift/2017-01-06-13/§7-13) og opptaksprøve.
 
 (2) Departementet fastset kva alternativ som skal brukast for dei enkelte studia. Kvote for førstegongsvitnemål, jf. [§ 7-2](forskrift/2017-01-06-13/§7-2), gjeld med mindre departementet har fastsett unntak, jf. [§ 7-2](forskrift/2017-01-06-13/§7-2) femte ledd.
 
@@ -544,7 +696,12 @@ Ved opptak til spesielt tilrettelagd ingeniørutdanning, jf. [§ 3-3](forskrift/
 
 Departementet nemner opp klagenemnda.
 
-Klagenemnda skal ha sju medlemmer og vere slik samansett:ein leiar og ein nestleiar som skal vere juristar, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeikar leiar og nestleiar. Nestleiar er vara for leiar.to medlemmer og to numeriske varamedlemmer frå dei institusjonane forskrifta gjeld for.éin medlem med personleg varamedlem frå forvaltingsområdet for vidaregåande opplæring.to medlemmer og to numeriske varamedlemmer som representerer studentane. Medlemmene skal oppnemnast i samsvar med forslag frå representative studentorganisasjonar.
+Klagenemnda skal ha sju medlemmer og vere slik samansett:
+
+1. ein leiar og ein nestleiar som skal vere juristar, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeikar leiar og nestleiar. Nestleiar er vara for leiar.
+2. to medlemmer og to numeriske varamedlemmer frå dei institusjonane forskrifta gjeld for.
+3. éin medlem med personleg varamedlem frå forvaltingsområdet for vidaregåande opplæring.
+4. to medlemmer og to numeriske varamedlemmer som representerer studentane. Medlemmene skal oppnemnast i samsvar med forslag frå representative studentorganisasjonar.
 
 Medlemmene oppnemnast for inntil fire år, med unntak av studentrepresentantane som oppnemnast for inntil to år. Medlemmene kan gjenoppnemnast éin gong. Personar som har vore varamedlemmer kan oppnemnast i to periodar som fast medlem.
 
@@ -570,7 +727,15 @@ Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslut
 
 ### § 9-1. Generell studiekompetanse etter tidlegare ordningar
 
-(1) Generell studiekompetanse har søkjarar som i samsvar med Reform 94 har bestått 3-årig vidaregåande opplæring med grunnkurs, VKI og VKII, eller som har bestått fagopplæring med fagbrev/sveinebrev eller er 23/5-søkjarar, og som har desse faga, bestått med karakteren 2 eller betre, frå vidaregåande opplæring (Reform 94):norsk (14)engelsk (5)matematikk (5)naturfag (5)samfunnsfag (6), som omfattar nyare historie (4) og samfunnslære (2).Faga er oppgitt med gjennomsnittleg veketimetal i parentes.
+(1) Generell studiekompetanse har søkjarar som i samsvar med Reform 94 har bestått 3-årig vidaregåande opplæring med grunnkurs, VKI og VKII, eller som har bestått fagopplæring med fagbrev/sveinebrev eller er 23/5-søkjarar, og som har desse faga, bestått med karakteren 2 eller betre, frå vidaregåande opplæring (Reform 94):
+
+- norsk (14)
+- engelsk (5)
+- matematikk (5)
+- naturfag (5)
+- samfunnsfag (6), som omfattar nyare historie (4) og samfunnslære (2).
+
+Faga er oppgitt med gjennomsnittleg veketimetal i parentes.
 
 (2) For søkjarar som har lese norsk og samisk med høvesvis (11) + (11) veketimar, gjeld ikkje kravet om 14 veketimar norsk.
 
@@ -620,7 +785,9 @@ Direktoratet for høgare utdanning og kompetanse er behandlingsansvarleg for den
 
 ### § 11-1. Iverksetjing
 
-Forskrifta trer i kraft 15. januar 2017. Oppheva frå same dato blir[Forskrift 31. januar 2007 nr. 173](forskrift/2007-01-31-173) om opptak til høyere utdanning.
+Forskrifta trer i kraft 15. januar 2017. Oppheva frå same dato blir
+
+- [Forskrift 31. januar 2007 nr. 173](forskrift/2007-01-31-173) om opptak til høyere utdanning.
 
 ## Vedlegg I. Generell studiekompetanse for søkarar med utanlandsk utdanning – GSU-lista
 
@@ -866,7 +1033,12 @@ Lista er utforma og blir oppdatert av Direktoratet for høgare utdanning og komp
 
 For å gi søkarar med utanlandsk vidaregåande opplæring ein karakterpoengsum dei kan bruke i opptaket til grunnutdanningar, må ein rekne om karakterane frå den utanlandske karakterskalaen til den som er brukt i norsk vidaregåande opplæring (1–6, med 2 som lågaste ståkarakter). Til dette brukar ein omrekningstabellar, om mogleg. Departementet har overført mynde og ansvar for fastsetjing av dei fleste omrekningstabellar til Direktoratet for høgare utdanning og kompetanse ved tenesta Samordna opptak. Samordna opptak har òg ansvar for å halde ved like og gjere tabellane kjende.
 
-For å vareta likebehandling, blir omrekningstabellane laga etter eit felles metodesett så langt det er mogleg. Tabellane er baserte på følgande felles prinsipp:Karakterfordeling i utanlandsk vidaregåande utdanning skal vurderast så likt karakterfordeling i norsk vidaregåande opplæring som mogleg. Norsk vidaregåande opplæring er målestokken.Så langt det er mogleg, skal søkarar frå same utdanningssystem behandlast likt. Dette samsvarar med korleis søkarar med norsk vidaregåande opplæring blir poengrekna. Utdanningar som gir generell studiekompetanse er rekna for å vere samanliknbare i opptaket til grunnutdanningar.Det er karakterar frå vidaregåande opplæring som reknast om i omrekningstabellane, og ikkje andre variablar.Omrekningstabellane blir laga etter statistiske metodar. Statistikk over karakterfordeling frå utanlandsk vidaregåande blir samanlikna med karakterstatistikk frå norsk vidaregåande opplæring, når slik statistikk finst. Tabellane skal lagast ved å finne prosentilar i det utanlandske datagrunnlaget. Desse skal så samanliknast med motsvarande prosentilar i det norske talmaterialet, slik at skilnader i karakterfordelinga blir tatt høgde for i tabellane.
+For å vareta likebehandling, blir omrekningstabellane laga etter eit felles metodesett så langt det er mogleg. Tabellane er baserte på følgande felles prinsipp:
+
+- Karakterfordeling i utanlandsk vidaregåande utdanning skal vurderast så likt karakterfordeling i norsk vidaregåande opplæring som mogleg. Norsk vidaregåande opplæring er målestokken.
+- Så langt det er mogleg, skal søkarar frå same utdanningssystem behandlast likt. Dette samsvarar med korleis søkarar med norsk vidaregåande opplæring blir poengrekna. Utdanningar som gir generell studiekompetanse er rekna for å vere samanliknbare i opptaket til grunnutdanningar.
+- Det er karakterar frå vidaregåande opplæring som reknast om i omrekningstabellane, og ikkje andre variablar.
+- Omrekningstabellane blir laga etter statistiske metodar. Statistikk over karakterfordeling frå utanlandsk vidaregåande blir samanlikna med karakterstatistikk frå norsk vidaregåande opplæring, når slik statistikk finst. Tabellane skal lagast ved å finne prosentilar i det utanlandske datagrunnlaget. Desse skal så samanliknast med motsvarande prosentilar i det norske talmaterialet, slik at skilnader i karakterfordelinga blir tatt høgde for i tabellane.
 
 ### Offisiell karakterstatistikk
 

@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Fastsettelse av utleggstrekk
 
-Utleggstrekk kan fastsettes somet bestemt beløpen prosent av skyldnerens inntekt eller ytelseen kombinasjon av a og b.
+Utleggstrekk kan fastsettes som
+
+1. et bestemt beløp
+2. en prosent av skyldnerens inntekt eller ytelse
+3. en kombinasjon av a og b.
 
 Utleggstrekk kan fastsettes slik at trekkets størrelse endres på et senere tidspunkt som angis i beslutningen.
 
@@ -38,7 +42,10 @@ Ved beslutning om utleggstrekk i lott og part ved fiske eller fangstvirksomhet e
 
 ## § 3. Særregler om gjennomføring av utleggstrekk i lotter og parter
 
-For gjennomføring av utleggstrekk i lott og part ved fiske eller fangstvirksomhet gjelder følgende særregler:Som trekkpliktig regnes den som selv eller ved fullmektig utbetaler eller på annen måte gir oppgjør for lott eller part eller annen godtgjørelse eller ytelse som det skal foretas trekk i (høvedsmann, rederi osv.) Hvis et båtlag ikke har noen bestemt leder, har den som selger og får oppgjør for fangsten samme plikter som høvedsmann.Et pålegg om trekk gjelder så lenge lottakeren er medlem av båtlaget. Lottakeren skal regnes for å være medlem av laget frem til det er gått et halvt år etter avslutningen av siste tur lottakeren deltok i.
+For gjennomføring av utleggstrekk i lott og part ved fiske eller fangstvirksomhet gjelder følgende særregler:
+
+1. Som trekkpliktig regnes den som selv eller ved fullmektig utbetaler eller på annen måte gir oppgjør for lott eller part eller annen godtgjørelse eller ytelse som det skal foretas trekk i (høvedsmann, rederi osv.) Hvis et båtlag ikke har noen bestemt leder, har den som selger og får oppgjør for fangsten samme plikter som høvedsmann.
+2. Et pålegg om trekk gjelder så lenge lottakeren er medlem av båtlaget. Lottakeren skal regnes for å være medlem av laget frem til det er gått et halvt år etter avslutningen av siste tur lottakeren deltok i.
 
 ## § 4. Fordeling av trekkbeløp
 
@@ -46,19 +53,31 @@ For krav som nevnt i [dekningsloven § 2-8 første ledd bokstav a](lov/1984-06-0
 
 ## § 5. Fordeling av trekkbeløp – lovbestemt underholdsbidrag
 
-Dersom det er flere krav med prioritet etter [§ 2-8 første ledd bokstav a](lov/1984-06-08-59/§2-8/ledd/1/bokstav/a), fordeles trukket beløp slik:påløpt underholdsbidrag for siste 6 måneder, slik at kravet for nyeste periode dekkes førstsærtilskudd etter [barnelova § 67 andre ledd](lov/1981-04-08-7/§67/ledd/2)øvrige krav, slik at krav for eldste periode dekkes først.
+Dersom det er flere krav med prioritet etter [§ 2-8 første ledd bokstav a](lov/1984-06-08-59/§2-8/ledd/1/bokstav/a), fordeles trukket beløp slik:
+
+1. påløpt underholdsbidrag for siste 6 måneder, slik at kravet for nyeste periode dekkes først
+2. særtilskudd etter [barnelova § 67 andre ledd](lov/1981-04-08-7/§67/ledd/2)
+3. øvrige krav, slik at krav for eldste periode dekkes først.
 
 Har flere krav lik rett til dekning etter første ledd, fordeles trukket beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling.
 
 ## § 6. Fordeling av trekkbeløp – bøter
 
-Dersom det er flere krav med prioritet etter [§ 2-8 første ledd bokstav c](lov/1984-06-08-59/§2-8/ledd/1/bokstav/c), fordeles trukket beløp slik:bøtekrav yngre enn 5 årøvrige bøtekravomkostningerforsinkelsesrenter og gebyrer ved forsinket betaling.
+Dersom det er flere krav med prioritet etter [§ 2-8 første ledd bokstav c](lov/1984-06-08-59/§2-8/ledd/1/bokstav/c), fordeles trukket beløp slik:
+
+1. bøtekrav yngre enn 5 år
+2. øvrige bøtekrav
+3. omkostninger
+4. forsinkelsesrenter og gebyrer ved forsinket betaling.
 
 Har flere krav lik rett til dekning etter første ledd, dekkes kravet med det tidligste forfallstidspunktet først. For forsinkelsesrenter benyttes forfallstidspunktet for hovedstolen. Har flere krav lik forfallsdato, fordeles trukket beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling.
 
 ## § 7. Fordeling av trekkbeløp – skatte- og avgiftskrav mv.
 
-Dersom det er flere krav med prioritet etter [dekningsloven § 2-8 første ledd bokstav d](lov/1984-06-08-59/§2-8/ledd/1/bokstav/d), fordeles trukket beløp slik:hovedstolerforsinkelsesrenter og gebyrer ved forsinket betaling.
+Dersom det er flere krav med prioritet etter [dekningsloven § 2-8 første ledd bokstav d](lov/1984-06-08-59/§2-8/ledd/1/bokstav/d), fordeles trukket beløp slik:
+
+1. hovedstoler
+2. forsinkelsesrenter og gebyrer ved forsinket betaling.
 
 Har flere krav lik rett til dekning etter første ledd, dekkes kravet med det tidligste forfallstidspunktet først. For forsinkelsesrenter benyttes forfallstidspunktet for hovedstolen. Har flere krav lik forfallsdato, fordeles trukket beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling.
 

@@ -26,13 +26,19 @@ eu_basis: []
 
 ### § 1. Hvem forskriften gjelder
 
-Forskriften gjelder formilitært tilsattesivilt tilsatte i Forsvarsdepartementet og underliggende etater der det er fastsatt i forskriften.
+Forskriften gjelder for
+
+1. militært tilsatte
+2. sivilt tilsatte i Forsvarsdepartementet og underliggende etater der det er fastsatt i forskriften.
 
 [Kapittel](forskrift/2017-06-24-997/kap10) 10 om billighetserstatning gjelder også for tilsatte i politiet.
 
 ### § 2. Tilsetting
 
-Forsvarssjefen tilsetter offiserer, befal, grenaderer og konstabler (militært tilsatte) i grad og forsvarsgren i Forsvaret i følgende tilfelleretter fullført utdanning som kvalifiserer for slik tilsettingetter innstilling fra Forsvarssjefens råd.
+Forsvarssjefen tilsetter offiserer, befal, grenaderer og konstabler (militært tilsatte) i grad og forsvarsgren i Forsvaret i følgende tilfeller
+
+1. etter fullført utdanning som kvalifiserer for slik tilsetting
+2. etter innstilling fra Forsvarssjefens råd.
 
 Myndigheten til å tilsette militært tilsatte fast til de fyller 60 år, kan ikke delegeres.
 
@@ -62,15 +68,39 @@ Hvis to eller flere av medlemmene i Forsvarssjefens råd er uenige med flertalle
 
 Forsvaret inngår og forvalter kontrakter om beredskap og tjeneste i internasjonale operasjoner.
 
-Forsvaretmottar og behandler søknader om beredskap og tjeneste i internasjonale operasjonerholder oversikt over personer som har inngått kontrakt om beredskap og personer som gjør tjeneste i internasjonale operasjoner.
+Forsvaret
+
+1. mottar og behandler søknader om beredskap og tjeneste i internasjonale operasjoner
+2. holder oversikt over personer som har inngått kontrakt om beredskap og personer som gjør tjeneste i internasjonale operasjoner.
 
 ### § 7. Innholdet i kontraktene
 
-Kontrakt om beredskap og kontrakt om tjeneste i internasjonale operasjoner skal inneholde informasjon ompartenes identitetstilling, grad og avdelingtidspunktet kontrakten starter og opphørereventuelle prøvetidsbestemmelserlønn, tillegg og godtgjørelseferiehjemsendingoppsigelse, avskjed og suspensjonkravet til gyldig sikkerhetsklarering, jf. [§ 9](forskrift/2017-06-24-997/§9)kravet til god militær og sivil vandel, jf. [§ 10](forskrift/2017-06-24-997/§10)plikten til å opplyse om alle forhold av betydning for vandelen, jf. [§ 11](forskrift/2017-06-24-997/§11)kravet til helse, jf. [§ 12](forskrift/2017-06-24-997/§12)plikten til å møte i samsvar med beordringen og å gjennomføre forberedende trening og øving, jf. [§ 17](forskrift/2017-06-24-997/§17)at personen kan midlertidig beordres til en annen tjenestestilling, jf. [§ 21](forskrift/2017-06-24-997/§21)øvrige plikter som skal følges ved internasjonale operasjoner, jf. [§ 30](forskrift/2017-06-24-997/§30).
+Kontrakt om beredskap og kontrakt om tjeneste i internasjonale operasjoner skal inneholde informasjon om
+
+1. partenes identitet
+2. stilling, grad og avdeling
+3. tidspunktet kontrakten starter og opphører
+4. eventuelle prøvetidsbestemmelser
+5. lønn, tillegg og godtgjørelse
+6. ferie
+7. hjemsending
+8. oppsigelse, avskjed og suspensjon
+9. kravet til gyldig sikkerhetsklarering, jf. [§ 9](forskrift/2017-06-24-997/§9)
+10. kravet til god militær og sivil vandel, jf. [§ 10](forskrift/2017-06-24-997/§10)
+11. plikten til å opplyse om alle forhold av betydning for vandelen, jf. [§ 11](forskrift/2017-06-24-997/§11)
+12. kravet til helse, jf. [§ 12](forskrift/2017-06-24-997/§12)
+13. plikten til å møte i samsvar med beordringen og å gjennomføre forberedende trening og øving, jf. [§ 17](forskrift/2017-06-24-997/§17)
+14. at personen kan midlertidig beordres til en annen tjenestestilling, jf. [§ 21](forskrift/2017-06-24-997/§21)
+15. øvrige plikter som skal følges ved internasjonale operasjoner, jf. [§ 30](forskrift/2017-06-24-997/§30).
 
 Forsvaret fastsetter maler for kontraktene.
 
-En kontrakt skal også inneholde opplysninger om at Forsvaret kan avslutte kontrakten med umiddelbar virkning hvispersonen anses uskikket til tjeneste i internasjonale operasjoner av helsemessige, sikkerhetsmessige, disiplinære eller andre årsakerpersonen ikke lenger oppfyller kvalifikasjonskravene for å gjøre tjeneste i internasjonale operasjoner, jf. [kapittel 3](forskrift/2017-06-24-997/kap3)personen flytter til utlandetForsvarets operative eller tjenstlige behov endres.
+En kontrakt skal også inneholde opplysninger om at Forsvaret kan avslutte kontrakten med umiddelbar virkning hvis
+
+1. personen anses uskikket til tjeneste i internasjonale operasjoner av helsemessige, sikkerhetsmessige, disiplinære eller andre årsaker
+2. personen ikke lenger oppfyller kvalifikasjonskravene for å gjøre tjeneste i internasjonale operasjoner, jf. [kapittel 3](forskrift/2017-06-24-997/kap3)
+3. personen flytter til utlandet
+4. Forsvarets operative eller tjenstlige behov endres.
 
 ## Kapittel 3. Kvalifikasjonskrav for å gjøre tjeneste i internasjonale operasjoner
 
@@ -94,13 +124,22 @@ De som skal gjøre tjeneste i internasjonale operasjoner, skal ha god militær o
 
 ### § 11. Opplysningsplikt til Forsvaret
 
-De som skal gjøre tjeneste i internasjonale operasjoner, skal opplyse omalle forhold av betydning for vurdering av vandelen, blant annet ilagte straffedommer, forelegg, påtaleunnlatelser og refselserfremlagte kompetansebevis er varig eller midlertidig trukket tilbake, eller om det er grunnlag for å tro at kompetansebevisene kan bli trukket tilbakehan eller hun er plassert i en stilling uten å oppfylle kravene til stillingen.
+De som skal gjøre tjeneste i internasjonale operasjoner, skal opplyse om
+
+1. alle forhold av betydning for vurdering av vandelen, blant annet ilagte straffedommer, forelegg, påtaleunnlatelser og refselser
+2. fremlagte kompetansebevis er varig eller midlertidig trukket tilbake, eller om det er grunnlag for å tro at kompetansebevisene kan bli trukket tilbake
+3. han eller hun er plassert i en stilling uten å oppfylle kravene til stillingen.
 
 De som har beordringsplikt skal melde fra til Forsvaret hvis de er mistenkt eller siktet i en straffesak.
 
 ### § 12. Krav til helse
 
-De som skal gjøre tjeneste i internasjonale operasjoner, skalfylle ut egenerklæring om helsetilfredsstille kravene til fysisk, medisinsk og psykisk skikkethetgjennomgå HIV- og AIDS-testing, avlegge rutinemessige urin- og blodprøver og gjennomgå andre medisinske undersøkelser, kontroller og tester som Forsvaret finner nødvendigta de vaksinene som Forsvaret finner nødvendig, og følge Forsvarets øvrige forholdsregler mot smittsomme sykdommer.
+De som skal gjøre tjeneste i internasjonale operasjoner, skal
+
+1. fylle ut egenerklæring om helse
+2. tilfredsstille kravene til fysisk, medisinsk og psykisk skikkethet
+3. gjennomgå HIV- og AIDS-testing, avlegge rutinemessige urin- og blodprøver og gjennomgå andre medisinske undersøkelser, kontroller og tester som Forsvaret finner nødvendig
+4. ta de vaksinene som Forsvaret finner nødvendig, og følge Forsvarets øvrige forholdsregler mot smittsomme sykdommer.
 
 Undersøkelsene, kontrollene og testene etter bokstav c skal brukes til å bedømme tjenestedyktighet og andre forutsetninger for tjenesten og for å følge opp forbud mot bruk av alkohol, narkotiske stoffer og dopingmidler.
 
@@ -132,7 +171,10 @@ Sivile som er stridende skal ha uniform, gis militær grad for sivile og kan bev
 
 ### § 17. Plikter for den som beordres
 
-De som er beordret til tjeneste i internasjonale operasjoner, skalmøte i samsvar med beordringengjennomføre nødvendig forberedende trening og øving i Norge eller i utlandet.
+De som er beordret til tjeneste i internasjonale operasjoner, skal
+
+1. møte i samsvar med beordringen
+2. gjennomføre nødvendig forberedende trening og øving i Norge eller i utlandet.
 
 De som ikke kan møte i samsvar med beordringen, skal umiddelbart melde dette til den myndigheten som har beordret og dokumentere hvorfor det ikke er mulig å møte. Medisinske årsaker skal dokumenteres av en av Forsvarets leger eller annen lege utpekt av Forsvaret.
 
@@ -168,7 +210,12 @@ Den som beordres, må være kvalifisert for stillingen.
 
 ### § 22. Fritak ved tungtveiende helsemessige, velferdsmessige eller sosiale grunner
 
-Med tungtveiende helsemessige, velferdsmessige eller sosiale grunner menes atsøkerens helse eller personlige forhold gjør beordringen til en uforholdsmessig belastning for søkerensøkerens tilknytning til noen i den nærmeste familien gjør beordringen urimelig belastende for søkeren eller andre nærståendetidligere beordringer til tjeneste i internasjonale operasjoner vil gjøre beordringen til en ekstraordinær byrde for søkerendet foreligger andre tungtveiende grunner.
+Med tungtveiende helsemessige, velferdsmessige eller sosiale grunner menes at
+
+1. søkerens helse eller personlige forhold gjør beordringen til en uforholdsmessig belastning for søkeren
+2. søkerens tilknytning til noen i den nærmeste familien gjør beordringen urimelig belastende for søkeren eller andre nærstående
+3. tidligere beordringer til tjeneste i internasjonale operasjoner vil gjøre beordringen til en ekstraordinær byrde for søkeren
+4. det foreligger andre tungtveiende grunner.
 
 Fritak gjelder fra vedtakstidspunktet og kan gis for et bestemt tidsrom.
 
@@ -222,7 +269,10 @@ Forsvarets leger, helsepersonell og sivile skal opplyse om smittsomme sykdommer 
 
 ### § 30. Øvrige plikter for personer som gjør tjeneste i internasjonale operasjoner
 
-De som gjør tjeneste i internasjonale operasjoner, skalunngå handlinger som er egnet til å skade styrkens eller Norges omdømmerapportere om folkerettsstridige handlinger til nasjonal overordnet på tjenestestedet.
+De som gjør tjeneste i internasjonale operasjoner, skal
+
+1. unngå handlinger som er egnet til å skade styrkens eller Norges omdømme
+2. rapportere om folkerettsstridige handlinger til nasjonal overordnet på tjenestestedet.
 
 ### § 31. Plikt til å følge internasjonale forpliktelser
 
@@ -236,7 +286,12 @@ De som gjør tjeneste i internasjonale operasjoner er underlagt norsk straffe- o
 
 ### § 33. Grunnlag for hjemsending
 
-Den som tjenestegjør i en internasjonal operasjon kan sendes hjem hvis hun eller haner helsemessig uskikket til videre tjenesteikke bør oppholde seg i operasjonsområdet av sikkerhetsmessige hensynanses uskikket for videre tjeneste i operasjonen på grunn av disiplinære eller andre årsakerhar brutt bestemmelser fastsatt av norske myndigheter eller av internasjonale organisasjoner for den aktuelle operasjonen.
+Den som tjenestegjør i en internasjonal operasjon kan sendes hjem hvis hun eller han
+
+1. er helsemessig uskikket til videre tjeneste
+2. ikke bør oppholde seg i operasjonsområdet av sikkerhetsmessige hensyn
+3. anses uskikket for videre tjeneste i operasjonen på grunn av disiplinære eller andre årsaker
+4. har brutt bestemmelser fastsatt av norske myndigheter eller av internasjonale organisasjoner for den aktuelle operasjonen.
 
 ### § 34. Myndighet til å avgjøre hjemsending
 
@@ -296,7 +351,11 @@ Rettighetene etter denne bestemmelsen gjelder tilsvarende for pårørende til de
 
 ### § 41. Rett til annen nødvendig oppfølging
 
-For de som har rett til annen nødvendig oppfølging etter [forsvarsloven § 54](lov/2016-08-12-77/§54) tredje ledd, og som ikke lenger er i tjeneste, skal Forsvarettilby et fast kontaktpunktgi råd og veiledning om rettigheter og tilgjengelig hjelptilrettelegge for fellesaktiviteter.
+For de som har rett til annen nødvendig oppfølging etter [forsvarsloven § 54](lov/2016-08-12-77/§54) tredje ledd, og som ikke lenger er i tjeneste, skal Forsvaret
+
+1. tilby et fast kontaktpunkt
+2. gi råd og veiledning om rettigheter og tilgjengelig hjelp
+3. tilrettelegge for fellesaktiviteter.
 
 Retten til annen oppfølging fra Forsvaret kommer i tillegg til retten til oppfølging i helsevesenet.
 
@@ -350,7 +409,12 @@ Den som blir varig medisinsk invalid med 54 prosent eller mer, skal ytes erstatn
 
 ### § 47. Billighetserstatning til etterlatte
 
-Hvis det er fremmet krav om billighetserstatning, og erstatningen ikke er utbetalt før den erstatningsberettigede dør, skal erstatningen etter [§ 45](forskrift/2017-06-24-997/§45) og [§ 46](forskrift/2017-06-24-997/§46) utbetales til de etterlatte. Som etterlatte regnes den skadelidtesektefellesamboerbarn under 20 årandre som for en vesentlig del ble forsørget av avdøde.
+Hvis det er fremmet krav om billighetserstatning, og erstatningen ikke er utbetalt før den erstatningsberettigede dør, skal erstatningen etter [§ 45](forskrift/2017-06-24-997/§45) og [§ 46](forskrift/2017-06-24-997/§46) utbetales til de etterlatte. Som etterlatte regnes den skadelidtes
+
+1. ektefelle
+2. samboer
+3. barn under 20 år
+4. andre som for en vesentlig del ble forsørget av avdøde.
 
 Som samboer regnes den som har bodd sammen med den skadelidte i ekteskapslignede forhold på samme folkeregistrerte adresse de siste to årene før skadetidspunktet. Det gjelder likevel ikke et krav til felles botid hvis de på skadetidspunktet har eller venter felles barn og eier felles bolig.
 
@@ -386,17 +450,30 @@ Søksmål må reises innen fristen i [forsvarsloven § 56](lov/2016-08-12-77/§5
 
 Avholdsplikten etter [forsvarsloven § 62](lov/2016-08-12-77/§62) gjelder også for sivilt tilsatte i Forsvarsdepartementet og underliggende etater i stillinger med arbeidsoppgaver som gir tilsvarende grunn til å fastsette en avholdsplikt som for militært tilsatte i Forsvaret.
 
-I vurderingen av om stillingen gir grunn til å fastsette en avholdsplikt, skal det legges vekt på om den omfattersikkerhetsoppgaverhåndtering av våpen og annet farlig teknisk utstyroperative oppgavertjeneste i nær sammenheng med tjenestepliktigearbeid i konfliktområder, operative hovedkvarter eller lignende.
+I vurderingen av om stillingen gir grunn til å fastsette en avholdsplikt, skal det legges vekt på om den omfatter
+
+1. sikkerhetsoppgaver
+2. håndtering av våpen og annet farlig teknisk utstyr
+3. operative oppgaver
+4. tjeneste i nær sammenheng med tjenestepliktige
+5. arbeid i konfliktområder, operative hovedkvarter eller lignende.
 
 ### § 52. Pliktmessig avhold ved permisjon eller fritid
 
-Militært tilsatte og sivilt tilsatte i Forsvarsdepartementet og underliggende etater har pliktmessig avhold under permisjon og i fritiden hvis en av følgende situasjoner foreliggerendrede sikkerhetsmessige situasjoner som etter Forsvarets vurdering krever økt tilgjengelighet for hele eller deler av Forsvarethøyere beredskap for hele eller deler av Forsvaret.
+Militært tilsatte og sivilt tilsatte i Forsvarsdepartementet og underliggende etater har pliktmessig avhold under permisjon og i fritiden hvis en av følgende situasjoner foreligger
+
+1. endrede sikkerhetsmessige situasjoner som etter Forsvarets vurdering krever økt tilgjengelighet for hele eller deler av Forsvaret
+2. høyere beredskap for hele eller deler av Forsvaret.
 
 Pliktmessig avhold etter første ledd gjelder bare tilsatte i stillinger med arbeidsoppgaver omtalt i [§ 51](forskrift/2017-06-24-997/§51) andre ledd bokstav a til e.
 
 ### § 53. Gjennomføringen av avholdsplikten
 
-Militært tilsatte og sivilt tilsatte i Forsvarsdepartementet og underliggende etater er påvirket av alkohol etter [forsvarsloven § 62](lov/2016-08-12-77/§62) når ett av følgende vilkår er oppfylt:Alkoholkonsentrasjon i blodet er større enn 0,2 promille.Alkoholmengden i kroppen kan føre til en alkoholkonsentrasjon i blodet større enn 0,2 promille.Alkoholkonsentrasjonen i utåndingsluften er større enn 0,1 milligram per liter luft.
+Militært tilsatte og sivilt tilsatte i Forsvarsdepartementet og underliggende etater er påvirket av alkohol etter [forsvarsloven § 62](lov/2016-08-12-77/§62) når ett av følgende vilkår er oppfylt:
+
+1. Alkoholkonsentrasjon i blodet er større enn 0,2 promille.
+2. Alkoholmengden i kroppen kan føre til en alkoholkonsentrasjon i blodet større enn 0,2 promille.
+3. Alkoholkonsentrasjonen i utåndingsluften er større enn 0,1 milligram per liter luft.
 
 Militært tilsatte og sivilt tilsatte i Forsvarsdepartementet og underliggende etater skal straks informere arbeidsgiver om andres bruk av alkohol eller annet berusende eller bedøvende middel dersom bruken er egnet til å påvirke tjenesteutførelsen.
 
@@ -412,10 +489,83 @@ Avholdsplikten gjelder ikke for legemidler som inntas i samsvar med gyldig resep
 
 ### § 55. Ikrafttredelse
 
-Forskriften trer i kraft 1. juli 2017. Fra samme tidspunkt oppheves[forskrift 30. desember 2004 nr. 1906](forskrift/2004-12-30-1906) om pliktavhold[forskrift 2. desember 2004 nr. 1563](forskrift/2004-12-02-1563) om billighetserstatning for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner mv.[forskrift 30. juni 2010 nr. 1043](forskrift/2010-06-30-1043) om oppfølging og erstatning for personell som tjenestegjør eller har tjenestegjort i internasjonale operasjoner.
+Forskriften trer i kraft 1. juli 2017. Fra samme tidspunkt oppheves
+
+1. [forskrift 30. desember 2004 nr. 1906](forskrift/2004-12-30-1906) om pliktavhold
+2. [forskrift 2. desember 2004 nr. 1563](forskrift/2004-12-02-1563) om billighetserstatning for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner mv.
+3. [forskrift 30. juni 2010 nr. 1043](forskrift/2010-06-30-1043) om oppfølging og erstatning for personell som tjenestegjør eller har tjenestegjort i internasjonale operasjoner.
 
 ## Vedlegg A
 
-Sivile kan beordres til tjeneste i internasjonale operasjoner hvis de er tilsatt somlagerbetjentmaskinsjeflagerlederlagerkontrollørtransportlederlagersjefskipsførerinspektørverkstedledervedlikeholdsledervaktbetjentbrannkonstabelbrannmesteroverbrannmesterproviantforvaltergarnisonstannlegeoverlegefagsjeflufthavnbetjentnestvaktsjefvaktsjeflegebedriftssykepleierbedriftsoverlegespesialpsykologsjefspsykologsykepleierspesialutdannet sykepleieravdelingssykepleieroversykepleierhjelpepleierfysioterapeutbioingeniøravdelingsbioingeniørsjefsbioingeniørradiografkontorsjefunderdirektøravdelingsdirektørførstesekretærkonsulentførstekonsulentsekretærsjåføringeniøravdelingsingeniøroveringeniørsjefsingeniørteknikerlaborantforskerspesialarbeiderfagarbeiderarbeidsledermesterseksjonslederassisterende kjøkkensjefkjøkkensjefdriftsteknikerdriftslederradioledersenioringeniørkokksikkerhetsvaktvaktførstebetjentseniorkonsulentseniorrådgiverrådgiver.
+Sivile kan beordres til tjeneste i internasjonale operasjoner hvis de er tilsatt som
+
+1. lagerbetjent
+2. maskinsjef
+3. lagerleder
+4. lagerkontrollør
+5. transportleder
+6. lagersjef
+7. skipsfører
+8. inspektør
+9. verkstedleder
+10. vedlikeholdsleder
+11. vaktbetjent
+12. brannkonstabel
+13. brannmester
+14. overbrannmester
+15. proviantforvalter
+16. garnisonstannlege
+17. overlege
+18. fagsjef
+19. lufthavnbetjent
+20. nestvaktsjef
+21. vaktsjef
+22. lege
+23. bedriftssykepleier
+24. bedriftsoverlege
+25. spesialpsykolog
+26. sjefspsykolog
+27. sykepleier
+28. spesialutdannet sykepleier
+29. avdelingssykepleier
+30. oversykepleier
+31. hjelpepleier
+32. fysioterapeut
+33. bioingeniør
+34. avdelingsbioingeniør
+35. sjefsbioingeniør
+36. radiograf
+37. kontorsjef
+38. underdirektør
+39. avdelingsdirektør
+40. førstesekretær
+41. konsulent
+42. førstekonsulent
+43. sekretær
+44. sjåfør
+45. ingeniør
+46. avdelingsingeniør
+47. overingeniør
+48. sjefsingeniør
+49. tekniker
+50. laborant
+51. forsker
+52. spesialarbeider
+53. fagarbeider
+54. arbeidsleder
+55. mester
+56. seksjonsleder
+57. assisterende kjøkkensjef
+58. kjøkkensjef
+59. driftstekniker
+60. driftsleder
+61. radioleder
+62. senioringeniør
+63. kokk
+64. sikkerhetsvakt
+65. vaktførstebetjent
+66. seniorkonsulent
+67. seniorrådgiver
+68. rådgiver.
 
 > Endret ved forskrift [1 april 2022 nr. 516](forskrift/2022-04-01-516).

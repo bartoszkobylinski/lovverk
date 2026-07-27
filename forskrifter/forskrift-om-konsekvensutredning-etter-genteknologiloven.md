@@ -15,7 +15,7 @@ xml_hash: "e0ce28d056b24250ac37f7febc5547a8f9ec25b63b214f5ca67877577a7335b4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -80,11 +80,17 @@ Dersom godkjenningsmyndigheten finner at konsekvensutredningen ikke gir tilstrek
 
 Senest 90 dager etter at søknaden er mottatt, skal godkjenningsmyndigheten treffe vedtak etter [genteknologiloven § 10](lov/1993-04-02-38/§10) første ledd, jf. [§ 10](lov/1993-04-02-38/§10) annet ledd og kapittel 4 i denne forskrift.
 
-Ved beregningen av fristen i første ledd, medregnes ikke den tid godkjenningsmyndighetenavventer ytterligere opplysninger som den har bedt søkeren om å fremskaffe ellergjennomfører en offentlig høring, jf. [genteknologiloven § 13](lov/1993-04-02-38/§13). Høringen skal ikke forlenge fristen i første ledd med mer enn 30 dager.
+Ved beregningen av fristen i første ledd, medregnes ikke den tid godkjenningsmyndigheten
+
+- avventer ytterligere opplysninger som den har bedt søkeren om å fremskaffe eller
+- gjennomfører en offentlig høring, jf. [genteknologiloven § 13](lov/1993-04-02-38/§13). Høringen skal ikke forlenge fristen i første ledd med mer enn 30 dager.
 
 ### § 9. Frist for saksbehandling ved søknad om utsetting i form av omsetning i henhold til genteknologiloven § 9 annet ledd bokstav f og § 10
 
-Senest 90 dager etter at søknaden er mottatt, skal godkjenningsmyndigheten utarbeide en vurderingsrapport som sendes søkeren. Den skal samtidig:underrette søkeren om at søknaden om utsetting er sendt de øvrige landene i EØS for kommentarer med en anbefaling om godkjenning ellerunderrette søkeren om at søknaden avslås fordi utsettingen ikke oppfyller kravene i [genteknologiloven § 10](lov/1993-04-02-38/§10) første og annet ledd, jf. kapittel 4 i denne forskrift.
+Senest 90 dager etter at søknaden er mottatt, skal godkjenningsmyndigheten utarbeide en vurderingsrapport som sendes søkeren. Den skal samtidig:
+
+1. underrette søkeren om at søknaden om utsetting er sendt de øvrige landene i EØS for kommentarer med en anbefaling om godkjenning eller
+2. underrette søkeren om at søknaden avslås fordi utsettingen ikke oppfyller kravene i [genteknologiloven § 10](lov/1993-04-02-38/§10) første og annet ledd, jf. kapittel 4 i denne forskrift.
 
 Ved beregningen av fristen i første ledd, medregnes ikke den tid godkjenningsmyndigheten avventer ytterligere opplysninger som den har bedt søkeren om å fremskaffe.
 
@@ -128,7 +134,15 @@ Konsekvensutredningen skal inneholde en kopi av gjeldende godkjenning, en rappor
 
 ### § 15. Konsekvensutredning ved søknad om utsetting iht. genteknologiloven § 9 annet ledd bokstav a til e og § 10
 
-Konsekvensutredningen skal i nødvendig utstrekning og så langt det er mulig gi en beskrivelse av det tiltak det søkes godkjenning for og redegjøre for risikoen for og omfanget av de miljø- og folke- og dyrehelsemessige virkninger som kan oppstå på grunn av tiltaket og ved utilsiktet spredning fra tiltaket. Beskrivelsen skal inneholde de opplysninger som fremgår av vedlegg 1 som er nødvendige for å foreta en konsekvensutredning av tiltaket det søkes godkjenning for, herunder særlig;generell informasjon, herunder informasjon om personell og opplæringopplysninger om den eller de genmodifiserte organismer det søkes godkjenning foropplysninger om forholdene ved utsettingen og ved det potensielle mottakermiljøetopplysninger om vekselvirkningen mellom den eller de genmodifiserte organismer det søkes godkjenning for og miljøeten overvåkingsplan i samsvar med de relevante deler av vedlegg 1, med henblikk på å kartlegge virkninger av den eller de genmodifiserte organismer det søkes godkjenning for på menneskers og dyrs helse og miljøetopplysninger om kontroll, utbedringsmetoder, behandling av avfall og beredskapsplaner, oget sammendrag av den tekniske dokumentasjonen.
+Konsekvensutredningen skal i nødvendig utstrekning og så langt det er mulig gi en beskrivelse av det tiltak det søkes godkjenning for og redegjøre for risikoen for og omfanget av de miljø- og folke- og dyrehelsemessige virkninger som kan oppstå på grunn av tiltaket og ved utilsiktet spredning fra tiltaket. Beskrivelsen skal inneholde de opplysninger som fremgår av vedlegg 1 som er nødvendige for å foreta en konsekvensutredning av tiltaket det søkes godkjenning for, herunder særlig;
+
+1. generell informasjon, herunder informasjon om personell og opplæring
+2. opplysninger om den eller de genmodifiserte organismer det søkes godkjenning for
+3. opplysninger om forholdene ved utsettingen og ved det potensielle mottakermiljøet
+4. opplysninger om vekselvirkningen mellom den eller de genmodifiserte organismer det søkes godkjenning for og miljøet
+5. en overvåkingsplan i samsvar med de relevante deler av vedlegg 1, med henblikk på å kartlegge virkninger av den eller de genmodifiserte organismer det søkes godkjenning for på menneskers og dyrs helse og miljøet
+6. opplysninger om kontroll, utbedringsmetoder, behandling av avfall og beredskapsplaner, og
+7. et sammendrag av den tekniske dokumentasjonen.
 
 Konsekvensutredningen skal også omfatte en miljørisikovurdering i samsvar med vedlegg 2, eventuelle bibliografiske henvisninger og informasjon om de metoder for risikovurdering som er benyttet.
 
@@ -148,7 +162,11 @@ Konsekvensutredningen skal videre angi planene for etterbehandling av produksjon
 
 ### § 17. Andre følger av framstilling og bruk av den genmodifiserte organisme
 
-Konsekvensutredningen skal i nødvendig utstrekning og så langt det er mulig i samsvar med vedlegg 4 redegjøre for andre følger av tiltaket enn de miljø- og folke- og dyrehelsemessige virkninger, herunder:tiltakets positive eller negative virkning for bærekraftig utvikling,etiske aspekter som kan reises ved bruk av den genmodifiserte organisme ogeventuelle samfunnsmessige fordeler eller ulemper ved bruk av de genmodifiserte organismer.
+Konsekvensutredningen skal i nødvendig utstrekning og så langt det er mulig i samsvar med vedlegg 4 redegjøre for andre følger av tiltaket enn de miljø- og folke- og dyrehelsemessige virkninger, herunder:
+
+1. tiltakets positive eller negative virkning for bærekraftig utvikling,
+2. etiske aspekter som kan reises ved bruk av den genmodifiserte organisme og
+3. eventuelle samfunnsmessige fordeler eller ulemper ved bruk av de genmodifiserte organismer.
 
 ## Kapittel 5. Vilkår for, varigheten av og innholdet i vedtak om godkjenning
 
@@ -162,7 +180,14 @@ Dersom det søkes om fornyelse av en godkjenning, kan omsetning fortsette i over
 
 ### § 19. Innholdet i vedtak om godkjenning etter genteknologiloven § 9 annet ledd bokstav f
 
-Vedtak om godkjenning skal uttrykkelig angi;hva tillatelsen omfatter, herunder hvilke genmodifiserte organismer som skal omsettes som eller i produkter, og deres unike identifikasjonskoder,tillatelsens gyldighetsperiode,vilkårene for omsetning av produktet, herunder særskilte vilkår for bruk, håndtering og innpakning av produkter som består av eller inneholder genmodifiserte organismer, og vilkårene for vern av særskilte økosystemer/miljøer og/eller geografiske områder,at søker skal sørge for at godkjenningsmyndigheten får tilgang til kontrollprøver dersom den anmoder om det,krav til merking i samsvar med kravene fastsatt i [forskrift 2. september 2005 nr. 1009](forskrift/2005-09-02-1009) om merking, transport, import og eksport av genmodifiserte organismer og vedlegg 1 del C eller, for genmodifiserte organismer som skal brukes som eller i næringsmidler eller fôrvarer, i samsvar med kravene i [forskrift 21. desember 1993 nr. 1385](forskrift/1993-12-21-1385) om merking mv av næringsmidler eller [forskrift 7. november 2002 nr. 1290](forskrift/2002-11-07-1290) om fôrvarer.overvåkingskrav i samsvar med vedlegg 3, herunder forpliktelser til å rapportere, overvåkingsplanens tidsperiode og når det er hensiktsmessig, de forpliktelser som påhviler personer som selger eller bruker produktet, herunder, når det gjelder dyrkede genmodifiserte organismer, om det informasjonsnivå som synes passende på det sted hvor de befinner seg.
+Vedtak om godkjenning skal uttrykkelig angi;
+
+1. hva tillatelsen omfatter, herunder hvilke genmodifiserte organismer som skal omsettes som eller i produkter, og deres unike identifikasjonskoder,
+2. tillatelsens gyldighetsperiode,
+3. vilkårene for omsetning av produktet, herunder særskilte vilkår for bruk, håndtering og innpakning av produkter som består av eller inneholder genmodifiserte organismer, og vilkårene for vern av særskilte økosystemer/miljøer og/eller geografiske områder,
+4. at søker skal sørge for at godkjenningsmyndigheten får tilgang til kontrollprøver dersom den anmoder om det,
+5. krav til merking i samsvar med kravene fastsatt i [forskrift 2. september 2005 nr. 1009](forskrift/2005-09-02-1009) om merking, transport, import og eksport av genmodifiserte organismer og vedlegg 1 del C eller, for genmodifiserte organismer som skal brukes som eller i næringsmidler eller fôrvarer, i samsvar med kravene i [forskrift 21. desember 1993 nr. 1385](forskrift/1993-12-21-1385) om merking mv av næringsmidler eller [forskrift 7. november 2002 nr. 1290](forskrift/2002-11-07-1290) om fôrvarer.
+6. overvåkingskrav i samsvar med vedlegg 3, herunder forpliktelser til å rapportere, overvåkingsplanens tidsperiode og når det er hensiktsmessig, de forpliktelser som påhviler personer som selger eller bruker produktet, herunder, når det gjelder dyrkede genmodifiserte organismer, om det informasjonsnivå som synes passende på det sted hvor de befinner seg.
 
 ## Kapittel 6. Ikrafttredelse
 
@@ -184,7 +209,10 @@ Det stilles ikke krav om å legge fram et bestemt delsett av opplysninger angitt
 
 Detaljnivået for hvert delsett med opplysninger kan også variere avhengig av arten og omfanget av den foreslåtte utsettingen.
 
-For hvert påkrevde delsett av opplysninger skal følgende framlegges:Sammendragene og resultatene av undersøkelsene nevnt i søknaden, herunder en redegjørelse for deres betydning for miljørisikovurderingen der det er relevant.For søknader omfattet av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14): vedlegg med detaljerte opplysninger om undersøkelsene, herunder en beskrivelse av metodene og materialene som er brukt, eller en henvisning til standardiserte eller internasjonalt anerkjente metoder og navnet på organet eller organene som har ansvaret for gjennomføringen av undersøkelsene.
+For hvert påkrevde delsett av opplysninger skal følgende framlegges:
+
+1. Sammendragene og resultatene av undersøkelsene nevnt i søknaden, herunder en redegjørelse for deres betydning for miljørisikovurderingen der det er relevant.
+2. For søknader omfattet av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14): vedlegg med detaljerte opplysninger om undersøkelsene, herunder en beskrivelse av metodene og materialene som er brukt, eller en henvisning til standardiserte eller internasjonalt anerkjente metoder og navnet på organet eller organene som har ansvaret for gjennomføringen av undersøkelsene.
 
 Framtidig utvikling innen genmodifisering kan gjøre det nødvendig å tilpasse dette vedlegg til den tekniske utviklingen eller å utarbeide veiledende merknader som skal utfylle vedlegget. En ytterligere differensiering av opplysningskrav for ulike typer genmodifiserte organismer, for eksempel flerårige planter og trær, encellede organismer, fisk eller insekter, eller for bestemte bruksområder for genmodifiserte organismer, for eksempel utvikling av vaksiner, kan være mulig når det i EØS er innhentet tilstrekkelig erfaring med søknader for utsetting av visse genmodifiserte organismer.
 
@@ -210,8 +238,20 @@ A. *Donor-, mottaker- eller (hvis relevant) foreldreorganismen(e)s egenskaper:*
 8. Beskrivelse av organismens geografiske utbredelse og naturlige habitat, herunder opplysninger om naturlige predatorer, byttedyr, parasitter, konkurrenter, symbionter og verter.
 9. Organismer som man vet kan overføre genmateriale under naturlige betingelser.
 10. Verifikasjon av organismenes genetiske stabilitet og faktorer som påvirker denne.
-11. Patologiske, økologiske og fysiologiske egenskaper:Fareklassifisering i henhold til gjeldende fellesskapsregler om vern av menneskers helse og/eller miljøet,generasjonstid i naturlige økosystemer, kjønnet og ukjønnet formeringssyklus,opplysninger om overlevelse, herunder årstidsrytme og evne til å danne overlevelsesstrukturer,sykdomsfremkallende evne: Smittsomhet, giftighet, virulens, allergiframkallende evne, bærere (vektorer) for patogener, mulige vektorer, vertsområde, herunder ikke-målorganismer; mulig aktivering av latente virus (provirus); evne til å kolonisere andre organismer,antibiotikaresistens og mulig bruk av disse antibiotika hos mennesker og domestiserte organismer for forebyggende og terapeutiske formål,medvirkning i miljøprosesser: Primærproduksjon, omsetning av næringsstoffer, nedbrytning av organiske stoffer, respirasjon osv.
-12. Naturlig forekommende vektorers egenskaper:Sekvens,mobiliseringsfrekvens,spesifisitet,forekomst av gener som gir resistens.
+11. Patologiske, økologiske og fysiologiske egenskaper:
+
+    1. Fareklassifisering i henhold til gjeldende fellesskapsregler om vern av menneskers helse og/eller miljøet,
+    2. generasjonstid i naturlige økosystemer, kjønnet og ukjønnet formeringssyklus,
+    3. opplysninger om overlevelse, herunder årstidsrytme og evne til å danne overlevelsesstrukturer,
+    4. sykdomsfremkallende evne: Smittsomhet, giftighet, virulens, allergiframkallende evne, bærere (vektorer) for patogener, mulige vektorer, vertsområde, herunder ikke-målorganismer; mulig aktivering av latente virus (provirus); evne til å kolonisere andre organismer,
+    5. antibiotikaresistens og mulig bruk av disse antibiotika hos mennesker og domestiserte organismer for forebyggende og terapeutiske formål,
+    6. medvirkning i miljøprosesser: Primærproduksjon, omsetning av næringsstoffer, nedbrytning av organiske stoffer, respirasjon osv.
+12. Naturlig forekommende vektorers egenskaper:
+
+    1. Sekvens,
+    2. mobiliseringsfrekvens,
+    3. spesifisitet,
+    4. forekomst av gener som gir resistens.
 13. Beskrivelse av tidligere genmodifikasjoner.
 
 B. *Vektorens egenskaper*
@@ -223,8 +263,42 @@ B. *Vektorens egenskaper*
 
 C. *Den modifiserte organismens egenskaper*
 
-1. Opplysninger om genmodifiseringen:Metoder som anvendes ved modifikasjonen,metoder som anvendes ved oppbygging av geninsertene og innføring av dem i mottakeren eller til å fjerne en sekvens,beskrivelse av geninsertets og/eller vektorens oppbygning,geninsertets renhet med hensyn til enhver ukjent sekvens samt opplysninger om i hvilken utstrekning den innførte sekvensen er begrenset til det DNA som kreves for å utføre den planlagte funksjonen,utvelgelsesmetoder og -kriterier,sekvens, funksjonell identitet og plassering av det eller de aktuelle endrede/innførte/fjernede nukleinsyresegmenter, særlig opplysninger om enhver kjent skadelig sekvens.
-2. Opplysninger om den endelige genmodifiserte organismen:Beskrivelse av genetisk(e) egenskap(er) eller fenotypiske egenskaper, særlig av nye egenskaper og egenskaper som kan være uttrykt eller ikke lenger være uttrykt,struktur i og mengde av enhver vektor- og/eller donornukleinsyre som er igjen i den endelige oppbygningen av den modifiserte organismen,organismens stabilitet når det gjelder genetiske egenskaper,uttrykksrate og -nivå for det nye genmaterialet. Målemetoder og deres følsomhet,de uttrykte proteinenes aktivitet,beskrivelse av identifiserings- og påvisningsteknikker, herunder identifiserings- og påvisningsteknikker for den innsatte sekvensen og vektoren,påvisnings- og identifiseringsteknikkenes følsomhet, pålitelighet (kvantitativt) og spesifisitet,beskrivelse av tidligere utsetting eller bruk av den genmodifiserte organismen,vurderinger med hensyn til menneskers og dyrs helse såvel som plantehelse:giftige eller allergiframkallende virkninger av de genmodifiserte organismene og/eller deres stoffskifteprodukter,sammenligning av den modifiserte organismens og donor-, mottaker- eller (eventuelt) foreldreorganismens sykdomsfremkallende evne,koloniseringsevne,organismens sykdomsfremkallende evne hos mennesker som ikke lider av svekket immunforsvar:fremkalte sykdommer og sykdomsfremkallende mekanismer, herunder spredningsmåte og virulens,overføringsevne,smittsom dose,vertsområde, mulighet for endring,mulighet for overlevelse utenfor menneskelig vert,forekomst av vektorer eller spredningsmidler,biologisk stabilitet,mønstre for antibiotikaresistens,allergiframkallende evne,tilgang til egnet sykdomsbehandling.andre farer forbundet med produktene.
+1. Opplysninger om genmodifiseringen:
+
+   1. Metoder som anvendes ved modifikasjonen,
+   2. metoder som anvendes ved oppbygging av geninsertene og innføring av dem i mottakeren eller til å fjerne en sekvens,
+   3. beskrivelse av geninsertets og/eller vektorens oppbygning,
+   4. geninsertets renhet med hensyn til enhver ukjent sekvens samt opplysninger om i hvilken utstrekning den innførte sekvensen er begrenset til det DNA som kreves for å utføre den planlagte funksjonen,
+   5. utvelgelsesmetoder og -kriterier,
+   6. sekvens, funksjonell identitet og plassering av det eller de aktuelle endrede/innførte/fjernede nukleinsyresegmenter, særlig opplysninger om enhver kjent skadelig sekvens.
+2. Opplysninger om den endelige genmodifiserte organismen:
+
+   1. Beskrivelse av genetisk(e) egenskap(er) eller fenotypiske egenskaper, særlig av nye egenskaper og egenskaper som kan være uttrykt eller ikke lenger være uttrykt,
+   2. struktur i og mengde av enhver vektor- og/eller donornukleinsyre som er igjen i den endelige oppbygningen av den modifiserte organismen,
+   3. organismens stabilitet når det gjelder genetiske egenskaper,
+   4. uttrykksrate og -nivå for det nye genmaterialet. Målemetoder og deres følsomhet,
+   5. de uttrykte proteinenes aktivitet,
+   6. beskrivelse av identifiserings- og påvisningsteknikker, herunder identifiserings- og påvisningsteknikker for den innsatte sekvensen og vektoren,
+   7. påvisnings- og identifiseringsteknikkenes følsomhet, pålitelighet (kvantitativt) og spesifisitet,
+   8. beskrivelse av tidligere utsetting eller bruk av den genmodifiserte organismen,
+   9. vurderinger med hensyn til menneskers og dyrs helse såvel som plantehelse:
+
+      1. giftige eller allergiframkallende virkninger av de genmodifiserte organismene og/eller deres stoffskifteprodukter,
+      2. sammenligning av den modifiserte organismens og donor-, mottaker- eller (eventuelt) foreldreorganismens sykdomsfremkallende evne,
+      3. koloniseringsevne,
+      4. organismens sykdomsfremkallende evne hos mennesker som ikke lider av svekket immunforsvar:
+
+         - fremkalte sykdommer og sykdomsfremkallende mekanismer, herunder spredningsmåte og virulens,
+         - overføringsevne,
+         - smittsom dose,
+         - vertsområde, mulighet for endring,
+         - mulighet for overlevelse utenfor menneskelig vert,
+         - forekomst av vektorer eller spredningsmidler,
+         - biologisk stabilitet,
+         - mønstre for antibiotikaresistens,
+         - allergiframkallende evne,
+         - tilgang til egnet sykdomsbehandling.
+      5. andre farer forbundet med produktene.
 
 III *Opplysninger om utsettingsforhold og mottakermiljø*
 
@@ -266,7 +340,10 @@ B. *Vekselvirkninger med miljøet*
 
 1. De genmodifiserte organismenes antatte habitat.
 2. Undersøkelser av de genmodifiserte organismenes atferd og egenskaper samt deres økologiske betydning utført i simulert naturlige miljøer som mikrokosmos, vekstkamre eller drivhus.
-3. Genetisk overføringsevne:Overføring, etter utsetting, av genmateriale fra de genmodifiserte organismene til organismer i de berørte økosystemer,overføring, etter utsetting, av genmateriale fra naturlig forekommende organismer til de genmodifiserte organismene.
+3. Genetisk overføringsevne:
+
+   1. Overføring, etter utsetting, av genmateriale fra de genmodifiserte organismene til organismer i de berørte økosystemer,
+   2. overføring, etter utsetting, av genmateriale fra naturlig forekommende organismer til de genmodifiserte organismene.
 4. Sannsynlighet for at seleksjon etter utsetting kan føre til uttrykk av uventede eller uønskede egenskaper i den modifiserte organismen.
 5. Tiltak som benyttes til å sikre og verifisere genetisk stabilitet. Beskrivelse av genetiske egenskaper som kan forhindre eller redusere til et minimum spredning av genmateriale. Metoder for verifisering av genetisk stabilitet.
 6. Biologiske spredningsveier, kjente eller mulige former for vekselvirkning med den spredende agensen, herunder innånding, inntak, overflatekontakt, nedgraving osv.
@@ -319,15 +396,92 @@ A. *Generelle opplysninger*
 1. Søkerens navn og adresse (foretak eller institusjon).
 2. Den eller de ansvarlige forskernes navn, kvalifikasjoner og erfaring.
 3. Prosjektets tittel.
-4. Opplysninger om utsettingen.Formålet med utsettingen.Planlagt(e) dato(er) og utsettingens varighet.Metode for utsetting av GMHP.Metode for å forberede og forvalte utsettingsstedet før, under og etter utsetting, herunder dyrkingspraksis og innhøstingsmetode.Omtrentlig antall planter (eller planter per m2).
-5. Opplysninger om utsettingsstedet.Utsettingsstedet eller -stedenes beliggenhet og størrelse.Beskrivelse av utsettingsstedets økosystem, herunder klima, flora og fauna.Forekomst av kryssbare viltvoksende beslektede arter eller dyrkede plantearter.Nærhet til offisielt anerkjente biotoper eller verneområder som kan bli berørt.
+4. Opplysninger om utsettingen.
+
+   1. Formålet med utsettingen.
+   2. Planlagt(e) dato(er) og utsettingens varighet.
+   3. Metode for utsetting av GMHP.
+   4. Metode for å forberede og forvalte utsettingsstedet før, under og etter utsetting, herunder dyrkingspraksis og innhøstingsmetode.
+   5. Omtrentlig antall planter (eller planter per m2).
+5. Opplysninger om utsettingsstedet.
+
+   1. Utsettingsstedet eller -stedenes beliggenhet og størrelse.
+   2. Beskrivelse av utsettingsstedets økosystem, herunder klima, flora og fauna.
+   3. Forekomst av kryssbare viltvoksende beslektede arter eller dyrkede plantearter.
+   4. Nærhet til offisielt anerkjente biotoper eller verneområder som kan bli berørt.
 
 B. *Vitenskapelige opplysninger*
 
-1. Opplysninger om mottakerplanten eller, der det er relevant, om foreldreplantene.Fullstendig navn:Familie.Slekt.Art.Underart.Kultivar eller foredlingslinje.Vanlig navn.Geografisk utbredelse og dyrking av planten i EØS.Opplysninger om reproduksjon:Reproduksjonsmåter(r).Eventuelle særlige faktorer som påvirker reproduksjonen.Generasjonstid.Krysningsevne med andre dyrkede eller viltlevende plantearter, herunder kryssbare arters utbredelse i Europa.Overlevelsesevne:Evne til å danne strukturer som fremmer overlevelse eller dvale.Eventuelle særlige faktorer som påvirker overlevelsesevnen.Spredning:Spredningsmåter og -omfang.Eventuelle særlige faktorer som påvirker spredningen.Dersom en planteart vanligvis ikke dyrkes i EØS, en beskrivelse av plantens habitat, herunder opplysninger om naturlige predatorer, parasitter, konkurrenter og symbionter.Potensielle vekselvirkninger som er relevante for GMHP-en, mellom planten og organismer i økosystemet der den vanligvis dyrkes, eller andre steder, herunder opplysninger om toksiske virkninger på mennesker, dyr og andre organismer.
-2. Molekylær beskrivelse.Opplysninger om genmodifiseringen.Beskrivelse av metodene som er anvendt ved genmodifiseringen.Den anvendte vektorens art og opprinnelse.Opprinnelsen til nukleinsyren(e) som er anvendt til transformasjon, samt størrelse på og planlagt funksjon for hvert enkelt fragment av området som er ment å settes inn.Opplysninger om GMHP-enGenerell beskrivelse av trekk og egenskaper som er innført eller modifisert.Opplysninger om sekvensene som faktisk er satt inn eller fjernet:Størrelse på og antall kopier av alle innsatte sekvenser og metodene for karakterisering av dem.Størrelsen på og funksjonen til eventuelle fjernede områder.De innsatte sekvensenes subcellulære plassering i plantecellene (integrert i cellekjernen, kloroplaster eller mitokondrier eller bevart i en ikke-integrert form) og metoder for bestemmelse av dem.Deler av planten der den innsatte sekvensen uttrykkes.Den innsatte sekvensens genetiske stabilitet og GMHP-ens fenotypiske stabilitet.Konklusjoner fra den molekylære beskrivelsen.
-3. Opplysninger om spesifikke risikoområder.Eventuelle endringer i GMHP-ens persistens eller spredningsevne og dens evne til å overføre genmateriale til kryssbare slektninger, og skadevirkningene på miljøet som følge av dette.Eventuelle endringer i GMHP-ens evne til å overføre genmateriale til mikroorganismer, og skadevirkningene på miljøet som følge av dette.Mekanismen for vekselvirkning mellom GMHP-en og organismer i målgruppen (dersom det er relevant), og skadevirkningene på miljøet som følge av dette.Potensielle endringer i vekselvirkningene mellom GMHP-en og organismer utenfor målgruppen som følge av genmodifiseringen, og skadevirkningene på miljøet som følge av dette.Potensielle endringer i landbrukspraksis og håndtering av GMHP-en som følge av genmodifiseringen, og skadevirkningene på miljøet som følge av dette.Potensielle vekselvirkninger med det abiotiske miljøet, og skadevirkningene på miljøet som følge av dette.Opplysninger om eventuelle toksiske, allergifremkallende eller andre skadelige virkninger på menneskers og dyrs helse som følge av genmodifiseringen.Konklusjoner om spesifikke risikoområder.
-4. Opplysninger om planer for kontroll, overvåking, behandling etter utsetting og avfallshåndtering.Ethvert tiltak som treffes, herundergeografisk og tidsmessig isolering fra kryssbare plantearter, både viltlevende slektninger og ugresslektninger og avlinger,eventuelle tiltak for å minimere eller forhindre spredning av GMHP-ens reproduksjonsorganer.Beskrivelse av metoder for behandling av stedet etter utsetting.Beskrivelse av metoder for behandling av det genmodifiserte plantematerialet etter utsetting, herunder avfall.Beskrivelse av overvåkingsplaner og -teknikker.Beskrivelse av eventuelle beredskapsplaner.Beskrivelse av metoder og framgangsmåter for åunngå eller minimere spredning av GMHP-er utenfor utsettingsstedet.Beskytte stedet mot inntrenging av uvedkommende personer.Hindre andre organismer i komme inn på stedet eller redusere slik inntrenging til et minimum.
+1. Opplysninger om mottakerplanten eller, der det er relevant, om foreldreplantene.
+
+   1. Fullstendig navn:
+
+      1. Familie.
+      2. Slekt.
+      3. Art.
+      4. Underart.
+      5. Kultivar eller foredlingslinje.
+      6. Vanlig navn.
+   2. Geografisk utbredelse og dyrking av planten i EØS.
+   3. Opplysninger om reproduksjon:
+
+      1. Reproduksjonsmåter(r).
+      2. Eventuelle særlige faktorer som påvirker reproduksjonen.
+      3. Generasjonstid.
+   4. Krysningsevne med andre dyrkede eller viltlevende plantearter, herunder kryssbare arters utbredelse i Europa.
+   5. Overlevelsesevne:
+
+      1. Evne til å danne strukturer som fremmer overlevelse eller dvale.
+      2. Eventuelle særlige faktorer som påvirker overlevelsesevnen.
+   6. Spredning:
+
+      1. Spredningsmåter og -omfang.
+      2. Eventuelle særlige faktorer som påvirker spredningen.
+   7. Dersom en planteart vanligvis ikke dyrkes i EØS, en beskrivelse av plantens habitat, herunder opplysninger om naturlige predatorer, parasitter, konkurrenter og symbionter.
+   8. Potensielle vekselvirkninger som er relevante for GMHP-en, mellom planten og organismer i økosystemet der den vanligvis dyrkes, eller andre steder, herunder opplysninger om toksiske virkninger på mennesker, dyr og andre organismer.
+2. Molekylær beskrivelse.
+
+   1. Opplysninger om genmodifiseringen.
+
+      1. Beskrivelse av metodene som er anvendt ved genmodifiseringen.
+      2. Den anvendte vektorens art og opprinnelse.
+      3. Opprinnelsen til nukleinsyren(e) som er anvendt til transformasjon, samt størrelse på og planlagt funksjon for hvert enkelt fragment av området som er ment å settes inn.
+   2. Opplysninger om GMHP-en
+
+      1. Generell beskrivelse av trekk og egenskaper som er innført eller modifisert.
+      2. Opplysninger om sekvensene som faktisk er satt inn eller fjernet:
+
+         - Størrelse på og antall kopier av alle innsatte sekvenser og metodene for karakterisering av dem.
+         - Størrelsen på og funksjonen til eventuelle fjernede områder.
+         - De innsatte sekvensenes subcellulære plassering i plantecellene (integrert i cellekjernen, kloroplaster eller mitokondrier eller bevart i en ikke-integrert form) og metoder for bestemmelse av dem.
+      3. Deler av planten der den innsatte sekvensen uttrykkes.
+      4. Den innsatte sekvensens genetiske stabilitet og GMHP-ens fenotypiske stabilitet.
+   3. Konklusjoner fra den molekylære beskrivelsen.
+3. Opplysninger om spesifikke risikoområder.
+
+   1. Eventuelle endringer i GMHP-ens persistens eller spredningsevne og dens evne til å overføre genmateriale til kryssbare slektninger, og skadevirkningene på miljøet som følge av dette.
+   2. Eventuelle endringer i GMHP-ens evne til å overføre genmateriale til mikroorganismer, og skadevirkningene på miljøet som følge av dette.
+   3. Mekanismen for vekselvirkning mellom GMHP-en og organismer i målgruppen (dersom det er relevant), og skadevirkningene på miljøet som følge av dette.
+   4. Potensielle endringer i vekselvirkningene mellom GMHP-en og organismer utenfor målgruppen som følge av genmodifiseringen, og skadevirkningene på miljøet som følge av dette.
+   5. Potensielle endringer i landbrukspraksis og håndtering av GMHP-en som følge av genmodifiseringen, og skadevirkningene på miljøet som følge av dette.
+   6. Potensielle vekselvirkninger med det abiotiske miljøet, og skadevirkningene på miljøet som følge av dette.
+   7. Opplysninger om eventuelle toksiske, allergifremkallende eller andre skadelige virkninger på menneskers og dyrs helse som følge av genmodifiseringen.
+   8. Konklusjoner om spesifikke risikoområder.
+4. Opplysninger om planer for kontroll, overvåking, behandling etter utsetting og avfallshåndtering.
+
+   1. Ethvert tiltak som treffes, herunder
+
+      1. geografisk og tidsmessig isolering fra kryssbare plantearter, både viltlevende slektninger og ugresslektninger og avlinger,
+      2. eventuelle tiltak for å minimere eller forhindre spredning av GMHP-ens reproduksjonsorganer.
+   2. Beskrivelse av metoder for behandling av stedet etter utsetting.
+   3. Beskrivelse av metoder for behandling av det genmodifiserte plantematerialet etter utsetting, herunder avfall.
+   4. Beskrivelse av overvåkingsplaner og -teknikker.
+   5. Beskrivelse av eventuelle beredskapsplaner.
+   6. Beskrivelse av metoder og framgangsmåter for å
+
+      1. unngå eller minimere spredning av GMHP-er utenfor utsettingsstedet.
+      2. Beskytte stedet mot inntrenging av uvedkommende personer.
+      3. Hindre andre organismer i komme inn på stedet eller redusere slik inntrenging til et minimum.
 5. Beskrivelse av teknikker for påvisning og identifikasjon av GMHP-en.
 6. Opplysninger om tidligere utsettinger av GMHP-en, dersom det er relevant.
 
@@ -338,14 +492,130 @@ A. *Generelle opplysninger*
 1. Søkerens navn og adresse (foretak eller institusjon).
 2. Den eller de ansvarlige forskernes navn, kvalifikasjoner og erfaring.
 3. GMHP-ens betegnelse og spesifikasjon.
-4. Søknadens virkeområde.Dyrking.Andre bruksområder (angis i søknaden).
+4. Søknadens virkeområde.
+
+   1. Dyrking.
+   2. Andre bruksområder (angis i søknaden).
 
 B. *Vitenskapelige opplysninger*
 
-1. Opplysninger om mottakerplanten eller, der det er relevant, om foreldreplantene.Fullstendig navn:Familie.Slekt.Art.Underart.Kultivar/foredlingslinje.Vanlig navn.Geografisk utbredelse og dyrking av planten i EØS.Opplysninger om formering:Reproduksjonsmåte(r).Eventuelle særlige faktorer som påvirker reproduksjonen.Generasjonstid.Kryssbarhet med andre dyrkede eller viltlevende plantearter, herunder kryssbare arters utbredelse i EØS.Overlevelsesevne:Evne til å danne strukturer som fremmer overlevelse eller dvale.Eventuelle særlige faktorer som påvirker overlevelsesevnen.Spredning:Spredningsmåter og -omfang.Eventuelle særlige faktorer som påvirker spredningen.Dersom en planteart vanligvis ikke dyrkes i EØS, en beskrivelse av plantens habitat, herunder opplysninger om naturlige predatorer, parasitter, konkurrenter og symbionter.Potensielle vekselvirkninger som er relevante for GMHP-en, mellom planten og organismer i økosystemet der den vanligvis dyrkes, eller andre steder, herunder opplysninger om toksiske virkninger på mennesker, dyr og andre organismer.
-2. Molekylær beskrivelse.Opplysninger om genmodifiseringen.Beskrivelse av metodene som er anvendt ved genmodifiseringen.Den anvendte vektorens art og opprinnelse.Opprinnelsen til nukleinsyren(e) som er anvendt til transformasjon, samt størrelse på og planlagt funksjon for hvert enkelt fragment av området som er ment å settes inn.Opplysninger om den genmodifiserte planten.Beskrivelse av trekk og egenskaper som er innført eller modifisert.Opplysninger om sekvensene som faktisk er satt inn eller fjernet:Størrelse på og antall kopier av alle påviselig innsatte sekvenser, både delvise og fullstendige, og metodene for karakterisering av dem.Det innsatte genmaterialets sammensetning og rekkefølge på hvert innsettingssted i et standardisert elektronisk format.Størrelsen på og funksjonen til eventuelle fjernede områder.De innsatte sekvensenes subcellulære plassering (integrert i cellekjernen, kloroplaster eller mitokondrier eller bevart i en ikke-integrert form) og metoder for bestemmelse av dem.Når det gjelder andre modifiseringer enn innsetting eller fjerning, funksjonen til det modifiserte genmaterialet før og etter modifiseringen samt direkte endringer i genuttrykk som følge av modifiseringen.Sekvensopplysninger i et standardisert elektronisk format for både 5′- og 3′-flankerende områder på hvert innsettingssted.Bioinformatikkanalyse ved hjelp av ajourførte databaser for å undersøke mulige avbrytelser av kjente gener.Alle åpne leserammer (heretter kalt «ORF» – Open Reading Frames) i den innsatte sekvensen (enten på grunn av omgruppering eller ikke) og de som skapes som følge av genmodifiseringen i overgangspunktene med genomisk DNA. ORF defineres som en nukleotidsekvens som inneholder en streng av kodoner som ikke avbrytes av et stopp-kodon i samme leseramme.Bioinformatikkanalyse ved hjelp av ajourførte databaser for å undersøke mulige likheter mellom ORF-ene og kjente gener som kan ha skadevirkninger.Primærstruktur (aminosyresekvens) og om nødvendig andre strukturer av det uttrykte nye proteinet.Bioinformatikkanalyse ved hjelp av ajourførte databaser for å undersøke mulige sekvenshomologier og om nødvendig strukturelle likheter mellom det nye uttrykte proteinet og kjente proteiner eller peptider som kan ha skadevirkninger.Opplysninger om den innsatte sekvensens uttrykk:Metoder som er brukt til analyse av uttrykk, samt deres ytelsesegenskaper.Opplysninger om den innsatte sekvensens uttrykk i de ulike utviklingsfasene gjennom plantens livssyklus.Deler av planten der den innsatte/modifiserte sekvensen uttrykkes.Potensiell utilsiktet ekspresjon av nye ORF-er identifisert i henhold til punkt ii) sjuende strekpunkt som utgjør en sikkerhetsrisiko.Data om proteinutrykk, herunder rådataene, som er innhentet gjennom feltundersøkelser og knyttet til forholdene veksten dyrkes under.Den innsatte sekvensens genetiske stabilitet og GMHP-ens fenotypiske stabilitet.Konklusjoner fra den molekylære beskrivelsen.
-3. Sammenlignende analyse av agronomiske og fenotypiske egenskaper og av sammensetningen.Valg av konvensjonell sammenligningsplante og ytterligere planter til sammenligningValg av steder til feltundersøkelser.Forsøkets utforming og statistisk analyse av data fra feltundersøkelser for sammenlignende analyse:Beskrivelse av utformingen av feltundersøkelser.Beskrivelse av relevante aspekter ved mottakermiljøene.Statistisk analyse.Valg av plantemateriale som skal analyseres, dersom det er relevant.Sammenlignende analyse av agronomiske og fenotypiske egenskaper.Sammenlignende analyse av sammensetningen, dersom det er relevant.Konklusjoner fra den komparative analysen.
-4. Nærmere opplysninger om hvert risikoområde.For hvert av de sju risikoområdene nevnt i del D.2 i vedlegg 2 skal søkeren først beskrive hvordan skade oppstår, og forklare årsakssammenhengen mellom utsettingen av GMHP-en og skaden som kan følge, idet det tas hensyn til både fare og eksponering.Søker skal framlegge følgende opplysninger, unntatt dersom det ikke er relevant på grunn av de planlagte bruksområdene for den genmodifiserte organismen:Persistens og spredningsevne, herunder genoverføring mellom planter.Vurdering av om GMHP-en kan bli mer persistent eller få større spredningsevne, og skadevirkningene på miljøet som følge av dette.Vurdering av om GMHP-en kan overføre transgener til kryssbare slektninger, og skadevirkningene på miljøet som følge av dette.Konklusjoner om skadevirkningene på miljøet som følge av GMHP-ens persistens og spredningsevne, herunder skadevirkninger på miljøet som følge av genoverføring mellom planter.Genoverføring fra planter til mikroorganismer.Vurdering av potensialet for overføring av nylig innsatt DNA fra GMHP-en til mikroorganismer, og skadevirkningene som følge av dette.Konklusjoner om skadevirkningene på menneskers og dyrs helse og miljøet av overføringen av nylig innsatt DNA fra GMHP-en til mikroorganismer.Vekselvirkninger mellom GMHP-en og organismer i målgruppen, dersom det er relevant.Vurdering av potensialet for endringer i de direkte og indirekte vekselvirkningene mellom GMHP-en og organismer i målgruppen, og av skadevirkningene på miljøet.Vurdering av potensialet for utvikling av resistens hos organismen i målgruppen mot det uttrykte proteinet (basert på tidligere utvikling av resistens mot konvensjonelle pesticider eller transgene planter med lignende trekk), og av skadevirkningene på miljøet som følge av dette.Konklusjoner om skadevirkninger på miljøet som følge av vekselvirkninger mellom GMHP-en og organismer i målgruppen.Vekselvirkninger mellom GMHP-en og organismer utenfor målgruppen.Vurdering av potensialet for direkte og indirekte vekselvirkninger mellom GMHP-en og organismer utenfor målgruppen, herunder vernede arter, og skadevirkningene som følge av dette.Vurderingen skal også ta hensyn til potensielle skadevirkninger på relevante økosystemtjenester og artene som yter disse tjenestene.Konklusjoner om skadevirkninger på miljøet som følge av vekselvirkninger mellom GMHP-en og organismer utenfor målgruppen.Virkningen av de spesifikke dyrkings-, håndterings- og innhøstingsmetodene.Når det gjelder GMHP-er til dyrking, vurdering av endringene i de spesifikke dyrkings-, håndterings- og innhøstingsmetodene for GMHP-en, og skadevirkningene på miljøet som følge av dette.Konklusjoner om de spesifikke dyrkings-, håndterings- og innhøstingsmetodenes skadevirkninger på miljøet.Virkninger på bio-geokjemiske prosesser.Vurdering av endringene i de bio-geokjemiske prosessene i området der GMHP-en skal dyrkes, og i miljøet for øvrig, og skadevirkningene som følge av dette.Konklusjoner om skadevirkninger på bio-geokjemiske prosesser.Virkninger på menneskers og dyrs helse.Vurdering av potensielle direkte og indirekte vekselvirkninger mellom GMHP-en og personer som arbeider med eller kommer i kontakt med GMHP-ene, herunder gjennom pollen eller støv fra en bearbeidet GMHP, og vurdering av skadevirkningene av disse interaksjonene på menneskers helse.Når det gjelder GMHP-er som ikke skal benyttes som mat, men der mottaker- eller foreldreorganismen(e) kan betraktes som mat, skal sannsynligheten for og mulige skadevirkninger på menneskers helse som følge av utilsiktet inntak av GMHP-en vurderes.Vurderingen av de potensielle skadevirkningene på dyrs helse som følge av dyrs utilsiktede inntak av GMHP-en eller av materiale fra denne planten.Konklusjoner om virkningene på menneskers og dyrs helse.Samlet risikovurdering og konklusjoner.For hvert risikoområde skal det framlegges et sammendrag av alle konklusjonene.Sammendraget skal ta hensyn til risikobeskrivelsen i samsvar med trinn 1–4 i metodikken beskrevet i avsnitt C.3 i vedlegg 2 og risikohåndteringsstrategiene foreslått i samsvar med avsnitt C.3 nr. 5 i vedlegg 2.
+1. Opplysninger om mottakerplanten eller, der det er relevant, om foreldreplantene.
+
+   1. Fullstendig navn:
+
+      1. Familie.
+      2. Slekt.
+      3. Art.
+      4. Underart.
+      5. Kultivar/foredlingslinje.
+      6. Vanlig navn.
+   2. Geografisk utbredelse og dyrking av planten i EØS.
+   3. Opplysninger om formering:
+
+      1. Reproduksjonsmåte(r).
+      2. Eventuelle særlige faktorer som påvirker reproduksjonen.
+      3. Generasjonstid.
+   4. Kryssbarhet med andre dyrkede eller viltlevende plantearter, herunder kryssbare arters utbredelse i EØS.
+   5. Overlevelsesevne:
+
+      1. Evne til å danne strukturer som fremmer overlevelse eller dvale.
+      2. Eventuelle særlige faktorer som påvirker overlevelsesevnen.
+   6. Spredning:
+
+      1. Spredningsmåter og -omfang.
+      2. Eventuelle særlige faktorer som påvirker spredningen.
+   7. Dersom en planteart vanligvis ikke dyrkes i EØS, en beskrivelse av plantens habitat, herunder opplysninger om naturlige predatorer, parasitter, konkurrenter og symbionter.
+   8. Potensielle vekselvirkninger som er relevante for GMHP-en, mellom planten og organismer i økosystemet der den vanligvis dyrkes, eller andre steder, herunder opplysninger om toksiske virkninger på mennesker, dyr og andre organismer.
+2. Molekylær beskrivelse.
+
+   1. Opplysninger om genmodifiseringen.
+
+      1. Beskrivelse av metodene som er anvendt ved genmodifiseringen.
+      2. Den anvendte vektorens art og opprinnelse.
+      3. Opprinnelsen til nukleinsyren(e) som er anvendt til transformasjon, samt størrelse på og planlagt funksjon for hvert enkelt fragment av området som er ment å settes inn.
+   2. Opplysninger om den genmodifiserte planten.
+
+      1. Beskrivelse av trekk og egenskaper som er innført eller modifisert.
+      2. Opplysninger om sekvensene som faktisk er satt inn eller fjernet:
+
+         - Størrelse på og antall kopier av alle påviselig innsatte sekvenser, både delvise og fullstendige, og metodene for karakterisering av dem.
+         - Det innsatte genmaterialets sammensetning og rekkefølge på hvert innsettingssted i et standardisert elektronisk format.
+         - Størrelsen på og funksjonen til eventuelle fjernede områder.
+         - De innsatte sekvensenes subcellulære plassering (integrert i cellekjernen, kloroplaster eller mitokondrier eller bevart i en ikke-integrert form) og metoder for bestemmelse av dem.
+         - Når det gjelder andre modifiseringer enn innsetting eller fjerning, funksjonen til det modifiserte genmaterialet før og etter modifiseringen samt direkte endringer i genuttrykk som følge av modifiseringen.
+         - Sekvensopplysninger i et standardisert elektronisk format for både 5′- og 3′-flankerende områder på hvert innsettingssted.
+         - Bioinformatikkanalyse ved hjelp av ajourførte databaser for å undersøke mulige avbrytelser av kjente gener.
+         - Alle åpne leserammer (heretter kalt «ORF» – Open Reading Frames) i den innsatte sekvensen (enten på grunn av omgruppering eller ikke) og de som skapes som følge av genmodifiseringen i overgangspunktene med genomisk DNA. ORF defineres som en nukleotidsekvens som inneholder en streng av kodoner som ikke avbrytes av et stopp-kodon i samme leseramme.
+         - Bioinformatikkanalyse ved hjelp av ajourførte databaser for å undersøke mulige likheter mellom ORF-ene og kjente gener som kan ha skadevirkninger.
+         - Primærstruktur (aminosyresekvens) og om nødvendig andre strukturer av det uttrykte nye proteinet.
+         - Bioinformatikkanalyse ved hjelp av ajourførte databaser for å undersøke mulige sekvenshomologier og om nødvendig strukturelle likheter mellom det nye uttrykte proteinet og kjente proteiner eller peptider som kan ha skadevirkninger.
+      3. Opplysninger om den innsatte sekvensens uttrykk:
+
+         - Metoder som er brukt til analyse av uttrykk, samt deres ytelsesegenskaper.
+         - Opplysninger om den innsatte sekvensens uttrykk i de ulike utviklingsfasene gjennom plantens livssyklus.
+         - Deler av planten der den innsatte/modifiserte sekvensen uttrykkes.
+         - Potensiell utilsiktet ekspresjon av nye ORF-er identifisert i henhold til punkt ii) sjuende strekpunkt som utgjør en sikkerhetsrisiko.
+         - Data om proteinutrykk, herunder rådataene, som er innhentet gjennom feltundersøkelser og knyttet til forholdene veksten dyrkes under.
+      4. Den innsatte sekvensens genetiske stabilitet og GMHP-ens fenotypiske stabilitet.
+   3. Konklusjoner fra den molekylære beskrivelsen.
+3. Sammenlignende analyse av agronomiske og fenotypiske egenskaper og av sammensetningen.
+
+   1. Valg av konvensjonell sammenligningsplante og ytterligere planter til sammenligning
+   2. Valg av steder til feltundersøkelser.
+   3. Forsøkets utforming og statistisk analyse av data fra feltundersøkelser for sammenlignende analyse:
+
+      1. Beskrivelse av utformingen av feltundersøkelser.
+      2. Beskrivelse av relevante aspekter ved mottakermiljøene.
+      3. Statistisk analyse.
+   4. Valg av plantemateriale som skal analyseres, dersom det er relevant.
+   5. Sammenlignende analyse av agronomiske og fenotypiske egenskaper.
+   6. Sammenlignende analyse av sammensetningen, dersom det er relevant.
+   7. Konklusjoner fra den komparative analysen.
+4. Nærmere opplysninger om hvert risikoområde.
+
+   For hvert av de sju risikoområdene nevnt i del D.2 i vedlegg 2 skal søkeren først beskrive hvordan skade oppstår, og forklare årsakssammenhengen mellom utsettingen av GMHP-en og skaden som kan følge, idet det tas hensyn til både fare og eksponering.
+
+   Søker skal framlegge følgende opplysninger, unntatt dersom det ikke er relevant på grunn av de planlagte bruksområdene for den genmodifiserte organismen:
+
+   1. Persistens og spredningsevne, herunder genoverføring mellom planter.
+
+      1. Vurdering av om GMHP-en kan bli mer persistent eller få større spredningsevne, og skadevirkningene på miljøet som følge av dette.
+      2. Vurdering av om GMHP-en kan overføre transgener til kryssbare slektninger, og skadevirkningene på miljøet som følge av dette.
+      3. Konklusjoner om skadevirkningene på miljøet som følge av GMHP-ens persistens og spredningsevne, herunder skadevirkninger på miljøet som følge av genoverføring mellom planter.
+   2. Genoverføring fra planter til mikroorganismer.
+
+      1. Vurdering av potensialet for overføring av nylig innsatt DNA fra GMHP-en til mikroorganismer, og skadevirkningene som følge av dette.
+      2. Konklusjoner om skadevirkningene på menneskers og dyrs helse og miljøet av overføringen av nylig innsatt DNA fra GMHP-en til mikroorganismer.
+   3. Vekselvirkninger mellom GMHP-en og organismer i målgruppen, dersom det er relevant.
+
+      1. Vurdering av potensialet for endringer i de direkte og indirekte vekselvirkningene mellom GMHP-en og organismer i målgruppen, og av skadevirkningene på miljøet.
+      2. Vurdering av potensialet for utvikling av resistens hos organismen i målgruppen mot det uttrykte proteinet (basert på tidligere utvikling av resistens mot konvensjonelle pesticider eller transgene planter med lignende trekk), og av skadevirkningene på miljøet som følge av dette.
+      3. Konklusjoner om skadevirkninger på miljøet som følge av vekselvirkninger mellom GMHP-en og organismer i målgruppen.
+   4. Vekselvirkninger mellom GMHP-en og organismer utenfor målgruppen.
+
+      1. Vurdering av potensialet for direkte og indirekte vekselvirkninger mellom GMHP-en og organismer utenfor målgruppen, herunder vernede arter, og skadevirkningene som følge av dette.
+
+         Vurderingen skal også ta hensyn til potensielle skadevirkninger på relevante økosystemtjenester og artene som yter disse tjenestene.
+      2. Konklusjoner om skadevirkninger på miljøet som følge av vekselvirkninger mellom GMHP-en og organismer utenfor målgruppen.
+   5. Virkningen av de spesifikke dyrkings-, håndterings- og innhøstingsmetodene.
+
+      1. Når det gjelder GMHP-er til dyrking, vurdering av endringene i de spesifikke dyrkings-, håndterings- og innhøstingsmetodene for GMHP-en, og skadevirkningene på miljøet som følge av dette.
+      2. Konklusjoner om de spesifikke dyrkings-, håndterings- og innhøstingsmetodenes skadevirkninger på miljøet.
+   6. Virkninger på bio-geokjemiske prosesser.
+
+      1. Vurdering av endringene i de bio-geokjemiske prosessene i området der GMHP-en skal dyrkes, og i miljøet for øvrig, og skadevirkningene som følge av dette.
+      2. Konklusjoner om skadevirkninger på bio-geokjemiske prosesser.
+   7. Virkninger på menneskers og dyrs helse.
+
+      1. Vurdering av potensielle direkte og indirekte vekselvirkninger mellom GMHP-en og personer som arbeider med eller kommer i kontakt med GMHP-ene, herunder gjennom pollen eller støv fra en bearbeidet GMHP, og vurdering av skadevirkningene av disse interaksjonene på menneskers helse.
+      2. Når det gjelder GMHP-er som ikke skal benyttes som mat, men der mottaker- eller foreldreorganismen(e) kan betraktes som mat, skal sannsynligheten for og mulige skadevirkninger på menneskers helse som følge av utilsiktet inntak av GMHP-en vurderes.
+      3. Vurderingen av de potensielle skadevirkningene på dyrs helse som følge av dyrs utilsiktede inntak av GMHP-en eller av materiale fra denne planten.
+      4. Konklusjoner om virkningene på menneskers og dyrs helse.
+   8. Samlet risikovurdering og konklusjoner.
+
+      For hvert risikoområde skal det framlegges et sammendrag av alle konklusjonene.
+
+      Sammendraget skal ta hensyn til risikobeskrivelsen i samsvar med trinn 1–4 i metodikken beskrevet i avsnitt C.3 i vedlegg 2 og risikohåndteringsstrategiene foreslått i samsvar med avsnitt C.3 nr. 5 i vedlegg 2.
 5. Beskrivelse av teknikker for påvisning og identifikasjon av GMHP-en.
 6. Opplysninger om tidligere utsettinger av GMHP-en, dersom det er relevant.
 
@@ -353,7 +623,9 @@ B. *Vitenskapelige opplysninger*
 
 I *I tillegg til opplysningene i del a og b skal følgende opplysninger oppgis i konsekvensutredningen for utsetting av produkter som består av eller inneholder genmodifiserte organismer i henhold til [genteknologiloven § 9](lov/1993-04-02-38/§9), 2. ledd f)*
 
-1. Foreslåtte handelsbetegnelser på produktene og navn på de genmodifiserte organismene som inngår i dem, og et forslag til en unik identifikasjonskode for den genmodifiserte organismen. Søkere skal forelegge forslag til en unik identifikasjonskode for hver GMO omsøkt, i tråd med systemet oppgitt i vedlegg 5, og etter å ha rådført seg med OECD BioTrack Product Database og Biosafety Clearing House databasen, om hvorvidt det allerede er utviklet en unik identifikasjonskode etter dette system for den omsøkte GMO-en. Etter at det er gitt godkjenning, skal eventuelle nye handelsbetegnelser framlegges for vedkommende myndighet.(\*) Kommisjonsforordning [(EF) nr. 65/2004](eu/32004r0065) av 14. januar 2004 om innføring av et system for fastsettelse og tildeling av entydige identifikatorer for genmodifiserte organismer (EUT L 10 av 16.1.2004, s. 5).
+1. Foreslåtte handelsbetegnelser på produktene og navn på de genmodifiserte organismene som inngår i dem, og et forslag til en unik identifikasjonskode for den genmodifiserte organismen. Søkere skal forelegge forslag til en unik identifikasjonskode for hver GMO omsøkt, i tråd med systemet oppgitt i vedlegg 5, og etter å ha rådført seg med OECD BioTrack Product Database og Biosafety Clearing House databasen, om hvorvidt det allerede er utviklet en unik identifikasjonskode etter dette system for den omsøkte GMO-en. Etter at det er gitt godkjenning, skal eventuelle nye handelsbetegnelser framlegges for vedkommende myndighet.
+
+   (\*) Kommisjonsforordning [(EF) nr. 65/2004](eu/32004r0065) av 14. januar 2004 om innføring av et system for fastsettelse og tildeling av entydige identifikatorer for genmodifiserte organismer (EUT L 10 av 16.1.2004, s. 5).
 2. Navn og full adresse til den person i EØS som har ansvaret for markedsføringen, enten produsenten, importøren eller distributøren.
 3. Navn og full adresse til kontrollprøveleverandøren(e).
 4. Beskrivelse av hvordan produktet og den genmodifiserte organismen som utgjør eller inngår i produktet, skal brukes. Bruk og håndtering av den genmodifiserte organismen som skiller seg fra bruk og håndtering av lignende, ikke genmodifiserte produkter, bør framheves.
@@ -378,7 +650,13 @@ II *I tillegg til opplysningene under i skal følgende opplysninger om nødvendi
 
 *Definisjoner:*
 
-I dette vedlegget menes med:Direkte virkninger: primærvirkninger på menneskers helse og på miljøet som følger av selve den genmodifiserte organismen og som ikke oppstår gjennom en kausal årsaksrekkefølge.Indirekte virkninger: virkninger på menneskers helse og på miljøet som oppstår gjennom en kausal årsaksrekkefølge, som for eksempel gjennom vekselvirkninger med andre organismer, overføring av genmateriale eller endringer i bruk eller håndtering. Eventuelle indirekte virkninger vil sannsynligvis først kunne observeres etter en viss tid.Umiddelbare virkninger: virkninger på menneskers helse og på miljøet som vil kunne observeres i løpet av den tiden utsettingen pågår. Umiddelbare virkninger kan være direkte eller indirekte.Langtidsvirkninger: virkninger på menneskers helse og på miljøet som ofte ikke vil kunne observeres i løpet av den tiden utsettingen pågår, men som vil kunne vise seg som en direkte eller indirekte virkning, enten på et senere tidspunkt eller etter at utsettingen er fullført.Kumulative virkninger på lang sikt: de akkumulerte virkninger tillatelsene vil medføre for menneskers helse og for miljøet, herunder bl.a. flora og fauna, jordas fruktbarhet, nedbrytning av organisk materiale i jorda, fôr- og næringsmiddelkjeden, biologisk mangfold, dyrehelse og resistensproblemer i tilknytning til antibiotika.
+I dette vedlegget menes med:
+
+- Direkte virkninger: primærvirkninger på menneskers helse og på miljøet som følger av selve den genmodifiserte organismen og som ikke oppstår gjennom en kausal årsaksrekkefølge.
+- Indirekte virkninger: virkninger på menneskers helse og på miljøet som oppstår gjennom en kausal årsaksrekkefølge, som for eksempel gjennom vekselvirkninger med andre organismer, overføring av genmateriale eller endringer i bruk eller håndtering. Eventuelle indirekte virkninger vil sannsynligvis først kunne observeres etter en viss tid.
+- Umiddelbare virkninger: virkninger på menneskers helse og på miljøet som vil kunne observeres i løpet av den tiden utsettingen pågår. Umiddelbare virkninger kan være direkte eller indirekte.
+- Langtidsvirkninger: virkninger på menneskers helse og på miljøet som ofte ikke vil kunne observeres i løpet av den tiden utsettingen pågår, men som vil kunne vise seg som en direkte eller indirekte virkning, enten på et senere tidspunkt eller etter at utsettingen er fullført.
+- Kumulative virkninger på lang sikt: de akkumulerte virkninger tillatelsene vil medføre for menneskers helse og for miljøet, herunder bl.a. flora og fauna, jordas fruktbarhet, nedbrytning av organisk materiale i jorda, fôr- og næringsmiddelkjeden, biologisk mangfold, dyrehelse og resistensproblemer i tilknytning til antibiotika.
 
 A. *Formål*
 
@@ -386,7 +664,15 @@ Formålet med en miljørisikovurdering er å identifisere og vurdere i hvert enk
 
 B. *Generelle prinsipper*
 
-I samsvar med føre-var-prinsippet skal følgende generelle prinsipper følges når miljørisikovurderingen foretas:Kjente egenskaper ved den genmodifiserte organismen, og ved bruken av den, som muligvis kan gi skadevirkninger, bør sammenlignes med egenskapene til de ikke-modifiserte organismene som den genmodifiserte organismen er avledet fra, og med bruken av disse under tilsvarende forhold.Miljørisikovurderingen bør foretas på en vitenskapelig forsvarlig og transparent måte og være basert på tilgjengelige vitenskapelige og tekniske data.Det bør foretas en miljørisikovurdering i hvert enkelt tilfelle, da det kan være store ulikheter med hensyn til hvilke opplysninger som kreves, avhengig av hvilken type genmodifisert organisme det dreier seg om, hvilken bruk de er tiltenkt samt de mulige mottaksmiljøene, idet det bl.a. tas hensyn til genmodifiserte organismer som allerede finnes i dette miljøet.Dersom nye opplysninger om den genmodifiserte organismen og dens virkninger på menneskers helse og på miljøet blir tilgjengelige, kan det bli nødvendig å gjenta miljørisikovurdering, slik atdet kan fastslås om risikoen har endret seg,det kan fastslås om det er behov for å endre risikostyringen tilsvarende.
+I samsvar med føre-var-prinsippet skal følgende generelle prinsipper følges når miljørisikovurderingen foretas:
+
+- Kjente egenskaper ved den genmodifiserte organismen, og ved bruken av den, som muligvis kan gi skadevirkninger, bør sammenlignes med egenskapene til de ikke-modifiserte organismene som den genmodifiserte organismen er avledet fra, og med bruken av disse under tilsvarende forhold.
+- Miljørisikovurderingen bør foretas på en vitenskapelig forsvarlig og transparent måte og være basert på tilgjengelige vitenskapelige og tekniske data.
+- Det bør foretas en miljørisikovurdering i hvert enkelt tilfelle, da det kan være store ulikheter med hensyn til hvilke opplysninger som kreves, avhengig av hvilken type genmodifisert organisme det dreier seg om, hvilken bruk de er tiltenkt samt de mulige mottaksmiljøene, idet det bl.a. tas hensyn til genmodifiserte organismer som allerede finnes i dette miljøet.
+- Dersom nye opplysninger om den genmodifiserte organismen og dens virkninger på menneskers helse og på miljøet blir tilgjengelige, kan det bli nødvendig å gjenta miljørisikovurdering, slik at
+
+  - det kan fastslås om risikoen har endret seg,
+  - det kan fastslås om det er behov for å endre risikostyringen tilsvarende.
 
 C. *Metodologi*
 
@@ -394,20 +680,148 @@ Det foreligger retningslinjer fra det Europeiske mattryggingsorganet for gjennom
 
 C.1. *Allmenne og spesifikke hensyn for miljørisikovurderingen*
 
-1. *Tilsiktede og utilsiktede forandringer*Som en del av identifiseringen og vurderingen av potensielle skadevirkninger nevnt i del A skal miljørisikovurderingen identifisere tilsiktede og utilsiktede forandringer som skyldes genmodifiseringen, og vurdere om de kan forårsake skadevirkninger på menneskers helse og på miljøet.Tilsiktede forandringer som skyldes genmodifiseringen, er forandringer som er ment å oppstå, og som oppfyller de opprinnelige målene for genmodifiseringen.Utilsiktede forandringer som skyldes genmodifiseringen, er forandringer som går utover de(n) planlagte forandringen(e) som skyldes genmodifiseringen.Tilsiktede og utilsiktede forandringer kan ha virkninger på menneskers helse og på miljøet som er enten direkte eller indirekte og enten umiddelbare eller forsinkede.
-2. *Langsiktige skadevirkninger og kumulative langsiktige skadevirkninger i miljørisikovurderingen for søknader omfattet av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14)*Langsiktige virkninger av en genmodifisert organisme er virkninger som skyldes en forsinket reaksjon hos organismer eller deres avkom på langsiktig eller kronisk eksponering for en genmodifisert organisme, eller som skyldes utstrakt bruk av en genmodifisert organisme tid og rom.Ved identifikasjon og vurdering av potensielle langsiktige skadevirkninger av en genmodifisert organisme på menneskers helse og på miljøet skal det tas hensyn til følgende:Langsiktige vekselvirkninger mellom de genmodifiserte organismene og mottakermiljøet.Egenskaper hos den genmodifiserte organismen som får betydning på lang sikt.Data innhentet etter at den genmodifiserte organismen er satt ut gjentatte ganger eller brakt i omsetning over lengre tid.Ved identifikasjon og vurdering av potensielle kumulative langsiktige skadevirkninger skal det også tas hensyn til genmodifiserte organismer som tidligere er satt ut eller brakt i omsetning.
-3. *Dataenes kvalitet*For å kunne utføre en miljørisikovurdering for en søknad omfattet av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14), skal søkeren samle allerede tilgjengelige data fra vitenskapelig litteratur eller andre kilder, herunder overvåkingsrapporter, og skal der det er mulig, framskaffe de nødvendige dataene ved å utføre egnede undersøkelser. Der det er relevant, skal søkeren begrunne i miljørisikovurderingen hvorfor det ikke er mulig å framskaffe data gjennom studier. For søknader omfattet av forskriften [§ 15](forskrift/2005-12-16-1495/§15), skal miljørisikovurderingen minst bygge på allerede tilgjengelige data fra vitenskapelig litteratur eller andre kilder og kan utfylles med ytterligere data framskaffet av søkeren.Dersom miljørisikovurderingen inneholder data som er generert utenfor Europa, skal dataenes relevans for mottakermiljøet eller -miljøene i EØS begrunnes.Data som inngår i miljørisikovurderingen etter forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14), skal oppfylle følgende krav:Dersom miljørisikovurderingen omfatter toksikologiske undersøkelser som er utført for å vurdere risikoer for menneskers eller dyrs helse, skal søkeren framlegge dokumentasjon på at de er utført i laboratorium/anlegg somoppfyller kravene i EØS om bruk av prinsippene for god laboratoriepraksis og kontroll av deres bruk ved forsøk med kjemiske stoffer, eller somoverholder OECDs prinsipper for god laboratoriepraksis (GLP) dersom de utføres utenfor EØS.Dersom miljørisikovurderingen omfatter andre undersøkelser enn toksikologiske undersøkelser, skal deoverholde prinsippene for god laboratoriepraksis (GLP) fastsatt i EØS om bruk av prinsippene for god laboratoriepraksis og kontroll av deres bruk ved forsøk med kjemiske stoffer, der det er relevant, ellervære utført av organisasjoner som er akkreditert i henhold til den relevante ISO-standarden, ellerdersom det ikke finnes en relevant ISO-standard, være utført i samsvar med internasjonalt anerkjente standarder.Opplysninger om resultater fra undersøkelsene nevnt i bokstav a) og b) og om undersøkelsesprotokollene som er brukt, skal være pålitelige og grundige og inkludere rådata i et elektronisk format som er egnet til statistiske eller andre typer analyser.Der det er mulig, skal søkeren angi omfanget av virkningen som hver utførte undersøkelse har til hensikt å påvise, og begrunne dette.Valget av steder til feltundersøkelser skal bygge på relevante mottakermiljøer med tanke på den potensielle eksponeringen og virkningen som vil kunne observeres der den genmodifiserte organismen kan bli satt ut. Valget skal begrunnes i miljørisikovurderingen.Den ikke-genmodifiserte sammenligningsorganismen skal være passende for det relevante mottakermiljøet/de relevante mottakermiljøene og ha en genetisk bakgrunn som er sammenlignbar med den genmodifiserte organismen. Valget av sammenligningsorganisme skal begrunnes i miljørisikovurderingen.
-4. *Stablede transformasjonshendelser i søknader omfattet av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14)*Følgende skal gjelde for miljørisikovurderingen av en genmodifisert organisme som inneholder flere transformasjonshendelser (stablede transformasjonshendelser) i søknader omfattet av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14).Søkeren skal framlegge en miljørisikovurdering for hver enkelt transformasjonshendelse i den genmodifiserte organismen eller vise til allerede framlagte søknader for disse enkelte transformasjonshendelsene.Søkeren skal framlegge en vurdering av følgende aspekter:Stabiliteten til transformasjonshendelseneUttrykk av transformasjonshendelsenePotensielle additive, synergistiske eller antagonistiske virkninger av kombinasjonen av transformasjonshendelser.Dersom avkom av den genmodifiserte organismen kan inneholde ulike underkombinasjoner av de stablede transformasjonshendelsene, skal søkeren gi en vitenskapelig begrunnelse for at det ikke er nødvendig å framlegge forsøksdata for de berørte underkombinasjonene, uavhengig av deres opprinnelse, eller, dersom en slik vitenskapelig begrunnelse ikke gis, framlegge relevante forsøksdata.
+1. *Tilsiktede og utilsiktede forandringer*
+
+   Som en del av identifiseringen og vurderingen av potensielle skadevirkninger nevnt i del A skal miljørisikovurderingen identifisere tilsiktede og utilsiktede forandringer som skyldes genmodifiseringen, og vurdere om de kan forårsake skadevirkninger på menneskers helse og på miljøet.
+
+   Tilsiktede forandringer som skyldes genmodifiseringen, er forandringer som er ment å oppstå, og som oppfyller de opprinnelige målene for genmodifiseringen.
+
+   Utilsiktede forandringer som skyldes genmodifiseringen, er forandringer som går utover de(n) planlagte forandringen(e) som skyldes genmodifiseringen.
+
+   Tilsiktede og utilsiktede forandringer kan ha virkninger på menneskers helse og på miljøet som er enten direkte eller indirekte og enten umiddelbare eller forsinkede.
+2. *Langsiktige skadevirkninger og kumulative langsiktige skadevirkninger i miljørisikovurderingen for søknader omfattet av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14)*
+
+   Langsiktige virkninger av en genmodifisert organisme er virkninger som skyldes en forsinket reaksjon hos organismer eller deres avkom på langsiktig eller kronisk eksponering for en genmodifisert organisme, eller som skyldes utstrakt bruk av en genmodifisert organisme tid og rom.
+
+   Ved identifikasjon og vurdering av potensielle langsiktige skadevirkninger av en genmodifisert organisme på menneskers helse og på miljøet skal det tas hensyn til følgende:
+
+   1. Langsiktige vekselvirkninger mellom de genmodifiserte organismene og mottakermiljøet.
+   2. Egenskaper hos den genmodifiserte organismen som får betydning på lang sikt.
+   3. Data innhentet etter at den genmodifiserte organismen er satt ut gjentatte ganger eller brakt i omsetning over lengre tid.
+
+   Ved identifikasjon og vurdering av potensielle kumulative langsiktige skadevirkninger skal det også tas hensyn til genmodifiserte organismer som tidligere er satt ut eller brakt i omsetning.
+3. *Dataenes kvalitet*
+
+   For å kunne utføre en miljørisikovurdering for en søknad omfattet av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14), skal søkeren samle allerede tilgjengelige data fra vitenskapelig litteratur eller andre kilder, herunder overvåkingsrapporter, og skal der det er mulig, framskaffe de nødvendige dataene ved å utføre egnede undersøkelser. Der det er relevant, skal søkeren begrunne i miljørisikovurderingen hvorfor det ikke er mulig å framskaffe data gjennom studier. For søknader omfattet av forskriften [§ 15](forskrift/2005-12-16-1495/§15), skal miljørisikovurderingen minst bygge på allerede tilgjengelige data fra vitenskapelig litteratur eller andre kilder og kan utfylles med ytterligere data framskaffet av søkeren.
+
+   Dersom miljørisikovurderingen inneholder data som er generert utenfor Europa, skal dataenes relevans for mottakermiljøet eller -miljøene i EØS begrunnes.
+
+   Data som inngår i miljørisikovurderingen etter forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14), skal oppfylle følgende krav:
+
+   1. Dersom miljørisikovurderingen omfatter toksikologiske undersøkelser som er utført for å vurdere risikoer for menneskers eller dyrs helse, skal søkeren framlegge dokumentasjon på at de er utført i laboratorium/anlegg som
+
+      1. oppfyller kravene i EØS om bruk av prinsippene for god laboratoriepraksis og kontroll av deres bruk ved forsøk med kjemiske stoffer, eller som
+      2. overholder OECDs prinsipper for god laboratoriepraksis (GLP) dersom de utføres utenfor EØS.
+   2. Dersom miljørisikovurderingen omfatter andre undersøkelser enn toksikologiske undersøkelser, skal de
+
+      1. overholde prinsippene for god laboratoriepraksis (GLP) fastsatt i EØS om bruk av prinsippene for god laboratoriepraksis og kontroll av deres bruk ved forsøk med kjemiske stoffer, der det er relevant, eller
+      2. være utført av organisasjoner som er akkreditert i henhold til den relevante ISO-standarden, eller
+      3. dersom det ikke finnes en relevant ISO-standard, være utført i samsvar med internasjonalt anerkjente standarder.
+   3. Opplysninger om resultater fra undersøkelsene nevnt i bokstav a) og b) og om undersøkelsesprotokollene som er brukt, skal være pålitelige og grundige og inkludere rådata i et elektronisk format som er egnet til statistiske eller andre typer analyser.
+   4. Der det er mulig, skal søkeren angi omfanget av virkningen som hver utførte undersøkelse har til hensikt å påvise, og begrunne dette.
+   5. Valget av steder til feltundersøkelser skal bygge på relevante mottakermiljøer med tanke på den potensielle eksponeringen og virkningen som vil kunne observeres der den genmodifiserte organismen kan bli satt ut. Valget skal begrunnes i miljørisikovurderingen.
+   6. Den ikke-genmodifiserte sammenligningsorganismen skal være passende for det relevante mottakermiljøet/de relevante mottakermiljøene og ha en genetisk bakgrunn som er sammenlignbar med den genmodifiserte organismen. Valget av sammenligningsorganisme skal begrunnes i miljørisikovurderingen.
+4. *Stablede transformasjonshendelser i søknader omfattet av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14)*
+
+   Følgende skal gjelde for miljørisikovurderingen av en genmodifisert organisme som inneholder flere transformasjonshendelser (stablede transformasjonshendelser) i søknader omfattet av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14).
+
+   1. Søkeren skal framlegge en miljørisikovurdering for hver enkelt transformasjonshendelse i den genmodifiserte organismen eller vise til allerede framlagte søknader for disse enkelte transformasjonshendelsene.
+   2. Søkeren skal framlegge en vurdering av følgende aspekter:
+
+      1. Stabiliteten til transformasjonshendelsene
+      2. Uttrykk av transformasjonshendelsene
+      3. Potensielle additive, synergistiske eller antagonistiske virkninger av kombinasjonen av transformasjonshendelser.
+   3. Dersom avkom av den genmodifiserte organismen kan inneholde ulike underkombinasjoner av de stablede transformasjonshendelsene, skal søkeren gi en vitenskapelig begrunnelse for at det ikke er nødvendig å framlegge forsøksdata for de berørte underkombinasjonene, uavhengig av deres opprinnelse, eller, dersom en slik vitenskapelig begrunnelse ikke gis, framlegge relevante forsøksdata.
 
 C.2. *Egenskaper hos den genmodifiserte organismen og utsettingene*
 
-Miljørisikovurderingen skal ta hensyn til relevante tekniske og vitenskapelige data om egenskapene hosmottaker- eller foreldreorganismen(e),genmodifiseringen(e), både tilført og fjernet genmateriale, og relevante opplysninger om vektor og donor,den genmodifiserte organismen,den planlagte utsettingen eller bruken, herunder omfanget,de potensielle mottakermiljøene der den genmodifiserte organismen vil bli satt ut og der transgenet kan spres, ogvekselvirkningen(e) mellom disse egenskapene.
+Miljørisikovurderingen skal ta hensyn til relevante tekniske og vitenskapelige data om egenskapene hos
+
+- mottaker- eller foreldreorganismen(e),
+- genmodifiseringen(e), både tilført og fjernet genmateriale, og relevante opplysninger om vektor og donor,
+- den genmodifiserte organismen,
+- den planlagte utsettingen eller bruken, herunder omfanget,
+- de potensielle mottakermiljøene der den genmodifiserte organismen vil bli satt ut og der transgenet kan spres, og
+- vekselvirkningen(e) mellom disse egenskapene.
 
 Relevante opplysninger fra tidligere utsettinger av samme eller lignende genmodifiserte organismer og organismer med lignende egenskaper og deres biotiske og abiotiske vekselvirkninger med lignende mottakermiljøer, herunder opplysninger fra overvåkingen av slike organismer, skal tas i betraktning i miljørisikovurderingen.
 
 C.3. *Trinn i miljørisikovurderingen*
 
-Miljørisikovurderingen skal gjennomføres for hvert relevante risikoområde nevnt i del D.1 eller del D.2 i samsvar med følgende seks trinn:*Problemformulering, herunder fareidentifikasjon*Problemformuleringen skal gjøre følgende:Identifisere eventuelle endringer i organismens egenskaper som er knyttet til genmodifiseringen, ved å sammenligne den genmodifiserte organismens egenskaper med den valgte ikke-genmodifiserte sammenligningsorganismen under tilsvarende utsettings- eller bruksforhold.Identifisere potensielle skadevirkninger på menneskers helse eller miljøet som er forbundet med endringene som er identifisert i henhold til bokstav a) ovenfor.Det er viktig å ikke se bort fra potensielle skadevirkninger selv om de anses som usannsynlige å inntreffe.Potensielle skadevirkninger vil variere fra tilfelle til tilfelle, og kan omfattevirkninger på populasjonsdynamikken hos artene i mottakermiljøet og det genetiske mangfoldet i de enkelte populasjonene, noe som kan føre til en reduksjon av det biologiske mangfoldet,endret mottakelighet for sykdomsfremkallende stoffer, noe som fremmer spredning av smittsomme sykdommer eller skaper nye reservoarer eller vektorer,en forringelse av forebyggende eller terapeutisk medisinsk behandling, veterinærmedisinsk behandling eller plantevernbehandling, f.eks. ved overføring av gener som gir resistens mot antibiotika som brukes i legemidler eller veterinærpreparater,virkninger på biogeokjemi (biogeokjemiske kretsløp), herunder gjenvinning av karbon og nitrogen, gjennom endringer i nedbrytningen av organisk materiale i jorda,sykdom hos mennesker, herunder allergiske eller toksiske reaksjoner,sykdom hos dyr og planter, herunder toksiske, og, når det gjelder dyr, allergiske reaksjoner der det er relevant.Dersom potensielle langsiktige skadevirkninger av en genmodifisert organisme identifiseres, skal de vurderes ved hjelp av skrivebordsundersøkelser der én eller flere av følgende kilder brukes der det er mulig:Dokumentasjon fra tidligere erfaringer.Tilgjengelige datasett eller tilgjengelig litteratur.Matematiske modeller.Identifisere relevante vurderingsendepunkter.I de neste trinnene i risikovurderingen skal det tas hensyn til potensielle skadevirkninger som kan påvirke de identifiserte vurderingsendepunktene.Identifisere og beskrive eksponeringsveiene eller andre mekanismer som skadevirkninger kan oppstå gjennom.Skadevirkninger kan oppstå direkte eller indirekte gjennom eksponeringsveier eller andre mekanismer som kan omfattespredning av de(n) genmodifiserte organismen(e) i miljøet,overføring av det innsatte genmaterialet til samme organisme eller andre organismer, uavhengig av hvorvidt de er genmodifiserte eller ikke,fenotypisk og genetisk ustabilitet,vekselvirkninger med andre organismer,endringer i håndteringen, herunder eventuelt i landbrukspraksis.Stille opp hypoteser som kan prøves, og definere relevante vurderingsendepunkter for målingen, for å kunne foreta en kvantitativ vurdering av potensielle skadevirkninger der det er mulig.Ta hensyn til mulige usikkerhetsfaktorer, herunder kunnskapshull og begrensninger ved metodene.*Farebeskrivelse*For hver potensielle skadevirkning skal omfanget vurderes. Utgangspunktet for vurderingen skal være at slike skadevirkninger vil oppstå. I miljørisikovurderingen skal det antas at omfanget sannsynligvis vil bli påvirket av mottakermiljøet eller -miljøene der den genmodifiserte organismen skal settes ut, og av omfanget av og vilkårene for utsettingen.Når det er mulig, skal vurderingen uttrykkes kvantitativt.Dersom vurderingen uttrykkes kvalitativt, skal det brukes kategorier («betydelig», «moderat», «på lavt nivå» eller «ubetydelig») og gis en forklaring av hvilket virkningsomfang hver kategori representerer.*Eksponeringsbeskrivelse*Sannsynligheten for forekomst av hver potensielle skadevirkning som er identifisert, skal vurderes for om mulig å gi en kvantitativ vurdering av eksponeringen som et relativt sannsynlighetsmål, og ellers gis en kvalitativ vurdering av eksponeringen. Det skal tas hensyn til egenskapene til mottakermiljøet eller -miljøene samt søknadens virkeområde.Dersom vurderingen uttrykkes kvalitativt, skal det brukes eksponeringskategorier («betydelig», «moderat», «på lavt nivå» eller «ubetydelig») og gis en forklaring av hvilket virkningsomfang hver kategori representerer.*Risikobeskrivelse*Risikoen skal beskrives ved å kombinere, for hver potensielle skadevirkning, omfanget av skadevirkningen og sannsynligheten for at denne oppstår, for å gi en kvantitativ eller delvis kvantitativ vurdering av risikoen.Dersom en kvantitativ eller delvis kvantitativ vurdering ikke er mulig, skal det gis en kvalitativ vurdering av risikoen. I så fall skal det brukes risikokategorier («betydelig», «moderat», «på lavt nivå» eller «ubetydelig») og gis en forklaring av hvilket virkningsomfang hver kategori representerer.Dersom det er relevant, skal usikkerheten for hver identifiserte risiko beskrives og om mulig uttrykkes kvantitativt.*Risikohåndteringsstrategier*Dersom det identifiseres risikoer som på grunnlag av beskrivelsene krever tiltak for å håndtere dem, skal det foreslås en risikohåndteringsstrategi.Risikohåndteringsstrategiene skal beskrives med tanke på reduksjon av fare, eksponering eller begge deler, og skal stå i forhold til den tiltenkte reduksjonen av risikoen, omfanget av og vilkårene for utsettingen og usikkerhetsnivåene som er identifisert i miljørisikovurderingen.Reduksjonen av samlet risiko som dette gir, skal om mulig kvantifiseres.*Samlet risikovurdering og konklusjoner*Det skal foretas en kvalitativ og om mulig kvantitativ vurdering av den samlede risikoen den genmodifiserte organismen utgjør, idet det tas hensyn til resultatene av risikobeskrivelsen, de foreslåtte risikohåndteringsstrategiene og de tilhørende usikkerhetsnivåene.Den samlede risikovurderingen skal omfatte de foreslåtte risikohåndteringsstrategiene for hver identifiserte risiko der det er relevant.Den samlede risikovurderingen og konklusjonene skal også foreslå særlige krav til overvåkingsplanen for den genmodifiserte organismen og, dersom det er relevant, overvåkingen av hvor effektive de foreslåtte risikohåndteringstiltakene er.For søknader som omfattes av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14) skal den samlede risikovurderingen også omfatte en forklaring av antakelsene som ble gjort under miljørisikovurderingen, og av arten og omfanget av usikkerheten som er knyttet til risikoene, samt en begrunnelse for de foreslåtte risikohåndteringstiltakene.
+Miljørisikovurderingen skal gjennomføres for hvert relevante risikoområde nevnt i del D.1 eller del D.2 i samsvar med følgende seks trinn:
+
+1. *Problemformulering, herunder fareidentifikasjon*
+
+   Problemformuleringen skal gjøre følgende:
+
+   1. Identifisere eventuelle endringer i organismens egenskaper som er knyttet til genmodifiseringen, ved å sammenligne den genmodifiserte organismens egenskaper med den valgte ikke-genmodifiserte sammenligningsorganismen under tilsvarende utsettings- eller bruksforhold.
+   2. Identifisere potensielle skadevirkninger på menneskers helse eller miljøet som er forbundet med endringene som er identifisert i henhold til bokstav a) ovenfor.
+
+      Det er viktig å ikke se bort fra potensielle skadevirkninger selv om de anses som usannsynlige å inntreffe.
+
+      Potensielle skadevirkninger vil variere fra tilfelle til tilfelle, og kan omfatte
+
+      - virkninger på populasjonsdynamikken hos artene i mottakermiljøet og det genetiske mangfoldet i de enkelte populasjonene, noe som kan føre til en reduksjon av det biologiske mangfoldet,
+      - endret mottakelighet for sykdomsfremkallende stoffer, noe som fremmer spredning av smittsomme sykdommer eller skaper nye reservoarer eller vektorer,
+      - en forringelse av forebyggende eller terapeutisk medisinsk behandling, veterinærmedisinsk behandling eller plantevernbehandling, f.eks. ved overføring av gener som gir resistens mot antibiotika som brukes i legemidler eller veterinærpreparater,
+      - virkninger på biogeokjemi (biogeokjemiske kretsløp), herunder gjenvinning av karbon og nitrogen, gjennom endringer i nedbrytningen av organisk materiale i jorda,
+      - sykdom hos mennesker, herunder allergiske eller toksiske reaksjoner,
+      - sykdom hos dyr og planter, herunder toksiske, og, når det gjelder dyr, allergiske reaksjoner der det er relevant.
+
+      Dersom potensielle langsiktige skadevirkninger av en genmodifisert organisme identifiseres, skal de vurderes ved hjelp av skrivebordsundersøkelser der én eller flere av følgende kilder brukes der det er mulig:
+
+      1. Dokumentasjon fra tidligere erfaringer.
+      2. Tilgjengelige datasett eller tilgjengelig litteratur.
+      3. Matematiske modeller.
+   3. Identifisere relevante vurderingsendepunkter.
+
+      I de neste trinnene i risikovurderingen skal det tas hensyn til potensielle skadevirkninger som kan påvirke de identifiserte vurderingsendepunktene.
+   4. Identifisere og beskrive eksponeringsveiene eller andre mekanismer som skadevirkninger kan oppstå gjennom.
+
+      Skadevirkninger kan oppstå direkte eller indirekte gjennom eksponeringsveier eller andre mekanismer som kan omfatte
+
+      - spredning av de(n) genmodifiserte organismen(e) i miljøet,
+      - overføring av det innsatte genmaterialet til samme organisme eller andre organismer, uavhengig av hvorvidt de er genmodifiserte eller ikke,
+      - fenotypisk og genetisk ustabilitet,
+      - vekselvirkninger med andre organismer,
+      - endringer i håndteringen, herunder eventuelt i landbrukspraksis.
+   5. Stille opp hypoteser som kan prøves, og definere relevante vurderingsendepunkter for målingen, for å kunne foreta en kvantitativ vurdering av potensielle skadevirkninger der det er mulig.
+   6. Ta hensyn til mulige usikkerhetsfaktorer, herunder kunnskapshull og begrensninger ved metodene.
+2. *Farebeskrivelse*
+
+   For hver potensielle skadevirkning skal omfanget vurderes. Utgangspunktet for vurderingen skal være at slike skadevirkninger vil oppstå. I miljørisikovurderingen skal det antas at omfanget sannsynligvis vil bli påvirket av mottakermiljøet eller -miljøene der den genmodifiserte organismen skal settes ut, og av omfanget av og vilkårene for utsettingen.
+
+   Når det er mulig, skal vurderingen uttrykkes kvantitativt.
+
+   Dersom vurderingen uttrykkes kvalitativt, skal det brukes kategorier («betydelig», «moderat», «på lavt nivå» eller «ubetydelig») og gis en forklaring av hvilket virkningsomfang hver kategori representerer.
+3. *Eksponeringsbeskrivelse*
+
+   Sannsynligheten for forekomst av hver potensielle skadevirkning som er identifisert, skal vurderes for om mulig å gi en kvantitativ vurdering av eksponeringen som et relativt sannsynlighetsmål, og ellers gis en kvalitativ vurdering av eksponeringen. Det skal tas hensyn til egenskapene til mottakermiljøet eller -miljøene samt søknadens virkeområde.
+
+   Dersom vurderingen uttrykkes kvalitativt, skal det brukes eksponeringskategorier («betydelig», «moderat», «på lavt nivå» eller «ubetydelig») og gis en forklaring av hvilket virkningsomfang hver kategori representerer.
+4. *Risikobeskrivelse*
+
+   Risikoen skal beskrives ved å kombinere, for hver potensielle skadevirkning, omfanget av skadevirkningen og sannsynligheten for at denne oppstår, for å gi en kvantitativ eller delvis kvantitativ vurdering av risikoen.
+
+   Dersom en kvantitativ eller delvis kvantitativ vurdering ikke er mulig, skal det gis en kvalitativ vurdering av risikoen. I så fall skal det brukes risikokategorier («betydelig», «moderat», «på lavt nivå» eller «ubetydelig») og gis en forklaring av hvilket virkningsomfang hver kategori representerer.
+
+   Dersom det er relevant, skal usikkerheten for hver identifiserte risiko beskrives og om mulig uttrykkes kvantitativt.
+5. *Risikohåndteringsstrategier*
+
+   Dersom det identifiseres risikoer som på grunnlag av beskrivelsene krever tiltak for å håndtere dem, skal det foreslås en risikohåndteringsstrategi.
+
+   Risikohåndteringsstrategiene skal beskrives med tanke på reduksjon av fare, eksponering eller begge deler, og skal stå i forhold til den tiltenkte reduksjonen av risikoen, omfanget av og vilkårene for utsettingen og usikkerhetsnivåene som er identifisert i miljørisikovurderingen.
+
+   Reduksjonen av samlet risiko som dette gir, skal om mulig kvantifiseres.
+6. *Samlet risikovurdering og konklusjoner*
+
+   Det skal foretas en kvalitativ og om mulig kvantitativ vurdering av den samlede risikoen den genmodifiserte organismen utgjør, idet det tas hensyn til resultatene av risikobeskrivelsen, de foreslåtte risikohåndteringsstrategiene og de tilhørende usikkerhetsnivåene.
+
+   Den samlede risikovurderingen skal omfatte de foreslåtte risikohåndteringsstrategiene for hver identifiserte risiko der det er relevant.
+
+   Den samlede risikovurderingen og konklusjonene skal også foreslå særlige krav til overvåkingsplanen for den genmodifiserte organismen og, dersom det er relevant, overvåkingen av hvor effektive de foreslåtte risikohåndteringstiltakene er.
+
+   For søknader som omfattes av forskriften [§ 13](forskrift/2005-12-16-1495/§13) eller [§ 14](forskrift/2005-12-16-1495/§14) skal den samlede risikovurderingen også omfatte en forklaring av antakelsene som ble gjort under miljørisikovurderingen, og av arten og omfanget av usikkerheten som er knyttet til risikoene, samt en begrunnelse for de foreslåtte risikohåndteringstiltakene.
 
 D. *Konklusjoner om spesifikke risikoområder i miljørisikovurderingen*
 
@@ -427,13 +841,24 @@ D.1. *For genmodifiserte organismer som ikke er høyerestående planter*
 
 D.2. *For genmodifiserte høyerestående planter* D.2. *For genmodifiserte høyerestående planter (GMHP)*
 
-Med «høyerestående planter» menes planter som tilhører den taksonomiske gruppen *Spermatophytae* (*Gymnospermae* og *Angiospermae*).GMHP-ens persistens og spredningsevne, herunder genoverføring mellom planter.Genoverføring fra planter til mikroorganismer.Vekselvirkninger mellom GMHP-en og organismer i målgruppen.Vekselvirkninger mellom GMHP-en og organismer utenfor målgruppen.Virkningen av de spesifikke dyrkings-, håndterings- og innhøstingsmetodene.Virkninger på bio-geokjemiske prosesser.Virkninger på menneskers og dyrs helse.
+Med «høyerestående planter» menes planter som tilhører den taksonomiske gruppen *Spermatophytae* (*Gymnospermae* og *Angiospermae*).
+
+1. GMHP-ens persistens og spredningsevne, herunder genoverføring mellom planter.
+2. Genoverføring fra planter til mikroorganismer.
+3. Vekselvirkninger mellom GMHP-en og organismer i målgruppen.
+4. Vekselvirkninger mellom GMHP-en og organismer utenfor målgruppen.
+5. Virkningen av de spesifikke dyrkings-, håndterings- og innhøstingsmetodene.
+6. Virkninger på bio-geokjemiske prosesser.
+7. Virkninger på menneskers og dyrs helse.
 
 ## Vedlegg 3: Overvåkingsplan
 
 I *Mål*
 
-Formålet med overvåkingsplanen erå bekrefte at alle antakelser i miljørisikovurderingen som gjelder forekomst og omfang av potensielle skadevirkninger av den genmodifiserte organismen eller bruken av den, er korrekte, ogå identifisere forekomsten av skadevirkninger på menneskers helse eller miljøet som skyldes den genmodifiserte organismen eller bruken av den, og som ikke ble forutsett i miljørisikovurderingen.
+Formålet med overvåkingsplanen er
+
+- å bekrefte at alle antakelser i miljørisikovurderingen som gjelder forekomst og omfang av potensielle skadevirkninger av den genmodifiserte organismen eller bruken av den, er korrekte, og
+- å identifisere forekomsten av skadevirkninger på menneskers helse eller miljøet som skyldes den genmodifiserte organismen eller bruken av den, og som ikke ble forutsett i miljørisikovurderingen.
 
 II *Generelle prinsipper*
 
@@ -445,7 +870,17 @@ Erfaringer og data fra overvåkingen av forsøksutsettinger av genmodifiserte or
 
 III *Utforming av overvåkingsplanen*
 
-Overvåkingsplanen børomfatte en detaljert vurdering av hvert enkelt tilfelle og utarbeides på bakgrunn av miljørisikovurderingen,ta med i betraktningen den genmodifiserte organismens egenskaper, egenskaper ved og omfanget av forventet bruk og omfanget av de relevante miljøbetingelsene der hvor den genmodifiserte organismen forventes utsatt,omfatte generell overvåking med tanke på uforutsette skadevirkninger og, om nødvendig, særskilt overvåking (i hvert enkelt tilfelle) med fokus på skadevirkninger som er påvist i miljørisikovurderingen:Særskilt overvåking av et enkelttilfelle skal utføres over en tidsperiode som er tilstrekkelig lang til at såvel umiddelbare og direkte virkninger som også forsinkede og indirekte virkninger påvist i miljørisikovurderingen, kan oppdages,i overvåkingen kan det om nødvendig tas i bruk allerede etablert, rutinemessig overvåkingspraksis, som f.eks. overvåking av landbrukskultivarer, plantevern eller veterinærprodukter og medisinske produkter. Det bør gis en forklaring på hvordan relevante opplysninger innsamlet ved etablert, rutinemessig overvåkingspraksis skal gjøres tilgjengelig for den som er innehaver av tillatelsen.på systematisk vis gjøre det enklere å observere utsettingen av den genmodifiserte organismen i mottakermiljøet og tolkingen av disse observasjonene med henblikk på sikkerhet for menneskers helse og for miljøet,oppgi hvem (søker, brukere) som skal utføre de ulike oppgavene som kreves i overvåkingsplanen og hvem som er ansvarlig for å sikre at overvåkingsplanen iverksettes og utføres korrekt, samt sikre at det finnes en informasjonskanal, gjennom hvilken innehaveren av tillatelsen og den vedkommende myndighet vil bli informert om observerte skadevirkninger på menneskers helse og på miljøet. (Tidspunkter og intervaller for rapporter om resultatene av overvåkingen skal oppgis.)vurdere mekanismene for påvisning og bekreftelse av observerte skadevirkninger på menneskers helse og på miljøet, og gi innehaver av tillatelsen eller, når det er hensiktsmessig, den vedkommende myndighet, mulighet til å treffe de tiltak som er nødvendige for å beskytte menneskers helse og miljøet.
+Overvåkingsplanen bør
+
+1. omfatte en detaljert vurdering av hvert enkelt tilfelle og utarbeides på bakgrunn av miljørisikovurderingen,
+2. ta med i betraktningen den genmodifiserte organismens egenskaper, egenskaper ved og omfanget av forventet bruk og omfanget av de relevante miljøbetingelsene der hvor den genmodifiserte organismen forventes utsatt,
+3. omfatte generell overvåking med tanke på uforutsette skadevirkninger og, om nødvendig, særskilt overvåking (i hvert enkelt tilfelle) med fokus på skadevirkninger som er påvist i miljørisikovurderingen:
+
+   1. Særskilt overvåking av et enkelttilfelle skal utføres over en tidsperiode som er tilstrekkelig lang til at såvel umiddelbare og direkte virkninger som også forsinkede og indirekte virkninger påvist i miljørisikovurderingen, kan oppdages,
+   2. i overvåkingen kan det om nødvendig tas i bruk allerede etablert, rutinemessig overvåkingspraksis, som f.eks. overvåking av landbrukskultivarer, plantevern eller veterinærprodukter og medisinske produkter. Det bør gis en forklaring på hvordan relevante opplysninger innsamlet ved etablert, rutinemessig overvåkingspraksis skal gjøres tilgjengelig for den som er innehaver av tillatelsen.
+4. på systematisk vis gjøre det enklere å observere utsettingen av den genmodifiserte organismen i mottakermiljøet og tolkingen av disse observasjonene med henblikk på sikkerhet for menneskers helse og for miljøet,
+5. oppgi hvem (søker, brukere) som skal utføre de ulike oppgavene som kreves i overvåkingsplanen og hvem som er ansvarlig for å sikre at overvåkingsplanen iverksettes og utføres korrekt, samt sikre at det finnes en informasjonskanal, gjennom hvilken innehaveren av tillatelsen og den vedkommende myndighet vil bli informert om observerte skadevirkninger på menneskers helse og på miljøet. (Tidspunkter og intervaller for rapporter om resultatene av overvåkingen skal oppgis.)
+6. vurdere mekanismene for påvisning og bekreftelse av observerte skadevirkninger på menneskers helse og på miljøet, og gi innehaver av tillatelsen eller, når det er hensiktsmessig, den vedkommende myndighet, mulighet til å treffe de tiltak som er nødvendige for å beskytte menneskers helse og miljøet.
 
 ## Vedlegg 4: Vurdering av etikk, bærekraft og samfunnsnytte iht. forskriften § 17
 
@@ -457,9 +892,27 @@ Formålet med genteknologiloven er iht. [§ 1](forskrift/2005-12-16-1495/§1) bl
 
 I *Fremgangsmåten for vurderingen*
 
-Vurderingen vil ha følgende strukturFare for skadevirkninger på folke- og dyrehelse og miljøet:hva er de mulige negative konsekvensene?hva er sannsynligheten for at disse konsekvensene vil inntreffe?Føre-var-prinsippet:er risikovurderingen forbundet med begrunnet usikkerhet?kan det være snakk om stor eller uomstøtelig skade?Er detpositive eller negative virkninger for bærekraftig utvikling?samfunnsmessige fordeler eller ulemper?etisk forsvarlig?
+Vurderingen vil ha følgende struktur
 
-I vurderingen av [pkt](forskrift/2005-12-16-1495/kap3). 3 er det hensiktsmessig å skille mellom følgende tre begreper:produktets egenskaperframstillingbruk
+1. Fare for skadevirkninger på folke- og dyrehelse og miljøet:
+
+   1. hva er de mulige negative konsekvensene?
+   2. hva er sannsynligheten for at disse konsekvensene vil inntreffe?
+2. Føre-var-prinsippet:
+
+   1. er risikovurderingen forbundet med begrunnet usikkerhet?
+   2. kan det være snakk om stor eller uomstøtelig skade?
+3. Er det
+
+   1. positive eller negative virkninger for bærekraftig utvikling?
+   2. samfunnsmessige fordeler eller ulemper?
+   3. etisk forsvarlig?
+
+I vurderingen av [pkt](forskrift/2005-12-16-1495/kap3). 3 er det hensiktsmessig å skille mellom følgende tre begreper:
+
+- produktets egenskaper
+- framstilling
+- bruk
 
 II *Fare for skadevirkninger på folke- og dyrehelse og miljøet*
 
@@ -501,12 +954,53 @@ IV *Bærekraftig utvikling*
 
 A. *Kontrollspørsmål*
 
-1. Globale virkningerPåvirkes det biologiske mangfoldet globalt?Påvirkes økosystemers funksjonsevne?Er det i disse henseende ulike påvirkninger når det gjelder framstilling og bruk?
-2. Økologiske grenserPåvirkes effektiviteten i bruken av energi?Påvirkes effektiviteten i bruken av andre naturressurser?Påvirkes fordelingen mellom bruk av fornybare og ikke-fornybare naturressurser?Påvirkes utslippene av forurensninger med global/overnasjonal rekkevidde?Påvirkes utslippene av klimagasser spesielt?Er det i disse henseende ulike påvirkninger når det gjelder framstilling og bruk?
-3. Menneskelige grunnbehovPåvirkes tilfredsstillelsen av menneskelige grunnbehov?Er det i dette henseende ulike påvirkninger når det gjelder framstilling og bruk?
-4. Fordeling mellom generasjonerPåvirkes fordelingen mellom generasjoner når det gjelder goder?Påvirkes fordelingen mellom generasjoner når det gjelder byrder?Er det i disse henseende ulike påvirkninger når det gjelder framstilling og bruk?
-5. Fordeling mellom fattig og rikPåvirkes fordelingen mellom fattige og rike land når det gjelder goder?Påvirkes fordelingen mellom fattige og rike land når det gjelder byrder?Er det i disse henseende ulike påvirkninger når det gjelder framstilling og bruk?
-6. Økonomisk vekstPåvirkes den økonomiske vekstens bruk av energi og andre naturressurser?Påvirkes den økonomiske vekstens globale/overnasjonale miljøbelastninger?Påvirkes den økonomiske vekstens fordeling mellom fattige og rike land?Er det i disse henseende ulike påvirkninger når det gjelder framstilling og bruk?
+1. Globale virkninger
+
+   Påvirkes det biologiske mangfoldet globalt?
+
+   Påvirkes økosystemers funksjonsevne?
+
+   Er det i disse henseende ulike påvirkninger når det gjelder framstilling og bruk?
+2. Økologiske grenser
+
+   Påvirkes effektiviteten i bruken av energi?
+
+   Påvirkes effektiviteten i bruken av andre naturressurser?
+
+   Påvirkes fordelingen mellom bruk av fornybare og ikke-fornybare naturressurser?
+
+   Påvirkes utslippene av forurensninger med global/overnasjonal rekkevidde?
+
+   Påvirkes utslippene av klimagasser spesielt?
+
+   Er det i disse henseende ulike påvirkninger når det gjelder framstilling og bruk?
+3. Menneskelige grunnbehov
+
+   1. Påvirkes tilfredsstillelsen av menneskelige grunnbehov?
+   2. Er det i dette henseende ulike påvirkninger når det gjelder framstilling og bruk?
+4. Fordeling mellom generasjoner
+
+   Påvirkes fordelingen mellom generasjoner når det gjelder goder?
+
+   Påvirkes fordelingen mellom generasjoner når det gjelder byrder?
+
+   Er det i disse henseende ulike påvirkninger når det gjelder framstilling og bruk?
+5. Fordeling mellom fattig og rik
+
+   Påvirkes fordelingen mellom fattige og rike land når det gjelder goder?
+
+   Påvirkes fordelingen mellom fattige og rike land når det gjelder byrder?
+
+   Er det i disse henseende ulike påvirkninger når det gjelder framstilling og bruk?
+6. Økonomisk vekst
+
+   Påvirkes den økonomiske vekstens bruk av energi og andre naturressurser?
+
+   Påvirkes den økonomiske vekstens globale/overnasjonale miljøbelastninger?
+
+   Påvirkes den økonomiske vekstens fordeling mellom fattige og rike land?
+
+   Er det i disse henseende ulike påvirkninger når det gjelder framstilling og bruk?
 
 B. *Kommentar*
 
@@ -516,8 +1010,22 @@ V *Samfunnsmessige fordeler og ulemper*
 
 A. *Kontrollspørsmål*
 
-1. Produktets egenskaperKan det med rimelighet sies å være behov i form av etterspørsel eller annet for produktet?Kan produktet med rimelighet sies å løse, eventuelt bidra til å løse et samfunnsproblem?Kan produktet med rimelighet sies å være vesentlig bedre enn tilsvarende produkter som allerede finnes på markedet?Kan det med rimelighet sies å være andre alternativer som er bedre enn produktet når det gjelder å løse, eventuelt bidra til å løse, det aktuelle samfunnsproblemet?
-2. Framstilling og bruk av produktetBidrar det til næringsutvikling og verdiskaping, herunder til å skape nye sysselsettingsmuligheter?Bidrar det til næringsutvikling og verdiskaping, herunder til å skape nye sysselsettingsmuligheter i distriktene spesielt?Bidrar det til næringsutvikling og verdiskaping, herunder til å skape nye sysselsettingsmuligheter i andre land?Bidrar det til å skape problemer i eksisterende produksjon som ellers bør bevares?Bidrar det til å skape problemer i eksisterende produksjon i andre land?
+1. Produktets egenskaper
+
+   Kan det med rimelighet sies å være behov i form av etterspørsel eller annet for produktet?
+
+   Kan produktet med rimelighet sies å løse, eventuelt bidra til å løse et samfunnsproblem?
+
+   Kan produktet med rimelighet sies å være vesentlig bedre enn tilsvarende produkter som allerede finnes på markedet?
+
+   Kan det med rimelighet sies å være andre alternativer som er bedre enn produktet når det gjelder å løse, eventuelt bidra til å løse, det aktuelle samfunnsproblemet?
+2. Framstilling og bruk av produktet
+
+   1. Bidrar det til næringsutvikling og verdiskaping, herunder til å skape nye sysselsettingsmuligheter?
+   2. Bidrar det til næringsutvikling og verdiskaping, herunder til å skape nye sysselsettingsmuligheter i distriktene spesielt?
+   3. Bidrar det til næringsutvikling og verdiskaping, herunder til å skape nye sysselsettingsmuligheter i andre land?
+   4. Bidrar det til å skape problemer i eksisterende produksjon som ellers bør bevares?
+   5. Bidrar det til å skape problemer i eksisterende produksjon i andre land?
 
 B. *Kommentar*
 
@@ -527,14 +1035,36 @@ VI *Etisk forsvarlig*
 
 A. *Generelt*
 
-1. SituasjonsanalyseHvilke alternativer finnes?Hvem er part i saken? Hvordan rammes eller hjelpes de under de forskjellige alternativene?
-2. Etisk argumentasjonHvilke normer kommer til anvendelse?Hvordan løse normkonfliktene?
-3. Implementering/iverksettingHvordan sette det beste alternativet ut i praksis?
+1. Situasjonsanalyse
+
+   Hvilke alternativer finnes?
+
+   Hvem er part i saken? Hvordan rammes eller hjelpes de under de forskjellige alternativene?
+2. Etisk argumentasjon
+
+   Hvilke normer kommer til anvendelse?
+
+   Hvordan løse normkonfliktene?
+3. Implementering/iverksetting
+
+   Hvordan sette det beste alternativet ut i praksis?
 
 B. *Kontrollspørsmål*
 
-1. Etiske normer og verdier knyttet til mennesketEr tillatelse/forbud av produktet og framstillingen og bruken av det i samsvar med den allmenne befolkningens verdisyn?Strider produktet og dets framstilling og bruk mot idéaler om solidaritet og likeverd mellom mennesker, så som særlig hensyntagen til svakstilte grupper i befolkningen?Urbefolkninger, mennesker i sterkt tradisjonsbundne kulturer, og svakstilte grupper i befolkningen, kan bli utsatt for store uheldige konsekvenser av storsamfunnets beslutninger. Disse gruppenes interesse av å kunne styre egen kulturell endring bør vurderes særlig.Strider spesielt markedsføringen og omsetningen av produktet mot slike normer og verdier?
-2. Miljøetiske hensynStrider produktet og fremstillingen av det i sin karakter mot dyrearters eventuelle egenverdi?Påfører framstillingen av produktet dyr unødig lidelse?Innebærer framstillingen av produktet at barrierer mellom arter overskrides på måter som er vesentlig forskjellig fra det som ellers skjer i den kultiverte eller ville naturen, og som må ansees som uforenlig med den verdi artsadskillelse tillegges?
+1. Etiske normer og verdier knyttet til mennesket
+
+   Er tillatelse/forbud av produktet og framstillingen og bruken av det i samsvar med den allmenne befolkningens verdisyn?
+
+   Strider produktet og dets framstilling og bruk mot idéaler om solidaritet og likeverd mellom mennesker, så som særlig hensyntagen til svakstilte grupper i befolkningen?
+
+   Urbefolkninger, mennesker i sterkt tradisjonsbundne kulturer, og svakstilte grupper i befolkningen, kan bli utsatt for store uheldige konsekvenser av storsamfunnets beslutninger. Disse gruppenes interesse av å kunne styre egen kulturell endring bør vurderes særlig.
+
+   Strider spesielt markedsføringen og omsetningen av produktet mot slike normer og verdier?
+2. Miljøetiske hensyn
+
+   1. Strider produktet og fremstillingen av det i sin karakter mot dyrearters eventuelle egenverdi?
+   2. Påfører framstillingen av produktet dyr unødig lidelse?
+   3. Innebærer framstillingen av produktet at barrierer mellom arter overskrides på måter som er vesentlig forskjellig fra det som ellers skjer i den kultiverte eller ville naturen, og som må ansees som uforenlig med den verdi artsadskillelse tillegges?
 
 C. *Kommentar*
 

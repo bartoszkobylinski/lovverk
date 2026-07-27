@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Kvalifikasjonskrav for losaspiranter
 
-(1) Den som oppfyller følgende kvalifikasjonskrav kan tas opp som losaspirantsertifikat som gir rett til å være overstyrmann på skip uavhengig av bruttotonnasje og fartsområde,bestått eksamen som kreves for å få rett til å være skipsfører på skip uavhengig av bruttotonnasje og fartsområde,minst 3 års fartstid, inkludert fartstid i løpet av de siste fem årene, som ansvarshavende vaktoffiser på bro eller overstyrmann på et sjøgående fartøy med en lengde på 50 meter eller mer, eller tilsvarende sjømilitær fartstid i tilsvarende stillinger på sammenlignbart fartøy. Kystverket kan dispensere fra kravet til fartstid når tjenstlige hensyn tilsier det, ognorsk muntlig og skriftlig, og engelsk språk tilstrekkelig for problemfri kommunikasjon.
+(1) Den som oppfyller følgende kvalifikasjonskrav kan tas opp som losaspirant
+
+1. sertifikat som gir rett til å være overstyrmann på skip uavhengig av bruttotonnasje og fartsområde,
+2. bestått eksamen som kreves for å få rett til å være skipsfører på skip uavhengig av bruttotonnasje og fartsområde,
+3. minst 3 års fartstid, inkludert fartstid i løpet av de siste fem årene, som ansvarshavende vaktoffiser på bro eller overstyrmann på et sjøgående fartøy med en lengde på 50 meter eller mer, eller tilsvarende sjømilitær fartstid i tilsvarende stillinger på sammenlignbart fartøy. Kystverket kan dispensere fra kravet til fartstid når tjenstlige hensyn tilsier det, og
+4. norsk muntlig og skriftlig, og engelsk språk tilstrekkelig for problemfri kommunikasjon.
 
 (2) Med fartstid menes det samme som i den til enhver tid gjeldende forskrift om kvalifikasjoner og sertifikater for sjøfolk.
 
@@ -64,7 +69,13 @@ Loseksamen holdes en gang i året eller ved behov. Kystverket gir nærmere regle
 
 ## § 7. Loseksamen
 
-(1) Losaspiranten eller losen skal eksamineres inngående og godtgjøre at han eller hun har den nødvendige kjennskap til de farvann og steder lossertifikatet skal omfatte og skal herunder kunne redegjøre foralle méd, stevninger og friseilingsmerker for grunner, kursendringer mv., havner, ankerplasser, brohøyder, dybder, strømforholdene og vindens innflytelse på disse, farvannets oppmerking, fyrbelysning, samt kaier og dybdene ved disse.alt som eksamenskommisjonen anser som nødvendig for forsvarlig utførelse av en losing til og fra de forskjellige anløpssteder i sertifikatområdet, så vel ved dag- som nattseilas og under varierende værforhold.fartøybehandling under manøvrering til og fra kai og ved ankring mv.havnereglementer i vedkommende farvann, særlig påbud om redusert fart, forbud mot ankring o.l. samt relevante bestemmelser i sjøtrafikkforskriften.de plikter og det ansvar som påhviler en los i medhold av lov om losordningen, annet relevant lov- og forskriftsverk og tjenesteinstrukser.
+(1) Losaspiranten eller losen skal eksamineres inngående og godtgjøre at han eller hun har den nødvendige kjennskap til de farvann og steder lossertifikatet skal omfatte og skal herunder kunne redegjøre for
+
+1. alle méd, stevninger og friseilingsmerker for grunner, kursendringer mv., havner, ankerplasser, brohøyder, dybder, strømforholdene og vindens innflytelse på disse, farvannets oppmerking, fyrbelysning, samt kaier og dybdene ved disse.
+2. alt som eksamenskommisjonen anser som nødvendig for forsvarlig utførelse av en losing til og fra de forskjellige anløpssteder i sertifikatområdet, så vel ved dag- som nattseilas og under varierende værforhold.
+3. fartøybehandling under manøvrering til og fra kai og ved ankring mv.
+4. havnereglementer i vedkommende farvann, særlig påbud om redusert fart, forbud mot ankring o.l. samt relevante bestemmelser i sjøtrafikkforskriften.
+5. de plikter og det ansvar som påhviler en los i medhold av lov om losordningen, annet relevant lov- og forskriftsverk og tjenesteinstrukser.
 
 (2) Losapiranten skal gjennomføre en praktisk prøve som del av loseksamen ved første gangs utstedelse av lossertifikat. Kystverket kan kreve at los skal avlegge en praktisk prøve ved utvidelse av lossertifikat.
 

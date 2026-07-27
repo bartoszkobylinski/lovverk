@@ -15,7 +15,7 @@ xml_hash: "52924564fc129fbd9c871b29c018c5b1b95e7a299d19cd4a625ac6599108e094"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,19 @@ Denne forskriften omhandler krav for oppnåelse og opprettholdelse av autorisasj
 
 ## § 3. Definisjoner og forkortelser
 
-I denne forskrift gjelder følgende definisjoner og forkortelser:*AFIS (Aerodrome Flight Information Service):* Lokal flygeinformasjons- og alarmtjeneste som ytes på en ikke-kontrollert landingsplass samt til luftfartøy innenfor enhetens ansvarsområde.*Autorisasjonsbevis:* Et dokument utstedt av Luftfartstilsynet som bekrefter at innehaveren er kvalifisert og innehar de personlige egenskaper og kunnskaper som er nødvendige for å utøve lokal flygeinformasjonstjeneste.*Elevbevis:* Et dokument som bekrefter at en elev som har gjennomgått og bestått godkjent grunnutdanning kan trene i utøvelse av tjenesten under overvåking av en praksisinstruktør.*Enhetsspesifikk autorisasjon:* En tillatelse utstedt av yter av lufttrafikktjeneste til å utøve nærmere angitt tjeneste ved en bestemt enhet eller sektor.*HFIS (Helicopter Flight Information Service):* Lokal flygeinformasjons- og alarmtjeneste til helikoptre før avgang fra et helikopterdekk og til luftfartøy innenfor en eller flere beskyttelsessoner for helikoptre (HPZ).*Institusjonell utdanning:* Grunnutdanning som skal gi eleven tilstrekkelige teoretiske kunnskaper og praktiske ferdigheter til å kunne påbegynne enhetstrening.*Kontrollant*: Person som er kvalifisert for og utnevnt av Luftfartstilsynet til å avholde ferdighetsprøve og ferdighetskontroll med kandidater ved sertifisering/autorisering av luftfartspersonell.*Lokal flygeinformasjonstjeneste*: En tjeneste med det formål å gi råd og opplysninger av betydning for sikker og effektiv gjennomføring av flyginger på og i nærheten av en landingsplass.*Overføringstrening*: Med overføringstrening forstås den opplæring og trening som er nødvendig når autorisert personell flytter fra en enhet til en annen eller internt ved en enhet for å oppnå ny autorisasjon.*Periodisk Faglig Oppdatering (PFO):* Regelmessig vedlikehold og kontroll av lufttrafikktjenestepersonells teoretiske kunnskaper og praktiske ferdigheter.*Praksisinstruktør (OJTI) (on-the-job training instructor):* Lufttrafikktjenestepersonell som har gyldig autorisasjon til å utøve praktisk opplæring i flygekontrolltjeneste eller flygeinformasjonstjeneste.
+I denne forskrift gjelder følgende definisjoner og forkortelser:
+
+1. *AFIS (Aerodrome Flight Information Service):* Lokal flygeinformasjons- og alarmtjeneste som ytes på en ikke-kontrollert landingsplass samt til luftfartøy innenfor enhetens ansvarsområde.
+2. *Autorisasjonsbevis:* Et dokument utstedt av Luftfartstilsynet som bekrefter at innehaveren er kvalifisert og innehar de personlige egenskaper og kunnskaper som er nødvendige for å utøve lokal flygeinformasjonstjeneste.
+3. *Elevbevis:* Et dokument som bekrefter at en elev som har gjennomgått og bestått godkjent grunnutdanning kan trene i utøvelse av tjenesten under overvåking av en praksisinstruktør.
+4. *Enhetsspesifikk autorisasjon:* En tillatelse utstedt av yter av lufttrafikktjeneste til å utøve nærmere angitt tjeneste ved en bestemt enhet eller sektor.
+5. *HFIS (Helicopter Flight Information Service):* Lokal flygeinformasjons- og alarmtjeneste til helikoptre før avgang fra et helikopterdekk og til luftfartøy innenfor en eller flere beskyttelsessoner for helikoptre (HPZ).
+6. *Institusjonell utdanning:* Grunnutdanning som skal gi eleven tilstrekkelige teoretiske kunnskaper og praktiske ferdigheter til å kunne påbegynne enhetstrening.
+7. *Kontrollant*: Person som er kvalifisert for og utnevnt av Luftfartstilsynet til å avholde ferdighetsprøve og ferdighetskontroll med kandidater ved sertifisering/autorisering av luftfartspersonell.
+8. *Lokal flygeinformasjonstjeneste*: En tjeneste med det formål å gi råd og opplysninger av betydning for sikker og effektiv gjennomføring av flyginger på og i nærheten av en landingsplass.
+9. *Overføringstrening*: Med overføringstrening forstås den opplæring og trening som er nødvendig når autorisert personell flytter fra en enhet til en annen eller internt ved en enhet for å oppnå ny autorisasjon.
+10. *Periodisk Faglig Oppdatering (PFO):* Regelmessig vedlikehold og kontroll av lufttrafikktjenestepersonells teoretiske kunnskaper og praktiske ferdigheter.
+11. *Praksisinstruktør (OJTI) (on-the-job training instructor):* Lufttrafikktjenestepersonell som har gyldig autorisasjon til å utøve praktisk opplæring i flygekontrolltjeneste eller flygeinformasjonstjeneste.
 
 ## § 4. Generelt
 
@@ -42,7 +54,12 @@ I denne forskrift gjelder følgende definisjoner og forkortelser:*AFIS (Aerodrom
 
 ## § 5. Grunnleggende krav for utstedelse av autorisasjonsbevis
 
-Før autorisasjonsbevis utstedes må søkeren tilfredsstille følgende grunnkrav:Tilfredsstille de medisinske krav som fremgår av [forskrift 18. juni 2002 nr. 701](forskrift/2002-06-18-701) om medisinske krav for AFIS- og HFIS-fullmektig/operatør (BSL G 2-5),ha vandel godkjent av Luftfartstilsynet, jf. [§ 6](forskrift/2008-12-19-1574/§6),ha språkferdighet i engelsk på minimum nivå 4, jf. [forskrift 25. oktober 2003 nr. 1302](forskrift/2003-10-25-1302) om utdanningsorganisasjoner for flygeinformasjonstjenestepersonell [§ 14a](forskrift/2003-10-25-1302/§14a),være fylt 21 år.
+Før autorisasjonsbevis utstedes må søkeren tilfredsstille følgende grunnkrav:
+
+1. Tilfredsstille de medisinske krav som fremgår av [forskrift 18. juni 2002 nr. 701](forskrift/2002-06-18-701) om medisinske krav for AFIS- og HFIS-fullmektig/operatør (BSL G 2-5),
+2. ha vandel godkjent av Luftfartstilsynet, jf. [§ 6](forskrift/2008-12-19-1574/§6),
+3. ha språkferdighet i engelsk på minimum nivå 4, jf. [forskrift 25. oktober 2003 nr. 1302](forskrift/2003-10-25-1302) om utdanningsorganisasjoner for flygeinformasjonstjenestepersonell [§ 14a](forskrift/2003-10-25-1302/§14a),
+4. være fylt 21 år.
 
 > Endret ved [forskrift 28 feb 2018 nr. 287](forskrift/2018-02-28-287).
 
@@ -62,9 +79,17 @@ For å kunne utføre flygeinformasjonstjeneste må AFIS/HFIS-fullmektigen ha bes
 
 ## § 7. Krav til innehaver av elevbevis, autorisasjonsbevis og enhetsspesifikk autorisasjon
 
-(1) For å kunne utøve tjeneste i henhold til elev-, autorisasjonsbevis eller enhetsspesifikk autorisasjon skal innehaver:til enhver tid inneha gyldig legeattest og underrette enhetens ledelse og Luftfartstilsynet dersom vedkommende ikke lenger er medisinsk skikket til å utøve lokal flygeinformasjonstjeneste,avklare med lege godkjent av Luftfartstilsynet hvorvidt bruk av reseptbelagte medisiner kan påvirke evnen til å utøve lokal flygeinformasjonstjeneste. Dersom bruk av reseptbelagte medisiner etter legens vurdering forhindrer utøvelse av slik tjeneste plikter innehaveren å underrette enhetens ledelse, ogavstå fra operativ tjeneste eller operativ trening dersom det oppstår svekkelse i helsetilstanden som kan innebære at vedkommende er uskikket til å utøve lokal flygeinformasjonstjeneste.
+(1) For å kunne utøve tjeneste i henhold til elev-, autorisasjonsbevis eller enhetsspesifikk autorisasjon skal innehaver:
 
-(2) Innehaver av autorisasjonsbevis og enhetsspesifikk autorisasjon skal i tillegg:gjennomgå godkjente program for regelmessig vedlikehold og kontroll av teoretiske kunnskaper og praktiske ferdigheter (PFO),ved språkferdighet på nivå 4 avlegge ny språktest hvert 3. år og på nivå 5 avlegge ny språktest hvert 6. år. Ved nivå 6 kreves ingen ny språktest,påse at egen kompetanse for øvrig er vedlikeholdt i samsvar med Luftfartstilsynets krav.
+1. til enhver tid inneha gyldig legeattest og underrette enhetens ledelse og Luftfartstilsynet dersom vedkommende ikke lenger er medisinsk skikket til å utøve lokal flygeinformasjonstjeneste,
+2. avklare med lege godkjent av Luftfartstilsynet hvorvidt bruk av reseptbelagte medisiner kan påvirke evnen til å utøve lokal flygeinformasjonstjeneste. Dersom bruk av reseptbelagte medisiner etter legens vurdering forhindrer utøvelse av slik tjeneste plikter innehaveren å underrette enhetens ledelse, og
+3. avstå fra operativ tjeneste eller operativ trening dersom det oppstår svekkelse i helsetilstanden som kan innebære at vedkommende er uskikket til å utøve lokal flygeinformasjonstjeneste.
+
+(2) Innehaver av autorisasjonsbevis og enhetsspesifikk autorisasjon skal i tillegg:
+
+1. gjennomgå godkjente program for regelmessig vedlikehold og kontroll av teoretiske kunnskaper og praktiske ferdigheter (PFO),
+2. ved språkferdighet på nivå 4 avlegge ny språktest hvert 3. år og på nivå 5 avlegge ny språktest hvert 6. år. Ved nivå 6 kreves ingen ny språktest,
+3. påse at egen kompetanse for øvrig er vedlikeholdt i samsvar med Luftfartstilsynets krav.
 
 ## § 8. Krav til institusjonell utdanning
 
@@ -102,7 +127,15 @@ For å kunne utføre flygeinformasjonstjeneste må AFIS/HFIS-fullmektigen ha bes
 
 (1) Ved utstedelse av autorisasjonsbevis skal Luftfartstilsynet påføre den eller de typer tjenester som ble prøvd og bestått i forbindelse med autorisasjonsprøven.
 
-(2) Det kan utstedes autorisasjonsbevis for å utøve følgende typer tjeneste:Lokal flygeinformasjonstjeneste – AFIS.Autorisasjonen inkluderer meteorologisk observasjonstjeneste.Lokal flygeinformasjonstjeneste offshore – HFIS.Autorisasjonen inkluderer meteorologisk observasjonstjeneste.Lokal flygeinformasjonstjeneste basert på overvåkingsinformasjon.
+(2) Det kan utstedes autorisasjonsbevis for å utøve følgende typer tjeneste:
+
+1. Lokal flygeinformasjonstjeneste – AFIS.
+
+   Autorisasjonen inkluderer meteorologisk observasjonstjeneste.
+2. Lokal flygeinformasjonstjeneste offshore – HFIS.
+
+   Autorisasjonen inkluderer meteorologisk observasjonstjeneste.
+3. Lokal flygeinformasjonstjeneste basert på overvåkingsinformasjon.
 
 (3) Autorisasjonen til å yte lokal flygeinformasjonstjeneste basert på overvåkingsinformasjon skal spesifiseres med Radar eller Automatic Dependent Surveillance.
 
@@ -126,7 +159,10 @@ For å kunne utføre flygeinformasjonstjeneste må AFIS/HFIS-fullmektigen ha bes
 
 (2) Praksisinstruktøren er ansvarlig for den tjeneste som utøves.
 
-(3) For å utøve tjeneste som praksisinstruktør må vedkommende:ha vært innehaver av gyldig autorisasjonsbevis for tjenesten i minst to år og ha tjenestegjort ved enheten i minst de siste seks måneder, ogha fullført og bestått treningsprogram for praksisinstruktører godkjent av Luftfartstilsynet.
+(3) For å utøve tjeneste som praksisinstruktør må vedkommende:
+
+1. ha vært innehaver av gyldig autorisasjonsbevis for tjenesten i minst to år og ha tjenestegjort ved enheten i minst de siste seks måneder, og
+2. ha fullført og bestått treningsprogram for praksisinstruktører godkjent av Luftfartstilsynet.
 
 ## § 16. Overføringstrening
 

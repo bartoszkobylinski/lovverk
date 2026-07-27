@@ -38,7 +38,13 @@ Forbud mot kjøring på offentlig veg etter [§ 1](forskrift/2001-12-14-1411/§1
 
 ## § 4.
 
-Uten hinder av forbudet i [§ 1](forskrift/2001-12-14-1411/§1) er bruk av beltemotorsykkel på offentlig veg tillatt i sammenheng medpoliti-, ambulanse-, brann-, rednings-, helse- og veterinærtjeneste,kjøring som nødvendig del av reindrift, husdyrbruk eller skogbruk,post- og teletjeneste,forsvarets øvelser, forflytninger og transporter, ogoffentlig oppsyns-, tilsyns- og servicetjeneste eller tilsvarende private tjenester som utføres på vegne av offentlig myndighet.
+Uten hinder av forbudet i [§ 1](forskrift/2001-12-14-1411/§1) er bruk av beltemotorsykkel på offentlig veg tillatt i sammenheng med
+
+1. politi-, ambulanse-, brann-, rednings-, helse- og veterinærtjeneste,
+2. kjøring som nødvendig del av reindrift, husdyrbruk eller skogbruk,
+3. post- og teletjeneste,
+4. forsvarets øvelser, forflytninger og transporter, og
+5. offentlig oppsyns-, tilsyns- og servicetjeneste eller tilsvarende private tjenester som utføres på vegne av offentlig myndighet.
 
 ## § 5.
 
@@ -56,4 +62,12 @@ Når det er nødvendig eller til vesentlig lette i tjenesten kan det som er fast
 
 Denne forskrift trer i kraft 1. juli 2002.
 
-Samtidig blir følgende forskrifter opphevet:[Forskrift av 30. november 1984 nr. 1955](forskrift/1984-11-30-1955) om bruk av beltemotorsykkel (snøscooter) på offentlig veg[Forskrift av 30. januar 1995 nr. 142](forskrift/1995-01-30-142) om bruk av beltemotorsykkel (snøscooter) på offentlige veger, Buskerud[Forskrift av 28. august 1996 nr. 876](forskrift/1996-08-28-876) om bruk av beltemotorsykkel (snøscooter) på offentlige veger, Troms[Forskrift av 17. september 1992 nr. 722](forskrift/1992-09-17-722) om bruk av beltemotorsykkel (snøscooter) på visse offentlige veger, Nordland[Forskrift av 3. januar 1986 nr. 53](forskrift/1986-01-03-53) om forbud mot kjøring med beltemotorsykkel (snøscooter) på visse offentlige veier i Sør-Trøndelag[Forskrift av 11. desember 1985 nr. 2179](forskrift/1985-12-11-2179) om forbud mot kjøring med beltemotorsykkel (snøscooter) på visse veger i Nord-Trøndelag[Forskrift av 5. desember 1984 nr. 2079](forskrift/1984-12-05-2079) om forbud mot kjøring med beltemotorsykkel (snøscooter) på visse offentlige veger i Finnmark.
+Samtidig blir følgende forskrifter opphevet:
+
+- [Forskrift av 30. november 1984 nr. 1955](forskrift/1984-11-30-1955) om bruk av beltemotorsykkel (snøscooter) på offentlig veg
+- [Forskrift av 30. januar 1995 nr. 142](forskrift/1995-01-30-142) om bruk av beltemotorsykkel (snøscooter) på offentlige veger, Buskerud
+- [Forskrift av 28. august 1996 nr. 876](forskrift/1996-08-28-876) om bruk av beltemotorsykkel (snøscooter) på offentlige veger, Troms
+- [Forskrift av 17. september 1992 nr. 722](forskrift/1992-09-17-722) om bruk av beltemotorsykkel (snøscooter) på visse offentlige veger, Nordland
+- [Forskrift av 3. januar 1986 nr. 53](forskrift/1986-01-03-53) om forbud mot kjøring med beltemotorsykkel (snøscooter) på visse offentlige veier i Sør-Trøndelag
+- [Forskrift av 11. desember 1985 nr. 2179](forskrift/1985-12-11-2179) om forbud mot kjøring med beltemotorsykkel (snøscooter) på visse veger i Nord-Trøndelag
+- [Forskrift av 5. desember 1984 nr. 2079](forskrift/1984-12-05-2079) om forbud mot kjøring med beltemotorsykkel (snøscooter) på visse offentlige veger i Finnmark.

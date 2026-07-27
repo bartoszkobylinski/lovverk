@@ -15,7 +15,7 @@ xml_hash: "d65ae08ac27163df4829fbaa2fd417664ed3185360a123a11bd34b8b81ea6f73"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,20 @@ Forskriften gjelder ikke sporvei, tunnelbane, godsbane, museumsbane og lignende 
 
 ### § 1-2. Definisjoner
 
-I denne forskriften menes med*samtrafikkevne:* et jernbanesystems evne til å muliggjøre sikker og kontinuerlig trafikk av tog som oppviser de påkrevde nivåene for yteevne*delsystemer:* de strukturelle eller funksjonelle delene det felles europeiske jernbanesystemet, som angitt i vedlegg II i [samtrafikkforskriften](forskrift/2021-09-09-2742)*samtrafikkomponent:* enhver enkeltstående komponent, gruppe av komponenter, underenhet eller fullstendig enhet av utstyr som inngår i eller er bestemt til å inngå i et delsystem, og som samtrafikkevnen til jernbanesystemet direkte eller indirekte er avhengig av, inkludert både materielle og immaterielle produkter*produkt:* et produkt framstilt ved en produksjonsprosess, inkludert samtrafikkomponenter og delsystemer*grunnleggende krav:* alle vilkår fastsatt i vedlegg III til [samtrafikkforskriften](forskrift/2021-09-09-2742) som må oppfylles av det felles europeiske jernbanesystemet, delsystemene og samtrafikkomponentene, inkludert grensesnitt*teknisk spesifikasjon for samtrafikkevne (TSI):* en spesifikasjon vedtatt i samsvar med direktiv [(EU) 2016/797](eu/32016l0797) som hvert delsystem eller del av et delsystem skal omfattes av for å oppfylle de grunnleggende kravene og sikre samtrafikkevnen i jernbanesystemet*harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Kommisjonen med henblikk på gjennomføring av Unionens harmoniseringsregelverk*nasjonale regler:* alle bindende regler vedtatt i en medlemsstat, uavhengig av hvilket organ som utsteder dem, som inneholder andre krav til jernbanesikkerhet eller tekniske krav enn dem som er fastsatt i EU-regelverket eller internasjonale regler som gjelder i den aktuelle medlemsstaten for jernbanevirksomhetene eller tredjemenn*akkreditering:* en attestering fra et nasjonalt akkrediteringsorgan om at et samsvarsvurderingsorgan oppfyller kravene fastsatt i harmoniserte standarder og, der det er relevant, eventuelle tilleggskrav, inkludert dem som er fastsatt i relevante sektorordninger, til å utøve en bestemt samsvarsvurderingsvirksomhet*nasjonalt akkrediteringsorgan:* det eneste organ i en medlemsstat som utfører akkreditering på oppdrag fra staten*samsvarsvurdering:* en prosess for å fastslå om nærmere angitte krav til et produkt, en prosess, en tjeneste, et delsystem, en person eller et organ er oppfylt*samsvarsvurderingsorgan:* et organ som er meldt eller utpekt til å være ansvarlig for samsvarsvurderingsvirksomhet, inkludert kalibrering, prøving, sertifisering og inspeksjon; et samsvarsvurderingsorgan klassifiseres som «meldt organ» etter melding fra en medlemsstat; et samsvarsvurderingsorgan klassifiseres som «utpekt organ» etter utpeking av en medlemsstat.
+I denne forskriften menes med
+
+1. *samtrafikkevne:* et jernbanesystems evne til å muliggjøre sikker og kontinuerlig trafikk av tog som oppviser de påkrevde nivåene for yteevne
+2. *delsystemer:* de strukturelle eller funksjonelle delene det felles europeiske jernbanesystemet, som angitt i vedlegg II i [samtrafikkforskriften](forskrift/2021-09-09-2742)
+3. *samtrafikkomponent:* enhver enkeltstående komponent, gruppe av komponenter, underenhet eller fullstendig enhet av utstyr som inngår i eller er bestemt til å inngå i et delsystem, og som samtrafikkevnen til jernbanesystemet direkte eller indirekte er avhengig av, inkludert både materielle og immaterielle produkter
+4. *produkt:* et produkt framstilt ved en produksjonsprosess, inkludert samtrafikkomponenter og delsystemer
+5. *grunnleggende krav:* alle vilkår fastsatt i vedlegg III til [samtrafikkforskriften](forskrift/2021-09-09-2742) som må oppfylles av det felles europeiske jernbanesystemet, delsystemene og samtrafikkomponentene, inkludert grensesnitt
+6. *teknisk spesifikasjon for samtrafikkevne (TSI):* en spesifikasjon vedtatt i samsvar med direktiv [(EU) 2016/797](eu/32016l0797) som hvert delsystem eller del av et delsystem skal omfattes av for å oppfylle de grunnleggende kravene og sikre samtrafikkevnen i jernbanesystemet
+7. *harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Kommisjonen med henblikk på gjennomføring av Unionens harmoniseringsregelverk
+8. *nasjonale regler:* alle bindende regler vedtatt i en medlemsstat, uavhengig av hvilket organ som utsteder dem, som inneholder andre krav til jernbanesikkerhet eller tekniske krav enn dem som er fastsatt i EU-regelverket eller internasjonale regler som gjelder i den aktuelle medlemsstaten for jernbanevirksomhetene eller tredjemenn
+9. *akkreditering:* en attestering fra et nasjonalt akkrediteringsorgan om at et samsvarsvurderingsorgan oppfyller kravene fastsatt i harmoniserte standarder og, der det er relevant, eventuelle tilleggskrav, inkludert dem som er fastsatt i relevante sektorordninger, til å utøve en bestemt samsvarsvurderingsvirksomhet
+10. *nasjonalt akkrediteringsorgan:* det eneste organ i en medlemsstat som utfører akkreditering på oppdrag fra staten
+11. *samsvarsvurdering:* en prosess for å fastslå om nærmere angitte krav til et produkt, en prosess, en tjeneste, et delsystem, en person eller et organ er oppfylt
+12. *samsvarsvurderingsorgan:* et organ som er meldt eller utpekt til å være ansvarlig for samsvarsvurderingsvirksomhet, inkludert kalibrering, prøving, sertifisering og inspeksjon; et samsvarsvurderingsorgan klassifiseres som «meldt organ» etter melding fra en medlemsstat; et samsvarsvurderingsorgan klassifiseres som «utpekt organ» etter utpeking av en medlemsstat.
 
 ### § 1-3. Meldermyndighet
 
@@ -50,7 +63,14 @@ Statens jernbanetilsyn skal sørge for at de organene de har meldt, enten direkt
 
 ### § 1-4. Krav til meldermyndighet
 
-Meldermyndighet skalvære opprettet på en slik måte at det ikke oppstår interessekonflikt med samsvarsvurderingsorganer,være organisert og drives på en slik måte at dens virksomhet er objektiv og upartisk,være organisert på en slik måte at alle beslutninger knyttet til utpeking av et samsvarsvurderingsorgan blir truffet av andre kvalifiserte personer enn dem som har utført vurderingen,ikke tilby eller utøve noen virksomhet som samsvarsorganer utfører, eller yte rådgivningstjenester på kommersielt eller konkurransemessig grunnlag,sikre at opplysninger den innhenter behandles fortrolig,ha tilstrekkelig med kvalifisert personell til rådighet for å kunne utføre sine oppgaver på en tilfredsstillende måte.
+Meldermyndighet skal
+
+1. være opprettet på en slik måte at det ikke oppstår interessekonflikt med samsvarsvurderingsorganer,
+2. være organisert og drives på en slik måte at dens virksomhet er objektiv og upartisk,
+3. være organisert på en slik måte at alle beslutninger knyttet til utpeking av et samsvarsvurderingsorgan blir truffet av andre kvalifiserte personer enn dem som har utført vurderingen,
+4. ikke tilby eller utøve noen virksomhet som samsvarsorganer utfører, eller yte rådgivningstjenester på kommersielt eller konkurransemessig grunnlag,
+5. sikre at opplysninger den innhenter behandles fortrolig,
+6. ha tilstrekkelig med kvalifisert personell til rådighet for å kunne utføre sine oppgaver på en tilfredsstillende måte.
 
 ## Kapittel II. Samsvarsvurderingsorgan
 
@@ -62,7 +82,12 @@ Samsvarsvurderingsorganer skal opprettes i henhold til [lov 16. juni 1994 nr. 20
 
 Et samsvarsvurderingsorgan skal kunne utføre alle oppgaver som det er tillagt i samsvar med de tekniske spesifikasjonene for samtrafikkevne (TSI) som det er utpekt for, uansett om disse oppgavene utføres av organet selv eller på dets vegne og ansvar.
 
-Samsvarsvurderingsorgan skal til enhver tid hanødvendig personell med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingene,nødvendige framgangsmåter for å utføre samsvarsvurderingene, som tar hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks teknologien i det aktuelle produktet er, og produksjonsprosessens masse- eller seriepreg,dokumentasjon på framgangsmåtene for samsvarsvurderingene, som sikrer åpenhet og evne til å gjennomføre disse, ogen egnet metode for å skille mellom de oppgavene det utfører som et meldt organ og annen virksomhet.
+Samsvarsvurderingsorgan skal til enhver tid ha
+
+1. nødvendig personell med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingene,
+2. nødvendige framgangsmåter for å utføre samsvarsvurderingene, som tar hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks teknologien i det aktuelle produktet er, og produksjonsprosessens masse- eller seriepreg,
+3. dokumentasjon på framgangsmåtene for samsvarsvurderingene, som sikrer åpenhet og evne til å gjennomføre disse, og
+4. en egnet metode for å skille mellom de oppgavene det utfører som et meldt organ og annen virksomhet.
 
 Samsvarsvurderingsorgan skal ha nødvendige midler til å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingen, og tilgang til alt nødvendig utstyr eller alle nødvendige anlegg.
 
@@ -92,7 +117,12 @@ Godtgjøringen til et samsvarsvurderingsorgans øverste ledelse og til vurdering
 
 ### § 2-3. Personalet hos samsvarsvurderingsorgan
 
-Personalet med ansvar for å utføre samsvarsvurderinger skal ha følgende kvalifikasjoner:solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som samsvarsvurderingsorganet er utpekt for,tilfredsstillende kunnskap om de kravene som gjelder for vurderingene de utfører, og den nødvendige myndigheten til å utføre disse vurderingene,tilfredsstillende kunnskap om og forståelse av de grunnleggende kravene, de gjeldende harmoniserte standardene og de relevante bestemmelsene i EØS-regelverket,kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+Personalet med ansvar for å utføre samsvarsvurderinger skal ha følgende kvalifikasjoner:
+
+1. solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som samsvarsvurderingsorganet er utpekt for,
+2. tilfredsstillende kunnskap om de kravene som gjelder for vurderingene de utfører, og den nødvendige myndigheten til å utføre disse vurderingene,
+3. tilfredsstillende kunnskap om og forståelse av de grunnleggende kravene, de gjeldende harmoniserte standardene og de relevante bestemmelsene i EØS-regelverket,
+4. kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
 
 > Endret ved forskrift [16 juni 2025 nr. 1063](forskrift/2025-06-16-1063) (i kraft 1 juli 2025).
 
@@ -108,7 +138,12 @@ Et samsvarsvurderingsorgan skal antas å oppfylle kravene i [§ 2-1](forskrift/2
 
 En virksomhet som er etablert eller opprettet i Norge kan søke Statens jernbanetilsyn om å bli godkjent som meldt organ.
 
-Søknad om å bli godkjent som meldt organ skal inneholde en beskrivelse avsamsvarsvurderingsvirksomheten,samsvarsvurderingsmodulene,produktene som organet søker for, ogakkrediteringsbevis utstedt av Norsk akkreditering der det bekreftes at samsvarsvurderingsorganet oppfyller kravene fastsatt i relevante harmoniserte standarder.
+Søknad om å bli godkjent som meldt organ skal inneholde en beskrivelse av
+
+1. samsvarsvurderingsvirksomheten,
+2. samsvarsvurderingsmodulene,
+3. produktene som organet søker for, og
+4. akkrediteringsbevis utstedt av Norsk akkreditering der det bekreftes at samsvarsvurderingsorganet oppfyller kravene fastsatt i relevante harmoniserte standarder.
 
 ### § 3-2. Framgangsmåte for melding
 
@@ -136,7 +171,10 @@ Dersom en godkjenning begrenses, midlertidig oppheves eller trekkes tilbake, ell
 
 ### § 4-1. Når meldte organer bruker datterforetak og underleverandører
 
-Dersom et meldt organ overlater bestemte oppgaver i forbindelse med samsvarsvurderingen til en underleverandør eller et datterforetak, skal detsikre at underleverandøren eller datterforetaket oppfyller kravene i § 2-1 til § 2-3 og informere Statens jernbanetilsyn om dettepåta seg det fulle ansvaret for de oppgavene som blir utført.
+Dersom et meldt organ overlater bestemte oppgaver i forbindelse med samsvarsvurderingen til en underleverandør eller et datterforetak, skal det
+
+1. sikre at underleverandøren eller datterforetaket oppfyller kravene i § 2-1 til § 2-3 og informere Statens jernbanetilsyn om dette
+2. påta seg det fulle ansvaret for de oppgavene som blir utført.
 
 Kunden må gi sitt samtykke før et meldt organ kan overlate bestemte oppgaver til en underleverandør eller et datterforetak.
 
@@ -168,7 +206,12 @@ Dersom produsenten ikke treffer egnede tiltak, eller dersom de ikke har den øns
 
 ### § 4-4. Meldte organers forpliktelse til å gi opplysninger
 
-De meldte organene skal informere Statens jernbanetilsyn om:alle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbake,alle omstendigheter som påvirker omfanget av og vilkårene for utpeking,alle anmodninger de har mottatt fra markedstilsynsmyndighetene knyttet til opplysninger om samsvarsvurderingsvirksomhet,dersom Statens jernbanetilsyn ber om det, hvilken samsvarsvurderingsvirksomhet de har utøvd innenfor det området de er utpekt for, i tillegg til all annen virksomhet de har utøvd, inkludert virksomhet og underleveranser over landegrensene.
+De meldte organene skal informere Statens jernbanetilsyn om:
+
+1. alle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbake,
+2. alle omstendigheter som påvirker omfanget av og vilkårene for utpeking,
+3. alle anmodninger de har mottatt fra markedstilsynsmyndighetene knyttet til opplysninger om samsvarsvurderingsvirksomhet,
+4. dersom Statens jernbanetilsyn ber om det, hvilken samsvarsvurderingsvirksomhet de har utøvd innenfor det området de er utpekt for, i tillegg til all annen virksomhet de har utøvd, inkludert virksomhet og underleveranser over landegrensene.
 
 Andre berørte nasjonale sikkerhetsmyndigheter skal også underrettes om alle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbake i henhold til første ledd bokstav a.
 
@@ -186,7 +229,12 @@ Kommisjonen oppretter en sektorgruppe av meldte organer som sikrer egnet samordn
 
 Søkeren kan bruke et akkreditert internt organ til samsvarsvurderingsvirksomhet der målet er å gjennomføre framgangsmåtene fastsatt i modul A1, A2, C1 eller C2 angitt i vedlegg II til beslutning nr. [768/2008/EF](eu/32008d0768), og modul CA1 og CA2 angitt i vedlegg I til beslutning [2010/713/EU](eu/32010d0713) i [forskrift om framgangsmåter for vurdering av samsvar, bruksegnethet og EF-verifisering (forskrift om vurdering av EF-verifisering mv)](forskrift/2011-10-04-994). Et slikt organ skal utgjøre en atskilt og egen del av den aktuelle søkeren og ikke delta i konstruksjon, produksjon, levering, installering, bruk eller vedlikehold av de produktene det vurderer.
 
-Et akkreditert internt organ skal oppfylle følgende krav:Det skal være akkreditert i samsvar med [EØS-vareloven](lov/2013-04-12-13).Organet og dets personale skal være organisatorisk atskilt fra foretaket som de utgjør en del av, ha rapporteringsmetoder som sikrer at de er upartiske, og dokumentere dette overfor Norsk Akkreditering.Verken organet eller dets personale skal ha ansvar for konstruksjon, produksjon, levering, installering, drift eller vedlikehold av de produktene som de vurderer, og de skal heller ikke delta i virksomhet som kan være i strid med deres uavhengighet eller integritet i forbindelse med vurderingsvirksomheten.Organet skal yte sine tjenester bare overfor det foretaket som det utgjør en del av.
+Et akkreditert internt organ skal oppfylle følgende krav:
+
+1. Det skal være akkreditert i samsvar med [EØS-vareloven](lov/2013-04-12-13).
+2. Organet og dets personale skal være organisatorisk atskilt fra foretaket som de utgjør en del av, ha rapporteringsmetoder som sikrer at de er upartiske, og dokumentere dette overfor Norsk Akkreditering.
+3. Verken organet eller dets personale skal ha ansvar for konstruksjon, produksjon, levering, installering, drift eller vedlikehold av de produktene som de vurderer, og de skal heller ikke delta i virksomhet som kan være i strid med deres uavhengighet eller integritet i forbindelse med vurderingsvirksomheten.
+4. Organet skal yte sine tjenester bare overfor det foretaket som det utgjør en del av.
 
 Et akkreditert internt organ skal ikke meldes til medlemsstatene eller ESA, men foretaket som det er en del av, eller Norsk akkreditering, skal gi informasjon om organets akkreditering til Statens jernbanetilsyn dersom tilsynet ber om det.
 
@@ -198,7 +246,10 @@ Et akkreditert internt organ skal ikke meldes til medlemsstatene eller ESA, men 
 
 Statens jernbanetilsyn skal utpeke de organene som skal gjennomføre verifisering etter nasjonale regler. Et meldt organ kan være utpekt organ. I slike tilfeller kan hele verifiseringsprosessen utføres av ett enkelt samsvarsvurderingsorgan.
 
-Kravene til samsvarsvurderingsorganer fastsatt i [§ 2-1](forskrift/2021-09-08-2705/§2-1) til [§ 2-3](forskrift/2021-09-08-2705/§2-3) og [§ 4-1](forskrift/2021-09-08-2705/§4-1), gjelder også utpekte organer, med de unntak at[§ 2-3 bokstav c](forskrift/2021-09-08-2705/§2-3/bokstav/c) skal gjelde slik at personalet skal ha tilstrekkelig kunnskap om og forståelse av nasjonal rett, og[§ 4-1 tredje ledd](forskrift/2021-09-08-2705/§4-1/ledd/3) skal gjelde slik at det utpekte organet skal kunne gi Statens jernbanetilsyn tilgang til dokumenter om vurderingen av underleverandørens eller datterforetakets kvalifikasjoner og det arbeidet som de har utført i samsvar med de relevante nasjonale reglene.
+Kravene til samsvarsvurderingsorganer fastsatt i [§ 2-1](forskrift/2021-09-08-2705/§2-1) til [§ 2-3](forskrift/2021-09-08-2705/§2-3) og [§ 4-1](forskrift/2021-09-08-2705/§4-1), gjelder også utpekte organer, med de unntak at
+
+1. [§ 2-3 bokstav c](forskrift/2021-09-08-2705/§2-3/bokstav/c) skal gjelde slik at personalet skal ha tilstrekkelig kunnskap om og forståelse av nasjonal rett, og
+2. [§ 4-1 tredje ledd](forskrift/2021-09-08-2705/§4-1/ledd/3) skal gjelde slik at det utpekte organet skal kunne gi Statens jernbanetilsyn tilgang til dokumenter om vurderingen av underleverandørens eller datterforetakets kvalifikasjoner og det arbeidet som de har utført i samsvar med de relevante nasjonale reglene.
 
 Formodningen om samsvar for samsvarsvurderingsorganer etter [§ 2-4](forskrift/2021-09-08-2705/§2-4), gjelder også utpekte organer.
 

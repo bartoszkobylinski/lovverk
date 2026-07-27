@@ -15,7 +15,7 @@ xml_hash: "dd282cf058d0036d5cb50e68901f364821f30165440424d4e2251c4b00ed0243"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,12 @@ Doktorgradsutdanningens viktigste komponent er et selvstendig kunstnerisk utvikl
 
 ### § 3-2
 
-Den kunstneriske doktorgraden tildeles på grunnlag avgodkjent kunstnerisk resultat, jf. [§ 11-1](forskrift/2024-06-06-1106/§11-1)godkjent refleksjonsdel, jf. [§ 11-1](forskrift/2024-06-06-1106/§11-1)godkjent gjennomføring av opplæringsdelen, eventuelt annen godkjent faglig skolering eller kompetansegodkjent offentlig forsvar av det kunstneriske doktorgradsresultatet (disputas).
+Den kunstneriske doktorgraden tildeles på grunnlag av
+
+- godkjent kunstnerisk resultat, jf. [§ 11-1](forskrift/2024-06-06-1106/§11-1)
+- godkjent refleksjonsdel, jf. [§ 11-1](forskrift/2024-06-06-1106/§11-1)
+- godkjent gjennomføring av opplæringsdelen, eventuelt annen godkjent faglig skolering eller kompetanse
+- godkjent offentlig forsvar av det kunstneriske doktorgradsresultatet (disputas).
 
 ### § 4. Ansvaret for doktorgradsutdanningen
 
@@ -78,7 +83,22 @@ NMH kan etter særskilt vurdering godkjenne annen likeverdig utdanning som grunn
 
 NMH kan stille ytterligere krav til kvalifikasjoner etter kriterier som er åpent tilgjengelige og i tråd med institusjonens rekrutteringspolitikk og faglige profil.
 
-Søknaden skal inneholde:Tilfredsstillende utfylt søknadsskjema.Dokumentasjon av den utdanning og de kvalifikasjoner som skal ligge til grunn for opptaket.Prosjektbeskrivelse som omfatterfaglig redegjørelse for prosjektetfremdriftsplanfinansieringsplandokumentasjon av spesielle behov for faglige og materielle ressursereventuelle planer for opphold ved annen institusjonlan for formidling av resultateropplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.Plan for opplæringsdelen.Forslag på minst én veileder, samt angivelse av tilknytning til aktivt miljø for kunstnerisk utviklingsarbeid.Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser, og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig legges ved søknaden.
+Søknaden skal inneholde:
+
+- Tilfredsstillende utfylt søknadsskjema.
+- Dokumentasjon av den utdanning og de kvalifikasjoner som skal ligge til grunn for opptaket.
+- Prosjektbeskrivelse som omfatter
+
+  - faglig redegjørelse for prosjektet
+  - fremdriftsplan
+  - finansieringsplan
+  - dokumentasjon av spesielle behov for faglige og materielle ressurser
+  - eventuelle planer for opphold ved annen institusjon
+  - lan for formidling av resultater
+  - opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
+- Plan for opplæringsdelen.
+- Forslag på minst én veileder, samt angivelse av tilknytning til aktivt miljø for kunstnerisk utviklingsarbeid.
+- Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser, og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig legges ved søknaden.
 
 Programutvalget fastsetter søknadsskjema og retningslinjer for søknad og prosjektbeskrivelse, og kan fastsette krav til ytterligere dokumentasjon.
 
@@ -114,7 +134,12 @@ Dersom opptaket er knyttet til utlysning av stipendiatstillinger, skal ansettels
 
 I vedtak om opptak/tilsetting som stipendiat skal avtaleperioden fastsettes med startdato og sluttdato. Startdato settes lik startdato for finansiering/tilsetting i stipendiatstilling.
 
-Opptak skal nektes omavtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av det kunstneriske doktorgradsresultatet,de immaterialrettslige avtaler som er inngått er så urimelige at NMH ikke bør medvirke i prosjektet,søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp i programmet, jf. [§ 6-1](forskrift/2024-06-06-1106/§6-1),søker har forpliktelser som er til hinder for normert progresjon.
+Opptak skal nektes om
+
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av det kunstneriske doktorgradsresultatet,
+- de immaterialrettslige avtaler som er inngått er så urimelige at NMH ikke bør medvirke i prosjektet,
+- søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp i programmet, jf. [§ 6-1](forskrift/2024-06-06-1106/§6-1),
+- søker har forpliktelser som er til hinder for normert progresjon.
 
 ### § 7. Doktorgradsavtalen
 
@@ -150,7 +175,12 @@ Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt el
 
 ### § 7-4. Tvungen avslutning ved forsinkelse eller manglende fremdrift
 
-Når ett eller flere av de følgende vilkårene er oppfylt, kan NMH vedta tvungen avslutning av utdanningen:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 10-1](forskrift/2024-06-06-1106/§10-1).Forsinkelse i fremdriften av prosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre til avtalt tid.Tvungen avslutning etter reglene her kan bare vedtas dersom fremdriftssvikten eller forsinkelsen skyldes forhold som kandidaten selv rår over.
+Når ett eller flere av de følgende vilkårene er oppfylt, kan NMH vedta tvungen avslutning av utdanningen:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 10-1](forskrift/2024-06-06-1106/§10-1).
+- Forsinkelse i fremdriften av prosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre til avtalt tid.
+- Tvungen avslutning etter reglene her kan bare vedtas dersom fremdriftssvikten eller forsinkelsen skyldes forhold som kandidaten selv rår over.
 
 Vedtak etter denne paragrafen fattes av FoU-utvalget. Klager behandles av NMHs klagenemnd.
 
@@ -260,7 +290,11 @@ Normalt skal bare arbeider som er produsert etter opptak i et doktorgradsprogram
 
 Det kunstneriske resultatet skal være et kunstnerisk arbeid på høyt nivå når det gjelder originalitet, uttrykk, koherens og formidling. Det kunstneriske resultatet skal presenteres offentlig, jf. [§ 18](forskrift/2024-06-06-1106/§18).
 
-Den kunstneriske refleksjonen skal dokumenteres i form av innlevert materiale, særskilt når det gjelderplassering og beskrivelse av eget kunstneriske ståsted og arbeid i forhold til det aktuelle fagfeltet, nasjonalt og internasjonaltbidrag til fagutviklingen i feltet, herunder eventuelle faglige nyvinningerprosess, kunstneriske valg bruk av teori og metoder, dialog med ulike nettverk og fagmiljøer m.m.
+Den kunstneriske refleksjonen skal dokumenteres i form av innlevert materiale, særskilt når det gjelder
+
+- plassering og beskrivelse av eget kunstneriske ståsted og arbeid i forhold til det aktuelle fagfeltet, nasjonalt og internasjonalt
+- bidrag til fagutviklingen i feltet, herunder eventuelle faglige nyvinninger
+- prosess, kunstneriske valg bruk av teori og metoder, dialog med ulike nettverk og fagmiljøer m.m.
 
 Kandidaten velger selv medium og form for refleksjonsdelen og for eventuell annen dokumentasjon.
 
@@ -310,7 +344,16 @@ Hovedveileder bør normalt anbefale søknaden.
 
 ### § 13-2. Søknad om bedømmelse av det kunstneriske doktorgradsresultatet
 
-Som vedlegg til søknaden skal følge:Redegjørelse for hva som skal danne grunnlaget for bedømmelsen, herunder plan for hvor, når og på hvilken måte det kunstneriske resultatet skal presenteres offentlig.Redegjørelse for valg av medium, språk og form for refleksjonsdelen og tidspunkt for innlevering, jf. [§ 15-1](forskrift/2024-06-06-1106/§15-1).Redegjørelse for hvordan opplæringsdelen er eller vil bli oppfylt, og for eventuelt annen faglig skolering eller kompetanse.Dokumentasjon av nødvendige tillatelser, jf. [§ 6-1](forskrift/2024-06-06-1106/§6-1).Plan for godkjent dokumentasjon og arkivering i varig format av hele doktorgradsresultatet.Erklæring fra samarbeidspartner der dette er påkrevd, jf. [§ 11-2](forskrift/2024-06-06-1106/§11-2).Erklæring om arbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at arbeidet ikke er levert inn til bedømmelse ved annen institusjon.
+Som vedlegg til søknaden skal følge:
+
+- Redegjørelse for hva som skal danne grunnlaget for bedømmelsen, herunder plan for hvor, når og på hvilken måte det kunstneriske resultatet skal presenteres offentlig.
+- Redegjørelse for valg av medium, språk og form for refleksjonsdelen og tidspunkt for innlevering, jf. [§ 15-1](forskrift/2024-06-06-1106/§15-1).
+- Redegjørelse for hvordan opplæringsdelen er eller vil bli oppfylt, og for eventuelt annen faglig skolering eller kompetanse.
+- Dokumentasjon av nødvendige tillatelser, jf. [§ 6-1](forskrift/2024-06-06-1106/§6-1).
+- Plan for godkjent dokumentasjon og arkivering i varig format av hele doktorgradsresultatet.
+- Erklæring fra samarbeidspartner der dette er påkrevd, jf. [§ 11-2](forskrift/2024-06-06-1106/§11-2).
+- Erklæring om arbeidet leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at arbeidet ikke er levert inn til bedømmelse ved annen institusjon.
 
 Søknaden rettes til NMH senest fem (5) måneder før det planlagte tidspunktet for presentasjon av det kunstneriske resultatet.
 
@@ -322,7 +365,12 @@ Programutvalget behandler søknad om å få det kunstneriske doktorgradsresultat
 
 Når programutvalget har godkjent søknad om å få det kunstneriske doktorgradsresultatet bedømt, oppnevner FoU-utvalget, etter forslag fra programutvalget, en sakkyndig bedømmelseskomité på minst tre medlemmer som skal bedømme doktorgradsresultatet og disputasen. Habilitetsreglene i [forvaltningslovens § 6](lov/1967-02-10/§6) gjelder for komiteens medlemmer.
 
-Bedømmelseskomiteen skal normalt settes sammen slik atbegge kjønn er representertflertallet i bedømmelseskomiteen er eksterne medlemmer, og minst ett av medlemmene er uten tilknytning til NMHminst ett av medlemmene har hovedstilling ved en relevant utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanse innen fagområdet og minst to av medlemmene har relevant kunstnerisk kompetanse på førsteamanuensisnivå.
+Bedømmelseskomiteen skal normalt settes sammen slik at
+
+- begge kjønn er representert
+- flertallet i bedømmelseskomiteen er eksterne medlemmer, og minst ett av medlemmene er uten tilknytning til NMH
+- minst ett av medlemmene har hovedstilling ved en relevant utenlandsk institusjon
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse innen fagområdet og minst to av medlemmene har relevant kunstnerisk kompetanse på førsteamanuensisnivå.
 
 I tillegg skal NMH oppnevne en koordinator/sekretær for komiteens arbeid.
 
@@ -346,7 +394,10 @@ Før bedømmelseskomiteen starter sitt arbeid, skal NMH i møte med komiteen gå
 
 Skjer den offentlige presentasjonen av det kunstneriske resultatet i form av konsert, utstilling, forestilling eller annen tids- og stedsbestemt visning, skal bedømmelseskomiteen normalt være samlet til stede.
 
-Det er to alternativer for levering av materiale som dokumenterer kunstnerisk refleksjon:Dersom kandidaten ønsker at komiteen skal ha innsyn i refleksjonsdelen før presentasjon av det kunstneriske resultat, skal komiteen ha mottatt dette materialet minst fire (4) uker før presentasjonen.Dersom kandidaten ønsker å ferdigstille refleksjonsdelen etter den offentlige presentasjonen av kunstnerisk resultat, skal dette materialet foreligge hos komiteen senest to (2) måneder etter presentasjonen.
+Det er to alternativer for levering av materiale som dokumenterer kunstnerisk refleksjon:
+
+- Dersom kandidaten ønsker at komiteen skal ha innsyn i refleksjonsdelen før presentasjon av det kunstneriske resultat, skal komiteen ha mottatt dette materialet minst fire (4) uker før presentasjonen.
+- Dersom kandidaten ønsker å ferdigstille refleksjonsdelen etter den offentlige presentasjonen av kunstnerisk resultat, skal dette materialet foreligge hos komiteen senest to (2) måneder etter presentasjonen.
 
 ### § 15-2. Utdyping av materiale som formidler refleksjonen i arbeidet
 

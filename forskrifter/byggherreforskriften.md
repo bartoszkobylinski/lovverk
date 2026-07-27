@@ -40,7 +40,24 @@ Dersom byggherren er forbruker, jf. [§ 4](forskrift/2009-08-03-1028/§4) boksta
 
 ### § 4. Definisjoner
 
-I forskriften menes med*bygge- eller anleggsarbeid*oppføring av bygningerinnrednings-, utsmykkings- og installasjonsarbeidmontering og demontering av prefabrikkerte elementerriving, demontering, ombygging og istandsettingsanering og vedlikeholdsarbeid, utenom arbeid som er rutinemessig eller mindre omfattendealminnelig anleggsvirksomhetgraving, sprengning og annet grunnarbeidannet arbeid som utføres i tilknytning til bygge- eller anleggsarbeid.*byggherre:* enhver fysisk eller juridisk person som får utført et bygge- eller anleggsarbeid.*byggherrens representant:* enhver fysisk eller juridisk person som skal utføre konkrete plikter etter denne forskriften på byggherrens vegne, i henhold til skriftlig avtale med byggherren.*forbruker:* en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.*koordinator:* enhver fysisk eller juridisk person som sørger for koordinering av prosjektering eller utførelse på vegne av byggherren.*prosjekterende:* enhver fysisk eller juridisk person som har til oppdrag å tegne, beregne, planlegge eller beskrive hele eller deler av bygget eller anlegget som skal oppføres.*enmannsbedrift:* virksomhet som ikke sysselsetter arbeidstakere.
+I forskriften menes med
+
+1. *bygge- eller anleggsarbeid*
+
+   1. oppføring av bygninger
+   2. innrednings-, utsmykkings- og installasjonsarbeid
+   3. montering og demontering av prefabrikkerte elementer
+   4. riving, demontering, ombygging og istandsetting
+   5. sanering og vedlikeholdsarbeid, utenom arbeid som er rutinemessig eller mindre omfattende
+   6. alminnelig anleggsvirksomhet
+   7. graving, sprengning og annet grunnarbeid
+   8. annet arbeid som utføres i tilknytning til bygge- eller anleggsarbeid.
+2. *byggherre:* enhver fysisk eller juridisk person som får utført et bygge- eller anleggsarbeid.
+3. *byggherrens representant:* enhver fysisk eller juridisk person som skal utføre konkrete plikter etter denne forskriften på byggherrens vegne, i henhold til skriftlig avtale med byggherren.
+4. *forbruker:* en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.
+5. *koordinator:* enhver fysisk eller juridisk person som sørger for koordinering av prosjektering eller utførelse på vegne av byggherren.
+6. *prosjekterende:* enhver fysisk eller juridisk person som har til oppdrag å tegne, beregne, planlegge eller beskrive hele eller deler av bygget eller anlegget som skal oppføres.
+7. *enmannsbedrift:* virksomhet som ikke sysselsetter arbeidstakere.
 
 > Endret ved [forskrift 11 sep 2020 nr. 1755](forskrift/2020-09-11-1755) (i kraft 1 jan 2021).
 
@@ -48,9 +65,20 @@ I forskriften menes med*bygge- eller anleggsarbeid*oppføring av bygningerinnred
 
 ### § 5. Generelle plikter
 
-Byggherren skal gjennom hele prosessensørge for at hensynet til sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplassen blir ivaretattsikre at pliktene som er pålagt de prosjekterende, arbeidsgiverne og enmannsbedriftene i denne forskriften blir gjennomførtsørge for og legge til rette for nødvendig dialog og samhandling mellom prosjekterende, arbeidsgivere og enmannsbedrifter for å sikre at hensynet til arbeidstakernes sikkerhet, helse og arbeidsmiljø blir ivaretatt ved prosjektering og utførelse av bygge- eller anleggsarbeider.
+Byggherren skal gjennom hele prosessen
 
-Byggherren skal under planleggingen og prosjekteringenivareta sikkerhet, helse og arbeidsmiljø ved de arkitektoniske, tekniske eller organisasjonsmessige valg som foretaskartlegge risikoforhold som har betydning for arbeidene som skal utføresvurdere risikoen som er kartlagt etter bokstav b og utarbeide planer med tiltak for å fjerne eller redusere risikoendokumentere kartleggingen, risikovurderingen og planene etter bokstav b og csørge for at det avsettes tilstrekkelig tid til prosjektering og utførelse av de forskjellige arbeidsoperasjonerdokumentere vurderingene som ligger til grunn for den tid som avsettes etter bokstav e.
+1. sørge for at hensynet til sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplassen blir ivaretatt
+2. sikre at pliktene som er pålagt de prosjekterende, arbeidsgiverne og enmannsbedriftene i denne forskriften blir gjennomført
+3. sørge for og legge til rette for nødvendig dialog og samhandling mellom prosjekterende, arbeidsgivere og enmannsbedrifter for å sikre at hensynet til arbeidstakernes sikkerhet, helse og arbeidsmiljø blir ivaretatt ved prosjektering og utførelse av bygge- eller anleggsarbeider.
+
+Byggherren skal under planleggingen og prosjekteringen
+
+1. ivareta sikkerhet, helse og arbeidsmiljø ved de arkitektoniske, tekniske eller organisasjonsmessige valg som foretas
+2. kartlegge risikoforhold som har betydning for arbeidene som skal utføres
+3. vurdere risikoen som er kartlagt etter bokstav b og utarbeide planer med tiltak for å fjerne eller redusere risikoen
+4. dokumentere kartleggingen, risikovurderingen og planene etter bokstav b og c
+5. sørge for at det avsettes tilstrekkelig tid til prosjektering og utførelse av de forskjellige arbeidsoperasjoner
+6. dokumentere vurderingene som ligger til grunn for den tid som avsettes etter bokstav e.
 
 Byggherren skal under utførelsen av arbeidene ivareta hensynet til sikkerhet, helse og arbeidsmiljø ved koordinering og oppfølging av virksomhetenes arbeid på bygge- eller anleggsplassen.
 
@@ -58,7 +86,10 @@ Byggherren skal under utførelsen av arbeidene ivareta hensynet til sikkerhet, h
 
 ### § 6. Risikoforhold mv. som skal inngå i tilbudsgrunnlaget
 
-Byggherren skal innarbeide i tilbudsgrunnlaget:de risikoforholdene som er avdekket under planlegging og prosjektering og som ikke er fjernet, jf. [§ 5](forskrift/2009-08-03-1028/§5) andre ledd bokstav bplaner med tiltak som følger av kartleggingen og risikovurderingen etter [§ 5](forskrift/2009-08-03-1028/§5) andre ledd bokstav c.
+Byggherren skal innarbeide i tilbudsgrunnlaget:
+
+1. de risikoforholdene som er avdekket under planlegging og prosjektering og som ikke er fjernet, jf. [§ 5](forskrift/2009-08-03-1028/§5) andre ledd bokstav b
+2. planer med tiltak som følger av kartleggingen og risikovurderingen etter [§ 5](forskrift/2009-08-03-1028/§5) andre ledd bokstav c.
 
 > Endret ved [forskrift 11 sep 2020 nr. 1755](forskrift/2020-09-11-1755) (i kraft 1 jan 2021).
 
@@ -68,7 +99,10 @@ Byggherren skal før oppstart av arbeidet på bygge- eller anleggsplassen sørge
 
 Byggherren skal sørge for at planen er lett tilgjengelig på bygge- eller anleggsplassen og at den oppdateres fortløpende dersom det oppstår endringer som har betydning for sikkerhet, helse og arbeidsmiljø.
 
-Byggherren skal sørge for at arbeidsgivere og enmannsbedrifter:gjøres kjent med planenfår informasjon når det skjer endringer i planen under prosjektets framdrift som kan ha betydning for arbeidstakernes sikkerhet, helse og arbeidsmiljø.
+Byggherren skal sørge for at arbeidsgivere og enmannsbedrifter:
+
+1. gjøres kjent med planen
+2. får informasjon når det skjer endringer i planen under prosjektets framdrift som kan ha betydning for arbeidstakernes sikkerhet, helse og arbeidsmiljø.
 
 Byggherren skal oppbevare planen i seks måneder etter at bygge- eller anleggsarbeidet er avsluttet.
 
@@ -78,13 +112,47 @@ Byggherren skal oppbevare planen i seks måneder etter at bygge- eller anleggsar
 
 Planen for sikkerhet, helse og arbeidsmiljø skal beskrive hvordan risikoforholdene som følger av byggherrens og de prosjekterendes valg, skal håndteres.
 
-Planen skal bygge på risikovurderinger, tilpasses det aktuelle bygge- eller anleggsarbeidet og inneholdeet organisasjonskart som beskriver rollefordelingen og entrepriseformenen fremdriftsplan som beskriver når og hvor de ulike arbeidsoperasjoner skal utføres, hvor det tas hensyn til koordinering av de forskjellige arbeidsoperasjoneneen beskrivelse av de spesifikke tiltakene som er nødvendige for å redusere fare for liv og helse forbundet med blant annet:arbeid nær installasjoner i grunnenarbeid nær høyspentledninger og elektriske installasjonerarbeid på steder med passerende trafikkarbeid hvor arbeidstakere kan bli utsatt for ras eller synke i gjørmearbeid som innebærer bruk av sprengstoffarbeid i sjakter, underjordisk masseforflytning og arbeid i tunnelerarbeid som innebærer fare for drukningarbeid i senkekasser der luften er komprimertarbeid som innebærer bruk av dykkerutstyrarbeid som innebærer at personer kan bli skadet ved fall eller av fallende gjenstanderarbeid som innebærer riving av bærende konstruksjonerarbeid med montering og demontering av tunge elementerarbeid som innebærer fare for helseskadelig eksponering for støv, gass, støy eller vibrasjonerarbeid som utsetter personer for kjemiske eller biologiske stoffer som kan medføre en belastning for sikkerhet, helse og arbeidsmiljø eller som innebærer et lov- eller forskriftsfestet krav til helsekontrollarbeid med ioniserende stråling som krever at det utpekes kontrollerte eller overvåkede sonerarbeid som innebærer brann- og eksplosjonsfarearbeid som innebærer fare for helseskadelig ergonomiske belastninger.en rutine for behandling av endringer og oppdatering av planen.
+Planen skal bygge på risikovurderinger, tilpasses det aktuelle bygge- eller anleggsarbeidet og inneholde
+
+1. et organisasjonskart som beskriver rollefordelingen og entrepriseformen
+2. en fremdriftsplan som beskriver når og hvor de ulike arbeidsoperasjoner skal utføres, hvor det tas hensyn til koordinering av de forskjellige arbeidsoperasjonene
+3. en beskrivelse av de spesifikke tiltakene som er nødvendige for å redusere fare for liv og helse forbundet med blant annet:
+
+   1. arbeid nær installasjoner i grunnen
+   2. arbeid nær høyspentledninger og elektriske installasjoner
+   3. arbeid på steder med passerende trafikk
+   4. arbeid hvor arbeidstakere kan bli utsatt for ras eller synke i gjørme
+   5. arbeid som innebærer bruk av sprengstoff
+   6. arbeid i sjakter, underjordisk masseforflytning og arbeid i tunneler
+   7. arbeid som innebærer fare for drukning
+   8. arbeid i senkekasser der luften er komprimert
+   9. arbeid som innebærer bruk av dykkerutstyr
+   10. arbeid som innebærer at personer kan bli skadet ved fall eller av fallende gjenstander
+   11. arbeid som innebærer riving av bærende konstruksjoner
+   12. arbeid med montering og demontering av tunge elementer
+   13. arbeid som innebærer fare for helseskadelig eksponering for støv, gass, støy eller vibrasjoner
+   14. arbeid som utsetter personer for kjemiske eller biologiske stoffer som kan medføre en belastning for sikkerhet, helse og arbeidsmiljø eller som innebærer et lov- eller forskriftsfestet krav til helsekontroll
+   15. arbeid med ioniserende stråling som krever at det utpekes kontrollerte eller overvåkede soner
+   16. arbeid som innebærer brann- og eksplosjonsfare
+   17. arbeid som innebærer fare for helseskadelig ergonomiske belastninger.
+4. en rutine for behandling av endringer og oppdatering av planen.
 
 > Endret ved [forskrift 11 sep 2020 nr. 1755](forskrift/2020-09-11-1755) (i kraft 1 jan 2021).
 
 ### § 9. Forebyggende tiltak
 
-Byggherren skal i forbindelse med arbeidet på den enkelte bygge- eller anleggsplassen særlig stille krav omat det treffes nødvendige tiltak for å sikre at uvedkommende ikke får atkomst til bygge- eller anleggsplassenat det tas hensyn til andre virksomheter på eller i nærheten av bygge- eller anleggsplassengod orden og fullt forsvarlige hygieniske forholdsikker atkomst til arbeidsplassene og sikre ferdselsveieravmerking og tilrettelegging av områder for lagring og oppbevaring av forskjellige materialer, særlig når det dreier seg om farlige materialer eller stoffervedlikehold, kontroll før igangsettelse og kontroll av anlegg og utstyr, for å kunne rette opp feil som kan påvirke arbeidstakernes sikkerhet, helse og arbeidsmiljølagring, håndtering og fjerning av avfall og farlige materialerforsvarlige arbeidstidsordningertilfredsstillende personalromforsvarlig innkvartering.
+Byggherren skal i forbindelse med arbeidet på den enkelte bygge- eller anleggsplassen særlig stille krav om
+
+1. at det treffes nødvendige tiltak for å sikre at uvedkommende ikke får atkomst til bygge- eller anleggsplassen
+2. at det tas hensyn til andre virksomheter på eller i nærheten av bygge- eller anleggsplassen
+3. god orden og fullt forsvarlige hygieniske forhold
+4. sikker atkomst til arbeidsplassene og sikre ferdselsveier
+5. avmerking og tilrettelegging av områder for lagring og oppbevaring av forskjellige materialer, særlig når det dreier seg om farlige materialer eller stoffer
+6. vedlikehold, kontroll før igangsettelse og kontroll av anlegg og utstyr, for å kunne rette opp feil som kan påvirke arbeidstakernes sikkerhet, helse og arbeidsmiljø
+7. lagring, håndtering og fjerning av avfall og farlige materialer
+8. forsvarlige arbeidstidsordninger
+9. tilfredsstillende personalrom
+10. forsvarlig innkvartering.
 
 ### § 10. Forhåndsmelding
 
@@ -94,7 +162,20 @@ Dersom byggherren er forbruker skal forhåndsmeldingen sendes inn av den virksom
 
 Byggherren skal sørge for at forhåndsmeldingen er oppdatert. Oppdatert forhåndsmelding skal settes opp synlig på bygge- eller anleggsplassen.
 
-Forhåndsmeldingen skal inneholde følgende opplysninger:dato for oversendelsenbygge- eller anleggsplassens nøyaktige adresseprosjektets artbyggherrens navn, organisasjonsnummer, adresse og telefonnummerbyggherrens representant sitt navn, organisasjonsnummer, adresse og telefonnummerkoordinatorenes navn, organisasjonsnummer, adresse og telefonnummerangivelse av prosjekterende virksomheter og deres organisasjonsnummerangivelse av utførende virksomheter og deres organisasjonsnummerforventet dato for arbeidsstart på bygge- eller anleggsplassenforventet varighet av arbeidet på bygge- eller anleggsplassenforventet største antall arbeidstakere samtidig på bygge- eller anleggsplassenplanlagt antall virksomheter.
+Forhåndsmeldingen skal inneholde følgende opplysninger:
+
+1. dato for oversendelsen
+2. bygge- eller anleggsplassens nøyaktige adresse
+3. prosjektets art
+4. byggherrens navn, organisasjonsnummer, adresse og telefonnummer
+5. byggherrens representant sitt navn, organisasjonsnummer, adresse og telefonnummer
+6. koordinatorenes navn, organisasjonsnummer, adresse og telefonnummer
+7. angivelse av prosjekterende virksomheter og deres organisasjonsnummer
+8. angivelse av utførende virksomheter og deres organisasjonsnummer
+9. forventet dato for arbeidsstart på bygge- eller anleggsplassen
+10. forventet varighet av arbeidet på bygge- eller anleggsplassen
+11. forventet største antall arbeidstakere samtidig på bygge- eller anleggsplassen
+12. planlagt antall virksomheter.
 
 Dersom aktørene som nevnt i fjerde ledd bokstav d til g er en juridisk person, skal det oppgis navn og telefonnummer til en kontaktperson.
 
@@ -138,9 +219,20 @@ Koordineringen og oppfølgingen skal ivareta hensynet til sikkerhet, helse og ar
 
 Koordineringen og oppfølgingen skal sørge for å legge til rette for dialog og samhandling mellom involverte aktører.
 
-Koordineringen og oppfølgingen i prosjekteringsfasen omfatter åsørge for informasjonsdeling mellom de enkelte prosjekterende slik at risiko håndteres helhetligpåse at resultater av kartlegging og risikovurdering med tiltak innarbeides i tilbudsgrunnlag til utførende virksomhetersørge for utarbeidelse av planen for sikkerhet, helse og arbeidsmiljø.
+Koordineringen og oppfølgingen i prosjekteringsfasen omfatter å
 
-Koordineringen og oppfølgingen i utførelsesfasen omfatter åfølge opp de risikoforhold som fremgår av byggherrens plan for sikkerhet, helse og arbeidsmiljøfølge opp at virksomhetene gjennomfører planen for sikkerhet, helse og arbeidsmiljøfølge opp at det utarbeides tidsplaner som sikrer at det avsettes tilstrekkelig tid til utførelse av de forskjellige arbeidsoperasjonersørge for at de enkelte virksomheters arbeid som kan påvirke hverandre med hensyn til sikkerhet, helse og arbeidsmiljø, blir koordinertfølge opp at kravene etter [§ 9](forskrift/2009-08-03-1028/§9) gjennomføressørge for at det føres oversiktslister etter [§ 15](forskrift/2009-08-03-1028/§15).
+1. sørge for informasjonsdeling mellom de enkelte prosjekterende slik at risiko håndteres helhetlig
+2. påse at resultater av kartlegging og risikovurdering med tiltak innarbeides i tilbudsgrunnlag til utførende virksomheter
+3. sørge for utarbeidelse av planen for sikkerhet, helse og arbeidsmiljø.
+
+Koordineringen og oppfølgingen i utførelsesfasen omfatter å
+
+1. følge opp de risikoforhold som fremgår av byggherrens plan for sikkerhet, helse og arbeidsmiljø
+2. følge opp at virksomhetene gjennomfører planen for sikkerhet, helse og arbeidsmiljø
+3. følge opp at det utarbeides tidsplaner som sikrer at det avsettes tilstrekkelig tid til utførelse av de forskjellige arbeidsoperasjoner
+4. sørge for at de enkelte virksomheters arbeid som kan påvirke hverandre med hensyn til sikkerhet, helse og arbeidsmiljø, blir koordinert
+5. følge opp at kravene etter [§ 9](forskrift/2009-08-03-1028/§9) gjennomføres
+6. sørge for at det føres oversiktslister etter [§ 15](forskrift/2009-08-03-1028/§15).
 
 > Endret ved [forskrifter 11 sep 2020 nr. 1755](forskrift/2020-09-11-1755) (i kraft 1 jan 2021), [15 des 2021 nr. 3600](forskrift/2021-12-15-3600) (i kraft 1 jan 2022).
 
@@ -148,7 +240,13 @@ Koordineringen og oppfølgingen i utførelsesfasen omfatter åfølge opp de risi
 
 Byggherren skal som ledd i arbeidet med sikkerhet, helse og arbeidsmiljø føre en oversiktsliste over alle som skal utføre arbeid på bygge- eller anleggsplassen. Oversiktslisten skal føres elektronisk, kontrolleres og oppdateres daglig.
 
-Oversiktslisten skal inneholde følgende opplysninger:navn og adresse på bygge- eller anleggsplassennavn på byggherrennavn på arbeidsgivere eller enmannsbedrifter eller for innleide arbeidstakere navnet på innleievirksomhetenorganisasjonsnummer for registreringspliktige virksomheternavn, fødselsdato, arbeidsgiver og HMS-kortnummer på alle som skal utføre arbeid på bygge- eller anleggsplassen.
+Oversiktslisten skal inneholde følgende opplysninger:
+
+1. navn og adresse på bygge- eller anleggsplassen
+2. navn på byggherren
+3. navn på arbeidsgivere eller enmannsbedrifter eller for innleide arbeidstakere navnet på innleievirksomheten
+4. organisasjonsnummer for registreringspliktige virksomheter
+5. navn, fødselsdato, arbeidsgiver og HMS-kortnummer på alle som skal utføre arbeid på bygge- eller anleggsplassen.
 
 Oversiktslisten skal være tilgjengelig og skal på oppfordring vises til arbeidsgiveren, verneombudet, Arbeidstilsynet og skattemyndighetene. Oversiktslister skal oppbevares i seks måneder etter at bygge- eller anleggsarbeidet er avsluttet.
 

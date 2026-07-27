@@ -44,7 +44,11 @@ Definisjoner i [dyrehelseforskriften](forskrift/2022-04-06-631) og [dyresykdomsb
 
 I infisert sone er det forbudt å holde fugler i anlegg utendørs.
 
-Forbudet gjelder ikke:i anlegg hvor uteområdet består av en innhegning med tett tak og vegger av nett eller annet egnet materiale, slik at fuglene er beskyttet mot direkte og indirekte kontakt med ville fugler.i anlegg med inntil 50 fugler og hvor produkter fra dyrene kun benyttes i egen husholdning, der fuglene har tilgang til et inngjerdet uteareal på mindre enn 40 m2 med tak av finmasket nett.for brevduer som foretar øvelsesflygning i nærområdet sitt i soner for høypatogen aviær influensa.
+Forbudet gjelder ikke:
+
+1. i anlegg hvor uteområdet består av en innhegning med tett tak og vegger av nett eller annet egnet materiale, slik at fuglene er beskyttet mot direkte og indirekte kontakt med ville fugler.
+2. i anlegg med inntil 50 fugler og hvor produkter fra dyrene kun benyttes i egen husholdning, der fuglene har tilgang til et inngjerdet uteareal på mindre enn 40 m2 med tak av finmasket nett.
+3. for brevduer som foretar øvelsesflygning i nærområdet sitt i soner for høypatogen aviær influensa.
 
 Mattilsynet kan, etter søknad, gi unntak fra forbudet på andre vilkår.
 
@@ -96,7 +100,10 @@ Mattilsynet kan gi unntak fra forbudet i første ledd første punktum dersom det
 
 I infisert sone for høypatogen aviær influensa er det forbudt å bruke lokkefugler av ordenene andefugler (Anseriformes) og vade-, måse- og alkefugler (Charadriiformes).
 
-Mattilsynet kan gi unntak fra forbudet dersom det er truffet biosikringstiltak for å forebygge overføring av høypatogene aviære influensavirus og lokkefuglene skal brukesinnenfor rammen av et overvåkningsprogram for aviær influensa, i forskningsprosjekter, ornitologiske undersøkelser eller andre aktiviteter, elleri overensstemmelse med relevante biosikringstiltak og bestemmelser som har til hensikt å forebygge overføring av høypatogene aviære influensavirus til holdte fugler.
+Mattilsynet kan gi unntak fra forbudet dersom det er truffet biosikringstiltak for å forebygge overføring av høypatogene aviære influensavirus og lokkefuglene skal brukes
+
+1. innenfor rammen av et overvåkningsprogram for aviær influensa, i forskningsprosjekter, ornitologiske undersøkelser eller andre aktiviteter, eller
+2. i overensstemmelse med relevante biosikringstiltak og bestemmelser som har til hensikt å forebygge overføring av høypatogene aviære influensavirus til holdte fugler.
 
 > Endret ved forskrifter [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [26 okt 2022 nr. 1792](forskrift/2022-10-26-1792).
 
@@ -110,7 +117,10 @@ I infisert sone for Newcastlesyke er det forbudt å bruke duer til trening av ja
 
 ### § 11. Forbud mot jakt og fangst av fugler og flytting av produkter av disse
 
-Jakt og fangst av alle jaktbare arter av fugl er forbudt i infisert sone for høypatogen aviær influensa. Forbudet gjelder ikke for:jakt og fangst av viltlevende skogshøns, herunder lirype, fjellrype, storfugl, orrfugl og jerpe.uttak av fugl på flyplasser av sikkerhetsmessige årsaker eller skadefelling av fugl i umiddelbar nærhet av anlegg med næringsrettet dyrehold.
+Jakt og fangst av alle jaktbare arter av fugl er forbudt i infisert sone for høypatogen aviær influensa. Forbudet gjelder ikke for:
+
+1. jakt og fangst av viltlevende skogshøns, herunder lirype, fjellrype, storfugl, orrfugl og jerpe.
+2. uttak av fugl på flyplasser av sikkerhetsmessige årsaker eller skadefelling av fugl i umiddelbar nærhet av anlegg med næringsrettet dyrehold.
 
 Det er forbudt å flytte produkter fra viltlevende fugler med opprinnelse fra infisert sone for høypatogen aviær influensa, innenfor og ut av infisert sone for høypatogen aviær influensa. Forbudet gjelder likevel ikke flytting som ledd i overvåkning eller avhending i henhold til [animaliebiproduktforskriften](forskrift/2016-09-14-1064) etter avtale med Mattilsynet.
 
@@ -142,12 +152,16 @@ Denne forskrift trer i kraft straks.
 
 ## Vedlegg 1
 
-Følgende kommuner inngår i infisert sone for høypatogen aviær influensa:Ingen.
+Følgende kommuner inngår i infisert sone for høypatogen aviær influensa:
+
+- Ingen.
 
 > Endret ved forskrifter [29 aug 2022 nr. 1507](forskrift/2022-08-29-1507), [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [21 des 2022 nr. 2378](forskrift/2022-12-21-2378), [31 mai 2023 nr. 762](forskrift/2023-05-31-762), [6 nov 2025 nr. 2215](forskrift/2025-11-06-2215), [30 april 2026 nr. 685](forskrift/2026-04-30-685) (i kraft 1 mai 2026).
 
 ## Vedlegg 2
 
-Følgende kommuner inngår i infisert sone for Newcastlesyke:Ingen.
+Følgende kommuner inngår i infisert sone for Newcastlesyke:
+
+- Ingen.
 
 > Tilføyd ved forskrift [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), endret ved forskrift [21 mars 2023 nr. 378](forskrift/2023-03-21-378).

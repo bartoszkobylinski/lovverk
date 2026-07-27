@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Forbud
 
-Det er forbudt å omsette følgende kosttilskudd:PotensunOrexi+Potensan – Kur for menn.
+Det er forbudt å omsette følgende kosttilskudd:
+
+- Potensun
+- Orexi+
+- Potensan – Kur for menn.
 
 ## § 2. Straff
 

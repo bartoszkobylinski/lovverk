@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Generelt forbud
 
-Det er forbudt for norske fartøy å fiske og lande sei i følgende områder i 2026:I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje gjennom Hanstholmen fyr og Lindesnes fyr, og i EU-sonen og britisk sone i ICES' statistikkområde 4.I Skagerrak, avgrenset mot vest av en rett linje gjennom Hanstholmen fyr til Lindesnes fyr og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor 4 nautiske mil av de svenske og danske grunnlinjene.
+Det er forbudt for norske fartøy å fiske og lande sei i følgende områder i 2026:
+
+1. I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje gjennom Hanstholmen fyr og Lindesnes fyr, og i EU-sonen og britisk sone i ICES' statistikkområde 4.
+2. I Skagerrak, avgrenset mot vest av en rett linje gjennom Hanstholmen fyr til Lindesnes fyr og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor 4 nautiske mil av de svenske og danske grunnlinjene.
 
 ## § 2. Totalkvote
 
@@ -38,7 +41,12 @@ Fartøy med adgang til å fiske sei med not kan fiske og lande inntil 5 500 ton
 
 Fartøy med adgang til å fiske sei med konvensjonelle redskap kan fiske og lande inntil 8 000 tonn.
 
-Fartøy som fisker med trål kan fiske og lande inntil 15 215 tonn, herunder kan:fartøy med torsketråltillatelse fiske og lande inntil 7 457 tonnfartøy med seitråltillatelse fiske og lande inntil 1 941 tonnfartøy med pelagisk tråltillatelse og fartøy med nordsjøtråltillatelse fiske og lande inntil 4 479 tonnfartøy med avgrenset nordsjøtråltillatelse fiske og lande inntil 1 338 tonn.
+Fartøy som fisker med trål kan fiske og lande inntil 15 215 tonn, herunder kan:
+
+1. fartøy med torsketråltillatelse fiske og lande inntil 7 457 tonn
+2. fartøy med seitråltillatelse fiske og lande inntil 1 941 tonn
+3. fartøy med pelagisk tråltillatelse og fartøy med nordsjøtråltillatelse fiske og lande inntil 4 479 tonn
+4. fartøy med avgrenset nordsjøtråltillatelse fiske og lande inntil 1 338 tonn.
 
 ## § 4. Maksimalkvote for fartøy som fisker med konvensjonelle redskap
 

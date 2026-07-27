@@ -15,7 +15,7 @@ xml_hash: "e72f946360e71bf7f3b57f26460913b4a2c65b39fed126dfc1b3eee1a1591c7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,11 @@ Dette kan omfatte å nekte barnet å forlate institusjonen, ha besøk eller bruk
 
 [§ 10-11 første ledd](lov/2021-06-18-97/§10-11/ledd/1) skal lyde:
 
-Barnevernsinstitusjonen kan, dersom det er strengt nødvendig, benytte fysisk makt for å avvergeakutt fare for skade på barnets eller andre personers liv eller helsenært forestående fare for at barnet utsetter eget liv eller egen helse eller andre personers liv eller helse for alvorlig skadeakutt fare for vesentlig skade på eiendom.
+Barnevernsinstitusjonen kan, dersom det er strengt nødvendig, benytte fysisk makt for å avverge
+
+1. akutt fare for skade på barnets eller andre personers liv eller helse
+2. nært forestående fare for at barnet utsetter eget liv eller egen helse eller andre personers liv eller helse for alvorlig skade
+3. akutt fare for vesentlig skade på eiendom.
 
 [§ 10-12](lov/2021-06-18-97/§10-12) skal lyde:
 

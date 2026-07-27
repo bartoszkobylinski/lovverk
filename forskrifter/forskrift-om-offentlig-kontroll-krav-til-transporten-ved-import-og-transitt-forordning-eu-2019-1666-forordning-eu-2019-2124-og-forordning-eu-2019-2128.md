@@ -17,7 +17,7 @@ xml_hash: "3073c5a9c075d54f245ac2e54fe7d111f50af676b303a0c09d8d9774e1210d66"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -170,17 +170,61 @@ Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål og virkeområde
 
-1\. Denne forordning fastsetter følgende:Regler for i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter på en grensekontrollstasjon kan tillate videre transport av forsendelser med følgende kategorier av varer til det endelige bestemmelsesstedet i Unionen i påvente av resultatene av laboratorieanalyser og laboratorieundersøkelser som gjennomføres innenfor rammen av fysisk kontroll nevnt i artikkel 49 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*): Planter, planteprodukter og andre gjenstander oppført på listene opprettet i henhold til artikkel 72 nr. 1 og artikkel 74 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).Planter, planteprodukter og andre gjenstander som omfattes av et beskyttelsestiltak nevnt i artikkel 47 nr. 1 bokstav e) i forordning [(EU) 2017/625](eu/32017r0625*)).
-►**M2**Planter, planteprodukter og andre gjenstander som det vises til i punkt i) og ii), og som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848)\*.\* Europaparlaments- og rådsforordning [(EU) nr. 2018/848](eu/32018r0848) av 30. mai 2018 om økologisk produksjon og merking av økologiske produkter og om oppheving av rådsforordning [(EF) nr. 834/2007](eu/32007r0834) (EUT L 150 av 14.6.2018, s. 1).
-◄**M2**Næringsmidler og fôr av ikke-animalsk opprinnelse som omfattes av tiltak fastsatt i rettsaktene nevnt i artikkel 47 nr. 1 bokstav d), e) og f) i forordning [(EU) 2017/625](eu/32017r0625*).Regler for i hvilke tilfeller og på hvilke vilkår identitetskontroll og fysisk kontroll av dyr som ankommer luftveien eller sjøveien og oppholder seg på samme transportmiddel med henblikk på videre transport, kan gjennomføres på en annen grensekontrollstasjon enn den for første ankomst til Unionen.Særlige regler for offentlig kontroll på grensekontrollstasjoner av forsendelser med dyr som omlastes og følgende kategorier av varer:Produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter.Planter, planteprodukter og andre gjenstander oppført på listene opprettet i henhold til artikkel 72 nr. 1 og artikkel 74 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).Planter, planteprodukter og andre gjenstander som omfattes av et beskyttelsestiltak fastsatt i artiklene i forordning [(EU) 2016/2031](eu/32016r2031) nevnt i artikkel 47 nr. 1 bokstav e) i forordning [(EU) 2017/625](eu/32017r0625*).Næringsmidler og fôr av ikke-animalsk opprinnelse som omfattes av tiltak eller rettsakter nevnt i artikkel 47 nr. 1 bokstav d), e) og f) i forordning [(EU) 2017/625](eu/32017r0625*).Særlige regler for kontroll av forsendelser i transitt av dyr og av følgende kategorier av varer:Produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter.Planter, planteprodukter og andre gjenstander oppført på listene opprettet i henhold til artikkel 72 nr. 1 og artikkel 74 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).Planter, planteprodukter og andre gjenstander som omfattes av et beskyttelsestiltak fastsatt i artikkel 47 nr. 1 bokstav e) i forordning [(EU) 2017/625](eu/32017r0625*)).
+1\. Denne forordning fastsetter følgende:
 
-2\. Denne forordning får anvendelse på virveldyr og virvelløse dyr, med unntak avkjæledyr som definert i artikkel 4 nr. 11 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*)20, ogvirvelløse dyr beregnet på vitenskapelige formål som nevnt i artikkel 3 i delegert kommisjonsforordning [(EU) 2019/2122](eu/32019r2122)21.
+1. Regler for i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter på en grensekontrollstasjon kan tillate videre transport av forsendelser med følgende kategorier av varer til det endelige bestemmelsesstedet i Unionen i påvente av resultatene av laboratorieanalyser og laboratorieundersøkelser som gjennomføres innenfor rammen av fysisk kontroll nevnt i artikkel 49 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*):
 
-20 Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet (EUT L 84 av 31.3.2016, s. 1).21 Delegert kommisjonsforordning [(EU) 2019/2122](eu/32019r2122) av 10. oktober 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til visse kategorier av dyr og varer som er unntatt fra offentlig kontroll på grensekontrollstasjoner, når det gjelder særlig kontroll av passasjerenes personlige bagasje og av små vareforsendelser som sendes til fysiske personer og ikke er beregnet på å bringes i omsetning, og om endring av kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142) (EUT L 321 av 12.12.2019, s. 45).
+   1. Planter, planteprodukter og andre gjenstander oppført på listene opprettet i henhold til artikkel 72 nr. 1 og artikkel 74 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).
+   2. Planter, planteprodukter og andre gjenstander som omfattes av et beskyttelsestiltak nevnt i artikkel 47 nr. 1 bokstav e) i forordning [(EU) 2017/625](eu/32017r0625*)).
+      ►**M2**
+   3. Planter, planteprodukter og andre gjenstander som det vises til i punkt i) og ii), og som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til artikkel 45 nr. 5 i europaparlaments- og rådsforordning [(EU) 2018/848](eu/32018r0848)\*.
+
+      \* Europaparlaments- og rådsforordning [(EU) nr. 2018/848](eu/32018r0848) av 30. mai 2018 om økologisk produksjon og merking av økologiske produkter og om oppheving av rådsforordning [(EF) nr. 834/2007](eu/32007r0834) (EUT L 150 av 14.6.2018, s. 1).
+
+      ◄**M2**
+   4. Næringsmidler og fôr av ikke-animalsk opprinnelse som omfattes av tiltak fastsatt i rettsaktene nevnt i artikkel 47 nr. 1 bokstav d), e) og f) i forordning [(EU) 2017/625](eu/32017r0625*).
+2. Regler for i hvilke tilfeller og på hvilke vilkår identitetskontroll og fysisk kontroll av dyr som ankommer luftveien eller sjøveien og oppholder seg på samme transportmiddel med henblikk på videre transport, kan gjennomføres på en annen grensekontrollstasjon enn den for første ankomst til Unionen.
+3. Særlige regler for offentlig kontroll på grensekontrollstasjoner av forsendelser med dyr som omlastes og følgende kategorier av varer:
+
+   1. Produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter.
+
+   1. Planter, planteprodukter og andre gjenstander oppført på listene opprettet i henhold til artikkel 72 nr. 1 og artikkel 74 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).
+   2. Planter, planteprodukter og andre gjenstander som omfattes av et beskyttelsestiltak fastsatt i artiklene i forordning [(EU) 2016/2031](eu/32016r2031) nevnt i artikkel 47 nr. 1 bokstav e) i forordning [(EU) 2017/625](eu/32017r0625*).
+
+   1. Næringsmidler og fôr av ikke-animalsk opprinnelse som omfattes av tiltak eller rettsakter nevnt i artikkel 47 nr. 1 bokstav d), e) og f) i forordning [(EU) 2017/625](eu/32017r0625*).
+4. Særlige regler for kontroll av forsendelser i transitt av dyr og av følgende kategorier av varer:
+
+   1. Produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter.
+
+   1. Planter, planteprodukter og andre gjenstander oppført på listene opprettet i henhold til artikkel 72 nr. 1 og artikkel 74 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).
+   2. Planter, planteprodukter og andre gjenstander som omfattes av et beskyttelsestiltak fastsatt i artikkel 47 nr. 1 bokstav e) i forordning [(EU) 2017/625](eu/32017r0625*)).
+
+2\. Denne forordning får anvendelse på virveldyr og virvelløse dyr, med unntak av
+
+1. kjæledyr som definert i artikkel 4 nr. 11 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*)20, og
+2. virvelløse dyr beregnet på vitenskapelige formål som nevnt i artikkel 3 i delegert kommisjonsforordning [(EU) 2019/2122](eu/32019r2122)21.
+
+20 Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet (EUT L 84 av 31.3.2016, s. 1).
+
+21 Delegert kommisjonsforordning [(EU) 2019/2122](eu/32019r2122) av 10. oktober 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til visse kategorier av dyr og varer som er unntatt fra offentlig kontroll på grensekontrollstasjoner, når det gjelder særlig kontroll av passasjerenes personlige bagasje og av små vareforsendelser som sendes til fysiske personer og ikke er beregnet på å bringes i omsetning, og om endring av kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142) (EUT L 321 av 12.12.2019, s. 45).
 
 ### Artikkel 2. Definisjoner
 
-I denne forordning menes med«felles innførselsdokument om helse» eller «CHED-dokument» det felles innførselsdokumentet om helse som brukes til å forhåndsmelde forsendelsens ankomst til grensekontrollstasjonen, og til å registrere resultatet av offentlig kontroll som er gjennomført og beslutninger som vedkommende myndigheter har truffet om forsendelsen som det ledsager,«forsendelser som omlastes» forsendelser med dyr eller varer som innføres til Unionen via sjøveien eller luftveien fra en tredjestat, når disse dyrene eller varene forflyttes fra et fartøy eller et luftfartøy og transporteres under tollmyndighetenes tilsyn til et annet fartøy eller luftfartøy i samme havn eller lufthavn med henblikk på videre transport,«lager»et tollager, et lager i en frisone, et midlertidig lagringssted som er godkjent, tillatt eller utpekt i samsvar med henholdsvis artikkel 147 nr. 1, artikkel 240 nr. 1 og artikkel 243 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952*), elleret lager som har spesialisert seg på levere varer til NATOs eller De forente staters militærbaser,«videre transport» forflytning av forsendelser med varer fra en grensekontrollstasjon til deres endelige bestemmelsessted i Unionen i påvente av resultatene av laboratorieanalyser og laboratorieundersøkelser,«anlegg for videre transport» det anlegget på bestemmelsesstedet i Unionen eller på et sted som hører inn under ansvarsområdet til samme vedkommende myndighet som det endelige bestemmelsesstedet, utpekt av bestemmelsesmedlemsstaten til lagring av forsendelser med varer som skal transporteres videre før de frigis for fri omsetning,«informasjonsstyringssystem for offentlig kontroll» eller «IMSOC» informasjonsstyringssystemet for offentlig kontroll nevnt i artikkel 131 i forordning [(EU) 2017/625](eu/32017r0625*),«grensekontrollstasjon for innførsel til Unionen» den grensekontrollstasjonen der dyr og varer framvises for offentlig kontroll og gjennom hvilken de ankommer Unionen for deretter å bringes i omsetning eller sendes i transitt gjennom Unionens territorium, og som kan være grensekontrollstasjonen for første ankomst til Unionen,«EU-regulert ikke-karanteneskadegjører» en skadegjører som oppfyller alle vilkårene oppført i artikkel 36 i forordning [(EU) 2016/2031](eu/32016r2031),«godkjent lager» et lager som er godkjent av vedkommende myndigheter i samsvar med artikkel 23 i denne forordning,«egg som er fri for spesifiserte sykdomsframkallende mikroorganismer» rugeegg som stammer fra kyllingflokker som er fri for spesifiserte sykdomsframkallende mikroorganismer, som beskrevet i Den europeiske farmakopé22, og som utelukkende er beregnet på diagnostikk, forskning eller farmasøytisk bruk.
+I denne forordning menes med
+
+1. «felles innførselsdokument om helse» eller «CHED-dokument» det felles innførselsdokumentet om helse som brukes til å forhåndsmelde forsendelsens ankomst til grensekontrollstasjonen, og til å registrere resultatet av offentlig kontroll som er gjennomført og beslutninger som vedkommende myndigheter har truffet om forsendelsen som det ledsager,
+2. «forsendelser som omlastes» forsendelser med dyr eller varer som innføres til Unionen via sjøveien eller luftveien fra en tredjestat, når disse dyrene eller varene forflyttes fra et fartøy eller et luftfartøy og transporteres under tollmyndighetenes tilsyn til et annet fartøy eller luftfartøy i samme havn eller lufthavn med henblikk på videre transport,
+3. «lager»
+
+   1. et tollager, et lager i en frisone, et midlertidig lagringssted som er godkjent, tillatt eller utpekt i samsvar med henholdsvis artikkel 147 nr. 1, artikkel 240 nr. 1 og artikkel 243 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952*), eller
+   2. et lager som har spesialisert seg på levere varer til NATOs eller De forente staters militærbaser,
+4. «videre transport» forflytning av forsendelser med varer fra en grensekontrollstasjon til deres endelige bestemmelsessted i Unionen i påvente av resultatene av laboratorieanalyser og laboratorieundersøkelser,
+5. «anlegg for videre transport» det anlegget på bestemmelsesstedet i Unionen eller på et sted som hører inn under ansvarsområdet til samme vedkommende myndighet som det endelige bestemmelsesstedet, utpekt av bestemmelsesmedlemsstaten til lagring av forsendelser med varer som skal transporteres videre før de frigis for fri omsetning,
+6. «informasjonsstyringssystem for offentlig kontroll» eller «IMSOC» informasjonsstyringssystemet for offentlig kontroll nevnt i artikkel 131 i forordning [(EU) 2017/625](eu/32017r0625*),
+7. «grensekontrollstasjon for innførsel til Unionen» den grensekontrollstasjonen der dyr og varer framvises for offentlig kontroll og gjennom hvilken de ankommer Unionen for deretter å bringes i omsetning eller sendes i transitt gjennom Unionens territorium, og som kan være grensekontrollstasjonen for første ankomst til Unionen,
+8. «EU-regulert ikke-karanteneskadegjører» en skadegjører som oppfyller alle vilkårene oppført i artikkel 36 i forordning [(EU) 2016/2031](eu/32016r2031),
+9. «godkjent lager» et lager som er godkjent av vedkommende myndigheter i samsvar med artikkel 23 i denne forordning,
+10. «egg som er fri for spesifiserte sykdomsframkallende mikroorganismer» rugeegg som stammer fra kyllingflokker som er fri for spesifiserte sykdomsframkallende mikroorganismer, som beskrevet i Den europeiske farmakopé22, og som utelukkende er beregnet på diagnostikk, forskning eller farmasøytisk bruk.
 
 22 [http://www.edqm.eu](https://www.edqm.eu/) (siste utgave).
 
@@ -202,25 +246,40 @@ Den driftsansvarliges forpliktelser før det kan gis tillatelse til videre trans
 
 Tillatelse til videre transport
 
-Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen kan tillate videre transport av forsendelser med varer nevnt i artikkel 1 nr. 1 bokstav a), forutsatt at følgende vilkår er oppfylt:Resultatet av dokumentkontroller, identitetskontroller og fysiske kontroller som gjennomføres på grensekontrollstasjonen, bortsett fra laboratorieanalyser og laboratorieundersøkelser som gjennomføres innenfor rammen av disse fysiske kontrollene, er tilfredsstillende.Den driftsansvarlige som er ansvarlig for forsendelsen, har anmodet om videre transport som fastsatt i artikkel 3.
+Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen kan tillate videre transport av forsendelser med varer nevnt i artikkel 1 nr. 1 bokstav a), forutsatt at følgende vilkår er oppfylt:
+
+1. Resultatet av dokumentkontroller, identitetskontroller og fysiske kontroller som gjennomføres på grensekontrollstasjonen, bortsett fra laboratorieanalyser og laboratorieundersøkelser som gjennomføres innenfor rammen av disse fysiske kontrollene, er tilfredsstillende.
+2. Den driftsansvarlige som er ansvarlig for forsendelsen, har anmodet om videre transport som fastsatt i artikkel 3.
 
 ###### Artikkel 5
 
 Den driftsansvarliges forpliktelser etter at det er gitt tillatelse til videre transport
 
-Når vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen tillater videre transport av forsendelsene av varer nevnt i artikkel 1 nr. 1 bokstav a), skal den driftsansvarlige som er ansvarlig for forsendelsen,fylle ut del I av et eget CHED-dokument for den samme forsendelsen, som i IMSOC er knyttet til det CHED-dokumentet som er nevnt i artikkel 3, ved å angi i dokumentet transportmiddelet og datoen for forsendelsens ankomst til det valgte anlegget for videre transport,innlevere CHED-dokumentet nevnt i bokstav a) i IMSOC for overføring til vedkommende myndigheter på den grensekontrollstasjonen som har gitt tillatelse til videre transport.
+Når vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen tillater videre transport av forsendelsene av varer nevnt i artikkel 1 nr. 1 bokstav a), skal den driftsansvarlige som er ansvarlig for forsendelsen,
+
+1. fylle ut del I av et eget CHED-dokument for den samme forsendelsen, som i IMSOC er knyttet til det CHED-dokumentet som er nevnt i artikkel 3, ved å angi i dokumentet transportmiddelet og datoen for forsendelsens ankomst til det valgte anlegget for videre transport,
+2. innlevere CHED-dokumentet nevnt i bokstav a) i IMSOC for overføring til vedkommende myndigheter på den grensekontrollstasjonen som har gitt tillatelse til videre transport.
 
 ###### Artikkel 6
 
 Vilkår for transport og lagring av forsendelser som skal transporteres videre
 
-1\. Den driftsansvarlige som er ansvarlig for forsendelsen som har fått tillatelse til videre transport i samsvar med artikkel 4, skal sikreat forsendelsen under transport til og lagring i anlegget for videre transport, ikke endres ulovlig på noen måte,at forsendelsen ikke på noen måte endres, bearbeides eller skiftes ut, eller at emballasjen endres,at forsendelsen ikke forlater anlegget for videre transport i påvente av at vedkommende myndigheter på grensekontrollstasjonen treffer beslutning i samsvar med artikkel 55 i forordning [(EU) 2017/625](eu/32017r0625*).
+1\. Den driftsansvarlige som er ansvarlig for forsendelsen som har fått tillatelse til videre transport i samsvar med artikkel 4, skal sikre
+
+1. at forsendelsen under transport til og lagring i anlegget for videre transport, ikke endres ulovlig på noen måte,
+2. at forsendelsen ikke på noen måte endres, bearbeides eller skiftes ut, eller at emballasjen endres,
+3. at forsendelsen ikke forlater anlegget for videre transport i påvente av at vedkommende myndigheter på grensekontrollstasjonen treffer beslutning i samsvar med artikkel 55 i forordning [(EU) 2017/625](eu/32017r0625*).
 
 2\. Den driftsansvarlige som er ansvarlig for forsendelsen, skal transportere forsendelsen under tollmyndighetenes tilsyn direkte fra grensekontrollstasjonen for innførsel til Unionen til anlegget for videre transport, uten at varene omlastes under transporten, og skal lagre dem i anlegget for videre transport.
 
 ►**M2**
 
-3\. Aktøren som er ansvarlig for forsendelsen, skal sikre at emballasjen eller transportmiddelet for forsendelsen av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav a) i), ii) og iia) er lukket eller forseglet på en slik måte at de under transporten til og lagringen i anlegget for videre transport:◄**M2**ikke fører til angrep på eller smitte til andre planter, planteprodukter eller andre gjenstander av planteskadegjørere oppført på listen over EU-karanteneskadegjørere eller EU-regulerte ikke-karanteneskadegjørere,ikke blir angrepet eller smittet av ikke-karanteneskadegjørere.
+3\. Aktøren som er ansvarlig for forsendelsen, skal sikre at emballasjen eller transportmiddelet for forsendelsen av planter, planteprodukter og andre gjenstander som det vises til i artikkel 1 nr. 1 bokstav a) i), ii) og iia) er lukket eller forseglet på en slik måte at de under transporten til og lagringen i anlegget for videre transport:
+
+◄**M2**
+
+1. ikke fører til angrep på eller smitte til andre planter, planteprodukter eller andre gjenstander av planteskadegjørere oppført på listen over EU-karanteneskadegjørere eller EU-regulerte ikke-karanteneskadegjørere,
+2. ikke blir angrepet eller smittet av ikke-karanteneskadegjørere.
 
 4\. Den driftsansvarlige som er ansvarlig for forsendelsen, skal sikre at en kopi på papir eller i elektronisk form av CHED-dokumentet nevnt i artikkel 3 ledsager forsendelsen fra grensekontrollstasjonen for innførsel til Unionen til anlegget for videre transport.
 
@@ -238,7 +297,11 @@ Handlinger som skal utføres av vedkommende myndigheter på grensekontrollstasjo
 
 3\. Dersom forsendelsen ikke overholder reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), skal vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen treffe tiltak i samsvar med artikkel 66 nr. 3–6 i nevnte forordning.
 
-4\. Dersom vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen ikke har mottatt bekreftelse fra vedkommende myndigheter på bestemmelsesstedet om at forsendelsen er ankommet, innen 15 dager fra den datoen da ble gitt tillatelse til videre transport av forsendelsen til anlegget for videre transport, skal deverifisere hos vedkommende myndigheter på bestemmelsesstedet om forsendelsen har ankommet anlegget for videre transport eller ikke,underrette tollmyndighetene om at forsendelsen ikke har ankommet,gjennomføre ytterligere undersøkelser for å fastslå hvor forsendelsen faktisk befinner seg i samarbeid med tollmyndigheter og andre myndigheter i samsvar med artikkel 75 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*).
+4\. Dersom vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen ikke har mottatt bekreftelse fra vedkommende myndigheter på bestemmelsesstedet om at forsendelsen er ankommet, innen 15 dager fra den datoen da ble gitt tillatelse til videre transport av forsendelsen til anlegget for videre transport, skal de
+
+1. verifisere hos vedkommende myndigheter på bestemmelsesstedet om forsendelsen har ankommet anlegget for videre transport eller ikke,
+2. underrette tollmyndighetene om at forsendelsen ikke har ankommet,
+3. gjennomføre ytterligere undersøkelser for å fastslå hvor forsendelsen faktisk befinner seg i samarbeid med tollmyndigheter og andre myndigheter i samsvar med artikkel 75 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*).
 
 ###### Artikkel 8
 
@@ -255,15 +318,28 @@ Anlegg for videre transport
 
 Vilkår for utpeking av anlegg for videre transport
 
-1\. Medlemsstatene kan utpeke anlegg for videre transport for forsendelser med én eller flere kategorier av varer som nevnt i artikkel 1 nr. 1 bokstav a), forutsatt at de oppfyller følgende krav:De er tollagre eller midlertidige lagringsanlegg som nevnt i henholdsvis artikkel 240 nr. 1 og artikkel 147 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952*).Dersom utpekingen gjeldernæringsmidler av ikke-animalsk opprinnelse nevnt i artikkel 1 nr. 1 bokstav a) punkt iii) i denne forordning, er anlegg for videre transport registrert hos vedkommende myndighet som fastsatt i artikkel 6 nr. 2 i forordning [(EF) nr. 852/2004](eu/32004r0852*),fôr av ikke-animalsk opprinnelse nevnt i artikkel 1 nr. 1 bokstav a) punkt iii) i denne forordning, er anlegg for videre transport registrert hos vedkommende myndighet som fastsatt i artikkel 9 nr. 2 i forordning [(EF) nr. 183/2005](eu/32005r0183).De har nødvendig teknologi og utstyr for at IMSOC skal kunne drives effektivt.
+1\. Medlemsstatene kan utpeke anlegg for videre transport for forsendelser med én eller flere kategorier av varer som nevnt i artikkel 1 nr. 1 bokstav a), forutsatt at de oppfyller følgende krav:
 
-2\. Dersom anlegg for videre transport ikke lenger oppfyller kravene nevnt i nr. 1, skal medlemsstatenemidlertidig oppheve utpekingen i påvente av gjennomføringen av korrigerende tiltak, eller tilbakekalle utpekingen permanent for alle eller noen av kategoriene av varer som utpekingen omfattet,sikre at opplysningene om anlegg for videre transport nevnt i artikkel 10, ajourføres i samsvar med dette.
+1. De er tollagre eller midlertidige lagringsanlegg som nevnt i henholdsvis artikkel 240 nr. 1 og artikkel 147 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952*).
+2. Dersom utpekingen gjelder
+
+   1. næringsmidler av ikke-animalsk opprinnelse nevnt i artikkel 1 nr. 1 bokstav a) punkt iii) i denne forordning, er anlegg for videre transport registrert hos vedkommende myndighet som fastsatt i artikkel 6 nr. 2 i forordning [(EF) nr. 852/2004](eu/32004r0852*),
+   2. fôr av ikke-animalsk opprinnelse nevnt i artikkel 1 nr. 1 bokstav a) punkt iii) i denne forordning, er anlegg for videre transport registrert hos vedkommende myndighet som fastsatt i artikkel 9 nr. 2 i forordning [(EF) nr. 183/2005](eu/32005r0183).
+3. De har nødvendig teknologi og utstyr for at IMSOC skal kunne drives effektivt.
+
+2\. Dersom anlegg for videre transport ikke lenger oppfyller kravene nevnt i nr. 1, skal medlemsstatene
+
+1. midlertidig oppheve utpekingen i påvente av gjennomføringen av korrigerende tiltak, eller tilbakekalle utpekingen permanent for alle eller noen av kategoriene av varer som utpekingen omfattet,
+2. sikre at opplysningene om anlegg for videre transport nevnt i artikkel 10, ajourføres i samsvar med dette.
 
 ###### Artikkel 10
 
 Registrering av utpekte anlegg for videre transport i IMSOC
 
-Medlemsstatene skal føre og ajourføre i IMSOC listen over anlegg for videre transport som er utpekt i samsvar med artikkel 9 nr. 1, og gi følgende opplysninger:Navn og adresse til anlegget for videre transport.Den kategorien av varer som det er utpekt for.
+Medlemsstatene skal føre og ajourføre i IMSOC listen over anlegg for videre transport som er utpekt i samsvar med artikkel 9 nr. 1, og gi følgende opplysninger:
+
+1. Navn og adresse til anlegget for videre transport.
+2. Den kategorien av varer som det er utpekt for.
 
 ### KAPITTEL III
 
@@ -275,7 +351,9 @@ Videre transport av dyr som oppholder seg på samme transportmiddel, og forsende
 
 2\. Vedkommende myndigheter nevnt i nr. 1 skal returnere til den driftsansvarlige som er ansvarlig for forsendelsen, de offisielle sertifikatene eller dokumentene som de har gjennomført dokumentkontroll av, slik at disse offisielle sertifikatene eller dokumentene kan ledsage forsendelsen videre.
 
-3\. Når det er mistanke om manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), skal vedkommende myndigheter på grensekontrollstasjonen gjennomføre dokumentkontroll, identitetskontroll og fysisk kontroll av forsendelsene.Dokumentkontroll skal gjennomføres på originaleksemplarene av de offisielle sertifikatene eller dokumentene som skal ledsage forsendelsen av dyr som fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav d) i forordning [(EU) 2017/625](eu/32017r0625*).
+3\. Når det er mistanke om manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), skal vedkommende myndigheter på grensekontrollstasjonen gjennomføre dokumentkontroll, identitetskontroll og fysisk kontroll av forsendelsene.
+
+Dokumentkontroll skal gjennomføres på originaleksemplarene av de offisielle sertifikatene eller dokumentene som skal ledsage forsendelsen av dyr som fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav d) i forordning [(EU) 2017/625](eu/32017r0625*).
 
 4\. Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen skal gjennomføre dokumentkontroll, identitetskontroll og fysisk kontroll, med mindre dokumentkontroll, identitetskontroll og fysisk kontroll er gjennomført på en annen grensekontrollstasjon i samsvar med nr. 3.
 
@@ -285,11 +363,19 @@ Vedkommende myndigheter på grensekontrollstasjonen for omlasting skal gjennomf�
 
 ### Artikkel 13. Dokumentkontroll, identitetskontroll og fysisk kontroll av omlastede forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter
 
-1\. Vedkommende myndigheter på grensekontrollstasjonen for omlasting skal gjennomføre dokumentkontroll på originaleksemplarer eller kopier av offisielle sertifikater eller dokumenter som skal ledsage omlastede forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter i følgende tilfeller:For varer som omfattes av kravene til dyrehelse og reglene for forebygging og begrensning av de risikoene for menneskers og dyrs helse som utgjøres av animalske biprodukter og avledede produkter nevnt i artikkel 1 nr. 2 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*), dersom omlastingsperiodeni lufthavnen overstiger 3 dager,i havnen overstiger 30 dager.For andre varer enn dem som er nevnt i bokstav a), dersom omlastingsperioden overstiger 90 dager.
+1\. Vedkommende myndigheter på grensekontrollstasjonen for omlasting skal gjennomføre dokumentkontroll på originaleksemplarer eller kopier av offisielle sertifikater eller dokumenter som skal ledsage omlastede forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter i følgende tilfeller:
+
+1. For varer som omfattes av kravene til dyrehelse og reglene for forebygging og begrensning av de risikoene for menneskers og dyrs helse som utgjøres av animalske biprodukter og avledede produkter nevnt i artikkel 1 nr. 2 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*), dersom omlastingsperioden
+
+   1. i lufthavnen overstiger 3 dager,
+   2. i havnen overstiger 30 dager.
+2. For andre varer enn dem som er nevnt i bokstav a), dersom omlastingsperioden overstiger 90 dager.
 
 2\. Vedkommende myndigheter nevnt i nr. 1 skal returnere til den driftsansvarlige som er ansvarlig for forsendelsen, de offisielle sertifikatene eller dokumentene som de har gjennomført dokumentkontroll av, slik at disse offisielle sertifikatene eller dokumentene kan ledsage forsendelsen videre.
 
-3\. Dersom vedkommende myndigheter på grensekontrollstasjonen for omlasting har mistanke om manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), skal de gjennomføre dokumentkontroll, identitetskontroll og fysisk kontroll av forsendelsen.Dokumentkontrollen skal gjennomføres på originaleksemplarene av de offisielle sertifikatene eller dokumentene dersom slike offisielle sertifikater eller dokumenter skal ledsage forsendelsen, som fastsatt i reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*).
+3\. Dersom vedkommende myndigheter på grensekontrollstasjonen for omlasting har mistanke om manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), skal de gjennomføre dokumentkontroll, identitetskontroll og fysisk kontroll av forsendelsen.
+
+Dokumentkontrollen skal gjennomføres på originaleksemplarene av de offisielle sertifikatene eller dokumentene dersom slike offisielle sertifikater eller dokumenter skal ledsage forsendelsen, som fastsatt i reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*).
 
 4\. Dersom en forsendelse beregnet på å sendes til tredjestater overstiger fristen nevnt i nr. 1 og dersom den ikke overholder reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), skal vedkommende myndigheter på grensekontrollstasjonen pålegge den driftsansvarlige enten å destruere forsendelsen eller sikre at den forlater Unionens territorium omgående.
 
@@ -299,7 +385,10 @@ Vedkommende myndigheter på grensekontrollstasjonen for omlasting skal gjennomf�
 
 ### Artikkel 14. Lagring av omlastede forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter
 
-Driftsansvarlige skal sikre at forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter bare lagres i omlastingsperioden entenpå tollområdet eller frisoneområdet i samme havn eller lufthavn, i lukkede beholdere, elleri kommersielle lagringsanlegg som kontrolleres av samme grensekontrollstasjon, i samsvar med vilkårene fastsatt i artikkel 3 nr. 11 og 12 i kommisjonens gjennomføringsforordning [(EU) 2019/1014](eu/32019r1014)23.
+Driftsansvarlige skal sikre at forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter bare lagres i omlastingsperioden enten
+
+1. på tollområdet eller frisoneområdet i samme havn eller lufthavn, i lukkede beholdere, eller
+2. i kommersielle lagringsanlegg som kontrolleres av samme grensekontrollstasjon, i samsvar med vilkårene fastsatt i artikkel 3 nr. 11 og 12 i kommisjonens gjennomføringsforordning [(EU) 2019/1014](eu/32019r1014)23.
 
 23 Kommisjonens gjennomføringsforordning [(EU) 2019/1014](eu/32019r1014) av 12. juni 2019 om fastsettelse av nærmere regler for minstekrav til grensekontrollstasjoner, herunder kontrollsentre, og til format, kategorier og forkortelser som skal brukes i lister over grensekontrollstasjoner og kontrollsteder (EUT L 165 av 21.6.2019, s. 10).
 
@@ -315,11 +404,22 @@ Driftsansvarlige skal sikre at forsendelser med produkter av animalsk opprinnels
 
 ### Artikkel 16. Underretning om opplysninger før omlastingsperioden utløper
 
-1\. For forsendelser beregnet på omlasting innen periodene nevnt i artikkel 13 nr. 1 og artikkel 15 nr. 1, skal den driftsansvarlige som er ansvarlige for forsendelsene, før forsendelsene ankommer, underrette vedkommende myndigheter på grensekontrollstasjonen for omlasting gjennom IMSOC eller et annen informasjonssystem som vedkommende myndigheter har utpekt for dette formålet, og angi følgende:Opplysninger som er nødvendige for å identifisere forsendelsen og finne ut hvor den befinner seg i lufthavnen eller havnen.Identifikasjon av transportmiddelet.Beregnet ankomst- og avgangstid for forsendelsen.Forsendelsens bestemmelsessted.
+1\. For forsendelser beregnet på omlasting innen periodene nevnt i artikkel 13 nr. 1 og artikkel 15 nr. 1, skal den driftsansvarlige som er ansvarlige for forsendelsene, før forsendelsene ankommer, underrette vedkommende myndigheter på grensekontrollstasjonen for omlasting gjennom IMSOC eller et annen informasjonssystem som vedkommende myndigheter har utpekt for dette formålet, og angi følgende:
 
-2\. Med henblikk på underretningen nevnt i nr. 1 skal vedkommende myndigheter utpeke et informasjonssystem som gjør det mulig for vedkommende myndigheter på grensekontrollstasjonen for omlasting, åfå innsyn i opplysningene framlagt av driftsansvarlige,verifisere for hver forsendelse at omlastingsperiodene fastsatt i artikkel 13 nr. 1 og artikkel 15 nr. 1 ikke overskrides.
+1. Opplysninger som er nødvendige for å identifisere forsendelsen og finne ut hvor den befinner seg i lufthavnen eller havnen.
+2. Identifikasjon av transportmiddelet.
+3. Beregnet ankomst- og avgangstid for forsendelsen.
+4. Forsendelsens bestemmelsessted.
 
-3\. I tillegg til kravet om forhåndsmelding fastsatt i nr. 1 i denne artikkel, skal den driftsansvarlige som er ansvarlig for forsendelsen, også underrette vedkommende myndigheter på grensekontrollstasjonen for omlasting ved å fylle ut og innlevere den relevante delen av CHED-dokumentet i IMSOC som fastsatt i artikkel 56 i forordning [(EU) 2017/625](eu/32017r0625*), i følgende tilfeller:Omlastingsperioden nevnt i artikkel 13 nr. 1 og artikkel 15 nr. 1 har utløpt.Vedkommende myndigheter på grensekontrollstasjon for omlasting underretter den driftsansvarlige som er ansvarlig for forsendelsen, om sin beslutning om å gjennomføre dokumentkontroll, identitetskontroll og fysisk kontroll på grunnlag av mistanke om manglende overholdelse som fastsatt i artikkel 13 nr. 3 eller artikkel 15 nr. 3.
+2\. Med henblikk på underretningen nevnt i nr. 1 skal vedkommende myndigheter utpeke et informasjonssystem som gjør det mulig for vedkommende myndigheter på grensekontrollstasjonen for omlasting, å
+
+1. få innsyn i opplysningene framlagt av driftsansvarlige,
+2. verifisere for hver forsendelse at omlastingsperiodene fastsatt i artikkel 13 nr. 1 og artikkel 15 nr. 1 ikke overskrides.
+
+3\. I tillegg til kravet om forhåndsmelding fastsatt i nr. 1 i denne artikkel, skal den driftsansvarlige som er ansvarlig for forsendelsen, også underrette vedkommende myndigheter på grensekontrollstasjonen for omlasting ved å fylle ut og innlevere den relevante delen av CHED-dokumentet i IMSOC som fastsatt i artikkel 56 i forordning [(EU) 2017/625](eu/32017r0625*), i følgende tilfeller:
+
+1. Omlastingsperioden nevnt i artikkel 13 nr. 1 og artikkel 15 nr. 1 har utløpt.
+2. Vedkommende myndigheter på grensekontrollstasjon for omlasting underretter den driftsansvarlige som er ansvarlig for forsendelsen, om sin beslutning om å gjennomføre dokumentkontroll, identitetskontroll og fysisk kontroll på grunnlag av mistanke om manglende overholdelse som fastsatt i artikkel 13 nr. 3 eller artikkel 15 nr. 3.
 
 ### Artikkel 17. Dokumentkontroll, identitetskontroll og fysisk kontroll av omlastede forsendelser med næringsmidler og fôrvarer av ikke-animalsk opprinnelse
 
@@ -343,13 +443,28 @@ Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen s
 
 Vilkår for tillatelse til transitt av forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter
 
-Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen skal bare tillate transitt av forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter, forutsatt at følgende vilkår er oppfylt:Varene oppfyller de gjeldende kravene fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*).Forsendelsen har gjennomgått dokumentkontroll og identitetskontroll på grensekontrollstasjonen med tilfredsstillende resultater.Forsendelsen har gjennomgått fysisk kontroll på grensekontrollstasjonen, dersom det var mistanke om at reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*) ikke var oppfylt.Forsendelsen ledsages av CHED-dokumentet, og forlater grensekontrollstasjonen i kjøretøyer eller transportcontainere forseglet av myndigheten på grensekontrollstasjonen.Forsendelsen skal transporteres direkte under tollmyndighetenes tilsyn, uten at varene losses eller deles opp, innen en frist på høyst 15 dager fra grensekontrollstasjonen til ett av følgende bestemmelsessteder:En grensekontrollstasjon for å forlate Unionens territorium.Et godkjent lager.En av NATOs eller De forente staters militærbaser som ligger på Unionens territorium.Et fartøy som forlater Unionen, dersom forsendelsen er beregnet på forsyning til skip.
+Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen skal bare tillate transitt av forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter, forutsatt at følgende vilkår er oppfylt:
+
+1. Varene oppfyller de gjeldende kravene fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*).
+2. Forsendelsen har gjennomgått dokumentkontroll og identitetskontroll på grensekontrollstasjonen med tilfredsstillende resultater.
+3. Forsendelsen har gjennomgått fysisk kontroll på grensekontrollstasjonen, dersom det var mistanke om at reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*) ikke var oppfylt.
+4. Forsendelsen ledsages av CHED-dokumentet, og forlater grensekontrollstasjonen i kjøretøyer eller transportcontainere forseglet av myndigheten på grensekontrollstasjonen.
+5. Forsendelsen skal transporteres direkte under tollmyndighetenes tilsyn, uten at varene losses eller deles opp, innen en frist på høyst 15 dager fra grensekontrollstasjonen til ett av følgende bestemmelsessteder:
+
+   1. En grensekontrollstasjon for å forlate Unionens territorium.
+   2. Et godkjent lager.
+   3. En av NATOs eller De forente staters militærbaser som ligger på Unionens territorium.
+   4. Et fartøy som forlater Unionen, dersom forsendelsen er beregnet på forsyning til skip.
 
 ###### Artikkel 20
 
 Oppfølgingstiltak fra vedkommende myndigheter
 
-Dersom vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen innen 15 dager etter den datoen da det ble gitt tillatelse til transitt på grensekontrollstasjonen, ikke har mottatt bekreftelse av at forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter har ankommet ett av bestemmelsesstedene nevnt i artikkel 19 bokstav e) punkt i)–iv), skal deverifisere hos vedkommende myndigheter på bestemmelsesstedet om forsendelsen har ankommet bestemmelsesstedet eller ikke,underrette tollmyndighetene om at forsendelsen ikke har ankommet,gjennomføre ytterligere undersøkelser for å fastslå hvor forsendelsen faktisk befinner seg i samarbeid med tollmyndigheter og andre myndigheter i samsvar med artikkel 75 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*).
+Dersom vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen innen 15 dager etter den datoen da det ble gitt tillatelse til transitt på grensekontrollstasjonen, ikke har mottatt bekreftelse av at forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter har ankommet ett av bestemmelsesstedene nevnt i artikkel 19 bokstav e) punkt i)–iv), skal de
+
+1. verifisere hos vedkommende myndigheter på bestemmelsesstedet om forsendelsen har ankommet bestemmelsesstedet eller ikke,
+2. underrette tollmyndighetene om at forsendelsen ikke har ankommet,
+3. gjennomføre ytterligere undersøkelser for å fastslå hvor forsendelsen faktisk befinner seg i samarbeid med tollmyndigheter og andre myndigheter i samsvar med artikkel 75 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*).
 
 ###### Artikkel 21
 
@@ -367,11 +482,20 @@ Dokumentkontroll og fysisk kontroll av planter, planteprodukter og andre gjensta
 
 1\. Dersom forsendelser med planter, planteprodukter og andre gjenstander nevnt i artikkel 1 nr. 1 bokstav d) punkt ii) og iii) framvises for transitt på en grensekontrollstasjon for innførsel til Unionen, kan vedkommende myndigheter på nevnte grensekontrollstasjon tillate transitt av slike planter, planteprodukter og andre gjenstander, forutsatt at forsendelsene transporteres under tollmyndighetenes tilsyn.
 
-2\. Vedkommende myndigheter på grensekontrollstasjonen nevnt i nr. 1 skal gjennomføre følgende kontroller på grunnlag av en risikovurdering:Dokumentkontroll av den undertegnede erklæringen nevnt i artikkel 47 nr. 1 bokstav a) i forordning [(EU) 2016/2031](eu/32016r2031).Fysisk kontroll av forsendelser for å sikre at de er pakket og transportert på tilstrekkelig vis som nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2016/2031](eu/32016r2031).
+2\. Vedkommende myndigheter på grensekontrollstasjonen nevnt i nr. 1 skal gjennomføre følgende kontroller på grunnlag av en risikovurdering:
 
-3\. Når det gjennomføres offentlig kontroll, skal vedkommende myndigheter tillate transitt av varene nevnt i nr. 1, forutsatt at forsendelseneoppfyller artikkel 47 i forordning [(EU) 2016/2031](eu/32016r2031),transporteres til utførselsstedet fra Unionen under tollmyndighetenes tilsyn.
+1. Dokumentkontroll av den undertegnede erklæringen nevnt i artikkel 47 nr. 1 bokstav a) i forordning [(EU) 2016/2031](eu/32016r2031).
+2. Fysisk kontroll av forsendelser for å sikre at de er pakket og transportert på tilstrekkelig vis som nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2016/2031](eu/32016r2031).
 
-4\. Den driftsansvarlige som er ansvarlig for forsendelser med planter, planteprodukter og andre gjenstander nevnt i nr. 1 skal sikre at emballasjen eller transportmiddelet for forsendelsene er lukket eller forseglet på en slik måte at de under transporten til og lagring på lagreikke kan føre til angrep på eller smitte til andre planter, planteprodukter eller andre gjenstander av planteskadegjørere oppført på listen over EU-karanteneskadegjørere eller EU-regulerte ikke-karanteneskadegjørere nevnt i henholdsvis artikkel 5 nr. 2 første ledd og artikkel 30 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031), og, når det gjelder vernesoner, av skadegjørere oppført på listen opprettet i henhold til artikkel 32 nr. 3 i nevnte forordning,ikke kan bli angrepet eller smittet av skadegjørere nevnt i bokstav a).
+3\. Når det gjennomføres offentlig kontroll, skal vedkommende myndigheter tillate transitt av varene nevnt i nr. 1, forutsatt at forsendelsene
+
+1. oppfyller artikkel 47 i forordning [(EU) 2016/2031](eu/32016r2031),
+2. transporteres til utførselsstedet fra Unionen under tollmyndighetenes tilsyn.
+
+4\. Den driftsansvarlige som er ansvarlig for forsendelser med planter, planteprodukter og andre gjenstander nevnt i nr. 1 skal sikre at emballasjen eller transportmiddelet for forsendelsene er lukket eller forseglet på en slik måte at de under transporten til og lagring på lagre
+
+1. ikke kan føre til angrep på eller smitte til andre planter, planteprodukter eller andre gjenstander av planteskadegjørere oppført på listen over EU-karanteneskadegjørere eller EU-regulerte ikke-karanteneskadegjørere nevnt i henholdsvis artikkel 5 nr. 2 første ledd og artikkel 30 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031), og, når det gjelder vernesoner, av skadegjørere oppført på listen opprettet i henhold til artikkel 32 nr. 3 i nevnte forordning,
+2. ikke kan bli angrepet eller smittet av skadegjørere nevnt i bokstav a).
 
 ### AVSNITT 2
 Vilkår for lagring av forsendelser i transitt på godkjente lagre
@@ -382,7 +506,19 @@ Vilkår for godkjenning av lagre
 
 1\. Vedkommende myndigheter skal godkjenne lagrene for lagring av forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter for hvilke det er gitt tillatelse til transitt i samsvar med artikkel 19.
 
-2\. Vedkommende myndigheter skal bare godkjenne lagre nevnt i nr. 1 som oppfyller følgende krav:Lagre der produkter av animalsk opprinnelse, sammensatte produkter, animalske biprodukter og avledede produkter lagres, skal oppfylle entenhygienekravene fastsatt i artikkel 4 i forordning [(EF) nr. 852/2004](eu/32004r0852*), ellerkravene fastsatt i artikkel 19 bokstav b) og C i forordning [(EU) nr. 142/2011](eu/32011r0142).De skal være tillatt, godkjent eller utpekt av tollmyndighetene i samsvar med artikkel 147 nr. 1, artikkel 240 nr. 1 og artikkel 243 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952*).Lagrene skal bestå av et lukket område hvor inngangene og utgangene er under kontinuerlig tilsyn av de driftsansvarlige.Lagrene skal ha lager- eller kjølerom for atskilt lagring av varene nevnt i nr. 1.Lagrene skal føre daglig journal over alle forsendelser som går inn på eller ut av anlegget, med angivelse av varenes art og mengde, mottakernes navn og adresse og kopier av CHED-dokumentet og sertifikater som ledsager forsendelsene; lagrene skal oppbevare disse opplysningene i en periode på minst tre år.Alle varer nevnt i nr. 1 skal identifiseres ved hjelp av merking eller elektronisk med referansenummeret til CHED-dokumentet som ledsager forsendelsen; disse varene må ikke på noen måte endres, bearbeides eller skiftes ut, og emballasjen må ikke endres.Lagrene skal ha nødvendig teknologi og utstyr slik at IMSOC skal kunne fungere effektivt.De driftsansvarlige for lagrene skal sørge for lokaler og kommunikasjonsmidler som er nødvendige for at de skal kunne gjennomføre offentlig kontroll og annen offentlig virksomhet på en effektiv måte, på anmodning fra vedkommende myndighet.
+2\. Vedkommende myndigheter skal bare godkjenne lagre nevnt i nr. 1 som oppfyller følgende krav:
+
+1. Lagre der produkter av animalsk opprinnelse, sammensatte produkter, animalske biprodukter og avledede produkter lagres, skal oppfylle enten
+
+   1. hygienekravene fastsatt i artikkel 4 i forordning [(EF) nr. 852/2004](eu/32004r0852*), eller
+   2. kravene fastsatt i artikkel 19 bokstav b) og C i forordning [(EU) nr. 142/2011](eu/32011r0142).
+2. De skal være tillatt, godkjent eller utpekt av tollmyndighetene i samsvar med artikkel 147 nr. 1, artikkel 240 nr. 1 og artikkel 243 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952*).
+3. Lagrene skal bestå av et lukket område hvor inngangene og utgangene er under kontinuerlig tilsyn av de driftsansvarlige.
+4. Lagrene skal ha lager- eller kjølerom for atskilt lagring av varene nevnt i nr. 1.
+5. Lagrene skal føre daglig journal over alle forsendelser som går inn på eller ut av anlegget, med angivelse av varenes art og mengde, mottakernes navn og adresse og kopier av CHED-dokumentet og sertifikater som ledsager forsendelsene; lagrene skal oppbevare disse opplysningene i en periode på minst tre år.
+6. Alle varer nevnt i nr. 1 skal identifiseres ved hjelp av merking eller elektronisk med referansenummeret til CHED-dokumentet som ledsager forsendelsen; disse varene må ikke på noen måte endres, bearbeides eller skiftes ut, og emballasjen må ikke endres.
+7. Lagrene skal ha nødvendig teknologi og utstyr slik at IMSOC skal kunne fungere effektivt.
+8. De driftsansvarlige for lagrene skal sørge for lokaler og kommunikasjonsmidler som er nødvendige for at de skal kunne gjennomføre offentlig kontroll og annen offentlig virksomhet på en effektiv måte, på anmodning fra vedkommende myndighet.
 
 3\. Dersom lagre ikke lenger oppfyller kravene fastsatt i nr. 2, skal vedkommende myndighet tilbakekalle eller midlertidig oppheve godkjenningen av lageret.
 
@@ -390,7 +526,16 @@ Vilkår for godkjenning av lagre
 
 Transport av varer fra lagre
 
-Den driftsansvarlige som er ansvarlig for forsendelsen, skal transportere forsendelsene av varer nevnt i artikkel 23 nr. 1 fra godkjente lagre til ett av følgende bestemmelsessteder:En grensekontrollstasjon for å forlate Unionens territorium tilen av NATOs eller De forente staters militærbaser, elleret annet bestemmelsessted.Et annet godkjent lager.En av NATOs eller De forente staters militærbaser som ligger på Unionens territorium.Et fartøy som forlater Unionen, dersom forsendelsene er beregnet på forsyning til skip.Et sted der forsendelsene skal sluttbehandles i samsvar med kapittel II i avdeling I i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)25.
+Den driftsansvarlige som er ansvarlig for forsendelsen, skal transportere forsendelsene av varer nevnt i artikkel 23 nr. 1 fra godkjente lagre til ett av følgende bestemmelsessteder:
+
+1. En grensekontrollstasjon for å forlate Unionens territorium til
+
+   1. en av NATOs eller De forente staters militærbaser, eller
+   2. et annet bestemmelsessted.
+2. Et annet godkjent lager.
+3. En av NATOs eller De forente staters militærbaser som ligger på Unionens territorium.
+4. Et fartøy som forlater Unionen, dersom forsendelsene er beregnet på forsyning til skip.
+5. Et sted der forsendelsene skal sluttbehandles i samsvar med kapittel II i avdeling I i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)25.
 
 25 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774*) (EUT L 300 av 14.11.2009, s. 1).
 
@@ -398,7 +543,10 @@ Den driftsansvarlige som er ansvarlig for forsendelsen, skal transportere forsen
 
 Føring og ajourføring av listen over godkjente lagre
 
-Medlemsstatene skal føre og ajourføre i IMSOC listen over godkjente lagre, og gi følgende opplysninger:Hvert lagers navn og adresse.De kategoriene av varer som det er godkjent for.
+Medlemsstatene skal føre og ajourføre i IMSOC listen over godkjente lagre, og gi følgende opplysninger:
+
+1. Hvert lagers navn og adresse.
+2. De kategoriene av varer som det er godkjent for.
 
 ###### Artikkel 26
 
@@ -410,7 +558,11 @@ Offentlig kontroll på lagre
 
 3\. Vedkommende myndigheter skal verifisere at forsendelser som flyttes til eller lagres på lagre, ledsages av det relevante CHED-dokumentet og en attestert kopi på papir eller i elektronisk form av det offisielle sertifikatet nevnt i artikkel 50 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*).
 
-4\. Når forsendelser ankommer godkjente lagre, skal vedkommende myndighetergjennomføre en identitetskontroll for å bekrefte at forsendelsen tilsvarer de relevante opplysningene i det ledsagende CHED-dokumentet,verifisere at forseglingene som er påført kjøretøyer eller transportcontainere, i samsvar med artikkel 19 bokstav d) eller artikkel 28 bokstav d), fortsatt er intakte,registrere resultatet av identitetskontrollen i del III i CHED-dokumentet og formidle disse opplysningene gjennom IMSOC.
+4\. Når forsendelser ankommer godkjente lagre, skal vedkommende myndigheter
+
+1. gjennomføre en identitetskontroll for å bekrefte at forsendelsen tilsvarer de relevante opplysningene i det ledsagende CHED-dokumentet,
+2. verifisere at forseglingene som er påført kjøretøyer eller transportcontainere, i samsvar med artikkel 19 bokstav d) eller artikkel 28 bokstav d), fortsatt er intakte,
+3. registrere resultatet av identitetskontrollen i del III i CHED-dokumentet og formidle disse opplysningene gjennom IMSOC.
 
 ###### Artikkel 27
 
@@ -428,19 +580,40 @@ Driftsansvarliges forpliktelser på lagre
 
 Vilkår for transport av varer fra lagre til tredjestater, andre lagre og sluttbehandlingssteder
 
-Den driftsansvarlige som er ansvarlig for forsendelsen, skal transportere varene nevnt i artikkel 23 nr. 1 fra det godkjente lageret til ett av bestemmelsesstedene nevnt i artikkel 24 bokstav a) punkt ii), bokstav b) og e) forutsatt at følgende vilkår er oppfylt:Den driftsansvarlige som er ansvarlig for forsendelsen, innleverer CHED-dokumentet gjennom IMSOC for hele forsendelsen og angir der transportmiddelet og bestemmelsesstedet; når den opprinnelige forsendelsen deles opp på lageret, skal den driftsansvarlige som er ansvarlig for forsendelsen, innlevere CHED-dokumentet gjennom IMSOC for hver del av den oppdelte forsendelsen der det angis mengde, transportmiddel og bestemmelsessted for den relevante delen av den oppdelte forsendelsen.Vedkommende myndigheter skal tillate forflytningen og ferdigstille CHED-dokumentet forhele forsendelsen, ellerenkelte deler av den oppdelte forsendelsen, forutsatt at summen av de mengdene som er angitt i CHED-dokumentene utstedt for de enkelte delene, ikke overstiger den samlede mengden angitt i CHED-dokumentet for hele forsendelsen.Den driftsansvarlige som er ansvarlig for forsendelsen, skal sikre at det i tillegg til CHED-dokumentet som ledsager forsendelsen, sendes en attestert kopi av det offisielle sertifikatet som ledsaget forsendelsen til lageret som nevnt i artikkel 27 nr. 4, med forsendelsen, med mindre en kopi i elektronisk form av det offisielle sertifikatet ble lastet opp i IMSOC og ble verifisert av vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen; når den opprinnelige forsendelsen deles opp og kopien av det offisielle sertifikatet ikke ble lastet opp i IMSOC av vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen, utsteder vedkommende myndigheter til den driftsansvarlige som er ansvarlig for forsendelsen, attesterte kopier av det offisielle sertifikatet slik at de kan ledsage delene av den oppdelte forsendelsen til deres bestemmelsessteder.Den driftsansvarlige som er ansvarlig for forsendelsen, transporterer varene under tollmyndighetenes tilsyn fra lagrene i kjøretøyer eller transportcontainere som er forseglet av vedkommende myndigheter.Den driftsansvarlige som er ansvarlig for forsendelsen, transporterer varene direkte fra lageret til bestemmelsesstedet uten at varene losses eller deles opp, innen en frist på høyst 15 dager etter at det er gitt tillatelse til transport.
+Den driftsansvarlige som er ansvarlig for forsendelsen, skal transportere varene nevnt i artikkel 23 nr. 1 fra det godkjente lageret til ett av bestemmelsesstedene nevnt i artikkel 24 bokstav a) punkt ii), bokstav b) og e) forutsatt at følgende vilkår er oppfylt:
+
+1. Den driftsansvarlige som er ansvarlig for forsendelsen, innleverer CHED-dokumentet gjennom IMSOC for hele forsendelsen og angir der transportmiddelet og bestemmelsesstedet; når den opprinnelige forsendelsen deles opp på lageret, skal den driftsansvarlige som er ansvarlig for forsendelsen, innlevere CHED-dokumentet gjennom IMSOC for hver del av den oppdelte forsendelsen der det angis mengde, transportmiddel og bestemmelsessted for den relevante delen av den oppdelte forsendelsen.
+
+1. Vedkommende myndigheter skal tillate forflytningen og ferdigstille CHED-dokumentet for
+
+   1. hele forsendelsen, eller
+   2. enkelte deler av den oppdelte forsendelsen, forutsatt at summen av de mengdene som er angitt i CHED-dokumentene utstedt for de enkelte delene, ikke overstiger den samlede mengden angitt i CHED-dokumentet for hele forsendelsen.
+
+1. Den driftsansvarlige som er ansvarlig for forsendelsen, skal sikre at det i tillegg til CHED-dokumentet som ledsager forsendelsen, sendes en attestert kopi av det offisielle sertifikatet som ledsaget forsendelsen til lageret som nevnt i artikkel 27 nr. 4, med forsendelsen, med mindre en kopi i elektronisk form av det offisielle sertifikatet ble lastet opp i IMSOC og ble verifisert av vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen; når den opprinnelige forsendelsen deles opp og kopien av det offisielle sertifikatet ikke ble lastet opp i IMSOC av vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen, utsteder vedkommende myndigheter til den driftsansvarlige som er ansvarlig for forsendelsen, attesterte kopier av det offisielle sertifikatet slik at de kan ledsage delene av den oppdelte forsendelsen til deres bestemmelsessteder.
+2. Den driftsansvarlige som er ansvarlig for forsendelsen, transporterer varene under tollmyndighetenes tilsyn fra lagrene i kjøretøyer eller transportcontainere som er forseglet av vedkommende myndigheter.
+3. Den driftsansvarlige som er ansvarlig for forsendelsen, transporterer varene direkte fra lageret til bestemmelsesstedet uten at varene losses eller deles opp, innen en frist på høyst 15 dager etter at det er gitt tillatelse til transport.
 
 ###### Artikkel 29
 
 Vilkår for transport av varer fra lagre til NATOs eller De forente staters militærbaser og til fartøyer som forlater Unionen
 
-Den driftsansvarlige som er ansvarlig for forsendelsen, skal transportere varene nevnt i artikkel 23 nr. 1 fra de godkjente lagrene til ett av bestemmelsesstedene nevnt i artikkel 24 bokstav a) punkt ii), bokstav c) og d) forutsatt at følgende vilkår er oppfylt:Den driftsansvarlige som er ansvarlig for lageret, angir forflytningen av varene til vedkommende myndigheter ved å fylle ut del I av det offisielle sertifikatet nevnt i bokstav c).Vedkommende myndighet tillater forflytningen av varene og utsteder til den driftsansvarlige som er ansvarlig for forsendelsen, et ferdigstilt offisielt sertifikat nevnt i bokstav c), som kan brukes til levering av forsendelsen som inneholder varer som kommer fra flere forsendelser med ulik opprinnelse eller produktkategorier.Den driftsansvarlige som er ansvarlig for forsendelsen, sikrer at et offisielt sertifikat i samsvar med malen fastsatt i vedlegget til gjennomføringsforordning [(EU) 2019/2128](eu/32019r2128), ledsager forsendelsen til bestemmelsesstedet.Den driftsansvarlige som er ansvarlig for forsendelsen, transporterer varene under tollmyndighetenes tilsyn.Den driftsansvarlige som er ansvarlig for forsendelsen, transporterer varene fra lagrene i kjøretøyer eller transportcontainere som er forseglet under tilsyn av vedkommende myndigheter.
+Den driftsansvarlige som er ansvarlig for forsendelsen, skal transportere varene nevnt i artikkel 23 nr. 1 fra de godkjente lagrene til ett av bestemmelsesstedene nevnt i artikkel 24 bokstav a) punkt ii), bokstav c) og d) forutsatt at følgende vilkår er oppfylt:
+
+1. Den driftsansvarlige som er ansvarlig for lageret, angir forflytningen av varene til vedkommende myndigheter ved å fylle ut del I av det offisielle sertifikatet nevnt i bokstav c).
+2. Vedkommende myndighet tillater forflytningen av varene og utsteder til den driftsansvarlige som er ansvarlig for forsendelsen, et ferdigstilt offisielt sertifikat nevnt i bokstav c), som kan brukes til levering av forsendelsen som inneholder varer som kommer fra flere forsendelser med ulik opprinnelse eller produktkategorier.
+3. Den driftsansvarlige som er ansvarlig for forsendelsen, sikrer at et offisielt sertifikat i samsvar med malen fastsatt i vedlegget til gjennomføringsforordning [(EU) 2019/2128](eu/32019r2128), ledsager forsendelsen til bestemmelsesstedet.
+4. Den driftsansvarlige som er ansvarlig for forsendelsen, transporterer varene under tollmyndighetenes tilsyn.
+5. Den driftsansvarlige som er ansvarlig for forsendelsen, transporterer varene fra lagrene i kjøretøyer eller transportcontainere som er forseglet under tilsyn av vedkommende myndigheter.
 
 ###### Artikkel 30
 
 Oppfølgingstiltak fra vedkommende myndigheter
 
-Dersom vedkommende myndigheter for et lager innen 15 dager etter den datoen da det ble gitt tillatelse til transitt fra lageret, ikke har mottatt bekreftelse på at forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter har ankommet ett av bestemmelsesstedene nevnt i artikkel 24, skal deverifisere hos vedkommende myndigheter på bestemmelsesstedet om forsendelsen har ankommet eller ikke,underrette tollmyndighetene om at forsendelsene ikke har ankommet,gjennomføre ytterligere undersøkelser for å fastslå hvor varene faktisk befinner seg i samarbeid med tollmyndigheter og andre myndigheter i samsvar med artikkel 75 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*).
+Dersom vedkommende myndigheter for et lager innen 15 dager etter den datoen da det ble gitt tillatelse til transitt fra lageret, ikke har mottatt bekreftelse på at forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter har ankommet ett av bestemmelsesstedene nevnt i artikkel 24, skal de
+
+1. verifisere hos vedkommende myndigheter på bestemmelsesstedet om forsendelsen har ankommet eller ikke,
+2. underrette tollmyndighetene om at forsendelsene ikke har ankommet,
+3. gjennomføre ytterligere undersøkelser for å fastslå hvor varene faktisk befinner seg i samarbeid med tollmyndigheter og andre myndigheter i samsvar med artikkel 75 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*).
 
 ###### Artikkel 31
 
@@ -450,7 +623,10 @@ Overvåking av levering av varer til et fartøy som forlater Unionens territoriu
 
 2\. Den driftsansvarlige kan losse forsendelser med varene nevnt i artikkel 19 og artikkel 23 nr. 1 i bestemmelseshavnen før leveringen av forsendelsene til fartøyene som forlater Unionens territorium, forutsatt at dette er tillatt og under tilsyn av tollmyndigheten, og vilkårene for levering angitt i underretningen nevnt i nr. 1 er oppfylt.
 
-3\. Når leveringen av forsendelser med varer nevnt i nr. 1 om bord på fartøyet er fullført, skal vedkommende myndighet i bestemmelseshavnen eller representanten for skipsføreren bekrefte leveringen til vedkommende myndigheter på grensekontrollstasjonen for innførsel til Den europeiske union eller til lageretved å kontrasignere det offisielle sertifikatet nevnt i artikkel 29 bokstav c), ellerelektronisk, herunder gjennom IMSOC eller eksisterende nasjonale systemer.
+3\. Når leveringen av forsendelser med varer nevnt i nr. 1 om bord på fartøyet er fullført, skal vedkommende myndighet i bestemmelseshavnen eller representanten for skipsføreren bekrefte leveringen til vedkommende myndigheter på grensekontrollstasjonen for innførsel til Den europeiske union eller til lageret
+
+1. ved å kontrasignere det offisielle sertifikatet nevnt i artikkel 29 bokstav c), eller
+2. elektronisk, herunder gjennom IMSOC eller eksisterende nasjonale systemer.
 
 4\. Representanten nevnt i nr. 3 eller den driftsansvarlige som er ansvarlig for levering av forsendelsen til fartøyet som forlater Unionens territorium, skal innen en frist på 15 dager etter at forsendelsen er levert, sende tilbake det kontrasignerte offisielle sertifikatet nevnt i nr. 3 bokstav a) til vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen eller for lageret.
 
@@ -482,9 +658,29 @@ Unntak for forsendelser i transitt
 
 Transitt av visse dyr og visse varer
 
-1\. Som unntak fra artikkel 18 og 19 kan vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen tillate transitt gjennom Unionens territorium av følgende forsendelser, forutsatt at vilkårene fastsatt i nr. 2, er oppfylt:Transitt på vei gjennom Litauen av forsendelser med avlsdyr og produksjonsdyr av storfe som kommer fra den russiske regionen Kaliningrad og sendes til et bestemmelsessted utenfor Unionen, og som føres inn og ut gjennom utpekte grensekontrollstasjoner i Litauen.Transitt på vei eller jernbane gjennom Unionen av forsendelser med akvakulturdyr mellom grensekontrollstasjoner i Latvia, Litauen og Polen, som kommer fra og skal til Russland, direkte eller gjennom en annen tredjestat.Transitt på vei eller jernbane gjennom Unionen av forsendelser med produkter av animalsk opprinnelse, sammensatte produkter, animalske biprodukter, avledede produkter og formeringsmateriale av storfe, svin, sau, geit, dyr av hestefamilien, egg som er fri for spesifiserte sykdomsframkallende mikroorganismer, mellom grensekontrollstasjonene i Latvia, Litauen og Polen, som kommer fra og skal til Russland, direkte eller gjennom en annen tredjestat.Transitt på vei eller jernbane av forsendelser med egg, eggprodukter og fjørfekjøtt mellom grensekontrollstasjoner i Litauen, som kommer fra Hviterussland og skal til den russiske regionen Kaliningrad.Transitt på vei gjennom Kroatia av forsendelser med akvakulturdyr, produkter av animalsk opprinnelse, sammensatte produkter, animalske biprodukter, avledede produkter og formeringsmateriale av storfe, svin, sau, geit, dyr av hestefamilien, egg som er fri for spesifiserte sykdomsframkallende mikroorganismer, som kommer fra Bosnia-Hercegovina og som føres inn ved grensekontrollstasjonen ved veien i Nova Sela og føres ut ved grensekontrollstasjonen ved havnen i Ploče.
+1\. Som unntak fra artikkel 18 og 19 kan vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen tillate transitt gjennom Unionens territorium av følgende forsendelser, forutsatt at vilkårene fastsatt i nr. 2, er oppfylt:
 
-2\. Tillatelsen nevnt i nr. 1 skal oppfylle følgende vilkår:Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen, skalgjennomføre dokumentkontroll, identitetskontroll og fysisk kontroll av forsendelser med dyr som fastsatt i artikkel 18,gjennomføre dokumentkontroll og identitetskontroll for forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter som fastsatt i artikkel 19,stemple de offisielle sertifikatene som ledsager forsendelsene beregnet på bestemmelsestredjestaten med «ONLY FOR TRANSIT VIA THE EU».oppbevare kopier eller elektroniske versjoner av sertifikatene nevnt i punkt iii) på grensekontrollstasjonen for innførsel til Unionen,forsegle kjøretøyene eller transportcontainerne som forsendelsene transporteres i.Den driftsansvarlige som er ansvarlig for forsendelsen, skal sikre at forsendelsene transporteres direkte under tollmyndighetenes tilsyn, uten at de losses, til grensekontrollstasjonen der forsendelsene skal forlate Unionens territorium.Vedkommende myndigheter på den grensekontrollstasjonen der varene forlater Unionens territorium, skalgjennomføre identitetskontroll for å bekrefte at forsendelsen som omfattes av det ledsagende CHED-dokument, faktisk forlater Unionens territorium. De skal særlig verifisere at forseglingene som er påført kjøretøyer eller transportcontainere, fortsatt er intakte,registrere resultatet av den offentlige kontrollen nevnt i punkt i) i IMSOC.Vedkommende myndigheter i medlemsstatene skal gjennomføre risikobasert kontroll for å sikre at antallet forsendelser og mengden av dyr og varer som forlater Unionens territorium, svarer til det antallet og de mengdene som innføres til Unionens territorium.
+1. Transitt på vei gjennom Litauen av forsendelser med avlsdyr og produksjonsdyr av storfe som kommer fra den russiske regionen Kaliningrad og sendes til et bestemmelsessted utenfor Unionen, og som føres inn og ut gjennom utpekte grensekontrollstasjoner i Litauen.
+2. Transitt på vei eller jernbane gjennom Unionen av forsendelser med akvakulturdyr mellom grensekontrollstasjoner i Latvia, Litauen og Polen, som kommer fra og skal til Russland, direkte eller gjennom en annen tredjestat.
+3. Transitt på vei eller jernbane gjennom Unionen av forsendelser med produkter av animalsk opprinnelse, sammensatte produkter, animalske biprodukter, avledede produkter og formeringsmateriale av storfe, svin, sau, geit, dyr av hestefamilien, egg som er fri for spesifiserte sykdomsframkallende mikroorganismer, mellom grensekontrollstasjonene i Latvia, Litauen og Polen, som kommer fra og skal til Russland, direkte eller gjennom en annen tredjestat.
+4. Transitt på vei eller jernbane av forsendelser med egg, eggprodukter og fjørfekjøtt mellom grensekontrollstasjoner i Litauen, som kommer fra Hviterussland og skal til den russiske regionen Kaliningrad.
+5. Transitt på vei gjennom Kroatia av forsendelser med akvakulturdyr, produkter av animalsk opprinnelse, sammensatte produkter, animalske biprodukter, avledede produkter og formeringsmateriale av storfe, svin, sau, geit, dyr av hestefamilien, egg som er fri for spesifiserte sykdomsframkallende mikroorganismer, som kommer fra Bosnia-Hercegovina og som føres inn ved grensekontrollstasjonen ved veien i Nova Sela og føres ut ved grensekontrollstasjonen ved havnen i Ploče.
+
+2\. Tillatelsen nevnt i nr. 1 skal oppfylle følgende vilkår:
+
+1. Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen, skal
+
+   1. gjennomføre dokumentkontroll, identitetskontroll og fysisk kontroll av forsendelser med dyr som fastsatt i artikkel 18,
+   2. gjennomføre dokumentkontroll og identitetskontroll for forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter som fastsatt i artikkel 19,
+   3. stemple de offisielle sertifikatene som ledsager forsendelsene beregnet på bestemmelsestredjestaten med «ONLY FOR TRANSIT VIA THE EU».
+   4. oppbevare kopier eller elektroniske versjoner av sertifikatene nevnt i punkt iii) på grensekontrollstasjonen for innførsel til Unionen,
+   5. forsegle kjøretøyene eller transportcontainerne som forsendelsene transporteres i.
+2. Den driftsansvarlige som er ansvarlig for forsendelsen, skal sikre at forsendelsene transporteres direkte under tollmyndighetenes tilsyn, uten at de losses, til grensekontrollstasjonen der forsendelsene skal forlate Unionens territorium.
+3. Vedkommende myndigheter på den grensekontrollstasjonen der varene forlater Unionens territorium, skal
+
+   1. gjennomføre identitetskontroll for å bekrefte at forsendelsen som omfattes av det ledsagende CHED-dokument, faktisk forlater Unionens territorium. De skal særlig verifisere at forseglingene som er påført kjøretøyer eller transportcontainere, fortsatt er intakte,
+   2. registrere resultatet av den offentlige kontrollen nevnt i punkt i) i IMSOC.
+4. Vedkommende myndigheter i medlemsstatene skal gjennomføre risikobasert kontroll for å sikre at antallet forsendelser og mengden av dyr og varer som forlater Unionens territorium, svarer til det antallet og de mengdene som innføres til Unionens territorium.
 
 ###### Artikkel 35
 
@@ -498,11 +694,17 @@ Transitt av varer til NATOs eller De forente staters militærbaser som ligger p�
 
 Transitt av varer som ble nektet innført til en tredjestat etter transitt gjennom Unionen
 
-1\. Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen på vei eller jernbane kan tillate videre transitt gjennom Unionens territorium av produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter, forutsatt at følgende vilkår er oppfylt:Forsendelsen av varer ble nektet innført til en tredjestat umiddelbart etter deres transitt gjennom Unionen, eller at de forseglingene som vedkommende myndigheter nevnt i artikkel 19 bokstav d), artikkel 28 bokstav d) eller artikkel 29 bokstav e) har påført kjøretøyet eller transportcontaineren, fortsatt er intakte.Forsendelsen oppfyller reglene fastsatt i artikkel 19 bokstav a), b) og c).
+1\. Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen på vei eller jernbane kan tillate videre transitt gjennom Unionens territorium av produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter, forutsatt at følgende vilkår er oppfylt:
+
+1. Forsendelsen av varer ble nektet innført til en tredjestat umiddelbart etter deres transitt gjennom Unionen, eller at de forseglingene som vedkommende myndigheter nevnt i artikkel 19 bokstav d), artikkel 28 bokstav d) eller artikkel 29 bokstav e) har påført kjøretøyet eller transportcontaineren, fortsatt er intakte.
+2. Forsendelsen oppfyller reglene fastsatt i artikkel 19 bokstav a), b) og c).
 
 2\. Vedkommende myndigheter på grensekontrollstasjonen for innførsel til Unionen på vei eller jernbane skal forsegle forsendelsen på nytt etter kontrollene nevnt i artikkel 19 bokstav b) og c).
 
-3\. De driftsansvarlige skal transportere forsendelsen direkte til ett av følgende bestemmelsessteder:Grensekontrollstasjonen som ga tillatelse til transitt gjennom Unionen.Lageret der forsendelsen ble lagret før den ble nektet innført av en tredjestat.
+3\. De driftsansvarlige skal transportere forsendelsen direkte til ett av følgende bestemmelsessteder:
+
+1. Grensekontrollstasjonen som ga tillatelse til transitt gjennom Unionen.
+2. Lageret der forsendelsen ble lagret før den ble nektet innført av en tredjestat.
 
 ### KAPITTEL V
 Transitt av dyr og varer fra en del av Unionens territorium til en annen del av Unionens territorium, og som passerer gjennom territoriet til en tredjestat
@@ -511,23 +713,42 @@ Transitt av dyr og varer fra en del av Unionens territorium til en annen del av 
 
 1\. Vedkommende myndigheter i medlemsstatene skal sikre at forsendelser med dyr og produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter som flyttes fra en del av Unionens territorium til en annen del av Unionens territorium, og som passerer gjennom territoriet til en tredjestat, transporteres under tollmyndighetenes tilsyn.
 
-2\. De driftsansvarlige som er ansvarlige for forsendelser nevnt i nr. 1 som har passert gjennom territoriet til en tredjestat, skal framvise forsendelsene når de gjeninnføres til Unionens territoriumtil vedkommende myndigheter på en grensekontrollstasjon utpekt for alle kategorier av dyr og varer nevnt i nr. 1, elleret sted angitt av vedkommende myndigheter nevnt i bokstav a) og som ligger i nærheten av grensekontrollstasjonen.
+2\. De driftsansvarlige som er ansvarlige for forsendelser nevnt i nr. 1 som har passert gjennom territoriet til en tredjestat, skal framvise forsendelsene når de gjeninnføres til Unionens territorium
 
-3\. Vedkommende myndigheter på grensekontrollstasjonen for gjeninnførsel til Unionen skalgjennomføre en dokumentkontroll for å verifisere opprinnelsen til dyrene og varene som inngår i forsendelsen,når det kreves i reglene nevnt i artikkel 1 nr. 2 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*), verifisere dyrehelsetilstanden i tredjestater som forsendelser sendes i transitt gjennom, og de relevante offisielle sertifikatene og dokumentene som ledsager forsendelsene,når det kreves i reglene nevnt i artikkel 1 nr. 2 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*), gjennomføre en identitetskontroll for å verifisere at forseglingene som er påført kjøretøyene eller transportcontainerne, fortsatt er intakte.
+1. til vedkommende myndigheter på en grensekontrollstasjon utpekt for alle kategorier av dyr og varer nevnt i nr. 1, eller
+2. et sted angitt av vedkommende myndigheter nevnt i bokstav a) og som ligger i nærheten av grensekontrollstasjonen.
+
+3\. Vedkommende myndigheter på grensekontrollstasjonen for gjeninnførsel til Unionen skal
+
+1. gjennomføre en dokumentkontroll for å verifisere opprinnelsen til dyrene og varene som inngår i forsendelsen,
+2. når det kreves i reglene nevnt i artikkel 1 nr. 2 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*), verifisere dyrehelsetilstanden i tredjestater som forsendelser sendes i transitt gjennom, og de relevante offisielle sertifikatene og dokumentene som ledsager forsendelsene,
+3. når det kreves i reglene nevnt i artikkel 1 nr. 2 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*), gjennomføre en identitetskontroll for å verifisere at forseglingene som er påført kjøretøyene eller transportcontainerne, fortsatt er intakte.
 
 4\. Dersom det er mistanke om manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), skal vedkommende myndigheter på grensekontrollstasjonen for gjeninnførsel til Unionen også gjennomføre identitetskontroll og fysisk kontroll i tillegg til kontrollene fastsatt i nr. 3.
 
 5\. De driftsansvarlige skal framvise forsendelser med dyr som flyttes fra en del av Unionens territorium til en annen del av Unionens territorium, og som passerer gjennom territoriet til en tredjestat, for offentlig kontroll på utførselsstedet fra Unionens territorium.
 
-6\. Vedkommende myndighet på utførselsstedet fra Unionen skalgjennomføre den kontrollen som kreves i reglene nevnt i artikkel 1 nr. 2 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*),stemple det offisielle sertifikatet som ledsager forsendelsen med følgende ordlyd: «ONLY FOR TRANSIT BETWEEN DIFFERENT PARTS OF THE EUROPEAN UNION VIA [tredjestatens navn]».
+6\. Vedkommende myndighet på utførselsstedet fra Unionen skal
+
+1. gjennomføre den kontrollen som kreves i reglene nevnt i artikkel 1 nr. 2 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*),
+2. stemple det offisielle sertifikatet som ledsager forsendelsen med følgende ordlyd: «ONLY FOR TRANSIT BETWEEN DIFFERENT PARTS OF THE EUROPEAN UNION VIA [tredjestatens navn]».
 
 ### Artikkel 38. Neum-korridoren
 
-1\. Når forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter kommer fra Kroatias territorium i transitt gjennom Bosnia-Herzegovinas territorium ved Neum-korridoren, og før disse forsendelsene forlater Kroatias territorium gjennom innførselsstedene Klek eller Zaton Doli, skal vedkommende myndigheter i Kroatiaforsegle kjøretøyene eller transportcontainerne før forsendelsen passerer i transitt gjennom Neum-korridoren,registrere datoen og klokkeslettet for avgang for de kjøretøyene som transporterer forsendelsene.
+1\. Når forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter kommer fra Kroatias territorium i transitt gjennom Bosnia-Herzegovinas territorium ved Neum-korridoren, og før disse forsendelsene forlater Kroatias territorium gjennom innførselsstedene Klek eller Zaton Doli, skal vedkommende myndigheter i Kroatia
 
-2\. Når forsendelsene nevnt i nr. 1 gjeninnføres til Kroatias territorium ved innførselsstedene Klek eller Zaton Doli, skal vedkommende myndigheter i Kroatiaverifisere at forseglingene på kjøretøyer eller transportcontainerne fortsatt er intakte,registrere datoen og klokkeslettet for ankomst for de kjøretøyene som transporterer forsendelsene.
+1. forsegle kjøretøyene eller transportcontainerne før forsendelsen passerer i transitt gjennom Neum-korridoren,
+2. registrere datoen og klokkeslettet for avgang for de kjøretøyene som transporterer forsendelsene.
 
-3\. Vedkommende myndigheter i Kroatia skal treffe hensiktsmessige tiltak i samsvar med artikkel 65 i forordning [(EU) 2017/625](eu/32017r0625*) dersomforseglingen nevnt i nr. 1 er blitt brutt under transitten gjennom Neum-korridoren, ellertransittiden overstiger den tiden det tar å reise mellom innførselsstedene Klek og Zaton Doli.
+2\. Når forsendelsene nevnt i nr. 1 gjeninnføres til Kroatias territorium ved innførselsstedene Klek eller Zaton Doli, skal vedkommende myndigheter i Kroatia
+
+1. verifisere at forseglingene på kjøretøyer eller transportcontainerne fortsatt er intakte,
+2. registrere datoen og klokkeslettet for ankomst for de kjøretøyene som transporterer forsendelsene.
+
+3\. Vedkommende myndigheter i Kroatia skal treffe hensiktsmessige tiltak i samsvar med artikkel 65 i forordning [(EU) 2017/625](eu/32017r0625*) dersom
+
+1. forseglingen nevnt i nr. 1 er blitt brutt under transitten gjennom Neum-korridoren, eller
+2. transittiden overstiger den tiden det tar å reise mellom innførselsstedene Klek og Zaton Doli.
 
 ### KAPITTEL VI
 Sluttbestemmelser
@@ -540,8 +761,14 @@ Kommisjonsvedtak [2000/208/EF](eu/32000d0208) og kommisjonsvedtak [2000/571/EF](
 
 I vedtak [2007/777/EF](eu/32007d0777*) gjøres følgende endringer:
 
-1. I artikkel 6 gjøres følgende endringer:I nr. 1 utgår bokstav b), c) og d).Nr. 2 og 3 utgår.
-2. I artikkel 6a gjøres følgende endringer:I nr. 1 utgår bokstav b), c) og d).Nr. 2 og 3 utgår.
+1. I artikkel 6 gjøres følgende endringer:
+
+   1. I nr. 1 utgår bokstav b), c) og d).
+   2. Nr. 2 og 3 utgår.
+2. I artikkel 6a gjøres følgende endringer:
+
+   1. I nr. 1 utgår bokstav b), c) og d).
+   2. Nr. 2 og 3 utgår.
 
 ### Artikkel 41. Endringer av forordning (EF) nr. 798/2008
 
@@ -569,30 +796,55 @@ I artikkel 5 i forordning [(EF) nr. 119/2009](eu/32009r0119) gjøres følgende e
 
 I forordning [(EU) nr. 206/2010](eu/32010r0206*) gjøres følgende endringer:
 
-1. I artikkel 12a gjøres følgende endringer:I nr. 1 utgår bokstav d) og e).Nr. 2 utgår.Nr. 4 utgår.
-2. I artikkel 17 gjøres følgende endringer:I nr. 1 utgår bokstav b), c) og d).Nr. 2 og 3 utgår.
-3. I artikkel 17a gjøres følgende endringer:I nr. 1 utgår bokstav b), c) og d).Nr. 2 og 3 utgår.
+1. I artikkel 12a gjøres følgende endringer:
+
+   1. I nr. 1 utgår bokstav d) og e).
+   2. Nr. 2 utgår.
+   3. Nr. 4 utgår.
+2. I artikkel 17 gjøres følgende endringer:
+
+   1. I nr. 1 utgår bokstav b), c) og d).
+   2. Nr. 2 og 3 utgår.
+3. I artikkel 17a gjøres følgende endringer:
+
+   1. I nr. 1 utgår bokstav b), c) og d).
+   2. Nr. 2 og 3 utgår.
 
 ### Artikkel 45. Endringer av forordning (EU) nr. 605/2010
 
 I forordning [(EU) nr. 605/2010](eu/32010r0605*) gjøres følgende endringer:
 
-1. I artikkel 7 gjøres følgende endringer:I nr. 1 utgår bokstav b), c) og d).Nr. 2 og 3 utgår.
+1. I artikkel 7 gjøres følgende endringer:
+
+   1. I nr. 1 utgår bokstav b), c) og d).
+   2. Nr. 2 og 3 utgår.
 2. I artikkel 7a utgår nr. 2 og 3.
 
 ### Artikkel 46. Endringer av forordning (EU) nr. 142/2011
 
 I forordning [(EU) nr. 142/2011](eu/32011r0142) gjøres følgende endringer:
 
-1. I artikkel 29 gjøres følgende endringer:I nr. 1 utgår bokstav b), c) og d).Nr. 2 og 3 utgår.
-2. I artikkel 29a gjøres følgende endringer:I nr. 1 utgår bokstav b), c) og d).Nr. 2 og 3 utgår.
+1. I artikkel 29 gjøres følgende endringer:
+
+   1. I nr. 1 utgår bokstav b), c) og d).
+   2. Nr. 2 og 3 utgår.
+2. I artikkel 29a gjøres følgende endringer:
+
+   1. I nr. 1 utgår bokstav b), c) og d).
+   2. Nr. 2 og 3 utgår.
 
 ### Artikkel 47. Endringer av forordning (EU) nr. 28/2012
 
 I forordning [(EU) nr. 28/2012](eu/32012r0028) gjøres følgende endringer:
 
-1. I artikkel 5 gjøres følgende endringer:I nr. 1 utgår bokstav b), c) og d).Nr. 2 og 3 utgår.
-2. I artikkel 5a gjøres følgende endringer:I nr. 1 utgår bokstav b), c) og d).Nr. 2 og 3 utgår.
+1. I artikkel 5 gjøres følgende endringer:
+
+   1. I nr. 1 utgår bokstav b), c) og d).
+   2. Nr. 2 og 3 utgår.
+2. I artikkel 5a gjøres følgende endringer:
+
+   1. I nr. 1 utgår bokstav b), c) og d).
+   2. Nr. 2 og 3 utgår.
 
 ### Artikkel 48. Endringer av gjennomføringsforordning (EU) 2016/759
 
@@ -668,7 +920,11 @@ Denne forordning fastsetter regler for overvåking av transport og ankomst av fo
 
 1\. Vedkommende myndighet på grensekontrollstasjonen på ankomststedet til Unionen skal bare tillate transport av forsendelsen til virksomheten på bestemmelsesstedet angitt i det felles innførselsdokumentet om helse (CHED) nevnt i artikkel 56 i forordning [(EU) 2017/625](eu/32017r0625*), dersom resultatet av den offentlige kontrollen på grensekontrollstasjonen på ankomststedet er positiv.
 
-2\. Forsendelsen som har fått utstedt tillatelse i samsvar med nr. 1, skalforsegles av vedkommende myndighet på grensekontrollstasjonen på ankomststedet,transporteres uten å bli losset eller delt opp,transporteres direkte til virksomheten på bestemmelsesstedet angitt i CHED.
+2\. Forsendelsen som har fått utstedt tillatelse i samsvar med nr. 1, skal
+
+1. forsegles av vedkommende myndighet på grensekontrollstasjonen på ankomststedet,
+2. transporteres uten å bli losset eller delt opp,
+3. transporteres direkte til virksomheten på bestemmelsesstedet angitt i CHED.
 
 3\. Vedkommende myndighet på grensekontrollstasjonen på ankomststedet skal, straks etter at tillatelse er gitt, gjennom informasjonsstyringssystemet for offentlig kontroll («IMSOC») nevnt i artikkel 131 i forordning [(EU) 2017/625](eu/32017r0625*), underrette vedkommende myndighet med ansvar for gjennomføring av offentlig kontroll på virksomheten på bestemmelsesstedet angitt i CHED («bestemmelsessted») om at det etter offentlig kontroll på grensekontrollstasjonen på ankomststedet, er gitt tillatelse til transport av forsendelsen til virksomheten på bestemmelsesstedet.
 
@@ -749,13 +1005,28 @@ I denne forordning gjelder definisjonen av «lager» fastsatt i artikkel 2 nr. 3
 
 ### Artikkel 2. Mal for offisielt sertifikat
 
-1\. I henhold til artikkel 21 nr. 1 og artikkel 29 bokstav c) i delegert forordning [(EU) 2019/2124](eu/32019r2124) skal malen for offisielt sertifikat angitt i del I i vedlegget til denne forordning brukes ved offentlig attestering av forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter som leverestil fartøyer som forlater Unionens territorium og er beregnet på forsyning til skip eller forpleining av besetning og passasjerer, ellerfra et lager på Unionens territorium til NATOs eller De forente staters militærbaser på Unionens territorium eller i en tredjestat.Det offisielle sertifikatet kan utstedes på papir eller i elektronisk form via IMSOC.
+1\. I henhold til artikkel 21 nr. 1 og artikkel 29 bokstav c) i delegert forordning [(EU) 2019/2124](eu/32019r2124) skal malen for offisielt sertifikat angitt i del I i vedlegget til denne forordning brukes ved offentlig attestering av forsendelser med produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter, avledede produkter, høy og halm og sammensatte produkter som leveres
+
+1. til fartøyer som forlater Unionens territorium og er beregnet på forsyning til skip eller forpleining av besetning og passasjerer, eller
+2. fra et lager på Unionens territorium til NATOs eller De forente staters militærbaser på Unionens territorium eller i en tredjestat.
+
+   Det offisielle sertifikatet kan utstedes på papir eller i elektronisk form via IMSOC.
 
 2\. Dersom forsendelsens innhold er satt sammen på et lager og består av produkter av ulik opprinnelse eller forskjellige produktkategorier, kan det utstedes et felles offisielt sertifikat som ledsager forsendelsen.
 
 ### Artikkel 3. Krav offisielle sertifikater som ikke leveres via IMSOC
 
-Offisielle sertifikater som ikke leveres via IMSOC, skal oppfylle følgende krav:I tillegg til underskriften fra sertifikatutstederen skal det offisielle sertifikatet være påført et offisielt stempel. Underskriften og stempelet skal være i en annen farge enn den trykte teksten.Dersom det offisielle sertifikatet inneholder erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av sertifikatutstederen, eller slettes helt fra sertifikatet.Det offisielle sertifikatet skal bestå avett enkelt ark ellerflere ark som utgjør et integrert hele og ikke kan deles opp, ellerflere sammenhengende sider som er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge.Dersom det offisielle sertifikatet består av flere sammenhengende sider, skal hver side angi den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) og være påført underskriften til sertifikatutstederen og det offisielle stempelet.Det offisielle sertifikatet skal utstedes før forsendelsene det gjelder, forlater vedkommende myndigheters kontroll ved grensekontrollstasjonen eller på lageret.
+Offisielle sertifikater som ikke leveres via IMSOC, skal oppfylle følgende krav:
+
+1. I tillegg til underskriften fra sertifikatutstederen skal det offisielle sertifikatet være påført et offisielt stempel. Underskriften og stempelet skal være i en annen farge enn den trykte teksten.
+2. Dersom det offisielle sertifikatet inneholder erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av sertifikatutstederen, eller slettes helt fra sertifikatet.
+3. Det offisielle sertifikatet skal bestå av
+
+   1. ett enkelt ark eller
+   2. flere ark som utgjør et integrert hele og ikke kan deles opp, eller
+   3. flere sammenhengende sider som er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge.
+4. Dersom det offisielle sertifikatet består av flere sammenhengende sider, skal hver side angi den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) og være påført underskriften til sertifikatutstederen og det offisielle stempelet.
+5. Det offisielle sertifikatet skal utstedes før forsendelsene det gjelder, forlater vedkommende myndigheters kontroll ved grensekontrollstasjonen eller på lageret.
 
 ### Artikkel 4. Krav til offisielle sertifikater som leveres via IMSOC og til bruk av elektronisk signatur
 
@@ -833,7 +1104,11 @@ Denne delen skal fylles ut av en offentlig veterinær eller en offentlig inspekt
 
 ###### Del III: Bekreftelse av forsendelsens ankomst
 
-Denne delen skal fylles ut avvedkommende myndighet i bestemmelseshavnen eller den offisielle representanten for skipsføreren dersom bestemmelsesstedet er et fartøy som forlater Unionen,vedkommende myndighet som har ansvaret for kontroll ved NATOs/De forente staters militærbase, dersom bestemmelsesstedet er en av NATOs/De forente staters militærbaser på Unionens territorium,vedkommende myndighet på grensekontrollstasjonen ved utførsel dersom bestemmelsesstedet er en av NATOs/De forente staters militærbaser i en tredjestat.
+Denne delen skal fylles ut av
+
+- vedkommende myndighet i bestemmelseshavnen eller den offisielle representanten for skipsføreren dersom bestemmelsesstedet er et fartøy som forlater Unionen,
+- vedkommende myndighet som har ansvaret for kontroll ved NATOs/De forente staters militærbase, dersom bestemmelsesstedet er en av NATOs/De forente staters militærbaser på Unionens territorium,
+- vedkommende myndighet på grensekontrollstasjonen ved utførsel dersom bestemmelsesstedet er en av NATOs/De forente staters militærbaser i en tredjestat.
 
 ## Forordninger i PDF
 

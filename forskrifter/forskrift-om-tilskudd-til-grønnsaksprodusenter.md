@@ -32,7 +32,10 @@ Med produsentsammenslutning menes samarbeid mellom enkeltprodusenter med det for
 
 ## § 3. Vilkår
 
-Produsentsammenslutningen skal til enhver tid:bestå av minimum 3 tilsluttede produsenter, ogha vedtekter med bestemmelser om formell organisering (styre), medlemsavgift, minsteleveranse fra medlemmene, og opphør av medlemskap.
+Produsentsammenslutningen skal til enhver tid:
+
+1. bestå av minimum 3 tilsluttede produsenter, og
+2. ha vedtekter med bestemmelser om formell organisering (styre), medlemsavgift, minsteleveranse fra medlemmene, og opphør av medlemskap.
 
 Produsentsammenslutningen kan ikke ha vedtektsfestede bindinger til bestemte omsetningsledd.
 

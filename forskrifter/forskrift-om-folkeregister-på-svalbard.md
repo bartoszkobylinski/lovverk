@@ -15,7 +15,7 @@ xml_hash: "67a5cd418c911a1b3d796e729db1ee0d295af93c8506723cf8989c980c3d6d93"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,19 @@ Annet ledd gjelder ikke sjøfolk, personer under utdanning, vernepliktige mannsk
 
 ## § 3.
 
-Registeret skal inneholde følgende opplysninger om personer som nevnt i [§ 2](forskrift/1994-02-04-111/§2).fullt navnfødselsdatokjønnstatsborgerskapdato for begynnelse og slutt på Svalbard oppholdetadresse på Svalbardsiste bosted før svalbardoppholdet. For personer som flytter til Svalbard fra annen del av Norge, angis bostedsadresse og -kommune, for andre angis land.ekteskapelig statusfamilienummerfødselsnummer for personer med norsk fødselsnummerD-nummer for personer som ikke har norsk fødselsnummer. D-nummer tildeles i samsvar med [forskrift 9. november 2007 nr. 1268](forskrift/2007-11-09-1268) om folkeregistrering.
+Registeret skal inneholde følgende opplysninger om personer som nevnt i [§ 2](forskrift/1994-02-04-111/§2).
+
+1. fullt navn
+2. fødselsdato
+3. kjønn
+4. statsborgerskap
+5. dato for begynnelse og slutt på Svalbard oppholdet
+6. adresse på Svalbard
+7. siste bosted før svalbardoppholdet. For personer som flytter til Svalbard fra annen del av Norge, angis bostedsadresse og -kommune, for andre angis land.
+8. ekteskapelig status
+9. familienummer
+10. fødselsnummer for personer med norsk fødselsnummer
+11. D-nummer for personer som ikke har norsk fødselsnummer. D-nummer tildeles i samsvar med [forskrift 9. november 2007 nr. 1268](forskrift/2007-11-09-1268) om folkeregistrering.
 
 Registeret kan inneholde arbeidsgivers navn og organisasjonsnummer.
 

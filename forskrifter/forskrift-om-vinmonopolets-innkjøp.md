@@ -92,7 +92,11 @@ Tilbydere som har fått avslag, skal underrettes skriftlig om dette.
 
 ### § 3-3. Innkjøp uten innhenting av konkurrerende tilbud
 
-Innkjøp uten innhenting av konkurrerende tilbud kan benyttes nårproduktet på grunnlag av oppnådd salg i testutvalget eller bestillingsutvalget kvalifiserer for listeføring i basisutvalget, jf. [§ 5-5](forskrift/1995-11-30-938/§5-5) og [§ 6-2](forskrift/1995-11-30-938/§6-2),produktet bare kan skaffes fra en grossist, ellerinnkjøpet på grunn av uforutsette omstendigheter ikke kan utsettes.
+Innkjøp uten innhenting av konkurrerende tilbud kan benyttes når
+
+1. produktet på grunnlag av oppnådd salg i testutvalget eller bestillingsutvalget kvalifiserer for listeføring i basisutvalget, jf. [§ 5-5](forskrift/1995-11-30-938/§5-5) og [§ 6-2](forskrift/1995-11-30-938/§6-2),
+2. produktet bare kan skaffes fra en grossist, eller
+3. innkjøpet på grunn av uforutsette omstendigheter ikke kan utsettes.
 
 Vinmonopolet kan fastsette en grense for innkjøp av produkter fra bestillingsutvalget dersom det er nødvendig for å opprettholde en rimelig balanse mellom produkter innkjøpt etter første ledd nr. 1 og [§ 3-2](forskrift/1995-11-30-938/§3-2).
 
@@ -142,7 +146,10 @@ Vinmonopolet skal ha et testutvalg. Testutvalget har til formål å sikre marked
 
 Grossister som retter skriftlig henvendelse til Vinmonopolet om opptak har rett til å få et bestemt antall produkter inn i testutvalget. Vinmonopolet bestemmer antallet produkter per grossist ut fra hensynet til likebehandling og størrelsen på testutvalget.
 
-Produkter grossisten melder på til opptak i testutvalget må ha vært i bestillingsutvalget i minst 12 måneder før første fastsatte lanseringstidspunkt etter påmelding til testutvalget, og i samme periodeha fått avslag på tilbud til basis- eller partiutvalget, ellerikke ha oppfylt spesifikasjonskravene i noen av tilbudsforespørslene til basis- eller partiutvalget.
+Produkter grossisten melder på til opptak i testutvalget må ha vært i bestillingsutvalget i minst 12 måneder før første fastsatte lanseringstidspunkt etter påmelding til testutvalget, og i samme periode
+
+1. ha fått avslag på tilbud til basis- eller partiutvalget, eller
+2. ikke ha oppfylt spesifikasjonskravene i noen av tilbudsforespørslene til basis- eller partiutvalget.
 
 Når et produkt er lansert i testutvalget, kan grossisten melde inn et nytt produkt innenfor rammen av den til enhver tid fastsatte kvote per grossist.
 

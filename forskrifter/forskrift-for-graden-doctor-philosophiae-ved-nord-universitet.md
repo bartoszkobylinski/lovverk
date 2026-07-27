@@ -15,7 +15,7 @@ xml_hash: "ee7b77bbb593e62581e226b10d0b3fd80cb7bb03496b7c945e24af139beb3d38"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,12 @@ Graden dr.philos. kvalifiserer for forskningsvirksomhet og for annet arbeid hvor
 
 Forskningsarbeidet og doktoravhandlingen skal være et selvstendig arbeid uten formell veiledning eller tilknytning til et organisert doktorgradsprogram.
 
-Dr.philos.-graden tildeles på grunnlag avgodkjent vitenskapelig avhandlinggodkjent prøveforelesning over oppgitt emnegodkjent prøveforelesning over selvvalgt emnegodkjent forsvar av avhandlingen i offentlig disputas.
+Dr.philos.-graden tildeles på grunnlag av
+
+1. godkjent vitenskapelig avhandling
+2. godkjent prøveforelesning over oppgitt emne
+3. godkjent prøveforelesning over selvvalgt emne
+4. godkjent forsvar av avhandlingen i offentlig disputas.
 
 ### § 3. Ansvaret for graden dr.philos.
 
@@ -50,7 +55,13 @@ Universitetsstyret har det overordnede ansvaret for graden dr.philos. og fastset
 
 Ansvaret for å vurdere retten til fremstilling, jf. [§ 4-1](forskrift/2025-05-08-862/§4-1), er delegert sentral forskningsadministrasjon.
 
-Fakultetene har ansvar for å gjennomføre vurdering innenfor sitt fagområde. Fakultetet skal fatte vedtak om:innlevert avhandling har et tema som hører inn under en fagportefølje hvor fakultetet har aktive forskere med professorkompetanseavhandlingen har høy nok vitenskapelig kvalitet til å bedømmes, jf. [§ 6](forskrift/2025-05-08-862/§6)oppnevnelse av bedømmelseskomitéavhandlingen er verdig til å forsvares for graden dr.philosprøveforelesningene og disputas kan godkjennes og vitnemål utstedes.
+Fakultetene har ansvar for å gjennomføre vurdering innenfor sitt fagområde. Fakultetet skal fatte vedtak om:
+
+- innlevert avhandling har et tema som hører inn under en fagportefølje hvor fakultetet har aktive forskere med professorkompetanse
+- avhandlingen har høy nok vitenskapelig kvalitet til å bedømmes, jf. [§ 6](forskrift/2025-05-08-862/§6)
+- oppnevnelse av bedømmelseskomité
+- avhandlingen er verdig til å forsvares for graden dr.philos
+- prøveforelesningene og disputas kan godkjennes og vitnemål utstedes.
 
 ## Del II – Søknad og avhandling
 
@@ -60,13 +71,26 @@ Fakultetene har ansvar for å gjennomføre vurdering innenfor sitt fagområde. F
 
 For å kunne fremstille seg kreves femårig mastergrad eller tilsvarende høyere grad, jf. [§ 3](forskrift/2005-12-01-1392/§3) og [§ 4](forskrift/2005-12-01-1392/§4) i [forskrift om krav til mastergrad](forskrift/2005-12-01-1392), med tilfredsstillende resultat. Søkere som på annen måte har godtgjort tilsvarende likeverdig kvalifikasjoner kan etter begrunnet søknad og særlig vurdering gis adgang til å fremstille seg til doktorgradsprøven. Det er søkerens ansvar å fremlegge dokumentasjon på tilsvarende kvalifikasjoner. Avhandlingen skal ikke bedømmes før utdanningsnivået er vurdert og eventuell særskilt tillatelse er gitt.
 
-Søkeren skal være statsborger i Norge eller annet nordisk land, eller ha folkeregistrert adresse i Norge. Andre søkere kan etter begrunnet søknad og særlig vurdering gis anledning til å fremstille seg dersom avhandlingen oppfyller ett eller flere av disse vilkårene:Behandler emner eller bygger på materiale som har direkte tilknytning til Norge.Har sterk tilknytning til norsk forskning innen det aktuelle fagområdet.Er utført under opphold ved et norsk universitet eller forskningsinstitusjon, eller i nær tilknytning til eller i tett samarbeid med norske forskere.
+Søkeren skal være statsborger i Norge eller annet nordisk land, eller ha folkeregistrert adresse i Norge. Andre søkere kan etter begrunnet søknad og særlig vurdering gis anledning til å fremstille seg dersom avhandlingen oppfyller ett eller flere av disse vilkårene:
+
+1. Behandler emner eller bygger på materiale som har direkte tilknytning til Norge.
+2. Har sterk tilknytning til norsk forskning innen det aktuelle fagområdet.
+3. Er utført under opphold ved et norsk universitet eller forskningsinstitusjon, eller i nær tilknytning til eller i tett samarbeid med norske forskere.
 
 Det gis ikke rett til å fremstille seg for prøven i et fagområde hvor kandidaten allerede har en doktorgrad fra en nordisk akkreditert institusjon.
 
 ### § 4-2. Søknad om bedømming av avhandlingen og krav til dokumentasjon
 
-Søknad om å fremstille seg til prøven for graden dr.philos. rettes til sentral forskningsadministrasjon ved Nord universitet. Søknaden skal inneholde en kort redegjørelse for at avhandlingen har et tema som hører inn under et av fakultetenes fagportefølje. Følgende dokumentasjon skal være vedlagt søknaden:Avhandlingen i digitalt format.Dokumentasjon som omfatter vitnemål og karakterutskrift for tidligere utdanning, eventuelt dokumentasjon på kvalifikasjoner tilsvarende høyere utdanning.Dokumentasjon på at nødvendige etiske og andre tillatelser er innhentet, hvor dette er påkrevd.Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 5-1, 6. ledd](forskrift/2025-05-08-862/§5-1/ledd/6).Erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gang.Erklæring om at avhandlingen ikke tidligere er levert inn og/eller bedømt ved annen norsk eller utenlandsk institusjon.Oversikt over tidligere vitenskapelige arbeider (de vitenskapelige arbeidene må kunne fremvises på forespørsel).Informasjon om håndtering av forskningsdata.
+Søknad om å fremstille seg til prøven for graden dr.philos. rettes til sentral forskningsadministrasjon ved Nord universitet. Søknaden skal inneholde en kort redegjørelse for at avhandlingen har et tema som hører inn under et av fakultetenes fagportefølje. Følgende dokumentasjon skal være vedlagt søknaden:
+
+- Avhandlingen i digitalt format.
+- Dokumentasjon som omfatter vitnemål og karakterutskrift for tidligere utdanning, eventuelt dokumentasjon på kvalifikasjoner tilsvarende høyere utdanning.
+- Dokumentasjon på at nødvendige etiske og andre tillatelser er innhentet, hvor dette er påkrevd.
+- Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 5-1, 6. ledd](forskrift/2025-05-08-862/§5-1/ledd/6).
+- Erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at avhandlingen ikke tidligere er levert inn og/eller bedømt ved annen norsk eller utenlandsk institusjon.
+- Oversikt over tidligere vitenskapelige arbeider (de vitenskapelige arbeidene må kunne fremvises på forespørsel).
+- Informasjon om håndtering av forskningsdata.
 
 Søkere som ikke er statsborger i Norge eller et annet nordisk land må i tillegg legge ved dokumentasjon på norsk oppholdstillatelse og/eller en redegjørelse for avhandlingens tilknytning til Norge.
 
@@ -120,7 +144,12 @@ Det gjennomføres plagiatkontroll av innlevert avhandling før søknaden godkjen
 
 Når ansvarlig fakultet har godtatt søknaden om å få avhandlingen bedømt oppnevner fakultetet en bedømmelseskomité på minst tre (3) medlemmer. Habilitetsreglene i [lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 6](lov/1967-02-10/§6) gjelder for medlemmene i bedømmelseskomitéen.
 
-Bedømmelseskomitéen skal normalt settes sammen slik at:begge kjønn er representertflertallet er uten tilknytting til Nord universitetminst ett av medlemmene er fra en utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Bedømmelseskomitéen skal normalt settes sammen slik at:
+
+- begge kjønn er representert
+- flertallet er uten tilknytting til Nord universitet
+- minst ett av medlemmene er fra en utenlandsk institusjon
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 

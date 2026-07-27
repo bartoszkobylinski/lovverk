@@ -32,7 +32,13 @@ Tilskudd ved frakt av reinslakt skal bidra til utjevning av pris på reinkjøtt 
 
 Tilskudd for frakt av levende rein i perioden 15. august t.o.m. 31. desember kan innvilges til den som første gang kjøper råvaren fra reineier. Videre kan det innvilges tilskudd for frakt av slakteskrotter i perioden 15. august t.o.m. 31. mars til den som første gang kjøper råvaren fra reineier. Ved direktesalg fra reineier til forbruker eller detaljist kan tilskudd innvilges til reineier.
 
-For at tilskudd skal kunne innvilges etter denne forskrift måreinen være fraktet minst 25 kilometer, enten fra samlingsgjerdet til godkjent slakteri, eller fra godkjent slakteri til videreforedlingsbedrift,reinen slaktes på et godkjent slakteri,den som slakter rein oppfylle de krav som stilles til rapportering i gjeldende forskrift om rapportering av slaktet rein og lagerbeholdning,transportør og motorvogn som anvendes til transport av levende rein inneha nødvendige godkjenninger, herunder også tilfredsstille samtlige krav i forskrift om næringsmessig transport av dyr.opplysninger om reinen må være sendt Landbruksdirektoratet etter forskrift om rapportering av slakt og lagerbeholdning.
+For at tilskudd skal kunne innvilges etter denne forskrift må
+
+1. reinen være fraktet minst 25 kilometer, enten fra samlingsgjerdet til godkjent slakteri, eller fra godkjent slakteri til videreforedlingsbedrift,
+2. reinen slaktes på et godkjent slakteri,
+3. den som slakter rein oppfylle de krav som stilles til rapportering i gjeldende forskrift om rapportering av slaktet rein og lagerbeholdning,
+4. transportør og motorvogn som anvendes til transport av levende rein inneha nødvendige godkjenninger, herunder også tilfredsstille samtlige krav i forskrift om næringsmessig transport av dyr.
+5. opplysninger om reinen må være sendt Landbruksdirektoratet etter forskrift om rapportering av slakt og lagerbeholdning.
 
 > Endret ved [forskrifter 30 mai 2013 nr. 623](forskrift/2013-05-30-623) (i kraft 1 juli 2013), [6 juni 2014 nr. 734](forskrift/2014-06-06-734) (i kraft 1 juli 2014), [21 juni 2016 nr. 756](forskrift/2016-06-21-756) (i kraft 1 juli 2016), [23 juni 2017 nr. 983](forskrift/2017-06-23-983) (i kraft 1 juli 2017), [20 juni 2019 nr. 850](forskrift/2019-06-20-850) (i kraft 1 juli 2019), [29 juni 2020 nr. 1426](forskrift/2020-06-29-1426) (i kraft 1 juli 2020), [4 okt 2021 nr. 2924](forskrift/2021-10-04-2924), [20 juni 2022 nr. 1094](forskrift/2022-06-20-1094) (i kraft 1 juli 2022), [21 juni 2023 nr. 1013](forskrift/2023-06-21-1013) (i kraft 1 juli 2023), [20 juni 2024 nr. 1062](forskrift/2024-06-20-1062) (i kraft 1 juli 2024).
 
@@ -60,7 +66,13 @@ Frist for søknad om frakttilskudd og rapportering i henhold til [§ 4a](forskri
 
 Opplysningene overføres til Landbruksdirektoratet, i den form som kreves innenfor de rapporteringssystemer som Landbruksdirektoratet benytter.
 
-Den som skal søke om frakttilskudd skal rapportere:slaktenummer,hentested,leveringssted,fraktet som skrott/levende,fraktdato.
+Den som skal søke om frakttilskudd skal rapportere:
+
+1. slaktenummer,
+2. hentested,
+3. leveringssted,
+4. fraktet som skrott/levende,
+5. fraktdato.
 
 Landbruksdirektoratet kan i særlige tilfeller fravike kravene til rapportering.
 

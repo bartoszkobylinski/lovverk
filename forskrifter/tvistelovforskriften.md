@@ -30,7 +30,12 @@ Forliksrådet driver mekling og avsier dom i saker hvor forliksrådet har domsmy
 
 Sekretariatsfunksjonen for forliksrådet utføres av politiet som en sivil oppgave. I lensmannsdistrikt er lensmannen sekretariat for forliksrådet, i politistasjonsdistrikt med sivile rettspleieoppgaver er politistasjonen sekretariat for forliksrådet, og i namsfogddistrikt er namsfogden sekretariat.
 
-Sekretariatet skal utføre oppgaver og støttefunksjoner som naturlig er en del av sekretariatsoppgavene for en domstol. Forliksrådets leder kan innenfor dette saklige området instruere sekretariatet. Typiske sekretariatsoppgaver vil være:å motta forliksklager og tilsvar, herunder nedtegne muntlige forliksklager og tilsvar og veilede publikum,journalføring, beramming, innkalling av parter, forkynning av avgjørelser, arkivering og tilsvarende,deltakelse i forliksrådets møter for å ordne sakens dokumenter og renskriving av avgjørelser og forlik,å lage utkast til fraværsdommer og dommer avsagt på grunnlag av at innklagede i tilsvar har godtatt klagerens påstand, og å lage utkast til beslutninger om innstillinger etter [tvisteloven § 6-11](lov/2005-06-17-90/§6-11).
+Sekretariatet skal utføre oppgaver og støttefunksjoner som naturlig er en del av sekretariatsoppgavene for en domstol. Forliksrådets leder kan innenfor dette saklige området instruere sekretariatet. Typiske sekretariatsoppgaver vil være:
+
+1. å motta forliksklager og tilsvar, herunder nedtegne muntlige forliksklager og tilsvar og veilede publikum,
+2. journalføring, beramming, innkalling av parter, forkynning av avgjørelser, arkivering og tilsvarende,
+3. deltakelse i forliksrådets møter for å ordne sakens dokumenter og renskriving av avgjørelser og forlik,
+4. å lage utkast til fraværsdommer og dommer avsagt på grunnlag av at innklagede i tilsvar har godtatt klagerens påstand, og å lage utkast til beslutninger om innstillinger etter [tvisteloven § 6-11](lov/2005-06-17-90/§6-11).
 
 Sekretariatet fører regnskap for forliksrådet og skal attestere og besørge anvisning av utbetalinger til forliksrådets medlemmer.
 
@@ -146,7 +151,13 @@ Forskriften trer i kraft 1. januar 2008.
 
 ### § 17. Overgangsregler
 
-Denne forskriften gjelder for saker som:er brakt inn for forliksrådet etter 31. desember 2007,er brakt inn for tingretten etter 31. desember 2007,er brakt inn for annen førsteinstansdomstol eller namsmyndighet etter 31. desember 2007,er anket eller begjært overprøvd etter 31. desember 2007,blir begjært gjenåpnet etter 31. desember 2007.
+Denne forskriften gjelder for saker som:
+
+1. er brakt inn for forliksrådet etter 31. desember 2007,
+2. er brakt inn for tingretten etter 31. desember 2007,
+3. er brakt inn for annen førsteinstansdomstol eller namsmyndighet etter 31. desember 2007,
+4. er anket eller begjært overprøvd etter 31. desember 2007,
+5. blir begjært gjenåpnet etter 31. desember 2007.
 
 Denne forskriften gjelder for tvister som er reist under tvangsfullbyrdelse eller bobehandling etter 31. desember 2007.
 

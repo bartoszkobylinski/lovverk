@@ -34,23 +34,52 @@ Denne forskrift gjelder for norske fiske- og fangstfartøy som i henhold til [fo
 
 ### § 2. Krav til posisjonsrapporteringsutstyr om bord i fiske- og fangstfartøy
 
-Posisjonsrapporteringsutstyr skal være typegodkjent av Fiskeridirektoratet og tilfredsstille følgende krav:ha radioteknisk typegodkjennelse i tråd med gjeldende regelverk,være installert i henhold til bestemmelsene i [kapittel III](forskrift/2010-03-24-454/kapiii) og IV i denne forskriften,automatisk kunne sende meldinger i maskinlesbar form minst 1 gang per time med følgende innhold:entydig identifikasjon av fartøyet,fartøyets geografiske posisjon med posisjonsfeil på under 500 meter med et konfidensintervall på 99 %,dato og tidspunkt for fartøyets posisjon,fart og kurs i rapporteringsøyeblikket,identifikasjon av hvilken rapporttype som sendes,være sikret mot manipulering og deaktivering, herunder sikret mot at andre enn spesielt autorisert personell skal kunne endre meldingsplanen eller meldingen som sendes til Fiskeridirektoratet,fungere slik at Fiskeridirektoratet skal kunne motta posisjonsopplysninger fra tilfeldige tidspunkt i tillegg til de posisjonsopplysninger som sendes i henhold til eventuell forhåndskodet rapporteringsplan,være av en slik art at fartøyet kan spores i alle områder der fartøy vil oppholde seg,være sikret mot påvirkning fra annet teknisk utstyr om bord i fartøyet.
+Posisjonsrapporteringsutstyr skal være typegodkjent av Fiskeridirektoratet og tilfredsstille følgende krav:
+
+1. ha radioteknisk typegodkjennelse i tråd med gjeldende regelverk,
+2. være installert i henhold til bestemmelsene i [kapittel III](forskrift/2010-03-24-454/kapiii) og IV i denne forskriften,
+3. automatisk kunne sende meldinger i maskinlesbar form minst 1 gang per time med følgende innhold:
+
+   1. entydig identifikasjon av fartøyet,
+   2. fartøyets geografiske posisjon med posisjonsfeil på under 500 meter med et konfidensintervall på 99 %,
+   3. dato og tidspunkt for fartøyets posisjon,
+   4. fart og kurs i rapporteringsøyeblikket,
+   5. identifikasjon av hvilken rapporttype som sendes,
+4. være sikret mot manipulering og deaktivering, herunder sikret mot at andre enn spesielt autorisert personell skal kunne endre meldingsplanen eller meldingen som sendes til Fiskeridirektoratet,
+5. fungere slik at Fiskeridirektoratet skal kunne motta posisjonsopplysninger fra tilfeldige tidspunkt i tillegg til de posisjonsopplysninger som sendes i henhold til eventuell forhåndskodet rapporteringsplan,
+6. være av en slik art at fartøyet kan spores i alle områder der fartøy vil oppholde seg,
+7. være sikret mot påvirkning fra annet teknisk utstyr om bord i fartøyet.
 
 ### § 3. Krav til tjenesteleverandør som videreformidler sporingsopplysninger fra fartøy
 
-Tjenesteleverandør som videreformidler sporingsopplysningene fra fartøy skal tilfredsstille følgende krav:sporingsmeldingene skal sendes over sikre linjer i tilnærmet sann tid i forhold til rapporteringsøyeblikket, på et format som godkjennes av Fiskeridirektoratet.tjenesteleverandøren skal avgi erklæring overfor Fiskeridirektoratet om at sporingsopplysningene vil bli behandlet på en måte som er sikker ut fra personvernhensyn. På forespørsel må tjenesteleverandøren kunne legge frem dokumentasjon på de tiltak som er iverksatt for å sikre dette.
+Tjenesteleverandør som videreformidler sporingsopplysningene fra fartøy skal tilfredsstille følgende krav:
+
+1. sporingsmeldingene skal sendes over sikre linjer i tilnærmet sann tid i forhold til rapporteringsøyeblikket, på et format som godkjennes av Fiskeridirektoratet.
+2. tjenesteleverandøren skal avgi erklæring overfor Fiskeridirektoratet om at sporingsopplysningene vil bli behandlet på en måte som er sikker ut fra personvernhensyn. På forespørsel må tjenesteleverandøren kunne legge frem dokumentasjon på de tiltak som er iverksatt for å sikre dette.
 
 ## Kapittel III. Generelle krav til installering av posisjonsrapporteringsutstyr
 
 ### § 4. Generelle krav til installering av posisjonsrapporteringsutstyr
 
-Posisjonsrapporteringsutstyret skal installeres:på en slik måte og i slike lokaliteter om bord at gjeldende bestemmelser for posisjonsrapportering oppfylles, jf. [forskrift 21. desember 2009 nr. 1743](forskrift/2009-12-21-1743) om posisjonsrapportering og elektronisk rapportering for norske fiske og fangstfartøy.slik det er konfigurert og fremstilt ved typegodkjenning for sporingsformål av Fiskeridirektoratet.av autorisert personell og i overensstemmelse med godkjent anvisning fra produsent eller tjenesteleverandør.
+Posisjonsrapporteringsutstyret skal installeres:
+
+1. på en slik måte og i slike lokaliteter om bord at gjeldende bestemmelser for posisjonsrapportering oppfylles, jf. [forskrift 21. desember 2009 nr. 1743](forskrift/2009-12-21-1743) om posisjonsrapportering og elektronisk rapportering for norske fiske og fangstfartøy.
+2. slik det er konfigurert og fremstilt ved typegodkjenning for sporingsformål av Fiskeridirektoratet.
+3. av autorisert personell og i overensstemmelse med godkjent anvisning fra produsent eller tjenesteleverandør.
 
 ### § 5. Forsegling, plombering og plassering av posisjonsrapporteringsutstyr
 
-Sender eller mottakerenheter skal:forsegles av autorisert personell slik at det kan oppdages ved brudd på segl dersom enheten er åpnet eller er forsøkt åpnet,av autorisert personell festes til fast innretning om bord på en slik måte at den ikke skal kunne flyttes uten at det oppdages ved brudd på segl eller annen sikring.
+Sender eller mottakerenheter skal:
 
-De ulike enheter av posisjonsrapporteringsutstyret skal plasseres slik at de:ikke er til hinder for sikker manøvrering eller drift av fartøyet.er best mulig beskyttet mot vær, vind og vibrasjoner .ikke blir utsatt for påvirkning fra annet teknisk utstyr om bord i fartøyet.er tilgjengelige for inspeksjon og vedlikehold.
+1. forsegles av autorisert personell slik at det kan oppdages ved brudd på segl dersom enheten er åpnet eller er forsøkt åpnet,
+2. av autorisert personell festes til fast innretning om bord på en slik måte at den ikke skal kunne flyttes uten at det oppdages ved brudd på segl eller annen sikring.
+
+De ulike enheter av posisjonsrapporteringsutstyret skal plasseres slik at de:
+
+1. ikke er til hinder for sikker manøvrering eller drift av fartøyet.
+2. er best mulig beskyttet mot vær, vind og vibrasjoner .
+3. ikke blir utsatt for påvirkning fra annet teknisk utstyr om bord i fartøyet.
+4. er tilgjengelige for inspeksjon og vedlikehold.
 
 ### § 6. Aktivering og deaktivering av posisjonsrapporteringsutstyr
 

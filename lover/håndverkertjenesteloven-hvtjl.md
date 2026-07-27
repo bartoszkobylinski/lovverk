@@ -15,7 +15,7 @@ xml_hash: "5b19830f894c520f8a94e9309f727159ec6af933dd14f2089db086dab87ddbe0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,10 @@ eu_basis: []
 
 (3) Også organisasjoner eller offentlig virksomhet som yter tjenester mot godtgjøring anses for å yte tjenester i næringsvirksomhet.
 
-(4) Disse tjenester omfattes av loven:arbeid på ting, likevel ikke behandling av levende dyr.arbeid på fast eiendom, unntatt nyoppføring av bygning for boformål og annet arbeid som utføres umiddelbart som ledd i slik oppføring.
+(4) Disse tjenester omfattes av loven:
+
+1. arbeid på ting, likevel ikke behandling av levende dyr.
+2. arbeid på fast eiendom, unntatt nyoppføring av bygning for boformål og annet arbeid som utføres umiddelbart som ledd i slik oppføring.
 
 > Endret ved [lov 21 juni 2002 nr. 34](lov/2002-06-21-34) (ikr. 1 juli 2002).
 
@@ -78,7 +81,10 @@ Tjenesten skal utføres i samsvar med sikkerhetskrav fastsatt i lov eller i medh
 
 (1) Viser det seg under utføringen behov for arbeid utenfor oppdraget som det er praktisk å utføre sammen med oppdraget (tilleggsarbeid), skal tjenesteyteren kontakte forbrukeren.
 
-(2) Er forbrukeren ikke å treffe, eller mottar tjenesteyteren av andre grunner ikke beskjed innen rimelig tid, kan tilleggsarbeidet likevel utføres dersomforbrukeren må antas å ville ha tilleggsarbeidet utført, ogprisen for tilleggsarbeidet er ubetydelig i seg selv, eller den er lav i forhold til prisen for den avtalte tjenesten.
+(2) Er forbrukeren ikke å treffe, eller mottar tjenesteyteren av andre grunner ikke beskjed innen rimelig tid, kan tilleggsarbeidet likevel utføres dersom
+
+1. forbrukeren må antas å ville ha tilleggsarbeidet utført, og
+2. prisen for tilleggsarbeidet er ubetydelig i seg selv, eller den er lav i forhold til prisen for den avtalte tjenesten.
 
 (3) Tjenesteyteren plikter i rimelig utstrekning å utføre tilleggsarbeid som ikke kan utsettes uten fare for vesentlig skade for forbrukeren.
 
@@ -94,7 +100,11 @@ Tjenesten skal utføres i samsvar med sikkerhetskrav fastsatt i lov eller i medh
 
 ### § 11. Forbrukerens krav ved forsinkelse.
 
-Dersom tjenesteyteren ikke har avsluttet tjenesten eller overholdt frister i samsvar med [§ 10](lov/1989-06-16-63/§10), og dette ikke skyldes forhold på forbrukerens side, kan forbrukerenholde betalingen tilbake etter [§ 13](lov/1989-06-16-63/§13).kreve tjenesten utført etter [§ 14](lov/1989-06-16-63/§14) eller heve avtalen etter [§ 15](lov/1989-06-16-63/§15), ogkreve erstatning etter [§ 28](lov/1989-06-16-63/§28).
+Dersom tjenesteyteren ikke har avsluttet tjenesten eller overholdt frister i samsvar med [§ 10](lov/1989-06-16-63/§10), og dette ikke skyldes forhold på forbrukerens side, kan forbrukeren
+
+1. holde betalingen tilbake etter [§ 13](lov/1989-06-16-63/§13).
+2. kreve tjenesten utført etter [§ 14](lov/1989-06-16-63/§14) eller heve avtalen etter [§ 15](lov/1989-06-16-63/§15), og
+3. kreve erstatning etter [§ 28](lov/1989-06-16-63/§28).
 
 ### § 12. Reklamasjon.
 
@@ -138,7 +148,10 @@ Er tjenesten avsluttet, kan avtalen ikke heves eller erstatning kreves med mindr
 
 ### § 18. Opplysninger om tjenesten.
 
-(1) Mangel foreligger også når resultatet ikke svarer til opplysninger av betydning for bedømmelsen av tjenestens egenskaper eller hensiktsmessighet som er gitt i samband med avtaleinngåelsen eller ved markedsføringav tjenesteyteren eller på tjenesteyterens vegne, ellerav noen annen i egenskap av eller på vegne av en materialleverandør eller et tidligere salgsledd.
+(1) Mangel foreligger også når resultatet ikke svarer til opplysninger av betydning for bedømmelsen av tjenestens egenskaper eller hensiktsmessighet som er gitt i samband med avtaleinngåelsen eller ved markedsføring
+
+1. av tjenesteyteren eller på tjenesteyterens vegne, eller
+2. av noen annen i egenskap av eller på vegne av en materialleverandør eller et tidligere salgsledd.
 
 (2) Første ledd gjelder bare når opplysningen ikke i tide er rettet på en tydelig måte og kan antas å ha virket inn på avtalen.
 
@@ -152,11 +165,18 @@ Mangel foreligger dessuten når tjenesteyteren før avtalen ble inngått har unn
 
 (2) Dersom tjenesten er utført, men oppdraget ikke kan avsluttes i rett tid på grunn av forhold på forbrukerens side, legges den tiden til grunn da oppdraget skulle ha vært avsluttet. Dette gjelder likevel ikke følger av en tilfeldig hending som inntrer mens den ting tjenesten gjelder er hos tjenesteyteren og hendingen ikke skyldes egenskaper ved tingen selv.
 
-(3) Også feil som oppstår seinere anses som mangel dersomfeilen skyldes kontraktbrudd fra tjenesteyterens side, ellertjenesteyteren ved garanti eller på annen måte har påtatt seg å rette feilen eller har annet ansvar for resultatet av tjenesten i en viss tid, og feilen oppstår i denne tiden.
+(3) Også feil som oppstår seinere anses som mangel dersom
+
+1. feilen skyldes kontraktbrudd fra tjenesteyterens side, eller
+2. tjenesteyteren ved garanti eller på annen måte har påtatt seg å rette feilen eller har annet ansvar for resultatet av tjenesten i en viss tid, og feilen oppstår i denne tiden.
 
 ### § 21. Forbrukerens krav ved mangler.
 
-(1) Ved mangel kan forbrukerenholde betalingen tilbake etter [§ 23](lov/1989-06-16-63/§23),kreve mangelen rettet etter [§ 24](lov/1989-06-16-63/§24), eller om mangelen ikke rettes, kreve prisavslag etter [§ 25](lov/1989-06-16-63/§25) eller heve avtalen etter [§ 26](lov/1989-06-16-63/§26), ogkreve erstatning etter [§ 28](lov/1989-06-16-63/§28).
+(1) Ved mangel kan forbrukeren
+
+1. holde betalingen tilbake etter [§ 23](lov/1989-06-16-63/§23),
+2. kreve mangelen rettet etter [§ 24](lov/1989-06-16-63/§24), eller om mangelen ikke rettes, kreve prisavslag etter [§ 25](lov/1989-06-16-63/§25) eller heve avtalen etter [§ 26](lov/1989-06-16-63/§26), og
+3. kreve erstatning etter [§ 28](lov/1989-06-16-63/§28).
 
 (2) Om krav mot andre enn tjenesteyteren gjelder [§ 27](lov/1989-06-16-63/§27).
 
@@ -262,7 +282,10 @@ Forbrukeren kan holde tilbake så mye av betalingen at det sikrer forbrukerens k
 
 ### § 33. Pristillegg.
 
-Tjenesteyteren kan kreve pristillegg reknet ut etter [§ 32](lov/1989-06-16-63/§32) fortilleggsarbeid, når det godtgjøres at arbeidet ikke omfattes av oppdraget og er utført i samsvar med [§ 9](lov/1989-06-16-63/§9),ekstra materialer og arbeid som skyldes uforutsette forhold på forbrukerens side.
+Tjenesteyteren kan kreve pristillegg reknet ut etter [§ 32](lov/1989-06-16-63/§32) for
+
+1. tilleggsarbeid, når det godtgjøres at arbeidet ikke omfattes av oppdraget og er utført i samsvar med [§ 9](lov/1989-06-16-63/§9),
+2. ekstra materialer og arbeid som skyldes uforutsette forhold på forbrukerens side.
 
 ### § 34. Forundersøkelse o.l.
 
@@ -288,7 +311,10 @@ Forbrukeren skal ikke betale for arbeid eller materialer som går tapt eller bli
 
 ### § 38. Forbrukerens medvirkning m.m.
 
-Forbrukeren skalyte slik medvirkning som det er rimelig å vente for at tjenesteyteren skal kunne utføre tjenestenoverta ting som er hos tjenesteyteren ved å hente eller motta den.
+Forbrukeren skal
+
+1. yte slik medvirkning som det er rimelig å vente for at tjenesteyteren skal kunne utføre tjenesten
+2. overta ting som er hos tjenesteyteren ved å hente eller motta den.
 
 ## Kapittel VII. Forbrukerens avbestilling.
 
@@ -302,7 +328,11 @@ Forbrukeren skalyte slik medvirkning som det er rimelig å vente for at tjeneste
 
 (1) For del av tjenesten som er utført eller blir utført i samsvar med [§ 39](lov/1989-06-16-63/§39), kan tjenesteyteren kreve vederlag som svarer til det prisen ville utgjøre dersom oppdraget bare omfattet denne del (jf [§ 32](lov/1989-06-16-63/§32)).
 
-(2) Tjenesteyteren kan videre kreve erstatning for tap som følge av avbestillingen. Dette gjelder også tapt fortjeneste så langt det godtgjøres at det ikke var mulig å oppnå en tilsvarende fortjeneste ved oppdrag for andre. Ved utmålingen av erstatningen gjelder ellers reglene i [§ 30](lov/1989-06-16-63/§30) (1) til (3) tilsvarende. Erstatning etter leddet her kan likevel ikke kreves dersom det godtgjøres atforbrukeren ikke har bruk for tjenesten fordi den ting eller eiendom tjenesten gjelder går tapt eller skades vesentlig på grunn av uforutsette forhold utenfor forbrukerens kontroll,lov, inngrep av offentlig myndighet eller andre tilsvarende uforutsette forhold utenfor forbrukerens kontroll er til hinder for at forbrukeren nyttiggjør seg tjenesten, ellerforbrukeren ikke kan betale eller yte nødvendig medvirkning på grunn av uforutsett hindring utenfor forbrukerens kontroll.
+(2) Tjenesteyteren kan videre kreve erstatning for tap som følge av avbestillingen. Dette gjelder også tapt fortjeneste så langt det godtgjøres at det ikke var mulig å oppnå en tilsvarende fortjeneste ved oppdrag for andre. Ved utmålingen av erstatningen gjelder ellers reglene i [§ 30](lov/1989-06-16-63/§30) (1) til (3) tilsvarende. Erstatning etter leddet her kan likevel ikke kreves dersom det godtgjøres at
+
+1. forbrukeren ikke har bruk for tjenesten fordi den ting eller eiendom tjenesten gjelder går tapt eller skades vesentlig på grunn av uforutsette forhold utenfor forbrukerens kontroll,
+2. lov, inngrep av offentlig myndighet eller andre tilsvarende uforutsette forhold utenfor forbrukerens kontroll er til hinder for at forbrukeren nyttiggjør seg tjenesten, eller
+3. forbrukeren ikke kan betale eller yte nødvendig medvirkning på grunn av uforutsett hindring utenfor forbrukerens kontroll.
 
 (3) Avtalen kan isteden fastsette en normalerstatning (avbestillingsgebyr) som skal betales dersom forbrukeren tilbakekaller oppdraget eller krever arbeidet innstilt, såframt erstatningen på bakgrunn av reglene i (1) og (2) er rimelig. Unntakene fra erstatningsplikten i (2) fjerde punktum for arbeid som ikke utføres, gjelder tilsvarende.
 
@@ -310,7 +340,12 @@ Forbrukeren skalyte slik medvirkning som det er rimelig å vente for at tjeneste
 
 ### § 41. Tjenesteyterens krav ved forsinkelse.
 
-Ved forsinket betaling eller medvirkning fra forbrukeren som ikke skyldes forhold på tjenesteyterens side, kan tjenesteyterenstanse arbeidet og kreve kostnadene og annet tap ved stansingen erstattet etter [§ 42](lov/1989-06-16-63/§42),heve etter [§ 43](lov/1989-06-16-63/§43) for den del av tjenesten som står igjen, og kreve oppgjør ved heving etter [§ 44](lov/1989-06-16-63/§44),kreve rente og rentetaperstatning for tap på grunn av forsinket betaling etter [§ 45](lov/1989-06-16-63/§45), ogholde tilbake og eventuelt selge etter [§§ 46](lov/1989-06-16-63/§46) og [47](lov/1989-06-16-63/§47) den tingen arbeidet gjelder, og kreve erstatning for kostnadene ved omsorgen.
+Ved forsinket betaling eller medvirkning fra forbrukeren som ikke skyldes forhold på tjenesteyterens side, kan tjenesteyteren
+
+1. stanse arbeidet og kreve kostnadene og annet tap ved stansingen erstattet etter [§ 42](lov/1989-06-16-63/§42),
+2. heve etter [§ 43](lov/1989-06-16-63/§43) for den del av tjenesten som står igjen, og kreve oppgjør ved heving etter [§ 44](lov/1989-06-16-63/§44),
+3. kreve rente og rentetaperstatning for tap på grunn av forsinket betaling etter [§ 45](lov/1989-06-16-63/§45), og
+4. holde tilbake og eventuelt selge etter [§§ 46](lov/1989-06-16-63/§46) og [47](lov/1989-06-16-63/§47) den tingen arbeidet gjelder, og kreve erstatning for kostnadene ved omsorgen.
 
 ### § 42. Stansing av arbeidet.
 
@@ -322,7 +357,11 @@ Ved forsinket betaling eller medvirkning fra forbrukeren som ikke skyldes forhol
 
 ### § 43. Heving.
 
-(1) Ved forsinket betaling eller medvirkning fra forbrukeren kan tjenesteyteren heve avtalen for den del av tjenesten som står igjen, dersomforsinkelsen er av vesentlig betydning,forbrukeren ikke betaler eller medvirker innen en rimelig tilleggsfrist som tjenesteyteren har fastsatt for oppfyllelse, ellerdet allerede på forhånd er klart at forsinkelsen vil bli av vesentlig betydning eller vare ut over tilleggsfristen.
+(1) Ved forsinket betaling eller medvirkning fra forbrukeren kan tjenesteyteren heve avtalen for den del av tjenesten som står igjen, dersom
+
+1. forsinkelsen er av vesentlig betydning,
+2. forbrukeren ikke betaler eller medvirker innen en rimelig tilleggsfrist som tjenesteyteren har fastsatt for oppfyllelse, eller
+3. det allerede på forhånd er klart at forsinkelsen vil bli av vesentlig betydning eller vare ut over tilleggsfristen.
 
 (2) Når tjenesten er betalt, kan tjenesteyteren ikke heve avtalen med mindre det blir meldt fra til forbrukeren om det før eller straks tjenesteyteren fikk vite om betalingen eller medvirkningen.
 

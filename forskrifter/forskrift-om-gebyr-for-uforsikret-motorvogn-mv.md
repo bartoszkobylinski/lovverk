@@ -15,7 +15,7 @@ xml_hash: "4d40aeea61785d2f96186c3b285978b0a070f22c652838a3723906e9ffd5f407"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ Gebyr etter denne forskriften skal motivere forsikringspliktige til frivillig å
 
 ## § 2. Virkeområde
 
-Forskriften fastsetter bestemmelser om gebyr som ileggesden som ikke har oppfylt sin plikt til å ha gyldig forsikring for motorvogn slik som angitt i [bilansvarslova § 15](lov/1961-02-03/§15) første punktumny eier som under medforsikringsperiode etter [forsikringsavtaleloven § 7-2](lov/1989-06-16-69/§7-2) ikke har tegnet egen forsikring etter [bilansvarslova § 15](lov/1961-02-03/§15) første punktum.
+Forskriften fastsetter bestemmelser om gebyr som ilegges
+
+1. den som ikke har oppfylt sin plikt til å ha gyldig forsikring for motorvogn slik som angitt i [bilansvarslova § 15](lov/1961-02-03/§15) første punktum
+2. ny eier som under medforsikringsperiode etter [forsikringsavtaleloven § 7-2](lov/1989-06-16-69/§7-2) ikke har tegnet egen forsikring etter [bilansvarslova § 15](lov/1961-02-03/§15) første punktum.
 
 Ileggelse av gebyr etter første ledd bokstav a, er ikke til hinder for at det også kan ilegges straff etter [bilansvarslova § 20](lov/1961-02-03/§20) for den som bruker eller kjører motorvogn som ikke er lovlig forsikret. Motorvognen kan også avskiltes etter [bilansvarslova § 19](lov/1961-02-03/§19) og [vegtrafikkloven § 36](lov/1965-06-18-4/§36). Dette gjelder også dersom motorvognen påtreffes ved kontroll, og uten hensyn til om klage på ileggelse av gebyr er under en klagebehandling.
 
@@ -78,7 +81,10 @@ Trafikkforsikringsforeningen skal underrette den gebyrpliktige om ileggelsen av 
 
 Ileggelse av gebyr etter denne forskrift kan påklages av den gebyrpliktige eller annen med rettslig klageinteresse. Finansklagenemnda er klageinstans. Finansklagenemndas vedtak i klagesak eller vedtak om å avvise klagen, kan ikke påklages.
 
-Fristen for å klage er tre uker fra det tidspunkt underretning om beslutningen er kommet frem til den gebyrpliktige. Selv om klageren har oversittet klagefristen, kan klagen tas under behandling såframtden gebyrpliktige eller dennes fullmektig ikke kan lastes for å ha oversittet fristen eller for å ha drøyd med klagedet av særlige grunner er rimelig at klagen blir prøvd.
+Fristen for å klage er tre uker fra det tidspunkt underretning om beslutningen er kommet frem til den gebyrpliktige. Selv om klageren har oversittet klagefristen, kan klagen tas under behandling såframt
+
+1. den gebyrpliktige eller dennes fullmektig ikke kan lastes for å ha oversittet fristen eller for å ha drøyd med klage
+2. det av særlige grunner er rimelig at klagen blir prøvd.
 
 Ved vurderingen av om klagen bør tas opp til behandling, skal det også legges vekt på om endring av ileggelse av kravet kan medføre skade eller ulempe for andre.
 

@@ -15,7 +15,7 @@ xml_hash: "923b6fe6267ccdef9c18cf34b5e36be4ff6f9a34ce3f5b2e663577ca2cce8f83"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -37,7 +37,12 @@ Departementet fastsetter forskrift om besiktelse, godkjenning, prøving, vedlike
 ## § 2. Definisjoner.
 
 1. Containerkonvensjonen: Den internasjonale konvensjon 2. desember 1972 om sikre containere med eventuelle framtidige endringer som Norge har sluttet seg til.
-2. Container: Transportutstyr som er:av permanent karakter og av tilstrekkelig styrke til å være egnet for gjentatt bruk,spesielt konstruert for å forenkle transport av varer, for én eller flere transportmåter, uten omlasting,konstruert for sikring og/eller enkel håndtering, med hjørnebeslag til disse formål, ogav en slik størrelse at arealet innenfor de fire ytre hjørner i bunnen enten er minst 14 kvadratmeter (150 kvadratfot) eller, dersom det er montert hjørnebeslag på toppen, minst 7 kvadratmeter (75 kvadratfot).
+2. Container: Transportutstyr som er:
+
+   1. av permanent karakter og av tilstrekkelig styrke til å være egnet for gjentatt bruk,
+   2. spesielt konstruert for å forenkle transport av varer, for én eller flere transportmåter, uten omlasting,
+   3. konstruert for sikring og/eller enkel håndtering, med hjørnebeslag til disse formål, og
+   4. av en slik størrelse at arealet innenfor de fire ytre hjørner i bunnen enten er minst 14 kvadratmeter (150 kvadratfot) eller, dersom det er montert hjørnebeslag på toppen, minst 7 kvadratmeter (75 kvadratfot).
 3. Hjørnebeslag: Et arrangement av åpninger og flater øverst og/eller nederst på en container til bruk ved håndtering, stabling og/eller sikring.
 4. Tilsynsmyndighet: Departementet og offentlig eller privat institusjon eller person som er tildelt myndighet av departementet, jfr. [§ 7 første ledd](lov/1982-12-17-84/§7/ledd/1).
 5. Godkjent: Godkjent av tilsynsmyndigheten.
@@ -66,7 +71,14 @@ En container må ikke brukes dersom den er i en slik forfatning at den represent
 
 ## § 7. Tilsyn.
 
-Tilsyn med at lovens bestemmelser overholdes tilligger departementet, som også gir nærmere forskrift om tilsynet. Departementet kan utøve tilsyn ved hjelp av:skipsinspektøreroffentlige institusjonerkonsuleranerkjente klassifikasjonsselskaperandre private institusjoner eller personerfremmede lands myndigheter.
+Tilsyn med at lovens bestemmelser overholdes tilligger departementet, som også gir nærmere forskrift om tilsynet. Departementet kan utøve tilsyn ved hjelp av:
+
+1. skipsinspektører
+2. offentlige institusjoner
+3. konsuler
+4. anerkjente klassifikasjonsselskaper
+5. andre private institusjoner eller personer
+6. fremmede lands myndigheter.
 
 Tilsynsmyndigheten har rett til av produsent, eier eller bruker å kreve de opplysninger om foretatte prøver som anses nødvendig for gjennomføringen av tilsynet.
 

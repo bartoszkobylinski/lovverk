@@ -48,77 +48,155 @@ Kandidaten skal kunne sette seg inn i forskning innen fagfeltene og kunne ta sel
 
 ### § 3. Kompetanseområder
 
-Utdanningen skal gi læringsutbytte i tråd med [kapittel 2](forskrift/2025-07-04-1457/kap2) til [6](forskrift/2025-07-04-1457/kap6) under følgende kompetanseområder:Perspektiver på psykisk helse, rusmiddelbruk og avhengighetEtikk, lovverk og organiseringKommunikasjon, relasjon og samhandlingArbeid med psykisk helse-, rusmiddel- og avhengighetsproblemerForskning, formidling og fagutvikling.
+Utdanningen skal gi læringsutbytte i tråd med [kapittel 2](forskrift/2025-07-04-1457/kap2) til [6](forskrift/2025-07-04-1457/kap6) under følgende kompetanseområder:
+
+- Perspektiver på psykisk helse, rusmiddelbruk og avhengighet
+- Etikk, lovverk og organisering
+- Kommunikasjon, relasjon og samhandling
+- Arbeid med psykisk helse-, rusmiddel- og avhengighetsproblemer
+- Forskning, formidling og fagutvikling.
 
 ## Kapittel 2. Læringsutbytte for kompetanseområdet perspektiver på psykisk helse, rusmiddelbruk og avhengighet
 
 ### § 4. Perspektiver på psykisk helse, rusmiddelbruk og avhengighet – Kunnskap
 
-Kandidatenhar avansert kunnskap om hvordan psykisk helse, rusmiddelbruk og avhengighet kan forstås ut ifra ulike perspektiver herunder historiske, biologiske, psykologiske, sosiale, eksistensielle og kulturelle perspektiv.har inngående kunnskap om hvordan problemer knyttet til psykisk helse, rusmiddelbruk og avhengighet kan forstås fra ulike perspektiver.har inngående kunnskaper om betydningen av menneskers egne erfaringer og forståelser knyttet til psykisk helse, rusmiddelbruk og avhengighet.har inngående kunnskap om betydningen av kjønn, alder, sosiokulturell kontekst og levekår, herunder økonomi, arbeid, boforhold og sosial deltakelse for psykisk helse, rusmiddelbruk og avhengighet.har avansert kunnskap om samspillet mellom psykisk helse, rusmiddelbruk og avhengighet, og sammenhenger med fysisk helse og livsbelastninger, herunder kriser, traumer (inkludert historiske traumer), tap, rasisme, vold og seksuelle overgrep.har inngående kunnskap fra ulike perspektiver om forhold på individ-, gruppe- og samfunnsnivå som kan hemme og fremme bedringsprosesser, gode hverdagsliv og sosial deltakelse i for eksempel skole og arbeidsliv.
+Kandidaten
+
+1. har avansert kunnskap om hvordan psykisk helse, rusmiddelbruk og avhengighet kan forstås ut ifra ulike perspektiver herunder historiske, biologiske, psykologiske, sosiale, eksistensielle og kulturelle perspektiv.
+2. har inngående kunnskap om hvordan problemer knyttet til psykisk helse, rusmiddelbruk og avhengighet kan forstås fra ulike perspektiver.
+3. har inngående kunnskaper om betydningen av menneskers egne erfaringer og forståelser knyttet til psykisk helse, rusmiddelbruk og avhengighet.
+4. har inngående kunnskap om betydningen av kjønn, alder, sosiokulturell kontekst og levekår, herunder økonomi, arbeid, boforhold og sosial deltakelse for psykisk helse, rusmiddelbruk og avhengighet.
+5. har avansert kunnskap om samspillet mellom psykisk helse, rusmiddelbruk og avhengighet, og sammenhenger med fysisk helse og livsbelastninger, herunder kriser, traumer (inkludert historiske traumer), tap, rasisme, vold og seksuelle overgrep.
+6. har inngående kunnskap fra ulike perspektiver om forhold på individ-, gruppe- og samfunnsnivå som kan hemme og fremme bedringsprosesser, gode hverdagsliv og sosial deltakelse i for eksempel skole og arbeidsliv.
 
 ### § 5. Perspektiver på psykisk helse, rusmiddelbruk og avhengighet – Ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til ulike perspektiver på psykisk helse, rusmiddelbruk og avhengighet og problemer knyttet til psykiske helse, rusmiddelbruk og avhengighet og anvende kunnskapen i profesjonsutøvelse.kan analysere samspillet mellom kjønn, alder og sosiokulturell kontekst, herunder minoritetskulturer, og problemer knyttet til psykisk helse, rusmiddelbruk og avhengighet, og kan anvende kunnskapen for å møte differensierte hjelpebehov.kan analysere samspillet mellom psykisk helse og rusmiddelbruk og levekår, herunder økonomi, arbeid, boforhold og sosial deltakelse og anvende kunnskapen i profesjonsutøvelse.kan analysere samspillet mellom psykisk helse, rusmiddelbruk og avhengighet, og fysisk helse og livsbelastninger, herunder kriser, vold, tap og seksuelle overgrep og bruke dette til å gjennomføre avansert psykisk helse-, rus- og avhengighetsarbeid.kan arbeide på individ, gruppe og samfunnsnivå for å fremme bedringsprosesser, gode hverdagsliv og sosial deltakelse i for eksempel skole og arbeidsliv for dem det gjelder, deres familie og nettverk.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til ulike perspektiver på psykisk helse, rusmiddelbruk og avhengighet og problemer knyttet til psykiske helse, rusmiddelbruk og avhengighet og anvende kunnskapen i profesjonsutøvelse.
+2. kan analysere samspillet mellom kjønn, alder og sosiokulturell kontekst, herunder minoritetskulturer, og problemer knyttet til psykisk helse, rusmiddelbruk og avhengighet, og kan anvende kunnskapen for å møte differensierte hjelpebehov.
+3. kan analysere samspillet mellom psykisk helse og rusmiddelbruk og levekår, herunder økonomi, arbeid, boforhold og sosial deltakelse og anvende kunnskapen i profesjonsutøvelse.
+4. kan analysere samspillet mellom psykisk helse, rusmiddelbruk og avhengighet, og fysisk helse og livsbelastninger, herunder kriser, vold, tap og seksuelle overgrep og bruke dette til å gjennomføre avansert psykisk helse-, rus- og avhengighetsarbeid.
+5. kan arbeide på individ, gruppe og samfunnsnivå for å fremme bedringsprosesser, gode hverdagsliv og sosial deltakelse i for eksempel skole og arbeidsliv for dem det gjelder, deres familie og nettverk.
 
 ### § 6. Perspektiver på psykisk helse, rusmiddelbruk og avhengighet – Generell kompetanse
 
-Kandidatenkan anvende kunnskaper og ferdigheter om ulike perspektiver på psykisk helse, rusmiddelbruk og avhengighet for å gjennomføre avanserte arbeidsoppgaver.kan kommunisere om ulike perspektiver og forståelser knyttet til psykisk helse, rusmiddelbruk og avhengighet med dem det gjelder, deres familie og nettverk, samarbeidspartnere og allmenheten.
+Kandidaten
+
+1. kan anvende kunnskaper og ferdigheter om ulike perspektiver på psykisk helse, rusmiddelbruk og avhengighet for å gjennomføre avanserte arbeidsoppgaver.
+2. kan kommunisere om ulike perspektiver og forståelser knyttet til psykisk helse, rusmiddelbruk og avhengighet med dem det gjelder, deres familie og nettverk, samarbeidspartnere og allmenheten.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet etikk, lovverk og organisering
 
 ### § 7. Etikk, lovverk og organisering – Kunnskap
 
-Kandidatenhar avansert kunnskap om etikk, sentrale verdier og etiske problemstillinger, samt teorier og fremgangsmåter for å identifisere og håndtere etiske problemstillinger i praksis.har inngående kunnskap om menneskerettigheter, relevant lovverk, politiske føringer, nasjonale faglige retningslinjer, organisering og tjenesteutvikling, og administrative virkemidler som legger premisser for psykisk helse-, rus- og avhengighetsarbeid.har inngående kunnskap om betydningen av selvhjelp, likepersonsarbeid og frivillig arbeid.
+Kandidaten
+
+1. har avansert kunnskap om etikk, sentrale verdier og etiske problemstillinger, samt teorier og fremgangsmåter for å identifisere og håndtere etiske problemstillinger i praksis.
+2. har inngående kunnskap om menneskerettigheter, relevant lovverk, politiske føringer, nasjonale faglige retningslinjer, organisering og tjenesteutvikling, og administrative virkemidler som legger premisser for psykisk helse-, rus- og avhengighetsarbeid.
+3. har inngående kunnskap om betydningen av selvhjelp, likepersonsarbeid og frivillig arbeid.
 
 ### § 8. Etikk, lovverk og organisering – Ferdigheter
 
-Kandidatenkan analysere og reflektere over etiske problemstillinger i profesjonsutøvelse, herunder vurderinger knyttet til samtykkekompetanse, bruk av tvang og varslingsplikt, ivaretakelse av barn og pårørendesamarbeid, og anvende fremgangsmåter for å håndtere disse på en kontekstsensitiv og systematisk måte.kan identifisere og analysere juridiske problemstillinger knyttet til arbeid med psykisk helse-, rusmiddel- og avhengighetsproblemer, og anvende rettskilder for å sikre rettigheter og likeverdige tjenester.kan styrke pasienter og brukeres autonomi og medvirkning, også i situasjoner som medfører gjennomføring av inngripende tiltak.kan analysere og reflektere kritisk over hjelpeapparatets rolle og organisering, herunder dets makt, myndighetsutøvelse og risiko for maktmisbruk.kan fremme selvhjelp, likepersonsarbeid og frivillig arbeid.
+Kandidaten
+
+1. kan analysere og reflektere over etiske problemstillinger i profesjonsutøvelse, herunder vurderinger knyttet til samtykkekompetanse, bruk av tvang og varslingsplikt, ivaretakelse av barn og pårørendesamarbeid, og anvende fremgangsmåter for å håndtere disse på en kontekstsensitiv og systematisk måte.
+2. kan identifisere og analysere juridiske problemstillinger knyttet til arbeid med psykisk helse-, rusmiddel- og avhengighetsproblemer, og anvende rettskilder for å sikre rettigheter og likeverdige tjenester.
+3. kan styrke pasienter og brukeres autonomi og medvirkning, også i situasjoner som medfører gjennomføring av inngripende tiltak.
+4. kan analysere og reflektere kritisk over hjelpeapparatets rolle og organisering, herunder dets makt, myndighetsutøvelse og risiko for maktmisbruk.
+5. kan fremme selvhjelp, likepersonsarbeid og frivillig arbeid.
 
 ### § 9. Etikk, lovverk og organisering – Generell kompetanse
 
-Kandidatenkan analysere relevante etiske problemstillinger og utøve en reflektert og forsvarlig praksis.kan anvende kunnskap og ferdigheter knyttet til etikk, lovverk og organisering for å sikre likeverdige helse- og velferdstjenester for alle mennesker med psykiske helse-, rusmiddel- eller avhengighetsproblemer, og deres pårørende.
+Kandidaten
+
+1. kan analysere relevante etiske problemstillinger og utøve en reflektert og forsvarlig praksis.
+2. kan anvende kunnskap og ferdigheter knyttet til etikk, lovverk og organisering for å sikre likeverdige helse- og velferdstjenester for alle mennesker med psykiske helse-, rusmiddel- eller avhengighetsproblemer, og deres pårørende.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet relasjon, kommunikasjon og samhandling
 
 ### § 10. Relasjon, kommunikasjon og samhandling – Kunnskap
 
-Kandidatenhar inngående kunnskap om relasjonens betydning i møte med mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer, deres familie og nettverk.har inngående kunnskap om sentrale teorier knyttet til relasjon, kommunikasjon og samhandling.har inngående kunnskap om den betydning personlig engasjement, væremåte og verdier har for hjelpearbeidet.har inngående kunnskap om brukermedvirkning på individ-, tjeneste- og systemnivå.har avansert kunnskap om tverrprofesjonelt, tverretatlig og tverrsektorielt samarbeid.
+Kandidaten
+
+1. har inngående kunnskap om relasjonens betydning i møte med mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer, deres familie og nettverk.
+2. har inngående kunnskap om sentrale teorier knyttet til relasjon, kommunikasjon og samhandling.
+3. har inngående kunnskap om den betydning personlig engasjement, væremåte og verdier har for hjelpearbeidet.
+4. har inngående kunnskap om brukermedvirkning på individ-, tjeneste- og systemnivå.
+5. har avansert kunnskap om tverrprofesjonelt, tverretatlig og tverrsektorielt samarbeid.
 
 ### § 11. Relasjon, kommunikasjon og samhandling – Ferdigheter
 
-Kandidatenkan bruke relevante kommunikasjons- og samhandlingsteorier for å initiere og inngå i relasjoner som fremmer hjelpende samhandling med mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer, og deres familie og nettverk.kan bruke ferdigheter i kommunikasjon og relasjon slik at de det gjelder kan uttrykke sine opplevelser, erfaringer og forståelse og at disse beskrivelsene anerkjennes og danner utgangspunkt for utformingen av hjelp og støtte.kan analysere, reflektere over og anvende avansert kunnskap om kommunikasjon i utfordrende samspillssituasjoner med mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer og deres familie og nettverk.kan bruke kunnskap om kommunikasjon og relasjon til selvstendig å legge til rette for at sensitive tema som krevende livserfaringer, herunder vold og seksuelle overgrep, blir identifisert og møtt.kan analysere og kritisk reflektere over hvordan egne holdninger, verdier og væremåter kan innvirke på arbeid med den det gjelder, deres familie og nettverk og samarbeidsparter.kan bruke relevant kunnskap til å fremme brukermedvirkning på individ og systemnivå.
+Kandidaten
+
+1. kan bruke relevante kommunikasjons- og samhandlingsteorier for å initiere og inngå i relasjoner som fremmer hjelpende samhandling med mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer, og deres familie og nettverk.
+2. kan bruke ferdigheter i kommunikasjon og relasjon slik at de det gjelder kan uttrykke sine opplevelser, erfaringer og forståelse og at disse beskrivelsene anerkjennes og danner utgangspunkt for utformingen av hjelp og støtte.
+3. kan analysere, reflektere over og anvende avansert kunnskap om kommunikasjon i utfordrende samspillssituasjoner med mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer og deres familie og nettverk.
+4. kan bruke kunnskap om kommunikasjon og relasjon til selvstendig å legge til rette for at sensitive tema som krevende livserfaringer, herunder vold og seksuelle overgrep, blir identifisert og møtt.
+5. kan analysere og kritisk reflektere over hvordan egne holdninger, verdier og væremåter kan innvirke på arbeid med den det gjelder, deres familie og nettverk og samarbeidsparter.
+6. kan bruke relevant kunnskap til å fremme brukermedvirkning på individ og systemnivå.
 
 ### § 12. Relasjon, kommunikasjon og samhandling – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til å koordinere tjenester, lede tverrfaglige team og lede samhandling på tvers av grupper, sektorer, tjenester og instanser.kan anvende sine kunnskaper og ferdigheter slik at mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer, deres familier og nettverk opplever seg møtt og forstått, og at deres ressurser og kompetanse blir anerkjent i felles samhandling for å fremme bedring, gode hverdagsliv og sosial deltakelse.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til å koordinere tjenester, lede tverrfaglige team og lede samhandling på tvers av grupper, sektorer, tjenester og instanser.
+2. kan anvende sine kunnskaper og ferdigheter slik at mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer, deres familier og nettverk opplever seg møtt og forstått, og at deres ressurser og kompetanse blir anerkjent i felles samhandling for å fremme bedring, gode hverdagsliv og sosial deltakelse.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet arbeid med psykisk helse-, rusmiddel- og avhengighetsproblemer
 
 ### § 13. Arbeid med psykisk helse-, rusmiddel- og avhengighetsproblemer – Kunnskap
 
-Kandidatenhar avansert kunnskap om kunnskapsbaserte metoder og arbeidsmåter på individ-, gruppe- og samfunnsnivå for å forebygge, kartlegge og redusere problemutvikling, og for å fremme bedring, gode hverdagsliv og sosial deltakelse.har avansert kunnskap om hvordan bedring, gode hverdagsliv og sosial deltakelse kan skapes gjennom dialog og samarbeid som mobiliserer ressurser hos dem det gjelder og i deres sosiale nettverk.har avansert kunnskap om krav til faglig kvalitet og forsvarlighet i kartlegging, utredning, behandling og oppfølging, samt andre former for faglige praksiser, og ulike måter å sikre dette på, herunder bruk av systematiske tilbakemeldinger.har avansert kunnskap om hvordan forebygge dødsfall herunder selvmord og rusrelaterte dødsfall.har inngående kunnskap om behov og rettigheter til pårørende og etterlatte, herunder barn som pårørende og etterlatte, samt om relevante helse-, omsorg og velferdstilbud til pårørende og etterlatte.har inngående kunnskap om medikamenters rolle, virkninger og bivirkninger i både psykisk helse-, rus og avhengighetsarbeid, og om medikamentfrie tilbud.
+Kandidaten
+
+1. har avansert kunnskap om kunnskapsbaserte metoder og arbeidsmåter på individ-, gruppe- og samfunnsnivå for å forebygge, kartlegge og redusere problemutvikling, og for å fremme bedring, gode hverdagsliv og sosial deltakelse.
+2. har avansert kunnskap om hvordan bedring, gode hverdagsliv og sosial deltakelse kan skapes gjennom dialog og samarbeid som mobiliserer ressurser hos dem det gjelder og i deres sosiale nettverk.
+3. har avansert kunnskap om krav til faglig kvalitet og forsvarlighet i kartlegging, utredning, behandling og oppfølging, samt andre former for faglige praksiser, og ulike måter å sikre dette på, herunder bruk av systematiske tilbakemeldinger.
+4. har avansert kunnskap om hvordan forebygge dødsfall herunder selvmord og rusrelaterte dødsfall.
+5. har inngående kunnskap om behov og rettigheter til pårørende og etterlatte, herunder barn som pårørende og etterlatte, samt om relevante helse-, omsorg og velferdstilbud til pårørende og etterlatte.
+6. har inngående kunnskap om medikamenters rolle, virkninger og bivirkninger i både psykisk helse-, rus og avhengighetsarbeid, og om medikamentfrie tilbud.
 
 ### § 14. Arbeid med psykisk helse-, rusmiddel- og avhengighetsproblemer – Ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til ulike kunnskapsbaserte arbeidsmåter på individ-, gruppe- og samfunnsnivå, og anvende disse i kartlegging, utredning, behandling og oppfølging for å forebygge og redusere problemutvikling, forebygge dødsfall, og for å fremme bedring, gode hverdagsliv og sosial deltakelse.kan anvende tilegnede ferdigheter i arbeidsformer som gjennom dialog og samarbeid mobiliserer ressurser hos dem det gjelder og deres nettverk og fremmer bedring, gode hverdagsliv og sosial deltakelse.kan anvende kunnskap om pårørende og etterlattes rettigheter og behov, herunder barn som pårørende og etterlatte, gi informasjon og psykososial støtte samt bidra til proaktiv, kontinuerlig og helhetlig oppfølging.kan anvende kunnskap om virkninger og bivirkninger av medikamentell behandling og om medikamentfrie tilbud i både psykisk helse-, rus- og avhengighetsarbeid.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til ulike kunnskapsbaserte arbeidsmåter på individ-, gruppe- og samfunnsnivå, og anvende disse i kartlegging, utredning, behandling og oppfølging for å forebygge og redusere problemutvikling, forebygge dødsfall, og for å fremme bedring, gode hverdagsliv og sosial deltakelse.
+2. kan anvende tilegnede ferdigheter i arbeidsformer som gjennom dialog og samarbeid mobiliserer ressurser hos dem det gjelder og deres nettverk og fremmer bedring, gode hverdagsliv og sosial deltakelse.
+3. kan anvende kunnskap om pårørende og etterlattes rettigheter og behov, herunder barn som pårørende og etterlatte, gi informasjon og psykososial støtte samt bidra til proaktiv, kontinuerlig og helhetlig oppfølging.
+4. kan anvende kunnskap om virkninger og bivirkninger av medikamentell behandling og om medikamentfrie tilbud i både psykisk helse-, rus- og avhengighetsarbeid.
 
 ### § 15. Arbeid med psykisk helse-, rusmiddel- og avhengighetsproblemer – Generell kompetanse
 
-Kandidatenkan analysere og reflektere kritisk over ulike arbeidsmåter og anvende relevante arbeidsmåter til å planlegge, gjennomføre og lede psykisk helse-, rus- og avhengighetsarbeid.kan bruke kunnskap og ferdigheter til å utøve godt faglig skjønn i møte med mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer og andre berørte.kan kommunisere om faglige problemstillinger, analyser og konklusjoner i psykisk helse-, rus- og avhengighetsarbeid.
+Kandidaten
+
+1. kan analysere og reflektere kritisk over ulike arbeidsmåter og anvende relevante arbeidsmåter til å planlegge, gjennomføre og lede psykisk helse-, rus- og avhengighetsarbeid.
+2. kan bruke kunnskap og ferdigheter til å utøve godt faglig skjønn i møte med mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer og andre berørte.
+3. kan kommunisere om faglige problemstillinger, analyser og konklusjoner i psykisk helse-, rus- og avhengighetsarbeid.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet forskning, formidling og fagutvikling
 
 ### § 16. Forskning, formidling og fagutvikling – Kunnskap
 
-Kandidatenhar kunnskap om sentrale vitenskapsteoretiske perspektiv og forskningsmetoder for å utøve og videreutvikle både psykisk helse- rus- og avhengighetsarbeid.har kunnskap om metoder for å identifisere og kritisk vurdere kunnskapskilder som er relevante for psykisk helse-, rus- og avhengighetsarbeid.har kunnskap om systematisk fagutviklingsarbeid og om vilkårene for fag- og utviklingsarbeid innen både psykisk helse-, rus- og avhengighetsarbeid.
+Kandidaten
+
+1. har kunnskap om sentrale vitenskapsteoretiske perspektiv og forskningsmetoder for å utøve og videreutvikle både psykisk helse- rus- og avhengighetsarbeid.
+2. har kunnskap om metoder for å identifisere og kritisk vurdere kunnskapskilder som er relevante for psykisk helse-, rus- og avhengighetsarbeid.
+3. har kunnskap om systematisk fagutviklingsarbeid og om vilkårene for fag- og utviklingsarbeid innen både psykisk helse-, rus- og avhengighetsarbeid.
 
 ### § 17. Forskning, formidling og fagutvikling – Ferdigheter
 
-Kandidatenkan analysere sammenhenger mellom ulike vitenskapsteoretiske posisjoner og menneskesyn, forklaringsmodeller, forskning på og behandling av psykisk helse-, rus- og avhengighetsproblemer.kan bruke relevante metoder for å finne og kritisk vurdere relevans og kvalitet av ulike kunnskapskilder og kunne ta kunnskap i bruk.kan gjennomføre og evaluere fagutviklingsprosjekter med utgangspunkt i forskningsbasert, praksisbasert og erfaringsbasert kunnskap.
+Kandidaten
+
+1. kan analysere sammenhenger mellom ulike vitenskapsteoretiske posisjoner og menneskesyn, forklaringsmodeller, forskning på og behandling av psykisk helse-, rus- og avhengighetsproblemer.
+2. kan bruke relevante metoder for å finne og kritisk vurdere relevans og kvalitet av ulike kunnskapskilder og kunne ta kunnskap i bruk.
+3. kan gjennomføre og evaluere fagutviklingsprosjekter med utgangspunkt i forskningsbasert, praksisbasert og erfaringsbasert kunnskap.
 
 ### § 18. Forskning, formidling, fagutvikling – Generell kompetanse
 
-Kandidatenkan kommunisere om eget fag og om forskning i møte med mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer, andre berørte, samarbeidspartnere, beslutningstakere og befolkningen generelt.kan bidra til nytenkning og fagutvikling innen sitt fagområde.
+Kandidaten
+
+1. kan kommunisere om eget fag og om forskning i møte med mennesker med psykiske helse-, rusmiddel- og/eller avhengighetsproblemer, andre berørte, samarbeidspartnere, beslutningstakere og befolkningen generelt.
+2. kan bidra til nytenkning og fagutvikling innen sitt fagområde.
 
 ## Kapittel 7. Opptakskrav, studiets oppbygning og praksis
 

@@ -48,11 +48,19 @@ Fakultetet kan gi søkere som på annen måte har godtgjort tilsvarende kvalifik
 
 Det gis ikke rett til å fremstille seg for prøven i et fagområde hvor kandidaten allerede har en norsk eller nordisk doktorgrad.
 
-Søkeren skal være statsborger i Norge eller et annet nordisk land. Andre søkere kan etter begrunnet søknad gis anledning til å fremstille seg dersom vedkommende har oppholdstillatelse i Norge eller dersom avhandlingenbehandler emner eller bygger på materiale som har direkte tilknytning til Norge, ellerhar sterk tilknytning til norsk forskning innen fagområdet, ellerer basert på forskning som er utført under opphold ved norsk universitet eller forskningsinstitusjon, eller i særlig kontakt med norske forskere.
+Søkeren skal være statsborger i Norge eller et annet nordisk land. Andre søkere kan etter begrunnet søknad gis anledning til å fremstille seg dersom vedkommende har oppholdstillatelse i Norge eller dersom avhandlingen
+
+- behandler emner eller bygger på materiale som har direkte tilknytning til Norge, eller
+- har sterk tilknytning til norsk forskning innen fagområdet, eller
+- er basert på forskning som er utført under opphold ved norsk universitet eller forskningsinstitusjon, eller i særlig kontakt med norske forskere.
 
 ## § 5. Grunnlag for graden
 
-Graden dr. philos. ved Universitetet i Stavanger tildeles på grunnlag av:Godkjent vitenskapelig avhandlingGodkjent offentlig forsvar av avhandlingen (disputas)To godkjente prøveforelesninger.
+Graden dr. philos. ved Universitetet i Stavanger tildeles på grunnlag av:
+
+1. Godkjent vitenskapelig avhandling
+2. Godkjent offentlig forsvar av avhandlingen (disputas)
+3. To godkjente prøveforelesninger.
 
 ## § 6. Krav til avhandlingen
 
@@ -96,7 +104,13 @@ Dersom fakultetet godkjenner søknad om å få avhandlingen bedømt skal det opp
 
 Aktuell grunnenhet/institutt skal foreslå medlemmer til komiteen. Komiteens sammensetning skal begrunnes og vise hvordan den samlet dekker avhandlingens fagfelt. Kandidaten skal underrettes om grunnenhetens forslag til sammensetning av komité, og gis anledning til å innlevere skriftlige merknader til sammensetningen av komiteen senest innen en uke etter at kandidaten har fått oversendt underretningen.
 
-Bedømmelseskomiteen skal normalt settes sammen slik at:forskjellige kjønn er representertminst ett av medlemmene er uten tilknytning til universitetetminst ett av medlemmene har hovedstilling ved utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende faglig kompetanse innenfor fagfeltetflertallet i bedømmelseskomiteen er eksterne medlemmer.
+Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+- forskjellige kjønn er representert
+- minst ett av medlemmene er uten tilknytning til universitetet
+- minst ett av medlemmene har hovedstilling ved utenlandsk institusjon
+- alle medlemmene har doktorgrad eller tilsvarende faglig kompetanse innenfor fagfeltet
+- flertallet i bedømmelseskomiteen er eksterne medlemmer.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 

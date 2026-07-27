@@ -15,7 +15,7 @@ xml_hash: "2a7145cabe0674ae0310a32948f1e923f5d92bbde017c668a2ea820ad7c068e0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,16 @@ eu_basis: []
 
 ### § 1
 
-En veksel skal inneholde:benevnelsen veksel, inntatt i selve teksten og uttrykt i det sprog hvori dokumentet er avfattet;en ubetinget anmodning om å betale en bestemt pengesum (vekselsummen);navnet på den som skal betale (trassaten);angivelse av forfallstiden;angivelse av stedet hvor betalingen skal skje;navnet på den til hvem eller til hvis ordre betalingen skal skje (vekseltager, remittent);angivelse av dag og sted for vekslens utstedelse; samtunderskrift av den som utsteder vekslen (trassenten).
+En veksel skal inneholde:
+
+1. benevnelsen veksel, inntatt i selve teksten og uttrykt i det sprog hvori dokumentet er avfattet;
+2. en ubetinget anmodning om å betale en bestemt pengesum (vekselsummen);
+3. navnet på den som skal betale (trassaten);
+4. angivelse av forfallstiden;
+5. angivelse av stedet hvor betalingen skal skje;
+6. navnet på den til hvem eller til hvis ordre betalingen skal skje (vekseltager, remittent);
+7. angivelse av dag og sted for vekslens utstedelse; samt
+8. underskrift av den som utsteder vekslen (trassenten).
 
 ### § 2
 
@@ -112,7 +121,11 @@ Endossementet er gyldig selv om det ikke angir hvem vekslen overdras til, eller 
 
 Ved endossement overføres alle rettigheter efter vekslen.
 
-Hvis endossementet er et blankoendossement, kan vekselinnehaverenutfylle det enten med sitt eget eller med en annens navn,endossere vekslen påny *in blanco* eller til en annen person, ellergi vekslen videre til en tredjemann uten å utfylle blankoendossementet eller endossere vekslen.
+Hvis endossementet er et blankoendossement, kan vekselinnehaveren
+
+1. utfylle det enten med sitt eget eller med en annens navn,
+2. endossere vekslen påny *in blanco* eller til en annen person, eller
+3. gi vekslen videre til en tredjemann uten å utfylle blankoendossementet eller endossere vekslen.
 
 ### § 15
 
@@ -240,7 +253,12 @@ Når en avalist betaler vekslen, erhverver han alle rettigheter efter vekslen mo
 
 ### § 33
 
-En veksel kan lyde på betaling:ved forevisning (ved sikt, *a vista*);en viss tid efter forevisning (efter sikt, *a viso*);en viss tid efter sin utstedelsesdag; ellerpå en bestemt dag.
+En veksel kan lyde på betaling:
+
+- ved forevisning (ved sikt, *a vista*);
+- en viss tid efter forevisning (efter sikt, *a viso*);
+- en viss tid efter sin utstedelsesdag; eller
+- på en bestemt dag.
 
 En veksel hvor forfallstiden er anderledes bestemt, eller som forfaller efterhånden til forskjellige tider, er ugyldig.
 
@@ -324,7 +342,11 @@ Det deponerte beløp skal være ledsaget av en av deponenten underskrevet nøiak
 
 Når forfallstid er inne, kan vekselinnehaveren, dersom vekslen ikke er blitt betalt, søke regress hos endossentene, trassenten og andre vekselskyldnere.
 
-Samme rett har vekselinnehaveren allerede før forfallstid:hvis aksept helt eller delvis er nektet;hvis trassaten, hva enten han har akseptert eller ikke, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, eller det ved tvangsforretning hos ham er funnet at han mangler midler til å betale sin gjeld, eller han har innstilt sine betalinger; ellerhvis trassenten i tilfelle hvor han har forbudt vekslens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.
+Samme rett har vekselinnehaveren allerede før forfallstid:
+
+1. hvis aksept helt eller delvis er nektet;
+2. hvis trassaten, hva enten han har akseptert eller ikke, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, eller det ved tvangsforretning hos ham er funnet at han mangler midler til å betale sin gjeld, eller han har innstilt sine betalinger; eller
+3. hvis trassenten i tilfelle hvor han har forbudt vekslens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.
 
 > Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
@@ -380,13 +402,23 @@ At sak er anlagt mot en vekselskyldner, hindrer ikke at krav reises mot de andre
 
 ### § 48
 
-Vekselinnehaveren kan kreve av den hos hvem han søker regress:den ikke aksepterte eller ikke betalte vekselsum tillikemed renter hvis sådanne er betinget;renter fra forfallsdagen efter en rentefot av seks pct.;omkostningene ved protesten og ved de meddelelser som er sendt i medhold av [§ 45](lov/1932-05-27-2/§45), så vel som andre omkostninger; samtprovisjon, 1/3 pct. av vekselsummen.
+Vekselinnehaveren kan kreve av den hos hvem han søker regress:
+
+1. den ikke aksepterte eller ikke betalte vekselsum tillikemed renter hvis sådanne er betinget;
+2. renter fra forfallsdagen efter en rentefot av seks pct.;
+3. omkostningene ved protesten og ved de meddelelser som er sendt i medhold av [§ 45](lov/1932-05-27-2/§45), så vel som andre omkostninger; samt
+4. provisjon, 1/3 pct. av vekselsummen.
 
 Hvis regress søkes før vekslens forfallstid, skal der fra vekselsummen trekkes en diskonto, som beregnes efter den offisielle diskontosats på vekslinnehaverens bosted på den dag da regresskravet gjøres gjeldende.
 
 ### § 49
 
-Den som har innløst vekslen, kan kreve av dem som er ansvarlige overfor ham:hele det beløp som han har betalt;renter av dette beløp fra den dag da han betalte det, efter en rentefot av seks pct.;de omkostninger som han har hatt; samtprovisjon, 1/3 pct. av vekselsummen, idet dog retten til å beregne provisjon ophører når provisjonenes samlede beløp er nådd op til 2 pct. av vekselsummen.
+Den som har innløst vekslen, kan kreve av dem som er ansvarlige overfor ham:
+
+1. hele det beløp som han har betalt;
+2. renter av dette beløp fra den dag da han betalte det, efter en rentefot av seks pct.;
+3. de omkostninger som han har hatt; samt
+4. provisjon, 1/3 pct. av vekselsummen, idet dog retten til å beregne provisjon ophører når provisjonenes samlede beløp er nådd op til 2 pct. av vekselsummen.
 
 ### § 50
 
@@ -408,7 +440,13 @@ Hvis motvekslen trekkes av vekselinnehaveren, fastsettes dens beløp efter kurse
 
 ### § 53
 
-Oversittes de frister som er fastsattfor forevisning av en veksel som lyder på betaling ved sikt eller en viss tid efter sikt,for optagelse av protest for manglende aksept eller for manglende betaling,for forevisning til betaling, når der er truffet bestemmelse om regress uten omkostninger,taper vekselinnehaveren sin rett mot endossentene, trassenten og de andre vekselskyldnere med undtagelse av akseptanten.
+Oversittes de frister som er fastsatt
+
+- for forevisning av en veksel som lyder på betaling ved sikt eller en viss tid efter sikt,
+- for optagelse av protest for manglende aksept eller for manglende betaling,
+- for forevisning til betaling, når der er truffet bestemmelse om regress uten omkostninger,
+
+taper vekselinnehaveren sin rett mot endossentene, trassenten og de andre vekselskyldnere med undtagelse av akseptanten.
 
 Er en veksel ikke blitt forevist til aksept innen den frist som trassenten har bestemt, taper vekselinnehaveren sin rett til regress så vel for manglende betaling som for manglende aksept, medmindre det fremgår av bestemmelsen at trassentens mening har vært alene å fraskrive sig ansvar for aksept.
 
@@ -526,7 +564,10 @@ Har en endossent overdratt eksemplarene til forskjellige personer, svarer han s�
 
 Den som har sendt et av eksemplarene til aksept, skal på de andre eksemplarer opgi navnet på den hos hvem dette eksemplar finnes; denne er forpliktet til å utlevere det til den rettmessige innehaver av et annet eksemplar.
 
-Nekter han det, kan vekselinnehaveren ikke søke regress før han ved en protest har godtgjortat det eksemplar som er sendt til aksept, ikke er blitt utlevert ham på hans forlangende, ogat han ikke har kunnet få aksept eller betaling efter et annet eksemplar.
+Nekter han det, kan vekselinnehaveren ikke søke regress før han ved en protest har godtgjort
+
+1. at det eksemplar som er sendt til aksept, ikke er blitt utlevert ham på hans forlangende, og
+2. at han ikke har kunnet få aksept eller betaling efter et annet eksemplar.
 
 ### 2. Kopier.
 
@@ -564,7 +605,11 @@ Endossentenes regresskrav mot andre endossenter eller mot trassenten foreldes i 
 
 ### § 71
 
-Vekselforeldelsen avbrytesved at stevning er sendt til retten eller i tilfelle klage til forliksrådet, eller ved at vekselkravet under rettssak gjøres gjeldende til motregning, eller for øvrig inndras i saken (jf. [tvisteloven § 15-1](lov/2005-06-17-90/§15-1)) ellerved at vekselfordringen anmeldes i skyldnerens bo dersom dette behandles av offentlige myndigheter ellerved at den mot hvem søksmål (motregningskrav) som foran omtalt er reist, gir en forgjenger varsel om søksmålet ([tvisteloven § 15-9](lov/2005-06-17-90/§15-9)). Den som har mottatt sådan innvarsling, kan avbryte foreldelsen ved likeledes å gi sin forgjenger prosessvarsel.
+Vekselforeldelsen avbrytes
+
+- ved at stevning er sendt til retten eller i tilfelle klage til forliksrådet, eller ved at vekselkravet under rettssak gjøres gjeldende til motregning, eller for øvrig inndras i saken (jf. [tvisteloven § 15-1](lov/2005-06-17-90/§15-1)) eller
+- ved at vekselfordringen anmeldes i skyldnerens bo dersom dette behandles av offentlige myndigheter eller
+- ved at den mot hvem søksmål (motregningskrav) som foran omtalt er reist, gir en forgjenger varsel om søksmålet ([tvisteloven § 15-9](lov/2005-06-17-90/§15-9)). Den som har mottatt sådan innvarsling, kan avbryte foreldelsen ved likeledes å gi sin forgjenger prosessvarsel.
 
 Ved stevning til utenlandsk domstol avbrytes vekselforeldelsen hvis skyldneren har sitt hjemsted i vedkommende land eller han uten å gjøre innvending mot domstolens kompetanse tar til gjenmæle i saken, eller hvis stevningen er forkynt for ham personlig. Prosessvarsel til utenlandsk domstol avbryter foreldelsen under samme betingelser som stevning. Likeledes avbrytes foreldelsen ved at vekselkravet under en ved utenlandsk domstol verserende sak efter den på stedet gjeldende lovgivning gjøres gjeldende til motregning.
 
@@ -612,7 +657,15 @@ Er vekselfordringen foreldet, eller er vekselretten tapt ved forsømmelse av den
 
 ### § 75
 
-En egen veksel skal inneholde:benevnelsen veksel, innført i selve teksten og uttrykt i det sprog hvori dokumentet er avfattet;et ubetinget tilsagn om å betale en bestemt pengesum;angivelse av forfallstiden;angivelse av stedet hvor betalingen skal skje;navnet på den til hvem eller til hvis ordre betalingen skal skje;angivelse av dag og sted for vekslens underskrift; samtunderskrift av den som utsteder dokumentet (utstederen).
+En egen veksel skal inneholde:
+
+1. benevnelsen veksel, innført i selve teksten og uttrykt i det sprog hvori dokumentet er avfattet;
+2. et ubetinget tilsagn om å betale en bestemt pengesum;
+3. angivelse av forfallstiden;
+4. angivelse av stedet hvor betalingen skal skje;
+5. navnet på den til hvem eller til hvis ordre betalingen skal skje;
+6. angivelse av dag og sted for vekslens underskrift; samt
+7. underskrift av den som utsteder dokumentet (utstederen).
 
 ### § 76
 
@@ -626,7 +679,18 @@ En egen veksel som ikke angir stedet hvor den er utstedt, anses underskrevet på
 
 ### § 77
 
-Om den egne veksel gjelder, sålangt de ikke er uforenlige med dens natur, de bestemmelser om den trukne veksel som angårendossement (§§ 11-20),forfallstid (§§ 33-37),betaling (§§ 38-42),regress for manglende betaling (§§ 43 til 50 og 52 til 54a),intervensjonsbetaling (§§ 55, 59-63),kopier (§§ 67 og 68),forandringer i vekslen (§ 69),foreldelse (§§ 70-71),søndager og helligdager, beregningen av frister og forbud mot løpedager (§ 72), bortkomne veksler (§ 73) samtvekselinnehaverens rett til efter inntrådt foreldelse eller fortapelse av vekselretten å anlegge berikelsessøksmål (§ 74).
+Om den egne veksel gjelder, sålangt de ikke er uforenlige med dens natur, de bestemmelser om den trukne veksel som angår
+
+- endossement (§§ 11-20),
+- forfallstid (§§ 33-37),
+- betaling (§§ 38-42),
+- regress for manglende betaling (§§ 43 til 50 og 52 til 54a),
+- intervensjonsbetaling (§§ 55, 59-63),
+- kopier (§§ 67 og 68),
+- forandringer i vekslen (§ 69),
+- foreldelse (§§ 70-71),
+- søndager og helligdager, beregningen av frister og forbud mot løpedager (§ 72), bortkomne veksler (§ 73) samt
+- vekselinnehaverens rett til efter inntrådt foreldelse eller fortapelse av vekselretten å anlegge berikelsessøksmål (§ 74).
 
 Videre gjelder for den egne veksel bestemmelsene om veksler som er betalbare hos en tredjemann eller på et annet sted enn trassatens bosted (§§ 4 og 27), om adgangen til å betinge renter (§ 5), om uoverensstemmelser i angivelsen av den sum som skal betales (§ 6), om virkningene av at en underskrift er påført under de omstendigheter som omhandles i [§ 7](lov/1932-05-27-2/§7), eller av at en underskrift er påført av en person som har handlet uten bemyndigelse eller som har overskredet sin bemyndigelse (§ 8), og om ufullstendige veksler (§ 10).
 

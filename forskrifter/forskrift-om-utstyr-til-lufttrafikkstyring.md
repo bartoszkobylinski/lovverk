@@ -15,7 +15,7 @@ xml_hash: "5d9f08fa6c952cdce515df18e3bb4f685a82148d6a605492bbfc1051431c031c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,13 +34,27 @@ EØS-avtalen vedlegg XIII nr. 66c (forordning [(EF) nr. 2082/2000](eu/32000r2082
 
 ## § 2. Virkeområde
 
-Denne forskrifta gjeld definisjon og bruk av kompatible tekniske spesifikasjonar og Eurocontrol-standardar ved innkjøp av utstyr og system for styring av lufttrafikken, i tillegg til standardiserte framgangsmåtar, arbeidsreglar og bruk av ressursar i lufttrafikken, særlegkommunikasjonssystemovervakingssystemnavigasjonssystemsystem for automatisert bistand til flygekontrolltenestaframgangsmåtar for styring av luftrom og av lufttrafikkenarbeidsreglar for driftskrav til styring av lufttrafikkenmenneskelege ressursar
+Denne forskrifta gjeld definisjon og bruk av kompatible tekniske spesifikasjonar og Eurocontrol-standardar ved innkjøp av utstyr og system for styring av lufttrafikken, i tillegg til standardiserte framgangsmåtar, arbeidsreglar og bruk av ressursar i lufttrafikken, særleg
+
+- kommunikasjonssystem
+- overvakingssystem
+- navigasjonssystem
+- system for automatisert bistand til flygekontrolltenesta
+- framgangsmåtar for styring av luftrom og av lufttrafikken
+- arbeidsreglar for driftskrav til styring av lufttrafikken
+- menneskelege ressursar
 
 > Endra 17 juli 1998 nr. 624.
 
 ## § 3. Definisjonar
 
-På området kor denne forskrifta gjeld, tyder:*teknisk spesifikasjon*, alle tekniske krav, særleg dei som finst i anbodsgrunnlaget, som definerer dei påkravde eigenskapar ved eit arbeid, eit materiale, eit produkt eller ein levaranse, og som gjer det mogleg å gi ei objektiv framstilling av eit arbeid, eit materiale, eit produkt eller ei leveranse slik at dei svarer til den bruk som oppdragsgivaren har bestemt dei til. Desse tekniske reglane kan omfatte kvalitet, yteevne, tryggleik eller dimensjonar samt krav til materialet, produktet eller leveransen med omsyn til kvalitetssikring, terminologi, symbol, prøving og metodar for prøving, emballering, merking eller etikettering.*standard*, kvar teknisk spesifikasjon godkjent av eit godteke standardiseringsorgan for gjentatt eller stadig bruk, men slik at det i prinsippet ikkje er obligatorisk å følgje den.*Eurocontrolstandard*, dei obligatoriske element i Eurocontrol-spesifikasjonane med omsyn til fysiske kjenneteikn, form, materiale, yteevne, personell eller framgangsmåtar, der ein einsarta bruk er godteke som avgjerdande for gjennomføringa av eit integrert system for lufttrafikktenester (ATS) (dei obligatoriske elementa skal være oppførte i eit Eurocontrol standarddokument).Ei forklarande liste over kva områder slike Eurocontrolstandardar blir gjort gjeldande finst i Vedlegg I til denne forskrifta.
+På området kor denne forskrifta gjeld, tyder:
+
+1. *teknisk spesifikasjon*, alle tekniske krav, særleg dei som finst i anbodsgrunnlaget, som definerer dei påkravde eigenskapar ved eit arbeid, eit materiale, eit produkt eller ein levaranse, og som gjer det mogleg å gi ei objektiv framstilling av eit arbeid, eit materiale, eit produkt eller ei leveranse slik at dei svarer til den bruk som oppdragsgivaren har bestemt dei til. Desse tekniske reglane kan omfatte kvalitet, yteevne, tryggleik eller dimensjonar samt krav til materialet, produktet eller leveransen med omsyn til kvalitetssikring, terminologi, symbol, prøving og metodar for prøving, emballering, merking eller etikettering.
+2. *standard*, kvar teknisk spesifikasjon godkjent av eit godteke standardiseringsorgan for gjentatt eller stadig bruk, men slik at det i prinsippet ikkje er obligatorisk å følgje den.
+3. *Eurocontrolstandard*, dei obligatoriske element i Eurocontrol-spesifikasjonane med omsyn til fysiske kjenneteikn, form, materiale, yteevne, personell eller framgangsmåtar, der ein einsarta bruk er godteke som avgjerdande for gjennomføringa av eit integrert system for lufttrafikktenester (ATS) (dei obligatoriske elementa skal være oppførte i eit Eurocontrol standarddokument).
+
+   Ei forklarande liste over kva områder slike Eurocontrolstandardar blir gjort gjeldande finst i Vedlegg I til denne forskrifta.
 
 ## § 4. Plikt til å vise til spesifikasjonar i anbodsdokumentasjonen
 
@@ -60,9 +74,21 @@ Denne forskrifta trer i kraft straks.
 
 ## Vedlegg I. Eurocontrol-standardar. Rettleiande og obligatorisk liste
 
-Rettleiande liste:KommunikasjonssystemNavigasjonssystemOvervakingssystemDatabehandlingssystemFramgangsmåtar for styring av luftrom og av lufttrafikkenArbeidsreglar for og driftskrav til styring av lufttrafikkenMenneskelege ressursar
+Rettleiande liste:
 
-Obligatorisk liste skal lyde:Eurocontrol-standard for direktekobla datakommunikasjon (On-Line Data Interchange, OLDI), versjon 2.2, (Eurocontrol-referanse DPS.ET1.ST06-STD),Eurocontrol-standard for presentasjon av datautveksling i luftfartstenesten (Air Traffic Services Data Exchange Presentation, ADEXP), versjon 2.0, (Eurocontrol-referanse DPS.ET1.ST09-STD),Eurocontrol-standard for utveksling av flygedata – dokument om grensesnittkontroll (Flight Data Exchange – Interface Control Document (FDE-ICD) versjon 1.0, (Eurocontrol-referanse COM.ET1.ST12-STD)).
+- Kommunikasjonssystem
+- Navigasjonssystem
+- Overvakingssystem
+- Databehandlingssystem
+- Framgangsmåtar for styring av luftrom og av lufttrafikken
+- Arbeidsreglar for og driftskrav til styring av lufttrafikken
+- Menneskelege ressursar
+
+Obligatorisk liste skal lyde:
+
+- Eurocontrol-standard for direktekobla datakommunikasjon (On-Line Data Interchange, OLDI), versjon 2.2, (Eurocontrol-referanse DPS.ET1.ST06-STD),
+- Eurocontrol-standard for presentasjon av datautveksling i luftfartstenesten (Air Traffic Services Data Exchange Presentation, ADEXP), versjon 2.0, (Eurocontrol-referanse DPS.ET1.ST09-STD),
+- Eurocontrol-standard for utveksling av flygedata – dokument om grensesnittkontroll (Flight Data Exchange – Interface Control Document (FDE-ICD) versjon 1.0, (Eurocontrol-referanse COM.ET1.ST12-STD)).
 
 > Endra ved [forskrifter 17 juli 1998 nr. 624](forskrift/1998-07-17-624), [6 april 2001 nr. 320](forskrift/2001-04-06-320).
 

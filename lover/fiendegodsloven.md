@@ -15,7 +15,7 @@ xml_hash: "c515cb8359bbc11e5569dbcf38c278b68d0034b65b50e58317c028249853fdda"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1.
 
-Med fiende er i denne lova meint:Stat som Noreg er i krig med (fiendestat).Borgar av fiendestat kvar han så bur eller held til.Fysisk person som bur eller har fast tilhald på fiendeområde.Juridisk person (selskap, lag, korporasjon eller stifting) privat eller offentleg, som har setet sitt på fiendeområde eller slik juridisk person som fienden har kontrollen over.
+Med fiende er i denne lova meint:
+
+1. Stat som Noreg er i krig med (fiendestat).
+2. Borgar av fiendestat kvar han så bur eller held til.
+3. Fysisk person som bur eller har fast tilhald på fiendeområde.
+4. Juridisk person (selskap, lag, korporasjon eller stifting) privat eller offentleg, som har setet sitt på fiendeområde eller slik juridisk person som fienden har kontrollen over.
 
 Med fiendeområde er i denne lova meint område som fiendestat har høgste retten (suvereniteten) over. Det same gjeld område som Kongen eller den han gjev fullmakt har fastsett skal reknast for fiendeområde.
 
@@ -32,7 +37,16 @@ Kongen eller den han gjev fullmakt kan fastsetja at andre rettssubjekt og enn de
 
 ## § 2.
 
-Fiendegods etter denne lova er etternemnde eigedomsverde når dei høyrer ein fiende til:Fast eigedom, skip, lausøyre og varer som er her i riket endå om retten til slik eigedom er knytt til dokument som er utafor riket.Betalingsverde, verdepapir og dokument av alle slag som heimlar eller tener til prov for rettar og som er her i riket.Aksjar og andre partar eller kapitalinteresser i norske føretak.Krav på skuldmenn, som har heime her i riket, endå om kravet er knytt til omsetningsskuldbrev som er utafor riket.Patent-, design- og varemerkerettar, rett til forretningskjenneteikn, rett til fotografi og rett til åndsverk, alt så langt dei har rettsvern i Noreg. Likeeins rettar som knyter seg til søknader om patent-, design- eller varemerkevern i Noreg.Rettar etter trygdeavtale med norsk trygdelag eller med representant (hovudagent) i Noreg for utalandsk trygdelag.Alle andre økonomiske verde som er her i riket.Tinglege rettar og kontraktsrettar vedkomande eigedomsverde som nemnt under a-g.
+Fiendegods etter denne lova er etternemnde eigedomsverde når dei høyrer ein fiende til:
+
+1. Fast eigedom, skip, lausøyre og varer som er her i riket endå om retten til slik eigedom er knytt til dokument som er utafor riket.
+2. Betalingsverde, verdepapir og dokument av alle slag som heimlar eller tener til prov for rettar og som er her i riket.
+3. Aksjar og andre partar eller kapitalinteresser i norske føretak.
+4. Krav på skuldmenn, som har heime her i riket, endå om kravet er knytt til omsetningsskuldbrev som er utafor riket.
+5. Patent-, design- og varemerkerettar, rett til forretningskjenneteikn, rett til fotografi og rett til åndsverk, alt så langt dei har rettsvern i Noreg. Likeeins rettar som knyter seg til søknader om patent-, design- eller varemerkevern i Noreg.
+6. Rettar etter trygdeavtale med norsk trygdelag eller med representant (hovudagent) i Noreg for utalandsk trygdelag.
+7. Alle andre økonomiske verde som er her i riket.
+8. Tinglege rettar og kontraktsrettar vedkomande eigedomsverde som nemnt under a-g.
 
 Lova gjeld ikkje for krigsmateriell og anna som er serleg tilskipa for militære føremål eller herfang som er tatt av norske eller allierte militærstyrkar, utan det blir fastsett av Kongen eller den han gjev fullmakt.
 

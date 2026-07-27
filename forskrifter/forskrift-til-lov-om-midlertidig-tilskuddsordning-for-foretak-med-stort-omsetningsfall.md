@@ -15,7 +15,7 @@ xml_hash: "5e92b9f5ed6b6768e972528743a311f08b463130b52f0dbcb692a4af6403fa3b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,13 @@ Innehaver av enkeltpersonforetak anses å ha inntekt fra foretaket som sin hoved
 
 ### § 1-3. Foretak med aktivitet i visse næringer
 
-Følgende foretak er ikke omfattet av den midlertidige tilskuddsordningen:Foretak som er finansskattepliktige etter [folketrygdloven § 23-2a](lov/1997-02-28-19/§23-2a)Foretak som er skattepliktige etter [petroleumsskatteloven § 5](lov/1975-06-13-35/§5)Foretak som utøver aktiviteter innenfor næringshovedgruppe 35.1 Produksjon, overføring og distribusjon av elektrisitet i Norsk standard for næringsgruppering (SN2007)Flyselskap med norsk driftstillatelseForetak som utøver aktivitet innenfor næringsundergruppe 88.911 Barnehager i Norsk standard for næringsgruppering (SN2007)
+Følgende foretak er ikke omfattet av den midlertidige tilskuddsordningen:
+
+- Foretak som er finansskattepliktige etter [folketrygdloven § 23-2a](lov/1997-02-28-19/§23-2a)
+- Foretak som er skattepliktige etter [petroleumsskatteloven § 5](lov/1975-06-13-35/§5)
+- Foretak som utøver aktiviteter innenfor næringshovedgruppe 35.1 Produksjon, overføring og distribusjon av elektrisitet i Norsk standard for næringsgruppering (SN2007)
+- Flyselskap med norsk driftstillatelse
+- Foretak som utøver aktivitet innenfor næringsundergruppe 88.911 Barnehager i Norsk standard for næringsgruppering (SN2007)
 
 ### § 1-4. Institusjon eller organisasjon som ikke har erverv til formål
 
@@ -90,7 +96,15 @@ Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asb
 
 ### § 2-6. Ytterligere vilkår
 
-(1) Foretak som søker tilskudd, må oppfylle følgende vilkår:Foretaket må kunne dokumentere sin fullstendige eierstruktur, herunder både direkte og indirekte reelle eiere.Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 skal være betalt.Skattemelding for formues- og inntektsskatt og årsregnskap for 2018 må være levert av foretak som ble etablert i 2018 eller tidligere. Øvrige rapporteringsplikter etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8) med leveringsfrist i perioden 1. januar 2019 og frem til tilskuddsordningen trer i kraft, eller fra det senere tidspunktet foretaket ble etablert, må være levert.Tilskuddsmottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.Foretaket kan ikke være registrert i Foretaksregisteret under avvikling.Det kan ikke eksistere tvangsgrunnlag eller avtale som gir særskilt dekningsrett i utbetalt tilskudd til foretaket.Person med ledende roller knyttet til foretaket kan ikke være ilagt konkurskarantene, jf. [konkursloven kapittel XVIII](lov/1984-06-08-58/kapxviii).
+(1) Foretak som søker tilskudd, må oppfylle følgende vilkår:
+
+1. Foretaket må kunne dokumentere sin fullstendige eierstruktur, herunder både direkte og indirekte reelle eiere.
+2. Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 skal være betalt.
+3. Skattemelding for formues- og inntektsskatt og årsregnskap for 2018 må være levert av foretak som ble etablert i 2018 eller tidligere. Øvrige rapporteringsplikter etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8) med leveringsfrist i perioden 1. januar 2019 og frem til tilskuddsordningen trer i kraft, eller fra det senere tidspunktet foretaket ble etablert, må være levert.
+4. Tilskuddsmottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.
+5. Foretaket kan ikke være registrert i Foretaksregisteret under avvikling.
+6. Det kan ikke eksistere tvangsgrunnlag eller avtale som gir særskilt dekningsrett i utbetalt tilskudd til foretaket.
+7. Person med ledende roller knyttet til foretaket kan ikke være ilagt konkurskarantene, jf. [konkursloven kapittel XVIII](lov/1984-06-08-58/kapxviii).
 
 (2) Med person med ledende roller knyttet til foretaket menes daglig leder, styreleder, innehaver av enkeltpersonforetak, deltakere i ansvarlige selskap, hovedaksjonær eller den som kontrollerer selskapet indirekte selv eller gjennom nærstående som definert i [aksjeloven § 1-5](lov/1997-06-13-44/§1-5) første ledd, eller med annen særskilt tilknytning til virksomheten.
 
@@ -110,7 +124,13 @@ Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asb
 
 (4) Tilskudd kan ikke overstige foretakets beregnede omsetningsfall, målt i kroner.
 
-(5) Tilskuddet begrenses av tidligere underskudd, og kan ikke overstige: X\*(Y+ORFS), derX er det prosentvise omsetningsfallet beregnet etter [§ 2-3](forskrift/2020-04-17-820/§2-3),Y er summen av faste, uunngåelige kostnader, jf. [§ 3-2](forskrift/2020-04-17-820/§3-2),ORFS er ordinært resultat før skattekostnad i siste regnskapsår som avsluttes før 1. mars, der resultatet divideres med antall måneder regnskapsåret omfatter.Dersom foretaket, ved opplysninger bekreftet av revisor eller autorisert regnskapsfører, kan dokumentere at gjennomsnittlig månedlig ordinært resultat før skattekostnad i januar og februar 2020 var høyere enn ORFS, kan dette erstatte ORFS.
+(5) Tilskuddet begrenses av tidligere underskudd, og kan ikke overstige: X\*(Y+ORFS), der
+
+1. X er det prosentvise omsetningsfallet beregnet etter [§ 2-3](forskrift/2020-04-17-820/§2-3),
+2. Y er summen av faste, uunngåelige kostnader, jf. [§ 3-2](forskrift/2020-04-17-820/§3-2),
+3. ORFS er ordinært resultat før skattekostnad i siste regnskapsår som avsluttes før 1. mars, der resultatet divideres med antall måneder regnskapsåret omfatter.
+
+Dersom foretaket, ved opplysninger bekreftet av revisor eller autorisert regnskapsfører, kan dokumentere at gjennomsnittlig månedlig ordinært resultat før skattekostnad i januar og februar 2020 var høyere enn ORFS, kan dette erstatte ORFS.
 
 (6) Beregnet tilskudd under 5000 kroner tildeles ikke. Er beregnet tilskudd 5000 kroner eller mer, utbetales hele det beregnede tilskuddet, oppad begrenset til øvre beløpsgrense etter [§ 3-3](forskrift/2020-04-17-820/§3-3) og [§ 3-4](forskrift/2020-04-17-820/§3-4).
 
@@ -120,7 +140,20 @@ Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asb
 
 (1) Ved beregning av tilskudd skal faste, uunngåelige kostnader knyttet til foretakets virksomhet i tilskuddsmåneden tas med. For virksomhet som skattlegges i Norge etter [skatteloven § 2-3](lov/1999-03-26-14/§2-3) første ledd bokstav b, tas kostnader knyttet til den skattepliktige virksomheten i Norge med.
 
-(2) Som faste uunngåelige kostnader regnes følgende kostnader, i den grad de kan henføres under de angitte postene i næringsoppgaven:post 6300 Leie av lokaler, men begrenset til kostnad for næringslokalerpost 6310 i Næringsoppgave 1, leasingleie av bilpost 6340 Lys og varmepost 6395 Renovasjon, vann, avløp, renhold, men bare i den grad kostnaden utgjør offentlige avgifter og gebyrerpost 6400 Leie maskiner, inventar, transportmidler o.l.post 6700 Fremmed tjeneste (regnskap, revisjonshonorar, rådgivning o.l.), men begrenset til kostnad for revisjon og regnskappost 6995 Elektronisk kommunikasjon, porto mv.post 7040 Forsikring og avgift på transportmidlerpost 7490 Kontingenter, men bare i den grad kostnaden er fradragsberettigetpost 7500 Forsikringspremie.Del av leiekostnad som gjelder tilleggstjenester i form av service, bemanning mv. tas ikke med.
+(2) Som faste uunngåelige kostnader regnes følgende kostnader, i den grad de kan henføres under de angitte postene i næringsoppgaven:
+
+- post 6300 Leie av lokaler, men begrenset til kostnad for næringslokaler
+- post 6310 i Næringsoppgave 1, leasingleie av bil
+- post 6340 Lys og varme
+- post 6395 Renovasjon, vann, avløp, renhold, men bare i den grad kostnaden utgjør offentlige avgifter og gebyrer
+- post 6400 Leie maskiner, inventar, transportmidler o.l.
+- post 6700 Fremmed tjeneste (regnskap, revisjonshonorar, rådgivning o.l.), men begrenset til kostnad for revisjon og regnskap
+- post 6995 Elektronisk kommunikasjon, porto mv.
+- post 7040 Forsikring og avgift på transportmidler
+- post 7490 Kontingenter, men bare i den grad kostnaden er fradragsberettiget
+- post 7500 Forsikringspremie.
+
+Del av leiekostnad som gjelder tilleggstjenester i form av service, bemanning mv. tas ikke med.
 
 (3) Som fast, uunngåelig kostnad regnes også påløpte rentekostnader på gjeld til banker og kredittinstitusjoner og obligasjonslån, fratrukket renteinntekter på egne utlån, innskudd og obligasjoner. I tillegg kan rentekostnader til andre enn finansinstitusjoner medregnes for den del av rentekostnaden som har motstykke i like stor rentekostnad hos långiveren på gjeld fra banker og kredittinstitusjoner og obligasjonslån. Der netto rentekostnad blir negativ, regnes den som null. Valutatap- og gevinst skal ikke inngå i rentekostnader og -inntekter ved beregning av netto rentekostnad. For støttemånedene april, mai og august kan bare rentekostnad opptil 0,75 prosent av lånebeløpet for det aktuelle lånet per den første dagen i støttemåneden medregnes som fast, uunngåelig kostnad.
 
@@ -202,9 +235,27 @@ Beregnet tilskudd, jf. [§ 3-1](forskrift/2020-04-17-820/§3-1), justert i samsv
 
 (1) Tilskuddsmyndigheten skal uten hinder av taushetsplikt ha tilgang til enhver opplysning som skattemyndighetene, jf. [skatteforvaltningsloven § 2-1](lov/2016-05-27-14/§2-1) til [§ 2-6](lov/2016-05-27-14/§2-6), og skattekontoret, jf. [skattebetalingsloven § 2-1](lov/2005-06-17-67/§2-1) første ledd, har eller mottar. Dette gjelder også opplysninger som skattemyndighetene har fått fra tredjeparter
 
-(2) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende offentlige myndigheter til tilskuddsmyndigheten:folkeregistermyndigheten om opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningendeltakende myndigheter i a-krimsentrene, herunder opplysninger om tipstollmyndighetene, om opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningenBrønnøysundregistrene, herunder opplysninger i Enhetsregisteret, Foretaksregisteret, Konkursregisteret og RegnskapsregisteretArbeidstilsynet, herunder opplysninger om brudd på permitteringsreglerMattilsynet, herunder opplysninger om aktører med risiko for misbruk av tilskuddsordningenNav, herunder opplysninger fra Aa-registeret for informasjon knyttet til permitteringer, og opplysninger om aktører med risiko for misbruk av tilskuddsordningenFinanstilsynet, herunder opplysninger om autoriserte regnskapsførere og revisorer med merknader knyttet til bevillingen mv.andre offentlige myndigheter som gir tilskudd til foretak som følge av utbrudd av koronavirusandre offentlige myndigheter dersom opplysningene har betydning for forvaltningen av tilskuddsordningen.
+(2) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende offentlige myndigheter til tilskuddsmyndigheten:
 
-(3) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende private rettssubjekter til tilskuddsmyndigheten:banker og finansforetak, herunder opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av tilskuddsordningen og andre opplysninger av betydning for forvaltningen av tilskuddsordningenforsikringsselskaper og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikringGjeldsregisteret, herunder oppdatert gjeldsinformasjoninkassovirksomheter, herunder inkassoopplysningerkredittvurderingsbyråer, herunder opplyser om betalingsanmerkninger og inkassosakertilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.
+1. folkeregistermyndigheten om opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningen
+2. deltakende myndigheter i a-krimsentrene, herunder opplysninger om tips
+3. tollmyndighetene, om opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningen
+4. Brønnøysundregistrene, herunder opplysninger i Enhetsregisteret, Foretaksregisteret, Konkursregisteret og Regnskapsregisteret
+5. Arbeidstilsynet, herunder opplysninger om brudd på permitteringsregler
+6. Mattilsynet, herunder opplysninger om aktører med risiko for misbruk av tilskuddsordningen
+7. Nav, herunder opplysninger fra Aa-registeret for informasjon knyttet til permitteringer, og opplysninger om aktører med risiko for misbruk av tilskuddsordningen
+8. Finanstilsynet, herunder opplysninger om autoriserte regnskapsførere og revisorer med merknader knyttet til bevillingen mv.
+9. andre offentlige myndigheter som gir tilskudd til foretak som følge av utbrudd av koronavirus
+10. andre offentlige myndigheter dersom opplysningene har betydning for forvaltningen av tilskuddsordningen.
+
+(3) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende private rettssubjekter til tilskuddsmyndigheten:
+
+1. banker og finansforetak, herunder opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av tilskuddsordningen og andre opplysninger av betydning for forvaltningen av tilskuddsordningen
+2. forsikringsselskaper og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikring
+3. Gjeldsregisteret, herunder oppdatert gjeldsinformasjon
+4. inkassovirksomheter, herunder inkassoopplysninger
+5. kredittvurderingsbyråer, herunder opplyser om betalingsanmerkninger og inkassosaker
+6. tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.
 
 (4) Opplysningene skal leveres i den formen og innen den fristen Skattedirektoratet bestemmer.
 
@@ -216,7 +267,18 @@ Beregnet tilskudd, jf. [§ 3-1](forskrift/2020-04-17-820/§3-1), justert i samsv
 
 (2) Søknad om tilskudd etter ordningen kan tidligst sendes inn etter utløpet av den måneden (perioden) tilskuddet skal dekke. Søknad om tilskudd for april kan likevel først sendes inn 15. mai. Siste frist for å sende inn søknad om tilskudd etter ordningen for mars, april og mai er 31. juli 2020. Siste frist for å sende inn søknad for juni, juli og august er 31. oktober 2020.
 
-(3) Søker skal blant annet gi følgende opplysninger i søknadsskjemaet:næringstype, og opplysning om det drives delt næringenkeltpersonforetak og ansvarlig selskap skal opplyse om inntekt fra virksomheten er hovedinntektskildenomsetningstall for aktuelle perioder, jf. [§ 2-2](forskrift/2020-04-17-820/§2-2) og [§ 2-3](forskrift/2020-04-17-820/§2-3)andre mottatte offentlige tilskudd og inntektssikring som er gitt i forbindelse med virusutbruddetperioden det søkes forfaste, uunngåelige kostnader som nevnt i [§ 3-2](forskrift/2020-04-17-820/§3-2)opplysning om virksomheten anses stengt av statensesongbetont driftsøkers bankkontonummer slik det fremgår i bankenes felles Konto- og adresseringsregisterom søker er skattepliktig til Norge.
+(3) Søker skal blant annet gi følgende opplysninger i søknadsskjemaet:
+
+1. næringstype, og opplysning om det drives delt næring
+2. enkeltpersonforetak og ansvarlig selskap skal opplyse om inntekt fra virksomheten er hovedinntektskilden
+3. omsetningstall for aktuelle perioder, jf. [§ 2-2](forskrift/2020-04-17-820/§2-2) og [§ 2-3](forskrift/2020-04-17-820/§2-3)
+4. andre mottatte offentlige tilskudd og inntektssikring som er gitt i forbindelse med virusutbruddet
+5. perioden det søkes for
+6. faste, uunngåelige kostnader som nevnt i [§ 3-2](forskrift/2020-04-17-820/§3-2)
+7. opplysning om virksomheten anses stengt av staten
+8. sesongbetont drift
+9. søkers bankkontonummer slik det fremgår i bankenes felles Konto- og adresseringsregister
+10. om søker er skattepliktig til Norge.
 
 (4) Søker skal erklære at vedkommende har gjort seg kjent med regelverket og at foretaket faller inn under ordningen. Søker skal bekrefte at opplysningene er riktige, at de kan dokumenteres og at det på forespørsel kan legges frem bekreftelse fra revisor eller autorisert regnskapsfører. Søker skal også bekrefte at vedkommende er kjent med at det kan bli ilagt straff eller administrativ sanksjon dersom det er gitt uriktig eller ufullstendig opplysning, eller det unnlates å gi pliktig opplysning.
 
@@ -224,7 +286,16 @@ Beregnet tilskudd, jf. [§ 3-1](forskrift/2020-04-17-820/§3-1), justert i samsv
 
 ### § 4-4. Hvem som kan søke
 
-(1) Personer i virksomheten registrert med nøkkelrolle i Enhetsregisteret kan sende inn søknad. Med nøkkelrolle menes en av følgende roller:norsk representant for utenlandsk enhetstyrets lederkomplementarinnehaverdeltaker med fullt ansvardeltaker med delt ansvardaglig leder eller administrerende direktørbestyrende reder.
+(1) Personer i virksomheten registrert med nøkkelrolle i Enhetsregisteret kan sende inn søknad. Med nøkkelrolle menes en av følgende roller:
+
+1. norsk representant for utenlandsk enhet
+2. styrets leder
+3. komplementar
+4. innehaver
+5. deltaker med fullt ansvar
+6. deltaker med delt ansvar
+7. daglig leder eller administrerende direktør
+8. bestyrende reder.
 
 (2) Autorisert regnskapsfører og revisor kan søke på vegne av virksomheten.
 
@@ -294,7 +365,11 @@ Tilskudd og tilbakebetalingskrav for søknader for kalendermånedene juni, juli 
 
 (1) Tilskuddsordningen gjelder tilsvarende for foretak på Svalbard.
 
-(2) Foretaket må være entenselskap som er skattemessig hjemmehørende på Svalbard,enkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbard, ellerselskap med deltakerfastsetting hvor deltakerne er skattemessig hjemmehørende på Svalbard.
+(2) Foretaket må være enten
+
+1. selskap som er skattemessig hjemmehørende på Svalbard,
+2. enkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbard, eller
+3. selskap med deltakerfastsetting hvor deltakerne er skattemessig hjemmehørende på Svalbard.
 
 (3) Foretaket må følge norske regler om bokføring, regnskap og revisjon. Ble foretaket etablert i 2019 eller tidligere, må dette også være gjort for regnskapsåret 2019.
 

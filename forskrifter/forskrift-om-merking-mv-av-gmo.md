@@ -40,7 +40,11 @@ For øvrig gjelder forskriften for alle genmodifiserte organismer.
 
 ### § 3. Definisjoner
 
-I denne forskrift menes med:*Genmodifiserte organismer:* mikroorganismer, planter og dyr hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologi.*Risikoklasser:* mikroorganismer klassifiseres i henhold til [forskrift 21. desember 2001 nr. 1600](forskrift/2001-12-21-1600) om innesluttet bruk av genmodifiserte mikroorganismer, [§ 6](forskrift/2001-12-21-1600/§6). Virksomheten klassifiseres i risikoklassene 1, 2, 3 eller 4.
+I denne forskrift menes med:
+
+*Genmodifiserte organismer:* mikroorganismer, planter og dyr hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologi.
+
+*Risikoklasser:* mikroorganismer klassifiseres i henhold til [forskrift 21. desember 2001 nr. 1600](forskrift/2001-12-21-1600) om innesluttet bruk av genmodifiserte mikroorganismer, [§ 6](forskrift/2001-12-21-1600/§6). Virksomheten klassifiseres i risikoklassene 1, 2, 3 eller 4.
 
 ### § 4. Generelle forholdsregler
 
@@ -58,11 +62,31 @@ Med unntak for genmodifiserte organismer som nevnt i [§ 7](forskrift/2005-09-02
 
 ### § 7. Transport og import som krever godkjenning
 
-Det kreves godkjenning for transport og import av følgende genmodifiserte organismer:Genmodifiserte mikroorganismer hvor virksomheten er klassifisert i risikoklasse 3 og 4.Kulturvolum over 10 liter av genmodifiserte mikroorganismer hvor virksomheten er klassifisert i risikoklasse 2.Levende dyr og planter som benyttes som vertsorganisme for genmodifiserte mikroorganismer.Alle genmodifiserte dyr, unntatttradisjonelle husdyr som ikke har ville slektninger i norsk fauna som de kan krysse seg med,laboratoriedyr som for eksempel mus, rotter, hamstere som skal benyttes i laboratorier godkjente for innesluttet bruk av genmodifiserte organismer,embryo, egg, sæd, celle- og vevskulturer av dyreceller.Transporter der det ikke er mulig å tilfredsstille forskriftens krav til merking og emballering.
+Det kreves godkjenning for transport og import av følgende genmodifiserte organismer:
+
+1. Genmodifiserte mikroorganismer hvor virksomheten er klassifisert i risikoklasse 3 og 4.
+2. Kulturvolum over 10 liter av genmodifiserte mikroorganismer hvor virksomheten er klassifisert i risikoklasse 2.
+3. Levende dyr og planter som benyttes som vertsorganisme for genmodifiserte mikroorganismer.
+4. Alle genmodifiserte dyr, unntatt
+
+   1. tradisjonelle husdyr som ikke har ville slektninger i norsk fauna som de kan krysse seg med,
+   2. laboratoriedyr som for eksempel mus, rotter, hamstere som skal benyttes i laboratorier godkjente for innesluttet bruk av genmodifiserte organismer,
+   3. embryo, egg, sæd, celle- og vevskulturer av dyreceller.
+5. Transporter der det ikke er mulig å tilfredsstille forskriftens krav til merking og emballering.
 
 ### § 8. Søknadens innhold
 
-Søknad om transport og import skal inneholde følgende opplysninger:Navn, adresse, telefon og telefaks til følgende: søker, den ansvarlige etter [§ 4](forskrift/2005-09-02-1009/§4), avsender, mottaker og transportør.Opplysninger om emballering, transportmiddel, transportrute og dato for avsendelse og mottakelse.Opplysninger om organismen: Taksonomisk status, vitenskapelig navn, vanlig navn, karakteristikk av den genmodifiserte organismen og donor, resipient eller eventuelle foreldreorganismer.Mengde: Antall organismer/liter i kulturvolum og antall kolli som skal transporteres og/eller importeres.Vurdering av miljø- og helsemessig risiko forbundet med transporten og/eller importen.Opplysninger om når og hos hvilken myndighet den genmodifiserte organismen er godkjent/meldt for innesluttet bruk eller utsetting etter [genteknologiloven § 7](lov/1993-04-02-38/§7) og [§ 10](lov/1993-04-02-38/§10).Forholdsregler i forbindelse med håndtering av organismen.Sikkerhetsrutiner i forbindelse med uhell.Underskrift.
+Søknad om transport og import skal inneholde følgende opplysninger:
+
+1. Navn, adresse, telefon og telefaks til følgende: søker, den ansvarlige etter [§ 4](forskrift/2005-09-02-1009/§4), avsender, mottaker og transportør.
+2. Opplysninger om emballering, transportmiddel, transportrute og dato for avsendelse og mottakelse.
+3. Opplysninger om organismen: Taksonomisk status, vitenskapelig navn, vanlig navn, karakteristikk av den genmodifiserte organismen og donor, resipient eller eventuelle foreldreorganismer.
+4. Mengde: Antall organismer/liter i kulturvolum og antall kolli som skal transporteres og/eller importeres.
+5. Vurdering av miljø- og helsemessig risiko forbundet med transporten og/eller importen.
+6. Opplysninger om når og hos hvilken myndighet den genmodifiserte organismen er godkjent/meldt for innesluttet bruk eller utsetting etter [genteknologiloven § 7](lov/1993-04-02-38/§7) og [§ 10](lov/1993-04-02-38/§10).
+7. Forholdsregler i forbindelse med håndtering av organismen.
+8. Sikkerhetsrutiner i forbindelse med uhell.
+9. Underskrift.
 
 Om nødvendig kan godkjenningsmyndigheten kreve flere opplysninger fra søker.
 
@@ -72,7 +96,27 @@ All transport og import av genmodifiserte organismer skal journalføres av motta
 
 ### § 10. Ledsagende dokument ved transport (transportdokumenter)
 
-Transportdokumenter skal være vedlagt alle forsendelser av genmodifiserte organismer fra avsender til mottaker. Dokumentene skal inneholde følgende opplysninger i tillegg til de som er angitt i [§ 19](forskrift/2005-09-02-1009/§19):For genmodifiserte organismer bestemt for innesluttet bruk;at den er beregnet på innesluttet bruk,beskrivelse av organismen, herunder vanlig, vitenskapelig og, hvis tilgjengelig, kommersielt navn på organismen,beskrivelse av genmodifikasjon, anvendt teknikk og de påfølgende egenskapsendringene til organismen,forholdsregler i forbindelse med håndtering, lagring, transport og bruk,risikoklasse,spesifikasjon for bruk,unik identifikasjonskode hvis slik finnes, ogangivelse av et kontaktpunkt for ytterligere informasjon, herunder mottaker av organismen, samt eksportør eller importør.For genmodifiserte organismer til utsetting;en erklæring om at transporten er i samsvar med [Cartagena-protokollens](traktat/2000-01-29-1) krav,beskrivelse av organismen, herunder vanlig, vitenskapelig og, hvis tilgjengelig, kommersielt navn på organismen,beskrivelse av genmodifikasjon, anvendt teknikk og de påfølgende egenskapsendringene til organismen eller en unik identifikasjonskode hvis slik finnes,forholdsregler i forbindelse med håndtering, lagring, transport og bruk,risikoklasse,importtillatelse hvis slik tillatelse kreves etter [§ 7](forskrift/2005-09-02-1009/§7), ogangivelse av et kontaktpunkt for ytterligere informasjon, herunder sender/eksportør og mottaker/importør.
+Transportdokumenter skal være vedlagt alle forsendelser av genmodifiserte organismer fra avsender til mottaker. Dokumentene skal inneholde følgende opplysninger i tillegg til de som er angitt i [§ 19](forskrift/2005-09-02-1009/§19):
+
+1. For genmodifiserte organismer bestemt for innesluttet bruk;
+
+   1. at den er beregnet på innesluttet bruk,
+   2. beskrivelse av organismen, herunder vanlig, vitenskapelig og, hvis tilgjengelig, kommersielt navn på organismen,
+   3. beskrivelse av genmodifikasjon, anvendt teknikk og de påfølgende egenskapsendringene til organismen,
+   4. forholdsregler i forbindelse med håndtering, lagring, transport og bruk,
+   5. risikoklasse,
+   6. spesifikasjon for bruk,
+   7. unik identifikasjonskode hvis slik finnes, og
+   8. angivelse av et kontaktpunkt for ytterligere informasjon, herunder mottaker av organismen, samt eksportør eller importør.
+2. For genmodifiserte organismer til utsetting;
+
+   1. en erklæring om at transporten er i samsvar med [Cartagena-protokollens](traktat/2000-01-29-1) krav,
+   2. beskrivelse av organismen, herunder vanlig, vitenskapelig og, hvis tilgjengelig, kommersielt navn på organismen,
+   3. beskrivelse av genmodifikasjon, anvendt teknikk og de påfølgende egenskapsendringene til organismen eller en unik identifikasjonskode hvis slik finnes,
+   4. forholdsregler i forbindelse med håndtering, lagring, transport og bruk,
+   5. risikoklasse,
+   6. importtillatelse hvis slik tillatelse kreves etter [§ 7](forskrift/2005-09-02-1009/§7), og
+   7. angivelse av et kontaktpunkt for ytterligere informasjon, herunder sender/eksportør og mottaker/importør.
 
 ### § 11. Emballering
 
@@ -100,21 +144,63 @@ Forut for første gangs eksport av genmodifiserte organismer for utsetting i mil
 
 Eksportøren plikter å oppbevare kopi av melding, importlandets mottaksbekreftelse og skriftlige importtillatelse i minimum 5 år, og skal sende kopi av disse dokumentene til Miljødirektoratet.
 
-Følgende er unntatt fra kravene i første og annet ledd:Genmodifiserte organismer i transitt eller eksport av genmodifiserte organismer bestemt for innesluttet bruk når overføringen skjer i samsvar med kravene i importlandet.Eksport av genmodifiserte organismer til land som har angitt overfor Mekanismen for informasjonsutveksling under [Cartagena-protokollen](traktat/2000-01-29-1) at import kan skje uten informert forhåndssamtykke, forutsatt at tilstrekkelige tiltak iverksettes for å sikre forsvarlig grensekryssende overføring av genmodifiserte organismer i samsvar med [Cartagena-protokollens](traktat/2000-01-29-1) formål.Eksport av genmodifiserte organismer beregnet på direkte bruk som mat, fôr eller til videreforedling tilland som har fattet vedtak om import i henhold til nasjonal lovgivning som er i tråd med [Cartagena-protokollens](traktat/2000-01-29-1) formål, ogutviklingsland eller land med overgangsøkonomier som har erklært gjennom Mekanismen for informasjonsutveksling at vedtak forut for første gangs import vil bli fattet i tråd med art. 11 nr. 6 i Cartagena-protokollen. I slike tilfelle skal eksport ikke skje før prosedyren i denne artikkelen er fullført. Manglende underretning om vedtak kan verken tolkes som samtykke til eller avslag på slik import.
+Følgende er unntatt fra kravene i første og annet ledd:
+
+1. Genmodifiserte organismer i transitt eller eksport av genmodifiserte organismer bestemt for innesluttet bruk når overføringen skjer i samsvar med kravene i importlandet.
+2. Eksport av genmodifiserte organismer til land som har angitt overfor Mekanismen for informasjonsutveksling under [Cartagena-protokollen](traktat/2000-01-29-1) at import kan skje uten informert forhåndssamtykke, forutsatt at tilstrekkelige tiltak iverksettes for å sikre forsvarlig grensekryssende overføring av genmodifiserte organismer i samsvar med [Cartagena-protokollens](traktat/2000-01-29-1) formål.
+3. Eksport av genmodifiserte organismer beregnet på direkte bruk som mat, fôr eller til videreforedling til
+
+   - land som har fattet vedtak om import i henhold til nasjonal lovgivning som er i tråd med [Cartagena-protokollens](traktat/2000-01-29-1) formål, og
+   - utviklingsland eller land med overgangsøkonomier som har erklært gjennom Mekanismen for informasjonsutveksling at vedtak forut for første gangs import vil bli fattet i tråd med art. 11 nr. 6 i Cartagena-protokollen. I slike tilfelle skal eksport ikke skje før prosedyren i denne artikkelen er fullført. Manglende underretning om vedtak kan verken tolkes som samtykke til eller avslag på slik import.
 
 > Endret ved [forskrift 15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013).
 
 ### § 16. Melding ved eksport av genmodifiserte organismer
 
-Melding forut for eksport av genmodifiserte organismer skal inneholde følgende opplysninger:Eksportørens navn, adresse og kontaktdetaljer.Importørens navn, adresse og kontaktdetaljer.Navn og identitet på den levende modifiserte organismen, eventuelt med nasjonal klassifikasjon av biosikkerhetsnivå for den levende modifiserte organismen i Norge.Tiltenkt dato eller datoer for grensekryssende overføring, hvis kjent.Taksonomisk status, vitenskapelig navn, vanlig navn, innsamlings- eller anskaffelsessted, samt kjennetegn ved mottakerorganisme eller foreldreorganismer med hensyn til biosikkerhet.Opprinnelsessentre og sentre for genetisk mangfold, hvis kjent, for mottakerorganisme og/eller foreldreorganismer, og en beskrivelse av habitater der organismene kan eksistere eller formere seg.Taksonomisk status, vitenskapelig navn, vanlig navn, innsamlings- eller anskaffelsessted, samt karaktertrekk ved donororganisme(r) med hensyn til biosikkerhet.Beskrivelse av innsatte nukleinsyre eller den utførte modifikasjon, anvendt teknikk og de påfølgende egenskapsendringene til den levende modifiserte organismen.Tiltenkt bruk av den levende modifiserte organismen eller produkter av denne, dvs. videreforedlet materiale som stammer fra den levende modifiserte organismen og som inneholder påviselige nye kombinasjoner av replikerbart genetisk materiale frembrakt ved bruk av moderne bioteknologi.Kvantum eller volum av levende modifisert organisme som skal overføres.Risikovurderingsrapport.Foreslåtte metoder for sikker håndtering, lagring, transport og bruk, herunder emballasje, merking, dokumentasjon, renovering og beredskapsprosedyrer, når dette er aktuelt.Reguleringsstatus for den levende modifiserte organismen i Norge (for eksempel om den er forbudt i eksportstaten, om andre restriksjoner gjelder eller om den er godkjent for generell utsetting), og, hvis den levende modifiserte organismen er forbudt i Norge, årsak eller årsaker til forbudet.Resultat av og formål med enhver melding fra eksportør til andre stater om den levende modifiserte organismen som skal overføres.Erklæring om at ovennevnte opplysninger er i overensstemmelse med fakta.
+Melding forut for eksport av genmodifiserte organismer skal inneholde følgende opplysninger:
+
+1. Eksportørens navn, adresse og kontaktdetaljer.
+2. Importørens navn, adresse og kontaktdetaljer.
+3. Navn og identitet på den levende modifiserte organismen, eventuelt med nasjonal klassifikasjon av biosikkerhetsnivå for den levende modifiserte organismen i Norge.
+4. Tiltenkt dato eller datoer for grensekryssende overføring, hvis kjent.
+5. Taksonomisk status, vitenskapelig navn, vanlig navn, innsamlings- eller anskaffelsessted, samt kjennetegn ved mottakerorganisme eller foreldreorganismer med hensyn til biosikkerhet.
+6. Opprinnelsessentre og sentre for genetisk mangfold, hvis kjent, for mottakerorganisme og/eller foreldreorganismer, og en beskrivelse av habitater der organismene kan eksistere eller formere seg.
+7. Taksonomisk status, vitenskapelig navn, vanlig navn, innsamlings- eller anskaffelsessted, samt karaktertrekk ved donororganisme(r) med hensyn til biosikkerhet.
+8. Beskrivelse av innsatte nukleinsyre eller den utførte modifikasjon, anvendt teknikk og de påfølgende egenskapsendringene til den levende modifiserte organismen.
+9. Tiltenkt bruk av den levende modifiserte organismen eller produkter av denne, dvs. videreforedlet materiale som stammer fra den levende modifiserte organismen og som inneholder påviselige nye kombinasjoner av replikerbart genetisk materiale frembrakt ved bruk av moderne bioteknologi.
+10. Kvantum eller volum av levende modifisert organisme som skal overføres.
+11. Risikovurderingsrapport.
+12. Foreslåtte metoder for sikker håndtering, lagring, transport og bruk, herunder emballasje, merking, dokumentasjon, renovering og beredskapsprosedyrer, når dette er aktuelt.
+13. Reguleringsstatus for den levende modifiserte organismen i Norge (for eksempel om den er forbudt i eksportstaten, om andre restriksjoner gjelder eller om den er godkjent for generell utsetting), og, hvis den levende modifiserte organismen er forbudt i Norge, årsak eller årsaker til forbudet.
+14. Resultat av og formål med enhver melding fra eksportør til andre stater om den levende modifiserte organismen som skal overføres.
+15. Erklæring om at ovennevnte opplysninger er i overensstemmelse med fakta.
 
 ### § 17. Melding ved eksport av genmodifiserte organismer tiltenkt til direkte bruk til mat, fôr eller videreforedling
 
-Melding forut for eksport av genmodifiserte organismer tiltenkt til direkte bruk til mat, fôr eller videreforedling skal inneholde følgende opplysninger:Navn og kontaktdetaljer for myndighet som er ansvarlig for vedtaket.Navn og identitet på den levende modifiserte organismen.Beskrivelse av genmodifikasjon, anvendt teknikk og de påfølgende egenskapsendringene til den levende modifiserte organismen.Eventuell unik identifikasjon av den levende modifiserte organismen.Taksonomisk status, vitenskapelig navn, vanlig navn, innsamlings- eller anskaffelsessted, samt egenskaper ved mottakerorganisme eller foreldreorganismer med hensyn til biosikkerhet.Opprinnelsessentre og sentre for genetisk mangfold, hvis kjent, for mottakerorganisme og/eller foreldreorganismer, samt en beskrivelse av habitater der organismene kan eksistere eller formere seg.Taksonomisk status, vitenskapelig navn, vanlig navn, innsamlings- eller anskaffelsessted og egenskaper ved donororganisme(r) med hensyn til biosikkerhet.Godkjente bruksmåter for den levende modifiserte organismen.Risikovurderingsrapport.Foreslåtte metoder for sikker håndtering, lagring, transport og bruk, herunder emballasje, merking, dokumentasjon, renovering og beredskapsprosedyrer når det er aktuelt.
+Melding forut for eksport av genmodifiserte organismer tiltenkt til direkte bruk til mat, fôr eller videreforedling skal inneholde følgende opplysninger:
+
+1. Navn og kontaktdetaljer for myndighet som er ansvarlig for vedtaket.
+2. Navn og identitet på den levende modifiserte organismen.
+3. Beskrivelse av genmodifikasjon, anvendt teknikk og de påfølgende egenskapsendringene til den levende modifiserte organismen.
+4. Eventuell unik identifikasjon av den levende modifiserte organismen.
+5. Taksonomisk status, vitenskapelig navn, vanlig navn, innsamlings- eller anskaffelsessted, samt egenskaper ved mottakerorganisme eller foreldreorganismer med hensyn til biosikkerhet.
+6. Opprinnelsessentre og sentre for genetisk mangfold, hvis kjent, for mottakerorganisme og/eller foreldreorganismer, samt en beskrivelse av habitater der organismene kan eksistere eller formere seg.
+7. Taksonomisk status, vitenskapelig navn, vanlig navn, innsamlings- eller anskaffelsessted og egenskaper ved donororganisme(r) med hensyn til biosikkerhet.
+8. Godkjente bruksmåter for den levende modifiserte organismen.
+9. Risikovurderingsrapport.
+10. Foreslåtte metoder for sikker håndtering, lagring, transport og bruk, herunder emballasje, merking, dokumentasjon, renovering og beredskapsprosedyrer når det er aktuelt.
 
 ### § 18. Oversendelse av opplysninger ved eksport av genmodifiserte organismer
 
-Ved eksport skal eksportøren påse at følgende opplysninger, i tillegg til de som er angitt i [§ 19](forskrift/2005-09-02-1009/§19), fremgår av ledsagende dokument og oversendes importøren som mottar den genmodifiserte organismen:For genmodifiserte organismer beregnet til direkte bruk som mat, fôr eller til videreforedling en erklæring fra eksportøren om at de genmodifiserte organismene er beregnet til slik bruk og ikke til utsetting i miljøet, et kontaktpunkt for videre informasjon, herunder eksportør, importør eller ansvarlig myndighet i eksportlandet, organismenes vanlige, vitenskapelige og eventuelle kommersielle navn.For genmodifiserte organismer bestemt for innesluttet bruk, vanlig og vitenskapelig navn på organismen, at den er beregnet på innesluttet bruk, forholdsregler i forbindelse med håndtering, lagring, transport og bruk, og angivelse av et kontaktpunkt for ytterligere informasjon, herunder navn og adresse til den som skal motta organismene.For genmodifiserte organismer beregnet på tilsiktet utsetting i miljøet i importlandet og eventuelt andre genmodifiserte organismer som faller inn under forskriften, en erklæring fra eksportøren om at transporten er i samsvar med [Cartagena-protokollens](traktat/2000-01-29-1) krav til eksportøren og med følgende tilleggsopplysninger:opplysninger om organismen: Vanlig navn og vitenskapelig navn og karakteristikk av den genmodifiserte organismen, eller en unik identifikasjonskode hvis slik finnes,forholdsregler i forbindelse med håndtering, lagring, transport og bruk, oget kontaktpunkt for ytterligere informasjon, herunder eksportør og importør.
+Ved eksport skal eksportøren påse at følgende opplysninger, i tillegg til de som er angitt i [§ 19](forskrift/2005-09-02-1009/§19), fremgår av ledsagende dokument og oversendes importøren som mottar den genmodifiserte organismen:
+
+1. For genmodifiserte organismer beregnet til direkte bruk som mat, fôr eller til videreforedling en erklæring fra eksportøren om at de genmodifiserte organismene er beregnet til slik bruk og ikke til utsetting i miljøet, et kontaktpunkt for videre informasjon, herunder eksportør, importør eller ansvarlig myndighet i eksportlandet, organismenes vanlige, vitenskapelige og eventuelle kommersielle navn.
+2. For genmodifiserte organismer bestemt for innesluttet bruk, vanlig og vitenskapelig navn på organismen, at den er beregnet på innesluttet bruk, forholdsregler i forbindelse med håndtering, lagring, transport og bruk, og angivelse av et kontaktpunkt for ytterligere informasjon, herunder navn og adresse til den som skal motta organismene.
+3. For genmodifiserte organismer beregnet på tilsiktet utsetting i miljøet i importlandet og eventuelt andre genmodifiserte organismer som faller inn under forskriften, en erklæring fra eksportøren om at transporten er i samsvar med [Cartagena-protokollens](traktat/2000-01-29-1) krav til eksportøren og med følgende tilleggsopplysninger:
+
+   1. opplysninger om organismen: Vanlig navn og vitenskapelig navn og karakteristikk av den genmodifiserte organismen, eller en unik identifikasjonskode hvis slik finnes,
+   2. forholdsregler i forbindelse med håndtering, lagring, transport og bruk, og
+   3. et kontaktpunkt for ytterligere informasjon, herunder eksportør og importør.
 
 ## Kapittel 4. Merking
 

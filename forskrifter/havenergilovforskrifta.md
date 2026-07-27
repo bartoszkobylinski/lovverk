@@ -103,7 +103,11 @@ Dersom eit føretak som oppfyller krava i [havenergilova § 3-5](lov/2010-06-04-
 
 ### § 4. Innhaldet i prosjektspesifikt utgreiingsprogram
 
-Ei melding med framlegg til prosjektspesifikt utgreiingsprogram skal minst innehalde ei skildring av:energianlegget, aktuelle utbyggingsløysingar og kostnadar, prosjektområdet og, på bakgrunn av tilgjengeleg kunnskap, mulege verknadar for andre næringar, miljø og samfunntilhøve som skal utgreiast og kva metodar som skal nyttastopplysingar om verksemda til den som søker.
+Ei melding med framlegg til prosjektspesifikt utgreiingsprogram skal minst innehalde ei skildring av:
+
+1. energianlegget, aktuelle utbyggingsløysingar og kostnadar, prosjektområdet og, på bakgrunn av tilgjengeleg kunnskap, mulege verknadar for andre næringar, miljø og samfunn
+2. tilhøve som skal utgreiast og kva metodar som skal nyttast
+3. opplysingar om verksemda til den som søker.
 
 Departementet kan krevje tilleggsopplysingar.
 
@@ -129,9 +133,32 @@ Den prosjektspesifikke konsekvensutgreiinga skal tilpassast omfanget på energia
 
 For energiprosjekt som også skal konsekvensutgreiast etter energilova, kan det utarbeidast felles konsekvensutgreiing.
 
-Konsekvensutgreiinga etter fyrste ledd skal gjere greie for energianlegget, og skal minst omhandle:anlegget sine fysiske eigenskapar og planlagde tekniske løysingar, lokaliseringa og arealbruken i både bygge- og driftsfasenei skildring av alternative utbyggingar som søkar har undersøkt og ei grunngjeving av val av utbyggingsløysing og prosjektområde, ei utgreiing av kriteria for val som er gjort, og tilknyting til nettanlegg og eventuell samordning med petroleumsverksemddei viktigaste trekka ved tiltaket i driftsfasen, som energibehovet til tiltaket, energibruken, energiløysingar, trongen for transport og typen og mengda naturressursar som vil bli brukteit overslag for typen og mengda avfall, reststoff, utslepp og ureining som vil bli produsert i bygge- og driftsfasenpåverknad knytta til klimaendringalternativa til utforming, teknologi, lokalisering, omfang og målestokk som forslagsstillaren har vurdertei vurdering av kva løyver, godkjenningar eller samtykker det skal søkast om etter elles gjeldande lovgjevingein tidsplan for gjennomføringaei skildring av tiltak ved nedlegginga av energianlegget.
+Konsekvensutgreiinga etter fyrste ledd skal gjere greie for energianlegget, og skal minst omhandle:
 
-I konsekvensutgreiinga etter fyrste ledd skal det gjevast ei spesifisert skildring av og vurdering av verknaden energianlegget kan ha for miljø og samfunn, som minst skal omhandle:botntilhøve og vassmiljøkulturminne, kulturmiljø og landskapfugl, fisk, naturtypar og anna naturmangfaldaktuelle tema for miljøovervakingfiskerinæring og anna næringsverksemdsamisk natur og kulturgrunnlagrisiko for ulukker og beredskapforsvarsinteresser og skipstrafikkmuleg påverknad på økosystemtenesterfriluftslivureining til sjø, luft, grunn og støyklima.
+1. anlegget sine fysiske eigenskapar og planlagde tekniske løysingar, lokaliseringa og arealbruken i både bygge- og driftsfasen
+2. ei skildring av alternative utbyggingar som søkar har undersøkt og ei grunngjeving av val av utbyggingsløysing og prosjektområde, ei utgreiing av kriteria for val som er gjort, og tilknyting til nettanlegg og eventuell samordning med petroleumsverksemd
+3. dei viktigaste trekka ved tiltaket i driftsfasen, som energibehovet til tiltaket, energibruken, energiløysingar, trongen for transport og typen og mengda naturressursar som vil bli brukt
+4. eit overslag for typen og mengda avfall, reststoff, utslepp og ureining som vil bli produsert i bygge- og driftsfasen
+5. påverknad knytta til klimaendring
+6. alternativa til utforming, teknologi, lokalisering, omfang og målestokk som forslagsstillaren har vurdert
+7. ei vurdering av kva løyver, godkjenningar eller samtykker det skal søkast om etter elles gjeldande lovgjeving
+8. ein tidsplan for gjennomføringa
+9. ei skildring av tiltak ved nedlegginga av energianlegget.
+
+I konsekvensutgreiinga etter fyrste ledd skal det gjevast ei spesifisert skildring av og vurdering av verknaden energianlegget kan ha for miljø og samfunn, som minst skal omhandle:
+
+1. botntilhøve og vassmiljø
+2. kulturminne, kulturmiljø og landskap
+3. fugl, fisk, naturtypar og anna naturmangfald
+4. aktuelle tema for miljøovervaking
+5. fiskerinæring og anna næringsverksemd
+6. samisk natur og kulturgrunnlag
+7. risiko for ulukker og beredskap
+8. forsvarsinteresser og skipstrafikk
+9. muleg påverknad på økosystemtenester
+10. friluftsliv
+11. ureining til sjø, luft, grunn og støy
+12. klima.
 
 Konsekvensutgreiinga skal innehalde ei skildring av noverande miljøtilstand og eit oversyn over korleis miljøet truleg vil utvikle seg dersom planen ikkje vert gjennomført.
 
@@ -151,7 +178,20 @@ Departementet kan krevje ytterlegare utgreiingar og informasjon.
 
 Innan to år etter at departementet har fastsett utgreiingsprogram for eit prosjektområde, skal den som har søkt om fastsetjing av utgreiingsprogrammet, sende inn søknad om konsesjon til departementet. Den prosjektspesifikke konsekvensutgreiinga skal leggast ved søknaden.
 
-Søknaden skal minst innehalde opplysingar om:søkaren, søkaren si verksemd, eigartilhøve og finansielle kapasitet. Dersom søknaden omfattar fleire søkarar, skal alle namn, adresser og nasjonalitetar gjevast oppkven i Noreg som skal vere representant andsynes departementetkva for prosjektområde det vert søkt konsesjon forom det også vert søkt konsesjon etter energilova, t.d. for tilknyting av energianlegget til kraftnettet på landei skildring av det planlagde prosjektet:estimert installert ytingestimert årsproduksjonløysing for tilknyting til kraftnettkostnadsoverslagvurdering av lønsemda i prosjektetpotensialet for konflikt med andre interesser.
+Søknaden skal minst innehalde opplysingar om:
+
+1. søkaren, søkaren si verksemd, eigartilhøve og finansielle kapasitet. Dersom søknaden omfattar fleire søkarar, skal alle namn, adresser og nasjonalitetar gjevast opp
+2. kven i Noreg som skal vere representant andsynes departementet
+3. kva for prosjektområde det vert søkt konsesjon for
+4. om det også vert søkt konsesjon etter energilova, t.d. for tilknyting av energianlegget til kraftnettet på land
+5. ei skildring av det planlagde prosjektet:
+
+   - estimert installert yting
+   - estimert årsproduksjon
+   - løysing for tilknyting til kraftnett
+   - kostnadsoverslag
+   - vurdering av lønsemda i prosjektet
+   - potensialet for konflikt med andre interesser.
 
 Departementet kan krevje ytterlegare opplysingar.
 
@@ -171,7 +211,13 @@ Departementet skal der det er naudsynt stille krav om overvaking av vesentlege n
 
 Søknad om godkjenning av detaljplan sendast Noregs vassdrags- og energidirektorat innan to år etter vedtak om konsesjon.
 
-Søknad om godkjenning av detaljplan skal innehalde dei opplysningar som følgjer av konsesjonen, og elles skildre den planlagde oppføringa av energianlegget, og skal gjere greie for økonomiske, ressursmessige, tekniske, miljø- og tryggleiksmessige tilhøve ved utbygging og drift av energianlegget. Noregs vassdrags- og energidirektorat kan krevje alternative løysingar utgreidd. Detaljplanen skal minst innehalde følgjande:planlagd tidspunkt for starten på byggearbeid og ferdigstilling av energianleggetteknisk skildring av utbyggingaei skildring av planlagd drift og finansiering av energianleggetplan for nedlegging og fjerning av energianleggetendringar i dokumentasjonen som vart brukt for å søke konsesjon.
+Søknad om godkjenning av detaljplan skal innehalde dei opplysningar som følgjer av konsesjonen, og elles skildre den planlagde oppføringa av energianlegget, og skal gjere greie for økonomiske, ressursmessige, tekniske, miljø- og tryggleiksmessige tilhøve ved utbygging og drift av energianlegget. Noregs vassdrags- og energidirektorat kan krevje alternative løysingar utgreidd. Detaljplanen skal minst innehalde følgjande:
+
+1. planlagd tidspunkt for starten på byggearbeid og ferdigstilling av energianlegget
+2. teknisk skildring av utbygginga
+3. ei skildring av planlagd drift og finansiering av energianlegget
+4. plan for nedlegging og fjerning av energianlegget
+5. endringar i dokumentasjonen som vart brukt for å søke konsesjon.
 
 Noregs vassdrags- og energidirektorat kan krevje ytterlegare informasjon.
 
@@ -219,7 +265,13 @@ Nemndene omtala i [§ 12](forskrift/2020-06-12-1192/§12) og [§ 13](forskrift/2
 
 ### § 15. Bevisvurdering ved solidaransvar
 
-Ved bevisvurdering etter regelen om solidaransvar etter [havenergilova § 9-3](lov/2010-06-04-21/§9-3) sjette ledd skal det særleg leggast vekt på:kva gjenstand som har gjort skaden, om dette kan bringast på det reineposisjon for skadehendingaskaden eller typen skadeforløpet til skadehendingarøynsle frå tidlegare fiske i området.
+Ved bevisvurdering etter regelen om solidaransvar etter [havenergilova § 9-3](lov/2010-06-04-21/§9-3) sjette ledd skal det særleg leggast vekt på:
+
+1. kva gjenstand som har gjort skaden, om dette kan bringast på det reine
+2. posisjon for skadehendinga
+3. skaden eller typen skade
+4. forløpet til skadehendinga
+5. røynsle frå tidlegare fiske i området.
 
 ### § 16. Framsetjing av krav
 

@@ -15,7 +15,7 @@ xml_hash: "016739cd40b7f9dcf616675878178b724bee985870d71d41fa6859e40e8497a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,10 @@ Kongen kan gi forskrift om mindre innskrenkende justeringer av grensen der den g
 
 I vurderingen av om grensen skal justeres etter tredje eller fjerde ledd kan det legges vekt på om det legges nye egnede områder til Marka til erstatning for området som tas ut.
 
-Loven omfatter bygge- og anleggstiltak som nevnt i [§ 5](lov/2009-06-05-35/§5), inkludert bygge- og anleggstiltak i landbruket. Loven omfatter ikkeskogbehandling, hogsttiltak og drift av jordbruksarealertiltak som er nevnt i [plan- og bygningsloven § 1-3 andre ledd](lov/2008-06-27-71/§1-3/ledd/2), eller som inngår i vedtak etter [plan- og bygningsloven § 6-4 tredje ledd](lov/2008-06-27-71/§6-4/ledd/3).
+Loven omfatter bygge- og anleggstiltak som nevnt i [§ 5](lov/2009-06-05-35/§5), inkludert bygge- og anleggstiltak i landbruket. Loven omfatter ikke
+
+1. skogbehandling, hogsttiltak og drift av jordbruksarealer
+2. tiltak som er nevnt i [plan- og bygningsloven § 1-3 andre ledd](lov/2008-06-27-71/§1-3/ledd/2), eller som inngår i vedtak etter [plan- og bygningsloven § 6-4 tredje ledd](lov/2008-06-27-71/§6-4/ledd/3).
 
 > Endret ved [lover 10 apr 2019 nr. 12](lov/2019-04-10-12), [6 juni 2025 nr. 25](lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](forskrift/2025-06-06-945)).
 
@@ -80,9 +83,35 @@ Restriksjoner som følger av arealplaner vedtatt før 1. september 2009 gjelder 
 
 ### § 5. Forbud mot bygge- og anleggstiltak
 
-Bygge- og anleggstiltak er forbudt i Marka. Med bygge- og anleggstiltak menes i loven her:oppføring, tilbygging, påbygging, underbygging eller plassering av bygning, konstruksjon eller anleggvesentlig endring av tiltak som nevnt under bokstav avarig eller tidsbestemt bruksendring, vesentlig utvidelse eller vesentlig endring av tidligere drift av tiltak som nevnt under bokstav aoppføring eller endring av bygningstekniske installasjoneroppdeling av bruksenheter i boligerplassering av skilt- og reklameinnretningerplassering av midlertidige bygninger, konstruksjoner eller anleggvesentlige terrenginngrepanlegg av veg, parkeringsplass og landingsplassannen virksomhet og endring av arealbruk som vil være i strid med arealformål, planbestemmelser og hensynssoner.
+Bygge- og anleggstiltak er forbudt i Marka. Med bygge- og anleggstiltak menes i loven her:
 
-Forbudet i første ledd omfatter ikke følgende tiltak dersom disse er i samsvar med plan:innvendige og utvendige arbeider og installasjoner på eksisterende bygning, konstruksjon eller anlegg, inkludert reparasjoner, når dette ikke øker bruksareal eller på annen måte øker bygningsmassenfasadeendringer som ikke endrer bygningens karakter, samt tilbakeføring av fasade til tidligere dokumentert utførelseoppføring av mindre konstruksjoner som hundehus, mindre lekestuer o.l., og som enkelt kan fjernesmindre fylling eller planering av terreng når tiltaket ikke medfører mer enn 0,5 meter avvik fra opprinnelig terrengnivåforstøtningsmur inntil 1 meters høyde og som ikke er nærmere nabogrense enn 4 meterpermanent overdekking av fyringsved til egen bruk på flate som samlet ikke er større enn 5 m2 på hver eiendomfast dekke på én uteplass på inntil 20 m2 på hver eiendom. Avstanden mellom uteplass og nærmeste nabogrense skal være minst 4,0 meterlevegg ved uteplass med høyde inntil 1,8 meter og som samlet per eiendom ikke overstiger 5 meter lengdeterrasser som har en høyde på inntil 1,0 meter fra eksisterende terreng, er forbundet med en bygning og samlet for hver eiendom ikke overstiger 20 m2. Slike terrasser kan ha et tilhørende rekkverk på inntil 1,2 meter, men kan ikke være overbygde. Avstanden mellom terrasse og nabogrensen skal være minst 4,0 meteroppføring av mindre skilt som viser informasjon om løyper, turmål, natur, kulturmiljø eller serverings- og overnattingstilbuddrift og vedlikehold samt nødvendig istandsetting ved akutt utfall på eksisterende energi- og kraftanleggoppgradering eller fornyelse av kraftledninger for å heve spenningsnivå og øke linjetverrsnittet når dette ikke har nevneverdig betydning for ivaretakelse av [markalovens](lov/2009-06-05-35) formålvedlikehold og rehabilitering av vassdragsanleggnedlegging av vassdragsanlegg der dette er konsesjonspliktig etter [vannressursloven § 41](lov/2000-11-24-82/§41).
+1. oppføring, tilbygging, påbygging, underbygging eller plassering av bygning, konstruksjon eller anlegg
+2. vesentlig endring av tiltak som nevnt under bokstav a
+3. varig eller tidsbestemt bruksendring, vesentlig utvidelse eller vesentlig endring av tidligere drift av tiltak som nevnt under bokstav a
+4. oppføring eller endring av bygningstekniske installasjoner
+5. oppdeling av bruksenheter i boliger
+6. plassering av skilt- og reklameinnretninger
+7. plassering av midlertidige bygninger, konstruksjoner eller anlegg
+8. vesentlige terrenginngrep
+9. anlegg av veg, parkeringsplass og landingsplass
+10. annen virksomhet og endring av arealbruk som vil være i strid med arealformål, planbestemmelser og hensynssoner.
+
+Forbudet i første ledd omfatter ikke følgende tiltak dersom disse er i samsvar med plan:
+
+1. innvendige og utvendige arbeider og installasjoner på eksisterende bygning, konstruksjon eller anlegg, inkludert reparasjoner, når dette ikke øker bruksareal eller på annen måte øker bygningsmassen
+2. fasadeendringer som ikke endrer bygningens karakter, samt tilbakeføring av fasade til tidligere dokumentert utførelse
+3. oppføring av mindre konstruksjoner som hundehus, mindre lekestuer o.l., og som enkelt kan fjernes
+4. mindre fylling eller planering av terreng når tiltaket ikke medfører mer enn 0,5 meter avvik fra opprinnelig terrengnivå
+5. forstøtningsmur inntil 1 meters høyde og som ikke er nærmere nabogrense enn 4 meter
+6. permanent overdekking av fyringsved til egen bruk på flate som samlet ikke er større enn 5 m2 på hver eiendom
+7. fast dekke på én uteplass på inntil 20 m2 på hver eiendom. Avstanden mellom uteplass og nærmeste nabogrense skal være minst 4,0 meter
+8. levegg ved uteplass med høyde inntil 1,8 meter og som samlet per eiendom ikke overstiger 5 meter lengde
+9. terrasser som har en høyde på inntil 1,0 meter fra eksisterende terreng, er forbundet med en bygning og samlet for hver eiendom ikke overstiger 20 m2. Slike terrasser kan ha et tilhørende rekkverk på inntil 1,2 meter, men kan ikke være overbygde. Avstanden mellom terrasse og nabogrensen skal være minst 4,0 meter
+10. oppføring av mindre skilt som viser informasjon om løyper, turmål, natur, kulturmiljø eller serverings- og overnattingstilbud
+11. drift og vedlikehold samt nødvendig istandsetting ved akutt utfall på eksisterende energi- og kraftanlegg
+12. oppgradering eller fornyelse av kraftledninger for å heve spenningsnivå og øke linjetverrsnittet når dette ikke har nevneverdig betydning for ivaretakelse av [markalovens](lov/2009-06-05-35) formål
+13. vedlikehold og rehabilitering av vassdragsanlegg
+14. nedlegging av vassdragsanlegg der dette er konsesjonspliktig etter [vannressursloven § 41](lov/2000-11-24-82/§41).
 
 Tiltakshaver er ansvarlig for at tiltak som nevnt i andre ledd utføres i samsvar med de krav som ellers er fastsatt i eller i medhold av lov.
 
@@ -92,7 +121,20 @@ Departementet kan fastsette forskrift om hvilke tiltak som omfattes av paragrafe
 
 ### § 6. Unntak for tiltak i kommunale eller statlige planer i Marka
 
-Kommunale planer etter [plan- og bygningsloven](lov/2008-06-27-71) kan uavhengig av [§ 4 første ledd](lov/2009-06-05-35/§4/ledd/1) og [§ 5 første ledd](lov/2009-06-05-35/§5/ledd/1) åpne for følgende bygge- og anleggstiltak i Marka:tiltak i landbruk, herunder bygninger og terrenginngreptilretteleggingstiltak etter [§ 9 første ledd](lov/2009-06-05-35/§9/ledd/1) som forutsetter reguleringsplan etter bestemmelser i eller i medhold av [plan- og bygningsloven](lov/2008-06-27-71)idrettsanlegg som kan innpasses innenfor lovens formåloffentlige infrastrukturanlegg som veger, utfartsparkeringer, jernbane, dammer, vannforsyningssystemer, kraftledninger mv. samt områder for igangværende råstoffutvinningombygging og mindre utvidelser av eksisterende bygninger, anlegg og innretningerbegrenset spredt utbygging i tilknytning til eksisterende bebyggelse i Sørkedalen og Maridalen når utbyggingen er nødvendig for å opprettholde et etablert lokalsamfunnutvidelse, modernisering eller etablering av serverings- eller overnattingsvirksomhet som har til formål å fremme, eller som samlet sett har flere fordeler enn ulemper for, friluftsliv, idrett eller naturopplevelsetiltak som har til formål å fremme eller tilrettelegge for friluftsliv, idrett eller naturopplevelse for allmennhetentiltak til militære formåltiltak for å forebygge skader fra ras, skred, steinsprang eller flom og for håndtering av overvanntiltak for å hindre, stanse, fjerne eller begrense virkningen av forurensningtiltak for å forbedre eller gjenopprette tilstand i økosystemer som er blitt forringet eller ødelagt.
+Kommunale planer etter [plan- og bygningsloven](lov/2008-06-27-71) kan uavhengig av [§ 4 første ledd](lov/2009-06-05-35/§4/ledd/1) og [§ 5 første ledd](lov/2009-06-05-35/§5/ledd/1) åpne for følgende bygge- og anleggstiltak i Marka:
+
+1. tiltak i landbruk, herunder bygninger og terrenginngrep
+2. tilretteleggingstiltak etter [§ 9 første ledd](lov/2009-06-05-35/§9/ledd/1) som forutsetter reguleringsplan etter bestemmelser i eller i medhold av [plan- og bygningsloven](lov/2008-06-27-71)
+3. idrettsanlegg som kan innpasses innenfor lovens formål
+4. offentlige infrastrukturanlegg som veger, utfartsparkeringer, jernbane, dammer, vannforsyningssystemer, kraftledninger mv. samt områder for igangværende råstoffutvinning
+5. ombygging og mindre utvidelser av eksisterende bygninger, anlegg og innretninger
+6. begrenset spredt utbygging i tilknytning til eksisterende bebyggelse i Sørkedalen og Maridalen når utbyggingen er nødvendig for å opprettholde et etablert lokalsamfunn
+7. utvidelse, modernisering eller etablering av serverings- eller overnattingsvirksomhet som har til formål å fremme, eller som samlet sett har flere fordeler enn ulemper for, friluftsliv, idrett eller naturopplevelse
+8. tiltak som har til formål å fremme eller tilrettelegge for friluftsliv, idrett eller naturopplevelse for allmennheten
+9. tiltak til militære formål
+10. tiltak for å forebygge skader fra ras, skred, steinsprang eller flom og for håndtering av overvann
+11. tiltak for å hindre, stanse, fjerne eller begrense virkningen av forurensning
+12. tiltak for å forbedre eller gjenopprette tilstand i økosystemer som er blitt forringet eller ødelagt.
 
 Tiltak som nevnt i første ledd krever søknad og tillatelse etter [§ 14](lov/2009-06-05-35/§14).
 
@@ -138,7 +180,21 @@ Krav om omlegging rettes til den som holder løypa, stien, klatreruten eller omr
 
 ### § 10. Regler for motorisert ferdsel
 
-I Marka er motorferdsel i utmark og vassdrag ikke tillatt med mindre annet følger av denne lov eller forskrift gitt i medhold av denne lov. [Motorferdselloven](lov/1977-06-10-82) gjelder ikke i Marka. All motorferdsel i utmark og vassdrag skal foregå varsomt og på tidspunkter som i minst mulig grad medfører ulemper for friluftslivet, skader i terrenget eller forstyrrelser for dyrelivet. På disse vilkår er nødvendig motorferdsel tillatt i forbindelse med:politi-, ambulanse- og redningstjeneste og oppsyns- og tilsynstjeneste etablert med hjemmel i lov,offentlige post- og teletjenester,person- og godstransport til og fra faste bosteder og i jordbruks- og skogbruksnæring. Jakt, fiske og bærsanking regnes ikke som næring i denne forbindelse,skånsom transport av felt elg, hjort og villsvin,drift og vedlikehold av hytter som er åpne for allmennheten,Forsvarets øvelser, forflytninger og transporter,transport i forbindelse med anlegg og drift av veger og større anlegg, herunder dammer,vedlikehold av eksisterende løyper, stier, turveier og områder for friluftslivsaktiviteter for allmennheten når dette er i samsvar med bestemmelser i eller i medhold av [§ 9](lov/2009-06-05-35/§9) og gjennomføres av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,anlegg av nye og utvidelse av eksisterende løyper og områder for friluftslivsaktiviteter for allmennheten når dette er i samsvar med bestemmelser i eller i medhold av [§ 9](lov/2009-06-05-35/§9) og gjennomføres av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,brøyting eller preparering av snødekket mark eller islagte vann for å etablere løyper, baner eller områder for friluftslivsaktiviteter for allmennheten når dette er i samsvar med bestemmelser i eller i medhold av [§ 9](lov/2009-06-05-35/§9) og gjennomføres av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,transport i forbindelse med fiskekultiveringstiltak med offentlig formål,drift og vedlikehold av eksisterende og bygging av nye energi- og kraftanlegg,nødvendig istandsetting ved akutt utfall i områder som er vernet eller midlertidig vernet etter [§ 11](lov/2009-06-05-35/§11).
+I Marka er motorferdsel i utmark og vassdrag ikke tillatt med mindre annet følger av denne lov eller forskrift gitt i medhold av denne lov. [Motorferdselloven](lov/1977-06-10-82) gjelder ikke i Marka. All motorferdsel i utmark og vassdrag skal foregå varsomt og på tidspunkter som i minst mulig grad medfører ulemper for friluftslivet, skader i terrenget eller forstyrrelser for dyrelivet. På disse vilkår er nødvendig motorferdsel tillatt i forbindelse med:
+
+1. politi-, ambulanse- og redningstjeneste og oppsyns- og tilsynstjeneste etablert med hjemmel i lov,
+2. offentlige post- og teletjenester,
+3. person- og godstransport til og fra faste bosteder og i jordbruks- og skogbruksnæring. Jakt, fiske og bærsanking regnes ikke som næring i denne forbindelse,
+4. skånsom transport av felt elg, hjort og villsvin,
+5. drift og vedlikehold av hytter som er åpne for allmennheten,
+6. Forsvarets øvelser, forflytninger og transporter,
+7. transport i forbindelse med anlegg og drift av veger og større anlegg, herunder dammer,
+8. vedlikehold av eksisterende løyper, stier, turveier og områder for friluftslivsaktiviteter for allmennheten når dette er i samsvar med bestemmelser i eller i medhold av [§ 9](lov/2009-06-05-35/§9) og gjennomføres av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,
+9. anlegg av nye og utvidelse av eksisterende løyper og områder for friluftslivsaktiviteter for allmennheten når dette er i samsvar med bestemmelser i eller i medhold av [§ 9](lov/2009-06-05-35/§9) og gjennomføres av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,
+10. brøyting eller preparering av snødekket mark eller islagte vann for å etablere løyper, baner eller områder for friluftslivsaktiviteter for allmennheten når dette er i samsvar med bestemmelser i eller i medhold av [§ 9](lov/2009-06-05-35/§9) og gjennomføres av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,
+11. transport i forbindelse med fiskekultiveringstiltak med offentlig formål,
+12. drift og vedlikehold av eksisterende og bygging av nye energi- og kraftanlegg,
+13. nødvendig istandsetting ved akutt utfall i områder som er vernet eller midlertidig vernet etter [§ 11](lov/2009-06-05-35/§11).
 
 Med utmark menes udyrket mark som etter [lov om friluftslivet § 1 a første ledd](lov/1957-06-28-16/§1a/ledd/1) ikke regnes som innmark eller like med innmark. Setervoll, hustomt, engslått, kulturbeite og skogplantefelt som ligger i utmark, regnes i denne lov like med utmark.
 
@@ -178,7 +234,11 @@ Departementet kan gi forskrift om hensynsfull bruk av Marka. Bestemmelsene i for
 
 ### § 13. Rådet for markasaker (Markarådet)
 
-Departementet kan oppnevne et råd for markasaker. Markarådet skal arbeide for å fremme formålet med loven og kan av eget tiltak ta opp saker til behandling i rådet. Markarådet kan blant annet gi uttalelse til:søknader om tillatelse i større saker og dispensasjonforslag til planerforslag om særskilt vern av friluftslivsområde i henhold til [§ 11](lov/2009-06-05-35/§11) i denne lov.
+Departementet kan oppnevne et råd for markasaker. Markarådet skal arbeide for å fremme formålet med loven og kan av eget tiltak ta opp saker til behandling i rådet. Markarådet kan blant annet gi uttalelse til:
+
+1. søknader om tillatelse i større saker og dispensasjon
+2. forslag til planer
+3. forslag om særskilt vern av friluftslivsområde i henhold til [§ 11](lov/2009-06-05-35/§11) i denne lov.
 
 Markarådet kan utarbeide forslag til forskrift om hensynsfull bruk av Marka.
 
@@ -190,7 +250,12 @@ Departementet fastsetter nærmere bestemmelser om Markarådets sammensetning, an
 
 ### § 14. Tiltak kommunen kan gi tillatelse til
 
-Kommunen kan uavhengig av [§ 5 første ledd](lov/2009-06-05-35/§5/ledd/1) gi tillatelse til ågjennomføre tiltak, inkludert bruksendring, som er i samsvar med vedtatt og stadfestet kommunal plan, jf. [§§ 6](lov/2009-06-05-35/§6) og [7](lov/2009-06-05-35/§7)anlegge tilretteleggingstiltak som nevnt i [§ 9 første ledd første punktum](lov/2009-06-05-35/§9/ledd/1/setning/1), når disse er i samsvar med vedtatt og stadfestet kommunal plan, jf. [§§ 6](lov/2009-06-05-35/§6) og [7](lov/2009-06-05-35/§7)gjenoppføre bygninger som har gått tapt ved brann eller naturskade, og som er i samsvar med gjeldende plangjennomføre bygge- og anleggstiltak som er i samsvar med arealformål LNF, jf. § 4 første ledd, [plan- og bygningsloven § 11-7 andre ledd nr. 5 bokstav a](lov/2008-06-27-71/§11-7/ledd/2/nummer/5/bokstav/a) eller [§ 12-5 andre ledd nr. 5](lov/2008-06-27-71/§12-5/ledd/2/nummer/5).
+Kommunen kan uavhengig av [§ 5 første ledd](lov/2009-06-05-35/§5/ledd/1) gi tillatelse til å
+
+1. gjennomføre tiltak, inkludert bruksendring, som er i samsvar med vedtatt og stadfestet kommunal plan, jf. [§§ 6](lov/2009-06-05-35/§6) og [7](lov/2009-06-05-35/§7)
+2. anlegge tilretteleggingstiltak som nevnt i [§ 9 første ledd første punktum](lov/2009-06-05-35/§9/ledd/1/setning/1), når disse er i samsvar med vedtatt og stadfestet kommunal plan, jf. [§§ 6](lov/2009-06-05-35/§6) og [7](lov/2009-06-05-35/§7)
+3. gjenoppføre bygninger som har gått tapt ved brann eller naturskade, og som er i samsvar med gjeldende plan
+4. gjennomføre bygge- og anleggstiltak som er i samsvar med arealformål LNF, jf. § 4 første ledd, [plan- og bygningsloven § 11-7 andre ledd nr. 5 bokstav a](lov/2008-06-27-71/§11-7/ledd/2/nummer/5/bokstav/a) eller [§ 12-5 andre ledd nr. 5](lov/2008-06-27-71/§12-5/ledd/2/nummer/5).
 
 I et vedtak om tillatelse etter første ledd skal det i vurderingen av om tillatelse skal gis, fremgå hvilken betydning tiltaket har for ivaretakelse av lovens formål, og hvordan dette er vektlagt. I saker om tillatelse til bygge- og anleggstiltak i landbruket skal søknadsbehandlingen begrenses til å kontrollere at tiltaket har landbruksformål, inngår i et område med arealformål LNF etter § 4 første ledd, [plan- og bygningsloven § 11-7 andre ledd nr. 5 bokstav a](lov/2008-06-27-71/§11-7/ledd/2/nummer/5/bokstav/a) eller [§ 12-5 andre ledd nr. 5](lov/2008-06-27-71/§12-5/ledd/2/nummer/5) og er i samsvar med eventuelle planer som nevnt i første ledd bokstav a.
 

@@ -15,7 +15,7 @@ xml_hash: "c3391590ff529ae360939c2127f2902c6a0712fc6a3070684ecd175f438892ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,40 @@ Bilbelte og annet utstyr til sikring av personer skal brukes der det er montert.
 
 Med bilbelte menes ethvert belte til sikring av sittende person i kjøretøy uansett i hvilken type kjøretøy beltet er montert. Unntatt fra dette er setebelte i anleggsmaskiner m.m. som omfattes av bestemmelsene om krav til setebelte i [forskrift av 6. desember 2011 nr. 1357 om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav](forskrift/2011-12-06-1357).
 
-For personbil (gruppe M1), varebil (gruppe N1) og lastebil (gruppe N2 og N3), jf. definisjoner i [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr ([kjøretøyforskriften) § 2-2](forskrift/1994-10-04-918/§2-2) og [forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil [§ 4](forskrift/2012-07-05-817/§4), gjelder:I bil med sitteplasser bak fremre seterad skal passasjer som sitter i sete bak fremre seterad, bruke sitteplass hvor bilbelte er montert dersom slik sitteplass er ledig.Der bilbelte er montert, skal barn lavere enn 150 cm bruke godkjent sikringsutstyr som er tilpasset barnet eller slikt utstyr i kombinasjon med ordinært bilbelte.Der det ikke finnes godkjent barnesikringsutstyr, kan barn under 150 cm og over 135 cm bruke ordinært bilbelte.Der bilbelte ikke er montert, skal barn yngre enn 3 år ikke transporteres, og barn som er 3 år eller eldre, men lavere enn 150 cm, skal ikke transporteres i fremre seterad.Barn skal ikke transporteres i bakovervendt sikringsutstyr med kollisjonspute foran uten at kollisjonsputen er deaktivert manuelt eller automatisk.Der barnesikringsutstyr brukes, skal utstyret være montert i overensstemmelse med tilhørende bruksanvisning og være godkjent i henhold til:direktiv [77/541/EØF](eu/31977l0541*),ECE-regulativ 44.03 ellerECE-regulativ 129.
+For personbil (gruppe M1), varebil (gruppe N1) og lastebil (gruppe N2 og N3), jf. definisjoner i [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr ([kjøretøyforskriften) § 2-2](forskrift/1994-10-04-918/§2-2) og [forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil [§ 4](forskrift/2012-07-05-817/§4), gjelder:
 
-For buss, med unntak av buss gruppe M3 klasse I («bybuss»), jf. [kjøretøyforskriften § 2-2](forskrift/1994-10-04-918/§2-2) og [§ 8-1](forskrift/1994-10-04-918/§8-1), gjelder:Bilbelte og annet utstyr til sikring av personer skal brukes av sittende.Barn yngre enn 3 år skal i buss bruke godkjent sikringsutstyr som er tilpasset barnet eller slikt utstyr i kombinasjon med ordinært bilbelte. Når slikt utstyr ikke er tilgjengelig, skal ordinært bilbelte brukes på egnet måte. Barn som er 3 år eller eldre skal bruke ordinært bilbelte på egnet måte.Passasjerer skal informeres om plikten til å bruke bilbelter. Informasjonen skal gis når bussen er i bevegelse og på en eller flere av følgende måter:av fører eller billettør,ved hjelp av audiovisuelle midler,ved hjelp av skilt med tekst eller piktogram som vist i anneks til direktiv [2003/20/EF](eu/32003l0020), godt synlig plassert ved hvert sete.Påbudet om bruk av bilbelte og annet sikringsutstyr gjelder likevel ikke ved kortest mulig fravær fra sitteplass grunnet bruk av toalett.
+1. I bil med sitteplasser bak fremre seterad skal passasjer som sitter i sete bak fremre seterad, bruke sitteplass hvor bilbelte er montert dersom slik sitteplass er ledig.
+2. Der bilbelte er montert, skal barn lavere enn 150 cm bruke godkjent sikringsutstyr som er tilpasset barnet eller slikt utstyr i kombinasjon med ordinært bilbelte.
+3. Der det ikke finnes godkjent barnesikringsutstyr, kan barn under 150 cm og over 135 cm bruke ordinært bilbelte.
+4. Der bilbelte ikke er montert, skal barn yngre enn 3 år ikke transporteres, og barn som er 3 år eller eldre, men lavere enn 150 cm, skal ikke transporteres i fremre seterad.
+5. Barn skal ikke transporteres i bakovervendt sikringsutstyr med kollisjonspute foran uten at kollisjonsputen er deaktivert manuelt eller automatisk.
+6. Der barnesikringsutstyr brukes, skal utstyret være montert i overensstemmelse med tilhørende bruksanvisning og være godkjent i henhold til:
 
-Påbudet om bruk av bilbelte og annet sikringsutstyr gjelder likevel ikke:når kjøretøyet står stille,under rygging,under kjøring i garasje, på parkeringsplass, bensinstasjon, verkstedområde eller lignende avgrenset område,under kjøring i lav hastighet der vedkommende med korte mellomrom må forlate sin plass, så som under utdeling av post eller aviser, eller ved renovasjonsarbeid eller lignende,når vedkommende har med legeerklæring som fritar fra å bruke bilbelte,– – –for ledsager ved øvelseskjøring og førerprøve i klassene C, C1, D, D1, CE, C1E, DE og D1E der ledsager i bilbelte ikke rekker fram til rattet,sikringsutstyr til fastsetting av barnevogn.
+   1. direktiv [77/541/EØF](eu/31977l0541*),
+   2. ECE-regulativ 44.03 eller
+   3. ECE-regulativ 129.
+
+For buss, med unntak av buss gruppe M3 klasse I («bybuss»), jf. [kjøretøyforskriften § 2-2](forskrift/1994-10-04-918/§2-2) og [§ 8-1](forskrift/1994-10-04-918/§8-1), gjelder:
+
+1. Bilbelte og annet utstyr til sikring av personer skal brukes av sittende.
+2. Barn yngre enn 3 år skal i buss bruke godkjent sikringsutstyr som er tilpasset barnet eller slikt utstyr i kombinasjon med ordinært bilbelte. Når slikt utstyr ikke er tilgjengelig, skal ordinært bilbelte brukes på egnet måte. Barn som er 3 år eller eldre skal bruke ordinært bilbelte på egnet måte.
+3. Passasjerer skal informeres om plikten til å bruke bilbelter. Informasjonen skal gis når bussen er i bevegelse og på en eller flere av følgende måter:
+
+   1. av fører eller billettør,
+   2. ved hjelp av audiovisuelle midler,
+   3. ved hjelp av skilt med tekst eller piktogram som vist i anneks til direktiv [2003/20/EF](eu/32003l0020), godt synlig plassert ved hvert sete.
+4. Påbudet om bruk av bilbelte og annet sikringsutstyr gjelder likevel ikke ved kortest mulig fravær fra sitteplass grunnet bruk av toalett.
+
+Påbudet om bruk av bilbelte og annet sikringsutstyr gjelder likevel ikke:
+
+1. når kjøretøyet står stille,
+2. under rygging,
+3. under kjøring i garasje, på parkeringsplass, bensinstasjon, verkstedområde eller lignende avgrenset område,
+4. under kjøring i lav hastighet der vedkommende med korte mellomrom må forlate sin plass, så som under utdeling av post eller aviser, eller ved renovasjonsarbeid eller lignende,
+5. når vedkommende har med legeerklæring som fritar fra å bruke bilbelte,
+6. – – –
+7. for ledsager ved øvelseskjøring og førerprøve i klassene C, C1, D, D1, CE, C1E, DE og D1E der ledsager i bilbelte ikke rekker fram til rattet,
+8. sikringsutstyr til fastsetting av barnevogn.
 
 Legeerklæring som nevnt i femte ledd bokstav e skal utformes i samsvar med artikkel 5 i direktiv [91/671/EØF](eu/31991l0671) som endret ved direktiv [2003/20/EF](eu/32003l0020). Legeerklæring utstedt i Norge skal i tillegg være påført gyldighetstid på inntil to år.
 
@@ -44,7 +73,12 @@ Legeerklæringer utstedt før 1. januar 2017 vil være gyldige i Norge uten gyld
 
 Fører og passasjer i traktor (gruppe T) med godkjent førervern skal bruke setebelte der dette er montert. Dersom slik traktor har godkjente festepunkter, skal setebelte ettermonteres der dette mangler.
 
-Påbudet om bruk av setebelte gjelder likevel ikke:når traktoren står stille,når bruken av setebelte i seg selv medfører en økt risiko for skade,når bruk av setebelte er til stor ulempe og det er liten fare for velt eller bråstopp,og ellers når vedkommende har med legeerklæring som fritar fra å bruke setebelte.
+Påbudet om bruk av setebelte gjelder likevel ikke:
+
+1. når traktoren står stille,
+2. når bruken av setebelte i seg selv medfører en økt risiko for skade,
+3. når bruk av setebelte er til stor ulempe og det er liten fare for velt eller bråstopp,
+4. og ellers når vedkommende har med legeerklæring som fritar fra å bruke setebelte.
 
 Legeerklæring som nevnt i annet ledd bokstav d) skal utformes i samsvar med artikkel 5 i direktiv [91/671/EØF](eu/31991l0671) som endret ved direktiv [2003/20/EF](eu/32003l0020). Legeerklæring utstedt i Norge skal i tillegg være påført gyldighetstid på inntil to år.
 
@@ -56,11 +90,21 @@ Bestemmelsene i første ledd gjelder ikke for traktor under arbeid, som omfattes
 
 Enhver skal bruke godkjent styrthjelm under kjøring med beltemotorsykkel, to- og trehjuls motorvogn (herunder firehjuls motorsykkel), sidevogn til tohjuls motorsykkel eller i slede til beltemotorsykkel.
 
-Påbudet gjelder likevel ikke:når kjøretøyet står stille,under kjøring i garasje, på parkeringsplass, bensinstasjon, verkstedområde eller lignende avgrenset område,under kjøring med beltemotorsykkel i forbindelse med reindrift, skogbruk, vedlikehold og ettersyn av kraftgater/-linjer, eller for pasient og andre med transportbehov i forbindelse med rekvirert eller definert redningsoppdrag.under kjøring med tre- og firehjuls motorsykkel og tre- og firehjuls moped når disse har lukket karosseri og har montert bilbelte,under kjøring med firehjuls motorsykkel og firehjuls moped når disse har karosseri bestående av minst gulv, front, tak og bakvegg og kjører i lav hastighet der vedkommende med korte mellomrom må forlate sin plass, så som under utdeling av post eller aviser, eller ved renovasjonsarbeid eller lignende,under kjøring med beltemotorsykkel/fire-/sekshjuls motorsykkel i militære avdelinger når Forsvarets hjelm benyttes,når godkjent1 og CE-merket2 alpinhjelm brukes under kjøring med beltemotorsykkel eller i slede til beltemotorsykkel.
+Påbudet gjelder likevel ikke:
+
+1. når kjøretøyet står stille,
+2. under kjøring i garasje, på parkeringsplass, bensinstasjon, verkstedområde eller lignende avgrenset område,
+3. under kjøring med beltemotorsykkel i forbindelse med reindrift, skogbruk, vedlikehold og ettersyn av kraftgater/-linjer, eller for pasient og andre med transportbehov i forbindelse med rekvirert eller definert redningsoppdrag.
+4. under kjøring med tre- og firehjuls motorsykkel og tre- og firehjuls moped når disse har lukket karosseri og har montert bilbelte,
+5. under kjøring med firehjuls motorsykkel og firehjuls moped når disse har karosseri bestående av minst gulv, front, tak og bakvegg og kjører i lav hastighet der vedkommende med korte mellomrom må forlate sin plass, så som under utdeling av post eller aviser, eller ved renovasjonsarbeid eller lignende,
+6. under kjøring med beltemotorsykkel/fire-/sekshjuls motorsykkel i militære avdelinger når Forsvarets hjelm benyttes,
+7. når godkjent1 og CE-merket2 alpinhjelm brukes under kjøring med beltemotorsykkel eller i slede til beltemotorsykkel.
 
 > Endret ved [forskrifter 19 des 2001 nr. 1506](forskrift/2001-12-19-1506) (i kraft 1 juli 2002), [8 okt 2004 nr. 1330](forskrift/2004-10-08-1330), [15 feb 2006 nr. 169](forskrift/2006-02-15-169), [24 mai 2011 nr. 544](forskrift/2011-05-24-544) (i kraft 15 juni 2011), [17 sep 2013 nr. 1103](forskrift/2013-09-17-1103).
 
-1 Jf. ICS 13.340.20; 97.220.20, jf. NS-EN-1077.2 Jf. [forskrift 19. august 1994 nr. 819](forskrift/1994-08-19-819) om konstruksjon, utforming og produksjon av personlig verneutstyr (PVU).
+1 Jf. ICS 13.340.20; 97.220.20, jf. NS-EN-1077.
+
+2 Jf. [forskrift 19. august 1994 nr. 819](forskrift/1994-08-19-819) om konstruksjon, utforming og produksjon av personlig verneutstyr (PVU).
 
 ## § 3. Hvem som skal ilegges reaksjon etter disse forskrifter
 

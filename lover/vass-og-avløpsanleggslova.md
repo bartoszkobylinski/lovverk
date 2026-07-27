@@ -15,7 +15,7 @@ xml_hash: "d03033278c14896b4c5224952d53ae86e5c2eb08bcc9f809215f0b0d894cacf0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,11 @@ Departementet kan gi forskrifter om eigarskap til vass- og avløpsanlegg.
 
 ## § 3. Kommunalt løyve til private vass- og avløpsanlegg
 
-Kommunen kan etter søknad gi løyve til samanslåing eller vesentleg utviding av eit eksisterande privat vass- og avløpsanlegg eller til etablering av eit nytt anlegg dersomdet private anlegget ligg så langt frå kommunalt vass- og avløpsanlegg at kommunen ikkje kan krevje at busetnaden som det private anlegget tener eller skal tene, skal knytast til det kommunale anlegget med heimel i [plan- og bygningslova §§ 27-1](lov/2008-06-27-71/§27-1) og [27-2](lov/2008-06-27-71/§27-2)kostnadene ved å knyte seg til det kommunale anlegget vil vere urimeleg storeeller andre særlege omsyn talar for samanslåing, utviding eller nyetablering.
+Kommunen kan etter søknad gi løyve til samanslåing eller vesentleg utviding av eit eksisterande privat vass- og avløpsanlegg eller til etablering av eit nytt anlegg dersom
+
+1. det private anlegget ligg så langt frå kommunalt vass- og avløpsanlegg at kommunen ikkje kan krevje at busetnaden som det private anlegget tener eller skal tene, skal knytast til det kommunale anlegget med heimel i [plan- og bygningslova §§ 27-1](lov/2008-06-27-71/§27-1) og [27-2](lov/2008-06-27-71/§27-2)
+2. kostnadene ved å knyte seg til det kommunale anlegget vil vere urimeleg store
+3. eller andre særlege omsyn talar for samanslåing, utviding eller nyetablering.
 
 Nye anlegg etter første ledd skal organiserast som partslag eigde av brukarane.
 
@@ -76,7 +80,15 @@ Kommunen har plikt til å ta imot sanitært avløpsvatn frå eigedomar som har t
 
 Eigarane av eigedomar som har tilknyting til eit kommunalt avløpsanlegg, skal vedlikehalde private avløpsleidningar og -installasjonar og bruke kommunen sine avløpstenester på ein måte som ikkje vanskeleggjer kommunen si plikt til å ta imot sanitært avløpsvatn etter første ledd. Plikta kan mellom anna gå ut på at abonnenten skal utbetre lekkasjar på sine private leidningar og installasjonar.
 
-Kommunen kan ved påslepp av avløpsvatn til kommunalt avløpsanlegg gi forskrift eller gjere enkeltvedtak om krav til tiltak som er nødvendige for å sikreat avløpsanlegget kan overhalde utsleppskravat avløpsanlegget ikkje blir skadaat det ikkje blir vanskeleg å drifte avløpsanleggetat det ikkje blir vanskeleg å disponere avløpsslammetvern av helsa til personale som arbeider ved anlegget.Kommunen kan mellom anna fastsetje krav til innhaldet i og mengda avløpsvatn.
+Kommunen kan ved påslepp av avløpsvatn til kommunalt avløpsanlegg gi forskrift eller gjere enkeltvedtak om krav til tiltak som er nødvendige for å sikre
+
+1. at avløpsanlegget kan overhalde utsleppskrav
+2. at avløpsanlegget ikkje blir skada
+3. at det ikkje blir vanskeleg å drifte avløpsanlegget
+4. at det ikkje blir vanskeleg å disponere avløpsslammet
+5. vern av helsa til personale som arbeider ved anlegget.
+
+Kommunen kan mellom anna fastsetje krav til innhaldet i og mengda avløpsvatn.
 
 ## § 9. Forbod mot å sleppe kverna matavfall på kommunalt avløpsanlegg
 
@@ -126,7 +138,11 @@ Vedtak om tvangsmulkt er tvangsgrunnlag for utlegg.
 
 ## § 17. Når krav skal rettast mot festaren av grunnen
 
-Dersom ikkje anna er avtala, skal krav som etter [§§ 4](lov/2025-06-06-26/§4), [7](lov/2025-06-06-26/§7), [8](lov/2025-06-06-26/§8), [11](lov/2025-06-06-26/§11), [12](lov/2025-06-06-26/§12), [14](lov/2025-06-06-26/§14), [15](lov/2025-06-06-26/§15) og [16](lov/2025-06-06-26/§16) blir retta mot eigaren av eigedomen, i staden rettast mot festaren av grunnen nårfestaren har arvefestedet er att minst 30 år av festetida når kravet kjem oppfesteavtala gir festaren rett til å krevje festetida forlengd så mykje at det blir att ei festetid på minst 30 år når kravet kjem opp
+Dersom ikkje anna er avtala, skal krav som etter [§§ 4](lov/2025-06-06-26/§4), [7](lov/2025-06-06-26/§7), [8](lov/2025-06-06-26/§8), [11](lov/2025-06-06-26/§11), [12](lov/2025-06-06-26/§12), [14](lov/2025-06-06-26/§14), [15](lov/2025-06-06-26/§15) og [16](lov/2025-06-06-26/§16) blir retta mot eigaren av eigedomen, i staden rettast mot festaren av grunnen når
+
+1. festaren har arvefeste
+2. det er att minst 30 år av festetida når kravet kjem opp
+3. festeavtala gir festaren rett til å krevje festetida forlengd så mykje at det blir att ei festetid på minst 30 år når kravet kjem opp
 
 ## § 18. Forskrifter om nærare reglar om kommunale vass- og avløpstenester
 

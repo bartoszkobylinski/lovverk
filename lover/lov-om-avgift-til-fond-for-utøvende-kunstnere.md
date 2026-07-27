@@ -15,7 +15,7 @@ xml_hash: "90233b9fd62d69df6c9dfa663234a08f018cdb04db1b961009986db1fa395e63"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,10 @@ Styret gir hvert år departementet melding om fondets virksomhet.
 
 ## § 3.
 
-Plikt til å betale avgift til fondet har enhver som offentlig framfører eller overfører til allmennheten utøvende kunstneres prestasjoner ved hjelp av:lydopptak eller film, herunder videogram;radio eller fjernsynsmottaker, datamaskiner eller lignende.
+Plikt til å betale avgift til fondet har enhver som offentlig framfører eller overfører til allmennheten utøvende kunstneres prestasjoner ved hjelp av:
+
+1. lydopptak eller film, herunder videogram;
+2. radio eller fjernsynsmottaker, datamaskiner eller lignende.
 
 Avgiftsplikten omfatter ikke offentlig framføring eller overføring til allmennheten av lydopptak som er vederlagspliktig etter [åndsverkloven § 21](lov/2018-06-15-40/§21) eller overføring til allmennheten av lydopptak eller film på en slik måte at den enkelte selv kan velge tid og sted for tilgang til opptaket. Avgiftsplikten omfatter heller ikke overføring gjennom videresending av kringkastingssending, eller overføring av film gjennom kringkastingssending eller på kino. Unntatt er også framføring eller overføring som nevnt i første ledds bokstav b, når framføringen eller overføringen ikke inngår som et ledd av betydning i den bedrift eller den virksomhet det gjelder. Avgift skal heller ikke betales hvor framføringen eller overføringen skjer under slike forhold at en opphaver etter reglene i [åndsverkloven tredje kapittel](lov/2018-06-15-40/kap3) ikke ville ha krav på godtgjørelse.
 

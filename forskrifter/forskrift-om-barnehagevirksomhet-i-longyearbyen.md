@@ -48,7 +48,17 @@ Longyearbyen lokalstyre skal tildele ledige plasser i samsvar med de fastsatte o
 
 ## § 5. Regler i barnehageloven som gjelder for Longyearbyen lokalstyres barnehagevirksomhet
 
-Disse reglene i [barnehageloven](lov/2005-06-17-64) gjelder for Longyearbyen lokalstyres barnehagevirksomhet[kapittel I](lov/2005-06-17-64/kapi) med unntak av [§ 1a](lov/2005-06-17-64/§1a)[kapittel II](lov/2005-06-17-64/kapii) med unntak av [§ 5](lov/2005-06-17-64/§5) andre punktum[§ 6](lov/2005-06-17-64/§6)–[§ 9](lov/2005-06-17-64/§9), [§ 10 første ledd](lov/2005-06-17-64/§10/ledd/1), tredje ledd andre punktum, fjerde og femte ledd, [§ 12](lov/2005-06-17-64/§12) avgrenset til vedtak etter lov- og forskriftsbestemmelser som gjelder for Longyearbyen lokalstyres barnehagevirksomhet, [§ 13](lov/2005-06-17-64/§13)[§ 14](lov/2005-06-17-64/§14) og [§ 20](lov/2005-06-17-64/§20)[kapittel VI](lov/2005-06-17-64/kapvi).[§ 33](lov/2005-06-17-64/§33) andre ledd[kapittel VIII](lov/2005-06-17-64/kapviii)[kapittel IX](lov/2005-06-17-64/kapix) med unntak av [§ 45](lov/2005-06-17-64/§45), [§ 48](lov/2005-06-17-64/§48) andre punktum og [§ 51](lov/2005-06-17-64/§51)[kapittel X](lov/2005-06-17-64/kapx) med unntak av [§ 56](lov/2005-06-17-64/§56).
+Disse reglene i [barnehageloven](lov/2005-06-17-64) gjelder for Longyearbyen lokalstyres barnehagevirksomhet
+
+1. [kapittel I](lov/2005-06-17-64/kapi) med unntak av [§ 1a](lov/2005-06-17-64/§1a)
+2. [kapittel II](lov/2005-06-17-64/kapii) med unntak av [§ 5](lov/2005-06-17-64/§5) andre punktum
+3. [§ 6](lov/2005-06-17-64/§6)–[§ 9](lov/2005-06-17-64/§9), [§ 10 første ledd](lov/2005-06-17-64/§10/ledd/1), tredje ledd andre punktum, fjerde og femte ledd, [§ 12](lov/2005-06-17-64/§12) avgrenset til vedtak etter lov- og forskriftsbestemmelser som gjelder for Longyearbyen lokalstyres barnehagevirksomhet, [§ 13](lov/2005-06-17-64/§13)
+4. [§ 14](lov/2005-06-17-64/§14) og [§ 20](lov/2005-06-17-64/§20)
+5. [kapittel VI](lov/2005-06-17-64/kapvi).
+6. [§ 33](lov/2005-06-17-64/§33) andre ledd
+7. [kapittel VIII](lov/2005-06-17-64/kapviii)
+8. [kapittel IX](lov/2005-06-17-64/kapix) med unntak av [§ 45](lov/2005-06-17-64/§45), [§ 48](lov/2005-06-17-64/§48) andre punktum og [§ 51](lov/2005-06-17-64/§51)
+9. [kapittel X](lov/2005-06-17-64/kapx) med unntak av [§ 56](lov/2005-06-17-64/§56).
 
 Oppgaver som etter [barnehageloven](lov/2005-06-17-64) eller forskrifter til denne er lagt til barnehagens eier, kommunen eller barnehagemyndigheten, skal ligge til Longyearbyen lokalstyre. Oppgaver som etter [barnehageloven](lov/2005-06-17-64) eller forskrifter til denne er lagt til statsforvalteren, skal ligge til Statsforvalteren i Troms og Finnmark.
 
@@ -60,7 +70,15 @@ Når statsforvalteren behandler klage over enkeltvedtak, skal saken forelegges S
 
 ## § 6. Forskrifter etter barnehageloven som gjelder for Longyearbyen lokalstyres barnehagevirksomhet
 
-Disse forskriftene med hjemmel i [barnehageloven](lov/2005-06-17-64) gjelder for Longyearbyen lokalstyres barnehagevirksomhet[forskrift 16. desember 2005 nr. 1478 om foreldrebetaling i barnehager](forskrift/2005-12-16-1478), med unntak av [§ 3](forskrift/2005-12-16-1478/§3) til og med [§ 3f](forskrift/2005-12-16-1478/§3f)[forskrift 16. desember 2005 nr. 1510 om føring av register til bruk i forbindelse med kontroll av beregning og utbetaling av kontantstøtte](forskrift/2005-12-16-1510)[forskrift 12. september 2008 nr. 1071 om godkjenning av yrkeskvalifikasjoner for styrer og pedagogisk leder i barnehage fra annen stat](forskrift/2008-09-12-1071)[forskrift 11. november 2015 nr. 1285 om politiattest i barnehager](forskrift/2015-11-11-1285)[forskrift 24. april 2017 nr. 487 om rammeplan for barnehagens innhold og oppgaver](forskrift/2017-04-24-487)[forskrift 22. juni 2017 nr. 1049 om pedagogisk bemanning og dispensasjon i barnehager](forskrift/2017-06-22-1049)[forskrift 28. september 2018 nr. 1479 om behandling av personopplysninger i barnehagesektoren](forskrift/2018-09-28-1479).
+Disse forskriftene med hjemmel i [barnehageloven](lov/2005-06-17-64) gjelder for Longyearbyen lokalstyres barnehagevirksomhet
+
+1. [forskrift 16. desember 2005 nr. 1478 om foreldrebetaling i barnehager](forskrift/2005-12-16-1478), med unntak av [§ 3](forskrift/2005-12-16-1478/§3) til og med [§ 3f](forskrift/2005-12-16-1478/§3f)
+2. [forskrift 16. desember 2005 nr. 1510 om føring av register til bruk i forbindelse med kontroll av beregning og utbetaling av kontantstøtte](forskrift/2005-12-16-1510)
+3. [forskrift 12. september 2008 nr. 1071 om godkjenning av yrkeskvalifikasjoner for styrer og pedagogisk leder i barnehage fra annen stat](forskrift/2008-09-12-1071)
+4. [forskrift 11. november 2015 nr. 1285 om politiattest i barnehager](forskrift/2015-11-11-1285)
+5. [forskrift 24. april 2017 nr. 487 om rammeplan for barnehagens innhold og oppgaver](forskrift/2017-04-24-487)
+6. [forskrift 22. juni 2017 nr. 1049 om pedagogisk bemanning og dispensasjon i barnehager](forskrift/2017-06-22-1049)
+7. [forskrift 28. september 2018 nr. 1479 om behandling av personopplysninger i barnehagesektoren](forskrift/2018-09-28-1479).
 
 Stedlige forhold kan gjøre at reglene i forskriftene i første ledd ikke passer på Svalbard og derfor ikke skal gjelde. Kunnskapsdepartementet avgjør i tvilstilfeller hvilke forskriftsbestemmelser som ikke passer.
 

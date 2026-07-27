@@ -15,7 +15,7 @@ xml_hash: "912c4b05b4636a18fed8729776699da40cec75337355d6a2dee33cf4db15e8be"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,11 @@ Høgskulen på Vestlandet gjer lokalt opptak av studentar til eittårig fagskole
 
 (3) For å få skrive ut vitnemål må minst 30 av fagskolepoenga som skal inngå i berekningsgrunnlaget, vere avlagt ved Høgskulen på Vestlandet, jf. § 1-2 i forskrift om fagskoleutdanning.
 
-(4) Søknad om innpassing eller fritak leverast til Dykkarutdanninga ved daglig leiar. Søknaden må innehalde dokumentasjon av omfang og innhald i emnet/kompetansen som studenten ønskjer å søkje innpassing eller fritak for; nærare bestemt:Vitnemål/karakterutskrift/realkompetansevurderingOversikt over kva delemne som inngår i emnetOversikt over læringsutbytteomtalen av emnet eller studieplan.
+(4) Søknad om innpassing eller fritak leverast til Dykkarutdanninga ved daglig leiar. Søknaden må innehalde dokumentasjon av omfang og innhald i emnet/kompetansen som studenten ønskjer å søkje innpassing eller fritak for; nærare bestemt:
+
+1. Vitnemål/karakterutskrift/realkompetansevurdering
+2. Oversikt over kva delemne som inngår i emnet
+3. Oversikt over læringsutbytteomtalen av emnet eller studieplan.
 
 (5) Om ein student får godkjent søknad om fritak av eit emne, skal dette kome fram på vitnemålet med referanse til bestått emne ved same eller ein annan institusjon. Vitnemålet er berre gyldig saman med dokumentasjonen som det vert referert til. Ved innpassing av eitt eller fleire emne er det siste utdanningsinstitusjon som skriv ut vitnemål jf. [§ 2-2](forskrift/2017-06-15-1044/§2-2) tredje ledd.
 
@@ -181,7 +185,13 @@ Fastsett med heimel i [lov 20. juni 2003 nr. 56](lov/2003-06-20-56) om fagskoleu
 
 ### § 5-1. Fusk og forsøk på fusk
 
-(1) Som fusk eller forsøk på fusk ved eksamen eller ved vilkår for å gå opp til eksamen reknar ein mellom anna:Å ha ulovlege hjelpemiddel tilgjengelege under eksamenÅ presentere andre sitt arbeid som sitt eige (plagiat)Å ha skaffa seg tilgjenge til eksamen ved å ha fuska ved prøve og liknande som er vilkår for å gå opp til eksamen, eller ved på urett grunnlag fått godkjenning for deltaking ved obligatorisk undervisning eller andre obligatoriske aktivitetarUreglementert samarbeid mellom eksamenskandidatar eller grupperAndre avvik frå eventuelle særskilde eksamensreglar.
+(1) Som fusk eller forsøk på fusk ved eksamen eller ved vilkår for å gå opp til eksamen reknar ein mellom anna:
+
+1. Å ha ulovlege hjelpemiddel tilgjengelege under eksamen
+2. Å presentere andre sitt arbeid som sitt eige (plagiat)
+3. Å ha skaffa seg tilgjenge til eksamen ved å ha fuska ved prøve og liknande som er vilkår for å gå opp til eksamen, eller ved på urett grunnlag fått godkjenning for deltaking ved obligatorisk undervisning eller andre obligatoriske aktivitetar
+4. Ureglementert samarbeid mellom eksamenskandidatar eller grupper
+5. Andre avvik frå eventuelle særskilde eksamensreglar.
 
 (2) Om det under eksamenar eller prøver med tilsyn oppstår situasjonar som gjer at ein student kan mistenkast for fusk, skal studenten straks gjerast merksam på at forholda vil bli rapportert for vidare handsaming.
 
@@ -205,7 +215,13 @@ Fastsett med heimel i [lov 20. juni 2003 nr. 56](lov/2003-06-20-56) om fagskoleu
 
 (2) Ved klage på bortvising, utestenging eller annullering av eksamen er det Nasjonal klagenemnd for fagskoleutdanning som er klageinstans. Ved alle andre klager er det klagenemnda som er ansvarleg for klagehandsaming.
 
-(3) Klager som vert handsama av klagenemnda, er som følgjer:formelle feil ved eksamen (t.d. feil ved oppgåveteksten, eksamensavvikling eller ved gjennomføring av sensur)eksamen under særskilde vilkårfritak eller innpassing av emnetap av rettaropptak.
+(3) Klager som vert handsama av klagenemnda, er som følgjer:
+
+1. formelle feil ved eksamen (t.d. feil ved oppgåveteksten, eksamensavvikling eller ved gjennomføring av sensur)
+2. eksamen under særskilde vilkår
+3. fritak eller innpassing av emne
+4. tap av rettar
+5. opptak.
 
 ### § 6-2. Framgangsmåte og fristar
 
@@ -217,7 +233,12 @@ Fastsett med heimel i [lov 20. juni 2003 nr. 56](lov/2003-06-20-56) om fagskoleu
 
 (4) Finn klagenemnda at det er gjort formelle feil, og det er rimeleg å tru at dette kan ha vore viktig for prestasjon eller vurdering for ein eller fleire studentar, skal det gjennomførast ny sensur, eller haldast ny eksamen så snart som mogleg.
 
-(5) Den skriftlege klaga skal innehalde:kven som klagar (namn, adresse og studentnummer)vedtak det vert klaga overkva klaga gjeld og grunngjeving for dennedato og underskrift/er.
+(5) Den skriftlege klaga skal innehalde:
+
+1. kven som klagar (namn, adresse og studentnummer)
+2. vedtak det vert klaga over
+3. kva klaga gjeld og grunngjeving for denne
+4. dato og underskrift/er.
 
 ## Kapittel 7. Avsluttande føresegner
 

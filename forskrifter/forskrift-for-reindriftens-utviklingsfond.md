@@ -68,9 +68,25 @@ Regnskapet føres etter kontantprinsippet og Riksrevisjonen er revisor.
 
 ### § 1-6. Virkeområde
 
-Tilskudd fra Reindriftens Utviklingsfond kan innvilges etter ordningene fortilskudd til reindriftsanlegg, herunder gjerder og slakteanlegg, jf. [kapittel 3](forskrift/2019-06-20-864/kap3),refusjon av dokumenterte utgifter til deltakelse på kurs/etterutdanning og lignende for reindriftsutøvere, jf. [kapittel 4](forskrift/2019-06-20-864/kap4),tilskudd til feltbarnehage, jf. [kapittel 5](forskrift/2019-06-20-864/kap5), ogjuridisk bistand til reinbeitedistrikter eller siidaer, jf. [kapittel 7](forskrift/2019-06-20-864/kap7).
+Tilskudd fra Reindriftens Utviklingsfond kan innvilges etter ordningene for
 
-Økonomisk støtte kan for øvrig innvilges til andre tiltak i samsvar med forskriftens formål, jf. § 1-1, herundersikring av reindriftens beiterett, herunder støtte til distriktenes arbeid med sikring av reindriftens arealer,praktiske tiltak innenfor reindriften,faglige tiltak til fremme for reindriften, herunder veiledning, kursvirksomhet, etterutdanning, beitegransking, planlegging og avlstiltak,utvikling av binæringer og formål av generell kulturell betydning for reindriftssamene,tiltak for å fremme likestilling og kvinners situasjon i reindriften,tiltak knyttet til klimatilpasning, beredskap og forebygging,forskning og kunnskapsformidling,tilrettelegging for at reineiere med nedsatt funksjonsevne kan delta i reindriftsarbeid,tilskudd til fjerning av gammelt gjerdemateriell,stipend på 15 000 kroner til personer med rein i eget merke som skriver reindriftsrelatert masteroppgave.
+1. tilskudd til reindriftsanlegg, herunder gjerder og slakteanlegg, jf. [kapittel 3](forskrift/2019-06-20-864/kap3),
+2. refusjon av dokumenterte utgifter til deltakelse på kurs/etterutdanning og lignende for reindriftsutøvere, jf. [kapittel 4](forskrift/2019-06-20-864/kap4),
+3. tilskudd til feltbarnehage, jf. [kapittel 5](forskrift/2019-06-20-864/kap5), og
+4. juridisk bistand til reinbeitedistrikter eller siidaer, jf. [kapittel 7](forskrift/2019-06-20-864/kap7).
+
+Økonomisk støtte kan for øvrig innvilges til andre tiltak i samsvar med forskriftens formål, jf. § 1-1, herunder
+
+1. sikring av reindriftens beiterett, herunder støtte til distriktenes arbeid med sikring av reindriftens arealer,
+2. praktiske tiltak innenfor reindriften,
+3. faglige tiltak til fremme for reindriften, herunder veiledning, kursvirksomhet, etterutdanning, beitegransking, planlegging og avlstiltak,
+4. utvikling av binæringer og formål av generell kulturell betydning for reindriftssamene,
+5. tiltak for å fremme likestilling og kvinners situasjon i reindriften,
+6. tiltak knyttet til klimatilpasning, beredskap og forebygging,
+7. forskning og kunnskapsformidling,
+8. tilrettelegging for at reineiere med nedsatt funksjonsevne kan delta i reindriftsarbeid,
+9. tilskudd til fjerning av gammelt gjerdemateriell,
+10. stipend på 15 000 kroner til personer med rein i eget merke som skriver reindriftsrelatert masteroppgave.
 
 > Endret ved forskrifter [22 juni 2021 nr. 2306](forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [21 juni 2023 nr. 1010](forskrift/2023-06-21-1010) (i kraft 1 juli 2023), [20 juni 2024 nr. 1060](forskrift/2024-06-20-1060) (i kraft 1 juli 2024), [24 juni 2025 nr. 1259](forskrift/2025-06-24-1259) (i kraft 1 juli 2025), [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
@@ -184,7 +200,11 @@ Tilskudd ytes kun til reindriftsanlegg som er beskrevet i godkjente bruksregler 
 
 Siidaandeler som søker om tilskudd til reindriftsanlegg må oppfylle vilkårene i [forskrift om tilskudd til siidaandeler og reinlag § 3](forskrift/2019-06-20-865/§3) og [§ 4](forskrift/2019-06-20-865/§4). Reinbeitedistrikt, reinlag og reinbeitedistrikt som siida tilhører må oppfylle vilkårene i [forskrift om tilskudd til reinbeitedistrikter og reinlag § 2-1](forskrift/2022-12-21-2468/§2-1).
 
-Tilskudd kan ytes til følgende tiltak:oppføring av nye reindriftsanlegg,utvidelse, endring eller oppgradering av eksisterende reindriftsanlegg, herunder endring av eksisterende reindriftsanlegg som er nødvendige for bruk og avlesning av elektroniske individmerker, ogrivning av reindriftsanlegg hvor eier- eller ansvarsforholdet er ukjent.
+Tilskudd kan ytes til følgende tiltak:
+
+1. oppføring av nye reindriftsanlegg,
+2. utvidelse, endring eller oppgradering av eksisterende reindriftsanlegg, herunder endring av eksisterende reindriftsanlegg som er nødvendige for bruk og avlesning av elektroniske individmerker, og
+3. rivning av reindriftsanlegg hvor eier- eller ansvarsforholdet er ukjent.
 
 Tilskudd skal ikke innvilges til reindriftsanlegg som er påbegynt før søknad om tilskudd er sendt til Landbruksdirektoratet.
 
@@ -350,7 +370,10 @@ Formålet med tilskuddet er å bidra til at reinbeitedistrikter eller siidaer f�
 
 Reinbeitedistrikter eller siidaer kan innvilges tilskudd til juridisk bistand i forbindelse med ivaretakelse av reindriftens beiterett i Norge. I slike saker innvilges det ikke tilskudd i tvister mellom norsk og svensk reindrift.
 
-Reinbeitedistrikter eller siidaer, som var omfattet av den opphevede reinbeitekonvensjonen av 9. februar 1972 nr. 1, kan innvilges tilskudd til juridisk bistand til domstolsbehandling i Sverige og Norge dersom svensk reindrift trekker reinbeitedistriktet eller siidaen inn i rettssaker om avklaring av rettigheter til reinbeitedistriktets eller siidaens:tradisjonelle beiteområder i Sverige, ellerbeiteområder i Norge.
+Reinbeitedistrikter eller siidaer, som var omfattet av den opphevede reinbeitekonvensjonen av 9. februar 1972 nr. 1, kan innvilges tilskudd til juridisk bistand til domstolsbehandling i Sverige og Norge dersom svensk reindrift trekker reinbeitedistriktet eller siidaen inn i rettssaker om avklaring av rettigheter til reinbeitedistriktets eller siidaens:
+
+1. tradisjonelle beiteområder i Sverige, eller
+2. beiteområder i Norge.
 
 Det innvilges ikke tilskudd i tvister internt i norsk reindrift eller i tvister mellom norsk reindrift og norske eller svenske reindriftsmyndigheter.
 
@@ -360,7 +383,11 @@ Reinbeitedistrikt eller reinbeitedistrikt som siida tilhører må oppfylle vilk�
 
 ### § 7-3. Tilskuddsberettigede kostnader
 
-Tilskudd kan innvilges til dekning av følgende nødvendige kostnader:juridisk bistand for inntil 100 timer i forbindelse med rettssak i første rettsinstans, og inntil 50 timer for hver ankeinstans. Tilskuddet beregnes ut fra antall dokumenterte timer. Det gis dekning etter den til enhver tid gjeldende offentlige salærsats i landet hvor rettssaken gjennomføres,reise og opphold, der slike utgifter har vært vesentlige og nødvendige i forbindelse med domstolsbehandling. Utgifter til reise dekkes etter statens satser. Utgifter til opphold dekkes etter regning, ogjuridisk bistand for inntil 50 timer i saker uten domstolsbehandling.
+Tilskudd kan innvilges til dekning av følgende nødvendige kostnader:
+
+1. juridisk bistand for inntil 100 timer i forbindelse med rettssak i første rettsinstans, og inntil 50 timer for hver ankeinstans. Tilskuddet beregnes ut fra antall dokumenterte timer. Det gis dekning etter den til enhver tid gjeldende offentlige salærsats i landet hvor rettssaken gjennomføres,
+2. reise og opphold, der slike utgifter har vært vesentlige og nødvendige i forbindelse med domstolsbehandling. Utgifter til reise dekkes etter statens satser. Utgifter til opphold dekkes etter regning, og
+3. juridisk bistand for inntil 50 timer i saker uten domstolsbehandling.
 
 > Tilføyd ved forskrift [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) (i kraft 1 juli 2022), endret ved forskrift [24 juni 2025 nr. 1259](forskrift/2025-06-24-1259) (i kraft 1 juli 2025).
 

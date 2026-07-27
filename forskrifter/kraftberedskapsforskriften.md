@@ -15,7 +15,7 @@ xml_hash: "d3d26ea0368bad7e036b881fde27de157623c23c2d69a730a9b806573dd27c06"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,10 @@ Virksomheter som er omfattet av denne forskrift, skal ha en beredskapsplan for �
 
 Med *KBO* menes kraftforsyningens beredskapsorganisasjon. KBO består av KBO-enhetene, KDS og beredskapsmyndigheten, samt KSL når denne trer i kraft, jf. [§ 3-3](forskrift/2012-12-07-1157/§3-3).
 
-Med *KBO-enhet* menes:De virksomheter som eier eller driver anlegg, system eller annet og som i medhold av [§ 5-2](forskrift/2012-12-07-1157/§5-2) eller [§ 5-7](forskrift/2012-12-07-1157/§5-7) er klassifisert etter denne forskrift.Andre virksomheter beredskapsmyndigheten har vedtatt er KBO-enhet i medhold av [§ 3-1](forskrift/2012-12-07-1157/§3-1) annet ledd.
+Med *KBO-enhet* menes:
+
+1. De virksomheter som eier eller driver anlegg, system eller annet og som i medhold av [§ 5-2](forskrift/2012-12-07-1157/§5-2) eller [§ 5-7](forskrift/2012-12-07-1157/§5-7) er klassifisert etter denne forskrift.
+2. Andre virksomheter beredskapsmyndigheten har vedtatt er KBO-enhet i medhold av [§ 3-1](forskrift/2012-12-07-1157/§3-1) annet ledd.
 
 Med *KDS* menes kraftforsyningens distriktssjefer.
 
@@ -80,7 +83,11 @@ Med *KSL* menes kraftforsyningens sentrale ledelse. Kraftforsyningens sentrale l
 
 ### § 2-2. Organisasjon og funksjon
 
-KBO-enheter skal ha følgende funksjoner, som utpekes av leder for virksomheten:*Beredskapsleder*. Denne skal sørge for nødvendig planlegging og utøvelse av beredskapsarbeidet.*Beredskapskoordinator*. Denne skal ha oversikt over beredskapsarbeidet i virksomheten og være administrativt kontaktpunkt til beredskapsmyndigheten.*IKT-sikkerhetskoordinator*. Denne skal ha oversikt over IKT-sikkerhetsarbeidet i virksomheten og være faglig kontaktpunkt til beredskapsmyndigheten vedrørende IKT-sikkerhet.
+KBO-enheter skal ha følgende funksjoner, som utpekes av leder for virksomheten:
+
+1. *Beredskapsleder*. Denne skal sørge for nødvendig planlegging og utøvelse av beredskapsarbeidet.
+2. *Beredskapskoordinator*. Denne skal ha oversikt over beredskapsarbeidet i virksomheten og være administrativt kontaktpunkt til beredskapsmyndigheten.
+3. *IKT-sikkerhetskoordinator*. Denne skal ha oversikt over IKT-sikkerhetsarbeidet i virksomheten og være faglig kontaktpunkt til beredskapsmyndigheten vedrørende IKT-sikkerhet.
 
 > Endret ved [forskrift 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019).
 
@@ -106,7 +113,16 @@ KBO-enheter skal uten ugrunnet opphold varsle beredskapsmyndigheten om ekstraord
 
 ### § 2-6. Rapportering
 
-KBO-enheter skal uten ugrunnet opphold og senest innen tre uker skriftlig innrapportere følgende uønskede hendelser til beredskapsmyndigheten:Forsøk på inntrengning og/eller manipulasjon av hele eller deler av driftskontrollsystemet og avanserte måle- og styringssystem (AMS).Innbrudd, hærverk, sabotasje eller andre kriminelle handlinger, eller forsøk på dette.Ved begrunnet mistanke om at sikkerhetstruende virksomhet har rammet eller vil kunne ramme virksomheten eller andre virksomheter.Situasjoner hvor kraftsensitiv informasjon er blitt kjent for andre enn rettmessige brukere, eller mistanke om dette.Avbrudd i distribusjon av elektrisitet i mer enn to timer som berører viktige samfunnsfunksjoner eller et stort antall sluttbrukere.Avbrudd i fjernvarmeforsyningen i mer enn 12 timer som berører viktige samfunnsfunksjoner eller et stort antall sluttbrukere.Større havarier i transmisjon- og regionalnettet.Omfattende feil og sikkerhetstruende hendelser i driftskontrollsystemer.
+KBO-enheter skal uten ugrunnet opphold og senest innen tre uker skriftlig innrapportere følgende uønskede hendelser til beredskapsmyndigheten:
+
+1. Forsøk på inntrengning og/eller manipulasjon av hele eller deler av driftskontrollsystemet og avanserte måle- og styringssystem (AMS).
+2. Innbrudd, hærverk, sabotasje eller andre kriminelle handlinger, eller forsøk på dette.
+3. Ved begrunnet mistanke om at sikkerhetstruende virksomhet har rammet eller vil kunne ramme virksomheten eller andre virksomheter.
+4. Situasjoner hvor kraftsensitiv informasjon er blitt kjent for andre enn rettmessige brukere, eller mistanke om dette.
+5. Avbrudd i distribusjon av elektrisitet i mer enn to timer som berører viktige samfunnsfunksjoner eller et stort antall sluttbrukere.
+6. Avbrudd i fjernvarmeforsyningen i mer enn 12 timer som berører viktige samfunnsfunksjoner eller et stort antall sluttbrukere.
+7. Større havarier i transmisjon- og regionalnettet.
+8. Omfattende feil og sikkerhetstruende hendelser i driftskontrollsystemer.
 
 Beredskapsmyndigheten kan kreve rapportering av andre tilfeller av uønskede hendelser enn de som er nevnt i første ledd.
 
@@ -282,7 +298,12 @@ Det er den enkelte virksomhets ansvar å planlegge, gjennomføre og vedlikeholde
 
 Alle anlegg m.m. som nevnt i første ledd skal holdes i funksjonsdyktig stand og skal så langt som mulig virke etter sin hensikt under ekstraordinære forhold.
 
-Det skal særlig tas hensyn til ekstraordinære forhold som:uvær og annen naturgitt skadebrann og eksplosjoneralvorlig teknisk sviktinnbrudd, hærverk, sabotasje og andre kriminelle handlinger.
+Det skal særlig tas hensyn til ekstraordinære forhold som:
+
+- uvær og annen naturgitt skade
+- brann og eksplosjoner
+- alvorlig teknisk svikt
+- innbrudd, hærverk, sabotasje og andre kriminelle handlinger.
 
 > Endret ved [forskrift 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019).
 
@@ -300,11 +321,35 @@ Denne bestemmelse omfatter ikke midlertidige anlegg eller midlertidige løsninge
 
 I ytelseskriteriene i denne bestemmelse medregnes ikke mobile komponenter som reserveaggregat eller beredskapstransformatorer, midlertidige plasserte transformatorer, generatortransformatorer, eller transformatorer for regulering og spesielle formål (fasekompensering, spoler og lignende). For transformatorer med flere funksjoner (viklinger) regnes høyeste ytelse av transformering mellom nettnivåer.
 
-Klasse 1 omfatter:Kraftstasjon med samlet installert generatorytelse på minst 50 MVA.Transformatorstasjon med samlet hovedtransformatorytelse på minst 10 MVA.Omformerstasjon med samlet installert ytelse for omforming på minst 10 MVA.Selvstendig koblingsstasjon i kraftsystemet bygget for et spenningsnivå på minst 30 kV.Kraftledning bygget for et spenningsnivå på minst 5 kV.Fjernvarmesentral med samlet installert ytelse på minst 50 MW. I ytelsen skal medregnes effekt i ekstern varmeleveranse.Transformatorstasjon til vindkraftanlegg med samlet installert ytelse på minst 75 MVA. Dersom transformatorstasjonen også transformerer til nettformål, klassifiseres den som transformatorstasjon etter bokstav b.Driftskontrollsystem som styrer eller overvåker anlegg som omfattet av bokstav a til g.
+Klasse 1 omfatter:
 
-Klasse 2 omfatter:Kraftstasjon med samlet installert generatorytelse på minst 100 MVA og kraftstasjoner på minst 100 MVA plassert i dagen.Transformatorstasjon med samlet hovedtransformatorytelse på minst 50 MVA og høyeste spenningsnivå på minst 30 kV.Omformerstasjon med samlet installert ytelse for omforming på minst 50 MVA og høyeste spenningsnivå på minst 30 kV.Selvstendig koblingsstasjon i kraftsystemet bygget for et spenningsnivå på minst 100 kV.Kraftledning bygget for et spenningsnivå på minst 30 kV.Fjernvarmesentral med samlet installert ytelse på minst 150 MW. I ytelsen skal medregnes effekt i ekstern varmeleveranse.Transformatorstasjon til vindkraftanlegg med samlet installert ytelse på minst 500 MVA. Dersom transformatorstasjonen også transformerer til nettformål, klassifiseres den som transformatorstasjon etter bokstav b, men ikke lavere enn klasse 2.Driftskontrollsystem som styrer eller overvåker kraftforsyningen til befolkning på minst 50 000, eller flere anlegg omfattet av bokstav a til g.
+1. Kraftstasjon med samlet installert generatorytelse på minst 50 MVA.
+2. Transformatorstasjon med samlet hovedtransformatorytelse på minst 10 MVA.
+3. Omformerstasjon med samlet installert ytelse for omforming på minst 10 MVA.
+4. Selvstendig koblingsstasjon i kraftsystemet bygget for et spenningsnivå på minst 30 kV.
+5. Kraftledning bygget for et spenningsnivå på minst 5 kV.
+6. Fjernvarmesentral med samlet installert ytelse på minst 50 MW. I ytelsen skal medregnes effekt i ekstern varmeleveranse.
+7. Transformatorstasjon til vindkraftanlegg med samlet installert ytelse på minst 75 MVA. Dersom transformatorstasjonen også transformerer til nettformål, klassifiseres den som transformatorstasjon etter bokstav b.
+8. Driftskontrollsystem som styrer eller overvåker anlegg som omfattet av bokstav a til g.
 
-Klasse 3 omfatter:Kraftstasjon i fjell med samlet installert generatorytelse på minst 250 MVA.Transformatorstasjon med samlet hovedtransformatorytelse på mer enn 100 MVA og bygget for et høyeste spenningsnivå på minst 200 kV og transformering til sekundært spenningsnivå i nett på minst 30 kV.Selvstendig koblingsstasjon i kraftsystemet bygget for et spenningsnivå på minst 200 kV.Kraftledning bygget for et spenningsnivå på minst 200 kV.Driftskontrollsystem som styrer eller overvåker kraftforsyningen til befolkning på minst 250 000, eller flere anlegg omfattet av bokstav a til d.
+Klasse 2 omfatter:
+
+1. Kraftstasjon med samlet installert generatorytelse på minst 100 MVA og kraftstasjoner på minst 100 MVA plassert i dagen.
+2. Transformatorstasjon med samlet hovedtransformatorytelse på minst 50 MVA og høyeste spenningsnivå på minst 30 kV.
+3. Omformerstasjon med samlet installert ytelse for omforming på minst 50 MVA og høyeste spenningsnivå på minst 30 kV.
+4. Selvstendig koblingsstasjon i kraftsystemet bygget for et spenningsnivå på minst 100 kV.
+5. Kraftledning bygget for et spenningsnivå på minst 30 kV.
+6. Fjernvarmesentral med samlet installert ytelse på minst 150 MW. I ytelsen skal medregnes effekt i ekstern varmeleveranse.
+7. Transformatorstasjon til vindkraftanlegg med samlet installert ytelse på minst 500 MVA. Dersom transformatorstasjonen også transformerer til nettformål, klassifiseres den som transformatorstasjon etter bokstav b, men ikke lavere enn klasse 2.
+8. Driftskontrollsystem som styrer eller overvåker kraftforsyningen til befolkning på minst 50 000, eller flere anlegg omfattet av bokstav a til g.
+
+Klasse 3 omfatter:
+
+1. Kraftstasjon i fjell med samlet installert generatorytelse på minst 250 MVA.
+2. Transformatorstasjon med samlet hovedtransformatorytelse på mer enn 100 MVA og bygget for et høyeste spenningsnivå på minst 200 kV og transformering til sekundært spenningsnivå i nett på minst 30 kV.
+3. Selvstendig koblingsstasjon i kraftsystemet bygget for et spenningsnivå på minst 200 kV.
+4. Kraftledning bygget for et spenningsnivå på minst 200 kV.
+5. Driftskontrollsystem som styrer eller overvåker kraftforsyningen til befolkning på minst 250 000, eller flere anlegg omfattet av bokstav a til d.
 
 > Endret ved [forskrift 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019).
 
@@ -314,19 +359,29 @@ Alle klassifiserte anlegg skal prosjekteres, plasseres, utføres, utrustes, sikr
 
 ### § 5-4. Sikringstiltak for klasse 1
 
-Anlegg klassifisert i klasse 1 skal, i tillegg til kravene til sikring etter [§ 5-1](forskrift/2012-12-07-1157/§5-1) og [§ 5-3](forskrift/2012-12-07-1157/§5-3), oppfylle følgende generelle krav til sikring:Anlegget skal utføres etter krav til normalt sikringsnivå, som nærmere angitt i vedlegg 1.Skader og funksjonstap skal oppdages innen rimelig tid.Skader skal utbedres og anleggets funksjoner skal gjenopprettes uten ugrunnet opphold.
+Anlegg klassifisert i klasse 1 skal, i tillegg til kravene til sikring etter [§ 5-1](forskrift/2012-12-07-1157/§5-1) og [§ 5-3](forskrift/2012-12-07-1157/§5-3), oppfylle følgende generelle krav til sikring:
+
+1. Anlegget skal utføres etter krav til normalt sikringsnivå, som nærmere angitt i vedlegg 1.
+2. Skader og funksjonstap skal oppdages innen rimelig tid.
+3. Skader skal utbedres og anleggets funksjoner skal gjenopprettes uten ugrunnet opphold.
 
 Anlegg klassifisert i klasse 1 skal også oppfylle særlige krav til sikring for sin klasse og anleggstype som fastsatt i vedlegg 1, jf. vedlegg 4.
 
 ### § 5-5. Sikringstiltak for klasse 2
 
-Anlegg klassifisert i klasse 2 skal, i tillegg til kravene til sikring etter [§ 5-1](forskrift/2012-12-07-1157/§5-1) og [§ 5-3](forskrift/2012-12-07-1157/§5-3), oppfylle følgende generelle krav til sikring:Anlegget skal utføres og utstyres etter middels høye krav til sikring, som nærmere angitt i vedlegg 2.Tap av vitale funksjoner skal begrenses og etter eventuell skade skal anleggets funksjonalitet gjenopprettes uten ugrunnet opphold.
+Anlegg klassifisert i klasse 2 skal, i tillegg til kravene til sikring etter [§ 5-1](forskrift/2012-12-07-1157/§5-1) og [§ 5-3](forskrift/2012-12-07-1157/§5-3), oppfylle følgende generelle krav til sikring:
+
+1. Anlegget skal utføres og utstyres etter middels høye krav til sikring, som nærmere angitt i vedlegg 2.
+2. Tap av vitale funksjoner skal begrenses og etter eventuell skade skal anleggets funksjonalitet gjenopprettes uten ugrunnet opphold.
 
 Anlegg klassifisert i klasse 2 skal også oppfylle særlige krav til sikring for sin klasse og anleggstype som fastsatt i vedlegg 2, jf. vedlegg 4.
 
 ### § 5-6. Sikringstiltak for klasse 3
 
-Anlegg klassifisert i klasse 3 skal, i tillegg til kravene til sikring etter [§ 5-1](forskrift/2012-12-07-1157/§5-1) og [§ 5-3](forskrift/2012-12-07-1157/§5-3), oppfylle følgende generelle krav til sikring:Anlegget skal utføres og utstyres etter høye krav til sikring, som nærmere angitt i vedlegg 3.Vitale funksjoner skal opprettholdes i ekstraordinære situasjoner og anleggets funksjonalitet skal gjenopprettes uten ugrunnet opphold.
+Anlegg klassifisert i klasse 3 skal, i tillegg til kravene til sikring etter [§ 5-1](forskrift/2012-12-07-1157/§5-1) og [§ 5-3](forskrift/2012-12-07-1157/§5-3), oppfylle følgende generelle krav til sikring:
+
+1. Anlegget skal utføres og utstyres etter høye krav til sikring, som nærmere angitt i vedlegg 3.
+2. Vitale funksjoner skal opprettholdes i ekstraordinære situasjoner og anleggets funksjonalitet skal gjenopprettes uten ugrunnet opphold.
 
 Anlegg klassifisert i klasse 3 skal også oppfylle særlige krav til sikring for sin klasse og anleggstype som fastsatt i vedlegg 3, jf. vedlegg 4.
 
@@ -358,7 +413,11 @@ Melding skal gis på den måten beredskapsmyndigheten bestemmer. Meldingen skal 
 
 Virksomheter som eier eller driver kraftforsyningsanlegg hvor politi eller forsvar planlegger bruk av sikringsstyrker skal samarbeide med disse om planlegging, tilrettelegging og gjennomføring av sikring.
 
-Plikten omfatter blant annet:Påvise anleggets vitale deler og beskaffenhet for øvrig.Anskaffe materiell for sikring av anlegget og gjennomføre øvrige tiltak for å hjelpe vaktstyrken.Tilrettelegge for øvelser på anleggets område.
+Plikten omfatter blant annet:
+
+1. Påvise anleggets vitale deler og beskaffenhet for øvrig.
+2. Anskaffe materiell for sikring av anlegget og gjennomføre øvrige tiltak for å hjelpe vaktstyrken.
+3. Tilrettelegge for øvelser på anleggets område.
 
 Beredskapsmyndigheten kan etter denne paragraf gi nærmere bestemmelser for objektsikring og gi bestemmelser for gjennomføring av øvelser i høyspenningsanlegg.
 
@@ -368,7 +427,11 @@ Beredskapsmyndigheten kan etter denne paragraf gi nærmere bestemmelser for obje
 
 Alle driftssentraler i klassifiserte driftskontrollsystemer, og alle anlegg klassifisert i klasse 3, skal ha restriksjoner for adgang. Beredskapsmyndigheten kan vedta at også anlegg i klasse 2 skal ha restriksjoner for adgang.
 
-Ved anlegg underlagt restriksjoner for adgang skal:De besøkende følge en fast avgrenset rute.De besøkende til enhver tid være ledsaget av en erfaren og ansvarlig representant for anlegget.Fotografering være forbudt med mindre spesiell tillatelse er innhentet fra ansvarlig representant for anlegget.
+Ved anlegg underlagt restriksjoner for adgang skal:
+
+1. De besøkende følge en fast avgrenset rute.
+2. De besøkende til enhver tid være ledsaget av en erfaren og ansvarlig representant for anlegget.
+3. Fotografering være forbudt med mindre spesiell tillatelse er innhentet fra ansvarlig representant for anlegget.
 
 For driftssentraler i driftskontrollsystemer i klasse 3 er det forbudt med besøkende og fotografering. Personer uten full bakgrunnssjekk etter [§ 6-7](forskrift/2012-12-07-1157/§6-7) skal ikke ha adgang til driftssentraler i klasse 3. Beredskapsmyndigheten kan vedta det samme for andre anlegg i klasse 3.
 
@@ -392,7 +455,18 @@ Den enkelte KBO-enhet kan avgjøre om det er tjenstlig behov for å videreformid
 
 Kraftsensitiv informasjon er underlagt taushetsplikt etter § 9-3 i [energiloven.](lov/1990-06-29-50/§9-3)
 
-Med kraftsensitiv informasjon menes konkrete og detaljerte opplysninger om kraftforsyningen, herunder klassifiserte anlegg og system, som kan utnyttes til å skade kraftforsyningen eller svekke kraftforsyningens evne til å håndtere ekstraordinære situasjoner, som for eksempel:informasjon om systemer som ivaretar driftskontrollfunksjoner for klassifiserte anlegg.fremstilling av hele eller deler av kraftsystemet, herunder fremstillinger som viser eller beskriver enkeltkomponenter eller sammenkoblinger i klassifiserte anlegg.detaljert informasjon om klassifiserte transformator-, koblings-, og omformerstasjoner som anleggets klasse, informasjon om komponentene i stasjonen, beskrivelse av tiltak mot bevisst skadeverk og innvendige bygningstegninger. Dette inkluderer driftsmerking, antall, ytelse og omsetningsforhold på transformatorer, funksjon på bygg.oversikt over forsyning av kraft og fjernvarme til eiendommer, bygg og anlegg som understøtter viktige samfunnsfunksjoner.nøyaktig kartfesting av flere jordkabeltraseer samlet innenfor et større område. Nøyaktig kartfesting av fjernvarmerør, unntatt hovedrørnettet, tilknyttet varmesentraler i klasse 2.forebyggende sikkerhetstiltak mot bevisst skadeverk.lokalisering av reservedriftssentraler og andre beredskapsanlegg.informasjon som beskriver eller avdekker sårbarheter i kraftforsyningen eller klassifiserte anlegg.beredskapsplaner for å håndtere hendelser i kraftforsyningen.oversikt over reservemateriell, reserveløsninger eller reparasjonsberedskap.
+Med kraftsensitiv informasjon menes konkrete og detaljerte opplysninger om kraftforsyningen, herunder klassifiserte anlegg og system, som kan utnyttes til å skade kraftforsyningen eller svekke kraftforsyningens evne til å håndtere ekstraordinære situasjoner, som for eksempel:
+
+1. informasjon om systemer som ivaretar driftskontrollfunksjoner for klassifiserte anlegg.
+2. fremstilling av hele eller deler av kraftsystemet, herunder fremstillinger som viser eller beskriver enkeltkomponenter eller sammenkoblinger i klassifiserte anlegg.
+3. detaljert informasjon om klassifiserte transformator-, koblings-, og omformerstasjoner som anleggets klasse, informasjon om komponentene i stasjonen, beskrivelse av tiltak mot bevisst skadeverk og innvendige bygningstegninger. Dette inkluderer driftsmerking, antall, ytelse og omsetningsforhold på transformatorer, funksjon på bygg.
+4. oversikt over forsyning av kraft og fjernvarme til eiendommer, bygg og anlegg som understøtter viktige samfunnsfunksjoner.
+5. nøyaktig kartfesting av flere jordkabeltraseer samlet innenfor et større område. Nøyaktig kartfesting av fjernvarmerør, unntatt hovedrørnettet, tilknyttet varmesentraler i klasse 2.
+6. forebyggende sikkerhetstiltak mot bevisst skadeverk.
+7. lokalisering av reservedriftssentraler og andre beredskapsanlegg.
+8. informasjon som beskriver eller avdekker sårbarheter i kraftforsyningen eller klassifiserte anlegg.
+9. beredskapsplaner for å håndtere hendelser i kraftforsyningen.
+10. oversikt over reservemateriell, reserveløsninger eller reparasjonsberedskap.
 
 > Endret ved [forskrifter 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019), [18 des 2024 nr. 3273](forskrift/2024-12-18-3273) (i kraft 1 jan 2025).
 
@@ -464,13 +538,40 @@ Virksomheter skal sikre digitale informasjonssystemer slik at konfidensialitet, 
 
 Det er den enkelte virksomhets ansvar å planlegge, gjennomføre og vedlikeholde sikringstiltak etter det digitale informasjonssystemets type, oppbygging og funksjon.
 
-Virksomheter skal ha en grunnsikring for digitale informasjonssystemer i henhold til anerkjente standarder og normer, herunder:*Identifisere og dokumentere*Virksomheter skal identifisere og dokumentere verdier, leveranser, tjenester, systemer og brukere i sine digitale informasjonssystemer. Dokumentasjonen skal holdes oppdatert.*Risikovurdering*Virksomheter skal gjennomføre risikovurdering ved systemendringer. Risikovurderingen skal holdes oppdatert.*Sikre og oppdage*Virksomheter skal sikre sine digitale informasjonssystemer for å motstå eller begrense skade fra uønskede hendelser. Virksomheter skal overvåke sine digitale informasjonssystemer slik at uønskede hendelser oppdages og registreres. Virksomheten skal varsle uønskede hendelser i sine digitale informasjonssystemer til den beredskapsmyndigheten bestemmer.*Håndtere og gjenopprette*Virksomheter skal håndtere uønskede hendelser i sine digitale informasjonssystemer og gjenopprette normaltilstand uten ugrunnet opphold.*Tjenesteutsetting*Virksomheter skal sørge for at sikkerhetsnivået opprettholdes eller forbedres ved utsetting av tjenester.*Sikkerhetsrevisjon*Virksomheter skal jevnlig gjennomføre revisjoner av iverksatte sikringstiltak for digitale informasjonssystemer. Revisjoner skal påse at tiltakene faktisk er etablert og fungerer etter sin hensikt. Hver revisjon kan ta for seg deler av sikringstiltakene.
+Virksomheter skal ha en grunnsikring for digitale informasjonssystemer i henhold til anerkjente standarder og normer, herunder:
+
+1. *Identifisere og dokumentere*
+
+   Virksomheter skal identifisere og dokumentere verdier, leveranser, tjenester, systemer og brukere i sine digitale informasjonssystemer. Dokumentasjonen skal holdes oppdatert.
+2. *Risikovurdering*
+
+   Virksomheter skal gjennomføre risikovurdering ved systemendringer. Risikovurderingen skal holdes oppdatert.
+3. *Sikre og oppdage*
+
+   Virksomheter skal sikre sine digitale informasjonssystemer for å motstå eller begrense skade fra uønskede hendelser. Virksomheter skal overvåke sine digitale informasjonssystemer slik at uønskede hendelser oppdages og registreres. Virksomheten skal varsle uønskede hendelser i sine digitale informasjonssystemer til den beredskapsmyndigheten bestemmer.
+4. *Håndtere og gjenopprette*
+
+   Virksomheter skal håndtere uønskede hendelser i sine digitale informasjonssystemer og gjenopprette normaltilstand uten ugrunnet opphold.
+5. *Tjenesteutsetting*
+
+   Virksomheter skal sørge for at sikkerhetsnivået opprettholdes eller forbedres ved utsetting av tjenester.
+6. *Sikkerhetsrevisjon*
+
+   Virksomheter skal jevnlig gjennomføre revisjoner av iverksatte sikringstiltak for digitale informasjonssystemer. Revisjoner skal påse at tiltakene faktisk er etablert og fungerer etter sin hensikt. Hver revisjon kan ta for seg deler av sikringstiltakene.
 
 > Tilføyd ved [forskrift 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019).
 
 ### § 6-10. Brytefunksjonalitet i avanserte måle- og styringssystem (AMS)
 
-Nettselskap som har avanserte måle- og styringssystem (AMS) med brytefunksjonalitet, skal sikre dette mot uønsket tilgang. Brytefunksjonalitet som definert i forskrift om måling, avregning, fakturering av nettjenester og elektrisk energi, nettselskapets nøytralitet mv. § 1-3, inkluderer i denne bestemmelsen begrensning av energi- og effektuttaket i det enkelte målepunkt. Nettselskap skal etablere og opprettholde egne sikkerhetstiltak for brytefunksjonaliteten, herunder:Det er kun nettselskap som har tillatelse til å utføre fjernstyring av brytefunksjonaliteten. Fjernstyring av brytefunksjonaliteten skal utføres fra en adgangskontrollert sone.Leverandør med fjerntilgang til brytefunksjonaliteten, skal være lokalisert i et land som er medlem i EFTA, EU eller NATO. Leverandør lokalisert i andre land kan få tidsavgrenset fjerntilgang til brytefunksjonalitet under løpende oppsyn av kvalifisert personell fra nettselskapet eller kvalifisert personell fra leverandør lokalisert i land som er medlem i EFTA, EU eller NATO.Før leverandør lokalisert i land utenfor EFTA, EU eller NATO får fjerntilgang til brytefunksjonaliteten, skal nettselskapet foreta en risikovurdering som inneholder en vurdering av landrisiko.Nettselskap har ansvar for at det etableres kontrollordninger for bruk av bryte- og oppdateringsfunksjonaliteten som hindrer at en enkelt person eller enkelt bruker kan koble ut flere målepunkt samtidig.Fjernoppdatering av programvaren i AMS skal utføres fra en adgangskontrollert sone hos nettselskap eller leverandør. Ved bruk av leverandør skal vilkårene i bokstav b være oppfylt.Hver enkelt måler skal ha en individuell sikkerhetsløsning for bryte-, og oppdateringsfunksjonen, som forhindrer at hendelser som kompromitterer sikkerheten i en måler, kompromitterer sikkerheten i en annen måler.
+Nettselskap som har avanserte måle- og styringssystem (AMS) med brytefunksjonalitet, skal sikre dette mot uønsket tilgang. Brytefunksjonalitet som definert i forskrift om måling, avregning, fakturering av nettjenester og elektrisk energi, nettselskapets nøytralitet mv. § 1-3, inkluderer i denne bestemmelsen begrensning av energi- og effektuttaket i det enkelte målepunkt. Nettselskap skal etablere og opprettholde egne sikkerhetstiltak for brytefunksjonaliteten, herunder:
+
+1. Det er kun nettselskap som har tillatelse til å utføre fjernstyring av brytefunksjonaliteten. Fjernstyring av brytefunksjonaliteten skal utføres fra en adgangskontrollert sone.
+2. Leverandør med fjerntilgang til brytefunksjonaliteten, skal være lokalisert i et land som er medlem i EFTA, EU eller NATO. Leverandør lokalisert i andre land kan få tidsavgrenset fjerntilgang til brytefunksjonalitet under løpende oppsyn av kvalifisert personell fra nettselskapet eller kvalifisert personell fra leverandør lokalisert i land som er medlem i EFTA, EU eller NATO.
+
+   Før leverandør lokalisert i land utenfor EFTA, EU eller NATO får fjerntilgang til brytefunksjonaliteten, skal nettselskapet foreta en risikovurdering som inneholder en vurdering av landrisiko.
+3. Nettselskap har ansvar for at det etableres kontrollordninger for bruk av bryte- og oppdateringsfunksjonaliteten som hindrer at en enkelt person eller enkelt bruker kan koble ut flere målepunkt samtidig.
+4. Fjernoppdatering av programvaren i AMS skal utføres fra en adgangskontrollert sone hos nettselskap eller leverandør. Ved bruk av leverandør skal vilkårene i bokstav b være oppfylt.
+5. Hver enkelt måler skal ha en individuell sikkerhetsløsning for bryte-, og oppdateringsfunksjonen, som forhindrer at hendelser som kompromitterer sikkerheten i en måler, kompromitterer sikkerheten i en annen måler.
 
 > Tilføyd ved [forskrift 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019).
 
@@ -596,13 +697,100 @@ Virksomheter skal vurdere driftskontrollsystemets sårbarhet for elektromagnetis
 
 ### § 7-14. Særskilte krav til driftskontrollsystem klasse 2
 
-Foruten de generelle krav til beskyttelse av driftskontrollsystemet, skal virksomheter med driftskontrollsystem i klasse 2 oppfylle følgende tilleggskrav:*Sikkerhetskopier*Virksomheten skal jevnlig teste at gjenoppretting av elektroniske sikkerhetskopier fungerer etter hensikten.*Sikkerhetsrevisjon*Virksomheten skal jevnlig gjennomføre en sikkerhetsrevisjon og kontroll av pålagte beskyttelsestiltak i driftskontrollsystemet. Revisjonens formål skal være å påse at tiltakene faktisk er etablert og fungerer etter sin hensikt.*Overvåking og logging*Virksomheten skal ha automatisk overvåking, logging, analyse og varsling ved uautorisert bruk, forsøk på uautorisert tilgang, unormal datatrafikk eller annen aktivitet som ikke er autorisert i driftskontrollsystemet.*Utilgjengelig driftssentral*Dersom driftssentralen blir utilgjengelig, skal virksomheten kunne betjene og manuelt styre anlegg som inngår i virksomhetens driftskontrollsystem. I tillegg skal virksomheten ha planer for alternativ drift dersom driftssentralen blir utilgjengelig over lengre tid.*Bemanning av driftssentral*Virksomheten skal sørge for at alle påregnelige ekstraordinære situasjoner eller hendelser i energisystemet eller i driftskontrollsystemet umiddelbart oppdages og håndteres uten unødig opphold.Virksomheten skal senest innen én time kunne bemanne driftssentralen.Virksomheten skal ha en vaktordning som til enhver tid sikrer rask opptrapping av bemanningen ved behov.*Ekstern tilkobling til driftskontrollsystemet*Ved tilkobling fra leverandører skal driftssentralen være bemannet.Virksomheter skal ha kontrollordning for korrekt verifisering av de brukere som er godkjent til å benytte ekstern tilkobling for tilgang til driftskontrollsystemet. Det er ikke tillatt at én brukeridentitet deles mellom flere personer eller systemer.Virksomheter skal sørge for at ekstern tilkobling utføres fra et sted med tilstrekkelig sikre omgivelser. Virksomheter skal utarbeide interne regler for hva som er et sikkert sted.Den eksterne tilkoblingen skal kun åpnes når det er behov for å få tilgang til driftskontrollsystemet. Tilkoblingen skal være lukket når den ikke er i bruk.Det skal foreligge en egen skriftlig prosedyre for ekstern tilkobling.Dersom KBO-enheten kan foreta styring av anlegg i kraftforsyningen gjennom ekstern tilkobling, skal styringen kun skje etter tillatelse eller retningslinjer fra bemyndiget person.Enhver påkobling til driftskontrollsystemet gjennom ekstern tilkobling skal loggføres.*Systemredundans*Samband i driftskontrollsystemet skal fungere uavhengig av funksjonssvikt i offentlige elektroniske kommunikasjonstjenester eller kommunikasjonsnett.Driftskontrollsystemet frem til anlegg i klasse 2 og 3 skal være redundant frem til det lokale kontrollanlegget. I det lokale kontrollanlegget skal virksomheten vurdere behovet for redundans.Redundante føringsveier for samband og redundante komponenter i driftskontrollsystemet skal være fysisk adskilte og uavhengige slik at én enkelt feil eller hendelse ikke medfører tap av viktige funksjoner.Det skal etableres reparasjonsberedskap for alt samband, jf. [kapittel 4](forskrift/2012-12-07-1157/kap4) og [§ 7-8](forskrift/2012-12-07-1157/§7-8).*Særskilt om dublering*Ved dublering som benytter identiske teknologier og løsninger i driftskontrollsystemet, må virksomheten innrette seg slik at samme systemfeil ikke rammer alle dublerte system samtidig, jf. [§ 7-7](forskrift/2012-12-07-1157/§7-7).*Beskyttelse mot EMP og EMI*Det skal gjennomføres sikrings- eller beredskapstiltak for beskyttelse av utrustning som nevnt i [§ 7-13](forskrift/2012-12-07-1157/§7-13) mot EMP og EMI for minst én sambandsvei til anlegg i klasse 2 og 3 som driftskontrollsystemet styrer.*Sikker tidsreferanse*Driftskontrollsystem som er avhengig av eksakt tidsreferanse, skal ha sikre kilder for tidsangivelse.*krav til leverandør*For leveranser til driftskontrollsystemer tillates kun leverandører fra land som er medlem i EFTA, EU eller NATO. En leveranse omfatter levering av utstyr, komponenter, programvare, data, programmeringstjenester, oppdateringer, feilretting, service og vedlikehold.
+Foruten de generelle krav til beskyttelse av driftskontrollsystemet, skal virksomheter med driftskontrollsystem i klasse 2 oppfylle følgende tilleggskrav:
+
+1. *Sikkerhetskopier*
+
+   Virksomheten skal jevnlig teste at gjenoppretting av elektroniske sikkerhetskopier fungerer etter hensikten.
+2. *Sikkerhetsrevisjon*
+
+   Virksomheten skal jevnlig gjennomføre en sikkerhetsrevisjon og kontroll av pålagte beskyttelsestiltak i driftskontrollsystemet. Revisjonens formål skal være å påse at tiltakene faktisk er etablert og fungerer etter sin hensikt.
+3. *Overvåking og logging*
+
+   Virksomheten skal ha automatisk overvåking, logging, analyse og varsling ved uautorisert bruk, forsøk på uautorisert tilgang, unormal datatrafikk eller annen aktivitet som ikke er autorisert i driftskontrollsystemet.
+4. *Utilgjengelig driftssentral*
+
+   Dersom driftssentralen blir utilgjengelig, skal virksomheten kunne betjene og manuelt styre anlegg som inngår i virksomhetens driftskontrollsystem. I tillegg skal virksomheten ha planer for alternativ drift dersom driftssentralen blir utilgjengelig over lengre tid.
+5. *Bemanning av driftssentral*
+
+   Virksomheten skal sørge for at alle påregnelige ekstraordinære situasjoner eller hendelser i energisystemet eller i driftskontrollsystemet umiddelbart oppdages og håndteres uten unødig opphold.
+
+   Virksomheten skal senest innen én time kunne bemanne driftssentralen.
+
+   Virksomheten skal ha en vaktordning som til enhver tid sikrer rask opptrapping av bemanningen ved behov.
+6. *Ekstern tilkobling til driftskontrollsystemet*
+
+   Ved tilkobling fra leverandører skal driftssentralen være bemannet.
+
+   Virksomheter skal ha kontrollordning for korrekt verifisering av de brukere som er godkjent til å benytte ekstern tilkobling for tilgang til driftskontrollsystemet. Det er ikke tillatt at én brukeridentitet deles mellom flere personer eller systemer.
+
+   Virksomheter skal sørge for at ekstern tilkobling utføres fra et sted med tilstrekkelig sikre omgivelser. Virksomheter skal utarbeide interne regler for hva som er et sikkert sted.
+
+   Den eksterne tilkoblingen skal kun åpnes når det er behov for å få tilgang til driftskontrollsystemet. Tilkoblingen skal være lukket når den ikke er i bruk.
+
+   Det skal foreligge en egen skriftlig prosedyre for ekstern tilkobling.
+
+   Dersom KBO-enheten kan foreta styring av anlegg i kraftforsyningen gjennom ekstern tilkobling, skal styringen kun skje etter tillatelse eller retningslinjer fra bemyndiget person.
+
+   Enhver påkobling til driftskontrollsystemet gjennom ekstern tilkobling skal loggføres.
+7. *Systemredundans*
+
+   Samband i driftskontrollsystemet skal fungere uavhengig av funksjonssvikt i offentlige elektroniske kommunikasjonstjenester eller kommunikasjonsnett.
+
+   Driftskontrollsystemet frem til anlegg i klasse 2 og 3 skal være redundant frem til det lokale kontrollanlegget. I det lokale kontrollanlegget skal virksomheten vurdere behovet for redundans.
+
+   Redundante føringsveier for samband og redundante komponenter i driftskontrollsystemet skal være fysisk adskilte og uavhengige slik at én enkelt feil eller hendelse ikke medfører tap av viktige funksjoner.
+
+   Det skal etableres reparasjonsberedskap for alt samband, jf. [kapittel 4](forskrift/2012-12-07-1157/kap4) og [§ 7-8](forskrift/2012-12-07-1157/§7-8).
+8. *Særskilt om dublering*
+
+   Ved dublering som benytter identiske teknologier og løsninger i driftskontrollsystemet, må virksomheten innrette seg slik at samme systemfeil ikke rammer alle dublerte system samtidig, jf. [§ 7-7](forskrift/2012-12-07-1157/§7-7).
+9. *Beskyttelse mot EMP og EMI*
+
+   Det skal gjennomføres sikrings- eller beredskapstiltak for beskyttelse av utrustning som nevnt i [§ 7-13](forskrift/2012-12-07-1157/§7-13) mot EMP og EMI for minst én sambandsvei til anlegg i klasse 2 og 3 som driftskontrollsystemet styrer.
+10. *Sikker tidsreferanse*
+
+    Driftskontrollsystem som er avhengig av eksakt tidsreferanse, skal ha sikre kilder for tidsangivelse.
+11. *krav til leverandør*
+
+    For leveranser til driftskontrollsystemer tillates kun leverandører fra land som er medlem i EFTA, EU eller NATO. En leveranse omfatter levering av utstyr, komponenter, programvare, data, programmeringstjenester, oppdateringer, feilretting, service og vedlikehold.
 
 > Endret ved [forskrifter 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019), [18 des 2024 nr. 3273](forskrift/2024-12-18-3273) (i kraft 1 jan 2025).
 
 ### § 7-15. Særskilte krav til driftskontrollsystem klasse 3
 
-Foruten de generelle kravene samt særskilte krav til beskyttelse av driftskontrollsystem i klasse 2, skal virksomheter med driftskontrollsystem i klasse 3 oppfylle følgende tilleggskrav:*Reserve driftssentral*Virksomheter skal ha reservedriftssentral som skal plasseres i sikker avstand til ordinær driftssentral, slik at ikke samme hendelse kan ramme begge.Reservedriftssentral skal til enhver tid være klar til bruk og være utstyrt slik at den kan fungere helt uavhengig av ordinær driftssentral og kunne ivareta alle driftskontrollfunksjoner,Virksomheter skal minimum årlig vurdere om det er behov for å øke bemanningen eller omfanget av vaktordningen for rask opptrapping av bemanning, jf. [§ 7-9](forskrift/2012-12-07-1157/§7-9), annet ledd.*Bemanning av driftssentral*Driftssentralen skal være døgnbemannet.Opptrapping av bemanningen skal kunne skje innen én time etter at påkalling er gjort.Virksomheten skal minimum årlig vurdere om det er behov for å øke bemanningen eller omfanget av vaktordningen for rask opptrapping av bemanning, jf. [§ 7-9](forskrift/2012-12-07-1157/§7-9), andre ledd.*Ekstern tilkobling til driftskontrollsystemet*Kobling i nettanlegg eller styring av øvrige anlegg gjennom ekstern tilkobling er ikke tillatt.*Systemredundans*Sambandsveiene i driftskontrollsystemet skal utføres så sikre og robuste og med en slik redundans og avstand at ikke samtidige eller påfølgende hendelser som uvær, brann eller omfattende teknisk svikt hindrer eller skader begge føringsveier og andre redundante delsystem.Frem til alle anlegg i klasse 3 skal virksomheten ha kontroll og råderett over alle komponenter og andre tekniske løsninger i minst én sambandsvei, og beskytte disse, jf. [kapittel 5](forskrift/2012-12-07-1157/kap5).*Beskyttelse mot EMP og EMI*Det skal gjennomføres sikringstiltak for beskyttelse av utrustning som nevnt i [§ 7-13](forskrift/2012-12-07-1157/§7-13) mot EMP og EMI for minst én sambandsvei til anlegg i klasse 3 som driftskontrollsystemet styrer. Beredskapsmyndigheten kan i særskilte tilfeller godkjenne beredskapstiltak som alternativ til sikringstiltak.I sambandsvei til anlegg i klasse 2 som driftskontrollsystemet styrer, skal det gjennomføres sikrings- eller beredskapstiltak.*Fastsettelse av særlige krav til bemanning*For spesielt viktige driftskontrollsystemer kan beredskapsmyndigheten fastsette særlige krav, også til bemanning, jf. [§ 5-7](forskrift/2012-12-07-1157/§5-7).
+Foruten de generelle kravene samt særskilte krav til beskyttelse av driftskontrollsystem i klasse 2, skal virksomheter med driftskontrollsystem i klasse 3 oppfylle følgende tilleggskrav:
+
+1. *Reserve driftssentral*
+
+   Virksomheter skal ha reservedriftssentral som skal plasseres i sikker avstand til ordinær driftssentral, slik at ikke samme hendelse kan ramme begge.
+
+   Reservedriftssentral skal til enhver tid være klar til bruk og være utstyrt slik at den kan fungere helt uavhengig av ordinær driftssentral og kunne ivareta alle driftskontrollfunksjoner,
+
+   Virksomheter skal minimum årlig vurdere om det er behov for å øke bemanningen eller omfanget av vaktordningen for rask opptrapping av bemanning, jf. [§ 7-9](forskrift/2012-12-07-1157/§7-9), annet ledd.
+2. *Bemanning av driftssentral*
+
+   Driftssentralen skal være døgnbemannet.
+
+   Opptrapping av bemanningen skal kunne skje innen én time etter at påkalling er gjort.
+
+   Virksomheten skal minimum årlig vurdere om det er behov for å øke bemanningen eller omfanget av vaktordningen for rask opptrapping av bemanning, jf. [§ 7-9](forskrift/2012-12-07-1157/§7-9), andre ledd.
+3. *Ekstern tilkobling til driftskontrollsystemet*
+
+   Kobling i nettanlegg eller styring av øvrige anlegg gjennom ekstern tilkobling er ikke tillatt.
+4. *Systemredundans*
+
+   Sambandsveiene i driftskontrollsystemet skal utføres så sikre og robuste og med en slik redundans og avstand at ikke samtidige eller påfølgende hendelser som uvær, brann eller omfattende teknisk svikt hindrer eller skader begge føringsveier og andre redundante delsystem.
+
+   Frem til alle anlegg i klasse 3 skal virksomheten ha kontroll og råderett over alle komponenter og andre tekniske løsninger i minst én sambandsvei, og beskytte disse, jf. [kapittel 5](forskrift/2012-12-07-1157/kap5).
+5. *Beskyttelse mot EMP og EMI*
+
+   Det skal gjennomføres sikringstiltak for beskyttelse av utrustning som nevnt i [§ 7-13](forskrift/2012-12-07-1157/§7-13) mot EMP og EMI for minst én sambandsvei til anlegg i klasse 3 som driftskontrollsystemet styrer. Beredskapsmyndigheten kan i særskilte tilfeller godkjenne beredskapstiltak som alternativ til sikringstiltak.
+
+   I sambandsvei til anlegg i klasse 2 som driftskontrollsystemet styrer, skal det gjennomføres sikrings- eller beredskapstiltak.
+6. *Fastsettelse av særlige krav til bemanning*
+
+   For spesielt viktige driftskontrollsystemer kan beredskapsmyndigheten fastsette særlige krav, også til bemanning, jf. [§ 5-7](forskrift/2012-12-07-1157/§5-7).
 
 > Endret ved [forskrifter 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019), [18 des 2024 nr. 3273](forskrift/2024-12-18-3273) (i kraft 1 jan 2025).
 
@@ -616,7 +804,18 @@ Vernsystemer skal sørge for rask og selektiv frakopling av enhet med funksjonsf
 
 ### § 7-17. Mobile radionett – driftsradio
 
-KBO-enheter som er avhengig av pålitelig mobilkommunikasjon for drift, sikkerhet eller gjenoppretting av funksjon, skal ha tilgang til et mobilt sambandssystem. Dette sambandssystemet skal:Omfattes av den generelle sikringsplikten etter [§ 5-1](forskrift/2012-12-07-1157/§5-1).Til enhver tid holdes i funksjonsdyktig stand, være klar til bruk, og det skal være rask tilgang på kritiske reservedeler og kompetanse på feilretting.Kunne betjenes av personell med nødvendig kompetanse til bruk.Ha tilstrekkelig dekningsgrad for kraftforsyningens anlegg og drift.Kunne fungere uavhengig av funksjonssvikt i offentlige elektroniske kommunikasjonstjenester eller kommunikasjonsnett.Ha tilstrekkelig nødstrøm ved omfattende eller langvarige strømbrudd, herunder et nødstrømssystem med automatisk start og minimum 48 timer selvstendig driftstid.Ha nødvendig funksjonalitet med blant annet direkte apparat til apparat-kommunikasjon, gruppesending og felles oppkall.Kunne fungere som reservesamband om annet viktig samband svikter.Der hvor radionettet benytter anlegg tilhørende et klassifisert driftskontrollsystem eller hvor det må regnes som en del av dette, skal sambandssystemet beskyttes i henhold til driftskontrollsystemets klasse.Der hvor radionettet er digitalisert og f.eks. baserer seg på IP-løsninger, skal dette sikres mot uautorisert tilgang, spredning av uønsket programvare, urettmessig overtakelse m.m. etter relevante bestemmelser i denne forskrift.
+KBO-enheter som er avhengig av pålitelig mobilkommunikasjon for drift, sikkerhet eller gjenoppretting av funksjon, skal ha tilgang til et mobilt sambandssystem. Dette sambandssystemet skal:
+
+1. Omfattes av den generelle sikringsplikten etter [§ 5-1](forskrift/2012-12-07-1157/§5-1).
+2. Til enhver tid holdes i funksjonsdyktig stand, være klar til bruk, og det skal være rask tilgang på kritiske reservedeler og kompetanse på feilretting.
+3. Kunne betjenes av personell med nødvendig kompetanse til bruk.
+4. Ha tilstrekkelig dekningsgrad for kraftforsyningens anlegg og drift.
+5. Kunne fungere uavhengig av funksjonssvikt i offentlige elektroniske kommunikasjonstjenester eller kommunikasjonsnett.
+6. Ha tilstrekkelig nødstrøm ved omfattende eller langvarige strømbrudd, herunder et nødstrømssystem med automatisk start og minimum 48 timer selvstendig driftstid.
+7. Ha nødvendig funksjonalitet med blant annet direkte apparat til apparat-kommunikasjon, gruppesending og felles oppkall.
+8. Kunne fungere som reservesamband om annet viktig samband svikter.
+9. Der hvor radionettet benytter anlegg tilhørende et klassifisert driftskontrollsystem eller hvor det må regnes som en del av dette, skal sambandssystemet beskyttes i henhold til driftskontrollsystemets klasse.
+10. Der hvor radionettet er digitalisert og f.eks. baserer seg på IP-løsninger, skal dette sikres mot uautorisert tilgang, spredning av uønsket programvare, urettmessig overtakelse m.m. etter relevante bestemmelser i denne forskrift.
 
 > Endret ved [forskrift 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019).
 
@@ -768,7 +967,12 @@ Dersom et minst like godt sikringsnivå kan dokumenteres, kan beredskapsmyndighe
 
 2.1.1
 
-Anleggets sikringsnivå skal ivaretas gjennom en kombinasjon av blant annet følgende tiltak:Uønskede hendelser og handlinger skal oppdages raskt og håndteres av et effektivt reaksjonsmønster.Fysisk og elektrisk utførelse og beskyttelse skal være på et nivå som begrenser tap av funksjon og ødeleggelse.Gjenoppretting av eventuelle funksjonstap skal skje uten ugrunnet opphold.Redundans i anlegget eller kraftsystemet.
+Anleggets sikringsnivå skal ivaretas gjennom en kombinasjon av blant annet følgende tiltak:
+
+1. Uønskede hendelser og handlinger skal oppdages raskt og håndteres av et effektivt reaksjonsmønster.
+2. Fysisk og elektrisk utførelse og beskyttelse skal være på et nivå som begrenser tap av funksjon og ødeleggelse.
+3. Gjenoppretting av eventuelle funksjonstap skal skje uten ugrunnet opphold.
+4. Redundans i anlegget eller kraftsystemet.
 
 2.1.2
 
@@ -942,7 +1146,12 @@ Dersom et minst like godt sikringsnivå kan dokumenteres, kan beredskapsmyndighe
 
 3.1.1
 
-Anleggets sikringsnivå skal ivaretas gjennom en kombinasjon av blant annet følgende tiltak:Alle uønskede hendelser og handlinger skal oppdages straks, kunne verifiseres og håndteres av et effektivt reaksjonsmønster.Fysisk og elektrisk utførelse og beskyttelse skal være på et nivå som forebygger eller forhindrer tap av funksjon og ødeleggelse.Gjenoppretting av eventuelle funksjonstap skal skje så raskt som fysisk mulig.Redundans i anlegget eller kraftsystemet.
+Anleggets sikringsnivå skal ivaretas gjennom en kombinasjon av blant annet følgende tiltak:
+
+1. Alle uønskede hendelser og handlinger skal oppdages straks, kunne verifiseres og håndteres av et effektivt reaksjonsmønster.
+2. Fysisk og elektrisk utførelse og beskyttelse skal være på et nivå som forebygger eller forhindrer tap av funksjon og ødeleggelse.
+3. Gjenoppretting av eventuelle funksjonstap skal skje så raskt som fysisk mulig.
+4. Redundans i anlegget eller kraftsystemet.
 
 3.1.2
 

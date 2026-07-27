@@ -200,7 +200,17 @@ Enkeltvedtak fattet etter denne forskriften kan påklages. Hvis ikke annen frist
 
 ### § 3-6. Opphør av studierett
 
-Studieretten opphører i følgende tilfeller:Når studiet er fullført.Dersom studenten skriftlig melder at vedkommende ønsker å avslutte studiene.Dersom studenten unnlater å oppfylle sine plikter etter [§ 3-1](forskrift/2025-12-17-2645/§3-1), og eventuelt ikke har fått innvilget permisjon fra studiet.Dersom studenten har benyttet maksimalt antall vurderingsforsøk uten å bestå et emne som er obligatorisk for studieprogrammet.Dersom studenten oppnår studierett ved et annet studieprogram ved AHO.Dersom studenten ikke avlegger minst 30 studiepoeng per studieår. Ved beregning av ett studieår medregnes ikke utsatt studiestart, midlertidig utestengelse fra AHO eller innvilget permisjon. Egne regler kan gjelde for erfaringsbaserte masterstudier.Dersom studenten ikke har oppfylt vilkårene for betinget tilbud ved opptak.Dersom studenten har framlagt falsk eller forfalsket dokumentasjon i forbindelse med søknad om opptak.Dersom studenten ikke har framlagt originale vitnemål til vitnemålskontroll.
+Studieretten opphører i følgende tilfeller:
+
+1. Når studiet er fullført.
+2. Dersom studenten skriftlig melder at vedkommende ønsker å avslutte studiene.
+3. Dersom studenten unnlater å oppfylle sine plikter etter [§ 3-1](forskrift/2025-12-17-2645/§3-1), og eventuelt ikke har fått innvilget permisjon fra studiet.
+4. Dersom studenten har benyttet maksimalt antall vurderingsforsøk uten å bestå et emne som er obligatorisk for studieprogrammet.
+5. Dersom studenten oppnår studierett ved et annet studieprogram ved AHO.
+6. Dersom studenten ikke avlegger minst 30 studiepoeng per studieår. Ved beregning av ett studieår medregnes ikke utsatt studiestart, midlertidig utestengelse fra AHO eller innvilget permisjon. Egne regler kan gjelde for erfaringsbaserte masterstudier.
+7. Dersom studenten ikke har oppfylt vilkårene for betinget tilbud ved opptak.
+8. Dersom studenten har framlagt falsk eller forfalsket dokumentasjon i forbindelse med søknad om opptak.
+9. Dersom studenten ikke har framlagt originale vitnemål til vitnemålskontroll.
 
 ### § 3-7. Saksbehandling ved fare for tap av studieretten etter § 3-6 sjette ledd
 
@@ -270,11 +280,25 @@ Studieåret starter på høsten og er normert til ti måneder fordelt på to sem
 
 (2) Instituttene avgjør hvilken vurderingsform som er best egnet til å vurdere læringsutbyttet. Vurderingsform skal framgå av emnebeskrivelsene.
 
-(3) En vurderingsform kan benyttes alene eller i kombinasjon med andre. Vurdering kan gjennomføres individuelt eller gruppevis. Ved AHO kan følgende vurderingsformer benyttes:VurderingsmappeProsjektSkoleeksamenHjemmeeksamenMuntlig eksamenRapportInnleveringPresentasjonMasteroppgave (EVU)Diplomoppgave.
+(3) En vurderingsform kan benyttes alene eller i kombinasjon med andre. Vurdering kan gjennomføres individuelt eller gruppevis. Ved AHO kan følgende vurderingsformer benyttes:
+
+- Vurderingsmappe
+- Prosjekt
+- Skoleeksamen
+- Hjemmeeksamen
+- Muntlig eksamen
+- Rapport
+- Innlevering
+- Presentasjon
+- Masteroppgave (EVU)
+- Diplomoppgave.
 
 (4) Studieprogrammet kan i program- eller emnebeskrivelsen fastsette at visse obligatoriske aktiviteter skal være godkjent, eller at visse eksamener skal være bestått før oppmelding til eller gjennomføring av den enkelte eksamen.
 
-(5) Følgende former kan benyttes som obligatoriske aktiviteter som må være gjennomført og godkjent som et premiss for at studenten kan avlegge eksamen:DeltakelseØving.
+(5) Følgende former kan benyttes som obligatoriske aktiviteter som må være gjennomført og godkjent som et premiss for at studenten kan avlegge eksamen:
+
+- Deltakelse
+- Øving.
 
 (6) Ved løpende vurdering framgår det av emnebeskrivelsen hvilken periode som vurderes.
 

@@ -17,7 +17,7 @@ xml_hash: "a35e17b944e41cf4a6b26307c84b9edc41c267b36aeb249adecfdb2245eed53f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,10 @@ Mattilsynet kan i særskilte tilfelle dispensere fra bestemmelsene i denne forsk
 
 Forskriften trer i kraft straks.
 
-Samtidig oppheves følgende forskrifter:[forskrift 26. juni 2008 nr. 726 om hvilke sammensatte produkter som skal gjennom offentlig kontroll ved en grensekontrollstasjon](forskrift/2008-06-26-726)[forskrift 9. mars 2020 nr. 713 om offentlig kontroll – positivlisten 2019 – forordning (EU) 2019/2007](forskrift/2020-03-09-713).
+Samtidig oppheves følgende forskrifter:
+
+- [forskrift 26. juni 2008 nr. 726 om hvilke sammensatte produkter som skal gjennom offentlig kontroll ved en grensekontrollstasjon](forskrift/2008-06-26-726)
+- [forskrift 9. mars 2020 nr. 713 om offentlig kontroll – positivlisten 2019 – forordning (EU) 2019/2007](forskrift/2020-03-09-713).
 
 ## Forordninger
 
@@ -117,7 +120,15 @@ Denne forordningen fastsetter listene over dyr, produkter av animalsk opprinnels
 
 ### Artikkel 2. Definisjoner
 
-I denne forordningen menes med«sammensatt produkt» et sammensatt produkt som definert i artikkel 2 nr. 14 i delegert forordning [(EU) 2019/625](eu/32019r0625),«ubearbeidet grisebust» ubearbeidet grisebust som definert i nr. 33 i vedlegg I til kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)6,«ubehandlede fjør og deler av fjør» ubehandlede fjør og deler av fjør som definert i nr. 30 i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142),«ubehandlet hår» ubehandlet hår som definert i nr. 32 i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142),«halvfabrikat» halvfabrikat som definert i nr. 35 i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142),«behandlede huder og skinn» behandlede huder og skinn som definert i nr. 28 i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142),«ubehandlet ull» ubehandlet ull som definert i nr. 31 i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142).
+I denne forordningen menes med
+
+1. «sammensatt produkt» et sammensatt produkt som definert i artikkel 2 nr. 14 i delegert forordning [(EU) 2019/625](eu/32019r0625),
+2. «ubearbeidet grisebust» ubearbeidet grisebust som definert i nr. 33 i vedlegg I til kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)6,
+3. «ubehandlede fjør og deler av fjør» ubehandlede fjør og deler av fjør som definert i nr. 30 i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142),
+4. «ubehandlet hår» ubehandlet hår som definert i nr. 32 i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142),
+5. «halvfabrikat» halvfabrikat som definert i nr. 35 i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142),
+6. «behandlede huder og skinn» behandlede huder og skinn som definert i nr. 28 i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142),
+7. «ubehandlet ull» ubehandlet ull som definert i nr. 31 i vedlegg I til forordning [(EU) nr. 142/2011](eu/32011r0142).
 
 6 Kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142) av 25. februar 2011 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om gjennomføring av rådsdirektiv [97/78/EF](eu/31997l0078) med hensyn til visse prøver og produkter som er unntatt fra veterinærkontroll på grensen i henhold til nevnte direktiv (EUT L 54 av 26.2.2011, s. 1).
 
@@ -137,7 +148,9 @@ Denne forordningen trer i kraft den tredje dagen etter at den er kunngjort i Den
 
 Den får anvendelse fra 21. april 2021.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 13. april 2021.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 13. april 2021.
 
 |  |  |
 | --- | --- |
@@ -152,15 +165,39 @@ LISTE OVER DYR, PRODUKTER AV ANIMALSK OPPRINNELSE, AVLSMATERIALE, ANIMALSKE BIPR
 
 *Merknader:*
 
-1. **Generelle merknader**Generelle merknader tilføyes til visse kapitler for å klargjøre hvilke dyr eller varer som omfattes av det relevante kapittelet. I tillegg vises det eventuelt til særlige krav fastsatt i kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)7.Listen over sammensatte produkter som oppfyller bestemte vilkår, og som er unntatt fra offentlig kontroll på grensekontrollstasjoner, er fastsatt i delegert kommisjonsforordning [(EU) 2021/630](eu/32021r0630)8.
-2. **Merknad til kapittelet**Listene i dette vedlegget er inndelt i kapitler som svarer til de relevante kapitlene i Den kombinerte toll- og statistikknomenklaturen (KN) som fastsatt i vedlegg I til rådsforordning [(EØF) nr. 2658/87](eu/31987r2658)9.Merknadene til kapitlene er forklaringer, etter behov i form av utdrag fra merknadene til de enkelte kapitlene i KN.
-3. **Utdrag fra de forklarende merknadene og klassifikasjonsuttalelsene til det harmoniserte systemet**Ytterligere opplysninger om de forskjellige kapitlene er etter behov blitt trukket ut fra Verdens tollorganisasjons forklarende merknader og klassifikasjonsuttalelser til det harmoniserte systemet.
+1. **Generelle merknader**
+
+   Generelle merknader tilføyes til visse kapitler for å klargjøre hvilke dyr eller varer som omfattes av det relevante kapittelet. I tillegg vises det eventuelt til særlige krav fastsatt i kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)7.
+
+   Listen over sammensatte produkter som oppfyller bestemte vilkår, og som er unntatt fra offentlig kontroll på grensekontrollstasjoner, er fastsatt i delegert kommisjonsforordning [(EU) 2021/630](eu/32021r0630)8.
+2. **Merknad til kapittelet**
+
+   Listene i dette vedlegget er inndelt i kapitler som svarer til de relevante kapitlene i Den kombinerte toll- og statistikknomenklaturen (KN) som fastsatt i vedlegg I til rådsforordning [(EØF) nr. 2658/87](eu/31987r2658)9.
+
+   Merknadene til kapitlene er forklaringer, etter behov i form av utdrag fra merknadene til de enkelte kapitlene i KN.
+3. **Utdrag fra de forklarende merknadene og klassifikasjonsuttalelsene til det harmoniserte systemet**
+
+   Ytterligere opplysninger om de forskjellige kapitlene er etter behov blitt trukket ut fra Verdens tollorganisasjons forklarende merknader og klassifikasjonsuttalelser til det harmoniserte systemet.
 
 *Tabeller:*
 
-1. **Kolonne 1 – KN-kode**I denne kolonnen angis KN-koden. KN, som ble innført ved forordning [(EØF) nr. 2658/87](eu/31987r2658), er basert på den internasjonale konvensjonen om beskrivelse og koding av varer (HS) som ble inngått i Brussel 14. juni 1983 og godkjent på vegne av Det europeiske økonomiske fellesskap gjennom rådsbeslutning [87/369/EØF](eu/31987d0369)10. KN gjengir posisjonene og underposisjonene i HS med seks sifre, mens det sjuende og åttende tallet brukes til å opprette ytterligere underposisjoner som er spesifikke for KN.Når det blir brukt en kode med fire sifre: Med mindre annet er angitt, skal alle dyr og varer med denne firesifrede koden eller med en kode som begynner med disse fire sifrene, framlegges for offentlig kontroll på grensekontrollstasjonene. I de fleste av disse tilfellene er de relevante KN-kodene i TRACES-systemet nevnt i artikkel 133 nr. 4 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)11, inndelt på seks- eller åttesifret nivå.Når det bare kreves at visse angitte dyr og varer som hører inn under en fire-, seks- eller åttesifret kode, skal framlegges for offentlig kontroll, og det ikke finnes noen særskilt inndeling av denne koden i KN, er koden angitt med «Ex». I slike tilfeller avgjøres hvilke dyr og varer som omfattes av denne forordningen, på grunnlag av virkeområdet for KN-koden og den tilhørende beskrivelsen i kolonne 3 og avgrensningen og forklaringen i kolonne 4.
-2. **Kolonne 3 – Beskrivelse**Beskrivelsen av dyrene og varene er som fastsatt i kolonnen med beskrivelser i KN.Uten at det berører reglene for fortolkning av KN, skal ordlyden i beskrivelsen av dyr og varer i kolonne 3 bare anses som veiledende, ettersom det er KN-kodene som avgjør hvilke dyr og varer som omfattes av denne forordningen.
-3. **Kolonne 4 – Avgrensning og forklaring**I denne kolonnen finnes nærmere opplysninger om de aktuelle dyrene eller varene. Ytterligere opplysninger om dyrene eller varene som omfattes av de forskjellige kapitlene i KN, finnes i de forklarende merknadene til Den europeiske unions kombinerte nomenklatur12.Produkter som er framstilt av animalske biprodukter som omfattes av europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)13 og forordning [(EU) nr. 142/2011](eu/32011r0142), er ikke nærmere identifisert i unionsretten. Offentlig kontroll skal foretas av de produktene som er delvis bearbeidet, men som fremdeles er råvarer, som senere skal bearbeides ytterligere i en godkjent eller registrert virksomhet på bestemmelsesstedet. Offentlige inspektører på grensekontrollstasjonene skal etter behov vurdere og angi om et avledet produkt er tilstrekkelig bearbeidet til ikke å kreve ytterligere offentlig kontroll som er fastsatt i unionsretten.
+1. **Kolonne 1 – KN-kode**
+
+   I denne kolonnen angis KN-koden. KN, som ble innført ved forordning [(EØF) nr. 2658/87](eu/31987r2658), er basert på den internasjonale konvensjonen om beskrivelse og koding av varer (HS) som ble inngått i Brussel 14. juni 1983 og godkjent på vegne av Det europeiske økonomiske fellesskap gjennom rådsbeslutning [87/369/EØF](eu/31987d0369)10. KN gjengir posisjonene og underposisjonene i HS med seks sifre, mens det sjuende og åttende tallet brukes til å opprette ytterligere underposisjoner som er spesifikke for KN.
+
+   Når det blir brukt en kode med fire sifre: Med mindre annet er angitt, skal alle dyr og varer med denne firesifrede koden eller med en kode som begynner med disse fire sifrene, framlegges for offentlig kontroll på grensekontrollstasjonene. I de fleste av disse tilfellene er de relevante KN-kodene i TRACES-systemet nevnt i artikkel 133 nr. 4 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)11, inndelt på seks- eller åttesifret nivå.
+
+   Når det bare kreves at visse angitte dyr og varer som hører inn under en fire-, seks- eller åttesifret kode, skal framlegges for offentlig kontroll, og det ikke finnes noen særskilt inndeling av denne koden i KN, er koden angitt med «Ex». I slike tilfeller avgjøres hvilke dyr og varer som omfattes av denne forordningen, på grunnlag av virkeområdet for KN-koden og den tilhørende beskrivelsen i kolonne 3 og avgrensningen og forklaringen i kolonne 4.
+2. **Kolonne 3 – Beskrivelse**
+
+   Beskrivelsen av dyrene og varene er som fastsatt i kolonnen med beskrivelser i KN.
+
+   Uten at det berører reglene for fortolkning av KN, skal ordlyden i beskrivelsen av dyr og varer i kolonne 3 bare anses som veiledende, ettersom det er KN-kodene som avgjør hvilke dyr og varer som omfattes av denne forordningen.
+3. **Kolonne 4 – Avgrensning og forklaring**
+
+   I denne kolonnen finnes nærmere opplysninger om de aktuelle dyrene eller varene. Ytterligere opplysninger om dyrene eller varene som omfattes av de forskjellige kapitlene i KN, finnes i de forklarende merknadene til Den europeiske unions kombinerte nomenklatur12.
+
+   Produkter som er framstilt av animalske biprodukter som omfattes av europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)13 og forordning [(EU) nr. 142/2011](eu/32011r0142), er ikke nærmere identifisert i unionsretten. Offentlig kontroll skal foretas av de produktene som er delvis bearbeidet, men som fremdeles er råvarer, som senere skal bearbeides ytterligere i en godkjent eller registrert virksomhet på bestemmelsesstedet. Offentlige inspektører på grensekontrollstasjonene skal etter behov vurdere og angi om et avledet produkt er tilstrekkelig bearbeidet til ikke å kreve ytterligere offentlig kontroll som er fastsatt i unionsretten.
 
 7 Kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142) av 25. februar 2011 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om gjennomføring av rådsdirektiv [97/78/EF](eu/31997l0078) med hensyn til visse prøver og produkter som er unntatt fra veterinærkontroll på grensen i henhold til nevnte direktiv (EUT L 54 av 26.2.2011, s. 1).
 
@@ -188,7 +225,21 @@ Levende dyr
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
 
-«Posisjon 01.06 omfatter blant annet følgende husdyr eller viltlevende dyr:PattedyrPrimater.Hvaler, delfiner og niser (pattedyr i ordenen Cetacea), manater og dugonger (pattedyr i ordenen Sirenia), seler, sjøløver og hvalrosser (pattedyr i underordenen Pinnipedia).Andre (f.eks. reinsdyr, katter, hunder, løver, tigere, bjørner, elefanter, kameler (herunder dromedarer), sebraer, kaniner, harer, dyr av hjortefamilien, antiloper (unntatt fra underfamilien Bovinae), gemser, rever, minker og andre dyr som er bestemt til pelsdyroppdrett).Krypdyr (herunder slanger og skilpadder)FuglerRovfugler.Psittaciformes (herunder papegøyer, parakitter, arapapegøyer og kakaduer).Andre (f.eks. rapphøns, fasaner, vaktler, rugder, bekkasiner, duer, ryper, hortulaner, villender, villgjess, troster, stærer, lerker, finker, meiser, kolibrier, påfugler, svaner og andre fugler som ikke er angitt under posisjon 01.05).Insekter, f.eks. bier (uansett om de fraktes i kasser, bur eller bikuber)Andre, f.eks. frosker.
+«Posisjon 01.06 omfatter blant annet følgende husdyr eller viltlevende dyr:
+
+1. Pattedyr
+
+   1. Primater.
+   2. Hvaler, delfiner og niser (pattedyr i ordenen Cetacea), manater og dugonger (pattedyr i ordenen Sirenia), seler, sjøløver og hvalrosser (pattedyr i underordenen Pinnipedia).
+   3. Andre (f.eks. reinsdyr, katter, hunder, løver, tigere, bjørner, elefanter, kameler (herunder dromedarer), sebraer, kaniner, harer, dyr av hjortefamilien, antiloper (unntatt fra underfamilien Bovinae), gemser, rever, minker og andre dyr som er bestemt til pelsdyroppdrett).
+2. Krypdyr (herunder slanger og skilpadder)
+3. Fugler
+
+   1. Rovfugler.
+   2. Psittaciformes (herunder papegøyer, parakitter, arapapegøyer og kakaduer).
+   3. Andre (f.eks. rapphøns, fasaner, vaktler, rugder, bekkasiner, duer, ryper, hortulaner, villender, villgjess, troster, stærer, lerker, finker, meiser, kolibrier, påfugler, svaner og andre fugler som ikke er angitt under posisjon 01.05).
+4. Insekter, f.eks. bier (uansett om de fraktes i kasser, bur eller bikuber)
+5. Andre, f.eks. frosker.
 
 Denne posisjonen omfatter ikke dyr som hører til sirkus, menasjerier eller andre tilsvarende omreisende dyreforestillinger (posisjon 95.08).»
 
@@ -220,7 +271,12 @@ Kjøtt og spiselig slakteavfall
 
 **Merknad til kapittel 2 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. Dette kapittelet omfatter ikkede produktene som er beskrevet under posisjon 02.01–02.08 eller 02.10, og som er uegnet til konsum,spiselige, ikke-levende insekter (posisjon 04.10),tarmer, blærer og mager av dyr (posisjon 05.04) eller dyreblod (posisjon 05.11 eller 30.02), elleranimalsk fett, unntatt produktene under posisjon 02.09 (kapittel 15).»
+1. Dette kapittelet omfatter ikke
+
+   1. de produktene som er beskrevet under posisjon 02.01–02.08 eller 02.10, og som er uegnet til konsum,
+   2. spiselige, ikke-levende insekter (posisjon 04.10),
+   3. tarmer, blærer og mager av dyr (posisjon 05.04) eller dyreblod (posisjon 05.11 eller 30.02), eller
+   4. animalsk fett, unntatt produktene under posisjon 02.09 (kapittel 15).»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -261,7 +317,12 @@ Alle produkter i dette kapittelet omfattes av offentlig kontroll.
 
 **Merknader til kapittel 3 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. Dette kapittelet omfatter ikkepattedyr som hører inn under posisjon 01.06,kjøtt av pattedyr som hører inn under posisjon 01.06 (posisjon 02.08 eller 02.10),fisk (herunder lever, rogn og melke) eller krepsdyr, bløtdyr og andre virvelløse akvatiske dyr, døde og uegnet til konsum på grunn av deres art eller tilstand (kapittel 5), mel, pulver og pelleter av fisk, krepsdyr, bløtdyr og andre virvelløse akvatiske dyr, uegnet til konsum (posisjon 23.01), ellerkaviar eller kaviarerstatninger som er framstilt av rogn (posisjon 16.04).
+1. Dette kapittelet omfatter ikke
+
+   1. pattedyr som hører inn under posisjon 01.06,
+   2. kjøtt av pattedyr som hører inn under posisjon 01.06 (posisjon 02.08 eller 02.10),
+   3. fisk (herunder lever, rogn og melke) eller krepsdyr, bløtdyr og andre virvelløse akvatiske dyr, døde og uegnet til konsum på grunn av deres art eller tilstand (kapittel 5), mel, pulver og pelleter av fisk, krepsdyr, bløtdyr og andre virvelløse akvatiske dyr, uegnet til konsum (posisjon 23.01), eller
+   4. kaviar eller kaviarerstatninger som er framstilt av rogn (posisjon 16.04).
 2. I dette kapittelet betyr «pelleter» produkter som er blitt agglomerert enten direkte ved kompresjon eller ved tilsetning av en liten mengde bindemiddel.
 3. Posisjonene 03.05 til 03.08 omfatter ikke mel, pulver eller pellets, egnet til konsum (posisjon 03.09).»
 
@@ -295,16 +356,33 @@ Melk og melkeprodukter, fugleegg, naturlig honning og spiselige produkter av ani
 
 1. Med «melk» menes helmelk eller helt eller delvis skummet melk.
 2. Med henblikk på posisjon 04.03 kan yoghurt være konsentrert eller aromatisert og kan inneholde tilsatt sukker eller annet søtningsmiddel, frukt, nøtter, kakao, sjokolade, krydder, kaffe eller kaffeekstrakter, planter, plantedeler, korn eller bakervarer, forutsatt at ethvert tilsatt stoff ikke brukes til å erstatte, helt eller delvis, noen melkebestanddel, og at produktet beholder yoghurtens vesentlige karakter.
-3. Under posisjon 04.05 menes med«smør» naturlig smør, myssmør eller rekombinert smør (ferskt, saltet eller harskt, herunder smør i hermetisk lukkede beholdere), utelukkende framstilt av melk, med et melkefettinnhold på 80 vektprosent eller mer, men høyst 95 vektprosent, med et innhold av fettfritt melketørrstoff på høyst 2 vektprosent og med et vanninnhold på høyst 16 vektprosent. Smør inneholder ikke tilsatte emulgatorer, men kan inneholde natriumklorid, fargestoffer til bruk i næringsmidler, nøytraliseringssalter og kulturer av uskadelige melkesyreproduserende bakterier,«smørbare melkefettprodukter» smørbare emulsjoner av typen vann i olje med melkefett som det eneste fettstoffet i produktet, og der melkefettinnholdet er minst 39 vektprosent, men mindre enn 80 vektprosent.
-4. Produkter som er framstilt av mysekonsentrasjon og tilsatt melk eller melkefett, skal klassifiseres som ost under posisjon 04.06, forutsatt at de har følgende tre egenskaper:Et melkefettinnhold som er beregnet av tørrstoffet, på minst 5 vektprosent.Et tørrstoffinnhold på minst 70 vektprosent, men på høyst 85 vektprosent.De er formet eller kan formes.
-5. Dette kapittelet omfatter ikkeikke-levende insekter, uegnet til konsum (posisjon 05.11),produkter framstilt av myse og som inneholder mer enn 95 vektprosent laktose, uttrykt som vannfri laktose, beregnet av tørrstoffet (posisjon 17.02),produkter framstilt av melk ved å erstatte én eller flere av dens naturlige bestanddeler (f.eks. melkefett) med et annet stoff (f.eks. vegetabilsk fett) (posisjon 19.01 eller 21.06), elleralbuminer (herunder konsentrater av to eller flere myseproteiner som inneholder mer enn 80 vektprosent myseprotein, beregnet av tørrstoffet) (posisjon 35.02) eller globuliner (posisjon 35.04).
+3. Under posisjon 04.05 menes med
+
+   1. «smør» naturlig smør, myssmør eller rekombinert smør (ferskt, saltet eller harskt, herunder smør i hermetisk lukkede beholdere), utelukkende framstilt av melk, med et melkefettinnhold på 80 vektprosent eller mer, men høyst 95 vektprosent, med et innhold av fettfritt melketørrstoff på høyst 2 vektprosent og med et vanninnhold på høyst 16 vektprosent. Smør inneholder ikke tilsatte emulgatorer, men kan inneholde natriumklorid, fargestoffer til bruk i næringsmidler, nøytraliseringssalter og kulturer av uskadelige melkesyreproduserende bakterier,
+   2. «smørbare melkefettprodukter» smørbare emulsjoner av typen vann i olje med melkefett som det eneste fettstoffet i produktet, og der melkefettinnholdet er minst 39 vektprosent, men mindre enn 80 vektprosent.
+4. Produkter som er framstilt av mysekonsentrasjon og tilsatt melk eller melkefett, skal klassifiseres som ost under posisjon 04.06, forutsatt at de har følgende tre egenskaper:
+
+   1. Et melkefettinnhold som er beregnet av tørrstoffet, på minst 5 vektprosent.
+   2. Et tørrstoffinnhold på minst 70 vektprosent, men på høyst 85 vektprosent.
+   3. De er formet eller kan formes.
+5. Dette kapittelet omfatter ikke
+
+   1. ikke-levende insekter, uegnet til konsum (posisjon 05.11),
+   2. produkter framstilt av myse og som inneholder mer enn 95 vektprosent laktose, uttrykt som vannfri laktose, beregnet av tørrstoffet (posisjon 17.02),
+   3. produkter framstilt av melk ved å erstatte én eller flere av dens naturlige bestanddeler (f.eks. melkefett) med et annet stoff (f.eks. vegetabilsk fett) (posisjon 19.01 eller 21.06), eller
+   4. albuminer (herunder konsentrater av to eller flere myseproteiner som inneholder mer enn 80 vektprosent myseprotein, beregnet av tørrstoffet) (posisjon 35.02) eller globuliner (posisjon 35.04).
 6. Med «insekter» under posisjon 04.10 menes spiselige, ikke-levende insekter, hele eller deler av dem, ferske, kjølte, fryste, tørkede, røkte, saltede eller i saltlake, samt mel og pulver av insekter egnet til konsum. Posisjonen omfatter imidlertid ikke spiselige ikke-levende insekter som på annen måte er bearbeidet eller konservert (generelt avsnitt IV).»
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
 
 «Posisjon 04.08 omfatter hele egg uten skall og eggeplommer av alle fugler. Produktene som hører inn under denne posisjonen, kan være ferske, tørkede, dampkokte eller kokt i vann, formede (f.eks. sylinderformede «langegg»), fryste eller på annen måte konserverte. Alle disse hører inn under posisjonen uansett om de er tilsatt sukker eller annet søtningsmiddel, og uansett om de er beregnet på konsum eller til industriell bruk (f.eks. garving).
 
-Denne posisjonen omfatter ikkeeggolje (posisjon 15.06),tilberedte egg som inneholder smaksingredienser, krydder eller andre tilsetningsstoffer (posisjon 21.06),lecitin (posisjon 29.23),separat eggehvite (eggalbumin) (posisjon 35.02).
+Denne posisjonen omfatter ikke
+
+1. eggolje (posisjon 15.06),
+2. tilberedte egg som inneholder smaksingredienser, krydder eller andre tilsetningsstoffer (posisjon 21.06),
+3. lecitin (posisjon 29.23),
+4. separat eggehvite (eggalbumin) (posisjon 35.02).
 
 ...
 
@@ -314,7 +392,16 @@ Posisjon 04.09 omfatter ikke kunsthonning eller blandinger av naturlig honning o
 
 ...
 
-Posisjon 04.10 omfatter insekter (som definert i merknad 6 til dette kapittelet) og andre produkter av animalsk opprinnelse egnet til konsum som ikke er angitt eller tatt med andre steder i Den kombinerte nomenklatur. Ikke-levende insekter som er uegnet til konsum (herunder mel og pulver av disse), er imidlertid klassifisert under posisjon 05.11. Dette omfatter:Skilpaddeegg. Dette er egg som legges av elve- eller havskilpadder; de kan være friske, tørkede eller konservert på annen måte.Olje av skilpaddeegg omfattes ikke (posisjon 15.06).Salanganreder (fuglereder). Disse består av et stoff som utskilles av fugler, og som størkner hurtig ved eksponering for luft.Redene kan være ubehandlet, eller de kan være rengjort for å fjerne fjær, dun, støv og andre urenheter for å gjøre dem egnet til konsum. De forekommer vanligvis i form av hvitaktige strimler eller tråder.Salanganreder har et høyt proteininnhold og brukes nesten utelukkende til å lage supper eller andre næringsmidler.
+Posisjon 04.10 omfatter insekter (som definert i merknad 6 til dette kapittelet) og andre produkter av animalsk opprinnelse egnet til konsum som ikke er angitt eller tatt med andre steder i Den kombinerte nomenklatur. Ikke-levende insekter som er uegnet til konsum (herunder mel og pulver av disse), er imidlertid klassifisert under posisjon 05.11. Dette omfatter:
+
+1. Skilpaddeegg. Dette er egg som legges av elve- eller havskilpadder; de kan være friske, tørkede eller konservert på annen måte.
+
+   Olje av skilpaddeegg omfattes ikke (posisjon 15.06).
+2. Salanganreder (fuglereder). Disse består av et stoff som utskilles av fugler, og som størkner hurtig ved eksponering for luft.
+
+   Redene kan være ubehandlet, eller de kan være rengjort for å fjerne fjær, dun, støv og andre urenheter for å gjøre dem egnet til konsum. De forekommer vanligvis i form av hvitaktige strimler eller tråder.
+
+   Salanganreder har et høyt proteininnhold og brukes nesten utelukkende til å lage supper eller andre næringsmidler.
 
 Posisjon 04.10 omfatter ikke dyreblod, uansett om det er spiselig eller ikke, flytende eller tørket (posisjon 05.11 eller 30.02).»
 
@@ -350,18 +437,32 @@ Produkter av animalsk opprinnelse som ikke er angitt eller tatt med andre steder
 
 **Generelle merknader**
 
-Særlige krav til visse produkter i dette kapittelet er fastsatt i tabell 2 i kapittel II avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142).Rad 7: grisebust.Rad 8: ubehandlet ull og hår framstilt fra andre dyr enn svin.Rad 9: behandlede fjør, deler av fjør og dun.
+Særlige krav til visse produkter i dette kapittelet er fastsatt i tabell 2 i kapittel II avsnitt 1 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142).
+
+- Rad 7: grisebust.
+- Rad 8: ubehandlet ull og hår framstilt fra andre dyr enn svin.
+- Rad 9: behandlede fjør, deler av fjør og dun.
 
 **Merknader til kapittel 5 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. Dette kapittelet omfatter ikkespiselige produkter (unntatt tarmer, blærer og mager av dyr, hele eller i biter, samt dyreblod, flytende eller tørket),huder og skinn (herunder pelsskinn), unntatt varer som hører inn under posisjon 05.05, avskjær og lignende avfall av ubehandlede huder eller skinn som hører inn under posisjon 05.11 (kapittel 41 eller 43),animalske tekstilfibrer, unntatt hestehår og avfall av hestehår (avsnitt XI), ellerbunter for å lage børster (posisjon 96.03)....
+1. Dette kapittelet omfatter ikke
+
+   1. spiselige produkter (unntatt tarmer, blærer og mager av dyr, hele eller i biter, samt dyreblod, flytende eller tørket),
+   2. huder og skinn (herunder pelsskinn), unntatt varer som hører inn under posisjon 05.05, avskjær og lignende avfall av ubehandlede huder eller skinn som hører inn under posisjon 05.11 (kapittel 41 eller 43),
+   3. animalske tekstilfibrer, unntatt hestehår og avfall av hestehår (avsnitt XI), eller
+   4. bunter for å lage børster (posisjon 96.03).
+
+   ...
 2. I nomenklaturen regnes «elfenbein» som støttenner av elefant, flodhest, hvalross, narhval og villsvin, horn av neshorn samt alle typer dyretenner.
 3. I nomenklaturen menes med «hestehår» hår fra maner og haler på dyr av hestefamilien eller storfe. Posisjon 05.11 omfatter blant annet hestehår og avfall av hestehår, også lagt i lag med eller uten støttemateriale.»
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
 
-«Posisjon 05.05 omfatterskinn og andre deler av fjør- eller dunkledde fugler (for eksempel hoder og vinger), ogfjør og deler av fjør (med eller uten avskårne kanter) og dun,
-forutsatt at de enten er ubehandlet, eller bare renset, desinfisert eller behandlet med sikte på bevaring, men ikke behandlet på annen måte eller montert.
+«Posisjon 05.05 omfatter
+
+1. skinn og andre deler av fjør- eller dunkledde fugler (for eksempel hoder og vinger), og
+2. fjør og deler av fjør (med eller uten avskårne kanter) og dun,
+   forutsatt at de enten er ubehandlet, eller bare renset, desinfisert eller behandlet med sikte på bevaring, men ikke behandlet på annen måte eller montert.
 
 Posisjon 05.05 omfatter også pulver, mel og avfall av fjør og deler av fjør.»
 
@@ -441,7 +542,11 @@ Animalske, vegetabilske eller mikrobielle oljer og fettstoffer samt spaltningspr
 
 **Generelle merknader**
 
-Alle animalske fettstoffer og oljer. Særlige krav til følgende produkter er fastsatt i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142):Utsmeltet fett og fiskeolje i rad 3 i tabell 1 i kapittel I avsnitt 1.Utsmeltet fett fra kategori 2-materiale for visse formål utenfor fôrkjeden for produksjonsdyr (for eksempel til oleokjemiske formål) i rad 17 i tabell 2 i kapittel II avsnitt 1.Fettderivater i rad 18 i tabell 2 i kapittel II avsnitt 1.
+Alle animalske fettstoffer og oljer. Særlige krav til følgende produkter er fastsatt i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142):
+
+1. Utsmeltet fett og fiskeolje i rad 3 i tabell 1 i kapittel I avsnitt 1.
+2. Utsmeltet fett fra kategori 2-materiale for visse formål utenfor fôrkjeden for produksjonsdyr (for eksempel til oleokjemiske formål) i rad 17 i tabell 2 i kapittel II avsnitt 1.
+3. Fettderivater i rad 18 i tabell 2 i kapittel II avsnitt 1.
 
 Fettderivater omfatter produkter av fettstoffer og oljer som har gjennomgått første bearbeiding, når de i ren tilstand er framstilt ved hjelp av en metode fastsatt i kapittel XI nr. 1 i vedlegg XIII til forordning [(EU) nr. 142/2011](eu/32011r0142).
 
@@ -449,7 +554,14 @@ Derivater som er blandet med andre materialer, omfattes av offentlig kontroll.
 
 **Merknader til kapittel 15 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. Dette kapittelet omfatter ikkesvinefett eller fjørfefett som hører inn under posisjon 02.09,kakaosmør, -fett og -olje (posisjon 18.04),spiselige tilberedninger som inneholder mer enn 15 vektprosent av de produktene som hører inn under posisjon 04.05 (vanligvis kapittel 21),fettgrever (posisjon 23.01) eller rester som hører inn under posisjon 23.04–23.06....
+1. Dette kapittelet omfatter ikke
+
+   1. svinefett eller fjørfefett som hører inn under posisjon 02.09,
+   2. kakaosmør, -fett og -olje (posisjon 18.04),
+   3. spiselige tilberedninger som inneholder mer enn 15 vektprosent av de produktene som hører inn under posisjon 04.05 (vanligvis kapittel 21),
+   4. fettgrever (posisjon 23.01) eller rester som hører inn under posisjon 23.04–23.06.
+
+   ...
 2. Posisjon 15.18 omfatter ikke fettstoffer, oljer eller fraksjoner av disse som bare er denaturert, og slike produkter skal klassifiseres under samme posisjon som tilsvarende udenaturerte fettstoffer, oljer og fraksjonene av disse.
 3. Nøytralisasjonsmasser («soap-stocks»), oljefot og bunnfall, stearinbek, glyserolbek og ullfettbek hører under posisjon 15.22.»
 
@@ -525,7 +637,10 @@ Sukker og sukkervarer
 
 **Merknader til kapittel 17 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. Dette kapittelet omfatter ikkesukkervarer som inneholder kakao (posisjon 18.06),kjemisk rene sukkerarter (unntatt sukrose, laktose, maltose, glukose og fruktose) eller andre produkter som hører inn under posisjon 29.40,»
+1. Dette kapittelet omfatter ikke
+
+   1. sukkervarer som inneholder kakao (posisjon 18.06),
+   2. kjemisk rene sukkerarter (unntatt sukrose, laktose, maltose, glukose og fruktose) eller andre produkter som hører inn under posisjon 29.40,»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -539,7 +654,10 @@ Kakao og tilberedte produkter av kakao
 
 **Merknader til kapittel 18 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. Dette kapittelet omfatter ikkenæringsmidler som inneholder mer enn 20 vektprosent pølse, kjøtt, slakteavfall, blod, insekter, fisk eller krepsdyr, bløtdyr eller andre virvelløse akvatiske dyr, eller en blanding av disse produktene (kapittel 16),tilberedte produkter som hører inn under posisjon 04.03, 19.01, 19.02, 19.04, 19.05, 21.05, 22.02, 22.08, 30.03 eller 30.04.
+1. Dette kapittelet omfatter ikke
+
+   1. næringsmidler som inneholder mer enn 20 vektprosent pølse, kjøtt, slakteavfall, blod, insekter, fisk eller krepsdyr, bløtdyr eller andre virvelløse akvatiske dyr, eller en blanding av disse produktene (kapittel 16),
+   2. tilberedte produkter som hører inn under posisjon 04.03, 19.01, 19.02, 19.04, 19.05, 21.05, 22.02, 22.08, 30.03 eller 30.04.
 2. Posisjon 18.06 omfatter sukkervarer som inneholder kakao og, med forbehold for merknad 1 til dette kapittelet, andre næringsmidler som inneholder kakao.»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
@@ -552,7 +670,9 @@ Tilberedte produkter av korn, mel, stivelse eller melk; bakverk
 
 **Merknader til kapittel 19 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. Dette kapittelet omfatter ikkenæringsmidler som inneholder mer enn 20 vektprosent pølse, kjøtt, slakteavfall, blod, fisk eller krepsdyr, bløtdyr eller andre virvelløse akvatiske dyr, eller en blanding av disse produktene (kapittel 16), unntatt fylte produkter som hører inn under posisjon 19.02.»
+1. Dette kapittelet omfatter ikke
+
+   1. næringsmidler som inneholder mer enn 20 vektprosent pølse, kjøtt, slakteavfall, blod, fisk eller krepsdyr, bløtdyr eller andre virvelløse akvatiske dyr, eller en blanding av disse produktene (kapittel 16), unntatt fylte produkter som hører inn under posisjon 19.02.»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -583,7 +703,9 @@ Tilberedte produkter av grønnsaker, frukt, nøtter eller andre plantedeler
 **Merknader til kapittel 20 (utdrag fra merknadene til dette kapittelet i KN)**
 
 1. Dette kapittelet omfatter ikke
-...næringsmidler som inneholder mer enn 20 vektprosent pølse, kjøtt, slakteavfall, blod, insekter, fisk eller krepsdyr, bløtdyr eller andre virvelløse akvatiske dyr, eller en blanding av disse produktene (kapittel 16).»
+   ...
+
+   1. næringsmidler som inneholder mer enn 20 vektprosent pølse, kjøtt, slakteavfall, blod, insekter, fisk eller krepsdyr, bløtdyr eller andre virvelløse akvatiske dyr, eller en blanding av disse produktene (kapittel 16).»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -599,12 +721,18 @@ Diverse spiselige tilberedninger
 **Merknader til kapittel 21 (utdrag fra merknadene til dette kapittelet i KN)**
 
 1. Dette kapittelet omfatter ikke
-...næringsmidler som inneholder mer enn 20 vektprosent pølse, kjøtt, slakteavfall, blod, insekter, fisk eller krepsdyr, bløtdyr eller andre virvelløse dyr som lever i vann, eller en blanding av disse produktene (kapittel 16), unntatt de produktene som er beskrevet under posisjon 2103 eller 2104....
+   ...
+
+   1. næringsmidler som inneholder mer enn 20 vektprosent pølse, kjøtt, slakteavfall, blod, insekter, fisk eller krepsdyr, bløtdyr eller andre virvelløse dyr som lever i vann, eller en blanding av disse produktene (kapittel 16), unntatt de produktene som er beskrevet under posisjon 2103 eller 2104.
+
+   ...
 2. Med «homogeniserte, sammensatte næringsmidler» under posisjon 21.04 menes tilberedninger som består av en fint homogenisert blanding av to eller flere basisstoffer, som kjøtt, fisk, grønnsaker, frukt eller nøtter, egnet for spedbarn og småbarn eller diettformål, i pakninger på høyst 250 g for detaljsalg. Ved anvendelse av denne definisjonen skal det ses bort fra små mengder bestanddeler som kan være tilsatt som smaksingredienser, konserveringsmiddel eller av andre årsaker. Slike tilberedninger kan inneholde små mengder synlige biter av ingredienser.
 
 **Tilleggsmerknader**
 
-...Andre næringsmidler i form av doser, som kapsler, tabletter, pastiller og piller, og som er beregnet på bruk som kosttilskudd, skal klassifiseres under posisjon 21.06, dersom de ikke er angitt eller tatt med andre steder.»
+...
+
+1. Andre næringsmidler i form av doser, som kapsler, tabletter, pastiller og piller, og som er beregnet på bruk som kosttilskudd, skal klassifiseres under posisjon 21.06, dersom de ikke er angitt eller tatt med andre steder.»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -718,7 +846,11 @@ Gjødsel
 
 **Merknader til kapittel 31 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. Dette kapittelet omfatter ikkedyreblod under posisjon 0511....»
+1. Dette kapittelet omfatter ikke
+
+   1. dyreblod under posisjon 0511.
+
+   ...»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -811,7 +943,11 @@ Særlige krav til huder og skinn av hovdyr er fastsatt i rad 4 og 5 i tabell 2 i
 
 **Merknader til kapittel 41 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. Dette kapittelet omfatter ikkeavskjær og lignende avfall av ubehandlede huder eller skinn (posisjon 05.11),fugleskinn eller deler av fugleskinn med fjør eller dun som hører inn under posisjon 05.05 eller 67.01, ellerhuder og skinn som er dekket av hår eller ull, rå, garvede eller ubehandlede (kapittel 43); følgende varer skal imidlertid klassifiseres i kapittel 41, det vil si rå huder og skinn som er dekket av hår eller ull, av storfe (herunder bøfler), hestedyr, sau eller lam (unntatt astrakan, breitschwanz, karakul, persianer og lignende lammeskinn, samt skinn av indiske, kinesiske, mongolske eller tibetanske lam), geiter og kje (unntatt huder og skinn av geiter og kje fra Jemen, Mongolia eller Tibet), svin (herunder navlesvin), gemser, gaseller, kameler (herunder dromedarer), reinsdyr, elg, dyr av hjortefamilien, rådyr eller hunder.»
+1. Dette kapittelet omfatter ikke
+
+   1. avskjær og lignende avfall av ubehandlede huder eller skinn (posisjon 05.11),
+   2. fugleskinn eller deler av fugleskinn med fjør eller dun som hører inn under posisjon 05.05 eller 67.01, eller
+   3. huder og skinn som er dekket av hår eller ull, rå, garvede eller ubehandlede (kapittel 43); følgende varer skal imidlertid klassifiseres i kapittel 41, det vil si rå huder og skinn som er dekket av hår eller ull, av storfe (herunder bøfler), hestedyr, sau eller lam (unntatt astrakan, breitschwanz, karakul, persianer og lignende lammeskinn, samt skinn av indiske, kinesiske, mongolske eller tibetanske lam), geiter og kje (unntatt huder og skinn av geiter og kje fra Jemen, Mongolia eller Tibet), svin (herunder navlesvin), gemser, gaseller, kameler (herunder dromedarer), reinsdyr, elg, dyr av hjortefamilien, rådyr eller hunder.»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -828,7 +964,13 @@ Varer av lær, salmakerarbeider, reiseeffekter, håndvesker og lignende varer, v
 
 **Merknader til kapittel 42 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. Dette kapittelet omfatter ikkeSteril, kirurgisk katgut eller lignende sterile suturmaterialer (posisjon 30.06)....Strenger, trommeskinn eller lignende, eller andre deler til musikkinstrumenter (posisjon 92.09).»
+1. Dette kapittelet omfatter ikke
+
+   1. Steril, kirurgisk katgut eller lignende sterile suturmaterialer (posisjon 30.06).
+
+   ...
+
+   1. Strenger, trommeskinn eller lignende, eller andre deler til musikkinstrumenter (posisjon 92.09).»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -842,7 +984,10 @@ Pelsskinn og kunstig pelsskinn samt varer av disse materialene
 **Merknader til kapittel 43 (utdrag fra merknadene til dette kapittelet i KN)**
 
 1. Med «pelsskinn» menes i hele nomenklaturen garvede eller behandlede huder og skinn dekket med hår, fra alle dyrearter, unntatt ubehandlede pelsskinn som hører inn under kode 43.01.
-2. Dette kapittelet omfatter ikkefugleskinn eller deler av fugleskinn med fjør eller dun (posisjon 05.05 eller 67.01),ubehandlede huder eller skinn som er dekket av hår eller ull, som hører inn under kapittel 41 (se merknad 1 bokstav c) i nevnte kapittel).»
+2. Dette kapittelet omfatter ikke
+
+   1. fugleskinn eller deler av fugleskinn med fjør eller dun (posisjon 05.05 eller 67.01),
+   2. ubehandlede huder eller skinn som er dekket av hår eller ull, som hører inn under kapittel 41 (se merknad 1 bokstav c) i nevnte kapittel).»
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
 
@@ -868,7 +1013,11 @@ For posisjon 51.01–51.03 er det fastsatt særlige krav til ubehandlet ull og u
 
 **Merknad til kapittel 51 (utdrag fra merknadene til dette kapittelet i KN)**
 
-1. I hele nomenklaturen menes med«ull» naturlig fiber fra sau eller lam,«fine dyrehår» hår av alpakka, lama, vikunja, kamel, herunder dromedar, jak, angora-, tibet-, eller kasjmirgeit eller lignende geiter (men ikke alminnelige geiter), kanin (herunder angorakanin), hare, bever, beverrotte eller bisamrotte,«grove dyrehår» hår av dyr som ikke er nevnt ovenfor, unntatt hår og bust til børstebinderarbeider (posisjon 05.02) og hestehår (posisjon 05.11).»
+1. I hele nomenklaturen menes med
+
+   1. «ull» naturlig fiber fra sau eller lam,
+   2. «fine dyrehår» hår av alpakka, lama, vikunja, kamel, herunder dromedar, jak, angora-, tibet-, eller kasjmirgeit eller lignende geiter (men ikke alminnelige geiter), kanin (herunder angorakanin), hare, bever, beverrotte eller bisamrotte,
+   3. «grove dyrehår» hår av dyr som ikke er nevnt ovenfor, unntatt hår og bust til børstebinderarbeider (posisjon 05.02) og hestehår (posisjon 05.11).»
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
 
@@ -886,7 +1035,15 @@ Bearbeidede fjør og dun samt varer framstilt av fjør og dun, kunstige blomster
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
 
-«Posisjon 67.01 omfatter følgende:Skinn og andre deler av fjør- eller dunkledde fugler, fjør og dun, og deler av fjør, som selv om de ennå ikke utgjør konfeksjonsvarer, har gjennomgått en annen prosess enn enkel rengjøring, desinfisering eller konservering (se forklarende merknader til posisjon 05.05). Varene som hører inn under denne posisjonen, kan f.eks. være bleket, farget, krøllet eller bølget.Varer framstilt av skinn eller andre deler av fjør- eller dunkledde fugler, varer framstilt av fjør, av dun eller av deler av fjør, selv om fjørene eller dunene o.l. er ubearbeidet eller bare rengjort, men omfatter ikke varer framstilt av fjørskaft eller fjørposer. Posisjonen omfatter derfor følgende:Enkelte fjør, der fjørposene er blitt samlet eller buntet med sikte på bruk til f.eks. hattemakeri, og også enkelte sammensatte fjør bestående av forskjellige elementer.Fjør som er samlet i bunter, og fjør eller dun som er limt sammen og festet på tekstilstoff eller annet underlag.Pynt laget av fugler, deler av fugler, fjør eller dun, til hatter, boaer, krager, kapper eller andre klær eller tilbehør til klær.Vifter framstilt av pyntefjør, med stamme av hvilket som helst materiale. Vifter med stamme av edelmetall er imidlertid klassifisert under posisjon 71.13.»
+«Posisjon 67.01 omfatter følgende:
+
+1. Skinn og andre deler av fjør- eller dunkledde fugler, fjør og dun, og deler av fjør, som selv om de ennå ikke utgjør konfeksjonsvarer, har gjennomgått en annen prosess enn enkel rengjøring, desinfisering eller konservering (se forklarende merknader til posisjon 05.05). Varene som hører inn under denne posisjonen, kan f.eks. være bleket, farget, krøllet eller bølget.
+2. Varer framstilt av skinn eller andre deler av fjør- eller dunkledde fugler, varer framstilt av fjør, av dun eller av deler av fjør, selv om fjørene eller dunene o.l. er ubearbeidet eller bare rengjort, men omfatter ikke varer framstilt av fjørskaft eller fjørposer. Posisjonen omfatter derfor følgende:
+
+   1. Enkelte fjør, der fjørposene er blitt samlet eller buntet med sikte på bruk til f.eks. hattemakeri, og også enkelte sammensatte fjør bestående av forskjellige elementer.
+   2. Fjør som er samlet i bunter, og fjør eller dun som er limt sammen og festet på tekstilstoff eller annet underlag.
+   3. Pynt laget av fugler, deler av fugler, fjør eller dun, til hatter, boaer, krager, kapper eller andre klær eller tilbehør til klær.
+   4. Vifter framstilt av pyntefjør, med stamme av hvilket som helst materiale. Vifter med stamme av edelmetall er imidlertid klassifisert under posisjon 71.13.»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -926,7 +1083,10 @@ Diverse varer
 
 Med henblikk på posisjon 96.01 menes med «behandlet» materialer som har gjennomgått prosesser som strekker seg utover den enkle bearbeidingen som er tillatt under posisjonen for det aktuelle råstoffet (se de forklarende merknadene til posisjon 05.05–05.08). Posisjon 96.01 omfatter derfor stykker av elfenbein, stenger osv., tilskåret (herunder kvadratiske eller rektangulære) eller polert eller på annen måte behandlet ved sliping, boring, maling, dreiing osv. Stykker som kan identifiseres som deler av varer, er imidlertid unntatt fra posisjon 96.01 dersom disse delene omfattes av en annen posisjon i nomenklaturen. Derfor hører pianotangenter og plater som settes inn i kolben på skytevåpen, inn under henholdsvis posisjon 92.09 og 93.05. Imidlertid vil behandlede materialer som ikke kan identifiseres som deler av varer, fortsatt klassifiseres under posisjon 96.01 (f.eks. enkle skiver, plater eller strimler til innsetting osv., eller til senere bruk ved framstilling av pianotangenter).
 
-Posisjon 96.02 omfatter plater av uherdet gelatin tilskåret i annen form enn kvadratisk eller rektangulær. Plater tilskåret i rektangulær (herunder kvadratisk) form, også overflatebehandlet, hører inn under posisjon 35.03 eller kapittel 49 (f.eks. postkort) (se den forklarende merknaden til posisjon 35.03). Produkter av uherdet gelatin omfatter for eksempelsmå skiver til å feste på spissen av en biljardkø,kapsler til legemidler og brennstoff til mekaniske lightere.»
+Posisjon 96.02 omfatter plater av uherdet gelatin tilskåret i annen form enn kvadratisk eller rektangulær. Plater tilskåret i rektangulær (herunder kvadratisk) form, også overflatebehandlet, hører inn under posisjon 35.03 eller kapittel 49 (f.eks. postkort) (se den forklarende merknaden til posisjon 35.03). Produkter av uherdet gelatin omfatter for eksempel
+
+1. små skiver til å feste på spissen av en biljardkø,
+2. kapsler til legemidler og brennstoff til mekaniske lightere.»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -938,7 +1098,14 @@ Kunstverk, samlerobjekter og antikviteter
 
 **Utdrag fra de forklarende merknadene til det harmoniserte systemet**
 
-1. Posisjonen omfatter samlinger og samlerobjekter av zoologisk, botanisk, mineralogisk eller anatomisk interesse, for eksempeldøde dyr av alle arter, konservert tørre eller i væske; utstoppede dyr til samlinger,utblåste egg; insekter i kasser, rammer osv. (unntatt monterte varer som utgjør bijouteri eller nips); tomme skjell, unntatt slike som er egnet til industriell bruk,frø eller planter, tørket eller konservert i væske, herbarier,eksemplarer av mineraler (unntatt edelsteiner eller halvedelsteiner som hører inn under kapittel 71), eksemplarer av forsteininger,osteologiske prøver (skjelett, kranier, bein),anatomiske og patologiske prøver.»
+1. Posisjonen omfatter samlinger og samlerobjekter av zoologisk, botanisk, mineralogisk eller anatomisk interesse, for eksempel
+
+   1. døde dyr av alle arter, konservert tørre eller i væske; utstoppede dyr til samlinger,
+   2. utblåste egg; insekter i kasser, rammer osv. (unntatt monterte varer som utgjør bijouteri eller nips); tomme skjell, unntatt slike som er egnet til industriell bruk,
+   3. frø eller planter, tørket eller konservert i væske, herbarier,
+   4. eksemplarer av mineraler (unntatt edelsteiner eller halvedelsteiner som hører inn under kapittel 71), eksemplarer av forsteininger,
+   5. osteologiske prøver (skjelett, kranier, bein),
+   6. anatomiske og patologiske prøver.»
 
 | *KN-kode* | *Norsk tollposisjon* | *Beskrivelse* | *Avgrensning og forklaring* |
 | --- | --- | --- | --- |
@@ -1017,15 +1184,26 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål
 
-Denne forordningen fastsetter regler fori hvilke tilfeller og på hvilke vilkår sammensatte produkter er unntatt fra offentlig kontroll på grensekontrollstasjoner, og når slike unntak er berettiget,gjennomføring av særskilt offentlig kontroll av sammensatte produkter som er unntatt fra offentlig kontroll på grensekontrollstasjonene.
+Denne forordningen fastsetter regler for
+
+1. i hvilke tilfeller og på hvilke vilkår sammensatte produkter er unntatt fra offentlig kontroll på grensekontrollstasjoner, og når slike unntak er berettiget,
+2. gjennomføring av særskilt offentlig kontroll av sammensatte produkter som er unntatt fra offentlig kontroll på grensekontrollstasjonene.
 
 ### Artikkel 2. Definisjoner
 
-I denne forordningen menes med«sammensatt produkt» et sammensatt produkt som definert i artikkel 2 nr. 14 i delegert forordning [(EU) 2019/625](eu/32019r0625),«langtidsholdbare sammensatte produkter» produkter som ikke trenger å transporteres eller lagres ved kontrollert temperatur.
+I denne forordningen menes med
+
+1. «sammensatt produkt» et sammensatt produkt som definert i artikkel 2 nr. 14 i delegert forordning [(EU) 2019/625](eu/32019r0625),
+2. «langtidsholdbare sammensatte produkter» produkter som ikke trenger å transporteres eller lagres ved kontrollert temperatur.
 
 ### Artikkel 3. Sammensatte produkter som er unntatt fra offentlig kontroll på grensekontrollstasjoner
 
-1\. Langtidsholdbare sammensatte produkter som ikke inneholder kjøtt og er oppført i vedlegget, skal være unntatt fra offentlig kontroll på grensekontrollstasjoner dersom produktene oppfyller alle følgende krav:De oppfyller kravene ved innførsel til Unionen fastsatt i avdeling 12 nr. 2 bokstav c) i delegert forordning [(EU) 2019/625](eu/32019r0625).Eventuelle melke- og eggprodukter som inngår i de langtidsholdbare sammensatte produktene har gjennomgått en behandling i samsvar med artikkel 163 bokstav a) i delegert forordning [(EU) 2020/692](eu/32020r0692).De er merket med at de er beregnet på konsum.De er pakket eller forseglet på en forsvarlig måte.
+1\. Langtidsholdbare sammensatte produkter som ikke inneholder kjøtt og er oppført i vedlegget, skal være unntatt fra offentlig kontroll på grensekontrollstasjoner dersom produktene oppfyller alle følgende krav:
+
+1. De oppfyller kravene ved innførsel til Unionen fastsatt i avdeling 12 nr. 2 bokstav c) i delegert forordning [(EU) 2019/625](eu/32019r0625).
+2. Eventuelle melke- og eggprodukter som inngår i de langtidsholdbare sammensatte produktene har gjennomgått en behandling i samsvar med artikkel 163 bokstav a) i delegert forordning [(EU) 2020/692](eu/32020r0692).
+3. De er merket med at de er beregnet på konsum.
+4. De er pakket eller forseglet på en forsvarlig måte.
 
 ►**M4**
 
@@ -1039,13 +1217,20 @@ I denne forordningen menes med«sammensatt produkt» et sammensatt produkt som d
 
 1\. Vedkommende myndigheter skal regelmessig gjennomføre offentlig kontroll av langtidsholdbare sammensatte produkter nevnt i artikkel 3 nr. 1, på grunnlag av en risikovurdering og med passende hyppighet, idet det tas hensyn til kriteriene nevnt i artikkel 44 nr. 2 i forordning (EU) 2017/625.
 
-2\. Den offentlige kontrollen nevnt i nr. 1 skal gjennomføres på et hvilket som helst av følgende steder innenfor Unionens tollområde:Bestemmelsesstedet.Stedet for frigivelse for fri omsetning i Unionen.Lagrene eller lokalene til den driftsansvarlige som er ansvarlig for forsendelsen.
+2\. Den offentlige kontrollen nevnt i nr. 1 skal gjennomføres på et hvilket som helst av følgende steder innenfor Unionens tollområde:
+
+1. Bestemmelsesstedet.
+2. Stedet for frigivelse for fri omsetning i Unionen.
+3. Lagrene eller lokalene til den driftsansvarlige som er ansvarlig for forsendelsen.
 
 3\. Den offentlige kontrollen nevnt i nr. 1 skal gjennomføres i samsvar med artikkel 45 og 46 i forordning (EU) 2017/625.
 
 ### Artikkel 5. Endringer av vedtak 2007/275/EF
 
-I vedtak [2007/275/EF](eu/32007d0275) gjøres følgende endringer:Artikkel 6 utgår.Vedlegg II utgår.
+I vedtak [2007/275/EF](eu/32007d0275) gjøres følgende endringer:
+
+1. Artikkel 6 utgår.
+2. Vedlegg II utgår.
 
 ### Artikkel 6. Ikrafttredelse og anvendelsesdato
 
@@ -1053,7 +1238,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 21. april 2021.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 16. februar 2021.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 16. februar 2021.
 
 |  |  |
 | --- | --- |

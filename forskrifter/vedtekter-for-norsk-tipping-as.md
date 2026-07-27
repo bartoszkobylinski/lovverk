@@ -62,7 +62,12 @@ Ordinær generalforsamling avholdes hvert år innen utgangen av april måned.
 
 Generalforsamling avholdes i Oslo kommune eller i Hamar kommune. Den som representerer selskapets aksjer er møteleder.
 
-På den ordinære generalforsamlingen skal følgende saker behandles:Selskapets årsberetning og årsregnskap, med uavhengig revisors beretning.Lotteritilsynets rapport om ansvarlig spill og kanalisering i Norsk Tipping.Norsk Tippings rapport om effektiv drift.Andre saker som etter lov eller vedtekter hører under generalforsamlingen.
+På den ordinære generalforsamlingen skal følgende saker behandles:
+
+1. Selskapets årsberetning og årsregnskap, med uavhengig revisors beretning.
+2. Lotteritilsynets rapport om ansvarlig spill og kanalisering i Norsk Tipping.
+3. Norsk Tippings rapport om effektiv drift.
+4. Andre saker som etter lov eller vedtekter hører under generalforsamlingen.
 
 Styret skal forelegge for generalforsamlingen, ordinær eller ekstraordinær, alle saker som antas å være av vesentlig, prinsipiell, politisk eller samfunnsmessig betydning.
 

@@ -15,7 +15,7 @@ xml_hash: "4f68c3b300f258fd3845e232d23b61e3c03c84c0b1d336b6a4e613f18690ca99"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,13 +72,25 @@ Er mora enkje, skal ektefellen reknast som far eller medmor dersom mora kan ha b
 
 Når farskap ikkje følgjer av reglane i [§ 3](lov/1981-04-08-7/§3), kan faren erklære farskap under svangerskapet eller etter at barnet er født.
 
-Faren skal erklære farskapen skriftleg, anten digitalt til arbeids- og velferdsetaten eller ved personleg frammøte forjordmor eller lækjar ved svangerskapskontroll eller fødsel,folkeregistermyndigheita,tilskotsfuten, dommaren eller arbeids- og velferdsetaten, ellerutsend utanrikstenestetilsett, dersom faren er i utlandet.Farskap kan òg erklærast ved retur av skjema frå Arbeids- og velferdsdirektoratet, jf. [§ 11](lov/1981-04-08-7/§11) andre ledd. Arbeids- og velferdsdirektoratet må sende skjema i rekommandert brev eller ved bruk av elektronisk kommunikasjon dersom det er nytta ein betryggande metode for å sikre at skjemaet er mottatt. Erklæringa gjeld berre når ho er gjeven av den som mora har gjeve opp som far, eller når mora skriftleg har godteke erklæringa. Ved digital erklæring må både mor og far identifisere seg elektronisk på ein sikker måte. Den digitale erklæringa er berre gyldig dersom barnet vert født i Noreg.
+Faren skal erklære farskapen skriftleg, anten digitalt til arbeids- og velferdsetaten eller ved personleg frammøte for
+
+1. jordmor eller lækjar ved svangerskapskontroll eller fødsel,
+2. folkeregistermyndigheita,
+3. tilskotsfuten, dommaren eller arbeids- og velferdsetaten, eller
+4. utsend utanrikstenestetilsett, dersom faren er i utlandet.
+
+Farskap kan òg erklærast ved retur av skjema frå Arbeids- og velferdsdirektoratet, jf. [§ 11](lov/1981-04-08-7/§11) andre ledd. Arbeids- og velferdsdirektoratet må sende skjema i rekommandert brev eller ved bruk av elektronisk kommunikasjon dersom det er nytta ein betryggande metode for å sikre at skjemaet er mottatt. Erklæringa gjeld berre når ho er gjeven av den som mora har gjeve opp som far, eller når mora skriftleg har godteke erklæringa. Ved digital erklæring må både mor og far identifisere seg elektronisk på ein sikker måte. Den digitale erklæringa er berre gyldig dersom barnet vert født i Noreg.
 
 Er den som vil erklære farskapen under 18 år, må også dei som har foreldreansvaret for han, skrive under på erklæringa.
 
 Er eit barn fødd etter assistert befruktning, kan moras kvinnelege sambuar erklære medmorskap etter reglane i paragrafen her. Den assisterte befruktninga må ha skjedd innafor godkjent helsestell, og moras kvinnelege sambuar må ha gjeve samtykke til befruktninga. Berre myndige personar kan gi slikt samtykke. Regelen i [§ 3](lov/1981-04-08-7/§3) andre ledd andre punktum gjeld tilsvarande.
 
-Er det naudsynt for å fastslå farskapen til eit barn født i utlandet, kan myndigheita be om ei eigna prøve til DNA-analyse for barnet og for han som vil erklære seg som far, dersombarnet, mora eller han som vil erklære seg som far, ikkje kan godtgjere identiteten sin, ellerdet er grunn til å tru at det for å få norsk statsborgarskap til barnet er gitt urette opplysningar om kven som er far.Det er òg eit vilkår at opplysningane i saka elles ikkje gir grunnlag for med rimeleg sikkerheit å fastslå farskapen. Dersom DNA-analyse godtgjer at mannen ikkje kan vere far til barnet, kan han ikkje erklære farskap. Det same gjeld om han avslår ei oppmoding om DNA-analyse.
+Er det naudsynt for å fastslå farskapen til eit barn født i utlandet, kan myndigheita be om ei eigna prøve til DNA-analyse for barnet og for han som vil erklære seg som far, dersom
+
+1. barnet, mora eller han som vil erklære seg som far, ikkje kan godtgjere identiteten sin, eller
+2. det er grunn til å tru at det for å få norsk statsborgarskap til barnet er gitt urette opplysningar om kven som er far.
+
+Det er òg eit vilkår at opplysningane i saka elles ikkje gir grunnlag for med rimeleg sikkerheit å fastslå farskapen. Dersom DNA-analyse godtgjer at mannen ikkje kan vere far til barnet, kan han ikkje erklære farskap. Det same gjeld om han avslår ei oppmoding om DNA-analyse.
 
 Departementet kan ved forskrift gje utfyllande reglar om gjennomføring av reglane i femte ledd.
 
@@ -276,7 +288,10 @@ Med samtykke frå mor til barnet kan retten gje frifinningsdom for alle menn som
 
 ### § 26. Heving av saka
 
-Retten kan heve saka i orskurd nårein mann erklærer i samsvar med [§ 4](lov/1981-04-08-7/§4) at han er far til barnet, ellerden oppgjevne faren bur i utlandet og det er uråd å få nok opplysningar til å fastsetje farskapen.
+Retten kan heve saka i orskurd når
+
+1. ein mann erklærer i samsvar med [§ 4](lov/1981-04-08-7/§4) at han er far til barnet, eller
+2. den oppgjevne faren bur i utlandet og det er uråd å få nok opplysningar til å fastsetje farskapen.
 
 > Endra med [lov 21 juni 2013 nr. 64](lov/2013-06-21-64) (ikr. 1 jan 2014 iflg. [res. 21 juni 2013 nr. 703](forskrift/2013-06-21-703)).
 
@@ -714,7 +729,16 @@ Avgjerdene vert tekne i orskurd. Det er ikkje nødvendig å halde munnleg forhan
 
 ### § 61. Avgjerder under saksførebuinga
 
-Retten fastset tid for hovudforhandling straks eller etter at eitt eller fleire av tiltaka i nr. 1 til 7 nedanfor er gjennomført.Retten skal som hovudregel innkalle partane til eitt eller fleire førebuande møte for mellom anna å klarleggje tvistepunkta mellom dei, drøfte vidare handsaming av saka og eventuelt mekle mellom partane der saka er eigna for det. Retten kan oppnemne ein sakkunnig til å vere med i dei saksførebuande møta. Retten kan jamvel be den sakkunnige ha samtalar med foreldra og barna og gjere undersøkingar for å klarleggje tilhøva i saka, med mindre foreldra set seg i mot dette. Retten fastset kva den sakkunnige skal gjere, etter at partane har fått høve til å uttale seg.Retten kan vise partane til mekling hos godkjend meklar eller annan person med innsikt i dei tvistepunkta saka gjeld. [§§ 52](lov/1981-04-08-7/§52) og [53](lov/1981-04-08-7/§53) gjeld tilsvarande. Dersom meklaren kjem fram til at partane ikkje kan nå fram til ein avtale gjennom vidare mekling, skal han straks melde frå til retten om dette.Der det trengst, bør retten oppnemne sakkunnig til å uttale seg om eitt eller fleire av spørsmåla som saka reiser. Der det er sett fram påstandar om vald, overgrep, rus eller psykisk liding og saka ikkje er tilstrekkeleg opplyst på anna måte, kan retten oppnemne ein sakkunnig.Dommaren kan gjennomføre samtalar med barnet, jf. [§ 31](lov/1981-04-08-7/§31). Retten kan oppnemne ein sakkunnig eller annan eigna person til å hjelpe seg, eller la ein sakkunnig ha samtale med barnet aleine. Der barnet har formidla meininga si, skal dommaren eller den dommaren peiker ut orientere barnet om utfallet av saka og korleis meininga til barnet har blitt teke omsyn til.Retten kan i særlege høve, mellom anna når det er grunn til å tru at barnet er utsett for vald eller på anna vis blir handsama slik at den fysiske eller psykiske helsa blir utsett for skade eller fare, oppnemne ein advokat eller annan representant til å ta vare på interessene til barnet i samband med søksmålet. Den som er oppnemnd, kan samtale med barnet og skal gje slik informasjon og støtte som er naturleg. Advokaten eller representanten skal få saksdokumenta. Han kan kome med framlegg om handsaminga av saka og skriftleg eller i rettsmøte gje råd om korleis sakshandsaminga best kan ta vare på interessene til barnet. Retten avgjer om og eventuelt kor lenge han skal vere til stades under rettsmøta i saka. Når advokaten eller representanten er til stades i rettsmøta, kan han stille spørsmål til partar og vitne.Retten bør innhente fråsegner frå barnevernet og sosialtenesta der det trengst.Retten kan gje partane høve til å prøve ut ei førebels avtale for ei nærare fastsett tid. Retten kan oppnemne ein sakkunnig eller annan eigna person til å rettleie foreldra i prøvetida.Retten kan gje dom utan hovudforhandling så framt partane samtykkjer til det og retten ser det som forsvarleg.
+Retten fastset tid for hovudforhandling straks eller etter at eitt eller fleire av tiltaka i nr. 1 til 7 nedanfor er gjennomført.
+
+1. Retten skal som hovudregel innkalle partane til eitt eller fleire førebuande møte for mellom anna å klarleggje tvistepunkta mellom dei, drøfte vidare handsaming av saka og eventuelt mekle mellom partane der saka er eigna for det. Retten kan oppnemne ein sakkunnig til å vere med i dei saksførebuande møta. Retten kan jamvel be den sakkunnige ha samtalar med foreldra og barna og gjere undersøkingar for å klarleggje tilhøva i saka, med mindre foreldra set seg i mot dette. Retten fastset kva den sakkunnige skal gjere, etter at partane har fått høve til å uttale seg.
+2. Retten kan vise partane til mekling hos godkjend meklar eller annan person med innsikt i dei tvistepunkta saka gjeld. [§§ 52](lov/1981-04-08-7/§52) og [53](lov/1981-04-08-7/§53) gjeld tilsvarande. Dersom meklaren kjem fram til at partane ikkje kan nå fram til ein avtale gjennom vidare mekling, skal han straks melde frå til retten om dette.
+3. Der det trengst, bør retten oppnemne sakkunnig til å uttale seg om eitt eller fleire av spørsmåla som saka reiser. Der det er sett fram påstandar om vald, overgrep, rus eller psykisk liding og saka ikkje er tilstrekkeleg opplyst på anna måte, kan retten oppnemne ein sakkunnig.
+4. Dommaren kan gjennomføre samtalar med barnet, jf. [§ 31](lov/1981-04-08-7/§31). Retten kan oppnemne ein sakkunnig eller annan eigna person til å hjelpe seg, eller la ein sakkunnig ha samtale med barnet aleine. Der barnet har formidla meininga si, skal dommaren eller den dommaren peiker ut orientere barnet om utfallet av saka og korleis meininga til barnet har blitt teke omsyn til.
+5. Retten kan i særlege høve, mellom anna når det er grunn til å tru at barnet er utsett for vald eller på anna vis blir handsama slik at den fysiske eller psykiske helsa blir utsett for skade eller fare, oppnemne ein advokat eller annan representant til å ta vare på interessene til barnet i samband med søksmålet. Den som er oppnemnd, kan samtale med barnet og skal gje slik informasjon og støtte som er naturleg. Advokaten eller representanten skal få saksdokumenta. Han kan kome med framlegg om handsaminga av saka og skriftleg eller i rettsmøte gje råd om korleis sakshandsaminga best kan ta vare på interessene til barnet. Retten avgjer om og eventuelt kor lenge han skal vere til stades under rettsmøta i saka. Når advokaten eller representanten er til stades i rettsmøta, kan han stille spørsmål til partar og vitne.
+6. Retten bør innhente fråsegner frå barnevernet og sosialtenesta der det trengst.
+7. Retten kan gje partane høve til å prøve ut ei førebels avtale for ei nærare fastsett tid. Retten kan oppnemne ein sakkunnig eller annan eigna person til å rettleie foreldra i prøvetida.
+8. Retten kan gje dom utan hovudforhandling så framt partane samtykkjer til det og retten ser det som forsvarleg.
 
 Staten ber kostnadene til dei tiltaka som er nemnde i første stykket nr. 1, 2, 3, 4, 5 og 7. Sakkunnig som vert oppnemnd etter første stykket skal godtgjerast etter [lov 21. juli 1916 nr. 2](lov/1916-07-21-2) om vidners og sakkyndiges godtgjørelse m.v. Dersom det skal oppnemnast ein advokat for barnet etter første stykket nr. 5, har barnet rett på fri sakførsel utan behovsprøving jf. [rettshjelpsloven § 16](lov/1980-06-13-35/§16) første ledd nr. 6. Departementet kan ved forskrift fastsetje reglar om godtgjering til andre som gjer teneste etter paragrafen her.
 
@@ -906,7 +930,10 @@ Foreldra kan gjere avtale om fostringstilskot til barnet.
 
 Dersom dei ikkje vert samde, kan kvar av dei krevje at tilskotsfuten tek avgjerd om tilskotet. Dette kan dei gjere jamvel om dei opphavleg har gjort avtale om tilskotet, men slik at løpande tilskot berre skal endrast dersom reglane i lova vil medføre ei endring på meir enn 12 prosent. Departementet kan gje forskrift om gebyr der tilskotsfuten tek avgjerd om fastsetjing og endring av fostringstilskot.
 
-Spørsmålet skal likevel avgjerast av domstolanenår nokon av foreldra bed om at det vert gjort i samband med ekteskapssak eller rettssak om foreldreansvar, om kven barnet skal bu saman med eller om samværsrett,når tilskotsfuten viser partane til domstolane, fordi det er meir tenleg etter den karakter saka har.
+Spørsmålet skal likevel avgjerast av domstolane
+
+1. når nokon av foreldra bed om at det vert gjort i samband med ekteskapssak eller rettssak om foreldreansvar, om kven barnet skal bu saman med eller om samværsrett,
+2. når tilskotsfuten viser partane til domstolane, fordi det er meir tenleg etter den karakter saka har.
 
 Når det gjeld tilskot etter [§ 68](lov/1981-04-08-7/§68) andre og tredje stykket til barn som har fylt 18 år, er det barnet sjølv som gjer avtale eller er part i saka.
 
@@ -1026,7 +1053,11 @@ Departementet kan ved forskrift gje utfyllande reglar om tilbakesøking av fostr
 
 ### § 81. Når farskap eller medmorskap kan fastsetjast i Noreg
 
-Farskap og medmorskap kan fastsetjast i Noreg etter [§ 4](lov/1981-04-08-7/§4), [§ 7](lov/1981-04-08-7/§7) og kapitla 3 og 4dersom mora hadde vanleg bustad i Noreg då barnet vart født,dersom barnet seinare har fått vanleg bustad i Noreg, ellerdersom den oppgjevne faren eller medmora har vanleg bustad i Noreg.
+Farskap og medmorskap kan fastsetjast i Noreg etter [§ 4](lov/1981-04-08-7/§4), [§ 7](lov/1981-04-08-7/§7) og kapitla 3 og 4
+
+1. dersom mora hadde vanleg bustad i Noreg då barnet vart født,
+2. dersom barnet seinare har fått vanleg bustad i Noreg, eller
+3. dersom den oppgjevne faren eller medmora har vanleg bustad i Noreg.
 
 Farskap skal ikkje fastsetjast i Noreg dersom partane har nær tilknyting til ein annan stat der dei kan krevje fastsetjing av farskapen, og saka vil bli betre opplyst og handsama i denne staten.
 
@@ -1036,7 +1067,11 @@ Endringssak etter [§ 6](lov/1981-04-08-7/§6) kan reisast for norske domstolar,
 
 ### § 81 a. Når sak om morskap kan handsamast i Noreg
 
-Ei sak om morskap kan handsamast etter [kapittel 4A](lov/1981-04-08-7/kap4a) og [§ 5](lov/1981-04-08-7/§5) tredje stykketdersom barnet har vanleg bustad i Noreg,dersom mora hadde vanleg bustad i Noreg då barnet vart født, ellerdersom mora seinare har fått vanleg bustad i Noreg.
+Ei sak om morskap kan handsamast etter [kapittel 4A](lov/1981-04-08-7/kap4a) og [§ 5](lov/1981-04-08-7/§5) tredje stykket
+
+1. dersom barnet har vanleg bustad i Noreg,
+2. dersom mora hadde vanleg bustad i Noreg då barnet vart født, eller
+3. dersom mora seinare har fått vanleg bustad i Noreg.
 
 > Føyd til med [lov 21 juni 2013 nr. 64](lov/2013-06-21-64) (ikr. 1 jan 2014 iflg. [res. 21 juni 2013 nr. 703](forskrift/2013-06-21-703)), endra med [lov 4 sep 2015 nr. 85](lov/2015-09-04-85) (ikr. 1 juli 2016 iflg. [res. 4 mars 2016 nr. 217](forskrift/2016-03-04-217)).
 
@@ -1052,7 +1087,10 @@ Første og andre stykket gjeld ikkje dersom anna følgjer av overeinskomst med a
 
 ### § 83. Når sak om fostringstilskot kan handsamast i Noreg
 
-Spørsmålet om fostringstilskot kan handsamast av tilskotsfuten eller norsk domstolnår det vert reist i sak om farskap, medmorskap, foreldreansvar, flytting med barnet ut av landet eller samvær for avgjerdsført norsk organdersom ein av partane eller barnet har vanleg bustad i Noreg.
+Spørsmålet om fostringstilskot kan handsamast av tilskotsfuten eller norsk domstol
+
+1. når det vert reist i sak om farskap, medmorskap, foreldreansvar, flytting med barnet ut av landet eller samvær for avgjerdsført norsk organ
+2. dersom ein av partane eller barnet har vanleg bustad i Noreg.
 
 > Endra med lover [3 mars 1989 nr. 8](lov/1989-03-03-8), [20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728), tidlegare § 65), [27 juni 2008 nr. 53](lov/2008-06-27-53) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 745](forskrift/2008-06-27-745)), [4 sep 2015 nr. 85](lov/2015-09-04-85) (ikr. 1 juli 2016 iflg. [res. 4 mars 2016 nr. 217](forskrift/2016-03-04-217)).
 
@@ -1124,7 +1162,10 @@ Lova her tek til å gjelde frå den tid Kongen fastset.1
 
 ### § 88. Kva lova har å seie for barn som er født før lova tek til å gjelde.
 
-Lova gjeld også barn som er født før lova tek til å gjelde. Frå dette er gjort fylgjande unntak:Farskap som fylgjer av eller er fastsett etter tidlegare lovgjeving, skal framleis leggjast til grunn til noko anna vert fastsett etter lova her.Avtale eller avgjerd om foreldreansvar, samværsrett eller fostringsplikt frå tida før lova tek til å gjelde, står framleis ved makt til den i tilfelle vert endra etter lova her. Samværsrett direkte etter [§ 42](lov/1981-04-08-7/§42) andre stykket første punktum gjeld ikkje når foreldra har skilt lag før lova tek til å gjelde.
+Lova gjeld også barn som er født før lova tek til å gjelde. Frå dette er gjort fylgjande unntak:
+
+1. Farskap som fylgjer av eller er fastsett etter tidlegare lovgjeving, skal framleis leggjast til grunn til noko anna vert fastsett etter lova her.
+2. Avtale eller avgjerd om foreldreansvar, samværsrett eller fostringsplikt frå tida før lova tek til å gjelde, står framleis ved makt til den i tilfelle vert endra etter lova her. Samværsrett direkte etter [§ 42](lov/1981-04-08-7/§42) andre stykket første punktum gjeld ikkje når foreldra har skilt lag før lova tek til å gjelde.
 
 – – –
 

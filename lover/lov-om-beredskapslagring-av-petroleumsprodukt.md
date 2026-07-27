@@ -26,7 +26,13 @@ eu_basis: []
 
 For å sikre forsyningane av petroleum og petroleumsprodukt både nasjonalt og internasjonalt kan Kongen i forskrift avgjere at den som her i landet importerer eller produserer petroleumsprodukt og biodrivstoff, pliktar å halde lager av desse produkta.
 
-Kongen kan vidare gi nærare føresegner omkven lagringsplikta gjeld forlagringspliktige produktomfang og oppfylling av lagringspliktabruken av volum som skal beredskapslagrast, ogreglar om rapportering og tilsyn med beredskapslagringa.
+Kongen kan vidare gi nærare føresegner om
+
+1. kven lagringsplikta gjeld for
+2. lagringspliktige produkt
+3. omfang og oppfylling av lagringsplikta
+4. bruken av volum som skal beredskapslagrast, og
+5. reglar om rapportering og tilsyn med beredskapslagringa.
 
 ## § 2.
 

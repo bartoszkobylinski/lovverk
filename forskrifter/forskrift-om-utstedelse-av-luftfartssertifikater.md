@@ -15,7 +15,7 @@ xml_hash: "0423ad8191366c83165cbc781bf4aa930fe3939cd53cd0d17f75ca8d7e189717"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,21 @@ eu_basis: []
 
 Forskriften har følgende vedlegg som gjelder som forskrift:
 
-1. *Til punkt 5:*Praktisk prøve for utstedelse av nasjonalt luftfartssertifikat/-bevis og utvidelse og visse gjenutstedelser av rettigheter tilknyttet nasjonalt sertifikat/bevisPraktisk prøve for forlengelse og visse gjenutstedelser av rettigheter tilknyttet flygersertifikat eller -bevisØvelser ved praktisk prøve, ferdighetsprøve (skilltest) eller ferdighetskontroll (proficiency check) for rettigheter tilknyttet nasjonalt flygersertifikat eller -bevis.
-2. *Til punkt 9:*Mørkeflygingsutdanning på fly for innehavere av PPL-AMørkeflygingsutdanning på helikopter for innehavere av PPL-HSjøflygingSkiflygingAcroflyging.
-3. *Til punkt 11:*Føring av flygetidsbøker, godskriving og attestasjon av flygetid.
+1. *Til punkt 5:*
+
+   1. Praktisk prøve for utstedelse av nasjonalt luftfartssertifikat/-bevis og utvidelse og visse gjenutstedelser av rettigheter tilknyttet nasjonalt sertifikat/bevis
+   2. Praktisk prøve for forlengelse og visse gjenutstedelser av rettigheter tilknyttet flygersertifikat eller -bevis
+   3. Øvelser ved praktisk prøve, ferdighetsprøve (skilltest) eller ferdighetskontroll (proficiency check) for rettigheter tilknyttet nasjonalt flygersertifikat eller -bevis.
+2. *Til punkt 9:*
+
+   1. Mørkeflygingsutdanning på fly for innehavere av PPL-A
+   2. Mørkeflygingsutdanning på helikopter for innehavere av PPL-H
+   3. Sjøflyging
+   4. Skiflyging
+   5. Acroflyging.
+3. *Til punkt 11:*
+
+   1. Føring av flygetidsbøker, godskriving og attestasjon av flygetid.
 
 ## 1. Formål
 
@@ -46,7 +58,21 @@ Innehavere av nasjonale sertifikater utstedt i henhold til tidligere gjeldene BS
 
 3.1
 
-Forskriftens del 1 gjelder luftfartssertifikat, bevis, rettighet og godkjenning utstedt i Norge av Luftfartstilsynet som følger:Flygebesetningssertifikat/-bevis/-rettigheter utstedt i henhold til tidligere utgave av BSL C (fly/helikopter)Flygebesetningssertifikat/-bevis/-rettigheter utstedt i henhold til BSL JAR-FCL 1 (fly)Flygebesetningssertifikat/-bevis/-rettigheter utstedt i henhold til BSL JAR-FCL 2 (helikopter)Flyteknisk sertifikat utstedt i henhold til BSL CFlytekniske sertifikat utstedt i henhold til vedlikeholdsforskriften vedlegg III, heretter kalt Part-66.Flymaskinistsertifikat utstedt i henhold til BSL CKabinbesetningssertifikat utstedt i henhold til BSL CFlytelefonistsertifikat utstedt i henhold til BSL CFlymedisinsk sertifikat utstedt i henhold til BSL CFlymedisinsk sertifikat utstedt i henhold til BSL JAR-FCL 3 (Flymedisinsk)Godkjenning av flyskoler i henhold til BSL CGodkjenning av flyskoler i henhold til BSL JAR-FCL 1 og 2Godkjenning av flytekniske skoler i henhold til vedlikeholdsforskriften vedlegg IV, heretter kalt Part-147.
+Forskriftens del 1 gjelder luftfartssertifikat, bevis, rettighet og godkjenning utstedt i Norge av Luftfartstilsynet som følger:
+
+- Flygebesetningssertifikat/-bevis/-rettigheter utstedt i henhold til tidligere utgave av BSL C (fly/helikopter)
+- Flygebesetningssertifikat/-bevis/-rettigheter utstedt i henhold til BSL JAR-FCL 1 (fly)
+- Flygebesetningssertifikat/-bevis/-rettigheter utstedt i henhold til BSL JAR-FCL 2 (helikopter)
+- Flyteknisk sertifikat utstedt i henhold til BSL C
+- Flytekniske sertifikat utstedt i henhold til vedlikeholdsforskriften vedlegg III, heretter kalt Part-66.
+- Flymaskinistsertifikat utstedt i henhold til BSL C
+- Kabinbesetningssertifikat utstedt i henhold til BSL C
+- Flytelefonistsertifikat utstedt i henhold til BSL C
+- Flymedisinsk sertifikat utstedt i henhold til BSL C
+- Flymedisinsk sertifikat utstedt i henhold til BSL JAR-FCL 3 (Flymedisinsk)
+- Godkjenning av flyskoler i henhold til BSL C
+- Godkjenning av flyskoler i henhold til BSL JAR-FCL 1 og 2
+- Godkjenning av flytekniske skoler i henhold til vedlikeholdsforskriften vedlegg IV, heretter kalt Part-147.
 
 3.2.1
 
@@ -76,11 +102,18 @@ For førstegangsutstedelse av luftfartssertifikat/-bevis, og for utvidelse av gj
 
 Kandidater til flygebesetningssertifikat og -rettighet kan melde seg opp til prøver for Luftfartstilsynet når han/hun har fullført godkjent utdanning og tilfredsstilt kravene i sertifikatforskriftene. Oppmeldingen skal skje på ferdigtrykte blanketter og sendes via vedkommende luftfartsskole.
 
-Skolesjefen eller den ansvarlige for utdanningen bekrefter ved sin underskrift at:kandidaten har gjennomgått godkjent utdanning og tilfredsstiller sertifikatforskriftenes krav,de gitte opplysninger er riktige,at blanketten er komplett utfylt ogat kandidaten anses for å være kvalifisert til å få utstedt angjeldende luftfartssertifikat/-bevis.
+Skolesjefen eller den ansvarlige for utdanningen bekrefter ved sin underskrift at:
+
+- kandidaten har gjennomgått godkjent utdanning og tilfredsstiller sertifikatforskriftenes krav,
+- de gitte opplysninger er riktige,
+- at blanketten er komplett utfylt og
+- at kandidaten anses for å være kvalifisert til å få utstedt angjeldende luftfartssertifikat/-bevis.
 
 5.1.1.2*Direkte oppmelding til førstegangs prøver*
 
-Kandidater kan selv melde seg opp til prøver for Luftfartstilsynet første gang når:luftfartssertifikat/-bevis søkes utstedt på grunnlag av fullført norsk militær flygerutdanning.
+Kandidater kan selv melde seg opp til prøver for Luftfartstilsynet første gang når:
+
+- luftfartssertifikat/-bevis søkes utstedt på grunnlag av fullført norsk militær flygerutdanning.
 
 Er en av teoriprøvene eller ferdighetsprøve (skill test) eller ferdighetskontroll (proficiency check) ikke bestått, må tilleggsutdanning ved godkjent luftfartsskole være gjennomført før ny oppmelding kan sendes via vedkommende skole.
 
@@ -299,7 +332,11 @@ Besvarelsen skal være tilgjengelig for kandidaten etter at sensuren er falt.
 
 6.3.1.1*Bedømmelse av skriftlig prøve*
 
-Følgende kan påklages:Formelle feil i forbindelse med oppmelding til prøve, avholdelse eller bedømmelse av prøven, som må antas å ha hatt avgjørende betydning for utfallet av prøven eller gyldigheten av denne.Oppgavenes eller spørsmålenes utforming eller materielle innhold, i den grad dette har hatt avgjørende betydning for utfallet av prøven, eller gyldigheten av denne.Bedømmelsen.
+Følgende kan påklages:
+
+1. Formelle feil i forbindelse med oppmelding til prøve, avholdelse eller bedømmelse av prøven, som må antas å ha hatt avgjørende betydning for utfallet av prøven eller gyldigheten av denne.
+2. Oppgavenes eller spørsmålenes utforming eller materielle innhold, i den grad dette har hatt avgjørende betydning for utfallet av prøven, eller gyldigheten av denne.
+3. Bedømmelsen.
 
 6.3.1.2*Bedømmelse av muntlig og praktisk prøve*
 
@@ -413,17 +450,31 @@ Søkeren skal være innehaver av gyldig legeattest godkjent av Luftfartstilsynet
 
 7.2.1*Søknad om utstedelse av luftfartssertifikat*
 
-For utstedelse av luftfartssertifikat krever Luftfartstilsynet i tillegg til søknad på fastsatt blankett (se punkt 7.1.2) følgende:Dokumentasjon på søkerens utdanning og beståtte prøver i teori og praktisk prøve/flyging eller ferdighetsprøve (skill test)/ferdighetskontroll (proficiency check), i samsvar med kravene i BSL C, BSL JAR-FCL 1 og/eller 2 eller Part-66.Attestasjon for flygetid (flygetidsbok e.l.) eller praksisFødselsattest eller dåpsattest. For utenlandske statsborgere; pass eller annen dokumentasjonPolitiattest, se punkt 7.1.5.
+For utstedelse av luftfartssertifikat krever Luftfartstilsynet i tillegg til søknad på fastsatt blankett (se punkt 7.1.2) følgende:
+
+1. Dokumentasjon på søkerens utdanning og beståtte prøver i teori og praktisk prøve/flyging eller ferdighetsprøve (skill test)/ferdighetskontroll (proficiency check), i samsvar med kravene i BSL C, BSL JAR-FCL 1 og/eller 2 eller Part-66.
+2. Attestasjon for flygetid (flygetidsbok e.l.) eller praksis
+3. Fødselsattest eller dåpsattest. For utenlandske statsborgere; pass eller annen dokumentasjon
+4. Politiattest, se punkt 7.1.5.
 
 7.2.2*Søknad om utstedelse av luftfartsbevis*
 
-For utstedelse av instrumentbevis eller instruktørbevis krever Luftfartstilsynet i tillegg til søknad på fastsatt blankett (se punkt 7.1.2) følgende:Bevitnelse for søkerens utdanning og beståtte prøver i teori og praktisk flyging i samsvar med kravene i BSL JAR-FCL 1 og/eller 2Attestasjon for flygetid (flygetidsbok e.l.).
+For utstedelse av instrumentbevis eller instruktørbevis krever Luftfartstilsynet i tillegg til søknad på fastsatt blankett (se punkt 7.1.2) følgende:
+
+1. Bevitnelse for søkerens utdanning og beståtte prøver i teori og praktisk flyging i samsvar med kravene i BSL JAR-FCL 1 og/eller 2
+2. Attestasjon for flygetid (flygetidsbok e.l.).
 
 7.3.*Søknad om konvertering av flyteknikersertifikat eller søknad om utstedelse av norsk luftfartssertifikat og -bevis på grunnlag av norsk militær flygerutdanning*
 
 7.3.1*Generelle krav*
 
-For utstedelse av norsk flyteknikersertifikat med grunnlag i utenlandsk flyteknikersertifikat og for utstedelse av norsk flysertifikat og -bevis for militære på grunnlag av norsk militær flygerutdanning, krever Luftfartstilsynet i tillegg til søknad på fastsatt blankett (se punkt 7.1.2) følgende:Gyldig utenlandsk sertifikat/bevis med dokumentasjon for tilknyttede gyldige rettigheter eller dokumentasjon for norsk militær flygerutdanningDokumentasjon av identitet (f.eks. gyldig pass)Dokumentasjon for god vandel, se punkt 7.1.5Dokumentasjon for beståtte prøver til angjeldende sertifikat/bevisKvittering for betalt gebyr, se punkt 7.1.4.
+For utstedelse av norsk flyteknikersertifikat med grunnlag i utenlandsk flyteknikersertifikat og for utstedelse av norsk flysertifikat og -bevis for militære på grunnlag av norsk militær flygerutdanning, krever Luftfartstilsynet i tillegg til søknad på fastsatt blankett (se punkt 7.1.2) følgende:
+
+1. Gyldig utenlandsk sertifikat/bevis med dokumentasjon for tilknyttede gyldige rettigheter eller dokumentasjon for norsk militær flygerutdanning
+2. Dokumentasjon av identitet (f.eks. gyldig pass)
+3. Dokumentasjon for god vandel, se punkt 7.1.5
+4. Dokumentasjon for beståtte prøver til angjeldende sertifikat/bevis
+5. Kvittering for betalt gebyr, se punkt 7.1.4.
 
 7.3.2*Tilleggskrav for utstedelse av flygersertifikat/-bevis på grunnlag av norsk militær flygerutdanning*
 
@@ -431,7 +482,12 @@ For utstedelse av norsk flyteknikersertifikat med grunnlag i utenlandsk flytekni
 
 Generelle tilleggskrav for utstedelse av flygersertifikat/-bevis.
 
-Ved utstedelse av flygersertifikat kreves i tillegg:Gyldig internasjonalt flytelefonisertifikat («Radiotelephone Operator's Restricted Certificate» specified in the General Radioregulations annexed to the International Telecommunication Convention).Søkere til PPL og CPL som ikke har internasjonalt flytelefonistsertifikat, og som ikke behersker engelsk fraseologi, må ha bestått praktisk prøve for flytelefonistsertifikat som fastsatt i BSL C 5-2a.Dokumentasjon for bestått ferdighetsprøve (skill test). For utstedelse av CPL kreves at flytelefoni under praktisk prøve utføres på engelsk.
+Ved utstedelse av flygersertifikat kreves i tillegg:
+
+1. Gyldig internasjonalt flytelefonisertifikat («Radiotelephone Operator's Restricted Certificate» specified in the General Radioregulations annexed to the International Telecommunication Convention).
+
+   Søkere til PPL og CPL som ikke har internasjonalt flytelefonistsertifikat, og som ikke behersker engelsk fraseologi, må ha bestått praktisk prøve for flytelefonistsertifikat som fastsatt i BSL C 5-2a.
+2. Dokumentasjon for bestått ferdighetsprøve (skill test). For utstedelse av CPL kreves at flytelefoni under praktisk prøve utføres på engelsk.
 
 7.3.2.2*Tilleggskrav for ATPL-A*
 
@@ -439,23 +495,38 @@ Ved utstedelse av norsk ATPL-A kreves i tillegg dokumentasjon for bestått prøv
 
 7.3.2.3.*Tilleggskrav for IR-A og IR-H*
 
-Ved utstedelse av IR-A og IR-H kreves i tillegg:Gyldig norsk flygersertifikatDokumentasjon for bestått prøve i morse.
+Ved utstedelse av IR-A og IR-H kreves i tillegg:
+
+1. Gyldig norsk flygersertifikat
+2. Dokumentasjon for bestått prøve i morse.
 
 7.4.*Søknad om forlengelse eller gjenutstedelse av nasjonale luftfartssertifikater og -bevis*
 
-For forlengelse eller gjenutstedelse av luftfartssertifikat/-bevis kreves følgende:Luftfartssertifikat eller -bevis i originalDokumentasjon for bestått ferdighetsprøve (skill test).
+For forlengelse eller gjenutstedelse av luftfartssertifikat/-bevis kreves følgende:
+
+1. Luftfartssertifikat eller -bevis i original
+2. Dokumentasjon for bestått ferdighetsprøve (skill test).
 
 7.5*Søknad om utstedelse eller utvidelse av rettigheter tilknyttet luftfartssertifikater og -bevis*
 
-For utstedelse eller utvidelse kreves i tillegg til søknad på fastsatt blankett (se punkt 7.1.2) følgende:Luftfartssertifikat eller -bevis i originalBevitnelse for søkerens utdanning i teori og bestått ferdighetsprøve (skill test) i samsvar med kravene i BSL C, BSL JAR-FCL 1 og/eller 2 eller Part-66.
+For utstedelse eller utvidelse kreves i tillegg til søknad på fastsatt blankett (se punkt 7.1.2) følgende:
+
+1. Luftfartssertifikat eller -bevis i original
+2. Bevitnelse for søkerens utdanning i teori og bestått ferdighetsprøve (skill test) i samsvar med kravene i BSL C, BSL JAR-FCL 1 og/eller 2 eller Part-66.
 
 7.6*Søknad om gjenutstedelse av rettigheter tilknyttet luftfartssertifikater/-bevis*
 
-For gjenutstedelse av rettigheter kreves i tillegg til søknad på fastsatt blankett (se punkt 7.1.2) følgende:Bevitnelse for søkerens utdanning og/eller dokumentasjon for tidligere rettigheter tilknyttet sertifikat/bevis og/eller eventuell supplerende utdanning og/eller treningSertifikat/bevis i originalDokumentasjon for bestått ferdighetsprøve (skill test).
+For gjenutstedelse av rettigheter kreves i tillegg til søknad på fastsatt blankett (se punkt 7.1.2) følgende:
+
+1. Bevitnelse for søkerens utdanning og/eller dokumentasjon for tidligere rettigheter tilknyttet sertifikat/bevis og/eller eventuell supplerende utdanning og/eller trening
+2. Sertifikat/bevis i original
+3. Dokumentasjon for bestått ferdighetsprøve (skill test).
 
 7.7.*Søknad om duplikat av luftfartssertifikater eller -bevis*
 
-For utstedelse av duplikat kreves:Politiets bekreftelse på at tapet er meldt.
+For utstedelse av duplikat kreves:
+
+1. Politiets bekreftelse på at tapet er meldt.
 
 Kommer det tapte sertifikat/bevis til rette, skal duplikatet/ene sendes tilbake til Luftfartstilsynet.
 
@@ -463,13 +534,20 @@ Kommer det tapte sertifikat/bevis til rette, skal duplikatet/ene sendes tilbake 
 
 7.8.1*Generelle krav for alle sertifikat/bevis*
 
-For validering av utenlandsk luftfartssertifikat/-bevis kreves i tillegg til søknad følgende:Dokumentasjon for identitet (f.eks. gyldig pass)Gyldig utenlandsk luftfartssertifikat/-bevis og eventuell tilleggsdokumentasjon for gyldige rettigheter (f.eks. ved attestert flygetidsbok eller tilsvarende dokumentasjon)Gyldig legeattest fra utstederlandet.
+For validering av utenlandsk luftfartssertifikat/-bevis kreves i tillegg til søknad følgende:
+
+1. Dokumentasjon for identitet (f.eks. gyldig pass)
+2. Gyldig utenlandsk luftfartssertifikat/-bevis og eventuell tilleggsdokumentasjon for gyldige rettigheter (f.eks. ved attestert flygetidsbok eller tilsvarende dokumentasjon)
+3. Gyldig legeattest fra utstederlandet.
 
 7.8.2*Tilleggskrav for flygersertifikat/-bevis*
 
 Validering av utenlandsk luftfartssertifikat/-bevis skal skje iht. BSL JAR-FCL 1 jf. 2.
 
-I tillegg kreves:Gyldig flytelefonistsertifikat («Radiotelephone Operator's Restricted Certificate» specified in the General Radioregulations annexed to the International Telecommunication Convention).Attestasjon for flygetid.
+I tillegg kreves:
+
+1. Gyldig flytelefonistsertifikat («Radiotelephone Operator's Restricted Certificate» specified in the General Radioregulations annexed to the International Telecommunication Convention).
+2. Attestasjon for flygetid.
 
 > Endret ved [forskrift 19 juni 2008 nr. 613](forskrift/2008-06-19-613) (i kraft 1 juli 2008).
 
@@ -524,7 +602,10 @@ Det samme gjelder for å kunne utøve instruksjon på sjøfly.
 *(a) For forlengelse av SEP-sea klasserettighet, skal kandidaten:*
 
 1. innenfor de siste tre månedene før utløpsdatoen for rettigheten, ha bestått en ferdighetskontroll med en autorisert kontrollant på klassen; eller
-2. i løpet av de siste 12 måneder før rettigheten utløper:ha gjennomført 12 flytimer på klassen inkludert seks timer fartøysjeftid og 12 avganger og 12 landinger på sjø, oggjennomføre en treningsflyging av minst 1 times varighet med en flygeinstruktør. Denne flygingen kan erstattes med enhver annen ferdighetskontroll eller ferdighetsprøve for en klasse- eller typerettighet.
+2. i løpet av de siste 12 måneder før rettigheten utløper:
+
+   1. ha gjennomført 12 flytimer på klassen inkludert seks timer fartøysjeftid og 12 avganger og 12 landinger på sjø, og
+   2. gjennomføre en treningsflyging av minst 1 times varighet med en flygeinstruktør. Denne flygingen kan erstattes med enhver annen ferdighetskontroll eller ferdighetsprøve for en klasse- eller typerettighet.
 
 *(b) Gjenutstedelse av SEP-sea klasserettighet*
 
@@ -622,11 +703,19 @@ Når det foreligger begrunnet tvil om innehaver er i besittelse av kunnskaper og
 
 10.2.1
 
-Luftfartstilsynet kan umiddelbart tilbakekalle luftfartssertifikat/-bevis/-rettighet dersom det foreligger begrunnet tvil om:Innehaveren har gjort seg skyldig i en forseelse eller forbrytelse av betydning for utøvelsen av de rettigheter som er tilknyttet luftfartssertifikatet/-beviset, ellerInnehaverens fysiske eller psykiske skikkethet for utøvelse av de rettigheter som er tilknyttet luftfartssertifikatet/-beviset, ellerInnehaveren har de nødvendige kvalifikasjoner for utøvelse av de rettigheter som er tilknyttet luftfartssertifikatet/-beviset.
+Luftfartstilsynet kan umiddelbart tilbakekalle luftfartssertifikat/-bevis/-rettighet dersom det foreligger begrunnet tvil om:
+
+1. Innehaveren har gjort seg skyldig i en forseelse eller forbrytelse av betydning for utøvelsen av de rettigheter som er tilknyttet luftfartssertifikatet/-beviset, eller
+2. Innehaverens fysiske eller psykiske skikkethet for utøvelse av de rettigheter som er tilknyttet luftfartssertifikatet/-beviset, eller
+3. Innehaveren har de nødvendige kvalifikasjoner for utøvelse av de rettigheter som er tilknyttet luftfartssertifikatet/-beviset.
 
 10.2.2
 
-Tilbakekall etter punkt 10.2.1 kan helt eller delvis oppheves dersom Luftfartstilsynet finner at grunnlaget for tvilen ikke lenger er til stede. Dette kan skje i følgende tilfelle:Luftfartstilsynet finner at forseelse/forbrytelse ikke er begått eller ikke er av betydning, ellerInnehaveren har gjennomgått undersøkelse og har blitt erklært skikket til tjeneste, ellerInnehaverens kvalifikasjoner har blitt oppfrisket eller har vært kontrollert ved hjelp av/gjennom tilleggsutdanning og/eller prøve(r) pålagt av Luftfartstilsynet.
+Tilbakekall etter punkt 10.2.1 kan helt eller delvis oppheves dersom Luftfartstilsynet finner at grunnlaget for tvilen ikke lenger er til stede. Dette kan skje i følgende tilfelle:
+
+1. Luftfartstilsynet finner at forseelse/forbrytelse ikke er begått eller ikke er av betydning, eller
+2. Innehaveren har gjennomgått undersøkelse og har blitt erklært skikket til tjeneste, eller
+3. Innehaverens kvalifikasjoner har blitt oppfrisket eller har vært kontrollert ved hjelp av/gjennom tilleggsutdanning og/eller prøve(r) pålagt av Luftfartstilsynet.
 
 10.2.3
 
@@ -738,14 +827,27 @@ Flygetid som styrmann godskrives flyger som gjør tjeneste i et førersete ombor
 
 11.3.2.1.1*Krav for godskriving av styrmannstid*
 
-Flygetid som styrmann godskrives når:styrmannen har rettigheter tilknyttet flygersertifikat og -bevis for angjeldende type eller klasse luftfartøy, ogfartøysjef og styrmann har gjennomgått godkjent utdanning og trening på angjeldende type som sikrer koordinert besetningssamarbeid, herunder bruk av sjekkliste, ogluftfartøyet er utstyrt slik at det til enhver tid kan føres forsvarlig fra begge førersetene.
+Flygetid som styrmann godskrives når:
+
+1. styrmannen har rettigheter tilknyttet flygersertifikat og -bevis for angjeldende type eller klasse luftfartøy, og
+2. fartøysjef og styrmann har gjennomgått godkjent utdanning og trening på angjeldende type som sikrer koordinert besetningssamarbeid, herunder bruk av sjekkliste, og
+3. luftfartøyet er utstyrt slik at det til enhver tid kan føres forsvarlig fra begge førersetene.
 
 11.3.2.2*Forsterket flygebesetning*
 
 Når flygebesetningen er forsterket med en eller flere styrmenn, skal flygetiden som styrmann reduseres med en reduksjonsfaktor etter følgende formel:
 
 Reduksjonsfaktor = antall flygere ut over antall førerseter delt på totalt antall flygere i besetningen.
-Eksempel:Antall førerseter: 2Aktuell besetning: 3 flygereReduksjonsfaktor: 1/3Antall førerseter: 2Aktuell besetning: 4 flygereReduksjonsfaktor: 2/4 = 1/2
+Eksempel:
+
+1. Antall førerseter: 2
+
+   - Aktuell besetning: 3 flygere
+   - Reduksjonsfaktor: 1/3
+2. Antall førerseter: 2
+
+   - Aktuell besetning: 4 flygere
+   - Reduksjonsfaktor: 2/4 = 1/2
 
 Fartøysjefen får alltid godskrevet flygetiden fullt ut, også ved flyging med forsterket besetning.
 
@@ -771,7 +873,13 @@ Instrumenttid kan være instrumentflygetid eller instrumentbakketid.
 
 Instrumentflygetid som fartøysjef eller styrmann.
 
-Instrumentflygetid kan bare godskrives under flyging etter IFR-reglene, under fingert instrumentflyging eller på IFR-reiseplan.Når besetningen består av minst to flygere, kan begge flygerne få godskrevet instrumentflygetiden dersom betingelsene i punkt 11.3.2.1.1 er oppfylt.Instrumentflygetid som flyelev kan godskrives når instrumentflygingen:inngår som del av et godkjent program, ellerer oppfriskning av egne ferdigheter med en flygeinstruktør som har rettighet til å instruere i instrumentflyging.
+Instrumentflygetid kan bare godskrives under flyging etter IFR-reglene, under fingert instrumentflyging eller på IFR-reiseplan.
+
+1. Når besetningen består av minst to flygere, kan begge flygerne få godskrevet instrumentflygetiden dersom betingelsene i punkt 11.3.2.1.1 er oppfylt.
+2. Instrumentflygetid som flyelev kan godskrives når instrumentflygingen:
+
+   1. inngår som del av et godkjent program, eller
+   2. er oppfriskning av egne ferdigheter med en flygeinstruktør som har rettighet til å instruere i instrumentflyging.
 
 11.3.4.2*Instrumentbakketid*
 
@@ -791,7 +899,11 @@ For å omgjøre militær flygetid (tid i luften) til sivil flygetid (blokktid) l
 
 11.4.1*Hvem som skal attestere*
 
-Flygetid skal attesteres i flygetidsboken etter følgende bestemmelser:Flygetid opptjent som flyelev ved godkjent flygeskole skal attesteres av instruktøren etter hver enkelt tur, samt av skolesjefen ved avsluttet utdanning.Annen flygetid opptjent som flyelev skal attesteres av instruktøren umiddelbart etter hver enkelt tur.Den øvrige flygetid attesteres av flygeren selv umiddelbart etter hver enkelt tur.
+Flygetid skal attesteres i flygetidsboken etter følgende bestemmelser:
+
+1. Flygetid opptjent som flyelev ved godkjent flygeskole skal attesteres av instruktøren etter hver enkelt tur, samt av skolesjefen ved avsluttet utdanning.
+2. Annen flygetid opptjent som flyelev skal attesteres av instruktøren umiddelbart etter hver enkelt tur.
+3. Den øvrige flygetid attesteres av flygeren selv umiddelbart etter hver enkelt tur.
 
 11.4.2*Innhold*
 
@@ -811,7 +923,17 @@ Overtredelse av bestemmelsene i denne forskriften er straffbar i henhold til lov
 
 Denne forskrift trer i kraft 1. juli 2001.
 
-Fra samme tidspunkt oppheves følgende forskrifter:[Forskrift av 12. juli 1995 nr. 739](forskrift/1995-07-12-739) om gjennomføring av bestemmelser for sivil luftfart, forskrifter om luftfartssertifikater og -bevis, flytekniske sertifikater og flygeskoler (BSL C 0-5).[Forskrift av 8. november 1994 nr. 991](forskrift/1994-11-08-991) om luftfartssertifikater og -bevis (BSL C 1-1).[Forskrift av 14. november 1994 nr. 1291](forskrift/1994-11-14-1291) om gyldighet av luftfartssertifikat og -bevis og vilkår for utøvelse, forlengelse og gjenutstedelse av tilknyttede rettigheter (BSL C 1-5).[Forskrift av 14. november 1994 nr. 1292](forskrift/1994-11-14-1292) om rettigheter tilknyttet sertifikater og -bevis for flygebesetningsmedlemmer (C 1-6 med bilagene 1, 2, 3, 4 og 5).[Forskrift av 14. november 1994 nr. 1293](forskrift/1994-11-14-1293) om luftfartssertifikater og -bevis, ugyldighet og suspensjon (BSL C 1-7).[Forskrift av 14. november 1994 nr. 1294](forskrift/1994-11-14-1294) om luftfartssertifikater og -bevis og oppmelding til og avleggelse av prøver med tilhørende bilag (BSL C 1-8 med bilagene 1, 2 og 3).[Forskrift av 14. november 1994 nr. 1295](forskrift/1994-11-14-1295) om søknader om luftfartssertifikater og -bevis (BSL C 1-9)[Forskrift av 14. november 1994 nr. 1296](forskrift/1994-11-14-1296) om begrunnelse for og klage over sensurvedtak i forbindelse med avholdelse av prøver og eksamener for Luftfartsverket (BSL C 1-10).[Forskrift av 14. november 1994 nr. 1297](forskrift/1994-11-14-1297) om føring av flygetidsbøker, godskriving og attestasjon av flygetid (BSL C 1-11).
+Fra samme tidspunkt oppheves følgende forskrifter:
+
+1. [Forskrift av 12. juli 1995 nr. 739](forskrift/1995-07-12-739) om gjennomføring av bestemmelser for sivil luftfart, forskrifter om luftfartssertifikater og -bevis, flytekniske sertifikater og flygeskoler (BSL C 0-5).
+2. [Forskrift av 8. november 1994 nr. 991](forskrift/1994-11-08-991) om luftfartssertifikater og -bevis (BSL C 1-1).
+3. [Forskrift av 14. november 1994 nr. 1291](forskrift/1994-11-14-1291) om gyldighet av luftfartssertifikat og -bevis og vilkår for utøvelse, forlengelse og gjenutstedelse av tilknyttede rettigheter (BSL C 1-5).
+4. [Forskrift av 14. november 1994 nr. 1292](forskrift/1994-11-14-1292) om rettigheter tilknyttet sertifikater og -bevis for flygebesetningsmedlemmer (C 1-6 med bilagene 1, 2, 3, 4 og 5).
+5. [Forskrift av 14. november 1994 nr. 1293](forskrift/1994-11-14-1293) om luftfartssertifikater og -bevis, ugyldighet og suspensjon (BSL C 1-7).
+6. [Forskrift av 14. november 1994 nr. 1294](forskrift/1994-11-14-1294) om luftfartssertifikater og -bevis og oppmelding til og avleggelse av prøver med tilhørende bilag (BSL C 1-8 med bilagene 1, 2 og 3).
+7. [Forskrift av 14. november 1994 nr. 1295](forskrift/1994-11-14-1295) om søknader om luftfartssertifikater og -bevis (BSL C 1-9)
+8. [Forskrift av 14. november 1994 nr. 1296](forskrift/1994-11-14-1296) om begrunnelse for og klage over sensurvedtak i forbindelse med avholdelse av prøver og eksamener for Luftfartsverket (BSL C 1-10).
+9. [Forskrift av 14. november 1994 nr. 1297](forskrift/1994-11-14-1297) om føring av flygetidsbøker, godskriving og attestasjon av flygetid (BSL C 1-11).
 
 ## Vedlegg 1. Praktisk prøve for utstedelse av nasjonalt flygebesetningssertifikat/-bevis og utvidelse og visse gjenutstedelser av rettigheter tilknyttet nasjonalt sertifikat/bevis
 
@@ -827,11 +949,20 @@ For utstedelse og visse gjenutstedelser av JAR-FCL luftfartssertifikater/-bevis,
 
 Ferdighetsprøven er en kontroll av at kandidatens flygerskjønn, kunnskaper og ferdigheter holder den standard som kreves.
 
-Kandidaten skal demonstrere sin evne til å kunne utføre de prosedyrer og manøvre som kontrollanten velger, med en dyktighet som står i forhold til de rettigheter det angjeldende sertifikat/bevis gir, og:operere flyet/helikopteret innenfor dets begrensninger;fullføre alle manøvre mykt og nøyaktig;utvise god dømmekraft og godt flygerskjønn;anvende teorikunnskaper;til enhver tid ha kontroll over flyet/helikopteret slik at det aldri er alvorlig tvil om at en prosedyre eller manøver vil bli korrekt gjennomført.
+Kandidaten skal demonstrere sin evne til å kunne utføre de prosedyrer og manøvre som kontrollanten velger, med en dyktighet som står i forhold til de rettigheter det angjeldende sertifikat/bevis gir, og:
+
+1. operere flyet/helikopteret innenfor dets begrensninger;
+2. fullføre alle manøvre mykt og nøyaktig;
+3. utvise god dømmekraft og godt flygerskjønn;
+4. anvende teorikunnskaper;
+5. til enhver tid ha kontroll over flyet/helikopteret slik at det aldri er alvorlig tvil om at en prosedyre eller manøver vil bli korrekt gjennomført.
 
 Tilleggskrav når flygebesetningen består av mer enn en (1) flyger:
 
-Kandidaten skal:forstå og anvende besetningskoordinasjons- og inkapasitetsprosedyrer, ogkommunisere effektivt med de andre flygebesetningsmedlemmene.
+Kandidaten skal:
+
+1. forstå og anvende besetningskoordinasjons- og inkapasitetsprosedyrer, og
+2. kommunisere effektivt med de andre flygebesetningsmedlemmene.
 
 ### 3. Avholdelse
 
@@ -911,9 +1042,18 @@ For utstedelse og visse gjenutstedelser av JAR-FCL luftfartssertifikater/-bevis,
 
 En ferdighetskontroll (proficiency check) er kontroll av at sertifikatinnehaverens flygerskjønn, kunnskaper og ferdigheter fortsatt holder det nivå som kreves.
 
-Sertifikatinnehaveren skal demonstrere sin evne til å utføre de prosedyrer og manøvre som kontrollanten velger, med en dyktighet som samsvarer med de rettigheter som det angjeldende sertifikat/bevis gir, og:operere flyet/helikopteret innenfor dets begrensninger;fullføre alle manøvre mykt og nøyaktig;utvise god dømmekraft og godt flygerskjønn;anvende teorikunnskaper;til enhver tid ha kontroll over luftfartøyet slik at det aldri er alvorlig tvil om at en prosedyre eller manøver vil bli korrekt gjennomført.
+Sertifikatinnehaveren skal demonstrere sin evne til å utføre de prosedyrer og manøvre som kontrollanten velger, med en dyktighet som samsvarer med de rettigheter som det angjeldende sertifikat/bevis gir, og:
 
-Tilleggskrav når flygebesetningen består av mer enn en (1) flyger:forstå og anvende besetningskoordinasjons- og inkapasitetsprosedyrer; ogkommunisere effektivt med de andre flygebesetningsmedlemmene.
+1. operere flyet/helikopteret innenfor dets begrensninger;
+2. fullføre alle manøvre mykt og nøyaktig;
+3. utvise god dømmekraft og godt flygerskjønn;
+4. anvende teorikunnskaper;
+5. til enhver tid ha kontroll over luftfartøyet slik at det aldri er alvorlig tvil om at en prosedyre eller manøver vil bli korrekt gjennomført.
+
+Tilleggskrav når flygebesetningen består av mer enn en (1) flyger:
+
+1. forstå og anvende besetningskoordinasjons- og inkapasitetsprosedyrer; og
+2. kommunisere effektivt med de andre flygebesetningsmedlemmene.
 
 ### 3. Avholdelse
 
@@ -1011,8 +1151,14 @@ For utstedelse og visse gjenutstedelser av JAR-FCL luftfartssertifikater/-bevis,
 
 - Radiosjekk
 - Sjekk av navigasjonsutstyr
-- Navigasjonsfrekvenservalginnstilling
-- Kommunikasjonsfrekvenservalginnstilling
+- Navigasjonsfrekvenser
+
+  - valg
+  - innstilling
+- Kommunikasjonsfrekvenser
+
+  - valg
+  - innstilling
 
 1.5*Sjekklister før oppstarting av motorer*
 
@@ -1064,7 +1210,27 @@ For utstedelse og visse gjenutstedelser av JAR-FCL luftfartssertifikater/-bevis,
 
 2.5*Systemoperasjoner, normale og unormale*
 
-(to til tre av disse skal utføres)Motor (eventuelt propeller)TrykkabinLuftkondisjonering (air conditioning)Pitot/static systemElektrisk systemHydraulisk systemBrennstoffsystemStyreorganer og trimsystemAnti- og avisingssystem (anti/de-icing)Autopilot/Flight DirectorSteilevarslingssystemTerrengvarslingssystemKommunikasjonsutstyrNavigasjonsutstyrLandingsunderstell og bremserFlaps og slatsAPUTCASBrannvarslingssystem
+(to til tre av disse skal utføres)
+
+- Motor (eventuelt propeller)
+- Trykkabin
+- Luftkondisjonering (air conditioning)
+- Pitot/static system
+- Elektrisk system
+- Hydraulisk system
+- Brennstoffsystem
+- Styreorganer og trimsystem
+- Anti- og avisingssystem (anti/de-icing)
+- Autopilot/Flight Director
+- Steilevarslingssystem
+- Terrengvarslingssystem
+- Kommunikasjonsutstyr
+- Navigasjonsutstyr
+- Landingsunderstell og bremser
+- Flaps og slats
+- APU
+- TCAS
+- Brannvarslingssystem
 
 2.6*Nødprosedyrer*
 
@@ -1079,7 +1245,12 @@ For utstedelse og visse gjenutstedelser av JAR-FCL luftfartssertifikater/-bevis,
 - Krappe svinger, 360 grader til høyre og venstre med 45 graders krengningsvinkel
 - Sving med 60 graders krengning under horisontalflyging
 - Gjenkjenning av begynnende steiling
-- Tilnærming til steilingshastighet eller initiering av steilevarsel ihorisontal flyging rett fram, ved ren konfigurasjon og motor på tomgang,horisontal flyging rett fram, innflygingskonfigurasjon og motor på tomgang,stigende svinger med krengningsvinkler mellom 10 og 30 grader, med flaps setting for avgang og motorkraft som for stigning,svinger under nedstigning med krengningsvinkler mellom 10 og 30 grader, innflygingskonfigurasjon og motor på tomgang.
+- Tilnærming til steilingshastighet eller initiering av steilevarsel i
+
+  1. horisontal flyging rett fram, ved ren konfigurasjon og motor på tomgang,
+  2. horisontal flyging rett fram, innflygingskonfigurasjon og motor på tomgang,
+  3. stigende svinger med krengningsvinkler mellom 10 og 30 grader, med flaps setting for avgang og motorkraft som for stigning,
+  4. svinger under nedstigning med krengningsvinkler mellom 10 og 30 grader, innflygingskonfigurasjon og motor på tomgang.
 - Fulle steilinger
 - Sakteflyging
 - Gjenkjenning av spiral stup
@@ -1150,10 +1321,21 @@ For utstedelse og visse gjenutstedelser av JAR-FCL luftfartssertifikater/-bevis,
 
 ### 3. Tillegg for flermotors fly
 
-- Avganger med motorbortfall (simulert):kort tid etter oppnådd V2mellom V1 og V2så nær som mulig etter V1i god tid før V1
+- Avganger med motorbortfall (simulert):
+
+  - kort tid etter oppnådd V2
+  - mellom V1 og V2
+  - så nær som mulig etter V1
+  - i god tid før V1
 - Vindskjær etter avgang (i simulator)
 - Asymmetrisk flyging
-- Brann i:motorAPUkabinlasteromcockpit
+- Brann i:
+
+  - motor
+  - APU
+  - kabin
+  - lasterom
+  - cockpit
 - Røykfjerning
 - Motorkutt, stopping og starting
 - Dumping av brennstoff
@@ -1308,11 +1490,18 @@ Minst 2 navigasjonsflyginger under varierte operasjonelle forhold med bruk av ra
 
 3.2.3
 
-Følgende skal innøves under avgangs- og landingstreningen:Starter og landinger med og uten bruk av landingslys.Landinger med og uten flaps.
+Følgende skal innøves under avgangs- og landingstreningen:
+
+1. Starter og landinger med og uten bruk av landingslys.
+2. Landinger med og uten flaps.
 
 3.2.4
 
-Følgende skal innøves under navigasjonsflygingen:Kartbruk, bruk av operativ flygeplan og grunnleggende metoder for posisjonskontroll.Navigeringer ved hjelp av VDF samt VOR og ADF når flyet er utstyrt med slike hjelpemidler.Fremgangsmåter ved elektrisk svikt og manglende belysning i eller på flyet.
+Følgende skal innøves under navigasjonsflygingen:
+
+1. Kartbruk, bruk av operativ flygeplan og grunnleggende metoder for posisjonskontroll.
+2. Navigeringer ved hjelp av VDF samt VOR og ADF når flyet er utstyrt med slike hjelpemidler.
+3. Fremgangsmåter ved elektrisk svikt og manglende belysning i eller på flyet.
 
 3.3*Instrumentflyging*
 
@@ -1438,11 +1627,18 @@ Minst 2 navigasjonsflyginger under varierte operasjonelle forhold, med bruk av r
 
 3.2.3
 
-Følgende skal innøves under avgangs- og landingstreningen:Starter med og uten bruk av landingslys.Landinger med og uten bruk av landingslys.
+Følgende skal innøves under avgangs- og landingstreningen:
+
+1. Starter med og uten bruk av landingslys.
+2. Landinger med og uten bruk av landingslys.
 
 3.2.4
 
-Følgende skal innøves under navigasjonsflygingen:Kartbruk, bruk av operativ flygeplan og grunnleggende metoder for posisjonskontroll.Navigeringer ved hjelp av VDF samt VOR og ADF når flyet er utstyrt med slike hjelpemidler.Fremgangsmåter ved elektrisk svikt og manglende belysning i eller på helikopteret.
+Følgende skal innøves under navigasjonsflygingen:
+
+1. Kartbruk, bruk av operativ flygeplan og grunnleggende metoder for posisjonskontroll.
+2. Navigeringer ved hjelp av VDF samt VOR og ADF når flyet er utstyrt med slike hjelpemidler.
+3. Fremgangsmåter ved elektrisk svikt og manglende belysning i eller på helikopteret.
 
 3.3*Instrumentflyging*
 
@@ -1507,7 +1703,63 @@ Kandidaten skal under utdannelsen være innehaver av gyldige rettigheter tilknyt
 
 2.1.4
 
-Regler til forebygging av sammenstøt på sjøen ([sjøveisreglene)](traktat/1972-10-20-1) fastsatt av Sjøfartsdirektoratet 1. desember 1975 nr. 5.Regel 1- AnvendelseRegel 2 – AnsvarRegel 3 – Alminnelige definisjonerRegel 4 – AnvendelseRegel 5 – UtkikkRegel 6 – Sikker fartRegel 7 – Fare for sammenstøtRegel 8 – Manøver for å unngå sammenstøtRegel 9 – Trange farvannRegel 11 – AnvendelseRegel 12 – SeilfartøyRegel 13 – InnhentingRegel 14 – Motsatte kurserRegel 15 – Kurser som skjærer hverandreRegel 16 – Fartøy som skal holde av veienRegel 17 – Fartøy som skal beholde kurs og fartRegel 18 – Ansvar mellom fartøyRegel 20 – AnvendelseRegel 21 – DefinisjonerRegel 22 – Lanternenes synlighetRegel 23 – Maskindrevne fartøy underveisRegel 24 – Slep og skyveslepRegel 25 – Seilfartøy og fartøy som blir roddRegel 26 – FiskefartøyRegel 27 – Fartøy som ikke er under kommando eller som har begrenset evne til å manøvrereRegel 28 – Fartøy som er hemmet av sin dypt gående kjølRegel 29 – LosfartøyRegel 30 – Fartøy som ligger til ankers og fartøy som står på grunnRegel 31 – SjøflyRegel 32 – DefinisjonerRegel 33 – Utstyr for lydsignalerRegel 34 – Manøver- og varselsignalerRegel 35 – Lydsignaler under nedsatt siktRegel 36 – Signal for å påkalle oppmerksomhetRegel 37 – NødsignalerRegel 38 – FritakelseRegel 39 – AnvendelseRegel 40 – Særregler i og utenom havnedistriktRegel 41 – Trange farvannRegel 42 – Passering av dykkerfartøyRegel 43 – Små fartøyRegel 44 – Ansvar mellom fartøyRegel 45 – AnkringRegel 46 – Lanterner på små fartøyRegel 47 – Merking av andre gjenstander enn fartøyRegel 48 – Spesielle signaler for tankskipRegel 49 – Signal for vaktfartøyRegel 50 – Fart mot normal fartsretningRegel 51 – Signalføring for kabelferjeRegel 52 – Spesielle fartøyRegel 53 – Lydsignal for fartøy som holder på med mudring eller undervannsarbeiderRegel 54 – Reglene skal finnes ombordRegel 55 – StraffebestemmelserRegel 56 – IkrafttredelseVedlegg IV – Nødsignaler
+Regler til forebygging av sammenstøt på sjøen ([sjøveisreglene)](traktat/1972-10-20-1) fastsatt av Sjøfartsdirektoratet 1. desember 1975 nr. 5.
+
+- Regel 1- Anvendelse
+- Regel 2 – Ansvar
+- Regel 3 – Alminnelige definisjoner
+- Regel 4 – Anvendelse
+- Regel 5 – Utkikk
+- Regel 6 – Sikker fart
+- Regel 7 – Fare for sammenstøt
+- Regel 8 – Manøver for å unngå sammenstøt
+- Regel 9 – Trange farvann
+- Regel 11 – Anvendelse
+- Regel 12 – Seilfartøy
+- Regel 13 – Innhenting
+- Regel 14 – Motsatte kurser
+- Regel 15 – Kurser som skjærer hverandre
+- Regel 16 – Fartøy som skal holde av veien
+- Regel 17 – Fartøy som skal beholde kurs og fart
+- Regel 18 – Ansvar mellom fartøy
+- Regel 20 – Anvendelse
+- Regel 21 – Definisjoner
+- Regel 22 – Lanternenes synlighet
+- Regel 23 – Maskindrevne fartøy underveis
+- Regel 24 – Slep og skyveslep
+- Regel 25 – Seilfartøy og fartøy som blir rodd
+- Regel 26 – Fiskefartøy
+- Regel 27 – Fartøy som ikke er under kommando eller som har begrenset evne til å manøvrere
+- Regel 28 – Fartøy som er hemmet av sin dypt gående kjøl
+- Regel 29 – Losfartøy
+- Regel 30 – Fartøy som ligger til ankers og fartøy som står på grunn
+- Regel 31 – Sjøfly
+- Regel 32 – Definisjoner
+- Regel 33 – Utstyr for lydsignaler
+- Regel 34 – Manøver- og varselsignaler
+- Regel 35 – Lydsignaler under nedsatt sikt
+- Regel 36 – Signal for å påkalle oppmerksomhet
+- Regel 37 – Nødsignaler
+- Regel 38 – Fritakelse
+- Regel 39 – Anvendelse
+- Regel 40 – Særregler i og utenom havnedistrikt
+- Regel 41 – Trange farvann
+- Regel 42 – Passering av dykkerfartøy
+- Regel 43 – Små fartøy
+- Regel 44 – Ansvar mellom fartøy
+- Regel 45 – Ankring
+- Regel 46 – Lanterner på små fartøy
+- Regel 47 – Merking av andre gjenstander enn fartøy
+- Regel 48 – Spesielle signaler for tankskip
+- Regel 49 – Signal for vaktfartøy
+- Regel 50 – Fart mot normal fartsretning
+- Regel 51 – Signalføring for kabelferje
+- Regel 52 – Spesielle fartøy
+- Regel 53 – Lydsignal for fartøy som holder på med mudring eller undervannsarbeider
+- Regel 54 – Reglene skal finnes ombord
+- Regel 55 – Straffebestemmelser
+- Regel 56 – Ikrafttredelse
+- Vedlegg IV – Nødsignaler
 
 2.1.5
 
@@ -1523,11 +1775,23 @@ Forskrift om fartsbegrensninger
 
 2.1.8
 
-Regler for merking til sjøsFaste merkerFlytende merker:KardinalsystemetKardinal/lateralsystemetGrunneStakerTo lederVrak
+Regler for merking til sjøs
+
+1. Faste merker
+2. Flytende merker:
+
+   1. Kardinalsystemet
+   2. Kardinal/lateralsystemet
+   3. Grunne
+   4. Staker
+   5. To leder
+   6. Vrak
 
 2.1.9
 
-Overenskomst mellom Danmark, Finland, Norge og Sverige om merking av farvann.*Merknader til sjømerker*
+Overenskomst mellom Danmark, Finland, Norge og Sverige om merking av farvann.
+
+*Merknader til sjømerker*
 
 2.1.10
 
@@ -1561,7 +1825,9 @@ Faremomenter ved ombord- og ilandstigning.
 
 2.2.7
 
-Flottørunderstell, konstruksjon, hydroplanende egenskaper, sårbarhet og vedlikehold.Amfibieflottører, konstruksjon, hydroplanende egenskaper, sårbarhet og vedlikehold (når aktuelt).
+Flottørunderstell, konstruksjon, hydroplanende egenskaper, sårbarhet og vedlikehold.
+
+Amfibieflottører, konstruksjon, hydroplanende egenskaper, sårbarhet og vedlikehold (når aktuelt).
 Flybåtskrog, konstruksjon, hydroplanende egenskaper, sårbarhet og vedlikehold (når aktuelt).
 Vannror, bruk og effektivitetsvilkår.
 
@@ -1627,7 +1893,11 @@ Flyging til fremmed landingsplass i fjellet og på kysten, herunder forberedelse
 
 ### 4. Praktisk prøve for utvidelse av sertifikatrettighetene til å omfatte sjøfly
 
-Prøven skal minst omfatte:Prøver i teoripensumMuntlig besvarelse og praktisk demonstrasjon i sjømannskapManøvrering på vannet, samt flyging til og landing på to forskjellige landingsplasser. Minst tre tilfredsstillende starter og landinger av forskjellige typer skal utføres, herunder skal blankvannsteknikk demonstreres. Øvelser under prøven skal for øvrig minst omfatte flyging ved lav hastighet og innlegg til og landing på begrenset område.
+Prøven skal minst omfatte:
+
+1. Prøver i teoripensum
+2. Muntlig besvarelse og praktisk demonstrasjon i sjømannskap
+3. Manøvrering på vannet, samt flyging til og landing på to forskjellige landingsplasser. Minst tre tilfredsstillende starter og landinger av forskjellige typer skal utføres, herunder skal blankvannsteknikk demonstreres. Øvelser under prøven skal for øvrig minst omfatte flyging ved lav hastighet og innlegg til og landing på begrenset område.
 
 ## Vedlegg 4 til punkt 9. Skiflyging
 
@@ -1651,15 +1921,29 @@ Rettighet til skiflyging dokumenteres av flygeinstruktør i rettighetsbeviset ti
 
 2.1.1
 
-Bestemmelser for sivil luftfart – Driftsbestemmelser -BSL DD 1-2, Bruk av flyplasserD 3-1, punktene 6.3.1, 6.3.3, 6.4 og 6.9
+Bestemmelser for sivil luftfart – Driftsbestemmelser -BSL D
+
+- D 1-2, Bruk av flyplasser
+- D 3-1, punktene 6.3.1, 6.3.3, 6.4 og 6.9
 
 2.1.2
 
-Bestemmelser for sivil luftfart – Trafikkbestemmelser for luftfart – BSL FF 1-3, punkt 3.2.3.1Bilag 1 til BSL F 1Bilag 2 til BSL F 1Bilag 3 til BSL F 1
+Bestemmelser for sivil luftfart – Trafikkbestemmelser for luftfart – BSL F
+
+- F 1-3, punkt 3.2.3.1
+- Bilag 1 til BSL F 1
+- Bilag 2 til BSL F 1
+- Bilag 3 til BSL F 1
 
 2.1.3
 
-AIP-NorgeLufttrafikktjenestens oppbyggingFlygeinformasjonsregioner og kontrollområderTrafikkinformasjonsområderLuftlederFareområder, restriksjonsområder, nasjonalparker/naturreservater, villreinområder, og fuglekonsentrasjonsområder og fugletrekk.
+AIP-Norge
+
+- Lufttrafikktjenestens oppbygging
+- Flygeinformasjonsregioner og kontrollområder
+- Trafikkinformasjonsområder
+- Luftleder
+- Fareområder, restriksjonsområder, nasjonalparker/naturreservater, villreinområder, og fuglekonsentrasjonsområder og fugletrekk.
 
 2.2*Skiflygingslære*
 
@@ -1897,11 +2181,31 @@ Her føres fartøysjefens navn. Er man selv fartøysjef, føres «Selv» i rubri
 
 2.2.2*Rubrikk 5. Egen stilling ombord*
 
-For flygere finnes det tre muligheter. Følgende forkortelser skal brukes:Fartøysjef FSJStyrmann STYElev ELEVNår fartøysjefen utfører instruksjon skal forkortelsen IK benyttes.Flymaskinister skal bruke forkortelsen FE eller ELEV.
+For flygere finnes det tre muligheter. Følgende forkortelser skal brukes:
+
+- Fartøysjef FSJ
+- Styrmann STY
+- Elev ELEV
+- Når fartøysjefen utfører instruksjon skal forkortelsen IK benyttes.
+- Flymaskinister skal bruke forkortelsen FE eller ELEV.
 
 2.2.3*Rubrikk 6. Flygingens art – Merknader*
 
-Her føres opplysninger om rute eller rutenummer, avgangs- og landingsplass, øvelser eller øvelse-/turnummer i skoleplan eller oppdragets art. Følgende forkortelser anbefales:Ambulanseflyging AMBFotoflyging FOTONavigasjonsflyging NAVSkoleflyging SKOLEAcroflyging ACROTaxiflyging TAXITransportflyging TSPPeriodisk flygetrening PFTFerdighetsprøve STFerdighetskontroll PCRundflyging RFLJord- og skogbruksflyging AGRBrannvaktflyging BRV
+Her føres opplysninger om rute eller rutenummer, avgangs- og landingsplass, øvelser eller øvelse-/turnummer i skoleplan eller oppdragets art. Følgende forkortelser anbefales:
+
+- Ambulanseflyging AMB
+- Fotoflyging FOTO
+- Navigasjonsflyging NAV
+- Skoleflyging SKOLE
+- Acroflyging ACRO
+- Taxiflyging TAXI
+- Transportflyging TSP
+- Periodisk flygetrening PFT
+- Ferdighetsprøve ST
+- Ferdighetskontroll PC
+- Rundflyging RFL
+- Jord- og skogbruksflyging AGR
+- Brannvaktflyging BRV
 
 2.2.4*Rubrikk 7. Diverse*
 

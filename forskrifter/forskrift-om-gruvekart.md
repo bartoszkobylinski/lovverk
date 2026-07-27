@@ -124,8 +124,28 @@ Horisontalbladet gis nummer etter nedre høyre hjørnes koordinater samt nivåan
 
 ## § 14. Kartverkets utførelse
 
-1. *Dagkart*Topografisk dagkart over området skal foruten de vanlige angivelser, vise alle forhold av bergverksmessig interesse, så som gamle gruveåpninger, gråbergstipper, avgangsdeponi med tilhørende infrastruktur og eiendomsgrenser. Kartene skal videre vise eksisterende bergrettigheter, konsesjonsområder og reguleringsgrenser.Dekningsområdet for det detaljerte dagkartet skal markeres på oversiktskart.Detaljerte dagkart skal dekke forekomsten og dennes nærmeste omgivelser. Foruten de angivelser som er nevnt for det topografiske dagkart, skal kartet vise de lokale forhold slik som veier, bygninger, telefon- og kraftlinjer mv.
-2. *Driftskart*Horisontalkart skal vise dagbrudd, sjakter, orter, brytningsrom, malmgrenser og de viktigste bergartsgrensene.Borhull og diamantborhull med angivelse av referanse (hullnummer) inntegnes. For øvrig inntegnes alt som har interesse for forståelsen av driften i gruva, slik som forkastninger og svakhetssoner med sikringstiltak.Detaljer og konturer som er av betydning for helhetsinntrykket av området, men som ligger over eller under referanseplanet, inntegnes med de riktige karttegn og strektyper og påføres hvilket nivå (hvilken etasje) de refererer seg til.Hvorvidt det skal tegnes ett kartblad over hver etasje eller om flere etasjer skal inntegnes på samme blad, bestemmes av krav til oversiktlighet og av brytningsmetode. Fortrinnsvis tegnes det kartblad over hver etasje.Vertikalsnitt skal supplere horisontalkartene og skal ha samme innhold som disse.Tverrprofiler legges i innbyrdes avstand, delelig med 5, betinget av regulariteten i forekomsten og slik at de gir et godt bilde av variasjonen i mektighet og fall.I den utstrekning oversiktligheten krever det, kan visse typer informasjoner innlegges på egne kartblad.
+1. *Dagkart*
+
+   Topografisk dagkart over området skal foruten de vanlige angivelser, vise alle forhold av bergverksmessig interesse, så som gamle gruveåpninger, gråbergstipper, avgangsdeponi med tilhørende infrastruktur og eiendomsgrenser. Kartene skal videre vise eksisterende bergrettigheter, konsesjonsområder og reguleringsgrenser.
+
+   Dekningsområdet for det detaljerte dagkartet skal markeres på oversiktskart.
+
+   Detaljerte dagkart skal dekke forekomsten og dennes nærmeste omgivelser. Foruten de angivelser som er nevnt for det topografiske dagkart, skal kartet vise de lokale forhold slik som veier, bygninger, telefon- og kraftlinjer mv.
+2. *Driftskart*
+
+   Horisontalkart skal vise dagbrudd, sjakter, orter, brytningsrom, malmgrenser og de viktigste bergartsgrensene.
+
+   Borhull og diamantborhull med angivelse av referanse (hullnummer) inntegnes. For øvrig inntegnes alt som har interesse for forståelsen av driften i gruva, slik som forkastninger og svakhetssoner med sikringstiltak.
+
+   Detaljer og konturer som er av betydning for helhetsinntrykket av området, men som ligger over eller under referanseplanet, inntegnes med de riktige karttegn og strektyper og påføres hvilket nivå (hvilken etasje) de refererer seg til.
+
+   Hvorvidt det skal tegnes ett kartblad over hver etasje eller om flere etasjer skal inntegnes på samme blad, bestemmes av krav til oversiktlighet og av brytningsmetode. Fortrinnsvis tegnes det kartblad over hver etasje.
+
+   Vertikalsnitt skal supplere horisontalkartene og skal ha samme innhold som disse.
+
+   Tverrprofiler legges i innbyrdes avstand, delelig med 5, betinget av regulariteten i forekomsten og slik at de gir et godt bilde av variasjonen i mektighet og fall.
+
+   I den utstrekning oversiktligheten krever det, kan visse typer informasjoner innlegges på egne kartblad.
 
 ## § 15. Karttegn
 

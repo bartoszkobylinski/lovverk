@@ -15,7 +15,7 @@ xml_hash: "df459842bb9db7e1db100a2a3c6727f29c24c67427addecf794cdcaaad814ca2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,10 @@ Kongen kan gi forskrifter om lovens anvendelse på Svalbard, Jan Mayen, bilanden
 
 ### § 4. Definisjoner
 
-I denne loven forstås medvirksomhet: Ethvert privat eller offentlig foretak samt privatpersoner som foretar en hvilken som helst aktivitet som nevnt i [§ 2](lov/2003-12-19-124/§2), bortsett fra aktiviteter i privat og ikke-kommersielt øyemed.omsetning: Besittelse med sikte på salg, utbud for salg, distribusjon, samt selve salget og enhver annen form for overdragelse med eller uten vederlag.
+I denne loven forstås med
+
+1. virksomhet: Ethvert privat eller offentlig foretak samt privatpersoner som foretar en hvilken som helst aktivitet som nevnt i [§ 2](lov/2003-12-19-124/§2), bortsett fra aktiviteter i privat og ikke-kommersielt øyemed.
+2. omsetning: Besittelse med sikte på salg, utbud for salg, distribusjon, samt selve salget og enhver annen form for overdragelse med eller uten vederlag.
 
 ## Kapittel II. Generelle krav og forpliktelser
 
@@ -120,7 +123,13 @@ Kongen kan gi forskrifter om sporbarhet for innsatsvarer, planter, dyr eller næ
 
 ### § 12. Forbud mot fangst, høsting, omsetning mv.
 
-Kongen kan i forskrift fastsetteforbud mot fangst og høsting,forbud eller begrensning av omsetning og bruk av varer som er omfattet av denne loven, ogkrav til eller forbud mot import og eksport mv.for å gjennomføre lovens formål eller for å ivareta Norges internasjonale forpliktelser.
+Kongen kan i forskrift fastsette
+
+1. forbud mot fangst og høsting,
+2. forbud eller begrensning av omsetning og bruk av varer som er omfattet av denne loven, og
+3. krav til eller forbud mot import og eksport mv.
+
+for å gjennomføre lovens formål eller for å ivareta Norges internasjonale forpliktelser.
 
 ### § 13. Adgang til sted, bistandsplikt, prøveuttak mv.
 
@@ -168,7 +177,12 @@ Enhver skal utvise nødvendig aktsomhet, slik at det ikke oppstår fare for utvi
 
 Planter skal ikke omsettes eller flyttes når det er grunn til mistanke om planteskadegjørere som kan gi vesentlige samfunnsmessige konsekvenser.
 
-Kongen kan gi nærmere forskrifter for å forebygge, overvåke og bekjempe planteskadegjørere, herunder omklassifisering og gruppering av planteskadegjørere,oppretting av soner,krav til planter, gjenstander, produkter og organismer som kan medføre risiko for spredning av planteskadegjørere, ogplikt til å informere om restriksjoner pga. planteskadegjørere, herunder plikt til å tinglyse restriksjoner på eiendommen.
+Kongen kan gi nærmere forskrifter for å forebygge, overvåke og bekjempe planteskadegjørere, herunder om
+
+1. klassifisering og gruppering av planteskadegjørere,
+2. oppretting av soner,
+3. krav til planter, gjenstander, produkter og organismer som kan medføre risiko for spredning av planteskadegjørere, og
+4. plikt til å informere om restriksjoner pga. planteskadegjørere, herunder plikt til å tinglyse restriksjoner på eiendommen.
 
 ### § 19. Dyrehelse
 
@@ -176,7 +190,15 @@ Enhver skal utvise nødvendig aktsomhet, slik at det ikke oppstår fare for utvi
 
 Levende dyr skal ikke omsettes, tas inn i dyrehold, flyttes eller settes ut når det er grunn til mistanke om smittsom dyresykdom som kan gi vesentlige samfunnsmessige konsekvenser.
 
-Kongen kan gi nærmere forskrifter for å forebygge, overvåke og bekjempe dyresykdommer og smittestoffer, herunder om:klassifisering og gruppering av sykdommer og smittestoffer,oppretting av soner med ulik helse- og sykdomsstatus samt epidemiologisk atskilte regioner,godkjenning og bruk av vaksiner og annen medikamentell behandling til dyr,flytting, transport, omsetning og bruk av levende og døde dyr, animalske biprodukter, gjenstander mv.,kontroll av avlsdyr, uttak av kjønnsprodukter og reproduksjon av dyr,adgangsbegrensninger for personer som kan føre med seg smitte til bygninger som brukes til dyr, fôr eller utstyr til dyr, og om plikt til å la sin person og medbrakte gjenstander desinfiseres, ogkrav om å oppgi relevant informasjon om et dyrs helse ved overdragelse.
+Kongen kan gi nærmere forskrifter for å forebygge, overvåke og bekjempe dyresykdommer og smittestoffer, herunder om:
+
+1. klassifisering og gruppering av sykdommer og smittestoffer,
+2. oppretting av soner med ulik helse- og sykdomsstatus samt epidemiologisk atskilte regioner,
+3. godkjenning og bruk av vaksiner og annen medikamentell behandling til dyr,
+4. flytting, transport, omsetning og bruk av levende og døde dyr, animalske biprodukter, gjenstander mv.,
+5. kontroll av avlsdyr, uttak av kjønnsprodukter og reproduksjon av dyr,
+6. adgangsbegrensninger for personer som kan føre med seg smitte til bygninger som brukes til dyr, fôr eller utstyr til dyr, og om plikt til å la sin person og medbrakte gjenstander desinfiseres, og
+7. krav om å oppgi relevant informasjon om et dyrs helse ved overdragelse.
 
 > Endret ved lov [2 feb 2024 nr. 8](lov/2024-02-02-8) (i kraft 1 juli 2024 iflg. [res. 2 feb 2024 nr. 152](forskrift/2024-02-02-152)).
 

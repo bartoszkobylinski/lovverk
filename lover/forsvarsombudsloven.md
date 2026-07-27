@@ -30,7 +30,13 @@ Stortingets ombudsnemnd for Forsvaret (Ombudsnemnda) skal fremme og beskytte ret
 
 ### § 2. Oppgaver
 
-Ombudsnemnda har følgende oppgaver:å overvåke og rapportere om personellets forhold, herunder legge frem anbefalinger for å sikre at deres interesser ivaretas,av eget tiltak foreta undersøkelser og ta opp problemstillinger som gjelder personellets interesser,å informere og veilede personell,å legge til rette for samarbeid og dialog mellom personell og Forsvaret ogå delta i internasjonalt samarbeid.
+Ombudsnemnda har følgende oppgaver:
+
+1. å overvåke og rapportere om personellets forhold, herunder legge frem anbefalinger for å sikre at deres interesser ivaretas,
+2. av eget tiltak foreta undersøkelser og ta opp problemstillinger som gjelder personellets interesser,
+3. å informere og veilede personell,
+4. å legge til rette for samarbeid og dialog mellom personell og Forsvaret og
+5. å delta i internasjonalt samarbeid.
 
 Ombudsnemnda kan ikke ta stilling til om det foreligger brudd på rettigheter eller plikter i enkeltsaker.
 
@@ -128,7 +134,10 @@ Et medlem av Ombudsnemnda eller en ansatt ved nemndas kontor kan ikke behandle e
 
 ### § 14. Dokumentoffentlighet
 
-Alle kan hos Ombudsnemnda kreve innsyn i nemndas saksdokumenter, journaler og lignende registre. Bestemmelsene i [offentleglova](lov/2006-05-19-16) med tilhørende forskrifter gjelder tilsvarende, så langt de passer, med følgende unntak:Ombudsnemndas interne saksdokumenter og dokumenter som utveksles mellom Ombudsnemnda og Stortinget om budsjett og intern administrasjon, kan unntas fra offentlighetDokumenter utarbeidet eller innhentet under forvaltningens forutgående behandling av en sak er unntatt fra offentlighet hos Ombudsnemnda.
+Alle kan hos Ombudsnemnda kreve innsyn i nemndas saksdokumenter, journaler og lignende registre. Bestemmelsene i [offentleglova](lov/2006-05-19-16) med tilhørende forskrifter gjelder tilsvarende, så langt de passer, med følgende unntak:
+
+1. Ombudsnemndas interne saksdokumenter og dokumenter som utveksles mellom Ombudsnemnda og Stortinget om budsjett og intern administrasjon, kan unntas fra offentlighet
+2. Dokumenter utarbeidet eller innhentet under forvaltningens forutgående behandling av en sak er unntatt fra offentlighet hos Ombudsnemnda.
 
 Den administrative lederen, eller den vedkommende bemyndiger, avgjør om et dokument helt eller delvis skal unntas fra offentlighet. Slike avgjørelser kan påklages til Ombudsnemnda.
 

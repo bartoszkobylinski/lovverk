@@ -15,7 +15,7 @@ xml_hash: "005ed4f62e924afb823206fb8baeec1c78e51f9188c7af002684e62009b8630a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,11 @@ Forskriften kommer ikke til anvendelse på Svalbard.
 
 ### § 2. Definisjon av måleflasker
 
-Med *måleflasker* menes i denne forskriften beholdere, vanligvis kalt flasker, som er laget av glass eller annet materiale med en stivhet og stabilitet som gir samme måletekniske sikkerhet som glass, når slike beholdere erkorket eller utformet til å korkes, er beregnet på lagring, transport eller levering av væsker,har en nominell kapasitet på minst 0,05 liter og høyst 5 liter, oghar slike måletekniske egenskaper (utformingsegenskaper og produksjonsensartethet) at de kan brukes som målebeholdere, dvs at innholdet i dem kan måles med tilstrekkelig nøyaktighet når de er fylt opp til et bestemt nivå eller til en bestemt prosent av sin fulle kapasitet.
+Med *måleflasker* menes i denne forskriften beholdere, vanligvis kalt flasker, som er laget av glass eller annet materiale med en stivhet og stabilitet som gir samme måletekniske sikkerhet som glass, når slike beholdere er
+
+1. korket eller utformet til å korkes, er beregnet på lagring, transport eller levering av væsker,
+2. har en nominell kapasitet på minst 0,05 liter og høyst 5 liter, og
+3. har slike måletekniske egenskaper (utformingsegenskaper og produksjonsensartethet) at de kan brukes som målebeholdere, dvs at innholdet i dem kan måles med tilstrekkelig nøyaktighet når de er fylt opp til et bestemt nivå eller til en bestemt prosent av sin fulle kapasitet.
 
 ### § 3. Krav til måleflasker og kontroll
 
@@ -60,11 +64,18 @@ Måleflasker som er godkjent i andre EØS-stater som oppfyller kravene og tilfre
 
 ### § 6. Ulike kapasiteter for måleflasker
 
-Måleflasker skal karakteriseres etter en av følgende følgende kapasiteter, som alltid bestemmes ved en temperatur på 20 °C:Den nominelle kapasitet Vn er volumet som er avmerket på flasken; det er det væskevolum som flasken skal inneholde når den er fylt under de bruksvilkår den er beregnet påEn flaskes kapasitet når den er helt full, er det væskevolum den inneholder når den er fylt til randenEn flaskes faktiske kapasitet er det væskevolum den faktisk inneholder når den er nøyaktig fylt under de vilkår som teoretisk svarer til den nominelle kapasitet.
+Måleflasker skal karakteriseres etter en av følgende følgende kapasiteter, som alltid bestemmes ved en temperatur på 20 °C:
+
+1. Den nominelle kapasitet Vn er volumet som er avmerket på flasken; det er det væskevolum som flasken skal inneholde når den er fylt under de bruksvilkår den er beregnet på
+2. En flaskes kapasitet når den er helt full, er det væskevolum den inneholder når den er fylt til randen
+3. En flaskes faktiske kapasitet er det væskevolum den faktisk inneholder når den er nøyaktig fylt under de vilkår som teoretisk svarer til den nominelle kapasitet.
 
 ### § 7. Fyllemåter
 
-Det er to måter å fylle måleflasker på:til et konstant nivå, ellertil et konstant tomrom.
+Det er to måter å fylle måleflasker på:
+
+1. til et konstant nivå, eller
+2. til et konstant tomrom.
 
 Avstanden mellom det teoretiske påfyllingsnivået for den nominelle kapasitet og randens nivå samt differansen mellom kapasitet til randen og den nominelle kapasitet, kalt utvidelsesvolumet eller tomrommet, skal være tilnærmet konstante for alle flasker av samme type, dvs. for alle flasker fremstilt etter samme spesifikasjon.
 
@@ -92,9 +103,16 @@ Måleflaskene skal veies tomme. De skal fylles med vann med 20 °C og med kjent 
 
 ### § 9. Krav til merking av måleflasker
 
-En måleflaske skal ha følgende varige, lett leselige og synlige preging på sideflaten, på bunnkanten eller på bunnen:Angivelse av dens nominelle kapasitet i måleenheten liter, centiliter eller milliliter med tall som er minst 6 mm høye, dersom den nominelle kapasitet er større enn 100 cl, minst 4 mm høye dersom den er 100 cl eller mindre, men mer enn 20 cl, og minst 3 mm dersom den er 20 cl eller mindre, etterfulgt av symbolet for den målenhet som er benyttet, eller eventuelt av navnet på enheten, i samsvar med bestemmelsene i rådsdirektiv [71/354/EØF](eu/31971l0354*) av 18. oktober 1971 om tilnærming av medlemsstatenes lovgivning om målenheter [EFT nr. L 243 av 29.10.1971, s. 29], endret ved tiltredelsesaktenProdusentens identifikasjonssymbol som fastsatt [§ 4](forskrift/2007-12-21-1732/§4) første leddSymbolet fastsatt i [§ 4](forskrift/2007-12-21-1732/§4) annet ledd.
+En måleflaske skal ha følgende varige, lett leselige og synlige preging på sideflaten, på bunnkanten eller på bunnen:
 
-En måleflaske skal ha en av følgende varige, lett leselige og synlige preging på bunnen eller bunnkanten, på en slik måte at den ikke kan forveksles med foregående angivelse, med tall med samme minstehøyde som dem som angir tilsvarende nominell kapasitet, i samsvar med den metode eller de metoder for påfylling som flasken er beregnet på:Angivelse av kapasiteten når flasken er fylt til randen, uttrykt i centiliter og ikke etterfulgt av symbolet clAngivelse av avstanden i millimeter fra nivået når flasken er fylt til randen, til nivået for påfylling som svarer til den nominelle kapasiteten, etterfulgt av symbolet mm.
+1. Angivelse av dens nominelle kapasitet i måleenheten liter, centiliter eller milliliter med tall som er minst 6 mm høye, dersom den nominelle kapasitet er større enn 100 cl, minst 4 mm høye dersom den er 100 cl eller mindre, men mer enn 20 cl, og minst 3 mm dersom den er 20 cl eller mindre, etterfulgt av symbolet for den målenhet som er benyttet, eller eventuelt av navnet på enheten, i samsvar med bestemmelsene i rådsdirektiv [71/354/EØF](eu/31971l0354*) av 18. oktober 1971 om tilnærming av medlemsstatenes lovgivning om målenheter [EFT nr. L 243 av 29.10.1971, s. 29], endret ved tiltredelsesakten
+2. Produsentens identifikasjonssymbol som fastsatt [§ 4](forskrift/2007-12-21-1732/§4) første ledd
+3. Symbolet fastsatt i [§ 4](forskrift/2007-12-21-1732/§4) annet ledd.
+
+En måleflaske skal ha en av følgende varige, lett leselige og synlige preging på bunnen eller bunnkanten, på en slik måte at den ikke kan forveksles med foregående angivelse, med tall med samme minstehøyde som dem som angir tilsvarende nominell kapasitet, i samsvar med den metode eller de metoder for påfylling som flasken er beregnet på:
+
+1. Angivelse av kapasiteten når flasken er fylt til randen, uttrykt i centiliter og ikke etterfulgt av symbolet cl
+2. Angivelse av avstanden i millimeter fra nivået når flasken er fylt til randen, til nivået for påfylling som svarer til den nominelle kapasiteten, etterfulgt av symbolet mm.
 
 Andre angivelser kan påføres flasken såfremt de ikke fører til forveksling med den obligatoriske pregingen.
 

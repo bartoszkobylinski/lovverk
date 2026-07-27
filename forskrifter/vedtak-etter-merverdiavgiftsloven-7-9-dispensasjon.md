@@ -15,7 +15,7 @@ xml_hash: "72cfa9af58b6ea920b97054b788efd59ba36e528c15cd853a20ae38b122620bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,14 @@ Det er antatt at bearbeidingen vil ta mer tid enn to år, jf. [merverdiavgiftslo
 
 Finansdepartementet har tidligere hatt en lignende søknad til behandling. Departementet fant ved vedtak av 29. november 2013 etter en samlet vurdering av flere forhold å kunne frita en vindkraftplattform og tilhørende elektrisk anlegg for innførselsmerverdiavgift.
 
-Departementet la i sin avgjørelse vekt på følgende forhold:at det var tale om vare som ble importert til Norge for bearbeiding og som senere skulle re-eksportesat det arbeid som ble utført på vindkraftplattformen i stor grad var sammenfallende med arbeid som gjøres på oljeboringsplattformerat lovgiver har åpnet for en smidig avgiftshåndtering av innførsel av industrivarer for bearbeiding, se [merverdiavgiftsloven § 7-2](lov/2009-06-19-58/§7-2) annet ledd, jf. [tolloven § 6-3](lov/2007-12-21-119/§6-3)at den konkrete saken viste at rekkevidden av merverdiavgiftslovens fritak for innførsel av plattformer burde underlegges en fornyet vurderingat departementet i statsbudsjettet for 2014, jf. Prop. LS (2013–2014) avsnitt 25, uttaler at utleie av varer over grensen i større grad bør avspeile verdien av tjenesten, og ikke tollverdien av varen ogat departementet vil fortsette arbeidet med sikte på å utrede mulighetene for forenklede prosedyrer ved midlertidig innførsel av varer av høyere verdi.
+Departementet la i sin avgjørelse vekt på følgende forhold:
+
+- at det var tale om vare som ble importert til Norge for bearbeiding og som senere skulle re-eksportes
+- at det arbeid som ble utført på vindkraftplattformen i stor grad var sammenfallende med arbeid som gjøres på oljeboringsplattformer
+- at lovgiver har åpnet for en smidig avgiftshåndtering av innførsel av industrivarer for bearbeiding, se [merverdiavgiftsloven § 7-2](lov/2009-06-19-58/§7-2) annet ledd, jf. [tolloven § 6-3](lov/2007-12-21-119/§6-3)
+- at den konkrete saken viste at rekkevidden av merverdiavgiftslovens fritak for innførsel av plattformer burde underlegges en fornyet vurdering
+- at departementet i statsbudsjettet for 2014, jf. Prop. LS (2013–2014) avsnitt 25, uttaler at utleie av varer over grensen i større grad bør avspeile verdien av tjenesten, og ikke tollverdien av varen og
+- at departementet vil fortsette arbeidet med sikte på å utrede mulighetene for forenklede prosedyrer ved midlertidig innførsel av varer av høyere verdi.
 
 *Skattedirektoratets vurdering*
 

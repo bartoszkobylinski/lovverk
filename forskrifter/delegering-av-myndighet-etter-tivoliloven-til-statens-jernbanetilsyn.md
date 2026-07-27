@@ -22,4 +22,6 @@ eu_basis: []
 
 # Delegering av Samferdselsdepartementets myndighet etter lov 22. mai 2017 nr. 30 om fornøyelsesinnretninger (tivoliloven) til Statens jernbanetilsyn
 
-Samferdselsdepartementet har 27. juni 2017 med hjemmel i [lov 22. mai 2017 nr. 30](lov/2017-05-22-30) om fornøyelsesinnretninger (tivoliloven) fattet følgende vedtak:Samferdselsdepartementet delegerer sin myndighet etter § 2 annet ledd til Statens jernbanetilsyn.
+Samferdselsdepartementet har 27. juni 2017 med hjemmel i [lov 22. mai 2017 nr. 30](lov/2017-05-22-30) om fornøyelsesinnretninger (tivoliloven) fattet følgende vedtak:
+
+Samferdselsdepartementet delegerer sin myndighet etter § 2 annet ledd til Statens jernbanetilsyn.

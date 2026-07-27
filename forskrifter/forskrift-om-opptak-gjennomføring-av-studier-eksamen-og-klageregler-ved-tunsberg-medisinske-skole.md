@@ -15,7 +15,7 @@ xml_hash: "04f231062260c04150d4a3759f5ba80556d4f1132bf954cd67f4b23b817527d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,11 @@ eu_basis: []
 
 ### § 1-2. Definisjoner
 
-I denne forskriften menes med:*Emne:* De minste resultatbærende enhetene som gir uttelling i form av studiepoeng. Med minste resultatbærende enhet menes alle enheter som gir en selvstendig karakter, og som studenten må bestå for å få godkjent et vitnemålsgivende utdanningstilbud. Enhetene kan variere i omfang og skal fremkomme i vitnemålet. I studieplan benytter vi også begrepet fag om emne.*Realkompetanse:* Dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons- og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.*Realkompetansevurdering:* Måling av realkompetansen opp mot kriterier fastsatt i gjeldende studieplan. Realkompetansevurdering kan gi grunnlag for opptak til fagskoleutdanning eller fritak for emner som del av en fagskoleutdanning.
+I denne forskriften menes med:
+
+1. *Emne:* De minste resultatbærende enhetene som gir uttelling i form av studiepoeng. Med minste resultatbærende enhet menes alle enheter som gir en selvstendig karakter, og som studenten må bestå for å få godkjent et vitnemålsgivende utdanningstilbud. Enhetene kan variere i omfang og skal fremkomme i vitnemålet. I studieplan benytter vi også begrepet fag om emne.
+2. *Realkompetanse:* Dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons- og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.
+3. *Realkompetansevurdering:* Måling av realkompetansen opp mot kriterier fastsatt i gjeldende studieplan. Realkompetansevurdering kan gi grunnlag for opptak til fagskoleutdanning eller fritak for emner som del av en fagskoleutdanning.
 
 ### § 1-3. Innhenting og behandling av personopplysninger
 
@@ -108,7 +112,13 @@ For opptak til fagskoleutdanning og enkeltemner fra fagskoleutdanning ved Tunsbe
 
 (2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden må dokumentere kunnskaper i norsk.
 
-(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [integreringsforskriften § 26](forskrift/2020-12-15-2912/§26).
+(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:
+
+1. Bestått norsk med 393 timer fra videregående opplæring
+2. Bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. Bestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. Skriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009
+5. Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [integreringsforskriften § 26](forskrift/2020-12-15-2912/§26).
 
 > Endret ved forskrift [30 des 2020 nr. 3214](forskrift/2020-12-30-3214) (i kraft 1 jan 2021).
 
@@ -144,7 +154,13 @@ For opptak til fagskoleutdanning og enkeltemner fra fagskoleutdanning ved Tunsbe
 
 (2) Emnets eksamensform og vekting, dersom emnet består av flere deleksamener, skal fremgå av studieplanen.
 
-(3) Følgende vurderingsformer kan benyttes – enten individuelt eller i gruppe:skriftlig eksamen med tilsynskriftlig eksamen uten tilsyn, som for eksempel hjemmeeksamen, prosjektoppgave, hovedprosjekt og presentasjonsmappermuntlig eksamenvurdering av obligatoriske oppgaverpraksis, laboratorieøvelser, muntlige presentasjoner.
+(3) Følgende vurderingsformer kan benyttes – enten individuelt eller i gruppe:
+
+1. skriftlig eksamen med tilsyn
+2. skriftlig eksamen uten tilsyn, som for eksempel hjemmeeksamen, prosjektoppgave, hovedprosjekt og presentasjonsmapper
+3. muntlig eksamen
+4. vurdering av obligatoriske oppgaver
+5. praksis, laboratorieøvelser, muntlige presentasjoner.
 
 (4) Alle skriftlige eksamener, både med og uten tilsyn, skal normalt leveres med kandidatnummer.
 
@@ -163,7 +179,11 @@ Tunsberg Medisinske Skole benytter både en gradert karakterskala (A til F) og b
 
 ### § 3-3. Vilkår for å avlegge eksamen
 
-Studenten har rett til å avlegge eksamen i et emne når han/hun har:betalt studieavgift.senest to uker før eksamen fått godkjent alle arbeidskrav, praksis eller andre obligatoriske aktiviteter til emnet, slik beskrevet i studieplanen.rektor kan etter søknad innvilge dispensasjon dersom uforutsette og alvorlige omstendigheter har gjort det vanskelig å oppfylle kravene i denne paragrafen, og det lages en plan for hvordan kravene kan innfris. Dersom planen ikke overholdes innen fastsatt tid, vil eksamen annulleres.
+Studenten har rett til å avlegge eksamen i et emne når han/hun har:
+
+1. betalt studieavgift.
+2. senest to uker før eksamen fått godkjent alle arbeidskrav, praksis eller andre obligatoriske aktiviteter til emnet, slik beskrevet i studieplanen.
+3. rektor kan etter søknad innvilge dispensasjon dersom uforutsette og alvorlige omstendigheter har gjort det vanskelig å oppfylle kravene i denne paragrafen, og det lages en plan for hvordan kravene kan innfris. Dersom planen ikke overholdes innen fastsatt tid, vil eksamen annulleres.
 
 > Endret ved forskrift [19 des 2022 nr. 2657](forskrift/2022-12-19-2657) (i kraft 13 april 2023).
 
@@ -177,7 +197,12 @@ Studenten har rett til å avlegge eksamen i et emne når han/hun har:betalt stud
 
 (1) Dersom en kandidat har behov for spesiell tilrettelegging av eksamen, må han/hun sende inn skriftlig søknad til skolens administrasjon innen en måned før eksamen. Kandidaten kan også søke om tilrettelegging ved eksamen dersom han/hun har fått en akutt skade eller sykdom. Søknaden må inneholde en bekreftelse fra en sakkyndig, for eksempel lege, logoped eller psykolog.
 
-(2) Formålet med tilretteleggingen er å kompensere for de ulempene studentens spesielle behov medfører. Skolen må samtidig sørge for at studenten i størst mulig grad prøves likt. Tiltakene kan være:Utvidet tid ved eksamen. Det gis 1/2 time ekstra tid ved eksamen til og med 4 timer og 1 time ved eksamen over 4 timer.Bruk av ordbok.Bruk av PC eller andre hjelpemidler.Alternativ eksamensform (muntlig/skriftlig).
+(2) Formålet med tilretteleggingen er å kompensere for de ulempene studentens spesielle behov medfører. Skolen må samtidig sørge for at studenten i størst mulig grad prøves likt. Tiltakene kan være:
+
+1. Utvidet tid ved eksamen. Det gis 1/2 time ekstra tid ved eksamen til og med 4 timer og 1 time ved eksamen over 4 timer.
+2. Bruk av ordbok.
+3. Bruk av PC eller andre hjelpemidler.
+4. Alternativ eksamensform (muntlig/skriftlig).
 
 (3) Vedtak om tilrettelegging av eksamen fattes av rektor. Vedtaket er et enkeltvedtak og kan påklages. Se: [kapittel 5](forskrift/2020-12-03-2662/kap5).
 
@@ -329,7 +354,12 @@ En student som har gyldig fravær på eksamen må selv melde seg opp til utsatt 
 
 (9) En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetningene for å kunne utøve yrket. En student som i utdanningen eller i fremtidig yrkesutøvelse kan utgjøre fare for liv, fysisk og/eller psykisk helse, rettigheter og sikkerhet til barn, unge eller voksne i sårbare situasjoner, er ikke skikket for yrket.
 
-(10) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerstudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningstudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helsestudenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+(10) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
+
+1. studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+2. studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+3. studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse
+4. studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
 ### § 4-2. Bortvisning og utestenging
 
@@ -363,9 +393,20 @@ En student som har gyldig fravær på eksamen må selv melde seg opp til utsatt 
 
 (8) Den lokale klagenemndas medlemmer utenom studentrepresentantene med vara, velges for fire år av gangen. Studentrepresentantene med vara velges for to år.
 
-(9) En klage skal inneholde:hvem som klager (navn, adresse og eventuelt kandidatnummer)det vedtak det klages overbegrunnelse for klagendato og underskrift.
+(9) En klage skal inneholde:
 
-(10) Nasjonal klagenemnd for fagskoleutdanning behandler klager over enkeltvedtak truffet med hjemmel i:[fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolens opptaksvedtak om realkompetanse jf. [fagskoleforskriften § 7](forskrift/2019-07-11-1005/§7) første ledd eller spesielle opptakskrav jf. [§ 7](forskrift/2019-07-11-1005/§7) femte ledd[fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve[fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging[fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet[fagskoleloven § 27](lov/2018-06-08-28/§27) om krav om politiattest.
+1. hvem som klager (navn, adresse og eventuelt kandidatnummer)
+2. det vedtak det klages over
+3. begrunnelse for klagen
+4. dato og underskrift.
+
+(10) Nasjonal klagenemnd for fagskoleutdanning behandler klager over enkeltvedtak truffet med hjemmel i:
+
+1. [fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolens opptaksvedtak om realkompetanse jf. [fagskoleforskriften § 7](forskrift/2019-07-11-1005/§7) første ledd eller spesielle opptakskrav jf. [§ 7](forskrift/2019-07-11-1005/§7) femte ledd
+2. [fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve
+3. [fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging
+4. [fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet
+5. [fagskoleloven § 27](lov/2018-06-08-28/§27) om krav om politiattest.
 
 (11) Vedtak fattet av Nasjonal klagenemnd for fagskoleutdanning kan ikke påklages.
 

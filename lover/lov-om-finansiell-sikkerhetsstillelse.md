@@ -15,7 +15,7 @@ xml_hash: "3cbdc28e43999f281aa0176be6f1950ce4b35e37fe1ea48797b4d09829ef15e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32002L0047"
@@ -29,7 +29,12 @@ Lovens formål er å styrke det finansielle markedet og ivareta hensynet til fin
 
 Loven gjelder avtaler om finansiell sikkerhetsstillelse.
 
-Loven kommer til anvendelse når både sikkerhetsstiller og sikkerhetshaver tilhører en av følgende kategorier:offentlige myndigheter, herunder myndigheter som er ansvarlig for eller medvirker til forvaltning av offentlig gjeld eller fører konti for kunder,sentralbanker, Den Europeiske Sentralbank, Den Internasjonale Betalingsbank, Det internasjonale Valutafond, Den Europeiske Investeringsbank, Den internasjonale bank for gjenoppbygging og utvikling, Det internasjonale finansieringsinstitutt, Den interamerikanske utviklingsbank, Den asiatiske utviklingsbank, Den afrikanske utviklingsbank, Europarådets bosettingsfond, Den nordiske investeringsbank, Den karibiske utviklingsbank, Den europeiske bank for gjenoppbygging og utvikling, Det europeiske investeringsfond og Det interamerikanske investeringsselskap,finansinstitusjoner, pensjonskasser, verdipapirforetak, verdipapirfond og forvaltningsselskaper for verdipapirfond,avregningssentraler, sentrale motparter og lignende lovregulerte institusjoner som handler med finansielle instrumenter som nevnt i [verdipapirhandelloven § 2-4](lov/2007-06-29-75/§2-4) syvende ledd, eller juridiske personer som handler i egenskap av formuesforvalter eller etter fullmakt fra en eller flere personer, for eksempel tillitsmenn for obligasjonseiere i obligasjonsmarkedet eller spesialforetak opprettet i forbindelse med verdipapirisering.
+Loven kommer til anvendelse når både sikkerhetsstiller og sikkerhetshaver tilhører en av følgende kategorier:
+
+1. offentlige myndigheter, herunder myndigheter som er ansvarlig for eller medvirker til forvaltning av offentlig gjeld eller fører konti for kunder,
+2. sentralbanker, Den Europeiske Sentralbank, Den Internasjonale Betalingsbank, Det internasjonale Valutafond, Den Europeiske Investeringsbank, Den internasjonale bank for gjenoppbygging og utvikling, Det internasjonale finansieringsinstitutt, Den interamerikanske utviklingsbank, Den asiatiske utviklingsbank, Den afrikanske utviklingsbank, Europarådets bosettingsfond, Den nordiske investeringsbank, Den karibiske utviklingsbank, Den europeiske bank for gjenoppbygging og utvikling, Det europeiske investeringsfond og Det interamerikanske investeringsselskap,
+3. finansinstitusjoner, pensjonskasser, verdipapirforetak, verdipapirfond og forvaltningsselskaper for verdipapirfond,
+4. avregningssentraler, sentrale motparter og lignende lovregulerte institusjoner som handler med finansielle instrumenter som nevnt i [verdipapirhandelloven § 2-4](lov/2007-06-29-75/§2-4) syvende ledd, eller juridiske personer som handler i egenskap av formuesforvalter eller etter fullmakt fra en eller flere personer, for eksempel tillitsmenn for obligasjonseiere i obligasjonsmarkedet eller spesialforetak opprettet i forbindelse med verdipapirisering.
 
 Loven kommer også til anvendelse på avtaler om finansiell sikkerhetsstillelse som er inngått mellom enhver juridisk person og en institusjon som nevnt i tredje ledd.
 
@@ -39,7 +44,15 @@ Kongen kan bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan M
 
 ## § 2. Definisjoner mv.
 
-I denne lov menes med:avtale om finansiell sikkerhetsstillelse: avtale om overdragelse av eiendomsrett til finansiell sikkerhet, herunder gjenkjøpsavtale, og avtale om pantsettelse av finansiell sikkerhet, med det formål å sikre oppfyllelsen av finansielle forpliktelser,finansiell forpliktelse: forpliktelse som omfattes av avtalen om finansiell sikkerhetsstillelse, og som gir rett til kontant avregning eller levering av finansielle instrumenter,finansiell sikkerhet: kontante innskudd, finansielle instrumenter og gjeldsfordringer,kontante innskudd: innskudd i kredittinstitusjon og lignende kontante fordringer i enhver valuta, herunder pengemarkedsinnskudd,sikkerhetsstiller: den som overdrar eller pantsetter finansiell sikkerhet til sikkerhet for finansielle forpliktelser,sikkerhetshaver: den som erverver eiendomsrett til eller panterett i finansiell sikkerhet til sikkerhet for finansielle forpliktelser.gjeldsfordring: pengekrav som oppstår som følge av at en kredittinstitusjon bevilger kreditt i form av et lån. Lån til en forbruker regnes likevel bare som gjeldsfordring hvis sikkerhetshaveren eller sikkerhetsstilleren er en institusjon som nevnt i [§ 1](lov/2004-03-26-17/§1) tredje ledd bokstav b.
+I denne lov menes med:
+
+1. avtale om finansiell sikkerhetsstillelse: avtale om overdragelse av eiendomsrett til finansiell sikkerhet, herunder gjenkjøpsavtale, og avtale om pantsettelse av finansiell sikkerhet, med det formål å sikre oppfyllelsen av finansielle forpliktelser,
+2. finansiell forpliktelse: forpliktelse som omfattes av avtalen om finansiell sikkerhetsstillelse, og som gir rett til kontant avregning eller levering av finansielle instrumenter,
+3. finansiell sikkerhet: kontante innskudd, finansielle instrumenter og gjeldsfordringer,
+4. kontante innskudd: innskudd i kredittinstitusjon og lignende kontante fordringer i enhver valuta, herunder pengemarkedsinnskudd,
+5. sikkerhetsstiller: den som overdrar eller pantsetter finansiell sikkerhet til sikkerhet for finansielle forpliktelser,
+6. sikkerhetshaver: den som erverver eiendomsrett til eller panterett i finansiell sikkerhet til sikkerhet for finansielle forpliktelser.
+7. gjeldsfordring: pengekrav som oppstår som følge av at en kredittinstitusjon bevilger kreditt i form av et lån. Lån til en forbruker regnes likevel bare som gjeldsfordring hvis sikkerhetshaveren eller sikkerhetsstilleren er en institusjon som nevnt i [§ 1](lov/2004-03-26-17/§1) tredje ledd bokstav b.
 
 Etter denne lov anses sikkerhet ikke som stilt før rettsvern er etablert.
 
@@ -55,7 +68,10 @@ Det kan avtales at sikkerhetshaver skal ha bruksrett til stilt finansiell sikker
 
 Ved å utøve bruksrett får sikkerhetshaver en plikt til å overføre tilsvarende sikkerhet til sikkerhetsstiller senest på forfallstidspunktet for sikkerhetsstillers finansielle forpliktelser. Det kan avtales at plikten til å overføre tilsvarende sikkerhet kan oppfylles på annen måte, herunder ved at verdien av den tilsvarende sikkerhet i de finansielle forpliktelser motregnes. Sikkerhetshaver bevarer det opprinnelige rettsvern i forhold til tilsvarende sikkerhet som er overført i samsvar med første punktum.
 
-Med tilsvarende sikkerhet menes:når sikkerheten består av kontant innskudd: betaling av samme beløp i samme valuta, ognår sikkerheten består av finansielle instrumenter: finansielle instrumenter som er en del av samme utstedelse eller klasse, som er utstedt på samme nominelle beløp og i samme valuta og som ellers er av samme beskaffenhet som sikkerheten, eller andre aktiva dersom avtalen gir rett til å overføre slike ved en hendelse som påvirker de aktuelle finansielle instrumentene.
+Med tilsvarende sikkerhet menes:
+
+1. når sikkerheten består av kontant innskudd: betaling av samme beløp i samme valuta, og
+2. når sikkerheten består av finansielle instrumenter: finansielle instrumenter som er en del av samme utstedelse eller klasse, som er utstedt på samme nominelle beløp og i samme valuta og som ellers er av samme beskaffenhet som sikkerheten, eller andre aktiva dersom avtalen gir rett til å overføre slike ved en hendelse som påvirker de aktuelle finansielle instrumentene.
 
 > Endret ved [lov 18 nov 2011 nr. 42](lov/2011-11-18-42) (ikr. 1 jan 2012 iflg. [res. 18 nov 2011 nr. 1107](forskrift/2011-11-18-1107)).
 

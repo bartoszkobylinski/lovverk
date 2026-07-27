@@ -26,7 +26,19 @@ eu_basis: []
 
 ### § 1-1. Definisjoner
 
-I forskriften menes med*grense:* Norges territorialgrense over land, i vassdrag og i sjøen*riksgrense:* Norges fastlandsgrense mot Sverige, Finland og Russland, slik den er definert i folkerettslige forpliktelser*indre Schengen-grenser:* medlemsstatenes felles grenser på land, herunder langs elver og innsjøer, lufthavner for interne flygninger i medlemsstatene og havner som brukes til regelmessige interne fergeforbindelser i sjøen, elver og innsjøer*ytre Schengen-grenser:* medlemsstatenes landegrenser, herunder grenser i sjøen, elver og innsjøer, og lufthavner og havner i sjøen, elver og innsjøer, såfremt de ikke er indre grenser*grenseovergangssted:* fastsatte passeringsteder på ytre Schengen-grense og på indre Schengen-grense ved midlertidig gjeninnført grensekontroll*grensetilsyn:* vedlikehold av grensemerking og grensegate*grensekontroll:* inn- og utreisekontroll og grenseovervåking*inn- og utreisekontroll:* kontroll med at personer har lov til å reise inn eller ut av Schengen-medlemsstatenes territorium*grensepassering:* fysisk forflytning over grenser av personer og transportmidler*transportør:* fysisk eller juridisk person som driver yrkesmessig transport av personer, og eiere og førere av private luftfartøy*landlov:* sjøfolks rett til å gå i land og oppholde seg i havnen og i tilgrensende kommuner mens sjøfartøyet ligger i havn.
+I forskriften menes med
+
+1. *grense:* Norges territorialgrense over land, i vassdrag og i sjøen
+2. *riksgrense:* Norges fastlandsgrense mot Sverige, Finland og Russland, slik den er definert i folkerettslige forpliktelser
+3. *indre Schengen-grenser:* medlemsstatenes felles grenser på land, herunder langs elver og innsjøer, lufthavner for interne flygninger i medlemsstatene og havner som brukes til regelmessige interne fergeforbindelser i sjøen, elver og innsjøer
+4. *ytre Schengen-grenser:* medlemsstatenes landegrenser, herunder grenser i sjøen, elver og innsjøer, og lufthavner og havner i sjøen, elver og innsjøer, såfremt de ikke er indre grenser
+5. *grenseovergangssted:* fastsatte passeringsteder på ytre Schengen-grense og på indre Schengen-grense ved midlertidig gjeninnført grensekontroll
+6. *grensetilsyn:* vedlikehold av grensemerking og grensegate
+7. *grensekontroll:* inn- og utreisekontroll og grenseovervåking
+8. *inn- og utreisekontroll:* kontroll med at personer har lov til å reise inn eller ut av Schengen-medlemsstatenes territorium
+9. *grensepassering:* fysisk forflytning over grenser av personer og transportmidler
+10. *transportør:* fysisk eller juridisk person som driver yrkesmessig transport av personer, og eiere og førere av private luftfartøy
+11. *landlov:* sjøfolks rett til å gå i land og oppholde seg i havnen og i tilgrensende kommuner mens sjøfartøyet ligger i havn.
 
 ### § 1-2. Virkeområde for Jan Mayen
 
@@ -170,7 +182,14 @@ Er det gjeninnført midlertidig indre grensekontroll etter [grenseloven § 14](l
 
 ### § 4-9. Særlig om forhåndsmelding om reisende og mannskap på luftfartøy
 
-Forhåndsmelding som nevnt i [grenseloven § 16](lov/2018-04-20-8/§16) første ledd skal, i samsvar med grensekontrollmyndighetens pålegg, gis av transportør av luftfartøy som kommer fra eller flyr til land som ikke er tilsluttet Schengen-konvensjonen, etter at innsjekking er avsluttet. Det samme gjelder for flygninger fra Svalbard til fastlandet og fra land som er tilsluttet Schengen-konvensjonen ved gjeninnført midlertidig indre grensekontroll, jf. [grenseloven § 14](lov/2018-04-20-8/§14) annet ledd. Slik melding kan også kreves av Politiets sikkerhetstjeneste. Meldingen skal inneholde følgende opplysningerde reisendes og mannskapets reisedokumenttype og -nummer, statsborgerskap, navn og fødselsdatogrenseovergangsstedtransportkodentransportens avgangs- og ankomsttiddet totale antall personer som transporteres med transportenførste ombordsstigningssted.
+Forhåndsmelding som nevnt i [grenseloven § 16](lov/2018-04-20-8/§16) første ledd skal, i samsvar med grensekontrollmyndighetens pålegg, gis av transportør av luftfartøy som kommer fra eller flyr til land som ikke er tilsluttet Schengen-konvensjonen, etter at innsjekking er avsluttet. Det samme gjelder for flygninger fra Svalbard til fastlandet og fra land som er tilsluttet Schengen-konvensjonen ved gjeninnført midlertidig indre grensekontroll, jf. [grenseloven § 14](lov/2018-04-20-8/§14) annet ledd. Slik melding kan også kreves av Politiets sikkerhetstjeneste. Meldingen skal inneholde følgende opplysninger
+
+1. de reisendes og mannskapets reisedokumenttype og -nummer, statsborgerskap, navn og fødselsdato
+2. grenseovergangssted
+3. transportkoden
+4. transportens avgangs- og ankomsttid
+5. det totale antall personer som transporteres med transporten
+6. første ombordsstigningssted.
 
 Ved behov kan grensekontrollmyndigheten også pålegge en transportør å opplyse om visumnummer og endedestinasjon.
 
@@ -206,7 +225,12 @@ Fører av luft- og sjøfartøy skal straks varsle grensekontrollmyndigheten om b
 
 Utenlandsk sjømann med rett til landlov etter [utlendingsforskriften § 4-19](forskrift/2009-10-15-1286/§4-19) skal ikke inn- eller utreisekontrolleres etter [grenseloven § 15](lov/2018-04-20-8/§15), og fremstillingsplikten etter [grenseloven § 13](lov/2018-04-20-8/§13) annet ledd gjelder ikke. Heller ikke utlending som er oppført på en liste over besetningsmedlemmer som føreren av sjøfartøyet etter [grenseforskriften § 4-12](forskrift/2022-04-29-665/§4-12) skal gi melding om, skal kontrolleres når listen er kontrollert.
 
-Inn- og utreisekontroll skal likevel foretas etter [grenseloven § 15](lov/2018-04-20-8/§15) på vanlig måte nåren utlending vil reise til et annet sted i Norge eller til et annet land i Schengen-territoriet under skipets opphold herutenlandsk sjømann har opphold på Schengen-territoriet utover tre måneder, jf. [utlendingsforskriften § 4-19](forskrift/2009-10-15-1286/§4-19) annet ledden utlending skal fratre sin stilling, jf. [grenseforskriften § 4-12](forskrift/2022-04-29-665/§4-12)hensynet til indre sikkerhet eller risiko for ulovlig innvandring tilsier det, jf. grenseforordningen vedlegg VII punkt 3.
+Inn- og utreisekontroll skal likevel foretas etter [grenseloven § 15](lov/2018-04-20-8/§15) på vanlig måte når
+
+1. en utlending vil reise til et annet sted i Norge eller til et annet land i Schengen-territoriet under skipets opphold her
+2. utenlandsk sjømann har opphold på Schengen-territoriet utover tre måneder, jf. [utlendingsforskriften § 4-19](forskrift/2009-10-15-1286/§4-19) annet ledd
+3. en utlending skal fratre sin stilling, jf. [grenseforskriften § 4-12](forskrift/2022-04-29-665/§4-12)
+4. hensynet til indre sikkerhet eller risiko for ulovlig innvandring tilsier det, jf. grenseforordningen vedlegg VII punkt 3.
 
 Unntak fra inn- og utreisekontroll etter denne bestemmelsen gjelder når føreren av sjøfartøyet plikter å gi melding etter [grenseforskriften § 4-10](forskrift/2022-04-29-665/§4-10) og utlendingen er oppført på listen over besetningsmedlemmer og listen er kontrollert.
 
@@ -218,7 +242,11 @@ Grensekontrollmyndigheten i det enkelte politidistrikt kan i enkelttilfeller bes
 
 ### § 5-1. Formål. Regler som gjelder for behandlingen av personopplysninger
 
-Formålet med grense- og territorialkontrollregisteret er åbidra til at grensekontroll, screening og alminnelig utlendingskontroll utøves i samsvar med nasjonale behov og internasjonale forpliktelser, herunder bidra til å opprettholde ro og orden, forebygge og bekjempe grensekryssende kriminalitet og ulovlig innvandring, forhindre overtredelse av bestemmelsene om utlendingers opphold i riket og bekjempe trusler mot folkehelsenbidra til effektiv oppgaveløsning ved grensekontroll, screening og alminnelig utlendingskontrollsikre notoritet om vesentlige forhold ved grensekontroll, screening og alminnelig utlendingskontroll.
+Formålet med grense- og territorialkontrollregisteret er å
+
+1. bidra til at grensekontroll, screening og alminnelig utlendingskontroll utøves i samsvar med nasjonale behov og internasjonale forpliktelser, herunder bidra til å opprettholde ro og orden, forebygge og bekjempe grensekryssende kriminalitet og ulovlig innvandring, forhindre overtredelse av bestemmelsene om utlendingers opphold i riket og bekjempe trusler mot folkehelsen
+2. bidra til effektiv oppgaveløsning ved grensekontroll, screening og alminnelig utlendingskontroll
+3. sikre notoritet om vesentlige forhold ved grensekontroll, screening og alminnelig utlendingskontroll.
 
 For behandling av personopplysninger gjelder reglene i [personopplysningsloven](lov/2018-06-15-38), med mindre noe annet følger av rettsaktene gjennomført i [grenseloven § 8](lov/2018-04-20-8/§8).
 
@@ -232,7 +260,22 @@ Politidirektoratet er behandlingsansvarlig for grense- og territorialkontrollreg
 
 ### § 5-3. Opplysninger som kan registreres
 
-I grense- og territorialkontrollregisteret kan det registreres opplysninger som er nødvendige til formål som nevnt i [§ 5-1](forskrift/2022-04-29-665/§5-1), herundernavn, fødselsdato, fødested, personnummer, D-nummer, kjønn, statsborgerskap, adresse, aliasnavn, kontaktinformasjonoptiske og elektroniske kopier av opplysninger fra reise- og ID-dokumenter, med unntak av fingeravtrykkvisumopplysninger, herunder visumnummer og tillatelseroppholdsstatus, herunder type tillatelse og gyldighetstid, kortnummer, DUF-nummerinn- og utreiseinformasjon, herunder reiserute, delegasjonsnummer, oppholdssted i Schengen, politidistrikt ved oppholdssted, reisens formål og planlagt hjemreisedatotransportmiddel, kjøretøygruppe, registreringsnummer, merke, type og fargetransportselskapnavn, firma, adresse og telefonnummer for garantist eller referanseopplysninger om registreringen, herunder hvem som har registrert opplysningene og i hvilket politidistrikt, grensepasseringstidspunktopplysninger om kontrollen, kontrolltype, kontrolltidspunkt og kontrollstedopplysninger som antas relevante for gjennomføring av inn- og utreisekontroll, herunder om godtgjøring av midler til oppholdet, gjenstander, pengesedler, yrke, arbeidsgiveropplysninger som antas å være relevante for gjennomføring av alminnelig utlendingskontrolltiltaksbeskrivelseopplysninger som innhentes for gjennomføring av oppgaver etter forordning [(EU) 2024/1356](eu/32024r1356), herunder biometriske opplysninger, helseopplysninger og opplysninger fra gjennomført sikkerhets- og sårbarhetssjekk om personer som gjennomgår screening.
+I grense- og territorialkontrollregisteret kan det registreres opplysninger som er nødvendige til formål som nevnt i [§ 5-1](forskrift/2022-04-29-665/§5-1), herunder
+
+1. navn, fødselsdato, fødested, personnummer, D-nummer, kjønn, statsborgerskap, adresse, aliasnavn, kontaktinformasjon
+2. optiske og elektroniske kopier av opplysninger fra reise- og ID-dokumenter, med unntak av fingeravtrykk
+3. visumopplysninger, herunder visumnummer og tillatelser
+4. oppholdsstatus, herunder type tillatelse og gyldighetstid, kortnummer, DUF-nummer
+5. inn- og utreiseinformasjon, herunder reiserute, delegasjonsnummer, oppholdssted i Schengen, politidistrikt ved oppholdssted, reisens formål og planlagt hjemreisedato
+6. transportmiddel, kjøretøygruppe, registreringsnummer, merke, type og farge
+7. transportselskap
+8. navn, firma, adresse og telefonnummer for garantist eller referanse
+9. opplysninger om registreringen, herunder hvem som har registrert opplysningene og i hvilket politidistrikt, grensepasseringstidspunkt
+10. opplysninger om kontrollen, kontrolltype, kontrolltidspunkt og kontrollsted
+11. opplysninger som antas relevante for gjennomføring av inn- og utreisekontroll, herunder om godtgjøring av midler til oppholdet, gjenstander, pengesedler, yrke, arbeidsgiver
+12. opplysninger som antas å være relevante for gjennomføring av alminnelig utlendingskontroll
+13. tiltaksbeskrivelse
+14. opplysninger som innhentes for gjennomføring av oppgaver etter forordning [(EU) 2024/1356](eu/32024r1356), herunder biometriske opplysninger, helseopplysninger og opplysninger fra gjennomført sikkerhets- og sårbarhetssjekk om personer som gjennomgår screening.
 
 Det kan registreres biometriske opplysninger fra det sentrale inn- og utreisesystemet (EES) til de formål som nevnt i EES-forordningen artikkel 26 og 27 på vilkår som nevnt i artikkel 28.
 
@@ -302,7 +345,10 @@ Politiet, herunder Politiets sikkerhetstjeneste, og Kystvakten kan søke i felle
 
 ### § 5B-3. Behandlingsansvar i rammeløsningen for interoperabilitet
 
-Behandlingsansvaret for behandling av personopplysninger i VIS, ETIAS, Eurodac, EES og SIS, jf. [utlendingsloven § 102 d](lov/2008-05-15-35/§102d), [utlendingsforskriften §§ 3-3](forskrift/2009-10-15-1286/§3-3) a og [18-5](forskrift/2009-10-15-1286/§18-5), [grenseforskriften § 5A-1](forskrift/2022-04-29-665/§5A-1), [SIS-loven § 4](lov/1999-07-16-66/§4) og [SIS-forskriften § 1](forskrift/2022-06-26-1194/§1), gjelder også for behandlingen avbiometriske maler i den felles biometriske sammenligningstjenesten (sBMS) basert på personopplysninger myndigheten har registrert i EES, VIS eller SIS, jf. forordning [(EU) 2019/817](eu/32019r0817) artikkel 40 nr. 1 og forordning [(EU) 2019/818](eu/32019r0818) artikkel 40 nr. 1personopplysninger i det felles identitetsregisteret (CIR) som er registrert av myndigheten i EES, VIS eller ETIAS, jf. forordning [(EU) 2019/817](eu/32019r0817) artikkel 40 nr. 2 og forordning [(EU) 2019/818](eu/32019r0818) artikkel 40 nr. 2.
+Behandlingsansvaret for behandling av personopplysninger i VIS, ETIAS, Eurodac, EES og SIS, jf. [utlendingsloven § 102 d](lov/2008-05-15-35/§102d), [utlendingsforskriften §§ 3-3](forskrift/2009-10-15-1286/§3-3) a og [18-5](forskrift/2009-10-15-1286/§18-5), [grenseforskriften § 5A-1](forskrift/2022-04-29-665/§5A-1), [SIS-loven § 4](lov/1999-07-16-66/§4) og [SIS-forskriften § 1](forskrift/2022-06-26-1194/§1), gjelder også for behandlingen av
+
+1. biometriske maler i den felles biometriske sammenligningstjenesten (sBMS) basert på personopplysninger myndigheten har registrert i EES, VIS eller SIS, jf. forordning [(EU) 2019/817](eu/32019r0817) artikkel 40 nr. 1 og forordning [(EU) 2019/818](eu/32019r0818) artikkel 40 nr. 1
+2. personopplysninger i det felles identitetsregisteret (CIR) som er registrert av myndigheten i EES, VIS eller ETIAS, jf. forordning [(EU) 2019/817](eu/32019r0817) artikkel 40 nr. 2 og forordning [(EU) 2019/818](eu/32019r0818) artikkel 40 nr. 2.
 
 Myndigheten som tilføyer eller endrer opplysninger i identitetsbekreftelsesmappen er behandlingsansvarlig for personopplysninger i fleridentitetsdetektoren (MID), jf. forordning [(EU) 2019/817](eu/32019r0817) artikkel 40 nr. 3 og forordning [(EU) 2019/818](eu/32019r0818) artikkel 40 nr. 3.
 
@@ -312,7 +358,12 @@ Myndigheten som tilføyer eller endrer opplysninger i identitetsbekreftelsesmapp
 
 ### § 6-1. Straff
 
-Med bot eller fengsel inntil seks måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrerforbud etter [§ 2-2](forskrift/2022-04-29-665/§2-2)krav etter [§ 2-3](forskrift/2022-04-29-665/§2-3) annet og fjerde leddforbud eller krav etter [§ 2-4](forskrift/2022-04-29-665/§2-4) første til tredje leddkrav eller påbud etter [§ 4-9](forskrift/2022-04-29-665/§4-9), [§ 4-10](forskrift/2022-04-29-665/§4-10) eller [§ 4-11](forskrift/2022-04-29-665/§4-11).
+Med bot eller fengsel inntil seks måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrer
+
+1. forbud etter [§ 2-2](forskrift/2022-04-29-665/§2-2)
+2. krav etter [§ 2-3](forskrift/2022-04-29-665/§2-3) annet og fjerde ledd
+3. forbud eller krav etter [§ 2-4](forskrift/2022-04-29-665/§2-4) første til tredje ledd
+4. krav eller påbud etter [§ 4-9](forskrift/2022-04-29-665/§4-9), [§ 4-10](forskrift/2022-04-29-665/§4-10) eller [§ 4-11](forskrift/2022-04-29-665/§4-11).
 
 ## Kapittel 7. Sluttbestemmelser
 

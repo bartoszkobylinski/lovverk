@@ -32,7 +32,11 @@ Denne forskriften etablerer Norsk pasientregister. Forskriften gir regler om inn
 
 Norsk pasientregister har til hovedformål å danne grunnlag for administrasjon, styring og kvalitetssikring av spesialisthelsetjenester, herunder finansiering.
 
-I tillegg har Norsk pasientregister til formål å:bidra til medisinsk og helsefaglig forskning, herunder forskning som kan gi viten om helsetjenester, behandlingseffekter, diagnoser, og sykdommers årsaker, utbredelse og forløp og forebyggende tiltak,danne grunnlag for etablering og kvalitetssikring av sykdoms- og kvalitetsregistre og videreformidling av kontaktopplysninger til den nasjonale kjernejournalen.bidra til kunnskap som grunnlag for forebygging av ulykker og skader.
+I tillegg har Norsk pasientregister til formål å:
+
+1. bidra til medisinsk og helsefaglig forskning, herunder forskning som kan gi viten om helsetjenester, behandlingseffekter, diagnoser, og sykdommers årsaker, utbredelse og forløp og forebyggende tiltak,
+2. danne grunnlag for etablering og kvalitetssikring av sykdoms- og kvalitetsregistre og videreformidling av kontaktopplysninger til den nasjonale kjernejournalen.
+3. bidra til kunnskap som grunnlag for forebygging av ulykker og skader.
 
 > Endret ved [forskrifter 16 des 2011 nr. 1257](forskrift/2011-12-16-1257) (i kraft 1 jan 2012), [31 mai 2013 nr. 563](forskrift/2013-05-31-563), [30 okt 2015 nr. 1237](forskrift/2015-10-30-1237) (i kraft 1 nov 2015).
 
@@ -105,7 +109,12 @@ sosiale opplysninger:
 
 ### § 1-7. Opplysninger om ulykker og skader
 
-Når det er relevant og nødvendig for å fremme registerets formål i [§ 1-2](forskrift/2007-12-07-1389/§1-2) andre ledd bokstav c, skal følgende opplysninger om ulykker og skader registreres i Norsk pasientregister om personer som nevnt i [§ 1-5](forskrift/2007-12-07-1389/§1-5), uten samtykke fra den opplysningen gjelder:kontaktårsak/skademekanisme/alvorlighetsgradaktivitet på skadetidspunktskadested, skadetidspunktarbeidsgivers bransje.
+Når det er relevant og nødvendig for å fremme registerets formål i [§ 1-2](forskrift/2007-12-07-1389/§1-2) andre ledd bokstav c, skal følgende opplysninger om ulykker og skader registreres i Norsk pasientregister om personer som nevnt i [§ 1-5](forskrift/2007-12-07-1389/§1-5), uten samtykke fra den opplysningen gjelder:
+
+1. kontaktårsak/skademekanisme/alvorlighetsgrad
+2. aktivitet på skadetidspunkt
+3. skadested, skadetidspunkt
+4. arbeidsgivers bransje.
 
 ### § 1-8. Koding og klassifisering av opplysningene i Norsk pasientregister, krav til dokumentasjon
 
@@ -229,7 +238,22 @@ Norsk pasientregister skal behandle opplysninger i samsvar med rutiner Folkehels
 
 ### § 4-5. Internkontrollens innhold
 
-Internkontroll innebærer at Folkehelseinsituttet skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem den måtte angå. Internkontrollen skal blant annet inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:oppfyllelse av krav om at personidentifiserbare opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),dokumentasjon og kvalitetskontroll av helseopplysningene, jf. [§ 1-8](forskrift/2007-12-07-1389/§1-8) og [§ 2-4](forskrift/2007-12-07-1389/§2-4),oppfyllelse av begjæringer om informasjon og innsyn, jf. personvernforordningen artikkel 13 til 15, [helseregisterloven § 21](lov/2014-06-20-43/§21) samt forskriften [§ 5-1](forskrift/2007-12-07-1389/§5-1),hvordan virksomhetene oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. [§ 3-1](forskrift/2007-12-07-1389/§3-1) til [§ 3-5](forskrift/2007-12-07-1389/§3-5), herunder sammenstillinger,rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterlovenrutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Internkontroll innebærer at Folkehelseinsituttet skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem den måtte angå. Internkontrollen skal blant annet inneholde:
+
+1. oversikt over hvordan virksomheten er organisert,
+2. oversikt over ansvars- og myndighetsforhold,
+3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,
+4. rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:
+
+   - oppfyllelse av krav om at personidentifiserbare opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),
+   - dokumentasjon og kvalitetskontroll av helseopplysningene, jf. [§ 1-8](forskrift/2007-12-07-1389/§1-8) og [§ 2-4](forskrift/2007-12-07-1389/§2-4),
+   - oppfyllelse av begjæringer om informasjon og innsyn, jf. personvernforordningen artikkel 13 til 15, [helseregisterloven § 21](lov/2014-06-20-43/§21) samt forskriften [§ 5-1](forskrift/2007-12-07-1389/§5-1),
+   - hvordan virksomhetene oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. [§ 3-1](forskrift/2007-12-07-1389/§3-1) til [§ 3-5](forskrift/2007-12-07-1389/§3-5), herunder sammenstillinger,
+5. rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven
+8. rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og
+9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i første ledd bokstav a til i. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette dersom det anses påkrevd.
 
@@ -603,7 +627,12 @@ Forsettlig eller grovt uaktsom overtredelse av denne bestemmelsen straffes med h
 
 ### Til § 4-2 Informasjonssikkerhet
 
-Første ledd viser til [helseregisterloven § 16](lov/2014-06-20-43/§16) flg. Bestemmelsen pålegger Helsedirektoratet og Norsk pasientregister å sørge for god informasjonssikkerhet ved behandling av helseopplysninger. Dette omfatter blant annet et ansvar for å sørge for at tilstrekkelig sikkerhetsfaglig kompetanse er tilgjengelig. I tillegg til ansvar for sikkerheten i egen organisasjon må Helsedirektoratet og Norsk pasientregister også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører. Begrepet informasjonssikkerhet omfatter:sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes,sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,sikring av tilgjengelighet, dvs. sørge for at tilstrekkelige og relevante opplysninger er til stede,sikring av kvalitet, dvs. sørge for at opplysningene er riktige, jf. [§ 2-4](forskrift/2007-12-07-1389/§2-4).
+Første ledd viser til [helseregisterloven § 16](lov/2014-06-20-43/§16) flg. Bestemmelsen pålegger Helsedirektoratet og Norsk pasientregister å sørge for god informasjonssikkerhet ved behandling av helseopplysninger. Dette omfatter blant annet et ansvar for å sørge for at tilstrekkelig sikkerhetsfaglig kompetanse er tilgjengelig. I tillegg til ansvar for sikkerheten i egen organisasjon må Helsedirektoratet og Norsk pasientregister også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører. Begrepet informasjonssikkerhet omfatter:
+
+- sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes,
+- sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,
+- sikring av tilgjengelighet, dvs. sørge for at tilstrekkelige og relevante opplysninger er til stede,
+- sikring av kvalitet, dvs. sørge for at opplysningene er riktige, jf. [§ 2-4](forskrift/2007-12-07-1389/§2-4).
 
 Det forutsettes innført tekniske og organisatoriske hinder av høyeste kvalitet for å hindre misbruk. God informasjonssikkerhet skal oppnås ved hjelp av planlagte og systematiske tiltak. Dette innebærer at anerkjente teknikker og standarder for kvalitetsstyring, internkontroll og informasjonssikkerhet skal legges til grunn ved sikkerhetsarbeidet. De tiltak som etableres, skal være både organisatoriske og tekniske. Sikkerhetstiltakene og selve informasjonssystemet skal kunne dokumenteres.
 
@@ -611,7 +640,17 @@ Andre ledd gjelder ved helt eller delvis elektronisk behandling av helseopplysni
 
 ### Til § 4-3 Kryptering og tilgang til Norsk pasientregister
 
-Bestemmelsens første ledd pålegger databehandler å kryptere direkte personidentifiserbare kjennetegn, (i dette tilfellet fødselsnummer eller et annet entydig identifikasjonsnummer der hvor vedkommende ikke har et fødselsnummer) i Norsk pasientregister. Dette betyr i praksis at personidentifiserende kjennetegn ikke skal ligge tilgjengelig i registeret for andre enn spesielt autoriserte personer. Det anses ikke hensiktsmessig å pålegge hvordan kryptering skal skje, da dette kan binde registeret til de teknologiske løsningene vi kjenner i dag og hindre forbedring av den personvernfremmende teknologi. Men det forutsettes at følgende løsninger foreligger for å forhindre misbruk:Fødselsnummer skal ikke kobles til pasientdata, verken i kommunikasjon eller i registeretFødselsnummer skal ikke lagres, verken i krypteringsløsning eller i selve registeretAll kommunikasjon skal krypteresAlle brukere og maskiner skal autentiseresBrannmur skal etableres foran hver maskin i systemetAll utlevering krever egen hjemmelKun et fåtall spesielt autoriserte medarbeidere kan utløse dekrypteringDekryptering og utlevering forutsetter involvering av kvalitetssikrer i alle trinnAlle prosesser skal logges.
+Bestemmelsens første ledd pålegger databehandler å kryptere direkte personidentifiserbare kjennetegn, (i dette tilfellet fødselsnummer eller et annet entydig identifikasjonsnummer der hvor vedkommende ikke har et fødselsnummer) i Norsk pasientregister. Dette betyr i praksis at personidentifiserende kjennetegn ikke skal ligge tilgjengelig i registeret for andre enn spesielt autoriserte personer. Det anses ikke hensiktsmessig å pålegge hvordan kryptering skal skje, da dette kan binde registeret til de teknologiske løsningene vi kjenner i dag og hindre forbedring av den personvernfremmende teknologi. Men det forutsettes at følgende løsninger foreligger for å forhindre misbruk:
+
+- Fødselsnummer skal ikke kobles til pasientdata, verken i kommunikasjon eller i registeret
+- Fødselsnummer skal ikke lagres, verken i krypteringsløsning eller i selve registeret
+- All kommunikasjon skal krypteres
+- Alle brukere og maskiner skal autentiseres
+- Brannmur skal etableres foran hver maskin i systemet
+- All utlevering krever egen hjemmel
+- Kun et fåtall spesielt autoriserte medarbeidere kan utløse dekryptering
+- Dekryptering og utlevering forutsetter involvering av kvalitetssikrer i alle trinn
+- Alle prosesser skal logges.
 
 Andre ledd angir hvem som kan få tilgang til selve registeret. Det oppstilles et nødvendighetskrav i forhold til vedkommendes arbeid. Kan arbeidet utføres uten tilgang til opplysningene i Norsk pasientregister, er det ikke nødvendig med tilgang til registeret. Videre kan tilgang kun gis når det er i samsvar med gjeldende taushetspliktbestemmelser. Utlevering av opplysninger som skal brukes i tråd med registerets formål, følger av [kapittel 3](forskrift/2007-12-07-1389/kap3).
 

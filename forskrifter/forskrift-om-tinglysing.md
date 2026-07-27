@@ -38,9 +38,30 @@ Delegeringsbeslutning skal være skriftlig. Den skal nevne navnet til den som f�
 
 Ved elektronisk tinglysing av dokumenter benyttes standardisert oppsett fastsatt av tinglysingsmyndigheten.
 
-Ved papirbasert tinglysing av følgende dokumenttyper i grunnboken skal det benyttes standardisert oppsett fastsatt av Statens kartverk:skjøtefestekontraktpantedokumenter for avtalepantmelding til tinglysing om matrikulering, jf. [matrikkelforskriften § 8](forskrift/2009-06-26-864/§8)hjemmelsovergang ved arv/skifte/uskifteregistrering av andel i borettslagovergang av andel i borettslag.
+Ved papirbasert tinglysing av følgende dokumenttyper i grunnboken skal det benyttes standardisert oppsett fastsatt av Statens kartverk:
 
-Ved papirbasert tinglysing av følgende dokumenttyper som skal registreres i Løsøreregisteret skal det benyttes standardisert oppsett fastsatt av Løsøreregisteret:dokument for panterett i varelagerdokument for panterett i driftstilbehørdokument for panterett i motorvogner og anleggsmaskinerdokument for panterett i redskaper, besetning, avling mv. i landbruksnæringdokument for panterett i fiskeredskaperfactoringavtalesalgspant i motorvognleasing av motorvogntvangsforretningskifteutleggektepaktgjeldsordning og gjeldsforhandling.
+1. skjøte
+2. festekontrakt
+3. pantedokumenter for avtalepant
+4. melding til tinglysing om matrikulering, jf. [matrikkelforskriften § 8](forskrift/2009-06-26-864/§8)
+5. hjemmelsovergang ved arv/skifte/uskifte
+6. registrering av andel i borettslag
+7. overgang av andel i borettslag.
+
+Ved papirbasert tinglysing av følgende dokumenttyper som skal registreres i Løsøreregisteret skal det benyttes standardisert oppsett fastsatt av Løsøreregisteret:
+
+1. dokument for panterett i varelager
+2. dokument for panterett i driftstilbehør
+3. dokument for panterett i motorvogner og anleggsmaskiner
+4. dokument for panterett i redskaper, besetning, avling mv. i landbruksnæring
+5. dokument for panterett i fiskeredskaper
+6. factoringavtale
+7. salgspant i motorvogn
+8. leasing av motorvogn
+9. tvangsforretning
+10. skifteutlegg
+11. ektepakt
+12. gjeldsordning og gjeldsforhandling.
 
 Oppsett kan omfatte krav om opplysninger som skal føres i matrikkelen eller som skal rapporteres til Statistisk sentralbyrå av hensyn til offentlig statistikk.
 
@@ -54,7 +75,17 @@ Tinglysingsmyndighetene fastsetter hva som er en betryggende metode for å auten
 
 Når det i eller i medhold av [tinglysingsloven](lov/1935-06-07-2) er krav om underskrifter på dokumentet, skal det ved elektronisk tinglysing av dokumenter benyttes eID-ordning på nivå høyt som oppfyller kravene i [forskrift 21. november 2019 nr. 1578 om selvdeklarasjon av ordninger for elektronisk identifikasjon § 3](forskrift/2019-11-21-1578/§3), og som er oppført på publisert liste i henhold til [§ 13](forskrift/2019-11-21-1578/§13) i nevnte forskrift. Ved bruk av slik eID-ordning på nivå høyt stilles det ikke krav til vitnebekreftelser.
 
-Ved papirbasert tinglysing der en underskrift skal være bekreftet, jf. [tinglysingsloven § 17](lov/1935-06-07-2/§17), kan bekreftelse av underskrift gis av to myndige vitner, bosatt i Norge, eller av norskdommer eller jordskiftedommer,lensmann, politistasjonssjef eller politibetjent,namsmann eller namsfullmektig,forliksrådsmedlem,advokat eller autorisert advokatfullmektig,jurist som yter rettslig bistand som ledd i næringsvirksomhet og har stilt sikkerhet etter [advokatloven § 68 første ledd](lov/2022-05-12-28/§68/ledd/1),statsautorisert eller registrert revisor,eiendomsmegler, jurist med tillatelse til å være fagansvarlig og ansvarlig megler, megler som har tillatelse til å være ansvarlig megler, eller eiendomsmeglerfullmektig,notarius publicus.
+Ved papirbasert tinglysing der en underskrift skal være bekreftet, jf. [tinglysingsloven § 17](lov/1935-06-07-2/§17), kan bekreftelse av underskrift gis av to myndige vitner, bosatt i Norge, eller av norsk
+
+1. dommer eller jordskiftedommer,
+2. lensmann, politistasjonssjef eller politibetjent,
+3. namsmann eller namsfullmektig,
+4. forliksrådsmedlem,
+5. advokat eller autorisert advokatfullmektig,
+6. jurist som yter rettslig bistand som ledd i næringsvirksomhet og har stilt sikkerhet etter [advokatloven § 68 første ledd](lov/2022-05-12-28/§68/ledd/1),
+7. statsautorisert eller registrert revisor,
+8. eiendomsmegler, jurist med tillatelse til å være fagansvarlig og ansvarlig megler, megler som har tillatelse til å være ansvarlig megler, eller eiendomsmeglerfullmektig,
+9. notarius publicus.
 
 Bekreftelsen kan også gis av utenlandsk notarius publicus.
 
@@ -160,7 +191,23 @@ Grunnboken er et sentralt register over tinglyste dokumenter som gjelder fast ei
 
 Tinglysingsmyndigheten sikrer at alle tinglyste dokumenter til enhver tid er arkivert og oppbevart i henhold til gjeldende regelverk.
 
-Grunnbokdatabasen kan inneholde opplysninger om følgende:identifikasjon av registerenheten med kommunenummer, gårdsnummer, bruksnummer, festenummer, seksjonsnummer og eventuell gateadresse, eller identifikasjon av registerenhet med organisasjonsnummer og andelsnummer i registrert borettslag,opplysninger om areal, grenseforhold, fradelinger og sammenslåinger,hvilken rettighet/heftelse som er tinglyst,hjemmelshavers og rettighetshavers navn, med angivelse av eier- og rettighetsforhold,fødselsnummer, D-nummer og organisasjonsnummer for hjemmelshavere og for saksøkte ved tvangsforretninger,overdragelsesbeløp og verdi som er lagt til grunn for avgiftsberegning,datoer knyttet til registrering eller det tinglyste dokument,registreringens løpenummer (dokumentnummeret),– – –,hvem som har foretatt registreringen og godkjent den. I tillegg eventuelt hvem som har rettet registreringen etter godkjenning.om en registrering er foreløpig og årsak til eventuell tinglysingsnekting,tinglysingsgebyr og dokumentavgift,andre opplysninger som etter lov eller forskrift skal opplyses ved tinglysing (bl.a. opplysninger som skal innrapporteres til matrikkelen eller Statistisk sentralbyrå),hjelpenumre og koder til bruk for databehandlingen.antall andeler i hvert registrerte borettslag.
+Grunnbokdatabasen kan inneholde opplysninger om følgende:
+
+1. identifikasjon av registerenheten med kommunenummer, gårdsnummer, bruksnummer, festenummer, seksjonsnummer og eventuell gateadresse, eller identifikasjon av registerenhet med organisasjonsnummer og andelsnummer i registrert borettslag,
+2. opplysninger om areal, grenseforhold, fradelinger og sammenslåinger,
+3. hvilken rettighet/heftelse som er tinglyst,
+4. hjemmelshavers og rettighetshavers navn, med angivelse av eier- og rettighetsforhold,
+5. fødselsnummer, D-nummer og organisasjonsnummer for hjemmelshavere og for saksøkte ved tvangsforretninger,
+6. overdragelsesbeløp og verdi som er lagt til grunn for avgiftsberegning,
+7. datoer knyttet til registrering eller det tinglyste dokument,
+8. registreringens løpenummer (dokumentnummeret),
+9. – – –,
+10. hvem som har foretatt registreringen og godkjent den. I tillegg eventuelt hvem som har rettet registreringen etter godkjenning.
+11. om en registrering er foreløpig og årsak til eventuell tinglysingsnekting,
+12. tinglysingsgebyr og dokumentavgift,
+13. andre opplysninger som etter lov eller forskrift skal opplyses ved tinglysing (bl.a. opplysninger som skal innrapporteres til matrikkelen eller Statistisk sentralbyrå),
+14. hjelpenumre og koder til bruk for databehandlingen.
+15. antall andeler i hvert registrerte borettslag.
 
 Tinglysingsmyndigheten kan føre journal og opprette hjelperegistre med opplysninger om navn og adresse, samt fødselsnummer, D-nummer eller organisasjonsnummer, til dem som har innlevert dokument til tinglysing og dem som skal motta dokument i retur.
 
@@ -222,7 +269,18 @@ For tinglysing av kontrakt som gir bruksrett til del av grunnen og forholdet ikk
 
 Løsøreregisteret (se [tinglysingsloven § 34](lov/1935-06-07-2/§34)) føres i et edb-basert registreringssystem. Løsøreregisteret er felles for hele landet.
 
-Løsøreregisteret kan inneholde opplysninger om følgende:identifikasjon av den person eller det foretak registreringen gjelder. For hver registrert person skal Løsøreregisteret inneholde fullt navn, fødselsnummer og adresse. For person som ikke er tildelt norsk fødselsnummer registreres tildelt D-nummer. For foretak som ikke er enkeltpersonforetak skal registeret inneholde lovlig og korrekt firma, organisasjonsnummer og kontoradresse,hvilken rettighet/heftelse som er tinglyst,rettighetshavers navn og fødsels- eller organisasjonsnummer, med angivelse av rettighetsforhold,datoer knyttet til registrering eller det tinglyste dokument,registreringens løpenummer (dokumentnummeret),hvem som har foretatt registreringen og godkjent den,om en registrering er foreløpig og årsak til eventuell tinglysingsnekting,tinglysingsgebyr,andre opplysninger som etter lov eller forskrift kan registeres i Løsøreregisteret,hjelpenumre og koder til bruk for databehandlingen.
+Løsøreregisteret kan inneholde opplysninger om følgende:
+
+1. identifikasjon av den person eller det foretak registreringen gjelder. For hver registrert person skal Løsøreregisteret inneholde fullt navn, fødselsnummer og adresse. For person som ikke er tildelt norsk fødselsnummer registreres tildelt D-nummer. For foretak som ikke er enkeltpersonforetak skal registeret inneholde lovlig og korrekt firma, organisasjonsnummer og kontoradresse,
+2. hvilken rettighet/heftelse som er tinglyst,
+3. rettighetshavers navn og fødsels- eller organisasjonsnummer, med angivelse av rettighetsforhold,
+4. datoer knyttet til registrering eller det tinglyste dokument,
+5. registreringens løpenummer (dokumentnummeret),
+6. hvem som har foretatt registreringen og godkjent den,
+7. om en registrering er foreløpig og årsak til eventuell tinglysingsnekting,
+8. tinglysingsgebyr,
+9. andre opplysninger som etter lov eller forskrift kan registeres i Løsøreregisteret,
+10. hjelpenumre og koder til bruk for databehandlingen.
 
 I tilknytning til løsøreregisterdatabasen kan det opprettes hjelperegistre med opplysninger om navn og adresse på den som har innlevert dokumentet til tinglysing og på den som skal motta dokumentet i retur.
 

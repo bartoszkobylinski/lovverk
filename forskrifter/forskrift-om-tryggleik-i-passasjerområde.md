@@ -15,7 +15,7 @@ xml_hash: "5c6c31043015ebd982463fd5045cafd21e0f9d2530d1dd13ed75f7d5382b0909"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Verkeområde
 
-Forskrifta gjeld passasjerområde på norske skip medtryggleikssertifikat for passasjerskiptryggleikssertifikat for hurtiggåande passasjerfartøytryggleikssertifikat for passasjerskip i innanriksfarttryggleikssertifikat for passasjerskip i territorialfarvatnet ved Svalbardpassasjersertifikat.
+Forskrifta gjeld passasjerområde på norske skip med
+
+1. tryggleikssertifikat for passasjerskip
+2. tryggleikssertifikat for hurtiggåande passasjerfartøy
+3. tryggleikssertifikat for passasjerskip i innanriksfart
+4. tryggleikssertifikat for passasjerskip i territorialfarvatnet ved Svalbard
+5. passasjersertifikat.
 
 Passasjerområde er alle innvendige og utvendige delar av skipet som er meint for passasjerar.
 
@@ -114,7 +120,15 @@ Det skal reknast ei breidd på minst 500 mm for kvar sitjeplass. Det skal vere 3
 
 Når sete er plasserte ved sida av kvarandre, skal det ikkje vere meir enn fire samanhengande sete frå gangpassasje. Gangpassasje skal ha ei fri breidd på minst 600 mm.
 
-Ståplassar skal ha haldeinnretningar plassert i ulike høgder. For kvar ståplass skal det reknast ei fri dørkflate på minst 0,5 m2. Utrekninga skal ikkje inkludere300 mm beinplass framom setesmå eller uregelmessig forma område som ikkje kan nyttast til ståplassarområde med fri høgd på mindre enn 2030 mmareal som er reserverte for rullestolbrukararrømmingsveggangpassasje etter femte leddareal som er sett av til lause stolar i samsvar med første ledd.
+Ståplassar skal ha haldeinnretningar plassert i ulike høgder. For kvar ståplass skal det reknast ei fri dørkflate på minst 0,5 m2. Utrekninga skal ikkje inkludere
+
+1. 300 mm beinplass framom sete
+2. små eller uregelmessig forma område som ikkje kan nyttast til ståplassar
+3. område med fri høgd på mindre enn 2030 mm
+4. areal som er reserverte for rullestolbrukarar
+5. rømmingsveg
+6. gangpassasje etter femte ledd
+7. areal som er sett av til lause stolar i samsvar med første ledd.
 
 ## § 10. Lugarar
 
@@ -237,7 +251,15 @@ Røyking eller bruk av open flamme på utvendige dekk er forbode når skipet fø
 
 ### Opplæring
 
-Reiarlaget skal sørgje for at personell som skal utføre oppgåver som mellom anna omfattar vurdering og behandling av farleg reisegods, blir gitt dokumenterbar opplæring. Opplæringa skal gje personellet kjennskap tilinnhaldet i vedlegget hertryggleiksdatablad og vurdering av kva som er farleg reisegodsrisiko knytt til farleg reisegodsrisiko knytt til samlasting av ulike typar farleg reisegodsfareklassane og lista over farlege stoff i IMDG-kodenMFAG-vedlegget til IMDG-kodenEmS-vedlegget til IMDG-koden.
+Reiarlaget skal sørgje for at personell som skal utføre oppgåver som mellom anna omfattar vurdering og behandling av farleg reisegods, blir gitt dokumenterbar opplæring. Opplæringa skal gje personellet kjennskap til
+
+1. innhaldet i vedlegget her
+2. tryggleiksdatablad og vurdering av kva som er farleg reisegods
+3. risiko knytt til farleg reisegods
+4. risiko knytt til samlasting av ulike typar farleg reisegods
+5. fareklassane og lista over farlege stoff i IMDG-koden
+6. MFAG-vedlegget til IMDG-koden
+7. EmS-vedlegget til IMDG-koden.
 
 Opplæringa skal ta sikte på å gjere personell kjende med kva som er sikker handtering, og kva som skal gjerast i ein naudssituasjon.
 

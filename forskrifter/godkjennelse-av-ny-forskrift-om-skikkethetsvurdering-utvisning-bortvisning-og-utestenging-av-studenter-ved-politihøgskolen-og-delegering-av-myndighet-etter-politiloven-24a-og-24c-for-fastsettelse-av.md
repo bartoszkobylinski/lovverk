@@ -28,4 +28,8 @@ Justis- og beredskapsdepartementet godkjenner [forskrift om skikkethetsvurdering
 
 ## II
 
-Justis- og beredskapsdepartementet delegerer følgende myndighet til Politidirektoratet så langt det er nødvendig for å vedta skikkethetsforskriften slik forskriften lyder i godkjent utkast av 20. juni 2024 (ref. 24/4207):Myndighet til å kunne gi nærmere regler om høgskolens oppgaver, organisering og virksomhet, jf. [politiloven § 24a](lov/1995-08-04-53/§24a) siste punktum.Myndighet til å gi nærmere regler om skikkethetsnemndas sammensetning og saksbehandling, jf. [politiloven § 24c første ledd](lov/1995-08-04-53/§24c/ledd/1) siste punktum.Myndighet til å gi nærmere regler om studentenes plikt til å avlegge dopingprøve, jf. [politiloven § 24c fjerde ledd første punktum](lov/1995-08-04-53/§24c/ledd/4/setning/1) og å delegere denne myndigheten videre.
+Justis- og beredskapsdepartementet delegerer følgende myndighet til Politidirektoratet så langt det er nødvendig for å vedta skikkethetsforskriften slik forskriften lyder i godkjent utkast av 20. juni 2024 (ref. 24/4207):
+
+1. Myndighet til å kunne gi nærmere regler om høgskolens oppgaver, organisering og virksomhet, jf. [politiloven § 24a](lov/1995-08-04-53/§24a) siste punktum.
+2. Myndighet til å gi nærmere regler om skikkethetsnemndas sammensetning og saksbehandling, jf. [politiloven § 24c første ledd](lov/1995-08-04-53/§24c/ledd/1) siste punktum.
+3. Myndighet til å gi nærmere regler om studentenes plikt til å avlegge dopingprøve, jf. [politiloven § 24c fjerde ledd første punktum](lov/1995-08-04-53/§24c/ledd/4/setning/1) og å delegere denne myndigheten videre.

@@ -15,7 +15,7 @@ xml_hash: "ec3c85a4d4317b3f4a288efb1fc0f79ff4f4d63b0fcdcf98f56b0e47ba3706b3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,12 @@ Graden doctor philosophiae (dr.philos.) skal kvalifisere for forskningsvirksomhe
 
 Rett til å fremstille seg for dr.philos.-graden har enhver som har oppnådd eksamen av høyere grad (cand.theol./cand.philol./master) med tilstrekkelig fordypning i teologi, religionsvitenskap, kirke- og kulturhistorie eller religion og samfunn. Forskningsutvalget ved MF kan gi søkere, som på annen måte har godtgjort tilsvarende kvalifikasjoner i vedkommende fag, adgang til å fremstille seg til doktorgradsprøven. Avhandlingen skal ikke bedømmes før slik tillatelse er gitt. Forskningsutvalget vurderer søkerens forhåndskvalifikasjoner og fatter vedtak på grunnlag av søkerens dokumentasjon av tidligere studier og vitenskapelige arbeider, jf. [§ 6](forskrift/2018-08-30-1682/§6), første ledd. Forskningsutvalget kan stille krav om at søkere gjennomgår særskilte kurs og/eller består særskilt prøve, før det gis adgang til bedømmelse av doktorgradsarbeidet. Søknaden fremmes samtidig med oversendelse av avhandlingen.
 
-Den som ikke er norsk statsborger eller statsborger i annet nordisk land, har rett til å fremstille seg for prøven dersom forskningsutvalget gir tillatelse til dette. Slik adgang innvilges fortrinnsvis dersom avhandlingenbehandler emner eller bygger på materiale som har tilknytning til Norgehar klar tilknytning til norsk forskning innen fagområdeter utført under opphold ved norsk universitet, høyskole, eller i særlig kontakt med norske forskereeller dersom søkeren har oppholdstillatelse i Norge.
+Den som ikke er norsk statsborger eller statsborger i annet nordisk land, har rett til å fremstille seg for prøven dersom forskningsutvalget gir tillatelse til dette. Slik adgang innvilges fortrinnsvis dersom avhandlingen
+
+- behandler emner eller bygger på materiale som har tilknytning til Norge
+- har klar tilknytning til norsk forskning innen fagområdet
+- er utført under opphold ved norsk universitet, høyskole, eller i særlig kontakt med norske forskere
+- eller dersom søkeren har oppholdstillatelse i Norge.
 
 ## § 4. Avhandlingen
 
@@ -68,13 +73,23 @@ Avhandlingen skal være offentlig tilgjengelig.
 
 ## § 5. Bedømmelse
 
-Doktorgraden tildeles på grunnlag av;godkjent vitenskapelig avhandling;to godkjente prøveforelesninger, en oppgitt og en selvvalgt;godkjent forsvar av avhandlingen i en offentlig disputas.
+Doktorgraden tildeles på grunnlag av;
+
+1. godkjent vitenskapelig avhandling;
+2. to godkjente prøveforelesninger, en oppgitt og en selvvalgt;
+3. godkjent forsvar av avhandlingen i en offentlig disputas.
 
 ## § 6. Innlevering
 
 Innlevering av avhandlingen og anmodningen om å få arbeidet bedømt for doktorgraden stiles til forskningsutvalget ved MF og vedlegges bekreftet kopi av vitnemål som viser avlagte eksamener og grader.
 
-Som vedlegg til søknaden skal følge:Avhandlingen i godkjent format og i henhold til MFs bestemmelser i den form og det antall eksemplarer institusjonen har bestemt.Dokumentasjon av nødvendige tillatelser.Medforfattererklæringer hvor dette er påkrevd.Erklæring om at doktorgradsarbeidet ikke samtidig er levert inn til bedømmelse ved annen institusjon.Et kortfattet sammendrag som kan tjene som pressemelding ved kunngjøring av disputas.
+Som vedlegg til søknaden skal følge:
+
+- Avhandlingen i godkjent format og i henhold til MFs bestemmelser i den form og det antall eksemplarer institusjonen har bestemt.
+- Dokumentasjon av nødvendige tillatelser.
+- Medforfattererklæringer hvor dette er påkrevd.
+- Erklæring om at doktorgradsarbeidet ikke samtidig er levert inn til bedømmelse ved annen institusjon.
+- Et kortfattet sammendrag som kan tjene som pressemelding ved kunngjøring av disputas.
 
 Forskningsutvalget ved MF kan på selvstendig grunnlag avvise søknad om å få avhandlingen bedømt dersom det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité.
 

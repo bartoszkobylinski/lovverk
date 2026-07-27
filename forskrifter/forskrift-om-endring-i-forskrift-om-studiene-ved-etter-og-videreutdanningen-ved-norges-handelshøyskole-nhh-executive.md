@@ -15,7 +15,7 @@ xml_hash: "00a688c5cbac93e67c49728d7f242cf30d64b3f90739562724111d01ddc67c69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,21 @@ Med hjemmel i [universitets- og høyskoleloven § 11-7, fjerde ledd](lov/2024-03
 
 [§ 5-1 andre ledd](forskrift/2024-06-18-1057/§5-1/ledd/2) skal lyde:
 
-(2) Som fusk regnes:å ha fått godkjenning for deltakelse i obligatorisk undervisning eller andre obligatoriske aktiviteter på uriktig grunnlagå ha skaffet seg adgang til vurdering ved å ha fusket på prøve eller lignende som er vilkår for å gjennomføre vurderingå ha urettmessig tilgang til en oppgave før obligatorisk aktivitet eller vurdering starterå handle i strid med gjeldende regler for den spesifikke obligatoriske aktiviteten eller vurderingenå bruke eller ha ulovlige hjelpemidler tilgjengelig under obligatorisk aktivitet eller vurderingå presentere eget arbeid, som tidligere har gitt uttelling i form av studiepoeng eller rett til å gjennomføre vurdering, som noe nytt (selvplagiat)å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning og/eller markering av sitatmed mindre det eksplisitt er tillatt; uten markering å presentere KI-generert tekst som sin egenå levere besvarelse som helt eller delvis er utarbeidet av andreureglementert samarbeid eller kontakt med andre under vurderingfabrikkering eller forfalskning av datamanipulering av en besvarelse etter at den er leverturedelige handlinger eller forhold som tar sikte på å gi eller kan gi studenten et uberettiget fortrinn i tilknytning til oppfyllelse av obligatorisk aktivitet (arbeidskrav) eller ved en vurdering.
+(2) Som fusk regnes:
+
+1. å ha fått godkjenning for deltakelse i obligatorisk undervisning eller andre obligatoriske aktiviteter på uriktig grunnlag
+2. å ha skaffet seg adgang til vurdering ved å ha fusket på prøve eller lignende som er vilkår for å gjennomføre vurdering
+3. å ha urettmessig tilgang til en oppgave før obligatorisk aktivitet eller vurdering starter
+4. å handle i strid med gjeldende regler for den spesifikke obligatoriske aktiviteten eller vurderingen
+5. å bruke eller ha ulovlige hjelpemidler tilgjengelig under obligatorisk aktivitet eller vurdering
+6. å presentere eget arbeid, som tidligere har gitt uttelling i form av studiepoeng eller rett til å gjennomføre vurdering, som noe nytt (selvplagiat)
+7. å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning og/eller markering av sitat
+8. med mindre det eksplisitt er tillatt; uten markering å presentere KI-generert tekst som sin egen
+9. å levere besvarelse som helt eller delvis er utarbeidet av andre
+10. ureglementert samarbeid eller kontakt med andre under vurdering
+11. fabrikkering eller forfalskning av data
+12. manipulering av en besvarelse etter at den er levert
+13. uredelige handlinger eller forhold som tar sikte på å gi eller kan gi studenten et uberettiget fortrinn i tilknytning til oppfyllelse av obligatorisk aktivitet (arbeidskrav) eller ved en vurdering.
 
 Ny [§ 5-1 fjerde ledd](forskrift/2024-06-18-1057/§5-1/ledd/4) skal lyde:
 

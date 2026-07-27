@@ -15,7 +15,7 @@ xml_hash: "7ba3671112a82f3ab3c42a9a3253a0c0dbe3784f525564264649ed3b2d503ccd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -196,7 +196,9 @@ Departementet kan gi forskrift om handsaming av personopplysningar, slik som fø
 
 > Føyd til med [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
-1 Sjå [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5e (forordning [(EU) 2016/679](eu/32016r0679*)) art. 4 nr. 2.2 Sjå [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5e (forordning [(EU) 2016/679](eu/32016r0679*)) art. 4 nr. 1.
+1 Sjå [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5e (forordning [(EU) 2016/679](eu/32016r0679*)) art. 4 nr. 2.
+
+2 Sjå [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5e (forordning [(EU) 2016/679](eu/32016r0679*)) art. 4 nr. 1.
 
 ## Kap. III. Planlegging, anlegg og vedlikehold av veg.
 
@@ -338,7 +340,13 @@ Departementet kan for særskilt fastsette riksvegstrekningar sette større eller
 
 For fylkesveg kan fylkeskommunen for særskilt fastsett strekning sette byggegrensa til ein mindre avstand enn den som er nemnt i andre ledd, likevel ikkje mindre enn 15 meter.
 
-Ved kryss i plan mellomoffentlege vegar,offentlege vegar og andre vegar som er opne for allmen ferdsle,offentlege vegar og jarnveg eller sporveg,skal byggegrensa følgje den rette lina mellom punkt på midtlina åt vegane (jernbana, sporvegen) 60 meter frå skjeringspunktet åt midtlinene ved kryss med riksveg og fylkesveg og 40 meter frå skjeringspunktet ved andre kryss. I særskilde høve kan vegstyremakta fastsette ei anna byggegrense for det einskilde krysset. Høyrer dei kryssande vegane ikkje under same vegstyremakt, tar den høgste av desse styremaktene avgjerd i saka.
+Ved kryss i plan mellom
+
+1. offentlege vegar,
+2. offentlege vegar og andre vegar som er opne for allmen ferdsle,
+3. offentlege vegar og jarnveg eller sporveg,
+
+skal byggegrensa følgje den rette lina mellom punkt på midtlina åt vegane (jernbana, sporvegen) 60 meter frå skjeringspunktet åt midtlinene ved kryss med riksveg og fylkesveg og 40 meter frå skjeringspunktet ved andre kryss. I særskilde høve kan vegstyremakta fastsette ei anna byggegrense for det einskilde krysset. Høyrer dei kryssande vegane ikkje under same vegstyremakt, tar den høgste av desse styremaktene avgjerd i saka.
 
 Før det blir tatt avgjerd etter tredje, fjerde eller femte ledd, skal vedkomande kommune få høve til å seie si meining. Eigarane av dei eigedomar som vedtaket får verknad for, skal gis skriftlig melding om avgjerda.
 
@@ -594,7 +602,16 @@ Veglaget kan for den daglege drifta velje eit styre med eit eller fleire medlemm
 
 Om nokon ikkje fyller sin part av plikter fastsette etter [§ 54](lov/1963-06-21-23/§54) og denne paragrafen, kan veglaget gjere vedtak om at arbeidet skal gjerast på den ansvarlege sin kostnad.
 
-Veglaget kan elles ta avgjerd om åsetje av pengar til eit fond for tiltak til utbetringar,ta opp lån,fremje søknad om rett til å krevje bompengar,gi vilkårsbunden vegrett til nye brukarar og trekkje slik bruksrett tilbake,gjere avtale med eigarane til veggrunnen,fremje krav om oreigning,treffe avgjerd om fartshinder og annan trafikkregulering og om parkering,inngå kontrakt om bygging, utbetring og vedlikehald av vegen.
+Veglaget kan elles ta avgjerd om å
+
+- setje av pengar til eit fond for tiltak til utbetringar,
+- ta opp lån,
+- fremje søknad om rett til å krevje bompengar,
+- gi vilkårsbunden vegrett til nye brukarar og trekkje slik bruksrett tilbake,
+- gjere avtale med eigarane til veggrunnen,
+- fremje krav om oreigning,
+- treffe avgjerd om fartshinder og annan trafikkregulering og om parkering,
+- inngå kontrakt om bygging, utbetring og vedlikehald av vegen.
 
 Det som er bestemt i paragrafen her om den einskilde sine rettar og plikter, gjeld òg om ansvaret for drifta av vegen ligg i eit sameige, eit samvirkeføretak, eller er skipa på annan måte.
 
@@ -614,7 +631,11 @@ Kommunen kan òg fastsette at det kan krevjast tilleggsavgift av eigaren til kø
 
 Det er forbode å skade offentlig veg eller å skade eller ta bort innretning som høyrer til offentlig veg.
 
-På eigedomsområdet til offentlig veg er det forbode utan løyve frå vegstyremaktaå grave, sprenge, ta bort masser, hogge tre eller gjere anna inngrep,å sette reklameinnretning eller anna innretning, å legge tømmer, ved, stein, torv, byggemateriale eller anna på annan stad enn der det er laga særskilt offentleg opplagsplass til slik bruk.å kaste eller legge søppel, ugras e.l, eller å leide inn kloakkvatn eller drensvatn.
+På eigedomsområdet til offentlig veg er det forbode utan løyve frå vegstyremakta
+
+1. å grave, sprenge, ta bort masser, hogge tre eller gjere anna inngrep,
+2. å sette reklameinnretning eller anna innretning, å legge tømmer, ved, stein, torv, byggemateriale eller anna på annan stad enn der det er laga særskilt offentleg opplagsplass til slik bruk.
+3. å kaste eller legge søppel, ugras e.l, eller å leide inn kloakkvatn eller drensvatn.
 
 Heilt nær offentlig veg er det utan løyve av vegstyremakta forbode å legge søppel e.l. på ein slik måte at det kan verke skjemmande eller sjenerande for dei vegfarande eller for drifta av vegen.
 
@@ -632,7 +653,11 @@ Politiet kan ta seg av dyr som i strid med føresegnene i [§ 57](lov/1963-06-21
 
 ### § 59
 
-Følgjande krav er tvangsgrunnlag for utlegg:utgifter som kjem på av arbeid eller tiltak som vedkomande styremakt med heimel i denne lova har sett i verk på den ansvarlige sin kostnad,tilskottssum som er fordelt mellom dei interesserte ved skjønn etter [§ 26](lov/1963-06-21-23/§26),finansieringstilskot etter [§ 27 A](lov/1963-06-21-23/§27a).
+Følgjande krav er tvangsgrunnlag for utlegg:
+
+1. utgifter som kjem på av arbeid eller tiltak som vedkomande styremakt med heimel i denne lova har sett i verk på den ansvarlige sin kostnad,
+2. tilskottssum som er fordelt mellom dei interesserte ved skjønn etter [§ 26](lov/1963-06-21-23/§26),
+3. finansieringstilskot etter [§ 27 A](lov/1963-06-21-23/§27a).
 
 > Endra med [lover 18 mai 1990 nr. 13](lov/1990-05-18-13), [26 juni 1992 nr. 86](lov/1992-06-26-86).
 

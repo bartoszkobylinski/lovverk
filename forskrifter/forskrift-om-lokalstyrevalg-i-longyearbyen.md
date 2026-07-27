@@ -44,7 +44,11 @@ Valget ledes av et valgstyre som velges av lokalstyret selv i dets konstituerend
 
 ### § 2-1. Stemmerett
 
-(1) Stemmerett har enhver norsk statsborger somvil ha fylt 18 år innen utgangen av valgåret,ikke har mistet stemmeretten etter [Grunnloven § 53](lov/1814-05-17/§53) ogsenest fire uker før valgdagen er innført i befolkningsregisteret for Svalbard som bosatt i Longyearbyen.
+(1) Stemmerett har enhver norsk statsborger som
+
+1. vil ha fylt 18 år innen utgangen av valgåret,
+2. ikke har mistet stemmeretten etter [Grunnloven § 53](lov/1814-05-17/§53) og
+3. senest fire uker før valgdagen er innført i befolkningsregisteret for Svalbard som bosatt i Longyearbyen.
 
 (2) Personer som ikke er norske statsborgere, men som for øvrig fyller vilkårene i første ledd, har stemmerett dersom de har vært folkeregistrert bosatt i en norsk kommune de tre siste årene før de ble innført i befolkningsregisteret for Svalbard som bosatt i Longyearbyen.
 
@@ -62,7 +66,10 @@ Valget ledes av et valgstyre som velges av lokalstyret selv i dets konstituerend
 
 ### § 2-3. Befolkningsregistermyndighetens ansvar
 
-Befolkningsregistermyndigheten plikter selv av eget tiltak, uten hinder av lovbestemt taushetsplikt, på hensiktsmessig måte å stille til disposisjon for valgstyretet foreløpig manntall basert på stemmerettsvilkårene per 1. mars i valgåret, til bruk for forberedelser av valg, ogopplysninger om hvem som skal innføres i manntallet senest fire uker før valgdagen.
+Befolkningsregistermyndigheten plikter selv av eget tiltak, uten hinder av lovbestemt taushetsplikt, på hensiktsmessig måte å stille til disposisjon for valgstyret
+
+1. et foreløpig manntall basert på stemmerettsvilkårene per 1. mars i valgåret, til bruk for forberedelser av valg, og
+2. opplysninger om hvem som skal innføres i manntallet senest fire uker før valgdagen.
 
 > Endret ved [forskrifter 6 juli 2011 nr. 744](forskrift/2011-07-06-744) (i kraft 1 jan 2012), [28 april 2015 nr. 421](forskrift/2015-04-28-421), [5 des 2018 nr. 1809](forskrift/2018-12-05-1809).
 
@@ -100,7 +107,14 @@ Bestemmelsene i forskrift om valg til Stortinget, fylkesting og kommunestyrer gj
 
 (1) Valgbar til lokalstyret og pliktig til å ta imot valg er alle som har stemmerett ved valget og som står innført i befolkningsregisteret for Svalbard som bosatt i Longyearbyen på valgdagen, og som ikke er utelukket eller fritatt.
 
-(2) Utelukket fra valg til lokalstyret er:sysselmesteren og assisterende sysselmester,administrasjonssjefen i Longyearbyen lokalstyre og vedkommendes stedfortreder,leder av forvaltningsgren i Longyearbyen lokalstyre; dette gjelder likevel ikke leder av enkeltstående virksomheter,sekretær for lokalstyret,ansvarlig for regnskapsfunksjonen i Longyearbyen lokalstyre,revisor for Longyearbyen lokalstyre.
+(2) Utelukket fra valg til lokalstyret er:
+
+1. sysselmesteren og assisterende sysselmester,
+2. administrasjonssjefen i Longyearbyen lokalstyre og vedkommendes stedfortreder,
+3. leder av forvaltningsgren i Longyearbyen lokalstyre; dette gjelder likevel ikke leder av enkeltstående virksomheter,
+4. sekretær for lokalstyret,
+5. ansvarlig for regnskapsfunksjonen i Longyearbyen lokalstyre,
+6. revisor for Longyearbyen lokalstyre.
 
 (3) Om en person skal utelukkes fra valg avhenger av om vedkommende innehar stillingen når lokalstyret trer i funksjon.
 
@@ -122,7 +136,12 @@ Bestemmelsene i forskrift om valg til Stortinget, fylkesting og kommunestyrer gj
 
 (1) Fristen for innlevering av listeforslag er kl. 12 den 15. mai i valgåret.
 
-(2) Listeforslaget må oppfylle følgende vilkår:Det må ha en overskrift som angir det parti eller den gruppe som har fremsatt forslaget. Hvis listeforslaget er satt frem av et registrert politisk parti, skal overskriften være enslydende med partiets registrerte navn. Overskriften må ellers ikke kunne forveksles med navnet på et registrert politisk parti, registrert samepolitisk enhet eller med overskriften på andre listeforslag.Det må angi hvilke kandidater som stiller til valg på listen. Kandidatene må ikke være felles med kandidater på andre listeforslag. Antallet kandidater skal oppfylle kravene i [§ 4-2](forskrift/2007-05-14-506/§4-2). Kandidatene skal være oppført med fornavn, etternavn og fødselsår. Opplysning om kandidatenes stilling eller bosted kan påføres. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen.Listeforslaget må være underskrevet av et visst antall personer, jf. [§ 4-3](forskrift/2007-05-14-506/§4-3).Det må inneholde navn på en tillitsvalgt og en vararepresentant blant dem som har skrevet under på listeforslaget. Disse skal ha myndighet til å forhandle med valgstyret om endringer på listeforslaget. Det bør også angis navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake.
+(2) Listeforslaget må oppfylle følgende vilkår:
+
+1. Det må ha en overskrift som angir det parti eller den gruppe som har fremsatt forslaget. Hvis listeforslaget er satt frem av et registrert politisk parti, skal overskriften være enslydende med partiets registrerte navn. Overskriften må ellers ikke kunne forveksles med navnet på et registrert politisk parti, registrert samepolitisk enhet eller med overskriften på andre listeforslag.
+2. Det må angi hvilke kandidater som stiller til valg på listen. Kandidatene må ikke være felles med kandidater på andre listeforslag. Antallet kandidater skal oppfylle kravene i [§ 4-2](forskrift/2007-05-14-506/§4-2). Kandidatene skal være oppført med fornavn, etternavn og fødselsår. Opplysning om kandidatenes stilling eller bosted kan påføres. Dette skal gjøres hvis det er nødvendig for å unngå forveksling av kandidatene på listen.
+3. Listeforslaget må være underskrevet av et visst antall personer, jf. [§ 4-3](forskrift/2007-05-14-506/§4-3).
+4. Det må inneholde navn på en tillitsvalgt og en vararepresentant blant dem som har skrevet under på listeforslaget. Disse skal ha myndighet til å forhandle med valgstyret om endringer på listeforslaget. Det bør også angis navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake.
 
 (3) Listeforslaget må ha vedlegg som nevnt i [§ 4-4](forskrift/2007-05-14-506/§4-4).
 
@@ -144,7 +163,12 @@ Bestemmelsene i forskrift om valg til Stortinget, fylkesting og kommunestyrer gj
 
 ### § 4-4. Vedlegg til listeforslaget
 
-Listeforslaget skal ha følgende vedlegg:En oversikt over kandidatenes fødselsdato.En oversikt over fødselsdato og bostedsadresse til dem som har underskrevet på listeforslaget.Dersom en kandidat ikke er innført i befolkningsregisteret som bosatt i Longyearbyen når listeforslaget innleveres, må det ligge ved en erklæring fra kandidaten om at vedkommende vil være valgbar på valgdagen.Dersom en kandidat ikke er valgbar på grunn av sin stilling, må det legges ved en erklæring fra kandidaten om at vedkommende vil ha fratrådt stillingen når lokalstyret trer i funksjon.
+Listeforslaget skal ha følgende vedlegg:
+
+1. En oversikt over kandidatenes fødselsdato.
+2. En oversikt over fødselsdato og bostedsadresse til dem som har underskrevet på listeforslaget.
+3. Dersom en kandidat ikke er innført i befolkningsregisteret som bosatt i Longyearbyen når listeforslaget innleveres, må det ligge ved en erklæring fra kandidaten om at vedkommende vil være valgbar på valgdagen.
+4. Dersom en kandidat ikke er valgbar på grunn av sin stilling, må det legges ved en erklæring fra kandidaten om at vedkommende vil ha fratrådt stillingen når lokalstyret trer i funksjon.
 
 ### § 4-5. Tilbakekalling av listeforslaget
 
@@ -340,7 +364,15 @@ Bestemmelsene i forskrift om valg til Stortinget, fylkesting og kommunestyrer gj
 
 ### § 8-1. Valgstyrets godkjenning av forhåndsstemmegivning avgitt i stemmeseddelkonvolutt
 
-(1) En forhåndsstemmegivning skal godkjennes dersomvelgeren er innført i manntallet,stemmegivningen inneholder tilstrekkelige opplysninger til å fastslå hvem velgeren er,stemmegivningen er avgitt til rett tid,stemmegivningen er levert til rett stemmemottaker med mindre den er avgitt som brevstemme,omslagskonvolutten ikke er åpnet eller forsøkt åpnet,velgeren ikke har avgitt godkjent stemmegivning ogstemmegivningen er kommet inn til valgstyret innen kl. 17 dagen etter valgdagen.
+(1) En forhåndsstemmegivning skal godkjennes dersom
+
+1. velgeren er innført i manntallet,
+2. stemmegivningen inneholder tilstrekkelige opplysninger til å fastslå hvem velgeren er,
+3. stemmegivningen er avgitt til rett tid,
+4. stemmegivningen er levert til rett stemmemottaker med mindre den er avgitt som brevstemme,
+5. omslagskonvolutten ikke er åpnet eller forsøkt åpnet,
+6. velgeren ikke har avgitt godkjent stemmegivning og
+7. stemmegivningen er kommet inn til valgstyret innen kl. 17 dagen etter valgdagen.
 
 (2) Velgerens stemmegivning er godkjent når vedkommende er krysset av i listen over stemmeberettigede.
 
@@ -350,7 +382,11 @@ Bestemmelsene i forskrift om valg til Stortinget, fylkesting og kommunestyrer gj
 
 ### § 8-1a. Stemmemottakers godkjenning av forhåndsstemmegivning som legges i urne
 
-(1) En stemmegivning avgitt på forhånd i henhold til [§ 6-4](forskrift/2007-05-14-506/§6-4) annet ledd skal godkjennes dersomvelgeren er innført i manntallet,velgeren har fått anledning til å avgi stemme, ogvelgeren ikke allerede har avgitt godkjent stemmegivning.
+(1) En stemmegivning avgitt på forhånd i henhold til [§ 6-4](forskrift/2007-05-14-506/§6-4) annet ledd skal godkjennes dersom
+
+1. velgeren er innført i manntallet,
+2. velgeren har fått anledning til å avgi stemme, og
+3. velgeren ikke allerede har avgitt godkjent stemmegivning.
 
 (2) Velgerens stemmegivning er godkjent når vedkommende er krysset av i manntallet.
 
@@ -358,7 +394,11 @@ Bestemmelsene i forskrift om valg til Stortinget, fylkesting og kommunestyrer gj
 
 ### § 8-2. Godkjenning av stemmegivning avgitt på valgtinget
 
-(1) En stemmegivning avgitt på valgtinget skal godkjennes dersomvelgeren er innført i manntallet,velgeren har fått anledning til å avgi stemme, ogvelgeren ikke allerede har avgitt godkjent stemmegivning.
+(1) En stemmegivning avgitt på valgtinget skal godkjennes dersom
+
+1. velgeren er innført i manntallet,
+2. velgeren har fått anledning til å avgi stemme, og
+3. velgeren ikke allerede har avgitt godkjent stemmegivning.
 
 (2) Velgerens stemmegivning er godkjent når vedkommende er krysset av i manntallet.
 
@@ -366,7 +406,11 @@ Bestemmelsene i forskrift om valg til Stortinget, fylkesting og kommunestyrer gj
 
 ### § 8-3. Godkjenning av stemmesedler
 
-(1) En stemmeseddel skal godkjennes dersomden har offentlig stempel,det fremgår hvilket parti eller gruppe velgeren har stemt på, ogpartiet eller gruppen stiller liste ved valget.
+(1) En stemmeseddel skal godkjennes dersom
+
+1. den har offentlig stempel,
+2. det fremgår hvilket parti eller gruppe velgeren har stemt på, og
+3. partiet eller gruppen stiller liste ved valget.
 
 (2) En avgitt stemmeseddel anses å være enslydende med den offisielle valglisten.
 
@@ -490,7 +534,10 @@ Lokalstyrevalget holdes som flertallsvalg dersom det ikke foreligger mer enn ett
 
 ### § 13-1. Forsøk
 
-(1) Kongen kan etter søknad gi samtykke til:forsøk der valg etter denne forskrift gjennomføres på andre måter enn det som følger av denne forskrift, ogforsøk med direkte valg av andre folkevalgte organer enn dem denne forskrift gjelder.
+(1) Kongen kan etter søknad gi samtykke til:
+
+1. forsøk der valg etter denne forskrift gjennomføres på andre måter enn det som følger av denne forskrift, og
+2. forsøk med direkte valg av andre folkevalgte organer enn dem denne forskrift gjelder.
 
 (2) Kongen fastsetter nærmere vilkår for forsøket og bestemmer herunder hvilke forskriftsbestemmelser det kan gjøres avvik fra.
 
@@ -500,7 +547,10 @@ Oppbevaring, avhending og tilintetgjøring av valgmateriell etter at valget er o
 
 ### § 13-3. Tilgang til manntallet og det øvrige materiellet – offentlighet
 
-(1) Om ikke annet følger av bestemmelser i denne forskrift, kan tilgang til eller avskrift av manntallseksemplarer, herunder det som er brukt til avkryssing, bare gis eller utleverestil offentlig ansatte når det er nødvendig av hensyn til tjenesten, ellertil forskere i vitenskapelig øyemed når det foreligger samtykke fra befolkningsregistermyndigheten.
+(1) Om ikke annet følger av bestemmelser i denne forskrift, kan tilgang til eller avskrift av manntallseksemplarer, herunder det som er brukt til avkryssing, bare gis eller utleveres
+
+1. til offentlig ansatte når det er nødvendig av hensyn til tjenesten, eller
+2. til forskere i vitenskapelig øyemed når det foreligger samtykke fra befolkningsregistermyndigheten.
 
 (2) Tilgang til det øvrige valgmateriellet kan bare gis til forskere i vitenskapelig øyemed og etter samtykke fra vedkommende myndighet.
 

@@ -66,19 +66,30 @@ Spesifikke opptakskrav for det enkelte studium er definert i studieplanen for de
 
 ### § 2-2. Opptakskrav på grunn av formelle kvalifikasjoner
 
-For opptak til utdanning ved NKIs fagskoler kreves fullført og bestått videregående opplæring eller tilsvarende realkompetanse, jf. [fagskoleloven § 1](lov/2018-06-08-28/§1) (Nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring).Relevante fag- og svennebrevYrkeskompetanse eller vitnemål fra definerte utdanningsprogrammer i videregående opplæring.
+For opptak til utdanning ved NKIs fagskoler kreves fullført og bestått videregående opplæring eller tilsvarende realkompetanse, jf. [fagskoleloven § 1](lov/2018-06-08-28/§1) (Nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring).
+
+1. Relevante fag- og svennebrev
+2. Yrkeskompetanse eller vitnemål fra definerte utdanningsprogrammer i videregående opplæring.
 
 Andre spesifikke opptakskrav for den aktuelle utdanning er tilgjengelig på [www.nki.no](https://www.nki.no)
 
 ### § 2-3. Opptakskrav realkompetanse
 
-Søkere som ikke fyller det formelle opptakskravet kan søke om opptak på grunnlag av realkompetanse. Dette er:søkere som har fullført videregående opplæring, men et annet utdanningsprogram enn det som er det formelle opptakskravetsøkere som ikke har fullført videregående opplæringsøkere med utdanning fra andre land enn Norge.
+Søkere som ikke fyller det formelle opptakskravet kan søke om opptak på grunnlag av realkompetanse. Dette er:
+
+1. søkere som har fullført videregående opplæring, men et annet utdanningsprogram enn det som er det formelle opptakskravet
+2. søkere som ikke har fullført videregående opplæring
+3. søkere med utdanning fra andre land enn Norge.
 
 Søknad om opptak på grunnlag av realkompetanse skal gis individuell behandling og søkeren må redegjøre spesielt for hvilken erfaring og hvilke øvrige forhold som taler for at vedkommende er studiekompetent. Søkere som ønsker å bli realkompetansevurdert må ha en alder som er minst normalalderen for fullført aktuell videregående opplæring.
 
 Søkere som ønsker opptak på realkompetansegrunnlag må fylle ut et eget skjema for realkompetansevurdering som leveres sammen med søknaden.
 
-Ved realkompetansesøknader, vurderes realkompetansen opp mot læringsutbyttebeskrivelsene i det utdanningsprogrammet i videregående opplæring – som er det formelle opptakskravet. Denne vurderingen skal sikre at søkeren har kompetanse likeverdig med kompetansen til dem som tas opp til fagskolen på formelt utdanningsgrunnlag. All opplæring og arbeidserfaring må kunne dokumenteres. Dokumentasjonen må vise at søkeren har kompetanse som:er på riktig nivå i forhold til NKR (Nasjonalt klassifikasjonsrammeverk)er relevant for utdanningen vedkommende søker opptak tilhar tilstrekkelig omfang, fordypning og/eller faglig bredde.
+Ved realkompetansesøknader, vurderes realkompetansen opp mot læringsutbyttebeskrivelsene i det utdanningsprogrammet i videregående opplæring – som er det formelle opptakskravet. Denne vurderingen skal sikre at søkeren har kompetanse likeverdig med kompetansen til dem som tas opp til fagskolen på formelt utdanningsgrunnlag. All opplæring og arbeidserfaring må kunne dokumenteres. Dokumentasjonen må vise at søkeren har kompetanse som:
+
+- er på riktig nivå i forhold til NKR (Nasjonalt klassifikasjonsrammeverk)
+- er relevant for utdanningen vedkommende søker opptak til
+- har tilstrekkelig omfang, fordypning og/eller faglig bredde.
 
 ### § 2-4. Søkere med utenlandsk utdanning
 
@@ -94,7 +105,10 @@ Søkere som ønsker veiledning til utfylling av søknad bes kontakte administras
 
 ### § 2-7. Avslag på søknad
 
-Når det foreligger saklige grunner kan NKI nekte å tilby studieplass til søkere som ellers oppfyller de faglige vilkårene for opptak. Som saklig grunn regnes blant annet:Søkeren er bortvist eller utestengt fra NKI eller andre lærestederSøkeren har tidligere misligholdt betalingsforpliktelser overfor NKI. I slike tilfeller kan det som vilkår for opptak kreves at alt mellomværende gjøres opp.
+Når det foreligger saklige grunner kan NKI nekte å tilby studieplass til søkere som ellers oppfyller de faglige vilkårene for opptak. Som saklig grunn regnes blant annet:
+
+- Søkeren er bortvist eller utestengt fra NKI eller andre læresteder
+- Søkeren har tidligere misligholdt betalingsforpliktelser overfor NKI. I slike tilfeller kan det som vilkår for opptak kreves at alt mellomværende gjøres opp.
 
 ### § 2-8. Vurdering av skikkethet
 

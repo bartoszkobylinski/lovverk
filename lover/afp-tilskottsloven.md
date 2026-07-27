@@ -15,7 +15,7 @@ xml_hash: "4fef451b45eb21ddab1ad72e0ba9063ac7f75a8dae34eec82ea164c956f0176a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,11 @@ Reglene i kapitlet her gjelder for statstilskott til arbeidstakere født i 1944 
 
 ### § 4. Vilkår for rett til statstilskott
 
-Arbeidstakere kan bare gis statstilskott til avtalefestet pensjon dersom depå uttakstidspunktet har en inntekt som omregnet til årsinntekt overstiger gjeldende grunnbeløp, og hadde en inntekt over gjennomsnittlig grunnbeløp i det foregående året,på uttakstidspunktet er reelle arbeidstakere i en bedrift som er omfattet av en avtale som nevnt i [§ 1](lov/2010-02-19-5/§1), ogved fylte 62 år hadde vært arbeidstakere i minst 7 av de siste 9 årene i én eller flere bedrifter som var omfattet av en avtale som nevnt i [§ 1](lov/2010-02-19-5/§1).
+Arbeidstakere kan bare gis statstilskott til avtalefestet pensjon dersom de
+
+1. på uttakstidspunktet har en inntekt som omregnet til årsinntekt overstiger gjeldende grunnbeløp, og hadde en inntekt over gjennomsnittlig grunnbeløp i det foregående året,
+2. på uttakstidspunktet er reelle arbeidstakere i en bedrift som er omfattet av en avtale som nevnt i [§ 1](lov/2010-02-19-5/§1), og
+3. ved fylte 62 år hadde vært arbeidstakere i minst 7 av de siste 9 årene i én eller flere bedrifter som var omfattet av en avtale som nevnt i [§ 1](lov/2010-02-19-5/§1).
 
 Ved anvendelsen av bestemmelsen i første ledd bokstav c skal tallet «7» erstattes med tallet «3» og tallet «9» erstattes med tallet «5» for arbeidstakere født i årene 1944 til 1951. For arbeidstakere født i årene 1952 til 1954 økes begge tallene med ett år for hvert år de er født etter 1951.
 
@@ -54,7 +58,12 @@ I vedtekter etter [§ 19](lov/2010-02-19-5/§19) kan kravene i første og andre 
 
 ### § 5. Krav til utforming av avtalefestet pensjon
 
-Statstilskott til avtalefestet pensjon kan ytes når følgende vilkår er oppfylt:Avtalefestet pensjon må tidligst kunne tas ut ved fylte 62 år.Ved uttak før fylte 70 år må avtalefestet pensjon tas ut sammen med alderspensjon fra folketrygden.Pensjonen må gis som en ugradert, livsvarig ytelse uten prøving mot arbeidsinntekt.Pensjonen må beregnes i samsvar med bestemmelsene i [§§ 6](lov/2010-02-19-5/§6) og 7.
+Statstilskott til avtalefestet pensjon kan ytes når følgende vilkår er oppfylt:
+
+1. Avtalefestet pensjon må tidligst kunne tas ut ved fylte 62 år.
+2. Ved uttak før fylte 70 år må avtalefestet pensjon tas ut sammen med alderspensjon fra folketrygden.
+3. Pensjonen må gis som en ugradert, livsvarig ytelse uten prøving mot arbeidsinntekt.
+4. Pensjonen må beregnes i samsvar med bestemmelsene i [§§ 6](lov/2010-02-19-5/§6) og 7.
 
 ### § 6. Grunnlaget for beregning av avtalefestet pensjon
 
@@ -246,7 +255,11 @@ Taushetsplikten etter første ledd og Arbeids- og velferdsetatens taushetsplikt 
 
 ### § 30. Forskrifter
 
-Departementet gir forskrifter til utfylling av loven, inkludert forskrifter omfastsetting av grunnlaget for avtalefestet pensjon etter [§ 6](lov/2010-02-19-5/§6), herunder regler om fra hvilket tidspunkt inntekt i det året arbeidstakeren fyller 61 år skal tas med i grunnlaget og om medregning av inntekt for år før 1992 med omsorg for små barnfastsetting av kronetillegg og justeringsbeløp etter [§ 7](lov/2010-02-19-5/§7) ved uttak av avtalefestet pensjon før fylte 67 årfastsetting av forholdstall etter [§ 11](lov/2010-02-19-5/§11).
+Departementet gir forskrifter til utfylling av loven, inkludert forskrifter om
+
+1. fastsetting av grunnlaget for avtalefestet pensjon etter [§ 6](lov/2010-02-19-5/§6), herunder regler om fra hvilket tidspunkt inntekt i det året arbeidstakeren fyller 61 år skal tas med i grunnlaget og om medregning av inntekt for år før 1992 med omsorg for små barn
+2. fastsetting av kronetillegg og justeringsbeløp etter [§ 7](lov/2010-02-19-5/§7) ved uttak av avtalefestet pensjon før fylte 67 år
+3. fastsetting av forholdstall etter [§ 11](lov/2010-02-19-5/§11).
 
 > Endret ved [lov 21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)).
 

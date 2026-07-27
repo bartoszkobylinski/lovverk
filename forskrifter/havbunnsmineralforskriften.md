@@ -40,7 +40,13 @@ Denne forskriften gjelder ikke for undersøkelse og utvinning av forekomster av 
 
 ### § 3. Søknad om undersøkelsestillatelse
 
-Søknad om undersøkelsestillatelse etter [havbunnsmineralloven § 3-1](lov/2019-03-22-7/§3-1) sendes departementet med kopi til Sokkeldirektoratet, og skal inneholde opplysninger som nevnt i [havbunnsmineralloven § 3-1 andre ledd](lov/2019-03-22-7/§3-1/ledd/2) samt opplysninger om:søkers navn, adresse og nasjonalitet. Dersom søknaden omfatter flere søkere, skal samtlige navn, adresser og nasjonaliteter oppgishvem i Norge som skal være representant overfor myndigheteneen beskrivelse av selskapets organisasjon, styre og eierskap/eierforholden beskrivelse av kjente miljøforhold i området søknaden omfatter og av vesentlige, relevante kunnskapsmangleren vurdering av eventuell miljøpåvirkning av planlagte undersøkelser og mulig avbøtende tiltak
+Søknad om undersøkelsestillatelse etter [havbunnsmineralloven § 3-1](lov/2019-03-22-7/§3-1) sendes departementet med kopi til Sokkeldirektoratet, og skal inneholde opplysninger som nevnt i [havbunnsmineralloven § 3-1 andre ledd](lov/2019-03-22-7/§3-1/ledd/2) samt opplysninger om:
+
+1. søkers navn, adresse og nasjonalitet. Dersom søknaden omfatter flere søkere, skal samtlige navn, adresser og nasjonaliteter oppgis
+2. hvem i Norge som skal være representant overfor myndighetene
+3. en beskrivelse av selskapets organisasjon, styre og eierskap/eierforhold
+4. en beskrivelse av kjente miljøforhold i området søknaden omfatter og av vesentlige, relevante kunnskapsmangler
+5. en vurdering av eventuell miljøpåvirkning av planlagte undersøkelser og mulig avbøtende tiltak
 
 Departementet kan kreve tilleggsopplysninger.
 
@@ -72,7 +78,17 @@ Fartøy som utfører undersøkelser skal ha om bord og bruke utstyr som overvåk
 
 ### § 6. Søknad om utvinningstillatelse
 
-Søknad om utvinningstillatelse etter [havbunnsmineralloven § 4-2](lov/2019-03-22-7/§4-2) sendes departementet med kopi til Sokkeldirektoratet. Søknaden skal inneholde opplysninger som nevnt i [havbunnsmineralloven § 4-2 første ledd](lov/2019-03-22-7/§4-2/ledd/1) og [§ 4-3 første ledd](lov/2019-03-22-7/§4-3/ledd/1), samt opplysninger om:søkerens navn og adresseangivelse av søkerens prioritering av områdene, såfremt det søkes om tillatelse for flere områderen geologisk evaluering av det eller de områder det søkes om utvinningstillatelse for, og hvordan en effektiv mineralvirksomhet planlegges heren beskrivelse av kjente miljøforhold i området søknaden omfatter og av vesentlige, relevante kunnskapsmangleren vurdering av miljøpåvirkningen av den foreslåtte letevirksomheten og mulig avbøtende tiltaken beskrivelse av selskapets organisasjon, styre og eierskap/eierforholden økonomisk evaluering av det eller de områder det søkes om utvinningstillatelse forbeskrivelse av søkers organisasjon og kompetanse knyttet til det eller de områder det søkes om utvinningstillatelse forkvittering for innbetalt behandlingsgebyr
+Søknad om utvinningstillatelse etter [havbunnsmineralloven § 4-2](lov/2019-03-22-7/§4-2) sendes departementet med kopi til Sokkeldirektoratet. Søknaden skal inneholde opplysninger som nevnt i [havbunnsmineralloven § 4-2 første ledd](lov/2019-03-22-7/§4-2/ledd/1) og [§ 4-3 første ledd](lov/2019-03-22-7/§4-3/ledd/1), samt opplysninger om:
+
+1. søkerens navn og adresse
+2. angivelse av søkerens prioritering av områdene, såfremt det søkes om tillatelse for flere områder
+3. en geologisk evaluering av det eller de områder det søkes om utvinningstillatelse for, og hvordan en effektiv mineralvirksomhet planlegges her
+4. en beskrivelse av kjente miljøforhold i området søknaden omfatter og av vesentlige, relevante kunnskapsmangler
+5. en vurdering av miljøpåvirkningen av den foreslåtte letevirksomheten og mulig avbøtende tiltak
+6. en beskrivelse av selskapets organisasjon, styre og eierskap/eierforhold
+7. en økonomisk evaluering av det eller de områder det søkes om utvinningstillatelse for
+8. beskrivelse av søkers organisasjon og kompetanse knyttet til det eller de områder det søkes om utvinningstillatelse for
+9. kvittering for innbetalt behandlingsgebyr
 
 Departementet kan fravike kravet til innhold i søknaden etter første ledd, herunder kreve ytterligere opplysninger.
 
@@ -120,7 +136,11 @@ For så vidt gjelder miljørelatert materiale og opplysninger skal Sokkeldirekto
 
 Opplysninger av enhver art som meddeles myndighetene i forbindelse med søknad om utvinningstillatelse, skal være underlagt taushetsplikt inntil utvinningstillatelsene til de aktuelle områder er tildelt. Deretter skal opplysningene være underlagt taushetsplikt i den utstrekning dette følger av [forvaltningsloven](lov/1967-02-10) i et tidsrom av 20 år, jf. [forvaltningsloven § 13c tredje ledd](lov/1967-02-10/§13c/ledd/3).
 
-Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at uvedkommende får adgang til eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om geologiske forhold i rapporter eller annet materiale som sendes offentlige myndigheter. For data som er underlagt taushetsplikt etter første punktum, skal taushetsplikten ha følgende varighet regnet fra det tidspunkt dataene ble tilgjengelig for eier av dataene:10 år for tolkede data10 år for data som har vært omsettelige fra det tidspunkt de ble tilgjengelig for eieren2 år for øvrige data
+Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at uvedkommende får adgang til eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om geologiske forhold i rapporter eller annet materiale som sendes offentlige myndigheter. For data som er underlagt taushetsplikt etter første punktum, skal taushetsplikten ha følgende varighet regnet fra det tidspunkt dataene ble tilgjengelig for eier av dataene:
+
+1. 10 år for tolkede data
+2. 10 år for data som har vært omsettelige fra det tidspunkt de ble tilgjengelig for eieren
+3. 2 år for øvrige data
 
 Batymetridata med oppløsning på 20 meter eller mer er ikke underlagt taushetsplikt.
 
@@ -148,7 +168,12 @@ Dersom det identifiseres aktive hydrotermale strukturer eller større konsentras
 
 ### § 15. Forsikring
 
-Forsikring av den virksomhet rettighetshaver driver etter loven skal i det minste omfatte:skade på innretningerforurensningsskade og annet ansvar overfor tredjemannfjerning av vrak og opprydding som følge av uhellforsikring av egne arbeidstakere som er engasjert i virksomheten
+Forsikring av den virksomhet rettighetshaver driver etter loven skal i det minste omfatte:
+
+1. skade på innretninger
+2. forurensningsskade og annet ansvar overfor tredjemann
+3. fjerning av vrak og opprydding som følge av uhell
+4. forsikring av egne arbeidstakere som er engasjert i virksomheten
 
 Rettighetshaver skal påse at entreprenører og underentreprenører engasjert i virksomheten forsikrer sine arbeidstakere i samme utstrekning som operatøren forsikrer sine arbeidstakere.
 

@@ -36,9 +36,17 @@ Forskriften fastsetter regler om fremgangsmåtene for mottak og behandling av ra
 
 ## § 3. Mottak av rapporter om overtredelser
 
-(1) Rapporter om overtredelser skal kunne inngis til Finanstilsynet:via telefon,ved skriftlig rapport i elektronisk form eller i papirform, ogved personlig møte med særskilt ansatte i henhold til [§ 5](forskrift/2022-08-23-1467/§5).
+(1) Rapporter om overtredelser skal kunne inngis til Finanstilsynet:
 
-(2) Finanstilsynet skal sørge for at de kommunikasjonskanalene som brukes for rapporter om overtredelser i henhold til første ledd, er:atskilt fra Finanstilsynets øvrige kommunikasjonskanaler,innrettet og driftet på en måte som sikrer at den mottatte informasjonen forblir fullstendig, og at dens integritet og konfidensialitet bevares, og som hindrer adgang for uautoriserte ansatte, ogmuliggjør oppbevaring av opplysninger med henblikk på eventuelle ytterligere undersøkelser.
+1. via telefon,
+2. ved skriftlig rapport i elektronisk form eller i papirform, og
+3. ved personlig møte med særskilt ansatte i henhold til [§ 5](forskrift/2022-08-23-1467/§5).
+
+(2) Finanstilsynet skal sørge for at de kommunikasjonskanalene som brukes for rapporter om overtredelser i henhold til første ledd, er:
+
+1. atskilt fra Finanstilsynets øvrige kommunikasjonskanaler,
+2. innrettet og driftet på en måte som sikrer at den mottatte informasjonen forblir fullstendig, og at dens integritet og konfidensialitet bevares, og som hindrer adgang for uautoriserte ansatte, og
+3. muliggjør oppbevaring av opplysninger med henblikk på eventuelle ytterligere undersøkelser.
 
 (3) Den rapporterende personen skal, om mulig, få informasjonen nevnt i [§ 8](forskrift/2022-08-23-1467/§8) før rapport om overtredelse mottas eller senest når den mottas.
 
@@ -46,7 +54,12 @@ Forskriften fastsetter regler om fremgangsmåtene for mottak og behandling av ra
 
 ## § 4. Fremgangsmåter som gjelder for rapporter om overtredelser
 
-Finanstilsynet skal ha prosedyrer som gjelder for rapporter om overtredelse. Av disse prosedyrene skal det fremgå:at rapporter om overtredelser kan inngis anonymt,på hvilken måte Finanstilsynet kan kreve klargjøring eller supplering av opplysningene,typen, innholdet i og tidsrammen for tilbakemelding om utfallet av rapporten om overtredelse som den rapporterende personen kan forvente å motta, ogde ordningene for konfidensiell behandling som gjelder for rapporter om overtredelser. Dette skal omfatte en nærmere beskrivelse av under hvilke omstendigheter konfidensielle opplysninger om en rapporterende person kan gis videre, herunder i samsvar med artikkel 27, 28 og 29 i markedsmisbruksforordningen.
+Finanstilsynet skal ha prosedyrer som gjelder for rapporter om overtredelse. Av disse prosedyrene skal det fremgå:
+
+1. at rapporter om overtredelser kan inngis anonymt,
+2. på hvilken måte Finanstilsynet kan kreve klargjøring eller supplering av opplysningene,
+3. typen, innholdet i og tidsrammen for tilbakemelding om utfallet av rapporten om overtredelse som den rapporterende personen kan forvente å motta, og
+4. de ordningene for konfidensiell behandling som gjelder for rapporter om overtredelser. Dette skal omfatte en nærmere beskrivelse av under hvilke omstendigheter konfidensielle opplysninger om en rapporterende person kan gis videre, herunder i samsvar med artikkel 27, 28 og 29 i markedsmisbruksforordningen.
 
 ## § 5. Særskilt utpekte ansatte til å motta og behandle rapporter om overtredelser
 
@@ -72,7 +85,11 @@ Finanstilsynet skal sørge for at den som rapporterer om overtredelse, har tilga
 
 (1) Finanstilsynet skal publisere informasjon om mottak av rapporter om overtredelser på sin nettside. Informasjonen skal publiseres i en egen, identifiserbar og tilgjengelig del av nettstedet.
 
-(2) Informasjonen skal minst omfatte følgende:kommunikasjonskanalene som er etablert i henhold til [§ 3](forskrift/2022-08-23-1467/§3), herunder særskilte e-postadresser og postadresser, samt telefonnummer med en angivelse av om samtaler blir tatt opp eller ikke,prosedyrer som gjelder for rapporter om overtredelser i henhold til [§ 4](forskrift/2022-08-23-1467/§4), samt prosedyrer for beskyttelse av personer som arbeider i henhold til en arbeidsavtale, ogen erklæring som tydelig angir at personer som varsler i samsvar med forordning [(EU) nr. 596/2014](eu/32014r0596), ikke skal anses å ha brutt taushetsplikten i henhold til avtale, lov eller forskrift, og ikke pådrar seg noen form for ansvar i forbindelse med slik utlevering av opplysninger.
+(2) Informasjonen skal minst omfatte følgende:
+
+1. kommunikasjonskanalene som er etablert i henhold til [§ 3](forskrift/2022-08-23-1467/§3), herunder særskilte e-postadresser og postadresser, samt telefonnummer med en angivelse av om samtaler blir tatt opp eller ikke,
+2. prosedyrer som gjelder for rapporter om overtredelser i henhold til [§ 4](forskrift/2022-08-23-1467/§4), samt prosedyrer for beskyttelse av personer som arbeider i henhold til en arbeidsavtale, og
+3. en erklæring som tydelig angir at personer som varsler i samsvar med forordning [(EU) nr. 596/2014](eu/32014r0596), ikke skal anses å ha brutt taushetsplikten i henhold til avtale, lov eller forskrift, og ikke pådrar seg noen form for ansvar i forbindelse med slik utlevering av opplysninger.
 
 (3) Finanstilsynet skal gjennomgå varslingsprosedyrene periodisk og minst annethvert år, og herunder ta hensyn til egne og andre myndigheters erfaring, markedsutviklingen og den teknologiske utviklingen.
 

@@ -15,7 +15,7 @@ xml_hash: "4ff825d9eb97639c2b01cc02f24e453a54777fbe2dbcaa336fe252cf559657b8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,15 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder for norskero-ro passasjerskip sertifisert for mer enn 12 passasjererpassasjerskip som bruker drivstoff med flammepunkt under 60 °C, sertifisert for mer enn 12 passasjererpassasjerskip i innenriksfart sertifisert for mer enn 100 passasjererpassasjerskip sertifisert for mer enn 12 passasjerer i utenriksfartlasteskip med bruttotonnasje 500 eller merfiskefartøy med bruttotonnasje 500 eller merflyttbare innretninger.
+Forskriften gjelder for norske
+
+1. ro-ro passasjerskip sertifisert for mer enn 12 passasjerer
+2. passasjerskip som bruker drivstoff med flammepunkt under 60 °C, sertifisert for mer enn 12 passasjerer
+3. passasjerskip i innenriksfart sertifisert for mer enn 100 passasjerer
+4. passasjerskip sertifisert for mer enn 12 passasjerer i utenriksfart
+5. lasteskip med bruttotonnasje 500 eller mer
+6. fiskefartøy med bruttotonnasje 500 eller mer
+7. flyttbare innretninger.
 
 Forskriften gjelder ikke for fartøy som tilhører eller brukes av staten utenfor næringsvirksomhet.
 
@@ -163,11 +171,18 @@ Formålene med denne norm er å ivareta sikkerhet til sjøs, hindre personskader
 
 1.2.2
 
-Selskapets mål for sikkerhetsstyring skal bl.a. være:å sørge for sikker praksis ved drift av skip og et sikkert arbeidsmiljø,å vurdere alle identifiserte risikoer for skipet, personellet og miljøet og å innføre egnet vern, ogstadig å forbedre ferdighetene til personell i land og om bord med hensyn til sikkerhetsstyring, herunder forberedelse på nødssituasjoner som omfatter både sikkerhet og miljøvern.
+Selskapets mål for sikkerhetsstyring skal bl.a. være:
+
+1. å sørge for sikker praksis ved drift av skip og et sikkert arbeidsmiljø,
+2. å vurdere alle identifiserte risikoer for skipet, personellet og miljøet og å innføre egnet vern, og
+3. stadig å forbedre ferdighetene til personell i land og om bord med hensyn til sikkerhetsstyring, herunder forberedelse på nødssituasjoner som omfatter både sikkerhet og miljøvern.
 
 1.2.3
 
-Sikkerhetsstyringssystemet skal sikre:at obligatoriske regler og forskrifter overholdes, ogat det tas hensyn til gjeldende regler, retningslinjer og standarder anbefalt av organisasjonen, myndighetene, klassifikasjonsselskapene og organisasjonene i sjøfartsnæringen.2
+Sikkerhetsstyringssystemet skal sikre:
+
+1. at obligatoriske regler og forskrifter overholdes, og
+2. at det tas hensyn til gjeldende regler, retningslinjer og standarder anbefalt av organisasjonen, myndighetene, klassifikasjonsselskapene og organisasjonene i sjøfartsnæringen.2
 
 1.3**Anvendelse**
 
@@ -175,7 +190,14 @@ Kravene i denne norm kan anvendes på alle skip.
 
 1.4**Funksjonskrav til sikkerhetsstyringssystemer (SMS)**
 
-Alle selskaper skal utvikle, gjennomføre og vedlikeholde et sikkerhetsstyringssystem (SMS) som omfatter følgende funksjonskrav:en politikk for sikkerhet og miljøvern,instrukser og framgangsmåter for å sikre sikker drift av skip og vern av miljøet i samsvar med relevant internasjonalt regelverk og flaggstatslovgivning,definerte myndighetsnivåer og kommunikasjonslinjer mellom og blant personell i land og om bord,framgangsmåter for rapportering av ulykker og avvik fra bestemmelsene i denne norm,framgangsmåter for forberedelse og reaksjon på nødssituasjoner, ogframgangsmåter for intern revisjon og ledelsens gjennomgang.
+Alle selskaper skal utvikle, gjennomføre og vedlikeholde et sikkerhetsstyringssystem (SMS) som omfatter følgende funksjonskrav:
+
+1. en politikk for sikkerhet og miljøvern,
+2. instrukser og framgangsmåter for å sikre sikker drift av skip og vern av miljøet i samsvar med relevant internasjonalt regelverk og flaggstatslovgivning,
+3. definerte myndighetsnivåer og kommunikasjonslinjer mellom og blant personell i land og om bord,
+4. framgangsmåter for rapportering av ulykker og avvik fra bestemmelsene i denne norm,
+5. framgangsmåter for forberedelse og reaksjon på nødssituasjoner, og
+6. framgangsmåter for intern revisjon og ledelsens gjennomgang.
 
 1 Det vises til «Procedures concerning observed ISM Code major non-conformities» (MSC/Circ.1059-MEPC/Circ.401).
 
@@ -217,7 +239,13 @@ For å sikre sikker drift av hvert skip og for å sørge for kontakt mellom sels
 
 5.1
 
-Selskapet skal presist definere og dokumentere skipsførerens ansvar med hensyn til:å gjennomføre selskapets politikk for sikkerhet og miljøvern,å motivere mannskapet til å følge denne politikken,å gi hensiktsmessige ordrer og instrukser på en klar og enkel måte,å verifisere at fastsatte krav overholdes, ogå periodisk gjennomgå sikkerhetsstyringssystemet og innrapportere dets mangler til den landbaserte ledelsen.
+Selskapet skal presist definere og dokumentere skipsførerens ansvar med hensyn til:
+
+1. å gjennomføre selskapets politikk for sikkerhet og miljøvern,
+2. å motivere mannskapet til å følge denne politikken,
+3. å gi hensiktsmessige ordrer og instrukser på en klar og enkel måte,
+4. å verifisere at fastsatte krav overholdes, og
+5. å periodisk gjennomgå sikkerhetsstyringssystemet og innrapportere dets mangler til den landbaserte ledelsen.
 
 5.2
 
@@ -227,11 +255,18 @@ Selskapet skal sikre at sikkerhetsstyringssystemet som anvendes om bord i skipet
 
 6.1
 
-Selskapet skal sikre at skipsføreren er:behørig kvalifisert til å ha kommandoen,fullt fortrolig med selskapets sikkerhetsstyringssystem, oggitt den nødvendige støtte, slik at vedkommendes oppgaver kan utføres på en forsvarlig måte.
+Selskapet skal sikre at skipsføreren er:
+
+1. behørig kvalifisert til å ha kommandoen,
+2. fullt fortrolig med selskapets sikkerhetsstyringssystem, og
+3. gitt den nødvendige støtte, slik at vedkommendes oppgaver kan utføres på en forsvarlig måte.
 
 6.2
 
-Selskapet skal sikre at hvert skip er:bemannet med kvalifiserte, sertifiserte og medisinsk skikkede sjøfolk, i samsvar med nasjonale og internasjonale krav, oghensiktsmessig bemannet slik at alle aspekter ved sikker drift om bord ivaretas.1
+Selskapet skal sikre at hvert skip er:
+
+1. bemannet med kvalifiserte, sertifiserte og medisinsk skikkede sjøfolk, i samsvar med nasjonale og internasjonale krav, og
+2. hensiktsmessig bemannet slik at alle aspekter ved sikker drift om bord ivaretas.1
 
 6.3
 
@@ -295,7 +330,12 @@ Selskapet skal innføre framgangsmåter for å sikre at skipet vedlikeholdes i s
 
 10.2
 
-For å oppfylle disse kravene skal selskapet sikre at:inspeksjoner foretas med passende mellomrom,eventuelle avvik rapporteres med mulig årsak, dersom denne er kjent,passende korrigerende tiltak gjennomføres, ogdenne virksomheten journalføres.
+For å oppfylle disse kravene skal selskapet sikre at:
+
+1. inspeksjoner foretas med passende mellomrom,
+2. eventuelle avvik rapporteres med mulig årsak, dersom denne er kjent,
+3. passende korrigerende tiltak gjennomføres, og
+4. denne virksomheten journalføres.
 
 10.3
 
@@ -313,7 +353,11 @@ Selskapet skal innføre og vedlikeholde framgangsmåter for kontroll av alle dok
 
 11.2
 
-Selskapet skal sikre at:gyldige dokumenter er tilgjengelige på alle aktuelle steder,endringer i dokumenter gjennomgås og godkjennes av autorisert personell, ogforeldede dokumenter straks fjernes.
+Selskapet skal sikre at:
+
+1. gyldige dokumenter er tilgjengelige på alle aktuelle steder,
+2. endringer i dokumenter gjennomgås og godkjennes av autorisert personell, og
+3. foreldede dokumenter straks fjernes.
 
 11.3
 
@@ -419,13 +463,23 @@ Dersom et skip på tidspunktet når et sikkerhetsstyringssertifikat utløper, ik
 
 14.1
 
-Det kan utstedes et midlertidig godkjenningsbevis for å lette den innledende gjennomføringen av denne norm når:et selskap er nyopprettet, ellernye skipstyper skal legges til i et eksisterende godkjenningsbevis,
+Det kan utstedes et midlertidig godkjenningsbevis for å lette den innledende gjennomføringen av denne norm når:
+
+1. et selskap er nyopprettet, eller
+2. nye skipstyper skal legges til i et eksisterende godkjenningsbevis,
 
 etter at det er verifisert at selskapet har et sikkerhetsstyringssystem som oppfyller målene i nr. 1.2.3 i denne norm, forutsatt at selskapet viser at det har planer om å innføre et sikkerhetsstyringssystem som oppfyller alle krav i denne norm i løpet av gyldighetsperioden for det midlertidige godkjenningsbeviset. Et slikt midlertidig godkjenningsbevis utstedes for et tidsrom som ikke overstiger 12 måneder, av myndigheten eller av en organisasjon som er godkjent av myndigheten, eller, etter anmodning fra myndigheten, av regjeringen i en annen stat som er part i konvensjonen. En kopi av det midlertidige godkjenningsbeviset skal oppbevares om bord, slik at skipsføreren på anmodning kan framlegge dette for verifisering hos myndigheten eller en organisasjon som er godkjent av myndigheten, eller for det kontrollformål som er nevnt i regel IX/6.2 i konvensjonen. Det kreves ikke at kopien av godkjenningsbeviset er rettkjent eller bekreftet.
 
 14.2
 
-Et midlertidig sikkerhetsstyringssertifikat kan utstedes:til nye skip ved levering,når et selskap overtar ansvaret for driften av et skip som er nytt for selskapet,ellernår et skip skifter flagg.
+Et midlertidig sikkerhetsstyringssertifikat kan utstedes:
+
+1. til nye skip ved levering,
+2. når et selskap overtar ansvaret for driften av et skip som er nytt for selskapet,
+
+eller
+
+1. når et skip skifter flagg.
 
 Et slikt midlertidig sikkerhetsstyringssertifikat utstedes for et tidsrom som ikke overstiger seks måneder, av myndigheten eller av en organisasjon som er godkjent av myndigheten eller, etter anmodning fra myndigheten, av regjeringen i en annen stat som er part i konvensjonen.
 
@@ -435,7 +489,14 @@ En myndighet eller, etter anmodning fra myndigheten, regjeringen i en annen stat
 
 14.4
 
-Et midlertidig sikkerhetsstyringssertifikat kan utstedes etter at det er verifisert at:godkjenningsbeviset eller det midlertidige godkjenningsbeviset gjelder for det aktuelle skipet,selskapets sikkerhetsstyringssystem for det aktuelle skipet omfatter de viktigste elementene i denne norm, og er vurdert under revisjonen som er utført med henblikk på utstedelse av godkjenningsbeviset eller er påvist å være i samsvar med vilkårene for utstedelse av det midlertidige godkjenningsbeviset,selskapet har planlagt intern revisjon av skipet innen tre måneder,skipsføreren og skipsoffiserene er kjent med sikkerhetsstyringssystemet og de planlagte ordningene for gjennomføring av dette,instrukser som er vurdert som viktige, foreligger før avreise, ogdet er gitt relevante opplysninger om sikkerhetsstyringssystemet på ett eller flere arbeidsspråk som forstås av skipets mannskap.
+Et midlertidig sikkerhetsstyringssertifikat kan utstedes etter at det er verifisert at:
+
+1. godkjenningsbeviset eller det midlertidige godkjenningsbeviset gjelder for det aktuelle skipet,
+2. selskapets sikkerhetsstyringssystem for det aktuelle skipet omfatter de viktigste elementene i denne norm, og er vurdert under revisjonen som er utført med henblikk på utstedelse av godkjenningsbeviset eller er påvist å være i samsvar med vilkårene for utstedelse av det midlertidige godkjenningsbeviset,
+3. selskapet har planlagt intern revisjon av skipet innen tre måneder,
+4. skipsføreren og skipsoffiserene er kjent med sikkerhetsstyringssystemet og de planlagte ordningene for gjennomføring av dette,
+5. instrukser som er vurdert som viktige, foreligger før avreise, og
+6. det er gitt relevante opplysninger om sikkerhetsstyringssystemet på ett eller flere arbeidsspråk som forstås av skipets mannskap.
 
 ### 15 Verifisering
 

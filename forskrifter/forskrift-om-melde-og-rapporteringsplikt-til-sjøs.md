@@ -15,7 +15,7 @@ xml_hash: "6680d6ad78ed8bb7b529b506e8b77b81dd3d0ff0f4d1fac23bdf098611c7afd3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,9 +26,23 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-(1) Denne forskriften gjelder melde- og rapporteringsplikt ved:sjøulykker og svært alvorlige sjøulykker, jf. [sjøloven § 472a](lov/1994-06-24-39/§472a) fjerde og femte ledd,alvorlige ulykker, jf. [sjøloven § 472a](lov/1994-06-24-39/§472a) første ledd,arbeidsulykke, selv om tilfellet ikke er å anse som en sjøulykke, jf. [skipssikkerhetsloven § 47](lov/2007-02-16-9/§47),utslipp eller fare for utslipp av farlige eller forurensende stoffer, selv om tilfellet ikke er å anse som sjøulykke, jf. [skipssikkerhetsloven § 34](lov/2007-02-16-9/§34),sabotasje eller piratvirksomhet, jf. [skipssikkerhetsloven § 39](lov/2007-02-16-9/§39) og [§ 47](lov/2007-02-16-9/§47), selv om tilfellet ikke er å anse som en sjøulykke,yrkessykdom, jf. [skipssikkerhetsloven § 47](lov/2007-02-16-9/§47), slik det fremgår av den enkelte bestemmelse.alle dødsfall som inntreffer om bord på eller i forbindelse med driften av norske skip, med unntak av fritidsbåter.
+(1) Denne forskriften gjelder melde- og rapporteringsplikt ved:
 
-(2) Forskriften gjelder for:Norske skip, herunder flyttbare innretninger, fiskefartøy og fritidsbåter.Utenlandske skip:Ved sjøulykke i norsk territorialfarvann.Ved utslipp, eller ved fare for utslipp av olje, farlige eller forurensende stoffer i norsk territorialfarvann, herunder territorialfarvannet rundt Svalbard og Jan Mayen og i norsk økonomisk sone.
+1. sjøulykker og svært alvorlige sjøulykker, jf. [sjøloven § 472a](lov/1994-06-24-39/§472a) fjerde og femte ledd,
+2. alvorlige ulykker, jf. [sjøloven § 472a](lov/1994-06-24-39/§472a) første ledd,
+3. arbeidsulykke, selv om tilfellet ikke er å anse som en sjøulykke, jf. [skipssikkerhetsloven § 47](lov/2007-02-16-9/§47),
+4. utslipp eller fare for utslipp av farlige eller forurensende stoffer, selv om tilfellet ikke er å anse som sjøulykke, jf. [skipssikkerhetsloven § 34](lov/2007-02-16-9/§34),
+5. sabotasje eller piratvirksomhet, jf. [skipssikkerhetsloven § 39](lov/2007-02-16-9/§39) og [§ 47](lov/2007-02-16-9/§47), selv om tilfellet ikke er å anse som en sjøulykke,
+6. yrkessykdom, jf. [skipssikkerhetsloven § 47](lov/2007-02-16-9/§47), slik det fremgår av den enkelte bestemmelse.
+7. alle dødsfall som inntreffer om bord på eller i forbindelse med driften av norske skip, med unntak av fritidsbåter.
+
+(2) Forskriften gjelder for:
+
+1. Norske skip, herunder flyttbare innretninger, fiskefartøy og fritidsbåter.
+2. Utenlandske skip:
+
+   1. Ved sjøulykke i norsk territorialfarvann.
+   2. Ved utslipp, eller ved fare for utslipp av olje, farlige eller forurensende stoffer i norsk territorialfarvann, herunder territorialfarvannet rundt Svalbard og Jan Mayen og i norsk økonomisk sone.
 
 (3) For roroferger og hurtiggående passasjerfartøy som går i rutetrafikk til eller fra norsk havn til havn i en EØS-stat, gjelder forskriftens bestemmelser også når sjøulykken inntreffer utenfor norsk sjøterritorium, dersom Norge var den siste EØS-staten skipet besøkte før ulykken.
 
@@ -40,7 +54,37 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*Arbeidsulykke:* En hendelse som har medført skade på person under skipets drift.*Farlige stoffer:**Farlige flytende gasser:* Ethvert stoff som er omfattet av kapittel 19 i IGC-koden.*Farlige kjemikalier:* Stoffer som i kapittel 17 i IBC-koden er identifisert som farlige.*Farlige stoffer i pakket form:* Stoffer som i IMDG-koden er identifisert som farlige, herunder radioaktivt materiale som omhandlet i INF-koden.*Flyttbare innretninger:* Boreplattformer og lignende flyttbare innretninger for undersøkelse etter, utnyttelse, lagring eller transport av undersjøiske naturforekomster samt flyttbare innretninger til hjelp for slik virksomhet.*Forurensende stoffer:**Olje:* Ethvert stoff som er omfattet av vedlegg I til MARPOL 73/78.*Skadelige, flytende stoffer:* Ethvert stoff som er omfattet av vedlegg II til MARPOL 73/78.*Skadelige stoffer i pakket form:* Ethvert stoff som er omfattet av vedlegg III til MARPOL 73/78, dvs. stoffer som er identifisert i IMDG-koden som stoffer som forurenser sjøen.*Fiskefartøy:* Fartøy som er utrustet og som ervervsmessig benyttes til å fange fisk, herunder hval, sel, tang og tare eller andre levende ressurser i sjøen.*Fritidsbåter:* Enhver flytende innretning som er beregnet på og i stand til å bevege seg på vann, og som brukes utenfor næringsvirksomhet.*Hurtiggående passasjerfartøy:* Hurtiggående fartøy som definert i regel X/1 i [SOLAS-konvensjonen av 1974](traktat/1974-11-01-1) som endret pr. 1. mai 1999, og som kan transportere flere enn 12 passasjerer.*IBC-koden:* (International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk). Den internasjonale kjemikaliekode for bygging og utrustning av skip som fører farlige kjemikalier i bulk, vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.4(48), med senere endringer.*IGC-koden:* (International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk). Den internasjonale kode for bygging og utrustning av skip som fører flytende gasser i bulk, vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.5(48), med senere endringer.*IMDG-koden:* (International Maritime Dangerous Goods Code). Den internasjonale koden for transport av farlig last til sjøs, vedtatt ved IMO resolusjon A.716(17), med senere endringer.*INF-koden:* Den internasjonale koden for sikker transport av bestrålt nukleært brensel, plutonium og sterkt radioaktivt avfall i beholdere.*IMO:* Den internasjonale skipsfartsorganisasjon.*MARPOL 73/78:* Den internasjonale konvensjon om hindring av forurensning fra skip, 1973, slik den er endret ved tilleggsprotokollen av 1978, med senere endringer.*Melding:* En umiddelbar eller raskest mulig beskjed til meldingsinstans, slik det fremgår av den enkelte bestemmelse.*Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.*Rapportering:* En skriftlig redegjørelse til rapporteringsinstans, slik det fremgår av den enkelte bestemmelse.*Rederi:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.*Roroferge:* Sjøgående passasjerskip som er utstyrt med innretninger som gjør det mulig å kjøre vei eller skinnegående kjøretøyer på og av skipet, og som kan transportere flere enn 12 passasjerer.*[SOLAS](traktat/1974-11-01-1):* (International Convention for the Safety of Life at Sea 1974). Internasjonal konvensjon for sikkerhet for menneskeliv til sjøs av 1974, med senere endringer.*Utslipp:* Enhver frigivelse eller tømming fra skip uansett årsak, bl.a. enhver utstrømming, fjerning, søling, lekkasje, utpumping, avgivelse eller lensing.*Yrkessykdom:* Sykdom som med overveiende sannsynlighet er fremkalt av faktorer i arbeidssituasjon, eller forholdene om bord og sykdom som påføres under reise til eller fra skipet for rederiets regning, eller under landlov.
+I denne forskrift betyr:
+
+1. *Arbeidsulykke:* En hendelse som har medført skade på person under skipets drift.
+2. *Farlige stoffer:*
+
+   1. *Farlige flytende gasser:* Ethvert stoff som er omfattet av kapittel 19 i IGC-koden.
+   2. *Farlige kjemikalier:* Stoffer som i kapittel 17 i IBC-koden er identifisert som farlige.
+   3. *Farlige stoffer i pakket form:* Stoffer som i IMDG-koden er identifisert som farlige, herunder radioaktivt materiale som omhandlet i INF-koden.
+3. *Flyttbare innretninger:* Boreplattformer og lignende flyttbare innretninger for undersøkelse etter, utnyttelse, lagring eller transport av undersjøiske naturforekomster samt flyttbare innretninger til hjelp for slik virksomhet.
+4. *Forurensende stoffer:*
+
+   1. *Olje:* Ethvert stoff som er omfattet av vedlegg I til MARPOL 73/78.
+   2. *Skadelige, flytende stoffer:* Ethvert stoff som er omfattet av vedlegg II til MARPOL 73/78.
+   3. *Skadelige stoffer i pakket form:* Ethvert stoff som er omfattet av vedlegg III til MARPOL 73/78, dvs. stoffer som er identifisert i IMDG-koden som stoffer som forurenser sjøen.
+5. *Fiskefartøy:* Fartøy som er utrustet og som ervervsmessig benyttes til å fange fisk, herunder hval, sel, tang og tare eller andre levende ressurser i sjøen.
+6. *Fritidsbåter:* Enhver flytende innretning som er beregnet på og i stand til å bevege seg på vann, og som brukes utenfor næringsvirksomhet.
+7. *Hurtiggående passasjerfartøy:* Hurtiggående fartøy som definert i regel X/1 i [SOLAS-konvensjonen av 1974](traktat/1974-11-01-1) som endret pr. 1. mai 1999, og som kan transportere flere enn 12 passasjerer.
+8. *IBC-koden:* (International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk). Den internasjonale kjemikaliekode for bygging og utrustning av skip som fører farlige kjemikalier i bulk, vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.4(48), med senere endringer.
+9. *IGC-koden:* (International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk). Den internasjonale kode for bygging og utrustning av skip som fører flytende gasser i bulk, vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.5(48), med senere endringer.
+10. *IMDG-koden:* (International Maritime Dangerous Goods Code). Den internasjonale koden for transport av farlig last til sjøs, vedtatt ved IMO resolusjon A.716(17), med senere endringer.
+11. *INF-koden:* Den internasjonale koden for sikker transport av bestrålt nukleært brensel, plutonium og sterkt radioaktivt avfall i beholdere.
+12. *IMO:* Den internasjonale skipsfartsorganisasjon.
+13. *MARPOL 73/78:* Den internasjonale konvensjon om hindring av forurensning fra skip, 1973, slik den er endret ved tilleggsprotokollen av 1978, med senere endringer.
+14. *Melding:* En umiddelbar eller raskest mulig beskjed til meldingsinstans, slik det fremgår av den enkelte bestemmelse.
+15. *Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.
+16. *Rapportering:* En skriftlig redegjørelse til rapporteringsinstans, slik det fremgår av den enkelte bestemmelse.
+17. *Rederi:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.
+18. *Roroferge:* Sjøgående passasjerskip som er utstyrt med innretninger som gjør det mulig å kjøre vei eller skinnegående kjøretøyer på og av skipet, og som kan transportere flere enn 12 passasjerer.
+19. *[SOLAS](traktat/1974-11-01-1):* (International Convention for the Safety of Life at Sea 1974). Internasjonal konvensjon for sikkerhet for menneskeliv til sjøs av 1974, med senere endringer.
+20. *Utslipp:* Enhver frigivelse eller tømming fra skip uansett årsak, bl.a. enhver utstrømming, fjerning, søling, lekkasje, utpumping, avgivelse eller lensing.
+21. *Yrkessykdom:* Sykdom som med overveiende sannsynlighet er fremkalt av faktorer i arbeidssituasjon, eller forholdene om bord og sykdom som påføres under reise til eller fra skipet for rederiets regning, eller under landlov.
 
 > Endret ved [forskrift 10 des 2012 nr. 1188](forskrift/2012-12-10-1188).
 
@@ -52,7 +96,11 @@ I enkelttilfelle kan Sjøfartsdirektoratet etter skriftlig søknad fravike forsk
 
 ### § 4. Melding om sjøulykke og andre hendelser
 
-(1) Skipsføreren eller rederiet skal uten opphold gi melding om:Alvorlig ulykke, sjøulykke og svært alvorlig sjøulykke, herunder arbeidsulykke som er å anse som sjøulykke.Grunnstøting og kollisjon, selv om tilfellet ikke er å anse som sjøulykke eller alvorlig ulykke.Arbeidsulykke, selv om tilfellet ikke er å anse som sjøulykke, men hvor evakuering anses nødvendig.
+(1) Skipsføreren eller rederiet skal uten opphold gi melding om:
+
+1. Alvorlig ulykke, sjøulykke og svært alvorlig sjøulykke, herunder arbeidsulykke som er å anse som sjøulykke.
+2. Grunnstøting og kollisjon, selv om tilfellet ikke er å anse som sjøulykke eller alvorlig ulykke.
+3. Arbeidsulykke, selv om tilfellet ikke er å anse som sjøulykke, men hvor evakuering anses nødvendig.
 
 (2) Dersom det er behov for assistanse skal meldingen gis til hovedredningssentralene eller kystradiostasjon. Dersom det ikke er behov for assistanse gis meldingen til Sjøfartsdirektoratet.
 
@@ -70,7 +118,13 @@ I enkelttilfelle kan Sjøfartsdirektoratet etter skriftlig søknad fravike forsk
 
 ### § 5. Meldingens innhold
 
-(1) Meldingen skal så vidt mulig inneholde følgende opplysninger:Skipets identitet, herunder navn, kjenningssignal, nasjonalitet og IMO-nummer, skipstype, bruttotonnasje, lengde, bredde og dypgang,hendelsens art, tidspunkt og sted, herunder posisjon, kurs og fart på hendelsestidspunktet,antall personer om bord, og om mulig, nærmere opplysninger om personalia,navn, adresse, telefonnummer og telefaks til skipets rederi og eier,annen informasjon som anses nødvendig, herunder om andre skip involvert i hendelsen, assistanse eller berging.
+(1) Meldingen skal så vidt mulig inneholde følgende opplysninger:
+
+1. Skipets identitet, herunder navn, kjenningssignal, nasjonalitet og IMO-nummer, skipstype, bruttotonnasje, lengde, bredde og dypgang,
+2. hendelsens art, tidspunkt og sted, herunder posisjon, kurs og fart på hendelsestidspunktet,
+3. antall personer om bord, og om mulig, nærmere opplysninger om personalia,
+4. navn, adresse, telefonnummer og telefaks til skipets rederi og eier,
+5. annen informasjon som anses nødvendig, herunder om andre skip involvert i hendelsen, assistanse eller berging.
 
 (2) Ved arbeidsulykke som medfører behov for evakuering skal meldingen så vidt mulig også inneholde opplysninger om personalia, tilstand, hendelsesforløp og hvilke tiltak som er iverksatt. Er arbeidstakeren brakt i land for medisinsk behandling i utlandet, skal det opplyses hvor vedkommende får behandling, og eventuelt hvilken utenriksstasjon som er varslet.
 
@@ -78,7 +132,12 @@ I enkelttilfelle kan Sjøfartsdirektoratet etter skriftlig søknad fravike forsk
 
 ### § 6. Rapportering av dødsfall, sjøulykker, andre hendelser og yrkessykdommer
 
-Skipsføreren eller rederiet skal rapportere følgende forhold til Sjøfartsdirektoratet på fastsatt skjema innen 72 timer etter at hendelsen inntraff:Alle meldingspliktige sjøulykker og hendelser som nevnt i [§ 4](forskrift/2008-06-27-744/§4). Arbeidsulykker skal rapporteres uavhengig av om det ble foretatt evakuering av den skadede personen.Yrkessykdommer.Sabotasje, piratangrep eller andre alvorlige anslag mot skipet eller ombordværende eller forsøk på slike angrep eller anslag.Ulykke eller feil som i vesentlig grad påvirker skipets evne til å gjennomføre ballastvannbehandling.
+Skipsføreren eller rederiet skal rapportere følgende forhold til Sjøfartsdirektoratet på fastsatt skjema innen 72 timer etter at hendelsen inntraff:
+
+1. Alle meldingspliktige sjøulykker og hendelser som nevnt i [§ 4](forskrift/2008-06-27-744/§4). Arbeidsulykker skal rapporteres uavhengig av om det ble foretatt evakuering av den skadede personen.
+2. Yrkessykdommer.
+3. Sabotasje, piratangrep eller andre alvorlige anslag mot skipet eller ombordværende eller forsøk på slike angrep eller anslag.
+4. Ulykke eller feil som i vesentlig grad påvirker skipets evne til å gjennomføre ballastvannbehandling.
 
 Hendelser som nevnt i første ledd bokstav d og i [§ 4](forskrift/2008-06-27-744/§4) syvende ledd skal rapporteres i henhold til [kapittel 4](forskrift/2008-06-27-744/kap4).
 
@@ -90,7 +149,11 @@ Alle dødsfall som inntreffer om bord på eller i forbindelse med driften av nor
 
 ### § 7. Melding og rapportering ved utslipp eller fare for utslipp
 
-(1) Skipsføreren eller rederiet skal uten opphold gi melding til hovedredningssentralen eller nærmeste kystradiostasjon og innen 721 innsende rapport til Sjøfartsdirektoratet når en hendelse medfører:Utslipp eller sannsynlig utslipp av olje eller skadelige, flytende stoffer, som overstiger den mengde eller det utslipp som til enhver tid er tillatt etter bestemmelsene i MARPOL 73/78, og uansett av hvilken grunn utslippet skjer, herunder for å ivareta skipets sikkerhet eller for å redde liv til sjøs, ellertap/utslipp eller sannsynlig tap/utslipp av farlige eller skadelige stoffer i pakket form, herunder stoffer i transportabel tank eller tankkjøretøy, samt om det er kjøretøy, fraktcontainer eller andre lastetransportenheter inneholdende pakker, ellerutslipp, eller sannsynlig utslipp av farlige kjemikalier eller farlige flytende gasser.
+(1) Skipsføreren eller rederiet skal uten opphold gi melding til hovedredningssentralen eller nærmeste kystradiostasjon og innen 721 innsende rapport til Sjøfartsdirektoratet når en hendelse medfører:
+
+1. Utslipp eller sannsynlig utslipp av olje eller skadelige, flytende stoffer, som overstiger den mengde eller det utslipp som til enhver tid er tillatt etter bestemmelsene i MARPOL 73/78, og uansett av hvilken grunn utslippet skjer, herunder for å ivareta skipets sikkerhet eller for å redde liv til sjøs, eller
+2. tap/utslipp eller sannsynlig tap/utslipp av farlige eller skadelige stoffer i pakket form, herunder stoffer i transportabel tank eller tankkjøretøy, samt om det er kjøretøy, fraktcontainer eller andre lastetransportenheter inneholdende pakker, eller
+3. utslipp, eller sannsynlig utslipp av farlige kjemikalier eller farlige flytende gasser.
 
 (2) For hendelser utenfor norsk sjøterritorium skal melding sendes til nærmeste kyststat med høyest mulig prioritet.
 
@@ -106,13 +169,34 @@ Alle dødsfall som inntreffer om bord på eller i forbindelse med driften av nor
 
 ### § 8. Rapportens innhold
 
-Rapporten skal inneholde samme opplysninger som det fremgår av [§ 5](forskrift/2008-06-27-744/§5) og videre følgende opplysninger, såfremt disse er relevante:Tidspunkt, sted og hendelsens art, herunder posisjon, kurs og fart på hendelsestidspunktet.Hvilken mengde og type forurensende/farlig stoff det dreier seg om, herunder:Korrekt teknisk betegnelse og konsentrasjon av det farlige eller forurensende stoff, FN-nummer, IMO-fareklasse(r) fastsatt i samsvar med IMDG-, IBC- og IGC-koden, forurensningskategori X, Y, eller Z,informasjon om overflatestrålingsnivået som angitt i transportindeks,type og mengde last som er ført og dens plassering om bord på fartøyet,emballasjetype, inkludert identifikasjonsmerker. Det skal oppgis om det er transportabel tank eller tankkjøretøy, samt om det er kjøretøy, fraktcontainer eller andre lastetransportenheter inneholdende pakker. Enhetens offisielle registreringsmerke og nummer skal oppgis,Annen informasjon som anses nødvendig, herunder andre skip involvert i hendelsen, assistanse eller berging.
+Rapporten skal inneholde samme opplysninger som det fremgår av [§ 5](forskrift/2008-06-27-744/§5) og videre følgende opplysninger, såfremt disse er relevante:
+
+1. Tidspunkt, sted og hendelsens art, herunder posisjon, kurs og fart på hendelsestidspunktet.
+2. Hvilken mengde og type forurensende/farlig stoff det dreier seg om, herunder:
+
+   1. Korrekt teknisk betegnelse og konsentrasjon av det farlige eller forurensende stoff, FN-nummer, IMO-fareklasse(r) fastsatt i samsvar med IMDG-, IBC- og IGC-koden, forurensningskategori X, Y, eller Z,
+   2. informasjon om overflatestrålingsnivået som angitt i transportindeks,
+   3. type og mengde last som er ført og dens plassering om bord på fartøyet,
+   4. emballasjetype, inkludert identifikasjonsmerker. Det skal oppgis om det er transportabel tank eller tankkjøretøy, samt om det er kjøretøy, fraktcontainer eller andre lastetransportenheter inneholdende pakker. Enhetens offisielle registreringsmerke og nummer skal oppgis,
+3. Annen informasjon som anses nødvendig, herunder andre skip involvert i hendelsen, assistanse eller berging.
 
 ### § 9. Tilleggsrapport ved utslipp eller fare for utslipp av olje, farlige eller forurensende stoffer
 
 (1) Enhver som etter denne forskrift er forpliktet til å avgi rapport vedrørende ovennevnte forhold skal, så vidt mulig supplere den første rapporten og informere om den videre utvikling, samt så vidt mulig etterkomme anmodninger om tilleggsinformasjon fra berørte stater.
 
-(2) Tilleggsrapporten bør inneholde følgende opplysninger, såfremt disse er relevante:Skipets tilstand,evne til å overføre last/ballast/drivstoff,utslippets årsak,om utslippet fortsetter og omtrent den mengde som er sluppet ut, samt utslippets sannsynlige omfang,været på stedet, sjø-, strøm- og vindforhold,beregning av utslippets bevegelser, og om mulig en angivelse av utslippets overflateutstrekning,tiltak som er igangsatt i forbindelse med utslippet og skipets bevegelse,hvorvidt det er anmodet om assistanse fra andre og om denne er ytet,produsent, eller avsender/mottaker hvis produsent er ukjent, av det forurensende eller farlige stoff,om det tapte, pakkede skadelige stoff fløt eller sank,beregning av mengde, og det pakkede skadelige stoffs sannsynlige tilstand.
+(2) Tilleggsrapporten bør inneholde følgende opplysninger, såfremt disse er relevante:
+
+1. Skipets tilstand,
+2. evne til å overføre last/ballast/drivstoff,
+3. utslippets årsak,
+4. om utslippet fortsetter og omtrent den mengde som er sluppet ut, samt utslippets sannsynlige omfang,
+5. været på stedet, sjø-, strøm- og vindforhold,
+6. beregning av utslippets bevegelser, og om mulig en angivelse av utslippets overflateutstrekning,
+7. tiltak som er igangsatt i forbindelse med utslippet og skipets bevegelse,
+8. hvorvidt det er anmodet om assistanse fra andre og om denne er ytet,
+9. produsent, eller avsender/mottaker hvis produsent er ukjent, av det forurensende eller farlige stoff,
+10. om det tapte, pakkede skadelige stoff fløt eller sank,
+11. beregning av mengde, og det pakkede skadelige stoffs sannsynlige tilstand.
 
 ### § 10. Meldings- og rapporteringsprosedyrer ved utslipp eller fare for utslipp
 
@@ -130,12 +214,25 @@ Rapporten skal inneholde samme opplysninger som det fremgår av [§ 5](forskrift
 
 ### § 11. Endringer i forskriften
 
-(1) Nærings- og handelsdepartementet kan fastsette endringer i følgende bestemmelser:[§ 1](forskrift/2008-06-27-744/§1)[§ 4](forskrift/2008-06-27-744/§4)[§ 5](forskrift/2008-06-27-744/§5)[§ 6](forskrift/2008-06-27-744/§6).
+(1) Nærings- og handelsdepartementet kan fastsette endringer i følgende bestemmelser:
 
-(2) Sjøfartsdirektoratet kan fastsette endringer i følgende bestemmelser:[§ 2](forskrift/2008-06-27-744/§2)[§ 3](forskrift/2008-06-27-744/§3)[Kapittel 4](forskrift/2008-06-27-744/kap4).
+- [§ 1](forskrift/2008-06-27-744/§1)
+- [§ 4](forskrift/2008-06-27-744/§4)
+- [§ 5](forskrift/2008-06-27-744/§5)
+- [§ 6](forskrift/2008-06-27-744/§6).
+
+(2) Sjøfartsdirektoratet kan fastsette endringer i følgende bestemmelser:
+
+- [§ 2](forskrift/2008-06-27-744/§2)
+- [§ 3](forskrift/2008-06-27-744/§3)
+- [Kapittel 4](forskrift/2008-06-27-744/kap4).
 
 ### § 12. Ikrafttredelse
 
 (1) Denne forskrift trer i kraft 1. juli 2008.
 
-(2) Fra samme tid oppheves:[Forskrift 2. april 1987 nr. 231](forskrift/1987-04-02-231) om rapportering av hendelse til sjøs.[Forskrift 1. september 1987 nr. 742](forskrift/1987-09-01-742) om gjennomføring av reglene i [sjølovens kap. 18](lov/1994-06-24-39/kap18) avsnitt II om sjøforklaring.[Forskrift 1. januar 2005 nr. 8](forskrift/2005-01-01-8) om arbeidsmiljø, sikkerhet og helse for arbeidstakere på norske skip [§ 2-8](forskrift/2005-01-01-8/§2-8).
+(2) Fra samme tid oppheves:
+
+1. [Forskrift 2. april 1987 nr. 231](forskrift/1987-04-02-231) om rapportering av hendelse til sjøs.
+2. [Forskrift 1. september 1987 nr. 742](forskrift/1987-09-01-742) om gjennomføring av reglene i [sjølovens kap. 18](lov/1994-06-24-39/kap18) avsnitt II om sjøforklaring.
+3. [Forskrift 1. januar 2005 nr. 8](forskrift/2005-01-01-8) om arbeidsmiljø, sikkerhet og helse for arbeidstakere på norske skip [§ 2-8](forskrift/2005-01-01-8/§2-8).

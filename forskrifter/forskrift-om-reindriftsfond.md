@@ -30,11 +30,22 @@ Reindriftsfond opprettes av områdestyret. Fond kan opprettes felles for hele om
 
 ## § 2. Inntekter
 
-Inn i reindriftsfondet går:Midler fra salg av umerket rein over 1 år.Midler fra salg av rein uten lovlig merke (jf. [lov om reindrift, § 17](lov/2007-06-15-40/§17)).Erstatning for skade og ulemper ved ekspropriasjon, med unntak av midler som tilkjennes enkeltpersoner.Konsesjonsavgift ved ekspropriasjon.Avgift ved registrering av reinmerke.Andre midler til fremme av reindriften i området.
+Inn i reindriftsfondet går:
+
+- Midler fra salg av umerket rein over 1 år.
+- Midler fra salg av rein uten lovlig merke (jf. [lov om reindrift, § 17](lov/2007-06-15-40/§17)).
+- Erstatning for skade og ulemper ved ekspropriasjon, med unntak av midler som tilkjennes enkeltpersoner.
+- Konsesjonsavgift ved ekspropriasjon.
+- Avgift ved registrering av reinmerke.
+- Andre midler til fremme av reindriften i området.
 
 ## § 3. Formål
 
-Fondets midler skal brukes til fremme av reindriften i vedkommende område. Midler kan brukes til:Hel eller delvis finansiering av fellesanlegg.Nedskrivning av driftskostnader.Ekstraordinære tiltak.
+Fondets midler skal brukes til fremme av reindriften i vedkommende område. Midler kan brukes til:
+
+- Hel eller delvis finansiering av fellesanlegg.
+- Nedskrivning av driftskostnader.
+- Ekstraordinære tiltak.
 
 ## § 4. Forvaltning
 

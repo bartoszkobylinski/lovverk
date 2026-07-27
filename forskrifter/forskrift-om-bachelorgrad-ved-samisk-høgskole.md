@@ -28,11 +28,46 @@ Forskriften omhandler krav til bachelorgrad ved Samisk høgskole.
 
 ## § 2. Definisjoner
 
-I forskriften brukes følgende begreper;*Studier i henhold til rammeplan*Utdanning med fagplaner, vedtatt av Samisk høgskole, og som gjennomføres i henhold til nasjonal rammeplan.*Integrert utdanning*Utdanning i henhold til studieplan, godkjent av styret for Samisk høgskole.*Studieprogram*Studieløp med et definert innhold i henhold til fag- eller studieplan, som fører fram til en avsluttet eksamen eller grad (enkeltemner, halvtårsstudier, årsstudier, kandidatutdanning, bachelorgrad, grunnskolelærerutdanning).*Grad*Utdanning/studieprogram av et bestemt omfang, som gir rett til vitnemål.*Emne*Del av utdanning/studieprogram/grad som har avsluttende vurdering på grunnlag av forskrift om eksamen og sluttvurdering ved Samisk høgskole. Den minste godkjente enheten som kan inngå i utdanning, studieprogram eller grad.*Studiepoeng*Mål på omfanget av studier og emner måles i studiepoeng. Et fullt studieår er normert til 60 studiepoeng.*Fordypning*Bestemt mengde studiepoeng som gir faglig fordypning i et bestemt fagfelt.*Studieplan*Plan for det faglige innholdet i studier som ikke er regulert av rammeplan.*Fagplan*En konkretisering av det faglige innholdet i studier som er regulert av rammeplan*Diploma Supplement*Vitnemålsvedlegg som gir informasjon om: kandidatens kvalifikasjon, utdanningens innhold, institusjonen som har gitt utdanningen, utdanningssystemet.
+I forskriften brukes følgende begreper;
+
+1. *Studier i henhold til rammeplan*
+
+   Utdanning med fagplaner, vedtatt av Samisk høgskole, og som gjennomføres i henhold til nasjonal rammeplan.
+2. *Integrert utdanning*
+
+   Utdanning i henhold til studieplan, godkjent av styret for Samisk høgskole.
+3. *Studieprogram*
+
+   Studieløp med et definert innhold i henhold til fag- eller studieplan, som fører fram til en avsluttet eksamen eller grad (enkeltemner, halvtårsstudier, årsstudier, kandidatutdanning, bachelorgrad, grunnskolelærerutdanning).
+4. *Grad*
+
+   Utdanning/studieprogram av et bestemt omfang, som gir rett til vitnemål.
+5. *Emne*
+
+   Del av utdanning/studieprogram/grad som har avsluttende vurdering på grunnlag av forskrift om eksamen og sluttvurdering ved Samisk høgskole. Den minste godkjente enheten som kan inngå i utdanning, studieprogram eller grad.
+6. *Studiepoeng*
+
+   Mål på omfanget av studier og emner måles i studiepoeng. Et fullt studieår er normert til 60 studiepoeng.
+7. *Fordypning*
+
+   Bestemt mengde studiepoeng som gir faglig fordypning i et bestemt fagfelt.
+8. *Studieplan*
+
+   Plan for det faglige innholdet i studier som ikke er regulert av rammeplan.
+9. *Fagplan*
+
+   En konkretisering av det faglige innholdet i studier som er regulert av rammeplan
+10. *Diploma Supplement*
+
+    Vitnemålsvedlegg som gir informasjon om: kandidatens kvalifikasjon, utdanningens innhold, institusjonen som har gitt utdanningen, utdanningssystemet.
 
 ## § 3. Krav til bachelorgrad
 
-Bachelorgrad oppnås ved:Fullført 3-årig yrkesrettet utdanning (180 studiepoeng) som er i henhold til nasjonale rammeplaner.Fullført 3-årig integrert utdanning (180 studiepoeng) i henhold til studieplaner som er godkjent ved Samisk høgskole. Det kreves at kandidaten har fullført et arbeide på minimum 10 studiepoeng. Utdanningen kan være enten helhetlig 3-årig utdanning (180 studiepoeng) eller 2 årig utdanning (120 studiepoeng) og i tillegg fag som utgjør 60 studiepoeng.Fullført 3-årig utdanning (180 studiepoeng). Det kreves en fordypning på minst 90 studiepoeng i et fagfelt og minst 30 studiepoeng i et annet fagfelt. Det kreves at studenten gjennomfører et selvstendig arbeide med et omfang på minimum 10 studiepoeng.
+Bachelorgrad oppnås ved:
+
+1. Fullført 3-årig yrkesrettet utdanning (180 studiepoeng) som er i henhold til nasjonale rammeplaner.
+2. Fullført 3-årig integrert utdanning (180 studiepoeng) i henhold til studieplaner som er godkjent ved Samisk høgskole. Det kreves at kandidaten har fullført et arbeide på minimum 10 studiepoeng. Utdanningen kan være enten helhetlig 3-årig utdanning (180 studiepoeng) eller 2 årig utdanning (120 studiepoeng) og i tillegg fag som utgjør 60 studiepoeng.
+3. Fullført 3-årig utdanning (180 studiepoeng). Det kreves en fordypning på minst 90 studiepoeng i et fagfelt og minst 30 studiepoeng i et annet fagfelt. Det kreves at studenten gjennomfører et selvstendig arbeide med et omfang på minimum 10 studiepoeng.
 
 ## § 4. Krav til minste emne(enhet) i bachelorgrad
 

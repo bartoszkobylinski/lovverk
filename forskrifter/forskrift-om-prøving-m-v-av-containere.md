@@ -32,7 +32,29 @@ eu_basis: []
 
 ## § 2. Definisjoner
 
-I denne forskrift betyr:*Containerkonvensjonen:* Den internasjonale konvensjon om sikre containere av 1972 med tilhørende vedlegg og senere endringer.*Container:* transportutstyr som er:av permanent karakter og av tilstrekkelig styrke for å være egnet til for bruk,spesielt konstruert for å forenkle transport av varer, for en eller flere transportmåter, uten omlastning,konstruert for sikring og/eller enkel håndtering, med hjørnebeslag til disse formål, ogav en slik størrelse at arealet innenfor de fire hjørner i bunnen enten er minst 14 kvadratmeter (150 kvadratfot) eller, dersom det er montert hjørnebeslag på toppen, minst 7 kvadratmeter (75 kvadratfot).*Containertype:* Den typekonstruksjon som er godkjent av Sjøfartsdirektoratet eller den det bemyndiger.*Eier:* Eier i henhold til den til enhver tid gjeldende lovgivning, eller leier eller depositar, dersom en avtale mellom eier og leier/-depositar gir adgang til utøvelse av eierens plikt til vedlikehold og besiktelse av containeren ved leier eller depositar.*Eksisterende container:* Container som ikke er en ny container.*g*: tyngdens akselerasjon*Godkjenning:* Beslutning av Sjøfartsdirektoratet eller den det bemyndiger om at en typekonstruksjon eller en container er sikker i henhold til denne forskrift.*Godkjent:* Godkjent av Sjøfartsdirektoratet eller den det bemyndiger.*Hjørnebeslag:* Et arrangement av åpninger og flater øverst og nederst på en container til bruk ved håndtering, stabling og sikring.*Last:* Varer, gods, produkter og gjenstander av en hvilken som helst type fraktet i en container.*Maksimal brutto bruksvekt eller «Rating», eller R:* Maksimalt tillatt samlet vekt av en container og dens last.*Maksimal tillatt nyttelast, eller P:* Differansen mellom maksimal brutto bruksvekt, eller «Rating» (R) og tara.*Ny container:* Container hvis fabrikasjon ble påbegynt på eller etter den dato da denne forskrift trer i kraft.*Prototyp:* Container som er representativ for de som er fabrikkert eller som skal fabrikkeres av en type-serie.*Tara:* Vekten av en tom container innbefattet fast montert tilbehør.*Type-serie container:* Enhver container fremstilt i samsvar med containertypen.
+I denne forskrift betyr:
+
+1. *Containerkonvensjonen:* Den internasjonale konvensjon om sikre containere av 1972 med tilhørende vedlegg og senere endringer.
+2. *Container:* transportutstyr som er:
+
+   1. av permanent karakter og av tilstrekkelig styrke for å være egnet til for bruk,
+   2. spesielt konstruert for å forenkle transport av varer, for en eller flere transportmåter, uten omlastning,
+   3. konstruert for sikring og/eller enkel håndtering, med hjørnebeslag til disse formål, og
+   4. av en slik størrelse at arealet innenfor de fire hjørner i bunnen enten er minst 14 kvadratmeter (150 kvadratfot) eller, dersom det er montert hjørnebeslag på toppen, minst 7 kvadratmeter (75 kvadratfot).
+3. *Containertype:* Den typekonstruksjon som er godkjent av Sjøfartsdirektoratet eller den det bemyndiger.
+4. *Eier:* Eier i henhold til den til enhver tid gjeldende lovgivning, eller leier eller depositar, dersom en avtale mellom eier og leier/-depositar gir adgang til utøvelse av eierens plikt til vedlikehold og besiktelse av containeren ved leier eller depositar.
+5. *Eksisterende container:* Container som ikke er en ny container.
+6. *g*: tyngdens akselerasjon
+7. *Godkjenning:* Beslutning av Sjøfartsdirektoratet eller den det bemyndiger om at en typekonstruksjon eller en container er sikker i henhold til denne forskrift.
+8. *Godkjent:* Godkjent av Sjøfartsdirektoratet eller den det bemyndiger.
+9. *Hjørnebeslag:* Et arrangement av åpninger og flater øverst og nederst på en container til bruk ved håndtering, stabling og sikring.
+10. *Last:* Varer, gods, produkter og gjenstander av en hvilken som helst type fraktet i en container.
+11. *Maksimal brutto bruksvekt eller «Rating», eller R:* Maksimalt tillatt samlet vekt av en container og dens last.
+12. *Maksimal tillatt nyttelast, eller P:* Differansen mellom maksimal brutto bruksvekt, eller «Rating» (R) og tara.
+13. *Ny container:* Container hvis fabrikasjon ble påbegynt på eller etter den dato da denne forskrift trer i kraft.
+14. *Prototyp:* Container som er representativ for de som er fabrikkert eller som skal fabrikkeres av en type-serie.
+15. *Tara:* Vekten av en tom container innbefattet fast montert tilbehør.
+16. *Type-serie container:* Enhver container fremstilt i samsvar med containertypen.
 
 ## § 3. Fravik
 
@@ -44,7 +66,17 @@ I denne forskrift betyr:*Containerkonvensjonen:* Den internasjonale konvensjon o
 
 (1) Et sikkerhetsgodkjenningsskilt som svarer til spesifikasjonene i Containerkonvensjonen skal være permanent festet til enhver godkjent container på et lett synlig sted, tilstøtende eventuelt annet godkjenningsskilt utstedt for offentlig formål, hvor det ikke er lett utsatt for skade.
 
-(2) Skiltet skal inneholde følgende opplysninger i det minste på engelsk eller fransk:«CSC SAFETY APPROVAL» – «CSC SIKKERHETSGODKJENNING»Det land som har tildelt godkjenning, og godkjenningsreferanse.Fabrikasjonsdato (måned og år).Fabrikantens identifikasjonsnummer på containeren, eller, for eksisterende containere som dette nummer er ukjent for, det nummer som Sjøfartsdirektoratet eller den det bemyndiger har tildelt den.Maksimal brutto bruksvekt (kg og lbs).Tillatt stablingsvekt for 1,8 g (kg og lbs).Prøvebelastning for motstandsdyktighet mot tverrgående krefter (kg og lbs).På hver container hvor konstruksjonen er påbegynt etter 1. januar 1984 skal rubrikk for «maximum gross weight» på sikkerhetsgodkjenningsskiltet være utfylt med opplysninger om maksimal brutto vekt.På hver container hvor konstruksjon er påbegynt før 1. januar 1984 skal rubrikk for «maximum gross weight» på sikkerhetsgodkjenningsskiltet være utfylt med opplysninger om maksimal brutto vekt innen 1. januar 1989.
+(2) Skiltet skal inneholde følgende opplysninger i det minste på engelsk eller fransk:
+
+1. «CSC SAFETY APPROVAL» – «CSC SIKKERHETSGODKJENNING»
+2. Det land som har tildelt godkjenning, og godkjenningsreferanse.
+3. Fabrikasjonsdato (måned og år).
+4. Fabrikantens identifikasjonsnummer på containeren, eller, for eksisterende containere som dette nummer er ukjent for, det nummer som Sjøfartsdirektoratet eller den det bemyndiger har tildelt den.
+5. Maksimal brutto bruksvekt (kg og lbs).
+6. Tillatt stablingsvekt for 1,8 g (kg og lbs).
+7. Prøvebelastning for motstandsdyktighet mot tverrgående krefter (kg og lbs).
+8. På hver container hvor konstruksjonen er påbegynt etter 1. januar 1984 skal rubrikk for «maximum gross weight» på sikkerhetsgodkjenningsskiltet være utfylt med opplysninger om maksimal brutto vekt.
+9. På hver container hvor konstruksjon er påbegynt før 1. januar 1984 skal rubrikk for «maximum gross weight» på sikkerhetsgodkjenningsskiltet være utfylt med opplysninger om maksimal brutto vekt innen 1. januar 1989.
 
 (3) Et åpent felt bør reserveres på skiltet for innføring av ende- og/eller sideveggenes styrkeverdi (faktorer) i samsvar med prøver foreskrevet i Containerkonvensjonen. Et åpent felt bør også reserveres på platen for datoer for vedlikeholdskontroll (måned og år) dersom platen benyttes til dette.
 
@@ -72,7 +104,18 @@ I denne forskrift betyr:*Containerkonvensjonen:* Den internasjonale konvensjon o
 
 (2) Ved søknad om typegodkjenning skal det innsendes tegninger og konstruksjonsspesifikasjoner av den type container som søkes godkjent. Det skal dessuten vedlegges søknaden en erklæring fra produsenten om at produsenten påtar seg de forpliktelser som er nevnt i [§ 7 annet ledd bokstav a](forskrift/1984-04-02-827/§7/ledd/2/bokstav/a)–[f](forskrift/1984-04-02-827/§7/ledd/2/bokstav/f).
 
-(3) Ved søknad om godkjenning av eksisterende container skal innsendes opplysninger om:fabrikasjonsdato og sted;fabrikantens identifikasjonsnummer på containeren dersom dette er tilgjengelig;maksimal brutto bruksvekt;følgende bevis:bevis for at en container av denne type har vist seg sikker i bruk i maritim og/eller innenlands transport over en periode på minst to år, ellerbevis til Sjøfartsdirektoratet eller den det bemyndigers tilfredsstillelse for at containeren er fabrikert etter en typekonstruksjon som har vært prøvet og funnet å tilfredsstille de tekniske vilkår som er angitt i Containerkonvensjonen med unntak av de tekniske vilkår som gjelder styrkeprøver for endevegg eller sidevegg, ellerbevis for at containeren er fremstilt i henhold til standarder som, etter Sjøfartsdirektoratets eller den det bemyndigers oppfatning, var likeverdige med de tekniske vilkår som er angitt i Containerkonvensjonen med unntak av de tekniske vilkår som gjelder styrkeprøver for endevegg eller sidevegg;tillatt stablingsvekt for 1,8 g (kilogram og lbs); ogslike andre data som kreves for sikkerhetsgodkjenningsskiltet.
+(3) Ved søknad om godkjenning av eksisterende container skal innsendes opplysninger om:
+
+1. fabrikasjonsdato og sted;
+2. fabrikantens identifikasjonsnummer på containeren dersom dette er tilgjengelig;
+3. maksimal brutto bruksvekt;
+4. følgende bevis:
+
+   1. bevis for at en container av denne type har vist seg sikker i bruk i maritim og/eller innenlands transport over en periode på minst to år, eller
+   2. bevis til Sjøfartsdirektoratet eller den det bemyndigers tilfredsstillelse for at containeren er fabrikert etter en typekonstruksjon som har vært prøvet og funnet å tilfredsstille de tekniske vilkår som er angitt i Containerkonvensjonen med unntak av de tekniske vilkår som gjelder styrkeprøver for endevegg eller sidevegg, eller
+   3. bevis for at containeren er fremstilt i henhold til standarder som, etter Sjøfartsdirektoratets eller den det bemyndigers oppfatning, var likeverdige med de tekniske vilkår som er angitt i Containerkonvensjonen med unntak av de tekniske vilkår som gjelder styrkeprøver for endevegg eller sidevegg;
+5. tillatt stablingsvekt for 1,8 g (kilogram og lbs); og
+6. slike andre data som kreves for sikkerhetsgodkjenningsskiltet.
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -80,7 +123,14 @@ I denne forskrift betyr:*Containerkonvensjonen:* Den internasjonale konvensjon o
 
 (1) For typegodkjenning av containere skal Sjøfartsdirektoratet eller den det bemyndiger undersøke konstruksjonen og overvære prøving av prototyp i henhold til de regler som er angitt i Containerkonvensjonen. Dersom containeren tilfredsstiller de krav som er spesifisert i konvensjonen, godkjennes prototypen, og fabrikanten får derved rett til å feste sikkerhetsgodkjenningsskiltet på alle containere av denne typeserie.
 
-(2) I forbindelse med godkjenning plikter produsenten å:stille til rådighet for Sjøfartsdirektoratet eller den det bemyndiger de containere av den angjeldende konstruksjonstype som det måtte ønske å undersøke;underrette Sjøfartsdirektoratet eller den det bemyndiger om enhver forandring i konstruksjon eller spesifikasjon og avvente godkjenning av endringen før sikkerhetsgodkjenningsskiltet festes på containeren;feste sikkerhetsgodkjenningsskiltet på hver container i typeserien og ikke på noen andre;føre fortegnelse over containere fremstilt av den godkjente konstruksjonstype. Denne fortegnelse skal minst inneholde fabrikantens identifikasjonsnummer, leveringsdatoer og navn og adresse på de kunder som containere er levert til;etablere en godkjent intern produksjonskontroll for å sikre at de containere som fabrikkeres er i samsvar med den godkjente prototyp;underrette Sjøfartsdirektoratet eller den det bemyndiger før produksjon av en ny serie av typegodkjente containere begynner.
+(2) I forbindelse med godkjenning plikter produsenten å:
+
+1. stille til rådighet for Sjøfartsdirektoratet eller den det bemyndiger de containere av den angjeldende konstruksjonstype som det måtte ønske å undersøke;
+2. underrette Sjøfartsdirektoratet eller den det bemyndiger om enhver forandring i konstruksjon eller spesifikasjon og avvente godkjenning av endringen før sikkerhetsgodkjenningsskiltet festes på containeren;
+3. feste sikkerhetsgodkjenningsskiltet på hver container i typeserien og ikke på noen andre;
+4. føre fortegnelse over containere fremstilt av den godkjente konstruksjonstype. Denne fortegnelse skal minst inneholde fabrikantens identifikasjonsnummer, leveringsdatoer og navn og adresse på de kunder som containere er levert til;
+5. etablere en godkjent intern produksjonskontroll for å sikre at de containere som fabrikkeres er i samsvar med den godkjente prototyp;
+6. underrette Sjøfartsdirektoratet eller den det bemyndiger før produksjon av en ny serie av typegodkjente containere begynner.
 
 (3) Sjøfartsdirektoratet eller den det bemyndiger kan godkjenne containere fremstilt som modifikasjoner av containertyper dersom den som gir godkjenning er forvisset om at modifikasjonene ikke rokker ved gyldigheten av de prøver som ble gjennomført i forbindelse med typegodkjenningen.
 

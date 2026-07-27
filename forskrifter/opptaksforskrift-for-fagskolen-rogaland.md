@@ -15,7 +15,7 @@ xml_hash: "e87df8549c2e8b06db6b7f62a4c0a2438bf61ba5f3fffc5b8e526d2b645bacdb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,11 @@ eu_basis: []
 - *Læringsutbytte:* det en person vet, kan og er i stand til å gjøre som et resultat av en læringsprosess. Læringsutbytte er beskrevet i kategoriene kunnskap, ferdigheter og generell kompetanse og nærmere beskrevet i Nasjonalt kvalifikasjonsrammeverk.
 - *Realkompetanse:* Realkompetanse er all kompetanse en person har tilegnet seg gjennom formell, ikke-formell og uformell læring. Dette kan være kunnskaper og ferdigheter tilegnet gjennom utdanning, lønnet eller ulønnet arbeid, organisasjonserfaring, fritidsaktiviteter, eller på annen måte.
 - *Realkompetansevurdering:* Kartlegging, vurdering, dokumentering av den realkompetanse en person innehar opp mot kriterier, f.eks. fastsatt i fagplan eller studieplan. Realkompetansevurdering kan gi grunnlag for opptak til fagskoleutdanning eller avkortning av opplæring gjennom godskriving og fritak fra deler av en fagskoleutdanning.
-- *Studiepoeng:* Studiepoeng er en betegnelse på læringsutbytte og normert studietid. Det gis 60 studiepoeng for læringsutbytte oppnådd på bakgrunn av tilsvarende ett års bestått fagskoleutdanning på heltid. Ett års fagskoleutdanning på heltid tilsvarer normalt ti måneder.Dersom fagskoleutdanningen er inndelt i emner, skal hvert emne tildeles studiepoeng etter den relative vekten det har i arbeidsbelastning for studentene og læringsutbytte innenfor utdanningen. Studiepoeng skal brukes ved vurdering av godskriving av utdanning mellom fagskoler og i karakterutskrifter for gjennomførte emner fra fagskoleutdanning.Antallet oppnådde studiepoeng skal fremgå av vitnemål og annen dokumentasjon for fullført fagskoleutdanning.
+- *Studiepoeng:* Studiepoeng er en betegnelse på læringsutbytte og normert studietid. Det gis 60 studiepoeng for læringsutbytte oppnådd på bakgrunn av tilsvarende ett års bestått fagskoleutdanning på heltid. Ett års fagskoleutdanning på heltid tilsvarer normalt ti måneder.
+
+  Dersom fagskoleutdanningen er inndelt i emner, skal hvert emne tildeles studiepoeng etter den relative vekten det har i arbeidsbelastning for studentene og læringsutbytte innenfor utdanningen. Studiepoeng skal brukes ved vurdering av godskriving av utdanning mellom fagskoler og i karakterutskrifter for gjennomførte emner fra fagskoleutdanning.
+
+  Antallet oppnådde studiepoeng skal fremgå av vitnemål og annen dokumentasjon for fullført fagskoleutdanning.
 - *Student:* en person som er tatt opp og har takket ja til et studietilbud ved Fagskolen Rogaland.
 - *Studieplan:* plan for innholdet i utdanningen og hvordan planen skal gjennomføres fastsatt av styret. Det skal blant annet fastsettes bestemmelser om obligatoriske kurs, praksisstudier, vurderingsformer og lignende.
 - *Studierett:* Retten som studenten har til å studere ved institusjonen. Når studenten har akseptert studieplass ved opptak og betalt studieavgiften innen frist, har studenten oppnådd studierett. Studieretten kan også gå tapt eller opphøre, f.eks. ved bestått eksamen eller oppnådd vitnemål. Se utfyllende bestemmelser i [utdanningsforskrift for Fagskolen Rogaland](forskrift/2024-09-19-2345).
@@ -88,9 +92,20 @@ eu_basis: []
 
 (1) Søkere som ikke har fullført og bestått fag- eller svenneprøve innen fristen for å sende inn dokumentasjon, og som derfor ikke er kvalifisert for opptak, kan likevel tildeles plass ved Fagskolen Rogaland dersom de kan dokumentere at de skal gjennomføre fag- eller svenneprøven i løpet av første semester etter opptak, jf. [fagskoleforskriften § 10 (1)](forskrift/2019-07-11-1005/§10/ledd/1).
 
-(2) Søkere som søker opptak på grunnlag av treårig yrkesfaglig opplæring eller generell studiekompetanse, og som ikke kan gjennomføre eksamen i videregående opplæring på grunn av spesielle omstendigheter, kan likevel tildeles plass ved Fagskolen Rogaland etter [fagskoleforskriften § 11 (1)](forskrift/2019-07-11-1005/§11/ledd/1) dersom følgende vilkår er oppfylt:Søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptaksøkeren har standpunktkarakteren 2 eller bedre i fagetsøkeren har ikke allerede avsluttende vurdering i faget, ogsøkeren oppfyller fastsette karakterkrav når eksamen er avlagt.Spesielle omstendigheter er her sykdom, ulykker eller dødsfall i nær familie. Fagskolen Rogaland kan vurdere opptak på grunn av andre spesielle omstendigheter særskilt, jf. [fagskoleforskriften § 11 (2)](forskrift/2019-07-11-1005/§11/ledd/2).
+(2) Søkere som søker opptak på grunnlag av treårig yrkesfaglig opplæring eller generell studiekompetanse, og som ikke kan gjennomføre eksamen i videregående opplæring på grunn av spesielle omstendigheter, kan likevel tildeles plass ved Fagskolen Rogaland etter [fagskoleforskriften § 11 (1)](forskrift/2019-07-11-1005/§11/ledd/1) dersom følgende vilkår er oppfylt:
 
-(3) Etter [fagskoleforskriften § 10](forskrift/2019-07-11-1005/§10) og [§ 11](forskrift/2019-07-11-1005/§11) gjelder følgende for alle som har fått opptak på visse vilkår etter første og andre ledd:søkeren kan ikke reservere studieplassen til senere opptakstudenten mister studieplassen og studieretten dersom opptakskrava ikke blir oppfylt innen fristenstudenter som går opp til eksamen får ikke denne eksamen godkjent som bestått uten at opptakskravet er oppfylt.
+1. Søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptak
+2. søkeren har standpunktkarakteren 2 eller bedre i faget
+3. søkeren har ikke allerede avsluttende vurdering i faget, og
+4. søkeren oppfyller fastsette karakterkrav når eksamen er avlagt.
+
+Spesielle omstendigheter er her sykdom, ulykker eller dødsfall i nær familie. Fagskolen Rogaland kan vurdere opptak på grunn av andre spesielle omstendigheter særskilt, jf. [fagskoleforskriften § 11 (2)](forskrift/2019-07-11-1005/§11/ledd/2).
+
+(3) Etter [fagskoleforskriften § 10](forskrift/2019-07-11-1005/§10) og [§ 11](forskrift/2019-07-11-1005/§11) gjelder følgende for alle som har fått opptak på visse vilkår etter første og andre ledd:
+
+1. søkeren kan ikke reservere studieplassen til senere opptak
+2. studenten mister studieplassen og studieretten dersom opptakskrava ikke blir oppfylt innen fristen
+3. studenter som går opp til eksamen får ikke denne eksamen godkjent som bestått uten at opptakskravet er oppfylt.
 
 (4) Fagskolen Rogaland skal så langt det er mulig og rimelig legge til rette for at studenter med opptak på visse vilkår kan gå opp til fag- eller svenneprøve eller utsatt eksamen i videregående opplæring, og samtidig gjennomføre utdanningen det er gitt betinga opptak til. Dersom Fagskolen Rogaland ikke finner å kunne legge til rette på denne måten, skal studenten få forlenga opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring, jf. [fagskoleforskriften § 10 (5)](forskrift/2019-07-11-1005/§10/ledd/5) og [§ 11 (6)](forskrift/2019-07-11-1005/§11/ledd/6).
 

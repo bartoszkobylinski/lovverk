@@ -15,7 +15,7 @@ xml_hash: "95531b642a7b2dc4e7ad46a9f8f35914ee747108ec6361bac2df2a8e48e5ccda"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -134,7 +134,11 @@ Søker må oppfylle krav fastsatt i [forskrift 1. desember 2005 nr. 1392](forskr
 
 (3) Opptakskomiteen skal ha minst ett medlem med faglig kompetanse innen det studieprogrammet eller de emnene komiteen tar opp til.
 
-(4) Rangeringsregler for opptak til studier ved Steinerhøyskolen følger bestemmelsene i [forskrift 31. januar 2007 nr. 173](forskrift/2007-01-31-173) om opptak til høyere utdanning.(5) Studier ved Steinerhøyskolen er fritatt fra førstegangsvitnemålskvote.(6) Regler for rangering av søkere til studier som etter [forskrift 31. januar 2007 nr. 173](forskrift/2007-01-31-173) om opptak til høyere utdanning [§ 4-10](forskrift/2007-01-31-173/§4-10) har opptaksprøve som spesielt opptakskrav, fastsettes av rektor.
+(4) Rangeringsregler for opptak til studier ved Steinerhøyskolen følger bestemmelsene i [forskrift 31. januar 2007 nr. 173](forskrift/2007-01-31-173) om opptak til høyere utdanning.
+
+(5) Studier ved Steinerhøyskolen er fritatt fra førstegangsvitnemålskvote.
+
+(6) Regler for rangering av søkere til studier som etter [forskrift 31. januar 2007 nr. 173](forskrift/2007-01-31-173) om opptak til høyere utdanning [§ 4-10](forskrift/2007-01-31-173/§4-10) har opptaksprøve som spesielt opptakskrav, fastsettes av rektor.
 
 > Endret ved [forskrift 19 april 2016 nr. 574](forskrift/2016-04-19-574) (tidligere § 15).
 
@@ -160,9 +164,17 @@ Søknadsfrister for studiene blir kunngjort samtidig med utlysning av studieprog
 
 (2) Studenten må betale semesteravgift, samt egenbetaling som fastsatt av styret, samt underskrive utdanningsplan og/eller registrere seg hvert semester innen gjeldende frister for å beholde studieretten.
 
-(3) Studenter kan miste studieretten på et studium de er tatt opp til i følgende tilfeller:Studenten har overskredet den fastsatte grensen utover normert tid, jf. punkt (1).Studenten har brutt betingelsene for å beholde studieretten som beskrevet ovenfor i punkt (2).Studenten har brukt opp sine forsøk til eksamen eller praksisperiode i henhold til studieplan og til forskrift om studier og eksamen, jf. [§ 22](forskrift/2006-03-07-563/§22) og [§ 23](forskrift/2006-03-07-563/§23).Dersom en student 2 år etter opptak eller senere i studiet over en periode på minst 2 år har bestått mindre enn 50 % av antall studiepoeng i sin utdanningsplan.
+(3) Studenter kan miste studieretten på et studium de er tatt opp til i følgende tilfeller:
 
-(4) Studieretten opphører når:Studenten selv bekrefter fratredelse fra studieprogrammet.Studiene er fullført og vitnemål/karakterutskrift er utstedt.
+1. Studenten har overskredet den fastsatte grensen utover normert tid, jf. punkt (1).
+2. Studenten har brutt betingelsene for å beholde studieretten som beskrevet ovenfor i punkt (2).
+3. Studenten har brukt opp sine forsøk til eksamen eller praksisperiode i henhold til studieplan og til forskrift om studier og eksamen, jf. [§ 22](forskrift/2006-03-07-563/§22) og [§ 23](forskrift/2006-03-07-563/§23).
+4. Dersom en student 2 år etter opptak eller senere i studiet over en periode på minst 2 år har bestått mindre enn 50 % av antall studiepoeng i sin utdanningsplan.
+
+(4) Studieretten opphører når:
+
+1. Studenten selv bekrefter fratredelse fra studieprogrammet.
+2. Studiene er fullført og vitnemål/karakterutskrift er utstedt.
 
 (5) Vilkår for tap av studieretten skal framgå av utdanningsplanen.
 
@@ -304,7 +316,11 @@ Formelle feil kan påklages i samsvar med bestemmelsene i [lov om universiteter 
 
 (2) Styret fastsetter retningslinjer for bruk av ekstern sensor og ekstern evaluering av vurderingen eller vurderingsordningene, i henhold til [lov om universiteter og høyskoler § 3-9](lov/2005-04-01-15/§3-9).
 
-(3) Det skal benyttes to sensorer, hvorav minst en ekstern, i følgende tilfeller:ved bedømmelse av bachelor- og masteroppgaverved ny sensurering etter [lov om universiteter og høyskoler § 5-2](lov/2005-04-01-15/§5-2) om klage ved formelle feil ved eksamen, og ved ny sensurering etter [lov om universiteter og høyskoler § 5-3](lov/2005-04-01-15/§5-3) om klage over karakterfastsettelseved første gangs sensur av nytt emne/eksamen.
+(3) Det skal benyttes to sensorer, hvorav minst en ekstern, i følgende tilfeller:
+
+1. ved bedømmelse av bachelor- og masteroppgaver
+2. ved ny sensurering etter [lov om universiteter og høyskoler § 5-2](lov/2005-04-01-15/§5-2) om klage ved formelle feil ved eksamen, og ved ny sensurering etter [lov om universiteter og høyskoler § 5-3](lov/2005-04-01-15/§5-3) om klage over karakterfastsettelse
+3. ved første gangs sensur av nytt emne/eksamen.
 
 (4) Ekstern sensor kan ikke gi undervisning eller veiledning ved gjeldende studieprogram ved Steinerhøyskolen i inneværende studieår.
 
@@ -316,7 +332,10 @@ Formelle feil kan påklages i samsvar med bestemmelsene i [lov om universiteter 
 
 ### § 30. Karakter
 
-(1) Enhver eksamen skal føre fram til et vurderingsuttrykk (karakter). Karakteren skal angis på en av to måter, entenSom «Bestått» eller «Ikke bestått», ev. «Pass/Fail», ellerSom en bokstav, etter skalaen A–F, hvor A er høyeste karakter, E er laveste karakter og F er ikke bestått.
+(1) Enhver eksamen skal føre fram til et vurderingsuttrykk (karakter). Karakteren skal angis på en av to måter, enten
+
+- Som «Bestått» eller «Ikke bestått», ev. «Pass/Fail», eller
+- Som en bokstav, etter skalaen A–F, hvor A er høyeste karakter, E er laveste karakter og F er ikke bestått.
 
 (2) Praksis i profesjonsstudiene ved Steinerhøyskolen vurderes til bestått/ikke bestått.
 

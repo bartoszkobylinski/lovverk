@@ -15,7 +15,7 @@ xml_hash: "8684339343f31b8151175738935b429a15813d639ddec1374edffabc5ea31d87"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,9 +36,16 @@ Vedtakskompetansen etter § 16 første ledd er begrenset ved at vedtakene må v�
 
 3\. *Delegering av annen forskriftskompetanse etter kosmetikklova*
 
-Helse- og omsorgsdepartementets kompetanse etter følgende bestemmelser:§ 5 andre ledd, § 7 andre og tredje ledd, § 8, § 9, § 11 andre ledd, § 12, § 13 tredje ledd, § 14 tredje og fjerde ledd, § 15 og § 19 delegeres til det sentrale Mattilsynet med følgende begrensninger:
+Helse- og omsorgsdepartementets kompetanse etter følgende bestemmelser:
 
-Ved forberedelse av forskrifter somfastsetter særnorske bestemmelser, ellerskal ivareta nasjonal tilpasning til EØS-rettsakter,skal forskriftsutkast og opplegg for høring nasjonalt og internasjonalt klareres av Helse- og omsorgsdepartementet. Oppsummering av høring og forslag til endelig forskrift skal forelegges for departementet. Med særnorske bestemmelser forstås her bestemmelser som ikke har bakgrunn i EØS-avtalen. Med nasjonal tilpasning forstås her norsk tilpasning til EØS-regelverk, der tilpasningen har hjemmel i EØS-rettsakt eller vedtak fattet av EØS-komiteen.
+- § 5 andre ledd, § 7 andre og tredje ledd, § 8, § 9, § 11 andre ledd, § 12, § 13 tredje ledd, § 14 tredje og fjerde ledd, § 15 og § 19 delegeres til det sentrale Mattilsynet med følgende begrensninger:
+
+Ved forberedelse av forskrifter som
+
+- fastsetter særnorske bestemmelser, eller
+- skal ivareta nasjonal tilpasning til EØS-rettsakter,
+
+skal forskriftsutkast og opplegg for høring nasjonalt og internasjonalt klareres av Helse- og omsorgsdepartementet. Oppsummering av høring og forslag til endelig forskrift skal forelegges for departementet. Med særnorske bestemmelser forstås her bestemmelser som ikke har bakgrunn i EØS-avtalen. Med nasjonal tilpasning forstås her norsk tilpasning til EØS-regelverk, der tilpasningen har hjemmel i EØS-rettsakt eller vedtak fattet av EØS-komiteen.
 
 Departementet kan til enhver tid i regelverksprosessen vurdere alle elementer og instruere om nødvendige endringer eller overta videre behandling.
 

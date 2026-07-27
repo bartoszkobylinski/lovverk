@@ -15,7 +15,7 @@ xml_hash: "eec1b2db153f5b19d479ad1e7ef85de739be020a9b71d2865ebfc0663129ff03"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,12 @@ Doktorgradsutdanningen skal kvalifisere for forskningsvirksomhet av høy standar
 
 Doktorgradsutdanningen er normert til tre års fulltidsstudier. Doktorgradsutdanningens viktigste komponent er et selvstendig forskningsarbeid som gjennomføres under aktiv veiledning.
 
-Doktorgraden tildeles på grunnlag avgodkjent vitenskapelig avhandlinggodkjent gjennomføring av kursdelengodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Doktorgraden tildeles på grunnlag av
+
+- godkjent vitenskapelig avhandling
+- godkjent gjennomføring av kursdelen
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### Kapittel 3. Ansvar
 
@@ -64,7 +69,13 @@ Samisk høgskole har et kvalitetssikringssystem, som også omfatter doktorgradsu
 
 For opptak til doktorgradsutdanningen må søkeren ha en masterutdanning (120 studiepoeng) eller annen tilsvarende utdanning som institusjonen har godkjent som opptaksgrunnlag. Snittkarakter i masterutdanningen bør vanligvis være minimum B.
 
-Søknaden skal inneholde følgende:Dokumentasjon for den utdanning som skal ligge til grunn for opptaketProsjektbeskrivelse for doktorgradenPlan for fremdriftForslag på veileder(e)Opplysninger om eventuelle rettslige eller etiske problemstillinger som prosjektet kan reise, og hvordan disse kan avklares.
+Søknaden skal inneholde følgende:
+
+- Dokumentasjon for den utdanning som skal ligge til grunn for opptaket
+- Prosjektbeskrivelse for doktorgraden
+- Plan for fremdrift
+- Forslag på veileder(e)
+- Opplysninger om eventuelle rettslige eller etiske problemstillinger som prosjektet kan reise, og hvordan disse kan avklares.
 
 Kandidat og hovedveileder bør raskest mulig og senest innen tre måneder etter opptak sammen gå igjennom prosjektbeskrivelsen og vurdere eventuelle behov for justeringer.
 
@@ -82,7 +93,11 @@ Vedtak om opptak baseres på en samlet vurdering av søknaden. DOS får fullmakt
 
 I vedtaket skal minst én veileder oppnevnes, og det skal avklares hvordan andre behov som kommer fram i søknaden, skal imøtekommes. I avtalen skal det fastsettes startdato, som skal være lik startdato for finansiering, samt avtalens varighet. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker eller avklares spesielt i forhold til kandidatens finansieringsgrunnlag.
 
-Opptak kan nektes omavtaler om opphavsrett er til hinder for offentliggjøring og offentlig forsvar av avhandlingende immaterialrettslige avtaler som er inngått, er så urimelige at institusjonen ikke bør medvirke i prosjektetsøkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til doktorgradsutdanningen, jf. [§ 5-1](forskrift/2019-11-12-2240/§5-1).
+Opptak kan nektes om
+
+- avtaler om opphavsrett er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+- de immaterialrettslige avtaler som er inngått, er så urimelige at institusjonen ikke bør medvirke i prosjektet
+- søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til doktorgradsutdanningen, jf. [§ 5-1](forskrift/2019-11-12-2240/§5-1).
 
 ### § 5-4. Avtaleperiode
 
@@ -102,7 +117,13 @@ Om kandidaten ønsker å skifte prosjekt eller overgang til annet program, skal 
 
 *Tvungen avslutning*
 
-DOS kan vedta avslutning av doktorgradsutdanningen før avtalt tid. Tvungen avslutning kan vedtas hvis minst ett av følgende forhold foreligger:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, jf. [§ 10-1](forskrift/2019-11-12-2240/§10-1).Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet. Dette gjelder også fusk, som rammes av reglene i universitets- og [høyskoleloven, § 4-7](lov/2005-04-01-15/§4-7).Kandidatens opptreden bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av doktorgradsutdanningen.
+DOS kan vedta avslutning av doktorgradsutdanningen før avtalt tid. Tvungen avslutning kan vedtas hvis minst ett av følgende forhold foreligger:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, jf. [§ 10-1](forskrift/2019-11-12-2240/§10-1).
+- Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.
+- Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet. Dette gjelder også fusk, som rammes av reglene i universitets- og [høyskoleloven, § 4-7](lov/2005-04-01-15/§4-7).
+- Kandidatens opptreden bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av doktorgradsutdanningen.
 
 Vedtak om tvungen avslutning fattes av DOS.
 
@@ -218,7 +239,12 @@ For doktorgradskandidater uten arbeidsgiver, skal tilsvarende meldeplikt nedfell
 
 ### § 13-1. Grunnlag for bedømmelse
 
-Doktorgradsgraden tildeles på grunnlag av følgende:godkjent vitenskapelig avhandlinggodkjent gjennomføring av kursdelen, ev. annen godkjent faglig skolering eller kompetansegodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Doktorgradsgraden tildeles på grunnlag av følgende:
+
+- godkjent vitenskapelig avhandling
+- godkjent gjennomføring av kursdelen, ev. annen godkjent faglig skolering eller kompetanse
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 13-2. Vurderingsperiodens varighet
 
@@ -232,7 +258,14 @@ Det er hovedveileders ansvar i god tid å melde til Samisk høgskole tidspunkt f
 
 Søknad om å få avhandlingen bedømt kan leveres først etter at opplæringsdelen er godkjent.
 
-Søknaden skal inneholde følgende dokumenter:Avhandlingen i henhold til institusjonens bestemmelser og kravDokumentasjon av godkjent opplæringsdelDokumentasjon av andre avtaler, for eksempel avtale om immaterielle rettigheterEventuelle medforfattererklæringer, jf. [§ 11-1](forskrift/2019-11-12-2240/§11-1)Erklæring om hvorvidt doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gangErklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
+Søknaden skal inneholde følgende dokumenter:
+
+- Avhandlingen i henhold til institusjonens bestemmelser og krav
+- Dokumentasjon av godkjent opplæringsdel
+- Dokumentasjon av andre avtaler, for eksempel avtale om immaterielle rettigheter
+- Eventuelle medforfattererklæringer, jf. [§ 11-1](forskrift/2019-11-12-2240/§11-1)
+- Erklæring om hvorvidt doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang
+- Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
 
 Samisk høgskole kan på selvstendig grunnlag avvise søknad om å få avhandlingen bedømt dersom det er åpenbart at avhandlingen ikke holde høy nok vitenskapelig kvalitet og vil bli underkjent av en komité.
 
@@ -248,7 +281,12 @@ Samisk høgskole behandler søknad om å få avhandlingen bedømt. Søknad som i
 
 Når Samisk høgskole har godkjent søknad om å få avhandlingen bedømt, oppnevner DOS, på bakgrunn av forslag fra fagavdelingen, en sakkyndig komité som skal bedømme avhandlingen og disputasen. Forslaget skal begrunne og vise hvordan komiteen helhetlig dekker fagfeltet for avhandlingen. DOS oppnevner leder blant komiteens medlemmer eller en annen ansatt ved Samisk høgskole.
 
-Bedømmelseskomiteen skal ha minst tre medlemmer. Komiteen skal settes sammen slik atbegge kjønn er representertminst ett av medlemmene ikke har hovedstilling ved en norsk institusjonflertallet i bedømmelseskomiteen ikke er ansatt ved Samisk høgskolealle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Bedømmelseskomiteen skal ha minst tre medlemmer. Komiteen skal settes sammen slik at
+
+- begge kjønn er representert
+- minst ett av medlemmene ikke har hovedstilling ved en norsk institusjon
+- flertallet i bedømmelseskomiteen ikke er ansatt ved Samisk høgskole
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 

@@ -30,7 +30,29 @@ Utrykningskjøretøy skal være godkjent av Statens vegvesen etter denne forskri
 
 ## § 2.
 
-Godkjenning gis på bakgrunn av søknad fra kjøretøyets eier eller den som disponerer det og vedtak fattet avbrannsjefennår kjøretøyet tilhører kommunen og disponeres av kommunalt brannvesennår annet kjøretøy for et tidsrom av inntil 8 uker er disponert som reserve for godkjent utrykningskjøretøy ved kommunalt brannvesennår demonstrasjonskjøretøy blir stilt til disposisjon for kommunalt brannvesen.politimesteren eller sjefen for de sentrale politiorganene når kjøretøyet eies, leies eller leases av Staten og disponeres innen vedkommende politidistrikt eller av vedkommende organ.det regionale helseforetaknår kjøretøyet er registrert som ambulansebil, herunder leilighetsambulanse fram til 1. oktober 2006.når demonstrasjonsambulanse blir stilt til disposisjon for institusjon som allerede disponerer ambulansebil godkjent som utrykningskjøretøy.når bil spesialutstyrt med medisinsk utstyr blir stilt til disposisjon for sykehus eller kommunal legevakt når søknaden er anbefalt av politimesteren.Det regionale helseforetak kan fastsette særlige vilkår eller begrensninger i tilknytning til vedtak etter denne bokstav.når kjøretøyet er kommandobil utrustet med sambandsutstyr for koordinering av helsetjenester ved større ulykker og katastrofer og søknaden er anbefalt av politimesteren.politimesteren når kjøretøyet disponeres av kommunal brannsjef eller hans nærmeste stedfortreder og vedkommende regelmessig må være i beredskap uten fast vaktsted.vedkommende militære myndighet når kjøretøyet tilhører Forsvaret og registreres etter den spesielle ordningen med gule kjennemerker, eller er kjøretøy som disponeres av Forsvaret.Direktoratet for sivilt beredskap når kjøretøyet tilhører Sivilforsvaret og ikke går inn under nr. 3.politimesteren ved Oslo politidistrikt når kjøretøyet disponeres av Regjeringens biltjeneste eller Stortinget.politimesteren i andre tilfelle.Politimesteren kan fastsette særlige vilkår eller begrensninger i tilknytning til vedtak etter dette nummer.
+Godkjenning gis på bakgrunn av søknad fra kjøretøyets eier eller den som disponerer det og vedtak fattet av
+
+1. brannsjefen
+
+   1. når kjøretøyet tilhører kommunen og disponeres av kommunalt brannvesen
+   2. når annet kjøretøy for et tidsrom av inntil 8 uker er disponert som reserve for godkjent utrykningskjøretøy ved kommunalt brannvesen
+   3. når demonstrasjonskjøretøy blir stilt til disposisjon for kommunalt brannvesen.
+2. politimesteren eller sjefen for de sentrale politiorganene når kjøretøyet eies, leies eller leases av Staten og disponeres innen vedkommende politidistrikt eller av vedkommende organ.
+3. det regionale helseforetak
+
+   1. når kjøretøyet er registrert som ambulansebil, herunder leilighetsambulanse fram til 1. oktober 2006.
+   2. når demonstrasjonsambulanse blir stilt til disposisjon for institusjon som allerede disponerer ambulansebil godkjent som utrykningskjøretøy.
+   3. når bil spesialutstyrt med medisinsk utstyr blir stilt til disposisjon for sykehus eller kommunal legevakt når søknaden er anbefalt av politimesteren.
+
+      Det regionale helseforetak kan fastsette særlige vilkår eller begrensninger i tilknytning til vedtak etter denne bokstav.
+   4. når kjøretøyet er kommandobil utrustet med sambandsutstyr for koordinering av helsetjenester ved større ulykker og katastrofer og søknaden er anbefalt av politimesteren.
+4. politimesteren når kjøretøyet disponeres av kommunal brannsjef eller hans nærmeste stedfortreder og vedkommende regelmessig må være i beredskap uten fast vaktsted.
+5. vedkommende militære myndighet når kjøretøyet tilhører Forsvaret og registreres etter den spesielle ordningen med gule kjennemerker, eller er kjøretøy som disponeres av Forsvaret.
+6. Direktoratet for sivilt beredskap når kjøretøyet tilhører Sivilforsvaret og ikke går inn under nr. 3.
+7. politimesteren ved Oslo politidistrikt når kjøretøyet disponeres av Regjeringens biltjeneste eller Stortinget.
+8. politimesteren i andre tilfelle.
+
+   Politimesteren kan fastsette særlige vilkår eller begrensninger i tilknytning til vedtak etter dette nummer.
 
 > Endret ved [forskrifter 10 nov 2005 nr. 1291](forskrift/2005-11-10-1291), [19 nov 2007 nr. 1261](forskrift/2007-11-19-1261).
 

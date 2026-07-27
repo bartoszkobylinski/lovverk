@@ -15,7 +15,7 @@ xml_hash: "98ec9e5465c6ea86c68e8ad392152ba94c6f3760a3b5379881d2262b6e54267c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,13 @@ eu_basis: []
 
 ## I
 
-Fra 1. januar 2026 skal det i henhold til [lov 21. desember 1990 nr. 72 om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen](lov/1990-12-21-72) betales CO2-avgift til statskassen etter følgende satser:naturgass brukt som brensel til kraft- og varmeproduksjon: kr 2,57 per standardkubikkmeterdiesel og annen petroleum i væskeform brukt som brensel til kraft- og varmeproduksjon: kr 2,92 per literpetroleum faklet: kr 2,57 per standardkubikkmeternaturgass sluppet til luft: kr 23,53 per standardkubikkmeterCO2 utskilt fra petroleum og sluppet til luft; kr 2,57 per standardkubikkmeter.
+Fra 1. januar 2026 skal det i henhold til [lov 21. desember 1990 nr. 72 om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen](lov/1990-12-21-72) betales CO2-avgift til statskassen etter følgende satser:
+
+1. naturgass brukt som brensel til kraft- og varmeproduksjon: kr 2,57 per standardkubikkmeter
+2. diesel og annen petroleum i væskeform brukt som brensel til kraft- og varmeproduksjon: kr 2,92 per liter
+3. petroleum faklet: kr 2,57 per standardkubikkmeter
+4. naturgass sluppet til luft: kr 23,53 per standardkubikkmeter
+5. CO2 utskilt fra petroleum og sluppet til luft; kr 2,57 per standardkubikkmeter.
 
 [Lov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen](lov/1990-12-21-72) omfatter ikke karbonfangst og -lagring (CCS).
 

@@ -34,4 +34,8 @@ Finansdepartementets myndighet til å fatte enkeltvedtak etter [merverdiavgiftsl
 
 ## III
 
-Delegeringen trer i kraft straks. Fra samme tid oppheves følgende vedtak:[Vedtak 14. januar 2011 nr. 32](forskrift/2011-01-14-32) om delegering av myndighet etter [merverdiavgiftsloven § 6-11](lov/2009-06-19-58/§6-11) fjerde ledd annet punktum og [§ 7-5](lov/2009-06-19-58/§7-5) annet ledd annet punktum[Vedtak 13. desember 2010 nr. 1575](forskrift/2010-12-13-1575) om delegering av myndighet etter [merverdiavgiftsloven § 15-1](lov/2009-06-19-58/§15-1) niende ledd[Vedtak 23. september 2009 nr. 1214](forskrift/2009-09-23-1214) om delegering av myndighet til Skattedirektoratet etter [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd.
+Delegeringen trer i kraft straks. Fra samme tid oppheves følgende vedtak:
+
+- [Vedtak 14. januar 2011 nr. 32](forskrift/2011-01-14-32) om delegering av myndighet etter [merverdiavgiftsloven § 6-11](lov/2009-06-19-58/§6-11) fjerde ledd annet punktum og [§ 7-5](lov/2009-06-19-58/§7-5) annet ledd annet punktum
+- [Vedtak 13. desember 2010 nr. 1575](forskrift/2010-12-13-1575) om delegering av myndighet etter [merverdiavgiftsloven § 15-1](lov/2009-06-19-58/§15-1) niende ledd
+- [Vedtak 23. september 2009 nr. 1214](forskrift/2009-09-23-1214) om delegering av myndighet til Skattedirektoratet etter [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd.

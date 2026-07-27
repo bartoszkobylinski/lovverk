@@ -24,7 +24,15 @@ eu_basis: []
 
 ## I
 
-Statsforvalteren delegeres myndighet etter følgende bestemmelser i [lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven)](lov/2000-11-24-82) for så vidt gjelder saker etter [vannressursloven § 11](lov/2000-11-24-82/§11):[§ 35 nr. 9](lov/2000-11-24-82/§35/nummer/9) (reetablering av kantvegetasjon i vernede vassdrag), jf. kgl.res. 29. august 2025[§ 53](lov/2000-11-24-82/§53) (tilsyn), jf. kgl.res. 29. august 2025[§ 55](lov/2000-11-24-82/§55) (kreve opplysninger og tilgang til områder), jf. kgl.res. 29. august 2025[§ 59 første ledd](lov/2000-11-24-82/§59/ledd/1) (retting), jf. kgl.res. 29. august 2025[§ 60](lov/2000-11-24-82/§60) (tvangsmulkt), jf. kgl.res. 29. august 2025[§ 60a](lov/2000-11-24-82/§60a) (overtredelsesgebyr), jf. kgl.res. 29. august 2025[§ 60b](lov/2000-11-24-82/§60b) (administrativ inndragelse av utbytte), jf. kgl.res. 29. august 2025.
+Statsforvalteren delegeres myndighet etter følgende bestemmelser i [lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven)](lov/2000-11-24-82) for så vidt gjelder saker etter [vannressursloven § 11](lov/2000-11-24-82/§11):
+
+- [§ 35 nr. 9](lov/2000-11-24-82/§35/nummer/9) (reetablering av kantvegetasjon i vernede vassdrag), jf. kgl.res. 29. august 2025
+- [§ 53](lov/2000-11-24-82/§53) (tilsyn), jf. kgl.res. 29. august 2025
+- [§ 55](lov/2000-11-24-82/§55) (kreve opplysninger og tilgang til områder), jf. kgl.res. 29. august 2025
+- [§ 59 første ledd](lov/2000-11-24-82/§59/ledd/1) (retting), jf. kgl.res. 29. august 2025
+- [§ 60](lov/2000-11-24-82/§60) (tvangsmulkt), jf. kgl.res. 29. august 2025
+- [§ 60a](lov/2000-11-24-82/§60a) (overtredelsesgebyr), jf. kgl.res. 29. august 2025
+- [§ 60b](lov/2000-11-24-82/§60b) (administrativ inndragelse av utbytte), jf. kgl.res. 29. august 2025.
 
 ## II
 

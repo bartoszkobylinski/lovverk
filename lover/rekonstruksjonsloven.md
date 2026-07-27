@@ -15,7 +15,7 @@ xml_hash: "4ed3ce1c003d6a03ba17cec9a3ba6041978abecf0e1425e2a852e139dc0f83bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,9 +40,23 @@ Loven gjelder forhandling med fordringshaverne om rekonstruksjon med sikte på e
 
 (1) Begjæring om åpning av rekonstruksjonsforhandling fremsettes skriftlig for tingretten.
 
-(2) En skyldner som begjærer rekonstruksjonsforhandling, skal gi tingrettenen kort redegjørelse for de økonomiske problemene, deriblant om forpliktelsene kan oppfylles etter hvert som de forfalleren kort redegjørelse for hvordan rekonstruksjonen skal gjennomføresen skisse til hvordan gjelden tenkes ordnet, samt for kontakten med fordringshaverne om detteen redegjørelse for hvordan driften av virksomheten under rekonstruksjonsforhandlingen skal finansieresen oppgave over sine eiendeler og sin gjeld, med angivelse av de sikkerheter som hefter for gjelden. Har en fordringshaver panterett eller annen tilsvarende sikkerhetsrett i skyldnerens eiendeler, må tidspunktet for gjeldens og sikkerhetens stiftelse oppgisen redegjørelse for hvordan registrering og dokumentasjon av regnskapsopplysninger er innrettet.
+(2) En skyldner som begjærer rekonstruksjonsforhandling, skal gi tingretten
 
-(3) En fordringshaver som begjærer rekonstruksjonsforhandling, skalangi de omstendigheter begjæringen grunnes påsannsynliggjøre at han eller hun har et krav mot skyldnerensannsynliggjøre at skyldneren ikke kan oppfylle sine forpliktelser etter hvert som de forfallergi en kort redegjørelse for hvordan rekonstruksjonen skal gjennomføresgi en skisse til hvordan gjelden tenkes ordnetgi en redegjørelse for hvordan driften av virksomheten under rekonstruksjonsforhandlingen skal finansieres.
+1. en kort redegjørelse for de økonomiske problemene, deriblant om forpliktelsene kan oppfylles etter hvert som de forfaller
+2. en kort redegjørelse for hvordan rekonstruksjonen skal gjennomføres
+3. en skisse til hvordan gjelden tenkes ordnet, samt for kontakten med fordringshaverne om dette
+4. en redegjørelse for hvordan driften av virksomheten under rekonstruksjonsforhandlingen skal finansieres
+5. en oppgave over sine eiendeler og sin gjeld, med angivelse av de sikkerheter som hefter for gjelden. Har en fordringshaver panterett eller annen tilsvarende sikkerhetsrett i skyldnerens eiendeler, må tidspunktet for gjeldens og sikkerhetens stiftelse oppgis
+6. en redegjørelse for hvordan registrering og dokumentasjon av regnskapsopplysninger er innrettet.
+
+(3) En fordringshaver som begjærer rekonstruksjonsforhandling, skal
+
+1. angi de omstendigheter begjæringen grunnes på
+2. sannsynliggjøre at han eller hun har et krav mot skyldneren
+3. sannsynliggjøre at skyldneren ikke kan oppfylle sine forpliktelser etter hvert som de forfaller
+4. gi en kort redegjørelse for hvordan rekonstruksjonen skal gjennomføres
+5. gi en skisse til hvordan gjelden tenkes ordnet
+6. gi en redegjørelse for hvordan driften av virksomheten under rekonstruksjonsforhandlingen skal finansieres.
 
 (4) Tingretten skal gi begjæringen en påtegning om dagen og klokkeslettet da den kom inn til retten. Begjæringen kan tilbakekalles eller endres så lenge retten ikke har avsagt kjennelse om hvorvidt rekonstruksjonsforhandling skal åpnes.
 
@@ -62,7 +76,12 @@ Loven gjelder forhandling med fordringshaverne om rekonstruksjon med sikte på e
 
 ### § 5. Tingrettens avgjørelse. Rettsmidler
 
-(1) Tingretten skal avslå begjæringen dersomden ikke tilfredsstiller kravene etter [§§ 2](lov/2020-05-07-38/§2) og [3](lov/2020-05-07-38/§3), og manglene ikke blir rettet i tideskyldneren unnlater å skaffe de ytterligere opplysningene som tingretten krevertingretten etter de opplysningene som foreligger, finner det lite sannsynlig at skyldneren vil kunne oppnå frivillig rekonstruksjon eller tvangsakkordskyldneren motsetter seg rekonstruksjonsforhandling når begjæringen er fremsatt av en fordringshaver.
+(1) Tingretten skal avslå begjæringen dersom
+
+1. den ikke tilfredsstiller kravene etter [§§ 2](lov/2020-05-07-38/§2) og [3](lov/2020-05-07-38/§3), og manglene ikke blir rettet i tide
+2. skyldneren unnlater å skaffe de ytterligere opplysningene som tingretten krever
+3. tingretten etter de opplysningene som foreligger, finner det lite sannsynlig at skyldneren vil kunne oppnå frivillig rekonstruksjon eller tvangsakkord
+4. skyldneren motsetter seg rekonstruksjonsforhandling når begjæringen er fremsatt av en fordringshaver.
 
 (2) Retten skal treffe sin avgjørelse snarest mulig, normalt innen tre dager etter at skyldnerens begjæring kom inn til retten, eller innen to uker etter at en fordringshavers begjæring kom inn til retten.
 
@@ -84,7 +103,12 @@ Loven gjelder forhandling med fordringshaverne om rekonstruksjon med sikte på e
 
 (2) Rettsmøter som holdes under forhandling om rekonstruksjon, er offentlige med mindre retten beslutter lukkede dører etter [domstolloven §§ 125](lov/1915-08-13-5/§125) flg.
 
-(3) Melding om at det er åpnet forhandling om rekonstruksjon, skal på begjæring av rekonstruktøren tinglyses iLøsøreregisteretgrunnboken og lignende realregistre, for så vidt skyldneren eier fast eiendom eller andre registrerte eiendeleret verdipapirregister, dersom det er registrert rettigheter der som rekonstruktøren mener tilhører skyldnerenForetaksregisteret, dersom skyldneren er innført der.
+(3) Melding om at det er åpnet forhandling om rekonstruksjon, skal på begjæring av rekonstruktøren tinglyses i
+
+1. Løsøreregisteret
+2. grunnboken og lignende realregistre, for så vidt skyldneren eier fast eiendom eller andre registrerte eiendeler
+3. et verdipapirregister, dersom det er registrert rettigheter der som rekonstruktøren mener tilhører skyldneren
+4. Foretaksregisteret, dersom skyldneren er innført der.
 
 ## Kapittel 3. Rekonstruktør, kreditorutvalg og borevisor
 
@@ -124,7 +148,11 @@ Loven gjelder forhandling med fordringshaverne om rekonstruksjon med sikte på e
 
 ### § 11. Overprøving av vedtak
 
-(1) Retten kan etter begjæring fra skyldneren, en fordringshaver, rekonstruktøren eller et medlem av kreditorutvalget ved kjennelse oppheve eller omgjøre vedtak som er gjort av rekonstruktøren eller rekonstruksjonsutvalget, dersom vedtaket eri strid med skyldnerens, en fordringshavers eller en tredjepersons rett,ulovlig i andre henseender, elleråpenbart urimelig.
+(1) Retten kan etter begjæring fra skyldneren, en fordringshaver, rekonstruktøren eller et medlem av kreditorutvalget ved kjennelse oppheve eller omgjøre vedtak som er gjort av rekonstruktøren eller rekonstruksjonsutvalget, dersom vedtaket er
+
+1. i strid med skyldnerens, en fordringshavers eller en tredjepersons rett,
+2. ulovlig i andre henseender, eller
+3. åpenbart urimelig.
 
 (2) Begjæring etter første ledd må fremsettes uten ugrunnet opphold. Den som har truffet vedtaket, kan sette en frist for å bringe vedtaket inn for retten. Retten kan gi oppfriskning på samme vilkår som om avgjørelsen var tatt under rettergang.
 
@@ -134,7 +162,17 @@ Retten skal etter innstilling fra rekonstruksjonsutvalget oppnevne en borevisor 
 
 ### § 13. Habilitetsregler for rekonstruktøren, medlemmene av kreditorutvalget og borevisor
 
-(1) Til rekonstruktør, medlem av kreditorutvalget eller borevisor må ikke oppnevnes den somer i slekt eller svogerskap med skyldneren i oppstigende eller nedstigende linje, eller i sidelinje så nær som søskenbarn,er eller har vært gift med skyldneren, bor eller har bodd sammen med skyldneren i ekteskapsliknende forhold, er forlovet med skyldneren eller er skyldnerens fosterfar, fostermor eller fosterbarn,er verge for skyldneren eller har vært det etter åpningen av rekonstruksjonsforhandlingen,er i skyldnerens tjeneste eller har vært det i de to siste årene før åpningen av rekonstruksjonsforhandlingen, eller i det nevnte tidsrommet har fungert som skyldnerens faste juridiske rådgiver eller revisor,er medlem av skyldnerens styre, representantskap eller bedriftsforsamling eller har vært det i de to siste årene før åpningen av rekonstruksjonsforhandlingen, dersom skyldneren er en sammenslutning eller en stiftelse,selv søker rekonstruksjon, eller hvis bo er tatt under konkursbehandling, ellerpå grunn av andre særlige omstendigheter ikke kan antas å være tilstrekkelig uhildet.Første punktum nr. 4 gjelder ikke ved valg av representant for de ansatte til medlem av kreditorutvalget.
+(1) Til rekonstruktør, medlem av kreditorutvalget eller borevisor må ikke oppnevnes den som
+
+1. er i slekt eller svogerskap med skyldneren i oppstigende eller nedstigende linje, eller i sidelinje så nær som søskenbarn,
+2. er eller har vært gift med skyldneren, bor eller har bodd sammen med skyldneren i ekteskapsliknende forhold, er forlovet med skyldneren eller er skyldnerens fosterfar, fostermor eller fosterbarn,
+3. er verge for skyldneren eller har vært det etter åpningen av rekonstruksjonsforhandlingen,
+4. er i skyldnerens tjeneste eller har vært det i de to siste årene før åpningen av rekonstruksjonsforhandlingen, eller i det nevnte tidsrommet har fungert som skyldnerens faste juridiske rådgiver eller revisor,
+5. er medlem av skyldnerens styre, representantskap eller bedriftsforsamling eller har vært det i de to siste årene før åpningen av rekonstruksjonsforhandlingen, dersom skyldneren er en sammenslutning eller en stiftelse,
+6. selv søker rekonstruksjon, eller hvis bo er tatt under konkursbehandling, eller
+7. på grunn av andre særlige omstendigheter ikke kan antas å være tilstrekkelig uhildet.
+
+Første punktum nr. 4 gjelder ikke ved valg av representant for de ansatte til medlem av kreditorutvalget.
 
 (2) Til rekonstruktør, medlem av kreditorutvalget eller borevisor bør som regel ikke oppnevnes noen som skyldneren i de siste to årene før åpningen av rekonstruksjonsforhandlingen fortrinnsvis har benyttet som juridisk eller forretningsmessig rådgiver.
 
@@ -234,7 +272,16 @@ Skyldnerens regnskapsfører og revisor plikter å utlevere regnskaper og regnska
 
 ### § 25. Rekonstruktørens redegjørelse
 
-(1) Når rekonstruksjonsutvalget har skaffet seg nødvendig oversikt over skyldnerens forhold og finner at det er utsikt til at skyldneren vil kunne oppnå rekonstruksjon, skal rekonstruktøren utarbeide en redegjørelse, som blant annet skal inneholdeen oversikt over skyldnerens forretningsførsel med opplysning om hvordan registrering og dokumentasjon av regnskapsopplysninger har vært, og om de forhold som har ført til rekonstruksjonsforhandlingenen oversikt over boets stilling, med opplysning blant annet om skyldnerens kausjonsforpliktelser, de heftelser som hviler på skyldnerens eiendeler, og hvordan eiendelene er verdsattopplysning om skyldnerens ekteskapelige formuesforholdopplysning om skyldneren antas å ha foretatt disposisjoner som kan omstøtes i tilfelle av tvangsakkord eller konkurs, og om det er holdt tvangsforretninger hos skyldneren som i så fall vil være uvirksommeopplysning om skyldneren tidligere har søkt rekonstruksjon eller frivillig gjeldsordning eller vært under forhandling om tvangsakkord eller konkurs, i tilfelle med angivelse av den dividenden fordringshaverne oppnåddeopplysning om skyldneren tidligere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet, og om det nå må antas å foreligge forhold som kan gi grunn til straffeforfølgning mot vedkommende i forbindelse med slik virksomhet.I oversikten etter første punktum nr. 1 bør skyldnerens to siste årsregnskap og årsberetninger (status, driftsregnskap) inntas, og dessuten oppgave over omsetningen. Er skyldneren en sammenslutning eller en stiftelse, skal det i redegjørelsen etter første punktum nr. 6 gis opplysning om det foreligger forhold som nevnt når det gjelder forretningsfører eller styremedlem.
+(1) Når rekonstruksjonsutvalget har skaffet seg nødvendig oversikt over skyldnerens forhold og finner at det er utsikt til at skyldneren vil kunne oppnå rekonstruksjon, skal rekonstruktøren utarbeide en redegjørelse, som blant annet skal inneholde
+
+1. en oversikt over skyldnerens forretningsførsel med opplysning om hvordan registrering og dokumentasjon av regnskapsopplysninger har vært, og om de forhold som har ført til rekonstruksjonsforhandlingen
+2. en oversikt over boets stilling, med opplysning blant annet om skyldnerens kausjonsforpliktelser, de heftelser som hviler på skyldnerens eiendeler, og hvordan eiendelene er verdsatt
+3. opplysning om skyldnerens ekteskapelige formuesforhold
+4. opplysning om skyldneren antas å ha foretatt disposisjoner som kan omstøtes i tilfelle av tvangsakkord eller konkurs, og om det er holdt tvangsforretninger hos skyldneren som i så fall vil være uvirksomme
+5. opplysning om skyldneren tidligere har søkt rekonstruksjon eller frivillig gjeldsordning eller vært under forhandling om tvangsakkord eller konkurs, i tilfelle med angivelse av den dividenden fordringshaverne oppnådde
+6. opplysning om skyldneren tidligere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet, og om det nå må antas å foreligge forhold som kan gi grunn til straffeforfølgning mot vedkommende i forbindelse med slik virksomhet.
+
+I oversikten etter første punktum nr. 1 bør skyldnerens to siste årsregnskap og årsberetninger (status, driftsregnskap) inntas, og dessuten oppgave over omsetningen. Er skyldneren en sammenslutning eller en stiftelse, skal det i redegjørelsen etter første punktum nr. 6 gis opplysning om det foreligger forhold som nevnt når det gjelder forretningsfører eller styremedlem.
 
 (2) Rekonstruktørens gjennomgåelse etter første ledd nr. 1 til 6 skal avpasses til de konkrete forhold for skyldneren. Dersom det er foretatt kun en forenklet gjennomgåelse, skal det opplyses særskilt om dette i rekonstruktørens redegjørelse.
 
@@ -254,13 +301,24 @@ Skyldnerens regnskapsfører og revisor plikter å utlevere regnskaper og regnska
 
 ### § 27. Forslagets innhold
 
-(1) En frivillig rekonstruksjon kan blant annet gå ut påbetalingsutsettelse (frivillig moratorium)prosentvis reduksjon av gjelden (frivillig akkord)at gjelden helt eller delvis omgjøres til egenkapital (frivillig akkord ved konvertering)overdragelse av hele eller deler av skyldnerens virksomhet og eiendeler til ny eier, uten at skyldnerens virksomhet blir likvidert (rekonstruksjonsoverdragelse)overdragelse og avvikling av hele eller deler av skyldnerens virksomhet og eiendeler mot at skyldneren blir frigjort for den delen av gjelden som ikke dekkes ved likvidasjonen (frivillig likvidasjonsakkord)en kombinasjon av disse ordninger, og eventuelt i kombinasjon med andre tiltak.
+(1) En frivillig rekonstruksjon kan blant annet gå ut på
+
+1. betalingsutsettelse (frivillig moratorium)
+2. prosentvis reduksjon av gjelden (frivillig akkord)
+3. at gjelden helt eller delvis omgjøres til egenkapital (frivillig akkord ved konvertering)
+4. overdragelse av hele eller deler av skyldnerens virksomhet og eiendeler til ny eier, uten at skyldnerens virksomhet blir likvidert (rekonstruksjonsoverdragelse)
+5. overdragelse og avvikling av hele eller deler av skyldnerens virksomhet og eiendeler mot at skyldneren blir frigjort for den delen av gjelden som ikke dekkes ved likvidasjonen (frivillig likvidasjonsakkord)
+6. en kombinasjon av disse ordninger, og eventuelt i kombinasjon med andre tiltak.
 
 (2) [§ 35](lov/2020-05-07-38/§35) om flertallskrav når rekonstruksjonen krever beslutning i selskapets generalforsamling, gjelder tilsvarende.
 
 ### § 28. Utsendelse av forslaget. Svarfrist
 
-(1) Når skyldneren har utarbeidet et forslag til rekonstruksjon, og rekonstruksjonsutvalget finner at det bør fremmes, skal rekonstruktøren sende forslaget til alle fordringshaverne med fordringer som er omfattet av forslaget. Med forslaget skal følgeredegjørelsen etter [§ 25](lov/2020-05-07-38/§25)skyldnerens erklæring om at alt skyldneren eier og skylder, er oppgittrekonstruksjonsutvalgets uttalelse om hvorvidt det anbefaler at forslaget vedtas, om utsikten til og sikkerheten for at forslaget vil bli oppfylt fra skyldnerens side, om de betingelser som utvalget har satt for å anbefale forslaget, og om hvordan boets stilling antas å ville bli i tilfelle av konkurs.
+(1) Når skyldneren har utarbeidet et forslag til rekonstruksjon, og rekonstruksjonsutvalget finner at det bør fremmes, skal rekonstruktøren sende forslaget til alle fordringshaverne med fordringer som er omfattet av forslaget. Med forslaget skal følge
+
+1. redegjørelsen etter [§ 25](lov/2020-05-07-38/§25)
+2. skyldnerens erklæring om at alt skyldneren eier og skylder, er oppgitt
+3. rekonstruksjonsutvalgets uttalelse om hvorvidt det anbefaler at forslaget vedtas, om utsikten til og sikkerheten for at forslaget vil bli oppfylt fra skyldnerens side, om de betingelser som utvalget har satt for å anbefale forslaget, og om hvordan boets stilling antas å ville bli i tilfelle av konkurs.
 
 (2) Fordringshaverne oppfordres samtidig til innen en frist, som ikke må settes kortere enn to uker og ikke lengre enn tre uker, å underrette rekonstruktøren skriftlig om de vedtar forslaget. I oppfordringen skal fordringshaverne gjøres oppmerksom på bestemmelsen i [§ 29](lov/2020-05-07-38/§29) annet ledd. Underretningen skal sendes med rekommandert brev eller ved bruk av elektronisk kommunikasjon hvor det er benyttet en betryggende metode for å sikre at underretningen er mottatt. [§ 7](lov/2020-05-07-38/§7) første ledd fjerde punktum gjelder tilsvarende.
 
@@ -278,13 +336,19 @@ Dersom forslaget til frivillig rekonstruksjon ikke blir vedtatt, og skyldneren u
 
 (1) Når et forslag til frivillig rekonstruksjon er vedtatt, skal rekonstruktøren sende melding om dette til samtlige fordringshavere som ikke er tilsagt full dekning for krav som skriver seg fra tiden før rekonstruksjonsforhandlingen ble åpnet.
 
-(2) Rekonstruktøren skal samtidig sende rettendet vedtatte forslaget til rekonstruksjon, med påtegning om hvordan forslaget er blitt vedtattvedleggene som er nevnt i [§ 28](lov/2020-05-07-38/§28) første ledd.
+(2) Rekonstruktøren skal samtidig sende retten
+
+1. det vedtatte forslaget til rekonstruksjon, med påtegning om hvordan forslaget er blitt vedtatt
+2. vedleggene som er nevnt i [§ 28](lov/2020-05-07-38/§28) første ledd.
 
 (3) Retten skal notere når forslaget kom inn til retten.
 
 ### § 32. Ugyldig moratorium og akkord
 
-(1) Dersom en frivillig rekonstruksjon, jf. [§ 27](lov/2020-05-07-38/§27), er kommet i stand ved atskyldneren forsettlig eller uaktsomt har gitt uriktige eller ufullstendige opplysninger om sine eiendeler eller forpliktelser, ellerskyldneren eller en tredjeperson med skyldnerens medvirkning i strid med rekonstruksjonen og forutsetningene for den har gitt eller tilsagt én eller flere fordringshavere særlige fordeler, taper skyldneren overfor alle de fordringshavere som ikke har kjent til forholdet, den henstanden som ble innrømmet, og skyldneren plikter å betale til disse fordringshaverne også de deler av fordringene som ble ettergitt ved akkorden.
+(1) Dersom en frivillig rekonstruksjon, jf. [§ 27](lov/2020-05-07-38/§27), er kommet i stand ved at
+
+1. skyldneren forsettlig eller uaktsomt har gitt uriktige eller ufullstendige opplysninger om sine eiendeler eller forpliktelser, eller
+2. skyldneren eller en tredjeperson med skyldnerens medvirkning i strid med rekonstruksjonen og forutsetningene for den har gitt eller tilsagt én eller flere fordringshavere særlige fordeler, taper skyldneren overfor alle de fordringshavere som ikke har kjent til forholdet, den henstanden som ble innrømmet, og skyldneren plikter å betale til disse fordringshaverne også de deler av fordringene som ble ettergitt ved akkorden.
 
 (2) En fordringshavers rett etter første ledd foreldes ett år fra den dagen da fordringshaveren fikk vite om det forholdet som ga adgang til å angripe rekonstruksjonen. Retten kan ikke i noe tilfelle gjøres gjeldende om den ikke er erkjent eller gjort gjeldende ved søksmål senest tre år etter at rekonstruksjonsforhandlingen er opphørt.
 
@@ -298,7 +362,14 @@ Dersom forslaget til frivillig rekonstruksjon ikke blir vedtatt, og skyldneren u
 
 ### § 34. Hva en rekonstruksjon med tvangsakkord kan gå ut på
 
-(1) En rekonstruksjon med tvangsakkord kan gå ut påbetalingsutsettelse (tvungent moratorium)prosentvis reduksjon av gjelden (alminnelig tvangsakkord)at gjelden helt eller delvis omgjøres til egenkapital (tvangsakkord ved konvertering)overdragelse av hele eller deler av skyldnerens virksomhet og eiendeler til en ny eier, uten at skyldnerens virksomhet blir likvidert (rekonstruksjonsoverdragelse)overdragelse og avvikling av hele eller deler av skyldnerens virksomhet og eiendeler mot at skyldneren frigjøres for den delen av gjelden som ikke dekkes ved likvidasjonen (tvungen likvidasjonsakkord)en kombinasjon av disse ordningene.
+(1) En rekonstruksjon med tvangsakkord kan gå ut på
+
+1. betalingsutsettelse (tvungent moratorium)
+2. prosentvis reduksjon av gjelden (alminnelig tvangsakkord)
+3. at gjelden helt eller delvis omgjøres til egenkapital (tvangsakkord ved konvertering)
+4. overdragelse av hele eller deler av skyldnerens virksomhet og eiendeler til en ny eier, uten at skyldnerens virksomhet blir likvidert (rekonstruksjonsoverdragelse)
+5. overdragelse og avvikling av hele eller deler av skyldnerens virksomhet og eiendeler mot at skyldneren frigjøres for den delen av gjelden som ikke dekkes ved likvidasjonen (tvungen likvidasjonsakkord)
+6. en kombinasjon av disse ordningene.
 
 (2) En tvangsakkord kan gå ut på at enhver fordringshavers samlede tilgodehavende skal dekkes fullt ut opptil en viss sum. Reglene i første ledd gjelder i så fall for den overskytende del av tilgodehavendene.
 
@@ -330,7 +401,12 @@ Dersom en anmeldt fordring helt eller delvis blir bestridt, skal rekonstruktøre
 
 ### § 39. Utsendelse av forslag til rekonstruksjon med tvangsakkord. Avstemningen
 
-(1) Rekonstruktøren skal sende skyldnerens forslag til rekonstruksjon med tvangsakkord til alle kjente fordringshavere med angivelse av en frist på minst to uker for skriftlig svar til rekonstruktøren. Forslaget skal sendes med rekommandert brev eller ved bruk av elektronisk kommunikasjon hvor det er benyttet en betryggende metode for å sikre at forslaget er mottatt. [§ 7](lov/2020-05-07-38/§7) første ledd fjerde punktum gjelder tilsvarende. Med forslaget skal følgeredegjørelsen etter [§ 25](lov/2020-05-07-38/§25)listen nevnt i [§ 40](lov/2020-05-07-38/§40)skyldnerens erklæring om at alt skyldneren eier og skylder er oppgittrekonstruksjonsutvalgets uttalelse om hvorvidt utvalget anbefaler at forslaget vedtas, om utsikten til og sikkerheten for at forslaget vil bli oppfylt fra skyldnerens side, om vilkår utvalget har satt for å anbefale forslaget og om hvordan boets stilling antas å ville bli i tilfelle av konkurs.
+(1) Rekonstruktøren skal sende skyldnerens forslag til rekonstruksjon med tvangsakkord til alle kjente fordringshavere med angivelse av en frist på minst to uker for skriftlig svar til rekonstruktøren. Forslaget skal sendes med rekommandert brev eller ved bruk av elektronisk kommunikasjon hvor det er benyttet en betryggende metode for å sikre at forslaget er mottatt. [§ 7](lov/2020-05-07-38/§7) første ledd fjerde punktum gjelder tilsvarende. Med forslaget skal følge
+
+1. redegjørelsen etter [§ 25](lov/2020-05-07-38/§25)
+2. listen nevnt i [§ 40](lov/2020-05-07-38/§40)
+3. skyldnerens erklæring om at alt skyldneren eier og skylder er oppgitt
+4. rekonstruksjonsutvalgets uttalelse om hvorvidt utvalget anbefaler at forslaget vedtas, om utsikten til og sikkerheten for at forslaget vil bli oppfylt fra skyldnerens side, om vilkår utvalget har satt for å anbefale forslaget og om hvordan boets stilling antas å ville bli i tilfelle av konkurs.
 
 (2) Retten kan etter begjæring fra rekonstruktøren eller kreditorutvalget beslutte at det skal avholdes et eget fordringshavermøte til drøftelse av forslaget til rekonstruksjon med tvangsakkord. Avstemningen skjer ved fordringshavernes skriftlige meldinger til rekonstruktøren.
 
@@ -344,7 +420,14 @@ Dersom en anmeldt fordring helt eller delvis blir bestridt, skal rekonstruktøre
 
 ### § 41. Fordringer som ikke gir stemmerett
 
-(1) Ved avstemningen over akkordforslaget skal alle kjente fordringer regnes med, selv om de ikke er meldt til rekonstruktøren. Følgende fordringer skal likevel settes ut av betraktning:fordring som akkorden etter [§ 54](lov/2020-05-07-38/§54) ikke vil bli bindende forfordring som er avhengig av en betingelse som ennå ikke er inntrådtfordring som er overdratt til fordringshaveren etter at rekonstruksjonsforhandlingen ble åpnetfordring som tilhører skyldnerens nærstående, jf. [dekningsloven § 1-5](lov/1984-06-08-59/§1-5)fordring eller del av fordring som skal dekkes fullt ut etter akkordforslaget, jf. [§ 34](lov/2020-05-07-38/§34) annet leddetterprioritert fordring som faller bort ved akkorden.
+(1) Ved avstemningen over akkordforslaget skal alle kjente fordringer regnes med, selv om de ikke er meldt til rekonstruktøren. Følgende fordringer skal likevel settes ut av betraktning:
+
+1. fordring som akkorden etter [§ 54](lov/2020-05-07-38/§54) ikke vil bli bindende for
+2. fordring som er avhengig av en betingelse som ennå ikke er inntrådt
+3. fordring som er overdratt til fordringshaveren etter at rekonstruksjonsforhandlingen ble åpnet
+4. fordring som tilhører skyldnerens nærstående, jf. [dekningsloven § 1-5](lov/1984-06-08-59/§1-5)
+5. fordring eller del av fordring som skal dekkes fullt ut etter akkordforslaget, jf. [§ 34](lov/2020-05-07-38/§34) annet ledd
+6. etterprioritert fordring som faller bort ved akkorden.
 
 (2) Dersom en fordring som nevnt i første ledd annet punktum nr. 1 er sikret ved panterett eller annen sikkerhetsrett i skyldnerens eiendeler, kan fordringshaveren utøve stemmerett for den delen av fordringen som sikkerheten antas ikke å ville gi dekning for, eller – hvis fordringshaveren uttrykkelig frafaller sin sikkerhetsrett for en større del av fordringen – for denne delen. En fordring med lovbestemt fortrinnsrett gir stemmerett i den utstrekning fortrinnsretten uttrykkelig frafalles.
 
@@ -362,7 +445,13 @@ Et forslag om rekonstruksjon med tvangsakkord anses vedtatt når fordringer som 
 
 ### § 44. Redegjørelse for avstemningen sendes tingretten
 
-Rekonstruktøren skal innen en uke etter fristen for avstemningen sende tingretten en redegjørelse for resultatet av avstemningen med uttalelse om hvorvidt det antas å foreligge forhold som vil være til hinder for stadfestelse av rekonstruksjonsforslaget med tvangsakkord. Med redegjørelsen skal følgebekreftelse av at fordringshaverne har vært varslet om avstemningen i overensstemmelse med lovens reglerprotokoll fra rekonstruksjonsutvalgets møterlisten over fordringshaverne etter [§ 40](lov/2020-05-07-38/§40), og, i den grad det foreligger omtvistede eller uklare fordringer, kopi av fordringsanmeldelsene og de dokumenter som foreligger om disse fordringeneskyldnerens endelige forslag til rekonstruksjon med tvangsakkordforslag og fordringshavernes vedtakelserandre dokumenter som måtte være fremlagt i forbindelse med avstemningen, og de protester som måtte være fremkommet mot stadfestelse av rekonstruksjonsforslaget med tvangsakkord.
+Rekonstruktøren skal innen en uke etter fristen for avstemningen sende tingretten en redegjørelse for resultatet av avstemningen med uttalelse om hvorvidt det antas å foreligge forhold som vil være til hinder for stadfestelse av rekonstruksjonsforslaget med tvangsakkord. Med redegjørelsen skal følge
+
+1. bekreftelse av at fordringshaverne har vært varslet om avstemningen i overensstemmelse med lovens regler
+2. protokoll fra rekonstruksjonsutvalgets møter
+3. listen over fordringshaverne etter [§ 40](lov/2020-05-07-38/§40), og, i den grad det foreligger omtvistede eller uklare fordringer, kopi av fordringsanmeldelsene og de dokumenter som foreligger om disse fordringene
+4. skyldnerens endelige forslag til rekonstruksjon med tvangsakkordforslag og fordringshavernes vedtakelser
+5. andre dokumenter som måtte være fremlagt i forbindelse med avstemningen, og de protester som måtte være fremkommet mot stadfestelse av rekonstruksjonsforslaget med tvangsakkord.
 
 ### § 45. Rettsmøte før stadfestelse
 
@@ -384,17 +473,32 @@ Rekonstruktøren skal innen en uke etter fristen for avstemningen sende tingrett
 
 ### § 47. Tilfeller hvor stadfestelse skal nektes
 
-Retten skal nekte å stadfeste rekonstruksjonsforslagetnår reglene om fremgangsmåten ved rekonstruksjonsforhandlingen ikke har vært overholdt og retten finner det sannsynlig at feilen har hatt avgjørende betydning for vedtakelsen av rekonstruksjonsforslaget,når rekonstruksjonsforslaget ikke er blitt vedtatt med nødvendig flertall, jf. [§§ 34](lov/2020-05-07-38/§34) og [42](lov/2020-05-07-38/§42), ellernår det viser seg at det foreligger omstendigheter som nevnt i [§ 49](lov/2020-05-07-38/§49) nr. 1 eller 2 og som ikke er meddelt fordringshaverne før avstemningen, dersom forholdet kan antas å ha hatt avgjørende innflytelse på utfallet av denne.
+Retten skal nekte å stadfeste rekonstruksjonsforslaget
+
+1. når reglene om fremgangsmåten ved rekonstruksjonsforhandlingen ikke har vært overholdt og retten finner det sannsynlig at feilen har hatt avgjørende betydning for vedtakelsen av rekonstruksjonsforslaget,
+2. når rekonstruksjonsforslaget ikke er blitt vedtatt med nødvendig flertall, jf. [§§ 34](lov/2020-05-07-38/§34) og [42](lov/2020-05-07-38/§42), eller
+3. når det viser seg at det foreligger omstendigheter som nevnt i [§ 49](lov/2020-05-07-38/§49) nr. 1 eller 2 og som ikke er meddelt fordringshaverne før avstemningen, dersom forholdet kan antas å ha hatt avgjørende innflytelse på utfallet av denne.
 
 ### § 48. Tilfeller hvor stadfestelse kan nektes
 
-(1) Retten kan nekte å stadfeste rekonstruksjonsforslagetnår det vil virke støtende å stadfeste rekonstruksjonsforslaget skyldneren har fremsatt, eller retten finner at rekonstruksjonsforslaget ikke er rimelig og rettferdig overfor fordringshaverne,når skyldneren vegrer seg for å gi de opplysningene retten trenger ved avgjørelsen, eller uten gyldig grunn uteblir fra rettsmøter i forbindelse med rekonstruksjonsbehandlingen, ellernår retten finner det godtgjort at skyldneren i de siste tre årene før åpningen av rekonstruksjonsforhandlingen eller senere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet.
+(1) Retten kan nekte å stadfeste rekonstruksjonsforslaget
+
+1. når det vil virke støtende å stadfeste rekonstruksjonsforslaget skyldneren har fremsatt, eller retten finner at rekonstruksjonsforslaget ikke er rimelig og rettferdig overfor fordringshaverne,
+2. når skyldneren vegrer seg for å gi de opplysningene retten trenger ved avgjørelsen, eller uten gyldig grunn uteblir fra rettsmøter i forbindelse med rekonstruksjonsbehandlingen, eller
+3. når retten finner det godtgjort at skyldneren i de siste tre årene før åpningen av rekonstruksjonsforhandlingen eller senere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet.
 
 (2) Er skyldneren en sammenslutning eller en stiftelse, kan stadfestelse nektes dersom daglig leder eller styremedlem i de siste tre årene før åpningen av rekonstruksjonsforhandlingen eller senere har gjort seg skyldig i slike straffbare forhold som nevnt i første ledd nr. 3 til skyldnerens fordel eller på skyldnerens vegne.
 
 ### § 49. Tilfeller hvor stadfestelse kan nektes etter begjæring
 
-Etter begjæring av rekonstruktøren, kreditorutvalget eller av en fordringshaver som i tilfelle vil bli bundet av akkorden, kan retten nekte stadfestelsenår det påvises at akkorden er brakt i stand ved at en fordringshaver er blitt begunstiget eller har fått løfte om begunstigelse, enten av skyldneren eller av tredjeperson, ellernår det påvises at rekonstruksjonsforslaget og akkorden ikke stemmer med fordringshavernes felles interesser, blant annet fordidividenden som er tilbudt, står i vesentlig misforhold til skyldnerens betalingsmuligheter og særlig til hvilken dekning som kan forventes ved en konkurs,fordringsbeløpene som skal dekkes fullt etter akkordforslaget, jf. [§ 34](lov/2020-05-07-38/§34) annet ledd, er så betydelige at det innebærer en urimelig forfordeling av fordringshaverne, ellerdet ikke er rimelig utsikt til at akkorden vil bli oppfylt.
+Etter begjæring av rekonstruktøren, kreditorutvalget eller av en fordringshaver som i tilfelle vil bli bundet av akkorden, kan retten nekte stadfestelse
+
+1. når det påvises at akkorden er brakt i stand ved at en fordringshaver er blitt begunstiget eller har fått løfte om begunstigelse, enten av skyldneren eller av tredjeperson, eller
+2. når det påvises at rekonstruksjonsforslaget og akkorden ikke stemmer med fordringshavernes felles interesser, blant annet fordi
+
+   1. dividenden som er tilbudt, står i vesentlig misforhold til skyldnerens betalingsmuligheter og særlig til hvilken dekning som kan forventes ved en konkurs,
+   2. fordringsbeløpene som skal dekkes fullt etter akkordforslaget, jf. [§ 34](lov/2020-05-07-38/§34) annet ledd, er så betydelige at det innebærer en urimelig forfordeling av fordringshaverne, eller
+   3. det ikke er rimelig utsikt til at akkorden vil bli oppfylt.
 
 ### § 50. Tilsyn med oppfyllelsen av akkorden
 
@@ -430,7 +534,11 @@ Etter begjæring av rekonstruktøren, kreditorutvalget eller av en fordringshave
 
 ### § 54. Hvem akkorden er bindende for
 
-(1) Den stadfestede akkorden er bindende for alle fordringshavere med fordringer som skriver seg fra tiden før åpningen av rekonstruksjonsforhandlingen. Akkorden er likevel ikke bindende forfordringer som har lovbestemt fortrinnsrettfordringer som er sikret ved panterett eller annen sikkerhetsrett i skyldnerens eiendeler, i den utstrekning fordringen faller innenfor pantets antatte verdifordringer som kan kreves avgjort ved motregning i den utstrekning de dekkes av motkravet.
+(1) Den stadfestede akkorden er bindende for alle fordringshavere med fordringer som skriver seg fra tiden før åpningen av rekonstruksjonsforhandlingen. Akkorden er likevel ikke bindende for
+
+1. fordringer som har lovbestemt fortrinnsrett
+2. fordringer som er sikret ved panterett eller annen sikkerhetsrett i skyldnerens eiendeler, i den utstrekning fordringen faller innenfor pantets antatte verdi
+3. fordringer som kan kreves avgjort ved motregning i den utstrekning de dekkes av motkravet.
 
 (2) [§§ 32](lov/2020-05-07-38/§32) og [33](lov/2020-05-07-38/§33) gjelder tilsvarende ved tvangsakkord.
 
@@ -452,7 +560,11 @@ Dersom skyldneren overfor retten godtgjør å være solvent, jf. [konkursloven �
 
 ### § 58. Innstilling av mislykket rekonstruksjonsforhandling og åpning av konkurs
 
-(1) Retten skal innstille rekonstruksjonsforhandlingen og åpne konkurs i skyldnerens bo nårretten etter innberetning fra rekonstruksjonsutvalget finner at det ikke er utsikt til at skyldneren vil kunne oppnå frivillig rekonstruksjon eller rekonstruksjon med tvangsakkord, eller at skyldneren ikke innen rimelig tid har fremsatt forslag til frivillig rekonstruksjon eller tvangsakkord, jf. [§ 26](lov/2020-05-07-38/§26) annet ledd,retten nekter å stadfeste et rekonstruksjonsforslag med tvangsakkord, jf. [§ 51](lov/2020-05-07-38/§51), ellerrekonstruksjonsforhandlingen ikke er avsluttet innen seks måneder fra åpningen eller innen en lengre frist som retten har satt etter anmodning fra rekonstruksjonsutvalget.
+(1) Retten skal innstille rekonstruksjonsforhandlingen og åpne konkurs i skyldnerens bo når
+
+1. retten etter innberetning fra rekonstruksjonsutvalget finner at det ikke er utsikt til at skyldneren vil kunne oppnå frivillig rekonstruksjon eller rekonstruksjon med tvangsakkord, eller at skyldneren ikke innen rimelig tid har fremsatt forslag til frivillig rekonstruksjon eller tvangsakkord, jf. [§ 26](lov/2020-05-07-38/§26) annet ledd,
+2. retten nekter å stadfeste et rekonstruksjonsforslag med tvangsakkord, jf. [§ 51](lov/2020-05-07-38/§51), eller
+3. rekonstruksjonsforhandlingen ikke er avsluttet innen seks måneder fra åpningen eller innen en lengre frist som retten har satt etter anmodning fra rekonstruksjonsutvalget.
 
 (2) Retten kan etter begjæring fra rekonstruksjonsutvalget innstille rekonstruksjonsforhandlingen og åpne konkurs i skyldnerens bo når retten finner at skyldneren grovt eller gjentatte ganger har handlet mot sine plikter etter [§§ 15](lov/2020-05-07-38/§15) og [20](lov/2020-05-07-38/§20).
 
@@ -460,7 +572,12 @@ Dersom skyldneren overfor retten godtgjør å være solvent, jf. [konkursloven �
 
 ### § 59. Tidspunktet for rekonstruksjonsforhandlingens avslutning
 
-Rekonstruksjonsforhandlingen anses for avsluttet nårretten mottar melding om at skyldneren har fått frivillig rekonstruksjon, jf. [§ 31](lov/2020-05-07-38/§31),skyldneren har fått rekonstruksjon med tvangsakkord som er stadfestet ved rettskraftig kjennelse, jf. [§ 51](lov/2020-05-07-38/§51).det er avsagt kjennelse om innstilling av rekonstruksjonsforhandlingen etter [§ 56](lov/2020-05-07-38/§56) eller [§ 57](lov/2020-05-07-38/§57), og kjennelsen er blitt rettskraftig, ellerdet er avsagt kjennelse om innstilling av rekonstruksjonsforhandlingen etter [§ 58](lov/2020-05-07-38/§58) uten at konkurs er blitt åpnet, og kjennelsen er blitt rettskraftig.
+Rekonstruksjonsforhandlingen anses for avsluttet når
+
+1. retten mottar melding om at skyldneren har fått frivillig rekonstruksjon, jf. [§ 31](lov/2020-05-07-38/§31),
+2. skyldneren har fått rekonstruksjon med tvangsakkord som er stadfestet ved rettskraftig kjennelse, jf. [§ 51](lov/2020-05-07-38/§51).
+3. det er avsagt kjennelse om innstilling av rekonstruksjonsforhandlingen etter [§ 56](lov/2020-05-07-38/§56) eller [§ 57](lov/2020-05-07-38/§57), og kjennelsen er blitt rettskraftig, eller
+4. det er avsagt kjennelse om innstilling av rekonstruksjonsforhandlingen etter [§ 58](lov/2020-05-07-38/§58) uten at konkurs er blitt åpnet, og kjennelsen er blitt rettskraftig.
 
 ### § 60. Følgene av at skyldneren dør under rekonstruksjonsforhandlingen
 
@@ -474,7 +591,13 @@ Dersom skyldneren dør før kjennelse om konkursåpning er avsagt i henhold til 
 
 (1) Kongen kan ved forskrift gi nærmere bestemmelser til utfylling og gjennomføring av loven her.
 
-(2) Kongen kan også gi forskrift om særlige regler for små foretak med sikte på forenklet rekonstruksjonsforhandling. Slike regler kan fravike reglene i denne loven. Forskriften fastsetter hvilke foretak som skal regnes som små foretak etter denne loven. Kongen kan blant annet gi bestemmelser omskyldnerens adgang til å fremlegge forslag til rekonstruksjon og tvangsakkord av gjelden sammen med begjæring om rekonstruksjonsforhandlingskyldnerens adgang til å få oppnevnt en advokat til å bistå med forslag til rekonstruksjonsplan, inkludert forhandling om salg av hele eller deler av virksomheten til ny eier, før det leveres begjæring om rekonstruksjonsforhandlingrettens adgang til å unnlate å oppnevne borevisor og kreditorutvalg, og avholde fordringshavermøterettens adgang til å unnlate å oppnevne kreditorutvalg dersom bestemmelsene sikrer at de ansatte blir hørt på en annen måteforenklet gjennomgang av skyldnerens økonomi og vurdering av mulige omstøtelige disposisjoner og straffbare forhold.
+(2) Kongen kan også gi forskrift om særlige regler for små foretak med sikte på forenklet rekonstruksjonsforhandling. Slike regler kan fravike reglene i denne loven. Forskriften fastsetter hvilke foretak som skal regnes som små foretak etter denne loven. Kongen kan blant annet gi bestemmelser om
+
+1. skyldnerens adgang til å fremlegge forslag til rekonstruksjon og tvangsakkord av gjelden sammen med begjæring om rekonstruksjonsforhandling
+2. skyldnerens adgang til å få oppnevnt en advokat til å bistå med forslag til rekonstruksjonsplan, inkludert forhandling om salg av hele eller deler av virksomheten til ny eier, før det leveres begjæring om rekonstruksjonsforhandling
+3. rettens adgang til å unnlate å oppnevne borevisor og kreditorutvalg, og avholde fordringshavermøte
+4. rettens adgang til å unnlate å oppnevne kreditorutvalg dersom bestemmelsene sikrer at de ansatte blir hørt på en annen måte
+5. forenklet gjennomgang av skyldnerens økonomi og vurdering av mulige omstøtelige disposisjoner og straffbare forhold.
 
 (3) Kongen kan også gi forskrift om særlige regler for tingrettens stedlige kompetanse i saker om rekonstruksjon etter denne loven. Slike regler kan fravike [konkursloven § 146](lov/1984-06-08-58/§146).
 

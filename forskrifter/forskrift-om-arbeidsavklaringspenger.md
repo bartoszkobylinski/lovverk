@@ -28,17 +28,29 @@ Forskriften gir nærmere regler om arbeidsavklaringspenger etter [folketrygdlove
 
 ## § 2. Arbeidsrettet tiltak
 
-Med et arbeidsrettet tiltak etter [folketrygdloven § 11-6](lov/1997-02-28-19/§11-6) menestiltak etter [forskrift 11. desember 2015 nr. 1598](forskrift/2015-12-11-1598) om arbeidsmarkedstiltak (tiltaksforskriften), med unntak av varig tilrettelagt arbeid i forskriften [kapittel 14](forskrift/2015-12-11-1598/kap14),etablering av egen virksomhet, se [folketrygdloven § 11-15](lov/1997-02-28-19/§11-15), ogandre aktiviteter i regi av offentlige eller private virksomheter, herunder frivillige aktører, som er egnet til å styrke medlemmets mulighet for overgang til arbeid.
+Med et arbeidsrettet tiltak etter [folketrygdloven § 11-6](lov/1997-02-28-19/§11-6) menes
+
+1. tiltak etter [forskrift 11. desember 2015 nr. 1598](forskrift/2015-12-11-1598) om arbeidsmarkedstiltak (tiltaksforskriften), med unntak av varig tilrettelagt arbeid i forskriften [kapittel 14](forskrift/2015-12-11-1598/kap14),
+2. etablering av egen virksomhet, se [folketrygdloven § 11-15](lov/1997-02-28-19/§11-15), og
+3. andre aktiviteter i regi av offentlige eller private virksomheter, herunder frivillige aktører, som er egnet til å styrke medlemmets mulighet for overgang til arbeid.
 
 Forsøk med hjemmel i § 12 i [lov om arbeidsmarkedstjenester (arbeidsmarkedsloven)](lov/2004-12-10-76/§12) kan anses som et arbeidsrettet tiltak, dersom det framgår av forskriften at deltakeren har rett på arbeidsavklaringspenger.
 
 ## § 3. Fravær fra fastsatt aktivitet
 
-Fravær som skyldes sterke velferdsgrunner skal ikke føre til stans av ytelsen, se [folketrygdloven § 11-8](lov/1997-02-28-19/§11-8) tredje ledd. Fravær utover ti virkedager per kalenderår skal likevel føre til stans. Det kan blant annet godkjennes fravær:i inntil tre dager for tilvenning av barn i barnehage, førskole eller hos dagmamma,pleie i hjemmet av en nær pårørende, elleri inntil tre dager ved dødsfall i nær familie eller vennekrets.
+Fravær som skyldes sterke velferdsgrunner skal ikke føre til stans av ytelsen, se [folketrygdloven § 11-8](lov/1997-02-28-19/§11-8) tredje ledd. Fravær utover ti virkedager per kalenderår skal likevel føre til stans. Det kan blant annet godkjennes fravær:
+
+1. i inntil tre dager for tilvenning av barn i barnehage, førskole eller hos dagmamma,
+2. pleie i hjemmet av en nær pårørende, eller
+3. i inntil tre dager ved dødsfall i nær familie eller vennekrets.
 
 ## § 4. Reduksjon av arbeidsavklaringspenger ved brudd på nærmere bestemte aktivitetsplikter
 
-Arbeidsavklaringspengene skal reduseres med hjemmel i [folketrygdloven § 11-9](lov/1997-02-28-19/§11-9) tilsvarende én dags ytelse, dersom medlemmet unnlater å:møte med Arbeids- og velferdsetaten etter innkalling, se [folketrygdloven § 11-7](lov/1997-02-28-19/§11-7), ellermøte som avtalt på arbeidsrettet tiltak, behandling eller utredning, se [folketrygdloven § 11-7](lov/1997-02-28-19/§11-7), ellergi de opplysningene og levere de dokumentene som Arbeids- og velferdsetaten krever framlagt i medhold av [folketrygdloven § 21-3](lov/1997-02-28-19/§21-3) innen angitt frist.
+Arbeidsavklaringspengene skal reduseres med hjemmel i [folketrygdloven § 11-9](lov/1997-02-28-19/§11-9) tilsvarende én dags ytelse, dersom medlemmet unnlater å:
+
+1. møte med Arbeids- og velferdsetaten etter innkalling, se [folketrygdloven § 11-7](lov/1997-02-28-19/§11-7), eller
+2. møte som avtalt på arbeidsrettet tiltak, behandling eller utredning, se [folketrygdloven § 11-7](lov/1997-02-28-19/§11-7), eller
+3. gi de opplysningene og levere de dokumentene som Arbeids- og velferdsetaten krever framlagt i medhold av [folketrygdloven § 21-3](lov/1997-02-28-19/§21-3) innen angitt frist.
 
 Dersom medlemmet hadde rimelig grunn til å unnlate å oppfylle aktivitetsplikten etter første ledd bokstavene a til c, skal reduksjonen i ytelsen tilbakeføres til medlemmet.
 

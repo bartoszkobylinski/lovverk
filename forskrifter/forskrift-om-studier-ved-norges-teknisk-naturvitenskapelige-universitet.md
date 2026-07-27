@@ -15,7 +15,7 @@ xml_hash: "1f2ab0d018c5292409c305292d9ca3695cb1b9bf24ed44488552b6216fd901b1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,11 @@ Graden høgskolekandidat tildeles for 2-årige utdanninger av 120 studiepoeng me
 
 ### § 2-3. Bachelorgrad
 
-(1) Graden bachelor tildeles for 3-årige utdanninger av 180 studiepoeng. Grunnlaget for graden skal omfatte ett av følgende:Studieprogram av 180 studiepoengs omfang som i henhold til nasjonal rammeplan gir bachelorgrad.Integrert yrkesrettet utdanning eller annet fullført studieprogram av 120 studiepoengs omfang kombinert med godkjent og fullført påbygging eller spesialisering innenfor samme eller tilgrensende fag/fagområde av minimum 60 studiepoengs omfang.Fordypning av minst 80 studiepoengs omfang, der studieplanen definerer kravet til fordypningen. Fellesemner inngår der det er bestemt av NTNUs styre.
+(1) Graden bachelor tildeles for 3-årige utdanninger av 180 studiepoeng. Grunnlaget for graden skal omfatte ett av følgende:
+
+1. Studieprogram av 180 studiepoengs omfang som i henhold til nasjonal rammeplan gir bachelorgrad.
+2. Integrert yrkesrettet utdanning eller annet fullført studieprogram av 120 studiepoengs omfang kombinert med godkjent og fullført påbygging eller spesialisering innenfor samme eller tilgrensende fag/fagområde av minimum 60 studiepoengs omfang.
+3. Fordypning av minst 80 studiepoengs omfang, der studieplanen definerer kravet til fordypningen. Fellesemner inngår der det er bestemt av NTNUs styre.
 
 (2) For utøvende og skapende musikkutdanning er bachelorgradens omfang 180 eller 240 studiepoeng.
 
@@ -64,7 +68,11 @@ Graden høgskolekandidat tildeles for 2-årige utdanninger av 120 studiepoeng me
 
 (1) Krav til innhold og omfang i mastergrad framgår av [forskrift 28. juni 2024 nr. 1392 til universitets- og høyskoleloven](forskrift/2024-06-28-1392).
 
-(2) Graden master tildeles formastergrad av 120 studiepoengs omfangintegrert mastergrad av 300 studiepoengs omfang der kravene til bachelorgraden er inkluderterfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang.
+(2) Graden master tildeles for
+
+1. mastergrad av 120 studiepoengs omfang
+2. integrert mastergrad av 300 studiepoengs omfang der kravene til bachelorgraden er inkludert
+3. erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang.
 
 ### § 2-5. Cand.med. og cand.psychol.
 
@@ -90,9 +98,23 @@ NTNU kan inngå fellesgrader med andre institusjoner som tilbyr grader og utdann
 
 ### § 2-9. Gradsbenevnelser – generelt
 
-(1) Dersom annet ikke er fastsatt i nasjonal rammeplan, benyttes følgende gradsbenevnelser:Høgskolekandidat i ingeniørfagBachelor i (programnavn)Master i (programnavn)Master i (programnavn) / lektorMaster i teknologiMaster i ingeniørfag.
+(1) Dersom annet ikke er fastsatt i nasjonal rammeplan, benyttes følgende gradsbenevnelser:
 
-(2) Følgende gradsbenevnelser benyttes for internasjonale masterprogram (her gis vitnemålet på engelsk og det stilles ikke krav om norskkunnskaper ved opptak):Master of PhilosophyMaster of Fine ArtMaster of Technology ManagementMaster of Science in EngineeringMaster of Science in (programme of study)Master of Arts in (programme of study).
+- Høgskolekandidat i ingeniørfag
+- Bachelor i (programnavn)
+- Master i (programnavn)
+- Master i (programnavn) / lektor
+- Master i teknologi
+- Master i ingeniørfag.
+
+(2) Følgende gradsbenevnelser benyttes for internasjonale masterprogram (her gis vitnemålet på engelsk og det stilles ikke krav om norskkunnskaper ved opptak):
+
+- Master of Philosophy
+- Master of Fine Art
+- Master of Technology Management
+- Master of Science in Engineering
+- Master of Science in (programme of study)
+- Master of Arts in (programme of study).
 
 (3) Styret kan fastsette annen gradsbenevnelse.
 
@@ -136,7 +158,13 @@ Studieretten opphører når studiet er fullført og bestått. Det samme gjelder 
 
 ### § 3-3. Tap av studierett
 
-(1) Fakultetet selv fatter vedtak om tap av studierett. Studenten kan tape studieretten når studenten:ikke betaler semesteravgift eller kursavgift/studieavgift.ikke har fullført studieprogrammet på normert tid med tillegg av 50 % eksklusive permisjoner. Det kan avtales individuell utdanningsplan som går ut over dette.ikke har produsert studiepoeng de siste tre semestrene i det studieprogrammet studenten er tatt opp til. Det kan avtales individuell utdanningsplan som går ut over dette.har gjennomført samme obligatoriske praksis to ganger, uten bestått resultat.har brukt opp sine forsøk til vurdering i et emne som ifølge studieplanen er obligatorisk.
+(1) Fakultetet selv fatter vedtak om tap av studierett. Studenten kan tape studieretten når studenten:
+
+- ikke betaler semesteravgift eller kursavgift/studieavgift.
+- ikke har fullført studieprogrammet på normert tid med tillegg av 50 % eksklusive permisjoner. Det kan avtales individuell utdanningsplan som går ut over dette.
+- ikke har produsert studiepoeng de siste tre semestrene i det studieprogrammet studenten er tatt opp til. Det kan avtales individuell utdanningsplan som går ut over dette.
+- har gjennomført samme obligatoriske praksis to ganger, uten bestått resultat.
+- har brukt opp sine forsøk til vurdering i et emne som ifølge studieplanen er obligatorisk.
 
 (2) Ved vurdering av tap av studierett for studenter tatt opp før 1. januar 2016, skal det regelverket som er til gunst for studenten legges til grunn hvis [§ 3-3](forskrift/2025-03-06-384/§3-3) er i konflikt med bestemmelser som gjaldt da NTNU og høyskolene ble fusjonert. Overgangsordningen gjelder ut studieåret 2026/27.
 
@@ -194,9 +222,32 @@ Undervisningsspråket skal være norsk, jf. [uhl. § 2-3 tredje ledd](lov/2024-0
 
 (1) Alle studieprogram skal være beskrevet i en studieplan. Det fakultetet som administrerer studieprogrammet, vedtar studieplan. Rektor vedtar studieplanen for sivilingeniørutdanningen, de 5-årige lektorutdanningene og den 3-årige rammeplanstyrte ingeniørutdanningen. Studieplanen skal gi opplysninger om eventuelle opptakskrav og rangeringsregler for studieprogrammet.
 
-(2) Studieplanen skal minimum fastsette:henvisning til eventuell nasjonal rammeplanforventet læringsutbyttehvilke emner som inngåromfang i studiepoenghvilket fakultet som administrerer studieprogrammetmulighet for utvekslingsopphold i utlandethvilke emner som til sammen utgjør fordypningen i bachelorgradenoppbyggingen av studieprogrammet, studieretninger, eventuelle fellesemner, hva som er obligatorisk og valgfritt, og rekkefølgen på emneneeventuelle betingelser til studieprogresjon.
+(2) Studieplanen skal minimum fastsette:
 
-(3) Alle emner skal være beskrevet i en emnebeskrivelse. Hver emnebeskrivelse skal minimum inneholde:forventet læringsutbytteforkunnskapskravundervisningssemesterfaginnholdlæringsformerundervisningsspråkemnets omfang i studiepoenghvilke aktiviteter som er obligatoriskevurderingsform og karakterskalavekting av delvurderingene som inngår i sluttkarakterenom vurderingsform kan bli endret for utsatt eksamenstudiepoengreduksjoner.
+- henvisning til eventuell nasjonal rammeplan
+- forventet læringsutbytte
+- hvilke emner som inngår
+- omfang i studiepoeng
+- hvilket fakultet som administrerer studieprogrammet
+- mulighet for utvekslingsopphold i utlandet
+- hvilke emner som til sammen utgjør fordypningen i bachelorgraden
+- oppbyggingen av studieprogrammet, studieretninger, eventuelle fellesemner, hva som er obligatorisk og valgfritt, og rekkefølgen på emnene
+- eventuelle betingelser til studieprogresjon.
+
+(3) Alle emner skal være beskrevet i en emnebeskrivelse. Hver emnebeskrivelse skal minimum inneholde:
+
+- forventet læringsutbytte
+- forkunnskapskrav
+- undervisningssemester
+- faginnhold
+- læringsformer
+- undervisningsspråk
+- emnets omfang i studiepoeng
+- hvilke aktiviteter som er obligatoriske
+- vurderingsform og karakterskala
+- vekting av delvurderingene som inngår i sluttkarakteren
+- om vurderingsform kan bli endret for utsatt eksamen
+- studiepoengreduksjoner.
 
 (4) Rektor kan vedta retningslinjer for utforming av studieprogram og emner.
 
@@ -236,7 +287,10 @@ Emnene som tilbys skal være på 7,5 studiepoeng eller multiplum av dette. Rekto
 
 ### § 4-11. Fellesemner
 
-(1) Alle studieprogram som fører til lavere grad og integrerte studieprogram som fører til høyere grad eller profesjonsgrad, skal inneholde to fellesemner:Ex.phil. på 7,5 studiepoeng.Områdeemne på 7,5 studiepoeng.
+(1) Alle studieprogram som fører til lavere grad og integrerte studieprogram som fører til høyere grad eller profesjonsgrad, skal inneholde to fellesemner:
+
+1. Ex.phil. på 7,5 studiepoeng.
+2. Områdeemne på 7,5 studiepoeng.
 
 (2) Rektor vedtar nærmere bestemmelser for fellesemnene og kan fastsette unntak for enkelte studieprogram.
 
@@ -293,7 +347,15 @@ Rektor fastsetter regler for eksamensavvikling.
 
 (3) Det er ikke anledning til å fremstille seg til vurdering i samme emne mer enn tre ganger. Fakultetet kan innvilge et fjerde forsøk. Dersom det foreligger særskilte behov hos studenten, kan fakultetet innvilge et femte og siste forsøk. Antall forsøk følger person, ikke studieretten.
 
-(4) Tellende forsøk er når studentenhar beståttfår karakteren F / Ikke beståtttrekker seg etter avmeldingsfristens utløpikke møter til eksamenikke leverer besvarelse i en vurdering/delvurdering i et emnehar møtt til eksamen, men velger å trekke seg under eksamenfår sin vurdering annullert på grunn av fusk, forsøk på fusk, falskt vitnemål eller annen uredelig opptreden, jf. [uhl. § 12-4](lov/2024-03-08-9/§12-4).
+(4) Tellende forsøk er når studenten
+
+- har bestått
+- får karakteren F / Ikke bestått
+- trekker seg etter avmeldingsfristens utløp
+- ikke møter til eksamen
+- ikke leverer besvarelse i en vurdering/delvurdering i et emne
+- har møtt til eksamen, men velger å trekke seg under eksamen
+- får sin vurdering annullert på grunn av fusk, forsøk på fusk, falskt vitnemål eller annen uredelig opptreden, jf. [uhl. § 12-4](lov/2024-03-08-9/§12-4).
 
 (5) For studenter tatt opp ved NTNU før 1. januar 2016 telles forsøk fra og med studieåret 2016/17. Overgangsbestemmelsen gjelder ut studieåret 2026/27.
 
@@ -507,9 +569,22 @@ Fakultetet selv har myndighet til å gi skriftlig advarsel etter [uhl. §§ 12-5
 
 ### § 6-6. Fusk eller forsøk på fusk
 
-(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:Å handle i strid med gjeldende regler for den spesifikke eksamenÅ bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamenÅ presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitatÅ levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selvÅ levere besvarelse som er utarbeidet av andre enn studenten(e) selvUreglementert samarbeid mellom studenter eller grupperFabrikkering eller forfalskning av dataUrettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starterGjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette.
+(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:
 
-(2) Fusk og forsøk på fusk behandles etter [uhl. § 12-4](lov/2024-03-08-9/§12-4). Dette gjelder også forsettlig medvirkning. Følgende reaksjoner kan vedtas:Annullering av eksamen (vurdering) eller obligatorisk aktivitetUtestenging fra NTNU og fratakelse av retten til å gå opp til eksamen ved andre institusjoner som går inn under [universitets- og høyskoleloven](lov/2024-03-08-9) inntil ett år. I særlig grove tilfeller kan studenten utestenges i inntil to år.
+- Å handle i strid med gjeldende regler for den spesifikke eksamen
+- Å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen
+- Å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat
+- Å levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selv
+- Å levere besvarelse som er utarbeidet av andre enn studenten(e) selv
+- Ureglementert samarbeid mellom studenter eller grupper
+- Fabrikkering eller forfalskning av data
+- Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+- Gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette.
+
+(2) Fusk og forsøk på fusk behandles etter [uhl. § 12-4](lov/2024-03-08-9/§12-4). Dette gjelder også forsettlig medvirkning. Følgende reaksjoner kan vedtas:
+
+- Annullering av eksamen (vurdering) eller obligatorisk aktivitet
+- Utestenging fra NTNU og fratakelse av retten til å gå opp til eksamen ved andre institusjoner som går inn under [universitets- og høyskoleloven](lov/2024-03-08-9) inntil ett år. I særlig grove tilfeller kan studenten utestenges i inntil to år.
 
 (3) Ved urettmessig gjenbruk av eget tidligere arbeid er reaksjonen kun annullering.
 

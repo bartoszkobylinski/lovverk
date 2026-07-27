@@ -15,7 +15,7 @@ xml_hash: "ca3b425218d054c73219358f49104be7c0b3b94b4d1bb56b7424b2dffcfc226b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -118,7 +118,12 @@ Enkeltvedtak fattet i medhold av denne forskriften kan påklages til Landbruks- 
 
 ## § 14. Ikrafttredelse
 
-Forskriften trer i kraft 1. januar 2010. Fra samme tidspunkt gjøres følgende endringer:[forskrift 21. desember 2004 nr. 1821](forskrift/2004-12-21-1821) om tilskudd i form av prisnedskrivning til industrielt bearbeidede jordbruksvarer oppheves[forskrift 21. desember 2004 nr. 1746](forskrift/2004-12-21-1746) om tilskudd til industrielt bearbeidede jordbruksvarer ved eksport og leveranse til spesialmarkeder oppheves[forskrift 12. mars 2009 nr. 299](forskrift/2009-03-12-299) om satser for prisnedskriving til industrielt bearbeidede jordbruksvarer oppheves§ 1 i [forskrift 28. januar 2005 nr. 60](forskrift/2005-01-28-60) om satser for visse tilskuddsordninger for bearbeidede jordbruksvarer oppheves.
+Forskriften trer i kraft 1. januar 2010. Fra samme tidspunkt gjøres følgende endringer:
+
+- [forskrift 21. desember 2004 nr. 1821](forskrift/2004-12-21-1821) om tilskudd i form av prisnedskrivning til industrielt bearbeidede jordbruksvarer oppheves
+- [forskrift 21. desember 2004 nr. 1746](forskrift/2004-12-21-1746) om tilskudd til industrielt bearbeidede jordbruksvarer ved eksport og leveranse til spesialmarkeder oppheves
+- [forskrift 12. mars 2009 nr. 299](forskrift/2009-03-12-299) om satser for prisnedskriving til industrielt bearbeidede jordbruksvarer oppheves
+- § 1 i [forskrift 28. januar 2005 nr. 60](forskrift/2005-01-28-60) om satser for visse tilskuddsordninger for bearbeidede jordbruksvarer oppheves.
 
 ## Vedlegg 1: Råvarer omfattet av forskriften
 

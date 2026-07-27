@@ -15,7 +15,7 @@ xml_hash: "80caaac1445eb97d7a2bf2040a23f0fb67d8f17627544f2f1d79dae33aee7238"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,23 @@ Omkretsen i fiskeposen eller forlengelsen fastsettes ved å telle antall åpne m
 
 ### § 4. Maskevidde i stormasket trål og snurrevad
 
-Det er forbudt å bruke trål eller snurrevad dersom det i noen del av redskapet er mindre maskevidde enn fastsatt i denne bestemmelsen.Nord for 64° N:Trål: 130 mm.Flytetrål etter uer: 100 mm.Snurrevad: 125 mmSør for 64° N:Trål og snurrevad: 120 mm.I Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholm fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr kan det ved fiske med trål og ved bruk av seleksjonspanel brukes en fiskepose med maskevidde ned til 90 mm.I trålens undervinger og underbelg kan det brukes mindre maskevidde enn 90 mm.I fiskeposen skal det være innmontert et seleksjonspanel som skal være minimum 3 meter langt og være laget av kvadratmasker med en minste maskevidde på 140 mm eller av diamantmasker med en minste maskevidde på 270 mm. Seleksjonspanelet skal være plassert i overpanelet på fiskeposen ikke lengre frem enn 4 meter fra sekkeknuten. Panelet skal ha lik bredde i hele sin lengde og ha samme bredde som overpanelet i fiskeposen (være festet fra leis til leis). Seleksjonspanel av diamantmasker er kun tillatt ved bruk av 4-panels fiskepose, og panelet skal da være montert med 3 masker i 90 mm til en maske i 270 mm.I Skagerrak, jf. bokstav b, kan det ved fiske etter sjøkreps brukes maskevidde ned til 70 mm dersom det samtidig brukes sorteringsrist. Fiskeposen skal være laget av kvadratmasker.Ved fiske etter torsk med snurrevad med fartøy på eller over 11 meter største lengde innenfor 4 nautiske mil av grunnlinjene nord for 62° N er minste tillatte maskevidde i fiskeposen 130 mm.
+Det er forbudt å bruke trål eller snurrevad dersom det i noen del av redskapet er mindre maskevidde enn fastsatt i denne bestemmelsen.
+
+1. Nord for 64° N:
+
+   1. Trål: 130 mm.
+   2. Flytetrål etter uer: 100 mm.
+   3. Snurrevad: 125 mm
+2. Sør for 64° N:
+
+   1. Trål og snurrevad: 120 mm.
+   2. I Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholm fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr kan det ved fiske med trål og ved bruk av seleksjonspanel brukes en fiskepose med maskevidde ned til 90 mm.
+
+      I trålens undervinger og underbelg kan det brukes mindre maskevidde enn 90 mm.
+
+      I fiskeposen skal det være innmontert et seleksjonspanel som skal være minimum 3 meter langt og være laget av kvadratmasker med en minste maskevidde på 140 mm eller av diamantmasker med en minste maskevidde på 270 mm. Seleksjonspanelet skal være plassert i overpanelet på fiskeposen ikke lengre frem enn 4 meter fra sekkeknuten. Panelet skal ha lik bredde i hele sin lengde og ha samme bredde som overpanelet i fiskeposen (være festet fra leis til leis). Seleksjonspanel av diamantmasker er kun tillatt ved bruk av 4-panels fiskepose, og panelet skal da være montert med 3 masker i 90 mm til en maske i 270 mm.
+   3. I Skagerrak, jf. bokstav b, kan det ved fiske etter sjøkreps brukes maskevidde ned til 70 mm dersom det samtidig brukes sorteringsrist. Fiskeposen skal være laget av kvadratmasker.
+3. Ved fiske etter torsk med snurrevad med fartøy på eller over 11 meter største lengde innenfor 4 nautiske mil av grunnlinjene nord for 62° N er minste tillatte maskevidde i fiskeposen 130 mm.
 
 > Endret ved forskrifter [22 feb 2022 nr. 292](forskrift/2022-02-22-292), [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [21 des 2023 nr. 2288](forskrift/2023-12-21-2288) (i kraft 1 jan 2024), [20 des 2024 nr. 3496](forskrift/2024-12-20-3496) (i kraft 1 jan 2025).
 
@@ -64,7 +80,17 @@ Uten hinder av [§ 4](forskrift/2021-12-23-3910/§4) kan det brukes følgende ma
 
 Uten hinder av [§ 4](forskrift/2021-12-23-3910/§4) kan kystfartøy under 15 meter største lengde bruke snurrevad med maskevidder mellom 16 mm og 70 mm ved fiske etter sild vest av grunnlinjene fra 64° N og videre sørover til grensen mot Skagerrak, samt i følgende område:
 
-Innenfor grunnlinjene i et område øst for Utsira definert ved følgende koordinater:N 59° 38,554′ Ø 005° 04,355′ (på grunnlinjen)N 59° 33,490′ Ø 005° 08,520′N 59° 32,799′ Ø 005° 14,460′og videre fra:N 59° 16,206′ Ø 005° 31,174′N 59° 06,999′ Ø 005° 30,407′N 59° 06,999′ Ø 005° 12,615′ (på grunnlinjen).
+Innenfor grunnlinjene i et område øst for Utsira definert ved følgende koordinater:
+
+1. N 59° 38,554′ Ø 005° 04,355′ (på grunnlinjen)
+2. N 59° 33,490′ Ø 005° 08,520′
+3. N 59° 32,799′ Ø 005° 14,460′
+
+og videre fra:
+
+1. N 59° 16,206′ Ø 005° 31,174′
+2. N 59° 06,999′ Ø 005° 30,407′
+3. N 59° 06,999′ Ø 005° 12,615′ (på grunnlinjen).
 
 > Endret ved forskrift [1 mars 2022 nr. 321](forskrift/2022-03-01-321).
 
@@ -86,7 +112,10 @@ Det er tillatt å feste fløytkuler på inn- eller utsiden av fiskeposen for å 
 
 Det er tillatt å bruke rundstropper i trål og snurrevad.
 
-Ved bruk av stormasket trål og snurrevad er det bare tillatt å bruke rundstropper på poser som er laget i diamantmasket lin eller nett når disse brukes slik som anvist nedenfor:Avstanden mellom hver rundstropp skal være minst 1 meter.Rundstroppene skal være festet utvendig på tvers av fiskeposen rundt samme maskerekke og skal ha minst to festepunkter.
+Ved bruk av stormasket trål og snurrevad er det bare tillatt å bruke rundstropper på poser som er laget i diamantmasket lin eller nett når disse brukes slik som anvist nedenfor:
+
+1. Avstanden mellom hver rundstropp skal være minst 1 meter.
+2. Rundstroppene skal være festet utvendig på tvers av fiskeposen rundt samme maskerekke og skal ha minst to festepunkter.
 
 Rundstroppene skal være lengre enn 50 % av fiskeposens omkrets målt med strukket maske på det sted hvor rundstroppene er festet til fiskeposen. Rundstroppenes lengde mellom festepunktene skal være minst 50 % av avstanden mellom festepunktene. Rundstroppene skal måles slik:
 
@@ -110,7 +139,13 @@ Ved fiske med snurrevad nord for 62° N er det kun tillatt å bruke fiskelås fo
 
 ### § 10. Fiskepose og forlengelse i stormasket trål og snurrevad
 
-Sør for 62° N gjelder følgende ved fiske med stormasket trål og snurrevad:Det er forbudt å bruke trål eller snurrevad der forlengelsen og fiskeposen til sammen er lengre enn 36 meter.Det er forbudt å bruke trål eller snurrevad hvor omkretsen på strukket maske øker fra forkant av forlengelsen til enden av fiskeposen.Det er forbudt å bruke trål eller snurrevad som ikke har lik lengde og bredde på over- og underpanelet i forlengelsen og i fiskeposen.Det er forbudt å bruke trål eller snurrevad med trådtykkelse på over 8 mm enkeltråd eller 5 mm dobbeltråd i fiskeposen.Det er forbudt å bruke trål eller snurrevad som ikke har samme trådmateriale, samme nettype og enten enkeltråd eller dobbeltråd i fiskeposen.
+Sør for 62° N gjelder følgende ved fiske med stormasket trål og snurrevad:
+
+1. Det er forbudt å bruke trål eller snurrevad der forlengelsen og fiskeposen til sammen er lengre enn 36 meter.
+2. Det er forbudt å bruke trål eller snurrevad hvor omkretsen på strukket maske øker fra forkant av forlengelsen til enden av fiskeposen.
+3. Det er forbudt å bruke trål eller snurrevad som ikke har lik lengde og bredde på over- og underpanelet i forlengelsen og i fiskeposen.
+4. Det er forbudt å bruke trål eller snurrevad med trådtykkelse på over 8 mm enkeltråd eller 5 mm dobbeltråd i fiskeposen.
+5. Det er forbudt å bruke trål eller snurrevad som ikke har samme trådmateriale, samme nettype og enten enkeltråd eller dobbeltråd i fiskeposen.
 
 Ved fiske med snurrevad nord for 62° N er det for fartøy på eller over 21 meter største lengde kun tillatt å bruke fiskepose og forlengelser som er laget i kvadratmasket nett. For fartøy fra og med 11 meter til og med 20,99 meter største lengde kan det benyttes diamantmasket forlengelser på maksimum 15 meter. For fartøy under 11 meter største lengde er det påbudt å bruke kvadratmasket fiskepose. Fiskeposer og forlengelser skal være utformet og innmontert i henhold til vedleggene 1a og 1b i denne forskriften. Bestemmelsene om krav til utforming av forlengelser gjelder fra og med 1. mai 2025.
 
@@ -126,7 +161,12 @@ Ved bruk av fangstbegrensningssystem i kombinasjon med kvadratmasket fiskepose k
 
 ### § 12. Påbud om bruk av sorteringsrist
 
-Med mindre annet er bestemt skal det brukes sorteringsristsystem i trålen i følgende tilfeller:Ved fiske med stormasket trål nord for 62° NVed fiske med reketrålVed fiske etter kolmule og øyepål med småmasket trålVed fiske etter sjøkreps i Skagerrak, jf. [§ 4](forskrift/2021-12-23-3910/§4) nr. 2 bokstav b.
+Med mindre annet er bestemt skal det brukes sorteringsristsystem i trålen i følgende tilfeller:
+
+1. Ved fiske med stormasket trål nord for 62° N
+2. Ved fiske med reketrål
+3. Ved fiske etter kolmule og øyepål med småmasket trål
+4. Ved fiske etter sjøkreps i Skagerrak, jf. [§ 4](forskrift/2021-12-23-3910/§4) nr. 2 bokstav b.
 
 Fiskeridirektoratet kan fastsette krav til utforming og innmontering av sorteringsristen.
 
@@ -146,7 +186,13 @@ Ved bruk av småmasket redskap, jf. [§ 5](forskrift/2021-12-23-3910/§5), skal 
 
 ### § 14. Partråling etter bunnfisk med stormasket trål sør for 62° N
 
-Fartøy med adgang til å drive partråling etter bunnfisk sør for 62° N kan på følgende vilkår fordele kvantumet ved landing, uavhengig av hvilket fartøy som fører fangsten:Fartøyene må være skriftlig påmeldt som partrållag til vedkommende salgslag før fisket tar til.Fartøyene i partrållaget må fiske med samme redskap. To fartøy kan da dra trålen ved å være tilkoblet selve trålredskapet i hver sin side. Det er ikke tillatt å bruke tråldører under partråling.Dersom fangst som tas i forbindelse med partråling deles, skal minimum 20 % av fangsten pr. landing fordeles til de aktuelle fartøyene. Det skal alltid føres fangst på det fartøy som lander fangsten.Ved innmelding av fangst til vedkommende salgslag og ved landing skal det gis oppgave over at fangsten er tatt som partrållag.Et fartøy kan ikke dele fangst med mer enn tre andre fartøy i løpet av kvoteåret.
+Fartøy med adgang til å drive partråling etter bunnfisk sør for 62° N kan på følgende vilkår fordele kvantumet ved landing, uavhengig av hvilket fartøy som fører fangsten:
+
+1. Fartøyene må være skriftlig påmeldt som partrållag til vedkommende salgslag før fisket tar til.
+2. Fartøyene i partrållaget må fiske med samme redskap. To fartøy kan da dra trålen ved å være tilkoblet selve trålredskapet i hver sin side. Det er ikke tillatt å bruke tråldører under partråling.
+3. Dersom fangst som tas i forbindelse med partråling deles, skal minimum 20 % av fangsten pr. landing fordeles til de aktuelle fartøyene. Det skal alltid føres fangst på det fartøy som lander fangsten.
+4. Ved innmelding av fangst til vedkommende salgslag og ved landing skal det gis oppgave over at fangsten er tatt som partrållag.
+5. Et fartøy kan ikke dele fangst med mer enn tre andre fartøy i løpet av kvoteåret.
 
 Et fartøy kan likevel dele fangst med nytt fartøy dersom tidligere fartøy i partrållaget er utgått av merkeregisteret som følge av en strukturordning.
 
@@ -156,7 +202,11 @@ Et fartøy kan likevel dele fangst med nytt fartøy dersom tidligere fartøy i p
 
 Det er forbudt å bruke fiskepose i snurrevad som er laget av tvunnet diamantmasket knuteløst nett.
 
-Ved fiske med snurrevad i området innenfor 4 nm fra grunnlinjene er det forbudt å bruke snurrevad som har:En kuletelne eller grunntelne som er lengre enn 123 meter fra vingespiss til vingespiss.En total omkrets i åpningen større enn 156 meter målt på strukket maske.Mer enn 2000 meter taulengde (9 kveiler à 220 meter). Tauets farge skal være lys grønn. Dersom samlet taulengde på vinsjetromlene overstiger grensen som er tillatt å bruke i fisket, skal resten av tauets lengde ha en gjennomgående svart farge og være plassert innerst på tautrommelen. Frem til og med 31. desember 2025 er det, som et alternativ til å anvende svart tau innerst på tautrommelen, tillatt å sette inn tau med svart farge mellom kveil nummer 9 og kveil nummer 10. De svarte tauene skal settes inn på både styrbord og babord tau og være minimum 10 meter lange. Under fiske skal overgangen mellom den grønne og den svarte delen på minst ett av tauene være lett observerbar foran blokka eller i blokka der tauene går ut bak fartøyet.
+Ved fiske med snurrevad i området innenfor 4 nm fra grunnlinjene er det forbudt å bruke snurrevad som har:
+
+1. En kuletelne eller grunntelne som er lengre enn 123 meter fra vingespiss til vingespiss.
+2. En total omkrets i åpningen større enn 156 meter målt på strukket maske.
+3. Mer enn 2000 meter taulengde (9 kveiler à 220 meter). Tauets farge skal være lys grønn. Dersom samlet taulengde på vinsjetromlene overstiger grensen som er tillatt å bruke i fisket, skal resten av tauets lengde ha en gjennomgående svart farge og være plassert innerst på tautrommelen. Frem til og med 31. desember 2025 er det, som et alternativ til å anvende svart tau innerst på tautrommelen, tillatt å sette inn tau med svart farge mellom kveil nummer 9 og kveil nummer 10. De svarte tauene skal settes inn på både styrbord og babord tau og være minimum 10 meter lange. Under fiske skal overgangen mellom den grønne og den svarte delen på minst ett av tauene være lett observerbar foran blokka eller i blokka der tauene går ut bak fartøyet.
 
 Det er forbudt å fiske torsk og hyse pelagisk med trål eller snurrevad. Med pelagisk trål eller snurrevad menes et redskap der ingen av redskapets deler er i berøring med havbunnen under høsting.
 
@@ -174,11 +224,28 @@ Det er forbudt å tråle etter sjøkreps med trål innenfor 4 nautiske mil fra g
 
 ### § 16. Begrensninger i bruk av småmasket trål
 
-Det er forbudt å fiske øyepål, tobis og kolmule i et område i Norges økonomiske sone avgrenset av rette linjer mellom følgende posisjoner:59° 30′ N 01° 50,3′ Ø59° 30′ N 03° 00,0′ Ø59° 00′ N 03° 00,0′ Ø59° 00′ N 01° 38,4′ ØFra posisjon nr. 4 langs yttergrensen av Norges økonomiske sone til posisjon nr. 1.
+Det er forbudt å fiske øyepål, tobis og kolmule i et område i Norges økonomiske sone avgrenset av rette linjer mellom følgende posisjoner:
 
-I tidsrommet fra og med 1. oktober til og med 31. mai, er det forbudt å fiske øyepål og kolmule i et område i Norges økonomiske sone avgrenset av rette linjer mellom følgende posisjoner:58° 37′ N 03° 44′ Ø58° 15′ N 04° 19′ Ø57° 49′ N 05° 48′ Ø57° 33′ N 05° 02′ Ø58° 29′ N 03° 02′ Ø
+1. 59° 30′ N 01° 50,3′ Ø
+2. 59° 30′ N 03° 00,0′ Ø
+3. 59° 00′ N 03° 00,0′ Ø
+4. 59° 00′ N 01° 38,4′ Ø
 
-Innenfor grunnlinjene er det på følgende kyststrekninger forbudt å bruke bunntrål på grunnere vann enn angitt nedenfor:Svenskegrensen–Jærens rev: 60 mJærens rev til og med Trøndelag fylke: 100 mNordland, Troms og Finnmark fylker: 170 m
+Fra posisjon nr. 4 langs yttergrensen av Norges økonomiske sone til posisjon nr. 1.
+
+I tidsrommet fra og med 1. oktober til og med 31. mai, er det forbudt å fiske øyepål og kolmule i et område i Norges økonomiske sone avgrenset av rette linjer mellom følgende posisjoner:
+
+1. 58° 37′ N 03° 44′ Ø
+2. 58° 15′ N 04° 19′ Ø
+3. 57° 49′ N 05° 48′ Ø
+4. 57° 33′ N 05° 02′ Ø
+5. 58° 29′ N 03° 02′ Ø
+
+Innenfor grunnlinjene er det på følgende kyststrekninger forbudt å bruke bunntrål på grunnere vann enn angitt nedenfor:
+
+1. Svenskegrensen–Jærens rev: 60 m
+2. Jærens rev til og med Trøndelag fylke: 100 m
+3. Nordland, Troms og Finnmark fylker: 170 m
 
 Det er forbudt å fiske polartorsk med pelagisk trål.
 
@@ -275,9 +342,20 @@ Akustiske pingere skal festes i flytelinen på garnene. Det skal ikke være stø
 
 ### § 25. Rapportering ved bruk av faststående redskap og fløytline
 
-Følgende fartøy skal rapportere faststående redskap og fløytline til Kystvakten:Fartøy som fisker med faststående redskap og fløytline utenfor fjordlinjene nord for 62° NFartøy som fisker med faststående redskap og fløytline utenfor grunnlinjene sør for 62° med unntak av Skagerrak, jf. [§ 4](forskrift/2021-12-23-3910/§4) nr. 2 bokstav bFartøy som fangster kongekrabbe.Fartøy som fisker breiflabb og kveite med garn og line.Fartøy som fisker blåkveite med garn nord for 62° N.
+Følgende fartøy skal rapportere faststående redskap og fløytline til Kystvakten:
 
-Rapporteringsplikten i første ledd omfatter følgende:Lokalisering av faststående redskap og fløytline ved settingOppdatert informasjon om lokalisering av redskap skal rapporteres minst en gang hver fjortende dag etter setting. Informasjon eldre enn fjorten dager blir slettet. Oppdatert informasjon om lokalisering av redskap for fartøy som fangster snøkrabbe skal rapporteres minst en gang hver tredje uke etter setting. Informasjon eldre enn tre uker blir slettet.Fjerning av redskap ved avslutning av fisket.Antall meter garn eller antall krok i de enkelte lenkene/settene ved fiske etter breiflabb og kveite.
+1. Fartøy som fisker med faststående redskap og fløytline utenfor fjordlinjene nord for 62° N
+2. Fartøy som fisker med faststående redskap og fløytline utenfor grunnlinjene sør for 62° med unntak av Skagerrak, jf. [§ 4](forskrift/2021-12-23-3910/§4) nr. 2 bokstav b
+3. Fartøy som fangster kongekrabbe.
+4. Fartøy som fisker breiflabb og kveite med garn og line.
+5. Fartøy som fisker blåkveite med garn nord for 62° N.
+
+Rapporteringsplikten i første ledd omfatter følgende:
+
+1. Lokalisering av faststående redskap og fløytline ved setting
+2. Oppdatert informasjon om lokalisering av redskap skal rapporteres minst en gang hver fjortende dag etter setting. Informasjon eldre enn fjorten dager blir slettet. Oppdatert informasjon om lokalisering av redskap for fartøy som fangster snøkrabbe skal rapporteres minst en gang hver tredje uke etter setting. Informasjon eldre enn tre uker blir slettet.
+3. Fjerning av redskap ved avslutning av fisket.
+4. Antall meter garn eller antall krok i de enkelte lenkene/settene ved fiske etter breiflabb og kveite.
 
 Meldingene skal sendes elektronisk på et format som muliggjør automatisk meldingshåndtering.
 
@@ -287,9 +365,27 @@ Meldingene skal sendes elektronisk på et format som muliggjør automatisk meldi
 
 Det er forbudt for fartøy over 21,35 meter som fisker med liner og som har maskinelt egningsutstyr om bord, å sette line innenfor 4 nautiske mil fra grunnlinjene langs norskekysten fra grensen mot Sverige til grensen mot Russland.
 
-I tidsrommet fra og med 1. september til og med 31. desember er det forbudt for fartøy over 21,35 meter som fisker med liner og som har maskinelt egningsutstyr om bord, å sette line innenfor 10 nautiske mil fra grunnlinjene i følgende områder:Et område utenfor kysten av Finnmark/Troms avgrenset av en linje trukket fra70° 41,16′ N 021° 30,00′ Ø (4 n mil grense) til70° 47,52′ N 021° 30,00′ Ø (10 n mil fra grunnlinjene) langs 10 nautiske mil fra grunnlinjene til70° 36,32′ N 020° 00,00′ Ø (10 n mil fra grunnlinjene) til70° 29,90′ N 020° 00,00′ Ø (4 n mil grense).Et område utenfor kysten av Troms avgrenset av en linje trukket fra70° 05,47′ N 018° 07,43′ Ø (4 n mil grense) til70° 08,98′ N 017° 52,98′ Ø (10 n mil fra grunnlinjene) langs 10 nautiske mil fra grunnlinjene til69° 35,50′ N 016° 27,45′ Ø (10 n mil fra grunnlinjene) til69° 29,99′ N 016° 34,76′ Ø (4 n mil grense).
+I tidsrommet fra og med 1. september til og med 31. desember er det forbudt for fartøy over 21,35 meter som fisker med liner og som har maskinelt egningsutstyr om bord, å sette line innenfor 10 nautiske mil fra grunnlinjene i følgende områder:
 
-I tidsrommet fra og med 1. september til og med 30. april er det forbudt for fartøy over 21,35 meter som fisker med liner og som har maskinelt egningsutstyr om bord, å sette line innenfor 10 nautiske mil fra grunnlinjene i et område utenfor kysten av Nordland avgrenset av en linje trukket fra69° 20,00′ N 015° 44,71′ Ø (4 n mil grense) til69° 20,00′ N 015° 16,59′ Ø (10 n mil fra grunnlinjene) langs 10 nautiske mil fra grunnlinjene til67° 30,00′ N 011° 25,33′ Ø (10 n mil fra grunnlinjene) til67° 30,00′ N 011° 41,75′ Ø (4 n mil grense).
+1. Et område utenfor kysten av Finnmark/Troms avgrenset av en linje trukket fra
+
+   1. 70° 41,16′ N 021° 30,00′ Ø (4 n mil grense) til
+   2. 70° 47,52′ N 021° 30,00′ Ø (10 n mil fra grunnlinjene) langs 10 nautiske mil fra grunnlinjene til
+   3. 70° 36,32′ N 020° 00,00′ Ø (10 n mil fra grunnlinjene) til
+   4. 70° 29,90′ N 020° 00,00′ Ø (4 n mil grense).
+2. Et område utenfor kysten av Troms avgrenset av en linje trukket fra
+
+   1. 70° 05,47′ N 018° 07,43′ Ø (4 n mil grense) til
+   2. 70° 08,98′ N 017° 52,98′ Ø (10 n mil fra grunnlinjene) langs 10 nautiske mil fra grunnlinjene til
+   3. 69° 35,50′ N 016° 27,45′ Ø (10 n mil fra grunnlinjene) til
+   4. 69° 29,99′ N 016° 34,76′ Ø (4 n mil grense).
+
+I tidsrommet fra og med 1. september til og med 30. april er det forbudt for fartøy over 21,35 meter som fisker med liner og som har maskinelt egningsutstyr om bord, å sette line innenfor 10 nautiske mil fra grunnlinjene i et område utenfor kysten av Nordland avgrenset av en linje trukket fra
+
+1. 69° 20,00′ N 015° 44,71′ Ø (4 n mil grense) til
+2. 69° 20,00′ N 015° 16,59′ Ø (10 n mil fra grunnlinjene) langs 10 nautiske mil fra grunnlinjene til
+3. 67° 30,00′ N 011° 25,33′ Ø (10 n mil fra grunnlinjene) til
+4. 67° 30,00′ N 011° 41,75′ Ø (4 n mil grense).
 
 Områdebegrensningene i denne paragrafen gjelder ikke ved fiske med fløytline etter hyse.
 
@@ -347,7 +443,16 @@ Fiskeridirektoratet kan dispensere fra forbudet i første ledd for personer som 
 
 Det er forbudt for fartøy på eller over 15 meter største lengde å fiske innenfor fjordlinjene som er angitt i vedlegg 4.
 
-Forbudet i første ledd gjelder ikke:Fra N 68° 15,60′ Ø 15° 55,70′ og sørover langs kysten for annet fiske enn etter torsk og etter sei med notFiske etter sei med not nord for Kibergsneset mellom N 70° 17,34′ Ø 31° 03,83′ og N 70° 21,70′ Ø 31° 08,66′, i ytre del av Laksefjorden, i ytre del av Porsangerfjorden og i et område innenfor Sørøya mellom N 70° 58,00′ Ø 24° 32,10′ og N 70° 23,50′ Ø 21° 42,48′ med fartøy under 28 meter største lengde. Høstingen må foregå utenfor linjer som er angitt i vedlegg 5. Fartøyet skal være påmeldt hos Fiskeridirektoratet og kan pålegges særskilte krav til rapporteringFiske med reketrål med fartøy under 19,81 meter største lengdeFangste kongekrabbe med teiner med fartøy under 21,35 meter største lengdeFiske etter sild med not i områder sør for N 70° 40,50′ og vest for Ø 20° 00,00′ med fartøy under 21 meter største lengdeFiske etter sild med not i perioden fra og med 1. september til og med 31. mars i statistikkområde 05, unntatt i Kaldfjorden og Bergsfjorden i Troms slik disse områdene er avgrenset i tredje ledd.Fiske etter makrell fra og med Troms og sørover med fartøy under 28 meter største lengde, med unntak av i Ofoten øst for en linje mellom N 68° 24,73′ Ø 16° 00,70′ og N 68° 13,49′ Ø 16° 04,70′.Fiske etter andre fiskeslag enn torsk med andre konvensjonelle redskaper enn snurrevad med fartøy under 21 meter største lengde
+Forbudet i første ledd gjelder ikke:
+
+1. Fra N 68° 15,60′ Ø 15° 55,70′ og sørover langs kysten for annet fiske enn etter torsk og etter sei med not
+2. Fiske etter sei med not nord for Kibergsneset mellom N 70° 17,34′ Ø 31° 03,83′ og N 70° 21,70′ Ø 31° 08,66′, i ytre del av Laksefjorden, i ytre del av Porsangerfjorden og i et område innenfor Sørøya mellom N 70° 58,00′ Ø 24° 32,10′ og N 70° 23,50′ Ø 21° 42,48′ med fartøy under 28 meter største lengde. Høstingen må foregå utenfor linjer som er angitt i vedlegg 5. Fartøyet skal være påmeldt hos Fiskeridirektoratet og kan pålegges særskilte krav til rapportering
+3. Fiske med reketrål med fartøy under 19,81 meter største lengde
+4. Fangste kongekrabbe med teiner med fartøy under 21,35 meter største lengde
+5. Fiske etter sild med not i områder sør for N 70° 40,50′ og vest for Ø 20° 00,00′ med fartøy under 21 meter største lengde
+6. Fiske etter sild med not i perioden fra og med 1. september til og med 31. mars i statistikkområde 05, unntatt i Kaldfjorden og Bergsfjorden i Troms slik disse områdene er avgrenset i tredje ledd.
+7. Fiske etter makrell fra og med Troms og sørover med fartøy under 28 meter største lengde, med unntak av i Ofoten øst for en linje mellom N 68° 24,73′ Ø 16° 00,70′ og N 68° 13,49′ Ø 16° 04,70′.
+8. Fiske etter andre fiskeslag enn torsk med andre konvensjonelle redskaper enn snurrevad med fartøy under 21 meter største lengde
 
 Dersom det er nødvendig av hensyn til praktisk gjennomføring av fisket, og det er vurdert som forsvarlig ut fra biologiske og økosystembaserte betraktninger, kan Fiskeridirektoratet i særlige tilfeller gjøre unntak fra forbudet i første ledd i bestemte fiskerier for bestemte fartøygrupper i bestemte områder for et bestemt tidsrom. Det kan likevel ikke gis adgang til å fiske sild med not med fartøy over 21 meter største lengde eller makrell med fartøy over 28 meter største lengde i Kaldfjorden i Troms innenfor en rett linje mellom posisjon N 69° 49,81′ Ø 018° 39,56′ (Klubbeneset) og N 69° 48,29′ Ø 018° 38,37′ (Røsneset) og Bergsfjorden i Troms innenfor linjer trukket mellom følgende posisjoner: På fjordlinjen ved Ø 017° 12,03′ videre sørvestover langs fjordlinjen til Ø 017° 05,00′ og videre til N 69° 24,811′ Ø 017° 08,420′ (Hellandsneset lykt).
 
@@ -357,7 +462,12 @@ Dersom det er nødvendig av hensyn til praktisk gjennomføring av fisket, og det
 
 Det er forbudt å bruke snurrevad innenfor fjordlinjene som er angitt i vedlegg 4.
 
-Forbudet i første ledd gjelder ikke:Dersom det er fastsatt spesifikke unntak for fartøy under 11 meter største lengde i medhold av årlig forskrift om regulering av fisket etter torsk, hyse og sei nord for 62° N.Fisket etter flyndre og lysing med fartøy under 11 meter største lengde i tidsrommet fra og med 1. juni til og med 31. desember. Ved fisket etter flyndre skal maskevidden i fiskeposen være minst 170 mm.Fisket etter hyse med fartøy under 11 meter største lengde i tidsrommet fra og med 1. juli til og med 30. september. Snurrevaden må ha innmontert artsseperasjonssystem i henhold til vedlegg 6. Maskevidden i den kvadratmaskede delen skal ikke overstige 200 mm. Maskevidden i ledepanelene tilhørende systemet kan være mindre enn 130 mm. Underdelen skal være åpent i bakkant under fiske slik at torsk og annen bifangst fritt slippes ut. Det er tillatt å ha inntil 10 % bifangst av torsk i vekt i de enkelte fangster og ved landing dersom bifangsten kan avregnes fartøyets kvote eller ferskfiskordningen.Fartøy under 11 meter største lengde og 4,5 meter største bredde, som i tillegg har lasteromstørrelse under 20 m3, og hvor dette er dokumentert overfor Fiskeridirektoratet, med mindre det gjelder forbud mot fiske med snurrevad i medhold av lokal reguleringsforskrift. Det er ikke adgang til å bruke snurrevad som er større enn en 120 maskers not (talt opp langs ene vingen) à 300 mm maskevidde (helmasker), med kuletelne og grunntelne ikke lengre enn 90 meter fra vingespiss til vingespiss, med total omkrets i åpningen ikke større enn 90 meter målt på strukket maske og maksimal taulengde ikke mer enn 880 meter (4 kveiler à 220 meter).
+Forbudet i første ledd gjelder ikke:
+
+1. Dersom det er fastsatt spesifikke unntak for fartøy under 11 meter største lengde i medhold av årlig forskrift om regulering av fisket etter torsk, hyse og sei nord for 62° N.
+2. Fisket etter flyndre og lysing med fartøy under 11 meter største lengde i tidsrommet fra og med 1. juni til og med 31. desember. Ved fisket etter flyndre skal maskevidden i fiskeposen være minst 170 mm.
+3. Fisket etter hyse med fartøy under 11 meter største lengde i tidsrommet fra og med 1. juli til og med 30. september. Snurrevaden må ha innmontert artsseperasjonssystem i henhold til vedlegg 6. Maskevidden i den kvadratmaskede delen skal ikke overstige 200 mm. Maskevidden i ledepanelene tilhørende systemet kan være mindre enn 130 mm. Underdelen skal være åpent i bakkant under fiske slik at torsk og annen bifangst fritt slippes ut. Det er tillatt å ha inntil 10 % bifangst av torsk i vekt i de enkelte fangster og ved landing dersom bifangsten kan avregnes fartøyets kvote eller ferskfiskordningen.
+4. Fartøy under 11 meter største lengde og 4,5 meter største bredde, som i tillegg har lasteromstørrelse under 20 m3, og hvor dette er dokumentert overfor Fiskeridirektoratet, med mindre det gjelder forbud mot fiske med snurrevad i medhold av lokal reguleringsforskrift. Det er ikke adgang til å bruke snurrevad som er større enn en 120 maskers not (talt opp langs ene vingen) à 300 mm maskevidde (helmasker), med kuletelne og grunntelne ikke lengre enn 90 meter fra vingespiss til vingespiss, med total omkrets i åpningen ikke større enn 90 meter målt på strukket maske og maksimal taulengde ikke mer enn 880 meter (4 kveiler à 220 meter).
 
 > Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [12 jan 2023 nr. 36](forskrift/2023-01-12-36).
 
@@ -463,7 +573,14 @@ Det er forbudt å fiske uer med konvensjonelle redskaper nord for 62° N. Forbud
 
 ### § 40. Forbudsområde for kveite
 
-Det er forbudt å fiske kveite i Norges økonomiske sone innenfor et område avgrenset av rette linjer mellom følgende posisjoner:N 66° 03′ Ø 006° 54′N 66° 00′ Ø 008° 00′N 65° 44′ Ø 008° 11′N 65° 22′ Ø 007° 39′N 65° 04′ Ø 006° 20′N 65° 30′ Ø 005° 51′.
+Det er forbudt å fiske kveite i Norges økonomiske sone innenfor et område avgrenset av rette linjer mellom følgende posisjoner:
+
+1. N 66° 03′ Ø 006° 54′
+2. N 66° 00′ Ø 008° 00′
+3. N 65° 44′ Ø 008° 11′
+4. N 65° 22′ Ø 007° 39′
+5. N 65° 04′ Ø 006° 20′
+6. N 65° 30′ Ø 005° 51′.
 
 ### § 40a. (Opphevet)
 
@@ -503,9 +620,16 @@ Fiskeridirektoratet kan fastsette nærmere regler om prøvetaking og beregning a
 
 ### § 43. Bifangst ved fiske med reketrål
 
-Ved fiske etter reker med trål sør for 62° N er det tillatt å ha fisk som bifangst, med følgende begrensninger:Det er forbudt å ha kveite som bifangst.Ved høsting utenfor 4 nautiske mil fra grunnlinjene kan samlet bifangst av torsk og hyse ikke overstige 15 % i vekt i de enkelte fangster og ved landing.Det er tillatt å ha inntil 5 % samlet bifangst av vassild og strømsild i vekt i de enkelte fangster og ved landing.
+Ved fiske etter reker med trål sør for 62° N er det tillatt å ha fisk som bifangst, med følgende begrensninger:
 
-Uavhengig av første ledd er det for norske fartøy forbudt å ha mer enn:15 % bifangst av breiflabb i vekt i de enkelte fangster og ved landing, og10 % bifangst av torsk i vekt i de enkelte fangster og ved landing, med mindre annet er fastsatt i årlig reguleringsforskrift for torsk i Nordsjøen og Skagerrak.
+1. Det er forbudt å ha kveite som bifangst.
+2. Ved høsting utenfor 4 nautiske mil fra grunnlinjene kan samlet bifangst av torsk og hyse ikke overstige 15 % i vekt i de enkelte fangster og ved landing.
+3. Det er tillatt å ha inntil 5 % samlet bifangst av vassild og strømsild i vekt i de enkelte fangster og ved landing.
+
+Uavhengig av første ledd er det for norske fartøy forbudt å ha mer enn:
+
+1. 15 % bifangst av breiflabb i vekt i de enkelte fangster og ved landing, og
+2. 10 % bifangst av torsk i vekt i de enkelte fangster og ved landing, med mindre annet er fastsatt i årlig reguleringsforskrift for torsk i Nordsjøen og Skagerrak.
 
 > Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [20 des 2024 nr. 3496](forskrift/2024-12-20-3496) (i kraft 1 jan 2025), [18 mai 2026 nr. 837](forskrift/2026-05-18-837).
 
@@ -519,7 +643,10 @@ Ved fiske med garn er det uten hinder av [§ 21](forskrift/2021-12-23-3910/§21)
 
 Ved fiske med garn eller liner nord for 62° N er det uten hinder av [§ 39](forskrift/2021-12-23-3910/§39) tillatt å ha inntil 1 % bifangst av kveite, regnet i rund vekt per uke basert på summen av all fangst fisket i tidsrommet fra mandag kl. 00.00 til søndag klokken 24.00. For fartøy som ikke lander flere fangster per uke beregnes bifangsten i vekt i de enkelte fangster og ved landing. Det er likevel ikke tillatt å ha mer enn 0,5 % bifangst av kveite i rund vekt basert på summen av all fangst fisket i perioden fra og med 20. desember til og med 20. april.
 
-Ved fiske med garn eller liner sør for 62° N gjelder følgende bestemmelser om bifangst av kveite, regnet i rundt vekt:I perioden fra og med 20. desember til og med 20. april er det uten hinder av [§ 39](forskrift/2021-12-23-3910/§39) tillatt å ha inntil 1 % bifangst av kveite per uke, basert på summen av all fangst fisket i tidsrommet fra mandag kl. 00:00 til søndag kl. 24:00. For fartøy som ikke lander flere fangster per uke skal bifangsten beregnes i vekt i de enkelte fangster og ved landing. Uavhengig av første setning er det likevel ikke tillatt å ha mer enn 0,5 % bifangst av kveite basert på summen av all fangst fisket i hele perioden.I perioden fra og med 21. april til og med 19. desember er det uten hinder av [§ 39](forskrift/2021-12-23-3910/§39) tillatt å ha inntil 2,5 % bifangst av kveite per uke, basert på summen av all fangst fisket i tidsrommet fra mandag kl. 00:00 til søndag kl. 24:00. For fartøy som ikke lander flere fangster per uke skal bifangsten beregnes i vekt i de enkelte fangster og ved landing.
+Ved fiske med garn eller liner sør for 62° N gjelder følgende bestemmelser om bifangst av kveite, regnet i rundt vekt:
+
+1. I perioden fra og med 20. desember til og med 20. april er det uten hinder av [§ 39](forskrift/2021-12-23-3910/§39) tillatt å ha inntil 1 % bifangst av kveite per uke, basert på summen av all fangst fisket i tidsrommet fra mandag kl. 00:00 til søndag kl. 24:00. For fartøy som ikke lander flere fangster per uke skal bifangsten beregnes i vekt i de enkelte fangster og ved landing. Uavhengig av første setning er det likevel ikke tillatt å ha mer enn 0,5 % bifangst av kveite basert på summen av all fangst fisket i hele perioden.
+2. I perioden fra og med 21. april til og med 19. desember er det uten hinder av [§ 39](forskrift/2021-12-23-3910/§39) tillatt å ha inntil 2,5 % bifangst av kveite per uke, basert på summen av all fangst fisket i tidsrommet fra mandag kl. 00:00 til søndag kl. 24:00. For fartøy som ikke lander flere fangster per uke skal bifangsten beregnes i vekt i de enkelte fangster og ved landing.
 
 Bestemmelsene i fjerde og femte ledd tillater kun bifangst av kveite som ikke er levedyktig når den kommer om bord. All levedyktig fangst av kveite i fredningstiden skal straks slippes på sjøen.
 
@@ -622,7 +749,12 @@ Det er forbudt å fiske fisk mindre enn:
 
 ### § 48. Unntak fra minstemålbestemmelsene
 
-Minstemålene gjelder ikke for:Sei og makrell som ikke skal omsettesMakrell som fiskes med garn og krokredskaperNotfanget makrell som låssettes og anvendes til konsumformålMakrell i Skagerrak, jf. § 4 nr. 2 bokstav b, som anvendes til konsumformål eller agn.
+Minstemålene gjelder ikke for:
+
+1. Sei og makrell som ikke skal omsettes
+2. Makrell som fiskes med garn og krokredskaper
+3. Notfanget makrell som låssettes og anvendes til konsumformål
+4. Makrell i Skagerrak, jf. § 4 nr. 2 bokstav b, som anvendes til konsumformål eller agn.
 
 Fiskeridirektoratet kan i særlige tilfeller dispensere fra minstemålet for agnfiske av sei som ikke er til eget agnforbruk. Fiskeridirektoratets klagesaksenhet er klageinstans.
 
@@ -650,7 +782,12 @@ Ved fiske etter blåkveite nord for 62° N er det tillatt å ha 15 % blåkveite
 
 Ved fiske etter uer nord for 62° N er det tillatt å ha inntil 15 % uer under minstemål i antall i de enkelte fangster.
 
-Ved fiske etter reker nord for 62° N skal innblanding av fisk pr. 10 kg reker ikke overstige:8 eksemplarer torsk under minstemål20 eksemplarer hyse under minstemål3 eksemplarer blåkveite under minstemål3 eksemplarer uer (Sebastes norvegicus, Sebastes mentella og Sebastes viviparus) under 32 cm.
+Ved fiske etter reker nord for 62° N skal innblanding av fisk pr. 10 kg reker ikke overstige:
+
+1. 8 eksemplarer torsk under minstemål
+2. 20 eksemplarer hyse under minstemål
+3. 3 eksemplarer blåkveite under minstemål
+4. 3 eksemplarer uer (Sebastes norvegicus, Sebastes mentella og Sebastes viviparus) under 32 cm.
 
 Ved fiske etter lodde nord for 62° N er det pr. tonn lodde tillatt å ha inntil 300 eksemplarer av hver av artene torsk, hyse, blåkveite og sild under minstemål.
 
@@ -664,7 +801,38 @@ Ved fiske etter kystbrisling sør for 62° N er det tillatt å ha inntil 20 % b
 
 ### § 50. Stenging av områder for å begrense fangst av fisk under minstemål
 
-For å begrense fangst av fisk under minstemål, kan Fiskeridirektoratet:Forby fiske i visse områder nord for 62° N dersom innblanding av reker, torsk, hyse, sei, blåkveite og uer under minstemål overskrider det som fremgår av [§ 49](forskrift/2021-12-23-3910/§49) første og fjerde til ellevte leddForby fiske med trål og snurrevad i visse områder sør for 62° dersom det ved fiske med stormasket trål eller snurrevad er større innblanding enn til sammen 15 % torsk, sei, hyse og hvitting under minstemål i antall i de enkelte fangster.Området kan stenges i inntil 14 dager, hvoretter det gjenåpnes automatisk.Størrelsen på området kan være inntil 500 kvadratnautiske mil utenfor Skagerrak, jf. § 4 nr. 2 bokstav b, og inntil 250 kvadratnautiske mil i Skagerrak.Innenfor det stengte området kan det likevel fiskes med:reketrål dersom sorteringsrist er installert i trålen og oppsamlingspose ikke er påmontertpelagisk trål etter makrell, hestmakrell eller sildandre konvensjonelle redskap enn snurrevad.Forby høsting av reker i visse områder sør for 62° N utenfor Skagerrak, jf. § 4 nr. 2 bokstav b dersom det ved fiske etter reker er større innblanding enn 15 % reke under minstemål i antall i de enkelte fangster.Området kan stenges i inntil 14 dager, hvoretter det gjenåpnes automatisk.Størrelsen på området kan være inntil 500 kvadratnautiske mil.Fiskeridirektoratet kan tillate fiske innenfor det stengte området dersom det er innmontert seleksjonssystemer for utsortering av reker under minstemål.Forby fiske etter reker i visse områder i Skagerrak, jf. [§ 4 nr. 2 bokstav b](forskrift/2021-12-23-3910/§4/nummer/2/bokstav/b), dersom det ved fiske etter reker er større innblanding enn 20 % reke under minstemål i antall i de enkelte fangster.Området kan stenges i inntil 21 dager, hvoretter det gjenåpnes automatisk.Størrelsen på området kan være inntil 100 kvadratnautiske mil.Forby fiske etter tobis i visse områder dersom det ved fiske etter tobis er større innblanding enn 10 % tobis under minstemål i antall i de enkelte fangster.Området kan stenges i inntil 7 dager, hvoretter området gjenåpnes automatisk.Forby fiske etter tobis i visse områder, dersom innblanding av andre arter under minstemål til sammen overstiger 20 stk. pr. 100 kg i de enkelte fangster.Området kan stenges i inntil 7 dager, hvoretter området gjenåpnes automatisk.
+For å begrense fangst av fisk under minstemål, kan Fiskeridirektoratet:
+
+1. Forby fiske i visse områder nord for 62° N dersom innblanding av reker, torsk, hyse, sei, blåkveite og uer under minstemål overskrider det som fremgår av [§ 49](forskrift/2021-12-23-3910/§49) første og fjerde til ellevte ledd
+2. Forby fiske med trål og snurrevad i visse områder sør for 62° dersom det ved fiske med stormasket trål eller snurrevad er større innblanding enn til sammen 15 % torsk, sei, hyse og hvitting under minstemål i antall i de enkelte fangster.
+
+   Området kan stenges i inntil 14 dager, hvoretter det gjenåpnes automatisk.
+
+   Størrelsen på området kan være inntil 500 kvadratnautiske mil utenfor Skagerrak, jf. § 4 nr. 2 bokstav b, og inntil 250 kvadratnautiske mil i Skagerrak.
+
+   Innenfor det stengte området kan det likevel fiskes med:
+
+   1. reketrål dersom sorteringsrist er installert i trålen og oppsamlingspose ikke er påmontert
+   2. pelagisk trål etter makrell, hestmakrell eller sild
+   3. andre konvensjonelle redskap enn snurrevad.
+3. Forby høsting av reker i visse områder sør for 62° N utenfor Skagerrak, jf. § 4 nr. 2 bokstav b dersom det ved fiske etter reker er større innblanding enn 15 % reke under minstemål i antall i de enkelte fangster.
+
+   Området kan stenges i inntil 14 dager, hvoretter det gjenåpnes automatisk.
+
+   Størrelsen på området kan være inntil 500 kvadratnautiske mil.
+
+   Fiskeridirektoratet kan tillate fiske innenfor det stengte området dersom det er innmontert seleksjonssystemer for utsortering av reker under minstemål.
+4. Forby fiske etter reker i visse områder i Skagerrak, jf. [§ 4 nr. 2 bokstav b](forskrift/2021-12-23-3910/§4/nummer/2/bokstav/b), dersom det ved fiske etter reker er større innblanding enn 20 % reke under minstemål i antall i de enkelte fangster.
+
+   Området kan stenges i inntil 21 dager, hvoretter det gjenåpnes automatisk.
+
+   Størrelsen på området kan være inntil 100 kvadratnautiske mil.
+5. Forby fiske etter tobis i visse områder dersom det ved fiske etter tobis er større innblanding enn 10 % tobis under minstemål i antall i de enkelte fangster.
+
+   Området kan stenges i inntil 7 dager, hvoretter området gjenåpnes automatisk.
+6. Forby fiske etter tobis i visse områder, dersom innblanding av andre arter under minstemål til sammen overstiger 20 stk. pr. 100 kg i de enkelte fangster.
+
+   Området kan stenges i inntil 7 dager, hvoretter området gjenåpnes automatisk.
 
 Fiskeridirektoratet kan forby fiske etter lodde i visse områder nord for 62° N dersom innblanding av lodde, torsk, hyse, sei og blåkveite under minstemål overskrider det som fremgår av [§ 49 første](forskrift/2021-12-23-3910/§49/ledd/1) og [tolvte ledd](forskrift/2021-12-23-3910/§49/ledd/12).
 
@@ -690,7 +858,70 @@ Det skal foretas lengdemåling av representative prøver av hvert notkast etter 
 
 ### § 51. Ilandføringsplikt
 
-All fangst skal føres i land. Dette gjelder likevel ikke:Levedyktig fangst høstet i strid med bestemmelser gitt i eller med hjemmel i [havressursloven](lov/2008-06-06-37). Slik fangst skal straks slippes på sjøen.Lovlig fangst som er levedyktig når den slippes på sjøen.Død eller døende fangst av andre arter enn:AkkarAnsjosBlåkveiteBlålangeBlåsteinbitBreiflabbBrislingBrosmeBrudefisk (beryx)DolkfiskFlekkpagellFlekksteinbitFlyndreGlassvarGlatthodefiskGråsteinbitHai unntatt brugde, håbrann og håkjerringHavabborHestmakrellHyseHvittingIsgaltKolmuleKongekrabbeKveiteLangeLoddeLyrLysingMakrellMakrellstørjeMoriderOrange RoughyPiggvarPolartorskReke (*Pandalus borealis*)RognkjeksSardinSeiSildSjøkrepsSkateSkjellbrosmeSkolestSlettvarSlirefiskSnøkrabbeStrømsildTobisTorskTungerUerVassildVrakfiskØyepålÅl.Bifangst av andre arter enn reke ved fiske med reketrål nord for 62° N dersom samlet bifangst ikke overstiger 5 % i vekt av rekefangsten i det enkelte hal.Fangst av kolmule og øyepål ved fiske med reketrål sør for 62° N.Fangst av kveite med totallengde over 2 meter eller lengde uten hode over 160 cm målt som korteste avstand fra spord til gjellebue (buet bein) foran brystfinne. Slik fangst skal straks slippes på sjøen. Påbudet gjelder uavhengig av om kveiten er levedyktig eller død eller dødende.
+All fangst skal føres i land. Dette gjelder likevel ikke:
+
+- Levedyktig fangst høstet i strid med bestemmelser gitt i eller med hjemmel i [havressursloven](lov/2008-06-06-37). Slik fangst skal straks slippes på sjøen.
+- Lovlig fangst som er levedyktig når den slippes på sjøen.
+- Død eller døende fangst av andre arter enn:
+- Akkar
+- Ansjos
+- Blåkveite
+- Blålange
+- Blåsteinbit
+- Breiflabb
+- Brisling
+- Brosme
+- Brudefisk (beryx)
+- Dolkfisk
+- Flekkpagell
+- Flekksteinbit
+- Flyndre
+- Glassvar
+- Glatthodefisk
+- Gråsteinbit
+- Hai unntatt brugde, håbrann og håkjerring
+- Havabbor
+- Hestmakrell
+- Hyse
+- Hvitting
+- Isgalt
+- Kolmule
+- Kongekrabbe
+- Kveite
+- Lange
+- Lodde
+- Lyr
+- Lysing
+- Makrell
+- Makrellstørje
+- Morider
+- Orange Roughy
+- Piggvar
+- Polartorsk
+- Reke (*Pandalus borealis*)
+- Rognkjeks
+- Sardin
+- Sei
+- Sild
+- Sjøkreps
+- Skate
+- Skjellbrosme
+- Skolest
+- Slettvar
+- Slirefisk
+- Snøkrabbe
+- Strømsild
+- Tobis
+- Torsk
+- Tunger
+- Uer
+- Vassild
+- Vrakfisk
+- Øyepål
+- Ål.
+- Bifangst av andre arter enn reke ved fiske med reketrål nord for 62° N dersom samlet bifangst ikke overstiger 5 % i vekt av rekefangsten i det enkelte hal.
+- Fangst av kolmule og øyepål ved fiske med reketrål sør for 62° N.
+- Fangst av kveite med totallengde over 2 meter eller lengde uten hode over 160 cm målt som korteste avstand fra spord til gjellebue (buet bein) foran brystfinne. Slik fangst skal straks slippes på sjøen. Påbudet gjelder uavhengig av om kveiten er levedyktig eller død eller dødende.
 
 All fangst av snøkrabbe over minstemål skal føres i land.
 
@@ -728,7 +959,12 @@ Det er ikke tillatt å ha om bord rister eller utstyr som kan brukes i avsilings
 
 Med mindre hele fangsten er fryst om bord i fartøyet, er det forbudt å ha om bord sorteringsmaskin som er i stand til automatisk å sortere makrell, sild, kolmule eller hestmakrell etter størrelse.
 
-Dette forbudet gjelder ikke:dersom sorteringsmaskin er fjernet fra strømkilde(r), eller hydraulikk på sorteringsmaskinen er frakoblet, på en slik måte at sorteringsmaskinen ikke kan brukes, og det som hindrer bruk av sorteringsmaskinen er forseglet av Fiskeridirektoratet før starten av fisketuren,for fiskefartøy som frakter mer enn 75 % av fangsten fryst eller er hvor fangsten fryses under den turen,dersom fiskefartøy er utstyrt med elektroniske systemer som overvåker etterlevelse av landingsplikten, ellerdersom fiskefartøy har observatører om bord med det formål å overvåke etterlevelse av landingsplikten.
+Dette forbudet gjelder ikke:
+
+1. dersom sorteringsmaskin er fjernet fra strømkilde(r), eller hydraulikk på sorteringsmaskinen er frakoblet, på en slik måte at sorteringsmaskinen ikke kan brukes, og det som hindrer bruk av sorteringsmaskinen er forseglet av Fiskeridirektoratet før starten av fisketuren,
+2. for fiskefartøy som frakter mer enn 75 % av fangsten fryst eller er hvor fangsten fryses under den turen,
+3. dersom fiskefartøy er utstyrt med elektroniske systemer som overvåker etterlevelse av landingsplikten, eller
+4. dersom fiskefartøy har observatører om bord med det formål å overvåke etterlevelse av landingsplikten.
 
 Dersom Fiskeridirektoratet ikke har anledning til å foreta forsegling som beskrevet i annet ledd bokstav a kan fisker foreta forsegling, dokumentere forseglingen med bilder som tydelig viser hva som er forseglet og oversende bildene umiddelbart per e-post til [fmc@fiskeridir.no](mailto:fmc@fiskeridir.no) for verifikasjon. Når forseglingen brytes skal fisker dokumentere dette med bilder som oversendes per e-post til [fmc@fiskeridir.no](mailto:fmc@fiskeridir.no). Begge e-postene merkes med «Sorteringsmaskin» og fartøyets navn, kallesignal og registreringsmerke.
 
@@ -752,7 +988,23 @@ Ved fiske etter reker sør for 62° N er det ikke tillatt å ha sollebrett i sol
 
 ### § 56. Tids- og områdebegrenset trålforbud
 
-Det er forbudt å fiske med trål i følgende områder og til følgende tider:Jennegga–Malangsgrunnen avgrenset av rette linjer trukket mellom følgende posisjoner:68° 50′ N 13° 50′ Ø (ved territorialgrensen)69° 09′ N 13° 37′ Ø69° 33′ N 15° 32′ Ø70° 00′ N 16° 28′ Ø70° 00′ N 17° 28′ Ø (ved territorialgrensen)i tidsrommet fra og med 20. oktober til og med 20. mars.På Storegga avgrenset av rette linjer trukket mellom følgende posisjoner:63° 00′ N 05° 15′ Ø63° 00′ N 04° 53′ Ø63° 27′ N 05° 24′ Ø63° 27′ N 05° 48′ Ø.
+Det er forbudt å fiske med trål i følgende områder og til følgende tider:
+
+1. Jennegga–Malangsgrunnen avgrenset av rette linjer trukket mellom følgende posisjoner:
+
+   - 68° 50′ N 13° 50′ Ø (ved territorialgrensen)
+   - 69° 09′ N 13° 37′ Ø
+   - 69° 33′ N 15° 32′ Ø
+   - 70° 00′ N 16° 28′ Ø
+   - 70° 00′ N 17° 28′ Ø (ved territorialgrensen)
+
+   i tidsrommet fra og med 20. oktober til og med 20. mars.
+2. På Storegga avgrenset av rette linjer trukket mellom følgende posisjoner:
+
+   - 63° 00′ N 05° 15′ Ø
+   - 63° 00′ N 04° 53′ Ø
+   - 63° 27′ N 05° 24′ Ø
+   - 63° 27′ N 05° 48′ Ø.
 
 Forbudet på Storegga gjelder hele året og bare for fartøy større enn 35 meter største lengde. Fiskeridirektoratet kan gjøre unntak fra forbudet for enkelte fartøy når særlige grunner tilsier det.
 
@@ -770,7 +1022,11 @@ Reguleringer iverksatt av Kystvakten skal så snart som mulig stadfestes av Fisk
 
 ### § 58. Forbud mot fiske i områder i Fiskevernsonen ved Svalbard og Svalbards territorialfarvann
 
-Med unntak av fiske etter reker med trål og skraping av skjell er det ikke tillatt å drive høsting i følgende områder:Innenfor 20 nautiske mil fra grunnlinjene rundt Bjørnøya avgrenset av fiskevernsonen.Innenfor 15 nautiske mil fra grunnlinjene på vestsiden av Spitsbergen fra Sørkapp til 77° 30′ N.Innenfor 20 nautiske mil fra grunnlinjene på vestsiden av Spitsbergen nord for 77° 30′ N og vest for 14° Ø.
+Med unntak av fiske etter reker med trål og skraping av skjell er det ikke tillatt å drive høsting i følgende områder:
+
+1. Innenfor 20 nautiske mil fra grunnlinjene rundt Bjørnøya avgrenset av fiskevernsonen.
+2. Innenfor 15 nautiske mil fra grunnlinjene på vestsiden av Spitsbergen fra Sørkapp til 77° 30′ N.
+3. Innenfor 20 nautiske mil fra grunnlinjene på vestsiden av Spitsbergen nord for 77° 30′ N og vest for 14° Ø.
 
 > Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [12 juli 2024 nr. 1724](forskrift/2024-07-12-1724).
 
@@ -778,11 +1034,34 @@ Med unntak av fiske etter reker med trål og skraping av skjell er det ikke till
 
 Det er forbudt å fiske norsk vårgytende sild nordøst for en rett linje fra 72° 10,46′ nord, 10° 18,42′ øst til Darupskjæret 70° 40,5′ nord, 21° 59,1′ øst.
 
-Uten hensyn til forbudet i første ledd kan følgende fartøy fra og med 13. september 2023 til og med 31. desember 2023 fiske norsk vårgytende sild innenfor fire nautiske mil fra grunnlinjene vest for 29° 05′ Ø:Fartøy som har adgang til å delta i fisket etter norsk vårgytende sild i kystfartøygruppen i medhold av den årlige [deltakerforskriften](forskrift/2022-12-21-2438), ogsom har en største lengde under 21,35 meter eller lasteromsvolum under 150 m3. Fiskeridirektoratet region Nord kan dispensere fra forbudet for fartøy som er på eller over 21,35 meter største lengde, men som har et lasteromsvolum under 150 m3.
+Uten hensyn til forbudet i første ledd kan følgende fartøy fra og med 13. september 2023 til og med 31. desember 2023 fiske norsk vårgytende sild innenfor fire nautiske mil fra grunnlinjene vest for 29° 05′ Ø:
 
-Uten hensyn til forbudet i første ledd kan det fra og med 13. september 2023 til og med 31. desember 2023 fiske norsk vårgytende sild innenfor et område avgrenset av rette linjer mellom følgende posisjoner:N 71° 12′ Ø 18°N 73° 51′ Ø 18°N 76° Ø 13° 45′N 76° Ø 00° 30′Videre langs yttergrensen for fiskevernsonen ved Svalbard til posisjon:N 72° 10,46′ Ø 10° 18,42′N 71° 12′ Ø 18°.
+1. Fartøy som har adgang til å delta i fisket etter norsk vårgytende sild i kystfartøygruppen i medhold av den årlige [deltakerforskriften](forskrift/2022-12-21-2438), og
+2. som har en største lengde under 21,35 meter eller lasteromsvolum under 150 m3. Fiskeridirektoratet region Nord kan dispensere fra forbudet for fartøy som er på eller over 21,35 meter største lengde, men som har et lasteromsvolum under 150 m3.
 
-Uten hensyn til forbudet i første ledd kan det til og med 31. desember 2023 fiskes norsk vårgytende sild med not innenfor et område avgrenset av rette linjer mellom følgende posisjoner:N 70° 54,50′ Ø 23° 02,00′N 73° 51′ Ø 18°N 76° Ø 13° 45′N 76° Ø 00° 30′Videre langs yttergrensen for fiskevernsonen ved Svalbard til posisjon:N 72° 10,46′ Ø 10° 18,42′N 70° 40,50′ Ø 21° 59,00′.
+Uten hensyn til forbudet i første ledd kan det fra og med 13. september 2023 til og med 31. desember 2023 fiske norsk vårgytende sild innenfor et område avgrenset av rette linjer mellom følgende posisjoner:
+
+1. N 71° 12′ Ø 18°
+2. N 73° 51′ Ø 18°
+3. N 76° Ø 13° 45′
+4. N 76° Ø 00° 30′
+
+Videre langs yttergrensen for fiskevernsonen ved Svalbard til posisjon:
+
+1. N 72° 10,46′ Ø 10° 18,42′
+2. N 71° 12′ Ø 18°.
+
+Uten hensyn til forbudet i første ledd kan det til og med 31. desember 2023 fiskes norsk vårgytende sild med not innenfor et område avgrenset av rette linjer mellom følgende posisjoner:
+
+1. N 70° 54,50′ Ø 23° 02,00′
+2. N 73° 51′ Ø 18°
+3. N 76° Ø 13° 45′
+4. N 76° Ø 00° 30′
+
+Videre langs yttergrensen for fiskevernsonen ved Svalbard til posisjon:
+
+1. N 72° 10,46′ Ø 10° 18,42′
+2. N 70° 40,50′ Ø 21° 59,00′.
 
 Fiskeridirektoratet kan stoppe fisket nevnt i annet ledd, innskrenke eller utvide perioden for fiske og stenge hele eller deler av området for fiske.
 
@@ -792,7 +1071,15 @@ Fiskeridirektoratet kan stenge hele eller deler av området nevnt i tredje ledd 
 
 ### § 59a. Forbud mot å høste sild i et område i Nordsjøen
 
-Det er forbudt å fiske sild med fartøy på eller over 21 meter største lengde fra og med 15. mai til og med 31. juli innenfor et område avgrenset av rette linjer mellom følgende posisjoner:Fra land på N59° 30′00" og videre rett vest tilN 59° 30′00"; Ø 003° 20′00"N 59° 00′00"; Ø 003° 30′00"N 58° 00′00"; Ø 004° 15′00"Videre til midtlinjen med Danmark på Ø 007° 40′00"Videre følges midtlinjen til grensen mellom Skagerrak og Nordsjøen (linje mellom Hanstholm fyr og Lindesnes fyr)Videre til Lindesnes fyr.
+Det er forbudt å fiske sild med fartøy på eller over 21 meter største lengde fra og med 15. mai til og med 31. juli innenfor et område avgrenset av rette linjer mellom følgende posisjoner:
+
+1. Fra land på N59° 30′00" og videre rett vest til
+2. N 59° 30′00"; Ø 003° 20′00"
+3. N 59° 00′00"; Ø 003° 30′00"
+4. N 58° 00′00"; Ø 004° 15′00"
+5. Videre til midtlinjen med Danmark på Ø 007° 40′00"
+6. Videre følges midtlinjen til grensen mellom Skagerrak og Nordsjøen (linje mellom Hanstholm fyr og Lindesnes fyr)
+7. Videre til Lindesnes fyr.
 
 > Tilføyd ved forskrift [25 juni 2026 nr. 1371](forskrift/2026-06-25-1371).
 
@@ -846,7 +1133,12 @@ For utenlandske fartøy skal dokumenter som nevnt i første ledd være godkjent 
 
 Fartøy som oppbevarer fangst i fryst tilstand og har samlet lagringskapasitet på 500 m3 eller over, skal føre en stuingsplan.
 
-Stuingsplanen skal oppfylle følgende krav:Produsert fangst må stues og merkes på en slik måte at samme art og produktkategori kan identifiseres når de er stuet i ulike deler av fryserommet.Stuingsplanen må angi plassering av de ulike produktene i fryserommet, i tillegg til produktvekt i kilo.Stuingsplanen skal oppdateres daglig og skal minimum omfatte til og med foregående døgn (00:00 til 23:59 UTC).Fortløpende stuingsplaner for inneværende tur skal oppbevares og kunne forevises på forespørsel.
+Stuingsplanen skal oppfylle følgende krav:
+
+1. Produsert fangst må stues og merkes på en slik måte at samme art og produktkategori kan identifiseres når de er stuet i ulike deler av fryserommet.
+2. Stuingsplanen må angi plassering av de ulike produktene i fryserommet, i tillegg til produktvekt i kilo.
+3. Stuingsplanen skal oppdateres daglig og skal minimum omfatte til og med foregående døgn (00:00 til 23:59 UTC).
+4. Fortløpende stuingsplaner for inneværende tur skal oppbevares og kunne forevises på forespørsel.
 
 > Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [20 des 2024 nr. 3496](forskrift/2024-12-20-3496) (i kraft 1 jan 2025).
 
@@ -876,7 +1168,21 @@ Kravet til merking av teiner og ruser i bestemmelsen her gjelder i tillegg til k
 
 ### § 68. Spesielle merkebestemmelser utenfor grunnlinjene
 
-Garn- og lineredskap som står i sjøen utenfor grunnlinjene i Norges sjøterritorium og økonomiske sone skal være merket slik:Om dagen skal redskapet i hver ende ha bøyestang forsynt med raderreflektor eller flagg. Etter solnedgang skal det i hver ende av redskapet være bøye med refleksmidler (jf. bokstav f) og stang forsynt med lys (jf. bokstav g) slik at endebøyene angir redskapets posisjon og utstrekning.Om dagen skal den vestre (halve kompassirkelen fra syd gjennom vest til og inkludert nord) endebøye ha to flagg, det ene over det annet. Avstanden mellom flaggene skal være minst 25 cm. Radarreflektor kan brukes i stedet for det øverste flagg. Etter solnedgang skal bøyen ha to lys. Avstanden mellom lysene skal være minst 50 cm.Om dagen skal den østre (halve kompassirkelen fra nord gjennom øst til og inkludert syd) endebøye ha ett flagg. Raderreflektor kan brukes i stedet for flagg. Etter solnedgang skal bøyen ha ett lys.Avstanden mellom merkebøyene på et faststående redskap skal ikke overstige 1 nautisk mil. Redskap med lengde over 1 nautisk mil, skal ha en eller flere midtbøyer mellom endebøyene. Midtbøye skal utstyres som bestemt i bokstav c. Etter solnedgang kan en slik bøye likevel være uten lys, så lenge avstanden fra lys til redskapet ikke overstiger 2 nautiske mil.Avstanden mellom merkebøyene på et drivende redskap skal ikke overstige 2 nautiske mil. Redskap med lengde over 2 nautiske mil, skal ha en eller flere midtbøyer mellom endebøyene. Midtbøye skal utstyres som bestemt i bokstav c.Drivende garnlenker med lengde over 1 nautisk mil skal mellom merkebøyene ha en eller flere blåser med en lysreflekterende farge som er godt synlig.Gjør bunnens beskaffenhet og/eller strømmens styrke det umulig å ha bøye i hver ende av redskapet, skal redskapets lengde fra endebøyen ikke overstige 1 nautisk mil. Bokstavene b og c gjelder tilsvarende, ettersom redskapet står i øst-eller vest-retning av endebøyen.Når et drivende redskap er festet i et fiskefartøy er det ikke nødvendig med en merkebøye i denne enden.Stangen på merkebøyene skal være minst 2 meter høy over vannlinjen. Vak, bøyesteng eller toppmerke skal forsynes med refleksmidler, slik at lys kan reflekteres i alle retniinger.Lyset på bøyestangen skal være gult og synlig i en avstand av minst 2 nautiske mil i god siktbarhet og mørke. Det kan brukes lys som er tent hele tiden med samme styrke (fastlys), eller blinklys. På samme bøye kan det ikke brukes både fastlys og blinklys. Blinklys skal gi mellom 20 og 25 blink pr. minutt. Brukes to blinklys på samme merkebøye, skal disse være synkronisert, slik at de blinker i takt.
+Garn- og lineredskap som står i sjøen utenfor grunnlinjene i Norges sjøterritorium og økonomiske sone skal være merket slik:
+
+1. Om dagen skal redskapet i hver ende ha bøyestang forsynt med raderreflektor eller flagg. Etter solnedgang skal det i hver ende av redskapet være bøye med refleksmidler (jf. bokstav f) og stang forsynt med lys (jf. bokstav g) slik at endebøyene angir redskapets posisjon og utstrekning.
+2. Om dagen skal den vestre (halve kompassirkelen fra syd gjennom vest til og inkludert nord) endebøye ha to flagg, det ene over det annet. Avstanden mellom flaggene skal være minst 25 cm. Radarreflektor kan brukes i stedet for det øverste flagg. Etter solnedgang skal bøyen ha to lys. Avstanden mellom lysene skal være minst 50 cm.
+3. Om dagen skal den østre (halve kompassirkelen fra nord gjennom øst til og inkludert syd) endebøye ha ett flagg. Raderreflektor kan brukes i stedet for flagg. Etter solnedgang skal bøyen ha ett lys.
+4. Avstanden mellom merkebøyene på et faststående redskap skal ikke overstige 1 nautisk mil. Redskap med lengde over 1 nautisk mil, skal ha en eller flere midtbøyer mellom endebøyene. Midtbøye skal utstyres som bestemt i bokstav c. Etter solnedgang kan en slik bøye likevel være uten lys, så lenge avstanden fra lys til redskapet ikke overstiger 2 nautiske mil.
+
+   Avstanden mellom merkebøyene på et drivende redskap skal ikke overstige 2 nautiske mil. Redskap med lengde over 2 nautiske mil, skal ha en eller flere midtbøyer mellom endebøyene. Midtbøye skal utstyres som bestemt i bokstav c.
+
+   Drivende garnlenker med lengde over 1 nautisk mil skal mellom merkebøyene ha en eller flere blåser med en lysreflekterende farge som er godt synlig.
+5. Gjør bunnens beskaffenhet og/eller strømmens styrke det umulig å ha bøye i hver ende av redskapet, skal redskapets lengde fra endebøyen ikke overstige 1 nautisk mil. Bokstavene b og c gjelder tilsvarende, ettersom redskapet står i øst-eller vest-retning av endebøyen.
+
+   Når et drivende redskap er festet i et fiskefartøy er det ikke nødvendig med en merkebøye i denne enden.
+6. Stangen på merkebøyene skal være minst 2 meter høy over vannlinjen. Vak, bøyesteng eller toppmerke skal forsynes med refleksmidler, slik at lys kan reflekteres i alle retniinger.
+7. Lyset på bøyestangen skal være gult og synlig i en avstand av minst 2 nautiske mil i god siktbarhet og mørke. Det kan brukes lys som er tent hele tiden med samme styrke (fastlys), eller blinklys. På samme bøye kan det ikke brukes både fastlys og blinklys. Blinklys skal gi mellom 20 og 25 blink pr. minutt. Brukes to blinklys på samme merkebøye, skal disse være synkronisert, slik at de blinker i takt.
 
 ## Kapittel XVI. Tap av redskap og orden på fiskefelt
 
@@ -886,7 +1192,13 @@ Garn- og lineredskap som står i sjøen utenfor grunnlinjene i Norges sjøterrit
 
 Den som mister eller må kutte redskap har plikt til å sokne etter redskapene. Dette gjelder også deler av redskap, herunder trålvaier.
 
-Dersom det ikke er mulig å få tatt opp tapte redskap skal det umiddelbart rapporteres til Kystvakten om følgende:Fartøyets navn og kallesignalRedskapstypeRedskapsmengdeTidspunkt for tap av redskapPosisjon for tap av redskap.
+Dersom det ikke er mulig å få tatt opp tapte redskap skal det umiddelbart rapporteres til Kystvakten om følgende:
+
+1. Fartøyets navn og kallesignal
+2. Redskapstype
+3. Redskapsmengde
+4. Tidspunkt for tap av redskap
+5. Posisjon for tap av redskap.
 
 Funn av tapte redskap skal rapporteres til Kystvakten.
 
@@ -916,7 +1228,12 @@ Utsetting av snurpenot må foregå til styrbord slik at fartøyet svinger (runde
 
 ### § 73. Lokale reguleringer
 
-Fiskeridirektoratet kan fastsette lokale forskrifter om:Havdeling og trygg avstand mellom ulike redskapsgrupperUtplassering og merking av redskapTidspunkt for utseiling og liknendeMelde- og oppgaveplikt til Fiskeridirektoratet for å delta i høsting i slike områder.
+Fiskeridirektoratet kan fastsette lokale forskrifter om:
+
+1. Havdeling og trygg avstand mellom ulike redskapsgrupper
+2. Utplassering og merking av redskap
+3. Tidspunkt for utseiling og liknende
+4. Melde- og oppgaveplikt til Fiskeridirektoratet for å delta i høsting i slike områder.
 
 Lokale organisasjoner har forslagsrett ved fastsetting av lokale forskrifter.
 

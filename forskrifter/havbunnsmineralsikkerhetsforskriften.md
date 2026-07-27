@@ -34,11 +34,25 @@ Forskriften gjelder sikkerhet og arbeidsmiljø ved virksomhet som omfattes av [h
 
 [Arbeidsmiljøloven](lov/2005-06-17-62) og denne forskriften gjelder for bemannede undervannsoperasjoner i mineralvirksomhet som blir utført fra fartøy eller innretninger, dersom det ikke er gitt særskilte regler.
 
-Unntatt fra [arbeidsmiljøloven](lov/2005-06-17-62) og bestemmelser i denne forskriften som er fastsatt i medhold av [arbeidsmiljøloven](lov/2005-06-17-62) erforsynings-, beredskaps- og ankerhåndteringstjeneste med fartøy, seismiske eller geologiske undersøkelser med fartøy og annen sammenlignbar aktivitet, som regnes som sjøfart,fartøy som utfører konstruksjons-, rørleggings- eller vedlikeholdsaktiviteter i mineralvirksomheten, dersom ikke noe annet blir fastsatt særskilt av Energidepartementet ved forskrift eller enkeltvedtak.
+Unntatt fra [arbeidsmiljøloven](lov/2005-06-17-62) og bestemmelser i denne forskriften som er fastsatt i medhold av [arbeidsmiljøloven](lov/2005-06-17-62) er
+
+1. forsynings-, beredskaps- og ankerhåndteringstjeneste med fartøy, seismiske eller geologiske undersøkelser med fartøy og annen sammenlignbar aktivitet, som regnes som sjøfart,
+2. fartøy som utfører konstruksjons-, rørleggings- eller vedlikeholdsaktiviteter i mineralvirksomheten, dersom ikke noe annet blir fastsatt særskilt av Energidepartementet ved forskrift eller enkeltvedtak.
 
 ### § 1-3. Definisjoner
 
-I denne forskriften menes med:*Barrierer:* Tiltak som har til hensikt enten å forhindre et konkret hendelsesforløp i å inntreffe, eller påvirke et hendelsesforløp i en tilsiktet retning ved å begrense skader og/eller tap.*Beredskap:* Beredskap knyttet til å håndtere og redusere konsekvensene av feil-, fare-, og ulykkessituasjoner som forskriften har til formål å forhindre og begrense.*Den ansvarlige*: Operatør og andre som deltar i virksomhet som er omfattet av denne forskriften, jf. [§ 1-4](forskrift/2025-10-15-2050/§1-4).*Innretning:* Installasjon, anlegg og annet utstyr for mineralvirksomhet, også rørledninger og kabler om ikke noe annet er bestemt, men ikke forsynings- og hjelpefartøy eller skip som transporterer mineraler i bulk, jf. [havbunnsmineralloven § 1-5 bokstav b](lov/2019-03-22-7/§1-5/bokstav/b).*Operatør*: En rettighetshaver som står for den daglige ledelse av mineralvirksomheten, jf. [havbunnsmineralloven § 1-5 bokstav f](lov/2019-03-22-7/§1-5/bokstav/f).*Oppholdsperiode*: Tidsrommet en arbeidstaker oppholder seg i sammenheng på innretninger og fartøy som er nødvendig for å gjennomføre virksomheten.*Rettighetshaver:* Fysisk eller juridisk person, eller flere slike personer, som etter [havbunnsmineralloven](lov/2019-03-22-7) eller tidligere lovgivning innehar en tillatelse til undersøkelse eller utvinning. Er en tillatelse gitt til flere slike personer sammen kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltaker, jf. [havbunnsmineralloven § 1-5 bokstav e](lov/2019-03-22-7/§1-5/bokstav/e).*Sikkerhets- og arbeidsmiljølovgivningen*: Denne forskriften samt de delene av hjemmelslovene som regulerer sikkerhet og arbeidsmiljø og forskrifter fastsatt i medhold av disse innenfor virkeområdet til denne forskriften, jf. [§ 1-2](forskrift/2025-10-15-2050/§1-2).*Undersøkelse:* Leting etter og kartlegging av mineralforekomster for kommersielt formål, medregnet geologiske, geofysiske, geokjemiske og geotekniske aktiviteter og drift og bruk av innretninger i den utstrekning de anvendes til undersøkelse, jf. [havbunnsmineralloven § 1-5 bokstav c](lov/2019-03-22-7/§1-5/bokstav/c).*Utvinning:* Uttak av mineraler fra havbunnen eller havbunnens undergrunn for kommersielt formål, medregnet bearbeiding på innretninger, deponering av eventuelt overskuddsmateriale fra driften og bygging, plassering, drift og bruk av de innretninger som er nødvendig for utvinningen og transporten av mineralene til innretninger eller transportskip, jf. [havbunnsmineralloven § 1-5 bokstav d](lov/2019-03-22-7/§1-5/bokstav/d).
+I denne forskriften menes med:
+
+1. *Barrierer:* Tiltak som har til hensikt enten å forhindre et konkret hendelsesforløp i å inntreffe, eller påvirke et hendelsesforløp i en tilsiktet retning ved å begrense skader og/eller tap.
+2. *Beredskap:* Beredskap knyttet til å håndtere og redusere konsekvensene av feil-, fare-, og ulykkessituasjoner som forskriften har til formål å forhindre og begrense.
+3. *Den ansvarlige*: Operatør og andre som deltar i virksomhet som er omfattet av denne forskriften, jf. [§ 1-4](forskrift/2025-10-15-2050/§1-4).
+4. *Innretning:* Installasjon, anlegg og annet utstyr for mineralvirksomhet, også rørledninger og kabler om ikke noe annet er bestemt, men ikke forsynings- og hjelpefartøy eller skip som transporterer mineraler i bulk, jf. [havbunnsmineralloven § 1-5 bokstav b](lov/2019-03-22-7/§1-5/bokstav/b).
+5. *Operatør*: En rettighetshaver som står for den daglige ledelse av mineralvirksomheten, jf. [havbunnsmineralloven § 1-5 bokstav f](lov/2019-03-22-7/§1-5/bokstav/f).
+6. *Oppholdsperiode*: Tidsrommet en arbeidstaker oppholder seg i sammenheng på innretninger og fartøy som er nødvendig for å gjennomføre virksomheten.
+7. *Rettighetshaver:* Fysisk eller juridisk person, eller flere slike personer, som etter [havbunnsmineralloven](lov/2019-03-22-7) eller tidligere lovgivning innehar en tillatelse til undersøkelse eller utvinning. Er en tillatelse gitt til flere slike personer sammen kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltaker, jf. [havbunnsmineralloven § 1-5 bokstav e](lov/2019-03-22-7/§1-5/bokstav/e).
+8. *Sikkerhets- og arbeidsmiljølovgivningen*: Denne forskriften samt de delene av hjemmelslovene som regulerer sikkerhet og arbeidsmiljø og forskrifter fastsatt i medhold av disse innenfor virkeområdet til denne forskriften, jf. [§ 1-2](forskrift/2025-10-15-2050/§1-2).
+9. *Undersøkelse:* Leting etter og kartlegging av mineralforekomster for kommersielt formål, medregnet geologiske, geofysiske, geokjemiske og geotekniske aktiviteter og drift og bruk av innretninger i den utstrekning de anvendes til undersøkelse, jf. [havbunnsmineralloven § 1-5 bokstav c](lov/2019-03-22-7/§1-5/bokstav/c).
+10. *Utvinning:* Uttak av mineraler fra havbunnen eller havbunnens undergrunn for kommersielt formål, medregnet bearbeiding på innretninger, deponering av eventuelt overskuddsmateriale fra driften og bygging, plassering, drift og bruk av de innretninger som er nødvendig for utvinningen og transporten av mineralene til innretninger eller transportskip, jf. [havbunnsmineralloven § 1-5 bokstav d](lov/2019-03-22-7/§1-5/bokstav/d).
 
 ### § 1-4. Ansvar etter denne forskriften
 
@@ -76,7 +90,10 @@ Operatøren skal ha en organisasjon som er i stand til å sikre at virksomheten 
 
 Den ansvarlige skal sikre at alle som utfører arbeid for seg i virksomhet som omfattes av denne forskriften, har kompetanse til å utføre det arbeidet de er satt til å gjøre på en forsvarlig måte, og håndtere fare- og ulykkessituasjoner.
 
-Den ansvarlige skal sikre tilstrekkelig bemanning og kompetanse i gjennomføring av virksomheten. Det skal settes minimumskrav til bemanning og kompetanse for å ivareta funksjonerder feilhandlinger kan få store konsekvenser for sikkerhet og arbeidsmiljø, ogsom skal redusere sannsynligheten for at feil og fare- og ulykkessituasjoner utvikler seg.
+Den ansvarlige skal sikre tilstrekkelig bemanning og kompetanse i gjennomføring av virksomheten. Det skal settes minimumskrav til bemanning og kompetanse for å ivareta funksjoner
+
+1. der feilhandlinger kan få store konsekvenser for sikkerhet og arbeidsmiljø, og
+2. som skal redusere sannsynligheten for at feil og fare- og ulykkessituasjoner utvikler seg.
 
 Ved bemanning av de ulike arbeidsoppgavene skal det sikres at personellet ikke blir tildelt oppgaver som er uforenlige med hverandre.
 
@@ -132,7 +149,11 @@ Operatøren skal sikre at mangler ved andre deltakeres styring av sikkerhet og a
 
 ### § 3-2. Barrierer
 
-Det skal etableres barrierer som til enhver tid kanidentifisere tilstander som kan føre til feil, fare- og ulykkessituasjoner,redusere muligheten for at feil, fare- og ulykkessituasjoner oppstår og utvikler seg,begrense mulige skader og ulemper.
+Det skal etableres barrierer som til enhver tid kan
+
+1. identifisere tilstander som kan føre til feil, fare- og ulykkessituasjoner,
+2. redusere muligheten for at feil, fare- og ulykkessituasjoner oppstår og utvikler seg,
+3. begrense mulige skader og ulemper.
 
 Der det er nødvendig med flere barrierer, skal det være tilstrekkelig uavhengighet mellom barrierene.
 
@@ -170,7 +191,11 @@ Den ansvarlige skal sikre at det utføres analyser som gir det nødvendige beslu
 
 Den ansvarlige skal utføre risikoanalyser som gir et nyansert og mest mulig helhetlig bilde av risikoen forbundet med virksomheten. Analysene skal være formålstjenlige slik at de gir beslutningstøtte relatert til den eller de prosesser eller operasjoner en står ovenfor.
 
-Beredskapsanalyser skal utføres og inngå som en del av beslutningsgrunnlaget blant annet når en skaldefinere fare- og ulykkessituasjoner,sette ytelseskrav til beredskapen,velge og dimensjonere beredskapstiltak.
+Beredskapsanalyser skal utføres og inngå som en del av beslutningsgrunnlaget blant annet når en skal
+
+1. definere fare- og ulykkessituasjoner,
+2. sette ytelseskrav til beredskapen,
+3. velge og dimensjonere beredskapstiltak.
 
 Det skal gå klart fram hva som er formålet med den enkelte analysen og hvilke betingelser, forutsetninger og avgrensninger som er lagt til grunn.
 
@@ -240,7 +265,11 @@ Slikt materiale og slike opplysninger som nevnt i første ledd skal gjøres vede
 
 ### § 4-2. Oppbevaring av materiale og opplysninger
 
-Materiale og opplysninger etter [§ 4-1](forskrift/2025-10-15-2050/§4-1) skal oppbevares så lenge det er nødvendig av hensyn til en forsvarlig virksomhet. Spesielt skalden ansvarlige oppbevare materiale og opplysninger om fare- og ulykkessituasjoner, samt ethvert alvorlig tilløp til slike fare- og ulykkessituasjoner,operatøren oppbevare materiale og opplysninger om deler av innretninger, anlegg og avfall som er midlertidig etterlatt på havbunnen,operatøren og arbeidsgiveren oppbevare kartleggingsresultater som viser i hvilken grad arbeidstakere har vært eksponert for mulige helsefarlige arbeidsmiljøfaktorer. Oppbevaringstiden skal stå i forhold til de antatt helseskadelige langtidsvirkningene av eksponeringen.
+Materiale og opplysninger etter [§ 4-1](forskrift/2025-10-15-2050/§4-1) skal oppbevares så lenge det er nødvendig av hensyn til en forsvarlig virksomhet. Spesielt skal
+
+1. den ansvarlige oppbevare materiale og opplysninger om fare- og ulykkessituasjoner, samt ethvert alvorlig tilløp til slike fare- og ulykkessituasjoner,
+2. operatøren oppbevare materiale og opplysninger om deler av innretninger, anlegg og avfall som er midlertidig etterlatt på havbunnen,
+3. operatøren og arbeidsgiveren oppbevare kartleggingsresultater som viser i hvilken grad arbeidstakere har vært eksponert for mulige helsefarlige arbeidsmiljøfaktorer. Oppbevaringstiden skal stå i forhold til de antatt helseskadelige langtidsvirkningene av eksponeringen.
 
 Når virksomheten opphører, kan Havindustritilsynet pålegge overlevering til seg av materiale og opplysninger som nevnt.
 
@@ -258,15 +287,35 @@ Operatøren må i tilstrekkelig tid før planlagt start sende inn søknad om sam
 
 Dersom forutsetningene for samtykkene som er gitt i medhold av denne paragrafen endres vesentlig, kan Havindustritilsynet kreve at operatøren henter inn et nytt samtykke før aktivitetene føres videre.
 
-Operatøren må ha samtykkefør innretning eller fartøy tas i bruk,før vesentlige endringer i aktiviteter, også som følge av nye krav eller tillatelser fra andre myndigheter.
+Operatøren må ha samtykke
 
-Søknaden skal inneholdeopplysninger om hvilke aktiviteter som ønskes gjennomført,en helhetlig beskrivelse av aktivitetene som omfattes av søknaden, og framdriftsplanen for disse aktivitetene, inkludert beskrivelse av metoder og teknologier som planlegges benyttet, herunder om det planlegges gjennomført boringer dypere enn 200 meter under sjøbunnen,oversiktstegninger av innretning eller fartøy,en beskrivelse av styringssystemene og de styrende dokumentene for aktivitetene som omfattes av søknaden,en beskrivelse av analysene og vurderingene som er gjort med hensyn til sikkerhet og arbeidsmiljø for aktivitetene, innretningene og fartøyene som omfattes av søknaden, og resultatene og tiltakene som skal settes i verk som en følge av disse vurderingene,en beskrivelse av resultatene fra intern og ekstern oppfølging og en beskrivelse av planlagt oppfølging med aktivitetene som omfattes av søknaden,en oversikt over hvilke andre tillatelser til virksomhet som er søkt om, og eventuelt gitt,opplysninger om det er inngått avtaler med entreprenører, og eventuelt hvem som er å regne som hovedbedrift i forbindelse med disse avtalene,en uttalelse om søknaden fra arbeidstakernes tillitsvalgte.
+1. før innretning eller fartøy tas i bruk,
+2. før vesentlige endringer i aktiviteter, også som følge av nye krav eller tillatelser fra andre myndigheter.
+
+Søknaden skal inneholde
+
+1. opplysninger om hvilke aktiviteter som ønskes gjennomført,
+2. en helhetlig beskrivelse av aktivitetene som omfattes av søknaden, og framdriftsplanen for disse aktivitetene, inkludert beskrivelse av metoder og teknologier som planlegges benyttet, herunder om det planlegges gjennomført boringer dypere enn 200 meter under sjøbunnen,
+3. oversiktstegninger av innretning eller fartøy,
+4. en beskrivelse av styringssystemene og de styrende dokumentene for aktivitetene som omfattes av søknaden,
+5. en beskrivelse av analysene og vurderingene som er gjort med hensyn til sikkerhet og arbeidsmiljø for aktivitetene, innretningene og fartøyene som omfattes av søknaden, og resultatene og tiltakene som skal settes i verk som en følge av disse vurderingene,
+6. en beskrivelse av resultatene fra intern og ekstern oppfølging og en beskrivelse av planlagt oppfølging med aktivitetene som omfattes av søknaden,
+7. en oversikt over hvilke andre tillatelser til virksomhet som er søkt om, og eventuelt gitt,
+8. opplysninger om det er inngått avtaler med entreprenører, og eventuelt hvem som er å regne som hovedbedrift i forbindelse med disse avtalene,
+9. en uttalelse om søknaden fra arbeidstakernes tillitsvalgte.
 
 Havindustritilsynet kan stille andre krav til dokumentasjon.
 
 ### § 4-5. Varsling og melding av fare- og ulykkessituasjoner
 
-Operatøren skal sikre koordinert og umiddelbar varsling per telefon til Havindustritilsynet ved fare- og ulykkessituasjoner som har ført til, eller under ubetydelig endrede omstendigheter kunne ha ført tildød,alvorlig og akutt skade,akutt livstruende sykdom,alvorlig svekking eller bortfall av sikkerhetsrelaterte funksjoner eller barrierer, slik at innretningens eller fartøyets, eller andre enheters, integritet er i fare.Varselet skal bekreftes skriftlig.
+Operatøren skal sikre koordinert og umiddelbar varsling per telefon til Havindustritilsynet ved fare- og ulykkessituasjoner som har ført til, eller under ubetydelig endrede omstendigheter kunne ha ført til
+
+1. død,
+2. alvorlig og akutt skade,
+3. akutt livstruende sykdom,
+4. alvorlig svekking eller bortfall av sikkerhetsrelaterte funksjoner eller barrierer, slik at innretningens eller fartøyets, eller andre enheters, integritet er i fare.
+
+Varselet skal bekreftes skriftlig.
 
 Ved fare- og ulykkessituasjoner som nevnt i første ledd, men av mindre alvorlig eller mindre akutt karakter, skal operatøren gi enkeltvis skriftlig melding til Havindustritilsynet første arbeidsdag etter at situasjonen inntraff eller ble oppdaget.
 
@@ -364,7 +413,20 @@ Anlegg og utstyr skal være robust og egnet for alle påregnelige påkjenninger.
 
 Elektriske anlegg skal utformes med vern og annen beskyttelse slik at unormale tilstander og feil som kan medføre fare for personellet, innretningen og anlegget, unngås. Det elektriske anlegget skal være utformet slik det ikke oppstår innbyrdes skadelige påvirkninger mellom elektriske og ikke-elektriske anleggsdeler.
 
-De elektriske anleggene skal utformes med tilstrekkelig beskyttelse mot blant annetelektriske støt under normal bruk og ved feil,termiske virkninger,overstrøm,feilstrømmer,overspenning,underspenning,variasjoner i spenning og frekvens,avbrudd i kraftforsyningen,antennelse av eksplosiv gassatmosfære,elektromagnetiske forstyrrelser,helseskade som følge av elektromagnetiske felt,lynnedslag.
+De elektriske anleggene skal utformes med tilstrekkelig beskyttelse mot blant annet
+
+1. elektriske støt under normal bruk og ved feil,
+2. termiske virkninger,
+3. overstrøm,
+4. feilstrømmer,
+5. overspenning,
+6. underspenning,
+7. variasjoner i spenning og frekvens,
+8. avbrudd i kraftforsyningen,
+9. antennelse av eksplosiv gassatmosfære,
+10. elektromagnetiske forstyrrelser,
+11. helseskade som følge av elektromagnetiske felt,
+12. lynnedslag.
 
 Innretninger og fartøy skal ha et pålitelig nødkraftsystem som sikrer tilstrekkelig krafttilførsel til utstyr og systemer som skal fungere dersom normalkraft faller ut.
 
@@ -394,7 +456,13 @@ Det skal utarbeides beredskapsplaner som til enhver tid beskriver beredskapen og
 
 ### § 6-2. Håndtering av fare- og ulykkessituasjoner
 
-Den ansvarlige skal sikre at nødvendige tiltak blir satt i verk så raskt som mulig ved fare- og ulykkessituasjoner slik atrett varsel blir gitt umiddelbart,faresituasjoner ikke utvikler seg til ulykkessituasjoner,personell kan reddes i ulykkessituasjoner,personellet på innretningen eller fartøyet kan evakueres raskt og effektivt til enhver tid,tilstanden kan normaliseres når utviklingen av en fare- og ulykkessituasjon er stanset.
+Den ansvarlige skal sikre at nødvendige tiltak blir satt i verk så raskt som mulig ved fare- og ulykkessituasjoner slik at
+
+1. rett varsel blir gitt umiddelbart,
+2. faresituasjoner ikke utvikler seg til ulykkessituasjoner,
+3. personell kan reddes i ulykkessituasjoner,
+4. personellet på innretningen eller fartøyet kan evakueres raskt og effektivt til enhver tid,
+5. tilstanden kan normaliseres når utviklingen av en fare- og ulykkessituasjon er stanset.
 
 ### § 6-3. Trening og øvelser
 

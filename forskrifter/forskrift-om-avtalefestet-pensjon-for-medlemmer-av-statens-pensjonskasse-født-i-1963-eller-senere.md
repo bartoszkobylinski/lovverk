@@ -66,15 +66,38 @@ Det er et vilkår for å opptjene ansiennitet etter denne bestemmelsen at arbeid
 
 Som pensjonsgivende inntekt etter [AFP-loven § 8 første ledd bokstav b](lov/2010-06-25-28/§8/ledd/1/bokstav/b) fra virksomhet omfattet av AFP regnes pensjonsgivende inntekt etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15).
 
-Som annen inntekt etter [AFP-loven § 8 første ledd bokstav b](lov/2010-06-25-28/§8/ledd/1/bokstav/b) regnes:pensjonsgivende inntekt etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15) fra virksomhet som ikke er omfattet av AFP,sykepenger knyttet til arbeidsforhold i virksomhet som ikke er omfattet av AFP,dagpenger ved permittering mottatt på grunn av bortfall av arbeidsinntekt i en virksomhet som ikke er omfattet av AFP,alderspensjon eller tidligpensjon mottatt fra virksomhet, forsikringsselskap, pensjonskasse eller annen pensjonsleverandør,kollektiv livrente,individuell livrente når premien helt eller delvis er betalt av nåværende eller tidligere arbeidsgiver,utbytte og andel av overskudd fra foretak arbeidstakeren har en betydelig eierandel i. Som betydelig eierandel regnes en eierandel som utgjør 20 prosent eller mer og som er eiet direkte eller indirekte av arbeidstakeren, herunder gjennom et foretak som arbeidstakeren har bestemmende innflytelse over. Likt med eierandel som utgjør 20 prosent eller mer, anses eierandel som gir rett til et utbytte på 20 prosent eller mer, eller som gir rett til å stemme for 20 prosent eller mer,inntekt, utbytte, konsernbidrag eller overskudd som er betalt til eller på annen måte tilordnet et foretak arbeidstakeren direkte eller indirekte har bestemmende innflytelse over. Som bestemmende innflytelse regnes innflytelse som arbeidstakeren har når han eller hun direkte eller indirekte eier mer enn 50 prosent av aksjene eller andelene i et foretak, har flertallet av stemmene i et foretak, eller har rett til å velge eller avsette et flertall av styrets medlemmer,inntekter som nevnt under bokstav a–h fra utlandet.
+Som annen inntekt etter [AFP-loven § 8 første ledd bokstav b](lov/2010-06-25-28/§8/ledd/1/bokstav/b) regnes:
+
+1. pensjonsgivende inntekt etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15) fra virksomhet som ikke er omfattet av AFP,
+2. sykepenger knyttet til arbeidsforhold i virksomhet som ikke er omfattet av AFP,
+3. dagpenger ved permittering mottatt på grunn av bortfall av arbeidsinntekt i en virksomhet som ikke er omfattet av AFP,
+4. alderspensjon eller tidligpensjon mottatt fra virksomhet, forsikringsselskap, pensjonskasse eller annen pensjonsleverandør,
+5. kollektiv livrente,
+6. individuell livrente når premien helt eller delvis er betalt av nåværende eller tidligere arbeidsgiver,
+7. utbytte og andel av overskudd fra foretak arbeidstakeren har en betydelig eierandel i. Som betydelig eierandel regnes en eierandel som utgjør 20 prosent eller mer og som er eiet direkte eller indirekte av arbeidstakeren, herunder gjennom et foretak som arbeidstakeren har bestemmende innflytelse over. Likt med eierandel som utgjør 20 prosent eller mer, anses eierandel som gir rett til et utbytte på 20 prosent eller mer, eller som gir rett til å stemme for 20 prosent eller mer,
+8. inntekt, utbytte, konsernbidrag eller overskudd som er betalt til eller på annen måte tilordnet et foretak arbeidstakeren direkte eller indirekte har bestemmende innflytelse over. Som bestemmende innflytelse regnes innflytelse som arbeidstakeren har når han eller hun direkte eller indirekte eier mer enn 50 prosent av aksjene eller andelene i et foretak, har flertallet av stemmene i et foretak, eller har rett til å velge eller avsette et flertall av styrets medlemmer,
+9. inntekter som nevnt under bokstav a–h fra utlandet.
 
 ### § 8. Ytelser uten motsvarende arbeidsplikt mottatt i perioden fra fylte 59 år til og med dagen før fylte 62 år
 
-Som ytelse uten motsvarende arbeidsplikt som nevnt i [AFP-loven § 8 første ledd bokstav c](lov/2010-06-25-28/§8/ledd/1/bokstav/c) regnes blant annet:alderspensjon fra tjenestepensjonsordning,fripolise, pensjonskapitalbevis eller pensjonsbevis,gavepensjon,sluttvederlag,fordel som oppstår ved stillingsreduksjon uten tilsvarende reduksjon i pensjonsgivende inntekt med mindre det dreier seg om et generelt seniorpolitisk tiltak.
+Som ytelse uten motsvarende arbeidsplikt som nevnt i [AFP-loven § 8 første ledd bokstav c](lov/2010-06-25-28/§8/ledd/1/bokstav/c) regnes blant annet:
+
+1. alderspensjon fra tjenestepensjonsordning,
+2. fripolise, pensjonskapitalbevis eller pensjonsbevis,
+3. gavepensjon,
+4. sluttvederlag,
+5. fordel som oppstår ved stillingsreduksjon uten tilsvarende reduksjon i pensjonsgivende inntekt med mindre det dreier seg om et generelt seniorpolitisk tiltak.
 
 Ved beregning av den årlige verdien av ytelsene, legges det til enhver tid gjeldende grunnbeløpet til grunn. Et år regnes fra fødselsdagen til dagen før den påfølgende fødselsdagen.
 
-Som ytelse uten motsvarende arbeidsplikt som nevnt i [AFP-loven § 8 første ledd bokstav c](lov/2010-06-25-28/§8/ledd/1/bokstav/c) regnes blant annet ikke:arbeidsavklaringspenger og uføretrygd fra folketrygden og uførepensjon fra tjenestepensjonsordning,omstillingsstønad og gjenlevendepensjon fra folketrygden,utbetalinger fra ektefelles eller samboers tjenestepensjonsordning,ytelse utbetalt med hjemmel i [dekningsloven §§ 9-3](lov/1984-06-08-59/§9-3) eller [9-6](lov/1984-06-08-59/§9-6) eller i medhold av [lønnsgarantiloven](lov/1973-12-14-61),erstatning etter urettmessig oppsigelse eller avskjed ved dom eller bekreftelse fra arbeidsgiver,lønn og annet vederlag til arbeidstaker etter arbeidsgivers oppsigelse eller avskjed, så lenge kompensasjonen ikke overstiger lønnsnivået for stillingen i dens regulære oppsigelsestid.
+Som ytelse uten motsvarende arbeidsplikt som nevnt i [AFP-loven § 8 første ledd bokstav c](lov/2010-06-25-28/§8/ledd/1/bokstav/c) regnes blant annet ikke:
+
+1. arbeidsavklaringspenger og uføretrygd fra folketrygden og uførepensjon fra tjenestepensjonsordning,
+2. omstillingsstønad og gjenlevendepensjon fra folketrygden,
+3. utbetalinger fra ektefelles eller samboers tjenestepensjonsordning,
+4. ytelse utbetalt med hjemmel i [dekningsloven §§ 9-3](lov/1984-06-08-59/§9-3) eller [9-6](lov/1984-06-08-59/§9-6) eller i medhold av [lønnsgarantiloven](lov/1973-12-14-61),
+5. erstatning etter urettmessig oppsigelse eller avskjed ved dom eller bekreftelse fra arbeidsgiver,
+6. lønn og annet vederlag til arbeidstaker etter arbeidsgivers oppsigelse eller avskjed, så lenge kompensasjonen ikke overstiger lønnsnivået for stillingen i dens regulære oppsigelsestid.
 
 ### § 9. Nærmere om vilkåret om å ikke ha mottatt uføretrygd etter fylte 62 år
 

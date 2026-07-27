@@ -32,11 +32,18 @@ Forskriften gjelder uten hensyn til om vedkommende er skattepliktig til Norge og
 
 ## § 2. Avgiftssatser
 
-For medlem i trygden som nevnt i [§ 1](forskrift/2025-12-19-2785/§1) fastsettes følgende avgifter til folketrygden for 2026:5,1 prosent av pensjonsgivende inntekt for den som er medlem i trygden med rett til ytelser etter lovens [kapittel 5](lov/1997-02-28-19/kap5) og [7](lov/1997-02-28-19/kap7) og [§ 14-17](lov/1997-02-28-19/§14-17) (engangsstønad ved fødsel og adopsjon).4,3 prosent av pensjonsgivende inntekt for den som er medlem i trygden med rett til ytelser etter lovens [kapittel 4](lov/1997-02-28-19/kap4), [6](lov/1997-02-28-19/kap6), [10](lov/1997-02-28-19/kap10) til [12](lov/1997-02-28-19/kap12), [15](lov/1997-02-28-19/kap15), [17](lov/1997-02-28-19/kap17) til [20](lov/1997-02-28-19/kap20).9,4 prosent av pensjonsgivende inntekt for den som er medlem i trygden med rett til alle ytelsene under bokstav a og b.
+For medlem i trygden som nevnt i [§ 1](forskrift/2025-12-19-2785/§1) fastsettes følgende avgifter til folketrygden for 2026:
+
+1. 5,1 prosent av pensjonsgivende inntekt for den som er medlem i trygden med rett til ytelser etter lovens [kapittel 5](lov/1997-02-28-19/kap5) og [7](lov/1997-02-28-19/kap7) og [§ 14-17](lov/1997-02-28-19/§14-17) (engangsstønad ved fødsel og adopsjon).
+2. 4,3 prosent av pensjonsgivende inntekt for den som er medlem i trygden med rett til ytelser etter lovens [kapittel 4](lov/1997-02-28-19/kap4), [6](lov/1997-02-28-19/kap6), [10](lov/1997-02-28-19/kap10) til [12](lov/1997-02-28-19/kap12), [15](lov/1997-02-28-19/kap15), [17](lov/1997-02-28-19/kap17) til [20](lov/1997-02-28-19/kap20).
+3. 9,4 prosent av pensjonsgivende inntekt for den som er medlem i trygden med rett til alle ytelsene under bokstav a og b.
 
 Det skal ikke betales avgift når inntekten er mindre enn 99 650 kroner. Avgiften må ikke utgjøre mer enn 25 prosent av den del av inntekten som overstiger 99 650 kroner.
 
-Dersom Arbeids- og velferdsdirektoratet i medhold av [folketrygdloven § 2-9 annet ledd](lov/1997-02-28-19/§2-9/ledd/2) samtykker i at medlemskapet også skal omfatte sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8) og foreldre- og svangerskapspenger etter [kapittel 14](lov/1997-02-28-19/kap14) og/eller ytelser ved yrkesskade etter [kapittel 13](lov/1997-02-28-19/kap13), skal det betales følgende tillegg til satsene nevnt i første ledd:1,2 prosent av pensjonsgivende inntekt for sykepenger og foreldre- og svangerskapspenger etter lovens [kapittel 8](lov/1997-02-28-19/kap8) og [14](lov/1997-02-28-19/kap14).0,2 prosent av pensjonsgivende inntekt for ytelser ved yrkesskade etter lovens [kapittel 13](lov/1997-02-28-19/kap13).
+Dersom Arbeids- og velferdsdirektoratet i medhold av [folketrygdloven § 2-9 annet ledd](lov/1997-02-28-19/§2-9/ledd/2) samtykker i at medlemskapet også skal omfatte sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8) og foreldre- og svangerskapspenger etter [kapittel 14](lov/1997-02-28-19/kap14) og/eller ytelser ved yrkesskade etter [kapittel 13](lov/1997-02-28-19/kap13), skal det betales følgende tillegg til satsene nevnt i første ledd:
+
+1. 1,2 prosent av pensjonsgivende inntekt for sykepenger og foreldre- og svangerskapspenger etter lovens [kapittel 8](lov/1997-02-28-19/kap8) og [14](lov/1997-02-28-19/kap14).
+2. 0,2 prosent av pensjonsgivende inntekt for ytelser ved yrkesskade etter lovens [kapittel 13](lov/1997-02-28-19/kap13).
 
 Avgiftssatsene i denne paragrafen får ikke anvendelse for pensjonsgivende inntekt som medlemmet har av annet lønnet arbeid eller selvstendig virksomhet enn nevnt i [§ 1](forskrift/2025-12-19-2785/§1).
 

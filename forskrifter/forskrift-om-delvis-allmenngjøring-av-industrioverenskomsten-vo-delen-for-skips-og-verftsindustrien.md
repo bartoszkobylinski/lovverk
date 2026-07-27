@@ -46,15 +46,56 @@ Arbeidsgiver og den som i arbeidsgivers sted leder virksomhet som utfører arbei
 
 ### § 3. Lønnsbestemmelser
 
-Arbeidstakere som utfører produksjons-, montasje- og installasjonsarbeid i skips- og verftsindustrien, jf. [§ 2](forskrift/2024-10-21-2535/§2), skal ha en lønn per time på minst:kr 216,79 for fagarbeiderkr 207,14 for spesialarbeiderkr 197,61 for hjelpearbeider.
+Arbeidstakere som utfører produksjons-, montasje- og installasjonsarbeid i skips- og verftsindustrien, jf. [§ 2](forskrift/2024-10-21-2535/§2), skal ha en lønn per time på minst:
 
-Arbeidstakere som er ansatt på henholdsvis bedrift eller fast arbeidssted, som blir sendt på arbeidsoppdrag utenfor henholdsvis bedriften eller det faste arbeidsstedet, og hvor overnatting er nødvendig på grunn av arbeidsoppdraget, skal betales et tillegg per time på:kr 43,36 for fagarbeiderkr 41,43 for spesialarbeiderkr 39,52 for hjelpearbeider.
+1. kr 216,79 for fagarbeider
+2. kr 207,14 for spesialarbeider
+3. kr 197,61 for hjelpearbeider.
+
+Arbeidstakere som er ansatt på henholdsvis bedrift eller fast arbeidssted, som blir sendt på arbeidsoppdrag utenfor henholdsvis bedriften eller det faste arbeidsstedet, og hvor overnatting er nødvendig på grunn av arbeidsoppdraget, skal betales et tillegg per time på:
+
+1. kr 43,36 for fagarbeider
+2. kr 41,43 for spesialarbeider
+3. kr 39,52 for hjelpearbeider.
 
 Tillegg som nevnt over tilkommer også arbeidstakere som er ansatt på reisebetingelser hvor det forutsettes at arbeidstaker arbeider på forskjellige steder/arbeidsplasser i sitt arbeidsforhold, når arbeidsoppdraget krever overnatting.
 
-På arbeidsplasser med skiftarbeid skal det betales et tillegg per time på:For to-skiftarbeid (36,5 timer pr. uke):skift: inntil lørdag kl. 14.00: intetskift: kr 22,75.For skiftarbeid etter kl. 14.00 på dager før søn- og helligdager: kr 48,61Fra kl. 14.00 på jul-, nyttårs-, påske- og pinseaften: kr 69,69Enhver time utover kl. 24.00 betales med tillegg som for 3. skift: kr 34,93.For tre-skiftarbeid (35,5 timer pr. uke):skift: inntil lørdag kl. 14.00: intetskift: kr 23,45skift: kr 34,93.For skiftarbeid etter kl. 14.00 på dager før søn- og helligdager: kr 50,02Fra kl. 14.00 på jul-, nyttårs-, påske- og pinseaften: kr 71,66.For helkontinuerlig tre-skiftarbeid (33,6 timer pr. uke):skift: inntil lørdag kl. 14.00: intetskift: kr 24,85skift: kr 36,86.For skiftarbeid etter kl. 14.00 på dager før søn- og helligdager: kr 52,81Fra kl. 14.00 på jul-, nyttårs-, påske- og pinseaften: kr 75,72.
+På arbeidsplasser med skiftarbeid skal det betales et tillegg per time på:
 
-Ved omregning fra ordinær arbeidstid, 37,5 timer pr. uke, til avvikende arbeidstidsordninger, brukes følgende tabell:fra 37,5 timer–36,5 timer: 2,74 %fra 37,5 timer–35,5 timer: 5,63 %fra 37,5 timer–33,6 timer: 11,61 %.
+1. For to-skiftarbeid (36,5 timer pr. uke):
+
+   1. skift: inntil lørdag kl. 14.00: intet
+   2. skift: kr 22,75.
+
+   For skiftarbeid etter kl. 14.00 på dager før søn- og helligdager: kr 48,61
+
+   Fra kl. 14.00 på jul-, nyttårs-, påske- og pinseaften: kr 69,69
+
+   Enhver time utover kl. 24.00 betales med tillegg som for 3. skift: kr 34,93.
+2. For tre-skiftarbeid (35,5 timer pr. uke):
+
+   1. skift: inntil lørdag kl. 14.00: intet
+   2. skift: kr 23,45
+   3. skift: kr 34,93.
+
+   For skiftarbeid etter kl. 14.00 på dager før søn- og helligdager: kr 50,02
+
+   Fra kl. 14.00 på jul-, nyttårs-, påske- og pinseaften: kr 71,66.
+3. For helkontinuerlig tre-skiftarbeid (33,6 timer pr. uke):
+
+   1. skift: inntil lørdag kl. 14.00: intet
+   2. skift: kr 24,85
+   3. skift: kr 36,86.
+
+   For skiftarbeid etter kl. 14.00 på dager før søn- og helligdager: kr 52,81
+
+   Fra kl. 14.00 på jul-, nyttårs-, påske- og pinseaften: kr 75,72.
+
+Ved omregning fra ordinær arbeidstid, 37,5 timer pr. uke, til avvikende arbeidstidsordninger, brukes følgende tabell:
+
+- fra 37,5 timer–36,5 timer: 2,74 %
+- fra 37,5 timer–35,5 timer: 5,63 %
+- fra 37,5 timer–33,6 timer: 11,61 %.
 
 Beregningsgrunnlaget for kompensasjon for forkortet arbeidstid er grunnlønnen som er fastsatt i forskriften.
 
@@ -68,7 +109,11 @@ Tariffnemnda kan endre satsene i [§ 3](forskrift/2024-10-21-2535/§3) som følg
 
 Den ordinære arbeidstid må ikke overstige 37,5 timer pr. uke.
 
-Ved skiftarbeid gjelder følgende grenser:to-skiftsordninger: 36,5 timer pr. uke i gjennomsnitttre-skiftsordninger: 35,5 timer pr. uke i gjennomsnitthelkontinuerlig skift: 33,6 timer pr. uke i gjennomsnitt.
+Ved skiftarbeid gjelder følgende grenser:
+
+- to-skiftsordninger: 36,5 timer pr. uke i gjennomsnitt
+- tre-skiftsordninger: 35,5 timer pr. uke i gjennomsnitt
+- helkontinuerlig skift: 33,6 timer pr. uke i gjennomsnitt.
 
 Andre arbeidstidsordninger kan avtales i samsvar med reglene i [lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern kap. 10](lov/2005-06-17-62/kap10).
 

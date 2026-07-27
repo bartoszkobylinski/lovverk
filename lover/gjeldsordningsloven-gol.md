@@ -15,7 +15,7 @@ xml_hash: "5145b9fc5c21394cdd519936f5965d1ebad44222c154959e8a63ae5f381e9825"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,10 @@ Loven skal gi personer med alvorlige gjeldsproblemer en mulighet til å få kont
 
 ### § 1-2. Virkeområde. Forholdet til gjeldsforhandling og konkurs
 
-Loven gjelder for fysiske personer. Loven gjelder ikke for skyldnere som har gjeld knyttet til egen næringsvirksomhet med mindre:næringsvirksomheten har opphørt og det til næringsvirksomheten ikke er knyttet uavklarte forhold som i vesentlig grad vil vanskeliggjøre gjennomføringen av en gjeldsforhandling, ellerden gjeld som er knyttet til næringsvirksomheten utgjør en forholdsvis ubetydelig del av skyldnerens samlede gjeld.
+Loven gjelder for fysiske personer. Loven gjelder ikke for skyldnere som har gjeld knyttet til egen næringsvirksomhet med mindre:
+
+1. næringsvirksomheten har opphørt og det til næringsvirksomheten ikke er knyttet uavklarte forhold som i vesentlig grad vil vanskeliggjøre gjennomføringen av en gjeldsforhandling, eller
+2. den gjeld som er knyttet til næringsvirksomheten utgjør en forholdsvis ubetydelig del av skyldnerens samlede gjeld.
 
 Det kan ikke åpnes gjeldsforhandling dersom skyldnerens bo er under behandling etter [konkursloven](lov/1984-06-08-58). Åpning av gjeldsforhandling er ikke til hinder for at det åpnes konkurs i skyldnerens bo. Åpnes konkurs, skal en sak om gjeldsordning heves.
 
@@ -46,11 +49,21 @@ Skyldnere som er varig ute av stand til å oppfylle sine forpliktelser, kan oppn
 
 Åpning av gjeldsforhandling skal nektes dersom omstendighetene ved gjeldsstiftelsen eller skyldnerens senere disposisjoner klart tyder på at denne på illojal måte har innrettet seg med sikte på å oppnå gjeldsordning, eller skyldneren forsettlig eller grovt uaktsomt har gitt feilaktige eller villedende opplysninger til namsmyndighetene om forhold av vesentlig betydning for saken. Det samme gjelder dersom det foreligger uavklarte økonomiske forhold som i vesentlig grad vil vanskeliggjøre gjennomføringen av en gjeldsforhandling.
 
-Åpning av gjeldsforhandling skal også nektes dersom det åpenbart vil virke støtende for andre skyldnere eller samfunnet for øvrig. Ved vurderingen skal det særlig legges vekt på om:størstedelen av gjelden er nylig stiftet. Det skal ses bort fra forsvarlige låneopptak til refinansiering eller til nødvendig bolig o.l.,en ikke ubetydelig del av gjelden stammer fra straffbare forhold som er avgjort ved dom eller forelegg mindre enn tre år før søknad leveres. Dersom skyldneren klart er i en rehabiliteringssituasjon, kan gjeldsforhandling likevel åpnes,skyldneren har foretatt disposisjoner som ville vært omstøtelige i konkurs, jf. [dekningsloven kapittel 5](lov/1984-06-08-59/kap5),skyldneren i den nærmeste tiden før søknad om gjeldsforhandling ble fremmet, på sterkt klanderverdig måte har unnlatt å oppfylle sine forpliktelser så langt det var mulig,en betydelig andel av skyldnerens samlede gjeld er skatte- og avgiftsgjeld, og om skyldneren kan klandres for forhold knyttet til denne.
+Åpning av gjeldsforhandling skal også nektes dersom det åpenbart vil virke støtende for andre skyldnere eller samfunnet for øvrig. Ved vurderingen skal det særlig legges vekt på om:
+
+1. størstedelen av gjelden er nylig stiftet. Det skal ses bort fra forsvarlige låneopptak til refinansiering eller til nødvendig bolig o.l.,
+2. en ikke ubetydelig del av gjelden stammer fra straffbare forhold som er avgjort ved dom eller forelegg mindre enn tre år før søknad leveres. Dersom skyldneren klart er i en rehabiliteringssituasjon, kan gjeldsforhandling likevel åpnes,
+3. skyldneren har foretatt disposisjoner som ville vært omstøtelige i konkurs, jf. [dekningsloven kapittel 5](lov/1984-06-08-59/kap5),
+4. skyldneren i den nærmeste tiden før søknad om gjeldsforhandling ble fremmet, på sterkt klanderverdig måte har unnlatt å oppfylle sine forpliktelser så langt det var mulig,
+5. en betydelig andel av skyldnerens samlede gjeld er skatte- og avgiftsgjeld, og om skyldneren kan klandres for forhold knyttet til denne.
 
 Dersom skyldneren har oppnådd gjeldsordning tidligere og denne er blitt opphevet, kan det åpnes gjeldsforhandling bare hvis endrete omstendigheter gjør at det fremstår som sannsynlig at en ny gjeldsordning vil bli gjennomført. Dersom skyldneren har fullført en gjeldsordning tidligere, kan det bare i særlige tilfeller åpnes gjeldsforhandling før det har gått fem år fra den tidligere gjeldsordningen ble fullført. Det skal dessuten legges vekt på at skyldneren har hatt gjeldsordning tidligere, ved vurderingen av om det vil virke støtende å åpne gjeldsforhandling.
 
-Gjeldsforhandling for en skyldner som er bosatt utenfor Norge, kan bare åpnes dersomdet er ubetenkelig med hensyn til sakens opplysning,skyldneren ikke, eller bare i ubetydelig grad, har gjeld til utenlandske kreditorer, ogskyldneren ikke er eier av bolig eller andre formuesgoder i utlandet av vesentlig verdi med mindre det er åpenbart at saken likevel lar seg opplyse tilstrekkelig og at forholdet ikke vil vanskeliggjøre gjeldsforhandlingene.
+Gjeldsforhandling for en skyldner som er bosatt utenfor Norge, kan bare åpnes dersom
+
+1. det er ubetenkelig med hensyn til sakens opplysning,
+2. skyldneren ikke, eller bare i ubetydelig grad, har gjeld til utenlandske kreditorer, og
+3. skyldneren ikke er eier av bolig eller andre formuesgoder i utlandet av vesentlig verdi med mindre det er åpenbart at saken likevel lar seg opplyse tilstrekkelig og at forholdet ikke vil vanskeliggjøre gjeldsforhandlingene.
 
 > Tilføyd ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), endret ved lover [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640)), [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 okt 2017 iflg. [res. 22 sep 2017 nr. 1440](forskrift/2017-09-22-1440)), [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)).
 
@@ -116,7 +129,11 @@ Dersom namsfogden finner det nødvendig for å sikre at gjeldsforhandlingen kan 
 
 ### § 2-6. Namsfogdens myndighet til å avslå søknader
 
-Namsfogden skal avslå søknaden om gjeldsforhandling dersom:det finnes klart at vilkårene for gjeldsordning etter [§§ 1-2](lov/1992-07-17-99/§1-2) til [1-4](lov/1992-07-17-99/§1-4) ikke er oppfylt,skyldneren ikke medvirker etter evne til sakens opplysning, ellerskyldneren ikke innen rimelig tid selger eller medvirker til salg av eiendeler som namsfogden etter [§ 2-5](lov/1992-07-17-99/§2-5) første ledd har pålagt skyldneren å selge før gjeldsforhandling åpnes.
+Namsfogden skal avslå søknaden om gjeldsforhandling dersom:
+
+1. det finnes klart at vilkårene for gjeldsordning etter [§§ 1-2](lov/1992-07-17-99/§1-2) til [1-4](lov/1992-07-17-99/§1-4) ikke er oppfylt,
+2. skyldneren ikke medvirker etter evne til sakens opplysning, eller
+3. skyldneren ikke innen rimelig tid selger eller medvirker til salg av eiendeler som namsfogden etter [§ 2-5](lov/1992-07-17-99/§2-5) første ledd har pålagt skyldneren å selge før gjeldsforhandling åpnes.
 
 > Endret ved lover [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
@@ -168,7 +185,14 @@ Namsfogden skal beslutte sikringstrekk i lønn og andre ytelser som nevnt i [dek
 
 ### § 3-4. Betalingsutsettelse i en gjeldsforhandlingsperiode
 
-Åpning av gjeldsforhandling medfører at skyldneren i en gjeldsforhandlingsperiode på fire måneder regnet fra åpningen gis en betalingsutsettelse som innebærer at fordringshaverne verken kan:kreve eller motta hel eller delvis betaling eller annen dekning av sitt tilgodehavende,motregne et krav, med mindre hovedkrav og motkrav springer ut av samme rettsforhold,gjøre gjeldende eventuelle forfallsklausuler i forholdet på grunn av betalingsutsettelsen etter denne paragraf,ta utlegg i eller tvangsrealisere skyldnerens eiendeler,under henvisning til tidligere betalingsmislighold nekte å levere varer eller tjenester som er nødvendig for skyldnerens og dennes husstands livsopphold mot kontant betaling eller tilfredsstillende sikkerhet, ellerrette krav mot kausjonisten, jf. [finansavtaleloven § 6-10](lov/2020-12-18-146/§6-10) fjerde ledd.
+Åpning av gjeldsforhandling medfører at skyldneren i en gjeldsforhandlingsperiode på fire måneder regnet fra åpningen gis en betalingsutsettelse som innebærer at fordringshaverne verken kan:
+
+1. kreve eller motta hel eller delvis betaling eller annen dekning av sitt tilgodehavende,
+2. motregne et krav, med mindre hovedkrav og motkrav springer ut av samme rettsforhold,
+3. gjøre gjeldende eventuelle forfallsklausuler i forholdet på grunn av betalingsutsettelsen etter denne paragraf,
+4. ta utlegg i eller tvangsrealisere skyldnerens eiendeler,
+5. under henvisning til tidligere betalingsmislighold nekte å levere varer eller tjenester som er nødvendig for skyldnerens og dennes husstands livsopphold mot kontant betaling eller tilfredsstillende sikkerhet, eller
+6. rette krav mot kausjonisten, jf. [finansavtaleloven § 6-10](lov/2020-12-18-146/§6-10) fjerde ledd.
 
 Renter påløper i perioden, men forfaller ikke til betaling. Renter av fordringer sikret ved pant innenfor omsetningsverdien med tillegg av 10 prosent av bolig som skal beholdes, jf. [§ 4-8](lov/1992-07-17-99/§4-8) bokstav a, forfaller likevel til betaling i perioden.
 
@@ -184,7 +208,12 @@ Bestemmelsene i denne paragraf gjelder selv om skyldneren ikke er bosatt i Norge
 
 ### § 3-5. Skyldnerens plikter i gjeldsforhandlingsperioden
 
-Skyldneren plikter i gjeldsforhandlingsperioden:å avsette lønn og andre inntekter som overstiger det skyldneren trenger til nødvendig underhold av seg og sin husstand,å si opp leieavtaler og andre avtaler om fremtidige ytelser som ikke gjelder varer og tjenester som er nødvendig for skyldnerens eller dennes husstands livsopphold,å ikke avhende eller pantsette eiendeler og verdier som kan tjene til dekning for fordringshaverne, med mindre namsfogden samtykker,å ikke stifte ny gjeld uten etter namsfogdens samtykke, eller foreta andre disposisjoner som er egnet til å skade kreditorenes interesser.
+Skyldneren plikter i gjeldsforhandlingsperioden:
+
+1. å avsette lønn og andre inntekter som overstiger det skyldneren trenger til nødvendig underhold av seg og sin husstand,
+2. å si opp leieavtaler og andre avtaler om fremtidige ytelser som ikke gjelder varer og tjenester som er nødvendig for skyldnerens eller dennes husstands livsopphold,
+3. å ikke avhende eller pantsette eiendeler og verdier som kan tjene til dekning for fordringshaverne, med mindre namsfogden samtykker,
+4. å ikke stifte ny gjeld uten etter namsfogdens samtykke, eller foreta andre disposisjoner som er egnet til å skade kreditorenes interesser.
 
 Samtykke etter første ledd bokstav d skal bare gis til refinansiering, boligformål eller til strengt nødvendige varer og tjenester og bare dersom låneopptaket fremstår som forsvarlig med hensyn til gjeldsordningen og skyldnerens økonomiske stilling. Gjeld stiftet i gjeldsforhandlingsperioden etter bestemmelsen her omfattes ikke av gjeldsordningen. Beslutning som tillater gjeldsstiftelse, kan ikke påklages.
 
@@ -244,7 +273,11 @@ Skyldneren har plikt til å avhende bolig dersom salg av boligen vil gi fordring
 
 ### § 4-5. Skyldnerens rett til å beholde personlige eiendeler, transportmidler m.v.
 
-Dersom verdien av tingene ikke er større enn at det etter forholdene er rimelig at skyldneren beholder dem, har skyldneren rett til å beholde:klær og andre ting til personlig bruk for skyldneren eller dennes husstand,innbo, utstyr og liknende løsøre som skyldneren trenger i sitt hjem,redskaper, transportmidler og liknende hjelpemidler som skyldneren eller noen av dennes husstand trenger for sitt yrke eller sin utdanning eller av andre velferdsmessige grunner, likevel ikke utover en samlet verdi som tilsvarer folketrygdens grunnbeløp. Beløpsgrensen kan fravikes dersom skyldneren er næringsdrivende og ingen fordringshaver motsetter seg det.
+Dersom verdien av tingene ikke er større enn at det etter forholdene er rimelig at skyldneren beholder dem, har skyldneren rett til å beholde:
+
+1. klær og andre ting til personlig bruk for skyldneren eller dennes husstand,
+2. innbo, utstyr og liknende løsøre som skyldneren trenger i sitt hjem,
+3. redskaper, transportmidler og liknende hjelpemidler som skyldneren eller noen av dennes husstand trenger for sitt yrke eller sin utdanning eller av andre velferdsmessige grunner, likevel ikke utover en samlet verdi som tilsvarer folketrygdens grunnbeløp. Beløpsgrensen kan fravikes dersom skyldneren er næringsdrivende og ingen fordringshaver motsetter seg det.
 
 Dersom verdien av tingene ikke er større enn at det ville være åpenbart urimelig om skyldneren ikke fikk beholde dem, har skyldneren rett til å beholde ting som har en særlig personlig verdi for skyldneren eller dennes husstand.
 
@@ -282,7 +315,45 @@ Om adgangen til å angripe verdsettingen gjelder [tvangsfullbyrdelsesloven § 9-
 
 ### § 4-8. Fordelingen mellom fordringshaverne
 
-Gjeldsordningen skal omfatte alle skyldnerens forpliktelser som ikke er betaling for en fremtidig motytelse som skyldneren har rett til å motta etter [§§ 4-3](lov/1992-07-17-99/§4-3) til [4-5](lov/1992-07-17-99/§4-5) og skatte- og avgiftskrav som holdes utenfor gjeldsordningen i henhold til bokstav c nedenfor samt forpliktelser som nevnt i tredje ledd. De midler som skal fordeles mellom fordringshaverne fordeles forholdsmessig etter gjeldens størrelse, med følgende unntak:*Fordringer sikret ved pant i bolig*Dersom skyldneren skal beholde eiet bolig, skal fordringer sikret ved pant i boligen innenfor boligens omsetningsverdi med tillegg av 10 prosent, gis avtalt rente under gjeldsordningen. Det skal ikke betales avdrag i gjeldsordningsperioden, men hovedstolen består. Krav sikret ved lovbestemt pant i boligen i henhold til [panteloven § 6-1](lov/1980-02-08-2/§6-1) skal likevel gis full dekning.Andre fordringer sikret ved pant i boligen gis dekning på linje med andre ikke pantesikrede krav. Fordringen faller bort når skyldneren har oppfylt forpliktelsene i henhold til gjeldsordningen.*Andre pantesikrede fordringer*Andre fordringer som er sikret ved pant innenfor pantegjenstandens verdi, skal betjenes med avtalte renter og avdrag.Fordringer med pant som faller utenfor pantets omsetningsverdi skal behandles på lik linje med ikke pantesikrede krav.*Skatte- og avgiftskrav*Skatte- og avgiftskrav som er oppstått etter åpningstidspunktet omfattes ikke av gjeldsordningen. Dette gjelder også skatte- og avgiftskrav som fastsettes ved vedtak etter åpningstidspunktet.Har skyldneren hatt for lavt forskudd i gjeldsordningsperioden, som har medført høyere dividende enn dersom forskuddet hadde vært riktig, skal derved oppstått skattegjeld dekkes fullt ut ved at dividenden til kreditorene settes ned tilsvarende inntil skattekravet med tillegg av renter og omkostninger er betalt.*Bidragsforpliktelse*Bidragsforpliktelser som skyldneren er pålagt etter ekteskapslovgivningen eller etter [barneloven](lov/1981-04-08-7), unntatt gjeld til det offentlige, skal gis full dekning. Gjeld til bidragsberettigede som har oppstått mer enn fem år før søknaden om gjeldsordning fremmes, kan nedsettes dersom det ikke vil virke særlig urimelig overfor den bidragsberettigede.Ved vurderingen etter første ledd annet punktum skal det særlig legges vekt på utsiktene til at gjelden vil kunne bli nedbetalt. Det skal også legges vekt på årsaken til at gjelden har oppstått, og bidragsmottakerens økonomiske stilling.*Mindre fordringer*Mindre fordringer kan innfris fullt ut når hensynet til en rimelig gjennomføring av gjeldsordningen tilsier det.*Renter og omkostninger*Renter og omkostninger kan gis dårligere dekning enn andre krav når det ikke vil virke særlig urimelig overfor enkelte fordringshavere.*Kravets art*En fordring kan gis bedre dekning enn andre krav dersom sterke grunner tilsier det.*Krav som grunner seg på en straffbar handling*Straffebøter som er fastsatt ved dom, skal dekkes fullt ut, eller i henhold til et eventuelt benådningsvedtak. Straffebøter som er fastsatt ved forelegg mindre enn tre år før søknad om gjeldsforhandling fremmes, skal som hovedregel gis full dekning.Krav på erstatning eller oppreisning for skade voldt ved en straffbar handling skal gis full dekning. Unntak kan gjøres dersom kravet er fastsatt ved dom eller forelegg mer enn tre år før søknad om gjeldsforhandling fremmes, eller dersom særlige resosialiseringshensyn tilsier det og hensyn til den som har kravet ikke er avgjørende. Ved vurderingen av om det foreligger et slikt unntakstilfelle, skal det særlig legges vekt på arten av den straffbare handling.*Gjeld oppstått etter åpenbart brudd på avslagsplikten etter [finansavtaleloven § 5-4](lov/2020-12-18-146/§5-4)*Gjeld som stammer fra lån eller kreditt som åpenbart skulle ha vært avslått i henhold til [finansavtaleloven § 5-4](lov/2020-12-18-146/§5-4), kan gis dårligere dekning enn andre krav med mindre det vil virke særlig urimelig overfor enkelte fordringshavere.
+Gjeldsordningen skal omfatte alle skyldnerens forpliktelser som ikke er betaling for en fremtidig motytelse som skyldneren har rett til å motta etter [§§ 4-3](lov/1992-07-17-99/§4-3) til [4-5](lov/1992-07-17-99/§4-5) og skatte- og avgiftskrav som holdes utenfor gjeldsordningen i henhold til bokstav c nedenfor samt forpliktelser som nevnt i tredje ledd. De midler som skal fordeles mellom fordringshaverne fordeles forholdsmessig etter gjeldens størrelse, med følgende unntak:
+
+1. *Fordringer sikret ved pant i bolig*
+
+   Dersom skyldneren skal beholde eiet bolig, skal fordringer sikret ved pant i boligen innenfor boligens omsetningsverdi med tillegg av 10 prosent, gis avtalt rente under gjeldsordningen. Det skal ikke betales avdrag i gjeldsordningsperioden, men hovedstolen består. Krav sikret ved lovbestemt pant i boligen i henhold til [panteloven § 6-1](lov/1980-02-08-2/§6-1) skal likevel gis full dekning.
+
+   Andre fordringer sikret ved pant i boligen gis dekning på linje med andre ikke pantesikrede krav. Fordringen faller bort når skyldneren har oppfylt forpliktelsene i henhold til gjeldsordningen.
+2. *Andre pantesikrede fordringer*
+
+   Andre fordringer som er sikret ved pant innenfor pantegjenstandens verdi, skal betjenes med avtalte renter og avdrag.
+
+   Fordringer med pant som faller utenfor pantets omsetningsverdi skal behandles på lik linje med ikke pantesikrede krav.
+3. *Skatte- og avgiftskrav*
+
+   Skatte- og avgiftskrav som er oppstått etter åpningstidspunktet omfattes ikke av gjeldsordningen. Dette gjelder også skatte- og avgiftskrav som fastsettes ved vedtak etter åpningstidspunktet.
+
+   Har skyldneren hatt for lavt forskudd i gjeldsordningsperioden, som har medført høyere dividende enn dersom forskuddet hadde vært riktig, skal derved oppstått skattegjeld dekkes fullt ut ved at dividenden til kreditorene settes ned tilsvarende inntil skattekravet med tillegg av renter og omkostninger er betalt.
+4. *Bidragsforpliktelse*
+
+   Bidragsforpliktelser som skyldneren er pålagt etter ekteskapslovgivningen eller etter [barneloven](lov/1981-04-08-7), unntatt gjeld til det offentlige, skal gis full dekning. Gjeld til bidragsberettigede som har oppstått mer enn fem år før søknaden om gjeldsordning fremmes, kan nedsettes dersom det ikke vil virke særlig urimelig overfor den bidragsberettigede.
+
+   Ved vurderingen etter første ledd annet punktum skal det særlig legges vekt på utsiktene til at gjelden vil kunne bli nedbetalt. Det skal også legges vekt på årsaken til at gjelden har oppstått, og bidragsmottakerens økonomiske stilling.
+5. *Mindre fordringer*
+
+   Mindre fordringer kan innfris fullt ut når hensynet til en rimelig gjennomføring av gjeldsordningen tilsier det.
+6. *Renter og omkostninger*
+
+   Renter og omkostninger kan gis dårligere dekning enn andre krav når det ikke vil virke særlig urimelig overfor enkelte fordringshavere.
+7. *Kravets art*
+
+   En fordring kan gis bedre dekning enn andre krav dersom sterke grunner tilsier det.
+8. *Krav som grunner seg på en straffbar handling*
+
+   Straffebøter som er fastsatt ved dom, skal dekkes fullt ut, eller i henhold til et eventuelt benådningsvedtak. Straffebøter som er fastsatt ved forelegg mindre enn tre år før søknad om gjeldsforhandling fremmes, skal som hovedregel gis full dekning.
+
+   Krav på erstatning eller oppreisning for skade voldt ved en straffbar handling skal gis full dekning. Unntak kan gjøres dersom kravet er fastsatt ved dom eller forelegg mer enn tre år før søknad om gjeldsforhandling fremmes, eller dersom særlige resosialiseringshensyn tilsier det og hensyn til den som har kravet ikke er avgjørende. Ved vurderingen av om det foreligger et slikt unntakstilfelle, skal det særlig legges vekt på arten av den straffbare handling.
+9. *Gjeld oppstått etter åpenbart brudd på avslagsplikten etter [finansavtaleloven § 5-4](lov/2020-12-18-146/§5-4)*
+
+   Gjeld som stammer fra lån eller kreditt som åpenbart skulle ha vært avslått i henhold til [finansavtaleloven § 5-4](lov/2020-12-18-146/§5-4), kan gis dårligere dekning enn andre krav med mindre det vil virke særlig urimelig overfor enkelte fordringshavere.
 
 Dersom det ikke er mulig å oppfylle kravene i paragrafen her, og fordringshavere som kan kreve full dekning ikke frivillig går med på en nedsettelse av kravet, kan gjeldsordning ikke oppnås.
 
@@ -338,9 +409,18 @@ Dersom det benyttes rettsmidler mot en avgjørelse om å nekte stadfestelse av t
 
 En tvungen gjeldsordning skal oppfylle [§§ 4-2](lov/1992-07-17-99/§4-2) til [4-10](lov/1992-07-17-99/§4-10). En gjeldsordningsperiode skal være på fem år. Dersom det foreligger tungtveiende grunner kan en gjeldsordning med en annen gjeldsordningsperiode stadfestes. En gjeldsordning med en gjeldsordningsperiode på mer enn åtte år kan bare stadfestes i helt særegne tilfeller. Perioden kan ikke overstige ti år. Gjeldsordningsperiodens lengde skal regnes fra åpningen av gjeldsforhandlingene.
 
-Ved vurderingen av om en gjeldsordning med en kortere gjeldsordningsperiode enn fem år kan stadfestes, skal det blant annet legges vekt på om:det foreligger sosiale forhold som medfører at en normal gjeldsordningsperiode vil være særlig belastende for skyldneren. Ved vurderingen skal det blant annet legges vekt på skyldnerens alder, helse, familiesituasjon, hvor lenge gjeldsproblemene har pågått, og om skyldneren har måttet selge bolig i forbindelse med gjeldsordningen,kausjonsansvar utgjør en vesentlig del av skyldnerens gjeldsforpliktelser, ellerskyldneren i lengre tid har oppfylt sine forpliktelser i henhold til en utenrettslig gjeldsordning.
+Ved vurderingen av om en gjeldsordning med en kortere gjeldsordningsperiode enn fem år kan stadfestes, skal det blant annet legges vekt på om:
 
-Ved vurderingen av om en gjeldsordning med en lengre gjeldsordningsperiode enn fem år kan stadfestes, skal det blant annet legges vekt på om:skyldneren har studiegjeld av betydelig størrelse,skyldneren skal beholde en eiet bolig hvor pantesikrede fordringer i henhold til [§ 4-8](lov/1992-07-17-99/§4-8) bokstav a er vesentlig mindre enn den verdi som er fastsatt etter [§ 4-7](lov/1992-07-17-99/§4-7) første ledd,gjeldsordningen virker særlig urimelig overfor medforpliktede skyldnere, ellerikke ubetydelige deler av dividenden medgår til å dekke forpliktelser som nevnt i [§ 4-8](lov/1992-07-17-99/§4-8) bokstav g eller h.
+1. det foreligger sosiale forhold som medfører at en normal gjeldsordningsperiode vil være særlig belastende for skyldneren. Ved vurderingen skal det blant annet legges vekt på skyldnerens alder, helse, familiesituasjon, hvor lenge gjeldsproblemene har pågått, og om skyldneren har måttet selge bolig i forbindelse med gjeldsordningen,
+2. kausjonsansvar utgjør en vesentlig del av skyldnerens gjeldsforpliktelser, eller
+3. skyldneren i lengre tid har oppfylt sine forpliktelser i henhold til en utenrettslig gjeldsordning.
+
+Ved vurderingen av om en gjeldsordning med en lengre gjeldsordningsperiode enn fem år kan stadfestes, skal det blant annet legges vekt på om:
+
+1. skyldneren har studiegjeld av betydelig størrelse,
+2. skyldneren skal beholde en eiet bolig hvor pantesikrede fordringer i henhold til [§ 4-8](lov/1992-07-17-99/§4-8) bokstav a er vesentlig mindre enn den verdi som er fastsatt etter [§ 4-7](lov/1992-07-17-99/§4-7) første ledd,
+3. gjeldsordningen virker særlig urimelig overfor medforpliktede skyldnere, eller
+4. ikke ubetydelige deler av dividenden medgår til å dekke forpliktelser som nevnt i [§ 4-8](lov/1992-07-17-99/§4-8) bokstav g eller h.
 
 En tvungen gjeldsordning skal innebære at en skyldner som har oppfylt gjeldsordningen, ved utløpet av gjeldsordningsperioden skal være fri for annen gjeld som er omfattet av gjeldsordningen enn gjeld som nevnt i [§ 4-8](lov/1992-07-17-99/§4-8) bokstav a første ledd og bokstav b første ledd.
 
@@ -360,7 +440,11 @@ I rettsmøte kan skyldneren endre forslaget dersom det er nødvendig for å avhj
 
 ### § 5-4. Tingrettens stadfestelse
 
-Retten skal stadfeste skyldnerens forslag til tvungen gjeldsordning dersom vilkårene i [§ 1-2](lov/1992-07-17-99/§1-2), [§ 1-3](lov/1992-07-17-99/§1-3) første ledd og [§ 1-4](lov/1992-07-17-99/§1-4) er oppfylt og forslaget oppfyller [§ 5-2](lov/1992-07-17-99/§5-2). Retten skal likevel nekte stadfestelse dersom:det vil virke støtende å stadfeste den gjeldsordningen skyldneren har foreslått,det foreligger en saksbehandlingsfeil som ikke er avhjulpet og som åpenbart har hatt betydning for utformingen av skyldnerens forslag, ellerså mange av fordringene er omtvistet, at det ikke er grunnlag for å vurdere skyldnerens forslag.
+Retten skal stadfeste skyldnerens forslag til tvungen gjeldsordning dersom vilkårene i [§ 1-2](lov/1992-07-17-99/§1-2), [§ 1-3](lov/1992-07-17-99/§1-3) første ledd og [§ 1-4](lov/1992-07-17-99/§1-4) er oppfylt og forslaget oppfyller [§ 5-2](lov/1992-07-17-99/§5-2). Retten skal likevel nekte stadfestelse dersom:
+
+1. det vil virke støtende å stadfeste den gjeldsordningen skyldneren har foreslått,
+2. det foreligger en saksbehandlingsfeil som ikke er avhjulpet og som åpenbart har hatt betydning for utformingen av skyldnerens forslag, eller
+3. så mange av fordringene er omtvistet, at det ikke er grunnlag for å vurdere skyldnerens forslag.
 
 Rettens avgjørelse treffes ved kjennelse. Kjennelsen forkynnes for skyldneren og meddeles sakens øvrige parter på den måte retten finner hensiktsmessig. En kjennelse som nekter stadfestelse kan bare ankes av skyldneren.
 

@@ -15,7 +15,7 @@ xml_hash: "e6a777b2fd29d23233f02ed4118441b7e000790f132588cd9b378e21cb6c98c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,34 @@ Forskriften gjelder tariffer ved salg av nettjenester samt rapportering av økon
 
 ### § 1-3. Definisjoner
 
-I denne forskrift menes med:*Anleggsbidrag:* Beregnet investeringstilskudd ved tilknytning av en ny kunde eller ved forsterkning av nettet til en eksisterende kunde.*Avkastning:* Som definert i [forskrift om strømnettselskapenes inntekter § 1-3](forskrift/2025-01-14-50/§1-3).*Avkastningsgrunnlag:* Som definert i [forskrift om strømnettselskapenes inntekter § 1-3](forskrift/2025-01-14-50/§1-3).*Distribusjonsnett:* Overføringsnett med nominell spenning opp til og med 22 kV, med mindre annet er bestemt.*Integrert foretak:* Som definert i [energiloven § 1-3](lov/1990-06-29-50/§1-3).*Konsesjonær:* Innehaver av omsetningskonsesjon.*Kundegruppe:* En avgrenset gruppe av sluttbrukere, avgrenset ut ifra likheter i brukstid, leveringskvalitet og forbruksnivå.*Kundespesifikke kostnader:* Kostnader knyttet til kundehåndtering, herunder måling, avregning, fakturering, tilsyn mv.*Marginale tapskostnader:* Endring i tapskostnader i nettet ved en marginal endring i innmating eller uttak.*Marginal tapsprosent:* Prosentvis endring i nettap ved en marginal endring i innmating eller uttak.*Nettselskap:* Konsesjonær som eier overføringsnett eller har ansvar for nettjenester.*Nettjenester:* Omfatter en eller flere av følgende:overføring av kraft, herunder drift, vedlikehold og investering i nettanleggtarifferingmåling, avregning og kundehåndteringtilsyn og sikkerhetdriftskoordineringpålagte beredskapstiltakpålagt energiutredning.*Plusskunde:* Sluttbruker med forbruk og fysisk eller virtuell produksjon bak tilknytningspunkt, hvor innmatet effekt i tilknytningspunktet ikke på noe tidspunkt overstiger 100 kW. En plusskunde kan ikke ha konsesjonspliktig anlegg bak eget tilknytningspunkt eller omsetning bak tilknytningspunktet som krever omsetningskonsesjon.*Regionalnett:* Overføringsnett mellom transmisjonsnett og distribusjonsnett.*Tariffer:* Med tariffer forstås alle priser og annen økonomisk godtgjørelse som konsesjonæren fastsetter for tilknytning til og bruk av elektriske nettanlegg.*Transmisjonsnett:* Anlegg i overføringsnettet definert i [energiloven § 1-5](lov/1990-06-29-50/§1-5).*Tilknytningspunkt:* Punkt i overføringsnettet der det foregår innmating eller uttak av kraft eller utveksling mellom nettselskap.*Øvrig virksomhet:* All virksomhet som ikke omfattes av kraftproduksjon, kraftomsetning, nettvirksomhet eller televirksomhet; herunder fjernvarme, veilys, installasjon, kabel-tv, enøk-virksomhet, utleie og salg av konsulenttjenester.
+I denne forskrift menes med:
+
+1. *Anleggsbidrag:* Beregnet investeringstilskudd ved tilknytning av en ny kunde eller ved forsterkning av nettet til en eksisterende kunde.
+2. *Avkastning:* Som definert i [forskrift om strømnettselskapenes inntekter § 1-3](forskrift/2025-01-14-50/§1-3).
+3. *Avkastningsgrunnlag:* Som definert i [forskrift om strømnettselskapenes inntekter § 1-3](forskrift/2025-01-14-50/§1-3).
+4. *Distribusjonsnett:* Overføringsnett med nominell spenning opp til og med 22 kV, med mindre annet er bestemt.
+5. *Integrert foretak:* Som definert i [energiloven § 1-3](lov/1990-06-29-50/§1-3).
+6. *Konsesjonær:* Innehaver av omsetningskonsesjon.
+7. *Kundegruppe:* En avgrenset gruppe av sluttbrukere, avgrenset ut ifra likheter i brukstid, leveringskvalitet og forbruksnivå.
+8. *Kundespesifikke kostnader:* Kostnader knyttet til kundehåndtering, herunder måling, avregning, fakturering, tilsyn mv.
+9. *Marginale tapskostnader:* Endring i tapskostnader i nettet ved en marginal endring i innmating eller uttak.
+10. *Marginal tapsprosent:* Prosentvis endring i nettap ved en marginal endring i innmating eller uttak.
+11. *Nettselskap:* Konsesjonær som eier overføringsnett eller har ansvar for nettjenester.
+12. *Nettjenester:* Omfatter en eller flere av følgende:
+
+    1. overføring av kraft, herunder drift, vedlikehold og investering i nettanlegg
+    2. tariffering
+    3. måling, avregning og kundehåndtering
+    4. tilsyn og sikkerhet
+    5. driftskoordinering
+    6. pålagte beredskapstiltak
+    7. pålagt energiutredning.
+13. *Plusskunde:* Sluttbruker med forbruk og fysisk eller virtuell produksjon bak tilknytningspunkt, hvor innmatet effekt i tilknytningspunktet ikke på noe tidspunkt overstiger 100 kW. En plusskunde kan ikke ha konsesjonspliktig anlegg bak eget tilknytningspunkt eller omsetning bak tilknytningspunktet som krever omsetningskonsesjon.
+14. *Regionalnett:* Overføringsnett mellom transmisjonsnett og distribusjonsnett.
+15. *Tariffer:* Med tariffer forstås alle priser og annen økonomisk godtgjørelse som konsesjonæren fastsetter for tilknytning til og bruk av elektriske nettanlegg.
+16. *Transmisjonsnett:* Anlegg i overføringsnettet definert i [energiloven § 1-5](lov/1990-06-29-50/§1-5).
+17. *Tilknytningspunkt:* Punkt i overføringsnettet der det foregår innmating eller uttak av kraft eller utveksling mellom nettselskap.
+18. *Øvrig virksomhet:* All virksomhet som ikke omfattes av kraftproduksjon, kraftomsetning, nettvirksomhet eller televirksomhet; herunder fjernvarme, veilys, installasjon, kabel-tv, enøk-virksomhet, utleie og salg av konsulenttjenester.
 
 > Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [11 okt 2002 nr. 1123](forskrift/2002-10-11-1123) (i kraft 1 jan 2003), [5 des 2005 nr. 1470](forskrift/2005-12-05-1470) (i kraft 1 jan 2006), [29 april 2016 nr. 456](forskrift/2016-04-29-456) (i kraft 1 jan 2017), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019), [8 mai 2023 nr. 671](forskrift/2023-05-08-671) (i kraft 1 okt 2023), [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
 
@@ -52,7 +79,24 @@ Nettselskapet kan la andre utføre nettjenester såfremt inntekter og kostnader 
 
 Nettselskapet skal ikke belaste nettvirksomheten med kostnader som er knyttet til konkurranseutsatt virksomhet. Flytting av inntekter som knytter seg til nettvirksomheten over på konkurranseutsatte virksomhetsområder er ikke tillatt.
 
-Nettselskapet skal overholde følgende krav:*Eksterne transaksjoner*Overføring av midler, herunder finans- og realkapital som stilles til rådighet, fra nettselskaper til andre juridiske personer, skal skje til markedsvilkår.*Transaksjoner i et integrert foretak*Transaksjoner mellom nettselskapet og andre selskaper i et integrert foretak skal skje til markedsvilkår. Overholdelse av markedsvilkår skal kunne gjøres rede for. Avtaler mellom selskaper i et integrert foretak skal foreligge skriftlig.*Interne transaksjoner*Ved interne transaksjoner mellom nettvirksomheten og andre virksomhetsområder skal faktiske kostnader fordeles direkte på det virksomhetsområdet ytelsen er utført. Kostnadene skal fordeles forholdsmessig ut fra den reelle bruken av ressurser.Ved utnyttelse av felles anleggsmidler mellom andre virksomhetsområder og nettvirksomheten skal kostnader, avskrivninger og balanseverdier fordeles forholdsmessig mellom virksomhetsområdene ut fra den reelle bruken av anleggsmidlene.Interne transaksjoner skal ikke påvirke årsresultatet. Prinsipper og fordelingsnøkler anvendt ved fordelingen av kostnader og felles anleggsmidler skal gjøres rede for og skal kunne dokumenteres. Reguleringsmyndigheten for energi kan gi pålegg om at en bestemt metode for kostnadsberegning eller fordeling skal benyttes.*Anskaffelser til nettvirksomheten*Enhver anskaffelse fra andre selskaper i et integrert foretak, hvor kostnadene ved anskaffelsen belastes nettvirksomheten, skal så langt som mulig være basert på konkurranse. Utvelgelse av kvalifiserte anbydere og tildeling av slike kontrakter skal skje på grunnlag av objektive og ikke-diskriminerende kriterier.
+Nettselskapet skal overholde følgende krav:
+
+1. *Eksterne transaksjoner*
+
+   Overføring av midler, herunder finans- og realkapital som stilles til rådighet, fra nettselskaper til andre juridiske personer, skal skje til markedsvilkår.
+2. *Transaksjoner i et integrert foretak*
+
+   Transaksjoner mellom nettselskapet og andre selskaper i et integrert foretak skal skje til markedsvilkår. Overholdelse av markedsvilkår skal kunne gjøres rede for. Avtaler mellom selskaper i et integrert foretak skal foreligge skriftlig.
+3. *Interne transaksjoner*
+
+   Ved interne transaksjoner mellom nettvirksomheten og andre virksomhetsområder skal faktiske kostnader fordeles direkte på det virksomhetsområdet ytelsen er utført. Kostnadene skal fordeles forholdsmessig ut fra den reelle bruken av ressurser.
+
+   Ved utnyttelse av felles anleggsmidler mellom andre virksomhetsområder og nettvirksomheten skal kostnader, avskrivninger og balanseverdier fordeles forholdsmessig mellom virksomhetsområdene ut fra den reelle bruken av anleggsmidlene.
+
+   Interne transaksjoner skal ikke påvirke årsresultatet. Prinsipper og fordelingsnøkler anvendt ved fordelingen av kostnader og felles anleggsmidler skal gjøres rede for og skal kunne dokumenteres. Reguleringsmyndigheten for energi kan gi pålegg om at en bestemt metode for kostnadsberegning eller fordeling skal benyttes.
+4. *Anskaffelser til nettvirksomheten*
+
+   Enhver anskaffelse fra andre selskaper i et integrert foretak, hvor kostnadene ved anskaffelsen belastes nettvirksomheten, skal så langt som mulig være basert på konkurranse. Utvelgelse av kvalifiserte anbydere og tildeling av slike kontrakter skal skje på grunnlag av objektive og ikke-diskriminerende kriterier.
 
 Annet ledd bokstav d omfatter ikke anskaffelser av administrative tjenester og eiendomstjenester. Annet ledd bokstav d omfatter ikke kontrakter med en anslått verdi under 100 000 kroner eksklusiv merverdiavgift.
 
@@ -116,7 +160,15 @@ Konsesjonærens revisor skal kontrollere og attestere på at rapporteringen er g
 
 ### § 3-1. Virksomhetsområder
 
-Rapporteringen skal gjøres på egne virksomhetsområder som skal inndeles i:kraftomsetningkraftproduksjontransmisjonsnettregionalnettdistribusjonsnettteleøvrig virksomhet.
+Rapporteringen skal gjøres på egne virksomhetsområder som skal inndeles i:
+
+1. kraftomsetning
+2. kraftproduksjon
+3. transmisjonsnett
+4. regionalnett
+5. distribusjonsnett
+6. tele
+7. øvrig virksomhet.
 
 Konsesjonæren skal skille konkurranseutsatte forretningsområder og nettvirksomhet i selvstendige virksomhetsområder med separate budsjetter og regnskaper. Konsesjonæren plikter å henføre inntekter og kostnader til virksomhetsområdene slik at driftsresultatet for virksomhetsområdene gir et mest mulig korrekt bilde av årets drift. Rapporteringen skal følge kalenderåret. Regnskapet skal avstemmes mot årsregnskapet per regnskapspost. Differanser mellom årsregnskapet og rapporteringen skal gjøres rede for.
 
@@ -425,13 +477,27 @@ Brutto førstegangs historisk anskaffelseskostnad skal avskrives lineært. Avskr
 
 ### § 13-1. Prinsipper for utforming av punkttariffer
 
-Alle nettselskapene er ansvarlige for at det utarbeides tariffer som er punktbaserte etter følgende prinsipper:tariffene skal refereres tilknytningspunktene.avtale med nettselskapet i tilknytningspunktet skal gi adgang til hele nettsystemet og kraftmarkedet.nettselskapet plikter å tilby alle som etterspør nettjenester ikke-diskriminerende og objektive punkttariffer og vilkår.tariffene skal utformes slik at de i størst mulig grad gir signaler om effektiv utnyttelse og effektiv utvikling av nettet.tariffene kan differensieres etter objektive og kontrollerbare kriterier basert på relevante nettforhold.tariffene skal fastsettes uavhengig av avtaler om kraftkjøp/kraftsalg.tariffene skal gi nettselskapet inntekter til dekning av kostnader innenfor tildelt inntektsramme, kostnader i overliggende nett, innbetalt eiendomsskatt og lovpålagt innbetaling til energifond.målte og stipulerte timeverdier i Elhub skal benyttes til avregning av tariffer. Der timeverdier for uttak ikke er tilgjengelig skal nettselskapet stipulere timeverdier.den enkelte boenhet eller fritidsbolig skal måles og avregnes hver for seg.tariffene skal utformes slik at de reflekterer kostnadsstrukturen i nettet.
+Alle nettselskapene er ansvarlige for at det utarbeides tariffer som er punktbaserte etter følgende prinsipper:
+
+1. tariffene skal refereres tilknytningspunktene.
+2. avtale med nettselskapet i tilknytningspunktet skal gi adgang til hele nettsystemet og kraftmarkedet.
+3. nettselskapet plikter å tilby alle som etterspør nettjenester ikke-diskriminerende og objektive punkttariffer og vilkår.
+4. tariffene skal utformes slik at de i størst mulig grad gir signaler om effektiv utnyttelse og effektiv utvikling av nettet.
+5. tariffene kan differensieres etter objektive og kontrollerbare kriterier basert på relevante nettforhold.
+6. tariffene skal fastsettes uavhengig av avtaler om kraftkjøp/kraftsalg.
+7. tariffene skal gi nettselskapet inntekter til dekning av kostnader innenfor tildelt inntektsramme, kostnader i overliggende nett, innbetalt eiendomsskatt og lovpålagt innbetaling til energifond.
+8. målte og stipulerte timeverdier i Elhub skal benyttes til avregning av tariffer. Der timeverdier for uttak ikke er tilgjengelig skal nettselskapet stipulere timeverdier.
+9. den enkelte boenhet eller fritidsbolig skal måles og avregnes hver for seg.
+10. tariffene skal utformes slik at de reflekterer kostnadsstrukturen i nettet.
 
 > Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 11-1), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 12-1), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [10 nov 2009 nr. 1365](forskrift/2009-11-10-1365) (i kraft 1 jan 2010), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 18 feb 2019), [10 juni 2021 nr. 1904](forskrift/2021-06-10-1904) (i kraft 1 juli 2022, endringen endret ved forskrift [21 des 2021 nr. 3750](forskrift/2021-12-21-3750)), [8 mai 2023 nr. 671](forskrift/2023-05-08-671) (i kraft 1 okt 2023), [22 des 2023 nr. 2415](forskrift/2023-12-22-2415) (i kraft 22 jan 2024).
 
 ### § 13-2. Alminnelige regler for tariffering
 
-Tariffene for uttak og innmating av kraft skal utarbeides etter følgende grunnstruktur:energiledd som varierer med kundenes løpende uttak eller innmating av kraft.andre tariffledd som skal dekke nettkostnader som ikke dekkes gjennom energiledd.
+Tariffene for uttak og innmating av kraft skal utarbeides etter følgende grunnstruktur:
+
+1. energiledd som varierer med kundenes løpende uttak eller innmating av kraft.
+2. andre tariffledd som skal dekke nettkostnader som ikke dekkes gjennom energiledd.
 
 > Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 11-2), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 12-2), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [10 juni 2021 nr. 1904](forskrift/2021-06-10-1904) (i kraft 1 juli 2022, endringen endret ved forskrift [21 des 2021 nr. 3750](forskrift/2021-12-21-3750)).
 
@@ -533,7 +599,11 @@ Inntekt fra andre tariffledd for innmating i distribusjonsnettet skal gå til de
 
 ### § 16-1. Når skal nettselskapet fastsette og kreve inn anleggsbidrag
 
-Nettselskapet skal fastsette og kreve inn et anleggsbidrag fra kunden for å få dekket hele eller deler av kostnadsgrunnlaget for investeringene som blir utløst når kunden:blir tilknyttet nettetfår økt kapasitetfår bedre kvalitet.
+Nettselskapet skal fastsette og kreve inn et anleggsbidrag fra kunden for å få dekket hele eller deler av kostnadsgrunnlaget for investeringene som blir utløst når kunden:
+
+1. blir tilknyttet nettet
+2. får økt kapasitet
+3. får bedre kvalitet.
 
 Nettselskapet skal også fastsette og kreve inn et anleggsbidrag fra kunder som blir tilknyttet eller får økt kapasitet i nettanlegg som er anleggsbidragsfinansiert. Plikten gjelder i ti år fra tidspunktet kunden som utløste investeringen ble tilknyttet eller fikk økt kapasitet.
 
@@ -541,7 +611,12 @@ Nettselskapet skal også fastsette og kreve inn et anleggsbidrag fra kunder som 
 
 ### § 16-2. Informasjon om anleggsbidrag
 
-Når kunde utløser et anleggsbidrag etter [§ 16-1](forskrift/1999-03-11-302/§16-1), skal nettselskapet vederlagsfritt og uten ugrunnet opphold gi informasjon omhjemmelsgrunnlaget for innkreving av anleggsbidragpraksis for beregning og innkreving av anleggsbidragestimert anleggsbidrag. Estimatet skal minimum inneholde en oppstilling av kostnadene fordelt på arbeids- og materialkostnader, spesifisert på hovedkomponenterat uenighet om anleggsbidrag kan bringes inn for Reguleringsmyndigheten for energi.
+Når kunde utløser et anleggsbidrag etter [§ 16-1](forskrift/1999-03-11-302/§16-1), skal nettselskapet vederlagsfritt og uten ugrunnet opphold gi informasjon om
+
+1. hjemmelsgrunnlaget for innkreving av anleggsbidrag
+2. praksis for beregning og innkreving av anleggsbidrag
+3. estimert anleggsbidrag. Estimatet skal minimum inneholde en oppstilling av kostnadene fordelt på arbeids- og materialkostnader, spesifisert på hovedkomponenter
+4. at uenighet om anleggsbidrag kan bringes inn for Reguleringsmyndigheten for energi.
 
 Nettselskapet skal på forespørsel fra kunde gi innsyn i fullstendig kostnadsgrunnlag uten ugrunnet opphold.
 
@@ -549,7 +624,15 @@ Nettselskapet skal på forespørsel fra kunde gi innsyn i fullstendig kostnadsgr
 
 ### § 16-3. Krav til prosess
 
-Nettselskapet skal dokumentere prosessen når kunden kommer med en forespørsel som utløser et anleggsbidrag i henhold til [§ 16-1](forskrift/1999-03-11-302/§16-1). Dette innebærer dokumentasjon påforespørsel fra kundetilbud med estimert anleggsbidrag til kundeakseptert avtale om tilknytning og anleggsbidraginformasjon til kunde om eventuelle endringer i estimert anleggsbidrag underveisetterberegnet anleggsbidrag.Nettselskapet skal oppbevare dokumentasjonen i ti år fra anlegget er spenningssatt.
+Nettselskapet skal dokumentere prosessen når kunden kommer med en forespørsel som utløser et anleggsbidrag i henhold til [§ 16-1](forskrift/1999-03-11-302/§16-1). Dette innebærer dokumentasjon på
+
+1. forespørsel fra kunde
+2. tilbud med estimert anleggsbidrag til kunde
+3. akseptert avtale om tilknytning og anleggsbidrag
+4. informasjon til kunde om eventuelle endringer i estimert anleggsbidrag underveis
+5. etterberegnet anleggsbidrag.
+
+Nettselskapet skal oppbevare dokumentasjonen i ti år fra anlegget er spenningssatt.
 
 > Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
 
@@ -581,9 +664,14 @@ Anleggskostnadene fastsettes på grunnlag av nettselskapets innkjøpspriser og s
 
 ### § 16-7. Reinvesterings- og fremskyndingskostnader
 
-Reinvesteringskostnader er kostnader ved å erstatte eksisterende nettanlegg, inkludert arbeidskostnader og kostnader for nødvendig utstyr. Reinvesteringskostnaden er entengjenanskaffelsesverdien til eksisterende nettanlegg som erstattes, elleranskaffelsesverdien til nettanlegget som nettselskapet ville bygget ved reinvestering.
+Reinvesteringskostnader er kostnader ved å erstatte eksisterende nettanlegg, inkludert arbeidskostnader og kostnader for nødvendig utstyr. Reinvesteringskostnaden er enten
 
-Fremskyndingskostnader er kostnadene ved at nettanlegget erstattes før levetiden er gått ut. Fremskyndingskostnadene beregnes med formelen $$FK = RI \\cdot \\left[ 1 - \\frac{1}{(1+k)^t} \\right]$$
+1. gjenanskaffelsesverdien til eksisterende nettanlegg som erstattes, eller
+2. anskaffelsesverdien til nettanlegget som nettselskapet ville bygget ved reinvestering.
+
+Fremskyndingskostnader er kostnadene ved at nettanlegget erstattes før levetiden er gått ut. Fremskyndingskostnadene beregnes med formelen
+
+$$FK = RI \\cdot \\left[ 1 - \\frac{1}{(1+k)^t} \\right]$$
 
 FK: Fremskyndingskostnad
 
@@ -601,7 +689,11 @@ Fremskyndingskostnader skal ikke beregnes for transformatorer.
 
 ### § 16-8. Anleggsbidrag i nettanlegg der kunden er eneste bruker
 
-Kundens anleggsbidrag settes lik kostnadsgrunnlaget nårkunden er eneste bruker av nettanlegget, ognettanlegget er dimensjonert etter nettselskapets minste standard i forhold til kundens bestilte kapasitet, ognettselskapet vurderer at andre kunder ikke vil bli tilknyttet eller få økt kapasitet i nettanlegget innen ti år etter kunden som utløste investeringen ble tilknyttet eller fikk økt kapasitet.
+Kundens anleggsbidrag settes lik kostnadsgrunnlaget når
+
+1. kunden er eneste bruker av nettanlegget, og
+2. nettanlegget er dimensjonert etter nettselskapets minste standard i forhold til kundens bestilte kapasitet, og
+3. nettselskapet vurderer at andre kunder ikke vil bli tilknyttet eller få økt kapasitet i nettanlegget innen ti år etter kunden som utløste investeringen ble tilknyttet eller fikk økt kapasitet.
 
 Dersom andre kunder likevel blir tilknyttet nettanlegget eller får økt kapasitet innen ti år, skal nettselskapet betale tilbake den delen av anleggsbidraget som overstiger kundens forholdsmessige andel av kostnadsgrunnlaget.
 
@@ -641,9 +733,15 @@ Nettselskapet skal betale tilbake til kunden differansen mellom estimert og ette
 
 ### § 16-12. Overgangsbestemmelse for anleggsbidrag i regional- og transmisjonsnett
 
-Nettselskapet skal ikke kreve anleggsbidrag fra innmatingskunder som utløser investeringer i regional- og transmisjonsnettet nårkunden har fått innvilget nødvendig konsesjon før 1. juli 2018, ogkunden er tilknyttet, gitt økt kapasitet eller bedre kvalitet før 1. juli 2022.
+Nettselskapet skal ikke kreve anleggsbidrag fra innmatingskunder som utløser investeringer i regional- og transmisjonsnettet når
 
-Nettselskapet kan ikke kreve anleggsbidrag fra uttakskunder som utløser investeringer i regional- og transmisjonsnettet nårkunden har bedt nettselskapet om tilknytning, økt kapasitet eller bedre kvalitet før 1. juli 2018, ogkunden er tilknyttet, gitt økt kapasitet eller bedre kvalitet før 1. juli 2022.
+1. kunden har fått innvilget nødvendig konsesjon før 1. juli 2018, og
+2. kunden er tilknyttet, gitt økt kapasitet eller bedre kvalitet før 1. juli 2022.
+
+Nettselskapet kan ikke kreve anleggsbidrag fra uttakskunder som utløser investeringer i regional- og transmisjonsnettet når
+
+1. kunden har bedt nettselskapet om tilknytning, økt kapasitet eller bedre kvalitet før 1. juli 2018, og
+2. kunden er tilknyttet, gitt økt kapasitet eller bedre kvalitet før 1. juli 2022.
 
 Kravet i første ledd bokstav b og annet ledd bokstav b gjelder ikke hvis nettselskapet ikke har oppfylt tilknytningsplikten etter [energiloven § 3-4](lov/1990-06-29-50/§3-4), [§ 3-4a](lov/1990-06-29-50/§3-4a), [forskrift 24. oktober 2019 nr. 1413 om nettregulering og energimarkedet § 3-2](forskrift/2019-10-24-1413/§3-2), [§ 3-3](forskrift/2019-10-24-1413/§3-3), eller saksbehandlingen for anleggskonsesjon i Norges vassdrags- og energidirektorat og Energidepartementet har tatt særlig lang tid.
 
@@ -681,7 +779,11 @@ Nettselskapene kan sette en grense for maksimalt tillatt uttak av reaktiv effekt
 
 ### § 17-4. Betaling for andre nettjenester
 
-Nettselskapet skal fastsette og kreve inn betaling som dekkerkostnadene ved endring av eksisterende nettanlegg som utløses av andre enn nettselskapet,kostnadene når kunden ber om tjenester som normalt ikke kan forventes levertde påløpte kostnadene når kunden kansellerer bestilling om ny tilknytning, økt kapasitet eller bedre kvalitet.
+Nettselskapet skal fastsette og kreve inn betaling som dekker
+
+1. kostnadene ved endring av eksisterende nettanlegg som utløses av andre enn nettselskapet,
+2. kostnadene når kunden ber om tjenester som normalt ikke kan forventes levert
+3. de påløpte kostnadene når kunden kansellerer bestilling om ny tilknytning, økt kapasitet eller bedre kvalitet.
 
 Nettselskapet skal følge kravene for fastsetting og innkreving av anleggsbidrag når de fastsetter og krever inn betaling etter første ledd. Kravene etter [§ 16-1](forskrift/1999-03-11-302/§16-1), [§ 16-5](forskrift/1999-03-11-302/§16-5) tredje ledd, [§ 16-8](forskrift/1999-03-11-302/§16-8), [§ 16-9](forskrift/1999-03-11-302/§16-9), [§ 16-10](forskrift/1999-03-11-302/§16-10) og [§ 16-12](forskrift/1999-03-11-302/§16-12) kommer ikke til anvendelse.
 
@@ -695,9 +797,19 @@ Nettselskapet kan ta betalt for å avklare om det er driftsmessig forsvarlig å 
 
 Nettselskapet skal ta betalt fra kunden for videre utredninger og utarbeidelse av konsesjonssøknad. Kunden skal dekke en forholdsmessig andel av kostnadene. Kostnadene skal være basert på selvkost.
 
-Nettselskapet skal vederlagsfritt og uten ugrunnet opphold gi informasjon omhjemmelsgrunnlaget for krav om betaling for nettutredningerpraksis for betaling for nettutredningerat uenighet om betaling for nettutredninger kan bringes inn for NVE.
+Nettselskapet skal vederlagsfritt og uten ugrunnet opphold gi informasjon om
 
-Nettselskapet skal dokumentere prosessen når kunden kommer med en forespørsel som utløser betaling for nettutredninger i henhold til [§ 17-5](forskrift/1999-03-11-302/§17-5). Dette innebærer dokumentasjon påforespørsel fra kundentilbud til kunden om utredningakseptert tilbud fra kunden om utredning.Nettselskapet skal oppbevare dokumentasjonen i ti år fra anlegget er spenningssatt.
+1. hjemmelsgrunnlaget for krav om betaling for nettutredninger
+2. praksis for betaling for nettutredninger
+3. at uenighet om betaling for nettutredninger kan bringes inn for NVE.
+
+Nettselskapet skal dokumentere prosessen når kunden kommer med en forespørsel som utløser betaling for nettutredninger i henhold til [§ 17-5](forskrift/1999-03-11-302/§17-5). Dette innebærer dokumentasjon på
+
+1. forespørsel fra kunden
+2. tilbud til kunden om utredning
+3. akseptert tilbud fra kunden om utredning.
+
+Nettselskapet skal oppbevare dokumentasjonen i ti år fra anlegget er spenningssatt.
 
 > Tilføyd ved [forskrift 17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), endret ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
 

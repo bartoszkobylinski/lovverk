@@ -15,7 +15,7 @@ xml_hash: "c250217b46deaf0933dbd73e554da74b3a5ae9a99ff86279e965263d21df20ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,11 @@ Et barn som er i stand til å danne seg egne meninger, har rett til å medvirke 
 
 ### § 4. Registrering av tros- og livssynssamfunn
 
-Et tros- eller livssynssamfunn kan bli registrert når det er fast organisert og har minst 100 medlemmer somselv har meldt seg inn, eller som har blitt innmeldt av dem som har foreldreansvareter bosatt i Norgeikke er medlem i Den norske kirke eller et annet tros- eller livssynssamfunn omfattet av kapittelet her.
+Et tros- eller livssynssamfunn kan bli registrert når det er fast organisert og har minst 100 medlemmer som
+
+1. selv har meldt seg inn, eller som har blitt innmeldt av dem som har foreldreansvaret
+2. er bosatt i Norge
+3. ikke er medlem i Den norske kirke eller et annet tros- eller livssynssamfunn omfattet av kapittelet her.
 
 Registrering kan trekkes tilbake dersom tros- eller livssynssamfunnet ikke lenger oppfyller vilkårene i første ledd. Et samfunn som er registrert og har minst 100 medlemmer per 1. januar 2026, kan beholde registreringen så lenge det har minst 85 medlemmer.
 
@@ -72,7 +76,10 @@ Tilskuddet beregnes etter antallet medlemmer i tros- eller livssynssamfunnet som
 
 Satsen for tilskudd per medlem skal reguleres årlig i samsvar med endringer i statens tilskudd til rettssubjektet Den norske kirke og kommunenes driftstilskudd til Den norske kirke, og ut fra tallet på medlemmer i Den norske kirke.
 
-Når et tros- eller livssynssamfunn fremmer krav om tilskudd, skal det skriftlig bekrefte atdet er kjent med og vil overholde lovens vilkår for tilskudd, og atdet vil arbeide for å oppnå minst 40 prosent kvinner og 40 prosent menn i styrende organ som forvalter statstilskuddet.
+Når et tros- eller livssynssamfunn fremmer krav om tilskudd, skal det skriftlig bekrefte at
+
+1. det er kjent med og vil overholde lovens vilkår for tilskudd, og at
+2. det vil arbeide for å oppnå minst 40 prosent kvinner og 40 prosent menn i styrende organ som forvalter statstilskuddet.
 
 Stillinger eller verv som kan fylles på bakgrunn av lovlig forskjellsbehandling mellom kjønnene etter [likestillings- og diskrimineringsloven](lov/2017-06-16-51), inngår ikke i beregningen av kjønnssammensetningen i styrende organ etter femte ledd bokstav b.
 
@@ -215,7 +222,11 @@ Fra 1 jan 2022 for [§ 6](lov/2020-04-24-31/§6) annet ledd, iflg. [res. 22 des 
 
 ### § 23. Overgangsregler
 
-Det første året det skal gis tilskudd etter denne loven, skal satsen for tilskudd per medlem til tros- og livssynssamfunn utenom Den norske kirke fastsettes slik at den om lag svarer til det samlede tilskuddet fra staten og kommunene til Den norske kirke per medlem. Følgende tilskudd fra stat og kommune til Den norske kirke skal ikke regnes med i tilskuddsgrunnlaget:statlige tilskudd som er en følge av avviklingen av tjenestebolig- og bopliktordningen til prestene i Den norske kirkestatlige tilskudd til den delen av rettssubjektet Den norske kirkes pensjonspremie som er knyttet til pensjonsrettigheter som tilsatte i Den norske kirke har opparbeidet som tjenestemenn i statentilskudd fra stat og kommune til oppgaver som er felles for alle innbyggere i Norge og som ikke er utgifter til egentlig kirkelige formål.
+Det første året det skal gis tilskudd etter denne loven, skal satsen for tilskudd per medlem til tros- og livssynssamfunn utenom Den norske kirke fastsettes slik at den om lag svarer til det samlede tilskuddet fra staten og kommunene til Den norske kirke per medlem. Følgende tilskudd fra stat og kommune til Den norske kirke skal ikke regnes med i tilskuddsgrunnlaget:
+
+1. statlige tilskudd som er en følge av avviklingen av tjenestebolig- og bopliktordningen til prestene i Den norske kirke
+2. statlige tilskudd til den delen av rettssubjektet Den norske kirkes pensjonspremie som er knyttet til pensjonsrettigheter som tilsatte i Den norske kirke har opparbeidet som tjenestemenn i staten
+3. tilskudd fra stat og kommune til oppgaver som er felles for alle innbyggere i Norge og som ikke er utgifter til egentlig kirkelige formål.
 
 Tros- og livssynssamfunn som er registrert eller har mottatt tilskudd etter [lov 13. juni 1969 nr. 25](lov/1969-06-13-25) om trudomssamfunn og ymist anna eller [lov 12. juni 1981 nr. 64](lov/1981-06-12-64) om tilskott til livssynssamfunn, skal anses registrert i to år etter at loven trer i kraft, likevel slik at bare samfunn som har minst 50 medlemmer som oppfyller vilkårene i [§ 4](lov/2020-04-24-31/§4) første ledd bokstav a til c, kan kreve tilskudd etter [§ 5](lov/2020-04-24-31/§5).
 

@@ -16,7 +16,7 @@ xml_hash: "8dda9d5a5a944a203150ebc20796eb47d89dd4bf9200f5f7b11b2d5ba4c6dd23"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -45,7 +45,21 @@ Forskriften retter seg mot enhver som har eller plikter å ha akvakulturtillatel
 
 ### § 3. Forskriftens saklige virkeområde
 
-Forskriften omfatter drift av akvakulturanlegg, herunder lokaliteter hvor det ikke er akvakulturorganismer. Forskriften omfatter ikke akvakultur av krepsdyr, bløtdyr og pigghuder i form av bunnkultur uten at dyrene holdes i fangenskap (havbeite), fangstbasert akvakultur og drift av restitusjons- og mellomlagringsmerder for levendelagring av villfanget fisk. For øvrig gjelder følgende:Akvakultur av matfisk og stamfisk reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2), [3](forskrift/2008-06-17-822/kap3), [4](forskrift/2008-06-17-822/kap4) og [7](forskrift/2008-06-17-822/kap7).Akvakultur av settefisk reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2), [3](forskrift/2008-06-17-822/kap3), [5](forskrift/2008-06-17-822/kap5) og [7](forskrift/2008-06-17-822/kap7).Akvakultur av kultiveringsfisk reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1) og [7](forskrift/2008-06-17-822/kap7). I tillegg gjelder følgende bestemmelser: [§ 5](forskrift/2008-06-17-822/§5) tredje ledd, [§ 6](forskrift/2008-06-17-822/§6) unntatt første ledd, [§ 7](forskrift/2008-06-17-822/§7) første og andre ledd, [§ 10](forskrift/2008-06-17-822/§10) første ledd, [§ 11](forskrift/2008-06-17-822/§11), [§ 12](forskrift/2008-06-17-822/§12) unntatt tredje ledd, [§ 13](forskrift/2008-06-17-822/§13), [§ 14](forskrift/2008-06-17-822/§14), [§ 16](forskrift/2008-06-17-822/§16), [§ 19](forskrift/2008-06-17-822/§19) til og med [§ 22](forskrift/2008-06-17-822/§22), [§ 25](forskrift/2008-06-17-822/§25) første ledd, [§ 26](forskrift/2008-06-17-822/§26) til og med [§ 34](forskrift/2008-06-17-822/§34), [§ 50](forskrift/2008-06-17-822/§50), [§ 51](forskrift/2008-06-17-822/§51) tredje, fjerde og femte ledd, [§ 57](forskrift/2008-06-17-822/§57) unntatt første ledd bokstav b, [§ 58](forskrift/2008-06-17-822/§58) tredje ledd, [§ 59](forskrift/2008-06-17-822/§59) til og med [§ 62](forskrift/2008-06-17-822/§62).Akvakultur av bløtdyr og krepsdyr reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2), [6](forskrift/2008-06-17-822/kap6) og [7](forskrift/2008-06-17-822/kap7).Akvakultur av pigghuder, kappedyr og vannlevende planter reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [6](forskrift/2008-06-17-822/kap6) og [7](forskrift/2008-06-17-822/kap7). I [kapittel 6](forskrift/2008-06-17-822/kap6) unntas [§ 64 bokstav e](forskrift/2008-06-17-822/§64/bokstav/e). I tillegg gjelder følgende bestemmelser: [§ 5](forskrift/2008-06-17-822/§5) første og andre ledd, [§ 6](forskrift/2008-06-17-822/§6) første ledd, [§ 7](forskrift/2008-06-17-822/§7) første og tredje ledd, [§ 8](forskrift/2008-06-17-822/§8), [§ 10](forskrift/2008-06-17-822/§10) første ledd, [§ 12](forskrift/2008-06-17-822/§12) første, tredje og fjerde ledd, [§ 15](forskrift/2008-06-17-822/§15) og [§ 17](forskrift/2008-06-17-822/§17).Oppbevaring av matfisk i slaktemerder ved slakteri reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1) og [7](forskrift/2008-06-17-822/kap7). I tillegg gjelder følgende bestemmelser: [§ 5](forskrift/2008-06-17-822/§5) til og med [§ 10](forskrift/2008-06-17-822/§10), [§ 11 første](forskrift/2008-06-17-822/§11/ledd/1) og [andre ledd](forskrift/2008-06-17-822/§11/ledd/2), [§ 12](forskrift/2008-06-17-822/§12), [§ 13 første](forskrift/2008-06-17-822/§13/ledd/1) og [tredje ledd](forskrift/2008-06-17-822/§13/ledd/3), [§ 14](forskrift/2008-06-17-822/§14), [§ 16](forskrift/2008-06-17-822/§16), [§ 17](forskrift/2008-06-17-822/§17), [§ 19](forskrift/2008-06-17-822/§19) til og med [§ 22](forskrift/2008-06-17-822/§22), [§ 25 første ledd](forskrift/2008-06-17-822/§25/ledd/1), [§ 28](forskrift/2008-06-17-822/§28) til og med [§ 32](forskrift/2008-06-17-822/§32), [§ 37](forskrift/2008-06-17-822/§37) til og med [§ 39](forskrift/2008-06-17-822/§39), [§ 41 bokstav c](forskrift/2008-06-17-822/§41/bokstav/c) og [g](forskrift/2008-06-17-822/§41/bokstav/g), [§ 42](forskrift/2008-06-17-822/§42) unntatt bokstav c i første ledd og bokstav d og e i andre ledd, [§ 47](forskrift/2008-06-17-822/§47) og [§ 54](forskrift/2008-06-17-822/§54).Installasjoner for midlertidig oppbevaring av rensefisk reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1) og [7](forskrift/2008-06-17-822/kap7). I tillegg gjelder følgende bestemmelser: [§ 5](forskrift/2008-06-17-822/§5), [§ 6](forskrift/2008-06-17-822/§6) andre, tredje og fjerde ledd, [§ 7](forskrift/2008-06-17-822/§7), [§ 8](forskrift/2008-06-17-822/§8), [§ 10](forskrift/2008-06-17-822/§10), [§ 11](forskrift/2008-06-17-822/§11) første og andre ledd, [§ 12](forskrift/2008-06-17-822/§12)–§ 15, [§ 16](forskrift/2008-06-17-822/§16) andre, tredje, fjerde og femte ledd, [§ 17](forskrift/2008-06-17-822/§17)–§ 22, [§ 25](forskrift/2008-06-17-822/§25) første ledd, [§ 26](forskrift/2008-06-17-822/§26) første og andre ledd, [§ 27](forskrift/2008-06-17-822/§27)–§ 34, [§ 37](forskrift/2008-06-17-822/§37) og [§ 38](forskrift/2008-06-17-822/§38).Bruk av rensefisk i akvakulturanlegg reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1) og [7](forskrift/2008-06-17-822/kap7). I tillegg gjelder følgende bestemmelser: [§ 5](forskrift/2008-06-17-822/§5)–[§ 10](forskrift/2008-06-17-822/§10), [§ 11 første](forskrift/2008-06-17-822/§11/ledd/1) og [andre ledd](forskrift/2008-06-17-822/§11/ledd/2), [§ 12](forskrift/2008-06-17-822/§12)–§ 15, [§ 16](forskrift/2008-06-17-822/§16) andre, tredje, fjerde og femte ledd, [§ 19](forskrift/2008-06-17-822/§19)–§ 22, [§ 25 første ledd](forskrift/2008-06-17-822/§25/ledd/1), [§ 26 første](forskrift/2008-06-17-822/§26/ledd/1) og [andre ledd](forskrift/2008-06-17-822/§26/ledd/2), [§ 27](forskrift/2008-06-17-822/§27)–§ [34](forskrift/2008-06-17-822/§34), [§ 37](forskrift/2008-06-17-822/§37), [§ 38](forskrift/2008-06-17-822/§38), [§ 40](forskrift/2008-06-17-822/§40)-§ [42](forskrift/2008-06-17-822/§42), [§ 44 første ledd bokstav a](forskrift/2008-06-17-822/§44/ledd/1/bokstav/a), [b](forskrift/2008-06-17-822/§44/ledd/1/bokstav/b), [f](forskrift/2008-06-17-822/§44/ledd/1/bokstav/f), [g](forskrift/2008-06-17-822/§44/ledd/1/bokstav/g) og [h](forskrift/2008-06-17-822/§44/ledd/1/bokstav/h), [§ 50](forskrift/2008-06-17-822/§50) og [§ 50a](forskrift/2008-06-17-822/§50a).Akvakultur av rensefisk inkludert stamfisk og settefisk av rensefisk reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2) og [7](forskrift/2008-06-17-822/kap7). I tillegg gjelder følgende bestemmelser: [§ 19](forskrift/2008-06-17-822/§19)–[§ 22](forskrift/2008-06-17-822/§22), [§ 25 første ledd](forskrift/2008-06-17-822/§25/ledd/1), [§ 26 første](forskrift/2008-06-17-822/§26/ledd/1) og [andre ledd](forskrift/2008-06-17-822/§26/ledd/2), [§ 27](forskrift/2008-06-17-822/§27)–§ 34, [§ 37](forskrift/2008-06-17-822/§37), [§ 38](forskrift/2008-06-17-822/§38), [§ 44a](forskrift/2008-06-17-822/§44a), [§ 45](forskrift/2008-06-17-822/§45), [§ 47](forskrift/2008-06-17-822/§47), [§ 50 første](forskrift/2008-06-17-822/§50/ledd/1), [tredje](forskrift/2008-06-17-822/§50/ledd/3) og [femte ledd](forskrift/2008-06-17-822/§50/ledd/5), [§ 50a](forskrift/2008-06-17-822/§50a), [§ 51](forskrift/2008-06-17-822/§51), [§ 53](forskrift/2008-06-17-822/§53), [§ 56](forskrift/2008-06-17-822/§56)–§ 58, [§ 59 første ledd](forskrift/2008-06-17-822/§59/ledd/1), [§ 61](forskrift/2008-06-17-822/§61) og [§ 62 første](forskrift/2008-06-17-822/§62/ledd/1), [tredje](forskrift/2008-06-17-822/§62/ledd/3) og [fjerde ledd](forskrift/2008-06-17-822/§62/ledd/4).Installasjoner for fritidsfiske reguleres, med unntak for [§ 27](forskrift/2008-06-17-822/§27), av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2), [3](forskrift/2008-06-17-822/kap3) og [kapittel 7](forskrift/2008-06-17-822/kap7). I tillegg gjelder [§ 42](forskrift/2008-06-17-822/§42) unntatt andre ledd bokstav e, [§ 48](forskrift/2008-06-17-822/§48) og [§ 50a](forskrift/2008-06-17-822/§50a).Zoobutikk, hagesenter, hagedam, kommersielt akvarium og grossist med akvariedyr hvor det er direkte avløp til naturlige vannmasser uten behandling av avløpsvannet, reguleres av [§ 5](forskrift/2008-06-17-822/§5) tredje ledd unntatt bestemmelser om velferd, [§ 7](forskrift/2008-06-17-822/§7) første og andre ledd unntatt bestemmelser om velferd, [§ 10](forskrift/2008-06-17-822/§10), [§ 11](forskrift/2008-06-17-822/§11) første og andre ledd, [§ 13](forskrift/2008-06-17-822/§13) unntatt tredje ledd og [§ 16](forskrift/2008-06-17-822/§16) unntatt første ledd.Annen produksjon enn det som følger av de foregående ledd, reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2) og [7](forskrift/2008-06-17-822/kap7). Dersom produksjonen gjelder fisk gjelder i tillegg [kapittel 3](forskrift/2008-06-17-822/kap3). Dersom produksjonen gjelder andre akvakulturdyr enn fisk, bløtdyr eller krepsdyr er den unntatt fra [§ 5](forskrift/2008-06-17-822/§5) tredje og fjerde ledd, [§ 6 andre](forskrift/2008-06-17-822/§6/ledd/2), [tredje](forskrift/2008-06-17-822/§6/ledd/3) og [fjerde ledd](forskrift/2008-06-17-822/§6/ledd/4), [§ 7 andre ledd](forskrift/2008-06-17-822/§7/ledd/2), [§ 9](forskrift/2008-06-17-822/§9), [§ 10 andre ledd](forskrift/2008-06-17-822/§10/ledd/2), [§ 11](forskrift/2008-06-17-822/§11), [§ 12 andre ledd](forskrift/2008-06-17-822/§12/ledd/2), [§ 13](forskrift/2008-06-17-822/§13), [§ 14](forskrift/2008-06-17-822/§14) og [§ 16](forskrift/2008-06-17-822/§16).[§ 34](forskrift/2008-06-17-822/§34) og [§ 54](forskrift/2008-06-17-822/§54) gjelder i tillegg til [artikkel 3 nr. 1 i forordning (EF) nr. 1099/2009](eu/32009r1099/a3) som er gjennomført i [forskrift 13. januar 2013 nr. 60 om avliving av dyr](forskrift/2013-01-13-60).
+Forskriften omfatter drift av akvakulturanlegg, herunder lokaliteter hvor det ikke er akvakulturorganismer. Forskriften omfatter ikke akvakultur av krepsdyr, bløtdyr og pigghuder i form av bunnkultur uten at dyrene holdes i fangenskap (havbeite), fangstbasert akvakultur og drift av restitusjons- og mellomlagringsmerder for levendelagring av villfanget fisk. For øvrig gjelder følgende:
+
+1. Akvakultur av matfisk og stamfisk reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2), [3](forskrift/2008-06-17-822/kap3), [4](forskrift/2008-06-17-822/kap4) og [7](forskrift/2008-06-17-822/kap7).
+2. Akvakultur av settefisk reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2), [3](forskrift/2008-06-17-822/kap3), [5](forskrift/2008-06-17-822/kap5) og [7](forskrift/2008-06-17-822/kap7).
+3. Akvakultur av kultiveringsfisk reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1) og [7](forskrift/2008-06-17-822/kap7). I tillegg gjelder følgende bestemmelser: [§ 5](forskrift/2008-06-17-822/§5) tredje ledd, [§ 6](forskrift/2008-06-17-822/§6) unntatt første ledd, [§ 7](forskrift/2008-06-17-822/§7) første og andre ledd, [§ 10](forskrift/2008-06-17-822/§10) første ledd, [§ 11](forskrift/2008-06-17-822/§11), [§ 12](forskrift/2008-06-17-822/§12) unntatt tredje ledd, [§ 13](forskrift/2008-06-17-822/§13), [§ 14](forskrift/2008-06-17-822/§14), [§ 16](forskrift/2008-06-17-822/§16), [§ 19](forskrift/2008-06-17-822/§19) til og med [§ 22](forskrift/2008-06-17-822/§22), [§ 25](forskrift/2008-06-17-822/§25) første ledd, [§ 26](forskrift/2008-06-17-822/§26) til og med [§ 34](forskrift/2008-06-17-822/§34), [§ 50](forskrift/2008-06-17-822/§50), [§ 51](forskrift/2008-06-17-822/§51) tredje, fjerde og femte ledd, [§ 57](forskrift/2008-06-17-822/§57) unntatt første ledd bokstav b, [§ 58](forskrift/2008-06-17-822/§58) tredje ledd, [§ 59](forskrift/2008-06-17-822/§59) til og med [§ 62](forskrift/2008-06-17-822/§62).
+4. Akvakultur av bløtdyr og krepsdyr reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2), [6](forskrift/2008-06-17-822/kap6) og [7](forskrift/2008-06-17-822/kap7).
+5. Akvakultur av pigghuder, kappedyr og vannlevende planter reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [6](forskrift/2008-06-17-822/kap6) og [7](forskrift/2008-06-17-822/kap7). I [kapittel 6](forskrift/2008-06-17-822/kap6) unntas [§ 64 bokstav e](forskrift/2008-06-17-822/§64/bokstav/e). I tillegg gjelder følgende bestemmelser: [§ 5](forskrift/2008-06-17-822/§5) første og andre ledd, [§ 6](forskrift/2008-06-17-822/§6) første ledd, [§ 7](forskrift/2008-06-17-822/§7) første og tredje ledd, [§ 8](forskrift/2008-06-17-822/§8), [§ 10](forskrift/2008-06-17-822/§10) første ledd, [§ 12](forskrift/2008-06-17-822/§12) første, tredje og fjerde ledd, [§ 15](forskrift/2008-06-17-822/§15) og [§ 17](forskrift/2008-06-17-822/§17).
+6. Oppbevaring av matfisk i slaktemerder ved slakteri reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1) og [7](forskrift/2008-06-17-822/kap7). I tillegg gjelder følgende bestemmelser: [§ 5](forskrift/2008-06-17-822/§5) til og med [§ 10](forskrift/2008-06-17-822/§10), [§ 11 første](forskrift/2008-06-17-822/§11/ledd/1) og [andre ledd](forskrift/2008-06-17-822/§11/ledd/2), [§ 12](forskrift/2008-06-17-822/§12), [§ 13 første](forskrift/2008-06-17-822/§13/ledd/1) og [tredje ledd](forskrift/2008-06-17-822/§13/ledd/3), [§ 14](forskrift/2008-06-17-822/§14), [§ 16](forskrift/2008-06-17-822/§16), [§ 17](forskrift/2008-06-17-822/§17), [§ 19](forskrift/2008-06-17-822/§19) til og med [§ 22](forskrift/2008-06-17-822/§22), [§ 25 første ledd](forskrift/2008-06-17-822/§25/ledd/1), [§ 28](forskrift/2008-06-17-822/§28) til og med [§ 32](forskrift/2008-06-17-822/§32), [§ 37](forskrift/2008-06-17-822/§37) til og med [§ 39](forskrift/2008-06-17-822/§39), [§ 41 bokstav c](forskrift/2008-06-17-822/§41/bokstav/c) og [g](forskrift/2008-06-17-822/§41/bokstav/g), [§ 42](forskrift/2008-06-17-822/§42) unntatt bokstav c i første ledd og bokstav d og e i andre ledd, [§ 47](forskrift/2008-06-17-822/§47) og [§ 54](forskrift/2008-06-17-822/§54).
+7. Installasjoner for midlertidig oppbevaring av rensefisk reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1) og [7](forskrift/2008-06-17-822/kap7). I tillegg gjelder følgende bestemmelser: [§ 5](forskrift/2008-06-17-822/§5), [§ 6](forskrift/2008-06-17-822/§6) andre, tredje og fjerde ledd, [§ 7](forskrift/2008-06-17-822/§7), [§ 8](forskrift/2008-06-17-822/§8), [§ 10](forskrift/2008-06-17-822/§10), [§ 11](forskrift/2008-06-17-822/§11) første og andre ledd, [§ 12](forskrift/2008-06-17-822/§12)–§ 15, [§ 16](forskrift/2008-06-17-822/§16) andre, tredje, fjerde og femte ledd, [§ 17](forskrift/2008-06-17-822/§17)–§ 22, [§ 25](forskrift/2008-06-17-822/§25) første ledd, [§ 26](forskrift/2008-06-17-822/§26) første og andre ledd, [§ 27](forskrift/2008-06-17-822/§27)–§ 34, [§ 37](forskrift/2008-06-17-822/§37) og [§ 38](forskrift/2008-06-17-822/§38).
+8. Bruk av rensefisk i akvakulturanlegg reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1) og [7](forskrift/2008-06-17-822/kap7). I tillegg gjelder følgende bestemmelser: [§ 5](forskrift/2008-06-17-822/§5)–[§ 10](forskrift/2008-06-17-822/§10), [§ 11 første](forskrift/2008-06-17-822/§11/ledd/1) og [andre ledd](forskrift/2008-06-17-822/§11/ledd/2), [§ 12](forskrift/2008-06-17-822/§12)–§ 15, [§ 16](forskrift/2008-06-17-822/§16) andre, tredje, fjerde og femte ledd, [§ 19](forskrift/2008-06-17-822/§19)–§ 22, [§ 25 første ledd](forskrift/2008-06-17-822/§25/ledd/1), [§ 26 første](forskrift/2008-06-17-822/§26/ledd/1) og [andre ledd](forskrift/2008-06-17-822/§26/ledd/2), [§ 27](forskrift/2008-06-17-822/§27)–§ [34](forskrift/2008-06-17-822/§34), [§ 37](forskrift/2008-06-17-822/§37), [§ 38](forskrift/2008-06-17-822/§38), [§ 40](forskrift/2008-06-17-822/§40)-§ [42](forskrift/2008-06-17-822/§42), [§ 44 første ledd bokstav a](forskrift/2008-06-17-822/§44/ledd/1/bokstav/a), [b](forskrift/2008-06-17-822/§44/ledd/1/bokstav/b), [f](forskrift/2008-06-17-822/§44/ledd/1/bokstav/f), [g](forskrift/2008-06-17-822/§44/ledd/1/bokstav/g) og [h](forskrift/2008-06-17-822/§44/ledd/1/bokstav/h), [§ 50](forskrift/2008-06-17-822/§50) og [§ 50a](forskrift/2008-06-17-822/§50a).
+9. Akvakultur av rensefisk inkludert stamfisk og settefisk av rensefisk reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2) og [7](forskrift/2008-06-17-822/kap7). I tillegg gjelder følgende bestemmelser: [§ 19](forskrift/2008-06-17-822/§19)–[§ 22](forskrift/2008-06-17-822/§22), [§ 25 første ledd](forskrift/2008-06-17-822/§25/ledd/1), [§ 26 første](forskrift/2008-06-17-822/§26/ledd/1) og [andre ledd](forskrift/2008-06-17-822/§26/ledd/2), [§ 27](forskrift/2008-06-17-822/§27)–§ 34, [§ 37](forskrift/2008-06-17-822/§37), [§ 38](forskrift/2008-06-17-822/§38), [§ 44a](forskrift/2008-06-17-822/§44a), [§ 45](forskrift/2008-06-17-822/§45), [§ 47](forskrift/2008-06-17-822/§47), [§ 50 første](forskrift/2008-06-17-822/§50/ledd/1), [tredje](forskrift/2008-06-17-822/§50/ledd/3) og [femte ledd](forskrift/2008-06-17-822/§50/ledd/5), [§ 50a](forskrift/2008-06-17-822/§50a), [§ 51](forskrift/2008-06-17-822/§51), [§ 53](forskrift/2008-06-17-822/§53), [§ 56](forskrift/2008-06-17-822/§56)–§ 58, [§ 59 første ledd](forskrift/2008-06-17-822/§59/ledd/1), [§ 61](forskrift/2008-06-17-822/§61) og [§ 62 første](forskrift/2008-06-17-822/§62/ledd/1), [tredje](forskrift/2008-06-17-822/§62/ledd/3) og [fjerde ledd](forskrift/2008-06-17-822/§62/ledd/4).
+10. Installasjoner for fritidsfiske reguleres, med unntak for [§ 27](forskrift/2008-06-17-822/§27), av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2), [3](forskrift/2008-06-17-822/kap3) og [kapittel 7](forskrift/2008-06-17-822/kap7). I tillegg gjelder [§ 42](forskrift/2008-06-17-822/§42) unntatt andre ledd bokstav e, [§ 48](forskrift/2008-06-17-822/§48) og [§ 50a](forskrift/2008-06-17-822/§50a).
+11. Zoobutikk, hagesenter, hagedam, kommersielt akvarium og grossist med akvariedyr hvor det er direkte avløp til naturlige vannmasser uten behandling av avløpsvannet, reguleres av [§ 5](forskrift/2008-06-17-822/§5) tredje ledd unntatt bestemmelser om velferd, [§ 7](forskrift/2008-06-17-822/§7) første og andre ledd unntatt bestemmelser om velferd, [§ 10](forskrift/2008-06-17-822/§10), [§ 11](forskrift/2008-06-17-822/§11) første og andre ledd, [§ 13](forskrift/2008-06-17-822/§13) unntatt tredje ledd og [§ 16](forskrift/2008-06-17-822/§16) unntatt første ledd.
+12. Annen produksjon enn det som følger av de foregående ledd, reguleres av [kapittel 1](forskrift/2008-06-17-822/kap1), [2](forskrift/2008-06-17-822/kap2) og [7](forskrift/2008-06-17-822/kap7). Dersom produksjonen gjelder fisk gjelder i tillegg [kapittel 3](forskrift/2008-06-17-822/kap3). Dersom produksjonen gjelder andre akvakulturdyr enn fisk, bløtdyr eller krepsdyr er den unntatt fra [§ 5](forskrift/2008-06-17-822/§5) tredje og fjerde ledd, [§ 6 andre](forskrift/2008-06-17-822/§6/ledd/2), [tredje](forskrift/2008-06-17-822/§6/ledd/3) og [fjerde ledd](forskrift/2008-06-17-822/§6/ledd/4), [§ 7 andre ledd](forskrift/2008-06-17-822/§7/ledd/2), [§ 9](forskrift/2008-06-17-822/§9), [§ 10 andre ledd](forskrift/2008-06-17-822/§10/ledd/2), [§ 11](forskrift/2008-06-17-822/§11), [§ 12 andre ledd](forskrift/2008-06-17-822/§12/ledd/2), [§ 13](forskrift/2008-06-17-822/§13), [§ 14](forskrift/2008-06-17-822/§14) og [§ 16](forskrift/2008-06-17-822/§16).
+13. [§ 34](forskrift/2008-06-17-822/§34) og [§ 54](forskrift/2008-06-17-822/§54) gjelder i tillegg til [artikkel 3 nr. 1 i forordning (EF) nr. 1099/2009](eu/32009r1099/a3) som er gjennomført i [forskrift 13. januar 2013 nr. 60 om avliving av dyr](forskrift/2013-01-13-60).
 
 Forskriften omfatter også aktiviteter i tilknytning til drift av akvakulturanlegg gjennomført av vare- og tjenesteprodusenter, og reguleres av kapittel 1. I tillegg gjelder følgende bestemmelser [§ 5 fjerde ledd](forskrift/2008-06-17-822/§5/ledd/4), [§ 6 første ledd](forskrift/2008-06-17-822/§6/ledd/1), [§ 7 sjette ledd](forskrift/2008-06-17-822/§7/ledd/6), [§ 10 tredje ledd](forskrift/2008-06-17-822/§10/ledd/3), [§ 15c](forskrift/2008-06-17-822/§15c), [§ 37](forskrift/2008-06-17-822/§37) første, andre, sjette og syvende ledd, [§ 38](forskrift/2008-06-17-822/§38) og [kapittel 7](forskrift/2008-06-17-822/kap7).
 
@@ -61,7 +75,40 @@ Statsforvalteren kan i tillatelse etter [forurensningsloven § 11](lov/1981-03-1
 
 ### § 4. Definisjoner
 
-I denne forskriften menes med:*Akvakultur:* produksjon av akvatiske organismer. Som produksjon regnes ethvert tiltak for å påvirke akvatiske organismers vekt, størrelse, antall, egenskaper eller kvalitet.*Akvakulturanlegg:* enhver lokalitet, fysisk avgrenset område eller installasjon som drives av et akvakulturforetak der akvakulturorganismer oppdrettes eller dyrkes, med unntak av de lokaliteter, områder eller installasjoner der ville akvatiske dyr er høstet eller fanget med tanke på konsum, holdes midlertidig uten å fôres i påvente av å bli slaktet. Med akvakulturforetak menes her ethvert privat eller offentlig foretak, ideelt eller ikke, som utøver en hvilken som helst virksomhet i forbindelse med oppdrett, hold eller dyrking av akvakulturorganismer.*Akvakulturdyr:* vannlevende dyr, inkludert kjønnsprodukter, hvile- og forplantningsstadier, unntatt sjøpattedyr, som kommer fra eller er ment for akvakulturanlegg.*Akvakulturorganismer:* akvakulturdyr og vannlevende planter.*Akvariedyr:* alle kjeveløse fisk (urfisk) som tilhører overklassen *Agnatha*, bruskfisk og beinfisk som tilhører klassene *Chondrichthyes* og *Osteichthyes*, bløtdyr som tilhører rekken *Mollusca* og krepsdyr som tilhører underrekken *Crustacea* som holdes, oppdrettes eller omsettes utelukkende for prydformål.*Anadrom fisk:* fisk som vandrer mellom sjøvann og ferskvann og som er avhengig av ferskvann for å reprodusere seg.*Akvakulturtillatelse:* tillatelse gitt i medhold av akvakulturloven, som ved registrering i akvakulturregisteret gir rett til bestemt type produksjon av bestemt art, i bestemt omfang på en eller flere bestemte lokaliteter.*Biomasse:* den til enhver tid stående mengde av levende fisk (målt i kg eller tonn).*Bløtdyr:* leddsnegler, snegler, muslinger, blekkspruter og sjøtenner.*Ferskvannsfisk:* fisk som lever hele livet i ferskvann.*Forøket dødelighet:* dødelighet som er signifikant høyere enn hva som anses normalt for akvakulturanlegget eller akvakulturområdet for bløtdyr under rådende forhold.*Installasjon:* innretning der akvakulturorganismer kan fôres, behandles, eller oppbevares, inkludert fortøyninger. En installasjon kan bestå av flere produksjonsenheter.*Installasjon for fritidsfiske:* dammer eller andre installasjoner der populasjonen opprettholdes kun med tanke på fritidsfiske ved utsett av akvakulturdyr.*Krepsdyr:* alle krepsdyr, herunder hummer og krabbe.*Kultiveringsfisk:* anadrom fisk eller ferskvannsfisk som produseres med sikte på senere utsetting i naturen med unntak av havbeite.*Lokalitet:* geografisk avgrenset område enten på land eller i vann for akvakultur.*Lukkede produksjonsenheter:* Produksjonsenheter som er avhengig av vanninntak og avløp.*Makroalger:* arter klassifisert som grønnalger (rekke *Chlorophyta*), rødalger (rekke *Rhodophyta*) og okeralger (rekke *Ochrophyta*), herunder brunalger (klasse *Phaeophyceae*), og som har fastsittende, flercellede stadier.*Marin fisk:* fisk som lever hele livet i sjøvann.*Matfisk:* fisk som produseres med sikte på slakting til konsum og som ikke kommer inn under definisjonene av settefisk eller stamfisk.*Pigghuder:* sjøliljer, sjøstjerner, slangestjerner, sjøpiggsvin og sjøpølser.*Produksjonsenhet:* innhegning, merd, kar, dam, bur, poser, avstengning og lignende.*Rensefisk:* fisk som er ment for eller brukes til å redusere antall parasitter på fisk i akvakulturanlegg.*Samdrift:* driftsform der to eller flere innehavere av akvakulturtillatelse har akvakulturdyrene i sameie på samme lokalitet.*Samlokalisering:* driftsform der to eller flere innehavere av akvakulturtillatelse har akvakulturdyr på samme lokalitet, uten at akvakulturdyrene er i sameie.*Sekkdyr:* klasse *Ascidiacea*, som er en underrekke av kappedyr *Tunicata*.*Settefisk:* rogn og fisk som produseres med sikte på overføring til andre lokaliteter eller annen type produksjon. Fisk som er planlagt flyttet i medhold av godkjent driftsplan etter § 40 anses ikke som settefisk.*Stamfisk:* fisk som skal strykes eller reproduseres på annen måte.*Vassdrag:* alt stillestående eller rennende overflatevann med årssikker vannføring, med tilhørende bunn og bredder inntil høyeste flomvannstand, inkludert hoved- og sidevassdrag med tilhørende nedslagsfelt.*Vannkvalitet:* vannmiljøets egnethet ut fra fiskenes behov, herunder vannets kjemiske (oksygen, karbondioksid, totalammonium nitrogen, jern, aluminium m.m.), fysikalske (temperatur, turbiditet, salinitet og strømsetting) og hygieniske (forurensende stoffer som fôrrester, avføring og begroing) kvalitet.*Vannlevende planter:* flercellede vannlevende organismer med fotosyntese, herunder makroalger, som kommer fra eller er ment for akvakulturanlegg.*Vannregionspesifikke stoffer:* stoffer som er identifisert som vannregionspesifikke i veileder 02:2018 Klassifisering av miljøtilstand i vann.
+I denne forskriften menes med:
+
+1. *Akvakultur:* produksjon av akvatiske organismer. Som produksjon regnes ethvert tiltak for å påvirke akvatiske organismers vekt, størrelse, antall, egenskaper eller kvalitet.
+2. *Akvakulturanlegg:* enhver lokalitet, fysisk avgrenset område eller installasjon som drives av et akvakulturforetak der akvakulturorganismer oppdrettes eller dyrkes, med unntak av de lokaliteter, områder eller installasjoner der ville akvatiske dyr er høstet eller fanget med tanke på konsum, holdes midlertidig uten å fôres i påvente av å bli slaktet. Med akvakulturforetak menes her ethvert privat eller offentlig foretak, ideelt eller ikke, som utøver en hvilken som helst virksomhet i forbindelse med oppdrett, hold eller dyrking av akvakulturorganismer.
+3. *Akvakulturdyr:* vannlevende dyr, inkludert kjønnsprodukter, hvile- og forplantningsstadier, unntatt sjøpattedyr, som kommer fra eller er ment for akvakulturanlegg.
+4. *Akvakulturorganismer:* akvakulturdyr og vannlevende planter.
+5. *Akvariedyr:* alle kjeveløse fisk (urfisk) som tilhører overklassen *Agnatha*, bruskfisk og beinfisk som tilhører klassene *Chondrichthyes* og *Osteichthyes*, bløtdyr som tilhører rekken *Mollusca* og krepsdyr som tilhører underrekken *Crustacea* som holdes, oppdrettes eller omsettes utelukkende for prydformål.
+6. *Anadrom fisk:* fisk som vandrer mellom sjøvann og ferskvann og som er avhengig av ferskvann for å reprodusere seg.
+7. *Akvakulturtillatelse:* tillatelse gitt i medhold av akvakulturloven, som ved registrering i akvakulturregisteret gir rett til bestemt type produksjon av bestemt art, i bestemt omfang på en eller flere bestemte lokaliteter.
+8. *Biomasse:* den til enhver tid stående mengde av levende fisk (målt i kg eller tonn).
+9. *Bløtdyr:* leddsnegler, snegler, muslinger, blekkspruter og sjøtenner.
+10. *Ferskvannsfisk:* fisk som lever hele livet i ferskvann.
+11. *Forøket dødelighet:* dødelighet som er signifikant høyere enn hva som anses normalt for akvakulturanlegget eller akvakulturområdet for bløtdyr under rådende forhold.
+12. *Installasjon:* innretning der akvakulturorganismer kan fôres, behandles, eller oppbevares, inkludert fortøyninger. En installasjon kan bestå av flere produksjonsenheter.
+13. *Installasjon for fritidsfiske:* dammer eller andre installasjoner der populasjonen opprettholdes kun med tanke på fritidsfiske ved utsett av akvakulturdyr.
+14. *Krepsdyr:* alle krepsdyr, herunder hummer og krabbe.
+15. *Kultiveringsfisk:* anadrom fisk eller ferskvannsfisk som produseres med sikte på senere utsetting i naturen med unntak av havbeite.
+16. *Lokalitet:* geografisk avgrenset område enten på land eller i vann for akvakultur.
+17. *Lukkede produksjonsenheter:* Produksjonsenheter som er avhengig av vanninntak og avløp.
+18. *Makroalger:* arter klassifisert som grønnalger (rekke *Chlorophyta*), rødalger (rekke *Rhodophyta*) og okeralger (rekke *Ochrophyta*), herunder brunalger (klasse *Phaeophyceae*), og som har fastsittende, flercellede stadier.
+19. *Marin fisk:* fisk som lever hele livet i sjøvann.
+20. *Matfisk:* fisk som produseres med sikte på slakting til konsum og som ikke kommer inn under definisjonene av settefisk eller stamfisk.
+21. *Pigghuder:* sjøliljer, sjøstjerner, slangestjerner, sjøpiggsvin og sjøpølser.
+22. *Produksjonsenhet:* innhegning, merd, kar, dam, bur, poser, avstengning og lignende.
+23. *Rensefisk:* fisk som er ment for eller brukes til å redusere antall parasitter på fisk i akvakulturanlegg.
+24. *Samdrift:* driftsform der to eller flere innehavere av akvakulturtillatelse har akvakulturdyrene i sameie på samme lokalitet.
+25. *Samlokalisering:* driftsform der to eller flere innehavere av akvakulturtillatelse har akvakulturdyr på samme lokalitet, uten at akvakulturdyrene er i sameie.
+26. *Sekkdyr:* klasse *Ascidiacea*, som er en underrekke av kappedyr *Tunicata*.
+27. *Settefisk:* rogn og fisk som produseres med sikte på overføring til andre lokaliteter eller annen type produksjon. Fisk som er planlagt flyttet i medhold av godkjent driftsplan etter § 40 anses ikke som settefisk.
+28. *Stamfisk:* fisk som skal strykes eller reproduseres på annen måte.
+29. *Vassdrag:* alt stillestående eller rennende overflatevann med årssikker vannføring, med tilhørende bunn og bredder inntil høyeste flomvannstand, inkludert hoved- og sidevassdrag med tilhørende nedslagsfelt.
+30. *Vannkvalitet:* vannmiljøets egnethet ut fra fiskenes behov, herunder vannets kjemiske (oksygen, karbondioksid, totalammonium nitrogen, jern, aluminium m.m.), fysikalske (temperatur, turbiditet, salinitet og strømsetting) og hygieniske (forurensende stoffer som fôrrester, avføring og begroing) kvalitet.
+31. *Vannlevende planter:* flercellede vannlevende organismer med fotosyntese, herunder makroalger, som kommer fra eller er ment for akvakulturanlegg.
+32. *Vannregionspesifikke stoffer:* stoffer som er identifisert som vannregionspesifikke i veileder 02:2018 Klassifisering av miljøtilstand i vann.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1705](forskrift/2009-12-18-1705) (i kraft 1 jan 2010), [1 juni 2016 nr. 562](forskrift/2016-06-01-562), [19 april 2018 nr. 673](forskrift/2018-04-19-673), [22 aug 2022 nr. 1486](forskrift/2022-08-22-1486) (i kraft 1 jan 2023), [2 feb 2024 nr. 166](forskrift/2024-02-02-166), [7 feb 2024 nr. 226](forskrift/2024-02-07-226), [1 aug 2025 nr. 1753](forskrift/2025-08-01-1753).
 
@@ -87,7 +134,15 @@ Driftsledere på akvakulturanlegg og røktere skal ha fiskevelferdsmessig kompet
 
 Det skal også være tilstrekkelig personell med nødvendig kompetanse i forhold til deres arbeidsoppgaver og ansvarsområder til å ivareta fiskens velferd. Kompetansen skal også omfatte kunnskap om driftsformen og om fiskens atferdsmessige og fysiologiske behov.
 
-Nødvendig kompetanse i henhold til andre og tredje ledd skal dokumenteres gjennom praktisk og teoretisk opplæring. Opplæringen skal:utføres av veterinær, fiskehelsebiolog eller annen med tilsvarende kompetanse innen fiskevelferd,ha en varighet og innhold som sikrer deltakerne fiskevelferdsmessig kompetanse tilpasset deres arbeidsoppgaver og ansvarsområder, og skal minst inneholde følgende elementer:de aktuelle bestemmelsene i [lov 19. juni 2009 nr. 97 om dyrevelferd](lov/2009-06-19-97) og denne forskriften,naturlige behov, normal atferd og fysiologi hos fisk, herunder hvordan fisk reagerer på smerte, stress og sykdom,produksjonsforhold som har betydning for fiskevelferdengjentas etter behov og minst hvert femte år.
+Nødvendig kompetanse i henhold til andre og tredje ledd skal dokumenteres gjennom praktisk og teoretisk opplæring. Opplæringen skal:
+
+1. utføres av veterinær, fiskehelsebiolog eller annen med tilsvarende kompetanse innen fiskevelferd,
+2. ha en varighet og innhold som sikrer deltakerne fiskevelferdsmessig kompetanse tilpasset deres arbeidsoppgaver og ansvarsområder, og skal minst inneholde følgende elementer:
+
+   1. de aktuelle bestemmelsene i [lov 19. juni 2009 nr. 97 om dyrevelferd](lov/2009-06-19-97) og denne forskriften,
+   2. naturlige behov, normal atferd og fysiologi hos fisk, herunder hvordan fisk reagerer på smerte, stress og sykdom,
+   3. produksjonsforhold som har betydning for fiskevelferden
+3. gjentas etter behov og minst hvert femte år.
 
 > Endret ved [forskrifter 19 april 2018 nr. 673](forskrift/2018-04-19-673), [24 aug 2022 nr. 1487](forskrift/2022-08-24-1487).
 
@@ -125,9 +180,17 @@ Mottaker av levende akvakulturdyr skal forsikre seg om at de enten kommer fra go
 
 Det skal føres en driftsjournal som skal være tilgjengelig for tilsynsmyndighetene i fire år. Driftsjournal for akvakulturanlegg som er i drift skal være tilgjengelig for innsyn på anlegget.
 
-For akvakulturanlegg som ikke omfattes av særskilte bestemmelser om journalføring i [kapittel 4](forskrift/2008-06-17-822/kap4), [5](forskrift/2008-06-17-822/kap5) og [6](forskrift/2008-06-17-822/kap6) skal driftsjournalen minst inneholde oppdaterte opplysninger om:akvakulturdyr og akvakulturdyrprodukter tatt inn til og ut fra akvakulturanlegget, inkludert opprinnelsessted og mottakssted,dødelighet per produksjonsenhet som er relevant for produksjonsformen, ogresultater av gjennomførte helsekontroller: antall gjennomførte helsekontroller, prøveuttak, foretatte undersøkelser, diagnoser og gjennomførte behandlinger.
+For akvakulturanlegg som ikke omfattes av særskilte bestemmelser om journalføring i [kapittel 4](forskrift/2008-06-17-822/kap4), [5](forskrift/2008-06-17-822/kap5) og [6](forskrift/2008-06-17-822/kap6) skal driftsjournalen minst inneholde oppdaterte opplysninger om:
 
-Vare- og tjenesteprodusenter skal føre driftsjournal ved gjennomføring av aktiviteter i tilknytning til drift av akvakulturanlegg. Driftsjournalen skal være tilgjengelig for tilsynsmyndighetene i fire år og skal minst inneholde oppdaterte opplysninger om:innehaver av akvakulturtillatelse og lokalitet,tid og sted, inkludert eventuell reiserute for aktivitet, ogtype aktivitet og hvordan den ble gjennomført.
+1. akvakulturdyr og akvakulturdyrprodukter tatt inn til og ut fra akvakulturanlegget, inkludert opprinnelsessted og mottakssted,
+2. dødelighet per produksjonsenhet som er relevant for produksjonsformen, og
+3. resultater av gjennomførte helsekontroller: antall gjennomførte helsekontroller, prøveuttak, foretatte undersøkelser, diagnoser og gjennomførte behandlinger.
+
+Vare- og tjenesteprodusenter skal føre driftsjournal ved gjennomføring av aktiviteter i tilknytning til drift av akvakulturanlegg. Driftsjournalen skal være tilgjengelig for tilsynsmyndighetene i fire år og skal minst inneholde oppdaterte opplysninger om:
+
+1. innehaver av akvakulturtillatelse og lokalitet,
+2. tid og sted, inkludert eventuell reiserute for aktivitet, og
+3. type aktivitet og hvordan den ble gjennomført.
 
 > Endret ved [forskrifter 19 april 2018 nr. 673](forskrift/2018-04-19-673), [24 aug 2022 nr. 1487](forskrift/2022-08-24-1487).
 
@@ -155,7 +218,11 @@ Feil og mangler ved installasjoner, tekniske innretninger og utstyr skal straks 
 
 ### § 13. Risikobasert helsekontroll
 
-Det skal gjennomføres risikobaserte helsekontroller med akvakulturdyr. Helsekontroller skal planlegges i samråd med og gjennomføres av veterinær eller fiskehelsebiolog. Helsekontroller skal planlegges og gjennomføres:på grunnlag av en vurdering av risiko for at akvakulturdyrene blir smittet, utvikler sykdom og sprer smitte,på grunnlag av en vurdering av risiko for at fisk utsettes for påkjenninger og belastninger, ogslik at smitte, sykdom, påkjenninger og belastninger avdekkes, forebygges og eventuelt behandles på et tidlig stadium.
+Det skal gjennomføres risikobaserte helsekontroller med akvakulturdyr. Helsekontroller skal planlegges i samråd med og gjennomføres av veterinær eller fiskehelsebiolog. Helsekontroller skal planlegges og gjennomføres:
+
+1. på grunnlag av en vurdering av risiko for at akvakulturdyrene blir smittet, utvikler sykdom og sprer smitte,
+2. på grunnlag av en vurdering av risiko for at fisk utsettes for påkjenninger og belastninger, og
+3. slik at smitte, sykdom, påkjenninger og belastninger avdekkes, forebygges og eventuelt behandles på et tidlig stadium.
 
 Ved hver helsekontroll skal relevante opplysninger i driftsjournalen gjennomgås. Ut fra en risikovurdering skal et representativt utvalg av produksjonsenhetene inspiseres. Et representativt utvalg av nylig døde akvakulturdyr eller akvakulturdyr med unormal adferd skal obduseres og relevante undersøkelser skal gjennomføres. Det skal særlig tas sikte på å avdekke eventuell forekomst av sykdom på liste 1, 2 og 3.
 
@@ -239,7 +306,15 @@ Utenfor én nautisk mil utenfor grunnlinjen er det forbudt å drive fiske eller 
 
 ### § 19. Installasjoner og produksjonsenheter
 
-Installasjoner og produksjonsenheter skal:være slik at fiskene har god mulighet for bevegelse og annen naturlig adferd, og eventuelt ha egnet substrat til støtte og skjul,ikke ha skarpe kanter og fremspring eller bestå av et materiale som kan være skadelig for fisken,medføre minimal risiko for skade og unødige påkjenninger, herunder ved utsett og innfanging,være slik at det er enkelt å foreta inspeksjon av fiskene,være slik at det er mulig å gi fiskene godt stell og god behandling, herunder effektiv medisinsk behandling for alle affiserte individer,være tilrettelagt for godt renhold, ogvære godt egnet for stedet de skal brukes, under hensyn til bl.a. værforholdene.
+Installasjoner og produksjonsenheter skal:
+
+1. være slik at fiskene har god mulighet for bevegelse og annen naturlig adferd, og eventuelt ha egnet substrat til støtte og skjul,
+2. ikke ha skarpe kanter og fremspring eller bestå av et materiale som kan være skadelig for fisken,
+3. medføre minimal risiko for skade og unødige påkjenninger, herunder ved utsett og innfanging,
+4. være slik at det er enkelt å foreta inspeksjon av fiskene,
+5. være slik at det er mulig å gi fiskene godt stell og god behandling, herunder effektiv medisinsk behandling for alle affiserte individer,
+6. være tilrettelagt for godt renhold, og
+7. være godt egnet for stedet de skal brukes, under hensyn til bl.a. værforholdene.
 
 Konstruksjon og vedlikehold av installasjoner og produksjonsenheter skal være slik at fisken beskyttes best mulig mot angrep fra predatorer.
 
@@ -249,7 +324,14 @@ Metoder, installasjoner og utstyr som brukes til fisk, herunder forflytningsutst
 
 Metoder, installasjoner og utstyr kan bare brukes i et akvakulturanlegg når konsekvensene for fiskens velferd er dokumentert. Utprøving som er omfattet av [forskrift 18. juni 2015 nr. 761 om bruk av dyr i forsøk](forskrift/2015-06-18-761), er unntatt fra dette kravet. Mattilsynet avgjør om utprøvingen omfattes av [forskrift om bruk av dyr i forsøk](forskrift/2015-06-18-761).
 
-Unntatt fra kravet i andre ledd er også utprøving som ikke reguleres av forsøksdyrregelverket og som gjennomføres som nødvendig ledd i å skaffe dokumentasjon om metodens konsekvens for fiskens velferd og under følgende forutsetninger:det foreligger en plan for hvordan utprøvingen skal gjennomføres, dokumenteres og evalueres.utprøvingen gjennomføres ved bruk av færrest mulig fisk.utprøvingen planlegges, gjennomføres, evalueres og dokumenteres i samarbeid med personell med relevant kompetanse innen fiskevelferd og andre aktuelle fagområder.uttestingen skal skje etter vitenskapelige prinsipper og skal kunne dokumentere de velferdsmessige konsekvensene av metoden ved den aktuelle bruken.det er meldt fra til Mattilsynet om hva som skal utprøves, og start og sluttdato for utprøvingen. Meldingen skal sendes slik Mattilsynet bestemmer. Nærmere krav til meldeplikten fastsettes av Mattilsynet.dokumentasjon om metodens, installasjonens eller utstyrets konsekvenser for fiskevelferd, skal sendes slik Mattilsynet bestemmer. Nærmere krav til meldeplikten fastsettes av Mattilsynet.
+Unntatt fra kravet i andre ledd er også utprøving som ikke reguleres av forsøksdyrregelverket og som gjennomføres som nødvendig ledd i å skaffe dokumentasjon om metodens konsekvens for fiskens velferd og under følgende forutsetninger:
+
+1. det foreligger en plan for hvordan utprøvingen skal gjennomføres, dokumenteres og evalueres.
+2. utprøvingen gjennomføres ved bruk av færrest mulig fisk.
+3. utprøvingen planlegges, gjennomføres, evalueres og dokumenteres i samarbeid med personell med relevant kompetanse innen fiskevelferd og andre aktuelle fagområder.
+4. uttestingen skal skje etter vitenskapelige prinsipper og skal kunne dokumentere de velferdsmessige konsekvensene av metoden ved den aktuelle bruken.
+5. det er meldt fra til Mattilsynet om hva som skal utprøves, og start og sluttdato for utprøvingen. Meldingen skal sendes slik Mattilsynet bestemmer. Nærmere krav til meldeplikten fastsettes av Mattilsynet.
+6. dokumentasjon om metodens, installasjonens eller utstyrets konsekvenser for fiskevelferd, skal sendes slik Mattilsynet bestemmer. Nærmere krav til meldeplikten fastsettes av Mattilsynet.
 
 > Endret ved [forskrift 19 april 2018 nr. 673](forskrift/2018-04-19-673).
 
@@ -399,7 +481,11 @@ Sleping av produksjonsenheter med fisk er forbudt.
 
 ### § 37a. Krav ved gjennomføring av aktiviteter som kan medføre risiko for rømming
 
-Innehaver av akvakulturtillatelse skal sørge for at aktiviteter som kan medføre risiko for rømming ved akvakulturanlegg;planlegges, og gjennomgås sammen med deltakende personell før gjennomføring av aktiviteten,gjennomføres med nødvendig kommunikasjon med vare- og tjenesteprodusenter, både før, under og etter aktiviteten, oggjennomføres med tilstrekkelig tilstedeværelse av eget personell.
+Innehaver av akvakulturtillatelse skal sørge for at aktiviteter som kan medføre risiko for rømming ved akvakulturanlegg;
+
+1. planlegges, og gjennomgås sammen med deltakende personell før gjennomføring av aktiviteten,
+2. gjennomføres med nødvendig kommunikasjon med vare- og tjenesteprodusenter, både før, under og etter aktiviteten, og
+3. gjennomføres med tilstrekkelig tilstedeværelse av eget personell.
 
 Innehaver av akvakulturtillatelse skal sørge for nødvendig overvåking og kontroll av produksjonsenheter i sjø før, under og umiddelbart etter gjennomføring av aktiviteter som kan medføre risiko for rømming.
 
@@ -435,7 +521,12 @@ Det skal til enhver tid foreligge en driftsplan for akvakulturanlegg i sjø. Ved
 
 Driftsplan for de to neste kalenderår skal sendes senest 1. oktober til Mattilsynet på den måten Mattilsynet bestemmer.
 
-Driftsplanen skal minimum inneholde opplysninger om:Utsett: tidspunkt, tillatelser, lokalitet, antall fisk, arter, bruk av rensefisk,Drift: tidsrom, tillatelser, lokalitet, teknologi,Flytting: tidspunkt, tillatelser, lokaliteter, antall fisk, arter, bruk av rensefisk,Brakklegging: tidsrom, tillatelser, lokalitet og rensefisk.
+Driftsplanen skal minimum inneholde opplysninger om:
+
+1. Utsett: tidspunkt, tillatelser, lokalitet, antall fisk, arter, bruk av rensefisk,
+2. Drift: tidsrom, tillatelser, lokalitet, teknologi,
+3. Flytting: tidspunkt, tillatelser, lokaliteter, antall fisk, arter, bruk av rensefisk,
+4. Brakklegging: tidsrom, tillatelser, lokalitet og rensefisk.
 
 Mattilsynet fatter vedtak om godkjenning av flytting av fisk og brakklegging, jf. annet ledd bokstav c og d, som gjelder det første året. Vesentlige endringer i driftsplanen må meldes inn til myndighetene og vesentlige endringer av godkjent del av driftsplan må omsøkes så snart som mulig.
 
@@ -517,7 +608,10 @@ Tiltaksplanen skal sendes inn på den måten tilsynsmyndighetene bestemmer. Ders
 
 ### § 40h. Tiltak ved uakseptabel miljøtilstand for øvrig
 
-Det skal utarbeides en tiltaksplan og gjennomføres tiltak i henhold til planen for å bedre miljøtilstanden dersomundersøkelser i henhold til § 40c andre ledd viser at det er grunn til å tro enten at vannforekomsten ikke vil nå miljømål fastsatt i medhold av [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning § 24](forskrift/2006-12-15-1446/§24) eller at gravende bunndyr ikke kan eksistere i anleggssonen eller resipienten for øvrig og utslipp på lokaliteten av stoffer som nevnt i [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII](forskrift/2006-12-15-1446/vedleggVIII) C og D nr. 2 eller vannregionspesifikke stoffer bidrar til dette, ellerbefaring i henhold til § 40e første ledd viser at strandsonene er synlig påvirket av forurensning fra driften av akvakulturanlegget.
+Det skal utarbeides en tiltaksplan og gjennomføres tiltak i henhold til planen for å bedre miljøtilstanden dersom
+
+1. undersøkelser i henhold til § 40c andre ledd viser at det er grunn til å tro enten at vannforekomsten ikke vil nå miljømål fastsatt i medhold av [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning § 24](forskrift/2006-12-15-1446/§24) eller at gravende bunndyr ikke kan eksistere i anleggssonen eller resipienten for øvrig og utslipp på lokaliteten av stoffer som nevnt i [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII](forskrift/2006-12-15-1446/vedleggVIII) C og D nr. 2 eller vannregionspesifikke stoffer bidrar til dette, eller
+2. befaring i henhold til § 40e første ledd viser at strandsonene er synlig påvirket av forurensning fra driften av akvakulturanlegget.
 
 Tiltaksplanen skal sendes inn på den måten tilsynsmyndighetene bestemmer. Dersom statsforvalteren vurderer at de planlagte tiltakene ikke er tilstrekkelige, kan statsforvalteren pålegge ytterligere tiltak.
 
@@ -525,7 +619,20 @@ Tiltaksplanen skal sendes inn på den måten tilsynsmyndighetene bestemmer. Ders
 
 ### § 41. Journalføring på lokalitetsnivå
 
-Driftsjournalen skal på lokalitetsnivå minst inneholde oppdaterte opplysninger om:nummer på produksjonsenhet knyttet til akvakulturtillatelsens nummer og innehaver av tillatelsen,tidspunkt for brakklegging,rømmingstilfeller: rømmingsårsak, rømmingstidspunkt, art, antall rømte fisk, deres gjennomsnittsvekt, helsestatus og at rømmingen er meldt Fiskeridirektoratet og tidspunktet for dette,fangster tatt under gjenfangstaksjoner: antall fisk, størrelsesfordeling, samlet vekt og artsfordeling,kjemikalieforbruk: kjemikalietype, produktnavn, mengde og forbruksperiode,legemiddelforbruk: legemiddeltype, produktnavn, mengde, forbruksperiode og tilbakeholdelsestid,levering av dødfisk: kvantum levert, leveringstidspunkt og mottaker,rapporter fra gjennomførte miljøundersøkelser,gjennomførte kontroller av not,gjennomførte kontroller av bunnredskap for overvåkingsfiske, herunder antall innfangede akvakulturdyr, ville fisk og krepsdyr, størrelsesfordeling og samlet vekt,impregnerte nøter: hva slags virkestoff impregneringsmiddelet nøtene er satt inn med inneholder og når og hvordan nøtene er grovrengjort,henvendelser fra personer som oppgir at de opplever lys-, støy- eller luktulemper fra driften, inkludert fra transport, lasting og lossing, og hendelser som kan forårsake slike ulemper: tidspunkt, mulig årsak og navn, adresse og telefonnummer til personer som meldt fra.
+Driftsjournalen skal på lokalitetsnivå minst inneholde oppdaterte opplysninger om:
+
+1. nummer på produksjonsenhet knyttet til akvakulturtillatelsens nummer og innehaver av tillatelsen,
+2. tidspunkt for brakklegging,
+3. rømmingstilfeller: rømmingsårsak, rømmingstidspunkt, art, antall rømte fisk, deres gjennomsnittsvekt, helsestatus og at rømmingen er meldt Fiskeridirektoratet og tidspunktet for dette,
+4. fangster tatt under gjenfangstaksjoner: antall fisk, størrelsesfordeling, samlet vekt og artsfordeling,
+5. kjemikalieforbruk: kjemikalietype, produktnavn, mengde og forbruksperiode,
+6. legemiddelforbruk: legemiddeltype, produktnavn, mengde, forbruksperiode og tilbakeholdelsestid,
+7. levering av dødfisk: kvantum levert, leveringstidspunkt og mottaker,
+8. rapporter fra gjennomførte miljøundersøkelser,
+9. gjennomførte kontroller av not,
+10. gjennomførte kontroller av bunnredskap for overvåkingsfiske, herunder antall innfangede akvakulturdyr, ville fisk og krepsdyr, størrelsesfordeling og samlet vekt,
+11. impregnerte nøter: hva slags virkestoff impregneringsmiddelet nøtene er satt inn med inneholder og når og hvordan nøtene er grovrengjort,
+12. henvendelser fra personer som oppgir at de opplever lys-, støy- eller luktulemper fra driften, inkludert fra transport, lasting og lossing, og hendelser som kan forårsake slike ulemper: tidspunkt, mulig årsak og navn, adresse og telefonnummer til personer som meldt fra.
 
 Ved samdrift skal det føres felles driftsjournal. Ved samdrift skal driftsjournalen i stedet for opplysningene i første ledd bokstav a opplyse om hvilke innehavere av akvakulturtillatelse som driver i samdrift, hvilke tillatelser som er omfattet og hvilken ideell andel av fisken som knytter seg til de ulike tillatelsene.
 
@@ -533,15 +640,32 @@ Ved samdrift skal det føres felles driftsjournal. Ved samdrift skal driftsjourn
 
 ### § 42. Journalføring på produksjonsenhetsnivå
 
-Driftsjournalen skal på produksjonsenhetsnivå minst inneholde oppdaterte opplysninger om:utsett av fisk: dato, art, antall fisk, årsklasse og opprinnelse,utslaktingskvantum og sted for slakting: slakteri, dato, art, antall fisk, slaktevekt og slaktetilstand,uttak av levende fisk: dato, art, antall og kvantum. Ved flytting av fisk skal det journalføres til hvilket akvakulturanlegg fisken er flyttet til,volum som fisken har mulighet til å bevege seg i,fiskens helse- og velferdsstatus: antall helsekontroller, antall obduserte fisk, prøveuttak, undersøkelser, diagnoser, skader, herunder omfang av vaksineskader, behandlinger, samt kjente eller sannsynlige årsaker til skader og produksjonssykdommer,relevante parametere for vannkvalitet og vannkvalitetstiltak,angrep av predatorer, alger eller maneter og eventuelt gjennomførte tiltak.
+Driftsjournalen skal på produksjonsenhetsnivå minst inneholde oppdaterte opplysninger om:
 
-Følgende opplysninger skal journalføres daglig på produksjonsenhetsnivå:beholdning av fisk: art, antall fisk og årsklasse,biomasse og grunnlaget for beregningen av biomasse, tilvekst og tetthet,tap: dødelighet og annen årsak til tap, art, antall fisk og kvantum, ogfôrforbruk i kilogram og fôrtype.fôrets handelsnavn og eventuell konsentrasjon av stoffer som nevnt i [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII](forskrift/2006-12-15-1446/vedleggVIII) C og D nr. 2 og vannregionspesifikke stoffer.
+1. utsett av fisk: dato, art, antall fisk, årsklasse og opprinnelse,
+2. utslaktingskvantum og sted for slakting: slakteri, dato, art, antall fisk, slaktevekt og slaktetilstand,
+3. uttak av levende fisk: dato, art, antall og kvantum. Ved flytting av fisk skal det journalføres til hvilket akvakulturanlegg fisken er flyttet til,
+4. volum som fisken har mulighet til å bevege seg i,
+5. fiskens helse- og velferdsstatus: antall helsekontroller, antall obduserte fisk, prøveuttak, undersøkelser, diagnoser, skader, herunder omfang av vaksineskader, behandlinger, samt kjente eller sannsynlige årsaker til skader og produksjonssykdommer,
+6. relevante parametere for vannkvalitet og vannkvalitetstiltak,
+7. angrep av predatorer, alger eller maneter og eventuelt gjennomførte tiltak.
+
+Følgende opplysninger skal journalføres daglig på produksjonsenhetsnivå:
+
+1. beholdning av fisk: art, antall fisk og årsklasse,
+2. biomasse og grunnlaget for beregningen av biomasse, tilvekst og tetthet,
+3. tap: dødelighet og annen årsak til tap, art, antall fisk og kvantum, og
+4. fôrforbruk i kilogram og fôrtype.
+5. fôrets handelsnavn og eventuell konsentrasjon av stoffer som nevnt i [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII](forskrift/2006-12-15-1446/vedleggVIII) C og D nr. 2 og vannregionspesifikke stoffer.
 
 > Endret ved [forskrifter 19 april 2018 nr. 673](forskrift/2018-04-19-673), [2 feb 2024 nr. 166](forskrift/2024-02-02-166), [7 feb 2024 nr. 226](forskrift/2024-02-07-226).
 
 ### § 43. Tilleggskrav til journalføring for stamfisk
 
-Driftsjournalen for stamfisk skal på lokalitetsnivå i tillegg minst inneholde opplysninger om biologisk avstamming. For lokaliteter på land skal driftsjournalen i tillegg minst inneholde opplysning om:antall rognkorn produsert, ogleveranse av rogn internt og eksternt: dato for leveranse, navn på mottaker og antall rognkorn.
+Driftsjournalen for stamfisk skal på lokalitetsnivå i tillegg minst inneholde opplysninger om biologisk avstamming. For lokaliteter på land skal driftsjournalen i tillegg minst inneholde opplysning om:
+
+1. antall rognkorn produsert, og
+2. leveranse av rogn internt og eksternt: dato for leveranse, navn på mottaker og antall rognkorn.
 
 Opplysningene skal inndeles etter hver årsklasse og om fisken er satt ut vår eller høst.
 
@@ -551,11 +675,26 @@ Ved samlokalisering av flere tillatelser, og selv om innehaveren er den samme, s
 
 ### § 44. Rapportering
 
-Fra akvakulturanlegg i sjø med fisk skal det månedlig rapporteres om tidspunkt for brakklegging av lokaliteten. I tillegg skal det for hver produksjonsenhet som er i drift rapporteres om følgende opplysninger:nummer på produksjonsenhet knyttet til innehaver av tillatelse,utsett av fisk: art, antall fisk og årsklasse,beholdning av fisk: art, antall individer og årsklasse,biomasse,utslaktingskvantum: art, antall fisk, slaktevekt og slaktetilstand,uttak av levende fisk: art, antall og kvantum, ved flytting av fisk skal det rapporteres til hvilket akvakulturanlegg fisken er flyttet,tap: dødelighet og annen årsak til tap, art, antall fisk og kvantum,fôrforbruk i kilogram og fôrtype,volum som fisken har mulighet til å bevege seg i, oghvorvidt produksjonsenheten oppfyller vilkårene og benyttes til produksjon av nedjustert kapasitet etter [produksjonsområdeforskriften kapittel 4](forskrift/2017-01-16-61/kap4).
+Fra akvakulturanlegg i sjø med fisk skal det månedlig rapporteres om tidspunkt for brakklegging av lokaliteten. I tillegg skal det for hver produksjonsenhet som er i drift rapporteres om følgende opplysninger:
+
+1. nummer på produksjonsenhet knyttet til innehaver av tillatelse,
+2. utsett av fisk: art, antall fisk og årsklasse,
+3. beholdning av fisk: art, antall individer og årsklasse,
+4. biomasse,
+5. utslaktingskvantum: art, antall fisk, slaktevekt og slaktetilstand,
+6. uttak av levende fisk: art, antall og kvantum, ved flytting av fisk skal det rapporteres til hvilket akvakulturanlegg fisken er flyttet,
+7. tap: dødelighet og annen årsak til tap, art, antall fisk og kvantum,
+8. fôrforbruk i kilogram og fôrtype,
+9. volum som fisken har mulighet til å bevege seg i, og
+10. hvorvidt produksjonsenheten oppfyller vilkårene og benyttes til produksjon av nedjustert kapasitet etter [produksjonsområdeforskriften kapittel 4](forskrift/2017-01-16-61/kap4).
 
 I tillegg til årsklasse nevnt i første ledd bokstav b skal det for stamfisk av laks, ørret og regnbueørret i sjø fremgå av den månedlige rapporten om fisken er satt ut vår eller høst. Ved samlokalisering, hvor en tillatelse til akvakultur av stamfisk av laks, ørret og regnbueørret inngår, skal det fremgå av den månedlige rapporten hvilken tillatelse opplysningene refererer seg til. Dette gjelder selv om innehaveren av de ulike tillatelsene er den samme.
 
-Fra akvakulturanlegg i sjø skal følgende opplysninger rapporteres månedlig:fôrets handelsnavn og eventuell konsentrasjon av stoffer som nevnt i [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII](forskrift/2006-12-15-1446/vedleggVIII) C og D nr. 2 og vannregionspesifikke stoffer,forbruk av legemidler: type, produktnavn, mengde og forbruksperiode, ogom det brukes impregnerte nøter og, hvis dette er tilfellet, hva slags impregnering nøtene er satt inn med.
+Fra akvakulturanlegg i sjø skal følgende opplysninger rapporteres månedlig:
+
+1. fôrets handelsnavn og eventuell konsentrasjon av stoffer som nevnt i [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII](forskrift/2006-12-15-1446/vedleggVIII) C og D nr. 2 og vannregionspesifikke stoffer,
+2. forbruk av legemidler: type, produktnavn, mengde og forbruksperiode, og
+3. om det brukes impregnerte nøter og, hvis dette er tilfellet, hva slags impregnering nøtene er satt inn med.
 
 Rapportering skal skje på den måten tilsynsmyndighetene bestemmer. Frist for innsendelse av kalendermånedlige opplysninger settes til den 7. i påfølgende måned.
 
@@ -565,7 +704,10 @@ Ved samdrift skal det sendes inn felles rapport.
 
 ### § 44a. Melding
 
-Fra akvakulturanlegg på land eller i ferskvann, skal det meldes fra til Fiskeridirektoratet når:et akvakulturanlegg tas i bruk og hvilken art som settes ut,et akvakulturanlegg er tømt for akvakulturdyr.
+Fra akvakulturanlegg på land eller i ferskvann, skal det meldes fra til Fiskeridirektoratet når:
+
+1. et akvakulturanlegg tas i bruk og hvilken art som settes ut,
+2. et akvakulturanlegg er tømt for akvakulturdyr.
 
 Ved kontinuerlig drift skal beholdning i form av art, antall og årsklasse meldes årlig. Frist for innsendelse er 7. januar.
 
@@ -575,7 +717,11 @@ Ved samdrift skal det sendes inn felles melding.
 
 ### § 45. Årlig rapportering stamfisk
 
-Fra akvakulturanlegg med stamfisk av laks, ørret, regnbueørret og rensefisk på land skal det 15. juli hvert år rapporteres for perioden 1. juni til 31. mai til Fiskeridirektoratet følgende opplysninger på lokalitetsnivå for hver årsklasse:antall fisk strøket, herunder antall hunner og antall hannertap: antall fisk og årsak, ogantall rognkorn, plommesekklarver eller yngel produsert, levert og eventuell restbeholdning.
+Fra akvakulturanlegg med stamfisk av laks, ørret, regnbueørret og rensefisk på land skal det 15. juli hvert år rapporteres for perioden 1. juni til 31. mai til Fiskeridirektoratet følgende opplysninger på lokalitetsnivå for hver årsklasse:
+
+1. antall fisk strøket, herunder antall hunner og antall hanner
+2. tap: antall fisk og årsak, og
+3. antall rognkorn, plommesekklarver eller yngel produsert, levert og eventuell restbeholdning.
 
 Opplysningene skal inndeles etter hver årsklasse og om fisken er satt ut vår eller høst.
 
@@ -612,7 +758,10 @@ Akvakulturanleggets bidrag til utendørs støy ved omkringliggende boliger, syke
 
 Støygrensene gjelder all støy fra driften ved akvakulturanlegget og tilhørende landbase, og fra lossing og lasting av råvarer og produkter. Støygrense gjelder likevel ikke støy fra midlertidig bygg- og anleggsvirksomhet og fra ordinær persontransport av virksomhetens ansatte.
 
-I denne bestemmelsen menes medLpAekvT: gjennomsnittlig (energimidlet) nivå for varierende støy over en bestemt tidsperiode, TLAFmax: gjennomsnittlig A-veiet maksimalnivå for de 5–10 mest støyende hendelsene i perioden med tidskonstant «Fast» på 125 ms.
+I denne bestemmelsen menes med
+
+1. LpAekvT: gjennomsnittlig (energimidlet) nivå for varierende støy over en bestemt tidsperiode, T
+2. LAFmax: gjennomsnittlig A-veiet maksimalnivå for de 5–10 mest støyende hendelsene i perioden med tidskonstant «Fast» på 125 ms.
 
 Aktiviteter som er ekstra støyende og som vil pågå over flere dager, skal forhåndsvarsles til berørte naboer.
 
@@ -688,7 +837,10 @@ For at foretak som er pålagt utslakting på grunn av sykdom skal kunne oppretth
 
 Samdrift tillates kun for produksjon av matfisk av samme art og av samme type tillatelse. Det er ikke tillatt med samdrift og samlokalisering på samme lokalitet.
 
-Samdrift skal meldes til Fiskeridirektoratet senest en kalendermåned før iverksettelse. Meldingen skal inneholde opplysninger om:hvilke lokaliteter, hvilke tillatelser og hvilke innehavere som er omfattet av samdriften, oghvilken ideell andel av fisken som knytter seg til de ulike tillatelsene.
+Samdrift skal meldes til Fiskeridirektoratet senest en kalendermåned før iverksettelse. Meldingen skal inneholde opplysninger om:
+
+1. hvilke lokaliteter, hvilke tillatelser og hvilke innehavere som er omfattet av samdriften, og
+2. hvilken ideell andel av fisken som knytter seg til de ulike tillatelsene.
 
 Endringer i forhold som nevnt i andre ledd bokstav a kan først iverksettes en kalendermåned etter at ny melding er kommet frem til Fiskeridirektoratet. Endringer i forhold som nevnt i andre ledd bokstav b må senest fremkomme sammen med rapportering av samdriften etter [§ 44](forskrift/2008-06-17-822/§44).
 
@@ -772,7 +924,16 @@ Dersom det produseres mer enn 1 000 000 settefisk pr år, skal ulike generasjone
 
 ### § 57. Journalføring
 
-Driftsjournalen skal minst inneholde oppdaterte opplysninger om:mottak, levering og beholdning av fisk, plommesekklarver, yngel og rogn: antall mottatt, opprinnelse, antall levert, mottaker og beholdning,rømmingstilfeller: rømmingsårsak, rømmingstidspunkt, antall rømte individer, størrelse, helsestatus og at rømmingen er meldt til Fiskeridirektoratet og tidspunktet for dette,kjemikalieforbruk: kjemikalietype, produktnavn, mengde og forbruksperiode,legemiddelforbruk: legemiddeltype, produktnavn, mengde og forbruksperiode,fiskens helse- og velferdsstatus: antall helsekontroller, antall obduserte fisk, prøveuttak, undersøkelser, diagnoser, skader, herunder omfang av vaksineskader, behandlinger, samt kjente eller sannsynlige årsaker til skader og produksjonssykdommer,relevante parametere for vannkvalitet og vannkvalitetstiltak, ogbehandling og levering av død fisk: behandlingsmåte, mengde, leveringstidspunkt og mottaker.fangster tatt under gjenfangstaksjoner: antall fisk, størrelsesfordeling, samlet vekt og artsfordeling.
+Driftsjournalen skal minst inneholde oppdaterte opplysninger om:
+
+1. mottak, levering og beholdning av fisk, plommesekklarver, yngel og rogn: antall mottatt, opprinnelse, antall levert, mottaker og beholdning,
+2. rømmingstilfeller: rømmingsårsak, rømmingstidspunkt, antall rømte individer, størrelse, helsestatus og at rømmingen er meldt til Fiskeridirektoratet og tidspunktet for dette,
+3. kjemikalieforbruk: kjemikalietype, produktnavn, mengde og forbruksperiode,
+4. legemiddelforbruk: legemiddeltype, produktnavn, mengde og forbruksperiode,
+5. fiskens helse- og velferdsstatus: antall helsekontroller, antall obduserte fisk, prøveuttak, undersøkelser, diagnoser, skader, herunder omfang av vaksineskader, behandlinger, samt kjente eller sannsynlige årsaker til skader og produksjonssykdommer,
+6. relevante parametere for vannkvalitet og vannkvalitetstiltak, og
+7. behandling og levering av død fisk: behandlingsmåte, mengde, leveringstidspunkt og mottaker.
+8. fangster tatt under gjenfangstaksjoner: antall fisk, størrelsesfordeling, samlet vekt og artsfordeling.
 
 Det skal daglig journalføres opplysninger om antall fisk, vekt, tilvekst, tetthet, dødelighet samt fôrforbruk i kilogram og fôrtype på produksjonsenhetsnivå.
 
@@ -832,7 +993,14 @@ I akvakulturanlegg med laks, regnbueørret, ørret eller røye skal minst 30 fis
 
 ### § 64. Journalføring
 
-Driftsjournalen skal til enhver tid minst inneholde oppdaterte opplysninger, som er relevante for produksjonsformen, om:Tidspunkt for når akvakulturanlegget tas i bruk og hvilke(n) art(er) som settes ut,Mengde akvakulturorganismer tatt inn til og ut fra akvakulturanlegget, inkludert opprinnelsessted og mottaksstedTidspunkt for når akvakulturanlegget er tømt for akvakulturdyrAntall egne tilsyn med installasjonen og akvakulturorganismene pr. måned,Helsestatus: antall gjennomførte helsekontroller, prøveuttak, foretatte undersøkelser, diagnoser og gjennomførte behandlinger, ogDødelighet per produksjonsenhet.
+Driftsjournalen skal til enhver tid minst inneholde oppdaterte opplysninger, som er relevante for produksjonsformen, om:
+
+1. Tidspunkt for når akvakulturanlegget tas i bruk og hvilke(n) art(er) som settes ut,
+2. Mengde akvakulturorganismer tatt inn til og ut fra akvakulturanlegget, inkludert opprinnelsessted og mottakssted
+3. Tidspunkt for når akvakulturanlegget er tømt for akvakulturdyr
+4. Antall egne tilsyn med installasjonen og akvakulturorganismene pr. måned,
+5. Helsestatus: antall gjennomførte helsekontroller, prøveuttak, foretatte undersøkelser, diagnoser og gjennomførte behandlinger, og
+6. Dødelighet per produksjonsenhet.
 
 > Endret ved forskrift [7 feb 2024 nr. 226](forskrift/2024-02-07-226).
 
@@ -844,9 +1012,17 @@ Driftsdata skal årlig rapporteres til Fiskeridirektoratet innen 7. januar på d
 
 ### § 66. Krav om sikkerhetsstillelse for tillatelse til akvakultur av blåskjell, sekkdyr og med vannlevende planter
 
-Ny innehaver av tillatelse til akvakultur av blåskjell tildelt etter 31. mars 2007 skal umiddelbart etter overføring av en slik tillatelse, dokumentere at vedkommende harinnbetalt et depositum på kr 2 500 per omsøkt dekar på en sperret konto, elleren forsikring som gir tilsvarende dekning som i bokstav a, ellerstilt annen likeverdig sikkerhet som gir tilsvarende dekning som i bokstav a.
+Ny innehaver av tillatelse til akvakultur av blåskjell tildelt etter 31. mars 2007 skal umiddelbart etter overføring av en slik tillatelse, dokumentere at vedkommende har
 
-Ny innehaver av tillatelse til akvakultur av blåskjell, sekkdyr og akvakultur med vannlevende planter tildelt etter 31. mai 2019 skal umiddelbart etter overføringen av en slik tillatelse, dokumentere at vedkommende harInnbetalt et depositum på kr 3000 per omsøkte dekar til en sperret konto, ellerEn forsikring som gir tilsvarende dekning som i bokstav a), ellerStilt annen likeverdig sikkerhet som gir tilsvarende dekning som i bokstav a.
+1. innbetalt et depositum på kr 2 500 per omsøkt dekar på en sperret konto, eller
+2. en forsikring som gir tilsvarende dekning som i bokstav a, eller
+3. stilt annen likeverdig sikkerhet som gir tilsvarende dekning som i bokstav a.
+
+Ny innehaver av tillatelse til akvakultur av blåskjell, sekkdyr og akvakultur med vannlevende planter tildelt etter 31. mai 2019 skal umiddelbart etter overføringen av en slik tillatelse, dokumentere at vedkommende har
+
+1. Innbetalt et depositum på kr 3000 per omsøkte dekar til en sperret konto, eller
+2. En forsikring som gir tilsvarende dekning som i bokstav a), eller
+3. Stilt annen likeverdig sikkerhet som gir tilsvarende dekning som i bokstav a.
 
 Dokumentasjonen skal foreligge i form av bekreftelse fra finansinstitusjon, forsikringsinstitusjon eller annen relevant institusjon, og skal sendes Fiskeridirektoratet.
 
@@ -898,7 +1074,10 @@ Overtredelse av forskriften eller vedtak fattet i medhold av den, kan medføre s
 
 Denne forskriften trer i kraft 1. august 2008, samtidig oppheves [forskrift 22. desember 2004 nr. 1785 om drift av akvakulturanlegg](forskrift/2004-12-22-1785).
 
-Følgende bestemmelser trer i kraft fra 1. januar 2010:[§ 40](forskrift/2008-06-17-822/§40) tredje ledd om brakklegging av akvakulturanlegg i sjøvann med fisk av andre arter enn laks, ørret og regnbueørret,[§ 44](forskrift/2008-06-17-822/§44) første og andre ledd om rapportering fra akvakulturanlegg i sjøvann med fisk av andre arter enn laks, ørret og regnbueørret.
+Følgende bestemmelser trer i kraft fra 1. januar 2010:
+
+1. [§ 40](forskrift/2008-06-17-822/§40) tredje ledd om brakklegging av akvakulturanlegg i sjøvann med fisk av andre arter enn laks, ørret og regnbueørret,
+2. [§ 44](forskrift/2008-06-17-822/§44) første og andre ledd om rapportering fra akvakulturanlegg i sjøvann med fisk av andre arter enn laks, ørret og regnbueørret.
 
 [§ 58](forskrift/2008-06-17-822/§58) første og andre ledd om rapportering fra akvakulturanlegg med settefisk trer i kraft 1. oktober 2010.
 

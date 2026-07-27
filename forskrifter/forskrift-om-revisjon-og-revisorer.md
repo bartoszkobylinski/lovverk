@@ -78,9 +78,19 @@ eu_basis: []
 
 ### § 1-6. Overgangsordning for tilleggsgodkjenning som bærekraftsrevisor
 
-(1) Finanstilsynet gir tilleggsgodkjenning som bærekraftsrevisor til person som er godkjent som statsautorisert revisor per 31. desember 2025 og har gjennomført minst 40 timer etterutdanning som minst dekker følgende fagtemaer:lovkrav og standarder for bærekraftsrapportering, inkludert konsolidert bærekraftsrapportering,bærekraftsanalyse,prosesser for aktsomhetsvurderinger som gjelder bærekraftsforhold,lovkrav og standarder for attestasjon av bærekraftsrapportering
+(1) Finanstilsynet gir tilleggsgodkjenning som bærekraftsrevisor til person som er godkjent som statsautorisert revisor per 31. desember 2025 og har gjennomført minst 40 timer etterutdanning som minst dekker følgende fagtemaer:
 
-(2) Følgende bestemmelser i [revisorloven § 5-1](lov/2020-11-20-128/§5-1) gjelder tilsvarende for etterutdanning som nevnt i første ledd:første ledd bokstav afjerde leddfemte leddsjette ledd.
+- lovkrav og standarder for bærekraftsrapportering, inkludert konsolidert bærekraftsrapportering,
+- bærekraftsanalyse,
+- prosesser for aktsomhetsvurderinger som gjelder bærekraftsforhold,
+- lovkrav og standarder for attestasjon av bærekraftsrapportering
+
+(2) Følgende bestemmelser i [revisorloven § 5-1](lov/2020-11-20-128/§5-1) gjelder tilsvarende for etterutdanning som nevnt i første ledd:
+
+- første ledd bokstav a
+- fjerde ledd
+- femte ledd
+- sjette ledd.
 
 (3) Første ledd gjelder også for person som før 1. januar 2026 har deponert revisorgodkjenningen og får godkjenningen som statsautorisert revisor tilbake i samsvar med [revisorloven § 3-8](lov/2020-11-20-128/§3-8). De 40 timene som nevnt i første ledd kan i tilfelle medregnes i kravet til etterutdanning etter [revisorloven § 3-8](lov/2020-11-20-128/§3-8), jf. [§ 5-1](lov/2020-11-20-128/§5-1).
 
@@ -94,19 +104,33 @@ Dette kapittelet gjelder for registrering av og tilsyn med tredjelandsrevisorer 
 
 ### § 2-2. Definisjoner
 
-I denne forskrift menes med:*tredjeland*, ethvert land utenfor EØS,*tredjelandsrevisjonsselskap*, en juridisk enhet som foretar revisjon av årsregnskapet til revisjonspliktige som er registrert i et tredjeland, bortsett fra en juridisk enhet som er registrert som godkjent revisjonsselskap i et EØS-land i medhold av direktiv [2006/43/EF](eu/32006l0043), som endret ved direktiv [2014/56/EU](eu/32014l0056),*tredjelandsrevisor*, en fysisk person som reviderer årsregnskapet til revisjonspliktige som er registrert i et tredjeland, bortsett fra en person som er registrert som godkjent som revisor i et EØS-land i medhold av direktiv [2006/43/EF](eu/32006l0043), som endret ved direktiv [2014/56/EU](eu/32014l0056).
+I denne forskrift menes med:
+
+1. *tredjeland*, ethvert land utenfor EØS,
+2. *tredjelandsrevisjonsselskap*, en juridisk enhet som foretar revisjon av årsregnskapet til revisjonspliktige som er registrert i et tredjeland, bortsett fra en juridisk enhet som er registrert som godkjent revisjonsselskap i et EØS-land i medhold av direktiv [2006/43/EF](eu/32006l0043), som endret ved direktiv [2014/56/EU](eu/32014l0056),
+3. *tredjelandsrevisor*, en fysisk person som reviderer årsregnskapet til revisjonspliktige som er registrert i et tredjeland, bortsett fra en person som er registrert som godkjent som revisor i et EØS-land i medhold av direktiv [2006/43/EF](eu/32006l0043), som endret ved direktiv [2014/56/EU](eu/32014l0056).
 
 ### § 2-3. Registrering
 
 (1) Tredjelandsrevisorer og tredjelandsrevisjonsselskaper skal registreres i henhold til bestemmelsene i [revisorloven § 6-2](lov/2020-11-20-128/§6-2) og [§ 6-4](lov/2020-11-20-128/§6-4) og forskrifter gitt til utfylling av disse, så langt de passer.
 
-(2) Tredjelandsrevisjonsselskaper må oppfylle følgende vilkår for å kunne registreres:Flertallet av styrets medlemmer skal oppfylle krav som tilsvarer [revisorlovens](lov/2020-11-20-128) bestemmelser om skikkethet, kvalifikasjoner, fageksamen, teoretisk kunnskap og praksis. Dersom tredjelandsrevisjonsselskapet ikke har et styre, gjelder kravet for tredjelandsrevisjonsselskapets nærmest tilsvarende selskapsorgan.Oppdragsansvarlig revisor skal oppfylle krav som nevnt i nr. 1 første punktum.Revisjon av årsregnskaper skal gjennomføres i henhold til internasjonale revisjonsstandarder som nevnt i direktiv [2006/43/EF](eu/32006l0043), som endret ved direktiv [2014/56/EU](eu/32014l0056), [artikkel 26](eu/32006l0043/a26) og kravene etter [artikkel 22](eu/32006l0043/a22), 22b og [25](eu/32006l0043/a25), eller tilsvarende standarder og krav som er godkjent av EU-kommisjonen.Det skal offentliggjøres åpenhetsrapporter i samsvar med forordning [(EU) nr. 537/2014 artikkel 13](eu/32014r0537/a13) eller tilsvarende utenlandske krav. Rapporten må være offentliggjort på registreringstidspunktet.
+(2) Tredjelandsrevisjonsselskaper må oppfylle følgende vilkår for å kunne registreres:
+
+1. Flertallet av styrets medlemmer skal oppfylle krav som tilsvarer [revisorlovens](lov/2020-11-20-128) bestemmelser om skikkethet, kvalifikasjoner, fageksamen, teoretisk kunnskap og praksis. Dersom tredjelandsrevisjonsselskapet ikke har et styre, gjelder kravet for tredjelandsrevisjonsselskapets nærmest tilsvarende selskapsorgan.
+2. Oppdragsansvarlig revisor skal oppfylle krav som nevnt i nr. 1 første punktum.
+3. Revisjon av årsregnskaper skal gjennomføres i henhold til internasjonale revisjonsstandarder som nevnt i direktiv [2006/43/EF](eu/32006l0043), som endret ved direktiv [2014/56/EU](eu/32014l0056), [artikkel 26](eu/32006l0043/a26) og kravene etter [artikkel 22](eu/32006l0043/a22), 22b og [25](eu/32006l0043/a25), eller tilsvarende standarder og krav som er godkjent av EU-kommisjonen.
+4. Det skal offentliggjøres åpenhetsrapporter i samsvar med forordning [(EU) nr. 537/2014 artikkel 13](eu/32014r0537/a13) eller tilsvarende utenlandske krav. Rapporten må være offentliggjort på registreringstidspunktet.
 
 (3) Tredjelandsrevisorer må oppfylle vilkårene i annet ledd nr. 2, 3 og 4.
 
 (4) Finanstilsynet kan, på grunnlag av gjensidig avtale med tredjelandets tilsynsmyndighet, helt eller delvis frita tredjelandsrevisor eller tredjelandsrevisjonsselskap fra registrering i Finanstilsynets register dersom EU-kommisjonen eller revisortilsynsmyndigheten i et annet EØS-land har vurdert tredjelandets kvalitetssikringssystem som tilsvarende i henhold til direktiv [2006/43/EF](eu/32006l0043), som endret ved direktiv [2014/56/EU](eu/32014l0056), [artikkel 46](eu/32006l0043/a46).
 
-(5) Tredjelandsrevisor og tredjelandsrevisjonsselskap som helt eller delvis er fritatt for registrering etter fjerde ledd, skal gi Finanstilsynet skriftlig melding når den revisjonspliktige har utstedt verdipapirer notert på regulert marked i Norge. Meldingen skal inneholde følgende opplysninger:tredjelandsrevisors eller tredjelandsrevisjonsselskaps identifikasjon, navn og kontaktinformasjonoppdragsansvarlig revisors navn og kontaktinformasjonrevisjonspliktiges foretaksnavn og identifikasjondato for notering av verdipapirer på regulert marked i Norge.
+(5) Tredjelandsrevisor og tredjelandsrevisjonsselskap som helt eller delvis er fritatt for registrering etter fjerde ledd, skal gi Finanstilsynet skriftlig melding når den revisjonspliktige har utstedt verdipapirer notert på regulert marked i Norge. Meldingen skal inneholde følgende opplysninger:
+
+1. tredjelandsrevisors eller tredjelandsrevisjonsselskaps identifikasjon, navn og kontaktinformasjon
+2. oppdragsansvarlig revisors navn og kontaktinformasjon
+3. revisjonspliktiges foretaksnavn og identifikasjon
+4. dato for notering av verdipapirer på regulert marked i Norge.
 
 (6) Tredjelandsrevisor eller tredjelandsrevisjonsselskap skal gi Finanstilsynet skriftlig melding om endringer i opplysningene som nevnt i bokstav a. til c., eller når revisjonen av den revisjonspliktige opphører, eller når den revisjonspliktiges verdipapirer ikke lenger er notert på regulert marked i Norge. Melding om endringer skal inneholde dato for når endringen trådte i kraft.
 

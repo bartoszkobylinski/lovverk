@@ -15,7 +15,7 @@ xml_hash: "f34a30ad0d5e38b238ff6e5cca06e535c7b934b7c6d45bf15868ead76079a42a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,28 +26,47 @@ eu_basis: []
 
 ### § 1. (definisjoner)
 
-I denne lov menes medatombrensel:
-spaltbart stoff som består av uran eller plutonium i metallisk form, i legering eller i kjemisk forbindelse, samt annet spaltbart stoff som departementet måtte bestemme;radioaktivt produkt:
-annet radioaktivt stoff (herunder avfall) som er dannet eller blitt radioaktivt ved bestråling i forbindelse med framstilling eller bruk av atombrensel;atomsubstans:
-atombrensel, bortsett fra naturlig uran og utmagret uran, samt radioaktivt produkt, unntatt radioisotoper som brukes til industrielt, kommersielt, jordbruksmessig, medisinsk, vitenskapelig eller undervisningsmessig formål eller som er bestemt for og uten videre brukelige til et slikt formål;atomreaktor:
-innretning som inneholder atombrensel under slike forhold at spalting av atomkjerner kan oppstå i den og selv holde seg ved like i kjedereaksjon uten neutrontilførsel fra annen kilde;atomanlegg:
-atomreaktoranlegg;
-fabrikk for framstilling eller behandling av atomsubstans,
-fabrikk for separasjon av isotoper i atombrensel,
-fabrikk for opparbeiding av bestrålt atombrensel,
-innretning for lagring av atomsubstans, bortsett fra innretning som er bestemt til bare å brukes til midlertidig oppbevaring under transport,
-anlegg for deponering av atomsubstans,
-reaktor, fabrikk, innretning eller anlegg av nevnte slag som er under nedlegging,
-og etter departementets nærmere bestemmelse annen innretning der det fins atombrensel eller radioaktivt produkt;anleggstat:
-den stat som et bestemt atomanlegg ligger i eller – om anlegget ikke ligger på noen stats område – den stat som driver eller har godkjent anlegget;innehaver av atomanlegg:
-den som har konsesjon til å drive anlegget – eller i mangel av konsesjon – den som rår over anlegget eller som departementet har utpekt, eller for så vidt angår anlegg i utlandet, den som anses for innehaver etter lovgivningen i anleggstaten;atomskade:
-skade som faller under [§ 21](lov/1972-05-12-28/§21) nr. 1 og som skyldes ioniserende stråling som et resultat av radioaktive egenskaper eller en forening av radioaktive og giftige, eksplosive eller andre farlige egenskaper vedatombrensel eller radioaktivt produkt i et atomanlegg,annen strålekilde i et atomanlegg,atomsubstans som kommer fra, har opphav i eller er sendt til et atomanlegg;atomulykke:
-en hending som forårsaker atomskade eller en rekke hendinger som har samme opphav og forårsaker atomskade;Pariskonvensjonen:
-den konvensjon om erstatningsansvar på atomenergiens område som ble inngått i Paris 29 juli 1960 og endret ved protokoller 28 januar 1964, 16 november 1982 og 12 februar 2004;Tilleggskonvensjonen:
-den konvensjon til utfylling av Pariskonvensjonen som ble inngått i Brussel 31 januar 1963 og endret ved protokoller 28 januar 1964, 16 november 1982 og 12 februar 2004;Wienkonvensjonen:
-den konvensjon om erstatningsansvar for atomskade som ble inngått i Wien 21 mai 1963, og som med virkning for noen stater er endret ved protokoll 29 september 1997;konvensjonsstat:
-stat som er tilsluttet Pariskonvensjonen;Fellesprotokollen:
-den fellesprotokoll i tilknytning til Wienkonvensjonen og Pariskonvensjonen som ble inngått i Wien 21 september 1988.
+I denne lov menes med
+
+1. atombrensel:
+   spaltbart stoff som består av uran eller plutonium i metallisk form, i legering eller i kjemisk forbindelse, samt annet spaltbart stoff som departementet måtte bestemme;
+2. radioaktivt produkt:
+   annet radioaktivt stoff (herunder avfall) som er dannet eller blitt radioaktivt ved bestråling i forbindelse med framstilling eller bruk av atombrensel;
+3. atomsubstans:
+   atombrensel, bortsett fra naturlig uran og utmagret uran, samt radioaktivt produkt, unntatt radioisotoper som brukes til industrielt, kommersielt, jordbruksmessig, medisinsk, vitenskapelig eller undervisningsmessig formål eller som er bestemt for og uten videre brukelige til et slikt formål;
+4. atomreaktor:
+   innretning som inneholder atombrensel under slike forhold at spalting av atomkjerner kan oppstå i den og selv holde seg ved like i kjedereaksjon uten neutrontilførsel fra annen kilde;
+5. atomanlegg:
+   atomreaktoranlegg;
+   fabrikk for framstilling eller behandling av atomsubstans,
+   fabrikk for separasjon av isotoper i atombrensel,
+   fabrikk for opparbeiding av bestrålt atombrensel,
+   innretning for lagring av atomsubstans, bortsett fra innretning som er bestemt til bare å brukes til midlertidig oppbevaring under transport,
+   anlegg for deponering av atomsubstans,
+   reaktor, fabrikk, innretning eller anlegg av nevnte slag som er under nedlegging,
+   og etter departementets nærmere bestemmelse annen innretning der det fins atombrensel eller radioaktivt produkt;
+6. anleggstat:
+   den stat som et bestemt atomanlegg ligger i eller – om anlegget ikke ligger på noen stats område – den stat som driver eller har godkjent anlegget;
+7. innehaver av atomanlegg:
+   den som har konsesjon til å drive anlegget – eller i mangel av konsesjon – den som rår over anlegget eller som departementet har utpekt, eller for så vidt angår anlegg i utlandet, den som anses for innehaver etter lovgivningen i anleggstaten;
+8. atomskade:
+   skade som faller under [§ 21](lov/1972-05-12-28/§21) nr. 1 og som skyldes ioniserende stråling som et resultat av radioaktive egenskaper eller en forening av radioaktive og giftige, eksplosive eller andre farlige egenskaper ved
+
+   1. atombrensel eller radioaktivt produkt i et atomanlegg,
+   2. annen strålekilde i et atomanlegg,
+   3. atomsubstans som kommer fra, har opphav i eller er sendt til et atomanlegg;
+9. atomulykke:
+   en hending som forårsaker atomskade eller en rekke hendinger som har samme opphav og forårsaker atomskade;
+10. Pariskonvensjonen:
+    den konvensjon om erstatningsansvar på atomenergiens område som ble inngått i Paris 29 juli 1960 og endret ved protokoller 28 januar 1964, 16 november 1982 og 12 februar 2004;
+11. Tilleggskonvensjonen:
+    den konvensjon til utfylling av Pariskonvensjonen som ble inngått i Brussel 31 januar 1963 og endret ved protokoller 28 januar 1964, 16 november 1982 og 12 februar 2004;
+12. Wienkonvensjonen:
+    den konvensjon om erstatningsansvar for atomskade som ble inngått i Wien 21 mai 1963, og som med virkning for noen stater er endret ved protokoll 29 september 1997;
+13. konvensjonsstat:
+    stat som er tilsluttet Pariskonvensjonen;
+14. Fellesprotokollen:
+    den fellesprotokoll i tilknytning til Wienkonvensjonen og Pariskonvensjonen som ble inngått i Wien 21 september 1988.
 
 > Endret ved lover [20 des 1985 nr. 103](lov/1985-12-20-103), [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).
 
@@ -109,7 +128,12 @@ Kongen kan ved forskrift eller enkeltvedtak gi nærmere regler om internkontroll
 
 ### § 9. (tilbakekalling av konsesjon og løyve)
 
-Konsesjon eller løyve kan kalles tilbake når:vesentlige forutsetninger viser seg ikke å ha vært til stede,vilkår eller pålegg som er oppstilt eller gitt i eller i medhold av loven, blir vesentlig eller gjentatte ganger tilsidesatt,anlegget eller virksomheten ikke blir fullført eller utført innen rimelig tid, ellerhensynet til sikkerheten krever det.
+Konsesjon eller løyve kan kalles tilbake når:
+
+1. vesentlige forutsetninger viser seg ikke å ha vært til stede,
+2. vilkår eller pålegg som er oppstilt eller gitt i eller i medhold av loven, blir vesentlig eller gjentatte ganger tilsidesatt,
+3. anlegget eller virksomheten ikke blir fullført eller utført innen rimelig tid, eller
+4. hensynet til sikkerheten krever det.
 
 > Endret ved lov [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).
 
@@ -122,7 +146,12 @@ Direktoratet for strålevern og atomsikkerhet er det øverste faglige organ når
 ### § 11. (oppføring og igangsetting av atomanlegg)
 
 1. Direktoratet for strålevern og atomsikkerhet skal føre løpende kontroll med oppføringen av atomanlegg. Det skal særlig påse at vilkår og bestemmelser i konsesjonen blir fulgt, og at alle tiltak blir iverksatt som sikkerheten krever, derunder sikkerhetstiltak som er beskrevet i foreløpig godkjente sikkerhetsrapporter. Tiltak beskrevet i sikkerhetsrapporter kan direktoratet endre når ikke hensynet til sikkerheten taler mot det.
-2. Før et atomanlegg settes i drift, skal innehaveren ha godkjenning til dette av Direktoratet for strålevern og atomsikkerhet. Før slik godkjenning gis, skal direktoratet forvisse seg om at:anleggets tekniske standard, driftsforskrifter, sikringstiltak og beredskapsplan for uhell er forsvarlig,anleggets ledelse og personell har de nødvendige kvalifikasjoner og klare ansvarsområder,garanti er stillet i medhold av denne lovs [§ 35](lov/1972-05-12-28/§35), jfr. [§ 37](lov/1972-05-12-28/§37),alle godkjenninger foreligger fra vedkommende myndigheter i henhold til lovgivningen ellers.
+2. Før et atomanlegg settes i drift, skal innehaveren ha godkjenning til dette av Direktoratet for strålevern og atomsikkerhet. Før slik godkjenning gis, skal direktoratet forvisse seg om at:
+
+   1. anleggets tekniske standard, driftsforskrifter, sikringstiltak og beredskapsplan for uhell er forsvarlig,
+   2. anleggets ledelse og personell har de nødvendige kvalifikasjoner og klare ansvarsområder,
+   3. garanti er stillet i medhold av denne lovs [§ 35](lov/1972-05-12-28/§35), jfr. [§ 37](lov/1972-05-12-28/§37),
+   4. alle godkjenninger foreligger fra vedkommende myndigheter i henhold til lovgivningen ellers.
 3. I god tid før atomanlegget settes i drift, skal innehaveren legge frem for Direktoratet for strålevern og atomsikkerhet en fullstendig sikkerhetsrapport for anlegget.
 4. Direktoratet for strålevern og atomsikkerhet kan, når det finner det hensiktsmessig for sin bedømmelse av anlegget gi særskilt samtykke til begrenset prøvedrift på de vilkår som finnes påkrevet.
 
@@ -181,7 +210,10 @@ Kongen kan gi særskilte forskrifter om atomanlegg som nyttes eller er bestemt t
 
 1. Reglene i dette kapittel gjelder for atomskade som oppstår på et geografisk område eller om bord i et skip eller et fly der Pariskonvensjonen får anvendelse etter konvensjonen artikkel 2 bokstav a.
 2. Hvis en atomulykke skjer her i riket og innehaveren av et atomanlegg her er ansvarlig for ulykken etter kapitlets regler ellers, kan det også kreves erstatning for atomskade som oppstår i en stat som ikke er konvensjonstat, og som ligger utenfor det området der Pariskonvensjonen får anvendelse etter konvensjonens artikkel 2 bokstav a, eller om bord i et skip eller fly registrert i en slik stat.
-3. Kongen kan bestemmeat reglene i dette kapittel helt eller delvis skal gjelde atomskade oppstått her i riket eller i en annen konvensjonstat eller på det åpne hav, selv om ulykken er skjedd i en stat som ikke er konvensjonstat. Slik bestemmelse kan gjøres betinget av gjensidighet mellom Norge og vedkommende konvensjonstat der atomskaden er oppstått eller der skadelidte hører hjemme,at en stat som ikke er konvensjonstat, helt eller delvis skal likestilles med konvensjonstat etter reglene i kapitlet her.
+3. Kongen kan bestemme
+
+   1. at reglene i dette kapittel helt eller delvis skal gjelde atomskade oppstått her i riket eller i en annen konvensjonstat eller på det åpne hav, selv om ulykken er skjedd i en stat som ikke er konvensjonstat. Slik bestemmelse kan gjøres betinget av gjensidighet mellom Norge og vedkommende konvensjonstat der atomskaden er oppstått eller der skadelidte hører hjemme,
+   2. at en stat som ikke er konvensjonstat, helt eller delvis skal likestilles med konvensjonstat etter reglene i kapitlet her.
 4. Kongen kan videre bestemme at det ikke skal ytes erstatning etter reglene i kapitlet her eller etter andre erstatningsregler for atomskade som er oppstått i en stat som ikke er konvensjonstat, uten for så vidt det etter denne stats lovgivning eller etter overenskomst foreligger gjensidighet. Slik bestemmelse kan Kongen treffe generelt eller med virkning i forhold til nærmere bestemte stater.
 5. Uten hinder av bestemmelsene i paragrafen her kan regresskrav gjøres gjeldende mot vedkommende innehaver i samsvar med reglene i [§ 28](lov/1972-05-12-28/§28).
 
@@ -203,7 +235,14 @@ Innehaveren skal erstatte atomskade voldt ved atomulykke som skjer i innehaveren
 
 ### § 21. (tapsposter som omfattes)
 
-1. Erstatning for atomskade etter reglene i dette kapittel omfatter følgende tapsposter:skade på person eller en persons død,tap av eller skade på fast eiendom eller løsøre,ytterligere økonomisk tap som følge av tap, skade eller død som nevnt i bokstav a eller b, når den som kan kreve erstatning etter bokstav a eller b kan kreve dette etter alminnelige erstatningsrettslige regler,kostnader ved rimelige tiltak til utbedring av forringet miljø, med mindre miljøforringelsen er ubetydelig, forutsatt at slike tiltak er eller blir iverksatt av, eller etter vedtak av eller samtykke av en forurensningsmyndighet etter [forurensningsloven](lov/1981-03-13-6) eller av Direktoratet for strålevern og atomsikkerhet,tap av inntekt fra en direkte økonomisk interesse i en bruk av eller en fordel av miljøet, med mindre miljøforringelsen er ubetydelig,kostnader ved rimelige forebyggende tiltak og tap eller skade som følger av slike tiltak.
+1. Erstatning for atomskade etter reglene i dette kapittel omfatter følgende tapsposter:
+
+   1. skade på person eller en persons død,
+   2. tap av eller skade på fast eiendom eller løsøre,
+   3. ytterligere økonomisk tap som følge av tap, skade eller død som nevnt i bokstav a eller b, når den som kan kreve erstatning etter bokstav a eller b kan kreve dette etter alminnelige erstatningsrettslige regler,
+   4. kostnader ved rimelige tiltak til utbedring av forringet miljø, med mindre miljøforringelsen er ubetydelig, forutsatt at slike tiltak er eller blir iverksatt av, eller etter vedtak av eller samtykke av en forurensningsmyndighet etter [forurensningsloven](lov/1981-03-13-6) eller av Direktoratet for strålevern og atomsikkerhet,
+   5. tap av inntekt fra en direkte økonomisk interesse i en bruk av eller en fordel av miljøet, med mindre miljøforringelsen er ubetydelig,
+   6. kostnader ved rimelige forebyggende tiltak og tap eller skade som følger av slike tiltak.
 2. Reglene i kapitlet her gjelder ikke skade på atomanlegget selv, andre atomanlegg på samme anleggsområde, derunder anlegg under bygging, eller skade på ting som på ulykketiden var på anleggsområdet og ble brukt eller var der for å bli brukt i forbindelse med noen av de nevnte anlegg, jf. likevel [§ 27](lov/1972-05-12-28/§27) nr. 3.
 3. Med den begrensning som følger av [§ 30](lov/1972-05-12-28/§30) nr. 3, omfatter ansvaret for innehaveren av atomanlegg her i riket også skade som under transport voldes det transportmiddel der den skadevoldende atomsubstans befant seg da ulykken skjedde. Er innehaveren av anlegg i en annen konvensjonstat ansvarlig for ulykken, avgjøres spørsmålet om hans ansvar for skade på transportmiddelet etter anleggstatens lovgivning.
 
@@ -297,15 +336,28 @@ Er det fra skadelidtes side forsettlig eller grovt aktløst medvirket til skaden
 
 ### § 33. (regress fra innehaver)
 
-Innehaver som er ansvarlig etter kapitlet her eller tilsvarende regler i en annen konvensjonsstat, har ikke rett til å søke regress hos andre for dette ansvar, med mindre vedkommendeved avtale uttrykkelig har påtatt seg å dekke skaden, ellerer en enkeltperson som selv har voldt skaden forsettlig, ellerer ansvarlig for ioniserende stråling som nevnt i [§ 29](lov/1972-05-12-28/§29) nr. 2, ellerer en medansvarlig innehaver (jfr. [§ 31](lov/1972-05-12-28/§31) nr. 2).
+Innehaver som er ansvarlig etter kapitlet her eller tilsvarende regler i en annen konvensjonsstat, har ikke rett til å søke regress hos andre for dette ansvar, med mindre vedkommende
+
+1. ved avtale uttrykkelig har påtatt seg å dekke skaden, eller
+2. er en enkeltperson som selv har voldt skaden forsettlig, eller
+3. er ansvarlig for ioniserende stråling som nevnt i [§ 29](lov/1972-05-12-28/§29) nr. 2, eller
+4. er en medansvarlig innehaver (jfr. [§ 31](lov/1972-05-12-28/§31) nr. 2).
 
 > Endret ved lov [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).
 
 ### § 34. (foreldelse)
 
-1. Selv om et erstatnings- eller regresskrav mot en innehaver eller dennes garantist ikke er foreldet tidligere etter alminnelige foreldelsesregler, faller det iallfall bort dersom det ikke er anerkjent eller gjort gjeldende ved rettslig skrittinnen 30 år etter vedkommende atomulykke dersom det gjelder skade på person eller en persons død, ellerinnen 10 år etter vedkommende atomulykke for annen atomskade enn nevnt i bokstav a.
+1. Selv om et erstatnings- eller regresskrav mot en innehaver eller dennes garantist ikke er foreldet tidligere etter alminnelige foreldelsesregler, faller det iallfall bort dersom det ikke er anerkjent eller gjort gjeldende ved rettslig skritt
+
+   1. innen 30 år etter vedkommende atomulykke dersom det gjelder skade på person eller en persons død, eller
+   2. innen 10 år etter vedkommende atomulykke for annen atomskade enn nevnt i bokstav a.
 2. [Foreldelsesloven § 9](lov/1979-05-18-18/§9) nr. 2 gjelder ikke.
-3. Er det etter konvensjon domsmyndighet for erstatningskravet i flere konvensjonstater (jf. [§ 44](lov/1972-05-12-28/§44)), bevares kravet også såfremtdet foretas rettslig skritt til inntale av kravet i en slik fremmed konvensjonstat innen de der gjeldende frister og før domsmyndigheten måtte være lagt utelukkende til et annet land ved beslutning av Det europeiske atomenergitribunal, eller på annen konvensjonsbestemt måte, ellerdet settes fram rettidig begjæring til rette myndighet i en konvensjonstat om å innlede skritt for å få truffet avgjørelse om domsmyndighet i samsvar med Pariskonvensjonen.Blir domsmyndigheten lagt til Norge ved avgjørelse som nevnt under bokstav a eller b foran, faller virkningen av den rettidige påtale eller begjæring bort, dersom ikke kravet deretter blir gjort gjeldende her i riket innen den frist som måtte bli fastsatt av nevnte internasjonale domstol eller på annen konvensjonsbestemt måte, eller – om noen slik frist ikke blir fastsatt – innen seks måneder etter avgjørelsen.
+3. Er det etter konvensjon domsmyndighet for erstatningskravet i flere konvensjonstater (jf. [§ 44](lov/1972-05-12-28/§44)), bevares kravet også såfremt
+
+   1. det foretas rettslig skritt til inntale av kravet i en slik fremmed konvensjonstat innen de der gjeldende frister og før domsmyndigheten måtte være lagt utelukkende til et annet land ved beslutning av Det europeiske atomenergitribunal, eller på annen konvensjonsbestemt måte, eller
+   2. det settes fram rettidig begjæring til rette myndighet i en konvensjonstat om å innlede skritt for å få truffet avgjørelse om domsmyndighet i samsvar med Pariskonvensjonen.
+
+   Blir domsmyndigheten lagt til Norge ved avgjørelse som nevnt under bokstav a eller b foran, faller virkningen av den rettidige påtale eller begjæring bort, dersom ikke kravet deretter blir gjort gjeldende her i riket innen den frist som måtte bli fastsatt av nevnte internasjonale domstol eller på annen konvensjonsbestemt måte, eller – om noen slik frist ikke blir fastsatt – innen seks måneder etter avgjørelsen.
 4. Paragrafen her gjelder ikke statens regressrett mot innehavere i medhold av [§ 39](lov/1972-05-12-28/§39) nr. 2 bokstav b eller [§ 43](lov/1972-05-12-28/§43).
 
 > Endret ved lov [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).
@@ -328,14 +380,22 @@ Innehaver som er ansvarlig etter kapitlet her eller tilsvarende regler i en anne
 
 ### § 37. (garantierklæring)
 
-1. Forsikrings- eller sikkerhetsgiveren (garantisten) skal hos vedkommende myndighet legge ned en garantierklæring til fordel for mulige skadelidte og i slik form og av slikt innhold som departementet fastsetter. Enhver garantierklæring skal stadfeste bl.a. følgende vilkår som gjelder for garantien inntil den måtte bli avløst av ny godkjent garanti:Skadelidte har rett til å holde seg direkte til garantisten uansett forholdet mellom garantist og den ansvarlige innehaver.Garantien gjelder uten tidsgrense og uansett om atomanlegget skifter eier eller innehaver. En transportgaranti kan likevel begrenses til transportens varighet. Også for øvrig kan departementet i særlige tilfelle godkjenne en tidsbegrenset garanti.Garantien kan bare sies opp eller på annen måte settes ut av kraft etter minst 2 måneders skriftlig forhåndsvarsel til vedkommende myndighet. For så vidt angår atomulykke som inntreffer under transport påbegynt innen varselet kom fram, gjelder dog garantien videre så lenge transporten pågår.For skade voldt ved atomulykke som inntreffer mens garantien står ved makt, kan skadelidte holde seg til denne også etter at den er brakt til opphør.
+1. Forsikrings- eller sikkerhetsgiveren (garantisten) skal hos vedkommende myndighet legge ned en garantierklæring til fordel for mulige skadelidte og i slik form og av slikt innhold som departementet fastsetter. Enhver garantierklæring skal stadfeste bl.a. følgende vilkår som gjelder for garantien inntil den måtte bli avløst av ny godkjent garanti:
+
+   1. Skadelidte har rett til å holde seg direkte til garantisten uansett forholdet mellom garantist og den ansvarlige innehaver.
+   2. Garantien gjelder uten tidsgrense og uansett om atomanlegget skifter eier eller innehaver. En transportgaranti kan likevel begrenses til transportens varighet. Også for øvrig kan departementet i særlige tilfelle godkjenne en tidsbegrenset garanti.
+   3. Garantien kan bare sies opp eller på annen måte settes ut av kraft etter minst 2 måneders skriftlig forhåndsvarsel til vedkommende myndighet. For så vidt angår atomulykke som inntreffer under transport påbegynt innen varselet kom fram, gjelder dog garantien videre så lenge transporten pågår.
+   4. For skade voldt ved atomulykke som inntreffer mens garantien står ved makt, kan skadelidte holde seg til denne også etter at den er brakt til opphør.
 2. Når og så snart erstatningskrav kan gjøres gjeldende her i riket etter dette kapittel, gjelder reglene i bokstavene a-d under nr. 1 uten videre tilsvarende med virkning for kravet, uansett om fremmed lovgivning ellers legges til grunn for forholdet mellom garantisten og innehaveren, og selv om den ansvarlige innehavers anlegg ligger i utlandet.
 
 > Endret ved lov [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).
 
 ### § 38. (garantisertifikat for transport)
 
-1. Når atomsubstans sendes til eller fra utlandet (derunder gjennomfart her i riket), skal den innehaver som er ansvarlig etter dette kapitel, gi fraktføreren et sertifikat utstedt av eller på vegne av den forsikringsgiver eller annen garantist som har stilt sikkerhet til dekning av ansvaret. Fraktføreren må ikke begynne transporten her i riket før han har fått sertifikatet. Dette skal inneholdenavn og adresse på den ansvarlige innehaver og opplysning om det stoff og den transport sikkerheten gjelder, samt om sikkerhetens beløp, art og varighet, ogen erklæring fra den myndighet departementet bestemmer (eller i tilfelle fra vedkommende myndighet i utlandet), om at den nevnte person er innehaver i Paris- eller Wienkonvensjonens forstand.
+1. Når atomsubstans sendes til eller fra utlandet (derunder gjennomfart her i riket), skal den innehaver som er ansvarlig etter dette kapitel, gi fraktføreren et sertifikat utstedt av eller på vegne av den forsikringsgiver eller annen garantist som har stilt sikkerhet til dekning av ansvaret. Fraktføreren må ikke begynne transporten her i riket før han har fått sertifikatet. Dette skal inneholde
+
+   1. navn og adresse på den ansvarlige innehaver og opplysning om det stoff og den transport sikkerheten gjelder, samt om sikkerhetens beløp, art og varighet, og
+   2. en erklæring fra den myndighet departementet bestemmer (eller i tilfelle fra vedkommende myndighet i utlandet), om at den nevnte person er innehaver i Paris- eller Wienkonvensjonens forstand.
 2. Den som utsteder sertifikat eller på hvis vegne det er utstedt, svarer for at sertifikatet riktig angir den ansvarlige innehavers navn og adresse og sikkerhetens beløp, art og varighet.
 3. Departementet kan gi nærmere regler om sertifikatets form.
 
@@ -344,13 +404,28 @@ Innehaver som er ansvarlig etter kapitlet her eller tilsvarende regler i en anne
 ### § 39. (statsansvar for at innehaverens ansvar blir oppfylt)
 
 1. Innen grensen av ansvarsbeløpet etter [§ 30](lov/1972-05-12-28/§30) nr. 1, jf. nr. 3, 4 og 5, innestår staten for at det ansvar for atomulykker blir oppfylt som innehavere av atomanlegg her i riket har etter dette kapittel eller tilsvarende regler i annen konvensjonstat. Dette gjelder likevel ikke mulig ansvar for atomulykke som nevnt i [§ 20](lov/1972-05-12-28/§20) nr. 2.
-2. For utlegg etter nr. 1 i denne paragraf kan staten bare kreve regresshos noen som er regressansvarlig overfor vedkommende innehaver etter reglene i [§ 33](lov/1972-05-12-28/§33),hos innehaveren selv dersom denne har forsømt sin plikt til å tegne og holde i kraft forsikring eller å stille annen sikkerhet etter reglene i [§ 35](lov/1972-05-12-28/§35), eller dersom sikkerheten har sviktet, ellerhos vedkommende garantist for så vidt denne hefter for skaden.
+2. For utlegg etter nr. 1 i denne paragraf kan staten bare kreve regress
+
+   1. hos noen som er regressansvarlig overfor vedkommende innehaver etter reglene i [§ 33](lov/1972-05-12-28/§33),
+   2. hos innehaveren selv dersom denne har forsømt sin plikt til å tegne og holde i kraft forsikring eller å stille annen sikkerhet etter reglene i [§ 35](lov/1972-05-12-28/§35), eller dersom sikkerheten har sviktet, eller
+   3. hos vedkommende garantist for så vidt denne hefter for skaden.
 
 > Endret ved lov [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).
 
 ### § 40. (tilleggsytelser av statsmidler etter tilleggskonvensjonen)
 
-1. I den utstrekning erstatningskrav mot innehaver av atomanlegg til fredelige formål som ligger i Norge eller annen stat tilsluttet Tilleggskonvensjonen, ikke kan fyldestgjøres på grunn av ansvarsbegrensningen etter [§ 30](lov/1972-05-12-28/§30), jfr. [§ 31](lov/1972-05-12-28/§31), men for øvrig kan gjøres – og i tide er gjort – gjeldende mot innehaveren eller dennes garantist i samsvar med reglene i kapitlet her, skal kravene dekkes av statsmidler, innen de grenser [§ 41](lov/1972-05-12-28/§41) setter, såfremt kravene gjelder atomskade oppståttinnenfor territoriet til Norge eller en annen stat som er tilsluttet Tilleggskonvensjonen,i eller over havområder utenfor territorialfarvannet til Norge eller en annen stat som er tilsluttet Tilleggskonvensjonen, men ikke medregnet andre staters territorialfarvann, og bare dersom skaden har rammeten statsborger i Norge eller en annen stat som er tilsluttet Tilleggskonvensjonen, ellerom bord i eller på et skip som fører flagget til en av disse statene, ellerom bord i eller på et luftfartøy registrert i en av disse statene, elleri eller på en kunstig øy, installasjon eller byggverk under en slik stats jurisdiksjon,innenfor eller over den eksklusive økonomiske sone eller kontinentalsokkelen til Norge eller en annen stat som er tilsluttet Tilleggskonvensjonen, i forbindelse med utnytting eller utforskning av naturressurser som er der.Ansvaret for den norske stat etter paragrafen her gjelder bare dersom norske domstoler har domsmyndighet for krav mot innehaveren eller dennes garantist etter [§ 44](lov/1972-05-12-28/§44), og denne domsmyndigheten bygger på Pariskonvensjonen artikkel 13.
+1. I den utstrekning erstatningskrav mot innehaver av atomanlegg til fredelige formål som ligger i Norge eller annen stat tilsluttet Tilleggskonvensjonen, ikke kan fyldestgjøres på grunn av ansvarsbegrensningen etter [§ 30](lov/1972-05-12-28/§30), jfr. [§ 31](lov/1972-05-12-28/§31), men for øvrig kan gjøres – og i tide er gjort – gjeldende mot innehaveren eller dennes garantist i samsvar med reglene i kapitlet her, skal kravene dekkes av statsmidler, innen de grenser [§ 41](lov/1972-05-12-28/§41) setter, såfremt kravene gjelder atomskade oppstått
+
+   1. innenfor territoriet til Norge eller en annen stat som er tilsluttet Tilleggskonvensjonen,
+   2. i eller over havområder utenfor territorialfarvannet til Norge eller en annen stat som er tilsluttet Tilleggskonvensjonen, men ikke medregnet andre staters territorialfarvann, og bare dersom skaden har rammet
+
+      1. en statsborger i Norge eller en annen stat som er tilsluttet Tilleggskonvensjonen, eller
+      2. om bord i eller på et skip som fører flagget til en av disse statene, eller
+      3. om bord i eller på et luftfartøy registrert i en av disse statene, eller
+      4. i eller på en kunstig øy, installasjon eller byggverk under en slik stats jurisdiksjon,
+   3. innenfor eller over den eksklusive økonomiske sone eller kontinentalsokkelen til Norge eller en annen stat som er tilsluttet Tilleggskonvensjonen, i forbindelse med utnytting eller utforskning av naturressurser som er der.
+
+   Ansvaret for den norske stat etter paragrafen her gjelder bare dersom norske domstoler har domsmyndighet for krav mot innehaveren eller dennes garantist etter [§ 44](lov/1972-05-12-28/§44), og denne domsmyndigheten bygger på Pariskonvensjonen artikkel 13.
 2. Med statsborger likestilles i paragrafen her staten selv, dens administrative inndelinger eller enheter samt offentlig eller privat selskap, forening, stiftelse, interessentskap eller enhver annen sammenslutning som har sitt sete eller for øvrig hører hjemme i slik stat. Med norsk eller dansk statsborger likestilles også person som hører hjemme henholdsvis her eller i Danmark. Med statsborger i annen konvensjonstat likestilles i tilfelle person som etter denne stats lovgivning anses hjemmehørende der og etter bestemmelse av dens regjering skal likestilles når det gjelder rett til erstatning etter Tilleggskonvensjonen.
 3. Uansett om innehaveren er ansvarlig, kan krav i tilfelle atomulykke som nevnt i [§ 20](lov/1972-05-12-28/§20) nr. 2 eller skade som nevnt i [§ 21](lov/1972-05-12-28/§21) nr. 2 og 3 ikke kreves dekket av statsmidler etter paragrafen her. Regresskrav etter reglene i [§ 28](lov/1972-05-12-28/§28) nr. 1, jfr. nr. 3, kan kreves dekket i den utstrekning det grunner seg på innfridd erstatningskrav som går inn under paragrafen her, forutsatt at ikke annet følger av avtale med den ansvarlige innehaver eller med staten.
 4. Kongen kan bestemme at innehaveren eller i tilfelle dennes garantist i samsvar med nærmere regler skal forestå skadeoppgjøret også for tilleggsytelsene.
@@ -380,10 +455,19 @@ Om ikke annet er særskilt bestemt i medhold av dette kapittel eller overenskoms
 
 ### § 44. (norsk domsmyndighet)
 
-1. Søksmål om en innehavers eller dennes garantists ansvar for atomskade etter kapitlet her hører under norsk domstol:når atomulykken er skjedd helt eller delvis innenfor norsk territorium,når atomulykken er skjedd helt eller delvis i norsk økonomisk sone, uten også å ha skjedd innenfor territoriet til en konvensjonstat,når vedkommende atomanlegg ligger her i riket og ulykken er skjedd utenfor noen konvensjonstats territorium, eksklusive økonomiske sone eller annet område som er notifisert til OECDs generalsekretær etter Pariskonvensjonens artikkel 13 bokstav b,når vedkommende atomanlegg ligger her i riket og ulykkesstedet ikke kan fastslås med sikkerhet, ogi tilfeller som nevnt i [§ 22](lov/1972-05-12-28/§22) nr. 5, jf. [§ 23](lov/1972-05-12-28/§23), hvis en atomulykke skjer helt eller delvis på norsk territorium eller i internasjonalt farvann utenfor norsk territorium.
+1. Søksmål om en innehavers eller dennes garantists ansvar for atomskade etter kapitlet her hører under norsk domstol:
+
+   1. når atomulykken er skjedd helt eller delvis innenfor norsk territorium,
+   2. når atomulykken er skjedd helt eller delvis i norsk økonomisk sone, uten også å ha skjedd innenfor territoriet til en konvensjonstat,
+   3. når vedkommende atomanlegg ligger her i riket og ulykken er skjedd utenfor noen konvensjonstats territorium, eksklusive økonomiske sone eller annet område som er notifisert til OECDs generalsekretær etter Pariskonvensjonens artikkel 13 bokstav b,
+   4. når vedkommende atomanlegg ligger her i riket og ulykkesstedet ikke kan fastslås med sikkerhet, og
+   5. i tilfeller som nevnt i [§ 22](lov/1972-05-12-28/§22) nr. 5, jf. [§ 23](lov/1972-05-12-28/§23), hvis en atomulykke skjer helt eller delvis på norsk territorium eller i internasjonalt farvann utenfor norsk territorium.
 2. Søksmål om krav mot en innehaver eller dennes garantist etter [§ 27](lov/1972-05-12-28/§27) nr. 3 annet punktum, [§ 31](lov/1972-05-12-28/§31) nr. 2, [§ 39](lov/1972-05-12-28/§39) nr. 2 eller [§ 43](lov/1972-05-12-28/§43) kan dessuten reises i Norge når det er verneting her etter alminnelige prosessregler.
 3. Når Kongen treffer bestemmelse etter [§ 18](lov/1972-05-12-28/§18) nr. 3, kan Kongen også fastsette særlige regler om norsk domsmyndighet.
-4. Søksmål om ansvaret kan likevel ikke reises eller fortsettes ved norsk domstol etter paragrafen her, dersomDet europeiske atomenergitribunal beslutter at et annet lands domsmyndighet gjelder, ellerKongen for å etterkomme bestemmelser om domsmyndighet i overenskomst med fremmed stat beslutter at saken ikke skal høre under norsk domsmyndighet.
+4. Søksmål om ansvaret kan likevel ikke reises eller fortsettes ved norsk domstol etter paragrafen her, dersom
+
+   1. Det europeiske atomenergitribunal beslutter at et annet lands domsmyndighet gjelder, eller
+   2. Kongen for å etterkomme bestemmelser om domsmyndighet i overenskomst med fremmed stat beslutter at saken ikke skal høre under norsk domsmyndighet.
 5. Vedkommende departement kan av eget tiltak eller etter begjæring av en interessert forelegge for den nevnte internasjonale domstol spørsmålet om i hvilken stat søksmål skal reises. For å etterkomme bestemmelser om domsmyndighet m.m. i overenskomst med fremmed stat eller for å få gjort gjeldende krav mot innehaver her i riket eller dennes garantist i samsvar med reglene i kapitlet her, kan Kongen beslutte at søksmål om ansvar for atomulykke skal høre under norsk domsmyndighet også i tilfelle hvor dette ikke følger av eller i medhold av reglene i nr. 1 til 3 foran.
 
 > Endret ved lover [20 des 1985 nr. 103](lov/1985-12-20-103), [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145), tidligere § 45).
@@ -407,7 +491,11 @@ Om ikke annet er særskilt bestemt i medhold av dette kapittel eller overenskoms
 ### § 47. (anerkjennelse og fullbyrdelse av utenlandske dommer)
 
 1. Dom mot en innehaver eller hans garantist i sak om ansvar for atomskade skal ha bindende virkning og kunne fullbyrdes her i riket innenfor rammen av ansvarsbegrensningen etter [§ 30](lov/1972-05-12-28/§30), jfr. 31, såfremt dommen med hjemmel i Pariskonvensjonen eller Wienkonvensjonen er avsagt av domstol i en konvensjonstat og kan fullbyrdes der. Dette gjelder ikke dom som bare har foreløpig tvangskraft. Fullbyrdelsen skjer etter [tvangsfullbyrdelseslovens](lov/1992-06-26-86) regler uten annen prøving av sakens realitet enn vedkommende konvensjon tillater.
-2. Begjæring om fullbyrdelse av utenlandsk dom inngis til vedkommende tingrett sammen meden bekreftet utskrift av dommen,en erklæring fra myndighetene i domstollandet om at dommen gjelder erstatning for atomskade etter konvensjonens regler og at dommen kan fullbyrdes i domstollandet, ogen autorisert oversettelse til norsk av dokument som er avfattet på annet fremmed språk enn dansk eller svensk.
+2. Begjæring om fullbyrdelse av utenlandsk dom inngis til vedkommende tingrett sammen med
+
+   1. en bekreftet utskrift av dommen,
+   2. en erklæring fra myndighetene i domstollandet om at dommen gjelder erstatning for atomskade etter konvensjonens regler og at dommen kan fullbyrdes i domstollandet, og
+   3. en autorisert oversettelse til norsk av dokument som er avfattet på annet fremmed språk enn dansk eller svensk.
 3. Reglene i paragrafen her gjelder tilsvarende for rettsforlik som har doms virkning.
 
 > Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).
@@ -447,7 +535,10 @@ Når det trenges for å sikre tilførsel til offentlig behov, kan staten mot ers
 
 ### § 53. (taushetsplikt)
 
-Med de begrensninger som følger av denne lov plikter enhver å bevare taushet om det vedkommende i stillings medfør etter loven får kjennskap til omtekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår, ellerdetaljerte beskrivelser av atomanlegg, og detaljerte opplysninger om tiltak for fysisk beskyttelse av atomanlegg eller atomsubstans, og detaljerte opplysninger om transport av atomsubstans, som om de ble kjent, ville kunne skade sikkerheten ved atomanlegg, øke faren for tyveri eller ulovlig spredning av nukleært materiale eller teknologi, eller øke faren for sabotasje, terrorhandlinger eller spionasje.
+Med de begrensninger som følger av denne lov plikter enhver å bevare taushet om det vedkommende i stillings medfør etter loven får kjennskap til om
+
+1. tekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår, eller
+2. detaljerte beskrivelser av atomanlegg, og detaljerte opplysninger om tiltak for fysisk beskyttelse av atomanlegg eller atomsubstans, og detaljerte opplysninger om transport av atomsubstans, som om de ble kjent, ville kunne skade sikkerheten ved atomanlegg, øke faren for tyveri eller ulovlig spredning av nukleært materiale eller teknologi, eller øke faren for sabotasje, terrorhandlinger eller spionasje.
 
 Taushetsplikten gjelder også etter at vedkommende har avsluttet tjenesten eller arbeidet. Vedkommende kan heller ikke utnytte opplysninger som nevnt i denne paragraf, i egen virksomhet eller i tjeneste eller arbeid for andre.
 
@@ -467,7 +558,10 @@ Kongen kan gi nærmere forskrifter til utfylling av loven.
 
 ### § 55. (straffebestemmelser)
 
-1. Med bøter eller fengsel inntil 1 år eller begge deler straffes densom forsettlig eller aktløst overtrer noen bestemmelse gitt i eller i medhold av [kap. II](lov/1972-05-12-28/kapii) eller [§§ 50](lov/1972-05-12-28/§50), [51](lov/1972-05-12-28/§51), [53](lov/1972-05-12-28/§53) eller [54](lov/1972-05-12-28/§54), ellersom i strid med denne lovs regler unnlater å tegne eller holde i kraft forsikring eller oppfylle pålegg om annen sikkerhet etter [§ 35](lov/1972-05-12-28/§35).
+1. Med bøter eller fengsel inntil 1 år eller begge deler straffes den
+
+   1. som forsettlig eller aktløst overtrer noen bestemmelse gitt i eller i medhold av [kap. II](lov/1972-05-12-28/kapii) eller [§§ 50](lov/1972-05-12-28/§50), [51](lov/1972-05-12-28/§51), [53](lov/1972-05-12-28/§53) eller [54](lov/1972-05-12-28/§54), eller
+   2. som i strid med denne lovs regler unnlater å tegne eller holde i kraft forsikring eller oppfylle pålegg om annen sikkerhet etter [§ 35](lov/1972-05-12-28/§35).
 
 > Endret ved [lover 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).
 
@@ -525,7 +619,9 @@ Loven gjelder også på Svalbard, Jan Mayen og de norske biland, med mindre Kong
 
 > Endret ved lov [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).
 
-1 Fra 1 juli 1973 iflg. res. 25 mai 1973.2 Fra 4 des 1974 iflg. Justisdepartementets bestemmelse i medhold av res. 25 mai 1973.
+1 Fra 1 juli 1973 iflg. res. 25 mai 1973.
+
+2 Fra 4 des 1974 iflg. Justisdepartementets bestemmelse i medhold av res. 25 mai 1973.
 
 ### § 59. (endringer i andre lover)
 

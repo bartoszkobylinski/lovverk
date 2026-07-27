@@ -28,6 +28,60 @@ I medhald av § 3 fjerde leden vert fastsett at lova ikkje skal gjelda for motor
 
 Likeeins er tilhengjar som nemnt i [bilansvarslova § 3](lov/1961-02-03/§3) tredje leden 2. punktum unnateke frå trygdeplikt så langt det vert fastsett i føresegner etter § 17.
 
-Dei etternemnde trygdeverk har vore godkjende i medhald av § 11 i lov om motorvogner frå 20. februar 1926 og vert med dette godkjende etter § 17 første leden i bilansvarslova.Agder Assuranceselskab A/SArendals Forsikringsselskab A/SBergens BrandforsikringsselskabCar & General Insurance Corp. Ltd.Cornhill Insurance Comp. Ltd.Det Norske Brandassuranceselskab A/SDet Norske Garantiselskab A/SForsikringsaktieselskapet DovreForsikringsaktieselskapet EidsvollDet Norske Brandforsikringsselskap Fram A/SForsikringsaktieselskapet HansaA/S Haugesund SjøforsikringsselskapThe Liverpool & London & Globe Insurance Comp. Ltd.A/S Forsikringsselskapet MinervaThe Motor Union Insurance Comp. Ltd.Forsikrings-Aktieselskabet NordenNordkap, Norsk ForsikringsaktieselskapForsikringsselskapet Norge A/SForsikringsselskapet Norrøna A/SA/S Norsk AllianceA/S Norske AssuranceunionForsikrings-Aktieselskapet Norske FortunaNorske Kjøbmænd Forsikringsaktieselskap, AssurancekassenNorske Merkantile, ForsikringsaktieselskapForsikrings-Aktieselskapet NorvegiaPallas Norsk Forsikringsselskap A/SPatria, Norsk Forsikrings-AktieselskapA/S Polaris AssuranceselskapForsikrings-Aktieselskapet PoseidonForsikringsselskapet SigynSkog & Jord, Norsk ForsikringsaktieselskapStavanger Forsikringsselskap A/SStorebrandForsikringsselskapet Tor A/STrondhjems Forsikringsselskab A/STrygd, Norsk ForsikringsaktieselskapForsikringsselskapet Union A/SForsikrings-Aktieselskapet VegaForsikringsaktieselskapet VestaA/S Forsikringsselskabet VikingWintherthur, Schweizisk Ulykkesforsikrings-AktieselskapForsikringsselskapet ZürichNorsk Forsikringsselskap Æolus A/SForsikringsaktieselskapet ØrnenAvholdsfolkets Gjensidige Bilforsikringsselskap VardeDrosjeforsikringen GjensidigNorsk Bilforsikring, GjensidigRutebileiernes Forsikringsselskap, GjensidigSamtrygd norsk gjensidig forsikringsforeningForsikringsaktieselskapet SamvirkeThule Gjensidig BiltrygdelagØstlandet Gjensidig BilforsikringNorges Brannkasse – for traktorer.
+Dei etternemnde trygdeverk har vore godkjende i medhald av § 11 i lov om motorvogner frå 20. februar 1926 og vert med dette godkjende etter § 17 første leden i bilansvarslova.
+
+1. 1. Agder Assuranceselskab A/S
+   2. Arendals Forsikringsselskab A/S
+   3. Bergens Brandforsikringsselskab
+   4. Car & General Insurance Corp. Ltd.
+   5. Cornhill Insurance Comp. Ltd.
+   6. Det Norske Brandassuranceselskab A/S
+   7. Det Norske Garantiselskab A/S
+   8. Forsikringsaktieselskapet Dovre
+   9. Forsikringsaktieselskapet Eidsvoll
+   10. Det Norske Brandforsikringsselskap Fram A/S
+   11. Forsikringsaktieselskapet Hansa
+   12. A/S Haugesund Sjøforsikringsselskap
+   13. The Liverpool & London & Globe Insurance Comp. Ltd.
+   14. A/S Forsikringsselskapet Minerva
+   15. The Motor Union Insurance Comp. Ltd.
+   16. Forsikrings-Aktieselskabet Norden
+   17. Nordkap, Norsk Forsikringsaktieselskap
+   18. Forsikringsselskapet Norge A/S
+   19. Forsikringsselskapet Norrøna A/S
+   20. A/S Norsk Alliance
+   21. A/S Norske Assuranceunion
+   22. Forsikrings-Aktieselskapet Norske Fortuna
+   23. Norske Kjøbmænd Forsikringsaktieselskap, Assurancekassen
+   24. Norske Merkantile, Forsikringsaktieselskap
+   25. Forsikrings-Aktieselskapet Norvegia
+   26. Pallas Norsk Forsikringsselskap A/S
+   27. Patria, Norsk Forsikrings-Aktieselskap
+   28. A/S Polaris Assuranceselskap
+   29. Forsikrings-Aktieselskapet Poseidon
+   30. Forsikringsselskapet Sigyn
+   31. Skog & Jord, Norsk Forsikringsaktieselskap
+   32. Stavanger Forsikringsselskap A/S
+   33. Storebrand
+   34. Forsikringsselskapet Tor A/S
+   35. Trondhjems Forsikringsselskab A/S
+   36. Trygd, Norsk Forsikringsaktieselskap
+   37. Forsikringsselskapet Union A/S
+   38. Forsikrings-Aktieselskapet Vega
+   39. Forsikringsaktieselskapet Vesta
+   40. A/S Forsikringsselskabet Viking
+   41. Wintherthur, Schweizisk Ulykkesforsikrings-Aktieselskap
+   42. Forsikringsselskapet Zürich
+   43. Norsk Forsikringsselskap Æolus A/S
+   44. Forsikringsaktieselskapet Ørnen
+2. 1. Avholdsfolkets Gjensidige Bilforsikringsselskap Varde
+   2. Drosjeforsikringen Gjensidig
+   3. Norsk Bilforsikring, Gjensidig
+   4. Rutebileiernes Forsikringsselskap, Gjensidig
+   5. Samtrygd norsk gjensidig forsikringsforening
+   6. Forsikringsaktieselskapet Samvirke
+   7. Thule Gjensidig Biltrygdelag
+   8. Østlandet Gjensidig Bilforsikring
+3. 1. Norges Brannkasse – for traktorer.
 
 Kredittilsynet kan gjeva godkjenning etter § 17, første leden, til andre trygdelag.

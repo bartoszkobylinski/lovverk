@@ -15,7 +15,7 @@ xml_hash: "e1c114cf03d35ae7f5ae9b11c599294c5a8726850f3ff227ab7069921f2e5751"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-(1) Loven gjelder for foretak som har:minst to personer i foretaket som begge har en arbeidstid og lønn som utgjør 75 prosent eller mer av full stilling,minst én arbeidstaker uten eierinteresse i foretaket som har en arbeidstid og lønn i foretaket som utgjør 75 prosent eller mer av full stilling, ellerpersoner i foretaket som hver har en arbeidstid og lønn som utgjør 20 prosent eller mer av full stilling, og som til sammen utfører arbeid som tilsvarer minst to årsverk.
+(1) Loven gjelder for foretak som har:
+
+1. minst to personer i foretaket som begge har en arbeidstid og lønn som utgjør 75 prosent eller mer av full stilling,
+2. minst én arbeidstaker uten eierinteresse i foretaket som har en arbeidstid og lønn i foretaket som utgjør 75 prosent eller mer av full stilling, eller
+3. personer i foretaket som hver har en arbeidstid og lønn som utgjør 20 prosent eller mer av full stilling, og som til sammen utfører arbeid som tilsvarer minst to årsverk.
 
 (2) Som foretak regnes aksjeselskap, allmennaksjeselskap, ansvarlig selskap, enkeltpersonforetak og ethvert annet rettssubjekt som har arbeidstaker i sin tjeneste.
 

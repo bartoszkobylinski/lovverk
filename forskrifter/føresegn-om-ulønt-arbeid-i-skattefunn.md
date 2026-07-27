@@ -46,7 +46,11 @@ Skattytaren kan etter reglane i denne føresegna få kompensasjon for ulønt arb
 
 ### § 4. Vilkår for å få kompensasjon
 
-(1) Med dei avgrensingane som følgjer av [§ 5](forskrift/2006-02-07-123/§5) – § 9, vert det gjeve kompensasjon for kostnader til ulønt arbeidsinnsats i forskings- og utviklingsprosjekt dersom følgjande vilkår er oppfylte:Forskings- og utviklingsprosjektet må vere godkjent av Noregs forskingsråd, jf. forskrift til utfylling og gjennomføring av skatteloven av 26. mars 1999 nr. 14 § 16-40-4, og godkjenninga må gjelde dei inntektsåra kompensasjonskravet refererer seg til, ogSkattytaren har levert årsrapportar og eventuell sluttrapport til Noregs forskingsråd for dei inntektsåra kompensasjonskravet refererer seg til, ogSkattytaren har kravd skattefrådrag for den ulønte arbeidsinnsatsen i tilknyting til prosjektet i vedlegg til sjølvmeldinga for det aktuelle inntektsåret.
+(1) Med dei avgrensingane som følgjer av [§ 5](forskrift/2006-02-07-123/§5) – § 9, vert det gjeve kompensasjon for kostnader til ulønt arbeidsinnsats i forskings- og utviklingsprosjekt dersom følgjande vilkår er oppfylte:
+
+1. Forskings- og utviklingsprosjektet må vere godkjent av Noregs forskingsråd, jf. forskrift til utfylling og gjennomføring av skatteloven av 26. mars 1999 nr. 14 § 16-40-4, og godkjenninga må gjelde dei inntektsåra kompensasjonskravet refererer seg til, og
+2. Skattytaren har levert årsrapportar og eventuell sluttrapport til Noregs forskingsråd for dei inntektsåra kompensasjonskravet refererer seg til, og
+3. Skattytaren har kravd skattefrådrag for den ulønte arbeidsinnsatsen i tilknyting til prosjektet i vedlegg til sjølvmeldinga for det aktuelle inntektsåret.
 
 (2) Dersom vilkåra i første ledd bokstav c ikkje er oppfylte, kan Konkurransetilsynet etter skjønn gje skattytaren kompensasjon for kostnader til ulønt arbeidsinnsats i forskings- og utviklingsprosjekt dersom timetalet det blir kravd kompensasjon for er tilstrekkeleg dokumentert, jf. [§ 5](forskrift/2006-02-07-123/§5).
 
@@ -54,7 +58,11 @@ Skattytaren kan etter reglane i denne føresegna få kompensasjon for ulønt arb
 
 (1) Skattytaren skal dokumentere at det timetalet med ulønt arbeidsinnsats som det blir kravd kompensasjon for, er nytta til forskings- og utviklingsinnsats direkte knytt til godkjent forskings- og utviklingsprosjekt.
 
-(2) Som dokumentasjon vert blant anna rekna:Årsrapport, sluttrapport eller annan rapport til Noregs forskingsråd for dei inntektsåra kompensasjonskravet refererer seg til, der det går fram at skattytaren har utført ulønt arbeidsinnsats. Rapportane skal vere leverte inn ikkje seinare enn 1. oktober 2005.Prosjektrekneskap der ulønt arbeidsinnsats er ført opp som ein kostnad.Timelister, der det går fram kor mange timar med ulønt arbeidsinnsats som det blir kravd kompensasjon for. Dersom den aktiviteten som er utført går fram av timelistene, vil timelistene ha større bevisverdi enn dersom den utførte aktiviteten ikkje går fram.
+(2) Som dokumentasjon vert blant anna rekna:
+
+1. Årsrapport, sluttrapport eller annan rapport til Noregs forskingsråd for dei inntektsåra kompensasjonskravet refererer seg til, der det går fram at skattytaren har utført ulønt arbeidsinnsats. Rapportane skal vere leverte inn ikkje seinare enn 1. oktober 2005.
+2. Prosjektrekneskap der ulønt arbeidsinnsats er ført opp som ein kostnad.
+3. Timelister, der det går fram kor mange timar med ulønt arbeidsinnsats som det blir kravd kompensasjon for. Dersom den aktiviteten som er utført går fram av timelistene, vil timelistene ha større bevisverdi enn dersom den utførte aktiviteten ikkje går fram.
 
 (3) Skattytarar som krev kompensasjon etter [§ 4](forskrift/2006-02-07-123/§4) andre ledd, bør vise fram attest frå revisor om at dokumentasjonen etter (2) i denne paragrafen er utarbeidd jamleg under arbeidet med prosjektet for dei åra som kompensasjonskravet refererer seg til.
 
@@ -70,7 +78,10 @@ Med dei avgrensingar som følgjer av [§ 7](forskrift/2006-02-07-123/§7) og [§
 
 ### § 7. Maksimalt grunnlag for berekning av kompensasjon
 
-(1) Det må gjerast ei samordning av samla støtte frå Skattefunn til det forskings- og utviklingsprosjektet som kompensasjonskravet er knytt til. Samla kostnader til kvart forskings- og utviklingsprosjekt er avgrensa slik:Skattytarens samla kostnader til sjølvutført forskings- og utviklingsprosjekt er avgrensa til 4 millionar kroner i inntektsåret.Skattytarens samla kostnader til forskings- og utviklingsprosjekt utført av forskingsinstitusjonar godkjende av Noregs forskingsråd er avgrensa til 8 millionar kroner i inntektsåret. Samla kostnadsgrunnlag etter bokstav a og b skal ikkje overstige 8 millionar kroner i inntektsåret.
+(1) Det må gjerast ei samordning av samla støtte frå Skattefunn til det forskings- og utviklingsprosjektet som kompensasjonskravet er knytt til. Samla kostnader til kvart forskings- og utviklingsprosjekt er avgrensa slik:
+
+1. Skattytarens samla kostnader til sjølvutført forskings- og utviklingsprosjekt er avgrensa til 4 millionar kroner i inntektsåret.
+2. Skattytarens samla kostnader til forskings- og utviklingsprosjekt utført av forskingsinstitusjonar godkjende av Noregs forskingsråd er avgrensa til 8 millionar kroner i inntektsåret. Samla kostnadsgrunnlag etter bokstav a og b skal ikkje overstige 8 millionar kroner i inntektsåret.
 
 (2) Ved samarbeidsprosjekt mellom fleire skattytarar gjeld kostnadsramma pr. prosjekt pr. år fordelt på deltakarane etter deira del i prosjektet.
 
@@ -88,9 +99,20 @@ Kompensasjon som blir gjeve i medhald av denne føresegna, vil bli betalt ut som
 
 ### § 9. Dokumentasjonsplikt overfor forvaltningsmyndigheitene
 
-(1) Skattytar som krev kompensasjon etter denne føresegna, skal i vedlegg til søknaden leggje fram kopi av:Søknad til Noregs forskingsråd om godkjenning av det forskings- og utviklingsprosjektet som kompensasjonskravet gjeld,Noregs forskingsråd si godkjenning av forskings- og utviklingsprosjektet for dei inntektsåra som det vert kravd kompensasjon for,Årsrapport send til Noregs forskingsråd med godkjenning frå Noregs forskingsråd for dei inntektsåra som det vert kravd kompensasjon for,Sluttrapport til Noregs forskingsråd med godkjenning frå Noregs forskingsråd for det forskings- og utviklingsprosjektet kompensasjonskravet gjeld dersom prosjektet er avslutta,Sjølvmelding og fastsett skatteoppgjer for dei inntektsåra det vert kravd kompensasjon for, og opplysningar om det er klaga på eller gjort endringar i likninga,Oversikt over samla skattefrådrag i Skattefunn for dei inntektsåra det vert kravd kompensasjon for,Fullstendig oversikt over all bagatellmessig støtte skattytaren har motteke frå 1. januar 2003.
+(1) Skattytar som krev kompensasjon etter denne føresegna, skal i vedlegg til søknaden leggje fram kopi av:
 
-(2) Ved vurdering av kravet om kompensasjon vil det i tillegg verte lagt vekt på om søkjaren kan vise fram følgjande dokumentasjon:Revisorgodkjend prosjektrekneskap som viser talet på timar med ulønt arbeidsinnsats fordelt pr. person og alle andre prosjektrelaterte kostnader,Skatteetatens skjema RF 1053 «Frådrag i skatt for kostnader til forskings- og utviklingsprosjekt» med revisorattestasjon for inntektsåra som det vert kravd kompensasjon for.
+1. Søknad til Noregs forskingsråd om godkjenning av det forskings- og utviklingsprosjektet som kompensasjonskravet gjeld,
+2. Noregs forskingsråd si godkjenning av forskings- og utviklingsprosjektet for dei inntektsåra som det vert kravd kompensasjon for,
+3. Årsrapport send til Noregs forskingsråd med godkjenning frå Noregs forskingsråd for dei inntektsåra som det vert kravd kompensasjon for,
+4. Sluttrapport til Noregs forskingsråd med godkjenning frå Noregs forskingsråd for det forskings- og utviklingsprosjektet kompensasjonskravet gjeld dersom prosjektet er avslutta,
+5. Sjølvmelding og fastsett skatteoppgjer for dei inntektsåra det vert kravd kompensasjon for, og opplysningar om det er klaga på eller gjort endringar i likninga,
+6. Oversikt over samla skattefrådrag i Skattefunn for dei inntektsåra det vert kravd kompensasjon for,
+7. Fullstendig oversikt over all bagatellmessig støtte skattytaren har motteke frå 1. januar 2003.
+
+(2) Ved vurdering av kravet om kompensasjon vil det i tillegg verte lagt vekt på om søkjaren kan vise fram følgjande dokumentasjon:
+
+1. Revisorgodkjend prosjektrekneskap som viser talet på timar med ulønt arbeidsinnsats fordelt pr. person og alle andre prosjektrelaterte kostnader,
+2. Skatteetatens skjema RF 1053 «Frådrag i skatt for kostnader til forskings- og utviklingsprosjekt» med revisorattestasjon for inntektsåra som det vert kravd kompensasjon for.
 
 ### § 10. Kompetanseforhold og høve til å klage
 

@@ -26,9 +26,17 @@ eu_basis: []
 
 Foretak som driver inkassovirksomhet i medhold av bevilling etter [inkassoloven § 5](lov/1988-05-13-26/§5), plikter hvert halvår å fylle ut og sende til Finanstilsynet opplysninger om inkassovirksomheten på eget rapporteringsskjema.
 
-For foretak som sender inn skjema på elektronisk form via Altinn til Finanstilsynet gjelder følgende frister:1. september (1. halvår)1. mars (2. halvår).
+For foretak som sender inn skjema på elektronisk form via Altinn til Finanstilsynet gjelder følgende frister:
 
-For foretak som sender inn skjema på papir til Finanstilsynet gjelder følgende frister:15. august (1. halvår)15. februar (2. halvår).
+1\. september (1. halvår)
+
+1\. mars (2. halvår).
+
+For foretak som sender inn skjema på papir til Finanstilsynet gjelder følgende frister:
+
+15\. august (1. halvår)
+
+15\. februar (2. halvår).
 
 > Endret ved [forskrift 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009).
 

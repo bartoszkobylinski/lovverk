@@ -22,4 +22,6 @@ eu_basis: []
 
 # Delegering av myndighet til Kystdirektoratet til å videredelegere myndighet etter forurensningsloven til fylkesmannen i enkeltsaker.
 
-Med hjemmel i [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall (Forurensningsloven) [§ 81](lov/1981-03-13-6/§81) annet ledd, jf. [kgl.res. 20 desember 2002 nr. 1805](forskrift/2002-12-20-1805) om delegering av myndighet til Fiskeridepartementet etter forurensningsloven og Svalbardmiljøloven ved akutt forurensning eller fare for akutt forurensning, delegerer Fiskeridepartementet med dette myndighet til Kystdirektoratet til å:videredelegere myndighet etter forurensningsloven til fylkesmannen i enkeltsaker der fylkesmannen samtykker til slik delegering.
+Med hjemmel i [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall (Forurensningsloven) [§ 81](lov/1981-03-13-6/§81) annet ledd, jf. [kgl.res. 20 desember 2002 nr. 1805](forskrift/2002-12-20-1805) om delegering av myndighet til Fiskeridepartementet etter forurensningsloven og Svalbardmiljøloven ved akutt forurensning eller fare for akutt forurensning, delegerer Fiskeridepartementet med dette myndighet til Kystdirektoratet til å:
+
+- videredelegere myndighet etter forurensningsloven til fylkesmannen i enkeltsaker der fylkesmannen samtykker til slik delegering.

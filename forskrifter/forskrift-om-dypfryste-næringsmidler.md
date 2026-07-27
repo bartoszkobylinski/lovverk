@@ -15,7 +15,7 @@ xml_hash: "d11e3bf5308f4307acd5616ffec2b69ec90471ff3ac09d998675f33bbc98c6d0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,9 @@ Forskriften gjelder ikke spiseis.
 
 ### § 3. Definisjoner
 
-I denne forskriften forstås med:*Dypfryst næringsmiddel:* næringsmiddel som har gjennomgått en nedfrysingsprosess (dypfrysing) på en slik måte at temperaturområdet for optimal krystallisering for det aktuelle produkt er nådd så raskt som mulig, og slik at temperaturen over alt i varen er -18 °C eller lavere.
+I denne forskriften forstås med:
+
+- *Dypfryst næringsmiddel:* næringsmiddel som har gjennomgått en nedfrysingsprosess (dypfrysing) på en slik måte at temperaturområdet for optimal krystallisering for det aktuelle produkt er nådd så raskt som mulig, og slik at temperaturen over alt i varen er -18 °C eller lavere.
 
 ## Kapittel II. Innfrysing og fryselagring
 
@@ -72,7 +74,12 @@ Merkingen av dypfryste næringsmidler skal i tillegg inneholde en referanse som 
 
 ### § 5b. Merking av dypfryste næringsmidler som ikke er beregnet for omsetning til forbruker eller storhusholdning
 
-Dypfryste næringsmidler som ikke er beregnet for omsetning til forbruker eller storhusholdning, skal merkes med opplysninger om:varebetegnelse i tillegg til «dypfryst»,nettoinnhold,en referanse som gjør det mulig å identifisere hvilken batch næringsmidlet er en del av ognavnet eller forretningsnavnet og adressen til produsenten eller pakkeren av næringsmidlet eller en virksomhet etablert innen EØS som omsetter næringsmidlet.
+Dypfryste næringsmidler som ikke er beregnet for omsetning til forbruker eller storhusholdning, skal merkes med opplysninger om:
+
+1. varebetegnelse i tillegg til «dypfryst»,
+2. nettoinnhold,
+3. en referanse som gjør det mulig å identifisere hvilken batch næringsmidlet er en del av og
+4. navnet eller forretningsnavnet og adressen til produsenten eller pakkeren av næringsmidlet eller en virksomhet etablert innen EØS som omsetter næringsmidlet.
 
 Opplysningene i første ledd skal angis på pakningen, containeren eller innpakningen eller på en etikett på disse.
 

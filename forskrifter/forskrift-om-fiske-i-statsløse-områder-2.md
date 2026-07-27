@@ -15,7 +15,7 @@ xml_hash: "9b9f6c95bc7a9e5d3924824cf024e2bae173de994f4260a07ce49cd28b7e4bc8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,9 +30,26 @@ Denne forskriften gjelder for norske statsborgere og personer bosatt i Norge som
 
 ## § 2. Registrering
 
-Fartøy som skal fiske i farvann som nevnt i [§ 1](forskrift/1999-06-30-1499/§1) må på forhånd være registrert gjennom melding til Fiskeridirektoratet:før 1. januar hvert år hvis mulig elleri god tid før avgang fra hjemstedshavn ellerinnen 3 dager fra endringstidspunktet dersom det er endringer i opplysninger gitt i registreringsmeldingen.
+Fartøy som skal fiske i farvann som nevnt i [§ 1](forskrift/1999-06-30-1499/§1) må på forhånd være registrert gjennom melding til Fiskeridirektoratet:
 
-Meldingen skal sendes på fastsatt skjema på e-post eller via Altinn og skal inneholde følgende opplysninger:Året som registreringsmeldingen gjelder forFartøyets navnFartøyets radiokallesignalFartøyets registreringsnummer i Fiskeridirektoratets MerkeregisterFartøyets IMO-nummerFartøyeiers navn og adresseHavområde/r det skal fiskes iFiskeslag som er hovedmål for fisketFartøytypeFartøyets tonnasjeFartøyets lengdeFartøyets maskinkraft.
+1. før 1. januar hvert år hvis mulig eller
+2. i god tid før avgang fra hjemstedshavn eller
+3. innen 3 dager fra endringstidspunktet dersom det er endringer i opplysninger gitt i registreringsmeldingen.
+
+Meldingen skal sendes på fastsatt skjema på e-post eller via Altinn og skal inneholde følgende opplysninger:
+
+- Året som registreringsmeldingen gjelder for
+- Fartøyets navn
+- Fartøyets radiokallesignal
+- Fartøyets registreringsnummer i Fiskeridirektoratets Merkeregister
+- Fartøyets IMO-nummer
+- Fartøyeiers navn og adresse
+- Havområde/r det skal fiskes i
+- Fiskeslag som er hovedmål for fisket
+- Fartøytype
+- Fartøyets tonnasje
+- Fartøyets lengde
+- Fartøyets maskinkraft.
 
 > Endret ved [forskrifter 26 jan 2005 nr. 142](forskrift/2005-01-26-142), [11 mai 2007 nr. 505](forskrift/2007-05-11-505), [4 jan 2011 nr. 3](forskrift/2011-01-04-3), [12 des 2016 nr. 1555](forskrift/2016-12-12-1555).
 
@@ -115,7 +132,9 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Etter hva som er relevant.2 Påkrevd for fartøy som avgir fangst.
+1 Etter hva som er relevant.
+
+2 Påkrevd for fartøy som avgir fangst.
 
 4\. *Melding om havneanløp*
 
@@ -160,7 +179,9 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Meldingen skal inneholde fangst og antall fiskedager siden forrige daglige fangstmelding.2 Påkrevd i fiskerier der forvaltningstiltak krever det.
+1 Meldingen skal inneholde fangst og antall fiskedager siden forrige daglige fangstmelding.
+
+2 Påkrevd i fiskerier der forvaltningstiltak krever det.
 
 > Endret ved [forskrifter 22 des 1999 nr. 1526](forskrift/1999-12-22-1526), [29 juni 2001 nr. 1062](forskrift/2001-06-29-1062) (i kraft 1 juli 2001), [26 jan 2005 nr. 142](forskrift/2005-01-26-142), [11 mai 2007 nr. 505](forskrift/2007-05-11-505), [4 jan 2011 nr. 3](forskrift/2011-01-04-3), [3 mars 2014 nr. 247](forskrift/2014-03-03-247).
 

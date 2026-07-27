@@ -15,7 +15,7 @@ xml_hash: "e20b91ed7880e0e866f01d80061322c2d11e177b794c1745d07aeca9971e4ca7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ Ansvar for kollektivtransport omfatter drift og kjøp av kollektivtransporttjene
 
 ## § 2. Overføring av ansvar for kollektivtransport og vilkår for overføringen
 
-Kongen i statsråd kan vedta overføring av ansvar for kollektivtransport fra fylkeskommunen til kommunen dersom kommunen kan dokumentere at den:omfatter et område som utgjør en felles bolig-, arbeids- og serviceregion,har et tilstrekkelig markedsgrunnlag til å kunne gi befolkningen et ønsket kollektivtilbud innenfor en samfunnsøkonomisk akseptabel kostnad oghar et samarbeid med fylkeskommunen om å sikre et helhetlig rutetilbud.
+Kongen i statsråd kan vedta overføring av ansvar for kollektivtransport fra fylkeskommunen til kommunen dersom kommunen kan dokumentere at den:
+
+1. omfatter et område som utgjør en felles bolig-, arbeids- og serviceregion,
+2. har et tilstrekkelig markedsgrunnlag til å kunne gi befolkningen et ønsket kollektivtilbud innenfor en samfunnsøkonomisk akseptabel kostnad og
+3. har et samarbeid med fylkeskommunen om å sikre et helhetlig rutetilbud.
 
 Ved overføring av ansvar for kollektivtransport etter første ledd overtar kommunen ansvaret for kollektivtransporttilbudet innenfor kommunens grenser. Kommunen bestemmer selv omfanget av kollektivtransporttilbudet.
 

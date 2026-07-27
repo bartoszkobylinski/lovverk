@@ -62,7 +62,12 @@ En kassasjonskommisjon skal ha to eller flere medlemmer med teknisk/økonomisk i
 
 Ved kassasjon av materiell som er ført i materiellregnskap eller registrert på annen måte skal det føres en kassasjonsprotokoll eller utferdiges et annet kassasjonsdokument.
 
-I protokollen eller dokumentet spesifiseres materiellet i følgende kategorier:Materiell som skal tilintetgjøres,materiell som skal hugges og tilintetgjøres, bortsett fra brukbare deler som kan nyttes i vedkommende etat, avhendes eller overføres til andre etater,materiell som skal avhendes som gjenstander med bruksverdi,materiell som skal avhendes som skrap, avfall o.l.
+I protokollen eller dokumentet spesifiseres materiellet i følgende kategorier:
+
+1. Materiell som skal tilintetgjøres,
+2. materiell som skal hugges og tilintetgjøres, bortsett fra brukbare deler som kan nyttes i vedkommende etat, avhendes eller overføres til andre etater,
+3. materiell som skal avhendes som gjenstander med bruksverdi,
+4. materiell som skal avhendes som skrap, avfall o.l.
 
 Hvis en etat har store beholdninger av kassert materiell, bør det i tillegg til kassasjonsprotokoll eller dokumenter føres et eget regnskap.
 
@@ -82,7 +87,13 @@ Før det treffes beslutning om avhending må det være vurdert om den påregneli
 
 Normalt skal avhending skje ved salg. Ved fast eiendom kan også bortfeste være aktuelt.
 
-Avhendingen kan foretas som gave når:Det er besluttet av etatsjefen og det dreier seg om gjenstander av mindre verdi.Samtykke er gitt av fagdepartementet, eventuelt av Finansdepartementet, når det dreier seg om mer betydelige verdier.Finansdepartementet avgjør om saken må legges frem for Stortinget.Stortingets samtykke er innhentet for så vidt angår fast eiendom.
+Avhendingen kan foretas som gave når:
+
+1. Det er besluttet av etatsjefen og det dreier seg om gjenstander av mindre verdi.
+2. Samtykke er gitt av fagdepartementet, eventuelt av Finansdepartementet, når det dreier seg om mer betydelige verdier.
+
+   Finansdepartementet avgjør om saken må legges frem for Stortinget.
+3. Stortingets samtykke er innhentet for så vidt angår fast eiendom.
 
 ### § 9
 
@@ -96,11 +107,15 @@ Brutto kjøpesum utgiftsposteres og innbyttebeløpet posteres på inntektskapitt
 
 ### § 10
 
-Salg skal som regel foretas etter offentlig kunngjøring, eller ved frivillig auksjon, jfr [lov av 14 august 1918 nr 3](lov/1918-08-14-3) om frivillige auksjoner.Salg etter offentlig kunngjøring skjer på grunnlag av skriftlig tilbud som er innkommet innen utløpet av en fastsatt frist, jfr instruksens § 11.
+Salg skal som regel foretas etter offentlig kunngjøring, eller ved frivillig auksjon, jfr [lov av 14 august 1918 nr 3](lov/1918-08-14-3) om frivillige auksjoner.
+
+1. Salg etter offentlig kunngjøring skjer på grunnlag av skriftlig tilbud som er innkommet innen utløpet av en fastsatt frist, jfr instruksens § 11.
 
 Innhenting av tilbud kan skje enten ved direkte forespørsel til aktuelle kjøpere eller ved offentlig kunngjøring. I forespørselen skal det oppgis at selger forbeholder seg retten til å forhandle nærmere om vilkårene for salget, og at offentlig åpning av de innkomne tilbud ikke vil finne sted.
 
-Salg kan også – når det finnes hensiktsmessig – skje gjennom megler. Den prosedyre som er vanlig ved salg gjennom megler skal i såfall følges.Ved auksjon gir kjøperen bud til en auksjonarius etter at auksjon har vært offentlig kunngjort, jfr instruksens § 11.
+Salg kan også – når det finnes hensiktsmessig – skje gjennom megler. Den prosedyre som er vanlig ved salg gjennom megler skal i såfall følges.
+
+1. Ved auksjon gir kjøperen bud til en auksjonarius etter at auksjon har vært offentlig kunngjort, jfr instruksens § 11.
 
 Avhending ved direkte salg kan benyttes når materiellet har liten verdi, når omgående salg av spesielle grunner er nødvendig eller bare et mindre antall kjøpere er aktuelle. Dette innebærer salg på grunnlag av bud om er innkommet etter henvendelse til en enkelt eller et begrenset antall kjøpere og salg som kommer i stand etter initiativ fra en kjøper.
 
@@ -116,9 +131,21 @@ Beslutning om direkte salg må begrunnes i salgsprotokollen.
 
 Salg etter offentlig kunngjøring og auksjon skal gjøres kjent i Norsk Lysingsblad og eventuelt på annen hensiktsmessig måte.
 
-Kunngjøringen skal inneholde:navn på institusjonen som foretar salget,salgsgjenstandens art og omfang,tid og sted for besiktigelse av salgsgjenstanden.Ved salg etter offentlig kunngjøring: hvordan tilbudene skal merkes, samt sted, dato og klokkeslett, for innlevering av tilbud og åpning av tilbud. Jfr. § 12.Ved auksjon: auksjonssted og tidspunkt.
+Kunngjøringen skal inneholde:
 
-Kunngjøringen kan videre inneholde opplysninger om:Hvor lang tid kjøperen skal være forpliktet av sine tilbud,leverings- og betalingsvilkår, jfr. § 16,eventuelle innskrenkninger i bruken av materiellet,forbehold om rett for administrasjonen til å forkaste samtlige tilbud dersom de tilbudte priser er uakseptable,opplysning om at tilbud som inneholder ubestemte bud eller priser vil bli avvist.
+1. navn på institusjonen som foretar salget,
+2. salgsgjenstandens art og omfang,
+3. tid og sted for besiktigelse av salgsgjenstanden.
+4. Ved salg etter offentlig kunngjøring: hvordan tilbudene skal merkes, samt sted, dato og klokkeslett, for innlevering av tilbud og åpning av tilbud. Jfr. § 12.
+5. Ved auksjon: auksjonssted og tidspunkt.
+
+Kunngjøringen kan videre inneholde opplysninger om:
+
+1. Hvor lang tid kjøperen skal være forpliktet av sine tilbud,
+2. leverings- og betalingsvilkår, jfr. § 16,
+3. eventuelle innskrenkninger i bruken av materiellet,
+4. forbehold om rett for administrasjonen til å forkaste samtlige tilbud dersom de tilbudte priser er uakseptable,
+5. opplysning om at tilbud som inneholder ubestemte bud eller priser vil bli avvist.
 
 Det må i kunngjøringen settes så lang frist for innsendelse av tilbud at interesserte kjøpere får anledning til å besikte salgsgjenstandene før de avgir sitt tilbud.
 
@@ -132,11 +159,20 @@ Ved salg etter offentlig kunngjøring og ved direkte salg etter henvendelse til 
 
 Tilbudene åpnes av minst to personer og påføres et registreringsnummer.
 
-I salgsprotokollen føres inn:åpningsdag og klokkeslettbenevning på materiellet eller eiendommentilbudets registreringsnummer og tilbyderens navntilbudte priser og andre opplysninger av betydning.
+I salgsprotokollen føres inn:
+
+- åpningsdag og klokkeslett
+- benevning på materiellet eller eiendommen
+- tilbudets registreringsnummer og tilbyderens navn
+- tilbudte priser og andre opplysninger av betydning.
 
 ### § 13
 
-Et tilbud skal utelukkes når:det er avgitt av en person som etter § 14 ikke har adgang til å opptre som kjøper,tilbudet kommer inn etter tilbudsfristens utløp,tilbudet inneholder ubestemt pris eller på annen måte avviker vesentlig fra salgsforutsetningene.
+Et tilbud skal utelukkes når:
+
+- det er avgitt av en person som etter § 14 ikke har adgang til å opptre som kjøper,
+- tilbudet kommer inn etter tilbudsfristens utløp,
+- tilbudet inneholder ubestemt pris eller på annen måte avviker vesentlig fra salgsforutsetningene.
 
 Årsaken til at en tilbyder er blitt utelukket protokolleres, og vedkommende underrettes om avgjørelsen.
 
@@ -166,7 +202,10 @@ Avgjørelsen føres inn i salgsprotokollen.
 
 ### § 16
 
-De vanlige leverings- og betalingsvilkår for salg av materiell bør i alminnelighet være:Materiellet hentes av kjøper på det sted og innen den frist som er angitt av administrasjonen. Utgifter i forbindelse med borttransportering og rydding påhviler kjøper.Salgsbeløpet skal som regel være betalt før levering. Det kan gis betalingsutsettelse inntil 3 måneder mot betryggende sikkerhet.
+De vanlige leverings- og betalingsvilkår for salg av materiell bør i alminnelighet være:
+
+- Materiellet hentes av kjøper på det sted og innen den frist som er angitt av administrasjonen. Utgifter i forbindelse med borttransportering og rydding påhviler kjøper.
+- Salgsbeløpet skal som regel være betalt før levering. Det kan gis betalingsutsettelse inntil 3 måneder mot betryggende sikkerhet.
 
 ## Kap. VI. (Opphevet ved res. 18 des 1987).
 

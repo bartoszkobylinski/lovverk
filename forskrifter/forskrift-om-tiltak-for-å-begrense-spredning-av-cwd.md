@@ -30,7 +30,9 @@ Formålet med denne forskriften er å begrense spredning av Chronic Wasting Dise
 
 ## § 2. Definisjoner
 
-I denne forskrift menes med:*Hjortedyr:* alle hjortedyr, herunder rein, rådyr, hjort, elg og dåhjort.
+I denne forskrift menes med:
+
+1. *Hjortedyr:* alle hjortedyr, herunder rein, rådyr, hjort, elg og dåhjort.
 
 > Endret ved [forskrifter 2 nov 2016 nr. 1283](forskrift/2016-11-02-1283), [31 juli 2017 nr. 1234](forskrift/2017-07-31-1234), [11 des 2023 nr. 2014](forskrift/2023-12-11-2014).
 
@@ -66,7 +68,13 @@ Mattilsynet kan likevel gi tillatelse til permanent flytting av oppdrettshjort f
 
 Det er forbudt å legge ut fôr og slikkesteiner til ville hjortedyr.
 
-Mattilsynet kan likevel gi tillatelse tilkortvarig fôring i forbindelse med merkings- og forskningsprosjekter.kortvarig nødfôring i områder der Chronic Wasting Disease ikke er påvist, dersom spesielle forhold forårsaker dyrevelferdsproblemer.planmessig fôring i en begrenset periode av hensyn til trafikksikkerhet i områder der Chronic Wasting Disease ikke er påvist. Det må dokumenteres at andre relevante offentlige instanser har konkludert med at andre trafikksikkerhetstiltak ikke kan erstatte fôringen og at fôringen er nødvendig. Det må også dokumenteres at plan for nedtrapping av fôring er utarbeidet og at trekkruten dyrene bruker sannsynligvis ikke går gjennom områder der Chronic Wasting Disease er påvist.Den som fôrer dyrene skal holde fôringsplassene under observasjon for å oppdage syke dyr.
+Mattilsynet kan likevel gi tillatelse til
+
+1. kortvarig fôring i forbindelse med merkings- og forskningsprosjekter.
+2. kortvarig nødfôring i områder der Chronic Wasting Disease ikke er påvist, dersom spesielle forhold forårsaker dyrevelferdsproblemer.
+3. planmessig fôring i en begrenset periode av hensyn til trafikksikkerhet i områder der Chronic Wasting Disease ikke er påvist. Det må dokumenteres at andre relevante offentlige instanser har konkludert med at andre trafikksikkerhetstiltak ikke kan erstatte fôringen og at fôringen er nødvendig. Det må også dokumenteres at plan for nedtrapping av fôring er utarbeidet og at trekkruten dyrene bruker sannsynligvis ikke går gjennom områder der Chronic Wasting Disease er påvist.
+
+Den som fôrer dyrene skal holde fôringsplassene under observasjon for å oppdage syke dyr.
 
 Forbudet mot slikkesteiner gjelder kun for steiner som legges ut etter forskriftens ikrafttredelse.
 
@@ -86,7 +94,10 @@ Tamrein og oppdrettshjort fra områder uten Chronic Wasting Disease skal ikke f�
 
 ## § 8. Varslingsplikt
 
-Dyreeier, dyretransportør eller annen som har ansvar for hjortedyr skal snarest varsle det lokale Mattilsynet om:levende, avlivede eller døde hjortedyr som viser, eller har vist, nevrologiske eller atferdsmessige forstyrrelser eller en gradvis forringelse av den generelle helsetilstanden eller sterk avmagring.hjortedyr eldre enn 12 måneder som har dødd eller blitt avlivet. Varslingsplikten gjelder ikke for dyr som blir slaktet for human konsum.
+Dyreeier, dyretransportør eller annen som har ansvar for hjortedyr skal snarest varsle det lokale Mattilsynet om:
+
+- levende, avlivede eller døde hjortedyr som viser, eller har vist, nevrologiske eller atferdsmessige forstyrrelser eller en gradvis forringelse av den generelle helsetilstanden eller sterk avmagring.
+- hjortedyr eldre enn 12 måneder som har dødd eller blitt avlivet. Varslingsplikten gjelder ikke for dyr som blir slaktet for human konsum.
 
 Varslingsplikten gjelder også for andre som etter avtale fører tilsyn med, eller har oppdrag i tilknytning til, ville hjortedyr. Likeledes for den som fôrer hjortedyr etter tillatelse gitt med hjemmel i denne forskriften.
 

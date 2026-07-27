@@ -15,7 +15,7 @@ xml_hash: "e49425d32b4be74e1c1b7d98f677fb178ab532d23e78737af66a8f487070f142"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,119 +48,237 @@ Utdanningen skal være praksisnær, profesjonsrettet og kunnskapsbasert. Utdanni
 
 ### § 3. Kompetanseområder
 
-Utdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-09-05-1831/kap2) til [9](forskrift/2025-09-05-1831/kap9) for utdanning på 120 studiepoeng og [kapittel 2](forskrift/2025-09-05-1831/kap2) til [8](forskrift/2025-09-05-1831/kap8) for utdanning på 90 studiepoeng, under følgende kompetanseområder:kreftsykepleie som fag og profesjonklinisk observasjons-, vurderings-, beslutnings- og handlingskompetansepalliasjonteknologi og digital kompetansefaglig ledelse og samhandlingkvalitet og pasientsikkerhetvitenskapsteori, forskningsmetode og kunnskapsbasert praksisforskning, kvalitetsarbeid og formidling.
+Utdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-09-05-1831/kap2) til [9](forskrift/2025-09-05-1831/kap9) for utdanning på 120 studiepoeng og [kapittel 2](forskrift/2025-09-05-1831/kap2) til [8](forskrift/2025-09-05-1831/kap8) for utdanning på 90 studiepoeng, under følgende kompetanseområder:
+
+- kreftsykepleie som fag og profesjon
+- klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse
+- palliasjon
+- teknologi og digital kompetanse
+- faglig ledelse og samhandling
+- kvalitet og pasientsikkerhet
+- vitenskapsteori, forskningsmetode og kunnskapsbasert praksis
+- forskning, kvalitetsarbeid og formidling.
 
 ## Kapittel 2. Læringsutbytte for kompetanseområdet kreftsykepleie som fag og profesjon
 
 ### § 4. Kreftsykepleie som fag og profesjon – kunnskap
 
-Kandidatenkan analysere faglige problemstillinger med utgangspunkt i kreftsykepleiens historie, tradisjoner, egenart og plass i samfunnethar inngående kunnskap om helse- og omsorgstjenestens organisering, rammer og relevant lovverkhar avansert kunnskap om person- og familiesentrert kreftsykepleie, herunder pasienter med kreft og pårørendes reaksjoner og behov i pasientforløpet på tvers av alder, kjønnsidentitet, kjønnsuttrykk, seksuell orientering, sosioøkonomisk, språklig og kulturell bakgrunnhar avansert kunnskap om psykiske reaksjoner, åndelige, kulturelle og eksistensielle behov og reaksjoner ved krise, tap og sorg hos pasienter, pårørende og etterlattehar avansert kunnskap på sentrale fenomen som håp, livskvalitet og mestring i kreftsykepleie.
+Kandidaten
+
+1. kan analysere faglige problemstillinger med utgangspunkt i kreftsykepleiens historie, tradisjoner, egenart og plass i samfunnet
+2. har inngående kunnskap om helse- og omsorgstjenestens organisering, rammer og relevant lovverk
+3. har avansert kunnskap om person- og familiesentrert kreftsykepleie, herunder pasienter med kreft og pårørendes reaksjoner og behov i pasientforløpet på tvers av alder, kjønnsidentitet, kjønnsuttrykk, seksuell orientering, sosioøkonomisk, språklig og kulturell bakgrunn
+4. har avansert kunnskap om psykiske reaksjoner, åndelige, kulturelle og eksistensielle behov og reaksjoner ved krise, tap og sorg hos pasienter, pårørende og etterlatte
+5. har avansert kunnskap på sentrale fenomen som håp, livskvalitet og mestring i kreftsykepleie.
 
 ### § 5. Kreftsykepleie som fag og profesjon – ferdigheter
 
-Kandidatenkan gjennomføre kreftsykepleie i samsvar med lover, forskrifter, retningslinjer og rammebetingelserkan bruke relevante metoder til å kartlegge og ivareta barn som pårørende til pasienter med kreft og gjennomføre relevante tiltak.
+Kandidaten
+
+1. kan gjennomføre kreftsykepleie i samsvar med lover, forskrifter, retningslinjer og rammebetingelser
+2. kan bruke relevante metoder til å kartlegge og ivareta barn som pårørende til pasienter med kreft og gjennomføre relevante tiltak.
 
 ### § 6. Kreftsykepleie som fag og profesjon – generell kompetanse
 
-Kandidatenkan analysere og håndtere relevante fag- og yrkesetiske problemstillinger samt delta i tverrfaglige etiske diskusjoner rundt behandling og oppfølging av kreftpasienter og pårørendekan anvende kunnskap og ferdigheter for å vurdere og prioritere behov for helsehjelp til utsatte og sårbare pasientgrupperkan formidle trygghet og tillit i samhandling med pasienter og pårørende, inkludert barn som pårørende.
+Kandidaten
+
+1. kan analysere og håndtere relevante fag- og yrkesetiske problemstillinger samt delta i tverrfaglige etiske diskusjoner rundt behandling og oppfølging av kreftpasienter og pårørende
+2. kan anvende kunnskap og ferdigheter for å vurdere og prioritere behov for helsehjelp til utsatte og sårbare pasientgrupper
+3. kan formidle trygghet og tillit i samhandling med pasienter og pårørende, inkludert barn som pårørende.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse
 
 ### § 7. Klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse – kunnskap
 
-Kandidatenhar avansert og spesifikk kunnskap om utvikling av kreftsykdommer, deres patofysiologi, diagnostikk og behandlingsprinsipper, herunder kirurgi, medikamentell kreft- og strålebehandling, i tråd med kunnskapsutviklingenhar avansert og spesifikk kunnskap om bivirkninger, komplikasjoner og seneffekter relatert til kreftsykdom og behandling samt forebygging, lindring og håndtering av dissehar avansert kunnskap om farmakologi og legemiddelbehandling innen kreftbehandlinghar inngående kunnskaper om avansert smertebehandlinghar inngående kunnskap om mikrobiologi, smitterisiko, sepsisutvikling, antibiotikabruk og smittevernhar inngående kunnskap om hvordan psykisk helse, alder, multimorbiditet, ernæringstilstand, språklig og kulturell bakgrunn og sosioøkonomiske forhold påvirker helse, kreftsykdom, valg av behandling og utøvelse av kreftsykepleiehar inngående kunnskaper om kommunikasjon med kreftsyke barn og ungdom og deres særskilte behov og rettigheter, herunder kunnskap om samiske barns rettigheter som urfolksbarnhar inngående kunnskap om helsepedagogikk og ulike kommunikasjons- og veiledningsmodeller som grunnlag for inkludering, medbestemmelse og samvalg hos pasienter og pårørende.
+Kandidaten
+
+1. har avansert og spesifikk kunnskap om utvikling av kreftsykdommer, deres patofysiologi, diagnostikk og behandlingsprinsipper, herunder kirurgi, medikamentell kreft- og strålebehandling, i tråd med kunnskapsutviklingen
+2. har avansert og spesifikk kunnskap om bivirkninger, komplikasjoner og seneffekter relatert til kreftsykdom og behandling samt forebygging, lindring og håndtering av disse
+3. har avansert kunnskap om farmakologi og legemiddelbehandling innen kreftbehandling
+4. har inngående kunnskaper om avansert smertebehandling
+5. har inngående kunnskap om mikrobiologi, smitterisiko, sepsisutvikling, antibiotikabruk og smittevern
+6. har inngående kunnskap om hvordan psykisk helse, alder, multimorbiditet, ernæringstilstand, språklig og kulturell bakgrunn og sosioøkonomiske forhold påvirker helse, kreftsykdom, valg av behandling og utøvelse av kreftsykepleie
+7. har inngående kunnskaper om kommunikasjon med kreftsyke barn og ungdom og deres særskilte behov og rettigheter, herunder kunnskap om samiske barns rettigheter som urfolksbarn
+8. har inngående kunnskap om helsepedagogikk og ulike kommunikasjons- og veiledningsmodeller som grunnlag for inkludering, medbestemmelse og samvalg hos pasienter og pårørende.
 
 ### § 8. Klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse – ferdigheter
 
-Kandidatenkan analysere og systematisk vurdere komplekse pasientsituasjoner relatert til kreftsykdom og behandling, herunder akutte og kritiske situasjonerkan bruke relevant kunnskap til selvstendig å planlegge, gjennomføre og evaluere sykepleie til pasienter med kreftkan selvstendig gjennomføre medikamentell kreftbehandling etter gjeldende prosedyrer og rutiner for å ivareta pasientsikkerhet, egen helse og miljø etter gjeldende lovverkkan bruke relevante smittevernstiltak rettet mot pasienten, miljøet og aktuell kontekstkan bruke relevante metoder innen kommunikasjon, undervisning og veiledning for å bidra til å fremme håp, livskvalitet og mestring hos pasienter og pårørende gjennom pasientforløpet uavhengig av behandlingsmålkan analysere ressurser og helsekompetanse til pasienter og pårørende, og gjennomføre relevante tiltakkan vurdere behov for og iverksette ernæringstiltak og om nødvendig henvise videre.
+Kandidaten
+
+1. kan analysere og systematisk vurdere komplekse pasientsituasjoner relatert til kreftsykdom og behandling, herunder akutte og kritiske situasjoner
+2. kan bruke relevant kunnskap til selvstendig å planlegge, gjennomføre og evaluere sykepleie til pasienter med kreft
+3. kan selvstendig gjennomføre medikamentell kreftbehandling etter gjeldende prosedyrer og rutiner for å ivareta pasientsikkerhet, egen helse og miljø etter gjeldende lovverk
+4. kan bruke relevante smittevernstiltak rettet mot pasienten, miljøet og aktuell kontekst
+5. kan bruke relevante metoder innen kommunikasjon, undervisning og veiledning for å bidra til å fremme håp, livskvalitet og mestring hos pasienter og pårørende gjennom pasientforløpet uavhengig av behandlingsmål
+6. kan analysere ressurser og helsekompetanse til pasienter og pårørende, og gjennomføre relevante tiltak
+7. kan vurdere behov for og iverksette ernæringstiltak og om nødvendig henvise videre.
 
 ### § 9. Klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse – generell kompetanse
 
-Kandidatenkan analysere, vurdere og håndtere komplekse og kritiske situasjoner i samsvar med helselovgivning og profesjonsetikkkan anvende kunnskaper og ferdigheter for å utføre kreftsykepleie til pasienter i tråd med de medisinske, demografiske, sosiale, miljømessige og teknologiske endringerkan anvende kunnskap og ferdigheter om smittevern for å vurdere behov, iverksette og lede smittevernstiltak der kreftsykepleie utøveskan anvende sine kunnskaper og ferdigheter for å ivareta og følge opp kreftoverlevere med senskader og utfordringer som resultat av sykdom og behandlingkan anvende sine kunnskaper og ferdigheter om hvordan diagnose og behandling kan påvirke helse, inkludert seksuell helsekan anvende sine kunnskaper og ferdigheter til å veilede pasienter og pårørende om behandlingsvalg og tilrettelegge for prehabilitering og tidlig rehabiliteringkan anvende sine kunnskaper og ferdigheter om hvordan diagnose og behandling kan påvirke ernæringsstatus og kunne følge opp dette.
+Kandidaten
+
+1. kan analysere, vurdere og håndtere komplekse og kritiske situasjoner i samsvar med helselovgivning og profesjonsetikk
+2. kan anvende kunnskaper og ferdigheter for å utføre kreftsykepleie til pasienter i tråd med de medisinske, demografiske, sosiale, miljømessige og teknologiske endringer
+3. kan anvende kunnskap og ferdigheter om smittevern for å vurdere behov, iverksette og lede smittevernstiltak der kreftsykepleie utøves
+4. kan anvende sine kunnskaper og ferdigheter for å ivareta og følge opp kreftoverlevere med senskader og utfordringer som resultat av sykdom og behandling
+5. kan anvende sine kunnskaper og ferdigheter om hvordan diagnose og behandling kan påvirke helse, inkludert seksuell helse
+6. kan anvende sine kunnskaper og ferdigheter til å veilede pasienter og pårørende om behandlingsvalg og tilrettelegge for prehabilitering og tidlig rehabilitering
+7. kan anvende sine kunnskaper og ferdigheter om hvordan diagnose og behandling kan påvirke ernæringsstatus og kunne følge opp dette.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet palliasjon
 
 ### § 10. Palliasjon – kunnskap
 
-Kandidatenhar inngående kunnskap om organisering av det palliative helse- og omsorgstilbudet i Norgehar inngående kunnskap om kommunikasjon med pasienter med livstruende eller livsbegrensende sykdom og deres pårørendehar inngående kunnskap om symptomkartlegging og lindring av komplekse sykdomstilstander i det palliative forløpethar inngående kunnskap om etiske og faglige aspekter relatert til alvorlig sykdom og dødhar avansert kunnskap om pasientens, pårørendes og etterlattes reaksjoner samt åndelige og eksistensielle behov i palliative pasientforløp inkludert barn og ungdom.
+Kandidaten
+
+1. har inngående kunnskap om organisering av det palliative helse- og omsorgstilbudet i Norge
+2. har inngående kunnskap om kommunikasjon med pasienter med livstruende eller livsbegrensende sykdom og deres pårørende
+3. har inngående kunnskap om symptomkartlegging og lindring av komplekse sykdomstilstander i det palliative forløpet
+4. har inngående kunnskap om etiske og faglige aspekter relatert til alvorlig sykdom og død
+5. har avansert kunnskap om pasientens, pårørendes og etterlattes reaksjoner samt åndelige og eksistensielle behov i palliative pasientforløp inkludert barn og ungdom.
 
 ### § 11. Palliasjon – ferdigheter
 
-Kandidatenkan tidlig introdusere og tilpasse et palliativt forløp og koordinere tjenestene for den kreftsyke og pårørendekan anvende aktuelle verktøy for å kartlegge, vurdere, planlegge, gjennomføre og evaluere sykepleietiltak rettet mot lindring av symptomer i det palliative forløpet for pasienter og deres pårørendekan bruke sine kunnskaper til å fremme helse, mestring og livskvalitet hos den palliative kreftpasient og dens pårørende samt medvirke til en verdig dødkan bruke terapeutiske kommunikasjonsmodeller til pasienter med livstruende eller livsbegrensende sykdom og deres pårørendekan mobilisere pasientens private nettverk for å sørge for personsentrert palliativ omsorg.
+Kandidaten
+
+1. kan tidlig introdusere og tilpasse et palliativt forløp og koordinere tjenestene for den kreftsyke og pårørende
+2. kan anvende aktuelle verktøy for å kartlegge, vurdere, planlegge, gjennomføre og evaluere sykepleietiltak rettet mot lindring av symptomer i det palliative forløpet for pasienter og deres pårørende
+3. kan bruke sine kunnskaper til å fremme helse, mestring og livskvalitet hos den palliative kreftpasient og dens pårørende samt medvirke til en verdig død
+4. kan bruke terapeutiske kommunikasjonsmodeller til pasienter med livstruende eller livsbegrensende sykdom og deres pårørende
+5. kan mobilisere pasientens private nettverk for å sørge for personsentrert palliativ omsorg.
 
 ### § 12. Palliasjon – generell kompetanse
 
-Kandidatenkan anvende avanserte kunnskaper og ferdigheter i palliasjon i møtet med pasienter med livstruende eller livsbegrensende sykdom, og deres pårørendekan anvende sine kunnskaper og erfaringer til å delta i argumentasjon og diskusjon i tverrprofesjonelle vurderings- og beslutningsprosesser samt bidra til nytenkning.
+Kandidaten
+
+1. kan anvende avanserte kunnskaper og ferdigheter i palliasjon i møtet med pasienter med livstruende eller livsbegrensende sykdom, og deres pårørende
+2. kan anvende sine kunnskaper og erfaringer til å delta i argumentasjon og diskusjon i tverrprofesjonelle vurderings- og beslutningsprosesser samt bidra til nytenkning.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet teknologi og digital kompetanse
 
 ### § 13. Teknologi og digital kompetanse – kunnskap
 
-Kandidatenhar avansert kunnskap om lover og forskrifter knyttet til bruk av medisinsk utstyr og digitale verktøy som er relevant for yrkesutøvelsenhar avansert kunnskap om e-helse, informasjons- og velferdsteknologi for å ivareta kontinuitet i pasientforløpethar inngående kunnskap om hvordan digitalisering bidrar til samhandling og samarbeid blant helsepersonell.
+Kandidaten
+
+1. har avansert kunnskap om lover og forskrifter knyttet til bruk av medisinsk utstyr og digitale verktøy som er relevant for yrkesutøvelsen
+2. har avansert kunnskap om e-helse, informasjons- og velferdsteknologi for å ivareta kontinuitet i pasientforløpet
+3. har inngående kunnskap om hvordan digitalisering bidrar til samhandling og samarbeid blant helsepersonell.
 
 ### § 14. Teknologi og digital kompetanse – ferdigheter
 
-Kandidatenkan bruke digital kompetanse, bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivåkan analysere og forholde seg kritisk til ulike digitale informasjonskilder.
+Kandidaten
+
+1. kan bruke digital kompetanse, bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivå
+2. kan analysere og forholde seg kritisk til ulike digitale informasjonskilder.
 
 ### § 15. Teknologi og digital kompetanse – generell kompetanse
 
-Kandidatenkan bidra til at implementering og bruk av digitale verktøy og medisinsk utstyr er faglig forsvarlig.
+Kandidaten
+
+1. kan bidra til at implementering og bruk av digitale verktøy og medisinsk utstyr er faglig forsvarlig.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet faglig ledelse og samhandling
 
 ### § 16. Faglig ledelse og samhandling – kunnskap
 
-Kandidatenhar inngående kunnskap om hva som kjennetegner gode pasientforløp og hvordan sikre kritiske overgangerhar inngående kunnskap om kunnskapsbasert og kvalitetssikret samhandling på tvers av tjenestenivåhar inngående kunnskaper om prinsipper innen kommunikasjon, veiledning og undervisning av kolleger, studenter og samarbeidspartnerehar inngående kunnskaper om stressreaksjoner, mestringsstrategier og hvordan arbeidsbelastninger kan forebygges og reduseres.
+Kandidaten
+
+1. har inngående kunnskap om hva som kjennetegner gode pasientforløp og hvordan sikre kritiske overganger
+2. har inngående kunnskap om kunnskapsbasert og kvalitetssikret samhandling på tvers av tjenestenivå
+3. har inngående kunnskaper om prinsipper innen kommunikasjon, veiledning og undervisning av kolleger, studenter og samarbeidspartnere
+4. har inngående kunnskaper om stressreaksjoner, mestringsstrategier og hvordan arbeidsbelastninger kan forebygges og reduseres.
 
 ### § 17. Faglig ledelse og samhandling – ferdigheter
 
-Kandidatenkan analysere, organisere og tilpasse et pasientforløp for å sikre kvalitet og informasjonsflyt i samarbeid på tvers av tjenestenivåenekan bruke anerkjente pedagogiske prinsipper til å veilede og undervise personell i faglige og etiske utfordringerkan bruke relevant kunnskap til å koordinere og mobilisere pårørende, pasientens sosiale nettverk samt frivillige tjenester.
+Kandidaten
+
+1. kan analysere, organisere og tilpasse et pasientforløp for å sikre kvalitet og informasjonsflyt i samarbeid på tvers av tjenestenivåene
+2. kan bruke anerkjente pedagogiske prinsipper til å veilede og undervise personell i faglige og etiske utfordringer
+3. kan bruke relevant kunnskap til å koordinere og mobilisere pårørende, pasientens sosiale nettverk samt frivillige tjenester.
 
 ### § 18. Faglig ledelse og samhandling – generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til selvstendig å koordinere tjenester, lede nettverksgrupper og tverrfaglige team på tvers av tjenestenivåene for å ivareta pasientsikkerhet og kontinuitetkan anvende sine kunnskaper og erfaringer til å mobilisere og delta i forpliktende tverrprofesjonelt samarbeid på tvers av tjenestenivå.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til selvstendig å koordinere tjenester, lede nettverksgrupper og tverrfaglige team på tvers av tjenestenivåene for å ivareta pasientsikkerhet og kontinuitet
+2. kan anvende sine kunnskaper og erfaringer til å mobilisere og delta i forpliktende tverrprofesjonelt samarbeid på tvers av tjenestenivå.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet kvalitet og pasientsikkerhet
 
 ### § 19. Kvalitet og pasientsikkerhet – kunnskap
 
-Kandidatenhar inngående kunnskap om systematisk kvalitetsarbeid med kvalitetsforbedring og endringsprosesser, herunder prosedyreutviklinghar inngående kunnskap om aktuelle retningslinjer, nasjonale føringer og lokale prosedyrer relatert til kreftbehandlinghar inngående kunnskap om viktigheten av språk- og kulturkompetanse, for å bidra til økt kvalitet og pasientsikkerhet, i utøvelsen av kreftsykepleie.
+Kandidaten
+
+1. har inngående kunnskap om systematisk kvalitetsarbeid med kvalitetsforbedring og endringsprosesser, herunder prosedyreutvikling
+2. har inngående kunnskap om aktuelle retningslinjer, nasjonale føringer og lokale prosedyrer relatert til kreftbehandling
+3. har inngående kunnskap om viktigheten av språk- og kulturkompetanse, for å bidra til økt kvalitet og pasientsikkerhet, i utøvelsen av kreftsykepleie.
 
 ### § 20. Kvalitet og pasientsikkerhet – ferdigheter
 
-Kandidatenkan anvende og bidra i utviklingen av faglige retningslinjer, lokale prosedyrer og standardisering for å ivareta pasientsikkerhetkan anvende relevante metoder for å vurdere risiko for uønskede hendelser og bidra til forbedring og pasientsikkerhetkan analysere uønskede hendelser og bidra til systematisk læringkan analysere kliniske, faglige og etiske relevante problemstillinger i kreftsykepleie og bidra til fagutvikling og endringsarbeid.
+Kandidaten
+
+1. kan anvende og bidra i utviklingen av faglige retningslinjer, lokale prosedyrer og standardisering for å ivareta pasientsikkerhet
+2. kan anvende relevante metoder for å vurdere risiko for uønskede hendelser og bidra til forbedring og pasientsikkerhet
+3. kan analysere uønskede hendelser og bidra til systematisk læring
+4. kan analysere kliniske, faglige og etiske relevante problemstillinger i kreftsykepleie og bidra til fagutvikling og endringsarbeid.
 
 ### § 21. Kvalitet og pasientsikkerhet – generell kompetanse
 
-Kandidatenkan bidra i implementering av kunnskapsbasert praksis og bidra til kvalitet i klinisk arbeidkan innhente og anvende kunnskap for å utvikle egen kompetanse og bidra til bedre pasientsikkerhet og kvalitet i klinisk arbeidkan bidra til nytenkning og i innovasjonsprosesser i klinisk praksis.
+Kandidaten
+
+1. kan bidra i implementering av kunnskapsbasert praksis og bidra til kvalitet i klinisk arbeid
+2. kan innhente og anvende kunnskap for å utvikle egen kompetanse og bidra til bedre pasientsikkerhet og kvalitet i klinisk arbeid
+3. kan bidra til nytenkning og i innovasjonsprosesser i klinisk praksis.
 
 ## Kapittel 8. Læringsutbytte for kompetanseområdet vitenskapsteori, forskningsmetode og kunnskapsbasert praksis
 
 ### § 22. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – kunnskap
 
-Kandidatenhar inngående kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, ulike trinn i forskningsprosessen og forskningsetikk som er relevant for kreftsykepleiehar inngående kunnskap om kunnskapsbasert praksis og kvalitetsarbeid innen kreftsykepleie.
+Kandidaten
+
+1. har inngående kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, ulike trinn i forskningsprosessen og forskningsetikk som er relevant for kreftsykepleie
+2. har inngående kunnskap om kunnskapsbasert praksis og kvalitetsarbeid innen kreftsykepleie.
 
 ### § 23. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til teori og ulike informasjonskilder, og anvende disse til å strukturere og formulere faglige resonnementer innen kreftsykepleiekan bruke metoder for å planlegge et avgrenset forsknings- eller kvalitetsarbeid ved bruk av relevante teorier og metoder i tråd med forskningsetiske normerkan identifisere faglige problemstillinger og avklare behov for forskning og kvalitetsarbeid.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til teori og ulike informasjonskilder, og anvende disse til å strukturere og formulere faglige resonnementer innen kreftsykepleie
+2. kan bruke metoder for å planlegge et avgrenset forsknings- eller kvalitetsarbeid ved bruk av relevante teorier og metoder i tråd med forskningsetiske normer
+3. kan identifisere faglige problemstillinger og avklare behov for forskning og kvalitetsarbeid.
 
 ### § 24. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – generell kompetanse
 
-Kandidatenkan analysere og forholde seg kritisk til kunnskapsbasert praksis for å kunne medvirke til utvikling av tjenestenkan formidle og kommunisere om forskningsbasert kunnskap i møte med pasient, pårørende, helsepersonell og allmennheten.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til kunnskapsbasert praksis for å kunne medvirke til utvikling av tjenesten
+2. kan formidle og kommunisere om forskningsbasert kunnskap i møte med pasient, pårørende, helsepersonell og allmennheten.
 
 ## Kapittel 9. Læringsutbytte for kompetanseområdet forskning, kvalitetsarbeid og formidling
 
 ### § 25. Forskning, kvalitetsarbeid og formidling – kunnskap
 
-Kandidatenhar avansert kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, forskningsprosessen, vitenskapelig arbeid, kvalitetsarbeid og forskningsetikk, herunder personvernreguleringer og krav til innsamling og håndtering av sensitive data, som er relevant for kreftsykepleiehar spesialisert innsikt i de valgte metodiske tilnærmingene i det aktuelle forsknings- eller kvalitetsarbeidethar avansert kunnskap og spesialisert innsikt i et avgrenset område relevant for utøvelse av kreftsykepleie.
+Kandidaten
+
+1. har avansert kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, forskningsprosessen, vitenskapelig arbeid, kvalitetsarbeid og forskningsetikk, herunder personvernreguleringer og krav til innsamling og håndtering av sensitive data, som er relevant for kreftsykepleie
+2. har spesialisert innsikt i de valgte metodiske tilnærmingene i det aktuelle forsknings- eller kvalitetsarbeidet
+3. har avansert kunnskap og spesialisert innsikt i et avgrenset område relevant for utøvelse av kreftsykepleie.
 
 ### § 26. Forskning, kvalitetsarbeid og formidling – ferdigheter
 
-Kandidatenkan analysere og anvende teori og metoder til å formulere og strukturere faglige og teoretiske problemstillinger innen kreftsykepleiekan analysere og forholde seg kritisk til forsknings-, bruker- og erfaringskunnskap for å medvirke til utvikling av tjenestenkan gjennomføre et selvstendig avgrenset kreftsykepleiefaglig forsknings- eller kvalitetsarbeid under veiledning og i tråd med forskningsetiske prinsipper.
+Kandidaten
+
+1. kan analysere og anvende teori og metoder til å formulere og strukturere faglige og teoretiske problemstillinger innen kreftsykepleie
+2. kan analysere og forholde seg kritisk til forsknings-, bruker- og erfaringskunnskap for å medvirke til utvikling av tjenesten
+3. kan gjennomføre et selvstendig avgrenset kreftsykepleiefaglig forsknings- eller kvalitetsarbeid under veiledning og i tråd med forskningsetiske prinsipper.
 
 ### § 27. Forskning, kvalitetsarbeid og formidling – generell kompetanse
 
-Kandidatenkan anvende og formidle forsknings- eller kvalitetsarbeid for å bidra til utvikling av kreftsykepleiefaget og helsetjenestenkan analysere, konkludere og formidle faglige problemstillinger innenfor kreftsykepleiekan analysere relevante forskningsetiske problemstillinger innen kreftsykepleie.
+Kandidaten
+
+1. kan anvende og formidle forsknings- eller kvalitetsarbeid for å bidra til utvikling av kreftsykepleiefaget og helsetjenesten
+2. kan analysere, konkludere og formidle faglige problemstillinger innenfor kreftsykepleie
+3. kan analysere relevante forskningsetiske problemstillinger innen kreftsykepleie.
 
 ## Kapittel 10. Studiets oppbygning og praksisstudier
 

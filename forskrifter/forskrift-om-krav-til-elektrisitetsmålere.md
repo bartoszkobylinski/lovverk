@@ -15,7 +15,7 @@ xml_hash: "1247d1dd415010f4d7e5bd68fb59bc31855b1d8e2c2c2a00591d3736888ea404"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,19 @@ Forskriften setter ikke krav til elektromagnetisk stråling som avgis av målein
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med*elektrisitetsmåler:* en innretning som måler aktiv elektrisk energi som forbrukes i en krets, herunder måler som i tillegg måler reaktiv elektrisk energi. Målere som bare måler reaktiv energi omfattes ikke av definisjonen i denne forskriften;*distribusjonsnett med lavspenning:* anlegg med høyeste nominell spenning til og med 1000 V vekselspenning eller 1500 V likespenning;*statisk måler:* en elektronisk måler;*målestørrelsen:* den bestemte størrelsen som skal måles;*påvirkende størrelse:* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet;*angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør elektrisitetsmålerens normale driftsbetingelser;*forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor elektrisitetsmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser;*kritisk endringsverdi:* den verdien der endringen i måleresultatet anses som uønsket;*klimatisk miljø:* omgivelser der elektrisitetsmålere kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene;*forsyningsvirksomhet:* en leverandør av elektrisitet, gass, varme eller vann;*bruker:* den som er ansvarlig for målingen.
+I denne forskriften menes med
+
+1. *elektrisitetsmåler:* en innretning som måler aktiv elektrisk energi som forbrukes i en krets, herunder måler som i tillegg måler reaktiv elektrisk energi. Målere som bare måler reaktiv energi omfattes ikke av definisjonen i denne forskriften;
+2. *distribusjonsnett med lavspenning:* anlegg med høyeste nominell spenning til og med 1000 V vekselspenning eller 1500 V likespenning;
+3. *statisk måler:* en elektronisk måler;
+4. *målestørrelsen:* den bestemte størrelsen som skal måles;
+5. *påvirkende størrelse:* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet;
+6. *angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør elektrisitetsmålerens normale driftsbetingelser;
+7. *forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor elektrisitetsmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser;
+8. *kritisk endringsverdi:* den verdien der endringen i måleresultatet anses som uønsket;
+9. *klimatisk miljø:* omgivelser der elektrisitetsmålere kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene;
+10. *forsyningsvirksomhet:* en leverandør av elektrisitet, gass, varme eller vann;
+11. *bruker:* den som er ansvarlig for målingen.
 
 > Endret ved forskrifter [20 des 2017 nr. 2295](forskrift/2017-12-20-2295) (i kraft 1 jan 2018), [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
@@ -91,7 +103,10 @@ Det mekaniske miljø klassifiseres i følgende klasser:
 | M2 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at elektrisitetsmåleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
 | M3 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel elektrisitetsmålere montert direkte på maskiner, transportbånd osv. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:vibrasjonmekanisk sjokk.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:
+
+1. vibrasjon
+2. mekanisk sjokk.
 
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
@@ -107,19 +122,34 @@ Med mindre annet er fastsatt i avsnitt II klassifiseres det elektromagnetiske mi
 | E2 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter elektrisitetsmålere som får strøm fra batteriet i et kjøretøy. Slike elektrisitetsmålere skal oppfylle kravene for E2 samt tilleggskrav til toleranse for stor strøm- og spenningsvariasjon ved innkobling og frakobling av motorens startmekanisme. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:spenningsavbruddkortvarig redusert spenningelektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledningerhøyfrekvente elektromagnetiske feltoverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningeroverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:
+
+1. spenningsavbrudd
+2. kortvarig redusert spenning
+3. elektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledninger
+4. høyfrekvente elektromagnetiske felt
+5. overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. overspenning på forsyningsledninger og/eller signalledninger.
 
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
 ### § 10. Andre påvirkende størrelser
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:spenningsvariasjonvariasjoner i nettfrekvensnettgenererte magnetiske feltandre størrelser som kan påvirke elektrisitetsmålerens nøyaktighet i vesentlig grad.
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. spenningsvariasjon
+2. variasjoner i nettfrekvens
+3. nettgenererte magnetiske felt
+4. andre størrelser som kan påvirke elektrisitetsmålerens nøyaktighet i vesentlig grad.
 
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
 ### § 11. Grunnleggende regler for forsøk og bestemmelse av feil
 
-Ved utførelse av forsøk i henhold til denne forskriften gjelder følgende:De grunnleggende kravene angitt i [§ 5](forskrift/2007-12-28-1753/§5) skal kontrolleres for hver relevante påvirkende størrelse. Med mindre annet er angitt i avsnitt II, gjelder disse grunnleggende kravene når hver påvirkende størrelse påføres og virkningen av den vurderes separat, idet alle andre påvirkende størrelser holdes relativt konstante ved sine referanseverdier.Måleforsøk skal utføres under og etter påføring av den påvirkende størrelsen, alt etter hva som tilsvarer normal driftsstatus for elektrisitetsmåleren når denne påvirkende størrelsen kan antas å opptre.
+Ved utførelse av forsøk i henhold til denne forskriften gjelder følgende:
+
+1. De grunnleggende kravene angitt i [§ 5](forskrift/2007-12-28-1753/§5) skal kontrolleres for hver relevante påvirkende størrelse. Med mindre annet er angitt i avsnitt II, gjelder disse grunnleggende kravene når hver påvirkende størrelse påføres og virkningen av den vurderes separat, idet alle andre påvirkende størrelser holdes relativt konstante ved sine referanseverdier.
+2. Måleforsøk skal utføres under og etter påføring av den påvirkende størrelsen, alt etter hva som tilsvarer normal driftsstatus for elektrisitetsmåleren når denne påvirkende størrelsen kan antas å opptre.
 
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
@@ -153,7 +183,12 @@ En elektrisitetsmåler skal konstrueres slik at virkningen av en funksjonsfeil s
 
 ### § 18. Egnethet
 
-En elektrisitetsmåler skal væreegnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser og det ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat;ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid;konstruert slik at målefunksjonen skal kunne kontrolleres etter at elektrisitetsmåleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av elektrisitetsmåleren. Testprosedyren skal være beskrevet i bruksanvisningen;robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser.
+En elektrisitetsmåler skal være
+
+1. egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser og det ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat;
+2. ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid;
+3. konstruert slik at målefunksjonen skal kunne kontrolleres etter at elektrisitetsmåleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av elektrisitetsmåleren. Testprosedyren skal være beskrevet i bruksanvisningen;
+4. robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser.
 
 En elektrisitetsmåler skal ikke være av en slik art at den lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig. En elektrisitetsmåler som anvendes med gjennomstrømning eller elektrisk strøm utenfor det kontrollerte området, skal ikke overskride gitte verdier som anvist i gjeldende standarder.
 
@@ -175,9 +210,23 @@ Visningen av samlet mengde eller visningene som samlet mengde kan utledes fra, o
 
 ### § 20. Opplysninger som skal påføres eller følge elektrisitetsmåleren
 
-En elektrisitetsmåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres elektrisitetsmåleren:relevante opplysninger om bruksbetingelsermålekapasitetmåleområdeidentitetsmerkenummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseopplysninger om hvorvidt tilleggsutstyr som gir måleresultater er i samsvar med bestemmelsene i fastsatte forskrifter om lovregulert måleteknisk kontroll.
+En elektrisitetsmåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres elektrisitetsmåleren:
 
-Opplysninger om betjening skal følge elektrisitetsmåleren med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:angitte driftsbetingelserelektromagnetisk miljøøvre og nedre temperaturgrense, akseptabelt fuktighetsområde samt om måleren er egnet for innendørs og/eller utendørs brukanvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingeranvisninger for korrekt betjening og eventuelle særlige bruksvilkårvilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
+1. relevante opplysninger om bruksbetingelser
+2. målekapasitet
+3. måleområde
+4. identitetsmerke
+5. nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse
+6. opplysninger om hvorvidt tilleggsutstyr som gir måleresultater er i samsvar med bestemmelsene i fastsatte forskrifter om lovregulert måleteknisk kontroll.
+
+Opplysninger om betjening skal følge elektrisitetsmåleren med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. angitte driftsbetingelser
+2. elektromagnetisk miljø
+3. øvre og nedre temperaturgrense, akseptabelt fuktighetsområde samt om måleren er egnet for innendørs og/eller utendørs bruk
+4. anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
 
 Dersom elektrisitetsmålerens dimensjoner er for små, eller konstruksjonen er for følsom til at de relevante opplysninger kan påføres, skal disse være påført de følgedokumenter som kreves i henhold til denne forskriften. Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes. For grupper av identiske elektrisitetsmålere er det ikke nødvendig med individuelle bruksanvisninger.
 
@@ -325,7 +374,12 @@ Dersom det er en forutsigbar høy risiko på grunn av lyn, eller dersom forsynin
 
 Påvirkningen av en elektromagnetisk forstyrrelse på en elektrisitetsmåler skal være slik at under og umiddelbart etter forstyrrelse skal enhver størrelse beregnet på prøving av målerens nøyaktighet ikke frambringe pulser eller signaler som tilsvarer en energi på mer enn den kritiske endringsverdien.
 
-I rimelig tid etter en elektromagnetisk forstyrrelse skal målerengjenoppta driften innenfor grensen for maksimal tillatt målefeilha alle målefunksjoner i beholdgi mulighet for innhenting av alle måledata som forelå før forstyrrelsenikke vise noen endring i den registrerte energien på mer enn den kritiske endringsverdien.
+I rimelig tid etter en elektromagnetisk forstyrrelse skal måleren
+
+1. gjenoppta driften innenfor grensen for maksimal tillatt målefeil
+2. ha alle målefunksjoner i behold
+3. gi mulighet for innhenting av alle måledata som forelå før forstyrrelsen
+4. ikke vise noen endring i den registrerte energien på mer enn den kritiske endringsverdien.
 
 Den kritiske endringsverdien i kWh er *m · Un · Imax · 10-6* (der *m* er antall måleelementer i måleren, *Un* i volt og *Imax* i ampere). For overstrøm er den kritiske endringsverdien 1,5 %.
 
@@ -486,7 +540,22 @@ Testprogrammet skal benyttes ved test i stasjonært laboratorium. Testprogrammet
 
 Måleren skal være koblet opp og belastet med strøm en tid før testen starter, slik at normal driftstemperatur er oppnådd (jf. fabrikantens spesifikasjoner). Målere som testes i felt vil ha normal driftstemperatur.
 
-Testprogrammet består av testpunktene i tabell 12. For 3-fasemålere skal det i tillegg til testpunktene i tabell 12 utføres en test med belastning på 10 × Itr ved cos(φ) = 1 i direktekoblede målere og på In ved cos(φ) = 1 i transformatorkoblede målere under følgende forhold:En eller to av fasene skal være avbrutt i 3-fase, 4-wiresystem.En av fasene skal være avbrutt i 3-fase, 3-wiresystemMed fasevinkel menes lastens fasevinkel.*Tabell 12**Måler med MID samsvarsvurdering**Måler som ikke har MID samsvarsvurdering*Imin ved cos(φ) = 1Imin ved cos(φ) = 1Itr ved cos(φ) = 110 % av Ib ved cos(φ) = 110 × Itr ved cos(φ) = 1Ib ved cos(φ) = 110 × Itr ved cos(φ) = 0,5 induktivIb ved cos(φ) = 0,5 induktivMinimum 0,6 x Imax ved cos(φ)= 1Minimum 0,6 x Imax ved cos(φ) = 1
+Testprogrammet består av testpunktene i tabell 12. For 3-fasemålere skal det i tillegg til testpunktene i tabell 12 utføres en test med belastning på 10 × Itr ved cos(φ) = 1 i direktekoblede målere og på In ved cos(φ) = 1 i transformatorkoblede målere under følgende forhold:
+
+1. En eller to av fasene skal være avbrutt i 3-fase, 4-wiresystem.
+2. En av fasene skal være avbrutt i 3-fase, 3-wiresystem
+
+   Med fasevinkel menes lastens fasevinkel.
+
+   *Tabell 12*
+
+   | *Måler med MID samsvarsvurdering* | *Måler som ikke har MID samsvarsvurdering* |
+   | --- | --- |
+   | Imin ved cos(φ) = 1 | Imin ved cos(φ) = 1 |
+   | Itr ved cos(φ) = 1 | 10 % av Ib ved cos(φ) = 1 |
+   | 10 × Itr ved cos(φ) = 1 | Ib ved cos(φ) = 1 |
+   | 10 × Itr ved cos(φ) = 0,5 induktiv | Ib ved cos(φ) = 0,5 induktiv |
+   | Minimum 0,6 x Imax ved cos(φ)= 1 | Minimum 0,6 x Imax ved cos(φ) = 1 |
 
 > Endret ved forskrifter [20 des 2017 nr. 2295](forskrift/2017-12-20-2295) (i kraft 1 jan 2018, tidligere § 43 (delvis)), [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
@@ -543,7 +612,9 @@ Utvelgelse av målere for statistisk kontroll av grupper bestående av 65 måler
 | 4.4 | 10 001 til<br>35 000 | første<br>andre | 125<br>125 | 125<br>250 | 5<br>12 | 9<br>13 | 6 til 8 |
 | 4.5 | 35 001 til<br>150 000 | første<br>andre | 200<br>200 | 200<br>400 | 9<br>23 | 14<br>24 | 10 til 13 |
 
-\* Dersom resultatet av testen av gruppen viser et antall underkjente målere i gruppen som svarer til tallene i denne kolonnen, skal et andre utplukk trekkes tilfeldig fra gruppen.\*\* I hver av linjene som representerer andre utplukk, er antallet underkjente målere lik summen av de målere som ble underkjent i første utplukk og de som ble underkjent i andre utplukk.
+\* Dersom resultatet av testen av gruppen viser et antall underkjente målere i gruppen som svarer til tallene i denne kolonnen, skal et andre utplukk trekkes tilfeldig fra gruppen.
+
+\*\* I hver av linjene som representerer andre utplukk, er antallet underkjente målere lik summen av de målere som ble underkjent i første utplukk og de som ble underkjent i andre utplukk.
 
 Et utplukk skal hentes fra en gruppe på en slik måte at det for hver enkelt måler i gruppen er like stor sannsynlighet for å bli plukket ut. Det skal benyttes en tilfeldighetstabell eller et annet verktøy som sikrer et tilfeldig utplukk. Det er ikke tillatt å tilføre flere målere til en gruppe etter at gruppen er godkjent.
 
@@ -553,7 +624,13 @@ Det kan gjøres et utplukk som skal erstatte det opprinnelige utplukket i en for
 
 ### § 51. Kriterier for når en måler kan erstattes i det statistiske utplukket
 
-En måler kan erstattes i det statistiske utplukket dersom det kan dokumenteres at måleren har en av følgende feil:vann i målermanipulert måler, herunder plombebrudd og hærverkbrent målerfeilaktig gruppetilhørighetmåler har svært vanskelig adgang
+En måler kan erstattes i det statistiske utplukket dersom det kan dokumenteres at måleren har en av følgende feil:
+
+1. vann i måler
+2. manipulert måler, herunder plombebrudd og hærverk
+3. brent måler
+4. feilaktig gruppetilhørighet
+5. måler har svært vanskelig adgang
 
 For at det statistiske grunnlaget skal opprettholdes, må måleren som er tatt ut erstattes av en ny måler blant reservene, jf. [§ 50](forskrift/2007-12-28-1753/§50) fjerde ledd.
 

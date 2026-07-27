@@ -15,7 +15,7 @@ xml_hash: "c259ae9ea991d1d2aced568f32af898a4aaf24788f1ce4544658c1126b10331a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -95,7 +95,10 @@ De skal være slik bygget, at de kan hindre fremtrengen av flamme til utløpet a
 
 10.2.
 
-de skal ha en slik isolasjonsverdi, at gjennomsnittstemperaturen på den ikke-utsatte side ikke stiger mer enn 139°C over den opprinnelige temperatur, og heller ikke skal temperaturen på noe enkelt punkt, inklusive en eventuell skjøt, stige mer enn 225°C over den opprinnelige temperatur i løpet av den tid som er angitt nedenfor:Klasse B-15 – 15 minutterKlasse B- 0 – 0 minutter;
+de skal ha en slik isolasjonsverdi, at gjennomsnittstemperaturen på den ikke-utsatte side ikke stiger mer enn 139°C over den opprinnelige temperatur, og heller ikke skal temperaturen på noe enkelt punkt, inklusive en eventuell skjøt, stige mer enn 225°C over den opprinnelige temperatur i løpet av den tid som er angitt nedenfor:
+
+- Klasse B-15 – 15 minutter
+- Klasse B- 0 – 0 minutter;
 
 10.3.
 
@@ -464,11 +467,18 @@ Oljefyrt ovn.
 
 1.1.
 
-Ovner som er basert på elektrisk krafttilførsel, skal ha en oljetilførsel som stenges automatisk hvis:ovnen overopphetes (maksimum 400 °C i røkgass)flammen slukkerdet oppstår svikt i lufttilførsel eller kraftforsyning.
+Ovner som er basert på elektrisk krafttilførsel, skal ha en oljetilførsel som stenges automatisk hvis:
+
+- ovnen overopphetes (maksimum 400 °C i røkgass)
+- flammen slukker
+- det oppstår svikt i lufttilførsel eller kraftforsyning.
 
 1.2.
 
-Ovner som er konstruert for å virke uten elektrisk krafttilførsel, skal ha en oljetilførsel som stenges automatisk hvis:ovnen overopphetes (maksimum 400 °C i røkgass)flammen slukker.
+Ovner som er konstruert for å virke uten elektrisk krafttilførsel, skal ha en oljetilførsel som stenges automatisk hvis:
+
+- ovnen overopphetes (maksimum 400 °C i røkgass)
+- flammen slukker.
 
 Ovner med dryppregulering (stillkran med seglass), kan godtas uten automatisk stengning av oljetilførsel når flammen slukker ved at oljeforbruket er begrenset av en tilfredsstillende kalibrert oljestillerventil. Det skal fremgå av installasjonsbeskrivelsen den maksimalt tillatte høydeforskjell mellom oljetank og stillkran. Kan en tilfredsstillende oljeregulering ikke oppnås på grunn av trykkvariasjoner, skal en tilfredsstillende oljetrykksreduksjonsventil monteres. Overflomssystemet skal ha kapasitet til å motta hele tankens volum.
 
@@ -1104,7 +1114,18 @@ Detektorer skal være godkjent i samsvar med fremgangsmåte inntatt i vedlagte b
 
 1.*Dokumentasjon.*
 
-Følgende dokumentasjon skal innsendes til Sjøfartsdirektoratet:Bruksanvisning, inklusive fremgangsmåte for rutineprøving om bord.Feilsøkingsprosedyrer med en slik detaljeringsgrad at feil kan lokaliseres til subsystemer som er utskiftbare for kvalifisert offiser.Opplysninger om strømforsyning.Tilkopling av detektorsløyfer samt ytre hjelpeutstyr som f.eks. eksterne alarmorganer, viftestopp, dørmagnet etc.Monteringsanvisning.Komponentliste med angivelse av fabrikat og type for utskiftbare komponenter.Detaljert funksjons- og konstruksjonsbeskrivelse.Tegninger som viser mekanisk konstruksjon og oppbygging.Miljøspesifikasjon som angir grenseverdiene for det ytre miljø sentralutstyret kan operere i.Rapport fra utførte prøver.
+Følgende dokumentasjon skal innsendes til Sjøfartsdirektoratet:
+
+- Bruksanvisning, inklusive fremgangsmåte for rutineprøving om bord.
+- Feilsøkingsprosedyrer med en slik detaljeringsgrad at feil kan lokaliseres til subsystemer som er utskiftbare for kvalifisert offiser.
+- Opplysninger om strømforsyning.
+- Tilkopling av detektorsløyfer samt ytre hjelpeutstyr som f.eks. eksterne alarmorganer, viftestopp, dørmagnet etc.
+- Monteringsanvisning.
+- Komponentliste med angivelse av fabrikat og type for utskiftbare komponenter.
+- Detaljert funksjons- og konstruksjonsbeskrivelse.
+- Tegninger som viser mekanisk konstruksjon og oppbygging.
+- Miljøspesifikasjon som angir grenseverdiene for det ytre miljø sentralutstyret kan operere i.
+- Rapport fra utførte prøver.
 
 Dokumentasjon avmerket med – skal leveres om bord med anlegget i hvert enkelt skip.
 
@@ -1156,7 +1177,12 @@ Akustisk brannvarsel og feilvarsel skal kunne kvitteres ut ved hjelp av en enkel
 
 2.12.
 
-Sentralutstyret skal, eventuelt med tilpasningsutstyr, kunne benyttes sammen med følgende detektortyper:Maksimal temperaturdetektorerDifferensiell temperaturdetektorStrålingsdetektor: ultrafiolett, infrarødRøykdetektor: optisk type, ionisasjonstype
+Sentralutstyret skal, eventuelt med tilpasningsutstyr, kunne benyttes sammen med følgende detektortyper:
+
+- Maksimal temperaturdetektorer
+- Differensiell temperaturdetektor
+- Strålingsdetektor: ultrafiolett, infrarød
+- Røykdetektor: optisk type, ionisasjonstype
 
 Sentralutstyret skal også kunne benyttes sammen med en kombinasjon av disse detektortyper sammenkoplet i den samme detektorsløyfe, eventuelt med tilpasningsutstyr.
 
@@ -1212,7 +1238,13 @@ Prøvingen foretas etter blokkdiagram.
 
 5.3.
 
-For hver del av miljøprøven skal prøveobjektet gjennomgå en funksjonsprøve. Denne prøven skal bestå av en rekke prøvesekvenser som til sammen dekker alle utstyrets funksjoner. Hver sekvens består av følgnede deler:Utløs brannalarm i sløyfe XAvstill eksterne sirenerAvstill lokal summerTilbakestill alarmkretsTilbakestill lokale og eksterne signaler.
+For hver del av miljøprøven skal prøveobjektet gjennomgå en funksjonsprøve. Denne prøven skal bestå av en rekke prøvesekvenser som til sammen dekker alle utstyrets funksjoner. Hver sekvens består av følgnede deler:
+
+1. Utløs brannalarm i sløyfe X
+2. Avstill eksterne sirener
+3. Avstill lokal summer
+4. Tilbakestill alarmkrets
+5. Tilbakestill lokale og eksterne signaler.
 
 For hvert av disse trinn observeres objektets tilstand for å oppdage feilfunksjoner.
 
@@ -1310,7 +1342,16 @@ Etter prøven blir prøveobjektets enkelte deler visuelt inspisert og funksjonsp
 
 1.*Dokumentasjon.*
 
-Følgende dokumentasjon skal innsendes til Sjøfartsdirektoratet:Installasjons- og monteringsanvisning.Vedlikeholdsinstruks.Fremgangsmåte ved rutineprøving om bord.Fremgangsmåte ved typeprøving.Opplysning om sløyfetilkopling.Tegninger som viser mekanisk konstruksjon og oppbygging.Tekniske spesifikasjoner med følsomhetsdata og tidsrespons.Miljøspesifikasjoner som angir grenseverdiene for det ytre miljø detektoren kan operere i.
+Følgende dokumentasjon skal innsendes til Sjøfartsdirektoratet:
+
+- Installasjons- og monteringsanvisning.
+- Vedlikeholdsinstruks.
+- Fremgangsmåte ved rutineprøving om bord.
+- Fremgangsmåte ved typeprøving.
+- Opplysning om sløyfetilkopling.
+- Tegninger som viser mekanisk konstruksjon og oppbygging.
+- Tekniske spesifikasjoner med følsomhetsdata og tidsrespons.
+- Miljøspesifikasjoner som angir grenseverdiene for det ytre miljø detektoren kan operere i.
 
 Dokumentasjon merket – skal leveres om bord med anlegget i hvert skip.
 
@@ -1318,11 +1359,36 @@ Dokumentasjon merket – skal leveres om bord med anlegget i hvert skip.
 
 2.1.
 
-Generelle krav.Detektoren skal varsle brann og gi signal om dette til sentralutstyr.Detektoren skal ha så god følsomhet at den kan varsle brann på et tidlig stadium.Detektoren bør være konstruert med mulighet for å endre følsomheten.Detektoren skal ha så god selektivitet at den ikke er årsak til stadige uønskede alarmer.Detektoren som må tilbakestilles manuelt, skal gi synlig indikasjon når den er utløst.Det skal såvidt mulig gis alarm eller feilvarsel som reduserer evnen til å varsle brann.Detektoren skal enkelt kunne funksjonsprøves.
+Generelle krav.
+
+1. Detektoren skal varsle brann og gi signal om dette til sentralutstyr.
+2. Detektoren skal ha så god følsomhet at den kan varsle brann på et tidlig stadium.
+3. Detektoren bør være konstruert med mulighet for å endre følsomheten.
+4. Detektoren skal ha så god selektivitet at den ikke er årsak til stadige uønskede alarmer.
+5. Detektoren som må tilbakestilles manuelt, skal gi synlig indikasjon når den er utløst.
+6. Det skal såvidt mulig gis alarm eller feilvarsel som reduserer evnen til å varsle brann.
+7. Detektoren skal enkelt kunne funksjonsprøves.
 
 2.2.
 
-Spesielle krav.De eksisterende detektorer er basert på prinsippene:- Termisk deteksjon:– absolutt,– differensiell- Røykdeteksjon:– optisk,– ionisasjonskammer- Strålingsdeteksjon:– infrarød,– ultrafiolettDetektorer basert på andre prinsipper vil bli vurdert individuelt.Alle detektortyper skal tilfredsstille prøvene under nr. 5 – Prøveprogram.UV-detektorer skal ikke være følsomme for lys av større bølgelengde enn 0,29 um.*Anm.: Denne grense på 0,29 um er valgt fordi sollys inneholder stråling med større bølgelengde, og vil derfor kunne være en kilde til uønskede alarmer.*
+Spesielle krav.
+
+1. De eksisterende detektorer er basert på prinsippene:
+
+   |  |  |
+   | --- | --- |
+   | - Termisk deteksjon: | – absolutt, |
+   |  | – differensiell |
+   | - Røykdeteksjon: | – optisk, |
+   |  | – ionisasjonskammer |
+   | - Strålingsdeteksjon: | – infrarød, |
+   |  | – ultrafiolett |
+
+   Detektorer basert på andre prinsipper vil bli vurdert individuelt.
+2. Alle detektortyper skal tilfredsstille prøvene under nr. 5 – Prøveprogram.
+3. UV-detektorer skal ikke være følsomme for lys av større bølgelengde enn 0,29 um.
+
+*Anm.: Denne grense på 0,29 um er valgt fordi sollys inneholder stråling med større bølgelengde, og vil derfor kunne være en kilde til uønskede alarmer.*
 
 3.*Konstruksjonskrav.*
 
@@ -1364,7 +1430,28 @@ Før en detektor presenteres for godkjennelse, skal den ha gjennomgått miljøpr
 
 Brannprøve.
 
-Før miljøprøven skal detektoren gjennomgå en «brannprøve». Ved denne prøven skal detektoren utsettes for realistiske forhold i form av røyk, stråling og varme.Termiske detektorer skal prøves ifølge CEN 54, Part 5 (EN 54, Part 5) (CEN = CENELEC: Den europeiske komité for utarbeidelse av elektrotekniske normer).Røykdetektorer skal prøves i en røykkanal. De skal da ha en følsomhet i området 0,2 x 0,65.Følsomhetsfaktor x = (Io – Ia ) / IoIo = ionekammerstrøm i normaltilstandIa = ionekammerstrøm ved alarm.Andre typer røykprøver kan godkjennes i hvert enkelt tilfelle.Strålingsdetektorer skal utsettes for stråling fra en «standard prøveflamme» i 5 m avstand. Tidsrésponsen skal ikke overstige 5 sek.Videre skal strålingsdetektorenes følsomhet overfor andre lyskilder undersøkes. Disse lyskilder er:SollysElektrisk lysbueLys fra glødelampeLys direkte fra halogenlampeLys fra elektrisk lysrørAcetylen-sveiseflamme.
+Før miljøprøven skal detektoren gjennomgå en «brannprøve». Ved denne prøven skal detektoren utsettes for realistiske forhold i form av røyk, stråling og varme.
+
+1. Termiske detektorer skal prøves ifølge CEN 54, Part 5 (EN 54, Part 5) (CEN = CENELEC: Den europeiske komité for utarbeidelse av elektrotekniske normer).
+2. Røykdetektorer skal prøves i en røykkanal. De skal da ha en følsomhet i området 0,2 x 0,65.
+
+   Følsomhetsfaktor x = (Io – Ia ) / Io
+
+   Io = ionekammerstrøm i normaltilstand
+
+   Ia = ionekammerstrøm ved alarm.
+
+   Andre typer røykprøver kan godkjennes i hvert enkelt tilfelle.
+3. Strålingsdetektorer skal utsettes for stråling fra en «standard prøveflamme» i 5 m avstand. Tidsrésponsen skal ikke overstige 5 sek.
+
+   Videre skal strålingsdetektorenes følsomhet overfor andre lyskilder undersøkes. Disse lyskilder er:
+
+   - Sollys
+   - Elektrisk lysbue
+   - Lys fra glødelampe
+   - Lys direkte fra halogenlampe
+   - Lys fra elektrisk lysrør
+   - Acetylen-sveiseflamme.
 
 Lyset skal både være fast og opphakket med en frekvens på ca. 10 Hz. Følsomhet og tidsrespons registreres her for å gi inntrykk av detektorens følsomhet for falske brannsymptomer.
 
@@ -1374,11 +1461,29 @@ Flammen fra et kar med mål 300 x 300 x 150 mm fylt med 1 liter dieselolje og 0,
 
 5.2.
 
-Miljøprøve.For hvert trinn i miljøprøven skal detektoren gjennomgå en funksjonsprøve. Denne prøve skal enkelt kunne gjennomføres, og den skal være reproduserbar slik at man får et kvantitativt mål for hvordan detektorens ytelser endres under prøven. Produsenten skal fremsende forslag til fremgangsmåte for en funksjonsprøve som tilfredsstiller disse krav.Som funksjonsprøve kan også brannprøven i nr. 5.1. benyttes.Under miljøprøven skal detektorens tidsrespons og følsomhet noteres, slik at vesentlige endringer i løpet av prøven skal medføre at detektoren underkastes nærmere undersøkelser, og eventuelt forkastes.Termiske detektorer prøves ifølge CEN 54, Part 5 (EN 54, Part 5).Miljøprøven foregår ifølge blokkskjema i figur 1. (Fig. 1 utelatt.)
+Miljøprøve.
+
+1. For hvert trinn i miljøprøven skal detektoren gjennomgå en funksjonsprøve. Denne prøve skal enkelt kunne gjennomføres, og den skal være reproduserbar slik at man får et kvantitativt mål for hvordan detektorens ytelser endres under prøven. Produsenten skal fremsende forslag til fremgangsmåte for en funksjonsprøve som tilfredsstiller disse krav.
+
+   Som funksjonsprøve kan også brannprøven i nr. 5.1. benyttes.
+2. Under miljøprøven skal detektorens tidsrespons og følsomhet noteres, slik at vesentlige endringer i løpet av prøven skal medføre at detektoren underkastes nærmere undersøkelser, og eventuelt forkastes.
+3. Termiske detektorer prøves ifølge CEN 54, Part 5 (EN 54, Part 5).
+4. Miljøprøven foregår ifølge blokkskjema i figur 1. (Fig. 1 utelatt.)
 
 5.3.
 
-Funksjonsprøve (IEC 68-1).Før miljøprøvene blir utført, skal en funksjonsprøve gjennomføres i standard atmosfæreforhold:- Temperatur:+15° C til + 35° C- Relativ fuktighet:45 % – 75 %- Lufttrykk:860 – 1060 millibar.De øvrige atmosfæreparametere tillegges ingen betydning.Funksjonsprøve skal foretas mellom hver av de etterfølgende miljøprøver, og skal omfatte alle kontroll-, feilvarslings- og alarmfunksjoner.
+Funksjonsprøve (IEC 68-1).
+
+1. Før miljøprøvene blir utført, skal en funksjonsprøve gjennomføres i standard atmosfæreforhold:
+
+   |  |  |
+   | --- | --- |
+   | - Temperatur: | +15° C til + 35° C |
+   | - Relativ fuktighet: | 45 % – 75 % |
+   | - Lufttrykk: | 860 – 1060 millibar. |
+
+   De øvrige atmosfæreparametere tillegges ingen betydning.
+2. Funksjonsprøve skal foretas mellom hver av de etterfølgende miljøprøver, og skal omfatte alle kontroll-, feilvarslings- og alarmfunksjoner.
 
 5.4.
 
@@ -1516,7 +1621,11 @@ Detektorer og alarmorganer monteres på vantette koplingsbokser. På fartøy ove
 
 1\.
 
-For å oppnå en optimal overvåking av maskinrom bør en fullstendig detektorinstallasjon bestå av en kombinasjon av:Termiske detektorerRøk/ione-detektorerFlammedetektorer.
+For å oppnå en optimal overvåking av maskinrom bør en fullstendig detektorinstallasjon bestå av en kombinasjon av:
+
+- Termiske detektorer
+- Røk/ione-detektorer
+- Flammedetektorer.
 
 Det vises til forskrifter av 17. juni 1986 om sikringstiltak mot brann på skip som angir når et automatisk brannalarm- og brannoppdagelsessystem er forlangt.
 
@@ -1548,7 +1657,10 @@ Det anbefales at detektorinstallasjonen baseres på universal-sløyfer med unive
 
 ### Bilag 2 til vedlegg III. Retningslinjer for godkjennelse av installert branndeteksjons- og varslingsutstyr.
 
-Før en branndeteksjons- og varslingsinstallasjon kan godkjennes, skal den ferdige installasjon underkastes:FunksjonsprøverFølsomhetsprøver.
+Før en branndeteksjons- og varslingsinstallasjon kan godkjennes, skal den ferdige installasjon underkastes:
+
+1. Funksjonsprøver
+2. Følsomhetsprøver.
 
 Endelig godkjennelse er avhengig av positivt resultat fra disse prøver.
 

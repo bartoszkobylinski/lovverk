@@ -28,13 +28,22 @@ Mesterbrevnemnda fastsetter i hvilke fag det kan utstedes mesterbrev.
 
 ## § 2.
 
-Vilkår for tildeling av Mesterbrev skal i alminnelighet være at søkeren:er myndig og fast bosatt i riket. Vilkåret om å være fast bosatt i riket gjelder ikke for statsborgere i stater som er parter i EØS-avtalen når de er bosatt i en slik stat,har avlagt svenneprøve/fagprøve i fag under mesterbrevordningen,har minst 6 års praksis i faget eller minst 2 års praksis i faget etter svenneprøve/fagprøve,har avlagt eksamen i fagets mesterprøve fastsatt av Mesterbrevnemnda.
+Vilkår for tildeling av Mesterbrev skal i alminnelighet være at søkeren:
+
+1. er myndig og fast bosatt i riket. Vilkåret om å være fast bosatt i riket gjelder ikke for statsborgere i stater som er parter i EØS-avtalen når de er bosatt i en slik stat,
+2. har avlagt svenneprøve/fagprøve i fag under mesterbrevordningen,
+3. har minst 6 års praksis i faget eller minst 2 års praksis i faget etter svenneprøve/fagprøve,
+4. har avlagt eksamen i fagets mesterprøve fastsatt av Mesterbrevnemnda.
 
 Mesterbrevnemnda kan også godta annen utdanning og praksis, samt likeverdig utdanning fra utlandet.
 
 ## § 3.
 
-Disse tildeles mesterbrev ved å la seg registrere hos Mesterbrevnemndas sekretariat (Norges Håndverksforbund) innen 15. januar 1988:Person med håndverksbrev.Person med håndverksrett.Godkjent entreprenør i husbygging i mur og stein eller tre, jf. [Entreprenørloven av 24. oktober 1952](lov/1952-10-24) og forskriftenes [§ 1](lov/1952-10-24/§1) A og B.
+Disse tildeles mesterbrev ved å la seg registrere hos Mesterbrevnemndas sekretariat (Norges Håndverksforbund) innen 15. januar 1988:
+
+1. Person med håndverksbrev.
+2. Person med håndverksrett.
+3. Godkjent entreprenør i husbygging i mur og stein eller tre, jf. [Entreprenørloven av 24. oktober 1952](lov/1952-10-24) og forskriftenes [§ 1](lov/1952-10-24/§1) A og B.
 
 ## § 4.
 
@@ -60,4 +69,6 @@ Søknader kan avslås dersom søker har benyttet ettergjorte eller forfalskede d
 
 Mesterbrevnemndas nektelse av å tildele mesterbrev kan påklages til Klagenemnda innen 3 uker etter at søkeren er blitt kjent med avgjørelse. Det samme kan Nemndas avgjørelse etter [lovens § 3](forskrift/2000-12-08-1280/§3). Klage sendes via Mesterbrevnemnda.
 
-Forskriften trer i kraft straks, og fra samme tidspunkt oppheves:[Forskrift av 25. oktober 1994 nr. 995](forskrift/1994-10-25-995) om vilkår for å få mesterbrev.
+Forskriften trer i kraft straks, og fra samme tidspunkt oppheves:
+
+- [Forskrift av 25. oktober 1994 nr. 995](forskrift/1994-10-25-995) om vilkår for å få mesterbrev.

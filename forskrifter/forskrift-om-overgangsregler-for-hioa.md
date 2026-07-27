@@ -28,7 +28,16 @@ Formålet med forskriften er å sikre at gjeldende regelverk for Høgskolen i Os
 
 ## § 2. Regelverk
 
-Følgende forskrifter, og retningslinjer som følger av disse og andre sentrale forskrifter, skal gjelde ved Høgskolen i Oslo og Akershus inntil nye felles forskrifter og retningslinjer trer i kraft:[Forskrift 13. september 2005 nr. 1088](forskrift/2005-09-13-1088) om graden philosophiae doctor (ph.d.) ved Høgskolen i Oslo.[Forskrift 1. desember 2005 nr. 1434](forskrift/2005-12-01-1434) om bachelorgraden ved Høgskolen i Oslo.[Forskrift 1. desember 2005 nr. 1795](forskrift/2005-12-01-1795) om opptak til masterstudier ved Høgskolen i Oslo.[Forskrift 31. januar 2007 nr. 221](forskrift/2007-01-31-221) om opptak til studier ved Høgskolen i Akershus.Forskrift om opptak til studier med lokalt opptak ved Høgskolen i Oslo. Fastsatt av styret for Høgskolen i Oslo 10. mai 2007.[Forskrift 25. februar 2009 nr. 402](forskrift/2009-02-25-402) for graden philosophiae doctor (Ph.D.) ved Høgskolen i Akershus.[Forskrift 11. juni 2009 nr. 652](forskrift/2009-06-11-652) om studier og eksamen ved Høgskolen i Oslo.[Forskrift 18. juni 2010 nr. 841](forskrift/2010-06-18-841) om studier og eksamen ved Høgskolen i Akershus.
+Følgende forskrifter, og retningslinjer som følger av disse og andre sentrale forskrifter, skal gjelde ved Høgskolen i Oslo og Akershus inntil nye felles forskrifter og retningslinjer trer i kraft:
+
+1. [Forskrift 13. september 2005 nr. 1088](forskrift/2005-09-13-1088) om graden philosophiae doctor (ph.d.) ved Høgskolen i Oslo.
+2. [Forskrift 1. desember 2005 nr. 1434](forskrift/2005-12-01-1434) om bachelorgraden ved Høgskolen i Oslo.
+3. [Forskrift 1. desember 2005 nr. 1795](forskrift/2005-12-01-1795) om opptak til masterstudier ved Høgskolen i Oslo.
+4. [Forskrift 31. januar 2007 nr. 221](forskrift/2007-01-31-221) om opptak til studier ved Høgskolen i Akershus.
+5. Forskrift om opptak til studier med lokalt opptak ved Høgskolen i Oslo. Fastsatt av styret for Høgskolen i Oslo 10. mai 2007.
+6. [Forskrift 25. februar 2009 nr. 402](forskrift/2009-02-25-402) for graden philosophiae doctor (Ph.D.) ved Høgskolen i Akershus.
+7. [Forskrift 11. juni 2009 nr. 652](forskrift/2009-06-11-652) om studier og eksamen ved Høgskolen i Oslo.
+8. [Forskrift 18. juni 2010 nr. 841](forskrift/2010-06-18-841) om studier og eksamen ved Høgskolen i Akershus.
 
 ## § 3. Delegering av myndighet
 

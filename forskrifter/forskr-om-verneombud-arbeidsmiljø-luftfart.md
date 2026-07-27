@@ -28,4 +28,7 @@ eu_basis: []
 
 ## II
 
-Med hjemmel i § 10 i forskrifter til § 2 nr. 4 i [lov 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v. fastsettes at følgende forskrifter gjøres gjeldende fra 1. april 1986 for luftfart som omfattes av arbeidsmiljøloven:Forskrift om verneombud og arbeidsmiljøutvalg fastsatt ved kgl.res. 29. april 1977 i medhold av [lov av 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v. [§ 3](lov/1977-02-04-4/§3) nr. 2, [§§ 23-26](lov/1977-02-04-4/§23) og § [29](lov/1977-02-04-4/§29) nr. 2.Forskrifter om tvangsmulkt fastsatt ved kgl.res. 3. juni 1977 i medhold av [lov 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø [§ 78](lov/1977-02-04-4/§78) femte ledd.
+Med hjemmel i § 10 i forskrifter til § 2 nr. 4 i [lov 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v. fastsettes at følgende forskrifter gjøres gjeldende fra 1. april 1986 for luftfart som omfattes av arbeidsmiljøloven:
+
+- Forskrift om verneombud og arbeidsmiljøutvalg fastsatt ved kgl.res. 29. april 1977 i medhold av [lov av 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v. [§ 3](lov/1977-02-04-4/§3) nr. 2, [§§ 23-26](lov/1977-02-04-4/§23) og § [29](lov/1977-02-04-4/§29) nr. 2.
+- Forskrifter om tvangsmulkt fastsatt ved kgl.res. 3. juni 1977 i medhold av [lov 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø [§ 78](lov/1977-02-04-4/§78) femte ledd.

@@ -34,9 +34,18 @@ Tilskudd fra ordningen kan tildeles frivillige og ideelle organisasjoner og stif
 
 ## § 3. Tildelingskriterier
 
-Følgende tiltak kan støttes:Opprydding av marin forsøpling, og koordinering av slike prosjekter ogProsjekter med hensikt å forebygge marin forsøpling.
+Følgende tiltak kan støttes:
 
-Tiltaket skal videre oppfylle følgende tildelingskriterier:Tiltaket skal bidra til å redusere marin forsøpling,Tiltaket skal skje i norske områder, inkludert Svalbard,Prinsippet om at forurenser betaler skal ligge til grunn,Søker og deltakere i prosjektet skal bidra med egeninnsats ogSøker må ha tilstrekkelig kompetanse til å gjennomføre tiltaket.
+1. Opprydding av marin forsøpling, og koordinering av slike prosjekter og
+2. Prosjekter med hensikt å forebygge marin forsøpling.
+
+Tiltaket skal videre oppfylle følgende tildelingskriterier:
+
+1. Tiltaket skal bidra til å redusere marin forsøpling,
+2. Tiltaket skal skje i norske områder, inkludert Svalbard,
+3. Prinsippet om at forurenser betaler skal ligge til grunn,
+4. Søker og deltakere i prosjektet skal bidra med egeninnsats og
+5. Søker må ha tilstrekkelig kompetanse til å gjennomføre tiltaket.
 
 Årlige satsingsområder og prioriteringer for tilskuddsordningen kunngjøres i utlysningen.
 

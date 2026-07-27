@@ -15,7 +15,7 @@ xml_hash: "7fd36501358e3ed7194f097bc0ddaaa7abca0904e0e0e6810a8eaf201a297122"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,10 @@ Tvungent betalingsmiddel skal være av en slik kvalitet at det med letthet skal 
 
 Sedler inneholder flere sikkerhetselementer som gjør det mulig å ekthetskontrollere selv sterkt skadde sedler både manuelt og ved maskinell behandling.
 
-Sedler med følgende avvik er likevel å anse som så sterkt skadde, at de ikke lenger er tvungent betalingsmiddel:Slitasje, skade eller andre endringer som vanskeliggjør gjenkjenning, for eksempel at flere av de synlige sikkerhetselementene ikke kan verifiseres.Mer enn 5 % av seddelens areal er borte.
+Sedler med følgende avvik er likevel å anse som så sterkt skadde, at de ikke lenger er tvungent betalingsmiddel:
+
+- Slitasje, skade eller andre endringer som vanskeliggjør gjenkjenning, for eksempel at flere av de synlige sikkerhetselementene ikke kan verifiseres.
+- Mer enn 5 % av seddelens areal er borte.
 
 *Mynter*
 
@@ -44,7 +47,11 @@ I utgangspunktet skal alle mynter i sirkulasjon ha samme diameter, kanttykkelse,
 
 Mynt som er deformert eller har større visuelle avvik fra ny mynt eller vesentlige avvik i farge anses som sterkt skadet, og er ikke tvungent betalingsmiddel.
 
-Større visuelle avvik vil være:svekket eller utydeliggjort preg, slik at en ikke lett kan se detaljeneat tall eller skrift ikke er tydelig lesbareat den er deformert, dvs. kraftige hakk eller bøyer, eller på annen måte endret form (ikke rund, osv.).
+Større visuelle avvik vil være:
+
+- svekket eller utydeliggjort preg, slik at en ikke lett kan se detaljene
+- at tall eller skrift ikke er tydelig lesbare
+- at den er deformert, dvs. kraftige hakk eller bøyer, eller på annen måte endret form (ikke rund, osv.).
 
 Norges Bank angir ved behov nærmere retningslinjer for kjennetegn på sedler og mynter med større avvik etter denne bestemmelsen.
 

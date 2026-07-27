@@ -15,7 +15,7 @@ xml_hash: "fd01545ada6bb25b116c6faf08f0876e8c2c0a3ae2450be3c82d25ae8ca4baa9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,9 +52,24 @@ Eier av kjøretøy som nevnt i [§ 4](forskrift/2009-05-13-591/§4), plikter å 
 
 ### § 4. Kjøretøy som er underlagt periodisk kontroll
 
-Kravet om periodisk kontroll gjelder for:personbiler med tillatt totalvekt over 7 500 kg (bil gruppe M1), busser (bil gruppe M2 og M3) og lastebiler (bil gruppe N2 og N3),tilhengere, herunder semitrailere, med tillatt totalvekt over 3 500 kg,drosjer, selskapsvogner, ambulanser, herunder leilighetsambulanser, uansett totalvekt,personbiler med tillatt totalvekt ikke over 7 500 kg (bil gruppe M1) og varebiler (bil gruppe N1),traktor førstegangsregistrert fra og med 1. juli 2005 med tillatt totalvekt over 3 500 kg, som er konstruert for en hastighet over 40 km/t,motorredskap registrert som mobilkran ellertilhenger med tillatt totalvekt på 3 500 kg eller mindre, som er godkjent for Tempo 100.
+Kravet om periodisk kontroll gjelder for:
 
-Kravet til periodisk kontroll gjelder likevel ikke hvis kjøretøyet er:produsert eller registrert før 1. januar 1960,registrert for bruk utenfor offentlig veg eller som lisensiert rally bil (kjennemerke med sort bunn),tatt ut av bruk (avregistrert),registrert på forsvaret (kjennemerke med gul bunn),omfattet av [forskrift 28. mars 1967 nr. 9350 om bruk av utenlandsk motorvogn i riket og om særskilt registrering av motorvogn for midlertidig bruk](forskrift/1967-03-28-9350) ellerregistrert som tilhenger for traktor.
+1. personbiler med tillatt totalvekt over 7 500 kg (bil gruppe M1), busser (bil gruppe M2 og M3) og lastebiler (bil gruppe N2 og N3),
+2. tilhengere, herunder semitrailere, med tillatt totalvekt over 3 500 kg,
+3. drosjer, selskapsvogner, ambulanser, herunder leilighetsambulanser, uansett totalvekt,
+4. personbiler med tillatt totalvekt ikke over 7 500 kg (bil gruppe M1) og varebiler (bil gruppe N1),
+5. traktor førstegangsregistrert fra og med 1. juli 2005 med tillatt totalvekt over 3 500 kg, som er konstruert for en hastighet over 40 km/t,
+6. motorredskap registrert som mobilkran eller
+7. tilhenger med tillatt totalvekt på 3 500 kg eller mindre, som er godkjent for Tempo 100.
+
+Kravet til periodisk kontroll gjelder likevel ikke hvis kjøretøyet er:
+
+1. produsert eller registrert før 1. januar 1960,
+2. registrert for bruk utenfor offentlig veg eller som lisensiert rally bil (kjennemerke med sort bunn),
+3. tatt ut av bruk (avregistrert),
+4. registrert på forsvaret (kjennemerke med gul bunn),
+5. omfattet av [forskrift 28. mars 1967 nr. 9350 om bruk av utenlandsk motorvogn i riket og om særskilt registrering av motorvogn for midlertidig bruk](forskrift/1967-03-28-9350) eller
+6. registrert som tilhenger for traktor.
 
 Traktor som regulert i [§ 4](forskrift/2009-05-13-591/§4) første ledd bokstav e som brukes til egentransport i primærnæring, kan etter egenerklæring fra eier unntas fra kravet om periodisk kontroll. Unntak gis av Statens vegvesen. Brukes traktoren til annet enn egentransport i primærnæring eller til brøyting, snørydding, vedlikeholdsarbeid eller lignende formål på offentlig veg, kan det ikke gjøres unntak fra kravet om periodisk kontroll.
 
@@ -102,7 +117,13 @@ Med periodisk kontroll i første til og med femte ledd menes ikke etterkontroll.
 
 ### § 7. Kategorier av kontrollorgan
 
-Godkjenning av kontrollorgan blir gitt av Statens vegvesen for følgende kategorier:*Kontrollorgan 01:* Kontrollorgan for periodisk kontroll av kjøretøy med tillatt totalvekt ikke over 3 500 kg, med unntak av traktor. Disse kontrollorganene kan godkjennes spesielt for kontroll av kjøretøy med tillatt totalvekt ikke over 7 500 kg og som er utstyrt med hydraulisk bremseanlegg.*Kontrollorgan 02:* Kontrollorgan for periodisk kontroll av kjøretøy med tillatt totalvekt 3 501 kg til 7 500 kg, med unntak av traktor.*Kontrollorgan 03:* Kontrollorgan for periodisk kontroll av kjøretøy med tillatt totalvekt over 7 500 kg, med unntak av traktor.*Kontrollorgan 04:* Kontrollorgan for periodisk kontroll av alle kjøretøy, med unntak av traktor.*Kontrollorgan 05:* Kontrollorgan for periodisk kontroll av traktor.
+Godkjenning av kontrollorgan blir gitt av Statens vegvesen for følgende kategorier:
+
+1. *Kontrollorgan 01:* Kontrollorgan for periodisk kontroll av kjøretøy med tillatt totalvekt ikke over 3 500 kg, med unntak av traktor. Disse kontrollorganene kan godkjennes spesielt for kontroll av kjøretøy med tillatt totalvekt ikke over 7 500 kg og som er utstyrt med hydraulisk bremseanlegg.
+2. *Kontrollorgan 02:* Kontrollorgan for periodisk kontroll av kjøretøy med tillatt totalvekt 3 501 kg til 7 500 kg, med unntak av traktor.
+3. *Kontrollorgan 03:* Kontrollorgan for periodisk kontroll av kjøretøy med tillatt totalvekt over 7 500 kg, med unntak av traktor.
+4. *Kontrollorgan 04:* Kontrollorgan for periodisk kontroll av alle kjøretøy, med unntak av traktor.
+5. *Kontrollorgan 05:* Kontrollorgan for periodisk kontroll av traktor.
 
 Godkjenning som kontrollorgan nevnt i første ledd inkluderer også kontroll av tilhengere i kategori O1 og O2.
 
@@ -120,7 +141,36 @@ Kontrollorgan godkjent etter denne forskrift, kan etter skriftlig søknad til St
 
 Lokaler og teknisk utstyr skal være egnet til formålet og ha nødvendige tillatelser.
 
-I tillegg til nødvendig håndverktøy skal kontrollorgan ha følgende utstyr, avhengig av hvilke kjøretøytyper som omfattes av kontrollorganets godkjenning:Bremseprøver som er tilpasset de kjøretøyer som kontrollorganet har godkjenning for å kontrollere.For bremseprøver gjelder følgende minimumskrav til overkjøringsvekt:Kontrollorgan godkjent for totalvekt til og med 3 500 kg: 2 000 kg.Kontrollorgan godkjent for totalvekt fra 3 501 kg til og med 7 500 kg: 4 000 kg.Kontrollorgan godkjent for totalvekt over 7 500 kg: 13 000 kg.Kontrollorgan som er godkjent for å kontrollere kjøretøy med trykkluftmekaniske bremser skal ha rullebremseprøver som kan brukes for kontroll etter referanseverdimetoden og ettpunktsmetoden. Slik rullebremseprøver skal være i samsvar med Anneks A i ISO 21069-1 med de begrensingene som er beskrevet i Kontrollinstruks for periodisk kontroll av kjøretøy.Kjørebaneløfter eller arbeidsgrav, begge med traversjekk. For kjørebaneløfter gjelder følgende minimumskrav til løftekapasitet:Kontrollorgan godkjent for totalvekt til og med 3 500 kg: 3 000 kg.Kontrollorgan godkjent for totalvekt fra 3 501 kg til og med 7 500 kg: 5 000 kg.Kontrollorgan godkjent for totalvekt over 7 500 kg: 20 000 kg.Kontrollorgan godkjent for å kontrollere kjøretøy med tillatt totalvekt over 3 500 kg skal ha registrerende retardasjonsmåler som viser aktuell retardasjon. Skriver er ikke påkrevd.Egnet lyskontrollapparat, samt kontrollområde i tråd med kravene gitt i merknad til kjøretøyforskriften § 28.Kontrollorgan godkjent for å kontrollere kjøretøy med trykkluftmekaniske bremser skal ha pedaljekk.Kontrollorgan godkjent for å kontrollere kjøretøy med trykkluftmekaniske bremser skal ha manometer og mellomstykke for måling av styre-/matetrykk og klokketrykk.Avgassmåleinstrument i samsvar med kravene i [forskrift 21. desember 2007 nr. 1744 om krav til avgassmålere](forskrift/2007-12-21-1744).Lydmåler minimum i samsvar med Presision Sound Level Meter, Type 1, som tilfredsstiller IEC 61672-1.Røykmåler av type opacimeter, i samsvar med rådsdirektiv [72/306/EØF vedlegg VII](eu/31972l0306/vedleggVII) med senere endringer. Røykmålerens røykkammer med tilførselsslanger skal kunne brukes ned til – 10 °C uten at eksosen kondenseres før eller inne i røykkammeret.Datautstyr og tilgang til programvare for elektronisk rapportering av resultatet på utførte kjøretøykontroller til Statens vegvesen.Egnet utstyr for påvisning av drivstofflekkasje i gassdrevne kjøretøy (LNG/CNG/LPG).Kontrollorgan godkjent for å kontrollere kjøretøy med tillatt totalvekt over 3 500 kg skal ha slitasjetester med bevegelse på langs og på tvers på minst 95 mm og bevegelseshastighet på 5–15 cm/s.Utstyr for OBD-avlesning for minimum kontroll av kjøretøyenes elektroniske utslippskontrollsystem som tilfredsstiller kravene i ISO-standard 15031 del 3–7.Kontrollorgan godkjent for å kontrollere traktor skal ha manometer og tilkobling for å kontrollere hydraulisk uttak for tilkobling av tilhenger.Kontrollorgan som kontrollerer kjøretøy med hydrauliske bremser skal ha utstyr for måling av kokepunkt på bremsevæske. Måleområde 120 °C til 210 °C, måleusikkerhet maksimalt 15 °C.Kontrollorgan som kontrollerer tilhengere med påløpsbremseanlegg skal ha utstyr til funksjonskontroll av tilhengers påløpsbremseanlegg.
+I tillegg til nødvendig håndverktøy skal kontrollorgan ha følgende utstyr, avhengig av hvilke kjøretøytyper som omfattes av kontrollorganets godkjenning:
+
+1. Bremseprøver som er tilpasset de kjøretøyer som kontrollorganet har godkjenning for å kontrollere.
+
+   For bremseprøver gjelder følgende minimumskrav til overkjøringsvekt:
+
+   1. Kontrollorgan godkjent for totalvekt til og med 3 500 kg: 2 000 kg.
+   2. Kontrollorgan godkjent for totalvekt fra 3 501 kg til og med 7 500 kg: 4 000 kg.
+   3. Kontrollorgan godkjent for totalvekt over 7 500 kg: 13 000 kg.
+
+   Kontrollorgan som er godkjent for å kontrollere kjøretøy med trykkluftmekaniske bremser skal ha rullebremseprøver som kan brukes for kontroll etter referanseverdimetoden og ettpunktsmetoden. Slik rullebremseprøver skal være i samsvar med Anneks A i ISO 21069-1 med de begrensingene som er beskrevet i Kontrollinstruks for periodisk kontroll av kjøretøy.
+2. Kjørebaneløfter eller arbeidsgrav, begge med traversjekk. For kjørebaneløfter gjelder følgende minimumskrav til løftekapasitet:
+
+   1. Kontrollorgan godkjent for totalvekt til og med 3 500 kg: 3 000 kg.
+   2. Kontrollorgan godkjent for totalvekt fra 3 501 kg til og med 7 500 kg: 5 000 kg.
+   3. Kontrollorgan godkjent for totalvekt over 7 500 kg: 20 000 kg.
+3. Kontrollorgan godkjent for å kontrollere kjøretøy med tillatt totalvekt over 3 500 kg skal ha registrerende retardasjonsmåler som viser aktuell retardasjon. Skriver er ikke påkrevd.
+4. Egnet lyskontrollapparat, samt kontrollområde i tråd med kravene gitt i merknad til kjøretøyforskriften § 28.
+5. Kontrollorgan godkjent for å kontrollere kjøretøy med trykkluftmekaniske bremser skal ha pedaljekk.
+6. Kontrollorgan godkjent for å kontrollere kjøretøy med trykkluftmekaniske bremser skal ha manometer og mellomstykke for måling av styre-/matetrykk og klokketrykk.
+7. Avgassmåleinstrument i samsvar med kravene i [forskrift 21. desember 2007 nr. 1744 om krav til avgassmålere](forskrift/2007-12-21-1744).
+8. Lydmåler minimum i samsvar med Presision Sound Level Meter, Type 1, som tilfredsstiller IEC 61672-1.
+9. Røykmåler av type opacimeter, i samsvar med rådsdirektiv [72/306/EØF vedlegg VII](eu/31972l0306/vedleggVII) med senere endringer. Røykmålerens røykkammer med tilførselsslanger skal kunne brukes ned til – 10 °C uten at eksosen kondenseres før eller inne i røykkammeret.
+10. Datautstyr og tilgang til programvare for elektronisk rapportering av resultatet på utførte kjøretøykontroller til Statens vegvesen.
+11. Egnet utstyr for påvisning av drivstofflekkasje i gassdrevne kjøretøy (LNG/CNG/LPG).
+12. Kontrollorgan godkjent for å kontrollere kjøretøy med tillatt totalvekt over 3 500 kg skal ha slitasjetester med bevegelse på langs og på tvers på minst 95 mm og bevegelseshastighet på 5–15 cm/s.
+13. Utstyr for OBD-avlesning for minimum kontroll av kjøretøyenes elektroniske utslippskontrollsystem som tilfredsstiller kravene i ISO-standard 15031 del 3–7.
+14. Kontrollorgan godkjent for å kontrollere traktor skal ha manometer og tilkobling for å kontrollere hydraulisk uttak for tilkobling av tilhenger.
+15. Kontrollorgan som kontrollerer kjøretøy med hydrauliske bremser skal ha utstyr for måling av kokepunkt på bremsevæske. Måleområde 120 °C til 210 °C, måleusikkerhet maksimalt 15 °C.
+16. Kontrollorgan som kontrollerer tilhengere med påløpsbremseanlegg skal ha utstyr til funksjonskontroll av tilhengers påløpsbremseanlegg.
 
 Kontrollorgan godkjent for å kontrollere kjøretøy med tillatt totalvekt til og med 3500 kg skal ha utstyr for OBD-avlesning av OBFCM-data, jf. forordning [2021/392](eu/32021r0392) artikkel 10 og 11, som gjennomført i [forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy](forskrift/2018-12-28-2247) (M, N og O) [§ 1](forskrift/2018-12-28-2247/§1). Kontrollorgan som kun er godkjent for å kontrollere kjøretøy med tillatt totalvekt over 3500 kg skal også ha slikt utstyr, dersom de skal tilby periodisk kontroll av personbiler (M1).
 
@@ -128,7 +178,13 @@ Kontrollorgan som kun kontrollerer traktorer gis fritak for utstyr i henhold til
 
 Teknisk utstyr, inkludert måleinstrumentene, skal brukes og vedlikeholdes etter fabrikantens anvisninger.
 
-Måleinstrumenter i punkt a, c, d, g og i, jf. annet ledd, skal kalibreres ved bruk av akkreditert metode av kalibreringsorgan som er akkreditert etter ISO/IEC-standard 17025. Kalibreringen skal utføres innenfor følgende måleområde og måleresultatet skal vurderes mot følgende maksimalt tillatte målefeil:Bremseprøver: Bruksmessig måleområde og med maksimalt tillatte målefeil i henhold til ISO 21069-1, anneks A. Samme maksimalt tillatte målefeil skal også legges til grunn for bremseprøver som ikke er i samsvar med ISO-standard.Retardasjonsmåler: Måleområde mellom 0 og 8 m/s2 og med maksimalt tillatte målefeil +/– 0,2 m/s2.Lyskontrollapparat: Bruksmessig måleområde og med maksimalt tillatte målefeil +/– 3 mm pr. meter.Avgassmåler: Måleområde og maksimalt tillatte målefeil i samsvar med grenseverdiene angitt i [forskrift om krav til avgassmålere § 24](forskrift/2007-12-21-1744/§24) og [§ 26](forskrift/2007-12-21-1744/§26), klasse 1.Røykmåler: Bruksmessig måleområde og maksimalt tillatte målefeil +/– 0,3 m – 1.
+Måleinstrumenter i punkt a, c, d, g og i, jf. annet ledd, skal kalibreres ved bruk av akkreditert metode av kalibreringsorgan som er akkreditert etter ISO/IEC-standard 17025. Kalibreringen skal utføres innenfor følgende måleområde og måleresultatet skal vurderes mot følgende maksimalt tillatte målefeil:
+
+1. Bremseprøver: Bruksmessig måleområde og med maksimalt tillatte målefeil i henhold til ISO 21069-1, anneks A. Samme maksimalt tillatte målefeil skal også legges til grunn for bremseprøver som ikke er i samsvar med ISO-standard.
+2. Retardasjonsmåler: Måleområde mellom 0 og 8 m/s2 og med maksimalt tillatte målefeil +/– 0,2 m/s2.
+3. Lyskontrollapparat: Bruksmessig måleområde og med maksimalt tillatte målefeil +/– 3 mm pr. meter.
+4. Avgassmåler: Måleområde og maksimalt tillatte målefeil i samsvar med grenseverdiene angitt i [forskrift om krav til avgassmålere § 24](forskrift/2007-12-21-1744/§24) og [§ 26](forskrift/2007-12-21-1744/§26), klasse 1.
+5. Røykmåler: Bruksmessig måleområde og maksimalt tillatte målefeil +/– 0,3 m – 1.
 
 Øvrige måleinstrumenter skal kalibreres ved bruk av anerkjente kalibreringsmetoder. Kalibreringen skal være sporbar.
 
@@ -162,7 +218,13 @@ Statens vegvesen registrerer opplysninger, herunder personopplysninger, om tekni
 
 Teknisk leder ved kontrollorgan skal ha fagbrev og relevant praksis som nærmere fastsatt. Praksis skal være opparbeidet som kontrollør hos Statens vegvesen, ved godkjent kontrollorgan eller som mekaniker ved godkjent kjøretøyverksted. I tillegg skal teknisk leder være godkjent som kontrollør, jf. [§ 12](forskrift/2009-05-13-591/§12).
 
-Teknisk leder ved kontrollorgan skal oppfylle følgende krav:*Kontrollorgan 01:* Ved periodisk kontroll av kjøretøy med totalvekt 3 500 kg eller mindre: Fagbrev som «bilmekaniker av tunge kjøretøy» eller som «bilmekaniker av lette kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.*Kontrollorgan 02:* Ved periodisk kontroll av kjøretøy med totalvekt fra 3 501 kg til 7 500 kg: Fagbrev som «bilmekaniker tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.*Kontrollorgan 03:* Ved periodisk kontroll av kjøretøy med totalvekt over 7 500 kg: Fagbrev som «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.*Kontrollorgan 04:* Ved periodisk kontroll av alle kjøretøy: Fagbrev som «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.*Kontrollorgan 05:* Ved periodisk kontroll av traktor som er konstruert for en hastighet over 40 km/t: Fagbrev som «landbruksmaskinmekaniker», «anleggsmaskinmekaniker» eller «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+Teknisk leder ved kontrollorgan skal oppfylle følgende krav:
+
+1. *Kontrollorgan 01:* Ved periodisk kontroll av kjøretøy med totalvekt 3 500 kg eller mindre: Fagbrev som «bilmekaniker av tunge kjøretøy» eller som «bilmekaniker av lette kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+2. *Kontrollorgan 02:* Ved periodisk kontroll av kjøretøy med totalvekt fra 3 501 kg til 7 500 kg: Fagbrev som «bilmekaniker tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+3. *Kontrollorgan 03:* Ved periodisk kontroll av kjøretøy med totalvekt over 7 500 kg: Fagbrev som «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+4. *Kontrollorgan 04:* Ved periodisk kontroll av alle kjøretøy: Fagbrev som «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+5. *Kontrollorgan 05:* Ved periodisk kontroll av traktor som er konstruert for en hastighet over 40 km/t: Fagbrev som «landbruksmaskinmekaniker», «anleggsmaskinmekaniker» eller «bilmekaniker av tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
 
 Krav til teknisk leder anses videre oppfylt på bakgrunn av annen relevant utdanning eller praksis dersom Statens vegvesen finner denne likeverdig med forannevnte.
 
@@ -172,7 +234,11 @@ Krav til teknisk leder kan også anses oppfylt på bakgrunn av tilsvarende yrkes
 
 ### § 12. Krav til kontrollører
 
-Kontrollør for periodisk kontroll av kjøretøy skal være godkjent av Statens vegvesen. For å få godkjenning som kontrollør må vedkommendeha fagbrev tilpasset den kjøretøykategorien vedkommende skal godkjennes for.ha gjennomført grunnopplæring i periodisk kontroll av kjøretøy tilpasset den kjøretøykategorien vedkommende skal godkjennes for, jf. [forskrift 22. mai 2018 nr. 741 om opplæring i periodisk kontroll av kjøretøy § 5](forskrift/2018-05-22-741/§5).godtgjøre med ordinær politiattest at vandelen er slik at vedkommende anses skikket som kontrollør. Politiattesten som fremlegges kan ikke være eldre enn 3 måneder. Om kontrolløren anses skikket beror på en skjønnsmessig vurdering av om godkjenning ivaretar tilliten til kontrollordningen. Straff for uriktig forklaring til offentlig myndighet, dokumentfalsk, vinningslovbrudd, eller økonomisk kriminalitet vil særlig kunne medføre at kontrolløren ikke anses skikket.
+Kontrollør for periodisk kontroll av kjøretøy skal være godkjent av Statens vegvesen. For å få godkjenning som kontrollør må vedkommende
+
+1. ha fagbrev tilpasset den kjøretøykategorien vedkommende skal godkjennes for.
+2. ha gjennomført grunnopplæring i periodisk kontroll av kjøretøy tilpasset den kjøretøykategorien vedkommende skal godkjennes for, jf. [forskrift 22. mai 2018 nr. 741 om opplæring i periodisk kontroll av kjøretøy § 5](forskrift/2018-05-22-741/§5).
+3. godtgjøre med ordinær politiattest at vandelen er slik at vedkommende anses skikket som kontrollør. Politiattesten som fremlegges kan ikke være eldre enn 3 måneder. Om kontrolløren anses skikket beror på en skjønnsmessig vurdering av om godkjenning ivaretar tilliten til kontrollordningen. Straff for uriktig forklaring til offentlig myndighet, dokumentfalsk, vinningslovbrudd, eller økonomisk kriminalitet vil særlig kunne medføre at kontrolløren ikke anses skikket.
 
 Kontrollører som selv skal prøvekjøre kjøretøyene de kontrollerer må ha førerett for dette, jf. [forskrift 19. januar 2004 nr. 298](forskrift/2004-01-19-298) om førerkort m.m. Unntak i [førerkortforskriften § 12-2](forskrift/2004-01-19-298/§12-2) første ledd gjelder.
 
@@ -236,7 +302,15 @@ Teknisk leder plikter å føre tilsyn med at kontrollene organiseres og gjennomf
 
 ### § 14. Utforming og innhold av kvalitetsstyringssystemet
 
-Kvalitetsstyringssystemet skal minimum inneholde følgende:Beskrivelse av hvordan kontrollarbeidet er organisert; hvilke roller som inngår, hvilke oppgaver (arbeidsinstruks) som er knyttet til de ulike rollene og hvem som til enhver tid innehar de ulike rollene.Beskrivelse av hvilke krav til kompetanse som gjelder ved tilsetting i de ulike rollene, virksomhetens plan for vedlikehold av kompetanse samt registreringer av de ansattes faktiske kompetanse.Prosedyrebeskrivelse for gjennomføring og rapportering av kontroller.Prosedyrebeskrivelse for og registreringer av kontroll med kvaliteten på utførte kontroller og kontrollrapportering.Prosedyrebeskrivelse for og registreringer av periodisk kalibrering og systematisk vedlikehold av godkjenningspliktig utstyr, herunder registreringer av nødvendige sertifikater og godkjenningsattester for teknisk utstyr.Prosedyrebeskrivelse for sikring av habiliteten i kontrollgjennomføringen.Prosedyrebeskrivelse for og registreringer av avvikshåndtering
+Kvalitetsstyringssystemet skal minimum inneholde følgende:
+
+1. Beskrivelse av hvordan kontrollarbeidet er organisert; hvilke roller som inngår, hvilke oppgaver (arbeidsinstruks) som er knyttet til de ulike rollene og hvem som til enhver tid innehar de ulike rollene.
+2. Beskrivelse av hvilke krav til kompetanse som gjelder ved tilsetting i de ulike rollene, virksomhetens plan for vedlikehold av kompetanse samt registreringer av de ansattes faktiske kompetanse.
+3. Prosedyrebeskrivelse for gjennomføring og rapportering av kontroller.
+4. Prosedyrebeskrivelse for og registreringer av kontroll med kvaliteten på utførte kontroller og kontrollrapportering.
+5. Prosedyrebeskrivelse for og registreringer av periodisk kalibrering og systematisk vedlikehold av godkjenningspliktig utstyr, herunder registreringer av nødvendige sertifikater og godkjenningsattester for teknisk utstyr.
+6. Prosedyrebeskrivelse for sikring av habiliteten i kontrollgjennomføringen.
+7. Prosedyrebeskrivelse for og registreringer av avvikshåndtering
 
 > Endret ved [forskrifter 22 mai 2018 nr. 740](forskrift/2018-05-22-740) (i kraft 1 okt 2018), [27 jan 2022 nr. 140](forskrift/2022-01-27-140) (i kraft 1 feb 2022).
 
@@ -262,7 +336,12 @@ Ved endring av forhold som kan ha betydning for godkjenningen, herunder opphør,
 
 Ved en periodisk kontroll skal kontrolløren foreta en vurdering av alle kontrollpunktene som er oppført i kontrollinstruksen, jf. [§ 30](forskrift/2009-05-13-591/§30), og som er aktuelle for kjøretøyet. Etterkontroll jf. [§ 22](forskrift/2009-05-13-591/§22) annet ledd gjennomføres ved at et kontrollorgan foretar en vurdering av mangelmerknadene ilagt ved en periodisk kontroll.
 
-Følgende skala brukes ved bedømming av mangler:Mindre feil/mangel som må rettes, men som ikke har betydning for om kjøretøyet kan godkjennes.Større feil/mangel som vil føre til at Statens vegvesen ikke kan godkjenne kjøretøyet.Farlig feil/mangel som innebærer en umiddelbar fare for trafikksikkerhet eller miljø, og som vil føre til at Statens vegvesen ikke kan godkjenne kjøretøyet. Dette innebærer at det vedtas bruksforbud umiddelbart.På kontrolltidspunktet ikke mulig å måle på grunn av klimatiske forhold.
+Følgende skala brukes ved bedømming av mangler:
+
+1. Mindre feil/mangel som må rettes, men som ikke har betydning for om kjøretøyet kan godkjennes.
+2. Større feil/mangel som vil føre til at Statens vegvesen ikke kan godkjenne kjøretøyet.
+3. Farlig feil/mangel som innebærer en umiddelbar fare for trafikksikkerhet eller miljø, og som vil føre til at Statens vegvesen ikke kan godkjenne kjøretøyet. Dette innebærer at det vedtas bruksforbud umiddelbart.
+4. På kontrolltidspunktet ikke mulig å måle på grunn av klimatiske forhold.
 
 Kjøretøy som har fått ilagt mangelmerknader som gjør at kjøretøyet ikke kan godkjennes, fremstilles for etterkontroll etter første ledd, jf. [§ 22](forskrift/2009-05-13-591/§22) annet ledd.
 
@@ -330,9 +409,17 @@ Statens vegvesen fører tilsyn med kontrollorgan, tekniske ledere og kontrollør
 
 Kontrollorgan plikter å gi Statens vegvesen adgang til sine lokaler, og bistå slik det ellers er nødvendig for å gjennomføre tilsyn, herunder fremvise og utlevere dokumenter som angår kontrollgjennomføringen og virksomheten for øvrig.
 
-Statens vegvesen kan som en del av tilsynet undersøke om forskriftens krav er oppfylt, herunder krav tillokaler, utstyr, kompetanse, registrering og rapportering, habilitet og kvalitetsstyringkontrollenes innhold, metoder ved kontroll og vurdering av mangler.
+Statens vegvesen kan som en del av tilsynet undersøke om forskriftens krav er oppfylt, herunder krav til
 
-Tilsyn med kontrollenes innhold, metoder ved kontroll og vurdering av mangler kan blant annet skje vedstikkprøvekontroll i Statens vegvesens lokaler, hos kontrollorgan eller ved kontroll av kjøretøy langs veg, herunder gjøre bruk av utstyr for elektronisk avlesing av kjennemerker på passerende kjøretøy for utvelgelse til kontrollanalyse av kontrollresultater (statistiske metoder)kontroll hvor det kan gjøres bruk av kjøretøy med manglermålrettet kontroll basert på eksempelvis klage, tips, eller tidligere avdekkede uregelmessigheter.
+1. lokaler, utstyr, kompetanse, registrering og rapportering, habilitet og kvalitetsstyring
+2. kontrollenes innhold, metoder ved kontroll og vurdering av mangler.
+
+Tilsyn med kontrollenes innhold, metoder ved kontroll og vurdering av mangler kan blant annet skje ved
+
+1. stikkprøvekontroll i Statens vegvesens lokaler, hos kontrollorgan eller ved kontroll av kjøretøy langs veg, herunder gjøre bruk av utstyr for elektronisk avlesing av kjennemerker på passerende kjøretøy for utvelgelse til kontroll
+2. analyse av kontrollresultater (statistiske metoder)
+3. kontroll hvor det kan gjøres bruk av kjøretøy med mangler
+4. målrettet kontroll basert på eksempelvis klage, tips, eller tidligere avdekkede uregelmessigheter.
 
 For å utføre stikkprøvekontroll på kjøretøy kan Statens vegvesen pålegge eier eller rådighetshaver å ikke benytte kjøretøyet før stikkprøvekontrollen er gjennomført etter nærmere retningslinjer fra Statens vegvesen. Kontrollorganet plikter å medvirke til stikkprøvekontrollen.
 
@@ -354,7 +441,13 @@ Dersom retting ikke er foretatt innen gitt frist, kan Statens vegvesen fastsette
 
 For mindre vesentlige forhold kan det gis advarsel.
 
-Statens vegvesen kan midlertidig eller permanent tilbakekalle kontrollorganets godkjenning dersom det avdekkesvesentlige eller gjentatte avvik fra kravene til lokaler, utstyr, kompetanse, registrering og rapportering, habilitet eller kvalitetsstyring.vesentlige eller gjentatte avvik fra kravene til kontrollenes innhold, metode og vurderinger.at pålegg som er nødvendig for å sikre at kontrollene utføres i samsvar med forskriften ikke etterkommes eller at skriftlig advarsel ikke tas til følge.at kontrollorganet unndrar seg tilsyn.at det utføres kontroll som kontrollorganet ikke er godkjent for.
+Statens vegvesen kan midlertidig eller permanent tilbakekalle kontrollorganets godkjenning dersom det avdekkes
+
+1. vesentlige eller gjentatte avvik fra kravene til lokaler, utstyr, kompetanse, registrering og rapportering, habilitet eller kvalitetsstyring.
+2. vesentlige eller gjentatte avvik fra kravene til kontrollenes innhold, metode og vurderinger.
+3. at pålegg som er nødvendig for å sikre at kontrollene utføres i samsvar med forskriften ikke etterkommes eller at skriftlig advarsel ikke tas til følge.
+4. at kontrollorganet unndrar seg tilsyn.
+5. at det utføres kontroll som kontrollorganet ikke er godkjent for.
 
 I vurderingen av om en godkjenning skal tilbakekalles skal det tas hensyn til i hvilken grad kontrollorganets administrative ledelse kan bebreides for overtredelsene nevnt i fjerde ledd.
 

@@ -36,5 +36,9 @@ eu_basis: []
 ## II
 
 1. Alle kunngjøringer fra offentlig myndighet kan tas inn i Norsk Lysingsblad. Når det er tvil, avgjør Forbruker- og administrasjonsdepartementet om en kunngjøring går inn under denne bestemmelse.
-2. I Norsk Lysingsblad kan tas inn kunngjøringer om:Kreditorinnkallinger vedkommende underhåndsordninger i insolvente boer.Uttrekning m.v. av private selskapers ihendehaverobligasjoner.Stipendier og legater.
+2. I Norsk Lysingsblad kan tas inn kunngjøringer om:
+
+   1. Kreditorinnkallinger vedkommende underhåndsordninger i insolvente boer.
+   2. Uttrekning m.v. av private selskapers ihendehaverobligasjoner.
+   3. Stipendier og legater.
 3. Når særlige grunner gjør det ønskelig, kan Forbruker- og administrasjonsdepartementet bestemme at også annen kunngjøring skal kunne tas inn i bladet.

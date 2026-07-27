@@ -15,7 +15,7 @@ xml_hash: "06b8843b6c6953e11c25a9d3cc09f2d586582a4cebc623b9ffec4db3ea9ba43e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,9 +50,23 @@ Målet med investeringene i Statens pensjonsfond skal være å oppnå høyest mu
 
 (2) Netto kontantstrømmen fra petroleumsvirksomheten utgjør bruttoinntektene i tredje ledd fratrukket utgiftene i fjerde ledd.
 
-(3) Følgende bruttoinntekter inngår i kontantstrømmen fra petroleumsvirksomheten:de samlede skatte- og avgiftsinntekter som innkreves ifølge [lov 13. juni 1975 nr. 35](lov/1975-06-13-35) om skattlegging av undersjøiske petroleumsforekomster m.v. og [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhetavgifter som innkreves etter [lov 21. desember 1990 nr. 72](lov/1990-12-21-72) om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelenavgiftsinntekter ved utslipp av NOx i petroleumsvirksomhet på kontinentalsokkelendriftsinntekter og andre inntekter fra statens direkte økonomiske engasjement i petroleumsvirksomhetenstatlige inntekter på nettooverskuddsavtaler i enkelte utvinningstillatelserutbytte fra Equinor ASAstatens inntekter i forbindelse med fjerning eller annen disponering av innretninger på kontinentalsokkeleninntekter fra salg av andeler som ledd i Statens direkte økonomiske engasjement i petroleumsvirksomheten.
+(3) Følgende bruttoinntekter inngår i kontantstrømmen fra petroleumsvirksomheten:
 
-(4) Følgende utgifter skal trekkes fra bruttoinntektene i tredje ledd:direkte investeringer i statens direkte økonomiske engasjement i petroleumsvirksomhetendriftsutgifter og andre direkte utgifter i statens direkte økonomiske engasjement i petroleumsvirksomhetenstatens utgifter i forbindelse med fjerning eller annen disponering av innretninger på kontinentalsokkelenkjøp av andeler som ledd i Statens direkte økonomiske engasjement i petroleumsvirksomheten.
+1. de samlede skatte- og avgiftsinntekter som innkreves ifølge [lov 13. juni 1975 nr. 35](lov/1975-06-13-35) om skattlegging av undersjøiske petroleumsforekomster m.v. og [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet
+2. avgifter som innkreves etter [lov 21. desember 1990 nr. 72](lov/1990-12-21-72) om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen
+3. avgiftsinntekter ved utslipp av NOx i petroleumsvirksomhet på kontinentalsokkelen
+4. driftsinntekter og andre inntekter fra statens direkte økonomiske engasjement i petroleumsvirksomheten
+5. statlige inntekter på nettooverskuddsavtaler i enkelte utvinningstillatelser
+6. utbytte fra Equinor ASA
+7. statens inntekter i forbindelse med fjerning eller annen disponering av innretninger på kontinentalsokkelen
+8. inntekter fra salg av andeler som ledd i Statens direkte økonomiske engasjement i petroleumsvirksomheten.
+
+(4) Følgende utgifter skal trekkes fra bruttoinntektene i tredje ledd:
+
+1. direkte investeringer i statens direkte økonomiske engasjement i petroleumsvirksomheten
+2. driftsutgifter og andre direkte utgifter i statens direkte økonomiske engasjement i petroleumsvirksomheten
+3. statens utgifter i forbindelse med fjerning eller annen disponering av innretninger på kontinentalsokkelen
+4. kjøp av andeler som ledd i Statens direkte økonomiske engasjement i petroleumsvirksomheten.
 
 (5) Netto finanstransaksjoner knyttet til petroleumsvirksomheten utgjør summen av brutto inntekter ved statlig salg av aksjer i Equinor ASA, fratrukket statlig kjøp av aksjer i Equinor ASA definert som markedsprisen staten betaler for aksjene og fratrukket statlig kapitalinnskudd i Equinor ASA og selskap som ivaretar statens interesser i petroleumsvirksomheten, samt finanstransaksjoner knyttet til selskaper i petroleumsvirksomheten hvor staten har eierinteresser.
 
@@ -110,7 +124,9 @@ Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte
 
 ## § 12.
 
-Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:[Lov 22. juni 1990 nr. 36](lov/1990-06-22-36) om Statens petroleumsfond oppheves.
+Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:
+
+1. [Lov 22. juni 1990 nr. 36](lov/1990-06-22-36) om Statens petroleumsfond oppheves.
 
 – – –
 

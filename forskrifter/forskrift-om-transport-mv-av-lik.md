@@ -15,7 +15,7 @@ xml_hash: "e0e3140b3a59f32037dd1b8cc26533baf0fea624020b346e29455cb95a108903"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,12 @@ Begravelsesbyråene skal ha tilstrekkelig og hensiktsmessig utstyr og skal påse
 
 Helsedirektoratet gir nærmere retningslinjer for håndtering og emballering av lik.
 
-Helsedirektoratet gir nærmere retningslinjer om hygieniske forholdsregler og forebyggende tiltak for:personell fra begravelsesbyrå og pårørende ved håndtering og emballering i hjemmet eller sted utenfor institusjon,den som har forvaltningsansvaret for institusjon hvor det foregår håndtering og emballering av lik før avhenting, herunder krav til personalets hygiene, renhold av lokaler og utstyr, oppbevaring av lik, utskrivingskontroll m.v.den som har forvaltningsansvaret for kirkegård som har bårerom og mottakskapell for kister, herunder krav til renhold, temperaturregulering, alternative løsninger for å sikre tilfredsstillende oppbevaring m.v.personell ved krematorier.
+Helsedirektoratet gir nærmere retningslinjer om hygieniske forholdsregler og forebyggende tiltak for:
+
+- personell fra begravelsesbyrå og pårørende ved håndtering og emballering i hjemmet eller sted utenfor institusjon,
+- den som har forvaltningsansvaret for institusjon hvor det foregår håndtering og emballering av lik før avhenting, herunder krav til personalets hygiene, renhold av lokaler og utstyr, oppbevaring av lik, utskrivingskontroll m.v.
+- den som har forvaltningsansvaret for kirkegård som har bårerom og mottakskapell for kister, herunder krav til renhold, temperaturregulering, alternative løsninger for å sikre tilfredsstillende oppbevaring m.v.
+- personell ved krematorier.
 
 Helsedirektoratet angir hvilke sykdommer/tilstander som medfører særlig smittefare ved håndtering og emballering av lik, eller ved åpning av kiste for omlegging og hvilke forholdsregler som må tas ved de ulike sykdommer/tilstander. Legen som skriver legeerklæring om dødsfall skal forholde seg til disse angivelser og varsle kommunelegen og den som henter liket om smittefare og hvilke forholdsregler som må tas.
 
@@ -156,7 +161,11 @@ Obduksjonsvirksomhet og de hygieniske sider ved denne er unntatt fra forskriften
 
 Forskriften gjelder også for likbehandling og oppbevaring av lik i bårerom eller kapell ved kirkegård. Den gjelder også for selve gravferden for såvidt angår de hygieniske forhold og for oppgraving og eventuelt flytting av lik.
 
-Annet regelverk på tilgrensende områder er for tiden:lov om kirkegårder, kremasjon og gravferd av [7. juni 1996 nr. 32](lov/1996-06-07-32) (gravferdsloven)forskrifter til gravferdsloven[likbehandlingsloven av 4. juni 1898](lov/1898-06-04).
+Annet regelverk på tilgrensende områder er for tiden:
+
+- lov om kirkegårder, kremasjon og gravferd av [7. juni 1996 nr. 32](lov/1996-06-07-32) (gravferdsloven)
+- forskrifter til gravferdsloven
+- [likbehandlingsloven av 4. juni 1898](lov/1898-06-04).
 
 ### Til § 1-3 Ansvar
 

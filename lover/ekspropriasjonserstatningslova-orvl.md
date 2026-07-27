@@ -15,7 +15,7 @@ xml_hash: "0c2725e0ef852ce62ac8e216156ba488b8ac8107fb08286f9ad2c09e089a44cb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,13 @@ Føresegnene gjeld så langt anna ikkje er fastsett i lov.
 
 ## § 2. Definisjonar.
 
-I lova tyder:Oreigning: tvangsavståing av eigedomsrett til eller annan rett i eller over særskilde faste eigedomar,oreigningstiltak: verksemd, innretning eller føremål som det vert oreigna til føremon for,eigedom: fast eigedom eller rett i eller over slik eigedom,eigar: den som eigedom vert oreigna ifrå,oreignar: den som med heimel i lov eller etter løyve med heimel i lov krev oreigning.
+I lova tyder:
+
+1. Oreigning: tvangsavståing av eigedomsrett til eller annan rett i eller over særskilde faste eigedomar,
+2. oreigningstiltak: verksemd, innretning eller føremål som det vert oreigna til føremon for,
+3. eigedom: fast eigedom eller rett i eller over slik eigedom,
+4. eigar: den som eigedom vert oreigna ifrå,
+5. oreignar: den som med heimel i lov eller etter løyve med heimel i lov krev oreigning.
 
 ## § 3. Kva vederlaget skal dekke.
 

@@ -36,7 +36,11 @@ eu_basis: []
 
 ## § 4. Attestering av revisor
 
-Som underlagsdokumentasjon i regnskapet skal det ved innsending av skattemeldingen være underskrevet attest fra revisor som inneholder erklæring om at:Enheten er omfattet av kompensasjonsordningenOppgitt beløp er kompensasjonsberettigetOpplysninger er kontrollert i henhold til god revisjonsskikk, jf. ISA 805 «Særlige hensyn ved revisjon av enkeltstående regnskapsoppstillinger og spesifikke elementer, kontoer eller poster i en regnskapsoppstilling».
+Som underlagsdokumentasjon i regnskapet skal det ved innsending av skattemeldingen være underskrevet attest fra revisor som inneholder erklæring om at:
+
+1. Enheten er omfattet av kompensasjonsordningen
+2. Oppgitt beløp er kompensasjonsberettiget
+3. Opplysninger er kontrollert i henhold til god revisjonsskikk, jf. ISA 805 «Særlige hensyn ved revisjon av enkeltstående regnskapsoppstillinger og spesifikke elementer, kontoer eller poster i en regnskapsoppstilling».
 
 > Endret ved [forskrifter 27 jan 2011 nr. 103](forskrift/2011-01-27-103), [20 sep 2011 nr. 951](forskrift/2011-09-20-951), [9 des 2016 nr. 1509](forskrift/2016-12-09-1509) (i kraft 1 jan 2017).
 

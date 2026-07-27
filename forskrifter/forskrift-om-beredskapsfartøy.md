@@ -34,7 +34,27 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*Anerkjent standard:* Standarder utgitt av NS/BS/ISO/CEN eller tilsvarende nasjonale og internasjonale standarder anerkjent av Sjøfartsdirektoratet, ved enkeltvedtak.BS: British StandardCEN: European Committee for StandardizationISO: International Standards OrganizationNS: Norsk Standard*Beredskapsfartøy:* Fartøy som er tillagt oppgaver i forbindelse med fare- og ulykkessituasjoner i petroleumsvirksomheten, samt vakthold rundt innretninger.*Beredskapsutstyr:* Utstyr ombord til bruk i forbindelse med redningsaksjoner, fare- og ulykkessituasjoner i petroleumsvirksomheten.*Eksisterende beredskapsfartøy*: Fartøy som ikke er nytt.*Godkjent*: Godkjent av Sjøfartsdirektoratet.*Innretning:* Fast og flyttbar innretning, herunder bore-/produksjonsskip som har utstyr for boring etter og produksjon av undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter og produksjon av undersjøiske petroleumsforekomster.*Lastelinjekonvensjonen:* Den internasjonale konvensjon om lastelinjer som ble undertegnet i London den 5. april 1966 med senere endringer, herunder endringer foretatt ved 1988 Protokollen til Lastelinjekonvensjonen 1966.*Nytt beredskapsfartøy:* Fartøy hvor kjøl strekkes, eller som er på et lignende byggetrinn, på eller etter den dag denne forskrift trer i kraft. Likt med nytt beredskapsfartøy regnes fartøy som innkjøpes fra utlandet og fartøy hvis ombygging for beredskapsfartøytjeneste påbegynnes på eller etter nevnte dag.*Redningssone:* Den del av fartøyet som er bestemt benyttet for ombordtaking av personer som befinner seg i sjøen.*Typegodkjent:*For utstyr som omfattes av [forskrift 30. august 2016 nr. 1042](forskrift/2016-08-30-1042) om skipsutstyr: Typegodkjent av teknisk kontrollorgan og merket i henhold til nevnte forskrift.For annet utstyr: Typegodkjent av Sjøfartsdirektoratet.*1- og 10-års stormkondisjon:* Den minst gunstige kombinasjon av strøm-, bølge- og vindkrefter som kan forventes i løpet av henholdsvis 1 år og 10 år.
+I denne forskrift betyr:
+
+1. *Anerkjent standard:* Standarder utgitt av NS/BS/ISO/CEN eller tilsvarende nasjonale og internasjonale standarder anerkjent av Sjøfartsdirektoratet, ved enkeltvedtak.
+
+   - BS: British Standard
+   - CEN: European Committee for Standardization
+   - ISO: International Standards Organization
+   - NS: Norsk Standard
+2. *Beredskapsfartøy:* Fartøy som er tillagt oppgaver i forbindelse med fare- og ulykkessituasjoner i petroleumsvirksomheten, samt vakthold rundt innretninger.
+3. *Beredskapsutstyr:* Utstyr ombord til bruk i forbindelse med redningsaksjoner, fare- og ulykkessituasjoner i petroleumsvirksomheten.
+4. *Eksisterende beredskapsfartøy*: Fartøy som ikke er nytt.
+5. *Godkjent*: Godkjent av Sjøfartsdirektoratet.
+6. *Innretning:* Fast og flyttbar innretning, herunder bore-/produksjonsskip som har utstyr for boring etter og produksjon av undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter og produksjon av undersjøiske petroleumsforekomster.
+7. *Lastelinjekonvensjonen:* Den internasjonale konvensjon om lastelinjer som ble undertegnet i London den 5. april 1966 med senere endringer, herunder endringer foretatt ved 1988 Protokollen til Lastelinjekonvensjonen 1966.
+8. *Nytt beredskapsfartøy:* Fartøy hvor kjøl strekkes, eller som er på et lignende byggetrinn, på eller etter den dag denne forskrift trer i kraft. Likt med nytt beredskapsfartøy regnes fartøy som innkjøpes fra utlandet og fartøy hvis ombygging for beredskapsfartøytjeneste påbegynnes på eller etter nevnte dag.
+9. *Redningssone:* Den del av fartøyet som er bestemt benyttet for ombordtaking av personer som befinner seg i sjøen.
+10. *Typegodkjent:*
+
+    1. For utstyr som omfattes av [forskrift 30. august 2016 nr. 1042](forskrift/2016-08-30-1042) om skipsutstyr: Typegodkjent av teknisk kontrollorgan og merket i henhold til nevnte forskrift.
+    2. For annet utstyr: Typegodkjent av Sjøfartsdirektoratet.
+11. *1- og 10-års stormkondisjon:* Den minst gunstige kombinasjon av strøm-, bølge- og vindkrefter som kan forventes i løpet av henholdsvis 1 år og 10 år.
 
 > Endret ved forskrifter 29 des 1998 nr. 1998 nr. 1466 (i kraft 1 jan 1999), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018).
 
@@ -64,7 +84,21 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 ### § 5. Dokumentasjon
 
-(1) Rederiet skal senest 8 uker før sertifikat for beredskapsfartøy kan utstedes, sende Sjøfartsdirektoratet nødvendig dokumentasjon i tre eksemplarer som viser at fartøyet tilfredsstiller denne forskriftens krav til:Spesiell stabilitet (jf. [§ 8](forskrift/1991-10-16-853/§8)).Operasjon i områder med døgnmiddeltemperatur under 0 °C (jf. [§ 9](forskrift/1991-10-16-853/§9)).Spesielle lastelinjebestemmelser (jf. [§ 10](forskrift/1991-10-16-853/§10)).Fremdriftsmaskineri (jf. [§ 11](forskrift/1991-10-16-853/§11)).Gassdeteksjonsutstyr (jf. [§ 12](forskrift/1991-10-16-853/§12)).Beredskapsutstyr utover forskriftens minimumskrav som skal godkjennes av Sjøfartsdirektoratet (jf. [§ 13](forskrift/1991-10-16-853/§13), første ledd, [§ 14](forskrift/1991-10-16-853/§14), [§ 23](forskrift/1991-10-16-853/§23) og [§ 24](forskrift/1991-10-16-853/§24)).Beredskapsutstyr utover forskriftens minimumskrav som ikke skal godkjennes (jf. [§ 13](forskrift/1991-10-16-853/§13), tredje ledd, [§ 23](forskrift/1991-10-16-853/§23) og [§ 24](forskrift/1991-10-16-853/§24)).Manøvreringsevne (jf. [§ 15](forskrift/1991-10-16-853/§15)).Redningssone og fribord med belysning (jf. [§ 16](forskrift/1991-10-16-853/§16) og [§ 20](forskrift/1991-10-16-853/§20)).Redningsutstyr med utsettingsarrangement (jf. [§ 17](forskrift/1991-10-16-853/§17)).Kommandoplass, kommunikasjonsutstyr og innredning samt inventar og medisinsk utstyr for reddede mv. (jf. [§ 18](forskrift/1991-10-16-853/§18), [§ 19](forskrift/1991-10-16-853/§19) og [§ 21](forskrift/1991-10-16-853/§21)).Helikoptervinsjesonen (jf. [§ 22](forskrift/1991-10-16-853/§22)).Bemanning frigjort for beredskapsoppgaver samt planer og instrukser for gjennomføringen av de beredskapstjenester beredskapsfartøyet kan tilby, herunder opplæring og øvelser i forbindelse med disse tjenester (jf. [§ 25](forskrift/1991-10-16-853/§25), [§ 26](forskrift/1991-10-16-853/§26) og [§ 27](forskrift/1991-10-16-853/§27)). (Kun ett eksemplar.)
+(1) Rederiet skal senest 8 uker før sertifikat for beredskapsfartøy kan utstedes, sende Sjøfartsdirektoratet nødvendig dokumentasjon i tre eksemplarer som viser at fartøyet tilfredsstiller denne forskriftens krav til:
+
+1. Spesiell stabilitet (jf. [§ 8](forskrift/1991-10-16-853/§8)).
+2. Operasjon i områder med døgnmiddeltemperatur under 0 °C (jf. [§ 9](forskrift/1991-10-16-853/§9)).
+3. Spesielle lastelinjebestemmelser (jf. [§ 10](forskrift/1991-10-16-853/§10)).
+4. Fremdriftsmaskineri (jf. [§ 11](forskrift/1991-10-16-853/§11)).
+5. Gassdeteksjonsutstyr (jf. [§ 12](forskrift/1991-10-16-853/§12)).
+6. Beredskapsutstyr utover forskriftens minimumskrav som skal godkjennes av Sjøfartsdirektoratet (jf. [§ 13](forskrift/1991-10-16-853/§13), første ledd, [§ 14](forskrift/1991-10-16-853/§14), [§ 23](forskrift/1991-10-16-853/§23) og [§ 24](forskrift/1991-10-16-853/§24)).
+7. Beredskapsutstyr utover forskriftens minimumskrav som ikke skal godkjennes (jf. [§ 13](forskrift/1991-10-16-853/§13), tredje ledd, [§ 23](forskrift/1991-10-16-853/§23) og [§ 24](forskrift/1991-10-16-853/§24)).
+8. Manøvreringsevne (jf. [§ 15](forskrift/1991-10-16-853/§15)).
+9. Redningssone og fribord med belysning (jf. [§ 16](forskrift/1991-10-16-853/§16) og [§ 20](forskrift/1991-10-16-853/§20)).
+10. Redningsutstyr med utsettingsarrangement (jf. [§ 17](forskrift/1991-10-16-853/§17)).
+11. Kommandoplass, kommunikasjonsutstyr og innredning samt inventar og medisinsk utstyr for reddede mv. (jf. [§ 18](forskrift/1991-10-16-853/§18), [§ 19](forskrift/1991-10-16-853/§19) og [§ 21](forskrift/1991-10-16-853/§21)).
+12. Helikoptervinsjesonen (jf. [§ 22](forskrift/1991-10-16-853/§22)).
+13. Bemanning frigjort for beredskapsoppgaver samt planer og instrukser for gjennomføringen av de beredskapstjenester beredskapsfartøyet kan tilby, herunder opplæring og øvelser i forbindelse med disse tjenester (jf. [§ 25](forskrift/1991-10-16-853/§25), [§ 26](forskrift/1991-10-16-853/§26) og [§ 27](forskrift/1991-10-16-853/§27)). (Kun ett eksemplar.)
 
 (2) For eksisterende beredskapsfartøy kan fartøyets og ombordværende beredskapsutstyrs kapasiteter og operasjonelle begrensninger være basert på rederiets og skipsførerens egenerklæring og relevant dokumentasjon i henhold til denne forskriftens krav i kapittel I-VIII.
 
@@ -82,13 +116,25 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (1) Intakt stabilitet og stabilitet i skadet tilstand, herunder vanntette skott skal oppfylle bestemmelsene i § 43 og § 44 i den til enhver tid gjeldende forskrift om bygging av lasteskip.
 
-(2) Ved beregning av stabilitet i skadet tilstand, benyttes skadedefinisjoner for forsyningsskip (jf. § 43 fjerde ledd i den til enhver tid gjeldende forskrift om bygging av lasteskip) med følgende unntak:Vertikal skade i skadeområdet regnes fra fartøyets bunn til 2 meter over sommerlastelinjen (uten trim).Eventuelle dekk i skadeområdet skal antas skadet.
+(2) Ved beregning av stabilitet i skadet tilstand, benyttes skadedefinisjoner for forsyningsskip (jf. § 43 fjerde ledd i den til enhver tid gjeldende forskrift om bygging av lasteskip) med følgende unntak:
+
+1. Vertikal skade i skadeområdet regnes fra fartøyets bunn til 2 meter over sommerlastelinjen (uten trim).
+2. Eventuelle dekk i skadeområdet skal antas skadet.
 
 ### § 9. Dokumentasjon for operasjon i områder med en døgnmiddeltemperatur under 0 °C
 
 (1) De maksimale miljøforhold (temperatur i luft og sjø, luftfuktighet, isforhold, ising, drivis, mv.) som beredskapsfartøyet skal kunne operere under, spesifiseres av reder.
 
-(2) Beredskapsfartøy som skal operere i områder med en døgnmiddeltemperatur under 0 °C, skal dokumentere at fartøyet med utvendig plassert utstyr og systemer kan operere og utføre sine beredskapstjenester sikkert under de spesifiserte miljøforhold. Dokumentasjonen skal omfatte:Utstyr for daglig normal drift (f.eks. kraner, nautisk utstyr, luftsystemer osv.).Systemer og utstyr for drift under nødsituasjoner (f.eks. beredskapsutstyr, alarmsystem, redningsutstyr, utvendig brannledning).Beregning av vekt og fordeling av maksimal nedising (jf. [§ 12](forskrift/1991-10-16-853/§12) i den til enhver tid gjeldende forskrift om bygging av lasteskip).Beregning av alle relevante lastetilstander med maksimal islast i henhold til fartøyets drift (jf. [§ 15](forskrift/1991-10-16-853/§15), fjerde ledd i den til enhver til gjeldende forskrift om bygging av lasteskip).Styrkemessig konsekvens av eventuell oppbygging av islast på komponenter og utstyr.Arrangement og utstyr for å holde områder på fartøyet isfritt (f.eks. avisingssystem for redningssone, redningsutstyr, helikoptervinsjesonen, arbeidsområder osv.).Materialanvendelse i utvendig utstyr og systemer med henblikk på å tåle temperaturer under 0 °C.Operasjonsinstrukser for tiltak som er nødvendige for forsvarlig drift i områder med en døgnmiddeltemperatur under 0 °C. Instruksene skal sette klare kriterier for når operative tiltak må iverksettes, f.eks. ved lav temperatur over lengre tid, lav temperatur i forbindelse med stor luftfuktighet (fare for isdannelse) mv.
+(2) Beredskapsfartøy som skal operere i områder med en døgnmiddeltemperatur under 0 °C, skal dokumentere at fartøyet med utvendig plassert utstyr og systemer kan operere og utføre sine beredskapstjenester sikkert under de spesifiserte miljøforhold. Dokumentasjonen skal omfatte:
+
+1. Utstyr for daglig normal drift (f.eks. kraner, nautisk utstyr, luftsystemer osv.).
+2. Systemer og utstyr for drift under nødsituasjoner (f.eks. beredskapsutstyr, alarmsystem, redningsutstyr, utvendig brannledning).
+3. Beregning av vekt og fordeling av maksimal nedising (jf. [§ 12](forskrift/1991-10-16-853/§12) i den til enhver tid gjeldende forskrift om bygging av lasteskip).
+4. Beregning av alle relevante lastetilstander med maksimal islast i henhold til fartøyets drift (jf. [§ 15](forskrift/1991-10-16-853/§15), fjerde ledd i den til enhver til gjeldende forskrift om bygging av lasteskip).
+5. Styrkemessig konsekvens av eventuell oppbygging av islast på komponenter og utstyr.
+6. Arrangement og utstyr for å holde områder på fartøyet isfritt (f.eks. avisingssystem for redningssone, redningsutstyr, helikoptervinsjesonen, arbeidsområder osv.).
+7. Materialanvendelse i utvendig utstyr og systemer med henblikk på å tåle temperaturer under 0 °C.
+8. Operasjonsinstrukser for tiltak som er nødvendige for forsvarlig drift i områder med en døgnmiddeltemperatur under 0 °C. Instruksene skal sette klare kriterier for når operative tiltak må iverksettes, f.eks. ved lav temperatur over lengre tid, lav temperatur i forbindelse med stor luftfuktighet (fare for isdannelse) mv.
 
 > Endret ved [forskrift 1 juni 2004 nr. 812](forskrift/2004-06-01-812).
 
@@ -104,7 +150,12 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (1) Beredskapsfartøyet skal ha minst 2 uavhengige fremdriftssystemer.
 
-(2) Hvert fremdriftssystem skal bestå av følgende delsystemer:Kraftproduksjonssystem (dieselmotor/generator med hjelpesystemer slik som brennstoff-, smøreolje-, kjølevanns- og lufttilførsel mv.).Kraftfordelingssystem (gir, akslinger, strømfordeling, tavler, transformatorer, kabling mv.).Propellanlegg (hydraulikkenheter, elektromotor, kjølesystem og thrusterkontrollenhet for hver gruppe av propellene mv.).Styresystem (rorkontroll, kontroll av pådrag og retning for propellene mv.).
+(2) Hvert fremdriftssystem skal bestå av følgende delsystemer:
+
+1. Kraftproduksjonssystem (dieselmotor/generator med hjelpesystemer slik som brennstoff-, smøreolje-, kjølevanns- og lufttilførsel mv.).
+2. Kraftfordelingssystem (gir, akslinger, strømfordeling, tavler, transformatorer, kabling mv.).
+3. Propellanlegg (hydraulikkenheter, elektromotor, kjølesystem og thrusterkontrollenhet for hver gruppe av propellene mv.).
+4. Styresystem (rorkontroll, kontroll av pådrag og retning for propellene mv.).
 
 (3) Alle aktive komponenter som inngår i hver av de ovennevnte delsystemene skal kunne feile uten at feilen overføres til eller blokkerer de tilsvarende delsystem i det andre uavhengige fremdriftssystem.
 
@@ -128,11 +179,32 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (1) Beredskapsutstyr om bord, utover forskriftens minimumskrav, som skal benyttes direkte for redning av mennesker, eller utstyr som ved svikt kan medføre skade eller tap av menneskeliv skal være godkjent i henhold til [kapittel VI](forskrift/1991-10-16-853/kapvi).
 
-(2) Eksempler på slikt beredskapsutstyr kan være:Vannkanoner for brannbekjemping.Utstyr for overføring av personell mellom innretning og beredskapsfartøy.Utstyr for overføring av personell mellom fartøy og helikopter.Fast gassdeteksjons- og nedstengningssystem.Utstyr og arrangement for oppsamling, pumping og lagring av olje ombord i forbindelse med oljevern.HelikopterdekkUtstyr for å etterfylle drivstoff til helikopter om bord eller i luften.Fast tåkestråle-//overrislingsystemer for å skjerme beredskapsfartøy, MOB-båt og redningsmannskap mot varmestråling.Redningsutstyr (ekstra MOB-båter o.l.) utover kravene i [kapittel VI](forskrift/1991-10-16-853/kapvi) for redning av personell i sjøen.Utstyr i forbindelse med hyperbar evakuering/redning.
+(2) Eksempler på slikt beredskapsutstyr kan være:
+
+1. Vannkanoner for brannbekjemping.
+2. Utstyr for overføring av personell mellom innretning og beredskapsfartøy.
+3. Utstyr for overføring av personell mellom fartøy og helikopter.
+4. Fast gassdeteksjons- og nedstengningssystem.
+5. Utstyr og arrangement for oppsamling, pumping og lagring av olje ombord i forbindelse med oljevern.
+6. Helikopterdekk
+7. Utstyr for å etterfylle drivstoff til helikopter om bord eller i luften.
+8. Fast tåkestråle-//overrislingsystemer for å skjerme beredskapsfartøy, MOB-båt og redningsmannskap mot varmestråling.
+9. Redningsutstyr (ekstra MOB-båter o.l.) utover kravene i [kapittel VI](forskrift/1991-10-16-853/kapvi) for redning av personell i sjøen.
+10. Utstyr i forbindelse med hyperbar evakuering/redning.
 
 (3) Beredskapsutstyr som utover forskriftens minimumskrav ikke kommer inn under nr. 1, men som likevel er viktige for de tjenester beredskapsfartøyet skal utføre, skal være vurdert og godkjent gjennom rederiets egenkontroll i henhold til [kapittel VII](forskrift/1991-10-16-853/kapvii).
 
-(4) Eksempler på beredskapsutstyr som skal vurderes og godkjennes gjennom rederiets egenkontroll kan være:Radar med alarmgrense og annet utstyr for vakthold rundt en innretning.Transportabelt belysningsutstyr som kan benyttes som over- eller undervannsbelysning i redningssonen.Opplegg for at fartøyet skal kunne fungere som en midlertidig kommunikasjonssentral og som kommandoplass for koordinering av større redningsoperasjoner.Oljevernutstyr.Spesielt utstyr for bekjempelse av brann på innretningen.Linekastende apparater utover det som er krav for skip.Kanon for skyting av dregg o.l. med slepeline.Utstyr som livbøyer med bøyelys og line, line med karabinkroker, haker med langt skaft og stor ring, ekstra redningsvester, utstyr for overflatesvømmere, nattkikkert, markeringsbøyer etc.Eventuelle flyttbare/faste leidere langs fartøysiden for overflatesvømmere og dykkere.
+(4) Eksempler på beredskapsutstyr som skal vurderes og godkjennes gjennom rederiets egenkontroll kan være:
+
+1. Radar med alarmgrense og annet utstyr for vakthold rundt en innretning.
+2. Transportabelt belysningsutstyr som kan benyttes som over- eller undervannsbelysning i redningssonen.
+3. Opplegg for at fartøyet skal kunne fungere som en midlertidig kommunikasjonssentral og som kommandoplass for koordinering av større redningsoperasjoner.
+4. Oljevernutstyr.
+5. Spesielt utstyr for bekjempelse av brann på innretningen.
+6. Linekastende apparater utover det som er krav for skip.
+7. Kanon for skyting av dregg o.l. med slepeline.
+8. Utstyr som livbøyer med bøyelys og line, line med karabinkroker, haker med langt skaft og stor ring, ekstra redningsvester, utstyr for overflatesvømmere, nattkikkert, markeringsbøyer etc.
+9. Eventuelle flyttbare/faste leidere langs fartøysiden for overflatesvømmere og dykkere.
 
 (5) En liste over alt utstyr som på denne måte er vurdert og godkjent gjennom rederiets egenkontroll, inkludert fastsatte operasjonelle begrensninger og kapasiteter der det er relevant, skal sendes Sjøfartsdirektoratet.
 
@@ -142,9 +214,24 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 ### § 14. Sleping og skyving
 
-(1) Beredskapsfartøy som ønsker å tilby nødsleping av drivende skip, lektere og andre innretninger samt gjenstander i sjøen som en del av sin beredskapstjeneste skal tilfredsstille følgende krav:For fartøy som sleper og blir utsatt for en tverrskipskraft som gir fartøyet en hastighet tverrskips gjennom vannet på 5 knop, skal første skjæringspunkt mellom kurvene for krengende arm og rettende arm (GZ-kurven) opptre ved en vinkel mindre enn fyllingsvinkelen.For fartøy som sleper og blir utsatt for en tverrskipskraft tilsvarende fartøyets maksimale slepekraft multiplisert med 0.65, skal arealet mellom kurven for rettende arm (GZ-kurven) og kurven for krengende arm regnet fra første skjæringspunkt til den vinkel som opptrer først av 40 grader, vinkelen for maksimal GZ-verdi eller fyllingsvinkelen, være større eller lik 0,010 meterradianer. Krengemomentets vertikale arm skal regnes fra senter av propellen(e) til festepunktet for sleperen.Slepekrok med innfesting skal være beregnet for fartøyets maksimale slepekraft, og med en sikkerhetsfaktor på minst 5 i forhold til materialets bruddgrense.Slepekroken skal være festet slik at den kan bevege seg fritt i den aktuelle horisontale og vertikale sektor sleperen kan vandre i.Slepekrok skal ha en driftssikker og hensiktsmessig nødutløsningsmekanisme. Nødutløsning av slepekroken skal kunne skje fra alle steder hvor fartøyet skal kunne manøvreres fra samt fra sikkert sted på dekk i umiddelbar nærhet av slepekroken. Dersom fartøyet har bredt styrehus, skal nødutløsning kunne skje fra både styrbord og babord side av styrehuset.Nødutløsning skal kunne utføres uansett krengning av fartøyet, vinkel og retning av draget i slepekrok mv.Fartøyet skal ha en innhalingsvinsj kraftig nok til å kunne hale inn og å huke på kroken, slepewire/tau av aktuell dimensjon og lengde.For beredskapsfartøy som ønsker å benytte slepevinsj i stedet for krok skal vinsjen med hensyn til utførelse og prøving tilfredsstille den Internasjonale standard (ISO nr. 7365). Vinsjen skal kunne utløses fra broen. Styrken av vinsjfundamentet skal tilpasses vinsjens holdekraft.Slepewiren til slepevinsj med tilhørende sjakler o.l. skal ha en bruddstyrke på minst 3 ganger fartøyets statiske slepekraft (bollard pull).Alt løst utstyr som inngår i slepevinsjarrangementet så som sjakler, ringer, wire, trosser etc. skal være sertifisert.Beredskapsfartøy skal også ha egnet utstyr for å kunne etablere slepeforbindelse med annet fartøy.
+(1) Beredskapsfartøy som ønsker å tilby nødsleping av drivende skip, lektere og andre innretninger samt gjenstander i sjøen som en del av sin beredskapstjeneste skal tilfredsstille følgende krav:
 
-(2) Til beredskapsfartøy som skal utføre nødskyving av drivende skip, lektere og andre innretninger samt gjenstander i sjøen, stilles det spesielle krav til fartøyets kollisjonsstyrke, vanntetthet og stabilitet etter skade. Disse forhold skal dokumenteres og godkjennes gjennom:Kollisjonsberegninger som angir antatt maksimal skade av fartøyet i forbindelse med etablering av skyvekontakt med den drivende innretning/gjenstand under aktuelle maksimale værforhold, som spesifisert av rederiet.Skadestabilitetsberegninger ved antatt maksimal skade etter kollisjon. Beregningene skal tilfredsstille kravene angitt i [§ 8](forskrift/1991-10-16-853/§8).
+1. For fartøy som sleper og blir utsatt for en tverrskipskraft som gir fartøyet en hastighet tverrskips gjennom vannet på 5 knop, skal første skjæringspunkt mellom kurvene for krengende arm og rettende arm (GZ-kurven) opptre ved en vinkel mindre enn fyllingsvinkelen.
+2. For fartøy som sleper og blir utsatt for en tverrskipskraft tilsvarende fartøyets maksimale slepekraft multiplisert med 0.65, skal arealet mellom kurven for rettende arm (GZ-kurven) og kurven for krengende arm regnet fra første skjæringspunkt til den vinkel som opptrer først av 40 grader, vinkelen for maksimal GZ-verdi eller fyllingsvinkelen, være større eller lik 0,010 meterradianer. Krengemomentets vertikale arm skal regnes fra senter av propellen(e) til festepunktet for sleperen.
+3. Slepekrok med innfesting skal være beregnet for fartøyets maksimale slepekraft, og med en sikkerhetsfaktor på minst 5 i forhold til materialets bruddgrense.
+4. Slepekroken skal være festet slik at den kan bevege seg fritt i den aktuelle horisontale og vertikale sektor sleperen kan vandre i.
+5. Slepekrok skal ha en driftssikker og hensiktsmessig nødutløsningsmekanisme. Nødutløsning av slepekroken skal kunne skje fra alle steder hvor fartøyet skal kunne manøvreres fra samt fra sikkert sted på dekk i umiddelbar nærhet av slepekroken. Dersom fartøyet har bredt styrehus, skal nødutløsning kunne skje fra både styrbord og babord side av styrehuset.
+6. Nødutløsning skal kunne utføres uansett krengning av fartøyet, vinkel og retning av draget i slepekrok mv.
+7. Fartøyet skal ha en innhalingsvinsj kraftig nok til å kunne hale inn og å huke på kroken, slepewire/tau av aktuell dimensjon og lengde.
+8. For beredskapsfartøy som ønsker å benytte slepevinsj i stedet for krok skal vinsjen med hensyn til utførelse og prøving tilfredsstille den Internasjonale standard (ISO nr. 7365). Vinsjen skal kunne utløses fra broen. Styrken av vinsjfundamentet skal tilpasses vinsjens holdekraft.
+9. Slepewiren til slepevinsj med tilhørende sjakler o.l. skal ha en bruddstyrke på minst 3 ganger fartøyets statiske slepekraft (bollard pull).
+10. Alt løst utstyr som inngår i slepevinsjarrangementet så som sjakler, ringer, wire, trosser etc. skal være sertifisert.
+11. Beredskapsfartøy skal også ha egnet utstyr for å kunne etablere slepeforbindelse med annet fartøy.
+
+(2) Til beredskapsfartøy som skal utføre nødskyving av drivende skip, lektere og andre innretninger samt gjenstander i sjøen, stilles det spesielle krav til fartøyets kollisjonsstyrke, vanntetthet og stabilitet etter skade. Disse forhold skal dokumenteres og godkjennes gjennom:
+
+1. Kollisjonsberegninger som angir antatt maksimal skade av fartøyet i forbindelse med etablering av skyvekontakt med den drivende innretning/gjenstand under aktuelle maksimale værforhold, som spesifisert av rederiet.
+2. Skadestabilitetsberegninger ved antatt maksimal skade etter kollisjon. Beregningene skal tilfredsstille kravene angitt i [§ 8](forskrift/1991-10-16-853/§8).
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
@@ -190,7 +277,13 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (2) Det skal være et arrangement som sikrer rask og sikker utsetting og ombordtaking av MOB-båt også under dårlige værforhold. MOB-båter skal ha et arrangement som skånsomt bringer personer fra sjøen og ombord på båten.
 
-(3) Utsettingsarrangementet skal oppfylle følgende krav:Sjøfartsdirektoratets forskrifter om evakuerings- og redningsmidler på flyttbare innretninger.Kran/davitarrangement skal være slik at det ikke er fare for at davit/kranbom slår ned i MOB-båten når denne er på sjøen, ved operasjon i dårlig vær ved 20 rulling av beredskapsfartøyet.Utsettingsarrangementet skal plasseres tilnærmet midtskips.MOB-båten skal kunne styres sikkert med hensyn på pendling og slag mot skipssiden under låring og heising i sjøgang.MOB-båten skal kunne settes ut ved «dødt skip» som forlangt for livbåter på lasteskip, dersom den skal inngå som en del av skipets redningsutstyr.
+(3) Utsettingsarrangementet skal oppfylle følgende krav:
+
+1. Sjøfartsdirektoratets forskrifter om evakuerings- og redningsmidler på flyttbare innretninger.
+2. Kran/davitarrangement skal være slik at det ikke er fare for at davit/kranbom slår ned i MOB-båten når denne er på sjøen, ved operasjon i dårlig vær ved 20 rulling av beredskapsfartøyet.
+3. Utsettingsarrangementet skal plasseres tilnærmet midtskips.
+4. MOB-båten skal kunne styres sikkert med hensyn på pendling og slag mot skipssiden under låring og heising i sjøgang.
+5. MOB-båten skal kunne settes ut ved «dødt skip» som forlangt for livbåter på lasteskip, dersom den skal inngå som en del av skipets redningsutstyr.
 
 (4) Beredskapsfartøyet skal for øvrig ha et arrangement som skånsomt bringer personer direkte fra sjøen og ombord på fartøyet. Dette arrangementet skal kunne opereres fra fartøyet og være egnet til bruk under vanskelige værforhold. Redningssonen skal ha et arrangement som gjør det mulig for personer i sjøen å klatre ombord ved egen hjelp. Arrangementet skal også kunne redde bevisstløse personer i sjøen.
 
@@ -208,7 +301,16 @@ Kommandoplassen skal være slik plassert at føreren av beredskapsfartøyet allt
 
 (3) Resepsjonen skal være i umiddelbar nærhet av dekket ved redningssonen. Resepsjonen skal være av en slik størrelse at reddede/skadede både kan registreres og prioriteres for behandling.
 
-(4) Behandlingsrommet skal være slik plassert, innredet, utstyrt og dimensjonert at medisinsk førstehjelp av skadede kan utføres forsvarlig. Behandlingsrommet skal være i umiddelbar nærhet av resepsjonen. Gulvflaten skal ikke være mindre enn 15 m2 . Rommet skal kun benyttes til behandling av skadede personer. Rommet skal minst være utstyrt med:håndvask med blandebatteribehandlingsbenkfast stativ med plass for 2 bårerflyttbart instrumentbord med avfallskurvmedisinskap, giftskap og andre nødvendige skapstillbar arbeidslampeskrivebord med arkivskufftelefon som kan betjenes samtidig som pasienten behandles (jf. [§ 21](forskrift/1991-10-16-853/§21) bokstav f).
+(4) Behandlingsrommet skal være slik plassert, innredet, utstyrt og dimensjonert at medisinsk førstehjelp av skadede kan utføres forsvarlig. Behandlingsrommet skal være i umiddelbar nærhet av resepsjonen. Gulvflaten skal ikke være mindre enn 15 m2 . Rommet skal kun benyttes til behandling av skadede personer. Rommet skal minst være utstyrt med:
+
+1. håndvask med blandebatteri
+2. behandlingsbenk
+3. fast stativ med plass for 2 bårer
+4. flyttbart instrumentbord med avfallskurv
+5. medisinskap, giftskap og andre nødvendige skap
+6. stillbar arbeidslampe
+7. skrivebord med arkivskuff
+8. telefon som kan betjenes samtidig som pasienten behandles (jf. [§ 21](forskrift/1991-10-16-853/§21) bokstav f).
 
 (5) Sjøfartsdirektoratet kan fastsette nærmere veiledning for teknisk medisinsk utstyr og inventar til rommene nevnt i første ledd.
 
@@ -234,7 +336,11 @@ Kommandoplassen skal være slik plassert at føreren av beredskapsfartøyet allt
 
 ### § 20. Belysning av redningssonen og området rundt beredskapsfartøyet
 
-(1) Lysstyrken i redningssonen og i området rundt fartøyet skal være følgende:I redningssonen: minst 150 lux.Ved vannflaten fra redningssonen og ut til en avstand av minst 10 meter fra fartøyet: 100 lux.Øvrig område ut til en avstand fra fartøyet på minst 20 meter minst 50 lux.
+(1) Lysstyrken i redningssonen og i området rundt fartøyet skal være følgende:
+
+1. I redningssonen: minst 150 lux.
+2. Ved vannflaten fra redningssonen og ut til en avstand av minst 10 meter fra fartøyet: 100 lux.
+3. Øvrig område ut til en avstand fra fartøyet på minst 20 meter minst 50 lux.
 
 (2) Beredskapsfartøyet skal utstyres med minst 2 stk. 360° lyskastere som er egnet til søk, hvorav minst en skal være fjernstyrt.
 
@@ -242,7 +348,14 @@ Kommandoplassen skal være slik plassert at føreren av beredskapsfartøyet allt
 
 ### § 21. Kommunikasjonsutstyr
 
-Beredskapsfartøy skal være utstyrt med følgende kommunikasjonsutstyr utover de krav som gjelder for lasteskip:Aeromobilt VHF-radiotelefonutstyr med frekvenser for kommunikasjon med helikopter.Bærbart maritimt VHF-radiotelefoniutstyr egnet til bruk i støyfylte omgivelser.Aeromobilt radiofyr.Godkjent internkommunikasjon mellom kommandoplass, resepsjon, behandlingsrom, oppholdsrom for reddede og all øvrig innredning samt redningssone og helikoptervinsjesone. Egnede bærbare kommunikasjonssystemer kan benyttes, hvor fast system ikke passer.Radiopeileapparat for maritime og aeromobile VHF-nødfrekvenser.Telefon med hodesett for både VHF og MB som kan tilknyttes radioinstallasjonen for direkte kontakt mellom behandlingsrom om bord og lege i land.
+Beredskapsfartøy skal være utstyrt med følgende kommunikasjonsutstyr utover de krav som gjelder for lasteskip:
+
+1. Aeromobilt VHF-radiotelefonutstyr med frekvenser for kommunikasjon med helikopter.
+2. Bærbart maritimt VHF-radiotelefoniutstyr egnet til bruk i støyfylte omgivelser.
+3. Aeromobilt radiofyr.
+4. Godkjent internkommunikasjon mellom kommandoplass, resepsjon, behandlingsrom, oppholdsrom for reddede og all øvrig innredning samt redningssone og helikoptervinsjesone. Egnede bærbare kommunikasjonssystemer kan benyttes, hvor fast system ikke passer.
+5. Radiopeileapparat for maritime og aeromobile VHF-nødfrekvenser.
+6. Telefon med hodesett for både VHF og MB som kan tilknyttes radioinstallasjonen for direkte kontakt mellom behandlingsrom om bord og lege i land.
 
 ### § 22. Helikoptervinsjesone
 
@@ -308,7 +421,16 @@ Beredskapsfartøy skal være utstyrt med følgende kommunikasjonsutstyr utover d
 
 (1) Rederiet skal i operasjonsmanualen sette opp en overordnet plan for driften om bord og for de forskjellige beredskapstjenester fartøyet med utstyr og mannskap kan tilby. Planen skal vise hvordan mannskap, utstyr og fartøy er tenkt benyttet i kombinasjon med de forskjellige tjenester som tilbys eventuelt samtidig. Begrensninger som gjelder for beredskapstjenesten med tilhørende beredskapsutstyr skal fremgå.
 
-(2) Videre skal reder utarbeide:Stillingsinstrukser med fordeling av alle beredskapsoppgaver for hver beredskapstjeneste.Planer, instrukser og sjekklister for de beredskapstjenester som tilbys.Opplærings- og øvelsesprogram for de beredskapstjenester som tilbys.Ukentlig øvelsesplan tilpasset de beredskapstjenester fartøyet tilbyr.Øvelsesopplegg sammen med den faste installasjon.System for registrering av beredskapsutstyrets effektivitet og erfaringer ved bruk av dette.System for dokumentasjon av opplæring og øvelsesopplegg.Vedlikeholdsprogram for beredskapsutstyret.
+(2) Videre skal reder utarbeide:
+
+1. Stillingsinstrukser med fordeling av alle beredskapsoppgaver for hver beredskapstjeneste.
+2. Planer, instrukser og sjekklister for de beredskapstjenester som tilbys.
+3. Opplærings- og øvelsesprogram for de beredskapstjenester som tilbys.
+4. Ukentlig øvelsesplan tilpasset de beredskapstjenester fartøyet tilbyr.
+5. Øvelsesopplegg sammen med den faste installasjon.
+6. System for registrering av beredskapsutstyrets effektivitet og erfaringer ved bruk av dette.
+7. System for dokumentasjon av opplæring og øvelsesopplegg.
+8. Vedlikeholdsprogram for beredskapsutstyret.
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 

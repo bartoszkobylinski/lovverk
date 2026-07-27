@@ -64,7 +64,11 @@ Den som har sitt arbeid om bord skal gis et eksemplar av prosedyrene, med eventu
 
 ## § 5. Rett for den som har sitt arbeid om bord til å kreve tilsyn
 
-(1) Skipsføreren skal begjære tilsyn etter forskriften her når følgende vilkår er oppfylt:over halvparten av de som har sitt arbeid om bord, ikke medregnet skipsføreren og offiserer, setter fram klage for skipsføreren om at skipet ikke oppfyller kravene i skipssikkerhetsloven eller forskrifter om teknisk, operativ og personlig sikkerhet som er fastsatt i medhold av lovendet er rimelig grunn til å tro at manglene klart utgjør en fare for skipet eller for de som har sitt arbeid om bordskipet ligger i norsk havn, eller i utenriks havn hvor det er norsk utenriksstasjon.
+(1) Skipsføreren skal begjære tilsyn etter forskriften her når følgende vilkår er oppfylt:
+
+1. over halvparten av de som har sitt arbeid om bord, ikke medregnet skipsføreren og offiserer, setter fram klage for skipsføreren om at skipet ikke oppfyller kravene i skipssikkerhetsloven eller forskrifter om teknisk, operativ og personlig sikkerhet som er fastsatt i medhold av loven
+2. det er rimelig grunn til å tro at manglene klart utgjør en fare for skipet eller for de som har sitt arbeid om bord
+3. skipet ligger i norsk havn, eller i utenriks havn hvor det er norsk utenriksstasjon.
 
 (2) Skipsføreren og offiserer skal ikke tas med i beregningen av de som har sitt arbeid om bord etter første ledd.
 

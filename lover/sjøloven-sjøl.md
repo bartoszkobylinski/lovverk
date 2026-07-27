@@ -15,7 +15,7 @@ xml_hash: "4e2c351fd7cde5ec5f626fffa6431fd7d63d9d5a96d654f99d6d5d025fb46cb5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009R0392"
@@ -32,7 +32,12 @@ eu_basis:
 
 ### § 1. Nasjonalitetsvilkår
 
-Et skip skal anses som norsk når det ikke er innført i annet lands skipsregister og det eies av:norsk statsborger;partrederi eller annet norsk selskap hvor medlemmene hefter ubegrenset for selskapets forpliktelser, dersom norske statsborgere er medeiere for minst 6/10;kommandittselskap, dersom norske statsborgere eier minst 6/10 av den ansvarlige kapital og minst 6/10 av kommandittkapitalen;selskap med begrenset ansvar som ikke går inn under nr. 3, dersom selskapets hovedkontor og styrets sete er i Norge og styrets flertall, herunder styrelederen, består av norske statsborgere som er bosatt i Norge og har bodd her i de to siste år, og norske statsborgere eier aksjer eller andeler svarende til minst 6/10 av selskapets kapital og kan utøve stemmerett i selskapet med minst 6/10 av stemmene.
+Et skip skal anses som norsk når det ikke er innført i annet lands skipsregister og det eies av:
+
+1. norsk statsborger;
+2. partrederi eller annet norsk selskap hvor medlemmene hefter ubegrenset for selskapets forpliktelser, dersom norske statsborgere er medeiere for minst 6/10;
+3. kommandittselskap, dersom norske statsborgere eier minst 6/10 av den ansvarlige kapital og minst 6/10 av kommandittkapitalen;
+4. selskap med begrenset ansvar som ikke går inn under nr. 3, dersom selskapets hovedkontor og styrets sete er i Norge og styrets flertall, herunder styrelederen, består av norske statsborgere som er bosatt i Norge og har bodd her i de to siste år, og norske statsborgere eier aksjer eller andeler svarende til minst 6/10 av selskapets kapital og kan utøve stemmerett i selskapet med minst 6/10 av stemmene.
 
 Ved anvendelsen av denne paragraf skal likt med det som eies av norsk statsborger, regnes det som eies av den norske stat, institusjon eller fond som styres av den norske stat, norsk kommune, selskap som selv fyller vilkårene i første ledd, eller norsk bank, stiftelse eller forening dersom styret har sitt sete i Norge og styrets flertall består av norske statsborgere bosatt i Norge.
 
@@ -48,7 +53,9 @@ Et skip som er innført i et annet lands skipsregister, anses likevel som norsk 
 
 > Endret ved lover [8 des 1995 nr. 65](lov/1995-12-08-65) (ikr. 1 jan 1996), [21 jan 2000 nr. 8](lov/2000-01-21-8), [27 juni 2008 nr. 72](lov/2008-06-27-72) (ikr. 1 juli 2008 iflg. [res. 27 juni 2008 nr. 743](forskrift/2008-06-27-743)), [17 april 2020 nr. 28](lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](forskrift/2020-04-17-818)).
 
-1 Jf. [EØS-avtalen art. 31](lov/1992-11-27-109/eøsl/a31) og [34](lov/1992-11-27-109/eøsl/a34).2 Jf. [EØS-avtalen art. 28](lov/1992-11-27-109/eøsl/a28).
+1 Jf. [EØS-avtalen art. 31](lov/1992-11-27-109/eøsl/a31) og [34](lov/1992-11-27-109/eøsl/a34).
+
+2 Jf. [EØS-avtalen art. 28](lov/1992-11-27-109/eøsl/a28).
 
 ### § 2. Dødsbo, uskifte og tvangssalg
 
@@ -70,7 +77,13 @@ Reglene i denne paragraf kommer bare til anvendelse på skip som skal være fors
 
 ### § 4. Særregler for visse skip
 
-Skip utstyrt for å brukes stasjonært til boring etter eller utnytting av undersjøiske naturforekomster, anses som norsk når det ikke er innført i et annet lands skipsregister, og det eies av:norsk statsborger;partsrederi eller annet selskap hvor medlemmene hefter ubegrenset for selskapets forpliktelser, dersom norske statsborgere er medeiere for minst 6/10;andre selskaper, dersom selskapet er registrert i Norge.I de tilfeller som er nevnt i nr. 1 og 2, gjelder [§ 1](lov/1994-06-24-39/§1) annet til femte ledd og [§ 2](lov/1994-06-24-39/§2) og [§ 3](lov/1994-06-24-39/§3) tilsvarende.
+Skip utstyrt for å brukes stasjonært til boring etter eller utnytting av undersjøiske naturforekomster, anses som norsk når det ikke er innført i et annet lands skipsregister, og det eies av:
+
+1. norsk statsborger;
+2. partsrederi eller annet selskap hvor medlemmene hefter ubegrenset for selskapets forpliktelser, dersom norske statsborgere er medeiere for minst 6/10;
+3. andre selskaper, dersom selskapet er registrert i Norge.
+
+I de tilfeller som er nevnt i nr. 1 og 2, gjelder [§ 1](lov/1994-06-24-39/§1) annet til femte ledd og [§ 2](lov/1994-06-24-39/§2) og [§ 3](lov/1994-06-24-39/§3) tilsvarende.
 
 Når et skips bruttotonnasje ikke er over 1.000 tonnasjeenheter/registertonn og skipet hovedsakelig brukes i eierens bedrift i Norge, anses skipet som norsk, dersom eierens bedrift har sitt sete og hovedkontor i Norge og skipsfart ikke inngår som selvstendig ledd i bedriftens virksomhet. Som skipsfart regnes også bergings-, slepings- og bukservirksomhet samt fiske og fangst.
 
@@ -132,7 +145,10 @@ Kongen gir regler om kjenningssignal for skip og om merking av skip.
 
 ### § 10. Kondemnasjon
 
-Som uistandsettelig anses et skipnår det ikke kan repareres der det er, eller på et sted det kan flyttes til,når det ikke er istandsetting verd fordi verdien i skadd tilstand med tillegg av påregnelige kostnader ved flytting og reparasjon vil overstige dets antatte verdi i reparert stand.
+Som uistandsettelig anses et skip
+
+1. når det ikke kan repareres der det er, eller på et sted det kan flyttes til,
+2. når det ikke er istandsetting verd fordi verdien i skadd tilstand med tillegg av påregnelige kostnader ved flytting og reparasjon vil overstige dets antatte verdi i reparert stand.
 
 Et uistandsettelig skip kan av eieren forlanges solgt gjennom namsmyndigheten etter reglene om tvangssalg så langt de passer, med den virkning at sjøpanterett og alle andre heftelser i skipet bortfaller. Bestemmelsen i [tvangsfullbyrdelsesloven § 11-20](lov/1992-06-26-86/§11-20) om det minste bud som kan stadfestes, gjelder ikke.
 
@@ -324,7 +340,11 @@ Dersom et registrert hjemmelsdokument eller annet dokument er ugyldig uten at de
 
 ### § 27. Prioritet i tilfelle av registreringsfeil m m
 
-Dersom en rett er anmerket i skipsregisteret på uriktig måte eller ikke er anmerket 2 uker etter at den ble ført inn i dagboken, kan det ved dom bestemmes at retten skal stå tilbake for en senere registrert frivillig rettsstiftelse. Vilkårene for dette erat erververen av den senere registrerte rett var i god tro ved innføringen i dagboken,at erververen, dersom erververens rett skulle stå tilbake, ville lide uforskyldt tap fordi erververen har stolt på skipsregisteret, ogat tapet for erververen ville være vesentlig større enn for den annen dersom dennes rett måtte vike, eller at det ville føre til vesentlige forstyrrelser i senere registrerte rettsforhold dersom den registrerte, men feilaktige innførte rett skulle gå foran.
+Dersom en rett er anmerket i skipsregisteret på uriktig måte eller ikke er anmerket 2 uker etter at den ble ført inn i dagboken, kan det ved dom bestemmes at retten skal stå tilbake for en senere registrert frivillig rettsstiftelse. Vilkårene for dette er
+
+1. at erververen av den senere registrerte rett var i god tro ved innføringen i dagboken,
+2. at erververen, dersom erververens rett skulle stå tilbake, ville lide uforskyldt tap fordi erververen har stolt på skipsregisteret, og
+3. at tapet for erververen ville være vesentlig større enn for den annen dersom dennes rett måtte vike, eller at det ville føre til vesentlige forstyrrelser i senere registrerte rettsforhold dersom den registrerte, men feilaktige innførte rett skulle gå foran.
 
 Blir det i skipsregisteret anmerket en rett som ved en feil ikke først er dagbokført, får anmerkningen også den virkning som en innføring i dagboken har.
 
@@ -404,7 +424,11 @@ Reglene i [§§ 29](lov/1994-06-24-39/§29) og [30](lov/1994-06-24-39/§30) gjel
 
 ### § 33. Innretninger som ikke er å anse som skip
 
-På begjæring av eieren kan følgende innretninger innføres i skipsregisteret, selv om de ikke omfattes av [§ 11](lov/1994-06-24-39/§11) annet eller tredje ledd:flytekran, flytedokk og mudderapparat, dersom de eies av noen som nevnt i [§ 4](lov/1994-06-24-39/§4) første ledd;andre flytende innretninger etter Kongens bestemmelse, dersom de eies av noen som nevnt i [§ 4](lov/1994-06-24-39/§4) første ledd;luftputefartøy, dersom det er norsk, jf [§ 6](lov/1994-06-24-39/§6).
+På begjæring av eieren kan følgende innretninger innføres i skipsregisteret, selv om de ikke omfattes av [§ 11](lov/1994-06-24-39/§11) annet eller tredje ledd:
+
+1. flytekran, flytedokk og mudderapparat, dersom de eies av noen som nevnt i [§ 4](lov/1994-06-24-39/§4) første ledd;
+2. andre flytende innretninger etter Kongens bestemmelse, dersom de eies av noen som nevnt i [§ 4](lov/1994-06-24-39/§4) første ledd;
+3. luftputefartøy, dersom det er norsk, jf [§ 6](lov/1994-06-24-39/§6).
 
 Om valg av hjemsted gjelder reglene i [§ 8](lov/1994-06-24-39/§8) første og annet ledd tilsvarende. For øvrig får reglene i [§ 11](lov/1994-06-24-39/§11) fjerde og femte ledd, [§ 12](lov/1994-06-24-39/§12) annet ledd og [§§ 13](lov/1994-06-24-39/§13) til [30](lov/1994-06-24-39/§30) tilsvarende anvendelse så langt de passer.
 
@@ -438,7 +462,12 @@ Dersom et norsk skip med største lengde under 15 meter tilhører noen som ikke 
 
 ### § 37. Statens erstatningsansvar
 
-Den som lider uforskyldt tap på grunn av registreringsfeil, har rett til erstatning av staten dersom tapet skyldes:at den skadelidte har stolt på en registreringsattest, en pantattest eller en slettelsesattest;at et dokument ikke er blitt dagbokført eller er blitt dagbokført for sent;at et dokument som nevnt i [§ 26](lov/1994-06-24-39/§26) første ledd annet punktum er blitt registrert og den skadelidte i god tro har fått dagbokført en rett som den skadelidte har ervervet ved avtale i tillit til at det registrerte dokumentet var gyldig;at en rett etter [§ 27](lov/1994-06-24-39/§27) må stå tilbake for en senere registrert rett.
+Den som lider uforskyldt tap på grunn av registreringsfeil, har rett til erstatning av staten dersom tapet skyldes:
+
+1. at den skadelidte har stolt på en registreringsattest, en pantattest eller en slettelsesattest;
+2. at et dokument ikke er blitt dagbokført eller er blitt dagbokført for sent;
+3. at et dokument som nevnt i [§ 26](lov/1994-06-24-39/§26) første ledd annet punktum er blitt registrert og den skadelidte i god tro har fått dagbokført en rett som den skadelidte har ervervet ved avtale i tillit til at det registrerte dokumentet var gyldig;
+4. at en rett etter [§ 27](lov/1994-06-24-39/§27) må stå tilbake for en senere registrert rett.
 
 ### § 38. Forskrifter. Beregning av frister
 
@@ -466,7 +495,12 @@ Særskilt panterett kan stiftes i seksjoner eller i byggekontrakt for seksjoner 
 
 Passasjerskip og lasteskip med største lengde 15 meter eller mer, boreplattformer og andre flyttbare innretninger som er registrert i et annet lands skipsregister og bareboat-befraktes av noen som oppfyller vilkårene i [§ 1](lov/1994-06-24-39/§1) eller [§ 4](lov/1994-06-24-39/§4), kan bareboatregistreres i skipsregisteret for en periode på inntil ti år etter skriftlig anmodning fra bareboat-befrakteren. Perioden kan ikke være lengre enn varigheten av bareboat-certepartiet. Hvis samtykket etter annet ledd nr. 3 er tidsbegrenset, skal tillatelse etter første punktum gjelde for den samme perioden, men ikke overstige ti år. Skipsregisteret kan forlenge perioden for inntil fem år om gangen etter ny skriftlig anmodning fra bareboat-befrakteren. Slik anmodning kan fremsettes tidligst seks måneder før den forutgående tillatelsen utløper.
 
-Før skipet kan registreres etter første ledd må bareboat-befrakteren fremlegge følgende dokumentasjon:kopi av bareboat-certepartiet,utskrift fra skipsregisteret i primærstaten som dokumenterer hvem som er skipets eier og alle registrerte rettighetshavere,skriftlig samtykke til bareboatregistrering i norsk skipsregister fra skipets eier og samtlige rettighetshavere, ogdokumentasjon fra skipsregisteret i primærstaten som viser at skipet midlertidig tillates å bareboatregistrere i skipsregisteret og seile under norsk flagg.
+Før skipet kan registreres etter første ledd må bareboat-befrakteren fremlegge følgende dokumentasjon:
+
+1. kopi av bareboat-certepartiet,
+2. utskrift fra skipsregisteret i primærstaten som dokumenterer hvem som er skipets eier og alle registrerte rettighetshavere,
+3. skriftlig samtykke til bareboatregistrering i norsk skipsregister fra skipets eier og samtlige rettighetshavere, og
+4. dokumentasjon fra skipsregisteret i primærstaten som viser at skipet midlertidig tillates å bareboatregistrere i skipsregisteret og seile under norsk flagg.
 
 Skip registrert etter denne bestemmelsen er underlagt norsk jurisdiksjon og skal føre norsk flagg.
 
@@ -478,7 +512,14 @@ Departementet kan i forskrift gi nærmere regler om bareboatregistrering, herund
 
 ### § 40 a. Sletting av bareboatregistrerte skip
 
-Skip som er registrert etter [§ 40](lov/1994-06-24-39/§40), skal slettes i skipsregisteret når:bareboat-certepartiet opphører,betingelsene for registrering etter [§ 40](lov/1994-06-24-39/§40) første ledd ikke lenger er til stede,registerføreren får melding fra bareboat-befrakteren eller skipets eier om at skipet skal slettes fra registeret,skipet etter primærstatens rett ikke lenger har rett til midlertidig å seile under norsk flagg,registerføreren får melding etter [§ 13](lov/1994-06-24-39/§13) annet ledd om at et skip er gått tapt eller er hugget opp, ellermelding om at et skip er gått tapt eller er hugget opp, ikke er gitt innen fristen etter [§ 13](lov/1994-06-24-39/§13) annet ledd, men registerføreren på annen måte får kjennskap til forholdet. Før skipet slettes, skal eieren i så fall gis adgang til å uttale seg.
+Skip som er registrert etter [§ 40](lov/1994-06-24-39/§40), skal slettes i skipsregisteret når:
+
+1. bareboat-certepartiet opphører,
+2. betingelsene for registrering etter [§ 40](lov/1994-06-24-39/§40) første ledd ikke lenger er til stede,
+3. registerføreren får melding fra bareboat-befrakteren eller skipets eier om at skipet skal slettes fra registeret,
+4. skipet etter primærstatens rett ikke lenger har rett til midlertidig å seile under norsk flagg,
+5. registerføreren får melding etter [§ 13](lov/1994-06-24-39/§13) annet ledd om at et skip er gått tapt eller er hugget opp, eller
+6. melding om at et skip er gått tapt eller er hugget opp, ikke er gitt innen fristen etter [§ 13](lov/1994-06-24-39/§13) annet ledd, men registerføreren på annen måte får kjennskap til forholdet. Før skipet slettes, skal eieren i så fall gis adgang til å uttale seg.
 
 > Tilføyd ved [lov 17 april 2020 nr. 28](lov/2020-04-17-28) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 818](forskrift/2020-04-17-818)).
 
@@ -486,7 +527,11 @@ Skip som er registrert etter [§ 40](lov/1994-06-24-39/§40), skal slettes i ski
 
 På begjæring fra skipets eier kan passasjerskip og lasteskip med største lengde 15 meter eller mer, boreplattformer og andre flyttbare innretninger som er leid ut på bareboat-certeparti og er registrert i skipsregisteret, gis tillatelse til bareboatregistrering i et utenlandsk skipsregister for en periode på inntil ti år. Perioden kan ikke være lengre enn varigheten av bareboat-certepartiet. Skipsregisteret kan etter skriftlig anmodning fra skipets eier forlenge perioden inntil fem år om gangen.
 
-For at tillatelse eller forlengelse kan gis, må skipets eier fremlegge følgende dokumentasjon:kopi av bareboat-certepartiet,skriftlig samtykke til at skipet kan bareboatregistreres i det utenlandske skipsregisteret fra skipets eier og samtlige rettighetshavere i skipet, ogdokumentasjon fra det utenlandske skipsregisteret som viser at skipet tillates å bareboatregistreres der.
+For at tillatelse eller forlengelse kan gis, må skipets eier fremlegge følgende dokumentasjon:
+
+1. kopi av bareboat-certepartiet,
+2. skriftlig samtykke til at skipet kan bareboatregistreres i det utenlandske skipsregisteret fra skipets eier og samtlige rettighetshavere i skipet, og
+3. dokumentasjon fra det utenlandske skipsregisteret som viser at skipet tillates å bareboatregistreres der.
 
 Et skip som er bareboatregistrert etter første ledd har rett til midlertidig å føre et annet lands flagg, og skal i denne perioden ikke anses å være norsk i henhold til [§ 1](lov/1994-06-24-39/§1) i denne loven. Det har ikke rett til å føre norsk flagg og skal ikke være forsynt med norsk nasjonalitetsbevis.
 
@@ -512,7 +557,11 @@ Når tillatelsen til bareboatregistrering bortfaller etter første ledd, har ski
 
 Frivillig stiftet panterett i skip kan bare få rettsvern ved registrering av retten i samsvar med reglene i [kapittel 2](lov/1994-06-24-39/kap2).
 
-Som skip regnes:skip som skal eller kan innføres i skipsregisteret, jf [§ 11](lov/1994-06-24-39/§11);innretning som kan innføres i skipsregisteret etter [§ 33](lov/1994-06-24-39/§33);skip eller innretning under bygging samt byggekontrakt, alt for så vidt innføring i skipsbyggingsregisteret kan skje, jf [§ 31](lov/1994-06-24-39/§31) og [§ 33](lov/1994-06-24-39/§33) tredje ledd.
+Som skip regnes:
+
+1. skip som skal eller kan innføres i skipsregisteret, jf [§ 11](lov/1994-06-24-39/§11);
+2. innretning som kan innføres i skipsregisteret etter [§ 33](lov/1994-06-24-39/§33);
+3. skip eller innretning under bygging samt byggekontrakt, alt for så vidt innføring i skipsbyggingsregisteret kan skje, jf [§ 31](lov/1994-06-24-39/§31) og [§ 33](lov/1994-06-24-39/§33) tredje ledd.
 
 Bestemmelsene i første og annet ledd gjelder tilsvarende for panterett stiftet ved utleggsforretning. Er skipet ikke innført i skipsregisteret eller skipsbyggingsregisteret, trer likevel tinglysing av slik panterett istedenfor registrering, og panteretten anmerkes på eierens blad i Løsøreregisteret. Blir skipet senere innført i skipsregisteret eller skipsbyggingsregisteret, skal tinglyste utleggsforretninger overføres til dette registeret.
 
@@ -534,7 +583,14 @@ Reglene i denne paragraf gjelder tilsvarende for innretninger som går inn under
 
 ### § 44. Forfall
 
-Gjeld sikret ved kontraktsmessig panterett i skip som er innført i skipsregisteret forfaller, foruten til avtalt tid, når:skipet går tapt eller hugges opp;panthaverens sikkerhet blir vesentlig forringet som følge av skade tilføyd skipet;skipet taper sin nasjonalitet;skipet selges ved tvangssalg eller annet salg etter tvangsfullbyrdelsesloven;konkurs eller gjeldsforhandling blir åpnet hos skipets eier eller hos skyldneren;plikten til å betale renter og avdrag og holde skipet ved like og forsikret etter avtalen blir vesentlig misligholdt.
+Gjeld sikret ved kontraktsmessig panterett i skip som er innført i skipsregisteret forfaller, foruten til avtalt tid, når:
+
+1. skipet går tapt eller hugges opp;
+2. panthaverens sikkerhet blir vesentlig forringet som følge av skade tilføyd skipet;
+3. skipet taper sin nasjonalitet;
+4. skipet selges ved tvangssalg eller annet salg etter tvangsfullbyrdelsesloven;
+5. konkurs eller gjeldsforhandling blir åpnet hos skipets eier eller hos skyldneren;
+6. plikten til å betale renter og avdrag og holde skipet ved like og forsikret etter avtalen blir vesentlig misligholdt.
 
 Krav om innfrielse etter første ledd nr. 5 gir ikke rett til å kreve forsinkelsesrente.
 
@@ -558,7 +614,13 @@ For skip av slik art som nevnt i [§ 4](lov/1994-06-24-39/§4) første ledd gjel
 
 ### § 51. Fordringer som gir sjøpanterett
 
-Fordringer mot skipets reder er sikret ved sjøpanterett i skipet for så vidt gjelder krav på:hyre og annen godtgjørelse til skipsføreren og andre som er ansatt om bord, i anledning av deres tjeneste på skipet;havne-, kanal- og andre vannveisavgifter og losavgifter;erstatning for tap av liv eller skade på person oppstått i direkte forbindelse med driften av skipet;erstatning for tap av eller skade på eiendom oppstått i direkte forbindelse med driften av skipet, såfremt kravet ikke kan grunnes på avtale;bergelønn, erstatning for fjerning av vrak og bidrag til felleshavari.
+Fordringer mot skipets reder er sikret ved sjøpanterett i skipet for så vidt gjelder krav på:
+
+1. hyre og annen godtgjørelse til skipsføreren og andre som er ansatt om bord, i anledning av deres tjeneste på skipet;
+2. havne-, kanal- og andre vannveisavgifter og losavgifter;
+3. erstatning for tap av liv eller skade på person oppstått i direkte forbindelse med driften av skipet;
+4. erstatning for tap av eller skade på eiendom oppstått i direkte forbindelse med driften av skipet, såfremt kravet ikke kan grunnes på avtale;
+5. bergelønn, erstatning for fjerning av vrak og bidrag til felleshavari.
 
 Sjøpanterett oppstår også om kravet retter seg mot skipets eier, befrakter, disponent eller noen som rederen har overdratt sine funksjoner til.
 
@@ -594,7 +656,11 @@ Foreldelsesfristen løper ikke så lenge sjøpanthaveren er rettslig avskåret f
 
 ### § 61. Fordringer som gir sjøpanterett
 
-Sjøpanterett i last tilkommer:fordring på bergelønn og bidrag til felleshavari;fordring som grunner seg på at bortfrakteren eller skipsføreren i henhold til sin lovbestemte fullmakt har truffet en avtale eller forføyning eller gjort utlegg for lasteierens regning, samt lasteierens fordring på erstatning for gods som er solgt til fordel for andre lasteiere;bortfrakterens fordringer ifølge fraktavtalen for så vidt fordringen kan gjøres gjeldende mot den som krever utlevering.
+Sjøpanterett i last tilkommer:
+
+1. fordring på bergelønn og bidrag til felleshavari;
+2. fordring som grunner seg på at bortfrakteren eller skipsføreren i henhold til sin lovbestemte fullmakt har truffet en avtale eller forføyning eller gjort utlegg for lasteierens regning, samt lasteierens fordring på erstatning for gods som er solgt til fordel for andre lasteiere;
+3. bortfrakterens fordringer ifølge fraktavtalen for så vidt fordringen kan gjøres gjeldende mot den som krever utlevering.
 
 ### § 62. Prioritet
 
@@ -628,7 +694,15 @@ Søksmål til dekning av sjøpanterett kan reises mot skipsføreren eller mot pa
 
 ### § 74. Anerkjennelse av pant i fremmed skip m m
 
-Panterett i fremmed skip skal anerkjennes som gyldig her i riket forutsattat panteretten er stiftet og registrert i samsvar med lovgivningen i den stat hvor skipet er registrert,at registeret og de dokumenter som ifølge registreringsstatens lovgivning skal oppbevares hos registerføreren, er offentlig tilgjengelige, og at utskrifter av registeret og avskrifter av dokumentene kan fås hos registerføreren, ogat registeret eller et dokument som nevnt i nr 2 angirden opprinnelige panthavers navn og adresse eller at dokumentet er utstedt til ihendehaveren,det beløp som panteretten skal sikre, ogdatoen og andre forhold som ifølge registreringsstatens lovgivning bestemmer prioriteten.
+Panterett i fremmed skip skal anerkjennes som gyldig her i riket forutsatt
+
+1. at panteretten er stiftet og registrert i samsvar med lovgivningen i den stat hvor skipet er registrert,
+2. at registeret og de dokumenter som ifølge registreringsstatens lovgivning skal oppbevares hos registerføreren, er offentlig tilgjengelige, og at utskrifter av registeret og avskrifter av dokumentene kan fås hos registerføreren, og
+3. at registeret eller et dokument som nevnt i nr 2 angir
+
+   1. den opprinnelige panthavers navn og adresse eller at dokumentet er utstedt til ihendehaveren,
+   2. det beløp som panteretten skal sikre, og
+   3. datoen og andre forhold som ifølge registreringsstatens lovgivning bestemmer prioriteten.
 
 Blir skipet ervervet som norsk eiendom og innført i norsk skipsregister, skal panteheftelser som er oppført i det utenlandske slettelsesbevis, overføres til skipets blad i skipsregisteret med bibehold av heftelsenes innbyrdes prioritet fra den opprinnelige registrering. Tilfredsstiller en heftelse ikke vilkårene for å kunne anmerkes i skipsregisteret, skal registerføreren gi partene en frist på minst 60 dager for å rette mangelen. Virkningene av registreringen består til utløpet av denne fristen.
 
@@ -638,7 +712,10 @@ Eiendomsrett og panterett i skip som blir bygd eller skal bygges i utlandet, ska
 
 Reglene i [§ 45](lov/1994-06-24-39/§45), [§§ 51](lov/1994-06-24-39/§51) til [55](lov/1994-06-24-39/§55) og [§§ 71](lov/1994-06-24-39/§71) til [73](lov/1994-06-24-39/§73) får anvendelse i alle tilfeller hvor panterett eller tilbakeholdsrett i skip gjøres gjeldende ved norsk domstol.
 
-Etter lovgivningen i den stat hvor skipet er registrert, avgjøres:spørsmål om en registrert heftelses prioritet i forhold til andre registrerte heftelser og dens virkning for øvrig i forhold til tredjepersoner bortsett fra prioriteten i forhold til sjøpanterett og tilbakeholdsrett;spørsmål vedrørende legale rettigheter i skipet med prioritet etter registrerte heftelser.
+Etter lovgivningen i den stat hvor skipet er registrert, avgjøres:
+
+1. spørsmål om en registrert heftelses prioritet i forhold til andre registrerte heftelser og dens virkning for øvrig i forhold til tredjepersoner bortsett fra prioriteten i forhold til sjøpanterett og tilbakeholdsrett;
+2. spørsmål vedrørende legale rettigheter i skipet med prioritet etter registrerte heftelser.
 
 Reglene i annet ledd gjelder tilsvarende for skip under bygging. Den innbyrdes prioritet mellom tilbakeholdsrett og andre heftelser i skip under bygging før sjøsettingen avgjøres etter lovgivningen i den stat hvor skipet bygges.
 
@@ -656,7 +733,14 @@ Blir et skip tvangssolgt i utlandet, faller sjøpanterett, registrert panterett 
 
 Reglene her gjelder for arrest i skip etter [tvisteloven kapittel 32](lov/2005-06-17-90/kap32) og [33](lov/2005-06-17-90/kap33). Reglene gjelder tilsvarende for midlertidig forføyning etter [tvisteloven kapittel 32](lov/2005-06-17-90/kap32) og [34](lov/2005-06-17-90/kap34) når forføyningen går ut på tilbakehold av et skip.
 
-[§§ 92](lov/1994-06-24-39/§92), [93](lov/1994-06-24-39/§93), [94](lov/1994-06-24-39/§94) og [96](lov/1994-06-24-39/§96) gjelder ikke forarrest av skip som ikke er registreringspliktige etter [§ 11](lov/1994-06-24-39/§11) annet ledd,arrest som ikke innebærer at skipet skal holdes tilbake etter reglene i [§ 95](lov/1994-06-24-39/§95) annet ledd,arrest som begjæres etter at det foreligger tvangsgrunnlag for kravet som nevnt i [tvangsfullbyrdelsesloven § 4-1](lov/1992-06-26-86/§4-1) annet ledd,arrest til midlertidig sikring av krav på skatter og avgifter og andre offentligrettslige krav, eller til sikring eller gjennomføring av andre offentlige vedtak.For disse tilfellene gjelder reglene i [tvisteloven kapittel 32](lov/2005-06-17-90/kap32) til 34 fullt ut.
+[§§ 92](lov/1994-06-24-39/§92), [93](lov/1994-06-24-39/§93), [94](lov/1994-06-24-39/§94) og [96](lov/1994-06-24-39/§96) gjelder ikke for
+
+1. arrest av skip som ikke er registreringspliktige etter [§ 11](lov/1994-06-24-39/§11) annet ledd,
+2. arrest som ikke innebærer at skipet skal holdes tilbake etter reglene i [§ 95](lov/1994-06-24-39/§95) annet ledd,
+3. arrest som begjæres etter at det foreligger tvangsgrunnlag for kravet som nevnt i [tvangsfullbyrdelsesloven § 4-1](lov/1992-06-26-86/§4-1) annet ledd,
+4. arrest til midlertidig sikring av krav på skatter og avgifter og andre offentligrettslige krav, eller til sikring eller gjennomføring av andre offentlige vedtak.
+
+For disse tilfellene gjelder reglene i [tvisteloven kapittel 32](lov/2005-06-17-90/kap32) til 34 fullt ut.
 
 Reglene i dette kapittel gjelder ikke for arrest som er begrenset til last, frakt, brensel eller del av skip.
 
@@ -666,13 +750,35 @@ Reglene i dette kapittel gjelder ikke for arrest som er begrenset til last, frak
 
 Arrest i skip kan bare tas for å sikre et sjørettslig krav.
 
-Med sjørettslig krav menes et krav som har et eller flere av de følgende grunnlag:skade forårsaket av et skip ved sammenstøt eller på annen måte,død eller skade på person forårsaket av et skip eller inntruffet i forbindelse med bruken av et skip,berging og fjerning av vrak,avtale ved certeparti eller på annen måte om bruk eller leie av et skip,avtale ved certeparti eller på annen måte om transport av gods med skip,tap av eller skade på gods, herunder reisegods, som transporteres med skip,felleshavari,bodmeri,sleping,losing,gods eller materialer som er levert til et skip på et hvilket som helst sted for å brukes til drift eller vedlikehold av skipet,bygging, reparasjon eller utstyr av et skip samt omkostninger og avgifter ved dokksetting,hyre og annen godtgjørelse til skipsføreren og andre ansatte om bord, i anledning deres tjeneste på skipet,skipsførerens utlegg, herunder utlegg gjort av avskipere, befraktere eller agenter for skipets eller eierens regning,tvist om eiendomsretten til et skip,tvist mellom sameiere i et skip om eiendomsretten, besittelsen, bruken eller inntektene av skipet,panterett eller annen sikkerhet i et skip, med unntak av sjøpanterett.
+Med sjørettslig krav menes et krav som har et eller flere av de følgende grunnlag:
+
+1. skade forårsaket av et skip ved sammenstøt eller på annen måte,
+2. død eller skade på person forårsaket av et skip eller inntruffet i forbindelse med bruken av et skip,
+3. berging og fjerning av vrak,
+4. avtale ved certeparti eller på annen måte om bruk eller leie av et skip,
+5. avtale ved certeparti eller på annen måte om transport av gods med skip,
+6. tap av eller skade på gods, herunder reisegods, som transporteres med skip,
+7. felleshavari,
+8. bodmeri,
+9. sleping,
+10. losing,
+11. gods eller materialer som er levert til et skip på et hvilket som helst sted for å brukes til drift eller vedlikehold av skipet,
+12. bygging, reparasjon eller utstyr av et skip samt omkostninger og avgifter ved dokksetting,
+13. hyre og annen godtgjørelse til skipsføreren og andre ansatte om bord, i anledning deres tjeneste på skipet,
+14. skipsførerens utlegg, herunder utlegg gjort av avskipere, befraktere eller agenter for skipets eller eierens regning,
+15. tvist om eiendomsretten til et skip,
+16. tvist mellom sameiere i et skip om eiendomsretten, besittelsen, bruken eller inntektene av skipet,
+17. panterett eller annen sikkerhet i et skip, med unntak av sjøpanterett.
 
 > Tilføyd ved [lov 11 juni 1993 nr. 77](lov/1993-06-11-77) (ikr. 1 mai 1995).
 
 ### § 93. Nærmere om hvilke skip som kan arresteres
 
-Arrest kan bare tas idet skip som det sjørettslige krav gjelder, ellerdersom eieren av det skip som det sjørettslige krav gjelder, er personlig ansvarlig for kravet: andre skip som vedkommende eide på det tidspunkt kravet oppstod,dersom en annen enn eieren av det skip som det sjørettslige kravet gjelder, er personlig ansvarlig for kravet: andre skip som er eid av den som er personlig ansvarlig for kravet.
+Arrest kan bare tas i
+
+1. det skip som det sjørettslige krav gjelder, eller
+2. dersom eieren av det skip som det sjørettslige krav gjelder, er personlig ansvarlig for kravet: andre skip som vedkommende eide på det tidspunkt kravet oppstod,
+3. dersom en annen enn eieren av det skip som det sjørettslige kravet gjelder, er personlig ansvarlig for kravet: andre skip som er eid av den som er personlig ansvarlig for kravet.
 
 Skip anses for å ha samme eier når alle andeler er eid av samme person eller personer.
 
@@ -724,7 +830,13 @@ Betaler saksøkeren eller en sikkerhetsstiller havneavgiften, trer vedkommende f
 
 ### § 98. Forholdet til tvangsfullbyrdelsesloven og tvisteloven
 
-For øvrig gjelder reglene i tvangsfullbyrdelsesloven og tvisteloven sjuende del, herunder reglene omforholdet til folkeretten og utenlandske statsskip og andre utenlandske skip,saksøkers kostnadsansvar og erstatningsansvar og rettens adgang til å pålegge saksøker å stille sikkerhet for mulig erstatningsansvar,vilkårene for arrest,behandlingen av arrestbegjæringen,rettsvirkningene av arrest.
+For øvrig gjelder reglene i tvangsfullbyrdelsesloven og tvisteloven sjuende del, herunder reglene om
+
+- forholdet til folkeretten og utenlandske statsskip og andre utenlandske skip,
+- saksøkers kostnadsansvar og erstatningsansvar og rettens adgang til å pålegge saksøker å stille sikkerhet for mulig erstatningsansvar,
+- vilkårene for arrest,
+- behandlingen av arrestbegjæringen,
+- rettsvirkningene av arrest.
 
 > Tilføyd ved [lov 11 juni 1993 nr. 77](lov/1993-06-11-77) (ikr. 1 mai 1995), endret ved lover [22 des 1999 nr. 106](lov/1999-12-22-106) (ikr. 1 jan 2000), tidligere § 97, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
 
@@ -844,7 +956,12 @@ Partrederiets fordringshavere kan, for så vidt angår forpliktelser som påhvil
 
 En partreder har, etter 6 måneders skriftlig varsel til medrederne, rett til å forlange rederiet oppløst dersom partrederen ikke blir utløst av en eller flere av medrederne. Ønsker flere medredere å utløse vedkommende, bestemmes deres innbyrdes rett etter forholdet mellom deres parter i rederiet.
 
-I følgende tilfeller kan retten etter påstand fra en partreder gi denne rett til å utløse en eller flere av medrederne, eller beslutte at partrederiet skal oppløses:når et av partrederiets skip uten partrederens skyld eller samtykke opphører å være norsk og det ikke innen 4 måneder er oppnådd en slik ordning at nasjonaliteten kan opprettholdes;når det er åpnet konkurs eller offentlig akkordforhandling i en medreders bo eller en medreder for øvrig er ute av stand til å dekke sine forpliktelser;når partrederens rett er blitt krenket ved vesentlig mislighold av rederikontrakten;når utløsning eller oppløsning tilsies av tungtveiende rimelighetshensyn.
+I følgende tilfeller kan retten etter påstand fra en partreder gi denne rett til å utløse en eller flere av medrederne, eller beslutte at partrederiet skal oppløses:
+
+1. når et av partrederiets skip uten partrederens skyld eller samtykke opphører å være norsk og det ikke innen 4 måneder er oppnådd en slik ordning at nasjonaliteten kan opprettholdes;
+2. når det er åpnet konkurs eller offentlig akkordforhandling i en medreders bo eller en medreder for øvrig er ute av stand til å dekke sine forpliktelser;
+3. når partrederens rett er blitt krenket ved vesentlig mislighold av rederikontrakten;
+4. når utløsning eller oppløsning tilsies av tungtveiende rimelighetshensyn.
 
 En partreder har i alle tilfelle rett til å utløse den medreder som har bevirket at det er inntruffet et forhold som nevnt i annet ledd nr 1 til 4. Gjør flere partredere gjeldende krav om å utløse, bestemmes deres innbyrdes rett etter forholdet mellom deres parter i rederiet.
 
@@ -960,7 +1077,13 @@ Under forutsetning av gjensidighet kan Kongen utvide disse bestemmelser til ogs�
 
 ### § 143. Alkoholpåvirkning m.m.
 
-Ingen må føre eller forsøke å føre skip som har en største lengde på 15 meter eller mer,med en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet,med en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft, ellerunder påvirkning av et annet berusende eller bedøvende middel enn alkohol.Villfarelse med hensyn til alkoholkonsentrasjonens størrelse fritar ikke for straff. Forbudet gjelder tilsvarende for den som utfører eller forsøker å utføre tjeneste som er av vesentlig betydning for sikkerheten til sjøs, herunder som los.
+Ingen må føre eller forsøke å føre skip som har en største lengde på 15 meter eller mer,
+
+1. med en alkoholkonsentrasjon i blodet som er større enn 0,2 promille, eller en alkoholmengde i kroppen som kan føre til så stor alkoholkonsentrasjon i blodet,
+2. med en større alkoholkonsentrasjon i utåndingsluft enn 0,1 milligram per liter luft, eller
+3. under påvirkning av et annet berusende eller bedøvende middel enn alkohol.
+
+Villfarelse med hensyn til alkoholkonsentrasjonens størrelse fritar ikke for straff. Forbudet gjelder tilsvarende for den som utfører eller forsøker å utføre tjeneste som er av vesentlig betydning for sikkerheten til sjøs, herunder som los.
 
 Den som forbudet i første ledd gjelder for, må ikke nyte alkohol eller ta annet berusende eller bedøvende middel i de første seks timer etter at tjenesten er avsluttet, når vedkommende forstår eller må forstå at det kan bli politietterforskning på grunn av utførelsen av tjenesten. Dette forbudet gjelder likevel ikke etter at blodprøve eller utåndingsprøve er tatt, eller politiet har avgjort at slik prøve ikke skal tas.
 
@@ -970,7 +1093,12 @@ Den som forsettlig eller uaktsomt overtrer denne bestemmelsen, straffes med bøt
 
 ### § 144. Pliktmessig avhold
 
-Den som førerskip som har en største lengde på 15 meter eller mer og som brukes i næring, elleren småbåt som omfattes av forbudet i [lov 26. juni 1998 nr. 47](lov/1998-06-26-47) om fritids- og småbåter [§ 33](lov/1998-06-26-47/§33) første ledd og som brukes til passasjertransport i næring,må i tjenestetiden ikke nyte alkohol eller annet berusende eller bedøvende middel. Forbudet gjelder tilsvarende for den som utfører eller forsøker å utføre tjeneste som er av vesentlig betydning for sikkerheten til sjøs, herunder los.
+Den som fører
+
+1. skip som har en største lengde på 15 meter eller mer og som brukes i næring, eller
+2. en småbåt som omfattes av forbudet i [lov 26. juni 1998 nr. 47](lov/1998-06-26-47) om fritids- og småbåter [§ 33](lov/1998-06-26-47/§33) første ledd og som brukes til passasjertransport i næring,
+
+må i tjenestetiden ikke nyte alkohol eller annet berusende eller bedøvende middel. Forbudet gjelder tilsvarende for den som utfører eller forsøker å utføre tjeneste som er av vesentlig betydning for sikkerheten til sjøs, herunder los.
 
 Forbudet gjelder også i et tidsrom av 8 timer før tjenesten begynner.
 
@@ -980,7 +1108,11 @@ Den som forsettlig eller uaktsomt overtrer denne bestemmelsen, straffes med bøt
 
 ### § 145. Alkotest, utåndingsprøve, blodprøve
 
-Politiet kan ta alkotest (foreløpig blåseprøve) av en personsom det er grunn til å tro at har overtrådt bestemmelsene i [§§ 143](lov/1994-06-24-39/§143) og [144](lov/1994-06-24-39/§144);som med eller uten egen skyld er innblandet i en ulykke;når det blir krevd som ledd i kontroll av skipstrafikken.
+Politiet kan ta alkotest (foreløpig blåseprøve) av en person
+
+1. som det er grunn til å tro at har overtrådt bestemmelsene i [§§ 143](lov/1994-06-24-39/§143) og [144](lov/1994-06-24-39/§144);
+2. som med eller uten egen skyld er innblandet i en ulykke;
+3. når det blir krevd som ledd i kontroll av skipstrafikken.
 
 Dersom resultatet av alkotesten eller andre forhold gir grunn til å tro at bestemmelsene i [§§ 143](lov/1994-06-24-39/§143) eller [144](lov/1994-06-24-39/§144) er overtrådt, kan politiet fremstille vedkommende for utåndingsprøve, blodprøve og klinisk legeundersøkelse for å søke å fastslå påvirkningen. Slik fremstilling skal i alminnelighet finne sted for den som nekter å medvirke til alkotest.
 
@@ -1046,7 +1178,12 @@ Den som har forsikret ansvar for krav undergitt begrensning, har samme rett til 
 
 ### § 172. Begrensning av krav i anledning av person- eller tingskade, forsinkelse m.m. etter reglene i London-konvensjonen 1976 om begrensning av sjørettslige krav, som endret ved 1996-protokollen
 
-Rett til ansvarsbegrensning etter [§ 175](lov/1994-06-24-39/§175) gjelder, uansett grunnlaget for ansvaret, krav i anledning avtap av liv eller skade på person (personskade) eller tap av eller skade på eiendom (tingskade), dersom skaden er oppstått om bord eller i direkte forbindelse med driften av skipet eller med berging;skade som følge av forsinkelse med befordring til sjøs av gods, passasjerer eller deres reisegods;annen skade dersom den er forårsaket ved krenkelse av en ikke-kontraktsmessig rett, og er oppstått i direkte forbindelse med driften av skipet eller med berging;tiltak truffet for å avverge eller begrense tap som ansvaret ville vært begrenset for etter bestemmelsen her, samt tap som skyldes slike tiltak.
+Rett til ansvarsbegrensning etter [§ 175](lov/1994-06-24-39/§175) gjelder, uansett grunnlaget for ansvaret, krav i anledning av
+
+1. tap av liv eller skade på person (personskade) eller tap av eller skade på eiendom (tingskade), dersom skaden er oppstått om bord eller i direkte forbindelse med driften av skipet eller med berging;
+2. skade som følge av forsinkelse med befordring til sjøs av gods, passasjerer eller deres reisegods;
+3. annen skade dersom den er forårsaket ved krenkelse av en ikke-kontraktsmessig rett, og er oppstått i direkte forbindelse med driften av skipet eller med berging;
+4. tiltak truffet for å avverge eller begrense tap som ansvaret ville vært begrenset for etter bestemmelsen her, samt tap som skyldes slike tiltak.
 
 Dersom den ansvarlige kan gjøre gjeldende et motkrav, og krav og motkrav er oppstått ved samme hendelse, kan begrensning bare kreves for den del av kravet som overstiger motkravet.
 
@@ -1056,7 +1193,11 @@ Når skipets tonnasje er på 300 tonn eller mindre, omfattes også krav av den a
 
 ### § 172a. Begrensning av krav i anledning oppryddingstiltak etter sjøulykker m.m.
 
-Når skipets tonnasje er på over 300 tonn, gjelder rett til ansvarsbegrensning etter [§ 175a](lov/1994-06-24-39/§175a), uansett grunnlaget for ansvaret, for krav i anledning av:hevning, fjerning, ødeleggelse eller uskadeliggjørelse av et skip som er sunket, strandet, forlatt eller blitt vrak, samt alt som er eller har vært om bord i skipet;fjerning, ødeleggelse eller uskadeliggjørelse av skipets last;tiltak truffet for å avverge eller begrense tap som ansvaret ville vært begrenset for etter bestemmelsen her, samt tap som skyldes slike tiltak.
+Når skipets tonnasje er på over 300 tonn, gjelder rett til ansvarsbegrensning etter [§ 175a](lov/1994-06-24-39/§175a), uansett grunnlaget for ansvaret, for krav i anledning av:
+
+1. hevning, fjerning, ødeleggelse eller uskadeliggjørelse av et skip som er sunket, strandet, forlatt eller blitt vrak, samt alt som er eller har vært om bord i skipet;
+2. fjerning, ødeleggelse eller uskadeliggjørelse av skipets last;
+3. tiltak truffet for å avverge eller begrense tap som ansvaret ville vært begrenset for etter bestemmelsen her, samt tap som skyldes slike tiltak.
 
 [§ 172](lov/1994-06-24-39/§172) annet ledd gjelder tilsvarende
 
@@ -1064,7 +1205,14 @@ Når skipets tonnasje er på over 300 tonn, gjelder rett til ansvarsbegrensning 
 
 ### § 173. Krav unntatt fra begrensning
 
-Retten til ansvarsbegrensning gjelder ikke:krav på bergelønn, herunder særlig vederlag etter [§ 449](lov/1994-06-24-39/§449), felleshavaribidrag eller vederlag i henhold til kontrakt vedrørende tiltak som nevnt i [§ 172](lov/1994-06-24-39/§172) første ledd nr. 4 eller [§ 172a](lov/1994-06-24-39/§172a) første ledd;krav i anledning oljesøl av den art som er nevnt i [§§ 191](lov/1994-06-24-39/§191) og [207](lov/1994-06-24-39/§207);krav undergitt internasjonal konvensjon eller nasjonal lov som regulerer eller forbyr ansvarsbegrensning for atomskade;krav i anledning av atomskade voldt av et atomdrevet skip;krav i anledning av skade som påføres arbeidstaker som omfattes av [§ 171](lov/1994-06-24-39/§171) annet ledd og som har arbeidsoppgaver i forbindelse med driften av skipet eller med berging;krav på renter og sakskostnader.
+Retten til ansvarsbegrensning gjelder ikke:
+
+1. krav på bergelønn, herunder særlig vederlag etter [§ 449](lov/1994-06-24-39/§449), felleshavaribidrag eller vederlag i henhold til kontrakt vedrørende tiltak som nevnt i [§ 172](lov/1994-06-24-39/§172) første ledd nr. 4 eller [§ 172a](lov/1994-06-24-39/§172a) første ledd;
+2. krav i anledning oljesøl av den art som er nevnt i [§§ 191](lov/1994-06-24-39/§191) og [207](lov/1994-06-24-39/§207);
+3. krav undergitt internasjonal konvensjon eller nasjonal lov som regulerer eller forbyr ansvarsbegrensning for atomskade;
+4. krav i anledning av atomskade voldt av et atomdrevet skip;
+5. krav i anledning av skade som påføres arbeidstaker som omfattes av [§ 171](lov/1994-06-24-39/§171) annet ledd og som har arbeidsoppgaver i forbindelse med driften av skipet eller med berging;
+6. krav på renter og sakskostnader.
 
 > Endret ved lover [17 mars 1995 nr. 13](lov/1995-03-17-13) (ikr. 30 mai 1996), [2 aug 1996 nr. 61](lov/1996-08-02-61) (ikr. 3 des 1997), [17 juni 2005 nr. 88](lov/2005-06-17-88) (ikr. 1 nov 2006 iflg. [res. 2 des 2005 nr. 1358](forskrift/2005-12-02-1358)). **Endres** ved [lov 12 mai 2015 nr. 30](lov/2015-05-12-30) (ikr. fra den tid Kongen bestemmer).
 
@@ -1074,13 +1222,32 @@ En ansvarlig kan ikke begrense sitt ansvar dersom det godtgjøres at den ansvarl
 
 ### § 175. Ansvarsgrensene for krav som omfattes av § 172
 
-For krav som omfattes av [§ 172](lov/1994-06-24-39/§172), gjelder følgende ansvarsgrenser:For krav i anledning personskade tilføyet skipets egne passasjerer er ansvarsgrensen 250 000 SDR multiplisert med det antall passasjerer som skipet ifølge sitt sertifikat har adgang til å føre.For andre krav i anledning av personskade er ansvarsgrensen 3.020.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:for hvert tonn fra 2.001 til 30.000 tonn, med 1208 SDR,for hvert tonn fra 30.001 til 70.000 tonn, med 906 SDR, ogfor hvert tonn over 70.000 tonn, med 604 SDR.Ansvarsgrensen for alle andre krav, samt udekket rest av krav som nevnt i nr. 2, er 1.510.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:for hvert tonn fra 2.001 til 30.000 tonn, med 604 SDR,for hvert tonn fra 30.001 til 70.000 tonn, med 453 SDR,for hvert tonn over 70.000 tonn, med 302 SDR.Ansvarsgrensene i nr 1 til 3 gjelder summen av alle krav som oppstår ved en og samme hendelse mot rederen, skipets eier, befrakteren og disponenten, samt enhver som noen av disse svarer for.Hvis bergere ikke opererer fra noe skip eller bare opererer fra det skip som bergingen gjelder, beregnes ansvarsgrensene etter en tonnasje på 1.500 tonn. Ansvarsgrensene gjelder summen av alle krav som oppstår ved en og samme hendelse mot bergerne og enhver som de svarer for.Med skipets tonnasje menes bruttotonnasjen beregnet etter reglene for måling av tonnasje i vedlegg I til den internasjonale skipsmålingskonvensjonen 1969. Med SDR menes den regneenhet som er nevnt i [§ 505](lov/1994-06-24-39/§505).
+For krav som omfattes av [§ 172](lov/1994-06-24-39/§172), gjelder følgende ansvarsgrenser:
+
+1. For krav i anledning personskade tilføyet skipets egne passasjerer er ansvarsgrensen 250 000 SDR multiplisert med det antall passasjerer som skipet ifølge sitt sertifikat har adgang til å føre.
+2. For andre krav i anledning av personskade er ansvarsgrensen 3.020.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:
+
+   - for hvert tonn fra 2.001 til 30.000 tonn, med 1208 SDR,
+   - for hvert tonn fra 30.001 til 70.000 tonn, med 906 SDR, og
+   - for hvert tonn over 70.000 tonn, med 604 SDR.
+3. Ansvarsgrensen for alle andre krav, samt udekket rest av krav som nevnt i nr. 2, er 1.510.000 SDR. For skip med tonnasje på mer enn 2.000 tonn forhøyes ansvarsgrensen slik:
+
+   - for hvert tonn fra 2.001 til 30.000 tonn, med 604 SDR,
+   - for hvert tonn fra 30.001 til 70.000 tonn, med 453 SDR,
+   - for hvert tonn over 70.000 tonn, med 302 SDR.
+4. Ansvarsgrensene i nr 1 til 3 gjelder summen av alle krav som oppstår ved en og samme hendelse mot rederen, skipets eier, befrakteren og disponenten, samt enhver som noen av disse svarer for.
+5. Hvis bergere ikke opererer fra noe skip eller bare opererer fra det skip som bergingen gjelder, beregnes ansvarsgrensene etter en tonnasje på 1.500 tonn. Ansvarsgrensene gjelder summen av alle krav som oppstår ved en og samme hendelse mot bergerne og enhver som de svarer for.
+6. Med skipets tonnasje menes bruttotonnasjen beregnet etter reglene for måling av tonnasje i vedlegg I til den internasjonale skipsmålingskonvensjonen 1969. Med SDR menes den regneenhet som er nevnt i [§ 505](lov/1994-06-24-39/§505).
 
 > Endret ved lover [7 jan 2000 nr. 2](lov/2000-01-07-2) (ikr. 1 juli 2000 iflg. [res. 7 jan 2000 nr. 12](forskrift/2000-01-07-12)), [17 juni 2005 nr. 88](lov/2005-06-17-88) (ikr. 1 nov 2006 iflg. [res. 2 des 2005 nr. 1358](forskrift/2005-12-02-1358)), [7 juni 2013 nr. 30](lov/2013-06-07-30) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1410](forskrift/2013-12-06-1410)), [12 mai 2015 nr. 30](lov/2015-05-12-30) (ikr. 8 juni 2015 iflg. [res. 12 mai 2015 nr. 466](forskrift/2015-05-12-466)).
 
 ### § 175a. Ansvarsgrensene for krav som omfattes av § 172a
 
-Ansvarsgrensen for et krav som omfattes av [§ 172 a](lov/1994-06-24-39/§172a), er 2.000.000 SDR. For skip med tonnasje på mer enn 1.000 tonn forhøyes ansvarsgrensen slikfor hvert tonn fra 1.001 tonn til 2.000 tonn med 2.000 SDR, ogfor hvert tonn fra 2.001 tonn til 10.000 tonn med 5.000 SDR, ogfor hvert tonn over 10.001 tonn med 1.000 SDR.
+Ansvarsgrensen for et krav som omfattes av [§ 172 a](lov/1994-06-24-39/§172a), er 2.000.000 SDR. For skip med tonnasje på mer enn 1.000 tonn forhøyes ansvarsgrensen slik
+
+1. for hvert tonn fra 1.001 tonn til 2.000 tonn med 2.000 SDR, og
+2. for hvert tonn fra 2.001 tonn til 10.000 tonn med 5.000 SDR, og
+3. for hvert tonn over 10.001 tonn med 1.000 SDR.
 
 [§ 175](lov/1994-06-24-39/§175) nr. 4, 5 og 6 gjelder tilsvarende.
 
@@ -1110,7 +1277,18 @@ Nærmere regler om begrensningsfond og begrensningssøksmål er gitt i [kapittel
 
 ### § 178. Rettsvirkningene av at begrensningsfond er opprettet for krav som omfattes av § 175, jf. § 172
 
-For krav som omfattes av [§ 175](lov/1994-06-24-39/§175), jf. [§ 172](lov/1994-06-24-39/§172), gjelder følgende regler om rettsvirkninger av begrensningsfond:Den som har fremsatt et krav mot begrensningsfond som er opprettet etter [§ 177](lov/1994-06-24-39/§177) eller etter tilsvarende regler i annen konvensjonsstat, kan ikke for dette krav begjære arrest eller annen tvangsforretning vedrørende skip eller annen eiendom som tilhører noen som fondet er opprettet på vegne av og som har rett til ansvarsbegrensning.Etter at det er opprettet begrensningsfond her i riket eller i Danmark, Finland eller Sverige, kan arrest eller annen tvangsforretning vedrørende skip eller annen eiendom som tilhører noen som fondet er opprettet på vegne av og som har rett til ansvarsbegrensning, ikke foretas for krav som kan kreves dekket av fondet, jf. likevel [§ 180](lov/1994-06-24-39/§180) tredje ledd første punktum. Hvis en tvangsforretning allerede er foretatt, skal den oppheves. Sikkerhet stilt for å avverge eller få opphevet tvangsforretningen skal frigis.Er fondet opprettet i annen konvensjonsstat, kan retten avslå begjæring om arrest eller annen tvangsforretning, oppheve en forretning som er foretatt, eller frigi sikkerhet som er stilt. Retten skal avslå begjæringen, oppheve forretning som er foretatt etter at fondet er opprettet, og frigi sikkerhet som er stilt etter dette tidspunkt dersom fondet er opprettet iden havn hvor den ansvarsbegrunnende hendelse inntraff, eller, dersom den ikke inntraff i en havn, den første havn skipet anløper etter hendelsen, ellerilandstigningshavnen, for så vidt kravet gjelder personskade som voldes noen ombord i skipet, ellerlossehavnen, for så vidt kravet gjelder skade på skipets last.Reglene i nr 1 og 3 kan gis tilsvarende anvendelse dersom det godtgjøres at begrensningsfond opprettet i stat som ikke er konvensjonsstat, kan likestilles med begrensningsfond som nevnt i [§ 177](lov/1994-06-24-39/§177).Reglene i denne paragraf gjelder bare dersom fordringshaveren kan fremsette krav mot fondet for den domstol som bestyrer det, og fondet faktisk er tilgjengelig og fritt overførbart til dekning av kravet.Det verneting som er oppnådd ved arrest eller sikkerhetsstillelse, faller ikke bort ved at arresten blir opphevet eller sikkerheten frigitt etter reglene i nr. 2, 3 eller 4.
+For krav som omfattes av [§ 175](lov/1994-06-24-39/§175), jf. [§ 172](lov/1994-06-24-39/§172), gjelder følgende regler om rettsvirkninger av begrensningsfond:
+
+1. Den som har fremsatt et krav mot begrensningsfond som er opprettet etter [§ 177](lov/1994-06-24-39/§177) eller etter tilsvarende regler i annen konvensjonsstat, kan ikke for dette krav begjære arrest eller annen tvangsforretning vedrørende skip eller annen eiendom som tilhører noen som fondet er opprettet på vegne av og som har rett til ansvarsbegrensning.
+2. Etter at det er opprettet begrensningsfond her i riket eller i Danmark, Finland eller Sverige, kan arrest eller annen tvangsforretning vedrørende skip eller annen eiendom som tilhører noen som fondet er opprettet på vegne av og som har rett til ansvarsbegrensning, ikke foretas for krav som kan kreves dekket av fondet, jf. likevel [§ 180](lov/1994-06-24-39/§180) tredje ledd første punktum. Hvis en tvangsforretning allerede er foretatt, skal den oppheves. Sikkerhet stilt for å avverge eller få opphevet tvangsforretningen skal frigis.
+3. Er fondet opprettet i annen konvensjonsstat, kan retten avslå begjæring om arrest eller annen tvangsforretning, oppheve en forretning som er foretatt, eller frigi sikkerhet som er stilt. Retten skal avslå begjæringen, oppheve forretning som er foretatt etter at fondet er opprettet, og frigi sikkerhet som er stilt etter dette tidspunkt dersom fondet er opprettet i
+
+   1. den havn hvor den ansvarsbegrunnende hendelse inntraff, eller, dersom den ikke inntraff i en havn, den første havn skipet anløper etter hendelsen, eller
+   2. ilandstigningshavnen, for så vidt kravet gjelder personskade som voldes noen ombord i skipet, eller
+   3. lossehavnen, for så vidt kravet gjelder skade på skipets last.
+4. Reglene i nr 1 og 3 kan gis tilsvarende anvendelse dersom det godtgjøres at begrensningsfond opprettet i stat som ikke er konvensjonsstat, kan likestilles med begrensningsfond som nevnt i [§ 177](lov/1994-06-24-39/§177).
+5. Reglene i denne paragraf gjelder bare dersom fordringshaveren kan fremsette krav mot fondet for den domstol som bestyrer det, og fondet faktisk er tilgjengelig og fritt overførbart til dekning av kravet.
+6. Det verneting som er oppnådd ved arrest eller sikkerhetsstillelse, faller ikke bort ved at arresten blir opphevet eller sikkerheten frigitt etter reglene i nr. 2, 3 eller 4.
 
 > Endret ved lover [7 jan 2000 nr. 2](lov/2000-01-07-2) (ikr. 1 juli 2000 iflg. [res. 7 jan 2000 nr. 12](forskrift/2000-01-07-12)), [17 juni 2005 nr. 88](lov/2005-06-17-88) (ikr. 1 nov 2006 iflg. [res. 2 des 2005 nr. 1358](forskrift/2005-12-02-1358)).
 
@@ -1202,7 +1380,10 @@ Reglene i [§ 199](lov/1994-06-24-39/§199) gjelder tilsvarende når et norsk sk
 
 Skipets eier er uansett skyld ansvarlig for forurensingsskade forårsaket av bunkersolje. [§ 191](lov/1994-06-24-39/§191) første ledd annet og tredje punktum gjelder tilsvarende.
 
-Med forurensningsskade forårsaket av bunkersolje forstås i [§§ 183](lov/1994-06-24-39/§183) til [190](lov/1994-06-24-39/§190):Skade eller tap som oppstår utenfor skipet, som skyldes forurensning voldt av bunkersolje som unnslipper eller tømmes fra skipet. Skade ved forringelse av miljøet, omfatter i tillegg til tapt fortjeneste likevel bare utgifter til rimelige tiltak for gjenoppretting som har vært eller vil bli foretatt.Utgifter, skade eller tap som følge av rimelige tiltak som er truffet etter en hendelse som forårsaker eller medfører umiddelbar og betydelig fare for skade som nevnt i bokstav a, og som har til formål å avverge eller begrense slik skade.
+Med forurensningsskade forårsaket av bunkersolje forstås i [§§ 183](lov/1994-06-24-39/§183) til [190](lov/1994-06-24-39/§190):
+
+1. Skade eller tap som oppstår utenfor skipet, som skyldes forurensning voldt av bunkersolje som unnslipper eller tømmes fra skipet. Skade ved forringelse av miljøet, omfatter i tillegg til tapt fortjeneste likevel bare utgifter til rimelige tiltak for gjenoppretting som har vært eller vil bli foretatt.
+2. Utgifter, skade eller tap som følge av rimelige tiltak som er truffet etter en hendelse som forårsaker eller medfører umiddelbar og betydelig fare for skade som nevnt i bokstav a, og som har til formål å avverge eller begrense slik skade.
 
 Med skip forstås i [§§ 183](lov/1994-06-24-39/§183) til [190](lov/1994-06-24-39/§190) ethvert sjøgående fartøy eller annen flytende innretning på sjøen.
 
@@ -1274,7 +1455,11 @@ Rettskraftig dom mot skipets eier eller dennes forsikringsgiver har bindende vir
 
 ### § 190. Virkeområdet for reglene i §§ 183 til 189
 
-Reglene i [§§ 183](lov/1994-06-24-39/§183) til [189](lov/1994-06-24-39/§189) om ansvar for forurensningsskade forårsaket av bunkersolje gjelder for:slik skade oppstått her i riket eller i norsk økonomisk sone,slik skade oppstått i en annen konvensjonsstat eller i en konvensjonsstats økonomiske sone, ogutgifter ved tiltak for å avverge eller begrense slik skade, uansett hvor tiltaket er truffet.
+Reglene i [§§ 183](lov/1994-06-24-39/§183) til [189](lov/1994-06-24-39/§189) om ansvar for forurensningsskade forårsaket av bunkersolje gjelder for:
+
+1. slik skade oppstått her i riket eller i norsk økonomisk sone,
+2. slik skade oppstått i en annen konvensjonsstat eller i en konvensjonsstats økonomiske sone, og
+3. utgifter ved tiltak for å avverge eller begrense slik skade, uansett hvor tiltaket er truffet.
 
 [§ 206](lov/1994-06-24-39/§206) annet ledd gjelder tilsvarende ved forurensningsskade forårsaket av bunkersolje.
 
@@ -1292,7 +1477,10 @@ Reglene i [§§ 183](lov/1994-06-24-39/§183) til [189](lov/1994-06-24-39/§189)
 
 Eieren av et skip er uansett skyld ansvarlig for forurensingsskade. Voldes slik forurensningsskade ved en serie hendelser med samme opphav, påhviler ansvaret den som er eier ved den første hendelsen. Er skaden oppstått ved en hendelse som involverer to eller flere skip som hver for seg transporterer olje, er hver eier ansvarlig, men slik at eierne hefter solidarisk for skade som ikke med rimelighet kan henføres til et bestemt skip.
 
-Med forurensningsskade forstås i [§§ 191](lov/1994-06-24-39/§191) til [209](lov/1994-06-24-39/§209):Skade eller tap som oppstår utenfor skipet og skyldes forurensning voldt av olje som unnslipper eller tømmes fra skipet. Skade ved forringelse av miljøet omfatter i tillegg til tapt fortjeneste likevel bare utgifter til rimelige tiltak for gjenoppretting som har vært eller vil bli foretatt.Utgifter, skade eller tap som følge av rimelige tiltak som er truffet etter en hendelse som forårsaker eller medfører umiddelbar og betydelig fare for skade som nevnt i bokstav a, og som har til formål å avverge eller begrense slik skade.
+Med forurensningsskade forstås i [§§ 191](lov/1994-06-24-39/§191) til [209](lov/1994-06-24-39/§209):
+
+1. Skade eller tap som oppstår utenfor skipet og skyldes forurensning voldt av olje som unnslipper eller tømmes fra skipet. Skade ved forringelse av miljøet omfatter i tillegg til tapt fortjeneste likevel bare utgifter til rimelige tiltak for gjenoppretting som har vært eller vil bli foretatt.
+2. Utgifter, skade eller tap som følge av rimelige tiltak som er truffet etter en hendelse som forårsaker eller medfører umiddelbar og betydelig fare for skade som nevnt i bokstav a, og som har til formål å avverge eller begrense slik skade.
 
 Med skip forstås i [§ 191](lov/1994-06-24-39/§191) til [§ 209](lov/1994-06-24-39/§209) ethvert sjøgående fartøy eller annen flytende innretning på sjøen som er konstruert eller tilpasset for transport av olje som last i bulk, med mindre annet er sagt, jf. [§ 208](lov/1994-06-24-39/§208) første ledd. Et skip som kan transportere olje og annen last, skal her likevel bare anses som skip når det faktisk transporterer olje som last i bulk, samt under etterfølgende reiser med mindre det godtgjøres at det da ikke har rester av slik oljetransport om bord.
 
@@ -1310,7 +1498,11 @@ Med 2003-tilleggsfondprotokollen forstås i dette kapittelet protokollen av 16. 
 
 ### § 192. Ansvarsfritak
 
-Eieren er fri for ansvar dersom det godtgjøres at skaden:skyldes krigshandling eller liknende handling under væpnet konflikt, borgerkrig eller opprør, eller en naturbegivenhet av usedvanlig, uunngåelig og uimotståelig karakter,i sin helhet skyldes en handling eller unnlatelse av tredjeperson for å volde skade, elleri sin helhet skyldes uaktsomhet eller annen rettsstridig handling av offentlig myndighet i forbindelse med vedlikehold av fyr eller andre hjelpemidler for navigeringen.
+Eieren er fri for ansvar dersom det godtgjøres at skaden:
+
+1. skyldes krigshandling eller liknende handling under væpnet konflikt, borgerkrig eller opprør, eller en naturbegivenhet av usedvanlig, uunngåelig og uimotståelig karakter,
+2. i sin helhet skyldes en handling eller unnlatelse av tredjeperson for å volde skade, eller
+3. i sin helhet skyldes uaktsomhet eller annen rettsstridig handling av offentlig myndighet i forbindelse med vedlikehold av fyr eller andre hjelpemidler for navigeringen.
 
 Godtgjør eieren at skadelidte forsettlig eller uaktsomt har medvirket til skaden, kan ansvaret lempes etter alminnelige erstatningsregler.
 
@@ -1320,7 +1512,14 @@ Godtgjør eieren at skadelidte forsettlig eller uaktsomt har medvirket til skade
 
 Erstatningskrav mot skipets eier for forurensningsskade kan bare fremsettes etter reglene i dette kapittelet.
 
-Erstatningskrav for forurensningsskade kan ikke gjøres gjeldende mot:medlem av besetningen, ansatte hos eieren eller andre som eieren svarer for,losen eller en annen person som utfører tjeneste for skipet,rederen eller disponenten hvor disse ikke eier skipet, samt enhver befrakter, sender, avlaster, eier eller mottaker av lasten,noen som utfører berging med samtykke fra skipets side eller på oppdrag av offentlig myndighet,noen som treffer tiltak for å avverge eller begrense skade eller tap som er omfattet av [§ 191](lov/1994-06-24-39/§191), elleransatte hos personer som er omfattet av bokstav b, c, d og e, eller andre som personer som nevnt i bokstav b, c, d eller e svarer for, unntatt person som selv har voldt skaden ved forsett eller grov uaktsomhet, og med forståelse av at slik skade sannsynligvis ville oppstå.
+Erstatningskrav for forurensningsskade kan ikke gjøres gjeldende mot:
+
+1. medlem av besetningen, ansatte hos eieren eller andre som eieren svarer for,
+2. losen eller en annen person som utfører tjeneste for skipet,
+3. rederen eller disponenten hvor disse ikke eier skipet, samt enhver befrakter, sender, avlaster, eier eller mottaker av lasten,
+4. noen som utfører berging med samtykke fra skipets side eller på oppdrag av offentlig myndighet,
+5. noen som treffer tiltak for å avverge eller begrense skade eller tap som er omfattet av [§ 191](lov/1994-06-24-39/§191), eller
+6. ansatte hos personer som er omfattet av bokstav b, c, d og e, eller andre som personer som nevnt i bokstav b, c, d eller e svarer for, unntatt person som selv har voldt skaden ved forsett eller grov uaktsomhet, og med forståelse av at slik skade sannsynligvis ville oppstå.
 
 Regressansvar for forurensningsskade kan ikke gjøres gjeldende mot noen som omfattes av reglene i andre ledd bokstav a, b, d, e eller f, med mindre vedkommende har voldt skaden forsettlig eller grovt uaktsomt og med forståelse av at slik skade sannsynligvis ville oppstå. For regress ellers gjelder alminnelige rettsregler.
 
@@ -1444,7 +1643,11 @@ Tilsvarende gjelder dom mot Det internasjonale tilleggsfond (2003) avsagt i stat
 
 ### § 206. Virkeområdet for reglene i 1992-ansvarskonvensjonen
 
-Reglene i [§§ 191](lov/1994-06-24-39/§191) til [196](lov/1994-06-24-39/§196) og [§ 200](lov/1994-06-24-39/§200) om ansvar for forurensningsskade gjelder:forurensningsskade oppstått her i riket eller i norsk økonomisk sone,forurensningsskade oppstått i en annen stat som har sluttet seg til 1992-ansvarskonvensjonen eller i en slik stats økonomiske sone, ogutgifter ved tiltak for å avverge eller begrense slik forurensningsskade, uansett hvor tiltaket er truffet.
+Reglene i [§§ 191](lov/1994-06-24-39/§191) til [196](lov/1994-06-24-39/§196) og [§ 200](lov/1994-06-24-39/§200) om ansvar for forurensningsskade gjelder:
+
+1. forurensningsskade oppstått her i riket eller i norsk økonomisk sone,
+2. forurensningsskade oppstått i en annen stat som har sluttet seg til 1992-ansvarskonvensjonen eller i en slik stats økonomiske sone, og
+3. utgifter ved tiltak for å avverge eller begrense slik forurensningsskade, uansett hvor tiltaket er truffet.
 
 Har en stat som nevnt i bokstav b ikke opprettet en økonomisk sone, gjelder det samme for et område fastsatt av staten etter folkeretten på ikke mer enn 200 nautiske mil fra de grunnlinjene sjøterritoriet måles fra.
 
@@ -1456,7 +1659,12 @@ Reglene i [§§ 191](lov/1994-06-24-39/§191) til [205](lov/1994-06-24-39/§205)
 
 Dersom et skip volder forurensningsskade som nevnt i [§ 191](lov/1994-06-24-39/§191) på den del av norsk kontinentalsokkel som ligger utenfor norsk økonomisk sone eller, for så vidt norsk erstatningsrett får anvendelse, for øvrig på det åpne hav, eller det treffes tiltak for å avverge eller begrense slik skade, gjelder reglene i [§§ 191](lov/1994-06-24-39/§191) og [192](lov/1994-06-24-39/§192) tilsvarende. For skip som nevnt i [§ 206](lov/1994-06-24-39/§206) tredje ledd gjelder det samme også for skade her i riket eller i norsk økonomisk sone.
 
-Ansvar etter første ledd er begrenset etter reglene i [§ 194](lov/1994-06-24-39/§194) første ledd. Kreves ansvarsbegrensning, gjelder følgende:reglene i [kapittel 9](lov/1994-06-24-39/kap9) får anvendelse så langt de passer,krav som nevnt i [§ 195](lov/1994-06-24-39/§195) tredje ledd er likestilt med andre krav ved fordeling av ansvarsbeløpet,opprettes begrensningsfond her i riket, skal fondet tilsvare det fulle ansvarsbeløp og reglene i [kapittel 12](lov/1994-06-24-39/kap12) gjelde tilsvarende, oger det opprettet begrensningsfond som etter [§ 178](lov/1994-06-24-39/§178) vil være til hinder for arrest eller annen tvangsforretning her i riket, får også [§ 193](lov/1994-06-24-39/§193) annet og tredje ledd tilsvarende anvendelse.
+Ansvar etter første ledd er begrenset etter reglene i [§ 194](lov/1994-06-24-39/§194) første ledd. Kreves ansvarsbegrensning, gjelder følgende:
+
+1. reglene i [kapittel 9](lov/1994-06-24-39/kap9) får anvendelse så langt de passer,
+2. krav som nevnt i [§ 195](lov/1994-06-24-39/§195) tredje ledd er likestilt med andre krav ved fordeling av ansvarsbeløpet,
+3. opprettes begrensningsfond her i riket, skal fondet tilsvare det fulle ansvarsbeløp og reglene i [kapittel 12](lov/1994-06-24-39/kap12) gjelde tilsvarende, og
+4. er det opprettet begrensningsfond som etter [§ 178](lov/1994-06-24-39/§178) vil være til hinder for arrest eller annen tvangsforretning her i riket, får også [§ 193](lov/1994-06-24-39/§193) annet og tredje ledd tilsvarende anvendelse.
 
 Gjøres ansvar gjeldende ved norsk domstol i anledning av at skip har voldt forurensningsskade i annen stat enn konvensjonsstat eller på det åpne hav, eller at det er truffet tiltak for å avverge eller begrense slik skade, er ansvaret begrenset til 4.510.000 SDR for skip med tonnasje som ikke overstiger 5000 tonn. For skip med tonnasje på mer enn 5000 tonn økes ansvarsgrensen med 631 SDR pr tonn over 5000 tonn. Ansvarsgrensen kan likevel ikke i noe tilfelle overstige 89 770 000 SDR. For øvrig gjelder bestemmelsene i annet ledd og i [§ 194](lov/1994-06-24-39/§194) fjerde ledd tilsvarende.
 
@@ -1500,7 +1708,12 @@ Med registrert eier forstås den eller de personene som er registrert som skipet
 
 Med sjøulykke forstås sammenstøt mellom skip, grunnstøting, andre hendelser knyttet til navigeringen eller andre hendelser om bord på et skip eller utenfor skipet som medfører tingskade eller en overhengende fare for tingskade på et skip eller skipslasten.
 
-Med vrak forstås:et skip som er sunket eller strandet som følge av en sjøulykke,en del av et skip som er sunket eller strandet som følge av en sjøulykke, herunder en gjenstand som er eller har vært om bord på et slikt skip,en gjenstand som er mistet på sjøen fra et skip som følge av en sjøulykke, og som er strandet, sunket eller i drift på sjøen, elleret skip som er i ferd med eller med rimelighet kan forventes å synke eller strande som følge av en sjøulykke, og der effektive tiltak for å bistå skipet eller eventuell eiendom som er i fare, ikke allerede er truffet.
+Med vrak forstås:
+
+1. et skip som er sunket eller strandet som følge av en sjøulykke,
+2. en del av et skip som er sunket eller strandet som følge av en sjøulykke, herunder en gjenstand som er eller har vært om bord på et slikt skip,
+3. en gjenstand som er mistet på sjøen fra et skip som følge av en sjøulykke, og som er strandet, sunket eller i drift på sjøen, eller
+4. et skip som er i ferd med eller med rimelighet kan forventes å synke eller strande som følge av en sjøulykke, og der effektive tiltak for å bistå skipet eller eventuell eiendom som er i fare, ikke allerede er truffet.
 
 Med vrakfjerningskonvensjonen forstås Den internasjonale Nairobi-konvensjonen om fjerning av vrak, 2007.
 
@@ -1566,9 +1779,17 @@ Rettskraftig dom mot den registrerte eieren eller dennes forsikringsgiver har bi
 
 ### § 210 h. Virkeområdet for reglene i kapittel 10 a
 
-Reglene i [kapittel 10 a](lov/1994-06-24-39/kap10a) gjelder for:skip og vrak som, med unntak for Svalbard og Jan Mayen, befinner seg her i riket eller i norsk økonomisk sonenorske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats økonomiske sone eller, dersom en konvensjonsstat ikke har opprettet økonomisk sone, i et område fastsatt av denne konvensjonsstaten etter folkeretten på ikke mer enn 200 nautiske mil fra de grunnlinjene sjøterritoriet måles franorske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats territorium, herunder sjøterritoriet, dersom denne staten har gitt underretning om at vrakfjerningskonvensjonen skal gjelde for territoriet
+Reglene i [kapittel 10 a](lov/1994-06-24-39/kap10a) gjelder for:
 
-Reglene i [kapittel 10 a](lov/1994-06-24-39/kap10a) gjelder ikke for:forurensingsskade som er omfattet av [§§ 183](lov/1994-06-24-39/§183) eller [191](lov/1994-06-24-39/§191)vederlag eller kompensasjon for berging som er omfattet av [kapittel 16](lov/1994-06-24-39/kap16)tiltak truffet i henhold til Internasjonal konvensjon om inngrep på det frie hav i tilfelle av oljeforurensningsulykker, 1969, med endringer, eller Protokoll vedrørende inngrep på det frie hav i tilfelle av forurensning av sjøen ved andre stoffer enn olje, 1973, med endringer
+1. skip og vrak som, med unntak for Svalbard og Jan Mayen, befinner seg her i riket eller i norsk økonomisk sone
+2. norske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats økonomiske sone eller, dersom en konvensjonsstat ikke har opprettet økonomisk sone, i et område fastsatt av denne konvensjonsstaten etter folkeretten på ikke mer enn 200 nautiske mil fra de grunnlinjene sjøterritoriet måles fra
+3. norske skip og vrak av norske skip som befinner seg i en annen konvensjonsstats territorium, herunder sjøterritoriet, dersom denne staten har gitt underretning om at vrakfjerningskonvensjonen skal gjelde for territoriet
+
+Reglene i [kapittel 10 a](lov/1994-06-24-39/kap10a) gjelder ikke for:
+
+1. forurensingsskade som er omfattet av [§§ 183](lov/1994-06-24-39/§183) eller [191](lov/1994-06-24-39/§191)
+2. vederlag eller kompensasjon for berging som er omfattet av [kapittel 16](lov/1994-06-24-39/kap16)
+3. tiltak truffet i henhold til Internasjonal konvensjon om inngrep på det frie hav i tilfelle av oljeforurensningsulykker, 1969, med endringer, eller Protokoll vedrørende inngrep på det frie hav i tilfelle av forurensning av sjøen ved andre stoffer enn olje, 1973, med endringer
 
 Reglene i [kapittel 10 a](lov/1994-06-24-39/kap10a) gjelder ikke for krigsskip eller andre skip som eies eller driftes av en stat og som for tiden bare benyttes i statlig, ikke-kommersielt øyemed, med mindre staten som eier eller drifter skipet, har vedtatt at vrakfjerningskonvensjonen skal få anvendelse. [§§ 210](lov/1994-06-24-39/§210), [210 a](lov/1994-06-24-39/§210a), [210 b](lov/1994-06-24-39/§210b) og [210 c](lov/1994-06-24-39/§210c) gjelder likevel for vrak av slike skip som, med unntak for Svalbard og Jan Mayen, befinner seg her i riket eller i norsk økonomisk sone.
 
@@ -1676,7 +1897,10 @@ Reglene i tvisteloven får tilsvarende anvendelse med mindre annet følger av ka
 
 ### § 232. Fondsbeløpet
 
-Globalfondet skal tilsvareSummen av de beløp som etter [§ 175](lov/1994-06-24-39/§175) eller [§ 175a](lov/1994-06-24-39/§175a) utgjør ansvarsgrensen for de krav som ansvarsbegrensningen gjøres gjeldende overfor, og som er oppstått ved en og samme hendelse, ogrenter av de beløp som er nevnt under bokstav a for tiden fra hendelsen og til opprettelsen av fondet, regnet etter rentefoten fastsatt etter [lov 17 desember 1976 nr 100](lov/1976-12-17-100) om renter ved forsinket betaling m m [§ 3](lov/1976-12-17-100/§3).
+Globalfondet skal tilsvare
+
+1. Summen av de beløp som etter [§ 175](lov/1994-06-24-39/§175) eller [§ 175a](lov/1994-06-24-39/§175a) utgjør ansvarsgrensen for de krav som ansvarsbegrensningen gjøres gjeldende overfor, og som er oppstått ved en og samme hendelse, og
+2. renter av de beløp som er nevnt under bokstav a for tiden fra hendelsen og til opprettelsen av fondet, regnet etter rentefoten fastsatt etter [lov 17 desember 1976 nr 100](lov/1976-12-17-100) om renter ved forsinket betaling m m [§ 3](lov/1976-12-17-100/§3).
 
 Fond som er opprettet etter [§ 175 a](lov/1994-06-24-39/§175a), skal tilsvare det fulle ansvarsbeløpet der, med mindre fondet opprettes som et tilleggsfond etter [§ 178a](lov/1994-06-24-39/§178a) annet ledd.
 
@@ -1795,7 +2019,13 @@ I dette kapittel menes med:
 
 Reglene i dette kapittel gjelder for avtaler om sjøtransport i innenriks fart i Norge samt i fart mellom Norge, Danmark, Finland og Sverige. For innenriks fart i Danmark, Finland og Sverige gjelder loven i den stat hvor transporten finner sted.
 
-I annen fart gjelder reglene avtale om sjøtransport i fart mellom to stater når:avtalt lastehavn ligger i en konvensjonsstat,avtalt lossehavn ligger i Norge, Danmark, Finland eller Sverige,flere lossehavner er avtalt og den faktiske lossehavnen er en av disse og ligger i Norge, Danmark, Finland eller Sverige,transportdokumentet er utstedt i konvensjonsstat, ellertransportdokumentet angir at konvensjonen eller derpå grunnet lov i konvensjonsstat skal gjelde.
+I annen fart gjelder reglene avtale om sjøtransport i fart mellom to stater når:
+
+1. avtalt lastehavn ligger i en konvensjonsstat,
+2. avtalt lossehavn ligger i Norge, Danmark, Finland eller Sverige,
+3. flere lossehavner er avtalt og den faktiske lossehavnen er en av disse og ligger i Norge, Danmark, Finland eller Sverige,
+4. transportdokumentet er utstedt i konvensjonsstat, eller
+5. transportdokumentet angir at konvensjonen eller derpå grunnet lov i konvensjonsstat skal gjelde.
 
 Når verken det avtalte leveringssted eller det avtalte eller faktiske utleveringssted ligger i Norge, Danmark, Finland eller Sverige, kan det likevel avtales at avtalen om sjøtransport skal være undergitt loven i en konvensjonsstat.
 
@@ -1951,7 +2181,11 @@ Transportøren er ansvarlig for godset mens det er i dennes varetekt i lastehavn
 
 Transportøren anses å ha godset i sin varetekt etter første ledd fra det tidspunkt transportøren mottar det fra avlasteren eller fra myndighet eller annen tredjeperson som godset må leveres til etter lov eller regler i lastehavnen.
 
-Transportøren anses ikke lenger å ha godset i sin varetekt etter første ledd:når transportøren har utlevert godset til mottakeren,dersom mottakeren ikke tar imot godset fra transportøren, når det er lagt opp for mottakerens regning i samsvar med avtalen eller med lov eller praksis i lossehavnen, ellernår transportøren har overlevert godset til myndighet eller annen tredjeperson som godset må overleveres til etter lov eller regler i lossehavnen.
+Transportøren anses ikke lenger å ha godset i sin varetekt etter første ledd:
+
+1. når transportøren har utlevert godset til mottakeren,
+2. dersom mottakeren ikke tar imot godset fra transportøren, når det er lagt opp for mottakerens regning i samsvar med avtalen eller med lov eller praksis i lossehavnen, eller
+3. når transportøren har overlevert godset til myndighet eller annen tredjeperson som godset må overleveres til etter lov eller regler i lossehavnen.
 
 ### § 275. Ansvar for lasteskade
 
@@ -1963,7 +2197,10 @@ Når feil eller forsømmelse på transportørens side sammen med en annen årsak
 
 ### § 276. Tap som følge av nautisk feil og brann
 
-Transportøren er ikke ansvarlig dersom transportøren godtgjør at tapet er en følge av:feil eller forsømmelse i navigeringen eller behandlingen av skipet utvist av dets fører, mannskap, los eller slepebåt eller andre som utfører arbeid i skipets tjeneste, ellerbrann som ikke skyldes feil eller forsømmelse av transportøren selv.
+Transportøren er ikke ansvarlig dersom transportøren godtgjør at tapet er en følge av:
+
+1. feil eller forsømmelse i navigeringen eller behandlingen av skipet utvist av dets fører, mannskap, los eller slepebåt eller andre som utfører arbeid i skipets tjeneste, eller
+2. brann som ikke skyldes feil eller forsømmelse av transportøren selv.
 
 Transportøren er likevel ansvarlig for tap som følge av sjøudyktighet som skyldes at transportøren selv eller noen transportøren svarer for, ikke har utvist tilbørlig omhu med å sørge for at skipet var sjødyktig ved reisens begynnelse. Bevisbyrden for at tilbørlig omhu er utvist, påhviler transportøren.
 
@@ -2075,7 +2312,10 @@ Gods som viser seg å innebære fare for person eller eiendom, kan transportøre
 
 ### § 292. Konnossement
 
-Med konnossement (bill of lading) forstås et dokumentsom er bevis for en avtale om sjøtransport og for at transportøren har mottatt eller lastet godset, ogsom betegner seg som konnossement eller inneholder en bestemmelse om at transportøren påtar seg bare å utlevere godset mot tilbakelevering av dokumentet.
+Med konnossement (bill of lading) forstås et dokument
+
+1. som er bevis for en avtale om sjøtransport og for at transportøren har mottatt eller lastet godset, og
+2. som betegner seg som konnossement eller inneholder en bestemmelse om at transportøren påtar seg bare å utlevere godset mot tilbakelevering av dokumentet.
 
 Et konnossement kan utstedes til en bestemt person, til en bestemt person eller ordre, eller til ihendehaveren. Et konnossement som er utstedt til en bestemt person, anses som et ordrekonnossement med mindre det er tatt forbehold ved uttrykket «ikke til ordre» eller liknende.
 
@@ -2101,7 +2341,21 @@ Et konnossement som er undertegnet av skipsføreren på det skip som transporter
 
 ### § 296. Konnossementets innhold
 
-Et konnossement skal inneholde opplysning om:godsets art, herunder dets farlige egenskaper, samt nødvendige identitetsmerker, kolli- eller stykktall og godsets vekt eller mengde uttrykt på annen måte, alt som oppgitt av avlasteren;godsets og pakningens synlige tilstand;transportørens navn og hovedforretningssted;avlasterens navn;mottakeren, når denne er oppgitt av avlasteren;lastehavnen etter transportavtalen og den dag transportøren mottok godset der;lossehavnen etter transportavtalen samt i tilfelle avtale om tiden for utlevering av godset der;antall eksemplarer, når konnossementet er utstedt i mer enn ett eksemplar;stedet hvor konnossementet er utstedt;fraktens størrelse når den skal betales av mottakeren, eller opplysning om at frakt skal betales av mottakeren, samt de øvrige vilkår for transport og utlevering av godset;at transporten er undergitt konvensjonen, jf [§ 254](lov/1994-06-24-39/§254) tredje ledd;at godset i tilfelle skal eller kan transporteres på dekk, og;den høyere ansvarsgrense partene kan ha avtalt.
+Et konnossement skal inneholde opplysning om:
+
+1. godsets art, herunder dets farlige egenskaper, samt nødvendige identitetsmerker, kolli- eller stykktall og godsets vekt eller mengde uttrykt på annen måte, alt som oppgitt av avlasteren;
+2. godsets og pakningens synlige tilstand;
+3. transportørens navn og hovedforretningssted;
+4. avlasterens navn;
+5. mottakeren, når denne er oppgitt av avlasteren;
+6. lastehavnen etter transportavtalen og den dag transportøren mottok godset der;
+7. lossehavnen etter transportavtalen samt i tilfelle avtale om tiden for utlevering av godset der;
+8. antall eksemplarer, når konnossementet er utstedt i mer enn ett eksemplar;
+9. stedet hvor konnossementet er utstedt;
+10. fraktens størrelse når den skal betales av mottakeren, eller opplysning om at frakt skal betales av mottakeren, samt de øvrige vilkår for transport og utlevering av godset;
+11. at transporten er undergitt konvensjonen, jf [§ 254](lov/1994-06-24-39/§254) tredje ledd;
+12. at godset i tilfelle skal eller kan transporteres på dekk, og;
+13. den høyere ansvarsgrense partene kan ha avtalt.
 
 Ombordkonnossement skal dessuten inneholde opplysning om skipets navn og nasjonalitet, stedet for lasting og dagen da lastingen ble avsluttet.
 
@@ -2173,7 +2427,10 @@ Stansningsretten kan ikke gjøres gjeldende overfor en tredjeperson som i god tr
 
 ### § 308. Sjøfraktbrev
 
-Med sjøfraktbrev (sea waybill) forstås et dokumentsom er bevis for en sjøtransportavtale og for at transportøren har mottatt godset, ogsom inneholder et tilsagn fra transportøren om å utlevere godset til den mottakeren som er angitt i dokumentet.
+Med sjøfraktbrev (sea waybill) forstås et dokument
+
+1. som er bevis for en sjøtransportavtale og for at transportøren har mottatt godset, og
+2. som inneholder et tilsagn fra transportøren om å utlevere godset til den mottakeren som er angitt i dokumentet.
 
 Senderen kan selv etter at sjøfraktbrev er utstedt, bestemme at godset skal utleveres til en annen enn den mottakeren som er angitt i dokumentet. Dette gjelder ikke når senderen i forhold til transportøren har gitt avkall på denne rett, eller mottakeren allerede har gjort sin rett gjeldende.
 
@@ -2189,7 +2446,12 @@ Når ikke annet godtgjøres, er sjøfraktbrevet bevis for transportavtalen samt 
 
 ### § 310. Jurisdiksjons- og voldgiftsklausuler
 
-Enhver forhåndsavtale som innskrenker saksøkerens rett til å få rettstvist vedrørende stykkgodstransport etter dette kapittel avgjort ved søksmål, er ugyldig for så vidt den begrenser saksøkerens rett til etter eget valg å reise søksmål ved domstol for det sted der:saksøktes hovedforretningssted ligger, eller saksøktes bosted dersom saksøkte ikke har noe hovedforretningssted,transportavtalen ble inngått, forutsatt at saksøkte har forretningssted eller agent der som avtalen er sluttet gjennom,leveringsstedet etter transportavtalen ligger, ellerdet avtalte eller faktiske utleveringssted etter transportavtalen ligger.
+Enhver forhåndsavtale som innskrenker saksøkerens rett til å få rettstvist vedrørende stykkgodstransport etter dette kapittel avgjort ved søksmål, er ugyldig for så vidt den begrenser saksøkerens rett til etter eget valg å reise søksmål ved domstol for det sted der:
+
+1. saksøktes hovedforretningssted ligger, eller saksøktes bosted dersom saksøkte ikke har noe hovedforretningssted,
+2. transportavtalen ble inngått, forutsatt at saksøkte har forretningssted eller agent der som avtalen er sluttet gjennom,
+3. leveringsstedet etter transportavtalen ligger, eller
+4. det avtalte eller faktiske utleveringssted etter transportavtalen ligger.
 
 Reglene i første ledd er ikke til hinder for at søksmål reises ved domstol for det sted som er angitt med henblikk på søksmål i transportavtalen. Etter at tvist er oppstått, kan partene avtale hvordan den skal behandles.
 
@@ -2301,7 +2563,11 @@ Reisebortfrakteren plikter å la skipet ligge til lasting en viss lastetid som o
 
 Liggetid er den tid som ved befraktningsavtalens inngåelse med rimelighet kan påregnes å gå med til lastingen. Ved beregningen skal hensyn tas til skipets og lastens art og størrelse, lasteinnretningene om bord og i havnen og andre liknende omstendigheter.
 
-Liggetiden beregnes ved klausulene*fac* (fast as can), med utgangspunkt i at lasting skal foregå så raskt som skipet kan ta imot lasten med uskadde lasteinnretninger,*faccop* (fast as can custom of the port), med utgangspunkt i at lastingen skal foregå så raskt som vanlig lastemåte i havnen tillater,*liner terms* (linjefartsvilkår), med utgangspunkt i at lastingen skal foregå så raskt som ved vanlig lasting i havnen av skip i linjefart, med tillegg av den tid som går tapt ved trafikkopphopning.
+Liggetiden beregnes ved klausulene
+
+1. *fac* (fast as can), med utgangspunkt i at lasting skal foregå så raskt som skipet kan ta imot lasten med uskadde lasteinnretninger,
+2. *faccop* (fast as can custom of the port), med utgangspunkt i at lastingen skal foregå så raskt som vanlig lastemåte i havnen tillater,
+3. *liner terms* (linjefartsvilkår), med utgangspunkt i at lastingen skal foregå så raskt som ved vanlig lasting i havnen av skip i linjefart, med tillegg av den tid som går tapt ved trafikkopphopning.
 
 Er det fastsatt en samlet tid for lasting og lossing, utløper ikke liggetiden før den samlede tid er utløpt.
 
@@ -2341,7 +2607,10 @@ Blir ikke godtgjørelsen betalt eller sikkerhet stilt, kan reisebortfrakteren gj
 
 ### § 336. Lasting og stuing
 
-Dersom annet ikke følger av praksis i havnen, skal reisebefrakteren levere godset ved skipets side og reisebortfrakteren ta det om bord. Ved klausulene*fio* (free in and out), skal reisebefrakteren sørge for lastingen,*liner terms* (linjefartsvilkår), skal reisebortfrakteren sørge for lastingen.
+Dersom annet ikke følger av praksis i havnen, skal reisebefrakteren levere godset ved skipets side og reisebortfrakteren ta det om bord. Ved klausulene
+
+1. *fio* (free in and out), skal reisebefrakteren sørge for lastingen,
+2. *liner terms* (linjefartsvilkår), skal reisebortfrakteren sørge for lastingen.
 
 Reisebortfrakteren sørger for underlag og annet som trengs til stuingen og utfører denne.
 
@@ -3005,7 +3274,12 @@ Krav på erstatning for at en passasjer er blitt forsinket, kan bare fremsettes 
 
 ### § 429. Verneting m.m.
 
-Med unntak av krav omfattet av [§ 418](lov/1994-06-24-39/§418), kan søksmål i anledning av befordringen bare reises ved domstolpå det sted hvor saksøkte har sitt bosted eller hovedsete for bedriften,på avgangsstedet eller bestemmelsesstedet i henhold til befordringsavtalen,i den stat hvor saksøkeren har bosted, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der, elleri den stat hvor befordringsavtalen ble inngått, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der.
+Med unntak av krav omfattet av [§ 418](lov/1994-06-24-39/§418), kan søksmål i anledning av befordringen bare reises ved domstol
+
+1. på det sted hvor saksøkte har sitt bosted eller hovedsete for bedriften,
+2. på avgangsstedet eller bestemmelsesstedet i henhold til befordringsavtalen,
+3. i den stat hvor saksøkeren har bosted, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der, eller
+4. i den stat hvor befordringsavtalen ble inngått, dersom saksøkte har et forretningssted i denne staten og kan saksøkes der.
 
 Etter at tvist er oppstått i saker som nevnt i første ledd, kan partene avtale at den skal behandles av en annen domstol eller ved voldgift.
 
@@ -3015,7 +3289,10 @@ For krav etter [§ 418](lov/1994-06-24-39/§418) gjelder reglene om verneting i 
 
 ### § 430. Virkeområde og ufravikelighet
 
-Reglene i [§§ 411](lov/1994-06-24-39/§411) til [417](lov/1994-06-24-39/§417), [§ 418 d](lov/1994-06-24-39/§418d), [§§ 419](lov/1994-06-24-39/§419) til [429](lov/1994-06-24-39/§429) og [§ 501](lov/1994-06-24-39/§501) første ledd nr. [4](lov/1994-06-24-39/§4) til [6](lov/1994-06-24-39/§6) kan ikke ved forhåndsavtale fravikes til skade for passasjeren.i innenriksfart i Norge, Danmark, Finland eller Sverige eller ved befordring til eller fra noen av disse stater, uansett om befordringen for øvrig er undergitt fremmed rett;ved annen befordring dersom alminnelige norske lovvalgsregler medfører at befordringen er undergitt norsk rett.
+Reglene i [§§ 411](lov/1994-06-24-39/§411) til [417](lov/1994-06-24-39/§417), [§ 418 d](lov/1994-06-24-39/§418d), [§§ 419](lov/1994-06-24-39/§419) til [429](lov/1994-06-24-39/§429) og [§ 501](lov/1994-06-24-39/§501) første ledd nr. [4](lov/1994-06-24-39/§4) til [6](lov/1994-06-24-39/§6) kan ikke ved forhåndsavtale fravikes til skade for passasjeren.
+
+1. i innenriksfart i Norge, Danmark, Finland eller Sverige eller ved befordring til eller fra noen av disse stater, uansett om befordringen for øvrig er undergitt fremmed rett;
+2. ved annen befordring dersom alminnelige norske lovvalgsregler medfører at befordringen er undergitt norsk rett.
 
 > Endret ved lover [17 juni 2005 nr. 88](lov/2005-06-17-88), [7 juni 2013 nr. 30](lov/2013-06-07-30) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1410](forskrift/2013-12-06-1410)), [12 mai 2015 nr. 30](lov/2015-05-12-30), [27 mai 2016 nr. 16](lov/2016-05-27-16) (ikr. 1 juli 2016 iflg. [res. 27 mai 2016 nr. 533](forskrift/2016-05-27-533)), [7 mai 2020 nr. 39](lov/2020-05-07-39).
 
@@ -3043,7 +3320,12 @@ Kongen kan gjøre reglene i denne paragraf gjeldende for skip med norsk passasje
 
 ### § 441. Definisjoner
 
-I dette kapitlet betyr:berging; enhver handling som har til formål å yte hjelp til et skip eller annen gjenstand som er forulykket eller i fare i hvilket som helst farvann;skip; ethvert skip og fartøy, samt annen innretning som kan navigeres;gjenstand; enhver gjenstand som ikke er permanent festet til kystlinjen;miljøskade; vesentlig fysisk skade på menneskelig helse, eller på liv eller ressurser i vassdrag eller kystfarvann med tilstøtende områder, eller i norsk økonomisk sone, som er følge av forurensning, brann, eksplosjoner eller lignende alvorlige hendelser.
+I dette kapitlet betyr:
+
+1. berging; enhver handling som har til formål å yte hjelp til et skip eller annen gjenstand som er forulykket eller i fare i hvilket som helst farvann;
+2. skip; ethvert skip og fartøy, samt annen innretning som kan navigeres;
+3. gjenstand; enhver gjenstand som ikke er permanent festet til kystlinjen;
+4. miljøskade; vesentlig fysisk skade på menneskelig helse, eller på liv eller ressurser i vassdrag eller kystfarvann med tilstøtende områder, eller i norsk økonomisk sone, som er følge av forurensning, brann, eksplosjoner eller lignende alvorlige hendelser.
 
 > Endret ved [lov 2 aug 1996 nr. 61](lov/1996-08-02-61) (ikr. 3 des 1997).
 
@@ -3071,9 +3353,18 @@ En bergingsavtale kan helt eller delvis settes til side eller endres hvis avtale
 
 ### § 444. Bergerens, eierens og skipsførerens plikter mv
 
-Bergeren har overfor eieren og rederen av skipet, samt eierne av andre gjenstander som bergingen gjelder, plikt til å:utføre bergingsarbeidet med tilbørlig aktsomhet;vise tilbørlig aktsomhet under bergingsarbeidet for å forhindre eller begrense miljøskade;søke bistand fra andre bergere, når dette etter forholdene er rimelig; oggodta at også andre bergere yter hjelp, når dette med rimelighet kreves av rederen, skipsføreren eller eieren av andre gjenstander som er i fare; bergelønnens størrelse skal likevel ikke reduseres hvis kravet var urimelig.
+Bergeren har overfor eieren og rederen av skipet, samt eierne av andre gjenstander som bergingen gjelder, plikt til å:
 
-Skipets eier, reder og skipsfører, samt eierne av andre gjenstander som bergingen gjelder, har overfor bergeren plikt til å:samarbeide fullt ut med bergeren;vise tilbørlig aktsomhet under bergingsarbeidet for å forhindre eller begrense miljøskade; oggodta tilbakelevering, når dette med rimelighet kreves av bergeren etter at det som er berget er blitt brakt i sikkerhet.
+1. utføre bergingsarbeidet med tilbørlig aktsomhet;
+2. vise tilbørlig aktsomhet under bergingsarbeidet for å forhindre eller begrense miljøskade;
+3. søke bistand fra andre bergere, når dette etter forholdene er rimelig; og
+4. godta at også andre bergere yter hjelp, når dette med rimelighet kreves av rederen, skipsføreren eller eieren av andre gjenstander som er i fare; bergelønnens størrelse skal likevel ikke reduseres hvis kravet var urimelig.
+
+Skipets eier, reder og skipsfører, samt eierne av andre gjenstander som bergingen gjelder, har overfor bergeren plikt til å:
+
+1. samarbeide fullt ut med bergeren;
+2. vise tilbørlig aktsomhet under bergingsarbeidet for å forhindre eller begrense miljøskade; og
+3. godta tilbakelevering, når dette med rimelighet kreves av bergeren etter at det som er berget er blitt brakt i sikkerhet.
 
 > Endret ved [lov 2 aug 1996 nr. 61](lov/1996-08-02-61) (ikr. 3 des 1997).
 
@@ -3089,7 +3380,18 @@ Bestemmelsen i første ledd er ikke til hinder for at det kreves særlig vederla
 
 ### § 446. Utmåling av bergelønn
 
-Bergelønn skal fastsettes med sikte på å oppmuntre til berging. Ved utmålingen skal følgende forhold tillegges vekt:det bergedes verdi;bergernes dyktighet og innsats for å berge skipet, andre gjenstander og menneskeliv;bergernes dyktighet og innsats for å forhindre eller begrense miljøskade;i hvilken grad bergeren har lykkes;arten av faren og faregraden;den tid bergerne har brukt, samt hvilke utgifter og tap de er påført;hvor raskt hjelpen ble ytet;risikoen for at bergerne pådrar seg erstatningsansvar, samt annen risiko som bergerne eller deres utstyr ble utsatt for;at skip og annet utstyr har vært brukt eller holdt tilgjengelig under bergingen;graden av beredskap og effektivitet ved bergernes utstyr, samt verdien av utstyret.
+Bergelønn skal fastsettes med sikte på å oppmuntre til berging. Ved utmålingen skal følgende forhold tillegges vekt:
+
+1. det bergedes verdi;
+2. bergernes dyktighet og innsats for å berge skipet, andre gjenstander og menneskeliv;
+3. bergernes dyktighet og innsats for å forhindre eller begrense miljøskade;
+4. i hvilken grad bergeren har lykkes;
+5. arten av faren og faregraden;
+6. den tid bergerne har brukt, samt hvilke utgifter og tap de er påført;
+7. hvor raskt hjelpen ble ytet;
+8. risikoen for at bergerne pådrar seg erstatningsansvar, samt annen risiko som bergerne eller deres utstyr ble utsatt for;
+9. at skip og annet utstyr har vært brukt eller holdt tilgjengelig under bergingen;
+10. graden av beredskap og effektivitet ved bergernes utstyr, samt verdien av utstyret.
 
 > Endret ved [lov 2 aug 1996 nr. 61](lov/1996-08-02-61) (ikr. 3 des 1997).
 
@@ -3131,7 +3433,12 @@ Bergelønn eller særlige vederlag kan settes ned eller falle bort hvis berginge
 
 Har et norskregistrert skip berget noe på reisen, skal av bergelønnen først godtgjøres den skade som ved bergingen måtte være påført skip, last eller annen eiendom om bord, samt utlegg til brensel og til hyre og kost til skipsfører og mannskap som er påløpt i anledning av bergingen.
 
-Resten, nettobergelønnen, fordeles etter følgende regler:3/5 tilfaller rederiet. Resten fordeles med 1/3 til skipsføreren og 2/3 til det egentlige skipsmannskapet. Mannskapets part fordeles i forhold til den enkeltes hyre. Skipsførerens part skal likevel alltid utgjøre minst det dobbelte av den høyest avlønnede sjømanns andel. Los om bord på det bergende skipet deltar i fordelingen av mannskapets part, selv om losen ikke er ansatt i rederiets tjeneste, og gis i så fall en andel som svarer til høyeste styrmanns hyre.Er bergingen utført av et fiske- eller fangstskip i bruk som sådant, fordeles 4/15 likt mellom mannskapets medlemmer, herunder los om bord, jf nr 1 femte punktum. Av den resterende del tilkommer notbasen ytterligere en enkelt mannskapsandel, og skipsføreren i alt to enkelte mannskapsandeler, likevel minst 2/15 av nettobergelønnen. Resten tilfaller rederiet. Reglene i dette nummer gjelder ikke skip som brukes i pelagisk hvalfangst.Er bergingen utført av norsk statsskip som brukes til formål av offentligrettslig art, tilkommer staten 3/5. Resten fordeles mellom de ombordværende etter regler fastsatt av Kongen. Staten kan uten ansvar overfor de ombordværende unnlate å fremsette krav på bergelønn.Når helt spesielle grunner taler for en annen fordeling, kan det gjøres unntak fra fordelingsreglene i nr 1, 2 og 3.
+Resten, nettobergelønnen, fordeles etter følgende regler:
+
+1. 3/5 tilfaller rederiet. Resten fordeles med 1/3 til skipsføreren og 2/3 til det egentlige skipsmannskapet. Mannskapets part fordeles i forhold til den enkeltes hyre. Skipsførerens part skal likevel alltid utgjøre minst det dobbelte av den høyest avlønnede sjømanns andel. Los om bord på det bergende skipet deltar i fordelingen av mannskapets part, selv om losen ikke er ansatt i rederiets tjeneste, og gis i så fall en andel som svarer til høyeste styrmanns hyre.
+2. Er bergingen utført av et fiske- eller fangstskip i bruk som sådant, fordeles 4/15 likt mellom mannskapets medlemmer, herunder los om bord, jf nr 1 femte punktum. Av den resterende del tilkommer notbasen ytterligere en enkelt mannskapsandel, og skipsføreren i alt to enkelte mannskapsandeler, likevel minst 2/15 av nettobergelønnen. Resten tilfaller rederiet. Reglene i dette nummer gjelder ikke skip som brukes i pelagisk hvalfangst.
+3. Er bergingen utført av norsk statsskip som brukes til formål av offentligrettslig art, tilkommer staten 3/5. Resten fordeles mellom de ombordværende etter regler fastsatt av Kongen. Staten kan uten ansvar overfor de ombordværende unnlate å fremsette krav på bergelønn.
+4. Når helt spesielle grunner taler for en annen fordeling, kan det gjøres unntak fra fordelingsreglene i nr 1, 2 og 3.
 
 Skipsfører eller medlem av mannskapet kan ikke fraskrive seg sine rettigheter etter denne paragraf, med mindre de er forhyrt på et skip som skal drive bergingsvirksomhet og er særlig utrustet for dette, eller fraskrivelsen er skjedd i forbindelse med forhyringen og gjelder et bestemt bergingsforetak. For de tilfeller som er nevnt under annet ledd nr 2, kan avvikende bestemmelser om fordelingen treffes ved tariffavtale.
 
@@ -3257,7 +3564,10 @@ Har en annen konvensjonsstat i tråd med vrakfjerningskonvensjonens regler fasts
 
 ### § 472. Virkeområde
 
-Bestemmelsene i avsnitt II gjelder, når ikke annet fremgår av den enkelte bestemmelse, for sjøulykker med:norske skip, herunder fiskefartøy og fritidsbåter,utenlandske skip når ulykken inntreffer i riket, eller utenfor riket når flaggstaten samtykker eller det i henhold til folkeretten kan utøves norsk jurisdiksjon.
+Bestemmelsene i avsnitt II gjelder, når ikke annet fremgår av den enkelte bestemmelse, for sjøulykker med:
+
+1. norske skip, herunder fiskefartøy og fritidsbåter,
+2. utenlandske skip når ulykken inntreffer i riket, eller utenfor riket når flaggstaten samtykker eller det i henhold til folkeretten kan utøves norsk jurisdiksjon.
 
 For sjøulykker med roroferger og hurtiggående passasjerfartøy som går i rutetrafikk til eller fra havn i en EØS-stat, gjelder avsnitt II når ulykken inntreffer utenfor norsk sjøterritorium dersom Norge var den siste EØS-staten skipet besøkte før ulykken.1
 
@@ -3269,13 +3579,23 @@ Bestemmelsene i avsnitt II gjelder ikke for sjøulykker som bare involverer mili
 
 ### § 472 a. Definisjoner
 
-Med alvorlig ulykke menes i denne loven en ulykke hvor det har vært brann, eksplosjon, sammenstøt e.l., ekstreme vær- eller isforhold, sprekker eller feil på skroget mv. som fører til:maskinstans, betydelig skade i innredningen, betydelig strukturell skade, herunder vanngjennomtrengning i skroget, slik at skipet ikke er i stand til å fortsette seilasen, ellerforurensning, ellerhavari som gjør det nødvendig å taue skipet eller få assistanse fra land.
+Med alvorlig ulykke menes i denne loven en ulykke hvor det har vært brann, eksplosjon, sammenstøt e.l., ekstreme vær- eller isforhold, sprekker eller feil på skroget mv. som fører til:
+
+1. maskinstans, betydelig skade i innredningen, betydelig strukturell skade, herunder vanngjennomtrengning i skroget, slik at skipet ikke er i stand til å fortsette seilasen, eller
+2. forurensning, eller
+3. havari som gjør det nødvendig å taue skipet eller få assistanse fra land.
 
 Med hurtiggående passasjerfartøy menes i denne loven et hurtiggående fartøy som definert i regel X/1 i [SOLAS-konvensjonen av 1974](traktat/1974-11-01-1) med senere endringer, og som kan transportere flere enn tolv passasjerer.
 
 Med roroferge menes i denne loven et sjøgående passasjerskip som er utstyrt med innretninger som gjør det mulig å kjøre vei- eller skinnegående kjøretøyer på og av skipet, og som kan transportere flere enn tolv passasjerer.
 
-Med sjøulykke menes i denne loven når det ved driften av skip oppstår en hendelse hvor:noen omkommer eller det voldes betydelig skade på person,skipet har eller må antas å ha gått tapt, eller skipet er forlatt,det oppstår betydelig skade på skipet,skipet har grunnstøtt eller vært involvert i et sammenstøt eller hendelse som medfører at skipet ikke lenger er funksjonsdyktig, ellerdet oppstår betydelig skade på miljøet eller fare for miljøet som følge av skade på skipet.
+Med sjøulykke menes i denne loven når det ved driften av skip oppstår en hendelse hvor:
+
+1. noen omkommer eller det voldes betydelig skade på person,
+2. skipet har eller må antas å ha gått tapt, eller skipet er forlatt,
+3. det oppstår betydelig skade på skipet,
+4. skipet har grunnstøtt eller vært involvert i et sammenstøt eller hendelse som medfører at skipet ikke lenger er funksjonsdyktig, eller
+5. det oppstår betydelig skade på miljøet eller fare for miljøet som følge av skade på skipet.
 
 Med svært alvorlig sjøulykke menes i denne loven en sjøulykke som innebærer at skipet har gått tapt, noen har omkommet eller det er påført betydelig skade på miljøet, eller det har vært umiddelbar fare for noe av dette med et passasjerskip.
 
@@ -3299,7 +3619,14 @@ Kongen kan bestemme at undersøkelser av rene arbeidsulykker om bord på skip so
 
 Undersøkelsesmyndigheten skal gi særlig berørte fremmede stater rett til å delta i undersøkelsene.
 
-Med særlig berørt stat forstås en stat:der skipet er registrert,der ulykken skjedde innenfor sjøterritoriet,der miljø eller eiendom er blitt alvorlig skadet eller utsatt for fare for alvorlig skade,som har borgere som har omkommet eller kommet betydelig til skade som følge av sjøulykken,som har informasjon som kan være av sentral betydning for undersøkelsen, ellersom på annet vis har vesentlig interesse i undersøkelsen.
+Med særlig berørt stat forstås en stat:
+
+1. der skipet er registrert,
+2. der ulykken skjedde innenfor sjøterritoriet,
+3. der miljø eller eiendom er blitt alvorlig skadet eller utsatt for fare for alvorlig skade,
+4. som har borgere som har omkommet eller kommet betydelig til skade som følge av sjøulykken,
+5. som har informasjon som kan være av sentral betydning for undersøkelsen, eller
+6. som på annet vis har vesentlig interesse i undersøkelsen.
 
 > Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [7 jan 2005 nr. 2](lov/2005-01-07-2) (ikr. 1 juli 2008 iflg. [res. 23 feb 2007 nr. 226](forskrift/2007-02-23-226)),
 
@@ -3315,7 +3642,11 @@ Har et norsk skip vært innblandet i en hendelse som har forårsaket vrak i konv
 
 ### § 475 a. Plikt til sikring av bevis
 
-Enhver som er involvert i en sjøulykke skal så snart omstendighetene tillater det samle inn og ta vare på alle bevis som kan være nødvendige for sikkerhetsundersøkelsen, herunder:ta vare på alle opplysninger fra sjøkart, skipsdagbøker, elektroniske og magnetiske innspillings- og videobånd, herunder opplysninger fra ferdskriver (VDR) og andre elektroniske innretninger i tidsrommet før, under og etter ulykken,sikre at slike opplysninger ikke overskrives eller endres på annen måte,hindre forstyrrelse fra annet utstyr som kan ha betydning for sikkerhetsundersøkelsen eller ulykken.
+Enhver som er involvert i en sjøulykke skal så snart omstendighetene tillater det samle inn og ta vare på alle bevis som kan være nødvendige for sikkerhetsundersøkelsen, herunder:
+
+1. ta vare på alle opplysninger fra sjøkart, skipsdagbøker, elektroniske og magnetiske innspillings- og videobånd, herunder opplysninger fra ferdskriver (VDR) og andre elektroniske innretninger i tidsrommet før, under og etter ulykken,
+2. sikre at slike opplysninger ikke overskrives eller endres på annen måte,
+3. hindre forstyrrelse fra annet utstyr som kan ha betydning for sikkerhetsundersøkelsen eller ulykken.
 
 Plikten til å samle inn og ta vare på bevis etter første ledd opphører når sikkerhetsundersøkelsen er avsluttet.
 
@@ -3325,7 +3656,11 @@ Plikten til å samle inn og ta vare på bevis etter første ledd opphører når 
 
 Når undersøkelsesmyndigheten har mottatt melding om en sjøulykke, skal den straks avgjøre om den skal foreta undersøkelser av ulykken, og skal i så fall iverksette undersøkelsene så snart som mulig og senest innen to måneder etter at ulykken fant sted. Undersøkelsen skal bringes til avslutning uten ugrunnet opphold. Undersøkelsesmyndigheten avgjør selv omfanget av undersøkelsen og hvordan den skal gjennomføres.
 
-Det skal iverksettes undersøkelser etter svært alvorlige sjøulykker i følgende tilfeller:når et norsk skip er innblandet, uansett hvor ulykken inntreffer,når det er et utenlandsk skip som har vært utsatt for ulykken, og ulykken inntreffer innenfor riket,når ulykken berører vesentlige norske interesser, uavhengig av skipets flagg og hvor ulykken fant sted.
+Det skal iverksettes undersøkelser etter svært alvorlige sjøulykker i følgende tilfeller:
+
+1. når et norsk skip er innblandet, uansett hvor ulykken inntreffer,
+2. når det er et utenlandsk skip som har vært utsatt for ulykken, og ulykken inntreffer innenfor riket,
+3. når ulykken berører vesentlige norske interesser, uavhengig av skipets flagg og hvor ulykken fant sted.
 
 En svært alvorlig sjøulykke med et fiskefartøy under 15 meter der skipet har gått tapt, men uten at noen har omkommet, omfattes ikke av bokstav a til c.
 
@@ -3447,7 +3782,12 @@ Kongen kan gi utfyllende forskrifter til [kapittel 18](lov/1994-06-24-39/kap18) 
 
 ### § 487. Formål m m
 
-Sjørettsskjønn skal holdes når det begjæres av rederen eller en befrakter, lasteier, assurandør eller annen interessert. Retten skal, i den utstrekning det er begjært,avgi uttalelse om skipets og lastens tilstand og om mulige skaders art, omfang og årsaker;foreta verdsettelse av skip og last;avgi uttalelse om skipet kan repareres der det befinner seg, eller på et sted det kan flyttes til;foreta en vurdering av de påregnelige kostnader ved flytting og reparasjon av skipet, og av skipets antatte verdi i reparert stand.
+Sjørettsskjønn skal holdes når det begjæres av rederen eller en befrakter, lasteier, assurandør eller annen interessert. Retten skal, i den utstrekning det er begjært,
+
+1. avgi uttalelse om skipets og lastens tilstand og om mulige skaders art, omfang og årsaker;
+2. foreta verdsettelse av skip og last;
+3. avgi uttalelse om skipet kan repareres der det befinner seg, eller på et sted det kan flyttes til;
+4. foreta en vurdering av de påregnelige kostnader ved flytting og reparasjon av skipet, og av skipets antatte verdi i reparert stand.
 
 Skjønnet kan påberopes som bevis i rettergang, men er ikke bindende.
 
@@ -3505,7 +3845,19 @@ Kongen kan gi nærmere forskrifter til utfylling og gjennomføring av reglene i 
 
 ### § 501. Foreldelsesfrister
 
-Foreldelsesfristen for følgende fordringer er:for fordring på bergelønn og særlig vederlag, to år fra den dag bergingsforetaket ble avsluttet;for fordring på andel av bergelønn eller særlig vederlag etter [§ 451](lov/1994-06-24-39/§451) annet ledd, ett år fra den dag underretning ble sendt etter [§ 451](lov/1994-06-24-39/§451) fjerde ledd;for fordring på erstatning for skade ved sammenstøt, to år fra den dag da skaden ble voldt;for fordring på erstatning for at en passasjer er død eller kommet til skade, to år fra den dag da passasjeren skulle ha gått i land eller gikk i land; har dødsfallet funnet sted etter ilandstigningen, er fristen to år fra dødsdagen, men ikke mer enn tre år fra ilandstigningen;for fordring på erstatning for tap av eller skade på reisegods, to år fra ilandstigningen, eller fra den dag ilandstigningen skulle ha funnet sted dersom det er senere;for fordring på erstatning for forsinkelse med befordringen av passasjer eller reisegods eller med utleveringen av reisegods, to år fra den dag da passasjeren gikk i land eller reisegodset ble brakt i land eller utlevert;for fordring på erstatning for tap av eller skade på eller vedrørende gods eller for uriktige eller ufullstendige opplysninger i et konnossement, ett år fra den dag da godset skulle ha blitt utlevert eller ble utlevert;for fordring på erstatning for tap ved at last er utlevert uten presentasjon av konnossement eller til feil person, ett år fra den dag da godset skulle ha vært utlevert, eller fra den dag da det ble utlevert dersom dette skjer på et senere tidspunkt;for fordring på dekning av skader, tap eller kostnader i felleshavari, ett år fra den dag skipet kom til havn etter havariet, eller fra den dag havariet fant sted dersom skipet er gått tapt;for fordring på bidrag til felleshavari, ett år fra dispasjens datum;for fordring på den som er blitt personlig ansvarlig etter [§ 53](lov/1994-06-24-39/§53) annet ledd eller [§ 63](lov/1994-06-24-39/§63) annet ledd eller etter [tvangsfullbyrdelsesloven § 11-16](lov/1992-06-26-86/§11-16) annet ledd, den samme frist som gjelder for sjøpanteretten.
+Foreldelsesfristen for følgende fordringer er:
+
+1. for fordring på bergelønn og særlig vederlag, to år fra den dag bergingsforetaket ble avsluttet;
+2. for fordring på andel av bergelønn eller særlig vederlag etter [§ 451](lov/1994-06-24-39/§451) annet ledd, ett år fra den dag underretning ble sendt etter [§ 451](lov/1994-06-24-39/§451) fjerde ledd;
+3. for fordring på erstatning for skade ved sammenstøt, to år fra den dag da skaden ble voldt;
+4. for fordring på erstatning for at en passasjer er død eller kommet til skade, to år fra den dag da passasjeren skulle ha gått i land eller gikk i land; har dødsfallet funnet sted etter ilandstigningen, er fristen to år fra dødsdagen, men ikke mer enn tre år fra ilandstigningen;
+5. for fordring på erstatning for tap av eller skade på reisegods, to år fra ilandstigningen, eller fra den dag ilandstigningen skulle ha funnet sted dersom det er senere;
+6. for fordring på erstatning for forsinkelse med befordringen av passasjer eller reisegods eller med utleveringen av reisegods, to år fra den dag da passasjeren gikk i land eller reisegodset ble brakt i land eller utlevert;
+7. for fordring på erstatning for tap av eller skade på eller vedrørende gods eller for uriktige eller ufullstendige opplysninger i et konnossement, ett år fra den dag da godset skulle ha blitt utlevert eller ble utlevert;
+8. for fordring på erstatning for tap ved at last er utlevert uten presentasjon av konnossement eller til feil person, ett år fra den dag da godset skulle ha vært utlevert, eller fra den dag da det ble utlevert dersom dette skjer på et senere tidspunkt;
+9. for fordring på dekning av skader, tap eller kostnader i felleshavari, ett år fra den dag skipet kom til havn etter havariet, eller fra den dag havariet fant sted dersom skipet er gått tapt;
+10. for fordring på bidrag til felleshavari, ett år fra dispasjens datum;
+11. for fordring på den som er blitt personlig ansvarlig etter [§ 53](lov/1994-06-24-39/§53) annet ledd eller [§ 63](lov/1994-06-24-39/§63) annet ledd eller etter [tvangsfullbyrdelsesloven § 11-16](lov/1992-06-26-86/§11-16) annet ledd, den samme frist som gjelder for sjøpanteretten.
 
 For regresskrav i anledning av fordring som nevnt i første ledd nr 7 og 8 er foreldelsesfristen ett år regnet fra den dag da fordringen ble betalt eller søksmål om den ble reist. Den samme frist gjelder for regresskrav i anledning av fordring som nevnt i første ledd nr 3, likevel slik at ved regress i anledning av personskadekrav regnes fristen for regresskravet alltid fra den dag da erstatningskravet ble betalt.
 
@@ -3563,7 +3915,11 @@ Med SDR menes i loven her den spesielle trekkrettighet som er fastsatt av Det in
 
 ### § 506. Straff
 
-Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller grovt uaktsomt på vesentlig måteovertrer [§ 9](lov/1994-06-24-39/§9) om kjenningssignal og merking eller forskrifter gitt i medhold av bestemmelsenovertrer bestemmelser i [kapittel 2](lov/1994-06-24-39/kap2) om registrering eller forskrifter gitt i medhold av kapitlet.uberettiget fører et norsk flagg eller på annen måte utgir skipet for å være norsk, eller i norsk farvann uberettiget fører noe flagg eller på annen måte utgir skipet for å ha en annen enn sin virkelige nasjonalitet.
+Med bøter eller fengsel inntil 6 måneder straffes den som forsettlig eller grovt uaktsomt på vesentlig måte
+
+1. overtrer [§ 9](lov/1994-06-24-39/§9) om kjenningssignal og merking eller forskrifter gitt i medhold av bestemmelsen
+2. overtrer bestemmelser i [kapittel 2](lov/1994-06-24-39/kap2) om registrering eller forskrifter gitt i medhold av kapitlet.
+3. uberettiget fører et norsk flagg eller på annen måte utgir skipet for å være norsk, eller i norsk farvann uberettiget fører noe flagg eller på annen måte utgir skipet for å ha en annen enn sin virkelige nasjonalitet.
 
 Med bøter eller fengsel inntil 1 år straffes en skipsfører eller vakthavende styrmann som overtrer plikten i [§ 135](lov/1994-06-24-39/§135) første eller annet ledd om å iverksette alle nødvendige tiltak ved havsnød eller annen fare og ikke uten særlig grunn forlate eller oppgi skipet så lenge det er rimelig utsikter til berging, med mindre det er betydelig fare for vedkommendes eget liv.
 
@@ -3585,7 +3941,13 @@ Ved vurderingen av om en overtredelse av første ledd er vesentlig, skal det sæ
 
 Boreplattformer og liknende flyttbare innretninger som ikke er å anse som skip og som skal brukes til undersøkelse etter eller utnytting, lagring eller transport av undersjøiske naturforekomster eller til hjelp for slik virksomhet, anses for norsk når de eies av noen som nevnt i [§ 4](lov/1994-06-24-39/§4) første ledd, og de ikke er innført i et annet lands register. Eieren skal melde skipet til innføring i skipsregisteret i samsvar med reglane i [§ 12](lov/1994-06-24-39/§12), som gjelder så langt de passer. Også reglene i [§ 5](lov/1994-06-24-39/§5), [§ 7](lov/1994-06-24-39/§7), [§ 8](lov/1994-06-24-39/§8) og [§ 9](lov/1994-06-24-39/§9) gjelder tilsvarende så langt de passer for disse innretningene. Departementet kan i særlige tilfeller gjøre unntak fra registreringsplikten.
 
-Innretningene anses som skip og driften av dem som rederivirksomhet i forhold til reglene i [kapitlene 2](lov/1994-06-24-39/kap2), 3, 4, 5, 6, 7, 8, 9, 16, 18, 19 og 20 med følgende særbestemmelser og unntak:Det som er bestemt om skipsføreren og den øverste styrmann gjelder tilsvarende for den som har den øverste myndighet om bord på innretningen, og for dennes faste stedfortreder.Uansett innretningens størrelse skal ansvarsgrensen etter [§ 175](lov/1994-06-24-39/§175) nr 2 være 36 millioner SDR og ansvarsgrensene etter [§ 175](lov/1994-06-24-39/§175) nr. 3 og [§ 175a](lov/1994-06-24-39/§175a) 60 millioner SDR.Sjøpanterett etter [§ 51](lov/1994-06-24-39/§51) tilkommer ikke krav på erstatning for forurensningsskader oppstått i forbindelse med virksomhet som nevnt i paragrafen her.Reglene i [§ 45](lov/1994-06-24-39/§45) gjelder ikke.Det kan foretas undersøkelser etter reglene i kapittel 18 avsnitt II dersom det ikke er truffet annen bestemmelse om undersøkelser i lov eller i medhold av lov.
+Innretningene anses som skip og driften av dem som rederivirksomhet i forhold til reglene i [kapitlene 2](lov/1994-06-24-39/kap2), 3, 4, 5, 6, 7, 8, 9, 16, 18, 19 og 20 med følgende særbestemmelser og unntak:
+
+1. Det som er bestemt om skipsføreren og den øverste styrmann gjelder tilsvarende for den som har den øverste myndighet om bord på innretningen, og for dennes faste stedfortreder.
+2. Uansett innretningens størrelse skal ansvarsgrensen etter [§ 175](lov/1994-06-24-39/§175) nr 2 være 36 millioner SDR og ansvarsgrensene etter [§ 175](lov/1994-06-24-39/§175) nr. 3 og [§ 175a](lov/1994-06-24-39/§175a) 60 millioner SDR.
+3. Sjøpanterett etter [§ 51](lov/1994-06-24-39/§51) tilkommer ikke krav på erstatning for forurensningsskader oppstått i forbindelse med virksomhet som nevnt i paragrafen her.
+4. Reglene i [§ 45](lov/1994-06-24-39/§45) gjelder ikke.
+5. Det kan foretas undersøkelser etter reglene i kapittel 18 avsnitt II dersom det ikke er truffet annen bestemmelse om undersøkelser i lov eller i medhold av lov.
 
 Flyttbare plattformer som anses som norske etter første ledd, anses likevel ikke som norske så lenge de i henhold til [§ 40 b](lov/1994-06-24-39/§40b) er bareboatregistrert i en annen stat.
 
@@ -3671,13 +4033,20 @@ VEDTATT DENNE FORORDNING:
 
 ### Art 1. Formål
 
-1. Ved denne forordning fastsettes fellesskapsordningen når det gjelder erstatningsansvar og forsikring for transport av passasjerer til sjøs slik det er angitt i relevante bestemmelser i:Athen-konvensjonen av 1974 om transport av passasjerer og deres bagasje til sjøs, endret ved protokollen av 2002 («Athen-konvensjonen») og fastsatt i vedlegg I; ogIMOs forbehold og retningslinjer for gjennomføring av Athen-konvensjonen, vedtatt av IMOs juridiske komité 19. oktober 2006 (IMOs retningslinjer), som fastsatt i vedlegg II.
+1. Ved denne forordning fastsettes fellesskapsordningen når det gjelder erstatningsansvar og forsikring for transport av passasjerer til sjøs slik det er angitt i relevante bestemmelser i:
+
+   1. Athen-konvensjonen av 1974 om transport av passasjerer og deres bagasje til sjøs, endret ved protokollen av 2002 («Athen-konvensjonen») og fastsatt i vedlegg I; og
+   2. IMOs forbehold og retningslinjer for gjennomføring av Athen-konvensjonen, vedtatt av IMOs juridiske komité 19. oktober 2006 (IMOs retningslinjer), som fastsatt i vedlegg II.
 2. Ved denne forordning er dessuten anvendelsen av disse bestemmelsene utvidet til også å omfatte transport av passasjerer til sjøs i hver enkelt medlemsstat om bord på fartøyer i klasse A og B i henhold til artikkel 4 i direktiv [98/18/EF](eu/31998l0018*), og det er fastsatt visse tilleggskrav.
 3. Kommisjonen skal senest 30. juni 2013 om nødvendig framlegge et forslag til regelverk som blant annet utvider denne forordnings virkeområde, til å omfatte fartøyer i klasse C og D i henhold til artikkel 4 i direktiv [98/18/EF](eu/31998l0018*).
 
 ### Art 2. Virkeområde
 
-Denne forordning får anvendelse på internasjonal transport slik det er definert i nr. 9 i artikkel 1 i Athen-konvensjonen, og på sjøtransport i hver enkelt medlemsstat om bord på fartøyer i klasse A og B i henhold til artikkel 4 i direktiv [98/18/EF](eu/31998l0018*), dersom:fartøyet seiler under en medlemsstats flagg eller er registrert i en medlemsstat,transportavtalen er inngått i en medlemsstat, elleravgangs- eller bestemmelsesstedet i henhold til transportavtalen ligger i en medlemsstat.
+Denne forordning får anvendelse på internasjonal transport slik det er definert i nr. 9 i artikkel 1 i Athen-konvensjonen, og på sjøtransport i hver enkelt medlemsstat om bord på fartøyer i klasse A og B i henhold til artikkel 4 i direktiv [98/18/EF](eu/31998l0018*), dersom:
+
+1. fartøyet seiler under en medlemsstats flagg eller er registrert i en medlemsstat,
+2. transportavtalen er inngått i en medlemsstat, eller
+3. avgangs- eller bestemmelsesstedet i henhold til transportavtalen ligger i en medlemsstat.
 
 Medlemsstatene kan anvende denne forordning på alle former for sjøtransport i hver enkelt medlemsstat.
 
@@ -3692,12 +4061,16 @@ I tilfelle tap av eller skade på utstyr til bevegelseshemmede personer eller an
 
 ### Art 5. Overordnet ansvarsbegrensning
 
-1. Denne forordning endrer ikke transportørens eller undertransportørens rettigheter eller forpliktelser i henhold til nasjonal lovgivning som gjennomfører den internasjonale konvensjon av 1976 om begrensning av ansvaret for sjørettslige krav, som endret ved protokollen av 1996, herunder enhver framtidig endring av nevnte konvensjon.Dersom en slik nasjonal lovgivning ikke får anvendelse, er transportørens eller undertransportørens erstatningsansvar utelukkende omfattet av bestemmelsene i artikkel 3 i denne forordning.
+1. Denne forordning endrer ikke transportørens eller undertransportørens rettigheter eller forpliktelser i henhold til nasjonal lovgivning som gjennomfører den internasjonale konvensjon av 1976 om begrensning av ansvaret for sjørettslige krav, som endret ved protokollen av 1996, herunder enhver framtidig endring av nevnte konvensjon.
+
+   Dersom en slik nasjonal lovgivning ikke får anvendelse, er transportørens eller undertransportørens erstatningsansvar utelukkende omfattet av bestemmelsene i artikkel 3 i denne forordning.
 2. Når det gjelder krav i forbindelse med en passasjers dødsfall eller personskade som skyldes én av risikoene som er nevnt i nr. 2.2 i IMOs retningslinjer, kan transportørens og undertransportørens erstatningsansvar begrenses i samsvar med bestemmelsene nevnt i nr. 1 i denne artikkel.
 
 ### Art 6. Forskuddsbetaling
 
-1. Dersom en passasjers dødsfall eller personskade er forårsaket av en sjøulykke, skal den transportøren som faktisk utførte hele eller en del av transporten da sjøulykken fant sted, betale et forskudd for å dekke de umiddelbare økonomiske behovene, som står i forhold til omfanget av den skaden som er forvoldt, innen 15 dager etter at den erstatningsberettigede er blitt identifisert. Ved dødsfall skal denne forskuddsbetalingen være minst 21.000 euro.Denne bestemmelsen får også anvendelse dersom transportøren er etablert i Fellesskapet.
+1. Dersom en passasjers dødsfall eller personskade er forårsaket av en sjøulykke, skal den transportøren som faktisk utførte hele eller en del av transporten da sjøulykken fant sted, betale et forskudd for å dekke de umiddelbare økonomiske behovene, som står i forhold til omfanget av den skaden som er forvoldt, innen 15 dager etter at den erstatningsberettigede er blitt identifisert. Ved dødsfall skal denne forskuddsbetalingen være minst 21.000 euro.
+
+   Denne bestemmelsen får også anvendelse dersom transportøren er etablert i Fellesskapet.
 2. En forskuddsbetaling utgjør ikke en anerkjennelse av erstatningsansvar og kan motregnes i et eventuelt senere erstatningsbeløp som utbetales på grunnlag av denne forordning. Forskuddsbetalingen skal ikke tilbakebetales unntatt i de tilfellene som er omfattet av artikkel 3 nr. 1 eller artikkel 6 i Athen-konvensjonen eller i tillegg A til IMOs retningslinjer, eller dersom den personen som har mottatt forskuddsutbetalingen, ikke er den erstatningsberettigede personen.
 
 ### Art 7. Informasjon til passasjerer
@@ -3718,7 +4091,9 @@ Rapporten kan ledsages av et forslag til endring av denne forordning eller av et
 
 ### Art 9. Endringer
 
-1. Tiltak som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, og som omhandler innarbeiding av endringer av grensene fastsatt i artikkel 3 nr. 1, artikkel 4a nr. 1, artikkel 7 nr. 1 og artikkel 8 i Athen-konvensjonen, for å ta hensyn til avgjørelser som er truffet i henhold til artikkel 23 i nevnte konvensjon samt tilsvarende ajourføringer av vedlegg I til denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 10 nr. 2 i denne forordning.Idet det tas hensyn til følgene for takster og markedets mulighet for å oppnå forsikringsdekning til overkommelige priser på det nivået som kreves, og på bakgrunn av det politiske ønsket om å forbedre passasjerenes rettigheter samt visse sesongbestemte transporttjenester til sjøs, skal Kommisjonen på grunnlag av en egnet konsekvensanalyse senest 31. desember 2016 treffe tiltak om de grensene som er fastsatt i vedlegg I for fartøyer i klasse B i henhold til artikkel 4 i direktiv [98/18/EF](eu/31998l0018*). Disse tiltakene, som skal endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 10 nr. 2 i denne forordning.
+1. Tiltak som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, og som omhandler innarbeiding av endringer av grensene fastsatt i artikkel 3 nr. 1, artikkel 4a nr. 1, artikkel 7 nr. 1 og artikkel 8 i Athen-konvensjonen, for å ta hensyn til avgjørelser som er truffet i henhold til artikkel 23 i nevnte konvensjon samt tilsvarende ajourføringer av vedlegg I til denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 10 nr. 2 i denne forordning.
+
+   Idet det tas hensyn til følgene for takster og markedets mulighet for å oppnå forsikringsdekning til overkommelige priser på det nivået som kreves, og på bakgrunn av det politiske ønsket om å forbedre passasjerenes rettigheter samt visse sesongbestemte transporttjenester til sjøs, skal Kommisjonen på grunnlag av en egnet konsekvensanalyse senest 31. desember 2016 treffe tiltak om de grensene som er fastsatt i vedlegg I for fartøyer i klasse B i henhold til artikkel 4 i direktiv [98/18/EF](eu/31998l0018*). Disse tiltakene, som skal endre ikke-grunnleggende bestemmelser i denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 10 nr. 2 i denne forordning.
 2. Tiltak som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, og som omhandler innarbeiding av endringer av bestemmelsene i IMOs retningslinjer som fastsatt i vedlegg II, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 10 nr. 2.
 
 ### Art 10. Komitéframgangsmåte
@@ -3749,7 +4124,31 @@ Utferdiget i Strasbourg, 23. april 2009.
 
 ### Art 1. Definisjoner
 
-I denne konvensjon menes med:«transportør» en person som inngår en transportavtale, eller på hvis vegne en slik avtale er inngått, uavhengig av om transporten faktisk utføres av denne eller av en undertransportør,«undertransportør» en annen person enn transportøren, som eier, leier eller driver et fartøy, og som faktisk utfører hele transporten eller en del av den, og«transportør som faktisk utfører hele transporten eller en del av den» undertransportøren eller transportøren selv dersom denne faktisk utfører transporten,«transportavtale» en avtale om sjøtransport av en passasjer eller en passasjer og dennes bagasje som inngås av en transportør eller på dennes vegne,«fartøy» bare sjøgående fartøyer, men ikke luftputebåter,«passasjer» enhver person som blir transportert av et fartøy:på grunnlag av en transportavtale, ellerfor, med transportørens samtykke, å ledsage et kjøretøy eller levende dyr som omfattes av en avtale om godstransport som ikke er berørt av denne konvensjon,«bagasje» enhver gjenstand eller ethvert kjøretøy som transporteres av transportøren på grunnlag av en transportavtale, bortsett fra:gjenstander og kjøretøyer som transporteres på grunnlag av en befraktningsavtale, et konnossement eller en annen avtale som i hovedsak gjelder godstransport, oglevende dyr,«håndbagasje» bagasje som passasjeren har i sin lugar eller på annen måte i sin besittelse, i forvaring eller til rådighet. Med unntak fra anvendelse av nr. 8 i denne artikkel og artikkel 8 omfatter håndbagasje også bagasje som passasjeren har i eller på sitt kjøretøy,«tap av eller skade på bagasje» omfatter materielle tap som skyldes at bagasjen ikke er blitt utlevert til passasjeren innen rimelig tid etter at det fartøyet som har eller skulle ha transport bagasjen, er ankommet, men omfatter ikke forsinkelser på grunn av arbeidskonflikter,«transport» omfatter følgende tidsrom:Med hensyn til passasjeren og dennes håndbagasje, det tidsrommet der passasjeren og/eller dennes håndbagasje befinner seg om bord på fartøyet, eller under ombord- eller ilandstigning, og det tidsrommet passasjeren og dennes håndbagasje transporteres til sjøs fra land til fartøyet eller omvendt, dersom denne transporten er inkludert i taksten, eller dersom det fartøyet som benyttes til denne transporten, er stilt til rådighet for passasjeren av transportøren. Når det gjelder passasjeren, omfatter ikke transporten det tidsrommet som passasjeren oppholder seg i en havneterminal eller på en havnestasjon eller på kai eller i eller på et annet havneanlegg,når det gjelder håndbagasje, også det tidsrommet der passasjeren oppholder seg på en havneterminal eller havnestasjon eller på kai eller i eller på et annet havneanlegg, dersom bagasjen er blitt overtatt av transportøren eller én av dennes ansatte eller agenter og ikke er blitt utlevert til passasjeren,når det gjelder annen bagasje som ikke er håndbagasje, tidsrommet fra den overtas av transportøren eller én av dennes ansatte eller agenter i land eller om bord, inntil den utleveres av transportøren eller én av dennes ansatte eller agenter,«internasjonal transport» enhver transport dersom avgangs- og bestemmelsesstedet i henhold til transportavtalen ligger i to forskjellige stater, eller i den samme staten, dersom det i henhold til transportavtalen eller den fastsatte reiseruten er en mellomliggende anløpshavn i en annen stat,«organisasjon» Den internasjonale sjøfartsorganisasjon,«generalsekretær» generalsekretæren i organisasjonen.
+I denne konvensjon menes med:
+
+1. 1. «transportør» en person som inngår en transportavtale, eller på hvis vegne en slik avtale er inngått, uavhengig av om transporten faktisk utføres av denne eller av en undertransportør,
+   2. «undertransportør» en annen person enn transportøren, som eier, leier eller driver et fartøy, og som faktisk utfører hele transporten eller en del av den, og
+   3. «transportør som faktisk utfører hele transporten eller en del av den» undertransportøren eller transportøren selv dersom denne faktisk utfører transporten,
+2. «transportavtale» en avtale om sjøtransport av en passasjer eller en passasjer og dennes bagasje som inngås av en transportør eller på dennes vegne,
+3. «fartøy» bare sjøgående fartøyer, men ikke luftputebåter,
+4. «passasjer» enhver person som blir transportert av et fartøy:
+
+   1. på grunnlag av en transportavtale, eller
+   2. for, med transportørens samtykke, å ledsage et kjøretøy eller levende dyr som omfattes av en avtale om godstransport som ikke er berørt av denne konvensjon,
+5. «bagasje» enhver gjenstand eller ethvert kjøretøy som transporteres av transportøren på grunnlag av en transportavtale, bortsett fra:
+
+   1. gjenstander og kjøretøyer som transporteres på grunnlag av en befraktningsavtale, et konnossement eller en annen avtale som i hovedsak gjelder godstransport, og
+   2. levende dyr,
+6. «håndbagasje» bagasje som passasjeren har i sin lugar eller på annen måte i sin besittelse, i forvaring eller til rådighet. Med unntak fra anvendelse av nr. 8 i denne artikkel og artikkel 8 omfatter håndbagasje også bagasje som passasjeren har i eller på sitt kjøretøy,
+7. «tap av eller skade på bagasje» omfatter materielle tap som skyldes at bagasjen ikke er blitt utlevert til passasjeren innen rimelig tid etter at det fartøyet som har eller skulle ha transport bagasjen, er ankommet, men omfatter ikke forsinkelser på grunn av arbeidskonflikter,
+8. «transport» omfatter følgende tidsrom:
+
+   1. Med hensyn til passasjeren og dennes håndbagasje, det tidsrommet der passasjeren og/eller dennes håndbagasje befinner seg om bord på fartøyet, eller under ombord- eller ilandstigning, og det tidsrommet passasjeren og dennes håndbagasje transporteres til sjøs fra land til fartøyet eller omvendt, dersom denne transporten er inkludert i taksten, eller dersom det fartøyet som benyttes til denne transporten, er stilt til rådighet for passasjeren av transportøren. Når det gjelder passasjeren, omfatter ikke transporten det tidsrommet som passasjeren oppholder seg i en havneterminal eller på en havnestasjon eller på kai eller i eller på et annet havneanlegg,
+   2. når det gjelder håndbagasje, også det tidsrommet der passasjeren oppholder seg på en havneterminal eller havnestasjon eller på kai eller i eller på et annet havneanlegg, dersom bagasjen er blitt overtatt av transportøren eller én av dennes ansatte eller agenter og ikke er blitt utlevert til passasjeren,
+   3. når det gjelder annen bagasje som ikke er håndbagasje, tidsrommet fra den overtas av transportøren eller én av dennes ansatte eller agenter i land eller om bord, inntil den utleveres av transportøren eller én av dennes ansatte eller agenter,
+9. «internasjonal transport» enhver transport dersom avgangs- og bestemmelsesstedet i henhold til transportavtalen ligger i to forskjellige stater, eller i den samme staten, dersom det i henhold til transportavtalen eller den fastsatte reiseruten er en mellomliggende anløpshavn i en annen stat,
+10. «organisasjon» Den internasjonale sjøfartsorganisasjon,
+11. «generalsekretær» generalsekretæren i organisasjonen.
 
 ### Art 1a. Vedlegg
 
@@ -3764,11 +4163,21 @@ Vedlegget til denne konvensjon skal utgjøre en integrert del av konvensjonen.
 
 ### Art 3. Transportørens erstatningsansvar
 
-1. Ved tap som skyldes en passasjers dødsfall eller personskade som følge av en sjøulykke, er transportøren erstatningspliktig i det omfanget skaden som gjelder den aktuelle passasjeren per skadetilfelle, ikke overskrider 250.000 regneenheter, med mindre transportøren kan bevise at ulykken:skjedde som følge av en krigshandling, fiendtligheter, en borgerkrig, et opprør eller en naturbegivenhet av uvanlig karakter som ikke kunne unngås, og med følger som ikke kunne unngås, ellerutelukkende skyldtes at tredjemann gjennomførte en handling eller unnlatelse med overlegg for å framkalle ulykken.Dersom tapet overskrider den nevnte grensen, er transportøren ytterligere erstatningspliktig, med mindre vedkommende kan bevise at den hendelsen som forårsaket skaden, ikke oppstod gjennom feil eller forsømmelse fra transportørens side.
+1. Ved tap som skyldes en passasjers dødsfall eller personskade som følge av en sjøulykke, er transportøren erstatningspliktig i det omfanget skaden som gjelder den aktuelle passasjeren per skadetilfelle, ikke overskrider 250.000 regneenheter, med mindre transportøren kan bevise at ulykken:
+
+   1. skjedde som følge av en krigshandling, fiendtligheter, en borgerkrig, et opprør eller en naturbegivenhet av uvanlig karakter som ikke kunne unngås, og med følger som ikke kunne unngås, eller
+   2. utelukkende skyldtes at tredjemann gjennomførte en handling eller unnlatelse med overlegg for å framkalle ulykken.
+
+   Dersom tapet overskrider den nevnte grensen, er transportøren ytterligere erstatningspliktig, med mindre vedkommende kan bevise at den hendelsen som forårsaket skaden, ikke oppstod gjennom feil eller forsømmelse fra transportørens side.
 2. Ved tap som skyldes en passasjers dødsfall eller personskade i forbindelse med en annen hendelse enn en sjøulykke, er transportøren erstatningspliktig dersom den hendelsen som forårsaket skaden, oppstod som følge av feil eller forsømmelse fra transportørens side. Bevisbyrden for feil eller forsømmelse skal ligge hos skadelidte.
 3. Ved tap som skyldes tap av eller skade på håndbagasje, er transportøren erstatningspliktig dersom den hendelsen som forårsaket skaden, oppstod som følge av feil eller forsømmelse fra transportørens side. Feil eller forsømmelse fra transportørens side skal antas å foreligge dersom skaden skyldes en sjøulykke.
 4. Ved tap som skyldes tap av eller skade på annen bagasje enn håndbagasje, er transportøren erstatningspliktig, med mindre vedkommende kan bevise at den hendelsen som forårsaket skaden, ikke oppstod som følge av feil eller forsømmelse fra transportørens side.
-5. I denne artikkel menes med:«sjøulykke» skipsforlis, kantring, kollisjon eller stranding av fartøyet, eksplosjon eller brann om bord på fartøyet, eller feil på fartøyet,«feil eller forsømmelse fra transportørens side» omfatter feil eller forsømmelse som begås av transportørens ansatte når de utfører sitt arbeid,«feil på fartøyet» funksjonsfeil, svikt eller manglende overholdelse av gjeldende sikkerhetsregler når det gjelder alle deler av fartøyet eller fartøyets utstyr som brukes til redning og evakuering av passasjerer, til ombord- og ilandstigning, eller til framdrift, styring, sikker seiling, fortøyning, ankring, for å legge til eller fra kai eller ankringsplass, eller til havarikontroll etter vannfylling, eller til utsetting av redningsutstyr, og«tap» som ikke medfører noen form for straffeerstatning.
+5. I denne artikkel menes med:
+
+   1. «sjøulykke» skipsforlis, kantring, kollisjon eller stranding av fartøyet, eksplosjon eller brann om bord på fartøyet, eller feil på fartøyet,
+   2. «feil eller forsømmelse fra transportørens side» omfatter feil eller forsømmelse som begås av transportørens ansatte når de utfører sitt arbeid,
+   3. «feil på fartøyet» funksjonsfeil, svikt eller manglende overholdelse av gjeldende sikkerhetsregler når det gjelder alle deler av fartøyet eller fartøyets utstyr som brukes til redning og evakuering av passasjerer, til ombord- og ilandstigning, eller til framdrift, styring, sikker seiling, fortøyning, ankring, for å legge til eller fra kai eller ankringsplass, eller til havarikontroll etter vannfylling, eller til utsetting av redningsutstyr, og
+   4. «tap» som ikke medfører noen form for straffeerstatning.
 6. Transportørens erstatningsansvar i henhold til denne artikkel gjelder bare tap som skyldes hendelser som inntreffer under transporten. Bevisbyrden for at den hendelsen som forårsaket tapet, er inntruffet under transporten, og for tapets omfang ligger hos skadelidte.
 7. Bestemmelsene i denne konvensjon påvirker ikke transportørens regressrett overfor tredjemann eller til å påberope seg uaktsom opptreden i henhold til artikkel 6 i denne konvensjon. Denne artikkel påvirker ikke retten til ansvarsbegrensning i henhold til artikkel 7 eller 8 i denne konvensjon.
 8. Antakelser om en parts feil eller forsømmelse eller plassering av bevisbyrden hos en part er ikke til hinder for at beviser til denne parts fordel tas i betrakning.
@@ -3784,8 +4193,23 @@ Vedlegget til denne konvensjon skal utgjøre en integrert del av konvensjonen.
 ### Art 4a. Lovpliktig forsikring
 
 1. Når passasjerene transporteres om bord på et fartøy som er registrert i en stat som er part i konvensjonen, og som har tillatelse til å transportere over tolv passasjerer, og denne konvensjon får anvendelse, skal den transportøren som faktisk utfører hele transporten eller en del av den, være i besittelse av en forsikring eller annen økonomisk sikkerhet som bankgaranti eller lignende, som kan dekke erstatningsansvaret i henhold denne konvensjon i tilfelle passasjerene utsettes for et dødsfall eller en personskade. Grensen for den lovpliktige forsikringen eller annen økonomisk sikkerhet skal ikke være under 250.000 regneenheter per passasjer per skadetilfelle.
-2. Til hvert fartøy skal det utstedes et sertifikat som bekrefter at kravene til forsikring eller annen økonomisk sikkerhet er oppfylt i samsvar med bestemmelsene i denne konvensjon, når vedkommende myndighet i en stat som er part i konvensjonen, har fastslått at kravene i nr. 1 er oppfylt. For et fartøy som er registrert i en stat som er part i konvensjonen, skal et slikt sertifikat utstedes eller bekreftes av vedkommende myndighet i fartøyets registreringsstat; for et fartøy som er registrert i en stat som er part i konvensjonen, kan det utstedes eller bekreftes av vedkommende myndighet i alle stater som er part i konvensjonen. Dette sertifikatet skal være i samsvar med malen som er angitt i vedlegget til denne konvensjon, og det skal inneholde følgende opplysninger:fartøyets navn, kjenningsnummer eller -bokstaver og hjemsted,navnet på den transportøren som faktisk utfører transporten eller en del av den, og stedet der transportøren har sitt hovedforetak,fartøyets IMO-identifikasjonsnummer,sikkerhetens art og gyldighetsperiode,navn på og hovedforetak til forsikringsgiver eller en annen person som yter økonomisk sikkerhet, og eventuelt forretningsstedet der forsikringen eller annen økonomisk sikkerhet er tegnet, ogsertifikatets gyldighetsperiode som ikke skal overskride forsikringens eller den annen økonomiske sikkerhets gyldighetsperiode.
-3. En stat som er part i konvensjonen, kan gi en institusjon eller en organisasjon som er godkjent av staten, myndighet til å utstede sertifikatet. Denne institusjonen eller organisasjonen skal underrette nevnte stat om hvert sertifikat som utstedes. Den staten som er part i konvensjonen, skal i alle tilfeller garantere for at det utstedte sertifikatet er fullstendig og nøyaktig, og treffe de tiltakene som er nødvendige for å oppfylle denne forpliktelsen.En stat som er part i konvensjonen, skal underrette generalsekretæren om:det særlige ansvaret og de særlige vilkårene som følger med den myndigheten som den har overdratt til en godkjent institusjon eller organisasjon,tilbakekalling av en slik myndighet, ogtidspunktet for når denne myndigheten eller tilbakekallingen trer i kraft.En overdragelse av myndighet kan først tre i kraft tre måneder etter at generalsekretæren ble underrettet om dette.Den institusjonen eller organisasjonen som har fått myndighet til å utstede sertifikater i samsvar med dette nummer, skal minst ha myndighet til å tilbakekalle disse sertifikatene dersom vilkårene for utstedelse ikke oppfylles. Institusjonen eller organisasjonen skal i alle tilfeller underrette den staten som sertifikatet ble utstedt på vegne av, om en slik tilbakekalling.
+2. Til hvert fartøy skal det utstedes et sertifikat som bekrefter at kravene til forsikring eller annen økonomisk sikkerhet er oppfylt i samsvar med bestemmelsene i denne konvensjon, når vedkommende myndighet i en stat som er part i konvensjonen, har fastslått at kravene i nr. 1 er oppfylt. For et fartøy som er registrert i en stat som er part i konvensjonen, skal et slikt sertifikat utstedes eller bekreftes av vedkommende myndighet i fartøyets registreringsstat; for et fartøy som er registrert i en stat som er part i konvensjonen, kan det utstedes eller bekreftes av vedkommende myndighet i alle stater som er part i konvensjonen. Dette sertifikatet skal være i samsvar med malen som er angitt i vedlegget til denne konvensjon, og det skal inneholde følgende opplysninger:
+
+   1. fartøyets navn, kjenningsnummer eller -bokstaver og hjemsted,
+   2. navnet på den transportøren som faktisk utfører transporten eller en del av den, og stedet der transportøren har sitt hovedforetak,
+   3. fartøyets IMO-identifikasjonsnummer,
+   4. sikkerhetens art og gyldighetsperiode,
+   5. navn på og hovedforetak til forsikringsgiver eller en annen person som yter økonomisk sikkerhet, og eventuelt forretningsstedet der forsikringen eller annen økonomisk sikkerhet er tegnet, og
+   6. sertifikatets gyldighetsperiode som ikke skal overskride forsikringens eller den annen økonomiske sikkerhets gyldighetsperiode.
+3. 1. En stat som er part i konvensjonen, kan gi en institusjon eller en organisasjon som er godkjent av staten, myndighet til å utstede sertifikatet. Denne institusjonen eller organisasjonen skal underrette nevnte stat om hvert sertifikat som utstedes. Den staten som er part i konvensjonen, skal i alle tilfeller garantere for at det utstedte sertifikatet er fullstendig og nøyaktig, og treffe de tiltakene som er nødvendige for å oppfylle denne forpliktelsen.
+   2. En stat som er part i konvensjonen, skal underrette generalsekretæren om:
+
+      1. det særlige ansvaret og de særlige vilkårene som følger med den myndigheten som den har overdratt til en godkjent institusjon eller organisasjon,
+      2. tilbakekalling av en slik myndighet, og
+      3. tidspunktet for når denne myndigheten eller tilbakekallingen trer i kraft.
+
+      En overdragelse av myndighet kan først tre i kraft tre måneder etter at generalsekretæren ble underrettet om dette.
+   3. Den institusjonen eller organisasjonen som har fått myndighet til å utstede sertifikater i samsvar med dette nummer, skal minst ha myndighet til å tilbakekalle disse sertifikatene dersom vilkårene for utstedelse ikke oppfylles. Institusjonen eller organisasjonen skal i alle tilfeller underrette den staten som sertifikatet ble utstedt på vegne av, om en slik tilbakekalling.
 4. Sertifikatet skal utarbeides på det eller de offisielle språkene i medlemsstaten som utsteder dem. Dersom det språket som anvendes, ikke er engelsk, fransk eller spansk, skal sertifikatet inneholde en oversettelse til ett av disse språkene, og statens offisielle språk kan utelates dersom nevnte stat treffer en beslutning om det.
 5. Sertifikatet skal finnes om bord på fartøyet, og en kopi skal legges hos de myndighetene som fører fartøyets register, eller, dersom fartøyet ikke er registrert i en stat som er part i konvensjonen, hos myndighetene i den staten der sertifikatet er utstedt eller påtegnet.
 6. En forsikring eller en annen økonomisk sikkerhet oppfyller ikke denne artikkels krav dersom den opphører av andre årsaker enn ved den utløpte gyldighetstiden som er angitt i sertifikatet, innen tre måneder etter det tidspunktet de myndighetene som er nevnt i nr. 5, ble underrettet om dens opphør, med mindre sertifikatet er blitt overlatt til disse myndighetene, eller et nytt sertifikat er blitt utstedt i samme tidsrom. Disse bestemmelsene gjelder også endringer som medfører at forsikringen eller den annen økonomiske sikkerheten ikke lenger oppfyller kravene i denne artikkel.
@@ -3851,15 +4275,28 @@ Erstatningssøksmål i forbindelse med en passasjers dødsfall eller personskade
 
 ### Art 15. Melding om tap av eller skade på bagasje
 
-1. Passasjeren skal skriftlig melde fra til transportøren eller dennes agent:ved åpenbar skade på bagasjen:for håndbagasje: før eller i forbindelse med passasjerens ilandstigning,for all annen bagasje: før eller i forbindelse med ulevering av denne,ved skade på bagasje som ikke er åpenbar, eller ved tap av bagasje: senest 15 dager etter tidspunktet for ilandstigning eller utlevering eller fra det tidspunktet da denne utleveringen skulle ha funnet sted.
+1. Passasjeren skal skriftlig melde fra til transportøren eller dennes agent:
+
+   1. ved åpenbar skade på bagasjen:
+
+      1. for håndbagasje: før eller i forbindelse med passasjerens ilandstigning,
+      2. for all annen bagasje: før eller i forbindelse med ulevering av denne,
+   2. ved skade på bagasje som ikke er åpenbar, eller ved tap av bagasje: senest 15 dager etter tidspunktet for ilandstigning eller utlevering eller fra det tidspunktet da denne utleveringen skulle ha funnet sted.
 2. Dersom passasjeren ikke oppfyller bestemmelsene i denne artikkel, anses vedkommende for å ha mottatt bagasjen i uskadet stand, med mindre annet er bevist.
 3. Det er ikke nødvendig å innlevere skriftlig melding dersom bagasjens tilstand på tidspunktet for mottakelse har vært gjenstand for felles kontroll eller inspeksjon.
 
 ### Art 16. Søksmålsfrist
 
 1. Erstatningssøksmål i forbindelse med en passasjers dødsfall eller personskade eller tap av eller skade på bagasje er foreldede etter et tidsrom på to år.
-2. Foreldelsesfristen skal beregnes på følgende måte:ved personskade: fra tidspunktet for når passasjeren går i land,ved dødsfall under transporten: fra det tidspunktet passasjeren skulle ha gått i land, og ved personskade under transport med dødsfall til følge etter ilandstigningen: fra tidspunktet for dødsfallet, forutsatt at dette tidsrommet ikke overskrider tre år fra tidspunktet for ilandstigning,ved tap av eller skade på bagasje: fra tidspunktet for ilandstigning eller fra det tidspunktet ilandstigningen skulle ha funnet sted, avhengig av hvilket tidspunkt som kommer sist.
-3. Utsettelse eller avbrudd av foreldelsesfrister skjer i henhold til loven der søksmålet reises, men det kan under ingen omstendigheter reises søksmål på grunnlag av denne konvensjon etter at én av følgende frister utløper:et tidsrom på fem år fra det tidspunktet passasjeren går i land, eller fra det tidspunktet dette skulle ha skjedd, avhengig av hvilket av disse tidspunktene som kommer sist, eller dersom denne fristen er tidligereet tidsrom på tre år fra det tidspunktet den skadelidte hadde kjennskap til den personskaden som var forvoldt, det tapet eller den skaden som var forvoldt, eller med rimelighet burde ha hatt det.
+2. Foreldelsesfristen skal beregnes på følgende måte:
+
+   1. ved personskade: fra tidspunktet for når passasjeren går i land,
+   2. ved dødsfall under transporten: fra det tidspunktet passasjeren skulle ha gått i land, og ved personskade under transport med dødsfall til følge etter ilandstigningen: fra tidspunktet for dødsfallet, forutsatt at dette tidsrommet ikke overskrider tre år fra tidspunktet for ilandstigning,
+   3. ved tap av eller skade på bagasje: fra tidspunktet for ilandstigning eller fra det tidspunktet ilandstigningen skulle ha funnet sted, avhengig av hvilket tidspunkt som kommer sist.
+3. Utsettelse eller avbrudd av foreldelsesfrister skjer i henhold til loven der søksmålet reises, men det kan under ingen omstendigheter reises søksmål på grunnlag av denne konvensjon etter at én av følgende frister utløper:
+
+   1. et tidsrom på fem år fra det tidspunktet passasjeren går i land, eller fra det tidspunktet dette skulle ha skjedd, avhengig av hvilket av disse tidspunktene som kommer sist, eller dersom denne fristen er tidligere
+   2. et tidsrom på tre år fra det tidspunktet den skadelidte hadde kjennskap til den personskaden som var forvoldt, det tapet eller den skaden som var forvoldt, eller med rimelighet burde ha hatt det.
 4. Uten hensyn til nr. 1, 2 og 3 i denne artikkel kan foreldelsesfristen forlenges ved en erklæring fra transportøren eller etter avtale mellom partene når søksmål er reist. Erklæringen eller avtalen skal være skriftlig.
 
 ### Art 17. Vedkommende jurisdiksjon
@@ -3876,7 +4313,10 @@ Kontraktsbestemmelser som er inngått før den hendelsen som har forvoldt en pas
 
 ### Art 20. Atomskader
 
-Denne konvensjon innebærer ikke erstatningsplikt for skader som forvoldes av atomulykker:dersom den ansvarlige for et atomanlegg har erstatningsansvar i henhold til Paris-konvensjonen av 29. juli 1960 om erstatningsansvar på atomenergiens område, som endret ved tilleggsprotokoll av 28. januar 1964, eller [Wien-konvensjonen av 21. mai 1963](traktat/1963-04-24-1) om erstatningsansvar for atomskader, eller gjeldende endringer eller protokoller til dem, ellerdersom den ansvarlige for et atomanlegg har erstatningsansvar som følge av nasjonal lovgivning om erstatningsansvar for slike skader, forutsatt at denne lovgivningen i alle sammenhenger er like gunstig for skadelidte som Paris-konvensjonen eller [Wien-konvensjonen,](traktat/1963-04-24-1) eller gjeldende endringer eller protokoller til dem.
+Denne konvensjon innebærer ikke erstatningsplikt for skader som forvoldes av atomulykker:
+
+1. dersom den ansvarlige for et atomanlegg har erstatningsansvar i henhold til Paris-konvensjonen av 29. juli 1960 om erstatningsansvar på atomenergiens område, som endret ved tilleggsprotokoll av 28. januar 1964, eller [Wien-konvensjonen av 21. mai 1963](traktat/1963-04-24-1) om erstatningsansvar for atomskader, eller gjeldende endringer eller protokoller til dem, eller
+2. dersom den ansvarlige for et atomanlegg har erstatningsansvar som følge av nasjonal lovgivning om erstatningsansvar for slike skader, forutsatt at denne lovgivningen i alle sammenhenger er like gunstig for skadelidte som Paris-konvensjonen eller [Wien-konvensjonen,](traktat/1963-04-24-1) eller gjeldende endringer eller protokoller til dem.
 
 ### Art 21. Kommersiell transport utført av offentlige myndigheter
 
@@ -3896,7 +4336,10 @@ Denne konvensjon omfatter kommersiell transport som utføres av statene eller de
 4. Alle stater som er part i konvensjonen, som revidert ved denne protokoll, kan, uansett om de er medlemmer av organisasjonen eller ikke, delta i den juridiske komiteens behandling og vedtakelse av endringer.
 5. Endringer vedtas med to tredels flertall blant de statene som er part i konvensjonen, som revidert ved denne protokoll, og som er til stede og avgir stemme i den juridiske komité, som er utvidet i samsvar med nr. 4, forutsatt at minst halvparten av de statene som er part i konvensjonen, som revidert ved denne protokoll, er til stede under avstemningen.
 6. Når den juridiske komité behandler et forslag om endring av ansvarsgrensene, skal den ta hensyn til inntrufne hendelser og særlig til omfanget av de skadene som er forårsaket av disse hendelsene, til endringer av pengeverdien og til den foreslåtte endringens virkning på forsikringskostnadene.
-7. a) Det kan ikke gjøres endringer av ansvarsgrensene i henhold til denne artikkel før om fem år regnet fra det tidspunktet denne protokollen ble lagt ut for underskriving, eller før om fem år fra det tidspunktet en tidligere endring i henhold til denne artikkel trådte i kraft.Ingen ansvarsgrense kan forhøyes slik at beløpet kommer til å overstige den grensen som er fastsatt i konvensjonen, som revidert ved denne protokoll, forhøyet med 6 % per år, beregnet kumulativt fra det tidspunktet denne protokollen ble lagt ut for undertegning.Ingen ansvarsgrense kan forhøyes slik at beløpet kommer til å overstige den grensen som er fastsatt i konvensjonen, som revidert ved denne protokoll, multiplisert med tre.
+7. a) Det kan ikke gjøres endringer av ansvarsgrensene i henhold til denne artikkel før om fem år regnet fra det tidspunktet denne protokollen ble lagt ut for underskriving, eller før om fem år fra det tidspunktet en tidligere endring i henhold til denne artikkel trådte i kraft.
+
+   1. Ingen ansvarsgrense kan forhøyes slik at beløpet kommer til å overstige den grensen som er fastsatt i konvensjonen, som revidert ved denne protokoll, forhøyet med 6 % per år, beregnet kumulativt fra det tidspunktet denne protokollen ble lagt ut for undertegning.
+   2. Ingen ansvarsgrense kan forhøyes slik at beløpet kommer til å overstige den grensen som er fastsatt i konvensjonen, som revidert ved denne protokoll, multiplisert med tre.
 8. Organisasjonen skal underrette om endringer som vedtas i samsvar med nr. 5, til alle stater som er part i konvensjonen. En endring anses for godkjent etter at det er gått 18 måneder regnet fra da det ble underrettet om den, med mindre en firedel av de statene som var part i konvensjonen på det tidspunktet da endringen ble vedtatt, underretter generalsekretæren om at de ikke kan godkjenne endringen, som da forkastes og ikke får noen virkning.
 9. En endring som anses for godkjent i samsvar med nr. 8, skal tre i kraft 18 måneder etter at den er godkjent.
 10. Alle stater som er part i konvensjonen, skal være bundet av endringen dersom de ikke sier opp protokollen i samsvar med artikkel 21 nr. 1 og 2 senest seks måneder før endringen trer i kraft. Oppsigelsen får virkning når endringen trer i kraft.
@@ -3944,11 +4387,69 @@ IMOs forbehold og retningslinjer for gjennomføring av Athen-konvensjonen
 
 ### Forbehold
 
-1\. Athen-konvensjonen bør ratifiseres med følgende forbehold eller med en erklæring som har samme formål:Forbehold i forbindelse med ... regjerings ratifisering av Athen-konvensjonen av 2002 om transport av passasjerer og deres bagasje til sjøs («konvensjonen»).*Ansvarsbegrensning for transportører osv.*... regjering forbeholder seg retten til og forplikter seg til å begrense et eventuelt erstatningsansvar i henhold til nr. 1 eller 2 i artikkel 3 i konvensjonen ved en passasjers dødsfall eller personskade, som skyldes én av de risikoene som er nevnt i nr. 2.2 i IMOs retningslinjer for gjennomføring av Athen-konvensjonen, til det laveste av følgende beløp:250.000 regneenheter per passasjer per skadetilfelle,eller340 millioner regneenheter i alt per fartøy per skadetilfelle.... regjering forbeholder seg videre retten til og forplikter seg til å anvende nr. 2.1.1. og 2.2.2 i IMOs retningslinjer for gjennomføring av Athen-konvensjonen med tilsvarende endringer på et slikt erstatningsansvar.Erstatningsansvaret for undertransportøren i henhold til artikkel 4 i konvensjonen, erstatningsansvaret for transportørens eller undertransportørens ansatte og agenter i henhold til artikkel 11 i konvensjonen, og grensen for det samlede erstatningsbeløpet i henhold til artikkel 12 i konvensjonen, skal begrenses på samme måte.Forbeholdet og forpliktelsen i nr. 1.2 får uansett anvendelse på ansvarsgrunnlaget i henhold til nr. 1 og 2 i artikkel 3, og uten hensyn til eventuelle bestemmelser om det motsatte i konvensjonens artikkel 4 eller 7, men dette forbeholdet og denne forpliktelsen påvirker ikke anvendelsen av artikkel 10 og 13.*Lovpliktig forsikring og forsikringsgivers ansvarsbegrensning*... regjering forbeholder seg retten til og forplikter seg til å begrense kravet i nr. 1 i artikkel 4a om å være i besittelse av en forsikring eller annen økonomisk sikkerhet ved en passasjers dødsfall eller personskade, som skyldes én av de risikoene som er nevnt i nr. 2.2 i IMOs retningslinjer for gjennomføring av Athen-konvensjonen, til det laveste av følgende beløp:250.000 regneenheter per passasjer per skadetilfelle,eller340 millioner regneenheter i alt per fartøy per skadetilfelle.... regjering forbeholder seg retten til og forplikter seg til å begrense erstatningsansvaret til forsikringsgiver eller en annen person som yter økonomisk sikkerhet i henhold til nr. 10 i artikkel 4a, ved en passasjers dødsfall eller personskade, som skyldes én av de risikoene som er nevnt i nr. 2.2 i IMOs retningslinjer for gjennomføring av Athen-konvensjonen, til en høyeste grense for forsikringsbeløpet eller annen økonomisk sikkerhet som transportøren skal være i besittelse av i henhold til nr. 1.6 i dette forbeholdet.... regjering forbeholder seg også retten til og forplikter seg til å anvende IMOs retningslinjer for gjennomføring av Athen-konvensjonen, herunder anvendelse av de klausulene som er nevnt i nr. 2.1 og 2.2 i retningslinjene, når det gjelder alle former for lovpliktig forsikring i henhold til konvensjonen.... regjering forbeholder seg retten til og forplikter seg til å frita forsikringsgiver eller den personen som yter økonomisk sikkerhet i henhold til nr. 1 i artikkel 4a, for eventuelt erstatningsansvar som vedkommende ikke har påtatt seg.*Utstedelse av sertifikat*... regjering forbeholder seg retten til og forplikter seg til å utstede forsikringssertifikater i henhold til nr. 2 i artikkel 4a i konvensjonen, som:gjenspeiler den ansvarsbegrensningen og de kravene til forsikringsdekning som er nevnt i nr. 1.2, 1.6, 1.7 og 1.9, ogomfatter slike andre begrensninger, krav og unntak som den mener er nødvendig, tatt i betraktning vilkårene på forsikringsmarkedet på tidspunktet for utstedelse av sertifikatet.... regjeringen forbeholder seg retten til og forplikter seg til å godta slike forsikringssertifikater som er utstedt av andre stater som er part i konvensjonen, i henhold til et lignende forbehold.Alle slike begrensninger, krav og unntak skal tydelig gjenspeiles i det sertifikatet som utstedes eller påtegnes i henhold til nr. 2 i artikkel 4a i konvensjonen.*Forholdet mellom dette forbeholdet og IMOs retningslinjer for gjennomføring av Athen-konvensjonen*Rettighetene i henhold til dette forbeholdet skal utøves idet det tas behørig hensyn til IMOs retningslinjer for gjennomføring av Athen-konvensjonen, eller til eventuelle endringer av den, med henblikk på å sikre ensartethet. Dersom et forslag om å endre IMOs retningslinjer for gjennomføring av Athen-konvensjonen, herunder begrensningene, er blitt godkjent av Den internasjonale sjøfartsorganisasjons juridiske komité, skal disse endringene få anvendelse fra det tidspunktet som er fastsatt av komiteen. Dette skal skje med forbehold for folkerettens regler når det gjelder en stats rett til å heve eller endre sitt forbehold.»
+1\. Athen-konvensjonen bør ratifiseres med følgende forbehold eller med en erklæring som har samme formål:
+
+- Forbehold i forbindelse med ... regjerings ratifisering av Athen-konvensjonen av 2002 om transport av passasjerer og deres bagasje til sjøs («konvensjonen»).
+
+  *Ansvarsbegrensning for transportører osv.*
+- ... regjering forbeholder seg retten til og forplikter seg til å begrense et eventuelt erstatningsansvar i henhold til nr. 1 eller 2 i artikkel 3 i konvensjonen ved en passasjers dødsfall eller personskade, som skyldes én av de risikoene som er nevnt i nr. 2.2 i IMOs retningslinjer for gjennomføring av Athen-konvensjonen, til det laveste av følgende beløp:
+
+  - 250.000 regneenheter per passasjer per skadetilfelle,
+  - eller
+  - 340 millioner regneenheter i alt per fartøy per skadetilfelle.
+- ... regjering forbeholder seg videre retten til og forplikter seg til å anvende nr. 2.1.1. og 2.2.2 i IMOs retningslinjer for gjennomføring av Athen-konvensjonen med tilsvarende endringer på et slikt erstatningsansvar.
+- Erstatningsansvaret for undertransportøren i henhold til artikkel 4 i konvensjonen, erstatningsansvaret for transportørens eller undertransportørens ansatte og agenter i henhold til artikkel 11 i konvensjonen, og grensen for det samlede erstatningsbeløpet i henhold til artikkel 12 i konvensjonen, skal begrenses på samme måte.
+- Forbeholdet og forpliktelsen i nr. 1.2 får uansett anvendelse på ansvarsgrunnlaget i henhold til nr. 1 og 2 i artikkel 3, og uten hensyn til eventuelle bestemmelser om det motsatte i konvensjonens artikkel 4 eller 7, men dette forbeholdet og denne forpliktelsen påvirker ikke anvendelsen av artikkel 10 og 13.
+
+  *Lovpliktig forsikring og forsikringsgivers ansvarsbegrensning*
+- ... regjering forbeholder seg retten til og forplikter seg til å begrense kravet i nr. 1 i artikkel 4a om å være i besittelse av en forsikring eller annen økonomisk sikkerhet ved en passasjers dødsfall eller personskade, som skyldes én av de risikoene som er nevnt i nr. 2.2 i IMOs retningslinjer for gjennomføring av Athen-konvensjonen, til det laveste av følgende beløp:
+
+  - 250.000 regneenheter per passasjer per skadetilfelle,
+
+    eller
+  - 340 millioner regneenheter i alt per fartøy per skadetilfelle.
+- ... regjering forbeholder seg retten til og forplikter seg til å begrense erstatningsansvaret til forsikringsgiver eller en annen person som yter økonomisk sikkerhet i henhold til nr. 10 i artikkel 4a, ved en passasjers dødsfall eller personskade, som skyldes én av de risikoene som er nevnt i nr. 2.2 i IMOs retningslinjer for gjennomføring av Athen-konvensjonen, til en høyeste grense for forsikringsbeløpet eller annen økonomisk sikkerhet som transportøren skal være i besittelse av i henhold til nr. 1.6 i dette forbeholdet.
+- ... regjering forbeholder seg også retten til og forplikter seg til å anvende IMOs retningslinjer for gjennomføring av Athen-konvensjonen, herunder anvendelse av de klausulene som er nevnt i nr. 2.1 og 2.2 i retningslinjene, når det gjelder alle former for lovpliktig forsikring i henhold til konvensjonen.
+- ... regjering forbeholder seg retten til og forplikter seg til å frita forsikringsgiver eller den personen som yter økonomisk sikkerhet i henhold til nr. 1 i artikkel 4a, for eventuelt erstatningsansvar som vedkommende ikke har påtatt seg.
+
+  *Utstedelse av sertifikat*
+- ... regjering forbeholder seg retten til og forplikter seg til å utstede forsikringssertifikater i henhold til nr. 2 i artikkel 4a i konvensjonen, som:
+
+  - gjenspeiler den ansvarsbegrensningen og de kravene til forsikringsdekning som er nevnt i nr. 1.2, 1.6, 1.7 og 1.9, og
+  - omfatter slike andre begrensninger, krav og unntak som den mener er nødvendig, tatt i betraktning vilkårene på forsikringsmarkedet på tidspunktet for utstedelse av sertifikatet.
+- ... regjeringen forbeholder seg retten til og forplikter seg til å godta slike forsikringssertifikater som er utstedt av andre stater som er part i konvensjonen, i henhold til et lignende forbehold.
+- Alle slike begrensninger, krav og unntak skal tydelig gjenspeiles i det sertifikatet som utstedes eller påtegnes i henhold til nr. 2 i artikkel 4a i konvensjonen.
+
+  *Forholdet mellom dette forbeholdet og IMOs retningslinjer for gjennomføring av Athen-konvensjonen*
+- Rettighetene i henhold til dette forbeholdet skal utøves idet det tas behørig hensyn til IMOs retningslinjer for gjennomføring av Athen-konvensjonen, eller til eventuelle endringer av den, med henblikk på å sikre ensartethet. Dersom et forslag om å endre IMOs retningslinjer for gjennomføring av Athen-konvensjonen, herunder begrensningene, er blitt godkjent av Den internasjonale sjøfartsorganisasjons juridiske komité, skal disse endringene få anvendelse fra det tidspunktet som er fastsatt av komiteen. Dette skal skje med forbehold for folkerettens regler når det gjelder en stats rett til å heve eller endre sitt forbehold.»
 
 ### Retningslinjer
 
-2\. På bakgrunn av den aktuelle situasjonen på forsikringsmarkedet bør de statene som er part i konvensjonen, utstede forsikringssertifikater om forsikring hos en forsikringsgiver som dekker risikoer knyttet til krigshandlinger, og hos en annen forsikringsgiver som dekker risikoer som ikke er knyttet til krigshandlinger. Hver forsikringsgiver bør utelukkende være erstatningspliktig for sin del. Følgende regler får anvendelse (de klausulene som det vises til, er angitt i tillegg A):Både krigsforsikringer og ikke-krigsforsikringer kan være omfattet av følgende klausuler:Klausul om ansvarsfraskrivelse ved radioaktiv forurensning, kjemiske, biologiske, biokjemiske og elektromagnetiske våpen (klausul nr. 370),Klausul om ansvarsfraskrivelse ved Internett-angrep (klausul nr. 380),innsigelser og begrensninger for den personen som stiller lovpliktig økonomisk sikkerhet i henhold til konvensjonen slik den er endret ved disse retningslinjene, særlig grensen på 250.000 regneenheter per passasjer per skadetilfelle,forbeholdet om at forsikringsgiver bare skal dekke erstatningsansvar i henhold til konvensjonen slik den er endret ved disse retningslinjene, ogforbeholdet om at alle beløp som betales i henhold til konvensjonen, skal ha som formål å redusere transportørens og/eller dennes forsikringsgivers utestående forpliktelser i henhold til konvensjonens artikkel 4a, selv om de ansvarlige for både krigsforsikringen eller ikke-krigsforsikringen verken utbetaler eller gjør krav gjeldende om beløpet.En krigsforsikring dekker et eventuelt erstatningsansvar ved tap som skyldes en passasjers dødsfall eller personskade som følge av:krig, borgerkrig, revolusjon, oppstandelse, opprør eller uroligheter som følger av fiendtlige handlinger som er begått av eller mot en krigførende makt,tilfangetakelse, kapring, frihetsberøvelse, innesperring eller tilbakeholdelse og følgene av dette, eller ethvert forsøk på dette,etterlatte miner, torpedoer, bomber eller andre etterlatte krigsvåpen,handlinger begått av terrorister eller andre personer som handler ondsinnet eller med et politisk motiv, og handlinger som tar sikte på å forebygge eller avverge en slik risiko,inndragning og ekspropriasjon,og kan være omfattet av følgende unntak, begrensninger og krav:Klausul om ansvarsfraskrivelse og automatisk opphør av dekning ved krigDersom krav fra enkelte passasjerer til sammen overstiger et beløp som tilsvarer 340 millioner regneenheter per fartøy per skadetilfelle, kan transportøren påberope seg retten til å få begrense sitt erstatningsansvar til 340 millioner regneenheter, utelukkende forutsatt at:beløpet bør fordeles mellom skadelidte i forhold til størrelsen på de kravene de har reist,fordelingen av dette beløpet kan foretas i ett eller flere delbeløp til de skadelidte som det på tidspunktet for utdeling, foreligger kunnskap om, ogfordelingen av dette beløpet kan foretas av forsikringsgiveren, domstolen eller en annen vedkommende myndighet som forsikringsgiveren har henvendt seg til, i en hvilken som helst stat som er part i konvensjonen, der det er innledet rettsforfølgning for krav som angivelig er omfattet av forsikringen.Klausul om oppsigelse med 30 dagers varsel som ikke er omfattet av nr. 2.2.1.En ikke-krigsforsikring bør dekke alle risikoer som er omfattet av en lovpliktig forsikring, bortsett fra de risikoene som er nevnt i nr. 2.2, uansett om de er omfattet av de unntakene, begrensningene eller kravene som er nevnt nr. 2.1 og 2.2.
+2\. På bakgrunn av den aktuelle situasjonen på forsikringsmarkedet bør de statene som er part i konvensjonen, utstede forsikringssertifikater om forsikring hos en forsikringsgiver som dekker risikoer knyttet til krigshandlinger, og hos en annen forsikringsgiver som dekker risikoer som ikke er knyttet til krigshandlinger. Hver forsikringsgiver bør utelukkende være erstatningspliktig for sin del. Følgende regler får anvendelse (de klausulene som det vises til, er angitt i tillegg A):
+
+- Både krigsforsikringer og ikke-krigsforsikringer kan være omfattet av følgende klausuler:
+- Klausul om ansvarsfraskrivelse ved radioaktiv forurensning, kjemiske, biologiske, biokjemiske og elektromagnetiske våpen (klausul nr. 370),
+- Klausul om ansvarsfraskrivelse ved Internett-angrep (klausul nr. 380),
+- innsigelser og begrensninger for den personen som stiller lovpliktig økonomisk sikkerhet i henhold til konvensjonen slik den er endret ved disse retningslinjene, særlig grensen på 250.000 regneenheter per passasjer per skadetilfelle,
+- forbeholdet om at forsikringsgiver bare skal dekke erstatningsansvar i henhold til konvensjonen slik den er endret ved disse retningslinjene, og
+- forbeholdet om at alle beløp som betales i henhold til konvensjonen, skal ha som formål å redusere transportørens og/eller dennes forsikringsgivers utestående forpliktelser i henhold til konvensjonens artikkel 4a, selv om de ansvarlige for både krigsforsikringen eller ikke-krigsforsikringen verken utbetaler eller gjør krav gjeldende om beløpet.
+- En krigsforsikring dekker et eventuelt erstatningsansvar ved tap som skyldes en passasjers dødsfall eller personskade som følge av:
+
+  - krig, borgerkrig, revolusjon, oppstandelse, opprør eller uroligheter som følger av fiendtlige handlinger som er begått av eller mot en krigførende makt,
+  - tilfangetakelse, kapring, frihetsberøvelse, innesperring eller tilbakeholdelse og følgene av dette, eller ethvert forsøk på dette,
+  - etterlatte miner, torpedoer, bomber eller andre etterlatte krigsvåpen,
+  - handlinger begått av terrorister eller andre personer som handler ondsinnet eller med et politisk motiv, og handlinger som tar sikte på å forebygge eller avverge en slik risiko,
+  - inndragning og ekspropriasjon,
+
+  og kan være omfattet av følgende unntak, begrensninger og krav:
+- Klausul om ansvarsfraskrivelse og automatisk opphør av dekning ved krig
+- Dersom krav fra enkelte passasjerer til sammen overstiger et beløp som tilsvarer 340 millioner regneenheter per fartøy per skadetilfelle, kan transportøren påberope seg retten til å få begrense sitt erstatningsansvar til 340 millioner regneenheter, utelukkende forutsatt at:
+
+  - beløpet bør fordeles mellom skadelidte i forhold til størrelsen på de kravene de har reist,
+  - fordelingen av dette beløpet kan foretas i ett eller flere delbeløp til de skadelidte som det på tidspunktet for utdeling, foreligger kunnskap om, og
+  - fordelingen av dette beløpet kan foretas av forsikringsgiveren, domstolen eller en annen vedkommende myndighet som forsikringsgiveren har henvendt seg til, i en hvilken som helst stat som er part i konvensjonen, der det er innledet rettsforfølgning for krav som angivelig er omfattet av forsikringen.
+- Klausul om oppsigelse med 30 dagers varsel som ikke er omfattet av nr. 2.2.1.
+- En ikke-krigsforsikring bør dekke alle risikoer som er omfattet av en lovpliktig forsikring, bortsett fra de risikoene som er nevnt i nr. 2.2, uansett om de er omfattet av de unntakene, begrensningene eller kravene som er nevnt nr. 2.1 og 2.2.
 
 3\. Et eksempel på en rekke forsikringer (Blue Cards) og et forsikringssertifikat som alle gjenspeiler disse retningslinjene, er angitt i tillegg B.
 
@@ -3956,7 +4457,14 @@ IMOs forbehold og retningslinjer for gjennomføring av Athen-konvensjonen
 
 ### Klausul om ansvarsfraskrivelse ved radioaktiv forurensning, kjemiske, biologiske, biokjemiske og elektromagnetiske våpen (klausul nr. 370 av 10.11.2003)
 
-Denne klausulen skal være overordnet og ha forrang foran alle andre motstridende bestemmelser i denne forsikringenDenne forsikringen dekker under ingen omstendigheter erstatningsansvar ved tap eller skade som direkte eller indirekte er forårsaket av eller skyldes:ioniserende stråling fra eller forurensning forårsaket av radioaktivitet fra kjernebrensel eller atomavfall eller fra forbrenning av kjernebrensel,radioaktive, giftige, eksplosive eller andre farlige eller forurensende egenskaper ved et atomanlegg, en kjernereaktor eller andre av deres atomdeler eller -komponenter,ethvert våpen eller enhver innretning som bruker atom- eller kjernespaltning og/eller fusjon eller andre lignende reaksjoner eller radioaktive krefter eller stoffer,radioaktive, giftige, eksplosive eller andre farlige eller forurensende egenskaper ved et radioaktivt stoff. Ansvarsfraskrivelsen nevnt i denne klausulen, omfatter ikke radioaktive isotoper, bortsett fra kjernebrensel når slike isotoper framstilles, transporteres, lagres eller brukes i kommersielle, landbruksmessige, medisinske, vitenskapelige eller andre lignende fredelige formål,kjemiske, biologiske, biokjemiske eller elektromagnetiske våpen.
+Denne klausulen skal være overordnet og ha forrang foran alle andre motstridende bestemmelser i denne forsikringen
+
+- Denne forsikringen dekker under ingen omstendigheter erstatningsansvar ved tap eller skade som direkte eller indirekte er forårsaket av eller skyldes:
+- ioniserende stråling fra eller forurensning forårsaket av radioaktivitet fra kjernebrensel eller atomavfall eller fra forbrenning av kjernebrensel,
+- radioaktive, giftige, eksplosive eller andre farlige eller forurensende egenskaper ved et atomanlegg, en kjernereaktor eller andre av deres atomdeler eller -komponenter,
+- ethvert våpen eller enhver innretning som bruker atom- eller kjernespaltning og/eller fusjon eller andre lignende reaksjoner eller radioaktive krefter eller stoffer,
+- radioaktive, giftige, eksplosive eller andre farlige eller forurensende egenskaper ved et radioaktivt stoff. Ansvarsfraskrivelsen nevnt i denne klausulen, omfatter ikke radioaktive isotoper, bortsett fra kjernebrensel når slike isotoper framstilles, transporteres, lagres eller brukes i kommersielle, landbruksmessige, medisinske, vitenskapelige eller andre lignende fredelige formål,
+- kjemiske, biologiske, biokjemiske eller elektromagnetiske våpen.
 
 ### Klausul om ansvarsfraskrivelse ved Internett-angrep (klausul nr. 380 av 10.11.2003)
 
@@ -3965,10 +4473,14 @@ Denne klausulen skal være overordnet og ha forrang foran alle andre motstridend
 
 ### Klausul om ansvarsfraskrivelse og automatisk opphør av dekning ved krig
 
-- Automatisk opphør av dekningUansett om det er gitt varsel om annullering eller ikke OPPHØRER dekningen AUTOMATISK ved
+- Automatisk opphør av dekning
+
+  Uansett om det er gitt varsel om annullering eller ikke OPPHØRER dekningen AUTOMATISK ved
 - utbrudd av krig (uansett om det er sendt ut krigserklæring eller ikke) mellom to eller flere av følgende stater: Det forente kongerike, De forente stater, Frankrike, Den russiske føderasjon, Folkerepublikken Kina,
 - når det gjelder fartøyer som er dekket av denne forsikringen, dersom et slikt fartøy beslaglegges som eiendom eller for bruk.
-- Krig mellom de fem stormakteneDenne forsikringen dekker ikke
+- Krig mellom de fem stormaktene
+
+  Denne forsikringen dekker ikke
 - erstatningsansvar ved tap eller skade eller utgifter som er forårsaket av utbrudd av krig (uansett om det er sendt ut krigserklæring eller ikke) mellom noen av følgende stater: Det forente kongerike, De forente stater, Frankrike, Den russiske føderasjon, Folkerepublikken Kina,
 - beslagleggelse som eiendom eller for bruk.
 
@@ -3990,90 +4502,184 @@ Er blitt enige om følgende:
 
 ### Art 1
 
-I denne protokollen skal:«Konvensjon» bety teksten i Aten-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, 1974.«Organisasjon» bety den internasjonale sjøfartsorganisasjonen.«Generalsekretær» bety Organisasjonens Generalsekretær.
+I denne protokollen skal:
+
+1. «Konvensjon» bety teksten i Aten-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, 1974.
+2. «Organisasjon» bety den internasjonale sjøfartsorganisasjonen.
+3. «Generalsekretær» bety Organisasjonens Generalsekretær.
 
 ### Art 2
 
 Artikkel 1, [§ 1](lov/1994-06-24-39/§1) i konvensjonen erstattes av følgende tekst:
 
-«bortfrakter» betyr en person av hvem eller på hvis vegne en befordringsavtale er blitt sluttet, hva enten befordringen blir faktisk utført av den personen eller av en utførende bortfrakter;«utførende bortfrakter» betyr en person som ikke er bortfrakteren, men som er skipets reder, befrakter eller operatør, og som faktisk utfører hele eller en del av befordringen; og«bortfrakter som faktisk utfører hele eller en del av befordringen» betyr utførende bortfrakter, eller bortfrakter for så vidt bortfrakter faktisk utfører befordringen.
+1. 1. «bortfrakter» betyr en person av hvem eller på hvis vegne en befordringsavtale er blitt sluttet, hva enten befordringen blir faktisk utført av den personen eller av en utførende bortfrakter;
+   2. «utførende bortfrakter» betyr en person som ikke er bortfrakteren, men som er skipets reder, befrakter eller operatør, og som faktisk utfører hele eller en del av befordringen; og
+   3. «bortfrakter som faktisk utfører hele eller en del av befordringen» betyr utførende bortfrakter, eller bortfrakter for så vidt bortfrakter faktisk utfører befordringen.
 
 ### Art 3
 
 1 Artikkel 1, [§ 10](lov/1994-06-24-39/§10) i konvensjonen erstattes av følgende tekst:
 
-«Organisasjon» betyr den internasjonale sjøfartsorganisasjonen
+1. «Organisasjon» betyr den internasjonale sjøfartsorganisasjonen
 
 2 Følgende tekst legges til artikkel 1, [§ 11](lov/1994-06-24-39/§11) i konvensjonen:
 
-«Generalsekretær» betyr Organisasjonens Generalsekretær.
+1. «Generalsekretær» betyr Organisasjonens Generalsekretær.
 
 ### Art 4
 
 Artikkel 3 i konvensjonen erstattes av følgende tekst:
 
-**Art 3.** *Bortfrakterens ansvar*For tap som følge av en passasjers død eller personskade forårsaket av en skipsfartshendelse, skal bortfrakteren være ansvarlig i den utstrekning tapet for hver passasjer ved en og samme hendelse ikke overstiger 250.000 regneenheter, med mindre bortfrakteren beviser at hendelsen:skyldes krigshandling, eller lignende handling under væpnet konflikt, borgerkrig, eller opprør eller en naturbegivenhet av usedvanlig, uunngåelig eller uimotståelig karakter; elleri sin helhet skyldes en handling eller unnlatelse utført av tredjemann i den hensikt å forårsake hendelsen;Hvis og i den utstrekning tapet overstiger det ovennevnte begrensningsbeløpet, skal bortfrakteren være ytterligere ansvarlig med mindre bortfrakteren beviser at hendelsen som forårsaket tapet inntraff uten feil eller forsømmelse fra bortfrakterens side.For tap som følge av en passasjers død eller personskade som ikke er forårsaket av en skipsfartshendelse, er bortfrakteren ansvarlig hvis hendelsen som forårsaket tapet skyldes feil eller forsømmelse fra bortfrakterens side. Bevisbyrden for at det foreligger feil eller forsømmelse skal påhvile den som krever erstatning.For tap som følge av tap av eller skade på håndbagasje, er bortfrakteren ansvarlig hvis hendelsen som forårsaket tapet skyldes feil eller forsømmelse fra bortfrakterens side. Feil eller forsømmelse på bortfrakterens side skal presumeres for tap som er forårsaket av en skipsfartshendelse.For tap som følge av tap av eller skade på annen bagasje enn håndbagasje, er bortfrakteren ansvarlig med mindre bortfrakteren beviser at hendelsen som forårsaket tapet inntraff uten feil eller forsømmelse fra bortfrakterens side.I denne artikkelen skal:«skipsfartshendelse» bety forlis, kantring, sammenstøt, stranding, eksplosjon eller brann i skipet, eller en defekt ved skipet;«feil eller forsømmelse fra bortfrakterens side» inkludere feil eller forsømmelse av personer i bortfrakterens tjeneste, som handler i tjenesten;«feil ved skipet» bety enhver feil, svikt eller manglende overholdelse av gjeldende sikkerhetsbestemmelser med hensyn til enhver del av skipet eller dets utstyr når det brukes ved rømning, evakuering, ombordstigning eller ilandstigning av passasjerer; eller når det brukes ved manøvrering, styring, sikker navigering, fortøyning, ankring, ankomst eller avgang fra kai eller ankring eller skadekontroll etter oversvømmelse; eller når det brukes ved sjøsetting av redningsutstyr; og«tap» ikke inkludere ikke-økonomisk tap.Bortfrakterens ansvar etter denne artikkelen gjelder bare for tap som springer ut fra hendelser som inntreffer under befordringen. Bevisbyrden for at hendelsen som forårsaket skaden inntraff under befordringen skal påhvile den som krever erstatning.Bestemmelsene i denne konvensjonen skal ikke avskjære den rett til regress som bortfrakteren måtte ha mot tredjemann, eller skadelidtes medvirkning etter artikkel 6 i denne konvensjonen. Bestemmelsene i denne artikkelen skal ikke avskjære retten til ansvarsbegrensning etter artikkel 7 eller 8 i denne konvensjonen.Presumpsjon for en parts feil eller forsømmelse, eller plassering av bevisbyrde på en part, skal ikke være til hinder for at bevis til fordel for den parten tas i betraktning.
+**Art 3.** *Bortfrakterens ansvar*
+
+1. For tap som følge av en passasjers død eller personskade forårsaket av en skipsfartshendelse, skal bortfrakteren være ansvarlig i den utstrekning tapet for hver passasjer ved en og samme hendelse ikke overstiger 250.000 regneenheter, med mindre bortfrakteren beviser at hendelsen:
+
+   1. skyldes krigshandling, eller lignende handling under væpnet konflikt, borgerkrig, eller opprør eller en naturbegivenhet av usedvanlig, uunngåelig eller uimotståelig karakter; eller
+   2. i sin helhet skyldes en handling eller unnlatelse utført av tredjemann i den hensikt å forårsake hendelsen;
+
+   Hvis og i den utstrekning tapet overstiger det ovennevnte begrensningsbeløpet, skal bortfrakteren være ytterligere ansvarlig med mindre bortfrakteren beviser at hendelsen som forårsaket tapet inntraff uten feil eller forsømmelse fra bortfrakterens side.
+2. For tap som følge av en passasjers død eller personskade som ikke er forårsaket av en skipsfartshendelse, er bortfrakteren ansvarlig hvis hendelsen som forårsaket tapet skyldes feil eller forsømmelse fra bortfrakterens side. Bevisbyrden for at det foreligger feil eller forsømmelse skal påhvile den som krever erstatning.
+3. For tap som følge av tap av eller skade på håndbagasje, er bortfrakteren ansvarlig hvis hendelsen som forårsaket tapet skyldes feil eller forsømmelse fra bortfrakterens side. Feil eller forsømmelse på bortfrakterens side skal presumeres for tap som er forårsaket av en skipsfartshendelse.
+4. For tap som følge av tap av eller skade på annen bagasje enn håndbagasje, er bortfrakteren ansvarlig med mindre bortfrakteren beviser at hendelsen som forårsaket tapet inntraff uten feil eller forsømmelse fra bortfrakterens side.
+5. I denne artikkelen skal:
+
+   1. «skipsfartshendelse» bety forlis, kantring, sammenstøt, stranding, eksplosjon eller brann i skipet, eller en defekt ved skipet;
+   2. «feil eller forsømmelse fra bortfrakterens side» inkludere feil eller forsømmelse av personer i bortfrakterens tjeneste, som handler i tjenesten;
+   3. «feil ved skipet» bety enhver feil, svikt eller manglende overholdelse av gjeldende sikkerhetsbestemmelser med hensyn til enhver del av skipet eller dets utstyr når det brukes ved rømning, evakuering, ombordstigning eller ilandstigning av passasjerer; eller når det brukes ved manøvrering, styring, sikker navigering, fortøyning, ankring, ankomst eller avgang fra kai eller ankring eller skadekontroll etter oversvømmelse; eller når det brukes ved sjøsetting av redningsutstyr; og
+   4. «tap» ikke inkludere ikke-økonomisk tap.
+6. Bortfrakterens ansvar etter denne artikkelen gjelder bare for tap som springer ut fra hendelser som inntreffer under befordringen. Bevisbyrden for at hendelsen som forårsaket skaden inntraff under befordringen skal påhvile den som krever erstatning.
+7. Bestemmelsene i denne konvensjonen skal ikke avskjære den rett til regress som bortfrakteren måtte ha mot tredjemann, eller skadelidtes medvirkning etter artikkel 6 i denne konvensjonen. Bestemmelsene i denne artikkelen skal ikke avskjære retten til ansvarsbegrensning etter artikkel 7 eller 8 i denne konvensjonen.
+8. Presumpsjon for en parts feil eller forsømmelse, eller plassering av bevisbyrde på en part, skal ikke være til hinder for at bevis til fordel for den parten tas i betraktning.
 
 ### Art 5
 
 Følgende tekst legges til som artikkel 4bis i konvensjonen:
 
-**Art 4bis.** *Tvungen forsikring*Når passasjerer fraktes om bord i et skip registrert i en kontraherende stat, som har tillatelse til å frakte mer enn 12 passasjerer, og denne konvensjonen får anvendelse, skal enhver bortfrakter som faktisk utfører hele eller deler av befordringen ha forsikring eller annen økonomisk sikkerhet, som garanti fra en bank eller lignende finansieringsinstitusjon, for å dekke sitt ansvar under denne konvensjonen for en passasjers død eller personskade. Den tvungne forsikringen eller annen økonomisk sikkerhet skal ikke være mindre enn 250.000 regneenheter per passasjer for en og samme hendelse.Et sertifikat der det bekreftes at det foreligger gjeldende forsikring eller annen økonomisk sikkerhet i samsvar med bestemmelsene i denne konvensjonen skal utstedes for hvert skip etter at vedkommende myndighet i en kontraherende stat har fastslått at bestemmelsene i [§ 1](lov/1994-06-24-39/§1) er overholdt. For skip registrert i en kontraherende stat skal slikt sertifikat utstedes av eller attesteres av vedkommende myndighet i registreringsstaten; for skip som ikke er registrert i en kontraherende stat kan slik sertifikat utstedes av eller attesteres av vedkommende myndighet i enhver kontraherende stat. Sertifikatet skal være i utformet i samsvar med modellen i Vedlegg I, og skal inneholde følgende opplysninger:skipets navn, kjennetegn i nummer eller bokstaver, og registreringshavn;navn og hovedforretningssted til bortfrakteren som faktisk utfører hele eller endel av befordringen;IMO identifikasjonsnummer,sikkerhetens art og gyldighetstidnavn og hovedforretningssted til forsikringsgiveren eller annen som har stilt økonomisk sikkerhet, og i tilfelle det forretningssted hvor forsikringen er ytet eller den økonomiske sikkerheten stilt; ogsertifikatets gyldighetstid, som ikke må være lengre enn forsikringens eller den økonomiske sikkerhetens gyldighetstid.En kontraherende stat kan bemyndige en institusjon eller organisasjon som den anerkjenner til å utstede sertifikat som nevnt i [§ 2](lov/1994-06-24-39/§2). En slik institusjon eller organisasjon skal informere den staten om hvert sertifikat som utstedes. I ethvert tilfelle skal den kontraherende staten fullt ut innestå for at sertifikatene er fullstendige og nøyaktige, og skal sørge for de nødvendige ordninger for å overholde denne forpliktelsen.En kontraherende stat skal underrette Generalsekretæren:om de særskilte forpliktelsene og vilkårene for bemyndigelsen til en institusjon eller organisasjon som den anerkjenner;om inndragningen av slik bemyndigelse; ogom hvilken dato bemyndigelsen eller tilbaketrekning av bemyndigelsen gjelder fra.Den institusjonen eller organisasjonen som er bemyndiget til å utstede sertifikater i samsvar med denne paragrafen skal, som et minimum, også være bemyndiget til å trekke tilbake sertifikatene dersom betingelsene for utstedelsen ikke blir overholdt. I ethvert tilfelle skal institusjonen eller organisasjonen rapportere om slik inndragning til den staten som sertifikatet ble utstedt på vegne av.Sertifikatet skal utferdiges på det eller de offisielle språk i den stat hvor det utstedes. Er det språk som anvendes verken engelsk, fransk eller spansk, skal teksten inneholde en oversettelse til et av disse språkene. Staten kan bestemme at statens eget offisielle språk kan utelates.Sertifikatet skal medføres om bord på skipet, og en kopi skal deponeres hos skipets registreringsmyndighet, eller, hvis skipet ikke er registrert i en kontraherende stat, hos vedkommende myndighet som har utstedt eller attestert sertifikatet.En forsikring eller annen økonomisk sikkerhet fyller ikke vilkårene i denne artikkel om den kan opphøre å gjelde – av annen grunn enn at forsikringens eller sikkerhetens gyldighetsperiode som er angitt i sertifikatet er utløpt – før det er gått tre måneder fra den dag melding om oppsigelsen ble gitt den myndighet som er nevnt i [§ 5](lov/1994-06-24-39/§5), med mindre sertifikatet er levert tilbake til myndigheten eller nytt sertifikat er utstedt før utløpet av denne frist. Bestemmelsene foran gjelder tilsvarende for enhver endring som medfører at forsikringen eller den økonomiske sikkerheten ikke lenger fyller vilkårene i denne artikkel.Registreringsstaten fastsetter vilkårene for utstedelse av sertifikat og for dets gyldighet, etter bestemmelsene i denne artikkel.Bestemmelsene i denne konvensjonen skal ikke være til hinder for at en kontraherende stat kan basere seg på informasjon innhentet fra andre stater, Organisasjonen eller andre internasjonale organisasjoner vedrørende den finansielle situasjonen til forsikringsgivere eller personer som stiller økonomisk sikkerhet etter bestemmelsene i denne konvensjonen. I slike tilfeller er ikke den kontraherende staten som baserer seg på slik informasjon fritatt fra sine forpliktelser som sertifikatutsteder.Forsikringssertifikater som er utstedt eller attestert etter myndighet fra en kontraherende stat skal anerkjennes av andre kontraherende stater ved anvendelsen av denne konvensjonen, og skal av disse stater anses å ha samme gyldighet som forsikringssertifikater utstedt eller bekreftet av dem, også når det gjelder utstedelse eller attestering i anledning skip som ikke er registrert i en kontraherende stat. En kontraherende stat kan når som helst anmode om konsultasjon med den utstedende eller attesterende stat dersom den tror at den forsikringsgiver eller garantist som er nevnt i sertifikatet ikke er økonomisk i stand til å oppfylle forpliktelsene etter denne konvensjonen.Krav om erstatning for skade som er dekket av forsikring eller annen økonomisk sikkerhet etter denne artikkel kan reises direkte mot forsikringsgiveren eller den som har stilt økonomisk sikkerhet. I et slikt tilfelle gjelder beløpene i [§ 1](lov/1994-06-24-39/§1) som ansvarsbegrensning for forsikringsgiveren eller den som har stilt økonomisk sikkerhet, uten hensyn til om bortfrakteren eller den utførende bortfrakteren er berettiget til begrensning av ansvaret. Saksøkte kan også gjøre gjeldende de innsigelsene som bortfrakteren nevnt i [§ 1](lov/1994-06-24-39/§1) selv ville hatt rett til å gjøre gjeldende (med unntak for innsigelser som bygger på at skipseieren er gått konkurs eller at hans bo er tatt under likvidasjon), i samsvar med denne konvensjonen. Videre kan saksøkte gjøre gjeldende den innsigelse at skaden skyldes sikredes forsettlige feil, men saksøkte kan ikke gjøre gjeldende andre innsigelser som han ville hatt rett til å gjøre gjeldende i søksmål anlagt av sikrede mot saksøkte. Saksøkte skal alltid ha rett til å kreve at bortfrakter og utførende bortfrakter skal tre inn i saken.Ethvert beløp som skriver seg fra en forsikring eller annen økonomisk sikkerhet som er gitt i samsvar med [§ 1](lov/1994-06-24-39/§1) kan bare benyttes til å dekke krav etter denne konvensjonen, og enhver betaling av slike beløp skal anses som innfrielse av krav på erstatning etter denne konvensjonen i samsvar med de innbetalte beløp.En kontraherende stat skal ikke tillate at et skip som fører dens flagg, og som denne artikkel kommer til anvendelse på, på noe tidspunkt opereres med mindre skipet har sertifikat som er utstedt i samsvar med paragrafene 2 eller 15.Forsåvidt ikke annet følger av bestemmelsene i denne artikkel, skal enhver kontraherende stat i sin nasjonale rett sørge for at forsikring eller annen økonomisk sikkerhet for beløpene i [§ 1](lov/1994-06-24-39/§1) er i kraft for ethvert skip som har tillatelse til å frakte mer enn 12 passasjerer, uansett hvor det er registrert, som anløper eller forlater en havn på statens territorium, for så vidt denne konvensjonen får anvendelse.Uten hensyn til reglene i [§ 5](lov/1994-06-24-39/§5) kan en kontraherende stat underrette Generalsekretæren om at den ved anvendelsen av [§ 13](lov/1994-06-24-39/§13) ikke stiller krav om at skip har sertifikat som nevnt i [§ 2](lov/1994-06-24-39/§2) om bord når det anløper eller forlater havner i dens territorium, dersom den kontraherende staten som utsteder sertifikatet som kreves etter [§ 2](lov/1994-06-24-39/§2) har notifisert Generalsekretæren om at den har elektroniske arkiver som er tilgjengelige for alle kontraherende stater og som bekrefter utstedelsen av sertifikatet og gjør det mulig for de kontraherende stater å overholde sine forpliktelser etter [§ 13](lov/1994-06-24-39/§13).Når et skip som eies av en kontraherende stat ikke er dekket av forsikring eller annen økonomisk sikkerhet, får bestemmelsene om forsikring og sikkerhet i denne artikkel ikke anvendelse på skipet, men skipet skal være utstyrt med et sertifikat, utstedt av vedkommende myndighet i registreringsstaten, der det bekreftes at skipet eies av vedkommende stat og at ansvaret er dekket innen de grenser som er angitt i [§ 1](lov/1994-06-24-39/§1). Dette sertifikat skal så langt som mulig svare til den modell som er påbudt i [§ 2](lov/1994-06-24-39/§2).
+**Art 4bis.** *Tvungen forsikring*
+
+1. Når passasjerer fraktes om bord i et skip registrert i en kontraherende stat, som har tillatelse til å frakte mer enn 12 passasjerer, og denne konvensjonen får anvendelse, skal enhver bortfrakter som faktisk utfører hele eller deler av befordringen ha forsikring eller annen økonomisk sikkerhet, som garanti fra en bank eller lignende finansieringsinstitusjon, for å dekke sitt ansvar under denne konvensjonen for en passasjers død eller personskade. Den tvungne forsikringen eller annen økonomisk sikkerhet skal ikke være mindre enn 250.000 regneenheter per passasjer for en og samme hendelse.
+2. Et sertifikat der det bekreftes at det foreligger gjeldende forsikring eller annen økonomisk sikkerhet i samsvar med bestemmelsene i denne konvensjonen skal utstedes for hvert skip etter at vedkommende myndighet i en kontraherende stat har fastslått at bestemmelsene i [§ 1](lov/1994-06-24-39/§1) er overholdt. For skip registrert i en kontraherende stat skal slikt sertifikat utstedes av eller attesteres av vedkommende myndighet i registreringsstaten; for skip som ikke er registrert i en kontraherende stat kan slik sertifikat utstedes av eller attesteres av vedkommende myndighet i enhver kontraherende stat. Sertifikatet skal være i utformet i samsvar med modellen i Vedlegg I, og skal inneholde følgende opplysninger:
+
+   1. skipets navn, kjennetegn i nummer eller bokstaver, og registreringshavn;
+   2. navn og hovedforretningssted til bortfrakteren som faktisk utfører hele eller endel av befordringen;
+   3. IMO identifikasjonsnummer,
+   4. sikkerhetens art og gyldighetstid
+   5. navn og hovedforretningssted til forsikringsgiveren eller annen som har stilt økonomisk sikkerhet, og i tilfelle det forretningssted hvor forsikringen er ytet eller den økonomiske sikkerheten stilt; og
+   6. sertifikatets gyldighetstid, som ikke må være lengre enn forsikringens eller den økonomiske sikkerhetens gyldighetstid.
+3. 1. En kontraherende stat kan bemyndige en institusjon eller organisasjon som den anerkjenner til å utstede sertifikat som nevnt i [§ 2](lov/1994-06-24-39/§2). En slik institusjon eller organisasjon skal informere den staten om hvert sertifikat som utstedes. I ethvert tilfelle skal den kontraherende staten fullt ut innestå for at sertifikatene er fullstendige og nøyaktige, og skal sørge for de nødvendige ordninger for å overholde denne forpliktelsen.
+   2. En kontraherende stat skal underrette Generalsekretæren:
+
+      1. om de særskilte forpliktelsene og vilkårene for bemyndigelsen til en institusjon eller organisasjon som den anerkjenner;
+      2. om inndragningen av slik bemyndigelse; og
+      3. om hvilken dato bemyndigelsen eller tilbaketrekning av bemyndigelsen gjelder fra.
+   3. Den institusjonen eller organisasjonen som er bemyndiget til å utstede sertifikater i samsvar med denne paragrafen skal, som et minimum, også være bemyndiget til å trekke tilbake sertifikatene dersom betingelsene for utstedelsen ikke blir overholdt. I ethvert tilfelle skal institusjonen eller organisasjonen rapportere om slik inndragning til den staten som sertifikatet ble utstedt på vegne av.
+4. Sertifikatet skal utferdiges på det eller de offisielle språk i den stat hvor det utstedes. Er det språk som anvendes verken engelsk, fransk eller spansk, skal teksten inneholde en oversettelse til et av disse språkene. Staten kan bestemme at statens eget offisielle språk kan utelates.
+5. Sertifikatet skal medføres om bord på skipet, og en kopi skal deponeres hos skipets registreringsmyndighet, eller, hvis skipet ikke er registrert i en kontraherende stat, hos vedkommende myndighet som har utstedt eller attestert sertifikatet.
+6. En forsikring eller annen økonomisk sikkerhet fyller ikke vilkårene i denne artikkel om den kan opphøre å gjelde – av annen grunn enn at forsikringens eller sikkerhetens gyldighetsperiode som er angitt i sertifikatet er utløpt – før det er gått tre måneder fra den dag melding om oppsigelsen ble gitt den myndighet som er nevnt i [§ 5](lov/1994-06-24-39/§5), med mindre sertifikatet er levert tilbake til myndigheten eller nytt sertifikat er utstedt før utløpet av denne frist. Bestemmelsene foran gjelder tilsvarende for enhver endring som medfører at forsikringen eller den økonomiske sikkerheten ikke lenger fyller vilkårene i denne artikkel.
+7. Registreringsstaten fastsetter vilkårene for utstedelse av sertifikat og for dets gyldighet, etter bestemmelsene i denne artikkel.
+8. Bestemmelsene i denne konvensjonen skal ikke være til hinder for at en kontraherende stat kan basere seg på informasjon innhentet fra andre stater, Organisasjonen eller andre internasjonale organisasjoner vedrørende den finansielle situasjonen til forsikringsgivere eller personer som stiller økonomisk sikkerhet etter bestemmelsene i denne konvensjonen. I slike tilfeller er ikke den kontraherende staten som baserer seg på slik informasjon fritatt fra sine forpliktelser som sertifikatutsteder.
+9. Forsikringssertifikater som er utstedt eller attestert etter myndighet fra en kontraherende stat skal anerkjennes av andre kontraherende stater ved anvendelsen av denne konvensjonen, og skal av disse stater anses å ha samme gyldighet som forsikringssertifikater utstedt eller bekreftet av dem, også når det gjelder utstedelse eller attestering i anledning skip som ikke er registrert i en kontraherende stat. En kontraherende stat kan når som helst anmode om konsultasjon med den utstedende eller attesterende stat dersom den tror at den forsikringsgiver eller garantist som er nevnt i sertifikatet ikke er økonomisk i stand til å oppfylle forpliktelsene etter denne konvensjonen.
+10. Krav om erstatning for skade som er dekket av forsikring eller annen økonomisk sikkerhet etter denne artikkel kan reises direkte mot forsikringsgiveren eller den som har stilt økonomisk sikkerhet. I et slikt tilfelle gjelder beløpene i [§ 1](lov/1994-06-24-39/§1) som ansvarsbegrensning for forsikringsgiveren eller den som har stilt økonomisk sikkerhet, uten hensyn til om bortfrakteren eller den utførende bortfrakteren er berettiget til begrensning av ansvaret. Saksøkte kan også gjøre gjeldende de innsigelsene som bortfrakteren nevnt i [§ 1](lov/1994-06-24-39/§1) selv ville hatt rett til å gjøre gjeldende (med unntak for innsigelser som bygger på at skipseieren er gått konkurs eller at hans bo er tatt under likvidasjon), i samsvar med denne konvensjonen. Videre kan saksøkte gjøre gjeldende den innsigelse at skaden skyldes sikredes forsettlige feil, men saksøkte kan ikke gjøre gjeldende andre innsigelser som han ville hatt rett til å gjøre gjeldende i søksmål anlagt av sikrede mot saksøkte. Saksøkte skal alltid ha rett til å kreve at bortfrakter og utførende bortfrakter skal tre inn i saken.
+11. Ethvert beløp som skriver seg fra en forsikring eller annen økonomisk sikkerhet som er gitt i samsvar med [§ 1](lov/1994-06-24-39/§1) kan bare benyttes til å dekke krav etter denne konvensjonen, og enhver betaling av slike beløp skal anses som innfrielse av krav på erstatning etter denne konvensjonen i samsvar med de innbetalte beløp.
+12. En kontraherende stat skal ikke tillate at et skip som fører dens flagg, og som denne artikkel kommer til anvendelse på, på noe tidspunkt opereres med mindre skipet har sertifikat som er utstedt i samsvar med paragrafene 2 eller 15.
+13. Forsåvidt ikke annet følger av bestemmelsene i denne artikkel, skal enhver kontraherende stat i sin nasjonale rett sørge for at forsikring eller annen økonomisk sikkerhet for beløpene i [§ 1](lov/1994-06-24-39/§1) er i kraft for ethvert skip som har tillatelse til å frakte mer enn 12 passasjerer, uansett hvor det er registrert, som anløper eller forlater en havn på statens territorium, for så vidt denne konvensjonen får anvendelse.
+14. Uten hensyn til reglene i [§ 5](lov/1994-06-24-39/§5) kan en kontraherende stat underrette Generalsekretæren om at den ved anvendelsen av [§ 13](lov/1994-06-24-39/§13) ikke stiller krav om at skip har sertifikat som nevnt i [§ 2](lov/1994-06-24-39/§2) om bord når det anløper eller forlater havner i dens territorium, dersom den kontraherende staten som utsteder sertifikatet som kreves etter [§ 2](lov/1994-06-24-39/§2) har notifisert Generalsekretæren om at den har elektroniske arkiver som er tilgjengelige for alle kontraherende stater og som bekrefter utstedelsen av sertifikatet og gjør det mulig for de kontraherende stater å overholde sine forpliktelser etter [§ 13](lov/1994-06-24-39/§13).
+15. Når et skip som eies av en kontraherende stat ikke er dekket av forsikring eller annen økonomisk sikkerhet, får bestemmelsene om forsikring og sikkerhet i denne artikkel ikke anvendelse på skipet, men skipet skal være utstyrt med et sertifikat, utstedt av vedkommende myndighet i registreringsstaten, der det bekreftes at skipet eies av vedkommende stat og at ansvaret er dekket innen de grenser som er angitt i [§ 1](lov/1994-06-24-39/§1). Dette sertifikat skal så langt som mulig svare til den modell som er påbudt i [§ 2](lov/1994-06-24-39/§2).
 
 ### Art 6
 
 Artikkel 7 i konvensjonen erstattes av følgende tekst:
 
-**Art 7.** *Begrensning av ansvaret for død og personskade*Bortfrakterens ansvar etter artikkel 3 for en passasjers død eller personskade skal ikke i noe tilfelle overstige 400.000 regneenheter per passasjer ved en og samme hendelse. I tilfelle hvor erstatningen ifølge domstollandets rett blir fastsatt i form av periodiske betalinger, skal kapitalverdien av disse ikke overstige den nevnte grense.En kontraherende stat kan regulere ansvarsgrensen som angitt i [§ 1](lov/1994-06-24-39/§1), forutsatt at den nasjonale ansvarsgrensen, hvis det settes noen slik, ikke settes lavere enn beløpet i [§ 1](lov/1994-06-24-39/§1). En kontraherende stat som gjør bruk av muligheten som er foreskrevet i denne paragrafen, skal informere Generalsekretæren om hva slags ansvarsgrense som gjelder, eller om det ikke er noen ansvarsgrense.
+**Art 7.** *Begrensning av ansvaret for død og personskade*
+
+1. Bortfrakterens ansvar etter artikkel 3 for en passasjers død eller personskade skal ikke i noe tilfelle overstige 400.000 regneenheter per passasjer ved en og samme hendelse. I tilfelle hvor erstatningen ifølge domstollandets rett blir fastsatt i form av periodiske betalinger, skal kapitalverdien av disse ikke overstige den nevnte grense.
+2. En kontraherende stat kan regulere ansvarsgrensen som angitt i [§ 1](lov/1994-06-24-39/§1), forutsatt at den nasjonale ansvarsgrensen, hvis det settes noen slik, ikke settes lavere enn beløpet i [§ 1](lov/1994-06-24-39/§1). En kontraherende stat som gjør bruk av muligheten som er foreskrevet i denne paragrafen, skal informere Generalsekretæren om hva slags ansvarsgrense som gjelder, eller om det ikke er noen ansvarsgrense.
 
 ### Art 7
 
 Artikkel 8 i konvensjonen erstattes av følgende tekst:
 
-**Art 8.** *Begrensning av ansvaret for tap av eller skade på bagasje og kjøretøy*Bortfrakterens ansvar for tap av eller skade på håndbagasje skal ikke i noe tilfelle overstige 2.250 regneenheter per passasjer per befordring.Bortfrakterens ansvar for tap av eller skade på kjøretøy, innbefattet all bagasje som fraktes i eller på kjøretøyet, skal ikke i noe tilfelle overstige 12.700 regneenheter per kjøretøy per befordring.Bortfrakterens ansvar for tap av eller skade på annen bagasje enn nevnt i [§ 1](lov/1994-06-24-39/§1) og 2, skal ikke i noe tilfelle overstige 3.375 regneenheter per passasjer per befordring.Bortfrakteren og passasjeren kan avtale at bortfrakterens ansvar skal være gjenstand for et fradrag på ikke over 330 regneenheter i tilfelle skade på kjøretøy og ikke over 149 regneenheter pr. passasjer i tilfelle av tap av eller skade på. annen bagasje. Beløpet skal trekkes fra tapet eller skaden.
+**Art 8.** *Begrensning av ansvaret for tap av eller skade på bagasje og kjøretøy*
+
+1. Bortfrakterens ansvar for tap av eller skade på håndbagasje skal ikke i noe tilfelle overstige 2.250 regneenheter per passasjer per befordring.
+2. Bortfrakterens ansvar for tap av eller skade på kjøretøy, innbefattet all bagasje som fraktes i eller på kjøretøyet, skal ikke i noe tilfelle overstige 12.700 regneenheter per kjøretøy per befordring.
+3. Bortfrakterens ansvar for tap av eller skade på annen bagasje enn nevnt i [§ 1](lov/1994-06-24-39/§1) og 2, skal ikke i noe tilfelle overstige 3.375 regneenheter per passasjer per befordring.
+4. Bortfrakteren og passasjeren kan avtale at bortfrakterens ansvar skal være gjenstand for et fradrag på ikke over 330 regneenheter i tilfelle skade på kjøretøy og ikke over 149 regneenheter pr. passasjer i tilfelle av tap av eller skade på. annen bagasje. Beløpet skal trekkes fra tapet eller skaden.
 
 ### Art 8
 
 Artikkel 9 i konvensjonen erstattes av følgende tekst:
 
-**Art 9.** *Regneenhet og omregning*Regneenheten nevnt i denne konvensjon er den spesielle trekkrettighet (SDR) slik den er definert av Det internasjonale valutafond. Beløpene nevnt i artikkel 3 § 1, artikkel 4bis [§ 1](lov/1994-06-24-39/§1), artikkel 7 § 1, og artikkel 8 skal omregnes til domstolslandets nasjonale valuta på basis av denne valutas forhold til den spesielle trekkrettigheten, den dag dommen blir avsagt, eller en annen dag som partene er enige om. For en kontraherende stat som er medlem av Det internasjonale valutafond, skal verdien av dens nasjonale valuta i forhold til den spesielle trekkrettighet beregnes i samsvar med den vurderingsmåte som Det internasjonale valutafond anvender for sine operasjoner og transaksjoner på vedkommende dag. For en kontraherende stat som ikke er medlem av Det internasjonale valutafond, skal verdien av dens nasjonale valuta i forhold til den spesielle trekkrettighet beregnes på en måte som denne stat fastsetter.Likevel kan en stat som ikke er medlem av Det internasjonale valutafond og hvis lov ikke tillater anvendelsen av bestemmelsene i [§ 1](lov/1994-06-24-39/§1), erklære ved ratifikasjon, vedtakelse, godkjennelse eller tiltredelse til denne konvensjonen, eller når som helst senere at regneenheten nevnt i [§ 1](lov/1994-06-24-39/§1) skal tilsvare 15 gullfranc. Den gullfranc som er omhandlet i denne paragrafen tilsvarer 65,5 milligram gull av finhet 99/1000. Omregningen fra gullfranc til nasjonal valuta skal skje i samsvar med vedkommende stats lover.Den i siste setning i [§ 1](lov/1994-06-24-39/§1) nevnte beregning og den i [§ 2](lov/1994-06-24-39/§2) nevnte omregning skal foretas på en slik måte at man så langt det er mulig, får uttrykt i de kontraherende staters nasjonale valuta den samme reelle verdi for de i artikkel 3 § 1, artikkel 4bis [§ 1](lov/1994-06-24-39/§1), artikkel 7 § 1, og artikkel 8 nevnte beløp som ville følge av anvendelsen av de tre første setningene i [§ 1](lov/1994-06-24-39/§1). De kontraherende statene skal underrette Generalsekretæren om beregningsmåten etter [§ 1](lov/1994-06-24-39/§1), henholdsvis om resultatet av omregning etter [§ 2](lov/1994-06-24-39/§2), ved deponeringen av et dokument ved ratifikasjon, vedtakelse, godkjennelse eller tiltredelse og når som helst det skjer forandring i noen av disse.
+**Art 9.** *Regneenhet og omregning*
+
+1. Regneenheten nevnt i denne konvensjon er den spesielle trekkrettighet (SDR) slik den er definert av Det internasjonale valutafond. Beløpene nevnt i artikkel 3 § 1, artikkel 4bis [§ 1](lov/1994-06-24-39/§1), artikkel 7 § 1, og artikkel 8 skal omregnes til domstolslandets nasjonale valuta på basis av denne valutas forhold til den spesielle trekkrettigheten, den dag dommen blir avsagt, eller en annen dag som partene er enige om. For en kontraherende stat som er medlem av Det internasjonale valutafond, skal verdien av dens nasjonale valuta i forhold til den spesielle trekkrettighet beregnes i samsvar med den vurderingsmåte som Det internasjonale valutafond anvender for sine operasjoner og transaksjoner på vedkommende dag. For en kontraherende stat som ikke er medlem av Det internasjonale valutafond, skal verdien av dens nasjonale valuta i forhold til den spesielle trekkrettighet beregnes på en måte som denne stat fastsetter.
+2. Likevel kan en stat som ikke er medlem av Det internasjonale valutafond og hvis lov ikke tillater anvendelsen av bestemmelsene i [§ 1](lov/1994-06-24-39/§1), erklære ved ratifikasjon, vedtakelse, godkjennelse eller tiltredelse til denne konvensjonen, eller når som helst senere at regneenheten nevnt i [§ 1](lov/1994-06-24-39/§1) skal tilsvare 15 gullfranc. Den gullfranc som er omhandlet i denne paragrafen tilsvarer 65,5 milligram gull av finhet 99/1000. Omregningen fra gullfranc til nasjonal valuta skal skje i samsvar med vedkommende stats lover.
+3. Den i siste setning i [§ 1](lov/1994-06-24-39/§1) nevnte beregning og den i [§ 2](lov/1994-06-24-39/§2) nevnte omregning skal foretas på en slik måte at man så langt det er mulig, får uttrykt i de kontraherende staters nasjonale valuta den samme reelle verdi for de i artikkel 3 § 1, artikkel 4bis [§ 1](lov/1994-06-24-39/§1), artikkel 7 § 1, og artikkel 8 nevnte beløp som ville følge av anvendelsen av de tre første setningene i [§ 1](lov/1994-06-24-39/§1). De kontraherende statene skal underrette Generalsekretæren om beregningsmåten etter [§ 1](lov/1994-06-24-39/§1), henholdsvis om resultatet av omregning etter [§ 2](lov/1994-06-24-39/§2), ved deponeringen av et dokument ved ratifikasjon, vedtakelse, godkjennelse eller tiltredelse og når som helst det skjer forandring i noen av disse.
 
 ### Art 9
 
 Artikkel 16, avsnitt 3 i konvensjonen erstattes av følgende tekst:
 
-Domstolslandets lov skal bestemme vilkår for suspensjon og avbrytelse av foreldelsesfristen, men ikke i noe tilfelle skal søksmål etter denne konvensjon kunne reises etter utløpet av noen av følgende tidsrom:Et tidsrom på fem år regnet fra den dag passasjeren gikk i land, eller fra den dag ilandstigningen skulle ha funnet sted dersom det er senere; eller, hvis dette er tidligereet tidsrom på tre år fra den dag da saksøkeren fikk eller burde skaffet seg kunnskap om skaden eller tapet som er forårsaket av hendelsen.
+1. Domstolslandets lov skal bestemme vilkår for suspensjon og avbrytelse av foreldelsesfristen, men ikke i noe tilfelle skal søksmål etter denne konvensjon kunne reises etter utløpet av noen av følgende tidsrom:
+
+   1. Et tidsrom på fem år regnet fra den dag passasjeren gikk i land, eller fra den dag ilandstigningen skulle ha funnet sted dersom det er senere; eller, hvis dette er tidligere
+   2. et tidsrom på tre år fra den dag da saksøkeren fikk eller burde skaffet seg kunnskap om skaden eller tapet som er forårsaket av hendelsen.
 
 ### Art 10
 
 Artikkel 17 i konvensjonen erstattes av følgende tekst:
 
-**Art 17.** *Kompetent domstol*Søksmål etter artikkel 3 og 4 i denne konvensjonen skal, etter saksøkerens valg, anlegges ved en av de nedenfor angitte domstoler, forutsatt at domstolen har sitt sete i en kontraherende stat, og i henhold til hver stats lov som regulerer rett verneting innenfor stater med flere mulige verneting.domstolen i den stat hvor saksøkte har sin bopel eller hovedkontoret for sin forretning, ellerdomstolen i den stat hvor avgangsstedet eller bestemmelsesstedet i henhold til befordringsavtalen er, elleren domstol i den stat hvor saksøkeren har domisil eller bopel, dersom saksøkte har en forretningsavdeling og er underkastet jurisdiksjon i nevnte stat, elleren domstol i den stat hvor befordringsavtalen ble inngått, dersom saksøkte har en forretningsavdeling og er underkastet jurisdiksjon i nevnte stat.Søksmål etter artikkel 4bis i denne konvensjonen skal, etter saksøkerens valg, anlegges ved en av domstolene hvor søksmål kunne vært anlagt mot bortfrakteren eller den utførende bortfrakteren etter [§ 1](lov/1994-06-24-39/§1).Etter den hendelsen som har voldt skaden, kan partene avtale at erstatningskravet skal henskytes til en hvilken som helst domstol eller voldgift.
+**Art 17.** *Kompetent domstol*
+
+1. Søksmål etter artikkel 3 og 4 i denne konvensjonen skal, etter saksøkerens valg, anlegges ved en av de nedenfor angitte domstoler, forutsatt at domstolen har sitt sete i en kontraherende stat, og i henhold til hver stats lov som regulerer rett verneting innenfor stater med flere mulige verneting.
+
+   1. domstolen i den stat hvor saksøkte har sin bopel eller hovedkontoret for sin forretning, eller
+   2. domstolen i den stat hvor avgangsstedet eller bestemmelsesstedet i henhold til befordringsavtalen er, eller
+   3. en domstol i den stat hvor saksøkeren har domisil eller bopel, dersom saksøkte har en forretningsavdeling og er underkastet jurisdiksjon i nevnte stat, eller
+   4. en domstol i den stat hvor befordringsavtalen ble inngått, dersom saksøkte har en forretningsavdeling og er underkastet jurisdiksjon i nevnte stat.
+2. Søksmål etter artikkel 4bis i denne konvensjonen skal, etter saksøkerens valg, anlegges ved en av domstolene hvor søksmål kunne vært anlagt mot bortfrakteren eller den utførende bortfrakteren etter [§ 1](lov/1994-06-24-39/§1).
+3. Etter den hendelsen som har voldt skaden, kan partene avtale at erstatningskravet skal henskytes til en hvilken som helst domstol eller voldgift.
 
 ### Art 11
 
 Følgende tekst legges til som artikkel 17bis i konvensjonen:
 
-**Art 17bis.** *Anerkjennelse og fullbyrdelse*Dom avsagt av en domstol som er kompetent etter artikkel 17, som kan fullbyrdes i opprinnelsesstaten og ikke lenger kan overprøves med vanlige rettsmidler der, skal anerkjennes i alle kontraherende stater, med mindre:dommen ble oppnådd med svik; ellersaksøkte ikke ble gitt rimelig varsel og rimelig mulighet til å fremstille saken.En dom som er anerkjent i samsvar med [§ 1](lov/1994-06-24-39/§1) er tvangskraftig i enhver kontraherende stat så snart de formaliteter som vedkommende stat krever er oppfylt. Disse formaliteter må ikke gi adgang til ny prøving av sakens realitet.En kontraherende stat kan anvende andre regler for anerkjennelse og fullbyrdelse, forutsatt at reglene sikrer at dommer anerkjennes og fullbyrdes i minst like stor grad som etter [§ 1](lov/1994-06-24-39/§1) og 2.
+**Art 17bis.** *Anerkjennelse og fullbyrdelse*
+
+1. Dom avsagt av en domstol som er kompetent etter artikkel 17, som kan fullbyrdes i opprinnelsesstaten og ikke lenger kan overprøves med vanlige rettsmidler der, skal anerkjennes i alle kontraherende stater, med mindre:
+
+   1. dommen ble oppnådd med svik; eller
+   2. saksøkte ikke ble gitt rimelig varsel og rimelig mulighet til å fremstille saken.
+2. En dom som er anerkjent i samsvar med [§ 1](lov/1994-06-24-39/§1) er tvangskraftig i enhver kontraherende stat så snart de formaliteter som vedkommende stat krever er oppfylt. Disse formaliteter må ikke gi adgang til ny prøving av sakens realitet.
+3. En kontraherende stat kan anvende andre regler for anerkjennelse og fullbyrdelse, forutsatt at reglene sikrer at dommer anerkjennes og fullbyrdes i minst like stor grad som etter [§ 1](lov/1994-06-24-39/§1) og 2.
 
 ### Art 12
 
 Artikkel 18 i konvensjonen erstattes av følgende tekst:
 
-**Art 18.** *Ugyldighet av kontraktsbestemmelser*Enhver kontraktsbestemmelse som er avtalt før den hendelsen som har voldt en passasjers død eller legemsskade eller tap av eller skade på passasjerens bagasje inntreffer, og som tilsikter å frita en person som er ansvarlig etter denne konvensjonen for ansvaret overfor passasjeren eller å fastsette en lavere ansvarsgrense enn bestemt i denne konvensjon, unntatt det som er angitt i artikkel 8, [§ 4](lov/1994-06-24-39/§4), eller å snu den bevisbyrden som påhviler bortfrakteren eller den utførende bortfrakteren, eller som innskrenker valgretten etter artikkel 17 paragrafene 1 og 2, skal være ugyldig, men ugyldigheten av en slik bestemmelse skal ikke gjøre befordringsavtalen ugyldig, som skal forbli underkastet bestemmelsene i denne konvensjon.
+**Art 18.** *Ugyldighet av kontraktsbestemmelser*
+
+Enhver kontraktsbestemmelse som er avtalt før den hendelsen som har voldt en passasjers død eller legemsskade eller tap av eller skade på passasjerens bagasje inntreffer, og som tilsikter å frita en person som er ansvarlig etter denne konvensjonen for ansvaret overfor passasjeren eller å fastsette en lavere ansvarsgrense enn bestemt i denne konvensjon, unntatt det som er angitt i artikkel 8, [§ 4](lov/1994-06-24-39/§4), eller å snu den bevisbyrden som påhviler bortfrakteren eller den utførende bortfrakteren, eller som innskrenker valgretten etter artikkel 17 paragrafene 1 og 2, skal være ugyldig, men ugyldigheten av en slik bestemmelse skal ikke gjøre befordringsavtalen ugyldig, som skal forbli underkastet bestemmelsene i denne konvensjon.
 
 ### Art 13
 
 Artikkel 20 i konvensjonen erstattes av følgende tekst:
 
-**Art 20.** *Atomskade*Denne konvensjon medfører ikke ansvar for skade ved atomulykke:dersom operatøren (innehaveren) av et atomanlegg er ansvarlig for slik skade enten etter Paris-konvensjonen av 29. juli 1960 om tredjemannsansvaret på atomenergiens område slik den er endret ved tilleggsprotokoll av 28. januar 1964, eller etter [Wien-konvensjonen av 21. mai 1963](traktat/1963-04-24-1) om erstatningsansvaret for atomskade, eller etter andre endringer eller protokoller til disse konvensjonene, som er i kraft, ellerdersom operatøren (innehaveren) av et atomanlegg er ansvarlig for slik skade i kraft av en nasjonal lov som regulerer ansvaret for slik skade, forutsatt at denne lov er i alle henseender like gunstig for skadelidte som Paris- eller [Wien-konvensjonen,](traktat/1963-04-24-1) eller etter andre endringer eller protokoller til disse konvensjonene, som er i kraft.
+**Art 20.** *Atomskade*
+
+Denne konvensjon medfører ikke ansvar for skade ved atomulykke:
+
+1. dersom operatøren (innehaveren) av et atomanlegg er ansvarlig for slik skade enten etter Paris-konvensjonen av 29. juli 1960 om tredjemannsansvaret på atomenergiens område slik den er endret ved tilleggsprotokoll av 28. januar 1964, eller etter [Wien-konvensjonen av 21. mai 1963](traktat/1963-04-24-1) om erstatningsansvaret for atomskade, eller etter andre endringer eller protokoller til disse konvensjonene, som er i kraft, eller
+2. dersom operatøren (innehaveren) av et atomanlegg er ansvarlig for slik skade i kraft av en nasjonal lov som regulerer ansvaret for slik skade, forutsatt at denne lov er i alle henseender like gunstig for skadelidte som Paris- eller [Wien-konvensjonen,](traktat/1963-04-24-1) eller etter andre endringer eller protokoller til disse konvensjonene, som er i kraft.
 
 ### Art 14. Sertifikatmodell
 
 1. Sertifikatmodellen som beskrevet i vedlegget til denne protokollen skal inkorporeres som et vedlegg til konvensjonen.
 2. Følgende tekst legges til som artikkel 1bis i konvensjonen:
 
-**«Artikkel 1bis.** *Vedlegg*Vedlegget til denne konvensjonen utgjør en integrert del av konvensjonen.»
+**«Artikkel 1bis.** *Vedlegg*
+
+Vedlegget til denne konvensjonen utgjør en integrert del av konvensjonen.»
 
 ### Art 15. Tolkning og anvendelse
 
@@ -4085,23 +4691,39 @@ Artikkel 20 i konvensjonen erstattes av følgende tekst:
 
 Følgende tekst legges til som artikkel 22bis i konvensjonen:
 
-**Art 22bis.** *Avsluttende bestemmelser i konvensjonen*De avsluttende bestemmelsene i konvensjonen skal være artikkel 17 til 25 i 2002-protokollen til Athen-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, 1974. Henvisninger i denne konvensjonen til kontraherende stater skal bety henvisninger til kontraherende stater til protokollen.
+**Art 22bis.** *Avsluttende bestemmelser i konvensjonen*
+
+De avsluttende bestemmelsene i konvensjonen skal være artikkel 17 til 25 i 2002-protokollen til Athen-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, 1974. Henvisninger i denne konvensjonen til kontraherende stater skal bety henvisninger til kontraherende stater til protokollen.
 
 ### Avsluttende bestemmelser
 
 ### Art 17. Signatur, ratifikasjon, tiltredelse, vedtakelse og godkjennelse
 
 1. Denne konvensjonen skal være åpen for undertegning ved Organisasjonens hovedkontor fra 1. mai 2003 til 30. april 2004, og skal deretter være åpen for tiltredelse.
-2. Stater kan gi uttrykk for sin tilslutning til denne konvensjonen ved:signatur uten reservasjon for ratifikasjon, vedtakelse eller godkjennelse; ellersignatur med forbehold om ratifikasjon, vedtakelse eller godkjennelse som etterfølges av ratifikasjon, vedtakelse eller godkjennelse; ellertiltredelse.
+2. Stater kan gi uttrykk for sin tilslutning til denne konvensjonen ved:
+
+   1. signatur uten reservasjon for ratifikasjon, vedtakelse eller godkjennelse; eller
+   2. signatur med forbehold om ratifikasjon, vedtakelse eller godkjennelse som etterfølges av ratifikasjon, vedtakelse eller godkjennelse; eller
+   3. tiltredelse.
 3. Ratifikasjon, vedtakelse, godkjennelse eller tiltredelse skjer ved å deponere et dokument med dette innhold hos Generalsekretæren.
 4. Ethvert dokument for ratifikasjon, vedtakelse, godkjennelse eller tiltredelse som deponeres etter ikrafttredelsen av en endring av denne protokollen som gjelder alle eksisterende kontraherende stater, eller etter at alle de nødvendige foranstaltninger for å sette endringene i kraft for disse stater er fullført, skal anses for å gjelde protokollen slik den er etter disse endringene.
-5. En stat skal ikke gi uttrykk for sin tilslutning til denne protokollen med mindre den sier opp:Athen-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, vedtatt i Athen 13. desember 1974;Protokollen til Athen-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, vedtatt i London 19. november 1976;Protokollen til Athen-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, vedtatt i London 29. mars 1990;med virkning fra det tidspunktet denne protokollen trer i kraft for den staten i samsvar med artikkel 20.
+5. En stat skal ikke gi uttrykk for sin tilslutning til denne protokollen med mindre den sier opp:
+
+   1. Athen-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, vedtatt i Athen 13. desember 1974;
+   2. Protokollen til Athen-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, vedtatt i London 19. november 1976;
+   3. Protokollen til Athen-konvensjonen om befordring av passasjerer og deres bagasje til sjøs, vedtatt i London 29. mars 1990;
+
+   med virkning fra det tidspunktet denne protokollen trer i kraft for den staten i samsvar med artikkel 20.
 
 ### Art 18. Stater med mer enn ett rettssystem
 
 1. Hvis en stat har to eller flere territoriale enheter der flere forskjellige rettssystemer er anvendelige i forhold til saker som omfattes av denne protokollen, kan den på tidspunktet for signering, ratifikasjon, vedtakelse, godkjenning eller tiltredelse erklære at denne protokollen skal gjelde alle territoriale enheter, eller kun en eller flere av disse. En slik erklæring kan når som helst endres ved avgivelse av en ny erklæring.
 2. En slik erklæring skal notifiseres til Generalsekretæren og skal angi spesifikt hvilke territoriale enheter denne protokollen skal gjelde for.
-3. I forhold til stater som har avgitt slik erklæring:skal referansen til skipsregisteret i en stat og den stat som foretar utstedelse og attestering av forsikringssertifikater, bety den territoriale enheten hvor henholdsvis skipet er registrert og sertifikatet er utstedt eller attestert;skal referanse til bestemmelsene i nasjonal lovgivning, nasjonale ansvarsgrenser og nasjonal valuta, bety referanse til bestemmelsene i lovgivningen, ansvarsgrensene og valutaen som gjelder for den aktuelle territoriale enheten; ogskal referanse til domstoler, og til dommer som skal anerkjennes i de kontraherende stater, bety referanse henholdsvis til domstoler og dommer som skal anerkjennes i den aktuelle territoriale enheten.
+3. I forhold til stater som har avgitt slik erklæring:
+
+   1. skal referansen til skipsregisteret i en stat og den stat som foretar utstedelse og attestering av forsikringssertifikater, bety den territoriale enheten hvor henholdsvis skipet er registrert og sertifikatet er utstedt eller attestert;
+   2. skal referanse til bestemmelsene i nasjonal lovgivning, nasjonale ansvarsgrenser og nasjonal valuta, bety referanse til bestemmelsene i lovgivningen, ansvarsgrensene og valutaen som gjelder for den aktuelle territoriale enheten; og
+   3. skal referanse til domstoler, og til dommer som skal anerkjennes i de kontraherende stater, bety referanse henholdsvis til domstoler og dommer som skal anerkjennes i den aktuelle territoriale enheten.
 
 ### Art 19. Regionale organisasjoner for økonomisk integrasjon
 
@@ -4136,7 +4758,10 @@ Følgende tekst legges til som artikkel 22bis i konvensjonen:
 4. Alle kontraherende stater til konvensjonen som endret ved denne protokollen skal – uten hensyn til om disse er medlemmer av Organisasjonen eller ikke – ha rett til å delta under saksbehandlingen til juridisk komité for vurdering og vedtagelse av endringer.
 5. Endringer skal vedtas med to tredelers majoritet av de kontraherende stater til konvensjonen som endret ved denne protokollen, som er tilstede og stemmer i juridisk komité, utvidet slik det er bestemt i [§ 4](lov/1994-06-24-39/§4), under forutsetning av at minst halvparten av de kontraherende stater til konvensjonen som endret ved denne protokollen, er tilstede ved avstemningen.
 6. Ved behandling av et forslag om endring av begrensningsbeløpene skal komitéen vurdere erfaring med hensyn til ulykker, spesielt omfanget av de skader disse har resultert i, endringer i valutaverdiene, og virkningen av den foreslåtte endring på forsikringskostnadene.
-7. (a) Ingen endring i begrensningsbeløpene etter denne artikkel kan vurderes før tidligst fem år fra den dag denne protokollen åpnes for signatur, og tidligst fem år etter den dag en foregående endring etter denne artikkelen trådte i kraft.Intet begrensningsbeløp kan heves slik at det overstiger et beløp som tilsvarer den begrensning som er fastsatt i konvensjonen som endret ved denne protokollen, med en 6 prosent økning pr år beregnet på akkumulert basis fra den dag denne konvensjonen åpnes for signatur.Intet begrensningsbeløp kan heves slik at det overstiger et beløp som tilsvarer den begrensning som er fastsatt i konvensjonen som endret ved denne protokollen, multiplisert med tre.
+7. (a) Ingen endring i begrensningsbeløpene etter denne artikkel kan vurderes før tidligst fem år fra den dag denne protokollen åpnes for signatur, og tidligst fem år etter den dag en foregående endring etter denne artikkelen trådte i kraft.
+
+   1. Intet begrensningsbeløp kan heves slik at det overstiger et beløp som tilsvarer den begrensning som er fastsatt i konvensjonen som endret ved denne protokollen, med en 6 prosent økning pr år beregnet på akkumulert basis fra den dag denne konvensjonen åpnes for signatur.
+   2. Intet begrensningsbeløp kan heves slik at det overstiger et beløp som tilsvarer den begrensning som er fastsatt i konvensjonen som endret ved denne protokollen, multiplisert med tre.
 8. Organisasjonen skal gi melding til alle kontraherende stater om enhver endring som er vedtatt i samsvar med [§ 5](lov/1994-06-24-39/§5). Endringen skal anses å være vedtatt etter en periode på atten måneder regnet fra den dag meldingen ble gitt, med mindre minst en fjerdedel av statene som var kontraherende stater på det tidspunkt da endringen ble vedtatt av komitéen har underrettet Generalsekretæren i løpet av denne periode om at de ikke vedtar endringen, i hvilket tilfelle endringen blir forkastet og skal være uten virkning.
 9. En endring som anses å være vedtatt i samsvar med [§ 8](lov/1994-06-24-39/§8) trer ikraft atten måneder etter vedtagelsen.
 10. Alle kontraherende stater skal være bundet av endringen med mindre de sier opp denne protokollen i samsvar med artikkel 21 paragrafene 1 og 2, minst seks måneder før endringen trer i kraft. En slik oppsigelse gjelder fra det tidspunkt endringen trer i kraft.
@@ -4145,7 +4770,19 @@ Følgende tekst legges til som artikkel 22bis i konvensjonen:
 ### Art 24. Depositar
 
 1. Denne protokollen og enhver endring vedtatt under artikkel 23 skal deponeres hos Generalsekretæren.
-2. Generalsekretæren skal:underrette alle stater som har undertegnet eller tiltrådt denne protokollen om:enhver ny undertegning eller deponering av et ratifikasjonsvedtagelses-, godkjennelses- eller tiltredelsesdokument, samt datoen for denne;hver erklæring og underretning i samsvar med artikkel 9 § 2 og 3, artikkel 18 § 1 og artikkel 19 § 4 i konvensjonen som endret ved denne protokollen;datoen for protokollens ikrafttredelse;ethvert forslag til endring av beløpsgrensene, som er blitt fremsatt i samsvar med artikkel 23 § 2 i denne protokollen;enhver endring som er vedtatt i samsvar med artikkel 23 § 5;enhver endring som anses å være godkjent etter artikkel 23 § 8 i denne protokollen, samt datoen for denne endringens ikrafttredelse i henhold til paragrafene 9 og 10 i den artikkelen;deponeringen av ethvert dokument for oppsigelse av denne protokollen, samt datoen dokumentet er mottatt og datoen oppsigelsen får virkning; ogenhver underretning som kreves etter noen artikkel i denne protokollen; ogoversende bekreftede kopier av denne protokollen til alle statene som har signert eller tiltrådt protokollen.
+2. Generalsekretæren skal:
+
+   1. underrette alle stater som har undertegnet eller tiltrådt denne protokollen om:
+
+      1. enhver ny undertegning eller deponering av et ratifikasjonsvedtagelses-, godkjennelses- eller tiltredelsesdokument, samt datoen for denne;
+      2. hver erklæring og underretning i samsvar med artikkel 9 § 2 og 3, artikkel 18 § 1 og artikkel 19 § 4 i konvensjonen som endret ved denne protokollen;
+      3. datoen for protokollens ikrafttredelse;
+      4. ethvert forslag til endring av beløpsgrensene, som er blitt fremsatt i samsvar med artikkel 23 § 2 i denne protokollen;
+      5. enhver endring som er vedtatt i samsvar med artikkel 23 § 5;
+      6. enhver endring som anses å være godkjent etter artikkel 23 § 8 i denne protokollen, samt datoen for denne endringens ikrafttredelse i henhold til paragrafene 9 og 10 i den artikkelen;
+      7. deponeringen av ethvert dokument for oppsigelse av denne protokollen, samt datoen dokumentet er mottatt og datoen oppsigelsen får virkning; og
+      8. enhver underretning som kreves etter noen artikkel i denne protokollen; og
+   2. oversende bekreftede kopier av denne protokollen til alle statene som har signert eller tiltrådt protokollen.
 3. Så snart denne protokollen trer i kraft, skal Generalsekretæren sende en bekreftet kopi av den til sekretariatet i De Forente Nasjoner for registrering og offentliggjøring i samsvar med artikkel 102 i De Forente Nasjoners Pakt.
 
 ### Art 25. Språk

@@ -28,7 +28,51 @@ Politiattest som kreves framlagt med hjemmel i [sentralbankloven § 2-15](lov/20
 
 ## § 2. Politiattestens innhold
 
-Politiattesten skal vise om vedkommende er dømt eller bøtelagt for overtredelse avalmindelig borgerlig Straffelov [22. mai 1902 nr. 10](lov/1902-05-22-10)kapittel 8 Forbrydelser mod Statens Selvstændighed og Sikkerhed § 90, § 91 og § 91akapittel 9 Forbrydelser mod Norges Statsforfatning og Statsoverhoved § 104akapittel 11 Forbrydelser i den offentlige Tjeneste § 120, § 121 og § 122kapittel 12 Forbrydelser mod den offentlige Myndighed § 127, § 128, § 132 og § 132akapittel 13 Forbrydelser mod den almindelige Orden og Fred § 145, § 145a, § 145b og § 147kapittel 14 Almenfarlige Forbrydelser § 147a til § 150, § 151a, § 151b, § 153, § 161 og § 162ckapittel 15 Falsk Forklaring § 163, § 165 og § 166kapittel 16 Falsk Anklage § 168kapittel 17 Pengefalsk § 174 til § 178kapittel 18 Dokumentfalsk § 182 til § 185, § 189 og § 190kapittel 21 Forbrydelser mod den personlige Frihed § 222 til § 224 og § 227kapittel 22 Forbrydelser mod Liv, Legeme og Helbred § 228, § 229, § 231 til § 233a, § 239, § 242 og § 243kapittel 24 Underslag, Tjueri og ulovlig bruk § 255 til § 258kapittel 25 Udpresning og Ran § 266, § 267 og § 269kapittel 26 Bedrageri, utroskap og korrupsjon § 270 til § 272 og § 275 til § 276bkapittel 27 Forbrydelser i Gjeldsforhold m.m. § 281 til § 287kapittel 28 Skadeverk § 291 og § 292kapittel 31 Heleri og hvitvasking § 317kapittel 37 Forseelser mod den almindelige Tillid § 367 og § 369kapittel 40 Forseelser mod Formuesrettigheder § 391a og § 405a[lov 20. mai 2005 nr. 28](lov/2005-05-20-28) om straffkapittel 17 Vern av Norges selvstendighet og andre grunnleggende nasjonale interesser § 121 til § 126, § 128 og § 129kapittel 18 Terrorhandlinger og terrorrelaterte handlinger § 131 til § 136 og § 139kapittel 19 Vern av offentlig myndighet og tilliten til den § 155, § 157 til § 160 og § 173kapittel 20 Vern av den offentlige ro, orden og sikkerhet § 190 til § 192 og § 198kapittel 21 Vern av informasjon og informasjonsutveksling § 201, § 204, § 205 bokstav a til c, § 208 til § 210kapittel 22 Uriktig forklaring og anklage § 221 til § 223kapittel 23 Vern av folkehelsen og det ytre miljø § 239kapittel 24 Vern av den personlige frihet og fred § 251 til § 258, § 263 og § 264, § 268 første leddkapittel 25 Voldslovbrudd § 271 til § 275, § 279, § 281 og § 288kapittel 27 Vinningslovbrudd og lignende krenkelser av eiendomsretten § 321 til § 335 og § 337 til § 340kapittel 28 Skadeverk og fremkalling av fare for allmennheten § 351, § 352, § 355 og § 358kapittel 29 Vern av tilliten til penger og visse dokumenter § 361, § 362, § 365 og § 367 til § 369kapittel 30 Bedrageri, skattesvik og lignende økonomisk kriminalitet § 371 til § 376, § 387, § 388 og § 390 til § 394kapittel 31 Kreditorvern § 401 til § 410[lov 18. august 1914 nr. 3](lov/1914-08-18-3) om forsvarshemmeligheter [§ 3](lov/1914-08-18-3/§3), [§ 4](lov/1914-08-18-3/§4) og [§ 6](lov/1914-08-18-3/§6)[lov 9. juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. [§ 33](lov/1961-06-09-1/§33)[lov 21. desember 2007 nr. 119](lov/2007-12-21-119) om toll og vareførsel [§ 16-2](lov/2007-12-21-119/§16-2), [§ 16-3](lov/2007-12-21-119/§16-3) og [§ 16-4](lov/2007-12-21-119/§16-4)[lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. (legemiddelloven) [§ 31](lov/1992-12-04-132/§31)[lov 20. mars 1998 nr. 10](lov/1998-03-20-10) om forebyggende sikkerhetstjeneste (sikkerhetsloven) [§ 12](lov/1998-03-20-10/§12), jf. [§ 31](lov/1998-03-20-10/§31).
+Politiattesten skal vise om vedkommende er dømt eller bøtelagt for overtredelse av
+
+1. almindelig borgerlig Straffelov [22. mai 1902 nr. 10](lov/1902-05-22-10)
+
+   1. kapittel 8 Forbrydelser mod Statens Selvstændighed og Sikkerhed § 90, § 91 og § 91a
+   2. kapittel 9 Forbrydelser mod Norges Statsforfatning og Statsoverhoved § 104a
+   3. kapittel 11 Forbrydelser i den offentlige Tjeneste § 120, § 121 og § 122
+   4. kapittel 12 Forbrydelser mod den offentlige Myndighed § 127, § 128, § 132 og § 132a
+   5. kapittel 13 Forbrydelser mod den almindelige Orden og Fred § 145, § 145a, § 145b og § 147
+   6. kapittel 14 Almenfarlige Forbrydelser § 147a til § 150, § 151a, § 151b, § 153, § 161 og § 162c
+   7. kapittel 15 Falsk Forklaring § 163, § 165 og § 166
+   8. kapittel 16 Falsk Anklage § 168
+   9. kapittel 17 Pengefalsk § 174 til § 178
+   10. kapittel 18 Dokumentfalsk § 182 til § 185, § 189 og § 190
+   11. kapittel 21 Forbrydelser mod den personlige Frihed § 222 til § 224 og § 227
+   12. kapittel 22 Forbrydelser mod Liv, Legeme og Helbred § 228, § 229, § 231 til § 233a, § 239, § 242 og § 243
+   13. kapittel 24 Underslag, Tjueri og ulovlig bruk § 255 til § 258
+   14. kapittel 25 Udpresning og Ran § 266, § 267 og § 269
+   15. kapittel 26 Bedrageri, utroskap og korrupsjon § 270 til § 272 og § 275 til § 276b
+   16. kapittel 27 Forbrydelser i Gjeldsforhold m.m. § 281 til § 287
+   17. kapittel 28 Skadeverk § 291 og § 292
+   18. kapittel 31 Heleri og hvitvasking § 317
+   19. kapittel 37 Forseelser mod den almindelige Tillid § 367 og § 369
+   20. kapittel 40 Forseelser mod Formuesrettigheder § 391a og § 405a
+2. [lov 20. mai 2005 nr. 28](lov/2005-05-20-28) om straff
+
+   1. kapittel 17 Vern av Norges selvstendighet og andre grunnleggende nasjonale interesser § 121 til § 126, § 128 og § 129
+   2. kapittel 18 Terrorhandlinger og terrorrelaterte handlinger § 131 til § 136 og § 139
+   3. kapittel 19 Vern av offentlig myndighet og tilliten til den § 155, § 157 til § 160 og § 173
+   4. kapittel 20 Vern av den offentlige ro, orden og sikkerhet § 190 til § 192 og § 198
+   5. kapittel 21 Vern av informasjon og informasjonsutveksling § 201, § 204, § 205 bokstav a til c, § 208 til § 210
+   6. kapittel 22 Uriktig forklaring og anklage § 221 til § 223
+   7. kapittel 23 Vern av folkehelsen og det ytre miljø § 239
+   8. kapittel 24 Vern av den personlige frihet og fred § 251 til § 258, § 263 og § 264, § 268 første ledd
+   9. kapittel 25 Voldslovbrudd § 271 til § 275, § 279, § 281 og § 288
+   10. kapittel 27 Vinningslovbrudd og lignende krenkelser av eiendomsretten § 321 til § 335 og § 337 til § 340
+   11. kapittel 28 Skadeverk og fremkalling av fare for allmennheten § 351, § 352, § 355 og § 358
+   12. kapittel 29 Vern av tilliten til penger og visse dokumenter § 361, § 362, § 365 og § 367 til § 369
+   13. kapittel 30 Bedrageri, skattesvik og lignende økonomisk kriminalitet § 371 til § 376, § 387, § 388 og § 390 til § 394
+   14. kapittel 31 Kreditorvern § 401 til § 410
+3. [lov 18. august 1914 nr. 3](lov/1914-08-18-3) om forsvarshemmeligheter [§ 3](lov/1914-08-18-3/§3), [§ 4](lov/1914-08-18-3/§4) og [§ 6](lov/1914-08-18-3/§6)
+4. [lov 9. juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon m.v. [§ 33](lov/1961-06-09-1/§33)
+5. [lov 21. desember 2007 nr. 119](lov/2007-12-21-119) om toll og vareførsel [§ 16-2](lov/2007-12-21-119/§16-2), [§ 16-3](lov/2007-12-21-119/§16-3) og [§ 16-4](lov/2007-12-21-119/§16-4)
+6. [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. (legemiddelloven) [§ 31](lov/1992-12-04-132/§31)
+7. [lov 20. mars 1998 nr. 10](lov/1998-03-20-10) om forebyggende sikkerhetstjeneste (sikkerhetsloven) [§ 12](lov/1998-03-20-10/§12), jf. [§ 31](lov/1998-03-20-10/§31).
 
 ## § 3. Framgangsmåte
 
@@ -44,7 +88,14 @@ Politiattesten skal oppbevares utilgjengelig for uvedkommende og skal makuleres 
 
 Den som utfører arbeid eller tjeneste for Norges Bank og som får kjennskap til opplysninger gjennom en politiattest, plikter å hindre at uvedkommende får adgang til eller kjennskap til opplysningene. Overtredelse kan straffes etter [straffeloven § 209](lov/2005-05-20-28/§209).
 
-Det skal føres journal over hvem som har levert politiattest. Følgende opplysninger skal fremgå av journalen:navn,fødselsdato,dato for mottatt politiattest,resultatet av den sikkerhetsmessige vurderingen,dato for den sikkerhetsmessige beslutning og hvem som har truffet beslutningen, ogom årsaken til fremleggelse av politiattest er søknad om ansettelse i Norges Bank, fornyet attest, endret stilling eller arbeidsoppgaver i Norges Bank eller tjenesteforhold hos tjenesteleverandør til Norges Bank.
+Det skal føres journal over hvem som har levert politiattest. Følgende opplysninger skal fremgå av journalen:
+
+1. navn,
+2. fødselsdato,
+3. dato for mottatt politiattest,
+4. resultatet av den sikkerhetsmessige vurderingen,
+5. dato for den sikkerhetsmessige beslutning og hvem som har truffet beslutningen, og
+6. om årsaken til fremleggelse av politiattest er søknad om ansettelse i Norges Bank, fornyet attest, endret stilling eller arbeidsoppgaver i Norges Bank eller tjenesteforhold hos tjenesteleverandør til Norges Bank.
 
 Journalen skal for øvrig ikke inneholde sensitive opplysninger.
 

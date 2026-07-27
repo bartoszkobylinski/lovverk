@@ -32,11 +32,24 @@ Førerkort kreves ikke for visse typer kjøring, jf. [kap. 12](forskrift/2004-01
 
 ### § 1-2. Anerkjennelse av utenlandske førerkort
 
-Førerkort utstedt i EØS anerkjennes, både ved midlertidig opphold og ved fast bosetting. Førerkort utstedt i annen EØS-stat gir ikke førerett i Norge dersom førerkortet er utstedt i strid med kravene i direktiv [2006/126/EF](eu/32006l0126) eller ikke omfattes av beslutning (EU) [2016/1945](eu/32016d1945) og dette utledes av:informasjon på førerkortet, ellerubestridelig informasjon fra utstederstaten.
+Førerkort utstedt i EØS anerkjennes, både ved midlertidig opphold og ved fast bosetting. Førerkort utstedt i annen EØS-stat gir ikke førerett i Norge dersom førerkortet er utstedt i strid med kravene i direktiv [2006/126/EF](eu/32006l0126) eller ikke omfattes av beslutning (EU) [2016/1945](eu/32016d1945) og dette utledes av:
+
+1. informasjon på førerkortet, eller
+2. ubestridelig informasjon fra utstederstaten.
 
 Førerkortklasser som tidligere er ervervet i tråd med direktivet, påvirkes ikke av senere utstedelser av førerkort i strid med direktivet.
 
-Førerkort utstedt i eller utenfor EØS-området gir ikke førerett i Norge dersom:førerkortet er ugyldig i utstederstaten, herunder at førerkortet er utløptføreretten i henhold til førerkortet er tapt eller tilbakekalt i utlandetførerkortet er inndratt eller beslaglagt i utlandetførerkortet tidligere er innbyttet i norsk førerkortføreretten i henhold til førerkortet er tapt eller tilbakekalt i Norgeførerkortet er inndratt eller beslaglagt i Norgeføreretten i henhold til norsk førerkort er tapt eller tilbakekalt i Norgenorsk førerkort er inndratt eller beslaglagt i Norge, ellerdet foreligger sperrefrist i Norge for tilsvarende klasse(r).
+Førerkort utstedt i eller utenfor EØS-området gir ikke førerett i Norge dersom:
+
+1. førerkortet er ugyldig i utstederstaten, herunder at førerkortet er utløpt
+2. føreretten i henhold til førerkortet er tapt eller tilbakekalt i utlandet
+3. førerkortet er inndratt eller beslaglagt i utlandet
+4. førerkortet tidligere er innbyttet i norsk førerkort
+5. føreretten i henhold til førerkortet er tapt eller tilbakekalt i Norge
+6. førerkortet er inndratt eller beslaglagt i Norge
+7. føreretten i henhold til norsk førerkort er tapt eller tilbakekalt i Norge
+8. norsk førerkort er inndratt eller beslaglagt i Norge, eller
+9. det foreligger sperrefrist i Norge for tilsvarende klasse(r).
 
 Internasjonalt førerkort anerkjennes ved midlertidig opphold sammen med nasjonalt førerkort, jf. [§ 8-2](forskrift/2004-01-19-298/§8-2).
 
@@ -84,7 +97,14 @@ Statens vegvesen har vedtaksmyndighet som førsteinstans etter denne forskrift, 
 
 ### § 1-8. Forskriftens vedlegg
 
-Som vedlegg til denne forskrift er fastsatt følgende vedlegg, som er en del av denne forskrift:HelsekravFørerkortblankettenFørerkortmodellFørerkortkoderOvergangsregler – førerkort utstedt i henhold til førerkortforskriften 28. mars 1967Overgangsregler – førerkort utstedt i henhold til denne forskriften og førerkortforskriften [23. februar 1979 nr. 4](forskrift/1979-02-23-4).
+Som vedlegg til denne forskrift er fastsatt følgende vedlegg, som er en del av denne forskrift:
+
+1. Helsekrav
+2. Førerkortblanketten
+3. Førerkortmodell
+4. Førerkortkoder
+5. Overgangsregler – førerkort utstedt i henhold til førerkortforskriften 28. mars 1967
+6. Overgangsregler – førerkort utstedt i henhold til denne forskriften og førerkortforskriften [23. februar 1979 nr. 4](forskrift/1979-02-23-4).
 
 > Endret ved [forskrifter 12 mai 2004 nr. 740](forskrift/2004-05-12-740), [21 juni 2012 nr. 632](forskrift/2012-06-21-632) (i kraft 1 juli 2012).
 
@@ -118,13 +138,26 @@ Med mindre annet fremgår av denne forskrift, gjelder definisjonene i traktorfor
 
 Med mindre annet fremgår av denne forskrift, skal den kjøretøykategori som fremgår av vognkortet legges til grunn.
 
-For øvrig gjelder følgende definisjoner for internasjonale førerkortklasser fastsatt i henhold til tredje førerkortdirektiv (direktiv [2006/126/EF](eu/32006l0126)):*Motorvogn:* Ethvert motordrevet kjøretøy som normalt brukes til transport av personer eller gods på veg eller til å trekke kjøretøy som brukes til transport av personer eller gods på veg. Definisjonen omfatter også trolleybuss, men ikke traktor og motorredskap med konstruktiv hastighet ikke over 40 km/t.*Motorsykkel:* Motorvogn registrert som motorsykkel i henhold til motorsykkelforskriften eller tidligere forskrifter om kjøretøy. Motorsykkel er motorvogn med to hjul med eller uten sidevogn.*Trehjuls motorsykkel (motor tricycle)*: motorvogn med tre symmetrisk plasserte hjul, slagvolum over 50 cm3 og konstruktiv hastighet over 45 km/t.*Mellomtung motorsykkel:* Motorsykkel som har en effekt på høyst 35 kW og et forhold mellom effekt og egenvekt på høyst 0,2 kW/kg. Etter nedtrimming kan motorsykkelens tidligere effekt ha vært høyst det dobbelte av nåværende effekt.*Lett motorsykkel:* Motorsykkel som har et slagvolum på høyst 125 cm3, en effekt på høyst 11 kW og et forhold mellom effekt og egenvekt på høyst 0,1 kW/kg.*Moped:* Motorvogn som er registrert som moped i henhold til motorsykkelforskriften eller tidligere forskrifter om kjøretøy.*Tilhenger:* Kjøretøy som definert i bilforskriften, traktorforskriften eller tidligere forskrifter om kjøretøy. I forhold til førerett beskrevet i [kap. 3](forskrift/2004-01-19-298/kap3), regnes tilhengerredskap også som tilhenger.*Kjøretøy med manuelt gir:* Kjøretøy med koplingspedal (eller koplingshendel som betjenes manuelt for klasse A1, A2 eller A) som må betjenes av fører ved start, stopp og girskifte.*Kjøretøy med automatgir:* Kjøretøy som ikke oppfyller kriteriene i nr. 8 ovenfor.
+For øvrig gjelder følgende definisjoner for internasjonale førerkortklasser fastsatt i henhold til tredje førerkortdirektiv (direktiv [2006/126/EF](eu/32006l0126)):
+
+1. *Motorvogn:* Ethvert motordrevet kjøretøy som normalt brukes til transport av personer eller gods på veg eller til å trekke kjøretøy som brukes til transport av personer eller gods på veg. Definisjonen omfatter også trolleybuss, men ikke traktor og motorredskap med konstruktiv hastighet ikke over 40 km/t.
+2. *Motorsykkel:* Motorvogn registrert som motorsykkel i henhold til motorsykkelforskriften eller tidligere forskrifter om kjøretøy. Motorsykkel er motorvogn med to hjul med eller uten sidevogn.
+3. *Trehjuls motorsykkel (motor tricycle)*: motorvogn med tre symmetrisk plasserte hjul, slagvolum over 50 cm3 og konstruktiv hastighet over 45 km/t.
+4. *Mellomtung motorsykkel:* Motorsykkel som har en effekt på høyst 35 kW og et forhold mellom effekt og egenvekt på høyst 0,2 kW/kg. Etter nedtrimming kan motorsykkelens tidligere effekt ha vært høyst det dobbelte av nåværende effekt.
+5. *Lett motorsykkel:* Motorsykkel som har et slagvolum på høyst 125 cm3, en effekt på høyst 11 kW og et forhold mellom effekt og egenvekt på høyst 0,1 kW/kg.
+6. *Moped:* Motorvogn som er registrert som moped i henhold til motorsykkelforskriften eller tidligere forskrifter om kjøretøy.
+7. *Tilhenger:* Kjøretøy som definert i bilforskriften, traktorforskriften eller tidligere forskrifter om kjøretøy. I forhold til førerett beskrevet i [kap. 3](forskrift/2004-01-19-298/kap3), regnes tilhengerredskap også som tilhenger.
+8. *Kjøretøy med manuelt gir:* Kjøretøy med koplingspedal (eller koplingshendel som betjenes manuelt for klasse A1, A2 eller A) som må betjenes av fører ved start, stopp og girskifte.
+9. *Kjøretøy med automatgir:* Kjøretøy som ikke oppfyller kriteriene i nr. 8 ovenfor.
 
 > Endret ved [forskrifter 9 mars 2009 nr. 270](forskrift/2009-03-09-270), [16 juni 2010 nr. 894](forskrift/2010-06-16-894) (i kraft 1 juli 2010), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013), [20 des 2013 nr. 1666](forskrift/2013-12-20-1666) (i kraft 31 des 2013), [19 des 2014 nr. 1824](forskrift/2014-12-19-1824) (i kraft 1 jan 2015), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020).
 
 ### § 2-3. Definisjon av fast bopel
 
-*Fast bopel:* Med fast bopel menes det sted hvor en person vanligvis bor, det vil si minst 185 dager hvert kalenderår:på grunn av personlig og ervervsmessig tilknytning, ellerdersom vedkommende ikke har noen ervervsmessig tilknytning, på grunn av personlig tilknytning som viser nære forbindelser mellom personen og stedet vedkommende bor.
+*Fast bopel:* Med fast bopel menes det sted hvor en person vanligvis bor, det vil si minst 185 dager hvert kalenderår:
+
+1. på grunn av personlig og ervervsmessig tilknytning, eller
+2. dersom vedkommende ikke har noen ervervsmessig tilknytning, på grunn av personlig tilknytning som viser nære forbindelser mellom personen og stedet vedkommende bor.
 
 Dersom en person har personlig tilknytning til en annen stat enn der vedkommende har ervervsmessig tilknytning, og derfor vekselvis oppholder seg i to eller flere stater, skal fast bopel anses å være det sted hvor personen har sin personlige tilknytning, forutsatt at vedkommende regelmessig returnerer dit. Kravet om regelmessig retur gjelder ikke dersom personen oppholder seg i en annen stat for å utføre en tidsbegrenset oppgave. Studier ved universitet eller skole medfører ingen endring av fast bopel for personer med fast bopel i en annen EØS-stat.
 
@@ -140,7 +173,23 @@ Fast bopel regnes normalt fra det tidspunkt personen får, eller skulle ha fått
 
 ### § 3-1. Førerkortklasser – oversikt, minstealder
 
-Førerett kan i Norge erverves i følgende internasjonale klasser og med følgende krav om minstealder m.m.:Klasse AM – moped – 16 årKlasse A – Motorsykkel, direkte erverv – 24 årKlasse A – motorsykkel, etappevis erverv – 20 år forutsatt minst 2 års kjøreerfaring med klasse A2, ellers kreves det minst 2 års kjøreerfaring med klasse A2 før fylte 24 år. Minstealderen er likevel 21 år for trehjuls motorsykkel med en effekt på over 15 kWKlasse A2 – mellomtung motorsykkel – 18 årKlasse A1 – lett motorsykkel – 16 årKlasse B – personbil, varebil – 18 årKlasse C – lastebil – 21 årKlasse C1 – lett lastebil – 18 årKlasse D – buss – 24 årKlasse D1 – minibuss – 21 årKlasse BE – tilhenger til klasse B – 18 årKlasse CE – tilhenger til klasse C – 21 årKlasse C1E – tilhenger til klasse C1 – 18 årKlasse DE – tilhenger til klasse D – 24 årKlasse D1E – tilhenger til klasse D1 -21 år.
+Førerett kan i Norge erverves i følgende internasjonale klasser og med følgende krav om minstealder m.m.:
+
+1. Klasse AM – moped – 16 år
+2. Klasse A – Motorsykkel, direkte erverv – 24 år
+3. Klasse A – motorsykkel, etappevis erverv – 20 år forutsatt minst 2 års kjøreerfaring med klasse A2, ellers kreves det minst 2 års kjøreerfaring med klasse A2 før fylte 24 år. Minstealderen er likevel 21 år for trehjuls motorsykkel med en effekt på over 15 kW
+4. Klasse A2 – mellomtung motorsykkel – 18 år
+5. Klasse A1 – lett motorsykkel – 16 år
+6. Klasse B – personbil, varebil – 18 år
+7. Klasse C – lastebil – 21 år
+8. Klasse C1 – lett lastebil – 18 år
+9. Klasse D – buss – 24 år
+10. Klasse D1 – minibuss – 21 år
+11. Klasse BE – tilhenger til klasse B – 18 år
+12. Klasse CE – tilhenger til klasse C – 21 år
+13. Klasse C1E – tilhenger til klasse C1 – 18 år
+14. Klasse DE – tilhenger til klasse D – 24 år
+15. Klasse D1E – tilhenger til klasse D1 -21 år.
 
 Unntak fra alderskravene nevnt i første ledd følger av [kapittel 12](forskrift/2004-01-19-298/kap12).
 
@@ -148,7 +197,14 @@ Førerett i klasse AM kan for kjøring i Norge være begrenset ved påføring av
 
 Førerett i klasse B1 (firehjuls motorsykkel) kan utstedes ved innbytte, fornyelse eller duplikat av tilsvarende førerkortklasse utstedt i annen EØS-stat. Minstealderen er 18 år.
 
-Førerett i Norge kan erverves i følgende nasjonale klasser og med følgende krav om minstealder:Klasse S – beltemotorsykkel – 16 år, men 18 år hvis beltemotorsykkelen har et forhold mellom effekt og egenvekt på over 0,35 kW/kg.Klasse T – traktor, begrenset totalvekt – 16 år når traktor med eller uten tilhenger har samlet tillatt totalvekt på høyst 25 000 kgKlasse T – traktor, ubegrenset totalvekt – 21 år eller 2 års kjøreerfaring i klasse TKlasse T – kode 141, traktor og motorredskap, med konstruktiv hastighet 41–50 km/t, med eller uten tilhenger, begrenset totalvekt – 18 årKlasse T – kode 141, traktor og motorredskap, med konstruktiv hastighet 41–50 km/t, med eller uten tilhenger, ubegrenset totalvekt – 21 år eller 2 års kjøreerfaring i klasse TKlasse T – kode 148, traktor og motorredskap, med konstruktiv hastighet 41–50 km/t, med eller uten tilhenger, med samlet maksimal tillatt totalvekt ikke over 25 000 kg – 18 år.
+Førerett i Norge kan erverves i følgende nasjonale klasser og med følgende krav om minstealder:
+
+1. Klasse S – beltemotorsykkel – 16 år, men 18 år hvis beltemotorsykkelen har et forhold mellom effekt og egenvekt på over 0,35 kW/kg.
+2. Klasse T – traktor, begrenset totalvekt – 16 år når traktor med eller uten tilhenger har samlet tillatt totalvekt på høyst 25 000 kg
+3. Klasse T – traktor, ubegrenset totalvekt – 21 år eller 2 års kjøreerfaring i klasse T
+4. Klasse T – kode 141, traktor og motorredskap, med konstruktiv hastighet 41–50 km/t, med eller uten tilhenger, begrenset totalvekt – 18 år
+5. Klasse T – kode 141, traktor og motorredskap, med konstruktiv hastighet 41–50 km/t, med eller uten tilhenger, ubegrenset totalvekt – 21 år eller 2 års kjøreerfaring i klasse T
+6. Klasse T – kode 148, traktor og motorredskap, med konstruktiv hastighet 41–50 km/t, med eller uten tilhenger, med samlet maksimal tillatt totalvekt ikke over 25 000 kg – 18 år.
 
 Nasjonale førerettigheter er gyldige for kjøring i utlandet i den grad disse aksepteres av vedkommende myndigheter.
 
@@ -156,7 +212,11 @@ Nasjonale førerettigheter er gyldige for kjøring i utlandet i den grad disse a
 
 ### § 3-2. Førerett i klasse A
 
-Førerett i klasse A gjelder for:Motorsykkel med eller uten sidevognTrehjuls motorsykkel med en effekt på over 15 kWMoped.
+Førerett i klasse A gjelder for:
+
+1. Motorsykkel med eller uten sidevogn
+2. Trehjuls motorsykkel med en effekt på over 15 kW
+3. Moped.
 
 I Norge omfatter føreretten også føring av tilhenger til motorsykkel med slagvolum over 125 cm3. Motorsykkelen må være godkjent for å trekke tilhenger og tillatt tilhengervekt må være påført vognkortet.
 
@@ -164,7 +224,11 @@ I Norge omfatter føreretten også føring av tilhenger til motorsykkel med slag
 
 ### § 3-3. Førerett i klasse A2
 
-Førerett i klasse A2 gjelder for:Motorsykkel med eller uten sidevogn hvor motorsykkelen har en effekt på høyst 35 kW og et forhold mellom effekt og egenvekt på høyst 0,2 kW/kg. Etter nedtrimming kan motorsykkelens tidligere effekt ha vært høyst det dobbelte av nåværende effektTrehjuls motorsykkel med en effekt på høyst 15 kWMoped.
+Førerett i klasse A2 gjelder for:
+
+1. Motorsykkel med eller uten sidevogn hvor motorsykkelen har en effekt på høyst 35 kW og et forhold mellom effekt og egenvekt på høyst 0,2 kW/kg. Etter nedtrimming kan motorsykkelens tidligere effekt ha vært høyst det dobbelte av nåværende effekt
+2. Trehjuls motorsykkel med en effekt på høyst 15 kW
+3. Moped.
 
 I Norge omfatter føreretten også føring av tilhenger til motorsykkel med slagvolum over 125 cm3. Motorsykkelen må være godkjent for å trekke tilhenger og tillatt tilhengervekt må være påført vognkortet.
 
@@ -172,15 +236,36 @@ I Norge omfatter føreretten også føring av tilhenger til motorsykkel med slag
 
 ### § 3-4. Førerett i klasse A1
 
-Førerett i klasse A1 gjelder for:Lett motorsykkel med eller uten sidevogn hvor motorsykkelen har et slagvolum på høyst 125 cm3, en effekt på høyst 11 kW og et forhold mellom effekt og egenvekt på høyst 0,1 kW/kgTrehjuls motorsykkel med en effekt på høyst 15 kWKlasse AM. For tre- og firehjuls moped med egenvekt over 150 kg (minus batterienes vekt ved eldrift), må fører være fylt 18 år.
+Førerett i klasse A1 gjelder for:
+
+1. Lett motorsykkel med eller uten sidevogn hvor motorsykkelen har et slagvolum på høyst 125 cm3, en effekt på høyst 11 kW og et forhold mellom effekt og egenvekt på høyst 0,1 kW/kg
+2. Trehjuls motorsykkel med en effekt på høyst 15 kW
+3. Klasse AM. For tre- og firehjuls moped med egenvekt over 150 kg (minus batterienes vekt ved eldrift), må fører være fylt 18 år.
 
 > Endret ved [forskrifter 12 mai 2004 nr. 740](forskrift/2004-05-12-740), [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013), [20 des 2013 nr. 1666](forskrift/2013-12-20-1666) (i kraft 31 des 2013), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019).
 
 ### § 3-5. Førerett i klasse B
 
-Førerett i klasse B gjelder for:Motorvogn (unntatt motorsykkel og moped) med en tillatt totalvekt på høyst 3 500 kg og godkjent for transport av høyst 8 passasjerer i tillegg til fører.Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt på høyst 750 kg.Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt over 750 kg forutsatt at samlet tillatt totalvekt for vogntoget ikke overstiger 3 500 kg.Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt over 750 kg forutsatt at samlet tillatt totalvekt for vogntoget ikke overstiger 4 250 kg og vedkommende har fellesskapskode 96 påført førerkortet.Firehjuls motorsykkel.Moped.
+Førerett i klasse B gjelder for:
 
-I Norge omfatter føreretten også føring av:Traktor og motorredskap hvor kjøretøyenes tillatte totalvekt er høyst 3 500 kg, eventuelt med tilhenger når kjøretøyenes konstruktive hastighet er høyst 40 km/t.Beltebil med eller uten tilhengerslede.Tilhenger til firehjuls motorsykkel med slagvolum over 125 cm3 når tillatt totalvekt for tilhengeren er høyst 750 kg. Trekkvognen må være godkjent for å trekke tilhenger og tillatt tilhengervekt må være påført vognkortet.Innehaver av EØS-førerkort for klasse B utstedt for minst to år siden kan føre motorvogn som:har tillatt totalvekt over 3 500 kg, men ikke over 4 250 kg der vekten som overstiger 3 500 kg utelukkende skyldes den ekstra vekten som følger av fremdriftssystemet, sammenlignet med fremdriftssystemet i en motorvogn av samme dimensjoner, som er utstyrt med forbrenningsmotor med elektrisk tenning eller kompresjonstenning, og at lastekapasiteten ikke har økter registrert i gruppe N 2, som definert i [bilforskriften § 1-5](forskrift/2022-06-28-1233/§1-5) eller tidligere forskrifter om kjøretøy.bruker alternative drivstoff, som definert i [forskrift 25. januar 1990 nr. 92](forskrift/1990-01-25-92) om bruk av kjøretøy [§ 5-2](forskrift/1990-01-25-92/§5-2) bokstav k, oger registrert i Norge og vilkårene er dokumentert med merknad i vognkortet eller er registrert i annen EØS-stat og dokumentasjonen på vilkårene knyttet til motorvognen foreligger på norsk, svensk, dansk eller engelsk og medbringes under kjøring.
+1. Motorvogn (unntatt motorsykkel og moped) med en tillatt totalvekt på høyst 3 500 kg og godkjent for transport av høyst 8 passasjerer i tillegg til fører.
+2. Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt på høyst 750 kg.
+3. Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt over 750 kg forutsatt at samlet tillatt totalvekt for vogntoget ikke overstiger 3 500 kg.
+4. Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt over 750 kg forutsatt at samlet tillatt totalvekt for vogntoget ikke overstiger 4 250 kg og vedkommende har fellesskapskode 96 påført førerkortet.
+5. Firehjuls motorsykkel.
+6. Moped.
+
+I Norge omfatter føreretten også føring av:
+
+1. Traktor og motorredskap hvor kjøretøyenes tillatte totalvekt er høyst 3 500 kg, eventuelt med tilhenger når kjøretøyenes konstruktive hastighet er høyst 40 km/t.
+2. Beltebil med eller uten tilhengerslede.
+3. Tilhenger til firehjuls motorsykkel med slagvolum over 125 cm3 når tillatt totalvekt for tilhengeren er høyst 750 kg. Trekkvognen må være godkjent for å trekke tilhenger og tillatt tilhengervekt må være påført vognkortet.
+4. Innehaver av EØS-førerkort for klasse B utstedt for minst to år siden kan føre motorvogn som:
+
+   1. har tillatt totalvekt over 3 500 kg, men ikke over 4 250 kg der vekten som overstiger 3 500 kg utelukkende skyldes den ekstra vekten som følger av fremdriftssystemet, sammenlignet med fremdriftssystemet i en motorvogn av samme dimensjoner, som er utstyrt med forbrenningsmotor med elektrisk tenning eller kompresjonstenning, og at lastekapasiteten ikke har økt
+   2. er registrert i gruppe N 2, som definert i [bilforskriften § 1-5](forskrift/2022-06-28-1233/§1-5) eller tidligere forskrifter om kjøretøy.
+   3. bruker alternative drivstoff, som definert i [forskrift 25. januar 1990 nr. 92](forskrift/1990-01-25-92) om bruk av kjøretøy [§ 5-2](forskrift/1990-01-25-92/§5-2) bokstav k, og
+   4. er registrert i Norge og vilkårene er dokumentert med merknad i vognkortet eller er registrert i annen EØS-stat og dokumentasjonen på vilkårene knyttet til motorvognen foreligger på norsk, svensk, dansk eller engelsk og medbringes under kjøring.
 
 > Endret ved [forskrifter 12 mai 2004 nr. 740](forskrift/2004-05-12-740), [5 nov 2004 nr. 1448](forskrift/2004-11-05-1448) (i kraft 1 jan 2005), [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [5 nov 2007 nr. 1210](forskrift/2007-11-05-1210), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013), [1 mars 2013 nr. 240](forskrift/2013-03-01-240), [27 mars 2019 nr. 363](forskrift/2019-03-27-363) (i kraft 1 april 2019), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [22 sep 2025 nr. 1899](forskrift/2025-09-22-1899) (i kraft 1 okt 2025).
 
@@ -194,25 +279,38 @@ I Norge omfatter føreretten også føring av eventuell tilhenger til firehjuls 
 
 ### § 3-7. Førerett i klasse C
 
-Førerett i klasse C gjelder for førerett i klasse B og for:Motorvogn med tillatt totalvekt over 3 500 kg og som er godkjent for transport av høyst 8 passasjerer i tillegg til fører.Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt på høyst 750 kg. I Norge omfatter føreretten også føring av traktor og motorredskap generelt, eventuelt med tilhenger når kjøretøyenes konstruktive hastighet er høyst 40 km/t.
+Førerett i klasse C gjelder for førerett i klasse B og for:
+
+1. Motorvogn med tillatt totalvekt over 3 500 kg og som er godkjent for transport av høyst 8 passasjerer i tillegg til fører.
+2. Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt på høyst 750 kg. I Norge omfatter føreretten også føring av traktor og motorredskap generelt, eventuelt med tilhenger når kjøretøyenes konstruktive hastighet er høyst 40 km/t.
 
 > Endret ved [forskrifter 12 mai 2004 nr. 740](forskrift/2004-05-12-740), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013).
 
 ### § 3-8. Førerett i klasse C1
 
-Førerett i klasse C1 gjelder for førerett i klasse B og for:Motorvogn med tillatt totalvekt over 3 500 kg, men høyst 7 500 kg, og som er godkjent for transport av høyst 8 passasjerer i tillegg til fører.Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt på høyst 750 kg. I Norge omfatter føreretten også føring av traktor og motorredskap hvor kjøretøyenes tillatte totalvekt er over 3 500 kg, men høyst 7 500 kg, eventuelt med tilhenger når kjøretøyenes konstruktive hastighet er høyst 40 km/t.
+Førerett i klasse C1 gjelder for førerett i klasse B og for:
+
+1. Motorvogn med tillatt totalvekt over 3 500 kg, men høyst 7 500 kg, og som er godkjent for transport av høyst 8 passasjerer i tillegg til fører.
+2. Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt på høyst 750 kg. I Norge omfatter føreretten også føring av traktor og motorredskap hvor kjøretøyenes tillatte totalvekt er over 3 500 kg, men høyst 7 500 kg, eventuelt med tilhenger når kjøretøyenes konstruktive hastighet er høyst 40 km/t.
 
 > Endret ved [forskrifter 12 mai 2004 nr. 740](forskrift/2004-05-12-740), [5 nov 2004 nr. 1448](forskrift/2004-11-05-1448) (i kraft 1 jan 2005), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013).
 
 ### § 3-9. Førerett i klasse D
 
-Førerett i klasse D gjelder for førerett i klasse B og for:Motorvogn godkjent for transport av flere enn 8 passasjerer i tillegg til fører.Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt på høyst 750 kg.Leddbuss.
+Førerett i klasse D gjelder for førerett i klasse B og for:
+
+1. Motorvogn godkjent for transport av flere enn 8 passasjerer i tillegg til fører.
+2. Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt på høyst 750 kg.
+3. Leddbuss.
 
 > Endret ved [forskrifter 12 mai 2004 nr. 740](forskrift/2004-05-12-740), [5 nov 2004 nr. 1448](forskrift/2004-11-05-1448) (i kraft 1 jan 2005), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013).
 
 ### § 3-10. Førerett i klasse D1
 
-Førerett i klasse D1 gjelder for førerett i klasse B og for:Motorvogn godkjent for transport av flere enn 8, men høyst 16 passasjerer i tillegg til fører. Motorvognens lengde må ikke overskride 8 m.Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt på høyst 750 kg.
+Førerett i klasse D1 gjelder for førerett i klasse B og for:
+
+1. Motorvogn godkjent for transport av flere enn 8, men høyst 16 passasjerer i tillegg til fører. Motorvognens lengde må ikke overskride 8 m.
+2. Vogntog bestående av motorvogn som omfattes av nr. 1 og tilhenger med tillatt totalvekt på høyst 750 kg.
 
 > Endret ved [forskrifter 12 mai 2004 nr. 740](forskrift/2004-05-12-740), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013).
 
@@ -268,7 +366,11 @@ Førerett i klasse S gjelder for kjøring i Norge med beltemotorsykkel med eller
 
 ### § 3-18. Førerett i klasse T
 
-Førerett i klasse T gjelder for kjøring i Norge for:Traktor og motorredskap, med konstruktiv hastighet ikke over 40 km/t, med eller uten tilhenger. Frem til førerkortinnehaveren har to års erfaring eller fyller 21 år er føreretten begrenset til traktor og motorredskap, med eller uten tilhenger, med samlet tillatt totalvekt ikke over 25.000 kg. Vekt begrensningen gjelder ikke når førerett klasse T erverves etter fylte 21 år.Tre- og firehjuls moped. Dersom mopedens egenvekt er over 150 kg (minus batterienes vekt ved eldrift), må fører være fylt 18 år, eller ha gjennomført sikkerhetskurs på veg for klasse AM 147. Den samme begrensningen gjelder for personer som har fått AM 147 i kraft av klasse T før 30. august 2019.Motorredskap som ikke er innrettet for transport av personer eller gods og som ikke kan kjøres fortere enn 30 km/t, med eller uten tilhenger.
+Førerett i klasse T gjelder for kjøring i Norge for:
+
+1. Traktor og motorredskap, med konstruktiv hastighet ikke over 40 km/t, med eller uten tilhenger. Frem til førerkortinnehaveren har to års erfaring eller fyller 21 år er føreretten begrenset til traktor og motorredskap, med eller uten tilhenger, med samlet tillatt totalvekt ikke over 25.000 kg. Vekt begrensningen gjelder ikke når førerett klasse T erverves etter fylte 21 år.
+2. Tre- og firehjuls moped. Dersom mopedens egenvekt er over 150 kg (minus batterienes vekt ved eldrift), må fører være fylt 18 år, eller ha gjennomført sikkerhetskurs på veg for klasse AM 147. Den samme begrensningen gjelder for personer som har fått AM 147 i kraft av klasse T før 30. august 2019.
+3. Motorredskap som ikke er innrettet for transport av personer eller gods og som ikke kan kjøres fortere enn 30 km/t, med eller uten tilhenger.
 
 Førerett i klasse T kode 141 gjelder for kjøring i Norge med traktor og motorredskap, med konstruktiv hastighet 41–50 km/t med eller uten tilhenger. Frem til førerkortinnehaveren har to års erfaring eller fyller 21 år, er føreretten begrenset til traktor og motorredskap, med eller uten tilhenger, med samlet maksimal tillatt totalvekt ikke over 25 000 kg. Dette gjelder for personer som har tatt tilleggsopplæring etter erverv av klasse T.
 
@@ -302,7 +404,12 @@ Den som taper føreretten i prøveperioden som følge av brudd på trafikale adf
 
 Føreretten kan begrenses etter andre og tredje ledd for personer som ikke oppfyller helsekravene. En dispensasjon fra helsekravene etter vedlegg 1 gir ingen automatisk rett til å få utstedt førerkort. Førerkortet gis påtegning om begrensing jf. vedlegg 4 (førerkortkoder), men helsemessige forhold påføres ikke. Føreretten kan etter legens vurdering tidsbegrenses for personer som oppfyller helsekravene på attesttidspunktet for å sikre forsvarlig medisinsk oppfølging.
 
-Føreretten kan når særlige helsemessige forhold hos søkeren gjør det nødvendig, begrenses til å gjelde:kjøring med motorvogn av bestemt gruppe eller type, eventuelt med nærmere angitt utstyrbestemt(e) kjennemerke(r)kortere gyldighetstid enn det normale elleren kombinasjon av disse.
+Føreretten kan når særlige helsemessige forhold hos søkeren gjør det nødvendig, begrenses til å gjelde:
+
+1. kjøring med motorvogn av bestemt gruppe eller type, eventuelt med nærmere angitt utstyr
+2. bestemt(e) kjennemerke(r)
+3. kortere gyldighetstid enn det normale eller
+4. en kombinasjon av disse.
 
 Førerett med geografisk begrensning kan gis av Statens vegvesen.
 
@@ -374,7 +481,10 @@ Førerett i klasse C1E gir samtidig førerett i klasse D1E dersom vedkommende al
 
 Førerett i klassene AM, S, T, A1 eller B1 kan utvides til klassene AM, S, T, A1, A2, A eller B/BE. Førerett med begrensning kan utvides til førerett uten begrensning. Førerett i klasse T eller klasse T kode 144 kan etter gjennomført tilleggsopplæring utvides til klasse T kode 141 eller klasse T kode 148.
 
-Utvidelse av føreretten kan ellers skje på følgende vilkår:Førerkort i klassene C1, C, D1 eller D kan bare utstedes til personer som har bestått førerprøve, eller har eller har hatt førerett, i klasse B (eller tilsvarende).Førerkort i klassene BE, C1E, CE, D1E eller DE kan bare utstedes til personer som har bestått førerprøve, eller har hatt førerett som egen klasse i førerkortet, i henholdsvis klassene B (eller tilsvarende), C1, C, D1 eller D.
+Utvidelse av føreretten kan ellers skje på følgende vilkår:
+
+1. Førerkort i klassene C1, C, D1 eller D kan bare utstedes til personer som har bestått førerprøve, eller har eller har hatt førerett, i klasse B (eller tilsvarende).
+2. Førerkort i klassene BE, C1E, CE, D1E eller DE kan bare utstedes til personer som har bestått førerprøve, eller har hatt førerett som egen klasse i førerkortet, i henholdsvis klassene B (eller tilsvarende), C1, C, D1 eller D.
 
 Hvilke prøver som kreves, eventuelt hvilken obligatorisk opplæring som kreves, fremgår av trafikkopplæringsforskriften.
 
@@ -418,9 +528,17 @@ Midlertidig kjøretillatelse skal tidsbegrenses og ikke gis gyldighet ut over 3 
 
 Kjøretillatelsen må medbringes under kjøring og den må suppleres med akseptabel legitimasjon med bilde av innehaveren. Tillatelsen gjelder for kjøring i Norge, Sverige, Danmark og Finland.
 
-Midlertidig kjøretillatelse kan utstedes i følgende tilfeller:Når førerkortet er mistet eller blitt stjålet og det er nødvendig for søkeren å føre motorvogn. Melding om tapet eller tyveriet gis på fastsatt skjema.Når førerkortet er på et sted hvor det ikke med rimelighet kan forlanges hentet straks.Når andre helt særegne forhold foreligger.
+Midlertidig kjøretillatelse kan utstedes i følgende tilfeller:
 
-I spesielle tilfeller, når det ikke finnes betenkelig, kan midlertidig kjøretillatelse, som nevnt over, også utstedes til innehaver av utenlandsk førerkort. Det forutsettes at førerkortet anerkjennes etter [kap. 8](forskrift/2004-01-19-298/kap8). Midlertidig kjøretillatelse kan i tillegg, på samme vilkår, utstedes til innehaver av utenlandsk førerkort i følgende tilfeller:Hvis et utenlandsk førerkort utløper under oppholdstiden, dersom det vil medføre uforholdsmessig ulempe for vedkommende å ordne førerkortfornyelse i utlandet.Hvis et utenlandsk førerkort er blitt skadet eller av andre grunner er blitt uegnet som legitimasjon.Etter bestått praktisk prøve for person med førerkort som ikke anerkjennes etter [kap. 8](forskrift/2004-01-19-298/kap8).
+1. Når førerkortet er mistet eller blitt stjålet og det er nødvendig for søkeren å føre motorvogn. Melding om tapet eller tyveriet gis på fastsatt skjema.
+2. Når førerkortet er på et sted hvor det ikke med rimelighet kan forlanges hentet straks.
+3. Når andre helt særegne forhold foreligger.
+
+I spesielle tilfeller, når det ikke finnes betenkelig, kan midlertidig kjøretillatelse, som nevnt over, også utstedes til innehaver av utenlandsk førerkort. Det forutsettes at førerkortet anerkjennes etter [kap. 8](forskrift/2004-01-19-298/kap8). Midlertidig kjøretillatelse kan i tillegg, på samme vilkår, utstedes til innehaver av utenlandsk førerkort i følgende tilfeller:
+
+1. Hvis et utenlandsk førerkort utløper under oppholdstiden, dersom det vil medføre uforholdsmessig ulempe for vedkommende å ordne førerkortfornyelse i utlandet.
+2. Hvis et utenlandsk førerkort er blitt skadet eller av andre grunner er blitt uegnet som legitimasjon.
+3. Etter bestått praktisk prøve for person med førerkort som ikke anerkjennes etter [kap. 8](forskrift/2004-01-19-298/kap8).
 
 Politiet kan, for utenlandske førerkort, ved tapt eller tilbakekalt førerett, eller ved inndragning eller beslag av førerkort, utstede midlertidig kjøretillatelse for kjøring ut av landet.
 
@@ -694,7 +812,10 @@ Underretning skal straks gis ved tilbakelevering av beslaglagt førerkort, ved g
 
 I saker om kjøreforbud (tap av førerett i Norge) for innehaver av utenlandsk førerkort gjelder samme regler som ved tap eller tilbakekall av førerett og beslag av norsk førerkort, så langt det passer og ikke annet er fastsatt.
 
-For personer som ikke er fast bosatt i Norge gjelder følgende:Førerkort utstedt i EØS: Når det foreligger endelig vedtak om kjøreforbud, oversendes førerkortet til utstederlandet med melding om årsaken. Det samme gjelder internasjonalt førerkort. For førerkort utstedt i Danmark, Finland eller Sverige skal underretning sendes utstederlandet også når det treffes avgjørelser før endelig vedtak.Førerkort utstedt utenfor EØS: Førerkortet oppbevares hos politiet så lenge kjøreforbudet gjelder, eller inntil vedkommende forlater landet hvis dette skjer tidligere. Internasjonalt førerkort gis før tilbakelevering påtegning om den tid det gjelder kjøreforbud i Norge.
+For personer som ikke er fast bosatt i Norge gjelder følgende:
+
+1. Førerkort utstedt i EØS: Når det foreligger endelig vedtak om kjøreforbud, oversendes førerkortet til utstederlandet med melding om årsaken. Det samme gjelder internasjonalt førerkort. For førerkort utstedt i Danmark, Finland eller Sverige skal underretning sendes utstederlandet også når det treffes avgjørelser før endelig vedtak.
+2. Førerkort utstedt utenfor EØS: Førerkortet oppbevares hos politiet så lenge kjøreforbudet gjelder, eller inntil vedkommende forlater landet hvis dette skjer tidligere. Internasjonalt førerkort gis før tilbakelevering påtegning om den tid det gjelder kjøreforbud i Norge.
 
 For personer som er fast bosatt i Norge oppbevares førerkortet hos politiet så lenge kjøreforbudet varer. [§ 11-1](forskrift/2004-01-19-298/§11-1) gjelder tilsvarende. For gjenerverv av førerett i Norge utstedes norsk førerkort etter reglene for innbytte, dersom det er adgang til dette, jf. også [vegtrafikkloven av 18. juni 1965 nr. 4 § 24](lov/1965-06-18-4/§24), [§ 33](lov/1965-06-18-4/§33) og [§ 34](lov/1965-06-18-4/§34), [forskrift 19. desember 2003 nr. 1660](forskrift/2003-12-19-1660) om tap av retten til å føre motorvogn kapittel 8 og denne forskrift kapittel 10.
 
@@ -704,7 +825,10 @@ For personer som er fast bosatt i Norge oppbevares førerkortet hos politiet så
 
 ### § 12-1. Alminnelige unntak fra førerkortplikten for traktor, motorredskap, saktegående motorvogn og liten elektrisk motorvogn
 
-For kjøring med traktor og motorredskap utenfor veg, på privat veg og ved kryssing av offentlig veg gjelder følgende unntak fra kravet om førerkort:Traktor og motorredskap, med konstruktiv hastighet ikke over 40 km/t, med eller uten tilhenger, kan føres av person som har fylt 16 år og har nødvendig ferdighet.Traktor og motorredskap, bestemt til å føres av gående, eventuelt med tilkoblet tilhenger, kan føres av person som er fylt 16 år og har nødvendig ferdighet.
+For kjøring med traktor og motorredskap utenfor veg, på privat veg og ved kryssing av offentlig veg gjelder følgende unntak fra kravet om førerkort:
+
+1. Traktor og motorredskap, med konstruktiv hastighet ikke over 40 km/t, med eller uten tilhenger, kan føres av person som har fylt 16 år og har nødvendig ferdighet.
+2. Traktor og motorredskap, bestemt til å føres av gående, eventuelt med tilkoblet tilhenger, kan føres av person som er fylt 16 år og har nødvendig ferdighet.
 
 Motorvogn som har tillatt totalvekt ikke over 3500 kg, og som er konstruert for en hastighet ikke over 10 km/t, og som bare med vesentlige konstruktive forandringer kan kjøres med større hastighet, kan føres av person som har fylt 16 år og har nødvendig ferdighet.
 
@@ -866,7 +990,13 @@ For unntak fra helsekravene vises til vedlegg 1.
 
 Denne forskrift trer i kraft 1. mars 2004, likevel slik at [§ 6-1](forskrift/2004-01-19-298/§6-1) annet ledd trer i kraft 1. juli 2004 (se overgangsregler i [§ 14-5](forskrift/2004-01-19-298/§14-5)).
 
-Fra 1. mars 2004 oppheves følgende forskrifter:[Forskrift av 23. februar 1979 nr. 4](forskrift/1979-02-23-4) om førerkort og førerprøve m.v. fastsatt av Samferdselsdepartementet.[Forskrift av 14. desember 1993 nr. 1309](forskrift/1993-12-14-1309) om endring i forskrift om førerkort og førerprøve fastsatt av Samferdselsdepartementet.[Forskrift av 29. desember 1997 nr. 1466](forskrift/1997-12-29-1466) om utforming og innhold i førerkort etter EØS-modell fastsatt av Vegdirektoratet.[Forskrift av 29. mars 2000 nr. 343](forskrift/2000-03-29-343) om unntak fra forskrift om førerkort og førerprøve m.v. for løyveutdanning, fastsatt av Vegdirektoratet.[Forskrift av 28. juli 1999 nr. 874](forskrift/1999-07-28-874) om dispensasjon i tilknytning til forskrifter om førerkort og førerprøve m.v., fastsatt av Vegdirektoratet.
+Fra 1. mars 2004 oppheves følgende forskrifter:
+
+1. [Forskrift av 23. februar 1979 nr. 4](forskrift/1979-02-23-4) om førerkort og førerprøve m.v. fastsatt av Samferdselsdepartementet.
+2. [Forskrift av 14. desember 1993 nr. 1309](forskrift/1993-12-14-1309) om endring i forskrift om førerkort og førerprøve fastsatt av Samferdselsdepartementet.
+3. [Forskrift av 29. desember 1997 nr. 1466](forskrift/1997-12-29-1466) om utforming og innhold i førerkort etter EØS-modell fastsatt av Vegdirektoratet.
+4. [Forskrift av 29. mars 2000 nr. 343](forskrift/2000-03-29-343) om unntak fra forskrift om førerkort og førerprøve m.v. for løyveutdanning, fastsatt av Vegdirektoratet.
+5. [Forskrift av 28. juli 1999 nr. 874](forskrift/1999-07-28-874) om dispensasjon i tilknytning til forskrifter om førerkort og førerprøve m.v., fastsatt av Vegdirektoratet.
 
 [Forskrift av 15. januar 2001 nr. 26](forskrift/2001-01-15-26) om motorsport på lukket bane eller annet avsperret område og om annen bruk av go-kart, fastsatt blant annet med hjemmel i forskrift som nevnt i annet ledd nr. 1, skal fortsatt gjelde.
 
@@ -950,7 +1080,15 @@ Digitalt førerkort kan når som helst deaktiveres av innehaver.
 
 ### § 15-4. Krav til bildet av førerkortinnehaver
 
-Bildet til førerkortet tas hos Statens vegvesen og skal oppfylle følgende krav:bildet skal vise ansiktet til innehaveren slik vedkommende ser ut i dag uten hodebekledning eller lignendebegge øynene og ørene skal være helt synligeblikket skal være rettet mot kameraets linseansiktsuttrykket skal være nøytralt og munnen skal være lukketbakgrunnen skal være lys uten skyggeransiktet skal være jevnt belystbriller skal ikke benyttes.
+Bildet til førerkortet tas hos Statens vegvesen og skal oppfylle følgende krav:
+
+1. bildet skal vise ansiktet til innehaveren slik vedkommende ser ut i dag uten hodebekledning eller lignende
+2. begge øynene og ørene skal være helt synlige
+3. blikket skal være rettet mot kameraets linse
+4. ansiktsuttrykket skal være nøytralt og munnen skal være lukket
+5. bakgrunnen skal være lys uten skygger
+6. ansiktet skal være jevnt belyst
+7. briller skal ikke benyttes.
 
 Ansiktet til førerkortsøkeren skal være avbildet rett forfra.
 
@@ -1030,7 +1168,16 @@ Det skal gjennomføres systematiske sikkerhetsrevisjoner for å sikre at behandl
 
 ### § 1. Definisjoner
 
-I dette vedlegget menes med:*Førerkortgruppe 1:* Førerkortklassene AM, S, T, A1, A2, A, B, BE*Førerkortgruppe 2:* Førerkortklassene C1, C1E, C, CE*Førerkortgruppe 3:* Førerkortklassene D1, D1E, D, DE*Søker om førerett:* Person som søker om førstegangsutstedelse, fornyelse, utvidelse eller tilbakelevering av førerkort for motorvogn eller innbytte av utenlandsk førerkort*Egenerklæring om helse:* Egenerklæring om helse utfylt av søker om førerett på standardisert skjema fastsatt av Helsedirektoratet*Helseattest:* Helseerklæring utfylt av lege på standardisert skjema fastsatt av Helsedirektoratet og som inkluderer egenerklæring om helse*Elektronisk helsemelding:* Legens eller optikerens konklusjon etter utfylt helseattest eller synsattest som sendes elektronisk til førerkortregisteret.*Kjørevurdering*: Vurdering av kjøreferdigheter for personer med funksjonsnedsettelse og for personer som har eller kan ha helsesvekkelse, jf. forskrift om krav til førerprøvesensorer m.m. [§ 2](forskrift/2004-01-19-298/§2) første ledd bokstav d.
+I dette vedlegget menes med:
+
+1. *Førerkortgruppe 1:* Førerkortklassene AM, S, T, A1, A2, A, B, BE
+2. *Førerkortgruppe 2:* Førerkortklassene C1, C1E, C, CE
+3. *Førerkortgruppe 3:* Førerkortklassene D1, D1E, D, DE
+4. *Søker om førerett:* Person som søker om førstegangsutstedelse, fornyelse, utvidelse eller tilbakelevering av førerkort for motorvogn eller innbytte av utenlandsk førerkort
+5. *Egenerklæring om helse:* Egenerklæring om helse utfylt av søker om førerett på standardisert skjema fastsatt av Helsedirektoratet
+6. *Helseattest:* Helseerklæring utfylt av lege på standardisert skjema fastsatt av Helsedirektoratet og som inkluderer egenerklæring om helse
+7. *Elektronisk helsemelding:* Legens eller optikerens konklusjon etter utfylt helseattest eller synsattest som sendes elektronisk til førerkortregisteret.
+8. *Kjørevurdering*: Vurdering av kjøreferdigheter for personer med funksjonsnedsettelse og for personer som har eller kan ha helsesvekkelse, jf. forskrift om krav til førerprøvesensorer m.m. [§ 2](forskrift/2004-01-19-298/§2) første ledd bokstav d.
 
 > Endret ved [forskrifter 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), [16 aug 2018 nr. 1249](forskrift/2018-08-16-1249) (i kraft 1 sep 2018), [14 juni 2019 nr. 736](forskrift/2019-06-14-736) (i kraft 19 juni 2019).
 
@@ -1060,7 +1207,13 @@ Når helseattest ikke kreves, skal det ved førerprøven fremlegges eller gjenno
 
 ### § 4. Helseattest
 
-Helseattest skal fremleggesnår politi, helsemyndighet eller vegmyndighet krever det for å kunne vurdere om søker om førerett eller innehaver av førerkort har en sykdom, bruker midler som gir svekket kjøreevne eller har annen helsesvekkelse som medfører at helsekravene ikke er oppfyltved første gangs søknad om eller fornyelse av førerkort gruppe 2 og gruppe 3ved utvidelse av førerkortet til tyngre førerkortgruppeved fornyelse av førerkort med tidsbegrensningved fornyelse av førerkort etter fylte 80 år.
+Helseattest skal fremlegges
+
+1. når politi, helsemyndighet eller vegmyndighet krever det for å kunne vurdere om søker om førerett eller innehaver av førerkort har en sykdom, bruker midler som gir svekket kjøreevne eller har annen helsesvekkelse som medfører at helsekravene ikke er oppfylt
+2. ved første gangs søknad om eller fornyelse av førerkort gruppe 2 og gruppe 3
+3. ved utvidelse av førerkortet til tyngre førerkortgruppe
+4. ved fornyelse av førerkort med tidsbegrensning
+5. ved fornyelse av førerkort etter fylte 80 år.
 
 Dersom helsekravene er oppfylt uten tidsbegrensning eller annen begrensning, eventuelt kun begrenset med krav til bruk av synskorreksjon kode 01, kan legen eller optikeren overføre konklusjonen fra helseattesten eller synsattesten elektronisk til førerkortregisteret. I andre tilfeller må søker om førerett selv levere konklusjonen fra helseattesten eller synsattesten til Statens vegvesen. Attesten må ikke være eldre enn tre måneder ved fremleggelse etter bestemmelsene i første ledd.
 
@@ -1070,7 +1223,13 @@ For person under 80 år som bruker synskorrigering under føring av motorvogn el
 
 ### § 5. Undersøkelsen av førerkortsøker
 
-Vurdering av om helsekrav er oppfylt for føring av motorvogn skal ut over en generell helseundersøkelse omfatte:undersøkelse av sensoriske funksjoner (syn, hørsel)vurdering av kognitiv funksjon, psykiske lidelser og atferdsforstyrrelserundersøkelse av førlighetvurdering av legemiddelforbruk og bruk av rusmidlerblod-, urin- eller andre relevante prøver og undersøkelser i den utstrekning det er nødvendig for å bedømme søkers helsemessige skikkethet.
+Vurdering av om helsekrav er oppfylt for føring av motorvogn skal ut over en generell helseundersøkelse omfatte:
+
+1. undersøkelse av sensoriske funksjoner (syn, hørsel)
+2. vurdering av kognitiv funksjon, psykiske lidelser og atferdsforstyrrelser
+3. undersøkelse av førlighet
+4. vurdering av legemiddelforbruk og bruk av rusmidler
+5. blod-, urin- eller andre relevante prøver og undersøkelser i den utstrekning det er nødvendig for å bedømme søkers helsemessige skikkethet.
 
 > Endret ved [forskrifter 5 nov 2004 nr. 1448](forskrift/2004-11-05-1448) (i kraft 5 nov 2004 og 1 jan 2005), [16 juni 2010 nr. 894](forskrift/2010-06-16-894) (i kraft 1 juli 2010), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [1 mars 2013 nr. 240](forskrift/2013-03-01-240), [13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016).
 
@@ -1217,7 +1376,10 @@ For nevrologisk sykdom som inngår i tabellen i annet ledd, gjelder bestemmelsen
 
 ### § 18. Generelle helsekrav ved epilepsi og epilepsilignende anfall
 
-Helsekrav er ikke oppfylt forførerkortgruppe 1 ved diagnostisert epilepsi med anfall innenfor de siste fem årførerkortgruppe 2 og 3 ved diagnostisert epilepsi med anfall innenfor de siste ti år eller bruk av legemidler mot epilepsi i samme periode
+Helsekrav er ikke oppfylt for
+
+1. førerkortgruppe 1 ved diagnostisert epilepsi med anfall innenfor de siste fem år
+2. førerkortgruppe 2 og 3 ved diagnostisert epilepsi med anfall innenfor de siste ti år eller bruk av legemidler mot epilepsi i samme periode
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016).
 
@@ -1379,7 +1541,10 @@ Ved hjertesvikt, klaffesykdommer og kardiomyopatier som inngår i tabellen i ann
 
 ### § 30. Generelle helsekrav ved diabetes
 
-Personer med diabetes som bruker blodsukkersenkende legemidler oppfyller ikke helsekravet til førerett med 15 års gyldighet i førerkortgruppe 1 og fem års gyldighet i førerkortgruppe 2 og 3 etter [førerkortforskriften § 4-1](forskrift/2004-01-19-298/§4-1) første og annet ledd. Helseattest kan gis med anbefaling om førerett med inntil fem års varighet for førerkortgruppe 1 og inntil tre års varighet for førerkortgruppe 2 og 3 dersomdet ikke er fare for bevissthetspåvirkning under føring av motorvogn ogsykdommen ikke har ført til funksjonssvikt i andre organer som medfører trafikksikkerhetsrisiko
+Personer med diabetes som bruker blodsukkersenkende legemidler oppfyller ikke helsekravet til førerett med 15 års gyldighet i førerkortgruppe 1 og fem års gyldighet i førerkortgruppe 2 og 3 etter [førerkortforskriften § 4-1](forskrift/2004-01-19-298/§4-1) første og annet ledd. Helseattest kan gis med anbefaling om førerett med inntil fem års varighet for førerkortgruppe 1 og inntil tre års varighet for førerkortgruppe 2 og 3 dersom
+
+1. det ikke er fare for bevissthetspåvirkning under føring av motorvogn og
+2. sykdommen ikke har ført til funksjonssvikt i andre organer som medfører trafikksikkerhetsrisiko
 
 Ved kostregulert diabetes kan det gis helseattest med vanlig varighet forutsatt at vilkårene i bokstav a og b er oppfylt.
 
@@ -1400,7 +1565,11 @@ Ved behandling med insulin eller andre legemidler som kan gi hypoglykemi, gjelde
 
 ### § 32. Helsekrav for førerkortgruppe 2 og 3 etter hypoglykemi med behov for bistand fra andre
 
-Personer som behandles med insulin eller andre legemidler som kan gi hypoglykemi, og som i løpet av de siste 12 månedene har hatt et anfall av hypoglykemi med behov for bistand fra andre, kan etter en individuell vurdering gis helseattest med anbefaling om førerett for førerkortgruppe 2 og 3 dersom:relevant spesialist bekrefter at endret behandlings- og kontrollopplegg har ført til at risikoen for nytt anfall av hypoglykemi med behov for bistand fra andre er svært lav og at det er gjennomført kontinuerlig vevsglukosemåling av minst 5 dagers varighetdet har vært minimum tre måneders observasjonstid etter endring av behandlings- og kontrollopplegget ogvilkårene i [§ 31](forskrift/2004-01-19-298/§31) kolonne C bokstav b til e for å få helseattest for førerkortgruppe 2 og 3 er oppfylt.
+Personer som behandles med insulin eller andre legemidler som kan gi hypoglykemi, og som i løpet av de siste 12 månedene har hatt et anfall av hypoglykemi med behov for bistand fra andre, kan etter en individuell vurdering gis helseattest med anbefaling om førerett for førerkortgruppe 2 og 3 dersom:
+
+1. relevant spesialist bekrefter at endret behandlings- og kontrollopplegg har ført til at risikoen for nytt anfall av hypoglykemi med behov for bistand fra andre er svært lav og at det er gjennomført kontinuerlig vevsglukosemåling av minst 5 dagers varighet
+2. det har vært minimum tre måneders observasjonstid etter endring av behandlings- og kontrollopplegget og
+3. vilkårene i [§ 31](forskrift/2004-01-19-298/§31) kolonne C bokstav b til e for å få helseattest for førerkortgruppe 2 og 3 er oppfylt.
 
 Helseattest kan gis med anbefaling om førerett for inntil ett års varighet, deretter med inntil tre års varighet.
 
@@ -1546,7 +1715,16 @@ Vedtak om dispensasjon som er truffet i medhold av vedlegg 1 før 1. oktober 201
 
 En dispensasjon etter første ledd kan ikke gis varighet utover 30. september 2019.
 
-Følgende gjelder ved søknad om dispensasjon for personer med syn på bare ett øyeFørerkortinnehavere med syn på bare ett øye kan søke statsforvalteren om fornyelse av dispensasjon for førerkortgruppe 2 og 3, dersom dispensasjonen ble innvilget første gang før 1. oktober 2016 og når det er:fremlagt helseattest som etter en medisinskfaglig vurdering viser at søker ikke utgjør en fare for trafikksikkerhetenfremlagt attest fra Statens vegvesen med anbefaling av førerett etter gjennomført kjørevurderingtungtveiende grunner for videreføring utover 30. september 2019.Søknad om dispensasjon må fremmes ved hver fornyelse av førerkortet. Dispensasjon kan gis for inntil 5 år, men ikke lenger enn til dagen før fylte 71 år dersom søker er 66 år eller mer. Etter fylte 70 år kan dispensasjon gis for inntil ett år.Tidsubegrenset dispensasjon innvilget før 1. oktober 2016 kan benyttes ved søknad om fornyelse av førerkortet frem til 30. september 2020. Ved senere fornyelse av førerkortet må det søkes om dispensasjon i tråd med bestemmelsene i nr. 1, 2 og 4.Førerkortsøkere som har fått innvilget dispensasjon etter 1. januar 2019, behøver ikke fremlegge ny helseattest ved søknad om ny dispensasjon fra 1. oktober 2019, dersom helsetilstanden ikke har endret seg. Dispensasjon kan ikke gis utover helseattestens gyldighetstid. Søker må gjennomføre kjørevurdering dersom dette ikke ble gjort ved siste fornyelse av dispensasjonen.
+Følgende gjelder ved søknad om dispensasjon for personer med syn på bare ett øye
+
+1. Førerkortinnehavere med syn på bare ett øye kan søke statsforvalteren om fornyelse av dispensasjon for førerkortgruppe 2 og 3, dersom dispensasjonen ble innvilget første gang før 1. oktober 2016 og når det er:
+
+   1. fremlagt helseattest som etter en medisinskfaglig vurdering viser at søker ikke utgjør en fare for trafikksikkerheten
+   2. fremlagt attest fra Statens vegvesen med anbefaling av førerett etter gjennomført kjørevurdering
+   3. tungtveiende grunner for videreføring utover 30. september 2019.
+2. Søknad om dispensasjon må fremmes ved hver fornyelse av førerkortet. Dispensasjon kan gis for inntil 5 år, men ikke lenger enn til dagen før fylte 71 år dersom søker er 66 år eller mer. Etter fylte 70 år kan dispensasjon gis for inntil ett år.
+3. Tidsubegrenset dispensasjon innvilget før 1. oktober 2016 kan benyttes ved søknad om fornyelse av førerkortet frem til 30. september 2020. Ved senere fornyelse av førerkortet må det søkes om dispensasjon i tråd med bestemmelsene i nr. 1, 2 og 4.
+4. Førerkortsøkere som har fått innvilget dispensasjon etter 1. januar 2019, behøver ikke fremlegge ny helseattest ved søknad om ny dispensasjon fra 1. oktober 2019, dersom helsetilstanden ikke har endret seg. Dispensasjon kan ikke gis utover helseattestens gyldighetstid. Søker må gjennomføre kjørevurdering dersom dette ikke ble gjort ved siste fornyelse av dispensasjonen.
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), endret ved [forskrifter 16 sep 2019 nr. 1128](forskrift/2019-09-16-1128), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [4 juni 2021 nr. 1777](forskrift/2021-06-04-1777).
 
@@ -1580,9 +1758,25 @@ Førerkortet utstedes med tekst på begge målformer.
 
 Førerkortets side 1 skal ha rosa bakgrunn. Ordet EØS-modell på norsk, samt ordet «førerkort» oversatt til de øvrige EØS-lands språk, skal påføres med rosa skrift.
 
-Førerkortet skal inneholde:ordet «førerkort» og «førarkort» med store bokstaver (versaler) på norsknavnet «Norge» og «Noreg» med store bokstavernasjonalitetsmerket for Norge, jf. Wienkonvensjonen av 1968 om vegtrafikk.
+Førerkortet skal inneholde:
 
-Førerkortets side 1 skal inneholde opplysninger som er spesifikke for det utstedte førerkortet nummerert på følgende måte:innehaverens etternavninnehaverens fornavn og eventuelt mellomnavninnehaverens fødselsdato og fødestedførerkortets utstedelsesdatoførerkortets administrative utløpsdatonavnet på utstedende myndighetreferansenummer (fødselsnummer eller annet nummer enn det som står på linje 5)førerkortes nummerfotografi av innehavereninnehaverens underskriftførerkortklasser (nasjonale klasser skal trykkes med andre skrifttyper enn de harmoniserte førerkortklassene).
+- ordet «førerkort» og «førarkort» med store bokstaver (versaler) på norsk
+- navnet «Norge» og «Noreg» med store bokstaver
+- nasjonalitetsmerket for Norge, jf. Wienkonvensjonen av 1968 om vegtrafikk.
+
+Førerkortets side 1 skal inneholde opplysninger som er spesifikke for det utstedte førerkortet nummerert på følgende måte:
+
+- innehaverens etternavn
+- innehaverens fornavn og eventuelt mellomnavn
+- innehaverens fødselsdato og fødested
+- førerkortets utstedelsesdato
+- førerkortets administrative utløpsdato
+- navnet på utstedende myndighet
+- referansenummer (fødselsnummer eller annet nummer enn det som står på linje 5)
+- førerkortes nummer
+- fotografi av innehaveren
+- innehaverens underskrift
+- førerkortklasser (nasjonale klasser skal trykkes med andre skrifttyper enn de harmoniserte førerkortklassene).
 
 Fødested angis i førerkortregisteret, men angis på førerkortblanketten med en strek.
 
@@ -1590,7 +1784,13 @@ Fødested angis i førerkortregisteret, men angis på førerkortblanketten med e
 
 ### § 5. Førerkortets bakside
 
-Førerkortets side 2 skal ha rosa bakgrunn. Side 2 skal inneholde følgende opplysninger i nummerert rekkefølge:symboler som viser førerkortklasser (nasjonale førerkortklasser skal trykkes med andre skrifttyper enn de harmoniserte klassene)dato for førstegangsutstedelse av førerkortklassen (denne dato skal oppføres på nytt ved eventuell senere produksjon hvor førerkortklassen skal opprettholdes). Datoen skal påføres i formatet dato.måned.år (DD.MM.ÅÅ).utløpsdato for administrativ gyldighet i hver førerkortklasse. Datoen skal påføres i formatet dato.måned.år (DD.MM.ÅÅ).tilleggsopplysninger, bevis for kompetanse eller begrensninger i kodeform bak den aktuelle førerkortklasse, jf. vedlegg 4 til denne forskrift.plass for administrative merknader fra vertslandet hvis innehaveren tar fast bopel i et annet EØS-land.
+Førerkortets side 2 skal ha rosa bakgrunn. Side 2 skal inneholde følgende opplysninger i nummerert rekkefølge:
+
+1. symboler som viser førerkortklasser (nasjonale førerkortklasser skal trykkes med andre skrifttyper enn de harmoniserte klassene)
+2. dato for førstegangsutstedelse av førerkortklassen (denne dato skal oppføres på nytt ved eventuell senere produksjon hvor førerkortklassen skal opprettholdes). Datoen skal påføres i formatet dato.måned.år (DD.MM.ÅÅ).
+3. utløpsdato for administrativ gyldighet i hver førerkortklasse. Datoen skal påføres i formatet dato.måned.år (DD.MM.ÅÅ).
+4. tilleggsopplysninger, bevis for kompetanse eller begrensninger i kodeform bak den aktuelle førerkortklasse, jf. vedlegg 4 til denne forskrift.
+5. plass for administrative merknader fra vertslandet hvis innehaveren tar fast bopel i et annet EØS-land.
 
 Dersom en kode gjelder for alle førerkortklassene vedkommende har, kan koden føres opp i feltet under kolonnene 9, 10 og 11.
 

@@ -38,7 +38,11 @@ Forskriften gjelder ikke transport av kjæledyr når dyret ledsages av person so
 
 ## § 3. Definisjoner
 
-I denne forskrift menes med:*Hest:* Hest, esel, mulesel og muldyr.*Transport:* På- og avlasting av dyr på et transportmiddel og tiden dyret oppholder seg på transportmiddelet mellom på- og avlastingen.*Transportmiddel:* kjøretøy, tilhenger, tog, båt, fly og helikopter som nyttes til transport av levende dyr.
+I denne forskrift menes med:
+
+1. *Hest:* Hest, esel, mulesel og muldyr.
+2. *Transport:* På- og avlasting av dyr på et transportmiddel og tiden dyret oppholder seg på transportmiddelet mellom på- og avlastingen.
+3. *Transportmiddel:* kjøretøy, tilhenger, tog, båt, fly og helikopter som nyttes til transport av levende dyr.
 
 ## § 4. Kompetanse
 

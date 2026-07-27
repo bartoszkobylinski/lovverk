@@ -15,7 +15,7 @@ xml_hash: "158ece4703cab90e4b3210c9df4d789d50c624128f33a69668989f2e9c01951e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,14 @@ Direktoratet for medisinske produkter kan fastsette nærmere retningslinjer for 
 
 ### § 2b. Tilbakekall av grossisttillatelse
 
-Direktoratet for medisinske produkter skal tilbakekalle grossisttillatelsen midlertidig eller endelig hvis forutsetninger for tillatelsen ikke lenger er til stede:ved vesentlige brudd på de krav som stilles i [§ 7](forskrift/1993-12-21-1219/§7) om lokaler og nødvendig utstyrved vesentlig brudd på de krav som stilles i [§ 6](forskrift/1993-12-21-1219/§6) om virksomhetens personaleved mangelfull medvirkning ved tilsyn, jf. [§ 17](forskrift/1993-12-21-1219/§17)aved innkjøp av legemidler i strid med [§ 12](forskrift/1993-12-21-1219/§12)ved salg av legemidler i strid med [§ 13](forskrift/1993-12-21-1219/§13)ved mangelfull oppfyllelse av de krav som stilles i [§ 9](forskrift/1993-12-21-1219/§9).
+Direktoratet for medisinske produkter skal tilbakekalle grossisttillatelsen midlertidig eller endelig hvis forutsetninger for tillatelsen ikke lenger er til stede:
+
+1. ved vesentlige brudd på de krav som stilles i [§ 7](forskrift/1993-12-21-1219/§7) om lokaler og nødvendig utstyr
+2. ved vesentlig brudd på de krav som stilles i [§ 6](forskrift/1993-12-21-1219/§6) om virksomhetens personale
+3. ved mangelfull medvirkning ved tilsyn, jf. [§ 17](forskrift/1993-12-21-1219/§17)a
+4. ved innkjøp av legemidler i strid med [§ 12](forskrift/1993-12-21-1219/§12)
+5. ved salg av legemidler i strid med [§ 13](forskrift/1993-12-21-1219/§13)
+6. ved mangelfull oppfyllelse av de krav som stilles i [§ 9](forskrift/1993-12-21-1219/§9).
 
 > Tilføyd ved [forskrift 22 des 1999 nr. 1560](forskrift/1999-12-22-1560) (i kraft 1 jan 2000), endret ved [forskrifter 27 des 2000 nr. 1578](forskrift/2000-12-27-1578) (i kraft 1 jan 2001), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -212,7 +219,18 @@ Grossister kan bare kjøpe legemidler fra produsenter med tilvirkertillatelse el
 
 ### § 13
 
-Grossister kan bare selge legemidler til:Apotek.Tilvirkere med tillatelse etter § 12 i lov av 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven).Importører og tilvirkere som i medhold av [legemiddelloven § 14](lov/1992-12-04-132/§14) og [§ 16](lov/1992-12-04-132/§16) har tillatelse til å selge samme vare.Sykehjem som inngår i den kommunale helse- og omsorgstjenesten.Offentlige og offentlig godkjente laboratorier og vitenskapelige institusjoner og andre lignende institusjoner eller bedrifter, etter Direktoratet for medisinske produkters nærmere bestemmelse.Andre godkjente grossister.Sykehus, for de varegrupper som er fastsatt av Direktoratet for medisinske produkter etter retningslinjer fra Helsedepartementet.Andre helseinstitusjoner enn kommunale sykehjem for de varegrupper som er fastsatt av Direktoratet for medisinske produkter etter retningslinjer fra Helsedepartementet.Sluttbruker av legemiddelet, for de varegrupper som er fastsatt av Direktoratet for medisinske produkter.Kjøpmenn som i medhold av lov om legemidler [§ 16](forskrift/1993-12-21-1219/§16) har tillatelse til å selge legemidler.
+Grossister kan bare selge legemidler til:
+
+1. Apotek.
+2. Tilvirkere med tillatelse etter § 12 i lov av 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven).
+3. Importører og tilvirkere som i medhold av [legemiddelloven § 14](lov/1992-12-04-132/§14) og [§ 16](lov/1992-12-04-132/§16) har tillatelse til å selge samme vare.
+4. Sykehjem som inngår i den kommunale helse- og omsorgstjenesten.
+5. Offentlige og offentlig godkjente laboratorier og vitenskapelige institusjoner og andre lignende institusjoner eller bedrifter, etter Direktoratet for medisinske produkters nærmere bestemmelse.
+6. Andre godkjente grossister.
+7. Sykehus, for de varegrupper som er fastsatt av Direktoratet for medisinske produkter etter retningslinjer fra Helsedepartementet.
+8. Andre helseinstitusjoner enn kommunale sykehjem for de varegrupper som er fastsatt av Direktoratet for medisinske produkter etter retningslinjer fra Helsedepartementet.
+9. Sluttbruker av legemiddelet, for de varegrupper som er fastsatt av Direktoratet for medisinske produkter.
+10. Kjøpmenn som i medhold av lov om legemidler [§ 16](forskrift/1993-12-21-1219/§16) har tillatelse til å selge legemidler.
 
 Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra denne bestemmelse.
 
@@ -226,7 +244,11 @@ Grossist kan ikke selge legemidler direkte til sykehjem dersom grossisten har el
 
 Ved salg av legemidler til sykehjem kan grossist ikke kreve en pris for legemidlene som overstiger apotekenes maksimale utsalgspris slik denne beregnes etter kapittel 12 i [forskrift av 22. desember 1999 nr. 1559](forskrift/1999-12-22-1559) om legemidler.
 
-Grossister som driver direkte salg av legemidler til sykehjem i den kommunale helse- og omsorgstjenesten må kunne:dokumentere hvordan plikten til å gi informasjon og veiledning om solgte legemidler ivaretas,dokumentere leveringsevne for alle legemidler som omfattes av leveringsavtale med kommunen, ogdokumentere hvilken leveringstid som er avtalt med kommunen for hver enkelt legemiddelgruppe.
+Grossister som driver direkte salg av legemidler til sykehjem i den kommunale helse- og omsorgstjenesten må kunne:
+
+1. dokumentere hvordan plikten til å gi informasjon og veiledning om solgte legemidler ivaretas,
+2. dokumentere leveringsevne for alle legemidler som omfattes av leveringsavtale med kommunen, og
+3. dokumentere hvilken leveringstid som er avtalt med kommunen for hver enkelt legemiddelgruppe.
 
 > Opphevet ved [forskrift 22 des 1999 nr. 1560](forskrift/1999-12-22-1560) (fra 1 jan 2000). Tilføyd igjen ved [forskrift 21 mars 2002 nr. 338](forskrift/2002-03-21-338) (i kraft 1 april 2002), endret ved [forskrifter 3 april 2008 nr. 320](forskrift/2008-04-03-320) (i kraft 1 mai 2008), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [9 des 2013 nr. 1573](forskrift/2013-12-09-1573) (i kraft 1 jan 2015), [2 juni 2022 nr. 977](forskrift/2022-06-02-977) (i kraft 16 sep 2022).
 
@@ -272,7 +294,13 @@ Forskriftene i dette kapittel gjelder innlevering og behandling av opplysninger 
 
 Virksomhet som nevnt i [§ 18](forskrift/1993-12-21-1219/§18) skal levere opplysninger om meldepliktig omsetning til Folkehelseinstituttet.
 
-Med meldepliktig omsetning menes alt salg av legemidler, med unntak av:NaturlegemidlerRadiofarmakaHomeopatiske og antroposofiske legemidlerMedisinske gasserRåvarer (farmasøytisk aktive substanser).
+Med meldepliktig omsetning menes alt salg av legemidler, med unntak av:
+
+1. Naturlegemidler
+2. Radiofarmaka
+3. Homeopatiske og antroposofiske legemidler
+4. Medisinske gasser
+5. Råvarer (farmasøytisk aktive substanser).
 
 Råvarer som benyttes i fiskeoppdrett er likevel meldepliktig omsetning.
 
@@ -382,7 +410,10 @@ Det kalenderåret som Stortingets vedtak gjelder, kalles avgiftsåret.
 
 ### § 27. Avgiftsplikt
 
-Avgiftspliktig er:grossister og andre som driver engrosomsetning av legemidler i Norge etter tillatelse fra Direktoratet for medisinske produkter eller annen legemiddelmyndighet innen EØS-området, ogapotek som kjøper legemidler fra utenlandsk grossist.
+Avgiftspliktig er:
+
+1. grossister og andre som driver engrosomsetning av legemidler i Norge etter tillatelse fra Direktoratet for medisinske produkter eller annen legemiddelmyndighet innen EØS-området, og
+2. apotek som kjøper legemidler fra utenlandsk grossist.
 
 > Tilføyd ved [forskrift 21 des 2001 nr. 1553](forskrift/2001-12-21-1553) (i kraft 1 jan 2002), endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -394,9 +425,17 @@ Plikt til å betale LUA-avgift har grossister som selger legemidler til utsalgss
 
 ### § 28. Avgiftspliktig omsetning
 
-Avgiftspliktig omsetning er:grossistens netto legemiddelsalg til apotek og andre som selger legemidler til allmennheten samt sluttbrukere av legemidler i avgiftsåret, avrundet nedover til nærmeste 100 kr, ogapotekets netto legemiddelkjøp fra utenlandsk grossist, med fradrag for kjøp av varer som nevnt i annet ledd bokstavene c og d.
+Avgiftspliktig omsetning er:
 
-Med netto legemiddelsalg menes alt kontant- og kredittsalg av legemidler til kjøpere som nevnt i første ledd med fradrag av:merverdiavgift,rabatt som gis til kjøper, likevel slik at det ved salg til apotek bare kan kreves fradrag for rabatt som går direkte til apoteket,salg av legemidler produsert av apotek eller i virksomhet på oppdrag fra apotek, ogsalg av råvarer til bruk i produksjon av legemidler beregnet for videresalg.
+1. grossistens netto legemiddelsalg til apotek og andre som selger legemidler til allmennheten samt sluttbrukere av legemidler i avgiftsåret, avrundet nedover til nærmeste 100 kr, og
+2. apotekets netto legemiddelkjøp fra utenlandsk grossist, med fradrag for kjøp av varer som nevnt i annet ledd bokstavene c og d.
+
+Med netto legemiddelsalg menes alt kontant- og kredittsalg av legemidler til kjøpere som nevnt i første ledd med fradrag av:
+
+1. merverdiavgift,
+2. rabatt som gis til kjøper, likevel slik at det ved salg til apotek bare kan kreves fradrag for rabatt som går direkte til apoteket,
+3. salg av legemidler produsert av apotek eller i virksomhet på oppdrag fra apotek, og
+4. salg av råvarer til bruk i produksjon av legemidler beregnet for videresalg.
 
 > Tilføyd ved [forskrift 21 des 2001 nr. 1553](forskrift/2001-12-21-1553) (i kraft 1 jan 2002), endret ved [forskrift 17 des 2002 nr. 1677](forskrift/2002-12-17-1677) (i kraft 1 jan 2003).
 
@@ -408,7 +447,10 @@ Avgiftspliktig omsetning er grossistens netto salg med fradrag av merverdiavgift
 
 ### § 29. Skjønnsmessig fastsettelse
 
-Den avgiftspliktige omsetning kan fastsettes ved skjønn når:innberetning som nevnt i [§ 33](forskrift/1993-12-21-1219/§33) ikke er innkommet i rett tid og i foreskrevet form, ellermottatt innberetning er uriktig, ufullstendig eller bygger på regnskap som ikke er ført i samsvar med gjeldende lov og forskrift.
+Den avgiftspliktige omsetning kan fastsettes ved skjønn når:
+
+1. innberetning som nevnt i [§ 33](forskrift/1993-12-21-1219/§33) ikke er innkommet i rett tid og i foreskrevet form, eller
+2. mottatt innberetning er uriktig, ufullstendig eller bygger på regnskap som ikke er ført i samsvar med gjeldende lov og forskrift.
 
 Ny beregning av avgift kan foretas inntil tre år etter utløpet av vedkommende avgiftsår.
 

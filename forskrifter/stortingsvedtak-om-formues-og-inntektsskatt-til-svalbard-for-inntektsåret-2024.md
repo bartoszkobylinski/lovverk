@@ -28,13 +28,26 @@ Dette vedtaket gjeld utskriving av skatt på formue og inntekt for inntektsåret
 
 ## § 2. Skatt på formue
 
-Skatt på formue blir utrekna etter desse satsane:Personleg skattepliktig og dødsbu:
-Det blir nytta same satsar og grensebeløp som Stortinget har vedteke skal gjelde på det norske fastlandet for formuesskatt til staten og kommunane (maksimumssats).Selskap og samanslutningar som nemnde i [skattelova § 2-36 andre ledd](lov/1999-03-26-14/§2-36/ledd/2), og som ikkje er fritekne etter [skattelova kap. 2](lov/1999-03-26-14/kap2):
-Det blir nytta same satsar og grensebeløp som Stortinget har vedteke skal gjelde på det norske fastlandet for formuesskatt til staten.
+Skatt på formue blir utrekna etter desse satsane:
+
+1. Personleg skattepliktig og dødsbu:
+   Det blir nytta same satsar og grensebeløp som Stortinget har vedteke skal gjelde på det norske fastlandet for formuesskatt til staten og kommunane (maksimumssats).
+2. Selskap og samanslutningar som nemnde i [skattelova § 2-36 andre ledd](lov/1999-03-26-14/§2-36/ledd/2), og som ikkje er fritekne etter [skattelova kap. 2](lov/1999-03-26-14/kap2):
+   Det blir nytta same satsar og grensebeløp som Stortinget har vedteke skal gjelde på det norske fastlandet for formuesskatt til staten.
 
 ## § 3. Skatt på inntekt
 
-Skatt på inntekt blir utrekna etter desse satsane:Inntekt som blir skattlagd ved lønnstrekk etter [svalbardskattelova § 3-1](lov/1996-11-29-68/§3-1):Låg sats: 8 pst.Høg sats: 22 pst.22 pst. av den delen av selskapsoverskot som er høgare enn 15 mill. kroner, og som overstig summen av10 gonger kostnadene til lønn som blir skattlagd ved lønnstrekk0,20 gonger skattemessig verdi av anlegg, fast eigedom og annan realkapital som er på Svalbard ved utgangen av inntektsåretAnna inntekt: 16 pst.
+Skatt på inntekt blir utrekna etter desse satsane:
+
+1. Inntekt som blir skattlagd ved lønnstrekk etter [svalbardskattelova § 3-1](lov/1996-11-29-68/§3-1):
+
+   - Låg sats: 8 pst.
+   - Høg sats: 22 pst.
+2. 22 pst. av den delen av selskapsoverskot som er høgare enn 15 mill. kroner, og som overstig summen av
+
+   - 10 gonger kostnadene til lønn som blir skattlagd ved lønnstrekk
+   - 0,20 gonger skattemessig verdi av anlegg, fast eigedom og annan realkapital som er på Svalbard ved utgangen av inntektsåret
+3. Anna inntekt: 16 pst.
 
 Personlege skattytarar skal ha eit frådrag i alminneleg inntekt som er omfatta av bokstav c, på 20 000 kroner.
 

@@ -15,7 +15,7 @@ xml_hash: "f21cedb0d349e98e14b2dfc36ebfd702d689f99686ed88a12903d3ea3ea877e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,13 +26,24 @@ eu_basis: []
 
 1.1*Fradrag for utgifter til kost*
 
-Når artisten sannsynliggjør at han har hatt utgifter til kost i forbindelse med arrangement i Norge innrømmes fradrag med følgende satser:kr 693 per døgn når artisten sannsynliggjør å ha bodd på hotellkr 554 per døgn når artisten sannsynliggjør å ha bodd på hotell og får fradrag for utgifter til losji inkludert frokost eller disse utgiftene refunderes etter regningkr 400 per døgn når det sannsynliggjøres at artisten har bodd på hybel uten kokemulighet eller på pensjonat eller brakkekr 107 per døgn når artisten har bodd på hybel med kokemuligheter eller har overnattet privat eller han ikke kan sannsynliggjøre hvordan han har innrettet seg i forbindelse med arrangementet.
+Når artisten sannsynliggjør at han har hatt utgifter til kost i forbindelse med arrangement i Norge innrømmes fradrag med følgende satser:
+
+- kr 693 per døgn når artisten sannsynliggjør å ha bodd på hotell
+- kr 554 per døgn når artisten sannsynliggjør å ha bodd på hotell og får fradrag for utgifter til losji inkludert frokost eller disse utgiftene refunderes etter regning
+- kr 400 per døgn når det sannsynliggjøres at artisten har bodd på hybel uten kokemulighet eller på pensjonat eller brakke
+- kr 107 per døgn når artisten har bodd på hybel med kokemuligheter eller har overnattet privat eller han ikke kan sannsynliggjøre hvordan han har innrettet seg i forbindelse med arrangementet.
 
 Utgifter til kost som artisten har dekket for utenlandske medarbeidere i forbindelse med arrangementet i Norge innrømmes etter samme satser per døgn per person.
 
 Krav om sannsynliggjøring innebærer at artisten i vedlegg til melding om trekk må fremlegge en fortløpende oppstilling over hvordan vedkommende har innrettet seg i forbindelse med arrangementet i Norge.
 
-Oppstillingen skal minst inneholde følgende opplysninger:dato for avreise fra og ankomst til utlandetdato for ankomst til og avreise fra Norgereisemåte og reiseveinavn og adresse på overnattingssted/utleier. Ved flere overnattingssteder skal dato for overnattingene angis.type losji fordelt på hotell, pensjonat, brakke eller annet nærmere angitt losji. Ved overnatting på hybel må det oppgis om den har kokemulighet.
+Oppstillingen skal minst inneholde følgende opplysninger:
+
+- dato for avreise fra og ankomst til utlandet
+- dato for ankomst til og avreise fra Norge
+- reisemåte og reisevei
+- navn og adresse på overnattingssted/utleier. Ved flere overnattingssteder skal dato for overnattingene angis.
+- type losji fordelt på hotell, pensjonat, brakke eller annet nærmere angitt losji. Ved overnatting på hybel må det oppgis om den har kokemulighet.
 
 1.2*Fradrag for utgifter til bruk av eget transportmiddel*
 

@@ -28,7 +28,13 @@ Tilskudd etter denne forskriften skal støtte drift av landsdekkende lag, selska
 
 ## § 2. Hvem kan få tilskudd
 
-Politirelaterte lag, selskap og foreninger med organisasjonsnummer fra Enhetsregisteret kan få tilskudd. Søkere må kunne dokumentere:at mottakers aktivitet understøtter politiets samfunnsoppdragat mottaker er partipolitisk uavhengigat medlemskap er åpent for ansatte eller pensjonister i politietatenat mottakers tilbud er landsdekkendeat mottakers aktivitet oppfyller formål som nevnt i [§ 1](forskrift/2022-12-20-2360/§1).
+Politirelaterte lag, selskap og foreninger med organisasjonsnummer fra Enhetsregisteret kan få tilskudd. Søkere må kunne dokumentere:
+
+1. at mottakers aktivitet understøtter politiets samfunnsoppdrag
+2. at mottaker er partipolitisk uavhengig
+3. at medlemskap er åpent for ansatte eller pensjonister i politietaten
+4. at mottakers tilbud er landsdekkende
+5. at mottakers aktivitet oppfyller formål som nevnt i [§ 1](forskrift/2022-12-20-2360/§1).
 
 ## § 3. Kunngjøring og søknadsfrist
 
@@ -40,11 +46,21 @@ Søknad om tilskudd sendes Politidirektoratet. Det kan bare søkes om midler for
 
 ## § 4. Krav til søknaden
 
-Søknaden skal:angi søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktpersonangi hva tilskuddet skal benyttes til, og begrunne behovet for tilskuddangi beløpet det søkes ominneholde et budsjett for tiltaketoppgi hvilke beløp søkeren har søkt om og/eller mottatt fra andre offentlige myndigheter.
+Søknaden skal:
+
+1. angi søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktperson
+2. angi hva tilskuddet skal benyttes til, og begrunne behovet for tilskudd
+3. angi beløpet det søkes om
+4. inneholde et budsjett for tiltaket
+5. oppgi hvilke beløp søkeren har søkt om og/eller mottatt fra andre offentlige myndigheter.
 
 ## § 5. Tildelingskriterier
 
-Politidirektoratet avgjør søknaden etter en vurdering av søknadsopplysningene mot følgende kriterier i prioritert rekkefølge:relevans for politiets samfunnsoppdragantall personer tiltaket kommer til godeskjønnsmessig vurdering av tiltakets effekt opp mot formål som nevnt i [§ 1](forskrift/2022-12-20-2360/§1).
+Politidirektoratet avgjør søknaden etter en vurdering av søknadsopplysningene mot følgende kriterier i prioritert rekkefølge:
+
+1. relevans for politiets samfunnsoppdrag
+2. antall personer tiltaket kommer til gode
+3. skjønnsmessig vurdering av tiltakets effekt opp mot formål som nevnt i [§ 1](forskrift/2022-12-20-2360/§1).
 
 Dersom søkeren har mottatt midler fra andre offentlige myndigheter kan Politidirektoratet avkorte tildelt beløp.
 
@@ -64,7 +80,11 @@ Tilskuddet kan kreves tilbakebetalt helt eller delvis dersom det ikke er brukt i
 
 ## § 9. Tilskuddsmottakerens plikter
 
-Tilskuddsmottaker skal:benytte tilskuddet i samsvar med forskriftens formål, søknaden og tilskuddsvedtaketbenytte tilskuddet i driftsåret det mottas støtte, med mindre tilskuddsvedtaket fastsetter noe annetlevere rapport og regnskap samt dokumentasjon i form av faktura, kvitteringer eller lignende til Politidirektoratet om hvordan tilskuddet har blitt benyttet iht. frist angitt i tilskuddsbrev.
+Tilskuddsmottaker skal:
+
+1. benytte tilskuddet i samsvar med forskriftens formål, søknaden og tilskuddsvedtaket
+2. benytte tilskuddet i driftsåret det mottas støtte, med mindre tilskuddsvedtaket fastsetter noe annet
+3. levere rapport og regnskap samt dokumentasjon i form av faktura, kvitteringer eller lignende til Politidirektoratet om hvordan tilskuddet har blitt benyttet iht. frist angitt i tilskuddsbrev.
 
 ## § 10. Kontroll av at vilkår og betingelser for tilskudd er oppfylt
 

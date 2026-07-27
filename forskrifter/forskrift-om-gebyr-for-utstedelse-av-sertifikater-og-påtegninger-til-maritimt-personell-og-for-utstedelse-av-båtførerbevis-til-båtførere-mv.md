@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder gebyr for:behandling av søknader om sertifikater eller påtegninger som utstedes til maritimt personell, jf. [lov om skipssikkerhet](lov/2007-02-16-9) og [lov om fritids- og småbåter](lov/1998-06-26-47) med tilhørende forskrifterteoretisk båtførerprøve og utstedelse av båtførerbevis til båtførere i henhold til [lov om fritids- og småbåter](lov/1998-06-26-47) med tilhørende forskrifterutstedelse av sjøfartskort, jf. [lov om skipssikkerhet](lov/2007-02-16-9) og forskrift om sjøfartskort og andre identitetsbevis på skip og flyttbare innretninger.
+Forskriften gjelder gebyr for:
+
+1. behandling av søknader om sertifikater eller påtegninger som utstedes til maritimt personell, jf. [lov om skipssikkerhet](lov/2007-02-16-9) og [lov om fritids- og småbåter](lov/1998-06-26-47) med tilhørende forskrifter
+2. teoretisk båtførerprøve og utstedelse av båtførerbevis til båtførere i henhold til [lov om fritids- og småbåter](lov/1998-06-26-47) med tilhørende forskrifter
+3. utstedelse av sjøfartskort, jf. [lov om skipssikkerhet](lov/2007-02-16-9) og forskrift om sjøfartskort og andre identitetsbevis på skip og flyttbare innretninger.
 
 > Endret ved [forskrifter 26 jan 2010 nr. 67](forskrift/2010-01-26-67), [10 des 2025 nr. 2916](forskrift/2025-12-10-2916) (i kraft 1 jan 2026).
 
@@ -46,7 +50,12 @@ Dersom søknad om bevis, sertifikat eller påtegning ikke blir innvilget vil inn
 
 ## § 4. Gebyrsatser for utstedelse av sertifikater og påtegninger til maritimt personell
 
-Gebyr for sertifikat og påtegning skal ha følgende satser:Dekk- og maskinoffisersertifikater og kompetansesertifikat som utstedes av Sjøfartsdirektoratet kr 1 059,–Påtegning/godkjenning av utenlandsk sertifikat kr 1 059,–Tankskipsertifikat, bro- og maskinvaktsertifikater, MOB- og hurtiggående MOB-sertifikat, assessorsertifikater og ferdighetssertifikater kr 706,–Duplikater kr 531,–.
+Gebyr for sertifikat og påtegning skal ha følgende satser:
+
+- Dekk- og maskinoffisersertifikater og kompetansesertifikat som utstedes av Sjøfartsdirektoratet kr 1 059,–
+- Påtegning/godkjenning av utenlandsk sertifikat kr 1 059,–
+- Tankskipsertifikat, bro- og maskinvaktsertifikater, MOB- og hurtiggående MOB-sertifikat, assessorsertifikater og ferdighetssertifikater kr 706,–
+- Duplikater kr 531,–.
 
 > Endret ved [forskrifter 26 jan 2010 nr. 67](forskrift/2010-01-26-67), [22 des 2010 nr. 1797](forskrift/2010-12-22-1797), [5 jan 2012 nr. 16](forskrift/2012-01-05-16), [11 jan 2013 nr. 31](forskrift/2013-01-11-31), [19 des 2013 nr. 1617](forskrift/2013-12-19-1617) (i kraft 1 jan 2014), [19 des 2014 nr. 1856](forskrift/2014-12-19-1856) (i kraft 1 jan 2015), [15 des 2015 nr. 1673](forskrift/2015-12-15-1673) (i kraft 1 jan 2016), [20 des 2016 nr. 1748](forskrift/2016-12-20-1748) (i kraft 1 jan 2017), [18 des 2017 nr. 2199](forskrift/2017-12-18-2199) (i kraft 1 jan 2018), [20 des 2018 nr. 2194](forskrift/2018-12-20-2194) (i kraft 1 jan 2019), [20 des 2019 nr. 2117](forskrift/2019-12-20-2117) (i kraft 1 jan 2020), [23 des 2020 nr. 3161](forskrift/2020-12-23-3161) (i kraft 1 jan 2021), [21 des 2021 nr. 3821](forskrift/2021-12-21-3821) (i kraft 1 jan 2022), [20 des 2022 nr. 2453](forskrift/2022-12-20-2453) (i kraft 1 jan 2023), [22 des 2023 nr. 2317](forskrift/2023-12-22-2317) (i kraft 1 jan 2024), [23 des 2024 nr. 3435](forskrift/2024-12-23-3435) (i kraft 1 jan 2025), [10 des 2025 nr. 2916](forskrift/2025-12-10-2916) (i kraft 1 jan 2026).
 
@@ -64,7 +73,11 @@ Det kan bli avkrevd tillegg for avleggelse av teoretisk prøve og utstedelse av 
 
 ## § 6. Gebyrsatser for teoretisk båtførerprøve, utstedelse av båtførerbevis og internasjonalt båtførersertifikat (ICC)
 
-Gebyr for teoretisk båtførerprøve og utstedelse av båtførerbevis skal ha følgende satser:Teoretisk prøve, førstegangsutstedelse av båtførerbevis og internasjonalt båtførersertifikat, enkeltvis eller samlet kr 940,–Tillegg for avleggelse av ny teoretisk båtførerprøve kr 495,–Utstedelse av båtførerbevis eller internasjonalt båtførersertifikat ved erstatning, innbytte, uten avleggelse av teoretisk prøve og til person som innehar båtførerbevis kr 531,–.
+Gebyr for teoretisk båtførerprøve og utstedelse av båtførerbevis skal ha følgende satser:
+
+- Teoretisk prøve, førstegangsutstedelse av båtførerbevis og internasjonalt båtførersertifikat, enkeltvis eller samlet kr 940,–
+- Tillegg for avleggelse av ny teoretisk båtførerprøve kr 495,–
+- Utstedelse av båtførerbevis eller internasjonalt båtførersertifikat ved erstatning, innbytte, uten avleggelse av teoretisk prøve og til person som innehar båtførerbevis kr 531,–.
 
 Ved avleggelse av teoretisk prøve og utstedelse av båtførerbevis i utlandet, kan det bli avkrevd et tillegg på inntil kr 385,–.
 
@@ -72,7 +85,10 @@ Ved avleggelse av teoretisk prøve og utstedelse av båtførerbevis i utlandet, 
 
 ## § 7. Gebyrsatser for utstedelse av fritidsskippersertifikat
 
-Gebyr for utstedelse av fritidsskippersertifikat skal ha følgende satser:Førstegangsutstedelse av fritidsskippersertifikat kr 1 059,–Utstedelse av duplikat for fritidsskippersertifikat kr 531,–.
+Gebyr for utstedelse av fritidsskippersertifikat skal ha følgende satser:
+
+- Førstegangsutstedelse av fritidsskippersertifikat kr 1 059,–
+- Utstedelse av duplikat for fritidsskippersertifikat kr 531,–.
 
 > Tilføyd ved [forskrift 24 mai 2012 nr. 451](forskrift/2012-05-24-451), endret ved [forskrifter 11 jan 2013 nr. 31](forskrift/2013-01-11-31), [19 des 2013 nr. 1617](forskrift/2013-12-19-1617) (i kraft 1 jan 2014), [19 des 2014 nr. 1856](forskrift/2014-12-19-1856) (i kraft 1 jan 2015), [15 des 2015 nr. 1673](forskrift/2015-12-15-1673) (i kraft 1 jan 2016), [20 des 2016 nr. 1748](forskrift/2016-12-20-1748) (i kraft 1 jan 2017), [18 des 2017 nr. 2199](forskrift/2017-12-18-2199) (i kraft 1 jan 2018), [20 des 2018 nr. 2194](forskrift/2018-12-20-2194) (i kraft 1 jan 2019), [20 des 2019 nr. 2117](forskrift/2019-12-20-2117) (i kraft 1 jan 2020), [23 des 2020 nr. 3161](forskrift/2020-12-23-3161) (i kraft 1 jan 2021), [21 des 2021 nr. 3821](forskrift/2021-12-21-3821) (i kraft 1 jan 2022), [20 des 2022 nr. 2453](forskrift/2022-12-20-2453) (i kraft 1 jan 2023), [22 des 2023 nr. 2317](forskrift/2023-12-22-2317) (i kraft 1 jan 2024), [23 des 2024 nr. 3435](forskrift/2024-12-23-3435) (i kraft 1 jan 2025), [10 des 2025 nr. 2916](forskrift/2025-12-10-2916) (i kraft 1 jan 2026).
 
@@ -94,7 +110,10 @@ Innbetalt gebyr vil ikke bli tilbakebetalt dersom søknaden ikke blir innvilget.
 
 ## § 10. Gebyrsatser for utstedelse av sjøfartskort
 
-Gebyr for utstedelse av sjøfartskort skal ha følgende satser:Sjøfartskort: kr 700,–Duplikat: kr 350,–.
+Gebyr for utstedelse av sjøfartskort skal ha følgende satser:
+
+- Sjøfartskort: kr 700,–
+- Duplikat: kr 350,–.
 
 > Tilføyd ved forskrift [10 des 2025 nr. 2916](forskrift/2025-12-10-2916) (i kraft 1 jan 2026).
 

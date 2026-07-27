@@ -38,7 +38,12 @@ Fondet kan beslutte at støtte til medlemsbank finansiert av støttelån skal gi
 
 Med preferansekapital menes i disse forskriftene kapital med prioritet foran aksjekapital/grunnfondsbeviskapital, men etter ansvarlig lånekapital.
 
-For preferansekapital gjelder følgende:kapitalen gir ikke stemmerett,kapitalen gir avkastning i samme forhold som utbytte på aksjer/grunnfondsbeviskapitalen kan etter beslutning av Fondet konverteres til ordinære aksjer/grunnfondsbevis,preferansekapitalen må godkjennes som kjernekapital etter Finans- og tolldepartementets [forskrift av 1. juni 1990 nr. 435](forskrift/1990-06-01-435) om beregning av ansvarlig kapital for finansinstitusjoner [§ 3](forskrift/1990-06-01-435/§3) pkt. 12.
+For preferansekapital gjelder følgende:
+
+1. kapitalen gir ikke stemmerett,
+2. kapitalen gir avkastning i samme forhold som utbytte på aksjer/grunnfondsbevis
+3. kapitalen kan etter beslutning av Fondet konverteres til ordinære aksjer/grunnfondsbevis,
+4. preferansekapitalen må godkjennes som kjernekapital etter Finans- og tolldepartementets [forskrift av 1. juni 1990 nr. 435](forskrift/1990-06-01-435) om beregning av ansvarlig kapital for finansinstitusjoner [§ 3](forskrift/1990-06-01-435/§3) pkt. 12.
 
 ### § 1-4
 
@@ -70,7 +75,12 @@ Støttelån kan bare ytes dersom vedkommende fond ikke har tilstrekkelige midler
 
 Søknad om støttelån skal inneholde utførlig angivelse av sikringsfondets anvendelse av lånet, herunder om støtte til en medlemsbank skal gis i form av preferansekapital.
 
-Sikringsfond som fremmer søknad om støttelån skal legge ved en fullstendig dokumentasjon av sikringsfondets og den aktuelle medlemsbanks økonomiske stilling, herunder så vidt mulig følgende dokumentasjon:sikringsfondets regnskap for siste kvartal, revidert og godkjent av ekstern revisor,medlemsbankens siste kvartals regnskap, revidert og godkjent av ekstern revisor,vedtatt budsjett for inneværende år, behandlet av medlemsbankens organer,plan for medlemsbankens drift på mellomlang sikt (12-24 mnd.) med angivelse av tiltak som vil kunne få særlig betydning for bankens økonomiske tilpasning.
+Sikringsfond som fremmer søknad om støttelån skal legge ved en fullstendig dokumentasjon av sikringsfondets og den aktuelle medlemsbanks økonomiske stilling, herunder så vidt mulig følgende dokumentasjon:
+
+1. sikringsfondets regnskap for siste kvartal, revidert og godkjent av ekstern revisor,
+2. medlemsbankens siste kvartals regnskap, revidert og godkjent av ekstern revisor,
+3. vedtatt budsjett for inneværende år, behandlet av medlemsbankens organer,
+4. plan for medlemsbankens drift på mellomlang sikt (12-24 mnd.) med angivelse av tiltak som vil kunne få særlig betydning for bankens økonomiske tilpasning.
 
 ### § 2-3
 
@@ -86,7 +96,15 @@ Avslag på søknad om støttelån kan ikke overprøves.
 
 ### § 3-2
 
-Dersom det er fare for at en bank settes under offentlig administrasjon skal Fondet særlig vektlegge:innskyternes interesse,virkningen som offentlig administrasjon i det konkrete tilfelle kan få for tilliten til det norske banksystemets funksjonsdyktighet og virkningen for bankenes muligheter for finansiering i det norske og internasjonale kapitalmarked,øvrig samfunnsøkonomiske konsekvenser av at banken settes under administrasjon,muligheten for at den aktuelle bank senere kan fortsette sin drift på et forsvarlig grunnlag,evne og vilje til omstilling og kostnadsreduksjoner i den enkelte bank,eventuelle alternativer til støttelån/administrasjon, herunder om tiltak kan unngås ved f.eks. sammenslutning/overdragelse til ny(e) eier(e),mulige negative virkninger for konkurransen i finansmarkedet ved å yte støttelån.
+Dersom det er fare for at en bank settes under offentlig administrasjon skal Fondet særlig vektlegge:
+
+1. innskyternes interesse,
+2. virkningen som offentlig administrasjon i det konkrete tilfelle kan få for tilliten til det norske banksystemets funksjonsdyktighet og virkningen for bankenes muligheter for finansiering i det norske og internasjonale kapitalmarked,
+3. øvrig samfunnsøkonomiske konsekvenser av at banken settes under administrasjon,
+4. muligheten for at den aktuelle bank senere kan fortsette sin drift på et forsvarlig grunnlag,
+5. evne og vilje til omstilling og kostnadsreduksjoner i den enkelte bank,
+6. eventuelle alternativer til støttelån/administrasjon, herunder om tiltak kan unngås ved f.eks. sammenslutning/overdragelse til ny(e) eier(e),
+7. mulige negative virkninger for konkurransen i finansmarkedet ved å yte støttelån.
 
 ## Kapittel 4. Vilkår for støttelån.
 
@@ -110,11 +128,26 @@ Ved vurderingen av aktuelle vilkår, bør Fondet så langt som mulig søke å iv
 
 ### § 4-5
 
-Fondet skal stille vilkår som gjelder:Bruken av støttelånet,dersom støtte til medlemsbank gis i form av preferansekapital, skal fondet sette vilkår som er egnet til å sikre preferansekapitalen, herunder tiltak med hensyn til bankens fonds, reserver og aksjekapital og til å sikre forvaltnings- og økonomiske rettigheter knyttet til preferansekapitalen,tiltak som skal gjennomføres av medlemsbank som mottar støtte, herunder tiltak med henblikk på å styrke driftsøkonomien samt krav til nødvendige strukturendringer,retningslinjer for medlemsbankens virksomhet,tilbakebetalingen av støttelånet.
+Fondet skal stille vilkår som gjelder:
+
+1. Bruken av støttelånet,
+2. dersom støtte til medlemsbank gis i form av preferansekapital, skal fondet sette vilkår som er egnet til å sikre preferansekapitalen, herunder tiltak med hensyn til bankens fonds, reserver og aksjekapital og til å sikre forvaltnings- og økonomiske rettigheter knyttet til preferansekapitalen,
+3. tiltak som skal gjennomføres av medlemsbank som mottar støtte, herunder tiltak med henblikk på å styrke driftsøkonomien samt krav til nødvendige strukturendringer,
+4. retningslinjer for medlemsbankens virksomhet,
+5. tilbakebetalingen av støttelånet.
 
 ### § 4-6
 
-Fondet kan videre stille vilkår som gjelder:Krav om at Fondet før utbetaling, etter godkjenning av Finans- og tolldepartementet, kan oppnevne to medlemmer i vedkommende sikringsfond, jf. [lov om Statens Banksikringsfond § 6](lov/1991-03-15-2/§6). De styremedlemmer som oppnevnes av Fondet, skal tre i stedet for to av de fem medlemmene som er valgt av sikringsfondets generalforsamling,nedskrivning av aksje- eller grunnfondsbeviskapital eller annen ansvarlig kapital i medlemsbank som mottar støtte,begrensning av medlemsbankens adgang til å gi avkastning på ansvarlig kapital,tilførsel av ny egenkapital eller annen ansvarlig kapital i tillegg til den støtte en medlemsbank mottar. Dette kan f.eks. gjøres ved at det stilles krav om nyemisjon av aksjekapital eller grunnfondsbevis i forbindelse med at det ytes støttelån,endringer i de styrende organer og/eller i bankens ledelse,lønninger og annen godtgjørelse til bankens ledende ansatte, og godtgjørelse for styreverv,filialer, datterselskaper, utenlandsetableringer, fusjon med annen bank,andre vilkår i samsvar med formålene til støttelånsordningen.
+Fondet kan videre stille vilkår som gjelder:
+
+1. Krav om at Fondet før utbetaling, etter godkjenning av Finans- og tolldepartementet, kan oppnevne to medlemmer i vedkommende sikringsfond, jf. [lov om Statens Banksikringsfond § 6](lov/1991-03-15-2/§6). De styremedlemmer som oppnevnes av Fondet, skal tre i stedet for to av de fem medlemmene som er valgt av sikringsfondets generalforsamling,
+2. nedskrivning av aksje- eller grunnfondsbeviskapital eller annen ansvarlig kapital i medlemsbank som mottar støtte,
+3. begrensning av medlemsbankens adgang til å gi avkastning på ansvarlig kapital,
+4. tilførsel av ny egenkapital eller annen ansvarlig kapital i tillegg til den støtte en medlemsbank mottar. Dette kan f.eks. gjøres ved at det stilles krav om nyemisjon av aksjekapital eller grunnfondsbevis i forbindelse med at det ytes støttelån,
+5. endringer i de styrende organer og/eller i bankens ledelse,
+6. lønninger og annen godtgjørelse til bankens ledende ansatte, og godtgjørelse for styreverv,
+7. filialer, datterselskaper, utenlandsetableringer, fusjon med annen bank,
+8. andre vilkår i samsvar med formålene til støttelånsordningen.
 
 ## Kapittel 5. Mislighold mv.
 

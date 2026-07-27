@@ -54,7 +54,11 @@ Med overføring menes anlegg eller arbeider for å øke vannføringen ved overf�
 
 ### § 3. Konsesjonspliktige tiltak
 
-For andre enn staten kreves det tillatelse fra Kongen (konsesjon) for vassdragsreguleringer og overføringer for produksjon av elektrisk energi som øker vannkraften:med minst 500 naturhestekrefter i et enkelt eller flere vannfall som kan utnyttes under ett,med minst 3.000 naturhestekrefter i hele vassdraget ellersom alene eller sammen med tidligere reguleringer eller overføringer påvirker naturforholdene eller andre allmenne interesser vesentlig.
+For andre enn staten kreves det tillatelse fra Kongen (konsesjon) for vassdragsreguleringer og overføringer for produksjon av elektrisk energi som øker vannkraften:
+
+1. med minst 500 naturhestekrefter i et enkelt eller flere vannfall som kan utnyttes under ett,
+2. med minst 3.000 naturhestekrefter i hele vassdraget eller
+3. som alene eller sammen med tidligere reguleringer eller overføringer påvirker naturforholdene eller andre allmenne interesser vesentlig.
 
 Det kreves tillatelse fra Kongen for vannkraftverk med midlere årsproduksjon over 40 GWh, dersom tiltaket kan være til nevneverdig skade eller ulempe for noen allmenne interesser i vassdraget eller sjøen.
 
@@ -142,7 +146,13 @@ Paragrafen her gjelder ikke for vannkraft over 40 GWh uten egen regulering eller
 
 ### § 11. Krav til konsesjonssøknader
 
-Søknad om konsesjon etter [§ 5](lov/1917-12-14-17/§5) skal gi de nødvendige opplysninger om det planlagte tiltaket. Søknaden skal blant annet inneholdeen teknisk plan for tiltaket, hydrologiske forhold, et manøvreringsreglement og en beregning av årlig vannkraftproduksjonopplysninger om arealbruk og eiendomsforholdopplysninger om forholdet til rettslig bindende planeropplysninger om at eiere av nedenforliggende kraftverk og vannfall har fått anledning til å ta del i reguleringstiltaket, jf. [§§ 23](lov/1917-12-14-17/§23) til [26](lov/1917-12-14-17/§26) (brukseierforeninger)en vurdering av fordelene og ulempene ved tiltaket.
+Søknad om konsesjon etter [§ 5](lov/1917-12-14-17/§5) skal gi de nødvendige opplysninger om det planlagte tiltaket. Søknaden skal blant annet inneholde
+
+1. en teknisk plan for tiltaket, hydrologiske forhold, et manøvreringsreglement og en beregning av årlig vannkraftproduksjon
+2. opplysninger om arealbruk og eiendomsforhold
+3. opplysninger om forholdet til rettslig bindende planer
+4. opplysninger om at eiere av nedenforliggende kraftverk og vannfall har fått anledning til å ta del i reguleringstiltaket, jf. [§§ 23](lov/1917-12-14-17/§23) til [26](lov/1917-12-14-17/§26) (brukseierforeninger)
+5. en vurdering av fordelene og ulempene ved tiltaket.
 
 Er tiltaket omfattet av plan- og [bygningsloven kapittel 14](lov/2008-06-27-71/kap14), skal konsekvensutredninger vedlegges søknaden.
 
@@ -220,7 +230,12 @@ Konsesjonæren skal etter vedtak fra departementet utføre de hydrologiske obser
 
 ### § 17. Fond og andre utbetalinger
 
-I konsesjonen kan det settes vilkår om at konsesjonæren yter tilskudd til et fond, enten ved betaling av et passende engangsbeløp eller ved årlige utbetalinger, som skal fremmereindriften i distriktetfisk, vilt og friluftsliv mv. i kommunen eller kommunenenæring i kommunen eller kommunenesærskilte formål, når dette i det enkelte tilfelle finnes påkrevd av allmenne hensyn eller for å ivareta private interesser som blir skadelidende.
+I konsesjonen kan det settes vilkår om at konsesjonæren yter tilskudd til et fond, enten ved betaling av et passende engangsbeløp eller ved årlige utbetalinger, som skal fremme
+
+1. reindriften i distriktet
+2. fisk, vilt og friluftsliv mv. i kommunen eller kommunene
+3. næring i kommunen eller kommunene
+4. særskilte formål, når dette i det enkelte tilfelle finnes påkrevd av allmenne hensyn eller for å ivareta private interesser som blir skadelidende.
 
 Fondene forfaller til betaling ved byggestart, med mindre annet er bestemt. Blir ytelsene fastsatt som årlige innbetalinger, skal det årlige beløpet justeres automatisk hvert 5. år på grunnlag av justeringsnormer som fastsettes i forskrift av Kongen.
 
@@ -244,7 +259,18 @@ Ved damanlegget kan det treffes militære foranstaltninger for sprenging i krigs
 
 ### § 20. Ytterligere vilkår og pålegg
 
-I konsesjonen kan Kongen sette vilkår for å sikre mot skade på mennesker, miljø eller eiendom, sikre en god landskapsmessig tilpasning og å opprettholde det naturlige liv i vassdraget eller gi fagmyndigheter adgang til å gi pålegg for å fremme disse formålene. Vilkårene eller påleggene kan blant annet omfatteansvar ved anlegg/driftgodkjenning av detaljplaner, landskapsmessige forhold, tilsyn mv.naturforvaltningautomatisk fredete kulturminnerforurensningterskler, biotopjusterende tiltak og erosjonssikringrydding av reguleringssonenregistrering av minstevannføring, vannstand i reguleringsmagasin, krav om skilting og merkingetterundersøkelserluftovermetning
+I konsesjonen kan Kongen sette vilkår for å sikre mot skade på mennesker, miljø eller eiendom, sikre en god landskapsmessig tilpasning og å opprettholde det naturlige liv i vassdraget eller gi fagmyndigheter adgang til å gi pålegg for å fremme disse formålene. Vilkårene eller påleggene kan blant annet omfatte
+
+1. ansvar ved anlegg/drift
+2. godkjenning av detaljplaner, landskapsmessige forhold, tilsyn mv.
+3. naturforvaltning
+4. automatisk fredete kulturminner
+5. forurensning
+6. terskler, biotopjusterende tiltak og erosjonssikring
+7. rydding av reguleringssonen
+8. registrering av minstevannføring, vannstand i reguleringsmagasin, krav om skilting og merking
+9. etterundersøkelser
+10. luftovermetning
 
 I konsesjonen kan det settes ytterligere vilkår når det synes nødvendig for å motvirke skader eller ulemper for allmenne eller private interesser.
 
@@ -438,7 +464,12 @@ Ved gjentatte eller fortsatte overtredelser av spesielle konsesjonsbetingelser f
 
 ### § 35. Overtredelsesgebyr
 
-Departementet kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomt overtrer[§ 3](lov/1967-02-10/§3), [§ 10](lov/1967-02-10/§10) annet ledd eller [§ 15](lov/1967-02-10/§15)pålegg etter [§ 10 første ledd](lov/1917-12-14-17/§10/ledd/1), [§ 29 a andre ledd](lov/1917-12-14-17/§29a/ledd/2) eller [§ 32](lov/1917-12-14-17/§32)konsesjon og konsesjonsvilkår, herunder manøvreringsreglement, eller andre enkeltvedtak etter lovenforskrift, når det er særskilt bestemt i forskriften.
+Departementet kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomt overtrer
+
+1. [§ 3](lov/1967-02-10/§3), [§ 10](lov/1967-02-10/§10) annet ledd eller [§ 15](lov/1967-02-10/§15)
+2. pålegg etter [§ 10 første ledd](lov/1917-12-14-17/§10/ledd/1), [§ 29 a andre ledd](lov/1917-12-14-17/§29a/ledd/2) eller [§ 32](lov/1917-12-14-17/§32)
+3. konsesjon og konsesjonsvilkår, herunder manøvreringsreglement, eller andre enkeltvedtak etter loven
+4. forskrift, når det er særskilt bestemt i forskriften.
 
 Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved individuell utmåling av gebyret, skal det særlig legges vekt på momentene i [forvaltningsloven § 44](lov/1967-02-10/§44) tredje ledd og om det foreligger gjentagelse. Det skal også tas hensyn til om det er truffet vedtak om inndragning av utbytte fra samme forhold.
 

@@ -15,7 +15,7 @@ xml_hash: "90acc76d21bc2c3fffa02ff06eb66f02691da145d1e62d578fb660c3b7b6f772"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,13 @@ Forskriften gjelder norske fiske- og fangstfartøy opplistet i [§§ 8](forskrif
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*fiske- og fangstfartøy (fiskeflåten):* ethvert fartøy som er utstyrt for eller driver høstingsaktivitet i ervervsøyemed, og norske fartøy som bistår norske og utenlandske fiske- og fangstfartøy, herunder transportfartøy som mottar fangst, lete- og forsøksfartøy og fartøy som utfører enhver form for bistand og forsyning.*høstingsaktivitet:* all høsting og annen utnyttelse av viltlevende marine ressurser, herunder annen aktivitet som har sammenheng med høsting og annen utnyttelse av fangst, så som leting etter, omlasting, levering, landing, mottak, transport, oppbevaring, produksjon og omsetning av viltlevende marine ressurser. Gjenfangst og utfisking regnes også som høstingsaktivitet etter denne forskriften. Med gjenfangst og utfisking forstås fiske og fangst av ikke-viltlevende marine ressurser som har sluppet løs, samt fiske og fangst av uønskede marine ressurser.*omlasting:* enhver overføring av fangst på havet fra et fartøy til et annet fartøy, herunder også føring til og fra lås, steng, samleteiner mv.*fisk:* viltlevende marine ressurser.*ansvarshavende om bord:* skipper (skipsfører) om bord på fartøyet som leder av besetningen og med ansvaret for driften av fartøyet.
+I denne forskriften menes med:
+
+1. *fiske- og fangstfartøy (fiskeflåten):* ethvert fartøy som er utstyrt for eller driver høstingsaktivitet i ervervsøyemed, og norske fartøy som bistår norske og utenlandske fiske- og fangstfartøy, herunder transportfartøy som mottar fangst, lete- og forsøksfartøy og fartøy som utfører enhver form for bistand og forsyning.
+2. *høstingsaktivitet:* all høsting og annen utnyttelse av viltlevende marine ressurser, herunder annen aktivitet som har sammenheng med høsting og annen utnyttelse av fangst, så som leting etter, omlasting, levering, landing, mottak, transport, oppbevaring, produksjon og omsetning av viltlevende marine ressurser. Gjenfangst og utfisking regnes også som høstingsaktivitet etter denne forskriften. Med gjenfangst og utfisking forstås fiske og fangst av ikke-viltlevende marine ressurser som har sluppet løs, samt fiske og fangst av uønskede marine ressurser.
+3. *omlasting:* enhver overføring av fangst på havet fra et fartøy til et annet fartøy, herunder også føring til og fra lås, steng, samleteiner mv.
+4. *fisk:* viltlevende marine ressurser.
+5. *ansvarshavende om bord:* skipper (skipsfører) om bord på fartøyet som leder av besetningen og med ansvaret for driften av fartøyet.
 
 > Tilføyd ved forskrift [28 juni 2024 nr. 1521](forskrift/2024-06-28-1521), endret ved forskrift [8 juli 2025 nr. 1504](forskrift/2025-07-08-1504).
 
@@ -128,13 +134,35 @@ Omkostninger i forbindelse med anskaffelse, installasjon og bruk av utstyr som n
 
 ### § 8. Krav om posisjonsrapportering
 
-Bestemmelsene i dette kapittelet gjelder for norske fiske- og fangstfartøy:på eller over 10 meter største lengde, uavhengig av aktivitet og hvor de befinner seg,fra og med 8,00 til og med 9,99 meter største lengde fra og med 1. januar 2026, uavhengig av aktivitet og hvor de befinner seg,uavhengig av størrelse, som oppholder seg i farvann utenfor noen stats jurisdiksjon,uavhengig av størrelse, som høster tare, uavhengig av hvor de befinner seg,uavhengig av størrelse, som er gitt dispensasjon etter [forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel § 5 sjette ledd](forskrift/2014-05-06-607/§5/ledd/6), [§ 5a første ledd](forskrift/2014-05-06-607/§5a/ledd/1), eller [§ 8 fjerde ledd](forskrift/2014-05-06-607/§8/ledd/4),uavhengig av størrelse, som har dispensasjon fra en salgsorganisasjon til å drive kaisalg,uavhengig av størrelse, som har tråltillatelse gitt i medhold av [forskrift 13. oktober 2006 nr. 1157 om spesielle tillatelser til å drive enkelte former for fiske og fangst (konsesjonsforskriften)](forskrift/2006-10-13-1157),uavhengig av størrelse, som driver trålfiske etter reker i området utenfor 12 nautiske mil fra grunnlinjene uten reketråltillatelse,uavhengig av størrelse, som driver trålfiske etter reker uten reketråltillatelse, utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholm fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr,uavhengig av størrelse, som driver fangst av kongekrabbe,uavhengig av størrelse, som driver fangst av skjell,uavhengig av størrelse, som utfører høstingsaktivitet i fiskevernsonen ved Svalbard,uavhengig av størrelse, som deltar i samfiske,uavhengig av størrelse, som deltar i kvotesamarbeid,uavhengig av størrelse, som driver fiske etter leppefisk.
+Bestemmelsene i dette kapittelet gjelder for norske fiske- og fangstfartøy:
+
+1. på eller over 10 meter største lengde, uavhengig av aktivitet og hvor de befinner seg,
+2. fra og med 8,00 til og med 9,99 meter største lengde fra og med 1. januar 2026, uavhengig av aktivitet og hvor de befinner seg,
+3. uavhengig av størrelse, som oppholder seg i farvann utenfor noen stats jurisdiksjon,
+4. uavhengig av størrelse, som høster tare, uavhengig av hvor de befinner seg,
+5. uavhengig av størrelse, som er gitt dispensasjon etter [forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel § 5 sjette ledd](forskrift/2014-05-06-607/§5/ledd/6), [§ 5a første ledd](forskrift/2014-05-06-607/§5a/ledd/1), eller [§ 8 fjerde ledd](forskrift/2014-05-06-607/§8/ledd/4),
+6. uavhengig av størrelse, som har dispensasjon fra en salgsorganisasjon til å drive kaisalg,
+7. uavhengig av størrelse, som har tråltillatelse gitt i medhold av [forskrift 13. oktober 2006 nr. 1157 om spesielle tillatelser til å drive enkelte former for fiske og fangst (konsesjonsforskriften)](forskrift/2006-10-13-1157),
+8. uavhengig av størrelse, som driver trålfiske etter reker i området utenfor 12 nautiske mil fra grunnlinjene uten reketråltillatelse,
+9. uavhengig av størrelse, som driver trålfiske etter reker uten reketråltillatelse, utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholm fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr,
+10. uavhengig av størrelse, som driver fangst av kongekrabbe,
+11. uavhengig av størrelse, som driver fangst av skjell,
+12. uavhengig av størrelse, som utfører høstingsaktivitet i fiskevernsonen ved Svalbard,
+13. uavhengig av størrelse, som deltar i samfiske,
+14. uavhengig av størrelse, som deltar i kvotesamarbeid,
+15. uavhengig av størrelse, som driver fiske etter leppefisk.
 
 Fartøy som nevnt i første ledd skal minst hvert 10. minutt automatisk sende melding om fartøyets posisjon til Fiskeridirektoratet. Krav om å sende melding om fartøyets posisjon gjelder hver dag hele kalenderåret for fartøy som omfattes av første ledd.
 
 Fiskeridirektoratet kan stille krav om posisjonsrapportering utover de tilfeller som er nevnt i første ledd når dette er nødvendig for å kunne føre kontroll med at vilkår i dispensasjonsadganger eller særtillatelser etterleves. Fiskeridirektoratet kan innhente melding om posisjonen for det enkelte fartøy med høyere frekvens enn angitt i denne bestemmelsen.
 
-Melding om posisjon skal inneholde følgende opplysninger:Entydig identifikasjon av fartøyet,fartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med et konfidensintervall på 99 %,dato og tidspunkt for fartøyets posisjon,fart og kurs i rapporteringsøyeblikket ogidentifikasjon av hvilken rapporttype som sendes.
+Melding om posisjon skal inneholde følgende opplysninger:
+
+1. Entydig identifikasjon av fartøyet,
+2. fartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med et konfidensintervall på 99 %,
+3. dato og tidspunkt for fartøyets posisjon,
+4. fart og kurs i rapporteringsøyeblikket og
+5. identifikasjon av hvilken rapporttype som sendes.
 
 Når et fartøy har sendt automatiske posisjonsmeldinger fra samme posisjon i mer enn fire timer, kan slike meldinger sendes en gang hver tolvte time frem til endring av posisjon. Dette gjelder ikke dersom fartøyet oppholder seg i fiskevernsonen ved Svalbard eller andre farvann hvor det er krav om hyppigere rapportering.
 
@@ -154,7 +182,24 @@ Fiskeridirektoratet kan i særlige tilfeller gjøre unntak fra rapporteringsplik
 
 ### § 10. Virkeområde for rapportering om høstingsaktivitet
 
-Bestemmelsene i dette kapittelet gjelder for norske fiske- og fangstfartøy:på eller over 10 meter største lengde, uavhengig av hvor de befinner seg,fra og med 8,00 til og med 9,99 meter største lengde fra og med 1. januar 2026, uavhengig av hvor de befinner seg,uavhengig av størrelse, som oppholder seg i farvann utenfor noen stats jurisdiksjon,uavhengig av størrelse, som utfører høstingsaktivitet i britisk sone,uavhengig av størrelse, som høster tare, uavhengig av hvor de befinner seg,uavhengig av størrelse, som er gitt dispensasjon etter [forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel § 5 sjette ledd](forskrift/2014-05-06-607/§5/ledd/6), [§ 5a første ledd](forskrift/2014-05-06-607/§5a/ledd/1), eller [§ 8 fjerde ledd](forskrift/2014-05-06-607/§8/ledd/4),uavhengig av størrelse, som har dispensasjon fra en salgsorganisasjon til å drive kaisalg,uavhengig av størrelse, som har tråltillatelse gitt i medhold av [forskrift 13. oktober 2006 nr. 1157 om spesielle tillatelser til å drive enkelte former for fiske og fangst (konsesjonsforskriften)](forskrift/2006-10-13-1157),uavhengig av størrelse, som driver trålfiske etter reker i området utenfor 12 nautiske mil fra grunnlinjene uten reketråltillatelse,uavhengig av størrelse, som driver trålfiske etter reker uten reketråltillatelse, utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholm fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr,uavhengig av størrelse, som driver fangst av kongekrabbe,uavhengig av størrelse, som driver fangst av skjell,uavhengig av størrelse, som utfører høstingsaktivitet i fiskevernsonen ved Svalbard,uavhengig av størrelse, som deltar i samfiske,uavhengig av størrelse, som deltar i kvotesamarbeid,uavhengig av størrelse, som driver fiske etter leppefisk.
+Bestemmelsene i dette kapittelet gjelder for norske fiske- og fangstfartøy:
+
+1. på eller over 10 meter største lengde, uavhengig av hvor de befinner seg,
+2. fra og med 8,00 til og med 9,99 meter største lengde fra og med 1. januar 2026, uavhengig av hvor de befinner seg,
+3. uavhengig av størrelse, som oppholder seg i farvann utenfor noen stats jurisdiksjon,
+4. uavhengig av størrelse, som utfører høstingsaktivitet i britisk sone,
+5. uavhengig av størrelse, som høster tare, uavhengig av hvor de befinner seg,
+6. uavhengig av størrelse, som er gitt dispensasjon etter [forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel § 5 sjette ledd](forskrift/2014-05-06-607/§5/ledd/6), [§ 5a første ledd](forskrift/2014-05-06-607/§5a/ledd/1), eller [§ 8 fjerde ledd](forskrift/2014-05-06-607/§8/ledd/4),
+7. uavhengig av størrelse, som har dispensasjon fra en salgsorganisasjon til å drive kaisalg,
+8. uavhengig av størrelse, som har tråltillatelse gitt i medhold av [forskrift 13. oktober 2006 nr. 1157 om spesielle tillatelser til å drive enkelte former for fiske og fangst (konsesjonsforskriften)](forskrift/2006-10-13-1157),
+9. uavhengig av størrelse, som driver trålfiske etter reker i området utenfor 12 nautiske mil fra grunnlinjene uten reketråltillatelse,
+10. uavhengig av størrelse, som driver trålfiske etter reker uten reketråltillatelse, utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholm fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr,
+11. uavhengig av størrelse, som driver fangst av kongekrabbe,
+12. uavhengig av størrelse, som driver fangst av skjell,
+13. uavhengig av størrelse, som utfører høstingsaktivitet i fiskevernsonen ved Svalbard,
+14. uavhengig av størrelse, som deltar i samfiske,
+15. uavhengig av størrelse, som deltar i kvotesamarbeid,
+16. uavhengig av størrelse, som driver fiske etter leppefisk.
 
 Bestemmelsene i dette kapittelet gjelder bare dersom høstingsaktivitet skal utføres etter havneavgang og før neste havneanløp. Fartøy omfattet av krav til å sende melding om havneavgang kan ikke utføre høstingsaktivitet før melding om havneavgang er sendt som beskrevet i [§ 11](forskrift/2009-12-21-1743/§11), jf. [§ 6](forskrift/2009-12-21-1743/§6). Krav om rapportering om høstingsaktivitet gjelder for enhver høstingsaktivitet som utføres av fartøy som omfattes av første ledd. Fartøy som omfattes av første ledd skal rapportere all høstingsaktivitet gjennom hele kalenderåret.
 
@@ -203,7 +248,14 @@ Fartøy som nevnt i [§ 10](forskrift/2009-12-21-1743/§10) skal sende melding o
 
 Som unntak fra tidsfristen i første ledd kan fartøy under 15 meter største lengde sende turens første DCA-melding (melding om fangst) innen 23:59 UTC på turens andre døgn. Meldingen skal da inneholde all fangst og alle fiskeoperasjoner fra både første og andre døgn. Dersom det sendes DCA-melding første døgn, skal det også sendes DCA-melding andre døgn. Deretter sendes DCA-melding daglig som nevnt i første ledd. Dette unntaket gjelder ikke for tilfellene nevnt i tredje ledd bokstav a, b og d til f. Unntaket gjelder heller ikke fartøy på eller over 12 meter største lengde som driver fiske utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr.
 
-Melding om fangst skal sendes uavhengig av om fartøyet har fisket siden forrige melding. Meldingen skal også sendesnår Fiskeridirektoratet eller Kystvakten krever det,ved inspeksjon på sjø,etter og samme dag som melding om havneavgang (DEP) er sendt,samme dag og før melding om havneanløp (POR) er sendt,samme dag og før fartøyet går inn i internasjonalt farvann eller annet lands sone,samme dag og før melding om avslutning av fiske (COX) er sendt.
+Melding om fangst skal sendes uavhengig av om fartøyet har fisket siden forrige melding. Meldingen skal også sendes
+
+1. når Fiskeridirektoratet eller Kystvakten krever det,
+2. ved inspeksjon på sjø,
+3. etter og samme dag som melding om havneavgang (DEP) er sendt,
+4. samme dag og før melding om havneanløp (POR) er sendt,
+5. samme dag og før fartøyet går inn i internasjonalt farvann eller annet lands sone,
+6. samme dag og før melding om avslutning av fiske (COX) er sendt.
 
 Etter at fisket er avsluttet og melding om havneanløp er sendt opphører plikten til å sende melding om fangst.
 
@@ -622,7 +674,10 @@ Melding om havneavgang etter [§ 11](forskrift/2009-12-21-1743/§11), havneanlø
 
 ### § 29. Tekniske feil og feil med kommunikasjonslinjene
 
-Dersom det oppstår teknisk feil i de elektroniske rapporteringssystemene skal fartøyene:Føre posisjonsrapportene manuelt og sende dem via e-post eller funksjonen manuell posisjon i fartøyets elektroniske rapporteringssystem til Fiskeridirektoratet minst en gang hver fjerde time.Føre meldinger angitt i [kapittel III](forskrift/2009-12-21-1743/kapiii) og IV manuelt og sende dem via e-post eller funksjonen manuell posisjon i fartøyets elektroniske rapporteringssystem til Fiskeridirektoratet innen ordinær tidsfrist.
+Dersom det oppstår teknisk feil i de elektroniske rapporteringssystemene skal fartøyene:
+
+1. Føre posisjonsrapportene manuelt og sende dem via e-post eller funksjonen manuell posisjon i fartøyets elektroniske rapporteringssystem til Fiskeridirektoratet minst en gang hver fjerde time.
+2. Føre meldinger angitt i [kapittel III](forskrift/2009-12-21-1743/kapiii) og IV manuelt og sende dem via e-post eller funksjonen manuell posisjon i fartøyets elektroniske rapporteringssystem til Fiskeridirektoratet innen ordinær tidsfrist.
 
 Dersom det oppstår feil med kommunikasjonslinjene, som umuliggjør innsending av posisjonsrapporter og meldinger, skal de skrives ut eller føres manuelt og sendes via e-post eller funksjonen manuell posisjon i fartøyets elektroniske rapporteringssystem til Fiskeridirektoratet innen ordinær tidsfrist.
 
@@ -702,7 +757,10 @@ Oppdatert liste over feilkoder finnes på [Fiskeridirektoratets hjemmesider](htt
 
 ## Vedlegg 3. Sending av manuelle meldinger ved feilsituasjoner
 
-Dersom det oppstår feil i forbindelse med posisjonsrapportering eller elektronisk rapportering mens fisket pågår skal meldingene sendes manuelt til Fiskeridirektoratet via:E-post: [FMC@fiskeridir.no](mailto:FMC@fiskeridir.no), ellerTelefaks: +47 55 23 82 76.
+Dersom det oppstår feil i forbindelse med posisjonsrapportering eller elektronisk rapportering mens fisket pågår skal meldingene sendes manuelt til Fiskeridirektoratet via:
+
+- E-post: [FMC@fiskeridir.no](mailto:FMC@fiskeridir.no), eller
+- Telefaks: +47 55 23 82 76.
 
 Meldingene skal i disse tilfellene utformes som vist nedenfor:
 

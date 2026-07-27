@@ -15,7 +15,7 @@ xml_hash: "aca8ac8dc5a86b08152c15691641597043e2653b4f0b9e283e8a2e04ba437b74"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32014L0040"
@@ -172,7 +172,11 @@ Bevillingshaver og personer som har vesentlig innflytelse på virksomheten, må 
 
 Person som eier en vesentlig del av virksomheten eller et selskap som driver virksomheten, som oppebærer en vesentlig del av dens avkastning, eller som i kraft av sin stilling som leder har vesentlig innflytelse på den, anses alltid for å ha vesentlig innflytelse på virksomheten.
 
-I vurderingen av om en person har vesentlig innflytelse på virksomheten, kan det også tas hensyn til personens nærståendes innflytelse på virksomheten. Med nærstående menes:ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,slektninger i rett oppstigende eller nedstigende linje, samt søskenektefelle til eller person som bor sammen med person som nevnt i bokstav b i ekteskapslignende forhold.
+I vurderingen av om en person har vesentlig innflytelse på virksomheten, kan det også tas hensyn til personens nærståendes innflytelse på virksomheten. Med nærstående menes:
+
+1. ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,
+2. slektninger i rett oppstigende eller nedstigende linje, samt søsken
+3. ektefelle til eller person som bor sammen med person som nevnt i bokstav b i ekteskapslignende forhold.
 
 Departementet kan i forskrift gi nærmere bestemmelser om innholdet i og dokumentasjon av vandelskravene.
 
@@ -204,7 +208,10 @@ Departementet kan i forskrift gi nærmere bestemmelser om opplysnings- og meldep
 
 ### § 14. Bevillingshavers varslingsplikt
 
-Bevillingshaver skal varsle myndighetene på forhånd vedendring i selskapets stedlige plassering eller ved vesentlige endringer som er relevante for den aktiviteten det er gitt bevilling forethvert oppkjøp eller enhver avhending av produksjonsutstyr
+Bevillingshaver skal varsle myndighetene på forhånd ved
+
+1. endring i selskapets stedlige plassering eller ved vesentlige endringer som er relevante for den aktiviteten det er gitt bevilling for
+2. ethvert oppkjøp eller enhver avhending av produksjonsutstyr
 
 Departementet kan i forskrift gi nærmere bestemmelser om varslingsplikten, og gjøre unntak fra den.
 
@@ -240,7 +247,11 @@ Departementet kan i forskrift gi nærmere bestemmelser om internkontroll.
 
 ### § 16 b. Kundekontroll, markedsovervåkning og rapportering
 
-Bevillingshavere plikter ågjennomføre kundekontroll av andre næringsdrivende før og underveis i kundeforholdet, herunder forvisse seg om at bevillingspliktige har bevilling og at registreringspliktige er registrert,overvåke salget til egne næringsdrivende kunder for å sikre at mengden produkter som legges ut i markedet, er i samsvar med etterspørselen etter dette produktet, ograpportere til Helsedirektoratet ved mistanke om at en næringsdrivende kunde har overtrådt bestemmelsene i denne lov.
+Bevillingshavere plikter å
+
+1. gjennomføre kundekontroll av andre næringsdrivende før og underveis i kundeforholdet, herunder forvisse seg om at bevillingspliktige har bevilling og at registreringspliktige er registrert,
+2. overvåke salget til egne næringsdrivende kunder for å sikre at mengden produkter som legges ut i markedet, er i samsvar med etterspørselen etter dette produktet, og
+3. rapportere til Helsedirektoratet ved mistanke om at en næringsdrivende kunde har overtrådt bestemmelsene i denne lov.
 
 Departementet kan i forskrift gi nærmere bestemmelser om kundekontroll, markedsovervåkning og rapportering.
 
@@ -414,7 +425,11 @@ Departementet kan gi forskrifter om gjennomføring og utfylling av disse bestemm
 
 I lokaler og transportmidler hvor allmennheten har adgang skal lufta være røykfri. Det samme gjelder i møterom, arbeidslokaler og serveringslokaler. Utendørs inngangspartier til helseinstitusjoner og offentlige virksomheter skal være røykfrie.
 
-Røyking kan likevel tillates i følgende lokaler:Beboelsesrom i institusjoner som erstatter beboerens hjem. Institusjonen plikter å gi dem som ønsker det, tilbud om røykfrie rom. Denne unntaksbestemmelse gjelder ikke for institusjoner hvor det hovedsakelig bor personer under 18 år.I særskilt angitte oppholdsrom på institusjoner som erstatter beboernes hjem og på innretninger til bruk i petroleumsvirksomheten til havs. Det må tilbys tilsvarende røykfrie oppholdsrom, og disse må ikke være mindre eller av dårligere standard enn lokaler hvor røyking tillates. På samme vilkår kan arbeidsgiver tillate røyking i særskilt angitte rom når virksomhetens art hindrer arbeidstakerne i å forlate arbeidslokalene i løpet av arbeidstiden. Denne unntaksbestemmelse gjelder ikke for institusjoner hvor det hovedsakelig bor personer under 18 år.I inntil halvparten av overnattingsrom på hoteller og andre overnattingssteder. De røykfrie overnattingsrommene må ikke være mindre eller av dårligere standard enn overnattingsrom hvor røyking tillates.
+Røyking kan likevel tillates i følgende lokaler:
+
+1. Beboelsesrom i institusjoner som erstatter beboerens hjem. Institusjonen plikter å gi dem som ønsker det, tilbud om røykfrie rom. Denne unntaksbestemmelse gjelder ikke for institusjoner hvor det hovedsakelig bor personer under 18 år.
+2. I særskilt angitte oppholdsrom på institusjoner som erstatter beboernes hjem og på innretninger til bruk i petroleumsvirksomheten til havs. Det må tilbys tilsvarende røykfrie oppholdsrom, og disse må ikke være mindre eller av dårligere standard enn lokaler hvor røyking tillates. På samme vilkår kan arbeidsgiver tillate røyking i særskilt angitte rom når virksomhetens art hindrer arbeidstakerne i å forlate arbeidslokalene i løpet av arbeidstiden. Denne unntaksbestemmelse gjelder ikke for institusjoner hvor det hovedsakelig bor personer under 18 år.
+3. I inntil halvparten av overnattingsrom på hoteller og andre overnattingssteder. De røykfrie overnattingsrommene må ikke være mindre eller av dårligere standard enn overnattingsrom hvor røyking tillates.
 
 Eieren, driveren eller den som disponerer eller er ansvarlig for lokalene, området eller transportmidlene, plikter å sørge for at reglene gitt i eller i medhold av disse bestemmelsene blir overholdt. Det skal markeres med tydelige skilt at røyking er forbudt på steder hvor det kan være tvil om dette, samt ved inngangen til alle serveringssteder. For å sikre etterlevelse av forbudet mot røyking på serveringssteder og forbudene mot tobakksbruk i barnehager og skoler, jf. [§§ 26](lov/1973-03-09-14/§26) og [27](lov/1973-03-09-14/§27), skal slike steder føre internkontroll og etablere et internkontrollsystem. Internkontrollen skal kunne dokumenteres overfor tilsynsmyndighetene.
 
@@ -450,7 +465,11 @@ Departementet kan i forskrift gi nærmere regler om gjennomføring og utfylling 
 
 Barn har rett til et røykfritt miljø. Den som er ansvarlig for barn skal medvirke til at denne retten blir oppfylt.
 
-Det er forbudt å røykepå arealer utendørs som er opparbeidet for eller tilpasset til bruk til idrett. Områdene skal være røykfrie også når disse brukes til andre formål enn idrettsutøving.på areal, opparbeidet eller naturlig, hvor allmennheten har adgang, og som er tilrettelagt for barns lek (lekeplass).i private kjøretøy med barn under 18 år til stede.
+Det er forbudt å røyke
+
+1. på arealer utendørs som er opparbeidet for eller tilpasset til bruk til idrett. Områdene skal være røykfrie også når disse brukes til andre formål enn idrettsutøving.
+2. på areal, opparbeidet eller naturlig, hvor allmennheten har adgang, og som er tilrettelagt for barns lek (lekeplass).
+3. i private kjøretøy med barn under 18 år til stede.
 
 Forbudet i annet ledd bokstav c gjelder ikke for kjøretøyets boenhet når den anvendes som bosted, eller for kjøretøy uten tak.
 
@@ -508,7 +527,14 @@ Departementet kan i forskrift fastsette krav om tilsvarende standardisering for 
 
 Det er forbudt å føre inn i Norge eller selge tobakksvarer, elektroniske sigaretter og gjenoppfyllingsbeholdere samt urtebaserte røykeprodukter, som ikke er merket med helseadvarsel.
 
-Det er forbudt å føre inn i Norge eller selge tobakksvarer, urtebaserte røykeprodukter, elektroniske sigaretter eller gjenoppfyllingsbeholdere merket med elementer, herunder tekst, navn, varemerke, symboler, illustrasjoner eller andre tegn, somfremmer eller oppfordrer til bruk ved å gi et villledende inntrykk av produktets egenskaper, helseeffekt, risiko eller utslipp,inneholder informasjon om mengden nikotin, tjære eller karbonmonoksid,gir inntrykk av at et spesielt produkt er mindre helseskadelig enn andre eller har vitaliserende, energigivende, helbredende, foryngende, naturlige, økologiske egenskaper eller andre helsemessige eller livsstilsmessige fordeler,henviser til smak, lukt eller andre tilsetningsstoffer eller fraværet av slike,ligner et næringsmiddel eller kosmetikk ellergir inntrykk av at et produkt har miljømessige eller økonomiske fordeler.
+Det er forbudt å føre inn i Norge eller selge tobakksvarer, urtebaserte røykeprodukter, elektroniske sigaretter eller gjenoppfyllingsbeholdere merket med elementer, herunder tekst, navn, varemerke, symboler, illustrasjoner eller andre tegn, som
+
+1. fremmer eller oppfordrer til bruk ved å gi et villledende inntrykk av produktets egenskaper, helseeffekt, risiko eller utslipp,
+2. inneholder informasjon om mengden nikotin, tjære eller karbonmonoksid,
+3. gir inntrykk av at et spesielt produkt er mindre helseskadelig enn andre eller har vitaliserende, energigivende, helbredende, foryngende, naturlige, økologiske egenskaper eller andre helsemessige eller livsstilsmessige fordeler,
+4. henviser til smak, lukt eller andre tilsetningsstoffer eller fraværet av slike,
+5. ligner et næringsmiddel eller kosmetikk eller
+6. gir inntrykk av at et produkt har miljømessige eller økonomiske fordeler.
 
 Bestemmelsene i første ledd gjelder ikke for nikotinfrie elektroniske sigaretter til engangsbruk og nikotinfrie gjenoppfyllingsbeholdere. Forbudet mot informasjon om nikotininnhold i annet ledd bokstav b gjelder ikke for elektroniske sigaretter og gjenoppfyllingsbeholdere. Annet ledd bokstav d og bokstav f gjelder ikke for urtebaserte røykeprodukter, men det kan likevel ikke oppgis at produktet er fritt for tilsetningsstoffer eller aromatilsetninger.
 
@@ -654,7 +680,12 @@ Departementet kan i forskrift gi nærmere bestemmelser om avgrensning og utfylli
 
 ### § 36 d. Pålegg om fjerning av digitalt nettinnhold mv.
 
-Dersom en overtredelse av bestemmelser som Helsedirektoratet fører tilsyn med etter [§ 35](lov/1973-03-09-14/§35), medfører en risiko for alvorlig skade på forbrukernes interesser, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan retten etter begjæring fra Helsedirektoratet og etter reglene i [markedsføringsloven §§ 43 a](lov/2009-01-09-2/§43a) til [43 c](lov/2009-01-09-2/§43c) påleggeen vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Helsedirektoratet.
+Dersom en overtredelse av bestemmelser som Helsedirektoratet fører tilsyn med etter [§ 35](lov/1973-03-09-14/§35), medfører en risiko for alvorlig skade på forbrukernes interesser, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan retten etter begjæring fra Helsedirektoratet og etter reglene i [markedsføringsloven §§ 43 a](lov/2009-01-09-2/§43a) til [43 c](lov/2009-01-09-2/§43c) pålegge
+
+1. en vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,
+2. en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,
+3. en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,
+4. en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Helsedirektoratet.
 
 Ved vurderingen av om pålegg skal gis, skal det blant annet tas hensyn til informasjons- og ytringsfriheten, forbrukernes interesser, saksøktes interesser samt mulighetene for mindre inngripende tiltak.
 

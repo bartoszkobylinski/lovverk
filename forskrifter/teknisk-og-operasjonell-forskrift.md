@@ -37,13 +37,31 @@ Denne forskriften gjelder helse, arbeidsmiljø og sikkerhet ved landanlegg som n
 
 Definisjoner som nevnt i [rammeforskriften § 6](forskrift/2010-02-12-158/§6) gjelder tilsvarende for denne forskriften.
 
-I denne forskriften menes med:*arealdisponeringsplan*, oversikt som viser planlagt plassering av utstyr og anlegg, atkomstveier, internt trafikkmønster og inngjerding,*arealmessig begrensning*, et bestemt avgrenset areal med fastsatte rådighetsbegrensninger rundt utstyr og anlegg,*brannområde*, område, bygning eller rom som er adskilt fra andre områder med brannskille, slik at sannsynligheten for spredning ved en dimensjonerende brann reduseres,*brannskille*, avstand eller skille utført i ubrennbare materialer,*dimensjonerende last*, karakteristisk last multiplisert med lastkoeffisienter,*farlig stoff:**brannfarlig stoff*, fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som i kraft av sitt flammepunkt, kontakt med andre stoffer, trykk, temperatur eller andre kjemiske egenskaper representerer en fare for brann,*eksplosjonsfarlig stoff*, fast, flytende eller gassformig stoff, stoffblanding samt stoff som forekommer i kombinasjon av slike tilstander, som i kraft av sine egenskaper lett vil kunne forårsake eksplosjon ved støt, gnidning, eller ved kontakt med tennkilder eller andre stoffer,*reaksjonsfarlig stoff*, fast, flytende, eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som ved kontakt med vann, ved sitt trykk, temperatur eller andre kjemiske forhold, representerer en fare for farlig reaksjon, eksplosjon eller utslipp av farlig gass, damp, støv eller tåke,*trykksatt stoff*, annet fast, flytende eller gassformig stoff eller stoffblanding enn brann- eller reaksjonsfarlig stoff, som er under trykk, og som derved kan representere en fare ved ukontrollert utslipp,*hovedområde*, område eller byggeblokk på anlegget som inneholder like eller lignende funksjoner,*prosessanlegg*, et fysisk system bestående av utstyr som endrer egenskapene til prosessmediet,*sikkerhetsfunksjoner*, tekniske barriereelementer som skal redusere muligheten for at konkrete feil, fare- og ulykkessituasjoner inntreffer, eller som begrenser eller forhindrer skader eller ulemper,*sikkerhetssystem*, tekniske barriereelementer som er realisert i et felles system.
+I denne forskriften menes med:
+
+1. *arealdisponeringsplan*, oversikt som viser planlagt plassering av utstyr og anlegg, atkomstveier, internt trafikkmønster og inngjerding,
+2. *arealmessig begrensning*, et bestemt avgrenset areal med fastsatte rådighetsbegrensninger rundt utstyr og anlegg,
+3. *brannområde*, område, bygning eller rom som er adskilt fra andre områder med brannskille, slik at sannsynligheten for spredning ved en dimensjonerende brann reduseres,
+4. *brannskille*, avstand eller skille utført i ubrennbare materialer,
+5. *dimensjonerende last*, karakteristisk last multiplisert med lastkoeffisienter,
+6. *farlig stoff:*
+
+   1. *brannfarlig stoff*, fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som i kraft av sitt flammepunkt, kontakt med andre stoffer, trykk, temperatur eller andre kjemiske egenskaper representerer en fare for brann,
+   2. *eksplosjonsfarlig stoff*, fast, flytende eller gassformig stoff, stoffblanding samt stoff som forekommer i kombinasjon av slike tilstander, som i kraft av sine egenskaper lett vil kunne forårsake eksplosjon ved støt, gnidning, eller ved kontakt med tennkilder eller andre stoffer,
+   3. *reaksjonsfarlig stoff*, fast, flytende, eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som ved kontakt med vann, ved sitt trykk, temperatur eller andre kjemiske forhold, representerer en fare for farlig reaksjon, eksplosjon eller utslipp av farlig gass, damp, støv eller tåke,
+   4. *trykksatt stoff*, annet fast, flytende eller gassformig stoff eller stoffblanding enn brann- eller reaksjonsfarlig stoff, som er under trykk, og som derved kan representere en fare ved ukontrollert utslipp,
+7. *hovedområde*, område eller byggeblokk på anlegget som inneholder like eller lignende funksjoner,
+8. *prosessanlegg*, et fysisk system bestående av utstyr som endrer egenskapene til prosessmediet,
+9. *sikkerhetsfunksjoner*, tekniske barriereelementer som skal redusere muligheten for at konkrete feil, fare- og ulykkessituasjoner inntreffer, eller som begrenser eller forhindrer skader eller ulemper,
+10. *sikkerhetssystem*, tekniske barriereelementer som er realisert i et felles system.
 
 > Endret ved [forskrifter 16 des 2014 nr. 1753](forskrift/2014-12-16-1753) (i kraft 1 jan 2015), [17 des 2025 nr. 2638](forskrift/2025-12-17-2638) (i kraft 1 jan 2026).
 
 ### § 4. Forskrifter fastsatt av andre myndigheter
 
-Følgende forskrift unntas på denne forskriftens virkeområde:[forskrift 8. juni 2009 nr. 602 om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)](forskrift/2009-06-08-602).
+Følgende forskrift unntas på denne forskriftens virkeområde:
+
+- [forskrift 8. juni 2009 nr. 602 om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)](forskrift/2009-06-08-602).
 
 > Endret ved [forskrifter 20 des 2012 nr. 1355](forskrift/2012-12-20-1355) (i kraft 1 jan 2013), [16 des 2021 nr. 3740](forskrift/2021-12-16-3740) (i kraft 1 jan 2022).
 
@@ -51,11 +69,30 @@ Følgende forskrift unntas på denne forskriftens virkeområde:[forskrift 8. jun
 
 ### § 5. Valg av utbyggingsløsning
 
-Ved valg av utbyggingsløsning skal det tas hensyn tilstorulykkesrisiko,driftsformen,den geografiske beliggenheten,lokasjonsbetingelsene,regularitetskravene,levetiden,eventuell senere fjerning, ogbehov for utvikling av ny teknologi.
+Ved valg av utbyggingsløsning skal det tas hensyn til
+
+1. storulykkesrisiko,
+2. driftsformen,
+3. den geografiske beliggenheten,
+4. lokasjonsbetingelsene,
+5. regularitetskravene,
+6. levetiden,
+7. eventuell senere fjerning, og
+8. behov for utvikling av ny teknologi.
 
 ### § 6. Utforming av landanlegg
 
-Landanlegg skal baseres på robuste og enklest mulige løsninger og utformes slik atde kan motstå de dimensjonerende lastene og sannsynlige kombinasjoner av disse lastene til enhver tid,storulykkesrisikoen blir så lav som mulig,svikt i en komponent, i et system eller en enkelt feilhandling ikke gir uakseptable konsekvenser,materialhåndtering og transport kan foregå effektivt og forsvarlig,det legges til rette for et forsvarlig arbeidsmiljø,operasjonelle forutsetninger og begrensninger ivaretas på en forsvarlig måte,det legges til rette for at denne forskrifts bestemmelser om helsemessige forhold ivaretas på en forsvarlig måte,det legges til rette for lavest mulig risiko for forurensning, ogdet legges til rette for et forsvarlig vedlikehold.
+Landanlegg skal baseres på robuste og enklest mulige løsninger og utformes slik at
+
+1. de kan motstå de dimensjonerende lastene og sannsynlige kombinasjoner av disse lastene til enhver tid,
+2. storulykkesrisikoen blir så lav som mulig,
+3. svikt i en komponent, i et system eller en enkelt feilhandling ikke gir uakseptable konsekvenser,
+4. materialhåndtering og transport kan foregå effektivt og forsvarlig,
+5. det legges til rette for et forsvarlig arbeidsmiljø,
+6. operasjonelle forutsetninger og begrensninger ivaretas på en forsvarlig måte,
+7. det legges til rette for at denne forskrifts bestemmelser om helsemessige forhold ivaretas på en forsvarlig måte,
+8. det legges til rette for lavest mulig risiko for forurensning, og
+9. det legges til rette for et forsvarlig vedlikehold.
 
 Operatøren skal utarbeide en arealdisponeringsplan.
 
@@ -65,7 +102,11 @@ Tiltak for å beskytte landanlegg mot branner og eksplosjoner skal ha sin basis 
 
 ### § 7. Anlegg, systemer og utstyr
 
-Anlegg, systemer og utstyr skal utformes robust og på enklest mulig måte og slik atmuligheten for menneskelige feilhandlinger begrenses,de eller det kan opereres, prøves og vedlikeholdes med lavest mulig risiko for skade på liv, helse og materielle verdier, ogde eller det er egnet for bruk og i stand til å motstå de belastningene de eller det kan bli utsatt for under drift.
+Anlegg, systemer og utstyr skal utformes robust og på enklest mulig måte og slik at
+
+1. muligheten for menneskelige feilhandlinger begrenses,
+2. de eller det kan opereres, prøves og vedlikeholdes med lavest mulig risiko for skade på liv, helse og materielle verdier, og
+3. de eller det er egnet for bruk og i stand til å motstå de belastningene de eller det kan bli utsatt for under drift.
 
 Anlegg, systemer og utstyr skal være merket slik at det legges til rette for en sikker drift og et forsvarlig vedlikehold.
 
@@ -77,7 +118,16 @@ Utstyr og anlegg som er produsert og kontrollert i overensstemmelse med regelver
 
 ### § 8. Konstruksjoner og materialer
 
-Konstruksjoner og materialer som skal brukes i eller på landanlegg, skal velges med hensyn tilkravene til laster som nevnt i [§ 6](forskrift/2010-04-29-612/§6),framstillings-, sammenføynings- og byggeprosesser,eventuell bruk av materialbeskyttelse,branntekniske egenskaper,sannsynlige endringer i driftsforhold,muligheten for reduksjon av framtidig kjemikaliebruk og forurensning,arbeidstakernes helse og arbeidsmiljø, ogeventuell framtidig fjerning.
+Konstruksjoner og materialer som skal brukes i eller på landanlegg, skal velges med hensyn til
+
+1. kravene til laster som nevnt i [§ 6](forskrift/2010-04-29-612/§6),
+2. framstillings-, sammenføynings- og byggeprosesser,
+3. eventuell bruk av materialbeskyttelse,
+4. branntekniske egenskaper,
+5. sannsynlige endringer i driftsforhold,
+6. muligheten for reduksjon av framtidig kjemikaliebruk og forurensning,
+7. arbeidstakernes helse og arbeidsmiljø, og
+8. eventuell framtidig fjerning.
 
 > Endret ved forskrift [19 des 2022 nr. 2441](forskrift/2022-12-19-2441) (i kraft 1 jan 2023).
 
@@ -89,7 +139,11 @@ Kvalifiseringen eller prøvingen skal demonstrere at gjeldende krav kan oppfylle
 
 ### § 10. Sikkerhetsfunksjoner
 
-Landanlegg skal være utstyrt med nødvendige sikkerhetsfunksjoner som til enhver tid kanoppdage unormale tilstander,hindre at unormale tilstander utvikler seg til fare- og ulykkessituasjoner, ogbegrense skadene ved ulykker.
+Landanlegg skal være utstyrt med nødvendige sikkerhetsfunksjoner som til enhver tid kan
+
+1. oppdage unormale tilstander,
+2. hindre at unormale tilstander utvikler seg til fare- og ulykkessituasjoner, og
+3. begrense skadene ved ulykker.
 
 Det skal fastsettes krav til ytelsen for sikkerhetsfunksjoner.
 
@@ -141,7 +195,19 @@ Sluser for avsending og mottak av rense- og inspeksjonsverktøy skal utformes sl
 
 Elektriske anlegg skal dimensjoneres og konfigureres slik at nødvendig effektbehov kan dekkes i alle driftsmodi.
 
-Elektriske anlegg skal utformes med vern og annen beskyttelse slik at unormale tilstander og feil som kan medføre fare for personellet og landanlegget, unngås. De elektriske anleggene skal utformes med tilstrekkelig beskyttelse mot blant annetelektriske støt under normal bruk og ved feil,termiske virkninger,overstrøm,feilstrømmer,overspenning,underspenning,variasjoner i spenning og frekvens,avbrudd i kraftforsyningen,antennelse av eksplosiv gassatmosfære,elektromagnetiske forstyrrelser, oghelseskade som følge av elektromagnetiske felt.
+Elektriske anlegg skal utformes med vern og annen beskyttelse slik at unormale tilstander og feil som kan medføre fare for personellet og landanlegget, unngås. De elektriske anleggene skal utformes med tilstrekkelig beskyttelse mot blant annet
+
+1. elektriske støt under normal bruk og ved feil,
+2. termiske virkninger,
+3. overstrøm,
+4. feilstrømmer,
+5. overspenning,
+6. underspenning,
+7. variasjoner i spenning og frekvens,
+8. avbrudd i kraftforsyningen,
+9. antennelse av eksplosiv gassatmosfære,
+10. elektromagnetiske forstyrrelser, og
+11. helseskade som følge av elektromagnetiske felt.
 
 Det skal installeres et jordingssystem for å hindre statisk elektrisitet i forbindelse med eksplosiv atmosfære.
 
@@ -175,7 +241,12 @@ Inneklimaet skal være tilpasset det enkelte rommet med hensyn til luftbehov, tr
 
 Det skal velges kjemikalier og tekniske løsninger som hindrer skadelig kjemisk påvirkning og som reduserer behovet for bruk av kjemikalier.
 
-Ved valg, utforming og plassering av utstyr og systemer for lagring, bruk, gjenvinning og destruksjon skal det tas hensyn tilhelse og sikkerhet for personell,korrosjon og andre former for nedbryting av materialer,brann- og eksplosjonsfare, ogrisiko for forurensing.
+Ved valg, utforming og plassering av utstyr og systemer for lagring, bruk, gjenvinning og destruksjon skal det tas hensyn til
+
+1. helse og sikkerhet for personell,
+2. korrosjon og andre former for nedbryting av materialer,
+3. brann- og eksplosjonsfare, og
+4. risiko for forurensing.
 
 ### § 21. Menneske-maskin-grensesnitt og informasjonspresentasjon
 
@@ -341,7 +412,12 @@ Ved ferdigstilling av landanlegg skal det sikres at de oppfyller kravene i denne
 
 Før landanlegg og deler av disse startes opp første gang, eller etter tekniske modifikasjoner, skal ferdigstillingen være gjennomført.
 
-Ved oppstart som nevnt i første ledd, og under drift, skal i tilleggstyringssystemet med tilhørende prosesser, ressurser og driftsorganisasjon være etablert,styrende dokumenter, deriblant tekniske driftsdokumenter, foreligge i oppdatert versjon og være kjent av driftspersonellet,systemer for arbeidstakermedvirkning være etablert, jf. [rammeforskriften § 13](forskrift/2010-02-12-158/§13) ogbedriftshelsetjenesten være operativ.
+Ved oppstart som nevnt i første ledd, og under drift, skal i tillegg
+
+1. styringssystemet med tilhørende prosesser, ressurser og driftsorganisasjon være etablert,
+2. styrende dokumenter, deriblant tekniske driftsdokumenter, foreligge i oppdatert versjon og være kjent av driftspersonellet,
+3. systemer for arbeidstakermedvirkning være etablert, jf. [rammeforskriften § 13](forskrift/2010-02-12-158/§13) og
+4. bedriftshelsetjenesten være operativ.
 
 > Endret ved forskrift [16 des 2021 nr. 3740](forskrift/2021-12-16-3740) (i kraft 1 jan 2022).
 
@@ -551,7 +627,14 @@ Overflateorientert dykking, klokkedykking og metningsdykking ved landanlegg skal
 
 Klokkedykking og metningsdykking ved landanlegg skal gjennomføres i samsvar med krav i innretnings- og aktivitetsforskriften.
 
-Ved overflatedykking skaltrykkammer være tilgjengelig på alle dykkersteder,dykkerlag bestå av minimum fire kvalifiserte personer med dokumentert kompetanse/sertifikater (dykkerleder, dykker, reservedykker og tender (line/slangefører)),det utarbeides prosedyrer som på en klar måte beskriver tekniske, operasjonelle og helsemessige forhold for normaloperasjon, nødssituasjoner og beredskapssituasjoner,trening i bruk av nøds- og beredskapsprosedyrer dokumenteres,det stilles krav til årlig helsekontroll av dykkere,arbeidsgiver ha et system for helsemessig oppfølging av dykkere.
+Ved overflatedykking skal
+
+1. trykkammer være tilgjengelig på alle dykkersteder,
+2. dykkerlag bestå av minimum fire kvalifiserte personer med dokumentert kompetanse/sertifikater (dykkerleder, dykker, reservedykker og tender (line/slangefører)),
+3. det utarbeides prosedyrer som på en klar måte beskriver tekniske, operasjonelle og helsemessige forhold for normaloperasjon, nødssituasjoner og beredskapssituasjoner,
+4. trening i bruk av nøds- og beredskapsprosedyrer dokumenteres,
+5. det stilles krav til årlig helsekontroll av dykkere,
+6. arbeidsgiver ha et system for helsemessig oppfølging av dykkere.
 
 > Endret ved [forskrifter 23 des 2013 nr. 1713](forskrift/2013-12-23-1713) (i kraft 1 jan 2014), [26 april 2019 nr. 543](forskrift/2019-04-26-543) (i kraft 1 mai 2019), [17 des 2025 nr. 2638](forskrift/2025-12-17-2638) (i kraft 1 jan 2026).
 
@@ -575,7 +658,13 @@ Den ansvarlige skal utarbeide planer for beredskap og bekjempelse av uønskede h
 
 ### § 67. Håndtering av fare- og ulykkessituasjoner
 
-Den ansvarlige skal sikre at nødvendige tiltak blir satt i verk så raskt som mulig ved fare- og ulykkessituasjoner slik atrett varsel blir gitt umiddelbart, jf. også [§ 22](forskrift/2010-04-29-612/§22),faresituasjoner ikke utvikler seg til ulykkessituasjoner,personell kan reddes i ulykkessituasjoner,personellet på landanlegget kan evakueres raskt og effektivt til enhver tid,tilstanden kan normaliseres når utviklingen av en fare- og ulykkessituasjon er stanset.
+Den ansvarlige skal sikre at nødvendige tiltak blir satt i verk så raskt som mulig ved fare- og ulykkessituasjoner slik at
+
+1. rett varsel blir gitt umiddelbart, jf. også [§ 22](forskrift/2010-04-29-612/§22),
+2. faresituasjoner ikke utvikler seg til ulykkessituasjoner,
+3. personell kan reddes i ulykkessituasjoner,
+4. personellet på landanlegget kan evakueres raskt og effektivt til enhver tid,
+5. tilstanden kan normaliseres når utviklingen av en fare- og ulykkessituasjon er stanset.
 
 ## Kapittel X. Helsemessige forhold
 
@@ -583,7 +672,12 @@ Den ansvarlige skal sikre at nødvendige tiltak blir satt i verk så raskt som m
 
 Operatøren skal sørge for systemer for kontakt og informasjonsutveksling med kommunen, fylkeskommunen og regionalt helseforetak vedrørende helsemessige forhold.
 
-Systemer for kontakt og informasjonsutveksling skal omfattehygieniske forhold med hensyn til mennesker og miljø,forhold vedrørende ulykker og akutt sykdom som oppstår eller kan oppstå blant personer på landanlegget,transport av syke og skadde, samthelsemessig beredskap.
+Systemer for kontakt og informasjonsutveksling skal omfatte
+
+1. hygieniske forhold med hensyn til mennesker og miljø,
+2. forhold vedrørende ulykker og akutt sykdom som oppstår eller kan oppstå blant personer på landanlegget,
+3. transport av syke og skadde, samt
+4. helsemessig beredskap.
 
 Den ansvarlige skal foreta en risiko- og sårbarhetsanalyse av helsemessige forhold som grunnlag for å forebygge og eventuelt identifisere avvik fra lovgivningens bestemmelser om disse.
 

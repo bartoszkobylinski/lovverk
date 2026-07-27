@@ -26,4 +26,11 @@ eu_basis: []
 
 Tilsynet ifølge lovens § 8-2 tillegges bankinspeksjonen.
 
-Den myndighet som er tillagt Kongen i nedenfornevnte paragrafer, delegeres til Finans- og tolldepartementet:§ 1-2 tredje ledd§ 2-3 tredje ledd§ 2-4 annet ledd§ 2-5 annet ledd§ 4-10 annet ledd§ 9-2 tredje ledd
+Den myndighet som er tillagt Kongen i nedenfornevnte paragrafer, delegeres til Finans- og tolldepartementet:
+
+- § 1-2 tredje ledd
+- § 2-3 tredje ledd
+- § 2-4 annet ledd
+- § 2-5 annet ledd
+- § 4-10 annet ledd
+- § 9-2 tredje ledd

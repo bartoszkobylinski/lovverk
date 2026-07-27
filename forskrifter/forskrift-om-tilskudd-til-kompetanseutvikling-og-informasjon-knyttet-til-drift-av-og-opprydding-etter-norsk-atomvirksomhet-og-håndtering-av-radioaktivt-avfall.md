@@ -28,7 +28,11 @@ Målet for tilskuddsordningen er å bidra med felles kunnskapsoppbygging og god 
 
 ## § 2. Definisjoner
 
-I denne forskriften menes med:*Drift av og opprydding etter norsk atomvirksomhet:* Dette omfatter atomreaktorene i Halden og Kjeller og anlegg for mottak, mellomlagring, behandling og annen disponering av radioaktivt avfall, og anlegg i tilknytning til dette. Atomanlegg defineres i [atomenergiloven § 1 bokstav e](lov/1972-05-12-28/§1/bokstav/e).*Håndtering av radioaktivt avfall:* Dette omfatter mottak, mellomlagring, behandling og annen disponering av radioaktivt avfall, jf. definisjon i [avfallsforskriften § 16-3 bokstav d](forskrift/2004-06-01-930/§16-3/bokstav/d).*Organisasjon med nasjonal dekning:* Organisasjon som retter seg mot hele Norge.
+I denne forskriften menes med:
+
+1. *Drift av og opprydding etter norsk atomvirksomhet:* Dette omfatter atomreaktorene i Halden og Kjeller og anlegg for mottak, mellomlagring, behandling og annen disponering av radioaktivt avfall, og anlegg i tilknytning til dette. Atomanlegg defineres i [atomenergiloven § 1 bokstav e](lov/1972-05-12-28/§1/bokstav/e).
+2. *Håndtering av radioaktivt avfall:* Dette omfatter mottak, mellomlagring, behandling og annen disponering av radioaktivt avfall, jf. definisjon i [avfallsforskriften § 16-3 bokstav d](forskrift/2004-06-01-930/§16-3/bokstav/d).
+3. *Organisasjon med nasjonal dekning:* Organisasjon som retter seg mot hele Norge.
 
 ## § 3. Målgruppe
 
@@ -44,13 +48,25 @@ Tilskudd kan gis til organisasjoner som er registrert i Enhetsregisteret og Friv
 
 ## § 6. Utlysing
 
-Utlysingen skal inneholde:formål med tilskuddsordningen og målgruppekrav som gjelder for å få innvilget søknaden (tildelingskriterier)informasjon om bruk av standardiserte søknadsskjema eller tilskuddsportalvilkår overfor tilskuddsmottaker (inkl. informasjonsplikt i etterhånd og rapporteringsplikter)informasjon om at Norsk nukleær dekommisjonering kan iverksette tiltak for å kontrollere at tilskuddet brukes i samsvar med formåletsøknadsfrist.
+Utlysingen skal inneholde:
+
+1. formål med tilskuddsordningen og målgruppe
+2. krav som gjelder for å få innvilget søknaden (tildelingskriterier)
+3. informasjon om bruk av standardiserte søknadsskjema eller tilskuddsportal
+4. vilkår overfor tilskuddsmottaker (inkl. informasjonsplikt i etterhånd og rapporteringsplikter)
+5. informasjon om at Norsk nukleær dekommisjonering kan iverksette tiltak for å kontrollere at tilskuddet brukes i samsvar med formålet
+6. søknadsfrist.
 
 ## § 7. Krav til søknaden
 
 Søknad om tilskudd skal sendes til forvalteren av tilskuddsordningen innen den søknadsfristen som er fastsatt i kunngjøringen.
 
-Søknaden skal inneholde:organisasjonens organisasjonsnummerbeskrivelse av aktivitetenplan for gjennomføring av aktivitetenbudsjett og finansieringsplan, inkludert oversikt over andre finansieringskilder og eventuelle samarbeidspartnere.
+Søknaden skal inneholde:
+
+1. organisasjonens organisasjonsnummer
+2. beskrivelse av aktiviteten
+3. plan for gjennomføring av aktiviteten
+4. budsjett og finansieringsplan, inkludert oversikt over andre finansieringskilder og eventuelle samarbeidspartnere.
 
 Norsk nukleær dekommisjonering kan kreve at søkeren gir flere opplysninger dersom det er nødvendig for å vurdere søknaden.
 
@@ -58,7 +74,12 @@ Norsk nukleær dekommisjonering kan kreve at søkeren gir flere opplysninger der
 
 Tilskudd etter denne forskriften skal gå til oppbygging av kompetanse og/eller gjennomføring av aktiviteter som bidrar til å oppnå målet med tilskuddsordningen, jf. [§ 1](forskrift/2025-10-20-2078/§1).
 
-Tilskuddet skal bidra til en eller flere av følgende aktiviteter:øke organisasjonenes kompetanse om drift og opprydding etter den norske atomvirksomheten og håndtering av radioaktivt avfallinformere og involvere organisasjonenes medlemmerinformere og involvere interesserte innbyggeredelta i prosesser opp mot Norsk nukleær dekommisjonering for å gi innspill til etatens arbeid.
+Tilskuddet skal bidra til en eller flere av følgende aktiviteter:
+
+1. øke organisasjonenes kompetanse om drift og opprydding etter den norske atomvirksomheten og håndtering av radioaktivt avfall
+2. informere og involvere organisasjonenes medlemmer
+3. informere og involvere interesserte innbyggere
+4. delta i prosesser opp mot Norsk nukleær dekommisjonering for å gi innspill til etatens arbeid.
 
 Det kan gis tilskudd til dekning av lønn for interne ressurser knyttet til gjennomføring av disse aktivitetene.
 
@@ -68,7 +89,11 @@ Det legges til grunn at ressursbruken i gjennomføringen av aktivitetene skal v�
 
 Vedtak om tilskudd fattes av Norsk nukleær dekommisjonering etter en samlet vurdering av søknaden.
 
-Søknader om tilskudd vurderes på bakgrunn av:hvor godt aktiviteter og tiltak det søkes tilskudd til vurderes å bidra til å nå målet for ordningen, jf. [§ 1](forskrift/2025-10-20-2078/§1)økonomisk støtte organisasjonen mottar, eller vil motta, fra andre offentlige instanser til samme formål som i søknadenfor tilskudd til organisasjoner med nasjonal dekning vil prosjekter med et langsiktig tidsperspektiv bli prioritert.
+Søknader om tilskudd vurderes på bakgrunn av:
+
+1. hvor godt aktiviteter og tiltak det søkes tilskudd til vurderes å bidra til å nå målet for ordningen, jf. [§ 1](forskrift/2025-10-20-2078/§1)
+2. økonomisk støtte organisasjonen mottar, eller vil motta, fra andre offentlige instanser til samme formål som i søknaden
+3. for tilskudd til organisasjoner med nasjonal dekning vil prosjekter med et langsiktig tidsperspektiv bli prioritert.
 
 Den samlede rammen for tilskuddsordningen følger av Stortingets årlige budsjettvedtak. Tilskuddsforvalteren kan avslå søknader med henvisning til at det ikke er budsjettmessig rom for å innvilge søknaden.
 
@@ -82,7 +107,11 @@ Nærings- og fiskeridepartementet er klageinstans for enkeltvedtak om tilskudd f
 
 Tilskuddsmottakeren skal levere rapport og regnskap til Norsk nukleær dekommisjonering om hvordan tilskuddet har blitt brukt. Fristen for å sende inn regnskap og rapport skal fremgå av tilskuddsbrevet. Rapporten må inneholde informasjon som gjør det mulig å vurdere måloppnåelse for tilskuddet. For å avklare måloppnåelse kan det stilles oppfølgende krav til rapporteringen fra enkeltmottakere av tilskudd. Særskilte krav til rapporteringen vil fremgå av tilskuddsbrevet eller inngå som en del av oppfølgingen av rapporten.
 
-Følgende kriterier skal legges til grunn ved vurdering av måloppnåelse:Organisasjonene som får tilskudd får økt kompetanse om drift av og opprydding etter den norske atomvirksomheten og håndtering av atomavfallBerørte innbyggere får økt kompetanse om drift av og opprydding etter den norske atomvirksomheten og håndtering av atomavfallNorsk nukleær dekommisjonering får innspill fra organisasjonene om relevante saker innenfor etatens ansvarsområde.
+Følgende kriterier skal legges til grunn ved vurdering av måloppnåelse:
+
+1. Organisasjonene som får tilskudd får økt kompetanse om drift av og opprydding etter den norske atomvirksomheten og håndtering av atomavfall
+2. Berørte innbyggere får økt kompetanse om drift av og opprydding etter den norske atomvirksomheten og håndtering av atomavfall
+3. Norsk nukleær dekommisjonering får innspill fra organisasjonene om relevante saker innenfor etatens ansvarsområde.
 
 Norsk nukleær dekommisjonering kan kreve at søkeren gir flere opplysninger som er nødvendige for å vurdere måloppnåelsen.
 

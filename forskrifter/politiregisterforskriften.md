@@ -15,7 +15,7 @@ xml_hash: "7a61e5f45a4909430151b2803cd8a73f6d3d2cc1efb4cc392c606144d8d1d801"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,13 +36,23 @@ Når behandling av opplysninger nødvendiggjør en avveining mellom hensynet til
 
 ### § 1-2. Definisjoner
 
-I tillegg til definisjonene i [politiregisterloven § 2](lov/2010-05-28-16/§2) gjøres det følgende presiseringer:*personopplysning:* biologisk materiale, som blod, spytt, hår med videre anses som personopplysning dersom materialet er analysert eller på annen måte er identifisert, slik at det kan knyttes til en person. Opplysninger om lokasjonsdata, online-identifikatorer og faktorer knyttet til genetisk informasjon regnes også som personopplysning når de kan knyttes til person. En opplysning anses ikke som personopplysning dersom det må brukes uforholdsmessig mye arbeid, tid eller ressurser for å identifisere personen, og*straffesak:* omfatter også sivile krav som behandles etter [straffeprosesslovens](lov/1981-05-22-25) regler fordi de blir fremsatt i forbindelse med en straffesak, herunder krav om erstatning fra gjerningspersonen som følge av lovbruddet. Det samme gjelder krav om erstatning for uberettiget forfølgelse.
+I tillegg til definisjonene i [politiregisterloven § 2](lov/2010-05-28-16/§2) gjøres det følgende presiseringer:
+
+1. *personopplysning:* biologisk materiale, som blod, spytt, hår med videre anses som personopplysning dersom materialet er analysert eller på annen måte er identifisert, slik at det kan knyttes til en person. Opplysninger om lokasjonsdata, online-identifikatorer og faktorer knyttet til genetisk informasjon regnes også som personopplysning når de kan knyttes til person. En opplysning anses ikke som personopplysning dersom det må brukes uforholdsmessig mye arbeid, tid eller ressurser for å identifisere personen, og
+2. *straffesak:* omfatter også sivile krav som behandles etter [straffeprosesslovens](lov/1981-05-22-25) regler fordi de blir fremsatt i forbindelse med en straffesak, herunder krav om erstatning fra gjerningspersonen som følge av lovbruddet. Det samme gjelder krav om erstatning for uberettiget forfølgelse.
 
 > Endret ved forskrifter [19 juni 2015 nr. 673](forskrift/2015-06-19-673) (i kraft 1 okt 2015), [27 april 2018 nr. 643](forskrift/2018-04-27-643) (i kraft 6 mai 2018).
 
 ### § 1-3. Virkeområde
 
-I tillegg til virkeområdet som angitt i [politiregisterloven § 3](lov/2010-05-28-16/§3), kommer loven til anvendelsefor politisambandsmenn og andre som utfører tjeneste i utlandet for politiet og påtalemyndigheten, ansatte i Politidirektoratet, ansatte og studenter ved Politihøgskolen og personer som gjør tjeneste ved politiet og påtalemyndigheten uten å være tilsatt,for utenlandske tjenestemenn som i henhold til internasjonale avtaler deltar i etterforskning eller annet politimessig arbeid i Norge,når opplysninger behandles delvis til politimessige og delvis til forvaltningsmessige formål ved behandling som nevnt i [politiregisterloven § 14](lov/2010-05-28-16/§14),når politiet og påtalemyndigheten behandler opplysninger i medhold av spesiallovgivning så langt ikke annet følger av spesiallovgivningen som regulerer behandlingsmåten,for behandling av supplerende opplysninger som nevnt i [SIS-loven § 11](lov/1999-07-16-66/§11), ogfor behandling av opplysninger som helt eller delvis skjer med elektroniske hjelpemidler, herunder automatisert eller datamaskinbasert opptak av lyd og bilder som er søkbare.
+I tillegg til virkeområdet som angitt i [politiregisterloven § 3](lov/2010-05-28-16/§3), kommer loven til anvendelse
+
+1. for politisambandsmenn og andre som utfører tjeneste i utlandet for politiet og påtalemyndigheten, ansatte i Politidirektoratet, ansatte og studenter ved Politihøgskolen og personer som gjør tjeneste ved politiet og påtalemyndigheten uten å være tilsatt,
+2. for utenlandske tjenestemenn som i henhold til internasjonale avtaler deltar i etterforskning eller annet politimessig arbeid i Norge,
+3. når opplysninger behandles delvis til politimessige og delvis til forvaltningsmessige formål ved behandling som nevnt i [politiregisterloven § 14](lov/2010-05-28-16/§14),
+4. når politiet og påtalemyndigheten behandler opplysninger i medhold av spesiallovgivning så langt ikke annet følger av spesiallovgivningen som regulerer behandlingsmåten,
+5. for behandling av supplerende opplysninger som nevnt i [SIS-loven § 11](lov/1999-07-16-66/§11), og
+6. for behandling av opplysninger som helt eller delvis skjer med elektroniske hjelpemidler, herunder automatisert eller datamaskinbasert opptak av lyd og bilder som er søkbare.
 
 ### § 1-4. Forholdet til internasjonale forpliktelser
 
@@ -54,7 +64,15 @@ I tillegg til virkeområdet som angitt i [politiregisterloven § 3](lov/2010-05-
 
 ### § 2-1. Hvem som har behandlingsansvaret
 
-Med mindre noe annet er særskilt bestemt ligger behandlingsansvaret for behandling av opplysninger hosRiksadvokaten for behandling ved Riksadvokatembetet,Embetslederne for behandling ved statsadvokatembetene,Politimestrene for behandling i politidistriktene,Sysselmesteren for behandling på Svalbard,Sjefen for Politiets sikkerhetstjeneste og lederne for særorganene for behandling i disse organene,Forsvarssjefen for behandling som nevnt i loven § 3 tredje ledd, og(Opphevet)
+Med mindre noe annet er særskilt bestemt ligger behandlingsansvaret for behandling av opplysninger hos
+
+1. Riksadvokaten for behandling ved Riksadvokatembetet,
+2. Embetslederne for behandling ved statsadvokatembetene,
+3. Politimestrene for behandling i politidistriktene,
+4. Sysselmesteren for behandling på Svalbard,
+5. Sjefen for Politiets sikkerhetstjeneste og lederne for særorganene for behandling i disse organene,
+6. Forsvarssjefen for behandling som nevnt i loven § 3 tredje ledd, og
+7. (Opphevet)
 
 > Endret ved [forskrifter 17 sep 2021 nr. 2776](forskrift/2021-09-17-2776), [14 juni 2024 nr. 1008](forskrift/2024-06-14-1008) (i kraft 1 juli 2024).
 
@@ -204,7 +222,17 @@ Tilgang til andre organer enn de som er nevnt i bestemmelsens første ledd kan k
 
 ### § 8-2. Til hvilke formål tilgang kan gis
 
-Tilgang til opplysninger kan gis til formål som omfattes av [politiregisterloven](lov/2010-05-28-16), jf. [politiregisterloven § 21 første ledd](lov/2010-05-28-16/§21/ledd/1), når det er nødvendig forbehandling av opplysninger til politimessige formål, jf. [politiregisterloven § 2](lov/2010-05-28-16/§2) nr. 13,behandling av opplysninger i straffesaker, herunder også påtalemessige formål, jf. også [politiregisterloven § 5 nr. 1](lov/2010-05-28-16/§5/nummer/1),å sikre at behandling av opplysninger skjer i samsvar med [politiregisterloven](lov/2010-05-28-16) og tilhørende forskrift, jf. også [§ 2-2](forskrift/2013-09-20-1097/§2-2),drift og administrasjon av informasjonssystemet,opplæring,å utføre oppgaver knyttet til vandelskontroll, jf. [kapittel 7](lov/2010-05-28-16/kap7) i [politiregisterloven](lov/2010-05-28-16),formål som nevnt i [politiregisterloven § 32](lov/2010-05-28-16/§32) om statistisk bearbeiding mv.,behandling av opplysninger til formål som nevnt i [politiregisterloven § 64](lov/2010-05-28-16/§64), ogandre formål når det er særskilt bestemt i lov eller i forskrift gitt i medhold av lov.
+Tilgang til opplysninger kan gis til formål som omfattes av [politiregisterloven](lov/2010-05-28-16), jf. [politiregisterloven § 21 første ledd](lov/2010-05-28-16/§21/ledd/1), når det er nødvendig for
+
+1. behandling av opplysninger til politimessige formål, jf. [politiregisterloven § 2](lov/2010-05-28-16/§2) nr. 13,
+2. behandling av opplysninger i straffesaker, herunder også påtalemessige formål, jf. også [politiregisterloven § 5 nr. 1](lov/2010-05-28-16/§5/nummer/1),
+3. å sikre at behandling av opplysninger skjer i samsvar med [politiregisterloven](lov/2010-05-28-16) og tilhørende forskrift, jf. også [§ 2-2](forskrift/2013-09-20-1097/§2-2),
+4. drift og administrasjon av informasjonssystemet,
+5. opplæring,
+6. å utføre oppgaver knyttet til vandelskontroll, jf. [kapittel 7](lov/2010-05-28-16/kap7) i [politiregisterloven](lov/2010-05-28-16),
+7. formål som nevnt i [politiregisterloven § 32](lov/2010-05-28-16/§32) om statistisk bearbeiding mv.,
+8. behandling av opplysninger til formål som nevnt i [politiregisterloven § 64](lov/2010-05-28-16/§64), og
+9. andre formål når det er særskilt bestemt i lov eller i forskrift gitt i medhold av lov.
 
 I tillegg skal det gis tilgang til overordnet organ i forbindelse med organets klagebehandling, kontroll- og tilsynsvirksomhet uavhengig av eventuelle tilgangsbegrensninger som er fastsatt i denne forskriften. Det samme gjelder for andre tilsynsorganer når det er fastsatt i lov eller i forskrift gitt i medhold av lov. Bestemmelsen i [§ 8-4](forskrift/2013-09-20-1097/§8-4) tredje ledd om bemyndigelse gjelder ikke for tilgang i kontroll- og tilsynsøyemed.
 
@@ -268,7 +296,20 @@ Før opplysninger utleveres skal det foretas en nødvendighetsvurdering, jf. [§
 
 ### § 9-6. Utlevering av opplysninger til andre offentlige organer i deres interesse
 
-I medhold av [politiregisterloven § 30](lov/2010-05-28-16/§30) kan det blant annet utleveres opplysninger til:skatteetaten for skatte- og avgiftsmessige formål og folkeregisterformål, og den kommunale skatteoppkreveren i forbindelse med arbeidsgiverkontrollen og skatteinnkrevingen,toll- og avgiftsetaten for toll- og avgiftsmessige formål, kontrollen med vareførselen og bistand i utlendingskontrollen,virksomheter som yter tjenester etter [spesialisthelsetjenesteloven](lov/1999-07-02-61) og [helse- og omsorgstjenesteloven](lov/2011-06-24-30),Statens innkrevingssentral til bruk i innkrevingsvirksomheten og i forbindelse med innhenting og videreformidling av opplysninger til andre namsmyndigheter,tilsynsorganer for å fremme deres oppgaver etter lov og forskrift gitt i medhold av lov,etterretningstjenesten for forebyggelses- og sikkerhetsmessige formål,barnevernsmyndighetene i forbindelse med barnevernstjenestens ivaretakelse av sine oppgaver etter [barnevernsloven](lov/2021-06-18-97),arbeids- og velferdsforvaltningen, herunder NAV i forbindelse med ivaretakelsen av oppgaver etter [folketrygdloven](lov/1997-02-28-19) og [lov om sosiale tjenester i arbeids- og velferdsforvaltningen](lov/2009-12-18-131),utlendingsmyndighetene, for deres bruk i saker etter [utlendingsloven](lov/2008-05-15-35) og [statsborgerloven](lov/2005-06-10-51), som for eksempel saker om visum, beskyttelse, oppholdstillatelse, statsborgerskap, tilbakekall, bortvisning, utvisning og frivillig retur,kriminalomsorgen for straffegjennomføringsmessige formål,Nasjonal sikkerhetsmyndighet og klareringsmyndighetene til formål personkontroll, ogkommunene i forbindelse med vurdering av om salgs-, skjenke- og serveringsbevillinger skal gis.
+I medhold av [politiregisterloven § 30](lov/2010-05-28-16/§30) kan det blant annet utleveres opplysninger til:
+
+1. skatteetaten for skatte- og avgiftsmessige formål og folkeregisterformål, og den kommunale skatteoppkreveren i forbindelse med arbeidsgiverkontrollen og skatteinnkrevingen,
+2. toll- og avgiftsetaten for toll- og avgiftsmessige formål, kontrollen med vareførselen og bistand i utlendingskontrollen,
+3. virksomheter som yter tjenester etter [spesialisthelsetjenesteloven](lov/1999-07-02-61) og [helse- og omsorgstjenesteloven](lov/2011-06-24-30),
+4. Statens innkrevingssentral til bruk i innkrevingsvirksomheten og i forbindelse med innhenting og videreformidling av opplysninger til andre namsmyndigheter,
+5. tilsynsorganer for å fremme deres oppgaver etter lov og forskrift gitt i medhold av lov,
+6. etterretningstjenesten for forebyggelses- og sikkerhetsmessige formål,
+7. barnevernsmyndighetene i forbindelse med barnevernstjenestens ivaretakelse av sine oppgaver etter [barnevernsloven](lov/2021-06-18-97),
+8. arbeids- og velferdsforvaltningen, herunder NAV i forbindelse med ivaretakelsen av oppgaver etter [folketrygdloven](lov/1997-02-28-19) og [lov om sosiale tjenester i arbeids- og velferdsforvaltningen](lov/2009-12-18-131),
+9. utlendingsmyndighetene, for deres bruk i saker etter [utlendingsloven](lov/2008-05-15-35) og [statsborgerloven](lov/2005-06-10-51), som for eksempel saker om visum, beskyttelse, oppholdstillatelse, statsborgerskap, tilbakekall, bortvisning, utvisning og frivillig retur,
+10. kriminalomsorgen for straffegjennomføringsmessige formål,
+11. Nasjonal sikkerhetsmyndighet og klareringsmyndighetene til formål personkontroll, og
+12. kommunene i forbindelse med vurdering av om salgs-, skjenke- og serveringsbevillinger skal gis.
 
 Før opplysninger utleveres i henhold til første ledd skal det foretas en nødvendighetsvurdering, jf. [§ 4-2](forskrift/2013-09-20-1097/§4-2), hvor det blant annet skal legges vekt på om mottakerorganet vil settes i stand til å treffe en riktigere eller mer velbegrunnet avgjørelse, eller utføre en mer effektiv og hensiktsmessig tjeneste enn om det ikke hadde mottatt opplysningene.
 
@@ -278,7 +319,14 @@ Vilkåret om å hindre at virksomhet blir utøvd på uforsvarlig måte vil særl
 
 ### § 9-7. Utlevering av opplysninger til private i deres interesse
 
-Etter [politiregisterloven § 31](lov/2010-05-28-16/§31) kan det blant annet utleveres opplysninger til:banker og finansinstitusjoner,forsikringsselskaper,arbeidsgiver- og arbeidstakerorganisasjoner,bransjeorganisasjoner,private virksomheter som yter tjenester etter [spesialisthelsetjenesteloven](lov/1999-07-02-61) og [helse- og omsorgstjenesteloven](lov/2011-06-24-30),vaktselskaper.
+Etter [politiregisterloven § 31](lov/2010-05-28-16/§31) kan det blant annet utleveres opplysninger til:
+
+1. banker og finansinstitusjoner,
+2. forsikringsselskaper,
+3. arbeidsgiver- og arbeidstakerorganisasjoner,
+4. bransjeorganisasjoner,
+5. private virksomheter som yter tjenester etter [spesialisthelsetjenesteloven](lov/1999-07-02-61) og [helse- og omsorgstjenesteloven](lov/2011-06-24-30),
+6. vaktselskaper.
 
 Før opplysninger utleveres i henhold til første ledd skal det foretas en nødvendighetsvurdering, jf. [§ 4-2](forskrift/2013-09-20-1097/§4-2), hvor det blant annet skal legges vekt på om mottakeren vil settes i stand til å treffe en riktigere eller mer velbegrunnet avgjørelse, eller utføre en mer effektiv og hensiktsmessig tjeneste enn om de ikke hadde mottatt opplysningene.
 
@@ -288,7 +336,12 @@ Med private menes alle som ikke faller innunder begrepet «offentlige organer»,
 
 ### § 9-8. Utlevering av opplysninger til allmennheten i straffesak
 
-Opplysninger kan utleveres til allmennheten i straffesak i en refererende og nøktern form uten vurderende kommentarer, jf. [politiregisterloven § 34](lov/2010-05-28-16/§34), for åmedvirke til en saklig og nøktern reportasje og omtale i massemedia om strafforfølgning og behandling av straffesaker,korrigere uriktigheter eller usanne rykter og opplysninger som er egnet til å skade omdømmet til noen person, organisasjon, institusjon, virksomhet mv., eller for å skape nødvendig balanse i en omtale,advare mot fare og for å oppklare lovbrudd, ellerfremme alminnelig lovlydighet.
+Opplysninger kan utleveres til allmennheten i straffesak i en refererende og nøktern form uten vurderende kommentarer, jf. [politiregisterloven § 34](lov/2010-05-28-16/§34), for å
+
+1. medvirke til en saklig og nøktern reportasje og omtale i massemedia om strafforfølgning og behandling av straffesaker,
+2. korrigere uriktigheter eller usanne rykter og opplysninger som er egnet til å skade omdømmet til noen person, organisasjon, institusjon, virksomhet mv., eller for å skape nødvendig balanse i en omtale,
+3. advare mot fare og for å oppklare lovbrudd, eller
+4. fremme alminnelig lovlydighet.
 
 Opplysninger som lett kan røpe identitet, herunder navn, skal ikke utleveres med mindre dette er påkrevd ut fra formålet med meddelelsen, eller navnet allerede må antas å være velkjent i forbindelse med saken, eller nærmere identifisering er nødvendig for å unngå at mistanke kan rettes mot uskyldige.
 
@@ -348,7 +401,11 @@ Dersom gjenlevende forelder siktes eller tiltales for forsettlig å ha voldt den
 
 ### § 10-5. Underretning til kriminalomsorgens organer
 
-Politiet skal straks av eget tiltak underrette kriminalomsorgen om forhold knyttet til personer som er underlagt kriminalomsorgen og som gjennomfører straff som nevnt i [straffegjennomføringsloven § 10](lov/2001-05-18-21/§10) og som gjelderiverksatt etterforsking mot personen,at en person som er under straffegjennomføring har brutt vilkårene for gjennomføringen, ogoversikt over straffbare forhold en person tidligere er dømt for i utlandet i forbindelse med overføring til varetekt eller straffegjennomføring.
+Politiet skal straks av eget tiltak underrette kriminalomsorgen om forhold knyttet til personer som er underlagt kriminalomsorgen og som gjennomfører straff som nevnt i [straffegjennomføringsloven § 10](lov/2001-05-18-21/§10) og som gjelder
+
+1. iverksatt etterforsking mot personen,
+2. at en person som er under straffegjennomføring har brutt vilkårene for gjennomføringen, og
+3. oversikt over straffbare forhold en person tidligere er dømt for i utlandet i forbindelse med overføring til varetekt eller straffegjennomføring.
 
 ### § 10-6. Underretning til vedkommende offentlige myndighet om etterforsking mot en offentlig tjenestemann m.m.
 
@@ -378,7 +435,22 @@ Når det foreligger endelig dom på tap av rettighet som nevnt i [straffeloven �
 
 ### § 10-9. Underretning til militære myndigheter om strafferettslige forføyninger mot militærpersoner
 
-Politiet skal straks gi underretning til forsvaret:når befalingsmann (fastlønnet, vernepliktig eller utskrevet), menig som er i tjeneste eller sivil i tjeneste i forsvaretdømmes eller vedtar forelegg (unntatt forenklet forelegg) for et lovbrudd, ellerpågripes eller tiltales for et lovbrudd eller settes i fengslig forvaring for en ordensforstyrrelse,når straffeforfølgning innstilles mot person som nevnt i nr. 1 såfremtavdelingen eller annen kompetent militær myndighet har inngitt anmeldelse mot vedkommende, ellerdet er gitt melding etter nr. 1 bokstav b,når noen som ellers tilhører det militære forsvaretdømmes eller vedtar forelegg for overtredelse av den [militære straffelov](lov/1902-05-22-13),idømmes fengselsstraff for et lovbrudd mot rikets sikkerhet, for et grovere voldslovbrudd eller for overtredelse av narkotikalovgivningen,dømmes til forvaring eller overføring til tvungent psykisk helsevern, ellermister eller gjeninnsettes i retten til å gjøre tjeneste i rikets krigsmakt.
+Politiet skal straks gi underretning til forsvaret:
+
+1. når befalingsmann (fastlønnet, vernepliktig eller utskrevet), menig som er i tjeneste eller sivil i tjeneste i forsvaret
+
+   1. dømmes eller vedtar forelegg (unntatt forenklet forelegg) for et lovbrudd, eller
+   2. pågripes eller tiltales for et lovbrudd eller settes i fengslig forvaring for en ordensforstyrrelse,
+2. når straffeforfølgning innstilles mot person som nevnt i nr. 1 såfremt
+
+   1. avdelingen eller annen kompetent militær myndighet har inngitt anmeldelse mot vedkommende, eller
+   2. det er gitt melding etter nr. 1 bokstav b,
+3. når noen som ellers tilhører det militære forsvaret
+
+   1. dømmes eller vedtar forelegg for overtredelse av den [militære straffelov](lov/1902-05-22-13),
+   2. idømmes fengselsstraff for et lovbrudd mot rikets sikkerhet, for et grovere voldslovbrudd eller for overtredelse av narkotikalovgivningen,
+   3. dømmes til forvaring eller overføring til tvungent psykisk helsevern, eller
+   4. mister eller gjeninnsettes i retten til å gjøre tjeneste i rikets krigsmakt.
 
 Dersom ikke politiet allerede er i kontakt med en bestemt militær enhet angående saken, sendes underretningen til Vernepliktsverket (VPV).
 
@@ -442,7 +514,15 @@ Saksbehandlingen i forbindelse med utøvelsen av informasjonsplikten ved utlever
 
 ### § 11-2. Hvem som treffer beslutning om utlevering
 
-Utlevering av opplysninger skal besluttes av den behandlingsansvarlige når opplysningene utleveres tilutenlandske myndigheter, jf. [politiregisterloven § 22](lov/2010-05-28-16/§22),forebyggende virksomhet, jf. [politiregisterloven § 27](lov/2010-05-28-16/§27) annet ledd,politiets andre oppgaver, jf. [politiregisterloven § 28](lov/2010-05-28-16/§28),politiets forvaltningsvirksomhet mv., jf. [politiregisterloven § 29](lov/2010-05-28-16/§29),offentlige organer i deres interesse, jf. [politiregisterloven § 30](lov/2010-05-28-16/§30),private i deres interesse, jf. [politiregisterloven § 31](lov/2010-05-28-16/§31), ellerallmennheten i straffesak, jf. [politiregisterloven § 34](lov/2010-05-28-16/§34).
+Utlevering av opplysninger skal besluttes av den behandlingsansvarlige når opplysningene utleveres til
+
+1. utenlandske myndigheter, jf. [politiregisterloven § 22](lov/2010-05-28-16/§22),
+2. forebyggende virksomhet, jf. [politiregisterloven § 27](lov/2010-05-28-16/§27) annet ledd,
+3. politiets andre oppgaver, jf. [politiregisterloven § 28](lov/2010-05-28-16/§28),
+4. politiets forvaltningsvirksomhet mv., jf. [politiregisterloven § 29](lov/2010-05-28-16/§29),
+5. offentlige organer i deres interesse, jf. [politiregisterloven § 30](lov/2010-05-28-16/§30),
+6. private i deres interesse, jf. [politiregisterloven § 31](lov/2010-05-28-16/§31), eller
+7. allmennheten i straffesak, jf. [politiregisterloven § 34](lov/2010-05-28-16/§34).
 
 Utlevering av opplysninger til forskning besluttes av de myndigheter som nevnt i [politiregisterloven § 33](lov/2010-05-28-16/§33) annet ledd.
 
@@ -452,7 +532,11 @@ Utlevering eller bruk av opplysninger som nevnt i [politiregisterloven § 25](lo
 
 Når opplysninger utleveres eller på annen måte gjøres tilgjengelig skal det så vidt mulig kontrolleres om opplysningene er korrekte, tilstrekkelige og oppdaterte. Dersom det er tvil vedrørende opplysningens kvalitet skal mottaker av opplysningene så vidt mulig gjøres oppmerksom på dette, herunder hva tvilen består i.
 
-Opplysninger skal utleveres skriftlig når de utleveres tilutenlandske myndigheter og organisasjoner, jf. [politiregisterloven § 22](lov/2010-05-28-16/§22),offentlige organer i deres interesse, jf. [politiregisterloven § 30](lov/2010-05-28-16/§30), ellerprivate i deres interesse, jf. [politiregisterloven § 31](lov/2010-05-28-16/§31).
+Opplysninger skal utleveres skriftlig når de utleveres til
+
+1. utenlandske myndigheter og organisasjoner, jf. [politiregisterloven § 22](lov/2010-05-28-16/§22),
+2. offentlige organer i deres interesse, jf. [politiregisterloven § 30](lov/2010-05-28-16/§30), eller
+3. private i deres interesse, jf. [politiregisterloven § 31](lov/2010-05-28-16/§31).
 
 Kravet om skriftlighet i annet ledd nr. 1 kan fravikes dersom skriftlighet ville hindre formålet med utleveringen. Ved utlevering av opplysninger til andre formål enn de som er nevnt i annet ledd nr. 1 kan kravet om skriftlighet fravikes dersom det av tidsmessige eller andre grunner anses hensiktsmessig. Ved vurderingen av om opplysningene skal utleveres skriftlig eller muntlig skal det særlig legges vekt på opplysningens art og hvem som er mottaker, jf. også bestemmelsene i forskriften kapittel 4.
 
@@ -462,15 +546,30 @@ Opplysninger kan utleveres muntlig i forbindelse med etterforskning og kriminale
 
 ### § 11-4. Nedtegnelse av opplysninger som utleveres
 
-Den behandlingsansvarlige skal nedtegne hvilke opplysninger som utleveres tilutenlandske myndigheter og organisasjoner, jf. [politiregisterloven § 22](lov/2010-05-28-16/§22),avvergende og forebyggende virksomhet, jf. [politiregisterloven § 27](lov/2010-05-28-16/§27) første og annet ledd,offentlige organer i deres interesse, jf. [politiregisterloven § 30](lov/2010-05-28-16/§30), ellerprivate i deres interesse, jf. [politiregisterloven § 31](lov/2010-05-28-16/§31).
+Den behandlingsansvarlige skal nedtegne hvilke opplysninger som utleveres til
 
-Nedtegnelsen skal i det minste inneholde opplysninger omhvem opplysningene er utlevert til,det rettslige grunnlaget for utleveringen,årsaken til utlevering, herunder om opplysningene ble utlevert etter anmodning eller av eget tiltak,hvilke opplysninger som er utlevert, ogopplysningene er ikke-verifiserte eller ikke kvalitetssikret, jf. [politiregisterloven § 6](lov/2010-05-28-16/§6) annet ledd og [§ 8](lov/2010-05-28-16/§8).
+1. utenlandske myndigheter og organisasjoner, jf. [politiregisterloven § 22](lov/2010-05-28-16/§22),
+2. avvergende og forebyggende virksomhet, jf. [politiregisterloven § 27](lov/2010-05-28-16/§27) første og annet ledd,
+3. offentlige organer i deres interesse, jf. [politiregisterloven § 30](lov/2010-05-28-16/§30), eller
+4. private i deres interesse, jf. [politiregisterloven § 31](lov/2010-05-28-16/§31).
+
+Nedtegnelsen skal i det minste inneholde opplysninger om
+
+1. hvem opplysningene er utlevert til,
+2. det rettslige grunnlaget for utleveringen,
+3. årsaken til utlevering, herunder om opplysningene ble utlevert etter anmodning eller av eget tiltak,
+4. hvilke opplysninger som er utlevert, og
+5. opplysningene er ikke-verifiserte eller ikke kvalitetssikret, jf. [politiregisterloven § 6](lov/2010-05-28-16/§6) annet ledd og [§ 8](lov/2010-05-28-16/§8).
 
 > Endret ved [forskrift 3 juni 2016 nr. 570](forskrift/2016-06-03-570).
 
 ### § 11-5. Saksbehandlingen ved pålegg om taushetsplikt
 
-Pålegg om taushetsplikt i henhold til [politiregisterloven § 35](lov/2010-05-28-16/§35) skal alltid gis skriftlig. I pålegget skal det i det minste fremgåhva som er det rettslige grunnlaget for taushetsplikten,hvilke opplysninger som er omfattet av taushetsplikten, ogat brudd på taushetsplikten kan straffes etter [straffeloven § 209](lov/2005-05-20-28/§209).
+Pålegg om taushetsplikt i henhold til [politiregisterloven § 35](lov/2010-05-28-16/§35) skal alltid gis skriftlig. I pålegget skal det i det minste fremgå
+
+1. hva som er det rettslige grunnlaget for taushetsplikten,
+2. hvilke opplysninger som er omfattet av taushetsplikten, og
+3. at brudd på taushetsplikten kan straffes etter [straffeloven § 209](lov/2005-05-20-28/§209).
 
 Den behandlingsansvarlige skal forvisse seg om at taushetsplikten og straffetrusselen blir kjent for dem det gjelder, og kan kreve skriftlig erklæring om at de kjenner og vil respektere reglene.
 
@@ -532,7 +631,12 @@ Bestemmelsene i dette kapittelet gjelder med mindre noe annet er bestemt i forsk
 
 Den registrerte kan bare begjære retting av opplysninger om seg selv eller om gjenstander som vedkommende eier.
 
-Begjæring om retting eller retting av eget tiltak må være begrunnet i atdet er registrert uriktige opplysninger,den registrerte opplysningen er ufullstendig, slik at registreringen fremstår som misvisende,behandlingen av opplysningen ikke er i samsvar med [politiregisterloven § 4](lov/2010-05-28-16/§4) til [§ 8](lov/2010-05-28-16/§8) eller [§ 64](lov/2010-05-28-16/§64) og [§ 65](lov/2010-05-28-16/§65), ellervedtak eller beslutning som ligger til grunn for registreringen er endret eller omgjort.
+Begjæring om retting eller retting av eget tiltak må være begrunnet i at
+
+1. det er registrert uriktige opplysninger,
+2. den registrerte opplysningen er ufullstendig, slik at registreringen fremstår som misvisende,
+3. behandlingen av opplysningen ikke er i samsvar med [politiregisterloven § 4](lov/2010-05-28-16/§4) til [§ 8](lov/2010-05-28-16/§8) eller [§ 64](lov/2010-05-28-16/§64) og [§ 65](lov/2010-05-28-16/§65), eller
+4. vedtak eller beslutning som ligger til grunn for registreringen er endret eller omgjort.
 
 Begjæring om retting kan ikke begrunnes med at det hefter feil ved den beslutning eller den avgjørelsen som ligger til grunn for registreringen, som for eksempel avgjørelser som registreres i reaksjonsregisteret. I slike tilfeller skal den som begjærer retting henvises til å benytte seg av de klageregler som gjelder på vedkommende område.
 
@@ -574,7 +678,12 @@ For opplysninger som er sperret etter [politiregisterloven § 50](lov/2010-05-28
 
 ### § 15-3. Hvilke opplysninger som skal sperres
 
-Opplysninger skal sperres nårde ikke lenger er nødvendige for formålet, men kan tjene som dokumentasjon, jf. [politiregisterloven § 50](lov/2010-05-28-16/§50) første ledd,de ikke kan rettes og vilkårene i [politiregisterloven § 51](lov/2010-05-28-16/§51) annet ledd er oppfylt, eller den behandlingsansvarlige mener at opplysningen kan tjene som dokumentasjon,det i denne forskriften er fastsatt at opplysninger i politiets registre skal sperres, ellerdet er fastsatt i [politiregisterloven § 50](lov/2010-05-28-16/§50) tredje ledd at opplysningene skal sperres.
+Opplysninger skal sperres når
+
+1. de ikke lenger er nødvendige for formålet, men kan tjene som dokumentasjon, jf. [politiregisterloven § 50](lov/2010-05-28-16/§50) første ledd,
+2. de ikke kan rettes og vilkårene i [politiregisterloven § 51](lov/2010-05-28-16/§51) annet ledd er oppfylt, eller den behandlingsansvarlige mener at opplysningen kan tjene som dokumentasjon,
+3. det i denne forskriften er fastsatt at opplysninger i politiets registre skal sperres, eller
+4. det er fastsatt i [politiregisterloven § 50](lov/2010-05-28-16/§50) tredje ledd at opplysningene skal sperres.
 
 Dersom det er tvil om en opplysning skal sperres eller slettes skal opplysningen sperres.
 
@@ -582,7 +691,14 @@ Dersom det er tvil om en opplysning skal sperres eller slettes skal opplysningen
 
 ### § 15-4. Videre behandling av sperrede opplysninger
 
-Opplysninger som sperres kan bare brukes til følgende formål:dokumentasjon i den registrertes eller den behandlingsansvarliges interesse,politimessige formål når sperring er begrunnet i at opplysningen ikke skal brukes til vandelskontroll,utarbeidelse av nasjonale trussel- og risikovurderinger og etterretningsprodukter når opplysningene er sperret etter [§ 59-11](forskrift/2013-09-20-1097/§59-11),formål som nevnt i [politiregisterloven § 50](lov/2010-05-28-16/§50) tredje ledd når opplysningene er sperret etter denne bestemmelsen,til å gi den registrerte innsyn når opplysningene er sperret etter [§ 58-10](forskrift/2013-09-20-1097/§58-10) tredje eller fjerde ledd, ellertil andre formål dersom sperring er begrunnet i den registrertes interesse og den registrerte samtykker, jf. [§ 6-1](forskrift/2013-09-20-1097/§6-1).
+Opplysninger som sperres kan bare brukes til følgende formål:
+
+1. dokumentasjon i den registrertes eller den behandlingsansvarliges interesse,
+2. politimessige formål når sperring er begrunnet i at opplysningen ikke skal brukes til vandelskontroll,
+3. utarbeidelse av nasjonale trussel- og risikovurderinger og etterretningsprodukter når opplysningene er sperret etter [§ 59-11](forskrift/2013-09-20-1097/§59-11),
+4. formål som nevnt i [politiregisterloven § 50](lov/2010-05-28-16/§50) tredje ledd når opplysningene er sperret etter denne bestemmelsen,
+5. til å gi den registrerte innsyn når opplysningene er sperret etter [§ 58-10](forskrift/2013-09-20-1097/§58-10) tredje eller fjerde ledd, eller
+6. til andre formål dersom sperring er begrunnet i den registrertes interesse og den registrerte samtykker, jf. [§ 6-1](forskrift/2013-09-20-1097/§6-1).
 
 Sperrede opplysninger skal slettes når de ikke lenger er nødvendige for formålet som gjorde at de ikke ble slettet, jf. [§ 16-5](forskrift/2013-09-20-1097/§16-5).
 
@@ -600,7 +716,10 @@ Bestemmelsene i dette kapittelet gjelder med mindre noe annet er bestemt i forsk
 
 Sletting etter [politiregisterloven](lov/2010-05-28-16) eller denne forskriften innebærer at opplysningen skal fjernes fra registre eller andre systemer.
 
-Etter at opplysningene er fjernet fra registrene skal opplysningenebehandles i samsvar med arkivlovgivningen, ellertilintetgjøres.
+Etter at opplysningene er fjernet fra registrene skal opplysningene
+
+1. behandles i samsvar med arkivlovgivningen, eller
+2. tilintetgjøres.
 
 Opplysninger som behandles etter [politiregisterloven § 8](lov/2010-05-28-16/§8) skal likevel alltid tilintetgjøres når vilkårene for videre behandling ikke er oppfylt eller etter at fristen i [§ 8](lov/2010-05-28-16/§8) første ledd er utløpt.
 
@@ -688,7 +807,14 @@ Dersom uriktige opplysninger rettes eller slettes og opplysningene er mottatt fr
 
 ### § 18-1. Gjenstand for klagebehandling
 
-Følgende vedtak av politiet og påtalemyndigheten kan med de begrensninger som følger av annet og tredje ledd påklages til overordnet organ:avgjørelse om innsyn, jf. [politiregisterloven § 49](lov/2010-05-28-16/§49),avgjørelse om retting, sletting og sperring, jf. [politiregisterloven § 50](lov/2010-05-28-16/§50) og [§ 51](lov/2010-05-28-16/§51),avgjørelse om erstatning, jf. [politiregisterloven § 56](lov/2010-05-28-16/§56),avgjørelse om vandelskontroll, jf. [politiregisterloven kapittel 7](lov/2010-05-28-16/kap7), ogavgjørelse om utlevering av opplysninger dersom det er besluttet utsatt iverksetting i de tilfellene som nevnt i [politiregisterloven § 48](lov/2010-05-28-16/§48),avgjørelse om rett til utskrift og utlån av straffesaksdokumenter i en avsluttet straffesak, jf. [straffeprosessloven § 28](lov/1981-05-22-25/§28) og forskriften [§ 27-3](forskrift/2013-09-20-1097/§27-3).
+Følgende vedtak av politiet og påtalemyndigheten kan med de begrensninger som følger av annet og tredje ledd påklages til overordnet organ:
+
+1. avgjørelse om innsyn, jf. [politiregisterloven § 49](lov/2010-05-28-16/§49),
+2. avgjørelse om retting, sletting og sperring, jf. [politiregisterloven § 50](lov/2010-05-28-16/§50) og [§ 51](lov/2010-05-28-16/§51),
+3. avgjørelse om erstatning, jf. [politiregisterloven § 56](lov/2010-05-28-16/§56),
+4. avgjørelse om vandelskontroll, jf. [politiregisterloven kapittel 7](lov/2010-05-28-16/kap7), og
+5. avgjørelse om utlevering av opplysninger dersom det er besluttet utsatt iverksetting i de tilfellene som nevnt i [politiregisterloven § 48](lov/2010-05-28-16/§48),
+6. avgjørelse om rett til utskrift og utlån av straffesaksdokumenter i en avsluttet straffesak, jf. [straffeprosessloven § 28](lov/1981-05-22-25/§28) og forskriften [§ 27-3](forskrift/2013-09-20-1097/§27-3).
 
 Avgjørelser som er truffet i medhold av [politiregisterloven kapittel 4](lov/2010-05-28-16/kap4) om informasjonssikkerhet og internkontroll er ikke gjenstand for klagebehandling. Det samme gjelder avgjørelser om krav om erstatning som behandles etter reglene i [straffeprosessloven kapittel 31](lov/1981-05-22-25/kap31), jf. [politiregisterloven § 56](lov/2010-05-28-16/§56) tredje ledd og forskriften [§ 19-2](forskrift/2013-09-20-1097/§19-2) annet ledd.
 
@@ -700,7 +826,12 @@ Klageinstansens vedtak i klagesaken kan ikke påklages. Det samme gjelder for Ri
 
 ### § 18-2. Særlig om klage på brudd på taushetsplikt, informasjonsplikt mv.
 
-Følgende forhold kan bringes inn for overordnet organ med sikte på å få avgjort om bestemmelsene i [politiregisterloven](lov/2010-05-28-16) er overholdt:brudd på taushetsplikt, jf. [politiregisterloven § 22](lov/2010-05-28-16/§22) og [kapittel 6](lov/2010-05-28-16/kap6) med de særlige behandlingsregler som følger av [§ 18-8](forskrift/2013-09-20-1097/§18-8) første ledd fjerde punktum,brudd på informasjonsplikt, jf. [politiregisterloven § 48](lov/2010-05-28-16/§48),brudd på bruk av opplysninger som er sperret, jf. [politiregisterloven § 52](lov/2010-05-28-16/§52), ogbrudd på politiets handleplikt, jf. [politiregisterloven § 53](lov/2010-05-28-16/§53).
+Følgende forhold kan bringes inn for overordnet organ med sikte på å få avgjort om bestemmelsene i [politiregisterloven](lov/2010-05-28-16) er overholdt:
+
+1. brudd på taushetsplikt, jf. [politiregisterloven § 22](lov/2010-05-28-16/§22) og [kapittel 6](lov/2010-05-28-16/kap6) med de særlige behandlingsregler som følger av [§ 18-8](forskrift/2013-09-20-1097/§18-8) første ledd fjerde punktum,
+2. brudd på informasjonsplikt, jf. [politiregisterloven § 48](lov/2010-05-28-16/§48),
+3. brudd på bruk av opplysninger som er sperret, jf. [politiregisterloven § 52](lov/2010-05-28-16/§52), og
+4. brudd på politiets handleplikt, jf. [politiregisterloven § 53](lov/2010-05-28-16/§53).
 
 ### § 18-3. Hvem som kan klage
 
@@ -710,7 +841,13 @@ Ved vandelskontroll kan likevel mottakeren av vandelsvurdering, politiattest og 
 
 ### § 18-4. Klageinstans
 
-Med mindre noe annet er bestemt i del 11 skal avgjørelser truffet avpolitiet påklages til Politidirektoratet,påtalemyndigheten påklages til nærmeste overordnete påtalemyndighet,Politidirektoratet påklages til Justisdepartementet,Politiets sikkerhetstjeneste påklages til Justisdepartementet, ogmilitærpolitiet påklages til Forsvarsdepartementet.
+Med mindre noe annet er bestemt i del 11 skal avgjørelser truffet av
+
+1. politiet påklages til Politidirektoratet,
+2. påtalemyndigheten påklages til nærmeste overordnete påtalemyndighet,
+3. Politidirektoratet påklages til Justisdepartementet,
+4. Politiets sikkerhetstjeneste påklages til Justisdepartementet, og
+5. militærpolitiet påklages til Forsvarsdepartementet.
 
 Politidirektoratet er klageinstans for klage som gjelder erstatning, uavhengig av om vedtak i første instans ble truffet av politiet eller påtalemyndigheten.
 
@@ -788,7 +925,11 @@ I tillegg kan PST behandle opplysninger når det er hjemlet i annen lovgivning.
 
 ### § 20-3. Definisjoner
 
-I denne delen av forskriften forstås med*overskuddsinformasjon:* informasjon som er uten selvstendig interesse for PST, men som kan være av betydning for andre offentlige myndigheter,*forebyggende sak:* sak som opprettes når det er grunn til å undersøke om noen forbereder et straffbart forhold som PST har til oppgave å forebygge.*personkontroll:* PSTs arbeid med klarering etter [politiregisterloven § 67](lov/2010-05-28-16/§67) og [kapittel 8 i sikkerhetsloven](lov/2018-06-01-24/kap8) og [forskrift om sikkerhetsklarering og annen klarering kapittel 2](forskrift/2018-12-20-2054/kap2).
+I denne delen av forskriften forstås med
+
+1. *overskuddsinformasjon:* informasjon som er uten selvstendig interesse for PST, men som kan være av betydning for andre offentlige myndigheter,
+2. *forebyggende sak:* sak som opprettes når det er grunn til å undersøke om noen forbereder et straffbart forhold som PST har til oppgave å forebygge.
+3. *personkontroll:* PSTs arbeid med klarering etter [politiregisterloven § 67](lov/2010-05-28-16/§67) og [kapittel 8 i sikkerhetsloven](lov/2018-06-01-24/kap8) og [forskrift om sikkerhetsklarering og annen klarering kapittel 2](forskrift/2018-12-20-2054/kap2).
 
 > Endret ved forskrifter [18 juni 2021 nr. 1982](forskrift/2021-06-18-1982), [3 sep 2021 nr. 2658](forskrift/2021-09-03-2658) (i kraft 1 nov 2021).
 
@@ -806,13 +947,26 @@ Sjef PST kan delegere daglig ansvar for behandling av opplysninger ved Den sentr
 
 ### § 21-1. Nødvendighetskriteriet
 
-PST kan behandle opplysninger som er nødvendige for formål nevnt i [§ 20-2](forskrift/2013-09-20-1097/§20-2), med følgende presiseringer:Ved trusler mot myndighetspersoner kan det behandles opplysninger som er nødvendige for å ivareta den enkelte myndighetspersons sikkerhet.For å ivareta enkelte personers sikkerhet kan det ved utarbeidelse av trusselvurderinger behandles opplysninger om personer som representerer en særskilt sikkerhetsrisiko og opplysninger om den person som er truet.Etter anmodning fra andre lands politimyndigheter og sikkerhets- og etterretningstjenester kan innhenting og annen behandling av opplysninger kun skje når PST har grunnlag for å behandle opplysningene etter [politiloven § 17b](lov/1995-08-04-53/§17b), [§ 17c](lov/1995-08-04-53/§17c) og [§ 17d](lov/1995-08-04-53/§17d) første ledd bokstav d, og det er grunn til å tro at opplysningene kan utleveres til det aktuelle land.I forbindelse med akkreditering kan det behandles opplysninger som er av betydning for spørsmålet om akkreditering i en aktuell sak.For å dokumentere hvilken overskuddsinformasjon som er utlevert, kan det behandles opplysninger knyttet til hvilken informasjon som er utlevert, hvem som er mottaker av opplysningene samt hvorfor opplysningene utleveres.
+PST kan behandle opplysninger som er nødvendige for formål nevnt i [§ 20-2](forskrift/2013-09-20-1097/§20-2), med følgende presiseringer:
+
+1. Ved trusler mot myndighetspersoner kan det behandles opplysninger som er nødvendige for å ivareta den enkelte myndighetspersons sikkerhet.
+2. For å ivareta enkelte personers sikkerhet kan det ved utarbeidelse av trusselvurderinger behandles opplysninger om personer som representerer en særskilt sikkerhetsrisiko og opplysninger om den person som er truet.
+3. Etter anmodning fra andre lands politimyndigheter og sikkerhets- og etterretningstjenester kan innhenting og annen behandling av opplysninger kun skje når PST har grunnlag for å behandle opplysningene etter [politiloven § 17b](lov/1995-08-04-53/§17b), [§ 17c](lov/1995-08-04-53/§17c) og [§ 17d](lov/1995-08-04-53/§17d) første ledd bokstav d, og det er grunn til å tro at opplysningene kan utleveres til det aktuelle land.
+4. I forbindelse med akkreditering kan det behandles opplysninger som er av betydning for spørsmålet om akkreditering i en aktuell sak.
+5. For å dokumentere hvilken overskuddsinformasjon som er utlevert, kan det behandles opplysninger knyttet til hvilken informasjon som er utlevert, hvem som er mottaker av opplysningene samt hvorfor opplysningene utleveres.
 
 > Endret ved [forskrifter 18 juni 2021 nr. 1982](forskrift/2021-06-18-1982), [3 sep 2021 nr. 2658](forskrift/2021-09-03-2658) (i kraft 1 nov 2021).
 
 ### § 21-2. Hvem det kan behandles opplysninger om
 
-PST kan behandle opplysninger om personer når dette er nødvendig for formålet med behandlingen, jf. [§ 20-2](forskrift/2013-09-20-1097/§20-2) og [§ 21-1](forskrift/2013-09-20-1097/§21-1), herunder:Person som det i forebyggende øyemed anses nødvendig å behandle opplysninger om. Dette gjelder selv om personen er under den kriminelle lavalder.Person som har særlig tilknytning til person som er nevnt i nr. 1, herunder familiemedlemmer, arbeidskolleger, venner eller samarbeidspartnere i det kriminelle miljøet mv., dersom tilknytningen antas å være av betydning for Politiets sikkerhetstjenestes mulighet til å følge med på virksomhet som nevnt i nr. 1.Person som har blitt eller det er grunn til å tro at vil bli utsatt for et lovbrudd eller fremmed etterretning.Person som er kilde eller kontakt.Person som er underlagt undersøkelse med sikte på klarering eller akkreditering.Person som har gitt samtykke til behandling, jf. [§ 6-1](forskrift/2013-09-20-1097/§6-1).
+PST kan behandle opplysninger om personer når dette er nødvendig for formålet med behandlingen, jf. [§ 20-2](forskrift/2013-09-20-1097/§20-2) og [§ 21-1](forskrift/2013-09-20-1097/§21-1), herunder:
+
+1. Person som det i forebyggende øyemed anses nødvendig å behandle opplysninger om. Dette gjelder selv om personen er under den kriminelle lavalder.
+2. Person som har særlig tilknytning til person som er nevnt i nr. 1, herunder familiemedlemmer, arbeidskolleger, venner eller samarbeidspartnere i det kriminelle miljøet mv., dersom tilknytningen antas å være av betydning for Politiets sikkerhetstjenestes mulighet til å følge med på virksomhet som nevnt i nr. 1.
+3. Person som har blitt eller det er grunn til å tro at vil bli utsatt for et lovbrudd eller fremmed etterretning.
+4. Person som er kilde eller kontakt.
+5. Person som er underlagt undersøkelse med sikte på klarering eller akkreditering.
+6. Person som har gitt samtykke til behandling, jf. [§ 6-1](forskrift/2013-09-20-1097/§6-1).
 
 Opplysninger om personer skal så vidt mulig og der det er relevant merkes med hvilken kategori personen tilhører.
 
@@ -820,7 +974,26 @@ Opplysninger om personer skal så vidt mulig og der det er relevant merkes med h
 
 ### § 21-3. Opplysninger som kan behandles
 
-Dersom vilkårene i [§ 21-1](forskrift/2013-09-20-1097/§21-1) og [§ 21-2](forskrift/2013-09-20-1097/§21-2) er oppfylt, kan det registreres opplysninger som er nødvendige for formål som nevnt i [§ 20-2](forskrift/2013-09-20-1097/§20-2), herunder:alle navn, herunder oppnavn, kallenavn eller alias,rolle,kjønn,fødselsnummer,fødested eller statsborgerskap,kontaktopplysninger, herunder teledata,førerkort og passnummer,utlendingsidentifikasjon,signalement,bilde,sivil status,yrke eller arbeidsforhold,økonomiske forhold eller foretaksopplysninger,kjøretøy eller transportmiddel,straffereaksjoner eller bruk av straffeprosessuelle tvangsmidler,måten å operere på (modus operandi),relasjoner eller kontaktpersoner, ellerandre foreliggende opplysninger innhentet gjennom PSTs alminnelige virksomhet knyttet til den registrerte.
+Dersom vilkårene i [§ 21-1](forskrift/2013-09-20-1097/§21-1) og [§ 21-2](forskrift/2013-09-20-1097/§21-2) er oppfylt, kan det registreres opplysninger som er nødvendige for formål som nevnt i [§ 20-2](forskrift/2013-09-20-1097/§20-2), herunder:
+
+1. alle navn, herunder oppnavn, kallenavn eller alias,
+2. rolle,
+3. kjønn,
+4. fødselsnummer,
+5. fødested eller statsborgerskap,
+6. kontaktopplysninger, herunder teledata,
+7. førerkort og passnummer,
+8. utlendingsidentifikasjon,
+9. signalement,
+10. bilde,
+11. sivil status,
+12. yrke eller arbeidsforhold,
+13. økonomiske forhold eller foretaksopplysninger,
+14. kjøretøy eller transportmiddel,
+15. straffereaksjoner eller bruk av straffeprosessuelle tvangsmidler,
+16. måten å operere på (modus operandi),
+17. relasjoner eller kontaktpersoner, eller
+18. andre foreliggende opplysninger innhentet gjennom PSTs alminnelige virksomhet knyttet til den registrerte.
 
 Det kan behandles ikke-verifiserte opplysninger dersom det er nødvendig ut fra formålet med behandlingen. Ikke-verifiserte opplysninger skal merkes.
 
@@ -940,7 +1113,13 @@ Bestemmelsene for behandling av opplysninger i straffesaker gjelder fra det tids
 
 ### § 24-2. Oversikt over bestemmelser i politiregisterloven som er særskilt utformet med tanke på behandling av opplysninger i straffesaker
 
-For behandling av opplysninger i straffesaker gjeldernødvendighetskravet, jf. [politiregisterloven § 5](lov/2010-05-28-16/§5) første ledd nr. 1, slik at det i den enkelte straffesak kan behandles opplysninger i samsvar med reglene i [straffeprosessloven](lov/1981-05-22-25),krav til opplysningens kvalitet, jf. [politiregisterloven § 6](lov/2010-05-28-16/§6) fjerde ledd, bl.a. at kravet til korrekte opplysninger er oppfylt når opplysningene er gjengitt slik kilden oppga dem,nødvendighetskravet for behandling av særlige kategorier av personopplysninger, jf. [politiregisterloven § 7](lov/2010-05-28-16/§7), med unntak av opplysninger gjengitt slik kilden oppga dem,ingen tidsbegrensning for unntak fra kravene om formålsbestemthet, nødvendighet og relevans, jf. [politiregisterloven § 8](lov/2010-05-28-16/§8) annet ledd oginnsyn, jf. [politiregisterloven § 49](lov/2010-05-28-16/§49) første ledd, slik at dokumentinnsyn reguleres av [straffeprosessloven](lov/1981-05-22-25).
+For behandling av opplysninger i straffesaker gjelder
+
+1. nødvendighetskravet, jf. [politiregisterloven § 5](lov/2010-05-28-16/§5) første ledd nr. 1, slik at det i den enkelte straffesak kan behandles opplysninger i samsvar med reglene i [straffeprosessloven](lov/1981-05-22-25),
+2. krav til opplysningens kvalitet, jf. [politiregisterloven § 6](lov/2010-05-28-16/§6) fjerde ledd, bl.a. at kravet til korrekte opplysninger er oppfylt når opplysningene er gjengitt slik kilden oppga dem,
+3. nødvendighetskravet for behandling av særlige kategorier av personopplysninger, jf. [politiregisterloven § 7](lov/2010-05-28-16/§7), med unntak av opplysninger gjengitt slik kilden oppga dem,
+4. ingen tidsbegrensning for unntak fra kravene om formålsbestemthet, nødvendighet og relevans, jf. [politiregisterloven § 8](lov/2010-05-28-16/§8) annet ledd og
+5. innsyn, jf. [politiregisterloven § 49](lov/2010-05-28-16/§49) første ledd, slik at dokumentinnsyn reguleres av [straffeprosessloven](lov/1981-05-22-25).
 
 For behandling av opplysninger som er inntatt i straffesaksdokumenter gjelder i tillegg [§ 25-2](forskrift/2013-09-20-1097/§25-2).
 
@@ -1062,13 +1241,25 @@ Politiattest utstedes til bruk i mottakers interesse og kan inneholde opplysning
 
 ### § 28-3. Definisjoner
 
-I denne delen av forskriften forstås med*andre strafferettslige reaksjoner:* betinget dom hvor fastsetting av straff utstår, dom eller vedtatt forelegg med straffutmålingsfrafall, påtaleunnlatelse etter [straffeprosessloven § 69](lov/1981-05-22-25/§69) og [§ 70](lov/1981-05-22-25/§70), overføring til behandling i konfliktråd, jf. [straffeprosessloven § 71a](lov/1981-05-22-25/§71a), dom på overføring til tvungent psykisk helsevern eller tvungen omsorg, eventuelt sikring, overføring til barneverntjenesten, inndragning, tap av retten til å føre motorvogn mv., jf. [vegtrafikkloven § 24a](lov/1965-06-18-4/§24a) annet ledd, [§ 33](lov/1965-06-18-4/§33) nr. 1 og 2, jf. nr. 6, og [§ 35](lov/1965-06-18-4/§35) første ledd og tap av retten til å drive persontransport mot vederlag (kjøreseddel), jf. [yrkestransportloven § 37f](lov/2002-06-21-45/§37f) annet ledd,*andre tiltak som følge av lovbrudd:* personundersøkelse og beslutning om judisiell observasjon i saker hvor det i rettskraftig avgjørelse konstateres straffeskyld,*er under straffeforfølgning:* verserende saker hvor saken ikke er rettskraftig avgjort, det vil si siktelser, tiltaler og ilagte reaksjoner som ikke er rettskraftig,*mottaker av politiattest:* den som kan kreve fremlagt politiattest,bruker: tidligere mottaker av politiattest som kan be om fornyet vandelskontroll,*søker:* den politiattesten gjelder, og*akkreditering:* behandling av opplysninger om personer som skal ha kontakt med objekter som krever særskilt beskyttelse.
+I denne delen av forskriften forstås med
+
+1. *andre strafferettslige reaksjoner:* betinget dom hvor fastsetting av straff utstår, dom eller vedtatt forelegg med straffutmålingsfrafall, påtaleunnlatelse etter [straffeprosessloven § 69](lov/1981-05-22-25/§69) og [§ 70](lov/1981-05-22-25/§70), overføring til behandling i konfliktråd, jf. [straffeprosessloven § 71a](lov/1981-05-22-25/§71a), dom på overføring til tvungent psykisk helsevern eller tvungen omsorg, eventuelt sikring, overføring til barneverntjenesten, inndragning, tap av retten til å føre motorvogn mv., jf. [vegtrafikkloven § 24a](lov/1965-06-18-4/§24a) annet ledd, [§ 33](lov/1965-06-18-4/§33) nr. 1 og 2, jf. nr. 6, og [§ 35](lov/1965-06-18-4/§35) første ledd og tap av retten til å drive persontransport mot vederlag (kjøreseddel), jf. [yrkestransportloven § 37f](lov/2002-06-21-45/§37f) annet ledd,
+2. *andre tiltak som følge av lovbrudd:* personundersøkelse og beslutning om judisiell observasjon i saker hvor det i rettskraftig avgjørelse konstateres straffeskyld,
+3. *er under straffeforfølgning:* verserende saker hvor saken ikke er rettskraftig avgjort, det vil si siktelser, tiltaler og ilagte reaksjoner som ikke er rettskraftig,
+4. *mottaker av politiattest:* den som kan kreve fremlagt politiattest,
+5. bruker: tidligere mottaker av politiattest som kan be om fornyet vandelskontroll,
+6. *søker:* den politiattesten gjelder, og
+7. *akkreditering:* behandling av opplysninger om personer som skal ha kontakt med objekter som krever særskilt beskyttelse.
 
 > Endret ved forskrifter [19 des 2014 nr. 1827](forskrift/2014-12-19-1827), [3 juni 2016 nr. 570](forskrift/2016-06-03-570).
 
 ### § 28-4. Krav om botid ved utstedelse av politiattest for utlendinger mv.
 
-Krav om botid i Norge som er fastsatt i henhold til [politiregisterloven § 36](lov/2010-05-28-16/§36) annet ledd gjelder bare for utlendinger som har oppholdt seg i Norge i kortere tid enn fastsatt botid. Kravet om botid gjelder likevel ikke forEØS-borgere som legger frem politiattest fra hjemlandet sitt,utlendinger fra land utenfor EØS som har opphold i et EØS-land som tilsvarer lengden av kravet om botid, og som legger frem politiattest og bevis på lovlig opphold fra EØS-landet, ogutlendinger fra land utenfor EØS med tidligere opphold i Norge, der fraværet fra Norge er så kortvarig at det kan gjennomføres tilfredsstillende vandelskontroll. Det samme gjelder når utlendingen har fått norsk statsborgerskap etter gjenbosetting i Norge.
+Krav om botid i Norge som er fastsatt i henhold til [politiregisterloven § 36](lov/2010-05-28-16/§36) annet ledd gjelder bare for utlendinger som har oppholdt seg i Norge i kortere tid enn fastsatt botid. Kravet om botid gjelder likevel ikke for
+
+1. EØS-borgere som legger frem politiattest fra hjemlandet sitt,
+2. utlendinger fra land utenfor EØS som har opphold i et EØS-land som tilsvarer lengden av kravet om botid, og som legger frem politiattest og bevis på lovlig opphold fra EØS-landet, og
+3. utlendinger fra land utenfor EØS med tidligere opphold i Norge, der fraværet fra Norge er så kortvarig at det kan gjennomføres tilfredsstillende vandelskontroll. Det samme gjelder når utlendingen har fått norsk statsborgerskap etter gjenbosetting i Norge.
 
 For EØS-borgere regnes tidspunktet for botid fra den dato vedkommende har oppholdt seg i Norge. Dersom det ikke finnes et entydig innreisetidspunkt har EØS-borgeren selv bevisbyrden for å dokumentere at kravet om botid er oppfylt. For tredjelandsborger skal tidspunktet for botid regnes fra den dato vedtak om oppholdstillatelse er registrert hos utlendingsmyndigheten eller fra den dato vedkommende melder om innreise i medhold av [utlendingsloven § 19](lov/2008-05-15-35/§19) dersom vedkommende har fått oppholdstillatelse før innreise.
 
@@ -1126,7 +1317,11 @@ Forenklet forelegg anmerkes ikke på uttømmende politiattest eller vandelsvurde
 
 Uttømmende politiattest og vandelsvurdering skal utstedes i samsvar med bestemmelsene om ordinær politiattest, jf. [politiregisterloven § 40](lov/2010-05-28-16/§40), dersom ilagt reaksjon gjelder lovbrudd begått før fylte 18 år, jf. [politiregisterloven § 41](lov/2010-05-28-16/§41) nr. 1 bokstav c.
 
-Bestemmelsen i første ledd gjelder ikke dersom vedkommendeer ilagt reaksjon for lovbrudd begått før fylte 18 år med øvre strafferamme på fengsel i mer enn 3 år;er ilagt reaksjon for 5 eller flere lovbrudd begått før fylte 18 år med øvre strafferamme på fengsel i inntil 1 år, eller 3 eller flere lovbrudd begått før fylte 18 år med øvre strafferamme på fengsel i mer enn 1 år. Reaksjon anmerkes uansett dersom vedkommende er ilagt reaksjon for til sammen 5 lovbrudd før fylte 18 år uavhengig av lovbruddets øvre strafferamme;er ilagt reaksjon for nytt lovbrudd etter fylte 18 år som ble begått innenfor de fristene reaksjonen skal vises på ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40) nr. 5 og 7.
+Bestemmelsen i første ledd gjelder ikke dersom vedkommende
+
+1. er ilagt reaksjon for lovbrudd begått før fylte 18 år med øvre strafferamme på fengsel i mer enn 3 år;
+2. er ilagt reaksjon for 5 eller flere lovbrudd begått før fylte 18 år med øvre strafferamme på fengsel i inntil 1 år, eller 3 eller flere lovbrudd begått før fylte 18 år med øvre strafferamme på fengsel i mer enn 1 år. Reaksjon anmerkes uansett dersom vedkommende er ilagt reaksjon for til sammen 5 lovbrudd før fylte 18 år uavhengig av lovbruddets øvre strafferamme;
+3. er ilagt reaksjon for nytt lovbrudd etter fylte 18 år som ble begått innenfor de fristene reaksjonen skal vises på ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40) nr. 5 og 7.
 
 Dersom vilkårene i annet ledd nr. 1, 2 eller 3 er oppfylt, skal ilagt reaksjon anmerkes i samsvar med bestemmelsene om uttømmende politiattest i [politiregisterloven § 41](lov/2010-05-28-16/§41) nr. 1 første og annet punktum.
 
@@ -1300,7 +1495,11 @@ Dersom det foreligger nye opplysninger som kan utleveres i henhold til første l
 
 ### § 36-1. Hvem kan få utstedt politiattest
 
-Det kan bare utstedes politiattest til den somoppfyller vilkår som er oppstilt i lov eller i forskrift gitt i medhold av lov som hjemler krav om politiattest,identifiserer seg på en tilstrekkelig måte ved gyldig legitimasjon, jf. [§ 36-3](forskrift/2013-09-20-1097/§36-3) til [§ 36-5](forskrift/2013-09-20-1097/§36-5), oghar fått tilbud om eller er innstilt til en konkret stilling, virksomhet, aktivitet eller annen funksjon, eller til den som i medhold av lov eller forskrift gitt i medhold av lov avkreves fremleggelse av politiattest til et annet tidspunkt.
+Det kan bare utstedes politiattest til den som
+
+1. oppfyller vilkår som er oppstilt i lov eller i forskrift gitt i medhold av lov som hjemler krav om politiattest,
+2. identifiserer seg på en tilstrekkelig måte ved gyldig legitimasjon, jf. [§ 36-3](forskrift/2013-09-20-1097/§36-3) til [§ 36-5](forskrift/2013-09-20-1097/§36-5), og
+3. har fått tilbud om eller er innstilt til en konkret stilling, virksomhet, aktivitet eller annen funksjon, eller til den som i medhold av lov eller forskrift gitt i medhold av lov avkreves fremleggelse av politiattest til et annet tidspunkt.
 
 ### § 36-2. Begjæring om å få utstedt politiattest
 
@@ -1310,7 +1509,10 @@ Begjæringen kan fremsettes ved personlig fremmøte, ved bruk av post eller ved 
 
 ### § 36-3. Krav til legitimasjon for fysiske personer
 
-Gyldig legitimasjon for fysisk person er dokumenter somer utstedt av offentlig myndighet, eller av annet organ som har betryggende kontrollrutiner for dokumentutstedelse og dokumentene har et tilfredsstillende sikkerhetsnivå, oginneholder fullt navn, navnetrekk, fotografi og fødselsnummer eller D-nummer.
+Gyldig legitimasjon for fysisk person er dokumenter som
+
+1. er utstedt av offentlig myndighet, eller av annet organ som har betryggende kontrollrutiner for dokumentutstedelse og dokumentene har et tilfredsstillende sikkerhetsnivå, og
+2. inneholder fullt navn, navnetrekk, fotografi og fødselsnummer eller D-nummer.
 
 For fysisk person som ikke har fått tildelt norsk fødselsnummer eller D-nummer, skal legitimasjonsdokumenter i tillegg til de kravene som følger av første ledd inneholde fødselsdato, fødselssted og kjønn.
 
@@ -1406,25 +1608,52 @@ Internkontroll for å ivareta krav om informasjonssikkerhet følger av [kapittel
 
 Den behandlingsansvarlige skal fastsette hvordan arbeidet med internkontroll skal gjennomføres, og føre en oversikt over behandlingen av personopplysninger med tilhørende ansvar, organisering og plikter.
 
-Den behandlingsansvarlige skal ha oversikt overhvordan politiet og påtalemyndigheten er organisert,hvilke behandlinger som finner sted hos den behandlingsansvarlige,det rettslige grunnlaget for behandlingen,hvem som er behandlingsansvarlig, hvem som har det daglige behandlingsansvaret, eventuelt delegert myndighet, og hvem som er personvernrådgiver,de krav i og i medhold av gjeldende lovgivning som gjelder for politiets og påtalemyndighetens behandling av opplysninger, ogkategorier av overføringer av opplysninger til tredjeland eller internasjonale organisasjoner.
+Den behandlingsansvarlige skal ha oversikt over
+
+1. hvordan politiet og påtalemyndigheten er organisert,
+2. hvilke behandlinger som finner sted hos den behandlingsansvarlige,
+3. det rettslige grunnlaget for behandlingen,
+4. hvem som er behandlingsansvarlig, hvem som har det daglige behandlingsansvaret, eventuelt delegert myndighet, og hvem som er personvernrådgiver,
+5. de krav i og i medhold av gjeldende lovgivning som gjelder for politiets og påtalemyndighetens behandling av opplysninger, og
+6. kategorier av overføringer av opplysninger til tredjeland eller internasjonale organisasjoner.
 
 > Endret ved [forskrift 27 april 2018 nr. 643](forskrift/2018-04-27-643) (i kraft 6 mai 2018).
 
 ### § 39-3. Internkontrollens gjennomførende del
 
-Den behandlingsansvarlige skal ha rutiner for oppfyllelse av sine plikter og de registrertes rettigheter etter det til enhver tid gjeldende regelverk, herunder ha rutiner foroppfyllelse av krav om at opplysninger kun kan behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, jf. [politiregisterloven § 5](lov/2010-05-28-16/§5) og [§ 64](lov/2010-05-28-16/§64),kvalitetskontroll av opplysningene, jf. [politiregisterloven § 6](lov/2010-05-28-16/§6),merking av opplysninger der [politiregisterloven](lov/2010-05-28-16) og forskriften gir anvisning på det,sletting og sperring av opplysninger som ikke lenger er nødvendige for formålet, jf. [politiregisterloven § 50](lov/2010-05-28-16/§50),retting og sperring av opplysninger som har feil eller mangler, jf. [politiregisterloven § 51](lov/2010-05-28-16/§51),dokumentasjon for utlevering av opplysninger,innhenting og kontroll av de registrertes samtykke, jf. [§ 6-1](forskrift/2013-09-20-1097/§6-1),oppfyllelse av begjæringer om innsyn og informasjon, jf. [politiregisterloven § 49](lov/2010-05-28-16/§49) og [§ 48](lov/2010-05-28-16/§48),oppfyllelse av begjæringer om retting, sperring og sletting,bruk av opplysninger som er sperret, jf. [politiregisterloven § 52](lov/2010-05-28-16/§52), oginformasjonssikkerhet, jf. [politiregisterloven § 15](lov/2010-05-28-16/§15).
+Den behandlingsansvarlige skal ha rutiner for oppfyllelse av sine plikter og de registrertes rettigheter etter det til enhver tid gjeldende regelverk, herunder ha rutiner for
+
+1. oppfyllelse av krav om at opplysninger kun kan behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, jf. [politiregisterloven § 5](lov/2010-05-28-16/§5) og [§ 64](lov/2010-05-28-16/§64),
+2. kvalitetskontroll av opplysningene, jf. [politiregisterloven § 6](lov/2010-05-28-16/§6),
+3. merking av opplysninger der [politiregisterloven](lov/2010-05-28-16) og forskriften gir anvisning på det,
+4. sletting og sperring av opplysninger som ikke lenger er nødvendige for formålet, jf. [politiregisterloven § 50](lov/2010-05-28-16/§50),
+5. retting og sperring av opplysninger som har feil eller mangler, jf. [politiregisterloven § 51](lov/2010-05-28-16/§51),
+6. dokumentasjon for utlevering av opplysninger,
+7. innhenting og kontroll av de registrertes samtykke, jf. [§ 6-1](forskrift/2013-09-20-1097/§6-1),
+8. oppfyllelse av begjæringer om innsyn og informasjon, jf. [politiregisterloven § 49](lov/2010-05-28-16/§49) og [§ 48](lov/2010-05-28-16/§48),
+9. oppfyllelse av begjæringer om retting, sperring og sletting,
+10. bruk av opplysninger som er sperret, jf. [politiregisterloven § 52](lov/2010-05-28-16/§52), og
+11. informasjonssikkerhet, jf. [politiregisterloven § 15](lov/2010-05-28-16/§15).
 
 > Endret ved [forskrift 27 april 2018 nr. 643](forskrift/2018-04-27-643) (i kraft 6 mai 2018).
 
 ### § 39-4. Internkontrollens kontrollerende del
 
-Den behandlingsansvarlige skal følge opp at behandlingen av personopplysninger gjennomføres i samsvar med de oppstilte rutinene, og jevnlig kontrollere at rutinene er oppdaterte, hensiktsmessige og i samsvar med [politiregisterlovens](lov/2010-05-28-16) bestemmelser. Herunder skal den behandlingsansvarlige ha rutiner foravviksbehandling,revisjon av om internkontrollen følges, ogregelmessig gjennomgang av internkontrollen.
+Den behandlingsansvarlige skal følge opp at behandlingen av personopplysninger gjennomføres i samsvar med de oppstilte rutinene, og jevnlig kontrollere at rutinene er oppdaterte, hensiktsmessige og i samsvar med [politiregisterlovens](lov/2010-05-28-16) bestemmelser. Herunder skal den behandlingsansvarlige ha rutiner for
+
+1. avviksbehandling,
+2. revisjon av om internkontrollen følges, og
+3. regelmessig gjennomgang av internkontrollen.
 
 ### § 39-5. Internkontroll hos databehandler
 
 Databehandlere som behandler personopplysninger på oppdrag fra behandlingsansvarlige, skal behandle opplysningene i samsvar med rutiner den behandlingsansvarlige har oppstilt.
 
-Databehandleren skal ha oversikt overkategorier av opplysninger som behandles på vegne av den behandlingsansvarlige,hvis aktuelt, overføring av opplysninger til tredjeland eller internasjonale organisasjoner, der dette er bestemt av den behandlingsansvarlige, herunder hvilke tredjeland og internasjonale organisasjoner opplysninger er overført til, ogtekniske og organisatoriske sikkerhetstiltak, jf. forskriften [kapittel 40](forskrift/2013-09-20-1097/kap40).
+Databehandleren skal ha oversikt over
+
+1. kategorier av opplysninger som behandles på vegne av den behandlingsansvarlige,
+2. hvis aktuelt, overføring av opplysninger til tredjeland eller internasjonale organisasjoner, der dette er bestemt av den behandlingsansvarlige, herunder hvilke tredjeland og internasjonale organisasjoner opplysninger er overført til, og
+3. tekniske og organisatoriske sikkerhetstiltak, jf. forskriften [kapittel 40](forskrift/2013-09-20-1097/kap40).
 
 Dokumentasjon som nevnt i annet ledd skal være tilgjengelig for tilsynsmyndighetene.
 
@@ -1478,7 +1707,14 @@ Resultat fra avviksbehandling skal dokumenteres.
 
 Ved brudd på personopplysningssikkerheten skal den behandlingsansvarlige gi melding til Datatilsynet snarest mulig og senest innen 72 timer etter at den behandlingsansvarlige ble kjent med bruddet på personopplysningssikkerheten, med mindre det er lite trolig at bruddet på personopplysningssikkerheten innebærer en risiko for den registrertes rettigheter og friheter. Dersom melding gis senere enn innen 72 timer, skal det gis en begrunnelse for forsinkelsen.
 
-Meldingen skal minst inneholdeinformasjon om type brudd på personopplysningssikkerheten,om mulig, kategorier av og antall registrerte som berøres,om mulig, kategorier av og antall registreringer av personopplysninger som berøres,personvernrådgivers kontaktinformasjon eller annet kontaktpunkt,sannsynlige konsekvenser av bruddet på personopplysningssikkerheten, ogigangsatte eller foreslåtte tiltak for å håndtere bruddet på personopplysningssikkerheten, herunder tiltak for å begrense negative konsekvenser.
+Meldingen skal minst inneholde
+
+1. informasjon om type brudd på personopplysningssikkerheten,
+2. om mulig, kategorier av og antall registrerte som berøres,
+3. om mulig, kategorier av og antall registreringer av personopplysninger som berøres,
+4. personvernrådgivers kontaktinformasjon eller annet kontaktpunkt,
+5. sannsynlige konsekvenser av bruddet på personopplysningssikkerheten, og
+6. igangsatte eller foreslåtte tiltak for å håndtere bruddet på personopplysningssikkerheten, herunder tiltak for å begrense negative konsekvenser.
 
 Dersom det ikke er mulig å gi opplysninger som nevnt i femte ledd innen fristen, skal opplysningene gis så snart som mulig.
 
@@ -1632,7 +1868,13 @@ Dersom Datatilsynets vedtak påklages, jf. [politiregisterloven § 60](lov/2010-
 
 ### § 42-3. Datatilsynets kompetanse til å gi anmerkning
 
-I de tilfellene der Datatilsynet ikke kan gi pålegg, jf. [politiregisterloven § 60](lov/2010-05-28-16/§60) første ledd, kan det gis anmerkning. Dette gjelderbehandling av opplysninger i den enkelte straffesak, jf. bl.a. forskriften del 7,når den registrerte nektes innsyn, jf. [politiregisterloven § 49](lov/2010-05-28-16/§49) tredje ledd,overholdelse av reglene om utlevering, jf. [politiregisterloven kapittel 5](lov/2010-05-28-16/kap5),overholdelse av reglene om taushetsplikten, jf. [politiregisterloven kapittel 6](lov/2010-05-28-16/kap6),overholdelse av reglene om vandelskontroll, jf. [politiregisterloven kapittel 7](lov/2010-05-28-16/kap7).
+I de tilfellene der Datatilsynet ikke kan gi pålegg, jf. [politiregisterloven § 60](lov/2010-05-28-16/§60) første ledd, kan det gis anmerkning. Dette gjelder
+
+1. behandling av opplysninger i den enkelte straffesak, jf. bl.a. forskriften del 7,
+2. når den registrerte nektes innsyn, jf. [politiregisterloven § 49](lov/2010-05-28-16/§49) tredje ledd,
+3. overholdelse av reglene om utlevering, jf. [politiregisterloven kapittel 5](lov/2010-05-28-16/kap5),
+4. overholdelse av reglene om taushetsplikten, jf. [politiregisterloven kapittel 6](lov/2010-05-28-16/kap6),
+5. overholdelse av reglene om vandelskontroll, jf. [politiregisterloven kapittel 7](lov/2010-05-28-16/kap7).
 
 I anmerkningen bør det fremgå hvilke bestemmelser i [politiregisterloven](lov/2010-05-28-16) eller forskriften behandlingen strider mot og hvordan behandlingen bør innrettes for å komme i samsvar med loven og forskriften.
 
@@ -1668,7 +1910,15 @@ Dersom Personvernnemnda kommer til at Datatilsynet har fattet vedtak om anmerkni
 
 ### § 43-1. Personvernrådgivernes oppgaver
 
-Personvernrådgiveren skal blant annet utføre følgende oppgaver:bistå andre tjenestemenn for å sikre at bestemmelsene i [politiregisterloven](lov/2010-05-28-16) og forskriften blir fulgt,påse at behandlingsansvarlig har et system for internkontroll som tilfredsstiller [politiregisterloven § 16](lov/2010-05-28-16/§16), jf. forskriften [kapittel 39](forskrift/2013-09-20-1097/kap39),påpeke brudd på [politiregisterloven](lov/2010-05-28-16) eller forskriften overfor behandlingsansvarlig,gi råd og veiledning til behandlingsansvarlig om behandling av opplysninger og reglene for dette,bistå de registrerte med å ivareta deres rettigheter etter reglene om behandling av opplysninger,gi Datatilsynet opplysninger dersom tilsynet ber om det, herunder foreta undersøkelser i konkrete saker, ogholde seg orientert om utviklingen innen personvern.
+Personvernrådgiveren skal blant annet utføre følgende oppgaver:
+
+1. bistå andre tjenestemenn for å sikre at bestemmelsene i [politiregisterloven](lov/2010-05-28-16) og forskriften blir fulgt,
+2. påse at behandlingsansvarlig har et system for internkontroll som tilfredsstiller [politiregisterloven § 16](lov/2010-05-28-16/§16), jf. forskriften [kapittel 39](forskrift/2013-09-20-1097/kap39),
+3. påpeke brudd på [politiregisterloven](lov/2010-05-28-16) eller forskriften overfor behandlingsansvarlig,
+4. gi råd og veiledning til behandlingsansvarlig om behandling av opplysninger og reglene for dette,
+5. bistå de registrerte med å ivareta deres rettigheter etter reglene om behandling av opplysninger,
+6. gi Datatilsynet opplysninger dersom tilsynet ber om det, herunder foreta undersøkelser i konkrete saker, og
+7. holde seg orientert om utviklingen innen personvern.
 
 Den behandlingsansvarlige underretter Datatilsynet om personvernrådgiverens kontaktinformasjon.
 
@@ -1698,9 +1948,31 @@ For øvrig gjelder bestemmelsene i forskriften kapittel 2.
 
 ### § 44-4. Reaksjoner og tiltak som skal registreres
 
-I reaksjonsregisteret skal det registreres opplysninger om fysiske og juridiske personer som er ilagt straff, andre strafferettslige reaksjoner eller andre tiltak som følge av lovbrudd. Det vil si opplysninger omdom på betinget og ubetinget fengsel,dom på forvaring, eventuelt sikring,dom på samfunnsstraff, eventuelt samfunnstjeneste,dom på ungdomsstraff,dom eller vedtatt forelegg på betinget og ubetinget bot,dom på rettighetstap,dom og forelegg på militær arrestbetinget dom hvor fastsetting av straff utstår,påtaleunnlatelse etter [straffeprosessloven § 69](lov/1981-05-22-25/§69) og [§ 70](lov/1981-05-22-25/§70),overføring til behandling i konfliktråd, jf. [straffeprosessloven § 71a](lov/1981-05-22-25/§71a),overføring til tvunget psykisk helsevern eller tvungen omsorg, eventuelt sikring,overføring til barneverntjenesten,inndragning,tap av retten til å føre motorvogn mv., jf. [vegtrafikkloven § 24a](lov/1965-06-18-4/§24a) annet ledd, [§ 33](lov/1965-06-18-4/§33) nr. 1 og 2, jf. nr. 6, og [§ 35](lov/1965-06-18-4/§35) første ledd og tap av retten til å drive persontransport mot vederlag (kjøreseddel), jf. [yrkestransportloven § 37f](lov/2002-06-21-45/§37f) annet ledd,dom eller vedtatt forelegg med straffutmålingsfrafall, ogpersonundersøkelse og beslutning om rettspsykiatrisk undersøkelse med eventuelle tilleggserklæringer. Registreringen begrenses til tidspunktet for undersøkelsen eller observasjonen, samt hvilke sakkyndige som har medvirket og resultatet av observasjonen.
+I reaksjonsregisteret skal det registreres opplysninger om fysiske og juridiske personer som er ilagt straff, andre strafferettslige reaksjoner eller andre tiltak som følge av lovbrudd. Det vil si opplysninger om
 
-I tillegg skal det registreres opplysninger omeventuelle særvilkår knyttet til reaksjonen,endring av avgjørelse som nevnt i første ledd, herunder ved benådning eller ved brudd på fastsatte vilkår,fullbyrdelse av reaksjoner, herunder opplysninger om utsettelse, innsetting, overføringer, permisjoner og andre endringer, også om endring i beregning av reaksjonens varighet samt om løslating, ogandre reaksjoner som er blitt registrert der i henhold til tidligere ordninger.
+1. dom på betinget og ubetinget fengsel,
+2. dom på forvaring, eventuelt sikring,
+3. dom på samfunnsstraff, eventuelt samfunnstjeneste,
+4. dom på ungdomsstraff,
+5. dom eller vedtatt forelegg på betinget og ubetinget bot,
+6. dom på rettighetstap,
+7. dom og forelegg på militær arrest
+8. betinget dom hvor fastsetting av straff utstår,
+9. påtaleunnlatelse etter [straffeprosessloven § 69](lov/1981-05-22-25/§69) og [§ 70](lov/1981-05-22-25/§70),
+10. overføring til behandling i konfliktråd, jf. [straffeprosessloven § 71a](lov/1981-05-22-25/§71a),
+11. overføring til tvunget psykisk helsevern eller tvungen omsorg, eventuelt sikring,
+12. overføring til barneverntjenesten,
+13. inndragning,
+14. tap av retten til å føre motorvogn mv., jf. [vegtrafikkloven § 24a](lov/1965-06-18-4/§24a) annet ledd, [§ 33](lov/1965-06-18-4/§33) nr. 1 og 2, jf. nr. 6, og [§ 35](lov/1965-06-18-4/§35) første ledd og tap av retten til å drive persontransport mot vederlag (kjøreseddel), jf. [yrkestransportloven § 37f](lov/2002-06-21-45/§37f) annet ledd,
+15. dom eller vedtatt forelegg med straffutmålingsfrafall, og
+16. personundersøkelse og beslutning om rettspsykiatrisk undersøkelse med eventuelle tilleggserklæringer. Registreringen begrenses til tidspunktet for undersøkelsen eller observasjonen, samt hvilke sakkyndige som har medvirket og resultatet av observasjonen.
+
+I tillegg skal det registreres opplysninger om
+
+1. eventuelle særvilkår knyttet til reaksjonen,
+2. endring av avgjørelse som nevnt i første ledd, herunder ved benådning eller ved brudd på fastsatte vilkår,
+3. fullbyrdelse av reaksjoner, herunder opplysninger om utsettelse, innsetting, overføringer, permisjoner og andre endringer, også om endring i beregning av reaksjonens varighet samt om løslating, og
+4. andre reaksjoner som er blitt registrert der i henhold til tidligere ordninger.
 
 > Endret ved forskrift [20 juni 2014 nr. 790](forskrift/2014-06-20-790) (i kraft 1 juli 2014), [15 nov 2024 nr. 2786](forskrift/2024-11-15-2786).
 
@@ -1756,7 +2028,10 @@ Saksbehandlingsreglene i [politiregisterloven § 54](lov/2010-05-28-16/§54) og 
 
 ### § 44-12. Sperring av nærmere bestemte opplysninger
 
-Følgende opplysninger skal sperres:ilagt bot etter 15 år, ogannen ilagt reaksjon enn bot for lovbrudd med øvre strafferamme på fengsel inntil 3 år etter 20 år.
+Følgende opplysninger skal sperres:
+
+1. ilagt bot etter 15 år, og
+2. annen ilagt reaksjon enn bot for lovbrudd med øvre strafferamme på fengsel inntil 3 år etter 20 år.
 
 Bestemmelsene i første ledd gjelder ikke dersom vedkommende i tidsrommet som nevnt er ilagt ny reaksjon for lovbrudd. Tidsfristen begynner i så fall å løpe fra siste ilagte reaksjon. Bestemmelsene om fristberegning i [§ 30-3](forskrift/2013-09-20-1097/§30-3) fjerde ledd gjelder tilsvarende.
 
@@ -1800,7 +2075,13 @@ Det kan også føres et eliminasjonsregister for å unngå at det registreres op
 
 ### § 45-2. Definisjoner
 
-I dette kapittel forstås med*DNA-profil:* resultatet av en DNA-analyse av biologisk materiale fra en person eller spor i identifiseringsøyemed. DNA-profilen uttrykkes ved en kombinasjon av tall, bokstaver og eventuelt symboler. DNA-profiler registrert i DNA-registeret omtales som identitetsprofiler, etterforskningsprofiler og sporprofiler.*identitetsprofil:* DNA-profil som fremkommer som resultat av analyse av prøvemateriale innhentet etter [straffeprosessloven § 158](lov/1981-05-22-25/§158) fjerde ledd, jf. [politiregisterloven § 12](lov/2010-05-28-16/§12) (besluttet registrert),*etterforskningsprofil:* DNA-profil som fremkommer som resultat av analyse av prøvemateriale innhentet etter [straffeprosessloven § 158](lov/1981-05-22-25/§158) første ledd (skjellig grunn til mistanke),*referanseprofil:* DNA-profil som fremkommer som resultat av analyse av prøvemateriale innhentet etter [straffeprosessloven § 158](lov/1981-05-22-25/§158) annet ledd (samtykke), og*sporprofil:* DNA-profil som fremkommer som resultat av analyse av prøvemateriale innhentet fra for eksempel gjenstander, beslag og på personer.
+I dette kapittel forstås med
+
+1. *DNA-profil:* resultatet av en DNA-analyse av biologisk materiale fra en person eller spor i identifiseringsøyemed. DNA-profilen uttrykkes ved en kombinasjon av tall, bokstaver og eventuelt symboler. DNA-profiler registrert i DNA-registeret omtales som identitetsprofiler, etterforskningsprofiler og sporprofiler.
+2. *identitetsprofil:* DNA-profil som fremkommer som resultat av analyse av prøvemateriale innhentet etter [straffeprosessloven § 158](lov/1981-05-22-25/§158) fjerde ledd, jf. [politiregisterloven § 12](lov/2010-05-28-16/§12) (besluttet registrert),
+3. *etterforskningsprofil:* DNA-profil som fremkommer som resultat av analyse av prøvemateriale innhentet etter [straffeprosessloven § 158](lov/1981-05-22-25/§158) første ledd (skjellig grunn til mistanke),
+4. *referanseprofil:* DNA-profil som fremkommer som resultat av analyse av prøvemateriale innhentet etter [straffeprosessloven § 158](lov/1981-05-22-25/§158) annet ledd (samtykke), og
+5. *sporprofil:* DNA-profil som fremkommer som resultat av analyse av prøvemateriale innhentet fra for eksempel gjenstander, beslag og på personer.
 
 > Endret ved [forskrift 18 juni 2021 nr. 1982](forskrift/2021-06-18-1982).
 
@@ -1834,7 +2115,11 @@ I DNA-registeret kan det registreres følgende opplysninger:
 
 2\. I etterforskningsregisteret kan det registreres opplysninger om DNA-profiler som nevnt i [politiregisterloven § 12](lov/2010-05-28-16/§12) tredje ledd og vedkommendes identitetsopplysninger/personalia.
 
-3\. I sporregisteret kan det registreres opplysninger om DNA-profiler som nevnt i [politiregisterloven § 12](lov/2010-05-28-16/§12) fjerde ledd. Blandingsprofil kan registreres i sporregisteret dersom profilen bare består av uidentifiserte personer. Tilsvarende gjelder dersom profilen delvis er identifisert og den som identifiseres er død. Dersom profilen delvis er identifisert og den som identifiseres er den fornærmede eller vitne, skal det innhentes skriftlig samtykke fra vedkommende for å kunne legge blandingen inn i registeret. Dersom den identifiserte allerede er registrert i DNA-registeret eller er mistenkt i saken, kan blandingen beholdes eller registreres uten samtykke.Før sporprofiler registreres i sporregisteret skal det foretas søk i eliminasjonsregisteret.I DNA-registeret kan det også registreres sakskorrespondanse, opplysninger om straffesaken DNA-profilen ble innhentet i og saker profilen treffer i DNA-registeret.
+3\. I sporregisteret kan det registreres opplysninger om DNA-profiler som nevnt i [politiregisterloven § 12](lov/2010-05-28-16/§12) fjerde ledd. Blandingsprofil kan registreres i sporregisteret dersom profilen bare består av uidentifiserte personer. Tilsvarende gjelder dersom profilen delvis er identifisert og den som identifiseres er død. Dersom profilen delvis er identifisert og den som identifiseres er den fornærmede eller vitne, skal det innhentes skriftlig samtykke fra vedkommende for å kunne legge blandingen inn i registeret. Dersom den identifiserte allerede er registrert i DNA-registeret eller er mistenkt i saken, kan blandingen beholdes eller registreres uten samtykke.
+
+Før sporprofiler registreres i sporregisteret skal det foretas søk i eliminasjonsregisteret.
+
+I DNA-registeret kan det også registreres sakskorrespondanse, opplysninger om straffesaken DNA-profilen ble innhentet i og saker profilen treffer i DNA-registeret.
 
 > Endret ved [forskrift 20 juni 2014 nr. 790](forskrift/2014-06-20-790) (i kraft 1 juli 2014).
 
@@ -1976,13 +2261,31 @@ For øvrig gjelder bestemmelsene i forskriften kapittel 2.
 
 ### § 46-4. Opplysninger som kan registreres i fotoregisteret og fingeravtrykkregisteret
 
-I fotoregisteret og fingeravtrykkregisteret kan det registreres opplysninger omfingeravtrykk, både fingre og håndflate,andre kroppsavtrykk,foto, video,tilhørende personalia, ogstraffesaken foto og fingeravtrykk ble innhentet i og saker disse treffer.
+I fotoregisteret og fingeravtrykkregisteret kan det registreres opplysninger om
+
+1. fingeravtrykk, både fingre og håndflate,
+2. andre kroppsavtrykk,
+3. foto, video,
+4. tilhørende personalia, og
+5. straffesaken foto og fingeravtrykk ble innhentet i og saker disse treffer.
 
 ### § 46-5. Hvem kan registreres i fotoregisteret og fingeravtrykkregisteret
 
-I identitetsregisteret skal det registreres opplysninger som nevnt i [§ 46-4](forskrift/2013-09-20-1097/§46-4) om den somsettes inn til soning av dom på ubetinget frihetsstraff eller forvaring,begjæres varetektsfengslet,overføres til tvungent psykisk helsevern eller tvungen omsorg, oger besluttet utvist.
+I identitetsregisteret skal det registreres opplysninger som nevnt i [§ 46-4](forskrift/2013-09-20-1097/§46-4) om den som
 
-I identitetsregisteret kan det registreres opplysninger som nevnt i [§ 46-4](forskrift/2013-09-20-1097/§46-4) om den somer ilagt en reaksjon som nevnt i [§ 44-4](forskrift/2013-09-20-1097/§44-4) for en handling som etter loven kan medføre frihetsstraff. Registrering kan først skje når avgjørelsen er rettskraftig eller saken er endelig avgjort. Handling som det er utferdiget forenklet forelegg for, gir ikke grunnlag for registrering,på grunn av reglene i [straffeloven § 20](lov/2005-05-20-28/§20) ikke kan dømmes til straff for en handling som kvalifiserer for registrering. Det samme gjelder når tilstanden har medført at vedkommende ikke har utvist skyld,er norsk statsborger eller som arbeider eller oppholder seg i Norge, og som i utlandet er ilagt en straff som svarer til dem som er nevnt i [straffeloven § 29](lov/2005-05-20-28/§29), og den begåtte handling kunne ha medført frihetsstraff om den hadde vært begått i Norge,er siktet for lovbrudd i Norge og forholdet overføres en annen stat for straffeforfølgning,begjærer det av grunner som finnes fyllestgjørende ellerer besluttet utlevert til annen stat.
+1. settes inn til soning av dom på ubetinget frihetsstraff eller forvaring,
+2. begjæres varetektsfengslet,
+3. overføres til tvungent psykisk helsevern eller tvungen omsorg, og
+4. er besluttet utvist.
+
+I identitetsregisteret kan det registreres opplysninger som nevnt i [§ 46-4](forskrift/2013-09-20-1097/§46-4) om den som
+
+1. er ilagt en reaksjon som nevnt i [§ 44-4](forskrift/2013-09-20-1097/§44-4) for en handling som etter loven kan medføre frihetsstraff. Registrering kan først skje når avgjørelsen er rettskraftig eller saken er endelig avgjort. Handling som det er utferdiget forenklet forelegg for, gir ikke grunnlag for registrering,
+2. på grunn av reglene i [straffeloven § 20](lov/2005-05-20-28/§20) ikke kan dømmes til straff for en handling som kvalifiserer for registrering. Det samme gjelder når tilstanden har medført at vedkommende ikke har utvist skyld,
+3. er norsk statsborger eller som arbeider eller oppholder seg i Norge, og som i utlandet er ilagt en straff som svarer til dem som er nevnt i [straffeloven § 29](lov/2005-05-20-28/§29), og den begåtte handling kunne ha medført frihetsstraff om den hadde vært begått i Norge,
+4. er siktet for lovbrudd i Norge og forholdet overføres en annen stat for straffeforfølgning,
+5. begjærer det av grunner som finnes fyllestgjørende eller
+6. er besluttet utlevert til annen stat.
 
 I etterforskningsregisteret kan det registreres opplysninger som nevnt i [§ 46-4](forskrift/2013-09-20-1097/§46-4) om den som er mistenkt eller siktet for en handling som kan medføre frihetsstraff.
 
@@ -2076,7 +2379,11 @@ Bestemmelsene i [politiregisterloven § 15](lov/2010-05-28-16/§15), [§ 16](lov
 
 ### § 47-1. Formålet
 
-Formålet med behandling av opplysninger i kriminaletterretningsregisteret erå forebygge kriminalitet,å avdekke og stanse lovbrudd, ogå ivareta den enkeltes sikkerhet.
+Formålet med behandling av opplysninger i kriminaletterretningsregisteret er
+
+1. å forebygge kriminalitet,
+2. å avdekke og stanse lovbrudd, og
+3. å ivareta den enkeltes sikkerhet.
 
 > Endret ved [forskrift 4 des 2015 nr. 1398](forskrift/2015-12-04-1398) (i kraft 1 jan 2016).
 
@@ -2096,7 +2403,13 @@ Før øvrig gjelder bestemmelsene i forskriften kapittel 2.
 
 ### § 47-4. Hvem kan registreres
 
-Når det er nødvendig for å oppnå formål som nevnt i [§ 47-1](forskrift/2013-09-20-1097/§47-1), kan det registreres opplysninger om personer somdet er objektive holdepunkter for at kan antas å begå lovbrudd, eksempelvis ved at vedkommende er knyttet til et miljø hvor en vesentlig del av virksomheten består i å begå lovbrudd, vedkommende tidligere har begått flere lovbrudd eller at det foreligger andre ytre omstendigheter som indikerer risiko for lovbrudd,har en særlig tilknytning til personer som nevnt i nr. 1, herunder familiemedlemmer, venner, arbeidskolleger eller samarbeidspartnere i det kriminelle miljøet mv., dersom tilknytningen antas å være av betydning for politiets mulighet til å følge med på virksomhet som nevnt i nr. 1,er blitt, eller det er sannsynlig vil bli utsatt for lovbrudd,som gir informasjon til politiet, ellerhar gitt samtykke til behandling, jf. [§ 6-1](forskrift/2013-09-20-1097/§6-1).
+Når det er nødvendig for å oppnå formål som nevnt i [§ 47-1](forskrift/2013-09-20-1097/§47-1), kan det registreres opplysninger om personer som
+
+1. det er objektive holdepunkter for at kan antas å begå lovbrudd, eksempelvis ved at vedkommende er knyttet til et miljø hvor en vesentlig del av virksomheten består i å begå lovbrudd, vedkommende tidligere har begått flere lovbrudd eller at det foreligger andre ytre omstendigheter som indikerer risiko for lovbrudd,
+2. har en særlig tilknytning til personer som nevnt i nr. 1, herunder familiemedlemmer, venner, arbeidskolleger eller samarbeidspartnere i det kriminelle miljøet mv., dersom tilknytningen antas å være av betydning for politiets mulighet til å følge med på virksomhet som nevnt i nr. 1,
+3. er blitt, eller det er sannsynlig vil bli utsatt for lovbrudd,
+4. som gir informasjon til politiet, eller
+5. har gitt samtykke til behandling, jf. [§ 6-1](forskrift/2013-09-20-1097/§6-1).
 
 Opplysninger om personer som nevnt i første ledd skal merkes, slik at det fremgår hvilken kategori personer den registrerte tilhører.
 
@@ -2104,7 +2417,28 @@ Opplysninger om personer som nevnt i første ledd skal merkes, slik at det fremg
 
 ### § 47-5. Opplysninger som kan registres
 
-Dersom vilkårene i [§ 47-4](forskrift/2013-09-20-1097/§47-4) er oppfylt, kan det registreres opplysninger som er nødvendige for å oppnå formål som nevnt i [§ 47-1](forskrift/2013-09-20-1097/§47-1), herunderalle navn, herunder oppnavn, kallenavn eller alias,rolle,kjønn,fødselsnummer,fødested og statsborgerskap,kontaktopplysninger, herunder teledata,utlendingsidentifikasjon,signalement,bilde,sivil status,yrke eller arbeidsforhold,økonomiske forhold eller foretaksopplysninger,kjøretøy eller transportmiddel,straffereaksjoner eller bruk av straffeprosessuelle tvangsmidler,måten å operere på (modus operandi),organisasjon,relasjoner eller kontaktpersoner,opplysninger av betydning for politiets sikkerhet ved kontakt med vedkommende,opplysninger om risiko for lovbrudd og antatt lovbrudd, ellertiltak knyttet til risiko for lovbrudd og antatt lovbrudd.
+Dersom vilkårene i [§ 47-4](forskrift/2013-09-20-1097/§47-4) er oppfylt, kan det registreres opplysninger som er nødvendige for å oppnå formål som nevnt i [§ 47-1](forskrift/2013-09-20-1097/§47-1), herunder
+
+1. alle navn, herunder oppnavn, kallenavn eller alias,
+2. rolle,
+3. kjønn,
+4. fødselsnummer,
+5. fødested og statsborgerskap,
+6. kontaktopplysninger, herunder teledata,
+7. utlendingsidentifikasjon,
+8. signalement,
+9. bilde,
+10. sivil status,
+11. yrke eller arbeidsforhold,
+12. økonomiske forhold eller foretaksopplysninger,
+13. kjøretøy eller transportmiddel,
+14. straffereaksjoner eller bruk av straffeprosessuelle tvangsmidler,
+15. måten å operere på (modus operandi),
+16. organisasjon,
+17. relasjoner eller kontaktpersoner,
+18. opplysninger av betydning for politiets sikkerhet ved kontakt med vedkommende,
+19. opplysninger om risiko for lovbrudd og antatt lovbrudd, eller
+20. tiltak knyttet til risiko for lovbrudd og antatt lovbrudd.
 
 For behandling av opplysninger som nevnt i [politiregisterloven § 7](lov/2010-05-28-16/§7) kommer forskriften [§ 5-3](forskrift/2013-09-20-1097/§5-3) til anvendelse.
 
@@ -2138,7 +2472,11 @@ Utover dette gjelder bestemmelsene i [politiregisterloven § 21](lov/2010-05-28-
 
 Opplysninger fra kriminaletterretningsregisteret kan ikke utleveres med mindre det skjer til formål som nevnt i [§ 47-1](forskrift/2013-09-20-1097/§47-1) og [politiregisterloven § 29](lov/2010-05-28-16/§29), eller dersom hensynet til betydelige samfunnsmessige eller sikkerhetsmessige forhold tilsier det. Opplysninger som er registrert til formål som nevnt i [§ 47-1](forskrift/2013-09-20-1097/§47-1) nr. 1 kan likevel utleveres etter [politiregisterloven kapittel 5](lov/2010-05-28-16/kap5) og [6](lov/2010-05-28-16/kap6) og forskriften del 3. Skriftlig utlevering av opplysninger som er registrert til formål som nevnt i [§ 47-1](forskrift/2013-09-20-1097/§47-1) nr. 1 skal skje i form av notat eller rapportering som gjengir relevante opplysninger.
 
-Med unntak av muntlig utlevering som nevnt i [§ 11-3](forskrift/2013-09-20-1097/§11-3) fjerde ledd skal utlevering av opplysninger som er registrert til formål som nevnt i [§ 47-1](forskrift/2013-09-20-1097/§47-1) nr. 2 og 3 skje skriftlig. Utleveringen skal ikke skje i form av direkte utskrift, men ved notat eller rapport hvor det skal fremgåen vurdering av kildens pålitelighet og opplysningenes holdbarhet, jf. [§ 47-6](forskrift/2013-09-20-1097/§47-6),hvorvidt opplysningene er verifisert eller ikke, ogtidspunktet for når opplysningene er innhentet.
+Med unntak av muntlig utlevering som nevnt i [§ 11-3](forskrift/2013-09-20-1097/§11-3) fjerde ledd skal utlevering av opplysninger som er registrert til formål som nevnt i [§ 47-1](forskrift/2013-09-20-1097/§47-1) nr. 2 og 3 skje skriftlig. Utleveringen skal ikke skje i form av direkte utskrift, men ved notat eller rapport hvor det skal fremgå
+
+1. en vurdering av kildens pålitelighet og opplysningenes holdbarhet, jf. [§ 47-6](forskrift/2013-09-20-1097/§47-6),
+2. hvorvidt opplysningene er verifisert eller ikke, og
+3. tidspunktet for når opplysningene er innhentet.
 
 For utlevering av opplysninger underlagt tidsbegrenset unntak, jf. [politiregisterloven § 8](lov/2010-05-28-16/§8), kommer [§ 7-6](forskrift/2013-09-20-1097/§7-6) til anvendelse.
 
@@ -2230,7 +2568,19 @@ For øvrig gjelder bestemmelsene i forskriften kapittel 2.
 
 ### § 48-5. Opplysninger som kan registreres
 
-I straffesaksregisteret kan det registreres opplysninger som er nødvendig for å oppnå formål som nevnt i [§ 48-1](forskrift/2013-09-20-1097/§48-1), herunder opplysninger omdet anmeldte forhold,gjerningsdato,gjerningssted,navn,personalia for involverte personer,involvert gods,modus,ansvarlige for behandling av straffesaken,status for etterforskningen,ekspedisjoner, ogsaksavgjørelser.
+I straffesaksregisteret kan det registreres opplysninger som er nødvendig for å oppnå formål som nevnt i [§ 48-1](forskrift/2013-09-20-1097/§48-1), herunder opplysninger om
+
+1. det anmeldte forhold,
+2. gjerningsdato,
+3. gjerningssted,
+4. navn,
+5. personalia for involverte personer,
+6. involvert gods,
+7. modus,
+8. ansvarlige for behandling av straffesaken,
+9. status for etterforskningen,
+10. ekspedisjoner, og
+11. saksavgjørelser.
 
 ### Tilgang og utlevering
 
@@ -2446,7 +2796,16 @@ For øvrig gjelder bestemmelsene i forskriften kapittel 2.
 
 ### § 50-4. Opplysninger som kan registreres
 
-I saknetregisteret skal det uten unødig opphold registreres opplysninger om personer som antas å ha omkommet. Dersom en saknet person ikke har kommet til rette innen senest tre måneder, kan det registreres opplysninger om denne personen. Videre kan det registreres opplysninger om uidentifiserte lik og likdeler. Det kan bare registreres opplysninger som antas å kunne bidra til å identifisere vedkommende, herundergenerelle opplysninger om den saknede og omstendigheter rundt forsvinningen,generelle opplysninger om liket, likundersøkelsen og funnstedet,opplysninger om personens bekledning, smykker og eiendeler mv.,opplysninger om personens ytre fysikk, for eksempel høyde, vekt, hår og øyenfarge, tatoveringer, arr, føflekker, fingeravtrykk mv.,opplysninger om personens helse innhentet fra helsepersonell/helseinstitusjon, for eksempel om medisinbruk, sykdommer, implantater, operasjoner mv.,DNA-opplysninger, jf. [§ 50-5](forskrift/2013-09-20-1097/§50-5),odontologiske opplysninger, herunder tannlegejournaler, røntgenbilder, annet bildemateriell og modeller, ogøvrige opplysninger som antas å kunne bidra til å identifisere vedkommende.
+I saknetregisteret skal det uten unødig opphold registreres opplysninger om personer som antas å ha omkommet. Dersom en saknet person ikke har kommet til rette innen senest tre måneder, kan det registreres opplysninger om denne personen. Videre kan det registreres opplysninger om uidentifiserte lik og likdeler. Det kan bare registreres opplysninger som antas å kunne bidra til å identifisere vedkommende, herunder
+
+1. generelle opplysninger om den saknede og omstendigheter rundt forsvinningen,
+2. generelle opplysninger om liket, likundersøkelsen og funnstedet,
+3. opplysninger om personens bekledning, smykker og eiendeler mv.,
+4. opplysninger om personens ytre fysikk, for eksempel høyde, vekt, hår og øyenfarge, tatoveringer, arr, føflekker, fingeravtrykk mv.,
+5. opplysninger om personens helse innhentet fra helsepersonell/helseinstitusjon, for eksempel om medisinbruk, sykdommer, implantater, operasjoner mv.,
+6. DNA-opplysninger, jf. [§ 50-5](forskrift/2013-09-20-1097/§50-5),
+7. odontologiske opplysninger, herunder tannlegejournaler, røntgenbilder, annet bildemateriell og modeller, og
+8. øvrige opplysninger som antas å kunne bidra til å identifisere vedkommende.
 
 > Endret ved [forskrift 3 juni 2016 nr. 570](forskrift/2016-06-03-570).
 
@@ -2540,7 +2899,19 @@ For øvrig gjelder bestemmelsene i forskriften kapittel 2.
 
 ### § 51-5. Hvilke opplysninger registreres
 
-I etterlysningsregistre kan det blant annet registreres opplysninger omperson, herunder personalia, foto og øvrige signalementsopplysninger, aliaser og misbrukte identiteter,kjøretøy,kjennemerke,båt eller båtmotor,dokumenter, både blankodokumenter og utstedte ID-dokumenter, herunder bl.a. pass, visumetiketter, oppholdstillatelser, førerkort, vognkort og registreringsbevis,pengesedler,våpen,luftfartøy,industrielt verktøy,containere ogandre gjenstander.
+I etterlysningsregistre kan det blant annet registreres opplysninger om
+
+1. person, herunder personalia, foto og øvrige signalementsopplysninger, aliaser og misbrukte identiteter,
+2. kjøretøy,
+3. kjennemerke,
+4. båt eller båtmotor,
+5. dokumenter, både blankodokumenter og utstedte ID-dokumenter, herunder bl.a. pass, visumetiketter, oppholdstillatelser, førerkort, vognkort og registreringsbevis,
+6. pengesedler,
+7. våpen,
+8. luftfartøy,
+9. industrielt verktøy,
+10. containere og
+11. andre gjenstander.
 
 I tillegg kan relevant informasjon fra saksdokumentene, etterlysningsgrunn, tiltak og resultatet av etterlysningen registreres.
 
@@ -2620,7 +2991,13 @@ Bestemmelsene i [politiregisterloven § 15](lov/2010-05-28-16/§15), [§ 16](lov
 
 ### § 52-1. Formålet
 
-Formålet med behandling av opplysninger i hvitvaskingsregisteret (ASK) er å bidra til å bekjempe hvitvasking av utbytte fra lovbrudd, finansiering av terrorvirksomhet og tilknyttet kriminalitet gjennom å ivareta ØKOKRIM ved Enhet for finansiell etterretning (EFE) sine oppgaver med:registrering, mottak og systematisering av informasjon som EFE mottar og innhenter i henhold til [hvitvaskingsloven](lov/2018-06-01-23) og forskrifter fastsatt i medhold av [hvitvaskingsloven](lov/2018-06-01-23),registering, mottak og systematisering av informasjon som knytter seg til mistanke om hvitvasking, tilknyttet straffbar virksomhet og terrorfinansiering og som EFE mottar og innhenter fra andre enn rapporteringspliktige i henhold til [hvitvaskingsloven](lov/2018-06-01-23),systematisering, bearbeiding og sammenstilling av mottatt og innhentet informasjon med annen relevant og tilgjengelig informasjon med sikte på uttak og prioriteringer for nærmere analyse (strategisk analyse),systematisering, bearbeiding og sammenstilling av mottatt og innhentet informasjon med annen relevant og tilgjengelig informasjon med sikte på analyse (operativ analyse), ogformidling av informasjon til relevante mottakere nasjonalt og internasjonalt.
+Formålet med behandling av opplysninger i hvitvaskingsregisteret (ASK) er å bidra til å bekjempe hvitvasking av utbytte fra lovbrudd, finansiering av terrorvirksomhet og tilknyttet kriminalitet gjennom å ivareta ØKOKRIM ved Enhet for finansiell etterretning (EFE) sine oppgaver med:
+
+1. registrering, mottak og systematisering av informasjon som EFE mottar og innhenter i henhold til [hvitvaskingsloven](lov/2018-06-01-23) og forskrifter fastsatt i medhold av [hvitvaskingsloven](lov/2018-06-01-23),
+2. registering, mottak og systematisering av informasjon som knytter seg til mistanke om hvitvasking, tilknyttet straffbar virksomhet og terrorfinansiering og som EFE mottar og innhenter fra andre enn rapporteringspliktige i henhold til [hvitvaskingsloven](lov/2018-06-01-23),
+3. systematisering, bearbeiding og sammenstilling av mottatt og innhentet informasjon med annen relevant og tilgjengelig informasjon med sikte på uttak og prioriteringer for nærmere analyse (strategisk analyse),
+4. systematisering, bearbeiding og sammenstilling av mottatt og innhentet informasjon med annen relevant og tilgjengelig informasjon med sikte på analyse (operativ analyse), og
+5. formidling av informasjon til relevante mottakere nasjonalt og internasjonalt.
 
 > Endret ved [forskrift 19 juni 2015 nr. 673](forskrift/2015-06-19-673) (i kraft 1 okt 2015).
 
@@ -2638,9 +3015,33 @@ Det rettslige grunnlaget for ASK er [politiregisterloven § 4](lov/2010-05-28-16
 
 ### § 52-4. Opplysninger som kan lagres
 
-I ASK kan det registreres opplysninger som innrapporteres til ØKOKRIM ved enhet for finansiell etterretning i henhold til [hvitvaskingsloven § 26](lov/2018-06-01-23/§26). Videre kan følgende kategorier informasjon registreres:informasjon som knytter seg til mistanke om hvitvasking, terrorfinansiering eller tilknyttet straffbar virksomhet som EFE mottar fra andre enn rapporteringspliktige i henhold til [hvitvaskingsloven](lov/2018-06-01-23),informasjon som EFE innhenter som ledd i nærmere analyse av mottatt informasjon, ellerinformasjon som inngår i utenlandske finansielle etterretningsenheters forespørsler om informasjon fra EFE (requester) til bruk i deres virksomhet.
+I ASK kan det registreres opplysninger som innrapporteres til ØKOKRIM ved enhet for finansiell etterretning i henhold til [hvitvaskingsloven § 26](lov/2018-06-01-23/§26). Videre kan følgende kategorier informasjon registreres:
 
-Blant annet kan det registreres opplysninger omhendelser og forhold som begrunner mistanken,hvilke straffbare forhold mistanken antas å være knyttet til,kontoopplysninger og opplysninger om bevegelser på konto,transaksjonsinformasjon, herunder opplysninger om transaksjonens art, størrelse, hvorvidt transaksjonen er gjennomført, til hvem midlene skal overføres og midlenes opprinnelse,alle navn, herunder oppnavn, kallenavn eller alias,rolle,kjønn,fødsels- og identifikasjonsnummer,fødested og statsborgerskap,adresseinformasjon, herunder bo- og oppholdsinformasjon og elektronisk kontaktinformasjon,signalement,bilde,sivil status,yrke eller arbeidsforhold,økonomiske forhold og foretaksopplysninger,kjøretøy eller transportmidler,straffereaksjoner eller bruk av straffeprosessuelle tvangsmidler,måten å operere på (modus operandi), ogrelasjoner og kontaktpersoner.
+1. informasjon som knytter seg til mistanke om hvitvasking, terrorfinansiering eller tilknyttet straffbar virksomhet som EFE mottar fra andre enn rapporteringspliktige i henhold til [hvitvaskingsloven](lov/2018-06-01-23),
+2. informasjon som EFE innhenter som ledd i nærmere analyse av mottatt informasjon, eller
+3. informasjon som inngår i utenlandske finansielle etterretningsenheters forespørsler om informasjon fra EFE (requester) til bruk i deres virksomhet.
+
+Blant annet kan det registreres opplysninger om
+
+1. hendelser og forhold som begrunner mistanken,
+2. hvilke straffbare forhold mistanken antas å være knyttet til,
+3. kontoopplysninger og opplysninger om bevegelser på konto,
+4. transaksjonsinformasjon, herunder opplysninger om transaksjonens art, størrelse, hvorvidt transaksjonen er gjennomført, til hvem midlene skal overføres og midlenes opprinnelse,
+5. alle navn, herunder oppnavn, kallenavn eller alias,
+6. rolle,
+7. kjønn,
+8. fødsels- og identifikasjonsnummer,
+9. fødested og statsborgerskap,
+10. adresseinformasjon, herunder bo- og oppholdsinformasjon og elektronisk kontaktinformasjon,
+11. signalement,
+12. bilde,
+13. sivil status,
+14. yrke eller arbeidsforhold,
+15. økonomiske forhold og foretaksopplysninger,
+16. kjøretøy eller transportmidler,
+17. straffereaksjoner eller bruk av straffeprosessuelle tvangsmidler,
+18. måten å operere på (modus operandi), og
+19. relasjoner og kontaktpersoner.
 
 Ikke-verifiserte opplysninger kan lagres når det er nødvendig ut fra formålet med behandlingen.
 
@@ -2658,7 +3059,18 @@ I tillegg kan andre ansatte i ØKOKRIM som har et tjenestemessig behov, gis tilg
 
 ### § 52-6. Taushetsplikt og utlevering
 
-[Politiregisterloven kapittel 5](lov/2010-05-28-16/kap5) og [6](lov/2010-05-28-16/kap6) gjelder med følgende begrensninger:Til andre deler av politiet enn de som har tilgang etter [§ 52-5](forskrift/2013-09-20-1097/§52-5) kan det bare utleveres opplysninger til bruk i politiets virksomhet med å bekjempe hvitvasking av utbytte fra lovbrudd, finansiering av terrorvirksomhet og tilknyttet kriminalitet.Til andre offentlige organer kan det bare utleveres opplysninger i følgende tilfeller:som ledd i bekjempelse av hvitvasking av utbytte fra lovbrudd, finansiering av terrorvirksomhet og tilknyttet kriminalitet, herunderi henhold til [politiregisterloven § 26](lov/2010-05-28-16/§26) og [§ 27](lov/2010-05-28-16/§27)når det er nødvendig for å innhente informasjon til EFEs analysearbeid ellernår EFE etter nærmere analyse har kommet til at det bør undersøkes nærmere om det har forekommet straffbare forhold innenfor det respektive organets ansvarsområde, *eller*når utlevering er særlig hjemlet i [hvitvaskingsloven § 34](lov/2018-06-01-23/§34).Utlevering av opplysninger til utlandet kan bare skje til samarbeidende utenlandske finansielle etterretningsenheter (FIUs) til bruk i deres arbeid.
+[Politiregisterloven kapittel 5](lov/2010-05-28-16/kap5) og [6](lov/2010-05-28-16/kap6) gjelder med følgende begrensninger:
+
+1. Til andre deler av politiet enn de som har tilgang etter [§ 52-5](forskrift/2013-09-20-1097/§52-5) kan det bare utleveres opplysninger til bruk i politiets virksomhet med å bekjempe hvitvasking av utbytte fra lovbrudd, finansiering av terrorvirksomhet og tilknyttet kriminalitet.
+2. Til andre offentlige organer kan det bare utleveres opplysninger i følgende tilfeller:
+
+   1. som ledd i bekjempelse av hvitvasking av utbytte fra lovbrudd, finansiering av terrorvirksomhet og tilknyttet kriminalitet, herunder
+
+      1. i henhold til [politiregisterloven § 26](lov/2010-05-28-16/§26) og [§ 27](lov/2010-05-28-16/§27)
+      2. når det er nødvendig for å innhente informasjon til EFEs analysearbeid eller
+      3. når EFE etter nærmere analyse har kommet til at det bør undersøkes nærmere om det har forekommet straffbare forhold innenfor det respektive organets ansvarsområde, *eller*
+   2. når utlevering er særlig hjemlet i [hvitvaskingsloven § 34](lov/2018-06-01-23/§34).
+3. Utlevering av opplysninger til utlandet kan bare skje til samarbeidende utenlandske finansielle etterretningsenheter (FIUs) til bruk i deres arbeid.
 
 Ved muntlig utlevering av opplysninger fra ASK får [§ 11-4](forskrift/2013-09-20-1097/§11-4) anvendelse. Skriftlig utlevering av opplysninger fra ASK skal ikke skje ved utskrift eller kopi av lagrede dokumenter, men ved skriftlig rapport med bearbeidet informasjon og som angir hvorvidt opplysningene er verifiserte eller ikke.
 
@@ -2738,17 +3150,27 @@ Bestemmelsene i [politiregisterloven § 15](lov/2010-05-28-16/§15), [§ 16](lov
 
 ### § 53-1. Formålet med politioperative registre
 
-Formålet med politioperative registre er åbidra til en forsvarlig planlegging og gjennomføring av polititjenesten, herunder å ivareta politiansattes sikkerhet,sikre notoritet om alle vesentlige forhold og opplysninger vedrørende ordning, planlegging og utførelse av polititjenesten, ogbidra til utøvelse av politiets ordenshåndhevelse, forvaltningsoppgaver og kriminalitetsbekjempende virksomhet.
+Formålet med politioperative registre er å
+
+1. bidra til en forsvarlig planlegging og gjennomføring av polititjenesten, herunder å ivareta politiansattes sikkerhet,
+2. sikre notoritet om alle vesentlige forhold og opplysninger vedrørende ordning, planlegging og utførelse av polititjenesten, og
+3. bidra til utøvelse av politiets ordenshåndhevelse, forvaltningsoppgaver og kriminalitetsbekjempende virksomhet.
 
 > Endret ved [forskrift 4 des 2015 nr. 1398](forskrift/2015-12-04-1398) (i kraft 1 jan 2016).
 
 ### § 53-2. Formålet med lydlogg
 
-Formålet med lydloggen er å sikre notoritet om kommunikasjon med operasjonssentralen for åbidra til forsvarlig oppfølging av aktuelle hendelser og henvendelser til politiet, ogdanne grunnlag som bevis i straffesak eller annen undersøkelsessak.
+Formålet med lydloggen er å sikre notoritet om kommunikasjon med operasjonssentralen for å
+
+1. bidra til forsvarlig oppfølging av aktuelle hendelser og henvendelser til politiet, og
+2. danne grunnlag som bevis i straffesak eller annen undersøkelsessak.
 
 ### § 53-3. Definisjoner
 
-I dette kapittel forstås med:*politioperative registre:* registre som anvendes for å administrere polititjenesten på vedkommende sted, og*lydlogg:* automatisert og fortløpende opptak av samtaler på telefon og annet sambandsutstyr.
+I dette kapittel forstås med:
+
+1. *politioperative registre:* registre som anvendes for å administrere polititjenesten på vedkommende sted, og
+2. *lydlogg:* automatisert og fortløpende opptak av samtaler på telefon og annet sambandsutstyr.
 
 > Endret ved [forskrift 4 des 2015 nr. 1398](forskrift/2015-12-04-1398) (i kraft 1 jan 2016).
 
@@ -2772,7 +3194,12 @@ For øvrig gjelder bestemmelsene i forskriften kapittel 2.
 
 ### § 53-6. Opplysninger som kan registreres
 
-I politioperative registre kan registreres opplysninger som er nødvendig for å oppnå formål som nevnt i [§ 53-1](forskrift/2013-09-20-1097/§53-1), herunder opplysningerom aktuelle hendelser, nødmeldinger og andre henvendelser til- og kommunikasjon med og i politiet,av betydning for, planlegging og gjennomføring av den operative polititjenesten,knyttet til oppfølging av en hendelse, henvendelse eller oppdrag, ellerav betydning for å ivareta den enkeltes sikkerhet.
+I politioperative registre kan registreres opplysninger som er nødvendig for å oppnå formål som nevnt i [§ 53-1](forskrift/2013-09-20-1097/§53-1), herunder opplysninger
+
+1. om aktuelle hendelser, nødmeldinger og andre henvendelser til- og kommunikasjon med og i politiet,
+2. av betydning for, planlegging og gjennomføring av den operative polititjenesten,
+3. knyttet til oppfølging av en hendelse, henvendelse eller oppdrag, eller
+4. av betydning for å ivareta den enkeltes sikkerhet.
 
 Politiet skal ha lydlogg tilknyttet radio- og telefoniutstyr ved politiets operasjonssentraler. Innkomne telefonhenvendelser til politiets sentralbord kan lydlogges når det er nødvendig for å oppnå formål som nevnt i [§ 53-2](forskrift/2013-09-20-1097/§53-2).
 
@@ -2872,13 +3299,19 @@ Bestemmelsene i [politiregisterloven § 15](lov/2010-05-28-16/§15), [§ 16](lov
 
 ### § 54-1. Formålet
 
-Formålet med arrestjournalen er åbidra til en hensiktsmessig og forsvarlig oppgaveløsning ved politiets innbringelser og bruk av politiarrest, ogsikre notoritet om innbringelser, arrestopphold, arrestantens eiendeler og politiets oppgaveløsning.
+Formålet med arrestjournalen er å
+
+1. bidra til en hensiktsmessig og forsvarlig oppgaveløsning ved politiets innbringelser og bruk av politiarrest, og
+2. sikre notoritet om innbringelser, arrestopphold, arrestantens eiendeler og politiets oppgaveløsning.
 
 Formålet med lyd og bildeopptak i politiets arrester er å ivareta arrestantenes liv og helse.
 
 ### § 54-2. Definisjoner
 
-I dette kapittel forstås med*arrestjournal:* system som anvendes for å administrere politiets oppgaveløsing ved innbringelser og bruk av politiarrest, og*arresterte:* personer som er pågrepet i medhold av [straffeprosessloven](lov/1981-05-22-25) eller [utlendingsloven](lov/2008-05-15-35) eller innbrakt etter [politiloven](lov/1995-08-04-53).
+I dette kapittel forstås med
+
+1. *arrestjournal:* system som anvendes for å administrere politiets oppgaveløsing ved innbringelser og bruk av politiarrest, og
+2. *arresterte:* personer som er pågrepet i medhold av [straffeprosessloven](lov/1981-05-22-25) eller [utlendingsloven](lov/2008-05-15-35) eller innbrakt etter [politiloven](lov/1995-08-04-53).
 
 ### § 54-3. Hjemmelsgrunnlaget
 
@@ -3030,7 +3463,12 @@ Bestemmelsene i [politiregisterloven § 15](lov/2010-05-28-16/§15), [§ 16](lov
 
 ### § 56-1. Formålet
 
-Formålet med politiets utlendingsregister er åbidra til politiets kriminalitetsbekjempende virksomhet,bidra til en effektiv løsning av politiets oppgaver etter [utlendingsloven](lov/2008-05-15-35),bidra til en hensiktsmessig og forsvarlig oppgaveløsning ved politiets utlendingsinternat, ogsikre notoritet om forhold i nr. 2 og 3.
+Formålet med politiets utlendingsregister er å
+
+1. bidra til politiets kriminalitetsbekjempende virksomhet,
+2. bidra til en effektiv løsning av politiets oppgaver etter [utlendingsloven](lov/2008-05-15-35),
+3. bidra til en hensiktsmessig og forsvarlig oppgaveløsning ved politiets utlendingsinternat, og
+4. sikre notoritet om forhold i nr. 2 og 3.
 
 > Endret ved [forskrift 20 juni 2014 nr. 790](forskrift/2014-06-20-790) (i kraft 1 juli 2014).
 
@@ -3052,7 +3490,13 @@ Bestemmelsene i forskriften kapittel 2 kommer til anvendelse.
 
 ### § 56-4. Opplysninger som kan registreres
 
-I politiets utlendingsregister kan registreres opplysninger som er nødvendig for å oppnå formål som nevnt i [§ 56-1](forskrift/2013-09-20-1097/§56-1), knyttet tilasylregistrering,identitetsfastsettelse,iverksetting av vedtak,tvangsmidler, ogopphold ved utlendingsinternatet.
+I politiets utlendingsregister kan registreres opplysninger som er nødvendig for å oppnå formål som nevnt i [§ 56-1](forskrift/2013-09-20-1097/§56-1), knyttet til
+
+1. asylregistrering,
+2. identitetsfastsettelse,
+3. iverksetting av vedtak,
+4. tvangsmidler, og
+5. opphold ved utlendingsinternatet.
 
 > Endret ved forskrifter [20 juni 2014 nr. 790](forskrift/2014-06-20-790) (i kraft 1 juli 2014), [4 des 2015 nr. 1398](forskrift/2015-12-04-1398) (i kraft 1 jan 2016).
 
@@ -3154,7 +3598,21 @@ For øvrig gjelder bestemmelsene i forskriften kapittel 2.
 
 ### § 57-4. Opplysninger som kan registreres
 
-I informantregisteret kan det registreres opplysninger som er nødvendig for å oppnå formål som nevnt i [§ 57-1](forskrift/2013-09-20-1097/§57-1), herunder omfødselsnummer,etternavn,fornavn,aliasnavn,kjønn,bopel,status,geografisk virkeområde,nasjonalitet eller etnisk opprinnelse,etnisk miljø,omgangskrets eller miljø,kriminalitetskategori, ogkommunikasjon med informanten.
+I informantregisteret kan det registreres opplysninger som er nødvendig for å oppnå formål som nevnt i [§ 57-1](forskrift/2013-09-20-1097/§57-1), herunder om
+
+1. fødselsnummer,
+2. etternavn,
+3. fornavn,
+4. aliasnavn,
+5. kjønn,
+6. bopel,
+7. status,
+8. geografisk virkeområde,
+9. nasjonalitet eller etnisk opprinnelse,
+10. etnisk miljø,
+11. omgangskrets eller miljø,
+12. kriminalitetskategori, og
+13. kommunikasjon med informanten.
 
 ### Tilgang og utlevering
 
@@ -3240,7 +3698,16 @@ Kripos er behandlingsansvarlig.
 
 ### § 58-5. Opplysninger som kan behandles
 
-I forbindelse med gjennomføring av bekymringssamtaler kan det behandles opplysninger som er nødvendig for formål som nevnt i [§ 58-1](forskrift/2013-09-20-1097/§58-1), herundertid og sted for pålegg om eller invitasjon til samtale og resultatet av denne,hvem som var til stede under samtalen og inviterte som ikke møtte,den mindreåriges og foresattes personalia, navn, fødselsnummer, kjønn, fødeland eller statsborgerskap, sivilstand,kontaktopplysninger,opplysninger gitt i samtalen om familiens livssituasjon, herunder skole, fritidsaktiviteter, arbeidsforhold, økonomisk situasjon,opplysninger gitt i samtalen om lovbrudd eller uønsket atferd og mulig bakgrunn for lovbruddsatferd,opplysninger om personer som har særlig tilknytning til mindreårig som nevnt i nr. 3, ogoppfølgingstiltak.
+I forbindelse med gjennomføring av bekymringssamtaler kan det behandles opplysninger som er nødvendig for formål som nevnt i [§ 58-1](forskrift/2013-09-20-1097/§58-1), herunder
+
+1. tid og sted for pålegg om eller invitasjon til samtale og resultatet av denne,
+2. hvem som var til stede under samtalen og inviterte som ikke møtte,
+3. den mindreåriges og foresattes personalia, navn, fødselsnummer, kjønn, fødeland eller statsborgerskap, sivilstand,
+4. kontaktopplysninger,
+5. opplysninger gitt i samtalen om familiens livssituasjon, herunder skole, fritidsaktiviteter, arbeidsforhold, økonomisk situasjon,
+6. opplysninger gitt i samtalen om lovbrudd eller uønsket atferd og mulig bakgrunn for lovbruddsatferd,
+7. opplysninger om personer som har særlig tilknytning til mindreårig som nevnt i nr. 3, og
+8. oppfølgingstiltak.
 
 For opplysninger som nevnt i første ledd nr. 7 må i tillegg vilkårene i [politiregisterloven § 5](lov/2010-05-28-16/§5) nr. 2 bokstav b være oppfylt.
 
@@ -3256,7 +3723,10 @@ Utover dette gjelder bestemmelsene i [politiregisterloven § 21](lov/2010-05-28-
 
 ### § 58-7. Taushetsplikt og utlevering
 
-Opplysninger som er registrert i forbindelse med gjennomføring av bekymringssamtale kan utleveresnår underretningsplikt følger av [§ 10-2](forskrift/2013-09-20-1097/§10-2) og [§ 10-3](forskrift/2013-09-20-1097/§10-3), samt i andre tilfeller hvor det foreligger lovbestemt opplysningsplikt for politiet, ogtil forskning, jf. [politiregisterloven § 33](lov/2010-05-28-16/§33).
+Opplysninger som er registrert i forbindelse med gjennomføring av bekymringssamtale kan utleveres
+
+1. når underretningsplikt følger av [§ 10-2](forskrift/2013-09-20-1097/§10-2) og [§ 10-3](forskrift/2013-09-20-1097/§10-3), samt i andre tilfeller hvor det foreligger lovbestemt opplysningsplikt for politiet, og
+2. til forskning, jf. [politiregisterloven § 33](lov/2010-05-28-16/§33).
 
 Skriftlig utlevering etter første ledd nr. 1 skal skje i form av notat eller rapport som gjengir relevante opplysninger.
 
@@ -3344,13 +3814,38 @@ For øvrig kommer bestemmelsene i forskriften kapittel 2 til anvendelse.
 
 ### § 59-4. Personopplysninger
 
-Når det er nødvendig for å oppnå formål som nevnt i [§ 59-1](forskrift/2013-09-20-1097/§59-1), kan blant annet følgende personopplysninger behandles:Alle navn, oppnavn eller alias,kjønn, signalement, bilde, sivil status, fødested, statsborgerskap og visum, fødselsnummer, utlendingsidentifikasjon, identifikasjonsnummer og -kort, samt misbrukt eller fiktiv identitet og tilknyttet virksomhet,adresseinformasjon, herunder elektronisk kontaktinformasjon og elektroniske profiler på Internett,relasjoner eller kontaktpersoner,at noen har blitt, kan bli, eller indikasjon for å bli, utsatt for økonomisk kriminalitet,rolle,måten å operere på (modus operandi),utdanning, kvalifikasjoner, lisenser, godkjenninger, sertifikater mv.,nåværende og tidligere ansettelsesforhold, yrker og verv, kundeforhold,bevegelsesmønstre og grensepasseringer, inn- og utreise og opphold til inn- og utland, herunder om registrering, identitet, internatopphold, utvisning og grensekontroll,personer som gir opplysninger til senteret,anmeldelser, administrative og strafferettslige tvangsmidler og sanksjoner, reaksjonsfullbyrdelse,fast eiendom og tilknyttede eierforhold, rettigheter,motorvogn eller annet transportmiddel, identifikasjonsnummer, historikk og bruk,annet løsøre og informasjon om inn- og utførsel over landegrensene,oppdrag, kontrakter og avtaleforhold,opplysninger mottatt fra andre offentlige organer.
+Når det er nødvendig for å oppnå formål som nevnt i [§ 59-1](forskrift/2013-09-20-1097/§59-1), kan blant annet følgende personopplysninger behandles:
+
+1. Alle navn, oppnavn eller alias,
+2. kjønn, signalement, bilde, sivil status, fødested, statsborgerskap og visum, fødselsnummer, utlendingsidentifikasjon, identifikasjonsnummer og -kort, samt misbrukt eller fiktiv identitet og tilknyttet virksomhet,
+3. adresseinformasjon, herunder elektronisk kontaktinformasjon og elektroniske profiler på Internett,
+4. relasjoner eller kontaktpersoner,
+5. at noen har blitt, kan bli, eller indikasjon for å bli, utsatt for økonomisk kriminalitet,
+6. rolle,
+7. måten å operere på (modus operandi),
+8. utdanning, kvalifikasjoner, lisenser, godkjenninger, sertifikater mv.,
+9. nåværende og tidligere ansettelsesforhold, yrker og verv, kundeforhold,
+10. bevegelsesmønstre og grensepasseringer, inn- og utreise og opphold til inn- og utland, herunder om registrering, identitet, internatopphold, utvisning og grensekontroll,
+11. personer som gir opplysninger til senteret,
+12. anmeldelser, administrative og strafferettslige tvangsmidler og sanksjoner, reaksjonsfullbyrdelse,
+13. fast eiendom og tilknyttede eierforhold, rettigheter,
+14. motorvogn eller annet transportmiddel, identifikasjonsnummer, historikk og bruk,
+15. annet løsøre og informasjon om inn- og utførsel over landegrensene,
+16. oppdrag, kontrakter og avtaleforhold,
+17. opplysninger mottatt fra andre offentlige organer.
 
 > Tilføyd ved [forskrift 22 juni 2018 nr. 952](forskrift/2018-06-22-952).
 
 ### § 59-5. Økonomiske forhold og virksomhetsopplysninger
 
-Når det er nødvendig for å oppnå formål som nevnt i [§ 59-1](forskrift/2013-09-20-1097/§59-1), kan det blant annet behandles opplysninger om følgende økonomiske forhold og virksomheter, jf. også [§ 59-4](forskrift/2013-09-20-1097/§59-4):Navn og organisasjonsnummer eller annen virksomhetsidentifikasjon,hendelser, eierskap, roller, tilknytninger til andre fysiske eller juridiske personer, overdragelse og omstrukturering,transaksjoner og betalingsopplysninger, bankkonti, verdipapirer, andre typer finanskonti og kontodisponent,budsjett- og regnskapsopplysninger, skatteoppgjør og ligningsopplysninger, grunnlagsdata, tredjepartsdata, innkreving og administrasjon, samt gebyr- og avgiftsopplysninger,stønader, ytelser, trygder, pensjon, ytelser etter [forsikringsavtaleloven](lov/1989-06-16-69) og andre subsidie- tilskudds- og støtteordninger, lønns- og trekkoppgaver, refusjoner,opplysninger om konkurs- og bobehandling.
+Når det er nødvendig for å oppnå formål som nevnt i [§ 59-1](forskrift/2013-09-20-1097/§59-1), kan det blant annet behandles opplysninger om følgende økonomiske forhold og virksomheter, jf. også [§ 59-4](forskrift/2013-09-20-1097/§59-4):
+
+1. Navn og organisasjonsnummer eller annen virksomhetsidentifikasjon,
+2. hendelser, eierskap, roller, tilknytninger til andre fysiske eller juridiske personer, overdragelse og omstrukturering,
+3. transaksjoner og betalingsopplysninger, bankkonti, verdipapirer, andre typer finanskonti og kontodisponent,
+4. budsjett- og regnskapsopplysninger, skatteoppgjør og ligningsopplysninger, grunnlagsdata, tredjepartsdata, innkreving og administrasjon, samt gebyr- og avgiftsopplysninger,
+5. stønader, ytelser, trygder, pensjon, ytelser etter [forsikringsavtaleloven](lov/1989-06-16-69) og andre subsidie- tilskudds- og støtteordninger, lønns- og trekkoppgaver, refusjoner,
+6. opplysninger om konkurs- og bobehandling.
 
 > Tilføyd ved [forskrift 22 juni 2018 nr. 952](forskrift/2018-06-22-952).
 
@@ -3442,7 +3937,10 @@ Bestemmelsene om klage i [politiregisterloven § 55](lov/2010-05-28-16/§55) og 
 
 ### § 60-1. Formålet
 
-Formålet med behandling av opplysninger i passasjerlisteregisteret (PNR-registeret) er å bidra til å forebygge, avdekke, etterforske og rettsforfølge terrorhandlinger og alvorlig kriminalitet som nevnt i § 60-4 nr. 3 ved at PNR-enheten:behandler PNR-opplysninger som er overført fra luftfartsselskaperutleverer opplysningene eller resultatet av behandlingene av disse i samsvar med [§ 60-9](forskrift/2022-04-29-646/§60-9).
+Formålet med behandling av opplysninger i passasjerlisteregisteret (PNR-registeret) er å bidra til å forebygge, avdekke, etterforske og rettsforfølge terrorhandlinger og alvorlig kriminalitet som nevnt i § 60-4 nr. 3 ved at PNR-enheten:
+
+1. behandler PNR-opplysninger som er overført fra luftfartsselskaper
+2. utleverer opplysningene eller resultatet av behandlingene av disse i samsvar med [§ 60-9](forskrift/2022-04-29-646/§60-9).
 
 > Tilføyd ved forskrift [29 april 2022 nr. 646](forskrift/2022-04-29-646) (i kraft 1 mai 2022).
 
@@ -3460,7 +3958,15 @@ Kripos er behandlingsansvarlig for opplysninger i PNR-registeret.
 
 ### § 60-4. Definisjoner
 
-I dette kapittel forstås med:*passasjerliste eller PNR:* en liste over den enkelte passasjers reise, som omfatter alle nødvendige opplysninger for at reservasjoner kan behandles og kontrolleres av luftfartsselskapet som foretar reservasjonen og av deltagende luftfartsselskaper for hver reise, som reserveres av eller på vegne av en person*terrorhandlinger:* lovbrudd som rammes av [straffeloven kapittel 18](lov/2005-05-20-28/kap18)*alvorlig kriminalitet:* lovbrudd med strafferamme på fengsel i 3 år eller mer*maskere PNR-opplysninger:* å avidentifisere de opplysningskategoriene som er egnet til å direkte identifisere den registrerte*avmaskerte PNR-opplysninger:* fullstendige opplysninger som tidligere har vært avidentifiserte gjennom maskering*kompetente myndigheter:* politiet, Politiets sikkerhetstjeneste, påtalemyndigheten, Tolletaten og Etterretningstjenesten*luftfartsselskap:* transportvirksomhet med gyldig tillatelse eller lignende til å drive passasjertrafikk i lufta, og som samler inn og behandler PNR-opplysninger i et elektronisk system.
+I dette kapittel forstås med:
+
+1. *passasjerliste eller PNR:* en liste over den enkelte passasjers reise, som omfatter alle nødvendige opplysninger for at reservasjoner kan behandles og kontrolleres av luftfartsselskapet som foretar reservasjonen og av deltagende luftfartsselskaper for hver reise, som reserveres av eller på vegne av en person
+2. *terrorhandlinger:* lovbrudd som rammes av [straffeloven kapittel 18](lov/2005-05-20-28/kap18)
+3. *alvorlig kriminalitet:* lovbrudd med strafferamme på fengsel i 3 år eller mer
+4. *maskere PNR-opplysninger:* å avidentifisere de opplysningskategoriene som er egnet til å direkte identifisere den registrerte
+5. *avmaskerte PNR-opplysninger:* fullstendige opplysninger som tidligere har vært avidentifiserte gjennom maskering
+6. *kompetente myndigheter:* politiet, Politiets sikkerhetstjeneste, påtalemyndigheten, Tolletaten og Etterretningstjenesten
+7. *luftfartsselskap:* transportvirksomhet med gyldig tillatelse eller lignende til å drive passasjertrafikk i lufta, og som samler inn og behandler PNR-opplysninger i et elektronisk system.
 
 > Tilføyd ved forskrift [29 april 2022 nr. 646](forskrift/2022-04-29-646) (i kraft 1 mai 2022).
 
@@ -3468,7 +3974,27 @@ I dette kapittel forstås med:*passasjerliste eller PNR:* en liste over den enke
 
 ### § 60-5. Opplysningskategorier som kan registreres
 
-Følgende passasjeropplysninger som er innsamlet av luftfartsselskaper kan registreres:PNR-nummerDato for reservasjon/utstedelse av billett,Planlagt(e) reisedato(er)NavnAdresse og kontaktopplysninger (telefonnummer, e-postadresse)Betalingsopplysninger, herunder faktureringsadresseFullstendig reiseplan for en konkret passasjerlisteOpplysninger om bonusprogrammerReisebyrå/reiseagentReisestatus for passasjerer, herunder bekreftelser, innsjekkingsstatus, opplysninger om «no-show» og «go-show»Oppsplittede/oppdelte PNR-opplysningerOpplysninger om mindreårige under 18 år som reiser alene,Billettopplysninger, herunder billettnummer, dato for utstedelse av billetten og enkeltbilletter, automatisk billettprisangivelse («automated ticket fare quote»)Setenummer og andre seteopplysningerOpplysninger om felles rutenummer («code sharing»)BagasjeopplysningerNavn på og antall medreisende på passasjerlistenOpplysninger som innhentes i henhold til API-direktivetEndringer som er gjort av opplysninger angitt i punkt 1 til 18.
+Følgende passasjeropplysninger som er innsamlet av luftfartsselskaper kan registreres:
+
+1. PNR-nummer
+2. Dato for reservasjon/utstedelse av billett,
+3. Planlagt(e) reisedato(er)
+4. Navn
+5. Adresse og kontaktopplysninger (telefonnummer, e-postadresse)
+6. Betalingsopplysninger, herunder faktureringsadresse
+7. Fullstendig reiseplan for en konkret passasjerliste
+8. Opplysninger om bonusprogrammer
+9. Reisebyrå/reiseagent
+10. Reisestatus for passasjerer, herunder bekreftelser, innsjekkingsstatus, opplysninger om «no-show» og «go-show»
+11. Oppsplittede/oppdelte PNR-opplysninger
+12. Opplysninger om mindreårige under 18 år som reiser alene,
+13. Billettopplysninger, herunder billettnummer, dato for utstedelse av billetten og enkeltbilletter, automatisk billettprisangivelse («automated ticket fare quote»)
+14. Setenummer og andre seteopplysninger
+15. Opplysninger om felles rutenummer («code sharing»)
+16. Bagasjeopplysninger
+17. Navn på og antall medreisende på passasjerlisten
+18. Opplysninger som innhentes i henhold til API-direktivet
+19. Endringer som er gjort av opplysninger angitt i punkt 1 til 18.
 
 I tillegg kan det registreres behandlinger som nevnt i forskriften [§ 60-6](forskrift/2013-09-20-1097/§60-6) første ledd nr. 1 til 3.
 
@@ -3476,7 +4002,12 @@ I tillegg kan det registreres behandlinger som nevnt i forskriften [§ 60-6](for
 
 ### § 60-6. Nærmere om behandlingen av PNR-opplysninger
 
-PNR-enheten kan bare behandle PNR-opplysningerfor å gjennomføre vurderinger av passasjerer før deres planlagte ankomst eller avreise for å identifisere personer som kan være involvert i kriminalitet som nevnt i § 60-4 nr. 2 og 3for å sammenholde PNR-opplysninger ved vurderingen som nevnt i nr. 1 med opplysninger fra registre som er relevante for å oppnå formål som nevnt i § 60-1, dersom dette er i samsvar med regelverket for de aktuelle registrenei enkelttilfeller for å besvare en tilstrekkelig begrunnet anmodning fra kompetente myndigheter for å bekjempe kriminalitet som nevnt i § 60-4 nr. 2 og 3for å analysere PNR-opplysninger med sikte på å ajourføre eller fastsette nye kriterier som nevnt i tredje ledd.
+PNR-enheten kan bare behandle PNR-opplysninger
+
+1. for å gjennomføre vurderinger av passasjerer før deres planlagte ankomst eller avreise for å identifisere personer som kan være involvert i kriminalitet som nevnt i § 60-4 nr. 2 og 3
+2. for å sammenholde PNR-opplysninger ved vurderingen som nevnt i nr. 1 med opplysninger fra registre som er relevante for å oppnå formål som nevnt i § 60-1, dersom dette er i samsvar med regelverket for de aktuelle registrene
+3. i enkelttilfeller for å besvare en tilstrekkelig begrunnet anmodning fra kompetente myndigheter for å bekjempe kriminalitet som nevnt i § 60-4 nr. 2 og 3
+4. for å analysere PNR-opplysninger med sikte på å ajourføre eller fastsette nye kriterier som nevnt i tredje ledd.
 
 Alle treff som følge av automatisk behandling av PNR-opplysninger som nevnt i første ledd nr. 1 og 2 skal gjennomgås før de utleveres til kompetente myndigheter.
 
@@ -3500,7 +4031,13 @@ Behandlingsansvarlig og personer som tjenestegjør i PNR-enheten har tilgang til
 
 ### § 60-9. Taushetsplikt og utlevering
 
-Utlevering av PNR-opplysninger kan kun skje på vilkår som nevnt i § 60-10, § 60-11 og § 60-12. PNR-opplysninger kan utleveres til:kompetente norske myndigheterPNR-enheter i land tilsluttet PNR-direktivetkompetente myndigheter i land tilsluttet PNR-direktivetEuropoltredjeland.
+Utlevering av PNR-opplysninger kan kun skje på vilkår som nevnt i § 60-10, § 60-11 og § 60-12. PNR-opplysninger kan utleveres til:
+
+1. kompetente norske myndigheter
+2. PNR-enheter i land tilsluttet PNR-direktivet
+3. kompetente myndigheter i land tilsluttet PNR-direktivet
+4. Europol
+5. tredjeland.
 
 Opplysningene i registeret er alltid underlagt taushetsplikt etter [politiregisterloven § 23](lov/2010-05-28-16/§23).
 
@@ -3518,7 +4055,10 @@ Utlevering til kompetente myndigheter i andre land kan kun skje i saker hvor det
 
 ### § 60-11. Særlig om utlevering av avmaskerte PNR-opplysninger
 
-Avmaskerte PNR-opplysninger, jf. § 60-4 nr. 5, kan kun utleveres etter anmodning som nevnt i § 60-6 første ledd nr. 3, når det er:rimelig grunn til å anta at det er nødvendig for å oppnå de formål som er nevnt i § 60-1, oggodkjent av overordnet påtalemyndighet.
+Avmaskerte PNR-opplysninger, jf. § 60-4 nr. 5, kan kun utleveres etter anmodning som nevnt i § 60-6 første ledd nr. 3, når det er:
+
+1. rimelig grunn til å anta at det er nødvendig for å oppnå de formål som er nevnt i § 60-1, og
+2. godkjent av overordnet påtalemyndighet.
 
 Den behandlingsansvarlige skal underrette ansvarlig personvernrådgiver om utleveringen.
 
@@ -3598,7 +4138,11 @@ Bestemmelsene om klage i [politiregisterloven § 55](lov/2010-05-28-16/§55) og 
 
 ### § 60-19. Informasjonssikkerhet, internkontroll og sporbarhet
 
-[Politiregisterloven § 15](lov/2010-05-28-16/§15), [§ 16](lov/2010-05-28-16/§16), [§ 17](lov/2010-05-28-16/§17) og forskriften del 9 kommer til anvendelse. Det skal oppbevares dokumentasjon om:navn og kontaktopplysninger på organisasjonen og personalet i PNR-enheten som behandler PNR-opplysningene, og de forskjellige nivåer av tillatelseanmodninger mottatt av kompetente myndigheter og andre medlemsstaters PNR-enheteralle anmodninger om utleveringer av PNR-opplysninger til et tredjeland.
+[Politiregisterloven § 15](lov/2010-05-28-16/§15), [§ 16](lov/2010-05-28-16/§16), [§ 17](lov/2010-05-28-16/§17) og forskriften del 9 kommer til anvendelse. Det skal oppbevares dokumentasjon om:
+
+1. navn og kontaktopplysninger på organisasjonen og personalet i PNR-enheten som behandler PNR-opplysningene, og de forskjellige nivåer av tillatelse
+2. anmodninger mottatt av kompetente myndigheter og andre medlemsstaters PNR-enheter
+3. alle anmodninger om utleveringer av PNR-opplysninger til et tredjeland.
 
 Opplysninger om bruk av systemet skal registreres og oppbevares i tre år.
 
@@ -3664,9 +4208,15 @@ Militærpolitiets reaksjons- og straffesaksregister inneholder opplysninger om r
 
 Forsvarssjefen er behandlingsansvarlig for opplysningene i militærpolitiets reaksjons- og straffesaksregister.
 
-For registerets opplysninger om reaksjoner gjelder bestemmelsene i [kapittel 44](forskrift/2013-09-20-1097/kap44) så langt det passer med følgende presiseringer:Formålet med reaksjonsregisteret er å ivareta militærpolitiets og den militære påtalemyndighetens behov for informasjon om strafferettslige reaksjoner og andre avgjørelser eller tiltak som følge av lovbrudd i forbindelse med forebygging og straffeforfølgning. I tillegg skal registeret ivareta militærpolitiets behov for informasjon om strafferettslige reaksjoner og andre avgjørelser eller tiltak som en følge av lovbrudd.Forsvarssjefen er behandlingsansvarlig for opplysningene i reaksjonsregisteret.
+For registerets opplysninger om reaksjoner gjelder bestemmelsene i [kapittel 44](forskrift/2013-09-20-1097/kap44) så langt det passer med følgende presiseringer:
 
-For registerets opplysninger om straffesaksgang gjelder bestemmelsene i [kapittel 48](forskrift/2013-09-20-1097/kap48) så langt det passer med følgende presiseringer:Formålet med straffesaksregisteret er å bidra til militærpolitiets kriminalitetsbekjempelse, og til en hensiktsmessig og effektiv behandling av militære straffesaker.Forsvarssjefen er behandlingsansvarlig for opplysningene i straffesaksregisteret.
+1. Formålet med reaksjonsregisteret er å ivareta militærpolitiets og den militære påtalemyndighetens behov for informasjon om strafferettslige reaksjoner og andre avgjørelser eller tiltak som følge av lovbrudd i forbindelse med forebygging og straffeforfølgning. I tillegg skal registeret ivareta militærpolitiets behov for informasjon om strafferettslige reaksjoner og andre avgjørelser eller tiltak som en følge av lovbrudd.
+2. Forsvarssjefen er behandlingsansvarlig for opplysningene i reaksjonsregisteret.
+
+For registerets opplysninger om straffesaksgang gjelder bestemmelsene i [kapittel 48](forskrift/2013-09-20-1097/kap48) så langt det passer med følgende presiseringer:
+
+1. Formålet med straffesaksregisteret er å bidra til militærpolitiets kriminalitetsbekjempelse, og til en hensiktsmessig og effektiv behandling av militære straffesaker.
+2. Forsvarssjefen er behandlingsansvarlig for opplysningene i straffesaksregisteret.
 
 > Tilføyd ved [forskrift 17 sep 2021 nr. 2776](forskrift/2021-09-17-2776).
 
@@ -3684,13 +4234,21 @@ Bestemmelsene i [kapittel 49](forskrift/2013-09-20-1097/kap49) gjelder så langt
 
 ### § 69-4. Arrestjournal og opptak av lyd og bilde i militær arrest
 
-Bestemmelsene i [kapittel 54](forskrift/2013-09-20-1097/kap54) gjelder så langt det passer, med følgende presiseringer:Formålet med arrestjournalen er å bidra til en hensiktsmessig og forsvarlig oppgaveløsning ved militærpolitiets innbringelser og bruk av militær arrest, arrest som refselsesmiddel og foreløpig arrest. Arrestjournalen skal også sikre notoritet om innbringelser, arrestopphold, arrestantens eiendeler og militærpolitiets oppgaveløsning.I dette kapittel skal arresterte forstås som: personer som er pågrepet i medhold av [straffeprosessloven](lov/1981-05-22-25) eller [utlendingsloven](lov/2008-05-15-35) eller innbrakt eller satt i foreløpig arrest etter lov om politimyndighet i det militære forsvar eller som avtjener arrest ilagt som refselsesmiddel etter [disiplinærloven](lov/1988-05-20-32).Forsvarssjefen er behandlingsansvarlig for opplysningene i arrestjournal og behandling av opptak av lyd og bilde i militær arrest.
+Bestemmelsene i [kapittel 54](forskrift/2013-09-20-1097/kap54) gjelder så langt det passer, med følgende presiseringer:
+
+1. Formålet med arrestjournalen er å bidra til en hensiktsmessig og forsvarlig oppgaveløsning ved militærpolitiets innbringelser og bruk av militær arrest, arrest som refselsesmiddel og foreløpig arrest. Arrestjournalen skal også sikre notoritet om innbringelser, arrestopphold, arrestantens eiendeler og militærpolitiets oppgaveløsning.
+2. I dette kapittel skal arresterte forstås som: personer som er pågrepet i medhold av [straffeprosessloven](lov/1981-05-22-25) eller [utlendingsloven](lov/2008-05-15-35) eller innbrakt eller satt i foreløpig arrest etter lov om politimyndighet i det militære forsvar eller som avtjener arrest ilagt som refselsesmiddel etter [disiplinærloven](lov/1988-05-20-32).
+3. Forsvarssjefen er behandlingsansvarlig for opplysningene i arrestjournal og behandling av opptak av lyd og bilde i militær arrest.
 
 > Tilføyd ved [forskrift 17 sep 2021 nr. 2776](forskrift/2021-09-17-2776).
 
 ### § 69-5. Militærpolitiets kriminaletterretningsregister
 
-Bestemmelsene i [kapittel 47](forskrift/2013-09-20-1097/kap47) gjelder så langt det passer, med følgende presiseringer:Formålet med militærpolitiets kriminaletterretningsregister er å forbygge, avdekke og stanse kriminalitet i Forsvaret eller som kan være til hinder for Forsvarets virksomhet.Forsvarssjefen er behandlingsansvarlig for opplysningene i militærpolitiets kriminaletterretningsregister.Begjæring om innsyn avgjøres av den behandlingsansvarlige eller den som er delegert det daglige behandlingsansvaret.
+Bestemmelsene i [kapittel 47](forskrift/2013-09-20-1097/kap47) gjelder så langt det passer, med følgende presiseringer:
+
+1. Formålet med militærpolitiets kriminaletterretningsregister er å forbygge, avdekke og stanse kriminalitet i Forsvaret eller som kan være til hinder for Forsvarets virksomhet.
+2. Forsvarssjefen er behandlingsansvarlig for opplysningene i militærpolitiets kriminaletterretningsregister.
+3. Begjæring om innsyn avgjøres av den behandlingsansvarlige eller den som er delegert det daglige behandlingsansvaret.
 
 > Tilføyd ved [forskrift 17 sep 2021 nr. 2776](forskrift/2021-09-17-2776).
 
@@ -3714,7 +4272,10 @@ I dette kapittelet gjennomføres [kapittel V i direktiv (EU) 2016/680](eu/32016l
 
 ### § 70-2. Definisjoner
 
-I dette kapittel forstås med:*medlemsland:* stater som er forpliktet etter dette direktivet,*tredjeland:* stater som ikke er forpliktet etter dette direktivet.
+I dette kapittel forstås med:
+
+1. *medlemsland:* stater som er forpliktet etter dette direktivet,
+2. *tredjeland:* stater som ikke er forpliktet etter dette direktivet.
 
 > Endret ved [forskrift 27 april 2018 nr. 643](forskrift/2018-04-27-643) (i kraft 6 mai 2018).
 
@@ -3746,7 +4307,13 @@ I saker om krav om erstatning som følge av utlevering av personopplysninger til
 
 ### § 70-6. Generelle prinsipper for utlevering av opplysninger
 
-Personopplysninger kan kun utleveres til tredjeland eller internasjonale organisasjoner dersomdet er nødvendig for å forebygge, etterforske, avdekke eller rettsforfølge lovbrudd eller fullbyrde strafferettslige reaksjoner, herunder for å beskytte mot eller forebygge trusler mot den offentlige sikkerhet,den myndighet i tredjelandet eller i det internasjonale organ som mottar opplysningene, har ansvaret for å forebygge, etterforske, avdekke eller rettsforfølge lovbrudd eller fullbyrde strafferettslige reaksjoner, herunder å beskytte mot eller forebygge trusler mot den offentlige sikkerhet,det medlemsland der opplysningene er innhentet fra har gitt sitt samtykke til utleveringen i samsvar med sin nasjonale lovgivning,kommisjonen har truffet avgjørelse om tilstrekkelig beskyttelsesnivå, jf. [§ 70-7](forskrift/2013-09-20-1097/§70-7), det foreligger en tilstrekkelig grad av beskyttelse for den aktuelle behandling av opplysningene, jf. [§ 70-8](forskrift/2013-09-20-1097/§70-8), eller det foreligger særlige unntak som nevnt i [§ 70-9](forskrift/2013-09-20-1097/§70-9), ogden myndighet som foretok den opprinnelige utleveringen, eller en annen myndighet i samme medlemsstat, ved videre utlevering til et annet tredjeland eller en annen internasjonal organisasjon, gir tillatelse til den videre utleveringen, etter å ha vurdert alle relevante faktorer, herunder lovbruddets alvorlighet, formålet med den opprinnelige utleveringen og sluttmottakers beskyttelsesnivå.
+Personopplysninger kan kun utleveres til tredjeland eller internasjonale organisasjoner dersom
+
+1. det er nødvendig for å forebygge, etterforske, avdekke eller rettsforfølge lovbrudd eller fullbyrde strafferettslige reaksjoner, herunder for å beskytte mot eller forebygge trusler mot den offentlige sikkerhet,
+2. den myndighet i tredjelandet eller i det internasjonale organ som mottar opplysningene, har ansvaret for å forebygge, etterforske, avdekke eller rettsforfølge lovbrudd eller fullbyrde strafferettslige reaksjoner, herunder å beskytte mot eller forebygge trusler mot den offentlige sikkerhet,
+3. det medlemsland der opplysningene er innhentet fra har gitt sitt samtykke til utleveringen i samsvar med sin nasjonale lovgivning,
+4. kommisjonen har truffet avgjørelse om tilstrekkelig beskyttelsesnivå, jf. [§ 70-7](forskrift/2013-09-20-1097/§70-7), det foreligger en tilstrekkelig grad av beskyttelse for den aktuelle behandling av opplysningene, jf. [§ 70-8](forskrift/2013-09-20-1097/§70-8), eller det foreligger særlige unntak som nevnt i [§ 70-9](forskrift/2013-09-20-1097/§70-9), og
+5. den myndighet som foretok den opprinnelige utleveringen, eller en annen myndighet i samme medlemsstat, ved videre utlevering til et annet tredjeland eller en annen internasjonal organisasjon, gir tillatelse til den videre utleveringen, etter å ha vurdert alle relevante faktorer, herunder lovbruddets alvorlighet, formålet med den opprinnelige utleveringen og sluttmottakers beskyttelsesnivå.
 
 Dersom utleveringen av opplysningene er avgjørende for å kunne avverge en overhengende og alvorlig trussel mot et medlemslands eller et tredjelands offentlige sikkerhet eller mot et medlemslands vesentlige interesser, og et forutgående samtykke ikke kan innhentes i tide, er utlevering uten forutgående samtykke som nevnt i første ledd nr. 3 tillatt.
 
@@ -3762,7 +4329,10 @@ Opplysninger kan utleveres til tredjeland og internasjonale organisasjoner derso
 
 ### § 70-8. Utlevering av opplysninger ved tilstrekkelige beskyttelsesmekanismer
 
-Uten en beslutning som nevnt i [§ 70-7](forskrift/2013-09-20-1097/§70-7) kan opplysninger utleveres dersomdet er etablert tilstrekkelige beskyttelsesmekanismer i bindende avtale/instrument, ellerden behandlingsansvarlige har vurdert alle forhold rundt utleveringen og funnet at tilstrekkelige beskyttelsesmekanismer er til stede.
+Uten en beslutning som nevnt i [§ 70-7](forskrift/2013-09-20-1097/§70-7) kan opplysninger utleveres dersom
+
+1. det er etablert tilstrekkelige beskyttelsesmekanismer i bindende avtale/instrument, eller
+2. den behandlingsansvarlige har vurdert alle forhold rundt utleveringen og funnet at tilstrekkelige beskyttelsesmekanismer er til stede.
 
 Tilsynsmyndigheten skal informeres om kategorier av utleveringer som er begrunnet i forhold som nevnt i første ledd nr. 2.
 
@@ -3770,7 +4340,13 @@ Tilsynsmyndigheten skal informeres om kategorier av utleveringer som er begrunne
 
 ### § 70-9. Utlevering dersom særlige unntak kommer til anvendelse
 
-Opplysninger kan utleveres selv om vilkårene i [§ 70-7](forskrift/2013-09-20-1097/§70-7) og [70-8](forskrift/2013-09-20-1097/§70-8) ikke er oppfylt, dersom utleveringen er nødvendig for åbeskytte den registrertes eller en annen fysisk persons vitale interesser,sikre den registrertes legitime interesser,å avverge en overhengende og alvorlig trussel mot et medlemslands eller et tredjelands offentlige sikkerhet,forebygge, etterforske, avdekke eller rettsforfølge lovbrudd eller fullbyrde strafferettslige reaksjoner, herunder for å beskytte mot eller forebygge trusler mot den offentlige sikkerhet i enkelttilfeller, elleretablere, utøve eller forsvare et rettslig krav relatert til formål som nevnt i nr. 4 i enkelttilfeller.
+Opplysninger kan utleveres selv om vilkårene i [§ 70-7](forskrift/2013-09-20-1097/§70-7) og [70-8](forskrift/2013-09-20-1097/§70-8) ikke er oppfylt, dersom utleveringen er nødvendig for å
+
+1. beskytte den registrertes eller en annen fysisk persons vitale interesser,
+2. sikre den registrertes legitime interesser,
+3. å avverge en overhengende og alvorlig trussel mot et medlemslands eller et tredjelands offentlige sikkerhet,
+4. forebygge, etterforske, avdekke eller rettsforfølge lovbrudd eller fullbyrde strafferettslige reaksjoner, herunder for å beskytte mot eller forebygge trusler mot den offentlige sikkerhet i enkelttilfeller, eller
+5. etablere, utøve eller forsvare et rettslig krav relatert til formål som nevnt i nr. 4 i enkelttilfeller.
 
 Utlevering etter nr. 4 og 5 skal ikke skje dersom hensynet til den registrertes grunnleggende rettigheter og friheter veier tyngre enn de offentlige hensyn som begrunner utleveringen.
 
@@ -3778,7 +4354,13 @@ Utlevering etter nr. 4 og 5 skal ikke skje dersom hensynet til den registrertes 
 
 ### § 70-10. Utlevering til mottakere etablert i tredjeland
 
-Utlevering til mottakere i tredjeland som ikke er kompetente myndigheter etter [§ 70-6](forskrift/2013-09-20-1097/§70-6) første ledd nr. 2 kan skje i enkelttilfeller dersomutleveringen er strengt nødvendig for å forebygge, etterforske, avdekke eller rettsforfølge lovbrudd eller fullbyrde strafferettslige reaksjoner, herunder for å beskytte mot eller forebygge trusler mot den offentlige sikkerhet,den registrertes rettigheter og friheter ikke veier tyngre enn de offentlige interesser som nødvendiggjør utleveringen,utlevering til en kompetent myndighet ikke er effektivt eller hensiktsmessig, særlig fordi utlevering ikke kan skje i tide,kompetent myndighet i tredjelandet informeres uten ugrunnet opphold med mindre det ikke er effektivt eller hensiktsmessig, ogmottaker informeres om til hvilke formål opplysningene utelukkende kan behandles for.
+Utlevering til mottakere i tredjeland som ikke er kompetente myndigheter etter [§ 70-6](forskrift/2013-09-20-1097/§70-6) første ledd nr. 2 kan skje i enkelttilfeller dersom
+
+1. utleveringen er strengt nødvendig for å forebygge, etterforske, avdekke eller rettsforfølge lovbrudd eller fullbyrde strafferettslige reaksjoner, herunder for å beskytte mot eller forebygge trusler mot den offentlige sikkerhet,
+2. den registrertes rettigheter og friheter ikke veier tyngre enn de offentlige interesser som nødvendiggjør utleveringen,
+3. utlevering til en kompetent myndighet ikke er effektivt eller hensiktsmessig, særlig fordi utlevering ikke kan skje i tide,
+4. kompetent myndighet i tredjelandet informeres uten ugrunnet opphold med mindre det ikke er effektivt eller hensiktsmessig, og
+5. mottaker informeres om til hvilke formål opplysningene utelukkende kan behandles for.
 
 Tilsynsmyndigheten skal informeres om utlevering av opplysninger etter denne bestemmelsen.
 
@@ -3808,7 +4390,12 @@ I dette kapittel gjennomføres de bestemmelsene i rådets direktiv om utveksling
 
 ### § 71-2. Definisjoner
 
-I dette kapittel forstås med:*medlemsland:* stater som er forpliktet etter direktivet,*tredjeland:* stater som ikke er forpliktet etter direktivet,*ansvarlig myndighet:* politimyndighet eller annen myndighet som etter norsk lovgivning har til oppgave å avdekke, forebygge og etterforske lovbrudd og kriminell aktivitet, utøve myndighet og anvende tvangsmidler i forbindelse med denne typen oppgaver, og*hastesak:* anmodning om utlevering av opplysninger hvor det samtidig er bedt om hastebehandling.
+I dette kapittel forstås med:
+
+1. *medlemsland:* stater som er forpliktet etter direktivet,
+2. *tredjeland:* stater som ikke er forpliktet etter direktivet,
+3. *ansvarlig myndighet:* politimyndighet eller annen myndighet som etter norsk lovgivning har til oppgave å avdekke, forebygge og etterforske lovbrudd og kriminell aktivitet, utøve myndighet og anvende tvangsmidler i forbindelse med denne typen oppgaver, og
+4. *hastesak:* anmodning om utlevering av opplysninger hvor det samtidig er bedt om hastebehandling.
 
 > Endret ved forskrift [6 des 2024 nr. 2948](forskrift/2024-12-06-2948) (i kraft 12 des 2024).
 
@@ -3844,7 +4431,10 @@ I saker om krav om erstatning som følge av utveksling av personopplysninger mel
 
 Politiet sørger for at opplysninger utleveres til ansvarlig myndighet i medlemslandene i samsvar med bestemmelsene i romertall II. Utlevering skjer etter anmodning fra medlemslandets ansvarlige myndighet, jf. direktivet artikkel 2 nr. 1.
 
-De bestemmelser i romertall II som pålegger politiet en plikt til å utlevere opplysninger gjelder ikke for opplysninger somer innhentet ved bruk av tvangsmidler etter straffeprosessloven fjerde del, ellerskal brukes som bevis i en straffesak.
+De bestemmelser i romertall II som pålegger politiet en plikt til å utlevere opplysninger gjelder ikke for opplysninger som
+
+1. er innhentet ved bruk av tvangsmidler etter straffeprosessloven fjerde del, eller
+2. skal brukes som bevis i en straffesak.
 
 Opplysninger som nevnt i annet ledd nr. 1 og 2, kan likevel utleveres til medlemsland med de begrensninger som er fastsatt i lov eller i medhold av lov.
 
@@ -3930,11 +4520,20 @@ I dette kapittel gjennomføres de bestemmelsene i rådets beslutning om intensiv
 
 ### § 72-2. Definisjoner
 
-I dette kapittel forstås med:*medlemsland:* stater som er forpliktet etter Prümavtalen,*tredjeland:* stater som ikke er forpliktet etter Prümavtalen,*elektronisk søk:* en direkte adgang til en elektronisk database i et annet organ hvor resultatet av søket fremgår helt elektronisk, og*det norske DNA-registeret:* identitetsregisteret, etterforskningsregisteret og sporregisteret.
+I dette kapittel forstås med:
+
+1. *medlemsland:* stater som er forpliktet etter Prümavtalen,
+2. *tredjeland:* stater som ikke er forpliktet etter Prümavtalen,
+3. *elektronisk søk:* en direkte adgang til en elektronisk database i et annet organ hvor resultatet av søket fremgår helt elektronisk, og
+4. *det norske DNA-registeret:* identitetsregisteret, etterforskningsregisteret og sporregisteret.
 
 ### § 72-3. Virkeområde
 
-Bestemmelsene i dette kapittelet gjelder politiets og påtalemyndighetens utveksling av opplysninger ved forebygging og etterforskning av lovbrudd, jf. Prüm-beslutningen artikkel 1 bokstav a til c, som gjelder:vilkår og prosedyrer ved elektronisk overføring av DNA-profiler, fingeravtrykksopplysninger og opplysninger fra nasjonale motorvognregistre,vilkår ved utveksling av opplysninger i ved store arrangementer av et grenseoverskridende omfang, ogvilkår for utveksling av opplysninger med henblikk på forebygging av terrorlovbrudd.
+Bestemmelsene i dette kapittelet gjelder politiets og påtalemyndighetens utveksling av opplysninger ved forebygging og etterforskning av lovbrudd, jf. Prüm-beslutningen artikkel 1 bokstav a til c, som gjelder:
+
+1. vilkår og prosedyrer ved elektronisk overføring av DNA-profiler, fingeravtrykksopplysninger og opplysninger fra nasjonale motorvognregistre,
+2. vilkår ved utveksling av opplysninger i ved store arrangementer av et grenseoverskridende omfang, og
+3. vilkår for utveksling av opplysninger med henblikk på forebygging av terrorlovbrudd.
 
 > Endret ved [forskrift 19 juni 2015 nr. 673](forskrift/2015-06-19-673) (i kraft 1 okt 2015).
 
@@ -3942,7 +4541,10 @@ Bestemmelsene i dette kapittelet gjelder politiets og påtalemyndighetens utveks
 
 Dette kapittelet berører ikke Norges forpliktelser i henhold til bilaterale eller multilaterale avtaler eller ordninger inngått med tredjeland.
 
-Kapittelet berører heller ikke bilaterale eller multilaterale avtaler eller ordninger inngått med medlemsland om grenseoverskridende samarbeid mellom myndigheter som er ansvarlig for å forebygge og etterforske lovbrudd, dersom avtalen eller ordningenikke er uforenlig med Prümavtalens formål, oghadde trådt i kraft senest ved vedtagelse den 26. november 2009 av Avtale mellom Den europeiske union og Island og Norge om anvendelse av visse bestemmelser i rådsbeslutning [2008/615](eu/32008d0615)/JIS mv.
+Kapittelet berører heller ikke bilaterale eller multilaterale avtaler eller ordninger inngått med medlemsland om grenseoverskridende samarbeid mellom myndigheter som er ansvarlig for å forebygge og etterforske lovbrudd, dersom avtalen eller ordningen
+
+1. ikke er uforenlig med Prümavtalens formål, og
+2. hadde trådt i kraft senest ved vedtagelse den 26. november 2009 av Avtale mellom Den europeiske union og Island og Norge om anvendelse av visse bestemmelser i rådsbeslutning [2008/615](eu/32008d0615)/JIS mv.
 
 > Endret ved [forskrift 19 juni 2015 nr. 673](forskrift/2015-06-19-673) (i kraft 1 okt 2015).
 
@@ -3962,7 +4564,10 @@ I saker om krav om erstatning som følge av utveksling av personopplysninger mel
 
 Medlemslandene sikres tilgang til det norske DNA-registeret ved elektroniske søk, likevel slik at det bare kan søkes i referansedata og at søk bare kan gå ut på treff eller ikke-treff. Adgangen til elektroniske søk omfatter identitetsregisteret, etterforskningsregisteret og sporregisteret. Medlemslandene skal ikke gis tilgang til opplysninger knyttet til den enkelte DNA-profil som er egnet til direkte å identifisere den registrerte.
 
-Medlemslandet varsles elektronisk om utfallet av søket, dvs. omreferansenummeret til DNA-profil i det norske registeret, dersom dette er identisk med verdiene til den DNA-profil som lå til grunn for søket, ellermelding om at verdiene til den DNA-profil som lå til grunn for søket, ikke var identisk med noen av DNA-profilene i det norske registeret.
+Medlemslandet varsles elektronisk om utfallet av søket, dvs. om
+
+1. referansenummeret til DNA-profil i det norske registeret, dersom dette er identisk med verdiene til den DNA-profil som lå til grunn for søket, eller
+2. melding om at verdiene til den DNA-profil som lå til grunn for søket, ikke var identisk med noen av DNA-profilene i det norske registeret.
 
 ### § 72-8. Elektronisk søk av uidentifiserte DNA-profiler
 
@@ -4140,7 +4745,11 @@ I dette kapittelet gjennomføres de bestemmelser i avtale mellom Kongeriket Norg
 
 ### § 74-2. Definisjoner
 
-I dette kapittel forstås med:[*DNA-profiler*: Bokstav- eller tallkode som representerer et antall kjennetegn som gjør det mulig å identifisere den ikke-kodede delen av en analysert DNA-prøve fra et menneske, det vil si den særskilte kjemiske formen på ulike DNA-loci.]*Referansedata:* En DNA-profil med tilhørende referanse (DNA-referansedata) eller opptatte fingeravtrykk med tilhørende referanse (fingeravtrykksreferansedata). Referansedata må ikke inneholde opplysninger som gjør det mulig å identifisere den registrerte direkte. Referansedata som ikke kan spores tilbake til en enkelt person (ikke-sporbare data), skal kunne identifiseres som dét.*Alvorlig kriminalitet*: Handlinger som i henhold til partenes nasjonale lovgivning straffes med frihetsberøvelse med en øvre strafferamme på mer enn ett år eller med en strengere straff, og som er oppført i [§ 74-16](forskrift/2013-09-20-1097/§74-16).
+I dette kapittel forstås med:
+
+1. [*DNA-profiler*: Bokstav- eller tallkode som representerer et antall kjennetegn som gjør det mulig å identifisere den ikke-kodede delen av en analysert DNA-prøve fra et menneske, det vil si den særskilte kjemiske formen på ulike DNA-loci.]
+2. *Referansedata:* En DNA-profil med tilhørende referanse (DNA-referansedata) eller opptatte fingeravtrykk med tilhørende referanse (fingeravtrykksreferansedata). Referansedata må ikke inneholde opplysninger som gjør det mulig å identifisere den registrerte direkte. Referansedata som ikke kan spores tilbake til en enkelt person (ikke-sporbare data), skal kunne identifiseres som dét.
+3. *Alvorlig kriminalitet*: Handlinger som i henhold til partenes nasjonale lovgivning straffes med frihetsberøvelse med en øvre strafferamme på mer enn ett år eller med en strengere straff, og som er oppført i [§ 74-16](forskrift/2013-09-20-1097/§74-16).
 
 > Tilføyd ved [forskrift 9 juni 2017 nr. 714](forskrift/2017-06-09-714) (i kraft 1 sep 2017, men nr. 1 trer i kraft senere jf. [endringsforskriftens](forskrift/2017-06-09-714) romertall II.)
 
@@ -4186,7 +4795,11 @@ Ikke i kraft.
 
 ### § 74-9. Utlevering av personopplysninger og andre opplysninger for å forebygge alvorlig kriminalitet
 
-Innenfor de rammer som følger av norsk lovgivning kan Kripos utlevere opplysninger som nevnt i annet ledd, dersom særlige forhold gir grunn til å tro at den registrertevil begå eller har begått terrorhandlinger eller lovbrudd forbundet med terrorisme, en terrorgruppe eller en terrorsammenslutning, slik disse lovbruddene er definert i norsk lovgjennomgår eller har gjennomgått trening i den hensikt å begå lovbrudd som nevnt i bokstav a, ellervil begå eller har begått et alvorlig lovbrudd eller deltar i en organisert kriminell gruppe eller sammenslutning i strid med norsk lov.
+Innenfor de rammer som følger av norsk lovgivning kan Kripos utlevere opplysninger som nevnt i annet ledd, dersom særlige forhold gir grunn til å tro at den registrerte
+
+1. vil begå eller har begått terrorhandlinger eller lovbrudd forbundet med terrorisme, en terrorgruppe eller en terrorsammenslutning, slik disse lovbruddene er definert i norsk lov
+2. gjennomgår eller har gjennomgått trening i den hensikt å begå lovbrudd som nevnt i bokstav a, eller
+3. vil begå eller har begått et alvorlig lovbrudd eller deltar i en organisert kriminell gruppe eller sammenslutning i strid med norsk lov.
 
 Opplysningene som utleveres kan omfatte etternavn, fornavn, tidligere navn, andre navn, dekknavn, alternativ staving av navn, kjønn, fødselsdato og fødested, nåværende og tidligere nasjonalitet, passnummer, nummer på annet legitimasjonsdokument, fingeravtrykk samt en beskrivelse av eventuelle tidligere dommer eller av de forhold som ligger til grunn for antakelsen i første ledd. I tillegg kan det utleveres andre opplysninger enn personopplysninger i tilknytning til lovbruddene angitt i første ledd.
 
@@ -4222,11 +4835,26 @@ Ikke i kraft.
 
 ### § 74-13. Formålsbegrensninger ved behandling av opplysninger
 
-Opplysninger mottatt fra De forente stater i forbindelse med søk etter [§ 74-7](forskrift/2013-09-20-1097/§74-7) og [§ 74-8](forskrift/2013-09-20-1097/§74-8) kan kun behandles:for å kunne foreta en sammenlikning,for å gi elektronisk tilbakemelding på søketfor å foreta registrering etter [§ 74-15](forskrift/2013-09-20-1097/§74-15)for formålene nevnt i annet ledd bokstav b og c.
+Opplysninger mottatt fra De forente stater i forbindelse med søk etter [§ 74-7](forskrift/2013-09-20-1097/§74-7) og [§ 74-8](forskrift/2013-09-20-1097/§74-8) kan kun behandles:
 
-Opplysninger mottatt fra De forente stater som tilbakemelding ved søk etter [§ 74-11](forskrift/2013-09-20-1097/§74-11) og [§ 74-12](forskrift/2013-09-20-1097/§74-12), herunder informasjon om treff eller ikke treff, kan kun behandlesfor å fastslå om de sammenliknede DNA-profilene eller fingeravtrykkene samsvarer,for å utarbeide og fremme en tilleggsanmodning om bistand i samsvar med nasjonal lovgivning, herunder bestemmelsene om rettslig bistand, dersom opplysningene samsvarer,for registrering som norsk lov krever eller tillater.
+1. for å kunne foreta en sammenlikning,
+2. for å gi elektronisk tilbakemelding på søket
+3. for å foreta registrering etter [§ 74-15](forskrift/2013-09-20-1097/§74-15)
+4. for formålene nevnt i annet ledd bokstav b og c.
 
-Øvrige opplysninger mottatt etter dette kapittel kan behandles:for etterforskning i straffesakerfor å avverge en alvorlig trussel mot den offentlige sikkerheti retts- eller forvaltningssaker som ikke er av strafferettslig art, men som er direkte forbundet med etterforskning som nevnt i bokstav aetter samtykke fra den registrertefor alle andre formål, dersom De forente stater har gitt samtykke til det på forhånd.
+Opplysninger mottatt fra De forente stater som tilbakemelding ved søk etter [§ 74-11](forskrift/2013-09-20-1097/§74-11) og [§ 74-12](forskrift/2013-09-20-1097/§74-12), herunder informasjon om treff eller ikke treff, kan kun behandles
+
+1. for å fastslå om de sammenliknede DNA-profilene eller fingeravtrykkene samsvarer,
+2. for å utarbeide og fremme en tilleggsanmodning om bistand i samsvar med nasjonal lovgivning, herunder bestemmelsene om rettslig bistand, dersom opplysningene samsvarer,
+3. for registrering som norsk lov krever eller tillater.
+
+Øvrige opplysninger mottatt etter dette kapittel kan behandles:
+
+1. for etterforskning i straffesaker
+2. for å avverge en alvorlig trussel mot den offentlige sikkerhet
+3. i retts- eller forvaltningssaker som ikke er av strafferettslig art, men som er direkte forbundet med etterforskning som nevnt i bokstav a
+4. etter samtykke fra den registrerte
+5. for alle andre formål, dersom De forente stater har gitt samtykke til det på forhånd.
 
 > Tilføyd ved [forskrift 9 juni 2017 nr. 714](forskrift/2017-06-09-714) (i kraft 1 sep 2017).
 
@@ -4242,7 +4870,11 @@ Kripos skal på anmodning uten unødig opphold underrette kontaktpunktet i De fo
 
 ### § 74-15. Dokumentasjonsplikt
 
-Kripos skal føre et register over sending og mottak av opplysninger etter dette kapittel. Registeret skal omfatte:informasjon om hvilke opplysninger som er oversendtdatoen opplysningene ble oversendtnavn på mottaker av opplysningene dersom de oversendes til andre enheter enn Kripos.
+Kripos skal føre et register over sending og mottak av opplysninger etter dette kapittel. Registeret skal omfatte:
+
+1. informasjon om hvilke opplysninger som er oversendt
+2. datoen opplysningene ble oversendt
+3. navn på mottaker av opplysningene dersom de oversendes til andre enheter enn Kripos.
 
 De registrerte opplysninger om sending og mottak skal oppbevares i to år. De skal deretter slettes.
 
@@ -4252,7 +4884,14 @@ De registrerte opplysninger om sending og mottak skal oppbevares i to år. De sk
 
 ### § 74-16. Handlinger som faller inn under dette kapittelets virkeområde
 
-Forbrytelser som faller inn under denne avtales virkeområde, omfatter følgende lovbrudd i tillegg til forbund om å begå slike lovbrudd, deltaking i en organisert kriminell gruppe i strid med nasjonal lovgivning eller forsøk på å begå slike lovbrudd, når de er straffebelagt:Forbrytelser mot mennesker: folkemord, tortur, overlagt, forsettlig eller uaktsomt drap og tilsvarende lovbrudd; menneskehandel; ufrivillig trelldom; voldtekt og andre sedelighetsforbrytelser, herunder fremstilling av seksuelle overgrep mot barn eller fremstilling som seksualiserer barn og voldtektsforsøk; vold som begås i den hensikt å forårsake alvorlig skade, eller som resulterer i slik skade; bortføring; gisseltaking; drift eller ledelse av en prostitusjonsvirksomhet.Forbrytelser mot staten: terrorhandlinger (herunder lovbrudd fastsatt i FNs konvensjoner til bekjempelse av terrorisme, gi materiell støtte til terrorister, gi materiell støtte til terrororganisasjoner, motta eller sørge for militærlignende opplæring fra utenlandske terrororganisasjoner); brudd på FN-resolusjoner om frysing av formuesgoder og forbud mot transaksjoner med personer som bryter internasjonale bestemmelser om våpenhandel; forbudte transaksjoner med biologiske, kjemiske eller nukleære materialer; sabotasje; spionasje (herunder dataspionasje og økonomisk spionasje); menneskesmugling, hindring av rettsforfølgning, mened eller medvirkning til mened; falsk forklaring; trusler.Våpenkriminalitet: lovbrudd knyttet til skytevåpen, herunder men ikke begrenset til ulovlig handel med slike våpen; lovbrudd knyttet til ødeleggelsesmidler eller sprengstoff; bære skjult våpen med det forsett å bruke våpenet; bruk eller ulovlig besittelse av biologiske, kjernefysiske, kjemiske eller andre masseødeleggelsesvåpen; produksjon, overføring eller besittelse av spredere for radiologiske stoffer.Tyveri/bedrageri: innbruddstyveri, ran, væpnet ran; pengeutpressing; innbrudd; bestikkelser; underslag; utpressing; hvitvasking av penger; organisert kriminalitet; forsøk på å heve ugyldige sjekker; ulike former for bedrageri (forfalskninger, utstedelse av falske dokumenter, bedrageri, svikaktig og ulovlig bruk av dokumenter, herunder men ikke begrenset til kredittkort og pass); skatteunndragelser; ulike former for tyveri; smugling av varer; ulovlig omsetning av tyvegods og falskmyntneri eller forfalskning av varer.Alvorlige forbrytelser med kontrollerte stoffer: omsetning av eller handel med narkotiske, kontrollerte og psykotrope stoffer eller marihuana; besittelse av eller besittelse i den hensikt å selge narkotiske, kontrollerte og psykotrope stoffer eller marihuana, med unntak av mindre kvanta som ikke anses som en alvorlig forseelse etter intern rett.Forbrytelser mot eiendom, miljø, personvern og datakriminalitet: ildspåsettelse; bombeattentat; skadeverk; sjørøveri på det åpne hav; miljøkriminalitet; grove personvernbrudd, herunder ulovlig tilgang til databaser; og datakriminalitet.
+Forbrytelser som faller inn under denne avtales virkeområde, omfatter følgende lovbrudd i tillegg til forbund om å begå slike lovbrudd, deltaking i en organisert kriminell gruppe i strid med nasjonal lovgivning eller forsøk på å begå slike lovbrudd, når de er straffebelagt:
+
+1. Forbrytelser mot mennesker: folkemord, tortur, overlagt, forsettlig eller uaktsomt drap og tilsvarende lovbrudd; menneskehandel; ufrivillig trelldom; voldtekt og andre sedelighetsforbrytelser, herunder fremstilling av seksuelle overgrep mot barn eller fremstilling som seksualiserer barn og voldtektsforsøk; vold som begås i den hensikt å forårsake alvorlig skade, eller som resulterer i slik skade; bortføring; gisseltaking; drift eller ledelse av en prostitusjonsvirksomhet.
+2. Forbrytelser mot staten: terrorhandlinger (herunder lovbrudd fastsatt i FNs konvensjoner til bekjempelse av terrorisme, gi materiell støtte til terrorister, gi materiell støtte til terrororganisasjoner, motta eller sørge for militærlignende opplæring fra utenlandske terrororganisasjoner); brudd på FN-resolusjoner om frysing av formuesgoder og forbud mot transaksjoner med personer som bryter internasjonale bestemmelser om våpenhandel; forbudte transaksjoner med biologiske, kjemiske eller nukleære materialer; sabotasje; spionasje (herunder dataspionasje og økonomisk spionasje); menneskesmugling, hindring av rettsforfølgning, mened eller medvirkning til mened; falsk forklaring; trusler.
+3. Våpenkriminalitet: lovbrudd knyttet til skytevåpen, herunder men ikke begrenset til ulovlig handel med slike våpen; lovbrudd knyttet til ødeleggelsesmidler eller sprengstoff; bære skjult våpen med det forsett å bruke våpenet; bruk eller ulovlig besittelse av biologiske, kjernefysiske, kjemiske eller andre masseødeleggelsesvåpen; produksjon, overføring eller besittelse av spredere for radiologiske stoffer.
+4. Tyveri/bedrageri: innbruddstyveri, ran, væpnet ran; pengeutpressing; innbrudd; bestikkelser; underslag; utpressing; hvitvasking av penger; organisert kriminalitet; forsøk på å heve ugyldige sjekker; ulike former for bedrageri (forfalskninger, utstedelse av falske dokumenter, bedrageri, svikaktig og ulovlig bruk av dokumenter, herunder men ikke begrenset til kredittkort og pass); skatteunndragelser; ulike former for tyveri; smugling av varer; ulovlig omsetning av tyvegods og falskmyntneri eller forfalskning av varer.
+5. Alvorlige forbrytelser med kontrollerte stoffer: omsetning av eller handel med narkotiske, kontrollerte og psykotrope stoffer eller marihuana; besittelse av eller besittelse i den hensikt å selge narkotiske, kontrollerte og psykotrope stoffer eller marihuana, med unntak av mindre kvanta som ikke anses som en alvorlig forseelse etter intern rett.
+6. Forbrytelser mot eiendom, miljø, personvern og datakriminalitet: ildspåsettelse; bombeattentat; skadeverk; sjørøveri på det åpne hav; miljøkriminalitet; grove personvernbrudd, herunder ulovlig tilgang til databaser; og datakriminalitet.
 
 > Tilføyd ved [forskrift 9 juni 2017 nr. 714](forskrift/2017-06-09-714) (i kraft 1 sep 2017).
 
@@ -4300,7 +4939,12 @@ Bestemmelsene i [§ 30-3](forskrift/2013-09-20-1097/§30-3) om hvilke forhold so
 
 ### § 86-5. Beregning av tidsavgrensede slettefrister
 
-Følgende frister for sletting av opplysninger løper fra 1. juli 2014:Fristen i [§ 53-15](forskrift/2013-09-20-1097/§53-15) annet ledd for sletting av opplysninger i lydloggFristen i [§ 54-12](forskrift/2013-09-20-1097/§54-12) første ledd annet punktum for sletting av opplysninger i arrestjournalFristen i [§ 56-11](forskrift/2013-09-20-1097/§56-11) første ledd annen setning for sletting av opplysninger i politiets utlendingsregisterFristen i [§ 58-11](forskrift/2013-09-20-1097/§58-11) første og annet ledd for sletting av opplysninger som er registrert i forbindelse med gjennomføring av bekymringssamtaler.
+Følgende frister for sletting av opplysninger løper fra 1. juli 2014:
+
+1. Fristen i [§ 53-15](forskrift/2013-09-20-1097/§53-15) annet ledd for sletting av opplysninger i lydlogg
+2. Fristen i [§ 54-12](forskrift/2013-09-20-1097/§54-12) første ledd annet punktum for sletting av opplysninger i arrestjournal
+3. Fristen i [§ 56-11](forskrift/2013-09-20-1097/§56-11) første ledd annen setning for sletting av opplysninger i politiets utlendingsregister
+4. Fristen i [§ 58-11](forskrift/2013-09-20-1097/§58-11) første og annet ledd for sletting av opplysninger som er registrert i forbindelse med gjennomføring av bekymringssamtaler.
 
 > Tilføyd ved [forskrift 27 sep 2013 nr. 1133](forskrift/2013-09-27-1133), endret ved forskrifter [13 des 2013 nr. 1450](forskrift/2013-12-13-1450), [20 juni 2014 nr. 790](forskrift/2014-06-20-790) (i kraft 1 juli 2014, tidligere § 75-5).
 

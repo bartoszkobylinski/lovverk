@@ -15,7 +15,7 @@ xml_hash: "6812a8d0d84d8542fbcbff48f9b26c8d9d15d8fdee23566305fdafb9cce227fb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,20 @@ EØS-avtalen vedlegg II kap. XII nr. X (forordning [(EF) nr. 115/2010](eu/32010r
 
 ## § 2. Definisjoner
 
-I denne forskrift forstås ved:*Naturlig mineralvann:* vann av god mikrobiologisk kvalitet med opphav i en grunnvannsforekomst og som uttas gjennom ett eller flere naturlige eller kunstige utspring.Naturlig mineralvann kjennetegnes i tillegg ved:sin naturlige beskaffenhet gjennom innholdet av mineraler, sporelementer eller andre bestanddeler og ved eventuelt å ha bestemte virkninger, ogsin opprinnelige tilstand.Begge disse egenskapene er intakt fordi vannet har sitt opphav i grunnen, beskyttet mot enhver fare for forurensning.*Kildevann:* vann av god mikrobiologisk kvalitet med opphav i en grunnvannsforekomst som er beskyttet mot enhver fare for forurensning og som uttas gjennom ett eller flere naturlige eller kunstige utspring.Kildevann kjennetegnes i tillegg ved sin kjemiske vannkvalitet som vanlig drikkevann.*Grunnvannsforekomst:* et avgrenset volum grunnvann i et eller flere grunnvannsmagasin.
+I denne forskrift forstås ved:
+
+1. *Naturlig mineralvann:* vann av god mikrobiologisk kvalitet med opphav i en grunnvannsforekomst og som uttas gjennom ett eller flere naturlige eller kunstige utspring.
+
+   Naturlig mineralvann kjennetegnes i tillegg ved:
+
+   1. sin naturlige beskaffenhet gjennom innholdet av mineraler, sporelementer eller andre bestanddeler og ved eventuelt å ha bestemte virkninger, og
+   2. sin opprinnelige tilstand.
+
+   Begge disse egenskapene er intakt fordi vannet har sitt opphav i grunnen, beskyttet mot enhver fare for forurensning.
+2. *Kildevann:* vann av god mikrobiologisk kvalitet med opphav i en grunnvannsforekomst som er beskyttet mot enhver fare for forurensning og som uttas gjennom ett eller flere naturlige eller kunstige utspring.
+
+   Kildevann kjennetegnes i tillegg ved sin kjemiske vannkvalitet som vanlig drikkevann.
+3. *Grunnvannsforekomst:* et avgrenset volum grunnvann i et eller flere grunnvannsmagasin.
 
 ## § 3. Godkjenning
 
@@ -72,7 +85,13 @@ Det er ikke tillatt å transportere naturlig mineralvann eller kildevann i annen
 
 ## § 5. Behandling
 
-Naturlig mineralvann og kildevann kan ikke gis annen behandling enn:utskilling av ustabile forbindelser som f.eks. jern- og svovelforbindelser ved filtrering eller dekantering, eventuelt etter oksygenering, forutsatt at behandlingen ikke endrer vannets sammensetning med hensyn til de vesentlige forbindelser som gir vannet dets karakteristiske egenskaperutskilling av jern-, mangan-, svovel- og arsenforbindelser ved behandling ved hjelp av ozonanriket luft, forutsatt at behandlingen ikke endrer vannets sammensetning med hensyn til de vesentlige forbindelser som gir vannet dets karakteristiske egenskaperhel eller delvis fjerning av fritt karbondioksid ved utelukkende fysiske prosessertilførsel eller gjeninnføring av karbondioksid på vilkår angitt i vedlegg 3 del III.hel eller delvis fjerning av fluorid ved bruk av aktivert aluminium på vilkår angitt ved gjennomføring i [§ 1a](forskrift/2004-10-04-1316/§1a).
+Naturlig mineralvann og kildevann kan ikke gis annen behandling enn:
+
+1. utskilling av ustabile forbindelser som f.eks. jern- og svovelforbindelser ved filtrering eller dekantering, eventuelt etter oksygenering, forutsatt at behandlingen ikke endrer vannets sammensetning med hensyn til de vesentlige forbindelser som gir vannet dets karakteristiske egenskaper
+2. utskilling av jern-, mangan-, svovel- og arsenforbindelser ved behandling ved hjelp av ozonanriket luft, forutsatt at behandlingen ikke endrer vannets sammensetning med hensyn til de vesentlige forbindelser som gir vannet dets karakteristiske egenskaper
+3. hel eller delvis fjerning av fritt karbondioksid ved utelukkende fysiske prosesser
+4. tilførsel eller gjeninnføring av karbondioksid på vilkår angitt i vedlegg 3 del III.
+5. hel eller delvis fjerning av fluorid ved bruk av aktivert aluminium på vilkår angitt ved gjennomføring i [§ 1a](forskrift/2004-10-04-1316/§1a).
 
 Eventuell behandling av vannet etter første ledd [pkt](forskrift/2004-10-04-1316/kap2). 2 skal forelegges Mattilsynet.
 
@@ -90,7 +109,12 @@ Bestemmelsene i første ledd skal ikke være til hinder for bruk av naturlig min
 
 ## § 6. Mikrobiologiske og sensoriske krav
 
-Naturlig mineralvann og kildevann skal ved utspringet og ved omsetning ikke inneholde:sykdomsfremkallende parasitter og/eller mikroorganismer,Escherichia coli, koliforme bakterier eller intestinale enterokokker i 250 ml tilfeldig uttatt prøve,sporedannende sulfitt-reduserende anaerobe bakterier i 50 ml tilfeldig uttatt prøve, ellerPseudomonas aeruginosa i 250 ml tilfeldig uttatt prøve.
+Naturlig mineralvann og kildevann skal ved utspringet og ved omsetning ikke inneholde:
+
+1. sykdomsfremkallende parasitter og/eller mikroorganismer,
+2. Escherichia coli, koliforme bakterier eller intestinale enterokokker i 250 ml tilfeldig uttatt prøve,
+3. sporedannende sulfitt-reduserende anaerobe bakterier i 50 ml tilfeldig uttatt prøve, eller
+4. Pseudomonas aeruginosa i 250 ml tilfeldig uttatt prøve.
 
 Det heterotrofe kimtallet i naturlig mineralvann og kildevann skal ved utspringet tilsvare dets normale heterotrofe kimtall og vitne om at kilden er beskyttet mot forurensning. Heterotroft kimtall skal bestemmes i henhold til vedlegg 3 del II [pkt](forskrift/2004-10-04-1316/kap3). 3) c) og d).
 
@@ -128,7 +152,10 @@ Inneholder merking eller reklame et handelsnavn/varenavn som er forskjellig fra 
 
 Naturlig mineralvann og kildevann skal ved omsetning merkes i henhold til gjeldende forskrifter om merking av næringsmidler, med de tillegg og unntak som følger av denne forskrift.
 
-Naturlig mineralvann og kildevann skal merkes med:navnet på grunnvannsforekomsten og utvinningsstedet,angivelse av eventuell behandling av vannet som angitt i [§ 5](forskrift/2004-10-04-1316/§5) første ledd nr. 2.
+Naturlig mineralvann og kildevann skal merkes med:
+
+1. navnet på grunnvannsforekomsten og utvinningsstedet,
+2. angivelse av eventuell behandling av vannet som angitt i [§ 5](forskrift/2004-10-04-1316/§5) første ledd nr. 2.
 
 Naturlig mineralvann skal i tillegg ha en innholdsdeklarasjon med angivelse av vannets analytiske sammensetning av karakteristiske bestanddeler.
 
@@ -140,7 +167,10 @@ Naturlig mineralvann eller kildevann som er behandlet med ozonanriket luft skal 
 
 ## § 12. Villedende merking og markedsføring
 
-I merking eller reklame er det ikke tillatt å benytte varebetegnelser, varemerker, varenavn, firmanavn, tekst, illustrasjoner eller andre tegn eller emblemersom antyder en karakteristisk egenskap ved naturlig mineralvann som det ikke har. Dette gjelder særlig med hensyn til opprinnelse, godkjenningstidspunkt, analyseresultater eller lignende henvisninger til varens ekthetsom kan føre til en sammenblanding mellom emballert vann som ikke oppfyller kravene til naturlig mineralvann i denne forskriften, med naturlig mineralvann, særlig betegnelsen «mineralvann».
+I merking eller reklame er det ikke tillatt å benytte varebetegnelser, varemerker, varenavn, firmanavn, tekst, illustrasjoner eller andre tegn eller emblemer
+
+1. som antyder en karakteristisk egenskap ved naturlig mineralvann som det ikke har. Dette gjelder særlig med hensyn til opprinnelse, godkjenningstidspunkt, analyseresultater eller lignende henvisninger til varens ekthet
+2. som kan føre til en sammenblanding mellom emballert vann som ikke oppfyller kravene til naturlig mineralvann i denne forskriften, med naturlig mineralvann, særlig betegnelsen «mineralvann».
 
 Det er ikke tillatt å påstå eller gi inntrykk av at naturlig mineralvann forebygger, leger eller lindrer sykdom, sykdomssymptomer eller smerte.
 
@@ -247,7 +277,14 @@ Dersom naturlig mineralvann eller kildevann behandles med ozonanriket luft, skal
 
 *Del I. Generelle krav til naturlig mineralvann*
 
-Kjennetegn ved naturlig mineralvann, som kan gjøre at naturlig mineralvann har helsefremmende egenskaper, må være fastslått ved undersøkelser ut fra:hydrogeologiske kriterier,fysiske, kjemiske og fysisk-kjemiske kriterier,mikrobiologiske kriterier, ogom nødvendig, farmakologiske, fysiologiske og kliniske kriterier,i samsvar med krav og kriterier nevnt i del II i dette vedlegget og anerkjente vitenskapelige metoder.
+Kjennetegn ved naturlig mineralvann, som kan gjøre at naturlig mineralvann har helsefremmende egenskaper, må være fastslått ved undersøkelser ut fra:
+
+1. hydrogeologiske kriterier,
+2. fysiske, kjemiske og fysisk-kjemiske kriterier,
+3. mikrobiologiske kriterier, og
+4. om nødvendig, farmakologiske, fysiologiske og kliniske kriterier,
+
+i samsvar med krav og kriterier nevnt i del II i dette vedlegget og anerkjente vitenskapelige metoder.
 
 Krav om undersøkelser ut fra farmakologiske, fysiologiske og kliniske kriterier, kan fravikes når vannets sammensetning har egenskaper som gjorde at vannet ble betraktet som naturlig mineralvann før denne forskrifts ikrafttredelse. Dette er særlig tilfelle dersom det aktuelle vannet, både ved utspring og etter emballering, inneholder minimum 1.000 mg/kg totalt tørrstoff i løsningen eller minimum 250 mg/kg fritt karbondioksid.
 
@@ -257,10 +294,42 @@ Ved det normale heterotrofe kimtall i naturlig mineralvann, jf. [§ 8](forskrift
 
 *Del II. Spesielle krav til og kriterier for naturlig mineralvann*
 
-1. Hydrogeologiske undersøkelser. Følgende opplysninger må særlig fremlegges:utvinningsstedets nøyaktige beliggenhet med angivelse av høyde over havet avtegnet på topografisk kart med målestokk på maksimum 1:1000.detaljert geologisk rapport om jordbunnens opprinnelse og art.det hydrogeologiske lags stratigrafi.beskrivelse av utvinningsmetoden og virksomheten.avgrensning av området eller andre tiltak for å beskytte kilden mot forurensning.
-2. Fysiske, kjemiske og fysisk-kjemiske undersøkelser. Undersøkelsene skal særlig omfatte bestemmelse av:vannføring eller kapasitet for grunnvannsforekomsten.vanntemperaturen ved utspringet samt omgivelsestemperaturen.forholdet mellom jordbunnens karakter og art og type av mineraler i vannet.tørrstoffinnholdet ved 180 °C og 260 °C.spesifikk ledningsevne med angivelse av temperaturen målingene er utført ved.hydrogenione-konsentrasjonen (pH).innholdet av anioner og kationer.innholdet av ikke-ioniserte elementer.innholdet av sporelementer.innholdet av radioaktive elementer målt ved utspringet.det relative innholdet av isotoper i bestanddelene av vann, oksygen (16 O – 18 O) og hydrogen (protium, deuterium, tritium), om nødvendig.toksisiteten av enkelte bestanddeler i vannet, tatt i betraktning de grenseverdiene som er fastsatt for hver enkelt bestanddel.
-3. Mikrobiologiske analyser ved utspringet. Analysene skal særlig omfatte:påvisning av fravær av parasitter og sykdomsfremkallende mikroorganismer.kvantitativ bestemmelse av bakterier som kan indikere fekal forurensning:fravær av Escherichia coli og andre koliforme bakterier i 250 ml tilfeldig uttatt prøve dyrket ved 37 °C og 44,5 °C.fravær av intestinale enterokokker i 250 ml tilfeldig uttatt prøve.fravær av sporedannende sulfitt-reduserende anaerobe bakterier i 50 ml tilfeldig uttatt prøve.fravær av Pseudomonas aeruginosa i 250 ml tilfeldig uttatt prøve.bestemmelse av det heterotrofe kimtall pr. ml vann dyrket ved 20-22 °C i 72 timer på agar-agar eller agar-gelatin-blanding.bestemmelse av det heterotrofe kimtall pr. ml vann dyrket ved 36 +/2 °C i 24 timer på agar-agar.
-4. Kliniske og farmakologiske undersøkelser.Undersøkelsene, som skal utføres i samsvar med anerkjente vitenskapelige metoder, skal være tilpasset det naturlige mineralvannets særlige egenskaper og dets virkning på den menneskelige organisme, slik som diurese, mage- eller tarmfunksjon og kompensasjon for mineralmangel.Dersom det er konstatert at et stort antall kliniske observasjoner gir sammenfallende og konstante resultater, kan dette i enkelte tilfeller erstatte undersøkelsene i 4) a). I enkelte tilfeller kan kliniske analyser erstatte undersøkelsene i 4) a) forutsatt at et stort antall kliniske observasjoner viser så stor konsistens og så stort sammenfall at samme resultater oppnås.
+1. Hydrogeologiske undersøkelser. Følgende opplysninger må særlig fremlegges:
+
+   1. utvinningsstedets nøyaktige beliggenhet med angivelse av høyde over havet avtegnet på topografisk kart med målestokk på maksimum 1:1000.
+   2. detaljert geologisk rapport om jordbunnens opprinnelse og art.
+   3. det hydrogeologiske lags stratigrafi.
+   4. beskrivelse av utvinningsmetoden og virksomheten.
+   5. avgrensning av området eller andre tiltak for å beskytte kilden mot forurensning.
+2. Fysiske, kjemiske og fysisk-kjemiske undersøkelser. Undersøkelsene skal særlig omfatte bestemmelse av:
+
+   1. vannføring eller kapasitet for grunnvannsforekomsten.
+   2. vanntemperaturen ved utspringet samt omgivelsestemperaturen.
+   3. forholdet mellom jordbunnens karakter og art og type av mineraler i vannet.
+   4. tørrstoffinnholdet ved 180 °C og 260 °C.
+   5. spesifikk ledningsevne med angivelse av temperaturen målingene er utført ved.
+   6. hydrogenione-konsentrasjonen (pH).
+   7. innholdet av anioner og kationer.
+   8. innholdet av ikke-ioniserte elementer.
+   9. innholdet av sporelementer.
+   10. innholdet av radioaktive elementer målt ved utspringet.
+   11. det relative innholdet av isotoper i bestanddelene av vann, oksygen (16 O – 18 O) og hydrogen (protium, deuterium, tritium), om nødvendig.
+   12. toksisiteten av enkelte bestanddeler i vannet, tatt i betraktning de grenseverdiene som er fastsatt for hver enkelt bestanddel.
+3. Mikrobiologiske analyser ved utspringet. Analysene skal særlig omfatte:
+
+   1. påvisning av fravær av parasitter og sykdomsfremkallende mikroorganismer.
+   2. kvantitativ bestemmelse av bakterier som kan indikere fekal forurensning:
+
+      - fravær av Escherichia coli og andre koliforme bakterier i 250 ml tilfeldig uttatt prøve dyrket ved 37 °C og 44,5 °C.
+      - fravær av intestinale enterokokker i 250 ml tilfeldig uttatt prøve.
+      - fravær av sporedannende sulfitt-reduserende anaerobe bakterier i 50 ml tilfeldig uttatt prøve.
+      - fravær av Pseudomonas aeruginosa i 250 ml tilfeldig uttatt prøve.
+   3. bestemmelse av det heterotrofe kimtall pr. ml vann dyrket ved 20-22 °C i 72 timer på agar-agar eller agar-gelatin-blanding.
+   4. bestemmelse av det heterotrofe kimtall pr. ml vann dyrket ved 36 +/2 °C i 24 timer på agar-agar.
+4. Kliniske og farmakologiske undersøkelser.
+
+   1. Undersøkelsene, som skal utføres i samsvar med anerkjente vitenskapelige metoder, skal være tilpasset det naturlige mineralvannets særlige egenskaper og dets virkning på den menneskelige organisme, slik som diurese, mage- eller tarmfunksjon og kompensasjon for mineralmangel.
+   2. Dersom det er konstatert at et stort antall kliniske observasjoner gir sammenfallende og konstante resultater, kan dette i enkelte tilfeller erstatte undersøkelsene i 4) a). I enkelte tilfeller kan kliniske analyser erstatte undersøkelsene i 4) a) forutsatt at et stort antall kliniske observasjoner viser så stor konsistens og så stort sammenfall at samme resultater oppnås.
 
 *Del III. Krav ved bruk av betegnelser på naturlig mineralvann*
 

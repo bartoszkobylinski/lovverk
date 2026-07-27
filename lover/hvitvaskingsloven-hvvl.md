@@ -15,7 +15,7 @@ xml_hash: "9acfaf0753d363db347c4f24b461428fe298ce94b4d94522273ec24b266951d0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32015L0849"
@@ -34,7 +34,45 @@ eu_basis:
 
 ### § 2. Definisjoner
 
-I denne loven forstås med:hvitvasking: handling som beskrevet i [straffeloven § 332](lov/2005-05-20-28/§332) og [§ 337](lov/2005-05-20-28/§337).terrorfinansiering: handling som beskrevet i [straffeloven § 135](lov/2005-05-20-28/§135) eller finansiering som beskrevet i [straffeloven § 136 a](lov/2005-05-20-28/§136a).rapporteringspliktig: person som nevnt i [§ 4](lov/2018-06-01-23/§4) første, annet og femte ledd.transaksjon: enhver overføring, formidling, ombytting eller plassering av formuesgoder.reell rettighetshaver: fysisk person som i siste instans eier eller kontrollerer kunden, eller som en transaksjon eller aktivitet gjennomføres på vegne av.politisk eksponert person: person som har eller har hatt viktig offentlig verv. Verv eller stilling på mellomnivå eller lavere nivå omfattes ikke. Departementet fastsetter i forskrift en liste over de stillinger og verv som i Norge regnes for å være viktige offentlige verv, og kan også for øvrig fastsette hvilke stillinger og verv som skal regnes som viktige offentlige verv. Med mindre annet følger av forskrift etter tredje punktum regnes blant annet følgende stillinger og verv som viktige offentlige verv:statsoverhode, regjeringssjef, minister eller assisterende ministermedlem av nasjonalforsamlingmedlem av styrende organ i politisk partimedlem av høyere rettsinstans hvis avgjørelser ikke kan ankes annet enn under ekstraordinære omstendighetermedlem av styre i riksrevisjon, revisjonsdomstol eller sentralbankambassadør, chargé d’affaires eller militær offiser av høyere rangmedlem av administrativt, ledende eller kontrollerende organ i statlig foretakdirektør, styremedlem eller annen person i øverste ledelse i internasjonal organisasjon.nært familiemedlem: foreldre, ektefelle, registrert partner, samboer og barn, samt barns ektefelle, registrert partner eller samboer.kjent medarbeider: fysisk person som er kjent for åvære reell rettighetshaver i juridisk person, sammenslutning eller utenlandsk juridisk arrangement i felleskap med politisk eksponert personha nær forretningsforbindelse til politisk eksponert personvære eneste reelle rettighetshaver i juridisk person, sammenslutning eller utenlandsk juridisk arrangement som i realiteten er etablert for å begunstige politisk eksponert person.korrespondentforbindelse:yting av banktjenester fra en bank som korrespondent til en annen bank som respondent, herunder opprettelse av en foliokonto eller annen trekkonto med tilknyttede tjenester, som likviditetsstyring, internasjonale pengeoverføringer, sjekkavregning, oppgjørskontoer og valutatjenester, ogforbindelsene mellom rapporteringspliktige som nevnt i [§ 4 første ledd bokstav a](lov/2018-06-01-23/§4/ledd/1/bokstav/a) til [c](lov/2018-06-01-23/§4/ledd/1/bokstav/c), [e](lov/2018-06-01-23/§4/ledd/1/bokstav/e), [g](lov/2018-06-01-23/§4/ledd/1/bokstav/g) til [l](lov/2018-06-01-23/§4/ledd/1/bokstav/l) og [n](lov/2018-06-01-23/§4/ledd/1/bokstav/n) til [p](lov/2018-06-01-23/§4/ledd/1/bokstav/p) seg imellom, herunder der lignende tjenester ytes av en korrespondentinstitusjon til en respondentinstitusjon, samt forbindelsene som er opprettet med sikte på verdipapirtransaksjoner, pengeoverføringer og overføringer av kryptoeiendeler.tilbyder av virksomhetstjeneste: fysisk og juridisk person som ervervsmessig tilbyr en eller flere av følgende tjenester til tredjeperson:å opprette selskap eller annen juridisk personå opptre som styremedlem, daglig leder eller deltaker i et selskap, eller å inneha en lignende funksjon i andre juridiske personerå stille til rådighet forretningsadresse, administrativ adresse eller postadresse og tilknyttet tjeneste for selskap, annen juridisk person eller juridisk arrangementå forvalte utenlandsk trust eller lignende juridisk arrangementå opptre som aksjeeier for annen person, med mindre denne er et selskap som har finansielle instrumenter opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-statå sørge for at andre personer opptrer i posisjoner som nevnt i nr. 2, 4 og 5tilbyder av spilltjeneste: fysisk eller juridisk person som arrangerer spill som krever tillatelse etter [pengespilloven](lov/2022-03-18-12). Når en entreprenør arrangerer pengespill på vegne av en organisasjon eller forening, anses entreprenøren som tilbyder av spilltjenesten.kryptoeiendeler: eiendeler som nevnt i forordning [(EU) 2023/1114](eu/32023r1114) artikkel 3 nr. 1 punkt 5, med unntak av eiendeler som nevnt i artikkel 2 nr. 2 til 4 og eiendeler som nevnt i forordning [(EU) 2023/1113](eu/32023r1113) artikkel 3 punkt 8.kryptoeiendelstjenesteyter: person som nevnt i forordning [(EU) 2023/1114](eu/32023r1114) artikkel 3 nr. 1 punkt 15, når vedkommende yter tjenester som nevnt i artikkel 3 nr. 1 punkt 16, unntatt når vedkommende yter rådgivning som nevnt i artikkel 3 nr. 1 punkt 16 bokstav h.frittstående adresse: frittstående adresse som nevnt i forordning [(EU) 2023/1113](eu/32023r1113) artikkel 3 punkt 20.
+I denne loven forstås med:
+
+1. hvitvasking: handling som beskrevet i [straffeloven § 332](lov/2005-05-20-28/§332) og [§ 337](lov/2005-05-20-28/§337).
+2. terrorfinansiering: handling som beskrevet i [straffeloven § 135](lov/2005-05-20-28/§135) eller finansiering som beskrevet i [straffeloven § 136 a](lov/2005-05-20-28/§136a).
+3. rapporteringspliktig: person som nevnt i [§ 4](lov/2018-06-01-23/§4) første, annet og femte ledd.
+4. transaksjon: enhver overføring, formidling, ombytting eller plassering av formuesgoder.
+5. reell rettighetshaver: fysisk person som i siste instans eier eller kontrollerer kunden, eller som en transaksjon eller aktivitet gjennomføres på vegne av.
+6. politisk eksponert person: person som har eller har hatt viktig offentlig verv. Verv eller stilling på mellomnivå eller lavere nivå omfattes ikke. Departementet fastsetter i forskrift en liste over de stillinger og verv som i Norge regnes for å være viktige offentlige verv, og kan også for øvrig fastsette hvilke stillinger og verv som skal regnes som viktige offentlige verv. Med mindre annet følger av forskrift etter tredje punktum regnes blant annet følgende stillinger og verv som viktige offentlige verv:
+
+   1. statsoverhode, regjeringssjef, minister eller assisterende minister
+   2. medlem av nasjonalforsamling
+   3. medlem av styrende organ i politisk parti
+   4. medlem av høyere rettsinstans hvis avgjørelser ikke kan ankes annet enn under ekstraordinære omstendigheter
+   5. medlem av styre i riksrevisjon, revisjonsdomstol eller sentralbank
+   6. ambassadør, chargé d’affaires eller militær offiser av høyere rang
+   7. medlem av administrativt, ledende eller kontrollerende organ i statlig foretak
+   8. direktør, styremedlem eller annen person i øverste ledelse i internasjonal organisasjon.
+7. nært familiemedlem: foreldre, ektefelle, registrert partner, samboer og barn, samt barns ektefelle, registrert partner eller samboer.
+8. kjent medarbeider: fysisk person som er kjent for å
+
+   1. være reell rettighetshaver i juridisk person, sammenslutning eller utenlandsk juridisk arrangement i felleskap med politisk eksponert person
+   2. ha nær forretningsforbindelse til politisk eksponert person
+   3. være eneste reelle rettighetshaver i juridisk person, sammenslutning eller utenlandsk juridisk arrangement som i realiteten er etablert for å begunstige politisk eksponert person.
+9. korrespondentforbindelse:
+
+   1. yting av banktjenester fra en bank som korrespondent til en annen bank som respondent, herunder opprettelse av en foliokonto eller annen trekkonto med tilknyttede tjenester, som likviditetsstyring, internasjonale pengeoverføringer, sjekkavregning, oppgjørskontoer og valutatjenester, og
+   2. forbindelsene mellom rapporteringspliktige som nevnt i [§ 4 første ledd bokstav a](lov/2018-06-01-23/§4/ledd/1/bokstav/a) til [c](lov/2018-06-01-23/§4/ledd/1/bokstav/c), [e](lov/2018-06-01-23/§4/ledd/1/bokstav/e), [g](lov/2018-06-01-23/§4/ledd/1/bokstav/g) til [l](lov/2018-06-01-23/§4/ledd/1/bokstav/l) og [n](lov/2018-06-01-23/§4/ledd/1/bokstav/n) til [p](lov/2018-06-01-23/§4/ledd/1/bokstav/p) seg imellom, herunder der lignende tjenester ytes av en korrespondentinstitusjon til en respondentinstitusjon, samt forbindelsene som er opprettet med sikte på verdipapirtransaksjoner, pengeoverføringer og overføringer av kryptoeiendeler.
+10. tilbyder av virksomhetstjeneste: fysisk og juridisk person som ervervsmessig tilbyr en eller flere av følgende tjenester til tredjeperson:
+
+    1. å opprette selskap eller annen juridisk person
+    2. å opptre som styremedlem, daglig leder eller deltaker i et selskap, eller å inneha en lignende funksjon i andre juridiske personer
+    3. å stille til rådighet forretningsadresse, administrativ adresse eller postadresse og tilknyttet tjeneste for selskap, annen juridisk person eller juridisk arrangement
+    4. å forvalte utenlandsk trust eller lignende juridisk arrangement
+    5. å opptre som aksjeeier for annen person, med mindre denne er et selskap som har finansielle instrumenter opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat
+    6. å sørge for at andre personer opptrer i posisjoner som nevnt i nr. 2, 4 og 5
+11. tilbyder av spilltjeneste: fysisk eller juridisk person som arrangerer spill som krever tillatelse etter [pengespilloven](lov/2022-03-18-12). Når en entreprenør arrangerer pengespill på vegne av en organisasjon eller forening, anses entreprenøren som tilbyder av spilltjenesten.
+12. kryptoeiendeler: eiendeler som nevnt i forordning [(EU) 2023/1114](eu/32023r1114) artikkel 3 nr. 1 punkt 5, med unntak av eiendeler som nevnt i artikkel 2 nr. 2 til 4 og eiendeler som nevnt i forordning [(EU) 2023/1113](eu/32023r1113) artikkel 3 punkt 8.
+13. kryptoeiendelstjenesteyter: person som nevnt i forordning [(EU) 2023/1114](eu/32023r1114) artikkel 3 nr. 1 punkt 15, når vedkommende yter tjenester som nevnt i artikkel 3 nr. 1 punkt 16, unntatt når vedkommende yter rådgivning som nevnt i artikkel 3 nr. 1 punkt 16 bokstav h.
+14. frittstående adresse: frittstående adresse som nevnt i forordning [(EU) 2023/1113](eu/32023r1113) artikkel 3 punkt 20.
 
 > Endret ved lover [18 mars 2022 nr. 12](lov/2022-03-18-12) (i kraft 1 jan 2023 iflg. [res. 18 mars 2022 nr. 414](forskrift/2022-03-18-414)), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1214](forskrift/2024-06-25-1214)), [27 mai 2025 nr. 19](lov/2025-05-27-19) (i kraft 1 juli 2025 iflg. [res. 27 mai 2025 nr. 869](forskrift/2025-05-27-869)).
 
@@ -46,9 +84,42 @@ I denne loven forstås med:hvitvasking: handling som beskrevet i [straffeloven �
 
 ### § 4. Anvendelsesområde
 
-(1) Loven gjelder for følgende juridiske personer:bankkredittforetakfinansieringsforetakNorges Banke-pengeforetakforetak som driver valutavirksomhetbetalingsforetak og andre som har rett til å yte betalingstjenesterverdipapirforetakforvaltningsselskap for verdipapirfondforsikringsforetakforetak som driver forsikringsformidling som ikke er gjenforsikringsmeglingverdipapirsentraler, i tilfeller der verdipapirsentralen ikke benytter ekstern kontofører som er rapporteringspliktig. For kontohavere og utstedere som har ekstern kontofører som er rapporteringspliktig, er det kontoføreren som er rapporteringspliktig.foretak som driver depotvirksomhetforvalter av alternative investeringsfondfinansmeglerforetakkryptoeiendelstjenesteytere
+(1) Loven gjelder for følgende juridiske personer:
 
-(2) Loven gjelder også for følgende juridiske og fysiske personer i utøvelsen av deres yrke:statsautoriserte og registrerte revisorer, godkjente revisjonsselskaper og revisorer som er ansvarlig for revisjon av regnskap for kommune, fylkeskommune eller kommunalt eller fylkeskommunalt foretak. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.statsautoriserte regnskapsførere og regnskapsselskaper. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.advokater, advokatforetak og andre som ervervsmessig eller stadig yter selvstendig rettshjelp, når de på klientens vegne utfører finansiell transaksjon eller en transaksjon som gjelder fast eiendom, eller når de bistår ved planlegging eller utføring av transaksjon for klient i forbindelse medkjøp og salg av fast eiendom eller virksomhetforvaltning av en klients penger, verdipapir eller andre aktivaåpning eller forvaltning av bank- eller verdipapirkontofremskaffelse av nødvendig kapital til opprettelse, drift eller ledelse av selskapopprettelse, drift eller ledelse av selskap, fond eller en lignende juridisk person eller formuesmasse, herunder utenlandsk trust eller tilsvarende juridisk arrangement.eiendomsmeglere og eiendomsmeglingsforetaktilbydere av virksomhetstjenesterpersoner med begrenset tillatelse til å yte betalingstjenestertilbydere av spilltjenestepersoner som ervervsmessig handler med eller formidler handler med kunst, når det gjennomføres eller kan antas at det vil bli gjennomført transaksjoner, herunder transaksjoner som gjennomføres i flere operasjoner som ser ut til å ha sammenheng, verdt 80 000 kroner eller merpersoner som ervervsmessig tilbyr tjenester som er særlig egnet til, tilpasset for eller utformet med sikte på oppbevaring av kunst, når det gjennomføres eller kan antas at det vil bli gjennomført transaksjoner, herunder transaksjoner som gjennomføres i flere operasjoner som ser ut til å ha sammenheng, verdt 80 000 kroner eller mer, eller når det oppbevares kunst som er eller antas å være verdt 80 000 kroner eller mer.
+1. bank
+2. kredittforetak
+3. finansieringsforetak
+4. Norges Bank
+5. e-pengeforetak
+6. foretak som driver valutavirksomhet
+7. betalingsforetak og andre som har rett til å yte betalingstjenester
+8. verdipapirforetak
+9. forvaltningsselskap for verdipapirfond
+10. forsikringsforetak
+11. foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling
+12. verdipapirsentraler, i tilfeller der verdipapirsentralen ikke benytter ekstern kontofører som er rapporteringspliktig. For kontohavere og utstedere som har ekstern kontofører som er rapporteringspliktig, er det kontoføreren som er rapporteringspliktig.
+13. foretak som driver depotvirksomhet
+14. forvalter av alternative investeringsfond
+15. finansmeglerforetak
+16. kryptoeiendelstjenesteytere
+
+(2) Loven gjelder også for følgende juridiske og fysiske personer i utøvelsen av deres yrke:
+
+1. statsautoriserte og registrerte revisorer, godkjente revisjonsselskaper og revisorer som er ansvarlig for revisjon av regnskap for kommune, fylkeskommune eller kommunalt eller fylkeskommunalt foretak. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.
+2. statsautoriserte regnskapsførere og regnskapsselskaper. Tilbyr personer eller foretak som nevnt i første punktum virksomhetstjenester, er de uansett underlagt loven på dette grunnlaget.
+3. advokater, advokatforetak og andre som ervervsmessig eller stadig yter selvstendig rettshjelp, når de på klientens vegne utfører finansiell transaksjon eller en transaksjon som gjelder fast eiendom, eller når de bistår ved planlegging eller utføring av transaksjon for klient i forbindelse med
+
+   1. kjøp og salg av fast eiendom eller virksomhet
+   2. forvaltning av en klients penger, verdipapir eller andre aktiva
+   3. åpning eller forvaltning av bank- eller verdipapirkonto
+   4. fremskaffelse av nødvendig kapital til opprettelse, drift eller ledelse av selskap
+   5. opprettelse, drift eller ledelse av selskap, fond eller en lignende juridisk person eller formuesmasse, herunder utenlandsk trust eller tilsvarende juridisk arrangement.
+4. eiendomsmeglere og eiendomsmeglingsforetak
+5. tilbydere av virksomhetstjenester
+6. personer med begrenset tillatelse til å yte betalingstjenester
+7. tilbydere av spilltjeneste
+8. personer som ervervsmessig handler med eller formidler handler med kunst, når det gjennomføres eller kan antas at det vil bli gjennomført transaksjoner, herunder transaksjoner som gjennomføres i flere operasjoner som ser ut til å ha sammenheng, verdt 80 000 kroner eller mer
+9. personer som ervervsmessig tilbyr tjenester som er særlig egnet til, tilpasset for eller utformet med sikte på oppbevaring av kunst, når det gjennomføres eller kan antas at det vil bli gjennomført transaksjoner, herunder transaksjoner som gjennomføres i flere operasjoner som ser ut til å ha sammenheng, verdt 80 000 kroner eller mer, eller når det oppbevares kunst som er eller antas å være verdt 80 000 kroner eller mer.
 
 (3) [§ 5](lov/2018-06-01-23/§5) gjelder for forhandlere av gjenstander.
 
@@ -80,7 +151,12 @@ Rapporteringspliktige skal ved anvendelsen av denne loven legge til grunn vurder
 
 (1) Rapporteringspliktige skal identifisere og vurdere risikoen for hvitvasking og terrorfinansiering knyttet til sin virksomhet.
 
-(2) Ved risikovurderingen etter første ledd skal den rapporteringspliktige blant annet ta i betraktningegen virksomhet, herunder særlig virksomhetens art og omfangvirksomhetens produkter, tjenester og kundeforholdtype kunder og kundegruppergeografiske forhold
+(2) Ved risikovurderingen etter første ledd skal den rapporteringspliktige blant annet ta i betraktning
+
+1. egen virksomhet, herunder særlig virksomhetens art og omfang
+2. virksomhetens produkter, tjenester og kundeforhold
+3. type kunder og kundegrupper
+4. geografiske forhold
 
 (3) Rapporteringspliktige skal særskilt vurdere risikoen for hvitvasking og terrorfinansiering før nye produkter og tjenester tilbys og før ny teknologi tas i bruk.
 
@@ -114,7 +190,17 @@ Rapporteringspliktige skal ved anvendelsen av denne loven legge til grunn vurder
 
 ### § 10. Plikt til å gjennomføre kundetiltak
 
-(1) Rapporteringspliktige skal gjennomføre kundetiltak vedetablering av kundeforholdtransaksjoner for kunder som rapporteringspliktig ikke har et etablert kundeforhold til, som gjelder minst100 000 kroner8 000 kroner, når transaksjonen utgjør en pengeoverføring som nærmere definert av departementet i forskrift16 000 kroner, for rapporteringspliktige som nevnt i [§ 4](lov/2018-06-01-23/§4) annet ledd bokstav g80 000 kroner, for rapporteringspliktige som nevnt i [§ 4 annet ledd bokstav h](lov/2018-06-01-23/§4/ledd/2/bokstav/h) og [i](lov/2018-06-01-23/§4/ledd/2/bokstav/i).mistanke om hvitvasking eller terrorfinansieringpengeoverføringer og overføringer av kryptoeiendeler når dette er påkrevd etter forordning [(EU) 2023/1113](eu/32023r1113), jf. [§ 52](lov/2018-06-01-23/§52).
+(1) Rapporteringspliktige skal gjennomføre kundetiltak ved
+
+1. etablering av kundeforhold
+2. transaksjoner for kunder som rapporteringspliktig ikke har et etablert kundeforhold til, som gjelder minst
+
+   1. 100 000 kroner
+   2. 8 000 kroner, når transaksjonen utgjør en pengeoverføring som nærmere definert av departementet i forskrift
+   3. 16 000 kroner, for rapporteringspliktige som nevnt i [§ 4](lov/2018-06-01-23/§4) annet ledd bokstav g
+   4. 80 000 kroner, for rapporteringspliktige som nevnt i [§ 4 annet ledd bokstav h](lov/2018-06-01-23/§4/ledd/2/bokstav/h) og [i](lov/2018-06-01-23/§4/ledd/2/bokstav/i).
+3. mistanke om hvitvasking eller terrorfinansiering
+4. pengeoverføringer og overføringer av kryptoeiendeler når dette er påkrevd etter forordning [(EU) 2023/1113](eu/32023r1113), jf. [§ 52](lov/2018-06-01-23/§52).
 
 (2) Beløpsgrensene i første ledd bokstav b nr. 1, 3 og 4 beregnes samlet for transaksjoner som gjennomføres i flere operasjoner, som ser ut til å ha sammenheng. Dersom beløpet ikke er kjent når transaksjonen gjennomføres, skal kundetiltak foretas så snart den rapporteringspliktige blir kjent med at beløpsgrensen er oversteget.
 
@@ -126,11 +212,21 @@ Rapporteringspliktige skal ved anvendelsen av denne loven legge til grunn vurder
 
 (1) Kundetiltak skal gjennomføres før etablering av kundeforholdet eller utføring av transaksjonen.
 
-(2) Fra første ledd gjelder følgende unntak:Bekreftelse av kundens og reelle rettighetshaveres identitet kan gjennomføres under etablering av kundeforholdet, dersom etablering er nødvendig for ikke å hindre den alminnelige forretningsdriften og det er lav risiko for hvitvasking eller terrorfinansiering. Bekreftelse av identitetene skal skje så raskt som mulig etter etablering av kundeforholdet.Bekreftelse av identiteten til begunstigete etter forsikringsavtaler kan gjennomføres etter avtaleinngåelsen, forutsatt at bekreftelse av identiteten gjennomføres før utbetalingstidspunktet eller det tidspunktet begunstiget utøver sine rettigheter etter avtalen.Bekreftelse av kundens og reelle rettighetshaveres identitet kan gjennomføres etter åpning av en konto hos rapporteringspliktige som nevnt i [§ 4](lov/2018-06-01-23/§4) første ledd bokstav a, b, h, i, l og n, forutsatt at det sikres at transaksjoner knyttet til kontoen ikke kan utføres av kunden eller på kundens vegne før bekreftelse av identitetene er gjennomført.
+(2) Fra første ledd gjelder følgende unntak:
+
+1. Bekreftelse av kundens og reelle rettighetshaveres identitet kan gjennomføres under etablering av kundeforholdet, dersom etablering er nødvendig for ikke å hindre den alminnelige forretningsdriften og det er lav risiko for hvitvasking eller terrorfinansiering. Bekreftelse av identitetene skal skje så raskt som mulig etter etablering av kundeforholdet.
+2. Bekreftelse av identiteten til begunstigete etter forsikringsavtaler kan gjennomføres etter avtaleinngåelsen, forutsatt at bekreftelse av identiteten gjennomføres før utbetalingstidspunktet eller det tidspunktet begunstiget utøver sine rettigheter etter avtalen.
+3. Bekreftelse av kundens og reelle rettighetshaveres identitet kan gjennomføres etter åpning av en konto hos rapporteringspliktige som nevnt i [§ 4](lov/2018-06-01-23/§4) første ledd bokstav a, b, h, i, l og n, forutsatt at det sikres at transaksjoner knyttet til kontoen ikke kan utføres av kunden eller på kundens vegne før bekreftelse av identitetene er gjennomført.
 
 ### § 12. Kundetiltak når kunden er fysisk person
 
-(1) Når kunden er en fysisk person, skal følgende opplysninger innhentes om kunden:navnfødselsnummer, D-nummer eller, dersom kunden ikke har slikt nummer, annen entydig identitetskode. For personer som ikke har norsk fødselsnummer eller D-nummer, skal det innhentes fødselsdato, fødested, kjønn og statsborgerskap, herunder om personen har flere statsborgerskapadresseDe samme opplysningene skal innhentes om den som handler på vegne av kunden, i tillegg til opplysninger om at vedkommende kan handle på vegne av kunden. De samme opplysningene skal innhentes om den som er gitt disposisjonsrett over en konto eller et depot.
+(1) Når kunden er en fysisk person, skal følgende opplysninger innhentes om kunden:
+
+1. navn
+2. fødselsnummer, D-nummer eller, dersom kunden ikke har slikt nummer, annen entydig identitetskode. For personer som ikke har norsk fødselsnummer eller D-nummer, skal det innhentes fødselsdato, fødested, kjønn og statsborgerskap, herunder om personen har flere statsborgerskap
+3. adresse
+
+De samme opplysningene skal innhentes om den som handler på vegne av kunden, i tillegg til opplysninger om at vedkommende kan handle på vegne av kunden. De samme opplysningene skal innhentes om den som er gitt disposisjonsrett over en konto eller et depot.
 
 (2) Opplysninger om kundens identitet bekreftes ved personlig fremmøte ved gyldig legitimasjon. Dersom bekreftelse av identiteten skal skje uten personlig fremmøte, skal det fremlegges ytterligere dokumentasjon eller gjennomføres ytterligere tiltak. Opplysninger om identiteten til personer som handler på vegne av kunden eller er gitt disposisjonsrett over en konto eller et depot, bekreftes ved gyldig legitimasjon. Retten til å handle på vegne av kunden bekreftes ved skriftlig dokumentasjon.
 
@@ -144,7 +240,15 @@ Rapporteringspliktige skal ved anvendelsen av denne loven legge til grunn vurder
 
 ### § 13. Kundetiltak når kunden ikke er en fysisk person
 
-(1) Når kunden er en juridisk person, skal følgende opplysninger innhentes om kunden:foretaksnavnorganisasjonsformorganisasjonsnummeradressenavnet på daglig leder og styremedlemmer, eller personer i tilsvarende stillingOpplysninger om fysiske personer som handler på vegne av en juridisk person, inkludert personer som har disposisjonsrett over en konto eller et depot, skal innhentes i samsvar med [§ 12](lov/2018-06-01-23/§12) første ledd. Det skal gjennomføres egnede tiltak for å forstå eierskaps- og kontrollstrukturen i kunden. Tiltakene skal dokumenteres. Tilsvarende opplysninger skal innhentes og egnede tiltak gjennomføres så langt det passer når kunden er en stiftelse, et juridisk arrangement eller en annen sammenslutning.
+(1) Når kunden er en juridisk person, skal følgende opplysninger innhentes om kunden:
+
+1. foretaksnavn
+2. organisasjonsform
+3. organisasjonsnummer
+4. adresse
+5. navnet på daglig leder og styremedlemmer, eller personer i tilsvarende stilling
+
+Opplysninger om fysiske personer som handler på vegne av en juridisk person, inkludert personer som har disposisjonsrett over en konto eller et depot, skal innhentes i samsvar med [§ 12](lov/2018-06-01-23/§12) første ledd. Det skal gjennomføres egnede tiltak for å forstå eierskaps- og kontrollstrukturen i kunden. Tiltakene skal dokumenteres. Tilsvarende opplysninger skal innhentes og egnede tiltak gjennomføres så langt det passer når kunden er en stiftelse, et juridisk arrangement eller en annen sammenslutning.
 
 (2) Opplysninger som nevnt i første ledd bokstav a til e, skal bekreftes ved oppslag mot eller utskrift fra et offentlig register eller firmaattest, som ikke er eldre enn tre måneder. Opplysninger om fysiske personer som handler på vegne av en juridisk person, skal bekreftes i samsvar med [§ 12](lov/2018-06-01-23/§12) annet ledd. Retten til å handle på vegne av den juridiske personen skal også bekreftes i samsvar med [§ 12](lov/2018-06-01-23/§12) annet ledd.
 
@@ -158,13 +262,33 @@ Rapporteringspliktige skal ved anvendelsen av denne loven legge til grunn vurder
 
 ### § 14. Identifisering av reelle rettighetshavere når kunden ikke er en fysisk person
 
-(1) Når kunden ikke er en fysisk person, en stiftelse eller et utenlandsk juridisk arrangement, skal rapporteringspliktige avgjøre om det er fysiske personer, alene eller sammen med nære familiemedlemmer, someier mer enn 25 prosent av eierandelene i den juridiske personen eller sammenslutningenpå grunn av innehav av aksjer, andeler eller medlemskap kontrollerer mer enn 25 prosent av det totale antallet stemmer i den juridiske personen eller sammenslutningenhar rett til å utpeke eller avsette mer enn halvparten av den juridiske personens eller sammenslutningens styremedlemmer eller tilsvarendepå grunn av avtale med eiere, medlemmer, den juridiske personen eller sammenslutningen, vedtekter eller tilsvarende, kan utøve kontroll i samsvar med bokstav a, b eller cpå annen måte utøver kontroll over den juridiske personen eller sammenslutningen.Dersom en eller flere fysiske personer gjennom kontroll over en eller flere juridiske personer, stiftelser, utenlandske juridiske arrangementer eller andre sammenslutninger utøver kontroll over en annen juridisk person eller sammenslutning på en måte som angitt i første ledd, skal den eller de fysiske personene anses å utøve kontroll også over den sistnevnte juridiske personen eller sammenslutningen.
+(1) Når kunden ikke er en fysisk person, en stiftelse eller et utenlandsk juridisk arrangement, skal rapporteringspliktige avgjøre om det er fysiske personer, alene eller sammen med nære familiemedlemmer, som
+
+1. eier mer enn 25 prosent av eierandelene i den juridiske personen eller sammenslutningen
+2. på grunn av innehav av aksjer, andeler eller medlemskap kontrollerer mer enn 25 prosent av det totale antallet stemmer i den juridiske personen eller sammenslutningen
+3. har rett til å utpeke eller avsette mer enn halvparten av den juridiske personens eller sammenslutningens styremedlemmer eller tilsvarende
+4. på grunn av avtale med eiere, medlemmer, den juridiske personen eller sammenslutningen, vedtekter eller tilsvarende, kan utøve kontroll i samsvar med bokstav a, b eller c
+5. på annen måte utøver kontroll over den juridiske personen eller sammenslutningen.
+
+Dersom en eller flere fysiske personer gjennom kontroll over en eller flere juridiske personer, stiftelser, utenlandske juridiske arrangementer eller andre sammenslutninger utøver kontroll over en annen juridisk person eller sammenslutning på en måte som angitt i første ledd, skal den eller de fysiske personene anses å utøve kontroll også over den sistnevnte juridiske personen eller sammenslutningen.
 
 (2) Rapporteringspliktige skal ikke identifisere reelle rettighetshavere når kunden er et selskap med eierandeler opptatt til handel på regulert marked i EØS-stat eller er underlagt tilsvarende informasjonsplikt som det som gjelder ved notering på regulert marked i EØS-stat. Det samme gjelder når kunden er et majoritetseid datterselskap av et selskap som nevnt i første punktum.
 
-(3) Når rapporteringspliktige skal identifisere reelle rettighetshavere i stiftelser, gjelder følgende:Dersom en fysisk person er styremedlem eller daglig leder i stiftelsen, er vedkommende reell rettighetshaver.Dersom en fysisk person uttrykkelig er angitt til å utpeke et flertall av styremedlemmene i stiftelsen, er vedkommende reell rettighetshaver. Dersom en juridisk person uttrykkelig er angitt til å utpeke et flertall av styremedlemmene i stiftelsen, er reelle rettighetshavere i den juridiske personen også reelle rettighetshavere i stiftelsen.Dersom en fysisk person har avgitt grunnkapital til stiftelsen, er vedkommende reell rettighetshaver. Dersom andre enn fysiske personer har avgitt grunnkapital til stiftelsen, er reelle rettighetshavere i avgiveren også reelle rettighetshavere i stiftelsen.Dersom en fysisk person er tilstått særlige rettigheter i medhold av [stiftelsesloven § 9](lov/2001-06-15-59/§9) første ledd bokstav d, er vedkommende reell rettighetshaver. Dersom andre enn fysiske personer er tilstått særlige rettigheter i medhold av [stiftelsesloven § 9](lov/2001-06-15-59/§9) første ledd bokstav d, er reelle rettighetshavere i den som er tilstått særlige rettigheter, også reelle rettighetshavere i stiftelsen.Dersom en fysisk person uttrykkelig er angitt som destinatar, er vedkommende reell rettighetshaver. Dersom andre enn fysiske personer uttrykkelig er angitt som destinatar, er reelle rettighetshavere i destinataren også reelle rettighetshavere i stiftelsen.
+(3) Når rapporteringspliktige skal identifisere reelle rettighetshavere i stiftelser, gjelder følgende:
 
-(4) Når rapporteringspliktige skal identifisere reelle rettighetshavere i utenlandske truster og lignende juridiske arrangementer, skal den rapporteringspliktige identifisere følgende personer:oppretterforvalterbeskytterbegunstigede eller, dersom individuelle begunstigede foreløpig ikke kan identifiseres, kretsen av begunstigede som har en hovedinteresse i opprettelsen eller forvaltningen av trusten eller det lignende juridiske arrangementetenhver annen fysisk person som ved direkte eller indirekte eierskap eller på annen måte utøver kontroll over trusten eller det lignende juridiske arrangementet
+1. Dersom en fysisk person er styremedlem eller daglig leder i stiftelsen, er vedkommende reell rettighetshaver.
+2. Dersom en fysisk person uttrykkelig er angitt til å utpeke et flertall av styremedlemmene i stiftelsen, er vedkommende reell rettighetshaver. Dersom en juridisk person uttrykkelig er angitt til å utpeke et flertall av styremedlemmene i stiftelsen, er reelle rettighetshavere i den juridiske personen også reelle rettighetshavere i stiftelsen.
+3. Dersom en fysisk person har avgitt grunnkapital til stiftelsen, er vedkommende reell rettighetshaver. Dersom andre enn fysiske personer har avgitt grunnkapital til stiftelsen, er reelle rettighetshavere i avgiveren også reelle rettighetshavere i stiftelsen.
+4. Dersom en fysisk person er tilstått særlige rettigheter i medhold av [stiftelsesloven § 9](lov/2001-06-15-59/§9) første ledd bokstav d, er vedkommende reell rettighetshaver. Dersom andre enn fysiske personer er tilstått særlige rettigheter i medhold av [stiftelsesloven § 9](lov/2001-06-15-59/§9) første ledd bokstav d, er reelle rettighetshavere i den som er tilstått særlige rettigheter, også reelle rettighetshavere i stiftelsen.
+5. Dersom en fysisk person uttrykkelig er angitt som destinatar, er vedkommende reell rettighetshaver. Dersom andre enn fysiske personer uttrykkelig er angitt som destinatar, er reelle rettighetshavere i destinataren også reelle rettighetshavere i stiftelsen.
+
+(4) Når rapporteringspliktige skal identifisere reelle rettighetshavere i utenlandske truster og lignende juridiske arrangementer, skal den rapporteringspliktige identifisere følgende personer:
+
+1. oppretter
+2. forvalter
+3. beskytter
+4. begunstigede eller, dersom individuelle begunstigede foreløpig ikke kan identifiseres, kretsen av begunstigede som har en hovedinteresse i opprettelsen eller forvaltningen av trusten eller det lignende juridiske arrangementet
+5. enhver annen fysisk person som ved direkte eller indirekte eierskap eller på annen måte utøver kontroll over trusten eller det lignende juridiske arrangementet
 
 (5) Departementet kan i forskrift gi nærmere regler om identifisering av reelle rettighetshavere etter denne bestemmelsen.
 
@@ -196,7 +320,13 @@ Rapporteringspliktige skal ved anvendelsen av denne loven legge til grunn vurder
 
 ### § 17 a. Forsterkede kundetiltak for transaksjoner på frittstående adresse
 
-Ved gjennomføring av transaksjoner til eller fra frittstående adresser skal kryptoeiendelstjenesteytere foreta en konkret risikovurdering av transaksjonen. Minst ett av følgende forsterkede kundetiltak skal gjennomføres:identifisering og verifisering av identiteten til avsenderen og mottakeren og deres reelle rettighetshaverekrav om ytterligere informasjon om midlenes opprinnelse og mottakeren av de overførte kryptoeiendeleneforsterket løpende oppfølging av transaksjoneneandre tiltak for å motvirke og håndtere risikoen for hvitvasking og terrorfinansieringtiltak for å motvirke og håndtere risiko knyttet til oppfølging av økonomiske sanksjoner og sanksjoner tilknyttet finansiering av masseødeleggelsesvåpen, som følger av regler om gjennomføring av internasjonale sanksjoner.
+Ved gjennomføring av transaksjoner til eller fra frittstående adresser skal kryptoeiendelstjenesteytere foreta en konkret risikovurdering av transaksjonen. Minst ett av følgende forsterkede kundetiltak skal gjennomføres:
+
+1. identifisering og verifisering av identiteten til avsenderen og mottakeren og deres reelle rettighetshavere
+2. krav om ytterligere informasjon om midlenes opprinnelse og mottakeren av de overførte kryptoeiendelene
+3. forsterket løpende oppfølging av transaksjonene
+4. andre tiltak for å motvirke og håndtere risikoen for hvitvasking og terrorfinansiering
+5. tiltak for å motvirke og håndtere risiko knyttet til oppfølging av økonomiske sanksjoner og sanksjoner tilknyttet finansiering av masseødeleggelsesvåpen, som følger av regler om gjennomføring av internasjonale sanksjoner.
 
 > Tilføyd ved lov [27 mai 2025 nr. 19](lov/2025-05-27-19) (i kraft 1 juli 2025 iflg. [res. 27 mai 2025 nr. 869](forskrift/2025-05-27-869)).
 
@@ -204,7 +334,10 @@ Ved gjennomføring av transaksjoner til eller fra frittstående adresser skal kr
 
 (1) Rapporteringspliktige skal gjennomføre forsterkede kundetiltak når kunden, personer som handler på vegne av kunden eller er gitt disposisjonsrett over en konto eller et depot, eller reelle rettighetshavere er en politisk eksponert person.
 
-(2) Ved etablering av kundeforhold med en politisk eksponert person eller når en eksisterende kunde, personer som handler på vegne av kunden eller er gitt disposisjonsrett over en konto eller et depot, eller reelle rettighetshavere blir en politisk eksponert person, skal rapporteringspliktige blant annetpåse at det innhentes godkjenning fra overordnet før etablering eller opprettholdelse av kundeforholdetgjennomføre tilstrekkelige tiltak for å fastslå formuens og midlenes opprinnelse
+(2) Ved etablering av kundeforhold med en politisk eksponert person eller når en eksisterende kunde, personer som handler på vegne av kunden eller er gitt disposisjonsrett over en konto eller et depot, eller reelle rettighetshavere blir en politisk eksponert person, skal rapporteringspliktige blant annet
+
+1. påse at det innhentes godkjenning fra overordnet før etablering eller opprettholdelse av kundeforholdet
+2. gjennomføre tilstrekkelige tiltak for å fastslå formuens og midlenes opprinnelse
 
 (3) Er den begunstigede eller reelle rettighetshavere til den begunstigede en politisk eksponert person eller nært familiemedlem eller kjent medarbeider til en politisk eksponert person, skal forsikringsforetaket påse at overordnet informeres før utbetaling og gjennomføre særlig forsterket kontroll med hele kundeforholdet.
 
@@ -214,7 +347,16 @@ Ved gjennomføring av transaksjoner til eller fra frittstående adresser skal kr
 
 ### § 19. Forsterkede kundetiltak ved korrespondentforbindelse
 
-(1) Ved inngåelse av en avtale om korrespondentforbindelse med en institusjon fra stat utenfor EØS som respondentinstitusjon, skal rapporteringspliktige som nevnt i [§ 4 første ledd bokstav a](lov/2018-06-01-23/§4/ledd/1/bokstav/a) til [c](lov/2018-06-01-23/§4/ledd/1/bokstav/c), [e](lov/2018-06-01-23/§4/ledd/1/bokstav/e), [g](lov/2018-06-01-23/§4/ledd/1/bokstav/g) til [l](lov/2018-06-01-23/§4/ledd/1/bokstav/l) og [n](lov/2018-06-01-23/§4/ledd/1/bokstav/n) til [p](lov/2018-06-01-23/§4/ledd/1/bokstav/p)innhente tilstrekkelige opplysninger om respondentinstitusjonen for å forstå virksomhetens art og omdømme og tilsynets kvalitet. Rapporteringspliktige etter [§ 4 første ledd bokstav p](lov/2018-06-01-23/§4/ledd/1/bokstav/p) skal også fastslå om respondentinstitusjonen er registrert eller har konsesjon.vurdere respondentinstitusjonens tiltak mot hvitvasking og terrorfinansieringpåse at det innhentes godkjenning fra overordnet før etablering av ny korrespondentforbindelsedokumentere institusjonenes ansvarved oppgjørskonti forsikre seg om at respondentinstitusjonenhar bekreftet identiteten til og fører løpende oppfølging av kunder som har direkte adgang til konti hos korrespondentinstitusjonen, ogpå anmodning kan fremlegge relevante opplysninger fra kundetiltakene og den løpende oppfølgingen til korrespondentinstitusjonen.
+(1) Ved inngåelse av en avtale om korrespondentforbindelse med en institusjon fra stat utenfor EØS som respondentinstitusjon, skal rapporteringspliktige som nevnt i [§ 4 første ledd bokstav a](lov/2018-06-01-23/§4/ledd/1/bokstav/a) til [c](lov/2018-06-01-23/§4/ledd/1/bokstav/c), [e](lov/2018-06-01-23/§4/ledd/1/bokstav/e), [g](lov/2018-06-01-23/§4/ledd/1/bokstav/g) til [l](lov/2018-06-01-23/§4/ledd/1/bokstav/l) og [n](lov/2018-06-01-23/§4/ledd/1/bokstav/n) til [p](lov/2018-06-01-23/§4/ledd/1/bokstav/p)
+
+1. innhente tilstrekkelige opplysninger om respondentinstitusjonen for å forstå virksomhetens art og omdømme og tilsynets kvalitet. Rapporteringspliktige etter [§ 4 første ledd bokstav p](lov/2018-06-01-23/§4/ledd/1/bokstav/p) skal også fastslå om respondentinstitusjonen er registrert eller har konsesjon.
+2. vurdere respondentinstitusjonens tiltak mot hvitvasking og terrorfinansiering
+3. påse at det innhentes godkjenning fra overordnet før etablering av ny korrespondentforbindelse
+4. dokumentere institusjonenes ansvar
+5. ved oppgjørskonti forsikre seg om at respondentinstitusjonen
+
+   1. har bekreftet identiteten til og fører løpende oppfølging av kunder som har direkte adgang til konti hos korrespondentinstitusjonen, og
+   2. på anmodning kan fremlegge relevante opplysninger fra kundetiltakene og den løpende oppfølgingen til korrespondentinstitusjonen.
 
 (2) Med oppgjørskonto som nevnt i første ledd bokstav e, menes konto eller konto for kryptoeiendeler hos rapporteringspliktig som kan disponeres av en tredjepart som er kunde av respondentinstitusjon.
 
@@ -238,17 +380,39 @@ Ved gjennomføring av transaksjoner til eller fra frittstående adresser skal kr
 
 ### § 22. Kundetiltak utført av tredjepart
 
-(1) For gjennomføring av kundetiltak som nevnt i [§ 12](lov/2018-06-01-23/§12) første til tredje ledd og femte ledd, [§ 13](lov/2018-06-01-23/§13) første til tredje ledd og femte ledd og [§ 14](lov/2018-06-01-23/§14), kan rapporteringspliktige etter skriftlig avtale legge til grunn kundetiltak utført av følgende tredjeparter:bankkredittforetakfinansieringsforetakverdipapirforetakforvaltningsselskap for verdipapirfondforsikringsforetakforetak som driver forsikringsformidling som ikke er gjenforsikringsmeglingverdipapirsentral som er rapporteringspliktigforvalter av alternative investeringsfondstatsautorisert og registrert revisor og godkjent revisjonsselskapstatsautorisert regnskapsfører og regnskapsselskapadvokat, advokatforetak og annen som ervervsmessig eller stadig yter rettshjelpeiendomsmegler og eiendomsmeglingsforetakEr en tredjepart som nevnt i bokstav a til m fra annen stat, må denne være underlagt regler om kundetiltak, oppbevaring og tilsyn som svarer til reglene i denne lov.
+(1) For gjennomføring av kundetiltak som nevnt i [§ 12](lov/2018-06-01-23/§12) første til tredje ledd og femte ledd, [§ 13](lov/2018-06-01-23/§13) første til tredje ledd og femte ledd og [§ 14](lov/2018-06-01-23/§14), kan rapporteringspliktige etter skriftlig avtale legge til grunn kundetiltak utført av følgende tredjeparter:
+
+1. bank
+2. kredittforetak
+3. finansieringsforetak
+4. verdipapirforetak
+5. forvaltningsselskap for verdipapirfond
+6. forsikringsforetak
+7. foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling
+8. verdipapirsentral som er rapporteringspliktig
+9. forvalter av alternative investeringsfond
+10. statsautorisert og registrert revisor og godkjent revisjonsselskap
+11. statsautorisert regnskapsfører og regnskapsselskap
+12. advokat, advokatforetak og annen som ervervsmessig eller stadig yter rettshjelp
+13. eiendomsmegler og eiendomsmeglingsforetak
+
+Er en tredjepart som nevnt i bokstav a til m fra annen stat, må denne være underlagt regler om kundetiltak, oppbevaring og tilsyn som svarer til reglene i denne lov.
 
 (2) Adgang til å legge til grunn kundetiltak utført av en tredjepart medfører ikke unntak fra den rapporteringspliktiges plikt til å registrere og lagre opplysninger og dokumenter etter [§ 30](lov/2018-06-01-23/§30) eller ansvar for at kundetiltak gjennomføres i samsvar med bestemmelser i eller i medhold av loven her.
 
 (3) Rapporteringspliktige skal i avtalen forsikre seg om at tredjeparten overholder tilsvarende krav som følger av loven her.
 
-(4) Rapporteringspliktige skalumiddelbart innhente opplysninger tredjeparten har innhentet i samsvar med [§§ 12](lov/2018-06-01-23/§12) til [14](lov/2018-06-01-23/§14), ogi avtalen forsikre seg om at tredjeparten uten opphold utleverer opplysninger og kopier av dokumenter brukt for å identifisere og bekrefte kundens, reelle rettighetshaveres og andres identitet.
+(4) Rapporteringspliktige skal
+
+1. umiddelbart innhente opplysninger tredjeparten har innhentet i samsvar med [§§ 12](lov/2018-06-01-23/§12) til [14](lov/2018-06-01-23/§14), og
+2. i avtalen forsikre seg om at tredjeparten uten opphold utleverer opplysninger og kopier av dokumenter brukt for å identifisere og bekrefte kundens, reelle rettighetshaveres og andres identitet.
 
 (5) Utlevering av opplysninger og dokumenter fra en tredjepart i samsvar med denne paragrafen medfører ikke brudd på lovbestemt taushetsplikt når kunden informeres om at opplysningene og dokumentene utleveres.
 
-(6) Rapporteringspliktige som er del av konsern, kan gis forhåndsgodkjenning av tilsynsmyndigheten til å legge til grunn kundetiltak utført av andre rapporteringspliktige i konsernet dersomkonsernet anvender felles retningslinjer og rutiner for kundetiltak, lagring og registrering av opplysninger og dokumenter og andre tiltak mot hvitvasking og terrorfinansiering i samsvar med bestemmelser i eller i medhold av loven her, ogdet føres tilsyn på konsernnivå.
+(6) Rapporteringspliktige som er del av konsern, kan gis forhåndsgodkjenning av tilsynsmyndigheten til å legge til grunn kundetiltak utført av andre rapporteringspliktige i konsernet dersom
+
+1. konsernet anvender felles retningslinjer og rutiner for kundetiltak, lagring og registrering av opplysninger og dokumenter og andre tiltak mot hvitvasking og terrorfinansiering i samsvar med bestemmelser i eller i medhold av loven her, og
+2. det føres tilsyn på konsernnivå.
 
 (7) Departementet kan i forskrift gi regler om unntak fra første ledd annet punktum. Departementet kan i forskrift gi regler om at andre rapporteringspliktige kan opptre som tredjepart.
 
@@ -284,7 +448,13 @@ Ved gjennomføring av transaksjoner til eller fra frittstående adresser skal kr
 
 (1) Dersom rapporteringspliktige avdekker forhold som kan indikere at midler har tilknytning til hvitvasking eller terrorfinansiering, skal det foretas nærmere undersøkelser.
 
-(2) Nærmere undersøkelser skal alltid gjennomføres dersom det avdekkes forhold som avviker fra den rapporteringspliktiges kjennskap til kunden, kundeforholdets formål og tilsiktede art, eller en transaksjonsynes å mangle et legitimt formåler usedvanlig stor eller komplekser uvanlig ut fra kundens kjente forretningsmessige eller personlige mønster av transaksjonerforetas til eller fra person i et land eller område som ikke har tilfredsstillende tiltak mot hvitvasking og terrorfinansieringpå annen måte har uvanlig karakter
+(2) Nærmere undersøkelser skal alltid gjennomføres dersom det avdekkes forhold som avviker fra den rapporteringspliktiges kjennskap til kunden, kundeforholdets formål og tilsiktede art, eller en transaksjon
+
+1. synes å mangle et legitimt formål
+2. er usedvanlig stor eller kompleks
+3. er uvanlig ut fra kundens kjente forretningsmessige eller personlige mønster av transaksjoner
+4. foretas til eller fra person i et land eller område som ikke har tilfredsstillende tiltak mot hvitvasking og terrorfinansiering
+5. på annen måte har uvanlig karakter
 
 ### § 26. Rapporteringsplikt. Opplysningsplikt. Ansvarsfrihet
 
@@ -316,7 +486,12 @@ Ved gjennomføring av transaksjoner til eller fra frittstående adresser skal kr
 
 (4) Første ledd er ikke til hinder for utveksling av opplysninger etter [§ 31](lov/2018-06-01-23/§31) annet ledd.
 
-(5) Første ledd er ikke til hinder for utveksling av opplysninger mellom rapporteringspliktige som nevnt i [§ 4](lov/2018-06-01-23/§4) annet ledd bokstav a til c, som utøver sin virksomhet innenfor samme juridiske person eller nettverk. Det samme gjelder for utveksling av opplysninger tilrapporteringspliktige omfattet av [direktiv (EU) 2015/849 artikkel 2](eu/32015l0849/a2) nr. 1 [punkt](lov/2018-06-01-23/kap3) 3 bokstav a eller b, ograpporteringspliktige i stat utenfor EØS som pålegger tilsvarende krav som fastsatt i direktiv (EU) [2015/849](eu/32015l0849).Med nettverk menes en struktur som har felles eierskap, ledelse eller internkontroll med at relevante regelverk overholdes.
+(5) Første ledd er ikke til hinder for utveksling av opplysninger mellom rapporteringspliktige som nevnt i [§ 4](lov/2018-06-01-23/§4) annet ledd bokstav a til c, som utøver sin virksomhet innenfor samme juridiske person eller nettverk. Det samme gjelder for utveksling av opplysninger til
+
+1. rapporteringspliktige omfattet av [direktiv (EU) 2015/849 artikkel 2](eu/32015l0849/a2) nr. 1 [punkt](lov/2018-06-01-23/kap3) 3 bokstav a eller b, og
+2. rapporteringspliktige i stat utenfor EØS som pålegger tilsvarende krav som fastsatt i direktiv (EU) [2015/849](eu/32015l0849).
+
+Med nettverk menes en struktur som har felles eierskap, ledelse eller internkontroll med at relevante regelverk overholdes.
 
 (6) Første ledd er ikke til hinder for utveksling av opplysninger mellom rapporteringspliktige etter tredje og femte ledd om en felles kunde i en transaksjon hvor de aktuelle rapporteringspliktige er involvert, forutsatt at de rapporteringspliktige tilhører samme profesjonskategori og er pålagt forpliktelser med hensyn til taushetsplikt og vern av personopplysninger.
 
@@ -356,7 +531,11 @@ Ved gjennomføring av transaksjoner til eller fra frittstående adresser skal kr
 
 ### § 32. Unntak fra retten til innsyn etter personopplysningsloven
 
-(1) Rapporteringspliktige skal ikke gi innsyn iopplysninger omfattet av [§ 28](lov/2018-06-01-23/§28) første leddopplysninger innhentet gjennom nærmere undersøkelser i samsvar med [§ 25](lov/2018-06-01-23/§25)andre opplysninger som kan vanskeliggjøre overholdelse av denne loven, etterforskning eller lignende undersøkelser
+(1) Rapporteringspliktige skal ikke gi innsyn i
+
+1. opplysninger omfattet av [§ 28](lov/2018-06-01-23/§28) første ledd
+2. opplysninger innhentet gjennom nærmere undersøkelser i samsvar med [§ 25](lov/2018-06-01-23/§25)
+3. andre opplysninger som kan vanskeliggjøre overholdelse av denne loven, etterforskning eller lignende undersøkelser
 
 (2) Departementet kan i forskrift gi nærmere regler om unntakene fra retten til innsyn etter personopplysningsloven etter første ledd. I forskriften kan det gis unntak fra reglene i første ledd.
 
@@ -380,7 +559,11 @@ Rapporteringspliktige skal før etablering av et kundeforhold eller gjennomføri
 
 (1) Rapporteringspliktige skal gjennom internkontroll i virksomheten sørge for at loven her overholdes.
 
-(2) Dersom en risikovurdering av virksomhetens omfang og art tilsier det, skal rapporteringspliktigeutnevne etterlevelsesansvarliggjennomføre skikkethetsvurderinger av ansatteopprette en uavhengig kontroll med at virksomhetens interne rutiner overholdes1
+(2) Dersom en risikovurdering av virksomhetens omfang og art tilsier det, skal rapporteringspliktige
+
+1. utnevne etterlevelsesansvarlig
+2. gjennomføre skikkethetsvurderinger av ansatte
+3. opprette en uavhengig kontroll med at virksomhetens interne rutiner overholdes1
 
 1 Inkurie: Teksten er vedtatt uten avsluttende punktum.
 
@@ -412,7 +595,11 @@ Rapporteringspliktige skal før etablering av et kundeforhold eller gjennomføri
 
 (3) Dersom lovgivningen i tredjelandet ikke tillater at bestemmelser gitt i eller i medhold av denne lov følges, skal rapporteringspliktige iverksette ytterligere tiltak for å avdekke og forebygge hvitvasking og terrorfinansiering og underrette tilsynsmyndigheten om tiltakene.
 
-(4) Dersom tiltak etter tredje ledd ikke er tilstrekkelige, kan tilsynsmyndigheten vedta at rapporteringspliktigeikke etablerer kundeforholdavslutter kundeforholdikke gjennomfører transaksjoner
+(4) Dersom tiltak etter tredje ledd ikke er tilstrekkelige, kan tilsynsmyndigheten vedta at rapporteringspliktige
+
+1. ikke etablerer kundeforhold
+2. avslutter kundeforhold
+3. ikke gjennomfører transaksjoner
 
 (5) Departementet kan i forskrift gi nærmere regler om tiltak etter tredje ledd.
 
@@ -448,7 +635,19 @@ Forvaltere av utenlandske truster eller lignende juridiske arrangementer har pli
 
 (1) Tilsynsmyndighetene skal føre tilsyn med at rapporteringspliktige overholder bestemmelser gitt i eller i medhold av loven.
 
-(2) Tilsynsmyndighetene erFinanstilsynet for rapporteringspliktige etter [§ 4](lov/2018-06-01-23/§4) første ledd bokstav a til c, e til o og annet ledd bokstav a, b, c nr. 1 og d til fAdvokattilsynet for rapporteringspliktige etter [§ 4 annet ledd bokstav c nr. 2](lov/2018-06-01-23/§4/ledd/2/bokstav/c/nummer/2) til [5](lov/2018-06-01-23/§4/ledd/2/bokstav/c/nummer/5)Lotteritilsynet for rapporteringspliktige etter [§ 4](lov/2018-06-01-23/§4) annet ledd bokstav gtilsynsmyndighet for rapporteringspliktige etter [§ 4 annet ledd bokstav h](lov/2018-06-01-23/§4/ledd/2/bokstav/h) og [i](lov/2018-06-01-23/§4/ledd/2/bokstav/i), som fastsatt av departementet i forskrift. Forskriften kan inneholde nærmere regler om gjennomføring av tilsyn, blant annetopplysningsplikt og utlevering av dokumenter uavhengig av taushetsplikt, herunder om periodisk innlevering av opplysninger og krav til elektronisk rapportering i bestemte formatstedlige tilsyn hos rapporteringspliktige og tilhørende undersøkelse av dokumenter, lokaler, regnskap, protokoller og ethvert annet informasjonsbehandlingssystem til bruk for rapporteringspliktiges etterlevelse av [hvitvaskingsloven](lov/2018-06-01-23) med forskriftertilsynsmyndighetens behandling av opplysninger, herunder taushetsplikt, og samarbeid med andre myndigheter, herunder deling av informasjonbehandling av klager over vedtak fattet av tilsynsmyndighetenføring av et register over rapporteringspliktige under tilsyn og innsyn i registeret, herunder registreringspliktbetaling av gebyr til dekning av tilsynsmyndighetens utgifter.
+(2) Tilsynsmyndighetene er
+
+1. Finanstilsynet for rapporteringspliktige etter [§ 4](lov/2018-06-01-23/§4) første ledd bokstav a til c, e til o og annet ledd bokstav a, b, c nr. 1 og d til f
+2. Advokattilsynet for rapporteringspliktige etter [§ 4 annet ledd bokstav c nr. 2](lov/2018-06-01-23/§4/ledd/2/bokstav/c/nummer/2) til [5](lov/2018-06-01-23/§4/ledd/2/bokstav/c/nummer/5)
+3. Lotteritilsynet for rapporteringspliktige etter [§ 4](lov/2018-06-01-23/§4) annet ledd bokstav g
+4. tilsynsmyndighet for rapporteringspliktige etter [§ 4 annet ledd bokstav h](lov/2018-06-01-23/§4/ledd/2/bokstav/h) og [i](lov/2018-06-01-23/§4/ledd/2/bokstav/i), som fastsatt av departementet i forskrift. Forskriften kan inneholde nærmere regler om gjennomføring av tilsyn, blant annet
+
+   1. opplysningsplikt og utlevering av dokumenter uavhengig av taushetsplikt, herunder om periodisk innlevering av opplysninger og krav til elektronisk rapportering i bestemte format
+   2. stedlige tilsyn hos rapporteringspliktige og tilhørende undersøkelse av dokumenter, lokaler, regnskap, protokoller og ethvert annet informasjonsbehandlingssystem til bruk for rapporteringspliktiges etterlevelse av [hvitvaskingsloven](lov/2018-06-01-23) med forskrifter
+   3. tilsynsmyndighetens behandling av opplysninger, herunder taushetsplikt, og samarbeid med andre myndigheter, herunder deling av informasjon
+   4. behandling av klager over vedtak fattet av tilsynsmyndigheten
+   5. føring av et register over rapporteringspliktige under tilsyn og innsyn i registeret, herunder registreringsplikt
+   6. betaling av gebyr til dekning av tilsynsmyndighetens utgifter.
 
 (3) Regler om Finanstilsynets og Advokattilsynets gjennomføring av tilsyn følger av [finanstilsynsloven](lov/1956-12-07-1) og [advokatloven](lov/2022-05-12-28).
 
@@ -508,7 +707,18 @@ Dersom tilsynsmyndigheten får mistanke om at det foreligger forhold med tilknyt
 
 ### § 50. Vurderingsmomenter for forbud mot å ha ledelsesfunksjon og vedtak om overtredelsesgebyr
 
-Ved vurderingen av om det skal nedlegges forbud mot å ha ledelsesfunksjon etter [§ 48](lov/2018-06-01-23/§48) eller ilegges overtredelsesgebyr etter [§ 49](lov/2018-06-01-23/§49), skal det blant annet tas hensyn tilovertredelsens grovhet og varighetovertrederens grad av skyldovertrederens økonomiske evneden rapporteringspliktiges risikovurderinger etter [§ 7](lov/2018-06-01-23/§7) og rutiner etter [§ 8](lov/2018-06-01-23/§8)fordeler som er oppnådd eller kunne ha vært oppnådd ved overtredelsenom tredjeparter er påført tapgraden av samarbeid med myndigheteneeventuelle tidligere overtredelser av hvitvaskingsloven eller forskrifter med hjemmel i lovenDe samme momentene skal hensyntas ved utmålingen av ovetredelsesgebyr.1
+Ved vurderingen av om det skal nedlegges forbud mot å ha ledelsesfunksjon etter [§ 48](lov/2018-06-01-23/§48) eller ilegges overtredelsesgebyr etter [§ 49](lov/2018-06-01-23/§49), skal det blant annet tas hensyn til
+
+1. overtredelsens grovhet og varighet
+2. overtrederens grad av skyld
+3. overtrederens økonomiske evne
+4. den rapporteringspliktiges risikovurderinger etter [§ 7](lov/2018-06-01-23/§7) og rutiner etter [§ 8](lov/2018-06-01-23/§8)
+5. fordeler som er oppnådd eller kunne ha vært oppnådd ved overtredelsen
+6. om tredjeparter er påført tap
+7. graden av samarbeid med myndighetene
+8. eventuelle tidligere overtredelser av hvitvaskingsloven eller forskrifter med hjemmel i loven
+
+De samme momentene skal hensyntas ved utmålingen av ovetredelsesgebyr.1
 
 1 Inkurie: Skal vel være «overtredelsesgebyr».
 

@@ -40,11 +40,19 @@ Forskriften gjelder ikke for Svalbard.
 
 Husbanken kan gi tilskudd til kommuner som sannsynliggjør at prosjektet bidrar til flere egnede kommunalt disponerte utleieboliger og en mer formålstjenlig boligmasse.
 
-Husbanken kan gi tilskudd til selskaper og andre som har til formål å leie ut boliger til vanskeligstilte. Vilkårene for slik tildeling er at eiereninngår en avtale med kommunen eller et statlig helseforetak om at kommunen eller helseforetaket skal ha eksklusiv rett til å tildele boligene til sine boligsøkere i minst 30 årtinglyser en klausul på eiendommen om at boligene kun kan leies ut til vanskeligstilte på boligmarkedet og om tildelingsretten nevnt i bokstav ainngår en samarbeidsavtale med kommunen eller et statlig helseforetak som regulerer det løpende samarbeidet og forvaltningen av boligene.
+Husbanken kan gi tilskudd til selskaper og andre som har til formål å leie ut boliger til vanskeligstilte. Vilkårene for slik tildeling er at eieren
+
+1. inngår en avtale med kommunen eller et statlig helseforetak om at kommunen eller helseforetaket skal ha eksklusiv rett til å tildele boligene til sine boligsøkere i minst 30 år
+2. tinglyser en klausul på eiendommen om at boligene kun kan leies ut til vanskeligstilte på boligmarkedet og om tildelingsretten nevnt i bokstav a
+3. inngår en samarbeidsavtale med kommunen eller et statlig helseforetak som regulerer det løpende samarbeidet og forvaltningen av boligene.
 
 ## § 3. Hva det kan gis tilskudd til
 
-Tilskudd kan gis tilå oppføre boligerå kjøpe boliger, inkludert eventuelle kostnader til å utbedre boligene slik at de blir egnet til formåletå bygge om andre bygg til boliger, herunder eventuelle kostnader til kjøp av slike bygg.
+Tilskudd kan gis til
+
+1. å oppføre boliger
+2. å kjøpe boliger, inkludert eventuelle kostnader til å utbedre boligene slik at de blir egnet til formålet
+3. å bygge om andre bygg til boliger, herunder eventuelle kostnader til kjøp av slike bygg.
 
 Det skal ikke gis tilskudd til vedlikehold eller rehabilitering ut over det som følger av første ledd.
 
@@ -62,27 +70,59 @@ Andre tilskuddsmottakere enn kommuner skal stille første prioritets pant i eien
 
 ## § 5. Krav til søknaden
 
-En søknad om tilskudd skal inneholde opplysninger omsøkerens navn, adresse, organisasjonsnummer og hvem som er kontaktpersonbetegnelsen på eiendommenmålgruppen for prosjektet, for eksempel bostedsløse, økonomisk vanskeligstilte, enslige mindreårige flyktninger, personer med nedsatt funksjonsevne eller personer med problemer med den psykiske helsen eller rusantall boenheter, størrelsen på boenhetene og samlet bruksarealsummen av kostnadene i prosjektet.
+En søknad om tilskudd skal inneholde opplysninger om
+
+1. søkerens navn, adresse, organisasjonsnummer og hvem som er kontaktperson
+2. betegnelsen på eiendommen
+3. målgruppen for prosjektet, for eksempel bostedsløse, økonomisk vanskeligstilte, enslige mindreårige flyktninger, personer med nedsatt funksjonsevne eller personer med problemer med den psykiske helsen eller rus
+4. antall boenheter, størrelsen på boenhetene og samlet bruksareal
+5. summen av kostnadene i prosjektet.
 
 ## § 6. Krav til dokumentasjonen som skal følge søknaden
 
-Til en søknad om tilskudd til oppføring av bolig skal det vedleggesen beskrivelse av tiltaket med tegninger og situasjonskartet kostnadsoverslag eller et pristilbudtakst over tomt og eventuell eksisterende bygningsmasse.
+Til en søknad om tilskudd til oppføring av bolig skal det vedlegges
 
-Til en søknad om tilskudd til kjøp og eventuell utbedring skal det vedleggesen kjøpekontrakt eller et tilbud om kjøpen e-takst. Dersom det ikke er mulig å innhente e-takst, kan det i stedet vedlegges en verditakst eller en annen verdivurdering. Både e-takst, verditakst og andre verdivurderinger må være utarbeidet av en nøytral takstmann eller eiendomsmegler, og bygge både på statistiske data og befaringen beskrivelse av nødvendige utbedringer med kostnadsoverslag.
+1. en beskrivelse av tiltaket med tegninger og situasjonskart
+2. et kostnadsoverslag eller et pristilbud
+3. takst over tomt og eventuell eksisterende bygningsmasse.
 
-Til en søknad om tilskudd til ombygging av andre bygg til boliger, herunder eventuelle kostnader til kjøp av slike bygg, skal det vedleggesen beskrivelse av tiltaket med tegninger av bygget før og etter arbeidetet kostnadsoverslag eller et tilbud om kjøpen e-takst dersom prosjektet også inneholder kjøp av bygg. Dersom det ikke er mulig å innhente e-takst, kan det i stedet vedlegges en verditakst eller en annen verdivurdering. Både e-takst, verditakst og andre verdivurderinger må være utarbeidet av en nøytral takstmann eller eiendomsmegler, og bygge både på statistiske data og befaring.
+Til en søknad om tilskudd til kjøp og eventuell utbedring skal det vedlegges
 
-Andre søkere enn kommuner skal i tillegg vedleggetildelingsavtale med kommunen eller et statlig helseforetak, jf. [§ 2](forskrift/2017-12-18-2235/§2) annet ledd bokstav asamarbeidsavtale med kommunen eller et statlig helseforetak, jf. [§ 2](forskrift/2017-12-18-2235/§2) annet ledd bokstav cforhåndstakst (ved oppføring eller ombygging)driftsbudsjettfirmaattest som viser at selskapet har til formål å eie, forvalte og leie ut boliger til vanskeligstilte.
+1. en kjøpekontrakt eller et tilbud om kjøp
+2. en e-takst. Dersom det ikke er mulig å innhente e-takst, kan det i stedet vedlegges en verditakst eller en annen verdivurdering. Både e-takst, verditakst og andre verdivurderinger må være utarbeidet av en nøytral takstmann eller eiendomsmegler, og bygge både på statistiske data og befaring
+3. en beskrivelse av nødvendige utbedringer med kostnadsoverslag.
+
+Til en søknad om tilskudd til ombygging av andre bygg til boliger, herunder eventuelle kostnader til kjøp av slike bygg, skal det vedlegges
+
+1. en beskrivelse av tiltaket med tegninger av bygget før og etter arbeidet
+2. et kostnadsoverslag eller et tilbud om kjøp
+3. en e-takst dersom prosjektet også inneholder kjøp av bygg. Dersom det ikke er mulig å innhente e-takst, kan det i stedet vedlegges en verditakst eller en annen verdivurdering. Både e-takst, verditakst og andre verdivurderinger må være utarbeidet av en nøytral takstmann eller eiendomsmegler, og bygge både på statistiske data og befaring.
+
+Andre søkere enn kommuner skal i tillegg vedlegge
+
+1. tildelingsavtale med kommunen eller et statlig helseforetak, jf. [§ 2](forskrift/2017-12-18-2235/§2) annet ledd bokstav a
+2. samarbeidsavtale med kommunen eller et statlig helseforetak, jf. [§ 2](forskrift/2017-12-18-2235/§2) annet ledd bokstav c
+3. forhåndstakst (ved oppføring eller ombygging)
+4. driftsbudsjett
+5. firmaattest som viser at selskapet har til formål å eie, forvalte og leie ut boliger til vanskeligstilte.
 
 ## § 7. Husbankens rett til å kreve ytterligere opplysninger
 
 Husbanken kan be om ytterligere opplysninger som er nødvendig for å kunne avgjøre søknaden, og innhente opplysninger fra andre myndigheter.
 
-Før eller etter at tilskuddet er utbetalt, kan Husbanken kontrollere at vilkårene i tilskuddsvedtaket er oppfylt gjennom åbe om nødvendige opplysninger og dokumentasjoninnhente opplysninger fra andre myndigheterbesiktige tiltaket og om nødvendig be mottakeren medvirke til besiktigelsen.
+Før eller etter at tilskuddet er utbetalt, kan Husbanken kontrollere at vilkårene i tilskuddsvedtaket er oppfylt gjennom å
+
+1. be om nødvendige opplysninger og dokumentasjon
+2. innhente opplysninger fra andre myndigheter
+3. besiktige tiltaket og om nødvendig be mottakeren medvirke til besiktigelsen.
 
 ## § 8. Hvordan søknadene blir vurdert
 
-Husbanken avgjør i et enkeltvedtak søknadene ut frahver kommunes behov der de kommunene som har størst boligsosiale utfordringer, skal prioritereshvor godt tiltaket er egnet til å nå formålet med tilskuddsordningenprosjektøkonomien og prosjektgjennomføringen.
+Husbanken avgjør i et enkeltvedtak søknadene ut fra
+
+1. hver kommunes behov der de kommunene som har størst boligsosiale utfordringer, skal prioriteres
+2. hvor godt tiltaket er egnet til å nå formålet med tilskuddsordningen
+3. prosjektøkonomien og prosjektgjennomføringen.
 
 Prosjekter som gir boliger i gode bomiljøer for vanskeligstilte husstander med barn og unge, skal prioriteres.
 

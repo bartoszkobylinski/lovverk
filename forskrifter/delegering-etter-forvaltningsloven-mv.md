@@ -15,7 +15,7 @@ xml_hash: "4357af68545fb4a213c2e8da27b5ac7b703ebaa9418b0a5f02d0cfcd9a340a50"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,9 @@ eu_basis: []
 
 ## I
 
-– – -.Kongens myndighet etter [lov 19. juni 1969 nr. 53](lov/1969-06-19-53) om Norsk Lovtidend [§ 1](lov/1969-06-19-53/§1) annet ledds annet punktum, [§ 1](lov/1969-06-19-53/§1) tredje ledd, [§ 2](lov/1969-06-19-53/§2) og [§ 4](lov/1969-06-19-53/§4) delegeres til Statsministeren.1
+– – -.
+
+1. Kongens myndighet etter [lov 19. juni 1969 nr. 53](lov/1969-06-19-53) om Norsk Lovtidend [§ 1](lov/1969-06-19-53/§1) annet ledds annet punktum, [§ 1](lov/1969-06-19-53/§1) tredje ledd, [§ 2](lov/1969-06-19-53/§2) og [§ 4](lov/1969-06-19-53/§4) delegeres til Statsministeren.1
 
 – – -.
 

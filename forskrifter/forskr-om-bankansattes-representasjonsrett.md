@@ -26,7 +26,15 @@ eu_basis: []
 
 ### § 1. Definisjoner.
 
-I disse forskrifter menes med:*ansatt,* person som arbeider i banken i hovedstilling eller som deltidsansatt;*hovedstilling*, arbeidsforhold (herunder ikke ferievikariat og heimearbeid) hvor det skal arbeides gjennomsnittlig minst 50 % av heltidsansattes arbeidstid i den enkelte bank/avdelingskontor med eget styre.*deltidsansatt,* person som arbeider gjennomsnittlig mindre enn 50 prosent av arbeidstiden pr. uke for heltidsansatte som utfører arbeid av samme art.Når det i denne forskriften kreves et bestemt antall ansatte, telles hver deltidsansatt som en halv.*antall ansatte*, antall ansatt i banken eller avdelingen ved utløpet av siste regnskapsår.*lokal fagforening*, fagforening i banken eller avdeling av fagforening i banken som er bundet av tariffavtale med banken eller med arbeidsgiverorganisasjon som banken er medlem av.
+I disse forskrifter menes med:
+
+1. *ansatt,* person som arbeider i banken i hovedstilling eller som deltidsansatt;
+2. *hovedstilling*, arbeidsforhold (herunder ikke ferievikariat og heimearbeid) hvor det skal arbeides gjennomsnittlig minst 50 % av heltidsansattes arbeidstid i den enkelte bank/avdelingskontor med eget styre.
+3. *deltidsansatt,* person som arbeider gjennomsnittlig mindre enn 50 prosent av arbeidstiden pr. uke for heltidsansatte som utfører arbeid av samme art.
+
+   Når det i denne forskriften kreves et bestemt antall ansatte, telles hver deltidsansatt som en halv.
+4. *antall ansatte*, antall ansatt i banken eller avdelingen ved utløpet av siste regnskapsår.
+5. *lokal fagforening*, fagforening i banken eller avdeling av fagforening i banken som er bundet av tariffavtale med banken eller med arbeidsgiverorganisasjon som banken er medlem av.
 
 > Endret ved [forskrift 6 juli 2001 nr. 770](forskrift/2001-07-06-770).
 

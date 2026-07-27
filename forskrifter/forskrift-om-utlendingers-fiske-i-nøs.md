@@ -15,7 +15,7 @@ xml_hash: "902e98c5cd58afac32f8a7181923e37da322aa7e50b890fb9b86e49155bf817f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,7 +78,10 @@ For vedtak i medhold av [§§ 4](forskrift/1977-05-13-2/§4) og [6](forskrift/19
 
 Fartøy som nevnt i [§ 1](forskrift/1977-05-13-2/§1) skal sende de meldingene som fremgår av bokstavene a-j i denne bestemmelsen.
 
-Slike meldinger skal sendes Fiskeridirektoratet på en av følgende måter:pr. telefaks til Fiskeridirektoratet, ellerelektronisk via flaggstatens kontrollsenter (FMC). Meldingene skal være autentisert på en måte som er godkjent av Fiskeridirektoratet og være nummerert fortløpende gjennom året.
+Slike meldinger skal sendes Fiskeridirektoratet på en av følgende måter:
+
+1. pr. telefaks til Fiskeridirektoratet, eller
+2. elektronisk via flaggstatens kontrollsenter (FMC). Meldingene skal være autentisert på en måte som er godkjent av Fiskeridirektoratet og være nummerert fortløpende gjennom året.
 
 Dersom elektronisk rapportering skal benyttes plikter fartøyet før fiske kan starte å forvisse seg om at rapporteringssystemet fungerer tilfredsstillende.
 
@@ -142,7 +145,11 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Påkrevd ved elektroniske meldinger.2 Valgfritt for fartøy underlagt satellittsporing.3 Påkrevd for fartøy som driver konsumfiske med trål i Norges økonomiske sone sør for 62° N med minste maskevidde 120 mm dersom meldingen benyttes som forhåndsmelding mellom 6 og 4 timer før grensepassering.
+1 Påkrevd ved elektroniske meldinger.
+
+2 Valgfritt for fartøy underlagt satellittsporing.
+
+3 Påkrevd for fartøy som driver konsumfiske med trål i Norges økonomiske sone sør for 62° N med minste maskevidde 120 mm dersom meldingen benyttes som forhåndsmelding mellom 6 og 4 timer før grensepassering.
 
 *c) Omlastingsmelding*
 
@@ -169,7 +176,11 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Påkrevd ved elektroniske meldinger.2 Etter hva som er relevant.3 Valgfritt for meldinger sendt av mottaksfartøyet etter omlastingen.
+1 Påkrevd ved elektroniske meldinger.
+
+2 Etter hva som er relevant.
+
+3 Valgfritt for meldinger sendt av mottaksfartøyet etter omlastingen.
 
 *d) Melding om havneanløp*
 
@@ -195,7 +206,9 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Påkrevd ved elektroniske meldinger.2 Valgfritt for fartøy underlagt satellittsporing.
+1 Påkrevd ved elektroniske meldinger.
+
+2 Valgfritt for fartøy underlagt satellittsporing.
 
 *e) Melding om avslutning av fiske*
 
@@ -222,7 +235,13 @@ Meldingen skal inneholde følgende opplysninger:
 | Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
 | Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
-1 Påkrevd ved elektroniske meldinger.2 Valgfritt for fartøy underlagt satellittsporing.3 Påkrevd for fartøy som driver konsumfiske med trål i Norges økonomiske sone sør for 62° N med minste maskevidde 120 mm dersom meldingen benyttes som forhåndsmelding mellom 6 og 4 timer før grensepassering.4 Påkrevd dersom det skal landes i havn som ikke er norsk eller russisk.
+1 Påkrevd ved elektroniske meldinger.
+
+2 Valgfritt for fartøy underlagt satellittsporing.
+
+3 Påkrevd for fartøy som driver konsumfiske med trål i Norges økonomiske sone sør for 62° N med minste maskevidde 120 mm dersom meldingen benyttes som forhåndsmelding mellom 6 og 4 timer før grensepassering.
+
+4 Påkrevd dersom det skal landes i havn som ikke er norsk eller russisk.
 
 *f) Melding om fremstilling for kontroll*
 
@@ -304,7 +323,11 @@ Forhåndsmelding etter første til tredje ledd kan kanselleres. Eventuell ny mel
 
 Fartøy som har fisk om bord fanget i NAFOs reguleringsområde som skal lande eller på annen måte bruke norsk havn, skal sende forhåndsmelding minst tre virkedager før ankomst havn. Tilsvarende gjelder dersom fartøyet er gitt tillatelse til å omlaste i havn eller i territorialfarvannet.
 
-Fartøy som har tunfisk eller tunfisklignende arter fanget i ICCATs konvensjonsområde om bord, skal sende ICCAT-forhåndsmelding, jf. vedlegg 5, for disse artene. Fartøy som:fører flagget til en NEAFC part og har fersk makrellstørje tatt som bifangst i fiske etter andre arter om bord, skal sende ICCAT-forhåndsmelding minst 4 timer før ankomst havn;fører flagget til en NEAFC part og har fryst makrellstørje tatt som bifangst i fiske etter andre arter om bord skal sende forhåndsmelding minst 24 timer før ankomst havn;har makrellstørje tatt i direktefiske, eller som har andre tunfisk- eller tunfisklignende arter om bord, skal sende ICCAT-forhåndsmelding minst 3 virkedager før ankomst havn uavhengig av flaggstat.
+Fartøy som har tunfisk eller tunfisklignende arter fanget i ICCATs konvensjonsområde om bord, skal sende ICCAT-forhåndsmelding, jf. vedlegg 5, for disse artene. Fartøy som:
+
+1. fører flagget til en NEAFC part og har fersk makrellstørje tatt som bifangst i fiske etter andre arter om bord, skal sende ICCAT-forhåndsmelding minst 4 timer før ankomst havn;
+2. fører flagget til en NEAFC part og har fryst makrellstørje tatt som bifangst i fiske etter andre arter om bord skal sende forhåndsmelding minst 24 timer før ankomst havn;
+3. har makrellstørje tatt i direktefiske, eller som har andre tunfisk- eller tunfisklignende arter om bord, skal sende ICCAT-forhåndsmelding minst 3 virkedager før ankomst havn uavhengig av flaggstat.
 
 Dersom fartøy har tunfisk eller tunfisklignende arter om bord som har vært omlastet på havet, skal fartøyet også sende ICCAT-omlastingsmelding minst 48 timer før ankomst havn.
 
@@ -439,7 +462,22 @@ Som over, men TF erstattes med TT og radiokallesignalet til fartøyet fangst er 
 
 *4. Melding om havneanløp*
 
-Melding om havneanløp skal, dersom en ikke benytter elektronisk rapportering, utformes slik:TM = PORRC = JXHBNA = OTTAR BIRTINGXR = S458 eller M-101-AKLA = N6130LO = E00400CS = NORPO = ÅLESUNDPD = 20040322PT = 1000KG = TORSK 65000, HYSE 14000OB = TORSK 100000, HYSE 14000DA = 20040321TI = 0830
+Melding om havneanløp skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
+
+- TM = POR
+- RC = JXHB
+- NA = OTTAR BIRTING
+- XR = S458 eller M-101-AK
+- LA = N6130
+- LO = E00400
+- CS = NOR
+- PO = ÅLESUND
+- PD = 20040322
+- PT = 1000
+- KG = TORSK 65000, HYSE 14000
+- OB = TORSK 100000, HYSE 14000
+- DA = 20040321
+- TI = 0830
 
 Eks. 2: (Når fangst ikke skal leveres)
 

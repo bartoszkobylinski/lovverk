@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1. Overtredelsesgebyr mot enkeltpersoner
 
-Ved utmålingen av overtredelsesgebyr etter [§ 50](lov/2019-06-21-70/§50) første og andre ledd mot enkeltpersoner skal det særlig legges vekt påhvor alvorlig overtredelsen er, herunder overtredelsens omfang og virkning, og om det har inntrådt eller har oppstått fare for skade på liv, helse, miljø eller materielle verdiergraden av utvist skyldom vedkommende har hatt eller kunne oppnå noen fordel ved overtredelsenom det foreligger gjentakelsevedkommende sin økonomiske evneallmennpreventive hensyn.
+Ved utmålingen av overtredelsesgebyr etter [§ 50](lov/2019-06-21-70/§50) første og andre ledd mot enkeltpersoner skal det særlig legges vekt på
+
+1. hvor alvorlig overtredelsen er, herunder overtredelsens omfang og virkning, og om det har inntrådt eller har oppstått fare for skade på liv, helse, miljø eller materielle verdier
+2. graden av utvist skyld
+3. om vedkommende har hatt eller kunne oppnå noen fordel ved overtredelsen
+4. om det foreligger gjentakelse
+5. vedkommende sin økonomiske evne
+6. allmennpreventive hensyn.
 
 Overtredelsesgebyret for enkeltpersoner som opptrer utenfor næringsvirksomhet skal maksimalt utgjøre 0,2 ganger folketrygdens grunnbeløp (G). Dette gjelder for overtredelse av havne- og farvannsloven [§ 7](lov/2019-06-21-70/§7), [§ 8](lov/2019-06-21-70/§8), [§ 9](lov/2019-06-21-70/§9), [§ 10](lov/2019-06-21-70/§10) første og tredje ledd, [§ 11](lov/2019-06-21-70/§11) andre ledd, [§ 14](lov/2019-06-21-70/§14) første ledd første punktum og [§ 17](lov/2019-06-21-70/§17).
 

@@ -28,4 +28,7 @@ Endringene i [lov 13. mai 1988 nr. 26](lov/1988-05-13-26) om inkassovirksomhet o
 
 ## 2. Overgangsregler til endringene i inkassoloven
 
-For endringene i [lov 13. mai 1988 nr. 26](lov/1988-05-13-26) om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven) ved [lov 11. juni 1993 nr. 83](lov/1993-06-11-83) om endringer i rettergangslovgivningen m m avsnitt I nr. 39 gjelder følgende overgangsregler:For inkassatorer som 1. januar 1994 driver inkassovirksomhet i medhold av inkassobevilling, trer [inkassoloven § 4](lov/1988-05-13-26/§4) første ledd nytt annet og tredje punktum først i kraft 1. januar 1995.[Inkassoloven § 19](lov/1988-05-13-26/§19) nytt annet ledd gjelder bare ved inndriving av krav som forfaller etter 1. januar 1994.
+For endringene i [lov 13. mai 1988 nr. 26](lov/1988-05-13-26) om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven) ved [lov 11. juni 1993 nr. 83](lov/1993-06-11-83) om endringer i rettergangslovgivningen m m avsnitt I nr. 39 gjelder følgende overgangsregler:
+
+1. For inkassatorer som 1. januar 1994 driver inkassovirksomhet i medhold av inkassobevilling, trer [inkassoloven § 4](lov/1988-05-13-26/§4) første ledd nytt annet og tredje punktum først i kraft 1. januar 1995.
+2. [Inkassoloven § 19](lov/1988-05-13-26/§19) nytt annet ledd gjelder bare ved inndriving av krav som forfaller etter 1. januar 1994.

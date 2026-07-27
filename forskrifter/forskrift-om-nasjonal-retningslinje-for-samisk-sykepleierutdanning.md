@@ -46,7 +46,15 @@ Utdanningen skal være praksisnær, profesjonsrettet og forskningsbasert, og ska
 
 ### § 3. Kompetanseområder
 
-Utdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1475/kap2) til [8](forskrift/2025-07-04-1475/kap8) under følgende kompetanseområder:Helse, sykdom og sykepleieHelsemessige og sosiale konsekvenser av fornorskningspolitikkenSykepleierprofesjonen, etikk, kommunikasjon og samhandlingVitenskapsteori og forskningsmetodeFaglig ledelse, kvalitet og pasientsikkerhetTjenesteutvikling og innovasjonTeknologi og digital kompetanse.
+Utdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1475/kap2) til [8](forskrift/2025-07-04-1475/kap8) under følgende kompetanseområder:
+
+- Helse, sykdom og sykepleie
+- Helsemessige og sosiale konsekvenser av fornorskningspolitikken
+- Sykepleierprofesjonen, etikk, kommunikasjon og samhandling
+- Vitenskapsteori og forskningsmetode
+- Faglig ledelse, kvalitet og pasientsikkerhet
+- Tjenesteutvikling og innovasjon
+- Teknologi og digital kompetanse.
 
 Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-07-04-1475/§4) k, [§ 5](forskrift/2025-07-04-1475/§5) a, b, d og f, [§ 6](forskrift/2025-07-04-1475/§6) e og f, [§ 7](forskrift/2025-07-04-1475/§7) b, [§ 10](forskrift/2025-07-04-1475/§10) f, [§ 11](forskrift/2025-07-04-1475/§11) a, c og d, [§ 14](forskrift/2025-07-04-1475/§14) a, [§ 16](forskrift/2025-07-04-1475/§16) d, [§ 17](forskrift/2025-07-04-1475/§17) a–c, [§ 18](forskrift/2025-07-04-1475/§18) c–e, [§ 19](forskrift/2025-07-04-1475/§19) a, [§ 21](forskrift/2025-07-04-1475/§21) a, [§ 22](forskrift/2025-07-04-1475/§22) a og [§ 24](forskrift/2025-07-04-1475/§24) a er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
 
@@ -54,99 +62,208 @@ Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-07-04-1475/§4) k, [§ 5](f
 
 ### § 4. Helse, sykdom og sykepleie – kunnskap
 
-Kandidatenhar bred kunnskap om menneskets grunnleggende behov, inkludert hvordan kultur, språk og tradisjoner preger menneskerhar bred kunnskap om sykepleierens helsefremmende, forebyggende, behandlende, rehabiliterende og lindrende funksjon, inkludert kunnskap om palliasjonhar bred kunnskap om menneskekroppens anatomi og fysiologihar bred kunnskap om de vanligste symptomer, sykdommer, sykdomsforløp og behandlinghar bred kunnskap om smittestoffer, smitterisiko og infeksjonsforebyggende tiltakhar bred kunnskap om aldringsprosessen og eldres særegne behovhar bred kunnskap om psykisk helse og de vanligste psykiske lidelsene og sykdommenehar bred kunnskap om farmakologi relatert til sykepleierens funksjons- og ansvarsområdehar kunnskap om biokjemi, mikrobiologi, antibiotikabruk og resistensutviklinghar kunnskap om rus- og avhengighethar kunnskap om barn og unges normale utvikling, særegne behov, rettigheter og rett til medvirkning, herunder kunnskap om samiske oppdragelsesverdier og samiske barns rettigheter som urfolksbarnhar kunnskap om hvilken rolle den samiske storfamilien har i sykdoms- og livsprosesserkjenner til hvordan sykdom og behandling kan påvirke menneskers seksualitet.
+Kandidaten
+
+1. har bred kunnskap om menneskets grunnleggende behov, inkludert hvordan kultur, språk og tradisjoner preger mennesker
+2. har bred kunnskap om sykepleierens helsefremmende, forebyggende, behandlende, rehabiliterende og lindrende funksjon, inkludert kunnskap om palliasjon
+3. har bred kunnskap om menneskekroppens anatomi og fysiologi
+4. har bred kunnskap om de vanligste symptomer, sykdommer, sykdomsforløp og behandling
+5. har bred kunnskap om smittestoffer, smitterisiko og infeksjonsforebyggende tiltak
+6. har bred kunnskap om aldringsprosessen og eldres særegne behov
+7. har bred kunnskap om psykisk helse og de vanligste psykiske lidelsene og sykdommene
+8. har bred kunnskap om farmakologi relatert til sykepleierens funksjons- og ansvarsområde
+9. har kunnskap om biokjemi, mikrobiologi, antibiotikabruk og resistensutvikling
+10. har kunnskap om rus- og avhengighet
+11. har kunnskap om barn og unges normale utvikling, særegne behov, rettigheter og rett til medvirkning, herunder kunnskap om samiske oppdragelsesverdier og samiske barns rettigheter som urfolksbarn
+12. har kunnskap om hvilken rolle den samiske storfamilien har i sykdoms- og livsprosesser
+13. kjenner til hvordan sykdom og behandling kan påvirke menneskers seksualitet.
 
 ### § 5. Helse, sykdom og sykepleie – ferdigheter
 
-Kandidatenkan anvende kulturkompetanse og annen faglig kunnskap om helse og sykdom for å systematisk observere, vurdere, beslutte, iverksette og dokumentere hensiktsmessige sykepleietiltak, samt evaluere effekten av disse og justere ved behovkan anvende faglig kunnskap for å initiere og bidra til tverrfaglig, tverrprofesjonell og tverrsektoriell samhandling for å sikre et koordinert, helhetlig og sammenhengende behandlingsforløp på tvers av virksomheter og nivåerkan anvende kulturkompetanse, kulturforståelse og ulike kommunikasjonsformer i vurdering, planlegging, gjennomføring og evaluering av sykepleiekan anvende kunnskap om helsefremmende, forebyggende og arbeidsinkluderende tiltakkan anvende kunnskap for å iverksette tiltak ved subakutte og akutte hendelser, samt utøve hjerte- og lungeredning med hjertestarterkan anvende kunnskap om barn og unges behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheter, herunder samiske barns rettigheter som urfolksbarnkan anvende kunnskap for å iverksette tiltak som fremmer god livskvalitet og fysisk og psykisk helse, herunder veilede pasienter, brukere og pårørende om sammenhenger mellom sykdom og seksualitetkan anvende sentrale samiske begreper om smerte, sykdom, helbredelse og død i møte med pasienter, brukere og pårørende i. kan vurdere situasjoner som kan utvikle seg truende for pasienter, brukere og ansatte, og kan iverksette tiltak for å forebygge slike hendelserkan beherske relevant medisinsk teknisk utstyrkan beherske smittevernstiltak for å forhindre spredning av uønskede mikroberkan reflektere over egen og andres kultur i pasient- og brukermøter, og hvordan en kan trygge situasjonen med bakgrunn i deres språklige og kulturelle tilhørighet.
+Kandidaten
+
+1. kan anvende kulturkompetanse og annen faglig kunnskap om helse og sykdom for å systematisk observere, vurdere, beslutte, iverksette og dokumentere hensiktsmessige sykepleietiltak, samt evaluere effekten av disse og justere ved behov
+2. kan anvende faglig kunnskap for å initiere og bidra til tverrfaglig, tverrprofesjonell og tverrsektoriell samhandling for å sikre et koordinert, helhetlig og sammenhengende behandlingsforløp på tvers av virksomheter og nivåer
+3. kan anvende kulturkompetanse, kulturforståelse og ulike kommunikasjonsformer i vurdering, planlegging, gjennomføring og evaluering av sykepleie
+4. kan anvende kunnskap om helsefremmende, forebyggende og arbeidsinkluderende tiltak
+5. kan anvende kunnskap for å iverksette tiltak ved subakutte og akutte hendelser, samt utøve hjerte- og lungeredning med hjertestarter
+6. kan anvende kunnskap om barn og unges behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheter, herunder samiske barns rettigheter som urfolksbarn
+7. kan anvende kunnskap for å iverksette tiltak som fremmer god livskvalitet og fysisk og psykisk helse, herunder veilede pasienter, brukere og pårørende om sammenhenger mellom sykdom og seksualitet
+8. kan anvende sentrale samiske begreper om smerte, sykdom, helbredelse og død i møte med pasienter, brukere og pårørende i. kan vurdere situasjoner som kan utvikle seg truende for pasienter, brukere og ansatte, og kan iverksette tiltak for å forebygge slike hendelser
+9. kan beherske relevant medisinsk teknisk utstyr
+10. kan beherske smittevernstiltak for å forhindre spredning av uønskede mikrober
+11. kan reflektere over egen og andres kultur i pasient- og brukermøter, og hvordan en kan trygge situasjonen med bakgrunn i deres språklige og kulturelle tilhørighet.
 
 ### § 6. Helse, sykdom og sykepleie – generell kompetanse
 
-Kandidatenkan planlegge og gjennomføre sykepleie til akutt og kritisk syke, kronisk syke og mennesker med sammensatte og komplekse behov i primær- og spesialisthelsetjenesten. Videre skal kandidaten kunne gjennomføre sykepleie til mennesker i palliativ fase, og gjennomføre stell av døde i samråd med pårørendekan planlegge og gjennomføre forsvarlig legemiddelhåndtering, herunder legemiddelregning, og kvalitetssikre den enkelte pasients og brukers legemiddelbrukkan planlegge og gjennomføre sykepleie til pre- og postoperative pasienterkan planlegge og gjennomføre selvstendige vurderinger av sykepleiebehovet til mennesker med urfolks- og minoritetsbakgrunnhar innsikt i sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin tjenesteutøvelse både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkluderinghar innsikt i sosiale, sosioøkonomiske og helsemessige problemer inkludert omsorgssvikt, vold, selvmordsproblematikk, overgrep, rusproblematikk og kan identifisere og følge opp mennesker med slike utfordringer, samt kunne sette inn nødvendige tiltak og/eller behandling, eller henvise videre. Videre kan kandidaten samtale med barn og unge om temaer som omsorgssvikt, vold og overgrepkjenner til tiltak for å bevare liv og helse ved storulykker og i krise- og katastrofesituasjoner.
+Kandidaten
+
+1. kan planlegge og gjennomføre sykepleie til akutt og kritisk syke, kronisk syke og mennesker med sammensatte og komplekse behov i primær- og spesialisthelsetjenesten. Videre skal kandidaten kunne gjennomføre sykepleie til mennesker i palliativ fase, og gjennomføre stell av døde i samråd med pårørende
+2. kan planlegge og gjennomføre forsvarlig legemiddelhåndtering, herunder legemiddelregning, og kvalitetssikre den enkelte pasients og brukers legemiddelbruk
+3. kan planlegge og gjennomføre sykepleie til pre- og postoperative pasienter
+4. kan planlegge og gjennomføre selvstendige vurderinger av sykepleiebehovet til mennesker med urfolks- og minoritetsbakgrunn
+5. har innsikt i sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin tjenesteutøvelse både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering
+6. har innsikt i sosiale, sosioøkonomiske og helsemessige problemer inkludert omsorgssvikt, vold, selvmordsproblematikk, overgrep, rusproblematikk og kan identifisere og følge opp mennesker med slike utfordringer, samt kunne sette inn nødvendige tiltak og/eller behandling, eller henvise videre. Videre kan kandidaten samtale med barn og unge om temaer som omsorgssvikt, vold og overgrep
+7. kjenner til tiltak for å bevare liv og helse ved storulykker og i krise- og katastrofesituasjoner.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet helsemessige og sosiale konsekvenser av fornorskningspolitikken
 
 ### § 7. Helsemessige og sosiale konsekvenser av fornorskningspolitikken – kunnskap
 
-Kandidatenhar bred kunnskap om betydningen av tap av morsmål, identitet og påførte stigmahar bred kunnskap om samenes status som urfolk og samenes rettigheter, spesielt innenfor målsettingen om å gi likeverdige helse- og sosialtjenester, herunder pasienters rett til å benytte morsmål i pleie og behandlinghar bred kunnskap om fornorskningspolitikkens konsekvenser for samisk kultur, tradisjoner, samfunn og livsgrunnlag, og hvilke mestringsstrategier som benyttes kollektivt og individuelt i dekoloniseringsprosessene for å motvirke disse.
+Kandidaten
+
+1. har bred kunnskap om betydningen av tap av morsmål, identitet og påførte stigma
+2. har bred kunnskap om samenes status som urfolk og samenes rettigheter, spesielt innenfor målsettingen om å gi likeverdige helse- og sosialtjenester, herunder pasienters rett til å benytte morsmål i pleie og behandling
+3. har bred kunnskap om fornorskningspolitikkens konsekvenser for samisk kultur, tradisjoner, samfunn og livsgrunnlag, og hvilke mestringsstrategier som benyttes kollektivt og individuelt i dekoloniseringsprosessene for å motvirke disse.
 
 ### § 8. Helsemessige- og sosiale konsekvenser av fornorskningspolitikken – ferdigheter
 
-Kandidatenkan anvende kunnskap om fornorskningen og kollektive traumer. Videre skal kandidaten kjenne igjen strategier som tas i bruk på individ-, gruppe- og institusjonsnivå for å motvirke dettekan planlegge og gjennomføre pleie og behandling til samiske pasienter og brukere, i tråd med kunnskap om den samiske befolkningens historie.
+Kandidaten
+
+1. kan anvende kunnskap om fornorskningen og kollektive traumer. Videre skal kandidaten kjenne igjen strategier som tas i bruk på individ-, gruppe- og institusjonsnivå for å motvirke dette
+2. kan planlegge og gjennomføre pleie og behandling til samiske pasienter og brukere, i tråd med kunnskap om den samiske befolkningens historie.
 
 ### § 9. Helsemessige og sosiale konsekvenser av fornorskningspolitikken – generell kompetanse
 
-Kandidatenhar innsikt i hvordan koloniseringsprosesser påvirker mennesker over tid, og anerkjenne hvorfor dekoloniseringsprosesser er nødvendigkan formidle og diskutere tematikk som berører urfolkshelse.
+Kandidaten
+
+1. har innsikt i hvordan koloniseringsprosesser påvirker mennesker over tid, og anerkjenne hvorfor dekoloniseringsprosesser er nødvendig
+2. kan formidle og diskutere tematikk som berører urfolkshelse.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet sykepleierprofesjonen, etikk, kommunikasjon og samhandling
 
 ### § 10. Sykepleierprofesjonen, etikk, kommunikasjon og samhandling – kunnskap
 
-Kandidatenhar bred kunnskap om personsentrert sykepleie, herunder kartlegging av pasientens og brukerens ressurserhar bred kunnskap om etiske teorier, sentrale verdier og begreper i sykepleiehar bred kunnskap om kommunikasjon og samiske kommunikasjonsformerhar kunnskap om sykepleiens historiske utvikling og dens betydning for profesjons- og tjenesteutøvelsehar kunnskap om relevante undervisnings- og veiledningsmetoder og om fortellingenes betydning i samiske tradisjonerhar kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnethar kunnskap om hvordan historie, kultur, språk og åndelig praksis kan påvirke pasienters sykdoms-, helse- og virkelighetsforståelse.
+Kandidaten
+
+1. har bred kunnskap om personsentrert sykepleie, herunder kartlegging av pasientens og brukerens ressurser
+2. har bred kunnskap om etiske teorier, sentrale verdier og begreper i sykepleie
+3. har bred kunnskap om kommunikasjon og samiske kommunikasjonsformer
+4. har kunnskap om sykepleiens historiske utvikling og dens betydning for profesjons- og tjenesteutøvelse
+5. har kunnskap om relevante undervisnings- og veiledningsmetoder og om fortellingenes betydning i samiske tradisjoner
+6. har kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnet
+7. har kunnskap om hvordan historie, kultur, språk og åndelig praksis kan påvirke pasienters sykdoms-, helse- og virkelighetsforståelse.
 
 ### § 11. Sykepleierprofesjonen, etikk, kommunikasjon og samhandling – ferdigheter
 
-Kandidatenkan anvende kunnskap om lærings-, mestrings- og endringsprosesser i veiledning og undervisning av pasienter, brukere, pårørende, storfamilien, studenter og relevant personellkan anvende kunnskap om kartlegging, utredning, behandling og oppfølging for å understøtte pasientens og brukerens beslutningsgrunnlagkan reflektere over og håndtere etiske problemstillinger, samt justere egen praksis i sin tjenesteutøvelsekan reflektere over og anvende tillitsskapende relasjons-, kommunikasjons- og veiledningskompetanse i møte med pasienter, brukere, pårørende og storfamilien.
+Kandidaten
+
+1. kan anvende kunnskap om lærings-, mestrings- og endringsprosesser i veiledning og undervisning av pasienter, brukere, pårørende, storfamilien, studenter og relevant personell
+2. kan anvende kunnskap om kartlegging, utredning, behandling og oppfølging for å understøtte pasientens og brukerens beslutningsgrunnlag
+3. kan reflektere over og håndtere etiske problemstillinger, samt justere egen praksis i sin tjenesteutøvelse
+4. kan reflektere over og anvende tillitsskapende relasjons-, kommunikasjons- og veiledningskompetanse i møte med pasienter, brukere, pårørende og storfamilien.
 
 ### § 12. Sykepleierprofesjonen, etikk, kommunikasjon og samhandling – generell kompetanse
 
-Kandidatenhar innsikt i sykepleiens yrkesetiske retningslinjerkan planlegge og gjennomføre kommunikasjon og samhandling med pasienter, brukere, pårørende og storfamilien basert på respekt, medbestemmelse og integritetkan planlegge og gjennomføre målrettede samarbeidsprosesser med pasienter, brukere, pårørende, storfamilien og andre tjenesteutøvere, og kan forebygge og løse konflikterkjenner til globale helseutfordringer og sykepleieutøvelse i et internasjonalt perspektiv, herunder urfolkshelsekjenner til tradisjonelle helbredelses- og anvendelsesmetoder, og kan bidra til tilrettelegging for pasienter og brukere.
+Kandidaten
+
+1. har innsikt i sykepleiens yrkesetiske retningslinjer
+2. kan planlegge og gjennomføre kommunikasjon og samhandling med pasienter, brukere, pårørende og storfamilien basert på respekt, medbestemmelse og integritet
+3. kan planlegge og gjennomføre målrettede samarbeidsprosesser med pasienter, brukere, pårørende, storfamilien og andre tjenesteutøvere, og kan forebygge og løse konflikter
+4. kjenner til globale helseutfordringer og sykepleieutøvelse i et internasjonalt perspektiv, herunder urfolkshelse
+5. kjenner til tradisjonelle helbredelses- og anvendelsesmetoder, og kan bidra til tilrettelegging for pasienter og brukere.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet vitenskapsteori og forskningsmetode
 
 ### § 13. Vitenskapsteori og forskningsmetode – kunnskap
 
-Kandidatenhar kunnskap om vitenskapsteori og forskningsmetode, herunder urfolksmetodologihar kunnskap om hvordan man kan oppdatere sin fagkunnskapkjenner til historisk forskningspraksis og dens konsekvenser for urfolk.
+Kandidaten
+
+1. har kunnskap om vitenskapsteori og forskningsmetode, herunder urfolksmetodologi
+2. har kunnskap om hvordan man kan oppdatere sin fagkunnskap
+3. kjenner til historisk forskningspraksis og dens konsekvenser for urfolk.
 
 ### § 14. Vitenskapsteori og forskningsmetode – ferdigheter
 
-Kandidatenkan anvende faglig og samisk erfaringskunnskap og relevante resultater fra forsknings- og utviklingsarbeid i teoretiske og praktiske problemstillinger, og kan treffe begrunnede valg i tråd med kunnskapsbasert praksis.
+Kandidaten
+
+1. kan anvende faglig og samisk erfaringskunnskap og relevante resultater fra forsknings- og utviklingsarbeid i teoretiske og praktiske problemstillinger, og kan treffe begrunnede valg i tråd med kunnskapsbasert praksis.
 
 ### § 15. Vitenskapsteori og forskningsmetode – generell kompetanse
 
-Kandidatenkan planlegge og gjennomføre varierte arbeidsoppgaver og relevante prosjekter som strekker seg over tid, alene og som deltaker i en gruppe, og i tråd med etiske krav og retningslinjerkan formidle sentralt fagstoff som teorier, problemstillinger og løsninger både skriftlig og muntligkan formidle synspunkter og dele erfaringer med andre innenfor fagområdet og gjennom dette bidra til utvikling av god praksis, særlig i urfolkssammenheng.
+Kandidaten
+
+1. kan planlegge og gjennomføre varierte arbeidsoppgaver og relevante prosjekter som strekker seg over tid, alene og som deltaker i en gruppe, og i tråd med etiske krav og retningslinjer
+2. kan formidle sentralt fagstoff som teorier, problemstillinger og løsninger både skriftlig og muntlig
+3. kan formidle synspunkter og dele erfaringer med andre innenfor fagområdet og gjennom dette bidra til utvikling av god praksis, særlig i urfolkssammenheng.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet faglig ledelse, kvalitet og pasientsikkerhet
 
 ### § 16. Faglig ledelse, kvalitet og pasientsikkerhet – kunnskap
 
-Kandidatenhar kunnskap om hvordan god språk- og kulturkompetanse på institusjons-, gruppe- og individnivå kan virke helsefremmende, styrke kvaliteten på tjenestene og bidra til pasientsikkerhethar kunnskap om ledelse og organisering av helsetjenesten, herunder de etablerte helsetjenestene for den samiske befolkningenhar kunnskap om risikofaktorer, kvalitetsindikatorer og pasientsikkerhet innenfor og mellom nivåene i helsetjenesten og hvordan sikre gode pasientforløphar kunnskap om helse- og sosialpolitikk, og kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse, herunder kunnskap om bruk av tvangkjenner til risikofaktorer i helsetjenesten og prinsipper og tiltak for å redusere pasientskader.
+Kandidaten
+
+1. har kunnskap om hvordan god språk- og kulturkompetanse på institusjons-, gruppe- og individnivå kan virke helsefremmende, styrke kvaliteten på tjenestene og bidra til pasientsikkerhet
+2. har kunnskap om ledelse og organisering av helsetjenesten, herunder de etablerte helsetjenestene for den samiske befolkningen
+3. har kunnskap om risikofaktorer, kvalitetsindikatorer og pasientsikkerhet innenfor og mellom nivåene i helsetjenesten og hvordan sikre gode pasientforløp
+4. har kunnskap om helse- og sosialpolitikk, og kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse, herunder kunnskap om bruk av tvang
+5. kjenner til risikofaktorer i helsetjenesten og prinsipper og tiltak for å redusere pasientskader.
 
 ### § 17. Faglig ledelse, kvalitet og pasientsikkerhet – ferdigheter
 
-Kandidatenkan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelsekan identifisere og vurdere risikofaktorer knyttet til individ, system og miljø, samt dokumentere og systematisk følge opp dette, herunder iverksette relevante tiltakkan beherske og etterspørre kulturelt og språklig tilpassede kartleggings-, vurderings-, dokumentasjons- og kommunikasjonsverktøy i sykepleieutøvelsen.
+Kandidaten
+
+1. kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse
+2. kan identifisere og vurdere risikofaktorer knyttet til individ, system og miljø, samt dokumentere og systematisk følge opp dette, herunder iverksette relevante tiltak
+3. kan beherske og etterspørre kulturelt og språklig tilpassede kartleggings-, vurderings-, dokumentasjons- og kommunikasjonsverktøy i sykepleieutøvelsen.
 
 ### § 18. Faglig ledelse, kvalitet og pasientsikkerhet – generell kompetanse
 
-Kandidatenhar innsikt i hvordan pasienters og brukeres språklige og kulturelle bakgrunn utfordrer ivaretakelse av kvalitet og pasientsikkerhet, samt kunnskap om bruk av tolkhar innsikt i kvaliteten på sykepleie og de tjenestene pasienter og brukere mottar, og kan justere egen profesjonsutøvelsehar innsikt i kvalitetsindikatorer og standard terminologi i dokumentasjon av sykepleiekan planlegge og gjennomføre målrettede tiltak for å redusere uønskede hendelser og variasjon i helsetjenestenkan planlegge og gjennomføre kvalitetsutviklingsarbeid i samarbeid med pasienter, brukere og pårørende, og kan tilpasse tjenestene i tråd med tilbakemeldingerkan planlegge og gjennomføre tiltak som sikrer trygg overføring av pasienter mellom ulike enheter og nivåer i helsetjenestenkan lede og prioritere oppgaver i sykepleietjenesten.
+Kandidaten
+
+1. har innsikt i hvordan pasienters og brukeres språklige og kulturelle bakgrunn utfordrer ivaretakelse av kvalitet og pasientsikkerhet, samt kunnskap om bruk av tolk
+2. har innsikt i kvaliteten på sykepleie og de tjenestene pasienter og brukere mottar, og kan justere egen profesjonsutøvelse
+3. har innsikt i kvalitetsindikatorer og standard terminologi i dokumentasjon av sykepleie
+4. kan planlegge og gjennomføre målrettede tiltak for å redusere uønskede hendelser og variasjon i helsetjenesten
+5. kan planlegge og gjennomføre kvalitetsutviklingsarbeid i samarbeid med pasienter, brukere og pårørende, og kan tilpasse tjenestene i tråd med tilbakemeldinger
+6. kan planlegge og gjennomføre tiltak som sikrer trygg overføring av pasienter mellom ulike enheter og nivåer i helsetjenesten
+7. kan lede og prioritere oppgaver i sykepleietjenesten.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet tjenesteutvikling og innovasjon
 
 ### § 19. Tjenesteutvikling og innovasjon – kunnskap
 
-Kandidatenkjenner til verktøy og metoder for å drive innovasjonsprosesser, implementering og kontinuerlig forbedringsarbeidhar kunnskap om metoder for brukermedvirkning på individ-, gruppe- og systemnivå.
+Kandidaten
+
+1. kjenner til verktøy og metoder for å drive innovasjonsprosesser, implementering og kontinuerlig forbedringsarbeid
+2. har kunnskap om metoder for brukermedvirkning på individ-, gruppe- og systemnivå.
 
 ### § 20. Tjenesteutvikling og innovasjon – ferdigheter
 
-Kandidatenkan reflektere over eksisterende rutiner og metoder, og kan ta initiativ til dialog om implementering av ny kunnskap og nye arbeidsmetoder tilpasset pasienter og brukerekan reflektere over hvordan nye verktøy og metoder kan tilpasses, utvikles og tas i bruk.
+Kandidaten
+
+1. kan reflektere over eksisterende rutiner og metoder, og kan ta initiativ til dialog om implementering av ny kunnskap og nye arbeidsmetoder tilpasset pasienter og brukere
+2. kan reflektere over hvordan nye verktøy og metoder kan tilpasses, utvikles og tas i bruk.
 
 ### § 21. Tjenesteutvikling og innovasjon – generell kompetanse
 
-Kandidatenkjenner til kvalitetsutfordringer på system- og/eller oppgavenivå som krever innovasjonkan planlegge og gjennomføre tjenesteutvikling i samarbeid med pasienter, brukere, pårørende og storfamilien.
+Kandidaten
+
+1. kjenner til kvalitetsutfordringer på system- og/eller oppgavenivå som krever innovasjon
+2. kan planlegge og gjennomføre tjenesteutvikling i samarbeid med pasienter, brukere, pårørende og storfamilien.
 
 ## Kapittel 8. Læringsutbytte for kompetanseområdet teknologi og digital kompetanse
 
 ### § 22. Teknologi og digital kompetanse – kunnskap
 
-Kandidatenhar kunnskap om teknologi og digitale løsninger i helsetjenestenhar kunnskap om informasjonssikkerhet i sykepleieutøvelsen.
+Kandidaten
+
+1. har kunnskap om teknologi og digitale løsninger i helsetjenesten
+2. har kunnskap om informasjonssikkerhet i sykepleieutøvelsen.
 
 ### § 23. Teknologi og digital kompetanse – ferdigheter
 
-Kandidatenkan reflektere og kritisk vurdere etiske og juridiske utfordringer ved bruk av teknologi og digitale løsningerkan anvende teknologi og digitale løsninger i den hensikt å understøtte pasienters, brukeres og pårørendes ressurser, mestringsmuligheter og medvirkning.
+Kandidaten
+
+1. kan reflektere og kritisk vurdere etiske og juridiske utfordringer ved bruk av teknologi og digitale løsninger
+2. kan anvende teknologi og digitale løsninger i den hensikt å understøtte pasienters, brukeres og pårørendes ressurser, mestringsmuligheter og medvirkning.
 
 ### § 24. Teknologi og digital kompetanse – generell kompetanse
 
-Kandidatenhar innsikt i utvikling og bruk av teknologi og digitale løsninger på individ- og systemnivå, og kan planlegge for likeverdige tjenester i bruk av velferdsteknologihar innsikt i teknologi og digitale løsningers påvirkning på tjenesteutøvelsen.
+Kandidaten
+
+1. har innsikt i utvikling og bruk av teknologi og digitale løsninger på individ- og systemnivå, og kan planlegge for likeverdige tjenester i bruk av velferdsteknologi
+2. har innsikt i teknologi og digitale løsningers påvirkning på tjenesteutøvelsen.
 
 ## Kapittel 9. Studiets oppbygning og praksisstudier
 
@@ -170,7 +287,15 @@ Utdanningsinstitusjonen skal tilby opplæring i veiledning og partene skal samar
 
 Praksisstudienes omfang skal være i tråd med direktiv [2005/36/EF](eu/32005l0036) om godkjenninger av yrkeskvalifikasjoner, med senere endringer herunder direktiv [2013/55/EU](eu/32013l0055). For å sikre kvalitet og kontinuitet skal praksisstudiene ha minimum to perioder av minst syv ukers varighet, hvorav én periode skal være i kommunale helse- og omsorgstjenester og én periode i spesialisthelsetjenesten. De to periodene må inkludere døgnkontinuerlig oppfølging av pasienter og brukere. Det bør legges til rette for at studenten får erfaring med både poliklinisk-, dag- og døgnbehandling i pasientens behandlingskjede i spesialisthelsetjenesten.
 
-Praksisstudiene skal omfatte følgende praksisarenaer:Generell medisin og medisinske spesialiteterGenerell kirurgi og kirurgiske spesialiteterPsykisk helse og psykiatriEldreomsorg og geriatriSvangerskaps- og barselsomsorgBarnesykepleie og pediatrisk sykepleieHjemmesykepleie.
+Praksisstudiene skal omfatte følgende praksisarenaer:
+
+- Generell medisin og medisinske spesialiteter
+- Generell kirurgi og kirurgiske spesialiteter
+- Psykisk helse og psykiatri
+- Eldreomsorg og geriatri
+- Svangerskaps- og barselsomsorg
+- Barnesykepleie og pediatrisk sykepleie
+- Hjemmesykepleie.
 
 Det kan også legges til rette for praksisstudier ved andre relevante praksisarenaer.
 

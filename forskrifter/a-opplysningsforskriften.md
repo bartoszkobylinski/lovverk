@@ -30,7 +30,10 @@ Denne forskrift gjelder for arbeidsgivere som er opplysningspliktig etter [a-opp
 
 ### § 1-2. Identifikasjon av opplysningspliktige
 
-Det skal gis opplysninger omorganisasjonsnummer, fødselsnummer eller D-nummer for den opplysningspliktige ogopplysningspliktiges navn.
+Det skal gis opplysninger om
+
+1. organisasjonsnummer, fødselsnummer eller D-nummer for den opplysningspliktige og
+2. opplysningspliktiges navn.
 
 > Endret ved [forskrift 21 nov 2016 nr. 1346](forskrift/2016-11-21-1346).
 
@@ -40,7 +43,11 @@ Hvis inntektsmottaker i særlige tilfeller ikke har eller kan få fødselsnummer
 
 ### § 1-4. Opplysninger om innsendelsen
 
-Det skal gis opplysninger omet referansenummer for meldingen oghvilken kalendermåned opplysningene gjelder,dato for lønnsutbetaling for arbeidsgiver som leverer opplysninger etter [§ 3-1](forskrift/2014-06-24-857/§3-1) annet ledd.
+Det skal gis opplysninger om
+
+1. et referansenummer for meldingen og
+2. hvilken kalendermåned opplysningene gjelder,
+3. dato for lønnsutbetaling for arbeidsgiver som leverer opplysninger etter [§ 3-1](forskrift/2014-06-24-857/§3-1) annet ledd.
 
 Dersom meldingen er en erstatningsmelding skal det angis referansenummer for den meldingen som erstattes.
 
@@ -86,7 +93,12 @@ Opplysningspliktige som omfattes av avgiftsfritak i [folketrygdloven § 23-2](lo
 
 ### § 4-1. Når tvangsmulkt kan ilegges
 
-Tvangsmulkt kan ilegges når følgende opplysninger ikke er levert innen fristen i [a-opplysningsloven § 4](lov/2012-06-22-43/§4), jf. forskriften [§ 2-1](forskrift/2014-06-24-857/§2-1):organisasjonsnummer, D-nummer eller fødselsnummer for opplysningspliktige,organisasjonsnummer, fødselsnummer eller D-nummer for inntektsmottaker,opplysninger om leveransen etter forskriften [§ 1-4](forskrift/2014-06-24-857/§1-4),opplysninger etter [a-opplysningsloven § 3](lov/2012-06-22-43/§3).
+Tvangsmulkt kan ilegges når følgende opplysninger ikke er levert innen fristen i [a-opplysningsloven § 4](lov/2012-06-22-43/§4), jf. forskriften [§ 2-1](forskrift/2014-06-24-857/§2-1):
+
+1. organisasjonsnummer, D-nummer eller fødselsnummer for opplysningspliktige,
+2. organisasjonsnummer, fødselsnummer eller D-nummer for inntektsmottaker,
+3. opplysninger om leveransen etter forskriften [§ 1-4](forskrift/2014-06-24-857/§1-4),
+4. opplysninger etter [a-opplysningsloven § 3](lov/2012-06-22-43/§3).
 
 Det kan også ilegges tvangsmulkt dersom opplysninger ikke er gitt i den form Skattedirektoratet har bestemt etter [§ 3-1](forskrift/2014-06-24-857/§3-1).
 
@@ -100,7 +112,12 @@ Tvangsmulkt begynner å løpe fra den dag som fastsettes i vedtaket om tvangsmul
 
 ### § 4-3. Når overtredelsesgebyr kan ilegges
 
-Overtredelsesgebyr kan ilegges når følgende opplysninger ikke er levert innen fristen [a-opplysningsloven § 4](lov/2012-06-22-43/§4), jf. forskriften [§ 2-1](forskrift/2014-06-24-857/§2-1):organisasjonsnummer, D-nummer eller fødselsnummer for opplysningspliktige,organisasjonsnummer, fødselsnummer eller D-nummer for inntektsmottaker,opplysninger om leveransen etter forskriften [§ 1-4](forskrift/2014-06-24-857/§1-4),opplysninger etter [a-opplysningsloven § 3](lov/2012-06-22-43/§3).
+Overtredelsesgebyr kan ilegges når følgende opplysninger ikke er levert innen fristen [a-opplysningsloven § 4](lov/2012-06-22-43/§4), jf. forskriften [§ 2-1](forskrift/2014-06-24-857/§2-1):
+
+1. organisasjonsnummer, D-nummer eller fødselsnummer for opplysningspliktige,
+2. organisasjonsnummer, fødselsnummer eller D-nummer for inntektsmottaker,
+3. opplysninger om leveransen etter forskriften [§ 1-4](forskrift/2014-06-24-857/§1-4),
+4. opplysninger etter [a-opplysningsloven § 3](lov/2012-06-22-43/§3).
 
 Det kan også ilegges overtredelsesgebyr dersom opplysninger ikke er levert i den form Skattedirektoratet har bestemt etter forskriften [§ 3-1](forskrift/2014-06-24-857/§3-1).
 

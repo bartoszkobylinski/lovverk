@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Instruksens formål
 
-Formålet med instruksen er å fremme samarbeid mellom Etterretningstjenesten (E) og Politiets sikkerhetstjeneste (PST), heretter samlet benevnt tjenestene, på områder av felles interesse ved åbidra til at tjenestene med deres samlede ressurser og gjennom informasjonsutveksling, samhandling og arbeidsdeling effektivt skal kunne møte aktuelle trusler og sikkerhetsutfordringer,sikre koordinering og samarbeid av bidrag til overordnede myndigheters forebygging og bekjempelse av trusler og utfordringer,bidra til overordnet koordinering og samordning av tjenestenes virksomhet, samtsikre klare ansvarsforhold og rutiner mellom tjenestene.
+Formålet med instruksen er å fremme samarbeid mellom Etterretningstjenesten (E) og Politiets sikkerhetstjeneste (PST), heretter samlet benevnt tjenestene, på områder av felles interesse ved å
+
+1. bidra til at tjenestene med deres samlede ressurser og gjennom informasjonsutveksling, samhandling og arbeidsdeling effektivt skal kunne møte aktuelle trusler og sikkerhetsutfordringer,
+2. sikre koordinering og samarbeid av bidrag til overordnede myndigheters forebygging og bekjempelse av trusler og utfordringer,
+3. bidra til overordnet koordinering og samordning av tjenestenes virksomhet, samt
+4. sikre klare ansvarsforhold og rutiner mellom tjenestene.
 
 > Endret ved vedtak [18 juni 2021 nr. 2046](forskrift/2021-06-18-2046).
 
@@ -40,7 +45,12 @@ Instruksen gjelder ikke for Es støtte til tollvesenet eller til andre politimyn
 
 ## § 3. Prioriterte samarbeidsområder
 
-Prioriterte områder for gjensidig informasjonsutveksling og annet samarbeid i samsvar med instruksen her erterrorisme,spredning av masseødeleggelsesvåpen,fremmed etterretningsvirksomhet ogandre prioriterte forhold som berører viktige norske interesser.
+Prioriterte områder for gjensidig informasjonsutveksling og annet samarbeid i samsvar med instruksen her er
+
+1. terrorisme,
+2. spredning av masseødeleggelsesvåpen,
+3. fremmed etterretningsvirksomhet og
+4. andre prioriterte forhold som berører viktige norske interesser.
 
 > Endret ved vedtak [18 juni 2021 nr. 2046](forskrift/2021-06-18-2046).
 

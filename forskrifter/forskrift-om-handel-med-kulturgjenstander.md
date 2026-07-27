@@ -15,7 +15,7 @@ xml_hash: "ac64ce7399dde3d8ba90f6f80358ca7ed4a4464d7b0ded86a2c2b0c6b4486d72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,25 @@ Formålet med forskriften er å sørge for at kulturgjenstander beskyttes mot ul
 
 ### § 2. Definisjon
 
-I lov 9. juni 1978 nr. 50 om kulturminner [§ 23](lov/1978-06-09-50/§23) og i kapitlene her gjelder følgende kategorier av kulturgjenstander:Materiale, uten hensyn til alder:som har spesiell betydning for Norges kunst, kultur og historiesom har spesiell betydning for virksomheter og hendelser av nasjonal betydningsom vedrører fremstående eller sentrale personers liv. Gjenstander som vedkommende fremstående eller sentrale person selv fører ut av landet medregnes ikke, med mindre utførsel er forbudt etter andre bestemmelser i denne forskriften.Samisk materiale fra før år 1970. For tekst og kart som er trykket på samisk gjelder år 1930. Det skal søkes utførselstillatelse for alt samisk arkivmateriale. Gjenstander som tilhører sin opphavsmann omfattes ikke.Malerier, tegninger, skulpturer, originale grafiske blad, annen billedkunst, kunsthåndverk og prototyper for designprodukt som er eldre enn 50 år. Verk som tilhører sin opphavsmann medregnes ikke.Lyd, foto og filmmateriale fra før år 1950.Motorvogner, luftfartøy, artilleriskyts og skinnegående materiell eller deler og tilbehør av slike fra før år 1950 og båter eller deler av slike eldre enn 50 år.Bygninger av alle slag og deler av slike, kunstneriske eller historiske monumenter, arkivmateriale, brev, manuskripter, signeter, folkekunst og husflidsprodukter, møbler og annet innbo, drakter, håndvåpen, musikkinstrumenter og annet løsøre av kunst-, kultur- eller personalhistorisk interesse fra før år 1900.Etnografisk materiale fra før 1900.Tekst og kart trykt i Norge før år 1850 eller i utlandet før år 1650.Norske mynter eldre enn 1537, samt yngre norske mynter, pengesedler, medaljer og ordener av nasjonal betydning, jf. vedlagte oversikt.Frimerker omfattes ikke av eksportforbudet såfremt de ikke inngår som del i annet materiale som er dekket i disse forskriftene.Resultater av arkeologiske utgravninger eller av arkeologiske oppdagelser, både lovlige og ulovlige. Automatisk fredete kulturminner i medhold av [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner [§ 4](lov/1978-06-09-50/§4), jf. [§ 12](lov/1978-06-09-50/§12) om eiendomsretten til løse kulturminner.Til materiale nevnt i [§ 2](forskrift/2007-01-01-1/§2) bokstavene a-j medregnes ikke personlige effekter fra etter år 1800 eller kulturgjenstander som nevnt i [§ 2](forskrift/2007-01-01-1/§2) bokstav e), som skal brukes under opphold i utlandet og som bringes tilbake til Norge innen ett år etter utreise eller skal repareres og restaureres i utlandet og bringes tilbake til Norge innen tre år etter utreise. Med personlige effekter menes gjenstander som for eksempel smykker, bunader og lignende.Til materiale nevnt i [§ 2](forskrift/2007-01-01-1/§2) bokstavene a-j medregnes ikke gjenstander som er importert til Norge etter år 1950 dersom det kan dokumenteres at det i sin tid var lovlig eksportert fra opprinnelseslandet.
+I lov 9. juni 1978 nr. 50 om kulturminner [§ 23](lov/1978-06-09-50/§23) og i kapitlene her gjelder følgende kategorier av kulturgjenstander:
+
+1. Materiale, uten hensyn til alder:
+
+   - som har spesiell betydning for Norges kunst, kultur og historie
+   - som har spesiell betydning for virksomheter og hendelser av nasjonal betydning
+   - som vedrører fremstående eller sentrale personers liv. Gjenstander som vedkommende fremstående eller sentrale person selv fører ut av landet medregnes ikke, med mindre utførsel er forbudt etter andre bestemmelser i denne forskriften.
+2. Samisk materiale fra før år 1970. For tekst og kart som er trykket på samisk gjelder år 1930. Det skal søkes utførselstillatelse for alt samisk arkivmateriale. Gjenstander som tilhører sin opphavsmann omfattes ikke.
+3. Malerier, tegninger, skulpturer, originale grafiske blad, annen billedkunst, kunsthåndverk og prototyper for designprodukt som er eldre enn 50 år. Verk som tilhører sin opphavsmann medregnes ikke.
+4. Lyd, foto og filmmateriale fra før år 1950.
+5. Motorvogner, luftfartøy, artilleriskyts og skinnegående materiell eller deler og tilbehør av slike fra før år 1950 og båter eller deler av slike eldre enn 50 år.
+6. Bygninger av alle slag og deler av slike, kunstneriske eller historiske monumenter, arkivmateriale, brev, manuskripter, signeter, folkekunst og husflidsprodukter, møbler og annet innbo, drakter, håndvåpen, musikkinstrumenter og annet løsøre av kunst-, kultur- eller personalhistorisk interesse fra før år 1900.
+7. Etnografisk materiale fra før 1900.
+8. Tekst og kart trykt i Norge før år 1850 eller i utlandet før år 1650.
+9. Norske mynter eldre enn 1537, samt yngre norske mynter, pengesedler, medaljer og ordener av nasjonal betydning, jf. vedlagte oversikt.
+10. Frimerker omfattes ikke av eksportforbudet såfremt de ikke inngår som del i annet materiale som er dekket i disse forskriftene.
+11. Resultater av arkeologiske utgravninger eller av arkeologiske oppdagelser, både lovlige og ulovlige. Automatisk fredete kulturminner i medhold av [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner [§ 4](lov/1978-06-09-50/§4), jf. [§ 12](lov/1978-06-09-50/§12) om eiendomsretten til løse kulturminner.
+12. Til materiale nevnt i [§ 2](forskrift/2007-01-01-1/§2) bokstavene a-j medregnes ikke personlige effekter fra etter år 1800 eller kulturgjenstander som nevnt i [§ 2](forskrift/2007-01-01-1/§2) bokstav e), som skal brukes under opphold i utlandet og som bringes tilbake til Norge innen ett år etter utreise eller skal repareres og restaureres i utlandet og bringes tilbake til Norge innen tre år etter utreise. Med personlige effekter menes gjenstander som for eksempel smykker, bunader og lignende.
+13. Til materiale nevnt i [§ 2](forskrift/2007-01-01-1/§2) bokstavene a-j medregnes ikke gjenstander som er importert til Norge etter år 1950 dersom det kan dokumenteres at det i sin tid var lovlig eksportert fra opprinnelseslandet.
 
 > Endret ved [forskrifter 27 mars 2009 nr. 355](forskrift/2009-03-27-355) (i kraft 1 april 2009), [25 feb 2015 nr. 164](forskrift/2015-02-25-164).
 
@@ -66,7 +84,20 @@ Samtykke til utførsel av offentlige arkiver kan gis av Riksarkivaren dersom utf
 
 ### § 6. Vedtaksinstitusjoner
 
-Følgende institusjoner er vedtaksinstitusjoner:Forsvarshistorisk museum er vedtaksinstitusjon for saker om militære kulturgjenstander, våpen og luftfartøy og kjøretøyer.Kulturhistorisk Museum, Universitetet i Oslo er vedtaksinstitusjon for saker om arkeologisk og etnografisk materiale, gjenstander fra tiden før reformasjonen, mynter og sedler.Nasjonalbiblioteket er vedtaksinstitusjon for saker om trykte tekster og kart, manuskripter, lyd- og filmarkiv.Nasjonalmuseet for kunst, arkitektur og design er vedtaksinstitusjon for saker om malerier, tegninger, skulpturer, originale grafiske blad og annen billedkunst, kunsthåndverk, design, møbler og annet innbo.Norsk Folkemuseum er vedtaksinstitusjon for saker om folkekunst, bondeantikviteter, husflidprodukter, drakter, bygninger og annet materiale knyttet til arbeidsliv og levemåte etter reformasjonen.Norsk Maritimt Museum er vedtaksinstitusjon for saker om maritimt materiale.Norsk Teknisk Museum er vedtaksinstitusjon for saker om transportmidler og annet teknisk materiale.Preus museum er vedtaksinstitusjon for saker om fotografi, fotografiapparat o.a. fotoutstyr.Riksantikvaren er vedtaksinstitusjon for saker om båter.Riksarkivaren er vedtaksinstitusjon for saker om arkivmateriale, segl og signeter.Ringve Musikkmuseum er vedtaksinstitusjon for saker om musikkinstrumenter og annet musikkhistorisk materiale.RiddoDuottarMuseat er vedtaksinstitusjon for saker om samisk kunst og annet samisk kulturmateriale.
+Følgende institusjoner er vedtaksinstitusjoner:
+
+1. Forsvarshistorisk museum er vedtaksinstitusjon for saker om militære kulturgjenstander, våpen og luftfartøy og kjøretøyer.
+2. Kulturhistorisk Museum, Universitetet i Oslo er vedtaksinstitusjon for saker om arkeologisk og etnografisk materiale, gjenstander fra tiden før reformasjonen, mynter og sedler.
+3. Nasjonalbiblioteket er vedtaksinstitusjon for saker om trykte tekster og kart, manuskripter, lyd- og filmarkiv.
+4. Nasjonalmuseet for kunst, arkitektur og design er vedtaksinstitusjon for saker om malerier, tegninger, skulpturer, originale grafiske blad og annen billedkunst, kunsthåndverk, design, møbler og annet innbo.
+5. Norsk Folkemuseum er vedtaksinstitusjon for saker om folkekunst, bondeantikviteter, husflidprodukter, drakter, bygninger og annet materiale knyttet til arbeidsliv og levemåte etter reformasjonen.
+6. Norsk Maritimt Museum er vedtaksinstitusjon for saker om maritimt materiale.
+7. Norsk Teknisk Museum er vedtaksinstitusjon for saker om transportmidler og annet teknisk materiale.
+8. Preus museum er vedtaksinstitusjon for saker om fotografi, fotografiapparat o.a. fotoutstyr.
+9. Riksantikvaren er vedtaksinstitusjon for saker om båter.
+10. Riksarkivaren er vedtaksinstitusjon for saker om arkivmateriale, segl og signeter.
+11. Ringve Musikkmuseum er vedtaksinstitusjon for saker om musikkinstrumenter og annet musikkhistorisk materiale.
+12. RiddoDuottarMuseat er vedtaksinstitusjon for saker om samisk kunst og annet samisk kulturmateriale.
 
 Vedtaksinstitusjonene skal samrå seg med hverandre eller rådspørre regionale faginstitusjoner hvis det kan være tvil om myndighetsområde eller behov for supplerende kompetanse.
 
@@ -92,7 +123,19 @@ Det er i henhold til [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminne
 
 ### § 9
 
-I lov 9. juni 1978 nr. 50 om kulturminner § 23a og i dette kapittel i forskriften skal med:«kulturgjenstander» forstås de kategoriene av kulturgjenstander som følger av utførselslandenes lovgivning om definisjon og vern av kulturgjenstander«som er ulovlig utført fra en stat» forstås:enhver utførsel fra en stats territorium i strid med denne stats lovgivning om vern av kulturgjenstandergjenstander som ikke ledsages av et gyldig sertifikat, som i henhold til nasjonal lovgivning er påkrevet, der det gis tillatelse til at den aktuelle kulturgjenstanden eksporteres ellerenhver manglende tilbakelevering ved utløpet av fristen for en midlertidig lovlig utførsel, eller enhver krenkelse av et av de øvrige vilkår for denne midlertidige utførselen.«en avtale hvor også Norge er part om tilbakelevering eller om tiltak mot illegal import, eksport og handel med kulturgjenstander» menes:en stat som inngår i Det europeiske økonomiske samarbeidsområdet (EØS)en stat som er part i Unidroit-konvensjonen av 24. juni 1995 nr. 1en stat som er part i UNESCO-konvensjonen av 1970 om tiltak for å forby og hindre ulovlig import og eksport av kulturgjenstander og ulovlig overføring av eiendomsrett til kulturgjenstander.
+I lov 9. juni 1978 nr. 50 om kulturminner § 23a og i dette kapittel i forskriften skal med:
+
+1. «kulturgjenstander» forstås de kategoriene av kulturgjenstander som følger av utførselslandenes lovgivning om definisjon og vern av kulturgjenstander
+2. «som er ulovlig utført fra en stat» forstås:
+
+   - enhver utførsel fra en stats territorium i strid med denne stats lovgivning om vern av kulturgjenstander
+   - gjenstander som ikke ledsages av et gyldig sertifikat, som i henhold til nasjonal lovgivning er påkrevet, der det gis tillatelse til at den aktuelle kulturgjenstanden eksporteres eller
+   - enhver manglende tilbakelevering ved utløpet av fristen for en midlertidig lovlig utførsel, eller enhver krenkelse av et av de øvrige vilkår for denne midlertidige utførselen.
+3. «en avtale hvor også Norge er part om tilbakelevering eller om tiltak mot illegal import, eksport og handel med kulturgjenstander» menes:
+
+   - en stat som inngår i Det europeiske økonomiske samarbeidsområdet (EØS)
+   - en stat som er part i Unidroit-konvensjonen av 24. juni 1995 nr. 1
+   - en stat som er part i UNESCO-konvensjonen av 1970 om tiltak for å forby og hindre ulovlig import og eksport av kulturgjenstander og ulovlig overføring av eiendomsrett til kulturgjenstander.
 
 ### § 10
 

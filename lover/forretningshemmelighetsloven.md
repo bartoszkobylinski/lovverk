@@ -15,7 +15,7 @@ xml_hash: "a61bf6a30f2de6e31e3575b492e88efbf66f0576bc2cbfb7650c4757a5f4be5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32016L0943"
@@ -31,7 +31,11 @@ Loven gjelder også for Svalbard og Jan Mayen.
 
 ## § 2. Definisjoner
 
-Med forretningshemmeligheter menes opplysninger somer hemmelige i den forstand at opplysningene ikke som helhet, eller slik de er satt sammen eller ordnet, er allment kjent eller lett tilgjengelighar kommersiell verdi fordi de er hemmeligeinnehaveren har truffet rimelige tiltak for å holde hemmelige
+Med forretningshemmeligheter menes opplysninger som
+
+1. er hemmelige i den forstand at opplysningene ikke som helhet, eller slik de er satt sammen eller ordnet, er allment kjent eller lett tilgjengelig
+2. har kommersiell verdi fordi de er hemmelige
+3. innehaveren har truffet rimelige tiltak for å holde hemmelige
 
 Alminnelige erfaringer og ferdigheter som en arbeidstaker har tilegnet seg under et ansettelsesforhold, utgjør ikke en forretningshemmelighet.
 
@@ -39,9 +43,16 @@ Med innehaver av en forretningshemmelighet menes en fysisk eller juridisk person
 
 ## § 3. Inngrep i en forretningshemmelighet
 
-Ingen må gjøre inngrep i en forretningshemmelighet ved å oppnå kunnskap om eller rådighet over en forretningshemmelighet vedurettmessig å skaffe seg adgang til, ta med seg, eller kopiere dokumenter eller gjenstanderannen adferd i strid med god forretningsskikk
+Ingen må gjøre inngrep i en forretningshemmelighet ved å oppnå kunnskap om eller rådighet over en forretningshemmelighet ved
 
-Ingen må gjøre inngrep i en forretningshemmelighet ved urettmessig å bruke eller formidle en forretningshemmelighet som vedkommende har fått kunnskap om eller rådighet overi strid med første leddi anledning av et tjeneste-, tillitsverv- eller forretningsforholdi medhold av bestemmelser i lov eller forskrift
+1. urettmessig å skaffe seg adgang til, ta med seg, eller kopiere dokumenter eller gjenstander
+2. annen adferd i strid med god forretningsskikk
+
+Ingen må gjøre inngrep i en forretningshemmelighet ved urettmessig å bruke eller formidle en forretningshemmelighet som vedkommende har fått kunnskap om eller rådighet over
+
+1. i strid med første ledd
+2. i anledning av et tjeneste-, tillitsverv- eller forretningsforhold
+3. i medhold av bestemmelser i lov eller forskrift
 
 Ingen må gjøre inngrep i en forretningshemmelighet ved urettmessig å oppnå kunnskap om eller rådighet over, bruke eller formidle en forretningshemmelighet som vedkommende på tidspunktet for tilegnelsen, bruken eller formidlingen visste eller burde ha visst var tilegnet fra noen som handlet i strid med annet ledd.
 
@@ -65,7 +76,13 @@ Forbud kan idømmes hvis innehaveren har tatt rettslige skritt mot inngriperen s
 
 For å avbøte virkningene av et inngrep eller for å hindre nye inngrep i en forretningshemmelighet kan retten så langt det finnes rimelig gi pålegg om korrigerende og forebyggende tiltak. Slikt pålegg kan gå ut på at dokumenter eller gjenstander som inneholder forretningshemmeligheten, skal ødelegges eller utleveres til innehaveren av forretningshemmeligheten.
 
-For varer som utgjør inngrep i en forretningshemmelighet, kan slikt pålegg gå ut på at varene skal:tilbakekalles fra handelenendres slik at deres inngripende egenskaper fjernesdefinitivt fjernes fra handelenødeleggesutleveres til innehaveren av forretningshemmeligheten
+For varer som utgjør inngrep i en forretningshemmelighet, kan slikt pålegg gå ut på at varene skal:
+
+1. tilbakekalles fra handelen
+2. endres slik at deres inngripende egenskaper fjernes
+3. definitivt fjernes fra handelen
+4. ødelegges
+5. utleveres til innehaveren av forretningshemmeligheten
 
 Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal være forholdsmessig. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjepersoners interesser.
 
@@ -75,13 +92,21 @@ Pålegg om tiltak kan idømmes hvis innehaveren har tatt rettslige skritt mot in
 
 ## § 7. Fortsatt bruk mot rimelig vederlag
 
-I stedet for forbud etter [§ 5](lov/2020-03-27-15/§5) og pålegg etter [§ 6](lov/2020-03-27-15/§6) kan retten gi inngriperen tillatelse til fortsatt bruk av forretningshemmeligheten mot rimelig vederlag til innehaveren av forretningshemmeligheten og på passende vilkår for øvrig. Tillatelse kan bare gis hvisinngriperen har vært i aktsom god tro ved tilegnelsen av forretningshemmelighetenforbud etter [§ 5](lov/2020-03-27-15/§5) eller pålegg etter [§ 6](lov/2020-03-27-15/§6) vil påføre inngriperen uforholdsmessig skadevederlag til innehaveren fremstår som en rimelig løsning
+I stedet for forbud etter [§ 5](lov/2020-03-27-15/§5) og pålegg etter [§ 6](lov/2020-03-27-15/§6) kan retten gi inngriperen tillatelse til fortsatt bruk av forretningshemmeligheten mot rimelig vederlag til innehaveren av forretningshemmeligheten og på passende vilkår for øvrig. Tillatelse kan bare gis hvis
+
+1. inngriperen har vært i aktsom god tro ved tilegnelsen av forretningshemmeligheten
+2. forbud etter [§ 5](lov/2020-03-27-15/§5) eller pålegg etter [§ 6](lov/2020-03-27-15/§6) vil påføre inngriperen uforholdsmessig skade
+3. vederlag til innehaveren fremstår som en rimelig løsning
 
 Vederlaget etter første ledd skal ikke overstige lisensavgiften innehaveren med rimelighet kunne krevd i perioden hvor bruken kan forbys. Vederlag etter [§ 8](lov/2020-03-27-15/§8) fastsettes på samme måte for perioden frem til domsavsigelsen.
 
 ## § 8. Vederlag og erstatning
 
-For forsettlig eller uaktsomt inngrep, jf. [§§ 3](lov/2020-03-27-15/§3) eller [4](lov/2020-03-27-15/§4), skal inngriperen betale innehaveren av forretningshemmeligheten vederlag eller erstatning som fastsettes etter det av følgende grunnlag som er mest gunstig for innehaveren:vederlag som tilsvarer en rimelig lisensavgift for bruken, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensieringerstatning for skade som følge av inngrepetvederlag svarende til vinningen som er oppnådd ved inngrepet
+For forsettlig eller uaktsomt inngrep, jf. [§§ 3](lov/2020-03-27-15/§3) eller [4](lov/2020-03-27-15/§4), skal inngriperen betale innehaveren av forretningshemmeligheten vederlag eller erstatning som fastsettes etter det av følgende grunnlag som er mest gunstig for innehaveren:
+
+1. vederlag som tilsvarer en rimelig lisensavgift for bruken, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering
+2. erstatning for skade som følge av inngrepet
+3. vederlag svarende til vinningen som er oppnådd ved inngrepet
 
 Første ledd gjelder tilsvarende ved medvirkning til inngrep.
 

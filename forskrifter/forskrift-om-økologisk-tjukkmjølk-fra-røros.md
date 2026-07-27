@@ -15,7 +15,7 @@ xml_hash: "93e31d3063cb24dbd1c761e16249d5be24a45c6d356dde4e1462bc3d71291264"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,10 +32,20 @@ Rørosmeieriet as.
 
 ## § 3. Vilkår for bruk av produktbetegnelsen
 
-1. *Produktbeskrivelse:*Økologisk Tjukkmjølk fra Røros er et syrnet melkeprodukt som skal være framstilt av økologisk produsert melk tilsatt tradisjonell tettekultur. Produktet skal ha en fast, fyldig og puddingaktig konsistens som endres ved omrøring/risting. Smaken skal være mild og syrlig rund.
-2. *Geografisk område:*Økologisk Tjukkmjølk fra Røros skal produseres i Røros kommune. Den økologiske melken som brukes som råvare til produksjonen skal produseres i et område avgrenset til kommunene Rendalen, Folldal, Alvdal, Tynset, Tolga og Os i Hedmark fylke, samt kommunene Røros, Holtålen, Tydal og de tidligere kommunene Singsås og Budal i nåværende Midtre Gauldal kommune i Sør-Trøndelag fylke.
-3. *Produksjonsmetode:*Råmelken skal skummes og pasteuriseres, men ikke homogeniseres. Etter nedkjøling skal melken tilsettes 0,5-1,5% tradisjonell tettekultur og tempereres til 20-23 °C. Melken skal samme dag tappes på kartong for syrning i ca. 1 døgn på temperert syrningslager inntil ønsket konsistens, surhet, lukt og smak er oppnådd. Det ferdige produktet skal oppbevares kjølig.Tettekulturen skal fornyes og podes jevnlig for å sikre riktig og stabil kvalitet.
-4. *Merking av produktet:*Økologisk Tjukkmjølk fra Røros kan merkes med figurmerket for Beskyttet geografisk betegnelse.
+1. *Produktbeskrivelse:*
+
+   Økologisk Tjukkmjølk fra Røros er et syrnet melkeprodukt som skal være framstilt av økologisk produsert melk tilsatt tradisjonell tettekultur. Produktet skal ha en fast, fyldig og puddingaktig konsistens som endres ved omrøring/risting. Smaken skal være mild og syrlig rund.
+2. *Geografisk område:*
+
+   Økologisk Tjukkmjølk fra Røros skal produseres i Røros kommune. Den økologiske melken som brukes som råvare til produksjonen skal produseres i et område avgrenset til kommunene Rendalen, Folldal, Alvdal, Tynset, Tolga og Os i Hedmark fylke, samt kommunene Røros, Holtålen, Tydal og de tidligere kommunene Singsås og Budal i nåværende Midtre Gauldal kommune i Sør-Trøndelag fylke.
+3. *Produksjonsmetode:*
+
+   Råmelken skal skummes og pasteuriseres, men ikke homogeniseres. Etter nedkjøling skal melken tilsettes 0,5-1,5% tradisjonell tettekultur og tempereres til 20-23 °C. Melken skal samme dag tappes på kartong for syrning i ca. 1 døgn på temperert syrningslager inntil ønsket konsistens, surhet, lukt og smak er oppnådd. Det ferdige produktet skal oppbevares kjølig.
+
+   Tettekulturen skal fornyes og podes jevnlig for å sikre riktig og stabil kvalitet.
+4. *Merking av produktet:*
+
+   Økologisk Tjukkmjølk fra Røros kan merkes med figurmerket for Beskyttet geografisk betegnelse.
 
 ## § 4. Ikrafttredelse
 

@@ -28,8 +28,12 @@ Forskriften gjelder for utveksling av opplysninger mellom Arbeids- og velferdset
 
 ## § 2. Når kan opplysninger utveksles etter [folketrygdlovens § 21-4b](lov/1997-02-28-19/§21-4b)
 
-1. Utlevering av opplysninger fra finansinstitusjoner til Arbeids- og velferdsetaten:Finansinstitusjoner kan av eget tiltak og uten hinder av taushetsplikt informere Arbeids- og velferdsetaten om forhold som har medført eller kan medføre urettmessig utbetaling av trygdeytelser, jf. [sparebankloven § 21](lov/1961-05-24-1/§21) første ledd, [forretningsbankloven § 18](lov/1961-05-24-2/§18) første ledd, og [forsikringsvirksomhetsloven § 1-6](lov/2005-06-10-44/§1-6) andre ledd.
-2. Utlevering av opplysninger fra Arbeids- og velferdsetaten til finansinstitusjoner:Når en person ved forsett eller uaktsomhet har fått eller har søkt å oppnå utbetalinger fra Arbeids- og velferdsetaten som vedkommende ikke hadde krav på, kan etaten av eget tiltak og uten hinder av taushetsplikt informere en finansinstitusjon om forhold som har medført eller kan medføre urettmessige utbetalinger fra denne institusjonen til denne personen, jf. [folketrygdloven § 21-4b](lov/1997-02-28-19/§21-4b) andre ledd.
+1. Utlevering av opplysninger fra finansinstitusjoner til Arbeids- og velferdsetaten:
+
+   Finansinstitusjoner kan av eget tiltak og uten hinder av taushetsplikt informere Arbeids- og velferdsetaten om forhold som har medført eller kan medføre urettmessig utbetaling av trygdeytelser, jf. [sparebankloven § 21](lov/1961-05-24-1/§21) første ledd, [forretningsbankloven § 18](lov/1961-05-24-2/§18) første ledd, og [forsikringsvirksomhetsloven § 1-6](lov/2005-06-10-44/§1-6) andre ledd.
+2. Utlevering av opplysninger fra Arbeids- og velferdsetaten til finansinstitusjoner:
+
+   Når en person ved forsett eller uaktsomhet har fått eller har søkt å oppnå utbetalinger fra Arbeids- og velferdsetaten som vedkommende ikke hadde krav på, kan etaten av eget tiltak og uten hinder av taushetsplikt informere en finansinstitusjon om forhold som har medført eller kan medføre urettmessige utbetalinger fra denne institusjonen til denne personen, jf. [folketrygdloven § 21-4b](lov/1997-02-28-19/§21-4b) andre ledd.
 
 ## § 3. Hvilke opplysninger som kan utleveres
 

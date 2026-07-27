@@ -15,7 +15,7 @@ xml_hash: "1b8666bac1a664f2d928b4710894d294e61fea7ef972e7926bbd9052fc525633"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32014R1286"
@@ -42,7 +42,10 @@ Departementet kan i forskrift gjøre endringer i, herunder fastsette unntak fra,
 
 ## § 3. Definisjoner
 
-I denne loven forstås med:ikke-profesjonell investor: fysisk eller juridisk person som skal anses som kunde etter [finansavtaleloven](lov/2020-12-18-146), [forsikringsavtaleloven](lov/1989-06-16-69), [finansforetaksloven](lov/2015-04-10-17), [verdipapirhandelloven](lov/2007-06-29-75), [verdipapirfondloven](lov/2011-11-25-44), [AIF-loven](lov/2014-06-20-28), [forsikringsformidlingsloven](lov/2021-12-22-163) eller annet relevant regelverk, og som ikke kan regnes som, eller skal behandles som, profesjonell kunde etter reglene i [verdipapirhandelloven § 10-7](lov/2007-06-29-75/§10-7).varig medium: en innretning som angitt i [verdipapirfondloven § 1-2 første ledd](lov/2011-11-25-44/§1-2/ledd/1) nr. 10.
+I denne loven forstås med:
+
+1. ikke-profesjonell investor: fysisk eller juridisk person som skal anses som kunde etter [finansavtaleloven](lov/2020-12-18-146), [forsikringsavtaleloven](lov/1989-06-16-69), [finansforetaksloven](lov/2015-04-10-17), [verdipapirhandelloven](lov/2007-06-29-75), [verdipapirfondloven](lov/2011-11-25-44), [AIF-loven](lov/2014-06-20-28), [forsikringsformidlingsloven](lov/2021-12-22-163) eller annet relevant regelverk, og som ikke kan regnes som, eller skal behandles som, profesjonell kunde etter reglene i [verdipapirhandelloven § 10-7](lov/2007-06-29-75/§10-7).
+2. varig medium: en innretning som angitt i [verdipapirfondloven § 1-2 første ledd](lov/2011-11-25-44/§1-2/ledd/1) nr. 10.
 
 ## § 4. Språk
 

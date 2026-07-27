@@ -15,7 +15,7 @@ xml_hash: "e23ed841c2c806eb851621ff52b1297573f29d362221424ef899c163b593d535"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,14 @@ Kongen kan i forskrift bestemme i hvilken utstrekning loven kommer til anvendels
 
 ### § 4. Definisjoner
 
-I denne loven forstås med:medisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,humant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,forskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,helseopplysninger: personopplysninger om en fysisk persons fysiske eller psykiske helse, medregnet om ytelse av helsetjenester, som gir informasjon om vedkommendes helsetilstand, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 15forskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,prosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven.
+I denne loven forstås med:
+
+1. medisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,
+2. humant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,
+3. forskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,
+4. helseopplysninger: personopplysninger om en fysisk persons fysiske eller psykiske helse, medregnet om ytelse av helsetjenester, som gir informasjon om vedkommendes helsetilstand, jf. [personvernforordningen artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 15
+5. forskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,
+6. prosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven.
 
 > Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft fra den tid Kongen bestemmer).
 
@@ -178,7 +185,10 @@ Dersom særlig sterke samfunns- eller forskningshensyn tilsier det, kan den regi
 
 ### § 17. Hvem som har samtykkekompetanse
 
-Rett til å samtykke til deltakelse i medisinsk og helsefaglig forskning har:personer over 18 år, med mindre annet følger av sjette ledd, ogpersoner mellom 16 og 18 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art.
+Rett til å samtykke til deltakelse i medisinsk og helsefaglig forskning har:
+
+1. personer over 18 år, med mindre annet følger av sjette ledd, og
+2. personer mellom 16 og 18 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art.
 
 Samtykkekompetanse etter første ledd kan bortfalle i situasjoner som vist til i [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3) andre ledd.
 
@@ -200,7 +210,11 @@ Departementet kan i forskrift bestemme at for spesielle typer forskningsprosjekt
 
 ### § 18. Vilkår for forskning som inkluderer personer uten samtykkekompetanse
 
-Forskning som inkluderer mindreårige og personer uten samtykkekompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3) kan bare finne sted dersomeventuell risiko eller ulempe for personen er ubetydelig,personen selv ikke motsetter seg det, ogdet er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand.
+Forskning som inkluderer mindreårige og personer uten samtykkekompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3) kan bare finne sted dersom
+
+1. eventuell risiko eller ulempe for personen er ubetydelig,
+2. personen selv ikke motsetter seg det, og
+3. det er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand.
 
 For mindreårige kreves det at tilsvarende forskning ikke kan gjennomføres på personer som ikke er mindreårige.
 
@@ -210,7 +224,12 @@ For personer uten samtykkekompetanse kreves det at det ikke er grunn til å tro 
 
 ### § 19. Samtykke til forskning i kliniske nødssituasjoner
 
-I kliniske nødssituasjoner der pasienten ikke er i stand til å avgi samtykke, og der det er umulig å innhente samtykke fra vedkommendes nærmeste pårørende, kan forskning bare skje dersomeventuell risiko eller ulempe for personen er ubetydelig,personen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,det bare er mulig å utføre forskningen i kliniske nødssituasjoner, ogforskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi.
+I kliniske nødssituasjoner der pasienten ikke er i stand til å avgi samtykke, og der det er umulig å innhente samtykke fra vedkommendes nærmeste pårørende, kan forskning bare skje dersom
+
+1. eventuell risiko eller ulempe for personen er ubetydelig,
+2. personen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,
+3. det bare er mulig å utføre forskningen i kliniske nødssituasjoner, og
+4. forskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi.
 
 Vedkommende eller dennes nærmeste pårørende skal så snart som mulig gis informasjon om forskningen. Samtykke etter [§ 13](lov/2008-06-20-44/§13), jf. [§ 17](lov/2008-06-20-44/§17), er en forutsetning for videre forskning og skal innhentes så snart som mulig.
 

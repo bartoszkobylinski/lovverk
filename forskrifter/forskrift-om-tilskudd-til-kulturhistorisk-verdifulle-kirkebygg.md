@@ -32,7 +32,12 @@ Viktige målgrupper for tilskuddsordningen er brukere av kirkebyggene, lokalsamf
 
 ### § 1-2. Kriterier for måloppnåelse
 
-Følgende kriterier er sentrale i vurderingen av om målet nås:Antall kirker som har gjennomført eller kommet i gang med sikrings- eller istandsettingsarbeider har økt.Antallet kirker med tilstandsgrad Bra (TG1) på klimaskall har økt i de tre bevaringsprogrammene.Antallet kirker med tilstandsgrad Bra (TG1) på kulturhistorisk verdifullt interiør har økt i de tre bevaringsprogrammene.Kommunenes økonomiske bidrag til kirkevedlikehold er stabilt eller har økt.
+Følgende kriterier er sentrale i vurderingen av om målet nås:
+
+1. Antall kirker som har gjennomført eller kommet i gang med sikrings- eller istandsettingsarbeider har økt.
+2. Antallet kirker med tilstandsgrad Bra (TG1) på klimaskall har økt i de tre bevaringsprogrammene.
+3. Antallet kirker med tilstandsgrad Bra (TG1) på kulturhistorisk verdifullt interiør har økt i de tre bevaringsprogrammene.
+4. Kommunenes økonomiske bidrag til kirkevedlikehold er stabilt eller har økt.
 
 I tillegg vil aktivitetsnivå når det gjelder kunnskap og kompetanse, opplevelse og formidling og engasjement og deltakelse inngå i vurderingen.
 
@@ -109,9 +114,39 @@ Fram mot 2030 skal bevaringsprogrammet for middelalderkirker ha høyest priorite
 
 ### § 2-4. Hvordan tilskudd fastsettes
 
-1. ForprosjektKostnadene for godkjente forprosjekt dekkes i sin helhet av tilskuddsordningen.For kirkebygg som allerede er igangsatt eller ferdigprosjektert ved denne forskriftens ikrafttredelse, dekker staten hele kostnaden ved eventuelle tillegg som må gjennomføres for å få forprosjektet godkjent og kvalifisere til å få tilskudd til hovedprosjekt.
-2. HovedprosjektKostnadene for godkjente hovedprosjekt skal deles mellom staten og kommunen for kirker som Den norske kirke eier, og mellom staten og kirkeeier for kirker som kommunen ikke har et finansieringsansvar for. Kostnadene skal deles etter ulike prosentsatser, inndelt etter kostnadsintervaller.I bevaringsprogrammet for middelalderkirker vil staten dekke kostnadene etter følgende intervaller:50 prosent av kostnadene i intervallet 0–30 mill. kroner75 prosent av kostnadene i intervallet 30–70 mill. kroner90 prosent av kostnadene over 70 mill. kroner.I de to øvrige bevaringsprogrammene vil staten dekke kostnadene etter følgende intervaller:50 prosent av kostnadene i intervallet 0–30 mill. kroner60 prosent av kostnadene i intervallet 30–70 mill. kroner80 prosent av kostnadene over 70 mill. kroner.Den kommunale egenandelen skal reduseres dersom kommunen har minst tre fredete/listeførte kirker samt færre enn 4000 innbyggere per fredet/listeført kirke. Reduksjonen skal tilsvare 10 prosent av den godkjente prosjektkostnaden og gjelde fra og med kirke nummer to som istandsettes som del av ordningen.Den kommunale egenandelen skal også reduseres dersom det de siste fem årene før søknadstidspunktet er gjennomført istandsettings-, sikrings- eller konserveringsprosjekter på fredet eller listeført kirkebygg i kommunen med en total kostnad på over 100 mill. kroner. Reduksjonen skal tilsvare 10 prosent av den godkjente prosjektkostnaden.For kirker som kommunen ikke har finansieringsansvar for, kan ikke-økonomisk egeninnsats erstatte økonomisk egenandel når vedlikeholdsbehovet anses prekært. Tilsvarende gjelder for kommuner som på søknadstidspunktet står oppført på ROBEK-listen. Tilskuddsforvalter avgjør om annen egeninnsats kvalifiserer som tilstrekkelig egenandel.Dersom det i gjennomføringen av et hovedprosjekt avdekkes ytterligere behov for kostnadskrevende undersøkelser, granskninger eller analyser og/eller utbedringer som følger av dette, kan det etterskuddsvis søkes om at dette inkluderes i budsjettet for prosjektet. Tilskuddsforvalter gjør en vurdering av behovet for å inkludere kostnadene ut fra gjeldende kriterier i forskriften. Statens tilskudd skal i slike tilfeller som hovedregel ikke overstige 50 prosent av kostnadene.Øvrige overskridelser må dekkes i sin helhet av kommunen/kirkeeier. Unntaket er tilfeller der tilskuddsforvalter etter bokstav b) sjette ledd har godkjent at annen egeninnsats kan kvalifisere som tilstrekkelig egenandel. I slike tilfeller avgjør tilskuddsforvalter hvordan overskridelsene skal håndteres.
-3. Tiltak som ikke er en integrert del av et forprosjekt eller hovedprosjektTilskuddsforvalter gjør en skjønnsmessig vurdering av innkomne søknader ut fra kvalitet, forventet måloppnåelse og behov i det enkelte bevaringsprogram. Tilskuddet skal som hovedregel ikke overskride 50 prosent av kostnadene ved tiltaket.
+1. Forprosjekt
+
+   Kostnadene for godkjente forprosjekt dekkes i sin helhet av tilskuddsordningen.
+
+   For kirkebygg som allerede er igangsatt eller ferdigprosjektert ved denne forskriftens ikrafttredelse, dekker staten hele kostnaden ved eventuelle tillegg som må gjennomføres for å få forprosjektet godkjent og kvalifisere til å få tilskudd til hovedprosjekt.
+2. Hovedprosjekt
+
+   Kostnadene for godkjente hovedprosjekt skal deles mellom staten og kommunen for kirker som Den norske kirke eier, og mellom staten og kirkeeier for kirker som kommunen ikke har et finansieringsansvar for. Kostnadene skal deles etter ulike prosentsatser, inndelt etter kostnadsintervaller.
+
+   I bevaringsprogrammet for middelalderkirker vil staten dekke kostnadene etter følgende intervaller:
+
+   - 50 prosent av kostnadene i intervallet 0–30 mill. kroner
+   - 75 prosent av kostnadene i intervallet 30–70 mill. kroner
+   - 90 prosent av kostnadene over 70 mill. kroner.
+
+   I de to øvrige bevaringsprogrammene vil staten dekke kostnadene etter følgende intervaller:
+
+   - 50 prosent av kostnadene i intervallet 0–30 mill. kroner
+   - 60 prosent av kostnadene i intervallet 30–70 mill. kroner
+   - 80 prosent av kostnadene over 70 mill. kroner.
+
+   Den kommunale egenandelen skal reduseres dersom kommunen har minst tre fredete/listeførte kirker samt færre enn 4000 innbyggere per fredet/listeført kirke. Reduksjonen skal tilsvare 10 prosent av den godkjente prosjektkostnaden og gjelde fra og med kirke nummer to som istandsettes som del av ordningen.
+
+   Den kommunale egenandelen skal også reduseres dersom det de siste fem årene før søknadstidspunktet er gjennomført istandsettings-, sikrings- eller konserveringsprosjekter på fredet eller listeført kirkebygg i kommunen med en total kostnad på over 100 mill. kroner. Reduksjonen skal tilsvare 10 prosent av den godkjente prosjektkostnaden.
+
+   For kirker som kommunen ikke har finansieringsansvar for, kan ikke-økonomisk egeninnsats erstatte økonomisk egenandel når vedlikeholdsbehovet anses prekært. Tilsvarende gjelder for kommuner som på søknadstidspunktet står oppført på ROBEK-listen. Tilskuddsforvalter avgjør om annen egeninnsats kvalifiserer som tilstrekkelig egenandel.
+
+   Dersom det i gjennomføringen av et hovedprosjekt avdekkes ytterligere behov for kostnadskrevende undersøkelser, granskninger eller analyser og/eller utbedringer som følger av dette, kan det etterskuddsvis søkes om at dette inkluderes i budsjettet for prosjektet. Tilskuddsforvalter gjør en vurdering av behovet for å inkludere kostnadene ut fra gjeldende kriterier i forskriften. Statens tilskudd skal i slike tilfeller som hovedregel ikke overstige 50 prosent av kostnadene.
+
+   Øvrige overskridelser må dekkes i sin helhet av kommunen/kirkeeier. Unntaket er tilfeller der tilskuddsforvalter etter bokstav b) sjette ledd har godkjent at annen egeninnsats kan kvalifisere som tilstrekkelig egenandel. I slike tilfeller avgjør tilskuddsforvalter hvordan overskridelsene skal håndteres.
+3. Tiltak som ikke er en integrert del av et forprosjekt eller hovedprosjekt
+
+   Tilskuddsforvalter gjør en skjønnsmessig vurdering av innkomne søknader ut fra kvalitet, forventet måloppnåelse og behov i det enkelte bevaringsprogram. Tilskuddet skal som hovedregel ikke overskride 50 prosent av kostnadene ved tiltaket.
 
 ## Kapittel 3. Utlysning av tilskuddsmidler
 
@@ -139,7 +174,12 @@ Søknadsfrister fremgår av nettsiden for kirkebevaringsfondet.
 
 Søknad om tilskudd til forprosjekt sendes tilskuddsforvalter gjennom digital søknadsløsning.
 
-Søknader om tilskudd til forprosjekt skal inneholde:beskrivelse av forprosjektets innhold,beskrivelse av de ulike innsatsområdene som inngår i forprosjektet, med planlagte tiltak,budsjett for gjennomføring av forprosjektet, samlet og fordelt på innsatsområder,dokumentasjon på at tiltak som krever tillatelser eller dispensasjoner etter [kulturminnelov](lov/1978-06-09-50), [plan- og bygningslov](lov/2008-06-27-71) eller annet relevant regelverk, er omsøkt eller godkjent.
+Søknader om tilskudd til forprosjekt skal inneholde:
+
+1. beskrivelse av forprosjektets innhold,
+2. beskrivelse av de ulike innsatsområdene som inngår i forprosjektet, med planlagte tiltak,
+3. budsjett for gjennomføring av forprosjektet, samlet og fordelt på innsatsområder,
+4. dokumentasjon på at tiltak som krever tillatelser eller dispensasjoner etter [kulturminnelov](lov/1978-06-09-50), [plan- og bygningslov](lov/2008-06-27-71) eller annet relevant regelverk, er omsøkt eller godkjent.
 
 Søknader om tilskudd til forprosjekt skal i tillegg inneholde eller vedlegge en intensjonserklæring fra kommunen om medfinansiering av hovedprosjektet. Dette gjelder for kirker i Den norske kirkes eie og som ikke rammefinansieres av kommunen. For kirkebygg som rammefinansieres av kommunen eller eies av andre kreves det at det foreligger en foreløpig budsjettplan som viser hvordan egenandelen i hovedprosjektet tenkes dekket inn.
 
@@ -147,7 +187,17 @@ Søknader om tilskudd til forprosjekt skal i tillegg inneholde eller vedlegge en
 
 Søknad om tilskudd til hovedprosjekt sendes tilskuddsforvalter gjennom digital søknadsløsning.
 
-Søknader om tilskudd til hovedprosjekt baseres på gjennomført forprosjekt og skal minst inneholde:rapport fra forprosjekt,beskrivelse av planlagte istandsettings-, sikrings- og/eller konserveringstiltak,beskrivelse av planlagte tiltak innenfor de øvrige innsatsområdene som inngår i søknaden,kostnadsramme for hele prosjektet og budsjett fordelt på kalenderår, underskrevet av både kirkeeier og kommunen der kommunen har finansieringsansvar,plan for forvaltning, drift og vedlikehold,plan for risikovurdering, kostnadskontroll, og hvordan klimahensyn og utredning av klimatrusler skal følges opp,dokumentasjon på oppfyllelsen av fastsatte kvalifikasjonskrav og krav til gjennomføring, jf. [§ 4-4](forskrift/2024-06-23-1309/§4-4),dokumentasjon på nødvendige godkjenninger etter [kulturminnelov](lov/1978-06-09-50), [plan- og bygningslov](lov/2008-06-27-71) og annet relevant regelverk som er kjent på søknadstidspunktet. Ved behov for ytterligere godkjenninger underveis i prosjektet ettersendes slike,en plan for bruk, tilgjengeliggjøring og fortsatt vedlikehold av bygget etter at istandsettingen er ferdig.
+Søknader om tilskudd til hovedprosjekt baseres på gjennomført forprosjekt og skal minst inneholde:
+
+1. rapport fra forprosjekt,
+2. beskrivelse av planlagte istandsettings-, sikrings- og/eller konserveringstiltak,
+3. beskrivelse av planlagte tiltak innenfor de øvrige innsatsområdene som inngår i søknaden,
+4. kostnadsramme for hele prosjektet og budsjett fordelt på kalenderår, underskrevet av både kirkeeier og kommunen der kommunen har finansieringsansvar,
+5. plan for forvaltning, drift og vedlikehold,
+6. plan for risikovurdering, kostnadskontroll, og hvordan klimahensyn og utredning av klimatrusler skal følges opp,
+7. dokumentasjon på oppfyllelsen av fastsatte kvalifikasjonskrav og krav til gjennomføring, jf. [§ 4-4](forskrift/2024-06-23-1309/§4-4),
+8. dokumentasjon på nødvendige godkjenninger etter [kulturminnelov](lov/1978-06-09-50), [plan- og bygningslov](lov/2008-06-27-71) og annet relevant regelverk som er kjent på søknadstidspunktet. Ved behov for ytterligere godkjenninger underveis i prosjektet ettersendes slike,
+9. en plan for bruk, tilgjengeliggjøring og fortsatt vedlikehold av bygget etter at istandsettingen er ferdig.
 
 Budsjett for hovedprosjektet skal inkludere 15 prosent til uforutsette utgifter. Utgifter til tiltak som faller inn under innsatsområde 2, 3 og 4 men som er en del av et konkret hovedprosjekt, skal inngå i budsjetteringen av hovedprosjektet.
 
@@ -177,13 +227,25 @@ Tilskuddsforvalter kan stille ytterligere krav, der det er relevant.
 
 ### § 4-5. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
-Tilskuddsforvalter kankreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevereforeta befaring som er nødvendig for å vurdere søknaden.
+Tilskuddsforvalter kan
+
+1. kreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. foreta befaring som er nødvendig for å vurdere søknaden.
 
 ## Kapittel 5. Opplysninger om vedtak og bruk av tilskuddet
 
 ### § 5-1. Innholdet i tilskuddsbrevet
 
-Tilskuddsforvalter skal utarbeide tilskuddsbrev (vedtak om tilskudd), som angir alle vilkår som har betydning for mottakers gjennomføring av tiltaket. Brevet skal minst inneholde:tilskuddsbeløpet,informasjon om hva tilskuddet skal brukes til, utbetalingsordningen og vilkår for tilskudd,frist for igangsetting og ferdigstillelse for tiltaket,krav til rapportering og dokumentasjon etter [§ 6-3](forskrift/2024-06-23-1309/§6-3),tilskuddsmottakers plikter etter [§ 6-1](forskrift/2024-06-23-1309/§6-1),opplysninger om mulige kontroller som kan bli gjennomført for å undersøke om midlene er nyttet i samsvar med vilkårene for tilskuddet, jf. [§§ 4-5](forskrift/2024-06-23-1309/§4-5) og [6-4](forskrift/2024-06-23-1309/§6-4),opplysninger om reaksjoner ved brudd på betingelser og vilkår for tilskuddet.
+Tilskuddsforvalter skal utarbeide tilskuddsbrev (vedtak om tilskudd), som angir alle vilkår som har betydning for mottakers gjennomføring av tiltaket. Brevet skal minst inneholde:
+
+1. tilskuddsbeløpet,
+2. informasjon om hva tilskuddet skal brukes til, utbetalingsordningen og vilkår for tilskudd,
+3. frist for igangsetting og ferdigstillelse for tiltaket,
+4. krav til rapportering og dokumentasjon etter [§ 6-3](forskrift/2024-06-23-1309/§6-3),
+5. tilskuddsmottakers plikter etter [§ 6-1](forskrift/2024-06-23-1309/§6-1),
+6. opplysninger om mulige kontroller som kan bli gjennomført for å undersøke om midlene er nyttet i samsvar med vilkårene for tilskuddet, jf. [§§ 4-5](forskrift/2024-06-23-1309/§4-5) og [6-4](forskrift/2024-06-23-1309/§6-4),
+7. opplysninger om reaksjoner ved brudd på betingelser og vilkår for tilskuddet.
 
 ### § 5-2. Utbetaling og bruk av tilskuddet
 
@@ -201,7 +263,11 @@ Tilskuddsforvalter skal legge ut oversikter over alle tildelte tilskudd på sine
 
 ### § 6-1. Tilskuddsmottakers plikter
 
-Tilskuddsmottaker skalgjøre eventuelle samarbeidspartnere, herunder entreprenør/håndverker, kjent med vilkårene for tilskuddet,informere tilskuddsforvalter om endrede forhold, som tidsramme eller omfang, som er av betydning for tiltaket,oppbevare regnskap med bilag i 3 år etter siste utbetaling.
+Tilskuddsmottaker skal
+
+1. gjøre eventuelle samarbeidspartnere, herunder entreprenør/håndverker, kjent med vilkårene for tilskuddet,
+2. informere tilskuddsforvalter om endrede forhold, som tidsramme eller omfang, som er av betydning for tiltaket,
+3. oppbevare regnskap med bilag i 3 år etter siste utbetaling.
 
 Tilskuddsmottaker skal bare bruke tilskuddet til aktiviteter som vedtaket om tilskudd omfatter.
 
@@ -221,11 +287,23 @@ Krav til innholdet i rapporten fremgår av tilskuddsbrevet.
 
 ### § 6-4. Kontroll
 
-Tilskuddsforvalter og Riksrevisjonen kan iverksette kontroll med at midlene nyttes etter forutsetningene, se [bevilgningsreglementet § 10](forskrift/2005-05-26-876/§10) annet ledd og [lov om Riksrevisjonen § 12](lov/2004-05-07-21/§12). Tilskuddsforvalter kan herunder kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og vedtak om tilskudd gjennom åkreve ytterligere opplysninger og dokumentasjon som er nødvendig for kontrolleninnhente opplysinger fra andre myndigheter som har adgang til å utlevere opplysningenegjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
+Tilskuddsforvalter og Riksrevisjonen kan iverksette kontroll med at midlene nyttes etter forutsetningene, se [bevilgningsreglementet § 10](forskrift/2005-05-26-876/§10) annet ledd og [lov om Riksrevisjonen § 12](lov/2004-05-07-21/§12). Tilskuddsforvalter kan herunder kontrollere at tilskuddsmottaker oppfyller kravene i forskriften og vedtak om tilskudd gjennom å
+
+1. kreve ytterligere opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. innhente opplysinger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. gjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
 
 ### § 6-5. Sanksjoner
 
-Tilskuddsforvalter kan stoppe videre utbetalinger, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet, dersom:mottakeren gir ufullstendige eller ukorrekte opplysninger i søknaden,mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,mottakeren ikke bruker midlene i samsvar med forutsetningene i tilskuddsbrevet,mottakeren ikke bruker opp hele tilskuddet,mottakeren ikke sender inn rapport og regnskap innen fristen,rapport og regnskap ikke blir godkjent av tilskuddsforvalter, ellertilskuddsforvalter ved en feil utbetaler for høyt tilskudd.
+Tilskuddsforvalter kan stoppe videre utbetalinger, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet, dersom:
+
+1. mottakeren gir ufullstendige eller ukorrekte opplysninger i søknaden,
+2. mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,
+3. mottakeren ikke bruker midlene i samsvar med forutsetningene i tilskuddsbrevet,
+4. mottakeren ikke bruker opp hele tilskuddet,
+5. mottakeren ikke sender inn rapport og regnskap innen fristen,
+6. rapport og regnskap ikke blir godkjent av tilskuddsforvalter, eller
+7. tilskuddsforvalter ved en feil utbetaler for høyt tilskudd.
 
 ### § 6-6. Klageadgang
 

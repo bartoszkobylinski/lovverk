@@ -15,7 +15,7 @@ xml_hash: "6f894de7d3f2313c59edd2fcf980b3e7342590d77e5658dbca3c58e1db0f2026"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,10 @@ Produkter omfattet av forskriften skal ved omsetning være merket i henhold til 
 
 Når produkter definert i vedlegg IA, pkt. 3, 4, 5, 6, 7 og 10 selges i blandinger, kan varebetegnelsen erstattes av betegnelsen «blandede sjokolader» eller «blandede fylte sjokolader» eller en lignende betegnelse. Det kan også angis en samlet ingrediensliste for alle de ingrediensene som inngår i blandingen.
 
-Produkter omfattet av forskriften skal i tillegg tilføyes følgende opplysninger:Det samlede innhold av kakaotørrstoff skal angis med «minst ...% kakao», for produktene i vedlegg IA, pkt. 2 bokstav c og d og pkt. 3, 4, 5, 8 og 9.For produkter definert i vedlegg IA, pkt. 2 bokstav b og IA pkt. 2 bokstav d, setningens annen del, skal innholdet av kakaosmør angis i merkingen.
+Produkter omfattet av forskriften skal i tillegg tilføyes følgende opplysninger:
+
+1. Det samlede innhold av kakaotørrstoff skal angis med «minst ...% kakao», for produktene i vedlegg IA, pkt. 2 bokstav c og d og pkt. 3, 4, 5, 8 og 9.
+2. For produkter definert i vedlegg IA, pkt. 2 bokstav b og IA pkt. 2 bokstav d, setningens annen del, skal innholdet av kakaosmør angis i merkingen.
 
 > Endret ved [forskrift 9 jan 2004 nr. 144](forskrift/2004-01-09-144).
 
@@ -60,7 +63,11 @@ Varebetegnelse kan i tillegg angis andre steder.
 
 ## § 6. Kvalitetsbetegnelser
 
-Varebetegnelsene «mørk sjokolade», «melkesjokolade» og «sjokoladeovertrekk» som omtalt i vedlegg IA kan suppleres med betegnelser som angår kvalitet, hvis produktet inneholder:– for mørk sjokolade: minst 43% kakaotørrstoff, hvor av minst 26% kakaosmør– for melkesjokolade: minst 30% kakaotørrstoff og minst 18% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett, hvor innholdet av melkefett er minst 4,5%– for sjokoladeovertrekk: minst 16% avfettet kakaotørrstoff.
+Varebetegnelsene «mørk sjokolade», «melkesjokolade» og «sjokoladeovertrekk» som omtalt i vedlegg IA kan suppleres med betegnelser som angår kvalitet, hvis produktet inneholder:
+
+1. – for mørk sjokolade: minst 43% kakaotørrstoff, hvor av minst 26% kakaosmør
+2. – for melkesjokolade: minst 30% kakaotørrstoff og minst 18% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett, hvor innholdet av melkefett er minst 4,5%
+3. – for sjokoladeovertrekk: minst 16% avfettet kakaotørrstoff.
 
 ## § 7. Tilsyn og vedtak
 
@@ -109,17 +116,45 @@ Denne forskrift trer i kraft 3. august 2003. Samtidig oppheves [forskrift av 20.
 *3. Mørk sjokolade*
 
 1. Et produkt fremstilt av kakaoprodukter og sukker, og som med forbehold av bokstav b inneholder minst 35% kakaotørrstoff, hvorav minst 14% avfettet kakaotørrstoff og minst 18% kakaosmør.
-2. Hvis det i tillegg til betegnelsen mørk sjokolade tilføyes følgende ord:dryss eller flak: skal produktet i form av dryss eller flak inneholde minst 32% kakaotørrstoff i alt, hvorav minst 12% kakaosmør og minst 14% avfettet kakaotørrstoffovertrekk: skal produktet inneholde minst 35% kakaotørrstoff, hvorav minst 31% kakaosmør og minst 2,5% avfettet kakaotørrstoff«Gianduia» (eller et ord avledet av «giandua») nøttesjokolade: et produktet som for det første skal være fremstilt av mørk sjokolade, som inneholder minst 32% kakaotørrstoff, hvorav minst 8% avfettet kakaotørrstoff, og for det andre av finmalte hasselnøtter i slike mengder at 100 g av varen inneholder minst 20 g og maksimum 40 g hasselnøtter.Det kan videre tilsettes:melk og/eller tørrmelkepulver fremstilt ved dehydrering i et slikt forhold at det ferdige produktet maksimum inneholde 5% melketørrstoffhele eller hakkede mandler, hasselnøtter og andre nøtteslag i slike mengder, at de sammen med de fint knuste hasselnøttene utgjør maksimum 60% av produktets samlede vekt.
+2. Hvis det i tillegg til betegnelsen mørk sjokolade tilføyes følgende ord:
+
+   - dryss eller flak: skal produktet i form av dryss eller flak inneholde minst 32% kakaotørrstoff i alt, hvorav minst 12% kakaosmør og minst 14% avfettet kakaotørrstoff
+   - overtrekk: skal produktet inneholde minst 35% kakaotørrstoff, hvorav minst 31% kakaosmør og minst 2,5% avfettet kakaotørrstoff
+   - «Gianduia» (eller et ord avledet av «giandua») nøttesjokolade: et produktet som for det første skal være fremstilt av mørk sjokolade, som inneholder minst 32% kakaotørrstoff, hvorav minst 8% avfettet kakaotørrstoff, og for det andre av finmalte hasselnøtter i slike mengder at 100 g av varen inneholder minst 20 g og maksimum 40 g hasselnøtter.
+
+     Det kan videre tilsettes:
+
+     1. melk og/eller tørrmelkepulver fremstilt ved dehydrering i et slikt forhold at det ferdige produktet maksimum inneholde 5% melketørrstoff
+     2. hele eller hakkede mandler, hasselnøtter og andre nøtteslag i slike mengder, at de sammen med de fint knuste hasselnøttene utgjør maksimum 60% av produktets samlede vekt.
 
 *4. Melkesjokolade*
 
-1. Betegner et produkt fremstilt av kakaoprodukter, sukker og melk eller melkeprodukter som – med unntak av bokstav b inneholder:minst 25% kakaotørrstoffminst 14% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefettminst 2,5% avfettet kakaotørrstoffminst 3,5% melkefettminst 25% fettstoffer totalt (kakaosmør og melkefett).
-2. Hvis betegnelsen melkesjokolade suppleres med:dryss eller flak: skal produktet i form av dryss eller flak inneholde minst 20% kakaotørrstoff og minst 12% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett hvor totalt innholde av fett er minst 12% (kakaosmør og melkefett).overtrekk: skal produktet inneholde minst 31% fett (kakaosmør og melkefett).«Gianduia» (eller et ord avledet av «gianduia») nøttesjokolade: skal produktet fremstilles av for det første melkesjokolade som inneholder minst 10% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett og for det andre av finmalte hasselnøtter i en slik mengde at 100 g av produktet inneholder minst 15 g og maksimum 40 g hasselnøtter. Det kan også tilsettes hele eller hakkede mandler, hasselnøtter og andre nøttesorter i slike mengder, at de sammen med de finmalte hasselnøtter utgjør maksimum 60% av produktets samlede vekt.
-3. Når i betegnelsen melkesjokolade ordet «melk» erstattes med:«fløte»: skal produktet inneholde minst 5,5% melkefett.«skummetmelk»: skal produktet inneholde maksimum 1% melkefett.
+1. Betegner et produkt fremstilt av kakaoprodukter, sukker og melk eller melkeprodukter som – med unntak av bokstav b inneholder:
+
+   - minst 25% kakaotørrstoff
+   - minst 14% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett
+   - minst 2,5% avfettet kakaotørrstoff
+   - minst 3,5% melkefett
+   - minst 25% fettstoffer totalt (kakaosmør og melkefett).
+2. Hvis betegnelsen melkesjokolade suppleres med:
+
+   - dryss eller flak: skal produktet i form av dryss eller flak inneholde minst 20% kakaotørrstoff og minst 12% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett hvor totalt innholde av fett er minst 12% (kakaosmør og melkefett).
+   - overtrekk: skal produktet inneholde minst 31% fett (kakaosmør og melkefett).
+   - «Gianduia» (eller et ord avledet av «gianduia») nøttesjokolade: skal produktet fremstilles av for det første melkesjokolade som inneholder minst 10% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett og for det andre av finmalte hasselnøtter i en slik mengde at 100 g av produktet inneholder minst 15 g og maksimum 40 g hasselnøtter. Det kan også tilsettes hele eller hakkede mandler, hasselnøtter og andre nøttesorter i slike mengder, at de sammen med de finmalte hasselnøtter utgjør maksimum 60% av produktets samlede vekt.
+3. Når i betegnelsen melkesjokolade ordet «melk» erstattes med:
+
+   - «fløte»: skal produktet inneholde minst 5,5% melkefett.
+   - «skummetmelk»: skal produktet inneholde maksimum 1% melkefett.
 
 *5. Lys melkesjokolade*
 
-Et produkt fremstilt av kakaoprodukter, sukker og melk eller melkeprodukter, som inneholder:minst 20% kakaotørrstoff,minst 20% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett,minst 2,5% avfettet kakaotørrstoff,minst 5% melkefett,minst 25% fettstoffer totalt (kakaosmør og melkefett).
+Et produkt fremstilt av kakaoprodukter, sukker og melk eller melkeprodukter, som inneholder:
+
+- minst 20% kakaotørrstoff,
+- minst 20% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett,
+- minst 2,5% avfettet kakaotørrstoff,
+- minst 5% melkefett,
+- minst 25% fettstoffer totalt (kakaosmør og melkefett).
 
 *6. Hvit sjokolade*
 
@@ -145,7 +180,10 @@ Et produkt fremstilt av kakaoprodukter og sukker i tillegg til stivelse av hvete
 
 *10. Sjokoladekonfekt*
 
-Et produkt i munnfulls størrelse som består avfylt sjokolade ellerren sjokolade eller en blanding av sjokolade som definert i punktene 3, 4, 5 eller 6 og andre spiselige stoffer, forutsatt at sjokoladedelen utgjør minst 25% av produktets samlede vekt.
+Et produkt i munnfulls størrelse som består av
+
+- fylt sjokolade eller
+- ren sjokolade eller en blanding av sjokolade som definert i punktene 3, 4, 5 eller 6 og andre spiselige stoffer, forutsatt at sjokoladedelen utgjør minst 25% av produktets samlede vekt.
 
 *B. Ingredienser som kan inngå i kakao- og sjokoladeprodukter, krav til disse og begrensninger i bruk*
 
@@ -174,7 +212,11 @@ Med sukker forstås også andre former for sukker enn de som omfattes av gjelden
 
 ## Vedlegg II. Andre vegetabilske fettstoffer
 
-De vegetabilske fettstoffene som er omtalt i [§ 3](forskrift/2002-09-09-986/§3), er ublandede eller blandede kakaosmørerstatninger og skal være i overensstemmelse med følgende kriterier:de er vegetabilske fettstoffer uten innhold av laurinsyre med stort innhold av symetriske monoumettede triglyserider av POP-, POSt- og StOSt-typen1de kan i hvilket som helst forhold blandes med kakaosmør og er forenlige med kakaosmørets fysiske egenskaper (smeltepunkt og krystalliseringstemperatur, smeltehastighet, behov for temperering)de fremstilles utelukkende ved raffinering og/eller fraksjonering. Enzymatisk endring av triglyseridstrukturen er ikke tillatt.
+De vegetabilske fettstoffene som er omtalt i [§ 3](forskrift/2002-09-09-986/§3), er ublandede eller blandede kakaosmørerstatninger og skal være i overensstemmelse med følgende kriterier:
+
+1. de er vegetabilske fettstoffer uten innhold av laurinsyre med stort innhold av symetriske monoumettede triglyserider av POP-, POSt- og StOSt-typen1
+2. de kan i hvilket som helst forhold blandes med kakaosmør og er forenlige med kakaosmørets fysiske egenskaper (smeltepunkt og krystalliseringstemperatur, smeltehastighet, behov for temperering)
+3. de fremstilles utelukkende ved raffinering og/eller fraksjonering. Enzymatisk endring av triglyseridstrukturen er ikke tillatt.
 
 I overensstemmelse med disse kriterier kan følgende vegetabilske fettstoffer utvunnet av planter angitt nedenfor anvendes:
 

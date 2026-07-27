@@ -30,7 +30,20 @@ Denne forskriften gjelder for norske passasjerskip som etter sitt sertifikat kan
 
 ## § 2. Definisjoner
 
-I denne forskriften gjelder følgende definisjoner:*hurtiggående fartøy:* skip som definert i kapittel X regel 1 i Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 (SOLAS) konsolidert utgave*ISM-koden (International Safety Management (ISM) Code):* internasjonal norm for sikkerhetsstyring for drift av skip og hindring av forurensning, vedtatt av IMO ved resolusjon A.741(18) med senere endringer*personer om bord:* alle som er om bord, uansett alder*passasjerskip:* et skip som kan føre flere enn 12 passasjerer*registreringsansvarlig:* en person rederiet harutpekt som ansvarlig for oppfyllelse av forpliktelsene i henhold til ISM-koden, ellerpålagt ansvaret for rapportering av opplysninger om personene om bord på skip som tilhører rederiet*rutefart:* en rekke overfarter med skip som seiler mellom to eller flere havner, eller en rekke reiser fra og til samme havn uten andre anløpetter en offentliggjort ruteplan, ellermed så regelmessige eller hyppige overfarter at de får en klart systematisk karakter.
+I denne forskriften gjelder følgende definisjoner:
+
+1. *hurtiggående fartøy:* skip som definert i kapittel X regel 1 i Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 (SOLAS) konsolidert utgave
+2. *ISM-koden (International Safety Management (ISM) Code):* internasjonal norm for sikkerhetsstyring for drift av skip og hindring av forurensning, vedtatt av IMO ved resolusjon A.741(18) med senere endringer
+3. *personer om bord:* alle som er om bord, uansett alder
+4. *passasjerskip:* et skip som kan føre flere enn 12 passasjerer
+5. *registreringsansvarlig:* en person rederiet har
+
+   1. utpekt som ansvarlig for oppfyllelse av forpliktelsene i henhold til ISM-koden, eller
+   2. pålagt ansvaret for rapportering av opplysninger om personene om bord på skip som tilhører rederiet
+6. *rutefart:* en rekke overfarter med skip som seiler mellom to eller flere havner, eller en rekke reiser fra og til samme havn uten andre anløp
+
+   1. etter en offentliggjort ruteplan, eller
+   2. med så regelmessige eller hyppige overfarter at de får en klart systematisk karakter.
 
 > Endret ved [forskrifter 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [23 juni 2015 nr. 731](forskrift/2015-06-23-731) (i kraft 1 juli 2015), [9 okt 2023 nr. 1596](forskrift/2023-10-09-1596).
 
@@ -62,7 +75,13 @@ I denne forskriften gjelder følgende definisjoner:*hurtiggående fartøy:* skip
 
 ## § 6. Reiser hvor de enkelte strekningene er på 20 nautiske mil eller mer
 
-(1) På passasjerskip som avgår fra norsk havn for å foreta reiser hvor de enkelte strekningene er på 20 nautiske mil eller mer, skal følgende opplysninger om alle personer om bord registreres:etternavnfornavnkjønnnasjonalitetfødselsdato.
+(1) På passasjerskip som avgår fra norsk havn for å foreta reiser hvor de enkelte strekningene er på 20 nautiske mil eller mer, skal følgende opplysninger om alle personer om bord registreres:
+
+1. etternavn
+2. fornavn
+3. kjønn
+4. nasjonalitet
+5. fødselsdato.
 
 (2) Dersom en passasjer ber om det, skal rederiet forsikre seg om at opplysninger som er nødvendige for særlig behandling eller bistand i ulykkestilfeller registreres og meddeles skipets fører før avgang.
 
@@ -74,7 +93,11 @@ I denne forskriften gjelder følgende definisjoner:*hurtiggående fartøy:* skip
 
 (1) Norske passasjerskip som avgår fra en havn i et land utenfor EØS-området for å anløpe en havn innenfor EØS-området, skal registrere opplysningene i [§ 5](forskrift/1999-09-06-1047/§5) første ledd og [§ 6](forskrift/1999-09-06-1047/§6) første og annet ledd, og rapportere til nasjonal meldeportal i landet skipet skal anløpe.
 
-(2) Passasjerskip som seiler under flagget til et land utenfor EØS-området, og som avgår fra en havn utenfor EØS-området for å anløpe norsk havn, skal kunne dokumentere atalle personer om bord ble opptalt før avgang utenlandsk havnskipet ikke har flere personer om bord enn det skipets sertifikat tillateropplysningene etter [§ 6](forskrift/1999-09-06-1047/§6) første og annet ledd ble innhentet før avgang og rapportert til SafeSeaNet Norway, senest 15 minutter etter avgang.
+(2) Passasjerskip som seiler under flagget til et land utenfor EØS-området, og som avgår fra en havn utenfor EØS-området for å anløpe norsk havn, skal kunne dokumentere at
+
+1. alle personer om bord ble opptalt før avgang utenlandsk havn
+2. skipet ikke har flere personer om bord enn det skipets sertifikat tillater
+3. opplysningene etter [§ 6](forskrift/1999-09-06-1047/§6) første og annet ledd ble innhentet før avgang og rapportert til SafeSeaNet Norway, senest 15 minutter etter avgang.
 
 > Tilføyd ved forskrift [9 okt 2023 nr. 1596](forskrift/2023-10-09-1596).
 
@@ -86,7 +109,12 @@ Opplysninger som er samlet inn etter bestemmelsene i [§ 5](forskrift/1999-09-06
 
 ## § 8. Dispensasjon
 
-(1) Sjøfartsdirektoratet kan etter søknad unnta et passasjerskip i rutefart, som avgår fra norsk havn, fra plikten til å rapportere antallet personer om bord til SafeSeaNet Norway når følgende vilkår foreligger:passasjerskipet seiler utelukkende i havområde D eller mindrereisetiden mellom de enkelte havnene er mindre enn 60 minutterdet er søk- og redningsressurser i områdetpassasjerskipet ikke er hurtiggående.
+(1) Sjøfartsdirektoratet kan etter søknad unnta et passasjerskip i rutefart, som avgår fra norsk havn, fra plikten til å rapportere antallet personer om bord til SafeSeaNet Norway når følgende vilkår foreligger:
+
+1. passasjerskipet seiler utelukkende i havområde D eller mindre
+2. reisetiden mellom de enkelte havnene er mindre enn 60 minutter
+3. det er søk- og redningsressurser i området
+4. passasjerskipet ikke er hurtiggående.
 
 (2) Sjøfartsdirektoratet kan etter søknad unnta et passasjerskip som avgår fra norsk havn fra pliktene som følger av [§ 6](forskrift/1999-09-06-1047/§6) første og annet ledd, dersom reisen foregår utelukkende i havområde D eller mindre, enten mellom to havner, eller fra og til samme havn uten å anløpe andre havner, og det finnes søk- og redningsressurser i området.
 
@@ -94,7 +122,13 @@ Opplysninger som er samlet inn etter bestemmelsene i [§ 5](forskrift/1999-09-06
 
 (4) Dersom ESA finner at et unntak etter [§ 8](forskrift/1999-09-06-1047/§8) tredje ledd er uberettiget eller kan få skadelige virkninger for konkurransen, kan ESA senest innen seks måneder kreve at Sjøfartsdirektoratet endrer eller opphever unntaket.
 
-(5) Sjøfartsdirektoratet kan etter søknad fra rederiet be ESA om helt eller delvis å unnta et passasjerskip i rutefart i havområde D eller større havområde, fra pliktene i [§ 6](forskrift/1999-09-06-1047/§6) når skipet utelukkende seiler i innenriks fart eller mellom havner i to EØS-stater, og rederiet kan dokumentere at følgende vilkår er oppfylt:det er upraktisk for rederiet å registrere informasjonen.sannsynligheten for at bølgehøyden i området overstiger to meter, er mindre enn 10 % målt på årsbasis.lengden på reisens enkelte strekninger ikke overstiger ca. 30 nautiske mil, eller hovedformålet med ruten er av alminnelige hensyn å opprettholde regelmessige forbindelser til fjerntliggende samfunn.området som passasjerskipet seiler i, er dekket av landbasert navigasjonsveiledning og pålitelige værmeldinger for området er tilgjengelige.det skal være passende og tilstrekkelig søk- og redningstjeneste i området.
+(5) Sjøfartsdirektoratet kan etter søknad fra rederiet be ESA om helt eller delvis å unnta et passasjerskip i rutefart i havområde D eller større havområde, fra pliktene i [§ 6](forskrift/1999-09-06-1047/§6) når skipet utelukkende seiler i innenriks fart eller mellom havner i to EØS-stater, og rederiet kan dokumentere at følgende vilkår er oppfylt:
+
+1. det er upraktisk for rederiet å registrere informasjonen.
+2. sannsynligheten for at bølgehøyden i området overstiger to meter, er mindre enn 10 % målt på årsbasis.
+3. lengden på reisens enkelte strekninger ikke overstiger ca. 30 nautiske mil, eller hovedformålet med ruten er av alminnelige hensyn å opprettholde regelmessige forbindelser til fjerntliggende samfunn.
+4. området som passasjerskipet seiler i, er dekket av landbasert navigasjonsveiledning og pålitelige værmeldinger for området er tilgjengelige.
+5. det skal være passende og tilstrekkelig søk- og redningstjeneste i området.
 
 > Endret ved [forskrifter 23 juni 2015 nr. 731](forskrift/2015-06-23-731) (i kraft 1 juli 2015), [9 okt 2023 nr. 1596](forskrift/2023-10-09-1596).
 

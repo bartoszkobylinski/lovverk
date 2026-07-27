@@ -27,7 +27,12 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I denne forskriften menes med*ansatt:* person som arbeider i foretaket eller er i lovfestet permisjon. Ferievikarer anses likevel ikke som ansatt.*hovedstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig minst 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art.*deltidsstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig mindre enn 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art. Når det i denne forskriften kreves et bestemt antall ansatte, telles hver ansatt i deltidsstilling som en halv.*lokal fagforening:* fagforening i foretaket eller avdeling av fagforening i foretaket som utelukkende har ansatte i foretaket som medlemmer, og som er bundet av tariffavtale med foretaket eller arbeidsgiverorganisasjon som foretaket er medlem av (bedriftsklubb e.l.).
+I denne forskriften menes med
+
+1. *ansatt:* person som arbeider i foretaket eller er i lovfestet permisjon. Ferievikarer anses likevel ikke som ansatt.
+2. *hovedstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig minst 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art.
+3. *deltidsstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig mindre enn 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art. Når det i denne forskriften kreves et bestemt antall ansatte, telles hver ansatt i deltidsstilling som en halv.
+4. *lokal fagforening:* fagforening i foretaket eller avdeling av fagforening i foretaket som utelukkende har ansatte i foretaket som medlemmer, og som er bundet av tariffavtale med foretaket eller arbeidsgiverorganisasjon som foretaket er medlem av (bedriftsklubb e.l.).
 
 ### § 2. Næringsmessig avgrensning
 
@@ -245,7 +250,10 @@ Konsernet og et flertall av de ansatte eller lokale fagforeninger som represente
 
 ### § 22. Avtale om unntak ved felles representasjonsordning
 
-Ved felles representasjonsordning, kan konsernet og et flertall av de ansatte i konsernet eller lokale fagforeninger som representerer et flertall av de ansatte i konsernet, inngå skriftlig avtale omgjennomgående styrerepresentasjon for de ansattevalgte styremedlemmer, observatører og varamedlemmer,valgkretser.
+Ved felles representasjonsordning, kan konsernet og et flertall av de ansatte i konsernet eller lokale fagforeninger som representerer et flertall av de ansatte i konsernet, inngå skriftlig avtale om
+
+1. gjennomgående styrerepresentasjon for de ansattevalgte styremedlemmer, observatører og varamedlemmer,
+2. valgkretser.
 
 Endring av avtale må skje på samme vilkår som etablering av avtale etter første ledd.
 

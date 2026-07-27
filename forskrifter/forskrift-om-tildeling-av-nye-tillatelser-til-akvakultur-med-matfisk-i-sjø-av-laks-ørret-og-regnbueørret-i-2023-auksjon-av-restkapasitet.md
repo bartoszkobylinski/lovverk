@@ -15,7 +15,7 @@ xml_hash: "8ed05083ac535f0ae10a1afba2b6269297e3a183a9c504c5054bf4c2fcc87673"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -85,7 +85,11 @@ Fiskeridirektoratet vil rangere inngitte bud etter spesifisert pris per tonn jf.
 
 Allokeringen av produksjonskapasitet skjer i to steg.
 
-Allokering steg 1: Vinnende bud velges ved at det høyest rangerte budet tildeles ønsket mengde, deretter det nest høyest rangerte budet og så videre. I steg 1 benyttes ikke avkortning, slik at alle bud må vinne ønsket mengde. Tildelingen pågår inntil:alle inngitte bud i det aktuelle produksjonsområdet er tildelt ønsket mengde og det gjenstår produksjonskapasitet. Totalt vederlag fastsettes til tildelt mengde multiplisert med minstepris per tonn. Tildeling avsluttes med usolgt produksjonskapasitet.alle/noen inngitte bud i det aktuelle produksjonsområdet er tildelt ønsket mengde, og det gjenstår ikke produksjonskapasitet. Totalt vederlag fastsettes til tildelt mengde multiplisert med pris per tonn for det lavest rangerte budet som tildeles produksjonskapasitet. Tildelingen avsluttes.det ikke gjenstår nok produksjonskapasitet til å tildele det neste rangerte budet i sin helhet. Vederlag fastsettes til tildelt mengde multiplisert med pris per tonn for det høyest rangerte budet som ikke ble tildelt produksjonskapasitet.
+Allokering steg 1: Vinnende bud velges ved at det høyest rangerte budet tildeles ønsket mengde, deretter det nest høyest rangerte budet og så videre. I steg 1 benyttes ikke avkortning, slik at alle bud må vinne ønsket mengde. Tildelingen pågår inntil:
+
+1. alle inngitte bud i det aktuelle produksjonsområdet er tildelt ønsket mengde og det gjenstår produksjonskapasitet. Totalt vederlag fastsettes til tildelt mengde multiplisert med minstepris per tonn. Tildeling avsluttes med usolgt produksjonskapasitet.
+2. alle/noen inngitte bud i det aktuelle produksjonsområdet er tildelt ønsket mengde, og det gjenstår ikke produksjonskapasitet. Totalt vederlag fastsettes til tildelt mengde multiplisert med pris per tonn for det lavest rangerte budet som tildeles produksjonskapasitet. Tildelingen avsluttes.
+3. det ikke gjenstår nok produksjonskapasitet til å tildele det neste rangerte budet i sin helhet. Vederlag fastsettes til tildelt mengde multiplisert med pris per tonn for det høyest rangerte budet som ikke ble tildelt produksjonskapasitet.
 
 Allokering steg 2: Gitt at scenariet i andre ledd bokstav c inntreffer vil gjenværende produksjonskapasitet tildeles basert på rangering av gjenværende bud. I steg 2 av tildelingen benyttes avkortning ved behov. For produksjonskapasitet tildelt gjennom steg 2 fastsettes vederlag per bud til tildelt mengde multiplisert med budets oppgitte pris per tonn.
 
@@ -115,7 +119,11 @@ Et selskap må være registrert med organisasjonsnummer i Brønnøysundregistren
 
 ### § 9. Krav for registrering og budgivning
 
-For å delta i auksjonen må foretaket:fylle ut fastsatt registreringsskjema, inkludert opplasting av budgivningsskjema, firmaattest, aksept av auksjonsreglementet, samt gi informasjon om konsernforhold og tilknyttede selskap jf. annet ledd.laste opp skjema om dokumentasjon på betalingsevne.tilfredsstille krav til finansiell situasjon og avgi egenerklæring om dette i henhold til [§ 10](forskrift/2023-09-21-1464/§10).
+For å delta i auksjonen må foretaket:
+
+1. fylle ut fastsatt registreringsskjema, inkludert opplasting av budgivningsskjema, firmaattest, aksept av auksjonsreglementet, samt gi informasjon om konsernforhold og tilknyttede selskap jf. annet ledd.
+2. laste opp skjema om dokumentasjon på betalingsevne.
+3. tilfredsstille krav til finansiell situasjon og avgi egenerklæring om dette i henhold til [§ 10](forskrift/2023-09-21-1464/§10).
 
 Det kan ikke registreres flere selskap tilhørende samme konsern, jf. [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3). Foretak skal opplyse om tilknyttede selskap, jf. [regnskapsloven § 1-4](lov/1998-07-17-56/§1-4).
 
@@ -123,13 +131,22 @@ Registreringen skjer elektronisk på Fiskeridirektoratets nettside. Frist for re
 
 Bud kan ikke innleveres etter at fristen i tredje ledd er gått ut. Innleverte bud kan ikke endres etter at fristen i tredje ledd er gått ut.
 
-Fiskeridirektoratet skal avvise registreringen og budgivningen dersom:den er levert for sent, ellerdersom den inneholder vesentlige feil og mangler.
+Fiskeridirektoratet skal avvise registreringen og budgivningen dersom:
+
+1. den er levert for sent, eller
+2. dersom den inneholder vesentlige feil og mangler.
 
 Dersom registreringsdokumentene har feil eller mangler vil budgiver bli gitt en kort frist til å rette disse.
 
 ### § 10. Finansiell situasjon
 
-En budgiver kan ikkevære ute av stand til å oppfylle sine betalingsforpliktelser,ha åpnet gjeldsforhandlinger,være insolvent eller være underlagt begjæring om konkurs eller opphør,ha begjært frivillig opphør, ellervære gjenstand for konkursbehandling eller være konkurs.
+En budgiver kan ikke
+
+1. være ute av stand til å oppfylle sine betalingsforpliktelser,
+2. ha åpnet gjeldsforhandlinger,
+3. være insolvent eller være underlagt begjæring om konkurs eller opphør,
+4. ha begjært frivillig opphør, eller
+5. være gjenstand for konkursbehandling eller være konkurs.
 
 Budgiver skal gjennom registreringsskjemaet avgi erklæring om egen finansiell situasjon.
 
@@ -141,10 +158,12 @@ For det tilfelle det oppstår ekstraordinære hendelser kan departementet utsett
 
 ### § 12. Innbetaling av vederlag
 
-Vinner av auksjonen plikter å betale vederlag innen 15 dager, inkludert helligdager, fra mottatt notifikasjon om vinnende bud, tilFiskeridirektoratet,
-Økonomiseksjonen,
-Postboks 185 Sentrum,
-5804 Bergen.
+Vinner av auksjonen plikter å betale vederlag innen 15 dager, inkludert helligdager, fra mottatt notifikasjon om vinnende bud, til
+
+- Fiskeridirektoratet,
+  Økonomiseksjonen,
+  Postboks 185 Sentrum,
+  5804 Bergen.
 
 Beløpet betales til kontonummer 7694.05.09048 og innbetalingen merkes i henhold til direktoratets instruksjoner.
 

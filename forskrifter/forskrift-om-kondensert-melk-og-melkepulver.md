@@ -15,7 +15,7 @@ xml_hash: "2f8daaa0817e5a58d5afc1a1016fae3f7a12e94e9c9e673972a1bd7b796c415d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,12 @@ Varebetegnelsene i vedlegg 1 er forbeholdt produktene som er definert der.
 
 Produktene som omfattes av denne forskriften skal ved omsetning være merket etter gjeldende forskrifter om merking mv. av næringsmidler, identifikasjonsmerking av næringsmiddelpartier og deklarasjon av næringsinnhold, med de tillegg og unntak som følger av denne forskriften.
 
-Disse tilleggene og unntakene er:I merkingen skal melkefettinnholdet angis i vektprosent av det ferdige produktet. Dette gjelder ikke for produktene som er definert i vedlegg 1 nr. 1 bokstav d, g, og nr. 2 bokstav d. Det prosentvise innhold fettfritt melketørrstoff skal angis for produktene som er definert i vedlegg 1 nr. 1. Angivelsen skal gis i samme synsfelt som varebetegnelsen.For produktene som er definert i vedlegg 1 nr. 2 skal merkingen inneholde bruksanvisning for oppløsnings- eller rekonstitueringsmåten. Fettinnholdet i det oppløste eller rekonstituerte produktet skal angis.Produkter som veier under 20 g pr. enhet kan merkes med bare varebetegnelsen hvis de pakkes i en felles ytteremballasje som er merket i samsvar med denne forskriften.For produktene som er definert i vedlegg 1 nr. 2 skal det angis i merkingen at «produktet ikke er beregnet som næringsmiddel for barn under 12 måneder».
+Disse tilleggene og unntakene er:
+
+1. I merkingen skal melkefettinnholdet angis i vektprosent av det ferdige produktet. Dette gjelder ikke for produktene som er definert i vedlegg 1 nr. 1 bokstav d, g, og nr. 2 bokstav d. Det prosentvise innhold fettfritt melketørrstoff skal angis for produktene som er definert i vedlegg 1 nr. 1. Angivelsen skal gis i samme synsfelt som varebetegnelsen.
+2. For produktene som er definert i vedlegg 1 nr. 2 skal merkingen inneholde bruksanvisning for oppløsnings- eller rekonstitueringsmåten. Fettinnholdet i det oppløste eller rekonstituerte produktet skal angis.
+3. Produkter som veier under 20 g pr. enhet kan merkes med bare varebetegnelsen hvis de pakkes i en felles ytteremballasje som er merket i samsvar med denne forskriften.
+4. For produktene som er definert i vedlegg 1 nr. 2 skal det angis i merkingen at «produktet ikke er beregnet som næringsmiddel for barn under 12 måneder».
 
 > Endret ved [forskrift 9 jan 2004 nr. 147](forskrift/2004-01-09-147).
 
@@ -84,29 +89,70 @@ Kondensert melk er det flytende produktet, søtet eller usøtet, som framkommer 
 
 – Ulike typer usøtet kondensert melk:
 
-1. Usøtet kondensert melk med høyt fettinnholdKondensert melk med minimum 15 vektprosent fett og minimum 26,5 vektprosent melketørrstoff totalt.
-2. Usøtet kondensert melkKondensert melk med minimum 7,5 vektprosent fett og minimum 25 vektprosent melketørrstoff totalt.
-3. Usøtet kondensert delvis skummet melkKondensert melk med minimum 1 og mindre enn 7,5 vektprosent fett, og minimum 20 vektprosent melketørrstoff totalt.
-4. Usøtet kondensert skummet melkKondensert melk med maksimum 1 vektprosent fett og minimum 20 vektprosent melketørrstoff totalt.
+1. Usøtet kondensert melk med høyt fettinnhold
+
+   Kondensert melk med minimum 15 vektprosent fett og minimum 26,5 vektprosent melketørrstoff totalt.
+2. Usøtet kondensert melk
+
+   Kondensert melk med minimum 7,5 vektprosent fett og minimum 25 vektprosent melketørrstoff totalt.
+3. Usøtet kondensert delvis skummet melk
+
+   Kondensert melk med minimum 1 og mindre enn 7,5 vektprosent fett, og minimum 20 vektprosent melketørrstoff totalt.
+4. Usøtet kondensert skummet melk
+
+   Kondensert melk med maksimum 1 vektprosent fett og minimum 20 vektprosent melketørrstoff totalt.
 
 – Ulike typer søtet kondensert melk:
 
-1. Søtet kondensert melkKondensert melk tilsatt sukrose (halvhvitt sukker, hvitt sukker eller raffinert hvitt sukker), med minimum 8 vektprosent fett og minimum 28 vektprosent melketørrstoff totalt.
-2. Søtet kondensert delvis skummet melkKondensert melk tilsatt sukrose (halvhvitt sukker, hvitt sukker eller raffinert hvitt sukker), med minimum 1 og mindre enn 8 vektprosent fett og minimum 24 vektprosent melketørrstoff totalt.
-3. Søtet kondensert skummet melkKondensert melk tilsatt sukrose (halvhvitt sukker, hvitt sukker eller raffinert hvitt sukker), med maksimum 1 vektprosent fett og minimum 24 vektprosent melketørrstoff totalt.
+1. Søtet kondensert melk
+
+   Kondensert melk tilsatt sukrose (halvhvitt sukker, hvitt sukker eller raffinert hvitt sukker), med minimum 8 vektprosent fett og minimum 28 vektprosent melketørrstoff totalt.
+2. Søtet kondensert delvis skummet melk
+
+   Kondensert melk tilsatt sukrose (halvhvitt sukker, hvitt sukker eller raffinert hvitt sukker), med minimum 1 og mindre enn 8 vektprosent fett og minimum 24 vektprosent melketørrstoff totalt.
+3. Søtet kondensert skummet melk
+
+   Kondensert melk tilsatt sukrose (halvhvitt sukker, hvitt sukker eller raffinert hvitt sukker), med maksimum 1 vektprosent fett og minimum 24 vektprosent melketørrstoff totalt.
 
 2\) *Melkepulver*
 
-Melkepulver er det produktet i pulverform som framkommer ved fjerning av vann fra melk til det gjenstår maksimum 5 vektprosent vann. Melkeråvaren kan være helmelk, helt eller delvis skummet melk, fløte eller en blanding av forannevnte.Melkepulver med høyt fettinnholdMelkepulver med minimum 42 vektprosent fett.Melkepulver av helmelkMelkepulver med minimum 26 og mindre enn 42 vektprosent fett.Melkepulver av delvis skummet melkMelkepulver med mer enn 1,5 og mindre enn 26 vektprosent fett.Melkepulver av skummet melkMelkepulver med maksimum 1,5 vektprosent fett.
+Melkepulver er det produktet i pulverform som framkommer ved fjerning av vann fra melk til det gjenstår maksimum 5 vektprosent vann. Melkeråvaren kan være helmelk, helt eller delvis skummet melk, fløte eller en blanding av forannevnte.
+
+1. Melkepulver med høyt fettinnhold
+
+   Melkepulver med minimum 42 vektprosent fett.
+2. Melkepulver av helmelk
+
+   Melkepulver med minimum 26 og mindre enn 42 vektprosent fett.
+3. Melkepulver av delvis skummet melk
+
+   Melkepulver med mer enn 1,5 og mindre enn 26 vektprosent fett.
+4. Melkepulver av skummet melk
+
+   Melkepulver med maksimum 1,5 vektprosent fett.
 
 3\) *Framstilling*
 
 1. Ved framstilling av produktene som er definert i vedlegg 1 nr. 1 bokstav e, f og g, er det tillatt å tilsette laktose i en mengde på maksimum 0,03 vektprosent av det ferdige produktet.
-2. Med forbehold for bestemmelsene i forskrift om særlige hygieneregler for næringsmidler av animalsk opprinnelse, konserveres produktene i nr. 1 og 2 på følgende måter:ved varmebehandling (sterilisering, UHT osv.) for produktene i vedlegg 1 nr. 1 bokstav a, b, c og d,ved tilsetning av sukrose for produktene i vedlegg 1 nr. 1 bokstav e, f og g,ved fjerning av vann for produktene i vedlegg 1 nr. 2.
+2. Med forbehold for bestemmelsene i forskrift om særlige hygieneregler for næringsmidler av animalsk opprinnelse, konserveres produktene i nr. 1 og 2 på følgende måter:
+
+   - ved varmebehandling (sterilisering, UHT osv.) for produktene i vedlegg 1 nr. 1 bokstav a, b, c og d,
+   - ved tilsetning av sukrose for produktene i vedlegg 1 nr. 1 bokstav e, f og g,
+   - ved fjerning av vann for produktene i vedlegg 1 nr. 2.
 3. Med forbehold for kravene til sammensetning i dette vedleggets [pkt. 1](forskrift/2003-07-08-930/kap1) og 2, kan proteininnholdet i melk justeres til et minimumsnivå på 34 vektprosent (uttrykt i fettfritt tørrstoff) gjennom tilsetning og/eller fjerning av melkebestanddeler på en slik måte at forholdet mellom myseprotein og kasein ikke endres i melken.
 
 4\) *Tillatte råvarer for justering av proteininnhold*
 
-For justering av proteininnhold kan følgende råvarer brukes:Retentat fra melkRetentat er det produktet som framkommer når melkeprotein konsentreres ved ultrafiltrering av melk. Melkeråvaren kan være helmelk, delvis skummet melk eller skummet melk.Permeat fra melkPermeat er det produktet som framkommer når melkeprotein og melkefett fjernes ved ultrafiltrering av melk. Melkeråvaren kan være helmelk, delvis skummet melk eller skummet melk.LaktoseLaktose er en naturlig bestanddel i melk, vanligvis framstilt fra myse. Mysen har et vannfritt laktoseinnhold på minst 99,0 % m/m uttrykt som tørrstoff. Laktosen kan være vannfri eller inneholde ett molekyl krystallvann, eller være en blanding av begge formene.
+For justering av proteininnhold kan følgende råvarer brukes:
+
+- Retentat fra melk
+
+  Retentat er det produktet som framkommer når melkeprotein konsentreres ved ultrafiltrering av melk. Melkeråvaren kan være helmelk, delvis skummet melk eller skummet melk.
+- Permeat fra melk
+
+  Permeat er det produktet som framkommer når melkeprotein og melkefett fjernes ved ultrafiltrering av melk. Melkeråvaren kan være helmelk, delvis skummet melk eller skummet melk.
+- Laktose
+
+  Laktose er en naturlig bestanddel i melk, vanligvis framstilt fra myse. Mysen har et vannfritt laktoseinnhold på minst 99,0 % m/m uttrykt som tørrstoff. Laktosen kan være vannfri eller inneholde ett molekyl krystallvann, eller være en blanding av begge formene.
 
 > Vedlegget endret ved [forskrifter 9 jan 2004 nr. 147](forskrift/2004-01-09-147), [12 sep 2008 nr. 1012](forskrift/2008-09-12-1012).

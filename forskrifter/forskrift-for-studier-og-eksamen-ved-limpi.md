@@ -15,7 +15,7 @@ xml_hash: "90b6f8c2cfa2ef088aeca531042cd53a8c83a4605b9a5bfe74ac5084f475bb72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,12 @@ Forskriften gjelder for alle studier og emner ved LIMPI. Forskriften skal sikre 
 
 ### § 3. Innhold i studieplan
 
-1\. Studier ved LIMPI er organisert i flere emner. Studieplanen fastsetter:Mål, omfang, faglig innhold, organisering, arbeidsformer, læringsutbytte og vurderingsordningerAnbefalte forkunnskaper og opptakskravFaglig beskrivelse av emnene som inngår i studietObligatoriske arbeidskrav for å gå opp til eksamen.
+1\. Studier ved LIMPI er organisert i flere emner. Studieplanen fastsetter:
+
+- Mål, omfang, faglig innhold, organisering, arbeidsformer, læringsutbytte og vurderingsordninger
+- Anbefalte forkunnskaper og opptakskrav
+- Faglig beskrivelse av emnene som inngår i studiet
+- Obligatoriske arbeidskrav for å gå opp til eksamen.
 
 2\. Studieplanen vedtas av styret.
 
@@ -82,7 +87,13 @@ Styret fastsetter årlig opptaksramme for studiet. Studiet er adgangsregulert gr
 
 1\. Fullført bachelorgrad i utøvende musikk, musikkproduksjon, music management eller tilsvarende. Søkere med bachelorgrad i musikkrelaterte fag vil også kunne bli vurdert. Søkere med utdannelse og/eller praktisk erfaring tilsvarende en av de definerte bachelorgradene kan bli gitt opptak på bakgrunn av individuell vurdering.
 
-2\. Innsendt opptaksprøve.Opptaksprøven består av 2 obligatoriske oppgaver.Oppgave 1: Søker blir bedt om å sende inn inntil tre kunstneriske arbeider og beskrive søkerens rolle i disse, valg og begrunnelse av løsninger underveis og refleksjoner rundt resultatet. Beskrivelsene skal ha form som et skriftlig notat eller videopresentasjon (2–3 sider/minutter for hvert arbeid) og utformes på engelsk. Lengde på hver av de kunstriske arbeidene eller utdrag av disse skal ikke overskride 4 minutt.Oppgave 2: søker blir bedt om å gi en generell beskrivelse av søkerens motivasjon og erfaringer for å arbeide profesjonelt i internasjonal musikkindustri. Beskrivelsen skal ha form som et skriftlig notat eller videopresentasjon (1–2 sider/1–2 minutt) og utformes på engelsk.
+2\. Innsendt opptaksprøve.
+
+Opptaksprøven består av 2 obligatoriske oppgaver.
+
+Oppgave 1: Søker blir bedt om å sende inn inntil tre kunstneriske arbeider og beskrive søkerens rolle i disse, valg og begrunnelse av løsninger underveis og refleksjoner rundt resultatet. Beskrivelsene skal ha form som et skriftlig notat eller videopresentasjon (2–3 sider/minutter for hvert arbeid) og utformes på engelsk. Lengde på hver av de kunstriske arbeidene eller utdrag av disse skal ikke overskride 4 minutt.
+
+Oppgave 2: søker blir bedt om å gi en generell beskrivelse av søkerens motivasjon og erfaringer for å arbeide profesjonelt i internasjonal musikkindustri. Beskrivelsen skal ha form som et skriftlig notat eller videopresentasjon (1–2 sider/1–2 minutt) og utformes på engelsk.
 
 3\. Krav til engelsk. Søker må dokumentere tilfredsstillende engelskkunnskaper gjennom Test of English as a Foreign Language (Toefl-test) med minst 60 poeng på internettbasert test (iBT) eller 500 poeng på papirbasert test (PBT) eller International English Language Testing Service (IELTS) Academy test med minimum 5,0 poeng. Søkere som har hatt engelsk som studie eller arbeidsspråk i mer enn ett år og kan dokumentere dette gjennom vitnemål fra studiested eller bekreftelse fra arbeidsgiver/oppdragsgiver er fritatt krav om språktest. Andre forhold kan i særskilte tilfeller gi fritak fra engelsktest.
 
@@ -133,7 +144,9 @@ Divider summen med total antall studiepoeng som har bokstavkarakter: 60/25=2,4
 
 9\. Søkere med utdannelse og/eller praktisk erfaring tilsvarende en av de definerte bachelorgradene kan bli gitt opptak på bakgrunn av individuell vurdering. Komiteen vil foreta en individuell vurdering av hvorvidt søker har faglige forutsetninger for å gjennomføre studieprogrammet. Det vil legges vekt på utdanningen og erfaringenes relevans, omfang og søkers dokumenterte roller i produksjoner. I liten grad, gir 5 poeng, i tilfredsstillende grad gir 10 poeng og høy grad gir 15 poeng. For søkere med praktisk utdannelse og erfaring tilsvarende en av de definerte bachelorgradene gjelder samme krav og vurdering av opptaksprøvens innhold og kvalitet som for søkere på grunnlag av bestått bachelorgrad.
 
-10\. Poengfordeling opptaksprøvens innhold og kvalitet.Opptaksprøven er lagt opp slik at søkere skal ha mulighet til å vise at de har et nødvendig musikalsk /faglig ferdighetsnivå for å gjennomføre studieprogrammet, at de har personlig modenhet, evne til refleksjon og er bevisste rundt mål for egen karriere. Operasjonalisering av vurderingsgrunnlaget og poengfordeling er beskrevet i tabell 1:
+10\. Poengfordeling opptaksprøvens innhold og kvalitet.
+
+Opptaksprøven er lagt opp slik at søkere skal ha mulighet til å vise at de har et nødvendig musikalsk /faglig ferdighetsnivå for å gjennomføre studieprogrammet, at de har personlig modenhet, evne til refleksjon og er bevisste rundt mål for egen karriere. Operasjonalisering av vurderingsgrunnlaget og poengfordeling er beskrevet i tabell 1:
 
 Tabell 1: Beskrivelse og poengfordeling opptaksprøvens innhold og kvalitet
 
@@ -186,7 +199,14 @@ Studentene skal betale studieavgift og andre avgifter fastsatt av styret. I stud
 
 1\. Dersom studenten unnlater å oppfylle sine plikter med hensyn til bekreftelse og oppdatering av utdanningsplan, kan ikke utdanningsplanen lenger legges til grunn for kontrakten med institusjonen og vil bli terminert. Retten til å studere vil da opphøre.
 
-2\. Studieretten kan videre tapes når en student:etter ett semester ikke oppnår noen studiepoeng, med mindre det følger av innvilget permisjon eller annet grunnlag.har benyttet maksimalt antall vurderingsforsøk uten å ha bestått et emne som er obligatorisk for studieprogrammet.Studenten unnlater å betale studieavgift eller andre avgifter etter fastsatte frister.Studenten etter forespørsel ikke legger frem originaldokumentasjon brukt i opptaket eller som grunnlag for godskriving av ekstern utdanning.Vedtak om tap av studierett fastsettes av klagenemnda ved LIMPI. Studenten skal varsles og ha rett til å uttale seg før vedtak fattes, jf. [forvaltningsloven § 16](lov/1967-02-10/§16). I tilfeller der det fattes vedtak om utestenging av en student, gjelder egne bestemmelser, jf. [uhl. § 4-8](lov/2005-04-01-15/§4-8), [§ 4-9](lov/2005-04-01-15/§4-9) og [§ 4-10](lov/2005-04-01-15/§4-10).
+2\. Studieretten kan videre tapes når en student:
+
+1. etter ett semester ikke oppnår noen studiepoeng, med mindre det følger av innvilget permisjon eller annet grunnlag.
+2. har benyttet maksimalt antall vurderingsforsøk uten å ha bestått et emne som er obligatorisk for studieprogrammet.
+3. Studenten unnlater å betale studieavgift eller andre avgifter etter fastsatte frister.
+4. Studenten etter forespørsel ikke legger frem originaldokumentasjon brukt i opptaket eller som grunnlag for godskriving av ekstern utdanning.
+
+Vedtak om tap av studierett fastsettes av klagenemnda ved LIMPI. Studenten skal varsles og ha rett til å uttale seg før vedtak fattes, jf. [forvaltningsloven § 16](lov/1967-02-10/§16). I tilfeller der det fattes vedtak om utestenging av en student, gjelder egne bestemmelser, jf. [uhl. § 4-8](lov/2005-04-01-15/§4-8), [§ 4-9](lov/2005-04-01-15/§4-9) og [§ 4-10](lov/2005-04-01-15/§4-10).
 
 ### § 14. Undervisning
 
@@ -340,9 +360,15 @@ Alle emner ved studieprogrammet videreutdanning i profesjonell musikkproduksjon 
 
 ### § 28. Sensur
 
-1\. Studentenes kunnskaper og ferdigheter skal vurderes på en upartisk og faglig betryggende måte. Sensur i de ulike emnene vil foregå på følgende måter:2 interne sensorer benyttes på emner med 10 studiepoeng eller mindre1 intern og 1 ekstern sensor benyttes på emner med 11 studiepoeng eller mer. Ekstern sensor kan ikke ha vært ansatt ved LIMPI det siste året.
+1\. Studentenes kunnskaper og ferdigheter skal vurderes på en upartisk og faglig betryggende måte. Sensur i de ulike emnene vil foregå på følgende måter:
 
-2\. Ekstern sensor må minst ha én av følgende kvalifikasjoner:Inneha vitenskapelig kompetanse som kvalifiserer fro ansettelse som minst høyskolelektor/amanuensis ved universitet/høyskole eller annen forskningsinstitusjon.Gjennom relevant yrkespraksis være særlig kvalifisert for å foreta sensur innenfor et bestemt område.
+1. 2 interne sensorer benyttes på emner med 10 studiepoeng eller mindre
+2. 1 intern og 1 ekstern sensor benyttes på emner med 11 studiepoeng eller mer. Ekstern sensor kan ikke ha vært ansatt ved LIMPI det siste året.
+
+2\. Ekstern sensor må minst ha én av følgende kvalifikasjoner:
+
+1. Inneha vitenskapelig kompetanse som kvalifiserer fro ansettelse som minst høyskolelektor/amanuensis ved universitet/høyskole eller annen forskningsinstitusjon.
+2. Gjennom relevant yrkespraksis være særlig kvalifisert for å foreta sensur innenfor et bestemt område.
 
 3\. Det skal utarbeides skriftlig sensorveiledning til hver eksamen. Denne skal være tilgjengelig for sensor før vurderingen starter, og tilgjengeliggjøres for studentene når sensur er kunngjort.
 
@@ -358,7 +384,11 @@ Alle emner ved studieprogrammet videreutdanning i profesjonell musikkproduksjon 
 
 2\. Begrunnelse skal normalt være gitt innen to uker etter at studenten har framsatt krav om det. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for bedømmelsen og for bedømmelsen av studentens prestasjon. Begrunnelse gis muntlig eller skriftlig etter sensors valg. Sensorene avgjør seg imellom hvem som skal gi begrunnelsen.
 
-3\. Klage over karakterfastsetting må framsettes skriftlig innen tre uker etter at eksamensresultatet er kunngjort. Har studenten framsatt krav om begrunnelse for karakterfastsetting eller har klaget over formelle feil, løper klagefristen fra studenten har mottatt begrunnelse eller avgjørelse på klagen over formelle feil. Den skriftlige klagen skal:Gi opplysning om hvem som klager (navn, adresse og studentnummer).Vise til det vedtak det klages over (emne, eksamensdato, karakter).Ha dato og underskrift.
+3\. Klage over karakterfastsetting må framsettes skriftlig innen tre uker etter at eksamensresultatet er kunngjort. Har studenten framsatt krav om begrunnelse for karakterfastsetting eller har klaget over formelle feil, løper klagefristen fra studenten har mottatt begrunnelse eller avgjørelse på klagen over formelle feil. Den skriftlige klagen skal:
+
+1. Gi opplysning om hvem som klager (navn, adresse og studentnummer).
+2. Vise til det vedtak det klages over (emne, eksamensdato, karakter).
+3. Ha dato og underskrift.
 
 4\. Studenten kan fremsette individuell klage på karakter på gruppeeksamen. En eventuell endring av karakter etter klage vil kun gjelde for den studenten som har klaget.
 

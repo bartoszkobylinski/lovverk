@@ -15,7 +15,7 @@ xml_hash: "de359dc90d32686571ba197149d57e997e6bd924a3ad4c052771fc95e793bd8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,12 @@ Departementet kan gi forskrift om hvem som omfattes av første ledd.
 
 ## § 3. Erstatning etter avvikling av pelsdyrvirksomhet
 
-En pelsdyroppdretter har rett på erstatning for tap som følge av avvikling av pelsdyrvirksomhet som følge av forbudet i [§ 1](lov/2019-06-21-63/§1), dersom oppdrettereneide et anlegg for hold av pelsdyr som tilfredsstilte gjeldende forskriftskrav pr. 15. januar 2018, ogholdt pelsdyr etter 1. januar 2015.Tilsvarende gjelder for pelsdyroppdrettere som 15. januar 2018 leide anlegg for hold av pelsdyr og holdt pelsdyr. I slike tilfeller har også eieren av pelsdyranlegget rett på erstatning.
+En pelsdyroppdretter har rett på erstatning for tap som følge av avvikling av pelsdyrvirksomhet som følge av forbudet i [§ 1](lov/2019-06-21-63/§1), dersom oppdretteren
+
+1. eide et anlegg for hold av pelsdyr som tilfredsstilte gjeldende forskriftskrav pr. 15. januar 2018, og
+2. holdt pelsdyr etter 1. januar 2015.
+
+Tilsvarende gjelder for pelsdyroppdrettere som 15. januar 2018 leide anlegg for hold av pelsdyr og holdt pelsdyr. I slike tilfeller har også eieren av pelsdyranlegget rett på erstatning.
 
 Pelsdyrvirksomheten anses som avviklet når pelsdyroppdretteren har avviklet alt sitt pelsdyrhold.
 
@@ -62,7 +67,12 @@ For saksomkostninger gjelder reglene i [skjønnsprosessloven § 54](lov/1917-06-
 
 ## § 5. Forskrift om erstatning, kompensasjon, omstillingsmidler og kontroll
 
-Departementet kan gi forskrift om økonomisk kompensasjon til riving og opprydding etter avvikling av pelsdyrvirksomhet, om kompensasjon for lavere fremtidig alderspensjon samt om tilskudd til omstilling til oppdrettere som omfattes av [§ 2](lov/2019-06-21-63/§2). Dette kan blant annet omfatte:frister for å søke om kompensasjon eller tilskuddforvaltningen av kompensasjons- og tilskuddsordningeropplysnings- og bistandsplikt for oppdrettere i forbindelse med søknader om kompensasjon eller tilskuddtilbakebetalingsplikt dersom det er gitt feil eller mangelfulle opplysninger, og om foreldelsesfrist for tilbakebetalingskrav
+Departementet kan gi forskrift om økonomisk kompensasjon til riving og opprydding etter avvikling av pelsdyrvirksomhet, om kompensasjon for lavere fremtidig alderspensjon samt om tilskudd til omstilling til oppdrettere som omfattes av [§ 2](lov/2019-06-21-63/§2). Dette kan blant annet omfatte:
+
+1. frister for å søke om kompensasjon eller tilskudd
+2. forvaltningen av kompensasjons- og tilskuddsordninger
+3. opplysnings- og bistandsplikt for oppdrettere i forbindelse med søknader om kompensasjon eller tilskudd
+4. tilbakebetalingsplikt dersom det er gitt feil eller mangelfulle opplysninger, og om foreldelsesfrist for tilbakebetalingskrav
 
 Departementet kan gi forskrift om utbetaling av forskudd der det er begjært skjønn for fastsettelse av erstatning etter [§ 3](lov/2019-06-21-63/§3).
 

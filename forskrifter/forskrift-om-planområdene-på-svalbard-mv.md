@@ -44,7 +44,12 @@ Formålet med konsekvensutredningen er å klargjøre hvilke virkninger en virkso
 
 ### § 3. (utredningspliktige virksomheter)
 
-Virksomheter som trenger tillatelse etter [svalbardmiljøloven § 57](lov/2001-06-15-79/§57) eller [§ 58](lov/2001-06-15-79/§58) tredje ledd og somkan få mer enn ubetydelig virkning for naturmiljøet utenfor planområdene, ellerkan få betydelig og langvarig virkning for miljø og samfunn i et planområdeskal konsekvensutredes av tiltakshaver.
+Virksomheter som trenger tillatelse etter [svalbardmiljøloven § 57](lov/2001-06-15-79/§57) eller [§ 58](lov/2001-06-15-79/§58) tredje ledd og som
+
+1. kan få mer enn ubetydelig virkning for naturmiljøet utenfor planområdene, eller
+2. kan få betydelig og langvarig virkning for miljø og samfunn i et planområde
+
+skal konsekvensutredes av tiltakshaver.
 
 Sysselmesteren avgjør om en virksomhet går inn under første ledd og kan treffe vedtak om at det for en bestemt virksomhet er unødvendig å utarbeide konsekvensutredning.
 
@@ -112,7 +117,10 @@ Det kan ikke gis tillatelse knyttet til tiltaket før utredningsplikten er oppfy
 
 I begrunnelsen for vedtaket om tillatelse eller vedtak om avslag skal det fremgå hvordan konsekvensutredningen og uttalelsene til denne er vurdert og hvilken betydning de har hatt for avgjørelsen.
 
-Tiltakshaveren skal i samsvar med vilkår i tillatelsen, gjennomføre en regelmessig og effektiv overvåking av miljøet for åvurdere virkninger av pågående virksomhet, herunder verifisering av forutsette virkninger, oglegge forholdene til rette for at uforutsette virkninger kan bli oppdaget på et tidlig tidspunkt.
+Tiltakshaveren skal i samsvar med vilkår i tillatelsen, gjennomføre en regelmessig og effektiv overvåking av miljøet for å
+
+1. vurdere virkninger av pågående virksomhet, herunder verifisering av forutsette virkninger, og
+2. legge forholdene til rette for at uforutsette virkninger kan bli oppdaget på et tidlig tidspunkt.
 
 ### § 9. (fornyet konsekvensutredning)
 

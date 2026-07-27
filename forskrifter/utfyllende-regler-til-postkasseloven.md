@@ -15,7 +15,7 @@ xml_hash: "ccbae16776116756a483f4372e701578fc8dbd855dfb6e9f2d71ebbd486f9e7d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,10 @@ eu_basis: []
 
 ## II Om adgang for statens postselskap til å yte tilskudd til oppsetting av postkasseanlegg (§ 2 i lov av 4.juli 1952 nr. 3)
 
-1\. Ved oppsetting av postkasseanlegg i 1ste etasje i oppgangen til hus som er oppført før 11. juni 1953 eller som det forelå godkjente planer for oppførelsen av før 11. juni 1953, betaler statens postselskap følgende tilskudd som utbetales til huseieren:A-postkasseanlegg (anlegg som må innfelles i mur- eller betongvegg) kr. 50,00 pr kasseenhet, heri inkludert utgifter til navneskilt.B-postkasseanlegg (anlegg som monteres på vegg uten utsparing i mur- eller betongvegg) kr. 28,00 pr kasseenhet, heri inkludert utgifter til navneskilt. Det påhviler huseieren å sørge for at postkasseanleggene til enhver tid er i god stand. Statens postselskap yter ikke tilskudd til vedlikehold. Statens postselskap yter heller ikke tilskudd til nye navneskilt ved innflytting av nye leieboere.
+1\. Ved oppsetting av postkasseanlegg i 1ste etasje i oppgangen til hus som er oppført før 11. juni 1953 eller som det forelå godkjente planer for oppførelsen av før 11. juni 1953, betaler statens postselskap følgende tilskudd som utbetales til huseieren:
+
+1. A-postkasseanlegg (anlegg som må innfelles i mur- eller betongvegg) kr. 50,00 pr kasseenhet, heri inkludert utgifter til navneskilt.
+2. B-postkasseanlegg (anlegg som monteres på vegg uten utsparing i mur- eller betongvegg) kr. 28,00 pr kasseenhet, heri inkludert utgifter til navneskilt. Det påhviler huseieren å sørge for at postkasseanleggene til enhver tid er i god stand. Statens postselskap yter ikke tilskudd til vedlikehold. Statens postselskap yter heller ikke tilskudd til nye navneskilt ved innflytting av nye leieboere.
 
 2\. Statens postselskap yter ikke tilskudd til anskaffelse, oppsetting eller vedlikehold av vanlige postkasser. Ved mislig vedlikehold bestemmer Poststyret hvorledes det skal forholdes med posten. På postkassestativer som er bekostet av statens postselskap, skal det bare henges opp postkasser av den modell som er til salgs ved poststedene. Ved oppsetting av postkassestativer i tettbygde strøk, nye boligområder o.l. betaler vedkommende kasseeiere vanligvis selv utgiftene til anskaffelse og oppsetting av stativene. Kasseeierne skal ordinært også sørge for vedlikehold av stativene. For øvrig bestemmer Poststyret i hvilken utstrekning postkassestativer skal anskaffes, settes opp og vedlikeholdes for statens postselskaps regning.
 

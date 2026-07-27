@@ -70,7 +70,12 @@ Studenter skal ha egen bærbar datamaskin for bruk i undervisning og ved eksamen
 
 ### § 2-1. Studierett
 
-(1) Studenter som har fått tilbud om studieplass på Bachelor – politiutdanning, masterstudier eller en videreutdanning, oppnår studierett når:tilbud om studieplass er akseptert innen fastsett frist,semesterregisteringen er gjennomført,utdanningsplan er godkjent, dersom dette er fastsatt som et krav, ogalle avgifter knyttet til studiet er betalt innen fastsatt frist.
+(1) Studenter som har fått tilbud om studieplass på Bachelor – politiutdanning, masterstudier eller en videreutdanning, oppnår studierett når:
+
+1. tilbud om studieplass er akseptert innen fastsett frist,
+2. semesterregisteringen er gjennomført,
+3. utdanningsplan er godkjent, dersom dette er fastsatt som et krav, og
+4. alle avgifter knyttet til studiet er betalt innen fastsatt frist.
 
 (2) En student med studierett har rett til å delta i undervisning, praksis, veiledning, obligatoriske aktiviteter og eksamen i samsvar med studieplan og emnebeskrivelser for studiet, samt tilgang til læringsplattform og bibliotek.
 
@@ -100,11 +105,24 @@ Det kan i studieplanen fastsettes progresjonskrav som vilkår for å fremstille 
 
 ### § 2-6. Opphør av studierett
 
-Studieretten opphører når:studiet er fullført og bestått.studenten selv trekker seg fra studiet.studenten har brukt to år i tillegg til normert tid på et studium over 60 studiepoeng.studenten har brukt normert tid for en videreutdanning.
+Studieretten opphører når:
+
+1. studiet er fullført og bestått.
+2. studenten selv trekker seg fra studiet.
+3. studenten har brukt to år i tillegg til normert tid på et studium over 60 studiepoeng.
+4. studenten har brukt normert tid for en videreutdanning.
 
 ### § 2-7. Tap av studierett
 
-Politihøgskolen kan fatte vedtak om tap av studierett når:studenten har fremstilt seg til samme eksamen i et emne tre ganger uten å bestå, og det ikke er innvilget dispensasjon til et fjerde eksamensforsøk.studenten har fått vurderingen ikke godkjent på egnethetsvurderingen to ganger i Bachelor-politiutdanning, og det ikke foreligger grunnlag for dispensasjon til et siste forsøk.studenten ikke har semesterregisteret seg eller betalt semesteravgift eller andre avgifter innen fastsett frist.studenten ikke har fremlagt original dokumentasjon til kontroll innen fastsatt frist, og det ikke er innvilget utsettelse.studenten ikke har progresjon i studiet som fastsatt i studieplanen.det etter tilbud om studieplass, fremkommer opplysninger som viser at opptakskravene ikke er oppfylt.studenten har fått opptak på grunnlag av falsk eller forfalsket dokumentasjon.
+Politihøgskolen kan fatte vedtak om tap av studierett når:
+
+1. studenten har fremstilt seg til samme eksamen i et emne tre ganger uten å bestå, og det ikke er innvilget dispensasjon til et fjerde eksamensforsøk.
+2. studenten har fått vurderingen ikke godkjent på egnethetsvurderingen to ganger i Bachelor-politiutdanning, og det ikke foreligger grunnlag for dispensasjon til et siste forsøk.
+3. studenten ikke har semesterregisteret seg eller betalt semesteravgift eller andre avgifter innen fastsett frist.
+4. studenten ikke har fremlagt original dokumentasjon til kontroll innen fastsatt frist, og det ikke er innvilget utsettelse.
+5. studenten ikke har progresjon i studiet som fastsatt i studieplanen.
+6. det etter tilbud om studieplass, fremkommer opplysninger som viser at opptakskravene ikke er oppfylt.
+7. studenten har fått opptak på grunnlag av falsk eller forfalsket dokumentasjon.
 
 ### § 2-8. Permisjon
 
@@ -132,7 +150,12 @@ Studenter som har hatt studierett i minst ett år på det aktuelle studiet, kan 
 
 (2) Alternative øvelser kan gis som tilrettelegging ved deleksamen i fysiske kapasiteter i Bachelor – politiutdanning. Søknader om tilrettelegging av deleksamen i fysiske kapasiteter som mottas senere enn 14 dager før oppstart av eksamensperioden, behandles som gyldig fravær fra eksamen.
 
-(3) Det gis ikke alternative øvelser som tilrettelegging i følgende:godkjenningsprøver på våpengodkjenningsprøve for batong og pepperspraypraktisk prøve i utrykningskjøringpraktisk/muntlig eksamen i fysisk makt.
+(3) Det gis ikke alternative øvelser som tilrettelegging i følgende:
+
+1. godkjenningsprøver på våpen
+2. godkjenningsprøve for batong og pepperspray
+3. praktisk prøve i utrykningskjøring
+4. praktisk/muntlig eksamen i fysisk makt.
 
 (4) Studenter som representerer Norge internasjonalt, er utøver i elitedivisjon eller er med i en av Olympiatoppens satsingsgrupper, kan få status som toppidrettsutøver for inntil ett år om gangen. Studenter som representerer Norge nasjonalt og internasjonalt innenfor kunstneriske og kreative disipliner, kan få status som eliteutøver for inntil ett år av gangen.
 
@@ -172,9 +195,18 @@ Studenter som har hatt studierett i minst ett år på det aktuelle studiet, kan 
 
 (1) I første og tredje studieår er det krav om 80 % deltakelse i obligatorisk undervisning. I andre studieår er det krav om 85 % deltakelse.
 
-(2) Dersom fraværet overstiger grensen, kan følgende årsaker regnes som gyldig fravær:rettsoppmøte eller vitnestevning,deltakelse i organer med lovpålagt studentrepresentasjon,dokumentert sykefravær, eget eller for barn under 12 år,andre tungtveiende grunner.
+(2) Dersom fraværet overstiger grensen, kan følgende årsaker regnes som gyldig fravær:
 
-(3) Dersom en student har gyldig fravær etter andre ledd skal det avgjøres om:tapt undervisning kan tas igjen,fraværet kan kompenseres med en skriftlig oppgave eller andre læringsaktiviteter ellerstudenten skal få ikke godkjent på kravet til obligatorisk deltakelse.
+1. rettsoppmøte eller vitnestevning,
+2. deltakelse i organer med lovpålagt studentrepresentasjon,
+3. dokumentert sykefravær, eget eller for barn under 12 år,
+4. andre tungtveiende grunner.
+
+(3) Dersom en student har gyldig fravær etter andre ledd skal det avgjøres om:
+
+1. tapt undervisning kan tas igjen,
+2. fraværet kan kompenseres med en skriftlig oppgave eller andre læringsaktiviteter eller
+3. studenten skal få ikke godkjent på kravet til obligatorisk deltakelse.
 
 (4) Det kan i studieplan fastsettes strengere tilstedeværelseskrav enn det som følger av første ledd. Krav om 100 % deltakelse i deler av et emne eller en obligatorisk aktivitet skal fastsettes i studieplanen.
 
@@ -230,7 +262,10 @@ Studenter som har hatt studierett i minst ett år på det aktuelle studiet, kan 
 
 ### § 4-1. Vilkår for å avlegge eksamen
 
-For å få fremstille seg til eksamen må en student:være semesterregistrert for det aktuelle semestret og ha betalt semesteravgiften etter [lov om studentsamskipnader](lov/2007-12-14-116), samt andre pålagte avgifter innen fastsatte frister.ha fått godkjent obligatoriske aktiviteter som i studieplanen er satt som vilkår for å fremstille seg til den aktuelle eksamen.
+For å få fremstille seg til eksamen må en student:
+
+1. være semesterregistrert for det aktuelle semestret og ha betalt semesteravgiften etter [lov om studentsamskipnader](lov/2007-12-14-116), samt andre pålagte avgifter innen fastsatte frister.
+2. ha fått godkjent obligatoriske aktiviteter som i studieplanen er satt som vilkår for å fremstille seg til den aktuelle eksamen.
 
 ### § 4-2. Oppmelding til eksamen
 
@@ -258,17 +293,32 @@ For å få fremstille seg til eksamen må en student:være semesterregistrert fo
 
 ### § 4-5. Tellende eksamensforsøk
 
-Et eksamensforsøk er brukt når studenten:trekker seg fra eksamen etter avmeldingsfristen eller under eksamen,har fått karakteren ikke bestått eller F,ikke møter til eksamen innen fastsatt frist,ikke har levert skriftlig eksamen, bachelor- eller masteroppgaven innen fastsatt frist.får en eksamen annullert på grunn av fusk eller forsøk på fusk.
+Et eksamensforsøk er brukt når studenten:
+
+1. trekker seg fra eksamen etter avmeldingsfristen eller under eksamen,
+2. har fått karakteren ikke bestått eller F,
+3. ikke møter til eksamen innen fastsatt frist,
+4. ikke har levert skriftlig eksamen, bachelor- eller masteroppgaven innen fastsatt frist.
+5. får en eksamen annullert på grunn av fusk eller forsøk på fusk.
 
 ### § 4-6. Fravær fra eksamen. Gyldig fravær
 
-(1) En student som ikke har møtt på en eksamen, kan ha gyldig fravær. Da teller ikke eksamensforsøket. Som gyldig fravær regnes:egen sykdomannen tvingende fraværsgrunn.
+(1) En student som ikke har møtt på en eksamen, kan ha gyldig fravær. Da teller ikke eksamensforsøket. Som gyldig fravær regnes:
+
+1. egen sykdom
+2. annen tvingende fraværsgrunn.
 
 (2) Fraværet fra eksamen skal dokumenteres med legeerklæring eller annen relevant dokumentasjon. Dokumentasjonen skal leveres senest syv dager etter eksamensdato.
 
 ### § 4-7. Ny eksamen
 
-(1) Ny eksamen arrangeres for studenter som oppfyller ett av følgende vilkår. Studenten:har gyldig fravær ved siste arrangerte ordinære eksamen,møtte ikke til siste arrangerte ordinære eksamen,leverte ikke besvarelsen under siste arrangerte ordinære eksamen,har karakteren ikke bestått eller F i emnet ved siste arrangerte eksamen,har fått godkjent alle obligatoriske aktiviteter etter avviklingen av siste arrangerte ordinære eksamen.
+(1) Ny eksamen arrangeres for studenter som oppfyller ett av følgende vilkår. Studenten:
+
+1. har gyldig fravær ved siste arrangerte ordinære eksamen,
+2. møtte ikke til siste arrangerte ordinære eksamen,
+3. leverte ikke besvarelsen under siste arrangerte ordinære eksamen,
+4. har karakteren ikke bestått eller F i emnet ved siste arrangerte eksamen,
+5. har fått godkjent alle obligatoriske aktiviteter etter avviklingen av siste arrangerte ordinære eksamen.
 
 (2) Ny eksamen avvikles innen rimelig tid i påfølgende semester etter siste arrangerte ordinære eksamen. Studenter må selv melde seg opp til ny eksamen innen gjeldende frist.
 
@@ -350,7 +400,18 @@ Et eksamensforsøk er brukt når studenten:trekker seg fra eksamen etter avmeldi
 
 ### § 5-5. Fusk eller forsøk på fusk
 
-(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi studenten en urettmessig fordel:Å handle i strid med gjeldende regler for eksamen eller obligatorisk aktivitetÅ bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen eller obligatorisk aktivitetÅ presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitatÅ levere arbeid av praktisk eller kunstnerisk art som er produsert av andre enn studenten selvÅ levere besvarelse som ikke er utarbeidet av studenten(e) selvUreglementert samarbeid mellom studenter eller grupperFabrikkering eller forfalskning av dataUrettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starterGjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette.Medvirkning til fusk.
+(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi studenten en urettmessig fordel:
+
+1. Å handle i strid med gjeldende regler for eksamen eller obligatorisk aktivitet
+2. Å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen eller obligatorisk aktivitet
+3. Å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat
+4. Å levere arbeid av praktisk eller kunstnerisk art som er produsert av andre enn studenten selv
+5. Å levere besvarelse som ikke er utarbeidet av studenten(e) selv
+6. Ureglementert samarbeid mellom studenter eller grupper
+7. Fabrikkering eller forfalskning av data
+8. Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+9. Gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette.
+10. Medvirkning til fusk.
 
 (2) Når det oppstår mistanke om fusk eller forsøk på fusk ved skriftlig eksamen eller obligatorisk aktivitet med tilsyn, skal studenten straks gjøres oppmerksom på dette. Ulovlige hjelpemidler inndras straks. Studenten skal gis rett til å fullføre eksamen.
 

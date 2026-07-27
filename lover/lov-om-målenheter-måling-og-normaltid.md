@@ -15,7 +15,7 @@ xml_hash: "1b7703dd8a80c5799d23c8a60a1ec193fcdc6884534ed22e3543c6b5aef628bf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,11 @@ Kongen kan fastsette en avvikende normaltid for særskilte årstider.
 
 ### § 7. Krav til måleredskapers egenskaper ved salg mv.
 
-Kongen kan i forskrift bestemme at det skal fastsettes nærmere krav til måleredskaper som tilbys for salg eller selges, når detstilles krav til slike måleredskaper når de brukes, jf. [kapittel 4](lov/2007-01-26-4/kap4),følger av internasjonale forpliktelser at krav skal stilles ellerellers anses nødvendig for å sikre lovens formål, jf. [§ 1](lov/2007-01-26-4/§1).
+Kongen kan i forskrift bestemme at det skal fastsettes nærmere krav til måleredskaper som tilbys for salg eller selges, når det
+
+1. stilles krav til slike måleredskaper når de brukes, jf. [kapittel 4](lov/2007-01-26-4/kap4),
+2. følger av internasjonale forpliktelser at krav skal stilles eller
+3. ellers anses nødvendig for å sikre lovens formål, jf. [§ 1](lov/2007-01-26-4/§1).
 
 De nærmere krav som skal stilles til disse måleredskapenes egenskaper, fastsettes av Justervesenet i forskrift eller enkeltvedtak.
 
@@ -94,7 +98,11 @@ Beslutning om samsvar kan også bli ugyldig før gyldighetstidens utløp dersom 
 
 Kongen fastsetter i forskrift hvilke bruksformål som de nærmere kravene til måleredskaper og målemetoder fastsatt i medhold av kapittelet her, skal gjelde for. Med bruksformål menes hva det måleresultatet som er fremskaffet ved målingen, skal anvendes til.
 
-I de tilfeller krav skal gjelde, jf. første ledd, fastsetter Justervesenet i forskrift eller enkeltvedtaknærmere krav til måleredskapers egenskaper når de er i bruk,nærmere bestemmelser om måleredskapers tillatte bruksformål ogkrav til bruk, installasjon, vedlikehold, omgivelser og andre forhold som kan påvirke det måleresultatet som fremskaffes ved bruk av et måleredskap.
+I de tilfeller krav skal gjelde, jf. første ledd, fastsetter Justervesenet i forskrift eller enkeltvedtak
+
+1. nærmere krav til måleredskapers egenskaper når de er i bruk,
+2. nærmere bestemmelser om måleredskapers tillatte bruksformål og
+3. krav til bruk, installasjon, vedlikehold, omgivelser og andre forhold som kan påvirke det måleresultatet som fremskaffes ved bruk av et måleredskap.
 
 Krav etter bestemmelsen her kan kun fastsettes når dette anses nødvendig for å sikre lovens formål om tilstrekkelig nøyaktige målinger og måleresultater.
 
@@ -112,7 +120,10 @@ Dersom måleredskap er underlagt krav om beslutning om samsvar etter [§ 8](lov/
 
 ### § 14. Krav på grunn av måleredskapets plassering
 
-Bestemmelsene i dette kapittelet kommer også til anvendelse på måleredskaper som det ikke gjelder nærmere krav til etter [§ 10](lov/2007-01-26-4/§10), dersommåleredskapet befinner seg på samme sted som måleredskaper det stilles nærmere krav til, ogmåleredskapet kan forveksles med de måleredskapene som er underlagt nærmere krav.
+Bestemmelsene i dette kapittelet kommer også til anvendelse på måleredskaper som det ikke gjelder nærmere krav til etter [§ 10](lov/2007-01-26-4/§10), dersom
+
+1. måleredskapet befinner seg på samme sted som måleredskaper det stilles nærmere krav til, og
+2. måleredskapet kan forveksles med de måleredskapene som er underlagt nærmere krav.
 
 ## Kapittel 5. Krav ved angivelse av måleverdier
 
@@ -124,9 +135,16 @@ Justervesenet kan i forskrift eller enkeltvedtak fastsette nærmere krav til hvo
 
 ### § 16. Krav til produkters kvantitative innhold
 
-Departementet kan i forskrift fastsetteat produkter bare kan markedsføres eller selges i bestemte kvantitative størrelser, ogat et produkts vekt, volum, alkoholinnhold eller annet kvantitativt innhold skal angis på produktet.
+Departementet kan i forskrift fastsette
 
-Når det kvantitative innholdet angis for et produkt, kan Justervesenet i forskrift gi nærmere bestemmelser om hvilke krav som skal gjelde tilproduktets kvantitative innhold, herunder hvordan det kvantitative innholdet skal beregnes,kontroll av produktets kvantitative innhold, herunder krav om godkjennelsesordninger, ogmerking som skal gi informasjon om produktets kvantitative innhold, herunder særlige krav til merking av produkter som er underlagt kontroll etter bestemmelsen her.
+1. at produkter bare kan markedsføres eller selges i bestemte kvantitative størrelser, og
+2. at et produkts vekt, volum, alkoholinnhold eller annet kvantitativt innhold skal angis på produktet.
+
+Når det kvantitative innholdet angis for et produkt, kan Justervesenet i forskrift gi nærmere bestemmelser om hvilke krav som skal gjelde til
+
+1. produktets kvantitative innhold, herunder hvordan det kvantitative innholdet skal beregnes,
+2. kontroll av produktets kvantitative innhold, herunder krav om godkjennelsesordninger, og
+3. merking som skal gi informasjon om produktets kvantitative innhold, herunder særlige krav til merking av produkter som er underlagt kontroll etter bestemmelsen her.
 
 ## Kapittel 6. Særlige plikter og krav
 
@@ -136,7 +154,10 @@ Departementet kan i forskrift bestemme at de ansvarlige etter denne lov selv ska
 
 De ansvarlige etter denne lov skal sørge for at det er mulig å gjennomføre kontroll med at lovens krav er oppfylt. Justervesenet kan gi nærmere bestemmelser om dette i forskrift eller enkeltvedtak.
 
-Departementet kan i forskrift pålegge den som selger eller på annen måte overdrar måleredskaperå informere kjøper av et måleredskap om at måleredskapet er underlagt spesielle krav etter denne lov eller etter bestemmelser fastsatt i medhold av loven, ogå rapportere til Justervesenet ved salg av måleredskaper.
+Departementet kan i forskrift pålegge den som selger eller på annen måte overdrar måleredskaper
+
+1. å informere kjøper av et måleredskap om at måleredskapet er underlagt spesielle krav etter denne lov eller etter bestemmelser fastsatt i medhold av loven, og
+2. å rapportere til Justervesenet ved salg av måleredskaper.
 
 ### § 18. Plikter for andre som har oppgaver i forhold til måleredskaper og målinger
 
@@ -146,7 +167,12 @@ Departementet kan i forskrift også fastsette at slike aktører må gi melding t
 
 ### § 19. Krav til merking av måleredskaper
 
-Justervesenet kan i forskrift eller enkeltvedtak fastsette at måleredskaper skal merkes medgodkjennings- eller kontrollmerke, herunder krav om henvisning til godkjenningsdokument,produkttekniske spesifikasjoner,gjeldende betingelser for bruk av måleredskapet oghvem som er leverandør eller produsent av måleredskapet og identifikasjonsnummer på måleredskapet.
+Justervesenet kan i forskrift eller enkeltvedtak fastsette at måleredskaper skal merkes med
+
+1. godkjennings- eller kontrollmerke, herunder krav om henvisning til godkjenningsdokument,
+2. produkttekniske spesifikasjoner,
+3. gjeldende betingelser for bruk av måleredskapet og
+4. hvem som er leverandør eller produsent av måleredskapet og identifikasjonsnummer på måleredskapet.
 
 ## Kapittel 7. Tilsyn
 
@@ -158,7 +184,10 @@ Justervesenet kan overlate til andre med særlig kompetanse og tilstrekkelig uav
 
 ### § 21. Justervesenets utførelse av kontroll på anmodning
 
-Justervesenet kan på anmodning kontrollere tilstanden til et måleredskap i forhold til regelverket dersomdet er umulig eller uforholdsmessig vanskelig å få kontrollert at redskapet oppfyller de fastsatte krav på annen måte, ellerdet foreligger andre særskilte grunner som tilsier en slik kontroll.
+Justervesenet kan på anmodning kontrollere tilstanden til et måleredskap i forhold til regelverket dersom
+
+1. det er umulig eller uforholdsmessig vanskelig å få kontrollert at redskapet oppfyller de fastsatte krav på annen måte, eller
+2. det foreligger andre særskilte grunner som tilsier en slik kontroll.
 
 Merkostnader som Justervesenet har ved å utføre kontrollen, skal belastes rekvirenten fullt ut.
 
@@ -208,7 +237,10 @@ Dersom produkter og måleredskaper ikke tilfredsstiller krav fastsatt i eller i 
 
 ### § 28. Tilbakekall av godkjenning
 
-Justervesenet kan kalle tilbake en godkjenning gitt etter denne lov eller etter bestemmelser fastsatt i medhold av loven dersom:den som har godkjenningen, eller en som opptrer på dennes vegne, overtrer bestemmelser i denne lov eller bestemmelser fastsatt i medhold av loven, ogdet anses uforsvarlig å la godkjenningen fortsatt gjelde.
+Justervesenet kan kalle tilbake en godkjenning gitt etter denne lov eller etter bestemmelser fastsatt i medhold av loven dersom:
+
+1. den som har godkjenningen, eller en som opptrer på dennes vegne, overtrer bestemmelser i denne lov eller bestemmelser fastsatt i medhold av loven, og
+2. det anses uforsvarlig å la godkjenningen fortsatt gjelde.
 
 ### § 29. Tvangsmulkt
 
@@ -228,7 +260,14 @@ Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
 
 Foretak kan ilegges overtredelsesgebyr etter bestemmelsen her når overtredelsen er begått av noen som har handlet på vegne av foretaket. Dette gjelder selv om ingen enkeltperson kan ilegges overtredelsesgebyr. Med foretak menes her selskap, enkeltpersonforetak, forening eller annen sammenslutning, stiftelse, bo eller offentlig virksomhet.
 
-Ved avgjørelsen av om et foretak skal ilegges overtredelsesgebyr, skal det særlig legges vekt påovertredelsens grovhet,om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,om overtredelsen er begått for å fremme foretakets interesser,om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,om det foreligger gjentakelse ogforetakets økonomiske evne.
+Ved avgjørelsen av om et foretak skal ilegges overtredelsesgebyr, skal det særlig legges vekt på
+
+1. overtredelsens grovhet,
+2. om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,
+3. om overtredelsen er begått for å fremme foretakets interesser,
+4. om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,
+5. om det foreligger gjentakelse og
+6. foretakets økonomiske evne.
 
 ## Kapittel 9. Utfyllende bestemmelser
 
@@ -260,7 +299,10 @@ Denne loven trer i kraft fra den tid Kongen bestemmer.1
 
 ### § 34. Oppheving og endring av andre lover
 
-Når denne loven trer i kraft, oppheves følgende lover:[Lov 29. juni 1894 nr. 1](lov/1894-06-29-1) um sams normaltid fyr kongeriket Norig.[Lov 31. oktober 1946 nr. 2](lov/1946-10-31-2) om mål og vekt.
+Når denne loven trer i kraft, oppheves følgende lover:
+
+1. [Lov 29. juni 1894 nr. 1](lov/1894-06-29-1) um sams normaltid fyr kongeriket Norig.
+2. [Lov 31. oktober 1946 nr. 2](lov/1946-10-31-2) om mål og vekt.
 
 – – –
 

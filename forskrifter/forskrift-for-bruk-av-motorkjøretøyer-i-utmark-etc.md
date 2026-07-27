@@ -15,7 +15,7 @@ xml_hash: "e356132cc87880afd39f54789c9d9f411e0a4cc6f59d3d1d8261ce8ae97a2bab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,13 @@ All motorferdsel i utmark og på islagte vassdrag skal foregå aktsomt og hensyn
 
 ## § 2.
 
-Motorkjøretøy kan på bar mark utenfor veg nyttes til:formål som nevnt i [motorferdselslovens § 4 første ledd](lov/1977-06-10-82/§4/ledd/1),transport av jaktutbytte ved jakt på elg, hjort og villsvin, og transport ved jakt på villrein innenfor Hardangervidda villreinområde slik dette er avgrenset av Miljødirektoratet. Kjøring i nasjonalparken kan bare skje i samsvar med vernereglene for området, og utenfor bare for nødvendig transport etter sleper som tidligere er fastsatt av Direktoratet for statens skoger på statsgrunn og av kommunen/grunneiere på privat grunn,offentlig oppsyns- og tilsynsstjeneste,nødvendig transport i samband med fiskekultiveringstiltak i offentlig regi,nødvendig transport i forbindelse med anlegg og drift av veger og større anlegg.
+Motorkjøretøy kan på bar mark utenfor veg nyttes til:
+
+1. formål som nevnt i [motorferdselslovens § 4 første ledd](lov/1977-06-10-82/§4/ledd/1),
+2. transport av jaktutbytte ved jakt på elg, hjort og villsvin, og transport ved jakt på villrein innenfor Hardangervidda villreinområde slik dette er avgrenset av Miljødirektoratet. Kjøring i nasjonalparken kan bare skje i samsvar med vernereglene for området, og utenfor bare for nødvendig transport etter sleper som tidligere er fastsatt av Direktoratet for statens skoger på statsgrunn og av kommunen/grunneiere på privat grunn,
+3. offentlig oppsyns- og tilsynsstjeneste,
+4. nødvendig transport i samband med fiskekultiveringstiltak i offentlig regi,
+5. nødvendig transport i forbindelse med anlegg og drift av veger og større anlegg.
 
 Kjøring skal om mulig følge eldre kjørespor.
 
@@ -50,7 +56,18 @@ Kommunen kan i forskrift begrense eller forby bruk av elektriske sykler i hele e
 
 ## § 3.
 
-Motorkjøretøy kan på vinterføre nyttes til:formål som nevnt i [motorferdsellovens § 4 første ledd](lov/1977-06-10-82/§4/ledd/1),andre formål som nevnt i [§ 2](forskrift/1988-05-15-356/§2) i denne forskrift,transport som er nødvendig for drift av turistanlegg (overnattings- og serveringssteder, skiheiser m.v.) som ikke ligger til brøytet bilveg,transport av materialer, utstyr og arbeidsfolk til bygging i samsvar med byggetillatelse,opparbeiding og preparering av skiløyper og skibakker for allmennheten og for konkurranser, når det foretas av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,nødvendig transport i forbindelse med vitenskapelige undersøkelser, herunder dyretellinger og liknende registreringer, etter oppdrag fra forskningsinstitusjon,nødvendig transport av ved fra egen eiendom til fast bopel, samt etter utvisning fra skogforvaltningen i Finnmark.praktisk kjøretrening på nærmere fastsatte områder ved obligatorisk opplæring for beltemotorsykkelførere. Områdene fastsettes av statsforvalteren etter forslag fra kommunene.transport i forbindelse med kommunalt organiserte akuttiltak for å redusere påkjørselsrisiko for elg og annet hjortevilt ved vei eller jernbane.nødvendig søk etter skadet storvilt utenom ordinær jakt når søket foregår i regi av kommunen.
+Motorkjøretøy kan på vinterføre nyttes til:
+
+1. formål som nevnt i [motorferdsellovens § 4 første ledd](lov/1977-06-10-82/§4/ledd/1),
+2. andre formål som nevnt i [§ 2](forskrift/1988-05-15-356/§2) i denne forskrift,
+3. transport som er nødvendig for drift av turistanlegg (overnattings- og serveringssteder, skiheiser m.v.) som ikke ligger til brøytet bilveg,
+4. transport av materialer, utstyr og arbeidsfolk til bygging i samsvar med byggetillatelse,
+5. opparbeiding og preparering av skiløyper og skibakker for allmennheten og for konkurranser, når det foretas av kommuner, hjelpekorps, idrettslag, turlag eller turistbedrifter,
+6. nødvendig transport i forbindelse med vitenskapelige undersøkelser, herunder dyretellinger og liknende registreringer, etter oppdrag fra forskningsinstitusjon,
+7. nødvendig transport av ved fra egen eiendom til fast bopel, samt etter utvisning fra skogforvaltningen i Finnmark.
+8. praktisk kjøretrening på nærmere fastsatte områder ved obligatorisk opplæring for beltemotorsykkelførere. Områdene fastsettes av statsforvalteren etter forslag fra kommunene.
+9. transport i forbindelse med kommunalt organiserte akuttiltak for å redusere påkjørselsrisiko for elg og annet hjortevilt ved vei eller jernbane.
+10. nødvendig søk etter skadet storvilt utenom ordinær jakt når søket foregår i regi av kommunen.
 
 Kommunen kan gi bestemmelser om kjøring som nevnt i bokstavene b–g, herunder om områder, traseer, sesonglengde, tidspunkter for kjøring, utstyr m.v.
 
@@ -98,7 +115,23 @@ Kommunen skal fastsette løypene i eget kart og i forskrift gi bestemmelser om b
 
 ## § 5.
 
-Etter skriftlig søknad kan kommunen gi tillatelse til bruk av snøscooter for:fastboende som i ervervsmessig øyemed vil påta segtransport mellom bilveg og hytte,tilsyn med privat hytte etter eierens oppdrag,transport for massemedia på reportasjeoppdrag,transport av funksjonshemmede,transport av ved,transport etter dispensasjon i medhold av denne forskrifts [§ 6](forskrift/1988-05-15-356/§6),funksjonshemmede,eier av hytte for transport av bagasje og utstyr mellom bilveg og hytte som ikke ligger tilknyttet brøytet bilveg,kjøring i utmarksnæring for fastboende,transport av ved utover det som følger av denne forskrifts [§ 3 første ledd bokstav g](forskrift/1988-05-15-356/§3/ledd/1/bokstav/g),gruppeturer på snødekt mark for beboere på helse- og omsorgsinstitusjoner, medlemmer av pensjonistforeninger eller forflytningshemmede. Turen må være i regi av helse- og omsorgsinstitusjoner eller ideelle organisasjoner. Tillatelse kan kun gis for transport til bestemte turmål og langs nærmere bestemte traseer dersom kommunen anviser slike.Kommunen skal i tillatelser etter bokstav c kartfeste eller på annen entydig måte angi hvilken trasé som skal benyttes.
+Etter skriftlig søknad kan kommunen gi tillatelse til bruk av snøscooter for:
+
+1. fastboende som i ervervsmessig øyemed vil påta seg
+
+   - transport mellom bilveg og hytte,
+   - tilsyn med privat hytte etter eierens oppdrag,
+   - transport for massemedia på reportasjeoppdrag,
+   - transport av funksjonshemmede,
+   - transport av ved,
+   - transport etter dispensasjon i medhold av denne forskrifts [§ 6](forskrift/1988-05-15-356/§6),
+2. funksjonshemmede,
+3. eier av hytte for transport av bagasje og utstyr mellom bilveg og hytte som ikke ligger tilknyttet brøytet bilveg,
+4. kjøring i utmarksnæring for fastboende,
+5. transport av ved utover det som følger av denne forskrifts [§ 3 første ledd bokstav g](forskrift/1988-05-15-356/§3/ledd/1/bokstav/g),
+6. gruppeturer på snødekt mark for beboere på helse- og omsorgsinstitusjoner, medlemmer av pensjonistforeninger eller forflytningshemmede. Turen må være i regi av helse- og omsorgsinstitusjoner eller ideelle organisasjoner. Tillatelse kan kun gis for transport til bestemte turmål og langs nærmere bestemte traseer dersom kommunen anviser slike.
+
+Kommunen skal i tillatelser etter bokstav c kartfeste eller på annen entydig måte angi hvilken trasé som skal benyttes.
 
 > Endret ved forskrifter [19 juni 1995 nr. 563](forskrift/1995-06-19-563), [26 juni 2009 nr. 863](forskrift/2009-06-26-863) (i kraft 1 juli 2009), [28 sep 2020 nr. 1893](forskrift/2020-09-28-1893) (i kraft 1 okt 2020), [30 mars 2021 nr. 1193](forskrift/2021-03-30-1193) (i kraft 16 april 2021).
 

@@ -15,7 +15,7 @@ xml_hash: "7b8a48ccafb881c38e9db974d249674e418a9410628d4af1e0db43000dc755ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,21 +26,48 @@ eu_basis: []
 
 ### § 1-1. Saklig virkeområde
 
-Forskriften gjelder forøkonomiplanen, årsbudsjettet, årsregnskapene og årsberetningen til kommuner og fylkeskommunerårsbudsjettet, årsregnskapet og årsberetningen til kommunale og fylkeskommunale foretak etter [kommuneloven kapittel 9](lov/2018-06-22-83/kap9)årsbudsjettet, årsregnskapet og årsberetningen til interkommunale politiske råd etter [kommuneloven kapittel 18](lov/2018-06-22-83/kap18) og kommunale oppgavefellesskap etter [kommuneloven kapittel 19](lov/2018-06-22-83/kap19)årsbudsjettet og årsregnskapet til lånefond etter [kommuneloven § 14-14](lov/2018-06-22-83/§14-14) tredje leddinterkommunale styrer etter § 27 i [kommuneloven av 1992](lov/1992-09-25-107/§27) som i medhold av [kommuneloven av 2018 § 31-2](lov/2018-06-22-83/§31-2) første ledd ikke er omdannet til interkommunalt politisk råd eller kommunalt oppgavefellesskap.
+Forskriften gjelder for
+
+1. økonomiplanen, årsbudsjettet, årsregnskapene og årsberetningen til kommuner og fylkeskommuner
+2. årsbudsjettet, årsregnskapet og årsberetningen til kommunale og fylkeskommunale foretak etter [kommuneloven kapittel 9](lov/2018-06-22-83/kap9)
+3. årsbudsjettet, årsregnskapet og årsberetningen til interkommunale politiske råd etter [kommuneloven kapittel 18](lov/2018-06-22-83/kap18) og kommunale oppgavefellesskap etter [kommuneloven kapittel 19](lov/2018-06-22-83/kap19)
+4. årsbudsjettet og årsregnskapet til lånefond etter [kommuneloven § 14-14](lov/2018-06-22-83/§14-14) tredje ledd
+5. interkommunale styrer etter § 27 i [kommuneloven av 1992](lov/1992-09-25-107/§27) som i medhold av [kommuneloven av 2018 § 31-2](lov/2018-06-22-83/§31-2) første ledd ikke er omdannet til interkommunalt politisk råd eller kommunalt oppgavefellesskap.
 
 ## Kapittel 2. Skillet mellom drift og investering
 
 ### § 2-1. Inntekter og utgifter mv. i økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet
 
-Økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet skal omfatteløpende inntekterutgifter til driftoverføring til investeringbruk av og avsetninger til driftsfonddekning av tidligere års merforbruk.
+Økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet skal omfatte
 
-Økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet skal også omfatteutlån og mottatte avdrag på utlån når det følger av [§ 2-7](forskrift/2019-06-07-714/§2-7)inntekter fra salg av aksjer når det følger av [§ 2-9](forskrift/2019-06-07-714/§2-9).
+1. løpende inntekter
+2. utgifter til drift
+3. overføring til investering
+4. bruk av og avsetninger til driftsfond
+5. dekning av tidligere års merforbruk.
+
+Økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet skal også omfatte
+
+1. utlån og mottatte avdrag på utlån når det følger av [§ 2-7](forskrift/2019-06-07-714/§2-7)
+2. inntekter fra salg av aksjer når det følger av [§ 2-9](forskrift/2019-06-07-714/§2-9).
 
 ### § 2-2. Inntekter og utgifter mv. i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet
 
-Økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet skal omfatteutgifter til investeringer i anleggsmidler og inntekter knyttet til anskaffelser av anleggsmidlerinntekter fra salg av anleggsmidler og utgifter knyttet til salg av anleggsmidlerbruk av lånutlån og mottatte avdrag på utlånoverføring fra driftbruk av og avsetninger til investeringsfonddekning av tidligere års udekket beløp.
+Økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet skal omfatte
 
-Økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet skal også omfattetilskudd til andres investeringer når det følger av [§ 2-4](forskrift/2019-06-07-714/§2-4)avdrag på lån når det følger av [§ 2-5](forskrift/2019-06-07-714/§2-5)utbytte og uttak av kapital fra selskaper når det følger av [§ 2-8](forskrift/2019-06-07-714/§2-8).
+1. utgifter til investeringer i anleggsmidler og inntekter knyttet til anskaffelser av anleggsmidler
+2. inntekter fra salg av anleggsmidler og utgifter knyttet til salg av anleggsmidler
+3. bruk av lån
+4. utlån og mottatte avdrag på utlån
+5. overføring fra drift
+6. bruk av og avsetninger til investeringsfond
+7. dekning av tidligere års udekket beløp.
+
+Økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet skal også omfatte
+
+1. tilskudd til andres investeringer når det følger av [§ 2-4](forskrift/2019-06-07-714/§2-4)
+2. avdrag på lån når det følger av [§ 2-5](forskrift/2019-06-07-714/§2-5)
+3. utbytte og uttak av kapital fra selskaper når det følger av [§ 2-8](forskrift/2019-06-07-714/§2-8).
 
 ### § 2-3. Vedlikehold og påkostninger på varige driftsmidler
 
@@ -114,7 +141,15 @@ Ved sikring skal gevinst eller tap på et sikringsinstrument sammenstilles med t
 
 ### § 3-4. Avskrivninger av anleggsmidler
 
-Anleggsmidler som har begrenset utnyttbar levetid, avskrives over den utnyttbare levetiden til anleggsmidlet. Avskrivningsperioden kan likevel ikke være lengre enn5 år for IKT-utstyr, kontormaskiner, og lignende10 år for inventar og innredning, større utstyr, verktøy og maskiner, kjøretøy, og lignende15 år for programvare20 år for brannbiler og andre større nyttekjøretøy, større anleggsmaskiner, båter og ferger, og lignende40 år for veger og parkeringsplasser, terminalbygninger, kaier og kaianlegg, forbrenningsanlegg, renseanlegg, pumpestasjoner, høydebasseng, og lignende50 år for barnehagelokaler, skolelokaler, idrettshaller og idrettsanlegg, boliger og lokaler til bofellesskap, administrasjonslokaler, institusjonslokaler, kulturbygg, lagerbygg, brannstasjoner, og lignende80 år for ledningsnett, og lignende.
+Anleggsmidler som har begrenset utnyttbar levetid, avskrives over den utnyttbare levetiden til anleggsmidlet. Avskrivningsperioden kan likevel ikke være lengre enn
+
+1. 5 år for IKT-utstyr, kontormaskiner, og lignende
+2. 10 år for inventar og innredning, større utstyr, verktøy og maskiner, kjøretøy, og lignende
+3. 15 år for programvare
+4. 20 år for brannbiler og andre større nyttekjøretøy, større anleggsmaskiner, båter og ferger, og lignende
+5. 40 år for veger og parkeringsplasser, terminalbygninger, kaier og kaianlegg, forbrenningsanlegg, renseanlegg, pumpestasjoner, høydebasseng, og lignende
+6. 50 år for barnehagelokaler, skolelokaler, idrettshaller og idrettsanlegg, boliger og lokaler til bofellesskap, administrasjonslokaler, institusjonslokaler, kulturbygg, lagerbygg, brannstasjoner, og lignende
+7. 80 år for ledningsnett, og lignende.
 
 Avskrivningene skal være lineære, hvis ikke noe annet følger av god kommunal regnskapsskikk.
 
@@ -170,17 +205,33 @@ Hvis kontantsalg i en avgrenset virksomhet er mindre enn tre ganger folketrygden
 
 ### § 4-1. Regnskapsføring av bruk av lån og egenkapitaldisposisjoner
 
-Ved avslutningen av regnskapet skal følgende disposisjoner regnskapsføres i samsvar med budsjetterte beløp:bruk av lånoverføring fra drift til investeringavsetning til og bruk av disposisjonsfond og ubundet investeringsfonddekning av tidligere års merforbruk.I tillegg regnskapsføres overføring fra drift til investering og avsetning til og bruk av disposisjonsfond og ubundet investeringsfond som er vedtatt av underordnet organ. I tillegg regnskapsføres dekning av tidligere års udekket beløp i samsvar med [kommuneloven § 14-11](lov/2018-06-22-83/§14-11) eller [§ 14-12](lov/2018-06-22-83/§14-12) eller denne forskriften [§ 9-5 tredje ledd](forskrift/2019-06-07-714/§9-5/ledd/3).
+Ved avslutningen av regnskapet skal følgende disposisjoner regnskapsføres i samsvar med budsjetterte beløp:
+
+1. bruk av lån
+2. overføring fra drift til investering
+3. avsetning til og bruk av disposisjonsfond og ubundet investeringsfond
+4. dekning av tidligere års merforbruk.
+
+I tillegg regnskapsføres overføring fra drift til investering og avsetning til og bruk av disposisjonsfond og ubundet investeringsfond som er vedtatt av underordnet organ. I tillegg regnskapsføres dekning av tidligere års udekket beløp i samsvar med [kommuneloven § 14-11](lov/2018-06-22-83/§14-11) eller [§ 14-12](lov/2018-06-22-83/§14-12) eller denne forskriften [§ 9-5 tredje ledd](forskrift/2019-06-07-714/§9-5/ledd/3).
 
 Regnskapsførte beløp etter første ledd skal strykes eller økes når det følger av [§ 4-2](forskrift/2019-06-07-714/§4-2) til [§ 4-6](forskrift/2019-06-07-714/§4-6).
 
-Før regnskapet avsluttes, skal i tillegg følgende strykes:overføring fra drift til investering, hvis det er nødvendig for å unngå at løpende inntekter avsettes til investeringsfond i strid med [kommuneloven § 14-9 andre ledd andre punktum](lov/2018-06-22-83/§14-9/ledd/2/setning/2)bruk av lån, hvis det er nødvendig for å unngå bruk av lån til formål som ikke kan finansieres med lån i strid med [kommuneloven § 14-15](lov/2018-06-22-83/§14-15) til [§ 14-17](lov/2018-06-22-83/§14-17).
+Før regnskapet avsluttes, skal i tillegg følgende strykes:
+
+1. overføring fra drift til investering, hvis det er nødvendig for å unngå at løpende inntekter avsettes til investeringsfond i strid med [kommuneloven § 14-9 andre ledd andre punktum](lov/2018-06-22-83/§14-9/ledd/2/setning/2)
+2. bruk av lån, hvis det er nødvendig for å unngå bruk av lån til formål som ikke kan finansieres med lån i strid med [kommuneloven § 14-15](lov/2018-06-22-83/§14-15) til [§ 14-17](lov/2018-06-22-83/§14-17).
 
 > Endret ved forskrift [9 des 2021 nr. 3479](forskrift/2021-12-09-3479) (i kraft 1 jan 2022).
 
 ### § 4-2. Strykninger av egenkapitaldisposisjoner og bruk av disposisjonsfond ved merforbruk i driftsregnskapet
 
-Hvis driftsregnskapet viser et merforbruk etter at disposisjonene i [§ 4-1](forskrift/2019-06-07-714/§4-1) første ledd er gjennomført, skal merforbruket reduseres så mye som mulig ved åstryke overføring til investeringstryke avsetning til disposisjonsfondstryke inndekning av tidligere års merforbruk.Overføring av midler som etter lov eller avtale er reservert for særskilte formål, kan likevel ikke strykes etter bokstav a. Strykninger etter bokstav a og b skal gjennomføres så mye som mulig før det foretas strykninger etter bokstav c.
+Hvis driftsregnskapet viser et merforbruk etter at disposisjonene i [§ 4-1](forskrift/2019-06-07-714/§4-1) første ledd er gjennomført, skal merforbruket reduseres så mye som mulig ved å
+
+1. stryke overføring til investering
+2. stryke avsetning til disposisjonsfond
+3. stryke inndekning av tidligere års merforbruk.
+
+Overføring av midler som etter lov eller avtale er reservert for særskilte formål, kan likevel ikke strykes etter bokstav a. Strykninger etter bokstav a og b skal gjennomføres så mye som mulig før det foretas strykninger etter bokstav c.
 
 Hvis regnskapet fortsatt viser et merforbruk etter strykningene, skal merforbruket reduseres ytterligere ved bruk av disposisjonsfond, så lenge det er tilgjengelige midler på fondet. Den delen av disposisjonsfondet som i det opprinnelige budsjettvedtaket for året etter regnskapsåret brukes til å finansiere driftsbudsjettet, kan likevel ikke brukes til å redusere merforbruket. Et merforbruk som ikke kan reduseres etter første punktum, fremføres til inndekning etter [kommuneloven § 14-11](lov/2018-06-22-83/§14-11) eller [§ 14-12](lov/2018-06-22-83/§14-12).
 
@@ -208,7 +259,13 @@ Hvis regnskapet fortsatt viser et udekket beløp etter strykningene, skal det ud
 
 ### § 4-6. Strykninger av bruk av lån, egenkapitaldisposisjoner og avsetning til ubundet investeringsfond ved udisponert beløp i investeringsregnskapet
 
-Hvis investeringsregnskapet viser et udisponert beløp etter at disposisjonene i [§ 4-1](forskrift/2019-06-07-714/§4-1) første ledd er gjennomført, skal det udisponerte beløpet reduseres så mye som mulig ved åstryke bruk av lånstryke overføring fra driftstryke bruk av ubundet investeringsfondOverføring av midler som etter lov eller avtale er reservert for særskilte formål, kan likevel ikke strykes etter bokstav b.
+Hvis investeringsregnskapet viser et udisponert beløp etter at disposisjonene i [§ 4-1](forskrift/2019-06-07-714/§4-1) første ledd er gjennomført, skal det udisponerte beløpet reduseres så mye som mulig ved å
+
+1. stryke bruk av lån
+2. stryke overføring fra drift
+3. stryke bruk av ubundet investeringsfond
+
+Overføring av midler som etter lov eller avtale er reservert for særskilte formål, kan likevel ikke strykes etter bokstav b.
 
 Hvis regnskapet fortsatt viser et udisponert beløp etter strykningene, skal det udisponerte beløpet avsettes til ubundet investeringsfond.
 
@@ -238,7 +295,38 @@ I oppstillingene etter [§ 5-4](forskrift/2019-06-07-714/§5-4) til [§ 5-6](for
 
 ### § 5-4. Bevilgningsoversikter – drift
 
-Inntektene som ikke knytter seg til bestemte formål i økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet, og disponeringen av disse inntektene, skal stilles opp slik:RammetilskuddInntekts- og formuesskattEiendomsskattAndre generelle driftsinntekterSum generelle driftsinntekterSum bevilgninger drift, nettoAvskrivningerSum netto driftsutgifterBrutto driftsresultatRenteinntekterUtbytterGevinster og tap på finansielle omløpsmidlerRenteutgifterAvdrag på lånNetto finansutgifterMotpost avskrivningerNetto driftsresultatDisponering eller dekning av netto driftsresultat:Overføring til investeringAvsetninger til bundne driftsfondBruk av bundne driftsfondAvsetninger til disposisjonsfondBruk av disposisjonsfondDekning av tidligere års merforbrukSum disponeringer eller dekning av netto driftsresultatFremført til inndekning i senere år (merforbruk).Første punktum er ikke til hinder for at renter og avdrag i stedet kan inngå i bevilgningene etter andre ledd. I økonomiplanen, årsbudsjettet og årsregnskapet kan postene 7 til 9 og 16 utelates.
+Inntektene som ikke knytter seg til bestemte formål i økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet, og disponeringen av disse inntektene, skal stilles opp slik:
+
+1. Rammetilskudd
+2. Inntekts- og formuesskatt
+3. Eiendomsskatt
+4. Andre generelle driftsinntekter
+5. Sum generelle driftsinntekter
+6. Sum bevilgninger drift, netto
+7. Avskrivninger
+8. Sum netto driftsutgifter
+9. Brutto driftsresultat
+10. Renteinntekter
+11. Utbytter
+12. Gevinster og tap på finansielle omløpsmidler
+13. Renteutgifter
+14. Avdrag på lån
+15. Netto finansutgifter
+16. Motpost avskrivninger
+17. Netto driftsresultat
+
+Disponering eller dekning av netto driftsresultat:
+
+1. Overføring til investering
+2. Avsetninger til bundne driftsfond
+3. Bruk av bundne driftsfond
+4. Avsetninger til disposisjonsfond
+5. Bruk av disposisjonsfond
+6. Dekning av tidligere års merforbruk
+7. Sum disponeringer eller dekning av netto driftsresultat
+8. Fremført til inndekning i senere år (merforbruk).
+
+Første punktum er ikke til hinder for at renter og avdrag i stedet kan inngå i bevilgningene etter andre ledd. I økonomiplanen, årsbudsjettet og årsregnskapet kan postene 7 til 9 og 16 utelates.
 
 Bevilgningene til de enkelte budsjettområdene i økonomiplanens driftsdel og driftsbudsjettet skal stilles opp i samsvar med det som er bestemt av det organet som har budsjettmyndigheten. Nettosummen av bevilgningene skal tilsvare beløpet på post 6 i oppstillingen etter første ledd.
 
@@ -248,7 +336,35 @@ Bevilgningene til de enkelte budsjettområdene i økonomiplanens driftsdel og dr
 
 ### § 5-5. Bevilgningsoversikter – investering
 
-Utgiftene, inntektene, avsetningene og bruken av avsetninger i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet, skal stilles opp slik:Investeringer i varige driftsmidlerTilskudd til andres investeringerInvesteringer i aksjer og andeler i selskaperUtlån av egne midlerAvdrag på lånSum investeringsutgifterKompensasjon for merverdiavgiftTilskudd fra andreSalg av varige driftsmidlerSalg av finansielle anleggsmidlerUtdeling fra selskaperMottatte avdrag på utlån av egne midlerBruk av lånSum investeringsinntekterVidereutlånBruk av lån til videreutlånAvdrag på lån til videreutlånMottatte avdrag på videreutlånNetto utgifter videreutlånOverføring fra driftAvsetninger til bundne investeringsfondBruk av bundne investeringsfondAvsetninger til ubundet investeringsfondBruk av ubundet investeringsfondDekning av tidligere års udekket beløpSum overføring fra drift og netto avsetningerFremført til inndekning i senere år (udekket beløp).
+Utgiftene, inntektene, avsetningene og bruken av avsetninger i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet, skal stilles opp slik:
+
+1. Investeringer i varige driftsmidler
+2. Tilskudd til andres investeringer
+3. Investeringer i aksjer og andeler i selskaper
+4. Utlån av egne midler
+5. Avdrag på lån
+6. Sum investeringsutgifter
+7. Kompensasjon for merverdiavgift
+8. Tilskudd fra andre
+9. Salg av varige driftsmidler
+10. Salg av finansielle anleggsmidler
+11. Utdeling fra selskaper
+12. Mottatte avdrag på utlån av egne midler
+13. Bruk av lån
+14. Sum investeringsinntekter
+15. Videreutlån
+16. Bruk av lån til videreutlån
+17. Avdrag på lån til videreutlån
+18. Mottatte avdrag på videreutlån
+19. Netto utgifter videreutlån
+20. Overføring fra drift
+21. Avsetninger til bundne investeringsfond
+22. Bruk av bundne investeringsfond
+23. Avsetninger til ubundet investeringsfond
+24. Bruk av ubundet investeringsfond
+25. Dekning av tidligere års udekket beløp
+26. Sum overføring fra drift og netto avsetninger
+27. Fremført til inndekning i senere år (udekket beløp).
 
 Bevilgningene til investeringer i varige driftsmidler, tilskudd til andres investeringer, investeringer i aksjer og andeler, og utlån av egne midler, skal stilles opp i samsvar med det som er bestemt av det organet som har budsjettmyndigheten. Oppstillingen av bevilgningene skal inneholde bruttobeløp. Bruttobeløpene til henholdsvis investeringer i varige driftsmidler, tilskudd til andres investeringer, investeringer i aksjer og andeler, og utlån av egne midler, skal tilsvare beløpene på postene 1 til 4 i oppstillingen etter første ledd.
 
@@ -258,7 +374,43 @@ Bevilgningene til investeringer i varige driftsmidler, tilskudd til andres inves
 
 ### § 5-6. Økonomisk oversikt etter art – drift
 
-Inntektene, utgiftene, avsetningene og bruken av avsetninger i økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet, skal stilles opp etter art slik:RammetilskuddInntekts- og formuesskattEiendomsskattAndre skatteinntekterAndre overføringer og tilskudd fra statenOverføringer og tilskudd fra andreBrukerbetalingerSalgs- og leieinntekterSum driftsinntekterLønnsutgifterSosiale utgifterKjøp av varer og tjenesterOverføringer og tilskudd til andreAvskrivningerSum driftsutgifterBrutto driftsresultatRenteinntekterUtbytterGevinster og tap på finansielle omløpsmidlerRenteutgifterAvdrag på lånNetto finansutgifterMotpost avskrivningerNetto driftsresultatDisponering eller dekning av netto driftsresultat:Overføring til investeringAvsetninger til bundne driftsfondBruk av bundne driftsfondAvsetninger til disposisjonsfondBruk av disposisjonsfondDekning av tidligere års merforbrukSum disponeringer eller dekning av netto driftsresultatFremført til inndekning i senere år (merforbruk).
+Inntektene, utgiftene, avsetningene og bruken av avsetninger i økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet, skal stilles opp etter art slik:
+
+1. Rammetilskudd
+2. Inntekts- og formuesskatt
+3. Eiendomsskatt
+4. Andre skatteinntekter
+5. Andre overføringer og tilskudd fra staten
+6. Overføringer og tilskudd fra andre
+7. Brukerbetalinger
+8. Salgs- og leieinntekter
+9. Sum driftsinntekter
+10. Lønnsutgifter
+11. Sosiale utgifter
+12. Kjøp av varer og tjenester
+13. Overføringer og tilskudd til andre
+14. Avskrivninger
+15. Sum driftsutgifter
+16. Brutto driftsresultat
+17. Renteinntekter
+18. Utbytter
+19. Gevinster og tap på finansielle omløpsmidler
+20. Renteutgifter
+21. Avdrag på lån
+22. Netto finansutgifter
+23. Motpost avskrivninger
+24. Netto driftsresultat
+
+Disponering eller dekning av netto driftsresultat:
+
+1. Overføring til investering
+2. Avsetninger til bundne driftsfond
+3. Bruk av bundne driftsfond
+4. Avsetninger til disposisjonsfond
+5. Bruk av disposisjonsfond
+6. Dekning av tidligere års merforbruk
+7. Sum disponeringer eller dekning av netto driftsresultat
+8. Fremført til inndekning i senere år (merforbruk).
 
 > Endret ved forskrift [9 des 2021 nr. 3479](forskrift/2021-12-09-3479) (i kraft 1 jan 2022).
 
@@ -272,46 +424,167 @@ Eiendeler, egenkapital og gjeld skal stilles opp slik:
 
 *Eiendeler*
 
-1. AnleggsmidlerVarige driftsmidlerFaste eiendommer og anleggUtstyr, maskiner og transportmidlerFinansielle anleggsmidlerAksjer og andelerObligasjonerUtlånImmaterielle eiendelerPensjonsmidler
-2. OmløpsmidlerBankinnskudd og kontanterFinansielle omløpsmidlerAksjer og andelerObligasjonerSertifikaterDerivaterKortsiktige fordringerKundefordringerAndre kortsiktige fordringerPremieavvik
+1. Anleggsmidler
+
+   1. Varige driftsmidler
+
+      1. Faste eiendommer og anlegg
+      2. Utstyr, maskiner og transportmidler
+   2. Finansielle anleggsmidler
+
+      1. Aksjer og andeler
+      2. Obligasjoner
+      3. Utlån
+   3. Immaterielle eiendeler
+   4. Pensjonsmidler
+2. Omløpsmidler
+
+   1. Bankinnskudd og kontanter
+   2. Finansielle omløpsmidler
+
+      1. Aksjer og andeler
+      2. Obligasjoner
+      3. Sertifikater
+      4. Derivater
+   3. Kortsiktige fordringer
+
+      1. Kundefordringer
+      2. Andre kortsiktige fordringer
+      3. Premieavvik
 
 Sum eiendeler
 
 *Egenkapital og gjeld*
 
-1. EgenkapitalEgenkapital driftDisposisjonsfondBundne driftsfondMerforbruk i driftsregnskapetEgenkapital investeringUbundet investeringsfondBundne investeringsfondUdekket beløp i investeringsregnskapetAnnen egenkapitalKapitalkontoPrinsippendringer som påvirker arbeidskapitalen driftPrinsippendringer som påvirker arbeidskapitalen investering
-2. Langsiktig gjeldLånGjeld til kredittinstitusjonerObligasjonslånSertifikatlånPensjonsforpliktelse
-3. Kortsiktig gjeldKortsiktig gjeldLeverandørgjeldLikviditetslånDerivaterAnnen kortsiktig gjeldPremieavvik
+1. Egenkapital
+
+   1. Egenkapital drift
+
+      1. Disposisjonsfond
+      2. Bundne driftsfond
+      3. Merforbruk i driftsregnskapet
+   2. Egenkapital investering
+
+      1. Ubundet investeringsfond
+      2. Bundne investeringsfond
+      3. Udekket beløp i investeringsregnskapet
+   3. Annen egenkapital
+
+      1. Kapitalkonto
+      2. Prinsippendringer som påvirker arbeidskapitalen drift
+      3. Prinsippendringer som påvirker arbeidskapitalen investering
+2. Langsiktig gjeld
+
+   1. Lån
+
+      1. Gjeld til kredittinstitusjoner
+      2. Obligasjonslån
+      3. Sertifikatlån
+   2. Pensjonsforpliktelse
+3. Kortsiktig gjeld
+
+   1. Kortsiktig gjeld
+
+      1. Leverandørgjeld
+      2. Likviditetslån
+      3. Derivater
+      4. Annen kortsiktig gjeld
+      5. Premieavvik
 
 Sum egenkapital og gjeld
 
-1. MemoriakontiUbrukte lånemidlerAndre memoriakontiMotkonto for memoriakontiene
+1. Memoriakonti
+
+   1. Ubrukte lånemidler
+   2. Andre memoriakonti
+   3. Motkonto for memoriakontiene
 
 ### § 5-9. Oversikt over samlet budsjettavvik og årsavslutningsdisposisjoner
 
-Disposisjonene som er foretatt i samsvar med [§ 4-1](forskrift/2019-06-07-714/§4-1) til [§ 4-4](forskrift/2019-06-07-714/§4-4) skal for driftsregnskapet stilles opp slik:Netto driftsresultatAvsetninger til bundne driftsfondBruk av bundne driftsfondOverføring til investering i henhold til årsbudsjettet og fullmakterAvsetninger til disposisjonsfond i henhold til årsbudsjettet og fullmakterBruk av disposisjonsfond i henhold til årsbudsjettet og fullmakterBudsjettert dekning av tidligere års merforbrukÅrets budsjettavvik (mer- eller mindreforbruk før strykninger)Strykning av overføring til investeringStrykning av avsetninger til disposisjonsfondStrykning av dekning av tidligere års merforbrukStrykning av bruk av disposisjonsfondMer- eller mindreforbruk etter strykningerBruk av disposisjonsfond for reduksjon av årets merforbruk etter strykningerBruk av disposisjonsfond for inndekning av tidligere års merforbrukBruk av mindreforbruk etter strykninger for dekning av tidligere års merforbrukAvsetning av mindreforbruk etter strykninger til disposisjonsfondFremført til inndekning i senere år (merforbruk).De av postene 9 til 12 og 14 til 17 som ikke er aktuelle, utelates.
+Disposisjonene som er foretatt i samsvar med [§ 4-1](forskrift/2019-06-07-714/§4-1) til [§ 4-4](forskrift/2019-06-07-714/§4-4) skal for driftsregnskapet stilles opp slik:
 
-Disposisjonene som er foretatt i samsvar med [§ 4-1](forskrift/2019-06-07-714/§4-1), [§ 4-5](forskrift/2019-06-07-714/§4-5) og [§ 4-6](forskrift/2019-06-07-714/§4-6), skal for investeringsregnskapet stilles opp slik:Sum utgifter og inntekter eksklusive bruk av lånAvsetninger til bundne investeringsfondBruk av bundne investeringsfondBudsjettert bruk av lånOverføring fra drift i henhold til årsbudsjettet og fullmakterAvsetninger til ubundet investeringsfond i henhold til årsbudsjettet og fullmakterBruk av ubundet investeringsfond i henhold til årsbudsjettet og fullmakterDekning av tidligere års udekket beløpÅrets budsjettavvik (udekket eller udisponert beløp før strykninger)Strykning av avsetninger til ubundet investeringsfondStrykning av bruk av lånStrykning av overføring fra driftStrykning av bruk av ubundet investeringsfondUdekket eller udisponert beløp etter strykningerAvsetning av udisponert beløp etter strykninger til ubundet investeringsfondFremført til inndekning i senere år (udekket beløp).De av postene 10 til 13 og 15 som ikke er aktuelle, utelates.
+1. Netto driftsresultat
+2. Avsetninger til bundne driftsfond
+3. Bruk av bundne driftsfond
+4. Overføring til investering i henhold til årsbudsjettet og fullmakter
+5. Avsetninger til disposisjonsfond i henhold til årsbudsjettet og fullmakter
+6. Bruk av disposisjonsfond i henhold til årsbudsjettet og fullmakter
+7. Budsjettert dekning av tidligere års merforbruk
+8. Årets budsjettavvik (mer- eller mindreforbruk før strykninger)
+9. Strykning av overføring til investering
+10. Strykning av avsetninger til disposisjonsfond
+11. Strykning av dekning av tidligere års merforbruk
+12. Strykning av bruk av disposisjonsfond
+13. Mer- eller mindreforbruk etter strykninger
+14. Bruk av disposisjonsfond for reduksjon av årets merforbruk etter strykninger
+15. Bruk av disposisjonsfond for inndekning av tidligere års merforbruk
+16. Bruk av mindreforbruk etter strykninger for dekning av tidligere års merforbruk
+17. Avsetning av mindreforbruk etter strykninger til disposisjonsfond
+18. Fremført til inndekning i senere år (merforbruk).
+
+De av postene 9 til 12 og 14 til 17 som ikke er aktuelle, utelates.
+
+Disposisjonene som er foretatt i samsvar med [§ 4-1](forskrift/2019-06-07-714/§4-1), [§ 4-5](forskrift/2019-06-07-714/§4-5) og [§ 4-6](forskrift/2019-06-07-714/§4-6), skal for investeringsregnskapet stilles opp slik:
+
+1. Sum utgifter og inntekter eksklusive bruk av lån
+2. Avsetninger til bundne investeringsfond
+3. Bruk av bundne investeringsfond
+4. Budsjettert bruk av lån
+5. Overføring fra drift i henhold til årsbudsjettet og fullmakter
+6. Avsetninger til ubundet investeringsfond i henhold til årsbudsjettet og fullmakter
+7. Bruk av ubundet investeringsfond i henhold til årsbudsjettet og fullmakter
+8. Dekning av tidligere års udekket beløp
+9. Årets budsjettavvik (udekket eller udisponert beløp før strykninger)
+10. Strykning av avsetninger til ubundet investeringsfond
+11. Strykning av bruk av lån
+12. Strykning av overføring fra drift
+13. Strykning av bruk av ubundet investeringsfond
+14. Udekket eller udisponert beløp etter strykninger
+15. Avsetning av udisponert beløp etter strykninger til ubundet investeringsfond
+16. Fremført til inndekning i senere år (udekket beløp).
+
+De av postene 10 til 13 og 15 som ikke er aktuelle, utelates.
 
 > Endret ved forskrift [9 des 2021 nr. 3479](forskrift/2021-12-09-3479) (i kraft 1 jan 2022).
 
 ### § 5-10. Faste noteopplysninger om arbeidskapitalen, kapitalkonto og endringer i regnskapsprinsipp
 
-I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:Det skal opplyses om hva arbeidskapitalen er ved inngangen av året, årets endring i arbeidskapitalen, og hva arbeidskapitalen er ved utgangen av året. Årets endring i arbeidskapitalen skal spesifiseres med netto driftsresultat, netto utgifter i investeringsregnskapet, endring i ubrukte lånemidler og virkningen av endring i regnskapsprinsipp.Årets endring i kapitalkonto skal spesifiseres med årets endring i bokført verdi av anleggsmidlene og langsiktig gjeld, endring i ubrukte lånemidler og virkningen av endring i regnskapsprinsipp.Det skal opplyses om vesentlige endringer i regnskapsprinsipp. Det skal også opplyses om vesentlige endringer i regnskapsestimater og om vesentlige korrigeringer av tidligere års feil.
+I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:
+
+1. Det skal opplyses om hva arbeidskapitalen er ved inngangen av året, årets endring i arbeidskapitalen, og hva arbeidskapitalen er ved utgangen av året. Årets endring i arbeidskapitalen skal spesifiseres med netto driftsresultat, netto utgifter i investeringsregnskapet, endring i ubrukte lånemidler og virkningen av endring i regnskapsprinsipp.
+2. Årets endring i kapitalkonto skal spesifiseres med årets endring i bokført verdi av anleggsmidlene og langsiktig gjeld, endring i ubrukte lånemidler og virkningen av endring i regnskapsprinsipp.
+3. Det skal opplyses om vesentlige endringer i regnskapsprinsipp. Det skal også opplyses om vesentlige endringer i regnskapsestimater og om vesentlige korrigeringer av tidligere års feil.
 
 ### § 5-11. Faste noteopplysninger om eiendeler
 
-I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:For hver gruppe av varige driftsmidler skal det opplyses om avskrivningsperioder. For hver gruppe av varige driftsmidler skal det også opplyses om balanseført verdi ved inngangen av året, årets tilgang, avgang, avskrivninger, nedskrivninger og eventuelle reverseringer av nedskrivninger, og balanseført verdi ved utgangen av året. Leide varige driftsmidler som er balanseført, skal spesifiseres hvis leieavtalen er vesentlig. Det skal i tillegg opplyses om årsaken til vesentlige nedskrivninger og eventuelle reverseringer av slike.For aksjer og andeler under finansielle anleggsmidler skal det for hvert selskap opplyses om eierandelen og balanseført verdi ved utgangen av regnskapsåret. Det skal også opplyses om vesentlige endringer i eierandeler. Det skal i tillegg opplyses om vesentlige nedskrivninger, og eventuelle reverseringer av slike, og årsaken til dette.For utlån under finansielle anleggsmidler skal det for hvert utlån opplyses om lånets størrelse, hvem som er låntaker, og om utlånet er finansiert med egne midler eller med lån etter [kommuneloven § 14-17](lov/2018-06-22-83/§14-17) første ledd. Utlån til samme låntaker kan angis samlet. Utlån til privatpersoner kan også angis samlet. Det skal i tillegg opplyses om vesentlige tap på utlån.For markedsbaserte finansielle omløpsmidler skal det opplyses om sum anskaffelseskost, balanseført verdi ved inngangen av året, årets resultatførte verdiendring og balanseført verdi ved utgangen av året. Første punktum gjelder tilsvarende for derivater som ikke regnskapsføres etter reglene om sikring i [§ 3-3](forskrift/2019-06-07-714/§3-3) tredje ledd.Det skal opplyses om hvilke finansielle eiendeler og finansielle forpliktelser som regnskapsføres etter reglene om sikring, hva som er tilhørende sikringsobjekter, formålet med sikringen og sikringens varighet.
+I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:
+
+1. For hver gruppe av varige driftsmidler skal det opplyses om avskrivningsperioder. For hver gruppe av varige driftsmidler skal det også opplyses om balanseført verdi ved inngangen av året, årets tilgang, avgang, avskrivninger, nedskrivninger og eventuelle reverseringer av nedskrivninger, og balanseført verdi ved utgangen av året. Leide varige driftsmidler som er balanseført, skal spesifiseres hvis leieavtalen er vesentlig. Det skal i tillegg opplyses om årsaken til vesentlige nedskrivninger og eventuelle reverseringer av slike.
+2. For aksjer og andeler under finansielle anleggsmidler skal det for hvert selskap opplyses om eierandelen og balanseført verdi ved utgangen av regnskapsåret. Det skal også opplyses om vesentlige endringer i eierandeler. Det skal i tillegg opplyses om vesentlige nedskrivninger, og eventuelle reverseringer av slike, og årsaken til dette.
+3. For utlån under finansielle anleggsmidler skal det for hvert utlån opplyses om lånets størrelse, hvem som er låntaker, og om utlånet er finansiert med egne midler eller med lån etter [kommuneloven § 14-17](lov/2018-06-22-83/§14-17) første ledd. Utlån til samme låntaker kan angis samlet. Utlån til privatpersoner kan også angis samlet. Det skal i tillegg opplyses om vesentlige tap på utlån.
+4. For markedsbaserte finansielle omløpsmidler skal det opplyses om sum anskaffelseskost, balanseført verdi ved inngangen av året, årets resultatførte verdiendring og balanseført verdi ved utgangen av året. Første punktum gjelder tilsvarende for derivater som ikke regnskapsføres etter reglene om sikring i [§ 3-3](forskrift/2019-06-07-714/§3-3) tredje ledd.
+5. Det skal opplyses om hvilke finansielle eiendeler og finansielle forpliktelser som regnskapsføres etter reglene om sikring, hva som er tilhørende sikringsobjekter, formålet med sikringen og sikringens varighet.
 
 ### § 5-12. Faste noteopplysninger om lån, avdrag, pensjon og andre forpliktelser
 
-I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:For lån skal det opplyses om hvor mye som gjelder lån til henholdsvis egne investeringer, andres investeringer, innfrielse av kausjoner og videreutlån. Leieforpliktelser som er balanseført skal spesifiseres hvis forpliktelsen er vesentlig. Det skal også opplyses om gjennomsnittlig løpetid og rente. Det skal i tillegg opplyses om verdien på lån som forfaller og må refinansieres i det året regnskapet legges fram.Det skal opplyses om størrelsen på minimumsavdraget beregnet etter [kommuneloven § 14-18](lov/2018-06-22-83/§14-18) første ledd. Det skal også opplyses om sum avskrivninger, verdien på lånegjelden og verdien på de varige driftsmidlene som ligger til grunn for beregningen. Hvis mottatte avdrag på videreutlån er brukt til å betale avdrag på lån til formål som nevnt i § 14-15 første og andre ledd og § 14-16, skal det opplyses om beløpet og hvordan minimumsavdraget er korrigert for dette.Det skal opplyses om årets pensjonspremier, netto pensjonskostnad og premieavvik, og om årets amortiseringskostnader og samlet pensjonskostnad. Det skal også opplyses om hvilke amortiseringsperioder som benyttes for amortisering av premieavvik. Det skal i tillegg opplyses om størrelsen på bruk av premiefond i året og midler på premiefond ved utgangen av året. Årets netto pensjonskostnad og årets endring i pensjonsmidler og brutto pensjonsforpliktelse skal spesifiseres. Det skal opplyses om hvilke beregningsforutsetninger som er brukt.For hver garanti skal det opplyses om hvem garantien er stilt for, hvilket formål garantien gjelder, type garanti, vedtatt garantiramme, garantiansvaret ved utgangen av regnskapsåret og når garantiansvaret utløper. Hvis en garanti gjelder for lån som enda ikke er tatt opp, skal det også opplyses om forventet låneopptak. Hvis garantien også omfatter renter, omkostninger og lignende, skal det opplyses om dette i tillegg til lånebeløpet. For hver garanti skal det opplyses om garantien er godkjent eller kun vedtatt men enda ikke godkjent, eller om garantien gjelder for små beløp. Garantier som gjelder privatpersoner kan summeres og opplyses samlet. Hvis en garanti er innfridd eller det er sannsynlig at en garanti må innfris, skal det opplyses om hvilken garanti det gjelder og innfrielsesbeløpet.
+I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:
+
+1. For lån skal det opplyses om hvor mye som gjelder lån til henholdsvis egne investeringer, andres investeringer, innfrielse av kausjoner og videreutlån. Leieforpliktelser som er balanseført skal spesifiseres hvis forpliktelsen er vesentlig. Det skal også opplyses om gjennomsnittlig løpetid og rente. Det skal i tillegg opplyses om verdien på lån som forfaller og må refinansieres i det året regnskapet legges fram.
+2. Det skal opplyses om størrelsen på minimumsavdraget beregnet etter [kommuneloven § 14-18](lov/2018-06-22-83/§14-18) første ledd. Det skal også opplyses om sum avskrivninger, verdien på lånegjelden og verdien på de varige driftsmidlene som ligger til grunn for beregningen. Hvis mottatte avdrag på videreutlån er brukt til å betale avdrag på lån til formål som nevnt i § 14-15 første og andre ledd og § 14-16, skal det opplyses om beløpet og hvordan minimumsavdraget er korrigert for dette.
+3. Det skal opplyses om årets pensjonspremier, netto pensjonskostnad og premieavvik, og om årets amortiseringskostnader og samlet pensjonskostnad. Det skal også opplyses om hvilke amortiseringsperioder som benyttes for amortisering av premieavvik. Det skal i tillegg opplyses om størrelsen på bruk av premiefond i året og midler på premiefond ved utgangen av året. Årets netto pensjonskostnad og årets endring i pensjonsmidler og brutto pensjonsforpliktelse skal spesifiseres. Det skal opplyses om hvilke beregningsforutsetninger som er brukt.
+4. For hver garanti skal det opplyses om hvem garantien er stilt for, hvilket formål garantien gjelder, type garanti, vedtatt garantiramme, garantiansvaret ved utgangen av regnskapsåret og når garantiansvaret utløper. Hvis en garanti gjelder for lån som enda ikke er tatt opp, skal det også opplyses om forventet låneopptak. Hvis garantien også omfatter renter, omkostninger og lignende, skal det opplyses om dette i tillegg til lånebeløpet. For hver garanti skal det opplyses om garantien er godkjent eller kun vedtatt men enda ikke godkjent, eller om garantien gjelder for små beløp. Garantier som gjelder privatpersoner kan summeres og opplyses samlet. Hvis en garanti er innfridd eller det er sannsynlig at en garanti må innfris, skal det opplyses om hvilken garanti det gjelder og innfrielsesbeløpet.
 
 > Endret ved forskrift [9 des 2021 nr. 3479](forskrift/2021-12-09-3479) (i kraft 1 jan 2022).
 
 ### § 5-13. Faste noteopplysninger om andre forhold
 
-I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:For bundne fond som er vesentlige, skal det opplyses om hvilket formål fondet er bundet til. Det skal også opplyses om årets avsetning til eller bruk av fondet og størrelsen på fondet ved utgangen av året. Hvis det ikke har vært brukt av fondet i regnskapsåret, skal det i tillegg opplyses om årsaken til dette.For gebyrer som etter lov eller forskrift ikke skal være større enn selvkost, skal det for hvert gebyrområde opplyses om gebyrinntekter, beregnet selvkost, selvkostresultat, avsetning til eller bruk av selvkostfondet, eventuelt dekning av fremført underskudd fra tidligere år eller fremføring av årets underskudd til dekning i senere år. Det skal også opplyses om størrelsen på selvkostfondet, eventuelt akkumulert underskudd, ved utgangen av året.For inntekter fra salg av aksjer som er klassifisert som finansielle anleggsmidler, skal det opplyses om beløpet som er ført i henholdsvis investeringsregnskapet og driftsregnskapet.Det skal opplyses om ytelser til ledende personer i virksomheten.Det skal opplyses om godtgjørelser til revisor, fordelt på revisjon og rådgivning.
+I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:
+
+1. For bundne fond som er vesentlige, skal det opplyses om hvilket formål fondet er bundet til. Det skal også opplyses om årets avsetning til eller bruk av fondet og størrelsen på fondet ved utgangen av året. Hvis det ikke har vært brukt av fondet i regnskapsåret, skal det i tillegg opplyses om årsaken til dette.
+2. For gebyrer som etter lov eller forskrift ikke skal være større enn selvkost, skal det for hvert gebyrområde opplyses om gebyrinntekter, beregnet selvkost, selvkostresultat, avsetning til eller bruk av selvkostfondet, eventuelt dekning av fremført underskudd fra tidligere år eller fremføring av årets underskudd til dekning i senere år. Det skal også opplyses om størrelsen på selvkostfondet, eventuelt akkumulert underskudd, ved utgangen av året.
+3. For inntekter fra salg av aksjer som er klassifisert som finansielle anleggsmidler, skal det opplyses om beløpet som er ført i henholdsvis investeringsregnskapet og driftsregnskapet.
+4. Det skal opplyses om ytelser til ledende personer i virksomheten.
+5. Det skal opplyses om godtgjørelser til revisor, fordelt på revisjon og rådgivning.
 
 > Endret ved forskrift [9 des 2021 nr. 3479](forskrift/2021-12-09-3479) (i kraft 1 jan 2022).
 
@@ -343,7 +616,10 @@ Kommunale og fylkeskommunale foretak kan i oppstillingene etter [§ 5-4](forskri
 
 ### § 6-2. Særlige noteopplysninger i årsregnskapet
 
-I tillegg til noteopplysningene som nevnt i [§ 5-10](forskrift/2019-06-07-714/§5-10) til [§ 5-15](forskrift/2019-06-07-714/§5-15) skal årsregnskapet til kommunale og fylkeskommunale foretak inneholde noter med følgende opplysninger:Hvor stor andel av foretakets inntekter som kommer fra egen kommune eller fylkeskommune, og hvor stor andel av foretakets inntekter som kommer fra andre.Overføringer fra kommunekassen eller fylkeskommunekassen som er foretatt for å dekke inn et merforbruk i foretaket.
+I tillegg til noteopplysningene som nevnt i [§ 5-10](forskrift/2019-06-07-714/§5-10) til [§ 5-15](forskrift/2019-06-07-714/§5-15) skal årsregnskapet til kommunale og fylkeskommunale foretak inneholde noter med følgende opplysninger:
+
+1. Hvor stor andel av foretakets inntekter som kommer fra egen kommune eller fylkeskommune, og hvor stor andel av foretakets inntekter som kommer fra andre.
+2. Overføringer fra kommunekassen eller fylkeskommunekassen som er foretatt for å dekke inn et merforbruk i foretaket.
 
 ## Kapittel 7. Særlige regler for kommunale og fylkeskommunale foretak som driver næringsvirksomhet
 
@@ -383,7 +659,10 @@ Interkommunale politiske råd og kommunale oppgavefellesskap kan i oppstillingen
 
 ### § 8-2. Særlige noteopplysninger i årsregnskapet
 
-I tillegg til noteopplysningene som nevnt i [§ 5-10](forskrift/2019-06-07-714/§5-10) til [§ 5-15](forskrift/2019-06-07-714/§5-15) skal årsregnskapet til interkommunale politiske råd og kommunale oppgavefellesskap inneholde noter med følgende opplysninger:Hvor stor andel av samarbeidets inntekter som kommer fra deltakerkommunene, og hvor stor andel av samarbeidets inntekter som kommer fra andre.Overføringer fra deltakerkommunene som er foretatt for å dekke inn et merforbruk i samarbeidet.
+I tillegg til noteopplysningene som nevnt i [§ 5-10](forskrift/2019-06-07-714/§5-10) til [§ 5-15](forskrift/2019-06-07-714/§5-15) skal årsregnskapet til interkommunale politiske råd og kommunale oppgavefellesskap inneholde noter med følgende opplysninger:
+
+1. Hvor stor andel av samarbeidets inntekter som kommer fra deltakerkommunene, og hvor stor andel av samarbeidets inntekter som kommer fra andre.
+2. Overføringer fra deltakerkommunene som er foretatt for å dekke inn et merforbruk i samarbeidet.
 
 ### § 8-3. Unntak fra kravet om eget årsbudsjett, årsregnskap og årsberetning
 
@@ -453,7 +732,13 @@ Interkommunalt politisk råd og kommunalt oppgavefellesskap som ikke er et eget 
 
 ### § 10-4. Særlige noteopplysninger i det konsoliderte årsregnskapet
 
-I tillegg til noteopplysningene som nevnt i [§ 5-10](forskrift/2019-06-07-714/§5-10) til [§ 5-15](forskrift/2019-06-07-714/§5-15), skal det konsoliderte årsregnskapet inneholde noter med følgende opplysninger:Hvilke enheter som inngår i det konsoliderte regnskapet.Hvilke enheter som eventuelt er utelatt etter [§ 10-3](forskrift/2019-06-07-714/§10-3).Hvilke enheter som har kommet til eller som har gått ut av det konsoliderte regnskapet siden forrige regnskapsår.Regnskapsopplysninger om enheter som nevnt i bokstav b og c, hvis dette har vesentlig betydning for vurderingen av kommunens eller fylkeskommunens økonomiske utvikling og stilling.Andelen av inntekter, utgifter, eiendeler, gjeld eller egenkapital som er knyttet til de øvrige deltakerkommunene i interkommunalt politisk råd eller kommunalt oppgavefelleskap som ikke er eget rettssubjekt, hvis dette har vesentlig betydning for vurderingen av kommunens eller fylkeskommunens økonomiske utvikling og stilling.
+I tillegg til noteopplysningene som nevnt i [§ 5-10](forskrift/2019-06-07-714/§5-10) til [§ 5-15](forskrift/2019-06-07-714/§5-15), skal det konsoliderte årsregnskapet inneholde noter med følgende opplysninger:
+
+1. Hvilke enheter som inngår i det konsoliderte regnskapet.
+2. Hvilke enheter som eventuelt er utelatt etter [§ 10-3](forskrift/2019-06-07-714/§10-3).
+3. Hvilke enheter som har kommet til eller som har gått ut av det konsoliderte regnskapet siden forrige regnskapsår.
+4. Regnskapsopplysninger om enheter som nevnt i bokstav b og c, hvis dette har vesentlig betydning for vurderingen av kommunens eller fylkeskommunens økonomiske utvikling og stilling.
+5. Andelen av inntekter, utgifter, eiendeler, gjeld eller egenkapital som er knyttet til de øvrige deltakerkommunene i interkommunalt politisk råd eller kommunalt oppgavefelleskap som ikke er eget rettssubjekt, hvis dette har vesentlig betydning for vurderingen av kommunens eller fylkeskommunens økonomiske utvikling og stilling.
 
 I det konsoliderte årsregnskapet kan noteopplysninger som nevnt i [§ 5-10](forskrift/2019-06-07-714/§5-10) til [§ 5-14](forskrift/2019-06-07-714/§5-14) utelates så langt det er i samsvar med god kommunal regnskapsskikk.
 
@@ -463,7 +748,11 @@ I det konsoliderte årsregnskapet kan noteopplysninger som nevnt i [§ 5-10](for
 
 Forskriften trer i kraft 1. januar 2020. § 11-2 trer i kraft straks.
 
-Fra samme tidspunkt oppheves følgende forskrifter:[Forskrift 15. desember 2000 nr. 1423](forskrift/2000-12-15-1423) om årsbudsjett (for kommuner og fylkeskommuner).[Forskrift 15. desember 2000 nr. 1424](forskrift/2000-12-15-1424) om årsregnskap og årsberetning (for kommuner og fylkeskommuner).[Forskrift 24. august 2006 nr. 1033](forskrift/2006-08-24-1033) om særbudsjett, særregnskap og årsberetning for kommunale og fylkeskommunale foretak.
+Fra samme tidspunkt oppheves følgende forskrifter:
+
+1. [Forskrift 15. desember 2000 nr. 1423](forskrift/2000-12-15-1423) om årsbudsjett (for kommuner og fylkeskommuner).
+2. [Forskrift 15. desember 2000 nr. 1424](forskrift/2000-12-15-1424) om årsregnskap og årsberetning (for kommuner og fylkeskommuner).
+3. [Forskrift 24. august 2006 nr. 1033](forskrift/2006-08-24-1033) om særbudsjett, særregnskap og årsberetning for kommunale og fylkeskommunale foretak.
 
 > Endret ved [forskrift 27 juni 2019 nr. 929](forskrift/2019-06-27-929).
 

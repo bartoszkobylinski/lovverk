@@ -15,7 +15,7 @@ xml_hash: "98442b4535d6716166e30e7127eb33afd552835b8e35c1f9ed7edcf41b519bd6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,13 @@ Styret ved Brann- og redningsskolen bestemmer om det skal settes krav om karakte
 
 ### § 8. Spesielle opptakskrav etter brann- og eksplosjonsvernloven
 
-For å kvalifisere for opptak til fagskolestudiet Brann, redning og samfunnssikkerhet må søkere i tillegg til å fylle kravene etter [§ 6](forskrift/2023-01-30-111/§6) og [§ 7](forskrift/2023-01-30-111/§7), også oppfylle følgende kravhelsekravene for utrykningskjøring, jf. [forskrift 12. juni 2009 nr. 637 om krav til opplæring, prøve og kompetanse for utrykningskjøring (utrykningsforskriften) § 6](forskrift/2009-06-12-637/§6)helsekravene for røyk- og kjemikaliedykker, jf. [forskrift 6. desember 2011 nr. 1357 om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) § 3-23](forskrift/2011-12-06-1357/§3-23)bestå fysiske tester for å oppfylle krav som er nødvendige for å kunne gjennomføre utdannelsen og å utøve yrkethatt førerrett klasse B uavbrutt i minst to år ved studiestartkrav til god vandel.
+For å kvalifisere for opptak til fagskolestudiet Brann, redning og samfunnssikkerhet må søkere i tillegg til å fylle kravene etter [§ 6](forskrift/2023-01-30-111/§6) og [§ 7](forskrift/2023-01-30-111/§7), også oppfylle følgende krav
+
+1. helsekravene for utrykningskjøring, jf. [forskrift 12. juni 2009 nr. 637 om krav til opplæring, prøve og kompetanse for utrykningskjøring (utrykningsforskriften) § 6](forskrift/2009-06-12-637/§6)
+2. helsekravene for røyk- og kjemikaliedykker, jf. [forskrift 6. desember 2011 nr. 1357 om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) § 3-23](forskrift/2011-12-06-1357/§3-23)
+3. bestå fysiske tester for å oppfylle krav som er nødvendige for å kunne gjennomføre utdannelsen og å utøve yrket
+4. hatt førerrett klasse B uavbrutt i minst to år ved studiestart
+5. krav til god vandel.
 
 Opptakskravene skal beskrives nærmere i studieplanen for utdanningen.
 
@@ -94,7 +100,12 @@ Søkere med fullført og bestått treårig videregående opplæring fra land ute
 
 Brann- og redningsskolen er ansvarlig for at opptaket til fagskolestudiet Brann, redning og samfunnssikkerhet gjøres i henhold til lover og forskrifter.
 
-I søknaden om opptak til fagskolestudiet må søkeren dokumentere følgenderelevant utdanningsprogram, fag- og svennebrev, treårig yrkesfaglig opplæring eller realkompetanseførerrett klasse Berklæring fra lege som bekrefter at helsekravene etter § 8 a og b i denne forskriften er oppfyltuttømmende politiattest.
+I søknaden om opptak til fagskolestudiet må søkeren dokumentere følgende
+
+1. relevant utdanningsprogram, fag- og svennebrev, treårig yrkesfaglig opplæring eller realkompetanse
+2. førerrett klasse B
+3. erklæring fra lege som bekrefter at helsekravene etter § 8 a og b i denne forskriften er oppfylt
+4. uttømmende politiattest.
 
 Søknaden med dokumentasjon etter andre ledd må, innen søknadsfristens utløp, registreres i portalen til Samordna opptak ved Direktoratet for høyere utdanning og kompetanse.
 
@@ -188,7 +199,13 @@ Studentene vurderes under studiet og avslutningsvis i emner som fremgår av stud
 
 Brann- og redningsskolen skal på et best mulig grunnlag vurdere om studenten har tilegnet seg de kunnskapene, ferdighetene og den generelle kompetansen som er beskrevet i læringsutbyttebeskrivelsene for utdanningen.
 
-Ved fagskolestudiet benyttes følgende vurderingsformer:Skriftlig eksamenMuntlig eksamenPraktisk eksamenProsjektoppgaveVurdering av praksis i beredskap, forebygging og nødalarmering.
+Ved fagskolestudiet benyttes følgende vurderingsformer:
+
+1. Skriftlig eksamen
+2. Muntlig eksamen
+3. Praktisk eksamen
+4. Prosjektoppgave
+5. Vurdering av praksis i beredskap, forebygging og nødalarmering.
 
 Vurderingen skal være bestått/ikke bestått eller en gradert karakterskala fra A til E for bestått og F for ikke bestått.
 
@@ -236,7 +253,15 @@ Studenter som skal avlegge ny eller utsatt eksamen, blir automatisk meldt opp ti
 
 ### § 23. Antall forsøk på eksamen
 
-En student har rett til å ta eksamen inntil tre ganger i samme emne. Tellende forsøk på eksamen er når studentenhar bestått eksamenfår karakteren F/ikke beståttikke møter til eksamenikke leverer eksamensbesvarelsen innen fristhar møtt til eksamen, men velger å trekke seg under eksamenfår eksamen annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptredenikke kan avlegge eksamen i et emne som følge av manglende oppmøte eller godkjenning av arbeidskrav.
+En student har rett til å ta eksamen inntil tre ganger i samme emne. Tellende forsøk på eksamen er når studenten
+
+1. har bestått eksamen
+2. får karakteren F/ikke bestått
+3. ikke møter til eksamen
+4. ikke leverer eksamensbesvarelsen innen frist
+5. har møtt til eksamen, men velger å trekke seg under eksamen
+6. får eksamen annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden
+7. ikke kan avlegge eksamen i et emne som følge av manglende oppmøte eller godkjenning av arbeidskrav.
 
 En student som har bestått en eksamen kan kun ta opp igjen samme eksamen én gang.
 
@@ -376,7 +401,14 @@ Utestenging og bortvisning er regulert i [fagskoleloven § 25](lov/2018-06-08-28
 
 Studieretten opphører når studenten skriftlig bekrefter å ha trukket seg fra studiet, når studiet er fullført og vitnemål er utstedt, eller ved tap av studierett.
 
-Studenten taper studieretten når studentenikke har møtt til studiets oppstartved tre eksamensforsøk ikke har bestått eksamen i samme emneikke har bestått praksisperioden to gangerikke har fullført og bestått studiet innen tre år etter studiestart og ikke har fått dispensasjon fra fremdriftskravene etter [§ 17](forskrift/2023-01-30-111/§17)ved falskt vitnemål eller annen ugyldig dokumentasjon er innvilget opptakunnlater å levere original dokumentasjon eller vitnemål når det blir etterspurt.
+Studenten taper studieretten når studenten
+
+1. ikke har møtt til studiets oppstart
+2. ved tre eksamensforsøk ikke har bestått eksamen i samme emne
+3. ikke har bestått praksisperioden to ganger
+4. ikke har fullført og bestått studiet innen tre år etter studiestart og ikke har fått dispensasjon fra fremdriftskravene etter [§ 17](forskrift/2023-01-30-111/§17)
+5. ved falskt vitnemål eller annen ugyldig dokumentasjon er innvilget opptak
+6. unnlater å levere original dokumentasjon eller vitnemål når det blir etterspurt.
 
 Vedtak om tap av studierett skal varsles, jf. [forvaltningsloven § 16](lov/1967-02-10/§16), og kan påklages.
 

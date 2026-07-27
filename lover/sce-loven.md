@@ -15,7 +15,7 @@ xml_hash: "6c55078654a78d284212fa7dac8ffc9961a8ad950ef80dda3f755e38e0a4ffcb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32003R1435"
@@ -46,7 +46,10 @@ Et foretak som ikke har sitt hovedkontor i en EØS-stat, kan delta i stiftelsen 
 
 ## § 5. Stiftelse ved fusjon
 
-Ved stiftelse av et europeisk samvirkeforetak ved fusjon etter SCE-forordningen artikkel 2 nr. 1, jf. artikkel 19 til 34, gjelder reglene om fusjon mellom samvirkeforetak tilsvarende så langt de passer for norske foretak som deltar i fusjonen, jf. SCE-forordningen artikkel 20. Driver foretaket som deltar i fusjonen, virksomhet som omfattes av de lover som er nevnt i bokstav a og b, skal i stedet følgende regler om fusjon så langt de passer supplere SCE-forordningen artikkel 20:[bustadbyggjelagslova kapittel 9](lov/2003-06-06-38/kap9),[burettslagslova §§ 10-1](lov/2003-06-06-39/§10-1) til [10-5](lov/2003-06-06-39/§10-5).
+Ved stiftelse av et europeisk samvirkeforetak ved fusjon etter SCE-forordningen artikkel 2 nr. 1, jf. artikkel 19 til 34, gjelder reglene om fusjon mellom samvirkeforetak tilsvarende så langt de passer for norske foretak som deltar i fusjonen, jf. SCE-forordningen artikkel 20. Driver foretaket som deltar i fusjonen, virksomhet som omfattes av de lover som er nevnt i bokstav a og b, skal i stedet følgende regler om fusjon så langt de passer supplere SCE-forordningen artikkel 20:
+
+1. [bustadbyggjelagslova kapittel 9](lov/2003-06-06-38/kap9),
+2. [burettslagslova §§ 10-1](lov/2003-06-06-39/§10-1) til [10-5](lov/2003-06-06-39/§10-5).
 
 Foretaksregisteret er kompetent myndighet til å utstede attesten som nevnt i SCE-forordningen artikkel 29 nr. 2, og til å kontrollere lovligheten av fusjonen etter SCE-forordningen artikkel 30.
 
@@ -66,7 +69,10 @@ Bekreftelse som nevnt i SCE-forordningen artikkel 35 nr. 5 skal gis av en statsa
 
 Når flytting er besluttet etter SCE-forordningen artikkel 7, skal et europeisk samvirkeforetak ved sitt foretaksnavn på brev, kunngjøringer og andre dokumenter tilføye ordene «under flytting».
 
-Ved flytting av et europeisk samvirkeforetak gjelder reglene i [samvirkeloven §§ 113](lov/2007-06-29-81/§113) til [116](lov/2007-06-29-81/§116) om gjennomføring av fusjon tilsvarende så langt de passer. Ved flytting av et europeisk samvirkeforetak som driver virksomhet som omfattes av de lover som er nevnt i bokstav a og b, skal i stedet følgende regler om gjennomføring av fusjon gjelde så langt de passer:[bustadbyggjelagslova §§ 9-8](lov/2003-06-06-38/§9-8) til [9-11](lov/2003-06-06-38/§9-11),[burettslagslova §§ 10-3](lov/2003-06-06-39/§10-3) til [10-5](lov/2003-06-06-39/§10-5).
+Ved flytting av et europeisk samvirkeforetak gjelder reglene i [samvirkeloven §§ 113](lov/2007-06-29-81/§113) til [116](lov/2007-06-29-81/§116) om gjennomføring av fusjon tilsvarende så langt de passer. Ved flytting av et europeisk samvirkeforetak som driver virksomhet som omfattes av de lover som er nevnt i bokstav a og b, skal i stedet følgende regler om gjennomføring av fusjon gjelde så langt de passer:
+
+1. [bustadbyggjelagslova §§ 9-8](lov/2003-06-06-38/§9-8) til [9-11](lov/2003-06-06-38/§9-11),
+2. [burettslagslova §§ 10-3](lov/2003-06-06-39/§10-3) til [10-5](lov/2003-06-06-39/§10-5).
 
 Kongen kan nedlegge forbud mot at et europeisk samvirkeforetak flytter dersom det strider mot offentlige interesser, jf. SCE-forordningen artikkel 7 nr. 14.
 
@@ -161,7 +167,15 @@ ut fra følgende betraktninger:
 7. Samvirker er først og fremst grupper av fysiske eller juridiske personer som baserer sin virksomhet på andre prinsipper enn andre markedsdeltakere. Disse omfatter prinsippene om demokratisk struktur og kontroll og rettferdig fordeling av nettoutbyttet for regnskapsåret.
 8. Disse særlige prinsippene omfatter særlig prinsippet om personers forrang, som gjenspeiles i de spesifikke reglene om medlemskap, avgang og utelukkelse, der prinsippet om «én person, én stemme» er fastsatt og stemmeretten er knyttet til personen, noe som innebærer at medlemmer ikke har noen rettigheter med hensyn til samvirkets aktiva.
 9. Samvirker har en andelskapital, og medlemmene kan være fysiske eller juridiske personer. Disse medlemmene kan utgjøres helt eller delvis av kunder, ansatte eller leverandører. Når et samvirke består av medlemmer som selv er samvirker, betegnes det som et «sekundært» eller «annengrads» samvirke. Under visse omstendigheter kan et samvirke blant sine medlemmer også ha en viss andel investormedlemmer som ikke benytter dets tjenester, eller tredjemenn som nyter godt av samvirkets virksomhet eller utfører arbeid på dets vegne.
-10. Det viktigste målet for et europeisk samvirkeforetak (heretter kalt «SCE-foretak») bør være å tilfredsstille medlemmenes behov og/eller utvikle deres økonomiske og/eller sosiale virksomhet, i samsvar med følgende prinsipper:virksomheten bør være til gjensidig nytte for medlemmene slik at hvert medlem nyter godt av SCE-foretakets virksomhet i samsvar med hans/hennes innsats,medlemmer av SCE-foretaket bør også være kunder, ansatte eller leverandører, eller på annen måte involvert i SCE-foretakets virksomhet,kontrollen over SCE-foretaket bør være jevnt fordelt mellom medlemmene, selv om veide stemmer kan tillates for å gjenspeile hvert medlems innsats i SCE-foretaket,det bør være begrenset rente på låne- og andelskapital,utbytte bør fordeles ut fra medlemmenes virksomhet i SCE-foretaket eller brukes for å oppfylle deres interesser,det bør ikke være noen kunstige hindringer for medlemskap,ved oppløsning bør nettoaktiva og reserver fordeles i samsvar med prinsippet om uegennyttig fordeling, det vil si til en annen samvirkeenhet som har lignende mål eller formål av allmenn interesse.
+10. Det viktigste målet for et europeisk samvirkeforetak (heretter kalt «SCE-foretak») bør være å tilfredsstille medlemmenes behov og/eller utvikle deres økonomiske og/eller sosiale virksomhet, i samsvar med følgende prinsipper:
+
+    - virksomheten bør være til gjensidig nytte for medlemmene slik at hvert medlem nyter godt av SCE-foretakets virksomhet i samsvar med hans/hennes innsats,
+    - medlemmer av SCE-foretaket bør også være kunder, ansatte eller leverandører, eller på annen måte involvert i SCE-foretakets virksomhet,
+    - kontrollen over SCE-foretaket bør være jevnt fordelt mellom medlemmene, selv om veide stemmer kan tillates for å gjenspeile hvert medlems innsats i SCE-foretaket,
+    - det bør være begrenset rente på låne- og andelskapital,
+    - utbytte bør fordeles ut fra medlemmenes virksomhet i SCE-foretaket eller brukes for å oppfylle deres interesser,
+    - det bør ikke være noen kunstige hindringer for medlemskap,
+    - ved oppløsning bør nettoaktiva og reserver fordeles i samsvar med prinsippet om uegennyttig fordeling, det vil si til en annen samvirkeenhet som har lignende mål eller formål av allmenn interesse.
 11. Tverrnasjonalt samarbeid mellom samvirker i Fellesskapet er for tiden vanskelig på grunn av juridiske og administrative problemer som bør løses i et marked uten grenser.
 12. Innføringen av en europeisk juridisk form for samvirker som er basert på felles prinsipper, men som tar hensyn til deres særlige karakter, bør gjøre det mulig for dem å utøve sin virksomhet utenfor egne nasjonale grenser i hele eller deler av Fellesskapets territorium.
 13. Hovedformålet med denne forordning er å muliggjøre opprettelse av SCE-foretak av fysiske personer bosatt i ulike medlemsstater eller juridiske personer som er etablert etter forskjellige medlemssters [EØS-staters] lovgivning. Den vil også gjøre det mulig å opprette et SCE-foretak ved at to eksisterende samvirker fusjonerer, eller ved at et nasjonalt samvirke omdannes til den nye formen uten at det først oppløses, når dette samvirket har sitt forretningskontor og hovedkontor i én medlemsstat [EØS-stat] og et etablert forretningssted eller et datterforetak i en annen.
@@ -169,8 +183,17 @@ ut fra følgende betraktninger:
 15. Henvisninger til kapital i denne forordning bør omfatte bare tegnet kapital. De bør ikke omfatte eventuelle felles aktiva/egenkapital i SCE-foretaket som ikke er utdelt.
 16. Denne forordning omfatter ikke andre rettsområder som beskatning, konkurranse, immaterialrett eller insolvens. På ovennevnte områder og på andre områder som ikke omfattes av denne forordning, får derfor bestemmelsene i medlemsstatenes [EØS-statenes] lovgivning og i fellesskapsretten anvendelse.
 17. Reglene for arbeidstakernes innflytelse i europeiske samvirkeforetak er fastsatt i direktiv [2003/72/EF](eu/32003l0072),12 og disse bestemmelsene danner dermed en uatskillelig utfylling av denne forordning og må anvendes sammen med denne.
-18. Det er gjort betydelige framskritt i arbeidet med tilnærming av nasjonal selskapsrett slik at det også for SCE-foretak kan vises til visse bestemmelser vedtatt av medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, med henblikk på gjennomføring av direktiver om selskaper på områder der dets virkemåte ikke krever ensartede fellesskapsregler, i den grad slike bestemmelser egner seg for regulering av SCE-foretakets virksomhet, særlig:første rådsdirektiv [68/151/EØF](eu/31968l0151*) av 9. mars 1968 om samordning av de garantier som kreves i medlemsstatene [EØS-statene] av selskaper som definert i traktatens artikkel 58 annet ledd for å verne selskapsdeltakeres og tredjemanns interesser, med det formål å gjøre garantiene likeverdige,13fjerde rådsdirektiv [78/660/EØF](eu/31978l0660) av 25. juli 1978 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om årsregnskapene for visse selskapsformer,14sjuende rådsdirektiv [83/349/EØF](eu/31983l0349*) av 13. juni 1983 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om konsoliderte regnskaper,15åttende rådsdirektiv [84/253/EØF](eu/31984l0253) av 10. april 1984 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om godkjennelse av personer med ansvar for lovfestet revisjon av regnskaper,16ellevte rådsdirektiv [89/666/EØF](eu/31989l0666*) av 21. desember 1989 om offentlighet angående filialer opprettet i en medlemsstat [EØS-stat] av visse former for selskaper som er underlagt en annen medlemsstats [EØS-stats] lovgivning.17
-19. Virksomhet på området finansielle tjenester, særlig når det gjelder kredittinstitusjoner og forsikringsforetak, har vært gjenstand for lovgivningsmessige tiltak i henhold til følgende direktiver:rådsdirektiv [86/635/EØF](eu/31986l0635*) av 8. desember 1986 om bankers og andre finansinstitusjoners årsregnskaper og konsoliderte regnskaper18rådsdirektiv [92/49/EØF](eu/31992l0049*) av 18. juni 1992 om samordning av lover og forskrifter om direkte forsikring med unntak av livsforsikring og om endring av direktiv [73/239/EØF](eu/31973l0239*) og [88/357/EØF](eu/31988l0357) (tredje direktiv om annen forsikring enn livsforsikring).19
+18. Det er gjort betydelige framskritt i arbeidet med tilnærming av nasjonal selskapsrett slik at det også for SCE-foretak kan vises til visse bestemmelser vedtatt av medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, med henblikk på gjennomføring av direktiver om selskaper på områder der dets virkemåte ikke krever ensartede fellesskapsregler, i den grad slike bestemmelser egner seg for regulering av SCE-foretakets virksomhet, særlig:
+
+    - første rådsdirektiv [68/151/EØF](eu/31968l0151*) av 9. mars 1968 om samordning av de garantier som kreves i medlemsstatene [EØS-statene] av selskaper som definert i traktatens artikkel 58 annet ledd for å verne selskapsdeltakeres og tredjemanns interesser, med det formål å gjøre garantiene likeverdige,13
+    - fjerde rådsdirektiv [78/660/EØF](eu/31978l0660) av 25. juli 1978 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om årsregnskapene for visse selskapsformer,14
+    - sjuende rådsdirektiv [83/349/EØF](eu/31983l0349*) av 13. juni 1983 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om konsoliderte regnskaper,15
+    - åttende rådsdirektiv [84/253/EØF](eu/31984l0253) av 10. april 1984 med hjemmel i traktatens artikkel 54 § 3 bokstav g) om godkjennelse av personer med ansvar for lovfestet revisjon av regnskaper,16
+    - ellevte rådsdirektiv [89/666/EØF](eu/31989l0666*) av 21. desember 1989 om offentlighet angående filialer opprettet i en medlemsstat [EØS-stat] av visse former for selskaper som er underlagt en annen medlemsstats [EØS-stats] lovgivning.17
+19. Virksomhet på området finansielle tjenester, særlig når det gjelder kredittinstitusjoner og forsikringsforetak, har vært gjenstand for lovgivningsmessige tiltak i henhold til følgende direktiver:
+
+    - rådsdirektiv [86/635/EØF](eu/31986l0635*) av 8. desember 1986 om bankers og andre finansinstitusjoners årsregnskaper og konsoliderte regnskaper18
+    - rådsdirektiv [92/49/EØF](eu/31992l0049*) av 18. juni 1992 om samordning av lover og forskrifter om direkte forsikring med unntak av livsforsikring og om endring av direktiv [73/239/EØF](eu/31973l0239*) og [88/357/EØF](eu/31988l0357) (tredje direktiv om annen forsikring enn livsforsikring).19
 20. Denne organisasjonsform bør være frivillig –
 
 1 EFT C 99 av 21.4.1992, s. 17 og EFT C 236 av 31.8.1993, s. 17.
@@ -219,7 +242,11 @@ vedtatt denne forordning:]
 
 1\. Det kan stiftes samvirkeforetak på Fellesskapets [EØS] territorium i form av europeiske samvirkeforetak (SCE-foretak) på de vilkår og på den måte som er fastsatt i denne forordning.
 
-2\. SCE-foretakets tegnede kapital skal være fordelt på andeler.Antall medlemmer og størrelsen på kapitalen i et SCE-foretak skal kunne variere.Med mindre annet fastsettes i vedtektene for SCE-foretaket når det stiftes, skal hvert medlem være ansvarlig bare for det beløp han/hun har tegnet for. Dersom medlemmene i SCE-foretaket har begrenset ansvar, skal SCE-foretakets firma slutte med ordene «med begrenset ansvar».
+2\. SCE-foretakets tegnede kapital skal være fordelt på andeler.
+
+Antall medlemmer og størrelsen på kapitalen i et SCE-foretak skal kunne variere.
+
+Med mindre annet fastsettes i vedtektene for SCE-foretaket når det stiftes, skal hvert medlem være ansvarlig bare for det beløp han/hun har tegnet for. Dersom medlemmene i SCE-foretaket har begrenset ansvar, skal SCE-foretakets firma slutte med ordene «med begrenset ansvar».
 
 3\. Et SCE-foretak skal ha som sitt hovedformål å tilfredsstille medlemmenes behov og/eller utvikle deres økonomiske og sosiale virksomhet, særlig gjennom inngåelse av avtaler med dem om å levere varer eller tjenester eller utføre arbeid av den type SCE-foretaket utfører eller lar utføre. Et SCE-foretak kan også ha som formål å tilfredsstille medlemmenes behov ved å fremme deres deltaking i økonomisk virksomhet, på ovennevnte måte, i et eller flere SCE-foretak og/eller nasjonale samvirker. Et SCE-foretak kan drive sin virksomhet gjennom et datterselskap.
 
@@ -233,7 +260,13 @@ vedtatt denne forordning:]
 
 ### Art 2. Stiftelse
 
-1\. Et SCE-foretak kan stiftes på følgende måter:av fem eller flere fysiske personer bosatt i minst to medlemsstater [EØS-stater],av fem eller flere fysiske personer og selskaper og foretak i henhold til traktatens artikkel 58 annet ledd1 og andre offentlig- eller privatrettslige rettssubjekter som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, bosatt i eller regulert av minst to medlemsstaters [EØS-staters] lovgivning,av selskaper og foretak i henhold til traktatens artikkel 58 annet ledd1 og andre offentlige eller privatrettslige rettssubjekter som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, regulert av minst to forskjellige medlemsstaters [EØS-staters] lovgivning,ved en fusjon mellom samvirker som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, med deres forretningskontor og hovedkontor i Fellesskapet [EØS], forutsatt at minst to av dem reguleres av forskjellige medlemsstaters [EØS-staters] lovgivning,ved omdanning av et samvirke stiftet i henhold til en medlemsstats [EØS-stats] lovgivning og som har sitt forretningskontor og hovedkontor i Fellesskapet [EØS], dersom det i minst to år har hatt et forretningssted eller datterselskap som er regulert av en annen medlemsstats [EØS-stats] lovgivning.
+1\. Et SCE-foretak kan stiftes på følgende måter:
+
+- av fem eller flere fysiske personer bosatt i minst to medlemsstater [EØS-stater],
+- av fem eller flere fysiske personer og selskaper og foretak i henhold til traktatens artikkel 58 annet ledd1 og andre offentlig- eller privatrettslige rettssubjekter som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, bosatt i eller regulert av minst to medlemsstaters [EØS-staters] lovgivning,
+- av selskaper og foretak i henhold til traktatens artikkel 58 annet ledd1 og andre offentlige eller privatrettslige rettssubjekter som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, regulert av minst to forskjellige medlemsstaters [EØS-staters] lovgivning,
+- ved en fusjon mellom samvirker som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, med deres forretningskontor og hovedkontor i Fellesskapet [EØS], forutsatt at minst to av dem reguleres av forskjellige medlemsstaters [EØS-staters] lovgivning,
+- ved omdanning av et samvirke stiftet i henhold til en medlemsstats [EØS-stats] lovgivning og som har sitt forretningskontor og hovedkontor i Fellesskapet [EØS], dersom det i minst to år har hatt et forretningssted eller datterselskap som er regulert av en annen medlemsstats [EØS-stats] lovgivning.
 
 2\. En medlemsstat [EØS-stat] kan fastsette at et rettssubjekt med hovedkontor som ikke ligger i Fellesskapet [EØS], kan delta i stiftelsen av et SCE-foretak dersom rettssubjektet er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, har forretningskontor i denne medlemsstaten [EØS-staten] og har en reell og varig tilknytning til en medlemsstats [EØS-stats] økonomi.
 
@@ -249,11 +282,15 @@ vedtatt denne forordning:]
 
 4\. Vedtektene skal fastsette et minstebeløp, som den tegnede kapitalen ikke tillates å komme under som et resultat av tilbakebetaling av andeler til medlemmer som avslutter sitt medlemskap i SCE-foretaket. Dette beløpet skal ikke være mindre enn beløpet som er fastsatt i nr. 2. Fristen for å benytte retten til tilbakebetaling for medlemmer som avslutter sitt medlemskap i SCE-foretaket, som er fastsatt i artikkel 16, skal utsettes dersom tilbakebetaling vil føre til at den tegnede kapitalen kommer under den fastsatte grensen.
 
-5\. Kapitalen kan økes gjennom senere innbetalinger fra medlemmene eller opptak av nye medlemmer, og den kan reduseres gjennom hel eller delvis tilbakebetaling av tilgodehavende, med forbehold for nr. 4.Endringer i kapitalens størrelse krever ikke endring av vedtektene eller offentliggjøring.
+5\. Kapitalen kan økes gjennom senere innbetalinger fra medlemmene eller opptak av nye medlemmer, og den kan reduseres gjennom hel eller delvis tilbakebetaling av tilgodehavende, med forbehold for nr. 4.
+
+Endringer i kapitalens størrelse krever ikke endring av vedtektene eller offentliggjøring.
 
 ### Art 4. SCE-foretakets kapital
 
-1\. Et SCE-foretaks tegnede kapital skal utgjøres av medlemmenes andeler uttrykt i den nasjonale valuta. Et SCE-foretak med forretningskontor utenfor euro-området kan også uttrykke sin kapital i euro. Det kan utstedes flere enn én kategori andeler.I vedtektene kan det fastsettes at forskjellige kategorier andeler skal være knyttet til forskjellige rettigheter med hensyn til fordeling av overskudd. Andeler knyttet til samme rettigheter skal tilhøre samme kategori.
+1\. Et SCE-foretaks tegnede kapital skal utgjøres av medlemmenes andeler uttrykt i den nasjonale valuta. Et SCE-foretak med forretningskontor utenfor euro-området kan også uttrykke sin kapital i euro. Det kan utstedes flere enn én kategori andeler.
+
+I vedtektene kan det fastsettes at forskjellige kategorier andeler skal være knyttet til forskjellige rettigheter med hensyn til fordeling av overskudd. Andeler knyttet til samme rettigheter skal tilhøre samme kategori.
 
 2\. Kapitalen kan bestå bare av aktiva som kan gis en økonomisk vurdering. Medlemsandeler kan ikke utstedes mot forpliktelser til å utføre arbeid eller yte tjenester.
 
@@ -267,7 +304,9 @@ vedtatt denne forordning:]
 
 7\. I vedtektene skal det fastsettes hvilket minsteantall andeler som må tegnes for å oppnå medlemskap. Dersom det i vedtektene fastsettes at flertallet på generalforsamlinger skal utgjøres av medlemmer som er fysiske personer, og dersom de fastsetter et tegningskrav for medlemmer som ønsker å delta i SCE-foretakets virksomhet, kan de ikke gjøre medlemskap betinget av at det tegnes flere enn én andel.
 
-8\. Når den årlige generalforsamlingen tar stilling til årsregnskapet, skal den ved beslutning fastslå kapitalens størrelse ved regnskapsårets avslutning samt forskjellen i forhold til foregående regnskapsår.Etter forslag fra administrasjons- eller ledelsesorganet kan den tegnede kapitalen økes gjennom kapitalisering av hele eller deler av reservene som er tilgjengelige for fordeling, etter beslutning i generalforsamlingen, i samsvar med kravene om beslutningsdyktighet og flertall som gjelder ved endring av vedtektene. Nye andeler skal tildeles medlemmer i forhold til de andeler i kapitalen de hittil har hatt.
+8\. Når den årlige generalforsamlingen tar stilling til årsregnskapet, skal den ved beslutning fastslå kapitalens størrelse ved regnskapsårets avslutning samt forskjellen i forhold til foregående regnskapsår.
+
+Etter forslag fra administrasjons- eller ledelsesorganet kan den tegnede kapitalen økes gjennom kapitalisering av hele eller deler av reservene som er tilgjengelige for fordeling, etter beslutning i generalforsamlingen, i samsvar med kravene om beslutningsdyktighet og flertall som gjelder ved endring av vedtektene. Nye andeler skal tildeles medlemmer i forhold til de andeler i kapitalen de hittil har hatt.
 
 9\. Andelenes pålydende verdi kan økes gjennom omdanning av andelene som utstedes. Dersom en slik økning i henhold til bestemmelsene i vedtektene krever tilleggsinnbetaling fra medlemmene, skal det treffes beslutning om dette i generalforsamlingen i samsvar med kravene om beslutningsdyktighet og flertall som gjelder ved endring av vedtektene.
 
@@ -275,7 +314,9 @@ vedtatt denne forordning:]
 
 11\. I samsvar med vedtektene og med samtykke fra enten generalforsamlingen eller ledelses- eller administrasjonsorganet, kan andeler overdras eller selges til et medlem eller til en person som opptas som medlem.
 
-12\. Et SCE-foretak kan ikke tegne, kjøpe eller godta som sikkerhet sine egne andeler, verken direkte eller gjennom en person som handler i sitt eget navn, men på vegne av SCE-foretaket.Et SCE-foretaks andeler kan likevel godtas som sikkerhet i vanlige transaksjoner i SCE-foretak som er kredittinstitusjoner.
+12\. Et SCE-foretak kan ikke tegne, kjøpe eller godta som sikkerhet sine egne andeler, verken direkte eller gjennom en person som handler i sitt eget navn, men på vegne av SCE-foretaket.
+
+Et SCE-foretaks andeler kan likevel godtas som sikkerhet i vanlige transaksjoner i SCE-foretak som er kredittinstitusjoner.
 
 ### Art 5. Vedtekter
 
@@ -285,7 +326,20 @@ vedtatt denne forordning:]
 
 3\. Lovgivningen om forebyggende kontroll som får anvendelse ved stiftelsen av allmennaksjeselskaper i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, får tilsvarende anvendelse på kontroll av stiftelsen av SCE-foretaket.
 
-4\. SCE-foretakets vedtekter skal som et minstekrav omfatte:SCE-foretakets firma, med forkortelsen «SCE» før eller etter, og eventuelt ordene «med begrenset ansvar»,angivelse av foretakets formål,navnet på de fysiske personer og firmaet til de selskaper som er stiftere av SCE-foretaket, med angivelse av deres formål, og i sistnevnte tilfelle, deres forretningskontor,adressen til SCE-foretakets forretningskontor,vilkårene og framgangsmåtene for medlemskap, utelukkelse og avgang,medlemmers rettigheter og forpliktelser, eventuelt de forskjellige medlemskategorier samt rettigheter og forpliktelser for medlemmene i hver enkelt kategori,den pålydende verdien av de tegnede andelene, størrelsen på den tegnede kapitalen, og en opplysning om at kapitalen kan variere,særlige regler for den delen av utbyttet som eventuelt skal overføres til reservefondet,de fullmakter og den kompetanse medlemmene i hvert styringsorgan har,bestemmelser som regulerer oppnevning og fjerning av medlemmene i de styrende organer,reglene om flertall og beslutningsdyktighet,foretakets levetid, dersom den er begrenset.
+4\. SCE-foretakets vedtekter skal som et minstekrav omfatte:
+
+- SCE-foretakets firma, med forkortelsen «SCE» før eller etter, og eventuelt ordene «med begrenset ansvar»,
+- angivelse av foretakets formål,
+- navnet på de fysiske personer og firmaet til de selskaper som er stiftere av SCE-foretaket, med angivelse av deres formål, og i sistnevnte tilfelle, deres forretningskontor,
+- adressen til SCE-foretakets forretningskontor,
+- vilkårene og framgangsmåtene for medlemskap, utelukkelse og avgang,
+- medlemmers rettigheter og forpliktelser, eventuelt de forskjellige medlemskategorier samt rettigheter og forpliktelser for medlemmene i hver enkelt kategori,
+- den pålydende verdien av de tegnede andelene, størrelsen på den tegnede kapitalen, og en opplysning om at kapitalen kan variere,
+- særlige regler for den delen av utbyttet som eventuelt skal overføres til reservefondet,
+- de fullmakter og den kompetanse medlemmene i hvert styringsorgan har,
+- bestemmelser som regulerer oppnevning og fjerning av medlemmene i de styrende organer,
+- reglene om flertall og beslutningsdyktighet,
+- foretakets levetid, dersom den er begrenset.
 
 ### Art 6. Forretningskontor
 
@@ -295,7 +349,13 @@ SCE-foretakets forretningskontor skal ligge i Fellesskapet [EØS], i samme medle
 
 1\. Et SCE-foretaks forretningskontor kan flyttes til en annen medlemsstat [EØS-stat] i samsvar med nr. 2-16. Slik flytting skal ikke føre til oppløsning av SCE-foretaket eller til etablering av en ny juridisk person.
 
-2\. Ledelses- eller administrasjonsorganet skal utarbeide en flytteplan og offentliggjøre den i samsvar med artikkel 12, uten at eventuelle ekstra offentliggjøringsformer som er fastsatt av medlemsstaten [EØS-staten] der forretningskontoret ligger, berøres. Planen skal oppgi nåværende firma, forretningskontor og registreringsnummer for SCE-foretaket og skal omfatte:det planlagte forretningskontoret for SCE-foretaket,de planlagte vedtektene for SCE-foretaket, eventuelt med det nye firmaet,den planlagte tidsrammen for flyttingen,de konsekvenser som flyttingen vil kunne få for arbeidstakernes innflytelse,eventuelle rettigheter som er fastsatt for beskyttelse av medlemmer, kreditorer og innehavere av andre rettigheter.
+2\. Ledelses- eller administrasjonsorganet skal utarbeide en flytteplan og offentliggjøre den i samsvar med artikkel 12, uten at eventuelle ekstra offentliggjøringsformer som er fastsatt av medlemsstaten [EØS-staten] der forretningskontoret ligger, berøres. Planen skal oppgi nåværende firma, forretningskontor og registreringsnummer for SCE-foretaket og skal omfatte:
+
+1. det planlagte forretningskontoret for SCE-foretaket,
+2. de planlagte vedtektene for SCE-foretaket, eventuelt med det nye firmaet,
+3. den planlagte tidsrammen for flyttingen,
+4. de konsekvenser som flyttingen vil kunne få for arbeidstakernes innflytelse,
+5. eventuelle rettigheter som er fastsatt for beskyttelse av medlemmer, kreditorer og innehavere av andre rettigheter.
 
 3\. Ledelses- eller administrasjonsorganet skal utarbeide en rapport som forklarer og begrunner de juridiske og økonomiske sidene ved flyttingen samt de sysselsettingsmessige konsekvensene, og som forklarer konsekvensene av flyttingen for medlemmene, kreditorene, arbeidstakerne og innehavere av andre rettigheter.
 
@@ -305,7 +365,11 @@ SCE-foretakets forretningskontor skal ligge i Fellesskapet [EØS], i samme medle
 
 6\. Det kan ikke treffes beslutning om å flytte før det er gått to måneder etter at planen er offentliggjort. En slik beslutning skal treffes som fastsatt i artikkel 62 nr. 4.2
 
-7\. Før vedkommende myndighet utsteder attesten nevnt i nr. 8, skal SCE-foretaket bevise at det med hensyn til fordringer som oppstår før offentliggjøringen av flytteplanen, samt interessene til kreditorer og innehavere av andre rettigheter overfor SCE-foretaket (herunder offentlige organers rettigheter), gir tilstrekkelig beskyttelse i samsvar med kravene fastsatt av medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor før flytting.En medlemsstat [EØS-stat] kan utvide anvendelsen av første ledd til fordringer som oppstår, eller som kan oppstå, før flyttingen.Første og annet ledd berører ikke anvendelsen på SCE-foretak av medlemssters [EØS-staters] nasjonale lovgivning om innfrielse eller sikring av betalinger til offentlige organer.
+7\. Før vedkommende myndighet utsteder attesten nevnt i nr. 8, skal SCE-foretaket bevise at det med hensyn til fordringer som oppstår før offentliggjøringen av flytteplanen, samt interessene til kreditorer og innehavere av andre rettigheter overfor SCE-foretaket (herunder offentlige organers rettigheter), gir tilstrekkelig beskyttelse i samsvar med kravene fastsatt av medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor før flytting.
+
+En medlemsstat [EØS-stat] kan utvide anvendelsen av første ledd til fordringer som oppstår, eller som kan oppstå, før flyttingen.
+
+Første og annet ledd berører ikke anvendelsen på SCE-foretak av medlemssters [EØS-staters] nasjonale lovgivning om innfrielse eller sikring av betalinger til offentlige organer.
 
 8\. I medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor skal en domstol, notarius publicus eller annen vedkommende myndighet utstede en attest som bekrefter fullføringen av alt arbeid med dokumenter og formaliteter før flytting.
 
@@ -319,17 +383,31 @@ SCE-foretakets forretningskontor skal ligge i Fellesskapet [EØS], i samme medle
 
 13\. Etter at den nye registreringen av et SCE-foretak er offentliggjort, kan det nye forretningskontoret gjøres gjeldende overfor tredjemann. Så lenge slettingen av registreringen av SCE-foretaket fra registeret for det forrige forretningskontoret ikke er offentliggjort, kan tredjemann likevel fortsatt påberope seg det forrige forretningskontoret, med mindre SCE-foretaket beviser at slik tredjemann hadde kjennskap til det nye forretningskontoret.
 
-14\. En medlemsstats [EØS-stats] lovgivning kan fastsette at med hensyn til SCE-foretak registrert i denne medlemsstaten [EØS-staten], skal flytting av et forretningskontor som vil føre til endring i lovgivningen som får anvendelse, ikke få virkning dersom vedkommende myndighet i denne medlemsstaten [EØS-staten] gjør innsigelser mot flyttingen innen tomånedersfristen nevnt i nr. 6. Slike innsigelser kan bare begrunnes ut fra offentlighetens interesse.Når et SCE-foretak er underlagt tilsyn ved en nasjonal finanstilsynsmyndighet i samsvar med fellesskapsdirektiver, gjelder retten til å gjøre innsigelser mot flytting av forretningskontor også for denne myndigheten.Innsigelser skal kunne bringes inn for en rettsmyndighet.
+14\. En medlemsstats [EØS-stats] lovgivning kan fastsette at med hensyn til SCE-foretak registrert i denne medlemsstaten [EØS-staten], skal flytting av et forretningskontor som vil føre til endring i lovgivningen som får anvendelse, ikke få virkning dersom vedkommende myndighet i denne medlemsstaten [EØS-staten] gjør innsigelser mot flyttingen innen tomånedersfristen nevnt i nr. 6. Slike innsigelser kan bare begrunnes ut fra offentlighetens interesse.
+
+Når et SCE-foretak er underlagt tilsyn ved en nasjonal finanstilsynsmyndighet i samsvar med fellesskapsdirektiver, gjelder retten til å gjøre innsigelser mot flytting av forretningskontor også for denne myndigheten.
+
+Innsigelser skal kunne bringes inn for en rettsmyndighet.
 
 15\. Et SCE-foretak kan ikke flytte sitt forretningskontor dersom det er innledet framgangsmåte for avvikling, herunder frivillig avvikling, oppløsning, insolvens eller betalingsstans eller annen lignende framgangsmåte mot det.
 
 16\. Et SCE-foretak som har flyttet sitt forretningskontor til en annen medlemsstat [EØS-stat], skal med hensyn til enhver tvist som oppstår før flyttingen som fastsatt i nr. 10, betraktes som å ha sitt forretningskontor i den medlemsstat [EØS-stat] der SCE-foretaket var registrert før flyttingen, selv om SCE-foretaket saksøkes etter flyttingen.
 
-1 Inkurie: Skal være art. 3 nr. 4 femte strekpunkt. Henvisningen er rettet i EU-tidende nr. L 49 av 17 feb 2007 s. 35.2 Inkurie: Skal være art. 61 nr. 4. Henvisningen er rettet i EU-tidende nr. L 49 av 17 feb 2007 s. 35.
+1 Inkurie: Skal være art. 3 nr. 4 femte strekpunkt. Henvisningen er rettet i EU-tidende nr. L 49 av 17 feb 2007 s. 35.
+
+2 Inkurie: Skal være art. 61 nr. 4. Henvisningen er rettet i EU-tidende nr. L 49 av 17 feb 2007 s. 35.
 
 ### Art 8. Lovgivning som skal anvendes
 
-1\. Et SCE-foretak skal være regulert:av denne forordning,når det er uttrykkelig tillatt etter denne forordning, av bestemmelsene i foretakets vedtekter,når det gjelder forhold som ikke er regulert av denne forordning, eller når et forhold er delvis regulert av den, for de sider som ikke omfattes av den, av:lovbestemmelsene vedtatt av medlemsstatene [EØS-statene] til gjennomføring av fellesskapstiltak som konkret angår SCE-foretak,de bestemmelser i medlemsstatenes [EØS-statenes] lovgivning som vil få anvendelse på et samvirke stiftet i samsvar med lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor,bestemmelsene i dets vedtekter, på samme måte som for et samvirke stiftet i samsvar med lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor.
+1\. Et SCE-foretak skal være regulert:
+
+1. av denne forordning,
+2. når det er uttrykkelig tillatt etter denne forordning, av bestemmelsene i foretakets vedtekter,
+3. når det gjelder forhold som ikke er regulert av denne forordning, eller når et forhold er delvis regulert av den, for de sider som ikke omfattes av den, av:
+
+   1. lovbestemmelsene vedtatt av medlemsstatene [EØS-statene] til gjennomføring av fellesskapstiltak som konkret angår SCE-foretak,
+   2. de bestemmelser i medlemsstatenes [EØS-statenes] lovgivning som vil få anvendelse på et samvirke stiftet i samsvar med lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor,
+   3. bestemmelsene i dets vedtekter, på samme måte som for et samvirke stiftet i samsvar med lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor.
 
 2\. Dersom nasjonal lovgivning inneholder særskilte regler og/eller begrensninger knyttet til den form for virksomhet et SCE-foretak utøver, eller form av kontroll foretatt av en tilsynsmyndighet, skal denne lovgivningen i sin helhet få anvendelse på SCE-foretaket.
 
@@ -353,7 +431,9 @@ Med forbehold for denne forordning skal et SCE-foretak i hver medlemsstat [EØS-
 
 3\. For at et SCE-foretak skal kunne registreres i en medlemsstat [EØS-stat] som har benyttet muligheten nevnt i artikkel 7 nr. 3 i direktiv [2003/72/EF](eu/32003l0072), må det enten være inngått en avtale i henhold til direktivets artikkel 4 om ordninger for arbeidstakernes innflytelse, herunder medbestemmelse, eller må ingen av de deltakende kooperativene ha vært regulert av medbestemmelsesregler før registreringen av SCE-foretaket.
 
-4\. SCE-foretakets vedtekter må ikke på noe tidspunkt komme i konflikt med de fastsatte ordningene for arbeidstakernes innflytelse. Dersom nye slike ordninger fastsatt i henhold til direktiv [2003/72/EF](eu/32003l0072) kommer i konflikt med eksisterende vedtekter, skal vedtektene endres i den utstrekning som er nødvendig.I dette tilfellet kan en medlemsstat [EØS-stat] fastsette at ledelses- eller administrasjonsorganet i SCE-foretaket skal ha rett til å foreta vedtektsendringene uten videre beslutning fra generalforsamlingen.
+4\. SCE-foretakets vedtekter må ikke på noe tidspunkt komme i konflikt med de fastsatte ordningene for arbeidstakernes innflytelse. Dersom nye slike ordninger fastsatt i henhold til direktiv [2003/72/EF](eu/32003l0072) kommer i konflikt med eksisterende vedtekter, skal vedtektene endres i den utstrekning som er nødvendig.
+
+I dette tilfellet kan en medlemsstat [EØS-stat] fastsette at ledelses- eller administrasjonsorganet i SCE-foretaket skal ha rett til å foreta vedtektsendringene uten videre beslutning fra generalforsamlingen.
 
 5\. Gjeldende lovgivning om allmennaksjeselskaper i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor når det gjelder opplysningsplikt for dokumenter og andre opplysninger, skal får tilsvarende anvendelse på vedkommende SCE-foretak.
 
@@ -373,9 +453,18 @@ Med forbehold for denne forordning skal et SCE-foretak i hver medlemsstat [EØS-
 
 ### Art 14. Erverv av medlemskap
 
-1\. Uten at artikkel 33 nr. 1 bokstav b) berøres, skal erverv av medlemskap i et SCE-foretak godkjennes av ledelses- eller administrasjonsorganet. Kandidater som nektes medlemskap, kan anke til generalforsamlingen som avholdes etter at det er søkt om medlemskap.Dersom det tillates i lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, kan det fastsettes i vedtektene at personer som ikke vil bruke eller produsere SCE-foretakets varer og tjenester, kan få adgang som investormedlemmer (ikke-brukere). Erverv av denne typen medlemskap forutsetter godkjenning fra generalforsamlingen eller et annet organ som generalforsamlingen delegerer fullmakt til å gi godkjenning, eller i henhold til vedtektene.Medlemmer som er rettssubjekter, skal anses som brukere ut fra den kjensgjerning at de representerer sine egne medlemmer, forutsatt at de av deres medlemmer som er fysiske personer, er brukere.Med mindre annet er fastsatt i vedtektene, kan medlemskap i et SCE-foretak erverves av fysiske personer eller rettssubjekter.
+1\. Uten at artikkel 33 nr. 1 bokstav b) berøres, skal erverv av medlemskap i et SCE-foretak godkjennes av ledelses- eller administrasjonsorganet. Kandidater som nektes medlemskap, kan anke til generalforsamlingen som avholdes etter at det er søkt om medlemskap.
 
-2\. Vedtektene kan gi adgang ut fra andre vilkår, særlig:tegning av en viss minstekapital,vilkår knyttet til SCE-foretakets formål.
+Dersom det tillates i lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, kan det fastsettes i vedtektene at personer som ikke vil bruke eller produsere SCE-foretakets varer og tjenester, kan få adgang som investormedlemmer (ikke-brukere). Erverv av denne typen medlemskap forutsetter godkjenning fra generalforsamlingen eller et annet organ som generalforsamlingen delegerer fullmakt til å gi godkjenning, eller i henhold til vedtektene.
+
+Medlemmer som er rettssubjekter, skal anses som brukere ut fra den kjensgjerning at de representerer sine egne medlemmer, forutsatt at de av deres medlemmer som er fysiske personer, er brukere.
+
+Med mindre annet er fastsatt i vedtektene, kan medlemskap i et SCE-foretak erverves av fysiske personer eller rettssubjekter.
+
+2\. Vedtektene kan gi adgang ut fra andre vilkår, særlig:
+
+- tegning av en viss minstekapital,
+- vilkår knyttet til SCE-foretakets formål.
 
 3\. Der det er fastsatt i vedtektene, kan medlemmene anmodes om ytterligere kapitaltilskudd.
 
@@ -389,9 +478,25 @@ Med forbehold for denne forordning skal et SCE-foretak i hver medlemsstat [EØS-
 
 ### Art 15. Opphør av medlemskap
 
-1\. Medlemskap skal opphøre:ved avgang,ved utelukkelse, dersom medlemmet gjør seg skyldig i et alvorlig brudd på hans/hennes forpliktelser eller handler i strid med SCE-foretakets interesser,dersom vedtektene tillater det, ved overdragelse av alle andeler som innehas av et medlem eller en fysisk person eller et rettssubjekt som er blitt medlem,ved oppløsning dersom medlemmet ikke er en fysisk person,ved konkurs,ved dødsfall,eventuelt i andre situasjoner som er fastsatt i vedtektene eller lovgivningen om samvirker i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor.
+1\. Medlemskap skal opphøre:
 
-2\. Et mindretallsmedlem som motsatte seg en endring av vedtektene på generalforsamlingen der:det ble innført nye forpliktelser med hensyn til betaling eller andre tjenester, ellergjeldende forpliktelser for medlemmene ble betydelig utvidet, ellerfristen for melding om avgang fra SCE-foretaket ble utvidet til mer enn fem år,1kan melde sin avgang innen to måneder etter beslutningen på generalforsamlingen.Medlemskap skal opphøre ved utløpet av inneværende regnskapsår i de tilfeller som er nevnt i første ledd nr. i) og ii), og ved utløpet av den fristen for å melde fra som gjaldt før vedtektene ble endret, i tilfellet nevnt i nr. iii). Endringen av vedtektene skal ikke gjelde for dette medlemmet. Avgangen skal gi medlemmet rett til tilbakebetaling av andeler på vilkårene fastsatt i artikkel 3 nr. 4 og artikkel 16.
+- ved avgang,
+- ved utelukkelse, dersom medlemmet gjør seg skyldig i et alvorlig brudd på hans/hennes forpliktelser eller handler i strid med SCE-foretakets interesser,
+- dersom vedtektene tillater det, ved overdragelse av alle andeler som innehas av et medlem eller en fysisk person eller et rettssubjekt som er blitt medlem,
+- ved oppløsning dersom medlemmet ikke er en fysisk person,
+- ved konkurs,
+- ved dødsfall,
+- eventuelt i andre situasjoner som er fastsatt i vedtektene eller lovgivningen om samvirker i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor.
+
+2\. Et mindretallsmedlem som motsatte seg en endring av vedtektene på generalforsamlingen der:
+
+1. det ble innført nye forpliktelser med hensyn til betaling eller andre tjenester, eller
+2. gjeldende forpliktelser for medlemmene ble betydelig utvidet, eller
+3. fristen for melding om avgang fra SCE-foretaket ble utvidet til mer enn fem år,1
+
+kan melde sin avgang innen to måneder etter beslutningen på generalforsamlingen.
+
+Medlemskap skal opphøre ved utløpet av inneværende regnskapsår i de tilfeller som er nevnt i første ledd nr. i) og ii), og ved utløpet av den fristen for å melde fra som gjaldt før vedtektene ble endret, i tilfellet nevnt i nr. iii). Endringen av vedtektene skal ikke gjelde for dette medlemmet. Avgangen skal gi medlemmet rett til tilbakebetaling av andeler på vilkårene fastsatt i artikkel 3 nr. 4 og artikkel 16.
 
 3\. Beslutningen om å utelukke et medlem skal treffes av administrasjons- eller ledelsesorganet, etter at medlemmet har fått anledning til å uttale seg. Medlemmet kan anke en slik beslutning inn for generalforsamlingen.
 
@@ -427,7 +532,10 @@ Med forbehold for denne forordning skal et SCE-foretak i hver medlemsstat [EØS-
 
 ### Art 19. Framgangsmåter for stiftelse ved fusjon
 
-Et SCE-foretak kan stiftes gjennom en fusjon som foretas i samsvar med:framgangsmåten for fusjon ved overtakelse,framgangsmåten for fusjon ved stiftelse av en ny juridisk person.
+Et SCE-foretak kan stiftes gjennom en fusjon som foretas i samsvar med:
+
+- framgangsmåten for fusjon ved overtakelse,
+- framgangsmåten for fusjon ved stiftelse av en ny juridisk person.
 
 I tilfelle av fusjon ved overtakelse skal det overtakende samvirket ta form av et SCE-foretak samtidig med fusjonen. I tilfelle av fusjon ved stiftelse av et nytt rettssubjekt, skal sistnevnte ta form av et SCE-foretak.
 
@@ -443,7 +551,19 @@ Slike innsigelser kan bare begrunnes ut fra offentlighetens interesse. Innsigels
 
 ### Art 22. Vilkår for fusjon
 
-1\. Ledelses- eller administrasjonsorganet i fusjonerende samvirker skal utarbeide en fusjonsplan. Fusjonsplanen skal inneholde følgende opplysninger:firma og forretningskontor for hvert av de fusjonerende samvirkene, samt firma og forretningskontor som er planlagt for SCE-foretaket,bytteforholdet for andelene av den tegnede kapitalen og størrelsen på en eventuell kontant utbetaling. Dersom det ikke finnes noen andeler, en nøyaktig deling av aktivaene og den tilsvarende verdien i andeler,nærmere regler for tildeling av andeler i SCE-foretaket,fra hvilket tidspunkt andelene i SCE-foretaket gir rett til å ta del i overskuddet, og alle særlige vilkår forbundet med denne rettigheten,fra hvilket tidspunkt transaksjonene i de fusjonerende samvirkene regnskapsmessig skal anses som utført for SCE-foretakets regning,de særlige vilkår eller fordeler som er knyttet til obligasjoner eller andre verdipapirer enn andeler som i henhold til artikkel 661 ikke gir rett til medlemskap,hvilke rettigheter SCE-foretaket gir andelsinnehavere med særlige rettigheter og innehavere av andre verdipapirer enn andeler, eller hvilke tiltak som foreslås med hensyn til dem,formene for vern av kreditorenes rettigheter i de fusjonerende samvirkene,enhver særlig fordel som gis til de sakkyndige som gjennomgår fusjonsplanen eller til medlemmene av de fusjonerende samvirkenes administrasjons-, ledelses-, tilsyns- eller kontrollorganer,SCE-foretakets vedtekter,opplysninger om hvilke framgangsmåter som benyttes når det i henhold til direktiv [2003/72/EF](eu/32003l0072) bestemmes ordninger for arbeidstakernes innflytelse.
+1\. Ledelses- eller administrasjonsorganet i fusjonerende samvirker skal utarbeide en fusjonsplan. Fusjonsplanen skal inneholde følgende opplysninger:
+
+1. firma og forretningskontor for hvert av de fusjonerende samvirkene, samt firma og forretningskontor som er planlagt for SCE-foretaket,
+2. bytteforholdet for andelene av den tegnede kapitalen og størrelsen på en eventuell kontant utbetaling. Dersom det ikke finnes noen andeler, en nøyaktig deling av aktivaene og den tilsvarende verdien i andeler,
+3. nærmere regler for tildeling av andeler i SCE-foretaket,
+4. fra hvilket tidspunkt andelene i SCE-foretaket gir rett til å ta del i overskuddet, og alle særlige vilkår forbundet med denne rettigheten,
+5. fra hvilket tidspunkt transaksjonene i de fusjonerende samvirkene regnskapsmessig skal anses som utført for SCE-foretakets regning,
+6. de særlige vilkår eller fordeler som er knyttet til obligasjoner eller andre verdipapirer enn andeler som i henhold til artikkel 661 ikke gir rett til medlemskap,
+7. hvilke rettigheter SCE-foretaket gir andelsinnehavere med særlige rettigheter og innehavere av andre verdipapirer enn andeler, eller hvilke tiltak som foreslås med hensyn til dem,
+8. formene for vern av kreditorenes rettigheter i de fusjonerende samvirkene,
+9. enhver særlig fordel som gis til de sakkyndige som gjennomgår fusjonsplanen eller til medlemmene av de fusjonerende samvirkenes administrasjons-, ledelses-, tilsyns- eller kontrollorganer,
+10. SCE-foretakets vedtekter,
+11. opplysninger om hvilke framgangsmåter som benyttes når det i henhold til direktiv [2003/72/EF](eu/32003l0072) bestemmes ordninger for arbeidstakernes innflytelse.
 
 2\. De fusjonerende samvirkene kan tilføye ytterligere punkter i fusjonsplanen.
 
@@ -459,11 +579,24 @@ Administrasjons- eller ledelsesorganene i hvert fusjonerende samvirke skal utarb
 
 1\. Lovgivningen som får anvendelse på allmennaksjeselskaper om opplysningsplikt for fusjonsplaner får tilsvarende anvendelse på hvert fusjonerende samvirke, med forbehold for ytterligere krav fastsatt av medlemsstaten [EØS-staten] som det aktuelle samvirket er underlagt.
 
-2\. Offentliggjøring av fusjonsplanen i det nasjonale kunngjøringsblad skal likevel inneholde følgende opplysninger for hvert av de fusjonerende samvirkene:form, firma og forretningskontor for hvert fusjonerende samvirke,adressen til stedet eller registeret der vedtektene og alle andre dokumenter og opplysninger er deponert for hvert fusjonerende samvirke, og registreringsnummeret i registeret,angivelse av de nærmere reglene for utøvelse av rettighetene til kreditorene i det aktuelle samvirket, fastsatt i samsvar med artikkel 28, samt adressen der de fullstendige opplysningene om disse reglene kan fås kostnadsfritt,angivelse av de nærmere reglene for utøvelse av rettighetene til medlemmene i det aktuelle samvirket, fastsatt i samsvar med artikkel 28, samt adressen der de fullstendige opplysningene om disse reglene kan fås kostnadsfritt,planlagt navn og forretningskontor for SCE-foretaket,vilkårene for fastsettelse av den dato da fusjonen får virkning i henhold til artikkel 31.
+2\. Offentliggjøring av fusjonsplanen i det nasjonale kunngjøringsblad skal likevel inneholde følgende opplysninger for hvert av de fusjonerende samvirkene:
+
+1. form, firma og forretningskontor for hvert fusjonerende samvirke,
+2. adressen til stedet eller registeret der vedtektene og alle andre dokumenter og opplysninger er deponert for hvert fusjonerende samvirke, og registreringsnummeret i registeret,
+3. angivelse av de nærmere reglene for utøvelse av rettighetene til kreditorene i det aktuelle samvirket, fastsatt i samsvar med artikkel 28, samt adressen der de fullstendige opplysningene om disse reglene kan fås kostnadsfritt,
+4. angivelse av de nærmere reglene for utøvelse av rettighetene til medlemmene i det aktuelle samvirket, fastsatt i samsvar med artikkel 28, samt adressen der de fullstendige opplysningene om disse reglene kan fås kostnadsfritt,
+5. planlagt navn og forretningskontor for SCE-foretaket,
+6. vilkårene for fastsettelse av den dato da fusjonen får virkning i henhold til artikkel 31.
 
 ### Art 25. Opplysningsplikt
 
-1\. Hvert medlem skal ha rett til, minst en måned før generalforsamlingen som skal ta stilling til fusjonen, å sette seg inn i følgende dokumenter ved forretningskontoret:fusjonsplanen nevnt i artikkel 22,årsregnskapene og årsrapportene til de fusjonerende samvirkene for de tre siste regnskapsår,et regnskapsoppgjør utarbeidet i samsvar med bestemmelsene for interne fusjoner av allmennaksjeselskaper, i den grad et slikt oppgjør kreves i disse bestemmelsene,de sakkyndiges rapport om verdien av andeler som skal fordeles i bytte med aktivaene i de fusjonerende samvirkene, eller andelenes bytteforhold som fastsatt i artikkel 26,rapporten fra administrasjons- eller ledelsesorganene som fastsatt i artikkel 23.
+1\. Hvert medlem skal ha rett til, minst en måned før generalforsamlingen som skal ta stilling til fusjonen, å sette seg inn i følgende dokumenter ved forretningskontoret:
+
+1. fusjonsplanen nevnt i artikkel 22,
+2. årsregnskapene og årsrapportene til de fusjonerende samvirkene for de tre siste regnskapsår,
+3. et regnskapsoppgjør utarbeidet i samsvar med bestemmelsene for interne fusjoner av allmennaksjeselskaper, i den grad et slikt oppgjør kreves i disse bestemmelsene,
+4. de sakkyndiges rapport om verdien av andeler som skal fordeles i bytte med aktivaene i de fusjonerende samvirkene, eller andelenes bytteforhold som fastsatt i artikkel 26,
+5. rapporten fra administrasjons- eller ledelsesorganene som fastsatt i artikkel 23.
 
 2\. Ethvert medlem kan på anmodning og kostnadsfritt få et fullstendig eksemplar, eller dersom han/hun ønsker det, et utdrag av dokumentene nevnt i nr. 1.
 
@@ -483,7 +616,10 @@ Administrasjons- eller ledelsesorganene i hvert fusjonerende samvirke skal utarb
 
 ### Art 28. Lovgivning som får anvendelse ved stiftelse ved fusjon
 
-1\. Lovgivningen i den medlemsstat [EØS-stat] som regulerer hvert fusjonerende samvirke, får anvendelse som i tilfelle av fusjon av allmennaksjeselskaper, under hensyn til fusjonens grenseoverskridende art, når det gjelder beskyttelse av interessene til:kreditorene til de fusjonerende samvirkene,obligasjonseiere i de fusjonerende samvirkene.
+1\. Lovgivningen i den medlemsstat [EØS-stat] som regulerer hvert fusjonerende samvirke, får anvendelse som i tilfelle av fusjon av allmennaksjeselskaper, under hensyn til fusjonens grenseoverskridende art, når det gjelder beskyttelse av interessene til:
+
+- kreditorene til de fusjonerende samvirkene,
+- obligasjonseiere i de fusjonerende samvirkene.
 
 2\. En medlemsstat [EØS-stat] kan med hensyn til de fusjonerende samvirkene som er regulert av dens lovgivning, vedta bestemmelser med sikte på å sikre hensiktsmessig beskyttelse for medlemmer som har gått imot fusjonen.
 
@@ -517,13 +653,24 @@ For hvert av de fusjonerende samvirkene skal gjennomføringen av fusjonen offent
 
 ### Art 33. Virkninger av fusjon
 
-1\. En fusjon gjennomført i samsvar med artikkel 19 første ledd første strekpunkt skal *ipso jure* ha følgende rettsvirkninger som inntrer samtidig:alle aktiva og passiva i hvert overtatte samvirke overdras som helhet til den overtakende juridiske person,medlemmene i hvert samvirke som overtas blir medlemmer i den overtakende juridiske person,de overtatte samvirkene opphører,den overtakende juridiske person tar form av et SCE-foretak.
+1\. En fusjon gjennomført i samsvar med artikkel 19 første ledd første strekpunkt skal *ipso jure* ha følgende rettsvirkninger som inntrer samtidig:
 
-2\. En fusjon gjennomført i samsvar med artikkel 19 første ledd annet strekpunkt skal *ipso jure* ha følgende rettsvirkninger som inntrer samtidig:alle aktiva og passiva i de fusjonerende samvirkene overdras som helhet til SCE-foretaket,medlemmene i de fusjonerende samvirkene blir medlemmer i SCE-foretaket,de fusjonerende samvirkene opphører.
+1. alle aktiva og passiva i hvert overtatte samvirke overdras som helhet til den overtakende juridiske person,
+2. medlemmene i hvert samvirke som overtas blir medlemmer i den overtakende juridiske person,
+3. de overtatte samvirkene opphører,
+4. den overtakende juridiske person tar form av et SCE-foretak.
+
+2\. En fusjon gjennomført i samsvar med artikkel 19 første ledd annet strekpunkt skal *ipso jure* ha følgende rettsvirkninger som inntrer samtidig:
+
+1. alle aktiva og passiva i de fusjonerende samvirkene overdras som helhet til SCE-foretaket,
+2. medlemmene i de fusjonerende samvirkene blir medlemmer i SCE-foretaket,
+3. de fusjonerende samvirkene opphører.
 
 3\. Dersom en medlemsstats [EØS-stats] lovgivning krever at det ved fusjon av samvirker gjennomføres særlige formaliteter før de fusjonerende samvirkenes overdragelse av visse aktiva, rettigheter og forpliktelser får virkning overfor tredjemann, skal disse formalitetene anvendes og gjennomføres enten av de fusjonerende samvirkene eller av SCE-foretaket etter registrering.
 
-4\. Når det gjelder individuelle og kollektive ansettelses- og arbeidsvilkår som følger av lovgivning, praksis og individuelle arbeidsavtaler eller arbeidsforhold på nasjonalt plan og som eksisterer på registreringsdatoen, skal rettighetene og forpliktelsene til de deltakende samvirkene overdras til SCE-foretaket når dette registreres.Første ledd får ikke anvendelse på arbeidstakerrepresentanters rett til å delta på generalforsamlingen eller sektor- eller seksjonsmøter i henhold til artikkel 59 nr. 4.
+4\. Når det gjelder individuelle og kollektive ansettelses- og arbeidsvilkår som følger av lovgivning, praksis og individuelle arbeidsavtaler eller arbeidsforhold på nasjonalt plan og som eksisterer på registreringsdatoen, skal rettighetene og forpliktelsene til de deltakende samvirkene overdras til SCE-foretaket når dette registreres.
+
+Første ledd får ikke anvendelse på arbeidstakerrepresentanters rett til å delta på generalforsamlingen eller sektor- eller seksjonsmøter i henhold til artikkel 59 nr. 4.
 
 5\. Når fusjonen er registrert, skal SCE-foretaket umiddelbart underrette medlemmene i samvirket som overdras om det faktum at de står oppført i medlemsregisteret samt om deres antall av andeler.
 
@@ -559,7 +706,10 @@ For hvert av de fusjonerende samvirkene skal gjennomføringen av fusjonen offent
 
 ### Art 36. Organenes struktur
 
-På de vilkår som er fastsatt i denne forordning, skal et SCE-foretak omfatte:en generalforsamling, ogenten et kontrollorgan og et ledelsesorgan (tonivåsystem) eller et administrasjonsorgan (ettnivåsystem), avhengig av hvilken form som velges i vedtektene.
+På de vilkår som er fastsatt i denne forordning, skal et SCE-foretak omfatte:
+
+1. en generalforsamling, og
+2. enten et kontrollorgan og et ledelsesorgan (tonivåsystem) eller et administrasjonsorgan (ettnivåsystem), avhengig av hvilken form som velges i vedtektene.
 
 ### Avsnitt 1. Tonivåsystem
 
@@ -567,7 +717,9 @@ På de vilkår som er fastsatt i denne forordning, skal et SCE-foretak omfatte:e
 
 1\. Ledelsesorganet skal være ansvarlig for ledelsen av SCE-foretaket og representere det overfor tredjemann og ved søksmål. En medlemsstat [EØS-stat] kan fastsette at en administrerende direktør skal ha ansvar for den daglige ledelsen på samme vilkår som for samvirker som har forretningskontor på medlemsstatens [EØS-statens] territorium.
 
-2\. Medlemmet eller medlemmene av ledelsesorganet skal oppnevnes og avsettes av kontrollorganet.En medlemsstat [EØS-stat] kan likevel kreve eller tillate at vedtektene fastsetter at medlemmet eller medlemmene av ledelsesorganet skal oppnevnes og avsettes av generalforsamlingen på samme vilkår som for samvirker som har forretningskontor på statens territorium.
+2\. Medlemmet eller medlemmene av ledelsesorganet skal oppnevnes og avsettes av kontrollorganet.
+
+En medlemsstat [EØS-stat] kan likevel kreve eller tillate at vedtektene fastsetter at medlemmet eller medlemmene av ledelsesorganet skal oppnevnes og avsettes av generalforsamlingen på samme vilkår som for samvirker som har forretningskontor på statens territorium.
 
 3\. Ingen kan samtidig være medlem av både ledelsesorganet og kontrollorganet i samme SCE-foretak. Kontrollorganet kan likevel oppnevne ett av sine medlemmer til å fungere som medlem av ledelsesorganet i tilfelle av ledig plass. I slike perioder skal vedkommendes funksjoner som medlem av kontrollorganet opphøre. En medlemsstat [EØS-stat] kan fastsette at slike perioder skal være tidsbegrenset.
 
@@ -615,7 +767,9 @@ På de vilkår som er fastsatt i denne forordning, skal et SCE-foretak omfatte:e
 
 1\. Administrasjonsorganet skal være ansvarlig for ledelsen av SCE-foretaket og representere det overfor tredjemann og ved søksmål. En medlemsstat [EØS-stat] kan fastsette at en administrerende direktør skal ha ansvar for den daglige ledelsen på samme vilkår som for samvirker som har forretningskontor på medlemsstatens [EØS-statens] territorium.
 
-2\. Antall medlemmer av administrasjonsorganet eller reglene for fastsettelse av antallet skal fastsettes i SCE-foretakets vedtekter. En medlemsstat [EØS-stat] kan likevel fastsette et minste antall og eventuelt et største antall medlemmer. Av administrasjonsorganets medlemmer kan bare en firedel være passive medlemmer.Administrasjonsorganet skal likevel bestå av minst tre medlemmer dersom arbeidstakernes innflytelse er regulert i samsvar med direktiv [2003/72/EF](eu/32003l0072).
+2\. Antall medlemmer av administrasjonsorganet eller reglene for fastsettelse av antallet skal fastsettes i SCE-foretakets vedtekter. En medlemsstat [EØS-stat] kan likevel fastsette et minste antall og eventuelt et største antall medlemmer. Av administrasjonsorganets medlemmer kan bare en firedel være passive medlemmer.
+
+Administrasjonsorganet skal likevel bestå av minst tre medlemmer dersom arbeidstakernes innflytelse er regulert i samsvar med direktiv [2003/72/EF](eu/32003l0072).
 
 3\. Medlemmene av administrasjonsorganet, og der vedtektene fastsetter det, deres varamedlemmer, skal oppnevnes av generalforsamlingen. Medlemmene av det første administrasjonsorganet kan likevel oppnevnes i vedtektene. Dette får anvendelse uten å berøre eventuelle ordninger for arbeidstakerinnflytelse fastsatt i henhold til direktiv [2003/72/EF](eu/32003l0072).
 
@@ -643,9 +797,14 @@ På de vilkår som er fastsatt i denne forordning, skal et SCE-foretak omfatte:e
 
 ### Art 46. Vilkår for medlemskap
 
-1\. Et SCE-foretaks vedtekter kan tillate at et selskap i henhold til traktatens artikkel 581 er medlem av ett av dets organer, forutsatt at ikke annet er fastsatt i lovgivningen om samvirker i medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger.Dette selskapet skal oppnevne en fysisk person som sin representant for å utøve sine funksjoner i vedkommende organ. Representanten skal være underlagt de samme vilkår og forpliktelser som personlige medlemmer av organet.
+1\. Et SCE-foretaks vedtekter kan tillate at et selskap i henhold til traktatens artikkel 581 er medlem av ett av dets organer, forutsatt at ikke annet er fastsatt i lovgivningen om samvirker i medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger.
 
-2\. Ingen kan være medlem av et organ i et SCE-foretak eller representant for et medlem i henhold til nr. 1 dersom vedkommende:i henhold til lovgivningen i medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger, ikke kan være medlem av det tilsvarende organet i et samvirke underlagt medlemsstatens [EØS-statens] lovgivning, ellerikke kan være medlem av det tilsvarende organet i et samvirke underlagt lovgivningen i en medlemsstat [EØS-stat] på grunn av en rettsavgjørelse eller et forvaltningsvedtak truffet i en medlemsstat.
+Dette selskapet skal oppnevne en fysisk person som sin representant for å utøve sine funksjoner i vedkommende organ. Representanten skal være underlagt de samme vilkår og forpliktelser som personlige medlemmer av organet.
+
+2\. Ingen kan være medlem av et organ i et SCE-foretak eller representant for et medlem i henhold til nr. 1 dersom vedkommende:
+
+- i henhold til lovgivningen i medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger, ikke kan være medlem av det tilsvarende organet i et samvirke underlagt medlemsstatens [EØS-statens] lovgivning, eller
+- ikke kan være medlem av det tilsvarende organet i et samvirke underlagt lovgivningen i en medlemsstat [EØS-stat] på grunn av en rettsavgjørelse eller et forvaltningsvedtak truffet i en medlemsstat.
 
 3\. Vedtektene for et SCE-foretak kan, i samsvar med lovgivningen om samvirker i medlemsstaten [EØS-staten], fastsette særlige vilkår for valgbarhet for medlemmer som skal representere administrasjonsorganet.
 
@@ -655,7 +814,9 @@ På de vilkår som er fastsatt i denne forordning, skal et SCE-foretak omfatte:e
 
 1\. Dersom to eller flere medlemmer av SCE-foretaket er gitt fullmakt til å representere det overfor tredjemann, i samsvar med artikkel 37 nr. 1 og artikkel 42 nr. 1, skal disse medlemmene benytte fullmakten sammen, med mindre lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, tillater at vedtektene fastsetter noe annet, og i så fall skal en slik bestemmelse kunne gjøres gjeldende overfor tredjemann når den er offentliggjort i samsvar med artikkel 11 nr. 5 og artikkel 12.
 
-2\. Handlinger utført av et SCE-foretaks organer skal være bindende for SCE-foretaket overfor tredjemann, også når vedkommende handlinger ikke er i samsvar med SCE-foretakets formål, forutsatt at de ikke går ut over fullmakten de er gitt i henhold til lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor eller som denne lovgivningen tillater at de gis.Medlemsstater [EØS-stater] kan likevel fastsette at SCE-foretaket ikke skal være bundet når slike handlinger ligger utenfor SCE-foretakets formål, dersom det bevises at tredjemann visste at handlingen lå utenfor disse formålene eller ut fra omstendighetene ikke kunne unngå å ha kjennskap til det; offentliggjøring av vedtektene skal ikke i seg selv utgjøre tilstrekkelig bevis for dette.
+2\. Handlinger utført av et SCE-foretaks organer skal være bindende for SCE-foretaket overfor tredjemann, også når vedkommende handlinger ikke er i samsvar med SCE-foretakets formål, forutsatt at de ikke går ut over fullmakten de er gitt i henhold til lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor eller som denne lovgivningen tillater at de gis.
+
+Medlemsstater [EØS-stater] kan likevel fastsette at SCE-foretaket ikke skal være bundet når slike handlinger ligger utenfor SCE-foretakets formål, dersom det bevises at tredjemann visste at handlingen lå utenfor disse formålene eller ut fra omstendighetene ikke kunne unngå å ha kjennskap til det; offentliggjøring av vedtektene skal ikke i seg selv utgjøre tilstrekkelig bevis for dette.
 
 3\. De begrensninger i fullmaktene til SCE-foretakets organer som følger av vedtektene eller av en beslutning truffet av vedkommende organer, kan aldri gjøres gjeldende overfor tredjemann, selv om de er blitt offentliggjort.
 
@@ -663,7 +824,10 @@ På de vilkår som er fastsatt i denne forordning, skal et SCE-foretak omfatte:e
 
 ### Art 48. Transaksjoner som krever godkjenning
 
-1\. Et SCE-foretaks vedtekter skal inneholde en liste over kategorier av transaksjoner som krever:i tonivåsystemet, fullmakt fra kontrollorganet eller generalforsamlingen til ledelsesorganet,i ettnivåsystemet, en uttrykkelig beslutning truffet av administrasjonsorganet eller fullmakt fra generalforsamlingen.
+1\. Et SCE-foretaks vedtekter skal inneholde en liste over kategorier av transaksjoner som krever:
+
+- i tonivåsystemet, fullmakt fra kontrollorganet eller generalforsamlingen til ledelsesorganet,
+- i ettnivåsystemet, en uttrykkelig beslutning truffet av administrasjonsorganet eller fullmakt fra generalforsamlingen.
 
 2\. Nr. 1 skal ikke berøre artikkel 47.
 
@@ -675,7 +839,12 @@ Medlemmene av et SCE-foretaks organer har, selv etter at de ikke lenger utøver 
 
 ### Art 50. Organenes beslutninger
 
-1\. Med mindre annet er fastsatt i denne forordning eller i vedtektene, skal de interne reglene for beslutningsdyktighet og beslutningstaking i SCE-foretaks organer være følgende:beslutningsdyktighet: minst halvparten av medlemmene må være til stede eller være representert,beslutningstaking: skjer med et flertall av medlemmene til stede eller representert.Medlemmer som ikke er til stede, kan delta i avgjørelser ved å gi et annet medlem av organet eller de varamedlemmene som ble oppnevnt samtidig, fullmakt til å representere dem.
+1\. Med mindre annet er fastsatt i denne forordning eller i vedtektene, skal de interne reglene for beslutningsdyktighet og beslutningstaking i SCE-foretaks organer være følgende:
+
+1. beslutningsdyktighet: minst halvparten av medlemmene må være til stede eller være representert,
+2. beslutningstaking: skjer med et flertall av medlemmene til stede eller representert.
+
+Medlemmer som ikke er til stede, kan delta i avgjørelser ved å gi et annet medlem av organet eller de varamedlemmene som ble oppnevnt samtidig, fullmakt til å representere dem.
 
 2\. Dersom det i vedtektene ikke finnes en relevant bestemmelse, skal lederen av hvert organ ha den avgjørende stemmen i tilfelle av stemmelikhet. Det skal likevel ikke finnes noen bestemmelse om det motsatte i vedtektene dersom halvparten av kontrollorganet består av arbeidstakernes representanter.
 
@@ -689,7 +858,10 @@ Medlemmene av ledelses-, kontroll- og administrasjonsorganer skal i samsvar med 
 
 ### Art 52. Kompetanse
 
-Generalforsamlingen skal treffe beslutning i saker der den er gitt særlig kompetanse i henhold til:denne forordning, ellerlovgivningen i medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger, vedtatt i henhold til direktiv [2003/72/EF](eu/32003l0072).
+Generalforsamlingen skal treffe beslutning i saker der den er gitt særlig kompetanse i henhold til:
+
+1. denne forordning, eller
+2. lovgivningen i medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger, vedtatt i henhold til direktiv [2003/72/EF](eu/32003l0072).
 
 Videre skal generalforsamlingen treffe beslutning i saker der det er gitt kompetanse til generalforsamlingen i et samvirke underlagt lovgivningen i medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger, enten i henhold til denne medlemsstatens [EØS-statens] lovgivning eller SCE-foretakets vedtekter i samsvar med samme lovgivning.
 
@@ -715,7 +887,12 @@ Medlemmer av et SCE-foretak som til sammen utgjør flere enn 5 000, eller som ha
 
 1\. Det skal innkalles til en generalforsamling gjennom en skriftlig meddelelse i enhver form til alle personer som har rett til å delta på SCE-foretakets generalforsamling i samsvar med artikkel 58 nr. 1 og 2 og vedtektenes bestemmelser. Innkallingen kan offentliggjøres i SCE-foretakets offisielle interne publikasjon.
 
-2\. Innkallingen til en generalforsamling skal inneholde minst følgende opplysninger:SCE-foretakets firma og forretningskontor,sted, dato og tidspunkt for generalforsamlingen,eventuelt generalforsamlingens art,dagsorden med angivelse av de sakene som skal behandles og forslag til beslutninger.
+2\. Innkallingen til en generalforsamling skal inneholde minst følgende opplysninger:
+
+- SCE-foretakets firma og forretningskontor,
+- sted, dato og tidspunkt for generalforsamlingen,
+- eventuelt generalforsamlingens art,
+- dagsorden med angivelse av de sakene som skal behandles og forslag til beslutninger.
 
 3\. Tidsrommet mellom datoen for utsendelse av meddelelsen nevnt i nr. 1 og datoen for generalforsamlingens åpning skal være minst 30 dager. I hastetilfeller kan det likevel reduseres til 15 dager. Dersom bestemmelsene i artikkel 61 nr. 4 om krav til beslutningsdyktighet anvendes, kan tidsrommet mellom innkallingen til et første og et andre møte for å behandle samme dagsorden, reduseres i samsvar med lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor.
 
@@ -729,7 +906,9 @@ Medlemmer av SCE-foretaket som til sammen utgjør flere enn 5 000, eller som har
 
 2\. Medlemmer av SCE-foretakets organer og innehavere av andre verdipapirer enn andeler og obligasjoner i henhold til artikkel 64, og dersom vedtektene tillater det, enhver annen person som har rett til det i henhold til lovgivningen i staten der SCE-foretaket har sitt forretningskontor, kan delta på en generalforsamling uten stemmerett.
 
-3\. En person med stemmerett skal kunne oppnevne en person med fullmakt til å representere ham/henne på en generalforsamling i samsvar med framgangsmåter fastsatt i vedtektene.Vedtektene skal fastsette et høyeste antall personer en fullmaktsinnehaver kan handle på vegne av.
+3\. En person med stemmerett skal kunne oppnevne en person med fullmakt til å representere ham/henne på en generalforsamling i samsvar med framgangsmåter fastsatt i vedtektene.
+
+Vedtektene skal fastsette et høyeste antall personer en fullmaktsinnehaver kan handle på vegne av.
 
 4\. Vedtektene kan tillate stemmegivning per post eller elektronisk, og skal i så fall fastsette de nødvendige framgangsmåter.
 
@@ -737,7 +916,11 @@ Medlemmer av SCE-foretaket som til sammen utgjør flere enn 5 000, eller som har
 
 1\. Hvert medlem av et SCE-foretak skal ha én stemme, uavhengig av antall andeler vedkommende har.
 
-2\. Dersom lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor tillater det, kan vedtektene fastsette at et medlem kan ha et visst antall stemmer ut fra hans/hennes deltaking i foretakets virksomhet på annen måte enn gjennom sitt kapitalinnskudd. Dette stemmeantallet skal ikke overstige fem stemmer per medlem eller 30 % av det samlede antall stemmer, etter det som er lavest.Dersom lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor tillater det, kan SCE-foretak som deltar i finansvirksomhet eller forsikringsvirksomhet fastsette i vedtektene at antall stemmer skal bestemmes ut fra medlemmenes deltaking i foretakets virksomhet, herunder deltaking i SCE-foretakets kapital. Dette stemmeantallet skal ikke overstige fem stemmer per medlem eller 20 % av det samlede antall stemmer, etter det som er lavest.I SCE-foretak der flertallet av medlemmene er samvirker, kan vedtektene, dersom det er tillatt etter lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, fastsette antall stemmer ut fra medlemmenes deltaking i samvirkets virksomhet, herunder deltaking i SCE-foretakets kapital og/eller i henhold til antall medlemmer i hver enhet som inngår.
+2\. Dersom lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor tillater det, kan vedtektene fastsette at et medlem kan ha et visst antall stemmer ut fra hans/hennes deltaking i foretakets virksomhet på annen måte enn gjennom sitt kapitalinnskudd. Dette stemmeantallet skal ikke overstige fem stemmer per medlem eller 30 % av det samlede antall stemmer, etter det som er lavest.
+
+Dersom lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor tillater det, kan SCE-foretak som deltar i finansvirksomhet eller forsikringsvirksomhet fastsette i vedtektene at antall stemmer skal bestemmes ut fra medlemmenes deltaking i foretakets virksomhet, herunder deltaking i SCE-foretakets kapital. Dette stemmeantallet skal ikke overstige fem stemmer per medlem eller 20 % av det samlede antall stemmer, etter det som er lavest.
+
+I SCE-foretak der flertallet av medlemmene er samvirker, kan vedtektene, dersom det er tillatt etter lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, fastsette antall stemmer ut fra medlemmenes deltaking i samvirkets virksomhet, herunder deltaking i SCE-foretakets kapital og/eller i henhold til antall medlemmer i hver enhet som inngår.
 
 3\. Med hensyn til stemmerett som vedtektene kan gi til passive (investor-) medlemmer, skal SCE-foretaket reguleres av lovgivningen i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor. Passive (investor-) medlemmer kan likevel ikke til sammen ha stemmerett som overstiger 25 % av det samlede antall stemmer.
 
@@ -747,7 +930,10 @@ Medlemmer av SCE-foretaket som til sammen utgjør flere enn 5 000, eller som har
 
 1\. Ethvert medlem som anmoder om det på en generalforsamling, skal ha rett til å få opplysninger fra ledelses- eller administrasjonsorganet om de av SCE-foretakets former for virksomhet som gjelder saker generalforsamlingen kan treffe beslutning om i henhold til artikkel 61 nr. 1. I den grad det er mulig, skal opplysningene gis på den aktuelle generalforsamlingen.
 
-2\. Ledelses- eller administrasjonsorganet kan nekte å gi slike opplysninger bare dersom:det er sannsynlig at det ville være til betydelig skade for SCE-foretaket,det ville være uforenlig med en lovfestet taushetsplikt.
+2\. Ledelses- eller administrasjonsorganet kan nekte å gi slike opplysninger bare dersom:
+
+- det er sannsynlig at det ville være til betydelig skade for SCE-foretaket,
+- det ville være uforenlig med en lovfestet taushetsplikt.
 
 3\. Et medlem som nektes opplysninger, kan kreve at hans/hennes anmodning og grunnene til avslaget skal opptas i generalforsamlingens protokoll.
 
@@ -761,13 +947,21 @@ Medlemmer av SCE-foretaket som til sammen utgjør flere enn 5 000, eller som har
 
 2\. En generalforsamling skal treffe beslutning med et flertall av stemmene som er gyldig avgitt av tilstedeværende eller representerte medlemmer.
 
-3\. Vedtektene skal fastsette de krav til beslutningsdyktighet og flertall som får anvendelse på generalforsamlinger.Der vedtektene tillater at et SCE-foretak kan ha investormedlemmer (passive medlemmer), eller kan tildele stemmer ut fra kapitalinnskudd i SCE-foretak som deltar i finansvirksomhet eller forsikringsvirksomhet, skal vedtektene også fastsette særlige krav til beslutningsdyktighet for medlemmer som ikke er investormedlemmer (passive medlemmer) eller medlemmer som har stemmerett ut fra kapitalinnskudd i SCE-foretak som deltar i finansvirksomhet eller forsikringsvirksomhet. Medlemsstatene [EØS-statene] skal kunne fastsette et minstenivå for slike særlige krav til beslutningsdyktighet for de SCE-foretakene som har forretningskontor på deres territorium.
+3\. Vedtektene skal fastsette de krav til beslutningsdyktighet og flertall som får anvendelse på generalforsamlinger.
 
-4\. En generalforsamling kan endre vedtektene første gang den innkalles bare dersom de tilstedeværende eller representerte medlemmene utgjør minst halvparten av det samlede antall medlemmer på innkallingsdatoen, og andre gang det innkalles med samme dagsorden, skal det ikke stilles krav til beslutningsdyktighet.I tilfellene nevnt i første ledd må minst to tredeler av de gyldig avgitte stemmene være for endring, med mindre lovgivningen som gjelder samvirker i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, krever et større flertall.
+Der vedtektene tillater at et SCE-foretak kan ha investormedlemmer (passive medlemmer), eller kan tildele stemmer ut fra kapitalinnskudd i SCE-foretak som deltar i finansvirksomhet eller forsikringsvirksomhet, skal vedtektene også fastsette særlige krav til beslutningsdyktighet for medlemmer som ikke er investormedlemmer (passive medlemmer) eller medlemmer som har stemmerett ut fra kapitalinnskudd i SCE-foretak som deltar i finansvirksomhet eller forsikringsvirksomhet. Medlemsstatene [EØS-statene] skal kunne fastsette et minstenivå for slike særlige krav til beslutningsdyktighet for de SCE-foretakene som har forretningskontor på deres territorium.
+
+4\. En generalforsamling kan endre vedtektene første gang den innkalles bare dersom de tilstedeværende eller representerte medlemmene utgjør minst halvparten av det samlede antall medlemmer på innkallingsdatoen, og andre gang det innkalles med samme dagsorden, skal det ikke stilles krav til beslutningsdyktighet.
+
+I tilfellene nevnt i første ledd må minst to tredeler av de gyldig avgitte stemmene være for endring, med mindre lovgivningen som gjelder samvirker i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor, krever et større flertall.
 
 ### Art 62. Protokoll
 
-1\. Det skal føres protokoll for hver generalforsamling. Protokollen skal omfatte minst følgende opplysninger:sted og dato for generalforsamlingen,beslutninger som er truffet,resultatet av stemmegivningen.
+1\. Det skal føres protokoll for hver generalforsamling. Protokollen skal omfatte minst følgende opplysninger:
+
+- sted og dato for generalforsamlingen,
+- beslutninger som er truffet,
+- resultatet av stemmegivningen.
 
 2\. Deltakerlisten, dokumentene som gjelder innkallingen til generalforsamlingen og rapportene medlemmene får om sakene på dagsorden skal vedlegges protokollen.
 
@@ -791,7 +985,9 @@ Medlemmer av SCE-foretaket som til sammen utgjør flere enn 5 000, eller som har
 
 3\. Samlet pålydende verdi for verdipapirer eller obligasjoner nevnt i nr. 1 kan ikke overstige verdien som er fastsatt i vedtektene.
 
-4\. Uten at det berører retten til å delta på generalforsamlingen som fastsatt i artikkel 58 nr. 2, kan vedtektene tillate særlige møter for innehavere av verdipapirer eller obligasjoner som nevnt i nr. 1. Før generalforsamlingen treffer beslutning om slike innehaveres rettigheter og interesser, kan et særlig møte avgi en uttalelse, som skal meddeles generalforsamlingen av de representanter det særlige møtet oppnevner.Uttalelsen nevnt i første ledd skal opptas i protokollen fra generalforsamlingen.
+4\. Uten at det berører retten til å delta på generalforsamlingen som fastsatt i artikkel 58 nr. 2, kan vedtektene tillate særlige møter for innehavere av verdipapirer eller obligasjoner som nevnt i nr. 1. Før generalforsamlingen treffer beslutning om slike innehaveres rettigheter og interesser, kan et særlig møte avgi en uttalelse, som skal meddeles generalforsamlingen av de representanter det særlige møtet oppnevner.
+
+Uttalelsen nevnt i første ledd skal opptas i protokollen fra generalforsamlingen.
 
 ### Kapittel V. Fordeling av overskudd
 
@@ -799,7 +995,9 @@ Medlemmer av SCE-foretaket som til sammen utgjør flere enn 5 000, eller som har
 
 1\. Uten at ufravikelige internrettslige bestemmelser berøres, skal vedtektene fastsette regler for fordeling av overskuddet for hvert regnskapsår.
 
-2\. Når et slikt overskudd foreligger, skal vedtektene fastsette at det opprettes et reservefond, trukket av overskuddet, før annen fordeling.Inntil reservefondet tilsvarer kapitalen nevnt i artikkel 3 nr. 2, kan beløpet som overføres dit ikke være mindre enn 15 % av overskuddet for regnskapsåret etter fratrekk av eventuelt underskudd som er overført.
+2\. Når et slikt overskudd foreligger, skal vedtektene fastsette at det opprettes et reservefond, trukket av overskuddet, før annen fordeling.
+
+Inntil reservefondet tilsvarer kapitalen nevnt i artikkel 3 nr. 2, kan beløpet som overføres dit ikke være mindre enn 15 % av overskuddet for regnskapsåret etter fratrekk av eventuelt underskudd som er overført.
 
 3\. Medlemmer som forlater SCE-foretaket kan ikke gjøre gjeldende noe krav på beløp som er avsatt til reservefondet.
 
@@ -811,7 +1009,11 @@ Vedtektene kan fastsette at det skal utbetales et utbytte til medlemmer ut fra d
 
 1\. Disponibelt overskudd etter fratrekk for avsetning til reservefondet, eventuell utbetaling av utbytte og av eventuelle overførte underskudd, med tillegg av eventuelle overførte overskudd og av eventuelle beløp fratrukket reservene, skal utgjøre overskuddet som er tilgjengelig for fordeling.
 
-2\. Generalforsamlingen som tar stilling til årsregnskapet, kan fordele overskuddet i den rekkefølge og i det forholdet som er fastsatt i vedtektene, og særlig:overføre det til neste regnskapsår,fordele det til eventuelle lovfestede eller vedtektsfestede reservefond,gi avkastning på innbetalt kapital og likestilt kapital, i form av kontanter eller andeler.
+2\. Generalforsamlingen som tar stilling til årsregnskapet, kan fordele overskuddet i den rekkefølge og i det forholdet som er fastsatt i vedtektene, og særlig:
+
+- overføre det til neste regnskapsår,
+- fordele det til eventuelle lovfestede eller vedtektsfestede reservefond,
+- gi avkastning på innbetalt kapital og likestilt kapital, i form av kontanter eller andeler.
 
 3\. Vedtektene kan også forby fordeling.
 
@@ -825,7 +1027,11 @@ Vedtektene kan fastsette at det skal utbetales et utbytte til medlemmer ut fra d
 
 3\. Et SCE-foretak skal utarbeide årsregnskapet og eventuelt det konsoliderte regnskapet i den nasjonale valuta. Et SCE-foretak som har sitt forretningskontor utenfor euro-området, kan også utarbeide årsregnskapet, og eventuelt det konsoliderte regnskapet, i euro. I så fall skal grunnlaget for omregning til euro av postene som opprinnelig ble uttrykt i en annen valuta angis i notene til regnskapet.
 
-1 Jf. EØS-avtalen vedlegg XXII nr. 4.2 Jf. EØS-avtalen vedlegg XXII nr. 6.3 Jf. EØS-avtalen vedlegg XXII nr. 1. Dir [68/151](eu/31968l0151*) er nå erstattet av dir [2009/101](eu/32009l0101).
+1 Jf. EØS-avtalen vedlegg XXII nr. 4.
+
+2 Jf. EØS-avtalen vedlegg XXII nr. 6.
+
+3 Jf. EØS-avtalen vedlegg XXII nr. 1. Dir [68/151](eu/31968l0151*) er nå erstattet av dir [2009/101](eu/32009l0101).
 
 ### Art 69. Regnskap for SCE-foretak som driver kreditt- eller finansvirksomhet
 
@@ -837,7 +1043,9 @@ Vedtektene kan fastsette at det skal utbetales et utbytte til medlemmer ut fra d
 
 Lovfestet revisjon av et SCE-foretaks årsregnskap og eventuelt konsoliderte regnskap skal foretas av en eller flere personer med fullmakt til å gjøre dette i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor i samsvar med tiltakene truffet i vedkommende stat i henhold til direktiv [84/253/EØF](eu/31984l0253)1 og [89/48/EØF](eu/31989l0048).2
 
-1 Se nå dir [2006/43](eu/32006l0043), jf. EØS-avtalen vedlegg XXII nr. 10f.2 Se nå dir [2005/36](eu/32005l0036*). jf. EØS-avtalen vedlegg VII nr. 1.
+1 Se nå dir [2006/43](eu/32006l0043), jf. EØS-avtalen vedlegg XXII nr. 10f.
+
+2 Se nå dir [2005/36](eu/32005l0036*). jf. EØS-avtalen vedlegg VII nr. 1.
 
 ### Art 71. Revisjonssystem
 
@@ -853,9 +1061,14 @@ Med hensyn til oppløsning, avvikling, insolvens, betalingsstans og lignende beh
 
 ### Art 73. Oppløsning pålagt av domstol eller annen vedkommende myndighet i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor
 
-1\. På begjæring fra en person med rettmessig interesse eller vedkommende myndighet, skal domstolen eller vedkommende forvaltningsmyndighet i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor erklære SCE-foretaket for oppløst dersom den fastslår en overtredelse av artikkel 2 nr. 1 og/eller artikkel 3 nr. 2 samt tilfeller som omfattes av artikkel 34.Domstolen eller vedkommende forvaltningsmyndighet kan gi SCE-foretaket en frist for å bringe situasjonen i orden. Dersom det ikke klarer det før fristen utløper, skal domstolen eller vedkommende forvaltningsmyndighet erklære det for oppløst.
+1\. På begjæring fra en person med rettmessig interesse eller vedkommende myndighet, skal domstolen eller vedkommende forvaltningsmyndighet i medlemsstaten [EØS-staten] der SCE-foretaket har sitt forretningskontor erklære SCE-foretaket for oppløst dersom den fastslår en overtredelse av artikkel 2 nr. 1 og/eller artikkel 3 nr. 2 samt tilfeller som omfattes av artikkel 34.
 
-2\. Når et SCE-foretak ikke lenger oppfyller kravet fastsatt i artikkel 6, skal medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger, treffe hensiktsmessige tiltak for å pålegge SCE-foretaket å bringe situasjonen i orden innen en fastsatt frist, enten:ved å reetablere sitt hovedkontor i medlemsstaten [EØS-staten] der forretningskontoret ligger, ellerved å flytte forretningskontoret ved hjelp av framgangsmåten fastsatt i artikkel 7.
+Domstolen eller vedkommende forvaltningsmyndighet kan gi SCE-foretaket en frist for å bringe situasjonen i orden. Dersom det ikke klarer det før fristen utløper, skal domstolen eller vedkommende forvaltningsmyndighet erklære det for oppløst.
+
+2\. Når et SCE-foretak ikke lenger oppfyller kravet fastsatt i artikkel 6, skal medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger, treffe hensiktsmessige tiltak for å pålegge SCE-foretaket å bringe situasjonen i orden innen en fastsatt frist, enten:
+
+- ved å reetablere sitt hovedkontor i medlemsstaten [EØS-staten] der forretningskontoret ligger, eller
+- ved å flytte forretningskontoret ved hjelp av framgangsmåten fastsatt i artikkel 7.
 
 3\. Medlemsstaten [EØS-staten] der SCE-foretakets forretningskontor ligger, skal treffe nødvendige tiltak for å sikre at et SCE-foretak som unnlater å bringe sin situasjon i orden i henhold til nr. 2, blir avviklet.
 
@@ -907,7 +1120,12 @@ Nettoaktiva skal fordeles ut fra prinsippet om uegennyttig fordeling, eller der 
 
 ### Art 79. Revisjon av forordningen
 
-Senest fem år etter at denne forordning er trådt i kraft, skal Kommisjonen oversende Europaparlamentet og Rådet en rapport om anvendelsen av forordningen og eventuelt forslag til endringer. Rapporten skal særlig undersøke:om det bør tillates at et SCE-foretaks hovedkontor og forretningskontor lokaliseres i forskjellige medlemsstater [EØS-medlemsstater],om det bør tillates at en medlemsstat [EØS-stat] i lovgivningen den vedtar i samsvar med fullmakter gitt ved denne forordning eller for å sikre effektiv anvendelse av denne forordning, tillater at et SCE-foretak tar inn i sine vedtekter bestemmelser som avviker fra eller utfyller denne lovgivningen, selv om slike bestemmelser ikke ville være tillatt i vedtektene til et samvirke med forretningskontor i medlemsstaten [EØS-staten],om det bør tillates bestemmelser som gjør det mulig å dele et SCE-foretak i to eller flere nasjonale samvirker,om det bør tillates særlig klageadgang ved bedrageri eller feil ved registreringen av et SCE-foretak etablert ved fusjon.
+Senest fem år etter at denne forordning er trådt i kraft, skal Kommisjonen oversende Europaparlamentet og Rådet en rapport om anvendelsen av forordningen og eventuelt forslag til endringer. Rapporten skal særlig undersøke:
+
+1. om det bør tillates at et SCE-foretaks hovedkontor og forretningskontor lokaliseres i forskjellige medlemsstater [EØS-medlemsstater],
+2. om det bør tillates at en medlemsstat [EØS-stat] i lovgivningen den vedtar i samsvar med fullmakter gitt ved denne forordning eller for å sikre effektiv anvendelse av denne forordning, tillater at et SCE-foretak tar inn i sine vedtekter bestemmelser som avviker fra eller utfyller denne lovgivningen, selv om slike bestemmelser ikke ville være tillatt i vedtektene til et samvirke med forretningskontor i medlemsstaten [EØS-staten],
+3. om det bør tillates bestemmelser som gjør det mulig å dele et SCE-foretak i to eller flere nasjonale samvirker,
+4. om det bør tillates særlig klageadgang ved bedrageri eller feil ved registreringen av et SCE-foretak etablert ved fusjon.
 
 1 Jf. EØS-avtalen protokoll 1 nr. 5: For EFTA-statenes vedkommende vil en tilsvarende oppgave tilligge EFTAs overvåkingsorgan eller EFTA-statenes faste komité.
 

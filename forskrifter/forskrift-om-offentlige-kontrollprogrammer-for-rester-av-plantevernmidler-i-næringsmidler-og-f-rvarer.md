@@ -64,4 +64,6 @@ Se her for å lese forordning [(EU) 2021/2244](eu/32021r2244) (uoffisiell overse
 
 - [pdf-fil](static/SF/32021r2244u-01.pdf)
 
-Se her for å lese forordning [(EU) 2026/765](eu/32026r0765) (uoffisiell norsk oversettelse, forordningen gjelder/må følges fra 1. januar 2027):[pdf-fil](static/SF/32026r0765u-01.pdf).
+Se her for å lese forordning [(EU) 2026/765](eu/32026r0765) (uoffisiell norsk oversettelse, forordningen gjelder/må følges fra 1. januar 2027):
+
+- [pdf-fil](static/SF/32026r0765u-01.pdf).

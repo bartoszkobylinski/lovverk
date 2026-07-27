@@ -15,7 +15,7 @@ xml_hash: "491285a741f6c575eaaae1814c6ce3e4b86724e9f2d54d0ebd29e46f93fe3fd5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,11 @@ eu_basis: []
 
 ### § 3. Graden Bachelor
 
-(1) Bachelorgraden tildeles på grunnlag av fullført og bestått studieprogram med tilhørende emner tilsvarende 180 studiepoeng. Graden gis på grunnlag av følgende krav:I de 180 studiepoengene skal det inngå en emnegruppe med en spesialisering på til sammen minst 80 studiepoeng. Minst 20 av disse studiepoengene må være på 200-nivå. Hva som er de obligatoriske 200-emnene i spesialisering, er definert i de enkelte studieplanene.Emnene Examen philosophicum og Examen facultatum (20 studiepoeng).Bacheloroppgave.
+(1) Bachelorgraden tildeles på grunnlag av fullført og bestått studieprogram med tilhørende emner tilsvarende 180 studiepoeng. Graden gis på grunnlag av følgende krav:
+
+1. I de 180 studiepoengene skal det inngå en emnegruppe med en spesialisering på til sammen minst 80 studiepoeng. Minst 20 av disse studiepoengene må være på 200-nivå. Hva som er de obligatoriske 200-emnene i spesialisering, er definert i de enkelte studieplanene.
+2. Emnene Examen philosophicum og Examen facultatum (20 studiepoeng).
+3. Bacheloroppgave.
 
 (2) Bachelorgraden oppnår en på grunnlag av en studieplan godkjent av styret for Ansgar høyskole. Styret kan gi dispensasjon fra kravet om Examen philosophicum og/eller Examen facultatum, samt fra kravet om bacheloroppgave.
 
@@ -100,7 +104,12 @@ For opptak til alle studier ved Ansgar høyskole som omfattes av denne forskrift
 
 (1) Søker må oppfylle krav fastsatt i [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392).
 
-(2) For å bli tatt opp til et disiplinbasert masterstudium (120 studiepoeng) må studenten ha:Oppnådd bachelorgrad eller tilsvarende, men minimum C som snittkarakter.Utdanningen på lavere grads nivå må ha minst 80 studiepoeng i emnegruppen kristendomskunnskap, teologi, RLE eller tilsvarende. Minst 20 av disse studiepoengene må være på 200-nivå.For Master i ledelse og menighetsutvikling: praksis med et omfang på 10 studiepoeng, eller tilsvarende.Oppfylle eventuelt andre faglige krav som måtte være fastsatt i studieplanen for det aktuelle masterstudiet.
+(2) For å bli tatt opp til et disiplinbasert masterstudium (120 studiepoeng) må studenten ha:
+
+1. Oppnådd bachelorgrad eller tilsvarende, men minimum C som snittkarakter.
+2. Utdanningen på lavere grads nivå må ha minst 80 studiepoeng i emnegruppen kristendomskunnskap, teologi, RLE eller tilsvarende. Minst 20 av disse studiepoengene må være på 200-nivå.
+3. For Master i ledelse og menighetsutvikling: praksis med et omfang på 10 studiepoeng, eller tilsvarende.
+4. Oppfylle eventuelt andre faglige krav som måtte være fastsatt i studieplanen for det aktuelle masterstudiet.
 
 ### § 7. Studentopptak
 
@@ -144,7 +153,17 @@ For opptak til alle studier ved Ansgar høyskole som omfattes av denne forskrift
 
 ### § 12. Studieplan
 
-(1) For hvert studieprogram skal det utarbeides studieplan. Studieplanen skal danne grunnlaget for oppbygningen av grad og utarbeides i tråd med retningslinjene i kvalifikasjonsrammeverket. Studieplanen skal inneholde følgende opplysninger og bestemmelser:læringsutbyttebeskrivelser i form av kunnskaper, ferdigheter og generell kompetansehvilke emner innenfor emnegruppen det kan avlegges eksamen iemnets studiepoengomfangundervisningsvolum og undervisningsformer knyttet til hvert emneeventuelle forkunnskapskrav eller eventuelle anbefalte forkunnskapereventuelle eksamenskrav; eksempelvis godkjent deltakelse i seminarer, obligatoriske skriftlige og/eller muntlige arbeider eller andre teoretiske og praktiske øvingeremnets eksamensordning, prøve- og evalueringsformerandre bestemmelser av betydning for gjennomføring og kvalitetssikring av studiet, herunder krav for å kunne fortsette / gå videre på studietandre bestemmelser av betydning for gjennomføringen av kvalitetssikringen av studiet.
+(1) For hvert studieprogram skal det utarbeides studieplan. Studieplanen skal danne grunnlaget for oppbygningen av grad og utarbeides i tråd med retningslinjene i kvalifikasjonsrammeverket. Studieplanen skal inneholde følgende opplysninger og bestemmelser:
+
+1. læringsutbyttebeskrivelser i form av kunnskaper, ferdigheter og generell kompetanse
+2. hvilke emner innenfor emnegruppen det kan avlegges eksamen i
+3. emnets studiepoengomfang
+4. undervisningsvolum og undervisningsformer knyttet til hvert emne
+5. eventuelle forkunnskapskrav eller eventuelle anbefalte forkunnskaper
+6. eventuelle eksamenskrav; eksempelvis godkjent deltakelse i seminarer, obligatoriske skriftlige og/eller muntlige arbeider eller andre teoretiske og praktiske øvinger
+7. emnets eksamensordning, prøve- og evalueringsformer
+8. andre bestemmelser av betydning for gjennomføring og kvalitetssikring av studiet, herunder krav for å kunne fortsette / gå videre på studiet
+9. andre bestemmelser av betydning for gjennomføringen av kvalitetssikringen av studiet.
 
 (2) Studienemnda kan frita for studieplanfestede forkunnskapskrav og eksamenskrav dersom tilsvarende krav er oppfylt ved annen eksamen eller ved andre eksamenslignende arbeider.
 
@@ -152,7 +171,9 @@ For opptak til alle studier ved Ansgar høyskole som omfattes av denne forskrift
 
 ### § 13. Bærbar datamaskin
 
-Alle studenter skal ha egen bærbar datamaskin til bruk i undervisning og ved eksamen.Krav til datamaskin fastsettes av Studienemnda.
+Alle studenter skal ha egen bærbar datamaskin til bruk i undervisning og ved eksamen.
+
+1. Krav til datamaskin fastsettes av Studienemnda.
 
 ### § 14. Vitnemål og Diploma Supplement (DS)
 
@@ -186,7 +207,12 @@ Alle studenter skal ha egen bærbar datamaskin til bruk i undervisning og ved ek
 
 ### § 16. Tap av studierett
 
-(1) En student kan miste sin studierett på et studieprogram hun eller han er tatt opp til i flg. tilfeller:Dersom studenten 2 år etter opptak eller senere i studieprogrammet over en periode på minst 2 år har bestått mindre enn 50 % av antall studiepoeng i sin utdanningsplan. Dersom studenten ikke har utdanningsplan for det aktuelle tidsrom, legges normert studieplan til grunn.Dersom en student har strøket 3 ganger på samme emne og vedkommende ikke er innvilget dispensasjon til ytterligere eksamensforsøk.Dersom en student har strøket 2 ganger på samme praksisperiode / kliniske studieprogram og vedkommende ikke er innvilget dispensasjon til et 3. forsøk.Dersom en student etter forespørsel ikke framviser dokumenter som er grunnlag for opptak i originalversjon for kontroll.
+(1) En student kan miste sin studierett på et studieprogram hun eller han er tatt opp til i flg. tilfeller:
+
+1. Dersom studenten 2 år etter opptak eller senere i studieprogrammet over en periode på minst 2 år har bestått mindre enn 50 % av antall studiepoeng i sin utdanningsplan. Dersom studenten ikke har utdanningsplan for det aktuelle tidsrom, legges normert studieplan til grunn.
+2. Dersom en student har strøket 3 ganger på samme emne og vedkommende ikke er innvilget dispensasjon til ytterligere eksamensforsøk.
+3. Dersom en student har strøket 2 ganger på samme praksisperiode / kliniske studieprogram og vedkommende ikke er innvilget dispensasjon til et 3. forsøk.
+4. Dersom en student etter forespørsel ikke framviser dokumenter som er grunnlag for opptak i originalversjon for kontroll.
 
 (2) Ved vurdering av om en student skal miste studieretten etter punkt 1 bokstav a, skal det legges vekt på hvilke grunner studenten har for ikke å ha avlagt eksamener i samsvar med utdanningsplanen eller studieplanene.
 
@@ -210,7 +236,11 @@ Alle studenter skal ha egen bærbar datamaskin til bruk i undervisning og ved ek
 
 (6) Studienemnda gir nærmere retningslinjer, herunder om utdanningsplanens form, lagring og arkivering, om frist og framgangsmåte for endring av planen, etc.
 
-(7) Utdanningsplan skal inneholde bestemmelser om høyskolens ansvar og forpliktelser overfor studenten og om studentens forpliktelser overfor høyskolen og medstudentene, herunder:navnet på det studieprogrammet og/eller den emnegruppen studenten er tatt opp til, samt en henvisning til aktuell(e) studieplan(er) og til viktige regler som ikke er tatt inn i utdanningsplan, og hvor disse kan finneshvilke studieprogram, emnegrupper og emner studenten tar sikte på å fullføre, til hvilken tid og i hvilken rekkefølge, samt orientering om framgangsmåten ved endring av utdanningsplanorientering om konsekvens av at studenten ikke følger opp utdanningsplan.
+(7) Utdanningsplan skal inneholde bestemmelser om høyskolens ansvar og forpliktelser overfor studenten og om studentens forpliktelser overfor høyskolen og medstudentene, herunder:
+
+1. navnet på det studieprogrammet og/eller den emnegruppen studenten er tatt opp til, samt en henvisning til aktuell(e) studieplan(er) og til viktige regler som ikke er tatt inn i utdanningsplan, og hvor disse kan finnes
+2. hvilke studieprogram, emnegrupper og emner studenten tar sikte på å fullføre, til hvilken tid og i hvilken rekkefølge, samt orientering om framgangsmåten ved endring av utdanningsplan
+3. orientering om konsekvens av at studenten ikke følger opp utdanningsplan.
 
 ### § 18. Læringsmiljø
 
@@ -284,11 +314,19 @@ Utdanning fra universitet eller annen høyskole som går inn under [lov om unive
 
 ### § 26. Ekstern evaluering av vurderingen eller vurderingsordningene
 
-(1) Høyskolen skal sørge for at kunnskaper og ferdigheter hos studentene blir prøvet på en upartisk og faglig måte, og de valgte vurderingsformene skal sikre det faglige nivået ved høyskolen og hos studentene.Ved sensurering benyttes minst én intern sensor. Denne ordningen kombineres med en ekstra intern / ekstern sensor for 10 % av besvarelsene (minst 3). Ved bedømmelse av muntlig eksamen eller lignende som etter sin art ikke lar seg etterprøve, skal det likevel være minst to sensorer hvorav minst én er ekstern.
+(1) Høyskolen skal sørge for at kunnskaper og ferdigheter hos studentene blir prøvet på en upartisk og faglig måte, og de valgte vurderingsformene skal sikre det faglige nivået ved høyskolen og hos studentene.
+
+Ved sensurering benyttes minst én intern sensor. Denne ordningen kombineres med en ekstra intern / ekstern sensor for 10 % av besvarelsene (minst 3). Ved bedømmelse av muntlig eksamen eller lignende som etter sin art ikke lar seg etterprøve, skal det likevel være minst to sensorer hvorav minst én er ekstern.
 
 (2) Ved ny sensurering benyttes minst to nye sensorer, hvorav minst én ekstern. Endring kan gjøres både til gunst og ugunst for klager. Dersom den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve, og klager får medhold i klage på sensuren over den skriftlige delen av eksamen, avholdes ny muntlig prøve til fastsetting av endelig karakter.
 
-(3) Ordninger for ekstern evaluering kan være én av, eller en kombinasjon av, følgende:ekstern sensor deltar ved vurdering av eksamensbesvarelsene fra alle kandidateneekstern sensor deltar ved vurdering av et utvalg av eksamensbesvarelseneekstern sensor deltar ved utforming av eksamensoppgaver og/eller sensorveiledningekstern sensor foretar kontroll av intern sensors vurdering av et tilfeldig utvalg kandidatereksterne sensorer foretar en samlet vurdering av alle vurderingsordningene som inngår i studieplanen/faget.
+(3) Ordninger for ekstern evaluering kan være én av, eller en kombinasjon av, følgende:
+
+1. ekstern sensor deltar ved vurdering av eksamensbesvarelsene fra alle kandidatene
+2. ekstern sensor deltar ved vurdering av et utvalg av eksamensbesvarelsene
+3. ekstern sensor deltar ved utforming av eksamensoppgaver og/eller sensorveiledning
+4. ekstern sensor foretar kontroll av intern sensors vurdering av et tilfeldig utvalg kandidater
+5. eksterne sensorer foretar en samlet vurdering av alle vurderingsordningene som inngår i studieplanen/faget.
 
 (4) Studienemnda oppnevner eksterne sensorer for en 4 års periode og fastsetter retningslinjer når det gjelder antall sensorer og hvordan ekstern deltakelse i vurderingen skal gjennomføres i henhold til fjerde ledd.
 
@@ -339,27 +377,63 @@ Vurderingsuttrykket ved eksamen, prøve, bedømmelse av oppgave eller annen vurd
 
 (1) Den enkelte karakter gis en vekting ved utregning av en gjennomsnittskarakter i et emne, eller i forbindelse med utregning av hovedkarakter. Vekten skal angis i studieplanen som en brøk av den samlede karakteren.
 
-(2) Gjennomsnittskarakter er en samlet karakter for et emne. For emner skal gjennomsnittskarakteren regnes ut slik:Hver bokstavkarakter erstattes av en tallekvivalent, slik at A=«5»; B=«4»; C=«3»; D=«2»; E=«1».For hver eksamen multipliseres tallekvivalenten med den vekten vedkommende eksamen skal ha i henhold til studieplanen, og alle produktene summeres.Produktsummen settes opp eller ned til nærmeste hele tall, etter at vanlige forhøyningsregler er brukt.Gjennomsnittskarakteren angis med det bokstavsymbolet som svarer til det tallet som kommer fram.
+(2) Gjennomsnittskarakter er en samlet karakter for et emne. For emner skal gjennomsnittskarakteren regnes ut slik:
+
+1. Hver bokstavkarakter erstattes av en tallekvivalent, slik at A=«5»; B=«4»; C=«3»; D=«2»; E=«1».
+2. For hver eksamen multipliseres tallekvivalenten med den vekten vedkommende eksamen skal ha i henhold til studieplanen, og alle produktene summeres.
+3. Produktsummen settes opp eller ned til nærmeste hele tall, etter at vanlige forhøyningsregler er brukt.
+4. Gjennomsnittskarakteren angis med det bokstavsymbolet som svarer til det tallet som kommer fram.
 
 (3) Gjennomsnittskarakteren angis som et bokstavsymbol dersom minst 75 % av eksamenene i emnet, regnet etter vekt, er gitt bokstavkarakter. Ellers skal gjennomsnittskarakteren angis som «Bestått» eller «Ikke bestått».
 
-(4) Hovedkarakter er en samlet karakter etter fullført grad.Hovedkarakteren angis som et bokstavsymbol dersom minst 75 % av eksamenene i emnet, regnet etter vekt, er gitt bokstavkarakter. Ellers skal hovedkarakteren angis som «Bestått» eller «Ikke Bestått».
+(4) Hovedkarakter er en samlet karakter etter fullført grad.
+
+1. Hovedkarakteren angis som et bokstavsymbol dersom minst 75 % av eksamenene i emnet, regnet etter vekt, er gitt bokstavkarakter. Ellers skal hovedkarakteren angis som «Bestått» eller «Ikke Bestått».
 
 ### § 30. Ekstern sensor og krav til kvalifikasjon
 
 (1) Ekstern sensor skal ikke være ansatt i heltids- eller deltidsstilling ved AHS i det gjeldende semester. Engasjerte forelesere/seminarholdere regnes som interne den tiden de mottar lønn fra Ansgar høyskole.
 
-(2) En ekstern sensor må ha minst én av følgende kvalifikasjoner:Inneha vitenskapelig kompetanse som kvalifiserer for ansettelse som minimum høyskolelektor/amanuensis ved universitet/høyskole eller annen forskningsinstitusjon.I særlige tilfeller gjennom relevant yrkespraksis være særlig kvalifisert for å foreta sensur innenfor et bestemt område.
+(2) En ekstern sensor må ha minst én av følgende kvalifikasjoner:
+
+1. Inneha vitenskapelig kompetanse som kvalifiserer for ansettelse som minimum høyskolelektor/amanuensis ved universitet/høyskole eller annen forskningsinstitusjon.
+2. I særlige tilfeller gjennom relevant yrkespraksis være særlig kvalifisert for å foreta sensur innenfor et bestemt område.
 
 ### § 31. Eksamensordninger og eksamensformer
 
-(1) EksamensordningerEksamensordninger omfatter disse formene:Ordinær eksamenUtsatt eksamenUtsatt eksamen er eksamen som arrangeres for studenter som har vært syke eller som har hatt annen gyldig grunn til fravær ved siste ordinære eksamen.KontinuasjonseksamenEksamen som kan arrangeres for studenter som har framstilt seg og fått sensuren «ikke bestått» / «F» ved siste ordinære eksamen, eller studenter som vil forbedre sitt resultat
+(1) Eksamensordninger
 
-(2) EksamensformerEksamen omfatter disse vurderingsformene:Skole-/klausureksamen: Skriftlig og/eller muntlig eksamen som avholdes i lokaler anvist av institusjonen, og under tilsyn av personer utpekt av institusjonen. Muntlig eksamen gis enten som selvstendig vektet eksamen eller som justerende/korrigerende.Skriftlig skoleeksamen arrangeres i hovedsak digitalt. Digital eksamen er basert på bruk av egen bærbar datamaskin.Eksamenskandidater som benytter eget utstyr, er selv ansvarlig for å ha lastet ned nødvendig programvare før de møter i eksamenslokalet.Emneprøve: Skriftlig og/eller muntlig prøve, som også kan omfatte presentasjon og lignendeHjemmeeksamen: Normalt et skriftlig arbeid.Mappevurdering: Vurdering av ett eller flere arbeider som leveres inn i løpet av den tiden studiet av vedkommende emne pågår. Nærmere bestemmelser gis i studieplanenSeminaroppgave/emneoppgave: Skriftlig arbeid utarbeidet under veiledning og i tilknytning til det enkelte emne.Gruppeeksamen: Skriftlig og/eller muntlig eksamen som avholdes for en gruppe av studenter knyttet opp til et bestemt emneAndre eksamensformer: Etter nærmere bestemmelse i studieplanen, så som vurdert praksis, praktisk eksamen, prosjektoppgave, eller annet
+Eksamensordninger omfatter disse formene:
+
+1. Ordinær eksamen
+2. Utsatt eksamen
+
+   Utsatt eksamen er eksamen som arrangeres for studenter som har vært syke eller som har hatt annen gyldig grunn til fravær ved siste ordinære eksamen.
+3. Kontinuasjonseksamen
+
+   Eksamen som kan arrangeres for studenter som har framstilt seg og fått sensuren «ikke bestått» / «F» ved siste ordinære eksamen, eller studenter som vil forbedre sitt resultat
+
+(2) Eksamensformer
+
+Eksamen omfatter disse vurderingsformene:
+
+1. Skole-/klausureksamen: Skriftlig og/eller muntlig eksamen som avholdes i lokaler anvist av institusjonen, og under tilsyn av personer utpekt av institusjonen. Muntlig eksamen gis enten som selvstendig vektet eksamen eller som justerende/korrigerende.
+2. Skriftlig skoleeksamen arrangeres i hovedsak digitalt. Digital eksamen er basert på bruk av egen bærbar datamaskin.
+3. Eksamenskandidater som benytter eget utstyr, er selv ansvarlig for å ha lastet ned nødvendig programvare før de møter i eksamenslokalet.
+4. Emneprøve: Skriftlig og/eller muntlig prøve, som også kan omfatte presentasjon og lignende
+5. Hjemmeeksamen: Normalt et skriftlig arbeid.
+6. Mappevurdering: Vurdering av ett eller flere arbeider som leveres inn i løpet av den tiden studiet av vedkommende emne pågår. Nærmere bestemmelser gis i studieplanen
+7. Seminaroppgave/emneoppgave: Skriftlig arbeid utarbeidet under veiledning og i tilknytning til det enkelte emne.
+8. Gruppeeksamen: Skriftlig og/eller muntlig eksamen som avholdes for en gruppe av studenter knyttet opp til et bestemt emne
+9. Andre eksamensformer: Etter nærmere bestemmelse i studieplanen, så som vurdert praksis, praktisk eksamen, prosjektoppgave, eller annet
 
 (3) Det skal bestemmes i studieplanen hvilke av disse eksamensformene som skal brukes og hvor lang tid studenten har til disposisjon. Det kan bestemmes at en form skal brukes alene eller i kombinasjon med andre, og det kan fastsettes at eksamen kan eller skal gjennomføres som gruppeeksamen.
 
-(4) Det kan bestemmes i studieplanen at bare et utvalg av studentene skal innkalles til muntlig eksamen. I slike tilfeller skal utvalget gjøres enten:tilfeldig, ved at en forhåndsbestemt andel av kandidatene velges ved loddtrekning, elleretter sensorenes skjønn, ved at de av kandidatene som man særlig er i tvil om karaktersettingen for, kalles inn, ellerved at de kandidatene som selv har gitt melding om at de ønsker det, kalles inn.
+(4) Det kan bestemmes i studieplanen at bare et utvalg av studentene skal innkalles til muntlig eksamen. I slike tilfeller skal utvalget gjøres enten:
+
+1. tilfeldig, ved at en forhåndsbestemt andel av kandidatene velges ved loddtrekning, eller
+2. etter sensorenes skjønn, ved at de av kandidatene som man særlig er i tvil om karaktersettingen for, kalles inn, eller
+3. ved at de kandidatene som selv har gitt melding om at de ønsker det, kalles inn.
 
 (5) For kandidater som ikke kalles inn til muntlig eksamen, settes karakteren på grunnlag av de øvrige eksamensdelene alene. Det skal i slike tilfeller fastsettes vektingsregler i studieplanen for karaktersetting både med og uten muntlig eksamen, jf. «Utfyllende regler for eksamen og prøving ved Ansgar høyskole».
 
@@ -371,7 +445,15 @@ Høyskolens styre eller klagenemnd kan annullere eksamen eller annen vurdering, 
 
 (1) Konsekvenser av fusk eller forsøk på fusk eller medvirkning til dette reguleres av [lov om universiteter og høyskoler § 12-4](lov/2024-03-08-9/§12-4).
 
-(2) Som fusk eller forsøk på fusk ved eksamen eller vilkår for å gå opp til eksamen regnes bl.a.:å ha ulovlige hjelpemidler tilgjengelig under eksamenå presentere andres arbeid som sitt egetå sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisningerå sitere eller på annen måte benytte egne tidligere eksamensarbeider uten tilstrekkelige kildehenvisningerå ha skaffet seg adgang til eksamen ved å ha fusket ved prøve og lignende som er vilkår for å gå opp til eksamen, eller ved på uriktig grunnlag å ha fått godkjenning for deltakelse ved obligatorisk undervisning eller andre obligatoriske aktiviteterureglementert samarbeid mellom eksamenskandidater eller grupperå handle i strid med denne forskriften eller retningslinjer for den enkelte eksamen.
+(2) Som fusk eller forsøk på fusk ved eksamen eller vilkår for å gå opp til eksamen regnes bl.a.:
+
+1. å ha ulovlige hjelpemidler tilgjengelig under eksamen
+2. å presentere andres arbeid som sitt eget
+3. å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger
+4. å sitere eller på annen måte benytte egne tidligere eksamensarbeider uten tilstrekkelige kildehenvisninger
+5. å ha skaffet seg adgang til eksamen ved å ha fusket ved prøve og lignende som er vilkår for å gå opp til eksamen, eller ved på uriktig grunnlag å ha fått godkjenning for deltakelse ved obligatorisk undervisning eller andre obligatoriske aktiviteter
+6. ureglementert samarbeid mellom eksamenskandidater eller grupper
+7. å handle i strid med denne forskriften eller retningslinjer for den enkelte eksamen.
 
 (3) En student kan anses å ha fusket eller forsøkt å fuske fra det tidspunkt eksamen eller prøve er påbegynt. Eksamen eller prøve anses normalt å være påbegynt når oppgavetekst er gjort tilgjengelig eller problemformulering godkjent. Dersom det gjennomføres kontroll av tillatte hjelpemidler før oppgaveteksten er utlevert, anses eksamen påbegynt når eksamenskandidaten har levert inn sine hjelpemidler for kontroll. Ved mappeeksamen eller andre eksamensformer der en student får faglig veiledning på en foreløpig besvarelse, anses eksamen påbegynt når første utkast til besvarelse er levert for veiledning.
 
@@ -411,13 +493,25 @@ Høyskolens styre eller klagenemnd kan annullere eksamen eller annen vurdering, 
 
 ### § 36. Begrunnelse og klage
 
-Følgende regler gjelder for ny sensur etter klage:Dersom det gis én samlet karakter for alle deleksamenene som eksamenen består av, skal alle deleksamenene forelegges ny sensur.Dersom det gis separate delkarakterer underveis i studiet for de ulike deleksamenene som inngår i emnet, skal den enkelte deleksamen eller de enkelte deleksamen(ene) som studenten påklager, forelegges ny sensur. Kandidaten må selv spesifisere hvilken eller hvilke deler av eksamen som påklages.Det kan ikke framsettes klage på en vurdering som kun er en tilbakemelding på læringsprosessen fra lærer/veileder, og som ikke resulterer i en karakterfastsettelse.
+Følgende regler gjelder for ny sensur etter klage:
+
+1. Dersom det gis én samlet karakter for alle deleksamenene som eksamenen består av, skal alle deleksamenene forelegges ny sensur.
+2. Dersom det gis separate delkarakterer underveis i studiet for de ulike deleksamenene som inngår i emnet, skal den enkelte deleksamen eller de enkelte deleksamen(ene) som studenten påklager, forelegges ny sensur. Kandidaten må selv spesifisere hvilken eller hvilke deler av eksamen som påklages.
+3. Det kan ikke framsettes klage på en vurdering som kun er en tilbakemelding på læringsprosessen fra lærer/veileder, og som ikke resulterer i en karakterfastsettelse.
 
 ### § 37. Allmenne regler om eksamen, særlig om krav til studieplanens innhold
 
 (1) I emner der flere eksamener inngår, skal som hovedregel alle være bestått for at emnet kan anses bestått. Det kan gjøres unntak fra dette i studieplanen, og det skal da angis hvor mange, eventuelt også hvilke, eksamener som skal være bestått for at hele emnet kan anses bestått.
 
-(2) For mappevurdering skal det i studieplanen gis regler om:Antallet arbeider som skal være med i mappenArten og omfanget av de enkelte arbeideneRekkefølge for innlevering av de enkelte arbeidene, eventuelt om studenten selv kan velge rekkefølgenInnleveringsfrist for de enkelte arbeideneI hvilken form arbeidene skal leveres innHvilke(t) arbeid som skal danne grunnlag for eksamenskarakterenInnbyrdes vekt dersom to eller flere arbeider skal danne grunnlag for karakteren.
+(2) For mappevurdering skal det i studieplanen gis regler om:
+
+1. Antallet arbeider som skal være med i mappen
+2. Arten og omfanget av de enkelte arbeidene
+3. Rekkefølge for innlevering av de enkelte arbeidene, eventuelt om studenten selv kan velge rekkefølgen
+4. Innleveringsfrist for de enkelte arbeidene
+5. I hvilken form arbeidene skal leveres inn
+6. Hvilke(t) arbeid som skal danne grunnlag for eksamenskarakteren
+7. Innbyrdes vekt dersom to eller flere arbeider skal danne grunnlag for karakteren.
 
 ### § 38. Bruk av vurderingskriterier ved sensur
 

@@ -32,7 +32,42 @@ Forskriften gjelder ikke Stortinget, Stortingets organer eller andre domstoler e
 
 ## § 2. Hva forskriften gjelder
 
-Forskriften gjelder virksomhetens geodatasett som er nødvendige for virksomhetens offentlige oppgaver, og tilhørende geodatatjenester, og omfatter:koordinatbasert referansesystemgeografiske rutenettsystemerstedsnavnadministrative enheteradressereiendomsteigertransportnetthydrografivernede områderhøydearealdekkeortofotogeologistatistiske enheterbygningerjordarterarealbrukmenneskers helse og sikkerhetallmennyttige og offentlige tjenesteranlegg for miljøovervåkingproduksjons- og industrianlegganlegg for landbruk og akvakulturbefolkningsfordelingrapporteringsenheter og områder med særlig forvaltning eller restriksjonerområder med naturbetingede fareratmosfæriske forholdmeteorologiske geografiske forholdoseanografiske geografiske forholdhavområderbiogeografiske områderhabitater og biotoperartsfordelingenergiressursermineralressurser.
+Forskriften gjelder virksomhetens geodatasett som er nødvendige for virksomhetens offentlige oppgaver, og tilhørende geodatatjenester, og omfatter:
+
+1. koordinatbasert referansesystem
+2. geografiske rutenettsystemer
+3. stedsnavn
+4. administrative enheter
+5. adresser
+6. eiendomsteiger
+7. transportnett
+8. hydrografi
+9. vernede områder
+10. høyde
+11. arealdekke
+12. ortofoto
+13. geologi
+14. statistiske enheter
+15. bygninger
+16. jordarter
+17. arealbruk
+18. menneskers helse og sikkerhet
+19. allmennyttige og offentlige tjenester
+20. anlegg for miljøovervåking
+21. produksjons- og industrianlegg
+22. anlegg for landbruk og akvakultur
+23. befolkningsfordeling
+24. rapporteringsenheter og områder med særlig forvaltning eller restriksjoner
+25. områder med naturbetingede farer
+26. atmosfæriske forhold
+27. meteorologiske geografiske forhold
+28. oseanografiske geografiske forhold
+29. havområder
+30. biogeografiske områder
+31. habitater og biotoper
+32. artsfordeling
+33. energiressurser
+34. mineralressurser.
 
 Forskriften gjelder også geodatasett som inngår i det offentlige kartgrunnlaget og kommunalt planregister, jf. plan- og [bygningsloven § 2-1](lov/2008-06-27-71/§2-1) og [§ 2-2](lov/2008-06-27-71/§2-2).
 
@@ -44,7 +79,14 @@ Forskriften gjelder ikke geodatasett som er merket eller skal merkes etter sikke
 
 ## § 3. Definisjoner
 
-I forskriften menes med*geodata:* data i elektronisk form med direkte eller indirekte referanse til et bestemt sted eller geografisk område*geodatasett:* identifiserbar samling av geodata*geodatatjeneste:* operasjoner som kan utføres ved å opprette en forbindelse ved hjelp av et dataprogram, på geodata i geodatasett eller på tilknyttede metadata*geografisk objekt:* abstrakt representasjon av et virkelig fenomen knyttet til et bestemt sted eller geografisk område*infrastruktur for geografisk informasjon:* fundament for tilgang til og anvendelse av geodata*metadata:* informasjon som beskriver geodatasett og geodatatjenester, og som gjør det mulig å finne fram til, liste opp og bruke geodata.
+I forskriften menes med
+
+1. *geodata:* data i elektronisk form med direkte eller indirekte referanse til et bestemt sted eller geografisk område
+2. *geodatasett:* identifiserbar samling av geodata
+3. *geodatatjeneste:* operasjoner som kan utføres ved å opprette en forbindelse ved hjelp av et dataprogram, på geodata i geodatasett eller på tilknyttede metadata
+4. *geografisk objekt:* abstrakt representasjon av et virkelig fenomen knyttet til et bestemt sted eller geografisk område
+5. *infrastruktur for geografisk informasjon:* fundament for tilgang til og anvendelse av geodata
+6. *metadata:* informasjon som beskriver geodatasett og geodatatjenester, og som gjør det mulig å finne fram til, liste opp og bruke geodata.
 
 ## § 4. Nasjonal geodatakoordinator
 
@@ -66,7 +108,13 @@ Deltakende virksomheter og virksomheter etter [§ 1](forskrift/2012-08-08-797/§
 
 ## § 7. Nettjenester
 
-Deltakende virksomheter skal for geodatasett og geodatatjenester etter [§ 2](forskrift/2012-08-08-797/§2) første ledd, opprette og drive et nett av følgende tjenester:søketjenester som gjør det mulig å søke etter geodatasett og geodatatjenester og vise metadatavisningstjenester som gjør det mulig å vise geodatasett med forklarende informasjon og tilhørende metadatanedlastningstjenester som gjør det mulig å laste ned eller få direkte tilgang til kopier av hele eller deler av geodatasettomformingstjenester som gjør det mulig å omdanne geodatasett slik at de kan virke sammen med andre geodatatjenester som gjør det mulig å aktivere geodatatjenester.
+Deltakende virksomheter skal for geodatasett og geodatatjenester etter [§ 2](forskrift/2012-08-08-797/§2) første ledd, opprette og drive et nett av følgende tjenester:
+
+1. søketjenester som gjør det mulig å søke etter geodatasett og geodatatjenester og vise metadata
+2. visningstjenester som gjør det mulig å vise geodatasett med forklarende informasjon og tilhørende metadata
+3. nedlastningstjenester som gjør det mulig å laste ned eller få direkte tilgang til kopier av hele eller deler av geodatasett
+4. omformingstjenester som gjør det mulig å omdanne geodatasett slik at de kan virke sammen med andre geodata
+5. tjenester som gjør det mulig å aktivere geodatatjenester.
 
 EØS-avtalen vedlegg XX nr. 1jc (forordning [(EF) nr. 976/2009](eu/32009r0976)) om gjennomføring av direktiv [2007/2/EF](eu/32007l0002) med hensyn til nettjenester med endringer (forordning [(EU) nr. 1088/2010](eu/32010r1088) og forordning [(EU) nr. 1311/2014](eu/32014r1311)) gjelder som forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig. Omformingstjenestene skal kombineres med de andre nettjenestene slik at de kan virke sammen, jf. [§ 6](forskrift/2012-08-08-797/§6).
 
@@ -92,7 +140,12 @@ Tilgang til geodatatjenester kan gjøres avhengig av at brukeren aksepterer vilk
 
 Tilgang til geodatasett og geodatatjenester skal ikke gis i strid med lovpålagt taushetsplikt.
 
-Bestemmelsene om unntak fra innsynsrett i offentleglova gjelder tilsvarende for offentlig tilgang til geodatasett og geodatatjenester gjennom visningstjenester, nedlastingstjenester, omformingstjenester og aktiveringstjenester og tilhørende tjenester for elektronisk handel. Slik tilgang kan også begrenses av hensyn tilpersonvernetden som har lagt fram den aktuelle informasjonen uten å være rettslig forpliktet til det, med mindre vedkommende gir samtykke til at informasjonen utleveresvernet av miljøet som informasjonen gjelderimmaterielle rettigheter.
+Bestemmelsene om unntak fra innsynsrett i offentleglova gjelder tilsvarende for offentlig tilgang til geodatasett og geodatatjenester gjennom visningstjenester, nedlastingstjenester, omformingstjenester og aktiveringstjenester og tilhørende tjenester for elektronisk handel. Slik tilgang kan også begrenses av hensyn til
+
+1. personvernet
+2. den som har lagt fram den aktuelle informasjonen uten å være rettslig forpliktet til det, med mindre vedkommende gir samtykke til at informasjonen utleveres
+3. vernet av miljøet som informasjonen gjelder
+4. immaterielle rettigheter.
 
 Adgangen til å begrense tilgangen etter andre ledd gjelder også for søketjenester når unntaket er begrunnet i hensynet til internasjonale forbindelser, offentlig sikkerhet eller nasjonalt forsvar.
 
@@ -138,7 +191,13 @@ Statens kartverk skal sikre at teknisk dokumentasjon om den geografiske infrastr
 
 ## § 14. Kontroll og rapportering
 
-Statens kartverk skal kontrollere gjennomføringen og bruken av infrastrukturen for geografisk informasjon og publisere resultatene i en fast oppsummeringsrapport. Rapporten skal oppdateres hvert år innen 31. mars og skal inkludere en sammenfattende beskrivelse avhvordan koordinering og kvalitetssikring mellom leverandører og brukere av geodata og geodatatjenester i offentlig sektor er organisert, bruken av formidlingsorganer og forholdet til andre brukerehvordan deltakende virksomheter og andre deltakere bidrar til samordningen av infrastrukturen og hvordan den virkerbruken av infrastrukturenavtaler om deling av datakostnader og nytte ved gjennomføringen av [geodataloven](lov/2010-09-03-56).
+Statens kartverk skal kontrollere gjennomføringen og bruken av infrastrukturen for geografisk informasjon og publisere resultatene i en fast oppsummeringsrapport. Rapporten skal oppdateres hvert år innen 31. mars og skal inkludere en sammenfattende beskrivelse av
+
+1. hvordan koordinering og kvalitetssikring mellom leverandører og brukere av geodata og geodatatjenester i offentlig sektor er organisert, bruken av formidlingsorganer og forholdet til andre brukere
+2. hvordan deltakende virksomheter og andre deltakere bidrar til samordningen av infrastrukturen og hvordan den virker
+3. bruken av infrastrukturen
+4. avtaler om deling av data
+5. kostnader og nytte ved gjennomføringen av [geodataloven](lov/2010-09-03-56).
 
 Rapporter og resultatindikatorer skal utarbeides i samsvar med EØS-avtalen vedlegg XX nr. 1jb (gjennomføringsbeslutning [(EU) 2019/1372](eu/32019d1372)) om gjennomføring av europaparlaments- og rådsdirektiv [2007/2/EF](eu/32007l0002) med hensyn til overvåking og rapportering med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.
 
@@ -150,9 +209,18 @@ Deltakende virksomheter og virksomheter etter [§ 1](forskrift/2012-08-08-797/§
 
 Metadata for geodatasett og geodatatjenester etter [§ 2](forskrift/2012-08-08-797/§2) første ledd nummer 1 til 13 skal være etablert etter kravene i [§ 5](forskrift/2012-08-08-797/§5) andre ledd innen 3. desember 2013. Metadata for geodatasett og geodatatjenester etter [§ 2](forskrift/2012-08-08-797/§2) første ledd nummer 14 til 34 skal være etablert etter kravene i [§ 5](forskrift/2012-08-08-797/§5) andre ledd innen 3. desember 2016. Andre krav til metadata etter [§ 5](forskrift/2012-08-08-797/§5) skal være oppfylt innen 9. mai 2014.
 
-Geodatasett etter [§ 2](forskrift/2012-08-08-797/§2) første ledd skal være tilgjengelige med samvirkningsevne etter kravene i [§ 6](forskrift/2012-08-08-797/§6) andre ledd innen23. november 2015 for data etter nummer 1 til 9 som nyetableres eller gjennomgår vesentlig omstrukturering21. oktober 2018 for data etter nummer 10 til 34 som nyetableres eller gjennomgår vesentlig omstrukturering23. november 2020 for andre data etter nummer 1 til 921. oktober 2023 for andre data etter nummer 10 til 34.
+Geodatasett etter [§ 2](forskrift/2012-08-08-797/§2) første ledd skal være tilgjengelige med samvirkningsevne etter kravene i [§ 6](forskrift/2012-08-08-797/§6) andre ledd innen
 
-Aktiverbare geodatatjenester som opererer på geodatasett etter [§ 2](forskrift/2012-08-08-797/§2) første ledd, skal ha samvirkningsevne etter kravene i [§ 6](forskrift/2012-08-08-797/§6) andre ledd innen10. desember 2018 i samsvar med forordning [(EU) nr. 1089/2010](eu/32010r1089) vedlegg V10. desember 2019 i samsvar med forordning [(EU) nr. 1089/2010](eu/32010r1089) vedlegg VI, og dersom det er mulig vedlegg VII, for tjenester som opererer på datasett som er nyetablert eller har gjennomgått vesentlig omstrukturering i samsvar med forordning [(EU) nr. 1089/2010](eu/32010r1089)10. desember 2024 i samsvar med forordning [(EU) nr. 1089/2010](eu/32010r1089) vedlegg VI, og dersom det er mulig vedlegg VII, for tjenester som opererer på andre datasett som er strukturert i samsvar med forordning [(EU) nr. 1089/2010](eu/32010r1089).
+1. 23\. november 2015 for data etter nummer 1 til 9 som nyetableres eller gjennomgår vesentlig omstrukturering
+2. 21\. oktober 2018 for data etter nummer 10 til 34 som nyetableres eller gjennomgår vesentlig omstrukturering
+3. 23\. november 2020 for andre data etter nummer 1 til 9
+4. 21\. oktober 2023 for andre data etter nummer 10 til 34.
+
+Aktiverbare geodatatjenester som opererer på geodatasett etter [§ 2](forskrift/2012-08-08-797/§2) første ledd, skal ha samvirkningsevne etter kravene i [§ 6](forskrift/2012-08-08-797/§6) andre ledd innen
+
+1. 10\. desember 2018 i samsvar med forordning [(EU) nr. 1089/2010](eu/32010r1089) vedlegg V
+2. 10\. desember 2019 i samsvar med forordning [(EU) nr. 1089/2010](eu/32010r1089) vedlegg VI, og dersom det er mulig vedlegg VII, for tjenester som opererer på datasett som er nyetablert eller har gjennomgått vesentlig omstrukturering i samsvar med forordning [(EU) nr. 1089/2010](eu/32010r1089)
+3. 10\. desember 2024 i samsvar med forordning [(EU) nr. 1089/2010](eu/32010r1089) vedlegg VI, og dersom det er mulig vedlegg VII, for tjenester som opererer på andre datasett som er strukturert i samsvar med forordning [(EU) nr. 1089/2010](eu/32010r1089).
 
 Andre krav til harmonisering og samvirkningsevne etter [§ 6](forskrift/2012-08-08-797/§6) skal være oppfylt innen 9. mai 2014.
 

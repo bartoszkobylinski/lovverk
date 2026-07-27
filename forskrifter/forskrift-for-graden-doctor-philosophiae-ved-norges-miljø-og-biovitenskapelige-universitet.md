@@ -32,7 +32,13 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.), og gir regler om re
 
 (2) En dr.philos.-grad kvalifiserer for forskningsvirksomhet og annet arbeid i samfunnet hvor det stilles store krav til vitenskapelig innsikt, arbeidsmåte og analytisk tenkning i samsvar med god vitenskapelig skikk og forskningsetiske standarder.
 
-(3) Dr.philos.-graden tildeles på grunnlag avGodkjent vitenskapelig avhandlingGodkjent doktorgradsprøveTo prøveforelesninger (én over et oppgitt emne, og én over et selvvalgt emne)Offentlig forsvar av avhandlingen (disputas).
+(3) Dr.philos.-graden tildeles på grunnlag av
+
+1. Godkjent vitenskapelig avhandling
+2. Godkjent doktorgradsprøve
+
+   1. To prøveforelesninger (én over et oppgitt emne, og én over et selvvalgt emne)
+   2. Offentlig forsvar av avhandlingen (disputas).
 
 ## § 3. Ansvaret for graden dr.philos.
 
@@ -46,15 +52,31 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.), og gir regler om re
 
 (1) Rett til å fremstille seg til prøven for dr.philos.-graden har den som er statsborger i et nordisk land og som har minst fem års høyere utdanning, det vil si mastergrad eller tilsvarende. Fakultetet kan gi søker som på annen måte har godtgjort tilsvarende kvalifikasjoner i vedkommende fag, adgang til å framstille seg til doktorgradsprøven. Det er søkerens ansvar å legge frem dokumentasjon på tilsvarende kvalifikasjoner.
 
-(2) Fakultetet kan etter begrunnet søknad og innstilling fra det aktuelle fagmiljø, gi ikke-nordisk statsborger med tilfredsstillende kvalifikasjoner, tillatelse til å fremstille seg for dr.philos.-prøven dersom søkeren har oppholdstillatelse i Norge, eller hvis minst ett av disse kriteriene er oppfylt:Avhandlingen omhandler tema eller bygger på materiale som har direkte tilknytning til Norge;Avhandlingen har sterk tilknytning til norsk forskning innen fagområdet; ellerDoktorgradsarbeidet er utført under opphold ved norsk universitet eller forskningsinstitutt, eller i særlig kontakt med norske forskere.
+(2) Fakultetet kan etter begrunnet søknad og innstilling fra det aktuelle fagmiljø, gi ikke-nordisk statsborger med tilfredsstillende kvalifikasjoner, tillatelse til å fremstille seg for dr.philos.-prøven dersom søkeren har oppholdstillatelse i Norge, eller hvis minst ett av disse kriteriene er oppfylt:
+
+1. Avhandlingen omhandler tema eller bygger på materiale som har direkte tilknytning til Norge;
+2. Avhandlingen har sterk tilknytning til norsk forskning innen fagområdet; eller
+3. Doktorgradsarbeidet er utført under opphold ved norsk universitet eller forskningsinstitutt, eller i særlig kontakt med norske forskere.
 
 ## § 5. Søknad om fremstilling og behandling av søknaden
 
 (1) Søknad om å fremstille seg til prøven for graden dr.philos. rettes til det fakultetet som avhandlingen tematisk hører inn under. Hvis søkeren er i tvil om hvilket fakultet avhandlingen bør bedømmes ved, kan henvendelsen stiles til rektor.
 
-(2) Søknaden skal inneholde:Omtale av søker, søkers kvalifikasjoner og av doktorgradsarbeidet;Erklæring om at hele eller deler av avhandlingen ikke tidligere er bedømt, eller levert inn til bedømmelse, ved annen norsk eller utenlandsk institusjon;Oversikt over tidligere vitenskapelige arbeider (disse må kunne fremvises på forespørsel); og eventuelt;Begrunnelse for å levere avhandling med annet språk enn norsk, svensk, dansk eller engelsk (jf. [§ 6-1 (9)](forskrift/2024-11-13-2941/§6-1/ledd/9)).
+(2) Søknaden skal inneholde:
 
-(3) Sammen med søknaden leveres:Ett eksemplar av avhandlingen i elektronisk format;Dokumentasjon på tidligere utdanning eller dokumentasjon på eventuelle tilsvarende kvalifikasjoner; og eventueltBegrunnelse for å inkludere arbeider eldre enn 10 år (jf. [§ 6-1 (4)](forskrift/2024-11-13-2941/§6-1/ledd/4))Medforfattererklæring(er) (jf. [§ 6-1 (6)](forskrift/2024-11-13-2941/§6-1/ledd/6))Dokumentasjon på oppholdstillatelse i Norge og på avhandlingens tilknytning til Norge (gjelder ikke-nordiske statsborgere) (jf. § 4-2)Dokumentasjon på at nødvendige tillatelser er innhentet.
+1. Omtale av søker, søkers kvalifikasjoner og av doktorgradsarbeidet;
+2. Erklæring om at hele eller deler av avhandlingen ikke tidligere er bedømt, eller levert inn til bedømmelse, ved annen norsk eller utenlandsk institusjon;
+3. Oversikt over tidligere vitenskapelige arbeider (disse må kunne fremvises på forespørsel); og eventuelt;
+4. Begrunnelse for å levere avhandling med annet språk enn norsk, svensk, dansk eller engelsk (jf. [§ 6-1 (9)](forskrift/2024-11-13-2941/§6-1/ledd/9)).
+
+(3) Sammen med søknaden leveres:
+
+1. Ett eksemplar av avhandlingen i elektronisk format;
+2. Dokumentasjon på tidligere utdanning eller dokumentasjon på eventuelle tilsvarende kvalifikasjoner; og eventuelt
+3. Begrunnelse for å inkludere arbeider eldre enn 10 år (jf. [§ 6-1 (4)](forskrift/2024-11-13-2941/§6-1/ledd/4))
+4. Medforfattererklæring(er) (jf. [§ 6-1 (6)](forskrift/2024-11-13-2941/§6-1/ledd/6))
+5. Dokumentasjon på oppholdstillatelse i Norge og på avhandlingens tilknytning til Norge (gjelder ikke-nordiske statsborgere) (jf. § 4-2)
+6. Dokumentasjon på at nødvendige tillatelser er innhentet.
 
 (4) Fakultetet vurderer søknaden og dokumentasjonen opp mot kravene i dr.philos.-forskriften og vurderer om avhandlingen tematisk hører hjemme ved fakultetet.
 
@@ -98,7 +120,10 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.), og gir regler om re
 
 ## § 7. Innlevering
 
-(1) Når fakultetet har gitt kandidaten adgang til å fremstille seg for dr.philos.-graden, skal kandidaten levere:Avhandlingen i endelig versjon i elektronisk (PDF-) format;Erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gang.
+(1) Når fakultetet har gitt kandidaten adgang til å fremstille seg for dr.philos.-graden, skal kandidaten levere:
+
+1. Avhandlingen i endelig versjon i elektronisk (PDF-) format;
+2. Erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gang.
 
 (2) Et innlevert arbeid kan ikke trekkes tilbake før det er endelig avgjort om det er verdig til å forsvares for doktorgraden. Etter innlevering har doktoranden kun anledning til å foreta rettinger av formell art, se [§ 9-3](forskrift/2024-11-13-2941/§9-3).
 
@@ -108,7 +133,13 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.), og gir regler om re
 
 (2) Forslaget til bedømmelseskomité skal begrunnes og bør vise til hvordan komiteen samlet sett dekker avhandlingens fagfelt. Kandidaten skal ha anledning til å gi skriftlige merknader til komiteens sammensetning før forslaget fremmes for rektor.
 
-(3) Komiteen skal settes sammen slik at:Komiteens medlemmer til sammen innehar kompetanse som dekker avhandlingens fagområdeBegge kjønn, såfremt mulig, er representertTo av medlemmene er uten tilknytning til NMBU, hvorav minst ett av medlemmene bør komme fra en anerkjent utenlandsk institusjonEtt av medlemmene skal være tilsatt ved NMBU i fast stilling, og er også komiteens leder og koordinatorAlle medlemmene har doktorgrad eller tilsvarende bedømt førstestillingskompetanse
+(3) Komiteen skal settes sammen slik at:
+
+1. Komiteens medlemmer til sammen innehar kompetanse som dekker avhandlingens fagområde
+2. Begge kjønn, såfremt mulig, er representert
+3. To av medlemmene er uten tilknytning til NMBU, hvorav minst ett av medlemmene bør komme fra en anerkjent utenlandsk institusjon
+4. Ett av medlemmene skal være tilsatt ved NMBU i fast stilling, og er også komiteens leder og koordinator
+5. Alle medlemmene har doktorgrad eller tilsvarende bedømt førstestillingskompetanse
 
 (4) Kandidaten orienteres om komiteens sammensetning.
 
@@ -138,7 +169,14 @@ Bedømmelseskomiteen kan kreve fremlagt kandidatens grunnlagsmateriale og utfyll
 
 (2) Dersom bedømmelseskomiteen er enstemmig i sin innstilling, fatter fakultetet vedtak i samsvar med den enstemmige innstillingen.
 
-(3) Dersom det er dissens i komiteen, fremmer fakultetet saken for rektor, som kan:Fatte vedtak uten ytterligere bedømmelseSøke nærmere avklaring fra bedømmelseskomiteenOppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingenVedta at de to nye sakkyndige skal inngå i en utvidet bedømmelseskomitéRektor fatter vedtak i saken på grunnlag av uttalelsen, eventuelle merknader fra kandidaten og eventuelle uttalelser som er innhentet fra de to nye sakkyndige.
+(3) Dersom det er dissens i komiteen, fremmer fakultetet saken for rektor, som kan:
+
+1. Fatte vedtak uten ytterligere bedømmelse
+2. Søke nærmere avklaring fra bedømmelseskomiteen
+3. Oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen
+4. Vedta at de to nye sakkyndige skal inngå i en utvidet bedømmelseskomité
+
+Rektor fatter vedtak i saken på grunnlag av uttalelsen, eventuelle merknader fra kandidaten og eventuelle uttalelser som er innhentet fra de to nye sakkyndige.
 
 (4) Kandidaten underrettes om resultatet av behandlingen.
 

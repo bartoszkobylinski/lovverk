@@ -15,7 +15,7 @@ xml_hash: "be5d8070c0b3d452af66502838a7a123c529c152497eb7e2b45b398d77f56ca6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,12 @@ Denne Lovs tredje Del finder kun Anvendelse paa Handlinger, som forøves i Krigs
 
 ### § 4
 
-Ved Krigsmænd forstaaes i denne Lov:Fastlønnede militære Tjenestemænd fra Ansættelsesdagen indtil Tjenesteforholdets Ophør.Værnepligtige Befalingsmænd, Spillemænd og menige i Tjenestetiden (jfr. [§ 5](lov/1902-05-22-13/§5)), samt naar de er indsatte i militært Fængsel.Frivillige, ved den væbnede Magt tjenestgjørende militære Personer fra Tiltrædelsesdagen indtil Tjenesteforholdets Ophør.Civilmilitære Personer i tilsvarende Stillinger med Undtagelse af de ved Udskrivningsvæsenet ansatte Tjenestemænd.
+Ved Krigsmænd forstaaes i denne Lov:
+
+1. Fastlønnede militære Tjenestemænd fra Ansættelsesdagen indtil Tjenesteforholdets Ophør.
+2. Værnepligtige Befalingsmænd, Spillemænd og menige i Tjenestetiden (jfr. [§ 5](lov/1902-05-22-13/§5)), samt naar de er indsatte i militært Fængsel.
+3. Frivillige, ved den væbnede Magt tjenestgjørende militære Personer fra Tiltrædelsesdagen indtil Tjenesteforholdets Ophør.
+4. Civilmilitære Personer i tilsvarende Stillinger med Undtagelse af de ved Udskrivningsvæsenet ansatte Tjenestemænd.
 
 > Endret ved lov [24 nov 2023 nr. 84](lov/2023-11-24-84) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 875](forskrift/2024-05-31-875)).
 
@@ -76,7 +81,16 @@ Et Skib ansees for at være paa Togt fra den Tid, Kommandoen ombord er heist, og
 
 ### § 9
 
-Efter denne lov straffes, forsåvidt intet annet uttrykkelig er bestemt eller fremgår av sammenhengen,alle ved rikets vebnede makt ansatte eller dertil hørende personer;medfarende på skib, når skibet er på sjøtokt,samt i krigstid enn videre:enhver, som i hvilkensomhelst egenskap gjør tjeneste ved den vebnede makt eller følger avdeling av samme;krigsfanger, som står under militær bevoktning;enhver som gjør seg skyldig i overtredelse av [§ 108](lov/1902-05-22-13/§108), eller som på krigsskueplassen gjør seg skyldig i forbrytelse mot [§§ 101](lov/1902-05-22-13/§101) til [105](lov/1902-05-22-13/§105).
+Efter denne lov straffes, forsåvidt intet annet uttrykkelig er bestemt eller fremgår av sammenhengen,
+
+1. alle ved rikets vebnede makt ansatte eller dertil hørende personer;
+2. medfarende på skib, når skibet er på sjøtokt,
+
+samt i krigstid enn videre:
+
+1. enhver, som i hvilkensomhelst egenskap gjør tjeneste ved den vebnede makt eller følger avdeling av samme;
+2. krigsfanger, som står under militær bevoktning;
+3. enhver som gjør seg skyldig i overtredelse av [§ 108](lov/1902-05-22-13/§108), eller som på krigsskueplassen gjør seg skyldig i forbrytelse mot [§§ 101](lov/1902-05-22-13/§101) til [105](lov/1902-05-22-13/§105).
 
 Den som ikke omfattes av loven etter første ledd, straffes bare for medvirkning til handling som etter denne loven kan straffes med fengsel i 2 år eller mer, eller som rammes av [§ 34](lov/1902-05-22-13/§34).
 
@@ -96,7 +110,10 @@ Nærværende Lov kommer til Anvendelse, ogsaa naar den strafbare Handling er for
 
 1\. De straffer, som anvendes efter denne lov, er fengsel, arrest og bøter. Forvaring kan idømmes efter reglene i [straffeloven § 40](lov/2005-05-20-28/§40). I særlige tilfelle anvendes rettighetstap som nevnt i [straffeloven § 56](lov/2005-05-20-28/§56).
 
-2\. Med ovennævnte Straffe kan som Tillægsstraffe forbindes:Kunngjøring av dommen, hvorved [lov 13. juni 1969 nr. 26](lov/1969-06-13-26) om skadeserstatning [§ 3-6](lov/1969-06-13-26/§3-6), jf. [nærværende lov §§ 41](lov/1902-05-22-13/§40), [59](lov/1902-05-22-13/§59) og [60](lov/1902-05-22-13/§60), får tilsvarende anvendelse;Forvisning fra bestemte Steder overensstemmende med [straffeloven § 57](lov/2005-05-20-28/§57).
+2\. Med ovennævnte Straffe kan som Tillægsstraffe forbindes:
+
+1. Kunngjøring av dommen, hvorved [lov 13. juni 1969 nr. 26](lov/1969-06-13-26) om skadeserstatning [§ 3-6](lov/1969-06-13-26/§3-6), jf. [nærværende lov §§ 41](lov/1902-05-22-13/§40), [59](lov/1902-05-22-13/§59) og [60](lov/1902-05-22-13/§60), får tilsvarende anvendelse;
+2. Forvisning fra bestemte Steder overensstemmende med [straffeloven § 57](lov/2005-05-20-28/§57).
 
 > Endret ved lover 6 mai 1921 nr. 2, 15 des 1950 nr. 6, [22 mai 1953 nr. 3](lov/1953-05-22-3), [26 nov 1954 nr. 6](lov/1954-11-26-6), [12 des 1958 nr. 1](lov/1958-12-12-1), [26 jan 1973 nr. 2](lov/1973-01-26-2), 8 juni 1979 nr. 43, [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
 
@@ -352,7 +369,11 @@ Har den foresattes eller overordnedes utilbørlige Forhold bestaaet i Mishandlin
 
 ### § 49
 
-Den, som søger at ophidse Krigsmænd til i Fællesskab retsstridigat øve Vold mod en foresat eller overordnet, ellerat tvinge en saadan til at foretage eller undlade en Tjenestehandling, ellerat negte Lydighed mod en foresats Befaling i Tjenesteanliggende, straffes for Opvigleri med Fængsel indtil 6 Aar.
+Den, som søger at ophidse Krigsmænd til i Fællesskab retsstridig
+
+1. at øve Vold mod en foresat eller overordnet, eller
+2. at tvinge en saadan til at foretage eller undlade en Tjenestehandling, eller
+3. at negte Lydighed mod en foresats Befaling i Tjenesteanliggende, straffes for Opvigleri med Fængsel indtil 6 Aar.
 
 > Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
@@ -372,7 +393,13 @@ Dog er han straffri, dersom det ikke kommer til Udførelse af Planen eller til s
 
 ### § 52
 
-Søger flere Krigsmænd i Fællesskab retsstridigat øve Vold mod en foresat eller overordnet, ellerat tvinge en saadan til at foretage eller undlade en Tjenestehandling, ellerat negte Lydighed mod en foresats Befaling i Tjenesteanliggende,bliver de deri skyldige at straffe for Oprør, Anstiftere og Hovedmænd saavelsom de, der øver Vold mod foresatte eller overordnede, med Fængsel indtil 10 Aar og de øvrige medvirkende med Fængsel indtil 6 Aar.
+Søger flere Krigsmænd i Fællesskab retsstridig
+
+1. at øve Vold mod en foresat eller overordnet, eller
+2. at tvinge en saadan til at foretage eller undlade en Tjenestehandling, eller
+3. at negte Lydighed mod en foresats Befaling i Tjenesteanliggende,
+
+bliver de deri skyldige at straffe for Oprør, Anstiftere og Hovedmænd saavelsom de, der øver Vold mod foresatte eller overordnede, med Fængsel indtil 10 Aar og de øvrige medvirkende med Fængsel indtil 6 Aar.
 
 Voldes ved Oprøret Tab af Menneskeliv eller betydelig Skade for Krigsvæsenet, eller foregaar Lovbruddet i Havsnød, eller medfører den Fare for Skibets Sikkerhed, kan Straffen for Anstiftere og Hovedmænd forlænges til Fængsel paa Livstid og for de øvrige medvirkende til Fængsel indtil 10 Aar.
 
@@ -386,7 +413,12 @@ For de Deltagere i Oprør, som vender tilbage til Lydighed, førend det er komme
 
 ### § 54
 
-Som Hovedmænd i Oprør anseesden, der optræder som Anfører for Deltagerne;den blandt Oprørerne, der indehar den høieste Grad eller ældst Anciennetet;den, der befordrer Oprøret ved Misbrug af militære Signaler;den, der udtrykkelig ved Ord eller Handling negter at efterkomme den foresattes Opfordring til ham personlig om at vise Lydighed.
+Som Hovedmænd i Oprør ansees
+
+1. den, der optræder som Anfører for Deltagerne;
+2. den blandt Oprørerne, der indehar den høieste Grad eller ældst Anciennetet;
+3. den, der befordrer Oprøret ved Misbrug af militære Signaler;
+4. den, der udtrykkelig ved Ord eller Handling negter at efterkomme den foresattes Opfordring til ham personlig om at vise Lydighed.
 
 ### § 55
 
@@ -590,7 +622,11 @@ Befalingsmand som ved Drikfældighed eller forøvrigt ved sit Forhold i eller ud
 
 ### § 87
 
-Med fengsel inntil på livstid straffesden høistbefalende paa Fæstning eller befæstet Plads, som uden at have udtømt alle Midler til Forsvar overgiver Fæstningen eller Pladsen til Fienden;den Befalingsmand, som i aaben Mark overgiver sig og sit Mandskab til Fienden, uagtet der endnu var Udsigt for ham til at kunne slaa sig igjennem eller til at faa Undsætning, eller som uden at have udtømt alle Midler til Forsvar forlader den ham anbetroede Post;den høistbefalende paa Flaade eller Krigsskib, som overgiver sig til Fienden uden at have udtømt alle Midler til Forsvar eller til at bringe sin Flaade eller sit Skib i Sikkerhed.
+Med fengsel inntil på livstid straffes
+
+1. den høistbefalende paa Fæstning eller befæstet Plads, som uden at have udtømt alle Midler til Forsvar overgiver Fæstningen eller Pladsen til Fienden;
+2. den Befalingsmand, som i aaben Mark overgiver sig og sit Mandskab til Fienden, uagtet der endnu var Udsigt for ham til at kunne slaa sig igjennem eller til at faa Undsætning, eller som uden at have udtømt alle Midler til Forsvar forlader den ham anbetroede Post;
+3. den høistbefalende paa Flaade eller Krigsskib, som overgiver sig til Fienden uden at have udtømt alle Midler til Forsvar eller til at bringe sin Flaade eller sit Skib i Sikkerhed.
 
 > Endret ved lover 8 juni 1979 nr. 43, [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
@@ -650,7 +686,15 @@ Har flere i forening avtalt og utført Lovbrud, som omhandles i [§ 35](lov/1902
 
 ### § 97
 
-Den, som gjør sig skyldig i nedennævnte Lovbrud, kan straffesFor Lovbrud af den i [§§ 42](lov/1902-05-22-13/§42) og [44](lov/1902-05-22-13/§44) omhandlede Art med Fængsel indtil paa Livstid;for Lovbrud af den i [§ 43](lov/1902-05-22-13/§43) omhandlede Art med Fængsel indtil 10 Aar;for Lovbrud af den i [§ 46](lov/1902-05-22-13/§46), 1ste Led omhandlede Art med Fængsel indtil 1 Aar og for Lovbrud af den i 2det Led omhandlede Art med Fængsel indtil 10 Aar;for Lovbrud af den i [§ 47](lov/1902-05-22-13/§47) omhandlede Art med Fængsel indtil 6 Aar;for Lovbrud af den i [§§ 49](lov/1902-05-22-13/§49) og [50](lov/1902-05-22-13/§50) omhandlede Art med Fængsel indtil 15 Aar;For Lovbrud af den i [§ 51](lov/1902-05-22-13/§51) omhandlede Art med Fængsel indtil 3 Aar;for Lovbrud mod [§ 52](lov/1902-05-22-13/§52) med Fængsel indtil paa Livstid.
+Den, som gjør sig skyldig i nedennævnte Lovbrud, kan straffes
+
+1. For Lovbrud af den i [§§ 42](lov/1902-05-22-13/§42) og [44](lov/1902-05-22-13/§44) omhandlede Art med Fængsel indtil paa Livstid;
+2. for Lovbrud af den i [§ 43](lov/1902-05-22-13/§43) omhandlede Art med Fængsel indtil 10 Aar;
+3. for Lovbrud af den i [§ 46](lov/1902-05-22-13/§46), 1ste Led omhandlede Art med Fængsel indtil 1 Aar og for Lovbrud af den i 2det Led omhandlede Art med Fængsel indtil 10 Aar;
+4. for Lovbrud af den i [§ 47](lov/1902-05-22-13/§47) omhandlede Art med Fængsel indtil 6 Aar;
+5. for Lovbrud af den i [§§ 49](lov/1902-05-22-13/§49) og [50](lov/1902-05-22-13/§50) omhandlede Art med Fængsel indtil 15 Aar;
+6. For Lovbrud af den i [§ 51](lov/1902-05-22-13/§51) omhandlede Art med Fængsel indtil 3 Aar;
+7. for Lovbrud mod [§ 52](lov/1902-05-22-13/§52) med Fængsel indtil paa Livstid.
 
 > Endret ved lover 8 juni 1979 nr. 43, [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
@@ -678,13 +722,20 @@ Er i de i [§§ 77](lov/1902-05-22-13/§77) eller [78](lov/1902-05-22-13/§78) o
 
 ### § 100
 
-Med Fængsel indtil 6 Aar straffes den Krigsmand, som i Hensigt derved at forskaffe sig eller andre en uberettiget Vinding retsstridigudskriver Krigsskat eller Tvangsydelse ellerforhøier retmessige Rekvisitioner ellernegter at udstede Modtagelsesbevis for borttagen eller rekvireret Eiendom.
+Med Fængsel indtil 6 Aar straffes den Krigsmand, som i Hensigt derved at forskaffe sig eller andre en uberettiget Vinding retsstridig
+
+1. udskriver Krigsskat eller Tvangsydelse eller
+2. forhøier retmessige Rekvisitioner eller
+3. negter at udstede Modtagelsesbevis for borttagen eller rekvireret Eiendom.
 
 > Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ### § 101
 
-Med Fængsel indtil 6 Aar straffes den, som forøver et i [straffeloven §§ 321](lov/2005-05-20-28/§321), [324](lov/2005-05-20-28/§324) eller [330](lov/2005-05-20-28/§330) omhandlet Lovbrudunder Benyttelse af Krigsfrygten eller militær Overlegenhed ellermod en i Krigen falden eller mod en syg eller saaret paa Kamppladsen, paa Marschen, under Transporten eller i Lasarettet eller mod en til hans Varetægt betroet Krigsfange.
+Med Fængsel indtil 6 Aar straffes den, som forøver et i [straffeloven §§ 321](lov/2005-05-20-28/§321), [324](lov/2005-05-20-28/§324) eller [330](lov/2005-05-20-28/§330) omhandlet Lovbrud
+
+1. under Benyttelse af Krigsfrygten eller militær Overlegenhed eller
+2. mod en i Krigen falden eller mod en syg eller saaret paa Kamppladsen, paa Marschen, under Transporten eller i Lasarettet eller mod en til hans Varetægt betroet Krigsfange.
 
 Forøves saadant Lovbrud efter Aftale af flere i Fællesskab, straffes Anstiftere og Anførere med Fængsel indtil paa Livstid og de øvrige Deltagere med Fængsel indtil 10 Aar.
 
@@ -692,7 +743,11 @@ Forøves saadant Lovbrud efter Aftale af flere i Fællesskab, straffes Anstifter
 
 ### § 102
 
-Med Fængsel indtil paa Livstid straffes den, som forøver et i [straffeloven § 327](lov/2005-05-20-28/§327) omhandlet Lovbrudunder Benyttelse af Krigsfrygten eller militær Overlegenhed;mod en syg eller saaret paa Marschen, under Transporten eller Lasarettet eller mod en til hans Varetægt betroet Krigsfange;paa Krigsskuepladsen.
+Med Fængsel indtil paa Livstid straffes den, som forøver et i [straffeloven § 327](lov/2005-05-20-28/§327) omhandlet Lovbrud
+
+1. under Benyttelse af Krigsfrygten eller militær Overlegenhed;
+2. mod en syg eller saaret paa Marschen, under Transporten eller Lasarettet eller mod en til hans Varetægt betroet Krigsfange;
+3. paa Krigsskuepladsen.
 
 > Endret ved lover 8 juni 1979 nr. 43, [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
@@ -726,7 +781,12 @@ Krigsmand, som egenmægtig søger at gjøre Krigsbytte, straffes med Fængsel in
 
 ### § 108
 
-Med fengsel inntil 3 år straffes den som overtrer bestemmelse som er gitt til beskyttelse for personer eller eiendomi [Geneve-konvensjonene av 12](traktat/1949-08-12-4) august 1949 om forbedring av såredes og sykes kår i de væpnede styrker i felten, om forbedring av såredes, sykes og skipbrudnes kår i de væpnede styrker til sjøs, om behandling av krigsfanger og om beskyttelse av sivile i krigstid,i de to tilleggsprotokoller 10 juni 1977 til disse konvensjonene,om ikke forholdet rammes av et strengere straffebud.
+Med fengsel inntil 3 år straffes den som overtrer bestemmelse som er gitt til beskyttelse for personer eller eiendom
+
+1. i [Geneve-konvensjonene av 12](traktat/1949-08-12-4) august 1949 om forbedring av såredes og sykes kår i de væpnede styrker i felten, om forbedring av såredes, sykes og skipbrudnes kår i de væpnede styrker til sjøs, om behandling av krigsfanger og om beskyttelse av sivile i krigstid,
+2. i de to tilleggsprotokoller 10 juni 1977 til disse konvensjonene,
+
+om ikke forholdet rammes av et strengere straffebud.
 
 > Tilføyd ved [lov 26 nov 1954 nr. 3](lov/1954-11-26-3), endret ved [lover 12 juni 1981 nr. 65](lov/1981-06-12-65), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 

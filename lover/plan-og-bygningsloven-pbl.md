@@ -15,7 +15,7 @@ xml_hash: "5efe88a3bd918bf8fb9f185432317547233f467f6fd5c4d086a4fc2fa82c0ec5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -168,7 +168,17 @@ Registermyndigheten kan ilegge overtredelsesgebyr etter [forvaltningsloven §§ 
 
 ### § 3-1. Oppgaver og hensyn i planlegging etter loven
 
-Innenfor rammen av [§ 1-1](lov/2008-06-27-71/§1-1) skal planer etter denne lov:sette mål for den fysiske, miljømessige, økonomiske, sosiale og kulturelle utviklingen i kommuner og regioner, avklare samfunnsmessige behov og oppgaver, og angi hvordan oppgavene kan løsessikre jordressursene, kvaliteter i landskapet og vern av verdifulle landskap og kulturmiljøersikre naturgrunnlaget for samisk kultur, næringsutøvelse og samfunnslivlegge til rette for verdiskaping, næringsutvikling og tilstrekkelig boligbygginglegge til rette for god forming av bygde omgivelser, gode bomiljøer og gode oppvekst- og levekår i alle deler av landetfremme befolkningens helse og motvirke sosiale helseforskjeller, samt bidra til å forebygge kriminalitetta klimahensyn gjennom reduksjon av klimagassutslipp og tilpasning til forventede klimaendringer, herunder gjennom løsninger for energiforsyning, areal og transportfremme samfunnssikkerhet ved å forebygge risiko for tap av liv, skade på helse, miljø og viktig infrastruktur, materielle verdier mv.legge til rette for helhetlig forvaltning av vannets kretsløp, med nødvendig infrastruktur.
+Innenfor rammen av [§ 1-1](lov/2008-06-27-71/§1-1) skal planer etter denne lov:
+
+1. sette mål for den fysiske, miljømessige, økonomiske, sosiale og kulturelle utviklingen i kommuner og regioner, avklare samfunnsmessige behov og oppgaver, og angi hvordan oppgavene kan løses
+2. sikre jordressursene, kvaliteter i landskapet og vern av verdifulle landskap og kulturmiljøer
+3. sikre naturgrunnlaget for samisk kultur, næringsutøvelse og samfunnsliv
+4. legge til rette for verdiskaping, næringsutvikling og tilstrekkelig boligbygging
+5. legge til rette for god forming av bygde omgivelser, gode bomiljøer og gode oppvekst- og levekår i alle deler av landet
+6. fremme befolkningens helse og motvirke sosiale helseforskjeller, samt bidra til å forebygge kriminalitet
+7. ta klimahensyn gjennom reduksjon av klimagassutslipp og tilpasning til forventede klimaendringer, herunder gjennom løsninger for energiforsyning, areal og transport
+8. fremme samfunnssikkerhet ved å forebygge risiko for tap av liv, skade på helse, miljø og viktig infrastruktur, materielle verdier mv.
+9. legge til rette for helhetlig forvaltning av vannets kretsløp, med nødvendig infrastruktur.
 
 Planleggingen skal fremme helhet ved at sektorer, oppgaver og interesser i et område ses i sammenheng gjennom samordning og samarbeid om oppgaveløsning mellom sektormyndigheter og mellom statlige, regionale og kommunale organer, private organisasjoner og institusjoner, og allmennheten.
 
@@ -356,7 +366,10 @@ For å fremme en bærekraftig utvikling skal Kongen hvert fjerde år utarbeide e
 
 Kongen kan gi statlige planretningslinjer for landet som helhet eller for et geografisk avgrenset område.
 
-Statlige planretningslinjer skal legges til grunn ved:statlig, regional og kommunal planlegging etter loven her,enkeltvedtak som statlige, regionale og kommunale organer treffer etter loven her eller annen lovgivning.
+Statlige planretningslinjer skal legges til grunn ved:
+
+1. statlig, regional og kommunal planlegging etter loven her,
+2. enkeltvedtak som statlige, regionale og kommunale organer treffer etter loven her eller annen lovgivning.
 
 Forslag til statlige planretningslinjer skal sendes på høring med seks ukers frist for uttalelse før de vedtas.
 
@@ -540,7 +553,12 @@ Det kan utarbeides kommunedelplan for bestemte områder, temaer eller virksomhet
 
 Kommuneplanen skal ha en handlingsdel som angir hvordan planen skal følges opp de fire påfølgende år eller mer, og revideres årlig. Økonomiplanen etter [kommuneloven § 14-2](lov/2018-06-22-83/§14-2) bokstav a kan inngå i eller utgjøre handlingsdelen.
 
-Kongen kan gi forskrift om:innhold i generelle bestemmelser til kommuneplanens arealdel, jf. [§ 11-9](lov/2008-06-27-71/§11-9)underformål av arealformål, jf. [§§ 11-7](lov/2008-06-27-71/§11-7) og [12-5](lov/2008-06-27-71/§12-5)behandling av kommuneplanen, jf. [§§ 11-12](lov/2008-06-27-71/§11-12) til [11-17](lov/2008-06-27-71/§11-17)samordnet gjennomføring av samfunnsdelen av kommuneplan og økonomiplan etter kommuneloven, jf. [§§ 11-2](lov/2008-06-27-71/§11-2) til [11-12](lov/2008-06-27-71/§11-12).
+Kongen kan gi forskrift om:
+
+1. innhold i generelle bestemmelser til kommuneplanens arealdel, jf. [§ 11-9](lov/2008-06-27-71/§11-9)
+2. underformål av arealformål, jf. [§§ 11-7](lov/2008-06-27-71/§11-7) og [12-5](lov/2008-06-27-71/§12-5)
+3. behandling av kommuneplanen, jf. [§§ 11-12](lov/2008-06-27-71/§11-12) til [11-17](lov/2008-06-27-71/§11-17)
+4. samordnet gjennomføring av samfunnsdelen av kommuneplan og økonomiplan etter kommuneloven, jf. [§§ 11-2](lov/2008-06-27-71/§11-2) til [11-12](lov/2008-06-27-71/§11-12).
 
 > Endret ved [lov 22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)).
 
@@ -592,18 +610,28 @@ Der det ikke gjelder eller er stilt krav om reguleringsplan, jf. [§ 12-1](lov/2
 
 Kommuneplanens arealdel skal i nødvendig utstrekning vise arealformål som er angitt i nr. 1 til 6. Hovedformålene kan etter behov inndeles i angitte underformål.
 
-Arealformål:Bebyggelse og anlegg.
-Underformål:
-boligbebyggelse, fritidsbebyggelse, sentrumsformål, kjøpesenter, forretninger, bebyggelse for offentlig eller privat tjenesteyting, fritids- og turistformål, råstoffutvinning, næringsbebyggelse, idrettsanlegg, andre typer anlegg, uteoppholdsarealer, gravplasser.Samferdselsanlegg og teknisk infrastruktur.
-Underformål:
-veg, bane, lufthavn, havn, hovednett for sykkel, kollektivnett, kollektivknutepunkt, parkeringsplasser, traseer for teknisk infrastruktur.Grønnstruktur.
-Underformål:
-naturområder, turdrag, friområder og parker.Forsvaret.
-Underformål:
-ulike typer militære formål.Landbruks-, natur- og friluftsformål samt reindrift.
-Underformål:areal for nødvendige tiltak for landbruk og reindrift og gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlag,areal for spredt bolig-, fritids- eller næringsbebyggelse mv., jf. [§ 11-11](lov/2008-06-27-71/§11-11) nr. 2.Bruk og vern av sjø og vassdrag, med tilhørende strandsone.
-Underformål:
-ferdsel, farleder, fiske, akvakultur, drikkevann, natur- og friluftsområder hver for seg eller i kombinasjon.
+Arealformål:
+
+1. Bebyggelse og anlegg.
+   Underformål:
+   boligbebyggelse, fritidsbebyggelse, sentrumsformål, kjøpesenter, forretninger, bebyggelse for offentlig eller privat tjenesteyting, fritids- og turistformål, råstoffutvinning, næringsbebyggelse, idrettsanlegg, andre typer anlegg, uteoppholdsarealer, gravplasser.
+2. Samferdselsanlegg og teknisk infrastruktur.
+   Underformål:
+   veg, bane, lufthavn, havn, hovednett for sykkel, kollektivnett, kollektivknutepunkt, parkeringsplasser, traseer for teknisk infrastruktur.
+3. Grønnstruktur.
+   Underformål:
+   naturområder, turdrag, friområder og parker.
+4. Forsvaret.
+   Underformål:
+   ulike typer militære formål.
+5. Landbruks-, natur- og friluftsformål samt reindrift.
+   Underformål:
+
+   1. areal for nødvendige tiltak for landbruk og reindrift og gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlag,
+   2. areal for spredt bolig-, fritids- eller næringsbebyggelse mv., jf. [§ 11-11](lov/2008-06-27-71/§11-11) nr. 2.
+6. Bruk og vern av sjø og vassdrag, med tilhørende strandsone.
+   Underformål:
+   ferdsel, farleder, fiske, akvakultur, drikkevann, natur- og friluftsområder hver for seg eller i kombinasjon.
 
 I områder hvor arealplanen bare angir hovedformål for arealbruk, skal det i nødvendig utstrekning gis bestemmelser som klargjør vilkårene for bruk og vern av arealene, jf. [§§ 11-9](lov/2008-06-27-71/§11-9) til [11-11](lov/2008-06-27-71/§11-11).
 
@@ -615,7 +643,28 @@ Kommuneplanens arealdel skal i nødvendig utstrekning vise hensyn og restriksjon
 
 Til hensynssone skal det i nødvendig utstrekning angis hvilke bestemmelser og retningslinjer som gjelder eller skal gjelde i medhold av loven eller andre lover for å ivareta det hensynet sonen viser.
 
-Det kan fastsettes følgende hensynssoner:Sikrings-, støy- og faresoner med angivelse av fareårsak eller miljørisiko.Det kan gis bestemmelser som forbyr eller setter vilkår for tiltak eller virksomheter, jf. [§ 1-6](lov/2008-06-27-71/§1-6), innenfor sonen.Sone med særlige krav til infrastruktur med angivelse av type infrastruktur.Det kan gis bestemmelser om krav til infrastruktur i et utbyggingsområde etter [§ 11-9 nr. 3](lov/2008-06-27-71/§11-9/nummer/3), og om omfang, utforming, funksjons- og kvalitetskrav, standardnivå, avstand til midtlinje i veg og byggegrenser, samt forbud mot eller påbud om bestemte løsninger.Sone med særlig hensyn til landbruk, reindrift, mineralressurser, friluftsliv, grønnstruktur, landskap eller bevaring av naturmiljø eller kulturmiljø, med angivelse av interesse.For randsonen til nasjonalparker og landskapsvernområder kan det, samtidig med fastsetting av verneforskrift for nytt verneområde eller revisjon av verneforskrift eller forvaltningsplan for etablerte verneområder, fastsettes bestemmelser for å hindre vesentlig forringelse av verneverdiene i verneområdet.Det kan gis retningslinjer om begrensninger av virksomhet og vilkår for tiltak for å ivareta interessen i sonen.Det kan gis retningslinjer om hvilke hensyn som skal vektlegges ved praktisering av annen lovgivning så langt kommunen er tillagt myndighet etter vedkommende lov.Sone for båndlegging i påvente av vedtak etter plan- og bygningsloven eller andre lover, eller som er båndlagt etter slikt rettsgrunnlag, med angivelse av formålet.Båndlegging i påvente av vedtak etter plan- og bygningsloven eller andre lover er tidsbegrenset til fire år, men kan etter søknad til departementet forlenges med fire år.Sone som gjelder felles planlegging for flere eiendommer, fortetting, omforming og fornyelse og bruk av særskilte gjennomføringsvirkemidler.Ved bruk av denne hensynssonen gjelder [§ 11-8 a](lov/2008-06-27-71/§11-8a).Sone hvor gjeldende reguleringsplan fortsatt skal gjelde uendret. Ved bruk av denne hensynssonen skal kommunen vurdere om reguleringsplanene er i samsvar med nasjonale og regionale interesser.
+Det kan fastsettes følgende hensynssoner:
+
+1. Sikrings-, støy- og faresoner med angivelse av fareårsak eller miljørisiko.
+
+   Det kan gis bestemmelser som forbyr eller setter vilkår for tiltak eller virksomheter, jf. [§ 1-6](lov/2008-06-27-71/§1-6), innenfor sonen.
+2. Sone med særlige krav til infrastruktur med angivelse av type infrastruktur.
+
+   Det kan gis bestemmelser om krav til infrastruktur i et utbyggingsområde etter [§ 11-9 nr. 3](lov/2008-06-27-71/§11-9/nummer/3), og om omfang, utforming, funksjons- og kvalitetskrav, standardnivå, avstand til midtlinje i veg og byggegrenser, samt forbud mot eller påbud om bestemte løsninger.
+3. Sone med særlig hensyn til landbruk, reindrift, mineralressurser, friluftsliv, grønnstruktur, landskap eller bevaring av naturmiljø eller kulturmiljø, med angivelse av interesse.
+
+   For randsonen til nasjonalparker og landskapsvernområder kan det, samtidig med fastsetting av verneforskrift for nytt verneområde eller revisjon av verneforskrift eller forvaltningsplan for etablerte verneområder, fastsettes bestemmelser for å hindre vesentlig forringelse av verneverdiene i verneområdet.
+
+   Det kan gis retningslinjer om begrensninger av virksomhet og vilkår for tiltak for å ivareta interessen i sonen.
+
+   Det kan gis retningslinjer om hvilke hensyn som skal vektlegges ved praktisering av annen lovgivning så langt kommunen er tillagt myndighet etter vedkommende lov.
+4. Sone for båndlegging i påvente av vedtak etter plan- og bygningsloven eller andre lover, eller som er båndlagt etter slikt rettsgrunnlag, med angivelse av formålet.
+
+   Båndlegging i påvente av vedtak etter plan- og bygningsloven eller andre lover er tidsbegrenset til fire år, men kan etter søknad til departementet forlenges med fire år.
+5. Sone som gjelder felles planlegging for flere eiendommer, fortetting, omforming og fornyelse og bruk av særskilte gjennomføringsvirkemidler.
+
+   Ved bruk av denne hensynssonen gjelder [§ 11-8 a](lov/2008-06-27-71/§11-8a).
+6. Sone hvor gjeldende reguleringsplan fortsatt skal gjelde uendret. Ved bruk av denne hensynssonen skal kommunen vurdere om reguleringsplanene er i samsvar med nasjonale og regionale interesser.
 
 > Endret ved [lover 19 des 2014 nr. 91](lov/2014-12-19-91) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1727](forskrift/2014-12-19-1727)), [21 juni 2017 nr. 97](lov/2017-06-21-97) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 834](forskrift/2017-06-21-834)), [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)).
 
@@ -635,19 +684,43 @@ Innspill i samarbeids- og medvirkningsprosessen skal dokumenteres, behandles og 
 
 ### § 11-9. Generelle bestemmelser til kommuneplanens arealdel
 
-Kommunen kan uavhengig av arealformål vedta bestemmelser til kommuneplanens arealdel om:krav om reguleringsplan for visse arealer eller for visse tiltak, herunder at det skal foreligge områderegulering før detaljregulering kan vedtas,innholdet i utbyggingsavtaler, jf. [§ 17-2](lov/2008-06-27-71/§17-2),krav til nærmere angitte løsninger for vannforsyning, avløp, avrenning, avfallssystem, veg og annen transport i forbindelse med nye bygge- og anleggstiltak, herunder forbud mot eller påbud om slike løsninger, og krav til det enkelte anlegg, jf. [§ 18-1](lov/2008-06-27-71/§18-1). Det kan også gis bestemmelse om tilrettelegging for forsyning av vannbåren varme til ny bebyggelse, jf. [§ 27-5](lov/2008-06-27-71/§27-5),rekkefølgekrav for å sikre etablering av samfunnsservice, teknisk infrastruktur, grønnstruktur før områder tas i bruk og tidspunkt for når områder kan tas i bruk til bygge- og anleggsformål, herunder rekkefølgen på utbyggingen,tomtestørrelse, byggegrenser, utbyggingsvolum og funksjonskrav, herunder om universell utforming, leke-, ute- og oppholdsplasser, skilt og reklame, parkering, frikjøp av parkeringsplasser etter [§ 28-7](lov/2008-06-27-71/§28-7) og oppdeling av boenheter til hybler,miljøkvalitet, estetikk, natur, landskap og grønnstruktur, herunder om midlertidige og flyttbare konstruksjoner og anlegg,hensyn som skal tas til bevaring av eksisterende bygninger og annet kulturmiljø,forhold som skal avklares og belyses i videre reguleringsarbeid, herunder bestemmelser om miljøoppfølging og -overvåking.
+Kommunen kan uavhengig av arealformål vedta bestemmelser til kommuneplanens arealdel om:
+
+1. krav om reguleringsplan for visse arealer eller for visse tiltak, herunder at det skal foreligge områderegulering før detaljregulering kan vedtas,
+2. innholdet i utbyggingsavtaler, jf. [§ 17-2](lov/2008-06-27-71/§17-2),
+3. krav til nærmere angitte løsninger for vannforsyning, avløp, avrenning, avfallssystem, veg og annen transport i forbindelse med nye bygge- og anleggstiltak, herunder forbud mot eller påbud om slike løsninger, og krav til det enkelte anlegg, jf. [§ 18-1](lov/2008-06-27-71/§18-1). Det kan også gis bestemmelse om tilrettelegging for forsyning av vannbåren varme til ny bebyggelse, jf. [§ 27-5](lov/2008-06-27-71/§27-5),
+4. rekkefølgekrav for å sikre etablering av samfunnsservice, teknisk infrastruktur, grønnstruktur før områder tas i bruk og tidspunkt for når områder kan tas i bruk til bygge- og anleggsformål, herunder rekkefølgen på utbyggingen,
+5. tomtestørrelse, byggegrenser, utbyggingsvolum og funksjonskrav, herunder om universell utforming, leke-, ute- og oppholdsplasser, skilt og reklame, parkering, frikjøp av parkeringsplasser etter [§ 28-7](lov/2008-06-27-71/§28-7) og oppdeling av boenheter til hybler,
+6. miljøkvalitet, estetikk, natur, landskap og grønnstruktur, herunder om midlertidige og flyttbare konstruksjoner og anlegg,
+7. hensyn som skal tas til bevaring av eksisterende bygninger og annet kulturmiljø,
+8. forhold som skal avklares og belyses i videre reguleringsarbeid, herunder bestemmelser om miljøoppfølging og -overvåking.
 
 > Endret ved [lover 8 mars 2019 nr. 5](lov/2019-03-08-5) (ikr. 8 mars 2019 iflg. [res. 8 mars 2019 nr. 195](forskrift/2019-03-08-195)), [11 mai 2021 nr. 37](lov/2021-05-11-37) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1738](forskrift/2022-10-14-1738)), [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11-10. Bestemmelser til arealformål etter § 11-7 nr. 1, 2, 3 og 4
 
-Til arealformål nr. 1, 2, 3 og 4 i [§ 11-7](lov/2008-06-27-71/§11-7) kan det i nødvendig utstrekning gis bestemmelser om:at mindre utbyggingstiltak ikke krever ytterligere plan dersom det er gitt bestemmelser om utbyggingsvolum og uteareal, og forholdet til transportnett og annet lovverk er ivaretatt,fysisk utforming av anlegg,hvilke arealer som skal være til offentlige formål eller fellesareal,lokalisering, bruk og strenghetsklasser for avkjørsler til veg,i hvilke områder Forsvaret i medhold av [§ 20-7](lov/2008-06-27-71/§20-7) selv kan fatte vedtak om virksomhet, bygg og anlegg,at boliger på angitte tomter skal organiseres som borettslag.
+Til arealformål nr. 1, 2, 3 og 4 i [§ 11-7](lov/2008-06-27-71/§11-7) kan det i nødvendig utstrekning gis bestemmelser om:
+
+1. at mindre utbyggingstiltak ikke krever ytterligere plan dersom det er gitt bestemmelser om utbyggingsvolum og uteareal, og forholdet til transportnett og annet lovverk er ivaretatt,
+2. fysisk utforming av anlegg,
+3. hvilke arealer som skal være til offentlige formål eller fellesareal,
+4. lokalisering, bruk og strenghetsklasser for avkjørsler til veg,
+5. i hvilke områder Forsvaret i medhold av [§ 20-7](lov/2008-06-27-71/§20-7) selv kan fatte vedtak om virksomhet, bygg og anlegg,
+6. at boliger på angitte tomter skal organiseres som borettslag.
 
 > Endret ved lover [20 juni 2014 nr. 52](lov/2014-06-20-52) (ikr. 1 juli 2015 iflg. [res. 6 feb 2015 nr. 91](forskrift/2015-02-06-91)), [6 mars 2026 nr. 7](lov/2026-03-06-7) (i kraft 1 juli 2026 iflg. [res. 6 mars 2026 nr. 346](forskrift/2026-03-06-346)).
 
 ### § 11-11. Bestemmelser til arealformål etter § 11-7 nr. 5 og 6
 
-Til arealformålene nr. 5 og 6 i [§ 11-7](lov/2008-06-27-71/§11-7) kan det i nødvendig utstrekning gis bestemmelser om:omfang, lokalisering og utforming av bygninger og anlegg til landbruk og reindrift som nevnt i [§ 11-7](lov/2008-06-27-71/§11-7) andre ledd nr. 5,at spredt bolig-, fritids- eller næringsbebyggelse og annen bebyggelse kan tillates gjennom behandling av enkeltvise søknader eller reguleringsplan når formålet, bebyggelsens omfang og lokalisering er nærmere angitt i arealplanen,bruk og vern av vannflate, vannsøyle og bunn,å tillate nødvendige bygninger, mindre anlegg og opplag i 100-metersbeltet langs sjøen med sikte på landbruk, reindrift, fiske, fangst, akvakultur og ferdsel til sjøs,at det for områder inntil 100 meter langs vassdrag skal være forbudt å sette i verk bestemt angitte bygge- og anleggstiltak. I slikt område kan det også gis bestemmelser for å sikre eller opprettholde kantvegetasjon, og for å sikre allmennhetens tilgang til strandsonen,ferdsel i områder med spesielle vernehensyn og på sjøen,hvilke artsgrupper eller arter av akvakultur som enkeltvis eller i kombinasjon kan etableres.
+Til arealformålene nr. 5 og 6 i [§ 11-7](lov/2008-06-27-71/§11-7) kan det i nødvendig utstrekning gis bestemmelser om:
+
+1. omfang, lokalisering og utforming av bygninger og anlegg til landbruk og reindrift som nevnt i [§ 11-7](lov/2008-06-27-71/§11-7) andre ledd nr. 5,
+2. at spredt bolig-, fritids- eller næringsbebyggelse og annen bebyggelse kan tillates gjennom behandling av enkeltvise søknader eller reguleringsplan når formålet, bebyggelsens omfang og lokalisering er nærmere angitt i arealplanen,
+3. bruk og vern av vannflate, vannsøyle og bunn,
+4. å tillate nødvendige bygninger, mindre anlegg og opplag i 100-metersbeltet langs sjøen med sikte på landbruk, reindrift, fiske, fangst, akvakultur og ferdsel til sjøs,
+5. at det for områder inntil 100 meter langs vassdrag skal være forbudt å sette i verk bestemt angitte bygge- og anleggstiltak. I slikt område kan det også gis bestemmelser for å sikre eller opprettholde kantvegetasjon, og for å sikre allmennhetens tilgang til strandsonen,
+6. ferdsel i områder med spesielle vernehensyn og på sjøen,
+7. hvilke artsgrupper eller arter av akvakultur som enkeltvis eller i kombinasjon kan etableres.
 
 > Endret ved [lov 19 des 2014 nr. 91](lov/2014-12-19-91) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1727](forskrift/2014-12-19-1727)).
 
@@ -759,13 +832,20 @@ Er bygge- og anleggstiltak som hjemles i plan fremmet med bakgrunn i privat regu
 
 For hele planområdet skal det angis arealformål. Arealformål kan deles inn i underformål og kombineres innbyrdes og med hensynssoner.
 
-I nødvendig utstrekning angis områder for:bebyggelse og anlegg,
-herunder arealer for boligbebyggelse, fritidsbebyggelse, sentrumsformål, kjøpesenter, forretninger, bebyggelse for offentlig eller privat tjenesteyting, fritids- og turistformål, råstoffutvinning, næringsbebyggelse, idrettsanlegg, andre typer anlegg, uteoppholdsarealer, gravplasser,samferdselsanlegg og teknisk infrastruktur,
-herunder areal for veg, bane, lufthavn, havn, hovednett for sykkel, kollektivnett, kollektivknutepunkt, parkeringsplasser, trasé for nærmere angitt teknisk infrastruktur,grønnstruktur,
-herunder areal for naturområder, turdrag, friområder og parker,Forsvaret,
-herunder areal for ulike typer militære formål,landbruks-, natur- og friluftsformål samt reindrift, samlet eller hver for seg,
-herunder områder for jordbruk, skogbruk, reindrift, naturvern, jordvern, særlige landskapshensyn, vern av kulturmiljø eller kulturminne, friluftsområder, seterområder, og landbruks-, natur- og friluftsområder der kommuneplanens arealdel tillater spredt bolig-, fritidsbolig- og næringsvirksomhet,bruk og vern av sjø og vassdrag, med tilhørende strandsone,
-herunder områder for ferdsel, farleder, fiske, akvakultur, drikkevann, natur- og friluftsområder.
+I nødvendig utstrekning angis områder for:
+
+1. bebyggelse og anlegg,
+   herunder arealer for boligbebyggelse, fritidsbebyggelse, sentrumsformål, kjøpesenter, forretninger, bebyggelse for offentlig eller privat tjenesteyting, fritids- og turistformål, råstoffutvinning, næringsbebyggelse, idrettsanlegg, andre typer anlegg, uteoppholdsarealer, gravplasser,
+2. samferdselsanlegg og teknisk infrastruktur,
+   herunder areal for veg, bane, lufthavn, havn, hovednett for sykkel, kollektivnett, kollektivknutepunkt, parkeringsplasser, trasé for nærmere angitt teknisk infrastruktur,
+3. grønnstruktur,
+   herunder areal for naturområder, turdrag, friområder og parker,
+4. Forsvaret,
+   herunder areal for ulike typer militære formål,
+5. landbruks-, natur- og friluftsformål samt reindrift, samlet eller hver for seg,
+   herunder områder for jordbruk, skogbruk, reindrift, naturvern, jordvern, særlige landskapshensyn, vern av kulturmiljø eller kulturminne, friluftsområder, seterområder, og landbruks-, natur- og friluftsområder der kommuneplanens arealdel tillater spredt bolig-, fritidsbolig- og næringsvirksomhet,
+6. bruk og vern av sjø og vassdrag, med tilhørende strandsone,
+   herunder områder for ferdsel, farleder, fiske, akvakultur, drikkevann, natur- og friluftsområder.
 
 Kongen fastsetter ytterligere underdeling i forskrift.
 
@@ -781,7 +861,23 @@ I en detaljregulering kan det ikke fastsettes hensynssoner hvor gjeldende regule
 
 ### § 12-7. Bestemmelser i reguleringsplan
 
-I reguleringsplan kan det i nødvendig utstrekning gis bestemmelser til arealformål og hensynssoner om følgende forhold:grad av utnytting, utforming, herunder estetiske krav, eiendomsinndeling og bruk av arealer, bygninger og anlegg i planområdet,vilkår for eller forbud mot former for bruk av arealer, bygninger og anlegg i planområdet, som oppdeling av boenheter til hybler og byggegrenser, for å fremme eller sikre formålet med planen, avveie interesser og ivareta ulike hensyn i eller utenfor planområdet,grenseverdier for tillatt forurensning og andre krav til miljøkvalitet i planområdet, samt tiltak og krav til ny og pågående virksomhet i eller av hensyn til forhold utenfor planområdet for å forebygge eller begrense forurensning,funksjons- og kvalitetskrav til bygninger, anlegg og utearealer, herunder krav for å sikre hensynet til helse, miljø, sikkerhet, universell utforming og barns særlige behov for leke- og uteoppholdsareal,antallet boliger i et område, største og minste boligstørrelse, og nærmere krav til tilgjengelighet og boligens utforming der det er hensiktsmessig for spesielle behov,bestemmelser for å sikre verneverdier i bygninger, andre kulturminner, og kulturmiljøer, herunder vern av fasade, materialbruk og interiør, samt sikre naturtyper og annen verdifull natur,trafikkregulerende tiltak og parkeringsbestemmelser for bil og sykkelparkering, herunder øvre og nedre grense for parkeringsdekning,krav om tilrettelegging for forsyning av vannbåren varme til ny bebyggelse og at det er tilknytningsplikt etter [§ 27-5](lov/2008-06-27-71/§27-5),retningslinjer for særlige drifts- og skjøtselstiltak innenfor arealformålene nr. 3, 5 og 6 i [§ 12-5](lov/2008-06-27-71/§12-5),krav om særskilt rekkefølge for gjennomføring av tiltak etter planen, og at utbygging av et område ikke kan finne sted før tekniske anlegg og samfunnstjenester som energiforsyning, transport og vegnett, sosiale tjenester, helse- og omsorgstjenester, barnehager, friområder, skoler mv. er tilstrekkelig etablert,krav om detaljregulering for deler av planområdet eller bestemte typer av tiltak, og retningslinjer for slik plan,krav om nærmere undersøkelser før gjennomføring av planen, samt undersøkelser med sikte på å overvåke og klargjøre virkninger for miljø, helse, sikkerhet, tilgjengelighet for alle, og andre samfunnsinteresser, ved gjennomføring av planen og enkelttiltak i denne,krav om fordeling av planskapt netto verdiøkning ved ulike felles tiltak innenfor en nærmere bestemt del av planområdet i henhold til [jordskifteloven § 3-30](lov/2013-06-21-100/§3-30),hvilke arealer som skal være til offentlige formål eller fellesareal,krav om at boliger på angitte tomter skal organiseres som borettslag.
+I reguleringsplan kan det i nødvendig utstrekning gis bestemmelser til arealformål og hensynssoner om følgende forhold:
+
+1. grad av utnytting, utforming, herunder estetiske krav, eiendomsinndeling og bruk av arealer, bygninger og anlegg i planområdet,
+2. vilkår for eller forbud mot former for bruk av arealer, bygninger og anlegg i planområdet, som oppdeling av boenheter til hybler og byggegrenser, for å fremme eller sikre formålet med planen, avveie interesser og ivareta ulike hensyn i eller utenfor planområdet,
+3. grenseverdier for tillatt forurensning og andre krav til miljøkvalitet i planområdet, samt tiltak og krav til ny og pågående virksomhet i eller av hensyn til forhold utenfor planområdet for å forebygge eller begrense forurensning,
+4. funksjons- og kvalitetskrav til bygninger, anlegg og utearealer, herunder krav for å sikre hensynet til helse, miljø, sikkerhet, universell utforming og barns særlige behov for leke- og uteoppholdsareal,
+5. antallet boliger i et område, største og minste boligstørrelse, og nærmere krav til tilgjengelighet og boligens utforming der det er hensiktsmessig for spesielle behov,
+6. bestemmelser for å sikre verneverdier i bygninger, andre kulturminner, og kulturmiljøer, herunder vern av fasade, materialbruk og interiør, samt sikre naturtyper og annen verdifull natur,
+7. trafikkregulerende tiltak og parkeringsbestemmelser for bil og sykkelparkering, herunder øvre og nedre grense for parkeringsdekning,
+8. krav om tilrettelegging for forsyning av vannbåren varme til ny bebyggelse og at det er tilknytningsplikt etter [§ 27-5](lov/2008-06-27-71/§27-5),
+9. retningslinjer for særlige drifts- og skjøtselstiltak innenfor arealformålene nr. 3, 5 og 6 i [§ 12-5](lov/2008-06-27-71/§12-5),
+10. krav om særskilt rekkefølge for gjennomføring av tiltak etter planen, og at utbygging av et område ikke kan finne sted før tekniske anlegg og samfunnstjenester som energiforsyning, transport og vegnett, sosiale tjenester, helse- og omsorgstjenester, barnehager, friområder, skoler mv. er tilstrekkelig etablert,
+11. krav om detaljregulering for deler av planområdet eller bestemte typer av tiltak, og retningslinjer for slik plan,
+12. krav om nærmere undersøkelser før gjennomføring av planen, samt undersøkelser med sikte på å overvåke og klargjøre virkninger for miljø, helse, sikkerhet, tilgjengelighet for alle, og andre samfunnsinteresser, ved gjennomføring av planen og enkelttiltak i denne,
+13. krav om fordeling av planskapt netto verdiøkning ved ulike felles tiltak innenfor en nærmere bestemt del av planområdet i henhold til [jordskifteloven § 3-30](lov/2013-06-21-100/§3-30),
+14. hvilke arealer som skal være til offentlige formål eller fellesareal,
+15. krav om at boliger på angitte tomter skal organiseres som borettslag.
 
 > Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [19 des 2014 nr. 91](lov/2014-12-19-91) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1727](forskrift/2014-12-19-1727)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [11 mai 2021 nr. 37](lov/2021-05-11-37) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1738](forskrift/2022-10-14-1738)), [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)), [6 mars 2026 nr. 7](lov/2026-03-06-7) (i kraft 1 juli 2026 iflg. [res. 6 mars 2026 nr. 346](forskrift/2026-03-06-346)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
@@ -901,7 +997,14 @@ Områdereguleringer for vindkraftanlegg kan ikke oppheves eller endres i strid m
 
 ### § 12 A-1. Bruk av hensynssoner med krav om grunneierfinansiering av infrastruktur i arealplaner
 
-Kommunen kan i arealplaner som nevnt i [§§ 11-5](lov/2008-06-27-71/§11-5), [12-2](lov/2008-06-27-71/§12-2) og [12-3](lov/2008-06-27-71/§12-3) fastsette hensynssoner med krav om grunneierfinansiering av infrastruktur. For slike hensynssoner gjelder følgende:Tiltakshavere plikter å betale et kostnadsbidrag til kommunen samtidig med at det søkes om igangsettingstillatelse til bygge- og anleggstiltak som nevnt i [§ 20-1 første ledd bokstav a](lov/2008-06-27-71/§20-1/ledd/1/bokstav/a), [d](lov/2008-06-27-71/§20-1/ledd/1/bokstav/d) og [n](lov/2008-06-27-71/§20-1/ledd/1/bokstav/n) innenfor hensynssonen. Kostnadsbidraget skal finansiere infrastruktur kommunen har gitt bestemmelse om etter [§ 12 A-2 første ledd bokstav a](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/a). Infrastrukturen skal være kostnadsberegnet, og størrelsen på kostnadsbidraget skal være kunngjort, før det kan kreves kostnadsbidrag fra tiltakshavere, jf. [§ 12 A-4](lov/2008-06-27-71/§12A-4). En grunneier eller utbygger kan inngå avtale med kommunen om realopparbeidelse av infrastruktur, som helt eller delvis trer i stedet for å betale kostnadsbidrag.Plikten til å betale kostnadsbidrag gjelder i 30 år fra hensynssonen ble kunngjort første gang, med mindre kommunen har gitt bestemmelse til hensynssonen om en kortere varighet, jf. [§ 12 A-2 første ledd bokstav e](lov/2008-06-27-71/§12A-2/ledd/2/bokstav/e).Plikten til å betale kostnadsbidrag bortfaller når all infrastruktur er sikret etablert gjennom innbetalte kostnadsbidrag eller avtaler om opparbeidelse etter [§ 12 A-9](lov/2008-06-27-71/§12A-9), eller når hensynssonen oppheves.Krav om særskilt rekkefølge for kommunal, fylkeskommunal og statlig infrastruktur som er nødvendig for utbyggingen, og krav om at utbygging av et område krever at nærmere angitt infrastruktur er tilstrekkelig etablert, gjelder ikke for tiltakshavere som har betalt kostnadsbidrag etter bokstav a. Kommunen kan fastsette unntak fra dette i bestemmelser etter [§ 12 A-2 første ledd bokstav g](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/g).Det kan ikke inngås utbyggingsavtaler etter [kapittel 17](lov/2008-06-27-71/kap17) for utbygging innenfor hensynssoner etter paragrafen her, med mindre noe annet følger av forskrift fastsatt med hjemmel i [§ 12 A-12 bokstav l](lov/2008-06-27-71/§12A-12/ledd/1/bokstav/l). Reglene om opparbeidelsesplikt og refusjon etter kapittel 18 gjelder ikke for infrastruktur som det er gitt bestemmelse om etter [§ 12 A-2 første ledd bokstav a](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/a).Kommunen kan ikke fastsette nye forpliktelser etter dette kapittelet for tiltak som har fått rammetillatelse.
+Kommunen kan i arealplaner som nevnt i [§§ 11-5](lov/2008-06-27-71/§11-5), [12-2](lov/2008-06-27-71/§12-2) og [12-3](lov/2008-06-27-71/§12-3) fastsette hensynssoner med krav om grunneierfinansiering av infrastruktur. For slike hensynssoner gjelder følgende:
+
+1. Tiltakshavere plikter å betale et kostnadsbidrag til kommunen samtidig med at det søkes om igangsettingstillatelse til bygge- og anleggstiltak som nevnt i [§ 20-1 første ledd bokstav a](lov/2008-06-27-71/§20-1/ledd/1/bokstav/a), [d](lov/2008-06-27-71/§20-1/ledd/1/bokstav/d) og [n](lov/2008-06-27-71/§20-1/ledd/1/bokstav/n) innenfor hensynssonen. Kostnadsbidraget skal finansiere infrastruktur kommunen har gitt bestemmelse om etter [§ 12 A-2 første ledd bokstav a](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/a). Infrastrukturen skal være kostnadsberegnet, og størrelsen på kostnadsbidraget skal være kunngjort, før det kan kreves kostnadsbidrag fra tiltakshavere, jf. [§ 12 A-4](lov/2008-06-27-71/§12A-4). En grunneier eller utbygger kan inngå avtale med kommunen om realopparbeidelse av infrastruktur, som helt eller delvis trer i stedet for å betale kostnadsbidrag.
+2. Plikten til å betale kostnadsbidrag gjelder i 30 år fra hensynssonen ble kunngjort første gang, med mindre kommunen har gitt bestemmelse til hensynssonen om en kortere varighet, jf. [§ 12 A-2 første ledd bokstav e](lov/2008-06-27-71/§12A-2/ledd/2/bokstav/e).
+3. Plikten til å betale kostnadsbidrag bortfaller når all infrastruktur er sikret etablert gjennom innbetalte kostnadsbidrag eller avtaler om opparbeidelse etter [§ 12 A-9](lov/2008-06-27-71/§12A-9), eller når hensynssonen oppheves.
+4. Krav om særskilt rekkefølge for kommunal, fylkeskommunal og statlig infrastruktur som er nødvendig for utbyggingen, og krav om at utbygging av et område krever at nærmere angitt infrastruktur er tilstrekkelig etablert, gjelder ikke for tiltakshavere som har betalt kostnadsbidrag etter bokstav a. Kommunen kan fastsette unntak fra dette i bestemmelser etter [§ 12 A-2 første ledd bokstav g](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/g).
+5. Det kan ikke inngås utbyggingsavtaler etter [kapittel 17](lov/2008-06-27-71/kap17) for utbygging innenfor hensynssoner etter paragrafen her, med mindre noe annet følger av forskrift fastsatt med hjemmel i [§ 12 A-12 bokstav l](lov/2008-06-27-71/§12A-12/ledd/1/bokstav/l). Reglene om opparbeidelsesplikt og refusjon etter kapittel 18 gjelder ikke for infrastruktur som det er gitt bestemmelse om etter [§ 12 A-2 første ledd bokstav a](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/a).
+6. Kommunen kan ikke fastsette nye forpliktelser etter dette kapittelet for tiltak som har fått rammetillatelse.
 
 I en overordnet plan kan kommunen gi bestemmelser etter [§ 12 A-2 første ledd bokstav a](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/a) og [b](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/b) om infrastruktur ut fra hva det er rimelig grunn til å anta at blir nødvendig å etablere i området. Størrelsen på kostnadsbidraget per kvadratmeter bruksareal (BRA) som gjelder for utbyggingen, skal være lik i alle planer og for all utbygging som ligger innenfor hensynssonen i overordnet plan. Dersom kommunen gir bestemmelser til hensynssonen i overordnet plan, skal bestemmelsene gjelde for alle senere planer innenfor hensynssonen, med mindre kommunen gir avvikende bestemmelser i etterfølgende planer. Hensynssonen kan fastsettes i en detaljregulering selv om sonen ikke tidligere er fastsatt i en overordnet plan.
 
@@ -911,7 +1014,16 @@ Bestemmelsene i [§ 11-8 a andre](lov/2008-06-27-71/§11-8a/ledd/2) til [femte l
 
 ### § 12 A-2. Bestemmelser til hensynssone med krav om grunneierfinansiering av infrastruktur m.m.
 
-Kommunen kan i nødvendig utstrekning gi bestemmelser til hensynssoner etter [§ 12 A-1](lov/2008-06-27-71/§12A-1), som følger:Det kan gis bestemmelse om ny infrastruktur, eller utvidelse, oppgradering, ombygging, flytting eller riving av eksisterende infrastruktur, som helt eller delvis skal finansieres av grunneierne og utbyggerne innenfor hensynssonen, og som er nødvendig for utbyggingen innenfor hensynssonen.Det kan gis bestemmelse til infrastruktur som nevnt i bokstav a om omfang, utforming, funksjons- og kvalitetskrav, standardnivå, avstand til midtlinje på veg, byggegrenser, krav om særskilt rekkefølge for infrastruktur eller at infrastrukturen skal være tilstrekkelig etablert før utbygging kan finne sted, samt forbud mot eller påbud om bestemte løsninger.Det kan gis bestemmelse om at en nærmere angitt infrastruktur som nevnt i bestemmelse etter bokstav a helt eller delvis skal bekostes av grunneieren eller utbyggeren selv.Det kan gis bestemmelse om tiltak etter [§ 20-1 første ledd bokstav a](lov/2008-06-27-71/§20-1/ledd/1/bokstav/a), [d](lov/2008-06-27-71/§20-1/ledd/1/bokstav/d) og [n](lov/2008-06-27-71/§20-1/ledd/1/bokstav/n) som det ikke skal betales kostnadsbidrag for.Det kan gis bestemmelse om at plikten til grunneierfinansiering av infrastrukturen skal gjelde for kortere tid enn 30 år.Det kan gis bestemmelse om justering av kostnadsbidraget med grunnlag i relevante byggekostnadsindekser fram til betaling skjer.Det kan gis bestemmelse om at betaling av kostnadsbidrag fra grunneiere eller utbyggere ikke skal anses som en hel eller delvis oppfyllelse av rekkefølgekrav for kommunal, fylkeskommunal eller statlig infrastruktur som gjelder for utbygging av eiendommen, jf. [§ 12 A-1 første ledd bokstav d](lov/2008-06-27-71/§12A-1/ledd/1/bokstav/d).Det kan gis bestemmelse om merverdiavgift.
+Kommunen kan i nødvendig utstrekning gi bestemmelser til hensynssoner etter [§ 12 A-1](lov/2008-06-27-71/§12A-1), som følger:
+
+1. Det kan gis bestemmelse om ny infrastruktur, eller utvidelse, oppgradering, ombygging, flytting eller riving av eksisterende infrastruktur, som helt eller delvis skal finansieres av grunneierne og utbyggerne innenfor hensynssonen, og som er nødvendig for utbyggingen innenfor hensynssonen.
+2. Det kan gis bestemmelse til infrastruktur som nevnt i bokstav a om omfang, utforming, funksjons- og kvalitetskrav, standardnivå, avstand til midtlinje på veg, byggegrenser, krav om særskilt rekkefølge for infrastruktur eller at infrastrukturen skal være tilstrekkelig etablert før utbygging kan finne sted, samt forbud mot eller påbud om bestemte løsninger.
+3. Det kan gis bestemmelse om at en nærmere angitt infrastruktur som nevnt i bestemmelse etter bokstav a helt eller delvis skal bekostes av grunneieren eller utbyggeren selv.
+4. Det kan gis bestemmelse om tiltak etter [§ 20-1 første ledd bokstav a](lov/2008-06-27-71/§20-1/ledd/1/bokstav/a), [d](lov/2008-06-27-71/§20-1/ledd/1/bokstav/d) og [n](lov/2008-06-27-71/§20-1/ledd/1/bokstav/n) som det ikke skal betales kostnadsbidrag for.
+5. Det kan gis bestemmelse om at plikten til grunneierfinansiering av infrastrukturen skal gjelde for kortere tid enn 30 år.
+6. Det kan gis bestemmelse om justering av kostnadsbidraget med grunnlag i relevante byggekostnadsindekser fram til betaling skjer.
+7. Det kan gis bestemmelse om at betaling av kostnadsbidrag fra grunneiere eller utbyggere ikke skal anses som en hel eller delvis oppfyllelse av rekkefølgekrav for kommunal, fylkeskommunal eller statlig infrastruktur som gjelder for utbygging av eiendommen, jf. [§ 12 A-1 første ledd bokstav d](lov/2008-06-27-71/§12A-1/ledd/1/bokstav/d).
+8. Det kan gis bestemmelse om merverdiavgift.
 
 Kommunen kan gi bestemmelse etter første ledd om fylkeskommunal eller statlig infrastruktur dersom vedkommende myndighet samtykker.
 
@@ -943,7 +1055,14 @@ Størrelsen på kostnadsbidraget skal settes til et beløp per kvadratmeter bruk
 
 For infrastruktur utenfor hensynssonen skal kostnadene som inngår i beregningsgrunnlaget etter tredje ledd, stå i forhold til den forventede bruken og nytten av tiltaket. Kommunen skal fastsette andelen i prosent av de estimerte kostnadene for hele eller deler av infrastrukturen, eller som et fast beløp.
 
-Følgende skal inngå i beregningen av de samlede estimerte kostnadene etter første og andre ledd:kostnader til etablering av nødvendig infrastruktur innenfor og utenfor hensynssonenkostnader til grunnervervkommunens kostnader til å planlegge og gjennomføre grunneierfinansiering av infrastruktur i et utbyggingsområde etter dette kapittelet, som ikke skal overskride selvkostkostnader til sakkyndig bistand som nevnt i fjerde leddfinansieringskostnader og renteutgifter som nevnt i [§ 12 A-3 tredje ledd](lov/2008-06-27-71/§12A-3/ledd/3) og renteutgifter som nevnt i [§ 12 A-8 andre ledd](lov/2008-06-27-71/§12A-8/ledd/2)merverdiavgift som det ikke oppnås fradragsrett eller kompensasjon for.
+Følgende skal inngå i beregningen av de samlede estimerte kostnadene etter første og andre ledd:
+
+1. kostnader til etablering av nødvendig infrastruktur innenfor og utenfor hensynssonen
+2. kostnader til grunnerverv
+3. kommunens kostnader til å planlegge og gjennomføre grunneierfinansiering av infrastruktur i et utbyggingsområde etter dette kapittelet, som ikke skal overskride selvkost
+4. kostnader til sakkyndig bistand som nevnt i fjerde ledd
+5. finansieringskostnader og renteutgifter som nevnt i [§ 12 A-3 tredje ledd](lov/2008-06-27-71/§12A-3/ledd/3) og renteutgifter som nevnt i [§ 12 A-8 andre ledd](lov/2008-06-27-71/§12A-8/ledd/2)
+6. merverdiavgift som det ikke oppnås fradragsrett eller kompensasjon for.
 
 Kommunen skal engasjere en uavhengig sakkyndig til å utføre beregningen av de samlede estimerte kostnadene for infrastrukturen, med mindre de berørte grunneierne og utbyggerne samtykker i en annen fremgangsmåte. Det kan unnlates å bruke sakkyndig når det anses åpenbart unødvendig. Kommunen kan gjøre de endringene og tilpasningene i den sakkyndiges beregninger som den finner nødvendig for å unngå fare for fremtidig finansiell over- eller underdekning, jf. [§ 12 A-8 sjette](lov/2008-06-27-71/§12A-8/ledd/6) og [sjuende ledd](lov/2008-06-27-71/§12A-8/ledd/7).
 
@@ -1009,7 +1128,13 @@ Dersom det gjenstår innbetalte kostnadsbidrag som ikke er brukt på infrastrukt
 
 ### § 12 A-9. Avtale om realopparbeidelse av infrastruktur mv.
 
-Kommunen, fylkeskommunen og statlige myndigheter kan inngå avtale med tiltakshaver om opparbeidelse av infrastruktur som det er gitt bestemmelse om etter [§ 12 A-2 første ledd bokstav a](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/a). For slike avtaler gjelder følgende:Det kan avtales at grunneier eller utbygger skal oppfylle hele eller deler av egen betalingsforpliktelse etter [§ 12 A-1 første ledd bokstav a](lov/2008-06-27-71/§12A-1/ledd/1/bokstav/a) gjennom realopparbeidelse av infrastruktur.Avtalen skal inngås til fastpris og bygge på beregningene som ligger til grunn for utregningen av kostnadsbidraget etter [§ 12 A-4](lov/2008-06-27-71/§12A-4), justert etter eventuelle byggekostnadsindekser, jf. [§ 12 A-2 første ledd bokstav f](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/f). Kommunen kan unnlate å inngå avtale om fastpris for hele eller deler av opparbeidelsen når tungtveiende grunner taler for det.Den økonomiske verdien på opparbeidelsen skal, så langt den er kjent, framgå av avtalen.Hvis den økonomiske verdien på opparbeidelsen overstiger betalingsforpliktelsen som framgår av rammetillatelsen, skal det overskytende beløpet anses som forskuttering av kostnader til infrastruktur og følge reglene i [§ 12 A-3](lov/2008-06-27-71/§12A-3), med mindre noe annet er avtalt om et eventuelt etteroppgjør etter bokstav b.Avtalen kan også omhandle andre forhold av betydning for å besørge realopparbeidelse av infrastruktur.
+Kommunen, fylkeskommunen og statlige myndigheter kan inngå avtale med tiltakshaver om opparbeidelse av infrastruktur som det er gitt bestemmelse om etter [§ 12 A-2 første ledd bokstav a](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/a). For slike avtaler gjelder følgende:
+
+1. Det kan avtales at grunneier eller utbygger skal oppfylle hele eller deler av egen betalingsforpliktelse etter [§ 12 A-1 første ledd bokstav a](lov/2008-06-27-71/§12A-1/ledd/1/bokstav/a) gjennom realopparbeidelse av infrastruktur.
+2. Avtalen skal inngås til fastpris og bygge på beregningene som ligger til grunn for utregningen av kostnadsbidraget etter [§ 12 A-4](lov/2008-06-27-71/§12A-4), justert etter eventuelle byggekostnadsindekser, jf. [§ 12 A-2 første ledd bokstav f](lov/2008-06-27-71/§12A-2/ledd/1/bokstav/f). Kommunen kan unnlate å inngå avtale om fastpris for hele eller deler av opparbeidelsen når tungtveiende grunner taler for det.
+3. Den økonomiske verdien på opparbeidelsen skal, så langt den er kjent, framgå av avtalen.
+4. Hvis den økonomiske verdien på opparbeidelsen overstiger betalingsforpliktelsen som framgår av rammetillatelsen, skal det overskytende beløpet anses som forskuttering av kostnader til infrastruktur og følge reglene i [§ 12 A-3](lov/2008-06-27-71/§12A-3), med mindre noe annet er avtalt om et eventuelt etteroppgjør etter bokstav b.
+5. Avtalen kan også omhandle andre forhold av betydning for å besørge realopparbeidelse av infrastruktur.
 
 En tiltakshaver som oppfyller hele eller deler av sin forpliktelse til å betale kostnadsbidrag etter [§ 12 A-1 første ledd bokstav a](lov/2008-06-27-71/§12A-1/ledd/1/bokstav/a) gjennom realopparbeidelse av infrastruktur, kan kreve å få dekket nødvendige renteutgifter som skyldes at merverdiavgift refunderes over tid. Rentekostnadene skal beregnes ut fra summen av ikke-fradragsberettiget merverdiavgift på kostnadene til infrastrukturen, fratrukket beløpene som tiltakshaveren til enhver tid har mottatt fra mottakeren av infrastrukturen.
 
@@ -1033,7 +1158,10 @@ Kommunen skal på hensiktsmessig måte underrette berørte grunneiere, festere o
 
 ### § 12 A-11. Klage
 
-Følgende avgjørelser etter dette kapittelet kan påklages:beregningen av kostnadsbidragets størrelse og senere oppdateringer av kostnadsbidraget og om dette er urimelig tyngende, jf. [§ 12 A-4](lov/2008-06-27-71/§12A-4), [§ 12 A-5](lov/2008-06-27-71/§12A-5) og [§ 12 A-6](lov/2008-06-27-71/§12A-6).avslag på tilbakebetaling av kostnadsbidrag etter [§ 12 A-7 femte ledd](lov/2008-06-27-71/§12A-7/ledd/5).
+Følgende avgjørelser etter dette kapittelet kan påklages:
+
+1. beregningen av kostnadsbidragets størrelse og senere oppdateringer av kostnadsbidraget og om dette er urimelig tyngende, jf. [§ 12 A-4](lov/2008-06-27-71/§12A-4), [§ 12 A-5](lov/2008-06-27-71/§12A-5) og [§ 12 A-6](lov/2008-06-27-71/§12A-6).
+2. avslag på tilbakebetaling av kostnadsbidrag etter [§ 12 A-7 femte ledd](lov/2008-06-27-71/§12A-7/ledd/5).
 
 [§ 1-9 andre ledd](lov/2008-06-27-71/§1-9/ledd/2) gjelder tilsvarende for klager etter første ledd. Forhold etter første ledd bokstav a kan ikke påklages dersom de er endelig fastsatt i en overordnet plan og senere videreføres til en ny reguleringsplan uten endringer. Kostnadsbidragets størrelse skal bare prøves av klageinstansen én gang, men kan prøves på nytt hver gang det blir endret, jf. [§ 12 A-6 første ledd](lov/2008-06-27-71/§12A-6/ledd/1).
 
@@ -1043,7 +1171,20 @@ Avtaler kan ikke påklages.
 
 ### § 12 A-12. Forskrifter
 
-Departementet kan gi forskrift omutforming av hensynssoner med krav om grunneierfinansiering, jf. [§ 12 A-1](lov/2008-06-27-71/§12A-1)utforming av rekkefølgekrav for infrastruktur, krav om at infrastruktur skal være tilstrekkelig etablert før utbygging kan finne sted, og unntak fra slike krav, jf. [§§ 12 A-1](lov/2008-06-27-71/§12A-1), [12 A-2](lov/2008-06-27-71/§12A-2) og [12 A-7](lov/2008-06-27-71/§12A-7)hvilken infrastruktur det kan gis bestemmelser om, og krav til beskrivelser, kvalitetsnivå, saksbehandlingsregler for samtykke fra fylkeskommune eller staten, bestemmelser om merverdiavgift som det ikke gis fradragsrett eller kompensasjon for, og rentekompensasjon mv.forskuttering av kostnadsbidrag og infrastruktur, utforming av tilbakebetalingsplan for forskutterte midler og avtaler om rekkefølge på infrastruktur, dekning av finansieringskostnader, renteutgifter og -satser og frivillig bidrag, jf. [§ 12 A-3](lov/2008-06-27-71/§12A-3)forhåndberegningen av de samlede estimerte kostnadene for infrastruktur og utregningen av kostnadsbidrag, bruk av byggekostnadsindekser og sakkyndige, tidsfrister, beregning av kostnadsbidrag som gjelder bruksendring eller hovedombygging, kriterier som kan inngå i vurderingen av hva som er urimelig tyngende, og bruk og nytte av infrastrukturen, jf. [§ 12 A-5](lov/2008-06-27-71/§12A-5)periodevis oppdatering av de samlede estimerte kostnadene for infrastruktur, hva som kan regnes som fremtidig fare for finansiell over- eller underdekning av kostnader, og beregning av over- eller underskudd etter etablering av infrastruktur, jf. [§ 12 A-6 første ledd](lov/2008-06-27-71/§12A-6/ledd/1)hvilke forpliktelser som skal framgå av rammetillatelsen, andre tidspunkter for innbetaling av kostnadsbidrag enn når det gis igangsettingstillatelse, kommunens kontroll av dokumentasjon, adgang til å kreve sikkerhetsstillelse, endring og bortfall av forpliktelser, jf. [§ 12 A-7](lov/2008-06-27-71/§12A-7)begrensninger i kommunens disponering av innbetalte kostnadsbidrag og forskutterte midler, krav til dokumentasjon, tidsfrister, håndtering av manglende kostnadsdekning og anvendelse av innbetalte kostnadsbidrag som ikke blir brukt til infrastrukturetablering, jf. [§ 12 A-8](lov/2008-06-27-71/§12A-8)innholdet i avtaler mellom kommunen og tiltakshaver om opparbeidelse av infrastruktur, hva som kan regnes som fastpris og uforutsette utgifter, unntak fra bruk av fastpris, utregning av etteroppgjør og kompensasjon for rentekostnader tilknyttet merverdiavgift, jf. [§ 12 A-9](lov/2008-06-27-71/§12A-9)utfyllende regler om endring av hensynssone og bestemmelser med krav om grunneierfinansiering av infrastruktur og hva som kan regnes som mindre endring, jf. [§ 11-17](lov/2008-06-27-71/§11-17), [§ 12-14](lov/2008-06-27-71/§12-14) og [§ 12 A-10](lov/2008-06-27-71/§12A-10)frister for kommunens behandling av reguleringsplaner med krav om grunneierfinansiering av infrastruktur, jf. [§§ 12-11](lov/2008-06-27-71/§12-11)i hvilke situasjoner bruk av utbyggingsavtaler etter kapittel 17 er tillatt i stedet for, eller i kombinasjon med, hensynssone med krav om grunneierfinansiering etter dette kapittelet, jf. [§ 12-1 første ledd bokstav e](lov/2008-06-27-71/§12-1/ledd/1/bokstav/e).
+Departementet kan gi forskrift om
+
+1. utforming av hensynssoner med krav om grunneierfinansiering, jf. [§ 12 A-1](lov/2008-06-27-71/§12A-1)
+2. utforming av rekkefølgekrav for infrastruktur, krav om at infrastruktur skal være tilstrekkelig etablert før utbygging kan finne sted, og unntak fra slike krav, jf. [§§ 12 A-1](lov/2008-06-27-71/§12A-1), [12 A-2](lov/2008-06-27-71/§12A-2) og [12 A-7](lov/2008-06-27-71/§12A-7)
+3. hvilken infrastruktur det kan gis bestemmelser om, og krav til beskrivelser, kvalitetsnivå, saksbehandlingsregler for samtykke fra fylkeskommune eller staten, bestemmelser om merverdiavgift som det ikke gis fradragsrett eller kompensasjon for, og rentekompensasjon mv.
+4. forskuttering av kostnadsbidrag og infrastruktur, utforming av tilbakebetalingsplan for forskutterte midler og avtaler om rekkefølge på infrastruktur, dekning av finansieringskostnader, renteutgifter og -satser og frivillig bidrag, jf. [§ 12 A-3](lov/2008-06-27-71/§12A-3)
+5. forhåndberegningen av de samlede estimerte kostnadene for infrastruktur og utregningen av kostnadsbidrag, bruk av byggekostnadsindekser og sakkyndige, tidsfrister, beregning av kostnadsbidrag som gjelder bruksendring eller hovedombygging, kriterier som kan inngå i vurderingen av hva som er urimelig tyngende, og bruk og nytte av infrastrukturen, jf. [§ 12 A-5](lov/2008-06-27-71/§12A-5)
+6. periodevis oppdatering av de samlede estimerte kostnadene for infrastruktur, hva som kan regnes som fremtidig fare for finansiell over- eller underdekning av kostnader, og beregning av over- eller underskudd etter etablering av infrastruktur, jf. [§ 12 A-6 første ledd](lov/2008-06-27-71/§12A-6/ledd/1)
+7. hvilke forpliktelser som skal framgå av rammetillatelsen, andre tidspunkter for innbetaling av kostnadsbidrag enn når det gis igangsettingstillatelse, kommunens kontroll av dokumentasjon, adgang til å kreve sikkerhetsstillelse, endring og bortfall av forpliktelser, jf. [§ 12 A-7](lov/2008-06-27-71/§12A-7)
+8. begrensninger i kommunens disponering av innbetalte kostnadsbidrag og forskutterte midler, krav til dokumentasjon, tidsfrister, håndtering av manglende kostnadsdekning og anvendelse av innbetalte kostnadsbidrag som ikke blir brukt til infrastrukturetablering, jf. [§ 12 A-8](lov/2008-06-27-71/§12A-8)
+9. innholdet i avtaler mellom kommunen og tiltakshaver om opparbeidelse av infrastruktur, hva som kan regnes som fastpris og uforutsette utgifter, unntak fra bruk av fastpris, utregning av etteroppgjør og kompensasjon for rentekostnader tilknyttet merverdiavgift, jf. [§ 12 A-9](lov/2008-06-27-71/§12A-9)
+10. utfyllende regler om endring av hensynssone og bestemmelser med krav om grunneierfinansiering av infrastruktur og hva som kan regnes som mindre endring, jf. [§ 11-17](lov/2008-06-27-71/§11-17), [§ 12-14](lov/2008-06-27-71/§12-14) og [§ 12 A-10](lov/2008-06-27-71/§12A-10)
+11. frister for kommunens behandling av reguleringsplaner med krav om grunneierfinansiering av infrastruktur, jf. [§§ 12-11](lov/2008-06-27-71/§12-11)
+12. i hvilke situasjoner bruk av utbyggingsavtaler etter kapittel 17 er tillatt i stedet for, eller i kombinasjon med, hensynssone med krav om grunneierfinansiering etter dette kapittelet, jf. [§ 12-1 første ledd bokstav e](lov/2008-06-27-71/§12-1/ledd/1/bokstav/e).
 
 > Tilføyd ved lov [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)).
 
@@ -1319,7 +1460,12 @@ Kommunen skal legge til rette for medvirkning fra berørte grupper og interesser
 
 ### § 17-3. Utbyggingsavtalens innhold
 
-En utbyggingsavtale kan inneholde bestemmelser om:at en grunneier eller utbygger skal besørge eller helt eller delvis bekoste tiltak som er nødvendige for gjennomføringen av planvedtakforskuttering av offentlig infrastruktur som er nødvendig for gjennomføring av planvedtakantallet boliger i et område, største og minste boligstørrelse og nærmere krav til bygningers utformingat kommunen eller andre skal ha fortrinnsrett til å kjøpe en andel av boligene til markedspris.
+En utbyggingsavtale kan inneholde bestemmelser om:
+
+1. at en grunneier eller utbygger skal besørge eller helt eller delvis bekoste tiltak som er nødvendige for gjennomføringen av planvedtak
+2. forskuttering av offentlig infrastruktur som er nødvendig for gjennomføring av planvedtak
+3. antallet boliger i et område, største og minste boligstørrelse og nærmere krav til bygningers utforming
+4. at kommunen eller andre skal ha fortrinnsrett til å kjøpe en andel av boligene til markedspris.
 
 Det kan ikke avtales at en grunneier eller utbygger helt eller delvis skal bekoste, forskuttere, gi lån til eller på annen måte finansiere sosial infrastruktur som skoler, barnehager, sykehjem eller tilsvarende tjenester som det offentlige etter lov skal skaffe til veie.
 
@@ -1343,7 +1489,11 @@ Departementet kan etter søknad gi samtykke til å fravike reglene i [§ 17-3](l
 
 ### § 17-6. Saksbehandling, offentlighet og klage
 
-Kommunen skal:kunngjøre oppstarten av forhandlinger om utbyggingsavtalelegge ut et fremforhandlet forslag til utbyggingsavtale til offentlig ettersyn med 30 dagers frist for merknaderkunngjøre en inngått utbyggingsavtale.
+Kommunen skal:
+
+1. kunngjøre oppstarten av forhandlinger om utbyggingsavtale
+2. legge ut et fremforhandlet forslag til utbyggingsavtale til offentlig ettersyn med 30 dagers frist for merknader
+3. kunngjøre en inngått utbyggingsavtale.
 
 Første ledd gjelder tilsvarende ved endringer i en inngått utbyggingsavtale, med mindre endringene er uvesentlige.
 
@@ -1363,7 +1513,12 @@ Departementet kan gi forskrift om krav til inngåelsen av utbyggingsavtaler, typ
 
 ### § 18-1. Krav til opparbeidelse av veg, hovedledning for vann og avløpsvann samt hovedanlegg for overvann
 
-I regulert strøk kan grunn bare bebygges eller eksisterende bebyggelse utvides vesentlig eller gis en vesentlig endret bruk, eller eiendom opprettes eller endres, dersom følgende er oppfylt:Offentlig veg skal være opparbeidet og godkjent så langt den er vist i planen, fram til og langs den side av tomta hvor den har sin atkomst. Med veg forstås kjørebane med fortau og snuplasser, busslomme, gangveg, sykkelsti, turveg, gatetun og offentlig plass. Det kan kreves at vegen legges ut i en bredde av inntil 10 meter med nødvendige tillegg for fylling og skjæring, og opparbeides til en effektiv vegbredde av inntil 6 meter. For eiendom der bebyggelse etter planen helt eller delvis skal tjene annet enn boligformål, og for eiendom hvor planen tillater boligblokker på 4 etasjer eller mer, skal plikten gjelde en vegbredde av inntil 20 meter med nødvendige tillegg for fylling og skjæring. Det kan ikke kreves opparbeidelse av veg hvor private avkjørsler ikke blir tillatt.Hovedavløpsledning skal føre til og langs eller over tomta. Det kan ikke kreves lagt rør av større diameter enn 600 mm. Kommunen kan godta avløpsforbindelse til annet hovedavløpsanlegg.Hovedvannledning skal føre til og langs eller over tomta. Det kan ikke kreves lagt rør av større diameter enn 150 mm. Kommunen kan godta vannforsyning fra annen vannledning.Offentlig hovedanlegg for oppsamling, avledning og eventuelt behandling av lokalt overvann skal være opparbeidet og godkjent så langt det er vist i planen. Det skal fremkomme av planen hvilke eiendommer overvannsanlegget skal betjene. Overvannsledninger kan kreves opparbeidet med rør med diameter opptil 600 mm, uavhengig av om det er angitt i planen hvilke eiendommer overvannsanlegget skal betjene. Opparbeidingsplikten gjelder ikke for håndtering av overvann fra allerede bebygde eiendommer som ikke omfattes av [§ 18-6](lov/2008-06-27-71/§18-6) første, andre og tredje ledd.
+I regulert strøk kan grunn bare bebygges eller eksisterende bebyggelse utvides vesentlig eller gis en vesentlig endret bruk, eller eiendom opprettes eller endres, dersom følgende er oppfylt:
+
+1. Offentlig veg skal være opparbeidet og godkjent så langt den er vist i planen, fram til og langs den side av tomta hvor den har sin atkomst. Med veg forstås kjørebane med fortau og snuplasser, busslomme, gangveg, sykkelsti, turveg, gatetun og offentlig plass. Det kan kreves at vegen legges ut i en bredde av inntil 10 meter med nødvendige tillegg for fylling og skjæring, og opparbeides til en effektiv vegbredde av inntil 6 meter. For eiendom der bebyggelse etter planen helt eller delvis skal tjene annet enn boligformål, og for eiendom hvor planen tillater boligblokker på 4 etasjer eller mer, skal plikten gjelde en vegbredde av inntil 20 meter med nødvendige tillegg for fylling og skjæring. Det kan ikke kreves opparbeidelse av veg hvor private avkjørsler ikke blir tillatt.
+2. Hovedavløpsledning skal føre til og langs eller over tomta. Det kan ikke kreves lagt rør av større diameter enn 600 mm. Kommunen kan godta avløpsforbindelse til annet hovedavløpsanlegg.
+3. Hovedvannledning skal føre til og langs eller over tomta. Det kan ikke kreves lagt rør av større diameter enn 150 mm. Kommunen kan godta vannforsyning fra annen vannledning.
+4. Offentlig hovedanlegg for oppsamling, avledning og eventuelt behandling av lokalt overvann skal være opparbeidet og godkjent så langt det er vist i planen. Det skal fremkomme av planen hvilke eiendommer overvannsanlegget skal betjene. Overvannsledninger kan kreves opparbeidet med rør med diameter opptil 600 mm, uavhengig av om det er angitt i planen hvilke eiendommer overvannsanlegget skal betjene. Opparbeidingsplikten gjelder ikke for håndtering av overvann fra allerede bebygde eiendommer som ikke omfattes av [§ 18-6](lov/2008-06-27-71/§18-6) første, andre og tredje ledd.
 
 Kommunen kan gi kommuneplanbestemmelser om utførelsen av arbeid etter første ledd. Kommunen kan også stille krav til løsninger og produktvalg, innenfor gjeldende bestemmelser og så langt det er nødvendig for å sikre rasjonell drift og vedlikehold av anlegget.
 
@@ -1527,7 +1682,22 @@ Dersom det er nødvendig for å ivareta nasjonale eller viktige regionale intere
 
 ### § 20-1. Tiltak som omfattes av byggesaksbestemmelsene
 
-Følgende tiltak omfattes av byggesaksbestemmelsene i denne lov:oppføring, tilbygging, påbygging, underbygging eller plassering av bygning, konstruksjon eller anleggvesentlig endring eller vesentlig reparasjon av tiltak som nevnt under bokstav afasadeendringvarig eller tidsbestemt bruksendring, vesentlig utvidelse eller vesentlig endring av tidligere drift av tiltak som nevnt under bokstav ariving av tiltak som nevnt i bokstav aoppføring, endring eller reparasjon av bygningstekniske installasjoneroppdeling eller sammenføyning av bruksenheter i boligeroppføring av innhegning mot vegplassering av skilt- og reklameinnretningerplassering av midlertidige bygninger, konstruksjoner eller anleggvesentlig terrenginngrepanlegg av veg, parkeringsplass og landingsplassopprettelse av ny grunneiendom, ny anleggseiendom eller nytt jordsameie, eller opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn ti år, eller matrikkelomforming, arealoverføring, endring av festegrunn eller andre endringer av grenser for matrikkelenheter, jf. [matrikkellova](lov/2005-06-17-101), unntatt endringer som bare omfatter eierseksjonerhovedombygging.
+Følgende tiltak omfattes av byggesaksbestemmelsene i denne lov:
+
+1. oppføring, tilbygging, påbygging, underbygging eller plassering av bygning, konstruksjon eller anlegg
+2. vesentlig endring eller vesentlig reparasjon av tiltak som nevnt under bokstav a
+3. fasadeendring
+4. varig eller tidsbestemt bruksendring, vesentlig utvidelse eller vesentlig endring av tidligere drift av tiltak som nevnt under bokstav a
+5. riving av tiltak som nevnt i bokstav a
+6. oppføring, endring eller reparasjon av bygningstekniske installasjoner
+7. oppdeling eller sammenføyning av bruksenheter i boliger
+8. oppføring av innhegning mot veg
+9. plassering av skilt- og reklameinnretninger
+10. plassering av midlertidige bygninger, konstruksjoner eller anlegg
+11. vesentlig terrenginngrep
+12. anlegg av veg, parkeringsplass og landingsplass
+13. opprettelse av ny grunneiendom, ny anleggseiendom eller nytt jordsameie, eller opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn ti år, eller matrikkelomforming, arealoverføring, endring av festegrunn eller andre endringer av grenser for matrikkelenheter, jf. [matrikkellova](lov/2005-06-17-101), unntatt endringer som bare omfatter eierseksjoner
+14. hovedombygging.
 
 Departementet kan gi forskrifter om hvilke tiltak som omfattes av bestemmelsen.
 
@@ -1539,7 +1709,11 @@ Departementet kan gi forskrifter om hvilke tiltak som omfattes av bestemmelsen.
 
 Tiltak som nevnt i [§ 20-1](lov/2008-06-27-71/§20-1), kan ikke utføres uten at søknad på forhånd er sendt kommunen og den deretter har gitt tillatelse, med mindre unntak følger av [§§ 20-5](lov/2008-06-27-71/§20-5), [20-6](lov/2008-06-27-71/§20-6), [20-7](lov/2008-06-27-71/§20-7) eller [20-8](lov/2008-06-27-71/§20-8). Der det kreves dispensasjon, kan ikke tiltaket utføres før dette er søkt om og gitt.
 
-Tiltak etter [§ 20-1](lov/2008-06-27-71/§20-1) inndeles i følgende kategorier:søknadspliktige tiltak med krav om ansvarlige foretak, jf. [§ 20-3](lov/2008-06-27-71/§20-3)søknadspliktige tiltak som kan forestås av tiltakshaver, jf. [§ 20-4](lov/2008-06-27-71/§20-4)tiltak som er unntatt fra søknadsplikt, jf. [§§ 20-5](lov/2008-06-27-71/§20-5) til [20-8](lov/2008-06-27-71/§20-8)
+Tiltak etter [§ 20-1](lov/2008-06-27-71/§20-1) inndeles i følgende kategorier:
+
+1. søknadspliktige tiltak med krav om ansvarlige foretak, jf. [§ 20-3](lov/2008-06-27-71/§20-3)
+2. søknadspliktige tiltak som kan forestås av tiltakshaver, jf. [§ 20-4](lov/2008-06-27-71/§20-4)
+3. tiltak som er unntatt fra søknadsplikt, jf. [§§ 20-5](lov/2008-06-27-71/§20-5) til [20-8](lov/2008-06-27-71/§20-8)
 
 Reglene i [kapittel 24](lov/2008-06-27-71/kap24) om kontroll gjelder uavhengig av søknadsplikt, med unntak av [§§ 20-7](lov/2008-06-27-71/§20-7) og [20-8](lov/2008-06-27-71/§20-8).
 
@@ -1557,7 +1731,13 @@ Departementet kan gi forskrifter om hvilke tiltak som omfattes av bestemmelsen.
 
 ### § 20-4. Søknadspliktige tiltak som kan forestås av tiltakshaver
 
-Følgende tiltak er unntatt fra reglene i [§ 20-3](lov/2008-06-27-71/§20-3):mindre tiltak på bebygd eiendomalminnelige driftsbygninger i landbruketmidlertidige bygninger, konstruksjoner eller anlegg som nevnt i [§ 20-1](lov/2008-06-27-71/§20-1) første ledd bokstav j og som ikke skal plasseres for lengre tidsrom enn 2 åropprettelse av ny grunneiendom og andre tiltak som nevnt i [§ 20-1 første ledd bokstav m](lov/2008-06-27-71/§20-1/ledd/1/bokstav/m)andre mindre tiltak som etter kommunens skjønn kan forestås av tiltakshaver
+Følgende tiltak er unntatt fra reglene i [§ 20-3](lov/2008-06-27-71/§20-3):
+
+1. mindre tiltak på bebygd eiendom
+2. alminnelige driftsbygninger i landbruket
+3. midlertidige bygninger, konstruksjoner eller anlegg som nevnt i [§ 20-1](lov/2008-06-27-71/§20-1) første ledd bokstav j og som ikke skal plasseres for lengre tidsrom enn 2 år
+4. opprettelse av ny grunneiendom og andre tiltak som nevnt i [§ 20-1 første ledd bokstav m](lov/2008-06-27-71/§20-1/ledd/1/bokstav/m)
+5. andre mindre tiltak som etter kommunens skjønn kan forestås av tiltakshaver
 
 Departementet kan gi forskrift om hvilke tiltak som omfattes av bestemmelsen.
 
@@ -1565,13 +1745,26 @@ Departementet kan gi forskrift om hvilke tiltak som omfattes av bestemmelsen.
 
 ### § 20-5. Tiltak som er unntatt fra søknadsplikt
 
-For følgende tiltak som nevnt i [§ 20-1](lov/2008-06-27-71/§20-1), er søknad og tillatelse ikke nødvendig dersom disse er i samsvar med plan:mindre frittliggende bygning som oppføres på bebygd eiendom, og som ikke kan brukes til beboelsefrittliggende bygning som er større enn bygninger som nevnt i bokstav a, som oppføres på bebygd eiendom, og som verken skal brukes til beboelse eller annet varig opphold, og som ikke underbygges med kjellermindre frittliggende byggverk knyttet til drift av jordbruks-, skogbruks- og reindriftsområdermindre tiltak i eksisterende byggverkmindre tiltak utendørsfasadeendring som ikke fører til at bygningens karakter endres, samt tilbakeføring av fasade til tidligere dokumentert utførelseandre mindre tiltak som kommunen finner grunn til å frita fra søknadsplikten
+For følgende tiltak som nevnt i [§ 20-1](lov/2008-06-27-71/§20-1), er søknad og tillatelse ikke nødvendig dersom disse er i samsvar med plan:
+
+1. mindre frittliggende bygning som oppføres på bebygd eiendom, og som ikke kan brukes til beboelse
+2. frittliggende bygning som er større enn bygninger som nevnt i bokstav a, som oppføres på bebygd eiendom, og som verken skal brukes til beboelse eller annet varig opphold, og som ikke underbygges med kjeller
+3. mindre frittliggende byggverk knyttet til drift av jordbruks-, skogbruks- og reindriftsområder
+4. mindre tiltak i eksisterende byggverk
+5. mindre tiltak utendørs
+6. fasadeendring som ikke fører til at bygningens karakter endres, samt tilbakeføring av fasade til tidligere dokumentert utførelse
+7. andre mindre tiltak som kommunen finner grunn til å frita fra søknadsplikten
 
 Departementet kan gi forskrift om hvilke tiltak som omfattes av bokstav a-e. Departementet kan gi forskrift om tiltakshavers rapportering til kommunen når tiltak etter denne bestemmelse er ferdigstilt.
 
 Søknad og tillatelse er heller ikke nødvendig for tiltak som nevnt i [§ 20-1 første ledd bokstav j](lov/2008-06-27-71/§20-1/ledd/1/bokstav/j) når tiltaket ikke skal stå lengre enn to måneder.
 
-Søknad og tillatelse er heller ikke nødvendig for tiltak som nevnt i [§ 20-1 bokstav m](lov/2008-06-27-71/§20-1/bokstav/m) nårtiltaket skjer som ledd i jordskifte i samsvar med en rettslig bindende plantiltaket skjer etter krav som nevnt i [matrikkellova § 9 første ledd bokstav g](lov/2005-06-17-101/§9/ledd/1/bokstav/g)eksisterende matrikkelenhet registrert som offentlig veg skal deles i forbindelse med at ansvaret for administrasjonen av offentlige veger skal endres mellom staten, et statlig utbyggingsselskap for veg, fylkeskommunen eller kommunentiltaket behandles som en grensejustering eller sammenslåing etter [matrikkellova](lov/2005-06-17-101).
+Søknad og tillatelse er heller ikke nødvendig for tiltak som nevnt i [§ 20-1 bokstav m](lov/2008-06-27-71/§20-1/bokstav/m) når
+
+1. tiltaket skjer som ledd i jordskifte i samsvar med en rettslig bindende plan
+2. tiltaket skjer etter krav som nevnt i [matrikkellova § 9 første ledd bokstav g](lov/2005-06-17-101/§9/ledd/1/bokstav/g)
+3. eksisterende matrikkelenhet registrert som offentlig veg skal deles i forbindelse med at ansvaret for administrasjonen av offentlige veger skal endres mellom staten, et statlig utbyggingsselskap for veg, fylkeskommunen eller kommunen
+4. tiltaket behandles som en grensejustering eller sammenslåing etter [matrikkellova](lov/2005-06-17-101).
 
 Departementet kan i forskrift unnta andre tiltak fra bestemmelsene i [§§ 20-2](lov/2008-06-27-71/§20-2) første ledd og [20-3](lov/2008-06-27-71/§20-3), herunder plassering av anleggsbrakker i mer enn 2 måneder i direkte tilknytning til bygge- eller anleggstomt hvor arbeid pågår.
 
@@ -1607,7 +1800,12 @@ Det ansvarlige departements beslutning etter første ledd kan ikke påklages. De
 
 ### § 20-9. Midlertidige unntak fra loven
 
-Når det er nødvendig som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina, kan kommunen etter skriftlig anmodning fra en offentlig myndighet eller fra private tilbydere innen barnehage, skole eller bolig, gjøre unntak fra søknadsplikten. [Plan- og bygningsloven § 1-6 andre ledd](lov/2008-06-27-71/§1-6/ledd/2) gjelder ikke. Unntak kan gjøres for oppføring av ny, varig bygning, tidsbestemt bruksendring og plassering av midlertidige bygninger som skal brukes tilinnkvartering av asylsøkere og andre Utlendingsdirektoratet gir botilbud tilomsorgssentre for enslige mindreårige asylsøkere under 15 årbarnehage eller skolebolig.
+Når det er nødvendig som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina, kan kommunen etter skriftlig anmodning fra en offentlig myndighet eller fra private tilbydere innen barnehage, skole eller bolig, gjøre unntak fra søknadsplikten. [Plan- og bygningsloven § 1-6 andre ledd](lov/2008-06-27-71/§1-6/ledd/2) gjelder ikke. Unntak kan gjøres for oppføring av ny, varig bygning, tidsbestemt bruksendring og plassering av midlertidige bygninger som skal brukes til
+
+1. innkvartering av asylsøkere og andre Utlendingsdirektoratet gir botilbud til
+2. omsorgssentre for enslige mindreårige asylsøkere under 15 år
+3. barnehage eller skole
+4. bolig.
 
 Unntak etter første ledd kan ikke gjøres hvis det oppstår fare for liv og helse for brukerne, fare for skade på miljø eller kulturminner, tap av naturmangfold eller dyrket eller dyrkbar jord, eller gjennomføringen av en arealplan vanskeliggjøres. Bygninger som skal brukes til bolig, kan bare oppføres til varig bruk når området er avsatt til bebyggelse og anlegg i en arealplan og det ikke finnes andre alternativer som medfører mindre ulemper. Når behovet etter første ledd bortfaller, kan boligen brukes til annet varig boligformål.
 
@@ -1685,7 +1883,11 @@ Etter søkers ønske kan tillatelsen deles opp i rammetillatelse og igangsetting
 
 Kommunen skal straks gi skriftlig underretning om vedtaket til søker og til de som har merknader. Ved behandling av delt søknad er det tilstrekkelig at igangsettingstillatelsen kun meddeles søker.
 
-Kommunen kan sette som vilkår for å gi tillatelse at gebyr etter [§ 33-1](lov/2008-06-27-71/§33-1) er innbetalt. Videre kan kommunen sette som vilkår at:det blir holdt oppmålingsforretning når det er behov for å klarlegge grensene for den eller de matrikkelenhetene som tiltaket gjelder foreiendommer som skal nyttes under ett, blir sammenføyd etter matrikkellovatiltakshaver varsler kommunen når midlertidige tiltak som nevnt i [§ 20-4](lov/2008-06-27-71/§20-4) bokstav c, fjernes.
+Kommunen kan sette som vilkår for å gi tillatelse at gebyr etter [§ 33-1](lov/2008-06-27-71/§33-1) er innbetalt. Videre kan kommunen sette som vilkår at:
+
+1. det blir holdt oppmålingsforretning når det er behov for å klarlegge grensene for den eller de matrikkelenhetene som tiltaket gjelder for
+2. eiendommer som skal nyttes under ett, blir sammenføyd etter matrikkellova
+3. tiltakshaver varsler kommunen når midlertidige tiltak som nevnt i [§ 20-4](lov/2008-06-27-71/§20-4) bokstav c, fjernes.
 
 Kommunen kan i en tillatelse om opprettelse eller endring av eiendom angi i hvilket omfang det ved matrikkelføringen kan gjøres tilpasninger i nye eller endrede grenser ut over eventuelle tilpasninger som følger av mindre avvik fastsatt etter [matrikkellova § 33 tredje ledd tredje punktum](lov/2005-06-17-101/§33/ledd/3/setning/3). Ved søknad om opprettelse av ny festegrunn for bortfeste som kan gjelde i mer enn 10 år, kan kommunen sette som vilkår for tillatelsen at festeretten skal gjelde for et særskilt avgrenset areal, eller at enheten blir opprettet som grunneiendom.
 
@@ -1805,7 +2007,10 @@ Departementet kan gi forskrift om saksbehandlingen av søknader om sentral godkj
 
 ### § 22-4. Overtredelsesgebyr for brudd på reglene om sentral godkjenning for ansvarsrett
 
-Departementet kan ilegge overtredelsesgebyr til foretak som forsettlig eller uaktsomtgir uriktige eller villedende opplysninger, eller unnlater å gi nødvendige opplysninger, i forbindelse med søknad om sentral godkjenning eller tilsyn med sentralt godkjent foretak, ellerbenytter merke for sentralt godkjente foretak uten å ha rett til det.
+Departementet kan ilegge overtredelsesgebyr til foretak som forsettlig eller uaktsomt
+
+1. gir uriktige eller villedende opplysninger, eller unnlater å gi nødvendige opplysninger, i forbindelse med søknad om sentral godkjenning eller tilsyn med sentralt godkjent foretak, eller
+2. benytter merke for sentralt godkjente foretak uten å ha rett til det.
 
 Når overtredelse som kan medføre overtredelsesgebyr, er begått av noen som har handlet på vegne av et foretak, ilegges overtredelsesgebyret foretaket. Dette gjelder selv om det ikke kan anvendes overtredelsesgebyr mot noen enkeltperson.
 
@@ -1927,7 +2132,10 @@ Departementet kan gi forskrift om et register over foretak som har påtatt seg a
 
 ### § 24-1. Kvalitetssikring og kontroll med prosjektering og utførelse
 
-Ansvarlig prosjekterende og ansvarlig utførende skal ha system for å sikre og dokumentere at plan- og bygningslovgivningens krav er oppfylt. I tillegg skal det gjennomføres uavhengig kontroll av ansvarlige kontrollforetak når:det foreligger viktige og kritiske områder og oppgaverkommunen krever det etter en konkret vurdering.
+Ansvarlig prosjekterende og ansvarlig utførende skal ha system for å sikre og dokumentere at plan- og bygningslovgivningens krav er oppfylt. I tillegg skal det gjennomføres uavhengig kontroll av ansvarlige kontrollforetak når:
+
+1. det foreligger viktige og kritiske områder og oppgaver
+2. kommunen krever det etter en konkret vurdering.
 
 Kommunen kan gjøre unntak fra krav om uavhengig kontroll etter forskrift gitt av departementet.
 
@@ -1977,7 +2185,10 @@ Departementet kan etter ønske fra kommunen føre tilsyn med ansvarlige foretak.
 
 ### § 25-4. Tilsyn med eksisterende byggverk og arealer
 
-I tillegg til tilsynsplikten etter [§ 1-4](lov/2008-06-27-71/§1-4) og [§ 25-1](lov/2008-06-27-71/§25-1), kan plan- og bygningsmyndighetene også føre tilsyn med eksisterende byggverk og arealer. Tilsyn etter denne bestemmelsen kan bare føres dersom deter grunn til å tro at det foreligger bruk eller forhold som er i strid med denne loven, og som kan føre til fare eller vesentlig ulempe for person, eiendom eller miljø, ellerskal vurderes pålegg etter §[§ 31-6](lov/2008-06-27-71/§31-6), [31-7](lov/2008-06-27-71/§31-7) og [31-12](lov/2008-06-27-71/§31-12).
+I tillegg til tilsynsplikten etter [§ 1-4](lov/2008-06-27-71/§1-4) og [§ 25-1](lov/2008-06-27-71/§25-1), kan plan- og bygningsmyndighetene også føre tilsyn med eksisterende byggverk og arealer. Tilsyn etter denne bestemmelsen kan bare føres dersom det
+
+1. er grunn til å tro at det foreligger bruk eller forhold som er i strid med denne loven, og som kan føre til fare eller vesentlig ulempe for person, eiendom eller miljø, eller
+2. skal vurderes pålegg etter §[§ 31-6](lov/2008-06-27-71/§31-6), [31-7](lov/2008-06-27-71/§31-7) og [31-12](lov/2008-06-27-71/§31-12).
 
 Tilsyn i private hjem krever forhåndsvarsel. Tilsynet skal begrenses til den delen av hjemmet der det foreligger forhold som nevnt i første ledd andre punktum bokstav a, eller som kan bli omfattet av pålegg som nevnt i første ledd andre punktum bokstav b.
 
@@ -2175,7 +2386,10 @@ Byggverkets plassering, herunder høydeplassering, og byggverkets høyde skal go
 
 Hvis ikke annet er bestemt i plan etter kapittel 11 eller 12, skal byggverk ha en avstand fra nabogrense som angitt i forskrift eller som minst svarer til byggverkets halve høyde og ikke under 4 meter.
 
-Kommunen kan godkjenne at byggverk plasseres nærmere nabogrense enn nevnt i andre ledd eller i nabogrense:når eier (fester) av naboeiendommen har gitt skriftlig samtykke ellerved oppføring av frittliggende garasje, uthus og lignende mindre tiltak
+Kommunen kan godkjenne at byggverk plasseres nærmere nabogrense enn nevnt i andre ledd eller i nabogrense:
+
+1. når eier (fester) av naboeiendommen har gitt skriftlig samtykke eller
+2. ved oppføring av frittliggende garasje, uthus og lignende mindre tiltak
 
 Departementet kan gi forskrift med nærmere bestemmelser om plassering av byggverk, som regler om avstand mellom byggverk, avstand til nabogrense, og beregningsmåten for høyde og avstand, samt for areal på byggverk som nevnt i tredje ledd bokstav b.
 
@@ -2267,7 +2481,12 @@ Kommunen kan føre sikkerhetskontroll med anlegg når dette er i drift. Sikkerhe
 
 Avdekker sikkerhetskontroll feil eller mangler som kan medføre fare for skade på person, skal den som utfører sikkerhetskontrollen, straks sette anlegget ut av drift inntil kommunen kan treffe vedtak i saken.
 
-Eieren av anlegget er ansvarlig for at:anlegg som er i bruk er sikkerhetsmessig forsvarlig,det utføres vedlikehold, ettersyn, nødvendige reparasjoner og sikkerhetskontroll med anlegget,vedlikehold og ettersyn utføres av fagkyndig personell og at sikkerhetskontroll gjennomføres av kommunen eller organ med særskilt bemyndigelse av departementet ogdet for hvert enkelt anlegg foreligger dokumentasjon for oppfyllelse av krav gitt i eller i medhold av denne lov, herunder hvordan vedlikehold, ettersyn, nødvendig reparasjon og sikkerhetskontroll er planlagt og utført.
+Eieren av anlegget er ansvarlig for at:
+
+1. anlegg som er i bruk er sikkerhetsmessig forsvarlig,
+2. det utføres vedlikehold, ettersyn, nødvendige reparasjoner og sikkerhetskontroll med anlegget,
+3. vedlikehold og ettersyn utføres av fagkyndig personell og at sikkerhetskontroll gjennomføres av kommunen eller organ med særskilt bemyndigelse av departementet og
+4. det for hvert enkelt anlegg foreligger dokumentasjon for oppfyllelse av krav gitt i eller i medhold av denne lov, herunder hvordan vedlikehold, ettersyn, nødvendig reparasjon og sikkerhetskontroll er planlagt og utført.
 
 Anlegg kan ikke settes i drift uten at det foreligger nødvendig tillatelse etter [§ 21-10](lov/2008-06-27-71/§21-10).
 
@@ -2369,9 +2588,18 @@ Departementet kan gi forskrift om hvilke krav som gjelder ved tiltak på eksiste
 
 ### § 31-3. Tiltak på eksisterende byggverk som er eller brukes i strid med en senere vedtatt plan
 
-På byggverk som er eller brukes i strid med en senere vedtatt plan, jf. [§§ 11-6](lov/2008-06-27-71/§11-6) og [12-4](lov/2008-06-27-71/§12-4), kan det gis tillatelse til følgende tiltak, dersom planen følges for det aktuelle tiltaket:hovedombyggingtilbygging, påbygging eller underbyggingvarig eller tidsbegrenset bruksendringvesentlig utvidelse eller vesentlig endring av tidligere drift.
+På byggverk som er eller brukes i strid med en senere vedtatt plan, jf. [§§ 11-6](lov/2008-06-27-71/§11-6) og [12-4](lov/2008-06-27-71/§12-4), kan det gis tillatelse til følgende tiltak, dersom planen følges for det aktuelle tiltaket:
 
-Følgende tiltak er uansett tillatt uten krav om dispensasjon fra plan:fasadeendring som ikke fører til at bygningens karakter endres, samt tilbakeføring av fasade til tidligere dokumentert utførelsereparasjon av byggverkoppføring, endring eller reparasjon av bygningstekniske installasjoner.
+1. hovedombygging
+2. tilbygging, påbygging eller underbygging
+3. varig eller tidsbegrenset bruksendring
+4. vesentlig utvidelse eller vesentlig endring av tidligere drift.
+
+Følgende tiltak er uansett tillatt uten krav om dispensasjon fra plan:
+
+1. fasadeendring som ikke fører til at bygningens karakter endres, samt tilbakeføring av fasade til tidligere dokumentert utførelse
+2. reparasjon av byggverk
+3. oppføring, endring eller reparasjon av bygningstekniske installasjoner.
 
 Departementet kan gi forskrift om andre tiltak det kan gis tillatelse til uten krav om dispensasjon fra plan.
 
@@ -2379,7 +2607,11 @@ Departementet kan gi forskrift om andre tiltak det kan gis tillatelse til uten k
 
 ### § 31-4. Kommunens adgang til å gi helt eller delvis unntak fra krav
 
-Ved tiltak etter [§ 20-1](lov/2008-06-27-71/§20-1) på eksisterende byggverk kan kommunen gi helt eller delvis unntak fra tekniske krav, dersom det vurderes som forsvarlig ut fra sikkerhet, helse og miljø. Ved vurderingen skal kommunen legge vekt på følgende:byggverkets alder, formell vernestatus, type, formål, plassering, varigheten av tiltaket og nåværende tekniske tilstandforhold som kan redusere negative konsekvenser ved at det gis unntakfordeler som oppnås med tiltaket.
+Ved tiltak etter [§ 20-1](lov/2008-06-27-71/§20-1) på eksisterende byggverk kan kommunen gi helt eller delvis unntak fra tekniske krav, dersom det vurderes som forsvarlig ut fra sikkerhet, helse og miljø. Ved vurderingen skal kommunen legge vekt på følgende:
+
+1. byggverkets alder, formell vernestatus, type, formål, plassering, varigheten av tiltaket og nåværende tekniske tilstand
+2. forhold som kan redusere negative konsekvenser ved at det gis unntak
+3. fordeler som oppnås med tiltaket.
 
 Innen rammen av de hensyn loven skal ivareta, kan kommunen stille vilkår som kan redusere ulemper eller skadevirkninger tillatelsen kan føre til.
 
@@ -2527,7 +2759,20 @@ Plan- og bygningsmyndighetenes pålegg etter denne lov er særlig tvangsgrunnlag
 
 ### § 32-8. Overtredelsesgebyr
 
-Overtredelsesgebyr kan ilegges den som forsettlig eller uaktsomt:prosjekterer, utfører eller lar prosjektere eller utføre et tiltak i strid med bestemmelser gitt i eller i medhold av denne lov, eller i strid med vilkårene i tillatelseutfører, lar utføre, bruker eller lar bruke tiltak uten at det foreligger nødvendig tillatelse etter denne lovikke utfører kontroll av tiltak i samsvar med bestemmelser om dette gitt i eller i medhold av denne lov, og gitte tillatelserbruker eller lar bruke byggverk eller del av byggverk eller areal uten at det foreligger nødvendig tillatelse etter denne lov, eller bruken er i strid med bestemmelser gitt i eller i medhold av denne lov, vedtak eller planprosjekterer eller lar prosjektere, utfører eller lar utføre eller kontrollerer eller lar kontrollere et tiltak som omfattes av [§ 20-3](lov/2008-06-27-71/§20-3) uten at arbeidet blir forestått av kvalifiserte ansvarlige foretak som har påtatt seg ansvarsrett etter [§ 23-3](lov/2008-06-27-71/§23-3) andre leddgir uriktige eller villedende opplysninger til plan- og bygningsmyndighetenetross skriftlig pålegg ikke oppfyller vilkår for midlertidig dispensasjon etter [§ 19-3](lov/2008-06-27-71/§19-3)tross skriftlig pålegg ikke oppfyller plikten etter [§ 31-3](lov/2008-06-27-71/§31-3) første ledd til å holde byggverk og installasjoner i standikke etterkommer skriftlig pålegg etter [§ 31-5](lov/2008-06-27-71/§31-5) om å fjerne bygning eller rester av bygning eller innretning, eller om å rydde tomtatross skriftlig pålegg ikke oppfyller plikten etter [§ 28-2](lov/2008-06-27-71/§28-2) til å treffe sikringstiltakikke etterkommer skriftlig pålegg etter [§ 29-6](lov/2008-06-27-71/§29-6) tredje ledd om å treffe tiltak for å avhjelpe ulempe fra bygningstekniske installasjonerikke etterkommer særskilt pålegg eller forbud, gitt i medhold av plan- og bygningsloven, når kommunen først skriftlig har gjort ham kjent med at overtredelsesgebyr kan inntre hvis forholdet ikke blir brakt i orden innen en fastsatt frist, og denne frist er oversittet.
+Overtredelsesgebyr kan ilegges den som forsettlig eller uaktsomt:
+
+1. prosjekterer, utfører eller lar prosjektere eller utføre et tiltak i strid med bestemmelser gitt i eller i medhold av denne lov, eller i strid med vilkårene i tillatelse
+2. utfører, lar utføre, bruker eller lar bruke tiltak uten at det foreligger nødvendig tillatelse etter denne lov
+3. ikke utfører kontroll av tiltak i samsvar med bestemmelser om dette gitt i eller i medhold av denne lov, og gitte tillatelser
+4. bruker eller lar bruke byggverk eller del av byggverk eller areal uten at det foreligger nødvendig tillatelse etter denne lov, eller bruken er i strid med bestemmelser gitt i eller i medhold av denne lov, vedtak eller plan
+5. prosjekterer eller lar prosjektere, utfører eller lar utføre eller kontrollerer eller lar kontrollere et tiltak som omfattes av [§ 20-3](lov/2008-06-27-71/§20-3) uten at arbeidet blir forestått av kvalifiserte ansvarlige foretak som har påtatt seg ansvarsrett etter [§ 23-3](lov/2008-06-27-71/§23-3) andre ledd
+6. gir uriktige eller villedende opplysninger til plan- og bygningsmyndighetene
+7. tross skriftlig pålegg ikke oppfyller vilkår for midlertidig dispensasjon etter [§ 19-3](lov/2008-06-27-71/§19-3)
+8. tross skriftlig pålegg ikke oppfyller plikten etter [§ 31-3](lov/2008-06-27-71/§31-3) første ledd til å holde byggverk og installasjoner i stand
+9. ikke etterkommer skriftlig pålegg etter [§ 31-5](lov/2008-06-27-71/§31-5) om å fjerne bygning eller rester av bygning eller innretning, eller om å rydde tomta
+10. tross skriftlig pålegg ikke oppfyller plikten etter [§ 28-2](lov/2008-06-27-71/§28-2) til å treffe sikringstiltak
+11. ikke etterkommer skriftlig pålegg etter [§ 29-6](lov/2008-06-27-71/§29-6) tredje ledd om å treffe tiltak for å avhjelpe ulempe fra bygningstekniske installasjoner
+12. ikke etterkommer særskilt pålegg eller forbud, gitt i medhold av plan- og bygningsloven, når kommunen først skriftlig har gjort ham kjent med at overtredelsesgebyr kan inntre hvis forholdet ikke blir brakt i orden innen en fastsatt frist, og denne frist er oversittet.
 
 Overtredelsesgebyr kan også ilegges ved overtredelse av forskriftsbestemmelser gitt i medhold av loven, når det i forskriften er fastsatt at overtredelse av den aktuelle bestemmelse kan medføre overtredelsesgebyr.
 
@@ -2545,7 +2790,10 @@ Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
 
 ### § 32-8a. Overtredelsesgebyr for brudd på reglene om konsekvensutredninger
 
-Den som fremmer forslag til reguleringsplan eller tiltak og planer etter annet lovverk, kan ilegges overtredelsesgebyr dersom den forsettlig eller uaktsomt:unnlater å følge krav til konsekvensutredning som er gitt i bestemmelser i eller i medhold av denne lov, ellergir uriktige eller villedende opplysninger i konsekvensutredningen.
+Den som fremmer forslag til reguleringsplan eller tiltak og planer etter annet lovverk, kan ilegges overtredelsesgebyr dersom den forsettlig eller uaktsomt:
+
+1. unnlater å følge krav til konsekvensutredning som er gitt i bestemmelser i eller i medhold av denne lov, eller
+2. gir uriktige eller villedende opplysninger i konsekvensutredningen.
 
 I saker som gjelder planer etter denne loven, ilegger planmyndigheten overtredelsesgebyr. I saker som gjelder tiltak og planer etter annet lovverk, ilegger ansvarlig myndighet overtredelsesgebyr. Dersom planmyndigheten eller annen ansvarlig myndighet er forslagsstiller, ilegger departementet overtredelsesgebyr.
 
@@ -2563,7 +2811,10 @@ Departementet gir forskrift med nærmere regler om ileggelse av overtredelsesgeb
 
 Den som forsettlig eller grovt uaktsomt opptrer som nevnt i [§ 32-8](lov/2008-06-27-71/§32-8) første ledd, straffes med bøter eller fengsel inntil 1 år dersom overtredelsen er vesentlig. Tilsvarende gjelder den som utfører handlinger som kan medføre overtredelsesgebyr etter [§ 32-8a](lov/2008-06-27-71/§32-8a). Det samme gjelder ved overtredelse av bestemmelser gitt i medhold av loven når det i forskrift er fastsatt at overtredelse av den aktuelle bestemmelse er straffbar. Ved vurderingen av om en overtredelse er vesentlig, skal det særlig legges vekt på overtredelsens omfang og virkninger og graden av utvist skyld. Dersom personen eller foretaket tidligere er ilagt sanksjon for overtredelse av denne lov eller forskrift gitt i medhold av loven, kan straff anvendes selv om overtredelsen ikke er vesentlig.
 
-Med bøter eller fengsel inntil 1 år straffes også den som forsettlig eller uaktsomt:gir uriktige eller villedende opplysninger til den sentrale godkjenningsordningen, ellersetter CE-merke på produkt uten at forutsetningene er til stede, eller omsetter slikt produkt, eller for øvrig ikke gir de opplysninger eller unnlater å gi tilsynsmyndigheten tilgang til produkt, rom, areal eller annet område som anses nødvendig for å kunne føre tilsynet, jf. [§ 29-7](lov/2008-06-27-71/§29-7).
+Med bøter eller fengsel inntil 1 år straffes også den som forsettlig eller uaktsomt:
+
+1. gir uriktige eller villedende opplysninger til den sentrale godkjenningsordningen, eller
+2. setter CE-merke på produkt uten at forutsetningene er til stede, eller omsetter slikt produkt, eller for øvrig ikke gir de opplysninger eller unnlater å gi tilsynsmyndigheten tilgang til produkt, rom, areal eller annet område som anses nødvendig for å kunne føre tilsynet, jf. [§ 29-7](lov/2008-06-27-71/§29-7).
 
 Ved grove overtredelser kan fengsel inntil 2 år anvendes. Ved vurderingen av om overtredelsen er grov, skal det særlig legges vekt på overtredelsens omfang og virkninger, og graden av utvist skyld.
 
@@ -2581,7 +2832,14 @@ Plan- og bygningsmyndighetene kan ikke ilegge den ansvarlige et overtredelsesgeb
 
 ### § 33-1. Gebyr
 
-Kommunestyret selv kan gi forskrift om gebyr til kommunen forbehandling av søknader om tillatelse, utferdigelse av kart og attester og for annet arbeid som det etter denne loven eller forskrift påhviler kommunen å utføredekning av utgifter etter [kulturminneloven § 10](lov/1978-06-09-50/§10) for gjennomføring av undersøkelser etter [kulturminneloven § 9](lov/1978-06-09-50/§9) på eiendommen til den som har anmodet kommunen om å regulerebehandling av private planforslag etter [§ 12-11](lov/2008-06-27-71/§12-11) frem til kommunen har avgjort om forslaget skal fremmesbehandling av områderegulering for konsesjonspliktige vindkraftanlegg som nevnt i [§ 12-1 tredje ledd](lov/2008-06-27-71/§12-1/ledd/3)utgifter til nødvendig bruk av sakkyndig bistand under tilsynbehandling av søknader om samtykke til ekspropriasjon etter [§ 16-5 a](lov/2008-06-27-71/§16-5a).
+Kommunestyret selv kan gi forskrift om gebyr til kommunen for
+
+1. behandling av søknader om tillatelse, utferdigelse av kart og attester og for annet arbeid som det etter denne loven eller forskrift påhviler kommunen å utføre
+2. dekning av utgifter etter [kulturminneloven § 10](lov/1978-06-09-50/§10) for gjennomføring av undersøkelser etter [kulturminneloven § 9](lov/1978-06-09-50/§9) på eiendommen til den som har anmodet kommunen om å regulere
+3. behandling av private planforslag etter [§ 12-11](lov/2008-06-27-71/§12-11) frem til kommunen har avgjort om forslaget skal fremmes
+4. behandling av områderegulering for konsesjonspliktige vindkraftanlegg som nevnt i [§ 12-1 tredje ledd](lov/2008-06-27-71/§12-1/ledd/3)
+5. utgifter til nødvendig bruk av sakkyndig bistand under tilsyn
+6. behandling av søknader om samtykke til ekspropriasjon etter [§ 16-5 a](lov/2008-06-27-71/§16-5a).
 
 Gebyret skal ikke være høyere enn de nødvendige kostnadene kommunen har med slike saker. Det skal framgå av forskriften hvor mye av gebyret som skal dekke utgiftene til tilsyn. Tiltakshaveren kan selv sørge for de nødvendige utredningene.
 
@@ -2611,7 +2869,9 @@ Loven trer i kraft fra den tid1 Kongen bestemmer.
 
 Fra samme tidspunkt oppheves plan- og bygningsloven av 14. juni 1985 nr. 77 kapittel I til VII-a.2
 
-1 Iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638) trådte plandelen, med unntak av [kapittel 15](lov/2008-06-27-71/kap15), ikr. 1 juli 2009. Fra samme tidspunkt ble endringene i kapittel 1 og 19 og [lovens tittel fastsatt i lov 8 mai 2009 nr. 27](lov/2009-05-08-27) satt ikr. Ved res. 18 juni 2010 nr. 896 ble kapittel 15 samt byggesaksdelen satt ikr. 1 juli 2010 med unntak av § 23-7 første ledd andre punktum, § 24-1 første ledd andre punktum bokstav a og § 24-2 som iflg. [res. 29 apr 2011 nr. 479](forskrift/2011-04-29-479) skulle tre ikr. 1 juli 2012. Ved [res. 22 juni 2012 nr. 574](forskrift/2012-06-22-574) ble dette endret slik at [§ 24-1](lov/2008-06-27-71/§24-1) første ledd andre punktum bokstav a og [§ 24-2](lov/2008-06-27-71/§24-2) trådte ikr. 1 jan 2013, og ikraftsettingen av [§ 23-7](lov/2008-06-27-71/§23-7) første ledd andre punktum ble utsatt.2 Iflg. res. 12 juni 2009 nr. 638 ble kapittel I til VII, med unntak av § 6, § 21 og § 32 opphevet fra 1 juli 2009. Iflg. res. 26 juni 2009 nr. 859 ble kapittel VII a opphevet fra 1 juli 2009. Ved [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896) er resten av loven opphevet.
+1 Iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638) trådte plandelen, med unntak av [kapittel 15](lov/2008-06-27-71/kap15), ikr. 1 juli 2009. Fra samme tidspunkt ble endringene i kapittel 1 og 19 og [lovens tittel fastsatt i lov 8 mai 2009 nr. 27](lov/2009-05-08-27) satt ikr. Ved res. 18 juni 2010 nr. 896 ble kapittel 15 samt byggesaksdelen satt ikr. 1 juli 2010 med unntak av § 23-7 første ledd andre punktum, § 24-1 første ledd andre punktum bokstav a og § 24-2 som iflg. [res. 29 apr 2011 nr. 479](forskrift/2011-04-29-479) skulle tre ikr. 1 juli 2012. Ved [res. 22 juni 2012 nr. 574](forskrift/2012-06-22-574) ble dette endret slik at [§ 24-1](lov/2008-06-27-71/§24-1) første ledd andre punktum bokstav a og [§ 24-2](lov/2008-06-27-71/§24-2) trådte ikr. 1 jan 2013, og ikraftsettingen av [§ 23-7](lov/2008-06-27-71/§23-7) første ledd andre punktum ble utsatt.
+
+2 Iflg. res. 12 juni 2009 nr. 638 ble kapittel I til VII, med unntak av § 6, § 21 og § 32 opphevet fra 1 juli 2009. Iflg. res. 26 juni 2009 nr. 859 ble kapittel VII a opphevet fra 1 juli 2009. Ved [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896) er resten av loven opphevet.
 
 ### § 34-2. Overgangsbestemmelser til plandelen
 

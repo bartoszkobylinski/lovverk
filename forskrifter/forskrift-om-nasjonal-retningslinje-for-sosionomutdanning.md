@@ -48,7 +48,10 @@ Fullført utdanning gir yrkestittelen sosionom.
 
 ### § 3. Kompetanseområder
 
-Sosionomutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1465/kap2) til [3](forskrift/2025-07-04-1465/kap3) under følgende kompetanseområder:Rammer for og perspektiver på sosialt arbeidKunnskap om og arbeid med sosiale problemer.
+Sosionomutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1465/kap2) til [3](forskrift/2025-07-04-1465/kap3) under følgende kompetanseområder:
+
+- Rammer for og perspektiver på sosialt arbeid
+- Kunnskap om og arbeid med sosiale problemer.
 
 Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-07-04-1465/§4) b–f og h, [§ 5](forskrift/2025-07-04-1465/§5) a, b, e og f, [§ 6](forskrift/2025-07-04-1465/§6) a, c og e, [§ 7](forskrift/2025-07-04-1465/§7) c og e–l, [§ 8](forskrift/2025-07-04-1465/§8) d, e, g–k og n, [§ 9](forskrift/2025-07-04-1465/§9) a, c, e, f og h er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
 
@@ -58,19 +61,45 @@ Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-07-04-1465/§4) b–f og h,
 
 ### § 4. Rammer for og perspektiver på sosialt arbeid – Kunnskap
 
-Kandidatenhar bred kunnskap om sosialt arbeids teorigrunnlag og metoder som retter seg mot individer, familier, grupper og samfunnhar bred kunnskap om velferdspolitiske mål og virkemidler, ulike velferdsmodeller og velferdspolitikkens betydning for sosialt arbeids praksishar bred kunnskap om hvilken betydning levekår, helse, utdanning, arbeid og sosial inkludering og aktiv deltakelse har i ulike livsfaser for individ, familie og samfunnhar kunnskap om hvordan sosial klasse, utenforskap, marginalisering og diskriminering påvirker folkehelse og levekårhar kunnskap om ansvars- og arbeidsfordeling i velferdsforvaltningen, tverrprofesjonelt samarbeid og samspillet mellom offentlig, privat og frivillig sektorhar kunnskap om relevant juridisk metode og sentral lovgivning innen velferdsforvaltning, herunder forvaltningsrett og lovgivning innen barne- og familierett, helse, omsorg, velferd og sosiale tjenesterhar kunnskap om fagområdets historie, tradisjoner, egenart og plass i samfunnetkjenner til menneskerettigheter og sentrale konvensjoner, minoriteter og kunnskap om samenes rettigheter og særskilte status som urfolkkjenner til fagets vitenskapsteoretiske posisjoner, kunnskapsutvikling og profesjonens samfunnsansvarkjenner til samfunnsvitenskapelig metode og dens muligheter og begrensningerkjenner til forsknings- og utviklingsarbeid relevant for sosialt arbeid, nasjonalt og internasjonalt.
+Kandidaten
+
+1. har bred kunnskap om sosialt arbeids teorigrunnlag og metoder som retter seg mot individer, familier, grupper og samfunn
+2. har bred kunnskap om velferdspolitiske mål og virkemidler, ulike velferdsmodeller og velferdspolitikkens betydning for sosialt arbeids praksis
+3. har bred kunnskap om hvilken betydning levekår, helse, utdanning, arbeid og sosial inkludering og aktiv deltakelse har i ulike livsfaser for individ, familie og samfunn
+4. har kunnskap om hvordan sosial klasse, utenforskap, marginalisering og diskriminering påvirker folkehelse og levekår
+5. har kunnskap om ansvars- og arbeidsfordeling i velferdsforvaltningen, tverrprofesjonelt samarbeid og samspillet mellom offentlig, privat og frivillig sektor
+6. har kunnskap om relevant juridisk metode og sentral lovgivning innen velferdsforvaltning, herunder forvaltningsrett og lovgivning innen barne- og familierett, helse, omsorg, velferd og sosiale tjenester
+7. har kunnskap om fagområdets historie, tradisjoner, egenart og plass i samfunnet
+8. kjenner til menneskerettigheter og sentrale konvensjoner, minoriteter og kunnskap om samenes rettigheter og særskilte status som urfolk
+9. kjenner til fagets vitenskapsteoretiske posisjoner, kunnskapsutvikling og profesjonens samfunnsansvar
+10. kjenner til samfunnsvitenskapelig metode og dens muligheter og begrensninger
+11. kjenner til forsknings- og utviklingsarbeid relevant for sosialt arbeid, nasjonalt og internasjonalt.
 
 > **Endres** ved forskrift [19 juni 2026 nr. 1209](forskrift/2026-06-19-1209) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 5. Rammer for og perspektiver på sosialt arbeid – Ferdigheter
 
-Kandidatenkan anvende forskningsbasert, erfaringsbasert og brukerbasert kunnskap i profesjonsutøvelsenkan finne, vurdere og henvise til relevant informasjon og fagstoff og framstille dette både muntlig og skriftligkan vurdere vitenskapelig kunnskap og politiske rammebetingelser i en praktisk sammenhengkan reflektere over og anvende kunnskap som bidrar til et likeverdig tjenestetilbudkan reflektere over hvordan kunnskap kan anvendes på nye områder og bidra til nytenkning og innovasjon i tjenestenekan tilegne seg ny kunnskap og kan foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis. Videre skal kandidaten også kunne dokumentere og formidle sin faglige kunnskap.
+Kandidaten
+
+1. kan anvende forskningsbasert, erfaringsbasert og brukerbasert kunnskap i profesjonsutøvelsen
+2. kan finne, vurdere og henvise til relevant informasjon og fagstoff og framstille dette både muntlig og skriftlig
+3. kan vurdere vitenskapelig kunnskap og politiske rammebetingelser i en praktisk sammenheng
+4. kan reflektere over og anvende kunnskap som bidrar til et likeverdig tjenestetilbud
+5. kan reflektere over hvordan kunnskap kan anvendes på nye områder og bidra til nytenkning og innovasjon i tjenestene
+6. kan tilegne seg ny kunnskap og kan foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis. Videre skal kandidaten også kunne dokumentere og formidle sin faglige kunnskap.
 
 > **Endres** ved forskrift [19 juni 2026 nr. 1209](forskrift/2026-06-19-1209) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 6. Rammer for og perspektiver på sosialt arbeid – Generell kompetanse
 
-Kandidatenhar innsikt i menneskesyn og verdier i sosialt arbeid, profesjonsetikk og relevante etiske teorierhar innsikt i maktstrukturer og maktutøvelse i samfunnethar innsikt i politiske og administrative beslutningsprosesser og hvordan sosionomer kan bidra til allmenn opplysning og politisk rådgivninghar innsikt i forhold som bidrar til ulikhet, og kan fremme sosial rettferdighet sammen med mennesker i utsatte posisjonerkjenner til nytenkning og innovasjonsprosesser i sosialt arbeid, og kan bidra til tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesserkan planlegge og gjennomføre arbeidsoppgaver i sammensatte og konfliktfylte situasjoner.
+Kandidaten
+
+1. har innsikt i menneskesyn og verdier i sosialt arbeid, profesjonsetikk og relevante etiske teorier
+2. har innsikt i maktstrukturer og maktutøvelse i samfunnet
+3. har innsikt i politiske og administrative beslutningsprosesser og hvordan sosionomer kan bidra til allmenn opplysning og politisk rådgivning
+4. har innsikt i forhold som bidrar til ulikhet, og kan fremme sosial rettferdighet sammen med mennesker i utsatte posisjoner
+5. kjenner til nytenkning og innovasjonsprosesser i sosialt arbeid, og kan bidra til tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser
+6. kan planlegge og gjennomføre arbeidsoppgaver i sammensatte og konfliktfylte situasjoner.
 
 > **Endres** ved forskrift [19 juni 2026 nr. 1209](forskrift/2026-06-19-1209) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027).
 
@@ -78,19 +107,59 @@ Kandidatenhar innsikt i menneskesyn og verdier i sosialt arbeid, profesjonsetikk
 
 ### § 7. Kunnskap om og arbeid med sosiale problemer – Kunnskaper
 
-Kandidatenhar bred kunnskap om teoretiske perspektiver, erfarings- og brukerkunnskap i sosialt arbeid og andre relevante fagområderhar bred kunnskap om hvordan sosiale problemer oppstår og utvikler seg i en samfunnsmessig sammenhenghar bred kunnskap om kommunikasjon, relasjon, samhandling og veiledninghar bred kunnskap om betingelser for mestring og utvikling hos barn, unge, voksne og eldrehar kunnskap om samiske barns rett som urfolk til å vokse opp med samisk språk og kulturhar bred kunnskap om omsorgskompetanse og ulike former for omsorgssvikthar kunnskap om og kan gjenkjenne symptomer på vold, fysiske, psykiske og seksuelle overgrephar kunnskap om arbeidets betydning for helse og velferd, arbeidsinkludering og forhold som regulerer norsk arbeidslivhar kunnskap om hvordan helsemessige, sosiale og sosioøkonomiske utfordringer har konsekvenser for den enkelte og pårørende, og særskilt om barn som pårørendehar kunnskap om inkludering, likestilling og ikke-diskriminering uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnethar kunnskap om forebygging og folkehelse, og forstår samspillet mellom helseutfordringer og sosiale problemer på individ-, familie- og samfunnsnivåhar kunnskap om sentrale problemområder som arbeidsledighet, fattigdom, rus og avhengighet, psykiske vansker, funksjonsnedsettelser og andre forhold som kan bidra til marginalisering og utenforskaphar kunnskap om økonomisk rådgivning for å forebygge og avhjelpe gjelds- og privatøkonomiske problemer.
+Kandidaten
+
+1. har bred kunnskap om teoretiske perspektiver, erfarings- og brukerkunnskap i sosialt arbeid og andre relevante fagområder
+2. har bred kunnskap om hvordan sosiale problemer oppstår og utvikler seg i en samfunnsmessig sammenheng
+3. har bred kunnskap om kommunikasjon, relasjon, samhandling og veiledning
+4. har bred kunnskap om betingelser for mestring og utvikling hos barn, unge, voksne og eldre
+5. har kunnskap om samiske barns rett som urfolk til å vokse opp med samisk språk og kultur
+6. har bred kunnskap om omsorgskompetanse og ulike former for omsorgssvikt
+7. har kunnskap om og kan gjenkjenne symptomer på vold, fysiske, psykiske og seksuelle overgrep
+8. har kunnskap om arbeidets betydning for helse og velferd, arbeidsinkludering og forhold som regulerer norsk arbeidsliv
+9. har kunnskap om hvordan helsemessige, sosiale og sosioøkonomiske utfordringer har konsekvenser for den enkelte og pårørende, og særskilt om barn som pårørende
+10. har kunnskap om inkludering, likestilling og ikke-diskriminering uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnet
+11. har kunnskap om forebygging og folkehelse, og forstår samspillet mellom helseutfordringer og sosiale problemer på individ-, familie- og samfunnsnivå
+12. har kunnskap om sentrale problemområder som arbeidsledighet, fattigdom, rus og avhengighet, psykiske vansker, funksjonsnedsettelser og andre forhold som kan bidra til marginalisering og utenforskap
+13. har kunnskap om økonomisk rådgivning for å forebygge og avhjelpe gjelds- og privatøkonomiske problemer.
 
 > **Endres** ved forskrift [19 juni 2026 nr. 1209](forskrift/2026-06-19-1209) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 8. Kunnskap om og arbeid med sosiale problemer – Ferdigheter
 
-Kandidatenkan anvende faglig kunnskap om sosiale problemer, overganger og livskriser for å fremme mestring og endring i samarbeid med enkeltpersoner, familier, grupper og samarbeidspartnerekan anvende ulike metodiske tilnærminger på individ-, gruppe- og samfunnsnivå innenfor ulike tjenesteområderkan anvende rettsregler, opplyse om rettigheter og plikter og utøve juridisk og sosialfaglig skjønn i møte med enkeltpersoner, familier og grupper, deriblant samiske brukerekan anvende faglig kunnskap om relasjon og kommunikasjon i veiledning, motivasjon og systematisk endringsarbeid og kan veilede brukere, pasienter og pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesserkan anvende faglig kunnskap om arbeidsrettet inkludering i møte med arbeidssøkere, arbeidsgivere og samarbeidspartnerekan anvende faglig kunnskap for å identifisere ressurser og gi håp i samarbeid med mennesker i sårbare livssituasjonerkan anvende faglig kunnskap og metoder for samhandling og samarbeid med barn og unge om hverdagsliv og om vanskelige tema på en måte som sikrer deres interesser, medvirkning og rettigheterkan anvende faglig kunnskap for å vurdere og avklare meldinger og undersøke omsorgssituasjonen til barn og unge og iverksette, følge opp og evaluere tiltak når det er nødvendig for barnets helse, levekår og sosiale utviklingkan anvende faglig kunnskap og arbeide tverrfaglig i møte med mennesker som utøver og utsettes for vold og overgrep. Videre kan kandidaten samtale med barn om tema som omsorgssvikt, vold og overgrepkan reflektere over risiko og hvordan håndtere konflikter og redusere faren for uønskede hendelser og kjenner til metoder for å følge opp dette systematiskkan finne, vurdere og sette inn tiltak som lindrer og reduserer konsekvensene av vold, overgrep og omsorgssvikt, overfor barn og voksne i alle aldrekan beherske aktuelle metoder for kartlegging, dokumentasjon, analyse og beslutningstakingkan beherske metoder i samfunnsarbeid som fremmer makt, innflytelse, deltakelse og representasjonkan beherske digitale verktøy, herunder har kunnskap om digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi, og kjenner til deres muligheter og begrensninger i sosialt arbeidkan reflektere over og anvende kunnskap som bidrar til et likeverdig tjenestetilbud for samiske brukere.
+Kandidaten
+
+1. kan anvende faglig kunnskap om sosiale problemer, overganger og livskriser for å fremme mestring og endring i samarbeid med enkeltpersoner, familier, grupper og samarbeidspartnere
+2. kan anvende ulike metodiske tilnærminger på individ-, gruppe- og samfunnsnivå innenfor ulike tjenesteområder
+3. kan anvende rettsregler, opplyse om rettigheter og plikter og utøve juridisk og sosialfaglig skjønn i møte med enkeltpersoner, familier og grupper, deriblant samiske brukere
+4. kan anvende faglig kunnskap om relasjon og kommunikasjon i veiledning, motivasjon og systematisk endringsarbeid og kan veilede brukere, pasienter og pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesser
+5. kan anvende faglig kunnskap om arbeidsrettet inkludering i møte med arbeidssøkere, arbeidsgivere og samarbeidspartnere
+6. kan anvende faglig kunnskap for å identifisere ressurser og gi håp i samarbeid med mennesker i sårbare livssituasjoner
+7. kan anvende faglig kunnskap og metoder for samhandling og samarbeid med barn og unge om hverdagsliv og om vanskelige tema på en måte som sikrer deres interesser, medvirkning og rettigheter
+8. kan anvende faglig kunnskap for å vurdere og avklare meldinger og undersøke omsorgssituasjonen til barn og unge og iverksette, følge opp og evaluere tiltak når det er nødvendig for barnets helse, levekår og sosiale utvikling
+9. kan anvende faglig kunnskap og arbeide tverrfaglig i møte med mennesker som utøver og utsettes for vold og overgrep. Videre kan kandidaten samtale med barn om tema som omsorgssvikt, vold og overgrep
+10. kan reflektere over risiko og hvordan håndtere konflikter og redusere faren for uønskede hendelser og kjenner til metoder for å følge opp dette systematisk
+11. kan finne, vurdere og sette inn tiltak som lindrer og reduserer konsekvensene av vold, overgrep og omsorgssvikt, overfor barn og voksne i alle aldre
+12. kan beherske aktuelle metoder for kartlegging, dokumentasjon, analyse og beslutningstaking
+13. kan beherske metoder i samfunnsarbeid som fremmer makt, innflytelse, deltakelse og representasjon
+14. kan beherske digitale verktøy, herunder har kunnskap om digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi, og kjenner til deres muligheter og begrensninger i sosialt arbeid
+15. kan reflektere over og anvende kunnskap som bidrar til et likeverdig tjenestetilbud for samiske brukere.
 
 > **Endres** ved forskrift [19 juni 2026 nr. 1209](forskrift/2026-06-19-1209) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027).
 
 ### § 9. Kunnskap om og arbeid med sosiale problemer – Generell kompetanse
 
-Kandidatenhar innsikt i etiske problemstillinger og kan håndtere etiske dilemma i yrkesrollen og i møte med menneskerhar innsikt i og kan reflektere kritisk over sin profesjonelle rolle i møte med institusjonelle og politiske krav i tjenesteutøvelsenhar innsikt i forhold som bidrar til diskriminering, og hvordan fremme ikke-diskriminerende praksis og et inkluderende samfunnhar innsikt i hvordan utvise dømmekraft i situasjoner med mangelfull og/eller motstridende informasjon og identifisere mulighetsrom innen ulike profesjonelle og institusjonelle konteksterhar innsikt i betydningen av digital kommunikasjon i profesjonell praksis og samhandlingkan planlegge, gjennomføre og lede koordinert og tverrprofesjonelt samarbeid mellom ulike tjenester og tjenestenivåerkan formidle faget og utveksle synspunkter og erfaringer med samarbeidspartnere og gjennom dette bidra til utvikling av god praksiskan formidle faglig kunnskap som fremmer likeverd og mangfold og bidrar til likestilling, inkludering, mestring og deltakelse i hverdag, skole og arbeidslivkjenner til menneskers ulike utgangspunkt og sårbarhet, verdier og levemåte.
+Kandidaten
+
+1. har innsikt i etiske problemstillinger og kan håndtere etiske dilemma i yrkesrollen og i møte med mennesker
+2. har innsikt i og kan reflektere kritisk over sin profesjonelle rolle i møte med institusjonelle og politiske krav i tjenesteutøvelsen
+3. har innsikt i forhold som bidrar til diskriminering, og hvordan fremme ikke-diskriminerende praksis og et inkluderende samfunn
+4. har innsikt i hvordan utvise dømmekraft i situasjoner med mangelfull og/eller motstridende informasjon og identifisere mulighetsrom innen ulike profesjonelle og institusjonelle kontekster
+5. har innsikt i betydningen av digital kommunikasjon i profesjonell praksis og samhandling
+6. kan planlegge, gjennomføre og lede koordinert og tverrprofesjonelt samarbeid mellom ulike tjenester og tjenestenivåer
+7. kan formidle faget og utveksle synspunkter og erfaringer med samarbeidspartnere og gjennom dette bidra til utvikling av god praksis
+8. kan formidle faglig kunnskap som fremmer likeverd og mangfold og bidrar til likestilling, inkludering, mestring og deltakelse i hverdag, skole og arbeidsliv
+9. kjenner til menneskers ulike utgangspunkt og sårbarhet, verdier og levemåte.
 
 > **Endres** ved forskrift [19 juni 2026 nr. 1209](forskrift/2026-06-19-1209) (i kraft 1 aug 2026 og gjelder for utdanninger som starter opp etter 1 aug 2027).
 

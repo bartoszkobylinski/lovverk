@@ -15,7 +15,7 @@ xml_hash: "da0db326f0e9e057cc650adbfb624af9d68caa30775c2f26338e46ab0d32d4bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ Departementets myndighet etter [skatteloven § 6-83](lov/1999-03-26-14/§6-83) a
 
 ## § 2.1
 
-Statsforvalteren avgjør om følgende vilkår er oppfylt:om behandling m.v. har skjedd utenfor offentlig helsevesen (jfr. [§ 3](forskrift/1988-04-14-295/§3))om det offentlige helsevesen har et tilsvarende tilbud (jfr. [§ 4](forskrift/1988-04-14-295/§4))om det oppsøkte tilbudet kan anses som faglig forsvarlig (jfr. [§ 5](forskrift/1988-04-14-295/§5)).
+Statsforvalteren avgjør om følgende vilkår er oppfylt:
+
+1. om behandling m.v. har skjedd utenfor offentlig helsevesen (jfr. [§ 3](forskrift/1988-04-14-295/§3))
+2. om det offentlige helsevesen har et tilsvarende tilbud (jfr. [§ 4](forskrift/1988-04-14-295/§4))
+3. om det oppsøkte tilbudet kan anses som faglig forsvarlig (jfr. [§ 5](forskrift/1988-04-14-295/§5)).
 
 > Endret ved [forskrifter 1 sep 2003 nr. 1111](forskrift/2003-09-01-1111), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
 
@@ -38,7 +42,13 @@ Statsforvalteren avgjør om følgende vilkår er oppfylt:om behandling m.v. har 
 
 ## § 3.
 
-Som behandling gitt utenfor offentlig helse- og sosialvesen anses:Behandling, pleie eller opphold ved private helseinstitusjoner som ikke er drevet av det offentlige og som heller ikke er tatt med på offentlige helseplaner eller på annen måte drevet for offentlig regning,behandling m.v. som bare gir rett til stykkprisrefusjon, herunder tjenester som gis ved private medisinske røntgeninstitutter og laboratorier som ikke står i offentlig helseplan,behandling m.v. gitt av privatpraktiserende helsepersonell som ikke har avtale med fylkeskommune eller kommune,behandling gitt i utlandet uten offentlig bidrag etter [folketrygdlovens § 2-13](lov/1997-02-28-19/§2-13) eller direkte fra kommune eller stat,behandling gitt på rekonvalesenthjem og liknende helseinstitusjoner som ikke står i offentlig helseplan og hvor det ikke ytes bidrag etter [folketrygdlovens § 2-13](lov/1997-02-28-19/§2-13) eller direkte fra kommune eller stat.
+Som behandling gitt utenfor offentlig helse- og sosialvesen anses:
+
+1. Behandling, pleie eller opphold ved private helseinstitusjoner som ikke er drevet av det offentlige og som heller ikke er tatt med på offentlige helseplaner eller på annen måte drevet for offentlig regning,
+2. behandling m.v. som bare gir rett til stykkprisrefusjon, herunder tjenester som gis ved private medisinske røntgeninstitutter og laboratorier som ikke står i offentlig helseplan,
+3. behandling m.v. gitt av privatpraktiserende helsepersonell som ikke har avtale med fylkeskommune eller kommune,
+4. behandling gitt i utlandet uten offentlig bidrag etter [folketrygdlovens § 2-13](lov/1997-02-28-19/§2-13) eller direkte fra kommune eller stat,
+5. behandling gitt på rekonvalesenthjem og liknende helseinstitusjoner som ikke står i offentlig helseplan og hvor det ikke ytes bidrag etter [folketrygdlovens § 2-13](lov/1997-02-28-19/§2-13) eller direkte fra kommune eller stat.
 
 ## § 4.
 

@@ -15,7 +15,7 @@ xml_hash: "8c8990c4d1c0b426569ca892948e835c1ae0bf4c07db3b0f0025f6806f95d88b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -41,7 +41,20 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunn
 
 ## § 2.
 
-Det gis fritak for avgift ved omregistrering av kjøretøy:ved ren navneendringpå ektefellemellom foreldre og barn som arv (fullt skifte)som er 30 år eller eldresom utloddes og som tidligere har vært registrert på utlodderensom skal registreres på kjennemerker med gule tegn på blå reflekterende bunnpå NATO eller NATOs hovedkvarter i Norge, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fredsom registreres på Den nordiske investeringsbank og som er nødvendig for bankens offisielle virksomhetsom har vært registrert på samme eier i to måneder eller mindre (samlet påskiltings-/registreringstid)som tas tilbake av selger som følge av heving eller omlevering etter [kjøpslovens](lov/1988-05-13-27) eller [forbrukerkjøpslovens](lov/2002-06-21-34) bestemmelserved omorganiseringer som gjennomføres med lovfestet selskapsrettslig kontinuitet, samt ved omorganiseringer som kan gjennomføres med skattemessig kontinuitet etter [skatteloven §§ 11-2](lov/1999-03-26-14/§11-2) til [11-5](lov/1999-03-26-14/§11-5), [§ 11-11](lov/1999-03-26-14/§11-11) og [§ 11-20](lov/1999-03-26-14/§11-20) med tilhørende forskrifter. Omorganiseringen og omregistreringen av kjøretøy må ha funnet sted etter 1. januar 2016.ved sletting av registrert eier eller medeier i Kjøretøyregisteret.
+Det gis fritak for avgift ved omregistrering av kjøretøy:
+
+1. ved ren navneendring
+2. på ektefelle
+3. mellom foreldre og barn som arv (fullt skifte)
+4. som er 30 år eller eldre
+5. som utloddes og som tidligere har vært registrert på utlodderen
+6. som skal registreres på kjennemerker med gule tegn på blå reflekterende bunn
+7. på NATO eller NATOs hovedkvarter i Norge, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred
+8. som registreres på Den nordiske investeringsbank og som er nødvendig for bankens offisielle virksomhet
+9. som har vært registrert på samme eier i to måneder eller mindre (samlet påskiltings-/registreringstid)
+10. som tas tilbake av selger som følge av heving eller omlevering etter [kjøpslovens](lov/1988-05-13-27) eller [forbrukerkjøpslovens](lov/2002-06-21-34) bestemmelser
+11. ved omorganiseringer som gjennomføres med lovfestet selskapsrettslig kontinuitet, samt ved omorganiseringer som kan gjennomføres med skattemessig kontinuitet etter [skatteloven §§ 11-2](lov/1999-03-26-14/§11-2) til [11-5](lov/1999-03-26-14/§11-5), [§ 11-11](lov/1999-03-26-14/§11-11) og [§ 11-20](lov/1999-03-26-14/§11-20) med tilhørende forskrifter. Omorganiseringen og omregistreringen av kjøretøy må ha funnet sted etter 1. januar 2016.
+12. ved sletting av registrert eier eller medeier i Kjøretøyregisteret.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

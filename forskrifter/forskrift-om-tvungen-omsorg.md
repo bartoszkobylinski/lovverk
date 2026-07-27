@@ -56,7 +56,16 @@ Avtale som nevnt i [straffeloven § 63](lov/2005-05-20-28/§63) annet ledd, skal
 
 ### § 5. Avtalens innhold
 
-Avtalen skal blant annet inneholde bestemmelser omden domfeltes boforhold,den behandlingen den domfelte skal få for sitt atferdsproblem,den bistanden fagenheten skal yte,bistand fra den fylkeskommunale habiliteringstjenesten,tjenester til den domfelte for å dekke den løpende driften,sikkerhetstiltak,tilsyn og kontroll fra fagenheten ogutgiftsdekning.
+Avtalen skal blant annet inneholde bestemmelser om
+
+1. den domfeltes boforhold,
+2. den behandlingen den domfelte skal få for sitt atferdsproblem,
+3. den bistanden fagenheten skal yte,
+4. bistand fra den fylkeskommunale habiliteringstjenesten,
+5. tjenester til den domfelte for å dekke den løpende driften,
+6. sikkerhetstiltak,
+7. tilsyn og kontroll fra fagenheten og
+8. utgiftsdekning.
 
 ### § 6. Fagenhetens ansvar
 
@@ -86,7 +95,11 @@ Staten skal dekke avtalepartens utgifter til gjennomføring av tvungen omsorg. H
 
 ### § 12. Overprøving
 
-Følgende avgjørelser regnes som enkeltvedtak:avgjørelse om at særreaksjonen skal utholdes utenfor fagenheten i medhold av avtale som nevnt i [kapittel 2](forskrift/2001-12-21-1523/kap2),avgjørelse om at den domfelte skal tilbakeføres til fagenheten,avgjørelse om hvilke tiltak som skal settes i verk under opphold utenfor fagenheten for å beskytte samfunnet mot faren for nye alvorlige lovbrudd og vesentlige endringer i dette.
+Følgende avgjørelser regnes som enkeltvedtak:
+
+1. avgjørelse om at særreaksjonen skal utholdes utenfor fagenheten i medhold av avtale som nevnt i [kapittel 2](forskrift/2001-12-21-1523/kap2),
+2. avgjørelse om at den domfelte skal tilbakeføres til fagenheten,
+3. avgjørelse om hvilke tiltak som skal settes i verk under opphold utenfor fagenheten for å beskytte samfunnet mot faren for nye alvorlige lovbrudd og vesentlige endringer i dette.
 
 Vedtak som nevnt i første ledd skal meddeles den domfelte, den domfeltes nærmeste, vergen og påtalemyndigheten, som kan påklage vedtaket til kontrollkommisjonen ved fagenheten.
 

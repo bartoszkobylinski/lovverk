@@ -15,7 +15,7 @@ xml_hash: "173d756e3bc68983dd6ecbdb5063244d46afbc6d81d5c8e7efe50370c212b94c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,13 @@ Soknets organer skal forvalte økonomien slik at den økonomiske handleevnen bli
 
 ## § 4. Grunnleggende regnskapsprinsipper og god kommunal regnskapsskikk
 
-(1) Årsregnskapene skal utarbeides i samsvar med følgende grunnleggende regnskapsprinsipper:All tilgang på og bruk av midler i året skal framgå av driftsregnskapet eller investeringsregnskapet.All tilgang på og bruk av midler skal regnskapsføres brutto.Alle kjente utgifter og inntekter i året skal tas med i årsregnskapet for vedkommende år, enten de er betalt eller ikke når årsregnskapet avsluttes.Påløpt pensjonspremie i et kalenderår utgiftsføres.Dersom størrelsen på et beløp er usikkert, brukes beste estimat.
+(1) Årsregnskapene skal utarbeides i samsvar med følgende grunnleggende regnskapsprinsipper:
+
+1. All tilgang på og bruk av midler i året skal framgå av driftsregnskapet eller investeringsregnskapet.
+2. All tilgang på og bruk av midler skal regnskapsføres brutto.
+3. Alle kjente utgifter og inntekter i året skal tas med i årsregnskapet for vedkommende år, enten de er betalt eller ikke når årsregnskapet avsluttes.
+4. Påløpt pensjonspremie i et kalenderår utgiftsføres.
+5. Dersom størrelsen på et beløp er usikkert, brukes beste estimat.
 
 (2) Årsregnskapene skal føres i samsvar med god kommunal regnskapsskikk.
 
@@ -101,13 +107,27 @@ Soknets organer skal forvalte økonomien slik at den økonomiske handleevnen bli
 
 (3) Det skal vedtas separate drifts- og investeringsbudsjett dersom det skal foretas investeringer i budsjettåret.
 
-(4) Driftsbudsjettet skal omfatte:løpende inntekterutgifter til driftoverføring til investeringbruk av og avsetninger til driftsfonddekning av tidligere års merforbruk.
+(4) Driftsbudsjettet skal omfatte:
+
+1. løpende inntekter
+2. utgifter til drift
+3. overføring til investering
+4. bruk av og avsetninger til driftsfond
+5. dekning av tidligere års merforbruk.
 
 (5) Driftsbudsjettet skal bare finansieres av løpende inntekter. Løpende inntekter som ikke benyttes i budsjettåret, skal settes av til driftsfond. Dersom soknets organer tidligere har vedtatt å fordele et regnskapsmessig merforbruk over flere år, skal slik avsetning være dekket inn. Tilsvarende gjelder for øvrige pliktige avsetninger.
 
 (6) Det skal budsjetteres med et brutto driftsresultat som minst gir tilstrekkelig dekning for renter, avdrag og nødvendige avsetninger.
 
-(7) Investeringsbudsjettet skal omfatte:utgifter til investeringer i anleggsmidler og inntekter knyttet til anskaffelser av anleggsmidlerinntekter fra salg av anleggsmidler og utgifter knyttet til salg av anleggsmidlerbruk av lånutlån og mottatte avdrag på utlånoverføring fra driftbruk av fond og avsetninger til investeringsfonddekning av tidligere års udekket beløp.
+(7) Investeringsbudsjettet skal omfatte:
+
+1. utgifter til investeringer i anleggsmidler og inntekter knyttet til anskaffelser av anleggsmidler
+2. inntekter fra salg av anleggsmidler og utgifter knyttet til salg av anleggsmidler
+3. bruk av lån
+4. utlån og mottatte avdrag på utlån
+5. overføring fra drift
+6. bruk av fond og avsetninger til investeringsfond
+7. dekning av tidligere års udekket beløp.
 
 (8) Investeringsbudsjettet skal settes opp i balanse slik at alle utgifter og avsetninger bevilgningsmessig er dekket inn.
 
@@ -127,13 +147,34 @@ Soknets organer er ansvarlig for at det foretas endringer i årsbudsjettet når 
 
 (3) I årsberetningen skal det gis opplysninger om forhold som er viktige for å bedømme den økonomiske stillingen til soknets organer og resultatet av virksomheten når dette ikke framgår av årsregnskapet. Årsberetningen skal redegjøre for vesentlige beløpsmessige avvik mellom årsbudsjettet og årsregnskapet, samt om andre forhold av vesentlig betydning for virksomheten.
 
-(4) I årsberetningen skal det gjøres rede forden faktiske tilstanden når det gjelder kjønnslikestillingen, herunder kjønnsfordelingen i styrende organer,eventuelle likestillingstiltak som er iverksatt og som planlegges iverksatt for å fremme likestilling uavhengig av kjønn,eventuelle begrensninger når det gjelder tilgang til egne aktiviteter, styrende organer, verv eller stillinger som har sammenheng med ett eller flere diskrimineringsgrunnlag, ogeventuelle segregerte aktiviteter eller tilbud.
+(4) I årsberetningen skal det gjøres rede for
+
+1. den faktiske tilstanden når det gjelder kjønnslikestillingen, herunder kjønnsfordelingen i styrende organer,
+2. eventuelle likestillingstiltak som er iverksatt og som planlegges iverksatt for å fremme likestilling uavhengig av kjønn,
+3. eventuelle begrensninger når det gjelder tilgang til egne aktiviteter, styrende organer, verv eller stillinger som har sammenheng med ett eller flere diskrimineringsgrunnlag, og
+4. eventuelle segregerte aktiviteter eller tilbud.
 
 ## § 13. Årsregnskapets innhold
 
-(1) Driftsregnskapet skal omfatte:løpende inntekterutgifter til driftoverføring til investeringbruk av og avsetninger til driftsfonddekning av tidligere års merforbrukbruk av udisponert fra tidligere år (mindreforbruk).
+(1) Driftsregnskapet skal omfatte:
 
-(2) Det skal bare utarbeides investeringsregnskap dersom det er foretatt eller budsjettert med investeringer i regnskapsåret. Investeringsregnskapet skal omfatte:utgifter til investeringer i anleggsmidler og inntekter knyttet til anskaffelser av anleggsmidlerinntekter fra salg av anleggsmidler og utgifter knyttet til salg av anleggsmidlerbruk av lånutlån og mottatte avdrag på utlånoverføring fra driftbruk av fond og avsetninger til investeringsfonddekning av tidligere års udekket beløpbruk av tidligere års udisponerte beløp.
+1. løpende inntekter
+2. utgifter til drift
+3. overføring til investering
+4. bruk av og avsetninger til driftsfond
+5. dekning av tidligere års merforbruk
+6. bruk av udisponert fra tidligere år (mindreforbruk).
+
+(2) Det skal bare utarbeides investeringsregnskap dersom det er foretatt eller budsjettert med investeringer i regnskapsåret. Investeringsregnskapet skal omfatte:
+
+1. utgifter til investeringer i anleggsmidler og inntekter knyttet til anskaffelser av anleggsmidler
+2. inntekter fra salg av anleggsmidler og utgifter knyttet til salg av anleggsmidler
+3. bruk av lån
+4. utlån og mottatte avdrag på utlån
+5. overføring fra drift
+6. bruk av fond og avsetninger til investeringsfond
+7. dekning av tidligere års udekket beløp
+8. bruk av tidligere års udisponerte beløp.
 
 (3) Driftsregnskap og investeringsregnskap skal stilles opp i henhold til vedlegg 2A og 2B til denne forskriften og vise regnskapstall på samme detaljeringsnivå som soknets organer har brukt i årsbudsjettet sitt. Oppstillingene skal minst vise beløp for vedkommende års regnskap, årsbudsjett og sist avlagte årsregnskap. I oppstillingene som legges fram for behandling i organ for soknet, kan uvesentlige poster slås sammen, og poster som ikke er aktuelle, kan utelates.
 
@@ -147,7 +188,11 @@ Soknets organer er ansvarlig for at det foretas endringer i årsbudsjettet når 
 
 (2) Dersom kontantsalg i en avgrenset virksomhet er mindre enn tre ganger folketrygdens grunnbeløp i løpet av et regnskapsår, kan kontantsalget dokumenteres etter reglene i [forskrift 1. desember 2004 nr. 1558 om bokføring](forskrift/2004-12-01-1558) delkapittel § 5-4 så langt de passer.
 
-(3) Pliktig regnskapsrapportering omfatter:Regnskapsrapportering etter [§ 12](forskrift/2020-12-08-2646/§12) i forskriften herRegnskapsrapportering som nevnt i [bokføringsloven § 3](lov/2004-11-19-73/§3), jf. [bokføringsforskriften § 2-1](forskrift/2004-12-01-1558/§2-1)Regnskapsrapportering fastsatt med hjemmel i [lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. § 6](lov/2003-12-12-108/§6).
+(3) Pliktig regnskapsrapportering omfatter:
+
+1. Regnskapsrapportering etter [§ 12](forskrift/2020-12-08-2646/§12) i forskriften her
+2. Regnskapsrapportering som nevnt i [bokføringsloven § 3](lov/2004-11-19-73/§3), jf. [bokføringsforskriften § 2-1](forskrift/2004-12-01-1558/§2-1)
+3. Regnskapsrapportering fastsatt med hjemmel i [lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. § 6](lov/2003-12-12-108/§6).
 
 (4) Ved utarbeidelse av pliktig spesifikasjon og ajourhold av bokføring innenfor virksomhet som ikke er bokføringspliktig etter [bokføringsloven § 2](lov/2004-11-19-73/§2) andre ledd, gjelder likevel ikke bestemmelsene i [bokføringsloven § 5](lov/2004-11-19-73/§5) og [§ 7](lov/2004-11-19-73/§7) om at dette skal ivaretas minimum hver fjerde måned, men kun bestemmelsene om hver periode med pliktig regnskapsrapportering.
 
@@ -159,7 +204,13 @@ Soknets organer er ansvarlig for at det foretas endringer i årsbudsjettet når 
 
 (3) Markedsbaserte finansielle omløpsmidler skal vurderes til virkelig verdi.
 
-(4) Anleggsmidler skal vurderes til anskaffelseskost. Anleggsmidler som har begrenset utnyttbar levetid, avskrives over den utnyttbare levetiden til anleggsmidlet. Avskrivningsperioden bør likevel ikke være lengre enn5 år for IKT-utstyr og programvare, kontormaskiner og lignende10 år for inventar og innredning, større utstyr, verktøy og maskiner, kjøretøy og lignende20 år for større nyttekjøretøy, større anleggsmaskiner og lignende40 år for barnehagelokaler, skolelokaler, idrettshaller og idrettsanlegg, boliger og lokaler til bofellesskap, veger og parkeringsplasser og lignende50 år for kirker, krematorier, orgler, gravplasser, installasjoner på gravplasser, administrasjonslokaler, menighetshus, institusjonslokaler, kulturbygg og lignende.
+(4) Anleggsmidler skal vurderes til anskaffelseskost. Anleggsmidler som har begrenset utnyttbar levetid, avskrives over den utnyttbare levetiden til anleggsmidlet. Avskrivningsperioden bør likevel ikke være lengre enn
+
+1. 5 år for IKT-utstyr og programvare, kontormaskiner og lignende
+2. 10 år for inventar og innredning, større utstyr, verktøy og maskiner, kjøretøy og lignende
+3. 20 år for større nyttekjøretøy, større anleggsmaskiner og lignende
+4. 40 år for barnehagelokaler, skolelokaler, idrettshaller og idrettsanlegg, boliger og lokaler til bofellesskap, veger og parkeringsplasser og lignende
+5. 50 år for kirker, krematorier, orgler, gravplasser, installasjoner på gravplasser, administrasjonslokaler, menighetshus, institusjonslokaler, kulturbygg og lignende.
 
 (5) Avskrivningene skal være lineære, så fremt ikke noe annet følger av god kommunal regnskapsskikk.
 
@@ -171,7 +222,18 @@ Soknets organer er ansvarlig for at det foretas endringer i årsbudsjettet når 
 
 ## § 16. Noter til årsregnskapet
 
-(1) I årsregnskapet skal det gis følgende tilleggsopplysninger i noter så langt opplysningene er aktuelle, med tydelig henvisning til hvilke elementer i årsregnskapet de knytter seg til:Det skal opplyses om forutsetninger (øremerking) for tilskuddet fra kommunen samt om verdien av kommunal tjenesteyting.Det skal gis en redegjørelse for pensjonsordning og pensjonsleverandør. Det skal som et minimum opplyses om brutto påløpt pensjonsforpliktelse, pensjonsmidler og netto pensjonsforpliktelse.For hver gruppe av varige driftsmidler skal det opplyses om avskrivningsperioder. For hver gruppe av varige driftsmidler skal det også opplyses om balanseført verdi ved inngangen av året, årets tilgang, avgang, avskrivninger, nedskrivninger og eventuelle reverseringer av nedskrivninger, og balanseført verdi ved utgangen av året.Aksjer og andeler i selskaper som er ført opp som anleggsmidler skal spesifiseres etter selskap. Det skal opplyses om balanseført verdi, eventuell markedsverdi og eierandel i hvert selskap.Det skal gis en spesifikasjon over samlede avsetninger og bruk av avsetninger i regnskapsåret, samlet og for den enkelte fondstype.Det skal opplyses om foretatte strykninger av vedtatte avsetninger/bruk av fond, overføring drift/investering samt inndekning merforbruk, jf. [§ 17](forskrift/2020-12-08-2646/§17).Det skal gis en sammenfattende oversikt over transaksjoner som er ført mot kapitalkontoen i løpet av regnskapsåret.Det skal opplyses om ytelser til daglig leder i virksomheten og de samlede ytelsene til valgte medlemmer i det øverste organet.I forbindelse med sammenslåinger av sokn og organ for sokn på kommunenivå, skal det gis opplysninger i siste årsregnskap om interne mellomværende med sokn og organ for sokn som slås sammen spesifisert for omløpsmidler, anleggsmidler, kortsiktig og langsiktig gjeld. I første årsregnskap i nye sokn og organ for sokn på kommunenivå gis informasjon om etableringen av åpningsbalansen, herunder forskjellen mellom balanseverdier i de gamle sokn og organ for sokn per 31. desember foregående regnskapsår og åpningsbalansen.Det skal også gis noteopplysninger om andre forhold dersom opplysningene ikke framgår av årsregnskapet for øvrig og er vesentlige for vurderingen av den økonomiske utviklingen og stillingen.
+(1) I årsregnskapet skal det gis følgende tilleggsopplysninger i noter så langt opplysningene er aktuelle, med tydelig henvisning til hvilke elementer i årsregnskapet de knytter seg til:
+
+1. Det skal opplyses om forutsetninger (øremerking) for tilskuddet fra kommunen samt om verdien av kommunal tjenesteyting.
+2. Det skal gis en redegjørelse for pensjonsordning og pensjonsleverandør. Det skal som et minimum opplyses om brutto påløpt pensjonsforpliktelse, pensjonsmidler og netto pensjonsforpliktelse.
+3. For hver gruppe av varige driftsmidler skal det opplyses om avskrivningsperioder. For hver gruppe av varige driftsmidler skal det også opplyses om balanseført verdi ved inngangen av året, årets tilgang, avgang, avskrivninger, nedskrivninger og eventuelle reverseringer av nedskrivninger, og balanseført verdi ved utgangen av året.
+4. Aksjer og andeler i selskaper som er ført opp som anleggsmidler skal spesifiseres etter selskap. Det skal opplyses om balanseført verdi, eventuell markedsverdi og eierandel i hvert selskap.
+5. Det skal gis en spesifikasjon over samlede avsetninger og bruk av avsetninger i regnskapsåret, samlet og for den enkelte fondstype.
+6. Det skal opplyses om foretatte strykninger av vedtatte avsetninger/bruk av fond, overføring drift/investering samt inndekning merforbruk, jf. [§ 17](forskrift/2020-12-08-2646/§17).
+7. Det skal gis en sammenfattende oversikt over transaksjoner som er ført mot kapitalkontoen i løpet av regnskapsåret.
+8. Det skal opplyses om ytelser til daglig leder i virksomheten og de samlede ytelsene til valgte medlemmer i det øverste organet.
+9. I forbindelse med sammenslåinger av sokn og organ for sokn på kommunenivå, skal det gis opplysninger i siste årsregnskap om interne mellomværende med sokn og organ for sokn som slås sammen spesifisert for omløpsmidler, anleggsmidler, kortsiktig og langsiktig gjeld. I første årsregnskap i nye sokn og organ for sokn på kommunenivå gis informasjon om etableringen av åpningsbalansen, herunder forskjellen mellom balanseverdier i de gamle sokn og organ for sokn per 31. desember foregående regnskapsår og åpningsbalansen.
+10. Det skal også gis noteopplysninger om andre forhold dersom opplysningene ikke framgår av årsregnskapet for øvrig og er vesentlige for vurderingen av den økonomiske utviklingen og stillingen.
 
 (2) Notene skal nummereres. I oppstillingene i årsregnskapet skal det så langt som mulig gis henvisninger fra regnskapsposter til tilhørende note.
 
@@ -181,7 +243,11 @@ Soknets organer er ansvarlig for at det foretas endringer i årsbudsjettet når 
 
 (2) Ved avslutningen av driftsregnskapet skal bruk av og avsetning til disposisjonsfond, overføring fra drift til investering og dekning av tidligere års merforbruk regnskapsføres i samsvar med budsjettet. Overføring fra drift til investering skal likevel reduseres dersom det er nødvendig for å unngå avsetning av løpende inntekter til investeringsfond.
 
-(3) Dersom driftsregnskapet viser et mindreforbruk, skal mindreforbruket reduseres så mye som mulig ved å stryke bruk av disposisjonsfond. Dersom driftsregnskapet viser et merforbruk, skal dette reduseres så mye som mulig ved å:stryke overføring til investeringstryke avsetning til disposisjonsfondstryke inndekning av tidligere års merforbruk.
+(3) Dersom driftsregnskapet viser et mindreforbruk, skal mindreforbruket reduseres så mye som mulig ved å stryke bruk av disposisjonsfond. Dersom driftsregnskapet viser et merforbruk, skal dette reduseres så mye som mulig ved å:
+
+1. stryke overføring til investering
+2. stryke avsetning til disposisjonsfond
+3. stryke inndekning av tidligere års merforbruk.
 
 (4) Strykninger av budsjettert inndekning av tidligere års regnskapsmessige merforbruk kan først skje når strykninger etter tredje ledd bokstav a og b er gjennomført.
 
@@ -193,7 +259,11 @@ Soknets organer er ansvarlig for at det foretas endringer i årsbudsjettet når 
 
 (8) Ved avslutningen av investeringsregnskapet skal bruk av fond og avsetning til investeringsfond, overføring fra drift til investering og dekning av tidligere års merforbruk regnskapsføres i samsvar med budsjettet. Dersom utgifter og avsetninger i investeringsregnskapet ikke fullt ut kan finansieres av inntekter og bruk av avsetninger i investeringsregnskapet, skal det udekkede beløpet reduseres så mye som mulig ved å stryke avsetninger til ubundet fond. Hvis investeringsregnskapet fortsatt viser udekket beløp etter strykninger, skal det udekkede beløpet føres opp til dekning på investeringsbudsjettet i det år regnskapet legges fram.
 
-(9) Hvis investeringsregnskapet viser et udisponert beløp etter at disposisjonene i åttende ledd er gjennomført, skal det udisponerte beløpet reduseres så mye som mulig ved åstryke overføring fra driftstryke bruk av lånstryke bruk av ubundet investeringsfond.
+(9) Hvis investeringsregnskapet viser et udisponert beløp etter at disposisjonene i åttende ledd er gjennomført, skal det udisponerte beløpet reduseres så mye som mulig ved å
+
+1. stryke overføring fra drift
+2. stryke bruk av lån
+3. stryke bruk av ubundet investeringsfond.
 
 (10) Hvis investeringsregnskapet viser et udisponert beløp etter at strykningene i niende ledd er gjennomført, skal det udisponerte beløpet føres opp til inntekt i investeringsbudsjettet i det året regnskapet legges fram.
 
@@ -225,13 +295,25 @@ Soknets organer er ansvarlig for at det foretas endringer i årsbudsjettet når 
 
 (1) Soknets organer skal vedta bestemmelser om økonomiforvaltningen i eget økonomireglement.
 
-(2) Dette skal minst inneholde bestemmelser om:delegering av myndighetutarbeidelse av budsjettforslag til kommunenvedtak og endring av årsbudsjettintern rapportering og budsjettoppfølgingframleggelse av årsregnskap og årsberetning.
+(2) Dette skal minst inneholde bestemmelser om:
+
+1. delegering av myndighet
+2. utarbeidelse av budsjettforslag til kommunen
+3. vedtak og endring av årsbudsjett
+4. intern rapportering og budsjettoppfølging
+5. framleggelse av årsregnskap og årsberetning.
 
 (3) Økonomireglementet for sokn i kommuner med flere sokn skal godkjennes av organ for soknet på kommunenivå.
 
 ## § 21. Finansforvaltning
 
-(1) I den grad finansformue plasseres i annet enn bankinnskudd, skal et finansreglement ta stilling til:formålet med forvaltningengenerelle rammer og begrensninger for forvaltningenfinansiell risikorisikospredningrutiner for rapportering fra forvalter.
+(1) I den grad finansformue plasseres i annet enn bankinnskudd, skal et finansreglement ta stilling til:
+
+1. formålet med forvaltningen
+2. generelle rammer og begrensninger for forvaltningen
+3. finansiell risiko
+4. risikospredning
+5. rutiner for rapportering fra forvalter.
 
 (2) Midler tilhørende bundne fonds skal ikke plasseres slik at de utsettes for finansiell risiko.
 

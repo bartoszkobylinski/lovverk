@@ -30,7 +30,11 @@ Når et departement fatter vedtak etter [sikkerhetsloven § 1-3](lov/2018-06-01-
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med*skjermingsverdige verdier:* skjermingsverdig informasjon, skjermingsverdige informasjonssystemer, skjermingsverdig infrastruktur og skjermingsverdige objekter*dokument:* en logisk avgrenset mengde med informasjon som er lagret på et medium for senere lesing, lytting, framføring, overføring eller lignende*lagringsmedium:* en elektronisk eller fysisk enhet for lagring av informasjon til bruk for senere lesing, lytting, framføring, overføring eller lignende.
+I denne forskriften menes med
+
+1. *skjermingsverdige verdier:* skjermingsverdig informasjon, skjermingsverdige informasjonssystemer, skjermingsverdig infrastruktur og skjermingsverdige objekter
+2. *dokument:* en logisk avgrenset mengde med informasjon som er lagret på et medium for senere lesing, lytting, framføring, overføring eller lignende
+3. *lagringsmedium:* en elektronisk eller fysisk enhet for lagring av informasjon til bruk for senere lesing, lytting, framføring, overføring eller lignende.
 
 ## Kapittel 2. Sikkerhetsstyring
 
@@ -40,7 +44,11 @@ En virksomhet som omfattes av sikkerhetsloven, skal etablere et styringssystem f
 
 ### § 4. Styringsdokument for det forebyggende sikkerhetsarbeidet
 
-Lederen for en virksomhet skal fastsette et styringsdokument som beskriverhvilke deler av sikkerhetsloven med forskrifter som gjelder for virksomhetenroller og ansvar i virksomhetens forebyggende sikkerhetsarbeid, jf. [§ 6](forskrift/2018-12-20-2053/§6)prinsipper for virksomhetens sikkerhetsarbeid.
+Lederen for en virksomhet skal fastsette et styringsdokument som beskriver
+
+1. hvilke deler av sikkerhetsloven med forskrifter som gjelder for virksomheten
+2. roller og ansvar i virksomhetens forebyggende sikkerhetsarbeid, jf. [§ 6](forskrift/2018-12-20-2053/§6)
+3. prinsipper for virksomhetens sikkerhetsarbeid.
 
 Styringsdokumentet skal gjøres kjent og være tilgjengelig for virksomhetens ansatte og for leverandører og andre eksterne samarbeidspartnere, i den grad det er nødvendig for å oppfylle virksomhetens plikter etter sikkerhetsloven.
 
@@ -60,7 +68,13 @@ Kontrollen av styringssystemet for sikkerhet skal om mulig utføres av andre enn
 
 En virksomhet skal forvalte og utvikle det forebyggende sikkerhetsarbeidet sitt på en forsvarlig måte.
 
-Virksomheten skal utføre følgende tiltak overfor de som kan få tilgang til skjermingsverdige verdier gjennom å utføre arbeid eller tjenester for virksomheten:få bekreftet identiteten deres med gyldig legitimasjonsørge for at de kjenner til de relevante delene av styringssystemet for sikkerhetsørge for tilstrekkelig kompetanse om sikkerhetinformere om endringer i kravene til sikkerhetenklarlegge at personene kjenner til relevante sikkerhetstrusler og sikkerhetsbestemmelser.
+Virksomheten skal utføre følgende tiltak overfor de som kan få tilgang til skjermingsverdige verdier gjennom å utføre arbeid eller tjenester for virksomheten:
+
+1. få bekreftet identiteten deres med gyldig legitimasjon
+2. sørge for at de kjenner til de relevante delene av styringssystemet for sikkerhet
+3. sørge for tilstrekkelig kompetanse om sikkerhet
+4. informere om endringer i kravene til sikkerheten
+5. klarlegge at personene kjenner til relevante sikkerhetstrusler og sikkerhetsbestemmelser.
 
 Når et arbeidsforhold eller en tjeneste avsluttes, skal virksomheten sikre at den som slutter, ikke lenger har tilgang til skjermingsverdige verdier. Den som slutter, skal informeres om at taushetsplikten etter [sikkerhetsloven § 5-4](lov/2018-06-01-24/§5-4) andre ledd fremdeles gjelder.
 
@@ -92,7 +106,14 @@ En virksomhet skal dokumentere at styringssystemet for sikkerhet og sikkerhetsti
 
 ### § 12. Vurdering av risiko
 
-Når en virksomhet vurderer risiko, skal den ta hensyn tilhvilken betydning virksomhetens skjermingsverdige verdier har for grunnleggende nasjonale funksjoner eller nasjonale sikkerhetsinteresserhvilken sikkerhetstruende virksomhet de skjermingsverdige verdiene kan bli utsatt forsannsynligheten for at sikkerhetstruende virksomhet kan inntreffehvilke sårbarheter som er knyttet til de skjermingsverdige verdienekonsekvensen av sikkerhetstruende virksomhet for de skjermingsverdige verdienei hvilken grad virksomheten er avhengig av andre virksomheter for å fungere som den skal.
+Når en virksomhet vurderer risiko, skal den ta hensyn til
+
+1. hvilken betydning virksomhetens skjermingsverdige verdier har for grunnleggende nasjonale funksjoner eller nasjonale sikkerhetsinteresser
+2. hvilken sikkerhetstruende virksomhet de skjermingsverdige verdiene kan bli utsatt for
+3. sannsynligheten for at sikkerhetstruende virksomhet kan inntreffe
+4. hvilke sårbarheter som er knyttet til de skjermingsverdige verdiene
+5. konsekvensen av sikkerhetstruende virksomhet for de skjermingsverdige verdiene
+6. i hvilken grad virksomheten er avhengig av andre virksomheter for å fungere som den skal.
 
 Behovet for å gjennomføre en ny helhetlig vurdering av risikoen skal vurderes årlig.
 
@@ -100,13 +121,25 @@ Dersom det planlegges, gjennomføres eller inntreffer endringer som kan påvirke
 
 ### § 13. Håndtering av risiko
 
-Når en virksomhet skal håndtere en risiko, skal den vurdereom risikoen er akseptabelå endre sårbarheten til de skjermingsverdige verdiene ved grunnsikringstiltak og påbyggingstiltakhvordan virksomheten kan påvirke konsekvensene som kan inntreffe dersom de skjermingsverdige verdiene rammes, for eksempel ved å endre redundansen eller iverksette tiltak for skadebegrensning og gjenopprettelseå gjøre seg mindre avhengig av andre virksomheterå håndtere risikoen på andre måter.
+Når en virksomhet skal håndtere en risiko, skal den vurdere
+
+1. om risikoen er akseptabel
+2. å endre sårbarheten til de skjermingsverdige verdiene ved grunnsikringstiltak og påbyggingstiltak
+3. hvordan virksomheten kan påvirke konsekvensene som kan inntreffe dersom de skjermingsverdige verdiene rammes, for eksempel ved å endre redundansen eller iverksette tiltak for skadebegrensning og gjenopprettelse
+4. å gjøre seg mindre avhengig av andre virksomheter
+5. å håndtere risikoen på andre måter.
 
 Virksomheten skal sende en oversikt over andre virksomheter den er avhengig av for å fungere som den skal, til Nasjonal sikkerhetsmyndighet og det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet i sektoren.
 
 ### § 14. Grunnsikringstiltak, påbyggingstiltak og tiltak for skadebegrensning og gjenoppretting
 
-Grunnsikringstiltak skal bidra til et forsvarlig sikkerhetsnivå i virksomheter i en normaltilstand. Grunnsikringstiltakene kan værefysiske, elektroniske, menneskelige eller organisatoriske barrierersystemer som skal oppdage og varsle om aktiviteter eller hendelsersystemer og rutiner for å avklare aktiviteter og hendelser og bakgrunnen for demoppfølging av uønskede aktiviteter og uønskede hendelseren kombinasjon av tiltakene nevnt i bokstav a til d.
+Grunnsikringstiltak skal bidra til et forsvarlig sikkerhetsnivå i virksomheter i en normaltilstand. Grunnsikringstiltakene kan være
+
+1. fysiske, elektroniske, menneskelige eller organisatoriske barrierer
+2. systemer som skal oppdage og varsle om aktiviteter eller hendelser
+3. systemer og rutiner for å avklare aktiviteter og hendelser og bakgrunnen for dem
+4. oppfølging av uønskede aktiviteter og uønskede hendelser
+5. en kombinasjon av tiltakene nevnt i bokstav a til d.
 
 En virksomhet skal, i god tid før en skjermingsverdig verdi etableres, fastsette hvilke grunnsikringstiltak som skal beskytte den. Virksomheten skal også vurdere om det er behov for slike tiltak i forbindelse med avviklingen av den skjermingsverdien verdien.
 
@@ -120,7 +153,13 @@ Virksomheten skal ha en plan for å gjenopprette et forsvarlig sikkerhetsnivå.
 
 ### § 15. Prinsipper ved valg og utforming av sikkerhetstiltak
 
-Når en virksomhet velger ut og utformer sikkerhetstiltak, skal følgende prinsipper legges til grunn:Sikkerhetstiltakene skal ikke ha en annen funksjonalitet eller større kompleksitet enn nødvendig.Det skal ikke gis en mer omfattende tilgang til skjermingsverdige verdier enn nødvendig.Svikt i ett enkelt tiltak skal ikke kunne føre til kompromittering av skjermingsverdige verdier.Sikkerhetstiltak skal i minst mulig grad være avhengige av hverandre, og flere sikkerhetstiltak skal dermed ikke kunne svekkes eller settes ut av funksjon samtidig, for eksempel som følge av én enkelt feil eller hendelse.Effekten av sikkerhetstiltakene skal være tilnærmet lik for alle skjermingsverdige verdier med samme sikkerhetsbehov.
+Når en virksomhet velger ut og utformer sikkerhetstiltak, skal følgende prinsipper legges til grunn:
+
+1. Sikkerhetstiltakene skal ikke ha en annen funksjonalitet eller større kompleksitet enn nødvendig.
+2. Det skal ikke gis en mer omfattende tilgang til skjermingsverdige verdier enn nødvendig.
+3. Svikt i ett enkelt tiltak skal ikke kunne føre til kompromittering av skjermingsverdige verdier.
+4. Sikkerhetstiltak skal i minst mulig grad være avhengige av hverandre, og flere sikkerhetstiltak skal dermed ikke kunne svekkes eller settes ut av funksjon samtidig, for eksempel som følge av én enkelt feil eller hendelse.
+5. Effekten av sikkerhetstiltakene skal være tilnærmet lik for alle skjermingsverdige verdier med samme sikkerhetsbehov.
 
 Sikkerhetstiltakene skal være samordnet. Kostnadene ved et sikkerhetstiltak skal stå i et rimelig forhold til det som kan oppnås ved tiltaket.
 
@@ -130,7 +169,11 @@ Når et sikkerhetstiltak kan gripe inn i enkeltpersoners rettssikkerhet eller pe
 
 ### § 16. Krav om bruk av evaluerte produkter og tjenester
 
-Når en virksomhet velger sikkerhetstiltak, skal den bruke evaluerte produkter og tjenester dersom produktets eller tjenestens funksjon i seg selv er avgjørende for atpersoner ikke får tilgang til informasjon gradert HEMMELIG eller STRENGT HEMMELIG uten å ha et tjenstlig behov for detpersoner ikke får tilgang til sikkerhetsgradert informasjon de ikke er autorisert forpersoner ikke kan overta eller sette ut av drift infrastruktur eller objekter som er klassifisert KRITISK eller MEGET KRITISK.
+Når en virksomhet velger sikkerhetstiltak, skal den bruke evaluerte produkter og tjenester dersom produktets eller tjenestens funksjon i seg selv er avgjørende for at
+
+1. personer ikke får tilgang til informasjon gradert HEMMELIG eller STRENGT HEMMELIG uten å ha et tjenstlig behov for det
+2. personer ikke får tilgang til sikkerhetsgradert informasjon de ikke er autorisert for
+3. personer ikke kan overta eller sette ut av drift infrastruktur eller objekter som er klassifisert KRITISK eller MEGET KRITISK.
 
 Evalueringen skal skje gjennom metodisk utvikling og testing av produktet eller tjenesten og være etterprøvbar. Den skal utføres av Nasjonal sikkerhetsmyndighet eller et akkreditert laboratorium utpekt av Nasjonal sikkerhetsmyndighet, gi tillit til produktet eller tjenesten og sikre at produktet eller tjenesten har nødvendig funksjonalitet for å sikre det aktuelle graderingsnivået eller klassifiseringsnivået. Nasjonal sikkerhetsmyndighet kan godkjenne bruk av produkter og tjenester som er evaluert eller sertifisert i andre land.
 
@@ -148,7 +191,15 @@ Dersom en anskaffelse gir tilgang til skjermingsverdige informasjonssystemer ell
 
 ### § 19. Varslingsplikt om anskaffelser til skjermingsverdig informasjonssystem, objekt og infrastruktur
 
-Et varsel etter [sikkerhetsloven § 9-4](lov/2018-06-01-24/§9-4) skal opplyse om følgende:hva anskaffelsen gjelderleverandørens navn, adresse, organisasjonsnummer, nasjonalitet, styremedlemmer og eierehvordan oppdragsgiveren vurderer risikoen for at skjermingsverdige verdier kan bli rammet av sikkerhetstruende virksomhet ved anskaffelsenhvordan oppdragsgiveren vil håndtere risikoenom det vil gjenstå en ikke ubetydelig risiko også etter at tiltak er iverksattom anskaffelsen likevel bør gjennomføresandre forhold som oppdragsgiveren antar kan ha betydning for vurderingen av risikoen forbundet med anskaffelsen.
+Et varsel etter [sikkerhetsloven § 9-4](lov/2018-06-01-24/§9-4) skal opplyse om følgende:
+
+1. hva anskaffelsen gjelder
+2. leverandørens navn, adresse, organisasjonsnummer, nasjonalitet, styremedlemmer og eiere
+3. hvordan oppdragsgiveren vurderer risikoen for at skjermingsverdige verdier kan bli rammet av sikkerhetstruende virksomhet ved anskaffelsen
+4. hvordan oppdragsgiveren vil håndtere risikoen
+5. om det vil gjenstå en ikke ubetydelig risiko også etter at tiltak er iverksatt
+6. om anskaffelsen likevel bør gjennomføres
+7. andre forhold som oppdragsgiveren antar kan ha betydning for vurderingen av risikoen forbundet med anskaffelsen.
 
 Med anskaffelse i [sikkerhetsloven § 9-4](lov/2018-06-01-24/§9-4) menes også tilleggsanskaffelser og kontrakter som tildeles under en rammeavtale.
 
@@ -188,7 +239,11 @@ En virksomhet skal for nødsituasjoner ha en evakueringsplan og en plan for dest
 
 ### § 25. Utlevering av sikkerhetsgradert informasjon til fremmede stater og internasjonale organisasjoner
 
-Fremmede stater og internasjonale organisasjoner kan bare gis tilgang til norsk sikkerhetsgradert informasjon dersom deter i samsvar med nasjonale sikkerhetsinteresserikke er i strid med lovbestemt taushetsplikt ogforeligger en sikkerhetsavtale mellom Norge og den aktuelle staten eller internasjonale organisasjonen.
+Fremmede stater og internasjonale organisasjoner kan bare gis tilgang til norsk sikkerhetsgradert informasjon dersom det
+
+1. er i samsvar med nasjonale sikkerhetsinteresser
+2. ikke er i strid med lovbestemt taushetsplikt og
+3. foreligger en sikkerhetsavtale mellom Norge og den aktuelle staten eller internasjonale organisasjonen.
 
 Når myndigheter eller virksomheter i andre stater eller internasjonale organisasjoner skal ha tilgang til sikkerhetsgradert informasjon, skal informasjonen behandles i samsvar med bestemmelsene i sikkerhetsavtalen som er inngått mellom Norge og den aktuelle staten eller organisasjonen.
 
@@ -228,7 +283,12 @@ Hvis det er behov for å beskytte informasjon som er over 30 år, skal avgraderi
 
 ### § 30. Omgradering av sikkerhetsgradert informasjon
 
-Virksomheten skal vurdere å omgradere sikkerhetsgradert informasjon dersomden mottar et varsel om feil gradering etter [§ 32](forskrift/2018-12-20-2053/§32)den mottar en henvendelse om innsyn som nevnt i [§ 33](forskrift/2018-12-20-2053/§33)den avleverer dokumenter til Arkivverketdet ellers oppstår grunn til å tro at beskyttelsesbehovet for informasjonen har endret seg.
+Virksomheten skal vurdere å omgradere sikkerhetsgradert informasjon dersom
+
+1. den mottar et varsel om feil gradering etter [§ 32](forskrift/2018-12-20-2053/§32)
+2. den mottar en henvendelse om innsyn som nevnt i [§ 33](forskrift/2018-12-20-2053/§33)
+3. den avleverer dokumenter til Arkivverket
+4. det ellers oppstår grunn til å tro at beskyttelsesbehovet for informasjonen har endret seg.
 
 En omgradering kan gå ut på å fastsette en annen sikkerhetsgrad etter [sikkerhetsloven § 5-3](lov/2018-06-01-24/§5-3) første ledd eller å avgradere informasjonen.
 
@@ -254,7 +314,11 @@ Dersom informasjon som er omfattet av retten til partsinnsyn etter forvaltningsl
 
 ### § 34. Forsvarlig sikkerhetsnivå for informasjon gradert KONFIDENSIELT eller høyere
 
-Når en virksomhet håndterer en risiko knyttet til sikkerhetsgradert informasjon etter [§ 13](forskrift/2018-12-20-2053/§13), er kravet til et forsvarlig sikkerhetsnivå oppfylt dersomuautoriserte personer ikke kan få tilgang til informasjon gradert KONFIDENSIELT eller høyere, uten at virksomheten oppdager detuautoriserte personer ikke kan få tilgang til informasjon gradert HEMMELIG eller høyere, uten at virksomheten oppdager det og kan begrense skadefølgenerisikoen for at uautoriserte personer får tilgang til informasjon gradert STRENGT HEMMELIG reduseres til et ubetydelig nivå.
+Når en virksomhet håndterer en risiko knyttet til sikkerhetsgradert informasjon etter [§ 13](forskrift/2018-12-20-2053/§13), er kravet til et forsvarlig sikkerhetsnivå oppfylt dersom
+
+1. uautoriserte personer ikke kan få tilgang til informasjon gradert KONFIDENSIELT eller høyere, uten at virksomheten oppdager det
+2. uautoriserte personer ikke kan få tilgang til informasjon gradert HEMMELIG eller høyere, uten at virksomheten oppdager det og kan begrense skadefølgene
+3. risikoen for at uautoriserte personer får tilgang til informasjon gradert STRENGT HEMMELIG reduseres til et ubetydelig nivå.
 
 ### § 35. Sending av informasjon gradert KONFIDENSIELT eller høyere
 
@@ -338,7 +402,12 @@ En virksomhet skal be Nasjonal sikkerhetsmyndighet vurdere om det skal gjennomf�
 
 ### § 47. Tekniske sikkerhetsundersøkelser (TSU)
 
-I vurderingen av om tekniske sikkerhetsundersøkelser etter [sikkerhetsloven § 5-5](lov/2018-06-01-24/§5-5) skal gjennomføres, skal det legges vekt påom den aktuelle virksomheten kontrollerer områdene som grenser til lokalet, bygningen eller objektetom lokalet, bygningen eller objektet befinner seg i utlandethvilket graderingsnivå informasjonen i tale som skal forekomme i lokalet, bygningen eller objektet, oppfyller vilkårene forom det er en risiko for at uvedkommende har hatt tilgang til lokalet, bygningen eller objektet siden forrige tekniske sikkerhetsundersøkelse der.
+I vurderingen av om tekniske sikkerhetsundersøkelser etter [sikkerhetsloven § 5-5](lov/2018-06-01-24/§5-5) skal gjennomføres, skal det legges vekt på
+
+1. om den aktuelle virksomheten kontrollerer områdene som grenser til lokalet, bygningen eller objektet
+2. om lokalet, bygningen eller objektet befinner seg i utlandet
+3. hvilket graderingsnivå informasjonen i tale som skal forekomme i lokalet, bygningen eller objektet, oppfyller vilkårene for
+4. om det er en risiko for at uvedkommende har hatt tilgang til lokalet, bygningen eller objektet siden forrige tekniske sikkerhetsundersøkelse der.
 
 Det skal inngås en avtale med virksomheten om hvilket personell som skal stå for undersøkelsen, og hva undersøkelsen skal omfatte.
 
@@ -356,7 +425,15 @@ Nasjonal sikkerhetsmyndighet kan la andre virksomheter utføre tekniske sikkerhe
 
 ### § 49. Forsvarlig sikkerhetsnivå for skjermingsverdige informasjonssystemer
 
-Når en virksomhet håndterer en risiko knyttet til skjermingsverdige informasjonssystemer etter [§ 13](forskrift/2018-12-20-2053/§13), skal den oppnå et forsvarlig sikkerhetsnivå ved åbeskytte data mot uønsket lesing og beskytte tjenester mot uønsket brukbeskytte data mot uønsket modifikasjon og beskytte tjenester mot uønsket modifikasjon og manipulasjonbeskytte data mot uønsket sletting og beskytte tjenester mot uønsket reduksjon eller stansidentifisere og autentisere brukere som kan påvirke informasjonssystemets funksjon, eller som kan få tilgang til data i systemet, før de gis tilgang til data og tjenesterforhindre at falske data og tjenester introduseres i informasjonssystemetregistrere bruk, misbruk og forsøk på misbruk av informasjonssystemet, tjenester og datasystematisk kontrollere at sikkerhetstiltakene er korrekt implementert og ivaretar sikkerheten på en effektiv og hensiktsmessig måte.
+Når en virksomhet håndterer en risiko knyttet til skjermingsverdige informasjonssystemer etter [§ 13](forskrift/2018-12-20-2053/§13), skal den oppnå et forsvarlig sikkerhetsnivå ved å
+
+1. beskytte data mot uønsket lesing og beskytte tjenester mot uønsket bruk
+2. beskytte data mot uønsket modifikasjon og beskytte tjenester mot uønsket modifikasjon og manipulasjon
+3. beskytte data mot uønsket sletting og beskytte tjenester mot uønsket reduksjon eller stans
+4. identifisere og autentisere brukere som kan påvirke informasjonssystemets funksjon, eller som kan få tilgang til data i systemet, før de gis tilgang til data og tjenester
+5. forhindre at falske data og tjenester introduseres i informasjonssystemet
+6. registrere bruk, misbruk og forsøk på misbruk av informasjonssystemet, tjenester og data
+7. systematisk kontrollere at sikkerhetstiltakene er korrekt implementert og ivaretar sikkerheten på en effektiv og hensiktsmessig måte.
 
 Sikkerhetstiltakene skal være tilpasset systemets totale omfang og kompleksitet gjennom hele systemets levetid.
 
@@ -372,7 +449,14 @@ En virksomhet skal sørge for at informasjonssystemer som skal behandle sikkerhe
 
 Nasjonal sikkerhetsmyndighet godkjenner skjermingsverdige informasjonssystemer som er utpekt som, eller har avgjørende betydning for funksjonen til, et objekt eller en infrastruktur klassifisert KRITISK eller MEGET KRITISK.
 
-Nasjonal sikkerhetsmyndighet godkjenner informasjonssystemer som behandler sikkerhetsgradert informasjon og somskal brukes i utlandethar forbindelse til informasjonssystemer i utlandet eller til andre virksomheters informasjonssystemerbrukes eller har forbindelser utenfor områder virksomheten kontrollererhar brukere som ikke er sikkerhetsklarert for det graderingsnivået som behandles i informasjonssystemet eller informasjonssystemer dette har forbindelse tilbehandler informasjon som er gradert HEMMELIG, og som har brukere som ikke skal ha tilgang til all informasjon i informasjonssystemet eller de informasjonssystemer dette har forbindelse tilbehandler informasjon som er gradert STRENGT HEMMELIG.
+Nasjonal sikkerhetsmyndighet godkjenner informasjonssystemer som behandler sikkerhetsgradert informasjon og som
+
+1. skal brukes i utlandet
+2. har forbindelse til informasjonssystemer i utlandet eller til andre virksomheters informasjonssystemer
+3. brukes eller har forbindelser utenfor områder virksomheten kontrollerer
+4. har brukere som ikke er sikkerhetsklarert for det graderingsnivået som behandles i informasjonssystemet eller informasjonssystemer dette har forbindelse til
+5. behandler informasjon som er gradert HEMMELIG, og som har brukere som ikke skal ha tilgang til all informasjon i informasjonssystemet eller de informasjonssystemer dette har forbindelse til
+6. behandler informasjon som er gradert STRENGT HEMMELIG.
 
 En virksomhet som råder over et skjermingsverdig informasjonssystem som ikke er nevnt i første eller andre ledd, skal selv godkjenne systemet. Nasjonal sikkerhetsmyndighet og relevante tilsynsmyndigheter skal informeres om slike informasjonssystemer.
 
@@ -382,7 +466,12 @@ Departementet som har utpekt det skjermingsverdige objektet eller infrastrukture
 
 ### § 52. Godkjenningen av et skjermingsverdig informasjonssystem
 
-Godkjenningen av et skjermingsverdig informasjonssystem er en planlagt og systematisk gjennomgang av om virksomheten har oppnådd et forsvarlig sikkerhetsnivå. Virksomheten skal dokumentere at den på en tilfredsstillende måte har vurdert og håndtert risikoen, og den skal i forbindelse med dette haidentifisert behovet for beskyttelse, basert på informasjonssystemets funksjon og operative miljøfastsatt sikkerhetskrav ut fra behovet for beskyttelseetablert sikkerhetstiltak som oppfyller sikkerhetskravene gjennom hele informasjonssystemets levetidkontrollert at sikkerhetstiltakene fungerer etter sin hensikt.
+Godkjenningen av et skjermingsverdig informasjonssystem er en planlagt og systematisk gjennomgang av om virksomheten har oppnådd et forsvarlig sikkerhetsnivå. Virksomheten skal dokumentere at den på en tilfredsstillende måte har vurdert og håndtert risikoen, og den skal i forbindelse med dette ha
+
+1. identifisert behovet for beskyttelse, basert på informasjonssystemets funksjon og operative miljø
+2. fastsatt sikkerhetskrav ut fra behovet for beskyttelse
+3. etablert sikkerhetstiltak som oppfyller sikkerhetskravene gjennom hele informasjonssystemets levetid
+4. kontrollert at sikkerhetstiltakene fungerer etter sin hensikt.
 
 ### § 53. Godkjenningens varighet
 
@@ -390,7 +479,11 @@ En godkjenning av et skjermingsverdig informasjonssystem kan gis for inntil fem 
 
 ### § 54. Midlertidig brukstillatelse
 
-Foreligger det et særlig behov for å ta i bruk et skjermingsverdig informasjonssystem før det er godkjent, kan godkjenningsmyndigheten gi midlertidig brukstillatelse dersombehovet for beskyttelse er identifisert, basert på informasjonssystemets funksjon og operative miljømangler som er forbundet med fastlegging av sikkerhetskrav, etablering av sikkerhetstiltak og sikkerhetstiltakenes funksjon, er identifisert og håndtert med kompenserende tiltakdet foreligger en plan for å rette manglene.
+Foreligger det et særlig behov for å ta i bruk et skjermingsverdig informasjonssystem før det er godkjent, kan godkjenningsmyndigheten gi midlertidig brukstillatelse dersom
+
+1. behovet for beskyttelse er identifisert, basert på informasjonssystemets funksjon og operative miljø
+2. mangler som er forbundet med fastlegging av sikkerhetskrav, etablering av sikkerhetstiltak og sikkerhetstiltakenes funksjon, er identifisert og håndtert med kompenserende tiltak
+3. det foreligger en plan for å rette manglene.
 
 Nasjonal sikkerhetsmyndighet kan i særlige tilfeller dispensere fra kravene i første ledd.
 
@@ -404,7 +497,10 @@ Slike sammenkoblinger skal reguleres i avtaler mellom de aktuelle virksomhetene.
 
 ### § 56. Klassifisering av skjermingsverdige objekter og infrastruktur
 
-Når departementene eller Nasjonal sikkerhetsmyndighet klassifiserer skjermingsverdige objekter og infrastruktur etter [sikkerhetsloven § 7-2](lov/2018-06-01-24/§7-2), skal det legges vekt påi hvilken grad grunnleggende nasjonale funksjoner er avhengig av objektet eller infrastrukturenvirksomhetens skadevurdering.
+Når departementene eller Nasjonal sikkerhetsmyndighet klassifiserer skjermingsverdige objekter og infrastruktur etter [sikkerhetsloven § 7-2](lov/2018-06-01-24/§7-2), skal det legges vekt på
+
+1. i hvilken grad grunnleggende nasjonale funksjoner er avhengig av objektet eller infrastrukturen
+2. virksomhetens skadevurdering.
 
 Dersom forholdene som er lagt til grunn for klassifiseringen, endrer seg, skal departementet vurdere om det skal fattes et nytt vedtak om klassifisering.
 
@@ -412,7 +508,12 @@ Klassifiseringsnivået og grunnlaget for klassifiseringen skal graderes BEGRENSE
 
 ### § 57. Skadevurdering i forbindelse med utpeking og klassifisering av skjermingsverdige objekter eller infrastruktur
 
-En virksomhet skal vurdere hvilke skadefølger det kan få for grunnleggende nasjonale funksjoner om et objekt eller en infrastruktur som den råder over, blir utsatt for skadeverk, ødeleggelse eller en rettsstridig overtakelse. I vurderingen skal virksomheten legge vekt påhvilke konsekvenser det vil få for grunnleggende nasjonale funksjoner dersom objektets eller infrastrukturens funksjonalitet faller bort eller redusereshvor lenge objektets eller infrastrukturens funksjonalitet kan være satt ut av drift før det får betydning for grunnleggende nasjonale funksjoneri hvilken grad objektets eller infrastrukturens funksjonalitet kan gjenopprettes eller erstattesi hvilken grad en rettsstridig overtakelse av objektet eller infrastrukturen kan påvirke befolkningens grunnleggende sikkerhet.
+En virksomhet skal vurdere hvilke skadefølger det kan få for grunnleggende nasjonale funksjoner om et objekt eller en infrastruktur som den råder over, blir utsatt for skadeverk, ødeleggelse eller en rettsstridig overtakelse. I vurderingen skal virksomheten legge vekt på
+
+1. hvilke konsekvenser det vil få for grunnleggende nasjonale funksjoner dersom objektets eller infrastrukturens funksjonalitet faller bort eller reduseres
+2. hvor lenge objektets eller infrastrukturens funksjonalitet kan være satt ut av drift før det får betydning for grunnleggende nasjonale funksjoner
+3. i hvilken grad objektets eller infrastrukturens funksjonalitet kan gjenopprettes eller erstattes
+4. i hvilken grad en rettsstridig overtakelse av objektet eller infrastrukturen kan påvirke befolkningens grunnleggende sikkerhet.
 
 Skadevurderingen skal sendes til det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet i sektoren, eller til Nasjonal sikkerhetsmyndighet. Den skal graderes BEGRENSET eller høyere.
 
@@ -424,7 +525,12 @@ Dersom virksomheten råder over andre skjermingsverdige objekter eller infrastru
 
 ### § 58. Forsvarlig sikkerhetsnivå for klassifiserte objekter og infrastruktur
 
-Når en virksomhet håndterer en risiko knyttet til skjermingsverdige objekter eller infrastruktur etter [§ 13](forskrift/2018-12-20-2053/§13), er kravet til et forsvarlig sikkerhetsnivå oppnådd dersom virksomheten kan dokumentere at det er foretatt en konkret vurdering av risikoen, og at det er iverksatt nødvendige tiltak for å håndtere den. I vurderingen av om det er iverksatt nødvendige tiltak skal det legges vekt på om sikkerhetstiltakene er egnet til åbegrense tap av vesentlige funksjoner ved skadeverk på eller forsøk på å ødelegge objekter eller infrastruktur klassifisert VIKTIGbegrense tap av funksjoner ved skadeverk på eller forsøk på å ødelegge objekter eller infrastruktur klassifisert KRITISKavverge tap av funksjoner ved skadeverk på eller forsøk på å ødelegge objekter eller infrastruktur klassifisert MEGET KRITISKavverge en rettsstridig overtakelse av objekter eller infrastruktur klassifisert KRITISK eller MEGET KRITISK.
+Når en virksomhet håndterer en risiko knyttet til skjermingsverdige objekter eller infrastruktur etter [§ 13](forskrift/2018-12-20-2053/§13), er kravet til et forsvarlig sikkerhetsnivå oppnådd dersom virksomheten kan dokumentere at det er foretatt en konkret vurdering av risikoen, og at det er iverksatt nødvendige tiltak for å håndtere den. I vurderingen av om det er iverksatt nødvendige tiltak skal det legges vekt på om sikkerhetstiltakene er egnet til å
+
+1. begrense tap av vesentlige funksjoner ved skadeverk på eller forsøk på å ødelegge objekter eller infrastruktur klassifisert VIKTIG
+2. begrense tap av funksjoner ved skadeverk på eller forsøk på å ødelegge objekter eller infrastruktur klassifisert KRITISK
+3. avverge tap av funksjoner ved skadeverk på eller forsøk på å ødelegge objekter eller infrastruktur klassifisert MEGET KRITISK
+4. avverge en rettsstridig overtakelse av objekter eller infrastruktur klassifisert KRITISK eller MEGET KRITISK.
 
 ### § 59. Tilrettelegging for bruk av sikringsstyrker
 
@@ -438,7 +544,13 @@ En søknad om adgangsklarering etter [sikkerhetsloven § 8-3](lov/2018-06-01-24/
 
 ### § 61. Fellesregler for inntrengningstesting, testing av sikkerhetstiltak og kommunikasjons- og innholdskontroll av informasjonssystemer
 
-Det skal inngås avtale med den aktuelle virksomheten om hvilket personell som, i samsvar med [sikkerhetsloven § 6-5](lov/2018-06-01-24/§6-5), [§ 6-6](lov/2018-06-01-24/§6-6) og [§ 7-4](lov/2018-06-01-24/§7-4), skalforsøke å trenge inn i virksomhetens skjermingsverdige informasjonssystemerkontrollere om virksomhetens informasjonssystemer behandler sikkerhetsgradert informasjon utover det systemets sikkerhetsgodkjenning tillaterforsøke å forsere etablerte sikkerhetstiltak.Avtalen skal også regulere hva denne testingen eller kontrollen skal omfatte.
+Det skal inngås avtale med den aktuelle virksomheten om hvilket personell som, i samsvar med [sikkerhetsloven § 6-5](lov/2018-06-01-24/§6-5), [§ 6-6](lov/2018-06-01-24/§6-6) og [§ 7-4](lov/2018-06-01-24/§7-4), skal
+
+1. forsøke å trenge inn i virksomhetens skjermingsverdige informasjonssystemer
+2. kontrollere om virksomhetens informasjonssystemer behandler sikkerhetsgradert informasjon utover det systemets sikkerhetsgodkjenning tillater
+3. forsøke å forsere etablerte sikkerhetstiltak.
+
+Avtalen skal også regulere hva denne testingen eller kontrollen skal omfatte.
 
 Den som gjennomfører tester, kontroller og undersøkelser etter første ledd, skal rapportere resultatene til virksomheten og myndigheten som fører tilsyn etter loven. Rapporten skal kun i nødvendig grad inneholde informasjon som identifiserer enkeltpersoner som har begått sikkerhetsbrudd.
 
@@ -458,7 +570,11 @@ Nasjonal sikkerhetsmyndighet skal drifte en nasjonal responsfunksjon for alvorli
 
 ### § 64. Tilknytning til varslingssystemet for digital infrastruktur
 
-Virksomheter kan søke Nasjonal sikkerhetsmyndighet om å bli tilknyttet det nasjonale varslingssystemet for digital infrastruktur. Det skal inngås en avtale mellom Nasjonal sikkerhetsmyndighet og en virksomhet som blir tilknyttet systemet. Avtalen skal alltid regulereutplassering av sensorer eller andre tekniske løsninger som skal overvåke virksomhetens digitale infrastrukturhvordan alvorlige digitale angrep skal håndtereshvordan personopplysninger og opplysninger underlagt lovbestemt taushetsplikt skal behandles.
+Virksomheter kan søke Nasjonal sikkerhetsmyndighet om å bli tilknyttet det nasjonale varslingssystemet for digital infrastruktur. Det skal inngås en avtale mellom Nasjonal sikkerhetsmyndighet og en virksomhet som blir tilknyttet systemet. Avtalen skal alltid regulere
+
+1. utplassering av sensorer eller andre tekniske løsninger som skal overvåke virksomhetens digitale infrastruktur
+2. hvordan alvorlige digitale angrep skal håndteres
+3. hvordan personopplysninger og opplysninger underlagt lovbestemt taushetsplikt skal behandles.
 
 Nasjonal sikkerhetsmyndighet kan pålegge virksomheter som er underlagt sikkerhetsloven, å knytte seg til det nasjonale varslingssystemet når dette er nødvendig for å oppnå et forsvarlig sikkerhetsnivå og redusere risikoen for sikkerhetstruende virksomhet. Pålegget skal regulere forholdene nevnt i første ledd tredje punktum.
 
@@ -484,9 +600,21 @@ Den som skal autoriseres, skal signere en taushetserklæring før det gis autori
 
 ### § 68. Autorisasjonssamtale
 
-En autorisasjonssamtale skal gjennomføres:før det gis autorisasjonnår en autorisert person selv ber om detved reklareringnår en autorisasjonsansvarlig ellers finner grunn til det.Personer som får autorisasjon for STRENGT HEMMELIG, COSMIC TOP SECRET eller tilsvarende, skal gjennomføre en ny autorisasjonssamtale minst annethvert år.
+En autorisasjonssamtale skal gjennomføres:
 
-Den autorisasjonsansvarlige skal gjennom autorisasjonssamtalenforsikre seg om at den som skal autoriseres, kjenner til relevante sikkerhetstrusler og sikkerhetsbestemmelser og forstår sin rolle i sikkerhetsarbeidet til virksomhetenkontrollere at opplysningene den som skal autoriseres, gir, er tilstrekkelige og oppdatertedrøfte eventuelle risikofaktorer ved personen som er relevante for personellsikkerhetendrøfte tiltak som kan redusere risikofaktorer ved personen, eller som kan oppfylle vilkår som klareringsmyndigheten har gitt for klareringen.
+1. før det gis autorisasjon
+2. når en autorisert person selv ber om det
+3. ved reklarering
+4. når en autorisasjonsansvarlig ellers finner grunn til det.
+
+Personer som får autorisasjon for STRENGT HEMMELIG, COSMIC TOP SECRET eller tilsvarende, skal gjennomføre en ny autorisasjonssamtale minst annethvert år.
+
+Den autorisasjonsansvarlige skal gjennom autorisasjonssamtalen
+
+1. forsikre seg om at den som skal autoriseres, kjenner til relevante sikkerhetstrusler og sikkerhetsbestemmelser og forstår sin rolle i sikkerhetsarbeidet til virksomheten
+2. kontrollere at opplysningene den som skal autoriseres, gir, er tilstrekkelige og oppdaterte
+3. drøfte eventuelle risikofaktorer ved personen som er relevante for personellsikkerheten
+4. drøfte tiltak som kan redusere risikofaktorer ved personen, eller som kan oppfylle vilkår som klareringsmyndigheten har gitt for klareringen.
 
 Dersom personen har vært autorisert før, skal den som autoriserer, hente inn opplysninger av betydning fra forrige autorisasjonsavgjørelse. Taushetsplikt er ikke til hinder for utlevering av opplysningene.
 
@@ -516,7 +644,14 @@ En person kan gis tilgang til skjermingsverdig informasjon, skjermingsverdige ob
 
 ### § 72. Oversikt over personell med autorisasjon
 
-Den autorisasjonsansvarlige skal ha en oversikt over autorisert personell. Oversikten skal opplyse omden enkeltes navn, fødselsnummer eller tilsvarende nummer, statsborgerskap, tjenestested, saksfelt og stillingklareringsnivå og autorisasjonsnivåklareringens gyldighetstideventuelle vilkår knyttet til klareringendatoen for en eventuell autorisasjonssamtaleeventuell tilgang uten autorisasjon etter [§ 71](forskrift/2018-12-20-2053/§71).
+Den autorisasjonsansvarlige skal ha en oversikt over autorisert personell. Oversikten skal opplyse om
+
+1. den enkeltes navn, fødselsnummer eller tilsvarende nummer, statsborgerskap, tjenestested, saksfelt og stilling
+2. klareringsnivå og autorisasjonsnivå
+3. klareringens gyldighetstid
+4. eventuelle vilkår knyttet til klareringen
+5. datoen for en eventuell autorisasjonssamtale
+6. eventuell tilgang uten autorisasjon etter [§ 71](forskrift/2018-12-20-2053/§71).
 
 Den autorisasjonsansvarlige skal gjøre klarerings- og autorisasjonsavgjørelser kjent for personell som har et tjenstlig behov for det.
 
@@ -556,7 +691,11 @@ Den autorisasjonsansvarlige skal bevare taushetserklæringer i 10 år etter at a
 
 Når bevaringstiden etter andre og tredje ledd utløper, skal autorisasjonsansvarlig kassere dokumentene.
 
-Den autorisasjonsansvarlige skal føre et register over kassasjoner med opplysninger omhvem de kasserte opplysningene gjelderhvilken type opplysninger eller dokumenter som er kassertdatoene for kassasjonene.
+Den autorisasjonsansvarlige skal føre et register over kassasjoner med opplysninger om
+
+1. hvem de kasserte opplysningene gjelder
+2. hvilken type opplysninger eller dokumenter som er kassert
+3. datoene for kassasjonene.
 
 ## Kapittel 13. Sikkerhetsgraderte anskaffelser
 
@@ -566,7 +705,15 @@ Oppdragsgiveren skal ta stilling til hva tilbydere, leverandører og underlevera
 
 ### § 80. Krav til sikkerhetsavtalen når en leverandør skal ha tilgang til sikkerhetsgradert informasjon, et skjermingsverdig objekt eller skjermingsverdig infrastruktur
 
-Dersom en leverandør skal ha tilgang til sikkerhetsgradert informasjon, et skjermingsverdig objekt eller skjermingsverdig infrastruktur i eller fra sine egne lokaler, skal det fremgå av sikkerhetsavtalen etter [sikkerhetsloven § 9-2](lov/2018-06-01-24/§9-2)hvilken sikkerhets- eller klassifiseringsgrad informasjonen, objektet eller infrastrukturen harhvem som skal få tilgang til den sikkerhetsgraderte informasjonen eller det skjermingsverdige objektet eller infrastrukturenhvordan den sikkerhetsgraderte informasjonen skal formidles mellom avtalepartenehvilket informasjonssystem som skal brukes for å behandle den sikkerhetsgraderte informasjonen, eller for å få tilgang til det skjermingsverdige objektet eller infrastrukturen, og hvem som er ansvarlig for å godkjenne systemethvilke lokaler den sikkerhetsgraderte informasjonen skal behandles ihvordan det skal varsles om sikkerhetstruende virksomhet og avvik fra sikkerhetskravom den sikkerhetsgraderte informasjonen skal leveres tilbake eller destrueres når oppdraget er avsluttet.
+Dersom en leverandør skal ha tilgang til sikkerhetsgradert informasjon, et skjermingsverdig objekt eller skjermingsverdig infrastruktur i eller fra sine egne lokaler, skal det fremgå av sikkerhetsavtalen etter [sikkerhetsloven § 9-2](lov/2018-06-01-24/§9-2)
+
+1. hvilken sikkerhets- eller klassifiseringsgrad informasjonen, objektet eller infrastrukturen har
+2. hvem som skal få tilgang til den sikkerhetsgraderte informasjonen eller det skjermingsverdige objektet eller infrastrukturen
+3. hvordan den sikkerhetsgraderte informasjonen skal formidles mellom avtalepartene
+4. hvilket informasjonssystem som skal brukes for å behandle den sikkerhetsgraderte informasjonen, eller for å få tilgang til det skjermingsverdige objektet eller infrastrukturen, og hvem som er ansvarlig for å godkjenne systemet
+5. hvilke lokaler den sikkerhetsgraderte informasjonen skal behandles i
+6. hvordan det skal varsles om sikkerhetstruende virksomhet og avvik fra sikkerhetskrav
+7. om den sikkerhetsgraderte informasjonen skal leveres tilbake eller destrueres når oppdraget er avsluttet.
 
 En sikkerhetsavtale kan tas inn i det ordinære avtaledokumentet for anskaffelsen.
 
@@ -584,7 +731,11 @@ Dersom klareringsmyndigheten tilbakekaller en leverandørklarering etter [sikker
 
 ### § 83. Krav om leverandørklarering
 
-En leverandør til en sikkerhetsgradert anskaffelse skal ha leverandørklarering når det er nødvendig for å oppnå et forsvarlig sikkerhetsnivå under anskaffelsen. Leverandøren skal uansett ha leverandørklarering dersom den skalha tilgang til eller oppbevare informasjon gradert KONFIDENSIELT eller høyere i sine egne informasjonssystemer eller lokalerha elektronisk tilgang fra sine egne informasjonssystemer eller lokaler til objekter eller infrastruktur klassifisert KRITISK eller MEGET KRITISKråde over objekter eller infrastruktur som tilhører oppdragsgiveren, og som er klassifisert KRITISK eller MEGET KRITISK.
+En leverandør til en sikkerhetsgradert anskaffelse skal ha leverandørklarering når det er nødvendig for å oppnå et forsvarlig sikkerhetsnivå under anskaffelsen. Leverandøren skal uansett ha leverandørklarering dersom den skal
+
+1. ha tilgang til eller oppbevare informasjon gradert KONFIDENSIELT eller høyere i sine egne informasjonssystemer eller lokaler
+2. ha elektronisk tilgang fra sine egne informasjonssystemer eller lokaler til objekter eller infrastruktur klassifisert KRITISK eller MEGET KRITISK
+3. råde over objekter eller infrastruktur som tilhører oppdragsgiveren, og som er klassifisert KRITISK eller MEGET KRITISK.
 
 ### § 84. Leverandører med lokaler utenfor norsk jurisdiksjon og utenlandske leverandører
 
@@ -598,7 +749,13 @@ Oppdragsgivere skal be klareringsmyndigheten om en leverandørklarering. Foresp�
 
 ### § 86. Oversikt over sikkerhetsgraderte anskaffelser
 
-Oppdragsgivere skal føre en årlig oversikt over sikkerhetsgraderte anskaffelser til sin virksomhet. Oversikten skal inneholde informasjon omhva anskaffelsene gjelderleverandørenes navn, adresse, organisasjonsnummer eller tilsvarende nummer, og nasjonalitethvilken sikkerhetsgrad informasjon som leverandørene skal få, eller har fått, tilgang tildet høyeste klassifiseringsnivået til objekter eller infrastruktur som leverandørene skal få, eller har fått, tilgang tilhvor lang tid anskaffelsene tok.
+Oppdragsgivere skal føre en årlig oversikt over sikkerhetsgraderte anskaffelser til sin virksomhet. Oversikten skal inneholde informasjon om
+
+1. hva anskaffelsene gjelder
+2. leverandørenes navn, adresse, organisasjonsnummer eller tilsvarende nummer, og nasjonalitet
+3. hvilken sikkerhetsgrad informasjon som leverandørene skal få, eller har fått, tilgang til
+4. det høyeste klassifiseringsnivået til objekter eller infrastruktur som leverandørene skal få, eller har fått, tilgang til
+5. hvor lang tid anskaffelsene tok.
 
 Oversikten skal årlig sendes til klareringsmyndigheten.
 
@@ -630,7 +787,16 @@ For å kontrollere sikkerhetstilstanden til informasjonssystemer og infrastruktu
 
 Overordnet departement til en sektormyndighet med tilsynsansvar, har ansvaret for at det inngås samarbeidsavtaler mellom Nasjonal sikkerhetsmyndighet og myndigheten med tilsynsansvar etter [sikkerhetsloven § 3-2](lov/2018-06-01-24/§3-2).
 
-Det skal følge av slike samarbeidsavtalerhvilke kriterier som skal ligge til grunn for tilsynhvem som skal være ansvarlig for opplæring og veiledning, og hvordan opplæring og veiledning skal gjennomføreshvordan tilsyn der både Nasjonal sikkerhetsmyndighet og sektormyndigheten deltar, skal forberedes og gjennomføreshvordan Nasjonal sikkerhetsmyndighet skal dele relevant informasjon om trusselbildet og risiko med sektormyndighetenhvordan sektormyndigheten skal rapportere til Nasjonal sikkerhetsmyndighet om planlagte tilsynhvordan varslinger etter [sikkerhetsloven § 4-5](lov/2018-06-01-24/§4-5) skal behandleshvordan godkjennings- og dispensasjonsmyndighet i sektoren skal utøveshvordan sektormyndigheten skal dele kunnskap og erfaringer med Nasjonal sikkerhetsmyndighet.
+Det skal følge av slike samarbeidsavtaler
+
+1. hvilke kriterier som skal ligge til grunn for tilsyn
+2. hvem som skal være ansvarlig for opplæring og veiledning, og hvordan opplæring og veiledning skal gjennomføres
+3. hvordan tilsyn der både Nasjonal sikkerhetsmyndighet og sektormyndigheten deltar, skal forberedes og gjennomføres
+4. hvordan Nasjonal sikkerhetsmyndighet skal dele relevant informasjon om trusselbildet og risiko med sektormyndigheten
+5. hvordan sektormyndigheten skal rapportere til Nasjonal sikkerhetsmyndighet om planlagte tilsyn
+6. hvordan varslinger etter [sikkerhetsloven § 4-5](lov/2018-06-01-24/§4-5) skal behandles
+7. hvordan godkjennings- og dispensasjonsmyndighet i sektoren skal utøves
+8. hvordan sektormyndigheten skal dele kunnskap og erfaringer med Nasjonal sikkerhetsmyndighet.
 
 Myndigheter som er tildelt tilsynsansvar etter [sikkerhetsloven § 3-1](lov/2018-06-01-24/§3-1), har ansvaret for tilsynet også når Nasjonal sikkerhetsmyndighet medvirker til eller deltar på tilsynet.
 
@@ -646,7 +812,19 @@ En tvangsmulkt fastsatt med hjemmel i [sikkerhetsloven § 11-2](lov/2018-06-01-2
 
 ### § 93. Krav til innholdet i en melding om et erverv av en kvalifisert eierandel i en virksomhet underlagt sikkerhetsloven
 
-En melding til departementet om erverv etter [sikkerhetsloven § 10-1](lov/2018-06-01-24/§10-1) skal opplyse omerververens navn, adresse og organisasjonsnummer, fødselsnummer eller tilsvarende nummerorganisasjonsnummeret til virksomheten ervervet gjeldererververens eierandel etter at ervervet er gjennomførterververens eierstrukturhvem som sitter i erververens styrehvem som utgjør den daglige ledelsen i erververens virksomheteventuelle relasjoner mellom erververen og andre eksisterende eiere i virksomheten ervervet gjeldererververens eierinteresser i andre virksomheter underlagt sikkerhetslovenerververens eierinteresser i andre virksomheter innenfor den aktuelle sektorenerververens årsomsetning og årsregnskap for de siste fem årene, så langt dette er tilgjengeligandre forhold som erververen antar kan ha betydning for vurderingen av om ervervet kan godkjennes etter [sikkerhetsloven § 10-2](lov/2018-06-01-24/§10-2).
+En melding til departementet om erverv etter [sikkerhetsloven § 10-1](lov/2018-06-01-24/§10-1) skal opplyse om
+
+1. erververens navn, adresse og organisasjonsnummer, fødselsnummer eller tilsvarende nummer
+2. organisasjonsnummeret til virksomheten ervervet gjelder
+3. erververens eierandel etter at ervervet er gjennomført
+4. erververens eierstruktur
+5. hvem som sitter i erververens styre
+6. hvem som utgjør den daglige ledelsen i erververens virksomhet
+7. eventuelle relasjoner mellom erververen og andre eksisterende eiere i virksomheten ervervet gjelder
+8. erververens eierinteresser i andre virksomheter underlagt sikkerhetsloven
+9. erververens eierinteresser i andre virksomheter innenfor den aktuelle sektoren
+10. erververens årsomsetning og årsregnskap for de siste fem årene, så langt dette er tilgjengelig
+11. andre forhold som erververen antar kan ha betydning for vurderingen av om ervervet kan godkjennes etter [sikkerhetsloven § 10-2](lov/2018-06-01-24/§10-2).
 
 Opplysningene om eierstruktur etter første ledd bokstav d skal omfatte eventuelle utenlandske eierinteresser i erververens virksomhet og erververens eventuelle eierinteresser i utlandet. Nasjonaliteten skal framgå.
 

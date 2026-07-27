@@ -38,7 +38,15 @@ Forskriften har samme virkeområde som [energiloven](lov/1990-06-29-50) og omfat
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Effektprognose*: En beskrivelse av mulig utvikling i effektforbruk og -produksjon.*Områdestudie*: En analyse av et avgrenset geografisk område som skal identifisere mulige behov for endringer i nettet.*Konsept*: En overordnet systemløsning som kan løse et behov for nettutvikling som nettutrederen har identifisert.*Konseptvalgutredning*: Utredning av mulige konsepter for løsning av et definert behov, med en samfunnsøkonomisk analyse av de ulike konseptene.*Nettutredning*: Samlebegrep for effektprognose, områdestudie og konseptvalgutredning.*Nettutreder*: Konsesjonærer med konsesjon etter [energiloven § 3-1](lov/1990-06-29-50/§3-1) til nettanlegg med spenning på minst 47 kV, og aktører som har søkt om slik konsesjon.*Punkt i nettet*: Transformatorstasjoner med øvre spenningsnivå på minst 47 kV.
+I denne forskriften menes med:
+
+- *Effektprognose*: En beskrivelse av mulig utvikling i effektforbruk og -produksjon.
+- *Områdestudie*: En analyse av et avgrenset geografisk område som skal identifisere mulige behov for endringer i nettet.
+- *Konsept*: En overordnet systemløsning som kan løse et behov for nettutvikling som nettutrederen har identifisert.
+- *Konseptvalgutredning*: Utredning av mulige konsepter for løsning av et definert behov, med en samfunnsøkonomisk analyse av de ulike konseptene.
+- *Nettutredning*: Samlebegrep for effektprognose, områdestudie og konseptvalgutredning.
+- *Nettutreder*: Konsesjonærer med konsesjon etter [energiloven § 3-1](lov/1990-06-29-50/§3-1) til nettanlegg med spenning på minst 47 kV, og aktører som har søkt om slik konsesjon.
+- *Punkt i nettet*: Transformatorstasjoner med øvre spenningsnivå på minst 47 kV.
 
 ## Kapittel 2. Nettutredninger og tiltak
 
@@ -62,7 +70,11 @@ Nettutviklingskoordinator skal invitere alle nettutredere og områdekonsesjonær
 
 ### § 6. Særlige bestemmelser for Statnett
 
-Statnett skal sørge for at nettutredninger i transmisjonsnettet tar hensyn til:nettutviklingen i regionalnetteteuropeiske tiårsnettplaner og nettutviklingen i andre land andre land som er av betydning for nettutviklingen i Norgeanlegg som behandles etter [havenergilova](lov/2010-06-04-21).
+Statnett skal sørge for at nettutredninger i transmisjonsnettet tar hensyn til:
+
+1. nettutviklingen i regionalnettet
+2. europeiske tiårsnettplaner og nettutviklingen i andre land andre land som er av betydning for nettutviklingen i Norge
+3. anlegg som behandles etter [havenergilova](lov/2010-06-04-21).
 
 Statnett skal i årlig møte etter [§ 5 fjerde ledd](forskrift/2024-01-25-106/§5/ledd/4) informere om relevante driftsforhold i koordineringsområdet.
 
@@ -82,7 +94,13 @@ Nettutrederen kan ved enighet overlate til tilgrensende nettutredere å utarbeid
 
 Nettutrederen skal sørge for at hvert punkt i eget nett til enhver tid er omfattet av en områdestudie som ikke er eldre enn to år.
 
-Områdestudien skal identifisere og peke på mulige behov for nettutvikling, og skal inneholde en beskrivelse av:eksisterende nett og ledig kapasitetforsyningssikkerheten i dagens netttilstand og reinvesteringsbehov i nettetmulige begrensninger i fremtidig nettkapasitet basert på effektprognoserandre tema som kan ha betydning for behovet for nettutvikling, f.eks. driftsforhold, systemjording og andre energibærere.
+Områdestudien skal identifisere og peke på mulige behov for nettutvikling, og skal inneholde en beskrivelse av:
+
+1. eksisterende nett og ledig kapasitet
+2. forsyningssikkerheten i dagens nett
+3. tilstand og reinvesteringsbehov i nettet
+4. mulige begrensninger i fremtidig nettkapasitet basert på effektprognoser
+5. andre tema som kan ha betydning for behovet for nettutvikling, f.eks. driftsforhold, systemjording og andre energibærere.
 
 Nettutrederen kan ved enighet overlate til tilgrensende nettutredere å utarbeide områdestudier for sine punkter.
 
@@ -90,13 +108,26 @@ Nettutrederen kan ved enighet overlate til tilgrensende nettutredere å utarbeid
 
 Før nettutrederen gjennomfører et tiltak i nettet med spenning på 47 kV eller mer og som kan kreve konsesjon etter [energiloven § 3-1](lov/1990-06-29-50/§3-1), skal det utarbeides en konseptvalgutredning, med mindre dette er åpenbart unødvendig.
 
-Konseptvalgutredningen skal være i samsvar med anerkjent metode for samfunnsøkonomiske analyser, og skal blant annet:beskrive behovet for å gjøre tiltak i nettet og konsekvenser ved fravær av tiltakbeskrive relevante konsepter, inkludert et nullalternativinneholde en vurdering av om behovet kan løses gjennom økt nettutnyttelse, andre alternativer til nettutbygging, eller tiltak i tilgrensende nettvurdere virkninger av konseptene, beskrive usikkerhet i vurderingene, og gi en begrunnet anbefaling av konsept.
+Konseptvalgutredningen skal være i samsvar med anerkjent metode for samfunnsøkonomiske analyser, og skal blant annet:
+
+1. beskrive behovet for å gjøre tiltak i nettet og konsekvenser ved fravær av tiltak
+2. beskrive relevante konsepter, inkludert et nullalternativ
+3. inneholde en vurdering av om behovet kan løses gjennom økt nettutnyttelse, andre alternativer til nettutbygging, eller tiltak i tilgrensende nett
+4. vurdere virkninger av konseptene, beskrive usikkerhet i vurderingene, og gi en begrunnet anbefaling av konsept.
 
 ### § 10. Krav til innmelding av tiltak
 
 Nettutrederen skal melde inn alle nettiltak, med mindre dette er åpenbart unødvendig. Innmeldingsplikten oppstår når planleggingsfasen for tiltaket starter.
 
-Innmeldingen skal inneholde:beskrivelse av hva som skal gjennomføres, inkludert behov og begrunnelsekostnadsanslaggeografisk kartfestingfremdriftsplanstatus for fremdriftnettutrederens kontaktinformasjoninformasjon om eventuelle involverte nettselskap.
+Innmeldingen skal inneholde:
+
+1. beskrivelse av hva som skal gjennomføres, inkludert behov og begrunnelse
+2. kostnadsanslag
+3. geografisk kartfesting
+4. fremdriftsplan
+5. status for fremdrift
+6. nettutrederens kontaktinformasjon
+7. informasjon om eventuelle involverte nettselskap.
 
 Nettutrederen skal uten ugrunnet opphold oppdatere innmeldingen av tiltak ved endringer i opplysningene i annet ledd bokstav a-g. Vesentlige endringer i kostnadsanslag eller fremdriftsplan skal begrunnes.
 

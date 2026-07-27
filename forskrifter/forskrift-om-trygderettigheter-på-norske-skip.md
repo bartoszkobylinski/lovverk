@@ -26,13 +26,20 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-[Kapittel](forskrift/2005-02-18-145/kap2) 2 gjelder arbeidstakere som ikke er omfattet av norske trygdeordninger etter lov eller gjensidighetsavtale eller av EØS-avtalens trygdeforordning, forordning [(EØF) nr. 1408/71](eu/31971r1408*) artikkel 14b, og som er ansattom bord på skip registrert i norsk internasjonalt skipsregister, elleri tjeneste hos utenlandsk arbeidsgiver som driver næringsvirksomhet om bord på skip i utenriksfart, registrert i det ordinære norske skipsregisteret.
+[Kapittel](forskrift/2005-02-18-145/kap2) 2 gjelder arbeidstakere som ikke er omfattet av norske trygdeordninger etter lov eller gjensidighetsavtale eller av EØS-avtalens trygdeforordning, forordning [(EØF) nr. 1408/71](eu/31971r1408*) artikkel 14b, og som er ansatt
+
+1. om bord på skip registrert i norsk internasjonalt skipsregister, eller
+2. i tjeneste hos utenlandsk arbeidsgiver som driver næringsvirksomhet om bord på skip i utenriksfart, registrert i det ordinære norske skipsregisteret.
 
 [Kapittel](forskrift/2005-02-18-145/kap3) 3 gjelder arbeidstakere som er ansatt i hotell- og restaurantvirksomheten om bord på turistskip registrert i norsk internasjonalt skipsregister, og som omfattes av EØS-avtalens trygdeforordning, forordning [(EØF) nr. 1408/71](eu/31971r1408*) artikkel 14b.
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med:*Yrkesskade;* legemsskade eller sykdom forårsaket av arbeidsulykke eller andre skader og sykdommer som følge av arbeidsforholdet,*Legemsskade;* også skade på protese, støttebandasje eller lignende.*G;* grunnbeløpet, en beregningsfaktor i henhold til folketrygdloven.
+I denne forskrift menes med:
+
+1. *Yrkesskade;* legemsskade eller sykdom forårsaket av arbeidsulykke eller andre skader og sykdommer som følge av arbeidsforholdet,
+2. *Legemsskade;* også skade på protese, støttebandasje eller lignende.
+3. *G;* grunnbeløpet, en beregningsfaktor i henhold til folketrygdloven.
 
 ## Kapittel 2. Garanti for trygderettigheter for arbeidstakere som ikke er omfattet av norske trygdeordninger
 
@@ -40,7 +47,10 @@ I denne forskrift menes med:*Yrkesskade;* legemsskade eller sykdom forårsaket a
 
 For arbeidstakere som nevnt i [§ 1 første ledd](forskrift/2005-02-18-145/§1/ledd/1) plikter rederiet å stille en garanti som sikrer at arbeidstakeren eller arbeidstakerens etterlatte får erstatning ved yrkesskade som medfører uførhet eller død.
 
-Garantien skal omfatte:Erstatning ved arbeidsuførhet som følge av yrkesskadeErstatning til etterlatt ektefelle og barn.
+Garantien skal omfatte:
+
+1. Erstatning ved arbeidsuførhet som følge av yrkesskade
+2. Erstatning til etterlatt ektefelle og barn.
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -56,7 +66,13 @@ Arbeidstakeren kan rette krav om dekning under garantien direkte til garantisten
 
 ### § 5. Rederiets plikt til å stille garanti for sykepleie, lønn ved sykdom, erstatning ved yrkesskade og arbeidsuførhet og alderspensjon
 
-For arbeidstakere som nevnt i [§ 1](forskrift/2005-02-18-145/§1) andre ledd plikter rederiet å stille en garanti for trygderettigheter som minst gir;arbeidstaker som er syk eller skadet, rett til sykepleie på rederiets regning under arbeidsforholdets varighet og deretter i 16 uker samt rettigheter for øvrig i samsvar med bestemmelsene i [skipsarbeidsloven § 8-1](lov/2013-06-21-102/§8-1).arbeidstaker som er arbeidsufør, som følge av sykdom eller skade, rett til full lønn i inntil 2 måneder samt rettigheter for øvrig i samsvar med bestemmelsene i [skipsarbeidsloven § 4-4](lov/2013-06-21-102/§4-4) (2).arbeidstaker som er arbeidsufør, som følge av yrkesskade, rett til en engangserstatning på inntil 18G, avhengig av uførhetsgrad og beregnet etter vanlige norske regler. Hvis den ansatte dør, skal de etterlatte ha rett til en engangserstatning på 12G samt 2G til hvert barn under 18 år, dog maksimalt 6G.arbeidstaker som er arbeidsufør, som følge av sykdom, rett til en engangserstatning på inntil 12G, avhengig av uførhetsgrad og beregnet etter vanlige norske regler. Hvis den ansatte dør, skal de etterlatte ha rett til en engangserstatning på 6G samt 2G til hvert barn under 18 år, dog maksimalt 6G.arbeidstaker med rett til særskilt fradrag for sjøfolk og med et sammenhengende ansettelsesforhold i rederiet utover 5 år, rettigheter når det gjelder uførhet og alderspensjon som etter [folketrygdlovens](lov/1997-02-28-19) bestemmelser.
+For arbeidstakere som nevnt i [§ 1](forskrift/2005-02-18-145/§1) andre ledd plikter rederiet å stille en garanti for trygderettigheter som minst gir;
+
+1. arbeidstaker som er syk eller skadet, rett til sykepleie på rederiets regning under arbeidsforholdets varighet og deretter i 16 uker samt rettigheter for øvrig i samsvar med bestemmelsene i [skipsarbeidsloven § 8-1](lov/2013-06-21-102/§8-1).
+2. arbeidstaker som er arbeidsufør, som følge av sykdom eller skade, rett til full lønn i inntil 2 måneder samt rettigheter for øvrig i samsvar med bestemmelsene i [skipsarbeidsloven § 4-4](lov/2013-06-21-102/§4-4) (2).
+3. arbeidstaker som er arbeidsufør, som følge av yrkesskade, rett til en engangserstatning på inntil 18G, avhengig av uførhetsgrad og beregnet etter vanlige norske regler. Hvis den ansatte dør, skal de etterlatte ha rett til en engangserstatning på 12G samt 2G til hvert barn under 18 år, dog maksimalt 6G.
+4. arbeidstaker som er arbeidsufør, som følge av sykdom, rett til en engangserstatning på inntil 12G, avhengig av uførhetsgrad og beregnet etter vanlige norske regler. Hvis den ansatte dør, skal de etterlatte ha rett til en engangserstatning på 6G samt 2G til hvert barn under 18 år, dog maksimalt 6G.
+5. arbeidstaker med rett til særskilt fradrag for sjøfolk og med et sammenhengende ansettelsesforhold i rederiet utover 5 år, rettigheter når det gjelder uførhet og alderspensjon som etter [folketrygdlovens](lov/1997-02-28-19) bestemmelser.
 
 > Endret ved [forskrift 19 aug 2013 nr. 1012](forskrift/2013-08-19-1012) (i kraft 20 aug 2013), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -78,7 +94,17 @@ Nærings- og handelsdepartementet eller den det bemyndiger kan kreve at det frem
 
 Garanti etter denne forskriften skal dokumenteres ved at det ombord skal finnes sertifikat eller annet skriftlig bevis utstedt av garantisten. Dokumentasjonen skal være lett tilgjengelig for arbeidstakerne. Dokumentasjonen skal være på engelsk eller følges av en engelsk oversettelse.
 
-Dokumentasjonen skal inneholde følgende informasjon:skipets navnskipets hjemstedskipets kjenningssignalskipets IMO-nummernavn og adresse på garantisten/-ekontaktinformasjon til den person eller enhet hos garantisten som er ansvarlig for å behandle de ansattes kravnavn på rederiet eller på den registrerte eieren av skipet dersom dette er en annen enn rederietgarantiens gyldighetsperiodeen bekreftelse fra garantisten om at garantien oppfyller kravene i ILO-konvensjon nr. 186 om sjøfolks arbeids- og levevilkår (MLC) standard A4.2.1.
+Dokumentasjonen skal inneholde følgende informasjon:
+
+1. skipets navn
+2. skipets hjemsted
+3. skipets kjenningssignal
+4. skipets IMO-nummer
+5. navn og adresse på garantisten/-e
+6. kontaktinformasjon til den person eller enhet hos garantisten som er ansvarlig for å behandle de ansattes krav
+7. navn på rederiet eller på den registrerte eieren av skipet dersom dette er en annen enn rederiet
+8. garantiens gyldighetsperiode
+9. en bekreftelse fra garantisten om at garantien oppfyller kravene i ILO-konvensjon nr. 186 om sjøfolks arbeids- og levevilkår (MLC) standard A4.2.1.
 
 > Endret ved [forskrifter 19 des 2017 nr. 2323](forskrift/2017-12-19-2323), [19 des 2024 nr. 3290](forskrift/2024-12-19-3290) (i kraft 23 des 2024).
 

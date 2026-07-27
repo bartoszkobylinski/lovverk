@@ -48,7 +48,14 @@ Fiskeridirektoratet fastsetter nærmere bestemmelser om krav til skyteprøvene, 
 
 ## § 6. Forbud
 
-Det er forbudtå bruke harpun uten påmontert armert harpungranat.å ha om bord andre granater enn godkjent harpungranat (Hvalgranat-99).å bruke ammunisjon med ekspanderende kule.å jakte på ny vågehval før påskutt hval er avlivet.å pumpe luft eller komprimerte gasser inn i vågehvalkroppen.å legge til kai før granaten er tatt av harpunen og harpunen er tatt ut av kanonen.
+Det er forbudt
+
+1. å bruke harpun uten påmontert armert harpungranat.
+2. å ha om bord andre granater enn godkjent harpungranat (Hvalgranat-99).
+3. å bruke ammunisjon med ekspanderende kule.
+4. å jakte på ny vågehval før påskutt hval er avlivet.
+5. å pumpe luft eller komprimerte gasser inn i vågehvalkroppen.
+6. å legge til kai før granaten er tatt av harpunen og harpunen er tatt ut av kanonen.
 
 ## § 7. Avliving av vågehval
 
@@ -60,7 +67,15 @@ Påskutt vågehval som ikke er drept ved harpunskudd skal snarest mulig avlives 
 
 ## § 8. Krav til våpen, ammunisjon og fangstutstyr
 
-Fartøy som skal delta i fangst av vågehval skal ha følgende utstyr ombord:Kanon kaliber 2″ (50 mm) eller større festet på et stativ som er solid festet til dekket og forsterket med kraftige stag. Fartøyets baug skal være tilstrekkelig avstivet, slik at stativet ved skuddavløsning ikke gir større svikt i overkanten enn 1/4″ (6 mm).Rifle kaliber.375 eller større med helmantlet rundneset ammunisjon med anslagsenergi på minst 350 kgm (3432 joule) på 100 m.Harpun med to klør. I utslått posisjon skal avstanden mellom klørenes spisser være minst 15″ (38 cm). Tillatt harpunvekt for 50 og 60 mm harpun er henholdsvis 13,5 kg–14,5 kg og 15, 5 kg–16,5 kg. For samtlige harpuner skal harpunlegg og klør tåle en strekk på minst 5000 kg. Strekkprøvede harpuner skal være tilstrekkelig merket.Minst 3 forløpere, hver på minst 60 m. Forløpere skal ha godkjent bruddstyrke/sertifikat. Minste tillatte diameter for forløpere av typen Spectron eller tilsvarende materiale er 10 mm. Forløper med mindre diameter kan brukes, dersom denne har dokumentert tilsvarende styrke. Minste tillatte diameter for forløpere av nylon er 16 mm.Fjæringsanordning eller sluringsmekanisme på vinsjen som tåler strekkbelastning på minst 5000 kg og har en vandring på minst 1,5 m.Maskindrevet vinsj til inn- og opphiving av hvalen. Vinsjen skal tåle en belastning på minst 5000 kg og ha en trekkraft på minst 2500 kg.Fartøyet skal ha en tønne festet til masten. Tønnen skal være hvitmalt med et svart 30 cm bredt rundtgående belte midt på tønnen.
+Fartøy som skal delta i fangst av vågehval skal ha følgende utstyr ombord:
+
+1. Kanon kaliber 2″ (50 mm) eller større festet på et stativ som er solid festet til dekket og forsterket med kraftige stag. Fartøyets baug skal være tilstrekkelig avstivet, slik at stativet ved skuddavløsning ikke gir større svikt i overkanten enn 1/4″ (6 mm).
+2. Rifle kaliber.375 eller større med helmantlet rundneset ammunisjon med anslagsenergi på minst 350 kgm (3432 joule) på 100 m.
+3. Harpun med to klør. I utslått posisjon skal avstanden mellom klørenes spisser være minst 15″ (38 cm). Tillatt harpunvekt for 50 og 60 mm harpun er henholdsvis 13,5 kg–14,5 kg og 15, 5 kg–16,5 kg. For samtlige harpuner skal harpunlegg og klør tåle en strekk på minst 5000 kg. Strekkprøvede harpuner skal være tilstrekkelig merket.
+4. Minst 3 forløpere, hver på minst 60 m. Forløpere skal ha godkjent bruddstyrke/sertifikat. Minste tillatte diameter for forløpere av typen Spectron eller tilsvarende materiale er 10 mm. Forløper med mindre diameter kan brukes, dersom denne har dokumentert tilsvarende styrke. Minste tillatte diameter for forløpere av nylon er 16 mm.
+5. Fjæringsanordning eller sluringsmekanisme på vinsjen som tåler strekkbelastning på minst 5000 kg og har en vandring på minst 1,5 m.
+6. Maskindrevet vinsj til inn- og opphiving av hvalen. Vinsjen skal tåle en belastning på minst 5000 kg og ha en trekkraft på minst 2500 kg.
+7. Fartøyet skal ha en tønne festet til masten. Tønnen skal være hvitmalt med et svart 30 cm bredt rundtgående belte midt på tønnen.
 
 Fiskeridirektoratet kan i særlige tilfeller dispensere fra bestemmelsen.
 

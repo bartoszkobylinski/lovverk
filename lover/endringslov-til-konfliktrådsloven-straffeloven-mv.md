@@ -15,7 +15,7 @@ xml_hash: "87cdf59d52bcb94b7094a87841f559a3d629c378851a029bc162baee9e3fc532"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,7 +75,36 @@ Inkurieopprettinger
 
 [§ 30](lov/1959-10-23-3/§30) skal lyde:
 
-Så framt føresegnene i lova her ikkje med reine ord er avgrensa til å gjelda inngrep etter [§ 2](lov/1959-10-23-3/§2), gjeld dei òg, så langt dei høver og ikkje strir mot særføresegner om tilhøvet, i saker om oreigningsinngrep med heimel i eller i medhald av ei eller fleire av desse lovene:[Lov 14. desember 1917 nr. 17 om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven)](lov/1917-12-14-17)[Lov 17. juli 1925 nr. 11 om Svalbard](lov/1925-07-17-11)[Lov 14. juli 1950 nr. 2 om forskjellige tiltak til gjennomføring av oppmerking og overvåking av riksgrensen](lov/1950-07-14-2)[Lov 15. desember 1950 nr. 7 om særlige rådgjerder under krig, krigsfare og liknende forhold](lov/1950-12-15-7)[Lov 29. juni 1951 nr. 19 om militære rekvisisjoner](lov/1951-06-29-19)[Lov 28. juni 1957 nr. 16 om friluftslivet (friluftsloven)](lov/1957-06-28-16)[Lov 16. juni 1961 nr. 12 om ymse beitespørsmål](lov/1961-06-16-12)[Lov 21. juni 1963 nr. 23 om vegar (veglova)](lov/1963-06-21-23)[Lov 9. juni 1972 nr. 31 om svensk reinbeiting i Norge og norsk reinbeiting i Sverige (grensereinbeiteloven)](lov/1972-06-09-31)[Lov 6. juni 1975 nr. 31 om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova)](lov/1975-06-06-31)[Lov 9. juni 1978 nr. 50 om kulturminner](lov/1978-06-09-50)[Lov 29. mai 1981 nr. 38 om jakt og fangst av vilt (viltloven)](lov/1981-05-29-38)[Lov 21. desember 1984 nr. 101 om reindrift i kommunene Meldal, Midtre Gauldal, Oppdal, Rennebu, Rindal, Sunndal og Surnadal](lov/1984-12-21-101)[Lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)](lov/1990-06-29-50)[Lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven)](lov/1993-06-11-101)[Lov 25. mars 1994 nr. 7 om sikring mot naturskader](lov/1994-03-25-7)[Lov 12. mai 1995 nr. 23 om jord (jordlova)](lov/1995-05-12-23)[Lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap (helseberedskapsloven)](lov/2000-06-23-56)[Lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven)](lov/2000-11-24-82)[Lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven](lov/2003-07-04-83))[Lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven)](lov/2003-12-19-124)[Lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)](lov/2005-06-17-101)[Lov 15. juni 2007 nr. 40 om reindrift (reindriftsloven)](lov/2007-06-15-40)[Lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)](lov/2008-06-27-71)[Lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser (mineralloven)](lov/2009-06-19-101)[Lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret (sivilbeskyttelsesloven)](lov/2010-06-25-45)[Lov 16. desember 2011 nr. 65 om næringsberedskap (næringsberedskapsloven)](lov/2011-12-16-65)[Lov 21. juni 2013 nr. 100 om fastsetjing og endring av eigedoms- og rettshøve på fast eigedom m.m. (jordskiftelova)](lov/2013-06-21-100)
+Så framt føresegnene i lova her ikkje med reine ord er avgrensa til å gjelda inngrep etter [§ 2](lov/1959-10-23-3/§2), gjeld dei òg, så langt dei høver og ikkje strir mot særføresegner om tilhøvet, i saker om oreigningsinngrep med heimel i eller i medhald av ei eller fleire av desse lovene:
+
+1. [Lov 14. desember 1917 nr. 17 om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven)](lov/1917-12-14-17)
+2. [Lov 17. juli 1925 nr. 11 om Svalbard](lov/1925-07-17-11)
+3. [Lov 14. juli 1950 nr. 2 om forskjellige tiltak til gjennomføring av oppmerking og overvåking av riksgrensen](lov/1950-07-14-2)
+4. [Lov 15. desember 1950 nr. 7 om særlige rådgjerder under krig, krigsfare og liknende forhold](lov/1950-12-15-7)
+5. [Lov 29. juni 1951 nr. 19 om militære rekvisisjoner](lov/1951-06-29-19)
+6. [Lov 28. juni 1957 nr. 16 om friluftslivet (friluftsloven)](lov/1957-06-28-16)
+7. [Lov 16. juni 1961 nr. 12 om ymse beitespørsmål](lov/1961-06-16-12)
+8. [Lov 21. juni 1963 nr. 23 om vegar (veglova)](lov/1963-06-21-23)
+9. [Lov 9. juni 1972 nr. 31 om svensk reinbeiting i Norge og norsk reinbeiting i Sverige (grensereinbeiteloven)](lov/1972-06-09-31)
+10. [Lov 6. juni 1975 nr. 31 om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova)](lov/1975-06-06-31)
+11. [Lov 9. juni 1978 nr. 50 om kulturminner](lov/1978-06-09-50)
+12. [Lov 29. mai 1981 nr. 38 om jakt og fangst av vilt (viltloven)](lov/1981-05-29-38)
+13. [Lov 21. desember 1984 nr. 101 om reindrift i kommunene Meldal, Midtre Gauldal, Oppdal, Rennebu, Rindal, Sunndal og Surnadal](lov/1984-12-21-101)
+14. [Lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)](lov/1990-06-29-50)
+15. [Lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven)](lov/1993-06-11-101)
+16. [Lov 25. mars 1994 nr. 7 om sikring mot naturskader](lov/1994-03-25-7)
+17. [Lov 12. mai 1995 nr. 23 om jord (jordlova)](lov/1995-05-12-23)
+18. [Lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap (helseberedskapsloven)](lov/2000-06-23-56)
+19. [Lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven)](lov/2000-11-24-82)
+20. [Lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven](lov/2003-07-04-83))
+21. [Lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven)](lov/2003-12-19-124)
+22. [Lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)](lov/2005-06-17-101)
+23. [Lov 15. juni 2007 nr. 40 om reindrift (reindriftsloven)](lov/2007-06-15-40)
+24. [Lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)](lov/2008-06-27-71)
+25. [Lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser (mineralloven)](lov/2009-06-19-101)
+26. [Lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret (sivilbeskyttelsesloven)](lov/2010-06-25-45)
+27. [Lov 16. desember 2011 nr. 65 om næringsberedskap (næringsberedskapsloven)](lov/2011-12-16-65)
+28. [Lov 21. juni 2013 nr. 100 om fastsetjing og endring av eigedoms- og rettshøve på fast eigedom m.m. (jordskiftelova)](lov/2013-06-21-100)
 
 > **Endres** ved lov [29 nov 2024 nr. 73](lov/2024-11-29-73) (i kraft fra den tid Kongen bestemmer).
 

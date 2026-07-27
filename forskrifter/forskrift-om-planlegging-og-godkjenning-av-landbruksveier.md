@@ -30,7 +30,11 @@ Formålet med denne forskriften er å sikre at planlegging og bygging av landbru
 
 ### § 1-2. Definisjoner
 
-I denne forskriften forstås:*Landbruksveier*: bilveier og traktorveier som bygges i samsvar med normaler for landbruksveier med byggebeskrivelse fastsatt av Landbruks- og matdepartementet, samt enklere veier som er nødvendige for landbruksvirksomhet.*Landbruksvirksomhet*: jord- og skogbruk, herunder gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlag.*Ombygging av landbruksvei*: vesentlig opprusting av eksisterende vei til en bedre veiklasse i samsvar med normaler for landbruksveier med byggebeskrivelse fastsatt av Landbruks- og matdepartementet.
+I denne forskriften forstås:
+
+1. *Landbruksveier*: bilveier og traktorveier som bygges i samsvar med normaler for landbruksveier med byggebeskrivelse fastsatt av Landbruks- og matdepartementet, samt enklere veier som er nødvendige for landbruksvirksomhet.
+2. *Landbruksvirksomhet*: jord- og skogbruk, herunder gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlag.
+3. *Ombygging av landbruksvei*: vesentlig opprusting av eksisterende vei til en bedre veiklasse i samsvar med normaler for landbruksveier med byggebeskrivelse fastsatt av Landbruks- og matdepartementet.
 
 ### § 1-3. Virkeområde
 
@@ -90,7 +94,11 @@ Kommunen skal sette en frist for uttalelser basert på tiltakets omfang og karak
 
 ### § 3-2. Vedtakets innhold mv.
 
-Saker som behandles etter denne forskriften skal undergis landbruksfaglige og miljøfaglige vurderinger, jf. [§ 1-1](forskrift/2015-05-28-550/§1-1), og hvor det blant annet skal legges vekt på:helhetsløsninger for landbruksvirksomhet og andre formål veien tjener, uavhengig av eiendomsgrenser,konsekvenser som bygging, ombygging og bruk av veien vil ha for miljøverdier,faren for flom, erosjon og løsmasseskred.
+Saker som behandles etter denne forskriften skal undergis landbruksfaglige og miljøfaglige vurderinger, jf. [§ 1-1](forskrift/2015-05-28-550/§1-1), og hvor det blant annet skal legges vekt på:
+
+1. helhetsløsninger for landbruksvirksomhet og andre formål veien tjener, uavhengig av eiendomsgrenser,
+2. konsekvenser som bygging, ombygging og bruk av veien vil ha for miljøverdier,
+3. faren for flom, erosjon og løsmasseskred.
 
 Når saken er ferdig forberedt, skal kommunen enten fatte vedtak om å godkjenne veiutformingen, byggingen eller ombyggingen, sette vilkår for godkjenningen, jf. [§ 3-3](forskrift/2015-05-28-550/§3-3), eller nekte hele eller deler av veianlegget bygget eller ombygget. Vedtaket må bygge på at de landbruksressurser veien har betydning for skal kunne brukes på en rasjonell og regningssvarende måte.
 

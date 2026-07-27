@@ -15,7 +15,7 @@ xml_hash: "17a3d7bc0e0b3ba5295bd797cc9642c1ae2ff591e191243b6a55d3cfabe59993"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -196,13 +196,23 @@ Enhver plikter å medvirke til gjennomføring av tilsyn. Dette omfatter blant an
 
 Norges vassdrags- og energidirektorat kan gi de pålegg og treffe de øvrige vedtak som er nødvendige for gjennomføring av forskriften og vedtak fastsatt med hjemmel i forskriften.
 
-Vedtak etter første ledd kan blant annet gå ut påå bringe et energirelatert produkt i samsvar med denne forskrift,å vederlagsfritt avstå prøver på eller fra energirelaterte produkter,å betale utgiftene til undersøkelse dersom produktet viser seg ikke å være i samsvar med denne forskrift,begrensning av eller forbud mot omsetning av eller adgangen til å ta i bruk et energirelatert produkt.
+Vedtak etter første ledd kan blant annet gå ut på
+
+1. å bringe et energirelatert produkt i samsvar med denne forskrift,
+2. å vederlagsfritt avstå prøver på eller fra energirelaterte produkter,
+3. å betale utgiftene til undersøkelse dersom produktet viser seg ikke å være i samsvar med denne forskrift,
+4. begrensning av eller forbud mot omsetning av eller adgangen til å ta i bruk et energirelatert produkt.
 
 > Endret ved forskrifter [18 des 2015 nr. 1785](forskrift/2015-12-18-1785) (tidligere § 20), [26 mars 2021 nr. 1040](forskrift/2021-03-26-1040) (tidligere § 28), [20 juni 2025 nr. 1180](forskrift/2025-06-20-1180) (tidligere § 21), [6 jan 2026 nr. 8](forskrift/2026-01-06-8) (tidligere § 22).
 
 ### § 24. Overtredelsesgebyr
 
-Norges vassdrags- og energidirektorat kan ilegge overtredelsesgebyr etter [lov 18. desember 1981 nr. 90 forbrukermerkeloven § 10](lov/1981-12-18-90/§10), til den som overtrer en eller flere av følgende bestemmelser i energimerkeforordningen:artikkel 3 nr. 1 første og tredje punktum, nr. 2, 3, 4 og 5artikkel 4 nr. 1 og 2, nr. 4 annet punktum og nr. 6 første og tredje punktumartikkel 5 nr. 1 ogartikkel 6 bokstav a, b, c, d og e.
+Norges vassdrags- og energidirektorat kan ilegge overtredelsesgebyr etter [lov 18. desember 1981 nr. 90 forbrukermerkeloven § 10](lov/1981-12-18-90/§10), til den som overtrer en eller flere av følgende bestemmelser i energimerkeforordningen:
+
+1. artikkel 3 nr. 1 første og tredje punktum, nr. 2, 3, 4 og 5
+2. artikkel 4 nr. 1 og 2, nr. 4 annet punktum og nr. 6 første og tredje punktum
+3. artikkel 5 nr. 1 og
+4. artikkel 6 bokstav a, b, c, d og e.
 
 Overtredelsesgebyr som ilegges for brudd på bestemmelser som nevnt i første ledd, skal utmåles i det enkelte tilfellet (individuell utmåling). Overtredelsesgebyret skal ikke overstige 10 ganger folketrygdens grunnbeløp (G) eller 0,5 % av foretakets gjennomsnittlige omsetning de siste tre regnskapsår, dersom dette blir et høyere beløp.
 
@@ -212,8 +222,13 @@ Norges vassdrags- og energidirektorat kan helt eller delvis frafalle kravet om o
 
 ### § 25. Straff
 
-Den som vesentlig overtrer følgende bestemmelser i energimerkeforordningen:artikkel 3 nr. 1 første og tredje punktum, nr. 2, 3, 4 og 5artikkel 4 nr. 1 og 2, nr. 4 annet punktum og nr. 6 første og tredje punktumartikkel 5 nr. 1 ogartikkel 6 bokstav a, b, c, d og e,
-straffes med bøter etter [lov 18. desember 1981 nr. 90 § 11](lov/1981-12-18-90/§11).
+Den som vesentlig overtrer følgende bestemmelser i energimerkeforordningen:
+
+1. artikkel 3 nr. 1 første og tredje punktum, nr. 2, 3, 4 og 5
+2. artikkel 4 nr. 1 og 2, nr. 4 annet punktum og nr. 6 første og tredje punktum
+3. artikkel 5 nr. 1 og
+4. artikkel 6 bokstav a, b, c, d og e,
+   straffes med bøter etter [lov 18. desember 1981 nr. 90 § 11](lov/1981-12-18-90/§11).
 
 > Endret ved forskrifter [18 des 2015 nr. 1785](forskrift/2015-12-18-1785) (tidligere § 22), [26 mars 2021 nr. 1040](forskrift/2021-03-26-1040) (tidligere § 30), [20 juni 2025 nr. 1180](forskrift/2025-06-20-1180) (tidligere § 23), [6 jan 2026 nr. 8](forskrift/2026-01-06-8) (tidligere § 24).
 

@@ -15,7 +15,7 @@ xml_hash: "0ce448959face731d15e9c770ead0b59e19a0c2e3d7e073add08eae2930d85a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med denne forskriften er åfremme et høyt nivå for helse, miljø og sikkerhet i virksomhet som omfattes av denne forskriften,oppnå systematisk gjennomføring av tiltak for å oppfylle kravene og nå målene som er gitt i helse-, miljø- og sikkerhetslovgivningen,videreutvikle og forbedre nivået for helse, miljø og sikkerhet.
+Formålet med denne forskriften er å
+
+1. fremme et høyt nivå for helse, miljø og sikkerhet i virksomhet som omfattes av denne forskriften,
+2. oppnå systematisk gjennomføring av tiltak for å oppfylle kravene og nå målene som er gitt i helse-, miljø- og sikkerhetslovgivningen,
+3. videreutvikle og forbedre nivået for helse, miljø og sikkerhet.
 
 ### § 2. Virkeområde
 
@@ -50,13 +54,21 @@ Arbeidsmiljøloven og denne forskriften gjelder for bemannede undervannsoperasjo
 
 Fartøy med gangbro kan anvendes til innkvartering av arbeidstakere som arbeider på enklere innretninger. Arbeidsmiljøloven og denne forskriften gjelder for disse arbeidstakerne, også når de innkvarteres på denne typen fartøy.
 
-Unntatt fra arbeidsmiljøloven og bestemmelser i denne forskriften som er fastsatt i medhold av arbeidsmiljøloven erforsynings-, beredskaps- og ankerhåndteringstjeneste med fartøy, seismiske eller geologiske undersøkelser med fartøy og annen sammenlignbar aktivitet, som regnes som sjøfart,fartøy som utfører konstruksjons-, rørleggings- eller vedlikeholdsaktiviteter i petroleumsvirksomheten, dersom ikke noe annet blir fastsatt særskilt av Arbeidsdepartementet ved forskrift eller enkeltvedtak.
+Unntatt fra arbeidsmiljøloven og bestemmelser i denne forskriften som er fastsatt i medhold av arbeidsmiljøloven er
+
+1. forsynings-, beredskaps- og ankerhåndteringstjeneste med fartøy, seismiske eller geologiske undersøkelser med fartøy og annen sammenlignbar aktivitet, som regnes som sjøfart,
+2. fartøy som utfører konstruksjons-, rørleggings- eller vedlikeholdsaktiviteter i petroleumsvirksomheten, dersom ikke noe annet blir fastsatt særskilt av Arbeidsdepartementet ved forskrift eller enkeltvedtak.
 
 > Endret ved [forskrift 26 april 2019 nr. 533](forskrift/2019-04-26-533).
 
 ### § 5. Enkelte helselovers anvendelse i petroleumsvirksomhet til havs
 
-Følgende lover gjøres gjeldende så langt de passer for petroleumsvirksomhet til havs:[helsepersonelloven av 2. juli 1999 nr. 64](lov/1999-07-02-64),pasient- og [brukerrettighetsloven av 2. juli 1999 nr. 63](lov/1999-07-02-63) med unntak av [kapittel 8](lov/1999-07-02-63/kap8) om pasient- og brukerombud,[smittevernloven av 5. august 1994 nr. 55](lov/1994-08-05-55),[helseberedskapsloven av 23. juni 2000 nr. 56](lov/2000-06-23-56).
+Følgende lover gjøres gjeldende så langt de passer for petroleumsvirksomhet til havs:
+
+1. [helsepersonelloven av 2. juli 1999 nr. 64](lov/1999-07-02-64),
+2. pasient- og [brukerrettighetsloven av 2. juli 1999 nr. 63](lov/1999-07-02-63) med unntak av [kapittel 8](lov/1999-07-02-63/kap8) om pasient- og brukerombud,
+3. [smittevernloven av 5. august 1994 nr. 55](lov/1994-08-05-55),
+4. [helseberedskapsloven av 23. juni 2000 nr. 56](lov/2000-06-23-56).
 
 Det samme gjelder forskrifter som er fastsatt av Kongen eller Helse- og omsorgsdepartementet i medhold av legemiddelloven og lovene som nevnt i bokstav a til c. Forskrifter hjemlet i helseberedskapsloven gjelder ikke for petroleumsvirksomhet til havs, med mindre noe annet fremgår uttrykkelig av den enkelte forskriften.
 
@@ -64,7 +76,24 @@ Det samme gjelder forskrifter som er fastsatt av Kongen eller Helse- og omsorgsd
 
 ### § 6. Definisjoner
 
-I denne forskriften menes med:*Den ansvarlige:* Operatør og andre som deltar i virksomhet som er omfattet av denne forskriften, uten å være rettighetshaver eller eier av landanlegg.*Helsemessige forhold:* Forhold som vedrører helsetjeneste, helsemessig beredskap, transport av syke og skadde, hygieniske forhold, drikkevannsforsyning, produksjon og frambud av næringsmidler samt andre forhold av betydning for helse og hygiene. Det omfatter også kvalifikasjonskrav for og opplæring av personell for ivaretakelse av ovennevnte forhold.*Helse-, miljø- og sikkerhetslovgivningen:* Hjemmelslovene og vedtak fattet i medhold av disse innenfor virkeområdet, jf. [§ 2](forskrift/2010-02-12-158/§2), og helselovgivning som gjelder etter § 1-5 i [petroleumsloven.](lov/1996-11-29-72/§1-5)*Innretning:* Installasjoner, anlegg og annet utstyr for petroleumsvirksomhet, likevel ikke forsynings- og hjelpefartøy eller skip som transporterer petroleum i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt.*Landanlegg:* Petroleumsanleggene på Kårstø, Sture, Kollsnes, Mongstad, Tjeldbergodden, Melkøya, Nyhamna og tilknyttede rørledningssystemer, samt reservegasskraftverket på Nyhamna, gasskraftverk i Hammerfest, Skogn og Grenland og tilknyttede rørledningssystemer, herunder de delene av landanlegget som også faller inn under [petroleumslovens](lov/1996-11-29-72) definisjon av innretning, jf. [petroleumsloven § 1-6](lov/1996-11-29-72/§1-6).*Operatør: Når aktiviteten er underlagt petroleumsloven:* den som på rettighetshavers vegne forestår den daglige ledelse av petroleumsvirksomheten.*Utenfor petroleumslovens virkeområde:* den som på eiers vegne forestår den daglige ledelse av virksomheten.*Petroleumsvirksomhet:* All virksomhet knyttet til undersjøiske petroleumsforekomster, herunder undersøkelse, leteboring, utvinning, transport, utnyttelse og avslutning samt planlegging av slike aktiviteter, likevel ikke transport av petroleum i bulk med skip.*Rettighetshaver:* Fysisk eller juridisk person, eller flere slike personer, som etter petroleumsloven eller tidligere lovgivning innehar en tillatelse til undersøkelse, utvinning, transport eller utnyttelse. Er en tillatelse gitt til flere slike personer sammen kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltaker.*Sikkerhetssone:* Et geografisk avgrenset område ved innretning til havs med forbud mot eller begrensninger med hensyn til opphold, gjennomfart eller operasjoner av uvedkommende fartøy, det vil si fartøy som ikke inngår i rettighetshaverens petroleumsvirksomhet eller som ikke er gitt full eller begrenset adgang av myndigheter eller rettighetshavere, deriblant også luftfartøy.Med mindre Kongen bestemmer noe annet, strekker sonen seg fra havbunnen til maksimalt 500 meter over høyeste punkt på en innretning i vertikalplanet. Horisontalt strekker sonen seg 500 meter ut fra innretningens ytterpunkter, der denne til enhver tid befinner seg.Sonen begrenser ikke aktivitet som er særskilt tillatt etter petroleumsloven eller som er utøvelse av offentlig myndighet.*Oppholdsperiode:* Med oppholdsperiode som nevnt i denne forskriften [kapittel VI](forskrift/2010-02-12-158/kapvi), menes det tidsrommet en arbeidstaker oppholder seg i sammenheng på innretninger eller fartøy som omfattes av denne forskriften.
+I denne forskriften menes med:
+
+1. *Den ansvarlige:* Operatør og andre som deltar i virksomhet som er omfattet av denne forskriften, uten å være rettighetshaver eller eier av landanlegg.
+2. *Helsemessige forhold:* Forhold som vedrører helsetjeneste, helsemessig beredskap, transport av syke og skadde, hygieniske forhold, drikkevannsforsyning, produksjon og frambud av næringsmidler samt andre forhold av betydning for helse og hygiene. Det omfatter også kvalifikasjonskrav for og opplæring av personell for ivaretakelse av ovennevnte forhold.
+3. *Helse-, miljø- og sikkerhetslovgivningen:* Hjemmelslovene og vedtak fattet i medhold av disse innenfor virkeområdet, jf. [§ 2](forskrift/2010-02-12-158/§2), og helselovgivning som gjelder etter § 1-5 i [petroleumsloven.](lov/1996-11-29-72/§1-5)
+4. *Innretning:* Installasjoner, anlegg og annet utstyr for petroleumsvirksomhet, likevel ikke forsynings- og hjelpefartøy eller skip som transporterer petroleum i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt.
+5. *Landanlegg:* Petroleumsanleggene på Kårstø, Sture, Kollsnes, Mongstad, Tjeldbergodden, Melkøya, Nyhamna og tilknyttede rørledningssystemer, samt reservegasskraftverket på Nyhamna, gasskraftverk i Hammerfest, Skogn og Grenland og tilknyttede rørledningssystemer, herunder de delene av landanlegget som også faller inn under [petroleumslovens](lov/1996-11-29-72) definisjon av innretning, jf. [petroleumsloven § 1-6](lov/1996-11-29-72/§1-6).
+6. *Operatør: Når aktiviteten er underlagt petroleumsloven:* den som på rettighetshavers vegne forestår den daglige ledelse av petroleumsvirksomheten.
+
+   *Utenfor petroleumslovens virkeområde:* den som på eiers vegne forestår den daglige ledelse av virksomheten.
+7. *Petroleumsvirksomhet:* All virksomhet knyttet til undersjøiske petroleumsforekomster, herunder undersøkelse, leteboring, utvinning, transport, utnyttelse og avslutning samt planlegging av slike aktiviteter, likevel ikke transport av petroleum i bulk med skip.
+8. *Rettighetshaver:* Fysisk eller juridisk person, eller flere slike personer, som etter petroleumsloven eller tidligere lovgivning innehar en tillatelse til undersøkelse, utvinning, transport eller utnyttelse. Er en tillatelse gitt til flere slike personer sammen kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltaker.
+9. *Sikkerhetssone:* Et geografisk avgrenset område ved innretning til havs med forbud mot eller begrensninger med hensyn til opphold, gjennomfart eller operasjoner av uvedkommende fartøy, det vil si fartøy som ikke inngår i rettighetshaverens petroleumsvirksomhet eller som ikke er gitt full eller begrenset adgang av myndigheter eller rettighetshavere, deriblant også luftfartøy.
+
+   Med mindre Kongen bestemmer noe annet, strekker sonen seg fra havbunnen til maksimalt 500 meter over høyeste punkt på en innretning i vertikalplanet. Horisontalt strekker sonen seg 500 meter ut fra innretningens ytterpunkter, der denne til enhver tid befinner seg.
+
+   Sonen begrenser ikke aktivitet som er særskilt tillatt etter petroleumsloven eller som er utøvelse av offentlig myndighet.
+10. *Oppholdsperiode:* Med oppholdsperiode som nevnt i denne forskriften [kapittel VI](forskrift/2010-02-12-158/kapvi), menes det tidsrommet en arbeidstaker oppholder seg i sammenheng på innretninger eller fartøy som omfattes av denne forskriften.
 
 > Endret ved [forskrifter 24 mai 2013 nr. 514](forskrift/2013-05-24-514), [17 mars 2023 nr. 347](forskrift/2023-03-17-347) (i kraft 1 april 2023).
 
@@ -82,7 +111,12 @@ Arbeidstakerne har plikt til å medvirke jf. [arbeidsmiljøloven § 2-3](lov/200
 
 De enkelte arbeidsgiverne som samtidig driver virksomhet på samme arbeidsplass, skal samarbeide om å etterleve bestemmelsene som er gitt i denne forskriften, jf. [arbeidsmiljøloven § 2-2](lov/2005-06-17-62/§2-2) første ledd. De skal også informere hverandre og sine egne arbeidstakere om risikoforhold på arbeidsplassen. Arbeidsgiverne skal se til at arbeidstakere fra andre virksomheter som utfører arbeid i arbeidsgivernes virksomhet, har fått nødvendig instruksjon i håndtering av sikkerhets- og helserisikoen ved arbeidet.
 
-Hovedbedriften er ansvarlig for å samordne de enkelte virksomhetenes verne- og arbeidsmiljøarbeid og har særlig plikt til åsørge for at det etableres rutiner for informasjonsutveksling mellom de ulike gruppene av arbeidstakere på arbeidsplassen,se til at alle arbeidstakerne er knyttet til et verneombud på arbeidsplassen, og at de gis anledning til å fremme saker for arbeidsmiljøutvalget,se til at verneombud og verne- og helsepersonale har nødvendig innsikt i arbeidsoperasjonene på arbeidsplassen, ogse til at overtredelser av relevante bestemmelser i arbeidsmiljøloven og utfyllende forskrifter blir påpekt og rettet.
+Hovedbedriften er ansvarlig for å samordne de enkelte virksomhetenes verne- og arbeidsmiljøarbeid og har særlig plikt til å
+
+1. sørge for at det etableres rutiner for informasjonsutveksling mellom de ulike gruppene av arbeidstakere på arbeidsplassen,
+2. se til at alle arbeidstakerne er knyttet til et verneombud på arbeidsplassen, og at de gis anledning til å fremme saker for arbeidsmiljøutvalget,
+3. se til at verneombud og verne- og helsepersonale har nødvendig innsikt i arbeidsoperasjonene på arbeidsplassen, og
+4. se til at overtredelser av relevante bestemmelser i arbeidsmiljøloven og utfyllende forskrifter blir påpekt og rettet.
 
 ## Kap. II. Grunnleggende krav til helse, miljø og sikkerhet
 
@@ -244,15 +278,37 @@ Dokumentasjon av planene som nevnt i denne paragrafens første og andre ledd ska
 
 Planer som rettighetshaveren skal utarbeide etter [petroleumsloven § 4-2](lov/1996-11-29-72/§4-2) og [§ 4-3](lov/1996-11-29-72/§4-3), skal inneholde en overordnet redegjørelse for forhold ved den valgte utvinningsstrategien og utbyggingsløsningen. Planene skal sendes til Energidepartementet med kopi til Sokkeldirektoratet og Havindustritilsynet.
 
-Dokumentasjonen som nevnt i første ledd, skal tilpasses utbyggingens eller prosjektets omfang. Redegjørelsen i utbyggingsdelen skal omfattemålene for helse, miljø og sikkerhet og akseptkriteriene for risiko,organisering av prosjektet og prosjektets styringssystemer,operatørens håndtering av grenseflatene mellom deltakerne i utbyggingen og koordineringen og oppfølgingen av deltakernes aktiviteter,forhold som er av betydning for helse, miljø og sikkerhet ved eventuell samordning av petroleumsvirksomhet,framdriften i prosjektet,program for kvalifisering av ny teknologi,en plan for utføring og oppfølging av analyser,en oversikt over fag- eller områdespesifikke dokumenter som kan utdype beskrivelsen i planene,en oversikt over standarder og spesifikasjoner som skal gjelde for utbyggingen,kravene til drift og vedlikehold,planer for helsetjeneste, herunder forebyggende helsetjeneste og kurative tjenester, hygiene og helsemessig beredskap,andre forhold som er av betydning for helse, miljø og sikkerhet.
+Dokumentasjonen som nevnt i første ledd, skal tilpasses utbyggingens eller prosjektets omfang. Redegjørelsen i utbyggingsdelen skal omfatte
+
+1. målene for helse, miljø og sikkerhet og akseptkriteriene for risiko,
+2. organisering av prosjektet og prosjektets styringssystemer,
+3. operatørens håndtering av grenseflatene mellom deltakerne i utbyggingen og koordineringen og oppfølgingen av deltakernes aktiviteter,
+4. forhold som er av betydning for helse, miljø og sikkerhet ved eventuell samordning av petroleumsvirksomhet,
+5. framdriften i prosjektet,
+6. program for kvalifisering av ny teknologi,
+7. en plan for utføring og oppfølging av analyser,
+8. en oversikt over fag- eller områdespesifikke dokumenter som kan utdype beskrivelsen i planene,
+9. en oversikt over standarder og spesifikasjoner som skal gjelde for utbyggingen,
+10. kravene til drift og vedlikehold,
+11. planer for helsetjeneste, herunder forebyggende helsetjeneste og kurative tjenester, hygiene og helsemessig beredskap,
+12. andre forhold som er av betydning for helse, miljø og sikkerhet.
 
 *2. Petroleumsvirksomhet på land*
 
-I tillegg til dokumentasjonen som nevnt i nr. 1, skal redegjørelsen i utbyggingsdelen av PUD og PAD omfattebeskrivelse av lokalisering og arealdisponerings-/situasjonsplan,forslag til areal med rådighetsbegrensning og vurdering av behovet for reguleringsplan eller endring i eksisterende reguleringsplan,opplysninger om hvilke tillatelser og lignende som det er søkt om etter gjeldende lovgivning ellers.
+I tillegg til dokumentasjonen som nevnt i nr. 1, skal redegjørelsen i utbyggingsdelen av PUD og PAD omfatte
+
+1. beskrivelse av lokalisering og arealdisponerings-/situasjonsplan,
+2. forslag til areal med rådighetsbegrensning og vurdering av behovet for reguleringsplan eller endring i eksisterende reguleringsplan,
+3. opplysninger om hvilke tillatelser og lignende som det er søkt om etter gjeldende lovgivning ellers.
 
 *3. Petroleumsvirksomhet til havs*
 
-I tillegg til dokumentasjonen som nevnt i nr. 1, skal redegjørelsen i utbyggingsdelen av PUD og PAD omfattehovedplanen for bore- og brønnaktiviteter for utvinningsbrønner,en vurdering av utbyggingsløsninger med hensyn til bruk av bemannede undervannsoperasjoner i alle faser av petroleumsvirksomheten,sikkerhetssonene ved utbygging og drift av petroleumsforekomstene,hvordan innretningen kan disponeres ved avslutningen av petroleumsvirksomheten.
+I tillegg til dokumentasjonen som nevnt i nr. 1, skal redegjørelsen i utbyggingsdelen av PUD og PAD omfatte
+
+1. hovedplanen for bore- og brønnaktiviteter for utvinningsbrønner,
+2. en vurdering av utbyggingsløsninger med hensyn til bruk av bemannede undervannsoperasjoner i alle faser av petroleumsvirksomheten,
+3. sikkerhetssonene ved utbygging og drift av petroleumsforekomstene,
+4. hvordan innretningen kan disponeres ved avslutningen av petroleumsvirksomheten.
 
 Dersom det etter [petroleumsloven § 4-2](lov/1996-11-29-72/§4-2) eller [§ 4-3](lov/1996-11-29-72/§4-3) søkes om fritak fra krav om planer som nevnt i første ledd, skal hovedplanen for bore- og brønnaktiviteter som nevnt i nr. 3 bokstav a, legges ved.
 
@@ -278,7 +334,15 @@ For å ivareta sikkerheten i petroleumsvirksomheten til havs, kan Havindustritil
 
 Planen som rettighetshaveren skal utarbeide etter [petroleumsloven § 5-1](lov/1996-11-29-72/§5-1), skal sendes til Energidepartementet med kopi til Sokkeldirektoratet og Havindustritilsynet.
 
-I tillegg til dokumentasjon som nevnt i forskrift til petroleumsloven § 44, skal planen inneholde en beskrivelse avrisikoen under og etter en eventuell fjerning,metoder som planlegges nyttet ved en eventuell fjerning, deriblant reflyting av strukturen,analyser som planlegges utført,operasjoner som planlegges nyttet ved en eventuell fjerning,konsekvenser av en eventuell fjerning for tilstøtende felt og innretninger,andre forhold som er av betydning for en forsvarlig gjennomføring,eventuelle tiltak for å motvirke forurensning jf. [forurensningsloven § 20](lov/1981-03-13-6/§20).
+I tillegg til dokumentasjon som nevnt i forskrift til petroleumsloven § 44, skal planen inneholde en beskrivelse av
+
+1. risikoen under og etter en eventuell fjerning,
+2. metoder som planlegges nyttet ved en eventuell fjerning, deriblant reflyting av strukturen,
+3. analyser som planlegges utført,
+4. operasjoner som planlegges nyttet ved en eventuell fjerning,
+5. konsekvenser av en eventuell fjerning for tilstøtende felt og innretninger,
+6. andre forhold som er av betydning for en forsvarlig gjennomføring,
+7. eventuelle tiltak for å motvirke forurensning jf. [forurensningsloven § 20](lov/1981-03-13-6/§20).
 
 Paragrafen gjelder for landanleggene så langt disse faller inn under petroleumslovens virkeområde.
 
@@ -390,7 +454,11 @@ Arbeidstaker har rett til å bli fritatt fra utvidet oppholdsperiode på samme v
 
 Arbeid mellom kl. 23.00 og kl. 06.00 eller mellom kl. 00.00 og kl. 07.00 er nattarbeid.
 
-Nattarbeid er tillatt når:det er nødvendig for å opprettholde produksjonen eller arbeidet gjelder aktiviteter direkte knyttet til bore- og brønnoperasjoner, herunder nødvendige støttefunksjonerhelse-, miljø- og sikkerhetsrisikoen reduseres dersom arbeidet utføres om natten ellerdriften på innretningen er stengt og arbeidet ikke innebærer en særlig risiko.
+Nattarbeid er tillatt når:
+
+1. det er nødvendig for å opprettholde produksjonen eller arbeidet gjelder aktiviteter direkte knyttet til bore- og brønnoperasjoner, herunder nødvendige støttefunksjoner
+2. helse-, miljø- og sikkerhetsrisikoen reduseres dersom arbeidet utføres om natten eller
+3. driften på innretningen er stengt og arbeidet ikke innebærer en særlig risiko.
 
 Arbeidsgiver skal drøfte nødvendigheten av nattarbeid med arbeidstakers tillitsvalgte før det iverksettes.
 
@@ -452,7 +520,10 @@ Innretninger skal være klargjort for planlagt bruk og skal brukes og eventuelt 
 
 Ved arbeidskonflikter skal den ansvarlige sette i verk nødvendige tiltak for å opprettholde et forsvarlig sikkerhetsnivå.
 
-Arbeidsgiver og arbeidstakerne i det enkelte selskap skal på forhånd inngå avtale om sikkerhetsarbeid ved en arbeidskonflikt. Avtalene skal inneholde:Nedkjøringsavtale: Hvordan aktiviteter avvikles og brønner sikres i henhold til gjeldende brønnprogram, og hvilke funksjoner og stillinger som inngår i dette arbeidet.Avtale om sikkerhetsbemanning: Hvilke funksjoner og stillinger som inngår i sikkerhetsarbeid etter at nedstenging er gjennomført og avsluttet, og hva sikkerhetsbemanningen skal gjøre.
+Arbeidsgiver og arbeidstakerne i det enkelte selskap skal på forhånd inngå avtale om sikkerhetsarbeid ved en arbeidskonflikt. Avtalene skal inneholde:
+
+1. Nedkjøringsavtale: Hvordan aktiviteter avvikles og brønner sikres i henhold til gjeldende brønnprogram, og hvilke funksjoner og stillinger som inngår i dette arbeidet.
+2. Avtale om sikkerhetsbemanning: Hvilke funksjoner og stillinger som inngår i sikkerhetsarbeid etter at nedstenging er gjennomført og avsluttet, og hva sikkerhetsbemanningen skal gjøre.
 
 Arbeidstakerne skal delta i nødvendig sikkerhetsarbeid etter avtale før en arbeidsstans settes i verk.
 
@@ -598,7 +669,12 @@ Tilsynsmyndighetene kan på sine respektive myndighetsområder pålegge operatø
 
 ### § 68. Forskrifter
 
-Havindustritilsynet, Miljødirektoratet, Helsedirektoratet, Mattilsynet og Direktoratet for strålevern og atomsikkerhet kan på sine respektive ansvarsområder gi de forskriftene som er nødvendige for å utfylle denne forskriften, blant annet bestemmelser omstyring av petroleumsvirksomheten med mer, herunder innhold i, oppfølging av og videreutvikling av styringssystem; materiale og opplysninger, blant annet bestemmelser om innhold, omfang, type, format og tidspunkt for innsending eller tilgjengelighet,utforming og utrusting av innretninger med mer i petroleumsvirksomheten,utføring av aktiviteter i petroleumsvirksomheten, ogutforming og utrusting av landanlegg og utføring av aktiviteter på landanlegg.
+Havindustritilsynet, Miljødirektoratet, Helsedirektoratet, Mattilsynet og Direktoratet for strålevern og atomsikkerhet kan på sine respektive ansvarsområder gi de forskriftene som er nødvendige for å utfylle denne forskriften, blant annet bestemmelser om
+
+1. styring av petroleumsvirksomheten med mer, herunder innhold i, oppfølging av og videreutvikling av styringssystem; materiale og opplysninger, blant annet bestemmelser om innhold, omfang, type, format og tidspunkt for innsending eller tilgjengelighet,
+2. utforming og utrusting av innretninger med mer i petroleumsvirksomheten,
+3. utføring av aktiviteter i petroleumsvirksomheten, og
+4. utforming og utrusting av landanlegg og utføring av aktiviteter på landanlegg.
 
 > Endret ved [forskrifter 15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [15 des 2017 nr. 2134](forskrift/2017-12-15-2134) (i kraft 1 jan 2018), [20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019), [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 

@@ -16,7 +16,7 @@ xml_hash: "2642b5145638a088779d0c308ad14e6df9b80d9f61faa1dd235c317d0ba0cd3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -37,15 +37,46 @@ Forskriften skal sikre at apparater og faste installasjoner holder et hensiktsme
 
 ### § 3. Unntak
 
-(1) Forskriften gjelder ikke forapparater og faste installasjoner som på grunn av sine fysiske egenskaper ikke i vesentlig grad kan bli forstyrret av elektromagnetiske signaler og ikke genererer signaler som kan forårsake forstyrrelserspesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformål.
+(1) Forskriften gjelder ikke for
+
+1. apparater og faste installasjoner som på grunn av sine fysiske egenskaper ikke i vesentlig grad kan bli forstyrret av elektromagnetiske signaler og ikke genererer signaler som kan forårsake forstyrrelser
+2. spesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformål.
 
 (2) Forskriften får ikke anvendelse dersom de grunnleggende kravene i vedlegg I helt eller delvis er fastsatt i annet norsk regelverk som gjennomfører EØS-regelverk.
 
 ### § 4. Definisjoner
 
-(1) I forskriften menes med*apparat:* enhver ferdig innretning eller en kombinasjon av innretninger, som er gjort tilgjengelig på markedet i form av en enkelt funksjonell enhet, som er beregnet på sluttbrukere og kan skape elektromagnetisk forstyrrelse, eller som har en virkemåte som kan påvirkes av slik forstyrrelse*fast installasjon:* en bestemt kombinasjon av ulike typer apparater og eventuelt andre innretninger, som er montert, installert og beregnet på permanent bruk på et forhåndsbestemt sted*elektromagnetisk kompatibilitet:* apparaters og faste installasjoners evne til å virke tilfredsstillende i sitt elektromagnetiske miljø uten å forårsake uakseptable elektromagnetiske forstyrrelser for andre apparater og faste installasjoner i dette miljøet*elektromagnetisk forstyrrelse:* ethvert elektromagnetisk fenomen som kan redusere apparaters og faste installasjoners yteevne. Elektromagnetiske forstyrrelser kan være elektromagnetisk støy, uønskede signaler eller en endring i selve spredningsmediet*immunitet:* apparaters og faste installasjoners evne til å virke som planlagt uten at yteevnen reduseres under påvirkning av en elektromagnetisk forstyrrelse*sikkerhetsformål:* det formål å beskytte menneskeliv eller eiendom*elektromagnetisk miljø:* samtlige elektromagnetiske fenomener som kan observeres på et gitt sted*gjøre tilgjengelig på markedet:* enhver levering av et apparat for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt*bringe i omsetning:* gjøre et apparat tilgjengelig i EØS for første gang*produsent:* enhver fysisk eller juridisk person som produserer et apparat eller får et apparat konstruert eller produsert, og som markedsfører det under eget navn eller varemerke*representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver*importør:* enhver fysisk eller juridisk person etablert i EØS som bringer et apparat fra en tredjestat i omsetning i EØS*distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et apparat tilgjengelig på markedet*markedsdeltakere:* produsenten, representanten, importøren og distributøren*teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av et apparat*harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen med henblikk på gjennomføring av EØS-regelverk*akkreditering:* en attestering fra et nasjonalt akkrediteringsorgan om at et organ oppfyller kravene i harmoniserte standarder og eventuelle tilleggskrav, til å utøve en bestemt samsvarsvurderingsvirksomhet*nasjonalt akkrediteringsorgan:* det eneste organet i en EØS-stat som utfører akkreditering på oppdrag fra staten*samsvarsvurdering:* prosessen for å fastslå om et apparat oppfyller de grunnleggende kravene*teknisk kontrollorgan:* uavhengig organ som er utpekt etter [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar*tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av et apparat som allerede er gjort tilgjengelig for sluttbrukeren*tilbaketrekking:* ethvert tiltak med sikte på å hindre at et apparat i omsetningskjeden blir gjort tilgjengelig på markedet*CE-merking:* merking der produsenten angir at apparatet er i samsvar med gjeldende krav fastsatt i EØS-regelverk om slik merking*EØS-regelverk:* regelverk i EØS som harmoniserer vilkårene for markedsføring av produkter.
+(1) I forskriften menes med
 
-(2) I forskriften skal følgende anses som et apparat:«komponenter» eller «delenheter» som er beregnet på å bygges inn i et apparat av sluttbrukeren, og som kan skape elektromagnetisk forstyrrelse, eller som har en virkemåte som kan påvirkes av slik forstyrrelse«flyttbare anlegg» definert som en kombinasjon av apparater og eventuelt andre apparater og faste installasjoner, som er beregnet på å flyttes og brukes på en rekke ulike steder.
+1. *apparat:* enhver ferdig innretning eller en kombinasjon av innretninger, som er gjort tilgjengelig på markedet i form av en enkelt funksjonell enhet, som er beregnet på sluttbrukere og kan skape elektromagnetisk forstyrrelse, eller som har en virkemåte som kan påvirkes av slik forstyrrelse
+2. *fast installasjon:* en bestemt kombinasjon av ulike typer apparater og eventuelt andre innretninger, som er montert, installert og beregnet på permanent bruk på et forhåndsbestemt sted
+3. *elektromagnetisk kompatibilitet:* apparaters og faste installasjoners evne til å virke tilfredsstillende i sitt elektromagnetiske miljø uten å forårsake uakseptable elektromagnetiske forstyrrelser for andre apparater og faste installasjoner i dette miljøet
+4. *elektromagnetisk forstyrrelse:* ethvert elektromagnetisk fenomen som kan redusere apparaters og faste installasjoners yteevne. Elektromagnetiske forstyrrelser kan være elektromagnetisk støy, uønskede signaler eller en endring i selve spredningsmediet
+5. *immunitet:* apparaters og faste installasjoners evne til å virke som planlagt uten at yteevnen reduseres under påvirkning av en elektromagnetisk forstyrrelse
+6. *sikkerhetsformål:* det formål å beskytte menneskeliv eller eiendom
+7. *elektromagnetisk miljø:* samtlige elektromagnetiske fenomener som kan observeres på et gitt sted
+8. *gjøre tilgjengelig på markedet:* enhver levering av et apparat for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt
+9. *bringe i omsetning:* gjøre et apparat tilgjengelig i EØS for første gang
+10. *produsent:* enhver fysisk eller juridisk person som produserer et apparat eller får et apparat konstruert eller produsert, og som markedsfører det under eget navn eller varemerke
+11. *representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver
+12. *importør:* enhver fysisk eller juridisk person etablert i EØS som bringer et apparat fra en tredjestat i omsetning i EØS
+13. *distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et apparat tilgjengelig på markedet
+14. *markedsdeltakere:* produsenten, representanten, importøren og distributøren
+15. *teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av et apparat
+16. *harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen med henblikk på gjennomføring av EØS-regelverk
+17. *akkreditering:* en attestering fra et nasjonalt akkrediteringsorgan om at et organ oppfyller kravene i harmoniserte standarder og eventuelle tilleggskrav, til å utøve en bestemt samsvarsvurderingsvirksomhet
+18. *nasjonalt akkrediteringsorgan:* det eneste organet i en EØS-stat som utfører akkreditering på oppdrag fra staten
+19. *samsvarsvurdering:* prosessen for å fastslå om et apparat oppfyller de grunnleggende kravene
+20. *teknisk kontrollorgan:* uavhengig organ som er utpekt etter [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar
+21. *tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av et apparat som allerede er gjort tilgjengelig for sluttbrukeren
+22. *tilbaketrekking:* ethvert tiltak med sikte på å hindre at et apparat i omsetningskjeden blir gjort tilgjengelig på markedet
+23. *CE-merking:* merking der produsenten angir at apparatet er i samsvar med gjeldende krav fastsatt i EØS-regelverk om slik merking
+24. *EØS-regelverk:* regelverk i EØS som harmoniserer vilkårene for markedsføring av produkter.
+
+(2) I forskriften skal følgende anses som et apparat:
+
+1. «komponenter» eller «delenheter» som er beregnet på å bygges inn i et apparat av sluttbrukeren, og som kan skape elektromagnetisk forstyrrelse, eller som har en virkemåte som kan påvirkes av slik forstyrrelse
+2. «flyttbare anlegg» definert som en kombinasjon av apparater og eventuelt andre apparater og faste installasjoner, som er beregnet på å flyttes og brukes på en rekke ulike steder.
 
 ### § 5. Grunnleggende krav
 
@@ -57,7 +88,10 @@ Apparater og faste installasjoner skal oppfylle de grunnleggende kravene i vedle
 
 (2) Apparater og faste installasjoner som ikke oppfyller kravene i forskriften kan likevel vises frem på messer, utstillinger, demonstrasjoner eller lignende arrangementer når utstiller sørger for et skilt med tydelig informasjon om at produktet ikke kan gjøres tilgjengelig eller tas i bruk før de er brakt i samsvar med forskriften. Under demonstrasjoner skal det treffes hensiktsmessige tiltak for å unngå elektromagnetiske forstyrrelser.
 
-(3) Kravene i forskriften er ikke til hinder for at Direktoratet for samfunnssikkerhet og beredskap kan benytte følgende særlige tiltak i forbindelse med at apparater og faste installasjoner tas i bruk eller brukes:tiltak for å løse et eksisterende eller forutsett problem knyttet til elektromagnetisk kompatibilitet på et bestemt stedtiltak truffet av sikkerhetsmessige grunner for å beskytte offentlige telekommunikasjonsnett eller mottaker- eller senderstasjoner når de anvendes for sikkerhetsformål i klart definerte spektrumsituasjoner.
+(3) Kravene i forskriften er ikke til hinder for at Direktoratet for samfunnssikkerhet og beredskap kan benytte følgende særlige tiltak i forbindelse med at apparater og faste installasjoner tas i bruk eller brukes:
+
+1. tiltak for å løse et eksisterende eller forutsett problem knyttet til elektromagnetisk kompatibilitet på et bestemt sted
+2. tiltak truffet av sikkerhetsmessige grunner for å beskytte offentlige telekommunikasjonsnett eller mottaker- eller senderstasjoner når de anvendes for sikkerhetsformål i klart definerte spektrumsituasjoner.
 
 ## Kapittel 2. Markedsdeltakernes forpliktelser
 
@@ -89,13 +123,23 @@ Apparater og faste installasjoner skal oppfylle de grunnleggende kravene i vedle
 
 (2) Forpliktelsene etter [§ 7](forskrift/2017-10-10-1597/§7) første og annet ledd skal ikke omfattes av representantens fullmakt.
 
-(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til åha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at apparatet er brakt i omsetningpå anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at apparatet er i samsvar med forskriftenpå anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med apparater som omfattes av fullmakten.
+(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til å
+
+1. ha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at apparatet er brakt i omsetning
+2. på anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at apparatet er i samsvar med forskriften
+3. på anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med apparater som omfattes av fullmakten.
 
 ### § 9. Importørens forpliktelser
 
 (1) Importøren skal bare bringe i omsetning apparater som er i samsvar med forskriften.
 
-(2) Før et apparat bringes i omsetning skal importøren sikre atprodusenten har gjennomført relevant framgangsmåte for samsvarsvurderingprodusenten har utarbeidet teknisk dokumentasjonapparatet er påført CE-merkingapparatet følges av de nødvendige dokumenteneprodusenten har oppfylt kravene i [§ 7](forskrift/2017-10-10-1597/§7) sjette og sjuende ledd.
+(2) Før et apparat bringes i omsetning skal importøren sikre at
+
+1. produsenten har gjennomført relevant framgangsmåte for samsvarsvurdering
+2. produsenten har utarbeidet teknisk dokumentasjon
+3. apparatet er påført CE-merking
+4. apparatet følges av de nødvendige dokumentene
+5. produsenten har oppfylt kravene i [§ 7](forskrift/2017-10-10-1597/§7) sjette og sjuende ledd.
 
 (3) En importør som har grunn til å tro at et apparat ikke er i samsvar med kravene i vedlegg I, skal ikke bringe apparatet i omsetning før det er i samsvar med kravene. Dersom apparatet utgjør en risiko, skal importøren varsle produsenten og markedstilsynsmyndighetene.
 
@@ -115,7 +159,13 @@ Apparater og faste installasjoner skal oppfylle de grunnleggende kravene i vedle
 
 (1) Distributøren skal utvise tilstrekkelig aktsomhet til kravene i forskriften når apparatet gjøres tilgjengelig på markedet.
 
-(2) Før et apparat gjøres tilgjengelig på markedet, skal distributøren kontrollere atapparatet er påført CE-merkingapparatet følges av de nødvendige dokumenteneapparatet følges av opplysningene om bruken nevnt i [§ 16](forskrift/2017-10-10-1597/§16) på norsk og øvrige anvisninger på norsk, svensk, dansk eller engelsk. Dersom apparatet skal gjøres tilgjengelig på markedet i en annen EØS-stat skal opplysningene være på et språk fastsatt av denne EØS-statenprodusenten har oppfylt kravene i [§ 7](forskrift/2017-10-10-1597/§7) sjette og sjuende leddimportøren har oppfylt kravene i [§ 9](forskrift/2017-10-10-1597/§9) fjerde ledd.
+(2) Før et apparat gjøres tilgjengelig på markedet, skal distributøren kontrollere at
+
+1. apparatet er påført CE-merking
+2. apparatet følges av de nødvendige dokumentene
+3. apparatet følges av opplysningene om bruken nevnt i [§ 16](forskrift/2017-10-10-1597/§16) på norsk og øvrige anvisninger på norsk, svensk, dansk eller engelsk. Dersom apparatet skal gjøres tilgjengelig på markedet i en annen EØS-stat skal opplysningene være på et språk fastsatt av denne EØS-staten
+4. produsenten har oppfylt kravene i [§ 7](forskrift/2017-10-10-1597/§7) sjette og sjuende ledd
+5. importøren har oppfylt kravene i [§ 9](forskrift/2017-10-10-1597/§9) fjerde ledd.
 
 (3) En distributør som har grunn til å tro at et apparat ikke er i samsvar med kravene i vedlegg I, skal ikke gjøre apparatet tilgjengelig på markedet før det er i samsvar med kravene. Dersom apparatet utgjør en risiko, skal distributøren varsle markedstilsynsmyndighetene og produsenten eller importøren om dette.
 
@@ -143,7 +193,11 @@ Apparater og faste installasjoner som er i samsvar med harmoniserte standarder e
 
 (1) Samsvarserklæringen skal fastslå at kravene i vedlegg I er oppfylt.
 
-(2) Samsvarserklæringen skalutformes etter malen i vedlegg IVinneholde elementene angitt i de relevante framgangsmåtene for samsvarsvurdering i vedleggene II og IIIajourføres fortløpende.
+(2) Samsvarserklæringen skal
+
+1. utformes etter malen i vedlegg IV
+2. inneholde elementene angitt i de relevante framgangsmåtene for samsvarsvurdering i vedleggene II og III
+3. ajourføres fortløpende.
 
 (3) Samsvarserklæringen skal være på norsk, svensk, dansk eller engelsk. Dersom apparatet skal bringes i omsetning eller gjøres tilgjengelig på markedet i en annen EØS-stat, skal samsvarserklæringen oversettes til det eller de språkene som kreves av denne EØS-staten.
 
@@ -195,7 +249,10 @@ Apparater og faste installasjoner som er i samsvar med harmoniserte standarder e
 
 ### § 18. Framgangsmåter for samsvarsvurdering
 
-(1) Apparaters samsvar med kravene i vedlegg I skal påvises ved hjelp av en av følgende framgangsmåter for samsvarsvurdering:intern produksjonskontroll i vedlegg IIEU-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i vedlegg III.
+(1) Apparaters samsvar med kravene i vedlegg I skal påvises ved hjelp av en av følgende framgangsmåter for samsvarsvurdering:
+
+1. intern produksjonskontroll i vedlegg II
+2. EU-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i vedlegg III.
 
 (2) Produsenten kan velge å begrense anvendelsen av framgangsmåten nevnt i første ledd bokstav b til visse aspekter ved de grunnleggende kravene, forutsatt at framgangsmåten omhandlet i første ledd bokstav a anvendes for de øvrige aspektene ved de grunnleggende kravene.
 
@@ -219,11 +276,21 @@ Apparater og faste installasjoner som er i samsvar med harmoniserte standarder e
 
 (8) Et teknisk kontrollorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt etter vedlegg III og som det er utpekt for. Dette gjelder uansett om disse oppgavene utføres av organet selv eller på dets vegne og under dets ansvar.
 
-(9) Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av apparater som det er utpekt for, ha til rådighetnødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingenbeskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåteneegnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som teknisk kontrollorgan og annen virksomhetframgangsmåter for utførelse av virksomheten som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle apparatets teknologi er og produksjonsprosessens masse- eller seriepreg.
+(9) Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av apparater som det er utpekt for, ha til rådighet
+
+1. nødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingen
+2. beskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene
+3. egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som teknisk kontrollorgan og annen virksomhet
+4. framgangsmåter for utførelse av virksomheten som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle apparatets teknologi er og produksjonsprosessens masse- eller seriepreg.
 
 (10) Et teknisk kontrollorgan skal ha nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingen, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige fasiliteter.
 
-(11) Personale med ansvar for å utføre samsvarsvurderinger skal hasolid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt fortilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderingertilfredsstillende kunnskap om og forståelse av kravene i vedlegg I, de relevante harmoniserte standardene, relevante bestemmelser i norsk regelverk som gjennomfører EØS-regelverk og relevant nasjonal lovgivningnødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+(11) Personale med ansvar for å utføre samsvarsvurderinger skal ha
+
+1. solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt for
+2. tilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderinger
+3. tilfredsstillende kunnskap om og forståelse av kravene i vedlegg I, de relevante harmoniserte standardene, relevante bestemmelser i norsk regelverk som gjennomfører EØS-regelverk og relevant nasjonal lovgivning
+4. nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
 
 (12) Det skal sikres at det tekniske kontrollorganet, dets øverste ledelse og vurderingspersonale er upartiske.
 
@@ -277,7 +344,12 @@ Dersom et teknisk kontrollorgan ikke oppfyller sine forpliktelser, kan Direktora
 
 ### § 25. Opplysningsplikt
 
-(1) Et teknisk kontrollorgan skal varsle Direktoratet for samfunnssikkerhet og beredskap omalle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbakealle omstendigheter som påvirker omfanget av eller vilkårene for utpekingalle anmodninger det har mottatt fra markedstilsynsmyndighetene angående opplysninger om samsvarsvurderingsvirksomhetpå anmodning, samsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen og all annen virksomhet, blant annet virksomhet og underleveranser over landegrensene.
+(1) Et teknisk kontrollorgan skal varsle Direktoratet for samfunnssikkerhet og beredskap om
+
+1. alle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbake
+2. alle omstendigheter som påvirker omfanget av eller vilkårene for utpeking
+3. alle anmodninger det har mottatt fra markedstilsynsmyndighetene angående opplysninger om samsvarsvurderingsvirksomhet
+4. på anmodning, samsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen og all annen virksomhet, blant annet virksomhet og underleveranser over landegrensene.
 
 (2) Et teknisk kontrollorgan skal gi de andre organene som utøver tilsvarende samsvarsvurderingsvirksomhet som omfatter de samme apparatene, relevante opplysninger om spørsmål knyttet til negative resultater av samsvarsvurderingen og dersom de ber om det, også positive resultater av samsvarsvurderingen.
 
@@ -301,7 +373,16 @@ Direktoratet for samfunnssikkerhet og beredskap, eller den direktoratet bemyndig
 
 (1) Ved overtredelse av § 5 til § 10, § 12 og § 14 til § 18 i forskriften eller vedtak truffet i medhold av denne, gjelder [el-tilsynsloven § 6](lov/1929-05-24-4/§6), [§ 6a](lov/1929-05-24-4/§6a) og [§ 6b](lov/1929-05-24-4/§6b) og [petroleumsloven § 10-1](lov/1996-11-29-72/§10-1) og [§ 10-3](lov/1996-11-29-72/§10-3).
 
-(2) Dersom et apparat kan utgjøre en risiko, eller ikke er i samsvar med § 5 til § 10, § 12 og § 14 til § 18 i forskriften, kan Direktoratet for samfunnssikkerhet og beredskap og Havindustritilsynet:nedlegge forbud mot å importere, bringe i omsetning eller gjøre apparatet tilgjengelig på markedetkreve at apparatet tilbaketrekkes fra relevante markedsaktørerkreve at apparatet tilbakekalles fra den som har kjøpt apparatet eller tatt det i brukkreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av slike apparaterkreve retting av apparatetkreve at apparatet uskadeliggjøresnedlegge forbud mot bruk av apparatetkreve merking av apparatet.
+(2) Dersom et apparat kan utgjøre en risiko, eller ikke er i samsvar med § 5 til § 10, § 12 og § 14 til § 18 i forskriften, kan Direktoratet for samfunnssikkerhet og beredskap og Havindustritilsynet:
+
+1. nedlegge forbud mot å importere, bringe i omsetning eller gjøre apparatet tilgjengelig på markedet
+2. kreve at apparatet tilbaketrekkes fra relevante markedsaktører
+3. kreve at apparatet tilbakekalles fra den som har kjøpt apparatet eller tatt det i bruk
+4. kreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av slike apparater
+5. kreve retting av apparatet
+6. kreve at apparatet uskadeliggjøres
+7. nedlegge forbud mot bruk av apparatet
+8. kreve merking av apparatet.
 
 > Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 
@@ -331,7 +412,10 @@ Forskriften trer i kraft 11. oktober 2017. Fra samme tidspunkt oppheves [forskri
 
 *1. Allmenne krav*
 
-Apparater og faste installasjoner skal være konstruert og produsert i tråd med den nyeste utviklingen slik atden elektromagnetiske forstyrrelsen som oppstår, ikke er sterkere enn at radio- og telekommunikasjonsutstyr eller andre apparater og faste installasjoner kan fungere som planlagtdet har en grad av immunitet mot elektromagnetisk forstyrrelse som kan forventes i forbindelse med tilsiktet bruk, som gjør at det fungerer uten at den planlagte yteevnen reduseres i uakseptabel grad.
+Apparater og faste installasjoner skal være konstruert og produsert i tråd med den nyeste utviklingen slik at
+
+1. den elektromagnetiske forstyrrelsen som oppstår, ikke er sterkere enn at radio- og telekommunikasjonsutstyr eller andre apparater og faste installasjoner kan fungere som planlagt
+2. det har en grad av immunitet mot elektromagnetisk forstyrrelse som kan forventes i forbindelse med tilsiktet bruk, som gjør at det fungerer uten at den planlagte yteevnen reduseres i uakseptabel grad.
 
 *2. Særlige krav til faste installasjoner*
 
@@ -357,7 +441,14 @@ I vurderingen av elektromagnetisk kompatibilitet skal det tas hensyn til alle va
 
 Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om apparatet er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko.
 
-Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke apparatets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en allmenn beskrivelse av apparatet,konstruksjons- og produksjonstegninger samt lister over komponenter, delenheter, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og apparatets virkemåte,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende krav i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.
+Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke apparatets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+1. en allmenn beskrivelse av apparatet,
+2. konstruksjons- og produksjonstegninger samt lister over komponenter, delenheter, kretser osv.,
+3. nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og apparatets virkemåte,
+4. en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende krav i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+5. resultater av konstruksjonsberegninger, undersøkelser osv.,
+6. prøvingsrapporter.
 
 4.*Produksjon*
 
@@ -397,7 +488,18 @@ EU-typeprøving skal gjennomføres som en vurdering av egnetheten til apparatets
 
 Produsenten skal inngi en søknad om EU-typeprøving til ett enkelt teknisk kontrollorgan etter eget valg.
 
-Søknaden skal angi de aspekter ved de grunnleggende krav anmodningen om prøving gjelder, og skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om apparatet er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke apparatets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en allmenn beskrivelse av apparatet,konstruksjons- og produksjonstegninger samt lister over komponenter, delenheter, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og apparatets virkemåte,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende krav i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.
+Søknaden skal angi de aspekter ved de grunnleggende krav anmodningen om prøving gjelder, og skal inneholde
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+3. den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om apparatet er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke apparatets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+   1. en allmenn beskrivelse av apparatet,
+   2. konstruksjons- og produksjonstegninger samt lister over komponenter, delenheter, kretser osv.,
+   3. nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og apparatets virkemåte,
+   4. en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende krav i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+   5. resultater av konstruksjonsberegninger, undersøkelser osv.,
+   6. prøvingsrapporter.
 
 4\.
 

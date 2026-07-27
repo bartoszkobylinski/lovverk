@@ -26,17 +26,32 @@ eu_basis: []
 
 ### § 1. Kva eit organ skal ta omsyn til når det skal avgjere kva dokumentasjon det skal forvalte som arkiv
 
-Når eit organ skal avgjere kva dokumentasjon det skal forvalte som arkiv etter [arkivlova § 5](lov/2025-06-20-96/§5), skal det særleg ta omsyn til om dokumentasjonener relevant for å stadfeste korleis organet har handsama saker, løyst oppgåvene sine og handtert andre vesentlege tilhøve ved verksemdakan tene som prov på privatpersonar eller andre private rettssubjekt sine rettar og plikterallereie blir sikra og forvalta som arkiv i eit anna informasjonssystem i organet eller av eit anna organ i eit system for felles oppgåveløysing som avtalt etter [§ 8](forskrift/2025-12-17-2647/§8) i denne forskrifta.
+Når eit organ skal avgjere kva dokumentasjon det skal forvalte som arkiv etter [arkivlova § 5](lov/2025-06-20-96/§5), skal det særleg ta omsyn til om dokumentasjonen
+
+1. er relevant for å stadfeste korleis organet har handsama saker, løyst oppgåvene sine og handtert andre vesentlege tilhøve ved verksemda
+2. kan tene som prov på privatpersonar eller andre private rettssubjekt sine rettar og plikter
+3. allereie blir sikra og forvalta som arkiv i eit anna informasjonssystem i organet eller av eit anna organ i eit system for felles oppgåveløysing som avtalt etter [§ 8](forskrift/2025-12-17-2647/§8) i denne forskrifta.
 
 ### § 2. Forskrift om kva dokumentasjon som skal takast vare på for ettertida
 
-Når Nasjonalarkivet gir forskrift med heimel i [arkivlova § 12 andre ledd andre punktum](lov/2025-06-20-96/§12/ledd/2/setning/2) om kva dokumentasjon som organa skal ta vare på for ettertida, skal Nasjonalarkivet leggje desse kriteria til grunn:i kva grad dokumentasjonen viser endringar i samfunnet, medrekna korleis ulike grupper, organisasjonar og verksemder har påverka og har blitt påverka av utviklinga over tidi kva grad dokumentasjonen viser endringar i naturen og klimaet over tidi kva grad dokumentasjonen viser korleis offentlege organ forvaltar oppgåvene sine og ansvaret sitt, medrekna korleis dei utøver mynde og samhandlar med kvarandrei kva grad dokumentasjonen viser korleis dei private rettssubjekta som er omfatta av [arkivlova](lov/2025-06-20-96), forvaltar oppgåvene sine, jf. [arkivlova § 3](lov/2025-06-20-96/§3)om dokumentasjonen kan tene som prov på privatpersonar eller andre private rettssubjekt sine rettar eller plikter i framtida.
+Når Nasjonalarkivet gir forskrift med heimel i [arkivlova § 12 andre ledd andre punktum](lov/2025-06-20-96/§12/ledd/2/setning/2) om kva dokumentasjon som organa skal ta vare på for ettertida, skal Nasjonalarkivet leggje desse kriteria til grunn:
+
+1. i kva grad dokumentasjonen viser endringar i samfunnet, medrekna korleis ulike grupper, organisasjonar og verksemder har påverka og har blitt påverka av utviklinga over tid
+2. i kva grad dokumentasjonen viser endringar i naturen og klimaet over tid
+3. i kva grad dokumentasjonen viser korleis offentlege organ forvaltar oppgåvene sine og ansvaret sitt, medrekna korleis dei utøver mynde og samhandlar med kvarandre
+4. i kva grad dokumentasjonen viser korleis dei private rettssubjekta som er omfatta av [arkivlova](lov/2025-06-20-96), forvaltar oppgåvene sine, jf. [arkivlova § 3](lov/2025-06-20-96/§3)
+5. om dokumentasjonen kan tene som prov på privatpersonar eller andre private rettssubjekt sine rettar eller plikter i framtida.
 
 ### § 3. Oppbevaringstider for dokumentasjon
 
 Eit organ skal sjølv fastsetje oppbevaringstider for dokumentasjon som ikkje er omfatta av forskrifta gitt av Nasjonalarkivet med heimel i [arkivlova § 12 andre ledd andre punktum](lov/2025-06-20-96/§12/ledd/2/setning/2) om kva dokumentasjon som organa skal ta vare på for ettertida.
 
-Når organet fastset oppbevaringstider, skal det vurdere kor lenge det er naudsynt å oppbevare dokumentasjon av omsyn tilreglar om tidsavgrensa oppbevaring i anna regelverkdei administrative og juridiske dokumentasjonsbehova til organet sjølvdei juridiske dokumentasjonsbehova til andre offentlege og private verksemderdokumentasjonsbehova til borgarane.
+Når organet fastset oppbevaringstider, skal det vurdere kor lenge det er naudsynt å oppbevare dokumentasjon av omsyn til
+
+1. reglar om tidsavgrensa oppbevaring i anna regelverk
+2. dei administrative og juridiske dokumentasjonsbehova til organet sjølv
+3. dei juridiske dokumentasjonsbehova til andre offentlege og private verksemder
+4. dokumentasjonsbehova til borgarane.
 
 ### § 4. Særlege reglar for visse organ
 
@@ -50,11 +65,24 @@ Organa som er nemnde i [arkivlova § 14 fjerde ledd bokstav b](lov/2025-06-20-96
 
 Informasjonssystem som inneheld dokumentasjon som skal forvaltast som arkiv, skal ha funksjonar som gjer at informasjonen blir sikra og forvalta i tråd med [arkivlova § 5 første ledd](lov/2025-06-20-96/§5/ledd/1).
 
-Eit organ som bruker system som er nemnde i første ledd, skal syte for at systema har funksjonar somgjer at informasjonen har naudsynte metadata om opphavet til informasjonen og samanhengen han inngår ivernar informasjonen mot ikkje-autoriserte endringarsporar endringargjer at dokumentasjonen kan bli eksportert på ein kontrollert, systematisk og etterprøvbar måtegjer at dokumentasjon som ikkje skal takast vare på for ettertida, kan bli kassert på ein kontrollert, systematisk og etterprøvbar måtegjer det mogleg for organ, med enkle framgangsmåtar, å finne fram til og hente ut dokumentasjon for eigne behov og for å gi innsyn etter [offentleglova](lov/2006-05-19-16), [forvaltningsloven](lov/1967-02-10) eller anna lovgjer at metadata som skal registrerast saman med saksdokument etter § 15, kan hentast ut til ein journal.
+Eit organ som bruker system som er nemnde i første ledd, skal syte for at systema har funksjonar som
+
+1. gjer at informasjonen har naudsynte metadata om opphavet til informasjonen og samanhengen han inngår i
+2. vernar informasjonen mot ikkje-autoriserte endringar
+3. sporar endringar
+4. gjer at dokumentasjonen kan bli eksportert på ein kontrollert, systematisk og etterprøvbar måte
+5. gjer at dokumentasjon som ikkje skal takast vare på for ettertida, kan bli kassert på ein kontrollert, systematisk og etterprøvbar måte
+6. gjer det mogleg for organ, med enkle framgangsmåtar, å finne fram til og hente ut dokumentasjon for eigne behov og for å gi innsyn etter [offentleglova](lov/2006-05-19-16), [forvaltningsloven](lov/1967-02-10) eller anna lov
+7. gjer at metadata som skal registrerast saman med saksdokument etter § 15, kan hentast ut til ein journal.
 
 ### § 6. Krav til skildringar av informasjonssystem
 
-Organ skal ha skildringar av informasjonssystem som inneheld dokumentasjon som skal forvaltast som arkiv. Skildringane skal visekva slags typar dokumentasjon som er lagra i systemetkva som er opphavet og historikken til dokumentasjonenkorleis systemet er sikra mot utilsikta eller ikkje dokumenterte endringarkva prosedyrar som er etablerte for å registrere og forvalte dokumentasjon i delvis analoge informasjonssystem.
+Organ skal ha skildringar av informasjonssystem som inneheld dokumentasjon som skal forvaltast som arkiv. Skildringane skal vise
+
+1. kva slags typar dokumentasjon som er lagra i systemet
+2. kva som er opphavet og historikken til dokumentasjonen
+3. korleis systemet er sikra mot utilsikta eller ikkje dokumenterte endringar
+4. kva prosedyrar som er etablerte for å registrere og forvalte dokumentasjon i delvis analoge informasjonssystem.
 
 Dersom eit informasjonssystem inneheld dokumentasjon som skal takast vare på for ettertida, skal skildringane òg innehalde ei oversikt over informasjonsstrukturen i systemet.
 
@@ -62,7 +90,12 @@ Dersom eit informasjonssystem inneheld dokumentasjon som skal takast vare på fo
 
 Eit organ skal halde dokumentasjonen i digitale arkiv ved like, slik at informasjonen er sikra og forvalta i tråd med [arkivlova § 5](lov/2025-06-20-96/§5).
 
-Dersom det er påkravd å flytte dokumentasjon til nye lagringsmedium, konvertere dokumentasjon til nye digitale format, ta i bruk nye applikasjonar og standardar for strukturering og utveksling av informasjon eller liknande, skal organet syte for at informasjonen ikkje tapar seg. Organet skal mellom anna sikre atinformasjon som i utgangspunktet var leseleg for menneske, framleis er leseleg for menneske etter vedlikehaldetinformasjon som i utgangspunktet var maskinleseleg, framleis er maskinleseleg etter vedlikehaldetmetadata som viser opphavet til informasjonen, og korleis sakshandsaminga og oppgåveløysinga har foregått, ikkje blir borte eller forringaeigenskapar ved dokumentasjonen som gjer søk, kopling og samanstilling mogleg, blir oppretthaldne.
+Dersom det er påkravd å flytte dokumentasjon til nye lagringsmedium, konvertere dokumentasjon til nye digitale format, ta i bruk nye applikasjonar og standardar for strukturering og utveksling av informasjon eller liknande, skal organet syte for at informasjonen ikkje tapar seg. Organet skal mellom anna sikre at
+
+1. informasjon som i utgangspunktet var leseleg for menneske, framleis er leseleg for menneske etter vedlikehaldet
+2. informasjon som i utgangspunktet var maskinleseleg, framleis er maskinleseleg etter vedlikehaldet
+3. metadata som viser opphavet til informasjonen, og korleis sakshandsaminga og oppgåveløysinga har foregått, ikkje blir borte eller forringa
+4. eigenskapar ved dokumentasjonen som gjer søk, kopling og samanstilling mogleg, blir oppretthaldne.
 
 ### § 8. Avtale om ansvaret for dokumentasjon i system for felles oppgåveløysing
 
@@ -76,9 +109,21 @@ Den analoge dokumentasjonen kan destruerast etter at han er konvertert i tråd m
 
 ### § 10. Krav til sikring av lagringsmedium for arkiv
 
-Lagringsmedium for arkiv skal oppbevarast slik at dei alltid er verna motvatn og fuktbrann, spreiing av brann og skadeleg varmeskadeleg klima- og miljøpåverknad som mugg, skadedyr og liknandeskadeverk, innbrot og ikkje-autorisert tilgang.
+Lagringsmedium for arkiv skal oppbevarast slik at dei alltid er verna mot
 
-For analoge arkiv som skal takast vare på for ettertida, gjeld i tillegg desse krava:Lysnivå, temperaturar og verdiar for luftfukt i lokalet skal vere såleis tilpassa at lagringsmedium og dokumentasjon held seg best mogleg.Lokalet skal ikkje ha vindauge dersom det kan setje tryggleiken til arkiva i fare.Lokalet skal vere særleg utrusta for å hindre at brann oppstår og spreier seg der inne, og for å hindre at brann på utsida spreier seg til lokalet.Arkiva skal plasserast på reolar, minimum 10 cm frå golv og yttervegg.Golv og reolar skal vere laga for å tole vekta av arkiva.Lokalet skal ha fast tilsyn og reinhald.
+1. vatn og fukt
+2. brann, spreiing av brann og skadeleg varme
+3. skadeleg klima- og miljøpåverknad som mugg, skadedyr og liknande
+4. skadeverk, innbrot og ikkje-autorisert tilgang.
+
+For analoge arkiv som skal takast vare på for ettertida, gjeld i tillegg desse krava:
+
+1. Lysnivå, temperaturar og verdiar for luftfukt i lokalet skal vere såleis tilpassa at lagringsmedium og dokumentasjon held seg best mogleg.
+2. Lokalet skal ikkje ha vindauge dersom det kan setje tryggleiken til arkiva i fare.
+3. Lokalet skal vere særleg utrusta for å hindre at brann oppstår og spreier seg der inne, og for å hindre at brann på utsida spreier seg til lokalet.
+4. Arkiva skal plasserast på reolar, minimum 10 cm frå golv og yttervegg.
+5. Golv og reolar skal vere laga for å tole vekta av arkiva.
+6. Lokalet skal ha fast tilsyn og reinhald.
 
 Det skal setjast i verk tiltak med det same dersom det oppstår risiko for at arkiv kan bli skadde. Oppståtte skadar på arkiv skal utbetrast så langt det er mogleg.
 
@@ -90,7 +135,23 @@ Organet skal fastsetje rutinar for retting av feil i registrerte opplysningar i 
 
 ### § 12. Kva dokumentasjonsplanen skal innehalde
 
-Dokumentasjonsplanen til eit organ skal oppfylle krava i [arkivlova § 8 første](lov/2025-06-20-96/§8/ledd/1) og [andre ledd](lov/2025-06-20-96/§8/ledd/2) og i tillegg innehaldeopplysningar om eventuelle tenesteavtaler om arkiv som organet har inngått med andre organ eller private rettssubjektvurderingane som ligg til grunn for avgjerda om kva dokumentasjon organet skal forvalte som arkiv, jf. [§ 1](forskrift/2025-12-17-2647/§1)opplysningar om kva delar av organet sin dokumentasjon som skal takast vare på for ettertida etter forskrift fastsett av Nasjonalarkivet med heimel i [arkivlova § 12 andre ledd andre punktum](lov/2025-06-20-96/§12/ledd/2/setning/2)opplysningar om oppbevaringstid for dokumentasjon som det ikkje er krav om at skal takast vare på for ettertida, jf. [§ 3](forskrift/2025-12-17-2647/§3)opplysningar om reglar om teieplikt og informasjonstryggleik for dei ulike delane av dokumentasjonenopplysningar om eventuelle avtaler som er inngått etter [§ 8](forskrift/2025-12-17-2647/§8) om ansvaret for dokumentasjon i system for felles oppgåveløysingopplysningar om kva informasjonssystem organet nyttar til å lagre dokumentasjon som skal forvaltast som arkiv, og om systema oppfyller krava til informasjonssystem i [§ 5](forskrift/2025-12-17-2647/§5)organet sine skildringar av informasjonssystem, jf. [§ 6](forskrift/2025-12-17-2647/§6)organet sine rutinar for retting av feil i registrerte opplysningar, jf. [§ 11](forskrift/2025-12-17-2647/§11)organet sine rutinar for avlevering eller overføring av arkiv til langtidsbevaringorganet sine rutinar for å kontrollere at dokumentasjon blir konvertert på rett måteopplysningar om kva avslutta analoge arkiv som er konverterte etter [kapittel 3](forskrift/2025-12-17-2647/kap3)oversikter som er utarbeidde etter [§ 49](forskrift/2025-12-17-2647/§49) når ansvaret for dokumentasjon er blitt flytta mellom organ i samband med omorganisering av offentleg sektoroversikt over korleis eventuelle analoge arkiv er ordnaopplysningar om kva som er avtalt med andre som løyser lovpålagde oppgåver på vegner av organet om korleis pliktene etter lova skal følgjast opp, jf. [arkivlova § 7 første ledd](lov/2025-06-20-96/§7/ledd/1), og kva som skal gjelde for dokumentasjon som organet har plikt til å ta imot etter [arkivlova § 7 andre ledd](lov/2025-06-20-96/§7/ledd/2).
+Dokumentasjonsplanen til eit organ skal oppfylle krava i [arkivlova § 8 første](lov/2025-06-20-96/§8/ledd/1) og [andre ledd](lov/2025-06-20-96/§8/ledd/2) og i tillegg innehalde
+
+1. opplysningar om eventuelle tenesteavtaler om arkiv som organet har inngått med andre organ eller private rettssubjekt
+2. vurderingane som ligg til grunn for avgjerda om kva dokumentasjon organet skal forvalte som arkiv, jf. [§ 1](forskrift/2025-12-17-2647/§1)
+3. opplysningar om kva delar av organet sin dokumentasjon som skal takast vare på for ettertida etter forskrift fastsett av Nasjonalarkivet med heimel i [arkivlova § 12 andre ledd andre punktum](lov/2025-06-20-96/§12/ledd/2/setning/2)
+4. opplysningar om oppbevaringstid for dokumentasjon som det ikkje er krav om at skal takast vare på for ettertida, jf. [§ 3](forskrift/2025-12-17-2647/§3)
+5. opplysningar om reglar om teieplikt og informasjonstryggleik for dei ulike delane av dokumentasjonen
+6. opplysningar om eventuelle avtaler som er inngått etter [§ 8](forskrift/2025-12-17-2647/§8) om ansvaret for dokumentasjon i system for felles oppgåveløysing
+7. opplysningar om kva informasjonssystem organet nyttar til å lagre dokumentasjon som skal forvaltast som arkiv, og om systema oppfyller krava til informasjonssystem i [§ 5](forskrift/2025-12-17-2647/§5)
+8. organet sine skildringar av informasjonssystem, jf. [§ 6](forskrift/2025-12-17-2647/§6)
+9. organet sine rutinar for retting av feil i registrerte opplysningar, jf. [§ 11](forskrift/2025-12-17-2647/§11)
+10. organet sine rutinar for avlevering eller overføring av arkiv til langtidsbevaring
+11. organet sine rutinar for å kontrollere at dokumentasjon blir konvertert på rett måte
+12. opplysningar om kva avslutta analoge arkiv som er konverterte etter [kapittel 3](forskrift/2025-12-17-2647/kap3)
+13. oversikter som er utarbeidde etter [§ 49](forskrift/2025-12-17-2647/§49) når ansvaret for dokumentasjon er blitt flytta mellom organ i samband med omorganisering av offentleg sektor
+14. oversikt over korleis eventuelle analoge arkiv er ordna
+15. opplysningar om kva som er avtalt med andre som løyser lovpålagde oppgåver på vegner av organet om korleis pliktene etter lova skal følgjast opp, jf. [arkivlova § 7 første ledd](lov/2025-06-20-96/§7/ledd/1), og kva som skal gjelde for dokumentasjon som organet har plikt til å ta imot etter [arkivlova § 7 andre ledd](lov/2025-06-20-96/§7/ledd/2).
 
 ### § 13. Internkontroll med dokumentasjonsforvaltninga
 
@@ -104,13 +165,24 @@ Den øvste leiinga i andre organ som er omfatta av lova har ansvar for at det bl
 
 Eit organ skal føre journal for å leggje til rette for offentleg innsyn. I journalen skal organet registrere alle inngåande og utgåande dokument som etter [offentleglova § 4](lov/2006-05-19-16/§4) må reknast som saksdokument for organet, dersom dei er eller blir sakshandsama og har verdi som stadfesting av dei tilhøva dei gjeld.
 
-Organinterne dokument etter [offentleglova § 14](lov/2006-05-19-16/§14) skal organet registrere i journalen så langt organet finn det tenleg. Desse organinterne dokumenta skal likevel alltid journalførast:dokument som er omtalte i [offentleglova § 14 andre ledd](lov/2006-05-19-16/§14/ledd/2)dokument som er omtalte i [offentleglova § 16 første ledd bokstav a](lov/2006-05-19-16/§16/ledd/1/bokstav/a) til [d](lov/2006-05-19-16/§16/ledd/1/bokstav/d), [§ 16 andre ledd](lov/2006-05-19-16/§16/ledd/2) og [§ 16 tredje ledd første punktum](lov/2006-05-19-16/§16/ledd/3/setning/1)dokument som er omtalte i [offentlegforskrifta § 8](forskrift/2008-10-17-1119/§8).
+Organinterne dokument etter [offentleglova § 14](lov/2006-05-19-16/§14) skal organet registrere i journalen så langt organet finn det tenleg. Desse organinterne dokumenta skal likevel alltid journalførast:
+
+1. dokument som er omtalte i [offentleglova § 14 andre ledd](lov/2006-05-19-16/§14/ledd/2)
+2. dokument som er omtalte i [offentleglova § 16 første ledd bokstav a](lov/2006-05-19-16/§16/ledd/1/bokstav/a) til [d](lov/2006-05-19-16/§16/ledd/1/bokstav/d), [§ 16 andre ledd](lov/2006-05-19-16/§16/ledd/2) og [§ 16 tredje ledd første punktum](lov/2006-05-19-16/§16/ledd/3/setning/1)
+3. dokument som er omtalte i [offentlegforskrifta § 8](forskrift/2008-10-17-1119/§8).
 
 Dokument i saker om innsyn er ikkje omfatta av journalføringsplikta med mindre dokumenta gjeld eller inneheld ei nærare grunngjeving, ein klage, eit krav om betaling for innsyn eller eit spørsmål om korleis innsyn skal givast.
 
 ### § 15. Kva metadata som skal registrerast om eit saksdokument i ein journal
 
-Eit organ som skal føre journal etter [§ 14 første ledd første punktum](forskrift/2025-12-17-2647/§14/ledd/1/setning/1), skal løpande registrere følgjande metadata om alle saksdokument som er journalføringspliktige:identifikator som gir dokumentet eit unikt kjenneteikn som kan lesast av menneskeinformasjon om konteksten dokumentet blir brukt i, og kva andre dokument det høyrer saman medein tittel eller andre metadata som viser kva dokumentet gjeldnamnet på sendaren eller mottakaren av dokumentetdatoen på dokumentet eller datoen som viser når dokumentet blei sendt eller motteketidspunktet for registreringa.
+Eit organ som skal føre journal etter [§ 14 første ledd første punktum](forskrift/2025-12-17-2647/§14/ledd/1/setning/1), skal løpande registrere følgjande metadata om alle saksdokument som er journalføringspliktige:
+
+1. identifikator som gir dokumentet eit unikt kjenneteikn som kan lesast av menneske
+2. informasjon om konteksten dokumentet blir brukt i, og kva andre dokument det høyrer saman med
+3. ein tittel eller andre metadata som viser kva dokumentet gjeld
+4. namnet på sendaren eller mottakaren av dokumentet
+5. datoen på dokumentet eller datoen som viser når dokumentet blei sendt eller motteke
+6. tidspunktet for registreringa.
 
 Organet skal gjere journalen tilgjengeleg for offentleg innsyn etter reglane i [offentleglova](lov/2006-05-19-16). Organet kan gjere unntak frå innsyn i opplysningar i journalen dersom det ikkje er mogleg å registrere eit dokument utan at det kjem fram opplysningar som er omfatta av lovfesta teieplikt, eller som allmenta elles ikkje kan krevje innsyn i. Organet kan gjere unntak for ei heil journalregistrering berre når det trengst for ikkje å røpe opplysningar som er omfatta av lovfesta teieplikt.
 
@@ -134,9 +206,15 @@ Eit organ som skal avlevere eit arkiv til Nasjonalarkivet, skal avtale med Nasjo
 
 ### § 18. Destruksjon av dei analoge lagringsmedia etter konverteringa
 
-Eit organ som har konvertert eit analogt arkiv til digitalt format, kan destruere dei analoge lagringsmedia dersom dokumentasjonen er konvertert i tråd med reglane i dette kapittelet. Organet skal kontrollere atdei tekniske krava til konverteringa er oppfylte, jf. [§ 16](forskrift/2025-12-17-2647/§16)naudsynte metadata er blitt tilførte arkivet og korrekt kopla saman med den konverterte dokumentasjonen, jf. [§ 17](forskrift/2025-12-17-2647/§17).
+Eit organ som har konvertert eit analogt arkiv til digitalt format, kan destruere dei analoge lagringsmedia dersom dokumentasjonen er konvertert i tråd med reglane i dette kapittelet. Organet skal kontrollere at
 
-Eit organ som skal avlevere arkiv til Nasjonalarkivet, kan destruere dei analoge lagringsmedia først etter at Nasjonalarkivet har godkjent konverteringa. I tillegg til det som følgjer av første ledd bokstav a og b, skal organa kontrollere atall dokumentasjon som skal avleverast digitalt, er blitt konvertertden konverterte dokumentasjonen er lagra i dei filformata som er avtalte med Nasjonalarkivet, jf. [§ 30](forskrift/2025-12-17-2647/§30).
+1. dei tekniske krava til konverteringa er oppfylte, jf. [§ 16](forskrift/2025-12-17-2647/§16)
+2. naudsynte metadata er blitt tilførte arkivet og korrekt kopla saman med den konverterte dokumentasjonen, jf. [§ 17](forskrift/2025-12-17-2647/§17).
+
+Eit organ som skal avlevere arkiv til Nasjonalarkivet, kan destruere dei analoge lagringsmedia først etter at Nasjonalarkivet har godkjent konverteringa. I tillegg til det som følgjer av første ledd bokstav a og b, skal organa kontrollere at
+
+1. all dokumentasjon som skal avleverast digitalt, er blitt konvertert
+2. den konverterte dokumentasjonen er lagra i dei filformata som er avtalte med Nasjonalarkivet, jf. [§ 30](forskrift/2025-12-17-2647/§30).
 
 ### § 19. Unntak frå moglegheita til å destruere analoge lagringsmedium etter konverteringa
 
@@ -158,7 +236,15 @@ Dersom eit organ søkjer om det, kan Nasjonalarkivet i særlege høve gjere unnt
 
 Nasjonalarkivet fastset når statlege organ skal avlevere arkiva sine.
 
-Når eit organ skal avlevere, skal det inngå ei avtale med Nasjonalarkivet. I avtala skal det gå framkva slags dokumentasjon som skal avleverastkor mykje dokumentasjon som skal avleverastkva informasjonssystem dokumentasjonen er lagra iom dokumentasjonen skal avleverast analogt eller digitaltkva filformat datafiler skal hanår dokumentasjonen skal avleverastom det er inngått avtale om utsett overføring av råderetten over arkivet etter [§ 22](forskrift/2025-12-17-2647/§22), og kva som er avtalt.
+Når eit organ skal avlevere, skal det inngå ei avtale med Nasjonalarkivet. I avtala skal det gå fram
+
+1. kva slags dokumentasjon som skal avleverast
+2. kor mykje dokumentasjon som skal avleverast
+3. kva informasjonssystem dokumentasjonen er lagra i
+4. om dokumentasjonen skal avleverast analogt eller digitalt
+5. kva filformat datafiler skal ha
+6. når dokumentasjonen skal avleverast
+7. om det er inngått avtale om utsett overføring av råderetten over arkivet etter [§ 22](forskrift/2025-12-17-2647/§22), og kva som er avtalt.
 
 ### § 22. Avtale om råderett over avleverte arkiv
 
@@ -168,13 +254,29 @@ Nasjonalarkivet kan avtale med eit statleg organ at den delen av råderetten ove
 
 Statlege organ skal gi dei opplysningane som trengst for at Nasjonalarkivet skal kunne ta imot, ta vare på, tolke og leggje til rette for bruk av dokumentasjonen som er avlevert.
 
-Nasjonalarkivet kan krevje å få opplysningar omopphavet til dokumentasjonenkva samanheng dokumentasjonen blei til i og var ein del avkva slags informasjon dokumentasjonen inneheldkva tidsperiode dokumentasjonen omfattarkorleis dokumentasjon er strukturertkva format dokumentasjonen harnoko av dokumentasjonen er kassert før avlevering, markert som sletta med heimel i lov, og elles er ufullstendignoko av dokumentasjonen inneheld personopplysningar eller særlege kategoriar av personopplysningarreglar om teieplikt og informasjonstryggleik for dei ulike delane av dokumentasjoneninformasjonssystemet som dokumentasjonen har vore lagra ikorleis analoge arkiv har blitt konverterte til digitalt format.
+Nasjonalarkivet kan krevje å få opplysningar om
+
+1. opphavet til dokumentasjonen
+2. kva samanheng dokumentasjonen blei til i og var ein del av
+3. kva slags informasjon dokumentasjonen inneheld
+4. kva tidsperiode dokumentasjonen omfattar
+5. korleis dokumentasjon er strukturert
+6. kva format dokumentasjonen har
+7. noko av dokumentasjonen er kassert før avlevering, markert som sletta med heimel i lov, og elles er ufullstendig
+8. noko av dokumentasjonen inneheld personopplysningar eller særlege kategoriar av personopplysningar
+9. reglar om teieplikt og informasjonstryggleik for dei ulike delane av dokumentasjonen
+10. informasjonssystemet som dokumentasjonen har vore lagra i
+11. korleis analoge arkiv har blitt konverterte til digitalt format.
 
 Organa skal gi opplysningane i Nasjonalarkivets digitale skjema eller applikasjonar for avlevering.
 
 ### § 24. Refusjon av Nasjonalarkivets kostnader
 
-Nasjonalarkivet kan krevje refusjon av kostnader når det gjer oppgåver som etter [arkivlova](lov/2025-06-20-96) og forskrift gitt med heimel i lova skal løysast av andre organ. Dette gjeld mellom annakostnader som oppstår fordi eit arkiv ikkje har vore handsama i tråd med [arkivlova](lov/2025-06-20-96) og forskrift som er gitt med heimel i lovakostnader som heng saman med tilrettelegging av arkivet for administrativ bruk, dersom arkivet blir avlevert før det er ute av aktiv brukkostnader til tiltak som skal gjere det mogleg for eit organ å utøve råderetten over arkiv, dersom det er inngått avtale om å utsetje overføringa av delar av råderetten etter [§ 22](forskrift/2025-12-17-2647/§22).
+Nasjonalarkivet kan krevje refusjon av kostnader når det gjer oppgåver som etter [arkivlova](lov/2025-06-20-96) og forskrift gitt med heimel i lova skal løysast av andre organ. Dette gjeld mellom anna
+
+1. kostnader som oppstår fordi eit arkiv ikkje har vore handsama i tråd med [arkivlova](lov/2025-06-20-96) og forskrift som er gitt med heimel i lova
+2. kostnader som heng saman med tilrettelegging av arkivet for administrativ bruk, dersom arkivet blir avlevert før det er ute av aktiv bruk
+3. kostnader til tiltak som skal gjere det mogleg for eit organ å utøve råderetten over arkiv, dersom det er inngått avtale om å utsetje overføringa av delar av råderetten etter [§ 22](forskrift/2025-12-17-2647/§22).
 
 ## Kapittel 5. Avlevering av digitale arkiv frå statlege organ til Nasjonalarkivet
 
@@ -184,7 +286,13 @@ Statlege organ som skal avlevere digital dokumentasjon til Nasjonalarkivet, skal
 
 ### § 26. Kva ei arkivpakke skal innehalde
 
-Ei arkivpakke skal innehaldeeit uttrekk av dokumentasjonen som skal avleverastinformasjon som stadfester at uttrekket er produsert på ein kontrollert, systematisk og etterprøvbar måteopplysningar om dokumentasjonen som skal avleverast, jf. [§ 23](forskrift/2025-12-17-2647/§23)tekniske skildringar av uttrekket, jf. [§ 32](forskrift/2025-12-17-2647/§32)tekniske metadata om alle datafilene i arkivpakka, inkludert sjekksummar og filplasseringar.
+Ei arkivpakke skal innehalde
+
+1. eit uttrekk av dokumentasjonen som skal avleverast
+2. informasjon som stadfester at uttrekket er produsert på ein kontrollert, systematisk og etterprøvbar måte
+3. opplysningar om dokumentasjonen som skal avleverast, jf. [§ 23](forskrift/2025-12-17-2647/§23)
+4. tekniske skildringar av uttrekket, jf. [§ 32](forskrift/2025-12-17-2647/§32)
+5. tekniske metadata om alle datafilene i arkivpakka, inkludert sjekksummar og filplasseringar.
 
 Innhaldet i arkivpakka skal vere i tråd med avleveringsavtala, jf. [§ 21 andre ledd](forskrift/2025-12-17-2647/§21/ledd/2).
 
@@ -192,7 +300,13 @@ Innhaldet i arkivpakka skal vere i tråd med avleveringsavtala, jf. [§ 21 andre
 
 Nasjonalarkivet skal kontrollere og godkjenne arkivpakker frå statlege organ.
 
-Nasjonalarkivet kan nekte å godkjenne ei arkivpakke eller delar av henne dersomuttrekket ikkje inneheld den avtalte dokumentasjonenfeil eller manglar i uttrekket kjem av feil ved sjølve produksjonen av uttrekketden tekniske skildringa av uttrekket er feilaktig eller ufullstendigskildringane av dokumentasjonen som skal avleverast, er feilaktige eller ufullstendigeandre krav som er fastsette i denne forskrifta eller i avtale, ikkje er oppfylte.
+Nasjonalarkivet kan nekte å godkjenne ei arkivpakke eller delar av henne dersom
+
+1. uttrekket ikkje inneheld den avtalte dokumentasjonen
+2. feil eller manglar i uttrekket kjem av feil ved sjølve produksjonen av uttrekket
+3. den tekniske skildringa av uttrekket er feilaktig eller ufullstendig
+4. skildringane av dokumentasjonen som skal avleverast, er feilaktige eller ufullstendige
+5. andre krav som er fastsette i denne forskrifta eller i avtale, ikkje er oppfylte.
 
 Om ei arkivpakke frå eit statleg organ ikkje blir godkjent, må organet produsere ei ny arkivpakke med dei endringane som trengst for å oppfylle krava etter [§ 26](forskrift/2025-12-17-2647/§26). Nasjonalarkivet skal destruere arkivpakka som ikkje blei godkjent.
 
@@ -202,7 +316,12 @@ Dersom eit statleg organ skal avlevere dokumentasjon som er skapt i eit informas
 
 ### § 29. Krav til uttrekk av strukturert informasjon frå databasar
 
-Uttrekk av strukturert informasjon frå databasane til statlege organ skal bestå av ei eller fleire datafiler i eit av følgjande filformat:Comma-separated-values (CSV), som spesifisert i IETF RFC 4180Extensible Markup Language (XML) versjon 1.0Java Script Object Notation (JSON), som spesifisert i ISO/IEC 21778Software Independent Archiving of Relational Databases (SIARD) versjon 2.1.1 eller 2.2.
+Uttrekk av strukturert informasjon frå databasane til statlege organ skal bestå av ei eller fleire datafiler i eit av følgjande filformat:
+
+1. Comma-separated-values (CSV), som spesifisert i IETF RFC 4180
+2. Extensible Markup Language (XML) versjon 1.0
+3. Java Script Object Notation (JSON), som spesifisert i ISO/IEC 21778
+4. Software Independent Archiving of Relational Databases (SIARD) versjon 2.1.1 eller 2.2.
 
 Eit organ kan avtale med Nasjonalarkivet å bruke andre filformat enn dei som er nemnde i første ledd.
 
@@ -216,7 +335,11 @@ Om organet skal konvertere datafiler til nye filformat, skal det sikre at inform
 
 ### § 31. Krav til teiknsett i uttrekk
 
-Statlege organ skal bruke følgjande standardar for teiknsett i uttrekk:ISO/IEC 10646 representert ved UTF-8ISO/IEC 8859-1:1998ISO/IEC 8859-4:1998.
+Statlege organ skal bruke følgjande standardar for teiknsett i uttrekk:
+
+1. ISO/IEC 10646 representert ved UTF-8
+2. ISO/IEC 8859-1:1998
+3. ISO/IEC 8859-4:1998.
 
 Andre standardar for teiknsett kan berre brukast etter avtale med Nasjonalarkivet.
 
@@ -224,7 +347,11 @@ Andre standardar for teiknsett kan berre brukast etter avtale med Nasjonalarkive
 
 Statlege organ skal gi Nasjonalarkivet tekniske skildringar av uttrekk som skal avleverast til Nasjonalarkivet. Skildringane skal gjere det mogleg for Nasjonalarkivet å lese data og datastrukturar slik dei er lagra i uttrekket.
 
-Organet skal gi opplysningar omkorleis den indre strukturen i uttrekket er, mellom anna korleis samanhengen mellom datafiler og innhald erkorleis data i uttrekket skal tolkast og presenterastkva filformat datafilene i uttrekket er lagra i.
+Organet skal gi opplysningar om
+
+1. korleis den indre strukturen i uttrekket er, mellom anna korleis samanhengen mellom datafiler og innhald er
+2. korleis data i uttrekket skal tolkast og presenterast
+3. kva filformat datafilene i uttrekket er lagra i.
 
 Organet skal gi dei tekniske skildringane som ein del av arkivpakka eller i Nasjonalarkivets digitale skjema eller applikasjonar for avlevering.
 
@@ -248,7 +375,11 @@ Organa skal bruke Nasjonalarkivets skjema for avleveringsliste. Arkiv kan ikkje 
 
 ### § 36. Tilrettelegging av analoge arkiv før avlevering
 
-Før avlevering skal statlege organfjerne binders, stiftar, tape, plastomslag og tilsvarande frå arkivetopplyse om det er eller har vore skadar på arkivetutbetre skadar på arkivet som følgje av mugg, fukt, skadedyr eller liknande.
+Før avlevering skal statlege organ
+
+1. fjerne binders, stiftar, tape, plastomslag og tilsvarande frå arkivet
+2. opplyse om det er eller har vore skadar på arkivet
+3. utbetre skadar på arkivet som følgje av mugg, fukt, skadedyr eller liknande.
 
 Om det ikkje er mogleg å utbetre skadar på arkivet, skal organa setje i verk naudsynte tiltak for å sikre arkivet og forhindre ytterlegare tap eller skade.
 
@@ -260,7 +391,12 @@ Mappene og anna arkivmateriale skal leggjast i arkivboksar. Dersom analoge arkiv
 
 Boksar, mapper og annan emballasje skal oppfylle krava i ISO 9706:1994 og ISO 16245:2023.
 
-Protokollar, boksar og annan emballasje skal merkjast med etikettar. Etikettane skal innehaldenamnet på organet som har skapt arkivetnummeret på protokollen eller bokseninnhaldet i protokollen og boksentidsperioden som innhaldet i protokollen eller boksen omfattar.
+Protokollar, boksar og annan emballasje skal merkjast med etikettar. Etikettane skal innehalde
+
+1. namnet på organet som har skapt arkivet
+2. nummeret på protokollen eller boksen
+3. innhaldet i protokollen og boksen
+4. tidsperioden som innhaldet i protokollen eller boksen omfattar.
 
 Eigenproduserte etikettar skal vere på papir som oppfyller krav i ISO 9706. Etikettane skal festast med eit spesiallim med lang haldbarheit. Nasjonalarkivet kan krevje at etikettar skal vere maskinleselege.
 
@@ -278,7 +414,12 @@ Statlege organ skal dekkje alle kostnader knytte til transport og overføring av
 
 Nasjonalarkivet, fylkeskommunale og kommunale bevaringsinstitusjonar og dei som tek vare på arkiv etter [arkivlova § 14 sjette ledd](lov/2025-06-20-96/§14/ledd/6), skal ha oppdaterte oversikter over alle arkiv som er avleverte eller overførte til langtidsbevaring. Oversiktene skal vere søkbare og tilgjengelege for allmenta på internett.
 
-Oversiktene skal gi informasjon omkva dokumentasjon arkiva inneheldkven som har skapt arkivakva tidsperiode arkiva omfattarkorleis brukarane kan få tilgang til arkiva.
+Oversiktene skal gi informasjon om
+
+1. kva dokumentasjon arkiva inneheld
+2. kven som har skapt arkiva
+3. kva tidsperiode arkiva omfattar
+4. korleis brukarane kan få tilgang til arkiva.
 
 ### § 40. Tilgang for allmenta til avleverte eller overførte arkiv
 
@@ -286,13 +427,22 @@ Nasjonalarkivet, fylkeskommunale og kommunale bevaringsinstitusjonar og dei som 
 
 Som ledd i arbeidet med å gjere arkiv tilgjengelege for forsking og innsyn kan dei som er nemnde i første ledd, samanstille personopplysningar frå fleire kjelder og lagre samanstillingane for seinare bruk når formålet med [arkivlova](lov/2025-06-20-96) gjer det naudsynt.
 
-Allmenta kan bli nekta tilgang tilarkiv som ikkje er klargjorde for brukarkiv som er i så dårleg stand at dei bør skjermast for hyppig brukarkiv som er i ferd med å bli klargjorde for digital tilgang.
+Allmenta kan bli nekta tilgang til
+
+1. arkiv som ikkje er klargjorde for bruk
+2. arkiv som er i så dårleg stand at dei bør skjermast for hyppig bruk
+3. arkiv som er i ferd med å bli klargjorde for digital tilgang.
 
 Analoge arkiv skal berre vere tilgjengelege under tilsyn.
 
 ### § 41. Tilgang for organ til arkiv som er avleverte til Nasjonalarkivet
 
-Dersom eit organ treng det for å kunne løyse oppgåvene sine, skal organet få tilgang tilarkiv som organet har avlevert til Nasjonalarkivetopplysningar som organet har skapt eller motteke i eit system for felles oppgåveløysingarkiv som er avleverte av forgjengaren til organetopplysningar som organet hadde lovfesta rett til hos eit anna organ før arkiva blei avleverte.
+Dersom eit organ treng det for å kunne løyse oppgåvene sine, skal organet få tilgang til
+
+1. arkiv som organet har avlevert til Nasjonalarkivet
+2. opplysningar som organet har skapt eller motteke i eit system for felles oppgåveløysing
+3. arkiv som er avleverte av forgjengaren til organet
+4. opplysningar som organet hadde lovfesta rett til hos eit anna organ før arkiva blei avleverte.
 
 Eit organ som har rett til tilgang etter første ledd bokstav a, kan i særlege høve få låne analoge arkiv frå Nasjonalarkivet. Organet skal sikre materialet like godt som ein bevaringsinstitusjon gjer det. Materialet må ikkje lånast ut til andre utan samtykke frå Nasjonalarkivet.
 
@@ -308,7 +458,12 @@ Nasjonalarkivet, fylkeskommunale og kommunale bevaringsinstitusjonar og dei som 
 
 Nasjonalarkivet kan etter søknad gjere vedtak om kassasjon av enkeltopplysningar i særlege høve, jf. [arkivlova § 13 tredje ledd første punktum](lov/2025-06-20-96/§13/ledd/3/setning/1).
 
-Når Nasjonalarkivet handsamar ein søknad om kassasjon av enkeltopplysningar, skal det gjere ei samla vurdering avkor belastande lagringa av opplysninga er for den registrerteom den registrerte eller andre vil ha behov for opplysninga no eller i framtidaom kassasjonen vil føre til tap av annan viktig informasjon enn dei opplysningane som søknaden gjeldkor mykje arbeid kassasjonen krev.
+Når Nasjonalarkivet handsamar ein søknad om kassasjon av enkeltopplysningar, skal det gjere ei samla vurdering av
+
+1. kor belastande lagringa av opplysninga er for den registrerte
+2. om den registrerte eller andre vil ha behov for opplysninga no eller i framtida
+3. om kassasjonen vil føre til tap av annan viktig informasjon enn dei opplysningane som søknaden gjeld
+4. kor mykje arbeid kassasjonen krev.
 
 Den registrerte og det handsamingsansvarlege organet har rett til å klage på avgjerda frå Nasjonalarkivet om kassasjon av enkeltopplysningar. Departementet er klageorgan.
 

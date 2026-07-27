@@ -15,7 +15,7 @@ xml_hash: "0ca2f52a03362d747c412c90e0d227258c4c90ccbc74ee7f95f57a29b698707a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,13 @@ Rettskraftig dom, administrativ beslutning, av offentlig myndighet godkjent avta
 
 Begjæring om fullbyrdelse rettes til myndighet i den kontraherende stat hvor den bidragsberettigede oppholder seg, eller i den kontraherende stat hvor dommen, kjennelsen eller beslutningen er avsagt eller den skriftlige avtale inngått.
 
-Skal fullbyrdelse skje i annen kontraherende stat enn den hvor begjæringen etter reglene i første ledd er fremsatt, oversendes begjæringen til førstnevnte stat. I så fall oversendes og mottas begjæringen:i *Danmark* av statsamtet (i København Overpræsidiet), eller, hvis det er uklart hvilket statsamt som er kompetent, av Justitsministeriet;i *Finland* av vedkommende utmätningsman, eller, hvis det er uklart hvilken utmätningsman som er kompetent, av justitieministeriet;i *Island* av justisministeriet;i *Norge* av Folketrygdkontoret for utenlandssaker;1i *Sverige* av vedkommende kronofogdemyndighet, eller, hvis det er uklart hvilken kronofogdemyndighet som er kompetent, av Riksskatteverket.
+Skal fullbyrdelse skje i annen kontraherende stat enn den hvor begjæringen etter reglene i første ledd er fremsatt, oversendes begjæringen til førstnevnte stat. I så fall oversendes og mottas begjæringen:
+
+- i *Danmark* av statsamtet (i København Overpræsidiet), eller, hvis det er uklart hvilket statsamt som er kompetent, av Justitsministeriet;
+- i *Finland* av vedkommende utmätningsman, eller, hvis det er uklart hvilken utmätningsman som er kompetent, av justitieministeriet;
+- i *Island* av justisministeriet;
+- i *Norge* av Folketrygdkontoret for utenlandssaker;1
+- i *Sverige* av vedkommende kronofogdemyndighet, eller, hvis det er uklart hvilken kronofogdemyndighet som er kompetent, av Riksskatteverket.
 
 Begjæring om inndriving i annen kontraherende stat av bidrag som en myndighet forskuddsvis har utbetalt, kan denne myndighet oversende direkte til den myndighet i den annen stat som er angitt i annet ledd.
 

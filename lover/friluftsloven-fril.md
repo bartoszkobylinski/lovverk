@@ -60,7 +60,12 @@ Statsforvalteren kan for det enkelte fylke eller deler av det bestemme at det ti
 
 ### § 3 a. (Ferdsel på vei eller sti i innmark)
 
-Ferdsel i innmark som fører til utmark,til fots på vei eller sti,på vei eller opparbeidet sti med ride- eller kløvhest, tråsykkel, kjelke eller liknende, med unntak av organisert aktivitet som sykkelløp og rideklubbaktivitet,er tillatt hele året, hvis ferdselen kan skje uten å passere gjennom gårdsplass eller over hustomt eller uten på annen måte å være til utilbørlig fortrengsel eller ulempe for eier eller bruker.
+Ferdsel i innmark som fører til utmark,
+
+1. til fots på vei eller sti,
+2. på vei eller opparbeidet sti med ride- eller kløvhest, tråsykkel, kjelke eller liknende, med unntak av organisert aktivitet som sykkelløp og rideklubbaktivitet,
+
+er tillatt hele året, hvis ferdselen kan skje uten å passere gjennom gårdsplass eller over hustomt eller uten på annen måte å være til utilbørlig fortrengsel eller ulempe for eier eller bruker.
 
 Kommunen kan, etter samtykke fra eier eller bruker av eiendommen, gi forskrift om å forby ferdsel som er tillatt etter første ledd.
 
@@ -184,7 +189,13 @@ Utøvelse av allemannsretten etter denne lov gjelder med de begrensninger som f�
 
 ### § 20. (Uttalelse om tvilsspørsmål)
 
-Er det tvil eller uenighet omhvorvidt et grunnstykke skal reknes som innmark eller utmark etter denne lov, ellerhvilken avstand raste- eller teltplass m.v. etter [§ 9](lov/1957-06-28-16/§9) skal ha fra et bebodd hus eller hvorvidt det må reknes med at rasting eller telting m.v. etter [§ 9](lov/1957-06-28-16/§9) tredje ledd kan medføre nevneverdig skade eller ulempe, ellerhvorvidt et stengsel, eller annen hindring, et skilt eller en kunngjøring er lovlig (jfr. [§ 13](lov/1957-06-28-16/§13)),kan grunneieren, brukeren, eller et interessert friluftslag kreve uttalelse herom av kommunen.
+Er det tvil eller uenighet om
+
+1. hvorvidt et grunnstykke skal reknes som innmark eller utmark etter denne lov, eller
+2. hvilken avstand raste- eller teltplass m.v. etter [§ 9](lov/1957-06-28-16/§9) skal ha fra et bebodd hus eller hvorvidt det må reknes med at rasting eller telting m.v. etter [§ 9](lov/1957-06-28-16/§9) tredje ledd kan medføre nevneverdig skade eller ulempe, eller
+3. hvorvidt et stengsel, eller annen hindring, et skilt eller en kunngjøring er lovlig (jfr. [§ 13](lov/1957-06-28-16/§13)),
+
+kan grunneieren, brukeren, eller et interessert friluftslag kreve uttalelse herom av kommunen.
 
 > Endret ved [lover 13 juni 1980 nr. 41](lov/1980-06-13-41), [11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37).
 
@@ -194,7 +205,13 @@ Er det tvil eller uenighet omhvorvidt et grunnstykke skal reknes som innmark ell
 
 ### § 21. (Friluftslivsorganene)
 
-I friluftslivsforvaltningen etter denne lov er det følgende organer:DepartementetDirektoratetStatsforvalterenFylkeskommunenKommunen.
+I friluftslivsforvaltningen etter denne lov er det følgende organer:
+
+1. Departementet
+2. Direktoratet
+3. Statsforvalteren
+4. Fylkeskommunen
+5. Kommunen.
 
 > Opphevet ved [lov 8 juni 1990 nr. 16](lov/1990-06-08-16), tilføyd igjen ved [lov 21 juni 1996 nr. 37](lov/1996-06-21-37), endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
@@ -298,6 +315,10 @@ Om nødvendig kan politiets hjelp kreves til gjennomføring av tiltak etter denn
 
 Denne lov trer i kraft 1. juli 1957.
 
-Fra samme tid oppheves følgende lovbestemmelser:[Lov av 16. mai 1860](lov/1860-05-16) om Jords Fredning § 39.Lov av 25. juni 1937 om avståelse av strandstrekninger til ferdsel og badning m.v.Midlertidig lov av 4. juni 1954 om byggeforbud m.v. for strandstrekninger.
+Fra samme tid oppheves følgende lovbestemmelser:
+
+1. [Lov av 16. mai 1860](lov/1860-05-16) om Jords Fredning § 39.
+2. Lov av 25. juni 1937 om avståelse av strandstrekninger til ferdsel og badning m.v.
+3. Midlertidig lov av 4. juni 1954 om byggeforbud m.v. for strandstrekninger.
 
 Forbud nedlagt etter midlertidig lov av 4. juni 1954 om byggeforbud m.v. for strandstrekninger skal – uansett tidsbegrensing – fortsatt stå ved makt i samsvar med reglene i loven her, likevel ikke utover 10 år reknet fra fylkesutvalgets vedtak om forbudet.

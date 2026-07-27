@@ -24,7 +24,10 @@ eu_basis: []
 
 ## Innledning
 
-Tilskuddsordning for støtte til videreutdanning for lærere og ansatte i andre yrkesgrupper i barnehage, grunnskole og videregående opplæring er én av tre tilskuddsordninger som til sammen skal bidra til å øke kompetansen og kvaliteten i barnehager, grunnskoler og videregående opplæring, i fagskoler og hos universiteter og høyskoler. De øvrige to tilskuddsordningene er regulert i følgende forskrifter:[Forskrift om tilskudd til kollektiv kompetanseutvikling i barnehage og grunnskole](forskrift/2026-01-12-23)[Forskrift om tilskudd til kollektiv kompetanseutvikling i videregående opplæring](forskrift/2026-01-12-25).
+Tilskuddsordning for støtte til videreutdanning for lærere og ansatte i andre yrkesgrupper i barnehage, grunnskole og videregående opplæring er én av tre tilskuddsordninger som til sammen skal bidra til å øke kompetansen og kvaliteten i barnehager, grunnskoler og videregående opplæring, i fagskoler og hos universiteter og høyskoler. De øvrige to tilskuddsordningene er regulert i følgende forskrifter:
+
+- [Forskrift om tilskudd til kollektiv kompetanseutvikling i barnehage og grunnskole](forskrift/2026-01-12-23)
+- [Forskrift om tilskudd til kollektiv kompetanseutvikling i videregående opplæring](forskrift/2026-01-12-25).
 
 Kommuner, fylkeskommuner og private eiere har ansvar for at virksomhetene drives i samsvar med regelverket. Dette omfatter også et ansvar for å legge til rette for kompetanseutvikling for sine ansatte, jf. [opplæringslovens §§ 17-8](lov/2023-06-09-30/§17-8), og [§ 22-2](lov/2023-06-09-30/§22-2), [kapittel 2](forskrift/2017-04-24-487/kap2) i rammeplan for barnehagen og [kapittel 6](forskrift/2021-05-31-1825/kap6) i rammeplan for SFO. Medbestemmelse skal ivaretas i tråd med de gjeldende avtaler mellom partene i arbeidslivet.
 
@@ -50,7 +53,11 @@ Ansatte i private barnehager godkjent etter [barnehageloven § 14](lov/2005-06-1
 
 ### § 3. Tilskuddsmottaker
 
-Følgende kan motta tilskudd:kommuner og fylkeskommunerstatlige skolerprivate skoler godkjent etter [privatskoleloven § 2-1](lov/2003-07-04-84/§2-1).
+Følgende kan motta tilskudd:
+
+1. kommuner og fylkeskommuner
+2. statlige skoler
+3. private skoler godkjent etter [privatskoleloven § 2-1](lov/2003-07-04-84/§2-1).
 
 Tilskuddet fordeles ut fra en beregningsmodell fastsatt av Utdanningsdirektoratet. Kommunen fordeler tilskudd videre til private barnehager, jf. [§ 8](forskrift/2026-01-12-24/§8).
 
@@ -70,7 +77,12 @@ Kommunen, fylkeskommunen og private eiere skal tilrettelegge for deltakelse på 
 
 ### § 5. Kjennetegn på måloppnåelse
 
-Tilskuddsmottaker skal gjøre en vurdering av måloppnåelse. Kjennetegn på måloppnåelse er:Valg og prioriteringer av videreutdanning er forankret i eiers kompetansebehov identifisert gjennom lokale prosesser som involverer de ansatte. Vurderingen skal ivareta alle målgrupper, eventuelle nasjonale prioriteringer, kompetansekrav, samiske perspektiver og sammenheng med eventuelle tiltak i tilskuddsordningene for kollektiv kompetanseutvikling.Ansatte har gjennomført videreutdanning.Videreutdanningen har bidratt til planlagt praksisendring og økt kvalitet i det faglige og pedagogiske tilbudet til barn, elever, de som får opplæring i bedrift og voksne deltakere.Kommunen, fylkeskommunen og private eiere har lagt til rette for kunnskapsdeling i egen virksomhet.
+Tilskuddsmottaker skal gjøre en vurdering av måloppnåelse. Kjennetegn på måloppnåelse er:
+
+1. Valg og prioriteringer av videreutdanning er forankret i eiers kompetansebehov identifisert gjennom lokale prosesser som involverer de ansatte. Vurderingen skal ivareta alle målgrupper, eventuelle nasjonale prioriteringer, kompetansekrav, samiske perspektiver og sammenheng med eventuelle tiltak i tilskuddsordningene for kollektiv kompetanseutvikling.
+2. Ansatte har gjennomført videreutdanning.
+3. Videreutdanningen har bidratt til planlagt praksisendring og økt kvalitet i det faglige og pedagogiske tilbudet til barn, elever, de som får opplæring i bedrift og voksne deltakere.
+4. Kommunen, fylkeskommunen og private eiere har lagt til rette for kunnskapsdeling i egen virksomhet.
 
 ## Kapittel 2. Forvaltning av tilskuddsordningen
 

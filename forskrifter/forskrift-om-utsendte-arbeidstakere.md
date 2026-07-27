@@ -26,7 +26,10 @@ eu_basis: []
 
 Forskriften gjelder når utenlandsk virksomhet sender arbeidstaker til Norge i forbindelse med tjenesteyting, jf. [arbeidsmiljøloven § 1-7](lov/2005-06-17-62/§1-7) første til tredje ledd, forutsatt at det foreligger et arbeidsforhold mellom den utenlandske virksomheten og den utsendte arbeidstakeren i utsendingsperioden.
 
-[§ 14a](forskrift/2005-12-16-1566/§14a) til [§ 14e](forskrift/2005-12-16-1566/§14e) gjelder når utenlandsk virksomhet etter avtale med en mottaker av transporttjeneste i Norge sender en sjåfør til Norge for egen regning og risiko og under egen ledelse for å utføregodstransport på vei i Norge med kjøretøy med totalvekt over 2 500 kg medregnet tilhenger eller semitrailerpersontransport på vei i Norge i eller utenfor rute med kjøretøy som er beregnet for transport av mer enn 9 personer inkludert sjåføren.
+[§ 14a](forskrift/2005-12-16-1566/§14a) til [§ 14e](forskrift/2005-12-16-1566/§14e) gjelder når utenlandsk virksomhet etter avtale med en mottaker av transporttjeneste i Norge sender en sjåfør til Norge for egen regning og risiko og under egen ledelse for å utføre
+
+1. godstransport på vei i Norge med kjøretøy med totalvekt over 2 500 kg medregnet tilhenger eller semitrailer
+2. persontransport på vei i Norge i eller utenfor rute med kjøretøy som er beregnet for transport av mer enn 9 personer inkludert sjåføren.
 
 Forskriften får ikke anvendelse på Svalbard.
 
@@ -34,19 +37,44 @@ Forskriften får ikke anvendelse på Svalbard.
 
 ## § 2. Vurdering av om det foreligger utsending av arbeidstakere
 
-Når det tas stilling til om en arbeidstaker arbeider i et begrenset tidsrom i et annet land enn det arbeidsforholdet vanligvis er knyttet til, jf. [arbeidsmiljøloven § 1-7](lov/2005-06-17-62/§1-7) første ledd, skal det gjøres en samlet vurdering av arbeidet og arbeidstakers situasjon, hvor blant annet følgende momenter kan inngå:om arbeidet blir utført i en begrenset periode i Norge,tidspunktet utsendingen ble påbegynt,om utsendingen finner sted til et annet land enn der arbeidstakeren vanligvis arbeider,om arbeidstakeren returnerer til eller forventes å skulle gjenoppta arbeidet i det landet arbeidstakeren ble utsendt fra,typen aktivitet som utføres,om utgifter til reise, kost og losji dekkes av den arbeidsgiveren som utsender arbeidstakeren, og i tilfellet hvordan utgiftsdekningen gjennomføres,tidligere perioder den samme eller en annen arbeidstaker har vært utsendt for det samme arbeidet.
+Når det tas stilling til om en arbeidstaker arbeider i et begrenset tidsrom i et annet land enn det arbeidsforholdet vanligvis er knyttet til, jf. [arbeidsmiljøloven § 1-7](lov/2005-06-17-62/§1-7) første ledd, skal det gjøres en samlet vurdering av arbeidet og arbeidstakers situasjon, hvor blant annet følgende momenter kan inngå:
 
-Når det tas stilling til om en virksomhet driver reell virksomhet i etableringslandet, utover intern forvaltning eller administrasjon, skal det gjøres en samlet vurdering av de aktiviteter som kjennetegner virksomheten, hvor blant annet følgende momenter kan inngå:hvor virksomheten har sitt hjemsted og administrasjon, har kontorer, betaler skatter og sosiale avgifter, har fått tildelt driftstillatelse eller er registrert i en yrkessammenslutning,hvor arbeidstakeren ansettes og utsendes fra,hvilke lands lovgivning som kommer til anvendelse på arbeidsavtaler og kontrakter som virksomheten inngår med sine kunder,det sted virksomheten utøver sine viktigste forretningsaktiviteter og har ansatt sitt administrative personale,antall utførte oppdrag eller størrelsen på omsetningen i etableringsstaten, men likevel slik at det skal tas hensyn til om virksomheten er nyetablert og dens størrelse.
+1. om arbeidet blir utført i en begrenset periode i Norge,
+2. tidspunktet utsendingen ble påbegynt,
+3. om utsendingen finner sted til et annet land enn der arbeidstakeren vanligvis arbeider,
+4. om arbeidstakeren returnerer til eller forventes å skulle gjenoppta arbeidet i det landet arbeidstakeren ble utsendt fra,
+5. typen aktivitet som utføres,
+6. om utgifter til reise, kost og losji dekkes av den arbeidsgiveren som utsender arbeidstakeren, og i tilfellet hvordan utgiftsdekningen gjennomføres,
+7. tidligere perioder den samme eller en annen arbeidstaker har vært utsendt for det samme arbeidet.
+
+Når det tas stilling til om en virksomhet driver reell virksomhet i etableringslandet, utover intern forvaltning eller administrasjon, skal det gjøres en samlet vurdering av de aktiviteter som kjennetegner virksomheten, hvor blant annet følgende momenter kan inngå:
+
+1. hvor virksomheten har sitt hjemsted og administrasjon, har kontorer, betaler skatter og sosiale avgifter, har fått tildelt driftstillatelse eller er registrert i en yrkessammenslutning,
+2. hvor arbeidstakeren ansettes og utsendes fra,
+3. hvilke lands lovgivning som kommer til anvendelse på arbeidsavtaler og kontrakter som virksomheten inngår med sine kunder,
+4. det sted virksomheten utøver sine viktigste forretningsaktiviteter og har ansatt sitt administrative personale,
+5. antall utførte oppdrag eller størrelsen på omsetningen i etableringsstaten, men likevel slik at det skal tas hensyn til om virksomheten er nyetablert og dens størrelse.
 
 > Tilføyd ved [forskrift 28 juni 2017 nr. 1055](forskrift/2017-06-28-1055) (i kraft 1 juli 2017).
 
 ## § 3. Arbeids- og ansettelsesvilkår
 
-Uansett hvilket lands rett som for øvrig regulerer arbeidsforholdet, og uavhengig av utsendingsperiodens varighet, kommer følgende bestemmelser om arbeids- og ansettelsesvilkår til anvendelse for utsendt arbeidstaker:[lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) kapittel 10](lov/2005-06-17-62/kap10), [11](lov/2005-06-17-62/kap11), [13](lov/2005-06-17-62/kap13) og [§ 3-1](lov/2005-06-17-62/§3-1), [§ 3-2](lov/2005-06-17-62/§3-2), [§ 3-5](lov/2005-06-17-62/§3-5), [§ 4-1](lov/2005-06-17-62/§4-1) til [§ 4-5](lov/2005-06-17-62/§4-5), [§ 5-1](lov/2005-06-17-62/§5-1), [§ 5-2](lov/2005-06-17-62/§5-2), [§ 6-1](lov/2005-06-17-62/§6-1) til [§ 6-3](lov/2005-06-17-62/§6-3), [§ 6-5](lov/2005-06-17-62/§6-5), [§ 12-1](lov/2005-06-17-62/§12-1) til [§ 12-9](lov/2005-06-17-62/§12-9), [§ 14-5](lov/2005-06-17-62/§14-5), [§ 14-6](lov/2005-06-17-62/§14-6), [§ 14-8](lov/2005-06-17-62/§14-8), [§ 14-12](lov/2005-06-17-62/§14-12) til [§ 14-14](lov/2005-06-17-62/§14-14), [§ 14-15](lov/2005-06-17-62/§14-15) sjette ledd og [§ 15-9](lov/2005-06-17-62/§15-9),[lov 29. april 1988 nr. 21 om ferie (ferieloven)](lov/1988-04-29-21),[lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven) § 27](lov/2004-12-10-76/§27),[lov 16. juni 2017 nr. 51 om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven) kapittel 5](lov/2017-06-16-51/kap5), [6](lov/2017-06-16-51/kap6) og [§ 6](lov/2017-06-16-51/§6)–[§ 8](lov/2017-06-16-51/§8), [§ 9](lov/2017-06-16-51/§9) første ledd, [§ 9](lov/2017-06-16-51/§9) andre ledd, [§ 11](lov/2017-06-16-51/§11), [§ 13](lov/2017-06-16-51/§13) første til tredje ledd, [§ 13](lov/2017-06-16-51/§13) sjette ledd og [§ 14](lov/2017-06-16-51/§14),bestemmelser om lønn og arbeids- og ansettelsesvilkår fastsatt i forskrift om allmenngjøring av tariffavtale gitt i medhold av [lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler mv](lov/1993-06-04-58)., i den utstrekning den utsendte arbeidstakerens arbeidsforhold faller innenfor forskriftens virkeområde.
+Uansett hvilket lands rett som for øvrig regulerer arbeidsforholdet, og uavhengig av utsendingsperiodens varighet, kommer følgende bestemmelser om arbeids- og ansettelsesvilkår til anvendelse for utsendt arbeidstaker:
+
+1. [lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) kapittel 10](lov/2005-06-17-62/kap10), [11](lov/2005-06-17-62/kap11), [13](lov/2005-06-17-62/kap13) og [§ 3-1](lov/2005-06-17-62/§3-1), [§ 3-2](lov/2005-06-17-62/§3-2), [§ 3-5](lov/2005-06-17-62/§3-5), [§ 4-1](lov/2005-06-17-62/§4-1) til [§ 4-5](lov/2005-06-17-62/§4-5), [§ 5-1](lov/2005-06-17-62/§5-1), [§ 5-2](lov/2005-06-17-62/§5-2), [§ 6-1](lov/2005-06-17-62/§6-1) til [§ 6-3](lov/2005-06-17-62/§6-3), [§ 6-5](lov/2005-06-17-62/§6-5), [§ 12-1](lov/2005-06-17-62/§12-1) til [§ 12-9](lov/2005-06-17-62/§12-9), [§ 14-5](lov/2005-06-17-62/§14-5), [§ 14-6](lov/2005-06-17-62/§14-6), [§ 14-8](lov/2005-06-17-62/§14-8), [§ 14-12](lov/2005-06-17-62/§14-12) til [§ 14-14](lov/2005-06-17-62/§14-14), [§ 14-15](lov/2005-06-17-62/§14-15) sjette ledd og [§ 15-9](lov/2005-06-17-62/§15-9),
+2. [lov 29. april 1988 nr. 21 om ferie (ferieloven)](lov/1988-04-29-21),
+3. [lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven) § 27](lov/2004-12-10-76/§27),
+4. [lov 16. juni 2017 nr. 51 om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven) kapittel 5](lov/2017-06-16-51/kap5), [6](lov/2017-06-16-51/kap6) og [§ 6](lov/2017-06-16-51/§6)–[§ 8](lov/2017-06-16-51/§8), [§ 9](lov/2017-06-16-51/§9) første ledd, [§ 9](lov/2017-06-16-51/§9) andre ledd, [§ 11](lov/2017-06-16-51/§11), [§ 13](lov/2017-06-16-51/§13) første til tredje ledd, [§ 13](lov/2017-06-16-51/§13) sjette ledd og [§ 14](lov/2017-06-16-51/§14),
+5. bestemmelser om lønn og arbeids- og ansettelsesvilkår fastsatt i forskrift om allmenngjøring av tariffavtale gitt i medhold av [lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler mv](lov/1993-06-04-58)., i den utstrekning den utsendte arbeidstakerens arbeidsforhold faller innenfor forskriftens virkeområde.
 
 Bestemmelsene i første ledd kommer bare til anvendelse dersom utsendt arbeidstaker ikke er omfattet av gunstigere arbeids- og ansettelsesvilkår ved avtale eller etter det lands rett som ellers gjelder for arbeidsforholdet.
 
-Hvis utsendingsperioden for utsendt arbeidstaker som er fag- eller spesialarbeider ikke overstiger åtte dager, gjelder ikke bestemmelsene i [ferieloven](lov/1988-04-29-21) og i [arbeidsmiljøloven § 10-6](lov/2005-06-17-62/§10-6) ellevte ledd, samt bestemmelser nevnt i andre ledd om feriefritid, feriepenger og lønn, herunder overtidsgodtgjørelse, når:arbeidet som utføres er førstegangsmontering eller installasjon som inngår i en avtale om levering av varer, ogarbeidet er nødvendig for å kunne ta varen i bruk.Dette unntaket kommer ikke til anvendelse for utsendt arbeidstaker som utfører arbeid innenfor byggebransjen som gjelder oppføring, reparasjon, vedlikehold, ombygging eller riving av bygninger. Dersom virksomheten i løpet av de siste 12 måneder har sendt ut andre arbeidstakere for det samme arbeidet, skal slike perioder medregnes ved beregningen av om utsendingsperioden overstiger åtte dager.
+Hvis utsendingsperioden for utsendt arbeidstaker som er fag- eller spesialarbeider ikke overstiger åtte dager, gjelder ikke bestemmelsene i [ferieloven](lov/1988-04-29-21) og i [arbeidsmiljøloven § 10-6](lov/2005-06-17-62/§10-6) ellevte ledd, samt bestemmelser nevnt i andre ledd om feriefritid, feriepenger og lønn, herunder overtidsgodtgjørelse, når:
+
+- arbeidet som utføres er førstegangsmontering eller installasjon som inngår i en avtale om levering av varer, og
+- arbeidet er nødvendig for å kunne ta varen i bruk.
+
+Dette unntaket kommer ikke til anvendelse for utsendt arbeidstaker som utfører arbeid innenfor byggebransjen som gjelder oppføring, reparasjon, vedlikehold, ombygging eller riving av bygninger. Dersom virksomheten i løpet av de siste 12 måneder har sendt ut andre arbeidstakere for det samme arbeidet, skal slike perioder medregnes ved beregningen av om utsendingsperioden overstiger åtte dager.
 
 > Endret ved [forskrifter 28 juni 2017 nr. 1055](forskrift/2017-06-28-1055) (i kraft 1 juli 2017, tidligere § 2), [28 juni 2017 nr. 1055](forskrift/2017-06-28-1055) (i kraft 1 jan 2018), [28 okt 2022 nr. 1895](forskrift/2022-10-28-1895) (i kraft 1 jan 2023).
 
@@ -102,7 +130,11 @@ Innkrevingsmyndigheten skal så snart som mulig og senest innen en måned fra an
 
 Innkrevingsmyndigheten skal gi melding til den myndighet som har anmodet om innkreving om når innkreving ble iverksatt og om kravet helt eller delvis er fullbyrdet.
 
-Innkrevingsmyndigheten kan avvise en anmodning om innkreving hvis anmodningen har ufullstendige opplysninger eller det er åpenbart at det ikke er samsvar mellom anmodningen og avgjørelsen som ligger til grunn for den. En anmodning om innkreving kan også avvises hvis:de samlede beløp som skal kreves inn ikke overstiger 350 euro, elleromkostningene med å gjennomføre innkrevingen er uforholdsmessig store sammenlignet med det beløpet som skal kreves inn, eller det vil medføre vesentlige vanskeligheter å gjennomføre innkrevingen, ellergrunnleggende rettigheter som gjelder etter norsk rett ikke er respektert.
+Innkrevingsmyndigheten kan avvise en anmodning om innkreving hvis anmodningen har ufullstendige opplysninger eller det er åpenbart at det ikke er samsvar mellom anmodningen og avgjørelsen som ligger til grunn for den. En anmodning om innkreving kan også avvises hvis:
+
+1. de samlede beløp som skal kreves inn ikke overstiger 350 euro, eller
+2. omkostningene med å gjennomføre innkrevingen er uforholdsmessig store sammenlignet med det beløpet som skal kreves inn, eller det vil medføre vesentlige vanskeligheter å gjennomføre innkrevingen, eller
+3. grunnleggende rettigheter som gjelder etter norsk rett ikke er respektert.
 
 Hvis en anmodning avvises skal Innkrevingsmyndigheten så snart som mulig gi melding om avvisningen og de forhold som ligger til grunn for den, til den ansvarlige myndighet som har sendt anmodningen.
 
@@ -166,13 +198,34 @@ Når ansvarlig myndighet etter [arbeidsmiljøloven § 18-11](lov/2005-06-17-62/�
 
 ## § 14a. Utsending i veitransportsektoren
 
-Utsending foreligger når utenlandsk virksomhet etter avtale med en mottaker av transporttjeneste i Norge sender ut en sjåfør for egen regning og risiko og under egen ledelse for å utførekabotasjetransport, det vil si godstransport der lasting og lossing av gods skjer i Norge eller persontransport hvor både på- og avstigning av passasjerer skjer i Norgetredjelandstransport, det vil si transport mellom Norge og et annet land dersom:ingen av landene er etableringslandet til virksomheten ogtransporten er ikke en tilleggsaktivitet etter fjerde ledd.
+Utsending foreligger når utenlandsk virksomhet etter avtale med en mottaker av transporttjeneste i Norge sender ut en sjåfør for egen regning og risiko og under egen ledelse for å utføre
 
-Utsending foreligger ikke når sjåførenutfører en bilateral transport etter tredje ledd eller utfører tilleggsaktivitet etter fjerde og femte leddpasserer gjennom Norge uten at gods lastes eller losses og uten at passasjerer tas ombord eller slippes avutfører den innledende eller avsluttende veitransportstrekningen som en del av en kombinert transport, jf. [forskrift 11. august 1995 nr. 716 om gjennomføring av fellesregler om innenlands transport i EØS-avtalen § 1](forskrift/1995-08-11-716/§1) første ledd nr. 10, dersom veitransportstrekningen er en bilateral transport som fastsatt i tredje ledd bokstav a.
+1. kabotasjetransport, det vil si godstransport der lasting og lossing av gods skjer i Norge eller persontransport hvor både på- og avstigning av passasjerer skjer i Norge
+2. tredjelandstransport, det vil si transport mellom Norge og et annet land dersom:
 
-Med bilateral transport menesforflytning av gods på vei mellom det land der virksomheten er etablert og et annet land på grunnlag av en transportavtaleen persontransport derpassasjerer blir tatt ombord i det land der virksomheten er etablert og satt av i et annet landpassasjerer blir tatt ombord i et land og satt av i det landet der virksomheten er etablertpassasjerer blir tatt ombord og satt av i det landet der virksomheten er etablert, dersom transporten utføres med det formål å gjennomføre lokale utflukter i et annet land, i samsvar med forordning [(EF) nr. 1073/2009](eu/32009r1073), jf. [forskrift 26. mars 2003 nr. 401 om yrkestransport med motorvogn og fartøy § 55](forskrift/2003-03-26-401/§55).
+   1. ingen av landene er etableringslandet til virksomheten og
+   2. transporten er ikke en tilleggsaktivitet etter fjerde ledd.
 
-Med tilleggsaktivitet menes at sjåføren i forbindelse med bilateral gods- eller persontransportutfører én lasting- og/eller lossing av gods i de landene som sjåføren krysser. Det er en forutsetning at sjåføren ikke laster og losser gods i samme landutfører to laste og/eller losseaktiviteter under en bilateral godstransport tilbake til etableringslandet, dersom det ikke ble utført noen laste- eller losseaktiviteter under den forutgående bilaterale transporten fra etableringslandet. Det er en forutsetning at sjåføren ikke laster og losser gods i samme landtar om bord og/eller setter av passasjerer i land som sjåføren krysser, forutsatt at sjåføren ikke tilbyr persontransport mellom to steder i samme land. Det samme gjelder for hjemreisen.
+Utsending foreligger ikke når sjåføren
+
+1. utfører en bilateral transport etter tredje ledd eller utfører tilleggsaktivitet etter fjerde og femte ledd
+2. passerer gjennom Norge uten at gods lastes eller losses og uten at passasjerer tas ombord eller slippes av
+3. utfører den innledende eller avsluttende veitransportstrekningen som en del av en kombinert transport, jf. [forskrift 11. august 1995 nr. 716 om gjennomføring av fellesregler om innenlands transport i EØS-avtalen § 1](forskrift/1995-08-11-716/§1) første ledd nr. 10, dersom veitransportstrekningen er en bilateral transport som fastsatt i tredje ledd bokstav a.
+
+Med bilateral transport menes
+
+1. forflytning av gods på vei mellom det land der virksomheten er etablert og et annet land på grunnlag av en transportavtale
+2. en persontransport der
+
+   1. passasjerer blir tatt ombord i det land der virksomheten er etablert og satt av i et annet land
+   2. passasjerer blir tatt ombord i et land og satt av i det landet der virksomheten er etablert
+   3. passasjerer blir tatt ombord og satt av i det landet der virksomheten er etablert, dersom transporten utføres med det formål å gjennomføre lokale utflukter i et annet land, i samsvar med forordning [(EF) nr. 1073/2009](eu/32009r1073), jf. [forskrift 26. mars 2003 nr. 401 om yrkestransport med motorvogn og fartøy § 55](forskrift/2003-03-26-401/§55).
+
+Med tilleggsaktivitet menes at sjåføren i forbindelse med bilateral gods- eller persontransport
+
+1. utfører én lasting- og/eller lossing av gods i de landene som sjåføren krysser. Det er en forutsetning at sjåføren ikke laster og losser gods i samme land
+2. utfører to laste og/eller losseaktiviteter under en bilateral godstransport tilbake til etableringslandet, dersom det ikke ble utført noen laste- eller losseaktiviteter under den forutgående bilaterale transporten fra etableringslandet. Det er en forutsetning at sjåføren ikke laster og losser gods i samme land
+3. tar om bord og/eller setter av passasjerer i land som sjåføren krysser, forutsatt at sjåføren ikke tilbyr persontransport mellom to steder i samme land. Det samme gjelder for hjemreisen.
 
 For at sjåfør som utfører tilleggsaktivitet som nevnt i fjerde ledd ikke skal regnes som utsendt, må kjøretøyet som brukes til transporten være utstyrt med en smart fartskriver som oppfyller kravene til registrering av grensepasseringer og supplerende aktiviteter i samsvar med forordning [(EU) nr. 165/2014](eu/32014r0165) artikkel 8, 9 og 10, jf. [forskrift 2. juli 2007 nr. 877 om kjøre- og hviletid og fartsskriver for vegtransport i EØS § 1](forskrift/2007-07-02-877/§1).
 
@@ -188,7 +241,15 @@ Ved utsending av sjåfør som nevnt i [§ 14a](forskrift/2005-12-16-1566/§14a) 
 
 Utenlandsk virksomhet som sender ut sjåfør i tilfeller som nevnt i [§ 14a](forskrift/2005-12-16-1566/§14a) første ledd må senest ved begynnelsen av utsendingsperioden inngi en utsendingserklæring til Arbeidstilsynet.
 
-Utsendingserklæringen skal inneholde følgende opplysninger:virksomhetens identitet, i form av nummeret på foretakets fellesskapstillatelse hvis dette er tilgjengeligkontaktinformasjon til transportleder eller andre kontaktpersoner i etableringslandetnavn, adresse og førerkortnummeret til sjåførenstartdato for sjåførens arbeidsavtale og hvilket lands rett som regulerer arbeidsforholdetplanlagt start og slutt for utsendingenkjennemerket på kjøretøy(ene)angivelse av om det er gods-, person-, internasjonal transport eller kabotasjetransport.
+Utsendingserklæringen skal inneholde følgende opplysninger:
+
+1. virksomhetens identitet, i form av nummeret på foretakets fellesskapstillatelse hvis dette er tilgjengelig
+2. kontaktinformasjon til transportleder eller andre kontaktpersoner i etableringslandet
+3. navn, adresse og førerkortnummeret til sjåføren
+4. startdato for sjåførens arbeidsavtale og hvilket lands rett som regulerer arbeidsforholdet
+5. planlagt start og slutt for utsendingen
+6. kjennemerket på kjøretøy(ene)
+7. angivelse av om det er gods-, person-, internasjonal transport eller kabotasjetransport.
 
 Virksomheten skal underrette Arbeidstilsynet om eventuelle endringer i opplysninger som nevnt i andre ledd.
 
@@ -200,13 +261,23 @@ Virksomhet etablert i et EU-land eller andre land som har adgang til å bruke In
 
 Utenlandsk virksomhet som utfører en transport med utsendt sjåfør i tilfeller som nevnt i [§ 14a](forskrift/2005-12-16-1566/§14a) første ledd, skal sørge for at dokumenter som nevnt i andre ledd i utsendingsperioden er tilgjengelig i kjøretøyet og at sjåføren fremlegger dem på forespørsel ved kontroll langs vei.
 
-Dokumentasjonsplikten etter første ledd omfatterkopi av utsendingsserklæring inngitt etter [§ 14c](forskrift/2005-12-16-1566/§14c)dokumentasjon vedrørende de transportoppdrag som finner sted i Norge, for eksempel et elektronisk fraktbrev eller dokumentasjon vedrørende den inngående internasjonale transporten og alle etterfølgende kabotasjeoppdrag som nevnt i forordning [(EF) nr. 1072/2009](eu/32009r1072) artikkel 8 (3) eller kjøreskjema som nevnt i forordning [(EF) nr. 1073/2009](eu/32009r1073) artikkel 12, jf. [forskrift 26. mars 2003 nr. 401 om yrkestransport med motorvogn og fartøy § 53](forskrift/2003-03-26-401/§53) og [§ 55](forskrift/2003-03-26-401/§55).utskrift fra fartsskriver, herunder opplysninger vedrørende grensepasseringer i samsvar med forordning [(EF) nr. 561/2006](eu/32006r0561) og forordning [(EU) nr. 165/2014](eu/32014r0165), jf. [forskrift 2. juli 2007 nr. 877 om kjøre- og hviletid og fartsskriver for vegtransport i EØS § 1](forskrift/2007-07-02-877/§1).
+Dokumentasjonsplikten etter første ledd omfatter
+
+1. kopi av utsendingsserklæring inngitt etter [§ 14c](forskrift/2005-12-16-1566/§14c)
+2. dokumentasjon vedrørende de transportoppdrag som finner sted i Norge, for eksempel et elektronisk fraktbrev eller dokumentasjon vedrørende den inngående internasjonale transporten og alle etterfølgende kabotasjeoppdrag som nevnt i forordning [(EF) nr. 1072/2009](eu/32009r1072) artikkel 8 (3) eller kjøreskjema som nevnt i forordning [(EF) nr. 1073/2009](eu/32009r1073) artikkel 12, jf. [forskrift 26. mars 2003 nr. 401 om yrkestransport med motorvogn og fartøy § 53](forskrift/2003-03-26-401/§53) og [§ 55](forskrift/2003-03-26-401/§55).
+3. utskrift fra fartsskriver, herunder opplysninger vedrørende grensepasseringer i samsvar med forordning [(EF) nr. 561/2006](eu/32006r0561) og forordning [(EU) nr. 165/2014](eu/32014r0165), jf. [forskrift 2. juli 2007 nr. 877 om kjøre- og hviletid og fartsskriver for vegtransport i EØS § 1](forskrift/2007-07-02-877/§1).
 
 > Tilføyd ved forskrift [30 juni 2023 nr. 1178](forskrift/2023-06-30-1178) (i kraft 3 nov 2023 iflg. vedtak [3 nov 2023 nr. 1769](forskrift/2023-11-03-1769)).
 
 ## § 14e. Dokumentasjonsplikt etter utsendingsperioden
 
-Utenlandsk virksomhet som har sendt ut en sjåfør som har utført gods- eller persontransport som nevnt i [§ 14a](forskrift/2005-12-16-1566/§14a) første ledd skal etter utsendingsperioden, når Arbeidstilsynet ber om det, sendedokumentasjon som nevnt i [§ 14d](forskrift/2005-12-16-1566/§14d) andre ledd bokstavene b og cdokumentasjon vedrørende sjåførens lønn, for eksempel lønnsslipperarbeidsavtale eller likeverdig dokument som aksepteres i landet der virksomheten er etablert og er i samsvar med krav i direktiv [91/533/EØF](eu/31991l0533) artikkel 3timelister for sjåførens arbeidbevis for betaling av lønn.
+Utenlandsk virksomhet som har sendt ut en sjåfør som har utført gods- eller persontransport som nevnt i [§ 14a](forskrift/2005-12-16-1566/§14a) første ledd skal etter utsendingsperioden, når Arbeidstilsynet ber om det, sende
+
+1. dokumentasjon som nevnt i [§ 14d](forskrift/2005-12-16-1566/§14d) andre ledd bokstavene b og c
+2. dokumentasjon vedrørende sjåførens lønn, for eksempel lønnsslipper
+3. arbeidsavtale eller likeverdig dokument som aksepteres i landet der virksomheten er etablert og er i samsvar med krav i direktiv [91/533/EØF](eu/31991l0533) artikkel 3
+4. timelister for sjåførens arbeid
+5. bevis for betaling av lønn.
 
 Virksomhet etablert i et EU-land eller andre land som har adgang til å bruke Informasjonssystemet for det indre marked (IMI) til dette, skal sende dokumentasjonen til Arbeidstilsynet gjennom IMI. Virksomhet som ikke har adgang til å bruke IMI skal sende dokumentasjonen på den måten Arbeidstilsynet fastsetter.
 

@@ -30,7 +30,10 @@ Formålet med loven er å etablere en midlertidig ordning for tilskudd til arbei
 
 (1) Tilskuddsordningen gjelder for kalendermånedene juli, august, oktober, november og desember 2020 og for perioden 15. mars til 31. august 2021.
 
-(2) For 2020 kan arbeidsgivere søke om tilskudd for den enkelte ansatte enten forjuli og august, eller en av disse månedene, elleroktober, november og desember, eller en av disse månedene.
+(2) For 2020 kan arbeidsgivere søke om tilskudd for den enkelte ansatte enten for
+
+1. juli og august, eller en av disse månedene, eller
+2. oktober, november og desember, eller en av disse månedene.
 
 (3) For 2021 kan arbeidsgivere søke om tilskudd for den enkelte ansatte for perioden 15. mars til 31. august.
 
@@ -38,7 +41,10 @@ Formålet med loven er å etablere en midlertidig ordning for tilskudd til arbei
 
 ## § 3. Arbeidsgivere som kan søke om tilskudd
 
-Tilskuddsordningen gjelder for følgende arbeidsgivere:Enkeltpersonforetak og selskapInstitusjon eller organisasjon som omfattes av [skatteloven § 2-32](lov/1999-03-26-14/§2-32).
+Tilskuddsordningen gjelder for følgende arbeidsgivere:
+
+1. Enkeltpersonforetak og selskap
+2. Institusjon eller organisasjon som omfattes av [skatteloven § 2-32](lov/1999-03-26-14/§2-32).
 
 ## § 4. Svalbard
 
@@ -50,7 +56,11 @@ Departementet kan gi forskrift om lovens anvendelse for Svalbard og kan fastsett
 
 (2) For å kunne få tilskudd for oktober, november og desember 2020 eller en av disse månedene må den ansatte ha vært helt eller delvis permittert per 31. august 2020. Den ansatte kan ikke permitteres på nytt, være under oppsigelse eller sies opp før 1. februar 2021.
 
-(3) For å kunne få tilskudd etter første eller annet ledd, måden ansatte tilbake i arbeid hos arbeidsgiveren i minst samme stillingsprosent som før permitteringen.den ansatte ha vært i arbeid hos arbeidsgiveren i hele perioden det søkes tilskudd for.enkeltpersonforetak og selskap ha hatt et omsetningsfall på mer enn 10 prosent.
+(3) For å kunne få tilskudd etter første eller annet ledd, må
+
+1. den ansatte tilbake i arbeid hos arbeidsgiveren i minst samme stillingsprosent som før permitteringen.
+2. den ansatte ha vært i arbeid hos arbeidsgiveren i hele perioden det søkes tilskudd for.
+3. enkeltpersonforetak og selskap ha hatt et omsetningsfall på mer enn 10 prosent.
 
 (4) For å kunne få tilskudd for hele eller deler av perioden 15. mars til 31. august 2021 må den ansatte ha vært helt eller delvis permittert 5. mars 2021 og på en eller flere av datoene 15. november 2020, 1., 15., eller 31. desember 2020, eller 15. januar 2021. Støtten beregnes ut fra hvor lenge den ansatte har vært i arbeid i perioden. Enkeltpersonforetak og selskap må ha hatt et omsetningsfall på mer enn 15 prosent.
 
@@ -72,7 +82,10 @@ Departementet kan gi forskrift om lovens anvendelse for Svalbard og kan fastsett
 
 (4) Institusjon eller organisasjon som omfattes av [skatteloven § 2-32](lov/1999-03-26-14/§2-32) og som driver skattepliktig virksomhet, kan velge om tilskudd skal beregnes etter første og annet ledd eller etter tredje ledd.
 
-(5) Tilskuddets størrelse graderes etter den ansattes stillingsprosent ved permitteringstidspunktet og permitteringsgrad per28. mai 2020 for tilskudd for juli og august eller en av disse månedene31. august 2020 for tilskudd for oktober, november og desember eller en av disse månedene.
+(5) Tilskuddets størrelse graderes etter den ansattes stillingsprosent ved permitteringstidspunktet og permitteringsgrad per
+
+1. 28\. mai 2020 for tilskudd for juli og august eller en av disse månedene
+2. 31\. august 2020 for tilskudd for oktober, november og desember eller en av disse månedene.
 
 (6) For lærlinger beregnes tilskudd etter første til femte ledd, men begrenset oppad til 10 000 kroner.
 
@@ -88,7 +101,11 @@ Departementet kan gi forskrift om lovens anvendelse for Svalbard og kan fastsett
 
 (4) Institusjon eller organisasjon som omfattes av [skatteloven § 2-32](lov/1999-03-26-14/§2-32) og som driver skattepliktig virksomhet, kan velge om tilskudd skal beregnes etter første og annet ledd eller etter tredje ledd.
 
-(5) Tilskuddets størrelse graderes etterden ansattes stillingsprosent 5. marsreduksjon i permitteringsgradhvor stor andel av perioden 15. mars til 31. august 2021 den ansatte har vært i arbeid, begrenset oppad til 108 dager.
+(5) Tilskuddets størrelse graderes etter
+
+1. den ansattes stillingsprosent 5. mars
+2. reduksjon i permitteringsgrad
+3. hvor stor andel av perioden 15. mars til 31. august 2021 den ansatte har vært i arbeid, begrenset oppad til 108 dager.
 
 (6) For lærlinger beregnes tilskudd etter første til femte ledd, men begrenset oppad til 15 000 kroner.
 

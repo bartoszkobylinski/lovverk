@@ -15,7 +15,7 @@ xml_hash: "001631927234696bef6272590a6ea5f322ab9d9f062c74229f0064310eb1f6d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,16 @@ Forskriften inneholder bestemmelser til utfylling og gjennomføring mv. av [merv
 
 ### § 1-3-1. Personkjøretøy
 
-(1) Med personkjøretøy menesmotorvogn registrert som personbilmotorvogn registrert som varebil klasse 1motorvogn registrert som moped, motorsykkel eller beltemotorsykkel og som ikke hovedsakelig er innrettet for varetransportbeltebil registrert for mer enn to personer, føreren medregnetcampingbilregistrert campingtilhengermotorvogn registrert som buss under seks meter med inntil 17 seteplasserkjøretøy som ikke benytter motor til framdrift og som hovedsakelig er innrettet for persontransport.
+(1) Med personkjøretøy menes
+
+1. motorvogn registrert som personbil
+2. motorvogn registrert som varebil klasse 1
+3. motorvogn registrert som moped, motorsykkel eller beltemotorsykkel og som ikke hovedsakelig er innrettet for varetransport
+4. beltebil registrert for mer enn to personer, føreren medregnet
+5. campingbil
+6. registrert campingtilhenger
+7. motorvogn registrert som buss under seks meter med inntil 17 seteplasser
+8. kjøretøy som ikke benytter motor til framdrift og som hovedsakelig er innrettet for persontransport.
 
 (2) Et avgiftssubjekt kan til enhver tid eie én beltemotorsykkel uten at denne anses som personkjøretøy. Ny beltemotorsykkel kan tidligst anskaffes etter 24 måneder, med mindre den blir kondemnert.
 
@@ -44,9 +53,22 @@ Forskriften inneholder bestemmelser til utfylling og gjennomføring mv. av [merv
 
 ### § 1-3-2. Kunstverk
 
-(1) Med kunstverk menes originalemalerier, tegninger, kollasjer og lignende todimensjonale kunstverk, herunder blandete teknikkergrafiske arbeider, herunder stikk, trykk, litografi, mv., signert og nummerert i et antall begrenset oppad til 300 stk.skulpturer, relieffer, installasjoner og andre tredimensjonale kunstverk av et hvert slag og utført i et hvert materialebilledtepper, billedvev og annen tekstilkunstkunstneriske fotografier.
+(1) Med kunstverk menes originale
 
-(2) Ved vurderingen av om et fotografi skal anses som kunstnerisk skal det blant annet legges vekt på om fotografiet har interesse for en videre krets av personer, om det er ment for offentlig visning i gallerier e.l. og på om prisen reflekterer en kunstnerisk verdi. I tillegg må fotografiet væretatt av kunstnerenframkalt under kunstnerens faglige instruksjonsmyndighetsignert og nummerert i et antall begrenset oppad til 30 ogopphavsrettslig beskyttet etter [åndsverkloven § 2](lov/2018-06-15-40/§2) annet ledd bokstav f.Bilder fra ordinær fotografvirksomhet anses ikke som kunstneriske fotografier.
+1. malerier, tegninger, kollasjer og lignende todimensjonale kunstverk, herunder blandete teknikker
+2. grafiske arbeider, herunder stikk, trykk, litografi, mv., signert og nummerert i et antall begrenset oppad til 300 stk.
+3. skulpturer, relieffer, installasjoner og andre tredimensjonale kunstverk av et hvert slag og utført i et hvert materiale
+4. billedtepper, billedvev og annen tekstilkunst
+5. kunstneriske fotografier.
+
+(2) Ved vurderingen av om et fotografi skal anses som kunstnerisk skal det blant annet legges vekt på om fotografiet har interesse for en videre krets av personer, om det er ment for offentlig visning i gallerier e.l. og på om prisen reflekterer en kunstnerisk verdi. I tillegg må fotografiet være
+
+1. tatt av kunstneren
+2. framkalt under kunstnerens faglige instruksjonsmyndighet
+3. signert og nummerert i et antall begrenset oppad til 30 og
+4. opphavsrettslig beskyttet etter [åndsverkloven § 2](lov/2018-06-15-40/§2) annet ledd bokstav f.
+
+Bilder fra ordinær fotografvirksomhet anses ikke som kunstneriske fotografier.
 
 (3) Ved vurderingen av om et verk kan anses som kunstverk skal det blant annet legges vekt på om verket anses som kunstverk av kunstinstitusjoner og/eller at det foreligger visningsavtale for verket, at det ikke hovedsakelig tjener nytteformål, ikke har karakter av ordinær handelsvare (industriell masseproduksjon), er produsert av opphavsmannen selv, eller av andre etter opphavsmannens anvisninger og under opphavsmannens faglige instruksjon.
 
@@ -78,7 +100,11 @@ Med fartøy og luftfartøy i utenriks fart menes fartøy og luftfartøy som rege
 
 (1) Med vare med lav verdi menes vare med verdi under 3000 kroner. Transport- og forsikringskostnader inngår ikke ved fastsettelse av varens verdi.
 
-(2) Ved omregning av vareverdien til norske kroner skal det benyttes valutakurs som er publisert avtolletaten på [toll.no](https://www.toll.no),Norges Bank eller en utenlandsk sentralbank,aktør som offentlig publiserer spotkurser.
+(2) Ved omregning av vareverdien til norske kroner skal det benyttes valutakurs som er publisert av
+
+1. tolletaten på [toll.no](https://www.toll.no),
+2. Norges Bank eller en utenlandsk sentralbank,
+3. aktør som offentlig publiserer spotkurser.
 
 (3) Valutakursen som benyttes, må ha blitt publisert senest 30 dager før betalingen blir akseptert, jf. [§ 15-9-2](forskrift/2009-12-15-1540/§15-9-2). Valget av valutakurs må være konsekvent.
 
@@ -92,9 +118,17 @@ Med fartøy og luftfartøy i utenriks fart menes fartøy og luftfartøy som rege
 
 (1) Som tilbyder etter [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1) tredje ledd anses den som formidler leveransen, herunder ved elektronisk grensesnitt. Elektroniske grensesnitt omfatter digitale plattformer, markedsplasser og portaler.
 
-(2) Formidler som tilbyr bruk av elektroniske grensesnitt, kan bare anses som tilbyder dersom formidleren direkte eller indirektefastsetter de generelle vilkårene for salgeter involvert i betalingener involvert i bestillingen eller leveringen av varen.
+(2) Formidler som tilbyr bruk av elektroniske grensesnitt, kan bare anses som tilbyder dersom formidleren direkte eller indirekte
 
-(3) Formidler anses ikke som tilbyder dersom formidleren bare leverer noen av følgende ytelsergjennomføring av betalingmarkedsføring av varerhenvisning av kunder til andre grensesnitt der varen selges.
+1. fastsetter de generelle vilkårene for salget
+2. er involvert i betalingen
+3. er involvert i bestillingen eller leveringen av varen.
+
+(3) Formidler anses ikke som tilbyder dersom formidleren bare leverer noen av følgende ytelser
+
+1. gjennomføring av betaling
+2. markedsføring av varer
+3. henvisning av kunder til andre grensesnitt der varen selges.
 
 (4) Dersom leveransen skjer uten bruk av formidler, regnes selger som tilbyder.
 
@@ -230,7 +264,11 @@ Vilkårene i [§ 3-12-8](forskrift/2009-12-15-1540/§3-12-8) gjelder tilsvarende
 
 (1) Ved kredittkjøp inngår ikke kredittkostnader etter [finansavtaleloven § 1-7](lov/2020-12-18-146/§1-7) syvende ledd i beregningsgrunnlaget dersom de er særskilt oppgitt i salgsdokument. Dette gjelder likevel bare dersom det gis kreditt for mer enn 30 dager regnet fra utløpet av leveringsmåneden.
 
-(2) Med kredittkjøp meneskjøp av løsøre der det er avtalt utsettelse med betaling av kjøpesummen eller noen del av den,kjøp av løsøre der kjøpesummen helt eller delvis dekkes ved lån og kreditten gis av selgeren eller av en annen på grunnlag av avtale med selgeren (lånekjøp), ellerleie eller annen avtale om bruk av løsøre som i realiteten tjener til å sikre et avhendingsvederlag, dersom det er meningen at mottakeren skal bli eier av tingen.
+(2) Med kredittkjøp menes
+
+1. kjøp av løsøre der det er avtalt utsettelse med betaling av kjøpesummen eller noen del av den,
+2. kjøp av løsøre der kjøpesummen helt eller delvis dekkes ved lån og kreditten gis av selgeren eller av en annen på grunnlag av avtale med selgeren (lånekjøp), eller
+3. leie eller annen avtale om bruk av løsøre som i realiteten tjener til å sikre et avhendingsvederlag, dersom det er meningen at mottakeren skal bli eier av tingen.
 
 > Endret ved [forskrifter 6 jan 2012 nr. 21](forskrift/2012-01-06-21), [2 feb 2023 nr. 135](forskrift/2023-02-02-135).
 
@@ -262,7 +300,12 @@ Ved bilforhandleres omsetning av nye motorkjøretøy der det foreligger et inter
 
 ### § 4-7-1. Endelig konstatert tap
 
-(1) En utestående fordring anses endelig tapt dersomforetatt tvangsinndrivning eller inkasso har vært forgjeves,fordringen er en kundefordring som ikke er innfridd seks måneder etter forfall, til tross for minst tre purringskrav med normale purringsintervaller og slik aktivitet fra kreditors side som forholdene tilsier,offentlig gjeldsmegling, konkurs-, likvidasjons- eller avviklingsbehandling i skyldnerens bo gjør det klart at bomidlene ikke gir eller ikke vil gi fordringen dekning, ellerdet ellers er helt klart at fordringen ikke kan bli oppfylt på grunn av skyldnerens manglende betalingsevne.
+(1) En utestående fordring anses endelig tapt dersom
+
+1. foretatt tvangsinndrivning eller inkasso har vært forgjeves,
+2. fordringen er en kundefordring som ikke er innfridd seks måneder etter forfall, til tross for minst tre purringskrav med normale purringsintervaller og slik aktivitet fra kreditors side som forholdene tilsier,
+3. offentlig gjeldsmegling, konkurs-, likvidasjons- eller avviklingsbehandling i skyldnerens bo gjør det klart at bomidlene ikke gir eller ikke vil gi fordringen dekning, eller
+4. det ellers er helt klart at fordringen ikke kan bli oppfylt på grunn av skyldnerens manglende betalingsevne.
 
 (2) En fordring anses likevel ikke tapt i den utstrekning den er tilstrekkelig sikret ved pant, kausjon e.l.
 
@@ -298,7 +341,10 @@ Ved uttak av mineralvann, øl og vin til eier og ansatte i kafé-, restaurant-, 
 
 ### § 4-9-3. Alminnelig omsetningsverdi – matvarer i hotell- og restaurantbransjen mv.
 
-(1) Ved uttak av kost til eier og ansatte i kafé-, restaurant-, hotell- og cateringvirksomhet, kan den alminnelige omsetningsverdien settes tilSkattedirektoratets satser for fri kost når disse legges til grunn ved beregning av forskuddstrekk og arbeidsgiveravgift, ellerRiksavtalens satser når de ansatte får kosten på arbeidsstedet mot avkorting i avtalt lønn.
+(1) Ved uttak av kost til eier og ansatte i kafé-, restaurant-, hotell- og cateringvirksomhet, kan den alminnelige omsetningsverdien settes til
+
+1. Skattedirektoratets satser for fri kost når disse legges til grunn ved beregning av forskuddstrekk og arbeidsgiveravgift, eller
+2. Riksavtalens satser når de ansatte får kosten på arbeidsstedet mot avkorting i avtalt lønn.
 
 (2) Satsene anses som bruttopriser, merverdiavgift medregnet.
 
@@ -346,7 +392,10 @@ Ved uttak av varer til kiosk- eller serveringsvirksomhet som er unntatt etter [m
 
 ### § 5-2-3. Råvarer og innsatsvarer
 
-(1) Det skal beregnes merverdiavgift med redusert sats ved omsetning mv. av råvarer og innsatsvarer dersområvaren eller innsatsvaren er et næringsmiddel etter [§ 5-2-1](forskrift/2009-12-15-1540/§5-2-1) ogvaren som produseres av råvaren eller innsatsvaren er egnet til og omsettes til menneskelig konsum.
+(1) Det skal beregnes merverdiavgift med redusert sats ved omsetning mv. av råvarer og innsatsvarer dersom
+
+1. råvaren eller innsatsvaren er et næringsmiddel etter [§ 5-2-1](forskrift/2009-12-15-1540/§5-2-1) og
+2. varen som produseres av råvaren eller innsatsvaren er egnet til og omsettes til menneskelig konsum.
 
 (2) Dersom vilkårene i første ledd er oppfylt, skal redusert sats benyttes selv om varen som produseres av råvaren eller innsatsvaren ikke er et næringsmiddel etter [§ 5-2-2](forskrift/2009-12-15-1540/§5-2-2).
 
@@ -400,7 +449,10 @@ Vederlaget, merverdiavgift medregnet, for overnatting som inkluderer frokost, sk
 
 ### § 6-1-1. Aviser
 
-Med aviser menes redaktørstyrte publikasjoner som ukentlig eller oftere, harbred journalistisk produksjon og publisering av i hovedsak nyheter og aktualitetsstoff rettet mot allmennheten fra ulike samfunnsområder ellerdyptgående journalistisk produksjon og publisering av i hovedsak nyheter og aktualitetsstoff rettet mot allmennheten fra et avgrenset samfunnsområde.
+Med aviser menes redaktørstyrte publikasjoner som ukentlig eller oftere, har
+
+1. bred journalistisk produksjon og publisering av i hovedsak nyheter og aktualitetsstoff rettet mot allmennheten fra ulike samfunnsområder eller
+2. dyptgående journalistisk produksjon og publisering av i hovedsak nyheter og aktualitetsstoff rettet mot allmennheten fra et avgrenset samfunnsområde.
 
 > Tilføyd ved [forskrift 25 juni 2020 nr. 1388](forskrift/2020-06-25-1388) (i kraft 1 juli 2020).
 
@@ -418,13 +470,33 @@ Med aviser menes redaktørstyrte publikasjoner som ukentlig eller oftere, harbre
 
 ### § 6-3-1. Tidsskrift
 
-Med tidsskrift menes enhver annen publikasjon enn avis dersomden kommer ut periodisk med minst to nummer i året etter en fast utgivelsesplanden er nummerert og er ledd i en ikke tidsbegrenset rekkeden omsettes til en forhåndsbestemt pris eller utdeles til foreningsmedlemmer ogalle numrene har samme tittel.
+Med tidsskrift menes enhver annen publikasjon enn avis dersom
+
+1. den kommer ut periodisk med minst to nummer i året etter en fast utgivelsesplan
+2. den er nummerert og er ledd i en ikke tidsbegrenset rekke
+3. den omsettes til en forhåndsbestemt pris eller utdeles til foreningsmedlemmer og
+4. alle numrene har samme tittel.
 
 > Endret ved [forskrift 23 feb 2016 nr. 186](forskrift/2016-02-23-186) (i kraft 1 mars 2016, tidligere § 6-2-1).
 
 ### § 6-3-2. Publikasjoner som ikke er tidsskrift
 
-Følgende publikasjoner er ikke tidsskrift:almanakker og andre periodiske publikasjoner med kalendariumnoteblad og -hefterprogrammer for forestillinger, stevner mv.trykksaker for utfylling, innsetting, klebing og heftingfortegnelser eller tabeller over tallforhold for avlesning eller utregning av beløp eller andre tallmessige uttrykte enheter som priser, lønn, rabatter, poenger, gebyrer, skatter, mynt, mål, vekt o.l.trafikkruterfortegnelser over eiendommer, varer, driftsmidler, utstillingsgjenstander, beholdninger og annet løsørefortegnelser over tjenesteytelser, prosjekter o.l.lotterifortegnelseradresse- og firmafortegnelserfortegnelser over gater og tjenestestederfortegnelser over abonnenterfortegnelser over takster, priser, gebyrer, salærer, frakter, aksje- og valutakurser o.l.fortegnelser over debitorer og kreditorer.
+Følgende publikasjoner er ikke tidsskrift:
+
+1. almanakker og andre periodiske publikasjoner med kalendarium
+2. noteblad og -hefter
+3. programmer for forestillinger, stevner mv.
+4. trykksaker for utfylling, innsetting, klebing og hefting
+5. fortegnelser eller tabeller over tallforhold for avlesning eller utregning av beløp eller andre tallmessige uttrykte enheter som priser, lønn, rabatter, poenger, gebyrer, skatter, mynt, mål, vekt o.l.
+6. trafikkruter
+7. fortegnelser over eiendommer, varer, driftsmidler, utstillingsgjenstander, beholdninger og annet løsøre
+8. fortegnelser over tjenesteytelser, prosjekter o.l.
+9. lotterifortegnelser
+10. adresse- og firmafortegnelser
+11. fortegnelser over gater og tjenestesteder
+12. fortegnelser over abonnenter
+13. fortegnelser over takster, priser, gebyrer, salærer, frakter, aksje- og valutakurser o.l.
+14. fortegnelser over debitorer og kreditorer.
 
 > Endret ved [forskrift 23 feb 2016 nr. 186](forskrift/2016-02-23-186) (i kraft 1 mars 2016, tidligere § 6-2-2).
 
@@ -432,7 +504,12 @@ Følgende publikasjoner er ikke tidsskrift:almanakker og andre periodiske publik
 
 (1) Omsetning av tidsskrift er fritatt for merverdiavgift dersom minst 80 prosent av netto opplag av tidsskriftet i en sammenhengende periode på tolvmåneder har vært eller vil bli omsatt til betalende abonnenter eller utdelt til foreningsmedlemmer som betaler kontingent til foreningen og foreningen utgir tidsskriftet.
 
-(2) Netto opplag omfattersolgte løssalgseksemplarerbetalte abonnementereksemplarer som deles ut til foreningsmedlemmergratisutdelte eksemplarer, unntatt bilagsblad til annonsører og reklamebyråer for annonsekontroll.
+(2) Netto opplag omfatter
+
+1. solgte løssalgseksemplarer
+2. betalte abonnementer
+3. eksemplarer som deles ut til foreningsmedlemmer
+4. gratisutdelte eksemplarer, unntatt bilagsblad til annonsører og reklamebyråer for annonsekontroll.
 
 (3) Ved fastsettelse av andel til foreningsmedlemmer kan det bare regnes med ett eksemplar til hvert medlem. Dersom et foreningsmedlem er en forening, kan det i tillegg til medlemsandelen regnes med ett eksemplar til hvert av medlemmene i denne foreningen.
 
@@ -462,7 +539,12 @@ Omsetning av eldre årganger og enkelthefter av et ellers avgiftsfritt abonnemen
 
 (2) Meldingen skal være skriftlig og undertegnet av utgiveren eller importøren, i tillegg til revisor.
 
-(3) Meldingen skal inneholde følgende opplysninger:tidsskriftets tittelutgiverens navn og adresseom tidsskriftet er merverdiavgiftspliktig eller fritatt for merverdiavgiftfra hvilket nummer avgiftsplikten eller fritaket inntrer.
+(3) Meldingen skal inneholde følgende opplysninger:
+
+1. tidsskriftets tittel
+2. utgiverens navn og adresse
+3. om tidsskriftet er merverdiavgiftspliktig eller fritatt for merverdiavgift
+4. fra hvilket nummer avgiftsplikten eller fritaket inntrer.
 
 > Endret ved [forskrift 23 feb 2016 nr. 186](forskrift/2016-02-23-186) (i kraft 1 mars 2016, tidligere § 6-2-7).
 
@@ -476,7 +558,13 @@ Omsetning av eldre årganger og enkelthefter av et ellers avgiftsfritt abonnemen
 
 ### § 6-3-9. Elektroniske tidsskrift
 
-(1) Med elektronisk tidsskrift menes en elektronisk publikasjon bestående av i hovedsak tekst og stillbilder somikke er en aviskommer ut periodisk med minst to og maksimalt 51 nummer i året etter en fast utgivelsesplaner nummerert og er ledd i en ikke tidsbegrenset rekkehar samme tittel for alle nummerikke har et innhold som nevnt i [§ 6-3-2](forskrift/2009-12-15-1540/§6-3-2).
+(1) Med elektronisk tidsskrift menes en elektronisk publikasjon bestående av i hovedsak tekst og stillbilder som
+
+1. ikke er en avis
+2. kommer ut periodisk med minst to og maksimalt 51 nummer i året etter en fast utgivelsesplan
+3. er nummerert og er ledd i en ikke tidsbegrenset rekke
+4. har samme tittel for alle nummer
+5. ikke har et innhold som nevnt i [§ 6-3-2](forskrift/2009-12-15-1540/§6-3-2).
 
 (2) Innenfor rammene av første ledd kan det hver uke forhåndspubliseres inntil to enkeltartikler til det førstkommende nummeret. Omsetning av enkeltartikler omfattes ikke av fritaket for elektroniske tidsskrift.
 
@@ -506,7 +594,31 @@ Med bøker menes publikasjoner som ikke er aviser eller tidsskrift.
 
 ### § 6-4-2. Publikasjoner som ikke er bøker
 
-Følgende publikasjoner er ikke bøker:trykksaker for utfylling, innsetting, klebing, hefting, ut- eller avrivingsmåtrykk som rundskriv, sirkulærer, brosjyrer, prospekter, foldere o.l.reglementer, instrukser, vedtekter, forskrifter, lover, traktater, avtaler, stortingsdokumenter, kunngjøringer fra offentlige institusjonertrykte referater av forhandlingertrykk av dommer, skjønn, registre, matrikler o.l.skole- og studieplaner, forelesnings- og kurskatalogerorganisasjons- og reguleringsplaner o.l.almanakker, årskalendere og andre publikasjoner med kalendariumprogrammer for utstillinger, samlinger, forestillinger, stevner og andre arrangementerfortegnelser eller tabeller over tallforhold for utregning av beløp eller andre tallmessig uttrykte enheter som priser, lønn, rabatter, poenger, gebyrer, skatter, mynt, mål, vekt o.l.noteblad, -hefter og -bøker, sangbøker anses likevel som bøker selv om de inneholder notertrafikkruterløse omslag og permer dersom omslaget eller permen ikke skal omslutte en bok eller bestemt publikasjon som er fritatt for merverdiavgiftsamlinger av bildetrykk o.l. dersom sidene er uten tekst eller bare angir stedsnavn, personnavn eller betegnelser, korte instruksjoner e.l.fortegnelser over eiendommer, varer, driftsmidler, utstillingsgjenstander, beholdninger og annet løsørelotterifortegnelseradresse- og firmafortegnelserfortegnelser over gater og tjenestestederfortegnelser over abonnenterfortegnelser over takster, priser, gebyrer, salærer, frakter, aksje- og valutakurser o.l.andre kart enn atlas, med atlas menes heftede eller innbundne kartverk som omfatter minst ett landreklametrykksaker, herunder trykt skrift som deles ut gratis og tiltrekker oppmerksomheten mot flere bedrifters, en bransjes eller en nærings varer eller tjenesterandre trykte publikasjoner som i henhold til særskilt trykningsoppdrag leveres til internt bruk for en bedrift.
+Følgende publikasjoner er ikke bøker:
+
+1. trykksaker for utfylling, innsetting, klebing, hefting, ut- eller avriving
+2. småtrykk som rundskriv, sirkulærer, brosjyrer, prospekter, foldere o.l.
+3. reglementer, instrukser, vedtekter, forskrifter, lover, traktater, avtaler, stortingsdokumenter, kunngjøringer fra offentlige institusjoner
+4. trykte referater av forhandlinger
+5. trykk av dommer, skjønn, registre, matrikler o.l.
+6. skole- og studieplaner, forelesnings- og kurskataloger
+7. organisasjons- og reguleringsplaner o.l.
+8. almanakker, årskalendere og andre publikasjoner med kalendarium
+9. programmer for utstillinger, samlinger, forestillinger, stevner og andre arrangementer
+10. fortegnelser eller tabeller over tallforhold for utregning av beløp eller andre tallmessig uttrykte enheter som priser, lønn, rabatter, poenger, gebyrer, skatter, mynt, mål, vekt o.l.
+11. noteblad, -hefter og -bøker, sangbøker anses likevel som bøker selv om de inneholder noter
+12. trafikkruter
+13. løse omslag og permer dersom omslaget eller permen ikke skal omslutte en bok eller bestemt publikasjon som er fritatt for merverdiavgift
+14. samlinger av bildetrykk o.l. dersom sidene er uten tekst eller bare angir stedsnavn, personnavn eller betegnelser, korte instruksjoner e.l.
+15. fortegnelser over eiendommer, varer, driftsmidler, utstillingsgjenstander, beholdninger og annet løsøre
+16. lotterifortegnelser
+17. adresse- og firmafortegnelser
+18. fortegnelser over gater og tjenestesteder
+19. fortegnelser over abonnenter
+20. fortegnelser over takster, priser, gebyrer, salærer, frakter, aksje- og valutakurser o.l.
+21. andre kart enn atlas, med atlas menes heftede eller innbundne kartverk som omfatter minst ett land
+22. reklametrykksaker, herunder trykt skrift som deles ut gratis og tiltrekker oppmerksomheten mot flere bedrifters, en bransjes eller en nærings varer eller tjenester
+23. andre trykte publikasjoner som i henhold til særskilt trykningsoppdrag leveres til internt bruk for en bedrift.
 
 > Endret ved [forskrift 23 feb 2016 nr. 186](forskrift/2016-02-23-186) (i kraft 1 mars 2016, tidligere § 6-3-2).
 
@@ -530,7 +642,11 @@ Følgende publikasjoner er ikke bøker:trykksaker for utfylling, innsetting, kle
 
 ### § 6-6-1. Husholdningsbruk
 
-Med husholdningsbruk menes bruk foreneboliger, leiligheter, hybler og fritidsboliger, herunder hytter, setrer, koier o.l.,aldershjem, barneverninstitusjoner, sentre for familie og barn og daginstitusjoner for barn, men ikke sykehjem og boliger med heldøgns omsorg og pleie,fellesvaskeri, garasjer og andre fellesanlegg i eller for boliger mv. som nevnt i bokstav a og b.
+Med husholdningsbruk menes bruk for
+
+1. eneboliger, leiligheter, hybler og fritidsboliger, herunder hytter, setrer, koier o.l.,
+2. aldershjem, barneverninstitusjoner, sentre for familie og barn og daginstitusjoner for barn, men ikke sykehjem og boliger med heldøgns omsorg og pleie,
+3. fellesvaskeri, garasjer og andre fellesanlegg i eller for boliger mv. som nevnt i bokstav a og b.
 
 Som hybel etter første ledd bokstav a, anses også hybler uten egen strømmåler som leies ut av studentsamskipnadene.
 
@@ -548,9 +664,16 @@ Som alternative energikilder anses blant annet energi fra fjernvarmeanlegg. Foss
 
 ### § 6-7-1. Kjøretøy som omfattes av Stortingets vedtak om omregistreringsavgift
 
-(1) Fritaket i [merverdiavgiftsloven § 6-7](lov/2009-06-19-58/§6-7) første ledd omfatter det tidligere registrerte kjøretøyet slik det er tatt inn av selgeren med utstyr, påbygg mv. Dersom det ikke betales særskilt vederlag omfatter fritaket ogsåutstyr og påbygg som monteres på eller installeres i kjøretøyet i den utstrekning det er påbudt i kjøretøyforskriftene for vedkommende type, merke og årsmodell eller er nødvendig for å bringe kjøretøyet i vanlig stand og til de spesifikasjoner som er vanlige for vedkommende type, merke og årsmodell,bensin og annet drivstoff som leveres på tank, påfylt smøreolje, reservehjul og verktøy som vanligvis følger med kjøretøy,deler og andre varer som går med under arbeid som nevnt i annet ledd bokstav a.
+(1) Fritaket i [merverdiavgiftsloven § 6-7](lov/2009-06-19-58/§6-7) første ledd omfatter det tidligere registrerte kjøretøyet slik det er tatt inn av selgeren med utstyr, påbygg mv. Dersom det ikke betales særskilt vederlag omfatter fritaket også
 
-(2) Fritaket omfatter følgende arbeid for selgerens regning:reparasjon, vedlikehold og klargjøring av kjøretøy og utstyr som nevnt i første ledd bokstav amontering og installering av utstyr og påbygg som nevnt i første ledd bokstav a.
+1. utstyr og påbygg som monteres på eller installeres i kjøretøyet i den utstrekning det er påbudt i kjøretøyforskriftene for vedkommende type, merke og årsmodell eller er nødvendig for å bringe kjøretøyet i vanlig stand og til de spesifikasjoner som er vanlige for vedkommende type, merke og årsmodell,
+2. bensin og annet drivstoff som leveres på tank, påfylt smøreolje, reservehjul og verktøy som vanligvis følger med kjøretøy,
+3. deler og andre varer som går med under arbeid som nevnt i annet ledd bokstav a.
+
+(2) Fritaket omfatter følgende arbeid for selgerens regning:
+
+1. reparasjon, vedlikehold og klargjøring av kjøretøy og utstyr som nevnt i første ledd bokstav a
+2. montering og installering av utstyr og påbygg som nevnt i første ledd bokstav a.
 
 > Tilføyd ved [forskrift 25 juni 2015 nr. 768](forskrift/2015-06-25-768) (i kraft 1 juli 2015), endret ved [forskrifter 23 feb 2016 nr. 186](forskrift/2016-02-23-186) (i kraft 1 mars 2016, tidligere § 6-6-3), [19 des 2022 nr. 2325](forskrift/2022-12-19-2325) (i kraft 1 jan 2023, tidligere § 6-7-3).
 
@@ -612,7 +735,11 @@ Fritaket skal dokumenteres med bekreftelse fra skattekontoret om at omsetningen 
 
 (3) Omsetning fra militære vareutsalg, dagligvareforretninger, andre utsalgssteder, militære messer, sentre for sosialt samvær og opplæring samt områder for fritidsaktiviteter, etablert av amerikanske styrker og som kun er til bruk for medlemmer av styrken, medfølgende og andre kategorier av autorisert personell, er fritatt for merverdiavgift. Dette gjelder både der amerikanske forsvarsmyndigheter selv driver og opprettholder de ovennevnte militære velferdstjenestene og der det er inngått avtale med andre om driften.
 
-(4) Omsetning av varer og tjenester til virksomheter med omsetning som er unntatt fra loven, er fritatt for merverdiavgift såfremt varene og tjenestene i samsvar med [artikkel XVI](traktat/2021-04-16-3/ARTIKKEL_xvi) i [Tilleggsavtale mellom Norge og USA om forsvarssamarbeid](traktat/2021-04-16-3)er til bruk for amerikanske styrkerskal brukes ved utførelsen av en avtale med eller på vegne av amerikanske styrkerskal inngå som del i produkter eller anlegg som brukes av amerikanske styrker.
+(4) Omsetning av varer og tjenester til virksomheter med omsetning som er unntatt fra loven, er fritatt for merverdiavgift såfremt varene og tjenestene i samsvar med [artikkel XVI](traktat/2021-04-16-3/ARTIKKEL_xvi) i [Tilleggsavtale mellom Norge og USA om forsvarssamarbeid](traktat/2021-04-16-3)
+
+1. er til bruk for amerikanske styrker
+2. skal brukes ved utførelsen av en avtale med eller på vegne av amerikanske styrker
+3. skal inngå som del i produkter eller anlegg som brukes av amerikanske styrker.
 
 > Endret ved forskrifter [1 juli 2022 nr. 1282](forskrift/2022-07-01-1282), [27 juni 2024 nr. 1363](forskrift/2024-06-27-1363) (i kraft 1 juli 2024).
 
@@ -658,7 +785,10 @@ Fritakene i [§ 6-13-1 første](forskrift/2009-12-15-1540/§6-13-1/ledd/1) og [f
 
 ### § 6-20-2. Vilkår for fritak ved uttak av virke fra egen skog mv.
 
-(1) Uttak av foredlet virke fra egen skog innen jordbruk og skogbruk til privat bruk eller til formål innenfor rammene av disse næringene er fritatt for merverdiavgift dersom foredlingen er utført påegen gårdssag og gårdssaga brukes 80 prosent eller mer til foredling for eget forbruk,allmenningssag og foredlingen skjer innen rammen av allmenningsretten. Dersom allmenningssaga ikke brukes 80 prosent eller mer til foredling av virke for de allmenningsberettiges eget forbruk innen rammen av allmenningsretten, gjelder fritaket bare for 50 prosent av materialenes omsetningsverdi.
+(1) Uttak av foredlet virke fra egen skog innen jordbruk og skogbruk til privat bruk eller til formål innenfor rammene av disse næringene er fritatt for merverdiavgift dersom foredlingen er utført på
+
+1. egen gårdssag og gårdssaga brukes 80 prosent eller mer til foredling for eget forbruk,
+2. allmenningssag og foredlingen skjer innen rammen av allmenningsretten. Dersom allmenningssaga ikke brukes 80 prosent eller mer til foredling av virke for de allmenningsberettiges eget forbruk innen rammen av allmenningsretten, gjelder fritaket bare for 50 prosent av materialenes omsetningsverdi.
 
 (2) Fritaket gjelder også for tømmerverdien ved leieskjæring av skurtømmer. Som leieskjæring anses også leveranser av skurtømmer til sagbruk når ferdige materialer av samme treslag og kvalitet tas tilbake i bytte fra sagbrukets lager. Ved slikt bytte anses materialutbyttet å utgjøre 50 prosent av det skårne tømmerets volum.
 
@@ -668,7 +798,10 @@ Ved fritak etter [§ 6-20-2](forskrift/2009-12-15-1540/§6-20-2) annet ledd anne
 
 ### § 6-20-4. Uttak til sameie- eller fellestiltak
 
-Uttak av produkter til sameie- eller fellestiltak som drives i tilknytning til næring innen jordbruk og skogbruk er fritatt for merverdiavgift dersom tiltaketinngår som ledd i produksjon eller lagring for den enkelte sameier, herunder sameie i driftsbygninger, skogsveisameie, sambeite mv., ogikke er registreringspliktig etter [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1).
+Uttak av produkter til sameie- eller fellestiltak som drives i tilknytning til næring innen jordbruk og skogbruk er fritatt for merverdiavgift dersom tiltaket
+
+1. inngår som ledd i produksjon eller lagring for den enkelte sameier, herunder sameie i driftsbygninger, skogsveisameie, sambeite mv., og
+2. ikke er registreringspliktig etter [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1).
 
 ### § 6-20-5. Fast eiendom i tilknytning til primærnæringene
 
@@ -732,7 +865,13 @@ Fritaket skal dokumenteres med salgsdokument der det framgår at leveringsstedet
 
 (1) Ved omsetning til personer bosatt i andre land enn Danmark, Finland eller Sverige skal fritaket dokumenteres med utfylt blankett RD-0032. Det samme gjelder ved omsetning til personer som har opphold på Svalbard eller Jan Mayen. Blanketten må være påført tollmyndighetenes utførselsattest, eller dokumentasjon for innførsel fra andre lands tollmyndighet eller tollmyndighetene på Svalbard, innen én måned etter at varen ble levert.
 
-(2) Dersom gjennomføringen av fritaket skjer gjennom privat selskap, skal fritaket dokumenteres og gjennomføres slik;I forbindelse med salget, registreres digitalt selgers navn og organisasjonsnummer, kjøpers navn og bostedsland, salgsdato, varens art, vederlag inklusiv merverdiavgift og refusjonsbeløp. Identifisering av kjøper gjennomføres ved bruk av app eller kort utstedt av selskapet hvor opplysninger om identitet og bostedsland er registrert, og som kan sammenholdes med kjøpers pass. Registrering av salg og identifisering av kjøper kan også skje ved at selger registrerer opplysninger som nevnt i første og annet punktum manuelt.Utførsel dokumenteres av den reisende ved utreise fra merverdiavgiftsområdet ved registrering av pass, boardingkort eller billett på selvbetjeningsautomat, nettbrett eller ved bruk av mobiltelefon. Opplysninger om selgers navn og organisasjonsnummer, salgsdato, varens art, vederlag inklusiv merverdiavgift og refusjonsbeløp som er registrert i forbindelse med salget skal samtidig bekreftes.Varer som det refunderes merverdiavgift for skal fysisk kontrolleres.Selskap som refunderer merverdiavgift skal gi selger digital dokumentasjon for alle transaksjoner som nevnt i bokstav a som selskapet etter fysisk kontroll av varer har refundert merverdiavgift for. Selger kan tilbakeføre merverdiavgift i skattemeldingen når slik dokumentasjon er mottatt.Selskaper som refunderer merverdiavgift skal oppbevare opplysninger om transaksjoner som nevnt i bokstav a i fem år etter utgangen av skattleggingsperioden som transaksjonen gjelder for.
+(2) Dersom gjennomføringen av fritaket skjer gjennom privat selskap, skal fritaket dokumenteres og gjennomføres slik;
+
+1. I forbindelse med salget, registreres digitalt selgers navn og organisasjonsnummer, kjøpers navn og bostedsland, salgsdato, varens art, vederlag inklusiv merverdiavgift og refusjonsbeløp. Identifisering av kjøper gjennomføres ved bruk av app eller kort utstedt av selskapet hvor opplysninger om identitet og bostedsland er registrert, og som kan sammenholdes med kjøpers pass. Registrering av salg og identifisering av kjøper kan også skje ved at selger registrerer opplysninger som nevnt i første og annet punktum manuelt.
+2. Utførsel dokumenteres av den reisende ved utreise fra merverdiavgiftsområdet ved registrering av pass, boardingkort eller billett på selvbetjeningsautomat, nettbrett eller ved bruk av mobiltelefon. Opplysninger om selgers navn og organisasjonsnummer, salgsdato, varens art, vederlag inklusiv merverdiavgift og refusjonsbeløp som er registrert i forbindelse med salget skal samtidig bekreftes.
+3. Varer som det refunderes merverdiavgift for skal fysisk kontrolleres.
+4. Selskap som refunderer merverdiavgift skal gi selger digital dokumentasjon for alle transaksjoner som nevnt i bokstav a som selskapet etter fysisk kontroll av varer har refundert merverdiavgift for. Selger kan tilbakeføre merverdiavgift i skattemeldingen når slik dokumentasjon er mottatt.
+5. Selskaper som refunderer merverdiavgift skal oppbevare opplysninger om transaksjoner som nevnt i bokstav a i fem år etter utgangen av skattleggingsperioden som transaksjonen gjelder for.
 
 > Endret ved forskrifter [24 jan 2014 nr. 66](forskrift/2014-01-24-66), [22 juni 2021 nr. 2134](forskrift/2021-06-22-2134) (i kraft 1 juli 2021), [14 mars 2023 nr. 335](forskrift/2023-03-14-335) (i kraft 1 april 2023), [4 mars 2025 nr. 350](forskrift/2025-03-04-350).
 
@@ -758,7 +897,12 @@ Fritaket gjelder den mengde vare som kan innføres unntatt deklareringsplikt ett
 
 ### § 6-28-1. Tilknytningstransport
 
-(1) Det et vilkår for fritak etter [merverdiavgiftsloven § 6-28](lov/2009-06-19-58/§6-28) annet ledd atdet på forhånd er inngått avtale om sammenhengende transportbillett er utstedt fra første avreisested i merverdiavgiftsområdet til endelig bestemmelsessted utenfor merverdiavgiftsområdet eller omvendthele transporten skjer med samme type transportmiddelpåfølgende transport påbegynnes innen 24 timer og står i direkte forbindelse med den første.
+(1) Det et vilkår for fritak etter [merverdiavgiftsloven § 6-28](lov/2009-06-19-58/§6-28) annet ledd at
+
+1. det på forhånd er inngått avtale om sammenhengende transport
+2. billett er utstedt fra første avreisested i merverdiavgiftsområdet til endelig bestemmelsessted utenfor merverdiavgiftsområdet eller omvendt
+3. hele transporten skjer med samme type transportmiddel
+4. påfølgende transport påbegynnes innen 24 timer og står i direkte forbindelse med den første.
 
 (2) Fritaket gjelder både transport som skjer med transportmiddel som går i rute og med transportmiddel som er chartret, og selv om den påfølgende transporten innebærer skifte av stasjon, lufthavn, båthavn mv. dersom vilkårene for øvrig er oppfylt.
 
@@ -818,7 +962,12 @@ Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) første ledd
 
 ### § 6-30-5. Tjenester som er omfattet av fritaket
 
-(1) Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) annet ledd omfatter tjenester som gjeldersleping av fartøyutleie av varig driftsutstyr som leveres til fartøyrett til å disponere kommunal havn som nevnt i [merverdiavgiftsloven § 3-11](lov/2009-06-19-58/§3-11) annet ledd bokstav jteletjenester.
+(1) Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) annet ledd omfatter tjenester som gjelder
+
+1. sleping av fartøy
+2. utleie av varig driftsutstyr som leveres til fartøy
+3. rett til å disponere kommunal havn som nevnt i [merverdiavgiftsloven § 3-11](lov/2009-06-19-58/§3-11) annet ledd bokstav j
+4. teletjenester.
 
 (2) Fritaket omfatter også formidlingstjenester omsatt til norsk reder som gjelder transport av varer med fartøy i utenriks fart.
 
@@ -842,7 +991,11 @@ Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) tredje ledd 
 
 ### § 6-30-8. Tjenester som er omfattet av fritaket
 
-(1) Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) tredje ledd omfatter tjenester som gjeldersleping av fartøyutleie av varig driftsutstyr som leveres til fartøyrett til å disponere kommunal havn som nevnt i [merverdiavgiftsloven § 3-11](lov/2009-06-19-58/§3-11) annet ledd bokstav j.
+(1) Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) tredje ledd omfatter tjenester som gjelder
+
+1. sleping av fartøy
+2. utleie av varig driftsutstyr som leveres til fartøy
+3. rett til å disponere kommunal havn som nevnt i [merverdiavgiftsloven § 3-11](lov/2009-06-19-58/§3-11) annet ledd bokstav j.
 
 (2) Fritaket omfatter også formidlingstjenester omsatt til norsk reder som gjelder transport av varer med spesialfartøy.
 
@@ -866,7 +1019,11 @@ Omsetning av mat, drikke og tobakksvarer til norske fiske- og fangstfartøy er f
 
 (2) For mat, drikke og tobakksvarer til forpleining eller omsetning til mannskap gjelder begrensningene i [vareførselsforskriften § 5-9-7](forskrift/2022-10-27-1901/§5-9-7) tredje ledd tredje punktum og [§ 5-9-9](forskrift/2022-10-27-1901/§5-9-9) annet ledd.
 
-(3) Omsetning av følgende tjenester til fartøy som nevnt i første ledd er fritatt for merverdiavgiftsleping av fartøyetutleie av varig driftsutstyr som leveres til fartøyetrett til å disponere kommunal havn som nevnt i [merverdiavgiftsloven § 3-11](lov/2009-06-19-58/§3-11) annet ledd bokstav j.
+(3) Omsetning av følgende tjenester til fartøy som nevnt i første ledd er fritatt for merverdiavgift
+
+1. sleping av fartøyet
+2. utleie av varig driftsutstyr som leveres til fartøyet
+3. rett til å disponere kommunal havn som nevnt i [merverdiavgiftsloven § 3-11](lov/2009-06-19-58/§3-11) annet ledd bokstav j.
 
 > Endret ved forskrifter [21 juni 2018 nr. 941](forskrift/2018-06-21-941) (med virkning fra 1 jan 2016), [20 des 2022 nr. 2466](forskrift/2022-12-20-2466) (i kraft 1 jan 2023).
 
@@ -882,7 +1039,12 @@ Omsetning av mat, drikke og tobakksvarer til norske fiske- og fangstfartøy er f
 
 ### § 6-30-13. Fartøy som går til havn utenfor merverdiavgiftsområdet
 
-(1) Omsetning av proviant og forbruksvarer til følgende fartøy er fritatt for merverdiavgift dersom varene leveres direkte til fartøyet og fartøyet for den enkelte tur går til havn utenfor merverdiavgiftsområdet:fartøy på minst 15 meter som i innenriks fart driver persontransport eller varetransportbergings- og slepefartøy på minst 15 metermarinefartøyskolefartøy.
+(1) Omsetning av proviant og forbruksvarer til følgende fartøy er fritatt for merverdiavgift dersom varene leveres direkte til fartøyet og fartøyet for den enkelte tur går til havn utenfor merverdiavgiftsområdet:
+
+1. fartøy på minst 15 meter som i innenriks fart driver persontransport eller varetransport
+2. bergings- og slepefartøy på minst 15 meter
+3. marinefartøy
+4. skolefartøy.
 
 (2) Fritaket omfatter ikke varer for salg til passasjerer på fartøy som er bestemt for persontransport mellom Norge og Danmark, Sverige eller Finland. Fritaket gjelder likevel for varer som kan selges om bord etter [vareførselsforskriften § 5-9-7](forskrift/2022-10-27-1901/§5-9-7), jf. [§ 5-9-10](forskrift/2022-10-27-1901/§5-9-10).
 
@@ -910,7 +1072,11 @@ Omsetning av mat, drikke og tobakksvarer til norske fiske- og fangstfartøy er f
 
 (1) Fritaket i [merverdiavgiftsloven § 6-31](lov/2009-06-19-58/§6-31) første ledd omfatter alle varer til bruk for luftfartøy dersom varene leveres direkte til luftfartøyet. Fritaket omfatter ikke varer for salg til passasjerer på luftfartøy som er bestemt for persontransport mellom Norge og Danmark, Sverige eller Finland. Fritaket gjelder likevel for varer som kan selges om bord etter [vareførselsforskriften § 5-9-7](forskrift/2022-10-27-1901/§5-9-7), jf. [§ 5-9-13](forskrift/2022-10-27-1901/§5-9-13).
 
-(2) Fritaket omfatter tjenester som gjeldersleping av luftfartøyutleie av varig driftsutstyr som leveres til luftfartøyrett til å disponere lufthavn for luftfartøy.
+(2) Fritaket omfatter tjenester som gjelder
+
+1. sleping av luftfartøy
+2. utleie av varig driftsutstyr som leveres til luftfartøy
+3. rett til å disponere lufthavn for luftfartøy.
 
 > Endret ved forskrifter [6 jan 2012 nr. 21](forskrift/2012-01-06-21), [21 juni 2018 nr. 941](forskrift/2018-06-21-941) (med virkning fra 1 jan 2016), [20 des 2022 nr. 2466](forskrift/2022-12-20-2466) (i kraft 1 jan 2023).
 
@@ -1022,7 +1188,12 @@ Det skal ikke beregnes merverdiavgift ved innførsel av utstyr den avdøde med r
 
 ### § 7-3-3. Fartøy
 
-(1) Fritaket gjelder ett fartøy som innføres ved eierens flytting hit til landet og som er til personlig bruk. Det er et vilkår for fritak ateieren har vært bosatt i utlandet, eller har hatt opphold på Svalbard eller Jan Mayen, sammenhengende i minst fem år umiddelbart før innreisen,fartøyet ikke er over 15 meters største lengdeeieren har eiet fartøyet i minst tolv måneder før innreisen og brukt det i utlandet eller på Svalbard eller Jan Mayen i samme tidsrom oginnførselen finner sted senest ett år etter eierens innreise.
+(1) Fritaket gjelder ett fartøy som innføres ved eierens flytting hit til landet og som er til personlig bruk. Det er et vilkår for fritak at
+
+1. eieren har vært bosatt i utlandet, eller har hatt opphold på Svalbard eller Jan Mayen, sammenhengende i minst fem år umiddelbart før innreisen,
+2. fartøyet ikke er over 15 meters største lengde
+3. eieren har eiet fartøyet i minst tolv måneder før innreisen og brukt det i utlandet eller på Svalbard eller Jan Mayen i samme tidsrom og
+4. innførselen finner sted senest ett år etter eierens innreise.
 
 (2) Eiertiden i første ledd bokstav c regnes fra leveringsdato frem til datoen for eierens innreise til Norge. Dersom fartøyet innføres før eierens innreise, regnes eiertiden frem til innførselsdagen. Tollmyndighetene kan fravike eierkravet i særlige tilfeller.
 
@@ -1034,7 +1205,10 @@ Det skal ikke beregnes merverdiavgift ved innførsel av utstyr den avdøde med r
 
 ### § 7-3-4. Premie
 
-(1) Det skal ikke beregnes merverdiavgift ved innførsel av premie som er vunnet i utlandet i åpen, offentlig konkurranse. Fritaket omfattermedaljer, pokaler, statuetter, fat og lignende premierandre premier av verdi til og med 10 000 kroner, unntatt mat-, drikke-, tobakks- og nikotinvarer.
+(1) Det skal ikke beregnes merverdiavgift ved innførsel av premie som er vunnet i utlandet i åpen, offentlig konkurranse. Fritaket omfatter
+
+1. medaljer, pokaler, statuetter, fat og lignende premier
+2. andre premier av verdi til og med 10 000 kroner, unntatt mat-, drikke-, tobakks- og nikotinvarer.
 
 (2) Det er et vilkår for fritak at eieren selv innfører premien senest seks måneder etter avholdt konkurranse.
 
@@ -1050,7 +1224,13 @@ Det skal ikke beregnes merverdiavgift ved innførsel av utstyr den avdøde med r
 
 ### § 7-3-6. Gave til Kongehuset, jubileer mv.
 
-(1) Det skal ikke beregnes merverdiavgift ved innførsel av:gave fra andre lands statsoverhoder i forbindelse med offisielt besøk i utlandet,gave fra utenlandske stater eller kommuner til Kongehuset, den norske stat eller norske kommuner ved offisielle besøk i Norge av utenlandske statsoverhoder mv.,gave fra utenlandske firma eller organisasjoner til norske firma eller forretningsforbindelser ved større jubileer,gave ved spesielle anledninger fra organisasjoner eller utenlandske forretningsforbindelser til enkeltpersoner som innehar høyere stilling i en norsk organisasjon eller i næringsvirksomhet,gave fra privatpersoner eller organisasjoner til Kongehuset ved spesielle anledninger, jubileer og bryllup.
+(1) Det skal ikke beregnes merverdiavgift ved innførsel av:
+
+1. gave fra andre lands statsoverhoder i forbindelse med offisielt besøk i utlandet,
+2. gave fra utenlandske stater eller kommuner til Kongehuset, den norske stat eller norske kommuner ved offisielle besøk i Norge av utenlandske statsoverhoder mv.,
+3. gave fra utenlandske firma eller organisasjoner til norske firma eller forretningsforbindelser ved større jubileer,
+4. gave ved spesielle anledninger fra organisasjoner eller utenlandske forretningsforbindelser til enkeltpersoner som innehar høyere stilling i en norsk organisasjon eller i næringsvirksomhet,
+5. gave fra privatpersoner eller organisasjoner til Kongehuset ved spesielle anledninger, jubileer og bryllup.
 
 (2) Det er et vilkår for fritak at gaven etter sin art eller omfang ikke er usedvanlig for den aktuelle anledningen.
 
@@ -1066,7 +1246,12 @@ Det skal ikke beregnes merverdiavgift ved innførsel av utstyr som trossamfunn s
 
 ### § 7-3-8. Bryllupsgave
 
-(1) Det skal ikke beregnes merverdiavgift ved innførsel av bryllupsgave dersomen av mottakerne av gaven har flyttet eller flytter til landet som følge av inngåelsen av ekteskapet eller partnerskapet,gaven er gitt av person bosatt i utlandet,gaven blir innført senest seks måneder etter at ekteskapet eller partnerskapet ble inngått oggavens verdi ikke overstiger 1 500 kroner.
+(1) Det skal ikke beregnes merverdiavgift ved innførsel av bryllupsgave dersom
+
+1. en av mottakerne av gaven har flyttet eller flytter til landet som følge av inngåelsen av ekteskapet eller partnerskapet,
+2. gaven er gitt av person bosatt i utlandet,
+3. gaven blir innført senest seks måneder etter at ekteskapet eller partnerskapet ble inngått og
+4. gavens verdi ikke overstiger 1 500 kroner.
 
 (2) Fritaket gjelder ikke alkoholholdige drikkevarer, tobakks- og nikotinvarer.
 
@@ -1074,11 +1259,18 @@ Det skal ikke beregnes merverdiavgift ved innførsel av utstyr som trossamfunn s
 
 ### § 7-3-9. Arvegods
 
-(1) Det skal ikke beregnes merverdiavgift ved innførsel av arvegods dersomvaren er brukt og inngår i bomassen som arvelaters eiendom,arvelater var bosatt utenfor merverdiavgiftsområdet på dødsfallstidspunktet ogarvingen var bosatt i merverdiavgiftsområdet ved arvefallet.
+(1) Det skal ikke beregnes merverdiavgift ved innførsel av arvegods dersom
+
+1. varen er brukt og inngår i bomassen som arvelaters eiendom,
+2. arvelater var bosatt utenfor merverdiavgiftsområdet på dødsfallstidspunktet og
+3. arvingen var bosatt i merverdiavgiftsområdet ved arvefallet.
 
 (2) Fritaket gis etter tillatelse fra tollmyndighetene.
 
-(3) Fritaket gjelder ikke forvare som har vært brukt av arvelater i næringsvirksomhet,alkoholholdige drikkevarer, tobakks- og nikotinvarer.
+(3) Fritaket gjelder ikke for
+
+1. vare som har vært brukt av arvelater i næringsvirksomhet,
+2. alkoholholdige drikkevarer, tobakks- og nikotinvarer.
 
 (4) Som arv anses også vare som på skifteoppgjør mellom arvinger delvis er mottatt ved arv. Vare som er avhendet fra et uskiftet bo eller gitt som forskudd på arv anses ikke som arv.
 
@@ -1120,19 +1312,44 @@ Det skal ikke beregnes merverdiavgift ved innførsel av utstyr som trossamfunn s
 
 (1) Det skal ikke beregnes merverdiavgift ved innførsel av mat-, drikke-, tobakks- og nikotinvarer (proviant) som medbringes til bruk om bord av besetning og passasjerer. Dersom norske fiske- og fangstfartøyer medbringer andre varer enn de som tidligere er tillatt proviantert etter [vareførselsforskriften § 5-9-12](forskrift/2022-10-27-1901/§5-9-12) skal det beregnes merverdiavgift av disse.
 
-(2) Fritaket i første ledd gjelder forbruk om bord innenfor følgende kvoter når fartøyet befinner seg i merverdiavgiftsområdet:for fartøyets fører:400 sigaretter, 400 gram andre tobakksvarer og 200 blad sigarettpapir, 40 milliliter e-væske med nikotin eller 400 gram andre nikotinvarer,2 liter brennevin av høyst 60 volumprosent alkohol eller vin,for hvert besetningsmedlem for øvrig:200 sigaretter, 250 gram andre tobakksvarer og 200 blad sigarettpapir, 20 milliliter e-væske med nikotin eller 200 gram andre nikotinvarer,1 liter brennevin av høyst 60 volumprosent alkohol og 1 liter vin,for hver passasjer som følger med fartøyet fra eller til utlandet, Svalbard eller Jan Mayen:20 sigaretter, 20 gram andre tobakksvarer, 20 blad sigarettpapir, 2 milliliter e-væske med nikotin eller 20 gram andre nikotinvarer per dag inntil passasjeren går fra borde, dersom passasjeren har fylt 18 år,¼ liter brennevin av høyst 60 volumprosent alkohol eller ¼ liter vin per dag inntil passasjeren går fra borde, dersom passasjeren har fylt 20 år.
+(2) Fritaket i første ledd gjelder forbruk om bord innenfor følgende kvoter når fartøyet befinner seg i merverdiavgiftsområdet:
+
+1. for fartøyets fører:
+
+   1. 400 sigaretter, 400 gram andre tobakksvarer og 200 blad sigarettpapir, 40 milliliter e-væske med nikotin eller 400 gram andre nikotinvarer,
+   2. 2 liter brennevin av høyst 60 volumprosent alkohol eller vin,
+2. for hvert besetningsmedlem for øvrig:
+
+   1. 200 sigaretter, 250 gram andre tobakksvarer og 200 blad sigarettpapir, 20 milliliter e-væske med nikotin eller 200 gram andre nikotinvarer,
+   2. 1 liter brennevin av høyst 60 volumprosent alkohol og 1 liter vin,
+3. for hver passasjer som følger med fartøyet fra eller til utlandet, Svalbard eller Jan Mayen:
+
+   1. 20 sigaretter, 20 gram andre tobakksvarer, 20 blad sigarettpapir, 2 milliliter e-væske med nikotin eller 20 gram andre nikotinvarer per dag inntil passasjeren går fra borde, dersom passasjeren har fylt 18 år,
+   2. ¼ liter brennevin av høyst 60 volumprosent alkohol eller ¼ liter vin per dag inntil passasjeren går fra borde, dersom passasjeren har fylt 20 år.
 
 (3) Begrensningene i annet ledd gjelder ikke bruk på turistfartøyer i cruisefart.
 
 (4) Kvotene etter annet ledd kan etter søknad til tollmyndighetene fornyes med tilsvarende mengder ti dager etter ankomst til merverdiavgiftsområdet. Det kan gis ytterligere én fornyelse tjue dager etter ankomst til merverdiavgiftsområdet.
 
-(5) Fritaket etter første ledd opphører dersom fartøyetgår over i innenriks fartgår i opplag, til verksted eller har annet opphold i merverdiavgiftsområdet og mindre enn 1/3 av besetningen er påmønstret ellerblir værende i merverdiavgiftsområdet over 30 dager.Det kan tillates at fartøyet kan gå i kombinert innen- og utenriks fart uten at fritaket opphører. Fritaket forutsetter at avgiftspliktig omsetning av provianterte varer til innenlandsreisende ikke overstiger 5 % av fartøyets totale omsetning av slike varer i løpet av et regnskapsår. Ved servering om bord plikter rederiet å ha kassesystemer som skiller mellom omsetning til innenlands- og utenlandsreisende. Omsetning til innenlandsreisende skal avgiftsberegnes i sin helhet. Søknad om tillatelse til kombinert innen- og utenriks fart sendes til tollmyndighetene. Tollmyndighetene fastsetter nærmere retningslinjer om avgiftsberegningen.
+(5) Fritaket etter første ledd opphører dersom fartøyet
 
-(6) Selv om fritaket er opphørt etter foregående ledd, kan det etter søknad til tollmyndighetene gis tillatelse til atfritatt proviant brukes om bord i utlosset fartøy under fart til annet innenlands sted dersom fartøyet der skal ta om bord last og deretter gå til havn i utlandet, Svalbard eller Jan Mayen. Fritatt proviant kan oppbevares om bord, men alkoholholdige drikkevarer, tobakks- og nikotinvarer skal forsegles,fritatt proviant kan oppbevares om bord i 30 dager i fartøy som etter ankomst til merverdiavgiftsområdet går i opplag, til verksted eller har annet opphold i merverdiavgiftsområdet dersom alkoholholdige drikkevarer, tobakks- og nikotinvarer forsegles,fritatt proviant mv. kan lagres under forsegling i ett år om bord i fartøy som ligger i opplag, dersom tollmyndighetene anser det forsvarlig og hensiktsmessig. Tillatelse kan i alle tilfelle gis dersom fartøyet beholder 1/3 eller mer av besetningen påmønstret.
+1. går over i innenriks fart
+2. går i opplag, til verksted eller har annet opphold i merverdiavgiftsområdet og mindre enn 1/3 av besetningen er påmønstret eller
+3. blir værende i merverdiavgiftsområdet over 30 dager.
+
+Det kan tillates at fartøyet kan gå i kombinert innen- og utenriks fart uten at fritaket opphører. Fritaket forutsetter at avgiftspliktig omsetning av provianterte varer til innenlandsreisende ikke overstiger 5 % av fartøyets totale omsetning av slike varer i løpet av et regnskapsår. Ved servering om bord plikter rederiet å ha kassesystemer som skiller mellom omsetning til innenlands- og utenlandsreisende. Omsetning til innenlandsreisende skal avgiftsberegnes i sin helhet. Søknad om tillatelse til kombinert innen- og utenriks fart sendes til tollmyndighetene. Tollmyndighetene fastsetter nærmere retningslinjer om avgiftsberegningen.
+
+(6) Selv om fritaket er opphørt etter foregående ledd, kan det etter søknad til tollmyndighetene gis tillatelse til at
+
+1. fritatt proviant brukes om bord i utlosset fartøy under fart til annet innenlands sted dersom fartøyet der skal ta om bord last og deretter gå til havn i utlandet, Svalbard eller Jan Mayen. Fritatt proviant kan oppbevares om bord, men alkoholholdige drikkevarer, tobakks- og nikotinvarer skal forsegles,
+2. fritatt proviant kan oppbevares om bord i 30 dager i fartøy som etter ankomst til merverdiavgiftsområdet går i opplag, til verksted eller har annet opphold i merverdiavgiftsområdet dersom alkoholholdige drikkevarer, tobakks- og nikotinvarer forsegles,
+3. fritatt proviant mv. kan lagres under forsegling i ett år om bord i fartøy som ligger i opplag, dersom tollmyndighetene anser det forsvarlig og hensiktsmessig. Tillatelse kan i alle tilfelle gis dersom fartøyet beholder 1/3 eller mer av besetningen påmønstret.
 
 (7) Proviant som ikke kan forbrukes om bord må holdes i egne, atskilte rom eller skap som kan forsegles. Slike varer kan ikke brukes avgiftsfritt før fartøyet har forlatt siste havn i merverdiavgiftsområdet.
 
-(8) Varene i første ledd kan selges til passasjerer som skal ta disse i land. Salg av alkohol, tobakks- og nikotinvarer for ilandbringelse er ikke tillatt når fartøy ligger i havn eller befinner seg i de indre farvann, med unntak av Oslofjorden.Salg av alkohol, tobakks- og nikotinvarer til passasjerer for ilandbringelse er ikke tillatt på fartøy som går mellom havner i Norge og Sverige på strekningen fra og med Risør i vest til og med Lysekil i sør. Salg av alkoholholdige drikkevarer, tobakks- og nikotinvarer kan likevel skje på fartøy i rute mellom norsk havn fra og med Risør i vest til Sandefjord i øst og svensk havn fra og med Strømstad i nord til og med Lysekil i sør. Det er videre et vilkår at fartøyet går i helårs rutetrafikk etter en fast, regelmessig rutetabell, har kapasitet til å transportere gods og motorvogner i betydelig omfang og at det er lagt til rette for tilfredsstillende kontroll.
+(8) Varene i første ledd kan selges til passasjerer som skal ta disse i land. Salg av alkohol, tobakks- og nikotinvarer for ilandbringelse er ikke tillatt når fartøy ligger i havn eller befinner seg i de indre farvann, med unntak av Oslofjorden.
+
+Salg av alkohol, tobakks- og nikotinvarer til passasjerer for ilandbringelse er ikke tillatt på fartøy som går mellom havner i Norge og Sverige på strekningen fra og med Risør i vest til og med Lysekil i sør. Salg av alkoholholdige drikkevarer, tobakks- og nikotinvarer kan likevel skje på fartøy i rute mellom norsk havn fra og med Risør i vest til Sandefjord i øst og svensk havn fra og med Strømstad i nord til og med Lysekil i sør. Det er videre et vilkår at fartøyet går i helårs rutetrafikk etter en fast, regelmessig rutetabell, har kapasitet til å transportere gods og motorvogner i betydelig omfang og at det er lagt til rette for tilfredsstillende kontroll.
 
 > Tilføyd ved [forskrift 20 des 2022 nr. 2466](forskrift/2022-12-20-2466) (i kraft 1 jan 2023).
 
@@ -1164,7 +1381,10 @@ Besetningsmedlem på norske marinefartøyer kan etter ankomst fra utlandet forbr
 
 (3) Administrativt og teknisk personale ved ambassade eller konsulat kan ved første gangs etablering i Norge avgiftsfritt innføre motorvogn, husholdningsvare og yrkesutstyr i tillegg til flyttegods etter [§ 7-3-2](forskrift/2009-12-15-1540/§7-3-2) og [§ 7-3-3](forskrift/2009-12-15-1540/§7-3-3). Fritaket gjelder ikke for tjenere.
 
-(4) Bestemmelsene i annet og tredje ledd gjelder tilsvarende for medlemmer av representantenes eller personalets familie dersom disseikke er norske borgere eller fast bosatt i Norge ogtilhører samme husstand som representanten eller personalet.
+(4) Bestemmelsene i annet og tredje ledd gjelder tilsvarende for medlemmer av representantenes eller personalets familie dersom disse
+
+1. ikke er norske borgere eller fast bosatt i Norge og
+2. tilhører samme husstand som representanten eller personalet.
 
 (5) Dersom en representant eller et medlem av personalet dør, beholder familien retten til fritak etter annet og tredje ledd i et rimelig tidsrom innen de forlater landet.
 
@@ -1184,7 +1404,10 @@ Besetningsmedlem på norske marinefartøyer kan etter ankomst fra utlandet forbr
 
 (1) Det skal ikke beregnes merverdiavgift ved innførsel av eide motorvogner, utstyr og en rimelig mengde proviant, materiell og andre varer til bruk for utenlandske NATO-styrker og styrker fra land som deltar i Partnerskap for fred i forbindelse med transitt, øving og annen aktivitet godkjent av norsk militær myndighet. Fritaket gis på vilkår av at varene utelukkende skal brukes av styrkene. Det gis tilsvarende fritak ved styrkenes kjøp av varer som ikke har gått over til fri disponering.
 
-(2) Det skal ikke beregnes merverdiavgift ved innførsel av varer, herunder motorvogner, til offisielt bruk ved NATO-hovedkvarteret. Det samme gjelder varer for salg på serveringssteder, vareutsalg og dagligvareforretninger tilknyttet hovedkvarteret. Varene i vareutsalg og dagligvareforretninger kan bare selges tilutenlandsk personale ved hovedkvarteret og medlemmer av personalets familie (berettiget personell)medlemmer av styrkene nevnt i første ledd
+(2) Det skal ikke beregnes merverdiavgift ved innførsel av varer, herunder motorvogner, til offisielt bruk ved NATO-hovedkvarteret. Det samme gjelder varer for salg på serveringssteder, vareutsalg og dagligvareforretninger tilknyttet hovedkvarteret. Varene i vareutsalg og dagligvareforretninger kan bare selges til
+
+1. utenlandsk personale ved hovedkvarteret og medlemmer av personalets familie (berettiget personell)
+2. medlemmer av styrkene nevnt i første ledd
 
 (3) Det skal ikke beregnes merverdiavgift når hovedkvarteret innfører vare på vegne av berettiget personell. Det skal heller ikke beregnes merverdiavgift når berettiget personell selv innfører vare som sendes hvis sendingens verdi er under 1500 kroner.
 
@@ -1210,7 +1433,10 @@ Besetningsmedlem på norske marinefartøyer kan etter ankomst fra utlandet forbr
 
 (4) Tjenestemenn i FN og underliggende særorganisasjoner kan ved første gangs etablering i Norge avgiftsfritt innføre motorvogn, husholdningsvare og yrkesutstyr i tillegg til flyttegods etter [§ 7-3-2](forskrift/2009-12-15-1540/§7-3-2) og [§ 7-3-3](forskrift/2009-12-15-1540/§7-3-3).
 
-(5) Bestemmelsene i fjerde ledd gjelder tilsvarende for medlemmer av tjenestemennenes familie dersom disseikke er norske borgere eller fast bosatt i Norge ogtilhører samme husstand som representanten eller personalet.
+(5) Bestemmelsene i fjerde ledd gjelder tilsvarende for medlemmer av tjenestemennenes familie dersom disse
+
+1. ikke er norske borgere eller fast bosatt i Norge og
+2. tilhører samme husstand som representanten eller personalet.
 
 (6) Vare som er innført avgiftsfritt etter denne paragraf, skal avgiftsberegnes hvis den videreselges i Norge.
 
@@ -1292,7 +1518,13 @@ Det skal ikke beregnes merverdiavgift ved innførsel av reproduksjonsmateriale s
 
 (1) Dersom kostnadene ved oppføring av bygg som er til bruk både i den registrerte virksomheten og til andre formål fordeler seg tilnærmet likt per kvadratmeter gulvflate til de ulike formål, kan inngående merverdiavgift på kostnadene fordeles på grunnlag av gulvflate til bruk i den registrerte virksomheten i forhold til byggets samlede gulvflate.
 
-(2) Inngående merverdiavgift kan fordeles på samme måte som nevnt i første ledd på kostnader tiltilbygg, påbygg og ombyggingopparbeidelse av tomt, anlegg av vei, vann og avløp mv.installasjoner og særskilte innredninger eller utstyr som inngår i bygget, herunder heis-, fyrings- og ventilasjonsanlegg mv.vedlikehold og reparasjonerdrift.
+(2) Inngående merverdiavgift kan fordeles på samme måte som nevnt i første ledd på kostnader til
+
+1. tilbygg, påbygg og ombygging
+2. opparbeidelse av tomt, anlegg av vei, vann og avløp mv.
+3. installasjoner og særskilte innredninger eller utstyr som inngår i bygget, herunder heis-, fyrings- og ventilasjonsanlegg mv.
+4. vedlikehold og reparasjoner
+5. drift.
 
 (3) Dersom det er avtalt en annen fordeling av kostnader som nevnt i bokstav d og e med leietakerne, kan denne brukes.
 
@@ -1358,11 +1590,23 @@ Et tilbakegående avgiftsoppgjør omfatter inngående merverdiavgift på varer o
 
 ### § 9-1-1. Inngående merverdiavgift påløpt i forbindelse med byggetiltak
 
-Med inngående merverdiavgift påløpt i forbindelse med byggetiltak som nevnt i [merverdiavgiftsloven § 9-1](lov/2009-06-19-58/§9-1) annet ledd bokstav b menesmerverdiavgift som skal betales for tjenester som anskaffes i forbindelse med byggetiltaket,merverdiavgift som skal betales for byggetjenester som et avgiftssubjekt, jf. [merverdiavgiftsloven § 3-22](lov/2009-06-19-58/§3-22) og [§ 3-26](lov/2009-06-19-58/§3-26), selv utfører i forbindelse med byggetiltaket, herunder byggeledelse, byggeadministrasjon og annen administrasjon av slike arbeider, eller merverdiavgift som skulle vært betalt dersom slike tjenester hadde vært utført for ikke fradragsberettigede formål,merverdiavgift som skal betales for varer som anskaffes og tilføyes eiendommen i forbindelse med byggetiltaket.
+Med inngående merverdiavgift påløpt i forbindelse med byggetiltak som nevnt i [merverdiavgiftsloven § 9-1](lov/2009-06-19-58/§9-1) annet ledd bokstav b menes
+
+1. merverdiavgift som skal betales for tjenester som anskaffes i forbindelse med byggetiltaket,
+2. merverdiavgift som skal betales for byggetjenester som et avgiftssubjekt, jf. [merverdiavgiftsloven § 3-22](lov/2009-06-19-58/§3-22) og [§ 3-26](lov/2009-06-19-58/§3-26), selv utfører i forbindelse med byggetiltaket, herunder byggeledelse, byggeadministrasjon og annen administrasjon av slike arbeider, eller merverdiavgift som skulle vært betalt dersom slike tjenester hadde vært utført for ikke fradragsberettigede formål,
+3. merverdiavgift som skal betales for varer som anskaffes og tilføyes eiendommen i forbindelse med byggetiltaket.
 
 ### § 9-1-2. Registrerings- og dokumentasjonsplikt mv. ved anskaffelse og framstilling av kapitalvarer
 
-(1) Anskaffelse og framstilling av kapitalvarer som nevnt i [merverdiavgiftsloven § 9-1](lov/2009-06-19-58/§9-1) annet ledd skal registreres på særskilt konto eller annen oppstilling. Oppstillingen skal for hver kapitalvare visehvilken kapitalvare det gjelderanskaffelses- eller fullføringstidspunktanskaffelseskostnad uten merverdiavgifttotal merverdiavgiftfradragsført merverdiavgift ved anskaffelsenfradragsrett ved anskaffelsen angitt i prosentde justeringer som virksomheten skal gjøre etter [merverdiavgiftsloven § 9-2](lov/2009-06-19-58/§9-2) og [§ 9-3](lov/2009-06-19-58/§9-3) spesifisert med beløp per år.
+(1) Anskaffelse og framstilling av kapitalvarer som nevnt i [merverdiavgiftsloven § 9-1](lov/2009-06-19-58/§9-1) annet ledd skal registreres på særskilt konto eller annen oppstilling. Oppstillingen skal for hver kapitalvare vise
+
+1. hvilken kapitalvare det gjelder
+2. anskaffelses- eller fullføringstidspunkt
+3. anskaffelseskostnad uten merverdiavgift
+4. total merverdiavgift
+5. fradragsført merverdiavgift ved anskaffelsen
+6. fradragsrett ved anskaffelsen angitt i prosent
+7. de justeringer som virksomheten skal gjøre etter [merverdiavgiftsloven § 9-2](lov/2009-06-19-58/§9-2) og [§ 9-3](lov/2009-06-19-58/§9-3) spesifisert med beløp per år.
 
 (2) For kapitalvarer som nevnt i [merverdiavgiftsloven § 9-1](lov/2009-06-19-58/§9-1) annet ledd bokstav b, må anskaffelsen registreres slik at anskaffelseskostnaden kan spesifiseres på fradragsberettigede og ikke-fradragsberettigede formål. Den som er frivillig registrert for utleie av bygg må kunne spesifisere anskaffelseskostnaden for hver enkelt leietaker.
 
@@ -1402,7 +1646,14 @@ Med inngående merverdiavgift påløpt i forbindelse med byggetiltak som nevnt i
 
 ### § 9-3-3. Registrerings- og dokumentasjonsplikt mv. ved overføring av justeringsplikten
 
-(1) En overføring av justeringsplikten skal dokumenteres med en skriftlig, underskrevet avtale med opplysninger omoverdragerens og mottakerens navn, adresse og organisasjonsnummeropplysninger som nevnt i [§ 9-1-2](forskrift/2009-12-15-1540/§9-1-2) første ledd bokstav a til foverdragerens og mottakerens fradragsrett ved overdragelsen angitt i prosentresterende justeringsbeløp for overdragerenangivelse av beløp for den justeringsplikten som overføreshvordan inngående merverdiavgift fordeler seg på de ulike delene av kapitalvaren ved overdragelse som gjelder kapitalvare som nevnt i [merverdiavgiftsloven § 9-1](lov/2009-06-19-58/§9-1) annet ledd bokstav b, jf. [§ 9-1-2](forskrift/2009-12-15-1540/§9-1-2/ledd/2) annet ledd.
+(1) En overføring av justeringsplikten skal dokumenteres med en skriftlig, underskrevet avtale med opplysninger om
+
+1. overdragerens og mottakerens navn, adresse og organisasjonsnummer
+2. opplysninger som nevnt i [§ 9-1-2](forskrift/2009-12-15-1540/§9-1-2) første ledd bokstav a til f
+3. overdragerens og mottakerens fradragsrett ved overdragelsen angitt i prosent
+4. resterende justeringsbeløp for overdrageren
+5. angivelse av beløp for den justeringsplikten som overføres
+6. hvordan inngående merverdiavgift fordeler seg på de ulike delene av kapitalvaren ved overdragelse som gjelder kapitalvare som nevnt i [merverdiavgiftsloven § 9-1](lov/2009-06-19-58/§9-1) annet ledd bokstav b, jf. [§ 9-1-2](forskrift/2009-12-15-1540/§9-1-2/ledd/2) annet ledd.
 
 (2) Dersom opplysninger som nevnt i første ledd endres etter at avtalen er inngått, skal overdrageren rette dette overfor mottakeren dersom opplysningene kan påvirke mottakerens justeringsplikt.
 
@@ -1482,7 +1733,14 @@ Tilbakeføringen skal skje ved en korrigering i skattemeldingen for den terminen
 
 ### § 9-7-2. Registrerings- og dokumentasjonsplikt mv. ved overføring av tilbakeføringsplikten
 
-(1) En overføring av tilbakeføringsplikten skal dokumenteres med en skriftlig, underskrevet avtale med opplysninger omoverdragerens og mottakerens navn, adresse og organisasjonsnummerde opplysninger som framgår av [§ 9-1-2](forskrift/2009-12-15-1540/§9-1-2) første ledd bokstav a til foverdragerens og mottakerens fradragsrett ved overdragelsen angitt i prosentresterende tilbakeføringsbeløp for overdragerenangivelse av beløp for den tilbakeføringsplikten som overføreshvordan inngående merverdiavgift fordeler seg på de ulike delene av kapitalvaren ved overdragelse som gjelder kapitalvare som nevnt i [merverdiavgiftsloven § 9-1](lov/2009-06-19-58/§9-1) annet ledd bokstav b, jf. [§ 9-1-2](forskrift/2009-12-15-1540/§9-1-2/ledd/2) annet ledd.
+(1) En overføring av tilbakeføringsplikten skal dokumenteres med en skriftlig, underskrevet avtale med opplysninger om
+
+1. overdragerens og mottakerens navn, adresse og organisasjonsnummer
+2. de opplysninger som framgår av [§ 9-1-2](forskrift/2009-12-15-1540/§9-1-2) første ledd bokstav a til f
+3. overdragerens og mottakerens fradragsrett ved overdragelsen angitt i prosent
+4. resterende tilbakeføringsbeløp for overdrageren
+5. angivelse av beløp for den tilbakeføringsplikten som overføres
+6. hvordan inngående merverdiavgift fordeler seg på de ulike delene av kapitalvaren ved overdragelse som gjelder kapitalvare som nevnt i [merverdiavgiftsloven § 9-1](lov/2009-06-19-58/§9-1) annet ledd bokstav b, jf. [§ 9-1-2](forskrift/2009-12-15-1540/§9-1-2/ledd/2) annet ledd.
 
 (2) Dersom opplysninger som nevnt i første ledd endres etter at avtalen er inngått, skal overdrageren rette dette overfor mottakeren dersom opplysningene kan påvirke mottakerens tilbakeføringsplikt.
 
@@ -1516,7 +1774,11 @@ Tilbakeføringen skal skje ved en korrigering i skattemeldingen for den terminen
 
 (1) Søknad om refusjon sendes til skattekontoret senest ni måneder etter utløpet av det kalenderåret søknaden gjelder for. Søknaden skal gjelde en periode på minst tre hele kalendermåneder innen samme kalenderår, maksimalt et kalenderår. Perioden kan være kortere enn tre kalendermåneder dersom den utgjør resten av et kalenderår. Dette gjelder likevel slik at søknaden omfatter hele kalendermåneder. Søknaden kan kun omfatte merverdiavgift på varer eller tjenester som er levert eller fakturert i denne perioden, avhengig av hvilket tidspunkt som er det seneste.
 
-(2) Søknaden skal inneholde en beskrivelse av næringsvirksomhetens art og skal vedleggessalgsdokumentattestert deklarasjon dersom varen er innført til merverdiavgiftsområdetbekreftelse fra offentlig myndighet i det land virksomheten drives om at søkeren i søknadsperioden har drevet slik næringsvirksomhet med mindre slik bekreftelse er framlagt tidligere i samme år.
+(2) Søknaden skal inneholde en beskrivelse av næringsvirksomhetens art og skal vedlegges
+
+1. salgsdokument
+2. attestert deklarasjon dersom varen er innført til merverdiavgiftsområdet
+3. bekreftelse fra offentlig myndighet i det land virksomheten drives om at søkeren i søknadsperioden har drevet slik næringsvirksomhet med mindre slik bekreftelse er framlagt tidligere i samme år.
 
 (3) Dersom varen ikke er forbrukt av den næringsdrivende i søknadsperioden og den kan være gjenstand for videresalg, skal søknaden vedlegges deklarasjon og attest for utførsel i samsvar med [vareførselsforskriften § 5-9-2](forskrift/2022-10-27-1901/§5-9-2) tredje og fjerde ledd.
 
@@ -1528,19 +1790,46 @@ Tilbakeføringen skal skje ved en korrigering i skattemeldingen for den terminen
 
 ### § 10-2-1. Varer og tjenester til statseide eiendommer
 
-Det refunderes inngående merverdiavgift ved kjøp av følgende varer og tjenester som gjelder fremmede lands faste eiendommer:vann og avløps-, renovasjons- og feiertjenesterreparasjon og vedlikehold av fast eiendom, herunder rengjørings- og snøryddingstjenestermeglerprovisjoner ved kjøp av fast eiendom.
+Det refunderes inngående merverdiavgift ved kjøp av følgende varer og tjenester som gjelder fremmede lands faste eiendommer:
+
+1. vann og avløps-, renovasjons- og feiertjenester
+2. reparasjon og vedlikehold av fast eiendom, herunder rengjørings- og snøryddingstjenester
+3. meglerprovisjoner ved kjøp av fast eiendom.
 
 > Endret ved [forskrift 15 feb 2013 nr. 200](forskrift/2013-02-15-200) (i kraft 1 jan 2010).
 
 ### § 10-2-2. Andre varer og tjenester til offisiell bruk
 
-(1) Det refunderes inngående merverdiavgift ved kjøp av følgende varer og tjenester til offisiell bruk ved ambassader og konsulater:møbler, speil, lamper, servise, glass- og porselensvarer, gardiner, persienner, tepper, madrasser og møbelstofferelektriske vifter, luftfuktere og -rensereelektrisk kjøkkenutstyr, vaskemaskiner, elektriske ovner og rengjøringsmaskinerkontormaskineralarm- og sikkerhetssystemer, herunder vakttjenester og drift av sikkerhetsalarmer, nødaggregaterbrannvernutstyrgressklippere og snøfreseretrykking av varer av mindre verdielektrisk krafttelefon, teleks, telefaks og internettabonnementrengjørings- og snøryddingstjenesterradioapparater, båndopptakere, platespillere, TV-apparater, stereoanlegg, videoopptakere, antenner for radio og TVbildekk og bilfelgermeglerprovisjoner ved leie av fast eiendomleie av parkeringsplasser.
+(1) Det refunderes inngående merverdiavgift ved kjøp av følgende varer og tjenester til offisiell bruk ved ambassader og konsulater:
+
+1. møbler, speil, lamper, servise, glass- og porselensvarer, gardiner, persienner, tepper, madrasser og møbelstoffer
+2. elektriske vifter, luftfuktere og -rensere
+3. elektrisk kjøkkenutstyr, vaskemaskiner, elektriske ovner og rengjøringsmaskiner
+4. kontormaskiner
+5. alarm- og sikkerhetssystemer, herunder vakttjenester og drift av sikkerhetsalarmer, nødaggregater
+6. brannvernutstyr
+7. gressklippere og snøfresere
+8. trykking av varer av mindre verdi
+9. elektrisk kraft
+10. telefon, teleks, telefaks og internettabonnement
+11. rengjørings- og snøryddingstjenester
+12. radioapparater, båndopptakere, platespillere, TV-apparater, stereoanlegg, videoopptakere, antenner for radio og TV
+13. bildekk og bilfelger
+14. meglerprovisjoner ved leie av fast eiendom
+15. leie av parkeringsplasser.
 
 (2) Første ledd bokstav d, e, f og j gjelder også merverdiavgift påløpt ved leie, reparasjon og vedlikehold.
 
 ### § 10-2-3. Varer og tjenester til personlig bruk
 
-(1) Det refunderes inngående merverdiavgift ved kjøp av følgende varer og tjenester til personlig bruk for diplomatisk personell og konsulære tjenestemenn:radioapparater, båndopptakere, platespillere, TV-apparater, videoopptakere og stereoanlegg, antenner for radio og TV og PCmøbler, speil, lamper, servise, glass- og porselensvarer, gardiner, persienner, tepper, madrasser og møbelstofferorgler og pianoerelektrisk kjøkkenutstyr, vaskemaskiner, strykemaskiner og strykejern, støvsugere og symaskinerbildekk og bilfelgerelektrisk kraft, telefon og alarm- og sikkerhetssystemer for ambassadører og faste charge d'affaires' bolig.
+(1) Det refunderes inngående merverdiavgift ved kjøp av følgende varer og tjenester til personlig bruk for diplomatisk personell og konsulære tjenestemenn:
+
+1. radioapparater, båndopptakere, platespillere, TV-apparater, videoopptakere og stereoanlegg, antenner for radio og TV og PC
+2. møbler, speil, lamper, servise, glass- og porselensvarer, gardiner, persienner, tepper, madrasser og møbelstoffer
+3. orgler og pianoer
+4. elektrisk kjøkkenutstyr, vaskemaskiner, strykemaskiner og strykejern, støvsugere og symaskiner
+5. bildekk og bilfelger
+6. elektrisk kraft, telefon og alarm- og sikkerhetssystemer for ambassadører og faste charge d'affaires' bolig.
 
 (2) Det refunderes også inngående merverdiavgift på telefon for den som for en periode fungerer som øverste leder for stasjonen. Det er et vilkår for refusjon at det framlegges bekreftelse fra stasjonen om at vedkommende har hatt ambassadørens eller den faste charge d'affaires' funksjoner i den perioden det søkes om refusjon for.
 
@@ -1564,7 +1853,23 @@ Det refunderes inngående merverdiavgift på alle varer og tjenester til USAs am
 
 ### § 10-3-1. Omfanget av refusjonen
 
-(1) Det refunderes inngående merverdiavgift ved kjøp av varer og tjenester tiloffisiell bruk ved NATO-hovedkvarteret, herunder varer og tjenester til utenlandske militære styrker på øvelse i Norge når styrken underlegges NATO-hovedkvarterets kommando.offisiell bruk for NATOs internasjonale stab og dens organisasjonoffisielle anskaffelser til bruk for amerikanske styrker. Det samme gjelder varer og tjenester som skal brukes ved utførelsen av en avtale med eller på vegne av amerikanske styrker, eller som skal inngå som del i produkter eller anlegg som brukes av amerikanske styrker.offisiell bruk for European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT)offisiell bruk for European Space Agency (ESA)offisiell bruk for The U.S.-Norway Fulbright Foundation for Educational Exchangeoffisiell bruk for EISCAT-prosjektetoffisiell bruk i forbindelse med oppdrag for European Space Agency (ESA)offisiell bruk for Nordic Investment Bank (NIB)offisiell bruk for Den europeiske organisasjon for kjernefysisk forskning (CERN)konsortium for felles europeisk forskningsinfrastruktur (ERIC), opprettet i samsvar med [lov 11. desember 2015 nr. 99](lov/2015-12-11-99) om konsortium for europeisk forskningsinfrastruktur, og dets medlemmer, i henhold til nærmere vilkår fastsatt i konsortiets vedtekter eller i særskilt avtaleoffisiell bruk for Den europeiske patentorganisasjonenoffisiell bruk for Det europeiske sjøsikkerhetsbyrået (EMSA)offisiell bruk for Det europeiske byrået for den operative forvaltningen av store IT-systemer innen området for frihet, sikkerhet og rettferdighet (eu-LISA).offisiell bruk for FNs organisasjoner.
+(1) Det refunderes inngående merverdiavgift ved kjøp av varer og tjenester til
+
+1. offisiell bruk ved NATO-hovedkvarteret, herunder varer og tjenester til utenlandske militære styrker på øvelse i Norge når styrken underlegges NATO-hovedkvarterets kommando.
+2. offisiell bruk for NATOs internasjonale stab og dens organisasjon
+3. offisielle anskaffelser til bruk for amerikanske styrker. Det samme gjelder varer og tjenester som skal brukes ved utførelsen av en avtale med eller på vegne av amerikanske styrker, eller som skal inngå som del i produkter eller anlegg som brukes av amerikanske styrker.
+4. offisiell bruk for European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT)
+5. offisiell bruk for European Space Agency (ESA)
+6. offisiell bruk for The U.S.-Norway Fulbright Foundation for Educational Exchange
+7. offisiell bruk for EISCAT-prosjektet
+8. offisiell bruk i forbindelse med oppdrag for European Space Agency (ESA)
+9. offisiell bruk for Nordic Investment Bank (NIB)
+10. offisiell bruk for Den europeiske organisasjon for kjernefysisk forskning (CERN)
+11. konsortium for felles europeisk forskningsinfrastruktur (ERIC), opprettet i samsvar med [lov 11. desember 2015 nr. 99](lov/2015-12-11-99) om konsortium for europeisk forskningsinfrastruktur, og dets medlemmer, i henhold til nærmere vilkår fastsatt i konsortiets vedtekter eller i særskilt avtale
+12. offisiell bruk for Den europeiske patentorganisasjonen
+13. offisiell bruk for Det europeiske sjøsikkerhetsbyrået (EMSA)
+14. offisiell bruk for Det europeiske byrået for den operative forvaltningen av store IT-systemer innen området for frihet, sikkerhet og rettferdighet (eu-LISA).
+15. offisiell bruk for FNs organisasjoner.
 
 (2) Det refunderes inngående merverdiavgift på varer og tjenester som nevnt i [§ 10-2-1](forskrift/2009-12-15-1540/§10-2-1) og [§ 10-2-2](forskrift/2009-12-15-1540/§10-2-2) til offisiell bruk for internasjonale organisasjoner og samarbeidsprosjekter som i overenskomst er innrømmet fritak for merverdiavgift.
 
@@ -1620,7 +1925,11 @@ Det er et vilkår for refusjon av inngående merverdiavgift at lottfiskeren er r
 
 ### § 11-1-1. Objekter som omfattes av omvendt avgiftsplikt etter merverdiavgiftsloven § 11-1 tredje ledd
 
-(1) Bestemmelsen omfatter gull med en finhetsgrad på minst 325 tusendedeler uansett form, herunderbarrer, plater, klumper, støv, tråd, stengergull representert ved verdipapirer, men ikke finansielle instrumentergjenstander som omsettes etter vekt og finhetsgrad og ikke etter funksjon, utforming, kunstnerisk verdi mv.
+(1) Bestemmelsen omfatter gull med en finhetsgrad på minst 325 tusendedeler uansett form, herunder
+
+1. barrer, plater, klumper, støv, tråd, stenger
+2. gull representert ved verdipapirer, men ikke finansielle instrumenter
+3. gjenstander som omsettes etter vekt og finhetsgrad og ikke etter funksjon, utforming, kunstnerisk verdi mv.
 
 (2) Bestemmelsen omfatter ikke gullmynter som er gyldig betalingsmiddel etter [merverdiavgiftsloven § 3-6](lov/2009-06-19-58/§3-6) første ledd bokstav d eller samleobjekt etter [merverdiavgiftsloven § 3-18](lov/2009-06-19-58/§3-18).
 
@@ -1632,13 +1941,22 @@ Det er et vilkår for refusjon av inngående merverdiavgift at lottfiskeren er r
 
 ### § 11-2-1. Tilbyders ansvar for betaling av merverdiavgift
 
-En formidler som nevnt i [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1) tredje ledd er ikke ansvarlig for betaling av merverdiavgift utover den merverdiavgift som er beregnet og betalt i henhold til [merverdiavgiftsloven § 11-2](lov/2009-06-19-58/§11-2) første ledd, dersom følgende vilkår er oppfyltformidleren er avhengig av informasjon fra selgeren eller andre tredjeparter, for å kunne beregne og betale merverdiavgift av de aktuelle salgeneinformasjonen som formidleren mottar, er feilaktig.Formidleren er likevel ansvarlig dersom formidleren visste eller burde ha visst at informasjonen var feilaktig.
+En formidler som nevnt i [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1) tredje ledd er ikke ansvarlig for betaling av merverdiavgift utover den merverdiavgift som er beregnet og betalt i henhold til [merverdiavgiftsloven § 11-2](lov/2009-06-19-58/§11-2) første ledd, dersom følgende vilkår er oppfylt
+
+1. formidleren er avhengig av informasjon fra selgeren eller andre tredjeparter, for å kunne beregne og betale merverdiavgift av de aktuelle salgene
+2. informasjonen som formidleren mottar, er feilaktig.
+
+Formidleren er likevel ansvarlig dersom formidleren visste eller burde ha visst at informasjonen var feilaktig.
 
 > Tilføyd ved [forskrift 12 feb 2020 nr. 129](forskrift/2020-02-12-129) (i kraft 1 april 2020), endret ved [forskrifter 24 feb 2020 nr. 173](forskrift/2020-02-24-173) (i kraft 1 april 2020), [19 mars 2020 nr. 350](forskrift/2020-03-19-350) (i kraft 1 april 2020), [29 juni 2021 nr. 2281](forskrift/2021-06-29-2281) (i kraft 1 juli 2021), [29 juni 2021 nr. 2281](forskrift/2021-06-29-2281) (i kraft 1 okt 2021).
 
 ### § 11-2-2. Omregning av valuta
 
-(1) Ved beregning og betaling av merverdiavgift etter [merverdiavgiftsloven § 11-2](lov/2009-06-19-58/§11-2), skal beløp som er angitt i utenlandsk valuta, omregnes til norske kroner. Omregningen kan skje etter valutakursen påden dag betalingen blir akseptertden siste dag i skattleggingsperiodenden dag skattemelding for merverdiavgift leveres, men ikke senere enn fristen for levering i [skatteforvaltningsforskriften § 8-3-10](forskrift/2016-11-23-1360/§8-3-10).
+(1) Ved beregning og betaling av merverdiavgift etter [merverdiavgiftsloven § 11-2](lov/2009-06-19-58/§11-2), skal beløp som er angitt i utenlandsk valuta, omregnes til norske kroner. Omregningen kan skje etter valutakursen på
+
+1. den dag betalingen blir akseptert
+2. den siste dag i skattleggingsperioden
+3. den dag skattemelding for merverdiavgift leveres, men ikke senere enn fristen for levering i [skatteforvaltningsforskriften § 8-3-10](forskrift/2016-11-23-1360/§8-3-10).
 
 (2) Tilbyders valg av tidspunkt for omregning etter første ledd, samt valg av aktør som publiserer valutakurser etter [§ 1-3-8](forskrift/2009-12-15-1540/§1-3-8) annet ledd, må fastholdes i en periode på minst 24 måneder.
 
@@ -1650,13 +1968,19 @@ En formidler som nevnt i [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1) 
 
 ### § 11-6-1. Minimumsbeløp for utbetaling
 
-Det er et vilkår for utbetaling av inngående merverdiavgift attapet av verdier til sammen utgjør minst 10 000 kroner beregnet etter gjenanskaffelsesverdi, merverdiavgift ikke medregnet, ogoverskytende inngående merverdiavgift ved avregningen utgjør minst 2 000 kroner.
+Det er et vilkår for utbetaling av inngående merverdiavgift at
+
+1. tapet av verdier til sammen utgjør minst 10 000 kroner beregnet etter gjenanskaffelsesverdi, merverdiavgift ikke medregnet, og
+2. overskytende inngående merverdiavgift ved avregningen utgjør minst 2 000 kroner.
 
 ### § 11-6-2. Søknad om utbetaling, registrerings- og dokumentasjonsplikt mv.
 
 (1) Søknad om utbetaling av inngående merverdiavgift sendes til skattekontoret innen tre måneder etter utløpet av den kalendermåned da tapet skjedde.
 
-(2) Søknaden skal være vedlagt skattemelding som skal omfatte:særskilt avregning av utgående og inngående merverdiavgift fra 1. januar det året søknaden sendes og fram til utløpet av siste kalendermåned før søknadsdato,opplysninger om eventuell mottatt refusjon av inngående merverdiavgift i samme tidsrom for redskapshold i lottfiske.
+(2) Søknaden skal være vedlagt skattemelding som skal omfatte:
+
+1. særskilt avregning av utgående og inngående merverdiavgift fra 1. januar det året søknaden sendes og fram til utløpet av siste kalendermåned før søknadsdato,
+2. opplysninger om eventuell mottatt refusjon av inngående merverdiavgift i samme tidsrom for redskapshold i lottfiske.
 
 (3) Skattemeldingen skal bare omfatte omsetning i fiske og ikke omsetning som nevnt i [merverdiavgiftsloven § 15-1](lov/2009-06-19-58/§15-1) første ledd.
 
@@ -1788,7 +2112,13 @@ Det er et vilkår for utbetaling av inngående merverdiavgift attapet av verdier
 
 ### § 15-9-1. Vederlag fra det offentlige
 
-(1) Salgsdokument for vederlag som fastsettes og betales av offentlig myndighet blant annet etter[straffeprosessloven § 78](lov/1981-05-22-25/§78) første ledd[salærforskriften](forskrift/1997-12-03-1441) og[forskrift om stykkprissatser for advokater](forskrift/2005-12-12-1442)kan utstedes på det tidspunkt vederlaget blir fastsatt. Det samme gjelder for vederlag fastsatt med hjemmel i [konkursloven § 157](lov/1984-06-08-58/§157) og [§ 158](lov/1984-06-08-58/§158) og for vederlag til bostyrer, borevisor og medhjelper etter [arveloven § 155](lov/2019-06-14-21/§155), jf. [§ 160](lov/2019-06-14-21/§160), [§ 158](lov/2019-06-14-21/§158) og [§ 159](lov/2019-06-14-21/§159).
+(1) Salgsdokument for vederlag som fastsettes og betales av offentlig myndighet blant annet etter
+
+1. [straffeprosessloven § 78](lov/1981-05-22-25/§78) første ledd
+2. [salærforskriften](forskrift/1997-12-03-1441) og
+3. [forskrift om stykkprissatser for advokater](forskrift/2005-12-12-1442)
+
+kan utstedes på det tidspunkt vederlaget blir fastsatt. Det samme gjelder for vederlag fastsatt med hjemmel i [konkursloven § 157](lov/1984-06-08-58/§157) og [§ 158](lov/1984-06-08-58/§158) og for vederlag til bostyrer, borevisor og medhjelper etter [arveloven § 155](lov/2019-06-14-21/§155), jf. [§ 160](lov/2019-06-14-21/§160), [§ 158](lov/2019-06-14-21/§158) og [§ 159](lov/2019-06-14-21/§159).
 
 (2) Dersom det mottas delbetaling for utført arbeid, skal salgsdokument for dette utstedes når delbetalingen mottas.
 
@@ -1812,7 +2142,10 @@ Denne paragrafen oppstiller et alternativ til hovedregelen i [merverdiavgiftslov
 
 Beløp nevnt i første ledd oppgis i skattemeldingen på grunnlag av et budsjett for en periode som ikke kan overstige tolv måneder. De budsjetterte beløpene skal fordeles likt på terminene i budsjettperioden, eller i henhold til et periodisert budsjett.
 
-Dersom forutsetningene for budsjettet endrer seg, kan virksomheten justere grunnlaget for innberetning etter annet ledd. Dersom forutsetningene for budsjettet endrer seg vesentlig, skal virksomhetenjustere grunnlaget for innberetning etter annet ledd, elleroppgi beløp i skattemeldingen etter [merverdiavgiftsloven § 15-9 første ledd](lov/2009-06-19-58/§15-9/ledd/1).
+Dersom forutsetningene for budsjettet endrer seg, kan virksomheten justere grunnlaget for innberetning etter annet ledd. Dersom forutsetningene for budsjettet endrer seg vesentlig, skal virksomheten
+
+1. justere grunnlaget for innberetning etter annet ledd, eller
+2. oppgi beløp i skattemeldingen etter [merverdiavgiftsloven § 15-9 første ledd](lov/2009-06-19-58/§15-9/ledd/1).
 
 Senest seks måneder etter utløpet av budsjettperioden skal det foretas en avstemming av beløpene som er oppgitt i skattemeldingene i henhold til budsjettet, mot de faktisk avgiftspliktige beløpene i budsjettperioden. Differansen oppgis senest i skattemeldingen for den siste terminen i budsjettperioden.
 
@@ -1828,9 +2161,32 @@ Bestemmelser til utfylling av [merverdiavgiftsloven § 15-10](lov/2009-06-19-58/
 
 ### § 15-10-1. Transaksjonsoversikt for tilbyder i forenklet registreringsordning
 
-(1) Tilbyder i forenklet registreringsordning som leverer elektroniske tjenester, skal føre en oversikt over transaksjoner som omfattes av [merverdiavgiftsloven § 3-30](lov/2009-06-19-58/§3-30). Oversikten skal minst inneholde følgende opplysningerdokumentasjonshenvisningleveringsdatokundens navn og bostedsadressevalutavederlag inklusive merverdiavgift, hvor beløpet oppgis i norske kronermerverdiavgift.
+(1) Tilbyder i forenklet registreringsordning som leverer elektroniske tjenester, skal føre en oversikt over transaksjoner som omfattes av [merverdiavgiftsloven § 3-30](lov/2009-06-19-58/§3-30). Oversikten skal minst inneholde følgende opplysninger
 
-(2) Tilbyder i forenklet registreringsordning som leverer varer omfattet av [merverdiavgiftsloven § 3-1](lov/2009-06-19-58/§3-1) annet ledd, skal føre en oversikt over transaksjonene. Oversikten skal minst inneholde følgende opplysningerbeskrivelse av vareneantall varer som er levertdato for levering av varenedet merverdiavgiftspliktige beløpet med angivelse av den anvendte valutaenenhver etterfølgende forhøyelse eller nedsettelse av det merverdiavgiftspliktige beløpden anvendte merverdiavgiftssatsendet skyldige merverdiavgiftsbeløpet med angivelse av den anvendte valuta, samt metode for omregning fra utenlandsk valuta etter [§ 1-3-8](forskrift/2009-12-15-1540/§1-3-8) og [§ 11-2-2](forskrift/2009-12-15-1540/§11-2-2)dato og beløp for mottatte betalingereventuelle a konto-beløp mottatt i forkant av levering av varenefakturaopplysnignene, dersom faktura er utstedtinformasjon om stedet der transport av varen til kunden begynner og slutterinformasjon om eventuell retur av varer, inkludert merverdiavgiftspliktig beløpforsendelsesnummer eller transaksjonsnummer.Returer av varer som nevnt i bokstav l, må dokumenteres.
+1. dokumentasjonshenvisning
+2. leveringsdato
+3. kundens navn og bostedsadresse
+4. valuta
+5. vederlag inklusive merverdiavgift, hvor beløpet oppgis i norske kroner
+6. merverdiavgift.
+
+(2) Tilbyder i forenklet registreringsordning som leverer varer omfattet av [merverdiavgiftsloven § 3-1](lov/2009-06-19-58/§3-1) annet ledd, skal føre en oversikt over transaksjonene. Oversikten skal minst inneholde følgende opplysninger
+
+1. beskrivelse av varene
+2. antall varer som er levert
+3. dato for levering av varene
+4. det merverdiavgiftspliktige beløpet med angivelse av den anvendte valutaen
+5. enhver etterfølgende forhøyelse eller nedsettelse av det merverdiavgiftspliktige beløp
+6. den anvendte merverdiavgiftssatsen
+7. det skyldige merverdiavgiftsbeløpet med angivelse av den anvendte valuta, samt metode for omregning fra utenlandsk valuta etter [§ 1-3-8](forskrift/2009-12-15-1540/§1-3-8) og [§ 11-2-2](forskrift/2009-12-15-1540/§11-2-2)
+8. dato og beløp for mottatte betalinger
+9. eventuelle a konto-beløp mottatt i forkant av levering av varene
+10. fakturaopplysnignene, dersom faktura er utstedt
+11. informasjon om stedet der transport av varen til kunden begynner og slutter
+12. informasjon om eventuell retur av varer, inkludert merverdiavgiftspliktig beløp
+13. forsendelsesnummer eller transaksjonsnummer.
+
+Returer av varer som nevnt i bokstav l, må dokumenteres.
 
 > Tilføyd ved [forskrift 22 juni 2011 nr. 624](forskrift/2011-06-22-624) (i kraft 1 juli 2011), endret ved forskrifter [12 feb 2020 nr. 129](forskrift/2020-02-12-129) (i kraft 1 april 2020), [5 jan 2023 nr. 16](forskrift/2023-01-05-16).
 
@@ -1860,7 +2216,10 @@ Bestemmelser til utfylling av [merverdiavgiftsloven § 15-10](lov/2009-06-19-58/
 
 ### § 15-11-3. Registrerings-, dokumentasjonsplikt mv.
 
-Samvirkeforetak, husflidsutsalg og andre som har fått samtykke fra skattekontoret, jf. [§ 15-11-1](forskrift/2009-12-15-1540/§15-11-1) og [§ 15-11-2](forskrift/2009-12-15-1540/§15-11-2), kan pålegges å sende skattekontoretoppgave som viser årlig samlet varelevering, brutto salgsvederlag og merverdiavgiftsbeløp for hver enkelt selger, ellergjenpart av alle salgsdokumenter.
+Samvirkeforetak, husflidsutsalg og andre som har fått samtykke fra skattekontoret, jf. [§ 15-11-1](forskrift/2009-12-15-1540/§15-11-1) og [§ 15-11-2](forskrift/2009-12-15-1540/§15-11-2), kan pålegges å sende skattekontoret
+
+1. oppgave som viser årlig samlet varelevering, brutto salgsvederlag og merverdiavgiftsbeløp for hver enkelt selger, eller
+2. gjenpart av alle salgsdokumenter.
 
 > Endret ved [forskrift 5 des 2013 nr. 1415](forskrift/2013-12-05-1415) (tidligere § 15-14-3).
 
@@ -1946,4 +2305,73 @@ Korreksjoner etter at satsen ble endret som følge av heving av kjøp, tap på u
 
 ### § 22-2-1. Ikrafttredelse
 
-Denne forskriften trer i kraft 1. januar 2010. Fra samme dato oppheves[forskrift 20. august 1969 nr. 1 om regnskapsplikt og bokføring for næringsdrivende som går inn under bestemmelsene i merverdiavgiftsloven](forskrift/1969-08-20-1)[forskrift 14. oktober 1969 nr. 1 om innhold av salgsdokumenter m.v](forskrift/1969-10-14-1).[forskrift 5. november 1969 nr. 1 om gjennomføring av fritaket for merverdiavgift på elektrisk kraft og energi levert fra alternative energikilder til husholdningsbruk i fylkene Finnmark, Troms og Nordland](forskrift/1969-11-05-1)[forskrift 11. november 1969 nr. 1 om fritak for merverdiavgift m.v. ved omsetning og innførsel av fiskefartøyer under 15 meter største lengde](forskrift/1969-11-11-1)[forskrift 10. desember 1969 nr. 1](forskrift/1969-12-10-1) om registrering av offentlige institusjoner i et særskilt avgiftsmanntall[forskrift 13. desember 1969 nr. 1](forskrift/1969-12-13-1) om gjennomføringen av avgiftsfritaket for tidsskrifter[forskrift 20. desember 1969 nr. 1 om forholdsmessig fradrag for inngående avgift etter merverdiavgiftsloven](forskrift/1969-12-20-1)[forskrift 20. desember 1969 nr. 2 om gjennomføringen av avgiftsfritaket for bøker](forskrift/1969-12-20-2)[forskrift 29. desember 1969 nr. 9016 om bokføring for næringsdrivende som i siste ledd omsetter bøker og tidsskrifter fritatt for merverdiavgift](forskrift/1969-12-29-9016)[forskrift 30. desember 1969 nr. 9019 om regnskapsplikt og bokføring for næringsdrivende i fiske og fangst som går inn under bestemmelsene i merverdiavgiftsloven](forskrift/1969-12-30-9019)[forskrift 23. februar 1970 nr. 1 vedrørende omsetning av varer og tjenester til bruk i utlandet, på Svalbard eller Jan Mayen](forskrift/1970-02-23-1)[forskrift 12. mars 1970 nr. 9404 om avregning av inngående avgift for samvirkeforetak m.v](forskrift/1970-03-12-9404).[forskrift 26. mai 1970 nr. 3 om avgiftsfri transport direkte til eller fra utlandet](forskrift/1970-05-26-3)[forskrift 28. juli 1970 nr. 9926](forskrift/1970-07-28-9926) om regler om direkte transport til og fra utlandet og om legitimasjon for avgiftsfrihet etter Finansdepartementets [forskrift av 26. mai 1970 nr. 3](forskrift/1970-05-26-3)[forskrift 31. juli 1970 nr. 9825 om legitimasjonsregler for omsetning av varer og tjenester til bruk i utlandet m.v](forskrift/1970-07-31-9825).[forskrift 18. august 1970 nr. 9795 om redusert merverdiavgiftssats for transport av kjøretøy på ferge eller annet fartøy på innenlands veisamband](forskrift/1970-08-18-9795)[forskrift 5. oktober 1970 nr. 2 om levering av årsoppgave og om avgiftsfrie uttak i jordbruk med binæringer og skogbruk](forskrift/1970-10-05-2)[forskrift 10. november 1970 nr. 9793 om levering av årsoppgave i fiske](forskrift/1970-11-10-9793)[forskrift 19. november 1970 nr. 2 om frivillig registrering av skogsveiforeninger](forskrift/1970-11-19-2)[forskrift 22. januar 1971 nr. 2 om fritak for merverdiavgift vedrørende reparasjon, vedlikehold og ombygging av skip og luftfartøyer](forskrift/1971-01-22-2)[forskrift 17. februar 1971 nr. 9796](forskrift/1971-02-17-9796) om legitimasjonsregler for avgiftsfri omsetning av tjenester og varer i forbindelse med reparasjon, vedlikehold, nybygging og ombygging av skip m.v. i henhold til [merverdiavgiftsloven § 17](lov/1969-06-19-66/§17) første ledd nr. 2[forskrift 30. mars 1971 nr. 1 om tilbakebetaling av merverdiavgift ved havari m.v. i fiske](forskrift/1971-03-30-1)[forskrift 25. oktober 1971 nr. 2](forskrift/1971-10-25-2) om avgrensning av uttrykket «personkjøretøyer»[forskrift 24. november 1971 nr. 1 om avgiftsfritak for reklametjenester for utenlandsk regning](forskrift/1971-11-24-1)[forskrift 30. november 1971 nr. 4153 om regler om søknad om særskilt avgiftavregning etter havari m.v. i fiske for fiskere som nytter årsoppgave](forskrift/1971-11-30-4153)[forskrift 16. juni 1972 nr. 1 om avgiftsfritak for garantireparasjoner som utføres for utenlandsk oppdragsgiver](forskrift/1972-06-16-1)[forskrift 20. november 1972 nr. 3 om avgiftsfritak for visse tjenester som gjelder offentlig veg](forskrift/1972-11-20-3)[forskrift 5. desember 1972 nr. 3 om overgangs- og særregler for næringsdrivende som utfører vegarbeid i siste omsetningsledd](forskrift/1972-12-05-3)[forskrift 22. august 1973 nr. 3 om frivillig registrering av bortforpaktere av landbrukseiendom](forskrift/1973-08-22-3)[forskrift 19. februar 1974 nr. 3944 om omsetning av varer og tjenester til bruk til havs i forbindelse med utforsking og utnytting av undersjøiske naturforekomster](forskrift/1974-02-19-3944)[forskrift 22. februar 1974 nr. 1 om legitimasjon av avgiftsfri omsetning av varer til bruk til havs i forbindelse med utforsking og utnytting av undersjøiske naturforekomster](forskrift/1974-02-22-1)[forskrift 15. november 1974 nr. 2 om avgiftsfritak for visse tjenester som gjelder baneanlegg utelukkende for skinnegående, kollektiv persontransport](forskrift/1974-11-15-2)[forskrift 9. desember 1974 nr. 9799 om overgangs- og særregler for næringsdrivende som utfører banearbeid i siste omsetningsledd](forskrift/1974-12-09-9799)[forskrift 12. desember 1975 nr. 2](forskrift/1975-12-12-2) om beregning og oppkreving av merverdiavgift ved innførsel av varer[forskrift 10. juni 1976 nr. 1 om avgiftsplikt for bilforhandlere som registrerer kjøretøyer på egne navn i motorvognregisteret](forskrift/1976-06-10-1)[forskrift 31. mars 1977 nr. 2 om tilbakeføring av fradragsført merverdiavgift etter bruksendring](forskrift/1977-03-31-2)[forskrift 31. mars 1977 nr. 4933 om registrering av utenlandsk næringsdrivende ved representant m.v](forskrift/1977-03-31-4933).[forskrift 28. november 1977 nr. 1 om fordeling av pensjonspriser i hoteller og andre herberger mellom avgiftspliktig og avgiftsfri omsetning etter merverdiavgiftsloven](forskrift/1977-11-28-1)[forskrift 18. september 1978 nr. 1 om avgrensning av fritaket for merverdiavgift for brukte kjøretøyer etter merverdiavgiftsloven § 16 første ledd nr. 11](forskrift/1978-09-18-1)[forskrift 17. oktober 1978 nr. 3 om avregning av inngående avgift overfor hjemmeprodusenter av håndverks- og husflidsarbeider](forskrift/1978-10-17-3)[forskrift 29. desember 1980 nr. 9798](forskrift/1980-12-29-9798) om overgangs- og særregler for verksted eller fabrikk som i siste omsetningsledd framstiller bruer eller deler av bruer til offentlig veg eller baneanlegg utelukkende for skinnegående, kollektiv persontransport[forskrift 24. januar 1989 nr. 58 om beregning av merverdiavgift på personkjøretøyer som er anskaffet eller uttatt til bruk i yrkesmessig utleievirksomhet eller persontransportvirksomhet](forskrift/1989-01-24-58)[forskrift 10. mars 1989 nr. 158 om fastsettelse av den alminnelige omsetningsverdi på motorkjøretøyer ved bilforhandleres uttak – innbytte mv](forskrift/1989-03-10-158).[forskrift 19. oktober 1989 nr. 1114 om fastsettelse av den alminnelige omsetningsverdi for uttak av drikkevarer i hotell- og restaurantbransjen](forskrift/1989-10-19-1114)[forskrift 1. juli 1992 nr. 491 om avgrensing og gjennomføring av fritaket for merverdiavgift ved uttak av tjenester til fordel for veldedige og allmennyttige institusjoner og organisasjoner](forskrift/1992-07-01-491)[forskrift 1. juli 1992 nr. 492](forskrift/1992-07-01-492) om avgrensing og gjennomføring av bruken av redusert beregningsgrunnlag for merverdiavgift ved veldedige og allmennyttige institusjoner og organisasjoners salg av gjenstander til betydelig overpris[forskrift 23. desember 1992 nr. 1205 om overgangsregler ved beregning av forhøyet merverdiavgift fra 1. januar 1993 og ved overgang fra kontantprinsippet til regnskapsprinsippet](forskrift/1992-12-23-1205)[forskrift 22. desember 1994 nr. 1168 om overgangsregler ved beregning av forhøyet merverdiavgift fra 1. januar 1995](forskrift/1994-12-22-1168)[forskrift 25. juni 1996 nr. 611 om refusjon av merverdiavgift til utenlandske næringsdrivende](forskrift/1996-06-25-611)[forskrift 22. august 1997 nr. 932](forskrift/1997-08-22-932) om avgrensing av begrepet «kunstverk» ved kunstnerens omsetning og innførsel av egne kunstverk[forskrift 22. august 1997 nr. 933 om omsetning av brukte varer, kunstverk, samleobjekter og antikviteter](forskrift/1997-08-22-933)[forskrift 27. november 2000 nr. 1179 om frivillig registrering av utbygger av vann- og avløpsanlegg](forskrift/2000-11-27-1179)[forskrift 13. desember 2000 nr. 1290 om overgangsregler ved beregning av forhøyet merverdiavgift fra 1. januar 2001](forskrift/2000-12-13-1290)[forskrift 6. juni 2001 nr. 573 om frivillig registrering av utleier av bygg eller anlegg til bruk i virksomhet som er registrert etter merverdiavgiftsloven](forskrift/2001-06-06-573)[forskrift 6. juni 2001 nr. 574 om avgrensing av merverdiavgiftsunntaket for omsetning av sosiale tjenester](forskrift/2001-06-06-574)[forskrift 15. juni 2001 nr. 682 om avgrensing av merverdiavgiftsunntaket for omsetning av helsetjenester](forskrift/2001-06-15-682)[forskrift 15. juni 2001 nr. 683 om redusert merverdiavgiftssats for næringsmidler](forskrift/2001-06-15-683)[forskrift 15. juni 2001 nr. 684 om merverdiavgift ved kjøp av tjenester fra utlandet, Svalbard eller Jan Mayen](forskrift/2001-06-15-684)[forskrift 29. juni 2001 nr. 800 om levering av årsterminoppgave for registreringspliktig næringsdrivende med liten omsetning](forskrift/2001-06-29-800)[forskrift 15. januar 2002 nr. 25 om tidspunkt for innbetaling av merverdiavgift som skal tilbakeføres av næringsdrivende som driver kjøreopplæring](forskrift/2002-01-15-25)[forskrift 18. oktober 2002 nr. 1201 om elektronisk innsending av merverdiavgiftsoppgaver og leveringssted for papirbaserte oppgaver](forskrift/2002-10-18-1201)[forskrift 3. september 2003 nr. 1127 om tidfesting av merverdiavgift på vederlag fra det offentlige mv](forskrift/2003-09-03-1127).[forskrift 26. november 2004 nr. 1524 om overgangsregler ved beregning av forhøyet og redusert merverdiavgift fra 1. januar 2005](forskrift/2004-11-26-1524)[forskrift 13. desember 2005 nr. 1583](forskrift/2005-12-13-1583) om overgangsregler ved beregning av forhøyet merverdiavgift på næringsmidler, persontransporttjenester mv., kinoframvisninger og kringkastingsavgift fra 1. januar 2006[forskrift 29. november 2006 nr. 1321 om overgangsregler ved beregning av forhøyet merverdiavgift på næringsmidler fra 1. januar 2007](forskrift/2006-11-29-1321)[forskrift 19. desember 2007 nr. 1589 om justering av inngående merverdiavgift for kapitalvarer](forskrift/2007-12-19-1589)[forskrift 18. desember 2007 nr. 1471 om overgangsregler ved behandling av klage- og endringssaker etter merverdiavgiftsloven i forbindelse med reorganiseringen av skatteetaten](forskrift/2007-12-18-1471)[forskrift 26. juni 2008 nr. 648 om beregning av merverdiavgift ved sletting av klimakvoter](forskrift/2008-06-26-648).
+Denne forskriften trer i kraft 1. januar 2010. Fra samme dato oppheves
+
+- [forskrift 20. august 1969 nr. 1 om regnskapsplikt og bokføring for næringsdrivende som går inn under bestemmelsene i merverdiavgiftsloven](forskrift/1969-08-20-1)
+- [forskrift 14. oktober 1969 nr. 1 om innhold av salgsdokumenter m.v](forskrift/1969-10-14-1).
+- [forskrift 5. november 1969 nr. 1 om gjennomføring av fritaket for merverdiavgift på elektrisk kraft og energi levert fra alternative energikilder til husholdningsbruk i fylkene Finnmark, Troms og Nordland](forskrift/1969-11-05-1)
+- [forskrift 11. november 1969 nr. 1 om fritak for merverdiavgift m.v. ved omsetning og innførsel av fiskefartøyer under 15 meter største lengde](forskrift/1969-11-11-1)
+- [forskrift 10. desember 1969 nr. 1](forskrift/1969-12-10-1) om registrering av offentlige institusjoner i et særskilt avgiftsmanntall
+- [forskrift 13. desember 1969 nr. 1](forskrift/1969-12-13-1) om gjennomføringen av avgiftsfritaket for tidsskrifter
+- [forskrift 20. desember 1969 nr. 1 om forholdsmessig fradrag for inngående avgift etter merverdiavgiftsloven](forskrift/1969-12-20-1)
+- [forskrift 20. desember 1969 nr. 2 om gjennomføringen av avgiftsfritaket for bøker](forskrift/1969-12-20-2)
+- [forskrift 29. desember 1969 nr. 9016 om bokføring for næringsdrivende som i siste ledd omsetter bøker og tidsskrifter fritatt for merverdiavgift](forskrift/1969-12-29-9016)
+- [forskrift 30. desember 1969 nr. 9019 om regnskapsplikt og bokføring for næringsdrivende i fiske og fangst som går inn under bestemmelsene i merverdiavgiftsloven](forskrift/1969-12-30-9019)
+- [forskrift 23. februar 1970 nr. 1 vedrørende omsetning av varer og tjenester til bruk i utlandet, på Svalbard eller Jan Mayen](forskrift/1970-02-23-1)
+- [forskrift 12. mars 1970 nr. 9404 om avregning av inngående avgift for samvirkeforetak m.v](forskrift/1970-03-12-9404).
+- [forskrift 26. mai 1970 nr. 3 om avgiftsfri transport direkte til eller fra utlandet](forskrift/1970-05-26-3)
+- [forskrift 28. juli 1970 nr. 9926](forskrift/1970-07-28-9926) om regler om direkte transport til og fra utlandet og om legitimasjon for avgiftsfrihet etter Finansdepartementets [forskrift av 26. mai 1970 nr. 3](forskrift/1970-05-26-3)
+- [forskrift 31. juli 1970 nr. 9825 om legitimasjonsregler for omsetning av varer og tjenester til bruk i utlandet m.v](forskrift/1970-07-31-9825).
+- [forskrift 18. august 1970 nr. 9795 om redusert merverdiavgiftssats for transport av kjøretøy på ferge eller annet fartøy på innenlands veisamband](forskrift/1970-08-18-9795)
+- [forskrift 5. oktober 1970 nr. 2 om levering av årsoppgave og om avgiftsfrie uttak i jordbruk med binæringer og skogbruk](forskrift/1970-10-05-2)
+- [forskrift 10. november 1970 nr. 9793 om levering av årsoppgave i fiske](forskrift/1970-11-10-9793)
+- [forskrift 19. november 1970 nr. 2 om frivillig registrering av skogsveiforeninger](forskrift/1970-11-19-2)
+- [forskrift 22. januar 1971 nr. 2 om fritak for merverdiavgift vedrørende reparasjon, vedlikehold og ombygging av skip og luftfartøyer](forskrift/1971-01-22-2)
+- [forskrift 17. februar 1971 nr. 9796](forskrift/1971-02-17-9796) om legitimasjonsregler for avgiftsfri omsetning av tjenester og varer i forbindelse med reparasjon, vedlikehold, nybygging og ombygging av skip m.v. i henhold til [merverdiavgiftsloven § 17](lov/1969-06-19-66/§17) første ledd nr. 2
+- [forskrift 30. mars 1971 nr. 1 om tilbakebetaling av merverdiavgift ved havari m.v. i fiske](forskrift/1971-03-30-1)
+- [forskrift 25. oktober 1971 nr. 2](forskrift/1971-10-25-2) om avgrensning av uttrykket «personkjøretøyer»
+- [forskrift 24. november 1971 nr. 1 om avgiftsfritak for reklametjenester for utenlandsk regning](forskrift/1971-11-24-1)
+- [forskrift 30. november 1971 nr. 4153 om regler om søknad om særskilt avgiftavregning etter havari m.v. i fiske for fiskere som nytter årsoppgave](forskrift/1971-11-30-4153)
+- [forskrift 16. juni 1972 nr. 1 om avgiftsfritak for garantireparasjoner som utføres for utenlandsk oppdragsgiver](forskrift/1972-06-16-1)
+- [forskrift 20. november 1972 nr. 3 om avgiftsfritak for visse tjenester som gjelder offentlig veg](forskrift/1972-11-20-3)
+- [forskrift 5. desember 1972 nr. 3 om overgangs- og særregler for næringsdrivende som utfører vegarbeid i siste omsetningsledd](forskrift/1972-12-05-3)
+- [forskrift 22. august 1973 nr. 3 om frivillig registrering av bortforpaktere av landbrukseiendom](forskrift/1973-08-22-3)
+- [forskrift 19. februar 1974 nr. 3944 om omsetning av varer og tjenester til bruk til havs i forbindelse med utforsking og utnytting av undersjøiske naturforekomster](forskrift/1974-02-19-3944)
+- [forskrift 22. februar 1974 nr. 1 om legitimasjon av avgiftsfri omsetning av varer til bruk til havs i forbindelse med utforsking og utnytting av undersjøiske naturforekomster](forskrift/1974-02-22-1)
+- [forskrift 15. november 1974 nr. 2 om avgiftsfritak for visse tjenester som gjelder baneanlegg utelukkende for skinnegående, kollektiv persontransport](forskrift/1974-11-15-2)
+- [forskrift 9. desember 1974 nr. 9799 om overgangs- og særregler for næringsdrivende som utfører banearbeid i siste omsetningsledd](forskrift/1974-12-09-9799)
+- [forskrift 12. desember 1975 nr. 2](forskrift/1975-12-12-2) om beregning og oppkreving av merverdiavgift ved innførsel av varer
+- [forskrift 10. juni 1976 nr. 1 om avgiftsplikt for bilforhandlere som registrerer kjøretøyer på egne navn i motorvognregisteret](forskrift/1976-06-10-1)
+- [forskrift 31. mars 1977 nr. 2 om tilbakeføring av fradragsført merverdiavgift etter bruksendring](forskrift/1977-03-31-2)
+- [forskrift 31. mars 1977 nr. 4933 om registrering av utenlandsk næringsdrivende ved representant m.v](forskrift/1977-03-31-4933).
+- [forskrift 28. november 1977 nr. 1 om fordeling av pensjonspriser i hoteller og andre herberger mellom avgiftspliktig og avgiftsfri omsetning etter merverdiavgiftsloven](forskrift/1977-11-28-1)
+- [forskrift 18. september 1978 nr. 1 om avgrensning av fritaket for merverdiavgift for brukte kjøretøyer etter merverdiavgiftsloven § 16 første ledd nr. 11](forskrift/1978-09-18-1)
+- [forskrift 17. oktober 1978 nr. 3 om avregning av inngående avgift overfor hjemmeprodusenter av håndverks- og husflidsarbeider](forskrift/1978-10-17-3)
+- [forskrift 29. desember 1980 nr. 9798](forskrift/1980-12-29-9798) om overgangs- og særregler for verksted eller fabrikk som i siste omsetningsledd framstiller bruer eller deler av bruer til offentlig veg eller baneanlegg utelukkende for skinnegående, kollektiv persontransport
+- [forskrift 24. januar 1989 nr. 58 om beregning av merverdiavgift på personkjøretøyer som er anskaffet eller uttatt til bruk i yrkesmessig utleievirksomhet eller persontransportvirksomhet](forskrift/1989-01-24-58)
+- [forskrift 10. mars 1989 nr. 158 om fastsettelse av den alminnelige omsetningsverdi på motorkjøretøyer ved bilforhandleres uttak – innbytte mv](forskrift/1989-03-10-158).
+- [forskrift 19. oktober 1989 nr. 1114 om fastsettelse av den alminnelige omsetningsverdi for uttak av drikkevarer i hotell- og restaurantbransjen](forskrift/1989-10-19-1114)
+- [forskrift 1. juli 1992 nr. 491 om avgrensing og gjennomføring av fritaket for merverdiavgift ved uttak av tjenester til fordel for veldedige og allmennyttige institusjoner og organisasjoner](forskrift/1992-07-01-491)
+- [forskrift 1. juli 1992 nr. 492](forskrift/1992-07-01-492) om avgrensing og gjennomføring av bruken av redusert beregningsgrunnlag for merverdiavgift ved veldedige og allmennyttige institusjoner og organisasjoners salg av gjenstander til betydelig overpris
+- [forskrift 23. desember 1992 nr. 1205 om overgangsregler ved beregning av forhøyet merverdiavgift fra 1. januar 1993 og ved overgang fra kontantprinsippet til regnskapsprinsippet](forskrift/1992-12-23-1205)
+- [forskrift 22. desember 1994 nr. 1168 om overgangsregler ved beregning av forhøyet merverdiavgift fra 1. januar 1995](forskrift/1994-12-22-1168)
+- [forskrift 25. juni 1996 nr. 611 om refusjon av merverdiavgift til utenlandske næringsdrivende](forskrift/1996-06-25-611)
+- [forskrift 22. august 1997 nr. 932](forskrift/1997-08-22-932) om avgrensing av begrepet «kunstverk» ved kunstnerens omsetning og innførsel av egne kunstverk
+- [forskrift 22. august 1997 nr. 933 om omsetning av brukte varer, kunstverk, samleobjekter og antikviteter](forskrift/1997-08-22-933)
+- [forskrift 27. november 2000 nr. 1179 om frivillig registrering av utbygger av vann- og avløpsanlegg](forskrift/2000-11-27-1179)
+- [forskrift 13. desember 2000 nr. 1290 om overgangsregler ved beregning av forhøyet merverdiavgift fra 1. januar 2001](forskrift/2000-12-13-1290)
+- [forskrift 6. juni 2001 nr. 573 om frivillig registrering av utleier av bygg eller anlegg til bruk i virksomhet som er registrert etter merverdiavgiftsloven](forskrift/2001-06-06-573)
+- [forskrift 6. juni 2001 nr. 574 om avgrensing av merverdiavgiftsunntaket for omsetning av sosiale tjenester](forskrift/2001-06-06-574)
+- [forskrift 15. juni 2001 nr. 682 om avgrensing av merverdiavgiftsunntaket for omsetning av helsetjenester](forskrift/2001-06-15-682)
+- [forskrift 15. juni 2001 nr. 683 om redusert merverdiavgiftssats for næringsmidler](forskrift/2001-06-15-683)
+- [forskrift 15. juni 2001 nr. 684 om merverdiavgift ved kjøp av tjenester fra utlandet, Svalbard eller Jan Mayen](forskrift/2001-06-15-684)
+- [forskrift 29. juni 2001 nr. 800 om levering av årsterminoppgave for registreringspliktig næringsdrivende med liten omsetning](forskrift/2001-06-29-800)
+- [forskrift 15. januar 2002 nr. 25 om tidspunkt for innbetaling av merverdiavgift som skal tilbakeføres av næringsdrivende som driver kjøreopplæring](forskrift/2002-01-15-25)
+- [forskrift 18. oktober 2002 nr. 1201 om elektronisk innsending av merverdiavgiftsoppgaver og leveringssted for papirbaserte oppgaver](forskrift/2002-10-18-1201)
+- [forskrift 3. september 2003 nr. 1127 om tidfesting av merverdiavgift på vederlag fra det offentlige mv](forskrift/2003-09-03-1127).
+- [forskrift 26. november 2004 nr. 1524 om overgangsregler ved beregning av forhøyet og redusert merverdiavgift fra 1. januar 2005](forskrift/2004-11-26-1524)
+- [forskrift 13. desember 2005 nr. 1583](forskrift/2005-12-13-1583) om overgangsregler ved beregning av forhøyet merverdiavgift på næringsmidler, persontransporttjenester mv., kinoframvisninger og kringkastingsavgift fra 1. januar 2006
+- [forskrift 29. november 2006 nr. 1321 om overgangsregler ved beregning av forhøyet merverdiavgift på næringsmidler fra 1. januar 2007](forskrift/2006-11-29-1321)
+- [forskrift 19. desember 2007 nr. 1589 om justering av inngående merverdiavgift for kapitalvarer](forskrift/2007-12-19-1589)
+- [forskrift 18. desember 2007 nr. 1471 om overgangsregler ved behandling av klage- og endringssaker etter merverdiavgiftsloven i forbindelse med reorganiseringen av skatteetaten](forskrift/2007-12-18-1471)
+- [forskrift 26. juni 2008 nr. 648 om beregning av merverdiavgift ved sletting av klimakvoter](forskrift/2008-06-26-648).

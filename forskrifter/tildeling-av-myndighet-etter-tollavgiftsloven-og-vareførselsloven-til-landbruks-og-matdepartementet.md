@@ -22,5 +22,13 @@ eu_basis: []
 
 # Tildeling av myndighet etter tollavgiftsloven og vareførselsloven til Landbruks- og matdepartementet
 
-1. Landbruks- og matdepartementet tildeles myndighet etter følgende bestemmelser i [lov 11. mars 2022 nr. 8 om tollavgift (tollavgiftsloven)](lov/2022-03-11-8):[§ 3-1](lov/2022-03-11-8/§3-1) tredje ledd annet punktum, for så vidt gjelder en sikkerhetsmekanisme for tilfeller der preferansesystemet utløser vesentlige markedsforstyrrelser for landbrukssektoren[§ 3-4](lov/2022-03-11-8/§3-4) tredje ledd[§ 5-1](lov/2022-03-11-8/§5-1) til [§ 5-4](lov/2022-03-11-8/§5-4).
-2. Landbruks- og matdepartementet tildeles myndighet etter følgende bestemmelser i [lov 11. mars 2022 nr. 9 om inn- og utførsel av varer (vareførselsloven)](lov/2022-03-11-9):[§ 4-8](lov/2022-03-11-9/§4-8) tredje ledd annet punktum[§ 13-10](lov/2022-03-11-9/§13-10)[§ 13-11](lov/2022-03-11-9/§13-11).
+1. Landbruks- og matdepartementet tildeles myndighet etter følgende bestemmelser i [lov 11. mars 2022 nr. 8 om tollavgift (tollavgiftsloven)](lov/2022-03-11-8):
+
+   - [§ 3-1](lov/2022-03-11-8/§3-1) tredje ledd annet punktum, for så vidt gjelder en sikkerhetsmekanisme for tilfeller der preferansesystemet utløser vesentlige markedsforstyrrelser for landbrukssektoren
+   - [§ 3-4](lov/2022-03-11-8/§3-4) tredje ledd
+   - [§ 5-1](lov/2022-03-11-8/§5-1) til [§ 5-4](lov/2022-03-11-8/§5-4).
+2. Landbruks- og matdepartementet tildeles myndighet etter følgende bestemmelser i [lov 11. mars 2022 nr. 9 om inn- og utførsel av varer (vareførselsloven)](lov/2022-03-11-9):
+
+   - [§ 4-8](lov/2022-03-11-9/§4-8) tredje ledd annet punktum
+   - [§ 13-10](lov/2022-03-11-9/§13-10)
+   - [§ 13-11](lov/2022-03-11-9/§13-11).

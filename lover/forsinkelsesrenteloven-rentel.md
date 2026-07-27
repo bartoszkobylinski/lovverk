@@ -15,7 +15,7 @@ xml_hash: "1cacc38401f532239c272ad584027c23c67e2b2490e1129579117545d6818b5b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32011L0007"
@@ -47,11 +47,20 @@ Skal det ved avtale som nevnt i første ledd foretas en kontrollprosedyre for å
 
 Denne paragrafen gjelder avtaler mellom virksomheter og offentlige myndigheter om kjøp av varer eller tjenester.
 
-Er skyldneren en offentlig myndighet, skal betalingsfristen ikke overstige30 dager etter at skyldneren mottok faktura eller en tilsvarende betalingsoppfordring,30 dager etter mottak av varene eller tjenestene, dersom det er uklart når faktura eller en tilsvarende betalingsoppfordring er mottatt,30 dager etter mottak av varene eller tjenestene, dersom skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere enn varene eller tjenestene,30 dager etter datoen for godkjennelse og kontroll, dersom det skal foretas en lovbestemt eller avtalebestemt kontrollprosedyre for å sikre at varene eller tjenestene er avtalemessige, og skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere eller samme dag som kontrollprosedyren sluttføres.
+Er skyldneren en offentlig myndighet, skal betalingsfristen ikke overstige
+
+1. 30 dager etter at skyldneren mottok faktura eller en tilsvarende betalingsoppfordring,
+2. 30 dager etter mottak av varene eller tjenestene, dersom det er uklart når faktura eller en tilsvarende betalingsoppfordring er mottatt,
+3. 30 dager etter mottak av varene eller tjenestene, dersom skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere enn varene eller tjenestene,
+4. 30 dager etter datoen for godkjennelse og kontroll, dersom det skal foretas en lovbestemt eller avtalebestemt kontrollprosedyre for å sikre at varene eller tjenestene er avtalemessige, og skyldneren mottar faktura eller en tilsvarende betalingsoppfordring tidligere eller samme dag som kontrollprosedyren sluttføres.
 
 Det kan settes en lengre betalingsfrist enn det som følger av andre ledd, bare dersom dette uttrykkelig er avtalt og en slik frist er saklig begrunnet ut fra de konkrete omstendighetene i avtaleforholdet. En slik lengre frist kan aldri overstige 60 dager. Kongen kan i forskrift fastsette at betalingsfristen i andre ledd bokstav a til d kan utvides til 60 dager for visse offentlige myndigheter.
 
-Er skyldneren en offentlig myndighet, gjelder i tillegg til lovens øvrige bestemmelser følgende regler:Det kan ikke avtales mellom skyldneren og fordringshaveren når en faktura skal anses mottatt av skyldneren.En kontrollprosedyre som nevnt i andre ledd bokstav d skal ikke overstige 30 dager fra mottak av varene eller tjenestene. Dette gjelder likevel ikke dersom noe annet er uttrykkelig bestemt i avtalen eller i anbudsdokumentene.Det kan ikke avtales at forsinkelsesrenten som skal svares av offentlige myndigheter etter bestemmelsen her, skal være lavere enn den lovbestemte forsinkelsesrenten etter [§ 3](lov/1976-12-17-100/§3).
+Er skyldneren en offentlig myndighet, gjelder i tillegg til lovens øvrige bestemmelser følgende regler:
+
+1. Det kan ikke avtales mellom skyldneren og fordringshaveren når en faktura skal anses mottatt av skyldneren.
+2. En kontrollprosedyre som nevnt i andre ledd bokstav d skal ikke overstige 30 dager fra mottak av varene eller tjenestene. Dette gjelder likevel ikke dersom noe annet er uttrykkelig bestemt i avtalen eller i anbudsdokumentene.
+3. Det kan ikke avtales at forsinkelsesrenten som skal svares av offentlige myndigheter etter bestemmelsen her, skal være lavere enn den lovbestemte forsinkelsesrenten etter [§ 3](lov/1976-12-17-100/§3).
 
 > Tilføyd ved [lov 15 feb 2013 nr. 8](lov/2013-02-15-8) (ikr. 16 mars 2013 iflg. [res. 15 feb 2013 nr. 173](forskrift/2013-02-15-173)).
 
@@ -83,7 +92,12 @@ Departementet kan i forskrift gi regler om forholdet til inkassoloven, herunder 
 
 ## § 4. Særlige regler i forbrukerforhold
 
-Er skyldneren skyldner i egenskap av forbruker, gjelder i tillegg til [§§ 2](lov/1976-12-17-100/§2) og [3](lov/1976-12-17-100/§3) følgende regler:Forsinkelsesrenten kan lempes dersom skyldneren har hatt rimelig grunn for sin betalingsvegring.Fordringshaveren kan i tillegg til forsinkelsesrenten ikke kreve andre gebyrer eller gjennomsnittsberegnede tapsposter enn de erstatningsbeløp som kan kreves i medhold av [inkassoloven §§ 17](lov/1988-05-13-26/§17) til [20](lov/1988-05-13-26/§20).Reglene i paragrafen her og i [§§ 2](lov/1976-12-17-100/§2) og [3](lov/1976-12-17-100/§3) kan ikke fravikes ved avtale til skade for skyldneren.Bestemmelsene i [§§ 2 a](lov/1976-12-17-100/§2a), [2 b](lov/1976-12-17-100/§2b), [3 a](lov/1976-12-17-100/§3a) og [4 a](lov/1976-12-17-100/§4a) gjelder ikke når skylderen er en forbruker.
+Er skyldneren skyldner i egenskap av forbruker, gjelder i tillegg til [§§ 2](lov/1976-12-17-100/§2) og [3](lov/1976-12-17-100/§3) følgende regler:
+
+1. Forsinkelsesrenten kan lempes dersom skyldneren har hatt rimelig grunn for sin betalingsvegring.
+2. Fordringshaveren kan i tillegg til forsinkelsesrenten ikke kreve andre gebyrer eller gjennomsnittsberegnede tapsposter enn de erstatningsbeløp som kan kreves i medhold av [inkassoloven §§ 17](lov/1988-05-13-26/§17) til [20](lov/1988-05-13-26/§20).
+3. Reglene i paragrafen her og i [§§ 2](lov/1976-12-17-100/§2) og [3](lov/1976-12-17-100/§3) kan ikke fravikes ved avtale til skade for skyldneren.
+4. Bestemmelsene i [§§ 2 a](lov/1976-12-17-100/§2a), [2 b](lov/1976-12-17-100/§2b), [3 a](lov/1976-12-17-100/§3a) og [4 a](lov/1976-12-17-100/§4a) gjelder ikke når skylderen er en forbruker.
 
 > Endret ved [lover 12 juni 1981 nr. 67](lov/1981-06-12-67), [13 mai 1988 nr. 26](lov/1988-05-13-26), [11 juni 1993 nr. 83](lov/1993-06-11-83) (ikr. 1 jan 1994), [15 feb 2013 nr. 8](lov/2013-02-15-8) (ikr. 16 mars 2013 iflg. [res. 15 feb 2013 nr. 173](forskrift/2013-02-15-173)). **Endres** ved lov [22 mai 2026 nr. 19](lov/2026-05-22-19) (i kraft fra den tid Kongen bestemmer).
 

@@ -32,7 +32,11 @@ Forskriften omfatter alle eksamener, prøver, bedømmelser, arbeidskrav, vurderi
 
 Eksamen regnes som del av utdanningsopplegget, spesifikk oppmelding er ikke nødvendig.
 
-Følgende vurderingsformer kan benyttes individuelt eller i gruppe:Skriftlig eksamen med tilsynMuntlig eksamenSkriftlig eksamen uten tilsyn, for eksempel fagartikkel, hjemmeeksamen, prosjekt- eller semesteroppgave, eller mappeoppgave.
+Følgende vurderingsformer kan benyttes individuelt eller i gruppe:
+
+1. Skriftlig eksamen med tilsyn
+2. Muntlig eksamen
+3. Skriftlig eksamen uten tilsyn, for eksempel fagartikkel, hjemmeeksamen, prosjekt- eller semesteroppgave, eller mappeoppgave.
 
 Som eksamen regnes også bedømmelse av framføringer eller praktiske oppgaver når resultatet inngår på vitnemålet.
 

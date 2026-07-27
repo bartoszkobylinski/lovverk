@@ -34,7 +34,15 @@ Vedtak om tilskudd fra ordningen fattes av Kulturdirektoratet.
 
 ## § 3. Hvem og hva som kan tildeles tilskudd
 
-Kulturdirektoratet kan tildele tilskudd til frivillige organisasjoner, privatpersoner, kommuner, institusjoner og foretak tiletablering og drift av språk- og kultursentre og kvensk avisdrift av Norske kveners forbundprosjekter som har som mål å revitalisere kvensk språkprosjekter som har som mål å fremme kvensk og norskfinsk kulturtiltak for å styrke kvensk språk og kvensk og norskfinsk identitet hos kvenske og norskfinske barn og ungedokumentasjon og formidling av kunnskap om kvenene og norskfinnenes situasjonprosjekter om kvensk språk og kultur over landegrensene.
+Kulturdirektoratet kan tildele tilskudd til frivillige organisasjoner, privatpersoner, kommuner, institusjoner og foretak til
+
+1. etablering og drift av språk- og kultursentre og kvensk avis
+2. drift av Norske kveners forbund
+3. prosjekter som har som mål å revitalisere kvensk språk
+4. prosjekter som har som mål å fremme kvensk og norskfinsk kultur
+5. tiltak for å styrke kvensk språk og kvensk og norskfinsk identitet hos kvenske og norskfinske barn og unge
+6. dokumentasjon og formidling av kunnskap om kvenene og norskfinnenes situasjon
+7. prosjekter om kvensk språk og kultur over landegrensene.
 
 Tiltak som mottar tilskudd må ha som formål å styrke kvensk språk og kvensk og norskfinsk kultur i Norge.
 
@@ -70,13 +78,24 @@ Mottakere av driftsstøtte skal innen fastsatt frist i tilskuddsvedtaket sende K
 
 ## § 6. Krav til en søknad om tilskudd
 
-En søknad skal leveres på søknadsskjema fra Kulturdirektoratets nettsider innen fristen som er oppgitt, ogangi søkerens navn, adresse, e-postadresse, telefonnummer, kontonummer og organisasjonsnummer eller personnummerangi søkerens særlige kvalifikasjoner for å gjennomføre tiltaketangi hva søkeren vil oppnå med tilskuddet og hvordan tilskuddet vil bidra til å sikre målet med tilskuddsordningeninneholde en framdriftsplan for prosjektet, og en beskrivelse av aktivitetene som skal gjennomføres eller planlegges gjennomført i tilskuddsperiodeninneholde et budsjett med presisering av eventuelle administrative kostnader ved gjennomføringen av prosjektet – også opplysninger om egeninnsats og om det er søkt eller mottatt støtte fra andre kilderopplyse om det er planer om å videreføre tiltaket etter tilskuddsperiodenvise til innlevert rapport og regnskap for forrige års tilskudd fra Kulturdirektoratet, som skal være levert innen fastsatt frist.
+En søknad skal leveres på søknadsskjema fra Kulturdirektoratets nettsider innen fristen som er oppgitt, og
+
+1. angi søkerens navn, adresse, e-postadresse, telefonnummer, kontonummer og organisasjonsnummer eller personnummer
+2. angi søkerens særlige kvalifikasjoner for å gjennomføre tiltaket
+3. angi hva søkeren vil oppnå med tilskuddet og hvordan tilskuddet vil bidra til å sikre målet med tilskuddsordningen
+4. inneholde en framdriftsplan for prosjektet, og en beskrivelse av aktivitetene som skal gjennomføres eller planlegges gjennomført i tilskuddsperioden
+5. inneholde et budsjett med presisering av eventuelle administrative kostnader ved gjennomføringen av prosjektet – også opplysninger om egeninnsats og om det er søkt eller mottatt støtte fra andre kilder
+6. opplyse om det er planer om å videreføre tiltaket etter tilskuddsperioden
+7. vise til innlevert rapport og regnskap for forrige års tilskudd fra Kulturdirektoratet, som skal være levert innen fastsatt frist.
 
 > Endret ved forskrift [21 nov 2022 nr. 2064](forskrift/2022-11-21-2064) (i kraft 1 jan 2023).
 
 ## § 7. Rett til å innhente ytterligere opplysninger før en søknad blir avgjort
 
-Kulturdirektoratet kan i tillegg til opplysningene i søknadenkreve at søkeren gir andre opplysninger som er nødvendige for å avgjøre søknadeninnhente nødvendige opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene.
+Kulturdirektoratet kan i tillegg til opplysningene i søknaden
+
+1. kreve at søkeren gir andre opplysninger som er nødvendige for å avgjøre søknaden
+2. innhente nødvendige opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene.
 
 > Endret ved forskrift [21 nov 2022 nr. 2064](forskrift/2022-11-21-2064) (i kraft 1 jan 2023).
 
@@ -88,13 +107,24 @@ Kulturdirektoratet avgjør søknaden etter en skjønnsmessig vurdering av søkna
 
 ## § 9. Adgangen til å kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt
 
-Kulturdirektoratet kan kontrollere at betingelsene for tilskuddet og vilkårene for tildelingen er oppfylt gjennom åbe om de opplysningene og den dokumentasjonen som er nødvendig for kontrolleninnhente nødvendige opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenebe tilskuddsmottakeren legge frem nødvendige opplysninger og på andre måter bidra til å legge til rette for kontrollarbeidet, som ved å medvirke til besiktigelse dersom det er nødvendig for kontrollen.
+Kulturdirektoratet kan kontrollere at betingelsene for tilskuddet og vilkårene for tildelingen er oppfylt gjennom å
+
+1. be om de opplysningene og den dokumentasjonen som er nødvendig for kontrollen
+2. innhente nødvendige opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. be tilskuddsmottakeren legge frem nødvendige opplysninger og på andre måter bidra til å legge til rette for kontrollarbeidet, som ved å medvirke til besiktigelse dersom det er nødvendig for kontrollen.
 
 > Endret ved forskrift [21 nov 2022 nr. 2064](forskrift/2022-11-21-2064) (i kraft 1 jan 2023).
 
 ## § 10. Stans og tilbakebetaling
 
-Kulturdirektoratet kan stanse utbetaling eller kreve at mottaker helt eller delvis tilbakebetaler tilskudd dersomtilskuddet ikke er brukt i tråd med forskriften og vilkår i tilskuddsbrevettildelingen av tilskudd bygger på uriktige opplysninger fra søkertilskuddsmottakeren ikke har levert rapport og regnskap innen fristen i tilskuddsvedtaketrapport og regnskap ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsvedtaket er oppfylttilskuddsmottakeren ikke har levert rapport og regnskap for forrige tildeling innen fristen som følger av tildelingenikke hele tilskuddsbeløpet er benyttet.
+Kulturdirektoratet kan stanse utbetaling eller kreve at mottaker helt eller delvis tilbakebetaler tilskudd dersom
+
+1. tilskuddet ikke er brukt i tråd med forskriften og vilkår i tilskuddsbrevet
+2. tildelingen av tilskudd bygger på uriktige opplysninger fra søker
+3. tilskuddsmottakeren ikke har levert rapport og regnskap innen fristen i tilskuddsvedtaket
+4. rapport og regnskap ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsvedtaket er oppfylt
+5. tilskuddsmottakeren ikke har levert rapport og regnskap for forrige tildeling innen fristen som følger av tildelingen
+6. ikke hele tilskuddsbeløpet er benyttet.
 
 Har en tilskuddsmottaker fått utbetalt for mye tilskudd eller ikke brukt et tilskudd i samsvar med kravene i forskriften og tilskuddsvedtaket, kan det som er for mye utbetalt eller som skal tilbakebetales, trekkes fra i et tilskudd som måtte tildeles senere.
 

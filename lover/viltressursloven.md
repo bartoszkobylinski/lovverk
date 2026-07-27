@@ -36,7 +36,13 @@ Loven gjelder ikke på Svalbard og Jan Mayen.
 
 ### § 3. Definisjoner
 
-I loven forstås med:vilt: naturlig viltlevende landpattedyr, fugler, krypdyr og amfibier, inkludert krysninger med andre arter, uavhengig av om viltet lever eller kan leve vilt i Norgejakt: høsting av vilt ved bruk av skytevåpen som avliver viltet, og den forutgående lokaliseringen av viltet og ettersøk og avliving av såret viltfangst: høsting av vilt ved bruk av felle som avliver viltet eller fanger viltet for avliving, og avliving av fanget viltlisensfelling: felling av et bestemt antall individer av en viltart med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18), der kvoten er fastsatt av en offentlig myndighet og det kreves at jegeren er registrert som lisensjeger i Jegerregisteret for å deltaskadefelling: felling av ett eller flere bestemte individer av en viltart med hjemmel i [naturmangfoldloven § 18 første ledd bokstav a](lov/2009-06-19-100/§18/ledd/1/bokstav/a), [b](lov/2009-06-19-100/§18/ledd/1/bokstav/b), [c](lov/2009-06-19-100/§18/ledd/1/bokstav/c) eller [g](lov/2009-06-19-100/§18/ledd/1/bokstav/g) og [fjerde ledd](lov/2009-06-19-100/§18/ledd/4).
+I loven forstås med:
+
+1. vilt: naturlig viltlevende landpattedyr, fugler, krypdyr og amfibier, inkludert krysninger med andre arter, uavhengig av om viltet lever eller kan leve vilt i Norge
+2. jakt: høsting av vilt ved bruk av skytevåpen som avliver viltet, og den forutgående lokaliseringen av viltet og ettersøk og avliving av såret vilt
+3. fangst: høsting av vilt ved bruk av felle som avliver viltet eller fanger viltet for avliving, og avliving av fanget vilt
+4. lisensfelling: felling av et bestemt antall individer av en viltart med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18), der kvoten er fastsatt av en offentlig myndighet og det kreves at jegeren er registrert som lisensjeger i Jegerregisteret for å delta
+5. skadefelling: felling av ett eller flere bestemte individer av en viltart med hjemmel i [naturmangfoldloven § 18 første ledd bokstav a](lov/2009-06-19-100/§18/ledd/1/bokstav/a), [b](lov/2009-06-19-100/§18/ledd/1/bokstav/b), [c](lov/2009-06-19-100/§18/ledd/1/bokstav/c) eller [g](lov/2009-06-19-100/§18/ledd/1/bokstav/g) og [fjerde ledd](lov/2009-06-19-100/§18/ledd/4).
 
 ### § 4. Samiske interesser
 
@@ -142,7 +148,11 @@ Kravene i [§§ 14](lov/2025-06-20-102/§14) til [17](lov/2025-06-20-102/§17) t
 
 ### § 19. Rapportering og innlevering for statistiske eller vitenskapelige formål
 
-Kongen kan gi forskrift omkrav til rapportering av opplysninger til statistiske eller vitenskapelige formål i forbindelse med jakt og fangst og registrering av opplysningenekrav til innlevering av hele eller deler av vilt til formål som nevnt i bokstav atilleggsavgift til jegeravgiften for det påfølgende jaktåret ved manglende rapportering etter bokstav a eller manglende innlevering etter bokstav b.
+Kongen kan gi forskrift om
+
+1. krav til rapportering av opplysninger til statistiske eller vitenskapelige formål i forbindelse med jakt og fangst og registrering av opplysningene
+2. krav til innlevering av hele eller deler av vilt til formål som nevnt i bokstav a
+3. tilleggsavgift til jegeravgiften for det påfølgende jaktåret ved manglende rapportering etter bokstav a eller manglende innlevering etter bokstav b.
 
 Fastsetting av tilleggsavgift etter forskrift gitt i medhold av første ledd bokstav c er ikke et enkeltvedtak.
 
@@ -212,7 +222,13 @@ Jakthundtrening og bruk av hund under jakt er tillatt, med mindre annet følger 
 
 Hundeføreren skal sørge for at jakthundtrening og bruk av hund under jakt skjer på en aktsom måte og i samsvar med aktsomhetskravene i [hundeloven §§ 3](lov/2003-07-04-74/§3) og [9](lov/2003-07-04-74/§9) og med [dyrevelferdsloven](lov/2009-06-19-97).
 
-Kongen kan gi forskrift omtil hvilke tider jakthundtrening og bruk av hund under jakt kan foregåbegrensninger og vilkår for jakthundtrening og bruk av hund under jaktforbud mot bruk av hund med bestemte funksjonsmåter eller særlige egenskaper til jakthundtrening og jaktkrav til ettersøksekvipasjer og om krav om tilgang til godkjent ettersøkshundtrening av hund for jakthundprøver og til jakt.
+Kongen kan gi forskrift om
+
+1. til hvilke tider jakthundtrening og bruk av hund under jakt kan foregå
+2. begrensninger og vilkår for jakthundtrening og bruk av hund under jakt
+3. forbud mot bruk av hund med bestemte funksjonsmåter eller særlige egenskaper til jakthundtrening og jakt
+4. krav til ettersøksekvipasjer og om krav om tilgang til godkjent ettersøkshund
+5. trening av hund for jakthundprøver og til jakt.
 
 ### § 28. Særskilte forbud mot å løsne skudd
 
@@ -220,7 +236,11 @@ Det er forbudt under jakt å løsne skudd på eller over offentlig vei eller jer
 
 ### § 29. Forbud mot bruk av luftfartøy, motorkjøretøy og motorfartøy
 
-Under jakt er det forbudt å brukeluftfartøy eller motorkjøretøy til forfølgning av vilt eller til avledning av viltets oppmerksomhet fra jegerenluftfartøy eller motorkjøretøy utenfor vei til lokalisering av viltfartøy med motor innen en avstand av to kilometer fra land, også holmer og skjær.
+Under jakt er det forbudt å bruke
+
+1. luftfartøy eller motorkjøretøy til forfølgning av vilt eller til avledning av viltets oppmerksomhet fra jegeren
+2. luftfartøy eller motorkjøretøy utenfor vei til lokalisering av vilt
+3. fartøy med motor innen en avstand av to kilometer fra land, også holmer og skjær.
 
 Forbudet i første ledd bokstav a og b gjelder ikke bruk av drone ved ettersøk etter [§ 22](lov/2025-06-20-102/§22) av storvilt med jakttid. Jegeren har bevisbyrden for at bruken er lovlig, og skal snarest varsle grunneieren, politiet og kommunen om bruken av drone under ettersøket. Ved ettersøk av gaupe skal også statsforvalteren varsles før det benyttes drone.
 
@@ -240,7 +260,17 @@ Kongen kan gi forskrift om bruk av kjemikalier og gift ved medikamentell immobil
 
 ### § 32. Forbud mot bestemte jakt- og fangstmetoder
 
-Under jakt og fangst er det forbudt å brukebåndopptaker eller lignende for avspilling av lokkelyderelektriske innretninger konstruert for å drepe eller lammespeil eller andre blendende innretningergass eller utrøykingsprengstoffnettkrokerlimlevende dyr som lokkedyr.
+Under jakt og fangst er det forbudt å bruke
+
+1. båndopptaker eller lignende for avspilling av lokkelyder
+2. elektriske innretninger konstruert for å drepe eller lamme
+3. speil eller andre blendende innretninger
+4. gass eller utrøyking
+5. sprengstoff
+6. nett
+7. kroker
+8. lim
+9. levende dyr som lokkedyr.
 
 Kongen kan gi forskrift om å tillate og regulere bruk av metodene angitt i første ledd bokstav a og f.
 
@@ -394,7 +424,11 @@ Det statlige viltfondet har eiendomsretten til vilt som er ulovlig felt, ulovlig
 
 Myndigheten etter loven kan inndra vilt og egg, eller verdien av dette, når det er klar sannsynlighet for at det statlige viltfondet eller kommunen har eiendomsretten etter første ledd. Det inndratte tilfaller den som har eiendomsrett etter første ledd.
 
-Kommunen kan, mot tilsvarende fradrag i vedkommendes fellingskvote, overlate til den jaktberettigedehjortevilt som er ulovlig felt i jakttid av andre enn den jaktberettigedehjortevilt felt i jakttid med tillatelse av kommunen etter [naturmangfoldloven § 18](lov/2009-06-19-100/§18)verdien av hjortevilt som nevnt i bokstav a og b.
+Kommunen kan, mot tilsvarende fradrag i vedkommendes fellingskvote, overlate til den jaktberettigede
+
+1. hjortevilt som er ulovlig felt i jakttid av andre enn den jaktberettigede
+2. hjortevilt felt i jakttid med tillatelse av kommunen etter [naturmangfoldloven § 18](lov/2009-06-19-100/§18)
+3. verdien av hjortevilt som nevnt i bokstav a og b.
 
 Hjortevilt som er ulovlig felt av den jaktberettigede, skal belastes vedkommendes fellingskvote, uavhengig av om viltet eller viltets verdi inndras av kommunen.
 
@@ -408,13 +442,21 @@ Det kan ikke fastsettes skuddpremieordninger for gaupe.
 
 ### § 53. Bestandsregulering under særegne forhold
 
-Kongen kan gi forskrift om regulering av bestanden av viltarter som har jakttid, dersomdet foreligger særegne forhold, som at bestandens størrelse eller sammensetning over tid gir uheldige effekter på dyrehelse, natur- eller samfunnsinteresser, ogjakt og fangst over tid ikke har vært tilstrekkelig for å oppnå ønsket bestand.
+Kongen kan gi forskrift om regulering av bestanden av viltarter som har jakttid, dersom
+
+1. det foreligger særegne forhold, som at bestandens størrelse eller sammensetning over tid gir uheldige effekter på dyrehelse, natur- eller samfunnsinteresser, og
+2. jakt og fangst over tid ikke har vært tilstrekkelig for å oppnå ønsket bestand.
 
 Forskrifter etter første ledd kan fravike [§ 24 første ledd](lov/2025-06-20-102/§24/ledd/1), [§ 25 første ledd](lov/2025-06-20-102/§25/ledd/1), [§ 26 første ledd](lov/2025-06-20-102/§26/ledd/1), [§ 28 første punktum](lov/2025-06-20-102/§28/setning/1), [§ 29](lov/2025-06-20-102/§29), [§ 32 første ledd bokstav a](lov/2025-06-20-102/§32/ledd/1/bokstav/a) og [f](lov/2025-06-20-102/§32/ledd/1/bokstav/f), [§ 33](lov/2025-06-20-102/§33), [§ 39 første ledd](lov/2025-06-20-102/§39/ledd/1), [§ 40 første ledd](lov/2025-06-20-102/§40/ledd/1), [§ 41](lov/2025-06-20-102/§41), [§ 42 første](lov/2025-06-20-102/§42/ledd/1) og [andre ledd](lov/2025-06-20-102/§42/ledd/2) eller forskrift gitt i medhold av [§ 24 tredje ledd](lov/2025-06-20-102/§24/ledd/3), [§ 25 andre](lov/2025-06-20-102/§25/ledd/2) og [tredje ledd](lov/2025-06-20-102/§25/ledd/3), [§ 27 tredje ledd](lov/2025-06-20-102/§27/ledd/3), [§ 30](lov/2025-06-20-102/§30) og [§ 42 fjerde ledd](lov/2025-06-20-102/§42/ledd/4). Slike forskrifter kan fastsettes for en periode på inntil tre år om gangen.
 
 ### § 54. Håndtering av vilt for vitenskapelige eller andre særlige formål
 
-Kongen kan for vitenskapelige eller andre særlige formål gi forskrift ommerking av levende viltinnsamling av deler av viltinnsamling av egginnfanging og felling av vilt.
+Kongen kan for vitenskapelige eller andre særlige formål gi forskrift om
+
+1. merking av levende vilt
+2. innsamling av deler av vilt
+3. innsamling av egg
+4. innfanging og felling av vilt.
 
 Forskrifter etter første ledd kan fravike bestemmelser gitt i eller i medhold av loven her.
 
@@ -432,11 +474,20 @@ Kongen kan gi forskrift om varsling, viltmyndighetenes oppgaver ved ettersøk og
 
 ### § 56. Merke- og registreringsplikt
 
-Kongen kan gi forskrift ommerking og registrering av dødt vilt, preparater av vilt og egg og registrering av levende vilt, blant annet om taksidermisters og andres plikt til å utføre merking av preparater og eggtaksidermisters og andres plikt til å gi opplysninger til et sentralt register om vilt som mottas, om taksidermist, om hvem viltet mottas fra, og om viltpreparatetbehandling av nødvendige personopplysninger ved taksidermisters og andres registrering av opplysninger i et sentralt register etter bokstav b, blant annet om formålet med behandlingen av opplysningene, hvem som er behandlingsansvarlig, hvilke opplysninger og opplysningskategorier som kan registreres, hvem som har tilgang til opplysningene, adgang til å utlevere opplysningene, innsyn, retting, sperring og sletting av opplysninger og om informasjonssikkerhet og internkontrollplikt til å betale gebyr for gjennomføring av merking og registrering.
+Kongen kan gi forskrift om
+
+1. merking og registrering av dødt vilt, preparater av vilt og egg og registrering av levende vilt, blant annet om taksidermisters og andres plikt til å utføre merking av preparater og egg
+2. taksidermisters og andres plikt til å gi opplysninger til et sentralt register om vilt som mottas, om taksidermist, om hvem viltet mottas fra, og om viltpreparatet
+3. behandling av nødvendige personopplysninger ved taksidermisters og andres registrering av opplysninger i et sentralt register etter bokstav b, blant annet om formålet med behandlingen av opplysningene, hvem som er behandlingsansvarlig, hvilke opplysninger og opplysningskategorier som kan registreres, hvem som har tilgang til opplysningene, adgang til å utlevere opplysningene, innsyn, retting, sperring og sletting av opplysninger og om informasjonssikkerhet og internkontroll
+4. plikt til å betale gebyr for gjennomføring av merking og registrering.
 
 ### § 57. Autorisasjon og tilsyn med taksidermister
 
-Kongen kan gi forskrift omautorisasjon av taksidermistertilsyn med autoriserte taksidermister og kontroll med vilt som oppbevaressaksbehandlingen til utfylling av reglene i [tjenesteloven](lov/2009-06-19-103) for autorisasjon av taksidermister, blant annet om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra [tjenesteloven § 11 andre ledd](lov/2009-06-19-103/§11/ledd/2) kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.
+Kongen kan gi forskrift om
+
+1. autorisasjon av taksidermister
+2. tilsyn med autoriserte taksidermister og kontroll med vilt som oppbevares
+3. saksbehandlingen til utfylling av reglene i [tjenesteloven](lov/2009-06-19-103) for autorisasjon av taksidermister, blant annet om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra [tjenesteloven § 11 andre ledd](lov/2009-06-19-103/§11/ledd/2) kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.
 
 ## Kapittel 10 Håndheving og sanksjoner
 

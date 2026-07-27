@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med forskriften er:å sikre en effektiv og ressursbesparende forvaltning av nummerressurser for elektroniske kommunikasjonsnett og -tjenesterå gi tilbydere av elektroniske kommunikasjonsnett og -tjenester nødvendig og lik tilgang til nummerressurser for levering av elektroniske kommunikasjonstjenester.
+Formålet med forskriften er:
+
+1. å sikre en effektiv og ressursbesparende forvaltning av nummerressurser for elektroniske kommunikasjonsnett og -tjenester
+2. å gi tilbydere av elektroniske kommunikasjonsnett og -tjenester nødvendig og lik tilgang til nummerressurser for levering av elektroniske kommunikasjonstjenester.
 
 ### § 2. Virkeområde
 
@@ -34,7 +37,26 @@ Forskriften gjelder forvaltning, tillatelse til bruk og bruken av nummerressurse
 
 ### § 3. Definisjoner og forkortelser
 
-I denne forskrift menes med:*nummerressurs:* fellesbetegnelse for nummer, nummerserier, navn og adresser, som fastsatt i [kapitlene III](forskrift/2004-02-16-426/kapiii), IV, V, VI og VII*nummerserie:* sammenhengende sekvens av enkeltnummer av en bestemt lengde*nummerplan:* struktur for og disponering av nummerressurser*frivillig nummerplan:* nummerplan som anbefales fulgt dersom man benytter nummerressurs fra slik nummerplan for å tilby tilgang til elektronisk kommunikasjonsnett og -tjeneste*fastnettnummer:* nummer fra nasjonal nummerplan som brukes til fasttelefontjeneste*spesialnummer:* nummer fra nasjonal nummerplan som brukes til særskilte tjenester*mobilnummer:* nummer fra nasjonal nummerplan som brukes til mobiltelefontjeneste med tilleggstjenester*nummer for maskin-til-maskin og tingenes Internett (M2M/IoT) kommunikasjon:* nummer fra nasjonal nummerplan som brukes til automatiserte eller delautomatiserte kommunikasjonstjenester for tale eller datatrafikk der nummeret har liten eller ingen selvstendig betydning for brukeren*ITU:* Den internasjonale teleunion*ITU-T:* Den internasjonale teleunion – standardiseringssektoren*ISO:* Den internasjonale standardiseringsorganisasjon*IEC:* Den internasjonale elektrotekniske komité*X.121 internasjonalt datanummer:* globalt entydig adresseinformasjon for en terminal i et datanett, bestående av en identifikasjon av datanettet og et terminalnummer i dette datanettet, maksimalt 14 siffer, i henhold til ITU-T rekommandasjon X.121*terminalnummer (Network Terminal Number, NTN):* identifikasjon av en terminal innenfor et bestemt datanett, maksimalt 10 siffer, i henhold til ITU-T rekommandasjon X.121*DNIC (Data Network Identification Code):* de første fire siffer i et X.121 internasjonalt datanummer, identifiserer ett eller flere datanett*PNIC (Private Network Identification Code):* en kode bestående av maksimalt seks siffer, som etterfølger en bestemt DNIC i et X.121 internasjonalt datanummer*Nkom:* Nasjonal kommunikasjonsmyndighet.*radioamatørstasjon:* radioutstyr til bruk for radioamatørvirksomhet.
+I denne forskrift menes med:
+
+1. *nummerressurs:* fellesbetegnelse for nummer, nummerserier, navn og adresser, som fastsatt i [kapitlene III](forskrift/2004-02-16-426/kapiii), IV, V, VI og VII
+2. *nummerserie:* sammenhengende sekvens av enkeltnummer av en bestemt lengde
+3. *nummerplan:* struktur for og disponering av nummerressurser
+4. *frivillig nummerplan:* nummerplan som anbefales fulgt dersom man benytter nummerressurs fra slik nummerplan for å tilby tilgang til elektronisk kommunikasjonsnett og -tjeneste
+5. *fastnettnummer:* nummer fra nasjonal nummerplan som brukes til fasttelefontjeneste
+6. *spesialnummer:* nummer fra nasjonal nummerplan som brukes til særskilte tjenester
+7. *mobilnummer:* nummer fra nasjonal nummerplan som brukes til mobiltelefontjeneste med tilleggstjenester
+8. *nummer for maskin-til-maskin og tingenes Internett (M2M/IoT) kommunikasjon:* nummer fra nasjonal nummerplan som brukes til automatiserte eller delautomatiserte kommunikasjonstjenester for tale eller datatrafikk der nummeret har liten eller ingen selvstendig betydning for brukeren
+9. *ITU:* Den internasjonale teleunion
+10. *ITU-T:* Den internasjonale teleunion – standardiseringssektoren
+11. *ISO:* Den internasjonale standardiseringsorganisasjon
+12. *IEC:* Den internasjonale elektrotekniske komité
+13. *X.121 internasjonalt datanummer:* globalt entydig adresseinformasjon for en terminal i et datanett, bestående av en identifikasjon av datanettet og et terminalnummer i dette datanettet, maksimalt 14 siffer, i henhold til ITU-T rekommandasjon X.121
+14. *terminalnummer (Network Terminal Number, NTN):* identifikasjon av en terminal innenfor et bestemt datanett, maksimalt 10 siffer, i henhold til ITU-T rekommandasjon X.121
+15. *DNIC (Data Network Identification Code):* de første fire siffer i et X.121 internasjonalt datanummer, identifiserer ett eller flere datanett
+16. *PNIC (Private Network Identification Code):* en kode bestående av maksimalt seks siffer, som etterfølger en bestemt DNIC i et X.121 internasjonalt datanummer
+17. *Nkom:* Nasjonal kommunikasjonsmyndighet.
+18. *radioamatørstasjon:* radioutstyr til bruk for radioamatørvirksomhet.
 
 > Endret ved [forskrifter 19 feb 2013 nr. 213](forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](forskrift/2015-05-06-484), [22 mai 2019 nr. 648](forskrift/2019-05-22-648), [13 des 2019 nr. 1767](forskrift/2019-12-13-1767) (i kraft 1 jan 2020), [12 juni 2023 nr. 841](forskrift/2023-06-12-841).
 
@@ -58,7 +80,14 @@ Tilbyder av elektronisk kommunikasjonsnett og -tjeneste som får tildelt nummerr
 
 ### § 6. Krav til opplysninger fra søkere
 
-Nkom kan stille krav til hvilke opplysninger en søknad om nummerressurser skal inneholde. Slike opplysninger kan bl.a. være:søkerens navn, adresse, norsk organisasjonsnummer, samt navn, telefonnummer og e-postadresser til kontaktpersonønsket nummerressursbeskrivelse av tjenesten nummerressursen skal brukes tildokumentasjon av ressursbehovplanlagt dato for igangsettelse av tjenestentilbyderkode den ønskede nummerressursen skal tilordnes.
+Nkom kan stille krav til hvilke opplysninger en søknad om nummerressurser skal inneholde. Slike opplysninger kan bl.a. være:
+
+1. søkerens navn, adresse, norsk organisasjonsnummer, samt navn, telefonnummer og e-postadresser til kontaktperson
+2. ønsket nummerressurs
+3. beskrivelse av tjenesten nummerressursen skal brukes til
+4. dokumentasjon av ressursbehov
+5. planlagt dato for igangsettelse av tjenesten
+6. tilbyderkode den ønskede nummerressursen skal tilordnes.
 
 > Endret ved [forskrifter 19 feb 2013 nr. 213](forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](forskrift/2015-05-06-484).
 
@@ -68,13 +97,33 @@ Nkom kan stille krav til hvilke opplysninger en søknad om nummerressurser skal 
 
 ### § 8. Hensyn ved tillatelse til bruk av nummerressurser
 
-Ved behandling av søknad om tillatelse til bruk av nummerressurser kan Nkom bl.a. ta hensyn til følgende forhold:effektiv og ressursbesparende bruk av nummerressursenebehovet for å ha tilstrekkelige nummerressurser tilgjengelig på kort og lang siktsøkerens, sluttbrukernes og andre berørtes behov og ønskereventuelle kostnader for søkeren, andre tilbydere av elektronisk kommunikasjonsnett og -tjeneste, sluttbrukere og andre berørteutnyttelsesgraden for nummerressurser søkeren tidligere har fått tillatelse til å bruke for tilsvarende formålsøkerens oppfyllelse av vilkår som er satt av Nkom ved tidligere tillatelser til bruk av nummerressurserrelevante rekommandasjoner, standarder eller avtaler.
+Ved behandling av søknad om tillatelse til bruk av nummerressurser kan Nkom bl.a. ta hensyn til følgende forhold:
+
+1. effektiv og ressursbesparende bruk av nummerressursene
+2. behovet for å ha tilstrekkelige nummerressurser tilgjengelig på kort og lang sikt
+3. søkerens, sluttbrukernes og andre berørtes behov og ønsker
+4. eventuelle kostnader for søkeren, andre tilbydere av elektronisk kommunikasjonsnett og -tjeneste, sluttbrukere og andre berørte
+5. utnyttelsesgraden for nummerressurser søkeren tidligere har fått tillatelse til å bruke for tilsvarende formål
+6. søkerens oppfyllelse av vilkår som er satt av Nkom ved tidligere tillatelser til bruk av nummerressurser
+7. relevante rekommandasjoner, standarder eller avtaler.
 
 > Endret ved [forskrift 6 mai 2015 nr. 484](forskrift/2015-05-06-484).
 
 ### § 9. Fastsettelse av vilkår ved tillatelse til bruk av nummerressurser fra obligatoriske nummerplaner
 
-Nkom kan fastsette følgende vilkår for tillatelse til bruk av nummer:tidsbegrensning for tillatelsen. Varigheten kan likevel innskrenkes hvis nummerplanen endreskrav til hvilken tjeneste nummeret og nummerserien skal brukes til, herunder krav til tilbudet av tjenestenkrav til takstprinsipper og anvendelse av maksimalpriser for den enkelte nummerserie i den hensikt å beskytte forbrukerforpliktende tilbud avgitt av tilbyder under konkurransepreget eller sammenlignende utvelgelsesprosedyreforpliktelser i samsvar med relevante internasjonale avtaler om bruk av nummerkrav til faktisk og effektiv anvendelse av nummer og nummerserier, herunder frist for når nummer eller nummerserien skal være tatt i brukhvilken tilbyderkode som skal brukes sammen med nummer i nummerplanen for telefon m.m. (E.164)forpliktelser vedrørende nummerportabilitetforpliktelser til å betale gebyr og avgiftforpliktelser vedrørende utlevering av nummeropplysningsinformasjon.forpliktelser vedrørende ekstraterritoriell bruk av M2M/IoT-nummer innen EØS-området for å sikre oppfyllelse av regler om forbrukerbeskyttelse og andre nummerrelaterte regler i det landet hvor ressursene brukes.
+Nkom kan fastsette følgende vilkår for tillatelse til bruk av nummer:
+
+1. tidsbegrensning for tillatelsen. Varigheten kan likevel innskrenkes hvis nummerplanen endres
+2. krav til hvilken tjeneste nummeret og nummerserien skal brukes til, herunder krav til tilbudet av tjenesten
+3. krav til takstprinsipper og anvendelse av maksimalpriser for den enkelte nummerserie i den hensikt å beskytte forbruker
+4. forpliktende tilbud avgitt av tilbyder under konkurransepreget eller sammenlignende utvelgelsesprosedyre
+5. forpliktelser i samsvar med relevante internasjonale avtaler om bruk av nummer
+6. krav til faktisk og effektiv anvendelse av nummer og nummerserier, herunder frist for når nummer eller nummerserien skal være tatt i bruk
+7. hvilken tilbyderkode som skal brukes sammen med nummer i nummerplanen for telefon m.m. (E.164)
+8. forpliktelser vedrørende nummerportabilitet
+9. forpliktelser til å betale gebyr og avgift
+10. forpliktelser vedrørende utlevering av nummeropplysningsinformasjon.
+11. forpliktelser vedrørende ekstraterritoriell bruk av M2M/IoT-nummer innen EØS-området for å sikre oppfyllelse av regler om forbrukerbeskyttelse og andre nummerrelaterte regler i det landet hvor ressursene brukes.
 
 Ved tildeling av tillatelse for bruk av nummerressurser for en begrenset periode, skal varigheten være lang nok til å nå formålet med tillatelsen.
 
@@ -114,7 +163,11 @@ Nkom skal offentliggjøre nummerplaner, tillatelser og endringer i tillatelser p
 
 ### § 15. Endring av nummerplan
 
-Finner Nkom det nødvendig å endre en nummerplan, skal alle tilbydere som har tillatelse til bruk av nummerressurser fra nummerplanen, gjøre de nødvendige endringer i sine systemer innen en rimelig frist. Endring av nummerplan kan bl.a. gjøres for å:ha tilstrekkelige nummerressurser tilgjengelig på kort og lang siktreservere nummerressurser til andre formålomdisponere nummerressurser.
+Finner Nkom det nødvendig å endre en nummerplan, skal alle tilbydere som har tillatelse til bruk av nummerressurser fra nummerplanen, gjøre de nødvendige endringer i sine systemer innen en rimelig frist. Endring av nummerplan kan bl.a. gjøres for å:
+
+1. ha tilstrekkelige nummerressurser tilgjengelig på kort og lang sikt
+2. reservere nummerressurser til andre formål
+3. omdisponere nummerressurser.
 
 Tilbyder skal gi nødvendig informasjon og legge til rette for at overgangen blir minst mulig belastende for sine sluttbrukere.
 
@@ -126,17 +179,42 @@ Tilbyder skal gi nødvendig informasjon og legge til rette for at overgangen bli
 
 Nkom fastsetter og forvalter obligatorisk nasjonal nummerplan for telefon m.m. (E.164) i samsvar med ITU-T rekommandasjon E.164. Nkom kan gi tillatelse til bruk av nummerserier og enkeltnummer under landskode 47 tildelt fra ITU.
 
-Hovedkategoriene i nasjonal nummerplan for telefon m.m. (E.164) er følgende:00: Internasjonalt prefiks01: Reservert for fremtidige endringer i nummerplanen02000–09999: 5-sifrede spesialnummer100–115: 3-sifrede standardiserte spesialnummer116 000–116 999: 6-sifrede EØS-harmoniserte nummer117–179: 3-sifrede standardiserte spesialnummer1800–1899: 4-sifrede nummer for nummeropplysningstjenester190–199: 3-sifrede tilbyderspesifikke spesialnummer20 00 00 00–39 99 99 99: 8-sifrede fastnettnummer40 00 00 00–49 99 99 99: 8-sifrede mobilnummer50 00 00 00–57 99 99 99: 8-sifrede fastnettnummer58 00 00 00 00 00–58 99 99 99 99 99: 12-sifrede nummer for M2M/IoT-kommunikasjon 59 00 00 00–59 99  99 99: 8-sifrede nummer for M2M/IoT-kommunikasjon60 00 00 00–79 99 99 99: 8-sifrede fastnettnummer800 00 000–899 99 999: 8-sifrede spesialnummerserier90 00 00 00–99 99 99 99: 8-sifrede mobilnummer.
+Hovedkategoriene i nasjonal nummerplan for telefon m.m. (E.164) er følgende:
 
-Tildelte nummer kan ikke tilbys for permanent bruk utenfor Norge uten tillatelse fra Nkom. Dette gjelder likevel ikke for:tildelte nummer for M2M/IoT-kommunikasjonnummerserier avsatt for inngående anrop til telefonkonferanser.
+- 00: Internasjonalt prefiks
+- 01: Reservert for fremtidige endringer i nummerplanen
+- 02000–09999: 5-sifrede spesialnummer
+- 100–115: 3-sifrede standardiserte spesialnummer
+- 116 000–116 999: 6-sifrede EØS-harmoniserte nummer
+- 117–179: 3-sifrede standardiserte spesialnummer
+- 1800–1899: 4-sifrede nummer for nummeropplysningstjenester
+- 190–199: 3-sifrede tilbyderspesifikke spesialnummer
+- 20 00 00 00–39 99 99 99: 8-sifrede fastnettnummer
+- 40 00 00 00–49 99 99 99: 8-sifrede mobilnummer
+- 50 00 00 00–57 99 99 99: 8-sifrede fastnettnummer
+- 58 00 00 00 00 00–58 99 99 99 99 99: 12-sifrede nummer for M2M/IoT-kommunikasjon 59 00 00 00–59 99  99 99: 8-sifrede nummer for M2M/IoT-kommunikasjon
+- 60 00 00 00–79 99 99 99: 8-sifrede fastnettnummer
+- 800 00 000–899 99 999: 8-sifrede spesialnummerserier
+- 90 00 00 00–99 99 99 99: 8-sifrede mobilnummer.
+
+Tildelte nummer kan ikke tilbys for permanent bruk utenfor Norge uten tillatelse fra Nkom. Dette gjelder likevel ikke for:
+
+1. tildelte nummer for M2M/IoT-kommunikasjon
+2. nummerserier avsatt for inngående anrop til telefonkonferanser.
 
 > Endret ved [forskrifter 25 nov 2008 nr. 1266](forskrift/2008-11-25-1266) (i kraft 1 jan 2009 og 1 jan 2010), [19 feb 2013 nr. 213](forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](forskrift/2015-05-06-484), [22 mai 2019 nr. 648](forskrift/2019-05-22-648), [13 des 2019 nr. 1767](forskrift/2019-12-13-1767) (i kraft 1 jan 2020), [12 juni 2023 nr. 841](forskrift/2023-06-12-841).
 
 ### § 16a. Takstprinsipper ved anrop til visse spesialnummer
 
-Ved anrop til nummer i angitte nummerserier gjelder følgende takstprinsipper på sluttbrukernivå:800 00 000–800 99 999: Anrop til nummer i denne serien skal være kostnadsfrie for anropende sluttbruker både fra fastnett og mobilnett.02000–09999, 100–109, 114–115, 117–179, 190–199, 810 00 000–810 99 999, 815 00 000–815 99 999, 850 00 000–859 99 999: Anrop til nummer i disse seriene skal ikke koste mer enn hva anrop til mobilnummer koster for anropende sluttbruker. Dersom anrop ikke faktureres basert på faktisk forbruk, skal samme faktureringsmetode som ellers benyttes legges til grunn for de nevnte nummerseriene. Dette gjelder både for anrop fra fastnett og mobilnett.
+Ved anrop til nummer i angitte nummerserier gjelder følgende takstprinsipper på sluttbrukernivå:
 
-Ved anrop til nummerseriene etter første ledd gjelder følgende takstprinsipper på grossistnivå:Tilbyder av terminering skal ikke ta høyere pris for terminering enn den til enhver tid regulerte maksimalprisen for terminering av tale i offentlige mobilkommunikasjonsnett.Tilbydere av tilgangstjeneste skal ikke ta høyere pris for originering av slike anrop enn for originering av anrop til mobilnummer.
+1. 800 00 000–800 99 999: Anrop til nummer i denne serien skal være kostnadsfrie for anropende sluttbruker både fra fastnett og mobilnett.
+2. 02000–09999, 100–109, 114–115, 117–179, 190–199, 810 00 000–810 99 999, 815 00 000–815 99 999, 850 00 000–859 99 999: Anrop til nummer i disse seriene skal ikke koste mer enn hva anrop til mobilnummer koster for anropende sluttbruker. Dersom anrop ikke faktureres basert på faktisk forbruk, skal samme faktureringsmetode som ellers benyttes legges til grunn for de nevnte nummerseriene. Dette gjelder både for anrop fra fastnett og mobilnett.
+
+Ved anrop til nummerseriene etter første ledd gjelder følgende takstprinsipper på grossistnivå:
+
+1. Tilbyder av terminering skal ikke ta høyere pris for terminering enn den til enhver tid regulerte maksimalprisen for terminering av tale i offentlige mobilkommunikasjonsnett.
+2. Tilbydere av tilgangstjeneste skal ikke ta høyere pris for originering av slike anrop enn for originering av anrop til mobilnummer.
 
 Takstprinsippene i denne bestemmelsen gjelder for alle tilbydere av elektroniske kommunikasjonsnett og -tjenester, uavhengig om tilbyder selv har fått tillatelse til bruk av slike nummerressurser eller ikke.
 
@@ -174,7 +252,10 @@ Tilbyder kan videretildele 8- og 12-sifrede nummer til annen tilbyder. Tilbyder 
 
 Nkom kan gi tillatelse til bruk av standardiserte spesialnummer til spesielle formål etter søknad.
 
-De standardiserte spesialnumrene skal i hovedsak brukes til to formål:landsomfattende tjenester av stor samfunnsmessig betydningtjenester som er nært knyttet til den offentlige telefontjenesten og som er med på å forbedre og utvikle denne til beste for sluttbrukerne.
+De standardiserte spesialnumrene skal i hovedsak brukes til to formål:
+
+1. landsomfattende tjenester av stor samfunnsmessig betydning
+2. tjenester som er nært knyttet til den offentlige telefontjenesten og som er med på å forbedre og utvikle denne til beste for sluttbrukerne.
 
 > Endret ved [forskrift 6 mai 2015 nr. 484](forskrift/2015-05-06-484).
 
@@ -190,7 +271,14 @@ Nkom fører et offentlig register oppdatert for alle tildelte og tilgjengelige 1
 
 ### § 20b. Generelle krav til tjenester på EØS-harmoniserte nummer
 
-Tjenestene skal:tilby informasjon, hjelp eller fungere som en rapporteringskanal for brukerne eller en kombinasjon av dissevære åpen for alle brukere, uten krav om forhåndsregistreringikke være tidsbegrenset til kampanjeperioderikke medføre noen form for betaling eller betalingsforpliktelse som en forutsetning før en kan benytte seg av tjenestenikke ha reklame, underholdning, markedsføring eller salg under en samtale eller så lenge linjen er oppkobletikke bruke samtaleinformasjon for fremtidig salg av kommersielle tjenester.
+Tjenestene skal:
+
+1. tilby informasjon, hjelp eller fungere som en rapporteringskanal for brukerne eller en kombinasjon av disse
+2. være åpen for alle brukere, uten krav om forhåndsregistrering
+3. ikke være tidsbegrenset til kampanjeperioder
+4. ikke medføre noen form for betaling eller betalingsforpliktelse som en forutsetning før en kan benytte seg av tjenesten
+5. ikke ha reklame, underholdning, markedsføring eller salg under en samtale eller så lenge linjen er oppkoblet
+6. ikke bruke samtaleinformasjon for fremtidig salg av kommersielle tjenester.
 
 > Tilføyd ved [forskrift 25 nov 2008 nr. 1266](forskrift/2008-11-25-1266) (i kraft 1 jan 2009).
 
@@ -224,7 +312,14 @@ Sluttbruker skal kunne nå krisetelefon for og om savnede barn på nummer 116 0
 
 ### § 20g. Hjelpetelefon for offer for vold og overgrep – 116 006
 
-Hjelpetelefon for offer for vold- og overgrep skal tilby:emosjonell støtte,informere om rettigheter og hvordan de kan benytte seg av rettighetene,bistå med henvisning til relevante organisasjoner,informere om prosedyrer ved politianmeldelser og gangen i straffesaker,informere om muligheter for erstatning og forsikringsforhold, ogbistå offer for kriminalitet med å oppsøke annen relevant hjelp.
+Hjelpetelefon for offer for vold- og overgrep skal tilby:
+
+1. emosjonell støtte,
+2. informere om rettigheter og hvordan de kan benytte seg av rettighetene,
+3. bistå med henvisning til relevante organisasjoner,
+4. informere om prosedyrer ved politianmeldelser og gangen i straffesaker,
+5. informere om muligheter for erstatning og forsikringsforhold, og
+6. bistå offer for kriminalitet med å oppsøke annen relevant hjelp.
 
 Den som er tildelt 116 006-nummeret og drifter tjenesten skal offentliggjøre informasjon om tjenestens åpningstider og tilgjengelighet. Informasjonen skal være lett tilgjengelig, og de som ringer tjenesten utenom åpningstid skal få informasjon om når tjenesten igjen er tilgjengelig.
 
@@ -264,9 +359,17 @@ Nummerserien 190-199 er avsatt til bruk for tilbyderspesifikke spesialnummer. Ti
 
 ### § 22. Tillatelse og bruk av 5-sifrede spesialnummer (02000–09999)
 
-Nkom kan gi tillatelse til bruk av slike nummer til sluttbrukere etter søknad. Nummerserien er delt opp i to hovedkategorier:5-sifrede nummer for ikke-kommersielle formål av samfunnsnyttig karakter5-sifrede nummer for andre formål.
+Nkom kan gi tillatelse til bruk av slike nummer til sluttbrukere etter søknad. Nummerserien er delt opp i to hovedkategorier:
 
-Som ikke-kommersielle formål av samfunnsnyttig karakter regnes blant annet:landsomfattende krise- og kontakttelefonerlandsomfattende offentlige tjenesterlandsomfattende nummer for humanitære/ideelle organisasjonerfelles landsomfattende nummer for offentlig legevakt, sykehus, politi eller lignende for bruk ved ikke-nødsituasjoner.
+1. 5-sifrede nummer for ikke-kommersielle formål av samfunnsnyttig karakter
+2. 5-sifrede nummer for andre formål.
+
+Som ikke-kommersielle formål av samfunnsnyttig karakter regnes blant annet:
+
+1. landsomfattende krise- og kontakttelefoner
+2. landsomfattende offentlige tjenester
+3. landsomfattende nummer for humanitære/ideelle organisasjoner
+4. felles landsomfattende nummer for offentlig legevakt, sykehus, politi eller lignende for bruk ved ikke-nødsituasjoner.
 
 Tillatelse til bruk av 5-sifrede nummer for ikke-kommersielle formål av samfunnsnyttig karakter skal kun foretas fra nummer i laveste priskategori. Hver sluttbruker eller gruppering kan maksimalt disponere tre slike nummer.
 
@@ -286,7 +389,17 @@ Dersom oppsigelse av 5-sifret nummer er sendt Nkom innen 31. desember, skal det 
 
 Tilbyder av elektronisk kommunikasjonsnett og -tjeneste som har fått tillatelse til bruk av 8- og 12-sifrede nummerserier av Nkom skal innen 1. februar hvert år avgi rapport til Nkom med oversikt over bruken av nummerseriene.
 
-Rapporten skal for hver nummerserie bl.a. inneholde følgende opplysninger:fordeling av nummerserien på ulike tjenester, takster etc.prosentvis andel av nummer som er i aktiv brukprosentvis andel av nummer som er reservert, men ikke i aktiv brukprosentvis andel av nummer som er portert til andre tilbydereantall numre som er portert fra andre tilbydereprosentvis andel av nummer som er ledigeeventuell videretildeling av nummerserier til andre tilbydereprognose for utnyttelse av nummerserien for hvert av de neste tre år.hele eller deler av tildelt nummerserie brukes over landegrensen
+Rapporten skal for hver nummerserie bl.a. inneholde følgende opplysninger:
+
+1. fordeling av nummerserien på ulike tjenester, takster etc.
+2. prosentvis andel av nummer som er i aktiv bruk
+3. prosentvis andel av nummer som er reservert, men ikke i aktiv bruk
+4. prosentvis andel av nummer som er portert til andre tilbydere
+5. antall numre som er portert fra andre tilbydere
+6. prosentvis andel av nummer som er ledige
+7. eventuell videretildeling av nummerserier til andre tilbydere
+8. prognose for utnyttelse av nummerserien for hvert av de neste tre år.
+9. hele eller deler av tildelt nummerserie brukes over landegrensen
 
 > Endret ved [forskrifter 19 feb 2013 nr. 213](forskrift/2013-02-19-213) (i kraft 1 mars 2013), [6 mai 2015 nr. 484](forskrift/2015-05-06-484), [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
 
@@ -304,7 +417,10 @@ Ved opphør av virksomhet skal ubrukte numre og nummerserier tilbakeleveres til 
 
 Nkom fastsetter og forvalter nummerplan for tilbyderkoder for tilbyderportabilitet. Tilbyder som disponerer numre i nummerplan for telefon m.m. (E.164) kan få tillatelse til bruk av tilbyderkoder.
 
-Nummerplan for tilbyderkoder er obligatorisk og har følgende struktur:000-899 Identifikasjon av angivende og mottagende tilbyder900-999 Tilbyderspesifikke koder.
+Nummerplan for tilbyderkoder er obligatorisk og har følgende struktur:
+
+- 000-899 Identifikasjon av angivende og mottagende tilbyder
+- 900-999 Tilbyderspesifikke koder.
 
 > Endret ved [forskrift 6 mai 2015 nr. 484](forskrift/2015-05-06-484).
 

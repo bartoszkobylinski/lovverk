@@ -32,6 +32,20 @@ Den avtale som er inngått mellom Norge og Sør-Afrika om bygging av værvarslin
 
 ## III
 
-Denne bestemmelse trer i kraft straks.Landskapet skal være fredet mot alle tekniske inngrep som vegbygging, oppføring av bygninger og anlegg av enhver art eller annen virksomhet som medfører terrenginngrep og forstyrrelser av naturmiljøet. Nødvendig husvær for oppsyn skal likevel kunne oppføres.Dyrelivet, inkludert fuglenes reir og egg, skal være fredet hele året og må ikke unødig forstyrres. Det er forbudt å sette ut dyrearter eller raser som ikke forekommer i vedkommende trakt tidligere.Hunder må ikke ilandføres.Plantelivet skal være fredet mot alle skader som ikke skyldes vanlig ferdsel.Bestemmelsene i [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner for så vidt gjelder utførsel, innførsel og tilbakeføring av ulovlig utførte kulturgjenstander [§ 23a](lov/1978-06-09-50/§23a) – § 23f, får anvendelse så langt de passer.Bruk av terrenggående kjøretøyer og landing med luftfartøy er forbudt uten særskilt tillatelse fra vedkommende departement. Forbudet gjelder likevel ikke oppsyns-, politi- og ambulansevirksomhet.Med unntak som nevnt i første ledd kan vedkommende departement forby enhver ferdsel hele året eller en del av året når det anses nødvendig for å bevare plante- og dyrelivet eller geologiske forekomster.Tømming av avfall samt spredning eller etterlatelse av stoffer og gjenstander som direkte eller indirekte kan skade øyenes dyre- og plantesamfunn er forbudt.Departementet eller den det bemyndiger har adgang til etter søknad å dispensere fra foranstående bestemmelser for vitenskapelige undersøkelser eller for andre særlige tiltak når formålet ikke er i strid med fredningens hensikt.Den som forsettlig eller uaktsomt overtrer forbud gitt i eller i medhold av disse besemmelser, straffes med bøter etter [straffelovens § 339](lov/1902-05-22-10/§339) nr. 2.Disse bestemmelser trer i kraft straks.
+Denne bestemmelse trer i kraft straks.
+
+1. Landskapet skal være fredet mot alle tekniske inngrep som vegbygging, oppføring av bygninger og anlegg av enhver art eller annen virksomhet som medfører terrenginngrep og forstyrrelser av naturmiljøet. Nødvendig husvær for oppsyn skal likevel kunne oppføres.
+2. Dyrelivet, inkludert fuglenes reir og egg, skal være fredet hele året og må ikke unødig forstyrres. Det er forbudt å sette ut dyrearter eller raser som ikke forekommer i vedkommende trakt tidligere.
+
+   Hunder må ikke ilandføres.
+3. Plantelivet skal være fredet mot alle skader som ikke skyldes vanlig ferdsel.
+4. Bestemmelsene i [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner for så vidt gjelder utførsel, innførsel og tilbakeføring av ulovlig utførte kulturgjenstander [§ 23a](lov/1978-06-09-50/§23a) – § 23f, får anvendelse så langt de passer.
+5. Bruk av terrenggående kjøretøyer og landing med luftfartøy er forbudt uten særskilt tillatelse fra vedkommende departement. Forbudet gjelder likevel ikke oppsyns-, politi- og ambulansevirksomhet.
+
+   Med unntak som nevnt i første ledd kan vedkommende departement forby enhver ferdsel hele året eller en del av året når det anses nødvendig for å bevare plante- og dyrelivet eller geologiske forekomster.
+6. Tømming av avfall samt spredning eller etterlatelse av stoffer og gjenstander som direkte eller indirekte kan skade øyenes dyre- og plantesamfunn er forbudt.
+7. Departementet eller den det bemyndiger har adgang til etter søknad å dispensere fra foranstående bestemmelser for vitenskapelige undersøkelser eller for andre særlige tiltak når formålet ikke er i strid med fredningens hensikt.
+8. Den som forsettlig eller uaktsomt overtrer forbud gitt i eller i medhold av disse besemmelser, straffes med bøter etter [straffelovens § 339](lov/1902-05-22-10/§339) nr. 2.
+9. Disse bestemmelser trer i kraft straks.
 
 > Endret ved [forskrift 15 des 2006 nr. 1431](forskrift/2006-12-15-1431) (i kraft 1 jan 2007).

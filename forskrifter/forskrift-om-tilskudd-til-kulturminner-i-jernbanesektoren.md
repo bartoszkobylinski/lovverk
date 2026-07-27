@@ -50,7 +50,10 @@ Det kan ikke søkes støtte til tiltak som allerede er gjennomført.
 
 Landsdekkende frivillige organisasjoner som driver museumsbaner kan i tillegg til generell støtte etter [§ 3](forskrift/2021-04-20-1210/§3) søke om grunnstøtte, samt kompensasjon av leieutgifter for parkering av historisk togmateriell.
 
-Museumsbaner kan i tillegg til generell støtte etter [§ 3](forskrift/2021-04-20-1210/§3) søke om grunnstøtte, samt vedlikeholds- og driftsstøtte, dersom de i tillegg til å oppfylle vilkårene i [§ 3](forskrift/2021-04-20-1210/§3)er underlagt ICOMs museumsetiske regelverk ogdriver formidling gjennom persontransport ved fremføring av motorisert skinnegående materiell på infrastruktur fra ordinær driftsperiode i henhold til [museumsbaneforskriften](forskrift/2014-12-10-1574).
+Museumsbaner kan i tillegg til generell støtte etter [§ 3](forskrift/2021-04-20-1210/§3) søke om grunnstøtte, samt vedlikeholds- og driftsstøtte, dersom de i tillegg til å oppfylle vilkårene i [§ 3](forskrift/2021-04-20-1210/§3)
+
+1. er underlagt ICOMs museumsetiske regelverk og
+2. driver formidling gjennom persontransport ved fremføring av motorisert skinnegående materiell på infrastruktur fra ordinær driftsperiode i henhold til [museumsbaneforskriften](forskrift/2014-12-10-1574).
 
 For grunnstøtte og kompensasjon for leieutgifter for parkering av historisk togmateriell gjelder ikke reglene om støttegrad i [§ 3](forskrift/2021-04-20-1210/§3) fjerde ledd.
 
@@ -74,7 +77,15 @@ Søknadsfristen fastsettes av Norsk jernbanemuseum som publiserer den på sin hj
 
 Eget søknadsskjema som gjøres tilgjengelig av Norsk jernbanemuseum, skal anvendes.
 
-Søknaden skal inneholdesøkers navn, adresse, kontonummer, e-postadresse, telefonnummer og kontaktperson,organisasjonsnummer dersom søker har slikt,informasjon om prosjektet det søkes tilskudd til,informasjon om hvilke arbeider som planlegges gjennomført og hvordan de planlegges gjennomført,informasjon om hvilke antikvariske hensyn som skal ivaretas,plan for gjennomføringen av tiltaket eller aktiviteten med virkemidler, samarbeidspartnere og fremdriftsplan ogkostnadsoverslag og budsjett.
+Søknaden skal inneholde
+
+1. søkers navn, adresse, kontonummer, e-postadresse, telefonnummer og kontaktperson,
+2. organisasjonsnummer dersom søker har slikt,
+3. informasjon om prosjektet det søkes tilskudd til,
+4. informasjon om hvilke arbeider som planlegges gjennomført og hvordan de planlegges gjennomført,
+5. informasjon om hvilke antikvariske hensyn som skal ivaretas,
+6. plan for gjennomføringen av tiltaket eller aktiviteten med virkemidler, samarbeidspartnere og fremdriftsplan og
+7. kostnadsoverslag og budsjett.
 
 Ved søknad om grunnstøtte eller vedlikeholds- og driftsstøtte gjelder ikke [§ 5](forskrift/2021-04-20-1210/§5) tredje ledd nr. 3 og 6.
 
@@ -102,7 +113,11 @@ Det er anledning til å benytte midler fra mottatt grunnstøtte, samt drifts- og
 
 ## § 8. Kontroll
 
-Norsk jernbanemuseum kan kontrollere at vilkårene for tilskuddet er oppfylt gjennom åinnhente opplysninger og dokumentasjon fra mottaker som er nødvendig for kontrollen,innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene oggjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
+Norsk jernbanemuseum kan kontrollere at vilkårene for tilskuddet er oppfylt gjennom å
+
+1. innhente opplysninger og dokumentasjon fra mottaker som er nødvendig for kontrollen,
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene og
+3. gjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
 
 ## § 9. Stans og tilbakebetaling
 

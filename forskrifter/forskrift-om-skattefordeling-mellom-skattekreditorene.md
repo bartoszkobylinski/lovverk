@@ -15,7 +15,7 @@ xml_hash: "2ab0ad38d479fe2b28a306de7d57a2512956f299944e63b18859dcdeb9b469d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,13 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I denne forskrift betyr:*Personlig skattyter:* Skattyter som nevnt i [skattebetalingsloven § 4-1](lov/2005-06-17-67/§4-1) første ledd bokstav b).*Upersonlig skattyter:* Skattyter som nevnt i [skattebetalingsloven § 4-1](lov/2005-06-17-67/§4-1) første ledd bokstav a).*Fordelingstall:* Fastsatt prosentvis fordeling av skatt og trygdeavgift mellom skattekreditorene. Grunnlag for fastsettelsen er forventet beregnet skatt eller faktisk beregnet skatt for den enkelte kommune. Fordelingstall fastsettes kommunevis hver for seg for henholdsvis personlige skattytere og upersonlige skattytere for det enkelte inntektsår.*Skattekreditor:* Den som har krav på en andel av skatt og avgift som inngår i fellesinnkrevingen.*Skattekontoret:* Divisjon innkreving, avdeling næring og regnskap, seksjon regnskap.
+I denne forskrift betyr:
+
+1. *Personlig skattyter:* Skattyter som nevnt i [skattebetalingsloven § 4-1](lov/2005-06-17-67/§4-1) første ledd bokstav b).
+2. *Upersonlig skattyter:* Skattyter som nevnt i [skattebetalingsloven § 4-1](lov/2005-06-17-67/§4-1) første ledd bokstav a).
+3. *Fordelingstall:* Fastsatt prosentvis fordeling av skatt og trygdeavgift mellom skattekreditorene. Grunnlag for fastsettelsen er forventet beregnet skatt eller faktisk beregnet skatt for den enkelte kommune. Fordelingstall fastsettes kommunevis hver for seg for henholdsvis personlige skattytere og upersonlige skattytere for det enkelte inntektsår.
+4. *Skattekreditor:* Den som har krav på en andel av skatt og avgift som inngår i fellesinnkrevingen.
+5. *Skattekontoret:* Divisjon innkreving, avdeling næring og regnskap, seksjon regnskap.
 
 > Endret ved [forskrifter 19 jan 2017 nr. 47](forskrift/2017-01-19-47), [28 nov 2018 nr. 1778](forskrift/2018-11-28-1778) (i kraft 1 jan 2019), [10 des 2025 nr. 2488](forskrift/2025-12-10-2488) (i kraft 1 jan 2026).
 

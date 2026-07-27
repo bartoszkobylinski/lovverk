@@ -22,4 +22,14 @@ eu_basis: []
 
 # Delegering av myndighet til Skattedirektoratet etter lov om avgift på arv og visse gaver.
 
-Finansdepartementet delegerer med virkning fra 1. juli 1997 sin myndighet etter lov om avgift på arv og visse gaver av [19. juni 1964 nr. 14](lov/1964-06-19-14) til Skattedirektoratet:§ 4 femte ledd annet punktum: Innrømme avgiftsfrihet for arv som tilfaller allmennyttig formål§ 24 tredje ledd annet punktum: Overføre en sak til en annen avgiftsmyndighet enn den regulære§ 24 tredje ledd tredje punktum: Gi nærmere forskrifter for avgiftsmyndigheten etter § 24 tredje ledd§ 25 åttende ledd: Fastsette skjema for melding om arv og gave§ 28 annet ledd: Gi forskrift om opplysningsplikt og å oppheve gjeldende forskrift§ 35 annet ledd: Omgjøre avgiftsmydighetens avgjørelser§ 38 første ledd: Inngå avtaler med den avgiftspliktige om verdsettelse§ 44 første punktum: Fastsette tilleggsavgift§ 45 første punktum: Godta avfinnelsesum
+Finansdepartementet delegerer med virkning fra 1. juli 1997 sin myndighet etter lov om avgift på arv og visse gaver av [19. juni 1964 nr. 14](lov/1964-06-19-14) til Skattedirektoratet:
+
+- § 4 femte ledd annet punktum: Innrømme avgiftsfrihet for arv som tilfaller allmennyttig formål
+- § 24 tredje ledd annet punktum: Overføre en sak til en annen avgiftsmyndighet enn den regulære
+- § 24 tredje ledd tredje punktum: Gi nærmere forskrifter for avgiftsmyndigheten etter § 24 tredje ledd
+- § 25 åttende ledd: Fastsette skjema for melding om arv og gave
+- § 28 annet ledd: Gi forskrift om opplysningsplikt og å oppheve gjeldende forskrift
+- § 35 annet ledd: Omgjøre avgiftsmydighetens avgjørelser
+- § 38 første ledd: Inngå avtaler med den avgiftspliktige om verdsettelse
+- § 44 første punktum: Fastsette tilleggsavgift
+- § 45 første punktum: Godta avfinnelsesum

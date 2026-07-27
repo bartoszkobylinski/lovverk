@@ -38,7 +38,14 @@ Forskriften gjelder ikke deler av fornøyelsesinnretninger som faller inn under 
 
 ### § 1-3. Definisjoner
 
-I denne forskriften menes med:*fornøyelsesinnretning:* installasjon til bruk for fornøyelsesformål som innebærer risiko, og som stiller minimale krav til ferdigheter, og hvor brukerne bringes i bevegelse eller i situasjoner hvor de helt eller delvis ikke har kontroll over egen bevegelse*virksomhet:* foretak, enkeltpersonforetak eller forvaltningsorganer som har driftstillatelse for en eller flere fornøyelsesinnretninger*ulykke:* en uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser som fører til død eller alvorlig personskade eller betydelige materielle skader på eiendom eller på miljø, og alle andre lignende ulykker*alvorlig hendelse:* en uønsket hendelse som under andre omstendigheter kunne ha ført til en ulykke*hendelse:* enhver annen uønsket hendelse enn en ulykke eller alvorlig hendelse, som har sammenheng med driften, og som virker inn på driftssikkerheten*driftspersonell:* personell som har oppgaver av betydning for operativ sikkerhet.
+I denne forskriften menes med:
+
+1. *fornøyelsesinnretning:* installasjon til bruk for fornøyelsesformål som innebærer risiko, og som stiller minimale krav til ferdigheter, og hvor brukerne bringes i bevegelse eller i situasjoner hvor de helt eller delvis ikke har kontroll over egen bevegelse
+2. *virksomhet:* foretak, enkeltpersonforetak eller forvaltningsorganer som har driftstillatelse for en eller flere fornøyelsesinnretninger
+3. *ulykke:* en uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser som fører til død eller alvorlig personskade eller betydelige materielle skader på eiendom eller på miljø, og alle andre lignende ulykker
+4. *alvorlig hendelse:* en uønsket hendelse som under andre omstendigheter kunne ha ført til en ulykke
+5. *hendelse:* enhver annen uønsket hendelse enn en ulykke eller alvorlig hendelse, som har sammenheng med driften, og som virker inn på driftssikkerheten
+6. *driftspersonell:* personell som har oppgaver av betydning for operativ sikkerhet.
 
 ### § 1-4. Unntak
 
@@ -56,7 +63,10 @@ En fornøyelsesinnretning som er konstruert og drives i overensstemmelse med en 
 
 Hvis deler av anerkjente standarder kombineres, skal det dokumenteres at det oppnås et akseptabelt sikkerhetsnivå.
 
-Kravene til sikkerhet kan også oppfylles hvis minst ett av kriteriene oppfylles:virksomheten kan dokumentere at fornøyelsesinnretningen holder et tilsvarende sikkerhetsnivå som en anerkjent standardfornøyelsesinnretningen tilfredsstiller kravene i utkastet til en internasjonal standard.
+Kravene til sikkerhet kan også oppfylles hvis minst ett av kriteriene oppfylles:
+
+1. virksomheten kan dokumentere at fornøyelsesinnretningen holder et tilsvarende sikkerhetsnivå som en anerkjent standard
+2. fornøyelsesinnretningen tilfredsstiller kravene i utkastet til en internasjonal standard.
 
 Statens jernbanetilsyn kan kreve at virksomheten bruker et uavhengig organ til å verifisere at den nødvendige sikkerheten er ivaretatt, og kan kreve at virksomheten betaler for dette. Statens jernbanetilsyn kan kreve at det uavhengige organet skal være akkreditert.
 
@@ -120,7 +130,19 @@ Sikkerhetsstyringssystemet skal være dokumentert og kjent av alt driftspersonel
 
 Sikkerhetsstyringssystemet skal være tilpasset arten og omfanget av den aktuelle virksomheten og skal inneholde bestemmelsene som er nødvendige for å ha kontroll på risikoene forbundet med virksomheten.
 
-I sikkerhetsstyringssystemet skal virksomheten minst beskrivehvem som har myndighet til å fatte beslutninger av betydning for sikkerhetensystemet for avvikshåndteringhvordan jevnlige risikovurderinger og de tilhørende handlingsplanene skal gjennomføresinstrukser forsikker drift av fornøyelsesinnretningenkontroll av fornøyelsesinnretningenvedlikehold av fornøyelsesinnretningenkompetanse- og opplæringskrav for driftspersonellet, inkludert krav til førstehjelps- og redningskompetanseberedskapsplaner for nødsituasjoner og andre situasjoner som kan true sikkerhetendokumentasjon som inneholder oversikt over tekniske data og driftsdata, journaler over reparasjoner, ombygginger, undersøkelser, prøvinger og kontroller, og rapporter fra disse.
+I sikkerhetsstyringssystemet skal virksomheten minst beskrive
+
+1. hvem som har myndighet til å fatte beslutninger av betydning for sikkerheten
+2. systemet for avvikshåndtering
+3. hvordan jevnlige risikovurderinger og de tilhørende handlingsplanene skal gjennomføres
+4. instrukser for
+
+   1. sikker drift av fornøyelsesinnretningen
+   2. kontroll av fornøyelsesinnretningen
+   3. vedlikehold av fornøyelsesinnretningen
+5. kompetanse- og opplæringskrav for driftspersonellet, inkludert krav til førstehjelps- og redningskompetanse
+6. beredskapsplaner for nødsituasjoner og andre situasjoner som kan true sikkerheten
+7. dokumentasjon som inneholder oversikt over tekniske data og driftsdata, journaler over reparasjoner, ombygginger, undersøkelser, prøvinger og kontroller, og rapporter fra disse.
 
 ### § 2-12. Krav til risikovurderinger og instrukser
 
@@ -130,9 +152,17 @@ Instrukser for sikker drift, kontroll og vedlikehold skal utarbeides på grunnla
 
 ### § 2-13. Krav til beredskapsplanen
 
-Beredskapsplanen skal minst inneholdeintern og ekstern varslingslisteoversikt over førstehjelps- og redningsutstyr og hvor det er plassert.
+Beredskapsplanen skal minst inneholde
 
-Beredskapsplaner for fornøyelsesinnretninger der selvberging ikke er mulig på grunn av høyde, eller der det av andre årsaker er vanskelig, skal i tillegg inneholdeen detaljert redningsplanrutiner for å planlegge og gjennomføre regelmessige redningsøvelserrutiner for å evaluere og følge opp redningsøvelseneoversikt over kommunikasjonsutstyr og utstyr for evakuering eller nedfiring for personer og hvor utstyret er plassert.
+1. intern og ekstern varslingsliste
+2. oversikt over førstehjelps- og redningsutstyr og hvor det er plassert.
+
+Beredskapsplaner for fornøyelsesinnretninger der selvberging ikke er mulig på grunn av høyde, eller der det av andre årsaker er vanskelig, skal i tillegg inneholde
+
+1. en detaljert redningsplan
+2. rutiner for å planlegge og gjennomføre regelmessige redningsøvelser
+3. rutiner for å evaluere og følge opp redningsøvelsene
+4. oversikt over kommunikasjonsutstyr og utstyr for evakuering eller nedfiring for personer og hvor utstyret er plassert.
 
 ### § 2-14. Utleie av fornøyelsesinnretninger
 
@@ -268,15 +298,42 @@ Opplysninger som tilsynsmyndigheten mottar i medhold av [tivoliloven § 10](lov/
 
 ### § 6-3. Vilkår for å kunne vedta overtredelsesgebyr
 
-Tilsynsmyndigheten kan ilegge overtredelsesgebyr til en virksomhet som forsettlig eller uaktsomt overtrer plikter etter [tivoliloven](lov/2017-05-22-30) eller denne forskriften, eller individuelle avgjørelser i medhold av [tivoliloven](lov/2017-05-22-30) eller denne forskriften, særlig[tivoliloven § 5](lov/2017-05-22-30/§5) om virksomhetens plikter[tivoliloven § 7](lov/2017-05-22-30/§7) om plikt til sikkerhetsstyringssystem (internkontrollsystem)[tivoliloven § 9](lov/2017-05-22-30/§9) om varslingspliktpålegg i medhold av [tivoliloven § 16](lov/2017-05-22-30/§16) om øyeblikkelig stans eller opphør av bruk[tivoliloven § 24](lov/2017-05-22-30/§24) om fjerning av fornøyelsesinnretning[tivoliforskriften § 2-11](forskrift/2022-12-21-2431/§2-11) om krav til sikkerhetsstyringssystem[tivoliforskriften § 2-13](forskrift/2022-12-21-2431/§2-13) om krav til beredskapsplaner[tivoliforskriften § 3-1](forskrift/2022-12-21-2431/§3-1) om generelle krav til driftspersonellet[tivoliforskriften § 3-2](forskrift/2022-12-21-2431/§3-2) om bemanningskrav for fornøyelsesinnretningen[tivoliforskriften § 3-3](forskrift/2022-12-21-2431/§3-3) om driftspersonellets oppgaver[tivoliforskriften § 3-4](forskrift/2022-12-21-2431/§3-4) om driftsrutiner[tivoliforskriften § 3-5](forskrift/2022-12-21-2431/§3-5) om kontroll og vedlikehold[tivoliforskriften § 3-6](forskrift/2022-12-21-2431/§3-6) om driftskontroll[tivoliforskriften § 3-7](forskrift/2022-12-21-2431/§3-7) om skilting.
+Tilsynsmyndigheten kan ilegge overtredelsesgebyr til en virksomhet som forsettlig eller uaktsomt overtrer plikter etter [tivoliloven](lov/2017-05-22-30) eller denne forskriften, eller individuelle avgjørelser i medhold av [tivoliloven](lov/2017-05-22-30) eller denne forskriften, særlig
+
+1. [tivoliloven § 5](lov/2017-05-22-30/§5) om virksomhetens plikter
+2. [tivoliloven § 7](lov/2017-05-22-30/§7) om plikt til sikkerhetsstyringssystem (internkontrollsystem)
+3. [tivoliloven § 9](lov/2017-05-22-30/§9) om varslingsplikt
+4. pålegg i medhold av [tivoliloven § 16](lov/2017-05-22-30/§16) om øyeblikkelig stans eller opphør av bruk
+5. [tivoliloven § 24](lov/2017-05-22-30/§24) om fjerning av fornøyelsesinnretning
+6. [tivoliforskriften § 2-11](forskrift/2022-12-21-2431/§2-11) om krav til sikkerhetsstyringssystem
+7. [tivoliforskriften § 2-13](forskrift/2022-12-21-2431/§2-13) om krav til beredskapsplaner
+8. [tivoliforskriften § 3-1](forskrift/2022-12-21-2431/§3-1) om generelle krav til driftspersonellet
+9. [tivoliforskriften § 3-2](forskrift/2022-12-21-2431/§3-2) om bemanningskrav for fornøyelsesinnretningen
+10. [tivoliforskriften § 3-3](forskrift/2022-12-21-2431/§3-3) om driftspersonellets oppgaver
+11. [tivoliforskriften § 3-4](forskrift/2022-12-21-2431/§3-4) om driftsrutiner
+12. [tivoliforskriften § 3-5](forskrift/2022-12-21-2431/§3-5) om kontroll og vedlikehold
+13. [tivoliforskriften § 3-6](forskrift/2022-12-21-2431/§3-6) om driftskontroll
+14. [tivoliforskriften § 3-7](forskrift/2022-12-21-2431/§3-7) om skilting.
 
 > Tilføyd ved forskrift [8 des 2025 nr. 2456](forskrift/2025-12-08-2456) (i kraft 1 jan 2026).
 
 ### § 6-4. Momenter ved vurdering av ileggelse og utmåling av overtredelsesgebyr
 
-Når tilsynsmyndigheten avgjør om et overtredelsesgebyr skal ilegges, og gebyrets størrelse, skal den særlig legge vekt påovertredelsens grovhet og omfangom overtrederen kunne ha forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltakom overtredelsen er gjentattom overtrederen har eller kunne ha oppnådd noen fordel ved overtredelsenovertrederens økonomiske evne.
+Når tilsynsmyndigheten avgjør om et overtredelsesgebyr skal ilegges, og gebyrets størrelse, skal den særlig legge vekt på
 
-Ved vurderingen etter første ledd kan tilsynsmyndigheten også ta hensyn tilom noen som handler på vegne av foretaket, har utvist skyldsanksjonens preventive virkningom overtredelsen er begått for å fremme foretakets interesserom andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av det, blant annet om noen enkeltperson blir ilagt administrativ sanksjon eller straffom overenskomst med fremmed stat eller internasjonal organisasjon forutsetter bruk av administrativ foretakssanksjon eller foretaksstraff.
+1. overtredelsens grovhet og omfang
+2. om overtrederen kunne ha forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak
+3. om overtredelsen er gjentatt
+4. om overtrederen har eller kunne ha oppnådd noen fordel ved overtredelsen
+5. overtrederens økonomiske evne.
+
+Ved vurderingen etter første ledd kan tilsynsmyndigheten også ta hensyn til
+
+1. om noen som handler på vegne av foretaket, har utvist skyld
+2. sanksjonens preventive virkning
+3. om overtredelsen er begått for å fremme foretakets interesser
+4. om andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av det, blant annet om noen enkeltperson blir ilagt administrativ sanksjon eller straff
+5. om overenskomst med fremmed stat eller internasjonal organisasjon forutsetter bruk av administrativ foretakssanksjon eller foretaksstraff.
 
 > Tilføyd ved forskrift [8 des 2025 nr. 2456](forskrift/2025-12-08-2456) (i kraft 1 jan 2026).
 

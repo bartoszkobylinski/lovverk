@@ -28,7 +28,9 @@ Formålet med forskriften er å fastsette en standard for rovdyravvisende gjerde
 
 ## § 2. Definisjoner
 
-I denne forskrift forstås med*Rovdyravvisende gjerde:* Elektriske gjerder som hindrer at rovdyr får tilgang til arealer med produksjonsdyr eller hund, og som gir adgang til felling av rovdyr i samsvar med [naturmangfoldloven § 17a](lov/2009-06-19-100/§17a).
+I denne forskrift forstås med
+
+*Rovdyravvisende gjerde:* Elektriske gjerder som hindrer at rovdyr får tilgang til arealer med produksjonsdyr eller hund, og som gir adgang til felling av rovdyr i samsvar med [naturmangfoldloven § 17a](lov/2009-06-19-100/§17a).
 
 ## § 3. Krav til rovdyravvisende gjerde
 

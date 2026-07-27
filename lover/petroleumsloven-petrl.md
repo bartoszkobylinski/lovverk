@@ -15,7 +15,7 @@ xml_hash: "beca4059e1ab6bb79184529f7c327731a081daaa2b5f5a3568da00a232c4b1a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "31994L0022"
@@ -64,7 +64,23 @@ Annen norsk rett gjelder likevel ikke for andre flyttbare innretninger under fre
 
 ### § 1-6. Definisjoner
 
-I denne lov forstås med:petroleum, alle flytende og gassformige hydrokarboner som finnes i naturlig tilstand i undergrunnen, samt andre stoffer som utvinnes i forbindelse med slike hydrokarboner.petroleumsforekomst, en ansamling av petroleum i en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller stratigrafiske grenser, kontaktflate mellom petroleum og vann i formasjonen, eller en kombinasjon av disse, slik at den petroleum som omfattes overalt er i trykkommunikasjon gjennom væske eller gass. Departementet bestemmer i tvilstilfelle hva som skal anses å være en petroleumsforekomst.petroleumsvirksomhet, all virksomhet knyttet til undersjøiske petroleumsforekomster, herunder undersøkelse, leteboring, utvinning, transport, utnyttelse og avslutning samt planlegging av slike aktiviteter, likevel ikke transport av petroleum i bulk med skip.innretning, installasjon, anlegg og annet utstyr for petroleumsvirksomhet, likevel ikke forsynings- og hjelpefartøy eller skip som transporterer petroleum i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt.undersøkelse, geologiske, petrofysiske, geofysiske, geokjemiske og geotekniske aktiviteter, herunder grunne boringer, samt drift og bruk av innretning i den utstrekning den anvendes til undersøkelse.leteboring, boring av undersøkelses- og avgrensningsbrønner, samt drift og bruk av innretning i den utstrekning den anvendes til leteboring.utvinning, produksjon av petroleum, herunder boring av utvinningsbrønner, injisering, assistert utvinning, behandling og lagring av petroleum for transport, og avskipning av petroleum for transport med skip, samt bygging, plassering, drift og bruk av innretning for utvinning.transport, skipning av petroleum i rørledning samt bygging, plassering, drift og bruk av innretning for transport.utnyttelse, nedkjøling for å gjøre gass flytende, raffinering og petrokjemisk virksomhet, produksjon og overføring av elektrisk kraft og annen anvendelse av utvunnet petroleum, lagring av petroleum samt bygging, plassering, drift og bruk av innretning for utnyttelse.rettighetshaver, fysisk eller juridisk person, eller flere slike personer, som etter loven her eller tidligere lovgivning innehar en tillatelse til undersøkelse, utvinning, transport eller utnyttelse. Er en tillatelse gitt til flere slike personer sammen kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltager.operatør, den som på rettighetshavers vegne forestår den daglige ledelse av petroleumsvirksomheten.kontinentalsokkelen, Norges kontinentalsokkel som fastsatt i [lov 18. juni 2021 nr. 89](lov/2021-06-18-89).Oppstrøms gassrørledningsnett, enhver gassrørledning eller ethvert gassrørledningsnett som drives eller opprettes innenfor rammen av et olje- eller gassproduksjonsprosjekt, eller som brukes for å overføre naturgass fra ett eller flere produksjonsanlegg av denne typen, til et behandlingsanlegg, en terminal eller en endelig ilandføringsterminal. De deler av slike nett og anlegg som brukes til lokal produksjonsvirksomhet ved en forekomst der naturgassen produseres, anses ikke som oppstrøms gassrørledningsnett.Naturgassforetak, enhver fysisk eller juridisk person som ivaretar minst én av følgende funksjoner: produksjon, overføring, distribusjon, forsyning, innkjøp eller lagring av naturgass, herunder nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige og tekniske oppgaver eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder,kvalifiserte kunder, alle kunder hjemmehørende i en EØS-stat, unntatt husholdningskunder. Fra og med 1. juli 2007 alle kunder.
+I denne lov forstås med:
+
+1. petroleum, alle flytende og gassformige hydrokarboner som finnes i naturlig tilstand i undergrunnen, samt andre stoffer som utvinnes i forbindelse med slike hydrokarboner.
+2. petroleumsforekomst, en ansamling av petroleum i en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller stratigrafiske grenser, kontaktflate mellom petroleum og vann i formasjonen, eller en kombinasjon av disse, slik at den petroleum som omfattes overalt er i trykkommunikasjon gjennom væske eller gass. Departementet bestemmer i tvilstilfelle hva som skal anses å være en petroleumsforekomst.
+3. petroleumsvirksomhet, all virksomhet knyttet til undersjøiske petroleumsforekomster, herunder undersøkelse, leteboring, utvinning, transport, utnyttelse og avslutning samt planlegging av slike aktiviteter, likevel ikke transport av petroleum i bulk med skip.
+4. innretning, installasjon, anlegg og annet utstyr for petroleumsvirksomhet, likevel ikke forsynings- og hjelpefartøy eller skip som transporterer petroleum i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt.
+5. undersøkelse, geologiske, petrofysiske, geofysiske, geokjemiske og geotekniske aktiviteter, herunder grunne boringer, samt drift og bruk av innretning i den utstrekning den anvendes til undersøkelse.
+6. leteboring, boring av undersøkelses- og avgrensningsbrønner, samt drift og bruk av innretning i den utstrekning den anvendes til leteboring.
+7. utvinning, produksjon av petroleum, herunder boring av utvinningsbrønner, injisering, assistert utvinning, behandling og lagring av petroleum for transport, og avskipning av petroleum for transport med skip, samt bygging, plassering, drift og bruk av innretning for utvinning.
+8. transport, skipning av petroleum i rørledning samt bygging, plassering, drift og bruk av innretning for transport.
+9. utnyttelse, nedkjøling for å gjøre gass flytende, raffinering og petrokjemisk virksomhet, produksjon og overføring av elektrisk kraft og annen anvendelse av utvunnet petroleum, lagring av petroleum samt bygging, plassering, drift og bruk av innretning for utnyttelse.
+10. rettighetshaver, fysisk eller juridisk person, eller flere slike personer, som etter loven her eller tidligere lovgivning innehar en tillatelse til undersøkelse, utvinning, transport eller utnyttelse. Er en tillatelse gitt til flere slike personer sammen kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltager.
+11. operatør, den som på rettighetshavers vegne forestår den daglige ledelse av petroleumsvirksomheten.
+12. kontinentalsokkelen, Norges kontinentalsokkel som fastsatt i [lov 18. juni 2021 nr. 89](lov/2021-06-18-89).
+13. Oppstrøms gassrørledningsnett, enhver gassrørledning eller ethvert gassrørledningsnett som drives eller opprettes innenfor rammen av et olje- eller gassproduksjonsprosjekt, eller som brukes for å overføre naturgass fra ett eller flere produksjonsanlegg av denne typen, til et behandlingsanlegg, en terminal eller en endelig ilandføringsterminal. De deler av slike nett og anlegg som brukes til lokal produksjonsvirksomhet ved en forekomst der naturgassen produseres, anses ikke som oppstrøms gassrørledningsnett.
+14. Naturgassforetak, enhver fysisk eller juridisk person som ivaretar minst én av følgende funksjoner: produksjon, overføring, distribusjon, forsyning, innkjøp eller lagring av naturgass, herunder nedkjølt flytende naturgass (LNG), og som har ansvar for de forretningsmessige og tekniske oppgaver eller vedlikehold tilknyttet disse funksjonene, med unntak av sluttkunder,
+15. kvalifiserte kunder, alle kunder hjemmehørende i en EØS-stat, unntatt husholdningskunder. Fra og med 1. juli 2007 alle kunder.
 
 > Endret ved [lover 28 juni 2002 nr. 61](lov/2002-06-28-61) (ikr. 1 aug 2002 iflg. [res. 28 juni 2002 nr. 654](forskrift/2002-06-28-654)), [30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), [18 juni 2021 nr. 89](lov/2021-06-18-89) (ikr. 18 juni 2021 iflg. [res. 18 juni 2021 nr. 2009](forskrift/2021-06-18-2009)).
 
@@ -472,7 +488,12 @@ Ved forurensningsskade fra innretning på område utenfor norsk kontinentalsokke
 
 Erstatningsansvar mot rettighetshaver for forurensningsskade kan bare gjøres gjeldende etter reglene i denne lov.
 
-Ansvar for forurensningsskade kan ikke gjøres gjeldende mot:den som ifølge avtale med rettighetshaver eller dennes medkontrahent har utført oppdrag eller arbeid i forbindelse med petroleumsvirksomheten.den som har tilvirket eller levert utstyr til bruk under petroleumsvirksomheten.den som iverksetter tiltak for å avverge eller begrense forurensningsskade, eller for å redde liv eller berge verdier som er kommet i fare i forbindelse med petroleumsvirksomheten, med mindre tiltaket utføres i strid med forbud nedlagt av offentlig myndighet eller utføres av annen enn offentlig myndighet til tross for uttrykkelig forbud av operatør eller eier av de truede verdier.den som er ansatt hos rettighetshaver eller hos noen som nevnt under a, b eller c.
+Ansvar for forurensningsskade kan ikke gjøres gjeldende mot:
+
+1. den som ifølge avtale med rettighetshaver eller dennes medkontrahent har utført oppdrag eller arbeid i forbindelse med petroleumsvirksomheten.
+2. den som har tilvirket eller levert utstyr til bruk under petroleumsvirksomheten.
+3. den som iverksetter tiltak for å avverge eller begrense forurensningsskade, eller for å redde liv eller berge verdier som er kommet i fare i forbindelse med petroleumsvirksomheten, med mindre tiltaket utføres i strid med forbud nedlagt av offentlig myndighet eller utføres av annen enn offentlig myndighet til tross for uttrykkelig forbud av operatør eller eier av de truede verdier.
+4. den som er ansatt hos rettighetshaver eller hos noen som nevnt under a, b eller c.
 
 Dersom rettighetshaver er idømt erstatningsansvar for forurensningsskade, men ikke betaler innen den tid dommen fastsetter, kan skadelidte gå på skadevolder i samme utstrekning som rettighetshaver kan gå på skadevolder i regressomgangen, jf. [§ 7-5](lov/1996-11-29-72/§7-5).
 
@@ -506,7 +527,12 @@ Med departementets samtykke kan eventuelle fordringshavere innkalles ved proklam
 
 Søksmål om erstatning for forurensningsskade skal reises i den rettskrets der utstrømming eller utslipp av petroleum har funnet sted eller hvor skade er voldt.
 
-Departementet bestemmer hvor søksmål skal reises dersom:utstrømmingen eller utslippet har funnet sted eller skade er voldt utenfor området for noen rettskrets.det ikke kan påvises innen hvilken rettskrets utstrømmingen eller utslippet har funnet sted eller skade er voldt.utstrømmingen eller utslippet har funnet sted i en rettskrets og skade er voldt i en annen rettskrets.skade er voldt i mer enn en rettskrets.
+Departementet bestemmer hvor søksmål skal reises dersom:
+
+1. utstrømmingen eller utslippet har funnet sted eller skade er voldt utenfor området for noen rettskrets.
+2. det ikke kan påvises innen hvilken rettskrets utstrømmingen eller utslippet har funnet sted eller skade er voldt.
+3. utstrømmingen eller utslippet har funnet sted i en rettskrets og skade er voldt i en annen rettskrets.
+4. skade er voldt i mer enn en rettskrets.
 
 ## Kapittel 8. Særlige regler om erstatning til norske fiskere
 
@@ -824,7 +850,13 @@ Styret kan engasjere forretningsførere til å utføre forvalteroppgavene i det 
 
 ### § 11-7. Styrets foreleggelsesplikt
 
-Styret skal forelegge følgende saker for generalforsamlingen:planer for kommende år, samt perspektiver på mellomlang sikt og vesentlige endringer i noen av disse,planer om prosjekter av vesentlig betydning for statens deltakelse i virksomhet etter loven her,hovedtrekk i budsjetter for kommende år,prinsipper for engasjement av forretningsførere,årsberetning og årsregnskap for statens deltakerandeler som nevnt i [§ 11-8](lov/1996-11-29-72/§11-8).
+Styret skal forelegge følgende saker for generalforsamlingen:
+
+1. planer for kommende år, samt perspektiver på mellomlang sikt og vesentlige endringer i noen av disse,
+2. planer om prosjekter av vesentlig betydning for statens deltakelse i virksomhet etter loven her,
+3. hovedtrekk i budsjetter for kommende år,
+4. prinsipper for engasjement av forretningsførere,
+5. årsberetning og årsregnskap for statens deltakerandeler som nevnt i [§ 11-8](lov/1996-11-29-72/§11-8).
 
 Styret skal i tillegg forelegge for generalforsamlingen alle saker som må antas å ha prinsipielle eller politiske sider av betydning eller som kan få vesentlige samfunnsøkonomiske eller samfunnsmessige virkninger.
 
@@ -874,7 +906,9 @@ Forskrifter gitt i medhold av tidligere [lov av 21. juni 1963 nr. 12](lov/1963-0
 
 > Endret ved [lover 25 juni 1999 nr. 54](lov/1999-06-25-54) (ikr. 1 juli 1999 iflg. [res. 25 juni 1999 nr. 705](forskrift/1999-06-25-705)), [18 mai 2001 nr. 23](lov/2001-05-18-23) (ikr. 17 juni 2001 iflg. [vedtak 15 juni 2001 nr. 636](forskrift/2001-06-15-636)), tidligere § 11-1.
 
-1 Fra 1 juli 1997 iflg. [res. 27 juni 1997 nr. 640](forskrift/1997-06-27-640).2 Inkurie: Nå [§ 4-10](lov/1996-11-29-72/§4-10).
+1 Fra 1 juli 1997 iflg. [res. 27 juni 1997 nr. 640](forskrift/1997-06-27-640).
+
+2 Inkurie: Nå [§ 4-10](lov/1996-11-29-72/§4-10).
 
 ### § 12-2. Opphevelse og endring av lover
 

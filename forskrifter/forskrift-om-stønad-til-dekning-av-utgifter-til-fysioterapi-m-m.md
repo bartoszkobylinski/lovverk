@@ -32,7 +32,11 @@ Det ytes stønad til fysioterapi ved sykdom, skade eller lyte. Behandlingen må 
 
 ### § 3
 
-Utgifter til fysioterapi dekkes bare hvis den som gir behandlingenhar autorisasjon som fysioterapeut etter [lov 2. juli 1999 nr. 64 om helsepersonell m.v. § 48](lov/1999-07-02-64/§48)har godkjenning etter tidligere regelverk, jf. [helsepersonelloven § 76](lov/1999-07-02-64/§76) annet ledd, ellerer fysioterapeut fra et annet EØS-land og yter midlertidig tjeneste i Norge, jf. [forskrift 8. oktober 2008 nr. 1130 om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits](forskrift/2008-10-08-1130).
+Utgifter til fysioterapi dekkes bare hvis den som gir behandlingen
+
+1. har autorisasjon som fysioterapeut etter [lov 2. juli 1999 nr. 64 om helsepersonell m.v. § 48](lov/1999-07-02-64/§48)
+2. har godkjenning etter tidligere regelverk, jf. [helsepersonelloven § 76](lov/1999-07-02-64/§76) annet ledd, eller
+3. er fysioterapeut fra et annet EØS-land og yter midlertidig tjeneste i Norge, jf. [forskrift 8. oktober 2008 nr. 1130 om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits](forskrift/2008-10-08-1130).
 
 ### § 4. (Opphevet)
 
@@ -134,7 +138,11 @@ Fysioterapeut som er under masterutdanning i manuellterapi eller godkjent tilsva
 
 *Merknad A5*
 
-Det er et vilkår for rett til stønad at behandlingen utføres av fysioterapeut som:har bestått eksamen i klinisk masterstudium i psykomotorisk fysioterapi (120 studiepoeng) eller tilsvarende utdanning, og har gjennomført 20 timer egenbehandling hos fysioterapeut med rett til å utløse takst A9 ellerhar bestått eksamen i videreutdanning i psykomotorisk fysioterapi ved OsloMet (60 studiepoeng) og i tillegg bestått eksamen i masterstudium som er relevant for fagfeltet psykomotorisk fysioterapi (120 studiepoeng), og har gjennomført 20 timer egenbehandling hos fysioterapeut med rett til å utløse takst A9 ellerhar godkjenning for bruk av takst A9 per 31. desember 2015. Retten gjelder i en overgangsperiode til og med 31. desember 2026. Fysioterapeut som har godkjenning fra Norsk Fysioterapeutforbund per 31. desember 2015 og får registrert retten til å utløse A9 i Helsepersonellregisteret innen 31. desember 2026, beholder retten til å utløse takst A9.
+Det er et vilkår for rett til stønad at behandlingen utføres av fysioterapeut som:
+
+1. har bestått eksamen i klinisk masterstudium i psykomotorisk fysioterapi (120 studiepoeng) eller tilsvarende utdanning, og har gjennomført 20 timer egenbehandling hos fysioterapeut med rett til å utløse takst A9 eller
+2. har bestått eksamen i videreutdanning i psykomotorisk fysioterapi ved OsloMet (60 studiepoeng) og i tillegg bestått eksamen i masterstudium som er relevant for fagfeltet psykomotorisk fysioterapi (120 studiepoeng), og har gjennomført 20 timer egenbehandling hos fysioterapeut med rett til å utløse takst A9 eller
+3. har godkjenning for bruk av takst A9 per 31. desember 2015. Retten gjelder i en overgangsperiode til og med 31. desember 2026. Fysioterapeut som har godkjenning fra Norsk Fysioterapeutforbund per 31. desember 2015 og får registrert retten til å utløse A9 i Helsepersonellregisteret innen 31. desember 2026, beholder retten til å utløse takst A9.
 
 Taksten kan utløses fra den dato tilleggskompetansen er registrert i Helsepersonellregisteret.
 
@@ -142,13 +150,21 @@ Fysioterapeut som har rett til refusjon som utdanningskandidat i forbindelse med
 
 *Merknad A6*
 
-Taksten kan kreves for pasienter i et pågående behandlingsforløp når følgende vilkår er oppfylt:egentrening på klinikken er nødvendig som ledd i behandlingsoppleggetklinikken har treningssal som er egnet for egentreningkvalifisert personell er tilgjengelig på klinikken for å ivareta pasientenes sikkerhet.
+Taksten kan kreves for pasienter i et pågående behandlingsforløp når følgende vilkår er oppfylt:
+
+- egentrening på klinikken er nødvendig som ledd i behandlingsopplegget
+- klinikken har treningssal som er egnet for egentrening
+- kvalifisert personell er tilgjengelig på klinikken for å ivareta pasientenes sikkerhet.
 
 Taksten kan benyttes inntil 5 ganger mellom to undersøkelser/behandlinger. Taksten kan ikke benyttes mer enn én gang samme dag. Fysioterapeuten må dokumentere målet med egentreningen i journal, og justere treningsopplegget ved behov. Fysioterapeuten må ikke dokumentere hver gang A10 utløses, men ved oppstart og i forbindelse med individuelle undersøkelser/behandlinger/gruppebehandlinger.
 
 *Merknad A7*
 
-Rett til å utløse takst A7a og A7b har fysioterapeut som:har bestått eksamen i klinisk masterstudium i fysioterapi (120 studiepoeng) ved norsk universitet eller tilsvarende utdanning,har bestått eksamen i klinisk rettet masterstudium som er relevant for fysioterapeuter (120 studiepoeng) ved norsk universitet eller tilsvarende utdanning, og har gjennomført ett års klinisk praksis i forbindelse med masterstudiet eller etter bestått masterstudium, ellerhar godkjenning fra Norsk Fysioterapeutforbund for bruk av takst A2k per 31. desember 2024. Retten gjelder i en overgangsperiode til og med 31. desember 2026. Fysioterapeut som har godkjenning fra Norsk Fysioterapeutforbund per 31. desember 2024 og får registrert retten til å utløse A2k i Helsepersonellregisteret innen 31. desember 2026, beholder retten til å utløse takst A2k (A7a og A7b fra 1. juli 2025).
+Rett til å utløse takst A7a og A7b har fysioterapeut som:
+
+1. har bestått eksamen i klinisk masterstudium i fysioterapi (120 studiepoeng) ved norsk universitet eller tilsvarende utdanning,
+2. har bestått eksamen i klinisk rettet masterstudium som er relevant for fysioterapeuter (120 studiepoeng) ved norsk universitet eller tilsvarende utdanning, og har gjennomført ett års klinisk praksis i forbindelse med masterstudiet eller etter bestått masterstudium, eller
+3. har godkjenning fra Norsk Fysioterapeutforbund for bruk av takst A2k per 31. desember 2024. Retten gjelder i en overgangsperiode til og med 31. desember 2026. Fysioterapeut som har godkjenning fra Norsk Fysioterapeutforbund per 31. desember 2024 og får registrert retten til å utløse A2k i Helsepersonellregisteret innen 31. desember 2026, beholder retten til å utløse takst A2k (A7a og A7b fra 1. juli 2025).
 
 Søknad om å få rett til å utløse takst A7a og A7b behandles av Helsedirektoratet. Taksten kan utløses fra den dato tilleggskompetansen er registrert i Helsepersonellregisteret.
 
@@ -195,7 +211,11 @@ Det er ikke anledning til å kreve fakturagebyr for video- og telefonkonsultasjo
 
 *Merknad C1*
 
-Utgifter til behandling i grupper dekkes på følgende vilkår:Hver pasient må ha vært til individuell undersøkelse før oppstart av gruppebehandling.Fysioterapeuten må være til stede i hele behandlingstiden og følge opp hver pasient i gruppen.Lokaler og utstyr må være tilpasset antall pasienter i gruppen.
+Utgifter til behandling i grupper dekkes på følgende vilkår:
+
+1. Hver pasient må ha vært til individuell undersøkelse før oppstart av gruppebehandling.
+2. Fysioterapeuten må være til stede i hele behandlingstiden og følge opp hver pasient i gruppen.
+3. Lokaler og utstyr må være tilpasset antall pasienter i gruppen.
 
 Individuell undersøkelse etter punkt 1 kan være foretatt hos en annen fysioterapeut enn den som gjennomfører gruppebehandlingen. Det må dokumenteres hvilken fysioterapeut som har undersøkt, dato for undersøkelsen, resultatet av undersøkelsen og hvilke mål som er satt for behandlingen.
 

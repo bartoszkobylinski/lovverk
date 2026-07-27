@@ -30,17 +30,41 @@ Merverdiavgiftskompensasjonen skal brukes i den delen av virksomheten som er gru
 
 ## § 2. Definisjoner
 
-I denne forskriften menes med:*frivillig virksomhet:* aktiviteter som ikke er fortjenestebaserte, jf. [frivillighetsregisterloven § 3](lov/2007-06-29-88/§3)*sentralledd:* selvstendig juridisk enhet som organisatorisk eller gjennom vedtekter samordner regional- og/eller lokalledd med felles formål*regionalledd:* selvstendig juridisk enhet som organisatorisk eller gjennom vedtekter er tilknyttet et sentralledd, og som har knyttet til seg ett eller flere lokalledd*lokalledd:* selvstendig juridisk enhet på lokalt plan som organisatorisk eller gjennom vedtekter har tilknytning til et regionalledd- og eller sentralledd*underledd:* samlebetegnelse for regionalledd, lokalledd og aksjeselskap som inngår i søknaden*enkeltstående søker:* juridisk enhet som ikke er tilknyttet et sentralledd og som søker kompensasjon på selvstendig grunnlag*forenklet modell:* søknadsmodell der merverdiavgiftskompensasjon beregnes på grunnlag av totale driftskostnader etter avgrensning og fradrag*dokumentert modell:* søknadsmodell der merverdiavgiftskompensasjon beregnes på grunnlag av totale kompensasjonsberettigede merverdiavgiftskostnader*paraplyorganisasjon:* organisasjon som samler frivillige organisasjoner etter § 3 i denne forskriften for å ivareta felles mål, og som ikke er tilknyttet organisatorisk eller gjennom vedtektene*valgt revisor:* revisor valgt av årsmøtet, eller annet kompetent organ i henhold til organisasjonens vedtekter, og som ikke trenger å være statsautorisert revisor.
+I denne forskriften menes med:
+
+1. *frivillig virksomhet:* aktiviteter som ikke er fortjenestebaserte, jf. [frivillighetsregisterloven § 3](lov/2007-06-29-88/§3)
+2. *sentralledd:* selvstendig juridisk enhet som organisatorisk eller gjennom vedtekter samordner regional- og/eller lokalledd med felles formål
+3. *regionalledd:* selvstendig juridisk enhet som organisatorisk eller gjennom vedtekter er tilknyttet et sentralledd, og som har knyttet til seg ett eller flere lokalledd
+4. *lokalledd:* selvstendig juridisk enhet på lokalt plan som organisatorisk eller gjennom vedtekter har tilknytning til et regionalledd- og eller sentralledd
+5. *underledd:* samlebetegnelse for regionalledd, lokalledd og aksjeselskap som inngår i søknaden
+6. *enkeltstående søker:* juridisk enhet som ikke er tilknyttet et sentralledd og som søker kompensasjon på selvstendig grunnlag
+7. *forenklet modell:* søknadsmodell der merverdiavgiftskompensasjon beregnes på grunnlag av totale driftskostnader etter avgrensning og fradrag
+8. *dokumentert modell:* søknadsmodell der merverdiavgiftskompensasjon beregnes på grunnlag av totale kompensasjonsberettigede merverdiavgiftskostnader
+9. *paraplyorganisasjon:* organisasjon som samler frivillige organisasjoner etter § 3 i denne forskriften for å ivareta felles mål, og som ikke er tilknyttet organisatorisk eller gjennom vedtektene
+10. *valgt revisor:* revisor valgt av årsmøtet, eller annet kompetent organ i henhold til organisasjonens vedtekter, og som ikke trenger å være statsautorisert revisor.
 
 ## § 3. Organisasjoner som omfattes av ordningen
 
-Frivillige organisasjoner er omfattet av merverdiavgiftskompensasjonsordningen dersom disse er registrert i Frivillighetsregisteret, jf. [§§ 3](lov/2007-06-29-88/§3) og [4 i frivillighetsregisterloven](lov/2007-06-29-88/§4), avgrenset tildemokratiske ikke-økonomiske foreningertros- og livssynsorganisasjonerstiftelser.
+Frivillige organisasjoner er omfattet av merverdiavgiftskompensasjonsordningen dersom disse er registrert i Frivillighetsregisteret, jf. [§§ 3](lov/2007-06-29-88/§3) og [4 i frivillighetsregisterloven](lov/2007-06-29-88/§4), avgrenset til
+
+1. demokratiske ikke-økonomiske foreninger
+2. tros- og livssynsorganisasjoner
+3. stiftelser.
 
 Aksjeselskap som eies fullt ut av en eller flere frivillige organisasjoner som alle oppfyller vilkårene i forskriften, kan inngå som en del av søknadsgrunnlaget til eierorganisasjonen.
 
 ## § 4. Organisasjoner som ikke omfattes av ordningen
 
-Følgende organisasjoner kan ikke motta kompensasjon:fagforeningeryrkes-, nærings- og arbeidslivsorganisasjonerstudieforbundborettslagpartipolitiske organisasjoner med unntak av politiske partiers ungdomsorganisasjonerDen norske kirke, kirkelige fellesråd og menighetsrådorganisasjoner som er under konkursbehandlingorganisasjoner som er lukket ved at organisasjonene ikke er åpne for allmennheten hvor dette ellers hadde vært naturlig.
+Følgende organisasjoner kan ikke motta kompensasjon:
+
+1. fagforeninger
+2. yrkes-, nærings- og arbeidslivsorganisasjoner
+3. studieforbund
+4. borettslag
+5. partipolitiske organisasjoner med unntak av politiske partiers ungdomsorganisasjoner
+6. Den norske kirke, kirkelige fellesråd og menighetsråd
+7. organisasjoner som er under konkursbehandling
+8. organisasjoner som er lukket ved at organisasjonene ikke er åpne for allmennheten hvor dette ellers hadde vært naturlig.
 
 ## § 5. Krav til frivillig innsats
 
@@ -72,19 +96,41 @@ Dersom Stortingets bevilgning for det enkelte år ikke rekker til full kompensas
 
 ## § 7. Avgrensninger for kostnader og virksomhet som ikke er kompensasjonsberettiget
 
-Alle søkere og underledd skal avgrense for følgende kostnader og virksomhet som ikke er kompensasjonsberettiget i ordningen:ny-, på- og ombyggingskostnader for bygg, anlegg eller annen fast eiendom som ikke anses som drifts- og vedlikeholdskostnaderkostnadsførte avskrivninger og nedskrivninger på aktiverte kostnader for bygg, anlegg eller annen fast eiendomkostnader knyttet til anleggsprosjekter som omfattes av ordningen for kompensasjon av merverdiavgift ved bygging av idrettsanleggøvrige kostnader eller anskaffelser som faller utenfor den frivillige og ikke- fortjenestebaserte delen av virksomhetenvirksomhet som kommer en lukket krets til godevirksomhet som gir privatøkonomiske fordeler eller dekker det som normalt anses for å være kostnader av privat karaktervirksomhet som kommer næringsinteresser til godevirksomhet som det offentlige er pålagt å utføre eller tilby i lovvirksomhet knyttet til tjenestekjøp etter anskaffelsesregelverket og andre tjenestetilbud utført på oppdrag fra det offentligevirksomhet som er organisert av eller med tilknytning til det offentlige, gjennom at det offentlige kan oppnevne styremedlemmer eller på annen måte har en sterk grad av involvering i driften for å oppnå spesifikke måløkonomisk virksomhet og hvor kompensasjon til denne virksomheten er i strid med [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte.
+Alle søkere og underledd skal avgrense for følgende kostnader og virksomhet som ikke er kompensasjonsberettiget i ordningen:
+
+1. ny-, på- og ombyggingskostnader for bygg, anlegg eller annen fast eiendom som ikke anses som drifts- og vedlikeholdskostnader
+2. kostnadsførte avskrivninger og nedskrivninger på aktiverte kostnader for bygg, anlegg eller annen fast eiendom
+3. kostnader knyttet til anleggsprosjekter som omfattes av ordningen for kompensasjon av merverdiavgift ved bygging av idrettsanlegg
+4. øvrige kostnader eller anskaffelser som faller utenfor den frivillige og ikke- fortjenestebaserte delen av virksomheten
+5. virksomhet som kommer en lukket krets til gode
+6. virksomhet som gir privatøkonomiske fordeler eller dekker det som normalt anses for å være kostnader av privat karakter
+7. virksomhet som kommer næringsinteresser til gode
+8. virksomhet som det offentlige er pålagt å utføre eller tilby i lov
+9. virksomhet knyttet til tjenestekjøp etter anskaffelsesregelverket og andre tjenestetilbud utført på oppdrag fra det offentlige
+10. virksomhet som er organisert av eller med tilknytning til det offentlige, gjennom at det offentlige kan oppnevne styremedlemmer eller på annen måte har en sterk grad av involvering i driften for å oppnå spesifikke mål
+11. økonomisk virksomhet og hvor kompensasjon til denne virksomheten er i strid med [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte.
 
 Dersom det ikke er enkelt å kontrollere avgrensningene mot regnskapet skal det utarbeides dokumentasjon på hvordan avgrensningene er vurdert og beregnet.
 
 ## § 8. Særlige fradrag i forenklet modell
 
-Søkere og underledd som har 7 millioner kroner eller mer i totale driftskostnader skal i tillegg gjøre fradrag for følgende kostnader:overføringer til egen organisasjon og samarbeidspartnere i utlandet, lønnskostnader til personell stasjonert i utlandet samt øvrige kostnader i utlandetdrifts- og vedlikeholdskostnader som gjelder utleie av bygg, anlegg eller annen fast eiendomtotale driftskostnader, inklusive ikke merverdiavgiftsbelagte kostnader, knyttet til den merverdiavgiftspliktige delen av virksomhetenoverføringer til andre organisasjoner, og mellom ledd i samme organisasjontotale driftskostnader knyttet til virksomhet som er kompensasjonsberettiget gjennom [merverdiavgiftskompensasjonsloven](lov/2003-12-12-108) for kommuner, fylkeskommuner mv.
+Søkere og underledd som har 7 millioner kroner eller mer i totale driftskostnader skal i tillegg gjøre fradrag for følgende kostnader:
+
+1. overføringer til egen organisasjon og samarbeidspartnere i utlandet, lønnskostnader til personell stasjonert i utlandet samt øvrige kostnader i utlandet
+2. drifts- og vedlikeholdskostnader som gjelder utleie av bygg, anlegg eller annen fast eiendom
+3. totale driftskostnader, inklusive ikke merverdiavgiftsbelagte kostnader, knyttet til den merverdiavgiftspliktige delen av virksomheten
+4. overføringer til andre organisasjoner, og mellom ledd i samme organisasjon
+5. totale driftskostnader knyttet til virksomhet som er kompensasjonsberettiget gjennom [merverdiavgiftskompensasjonsloven](lov/2003-12-12-108) for kommuner, fylkeskommuner mv.
 
 Dersom det ikke er enkelt å kontrollere fradragspostene mot regnskapet skal det utarbeides dokumentasjon på hvordan fradragspostene er vurdert og beregnet.
 
 ## § 9. Særlige fradrag i dokumentert modell
 
-Søkere og underledd skal i tillegg gjøre fradrag for følgende kostnader:kostnader og investeringer til merverdiavgiftspliktig del av virksomhetendrifts- og vedlikeholdskostnader som gjelder utleie av bygg, anlegg eller annen fast eiendommerverdiavgiftskostnader som er kompensasjonsberettiget gjennom [merverdiavgiftskompensasjonsloven](lov/2003-12-12-108) for kommuner, fylkeskommuner mv.
+Søkere og underledd skal i tillegg gjøre fradrag for følgende kostnader:
+
+1. kostnader og investeringer til merverdiavgiftspliktig del av virksomheten
+2. drifts- og vedlikeholdskostnader som gjelder utleie av bygg, anlegg eller annen fast eiendom
+3. merverdiavgiftskostnader som er kompensasjonsberettiget gjennom [merverdiavgiftskompensasjonsloven](lov/2003-12-12-108) for kommuner, fylkeskommuner mv.
 
 Dersom det ikke er enkelt å kontrollere fradragspostene mot regnskapet skal det utarbeides dokumentasjon på hvordan fradragspostene er vurdert og beregnet.
 
@@ -120,7 +166,14 @@ Aksjeselskap skal sende sentralleddet et egenerklæringsskjema som dokumenterer 
 
 Søknad om merverdiavgiftskompensasjon skal sendes til Lotteri- og stiftelsestilsynet på fastsatt elektronisk skjema senest 1. september hvert søknadsår og skal undertegnes av den som har fullmakt til å søke.
 
-Søknaden skal inneholde følgende vedlegg:årsregnskap, årsmelding og revisjonsberetning for sentralleddet eller enkeltstående søker. Dokumentene skal være signert og godkjent på årsmøtet eller av annet kompetent organ i henhold til organisasjonens vedtekterrevisorrapport fra statsautorisert revisor eller kommunerevisor for søknaden som følger standarden ISRS 4400 Avtalte kontrollhandlinger dersom krav i [§ 14](forskrift/2025-12-18-2719/§14) er oppfyltoppstilling som følger fastsatt mal og viser alle organisasjonsleddene med organisasjonsnummer og juridisk navn basert på innrapporterte søknadsdata fra underleddenetransaksjonsliste for søkere som søker etter dokumentert modell. I tillegg skal det legges ved transaksjonsliste for de 15 høyeste søknadsbeløpene for eventuelle underledd med 7 millioner kroner eller mindre i totale driftskostnadersignert egenerklæringsskjema om frivillig innsats for aksjeselskap som inngår i søknadenparaplyorganisasjoner skal legge ved en oppdatert medlemsliste hvor det fremgår hvilke organisasjoner som oppfyller vilkårene etter forskriften.
+Søknaden skal inneholde følgende vedlegg:
+
+1. årsregnskap, årsmelding og revisjonsberetning for sentralleddet eller enkeltstående søker. Dokumentene skal være signert og godkjent på årsmøtet eller av annet kompetent organ i henhold til organisasjonens vedtekter
+2. revisorrapport fra statsautorisert revisor eller kommunerevisor for søknaden som følger standarden ISRS 4400 Avtalte kontrollhandlinger dersom krav i [§ 14](forskrift/2025-12-18-2719/§14) er oppfylt
+3. oppstilling som følger fastsatt mal og viser alle organisasjonsleddene med organisasjonsnummer og juridisk navn basert på innrapporterte søknadsdata fra underleddene
+4. transaksjonsliste for søkere som søker etter dokumentert modell. I tillegg skal det legges ved transaksjonsliste for de 15 høyeste søknadsbeløpene for eventuelle underledd med 7 millioner kroner eller mindre i totale driftskostnader
+5. signert egenerklæringsskjema om frivillig innsats for aksjeselskap som inngår i søknaden
+6. paraplyorganisasjoner skal legge ved en oppdatert medlemsliste hvor det fremgår hvilke organisasjoner som oppfyller vilkårene etter forskriften.
 
 Dersom søkers gjeldende vedtekter på søknadstidspunktet ikke er registrert i Frivillighetsregisteret, skal vedtektene legges ved søknaden.
 

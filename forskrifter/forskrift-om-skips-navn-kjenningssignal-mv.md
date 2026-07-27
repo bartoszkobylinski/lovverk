@@ -30,7 +30,13 @@ Denne forskriften gjelder norske skip og, så langt den passer, innretninger som
 
 ## § 2. Definisjoner
 
-I denne forskrift betyr:*Fiske- og fangstfartøy:* Fartøy som ervervsmessig benyttes til å fange fisk, herunder hval, sel, tang og tare eller andre levende ressurser i sjøen.*IMO (International Maritime Organization):* Den internasjonale skipsfartsorganisasjon.*Lekter:* Et skrog eller skip uten fremdriftsmaskineri som skal slepes eller skyves ved all forflytning og som anvendes til føring av last.*Rederiet:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.*Skip:* Skip omfatter i denne forskrift også innretninger som nevnt i [sjøloven § 33](lov/1994-06-24-39/§33), [§ 39](lov/1994-06-24-39/§39) og [§ 507](lov/1994-06-24-39/§507), med mindre annet uttrykkelig fremgår.
+I denne forskrift betyr:
+
+1. *Fiske- og fangstfartøy:* Fartøy som ervervsmessig benyttes til å fange fisk, herunder hval, sel, tang og tare eller andre levende ressurser i sjøen.
+2. *IMO (International Maritime Organization):* Den internasjonale skipsfartsorganisasjon.
+3. *Lekter:* Et skrog eller skip uten fremdriftsmaskineri som skal slepes eller skyves ved all forflytning og som anvendes til føring av last.
+4. *Rederiet:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.
+5. *Skip:* Skip omfatter i denne forskrift også innretninger som nevnt i [sjøloven § 33](lov/1994-06-24-39/§33), [§ 39](lov/1994-06-24-39/§39) og [§ 507](lov/1994-06-24-39/§507), med mindre annet uttrykkelig fremgår.
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
@@ -44,9 +50,18 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 Ethvert skip skal ha navn som bestemmes av eieren. Navnet innføres i registeret med latinske bokstaver.
 
-Skriftlig søknad om navneattest etter [sjøloven § 7](lov/1994-06-24-39/§7), fremlegges for Sjøfartsdirektoratet, som skal påse at det ikke finnes:registrerte skip, jf. [sjøloven § 11](lov/1994-06-24-39/§11) annet leddnavneattest nyere enn 5 år som ikke er fremlagt til registrering, ellernavnereservasjon nyere enn 5 år,på det valgte navnet eller navn som ortografisk eller fonetisk er egnet til å forveksles med dette navnet.
+Skriftlig søknad om navneattest etter [sjøloven § 7](lov/1994-06-24-39/§7), fremlegges for Sjøfartsdirektoratet, som skal påse at det ikke finnes:
 
-Selv om det i norsk internasjonalt skipsregister finnes andre skip med samme navn, er dette ikke til hinder for at navnet registreres i norsk internasjonalt skipsregister slik:eksisterende skip som innføres i registeret kan beholde det navn det har,nybygg kan få samme navn som eksisterende skip i registeret hvis rederiet i løpet av de 5 siste år har anvendt navnet i norsk eller utenlandsk skipsregister.
+1. registrerte skip, jf. [sjøloven § 11](lov/1994-06-24-39/§11) annet ledd
+2. navneattest nyere enn 5 år som ikke er fremlagt til registrering, eller
+3. navnereservasjon nyere enn 5 år,
+
+på det valgte navnet eller navn som ortografisk eller fonetisk er egnet til å forveksles med dette navnet.
+
+Selv om det i norsk internasjonalt skipsregister finnes andre skip med samme navn, er dette ikke til hinder for at navnet registreres i norsk internasjonalt skipsregister slik:
+
+1. eksisterende skip som innføres i registeret kan beholde det navn det har,
+2. nybygg kan få samme navn som eksisterende skip i registeret hvis rederiet i løpet av de 5 siste år har anvendt navnet i norsk eller utenlandsk skipsregister.
 
 Bareboatregistreres et skip etter sjøloven § 40, gjelder tredje ledd tilsvarende.
 
@@ -86,7 +101,10 @@ Ved innføring i skipsregistrene skal eier, med de begrensningene som er fastsat
 
 ## § 8. Påføring av endringer på målebrev og eventuelle andre skipspapirer
 
-Skip som befinner seg i Norge:Hvis skipets målebrev legges frem for skipsregisterfører for endring av navn, eier eller hjemsted, skal registerføreren påføre endringene i målebrevet.Er endringen ikke påført skipets målebrev ved registreringen, plikter skipsføreren å oppsøke en av Sjøfartsdirektoratets stasjoner og fremlegge nasjonalitetsbeviset for påføring av endringer i målebrevet.
+Skip som befinner seg i Norge:
+
+1. Hvis skipets målebrev legges frem for skipsregisterfører for endring av navn, eier eller hjemsted, skal registerføreren påføre endringene i målebrevet.
+2. Er endringen ikke påført skipets målebrev ved registreringen, plikter skipsføreren å oppsøke en av Sjøfartsdirektoratets stasjoner og fremlegge nasjonalitetsbeviset for påføring av endringer i målebrevet.
 
 Når skipet befinner seg i utlandet plikter skipsfører, når skipsfører har mottatt nytt eller midlertidig nasjonalitetsbevis, å oppsøke nærmeste utenriksstasjon og fremlegge nasjonalitetsbeviset for påtegning på målebrev og nødvendige øvrige skipspapirer.
 
@@ -100,7 +118,17 @@ Kjenningssignal og IMO identifikasjonsnummer skal varig merkes.
 
 For fartøy under 15 meter skal kjenningsbokstavene i tillegg merkes utvendig på skroget, slik Sjøfartsdirektoratet spesifiserer ved tildeling.
 
-Merking av kjenningssignal og IMO identifikasjonsnummer:Merkingen skal foretas ved innhugging, påsveising eller kjøring i en dekksbjelke, lukekarm, skott eller annet passende sted om bord. Merkingen skal ikke anbringes på en plate som kan fjernes. Innhuggingene skal til enhver tid være malt med en kontrastfarge.IMO identifikasjonsnummeret skal merkes som kjenningssignalet og plasseres i kjenningssignalets umiddelbare nærhet. Det skal være mellomrom mellom bokstav- og tallrekken.I fartøyer som Internasjonal konvensjon om måling av fartøyer, 1969 er gjort gjeldende for, skal hvert enkelt lasterom/lastetank merkes permanent med bokstavene CC som skal være plassert slik at de er godt synlige.Når skip som har vært underlagt tidligere tonnasjebestemmelser går over til å følge Internasjonal konvensjon om måling av fartøyer, 1969 skal tonnasjemerkene uthugges.Merkingen skal ha følgende dimensjoner:For fartøyer med lengde (L) < 24 meter: Høyde på bokstav og tall 6 cm, tykkelse 1 cm og innbyrdes avstand 1,5 cm.For fartøyer med lengde (L) ≥ 24 meter: Høyde på bokstav og tall 12 cm, tykkelse 1,5 cm og innbyrdes avstand 3 cm.Bokstavene CC for merking av lasterom/lastetank skal være 10 cm høye.
+Merking av kjenningssignal og IMO identifikasjonsnummer:
+
+1. Merkingen skal foretas ved innhugging, påsveising eller kjøring i en dekksbjelke, lukekarm, skott eller annet passende sted om bord. Merkingen skal ikke anbringes på en plate som kan fjernes. Innhuggingene skal til enhver tid være malt med en kontrastfarge.
+2. IMO identifikasjonsnummeret skal merkes som kjenningssignalet og plasseres i kjenningssignalets umiddelbare nærhet. Det skal være mellomrom mellom bokstav- og tallrekken.
+3. I fartøyer som Internasjonal konvensjon om måling av fartøyer, 1969 er gjort gjeldende for, skal hvert enkelt lasterom/lastetank merkes permanent med bokstavene CC som skal være plassert slik at de er godt synlige.
+4. Når skip som har vært underlagt tidligere tonnasjebestemmelser går over til å følge Internasjonal konvensjon om måling av fartøyer, 1969 skal tonnasjemerkene uthugges.
+5. Merkingen skal ha følgende dimensjoner:
+
+   1. For fartøyer med lengde (L) < 24 meter: Høyde på bokstav og tall 6 cm, tykkelse 1 cm og innbyrdes avstand 1,5 cm.
+   2. For fartøyer med lengde (L) ≥ 24 meter: Høyde på bokstav og tall 12 cm, tykkelse 1,5 cm og innbyrdes avstand 3 cm.
+   3. Bokstavene CC for merking av lasterom/lastetank skal være 10 cm høye.
 
 Melding om hvor kjenningssignal og IMO identifikasjonsnummer er innhugd, sendes Sjøfartsdirektoratet. For skip hvor kontrollen er delegert sendes meldingen til klasseselskapet.
 

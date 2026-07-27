@@ -15,14 +15,16 @@ xml_hash: "263ac3aea66c34eca4ab38ed6564362a67dac4a3ebf631ae84b1ea8b25562a5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om elektrotjeneste (BSL E 4-3).
 
-Til forskriften er knyttet følgende vedlegg som gjelder som forskrift:Vedlegg 1) System for forebyggende vedlikehold.
+Til forskriften er knyttet følgende vedlegg som gjelder som forskrift:
+
+Vedlegg 1) System for forebyggende vedlikehold.
 
 ## Kapittel 1. Innledende bestemmelser
 
@@ -38,7 +40,20 @@ Forskriftens formål er å forebygge luftfartsulykker og -hendelser som skyldes 
 
 ### § 3. Definisjoner
 
-I denne forskrift menes med:*Barett:* Kort rekke av lys med så liten innbyrdes avstand at de på avstand oppfattes som «lang lyskilde».*Elektrotjeneste:* Tjeneste som skal drifte og vedlikeholde flyplassens lysanlegg med nødvendige bakenforliggende forsynings- og fordelingsanlegg.*Flyplass (aerodrome):* Ethvert område på land, vann, bygning, skip eller annen fast eller flyttbar innretning der luftfartøy foretar start, landing, taksing eller er oppstilt.*Flyplassjef:* Den som er ansvarlig for flyplassens utforming og bakketjeneste.*Flyplassoperatør (aerodrome operator):* Den virksomhet eller person som innehar flyplassens godkjenning.*Inspeksjon:* Visuell sjekk på at utstyr fungerer som normalt, er i posisjon og er uten synbare skader.*Kontroll:* Mer omfattende undersøkelse, som gjerne omfatter grad av demontering samt rengjøring, justeringer og skifte av slite-/forbruksdeler.*Lysanlegg:* Lysenheter som er sammenkoplet eller på annen måte samarbeider for å imøtekomme de krav til lys som flyplassen skal ha.*Lysenhet:* Enkeltstående lampe eller flere lamper som står så tett sammen at lyset på en viss avstand oppfattes å komme fra ett punkt.*Operativ:* En lysenhet er operativ og et lysanlegg er operativt når enheten eller anlegget både tilfredsstiller Luftfartstilsynets krav og flyplassoperatørens krav.*Stor flyplass:* Flyplass som er godkjent for fly med største tillatte startmasse over 5700 kg eller som er godkjent for 10 eller flere passasjerseter.*Tilsyn:* Systematisk og planlagt oppfølging av anlegg og utstyr, med registrering av status og historikk.
+I denne forskrift menes med:
+
+1. *Barett:* Kort rekke av lys med så liten innbyrdes avstand at de på avstand oppfattes som «lang lyskilde».
+2. *Elektrotjeneste:* Tjeneste som skal drifte og vedlikeholde flyplassens lysanlegg med nødvendige bakenforliggende forsynings- og fordelingsanlegg.
+3. *Flyplass (aerodrome):* Ethvert område på land, vann, bygning, skip eller annen fast eller flyttbar innretning der luftfartøy foretar start, landing, taksing eller er oppstilt.
+4. *Flyplassjef:* Den som er ansvarlig for flyplassens utforming og bakketjeneste.
+5. *Flyplassoperatør (aerodrome operator):* Den virksomhet eller person som innehar flyplassens godkjenning.
+6. *Inspeksjon:* Visuell sjekk på at utstyr fungerer som normalt, er i posisjon og er uten synbare skader.
+7. *Kontroll:* Mer omfattende undersøkelse, som gjerne omfatter grad av demontering samt rengjøring, justeringer og skifte av slite-/forbruksdeler.
+8. *Lysanlegg:* Lysenheter som er sammenkoplet eller på annen måte samarbeider for å imøtekomme de krav til lys som flyplassen skal ha.
+9. *Lysenhet:* Enkeltstående lampe eller flere lamper som står så tett sammen at lyset på en viss avstand oppfattes å komme fra ett punkt.
+10. *Operativ:* En lysenhet er operativ og et lysanlegg er operativt når enheten eller anlegget både tilfredsstiller Luftfartstilsynets krav og flyplassoperatørens krav.
+11. *Stor flyplass:* Flyplass som er godkjent for fly med største tillatte startmasse over 5700 kg eller som er godkjent for 10 eller flere passasjerseter.
+12. *Tilsyn:* Systematisk og planlagt oppfølging av anlegg og utstyr, med registrering av status og historikk.
 
 ## Kapittel 2. Organisering av elektrotjenesten
 
@@ -50,7 +65,11 @@ I denne forskrift menes med:*Barett:* Kort rekke av lys med så liten innbyrdes 
 
 ### § 5. Lederens ansvar
 
-(1) Leder for elektrotjenesten skal:utarbeide og vedlikeholde prosedyrer og dokumentasjon som sikrer at lysanleggene med bakenforliggende forsynings- og fordelingsanlegg til enhver tid tilfredsstiller godkjenningsvilkårene og kravene i denne forskriften,kontrollere at prosedyrene blir fulgt,sikre at alt underlagt personell har tilstrekkelig opplæring og trening til å gjennomføre de oppdrag de blir pålagt.
+(1) Leder for elektrotjenesten skal:
+
+1. utarbeide og vedlikeholde prosedyrer og dokumentasjon som sikrer at lysanleggene med bakenforliggende forsynings- og fordelingsanlegg til enhver tid tilfredsstiller godkjenningsvilkårene og kravene i denne forskriften,
+2. kontrollere at prosedyrene blir fulgt,
+3. sikre at alt underlagt personell har tilstrekkelig opplæring og trening til å gjennomføre de oppdrag de blir pålagt.
 
 (2) Prosedyrer som nevnt i første ledd bokstav a) skal danne grunnlag for vedlikehold i samsvar med [kapittel 4](forskrift/2004-08-26-1245/kap4) og for rapportering av forholdene i samsvar med [§ 9](forskrift/2004-08-26-1245/§9). Prosedyrene skal sikre at resultatet av inspeksjonene og tiltak i den forbindelse blir registrert (loggført) og rapportert. Registreringene skal oppbevares i minst to år.
 
@@ -64,7 +83,11 @@ I denne forskrift menes med:*Barett:* Kort rekke av lys med så liten innbyrdes 
 
 ### § 6. Inspeksjoner
 
-(1) Flyplassens lysanlegg skal inspiseres med en frekvens som sikrer at:lysene til enhver tid fungerer som forutsatt, herunder at enhetene lyser normalt, er i posisjon og er uten synlige skader,lysbilledet er korrekt,feil som har oppstått blir rapportert og utbedret snarest mulig,
+(1) Flyplassens lysanlegg skal inspiseres med en frekvens som sikrer at:
+
+1. lysene til enhver tid fungerer som forutsatt, herunder at enhetene lyser normalt, er i posisjon og er uten synlige skader,
+2. lysbilledet er korrekt,
+3. feil som har oppstått blir rapportert og utbedret snarest mulig,
 
 (2) Ved alle flyplasser med lysanlegg skal lysanleggene alltid inspiseres før første flyging i mørke finner sted til eller fra flyplassen.
 
@@ -112,7 +135,15 @@ Ved store flyplasser skal det være tilgjengelig reservedeler i den utstrekning 
 
 ### § 13. Dokumentasjon
 
-(1) For alle lysanleggene og bakenforliggende forsynings- og fordelingsanlegg ved store flyplasser skal det finnes:Funksjonsbeskrivelse for enheter og sammenkoplede anlegg,Vedlikeholdsinstrukser for alle enheter,Oversiktsskjema/arrangementstegninger/plasseringsoversikt for samarbeidende enheter,Oversikt over plassering, merking og elektrisk tilhørighet for banerelaterte lys og andre enheter,Koplingsskjema/kretsskjema, med prinsippskjemaer for enkeltenheter, anlegg og sammenkopling av disse,Kabeltilkoplingsskjema,Kabelkart.
+(1) For alle lysanleggene og bakenforliggende forsynings- og fordelingsanlegg ved store flyplasser skal det finnes:
+
+1. Funksjonsbeskrivelse for enheter og sammenkoplede anlegg,
+2. Vedlikeholdsinstrukser for alle enheter,
+3. Oversiktsskjema/arrangementstegninger/plasseringsoversikt for samarbeidende enheter,
+4. Oversikt over plassering, merking og elektrisk tilhørighet for banerelaterte lys og andre enheter,
+5. Koplingsskjema/kretsskjema, med prinsippskjemaer for enkeltenheter, anlegg og sammenkopling av disse,
+6. Kabeltilkoplingsskjema,
+7. Kabelkart.
 
 (2) Alle utstyrsenheter og -posisjoner i utstrakte/oppsplittede lysanlegg ved store flyplasser skal være identifiserbare ved entydig merking, som også skal gjenfinnes i krets- og plasseringsoversikt for anlegget enheten er del av. Oversikt over merkesystemer benyttet i slike anlegg skal foreligge.
 
@@ -136,7 +167,12 @@ Vedlegget er en del av [forskrift 26. august 2004 nr. 1245](forskrift/2004-08-26
 
 Systemet for forebyggende vedlikehold av lysanlegg ved store flyplasser skal ha til hensikt å sikre at alle innflygings- og banelys er operative.
 
-Når flyging pågår, skal minst 85% av lysenhetene være operative i hvert av følgende anlegg:innflygingslysene,terskellysene,banekantlysene,baneendelysene.
+Når flyging pågår, skal minst 85% av lysenhetene være operative i hvert av følgende anlegg:
+
+1. innflygingslysene,
+2. terskellysene,
+3. banekantlysene,
+4. baneendelysene.
 
 Systemet for forebyggende vedlikehold skal ikke tillate at to lysenheter inntil hverandre er ikke-operative med mindre montasjeavstand mellom lysenhetene er vesentlig mindre enn foreskrevet, unntatt i en innflygingslys tverrekke eller en barett.
 
@@ -144,13 +180,23 @@ Systemet for forebyggende vedlikehold skal ikke tillate at to lysenheter inntil 
 
 Systemet skal ha til hensikt å sikre at lysenhetene ved lysanlegg på rullebane som skal kunne benyttes for start ved rullebanesikt mindre enn 550 m, er operative under disse forholdene.
 
-Systemet skal minst sikre at:95% av lysenhetene i rullebanesenterlinjelys (hvor slikt er montert) og rullebanekantlys er operative,75% av baneendelysene er operative.
+Systemet skal minst sikre at:
+
+1. 95% av lysenhetene i rullebanesenterlinjelys (hvor slikt er montert) og rullebanekantlys er operative,
+2. 75% av baneendelysene er operative.
 
 Systemet skal ikke tillate at to lysenheter inntil hverandre er ikke-operative.
 
 3\.
 
-Systemet for forebyggende vedlikehold av lysanleggene på en presisjonsrullebane i kategori II og III skal minimum inneholde følgende:På-stedet-måling av:lysintensitet,spredning og retning for enhetene i innflygings- og banelysanleggene.Kontroll/måling av spenning og strømstyrke for de enkelte kretser som inngår i innflygings- og banelysanleggene.Kontroll av systemet for regulering/justering av lysintensiteten.
+Systemet for forebyggende vedlikehold av lysanleggene på en presisjonsrullebane i kategori II og III skal minimum inneholde følgende:
+
+1. På-stedet-måling av:
+
+   - lysintensitet,
+   - spredning og retning for enhetene i innflygings- og banelysanleggene.
+2. Kontroll/måling av spenning og strømstyrke for de enkelte kretser som inngår i innflygings- og banelysanleggene.
+3. Kontroll av systemet for regulering/justering av lysintensiteten.
 
 4\.
 
@@ -160,13 +206,26 @@ På-stedet-måling av lysintensitet, -spredning og retning for enhetene i innfly
 
 Systemet skal ha til hensikt å sikre at alle innflygings- og banelys på en presisjonsrullebane i kategori II og III er operative.
 
-Systemet skal minst sikre at:95% av lysenhetene i hvert av de følgende lysanlegg er operative:innflygingslysene, de innerste 450 m,rullebanesenterlinjelysene,terskellysene,rullebanekantlysene.90% av lysenhetene i landingssonelys er operative.85% av lysenhetene i innflygingslys utenfor 450 m er operative.75% av enhetene i rullebaneendelys er operative.
+Systemet skal minst sikre at:
+
+1. 95% av lysenhetene i hvert av de følgende lysanlegg er operative:
+
+   - innflygingslysene, de innerste 450 m,
+   - rullebanesenterlinjelysene,
+   - terskellysene,
+   - rullebanekantlysene.
+2. 90% av lysenhetene i landingssonelys er operative.
+3. 85% av lysenhetene i innflygingslys utenfor 450 m er operative.
+4. 75% av enhetene i rullebaneendelys er operative.
 
 Systemet skal ikke tillate ikke-operative lysenheter i antall eller sammenhenger hvor det kan forandre tilsiktet lysmønster. Dessuten skal det ikke tillates to ikke-operative enheter i samme lysanlegg uten at det minimum er én operativ i mellom, unntatt i en innflygingslys tverrekke og i en barett.
 
 6\.
 
-For stopplysrekke plassert ved venteposisjon for rullebane som skal brukes ved rullebanesikt mindre enn 400 m skal systemet ha til hensikt å sikre at:det ikke er flere enn to ikke-operative lysenheter, ogdet ikke er to ikke-operative lysenheter inntil hverandre, med mindre montasjeavstanden mellom dem er vesentlig mindre enn foreskrevet.
+For stopplysrekke plassert ved venteposisjon for rullebane som skal brukes ved rullebanesikt mindre enn 400 m skal systemet ha til hensikt å sikre at:
+
+1. det ikke er flere enn to ikke-operative lysenheter, og
+2. det ikke er to ikke-operative lysenheter inntil hverandre, med mindre montasjeavstanden mellom dem er vesentlig mindre enn foreskrevet.
 
 7\.
 
@@ -248,9 +307,19 @@ En inspeksjon kan anses dekket ved tilbakemelding fra personell i plasstjenesten
 
 Overvåking av flyplassens omgivelser for å oppdage farlige eller villedende lys, eller markante lys som er blitt borte, gjennomføres minimum *månedlig*. I tillegg gjennomføres slik overvåking dersom forholdene tilsier det, for eksempel ved bygge- eller anleggsarbeider eller andre forhold som medfører spesiell belysning.
 
-Som flyplassens omgivelser regnes alle områdene som omfattes av flyplassens hinderflater samt inn- og utflygingstraseer, spesielt dersom disse har ledelys. Dessuten følgende områder, jf. BSL E 3-2:Instrumentrullebaner med kodetall 4: Innenfor 750 m på hver side av rullebanens forlengede senterlinje og ut til 4500 m fra terskel.Instrumentrullebaner med kodetall 2 og 3: Innenfor 750 m på hver side av rullebanens forlengede senterlinje og ut til 3000 m fra terskel.
+Som flyplassens omgivelser regnes alle områdene som omfattes av flyplassens hinderflater samt inn- og utflygingstraseer, spesielt dersom disse har ledelys. Dessuten følgende områder, jf. BSL E 3-2:
 
-Oppmerksomheten rettes spesielt mot:veier, havneområder, jernbanestasjoner og andre samferdselsanlegg,skip og andre flytende innretninger,bensinstasjoner, kjøpesentra og andre godt opplyste områder,områder med anleggs- og byggarbeider,sirkus, tivoli og lignende (spesiell oppmerksomhet på *laserlys*),master med varsellys.
+- Instrumentrullebaner med kodetall 4: Innenfor 750 m på hver side av rullebanens forlengede senterlinje og ut til 4500 m fra terskel.
+- Instrumentrullebaner med kodetall 2 og 3: Innenfor 750 m på hver side av rullebanens forlengede senterlinje og ut til 3000 m fra terskel.
+
+Oppmerksomheten rettes spesielt mot:
+
+- veier, havneområder, jernbanestasjoner og andre samferdselsanlegg,
+- skip og andre flytende innretninger,
+- bensinstasjoner, kjøpesentra og andre godt opplyste områder,
+- områder med anleggs- og byggarbeider,
+- sirkus, tivoli og lignende (spesiell oppmerksomhet på *laserlys*),
+- master med varsellys.
 
 Farlige eller villedende lys skal *fjernes eller endres*, jf. BSL E 4-3 [§ 8](forskrift/2004-04-27-670/§8) første ledd. Se også pkt. 4.1.6 nedenfor. For store flyplasser gjelder BSL E 3-2.
 
@@ -296,7 +365,10 @@ Kontroll og justering skal utføres iht. utstyrets manualer, om nødvendig suppl
 
 For lavintensitets lysanlegg og ikke separat beskrevne anlegg, hvor ikke hyppigere eller mer omfattende på-stedet-kontroller er beskrevet for den enkelte type/gruppe utstyr, utføres kontroll som beskrevet ovenfor så ofte utstyrets standard og stedlige forhold tilsier, dog *minimum årlig*.
 
-I den utstrekning det er relevant må også, ved enheter hvor flere lamper inngår oghvor disse skal lyse samtidig, kontrolleres at så er tilfelle,hvor ny skal kople inn ved feil, kontrolleres at skifteautomatikken fungerer, og at fungerende reservelampe(r) er på plass, samt at eventuell innebygget feil-/tilstandsvarsling fungerer.
+I den utstrekning det er relevant må også, ved enheter hvor flere lamper inngår og
+
+- hvor disse skal lyse samtidig, kontrolleres at så er tilfelle,
+- hvor ny skal kople inn ved feil, kontrolleres at skifteautomatikken fungerer, og at fungerende reservelampe(r) er på plass, samt at eventuell innebygget feil-/tilstandsvarsling fungerer.
 
 2.2.5
 
@@ -324,7 +396,12 @@ Signallampe i kontrolltårn kontrolleres *ukentlig.*
 
 2.3*Inspeksjon og kontroll med flyplasstekniske anlegg og utstyr*
 
-Utstyret vil primært være:konstantstrømregulatorer for banetilknyttede lysanlegg,variacer og andre regulertransformatorer,skilletransformatorer for seriekretser,kabelanlegg og føringsveier, inkludert kummer.
+Utstyret vil primært være:
+
+- konstantstrømregulatorer for banetilknyttede lysanlegg,
+- variacer og andre regulertransformatorer,
+- skilletransformatorer for seriekretser,
+- kabelanlegg og føringsveier, inkludert kummer.
 
 2.3.1
 
@@ -332,7 +409,11 @@ Konstantstrømregulatorer inspiseres *ukentlig*, og fagkyndig kontroll foretas *
 
 Inspiseres med tanke på lukt, lyd, temperatur, lekkasje og andre indikasjoner på feil under utvikling.
 
-Kontroll i henhold til leverandørens retningslinjer/manualer:Regulerings-/styre-/betjeningsanlegget testes.Kontroll av funksjon/strøm på de ulike trinn, ev. korrigering.Belastning/trinn registreres.
+Kontroll i henhold til leverandørens retningslinjer/manualer:
+
+- Regulerings-/styre-/betjeningsanlegget testes.
+- Kontroll av funksjon/strøm på de ulike trinn, ev. korrigering.
+- Belastning/trinn registreres.
 
 2.3.2
 
@@ -344,7 +425,12 @@ Skilletransformatorer for seriekretser, plassert i kum, inspiseres for ytre tegn
 
 2.3.4
 
-Kabel og kabelarbeider, samt føringsveier, *minimum årlig:*inspiseres for tildekking på kabelbroer og andre tracéer som betinger lufting (lastførende kabler skal ikke være forlagt direkte på gulv, og ikke inntil hverandre),inspiseres for tegn på ytre påvirkning/skade i utsatte områder,inspiseres for varmgang i tilkoplinger,inspeksjon og rengjøring av trafo- og tilkoplingskummer.
+Kabel og kabelarbeider, samt føringsveier, *minimum årlig:*
+
+- inspiseres for tildekking på kabelbroer og andre tracéer som betinger lufting (lastførende kabler skal ikke være forlagt direkte på gulv, og ikke inntil hverandre),
+- inspiseres for tegn på ytre påvirkning/skade i utsatte områder,
+- inspiseres for varmgang i tilkoplinger,
+- inspeksjon og rengjøring av trafo- og tilkoplingskummer.
 
 2.4*Tilsyn og kontroll med forsynings- og distribusjonsanlegg*
 

@@ -15,7 +15,7 @@ xml_hash: "d5fadef715e37961be7df1fe33b7bf63ee3717be65e0cfee55e16bb252ece558"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,14 @@ Søkarar som ikkje har oppnådd generell studiekompetanse på grunn av funksjons
 
 ### § 3-4. Opptak på grunnlag av fag- eller sveinebrev (Y-veg)
 
-Universitet og høgskular kan ta opp søkarar som ikkje har generell studiekompetanse til følgande spesielt tilrettelagde studium dersom søkarane har relevant fag- eller sveinebrev:IngeniørstudiumStudium i akvakultur, havbruk og fiskeriStudium i nautikkStudium i marinteknisk driftStudium i serviceleiing og marknadsføringStudium i paramedisin.
+Universitet og høgskular kan ta opp søkarar som ikkje har generell studiekompetanse til følgande spesielt tilrettelagde studium dersom søkarane har relevant fag- eller sveinebrev:
+
+1. Ingeniørstudium
+2. Studium i akvakultur, havbruk og fiskeri
+3. Studium i nautikk
+4. Studium i marinteknisk drift
+5. Studium i serviceleiing og marknadsføring
+6. Studium i paramedisin.
 
 ### § 3-5. Opptak på grunnlag av forkurs o.l. ved opptak til matteteknologi, tekniske fag og nautikk
 
@@ -96,7 +103,11 @@ Universitet og høgskular kan ta opp søkarar som ikkje har generell studiekompe
 
 ### § 3-7. Opptak til einskilde kunstfag for søkarar som har særskilde faglege føresetnader
 
-Universitet og høgskular kan gjere unntak frå kravet om generell studiekompetanse for ein søkar som har særskilde faglege føresetnader ved følgande studium:Studium i utøvande og skapande kunst, scenekunst og musikkStudium i film, audiovisuelle media, og tv ved Høyskolen KristianiaStudium ved Den norske filmskolen ved Universitetet i Innlandet.
+Universitet og høgskular kan gjere unntak frå kravet om generell studiekompetanse for ein søkar som har særskilde faglege føresetnader ved følgande studium:
+
+1. Studium i utøvande og skapande kunst, scenekunst og musikk
+2. Studium i film, audiovisuelle media, og tv ved Høyskolen Kristiania
+3. Studium ved Den norske filmskolen ved Universitetet i Innlandet.
 
 ### § 3-8. Opptak med unntak frå kravet om norskkunnskapar
 
@@ -172,7 +183,13 @@ Når alle kvalifiserte søkarar som har søkt innan ordinær søknadsfrist har f
 
 ### § 5-4. Rangering ved fleire kvalifiseringsgrunnlag
 
-Søkarar som oppnådd generell studiekompetanse på fleire grunnlag kan berre rangerast på eitt av følgande grunnlag etter prioritert rekkefølge:norsk vidaregåande opplæring, jf. [§ 2-2 første ledd](forskrift/2025-09-11-1850/§2-2/ledd/1)utanlandsk vidaregåande opplæring, jf. [§ 2-3](forskrift/2025-09-11-1850/§2-3) og [§ 2-4](forskrift/2025-09-11-1850/§2-4)23/6-regelen, jf. [§ 2-2 andre ledd](forskrift/2025-09-11-1850/§2-2/ledd/2)høgare utdanning, jf. [§ 2-5 andre ledd](forskrift/2025-09-11-1850/§2-5/ledd/2)høgare yrkesfagleg utdanning, jf. [§ 2-5 første ledd](forskrift/2025-09-11-1850/§2-5/ledd/1).
+Søkarar som oppnådd generell studiekompetanse på fleire grunnlag kan berre rangerast på eitt av følgande grunnlag etter prioritert rekkefølge:
+
+1. norsk vidaregåande opplæring, jf. [§ 2-2 første ledd](forskrift/2025-09-11-1850/§2-2/ledd/1)
+2. utanlandsk vidaregåande opplæring, jf. [§ 2-3](forskrift/2025-09-11-1850/§2-3) og [§ 2-4](forskrift/2025-09-11-1850/§2-4)
+3. 23/6-regelen, jf. [§ 2-2 andre ledd](forskrift/2025-09-11-1850/§2-2/ledd/2)
+4. høgare utdanning, jf. [§ 2-5 andre ledd](forskrift/2025-09-11-1850/§2-5/ledd/2)
+5. høgare yrkesfagleg utdanning, jf. [§ 2-5 første ledd](forskrift/2025-09-11-1850/§2-5/ledd/1).
 
 Grunnlag som kan poengbereknast, går likevel framfor grunnlag som ikkje kan poengbereknast.
 
@@ -214,9 +231,17 @@ Når særskilde omstende gjer det ønskeleg, kan departementet fastsette kvotar 
 
 Kvotar for søkarar med samisk språkkompetanse skal fyllast sist.
 
-Følgande studium har kvotar for søkarar med samisk språkkompetanse:bachelorstudium i dokumentar- og TV-produksjon ved Universitetet i Innlandetveterinærstudium ved Noregs miljø- og biovitskapelege universitetstudium i akvakultur, fiskerifag og fiskehelse, ergoterapi, ernæring, farmasi, vernepleie, odontologi og paramedisin, helsefaglege profesjonsstudium i sjukepleie, fysioterapi, tannpleie, bioingeniør og radiografi, profesjonsstudium i medisin og psykologi og integrert masterstudium i rettsvitskap og teknologiske fag ved Universitetet i Tromsø – Noregs arktiske universitet.
+Følgande studium har kvotar for søkarar med samisk språkkompetanse:
 
-For å kunne bli teken opp i kvoten for søkarar med samisk språkkompetanse, må eitt av følgande kriterium vere oppfylte:søkar må ha hatt samisk som førstespråk i grunnskule eller vidaregåande opplæringsøkar må ha hatt samisk som andrespråk nivå 2 i grunnskule eller vidaregåande opplæringsøkar må ha bestått 60 studiepoeng i samisk som morsmål frå universitet eller høgskule.
+1. bachelorstudium i dokumentar- og TV-produksjon ved Universitetet i Innlandet
+2. veterinærstudium ved Noregs miljø- og biovitskapelege universitet
+3. studium i akvakultur, fiskerifag og fiskehelse, ergoterapi, ernæring, farmasi, vernepleie, odontologi og paramedisin, helsefaglege profesjonsstudium i sjukepleie, fysioterapi, tannpleie, bioingeniør og radiografi, profesjonsstudium i medisin og psykologi og integrert masterstudium i rettsvitskap og teknologiske fag ved Universitetet i Tromsø – Noregs arktiske universitet.
+
+For å kunne bli teken opp i kvoten for søkarar med samisk språkkompetanse, må eitt av følgande kriterium vere oppfylte:
+
+1. søkar må ha hatt samisk som førstespråk i grunnskule eller vidaregåande opplæring
+2. søkar må ha hatt samisk som andrespråk nivå 2 i grunnskule eller vidaregåande opplæring
+3. søkar må ha bestått 60 studiepoeng i samisk som morsmål frå universitet eller høgskule.
 
 ### § 5-11. Kvotar for søkarar med regional tilknyting
 
@@ -224,7 +249,11 @@ Når særskilde omstende gjer det ønskeleg, og det er i tråd med [EØS-avtalen
 
 Følgande studium ved Universitetet i Tromsø – Noregs arktiske universitet har kvote for søkarar med nordnorsk tilknyting: studium i ergoterapi, ernæring, farmasi, vernepleie, odontologi og paramedisin, helsefaglege profesjonsstudium i sjukepleie, fysioterapi, tannpleie, bioingeniør og radiografi, profesjonsstudium i medisin og psykologi og integrert masterstudium i rettsvitskap og teknologiske fag.
 
-For å kunne bli teken opp i regional kvote, må søkaren legge fram dokumentasjon på regional tilknyting frå offentleg myndigheit. Den skal vise at søkaren har budd i den aktuelle regionen dei siste ti åra, og framleis er busett der. Dersom søkaren ikkje har budd i regionen dei 10 siste årene, kan søkaren likevel konkurrere i kvoten dersom søkaren kan dokumentere minst to av følgande punkter:vitnemål frå vidaregåande opplæring eller fag- eller sveinebrev i regionenvitnemål frå grunnskuleopplæring i regionenbudd i regionen minst 10 år totalt.
+For å kunne bli teken opp i regional kvote, må søkaren legge fram dokumentasjon på regional tilknyting frå offentleg myndigheit. Den skal vise at søkaren har budd i den aktuelle regionen dei siste ti åra, og framleis er busett der. Dersom søkaren ikkje har budd i regionen dei 10 siste årene, kan søkaren likevel konkurrere i kvoten dersom søkaren kan dokumentere minst to av følgande punkter:
+
+1. vitnemål frå vidaregåande opplæring eller fag- eller sveinebrev i regionen
+2. vitnemål frå grunnskuleopplæring i regionen
+3. budd i regionen minst 10 år totalt.
 
 ### § 5-12. Kvotar for sikre eit visst antal studentar av begge kjønn
 
@@ -232,7 +261,15 @@ Når særskilde omstende gjer det ønskeleg, og vilkåra i [likestillings- og di
 
 ### § 5-13. Andre spesielle kvotar
 
-Det er fastsett følgande spesielle kvotar for følgande studium:kvote for søkarar med et halvt års relevant arbeidserfaring ved opptak til journaliststudiumkvote for søkarar med godkjent eittårig forkurs med full fagkrets ved opptak til ingeniørutdanning (bachelor). Søkarane blir poengberekna på grunnlag av karakterpoengsum frå forkursetkvote for søkarar som er innstilte av Norges Idrettsforbund ved opptak til bachelorstudium i sports management, bachelorstudium i trening, helse og presentasjon og bachelorstudium i treningsrollen og idrettspsykologi ved Noregs idrettshøgskolekvote for søkarar med minoritetsbakgrunn ved opptak til journaliststudiet ved OsloMet – storbyuniversitetetkvote for søkarar med interkulturell eller internasjonal erfaring ved opptak til sosionomutdanninga ved Noregs teknisk-naturvitskaplege universitetkvote for søkarar med minst eitt års relevant arbeidserfaring ved opptak til hotelleiingstudiet ved Universitetet i Stavangerkvotar før søkarar med bustadadresse i kjernekommunar og regionkommunar ved opptak til fleksible, desentraliserte bachelorstudium i sjukepleie ved Universitetet i Søraust-Noreg.
+Det er fastsett følgande spesielle kvotar for følgande studium:
+
+1. kvote for søkarar med et halvt års relevant arbeidserfaring ved opptak til journaliststudium
+2. kvote for søkarar med godkjent eittårig forkurs med full fagkrets ved opptak til ingeniørutdanning (bachelor). Søkarane blir poengberekna på grunnlag av karakterpoengsum frå forkurset
+3. kvote for søkarar som er innstilte av Norges Idrettsforbund ved opptak til bachelorstudium i sports management, bachelorstudium i trening, helse og presentasjon og bachelorstudium i treningsrollen og idrettspsykologi ved Noregs idrettshøgskole
+4. kvote for søkarar med minoritetsbakgrunn ved opptak til journaliststudiet ved OsloMet – storbyuniversitetet
+5. kvote for søkarar med interkulturell eller internasjonal erfaring ved opptak til sosionomutdanninga ved Noregs teknisk-naturvitskaplege universitet
+6. kvote for søkarar med minst eitt års relevant arbeidserfaring ved opptak til hotelleiingstudiet ved Universitetet i Stavanger
+7. kvotar før søkarar med bustadadresse i kjernekommunar og regionkommunar ved opptak til fleksible, desentraliserte bachelorstudium i sjukepleie ved Universitetet i Søraust-Noreg.
 
 For å kunne bli tekne opp i kvoten må søkarar dokumentere tilhøyrsel i gruppa i samsvar med reglar fastsette av institusjonen.
 
@@ -240,9 +277,24 @@ For å kunne bli tekne opp i kvoten må søkarar dokumentere tilhøyrsel i grupp
 
 Universitet og høgskular som ønsker å bruke opptaksprøve som grunnlag for rangering utover det som følger av andre og tredje ledd, må søke departementet om det.
 
-Institusjonar kan, utan å søke departementet, bruke opptaksprøvar som grunnlag for rangering på følgande måtar:Inntil 20 prosent av studieplassane kan fordelast blant kvalifiserte søkarar basert på rangering frå opptaksprøve. Resten av studieplassane skal fordelast på grunnlag av [§ 5-1](forskrift/2025-09-11-1850/§5-1)Opptaksprøve kan brukast som einaste grunnlag for rangering av kvalifiserte søkarar med meir enn 55 skulepoeng.Opptaksprøve kan brukast som grunnlag for rangering av kvalifiserte søkarar i kombinasjon med rangering på grunnlag av poeng etter reglar fastsette av institusjonen, så framt poenga veg tyngst.
+Institusjonar kan, utan å søke departementet, bruke opptaksprøvar som grunnlag for rangering på følgande måtar:
 
-Opptaksprøvar skal brukast som einaste rangeringsgrunnlag, etter reglar fastsette av institusjonen, på følgande studium:studium i utøvande og skapande musikkstudium i scenekunstforfattarstudiumStudium ved Kunsthøgskolen i Osloproduktdesignstudium og bachelorstudium i tolking i offentleg sektor ved OsloMet – storbyuniversitetetstudium i samtidskunst ved Universitetet i Tromsø – Noregs arktiske universitetbachelorstudium innan film og TV ved Universitetet i Innlandetintegrert masterstudium i arkitektur ved Bergen Arkitekthøgskolestudium i utøvande og skapande kunst Ved Universitetet i Bergen og Noregs teknisk-naturvitskapelege universitetbachelorstudium i film og TV, visuell kunst, bachelorstudium i manus, bachelorstudium i låtskriving og produksjon, bachelorstudium i lyddesign og studium i dans ved Høyskolen Kristiania.
+1. Inntil 20 prosent av studieplassane kan fordelast blant kvalifiserte søkarar basert på rangering frå opptaksprøve. Resten av studieplassane skal fordelast på grunnlag av [§ 5-1](forskrift/2025-09-11-1850/§5-1)
+2. Opptaksprøve kan brukast som einaste grunnlag for rangering av kvalifiserte søkarar med meir enn 55 skulepoeng.
+3. Opptaksprøve kan brukast som grunnlag for rangering av kvalifiserte søkarar i kombinasjon med rangering på grunnlag av poeng etter reglar fastsette av institusjonen, så framt poenga veg tyngst.
+
+Opptaksprøvar skal brukast som einaste rangeringsgrunnlag, etter reglar fastsette av institusjonen, på følgande studium:
+
+1. studium i utøvande og skapande musikk
+2. studium i scenekunst
+3. forfattarstudium
+4. Studium ved Kunsthøgskolen i Oslo
+5. produktdesignstudium og bachelorstudium i tolking i offentleg sektor ved OsloMet – storbyuniversitetet
+6. studium i samtidskunst ved Universitetet i Tromsø – Noregs arktiske universitet
+7. bachelorstudium innan film og TV ved Universitetet i Innlandet
+8. integrert masterstudium i arkitektur ved Bergen Arkitekthøgskole
+9. studium i utøvande og skapande kunst Ved Universitetet i Bergen og Noregs teknisk-naturvitskapelege universitet
+10. bachelorstudium i film og TV, visuell kunst, bachelorstudium i manus, bachelorstudium i låtskriving og produksjon, bachelorstudium i lyddesign og studium i dans ved Høyskolen Kristiania.
 
 Institusjonane som har rangerande opptaksprøvar skal i utforming og gjennomføring av slike opptaksprøvar ta omsyn til at studiet reelt sett skal vere ope for søkarar frå heile landet.
 
@@ -272,7 +324,12 @@ Den nasjonale klagenemnda skal ikkje behandle klager på vedtak om opptak på gr
 
 Departementet nemner opp klagenemnd for opptak til høgare utdanning.
 
-Klagenemnda skal ha sju medlemmer og vere slik samansett:ein leiar og ein nestleiar skal vere juristar, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeikar leiar og nestleiar. Nestleiar er vara for leiar.to medlemmer og to numeriske varamedlemmer frå dei institusjonane forskrifta gjeld for.éin medlem med personleg varamedlem frå forvaltingsområdet for vidaregåande opplæring.to medlemmer og to numeriske varamedlemmer som representerer studentane. Medlemmene skal oppnemnast i samsvar med forslag frå representative studentorganisasjonar.
+Klagenemnda skal ha sju medlemmer og vere slik samansett:
+
+1. ein leiar og ein nestleiar skal vere juristar, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeikar leiar og nestleiar. Nestleiar er vara for leiar.
+2. to medlemmer og to numeriske varamedlemmer frå dei institusjonane forskrifta gjeld for.
+3. éin medlem med personleg varamedlem frå forvaltingsområdet for vidaregåande opplæring.
+4. to medlemmer og to numeriske varamedlemmer som representerer studentane. Medlemmene skal oppnemnast i samsvar med forslag frå representative studentorganisasjonar.
 
 Medlemmene oppnemnast for inntil fire år, med unntak av studentrepresentantane som oppnemnast for inntil to år. Medlemmene kan gjenoppnemnast éin gong. Personar som har vore varamedlemmer kan oppnemnast i to periodar som fast medlem.
 
@@ -288,7 +345,13 @@ Vedtak blir treft ved alminneleg fleirtal av stemmene. Ved stemmelikskap har lei
 
 ### § 7-1. Overgangsreglar om utsett iverksetting mv.
 
-Fram til 1. januar 2028gjeld ikkje regelen i [§ 5-4](forskrift/2025-09-11-1850/§5-4) om rangering ved fleire kvalifiseringsgrunnlaggjeld heimelen for krav om geografisk tilknyting i [forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning § 4-11](forskrift/2017-01-06-13/§4-11)er den øvre aldersgrensa i kvote for førstegongsvitnemål 21 år og 50 prosent av studieplassane skal tilbydast søkarar i kvoten for førstegongsvitnemålfår søkarar tilleggspoeng etter [forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning §§ 7-8](forskrift/2017-01-06-13/§7-8) til [7-11](forskrift/2017-01-06-13/§7-11)gjeld kvotar for søkarar med samisk språkkompetanse etter [§ 5-10](forskrift/2025-09-11-1850/§5-10) for søkarar som enten har samisk som første- eller andrespråk i vidaregåande opplæring, vitnemål frå grunnskule som viser samisk som første- eller andrespråk eller bestått 60 studiepoeng eller semesteremne i samisk som morsmål frå universitet eller høgskule.
+Fram til 1. januar 2028
+
+1. gjeld ikkje regelen i [§ 5-4](forskrift/2025-09-11-1850/§5-4) om rangering ved fleire kvalifiseringsgrunnlag
+2. gjeld heimelen for krav om geografisk tilknyting i [forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning § 4-11](forskrift/2017-01-06-13/§4-11)
+3. er den øvre aldersgrensa i kvote for førstegongsvitnemål 21 år og 50 prosent av studieplassane skal tilbydast søkarar i kvoten for førstegongsvitnemål
+4. får søkarar tilleggspoeng etter [forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning §§ 7-8](forskrift/2017-01-06-13/§7-8) til [7-11](forskrift/2017-01-06-13/§7-11)
+5. gjeld kvotar for søkarar med samisk språkkompetanse etter [§ 5-10](forskrift/2025-09-11-1850/§5-10) for søkarar som enten har samisk som første- eller andrespråk i vidaregåande opplæring, vitnemål frå grunnskule som viser samisk som første- eller andrespråk eller bestått 60 studiepoeng eller semesteremne i samisk som morsmål frå universitet eller høgskule.
 
 ### § 7-2. Overgangsreglar for tidlegare ordningar
 
@@ -321,17 +384,35 @@ Norsk:
 3. Bestått årskurs i norsk språk og samfunnskunnskap for utanlandske studentar.
 4. Skriftleg og munnleg test i norsk, høgare nivå («Bergenstesten»), begge vurdert til «bestått» eller betre resultat.
 5. Avsluttande prøve i norsk (norskprøven) med ferdigheiter på minimum nivå B2 i alle delprøvar, jf. [integreringslova § 37](lov/2020-11-06-127/§37).
-6. Frå og med opptak til studieåret 2023–2024 kan kunnskapar i norsk også dokumenterast med ein av følgande kombinasjonar av prøvedelar:Bestått eller betre resultat i munnleg test frå test i norsk, høgare nivå («Bergenstesten»), saman med avsluttande prøvar i leseforståing, lytteforståing og skriftleg framstilling frå norskprøven (jf. [pkt. 5](forskrift/2025-09-11-1850/kap5) ovanfor) med minimum nivå B2 som resultat i alle tre delprøvar.Bestått eller betre resultat i skriftleg test frå test i norsk, høgare nivå («Bergenstesten»), saman med delprøve i munnleg kommunikasjon frå norskprøven (jf. [pkt. 5](forskrift/2025-09-11-1850/kap5) ovanfor) med minimum B2 som resultat.
+6. Frå og med opptak til studieåret 2023–2024 kan kunnskapar i norsk også dokumenterast med ein av følgande kombinasjonar av prøvedelar:
+
+   1. Bestått eller betre resultat i munnleg test frå test i norsk, høgare nivå («Bergenstesten»), saman med avsluttande prøvar i leseforståing, lytteforståing og skriftleg framstilling frå norskprøven (jf. [pkt. 5](forskrift/2025-09-11-1850/kap5) ovanfor) med minimum nivå B2 som resultat i alle tre delprøvar.
+   2. Bestått eller betre resultat i skriftleg test frå test i norsk, høgare nivå («Bergenstesten»), saman med delprøve i munnleg kommunikasjon frå norskprøven (jf. [pkt. 5](forskrift/2025-09-11-1850/kap5) ovanfor) med minimum B2 som resultat.
 
 Engelsk:
 
 1. Bestått fellesfaget engelsk frå norsk vidaregåande opplæring.
-2. Test of English as a Foreign Language (TOEFL) medMinst 60 poeng på TOEFL iBT, ellerMinst 60 poeng på TOEFL iBT Home Edition, ellerMinst 500 poeng på papirbasert test.
+2. Test of English as a Foreign Language (TOEFL) med
+
+   1. Minst 60 poeng på TOEFL iBT, eller
+   2. Minst 60 poeng på TOEFL iBT Home Edition, eller
+   3. Minst 500 poeng på papirbasert test.
 3. International English Language Testing Service (IELTS) Academic test eller Online academic test med overall Band Score på minst 5 eller betre.
-4. Cambridge ESOL Examinations medFirst certificate in English, ellerCertificate in Advanced English, ellerCertificate of Proficiency in English.
+4. Cambridge ESOL Examinations med
+
+   1. First certificate in English, eller
+   2. Certificate in Advanced English, eller
+   3. Certificate of Proficiency in English.
 5. Pearson PTE Academic eller Academic online med overall score på minst 51.
-6. The European language certificate (telc) medEnglish B2, ellerEnglish B2-C1 University, ellerEnglish certificate på C1-nivå.
-7. University of Michigan, Michigan Language Assessment medCertificate of Proficiency (ECPE), ellerCertificate of Competency in English (ECCE).
+6. The European language certificate (telc) med
+
+   1. English B2, eller
+   2. English B2-C1 University, eller
+   3. English certificate på C1-nivå.
+7. University of Michigan, Michigan Language Assessment med
+
+   1. Certificate of Proficiency (ECPE), eller
+   2. Certificate of Competency in English (ECCE).
 8. Bestått eitt år i vidaregåande skule eller høgare utdanning frå Australia, Canada, Irland, New Zealand, Storbritannia eller USA, der undervisningsspråket har vore engelsk.
 9. Bestått 60 studiepoeng i engelsk språk og litteratur frå universitet eller høgskule.
 10. Bestått engelskspråkleg mastergrad.
@@ -566,7 +647,12 @@ Utdanningskravet er vitnemål frå vidaregåande skule, og for fleire land er de
 
 For å gi søkjarar med utanlandsk vidaregåande opplæring ein karakterpoengsum dei kan bruke i opptaket til grunnutdanningar, må ein rekne om karakterane frå den utanlandske karakterskalaen til den som er brukt i norsk vidaregåande opplæring (1–6, med 2 som lågaste ståkarakter). Til dette brukar ein omrekningstabellar, om mogleg. Departementet har gitt Direktoratet for høgare utdanning og kompetanse ved tenesta Samordna opptak i oppgåve å utarbeide dei fleste omrekningstabellar. Samordna opptak har òg som oppgåve å halde ved like og gjere tabellane kjende.
 
-For å vareta likebehandling, blir omrekningstabellane laga etter eit felles metodesett så langt det er mogleg. Tabellane er baserte på følgjande felles prinsipp:Karakterfordeling i utanlandsk vidaregåande utdanning skal vurderast så likt karakterfordeling i norsk vidaregåande opplæring som mogleg. Norsk vidaregåande opplæring er målestokken.Så langt det er mogleg, skal søkjarar frå same utdanningssystem behandlast likt. Dette samsvarar med korleis søkjarar med norsk vidaregåande opplæring blir poengrekna. Utdanningar som gir generell studiekompetanse er rekna for å vere samanliknbare i opptaket til grunnutdanningar.Det er karakterar frå vidaregåande opplæring som reknast om i omrekningstabellane, og ikkje andre variablar.Omrekningstabellane blir laga etter statistiske metodar. Statistikk over karakterfordeling frå utanlandsk vidaregåande blir samanlikna med karakterstatistikk frå norsk vidaregåande opplæring, når slik statistikk finst. Tabellane skal lagast ved å finne prosentilar i det utanlandske datagrunnlaget. Desse skal så samanliknast med motsvarande prosentilar i det norske talmaterialet, slik at skilnader i karakterfordelinga blir tatt høgde for i tabellane
+For å vareta likebehandling, blir omrekningstabellane laga etter eit felles metodesett så langt det er mogleg. Tabellane er baserte på følgjande felles prinsipp:
+
+- Karakterfordeling i utanlandsk vidaregåande utdanning skal vurderast så likt karakterfordeling i norsk vidaregåande opplæring som mogleg. Norsk vidaregåande opplæring er målestokken.
+- Så langt det er mogleg, skal søkjarar frå same utdanningssystem behandlast likt. Dette samsvarar med korleis søkjarar med norsk vidaregåande opplæring blir poengrekna. Utdanningar som gir generell studiekompetanse er rekna for å vere samanliknbare i opptaket til grunnutdanningar.
+- Det er karakterar frå vidaregåande opplæring som reknast om i omrekningstabellane, og ikkje andre variablar.
+- Omrekningstabellane blir laga etter statistiske metodar. Statistikk over karakterfordeling frå utanlandsk vidaregåande blir samanlikna med karakterstatistikk frå norsk vidaregåande opplæring, når slik statistikk finst. Tabellane skal lagast ved å finne prosentilar i det utanlandske datagrunnlaget. Desse skal så samanliknast med motsvarande prosentilar i det norske talmaterialet, slik at skilnader i karakterfordelinga blir tatt høgde for i tabellane
 
 ### Offisiell karakterstatistikk
 
@@ -580,7 +666,9 @@ Der offisiell statistikk ikkje er tilgjengeleg, skal det samlast inn statistikk 
 
 For utdanningssystem der Samordna opptak ikkje har statistikk som kan brukast, får søkjarane ei lineær omrekning av karakterane sine. Dette betyr å rekne om karakterar til norsk skala utan å ta høgde for skilnader i karakterfordelinga mellom det utanlandske utdanningssystemet og det norske. Lineær omrekning skal berre brukast dersom det er grunnlag for å anta at karakterfordelinga i det utanlandske utdanningssystemet ikkje har store avvik frå karakterfordelinga i norsk vidaregåande opplæring.
 
-Ei lineær omrekning skjer etter følgjande formel: $$Y=2+|\\frac{4\\: \\cdot\\: (A-B)}{(B-C)}|$$
+Ei lineær omrekning skjer etter følgjande formel:
+
+$$Y=2+|\\frac{4\\: \\cdot\\: (A-B)}{(B-C)}|$$
 
 I formelen er Y den norske gjennomsnittskarakteren, A er den utanlandske gjennomsnittskarakteren, B er den høgaste karakteren i den utanlandske karakterskalaen og C er den lågaste ståkarakteren i den utanlandske karakterskalaen. Verdien av $$|\\frac{4\\: \\cdot\\: (A-B)}{(B-C)}|$$ er alltid eit positivt tal.
 

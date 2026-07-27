@@ -15,7 +15,7 @@ xml_hash: "51fdaf399713ec4a9fecb08f8e10de4c26a8dd3d07c2831188454cbb329d26a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Istedetfor de nuværende Fogedembeder oprettes:Særskilte Amtskassererbestillinger,1 til hvilke henlægges Fogdernes Oppebørselsforretninger.særskilte Politimesterembeder, til hvilke henlægges Fogdernes øvrige Forretninger, forsaavidt de ikke ved denne Lov ophæves eller henlægges til andre Tjenestemænd.
+Istedetfor de nuværende Fogedembeder oprettes:
+
+1. Særskilte Amtskassererbestillinger,1 til hvilke henlægges Fogdernes Oppebørselsforretninger.
+2. særskilte Politimesterembeder, til hvilke henlægges Fogdernes øvrige Forretninger, forsaavidt de ikke ved denne Lov ophæves eller henlægges til andre Tjenestemænd.
 
 Dog kan Forretninger, der ikke ved Lov er tillagte Fogedembederne, efter Kongens Bestemmelse henlægges til andre Tjenestemænd end Politimestre.
 
@@ -44,7 +47,11 @@ Den Fogderne efter Formandskabsloven af 14 Januar 1837 for Landet med senere Til
 
 ## § 4.
 
-Forsaavidt noget Byfogedembede ophæves, henlægges af de samme nu tilliggende Forretninger:Dommer- og Skriverforretninger, Skifte- og Auktionsforretninger, Notarialforretninger, Arrest- og Forbudsforretninger, samt Mændsopnævnelser til Sorenskrivere.Oppebørselsforretninger til Amtskasserere.Politiforretninger og Raadstuskriverforretninger samt [Magistratsforretninger],1 der ikke ovenfor under Litr. a er nævnt, til Politimestre eller efter Kongens Bestemmelse til en anden offentlig Tjenestemand.
+Forsaavidt noget Byfogedembede ophæves, henlægges af de samme nu tilliggende Forretninger:
+
+1. Dommer- og Skriverforretninger, Skifte- og Auktionsforretninger, Notarialforretninger, Arrest- og Forbudsforretninger, samt Mændsopnævnelser til Sorenskrivere.
+2. Oppebørselsforretninger til Amtskasserere.
+3. Politiforretninger og Raadstuskriverforretninger samt [Magistratsforretninger],1 der ikke ovenfor under Litr. a er nævnt, til Politimestre eller efter Kongens Bestemmelse til en anden offentlig Tjenestemand.
 
 > Endret ved [lover 21 juni 1985 nr. 78](lov/1985-06-21-78), [26 juni 1992 nr. 86](lov/1992-06-26-86).
 
@@ -68,7 +75,9 @@ Amtskasserere1 og Politimestre samt Amtskassereres Betjente tilkommer paa Reiser
 
 [Politimestre er for Reiser til Eftersyn af Maal og Vægt berettigede til, foruden den dem efter Regulativet tilkommende Skydsgodtgjørelse, at erholde efter Regning godtgjort nødvendigt Udlæg for Befordring af medført fornøden Bagage.]2
 
-1 Etter sktbl. skattekontoret, jf. [sktfvl. § 2-1](lov/2016-05-27-14/§2-1).2 Nå uten betydning, se [lov 26 jan 2007 nr. 4](lov/2007-01-26-4).
+1 Etter sktbl. skattekontoret, jf. [sktfvl. § 2-1](lov/2016-05-27-14/§2-1).
+
+2 Nå uten betydning, se [lov 26 jan 2007 nr. 4](lov/2007-01-26-4).
 
 ## § 9.
 

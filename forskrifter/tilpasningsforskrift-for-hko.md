@@ -15,7 +15,7 @@ xml_hash: "6b3a01771d67f7e95f91eaa95486fafe1b666d7024f16beab2e87b7db3d19a15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,13 @@ Forskriften gjør nødvendige tilpasninger til [universitets- og høyskoleloven]
 
 ## § 2. Høgskolen for kriminalomsorg sitt ansvar og oppgaver
 
-Høgskolen for kriminalomsorghar ansvaret for høyskoleutdanningen i straffegjennomføringskal tilby etter- og videreutdanning for personer som jobber med straffegjennomføring og kriminalomsorgskal drive forskning, faglig utviklingsarbeid og formidling av høy kvalitet innen straffegjennomføring og kriminalomsorg.For øvrig gjelder reglene om høyskolers oppgaver i [universitets- og høyskoleloven § 2-1](lov/2024-03-08-9/§2-1).
+Høgskolen for kriminalomsorg
+
+1. har ansvaret for høyskoleutdanningen i straffegjennomføring
+2. skal tilby etter- og videreutdanning for personer som jobber med straffegjennomføring og kriminalomsorg
+3. skal drive forskning, faglig utviklingsarbeid og formidling av høy kvalitet innen straffegjennomføring og kriminalomsorg.
+
+For øvrig gjelder reglene om høyskolers oppgaver i [universitets- og høyskoleloven § 2-1](lov/2024-03-08-9/§2-1).
 
 HKO kan i forskrift gi regler om opptak til ettårig påbyggingsutdanning til bachelor i straffegjennomføring og til enkeltemner.
 
@@ -48,9 +54,18 @@ For å få opptak til studier ved HKO som innebærer praksis i kriminalomsorgen,
 
 ## § 6. Særregler for studenter som er ansatt i lønnet utdanningsstilling (aspiranter)
 
-Følgende bestemmelser gjelder ikke for ansatte studenter:[universitets- og høyskoleforskriften § 7-1](forskrift/2024-06-28-1392/§7-1) om skikkethetsvurderingreglene om reaksjoner, beslutningsmyndighet, saksbehandling og klage i [universitets- og høyskoleloven §§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-03-08-9/§12-8)[universitets- og høyskoleloven § 12-9](lov/2024-03-08-9/§12-9) om dekning av kostnader ved klage og [§ 12-10](lov/2024-03-08-9/§12-10) om domstolsprøving[universitets- og høyskoleloven § 14-1](lov/2024-03-08-9/§14-1) om institusjonens nemnd for studentsaker og [universitets- og høyskoleforskriften § 8-1](forskrift/2024-06-28-1392/§8-1) om klagesaker som behandles av felles klagenemnd[forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13).
+Følgende bestemmelser gjelder ikke for ansatte studenter:
 
-Høgskolen for kriminalomsorg kan i forskrift fastsette regler som gjelder ansatte studenter omskikkethetreaksjoner, beslutningsmyndighet, saksbehandling og klage i saker etter [universitets- og høyskoleloven §§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-03-08-9/§12-8).
+1. [universitets- og høyskoleforskriften § 7-1](forskrift/2024-06-28-1392/§7-1) om skikkethetsvurdering
+2. reglene om reaksjoner, beslutningsmyndighet, saksbehandling og klage i [universitets- og høyskoleloven §§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-03-08-9/§12-8)
+3. [universitets- og høyskoleloven § 12-9](lov/2024-03-08-9/§12-9) om dekning av kostnader ved klage og [§ 12-10](lov/2024-03-08-9/§12-10) om domstolsprøving
+4. [universitets- og høyskoleloven § 14-1](lov/2024-03-08-9/§14-1) om institusjonens nemnd for studentsaker og [universitets- og høyskoleforskriften § 8-1](forskrift/2024-06-28-1392/§8-1) om klagesaker som behandles av felles klagenemnd
+5. [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13).
+
+Høgskolen for kriminalomsorg kan i forskrift fastsette regler som gjelder ansatte studenter om
+
+1. skikkethet
+2. reaksjoner, beslutningsmyndighet, saksbehandling og klage i saker etter [universitets- og høyskoleloven §§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-03-08-9/§12-8).
 
 ## § 7. Ikrafttredelse og opphevelse
 

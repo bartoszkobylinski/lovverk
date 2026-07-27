@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Formål
 
-Norsk kulturminnefond skal:bidra til å styrke arbeidet med å bevare verneverdige kulturminner og kulturmiljøbidra til at et mangfold av kulturminner og kulturmiljø kan benyttes som grunnlag for framtidig opplevelse, kunnskap, utvikling og verdiskapingbidra til at kulturminner og kulturmiljø kan benyttes som ressurser i en sirkulær økonomi.
+Norsk kulturminnefond skal:
+
+1. bidra til å styrke arbeidet med å bevare verneverdige kulturminner og kulturmiljø
+2. bidra til at et mangfold av kulturminner og kulturmiljø kan benyttes som grunnlag for framtidig opplevelse, kunnskap, utvikling og verdiskaping
+3. bidra til at kulturminner og kulturmiljø kan benyttes som ressurser i en sirkulær økonomi.
 
 > Endret ved forskrift [3 juni 2022 nr. 964](forskrift/2022-06-03-964) (i kraft 1 juli 2022).
 
@@ -106,7 +110,10 @@ Styret fastsetter faggruppenes ansvar og oppgaver.
 
 Tilskudd fra Kulturminnefondet gis på grunnlag av en skjønnsmessig vurdering av objektets kulturmiljøfaglige verdi og tiltakets virkning på denne, jf. [§ 2](forskrift/2003-06-27-801/§2). Mulighetene for bruk etter gjennomføring av tiltaket, bør vurderes særskilt.
 
-Kulturminnefondet skal initiere og støtte prosjekter som:har samfinansiering mellom offentlige og private aktører, samt prosjekter som utløser private midler eller betydelig egeninnsatskommer allmennheten til gode og som skaper gode synergieffekter.
+Kulturminnefondet skal initiere og støtte prosjekter som:
+
+1. har samfinansiering mellom offentlige og private aktører, samt prosjekter som utløser private midler eller betydelig egeninnsats
+2. kommer allmennheten til gode og som skaper gode synergieffekter.
 
 Det kan som hovedregel ikke gis tilskudd til tiltak som er sluttført på vedtakstidspunktet. Dersom det foreligger særlige grunner, kan det likevel gis tilskudd.
 
@@ -142,7 +149,13 @@ Vedtak i saker om tildeling av tilskudd kan påklages til Klima- og miljødepart
 
 ### § 15. Informasjon til søkere som får tildelt tilskudd – innhold i tilsagnsbrevet
 
-Kulturminnefondet skal utarbeide tilsagnsbrev, som angir størrelsen på tilskuddet og alle vilkår som har betydning for mottakers gjennomføring av tiltaket. Brevet skal også bl.a. inneholde:frist for igangsetting og ferdigstillelse for tiltaket,krav til rapportering og oppbevaring av regnskapsbilag og annen regnskapsdokumentasjon,opplysninger om mulige kontroller som kan bli gjennomført for å undersøke om midlene er nyttet i samsvar med vilkårene for tilsagnet,vilkår om at retten til tilskudd kan bortfalle helt eller delvis eller at utbetalt tilskudd helt eller delvis kan bli krevd tilbakebetalt, dersom forutsetning for tilskudd blir brutt,opplysning om søkers plikt til umiddelbart å informere Kulturminnefondet skriftlig om alle forhold som har betydning for gjennomføringen av tiltaket, enten det gjelder fremdrift, økonomi eller den kulturmiljøfaglige utførelsen av arbeidene.
+Kulturminnefondet skal utarbeide tilsagnsbrev, som angir størrelsen på tilskuddet og alle vilkår som har betydning for mottakers gjennomføring av tiltaket. Brevet skal også bl.a. inneholde:
+
+1. frist for igangsetting og ferdigstillelse for tiltaket,
+2. krav til rapportering og oppbevaring av regnskapsbilag og annen regnskapsdokumentasjon,
+3. opplysninger om mulige kontroller som kan bli gjennomført for å undersøke om midlene er nyttet i samsvar med vilkårene for tilsagnet,
+4. vilkår om at retten til tilskudd kan bortfalle helt eller delvis eller at utbetalt tilskudd helt eller delvis kan bli krevd tilbakebetalt, dersom forutsetning for tilskudd blir brutt,
+5. opplysning om søkers plikt til umiddelbart å informere Kulturminnefondet skriftlig om alle forhold som har betydning for gjennomføringen av tiltaket, enten det gjelder fremdrift, økonomi eller den kulturmiljøfaglige utførelsen av arbeidene.
 
 Tilsagnsmottakere skal undertegne en aksept på at de godtar vilkårene i tilsagnet innen seks uker etter mottatt tilsagn. I motsatt fall kan tilskuddet bortfalle i sin helhet.
 
@@ -160,7 +173,12 @@ Siste delutbetaling skjer etter at sluttrapport foreligger og er godkjent av Kul
 
 Kulturminnefondet fastsetter krav til hvordan tilskuddsmottaker skal rapportere. Det kan kreves revisorattester.
 
-Sluttrapport skal foreligge senest tre måneder etter at tiltaket er gjennomført. Sluttrapporten skal inneholde:regnskapsoversikt over kostnader og finansiering satt opp som Kulturminnefondet har fastsatt, jf. [§ 13](forskrift/2003-06-27-801/§13),orientering om tiltaket er gjennomført iht tilsagnet,redegjørelse for hele prosjektet og rapport for utført arbeid, jf forskriftens [§ 13](forskrift/2003-06-27-801/§13) ogdokumentasjon i form av fotografier eller andre medier.
+Sluttrapport skal foreligge senest tre måneder etter at tiltaket er gjennomført. Sluttrapporten skal inneholde:
+
+1. regnskapsoversikt over kostnader og finansiering satt opp som Kulturminnefondet har fastsatt, jf. [§ 13](forskrift/2003-06-27-801/§13),
+2. orientering om tiltaket er gjennomført iht tilsagnet,
+3. redegjørelse for hele prosjektet og rapport for utført arbeid, jf forskriftens [§ 13](forskrift/2003-06-27-801/§13) og
+4. dokumentasjon i form av fotografier eller andre medier.
 
 Det kan gjøres unntak fra kravet om frist for sluttrapport dersom særlige grunner taler for det.
 

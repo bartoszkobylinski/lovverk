@@ -15,7 +15,7 @@ xml_hash: "16bef2cfe2ac5f04f16fa3ab97e647d16c39629063932f5dcd0f904bd590ddbc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,13 @@ Barneombudet åremålsbeskikkes av Kongen i statsråd for en periode på seks å
 
 Ombudet har til oppgave å fremme barns interesser overfor det offentlige og private, og skal følge med i utviklingen av barns oppvekstkår.
 
-Ombudet skal særlig:av eget tiltak eller som høringsinstans ivareta barns interesser i samband med planlegging og utredning på alle felter,følge med i at lovgivning til vern om barns interesser blir fulgt, herunder om norsk rett og forvaltningspraksis samsvarer med de forpliktelser Norge har etter FNs [konvensjon om barnets rettigheter](lov/1999-05-21-30/bkn).foreslå tiltak som kan styrke barns rettssikkerhet,fremme forslag til tiltak som kan løse eller forebygge konflikter mellom barn og samfunn,følge med at det gis tilstrekkelig informasjon til det offentlige og private om barns rettigheter og de tiltak de har behov for.
+Ombudet skal særlig:
+
+1. av eget tiltak eller som høringsinstans ivareta barns interesser i samband med planlegging og utredning på alle felter,
+2. følge med i at lovgivning til vern om barns interesser blir fulgt, herunder om norsk rett og forvaltningspraksis samsvarer med de forpliktelser Norge har etter FNs [konvensjon om barnets rettigheter](lov/1999-05-21-30/bkn).
+3. foreslå tiltak som kan styrke barns rettssikkerhet,
+4. fremme forslag til tiltak som kan løse eller forebygge konflikter mellom barn og samfunn,
+5. følge med at det gis tilstrekkelig informasjon til det offentlige og private om barns rettigheter og de tiltak de har behov for.
 
 Ombudet kan virke av eget tiltak eller etter henvendelse fra andre. Barneombudet avgjør selv om en henvendelse gir tilstrekkelig grunn til behandling.
 

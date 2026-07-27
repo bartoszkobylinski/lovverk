@@ -15,7 +15,7 @@ xml_hash: "111879c9ea43d51e08819515a3039fe606c06e7ff817d47599358e52dcd9cceb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,11 +42,22 @@ I denne forskrift betyr:
 
 4\.
 
-*Anerkjent klasseinstitusjon:* Klasseinstitusjon som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):American Bureau of Shipping (ABS)Bureau Veritas (BV)DNVLloyd's Register of Shipping (LR)Nippon Kaiji Kyoaki (Class NK)Rina Services S.p.A (RINA).
+*Anerkjent klasseinstitusjon:* Klasseinstitusjon som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):
+
+1. American Bureau of Shipping (ABS)
+2. Bureau Veritas (BV)
+3. DNV
+4. Lloyd's Register of Shipping (LR)
+5. Nippon Kaiji Kyoaki (Class NK)
+6. Rina Services S.p.A (RINA).
 
 5\.
 
-*MOU-klasseinstitusjon:* Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktigelse mv. av flyttbare iv2nretninger. Disse institusjonene er:American Bureau of Shipping (ABS)DNVLloyd's Register of Shipping (LR).
+*MOU-klasseinstitusjon:* Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktigelse mv. av flyttbare iv2nretninger. Disse institusjonene er:
+
+1. American Bureau of Shipping (ABS)
+2. DNV
+3. Lloyd's Register of Shipping (LR).
 
 6\.
 
@@ -54,8 +65,18 @@ I denne forskrift betyr:
 
 7.*Sertifisert:*
 
-1. Vedrørende utstyr og materialer: Utstyr som tilfredsstiller angitte krav, eller materialer som er i henhold til anerkjent standard, og som er sertifisert, godkjent eller typegodkjent av:teknisk kontrollorganakkreditert sertifiseringsorgananerkjent klasseinstitusjonannen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet, elleradministrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen ([SOLAS)](traktat/1974-11-01-1)
-2. Vedrørende arbeidsutførelse: Personell som i henhold til regelkrav skal ha spesielle kvalifikasjoner for å utføre bestemte arbeidsoppgaver, og som er sertifisert av:anerkjent klasseinstitusjonakkreditert sertifiseringsorgan, ellerannen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet.
+1. Vedrørende utstyr og materialer: Utstyr som tilfredsstiller angitte krav, eller materialer som er i henhold til anerkjent standard, og som er sertifisert, godkjent eller typegodkjent av:
+
+   - teknisk kontrollorgan
+   - akkreditert sertifiseringsorgan
+   - anerkjent klasseinstitusjon
+   - annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet, eller
+   - administrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen ([SOLAS)](traktat/1974-11-01-1)
+2. Vedrørende arbeidsutførelse: Personell som i henhold til regelkrav skal ha spesielle kvalifikasjoner for å utføre bestemte arbeidsoppgaver, og som er sertifisert av:
+
+   - anerkjent klasseinstitusjon
+   - akkreditert sertifiseringsorgan, eller
+   - annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet.
 
 8\.
 
@@ -91,7 +112,12 @@ slik bygget at de er i stand til å forhindre framtrengning av røyk og flammer 
 
 12.4.
 
-isolert med sertifiserte ubrennbare materialer, slik at gjennomsnittstemperaturen på den ikke-utsatte side ikke stiger mer enn 140 °C over den opprinnelige temperatur, og heller ikke skal temperaturen på noe enkelt punkt, innbefattet en eventuell skjøt, stige mer enn 180 °C over den opprinnelige temperatur, innenfor de nedenfor oppgitte tider:Klasse A-60 – 60 minutterKlasse A-30 – 30 minutterKlasse A-15 – 15 minutterKlasse A-0 – 0 minutter
+isolert med sertifiserte ubrennbare materialer, slik at gjennomsnittstemperaturen på den ikke-utsatte side ikke stiger mer enn 140 °C over den opprinnelige temperatur, og heller ikke skal temperaturen på noe enkelt punkt, innbefattet en eventuell skjøt, stige mer enn 180 °C over den opprinnelige temperatur, innenfor de nedenfor oppgitte tider:
+
+- Klasse A-60 – 60 minutter
+- Klasse A-30 – 30 minutter
+- Klasse A-15 – 15 minutter
+- Klasse A-0 – 0 minutter
 
 13\.
 
@@ -103,7 +129,10 @@ er slik bygget at de kan hindre framtrengning av flamme til utløpet av den før
 
 13.2.
 
-har en slik isolasjonsverdi at gjennomsnittstemperaturen på den ikke-utsatte side ikke stiger mer enn 140 °C over den opprinnelige temperatur, og heller ikke skal temperaturen på noe enkelt punkt, inklusive en eventuell skjøt, stige mer enn 225 °C over den opprinnelige temperatur i løpet av den tid som er angitt nedenfor:Klasse B-15 – 15 minutterKlasse B-0 – 0 minutter, og
+har en slik isolasjonsverdi at gjennomsnittstemperaturen på den ikke-utsatte side ikke stiger mer enn 140 °C over den opprinnelige temperatur, og heller ikke skal temperaturen på noe enkelt punkt, inklusive en eventuell skjøt, stige mer enn 225 °C over den opprinnelige temperatur i løpet av den tid som er angitt nedenfor:
+
+- Klasse B-15 – 15 minutter
+- Klasse B-0 – 0 minutter, og
 
 13.3.
 
@@ -127,7 +156,11 @@ slik bygget at de vil hindre framtrengning av røyk og flammer i 2 timer når de
 
 14.4.
 
-isolert på den brannbelastede side på en slik måte at gjennomsnittstemperaturen på den ikke-utsatte side ikke stiger mer enn 140 °C over den opprinnelige temperatur. Temperaturen stiger ikke på noe enkelt punkt mer enn 180 °C over den opprinnelige temperaturen innenfor de tider som er angitt nedenfor:Klasse H-120 – 120 minutterKlasse H-60 – 60 minutterKlasse H-0 – 0 minutter
+isolert på den brannbelastede side på en slik måte at gjennomsnittstemperaturen på den ikke-utsatte side ikke stiger mer enn 140 °C over den opprinnelige temperatur. Temperaturen stiger ikke på noe enkelt punkt mer enn 180 °C over den opprinnelige temperaturen innenfor de tider som er angitt nedenfor:
+
+- Klasse H-120 – 120 minutter
+- Klasse H-60 – 60 minutter
+- Klasse H-0 – 0 minutter
 
 14.5.
 
@@ -283,7 +316,10 @@ Bruk av ild, bart lys eller utføring av gnistdannende arbeidsoperasjoner er bar
 
 5\.
 
-Sveising eller skjæring med gass eller elektrisitet må skje på forsvarlig måte og i henhold til de til enhver tid gjeldende forskrifter. Utstyr for elektrisk sveising skal være i samsvar med forskrifter fastsatt av Direktoratet for samfunnssikkerhet og beredskap. Når det skal utføres varmt arbeide, skal det innhentes en arbeidstillatelse før arbeidet begynner. Arbeidet må utføres under iakttakelse av alle nødvendige sikkerhetsregler. Brannvernlederen skal påse:At sveise- og skjæreutstyret er gassfritt, og at så vidt mulig intet brennbart finnes i nærheten av arbeidsstedet. Brennbare ting som ikke kan fjernes, må forsvarlig tildekkes.At slokningsvakt og nødvendig brannvernutstyr er for hånden. Etter arbeidets avslutning skal arbeidsstedet nøye kontrolleres slik at ulmebrann ikke kan oppstå.
+Sveising eller skjæring med gass eller elektrisitet må skje på forsvarlig måte og i henhold til de til enhver tid gjeldende forskrifter. Utstyr for elektrisk sveising skal være i samsvar med forskrifter fastsatt av Direktoratet for samfunnssikkerhet og beredskap. Når det skal utføres varmt arbeide, skal det innhentes en arbeidstillatelse før arbeidet begynner. Arbeidet må utføres under iakttakelse av alle nødvendige sikkerhetsregler. Brannvernlederen skal påse:
+
+- At sveise- og skjæreutstyret er gassfritt, og at så vidt mulig intet brennbart finnes i nærheten av arbeidsstedet. Brennbare ting som ikke kan fjernes, må forsvarlig tildekkes.
+- At slokningsvakt og nødvendig brannvernutstyr er for hånden. Etter arbeidets avslutning skal arbeidsstedet nøye kontrolleres slik at ulmebrann ikke kan oppstå.
 
 > Endret ved [forskrifter 11 april 2003 nr. 493](forskrift/2003-04-11-493) (i kraft 1 juli 2003), [28 juni 2004 nr. 1046](forskrift/2004-06-28-1046).
 
@@ -465,12 +501,32 @@ I boligkvarteret skal det ikke være over 15 m avstand mellom hvert håndsloknin
 
 4\.
 
-Følgende apparattyper og hensiktsmessige kombinasjoner av disse, skal i alminnelighet benyttes i de ulike områder av innretningen:Boligkvarter:Vannapparater ogpulverapparater og eventuelt i tillegg til detteCO2 -apparater.
+Følgende apparattyper og hensiktsmessige kombinasjoner av disse, skal i alminnelighet benyttes i de ulike områder av innretningen:
+
+Boligkvarter:
+
+- Vannapparater og
+- pulverapparater og eventuelt i tillegg til dette
+- CO2 -apparater.
 
 Pulverapparater skal plasseres i nærheten av sikringsskap og andre elektriske installasjoner.
 
 Vannapparater skal være slik plassert at et vannapparat alltid er innen rimelig rekkevidde.
-Kontrollstasjoner:Pulverapparater og/ellerCO2 -apparaterMaskinrom:Pulverapparater og/ellerCO2 -apparaterArbeidsrom:Vannapparater og/ellerpulverapparater og/ellerCO2 -apparater
+Kontrollstasjoner:
+
+- Pulverapparater og/eller
+- CO2 -apparater
+
+Maskinrom:
+
+- Pulverapparater og/eller
+- CO2 -apparater
+
+Arbeidsrom:
+
+- Vannapparater og/eller
+- pulverapparater og/eller
+- CO2 -apparater
 
 > Endret ved [forskrift 11 april 2003 nr. 493](forskrift/2003-04-11-493) (i kraft 1 juli 2003).
 
@@ -540,7 +596,17 @@ Ett teppe av brannhindrende materiale.
 
 ### § 14. Tillegg til røykdykkerutstyret.
 
-Følgende tillegg til røykdykkerutstyret skal finnes om bord:En høytrykkskompressor egnet for fylling av luftflasker til trykkluftapparater. Kompressoren skal ha en kapasitet på minimum 75 liter fri luft pr. min. Kompressoren skal plasseres der luften er ren nok til å anvendes som pusteluft.Ett bærbart sertifisert UHF-radiosett for intern kommunikasjon for hvert røykdykkerutstyr, slokkeleder, teknisk lag, samt styrehus, minimum 11 sett. Settene skal også være sertifisert for bruk i eksplosjonsfarlige områder, sone 1. Radiosettene kan benyttes for annen intern kommunikasjon om bord, men det forlangte antall sett skal alltid være tilgjengelig ved branntilfelle. UHF-settene skal kunne tilkobles helmasker.Ett sertifisert trykkluftapparat beregnet for bruk i radiorom og plassert nær inngang til dette.For hvert annet sett røykdykkerutstyr:ett bærbart acetylen/oksygen skjæreapparatett brekkjern og ett slagspett.Et nødvendig antall økser som skal anbringes i nærheten av utganger.Nøkkelpersoner med lederansvar i en brannsituasjon i henhold til innretningens alarminstruks, skal ha bekledning som i farge og/eller merking klart skiller seg ut fra annet personale.
+Følgende tillegg til røykdykkerutstyret skal finnes om bord:
+
+1. En høytrykkskompressor egnet for fylling av luftflasker til trykkluftapparater. Kompressoren skal ha en kapasitet på minimum 75 liter fri luft pr. min. Kompressoren skal plasseres der luften er ren nok til å anvendes som pusteluft.
+2. Ett bærbart sertifisert UHF-radiosett for intern kommunikasjon for hvert røykdykkerutstyr, slokkeleder, teknisk lag, samt styrehus, minimum 11 sett. Settene skal også være sertifisert for bruk i eksplosjonsfarlige områder, sone 1. Radiosettene kan benyttes for annen intern kommunikasjon om bord, men det forlangte antall sett skal alltid være tilgjengelig ved branntilfelle. UHF-settene skal kunne tilkobles helmasker.
+3. Ett sertifisert trykkluftapparat beregnet for bruk i radiorom og plassert nær inngang til dette.
+4. For hvert annet sett røykdykkerutstyr:
+
+   - ett bærbart acetylen/oksygen skjæreapparat
+   - ett brekkjern og ett slagspett.
+5. Et nødvendig antall økser som skal anbringes i nærheten av utganger.
+6. Nøkkelpersoner med lederansvar i en brannsituasjon i henhold til innretningens alarminstruks, skal ha bekledning som i farge og/eller merking klart skiller seg ut fra annet personale.
 
 > Endret ved forskrifter [11 april 2003 nr. 493](forskrift/2003-04-11-493) (i kraft 1 juli 2003), [18 des 2014 nr. 1911](forskrift/2014-12-18-1911) (i kraft 1 jan 2015), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -746,7 +812,25 @@ Brannintegritet av dekk mellom tilstøtende områder.1
 | Arbeidsrom<br>(Høy brannrisiko) | (9) | A-60 | A-0 | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 e/ | A-0 c/ | + |
 | Åpent dekk | (10) | + | + | + | + | + | + | + | – | + | – |
 
-1 Anmerkninger til tabellene i [§ 20](forskrift/1984-01-31-227/§20) nr. 2 og 3.Anm. 1:Hvor rommet inneholder en nødkraftkilde eller komponenter til en nødkraftkilde, tillates ikke dette rommet å støte opp til rom som inneholder innretningens dieselgeneratorinstallasjon eller komponenter for denne installasjonen. Rom for nødkraftkilden skal plasseres i betryggende avstand fra eksplosjonsfarlig område.For fastsettelse av skottklassifisering, se [§ 19](forskrift/1984-01-31-227/§19), nr. 2 og nr. 3.Hvor rommene er av samme numeriske kategori og anmerkning (c) er anført, er skott og dekk med den isolasjonsstandard som vist i tabellene, bare forlangt når de tilstøtende rom brukes til forskjellige formål.Skott som atskiller styrehusets kartrom fra radiorommet, kan tilfredsstille B-15 standard.Avhengig av områdeklassifiseringen vil Sjøfartsdirektoratet kunne sette strengere krav til brannintegritet og konstruktiv atskillelse av tilstøtende områder/rom etter nærmere risikovurderinger, jf. [§ 4](forskrift/1984-01-31-227/§4).+ Angir at skille skal være av stål eller likeverdig materiale, men behøver ikke være skille av klasse A. En vil vurdere spesielt ytterflater som kan bli utsatt for hydrokarbonbrann.– Angir ingen krav.Anm. 2: Boligkvarter og kontrollstasjoner skal være plassert utenfor eksplosjonsfarlige områder, og de skal være atskilt så langt det er praktisk mulig fra slike områder. Ytterflater mot bore- eller produksjonsområdet skal minst være av brannklasse A-60. På grunnlag av resultatene fra utførte risikovurderinger/beregninger av dimensjonerende brann kan det bli krevd brannskiller av klasse «H».Anm. 3: Ved plassering av hovedmaskinrom/generatorrom skal den branntekniske standard mot boreområde være spesielt vurdert.Anm. 4: Installasjon av sprinkleranlegg gir ikke reduksjon i isolasjonsverdiene.
+1 Anmerkninger til tabellene i [§ 20](forskrift/1984-01-31-227/§20) nr. 2 og 3.
+
+Anm. 1:
+
+1. Hvor rommet inneholder en nødkraftkilde eller komponenter til en nødkraftkilde, tillates ikke dette rommet å støte opp til rom som inneholder innretningens dieselgeneratorinstallasjon eller komponenter for denne installasjonen. Rom for nødkraftkilden skal plasseres i betryggende avstand fra eksplosjonsfarlig område.
+2. For fastsettelse av skottklassifisering, se [§ 19](forskrift/1984-01-31-227/§19), nr. 2 og nr. 3.
+3. Hvor rommene er av samme numeriske kategori og anmerkning (c) er anført, er skott og dekk med den isolasjonsstandard som vist i tabellene, bare forlangt når de tilstøtende rom brukes til forskjellige formål.
+4. Skott som atskiller styrehusets kartrom fra radiorommet, kan tilfredsstille B-15 standard.
+5. Avhengig av områdeklassifiseringen vil Sjøfartsdirektoratet kunne sette strengere krav til brannintegritet og konstruktiv atskillelse av tilstøtende områder/rom etter nærmere risikovurderinger, jf. [§ 4](forskrift/1984-01-31-227/§4).
+
+\+ Angir at skille skal være av stål eller likeverdig materiale, men behøver ikke være skille av klasse A. En vil vurdere spesielt ytterflater som kan bli utsatt for hydrokarbonbrann.
+
+– Angir ingen krav.
+
+Anm. 2: Boligkvarter og kontrollstasjoner skal være plassert utenfor eksplosjonsfarlige områder, og de skal være atskilt så langt det er praktisk mulig fra slike områder. Ytterflater mot bore- eller produksjonsområdet skal minst være av brannklasse A-60. På grunnlag av resultatene fra utførte risikovurderinger/beregninger av dimensjonerende brann kan det bli krevd brannskiller av klasse «H».
+
+Anm. 3: Ved plassering av hovedmaskinrom/generatorrom skal den branntekniske standard mot boreområde være spesielt vurdert.
+
+Anm. 4: Installasjon av sprinkleranlegg gir ikke reduksjon i isolasjonsverdiene.
 
 > Endret ved [forskrifter 11 april 2003 nr. 493](forskrift/2003-04-11-493) (i kraft 1 juli 2003), [19 des 2012 nr. 1345](forskrift/2012-12-19-1345) (i kraft 1 jan 2013).
 
@@ -908,7 +992,11 @@ Gassdetektorer i eksplosjonsfarlig område, sone 1 og sone 2.
 
 2.1.
 
-Gassdetekroter for hydrokarbongass (HC) og hydrogensulfidgass (H2 S) skal være fast installert i:boredekksområdetvibrasjonssiktrommet, over eller i utløpet for tilbakestrømmen av borevæske fra brønnenøvrige områder der borevæske, reduksjonsventil eller overflatemontert brønnsikringsventil kan avgi gass.
+Gassdetekroter for hydrokarbongass (HC) og hydrogensulfidgass (H2 S) skal være fast installert i:
+
+- boredekksområdet
+- vibrasjonssiktrommet, over eller i utløpet for tilbakestrømmen av borevæske fra brønnen
+- øvrige områder der borevæske, reduksjonsventil eller overflatemontert brønnsikringsventil kan avgi gass.
 
 2.2.
 
@@ -936,7 +1024,12 @@ Gassdeteksjonssystemet skal indikere gasskonsentrasjon i prosent av nedre eksplo
 
 3.3.
 
-Det skal kunne gis gassalarm ved to konsentrasjonsnivåer. Hydrokarbongass (HC) ved 20 % av LEL (lavnivå) og 60 % av LEL (høynivå). Hydrogensulfidgass (H2 S) ved 10 ppm (lavnivå) og 20 ppm. (høynivå). Lys- og lydalarm skal gis i følgende områder både ved lav- og høynivå gassindikasjon:hvor gass detekterespå boredekki bemannet kontrollstasjon/nødkontrollstasjoni andre tilsvarende områder.
+Det skal kunne gis gassalarm ved to konsentrasjonsnivåer. Hydrokarbongass (HC) ved 20 % av LEL (lavnivå) og 60 % av LEL (høynivå). Hydrogensulfidgass (H2 S) ved 10 ppm (lavnivå) og 20 ppm. (høynivå). Lys- og lydalarm skal gis i følgende områder både ved lav- og høynivå gassindikasjon:
+
+- hvor gass detekteres
+- på boredekk
+- i bemannet kontrollstasjon/nødkontrollstasjon
+- i andre tilsvarende områder.
 
 Alarmer skal plasseres lett synlige og hørbare og være i henhold til en anerkjent standard.1
 
@@ -1036,15 +1129,37 @@ Manuell trinnvis nødavstengning:
 
 2.4.1
 
-Nivå 1. Nødavstengning innbefatter:Alle ventilasjonssystemer unntatt ventilasjonssystemene i eksplosjonsfarlige områder, ventilasjon nødvendig for å oprettholde drift av generatorsett for elektrisk kraftforsyning og ventilasjon for kritisk utstyr for overvåking og sikkerhet.Brennere til hjelpekjeler og forbrenningsovner.Eventuelt brønnstrømtestutstyr.
+Nivå 1. Nødavstengning innbefatter:
+
+- Alle ventilasjonssystemer unntatt ventilasjonssystemene i eksplosjonsfarlige områder, ventilasjon nødvendig for å oprettholde drift av generatorsett for elektrisk kraftforsyning og ventilasjon for kritisk utstyr for overvåking og sikkerhet.
+- Brennere til hjelpekjeler og forbrenningsovner.
+- Eventuelt brønnstrømtestutstyr.
 
 2.4.2
 
-Nivå 2. Nødavstengning innbefatter:Utstyr nevnt i nr. 2.4.1.Hovedgeneratorsett for elektrisk kraftforsyning inkludert ventilasjonssystem og andre hjelpesystemer for disse.NødgeneratorsettBatterisystemer med unntak av de batterisystemene som inngår i det utstyr som er nevnt nedenfor i nr. 2.5.Trykkavlasting av eventuelt brønnstrømtestutstyrAndre dieselmotorer o.l. som ikke er godkjent for sone 2.
+Nivå 2. Nødavstengning innbefatter:
+
+- Utstyr nevnt i nr. 2.4.1.
+- Hovedgeneratorsett for elektrisk kraftforsyning inkludert ventilasjonssystem og andre hjelpesystemer for disse.
+- Nødgeneratorsett
+- Batterisystemer med unntak av de batterisystemene som inngår i det utstyr som er nevnt nedenfor i nr. 2.5.
+- Trykkavlasting av eventuelt brønnstrømtestutstyr
+- Andre dieselmotorer o.l. som ikke er godkjent for sone 2.
 
 2.5.
 
-Etter en nivå 2 avstengning skal minst følgende utstyr være funksjonsdyktig:Nødbelysning (batterilys)Kontrollsystem for brønnsikringsventil (BOP)GeneralalarmsystemHøyttaleranlegg (PA)Kommunikasjonsutstyr for eksternt og internt nødsamband (UHF/VHF-samband)Utløsningssystem for fastmonterte brannslokkingsanlegg.Utstyr for utløsning av ankerliner inkludert overrislingsanlegget.Lys- og lydsignaler som krevd i [§ 13](forskrift/1984-01-31-227/§13) og nr. 2.1 og nr. 2.2 i byggeforskriften.1Dykkesystem dersom dette er nødvendig for dykkernes sikkerhet.Indikeringssystem for gjennomført nødavstengning.
+Etter en nivå 2 avstengning skal minst følgende utstyr være funksjonsdyktig:
+
+- Nødbelysning (batterilys)
+- Kontrollsystem for brønnsikringsventil (BOP)
+- Generalalarmsystem
+- Høyttaleranlegg (PA)
+- Kommunikasjonsutstyr for eksternt og internt nødsamband (UHF/VHF-samband)
+- Utløsningssystem for fastmonterte brannslokkingsanlegg.
+- Utstyr for utløsning av ankerliner inkludert overrislingsanlegget.
+- Lys- og lydsignaler som krevd i [§ 13](forskrift/1984-01-31-227/§13) og nr. 2.1 og nr. 2.2 i byggeforskriften.1
+- Dykkesystem dersom dette er nødvendig for dykkernes sikkerhet.
+- Indikeringssystem for gjennomført nødavstengning.
 
 Ovennevnte utstyr skal være sertifisert for bruk i eksplosjonsfarlig område, sone 2. Alt elektrisk utstyr skal tilfredsstille de til enhver tid gjeldende forskrifter fastsatt av Direktoratet for samfunnssikkerhet og beredskap. Selve batteripakken må ikke være spesielt eksplosjonsbeskyttet dersom plasseringen er i sikkert område. Elektrisk utstyr som skal holdes i funksjon under større gassutslipp og som er overtrykksbeskyttet (Ex.p.) må være sikret overtrykk selv om hoved- og nødkraft faller ut.
 
@@ -1132,7 +1247,11 @@ Utstyr som sendes om bord av operatørselskap/serviceselskap o.l. som f.eks. ver
 
 1\.
 
-Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når slike vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+3. Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når slike vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 2\.
 

@@ -15,7 +15,7 @@ xml_hash: "272721dc30ed32c48c8a55017f61c996fd8c7db28067f003c7b0ada959971502"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,19 @@ Oppsynets stedlige virkeområde er sammenfallende med det stedlige virkeområde 
 
 ## § 2. Oppsynets oppgaver
 
-Oppsynet skal føre kontroll med at bestemmelsene gitt i eller i medhold av[lov 28. juni 1957 nr. 16 om friluftslivet](lov/1957-06-28-16),[lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven)](lov/2009-06-19-100), og eldre vernevedtak som nevnt i [naturmangfoldloven § 77](lov/2009-06-19-100/§77),[lov 10. juni 1977 nr. 82 om motorferdsel i utmark og vassdrag](lov/1977-06-10-82),[lov 9. juni 1978 nr. 50 om kulturminner](lov/1978-06-09-50),[lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv.](lov/2025-06-20-102),[lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk m.v.,[lov 5. juni 2009 nr. 35 om naturområder i Oslo og nærliggende kommuner (markaloven)](lov/2009-06-05-35),[lov 26. juni 1998 nr. 47 om fritids- og småbåter § 40](lov/1998-06-26-47/§40), og[lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33)blir overholdt. Det samme gjelder [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall](lov/1981-03-13-6), så langt departementet bestemmer.
+Oppsynet skal føre kontroll med at bestemmelsene gitt i eller i medhold av
+
+1. [lov 28. juni 1957 nr. 16 om friluftslivet](lov/1957-06-28-16),
+2. [lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven)](lov/2009-06-19-100), og eldre vernevedtak som nevnt i [naturmangfoldloven § 77](lov/2009-06-19-100/§77),
+3. [lov 10. juni 1977 nr. 82 om motorferdsel i utmark og vassdrag](lov/1977-06-10-82),
+4. [lov 9. juni 1978 nr. 50 om kulturminner](lov/1978-06-09-50),
+5. [lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv.](lov/2025-06-20-102),
+6. [lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk m.v.,
+7. [lov 5. juni 2009 nr. 35 om naturområder i Oslo og nærliggende kommuner (markaloven)](lov/2009-06-05-35),
+8. [lov 26. juni 1998 nr. 47 om fritids- og småbåter § 40](lov/1998-06-26-47/§40), og
+9. [lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33)
+
+blir overholdt. Det samme gjelder [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall](lov/1981-03-13-6), så langt departementet bestemmer.
 
 Departementet kan gi forskrift om at oppsynet skal føre kontroll med overholdelsen av bestemmelser gitt i medhold av [plan- og bygningsloven](lov/2008-06-27-71) så langt disse er gitt for å gjennomføre [naturmangfoldloven kapittel VI](lov/2009-06-19-100/kapvi) (utvalgte naturtyper).
 
@@ -46,7 +58,14 @@ På Finnmarkseiendommens grunn skal oppsynet føre den ytterligere kontroll som 
 
 Oppsynet har rett til å ferdes med bruk av motorkjøretøy, båt eller luftfartøy når dette er nødvendig for utføring av oppsynets oppgaver. Motorferdsel skal skje så skånsomt og begrenset som forholdene tillater.
 
-Når det er nødvendig for å føre kontroll med at reglene angitt i [§ 2](lov/1996-06-21-38/§2) første og annet ledd blir overholdt og det ikke etter sakens art og forholdene ellers vil være et uforholdsmessig inngrep, kan oppsynetstanse personer, kjøretøy og fartøykreve fremlagt tillatelser, dispensasjoner mv. som er påkrevet etter de lover oppsynet fører tilsyn med og som er pliktig å medbringekreve opplysninger om navn, fødselsdato, registrert adresse og nåværende bosted samt kreve opplysninger av betydning for om reglene i [§ 2](lov/1996-06-21-38/§2) første og annet ledd er overholdt, såfremt opplysningene ikke er underlagt lovbestemt taushetspliktkreve adgang til private veier, og ved mistanke om overtredelse av regler nevnt i [§ 2](lov/1996-06-21-38/§2) første og annet ledd kreve adgang til innmark, med unntak av hustomt og gårdsplassgjennomføre lyd- og bildeopptak og andre dokumentasjonstiltak som er tilsvarende lite inngripendebortvise personer eller pålegge fjerning av kjøretøy, fartøy og gjenstander for å stanse pågående ulovlig adferd i strid med bestemmelsene nevnt i [§ 2](lov/1996-06-21-38/§2) første og annet ledd.
+Når det er nødvendig for å føre kontroll med at reglene angitt i [§ 2](lov/1996-06-21-38/§2) første og annet ledd blir overholdt og det ikke etter sakens art og forholdene ellers vil være et uforholdsmessig inngrep, kan oppsynet
+
+1. stanse personer, kjøretøy og fartøy
+2. kreve fremlagt tillatelser, dispensasjoner mv. som er påkrevet etter de lover oppsynet fører tilsyn med og som er pliktig å medbringe
+3. kreve opplysninger om navn, fødselsdato, registrert adresse og nåværende bosted samt kreve opplysninger av betydning for om reglene i [§ 2](lov/1996-06-21-38/§2) første og annet ledd er overholdt, såfremt opplysningene ikke er underlagt lovbestemt taushetsplikt
+4. kreve adgang til private veier, og ved mistanke om overtredelse av regler nevnt i [§ 2](lov/1996-06-21-38/§2) første og annet ledd kreve adgang til innmark, med unntak av hustomt og gårdsplass
+5. gjennomføre lyd- og bildeopptak og andre dokumentasjonstiltak som er tilsvarende lite inngripende
+6. bortvise personer eller pålegge fjerning av kjøretøy, fartøy og gjenstander for å stanse pågående ulovlig adferd i strid med bestemmelsene nevnt i [§ 2](lov/1996-06-21-38/§2) første og annet ledd.
 
 Første og annet ledd innskrenker ikke de fullmakter som følger av lovene nevnt i [§ 2](lov/1996-06-21-38/§2) første og annet ledd.
 

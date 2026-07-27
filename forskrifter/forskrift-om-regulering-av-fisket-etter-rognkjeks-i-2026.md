@@ -34,7 +34,10 @@ Ved landing av selvtilvirket rogn er omregningsfaktoren 1,2, slik at 1 kg tilvir
 
 ## § 3. Fangstperiode
 
-Fartøy med adgang til å delta i fisket etter rognkjeks kan fiske i følgende områder og tidsrom:Nordland, Troms og Finnmark vest for 26° Ø, fra og med 1. januar til og med 20. juni.Finnmark øst for 26° Ø, fra og med 1. januar til og med 10. september.
+Fartøy med adgang til å delta i fisket etter rognkjeks kan fiske i følgende områder og tidsrom:
+
+1. Nordland, Troms og Finnmark vest for 26° Ø, fra og med 1. januar til og med 20. juni.
+2. Finnmark øst for 26° Ø, fra og med 1. januar til og med 10. september.
 
 Grensen ved 26° Ø trekkes slik at den samsvarer med statistikkområde 03.
 

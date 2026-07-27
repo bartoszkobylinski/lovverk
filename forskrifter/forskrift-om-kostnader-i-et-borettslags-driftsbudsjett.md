@@ -24,7 +24,20 @@ eu_basis: []
 
 ## § 1. Kostnader som skal inn i et borettslags driftsbudsjett
 
-Bygge- og finansieringsplanen til et borettslag skal inneholde et driftsbudsjett, jf. [burettslagslova § 2-6](lov/2003-06-06-39/§2-6) annet ledd. Driftsbudsjettet skal omfatte ett vanlig driftsår, og skal som et minimum inneholde opplysninger om:RentekostnaderAvdragVedlikehold og drift av bygningsmasse og tomtearealEnergi og strømForsikringer og eventuelle sikringsfondKommunale avgifter (eiendomsskatt, feieravgift, vann- og kloakkavgift, renovasjonsavgift m.m.)Felles kabel-tv, telefoni/internettLeie av teknisk anlegg eller installasjonerPersonalkostnader og honorar til tillitsvalgteHonorar til forretningsfører og revisorAvskrivninger på driftsmidler som kan aktiveres (traktor, andre anleggsmaskiner osv.)Andre driftskostnader og forvaltningstjenester, herunder eventuelt festeavgift, og eventuell årskontingent til boligbyggelaget, vaktmestertjenester, vekter, renhold, dugnad og lignende.
+Bygge- og finansieringsplanen til et borettslag skal inneholde et driftsbudsjett, jf. [burettslagslova § 2-6](lov/2003-06-06-39/§2-6) annet ledd. Driftsbudsjettet skal omfatte ett vanlig driftsår, og skal som et minimum inneholde opplysninger om:
+
+1. Rentekostnader
+2. Avdrag
+3. Vedlikehold og drift av bygningsmasse og tomteareal
+4. Energi og strøm
+5. Forsikringer og eventuelle sikringsfond
+6. Kommunale avgifter (eiendomsskatt, feieravgift, vann- og kloakkavgift, renovasjonsavgift m.m.)
+7. Felles kabel-tv, telefoni/internett
+8. Leie av teknisk anlegg eller installasjoner
+9. Personalkostnader og honorar til tillitsvalgte
+10. Honorar til forretningsfører og revisor
+11. Avskrivninger på driftsmidler som kan aktiveres (traktor, andre anleggsmaskiner osv.)
+12. Andre driftskostnader og forvaltningstjenester, herunder eventuelt festeavgift, og eventuell årskontingent til boligbyggelaget, vaktmestertjenester, vekter, renhold, dugnad og lignende.
 
 Har borettslaget avdragsfrie lån med angitt avdragsfri periode, skal dette opplyses om i note til driftsbudsjettet.
 

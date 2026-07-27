@@ -15,7 +15,7 @@ xml_hash: "a7762f7f0a487e8908d1338ad924db9f33c47cd97086bcbafa949d99ef06a724"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelder for norske:FinansieringsforetakInkassoforetakEiendomsmeglerforetak.
+Forskriften gjelder for norske:
+
+1. Finansieringsforetak
+2. Inkassoforetak
+3. Eiendomsmeglerforetak.
 
 Forskriften omfatter IKT-systemer som er av betydning for foretakets virksomhet. For eksterne brukere av foretakets IKT-systemer skal det foreligge avtaler som sikrer at forskriftens krav til sikkerhet og dokumentasjon ivaretas.
 
@@ -100,7 +104,15 @@ Prosedyrene for endringshåndtering skal omfatte alle endringer som kan påvirke
 
 Foretaket skal ha en dokumentert kriseplan som skal iverksettes dersom IKT-driften ikke kan opprettholdes som følge av en krise. Med krise menes hendelser som forårsaker driftsavbrudd slik at foretakets IKT-drift ikke kan fortsette med normalt tilgjengelige ressurser.
 
-Kriseplanen skal minst omfatteoversikt over IKT-systemer som inngår i planenbeskrivelse av kriseløsningenklare kriterier for oppstart av kriseløsningenakseptabel lengde på et driftsavbrudd før kriseløsningen iverksettesprosedyrer som inneholder de nødvendige aktiviteter for å gjenopprette IKT-driftenoversikt over ansvarsforhold og prosedyrer ved oppstart av kriseløsningeninformasjon til berørte ansatte, leverandører, kunder, offentlige myndigheter og media.
+Kriseplanen skal minst omfatte
+
+- oversikt over IKT-systemer som inngår i planen
+- beskrivelse av kriseløsningen
+- klare kriterier for oppstart av kriseløsningen
+- akseptabel lengde på et driftsavbrudd før kriseløsningen iverksettes
+- prosedyrer som inneholder de nødvendige aktiviteter for å gjenopprette IKT-driften
+- oversikt over ansvarsforhold og prosedyrer ved oppstart av kriseløsningen
+- informasjon til berørte ansatte, leverandører, kunder, offentlige myndigheter og media.
 
 Det skal minst en gang årlig gjennomføres opplæring, øvelse og testing av at kriseløsningen virker som forutsatt. Resultatet av testen skal dokumenteres.
 

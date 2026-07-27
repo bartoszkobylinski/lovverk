@@ -32,7 +32,11 @@ Det kan gis tilskudd til bedrifter, etablerere og andre næringsaktører. Med n�
 
 Kommunene kan unntaksvis tildele midler til egne tiltak som oppfyller formålet.
 
-I vurderingen av søknadene om tilskudd legges det særlig vekt påi hvor stor grad tiltaket fremmer økt aktivitet, sysselsetting og verdiskaping basert på lokale utfordringer, behov og potensiali hvor stor grad bedriftsrettede tiltak, tilskudd til etablerere og andre næringsrettede tiltak antas å motvirke negative virkninger av covid-19-utbruddethvor raskt tiltaket kan settes i gang.
+I vurderingen av søknadene om tilskudd legges det særlig vekt på
+
+1. i hvor stor grad tiltaket fremmer økt aktivitet, sysselsetting og verdiskaping basert på lokale utfordringer, behov og potensial
+2. i hvor stor grad bedriftsrettede tiltak, tilskudd til etablerere og andre næringsrettede tiltak antas å motvirke negative virkninger av covid-19-utbruddet
+3. hvor raskt tiltaket kan settes i gang.
 
 [Forskrift 23. mai 2018 nr. 747](forskrift/2018-05-23-747) om Kommunal- og moderniseringsdepartementets distrikts- og regionalpolitiske tilskuddsposter forvaltet av fylkeskommunene [§ 6](forskrift/2018-05-23-747/§6) gjelder i tillegg.
 
@@ -50,11 +54,24 @@ Tilskuddsmidlene utbetales etterskuddsvis.Tilskuddet kan likevel delvis utbetale
 
 ## § 5. Øvrige regler fra forskrift for distrikts- og regionalpolitiske virkemidler som skal gjelde
 
-Følgende paragrafer i [forskrift 23. mai 2018 nr. 747](forskrift/2018-05-23-747) om Kommunal- og moderniseringsdepartementets distrikts- og regionalpolitiske tilskuddsposter forvaltet av fylkeskommunene gjelder:[§ 3](forskrift/2020-06-30-1437/§3) Kunngjøring ved utlysning av tilskuddsmidlene[§ 4](forskrift/2020-06-30-1437/§4) Krav til en søknad om tilskudd, med unntak av andre ledd bokstav g, i, j og k[§ 5](forskrift/2020-06-30-1437/§5) Søknadsbehandlingen og forholdet til forvaltningsloven[§ 7](forskrift/2020-06-30-1437/§7) Adgangen til å kontrollere at vilkårene for tilskudd er oppfylt. Evaluering[§ 8](forskrift/2020-06-30-1437/§8) Redusering og stans i utbetaling av tilskuddsmidler. Krav om tilbakebetaling[§ 9](forskrift/2020-06-30-1437/§9) Krav til tilskuddsmottakers rapportering§ 23 Krav til forvalters tilsyn med tilskuddsmidlene§ 24 Konsekvenser ved feil forvaltning og feil bruk av tilskuddsmidlene§ 26 Oppfølging og rapportering for forvaltere.
+Følgende paragrafer i [forskrift 23. mai 2018 nr. 747](forskrift/2018-05-23-747) om Kommunal- og moderniseringsdepartementets distrikts- og regionalpolitiske tilskuddsposter forvaltet av fylkeskommunene gjelder:
+
+1. [§ 3](forskrift/2020-06-30-1437/§3) Kunngjøring ved utlysning av tilskuddsmidlene
+2. [§ 4](forskrift/2020-06-30-1437/§4) Krav til en søknad om tilskudd, med unntak av andre ledd bokstav g, i, j og k
+3. [§ 5](forskrift/2020-06-30-1437/§5) Søknadsbehandlingen og forholdet til forvaltningsloven
+4. [§ 7](forskrift/2020-06-30-1437/§7) Adgangen til å kontrollere at vilkårene for tilskudd er oppfylt. Evaluering
+5. [§ 8](forskrift/2020-06-30-1437/§8) Redusering og stans i utbetaling av tilskuddsmidler. Krav om tilbakebetaling
+6. [§ 9](forskrift/2020-06-30-1437/§9) Krav til tilskuddsmottakers rapportering
+7. § 23 Krav til forvalters tilsyn med tilskuddsmidlene
+8. § 24 Konsekvenser ved feil forvaltning og feil bruk av tilskuddsmidlene
+9. § 26 Oppfølging og rapportering for forvaltere.
 
 ## § 6. Vurdering av måloppnåelsen
 
-Kommunen skal vurdere måloppnåelse ut frautviklingen i sysselsetting og antall arbeidsplasserutvikling i verdiskaping og økonomisk aktivitet.
+Kommunen skal vurdere måloppnåelse ut fra
+
+1. utviklingen i sysselsetting og antall arbeidsplasser
+2. utvikling i verdiskaping og økonomisk aktivitet.
 
 ## § 7. Delegering av forvalteransvar
 

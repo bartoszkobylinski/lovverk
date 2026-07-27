@@ -15,7 +15,7 @@ xml_hash: "51c40e3fd4250e0568c94147dcc5d295c16f7657757517870222c7216efa83d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,10 @@ eu_basis: []
 
 Det er forbudt å direkte eller indirekte forsyne, selge, overføre, eller eksportere håndvåpen, lette våpen og ammunisjon til Haiti.
 
-Forbudet i første ledd gjelder ikke:Forsyning, salg, overførsel eller eksport av håndvåpen, lette våpen, eller ammunisjon, til FN eller et FN-godkjent oppdrag eller til en sikkerhetsenhet som opererer under Haitis regjerings kommando, som er bestemt til bruk av eller i samordning med disse enhetene og som utelukkende har til formål å fremme målene om fred og stabilitet i Haiti,Andre forsyninger, salg, overførsler eller eksport av håndvåpen, lette våpen, og ammunisjon til Haiti hvis dette er forhåndsgodkjent av Sanksjonskomiteen omtalt i [Vedlegg A](forskrift/2023-03-24-404/vedleggA) [artikkel 1 bokstav h](forskrift/2023-03-24-404/a1/bokstav/h) for å fremme målene om fred og stabilitet i Haiti.
+Forbudet i første ledd gjelder ikke:
+
+1. Forsyning, salg, overførsel eller eksport av håndvåpen, lette våpen, eller ammunisjon, til FN eller et FN-godkjent oppdrag eller til en sikkerhetsenhet som opererer under Haitis regjerings kommando, som er bestemt til bruk av eller i samordning med disse enhetene og som utelukkende har til formål å fremme målene om fred og stabilitet i Haiti,
+2. Andre forsyninger, salg, overførsler eller eksport av håndvåpen, lette våpen, og ammunisjon til Haiti hvis dette er forhåndsgodkjent av Sanksjonskomiteen omtalt i [Vedlegg A](forskrift/2023-03-24-404/vedleggA) [artikkel 1 bokstav h](forskrift/2023-03-24-404/a1/bokstav/h) for å fremme målene om fred og stabilitet i Haiti.
 
 > Endret ved forskrift [20 sep 2024 nr. 2260](forskrift/2024-09-20-2260).
 
@@ -74,11 +77,39 @@ Forskriften trer i kraft straks.
 
 ### Artikkel 1
 
-I denne forordningen menes med«krav»: ethvert omtvistet eller uomtvistet krav som er fremsatt før eller etter 28. november 2022, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,«kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,«kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,«formuesgoder»: alle typer eiendeler, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«penger»: finansielle eiendeler og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av eiendeler,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eierandeler i penger eller finansielle ressurser,«Sanksjonskomiteen»: komiteen som er opprettet under De forente nasjoners sikkerhetsråd i henhold til punkt 19 i FNs sikkerhetsrådsresolusjon 2653 (2022),«faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving eller vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester, faglig bistand omfatter også muntlig bistand,«EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkårene som er fastsatt i den nevnte traktaten, herunder deres luftrom.
+I denne forordningen menes med
+
+1. «krav»: ethvert omtvistet eller uomtvistet krav som er fremsatt før eller etter 28. november 2022, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særlig
+
+   1. krav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,
+   2. krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,
+   3. krav om kompensasjon med hensyn til en kontrakt eller transaksjon,
+   4. motkrav,
+   5. krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,
+2. «kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,
+3. «kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,
+4. «formuesgoder»: alle typer eiendeler, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+5. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,
+6. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+7. «penger»: finansielle eiendeler og fordeler av enhver art, herunder, men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+   2. innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+   4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av eiendeler,
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+   6. remburser, konnossementer og pantebrev,
+   7. dokumenter som viser eierandeler i penger eller finansielle ressurser,
+8. «Sanksjonskomiteen»: komiteen som er opprettet under De forente nasjoners sikkerhetsråd i henhold til punkt 19 i FNs sikkerhetsrådsresolusjon 2653 (2022),
+9. «faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving eller vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester, faglig bistand omfatter også muntlig bistand,
+10. «EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkårene som er fastsatt i den nevnte traktaten, herunder deres luftrom.
 
 ### Artikkel 2
 
-1\. Det er forbudtdirekte eller indirekte å yte faglig bistand knyttet til levering, produksjon, vedlikehold og bruk av håndvåpen og lette våpen, komponenter og tilbehør til disse, samt ammunisjon som opplistet i vedlegget til Rådsbeslutning (FUSP) [(EU) 2021/38](eu/32021d0038), samt av skytevåpen, deler og vesentlige komponenter til disse, samt ammunisjon som definert i Rådsforordning [(EU) nr. 258/2012](eu/32012r0258) til fysiske eller juridiske personer, enheter eller organer i Haiti eller til bruk i Haiti,direkte eller indirekte å yte finansiering eller finansiell bistand, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, til salg, levering, overføring eller eksport av varer nevnt i bokstav a, eller til yting av tilknyttet faglig bistand, til fysiske eller juridiske personer, enheter eller organer i Haiti eller til bruk i Haiti.
+1\. Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand knyttet til levering, produksjon, vedlikehold og bruk av håndvåpen og lette våpen, komponenter og tilbehør til disse, samt ammunisjon som opplistet i vedlegget til Rådsbeslutning (FUSP) [(EU) 2021/38](eu/32021d0038), samt av skytevåpen, deler og vesentlige komponenter til disse, samt ammunisjon som definert i Rådsforordning [(EU) nr. 258/2012](eu/32012r0258) til fysiske eller juridiske personer, enheter eller organer i Haiti eller til bruk i Haiti,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, til salg, levering, overføring eller eksport av varer nevnt i bokstav a, eller til yting av tilknyttet faglig bistand, til fysiske eller juridiske personer, enheter eller organer i Haiti eller til bruk i Haiti.
 
 2\. Nr. 1 gjelder ikke ytelse av faglig bistand, finansiering eller finansiell bistand som omhandlet i nr. 1 bokstav a og b, til FN eller et FN-godkjent oppdrag eller til en sikkerhetsenhet som opererer under Haitis regjerings kommando, som er bestemt til bruk av eller i samordning med disse enhetene og som utelukkende har til formål å fremme målene om fred og stabilitet i Haiti.
 
@@ -90,7 +121,16 @@ I denne forordningen menes med«krav»: ethvert omtvistet eller uomtvistet krav 
 
 ### Artikkel 4
 
-1\. Vedlegg I omfatter fysiske eller juridiske personer, enheter og organer som De forente nasjoners sikkerhetsråd («Sikkerhetsrådet») eller Sanksjonskomiteen anses for direkte eller indirekte å være ansvarlig for, delaktig eller involvert i handlinger som truer freden, sikkerheten eller stabiliteten i Haiti, herunder, men ikke begrenset til fysiske eller juridiske personer som har truet freden, sikkerheten eller stabiliteten i Haiti gjennom følgende handlinger:direkte eller indirekte å delta i eller støtte kriminell virksomhet og vold som involverer væpnede grupper og kriminelle nettverk som fremmer vold, herunder tvangsrekruttering av barn til de nevnte gruppene og nettverkene, bortføring, menneskehandel og smugling av migranter samt drap og seksualisert og kjønnsbasert vold,å støtte illegal handel med og bruk av våpen og tilknyttet materiell, eller tilknyttede illegale kapitalstrømmer,å representere, handle på vegne av eller på instruks fra personer og enheter oppført i bokstav a og b, eller på annet vis å støtte eller finansiere dem, herunder gjennom direkte eller indirekte bruk av utbytte fra organisert kriminalitet, deriblant utbytte fra framstilling av og handel med narkotika og utgangsstoffer for narkotika som har sin opprinnelse i eller transporteres gjennom Haiti, menneskehandel og smugling av migranter fra Haiti eller smugling av og ulovlig handel med våpen til eller fra Haiti,å ha brutt våpenembargoen fastsatt i punkt 11 i FNs sikkerhetsrådsresolusjon 2653 (2022), eller direkte eller indirekte ha levert, solgt eller overført til væpnede grupper eller kriminelle nettverk i Haiti eller vært mottaker av våpen eller tilhørende materiell eller faglig rådgivning, opplæring eller bistand, herunder finansiering og finansiell bistand, knyttet til voldsaktiviteter utført av væpnede grupper eller kriminelle nettverk i Haiti,å planlegge, lede eller utføre handlinger som er i strid med internasjonale menneskerettigheter, eller som innebærer brudd på menneskerettighetene, herunder handlinger som innebærer utenomrettslige drap, blant annet av kvinner og barn, samt utføring av voldshandlinger, bortføring, tvungen forsvinning eller kidnappinger for løsepenger i Haiti,å planlegge, lede eller utføre handlinger som omfatter seksuell og kjønnsbasert vold, herunder voldtekt og seksuelt slaveri i Haiti,å hindre humanitær bistand til Haiti eller tilgang til eller distribuering av humanitær bistand i Haiti,å angripe personell eller lokaler tilknyttet FNs oppdrag og operasjoner i Haiti, eller gi støtte til slike angrep.
+1\. Vedlegg I omfatter fysiske eller juridiske personer, enheter og organer som De forente nasjoners sikkerhetsråd («Sikkerhetsrådet») eller Sanksjonskomiteen anses for direkte eller indirekte å være ansvarlig for, delaktig eller involvert i handlinger som truer freden, sikkerheten eller stabiliteten i Haiti, herunder, men ikke begrenset til fysiske eller juridiske personer som har truet freden, sikkerheten eller stabiliteten i Haiti gjennom følgende handlinger:
+
+1. direkte eller indirekte å delta i eller støtte kriminell virksomhet og vold som involverer væpnede grupper og kriminelle nettverk som fremmer vold, herunder tvangsrekruttering av barn til de nevnte gruppene og nettverkene, bortføring, menneskehandel og smugling av migranter samt drap og seksualisert og kjønnsbasert vold,
+2. å støtte illegal handel med og bruk av våpen og tilknyttet materiell, eller tilknyttede illegale kapitalstrømmer,
+3. å representere, handle på vegne av eller på instruks fra personer og enheter oppført i bokstav a og b, eller på annet vis å støtte eller finansiere dem, herunder gjennom direkte eller indirekte bruk av utbytte fra organisert kriminalitet, deriblant utbytte fra framstilling av og handel med narkotika og utgangsstoffer for narkotika som har sin opprinnelse i eller transporteres gjennom Haiti, menneskehandel og smugling av migranter fra Haiti eller smugling av og ulovlig handel med våpen til eller fra Haiti,
+4. å ha brutt våpenembargoen fastsatt i punkt 11 i FNs sikkerhetsrådsresolusjon 2653 (2022), eller direkte eller indirekte ha levert, solgt eller overført til væpnede grupper eller kriminelle nettverk i Haiti eller vært mottaker av våpen eller tilhørende materiell eller faglig rådgivning, opplæring eller bistand, herunder finansiering og finansiell bistand, knyttet til voldsaktiviteter utført av væpnede grupper eller kriminelle nettverk i Haiti,
+5. å planlegge, lede eller utføre handlinger som er i strid med internasjonale menneskerettigheter, eller som innebærer brudd på menneskerettighetene, herunder handlinger som innebærer utenomrettslige drap, blant annet av kvinner og barn, samt utføring av voldshandlinger, bortføring, tvungen forsvinning eller kidnappinger for løsepenger i Haiti,
+6. å planlegge, lede eller utføre handlinger som omfatter seksuell og kjønnsbasert vold, herunder voldtekt og seksuelt slaveri i Haiti,
+7. å hindre humanitær bistand til Haiti eller tilgang til eller distribuering av humanitær bistand i Haiti,
+8. å angripe personell eller lokaler tilknyttet FNs oppdrag og operasjoner i Haiti, eller gi støtte til slike angrep.
 
 2\. Vedlegg I inneholder begrunnelsen for at de berørte fysiske eller juridiske personene, enhetene eller organene er listeført.
 
@@ -98,7 +138,20 @@ I denne forordningen menes med«krav»: ethvert omtvistet eller uomtvistet krav 
 
 ### Artikkel 4a
 
-1\. [Vedlegg Ia](forskrift/2023-03-24-404/vedleggIa) omfatter de fysiske eller juridiske personene, enhetene eller organene som Rådet har listeført, somdirekte eller indirekte er ansvarlig for, delaktig i eller involvert i handlinger som truer freden, stabiliteten og sikkerheten i Haiti, herunderdirekte eller indirekte å delta i eller støtte kriminell virksomhet og vold som involverer væpnede grupper og kriminelle nettverk som fremmer vold, herunder tvangsrekruttering av barn til de nevnte gruppene og nettverkene, bortføring, menneskehandel og smugling av migranter samt drap og seksualisert og kjønnsbasert vold,å støtte ulovlig handel med og bruk av våpen og tilknyttet materiell, eller tilknyttede ulovlige kapitalstrømmer,å representere, handle på vegne av eller på instruks fra personer og enheter oppført i punkt i og ii, eller på annet vis å støtte eller finansiere dem, herunder gjennom direkte eller indirekte bruk av utbytte fra organisert kriminalitet, deriblant utbytte fra framstilling av og handel med narkotika og utgangsstoffer for narkotika som har sin opprinnelse i eller transporteres gjennom Haiti, menneskehandel og smugling av migranter fra Haiti eller smugling av og ulovlig handel med våpen til eller fra Haiti,å ha brutt våpenembargoen eller direkte eller indirekte ha levert, solgt eller overført til væpnede grupper eller kriminelle nettverk i Haiti eller vært mottaker av våpen eller tilhørende materiell eller faglig rådgivning, opplæring eller bistand, herunder finansiering og finansiell bistand, knyttet til voldsaktiviteter utført av væpnede grupper eller kriminelle nettverk i Haiti,å planlegge, lede eller utføre handlinger som er i strid med internasjonale menneskerettigheter, eller som innebærer brudd på menneskerettighetene, herunder handlinger som innebærer utenomrettslige drap, blant annet av kvinner og barn, samt utføring av voldshandlinger, bortføring, tvungen forsvinning eller kidnappinger for løsepenger i Haiti,å planlegge, lede eller utføre handlinger som omfatter seksualisert og kjønnsbasert vold, herunder voldtekt og seksuelt slaveri i Haiti,å hindre humanitær bistand til Haiti eller tilgang til eller distribuering av humanitær bistand i Haiti,å angripe personell eller lokaler tilknyttet Unionens delegasjoner og medlemsstatenes diplomatiske stasjoner i Haiti, eller gi støtte til slike angrep,undergraver demokratiet eller rettsstaten i Haiti gjennom alvorlige finansielle misligheter i forbindelse med offentlige midler eller uautorisert eksport av kapital, ellerhar tilknytning til fysiske eller juridiske personer, enheter eller organer som er listeført i henhold til bokstav a og b.
+1\. [Vedlegg Ia](forskrift/2023-03-24-404/vedleggIa) omfatter de fysiske eller juridiske personene, enhetene eller organene som Rådet har listeført, som
+
+1. direkte eller indirekte er ansvarlig for, delaktig i eller involvert i handlinger som truer freden, stabiliteten og sikkerheten i Haiti, herunder
+
+   1. direkte eller indirekte å delta i eller støtte kriminell virksomhet og vold som involverer væpnede grupper og kriminelle nettverk som fremmer vold, herunder tvangsrekruttering av barn til de nevnte gruppene og nettverkene, bortføring, menneskehandel og smugling av migranter samt drap og seksualisert og kjønnsbasert vold,
+   2. å støtte ulovlig handel med og bruk av våpen og tilknyttet materiell, eller tilknyttede ulovlige kapitalstrømmer,
+   3. å representere, handle på vegne av eller på instruks fra personer og enheter oppført i punkt i og ii, eller på annet vis å støtte eller finansiere dem, herunder gjennom direkte eller indirekte bruk av utbytte fra organisert kriminalitet, deriblant utbytte fra framstilling av og handel med narkotika og utgangsstoffer for narkotika som har sin opprinnelse i eller transporteres gjennom Haiti, menneskehandel og smugling av migranter fra Haiti eller smugling av og ulovlig handel med våpen til eller fra Haiti,
+   4. å ha brutt våpenembargoen eller direkte eller indirekte ha levert, solgt eller overført til væpnede grupper eller kriminelle nettverk i Haiti eller vært mottaker av våpen eller tilhørende materiell eller faglig rådgivning, opplæring eller bistand, herunder finansiering og finansiell bistand, knyttet til voldsaktiviteter utført av væpnede grupper eller kriminelle nettverk i Haiti,
+   5. å planlegge, lede eller utføre handlinger som er i strid med internasjonale menneskerettigheter, eller som innebærer brudd på menneskerettighetene, herunder handlinger som innebærer utenomrettslige drap, blant annet av kvinner og barn, samt utføring av voldshandlinger, bortføring, tvungen forsvinning eller kidnappinger for løsepenger i Haiti,
+   6. å planlegge, lede eller utføre handlinger som omfatter seksualisert og kjønnsbasert vold, herunder voldtekt og seksuelt slaveri i Haiti,
+   7. å hindre humanitær bistand til Haiti eller tilgang til eller distribuering av humanitær bistand i Haiti,
+   8. å angripe personell eller lokaler tilknyttet Unionens delegasjoner og medlemsstatenes diplomatiske stasjoner i Haiti, eller gi støtte til slike angrep,
+2. undergraver demokratiet eller rettsstaten i Haiti gjennom alvorlige finansielle misligheter i forbindelse med offentlige midler eller uautorisert eksport av kapital, eller
+3. har tilknytning til fysiske eller juridiske personer, enheter eller organer som er listeført i henhold til bokstav a og b.
 
 2\. [Vedlegg Ia](forskrift/2023-03-24-404/vedleggIa) inneholder begrunnelsen for at personene og enhetene som er nevnt i vedlegget, er listeført.
 
@@ -106,14 +159,28 @@ I denne forordningen menes med«krav»: ethvert omtvistet eller uomtvistet krav 
 
 ### Artikkel 5
 
-Artikkel 3 nr. 1 og 2 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at livsnødvendig humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-d mens og i det omfanget de handler i en slik egenskap, ellerandre relevante aktører som fastsatt av Sanksjonskomiteen når det gjelder [vedlegg I](forskrift/2023-03-24-404/vedleggI) og av Rådet når det gjelder [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa).
+Artikkel 3 nr. 1 og 2 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at livsnødvendig humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+1. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+2. internasjonale organisasjoner,
+3. humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+4. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+5. ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-d mens og i det omfanget de handler i en slik egenskap, eller
+6. andre relevante aktører som fastsatt av Sanksjonskomiteen når det gjelder [vedlegg I](forskrift/2023-03-24-404/vedleggI) og av Rådet når det gjelder [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa).
 
 ### Artikkel 6
 
-1\. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i [artikkel 3](forskrift/2023-03-24-404/a3) og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa) og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter eller administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,
-forutsatt at den berørte medlemsstatens kompetente myndighet, når tillatelsen gjelder en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI), har underrettet Sanksjonskomiteen om beslutningen og om sin hensikt om å gi tillatelse, og Sanksjonskomiteen ikke har kommet med innsigelser mot dette innen fem virkedager etter at underretningen ble gitt.
+1\. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i [artikkel 3](forskrift/2023-03-24-404/a3) og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene
 
-2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra [artikkel 3](forskrift/2023-03-24-404/a3) og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt atSanksjonskomiteen, dersom tillatelsen gjelder en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI), er underrettet om at dette er fastslått av den berørte medlemsstatens kompetente myndighet, og at dette er godkjent av komiteen, ogden berørte medlemsstaten, dersom tillatelsen gjelder en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa), minst to uker før tillatelsen gis, har underrettet andre medlemsstater og Kommisjonen om begrunnelsen for at den mener at det bør gis særskilt tillatelse.
+1. er nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa) og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,
+2. utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,
+3. utelukkende skal gå til betaling av avgifter eller administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,
+   forutsatt at den berørte medlemsstatens kompetente myndighet, når tillatelsen gjelder en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI), har underrettet Sanksjonskomiteen om beslutningen og om sin hensikt om å gi tillatelse, og Sanksjonskomiteen ikke har kommet med innsigelser mot dette innen fem virkedager etter at underretningen ble gitt.
+
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra [artikkel 3](forskrift/2023-03-24-404/a3) og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt at
+
+1. Sanksjonskomiteen, dersom tillatelsen gjelder en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI), er underrettet om at dette er fastslått av den berørte medlemsstatens kompetente myndighet, og at dette er godkjent av komiteen, og
+2. den berørte medlemsstaten, dersom tillatelsen gjelder en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa), minst to uker før tillatelsen gis, har underrettet andre medlemsstater og Kommisjonen om begrunnelsen for at den mener at det bør gis særskilt tillatelse.
 
 3\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, innen to uker etter at tillatelsen er gitt.
 
@@ -131,13 +198,25 @@ forutsatt at den berørte medlemsstatens kompetente myndighet, når tillatelsen 
 
 ### Artikkel 7
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra [artikkel 3 nr. 1](forskrift/2023-03-24-404/a3/nummer/1) og gi tillatelse til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet for fysiske eller juridiske personer, enheter eller organer som er oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa), dersom følgende vilkår er oppfylt:pengene eller formuesgodene er gjenstand forfor en juridisk eller fysisk person, en enhet eller et organ som er oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI): en rettslig, administrativ eller voldgiftsmessig beslutning truffet før datoen da personen, enheten eller organet nevnt i artikkel 4 ble oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI), eller for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før denne datoen,for en juridisk eller fysisk person, en enhet eller et organ som er oppført i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa): en voldgiftsmessig beslutning truffet før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i [artikkel 4a](forskrift/2023-03-24-404/a4a) ble oppført i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa), eller en rettslig eller administrativ beslutning truffet i Unionen eller en rettslig beslutning som er rettskraftig i den berørte medlemsstaten, før eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en beslutning som nevnt i bokstav a) eller anerkjent som gyldige i henhold til en slik beslutning, innenfor de rammene som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,beslutningen eller tilbakeholdsretten er ikke til fordel for fysiske eller juridiske personer, enheter eller organer oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa),anerkjennelse av beslutningen eller tilbakeholdsretten ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten, ogfor en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI), Sanksjonskomiteen har blitt underrettet av medlemsstaten om beslutningen eller tilbakeholdsretten.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra [artikkel 3 nr. 1](forskrift/2023-03-24-404/a3/nummer/1) og gi tillatelse til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet for fysiske eller juridiske personer, enheter eller organer som er oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa), dersom følgende vilkår er oppfylt:
+
+1. pengene eller formuesgodene er gjenstand for
+
+   1. for en juridisk eller fysisk person, en enhet eller et organ som er oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI): en rettslig, administrativ eller voldgiftsmessig beslutning truffet før datoen da personen, enheten eller organet nevnt i artikkel 4 ble oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI), eller for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før denne datoen,
+   2. for en juridisk eller fysisk person, en enhet eller et organ som er oppført i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa): en voldgiftsmessig beslutning truffet før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i [artikkel 4a](forskrift/2023-03-24-404/a4a) ble oppført i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa), eller en rettslig eller administrativ beslutning truffet i Unionen eller en rettslig beslutning som er rettskraftig i den berørte medlemsstaten, før eller etter denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en beslutning som nevnt i bokstav a) eller anerkjent som gyldige i henhold til en slik beslutning, innenfor de rammene som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. beslutningen eller tilbakeholdsretten er ikke til fordel for fysiske eller juridiske personer, enheter eller organer oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa),
+4. anerkjennelse av beslutningen eller tilbakeholdsretten ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten, og
+5. for en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI), Sanksjonskomiteen har blitt underrettet av medlemsstaten om beslutningen eller tilbakeholdsretten.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 8
 
-1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa) skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa), kan medlemsstatenes kompetente myndigheter gjøre unntak fra [artikkel 3 nr. 1](forskrift/2023-03-24-404/a3/nummer/1) og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom den kompetente myndigheten har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa), og,betalingen ikke er i strid med [artikkel 3 nr. 2](forskrift/2023-03-24-404/a3/nummer/2).
+1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa) skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa), kan medlemsstatenes kompetente myndigheter gjøre unntak fra [artikkel 3 nr. 1](forskrift/2023-03-24-404/a3/nummer/1) og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom den kompetente myndigheten har fastslått at
+
+1. pengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa), og,
+2. betalingen ikke er i strid med [artikkel 3 nr. 2](forskrift/2023-03-24-404/a3/nummer/2).
 
 1a. For fysiske eller juridiske personer, enheter eller organer oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) skal den berørte medlemsstaten underrette Sanksjonskomiteen ti virkedager i forveien om at den har til hensikt å gi tillatelse.
 
@@ -147,12 +226,19 @@ forutsatt at den berørte medlemsstatens kompetente myndighet, når tillatelsen 
 
 1\. Bestemmelsen i artikkel 3 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført fra tredjeparter til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette den berørte kompetente myndigheten om slike transaksjoner.
 
-2\. [Artikkel 3 nr. 2](forskrift/2023-03-24-404/a3/nummer/2) gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i [artikkel 4](forskrift/2023-03-24-404/a4) ble oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa), ellerbeløp forfalt til betaling til en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa) i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er truffet i Unionen, eller som er rettskraftige i den berørte medlemsstaten,
-forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med [artikkel 3](forskrift/2023-03-24-404/a3).
+2\. [Artikkel 3 nr. 2](forskrift/2023-03-24-404/a3/nummer/2) gjelder ikke beløp som tilføres frosne konti i form av
+
+1. renter eller annen avkastning på disse kontiene,
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i [artikkel 4](forskrift/2023-03-24-404/a4) ble oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa), eller
+3. beløp forfalt til betaling til en fysisk eller juridisk person, en enhet eller et organ oppført i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa) i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er truffet i Unionen, eller som er rettskraftige i den berørte medlemsstaten,
+   forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med [artikkel 3](forskrift/2023-03-24-404/a3).
 
 ### Artikkel 10
 
-1\. Uavhengig av gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organeromgående gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med [artikkel 3 nr. 1](forskrift/2023-03-24-404/a3/nummer/1), til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene nevnt i bokstav a.
+1\. Uavhengig av gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organer
+
+1. omgående gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med [artikkel 3 nr. 1](forskrift/2023-03-24-404/a3/nummer/1), til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, og
+2. samarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene nevnt i bokstav a.
 
 2\. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
 
@@ -162,7 +248,12 @@ forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med [ar
 
 1\. Det er forbudt forsettlig å delta i aktiviteter som har som formål eller virkning å omgå tiltakene nevnt i artikkel 2 og 3.
 
-2\. Fysiske eller juridiske personer, enheter eller organer oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa) skalsenest 9. januar 2023 eller innen seks uker fra datoen for oppføring i [vedlegg I](forskrift/2023-03-24-404/vedleggI), alt etter hvilken dato som er den seneste, innberette penger eller formuesgoder innenfor en medlemsstats jurisdiksjon som tilhører, eies, innehas eller kontrolleres av dem, til de kompetente myndighetene i medlemsstaten der disse pengene eller formuesgodene befinner seg,senest 9. september 2023 eller innen seks uker fra datoen for oppføring i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa), alt etter hvilken dato som er den seneste, innberette penger eller formuesgoder innenfor en medlemsstats jurisdiksjon som tilhører, eies, innehas eller kontrolleres av dem, til de kompetente myndighetene i medlemsstaten der disse pengene eller formuesgodene befinner seg, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av disse opplysningene.
+2\. Fysiske eller juridiske personer, enheter eller organer oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa) skal
+
+1. senest 9. januar 2023 eller innen seks uker fra datoen for oppføring i [vedlegg I](forskrift/2023-03-24-404/vedleggI), alt etter hvilken dato som er den seneste, innberette penger eller formuesgoder innenfor en medlemsstats jurisdiksjon som tilhører, eies, innehas eller kontrolleres av dem, til de kompetente myndighetene i medlemsstaten der disse pengene eller formuesgodene befinner seg,
+
+   1. senest 9. september 2023 eller innen seks uker fra datoen for oppføring i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa), alt etter hvilken dato som er den seneste, innberette penger eller formuesgoder innenfor en medlemsstats jurisdiksjon som tilhører, eies, innehas eller kontrolleres av dem, til de kompetente myndighetene i medlemsstaten der disse pengene eller formuesgodene befinner seg, og
+2. samarbeide med den kompetente myndigheten om en eventuell verifisering av disse opplysningene.
 
 3\. Manglende overholdelse av nr. 2 skal betraktes som deltakelse, som nevnt i nr. 1, i virksomhet som har som formål eller virkning å omgå tiltakene omtalt i artikkel 2.
 
@@ -184,7 +275,10 @@ forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med [ar
 
 ### Artikkel 13
 
-1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene framsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa),fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a.
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene framsettes av
+
+1. fysiske eller juridiske personer, enheter eller organer som er oppført i [vedlegg I](forskrift/2023-03-24-404/vedleggI) eller [Ia](forskrift/2023-03-24-404/vedleggIa),
+2. fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a.
 
 2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsene i nr. 1.
 
@@ -192,7 +286,10 @@ forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med [ar
 
 ### Artikkel 14
 
-1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig ompenger som er frosset i henhold til [artikkel 3 nr. 1](forskrift/2023-03-24-404/a3/nummer/1), og tillatelser som er gitt i henhold til [artikkel 6](forskrift/2023-03-24-404/a6), [6a](forskrift/2023-03-24-404/a6a), [6b](forskrift/2023-03-24-404/a6b), [7](forskrift/2023-03-24-404/a7) og [8](forskrift/2023-03-24-404/a8),brudd på og håndheving av bestemmelsene samt rettsavgjørelser fra nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig om
+
+1. penger som er frosset i henhold til [artikkel 3 nr. 1](forskrift/2023-03-24-404/a3/nummer/1), og tillatelser som er gitt i henhold til [artikkel 6](forskrift/2023-03-24-404/a6), [6a](forskrift/2023-03-24-404/a6a), [6b](forskrift/2023-03-24-404/a6b), [7](forskrift/2023-03-24-404/a7) og [8](forskrift/2023-03-24-404/a8),
+2. brudd på og håndheving av bestemmelsene samt rettsavgjørelser fra nasjonale domstoler.
 
 2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
 
@@ -202,11 +299,16 @@ Kommisjonen har fullmakt til å endre vedlegg II på grunnlag av informasjon fra
 
 ### Artikkel 16
 
-1\. Når Sikkerhetsrådet eller Sanksjonskomiteen listefører en fysisk eller juridisk person, en enhet eller et organ, og har gitt en begrunnelse for listeføringen, skal Rådet registrere vedkommende person, enhet eller organ i [vedlegg I](forskrift/2023-03-24-404/vedleggI).Rådet skal opprette og endre listen over fysiske og juridiske personer, enheter og organer i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa).Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1 og 1a, enten direkte, dersom adressen er kjent, eller ved å offentliggjøre en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å framlegge merknader.
+1\. Når Sikkerhetsrådet eller Sanksjonskomiteen listefører en fysisk eller juridisk person, en enhet eller et organ, og har gitt en begrunnelse for listeføringen, skal Rådet registrere vedkommende person, enhet eller organ i [vedlegg I](forskrift/2023-03-24-404/vedleggI).
+
+- Rådet skal opprette og endre listen over fysiske og juridiske personer, enheter og organer i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa).
+- Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1 og 1a, enten direkte, dersom adressen er kjent, eller ved å offentliggjøre en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å framlegge merknader.
 
 2\. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og underrette den fysiske eller juridiske personen, enheten eller organet om dette.
 
-3\. Når Sikkerhetsrådet eller Sanksjonskomiteen beslutter å fjerne en fysisk eller juridisk person, en enhet eller et organ fra listen eller å endre opplysningene som identifiserer en listeført fysisk eller juridisk person, en enhet eller et organ, skal Rådet endre [vedlegg I](forskrift/2023-03-24-404/vedleggI) tilsvarende.Listen i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa) skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
+3\. Når Sikkerhetsrådet eller Sanksjonskomiteen beslutter å fjerne en fysisk eller juridisk person, en enhet eller et organ fra listen eller å endre opplysningene som identifiserer en listeført fysisk eller juridisk person, en enhet eller et organ, skal Rådet endre [vedlegg I](forskrift/2023-03-24-404/vedleggI) tilsvarende.
+
+Listen i [vedlegg Ia](forskrift/2023-03-24-404/vedleggIa) skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
 
 ### Artikkel 17
 
@@ -216,7 +318,14 @@ Kommisjonen har fullmakt til å endre vedlegg II på grunnlag av informasjon fra
 
 ### Artikkel 18
 
-1\. Rådet, Kommisjonen og Unionens høyrepresentant for utenrikssaker og sikkerhetspolitikk (heretter kalt «høyrepresentanten») skal behandle personopplysninger for å kunne utføre oppgavene som er pålagt dem i henhold til denne forordningen. Disse oppgavene består blant annet ifor Rådets del å utarbeide og foreta endringer av [vedlegg I](forskrift/2023-03-24-404/vedleggI) og [Ia](forskrift/2023-03-24-404/vedleggIa),for høyrepresentantens del å utarbeide endringer av [vedlegg I](forskrift/2023-03-24-404/vedleggI) og [Ia](forskrift/2023-03-24-404/vedleggIa),for Kommisjonens delå føre innholdet i [vedlegg I](forskrift/2023-03-24-404/vedleggI) og [Ia](forskrift/2023-03-24-404/vedleggIa) inn i EUs elektroniske konsoliderte liste over personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
+1\. Rådet, Kommisjonen og Unionens høyrepresentant for utenrikssaker og sikkerhetspolitikk (heretter kalt «høyrepresentanten») skal behandle personopplysninger for å kunne utføre oppgavene som er pålagt dem i henhold til denne forordningen. Disse oppgavene består blant annet i
+
+1. for Rådets del å utarbeide og foreta endringer av [vedlegg I](forskrift/2023-03-24-404/vedleggI) og [Ia](forskrift/2023-03-24-404/vedleggIa),
+2. for høyrepresentantens del å utarbeide endringer av [vedlegg I](forskrift/2023-03-24-404/vedleggI) og [Ia](forskrift/2023-03-24-404/vedleggIa),
+3. for Kommisjonens del
+
+   1. å føre innholdet i [vedlegg I](forskrift/2023-03-24-404/vedleggI) og [Ia](forskrift/2023-03-24-404/vedleggIa) inn i EUs elektroniske konsoliderte liste over personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,
+   2. å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
 
 2\. Der det er aktuelt, kan Rådet, Kommisjonen og høyrepresentanten behandle relevante data om straffbare handlinger begått av listeførte fysiske personer og om straffedom eller sikkerhetstiltak mot slike personer, bare i den grad en slik behandling er nødvendig for å utarbeide [vedlegg I](forskrift/2023-03-24-404/vedleggI) og [Ia](forskrift/2023-03-24-404/vedleggIa).
 
@@ -232,7 +341,13 @@ Kommisjonen har fullmakt til å endre vedlegg II på grunnlag av informasjon fra
 
 ### Artikkel 20
 
-Denne forordningen får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for alle fysiske personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
+Denne forordningen får anvendelse
+
+1. på EUs territorium, herunder i EUs luftrom,
+2. om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,
+3. for alle fysiske personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,
+4. for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,
+5. for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
 
 ### Artikkel 21
 

@@ -30,7 +30,18 @@ eu_basis: []
 
 ## II
 
-1. Utvalget har følgende sammensetning: Utvalget består av en representant for følgende departementer og institusjoner:FinansdepartementetJustis- og beredskapsdepartementetKlima- og miljødepartementetKunnskapsdepartementetNærings- og fiskeridepartementetSamferdselsdepartementetUtenriksdepartementetStatsministerens kontorNorsk PolarinstituttSysselmesteren på Svalbard
+1. Utvalget har følgende sammensetning: Utvalget består av en representant for følgende departementer og institusjoner:
+
+   1. Finansdepartementet
+   2. Justis- og beredskapsdepartementet
+   3. Klima- og miljødepartementet
+   4. Kunnskapsdepartementet
+   5. Nærings- og fiskeridepartementet
+   6. Samferdselsdepartementet
+   7. Utenriksdepartementet
+   8. Statsministerens kontor
+   9. Norsk Polarinstitutt
+   10. Sysselmesteren på Svalbard
 2. Utvalget ledes av justis- og beredskapsministeren. Justisdepartementets polaravdeling oppnevner utvalgets representanter og vararepresentanter etter forslag fra de ulike instanser. Ved oppnevningen skal det vektlegges at vedkommende er på et høyt nivå og/eller har særlig innsikt i polarsaker. Statssekretærene i de departementer som er medlem i utvalget, skal jevnlig delta i utvalgets møter.
 3. Når utvalget behandler en sak som hører under et departement, etat eller annen instans som ikke er representert i utvalget, kan Justisdepartementets polaravdeling innkalle representanter herfra. Også andre embets- eller tjenestemenn tilkalles til utvalgets møter når det er nødvendig eller ønskelig.
 
@@ -39,9 +50,19 @@ eu_basis: []
 ## III
 
 1. Polarutvalgets sekretariat er lagt til Justis- og beredskapsdepartementets polaravdeling, som ved siden av sine fagsaker i polarområdene (blant annet Sysselmesteren på Svalbard og Svalbardbudsjettet) har et særlig ansvar for koordineringen av sentraladministrasjonens behandling av polarsaker.
-2. Polarutvalget og Polaravdelingen i Justisdepartementet har følgende oppgaver i forhold til andre departementer i saker som gjelder polarområdene:koordinering av sentraladministrasjonens saksbehandling og avgjørelser, herunder samordning av budsjettsaker. Finansdepartementets arbeid, rolle og ansvar knyttet til budsjettsaker skal ikke påvirkes;langtidsplanlegging og langtidsbudsjettering;rådgiving overfor andre departementer med underliggende etater;å ta initiativ overfor andre departementer til behandling og utredning av konkrete og/eller generelle spørsmål;drøfte forhold som angår forvaltningen av statens eierinteresser på Svalbard, med sikte på vurdering opp mot andre viktige hensyn i norsk svalbardpolitikk før avgjørelse treffes i vedkommende fagdepartement.
+2. Polarutvalget og Polaravdelingen i Justisdepartementet har følgende oppgaver i forhold til andre departementer i saker som gjelder polarområdene:
+
+   1. koordinering av sentraladministrasjonens saksbehandling og avgjørelser, herunder samordning av budsjettsaker. Finansdepartementets arbeid, rolle og ansvar knyttet til budsjettsaker skal ikke påvirkes;
+   2. langtidsplanlegging og langtidsbudsjettering;
+   3. rådgiving overfor andre departementer med underliggende etater;
+   4. å ta initiativ overfor andre departementer til behandling og utredning av konkrete og/eller generelle spørsmål;
+   5. drøfte forhold som angår forvaltningen av statens eierinteresser på Svalbard, med sikte på vurdering opp mot andre viktige hensyn i norsk svalbardpolitikk før avgjørelse treffes i vedkommende fagdepartement.
 3. I saker som gjelder polarområdene, skal departementene med underliggende etater underrette Justisdepartementets polaravdeling om alle saker som ikke er av rent ekspedisjonsmessig og rutinemessig karakter på et så tidlig tidspunkt som mulig under saksbehandlingen. Spesielt fremheves at det skal gis underretning om planlagte disponeringer av budsjettmidler til tiltak og virksomhet i polarområdene. På tidspunkter nærmere fastsatt av Polarutvalget skal de ulike departementer orientere om arbeidet med det årlige budsjettfremlegg.
-4. I saker som gjelder polarområdene, skal departementene med underliggende etater forelegge for Justisdepartementets polaravdeling:alle forslag om nye lover eller forskrifter for Svalbard, Jan Mayen eller de norske biland i Antarktis før de sendes ut på høring. Det samme gjelder forslag om å utvide eller endre gjeldende lover og bestemmelser til disse områdene.saker som gjelder betydelige verdier eller interesser og saker som kan ha politiske sider og derfor bør ses i et helhetlig perspektiv før avgjørelse treffes. Dette gjelder særlig i tilfeller hvor det er av utenriks-, miljø-, nærings-, ressurs-, forsknings- eller sikkerhetspolitisk betydning at saken koordineres mellom de ulike departementer og etater før avgjørelse treffes. Spesielt nevnes at saker vedrørende statlig eierskap som kan ha slik betydning, skal forelegges Justisdepartementets polaravdeling.andre viktige saker som volder begrunnet tvil med hensyn til faktiske forhold, rettsspørsmål eller andre vurderinger som må foretas.
+4. I saker som gjelder polarområdene, skal departementene med underliggende etater forelegge for Justisdepartementets polaravdeling:
+
+   1. alle forslag om nye lover eller forskrifter for Svalbard, Jan Mayen eller de norske biland i Antarktis før de sendes ut på høring. Det samme gjelder forslag om å utvide eller endre gjeldende lover og bestemmelser til disse områdene.
+   2. saker som gjelder betydelige verdier eller interesser og saker som kan ha politiske sider og derfor bør ses i et helhetlig perspektiv før avgjørelse treffes. Dette gjelder særlig i tilfeller hvor det er av utenriks-, miljø-, nærings-, ressurs-, forsknings- eller sikkerhetspolitisk betydning at saken koordineres mellom de ulike departementer og etater før avgjørelse treffes. Spesielt nevnes at saker vedrørende statlig eierskap som kan ha slik betydning, skal forelegges Justisdepartementets polaravdeling.
+   3. andre viktige saker som volder begrunnet tvil med hensyn til faktiske forhold, rettsspørsmål eller andre vurderinger som må foretas.
 5. Justisdepartementets polaravdeling underretter og forelegger saken for Polarutvalget.
 6. At polarsaker forelegges for Polarutvalget, endrer ikke vedkommende fagdepartements avgjørelsesmyndighet og vedkommende fagstatsråds konstitusjonelle ansvar for avgjørelsen. Formålet med slik foreleggelse er å sikre at utvalget får nødvendig informasjon og kan drøfte sakene før avgjørelse treffes i vedkommende fagdepartement. Men hvis et fagdepartement vil avgjøre saken i strid med Justisdepartementets eller Polarutvalgets uttalelse, skal saken forelegges regjeringen. Dersom Polarutvalget finner det hensiktsmessig, kan det avgi en skriftlig uttalelse til vedkommende fagdepartement.
 7. Det er overlatt til Justisdepartementet å gi eventuelle ytterligere retningslinjer for det praktiske opplegg av koordineringsvirksomheten.

@@ -15,7 +15,7 @@ xml_hash: "2b00d25597bf7e4617e0d67f9094da79de2c1fa280a4aaa078594b3719e9d4df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -136,7 +136,10 @@ Har skadelidte fått varig og betydelig skade av medisinsk art, svares særskilt
 
 6\. Ved varig medisinsk invaliditet til og med 25 prosent kan den skadelidte, som et alternativ til erstatning etter annet og tredje ledd, kreve at inntektstaperstatningen fastsettes til en engangserstatning etter regler gitt av Kongen i forskrift. Første punktum gjelder ikke ved lavere medisinsk invaliditet enn ti prosent. Kravet må fremmes skriftlig innen det året den skadelidte fyller 16 år, likevel senest fem år fra skadevirkningstidspunktet.
 
-7\. I tillegg til erstatning etter annet og tredje ledd eller etter sjette ledd erstattes tap i verdien av arbeid i heimen med4 G ved varig tap av evnen til å utføre en vesentlig del av tyngre hjemmearbeid, eller8 G ved varig tap av evnen til å utføre en vesentlig del av også lettere hjemmearbeid.
+7\. I tillegg til erstatning etter annet og tredje ledd eller etter sjette ledd erstattes tap i verdien av arbeid i heimen med
+
+1. 4 G ved varig tap av evnen til å utføre en vesentlig del av tyngre hjemmearbeid, eller
+2. 8 G ved varig tap av evnen til å utføre en vesentlig del av også lettere hjemmearbeid.
 
 8\. Ved fastsettingen av erstatning etter paragrafen her skal det gjøres fradrag for forsikringsytelser i den utstrekning den erstatningsansvarlige har betalt premien.
 
@@ -168,7 +171,12 @@ Erstatning for dødsfall skal videre dekke vanlige utgifter til gravferden, og f
 
 ### § 3-5. (erstatning (oppreisning) for skade av ikke økonomisk art.)
 
-Den som forsettlig eller grovt aktløst harvoldt skade på person ellertilføyd krenking eller utvist mislig atferd som nevnt i [§ 3-3](lov/1969-06-13-26/§3-3),kan – uansett om det ytes menerstatning etter [§ 3-2](lov/1969-06-13-26/§3-2) eller standardisert erstatning etter [§ 3-2a](lov/1969-06-13-26/§3-2a) – pålegges å betale den fornærmede en slik engangssum som retten finner rimelig til erstatning (oppreisning) for den voldte tort og smerte og for annen krenking eller skade av ikke-økonomisk art. Ved krenking eller mislig atferd som nevnt i [straffeloven §§ 299](lov/2005-05-20-28/§299) eller [302](lov/2005-05-20-28/§302), skal det ved utmålingen av oppreisning særlig legges vekt på handlingens art, hvor lang tid forholdet har pågått, om handlingen er et misbruk av slektskapsforhold, omsorgsforhold, avhengighetsforhold eller tillitsforhold, og om handlingen er begått på en særlig smertefull eller krenkende måte.
+Den som forsettlig eller grovt aktløst har
+
+1. voldt skade på person eller
+2. tilføyd krenking eller utvist mislig atferd som nevnt i [§ 3-3](lov/1969-06-13-26/§3-3),
+
+kan – uansett om det ytes menerstatning etter [§ 3-2](lov/1969-06-13-26/§3-2) eller standardisert erstatning etter [§ 3-2a](lov/1969-06-13-26/§3-2a) – pålegges å betale den fornærmede en slik engangssum som retten finner rimelig til erstatning (oppreisning) for den voldte tort og smerte og for annen krenking eller skade av ikke-økonomisk art. Ved krenking eller mislig atferd som nevnt i [straffeloven §§ 299](lov/2005-05-20-28/§299) eller [302](lov/2005-05-20-28/§302), skal det ved utmålingen av oppreisning særlig legges vekt på handlingens art, hvor lang tid forholdet har pågått, om handlingen er et misbruk av slektskapsforhold, omsorgsforhold, avhengighetsforhold eller tillitsforhold, og om handlingen er begått på en særlig smertefull eller krenkende måte.
 
 Har flere i fellesskap voldt skade, tilføyd krenking eller utvist mislig atferd, kan det fastsettes separate krav om oppreisning for den enkelte ansvarlige. I vurderingen etter første punktum skal det særlig legges vekt på den økte belastningen for fornærmede av at flere handlet i fellesskap.
 
@@ -236,7 +244,10 @@ Erstatning for tingskade og annen formuesskade skal dekke den skadelidtes økono
 
 ### § 4-2. (skadevolderens stilling når skaden er dekket ved forsikring)
 
-1\. I det omfanget det er på det rene at en skade kan kreves dekket av forsikring for tingskade eller annen formuesskade, kan den skadelidte bare gjøre gjeldende sitt erstatningskrav mot den ansvarlige skadevolder dersom skaden er voldt:ved forsett eller grov uaktsomhet av den ansvarlige selv, elleri hans yrke, ervervsvirksomhet eller dermed likestilt virksomhet.
+1\. I det omfanget det er på det rene at en skade kan kreves dekket av forsikring for tingskade eller annen formuesskade, kan den skadelidte bare gjøre gjeldende sitt erstatningskrav mot den ansvarlige skadevolder dersom skaden er voldt:
+
+1. ved forsett eller grov uaktsomhet av den ansvarlige selv, eller
+2. i hans yrke, ervervsvirksomhet eller dermed likestilt virksomhet.
 
 2\. Dersom skadevolderen har betalt erstatning i større utstrekning enn han plikter etter paragrafen her, kan han kreve det overskytende fra vedkommende forsikringsselskap i det omfang skaden er dekket av forsikringen.
 
@@ -250,7 +261,10 @@ I den utstrekning selskapet ved forsikring for tingskade eller annen formuesskad
 
 ### § 4-4. (særregler om utvidet adgang til å gå på skadevolderen og om utvidet regress)
 
-1\. Begrensningene i den skadelidtes krav og forsikringsselskapets regress i [§ 4-2](lov/1969-06-13-26/§4-2) jf [§ 4-3](lov/1969-06-13-26/§4-3) gjelder ikke ved:transport-, sjø- og luftfartsforsikring når skaden er voldt i næringsvirksomhetved kredittforsikring og garantiforsikring.
+1\. Begrensningene i den skadelidtes krav og forsikringsselskapets regress i [§ 4-2](lov/1969-06-13-26/§4-2) jf [§ 4-3](lov/1969-06-13-26/§4-3) gjelder ikke ved:
+
+1. transport-, sjø- og luftfartsforsikring når skaden er voldt i næringsvirksomhet
+2. ved kredittforsikring og garantiforsikring.
 
 2\. Ved trafikkforsikring kan forsikringsselskapet kreve regress etter [bilansvarslova §§ 8](lov/1961-02-03/§8), [12](lov/1961-02-03/§12) og [13](lov/1961-02-03/§13) uten hensyn til reglene i § 4-3.
 

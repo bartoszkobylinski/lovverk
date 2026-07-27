@@ -30,7 +30,13 @@ Denne forskrifta har til formål å sikre effektiv og forsvarleg saksbehandling 
 
 ## § 2. Definisjonar
 
-I denne forskrifta tyder:*odelseigedom:* den eigedom som det blir søkt om odelsfrigjering av.*odelsfrigjering:* eit vedtak som inneber at kvar og ein av odelsrettshavarane på tidspunktet for vedtaket, misser sin odelsrett.*odelsfrigjerar:* den som har søkt om odelsfrigjering etter [odl. § 30](lov/1974-06-28-58/§30) eller [§ 32](lov/1974-06-28-58/§32).*odelsløysar:* den som har teke ut stemning mot eigaren etter [odl. § 60](lov/1974-06-28-58/§60).*odelsrettshavar:* den som har odelsrett til eigedomen.
+I denne forskrifta tyder:
+
+1. *odelseigedom:* den eigedom som det blir søkt om odelsfrigjering av.
+2. *odelsfrigjering:* eit vedtak som inneber at kvar og ein av odelsrettshavarane på tidspunktet for vedtaket, misser sin odelsrett.
+3. *odelsfrigjerar:* den som har søkt om odelsfrigjering etter [odl. § 30](lov/1974-06-28-58/§30) eller [§ 32](lov/1974-06-28-58/§32).
+4. *odelsløysar:* den som har teke ut stemning mot eigaren etter [odl. § 60](lov/1974-06-28-58/§60).
+5. *odelsrettshavar:* den som har odelsrett til eigedomen.
 
 > Endra ved [forskrift 12 des 2013 nr. 1496](forskrift/2013-12-12-1496) (i kraft 1 jan 2014).
 
@@ -72,9 +78,15 @@ Når kommunen meiner saka er godt nok opplyst, skal den utan ugrunna opphald avg
 
 I alle saker etter [odl. § 30](lov/1974-06-28-58/§30) og [§ 32](lov/1974-06-28-58/§32) skal kommunen kontrollere om søknad om odelsfrigjering er sett fram av eigaren innan [2](lov/1974-06-28-58/§2) månader rekna frå stemning i løysingssaka blei forkynt for han.
 
-Gjeld søknaden odelsfrigjering etter [odl. § 30](lov/1974-06-28-58/§30), skal kommunen vurdere omden aktuelle eigedomen er odelsjord, og omstaten eller ein kommune har teke over, eller vil ta over slik jord.
+Gjeld søknaden odelsfrigjering etter [odl. § 30](lov/1974-06-28-58/§30), skal kommunen vurdere om
 
-Gjeld søknaden odelsfrigjering etter [odl. § 32](lov/1974-06-28-58/§32) andre ledd, skal kommunen vurdere omnokon friviljug har «late frå seg odelsjord»,overtakar har søkt om odelsfrigjering.
+1. den aktuelle eigedomen er odelsjord, og om
+2. staten eller ein kommune har teke over, eller vil ta over slik jord.
+
+Gjeld søknaden odelsfrigjering etter [odl. § 32](lov/1974-06-28-58/§32) andre ledd, skal kommunen vurdere om
+
+1. nokon friviljug har «late frå seg odelsjord»,
+2. overtakar har søkt om odelsfrigjering.
 
 Kjem kommunen til at vilkåra er oppfylte for den aktuelle søknaden, skal kommunen varsle retten om at det vil bli teke steg til odelsfrigjering, og be om at løysingssaka blir stansa, jf. [odl. § 33](lov/1974-06-28-58/§33) andre ledd. Kommunen skal varsle partane om at det vil bli teke steg til odelsfrigjering og at løysingssaka blir stansa.
 

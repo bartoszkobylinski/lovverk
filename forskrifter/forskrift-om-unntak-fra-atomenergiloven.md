@@ -15,7 +15,7 @@ xml_hash: "24e0dd9c386c63669ec175a9e61d3acd5aefde637bfd642125e18fb197c85d42"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,10 @@ NEAs styringskomité bestemmer:
 
 Atomsubstans som i det vesentlige består av uran der
 
-1. den samlete aktiviteten pr. gram av alle radioaktive isotoper i dette materialet, bortsett fra uranisotoper som normalt er til stede i naturlig uran eller som datterprodukter av slike uranisotoper,ikke overstiger 200 000 alfa-desintegrasjoner pr. minutt fra samtlige isotoper som avgir alfastråling, ogikke overstiger 20µCi (0,74 MBq) fra samtlige isotoper som avgir beta- eller gammastråling, og
+1. den samlete aktiviteten pr. gram av alle radioaktive isotoper i dette materialet, bortsett fra uranisotoper som normalt er til stede i naturlig uran eller som datterprodukter av slike uranisotoper,
+
+   1. ikke overstiger 200 000 alfa-desintegrasjoner pr. minutt fra samtlige isotoper som avgir alfastråling, og
+   2. ikke overstiger 20µCi (0,74 MBq) fra samtlige isotoper som avgir beta- eller gammastråling, og
 2. uran-235-isotopets vekt ikke overstiger 1 % av den totale vekt i samtlige uranisotoper i atomsubstansen,
 
 betraktes ikke som atomsubstans i relasjon til Paris-konvensjonen.

@@ -15,7 +15,7 @@ xml_hash: "0f7eec0d804c0c3b0926975ce55f5c0c3046267e77e00049a192b762c62c9212"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Formål
 
-Utdanningsstøtteordningens formål er å bidra tillike muligheter til utdanning uavhengig av geografiske forhold, alder, kjønn, funksjonsdyktighet, økonomiske og sosiale forholdå sikre samfunnet og arbeidslivet tilgang på kompetanseat utdanningen skjer under tilfredsstillende arbeidsforhold, slik at studiearbeidet kan bli effektivt.
+Utdanningsstøtteordningens formål er å bidra til
+
+- like muligheter til utdanning uavhengig av geografiske forhold, alder, kjønn, funksjonsdyktighet, økonomiske og sosiale forhold
+- å sikre samfunnet og arbeidslivet tilgang på kompetanse
+- at utdanningen skjer under tilfredsstillende arbeidsforhold, slik at studiearbeidet kan bli effektivt.
 
 ### § 2. Rettigheter
 

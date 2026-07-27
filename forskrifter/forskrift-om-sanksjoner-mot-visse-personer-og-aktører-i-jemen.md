@@ -24,17 +24,49 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Denne forskriften kommer til anvendelse:på norsk territorium, inkludert norsk luftromom bord på alle luftfartøy eller fartøy under norsk jurisdiksjonpå alle norske statsborgere uansett hvor de befinner segpå alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivningpå alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+Denne forskriften kommer til anvendelse:
+
+1. på norsk territorium, inkludert norsk luftrom
+2. om bord på alle luftfartøy eller fartøy under norsk jurisdiksjon
+3. på alle norske statsborgere uansett hvor de befinner seg
+4. på alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivning
+5. på alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
 ## § 2. Definisjoner
 
-I denne forskrift menes med«krav»: ethvert omtvistet eller uomtvistet krav som er fremsatt før eller etter datoen for denne forskriftens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,«kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som har oppstått i henhold til eller i tilknytning til transaksjonen,«formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«penger»: finansielle aktiva og fordeler av enhver art, herunder men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev ogdokumenter som viser eierandeler i penger eller finansielle ressurser,«Sanksjonskomiteen»: komiteen som er opprettet under FNs sikkerhetsråd i henhold til punkt 19 i FNs sikkerhetsrådsresolusjon 2140 (2014).«faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for teknisk tjeneste, uansett om bistanden ytes som instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand.
+I denne forskrift menes med
+
+1. «krav»: ethvert omtvistet eller uomtvistet krav som er fremsatt før eller etter datoen for denne forskriftens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særlig
+
+   1. krav om oppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,
+   2. krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,
+   3. krav om kompensasjon med hensyn til en kontrakt eller transaksjon,
+   4. motkrav,
+   5. krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,
+2. «kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som har oppstått i henhold til eller i tilknytning til transaksjonen,
+3. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+4. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,
+5. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+6. «penger»: finansielle aktiva og fordeler av enhver art, herunder men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+   2. innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+   4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+   6. remburser, konnossementer og pantebrev og
+   7. dokumenter som viser eierandeler i penger eller finansielle ressurser,
+7. «Sanksjonskomiteen»: komiteen som er opprettet under FNs sikkerhetsråd i henhold til punkt 19 i FNs sikkerhetsrådsresolusjon 2140 (2014).
+8. «faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for teknisk tjeneste, uansett om bistanden ytes som instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand.
 
 > Endret ved forskrift [2 mars 2021 nr. 637](forskrift/2021-03-02-637).
 
 ## § 2a. Forbud mot visse typer bistand
 
-Det er forbudt:direkte eller indirekte å yte faglig bistand knyttet til militære aktiviteter eller knyttet til levering, produksjon, vedlikehold og bruk av våpen og tilknyttet materiell av alle slag, herunder våpen og ammunisjon, militære kjøretøyer og militært og paramilitært utstyr, samt reservedeler til dette, til fysiske eller juridiske personer, enheter eller organer oppført på Sanksjonskomiteens liste.direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til militære aktiviteter, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med ethvert salg, levering, overføring eller eksport av våpen og tilknyttet materiell, eller i forbindelse med yting av tilknyttet faglig bistand eller formidlingstjenester, til personer, enheter eller organer oppført på Sanksjonskomiteens liste.
+Det er forbudt:
+
+1. direkte eller indirekte å yte faglig bistand knyttet til militære aktiviteter eller knyttet til levering, produksjon, vedlikehold og bruk av våpen og tilknyttet materiell av alle slag, herunder våpen og ammunisjon, militære kjøretøyer og militært og paramilitært utstyr, samt reservedeler til dette, til fysiske eller juridiske personer, enheter eller organer oppført på Sanksjonskomiteens liste.
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til militære aktiviteter, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med ethvert salg, levering, overføring eller eksport av våpen og tilknyttet materiell, eller i forbindelse med yting av tilknyttet faglig bistand eller formidlingstjenester, til personer, enheter eller organer oppført på Sanksjonskomiteens liste.
 
 > Tilføyd ved forskrift [2 mars 2021 nr. 637](forskrift/2021-03-02-637).
 
@@ -44,7 +76,12 @@ Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres
 
 Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer som er oppført på Sanksjonskomiteens liste.
 
-Sanksjonskomiteens liste1 omfatter fysiske eller juridiske personer, enheter og organer som Sanksjonskomiteen anser for å være involvert i eller å støtte handlinger som truer freden, sikkerheten eller stabiliteten i Jemen, herunder men ikke begrenset tilhandlinger som hindrer eller undergraver en vellykket sluttføring av den politiske overgangsprosessen, som angitt i initiativet fra Samarbeidsrådet for de arabiske statene i Gulfen (GCC) og avtalen om en gjennomføringsordning,voldshandlinger som hemmer gjennomføringen av tiltakene omhandlet i sluttrapporten fra den utvidete nasjonale dialogkonferansen, eller angrep på nødvendig infrastruktur,planlegging, iscenesetting eller utføring av handlinger som er i strid med gjeldende internasjonale menneskerettigheter eller internasjonal humanitærrett, eller handlinger som innebærer overgrep i henhold til menneskerettighetene, i Jemen, herunder seksualisert vold i væpnet konflikt, eller å rekruttere eller benytte barn i væpnet konflikt strid med gjeldende folkerett,handlinger som er i strid med våpenembargoen fastsatt i FNs sikkerhetsråds resolusjon 2216 (2015) eller hindring av humanitær bistand til Jemen eller tilgang til eller distribuering av humanitær bistand i Jemen.
+Sanksjonskomiteens liste1 omfatter fysiske eller juridiske personer, enheter og organer som Sanksjonskomiteen anser for å være involvert i eller å støtte handlinger som truer freden, sikkerheten eller stabiliteten i Jemen, herunder men ikke begrenset til
+
+1. handlinger som hindrer eller undergraver en vellykket sluttføring av den politiske overgangsprosessen, som angitt i initiativet fra Samarbeidsrådet for de arabiske statene i Gulfen (GCC) og avtalen om en gjennomføringsordning,
+2. voldshandlinger som hemmer gjennomføringen av tiltakene omhandlet i sluttrapporten fra den utvidete nasjonale dialogkonferansen, eller angrep på nødvendig infrastruktur,
+3. planlegging, iscenesetting eller utføring av handlinger som er i strid med gjeldende internasjonale menneskerettigheter eller internasjonal humanitærrett, eller handlinger som innebærer overgrep i henhold til menneskerettighetene, i Jemen, herunder seksualisert vold i væpnet konflikt, eller å rekruttere eller benytte barn i væpnet konflikt strid med gjeldende folkerett,
+4. handlinger som er i strid med våpenembargoen fastsatt i FNs sikkerhetsråds resolusjon 2216 (2015) eller hindring av humanitær bistand til Jemen eller tilgang til eller distribuering av humanitær bistand i Jemen.
 
 Sanksjonskomiteens liste inneholder begrunnelsen for at de berørte fysiske eller juridiske personene, enhetene eller organene er listeført. Sanksjonskomiteens liste inneholder også, der det er tilgjengelig, opplysninger gitt av Sikkerhetsrådet eller av Sanksjonskomiteen som er nødvendige for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse. Listen inneholder også datoen da personene, enhetene og organene ble listeført av Sikkerhetsrådet eller av Sanksjonskomiteen.
 
@@ -54,7 +91,10 @@ Sanksjonskomiteens liste inneholder begrunnelsen for at de berørte fysiske elle
 
 ## § 3a. Humanitære unntak
 
-Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra bestemmelsene i [§ 2a](forskrift/2015-06-19-663/§2a) og [§ 3](forskrift/2015-06-19-663/§3) og tillate, på de vilkår det finner hensiktsmessig og forutsatt at Sanksjonskomiteen har bestemt i hvert enkelt tilfelle at unntak er nødvendig for å fasilitere arbeidet til De Forente Nasjoner eller andre humanitære organisasjoner eller for ethvert annet formål som er forenlig med formålene i FNs sikkerhetsrådsresolusjon 2140 (2014) og 2216 (2015):at det ytes faglig bistand, finansiering eller finansiell bistand knyttet til aktiviteter beskrevet i [§ 2a](forskrift/2015-06-19-663/§2a);at visse frosne penger eller formuesgoder frigis eller stilles til rådighet.
+Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra bestemmelsene i [§ 2a](forskrift/2015-06-19-663/§2a) og [§ 3](forskrift/2015-06-19-663/§3) og tillate, på de vilkår det finner hensiktsmessig og forutsatt at Sanksjonskomiteen har bestemt i hvert enkelt tilfelle at unntak er nødvendig for å fasilitere arbeidet til De Forente Nasjoner eller andre humanitære organisasjoner eller for ethvert annet formål som er forenlig med formålene i FNs sikkerhetsrådsresolusjon 2140 (2014) og 2216 (2015):
+
+1. at det ytes faglig bistand, finansiering eller finansiell bistand knyttet til aktiviteter beskrevet i [§ 2a](forskrift/2015-06-19-663/§2a);
+2. at visse frosne penger eller formuesgoder frigis eller stilles til rådighet.
 
 Bestemmelsen i første ledd bokstav b gjelder uavhengig av [§ 3b](forskrift/2015-06-19-663/§3b).
 
@@ -62,19 +102,42 @@ Bestemmelsen i første ledd bokstav b gjelder uavhengig av [§ 3b](forskrift/201
 
 ## § 3b. Unntak for humanitær bistand og virksomhet til støtte for grunnleggende menneskelige behov
 
-Bestemmelsene i [§ 3](forskrift/2015-06-19-663/§3) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, ellerandre relevante aktører som fastsatt av Sanksjonskomiteen.
+Bestemmelsene i [§ 3](forskrift/2015-06-19-663/§3) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+1. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+2. internasjonale organisasjoner,
+3. humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+4. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+5. ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, eller
+6. andre relevante aktører som fastsatt av Sanksjonskomiteen.
 
 > Tilføyd ved forskrift [20 des 2023 nr. 2259](forskrift/2023-12-20-2259).
 
 ## § 4. Unntak for visse betalinger
 
-Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra bestemmelsene i [§ 3](forskrift/2015-06-19-663/§3) og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet forutsatt atdepartementet har fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført på Sanksjonskomiteens liste og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand, ellerutelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ogden berørte medlemsstaten har underrettet Sanksjonskomiteen om hva den er kommet fram til, som nevnt i bokstav a), og om at tillatelse vil bli gitt, og Sanksjonskomiteen ikke har gjort innsigelse mot dette innen fem virkedager etter at underretningen ble gitt.
+Direktoratet for eksportkontroll og sanksjoner kan gjøre unntak fra bestemmelsene i [§ 3](forskrift/2015-06-19-663/§3) og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet forutsatt at
+
+1. departementet har fastslått at pengene eller formuesgodene
+
+   1. er nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført på Sanksjonskomiteens liste og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,
+   2. utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand, eller
+   3. utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, og
+2. den berørte medlemsstaten har underrettet Sanksjonskomiteen om hva den er kommet fram til, som nevnt i bokstav a), og om at tillatelse vil bli gitt, og Sanksjonskomiteen ikke har gjort innsigelse mot dette innen fem virkedager etter at underretningen ble gitt.
 
 Departementet kan gjøre unntak fra bestemmelsene i [§ 3](forskrift/2015-06-19-663/§3) og gi tillatelse på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet, dersom departementet har fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, departementet har underrettet Sanksjonskomiteen om avgjørelsen, og Sanksjonskomiteen har godkjent denne.
 
-Departementet kan gjøre unntak fra bestemmelsene i [§ 3](forskrift/2015-06-19-663/§3) og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før den dato personen, enheten eller organet nevnt i [§ 3](forskrift/2015-06-19-663/§3) ble listeført, eller for en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol før denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,tilbakeholdsretten eller beslutningen ikke er til fordel for personer, enheter eller organer oppført i på Sanksjonskomiteens liste, ogmedlemsstaten har underrettet Sanksjonskomiteen om tilbakeholdsretten eller beslutningen.
+Departementet kan gjøre unntak fra bestemmelsene i [§ 3](forskrift/2015-06-19-663/§3) og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt at
 
-Departementet kan, i tilfeller der listeførte fysiske eller juridiske personer, enheter eller organer skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før den dato de ble listeført av FNs sikkerhetsråd eller Sanksjonskomiteen, gjøre unntak fra bestemmelsene i [§ 3](forskrift/2015-06-19-663/§3) og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom departementet har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført på Sanksjonskomiteens liste,betalingen ikke er i strid med [§ 3](forskrift/2015-06-19-663/§3), annet ledd, ogden berørte medlemsstaten har underrettet Sanksjonskomiteen ti virkedager i forveien om at tillatelse vil bli gitt.
+1. pengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før den dato personen, enheten eller organet nevnt i [§ 3](forskrift/2015-06-19-663/§3) ble listeført, eller for en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol før denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. tilbakeholdsretten eller beslutningen ikke er til fordel for personer, enheter eller organer oppført i på Sanksjonskomiteens liste, og
+4. medlemsstaten har underrettet Sanksjonskomiteen om tilbakeholdsretten eller beslutningen.
+
+Departementet kan, i tilfeller der listeførte fysiske eller juridiske personer, enheter eller organer skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før den dato de ble listeført av FNs sikkerhetsråd eller Sanksjonskomiteen, gjøre unntak fra bestemmelsene i [§ 3](forskrift/2015-06-19-663/§3) og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom departementet har fastslått at
+
+1. pengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført på Sanksjonskomiteens liste,
+2. betalingen ikke er i strid med [§ 3](forskrift/2015-06-19-663/§3), annet ledd, og
+3. den berørte medlemsstaten har underrettet Sanksjonskomiteen ti virkedager i forveien om at tillatelse vil bli gitt.
 
 Vurdering av unntak etter denne bestemmelsen skjer kun etter anmodning rettet til Direktoratet for eksportkontroll og sanksjoner fra en angjeldende fysisk eller juridisk person. Departementet skal uten unødig opphold skriftlig underrette vedkommende som har fremmet anmodningen, og eventuelt andre personer, organer eller enheter som departementet vet er direkte berørt, om anmodningen er tatt til følge.
 
@@ -84,7 +147,13 @@ Vurdering av unntak etter denne bestemmelsen skjer kun etter anmodning rettet ti
 
 Bestemmelsen i [§ 3](forskrift/2015-06-19-663/§3), annet ledd skal ikke forhindre finans- eller kredittinstitusjoner fra å godskrive frosne konti når de mottar penger overført av en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette Direktoratet for eksportkontroll og sanksjoner om slike transaksjoner.
 
-Bestemmelsen i [§ 3](forskrift/2015-06-19-663/§3), annet ledd gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før den dato den fysiske eller juridiske personen, enheten eller organet nevnt i [§ 3](forskrift/2015-06-19-663/§3) ble listeført, ellerbeløp forfalt til betaling i henhold til en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett eller en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol, som nevnt i [§ 4](forskrift/2015-06-19-663/§4), tredje ledd,når disse rentene eller andre inntekter og betalinger fryses i henhold til [§ 3](forskrift/2015-06-19-663/§3), første ledd.
+Bestemmelsen i [§ 3](forskrift/2015-06-19-663/§3), annet ledd gjelder ikke beløp som tilføres frosne konti i form av
+
+1. renter eller annen avkastning på disse kontiene,
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før den dato den fysiske eller juridiske personen, enheten eller organet nevnt i [§ 3](forskrift/2015-06-19-663/§3) ble listeført, eller
+3. beløp forfalt til betaling i henhold til en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett eller en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol, som nevnt i [§ 4](forskrift/2015-06-19-663/§4), tredje ledd,
+
+når disse rentene eller andre inntekter og betalinger fryses i henhold til [§ 3](forskrift/2015-06-19-663/§3), første ledd.
 
 > Endret ved forskrift [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
@@ -104,7 +173,10 @@ Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette g
 
 Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med forbudene fastsatt i denne forskriften.
 
-Ingen krav i tilknytning til kontrakter eller transaksjoner skal imøtekommes dersom gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av bestemmelsene i denne forskriften, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avfysiske eller juridiske personer, enheter eller organer som er oppført på Sanksjonskomiteens liste,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av personer, enheter eller organer omtalt i bokstav a).
+Ingen krav i tilknytning til kontrakter eller transaksjoner skal imøtekommes dersom gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av bestemmelsene i denne forskriften, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes av
+
+1. fysiske eller juridiske personer, enheter eller organer som er oppført på Sanksjonskomiteens liste,
+2. fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av personer, enheter eller organer omtalt i bokstav a).
 
 Ved en eventuell rettsprosess knyttet til tvangsfullbyrdelse av krav skal den fysiske eller juridiske personen, enheten eller organet som søker å få kravet tvangsfullbyrdet, bære bevisbyrden for at innfrielsen av kravet ikke er forbudt i henhold til fjerde ledd.
 

@@ -42,7 +42,13 @@ Fylkeskommunen kan gi tillatelse til utsetting av innlandsfisk og andre ferskvan
 
 ## § 3. Vilkår for utsettingstillatelse
 
-I utsettingstillatelsen skal det settes vilkår om:hvilke stammer som skal benyttes,produksjonssted for utsettingsmaterialet,utsettingsmaterialets opprinnelse og kvalitet,antall individer, utsettingssted og -tid,plikt til varsling før utsetting for kontroll av utsettingsmaterialet og utsettingen.
+I utsettingstillatelsen skal det settes vilkår om:
+
+1. hvilke stammer som skal benyttes,
+2. produksjonssted for utsettingsmaterialet,
+3. utsettingsmaterialets opprinnelse og kvalitet,
+4. antall individer, utsettingssted og -tid,
+5. plikt til varsling før utsetting for kontroll av utsettingsmaterialet og utsettingen.
 
 I tillegg kan det settes andre vilkår.
 

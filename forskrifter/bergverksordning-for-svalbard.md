@@ -15,7 +15,7 @@ xml_hash: "2c1a95cee7a4a25461eb48ad17ecbd8e82084fa646793ea40245acf50e863b67"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -33,7 +33,12 @@ Denne bergverksordning gjelder for hele Spitsbergenøgruppen (Svalbard), som for
 
 ### § 2
 
-1\. Rett til å søke efter og til å erhverve og utnytte naturlige forekomster av kull, jordoljer og andre mineraler og bergarter som utvinnes gjennem bergverksdrift tilkommer, under iakttagelse av forskriftene i denne bergverksordning og på fullstendig like vilkår så vel med hensyn til beskatning som i andre henseender, foruten den norske stat:Alle undersåtter av de stater som har ratifisert eller sluttet sig til Spitsbergentraktaten.Selskaper som er hjemmehørende og lovlig stiftet i nogen av de nevnte stater.Et selskap anses for hjemmehørende i den stat, hvor dets styre har sitt sæte.
+1\. Rett til å søke efter og til å erhverve og utnytte naturlige forekomster av kull, jordoljer og andre mineraler og bergarter som utvinnes gjennem bergverksdrift tilkommer, under iakttagelse av forskriftene i denne bergverksordning og på fullstendig like vilkår så vel med hensyn til beskatning som i andre henseender, foruten den norske stat:
+
+1. Alle undersåtter av de stater som har ratifisert eller sluttet sig til Spitsbergentraktaten.
+2. Selskaper som er hjemmehørende og lovlig stiftet i nogen av de nevnte stater.
+
+   Et selskap anses for hjemmehørende i den stat, hvor dets styre har sitt sæte.
 
 2\. At en person eller et selskap opfyller de her fastsatte betingelser, må på forlangende av bergmesteren godtgjøres ved behørig bevidnelse fra kompetent myndighet i deres hjemland, og denne myndighets kompetanse må, forsåvidt det ikke er norsk myndighet, være bekreftet av norsk legasjon eller konsulat i vedkommende land eller av dette lands legasjon eller konsulat i Norge.
 
@@ -85,9 +90,17 @@ Offentlige tjenestemenn har ikke adgang til å anmelde fund, ta utmål eller væ
 
 ### § 9
 
-1\. Opdager nogen ved lovlig søkning en naturlig forekomst som inneholder eller kan antas å inneholde et mineral eller en bergart som nevnt i [§ 2](forskrift/1925-08-07-3767/§2), erhverver han rett til fundet fremfor senere finnere, hvis han i nærvær av to vidner ved merker i fast fjell eller på annen varig og fyldestgjørende måte i marken synbart avmerker et fundpunkt og dessuten i en skriftlig anmeldelse, senest innen 10 måneder efterat fundet er avmerket, underretter bergmesteren herom.Anmeldelsen kan også rettsgyldig innen denne frists utløp innleveres til politichefen, som i så fall snarest skal oversende den til bergmesteren.
+1\. Opdager nogen ved lovlig søkning en naturlig forekomst som inneholder eller kan antas å inneholde et mineral eller en bergart som nevnt i [§ 2](forskrift/1925-08-07-3767/§2), erhverver han rett til fundet fremfor senere finnere, hvis han i nærvær av to vidner ved merker i fast fjell eller på annen varig og fyldestgjørende måte i marken synbart avmerker et fundpunkt og dessuten i en skriftlig anmeldelse, senest innen 10 måneder efterat fundet er avmerket, underretter bergmesteren herom.
 
-2\. Anmeldelsen skal være underskrevet av anmelderen og inneholde:Anmelderens og vidnenes navn, hjemsted og nasjonalitet, samt – i de tilfelle som er nevnt i [§ 3](forskrift/1925-08-07-3767/§3) – navn og adresse på den opnevnte fullmektig.Nøiaktig beskrivelse av fundpunktets beliggenhet og merkets art, ledsaget av kartskisse i målestokk 1 : 100.000 hvorpå fundpunktet er avlagt.Nøiaktig angivelse av tidspunktet da fundet blev avmerket.Oplysning om fundets art med henvisning til en samtidig innlevert prøve av det funne.Henvisning til en vedlagt erklæring fra vidnene om at fundpunktet er avmerket i deres nærvær og om når og hvorledes avmerkning er foregått.
+Anmeldelsen kan også rettsgyldig innen denne frists utløp innleveres til politichefen, som i så fall snarest skal oversende den til bergmesteren.
+
+2\. Anmeldelsen skal være underskrevet av anmelderen og inneholde:
+
+1. Anmelderens og vidnenes navn, hjemsted og nasjonalitet, samt – i de tilfelle som er nevnt i [§ 3](forskrift/1925-08-07-3767/§3) – navn og adresse på den opnevnte fullmektig.
+2. Nøiaktig beskrivelse av fundpunktets beliggenhet og merkets art, ledsaget av kartskisse i målestokk 1 : 100.000 hvorpå fundpunktet er avlagt.
+3. Nøiaktig angivelse av tidspunktet da fundet blev avmerket.
+4. Oplysning om fundets art med henvisning til en samtidig innlevert prøve av det funne.
+5. Henvisning til en vedlagt erklæring fra vidnene om at fundpunktet er avmerket i deres nærvær og om når og hvorledes avmerkning er foregått.
 
 3\. Vil nogen anmelde flere fund, må han inngi særskilt anmeldelse for hvert av dem.
 
@@ -109,19 +122,41 @@ Offentlige tjenestemenn har ikke adgang til å anmelde fund, ta utmål eller væ
 
 1\. Utmålsforretning holdes av bergmesteren senest innen 2 år efterat begjæringen er innløpet, hvis ikke naturforholdene eller andre omstendigheter gjør det umulig.
 
-2\. Om berammelsen utferdiges en kunngjørelse i den dertil fastsatte offisielle tidende innen utgangen av mars måned det år hvori forretningen skal holdes.Kunngjørelsen skal inneholde:Rekvirentens navn, hjemsted og nasjonalitet.Angivelse av fundpunktets beliggenhet og den anmeldte tid for avmerkning av fundet.Tid og sted for forretningen.Opfordring til alle som mener å ha en bedre rett til utmål til å møte og vareta sitt tarv under forretningen.Bergmesteren bør dessuten sende avtrykk av kunngjørelsen til dem som kan antas å være interessert i utmålsspørsmålet. At sådan underretning ikke er sendt eller ikke er kommet frem til en interessert, er dog uten betydning for adgangen til å fremme forretningen.
+2\. Om berammelsen utferdiges en kunngjørelse i den dertil fastsatte offisielle tidende innen utgangen av mars måned det år hvori forretningen skal holdes.
 
-3\. For behandlingen av en begjæring om et enkelt utmål betales kr. 6.000.Hvis en anmelder begjærer flere utmål i samme trakt og på samme tid, eller hvis flere anmeldere i fellesskap begjærer utmål i samme trakt og på samme tid, betales kr. 2.500,- i tillegg for hvert av de øvrige utmål begjæringen omfatter. De begjærte utmål anses som liggende i samme trakt, når der mellem de lengst fra hverandre liggende fundpunkter ikke er større avstand enn 30 km.Betalingen for de begjærte utmål erlegges til bergmesteren samtidig med at utmål begjæres.
+Kunngjørelsen skal inneholde:
+
+1. Rekvirentens navn, hjemsted og nasjonalitet.
+2. Angivelse av fundpunktets beliggenhet og den anmeldte tid for avmerkning av fundet.
+3. Tid og sted for forretningen.
+4. Opfordring til alle som mener å ha en bedre rett til utmål til å møte og vareta sitt tarv under forretningen.
+
+Bergmesteren bør dessuten sende avtrykk av kunngjørelsen til dem som kan antas å være interessert i utmålsspørsmålet. At sådan underretning ikke er sendt eller ikke er kommet frem til en interessert, er dog uten betydning for adgangen til å fremme forretningen.
+
+3\. For behandlingen av en begjæring om et enkelt utmål betales kr. 6.000.
+
+Hvis en anmelder begjærer flere utmål i samme trakt og på samme tid, eller hvis flere anmeldere i fellesskap begjærer utmål i samme trakt og på samme tid, betales kr. 2.500,- i tillegg for hvert av de øvrige utmål begjæringen omfatter. De begjærte utmål anses som liggende i samme trakt, når der mellem de lengst fra hverandre liggende fundpunkter ikke er større avstand enn 30 km.
+
+Betalingen for de begjærte utmål erlegges til bergmesteren samtidig med at utmål begjæres.
 
 ### § 12
 
 1\. Under utmålsforretningen avgjør bergmesteren først om rekvirenten har rett til å få utmål.
 
-2\. I bekreftende fall gir han utmål under iakttagelse av følgende forskrifter:Fundpunktet må ligge innenfor utmålets grenser.Hvis flere anmeldte fundpunkter ligger så nær hverandre at adgangen til å få utmål for et av fundene er avhengig av hvorledes utmål gis for et annet, kan den som først har avmerket et fundpunkt velge hvorledes han ønsker utmål. Møter han ikke under utmålsforretningen, bestemmer bergmesteren hvorledes utmålet for hans fund senere skal gis, hvis han krever utmål.Utmålet gis som flateutmål med kvadratinnhold efter rekvirentens begjæring og forekomstens natur inntil 1.000 hektar. I regelen skal utmålet gis formen av en rettvinklet firkant, hvis lengde og bredde fastsettes av rekvirenten selv med den begrensning at lengden ikke må være større enn 4 ganger bredden. Avvikelser fra den rektangulære form bør gjøres efter begjæring av rekvirenten, når det tilsis av hensynet til kystlinjens form eller andre naturlige grenselinjer og utmålet ikke i nogen retning får en større lengde enn 7 km. Grensene for flateutmålet regnes loddrett mot dypet.Dekker utmålet flere fundpunkter, bortfaller adgangen til å få utmål for de andre.
+2\. I bekreftende fall gir han utmål under iakttagelse av følgende forskrifter:
 
-3\. Forretningen innføres i en autorisert protokoll.Bergmesteren skal på forlangende levere bekreftet utskrift av protokollen mot en godtgjørelse av kr. 14,00 pr. ark eller del derav.
+1. Fundpunktet må ligge innenfor utmålets grenser.
+2. Hvis flere anmeldte fundpunkter ligger så nær hverandre at adgangen til å få utmål for et av fundene er avhengig av hvorledes utmål gis for et annet, kan den som først har avmerket et fundpunkt velge hvorledes han ønsker utmål. Møter han ikke under utmålsforretningen, bestemmer bergmesteren hvorledes utmålet for hans fund senere skal gis, hvis han krever utmål.
+3. Utmålet gis som flateutmål med kvadratinnhold efter rekvirentens begjæring og forekomstens natur inntil 1.000 hektar. I regelen skal utmålet gis formen av en rettvinklet firkant, hvis lengde og bredde fastsettes av rekvirenten selv med den begrensning at lengden ikke må være større enn 4 ganger bredden. Avvikelser fra den rektangulære form bør gjøres efter begjæring av rekvirenten, når det tilsis av hensynet til kystlinjens form eller andre naturlige grenselinjer og utmålet ikke i nogen retning får en større lengde enn 7 km. Grensene for flateutmålet regnes loddrett mot dypet.
+4. Dekker utmålet flere fundpunkter, bortfaller adgangen til å få utmål for de andre.
 
-4\. Når utmål er gitt, skal bergmesteren tilstille rekvirenten et utmålsbrev for hvert enkelt utmål som under forretningen er tildelt ham.Kunngjørelse om utferdigelsen offentliggjøres i den offisielle tidende.
+3\. Forretningen innføres i en autorisert protokoll.
+
+Bergmesteren skal på forlangende levere bekreftet utskrift av protokollen mot en godtgjørelse av kr. 14,00 pr. ark eller del derav.
+
+4\. Når utmål er gitt, skal bergmesteren tilstille rekvirenten et utmålsbrev for hvert enkelt utmål som under forretningen er tildelt ham.
+
+Kunngjørelse om utferdigelsen offentliggjøres i den offisielle tidende.
 
 ### § 13
 
@@ -137,7 +172,9 @@ Offentlige tjenestemenn har ikke adgang til å anmelde fund, ta utmål eller væ
 
 3\. Frivillig og tvungen overdragelse av retten til et utmål og frivillig eller tvungen stiftelse eller overdragelse av panterett eller andre rettigheter over utmålet kan med full rettsvirkning bare skje på den måte som gjelder for fast eiendom.
 
-4\. Efter begjæring av utmålshaveren kan bergmesteren dele et utmål ved å utskille en del av dette som et særskilt utmål. Delingen foretas uten utmålsforretning på stedet. Bestemmelsene i [§ 12](forskrift/1925-08-07-3767/§12), post 3 og 4, samt [§ 13](forskrift/1925-08-07-3767/§13) får tilsvarende anvendelse.For behandlingen av en begjæring om deling betales kr. 2.500,- for hver del som begjæres utskilt fra det oprinnelige utmål.
+4\. Efter begjæring av utmålshaveren kan bergmesteren dele et utmål ved å utskille en del av dette som et særskilt utmål. Delingen foretas uten utmålsforretning på stedet. Bestemmelsene i [§ 12](forskrift/1925-08-07-3767/§12), post 3 og 4, samt [§ 13](forskrift/1925-08-07-3767/§13) får tilsvarende anvendelse.
+
+For behandlingen av en begjæring om deling betales kr. 2.500,- for hver del som begjæres utskilt fra det oprinnelige utmål.
 
 ### § 15
 
@@ -147,7 +184,12 @@ Offentlige tjenestemenn har ikke adgang til å anmelde fund, ta utmål eller væ
 
 3\. Anmeldelse om det antall dagsverk som er utført hvert driftsår regnet fra 1 oktober det ene år til 30 september det næste år, inngis til bergmesteren innen den påfølgende 31 desember.
 
-4\. Når ansøkning fremkommer til bergmesteren i løpet av en periode, eller senest 31 desember det år perioden løper ut, kan vedkommende departement efter innstilling fra bergmesteren dispensere fra bestemmelsene i post 1 og 2 for vedkommende periode ved å frita for plikten til drift eller ved å nedsette det antall dagsverk som utkreves til opfyllelse av plikten.Vilkårene for sådan dispensasjon er:At utmålshaveren godtgjør at vesentlige hindringer som ikke kan tilregnes ham, er eller har vært til hinder for drift, såsom særegne og forbigående omstendigheter ved driften eller ved produktenes tilgodegjørelse eller avhendelse, ellerat utmålshaveren godtgjør at ett eller flere utmål som ønskes satt ut av betraktning ved beregning av dagsverkene, er nødvendig som reserve for utmål som holdes i drift.
+4\. Når ansøkning fremkommer til bergmesteren i løpet av en periode, eller senest 31 desember det år perioden løper ut, kan vedkommende departement efter innstilling fra bergmesteren dispensere fra bestemmelsene i post 1 og 2 for vedkommende periode ved å frita for plikten til drift eller ved å nedsette det antall dagsverk som utkreves til opfyllelse av plikten.
+
+Vilkårene for sådan dispensasjon er:
+
+1. At utmålshaveren godtgjør at vesentlige hindringer som ikke kan tilregnes ham, er eller har vært til hinder for drift, såsom særegne og forbigående omstendigheter ved driften eller ved produktenes tilgodegjørelse eller avhendelse, eller
+2. at utmålshaveren godtgjør at ett eller flere utmål som ønskes satt ut av betraktning ved beregning av dagsverkene, er nødvendig som reserve for utmål som holdes i drift.
 
 ### § 16
 
@@ -171,9 +213,13 @@ Foruten i de tilfelle som er nevnt i [§§ 16](forskrift/1925-08-07-3767/§16) o
 
 ### § 19
 
-1\. Eier av grunn på hvilken utmål er gitt, har rett til å delta i driften for inntil en fjerdedel. Vil han benytte sig av denne rett, må han gi utmålshaveren meddelelse om den brøkdel for hvilken han vil delta, innen 1 år efterat utmålsbrevet er kunngjort i den offisielle tidende. Han kan da også forlange at en tilsvarende del av det utvunne skal forbli på stedet inntil overenskomst om vilkårene for deltagelse er oprettet.Er utmål gitt på forskjellige eieres grunn, har de rett til i forening å delta i driften for inntil en fjerdedel med innbyrdes like fordeling av utgift og inntekt. Hvis nogen av dem ikke vil, inntrer de andre i hans rett.
+1\. Eier av grunn på hvilken utmål er gitt, har rett til å delta i driften for inntil en fjerdedel. Vil han benytte sig av denne rett, må han gi utmålshaveren meddelelse om den brøkdel for hvilken han vil delta, innen 1 år efterat utmålsbrevet er kunngjort i den offisielle tidende. Han kan da også forlange at en tilsvarende del av det utvunne skal forbli på stedet inntil overenskomst om vilkårene for deltagelse er oprettet.
 
-2\. Når grunneieren eller den til hvem han måtte ha overdradd sin rett har erklært å ville delta i driften, skal skriftlig kontrakt oprettes om vilkårene på grunnlag av at grunneieren eller innehaveren av hans rett for den forlangte anpart plikter å delta i samtlige utgifter ved driften og anlegg for tilgodegjørelse av det utvunne og med rett til andel i utbyttet, i begge tilfelle fra driftens begynnelse.Blir partene ikke enig, kan enhver av dem innen 6 måneder efter utløpet av den i post 1 nevnte frist kreve at bergmesteren skal fastsette vilkårene. Vil grunneieren ikke vedta bergmesterens avgjørelse, kan han innen 6 måneder efterat den er meddelt ham enten overdra sin rett til nogen som vedtar vilkårene, eller tre tilbake fra enhver deltagelse i driften.
+Er utmål gitt på forskjellige eieres grunn, har de rett til i forening å delta i driften for inntil en fjerdedel med innbyrdes like fordeling av utgift og inntekt. Hvis nogen av dem ikke vil, inntrer de andre i hans rett.
+
+2\. Når grunneieren eller den til hvem han måtte ha overdradd sin rett har erklært å ville delta i driften, skal skriftlig kontrakt oprettes om vilkårene på grunnlag av at grunneieren eller innehaveren av hans rett for den forlangte anpart plikter å delta i samtlige utgifter ved driften og anlegg for tilgodegjørelse av det utvunne og med rett til andel i utbyttet, i begge tilfelle fra driftens begynnelse.
+
+Blir partene ikke enig, kan enhver av dem innen 6 måneder efter utløpet av den i post 1 nevnte frist kreve at bergmesteren skal fastsette vilkårene. Vil grunneieren ikke vedta bergmesterens avgjørelse, kan han innen 6 måneder efterat den er meddelt ham enten overdra sin rett til nogen som vedtar vilkårene, eller tre tilbake fra enhver deltagelse i driften.
 
 ### § 20
 
@@ -183,7 +229,9 @@ Foruten i de tilfelle som er nevnt i [§§ 16](forskrift/1925-08-07-3767/§16) o
 
 3\. For den skade og ulempe som voldes ved avståelser i henhold til post 1 eller 2, kan så vel grunneieren som andre rettighetshavere forlange en erstatning som i mangel av overenskomst fastsettes ved skjønn.
 
-4\. Det som en grunneier efter post 1 eller 2 har avgitt, faller igjen tilbake til grunnen til full eiendom når bruken er endelig opgitt, eller når utmålet er falt i det fri.Utmålshaveren har en frist av 3 år efter den endelige nedleggelse av driften til å ryddiggjøre grunnen i den utstrekning han måtte ønske. Det som da ikke er fjernet tilfaller grunneieren. Har nogen innen den nevnte frist fått nytt utmål over den nedlagte grube, har dog den tidligere utmålshaver rett til å overdra til den nye sine anlegg, bygninger og maskiner.
+4\. Det som en grunneier efter post 1 eller 2 har avgitt, faller igjen tilbake til grunnen til full eiendom når bruken er endelig opgitt, eller når utmålet er falt i det fri.
+
+Utmålshaveren har en frist av 3 år efter den endelige nedleggelse av driften til å ryddiggjøre grunnen i den utstrekning han måtte ønske. Det som da ikke er fjernet tilfaller grunneieren. Har nogen innen den nevnte frist fått nytt utmål over den nedlagte grube, har dog den tidligere utmålshaver rett til å overdra til den nye sine anlegg, bygninger og maskiner.
 
 ## Femte kapitel. Om bergverksdriften.
 
@@ -197,15 +245,21 @@ Bestemmelsene i dette kapitel om gruber får tilsvarende anvendelse på dagbrudd
 
 2\. Den eller de menn som skal forestå den tekniske ledelse på stedet må ha den for stillingen nødvendige fagkunnskap og erfaring.
 
-3\. Drift må ikke uten tillatelse av eier eller bruker åpnes på de steder hvor søkning efter [§ 7](forskrift/1925-08-07-3767/§7), post 5, er forbudt. Drift under dagen kan heller ikke finne sted på disse steder medmindre bergmesteren finner at driften er av sådan art eller foregår på en sådan måte at den ikke kan forårsake synkninger eller på annen måte kan være til skade for de i dagen værende bygninger eller anlegg. Er vedkommende bygning eller anlegg opført efterat utmålsforretningen er blitt endelig, er tillatelse som foran nevnt dog ikke nødvendig.Forat drift skal kunne åpnes eller finne sted under dagen innenfor den i [§ 7](forskrift/1925-08-07-3767/§7), post 5, nevnte avstand fra offentlig eller videnskapelig anlegg, kirke eller kirkegård, utkreves tillatelse av Kongen.
+3\. Drift må ikke uten tillatelse av eier eller bruker åpnes på de steder hvor søkning efter [§ 7](forskrift/1925-08-07-3767/§7), post 5, er forbudt. Drift under dagen kan heller ikke finne sted på disse steder medmindre bergmesteren finner at driften er av sådan art eller foregår på en sådan måte at den ikke kan forårsake synkninger eller på annen måte kan være til skade for de i dagen værende bygninger eller anlegg. Er vedkommende bygning eller anlegg opført efterat utmålsforretningen er blitt endelig, er tillatelse som foran nevnt dog ikke nødvendig.
+
+Forat drift skal kunne åpnes eller finne sted under dagen innenfor den i [§ 7](forskrift/1925-08-07-3767/§7), post 5, nevnte avstand fra offentlig eller videnskapelig anlegg, kirke eller kirkegård, utkreves tillatelse av Kongen.
 
 4\. Ved enhver bedrift som sysselsetter ikke-norske arbeidere skal der være minst én funksjonær som forstår og kan gjøre sig forståelig på norsk og i tilfelle på det fremmede sprog som er almindelig brukt ved gruben.
 
 ### § 23
 
-1\. Ved enhver grube skal der, hvis bergmesteren finner det påkrevet, være en protokoll hvori månedlig skal innføres en oversikt over driften og alt som inntreffer av betydning for gruben og leiestedenes forhold.Av denne protokoll skal der for hvert driftsår innen 31 desember sendes bergmesteren et utdrag efter et av ham fastsatt skjema.
+1\. Ved enhver grube skal der, hvis bergmesteren finner det påkrevet, være en protokoll hvori månedlig skal innføres en oversikt over driften og alt som inntreffer av betydning for gruben og leiestedenes forhold.
 
-2\. Over enhver grube som ikke i sin helhet kan overskues fra dagen, skal der enn videre optas et kart som fullstendiggjøres eftersom driften skrider frem.Et eksemplar av kartet skal være ved gruben og et annet tilstilles bergmesteren.
+Av denne protokoll skal der for hvert driftsår innen 31 desember sendes bergmesteren et utdrag efter et av ham fastsatt skjema.
+
+2\. Over enhver grube som ikke i sin helhet kan overskues fra dagen, skal der enn videre optas et kart som fullstendiggjøres eftersom driften skrider frem.
+
+Et eksemplar av kartet skal være ved gruben og et annet tilstilles bergmesteren.
 
 3\. De oplysninger og karter som bergmesteren mottar i henhold til denne paragraf, skal bare benyttes i offentlig øiemed og må ikke meddeles uvedkommende.
 
@@ -231,17 +285,25 @@ I den utstrekning hvori det kan gjøres uten særlige vanskeligheter og utgifter
 
 ### § 27
 
-1\. Arbeidsgiveren er forpliktet til å skaffe sine arbeidere sundt og forsvarlig husrum og i den utstrekning forholdene tillater det å sørge for sanitære innretninger.Nærmere forskrifter om bebyggelsen og husenes innretning utferdiges av vedkommende departement. Departementet kan også, når behov foreligger, pålegge arbeidsgiveren å holde forsamlingslokale og en passende samling av bøker i et sprog som arbeiderne forstår.
+1\. Arbeidsgiveren er forpliktet til å skaffe sine arbeidere sundt og forsvarlig husrum og i den utstrekning forholdene tillater det å sørge for sanitære innretninger.
 
-2\. Arbeidsgiveren er forpliktet til å ha til stede ved anlegget de fornødne lægemidler, kirurgiske instrumenter og forbindingssaker.Nærmere forskrifter herom utferdiges av vedkommende departement.
+Nærmere forskrifter om bebyggelsen og husenes innretning utferdiges av vedkommende departement. Departementet kan også, når behov foreligger, pålegge arbeidsgiveren å holde forsamlingslokale og en passende samling av bøker i et sprog som arbeiderne forstår.
+
+2\. Arbeidsgiveren er forpliktet til å ha til stede ved anlegget de fornødne lægemidler, kirurgiske instrumenter og forbindingssaker.
+
+Nærmere forskrifter herom utferdiges av vedkommende departement.
 
 3\. Departementet kan pålegge arbeidsgiveren å holde et for øiemedet tjenlig sykehus med isolasjonslokale og fornødent utstyr og betjening, beregnet på et så stort antall pasienter som departementet bestemmer. Når departementet finner det påkrevet, plikter arbeidsgiveren dessuten å sørge for lægehjelp på stedet.
 
 ### § 28
 
-1\. Arbeidsgiveren er forpliktet til å sørge for at der på den tid av året da forbindelsen med utenverdenen kan ventes avbrutt ved isforholdene er til stede ved anlegget de beholdninger av proviant, klær og andre livsfornødenheter som hans arbeidere trenger til minst ett års opphold. Beholdningene fordeles i betryggende depoter.Nærmere forskrifter til gjennemførelse av disse bestemmelser utferdiges av vedkommende departement.
+1\. Arbeidsgiveren er forpliktet til å sørge for at der på den tid av året da forbindelsen med utenverdenen kan ventes avbrutt ved isforholdene er til stede ved anlegget de beholdninger av proviant, klær og andre livsfornødenheter som hans arbeidere trenger til minst ett års opphold. Beholdningene fordeles i betryggende depoter.
 
-2\. Politichefen kan i fornødent fall påby eller selv iverksette hjemsendelse av så mange arbeidere som han finner bydende nødvendig forat beholdningene skal være tilstrekkelig for de gjenværendes opphold.Klage har ikke opsettende virkning.
+Nærmere forskrifter til gjennemførelse av disse bestemmelser utferdiges av vedkommende departement.
+
+2\. Politichefen kan i fornødent fall påby eller selv iverksette hjemsendelse av så mange arbeidere som han finner bydende nødvendig forat beholdningene skal være tilstrekkelig for de gjenværendes opphold.
+
+Klage har ikke opsettende virkning.
 
 ### § 29
 
@@ -281,11 +343,20 @@ Blir en arbeider under utførelsen av sin virksomhet rammet av en ulykke som ikk
 
 ### § 35
 
-1\. De personer og selskaper som i henhold til bestemmelsene i bilaget til Spitsbergentraktaten blir kjent eiendomsberettiget til et visst område, skal tildeles så mange utmål som de ønsker innenfor grensene av sitt eiendomsområde under følgende betingelser:At den besiddelsestagelse eller okkupasjon hvorpå den tilkjente eiendomsrett grunner sig, fra først av har funnet sted i det øiemed å utnytte området til bergverksdrift eller senere er efterfulgt av sådan utnyttelse;at begjæring om utmål inneholdende oplysning om forekomstens art med henvisning til en samtidig innlevert prøve av det funne og ledsaget av det fastsatte gebyr fremkommer til bergmesteren innen 10 år efterat kravsmannens hjemmelsbrev på eiendommen er utferdiget i henhold til bestemmelsene i bilaget til Spitsbergestraktaten [§ 1](forskrift/1925-08-07-3767/§1), post 9, eller [§ 2](forskrift/1925-08-07-3767/§2), post 11, forutsatt at hjemmelsbrevet er eller blir endelig.Gebyret beregnes med kr. 500 for det første og kr. 200 for hvert av de følgende utmål innenfor grensene av samme eiendom.I de her omhandlede tilfelle får bestemmelsene i [§ 11](forskrift/1925-08-07-3767/§11), post 1, og post 3, siste ledd, samt [§ 12](forskrift/1925-08-07-3767/§12), post 1, post 2 c, post 3 og 4, tilsvarende anvendelse mens de øvrige bestemmelser i §§ 9-12 er uten anvendelse.
+1\. De personer og selskaper som i henhold til bestemmelsene i bilaget til Spitsbergentraktaten blir kjent eiendomsberettiget til et visst område, skal tildeles så mange utmål som de ønsker innenfor grensene av sitt eiendomsområde under følgende betingelser:
+
+1. At den besiddelsestagelse eller okkupasjon hvorpå den tilkjente eiendomsrett grunner sig, fra først av har funnet sted i det øiemed å utnytte området til bergverksdrift eller senere er efterfulgt av sådan utnyttelse;
+2. at begjæring om utmål inneholdende oplysning om forekomstens art med henvisning til en samtidig innlevert prøve av det funne og ledsaget av det fastsatte gebyr fremkommer til bergmesteren innen 10 år efterat kravsmannens hjemmelsbrev på eiendommen er utferdiget i henhold til bestemmelsene i bilaget til Spitsbergestraktaten [§ 1](forskrift/1925-08-07-3767/§1), post 9, eller [§ 2](forskrift/1925-08-07-3767/§2), post 11, forutsatt at hjemmelsbrevet er eller blir endelig.
+
+Gebyret beregnes med kr. 500 for det første og kr. 200 for hvert av de følgende utmål innenfor grensene av samme eiendom.
+
+I de her omhandlede tilfelle får bestemmelsene i [§ 11](forskrift/1925-08-07-3767/§11), post 1, og post 3, siste ledd, samt [§ 12](forskrift/1925-08-07-3767/§12), post 1, post 2 c, post 3 og 4, tilsvarende anvendelse mens de øvrige bestemmelser i §§ 9-12 er uten anvendelse.
 
 2\. Inntil utløpet av den i post 1 under b, nevnte frist og forsåvidt utmålsbegjæring fremkommer i rett tid inntil utmålsforretningen er blitt endelig, har den godkjente eier enerett til å foreta søkning og drive bergverksdrift innenfor sitt eiendomsområde. I dette tidsrum kommer bestemmelsene i kap. 5 og 6 til anvendelse.
 
-3\. For de utmål som de i post 1 nevnte personer og selskaper erholder i henhold til post 1, er de fritatt for den i [§ 17](forskrift/1925-08-07-3767/§17) nevnte utmålsavgift. Det samme gjelder for de utmål som de begjærer i henhold til fund som de har anmeldt i løpet av de i post 1 b nevnte 10 år.For øvrig kommer bestemmelsene i denne bergverksordning i sin helhet til anvendelse på utmålene.
+3\. For de utmål som de i post 1 nevnte personer og selskaper erholder i henhold til post 1, er de fritatt for den i [§ 17](forskrift/1925-08-07-3767/§17) nevnte utmålsavgift. Det samme gjelder for de utmål som de begjærer i henhold til fund som de har anmeldt i løpet av de i post 1 b nevnte 10 år.
+
+For øvrig kommer bestemmelsene i denne bergverksordning i sin helhet til anvendelse på utmålene.
 
 ## Slutningsbestemmelse.
 

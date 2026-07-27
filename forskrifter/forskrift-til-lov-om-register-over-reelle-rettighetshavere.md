@@ -26,19 +26,47 @@ eu_basis: []
 
 ### § 1-1. Forvaltere av utenlandske truster og lignende juridiske arrangementer
 
-[Lov om register over reelle rettighetshavere](lov/2019-03-01-2) gjelder etter lovens § 2 annet ledd for forvaltere av utenlandske truster og lignende juridiske arrangementer som driver virksomhet i riket, uavhengig av om forvalterne eller de juridiske arrangementene har registreringsplikt i norsk register. Forvaltere nevnt i første punktum skal i alle fall anses å drive virksomhet i riket når de i trusten eller det juridiske arrangements navnunderlegges kundetiltak, jf. [hvitvaskingsloven § 10](lov/2018-06-01-23/§10), av rapporteringspliktig i riket, jf. [hvitvaskingsloven § 4](lov/2018-06-01-23/§4), ellererverver fast eiendom i riket.
+[Lov om register over reelle rettighetshavere](lov/2019-03-01-2) gjelder etter lovens § 2 annet ledd for forvaltere av utenlandske truster og lignende juridiske arrangementer som driver virksomhet i riket, uavhengig av om forvalterne eller de juridiske arrangementene har registreringsplikt i norsk register. Forvaltere nevnt i første punktum skal i alle fall anses å drive virksomhet i riket når de i trusten eller det juridiske arrangements navn
+
+1. underlegges kundetiltak, jf. [hvitvaskingsloven § 10](lov/2018-06-01-23/§10), av rapporteringspliktig i riket, jf. [hvitvaskingsloven § 4](lov/2018-06-01-23/§4), eller
+2. erverver fast eiendom i riket.
 
 ### § 1-2. Unntak fra lov om register over reelle rettighetshavere
 
-Følgende juridiske personer, enheter og andre sammenslutninger er unntatt [lov om register over reelle rettighetshavere](lov/2019-03-01-2), jf. lovens § 2, og er derfor ikke registreringspliktige, jf. lovens § 3 første ledd:Dødsbo.Konkursbo.Foreninger som verken er næringsdrivende foreninger, jf. [lov 21. juni 1985 nr. 78 om registrering av foretak § 2-1](lov/1985-06-21-78/§2-1) første ledd nr. 6 eller foreninger med regnskapsplikt, jf. [regnskapsloven § 1-2](lov/1998-07-17-56/§1-2) første ledd nr. 9.Stiftelser omfattet av [stiftelsesloven](lov/2001-06-15-59). Næringsdrivende stiftelser omfattet av [stiftelsesloven § 4](lov/2001-06-15-59/§4) annet ledd bokstav c, er likevel omfattet av [lov om register over reelle rettighetshavere](lov/2019-03-01-2).Verdipapirfond opprettet i samsvar med [verdipapirfondloven](lov/2011-11-25-44).Staten, fylkeskommuner og kommuner.Statsforetak.Kommunale foretak, herunder interkommunale foretak.Den norske kirke og tilknyttede kirkelige enheter.Bankenes sikringsfond.Studentsamskipnader.Helseforetak, herunder regionale helseforetak.
+Følgende juridiske personer, enheter og andre sammenslutninger er unntatt [lov om register over reelle rettighetshavere](lov/2019-03-01-2), jf. lovens § 2, og er derfor ikke registreringspliktige, jf. lovens § 3 første ledd:
+
+1. Dødsbo.
+2. Konkursbo.
+3. Foreninger som verken er næringsdrivende foreninger, jf. [lov 21. juni 1985 nr. 78 om registrering av foretak § 2-1](lov/1985-06-21-78/§2-1) første ledd nr. 6 eller foreninger med regnskapsplikt, jf. [regnskapsloven § 1-2](lov/1998-07-17-56/§1-2) første ledd nr. 9.
+4. Stiftelser omfattet av [stiftelsesloven](lov/2001-06-15-59). Næringsdrivende stiftelser omfattet av [stiftelsesloven § 4](lov/2001-06-15-59/§4) annet ledd bokstav c, er likevel omfattet av [lov om register over reelle rettighetshavere](lov/2019-03-01-2).
+5. Verdipapirfond opprettet i samsvar med [verdipapirfondloven](lov/2011-11-25-44).
+6. Staten, fylkeskommuner og kommuner.
+7. Statsforetak.
+8. Kommunale foretak, herunder interkommunale foretak.
+9. Den norske kirke og tilknyttede kirkelige enheter.
+10. Bankenes sikringsfond.
+11. Studentsamskipnader.
+12. Helseforetak, herunder regionale helseforetak.
 
 ## Kapittel 2. Identifisering av reelle rettighetshavere, herunder opplysningsplikt. Dokumentasjon
 
 ### § 2-1. Registreringspliktige som ikke er stiftelser eller forvaltere av utenlandske truster eller lignende juridiske arrangementer
 
-(1) Når registreringspliktige skal identifisere reelle rettighetshavere, jf. [lov om register over reelle rettighetshavere § 4](lov/2019-03-01-2/§4) første ledd, skal de innhente og oppbevare opplysninger om fysiske personer som oppfyller ett eller flere av de følgende kriteriene:Direkte eller indirekte eier mer enn 25 prosent av eierandelene i den registreringspliktige.Direkte eller indirekte kan stemme for mer enn 25 prosent av stemmerettighetene i den registreringspliktige, i tilfeller der fordelingen av stemmerettigheter avviker fra eierandelene.Direkte eller indirekte kan utpeke eller avsette mer enn halvparten av den juridiske personens eller sammenslutningens styremedlemmer eller tilsvarende.På annen måte enn angitt i bokstav a til c utøver kontroll over den registreringspliktige.
+(1) Når registreringspliktige skal identifisere reelle rettighetshavere, jf. [lov om register over reelle rettighetshavere § 4](lov/2019-03-01-2/§4) første ledd, skal de innhente og oppbevare opplysninger om fysiske personer som oppfyller ett eller flere av de følgende kriteriene:
 
-(2) Registreringspliktige skal innhente og oppbevare opplysninger om grunnlaget for at de fysiske personene er reelle rettighetshavere etter første ledd. Opplysninger om grunnlaget for identifiseringen skal for hver av dem omfatte om posisjonene innehasdirekte,indirekte, jf. tredje ledd,gjennom enighet eller avtale, formell eller uformell, med registreringspliktig, øvrige eiere eller andre, eller med grunnlag i vedtekter eller tilsvarende, ogpå annen måte enn angitt i bokstav a til c.Der flere av grunnlagene i bokstav a til c til sammen gir den aktuelle posisjonen, jf. første ledd, skal opplysninger om disse grunnlagene innhentes og oppbevares.
+1. Direkte eller indirekte eier mer enn 25 prosent av eierandelene i den registreringspliktige.
+2. Direkte eller indirekte kan stemme for mer enn 25 prosent av stemmerettighetene i den registreringspliktige, i tilfeller der fordelingen av stemmerettigheter avviker fra eierandelene.
+3. Direkte eller indirekte kan utpeke eller avsette mer enn halvparten av den juridiske personens eller sammenslutningens styremedlemmer eller tilsvarende.
+4. På annen måte enn angitt i bokstav a til c utøver kontroll over den registreringspliktige.
+
+(2) Registreringspliktige skal innhente og oppbevare opplysninger om grunnlaget for at de fysiske personene er reelle rettighetshavere etter første ledd. Opplysninger om grunnlaget for identifiseringen skal for hver av dem omfatte om posisjonene innehas
+
+1. direkte,
+2. indirekte, jf. tredje ledd,
+3. gjennom enighet eller avtale, formell eller uformell, med registreringspliktig, øvrige eiere eller andre, eller med grunnlag i vedtekter eller tilsvarende, og
+4. på annen måte enn angitt i bokstav a til c.
+
+Der flere av grunnlagene i bokstav a til c til sammen gir den aktuelle posisjonen, jf. første ledd, skal opplysninger om disse grunnlagene innhentes og oppbevares.
 
 (3) En posisjon innehas indirekte når vedkommende direkte eller gjennom andre juridiske personer, enheter, sammenslutninger eller arrangementer, har rett til å stemme for halvparten eller mer av stemmerettighetene, eller utpeke eller avsette halvparten eller mer av styremedlemmene eller tilsvarende, i juridiske personer, enheter, sammenslutninger eller arrangementer som alene eller til sammen innehar nevnte posisjoner i registreringspliktig.
 
@@ -48,9 +76,25 @@ Følgende juridiske personer, enheter og andre sammenslutninger er unntatt [lov 
 
 ### § 2-2. Stiftelser. Utenlandske truster og lignende juridiske arrangementer
 
-(1) Når stiftelser skal identifisere reelle rettighetshavere, jf. [lov om register over reelle rettighetshavere § 4](lov/2019-03-01-2/§4) første ledd, skal de innhente og oppbevare opplysninger om samtlige av følgende fysiske personer:Styremedlemmer og eventuell daglig leder.Fysiske personer som uttrykkelig er angitt til å utpeke et flertall av styremedlemmene i stiftelsen.Fysiske personer som har avgitt grunnkapital til stiftelsen.Fysiske personer som er tilstått særlige rettigheter i medhold av [stiftelsesloven § 9](lov/2001-06-15-59/§9) første ledd bokstav d.Fysiske personer som uttrykkelig er angitt som destinatar.Dersom andre enn fysiske personer er i posisjoner nevnt i bokstav b til e, skal stiftelsen innhente opplysninger om deres reelle rettighetshavere på tidspunktet for når den aktuelle posisjonen ble oppnådd, der disse kan identifiseres, eventuelt daglig leder, styremedlemmer eller personer i tilsvarende posisjoner. I slike tilfeller skal det innhentes opplysninger om navn, adresse og eventuelt organisasjonsnummer for den juridiske personen, enheten, sammenslutningen eller arrangementet. Det skal også innhentes opplysninger om navn, adresse og eventuelt organisasjonsnummer for mellomliggende juridiske personer, enheter, sammenslutninger og arrangementer.
+(1) Når stiftelser skal identifisere reelle rettighetshavere, jf. [lov om register over reelle rettighetshavere § 4](lov/2019-03-01-2/§4) første ledd, skal de innhente og oppbevare opplysninger om samtlige av følgende fysiske personer:
 
-(2) Når forvaltere av utenlandske truster og lignende juridiske arrangementer skal identifisere reelle rettighetshavere, jf. [lov om register over reelle rettighetshavere § 4](lov/2019-03-01-2/§4) første ledd, skal de innhente og oppbevare opplysninger om fysiske personer i samtlige av følgende posisjoner eller lignende posisjoner i andre juridiske arrangementer enn trust:Oppretter.Forvalter.Beskytter.Begunstigede eller, dersom individuelle begunstigede foreløpig ikke kan identifiseres, kretsen av begunstigede som har en hovedinteresse i opprettelsen eller forvaltningen av trusten eller det lignende juridiske arrangementet.Enhver annen fysisk person som ved direkte eller indirekte eierskap eller på annen måte utøver kontroll over trusten eller det lignende juridiske arrangementet.Dersom andre enn fysiske personer er i posisjoner nevnt i bokstav a til e, skal forvalteren innhente opplysninger om deres reelle rettighetshavere, der disse kan identifiseres, eventuelt daglig leder, styremedlemmer eller personer i tilsvarende posisjoner. I slike tilfeller skal det innhentes opplysninger om navn, adresse og eventuelt organisasjonsnummer for den juridiske personen, enheten, sammenslutningen eller arrangementet. Det skal også innhentes opplysninger om navn, adresse og eventuelt organisasjonsnummer for mellomliggende juridiske personer, enheter, sammenslutninger og arrangementer.
+1. Styremedlemmer og eventuell daglig leder.
+2. Fysiske personer som uttrykkelig er angitt til å utpeke et flertall av styremedlemmene i stiftelsen.
+3. Fysiske personer som har avgitt grunnkapital til stiftelsen.
+4. Fysiske personer som er tilstått særlige rettigheter i medhold av [stiftelsesloven § 9](lov/2001-06-15-59/§9) første ledd bokstav d.
+5. Fysiske personer som uttrykkelig er angitt som destinatar.
+
+Dersom andre enn fysiske personer er i posisjoner nevnt i bokstav b til e, skal stiftelsen innhente opplysninger om deres reelle rettighetshavere på tidspunktet for når den aktuelle posisjonen ble oppnådd, der disse kan identifiseres, eventuelt daglig leder, styremedlemmer eller personer i tilsvarende posisjoner. I slike tilfeller skal det innhentes opplysninger om navn, adresse og eventuelt organisasjonsnummer for den juridiske personen, enheten, sammenslutningen eller arrangementet. Det skal også innhentes opplysninger om navn, adresse og eventuelt organisasjonsnummer for mellomliggende juridiske personer, enheter, sammenslutninger og arrangementer.
+
+(2) Når forvaltere av utenlandske truster og lignende juridiske arrangementer skal identifisere reelle rettighetshavere, jf. [lov om register over reelle rettighetshavere § 4](lov/2019-03-01-2/§4) første ledd, skal de innhente og oppbevare opplysninger om fysiske personer i samtlige av følgende posisjoner eller lignende posisjoner i andre juridiske arrangementer enn trust:
+
+1. Oppretter.
+2. Forvalter.
+3. Beskytter.
+4. Begunstigede eller, dersom individuelle begunstigede foreløpig ikke kan identifiseres, kretsen av begunstigede som har en hovedinteresse i opprettelsen eller forvaltningen av trusten eller det lignende juridiske arrangementet.
+5. Enhver annen fysisk person som ved direkte eller indirekte eierskap eller på annen måte utøver kontroll over trusten eller det lignende juridiske arrangementet.
+
+Dersom andre enn fysiske personer er i posisjoner nevnt i bokstav a til e, skal forvalteren innhente opplysninger om deres reelle rettighetshavere, der disse kan identifiseres, eventuelt daglig leder, styremedlemmer eller personer i tilsvarende posisjoner. I slike tilfeller skal det innhentes opplysninger om navn, adresse og eventuelt organisasjonsnummer for den juridiske personen, enheten, sammenslutningen eller arrangementet. Det skal også innhentes opplysninger om navn, adresse og eventuelt organisasjonsnummer for mellomliggende juridiske personer, enheter, sammenslutninger og arrangementer.
 
 ### § 2-3. Fremgangsmåte ved identifisering. Dokumentasjon
 
@@ -128,7 +172,18 @@ Dersom et norskregistrert utenlandsk foretak har opplysninger om reelle rettighe
 
 ### § 3-8. Signering av meldinger til registeret
 
-Meldinger til registeret for registrering etter forskriften her skal signeres av en fysisk personsom innehar en av følgende roller i registreringspliktig:Styremedlem.Daglig leder.Ansvarlig deltaker.Komplementar.Forretningsfører.Representant for norskregistrert utenlandsk foretak, jf. [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1) sjette ledd.Forvalter av utenlandsk trust eller juridisk arrangement.Tilsvarende kontaktperson.Melding kan også signeres av en fysisk person som har fått delegert retten til å signere meldingen på vegne av virksomheten.
+Meldinger til registeret for registrering etter forskriften her skal signeres av en fysisk personsom innehar en av følgende roller i registreringspliktig:
+
+1. Styremedlem.
+2. Daglig leder.
+3. Ansvarlig deltaker.
+4. Komplementar.
+5. Forretningsfører.
+6. Representant for norskregistrert utenlandsk foretak, jf. [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1) sjette ledd.
+7. Forvalter av utenlandsk trust eller juridisk arrangement.
+8. Tilsvarende kontaktperson.
+
+Melding kan også signeres av en fysisk person som har fått delegert retten til å signere meldingen på vegne av virksomheten.
 
 ### § 3-9. Tilgang til registeret. Unntak fra innsyn i særlige tilfeller
 
@@ -158,7 +213,16 @@ Meldinger til registeret for registrering etter forskriften her skal signeres av
 
 ### § 3-11. Aktører som skal ha tilgang til registeret
 
-(1) Følgende offentlige myndigheter er omfattet av reglene i [lov om register over reelle rettighetshavere § 11](lov/2019-03-01-2/§11) og forskriften her [§ 3-9](forskrift/2021-06-21-2056/§3-9) og [§ 3-10](forskrift/2021-06-21-2056/§3-10) om tilgangen til registeret mv.:Politi- og påtalemyndighet.Enheten for finansiell etterretning ansvarlig for å motta opplysninger om mistenkelige forhold etter [hvitvaskingsloven § 26](lov/2018-06-01-23/§26).Skattemyndigheter.Tilsynsmyndigheter for rapporteringspliktige etter hvitvaskingsregelverket.Andre myndigheter med ansvar for å etterforske og påtale hvitvasking, primærforbrytelser og terrorfinansiering.Andre myndigheter med ansvar for sporing, båndlegging og inndragning av utbytte.Sikkerhetsmyndigheten.Tilsynsmyndighet for stiftelser.
+(1) Følgende offentlige myndigheter er omfattet av reglene i [lov om register over reelle rettighetshavere § 11](lov/2019-03-01-2/§11) og forskriften her [§ 3-9](forskrift/2021-06-21-2056/§3-9) og [§ 3-10](forskrift/2021-06-21-2056/§3-10) om tilgangen til registeret mv.:
+
+1. Politi- og påtalemyndighet.
+2. Enheten for finansiell etterretning ansvarlig for å motta opplysninger om mistenkelige forhold etter [hvitvaskingsloven § 26](lov/2018-06-01-23/§26).
+3. Skattemyndigheter.
+4. Tilsynsmyndigheter for rapporteringspliktige etter hvitvaskingsregelverket.
+5. Andre myndigheter med ansvar for å etterforske og påtale hvitvasking, primærforbrytelser og terrorfinansiering.
+6. Andre myndigheter med ansvar for sporing, båndlegging og inndragning av utbytte.
+7. Sikkerhetsmyndigheten.
+8. Tilsynsmyndighet for stiftelser.
 
 (2) Medier som skal ha tilgang til register over reelle rettighetshavere, er medier omfattet av [medieansvarsloven § 2](lov/2020-05-29-59/§2).
 
@@ -192,7 +256,11 @@ Registreringspliktige som har eierandeler opptatt til handel på regulert marked
 
 ### § 5-1. Fastsettelse og beregning av tvangsmulkt
 
-(1) Tvangsmulkt ilegges registreringspliktig etter følgende satser:Et halvt rettsgebyr per dag de første åtte uker.Ett rettsgebyr per dag de neste ti uker.Ett og et halvt rettsgebyr per dag påfølgende uker.
+(1) Tvangsmulkt ilegges registreringspliktig etter følgende satser:
+
+1. Et halvt rettsgebyr per dag de første åtte uker.
+2. Ett rettsgebyr per dag de neste ti uker.
+3. Ett og et halvt rettsgebyr per dag påfølgende uker.
 
 (2) Tvangsmulkt ilegges per dag, og kreves inn etter henholdsvis åtte uker, atten uker, og deretter hver tiende påfølgende uke.
 

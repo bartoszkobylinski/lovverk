@@ -15,7 +15,7 @@ xml_hash: "c6c9db10fd30e63c30eec3b25d4be1ff11fe70db87bbb22d283e8c339e57ced7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -200,7 +200,12 @@ Ventilasjonsavtrekk fra helsekontor, bysse, vaskerom og toalettrom skal ledes i 
 
 4\.
 
-Ventilasjonsanlegget skal ha slik kapasitet at hvert rom i innredning tilføres minst 30 m3 frisk luft pr. person pr. time. Antall luftvekslinger pr. time skal i nedenfornevnte rom være minst som følger:Radiorom: 10Spiserom og dagrom: 6Tørr proviantrom: 10Bysse: 20 for tilførsel og 30 for avsug
+Ventilasjonsanlegget skal ha slik kapasitet at hvert rom i innredning tilføres minst 30 m3 frisk luft pr. person pr. time. Antall luftvekslinger pr. time skal i nedenfornevnte rom være minst som følger:
+
+- Radiorom: 10
+- Spiserom og dagrom: 6
+- Tørr proviantrom: 10
+- Bysse: 20 for tilførsel og 30 for avsug
 
 5\.
 
@@ -358,7 +363,11 @@ Det skal ikke være direkte åpninger inn til lugar fra dagrom, spiserom, bysse,
 
 ### § 14. Inventar i soverom
 
-I hvert soverom skal det finnesén køye som er minst 2 m lang og 0,8 m bred, begge mål tatt innvendig;ett eller flere klesskap og skuffer på til sammen minst 500 liter. Minst ett klesskap og én skuff skal være låsbare;bord og sitteplass. For lugarer med atskilt soverom og gulvareal større enn minimumskravene i [§ 13](forskrift/1986-12-17-2318/§13) nr. 3 og 4, kan bord og sitteplass i stedet plasseres utenfor soverommet.
+I hvert soverom skal det finnes
+
+1. én køye som er minst 2 m lang og 0,8 m bred, begge mål tatt innvendig;
+2. ett eller flere klesskap og skuffer på til sammen minst 500 liter. Minst ett klesskap og én skuff skal være låsbare;
+3. bord og sitteplass. For lugarer med atskilt soverom og gulvareal større enn minimumskravene i [§ 13](forskrift/1986-12-17-2318/§13) nr. 3 og 4, kan bord og sitteplass i stedet plasseres utenfor soverommet.
 
 > Endret ved [forskrifter 11 april 2003 nr. 495](forskrift/2003-04-11-495) (i kraft 1 juli 2003), [20 des 2016 nr. 1776](forskrift/2016-12-20-1776) (i kraft 1 jan 2017).
 
@@ -452,7 +461,10 @@ Alle dører til sanitærrom skal kunne låses.
 
 8\.
 
-Ved inngangen til boligkvarteret skal det finnes egne skifterom som skal haindividuelle klesskaparrangement til tørking av arbeids- og fottøy.
+Ved inngangen til boligkvarteret skal det finnes egne skifterom som skal ha
+
+1. individuelle klesskap
+2. arrangement til tørking av arbeids- og fottøy.
 
 9\.
 
@@ -482,7 +494,11 @@ Det skal være adgang til å vaske og tørke klær i nødvendig utstrekning. Vas
 
 1\.
 
-Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når løsningen vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+3. Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når løsningen vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 2\.
 

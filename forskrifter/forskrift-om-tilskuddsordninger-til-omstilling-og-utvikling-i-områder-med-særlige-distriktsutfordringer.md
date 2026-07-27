@@ -54,23 +54,41 @@ Kommunene kan gi tilskudd til offentlige og private virksomheter som driver tilt
 
 ### § 3. Kriterier for måloppnåelse som enkelt tiltak skal vurderes opp mot
 
-Måloppnåelsen vil bli vurdert opp motØkt utviklingskapasitet og utviklings- og gjennomføringsevne i kommunen,Økt attraktivitet for bosetting og attraktivitet for næringsliv.
+Måloppnåelsen vil bli vurdert opp mot
+
+1. Økt utviklingskapasitet og utviklings- og gjennomføringsevne i kommunen,
+2. Økt attraktivitet for bosetting og attraktivitet for næringsliv.
 
 ## Kapittel III. Særregler for tilskudd til omstilling i kommuner eller regioner med vesentlig fall i sysselsettingen over relativt kort tid jf. [§ 1b](forskrift/2024-04-03-556/§1b)
 
 ### § 4. Kriterier for tildeling av tilskudd
 
-Fylkeskommunene skal legge følgende tildelingskriterier til grunn ved tildeling til omstillingskommuneromfanget av reduksjonen i sysselsettingen i kommunene og regionenemuligheten for pendling til andre arbeidsmarkederden generelle arbeidsledigheten i kommunene og regioneneeventuelle andre forhold som kan ha betydning.
+Fylkeskommunene skal legge følgende tildelingskriterier til grunn ved tildeling til omstillingskommuner
+
+1. omfanget av reduksjonen i sysselsettingen i kommunene og regionene
+2. muligheten for pendling til andre arbeidsmarkeder
+3. den generelle arbeidsledigheten i kommunene og regionene
+4. eventuelle andre forhold som kan ha betydning.
 
 Kommunene kan gi tilskudd til offentlige og private virksomheter som driver tiltak som faller innenfor formålet i [§ 1a](forskrift/2024-04-03-556/§1a). Tilskuddsforvalteren kan fastsette ytterligere tildelingskriterier i relevant omfang når det etableres tilskuddsordninger, jf. [kapittel VI](forskrift/2024-04-03-556/kapVI).
 
 ### § 5. Ekstraordinære statlige omstillingsmidler
 
-I de tilfellene hvor en kommune/fylkeskommune søker om ekstraordinære statlige omstillingsmidler, gjelder følgende kriterier for å kunne få økonomisk støtte:Reduksjonen i den direkte sysselsettingen i kommunen bør være betydelig over en treårsperiode.Reduksjonen bør som hovedregel utgjøre minst 15 prosent av den totale sysselsettingen.I absolutte tall bør nedleggelsen som et minimum ligge på 150 personer.I helt særskilte tilfeller kan det vurderes å gå noe lavere på små og isolerte steder.I en totalvurdering skal det også legges vekt på reduksjonen i den indirekte sysselsettingen, den generelle arbeidsledigheten og mulighetene for pendling.I tillegg kan det være aktuelt å ta i betraktning trygdebudsjettets størrelse, andel yrkesaktive i kommunen og kommuneøkonomi.
+I de tilfellene hvor en kommune/fylkeskommune søker om ekstraordinære statlige omstillingsmidler, gjelder følgende kriterier for å kunne få økonomisk støtte:
+
+1. Reduksjonen i den direkte sysselsettingen i kommunen bør være betydelig over en treårsperiode.
+2. Reduksjonen bør som hovedregel utgjøre minst 15 prosent av den totale sysselsettingen.
+3. I absolutte tall bør nedleggelsen som et minimum ligge på 150 personer.
+4. I helt særskilte tilfeller kan det vurderes å gå noe lavere på små og isolerte steder.
+5. I en totalvurdering skal det også legges vekt på reduksjonen i den indirekte sysselsettingen, den generelle arbeidsledigheten og mulighetene for pendling.
+6. I tillegg kan det være aktuelt å ta i betraktning trygdebudsjettets størrelse, andel yrkesaktive i kommunen og kommuneøkonomi.
 
 ### § 6. Kriterier for måloppnåelse som enkelt tiltak skal vurderes opp mot
 
-Måloppnåelsen vil bli vurdert opp motstyrket utviklingsevne i området i løpet av omstillingsperiodenantall arbeidsplasser som er etablert eller sikret som følge av omstillingsarbeidet.
+Måloppnåelsen vil bli vurdert opp mot
+
+1. styrket utviklingsevne i området i løpet av omstillingsperioden
+2. antall arbeidsplasser som er etablert eller sikret som følge av omstillingsarbeidet.
 
 ## Kapittel IV. Fellesbestemmelser
 
@@ -84,7 +102,25 @@ Søknadsfrist for det enkelte tilskuddsordning skal gå frem av kunngjøringen.
 
 Søknaden skal sendes inn gjennom [regionalforvaltning.no](http://www.regionalforvaltning.no/).
 
-Følgende opplysninger må oppgis eller beskrives i alle søknader:*Opplysninger om søker*Den ansvarlige prosjekteierens navn og organisasjonsnummer.Hvem som er kontaktperson.*Økonomi*Hvilket tilskuddsbeløp det søkes om.Budsjett med en finansieringsplan.Om søker på søknadstidspunktet har mottatt annen offentlig støtte det inneværende år og de to siste regnskapsårene, jf. reglene om offentlig støtte. Bagatellmessig støtte utgjør 200 000 euro fordelt over tre sammenhengende regnskapsår.*Beskrivelse av tiltaket og forventede resultater*Tiltaket det søkes om tilskudd til, herunder mål og målgruppe.Fremdriftsplanen for aktiviteter.Organiseringen av tiltaket, herunder eventuelle samarbeidspartnere og hvilke roller de skal ha.Om tiltaket har forankring i kommunale eller fylkeskommunale planer.Resultatene søker forventer å oppnå ved avslutningen av tiltaket.Forventede, langsiktige effekter av tiltaket etter at det er avsluttet. Dette gjelder kun for tilskudd på minimum 500 000 kroner.
+Følgende opplysninger må oppgis eller beskrives i alle søknader:
+
+- *Opplysninger om søker*
+
+  1. Den ansvarlige prosjekteierens navn og organisasjonsnummer.
+  2. Hvem som er kontaktperson.
+- *Økonomi*
+
+  1. Hvilket tilskuddsbeløp det søkes om.
+  2. Budsjett med en finansieringsplan.
+  3. Om søker på søknadstidspunktet har mottatt annen offentlig støtte det inneværende år og de to siste regnskapsårene, jf. reglene om offentlig støtte. Bagatellmessig støtte utgjør 200 000 euro fordelt over tre sammenhengende regnskapsår.
+- *Beskrivelse av tiltaket og forventede resultater*
+
+  1. Tiltaket det søkes om tilskudd til, herunder mål og målgruppe.
+  2. Fremdriftsplanen for aktiviteter.
+  3. Organiseringen av tiltaket, herunder eventuelle samarbeidspartnere og hvilke roller de skal ha.
+  4. Om tiltaket har forankring i kommunale eller fylkeskommunale planer.
+  5. Resultatene søker forventer å oppnå ved avslutningen av tiltaket.
+  6. Forventede, langsiktige effekter av tiltaket etter at det er avsluttet. Dette gjelder kun for tilskudd på minimum 500 000 kroner.
 
 I tillegg skal søknaden opplyse om andre forhold som søkeren bør forstå er viktig for vurdering av søknaden.
 
@@ -100,7 +136,15 @@ Tilskuddsmottakere kan få tilskudd til et bestemt tiltak i maksimalt 6 år selv
 
 Tilskuddet skal kun dekke kostnader som er nødvendige for å realisere tiltaket. I vurderingen av hva som er direkte tilknyttet realiseringen, skal forvalter blant annet legge vekt på hva som er nødvendige utgifter for å realisere formålet med tilskuddet. Tilskuddet skal ha effekt utover å opprettholde et tilbud.
 
-Tilskuddet skal ikke brukes tilløpende driftskostnader i næringsvirksomheter eller organisasjonerkausjon eller annen økonomisk garantidirekte eller indirekte investeringer i virksomhetens egenkapitalrenter og avdrag på lån og refinansiering av gjennomførte prosjekterdrift av eller investeringer i statlige, fylkeskommunale eller kommunale lovpålagte oppgaver som er utført av fylkeskommunen, kommunen eller andreavsetting av midler til uspesifiserte fond hos tilskuddsmottaker. Dette omfatter ikke delegerte midler til kommuner, regionråd eller andre forvaltere, der bruken av midlene er i tråd med denne forskriftenpolitikkforberedende aktiviteter internt hos eller i regi av den som tildeler tilskuddene, innbefattet kjøp av tjenester i samband med utforming av nye tiltak og lovpålagte eller egeninitierte plan- og strategiprosesser.
+Tilskuddet skal ikke brukes til
+
+1. løpende driftskostnader i næringsvirksomheter eller organisasjoner
+2. kausjon eller annen økonomisk garanti
+3. direkte eller indirekte investeringer i virksomhetens egenkapital
+4. renter og avdrag på lån og refinansiering av gjennomførte prosjekter
+5. drift av eller investeringer i statlige, fylkeskommunale eller kommunale lovpålagte oppgaver som er utført av fylkeskommunen, kommunen eller andre
+6. avsetting av midler til uspesifiserte fond hos tilskuddsmottaker. Dette omfatter ikke delegerte midler til kommuner, regionråd eller andre forvaltere, der bruken av midlene er i tråd med denne forskriften
+7. politikkforberedende aktiviteter internt hos eller i regi av den som tildeler tilskuddene, innbefattet kjøp av tjenester i samband med utforming av nye tiltak og lovpålagte eller egeninitierte plan- og strategiprosesser.
 
 Bokstavene i tredje ledd a, b og c gjelder ikke Innovasjon Norge.
 
@@ -126,7 +170,13 @@ Tilskuddsmottakeren skal rapportere til forvalteren om tiltaket er gjennomført 
 
 ### § 14. Redusering og stans i utbetaling av tilskuddsmidler. Krav om tilbakebetaling
 
-Departementet og forvalter kan redusere utbetalingene av tilskudd, stanse utbetalingen av tilskudd eller kreve at tilskuddsmottakeren betaler tilbake hele eller deler av det utbetalte tilskuddet dersomtilskuddsmottakeren har påbegynt arbeidet tilskuddet er ment å dekke, før tilskuddet ble innvilgettildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkerentilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket, og forvalter ikke har godtatt endringenetiltaket gjennomføres til en lavere kostnad enn forutsatt ved tildelingentilskuddsmottaker unnlater å levere pliktig rapportering.
+Departementet og forvalter kan redusere utbetalingene av tilskudd, stanse utbetalingen av tilskudd eller kreve at tilskuddsmottakeren betaler tilbake hele eller deler av det utbetalte tilskuddet dersom
+
+1. tilskuddsmottakeren har påbegynt arbeidet tilskuddet er ment å dekke, før tilskuddet ble innvilget
+2. tildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkeren
+3. tilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket, og forvalter ikke har godtatt endringene
+4. tiltaket gjennomføres til en lavere kostnad enn forutsatt ved tildelingen
+5. tilskuddsmottaker unnlater å levere pliktig rapportering.
 
 ## Kapittel V. Bestemmelser for forvaltere av tilskuddspostene
 
@@ -134,7 +184,12 @@ Departementet og forvalter kan redusere utbetalingene av tilskudd, stanse utbeta
 
 Departementet tildeler tilskuddsmidler til fylkeskommunen som tilskudd uten krav om tilbakebetaling. Fylkeskommunen kan dermed disponere midlene uavhengig av bevilgningsår, og det fremgår av statsbudsjettet hvorvidt midler tildelt under en ordning kan brukes under andre ordninger.
 
-Fylkeskommunene har videre fullmakt til åbestemme i hvilket år tilsagnet skal gisavgjøre hvor lenge tilsagnet er gyldig (maksimalt 5 år)behandle søknad om forlengelsebevilge ubenyttede midler til nye tiltak i tråd med de målene som er satt for bevilgningene.
+Fylkeskommunene har videre fullmakt til å
+
+1. bestemme i hvilket år tilsagnet skal gis
+2. avgjøre hvor lenge tilsagnet er gyldig (maksimalt 5 år)
+3. behandle søknad om forlengelse
+4. bevilge ubenyttede midler til nye tiltak i tråd med de målene som er satt for bevilgningene.
 
 Fylkeskommunene kan finansiere tiltak og programmer i egen regi, utarbeide egne tilskuddsordninger og medfinansiere nasjonale eller regionale prosjekter og programmer. Fylkeskommunen kan unntaksvis tildele enkelttilskudd ved særskilt å navngi mottakeren i vedtak fattet av fylkestinget. Forvalter skal rapportere på lik linje med øvrige tilskuddsmottakere. Bruken av tilskuddsmidlene skal være forankret i regionale mål og strategier, i forpliktende partnerskap med næringslivet og regionale og lokale aktører.
 
@@ -162,15 +217,27 @@ Fylkeskommunene er ansvarlig ovenfor Kommunal- og distriktsdepartementet for de 
 
 ### § 18. Forvalteres etablering av tilskuddsordninger
 
-Forvaltere kan etablere en eller flere tilskuddsordninger innenfor rammen av denne forskriften. En tilskuddsordning består av følgende hovedelementer:Målet med tilskuddsordningen, jf. [§ 1a](forskrift/2024-04-03-556/§1a), [§ 1b](forskrift/2024-04-03-556/§1b)Kriterier for måloppnåelse, jf. [§ 3](forskrift/2024-04-03-556/§3), [§ 6](forskrift/2024-04-03-556/§6)Tildelingskriterier, herunder beregningsregler, jf. [§ 2](forskrift/2024-04-03-556/§2), [§ 4](forskrift/2024-04-03-556/§4), [§ 10](forskrift/2024-04-03-556/§10)Oppfølging og kontroll, jf. [§ 11](forskrift/2024-04-03-556/§11)Eventuelt evaluering, jf. [§ 11](forskrift/2024-04-03-556/§11).
+Forvaltere kan etablere en eller flere tilskuddsordninger innenfor rammen av denne forskriften. En tilskuddsordning består av følgende hovedelementer:
 
-Forvaltere skal selv vurdere hvorvidt det er nødvendig åytterligere presisere hovedelementene for hver enkelt tilskuddsordning innenfor de som fremgår av denne forskriftenvurdere om en slik presisering av hovedelementene har karakter av rettigheter og plikter og derfor skal fastsettes i forskrifts form.
+1. Målet med tilskuddsordningen, jf. [§ 1a](forskrift/2024-04-03-556/§1a), [§ 1b](forskrift/2024-04-03-556/§1b)
+2. Kriterier for måloppnåelse, jf. [§ 3](forskrift/2024-04-03-556/§3), [§ 6](forskrift/2024-04-03-556/§6)
+3. Tildelingskriterier, herunder beregningsregler, jf. [§ 2](forskrift/2024-04-03-556/§2), [§ 4](forskrift/2024-04-03-556/§4), [§ 10](forskrift/2024-04-03-556/§10)
+4. Oppfølging og kontroll, jf. [§ 11](forskrift/2024-04-03-556/§11)
+5. Eventuelt evaluering, jf. [§ 11](forskrift/2024-04-03-556/§11).
+
+Forvaltere skal selv vurdere hvorvidt det er nødvendig å
+
+1. ytterligere presisere hovedelementene for hver enkelt tilskuddsordning innenfor de som fremgår av denne forskriften
+2. vurdere om en slik presisering av hovedelementene har karakter av rettigheter og plikter og derfor skal fastsettes i forskrifts form.
 
 Private rettssubjekt skal ikke lage forskrifter, smnl. denne bestemmelsen annet ledd, bokstav b.
 
 ### § 19. Krav til forvalters tilsyn med tilskuddsmidlene
 
-Forvaltere skaletablere rutiner for å sikre god internkontroll, slik at de selv og departementet kan kontrollere at betingelsene for tilskuddet og vilkårene i tildelingen er oppfyltføre tilsyn med at kravene i forskriften og i tilskuddsvedtaket blir fulgt opp.
+Forvaltere skal
+
+1. etablere rutiner for å sikre god internkontroll, slik at de selv og departementet kan kontrollere at betingelsene for tilskuddet og vilkårene i tildelingen er oppfylt
+2. føre tilsyn med at kravene i forskriften og i tilskuddsvedtaket blir fulgt opp.
 
 ### § 20. Konsekvenser ved feil forvaltning og feil bruk av tilskuddsmidlene
 

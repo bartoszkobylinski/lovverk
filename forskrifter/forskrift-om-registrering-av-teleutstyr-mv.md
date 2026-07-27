@@ -24,7 +24,18 @@ eu_basis: []
 
 ## § 1. Formål
 
-Formålet med forskriften erå gi adgang til å innføre utstyr som ikke har utstyrstillatelse fra myndigheten,å gi adgang til å innføre utstyr som ikke tilfredsstiller gjeldende krav etter[forskrift 15. april 2016 nr. 377](forskrift/2016-04-15-377) om EØS-krav til radioutstyr,[forskrift 29. september 2016 nr. 1161](forskrift/2016-09-29-1161) om EØS-krav til maritimt radioutstyr[forskrift 15. april 2016 nr. 378](forskrift/2016-04-15-378) om EØS-krav til elektromagnetisk kompatibilitet (EMC) for utstyr til elektronisk kommunikasjon,[forskrift 15. april 2016 nr. 379](forskrift/2016-04-15-379) om EØS-krav til sikkerhet for utstyr til elektronisk kommunikasjon eller[forskrift 21. desember 2001 nr. 1612](forskrift/2001-12-21-1612) om tillatelse for radioutstyr i norskregistrert luftfartøy (aeromobil forskrift),å lette tilsynet med innførsel og omsetting av radio-, teleterminal- og nettutstyr ogå sikre at leverandører, radioforhandlere og brukere får nødvendig informasjon.
+Formålet med forskriften er
+
+1. å gi adgang til å innføre utstyr som ikke har utstyrstillatelse fra myndigheten,
+2. å gi adgang til å innføre utstyr som ikke tilfredsstiller gjeldende krav etter
+
+   - [forskrift 15. april 2016 nr. 377](forskrift/2016-04-15-377) om EØS-krav til radioutstyr,
+   - [forskrift 29. september 2016 nr. 1161](forskrift/2016-09-29-1161) om EØS-krav til maritimt radioutstyr
+   - [forskrift 15. april 2016 nr. 378](forskrift/2016-04-15-378) om EØS-krav til elektromagnetisk kompatibilitet (EMC) for utstyr til elektronisk kommunikasjon,
+   - [forskrift 15. april 2016 nr. 379](forskrift/2016-04-15-379) om EØS-krav til sikkerhet for utstyr til elektronisk kommunikasjon eller
+   - [forskrift 21. desember 2001 nr. 1612](forskrift/2001-12-21-1612) om tillatelse for radioutstyr i norskregistrert luftfartøy (aeromobil forskrift),
+3. å lette tilsynet med innførsel og omsetting av radio-, teleterminal- og nettutstyr og
+4. å sikre at leverandører, radioforhandlere og brukere får nødvendig informasjon.
 
 > Endret ved [forskrifter 6 sep 2007 nr. 1027](forskrift/2007-09-06-1027), [15 april 2016 nr. 378](forskrift/2016-04-15-378) (i kraft 20 april 2016), [15 april 2016 nr. 379](forskrift/2016-04-15-379) (i kraft 20 april 2016), [15 april 2016 nr. 377](forskrift/2016-04-15-377) (i kraft 13 juni 2016), [29 sep 2016 nr. 1161](forskrift/2016-09-29-1161).
 
@@ -36,7 +47,14 @@ Forskriften gjelder krav om registrering for leverandører og radioforhandlere o
 
 ## § 3. Definisjoner
 
-I forskriften menes med*elektronisk kommunikasjonsnett:* system for elektronisk kommunikasjon der radioutstyr, svitsjer, annet koplings- og dirigeringsutstyr, tilhørende utstyr eller funksjoner inngår.*radioutstyr:* produkt, eller deler av produkt som tilsiktet utstråler eller mottar elektromagnetiske bølger overført i fritt rom med unntak av utstyr som bare mottar analoge kringkastingsprogram.*teleterminalutstyr:* produkt eller deler av produkt som kan nyttes til elektronisk kommunikasjon og som er beregnet for direkte eller indirekte tilknytning til grensesnitt i elektronisk kommunikasjonsnett.*nettutstyr:* produkt eller deler av produkt som kan nyttes til elektronisk kommunikasjon og som inngår som en integrert del av elektronisk kommunikasjonsnett.*leverandør:* den som driver virksomhet for å innføre eller produsere radio-, teleterminal- og nettutstyr for å omsette eller på annen måte overlate det til andre.*radioforhandler:* den som driver virksomhet for å omsette eller på annen måte overlate til andre radioutstyr som krever tillatelse til bruk av frekvenser.
+I forskriften menes med
+
+1. *elektronisk kommunikasjonsnett:* system for elektronisk kommunikasjon der radioutstyr, svitsjer, annet koplings- og dirigeringsutstyr, tilhørende utstyr eller funksjoner inngår.
+2. *radioutstyr:* produkt, eller deler av produkt som tilsiktet utstråler eller mottar elektromagnetiske bølger overført i fritt rom med unntak av utstyr som bare mottar analoge kringkastingsprogram.
+3. *teleterminalutstyr:* produkt eller deler av produkt som kan nyttes til elektronisk kommunikasjon og som er beregnet for direkte eller indirekte tilknytning til grensesnitt i elektronisk kommunikasjonsnett.
+4. *nettutstyr:* produkt eller deler av produkt som kan nyttes til elektronisk kommunikasjon og som inngår som en integrert del av elektronisk kommunikasjonsnett.
+5. *leverandør:* den som driver virksomhet for å innføre eller produsere radio-, teleterminal- og nettutstyr for å omsette eller på annen måte overlate det til andre.
+6. *radioforhandler:* den som driver virksomhet for å omsette eller på annen måte overlate til andre radioutstyr som krever tillatelse til bruk av frekvenser.
 
 > Endret ved [forskrift 6 sep 2007 nr. 1027](forskrift/2007-09-06-1027).
 

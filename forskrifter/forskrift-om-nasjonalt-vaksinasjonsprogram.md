@@ -36,7 +36,11 @@ Kommunen skal tilby og gjennomføre vaksinering mot smittsomme sykdommer, jf. [s
 
 ## § 3. Innhold i det nasjonale vaksinasjonsprogrammet
 
-Det nasjonale vaksinasjonsprogrammet inneholder følgende vaksinasjonstilbud:Barnevaksinasjoner, jf. [§ 4](forskrift/2009-10-02-1229/§4), inkludert vaksinasjon av gravide mot kikhoste for å hindre alvorlig sykdom hos spedbarn, jf. [§ 4a](forskrift/2009-10-02-1229/§4a).Voksenvaksinasjoner, jf. [§ 5](forskrift/2009-10-02-1229/§5).Vaksinasjon mot pandemisk influensa, jf. [§ 5a](forskrift/2009-10-02-1229/§5a).
+Det nasjonale vaksinasjonsprogrammet inneholder følgende vaksinasjonstilbud:
+
+1. Barnevaksinasjoner, jf. [§ 4](forskrift/2009-10-02-1229/§4), inkludert vaksinasjon av gravide mot kikhoste for å hindre alvorlig sykdom hos spedbarn, jf. [§ 4a](forskrift/2009-10-02-1229/§4a).
+2. Voksenvaksinasjoner, jf. [§ 5](forskrift/2009-10-02-1229/§5).
+3. Vaksinasjon mot pandemisk influensa, jf. [§ 5a](forskrift/2009-10-02-1229/§5a).
 
 Folkehelseinstituttet gir faglige retningslinjer for gjennomføring av det nasjonale vaksinasjonsprogrammet, herunder målgrupper, hyppighet og den tekniske sammensetningen av vaksinene.
 
@@ -48,7 +52,10 @@ Barnevaksinasjonsprogrammet skal tilbys alle barn i førskole- og grunnskolealde
 
 Kommunen har ikke anledning til å ta betalt for vaksinasjoner etter denne bestemmelsen.
 
-Følgende vaksiner inngår i programmet:Vaksine mot difteri, stivkrampe, kikhoste, poliomyelitt, infeksjon med Haemophilus influenzae type b (Hib), pneumokokksykdom, meslinger, kusma, røde hunder, humant papillomavirus (HPV), rotavirussykdom og hepatitt B.Vaksine mot tuberkulose (BCG) til barn i risikogrupper som definert av Folkehelseinstituttet.
+Følgende vaksiner inngår i programmet:
+
+1. Vaksine mot difteri, stivkrampe, kikhoste, poliomyelitt, infeksjon med Haemophilus influenzae type b (Hib), pneumokokksykdom, meslinger, kusma, røde hunder, humant papillomavirus (HPV), rotavirussykdom og hepatitt B.
+2. Vaksine mot tuberkulose (BCG) til barn i risikogrupper som definert av Folkehelseinstituttet.
 
 > Endret ved [forskrifter 26 juni 2014 nr. 882](forskrift/2014-06-26-882) (i kraft 1 juli 2014), [18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016), [12 jan 2017 nr. 29](forskrift/2017-01-12-29) (i kraft 1 feb 2017).
 
@@ -66,7 +73,11 @@ Kommunen kan ikke ta betalt for vaksinasjonen.
 
 Voksenvaksinasjonsprogrammet skal tilbys personer som bor eller midlertidig oppholder seg i kommunen, jf. [§ 1](forskrift/2009-10-02-1229/§1).
 
-Følgende vaksiner inngår i programmet:Årlig vaksine mot sesonginfluensa til personer som har fylt eller fyller 65 år i løpet av året og yngre risikogrupper.Årlig vaksine mot covid-19 til personer som har fylt eller fyller 65 år i løpet av året og yngre risikogrupper.Vaksine mot pneumokokk til personer født i 1960 eller senere fra det kalenderåret de fyller 65 år.
+Følgende vaksiner inngår i programmet:
+
+1. Årlig vaksine mot sesonginfluensa til personer som har fylt eller fyller 65 år i løpet av året og yngre risikogrupper.
+2. Årlig vaksine mot covid-19 til personer som har fylt eller fyller 65 år i løpet av året og yngre risikogrupper.
+3. Vaksine mot pneumokokk til personer født i 1960 eller senere fra det kalenderåret de fyller 65 år.
 
 Folkehelseinstituttet definerer risikogruppene.
 

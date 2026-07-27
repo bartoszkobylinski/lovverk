@@ -15,7 +15,7 @@ xml_hash: "4380d701a59d7fdc5e9a676a10583715e01b27fa4610a437968f672f329bd78e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,15 @@ Søkeren skal også legge ved eventuelle attester, anbefalinger og annet relevan
 
 Det er rektor i samråd med avdelingsleder som effektuerer opptak.
 
-Dato for hovedopptak gjøres kjent på hjemmesiden og skjer etter følgende regler:Ved flere kvalifiserte søkere enn antall studieplasser, vil følgende hensyn avgjøre rangering ved opptak:Rangering skjer ved utregning av poeng, der søkere med høy poengsum rangeres foran søkere med lav poengsum. Utenlandske søkere er unntatt denne poengberegningen jamfør [forskrift 11. juli 2019 nr. 1005 om høyere yrkesfaglig utdanning (fagskoleforskriften) kap. 3](forskrift/2019-07-11-1005/kap3), [§ 17](forskrift/2019-07-11-1005/§17) og vil rangeres skjønnsmessig.Poengene regnes ut slik:*Karakterer:* Alle karakterer i videregående opplæring skal tas med i beregning av karakterpoeng. Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10. Dersom videregående opplæring ikke er fullført før opptaksprosessen gjelder siste karakterutskrift.Relevant yrkespraksis eller annet relevant studium gir 1 poeng pr. 6 mnd. fulltid. Det kan gis inntil 10 poeng for relevant yrkespraksis eller annet relevant studium.
+Dato for hovedopptak gjøres kjent på hjemmesiden og skjer etter følgende regler:
+
+- Ved flere kvalifiserte søkere enn antall studieplasser, vil følgende hensyn avgjøre rangering ved opptak:
+
+  - Rangering skjer ved utregning av poeng, der søkere med høy poengsum rangeres foran søkere med lav poengsum. Utenlandske søkere er unntatt denne poengberegningen jamfør [forskrift 11. juli 2019 nr. 1005 om høyere yrkesfaglig utdanning (fagskoleforskriften) kap. 3](forskrift/2019-07-11-1005/kap3), [§ 17](forskrift/2019-07-11-1005/§17) og vil rangeres skjønnsmessig.
+  - Poengene regnes ut slik:
+
+    1. *Karakterer:* Alle karakterer i videregående opplæring skal tas med i beregning av karakterpoeng. Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10. Dersom videregående opplæring ikke er fullført før opptaksprosessen gjelder siste karakterutskrift.
+    2. Relevant yrkespraksis eller annet relevant studium gir 1 poeng pr. 6 mnd. fulltid. Det kan gis inntil 10 poeng for relevant yrkespraksis eller annet relevant studium.
 
 *Opptaksintervju*
 
@@ -88,12 +96,32 @@ Skolen plikter å informere studentene om forskriften og å gjøre den tilgjenge
 
 ### § 3-3. Studentenes plikter
 
-1. *Lojalitet*Studentene må som utsendte representanter for Fagskolen Essens, være lojale mot skolens sitt verdigrunnlag og teologiske basis.
-2. *Egenandel*Studentene er forpliktet til å betale inn egenandel i form av semesteravgift og kostnader i forbindelse med turer, henhold til gjeldende frister.
-3. *Oppførsel*Studenten forplikter seg til å opptre hensynsfullt og høflig overfor både medstudenter og ansatte. Uakseptabel språkbruk, mobbing, fysisk og psykisk vold eller annen truende eller krenkende oppførsel aksepteres ikke, og alle plikter å hindre at dette skjer.
-4. *Bruk av mobiltelefon og annet utstyr*Bruk av mobiltelefon er ikke tillatt i timene uten etter avtale med lærer.Studenten har plikt til å behandle bygninger, anlegg og utstyr, herunder elektronisk utstyr, på en forsvarlig måte.
-5. *Rusmidler*I skoletiden og på turer arrangert av skolen skal studenten ikke benytte noen form for rusmidler. Det kan gjøres unntak fra dette dersom studenten mottar medikamenter forordnet av lege i forbindelse med f.eks. LAR-behandling. Grunnlaget for en slik vurdering vil være en totalvurdering der både den aktuelle student og de andre studentenes beste blir hensyntatt.
-6. *Reiser*For studiereiser i skolens regi plikter studenten å ha gyldig skade- og reiseforsikring, helsetrygdkort og der det er et krav gyldig pass eller annen nødvendig dokumentasjon.I forbindelse med reiser i utlandet forplikter studenten seg til å følge skolens retningslinjer for å ivareta den enkeltes sikkerhet og skolens omdømme. Disse retningslinjene vil være informert om før reisens start.Studenten vil på forhånd få skriftlig informasjon om hva fagskolen dekker av utgifter ved en studiereise eller ekskursjon, de øvrige utgifter må studenten selv ta ansvaret for. Studenten plikter å vise god oppførsel i henhold til fagskolens reglement ved alle reiser som skjer i fagskolens regi.Skolen kan etter nærmere avgjørelse nekte en elev å være med på turer hvis skolen vurderer at forhold knyttet til oppførsel eller helsemessige grunner ikke gjør det forsvarlig å ivareta eleven eller medstudenter på en god måte. Et slikt vedtak vil være et enkeltvedtak underlagt [forvaltningsloven kapittel III](lov/1967-02-10/kapIII) til [VI](lov/1967-02-10/kapVI) og [VIII](lov/1967-02-10/kapVIII).
+1. *Lojalitet*
+
+   Studentene må som utsendte representanter for Fagskolen Essens, være lojale mot skolens sitt verdigrunnlag og teologiske basis.
+2. *Egenandel*
+
+   Studentene er forpliktet til å betale inn egenandel i form av semesteravgift og kostnader i forbindelse med turer, henhold til gjeldende frister.
+3. *Oppførsel*
+
+   Studenten forplikter seg til å opptre hensynsfullt og høflig overfor både medstudenter og ansatte. Uakseptabel språkbruk, mobbing, fysisk og psykisk vold eller annen truende eller krenkende oppførsel aksepteres ikke, og alle plikter å hindre at dette skjer.
+4. *Bruk av mobiltelefon og annet utstyr*
+
+   Bruk av mobiltelefon er ikke tillatt i timene uten etter avtale med lærer.
+
+   Studenten har plikt til å behandle bygninger, anlegg og utstyr, herunder elektronisk utstyr, på en forsvarlig måte.
+5. *Rusmidler*
+
+   I skoletiden og på turer arrangert av skolen skal studenten ikke benytte noen form for rusmidler. Det kan gjøres unntak fra dette dersom studenten mottar medikamenter forordnet av lege i forbindelse med f.eks. LAR-behandling. Grunnlaget for en slik vurdering vil være en totalvurdering der både den aktuelle student og de andre studentenes beste blir hensyntatt.
+6. *Reiser*
+
+   For studiereiser i skolens regi plikter studenten å ha gyldig skade- og reiseforsikring, helsetrygdkort og der det er et krav gyldig pass eller annen nødvendig dokumentasjon.
+
+   I forbindelse med reiser i utlandet forplikter studenten seg til å følge skolens retningslinjer for å ivareta den enkeltes sikkerhet og skolens omdømme. Disse retningslinjene vil være informert om før reisens start.
+
+   Studenten vil på forhånd få skriftlig informasjon om hva fagskolen dekker av utgifter ved en studiereise eller ekskursjon, de øvrige utgifter må studenten selv ta ansvaret for. Studenten plikter å vise god oppførsel i henhold til fagskolens reglement ved alle reiser som skjer i fagskolens regi.
+
+   Skolen kan etter nærmere avgjørelse nekte en elev å være med på turer hvis skolen vurderer at forhold knyttet til oppførsel eller helsemessige grunner ikke gjør det forsvarlig å ivareta eleven eller medstudenter på en god måte. Et slikt vedtak vil være et enkeltvedtak underlagt [forvaltningsloven kapittel III](lov/1967-02-10/kapIII) til [VI](lov/1967-02-10/kapVI) og [VIII](lov/1967-02-10/kapVIII).
 
 ## Kapittel 4 – Avleggelse og gjennomføring av eksamen
 
@@ -114,19 +142,32 @@ Studenter opptatt ved skolen er automatisk oppmeldt til eksamen/sluttvurdering d
 
 ### § 4-4. Underveisvurdering
 
-Vurdering av studentene underveis er en viktig del av det pedagogiske arbeidet ved Fagskolen Essens AS. Følgende elementer er med i underveisvurderingen:Avtalte veiledningssamtaler mellom lærer ved Fagskolen Essens AS og student.Skriftlig tilbakemelding på skriftlig arbeid i løpet av skoleåret. Studentene vil ha anledning til å gjøre endringer og forbedringer på bakgrunn av den skriftlige tilbakemeldingen de har fått fram til de leveres inn til sluttvurdering.Muntlige tilbakemeldinger.Løpende skikkethetsvurdering jamfør [§ 9-1](forskrift/2023-09-05-2500/§9-1).
+Vurdering av studentene underveis er en viktig del av det pedagogiske arbeidet ved Fagskolen Essens AS. Følgende elementer er med i underveisvurderingen:
+
+- Avtalte veiledningssamtaler mellom lærer ved Fagskolen Essens AS og student.
+- Skriftlig tilbakemelding på skriftlig arbeid i løpet av skoleåret. Studentene vil ha anledning til å gjøre endringer og forbedringer på bakgrunn av den skriftlige tilbakemeldingen de har fått fram til de leveres inn til sluttvurdering.
+- Muntlige tilbakemeldinger.
+- Løpende skikkethetsvurdering jamfør [§ 9-1](forskrift/2023-09-05-2500/§9-1).
 
 I tillegg foregår det en fortløpende uformell kontakt med tilbakemeldinger til studenten. Denne uformelle kontakten anses som viktig for studentens faglige utvikling.
 
 ### § 4-5. Sluttvurdering
 
-Ved avslutning av skoleåret blir det foretatt en sluttvurdering av studentene. Følgende elementer inngår i en helhetsvurdering.Det vil bli foretatt en mappevurdering av den enkelte student. Den vil kunne inneholde følgende elementer som innleveringsoppgaver, presentasjoner, bokrapporter, praksisrapporter samt evaluering av eventuell praksisperiodePraksisoppholdet vurderes av lokal praksisveileder.Fravær i løpet av skoleåret (ikke over 10 %).Ekstern sensor vurderer et utvalg av mappene (minst 10 %).
+Ved avslutning av skoleåret blir det foretatt en sluttvurdering av studentene. Følgende elementer inngår i en helhetsvurdering.
+
+- Det vil bli foretatt en mappevurdering av den enkelte student. Den vil kunne inneholde følgende elementer som innleveringsoppgaver, presentasjoner, bokrapporter, praksisrapporter samt evaluering av eventuell praksisperiode
+- Praksisoppholdet vurderes av lokal praksisveileder.
+- Fravær i løpet av skoleåret (ikke over 10 %).
+- Ekstern sensor vurderer et utvalg av mappene (minst 10 %).
 
 For at studiet skal vurderes til bestått, er det en forutsetning at alle elementene til mappen er innlevert til fastsatt tid og tilfredsstiller kravene, at praksisen er godkjent og at forfalte regninger til skolen er betalt.
 
 ### § 4-6. Ekstern sensorvurdering
 
-Fagskolen Essens AS har valgt følgende tiltak for å kartlegge sensors oppfatning av skolens virksomhet:Ekstern sensor skal vurdere karakter for minst 10 % av studentmappene.Ekstern sensor skal gjøre en vurdering av studiets relevans, omfang og kvalitet.
+Fagskolen Essens AS har valgt følgende tiltak for å kartlegge sensors oppfatning av skolens virksomhet:
+
+- Ekstern sensor skal vurdere karakter for minst 10 % av studentmappene.
+- Ekstern sensor skal gjøre en vurdering av studiets relevans, omfang og kvalitet.
 
 ### § 4-7. Vitnemål
 
@@ -232,11 +273,22 @@ Fagskolen Essens AS foretar en løpende skikkethetsvurdering av alle studenter m
 
 ### § 9-2. Vurderingskriterier
 
-En student er uskikket dersom en eller flere av følgende kriterier er oppfylt:Studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge eller voksne i sårbare situasjonerStudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningStudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helseStudenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+En student er uskikket dersom en eller flere av følgende kriterier er oppfylt:
+
+- Studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge eller voksne i sårbare situasjoner
+- Studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+- Studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse
+- Studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
 ### § 9-3. Skikkethetsnemnd
 
-Styret har oppnevnt en skikkethetsnemnd for tre år av gangen som består avEn faglig lederTo faglærereTo representanter fra praksisfeltetTo studentrepresentanterEn ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+Styret har oppnevnt en skikkethetsnemnd for tre år av gangen som består av
+
+- En faglig leder
+- To faglærere
+- To representanter fra praksisfeltet
+- To studentrepresentanter
+- En ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
 
 Studentrepresentantene oppnevnes for ett år. Faglig leder er nemndas leder og har dobbeltstemme.
 

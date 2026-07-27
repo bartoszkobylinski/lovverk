@@ -15,7 +15,7 @@ xml_hash: "4aae38adfac8d244ebf08fca06be1849983dd5d4514263e345c6d83f98baaffc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,7 +100,15 @@ Det skal i slike tilfeller svares en døgnavgift tilsvarende 2 % av full vektår
 
 For avgiftspliktige dieseldrevne motorkjøretøyer skal det, i tillegg til vektgradert årsavgift etter [kapittel II](forskrift/2000-06-29-688/kapii), beregnes avgift på bakgrunn av hvilket avgasskravnivå kjøretøyet oppfyller.
 
-Dersom avgasskravnivå ikke kan dokumenteres anses kjøretøy registrert etter nedenfor nevnte datoer å oppfylle de tilhørende avgasskravnivå:kjøretøy registrert før 1. oktober 1993 – tilfredsstiller ingen avgasskravnivå (ikke EURO)kjøretøy registrert etter 1. oktober 1993 – tilfredsstiller EURO Ikjøretøy registrert etter 1. oktober 1996 – tilfredsstiller EURO IIkjøretøy registrert etter 1. oktober 2001 – tilfredsstiller EURO IIIkjøretøy registrert etter 1. oktober 2006 – tilfredsstiller EURO IVkjøretøy registrert etter 1. oktober 2009 – tilfredsstiller EURO Vkjøretøy registrert etter 1. januar 2014 – tilfredsstiller EURO VI.
+Dersom avgasskravnivå ikke kan dokumenteres anses kjøretøy registrert etter nedenfor nevnte datoer å oppfylle de tilhørende avgasskravnivå:
+
+1. kjøretøy registrert før 1. oktober 1993 – tilfredsstiller ingen avgasskravnivå (ikke EURO)
+2. kjøretøy registrert etter 1. oktober 1993 – tilfredsstiller EURO I
+3. kjøretøy registrert etter 1. oktober 1996 – tilfredsstiller EURO II
+4. kjøretøy registrert etter 1. oktober 2001 – tilfredsstiller EURO III
+5. kjøretøy registrert etter 1. oktober 2006 – tilfredsstiller EURO IV
+6. kjøretøy registrert etter 1. oktober 2009 – tilfredsstiller EURO V
+7. kjøretøy registrert etter 1. januar 2014 – tilfredsstiller EURO VI.
 
 For kjøretøy som ikke er førstegangsregistrert i Norge anses registreringsdatoen å være tidspunktet for første gangs registrering i utlandet.
 

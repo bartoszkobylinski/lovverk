@@ -104,7 +104,10 @@ Endringer som nevnt i første eller andre ledd gir ikke innehaver eller andre re
 
 ## § 11. Dispensasjon
 
-Sjøfartsdirektoratet kan gi dispensasjon fra kravene i forskriften dersom ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan gi dispensasjon fra kravene i forskriften dersom ett av følgende krav er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 ## § 12. Tilbaketrekking
 

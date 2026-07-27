@@ -32,15 +32,43 @@ Forskriften skal bidra til økt verdiskapning i samfunnet ved å sikre mest muli
 
 ### § 1-2. Hvem som er omfattet av forskriften
 
-Denne forskrift kommer til anvendelse for oppdragsgivere som:er offentlig myndighet som definert i [§ 4-1](forskrift/2013-10-04-1185/§4-1) bokstav q,er offentligrettslig organ eller offentlig foretak som definert i [§ 4-1](forskrift/2013-10-04-1185/§4-1) bokstav r eller p, ellerikke er offentligrettslig organ eller offentlig foretak som omfattes av [forskrift 7. april 2006 nr. 403](forskrift/2006-04-07-403) om innkjøpsregler for oppdragsgivere innen vann- og energiforsyning, transport og posttjenester (forsyningsforskriften), men driver sin aktivitet på grunnlag av en enerett eller særrett gitt av vedkommende offentlige myndighet i en EØS-stat. Med særretter og eneretter menes rettigheter som følger av tillatelser gitt av kompetent myndighet ved lov, forskrift eller vedtak, når dette medfører at utøvelsen av en aktivitet som omfattes av forsyningsforskriften, begrenses til en eller flere virksomheter, og dermed i vesentlig grad påvirker muligheten for andre foretak til å utøve slik aktivitet.
+Denne forskrift kommer til anvendelse for oppdragsgivere som:
+
+1. er offentlig myndighet som definert i [§ 4-1](forskrift/2013-10-04-1185/§4-1) bokstav q,
+2. er offentligrettslig organ eller offentlig foretak som definert i [§ 4-1](forskrift/2013-10-04-1185/§4-1) bokstav r eller p, eller
+3. ikke er offentligrettslig organ eller offentlig foretak som omfattes av [forskrift 7. april 2006 nr. 403](forskrift/2006-04-07-403) om innkjøpsregler for oppdragsgivere innen vann- og energiforsyning, transport og posttjenester (forsyningsforskriften), men driver sin aktivitet på grunnlag av en enerett eller særrett gitt av vedkommende offentlige myndighet i en EØS-stat. Med særretter og eneretter menes rettigheter som følger av tillatelser gitt av kompetent myndighet ved lov, forskrift eller vedtak, når dette medfører at utøvelsen av en aktivitet som omfattes av forsyningsforskriften, begrenses til en eller flere virksomheter, og dermed i vesentlig grad påvirker muligheten for andre foretak til å utøve slik aktivitet.
 
 ### § 1-3. Hvilke kontrakter som er omfattet av forskriften
 
-(1) Denne forskrift får anvendelse på tildeling av offentlige kontrakter på forsvars- og sikkerhetsområdet, som gjelder:levering av forsvarsmateriell, herunder også delkomponenter,levering av gradert materiell, herunder også delkomponenter,utførelse av bygge- og anleggsarbeider og levering av varer og tjenester som har direkte sammenheng med materiell i bokstav a og b og dets levetid,bygge- og anleggsarbeider og tjenester til spesifikke forsvarsformål,graderte bygge- og anleggsarbeider og graderte tjenester.
+(1) Denne forskrift får anvendelse på tildeling av offentlige kontrakter på forsvars- og sikkerhetsområdet, som gjelder:
 
-(2) Forskriften får ikke anvendelse på:kontrakter som kan unntas i henhold til EØS-avtalens artikkel 123,kontrakter om erverv eller leie, uten hensyn til finansieringsform, av jord, eksisterende bygninger eller annen fast eiendom, eller om rettigheter til slik eiendom,kontrakter som tildeles som ledd i et samarbeidsprosjekt basert på forskning og utvikling og som gjennomføres av EØS-stater i fellesskap for å utvikle et nytt produkt, hvor det er relevant, de senere faser av hele eller deler av produktets levetid. Ethvert slikt samarbeidsprosjekt skal meldes til EFTAs overvåkningsorgan hvis verdien av kontraktene overstiger terskelverdiene i [§ 2-2](forskrift/2013-10-04-1185/§2-2). Meldingen skal inneholde de samlede utgiftene til samarbeidsprosjektet herunder andelen kostnader til forsknings- og utvikling og kostnadsfordelingen mellom avtalepartene. Dersom det er aktuelt, skal den antatte andel av planlagt anskaffelse per avtalepart opplyses,kontrakter om voldgifts- og meklingstjenester,kontrakter om finansielle tjenester med unntak av forsikringstjenester,ansettelseskontrakter,forsknings- og utviklingstjenester, når oppdragsgiver ikke fullt ut betaler for tjenesten eller den ikke fullt ut tilfaller oppdragsgiver til bruk i hans virksomhet,kontrakter som en stat tildeler en annen stat,kontrakter som inngås i tredjeland med lokale leverandører vedrørende innkjøp til stasjonerte tropper, dersom operasjonelle behov gjør det nødvendig,kontrakter som faller innunder etterretningsvirksomhet,kontrakter som hovedsakelig har som formål å sette en offentlig oppdragsgiver i stand til å stille et offentlig telenett til rådighet eller drive et slikt nett eller til å levere en eller flere teletjenester til offentligheten, slik dette er definert i direktiv [2004/18/EF](eu/32004l0018*) artikkel 1 nr. 15,tjenestekonsesjonskontrakter,kontrakter som innebærer utøvelse av offentlig myndighet som kan unntas etter EØS-avtalen artikkel 39, jf. artikkel 32.
+1. levering av forsvarsmateriell, herunder også delkomponenter,
+2. levering av gradert materiell, herunder også delkomponenter,
+3. utførelse av bygge- og anleggsarbeider og levering av varer og tjenester som har direkte sammenheng med materiell i bokstav a og b og dets levetid,
+4. bygge- og anleggsarbeider og tjenester til spesifikke forsvarsformål,
+5. graderte bygge- og anleggsarbeider og graderte tjenester.
 
-(3) Forskriften får heller ikke anvendelse på kontrakter som er regulert av andre anskaffelsesregler og tildelt:i henhold til en internasjonal avtale eller overenskomst inngått i forbindelse med stasjonering av tropper,i henhold til en internasjonal organisasjons særlige fremgangsmåte og anskaffelser gjort for organisasjonen, elleri henhold til internasjonal avtale inngått mellom en eller flere EØS-stater og en eller flere stater som ikke er part i EØS-avtalen.
+(2) Forskriften får ikke anvendelse på:
+
+1. kontrakter som kan unntas i henhold til EØS-avtalens artikkel 123,
+2. kontrakter om erverv eller leie, uten hensyn til finansieringsform, av jord, eksisterende bygninger eller annen fast eiendom, eller om rettigheter til slik eiendom,
+3. kontrakter som tildeles som ledd i et samarbeidsprosjekt basert på forskning og utvikling og som gjennomføres av EØS-stater i fellesskap for å utvikle et nytt produkt, hvor det er relevant, de senere faser av hele eller deler av produktets levetid. Ethvert slikt samarbeidsprosjekt skal meldes til EFTAs overvåkningsorgan hvis verdien av kontraktene overstiger terskelverdiene i [§ 2-2](forskrift/2013-10-04-1185/§2-2). Meldingen skal inneholde de samlede utgiftene til samarbeidsprosjektet herunder andelen kostnader til forsknings- og utvikling og kostnadsfordelingen mellom avtalepartene. Dersom det er aktuelt, skal den antatte andel av planlagt anskaffelse per avtalepart opplyses,
+4. kontrakter om voldgifts- og meklingstjenester,
+5. kontrakter om finansielle tjenester med unntak av forsikringstjenester,
+6. ansettelseskontrakter,
+7. forsknings- og utviklingstjenester, når oppdragsgiver ikke fullt ut betaler for tjenesten eller den ikke fullt ut tilfaller oppdragsgiver til bruk i hans virksomhet,
+8. kontrakter som en stat tildeler en annen stat,
+9. kontrakter som inngås i tredjeland med lokale leverandører vedrørende innkjøp til stasjonerte tropper, dersom operasjonelle behov gjør det nødvendig,
+10. kontrakter som faller innunder etterretningsvirksomhet,
+11. kontrakter som hovedsakelig har som formål å sette en offentlig oppdragsgiver i stand til å stille et offentlig telenett til rådighet eller drive et slikt nett eller til å levere en eller flere teletjenester til offentligheten, slik dette er definert i direktiv [2004/18/EF](eu/32004l0018*) artikkel 1 nr. 15,
+12. tjenestekonsesjonskontrakter,
+13. kontrakter som innebærer utøvelse av offentlig myndighet som kan unntas etter EØS-avtalen artikkel 39, jf. artikkel 32.
+
+(3) Forskriften får heller ikke anvendelse på kontrakter som er regulert av andre anskaffelsesregler og tildelt:
+
+1. i henhold til en internasjonal avtale eller overenskomst inngått i forbindelse med stasjonering av tropper,
+2. i henhold til en internasjonal organisasjons særlige fremgangsmåte og anskaffelser gjort for organisasjonen, eller
+3. i henhold til internasjonal avtale inngått mellom en eller flere EØS-stater og en eller flere stater som ikke er part i EØS-avtalen.
 
 ### § 1-4. Sammensatte kontrakter
 
@@ -94,13 +122,22 @@ Denne forskrift kommer til anvendelse for oppdragsgivere som:er offentlig myndig
 
 (10) For tidsubegrensede tjenestekontrakter eller tjenestekontrakter med en løpetid på mer enn 48 måneder, hvor det ikke er fastsatt en samlet pris, skal beregningsgrunnlaget være den månedlige rate multiplisert med 48.
 
-(11) For vare- og tjenestekontrakter som inngås med regelmessige mellomrom eller som skal fornyes innen et gitt tidsrom, beregnes den anslåtte kontraktsverdien basert på følgende:enten den samlede faktiske verdien av de påfølgende kontraktene av samme type tildelt i løpet av de tolv foregående månedene eller det foregående regnskapsåret, om mulig justert for å ta hensyn til endringer i mengde eller verdi som kan forekomme i løpet av de tolv månedene som følger etter inngåelse av den opprinnelige kontrakten, ellerden samlede anslåtte verdien av de påfølgende kontraktene tildelt i løpet av tolv måneder fra den første leveransen, eller i løpet av regnskapsåret dersom dette er lengre enn tolv måneder.
+(11) For vare- og tjenestekontrakter som inngås med regelmessige mellomrom eller som skal fornyes innen et gitt tidsrom, beregnes den anslåtte kontraktsverdien basert på følgende:
+
+1. enten den samlede faktiske verdien av de påfølgende kontraktene av samme type tildelt i løpet av de tolv foregående månedene eller det foregående regnskapsåret, om mulig justert for å ta hensyn til endringer i mengde eller verdi som kan forekomme i løpet av de tolv månedene som følger etter inngåelse av den opprinnelige kontrakten, eller
+2. den samlede anslåtte verdien av de påfølgende kontraktene tildelt i løpet av tolv måneder fra den første leveransen, eller i løpet av regnskapsåret dersom dette er lengre enn tolv måneder.
 
 (12) I tillegg til verdien av en bygge- og anleggskontrakt, skal den anslåtte verdien av nødvendige materialer som oppdragsgiver stiller til leverandørens rådighet for arbeidsutførelsen, tas med i beregningen.
 
-(13) Ved beregningen av den anslåtte verdien av tjenestekontrakter, skal følgende faktorer tas med når det gjelder:forsikringstjenester: den premie som skal betales og andre former for vederlag, ogkontrakter som omfatter prosjektering: honorarer, provisjoner og andre former for vederlag.
+(13) Ved beregningen av den anslåtte verdien av tjenestekontrakter, skal følgende faktorer tas med når det gjelder:
 
-(14) Ved beregningen av den anslåtte verdien av kontrakter om leasing eller leie, med eller uten forkjøpsrett for varer, er grunnlaget for beregning:den samlede verdi for tidsbegrensede kontrakter med varighet tolv måneder eller kortere, eller, for tidsbegrensede kontrakter med varighet over tolv måneder, kontraktens samlede verdi inkludert anslått restverdi,den månedlige verdi multiplisert med 48 for tidsubegrensede kontrakter eller hvor løpetiden ikke kan fastsettes nærmere.
+1. forsikringstjenester: den premie som skal betales og andre former for vederlag, og
+2. kontrakter som omfatter prosjektering: honorarer, provisjoner og andre former for vederlag.
+
+(14) Ved beregningen av den anslåtte verdien av kontrakter om leasing eller leie, med eller uten forkjøpsrett for varer, er grunnlaget for beregning:
+
+1. den samlede verdi for tidsbegrensede kontrakter med varighet tolv måneder eller kortere, eller, for tidsbegrensede kontrakter med varighet over tolv måneder, kontraktens samlede verdi inkludert anslått restverdi,
+2. den månedlige verdi multiplisert med 48 for tidsubegrensede kontrakter eller hvor løpetiden ikke kan fastsettes nærmere.
 
 (15) For rammeavtaler skal man legge til grunn den høyeste anslåtte verdien eksl. mva. av alle forventede kontrakter i hele rammeavtalens løpetid.
 
@@ -220,17 +257,69 @@ Forsvarsdepartementet kan gi oppdragsgiver de pålegg som er nødvendige for å 
 
 ### § 4-1. Generelle definisjoner
 
-I denne forskrift menes det med:*bygge- og anleggskontrakt*: kontrakt som omhandler enten utførelse, eller både utførelse og planlegging, av arbeider i forbindelse med aktiviteter som er angitt i vedlegg 1 eller et bygge- og anleggsarbeid, eller utførelse på en hvilken som helst måte av et bygge- og anleggsarbeid som oppfyller de krav som er satt av den offentlige oppdragsgiver. Med bygge- og anleggsarbeid menes resultatet av et sett av bygge- og anleggsaktiviteter som i sin helhet er tilstrekkelig til å oppfylle en økonomisk eller teknisk funksjon,*berørte leverandører*: leverandører som har levert inn forespørsel om å delta i konkurransen og som ikke har fått meddelelse om at deres forespørsel er avvist eller forkastet, og alle leverandører som har levert inn tilbud,*Doffin*: den norske offisielle databasen for kunngjøringer,*elektronisk*: ved hjelp av elektronisk utstyr for behandling (herunder digital komprimering) og lagring av data som overføres, videresendes og mottas via kabel, radio, optisk eller med andre elektromagnetiske medier,*forskning og utvikling*: alle aktiviteter som omfatter grunnforskning, anvendt forskning og eksperimentell utvikling, hvor sistnevnte kan omfatte utvikling av teknologidemonstratorer, det vil si anordninger som viser ett nytt konsepts eller en ny teknologis yteevne i et relevant eller representativt miljø,*forsvarsmateriell:* materiell som er spesielt utformet eller tilpasset militære formål og militær bruk, som våpen, ammunisjon eller krigsmateriell,*graderte bygge- og anleggsarbeider*: bygge- og anleggsarbeider til sikkerhetsformål som inneholder eller krever behandling av gradert informasjon,*gradert materiell*: materiell til sikkerhetsformål som inneholder eller krever behandling av gradert informasjon,*graderte tjenesteyter*: tjenester til sikkerhetsformål som inneholder eller krever behandling av gradert informasjon,*gradert informasjon*: informasjon som er tildelt et graderingsnivå i henhold til lov eller instruks, med hensyn til nasjonal sikkerhet og som har til formål å beskytte mot urettmessig tilegnelse, destruksjon, fjerning, utlevering, tap eller å hindre tilgang av uautoriserte personer,*innkjøpssentral*: oppdragsgiver eller europeisk offentligrettslig organ som anskaffer varer eller tjenester ment for andre oppdragsgivere, eller tildeler offentlige kontrakter eller inngår rammeavtaler for varer, tjenester eller bygg- og anlegg for offentlige oppdragsgivere,*karensperiode*: tidsrommet mellom meddelelsen om kontraktstildeling og det tidspunktet oppdragsgiver tidligst kan inngå kontrakten,*kontrakt*: gjensidig bebyrdende avtale som inngås skriftlig mellom en eller flere oppdragsgivere og en eller flere leverandører,*kunngjøringsskjema*: strukturert informasjonsinnhold i Doffin, fastsatt av Nærings- og fiskeridepartementet,*levetid*: alle produktfaser som forskning og utvikling, industriell utvikling, produksjon, reparasjon, modernisering, endring, vedlikehold, logistikk, utdannelse, testing, tilbaketrekking og avhending,*offentlig foretak*: ethvert foretak som offentlige myndigheter direkte eller indirekte kan utøve avgjørende innflytelse over i kraft av eierforhold, kapitalinteresser eller reglene for virksomheten. Avgjørende innflytelse skal antas å foreligge når offentlige myndigheter i forhold til et foretak enten direkte eller indirekte:eier majoriteten av foretakets tegnede kapital,kontrollerer flertallet av stemmene knyttet til andeler utstedt av foretaket, ellerkan utpeke mer enn halvparten av medlemmene i foretakets administrasjons-, ledelses- eller kontrollorgan,*offentlig myndigheter*: statlige, fylkeskommunale eller kommunale myndigheter og sammenslutninger dannet av én eller flere av disse,*offentligrettslig organ*: ethvert organ som:er opprettet for det bestemte formål å imøtekomme allmennhetens behov og ikke er av industriell eller forretningsmessig karakter,er et selvstendig rettssubjekt, ogi hovedsak er finansiert av statlige, fylkeskommunale eller kommunale myndigheter eller andre offentligrettslige organer, eller hvis forvaltning er underlagt et av disse organers kontroll, eller som har et administrasjons-, ledelses- eller kontrollorgan der over halvparten av medlemmene er oppnevnt av statlige, fylkeskommunale eller kommunale myndigheter eller andre offentligrettslige organer,*skriftlig*: ethvert uttrykk bestående av ord eller tall som kan leses, reproduseres og deretter kommuniseres. Det kan omfatte elektronisk melding når informasjonen i denne er tilgjengelig også for ettertiden,*TED-databasen*: den europeiske offisielle databasen for kunngjøringer,*tjenestekontrakt*: kontrakt, unntatt kontrakter som nevnt i bokstav a og z, som gjelder tjenester angitt i vedlegg 5 (prioriterte tjenester) og vedlegg 6 (uprioriterte tjenester),*ulovlig direkte anskaffelse*: en anskaffelse hvor oppdragsgiver i strid med reglene i denne forskrift ikke har kunngjort konkurransen, eller en anskaffelse hvor oppdragsgiver bare har kunngjort i Doffin når det etter denne forskriften foreligger en plikt til å kunngjøre i TED-databasen,*underleverandør*: den som forestår leveranse til leverandøren i forbindelse med en anskaffelse etter denne forskrift,*underleveranse*: gjensidig bebyrdende avtale som inngås skriftlig mellom en valgt tilbyder for en avtale og en eller flere økonomiske aktører med henblikk på å oppfylle denne avtalen, og som vedrører bygge- og anleggsarbeid eller levering av varer eller tjenester,*universell utforming*: utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig,*varekontrakt*: kontrakt som omhandler kjøp, avbetalingskjøp, leasing eller leie med eller uten rett til kjøp av varer, unntatt varer som nevnt i bokstav a. En kontrakt som gjelder levering av varer og som i tilknytning til denne omfatter monterings- og installasjonsarbeid, betraktes som en varekontrakt.
+I denne forskrift menes det med:
+
+1. *bygge- og anleggskontrakt*: kontrakt som omhandler enten utførelse, eller både utførelse og planlegging, av arbeider i forbindelse med aktiviteter som er angitt i vedlegg 1 eller et bygge- og anleggsarbeid, eller utførelse på en hvilken som helst måte av et bygge- og anleggsarbeid som oppfyller de krav som er satt av den offentlige oppdragsgiver. Med bygge- og anleggsarbeid menes resultatet av et sett av bygge- og anleggsaktiviteter som i sin helhet er tilstrekkelig til å oppfylle en økonomisk eller teknisk funksjon,
+2. *berørte leverandører*: leverandører som har levert inn forespørsel om å delta i konkurransen og som ikke har fått meddelelse om at deres forespørsel er avvist eller forkastet, og alle leverandører som har levert inn tilbud,
+3. *Doffin*: den norske offisielle databasen for kunngjøringer,
+4. *elektronisk*: ved hjelp av elektronisk utstyr for behandling (herunder digital komprimering) og lagring av data som overføres, videresendes og mottas via kabel, radio, optisk eller med andre elektromagnetiske medier,
+5. *forskning og utvikling*: alle aktiviteter som omfatter grunnforskning, anvendt forskning og eksperimentell utvikling, hvor sistnevnte kan omfatte utvikling av teknologidemonstratorer, det vil si anordninger som viser ett nytt konsepts eller en ny teknologis yteevne i et relevant eller representativt miljø,
+6. *forsvarsmateriell:* materiell som er spesielt utformet eller tilpasset militære formål og militær bruk, som våpen, ammunisjon eller krigsmateriell,
+7. *graderte bygge- og anleggsarbeider*: bygge- og anleggsarbeider til sikkerhetsformål som inneholder eller krever behandling av gradert informasjon,
+8. *gradert materiell*: materiell til sikkerhetsformål som inneholder eller krever behandling av gradert informasjon,
+9. *graderte tjenesteyter*: tjenester til sikkerhetsformål som inneholder eller krever behandling av gradert informasjon,
+10. *gradert informasjon*: informasjon som er tildelt et graderingsnivå i henhold til lov eller instruks, med hensyn til nasjonal sikkerhet og som har til formål å beskytte mot urettmessig tilegnelse, destruksjon, fjerning, utlevering, tap eller å hindre tilgang av uautoriserte personer,
+11. *innkjøpssentral*: oppdragsgiver eller europeisk offentligrettslig organ som anskaffer varer eller tjenester ment for andre oppdragsgivere, eller tildeler offentlige kontrakter eller inngår rammeavtaler for varer, tjenester eller bygg- og anlegg for offentlige oppdragsgivere,
+12. *karensperiode*: tidsrommet mellom meddelelsen om kontraktstildeling og det tidspunktet oppdragsgiver tidligst kan inngå kontrakten,
+13. *kontrakt*: gjensidig bebyrdende avtale som inngås skriftlig mellom en eller flere oppdragsgivere og en eller flere leverandører,
+14. *kunngjøringsskjema*: strukturert informasjonsinnhold i Doffin, fastsatt av Nærings- og fiskeridepartementet,
+15. *levetid*: alle produktfaser som forskning og utvikling, industriell utvikling, produksjon, reparasjon, modernisering, endring, vedlikehold, logistikk, utdannelse, testing, tilbaketrekking og avhending,
+16. *offentlig foretak*: ethvert foretak som offentlige myndigheter direkte eller indirekte kan utøve avgjørende innflytelse over i kraft av eierforhold, kapitalinteresser eller reglene for virksomheten. Avgjørende innflytelse skal antas å foreligge når offentlige myndigheter i forhold til et foretak enten direkte eller indirekte:
+
+    1. eier majoriteten av foretakets tegnede kapital,
+    2. kontrollerer flertallet av stemmene knyttet til andeler utstedt av foretaket, eller
+    3. kan utpeke mer enn halvparten av medlemmene i foretakets administrasjons-, ledelses- eller kontrollorgan,
+17. *offentlig myndigheter*: statlige, fylkeskommunale eller kommunale myndigheter og sammenslutninger dannet av én eller flere av disse,
+18. *offentligrettslig organ*: ethvert organ som:
+
+    1. er opprettet for det bestemte formål å imøtekomme allmennhetens behov og ikke er av industriell eller forretningsmessig karakter,
+    2. er et selvstendig rettssubjekt, og
+    3. i hovedsak er finansiert av statlige, fylkeskommunale eller kommunale myndigheter eller andre offentligrettslige organer, eller hvis forvaltning er underlagt et av disse organers kontroll, eller som har et administrasjons-, ledelses- eller kontrollorgan der over halvparten av medlemmene er oppnevnt av statlige, fylkeskommunale eller kommunale myndigheter eller andre offentligrettslige organer,
+19. *skriftlig*: ethvert uttrykk bestående av ord eller tall som kan leses, reproduseres og deretter kommuniseres. Det kan omfatte elektronisk melding når informasjonen i denne er tilgjengelig også for ettertiden,
+20. *TED-databasen*: den europeiske offisielle databasen for kunngjøringer,
+21. *tjenestekontrakt*: kontrakt, unntatt kontrakter som nevnt i bokstav a og z, som gjelder tjenester angitt i vedlegg 5 (prioriterte tjenester) og vedlegg 6 (uprioriterte tjenester),
+22. *ulovlig direkte anskaffelse*: en anskaffelse hvor oppdragsgiver i strid med reglene i denne forskrift ikke har kunngjort konkurransen, eller en anskaffelse hvor oppdragsgiver bare har kunngjort i Doffin når det etter denne forskriften foreligger en plikt til å kunngjøre i TED-databasen,
+23. *underleverandør*: den som forestår leveranse til leverandøren i forbindelse med en anskaffelse etter denne forskrift,
+24. *underleveranse*: gjensidig bebyrdende avtale som inngås skriftlig mellom en valgt tilbyder for en avtale og en eller flere økonomiske aktører med henblikk på å oppfylle denne avtalen, og som vedrører bygge- og anleggsarbeid eller levering av varer eller tjenester,
+25. *universell utforming*: utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig,
+26. *varekontrakt*: kontrakt som omhandler kjøp, avbetalingskjøp, leasing eller leie med eller uten rett til kjøp av varer, unntatt varer som nevnt i bokstav a. En kontrakt som gjelder levering av varer og som i tilknytning til denne omfatter monterings- og installasjonsarbeid, betraktes som en varekontrakt.
 
 > Endret ved [forskrift 19 mars 2014 nr. 298](forskrift/2014-03-19-298).
 
 ### § 4-2. Prosedyrer
 
-I denne forskrift menes det med:*begrenset anbudskonkurranse*: anskaffelsesprosedyre som bare tillater de leverandører som er invitert av oppdragsgiver til å gi tilbud, men som ikke tillater forhandling,*elektronisk auksjon*: en elektronisk prosess hvor det etter en første fullstendig vurdering av tilbudene, slik at de kan rangeres med metoder for automatisk vurdering, gjennomføres en gjentagende prosess hvor priser eller nye verdier for visse elementer i tilbudene kan justeres. Visse bygge- og anleggskontrakter og tjenestekontrakter som omfatter intellektuelle tjenester, som for eksempel prosjektering av arbeid, kan ikke rangeres med metoder for automatisk vurdering, og kan derfor ikke gjøres til gjenstand for elektroniske auksjoner,*konkurransepreget dialog*: anskaffelsesprosedyre hvor oppdragsgiver i en eller flere runder fører en dialog med leverandører om alternative løsninger før det gis konkurrerende tilbud,*konkurranse med forhandling*: anskaffelsesprosedyre hvor oppdragsgiver har adgang til å forhandle med en eller flere leverandører,*rammeavtale*: avtale inngått mellom en eller flere oppdragsgivere og en eller flere leverandører som har til formål å fastsette vilkårene for de kontrakter som skal tildeles i løpet av en gitt periode, særlig med hensyn til pris og eventuelt planlagte mengder.
+I denne forskrift menes det med:
+
+1. *begrenset anbudskonkurranse*: anskaffelsesprosedyre som bare tillater de leverandører som er invitert av oppdragsgiver til å gi tilbud, men som ikke tillater forhandling,
+2. *elektronisk auksjon*: en elektronisk prosess hvor det etter en første fullstendig vurdering av tilbudene, slik at de kan rangeres med metoder for automatisk vurdering, gjennomføres en gjentagende prosess hvor priser eller nye verdier for visse elementer i tilbudene kan justeres. Visse bygge- og anleggskontrakter og tjenestekontrakter som omfatter intellektuelle tjenester, som for eksempel prosjektering av arbeid, kan ikke rangeres med metoder for automatisk vurdering, og kan derfor ikke gjøres til gjenstand for elektroniske auksjoner,
+3. *konkurransepreget dialog*: anskaffelsesprosedyre hvor oppdragsgiver i en eller flere runder fører en dialog med leverandører om alternative løsninger før det gis konkurrerende tilbud,
+4. *konkurranse med forhandling*: anskaffelsesprosedyre hvor oppdragsgiver har adgang til å forhandle med en eller flere leverandører,
+5. *rammeavtale*: avtale inngått mellom en eller flere oppdragsgivere og en eller flere leverandører som har til formål å fastsette vilkårene for de kontrakter som skal tildeles i løpet av en gitt periode, særlig med hensyn til pris og eventuelt planlagte mengder.
 
 ### § 4-3. Standarder og spesifikasjoner
 
-I denne forskrift menes med:*CPV-nummer*: referansenummer som viser til EU-kommisjonens produkt- og tjenestekoder,*europeisk teknisk godkjennelse*: en teknisk vurdering som konkluderer med at et produkt er egnet for bruk i samsvar med grunnleggende krav for bygge- og anleggsarbeider, på grunnlag av produktets egenskaper og definerte vilkår for dets bruk og utnyttelse. Den europeiske godkjennelse skal gis av et organ som er utnevnt til dette formål av en EØS-stat,*felles teknisk spesifikasjon*: en teknisk spesifikasjon som er utarbeidet etter en prosedyre godkjent av EØS-statene, og som er blitt publisert i Den europeiske unions tidende,*forsvarsstandard*: en teknisk spesifikasjon som er godkjent av et standardiseringsorgan som er spesialisert i utarbeidelse av tekniske spesifikasjoner for gjentatt eller stadig bruk på forsvarsområdet, men som det normalt ikke er obligatorisk å anvende,*standard*: teknisk spesifikasjon godkjent av et anerkjent nasjonalt, europeisk eller internasjonalt standardiseringsorgan for gjentatt eller stadig bruk, men som det normalt ikke er obligatorisk å anvende og som er offentlig tilgjengelig,*teknisk referanse*: ethvert produkt fra europeiske standardiseringsorganer, bortsett fra offisielle standarder, som er utarbeidet etter prosedyrer som er innført med tanke på utvikling av markedets behov,*tekniske spesifikasjoner*:*ved bygge- og anleggskontrakter*: samtlige tekniske forskrifter, herunder slike som fremgår av kunngjøringen, som fastsetter de krevde egenskaper for et materiale, et produkt eller et innkjøp, og hvor disse beskrives slik at de oppfyller kravene til den anvendelse som oppdragsgiver har fastlagt. Disse egenskapene omfatter miljøkrav, universell utforming, overensstemmelsesvurdering, funksjonsdyktighet, sikkerhet, dimensjoner, herunder prosedyrer for kvalitetssikring, terminologi, symboler, tester, testmetoder, emballering, merking og etikettering samt produksjonsprosesser og metoder. De omfatter tilsvarende regler for prosjektering og omkostningsberegning, målemetoder, kontroll og overlevering av bygge- og anleggsarbeider, samt konstruksjonsteknikk og konstruksjonsmetoder, samt alle andre tekniske forhold som oppdragsgiver kan fastsette ved alminnelige eller særlig bestemmelser vedrørende de ferdige arbeider og de materialer eller deler som inngår i slike arbeider,*ved vare- og tjenestekontrakter*: en spesifikasjon fastsatt i et dokument, som fastsetter de egenskaper, ved en vare- eller tjenestekontrakt, som oppdragsgiver krever. Dette omfatter for eksempel kvalitetsnivå, miljøkrav, universell utforming, overensstemmelsesvurdering, funksjonsdyktighet, bruken av produktet, sikkerhet, dimensjoner, herunder forskrifter som gjelder handelsbetegnelse og terminologi for produktet, symboler, tester og testmetoder, emballering, merking og etikettering, bruksanvisning, produksjonsprosesser og -metoder, samt prosedyrer for overensstemmelsesvurdering.
+I denne forskrift menes med:
+
+1. *CPV-nummer*: referansenummer som viser til EU-kommisjonens produkt- og tjenestekoder,
+2. *europeisk teknisk godkjennelse*: en teknisk vurdering som konkluderer med at et produkt er egnet for bruk i samsvar med grunnleggende krav for bygge- og anleggsarbeider, på grunnlag av produktets egenskaper og definerte vilkår for dets bruk og utnyttelse. Den europeiske godkjennelse skal gis av et organ som er utnevnt til dette formål av en EØS-stat,
+3. *felles teknisk spesifikasjon*: en teknisk spesifikasjon som er utarbeidet etter en prosedyre godkjent av EØS-statene, og som er blitt publisert i Den europeiske unions tidende,
+4. *forsvarsstandard*: en teknisk spesifikasjon som er godkjent av et standardiseringsorgan som er spesialisert i utarbeidelse av tekniske spesifikasjoner for gjentatt eller stadig bruk på forsvarsområdet, men som det normalt ikke er obligatorisk å anvende,
+5. *standard*: teknisk spesifikasjon godkjent av et anerkjent nasjonalt, europeisk eller internasjonalt standardiseringsorgan for gjentatt eller stadig bruk, men som det normalt ikke er obligatorisk å anvende og som er offentlig tilgjengelig,
+6. *teknisk referanse*: ethvert produkt fra europeiske standardiseringsorganer, bortsett fra offisielle standarder, som er utarbeidet etter prosedyrer som er innført med tanke på utvikling av markedets behov,
+7. *tekniske spesifikasjoner*:
+
+   1. *ved bygge- og anleggskontrakter*: samtlige tekniske forskrifter, herunder slike som fremgår av kunngjøringen, som fastsetter de krevde egenskaper for et materiale, et produkt eller et innkjøp, og hvor disse beskrives slik at de oppfyller kravene til den anvendelse som oppdragsgiver har fastlagt. Disse egenskapene omfatter miljøkrav, universell utforming, overensstemmelsesvurdering, funksjonsdyktighet, sikkerhet, dimensjoner, herunder prosedyrer for kvalitetssikring, terminologi, symboler, tester, testmetoder, emballering, merking og etikettering samt produksjonsprosesser og metoder. De omfatter tilsvarende regler for prosjektering og omkostningsberegning, målemetoder, kontroll og overlevering av bygge- og anleggsarbeider, samt konstruksjonsteknikk og konstruksjonsmetoder, samt alle andre tekniske forhold som oppdragsgiver kan fastsette ved alminnelige eller særlig bestemmelser vedrørende de ferdige arbeider og de materialer eller deler som inngår i slike arbeider,
+   2. *ved vare- og tjenestekontrakter*: en spesifikasjon fastsatt i et dokument, som fastsetter de egenskaper, ved en vare- eller tjenestekontrakt, som oppdragsgiver krever. Dette omfatter for eksempel kvalitetsnivå, miljøkrav, universell utforming, overensstemmelsesvurdering, funksjonsdyktighet, bruken av produktet, sikkerhet, dimensjoner, herunder forskrifter som gjelder handelsbetegnelse og terminologi for produktet, symboler, tester og testmetoder, emballering, merking og etikettering, bruksanvisning, produksjonsprosesser og -metoder, samt prosedyrer for overensstemmelsesvurdering.
 
 ## Del II. Anskaffelser over EØS-terskelverdiene
 
@@ -248,11 +337,34 @@ I denne forskrift menes med:*CPV-nummer*: referansenummer som viser til EU-kommi
 
 (1) Oppdragsgiver kan benytte konkurransepreget dialog ved tildeling av særlig komplekse kontrakter.
 
-(2) En kontrakt er særlig kompleks når oppdragsgiver ikke er i stand til:i samsvar med [§ 8-3](forskrift/2013-10-04-1185/§8-3) tredje ledd, objektivt å presisere de tekniske vilkår, som kan oppfylle deres behov og formål, ellerobjektivt å presisere de rettslige eller finansielle forhold i forbindelse med et prosjekt.
+(2) En kontrakt er særlig kompleks når oppdragsgiver ikke er i stand til:
+
+1. i samsvar med [§ 8-3](forskrift/2013-10-04-1185/§8-3) tredje ledd, objektivt å presisere de tekniske vilkår, som kan oppfylle deres behov og formål, eller
+2. objektivt å presisere de rettslige eller finansielle forhold i forbindelse med et prosjekt.
 
 ### § 5-3. Konkurranse med forhandling uten forutgående kunngjøring
 
-Oppdragsgiver kan benytte konkurranse med forhandling uten forutgående kunngjøring i følgende tilfeller:dersom det i en forutgående begrenset anbudskonkurranse, konkurranse med forhandlinger med forutgående kunngjøring eller konkurransepreget dialog ikke foreligger tilbud, eller de tilbud som foreligger ikke er egnet, forutsatt at det ikke foretas vesentlige endringer i de opprinnelige kontraktsvilkårene og at det på anmodning oversendes en rapport til Forsvarsdepartementet,dersom det i forbindelse med en forutgående begrenset anbudskonkurranse, konkurranse med forhandlinger med forutgående kunngjøring eller konkurransepreget dialog er levert inn tilbud som er ukorrekte, eller som er uakseptable i henhold til [§ 8-4](forskrift/2013-10-04-1185/§8-4), [§ 8-8](forskrift/2013-10-04-1185/§8-8), [§ 8-9](forskrift/2013-10-04-1185/§8-9), [§ 8-17](forskrift/2013-10-04-1185/§8-17), [§ 8-18](forskrift/2013-10-04-1185/§8-18), [§ 11-3](forskrift/2013-10-04-1185/§11-3), [§ 11-4](forskrift/2013-10-04-1185/§11-4) eller [§ 13-2](forskrift/2013-10-04-1185/§13-2), forutsatt at det ikke foretas vesentlige endringer i de opprinnelige kontraktsvilkår og at alle leverandørene som oppfyller kravene for deltakelse i konkurransen, og som i den forutgående konkurransen har avgitt tilbud i samsvar med anskaffelsesprosedyrens formelle krav, inviteres til å delta,dersom ytelsen av tekniske grunner eller for å beskytte en enerett, bare kan presteres av en bestemt leverandør,dersom det på grunn av særlige forhold som ikke skyldes oppdragsgiver og som oppdragsgiver ikke kunne forutse, er umulig å overholde fristene om følger av [§ 10-1](forskrift/2013-10-04-1185/§10-1) og [§ 10-2](forskrift/2013-10-04-1185/§10-2),ved nødsituasjon som oppstår som følge av krise, er umulig å overholde fristene som følger av [§ 10-1](forskrift/2013-10-04-1185/§10-1) til [§ 10-4](forskrift/2013-10-04-1185/§10-4),ved andre tjenester tilknyttet forsknings- og utviklingstjenester enn de som omfattes av [§ 1-3](forskrift/2013-10-04-1185/§1-3) annet ledd bokstav g,dersom varene i en varekontrakt skal produseres kun med sikte på forskning og utvikling. Dette gjelder ikke ved produksjon i større mengder for å påvise varens kommersielle muligheter eller for å dekke forsknings- og utviklingsomkostninger,ved tilleggsleveranser i en varekontrakt fra den opprinnelige leverandør til delvis fornyelse av normale leveranser eller installasjoner, eller til utvidelse av allerede foretatte leveranser eller installasjoner, dersom skifte av leverandør vil pålegge oppdragsgiveren å anskaffe utstyr som er teknisk uforenlig med eksisterende utstyr, eller som skaper uforholdsmessig store tekniske vanskeligheter ved drift og vedlikehold. Varigheten for den opprinnelige kontrakten og tilleggsleveransen må normalt ikke overstige fem år, med unntak av under særlige omstendigheter som tar hensyn til det leverte materialet og installasjoner eller systemers forventede levetid og de tekniske vanskeligheter som et leverandørskifte kan medføre,dersom varene noteres og kjøpes på en varebørs,dersom varene anskaffes på særdeles fordelaktige vilkår, enten hos en leverandør som endelig innstiller sin virksomhet eller et konkursbo, tvangsakkord eller en tilsvarende behandling,ved tilleggstjenester som ikke var med i det opprinnelige prosjektforslag eller i den opprinnelige kontrakten og tilleggsarbeider som ikke var med i den opprinnelige kunngjøring eller i den opprinnelige kontrakten, forutsatt at:forhold oppdragsgiver ikke kunne forutse gjør det nødvendig å utføre tilleggstjenesten eller tilleggsarbeidet for å utføre de tjenestene som opprinnelig ble beskrevet,tilleggsarbeidene eller tilleggstjenestene tildeles den opprinnelige leverandør,tilleggstjenestene eller tilleggsarbeidene ikke teknisk eller økonomisk kan skilles fra den opprinnelige kontrakt uten vesentlige ulemper for oppdragsgiver eller, dersom de kan skilles fra den opprinnelige kontrakt, likevel er strengt nødvendig for fullføring av denne, ogden samlede verdi av kontrakter som inngås om tilleggsarbeider eller tilleggstjenester ikke overstiger 50 prosent av verdien av den opprinnelige kontrakt,ved tjenestekontrakter og bygge- og anleggskontrakter for nye arbeider, som er en gjentakelse av lignende arbeider utført i forbindelse med en tidligere kontrakt inngått i samsvar med hovedregelen i [§ 5-1](forskrift/2013-10-04-1185/§5-1). Forutsetningen er at kontrakten tildeles til den opprinnelige leverandør og at arbeidene er i samsvar med det prosjekt som dannet utgangspunktet for tildelingen av den første kontrakten. Muligheten for at denne fremgangsmåte kan bli brukt, skal angis første gang det innhentes tilbud for prosjektet. Mulige senere arbeider skal tas med i beregningen av anskaffelsens verdi i forhold til terskelverdiene i [kapittel 2](forskrift/2013-10-04-1185/kap2). Fremgangsmåten kan bare anvendes inntil fem år etter at den opprinnelige kontrakt ble sluttet, med mindre det foreligger særlige omstendigheter. I denne vurderingen skal det tas hensyn til det leverte materialet og installasjoner eller systemers forventede levetid og de tekniske vanskeligheter som et leverandørskifte kan medføre,ved kontrakter vedrørende levering av luft- og sjøtransporttjenester til væpnede styrker eller sikkerhetsstyrker som skal eller er stasjonert i utlandet når oppdragsgiver er nødt til å anskaffe slike tjenester fra en leverandør som kun kan garantere for et tilbud i så kort tid at fristen for prosedyrene begrenset konkurranse eller konkurranse med forhandlinger etter forutgående kunngjøring ikke kan overholdes,ved dekningskjøp som er nødvendig som følge av at en kontrakt er kjent uten virkning etter reglene i [kapittel 14](forskrift/2013-10-04-1185/kap14), forutsatt at det er umulig å overholde fristene fastsatt i denne forskrift og kontrakt ikke inngås for en lengre periode enn det som er nødvendig for å gjennomføre en konkurranse i samsvar med forskriften.
+Oppdragsgiver kan benytte konkurranse med forhandling uten forutgående kunngjøring i følgende tilfeller:
+
+1. dersom det i en forutgående begrenset anbudskonkurranse, konkurranse med forhandlinger med forutgående kunngjøring eller konkurransepreget dialog ikke foreligger tilbud, eller de tilbud som foreligger ikke er egnet, forutsatt at det ikke foretas vesentlige endringer i de opprinnelige kontraktsvilkårene og at det på anmodning oversendes en rapport til Forsvarsdepartementet,
+2. dersom det i forbindelse med en forutgående begrenset anbudskonkurranse, konkurranse med forhandlinger med forutgående kunngjøring eller konkurransepreget dialog er levert inn tilbud som er ukorrekte, eller som er uakseptable i henhold til [§ 8-4](forskrift/2013-10-04-1185/§8-4), [§ 8-8](forskrift/2013-10-04-1185/§8-8), [§ 8-9](forskrift/2013-10-04-1185/§8-9), [§ 8-17](forskrift/2013-10-04-1185/§8-17), [§ 8-18](forskrift/2013-10-04-1185/§8-18), [§ 11-3](forskrift/2013-10-04-1185/§11-3), [§ 11-4](forskrift/2013-10-04-1185/§11-4) eller [§ 13-2](forskrift/2013-10-04-1185/§13-2), forutsatt at det ikke foretas vesentlige endringer i de opprinnelige kontraktsvilkår og at alle leverandørene som oppfyller kravene for deltakelse i konkurransen, og som i den forutgående konkurransen har avgitt tilbud i samsvar med anskaffelsesprosedyrens formelle krav, inviteres til å delta,
+3. dersom ytelsen av tekniske grunner eller for å beskytte en enerett, bare kan presteres av en bestemt leverandør,
+4. dersom det på grunn av særlige forhold som ikke skyldes oppdragsgiver og som oppdragsgiver ikke kunne forutse, er umulig å overholde fristene om følger av [§ 10-1](forskrift/2013-10-04-1185/§10-1) og [§ 10-2](forskrift/2013-10-04-1185/§10-2),
+5. ved nødsituasjon som oppstår som følge av krise, er umulig å overholde fristene som følger av [§ 10-1](forskrift/2013-10-04-1185/§10-1) til [§ 10-4](forskrift/2013-10-04-1185/§10-4),
+6. ved andre tjenester tilknyttet forsknings- og utviklingstjenester enn de som omfattes av [§ 1-3](forskrift/2013-10-04-1185/§1-3) annet ledd bokstav g,
+7. dersom varene i en varekontrakt skal produseres kun med sikte på forskning og utvikling. Dette gjelder ikke ved produksjon i større mengder for å påvise varens kommersielle muligheter eller for å dekke forsknings- og utviklingsomkostninger,
+8. ved tilleggsleveranser i en varekontrakt fra den opprinnelige leverandør til delvis fornyelse av normale leveranser eller installasjoner, eller til utvidelse av allerede foretatte leveranser eller installasjoner, dersom skifte av leverandør vil pålegge oppdragsgiveren å anskaffe utstyr som er teknisk uforenlig med eksisterende utstyr, eller som skaper uforholdsmessig store tekniske vanskeligheter ved drift og vedlikehold. Varigheten for den opprinnelige kontrakten og tilleggsleveransen må normalt ikke overstige fem år, med unntak av under særlige omstendigheter som tar hensyn til det leverte materialet og installasjoner eller systemers forventede levetid og de tekniske vanskeligheter som et leverandørskifte kan medføre,
+9. dersom varene noteres og kjøpes på en varebørs,
+10. dersom varene anskaffes på særdeles fordelaktige vilkår, enten hos en leverandør som endelig innstiller sin virksomhet eller et konkursbo, tvangsakkord eller en tilsvarende behandling,
+11. ved tilleggstjenester som ikke var med i det opprinnelige prosjektforslag eller i den opprinnelige kontrakten og tilleggsarbeider som ikke var med i den opprinnelige kunngjøring eller i den opprinnelige kontrakten, forutsatt at:
+
+    1. forhold oppdragsgiver ikke kunne forutse gjør det nødvendig å utføre tilleggstjenesten eller tilleggsarbeidet for å utføre de tjenestene som opprinnelig ble beskrevet,
+    2. tilleggsarbeidene eller tilleggstjenestene tildeles den opprinnelige leverandør,
+    3. tilleggstjenestene eller tilleggsarbeidene ikke teknisk eller økonomisk kan skilles fra den opprinnelige kontrakt uten vesentlige ulemper for oppdragsgiver eller, dersom de kan skilles fra den opprinnelige kontrakt, likevel er strengt nødvendig for fullføring av denne, og
+    4. den samlede verdi av kontrakter som inngås om tilleggsarbeider eller tilleggstjenester ikke overstiger 50 prosent av verdien av den opprinnelige kontrakt,
+12. ved tjenestekontrakter og bygge- og anleggskontrakter for nye arbeider, som er en gjentakelse av lignende arbeider utført i forbindelse med en tidligere kontrakt inngått i samsvar med hovedregelen i [§ 5-1](forskrift/2013-10-04-1185/§5-1). Forutsetningen er at kontrakten tildeles til den opprinnelige leverandør og at arbeidene er i samsvar med det prosjekt som dannet utgangspunktet for tildelingen av den første kontrakten. Muligheten for at denne fremgangsmåte kan bli brukt, skal angis første gang det innhentes tilbud for prosjektet. Mulige senere arbeider skal tas med i beregningen av anskaffelsens verdi i forhold til terskelverdiene i [kapittel 2](forskrift/2013-10-04-1185/kap2). Fremgangsmåten kan bare anvendes inntil fem år etter at den opprinnelige kontrakt ble sluttet, med mindre det foreligger særlige omstendigheter. I denne vurderingen skal det tas hensyn til det leverte materialet og installasjoner eller systemers forventede levetid og de tekniske vanskeligheter som et leverandørskifte kan medføre,
+13. ved kontrakter vedrørende levering av luft- og sjøtransporttjenester til væpnede styrker eller sikkerhetsstyrker som skal eller er stasjonert i utlandet når oppdragsgiver er nødt til å anskaffe slike tjenester fra en leverandør som kun kan garantere for et tilbud i så kort tid at fristen for prosedyrene begrenset konkurranse eller konkurranse med forhandlinger etter forutgående kunngjøring ikke kan overholdes,
+14. ved dekningskjøp som er nødvendig som følge av at en kontrakt er kjent uten virkning etter reglene i [kapittel 14](forskrift/2013-10-04-1185/kap14), forutsatt at det er umulig å overholde fristene fastsatt i denne forskrift og kontrakt ikke inngås for en lengre periode enn det som er nødvendig for å gjennomføre en konkurranse i samsvar med forskriften.
 
 ### Kapittel 6. Rammeavtaler
 
@@ -282,7 +394,12 @@ Oppdragsgiver kan benytte konkurranse med forhandling uten forutgående kunngjø
 
 (2) Tildeling av kontrakter innenfor rammeavtaler som er inngått med flere leverandører, foretas på grunnlag av vilkårene som er fastsatt i rammeavtalen, uten at det gjennomføres ny konkurranse.
 
-(3) Hvis ikke alle vilkårene er fastsatt i rammeavtalen, skal tildeling av kontrakter foretas etter at det er iverksatt ny konkurranse mellom partene. Konkurransen gjennomføres på grunnlag av vilkårene som ble brukt for å tildele rammeavtalen. Vilkårene kan om nødvendig presiseres. Konkurransen kan også baseres på andre vilkår, såfremt disse er oppgitt i konkurransegrunnlaget for rammeavtalen. Konkurransen skal gjennomføres på følgende måte:for hver kontrakt som skal inngås skal oppdragsgiver skriftlig konsultere de leverandører som er i stand til å gjennomføre kontrakten,oppdragsgiver skal fastsette en tilstrekkelig frist til innlevering av tilbud på de enkelte kontrakter. Ved fastsettelse av fristen skal det tas hensyn til forhold som kontraktsgjenstandens kompleksitet og den tid som medgår til å utarbeide tilbud,tilbudene skal sendes inn skriftlig og innholdet skal holdes fortrolig inntil utløpet av den fastsatte tilbudsfristen, ogoppdragsgiver tildeler hver kontrakt til den tilbyder som har gitt det beste tilbudet på grunnlag av de tildelingskriterier som er fastsatt i konkurransegrunnlaget for rammeavtalen.
+(3) Hvis ikke alle vilkårene er fastsatt i rammeavtalen, skal tildeling av kontrakter foretas etter at det er iverksatt ny konkurranse mellom partene. Konkurransen gjennomføres på grunnlag av vilkårene som ble brukt for å tildele rammeavtalen. Vilkårene kan om nødvendig presiseres. Konkurransen kan også baseres på andre vilkår, såfremt disse er oppgitt i konkurransegrunnlaget for rammeavtalen. Konkurransen skal gjennomføres på følgende måte:
+
+1. for hver kontrakt som skal inngås skal oppdragsgiver skriftlig konsultere de leverandører som er i stand til å gjennomføre kontrakten,
+2. oppdragsgiver skal fastsette en tilstrekkelig frist til innlevering av tilbud på de enkelte kontrakter. Ved fastsettelse av fristen skal det tas hensyn til forhold som kontraktsgjenstandens kompleksitet og den tid som medgår til å utarbeide tilbud,
+3. tilbudene skal sendes inn skriftlig og innholdet skal holdes fortrolig inntil utløpet av den fastsatte tilbudsfristen, og
+4. oppdragsgiver tildeler hver kontrakt til den tilbyder som har gitt det beste tilbudet på grunnlag av de tildelingskriterier som er fastsatt i konkurransegrunnlaget for rammeavtalen.
 
 ### § 6-4. Gjennomføring av ASAP-forordningen:
 
@@ -310,7 +427,15 @@ Oppdragsgiver kan benytte konkurranse med forhandling uten forutgående kunngjø
 
 ### § 7-3. Særskilte krav til systemer for elektronisk overføring og mottak av tilbud og forespørsel om å delta i konkurranser
 
-(1) Opplysninger vedrørende spesifikasjoner som er nødvendige for elektronisk innlevering av tilbud og forespørsel om å delta, herunder kryptering, skal være tilgjengelige for interesserte parter. Sikkerhetstjenester og sikkerhetsprodukter som benyttes for elektronisk mottak av tilbud og forespørsel om å delta skal minst oppfylle følgende krav:den elektroniske signaturen må være basert på eID-ordning på nivå betydelig eller høy, og oppfylle kravene i [forskrift 21. november 2019 nr. 1578 om selvdeklarasjon av ordninger for elektronisk identifikasjon § 3](forskrift/2019-11-21-1578/§3) eller [4](forskrift/2019-11-21-1578/§4), samt være oppført på publisert liste i henhold til [§ 13](forskrift/2019-11-21-1578/§13) første ledd i nevnte forskrift. Alternativt må det benyttes elektronisk signatur eller segl basert på kvalifisert sertifikat fra en tilbyder av elektroniske tillitstjenester som oppfyller kravene i [lov 15. juni 2018 nr. 44 om elektroniske tillitstjenester](lov/2018-06-15-44). Oppdragsgiver skal alltid akseptere elektroniske signaturer eller segl som oppfyller kravene til utenlandsk kvalifisert sertifikat i forordning [(EU) nr. 910/2014](eu/32014r0910) artikkel 14, dersom tilbudet er elektronisk signert av en utenlandsk statsborger,nøyaktig klokkeslett og dato for mottak av tilbud og forespørsel om å delta i konkurranser må kunne fastslås med sikkerhet,det kan med rimelighet sikres at ingen får tilgang til de innsendte opplysninger før utløpet av de fastsatte frister. Det kan ved overtredelse av dette forbud med rimelighet sikres at overtredelsen klart kan spores,kun autoriserte personer skal kunne fastsette eller endre datoene for åpning av de mottatte opplysninger,i løpet av de forskjellige stadier for tildeling av kontrakt eller de forskjellige stadier i konkurransen, må kun autoriserte personer som opptrer sammen, få adgang til alle eller deler av de innsendte opplysninger,autoriserte personer som opptrer sammen, kan kun få adgang til de innsendte opplysninger etter den anførte dato, ogopplysninger som er mottatt og åpnet i overensstemmelse med de foreliggende krav skal kun være tilgjengelige for personer som er autorisert til å få kjennskap til dem.
+(1) Opplysninger vedrørende spesifikasjoner som er nødvendige for elektronisk innlevering av tilbud og forespørsel om å delta, herunder kryptering, skal være tilgjengelige for interesserte parter. Sikkerhetstjenester og sikkerhetsprodukter som benyttes for elektronisk mottak av tilbud og forespørsel om å delta skal minst oppfylle følgende krav:
+
+1. den elektroniske signaturen må være basert på eID-ordning på nivå betydelig eller høy, og oppfylle kravene i [forskrift 21. november 2019 nr. 1578 om selvdeklarasjon av ordninger for elektronisk identifikasjon § 3](forskrift/2019-11-21-1578/§3) eller [4](forskrift/2019-11-21-1578/§4), samt være oppført på publisert liste i henhold til [§ 13](forskrift/2019-11-21-1578/§13) første ledd i nevnte forskrift. Alternativt må det benyttes elektronisk signatur eller segl basert på kvalifisert sertifikat fra en tilbyder av elektroniske tillitstjenester som oppfyller kravene i [lov 15. juni 2018 nr. 44 om elektroniske tillitstjenester](lov/2018-06-15-44). Oppdragsgiver skal alltid akseptere elektroniske signaturer eller segl som oppfyller kravene til utenlandsk kvalifisert sertifikat i forordning [(EU) nr. 910/2014](eu/32014r0910) artikkel 14, dersom tilbudet er elektronisk signert av en utenlandsk statsborger,
+2. nøyaktig klokkeslett og dato for mottak av tilbud og forespørsel om å delta i konkurranser må kunne fastslås med sikkerhet,
+3. det kan med rimelighet sikres at ingen får tilgang til de innsendte opplysninger før utløpet av de fastsatte frister. Det kan ved overtredelse av dette forbud med rimelighet sikres at overtredelsen klart kan spores,
+4. kun autoriserte personer skal kunne fastsette eller endre datoene for åpning av de mottatte opplysninger,
+5. i løpet av de forskjellige stadier for tildeling av kontrakt eller de forskjellige stadier i konkurransen, må kun autoriserte personer som opptrer sammen, få adgang til alle eller deler av de innsendte opplysninger,
+6. autoriserte personer som opptrer sammen, kan kun få adgang til de innsendte opplysninger etter den anførte dato, og
+7. opplysninger som er mottatt og åpnet i overensstemmelse med de foreliggende krav skal kun være tilgjengelige for personer som er autorisert til å få kjennskap til dem.
 
 (2) Dersom nødvendige dokumenter, sertifikater og erklæringer ikke finnes i elektronisk form skal leverandøren levere dette i samsvar med [§ 11-2](forskrift/2013-10-04-1185/§11-2) første ledd, innen fristen som er fastsatt for levering av tilbud eller forespørsel om å delta i konkurransen.
 
@@ -320,9 +445,33 @@ Oppdragsgiver kan benytte konkurranse med forhandling uten forutgående kunngjø
 
 ### § 8-1. Utarbeidelse av konkurransegrunnlaget
 
-(1) Oppdragsgiver skal utarbeide et konkurransegrunnlag. Konkurransegrunnlaget skal inneholde følgende opplysninger, med mindre dette allerede er tilstrekkelig og fullstendig beskrevet i kunngjøringen:hvilken ytelse som skal anskaffes. Dersom det kan gis tilbud på deler av oppdraget eller med alternative frister, skal dette opplyses,hvordan konkurransen skal gjennomføres. Det skal minst opplyses om:hvilken anskaffelsesprosedyre som er valgt,endelig frist for mottak av tilbud (dag og klokkeslett), adressen disse skal sendes eller leveres til, samt hvordan tilbudene skal være merket,vedståelsesfrist for tilbudene, jf. [§ 10-5](forskrift/2013-10-04-1185/§10-5),den relative vektingen av tildelingskriteriene eller tildelingskriteriene i prioritert rekkefølge jf. [§ 13-2](forskrift/2013-10-04-1185/§13-2),på hvilket eller hvilke språk tilbudet skal være skrevet, ogen henvisning til kunngjøringen.
+(1) Oppdragsgiver skal utarbeide et konkurransegrunnlag. Konkurransegrunnlaget skal inneholde følgende opplysninger, med mindre dette allerede er tilstrekkelig og fullstendig beskrevet i kunngjøringen:
 
-(2) I den utstrekning det er aktuelt skal det også opplyses om:adresse til organ som forespørsler om kontraktsdokumenter og eventuelle tilleggsdokumenter kan rettes til, fristen for slike forespørsler, samt betalingsvilkår og beløp som eventuelt må betales for dokumentene,minstekrav som alternative tilbud må oppfylle og eventuelle krav til presentasjon av det alternative tilbudet, jf. [§ 11-4](forskrift/2013-10-04-1185/§11-4), dersom det i kunngjøringen er åpnet for alternative tilbud,tid og sted for eventuell åpen tilbudsåpning,tid og sted for befaring eller konferanse,det skal sendes inn prøver, modeller, planer, tegninger mv. og hvordan disse skal merkes,hvor eventuelt tilhørende dokumenter, beskrivelser, prøver, modeller, planer mv. ligger til ettersyn, samt om disse kan utleveres og eventuelt hvilket depositum som forlanges,hvilke alminnelige eller spesielle kontraktsbetingelser som gjelder for oppdraget,det stilles vilkår om at leverandøren utarbeider en priskalkyle over de kostnader som ventes å påløpe ved gjennomføringen av oppdraget. Det kan i så fall forbeholdes rett til å se regnskapsdata, bilag mv. som grunnlag for en eventuell kostnadskontroll,tilbud kan leveres elektronisk, og hvordan dette skal skje, jf. [§ 11-2](forskrift/2013-10-04-1185/§11-2),ved konkurransepreget dialog, hvordan dialogen skal gjennomføres,ved konkurransepreget dialog, tid og sted for når dialogen skal starte og på hvilke(t) språk dialogen skal foregå. Denne informasjon må være tilgjengelig i invitasjonen til å innlevere tilbud,det settes en frist for når begjæring om midlertidig forføyning må fremsettes for tingretten, jf. [§ 10-6](forskrift/2013-10-04-1185/§10-6),andre opplysninger som er av betydning for utarbeidelsen av tilbudet.
+1. hvilken ytelse som skal anskaffes. Dersom det kan gis tilbud på deler av oppdraget eller med alternative frister, skal dette opplyses,
+2. hvordan konkurransen skal gjennomføres. Det skal minst opplyses om:
+
+   1. hvilken anskaffelsesprosedyre som er valgt,
+   2. endelig frist for mottak av tilbud (dag og klokkeslett), adressen disse skal sendes eller leveres til, samt hvordan tilbudene skal være merket,
+   3. vedståelsesfrist for tilbudene, jf. [§ 10-5](forskrift/2013-10-04-1185/§10-5),
+   4. den relative vektingen av tildelingskriteriene eller tildelingskriteriene i prioritert rekkefølge jf. [§ 13-2](forskrift/2013-10-04-1185/§13-2),
+   5. på hvilket eller hvilke språk tilbudet skal være skrevet, og
+   6. en henvisning til kunngjøringen.
+
+(2) I den utstrekning det er aktuelt skal det også opplyses om:
+
+1. adresse til organ som forespørsler om kontraktsdokumenter og eventuelle tilleggsdokumenter kan rettes til, fristen for slike forespørsler, samt betalingsvilkår og beløp som eventuelt må betales for dokumentene,
+2. minstekrav som alternative tilbud må oppfylle og eventuelle krav til presentasjon av det alternative tilbudet, jf. [§ 11-4](forskrift/2013-10-04-1185/§11-4), dersom det i kunngjøringen er åpnet for alternative tilbud,
+3. tid og sted for eventuell åpen tilbudsåpning,
+4. tid og sted for befaring eller konferanse,
+5. det skal sendes inn prøver, modeller, planer, tegninger mv. og hvordan disse skal merkes,
+6. hvor eventuelt tilhørende dokumenter, beskrivelser, prøver, modeller, planer mv. ligger til ettersyn, samt om disse kan utleveres og eventuelt hvilket depositum som forlanges,
+7. hvilke alminnelige eller spesielle kontraktsbetingelser som gjelder for oppdraget,
+8. det stilles vilkår om at leverandøren utarbeider en priskalkyle over de kostnader som ventes å påløpe ved gjennomføringen av oppdraget. Det kan i så fall forbeholdes rett til å se regnskapsdata, bilag mv. som grunnlag for en eventuell kostnadskontroll,
+9. tilbud kan leveres elektronisk, og hvordan dette skal skje, jf. [§ 11-2](forskrift/2013-10-04-1185/§11-2),
+10. ved konkurransepreget dialog, hvordan dialogen skal gjennomføres,
+11. ved konkurransepreget dialog, tid og sted for når dialogen skal starte og på hvilke(t) språk dialogen skal foregå. Denne informasjon må være tilgjengelig i invitasjonen til å innlevere tilbud,
+12. det settes en frist for når begjæring om midlertidig forføyning må fremsettes for tingretten, jf. [§ 10-6](forskrift/2013-10-04-1185/§10-6),
+13. andre opplysninger som er av betydning for utarbeidelsen av tilbudet.
 
 ### § 8-2. Rettelse, supplering eller endring av konkurransegrunnlaget
 
@@ -340,13 +489,23 @@ Oppdragsgiver kan benytte konkurranse med forhandling uten forutgående kunngjø
 
 (3) Dersom oppdragsgiver krever oppfylt tekniske spesifikasjoner, skal disse angis i kunngjøringen eller konkurransegrunnlaget.
 
-(4) Såfremt ikke annet er fastsatt i rettslig bindende nasjonale tekniske regler, forutsatt at disse reglene er i samsvar med EØS-avtalen, skal de tekniske spesifikasjonene utformes enten:med henvisning til tekniske spesifikasjoner som definert i [§ 4-3](forskrift/2013-10-04-1185/§4-3) bokstav b, d, e, f og g og, i rangert rekkefølge, til nasjonale standarder for gjennomføring av europeiske standarder, europeiske tekniske godkjenninger, felles sivile tekniske spesifikasjoner, nasjonale sivile standarder som gjennomfører internasjonale standarder, andre internasjonale standarder, andre tekniske referansesystemer utarbeidet av europeiske standardiseringsorganer eller, dersom disse ikke finnes, nasjonale standarder, nasjonale tekniske godkjenninger eller nasjonale tekniske spesifikasjoner vedrørende prosjektering, beregning og utførelse av arbeidene og bruk av produktene, anerkjente sivile tekniske standarder fra industrien eller forsvarsstandarder og tilsvarende spesifikasjoner for forsvarsmateriell. Hver henvisning skal ledsages av uttrykket «eller tilsvarende»,i form av ytelses- eller funksjonskrav; de sistnevnte kan omfatte miljøegenskaper. De må imidlertid være tilstrekkelig presise til at det er mulig for tilbydere å fastslå kontraktens gjenstand og for oppdragsgiver å tildele kontrakten,i form av ytelses- eller funksjonskrav som nevnt under bokstav b, med henvisning til spesifikasjonene nevnt under bokstav a som middel til å anta samsvar med slike ytelses- eller funksjonskrav, ellerved henvisning til spesifikasjonene nevnt under bokstav a for visse egenskaper, og ved henvisning til ytelses- eller funksjonskravene nevnt under bokstav b for andre egenskaper.
+(4) Såfremt ikke annet er fastsatt i rettslig bindende nasjonale tekniske regler, forutsatt at disse reglene er i samsvar med EØS-avtalen, skal de tekniske spesifikasjonene utformes enten:
+
+1. med henvisning til tekniske spesifikasjoner som definert i [§ 4-3](forskrift/2013-10-04-1185/§4-3) bokstav b, d, e, f og g og, i rangert rekkefølge, til nasjonale standarder for gjennomføring av europeiske standarder, europeiske tekniske godkjenninger, felles sivile tekniske spesifikasjoner, nasjonale sivile standarder som gjennomfører internasjonale standarder, andre internasjonale standarder, andre tekniske referansesystemer utarbeidet av europeiske standardiseringsorganer eller, dersom disse ikke finnes, nasjonale standarder, nasjonale tekniske godkjenninger eller nasjonale tekniske spesifikasjoner vedrørende prosjektering, beregning og utførelse av arbeidene og bruk av produktene, anerkjente sivile tekniske standarder fra industrien eller forsvarsstandarder og tilsvarende spesifikasjoner for forsvarsmateriell. Hver henvisning skal ledsages av uttrykket «eller tilsvarende»,
+2. i form av ytelses- eller funksjonskrav; de sistnevnte kan omfatte miljøegenskaper. De må imidlertid være tilstrekkelig presise til at det er mulig for tilbydere å fastslå kontraktens gjenstand og for oppdragsgiver å tildele kontrakten,
+3. i form av ytelses- eller funksjonskrav som nevnt under bokstav b, med henvisning til spesifikasjonene nevnt under bokstav a som middel til å anta samsvar med slike ytelses- eller funksjonskrav, eller
+4. ved henvisning til spesifikasjonene nevnt under bokstav a for visse egenskaper, og ved henvisning til ytelses- eller funksjonskravene nevnt under bokstav b for andre egenskaper.
 
 (5) Dersom en oppdragsgiver benytter seg av muligheten til å henvise til spesifikasjonene nevnt under fjerde ledd bokstav a, kan vedkommende oppdragsgiver ikke avvise et tilbud med den begrunnelse at de tilbudte varer og tjenester ikke oppfyller de spesifikasjonene det er vist til, når tilbyderen i sitt tilbud på en egnet måte og til oppdragsgivers tilfredshet påviser at løsningene som foreslås, på tilsvarende måte oppfyller kravene som er definert i de tekniske spesifikasjonene. En egnet måte kan være i form av teknisk dokumentasjon fra produsenten eller en prøvingsrapport fra et anerkjent organ.
 
 (6) Dersom en oppdragsgiver benytter seg av muligheten i fjerde ledd til å fastsette ytelses- eller funksjonskrav, kan den ikke avvise et tilbud på varer, tjenester eller bygge- og anleggsarbeid som er i samsvar med en nasjonal standard til gjennomføring av en europeisk standard, en europeisk teknisk godkjenning, en felles teknisk spesifikasjon, en internasjonal standard eller en teknisk referanse utarbeidet av et europeisk standardiseringsorgan, dersom disse spesifikasjonene er ment å dekke de funksjonelle ytelses- eller funksjonskravene som oppdragsgiver har fastsatt. I sitt tilbud skal tilbyderen på en egnet måte godtgjøre til oppdragsgivers tilfredshet at varen, tjenesten eller bygge- og anleggsarbeidet i samsvar med standarden oppfyller oppdragsgivers ytelses- eller funksjonskrav. En egnet måte kan være i form av tekniske data fra produsenten eller en prøvingsrapport fra et anerkjent organ.
 
-(7) Der oppdragsgiver fastsetter miljøegenskaper i form av ytelses- eller funksjonskrav som vist til i fjerde ledd bokstav b, kan de anvende detaljerte spesifikasjoner, eller om nødvendig deler av disse, som definert av europeiske og multi- eller nasjonale miljømerker eller ethvert annet miljømerke, forutsatt at:disse spesifikasjonene er egnet til å definere egenskapene til varene eller tjenestene som er kontraktens gjenstand,kravene for miljømerket er utarbeidet på grunnlag av vitenskapelige opplysninger,miljømerkene er vedtatt etter en fremgangsmåte der alle berørte parter, for eksempel offentlige organer, forbrukere, produsenter, detaljhandlere og miljøorganisasjoner kan delta, ogspesifikasjonene er tilgjengelige for alle berørte parter.
+(7) Der oppdragsgiver fastsetter miljøegenskaper i form av ytelses- eller funksjonskrav som vist til i fjerde ledd bokstav b, kan de anvende detaljerte spesifikasjoner, eller om nødvendig deler av disse, som definert av europeiske og multi- eller nasjonale miljømerker eller ethvert annet miljømerke, forutsatt at:
+
+1. disse spesifikasjonene er egnet til å definere egenskapene til varene eller tjenestene som er kontraktens gjenstand,
+2. kravene for miljømerket er utarbeidet på grunnlag av vitenskapelige opplysninger,
+3. miljømerkene er vedtatt etter en fremgangsmåte der alle berørte parter, for eksempel offentlige organer, forbrukere, produsenter, detaljhandlere og miljøorganisasjoner kan delta, og
+4. spesifikasjonene er tilgjengelige for alle berørte parter.
 
 (8) Oppdragsgiver kan indikere at varer og tjenester med miljømerke antas å være i samsvar med de tekniske spesifikasjonene i konkurransegrunnlaget, men må også godta annen egnet dokumentasjon, så som tekniske data fra produsenten eller en prøvingsrapport fra et anerkjent organ.
 
@@ -388,21 +547,42 @@ Oppdragsgiver kan benytte konkurranse med forhandling uten forutgående kunngjø
 
 ### § 8-8. Forsyningssikkerhet
 
-(1) Oppdragsgiver kan stille krav om:sertifikat eller dokumentasjon på at leverandøren er i stand til å oppfylle de kontraktsrettslige forpliktelsene med hensyn til eksport, overførsel og transitt av varer, herunder også dokumentasjon fra rette myndighet i avsenderlandet,opplysninger om eventuelle begrensninger for oppdragsgiver med hensyn til offentliggjøring av overførsel eller anvendelse av produktene og tjenestene eller et hvilket som helst resultat av disse produktene og tjenesteytelsene, og som er følge av eksportkontroll eller sikkerhetsordninger,sertifikat eller dokumentasjon på at leverandørens forsyningskjede er av en slik organisatorisk karakter og geografisk beliggenhet at leverandøren kan oppfylle oppdragsgivers krav til forsyningssikkerhet,at leverandøren skal sikre at eventuelle endringer i leverandørens forsyningskjede under utførelsen av kontrakten ikke vil ha noen negativ innvirkning på kravene som stilles til forsyningssikkerhet,at leverandøren skal etablere eller opprettholde den kapasitet som er nødvendig for å imøtekomme eventuelle større behov fra oppdragsgiver som følge av krise,supplerende dokumentasjon fra leverandørens nasjonale offentlige myndigheter om oppfyllelse av krav om å kunne imøtekomme eventuelle større behov fra oppdragsgiver som følge av krise,at leverandøren skal kunne sikre vedlikehold, modernisering og tilpasning av de varer som er omfattet av kontrakten,at leverandøren skal varsle oppdragsgiver om enhver endring i organisasjon, forsyningskjede eller industristrategi som kan få følger for leverandørens forpliktelser,at leverandøren skal kunne forsyne oppdragsgiver med alle de spesifikke midler som er nødvendig for produksjon av reservedeler, komponenter, enhver montering og særlig testutstyr, herunder tekniske tegninger, lisenser og bruksanvisninger, i tilfelle leverandøren på et senere tidspunkt ikke vil være i stand til å levere varen.
+(1) Oppdragsgiver kan stille krav om:
+
+1. sertifikat eller dokumentasjon på at leverandøren er i stand til å oppfylle de kontraktsrettslige forpliktelsene med hensyn til eksport, overførsel og transitt av varer, herunder også dokumentasjon fra rette myndighet i avsenderlandet,
+2. opplysninger om eventuelle begrensninger for oppdragsgiver med hensyn til offentliggjøring av overførsel eller anvendelse av produktene og tjenestene eller et hvilket som helst resultat av disse produktene og tjenesteytelsene, og som er følge av eksportkontroll eller sikkerhetsordninger,
+3. sertifikat eller dokumentasjon på at leverandørens forsyningskjede er av en slik organisatorisk karakter og geografisk beliggenhet at leverandøren kan oppfylle oppdragsgivers krav til forsyningssikkerhet,
+4. at leverandøren skal sikre at eventuelle endringer i leverandørens forsyningskjede under utførelsen av kontrakten ikke vil ha noen negativ innvirkning på kravene som stilles til forsyningssikkerhet,
+5. at leverandøren skal etablere eller opprettholde den kapasitet som er nødvendig for å imøtekomme eventuelle større behov fra oppdragsgiver som følge av krise,
+6. supplerende dokumentasjon fra leverandørens nasjonale offentlige myndigheter om oppfyllelse av krav om å kunne imøtekomme eventuelle større behov fra oppdragsgiver som følge av krise,
+7. at leverandøren skal kunne sikre vedlikehold, modernisering og tilpasning av de varer som er omfattet av kontrakten,
+8. at leverandøren skal varsle oppdragsgiver om enhver endring i organisasjon, forsyningskjede eller industristrategi som kan få følger for leverandørens forpliktelser,
+9. at leverandøren skal kunne forsyne oppdragsgiver med alle de spesifikke midler som er nødvendig for produksjon av reservedeler, komponenter, enhver montering og særlig testutstyr, herunder tekniske tegninger, lisenser og bruksanvisninger, i tilfelle leverandøren på et senere tidspunkt ikke vil være i stand til å levere varen.
 
 (2) En oppdragsgiver kan ikke kreve at en leverandør skal skaffe dokumentasjon som vil stride med nasjonale eller relevante internasjonale krav til eksport-, overførings- eller transittlisenskriterier, under de omstendigheter som råder på tidspunktet for en slik lisensbeslutning.
 
 ### § 8-9. Krav til beskyttelse av gradert informasjon
 
-Oppdragsgiver kan ved anskaffelser som innebærer behandling av gradert informasjon stille krav om:dokumentasjon på at leverandøren og underleverandører kan sikre at graderte opplysninger behandles og oppbevares på en forsvarlig måte i hele kontraktens løpetid og etter at kontrakten opphører, ogtilstrekkelig informasjon om de underleverandører, som allerede er valgt av leverandøren, slik at oppdragsgiver er i stand til å avgjøre om den enkelte underleverandør kan oppfylle de krav som er satt til behandling og oppbevaring av gradert informasjon. Tilsvarende informasjon kan kreves fremlagt vedrørende nye underleverandører før kontrakt om underleveranse inngås.
+Oppdragsgiver kan ved anskaffelser som innebærer behandling av gradert informasjon stille krav om:
+
+1. dokumentasjon på at leverandøren og underleverandører kan sikre at graderte opplysninger behandles og oppbevares på en forsvarlig måte i hele kontraktens løpetid og etter at kontrakten opphører, og
+2. tilstrekkelig informasjon om de underleverandører, som allerede er valgt av leverandøren, slik at oppdragsgiver er i stand til å avgjøre om den enkelte underleverandør kan oppfylle de krav som er satt til behandling og oppbevaring av gradert informasjon. Tilsvarende informasjon kan kreves fremlagt vedrørende nye underleverandører før kontrakt om underleveranse inngås.
 
 ### § 8-10. Opplysninger om underleverandører i tilbudet
 
-Oppdragsgiver kan kreve at leverandøren skal opplyse om:hvilken del eller deler av kontrakten som skal tildeles underleverandører,hvilke underleverandører som skal benyttes, ogat leverandøren opplyser om endringer av underleverandører under gjennomføringen av kontrakten.
+Oppdragsgiver kan kreve at leverandøren skal opplyse om:
+
+1. hvilken del eller deler av kontrakten som skal tildeles underleverandører,
+2. hvilke underleverandører som skal benyttes, og
+3. at leverandøren opplyser om endringer av underleverandører under gjennomføringen av kontrakten.
 
 ### § 8-11. Dokumentasjon av leverandørens finansielle og økonomisk stilling
 
-(1) Som bevis på leverandørens finansielle og økonomiske stilling kan følgende referanser godtas:egnede bankerklæringer eller relevant ansvarsforsikring,fremleggelse av foretakets årsregnskap eller utdrag fra det, elleren erklæring om foretakets totale omsetning og, der det er hensiktsmessig, omsetningen innenfor det område som omfattes av kontrakten for høyst de tre siste tilgjengelige regnskapsår, avhengig av datoen da foretaket ble etablert eller leverandøren startet sin virksomhet, i den utstrekning opplysninger om slik omsetning er tilgjengelig.
+(1) Som bevis på leverandørens finansielle og økonomiske stilling kan følgende referanser godtas:
+
+1. egnede bankerklæringer eller relevant ansvarsforsikring,
+2. fremleggelse av foretakets årsregnskap eller utdrag fra det, eller
+3. en erklæring om foretakets totale omsetning og, der det er hensiktsmessig, omsetningen innenfor det område som omfattes av kontrakten for høyst de tre siste tilgjengelige regnskapsår, avhengig av datoen da foretaket ble etablert eller leverandøren startet sin virksomhet, i den utstrekning opplysninger om slik omsetning er tilgjengelig.
 
 (2) En leverandør kan for en særskilt kontrakt, der dette er hensiktsmessig, støtte seg på andre foretaks kapasitet, uavhengig av den juridiske karakteren av forbindelsene mellom dem. I så fall skal leverandøren dokumentere overfor oppdragsgiver at den vil ha rådighet over de nødvendige ressursene, for eksempel ved å fremlegge en forpliktelseserklæring om dette fra disse foretakene.
 
@@ -416,7 +596,28 @@ Oppdragsgiver kan kreve at leverandøren skal opplyse om:hvilken del eller deler
 
 ### § 8-12. Dokumentasjon av leverandørens tekniske eller faglige kvalifikasjoner
 
-(1) Som bevis på leverandørens tekniske eller faglige kvalifikasjoner kan det fremlegges en eller flere av følgende referanser i samsvar med arten, mengden og anvendelsen av de ytelser som skal presteres:for alle kontrakter:en beskrivelse av leverandørens tekniske personell eller tekniske enheter leverandøren disponerer over til oppfyllelse av kontrakten, enten de tilhører foretaket eller ikke, særlig de som er ansvarlig for kvalitetskontrollen,vitnesbyrd og attester om utdanning og faglige kvalifikasjoner hos leverandøren og foretakets administrative ledelse, og særlig hos den eller de personer som har ansvaret for å utføre tjenesten,dokumentasjon på evnen til å behandle og oppbevare gradert informasjon på det graderingsnivå som kreves,oppdragsgiver kan om nødvendig kontrollere leverandørens ressurser for undersøkelse og forskning, og tiltak eller metoder for kvalitetskontroll. Oppdragsgiver kan kontrollere leverandørens produksjonskapasitet og ved vareleveranser de tekniske kvalifikasjonene. Oppdragsgiver kan overlate og utføre kontrollen til et kompetent offentlig organ i den stat leverandøren er etablert,for varekontrakter:prøver, beskrivelser eller fotografier av varer som skal leveres. Ektheten av disse skal kunne attesteres dersom oppdragsgiver ber om det, ogfremleggelse av sertifikater utstedt av godkjente offisielle institutter eller organer for kvalitetskontroll. Sertifikatene skal attestere at varen, som er klart identifisert ved henvisning til visse kvalifikasjoner eller standarder, er i samsvar med disse,for varekontrakter og tjenestekontrakter:liste over de viktigste leveranser eller utførte tjenester de siste fem år, herunder opplysninger om verdi, tidspunkt, samt navnet på den offentlige eller private mottaker. Dersom det gjelder ytelser til offentlige oppdragsgivere, skal det dokumenteres ved attester utstedt eller bekreftet av rette offentlige myndighet. Dersom det gjelder ytelser til private, skal attestene utstedes eller bekreftes av denne. I mangel av dette kan en erklæring fra leverandøren godtas,en beskrivelse av metoder for kvalitetssikring, samt en beskrivelse av leverandørens undersøkelses- og forskningsmuligheter og interne bestemmelser om immaterialrett,oppdragsgiver kan om nødvendig kontrollere leverandørens ressurser for undersøkelse og forskning, og tiltak eller metoder for kvalitetskontroll. Oppdragsgiver kan kontrollere leverandørens produksjonskapasitet og ved vareleveranser de tekniske kvalifikasjonene. Oppdragsgiver kan overlate og utføre kontrollen til et kompetent offentlig organ i den stat leverandøren er etablert,for tjenestekontrakter og bygge- og anleggskontrakter:en redegjørelse for leverandørens gjennomsnittlige arbeidsstyrke og antall medarbeidere i den administrative ledelsen i løpet av de siste tre år,en redegjørelse for verktøy, materiell, teknisk utstyr, fagkunnskap og forsyningskilder som leverandøren disponerer over til gjennomføring av kontrakten. Leverandøren skal angi sin geografiske plassering, dersom plasseringen er utenfor EØS-området. Videre skal det også redegjøres for hvordan leverandøren kan dekke eventuelle tilleggsbehov som følge av en krise eller for å sikre vedlikehold, modernisering eller tilpasning,for bygge- og anleggskontrakter: en oversikt over arbeider som er utført i løpet av de siste fem år, sammen med attester over tilfredsstillende utførelse av de viktigste arbeidene. Attestene skal angi arbeidenes verdi, samt tid og sted for arbeidsutførelsen, og oppgi hvorvidt arbeidene er blitt fagmessig utført og behørig fullført. Rette offentlige myndighet skal om nødvendig oversende attestene direkte til oppdragsgiver.
+(1) Som bevis på leverandørens tekniske eller faglige kvalifikasjoner kan det fremlegges en eller flere av følgende referanser i samsvar med arten, mengden og anvendelsen av de ytelser som skal presteres:
+
+1. for alle kontrakter:
+
+   1. en beskrivelse av leverandørens tekniske personell eller tekniske enheter leverandøren disponerer over til oppfyllelse av kontrakten, enten de tilhører foretaket eller ikke, særlig de som er ansvarlig for kvalitetskontrollen,
+   2. vitnesbyrd og attester om utdanning og faglige kvalifikasjoner hos leverandøren og foretakets administrative ledelse, og særlig hos den eller de personer som har ansvaret for å utføre tjenesten,
+   3. dokumentasjon på evnen til å behandle og oppbevare gradert informasjon på det graderingsnivå som kreves,
+   4. oppdragsgiver kan om nødvendig kontrollere leverandørens ressurser for undersøkelse og forskning, og tiltak eller metoder for kvalitetskontroll. Oppdragsgiver kan kontrollere leverandørens produksjonskapasitet og ved vareleveranser de tekniske kvalifikasjonene. Oppdragsgiver kan overlate og utføre kontrollen til et kompetent offentlig organ i den stat leverandøren er etablert,
+2. for varekontrakter:
+
+   1. prøver, beskrivelser eller fotografier av varer som skal leveres. Ektheten av disse skal kunne attesteres dersom oppdragsgiver ber om det, og
+   2. fremleggelse av sertifikater utstedt av godkjente offisielle institutter eller organer for kvalitetskontroll. Sertifikatene skal attestere at varen, som er klart identifisert ved henvisning til visse kvalifikasjoner eller standarder, er i samsvar med disse,
+3. for varekontrakter og tjenestekontrakter:
+
+   1. liste over de viktigste leveranser eller utførte tjenester de siste fem år, herunder opplysninger om verdi, tidspunkt, samt navnet på den offentlige eller private mottaker. Dersom det gjelder ytelser til offentlige oppdragsgivere, skal det dokumenteres ved attester utstedt eller bekreftet av rette offentlige myndighet. Dersom det gjelder ytelser til private, skal attestene utstedes eller bekreftes av denne. I mangel av dette kan en erklæring fra leverandøren godtas,
+   2. en beskrivelse av metoder for kvalitetssikring, samt en beskrivelse av leverandørens undersøkelses- og forskningsmuligheter og interne bestemmelser om immaterialrett,
+   3. oppdragsgiver kan om nødvendig kontrollere leverandørens ressurser for undersøkelse og forskning, og tiltak eller metoder for kvalitetskontroll. Oppdragsgiver kan kontrollere leverandørens produksjonskapasitet og ved vareleveranser de tekniske kvalifikasjonene. Oppdragsgiver kan overlate og utføre kontrollen til et kompetent offentlig organ i den stat leverandøren er etablert,
+4. for tjenestekontrakter og bygge- og anleggskontrakter:
+
+   1. en redegjørelse for leverandørens gjennomsnittlige arbeidsstyrke og antall medarbeidere i den administrative ledelsen i løpet av de siste tre år,
+   2. en redegjørelse for verktøy, materiell, teknisk utstyr, fagkunnskap og forsyningskilder som leverandøren disponerer over til gjennomføring av kontrakten. Leverandøren skal angi sin geografiske plassering, dersom plasseringen er utenfor EØS-området. Videre skal det også redegjøres for hvordan leverandøren kan dekke eventuelle tilleggsbehov som følge av en krise eller for å sikre vedlikehold, modernisering eller tilpasning,
+5. for bygge- og anleggskontrakter: en oversikt over arbeider som er utført i løpet av de siste fem år, sammen med attester over tilfredsstillende utførelse av de viktigste arbeidene. Attestene skal angi arbeidenes verdi, samt tid og sted for arbeidsutførelsen, og oppgi hvorvidt arbeidene er blitt fagmessig utført og behørig fullført. Rette offentlige myndighet skal om nødvendig oversende attestene direkte til oppdragsgiver.
 
 (2) En leverandør kan for en særskilt kontrakt, der dette er hensiktsmessig, støtte seg på andre foretaks kapasitet, uavhengig av den juridiske karakteren av forbindelsen mellom dem. I så fall skal leverandøren dokumentere overfor oppdragsgiver at den vil ha rådighet over de nødvendige ressursene, for eksempel ved å fremlegge en forpliktelseserklæring om dette fra disse foretakene.
 
@@ -518,7 +719,11 @@ Oppdragsgiver som anser at det foreligger hjemmel for å tildele en kontrakt ute
 
 (2) Oppdragsgiver behøver ikke kunngjøre ved tildeling av kontrakter innenfor rammeavtaler, jf. [§ 6-2](forskrift/2013-10-04-1185/§6-2) og [§ 6-3](forskrift/2013-10-04-1185/§6-3) tredje ledd.
 
-(3) Opplysninger kan unntas fra kunngjøringsplikten dersom:offentliggjøring av opplysninger vil hindre håndhevelse av lover og regler eller på annen måte være i strid med offentlige interesser, da særlig forsvars- eller sikkerhetsinteresser,det er til skade for bestemte offentlige eller private foretaks legitime økonomiske interesser, ellerdet vil kunne skade den lojale konkurranse mellom leverandørene.
+(3) Opplysninger kan unntas fra kunngjøringsplikten dersom:
+
+1. offentliggjøring av opplysninger vil hindre håndhevelse av lover og regler eller på annen måte være i strid med offentlige interesser, da særlig forsvars- eller sikkerhetsinteresser,
+2. det er til skade for bestemte offentlige eller private foretaks legitime økonomiske interesser, eller
+3. det vil kunne skade den lojale konkurranse mellom leverandørene.
 
 ### Kapittel 10. Frister
 
@@ -528,7 +733,11 @@ Oppdragsgiver som anser at det foreligger hjemmel for å tildele en kontrakt ute
 
 (2) Fristen for mottak av tilbud fra de som er kvalifisert og utvalgt til å delta i konkurransen skal være minst 40 dager regnet fra den dag den skriftlige invitasjonen og konkurransegrunnlaget ble sendt fra oppdragsgiver. Ved fastsettelsen av fristen skal det spesielt tas hensyn til kontraktens kompleksitet og tiden det tar å utarbeide tilbud.
 
-(3) Tilbudsfristen i annet ledd skal forlenges forholdsmessig dersom:det foretas rettelse, supplering eller endring av konkurransegrunnlaget som nevnt i [§ 8-2](forskrift/2013-10-04-1185/§8-2),tilbud bare kan utarbeides etter en befaring, ellertilbud bare kan utarbeides etter en gjennomgang på stedet av tilleggsdokumentene til konkurransegrunnlaget.
+(3) Tilbudsfristen i annet ledd skal forlenges forholdsmessig dersom:
+
+1. det foretas rettelse, supplering eller endring av konkurransegrunnlaget som nevnt i [§ 8-2](forskrift/2013-10-04-1185/§8-2),
+2. tilbud bare kan utarbeides etter en befaring, eller
+3. tilbud bare kan utarbeides etter en gjennomgang på stedet av tilleggsdokumentene til konkurransegrunnlaget.
 
 (4) Tilbudsfristen i annet ledd kan forkortes dersom oppdragsgiver har publisert en veiledende kunngjøring i samsvar med [§ 9-2](forskrift/2013-10-04-1185/§9-2) minst 45 dager og høyst tolv måneder forut for kunngjøringen, og den veiledende kunngjøringen inneholdt alle de opplysningene som fremgår av kunngjøringsskjemaene for veiledende kunngjøringer, i den utstrekning disse opplysningene forelå på kunngjøringstidspunktet. Fristen skal være tilstrekkelig lang til at interesserte leverandører kan levere tilbud, og bør generelt være minst 36 dager. Under ingen omstendigheter må tilbudsfristen settes kortere enn 22 dager fra datoen for avsendelse av invitasjonen.
 
@@ -558,7 +767,10 @@ Oppdragsgiver som anser at det foreligger hjemmel for å tildele en kontrakt ute
 
 ### § 10-4. Minimumsfrister i hastetilfeller
 
-(1) Dersom det i hastetilfeller er umulig å anvende fristene i [§ 10-1](forskrift/2013-10-04-1185/§10-1) og [§ 10-2](forskrift/2013-10-04-1185/§10-2), kan oppdragsgiver fastsette følgende frister:minst 10 dager for mottak av forespørsler om å delta i konkurranse eller forhandlingene regnet fra den dag da kunngjøring ble sendt, ellerminst 10 dager for mottak av tilbud regnet fra den dag invitasjonen til å gi tilbud ble sendt.
+(1) Dersom det i hastetilfeller er umulig å anvende fristene i [§ 10-1](forskrift/2013-10-04-1185/§10-1) og [§ 10-2](forskrift/2013-10-04-1185/§10-2), kan oppdragsgiver fastsette følgende frister:
+
+1. minst 10 dager for mottak av forespørsler om å delta i konkurranse eller forhandlingene regnet fra den dag da kunngjøring ble sendt, eller
+2. minst 10 dager for mottak av tilbud regnet fra den dag invitasjonen til å gi tilbud ble sendt.
 
 (2) Forutsatt at forespørsel om tilleggsinformasjon i tilknytning til konkurransegrunnlaget er fremsatt i tilstrekkelig tid før tilbudsfristens utløp, skal tilleggsinformasjonen leveres senest fire dager før tilbudsfristens utløp.
 
@@ -656,9 +868,25 @@ Oppdragsgiver kan fastsette bestemmelser om priser eller betaling til deltagerne
 
 ### § 11-12. Avvisning på grunn av forhold ved leverandøren
 
-(1) Oppdragsgiver skal avvise leverandører som:ikke oppfyller krav som er satt til leverandørenes deltakelse i konkurransen, med forbehold av [§ 12-3](forskrift/2013-10-04-1185/§12-3),har unnlatt å levere skatteattest i samsvar med [§ 8-17](forskrift/2013-10-04-1185/§8-17), med forbehold av [§ 12-3](forskrift/2013-10-04-1185/§12-3),har unnlatt å levere egenerklæring i samsvar med [§ 8-18](forskrift/2013-10-04-1185/§8-18), med forbehold av [§ 12-3](forskrift/2013-10-04-1185/§12-3),har unnlatt å levere forespørsel om deltakelse i begrenset anbudskonkurranse, konkurransepreget dialog og konkurranse med forhandling i samsvar med [kapittel 7](forskrift/2013-10-04-1185/kap7), eller ikke har levert slik forespørsel innen fristen,oppdragsgiver kjenner til er rettskraftig dømt for deltakelse i en kriminell organisasjon eller for korrupsjon, bedrageri, terrorhandlinger eller straffbare handlinger i tilknytning til terrorvirksomhet eller terrorgrupper, hvitvasking av penger eller finansiering av terrorisme, og hvor ikke allmenne hensyn gjør det nødvendig å inngå kontrakt med leverandøren, ellerhar blitt benyttet under utarbeidelsen av spesifikasjoner i strid med [§ 3-5](forskrift/2013-10-04-1185/§3-5).
+(1) Oppdragsgiver skal avvise leverandører som:
 
-(2) Oppdragsgiver kan avvise leverandører som:er konkurs, under gjeldsforhandling eller avvikling, har innstilt sin virksomhet eller befinner seg i en tilsvarende prosess med hjemmel i nasjonale lover og forskrifter,er begjært konkurs, har begjært åpning av gjeldsforhandling eller tvangsoppløsning eller annen lignende prosess med hjemmel i nasjonale lover og forskrifter,ved en rettskraftig dom er kjent skyldig i straffbare forhold som angår den yrkesmessige vandel, som for eksempel overtredelse av [lov 18. desember 1987 nr. 93](lov/1987-12-18-93) om kontroll med eksport av strategiske varer, tjenester og teknologi mv.,i sitt yrke har gjort seg skyldig i alvorlige forsømmelser mot faglige og etiske krav i vedkommende bransje, som for eksempel mislighold av forpliktelser vedrørende beskyttelse av gradert informasjon eller forsyningssikkerheten, relasjon til en tidligere kontrakt,ikke har oppfylt sine forpliktelser vedrørende innbetaling av trygdeavgifter i samsvar med lovbestemmelser i den stat hvor han er etablert, eller i Norge,ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter i samsvar med lovbestemmelser i den stat hvor han er etablert, eller i Norge,har gitt grovt misvisende eller feilaktige opplysninger eller unnlatt å gi opplysninger i henhold til det som kreves etter denne paragraf eller krav til leverandøren, ellerikke vurderes å ha den påliteligheten som trengs for å utelukke en sikkerhetsrisiko for Norge.
+1. ikke oppfyller krav som er satt til leverandørenes deltakelse i konkurransen, med forbehold av [§ 12-3](forskrift/2013-10-04-1185/§12-3),
+2. har unnlatt å levere skatteattest i samsvar med [§ 8-17](forskrift/2013-10-04-1185/§8-17), med forbehold av [§ 12-3](forskrift/2013-10-04-1185/§12-3),
+3. har unnlatt å levere egenerklæring i samsvar med [§ 8-18](forskrift/2013-10-04-1185/§8-18), med forbehold av [§ 12-3](forskrift/2013-10-04-1185/§12-3),
+4. har unnlatt å levere forespørsel om deltakelse i begrenset anbudskonkurranse, konkurransepreget dialog og konkurranse med forhandling i samsvar med [kapittel 7](forskrift/2013-10-04-1185/kap7), eller ikke har levert slik forespørsel innen fristen,
+5. oppdragsgiver kjenner til er rettskraftig dømt for deltakelse i en kriminell organisasjon eller for korrupsjon, bedrageri, terrorhandlinger eller straffbare handlinger i tilknytning til terrorvirksomhet eller terrorgrupper, hvitvasking av penger eller finansiering av terrorisme, og hvor ikke allmenne hensyn gjør det nødvendig å inngå kontrakt med leverandøren, eller
+6. har blitt benyttet under utarbeidelsen av spesifikasjoner i strid med [§ 3-5](forskrift/2013-10-04-1185/§3-5).
+
+(2) Oppdragsgiver kan avvise leverandører som:
+
+1. er konkurs, under gjeldsforhandling eller avvikling, har innstilt sin virksomhet eller befinner seg i en tilsvarende prosess med hjemmel i nasjonale lover og forskrifter,
+2. er begjært konkurs, har begjært åpning av gjeldsforhandling eller tvangsoppløsning eller annen lignende prosess med hjemmel i nasjonale lover og forskrifter,
+3. ved en rettskraftig dom er kjent skyldig i straffbare forhold som angår den yrkesmessige vandel, som for eksempel overtredelse av [lov 18. desember 1987 nr. 93](lov/1987-12-18-93) om kontroll med eksport av strategiske varer, tjenester og teknologi mv.,
+4. i sitt yrke har gjort seg skyldig i alvorlige forsømmelser mot faglige og etiske krav i vedkommende bransje, som for eksempel mislighold av forpliktelser vedrørende beskyttelse av gradert informasjon eller forsyningssikkerheten, relasjon til en tidligere kontrakt,
+5. ikke har oppfylt sine forpliktelser vedrørende innbetaling av trygdeavgifter i samsvar med lovbestemmelser i den stat hvor han er etablert, eller i Norge,
+6. ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter i samsvar med lovbestemmelser i den stat hvor han er etablert, eller i Norge,
+7. har gitt grovt misvisende eller feilaktige opplysninger eller unnlatt å gi opplysninger i henhold til det som kreves etter denne paragraf eller krav til leverandøren, eller
+8. ikke vurderes å ha den påliteligheten som trengs for å utelukke en sikkerhetsrisiko for Norge.
 
 (3) Når oppdragsgiver krever bevis for at leverandøren ikke omfattes av første og annet ledd, skal utdrag fra strafferegister eller konkursregister godtas som tilstrekkelig bevis for første ledd bokstav e og annet ledd bokstav a, b eller c. I mangel av slikt utdrag skal et tilsvarende dokument som viser at kravene er tilfredsstilt, utstedt av en retts- eller forvaltningsmyndighet i leverandørens hjemstat eller oppholdsstat, aksepteres. For annet ledd bokstav e og f skal det anses tilstrekkelig med attest utstedt av vedkommende myndighet i leverandørens hjemstat. Når leverandørens hjemstat ikke utsteder slike dokumenter eller attester, kan de erstattes av en erklæring avgitt under ed eller forsikring av den aktuelle personen overfor en retts- eller forvaltningsmyndighet, en notarius publicus eller annen kompetent myndighet i hjemstaten eller nåværende oppholdsstat.
 
@@ -666,9 +894,21 @@ Oppdragsgiver kan fastsette bestemmelser om priser eller betaling til deltagerne
 
 ### § 11-13. Avvisning på grunn av forhold ved tilbudet
 
-(1) Et tilbud skal avvises når:det ikke er levert innen den fastsatte tilbudsfristen,det ikke tilfredsstiller kravene til tilbudets utforming, jf. [§ 7-1](forskrift/2013-10-04-1185/§7-1), [§ 7-2](forskrift/2013-10-04-1185/§7-2), [§ 7-3](forskrift/2013-10-04-1185/§7-3) første ledd bokstav b–g og [§ 11-2](forskrift/2013-10-04-1185/§11-2) første ledd,det er et alternativt tilbud avgitt i strid med [§ 11-4](forskrift/2013-10-04-1185/§11-4). Oppdragsgiver kan ikke avvise et alternativt tilbud utelukkende med den begrunnelse at kontrakten vil endre karakter fra en tjenestekontrakt til en varekontrakt, eller omvendt,det inneholder vesentlige forbehold mot kontraktsvilkårene,det inneholder vesentlige avvik fra kravspesifikasjonene i kunngjøringen eller konkurransegrunnlaget, ellerdet på grunn av avvik, forbehold, feil, ufullstendigheter, uklarheter eller lignende i en anbudskonkurranse kan medføre tvil om hvordan tilbudet skal bedømmes i forhold til de øvrige tilbudene.
+(1) Et tilbud skal avvises når:
 
-(2) Et tilbud kan avvises når:tilbudet, etter forsøk på avklaring etter [§ 12-1](forskrift/2013-10-04-1185/§12-1), inneholder avvik, forbehold, feil, ufullstendigheter, uklarheter eller lignende som ikke må anses ubetydelige,det på grunn av avvik, forbehold, feil, ufullstendigheter, uklarheter eller lignende i en konkurranse med forhandling kan medføre tvil om hvordan tilbudet skal bedømmes i forhold til de øvrige tilbudene,tilbudet virker unormalt lavt i forhold til ytelsen, jf. [§ 11-14](forskrift/2013-10-04-1185/§11-14), ellertilbudet ikke er signert, jf. [§ 11-2](forskrift/2013-10-04-1185/§11-2) annet ledd, eller på grunn av andre forbehold ikke kan anses bindende. Tilsvarende avvisningsrett gjelder når et tilbuds elektroniske signatur ikke oppfyller kravene i [§ 7-3](forskrift/2013-10-04-1185/§7-3) første ledd bokstav a.
+1. det ikke er levert innen den fastsatte tilbudsfristen,
+2. det ikke tilfredsstiller kravene til tilbudets utforming, jf. [§ 7-1](forskrift/2013-10-04-1185/§7-1), [§ 7-2](forskrift/2013-10-04-1185/§7-2), [§ 7-3](forskrift/2013-10-04-1185/§7-3) første ledd bokstav b–g og [§ 11-2](forskrift/2013-10-04-1185/§11-2) første ledd,
+3. det er et alternativt tilbud avgitt i strid med [§ 11-4](forskrift/2013-10-04-1185/§11-4). Oppdragsgiver kan ikke avvise et alternativt tilbud utelukkende med den begrunnelse at kontrakten vil endre karakter fra en tjenestekontrakt til en varekontrakt, eller omvendt,
+4. det inneholder vesentlige forbehold mot kontraktsvilkårene,
+5. det inneholder vesentlige avvik fra kravspesifikasjonene i kunngjøringen eller konkurransegrunnlaget, eller
+6. det på grunn av avvik, forbehold, feil, ufullstendigheter, uklarheter eller lignende i en anbudskonkurranse kan medføre tvil om hvordan tilbudet skal bedømmes i forhold til de øvrige tilbudene.
+
+(2) Et tilbud kan avvises når:
+
+1. tilbudet, etter forsøk på avklaring etter [§ 12-1](forskrift/2013-10-04-1185/§12-1), inneholder avvik, forbehold, feil, ufullstendigheter, uklarheter eller lignende som ikke må anses ubetydelige,
+2. det på grunn av avvik, forbehold, feil, ufullstendigheter, uklarheter eller lignende i en konkurranse med forhandling kan medføre tvil om hvordan tilbudet skal bedømmes i forhold til de øvrige tilbudene,
+3. tilbudet virker unormalt lavt i forhold til ytelsen, jf. [§ 11-14](forskrift/2013-10-04-1185/§11-14), eller
+4. tilbudet ikke er signert, jf. [§ 11-2](forskrift/2013-10-04-1185/§11-2) annet ledd, eller på grunn av andre forbehold ikke kan anses bindende. Tilsvarende avvisningsrett gjelder når et tilbuds elektroniske signatur ikke oppfyller kravene i [§ 7-3](forskrift/2013-10-04-1185/§7-3) første ledd bokstav a.
 
 ### § 11-14. Avvisning av unormalt lave tilbud
 
@@ -690,13 +930,21 @@ Oppdragsgiver kan fastsette bestemmelser om priser eller betaling til deltagerne
 
 (1) Oppdragsgiver skal i samsvar med [§ 13-3](forskrift/2013-10-04-1185/§13-3) annet ledd gi berørte leverandører en begrunnelse for tildeling av kontrakt eller rammeavtale. Oppdragsgiver skal i begrunnelsen opplyse navnet på den som fikk kontrakten eller rammeavtalen og gi en redegjørelse for det valgte tilbudets egenskaper og relative fordeler i samsvar med angitte tildelingskriterier.
 
-(2) Oppdragsgiver skal snarest mulig gi skriftlig melding med en kort begrunnelse dersom:en forespørsel om å delta i konkurransen blir avvist, jf. [§ 11-12](forskrift/2013-10-04-1185/§11-12),en forespørsel om å delta i konkurransen blir forkastet der oppdragsgiver har satt en grense for antall deltakere, jf. [§ 8-6](forskrift/2013-10-04-1185/§8-6),et tilbud blir avvist, jf. [§ 11-13](forskrift/2013-10-04-1185/§11-13), ellerkonkurransen avlyses, jf. [§ 13-1](forskrift/2013-10-04-1185/§13-1).
+(2) Oppdragsgiver skal snarest mulig gi skriftlig melding med en kort begrunnelse dersom:
+
+1. en forespørsel om å delta i konkurransen blir avvist, jf. [§ 11-12](forskrift/2013-10-04-1185/§11-12),
+2. en forespørsel om å delta i konkurransen blir forkastet der oppdragsgiver har satt en grense for antall deltakere, jf. [§ 8-6](forskrift/2013-10-04-1185/§8-6),
+3. et tilbud blir avvist, jf. [§ 11-13](forskrift/2013-10-04-1185/§11-13), eller
+4. konkurransen avlyses, jf. [§ 13-1](forskrift/2013-10-04-1185/§13-1).
 
 (3) Melding etter annet ledd bokstav d skal gis samtidig til alle deltakerne.
 
 (4) Ved avvisning av tilbud i tilfellene som nevnt i [§ 8-3](forskrift/2013-10-04-1185/§8-3) fjerde og femte ledd, skal begrunnelsen redegjøre for hvorfor kravene ikke anses oppfylt på tilsvarende måte, eller hvorfor man har besluttet at vare, tjeneste, eller bygge- og anleggskontrakten ikke oppfyller kravene til ytelse eller funksjon. Ved avvisning av tilbud med henvisning til at de ikke tilfredsstiller krav til oppbevaring av graderte opplysninger eller krav til forsyningssikkerhet, skal begrunnelsen redegjøre for hvorfor kravene ikke anses oppfylt.
 
-(5) Dersom utlevering av opplysninger:vil hindre håndhevelse av lover og regler eller på annen måte være i strid med offentlige interesser, da særlig forsvars- eller sikkerhetsinteresser, ellervil skade bestemte offentlige eller private foretaks legitime økonomiske interesser, eller vil kunne skade den lojale konkurranse mellom leverandørene, kan oppdragsgiver beslutte at opplysninger holdes tilbake.
+(5) Dersom utlevering av opplysninger:
+
+1. vil hindre håndhevelse av lover og regler eller på annen måte være i strid med offentlige interesser, da særlig forsvars- eller sikkerhetsinteresser, eller
+2. vil skade bestemte offentlige eller private foretaks legitime økonomiske interesser, eller vil kunne skade den lojale konkurranse mellom leverandørene, kan oppdragsgiver beslutte at opplysninger holdes tilbake.
 
 (6) Avviser en oppdragsgiver en underleverandør, skal tilbudsgiveren eller utvalgte leverandør gis en skriftlig begrunnelse. Begrunnelsen skal inneholde årsaken til at underleverandøren ikke oppfylte vilkårene.
 
@@ -706,7 +954,11 @@ Oppdragsgiver kan fastsette bestemmelser om priser eller betaling til deltagerne
 
 (1) Ved begrenset anbudskonkurranse er det ikke tillatt å endre tilbudene eller forsøke å endre tilbudene gjennom forhandlinger. Det er herunder ikke tillatt å endre pris, leveringstid eller andre forutsetninger som har betydning for konkurranseforholdet.
 
-(2) Det er adgang til følgende avklaringer av tilbudene:oppdragsgiver kan innhente nærmere opplysninger hos leverandørene for å få klarlagt uklarheter og ufullstendigheter i tilbudene. Avklaring skal unnlates dersom uklarhetene og ufullstendighetene er slike at tilbudene skal avvises i henhold til [§ 11-13](forskrift/2013-10-04-1185/§11-13),når det gjelder løsninger, arbeidsmetoder eller materialer som leverandøren selv foreslår, kan oppdragsgiver be leverandøren foreta utdypninger og klargjøringer om hvordan kravene i konkurransegrunnlaget vil bli ivaretatt, ellerdersom det av tekniske eller funksjonelle grunner er nødvendig, kan det gjøres mindre justeringer i de løsninger leverandøren har fremsatt.
+(2) Det er adgang til følgende avklaringer av tilbudene:
+
+1. oppdragsgiver kan innhente nærmere opplysninger hos leverandørene for å få klarlagt uklarheter og ufullstendigheter i tilbudene. Avklaring skal unnlates dersom uklarhetene og ufullstendighetene er slike at tilbudene skal avvises i henhold til [§ 11-13](forskrift/2013-10-04-1185/§11-13),
+2. når det gjelder løsninger, arbeidsmetoder eller materialer som leverandøren selv foreslår, kan oppdragsgiver be leverandøren foreta utdypninger og klargjøringer om hvordan kravene i konkurransegrunnlaget vil bli ivaretatt, eller
+3. dersom det av tekniske eller funksjonelle grunner er nødvendig, kan det gjøres mindre justeringer i de løsninger leverandøren har fremsatt.
 
 (3) Dersom oppdragsgiver blir oppmerksom på åpenbare feil i tilbudet, skal disse rettes dersom det er utvilsomt hvordan feilen skal rettes. Andre åpenbare feil vurderes etter regelen i [§ 11-13](forskrift/2013-10-04-1185/§11-13).
 
@@ -748,7 +1000,11 @@ Oppdragsgiver kan anmode om at fremlagte attester og dokumenter vedrørende krav
 
 (3) Oppdragsgiver kan tidligst inngå kontrakt eller rammeavtale etter utløpet av den karensperioden oppdragsgiver har fastsatt. Karensperioden skal være minst 10 dager dersom meddelelsen sendes elektronisk eller over telefaks, eller minst 15 dager dersom den sendes med et annet kommunikasjonsmiddel. Fristen regnes fra dagen etter meddelelsen er sendt.
 
-(4) Kravet om karensperiode gjelder ikke:når det ikke er krav om forutgående kunngjøring,når leverandøren som får tildelt kontrakten eller rammeavtalen er den eneste berørte leverandøren, ellerved tildeling av kontrakter innenfor en rammeavtale, jf. [§ 6-2](forskrift/2013-10-04-1185/§6-2) og [§ 6-3](forskrift/2013-10-04-1185/§6-3).
+(4) Kravet om karensperiode gjelder ikke:
+
+1. når det ikke er krav om forutgående kunngjøring,
+2. når leverandøren som får tildelt kontrakten eller rammeavtalen er den eneste berørte leverandøren, eller
+3. ved tildeling av kontrakter innenfor en rammeavtale, jf. [§ 6-2](forskrift/2013-10-04-1185/§6-2) og [§ 6-3](forskrift/2013-10-04-1185/§6-3).
 
 (5) Dersom oppdragsgiver finner at beslutningen om å tildele kontrakt ikke er i samsvar med [§ 13-2](forskrift/2013-10-04-1185/§13-2) kan beslutningen annulleres frem til kontrakt er inngått.
 
@@ -756,7 +1012,10 @@ Oppdragsgiver kan anmode om at fremlagte attester og dokumenter vedrørende krav
 
 ### § 13-4. Suspensjon av oppdragsgivers adgang til å inngå kontrakt
 
-(1) Ved begjæring om midlertidig forføyning etter oppdragsgivers beslutning om kontraktstildeling, suspenderes oppdragsgivers adgang til å inngå kontrakt når:oppdragsgiver har fastsatt en karensperiode etter [§ 13-3](forskrift/2013-10-04-1185/§13-3) tredje ledd, og begjæringen er fremsatt innen utløpet av karensperioden, elleroppdragsgiver har kunngjort i tråd med 9-4, og begjæringen er fremsatt innen ti dager etter kunngjøringen.
+(1) Ved begjæring om midlertidig forføyning etter oppdragsgivers beslutning om kontraktstildeling, suspenderes oppdragsgivers adgang til å inngå kontrakt når:
+
+1. oppdragsgiver har fastsatt en karensperiode etter [§ 13-3](forskrift/2013-10-04-1185/§13-3) tredje ledd, og begjæringen er fremsatt innen utløpet av karensperioden, eller
+2. oppdragsgiver har kunngjort i tråd med 9-4, og begjæringen er fremsatt innen ti dager etter kunngjøringen.
 
 (2) Saksøkte informeres om suspensjonsvirkningen ved forkynnelsen.
 
@@ -772,11 +1031,21 @@ Oppdragsgiver kan anmode om at fremlagte attester og dokumenter vedrørende krav
 
 (2) En elektronisk auksjon kan avholdes på samme vilkår ved gjenåpning av konkurransen blant partene i en rammeavtale, slik det er gitt mulighet for i [§ 6-3](forskrift/2013-10-04-1185/§6-3) tredje ledd.
 
-(3) Den elektroniske auksjonen skal baseres:enten utelukkende på pris, dersom kontrakten tildeles til laveste pris, ellerpå priser eller verdien av de elementene i tilbudet som er angitt i konkurransegrunnlaget, dersom kontrakten tildeles det økonomisk mest fordelaktige tilbudet.
+(3) Den elektroniske auksjonen skal baseres:
+
+1. enten utelukkende på pris, dersom kontrakten tildeles til laveste pris, eller
+2. på priser eller verdien av de elementene i tilbudet som er angitt i konkurransegrunnlaget, dersom kontrakten tildeles det økonomisk mest fordelaktige tilbudet.
 
 (4) Oppdragsgiver som beslutter å avholde elektronisk auksjon, skal angi dette i kunngjøringen.
 
-(5) Konkurransegrunnlaget skal blant annet inneholde følgende opplysninger:elementer hvis verdier er gjenstand for elektronisk auksjon, forutsatt at elementene kan kvantifiseres og uttrykkes i tall eller prosentdeler,eventuelle begrensninger på verdiene som kan fremlegges, slik de fremgår av spesifikasjonene for kontraktens gjenstand,opplysningene som vil bli stilt til rådighet for tilbydere under den elektroniske auksjonen, og eventuelt når de vil bli stilt til rådighet for dem,relevante opplysninger vedrørende den elektroniske auksjonsprosessen,vilkår for leverandørenes budgivning, særlig minste forskjeller som eventuelt kreves mellom budene, ogrelevante opplysninger om det elektroniske utstyret som brukes, og virkemåte og tekniske spesifikasjoner for tilkoplingen.
+(5) Konkurransegrunnlaget skal blant annet inneholde følgende opplysninger:
+
+1. elementer hvis verdier er gjenstand for elektronisk auksjon, forutsatt at elementene kan kvantifiseres og uttrykkes i tall eller prosentdeler,
+2. eventuelle begrensninger på verdiene som kan fremlegges, slik de fremgår av spesifikasjonene for kontraktens gjenstand,
+3. opplysningene som vil bli stilt til rådighet for tilbydere under den elektroniske auksjonen, og eventuelt når de vil bli stilt til rådighet for dem,
+4. relevante opplysninger vedrørende den elektroniske auksjonsprosessen,
+5. vilkår for leverandørenes budgivning, særlig minste forskjeller som eventuelt kreves mellom budene, og
+6. relevante opplysninger om det elektroniske utstyret som brukes, og virkemåte og tekniske spesifikasjoner for tilkoplingen.
 
 (6) Før oppdragsgiver avholder den elektroniske auksjonen, skal det foretas en første fullstendig vurdering av tilbudene i samsvar med tildelingskriteriene som er fastsatt, og vektingen av dem. Alle tilbydere som har levert gyldige tilbud, inviteres samtidig elektronisk til å fremlegge nye priser eller nye verdier. Innbydelsen skal inneholde alle relevante opplysninger for individuell tilkopling til den benyttede elektroniske løsningen, og skal presisere dato og klokkeslett for når den elektroniske auksjonen begynner. Den elektroniske auksjonen kan gjennomføres i flere påfølgende faser. Den elektroniske auksjonen kan ikke starte før tidligst to virkedager etter datoen da innbydelsene ble sendt ut.
 
@@ -784,7 +1053,13 @@ Oppdragsgiver kan anmode om at fremlagte attester og dokumenter vedrørende krav
 
 (8) I hver fase av en elektronisk auksjon skal oppdragsgiver umiddelbart gi alle tilbydere tilstrekkelig informasjon til at de til enhver tid kan fastslå sine respektive rangeringer. De kan også gi andre opplysninger vedrørende fremlagte priser eller verdier, forutsatt at dette er angitt i konkurransegrunnlaget. Det kan også når som helst opplyses om antall deltakere i den aktuelle fasen av auksjonen. Tilbydernes identitet skal imidlertid under ingen omstendighet røpes under noen fase av en elektronisk auksjon.
 
-(9) Oppdragsgiver skal lukke en elektronisk auksjon på én eller flere av følgende måter:ved den dato og det klokkeslett som er fastsatt på forhånd i innbydelsen til å delta i auksjonen,når de ikke mottar noen nye priser eller verdier som oppfyller kravene til minstedifferanser. I så fall skal oppdragsgiver angi i innbydelsen til å delta i auksjonen den fristen som gis fra mottak av siste innleverte bud til lukking av den elektroniske auksjonen, ellernår antallet auksjonsfaser fastsatt i innbydelsen til å delta er gjennomført.Dersom oppdragsgiver har besluttet å lukke en elektronisk auksjon i samsvar med bokstav c, eventuelt i kombinasjon med ordningen fastsatt i bokstav b, skal innbydelsen til å delta i auksjonen angi en tidsplan for hver fase i auksjonen.
+(9) Oppdragsgiver skal lukke en elektronisk auksjon på én eller flere av følgende måter:
+
+1. ved den dato og det klokkeslett som er fastsatt på forhånd i innbydelsen til å delta i auksjonen,
+2. når de ikke mottar noen nye priser eller verdier som oppfyller kravene til minstedifferanser. I så fall skal oppdragsgiver angi i innbydelsen til å delta i auksjonen den fristen som gis fra mottak av siste innleverte bud til lukking av den elektroniske auksjonen, eller
+3. når antallet auksjonsfaser fastsatt i innbydelsen til å delta er gjennomført.
+
+Dersom oppdragsgiver har besluttet å lukke en elektronisk auksjon i samsvar med bokstav c, eventuelt i kombinasjon med ordningen fastsatt i bokstav b, skal innbydelsen til å delta i auksjonen angi en tidsplan for hver fase i auksjonen.
 
 (10) Etter lukkingen av den elektroniske auksjonen tildeler oppdragsgiver kontrakten i samsvar med [§ 13-2](forskrift/2013-10-04-1185/§13-2) på grunnlag av resultatene av den elektroniske auksjonen.
 
@@ -796,7 +1071,11 @@ Oppdragsgiver kan anmode om at fremlagte attester og dokumenter vedrørende krav
 
 ### § 14-1. Søksmål om å kjenne kontrakt uten virkning
 
-(1) Retten skal kjenne en kontrakt uten virkning når oppdragsgiver har:foretatt en ulovlig direkte anskaffelse,tildelt en kontrakt innenfor en rammeavtale med flere leverandører i strid med [§ 6-3](forskrift/2013-10-04-1185/§6-3) tredje ledd og kontrakten overstiger terskelverdiene angitt i [§ 2-2](forskrift/2013-10-04-1185/§2-2), ellerforetatt andre brudd på denne forskriften som har påvirket leverandørens mulighet til å få kontrakten, og samtidig brutt [§§ 13-3](forskrift/2013-10-04-1185/§13-3) eller inngått kontrakt i strid med [13-4](forskrift/2013-10-04-1185/§13-4) og dette har fratatt leverandøren mulighet til å iverksette rettslige skritt forut for kontraktsinngåelse.
+(1) Retten skal kjenne en kontrakt uten virkning når oppdragsgiver har:
+
+1. foretatt en ulovlig direkte anskaffelse,
+2. tildelt en kontrakt innenfor en rammeavtale med flere leverandører i strid med [§ 6-3](forskrift/2013-10-04-1185/§6-3) tredje ledd og kontrakten overstiger terskelverdiene angitt i [§ 2-2](forskrift/2013-10-04-1185/§2-2), eller
+3. foretatt andre brudd på denne forskriften som har påvirket leverandørens mulighet til å få kontrakten, og samtidig brutt [§§ 13-3](forskrift/2013-10-04-1185/§13-3) eller inngått kontrakt i strid med [13-4](forskrift/2013-10-04-1185/§13-4) og dette har fratatt leverandøren mulighet til å iverksette rettslige skritt forut for kontraktsinngåelse.
 
 (2) Ved en ulovlig direkte anskaffelse kan retten likevel ikke kjenne en kontrakt uten virkning når oppdragsgiver har kunngjort i tråd med [§ 9-4](forskrift/2013-10-04-1185/§9-4) og tidligst inngått kontrakten etter utløpet av ti dager regnet fra dagen etter datoen for kunngjøringen.
 
@@ -808,7 +1087,10 @@ Oppdragsgiver kan anmode om at fremlagte attester og dokumenter vedrørende krav
 
 ### § 14-2. Søksmål om å avkorte kontrakt eller om å idømme oppdragsgiver overtredelsesgebyr
 
-(1) Retten skal avkorte kontraktens løpetid eller ilegge oppdragsgiver et overtredelsesgebyr når:retten unnlater å kjenne en kontrakt uten virkning etter [§ 14-1](forskrift/2013-10-04-1185/§14-1) fjerde ledd, ogoppdragsgiver har foretatt brudd på [§ 13-3](forskrift/2013-10-04-1185/§13-3) eller inngått kontrakt i strid med [§ 13-4](forskrift/2013-10-04-1185/§13-4) i andre tilfeller enn de som er omfattet av [§ 14-1](forskrift/2013-10-04-1185/§14-1).
+(1) Retten skal avkorte kontraktens løpetid eller ilegge oppdragsgiver et overtredelsesgebyr når:
+
+1. retten unnlater å kjenne en kontrakt uten virkning etter [§ 14-1](forskrift/2013-10-04-1185/§14-1) fjerde ledd, og
+2. oppdragsgiver har foretatt brudd på [§ 13-3](forskrift/2013-10-04-1185/§13-3) eller inngått kontrakt i strid med [§ 13-4](forskrift/2013-10-04-1185/§13-4) i andre tilfeller enn de som er omfattet av [§ 14-1](forskrift/2013-10-04-1185/§14-1).
 
 (2) Retten skal idømme oppdragsgiver et overtredelsesgebyr når kontrakten kjennes uten virkning for fremtidig oppfyllelse etter [§ 14-1](forskrift/2013-10-04-1185/§14-1).
 

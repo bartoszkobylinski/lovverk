@@ -32,11 +32,19 @@ Når perioden med tilpasset innføring er avsluttet, skal den opplysningspliktig
 
 Opplysningspliktige som bruker et lønnssystem, kan innvilges tilpasset innføring.
 
-Tilpasset innføring er ment for virksomheter hvor det vil være uforholdsmessig byrdefullt å oppfylle opplysningsplikten etter reglene i a-opplysningsloven fra iverksettelse av ordningen. I vurderingen av om tilpasset innføring skal innvilges kan det legges vekt på følgende:virksomhetens kompleksitet, herunder f.eks. om virksomheten har flere forretningsområder, geografisk spredning og ulike lønnsordninger,den tid og kompetanse virksomheten har til rådighet for utvikling av nødvendige tilpasninger i system eller organisasjon,om virksomheten har skatterestanser.
+Tilpasset innføring er ment for virksomheter hvor det vil være uforholdsmessig byrdefullt å oppfylle opplysningsplikten etter reglene i a-opplysningsloven fra iverksettelse av ordningen. I vurderingen av om tilpasset innføring skal innvilges kan det legges vekt på følgende:
+
+- virksomhetens kompleksitet, herunder f.eks. om virksomheten har flere forretningsområder, geografisk spredning og ulike lønnsordninger,
+- den tid og kompetanse virksomheten har til rådighet for utvikling av nødvendige tilpasninger i system eller organisasjon,
+- om virksomheten har skatterestanser.
 
 ## § 3.
 
-Skattedirektoratet kan oppstille nærmere vilkår før tilpasset innføring innvilges, herunder vilkår om:dialog med systemleverandør,rapportering av arbeidet med tilrettelegging for rapportering etter a-opplysningsloven,gjennomføring av tester før ordinær rapportering igangsettes.
+Skattedirektoratet kan oppstille nærmere vilkår før tilpasset innføring innvilges, herunder vilkår om:
+
+- dialog med systemleverandør,
+- rapportering av arbeidet med tilrettelegging for rapportering etter a-opplysningsloven,
+- gjennomføring av tester før ordinær rapportering igangsettes.
 
 ## § 4.
 
@@ -46,11 +54,20 @@ Den som er trekkpliktig etter [skattebetalingsloven § 5-4](lov/2005-06-17-67/§
 
 Den som er innvilget tilpasset innføring, skal gi opplysninger om arbeidsforhold til Arbeidsgiver- og arbeidstakerregisteret etter [folketrygdloven § 25-1](lov/1997-02-28-19/§25-1).
 
-Det skal gis opplysninger om:inntak av en arbeidstaker i tjeneste dersom arbeidsforholdet skal vare i minst sju dager og det trolig vil innebære gjennomsnittlig minst fire timers arbeid per uke,arbeidstaker som gjenopptar arbeid etter endt permisjon/permittering,ansettelse av arbeidstaker til sjøs på fartøy eller flyttbar innretning, inkludert hvilket skipsregister fartøyet eller innretningen er registrert i (NOR, NIS eller utenlandsk register), og hvilken type fart fartøyet går i (innenriks-, utenriksfart, turistskip eller oljeboring).
+Det skal gis opplysninger om:
+
+- inntak av en arbeidstaker i tjeneste dersom arbeidsforholdet skal vare i minst sju dager og det trolig vil innebære gjennomsnittlig minst fire timers arbeid per uke,
+- arbeidstaker som gjenopptar arbeid etter endt permisjon/permittering,
+- ansettelse av arbeidstaker til sjøs på fartøy eller flyttbar innretning, inkludert hvilket skipsregister fartøyet eller innretningen er registrert i (NOR, NIS eller utenlandsk register), og hvilken type fart fartøyet går i (innenriks-, utenriksfart, turistskip eller oljeboring).
 
 Arbeidsforhold anses å ta til den første dag arbeidstakeren har rett eller plikt til å utføre arbeid.
 
-Det skal videre sendes melding om opphør når:arbeidsforholdet opphører, eller ved permisjoner/permitteringer med eller uten lønn utover 14 dager,gjennomsnittlig arbeidstid per uke i et sammenhengende tidsrom på minst to uker er lavere enn 4 timer per uke,arbeidstakeren har vært sammenhengende sykmeldt i 12 måneder,arbeidstaker overføres til arbeid som ikke omfattes av forskriften her.
+Det skal videre sendes melding om opphør når:
+
+- arbeidsforholdet opphører, eller ved permisjoner/permitteringer med eller uten lønn utover 14 dager,
+- gjennomsnittlig arbeidstid per uke i et sammenhengende tidsrom på minst to uker er lavere enn 4 timer per uke,
+- arbeidstakeren har vært sammenhengende sykmeldt i 12 måneder,
+- arbeidstaker overføres til arbeid som ikke omfattes av forskriften her.
 
 Opphørsmelding skal ikke sendes ved permisjoner/permitteringer der den permitterte har tillitsverv med lønn fra arbeidsgiveren i permisjonstiden. Det skal heller ikke meldes fra dersom arbeidstakeren er inne til repetisjonsøvelse i forsvaret.
 

@@ -48,7 +48,28 @@ Forskriften gjelder i tillegg til forordning [(EF) nr. 1/2005](eu/32005r0001*) o
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Akvakulturanlegg:* Enhver lokalitet, fysisk avgrenset område eller installasjon som drives av et akvakulturforetak der akvakulturdyr oppdrettes, med unntak av de lokaliteter, områder eller installasjoner der ville akvatiske dyr høstet eller fanget med tanke på konsum, holdes midlertidig uten å fôres i påvente av å bli slaktet. Med akvakulturforetak menes her ethvert privat eller offentlig foretak, ideelt eller ikke, som utøver en hvilken som helst virksomhet i forbindelse med oppdrett, hold eller dyrking av akvakulturdyr.*Akvakulturdyr:* Alle livsstadier inklusive kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg eller et akvakulturområde for bløtdyr, inkludert alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg eller et akvakulturområde for bløtdyr.*Akvariedyr:* Alle akvatiske dyr som holdes, oppdrettes eller omsettes utelukkende for prydformål.*Akvatiske dyr:*kjeveløse fisk (urfisk) som tilhører overklassen *Agnatha*, bruskfisk og beinfisk som tilhører klassene *Chondrichthyes* og *Osteichthyes*bløtdyr som tilhører rekken *Mollusca*krepsdyr som tilhører underrekken *Crustacea*.*Lang reise:* En reise som varer i mer enn 8 timer og som begynner når det første akvakulturdyret i lasten flyttes.*Matfisk:* Fisk som produseres med sikte på slakting til konsum og som ikke kommer inn under definisjonene av settefisk eller stamfisk.*PD-sonen:* PD-sonen slik definert i [forskrift 29. august 2017 nr. 1318](forskrift/2017-08-29-1318) om tiltak for å forebygge, begrense og bekjempe pankreassykdom hos akvakulturdyr.*Settefisk:* Rogn, yngel, parr, smolt eller tilsvarende livsstadier som produseres med sikte på overføring til andre lokaliteter eller annen type produksjon.*Stamfisk:* Fisk som skal strykes eller reproduseres på annen måte.*Transport:* Enhver flytting av akvakulturdyr som foretas ved hjelp av ett eller flere transportmidler, og tilknyttede aktiviteter, herunder lasting, avlessing, omlasting og hvile, inntil avlessingen av akvakulturdyrene på bestemmelsesstedet er fullført.*Transportenhet:* Transportutstyr og transportmiddel.*Transportforordningen:* Rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) av 22. desember 2004 om vern av dyr under transport og tilknyttede aktiviteter og om endring av direktiv [64/432/EØF](eu/31964l0432*) og direktiv [93/119/EF](eu/31993l0119) og forordning [(EF) nr. 1255/97](eu/31997r1255).*Transportmiddel:* Båt, bil/vogntog, fly og helikopter og lignende som nyttes til transport av levende akvakulturdyr.*Transportutstyr:* Det rom der levende akvakulturdyr og transportvann oppbevares under transport så som kar, tank, brønn etc., samt spann/sylinder til transport av levende rogn av akvakulturdyr og beholder til transport av levende kreps- eller skalldyr. Til transportutstyr hører også alt teknisk utstyr knyttet til transportrommet, så som sirkulasjonsanlegg for vannpumper, oksygenanlegg, vannfiltreringsanlegg, vakuumpumpesystem for lasting og lossing av levende fisk, ventiler, ventildeksler, slanger, rør etc.*Transportør:* Enhver fysisk eller juridisk person som transporterer akvakulturdyr for egen eller annens regning.*Vannkvalitet:* Vannmiljøets egnethet ut fra fiskens behov, herunder vannets kjemiske, fysikalske og hygieniske kvalitet.
+I denne forskriften menes med:
+
+1. *Akvakulturanlegg:* Enhver lokalitet, fysisk avgrenset område eller installasjon som drives av et akvakulturforetak der akvakulturdyr oppdrettes, med unntak av de lokaliteter, områder eller installasjoner der ville akvatiske dyr høstet eller fanget med tanke på konsum, holdes midlertidig uten å fôres i påvente av å bli slaktet. Med akvakulturforetak menes her ethvert privat eller offentlig foretak, ideelt eller ikke, som utøver en hvilken som helst virksomhet i forbindelse med oppdrett, hold eller dyrking av akvakulturdyr.
+2. *Akvakulturdyr:* Alle livsstadier inklusive kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg eller et akvakulturområde for bløtdyr, inkludert alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg eller et akvakulturområde for bløtdyr.
+3. *Akvariedyr:* Alle akvatiske dyr som holdes, oppdrettes eller omsettes utelukkende for prydformål.
+4. *Akvatiske dyr:*
+
+   1. kjeveløse fisk (urfisk) som tilhører overklassen *Agnatha*, bruskfisk og beinfisk som tilhører klassene *Chondrichthyes* og *Osteichthyes*
+   2. bløtdyr som tilhører rekken *Mollusca*
+   3. krepsdyr som tilhører underrekken *Crustacea*.
+5. *Lang reise:* En reise som varer i mer enn 8 timer og som begynner når det første akvakulturdyret i lasten flyttes.
+6. *Matfisk:* Fisk som produseres med sikte på slakting til konsum og som ikke kommer inn under definisjonene av settefisk eller stamfisk.
+7. *PD-sonen:* PD-sonen slik definert i [forskrift 29. august 2017 nr. 1318](forskrift/2017-08-29-1318) om tiltak for å forebygge, begrense og bekjempe pankreassykdom hos akvakulturdyr.
+8. *Settefisk:* Rogn, yngel, parr, smolt eller tilsvarende livsstadier som produseres med sikte på overføring til andre lokaliteter eller annen type produksjon.
+9. *Stamfisk:* Fisk som skal strykes eller reproduseres på annen måte.
+10. *Transport:* Enhver flytting av akvakulturdyr som foretas ved hjelp av ett eller flere transportmidler, og tilknyttede aktiviteter, herunder lasting, avlessing, omlasting og hvile, inntil avlessingen av akvakulturdyrene på bestemmelsesstedet er fullført.
+11. *Transportenhet:* Transportutstyr og transportmiddel.
+12. *Transportforordningen:* Rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) av 22. desember 2004 om vern av dyr under transport og tilknyttede aktiviteter og om endring av direktiv [64/432/EØF](eu/31964l0432*) og direktiv [93/119/EF](eu/31993l0119) og forordning [(EF) nr. 1255/97](eu/31997r1255).
+13. *Transportmiddel:* Båt, bil/vogntog, fly og helikopter og lignende som nyttes til transport av levende akvakulturdyr.
+14. *Transportutstyr:* Det rom der levende akvakulturdyr og transportvann oppbevares under transport så som kar, tank, brønn etc., samt spann/sylinder til transport av levende rogn av akvakulturdyr og beholder til transport av levende kreps- eller skalldyr. Til transportutstyr hører også alt teknisk utstyr knyttet til transportrommet, så som sirkulasjonsanlegg for vannpumper, oksygenanlegg, vannfiltreringsanlegg, vakuumpumpesystem for lasting og lossing av levende fisk, ventiler, ventildeksler, slanger, rør etc.
+15. *Transportør:* Enhver fysisk eller juridisk person som transporterer akvakulturdyr for egen eller annens regning.
+16. *Vannkvalitet:* Vannmiljøets egnethet ut fra fiskens behov, herunder vannets kjemiske, fysikalske og hygieniske kvalitet.
 
 > Endret ved [forskrifter 11 april 2014 nr. 528](forskrift/2014-04-11-528), [29 aug 2017 nr. 1319](forskrift/2017-08-29-1319).
 
@@ -60,9 +81,19 @@ Transportenhet som benyttes til transport av levende akvakulturdyr, unntatt akva
 
 ### § 5. Krav til søknad om godkjenning av transportenheter
 
-Søknaden om godkjenning skal inneholde de opplysninger som er nødvendige for å vurdere om godkjenning kan gis, og hvilke vilkår som eventuelt skal stilles. Søknad om godkjenning av transportenhet skal minst inneholde følgende:Personalia som navn på transportenheten, ansvarlig for transportenheten, eierform, adresse, telefonnummer og mobilnummer.Opplysninger om type transportoppdrag transportenheten søkes godkjent for og hvorvidt transportenheten tidligere har vært godkjent.Tegninger som viser transportenhetens konstruksjon, vann-, brønn- og/eller rørsystemer.Internkontrollsystem som sannsynliggjør at krav til smittehygienisk og velferdsmessig forsvarlig drift, herunder om kompetanse, rutiner for rengjøring og desinfeksjon, dødfiskhåndtering, vannutskifting, overvåking av vannkvalitet, uttak av vannkvalitetsprøver og journalføring, kan etterleves.Dokumentasjon på innretninger og utstyrets egnethet i forhold til fiskevelferd.
+Søknaden om godkjenning skal inneholde de opplysninger som er nødvendige for å vurdere om godkjenning kan gis, og hvilke vilkår som eventuelt skal stilles. Søknad om godkjenning av transportenhet skal minst inneholde følgende:
 
-Søknad om godkjenning av brønnbåt skal i tillegg inneholde følgende:Dokumentasjon på at posisjonsrapporteringsutstyr tilfredsstiller kravene i [forskrift 24. mars 2010 nr. 454](forskrift/2010-03-24-454) om krav til utstyr og installasjon av posisjonsrapporteringsutstyr.Opplysninger om utstyr for automatisk registrering av tidspunkt for åpning og lukking av bunnventiler.Søknad om godkjenning av brønnbåt med utstyr for behandling av transportvann må også inneholde dokumentasjon utarbeidet av en uhildet faginstans på at det tekniske utstyret for behandling av transportvannet oppfyller krav til desinfeksjonseffekt fastsatt i denne forskrift. Utstyrets kapasitet for behandling av transportvann, uttrykt som mengde vann behandlet per tidsenhet, skal oppgis.
+1. Personalia som navn på transportenheten, ansvarlig for transportenheten, eierform, adresse, telefonnummer og mobilnummer.
+2. Opplysninger om type transportoppdrag transportenheten søkes godkjent for og hvorvidt transportenheten tidligere har vært godkjent.
+3. Tegninger som viser transportenhetens konstruksjon, vann-, brønn- og/eller rørsystemer.
+4. Internkontrollsystem som sannsynliggjør at krav til smittehygienisk og velferdsmessig forsvarlig drift, herunder om kompetanse, rutiner for rengjøring og desinfeksjon, dødfiskhåndtering, vannutskifting, overvåking av vannkvalitet, uttak av vannkvalitetsprøver og journalføring, kan etterleves.
+5. Dokumentasjon på innretninger og utstyrets egnethet i forhold til fiskevelferd.
+
+Søknad om godkjenning av brønnbåt skal i tillegg inneholde følgende:
+
+1. Dokumentasjon på at posisjonsrapporteringsutstyr tilfredsstiller kravene i [forskrift 24. mars 2010 nr. 454](forskrift/2010-03-24-454) om krav til utstyr og installasjon av posisjonsrapporteringsutstyr.
+2. Opplysninger om utstyr for automatisk registrering av tidspunkt for åpning og lukking av bunnventiler.
+3. Søknad om godkjenning av brønnbåt med utstyr for behandling av transportvann må også inneholde dokumentasjon utarbeidet av en uhildet faginstans på at det tekniske utstyret for behandling av transportvannet oppfyller krav til desinfeksjonseffekt fastsatt i denne forskrift. Utstyrets kapasitet for behandling av transportvann, uttrykt som mengde vann behandlet per tidsenhet, skal oppgis.
 
 > Endret ved [forskrift 11 april 2014 nr. 528](forskrift/2014-04-11-528).
 
@@ -76,7 +107,10 @@ Brønnbåter som ikke har utstyr for behandling av transportvann i henhold til [
 
 ### § 7. Tilbaketrekking av godkjenning
 
-Mattilsynet kan trekke tilbake godkjenning som nevnt i [§ 4](forskrift/2008-06-17-820/§4) dersom:Det foreligger vesentlige brudd på vilkår i godkjenningen eller bestemmelser gitt i, eller i medhold av, matloven eller dyrevelferdsloven.Det viser seg at kunnskap om sykdomsmessige eller fiskevelferdmessige forhold er vesentlig endret i forhold til da godkjenningen ble gitt.
+Mattilsynet kan trekke tilbake godkjenning som nevnt i [§ 4](forskrift/2008-06-17-820/§4) dersom:
+
+1. Det foreligger vesentlige brudd på vilkår i godkjenningen eller bestemmelser gitt i, eller i medhold av, matloven eller dyrevelferdsloven.
+2. Det viser seg at kunnskap om sykdomsmessige eller fiskevelferdmessige forhold er vesentlig endret i forhold til da godkjenningen ble gitt.
 
 > Endret ved [forskrift 6 aug 2010 nr. 1147](forskrift/2010-08-06-1147).
 
@@ -92,7 +126,15 @@ Alle områder på transportenheten skal være mulig å inspisere på en tilfreds
 
 ### § 9. Journalføring
 
-For hvert transportoppdrag skal følgende opplysninger journalføres:mengde akvakulturdyr transportert (antall, art og størrelse eller vekt),sykdom, skader på akvakulturdyr og dødelighet. Ved kjent eller sannsynlig årsak skal denne angis,reiserute, inkludert akvakulturanlegg og slakterier som besøkes,tid og sted for eventuelt vannskifte og lukking og åpning av ventiler,eventuelt forbruk av oksygen,vanntemperatur og andre vannkvalitetsparametere som overvåkes jf. [§ 16](forskrift/2008-06-17-820/§16) og [§ 17](forskrift/2008-06-17-820/§17), ogtidspunkt, mengde rengjørings- og desinfeksjonsmiddel og metode for gjennomført rengjøring og desinfeksjon av transportenheten.
+For hvert transportoppdrag skal følgende opplysninger journalføres:
+
+1. mengde akvakulturdyr transportert (antall, art og størrelse eller vekt),
+2. sykdom, skader på akvakulturdyr og dødelighet. Ved kjent eller sannsynlig årsak skal denne angis,
+3. reiserute, inkludert akvakulturanlegg og slakterier som besøkes,
+4. tid og sted for eventuelt vannskifte og lukking og åpning av ventiler,
+5. eventuelt forbruk av oksygen,
+6. vanntemperatur og andre vannkvalitetsparametere som overvåkes jf. [§ 16](forskrift/2008-06-17-820/§16) og [§ 17](forskrift/2008-06-17-820/§17), og
+7. tidspunkt, mengde rengjørings- og desinfeksjonsmiddel og metode for gjennomført rengjøring og desinfeksjon av transportenheten.
 
 Journalen skal være tilgjengelig for lastens leverandør og mottaker samt for tilsynsmyndighet. Journal for tidligere turer skal oppbevares tilgjengelig for tilsynsmyndighetene i fem år etter at den er utskrevet.
 
@@ -102,7 +144,13 @@ På brønnbåt kan dekksdagbok benyttes som journal så fremt den inneholder de 
 
 Brønnbåter som transporterer levende fisk til eller fra akvakulturanlegg, skal ha posisjonsrapporteringsutstyr ombord som tilfredsstiller kravene i [forskrift 24. mars 2010 nr. 454](forskrift/2010-03-24-454) om krav til utstyr og installasjon av posisjonsrapporteringsutstyr [kapittel II](forskrift/2010-03-24-454/kapii), III og IV og [§ 9](forskrift/2010-03-24-454/§9).
 
-Brønnbåter som nevnt i første ledd skal en gang hver halvtime automatisk sende melding om fartøyets posisjon til Fiskeridirektoratet. Meldingen om posisjon skal inneholde følgende opplysninger:Entydig identifikasjon av fartøyet.Fartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med konfidensintervall på 99 %.Dato og tidspunkt for fartøyets posisjon.Fart og kurs i rapporteringsøyeblikket.Identifikasjon av hvilken rapporttype som sendes.
+Brønnbåter som nevnt i første ledd skal en gang hver halvtime automatisk sende melding om fartøyets posisjon til Fiskeridirektoratet. Meldingen om posisjon skal inneholde følgende opplysninger:
+
+1. Entydig identifikasjon av fartøyet.
+2. Fartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med konfidensintervall på 99 %.
+3. Dato og tidspunkt for fartøyets posisjon.
+4. Fart og kurs i rapporteringsøyeblikket.
+5. Identifikasjon av hvilken rapporttype som sendes.
 
 Når en brønnbåt har sendt automatiske posisjonsmeldinger i henhold til annet ledd fra samme posisjon i mer enn fire timer, kan slike meldinger sendes en gang hver tolvte time frem til båten igjen endrer posisjon.
 
@@ -134,7 +182,13 @@ Transportør, sjåfør/skipper og annen med ansvar for akvakulturdyrene skal ha 
 
 Det skal sikres at det er tilstrekkelig personell med nødvendig kompetanse til å ivareta fiskens velferd til enhver tid.
 
-Nødvendig kompetanse i henhold til første og andre ledd skal dokumenteres gjennom praktisk og teoretisk opplæring i regi av næringen. Opplæringen skal inneholde følgende elementer og skal gjentas hvert femte år:aktuelle krav som er nedfelt i transportforordningen og denne forskriftenartens fysiologi, naturlige behov og atferd og en forståelse av stress og sykdom og hvordan fisken reagerer på stresspåvirkninger eller i forbindelse med sykdomforhold som er av betydning ved håndtering av fisk og som påvirker deres velferdvannkvalitet, herunder vannkvalitetsparametere, overvåking av disse og tiltak for å opprettholde en god vannkvalitet (både i åpent og lukket system)betydningen av kjøremønster (både sjø og land) for velferden til fiskene.
+Nødvendig kompetanse i henhold til første og andre ledd skal dokumenteres gjennom praktisk og teoretisk opplæring i regi av næringen. Opplæringen skal inneholde følgende elementer og skal gjentas hvert femte år:
+
+1. aktuelle krav som er nedfelt i transportforordningen og denne forskriften
+2. artens fysiologi, naturlige behov og atferd og en forståelse av stress og sykdom og hvordan fisken reagerer på stresspåvirkninger eller i forbindelse med sykdom
+3. forhold som er av betydning ved håndtering av fisk og som påvirker deres velferd
+4. vannkvalitet, herunder vannkvalitetsparametere, overvåking av disse og tiltak for å opprettholde en god vannkvalitet (både i åpent og lukket system)
+5. betydningen av kjøremønster (både sjø og land) for velferden til fiskene.
 
 ### § 13. Ansvarsforhold og informasjonsplikt
 
@@ -200,13 +254,28 @@ Dersom fisken viser atferdsendringer utover det normale under håndtering, skal 
 
 ### § 19. Generelle smittehygieniske krav til transport
 
-Akvakulturdyr skal transporteres så raskt som mulig til bestemmelsesstedet. Transporten skal gjennomføres på en måte som sikrer helsen til:akvakulturdyrene som transporteres,akvakulturdyrene på bestemmelsesstedet, ogakvatiske dyr som passeres under transporten.
+Akvakulturdyr skal transporteres så raskt som mulig til bestemmelsesstedet. Transporten skal gjennomføres på en måte som sikrer helsen til:
+
+1. akvakulturdyrene som transporteres,
+2. akvakulturdyrene på bestemmelsesstedet, og
+3. akvatiske dyr som passeres under transporten.
 
 Fisk, unntatt akvariefisk, fra ulike akvakulturanlegg skal ikke transporteres samtidig i samme transportenhet.
 
 ### § 20. Rengjøring og desinfeksjon av transportenhet som gjenbrukes
 
-Dersom det ikke benyttes engangsemballasje skal transportenhet rengjøres og desinfiseres i følgende tilfeller:Før hver enkelt transport av akvakulturdyr til akvakulturanlegg, havbeite eller annet utsett. Desinfeksjon kan unnlates når:gjentatte transporter av smolt eller settefisk fra ett settefiskanlegg til samme mottaksanlegg anses som en operasjon (kippkjøring),avstanden mellom settefiskanlegget og matfiskanlegget er kort, ogdet iverksettes nødvendige tiltak for å hindre spredning av smitte under lasting fra båt, utstyr, mv. til settefiskanlegget.Etter at transporter er gjennomført fra ett akvakulturanlegg eller akvakulturområde for bløtdyr til slakteri eller tilvirkningsanlegg, og før man begynner på tilsvarende transporter fra et annet akvakulturanlegg eller akvakulturområde for bløtdyr.Etter at slaktefisk er losset ved slakteri hvor det oppbevares fisk i ventemerd fra andre akvakulturanlegg.Etter at slaktefisk er losset ved slakteri hvor det samtidig losses fisk fra andre akvakulturanlegg.Etter gjennomført transport av akvakulturdyr fra akvakulturanlegg eller akvakulturområde for bløtdyr, som er pålagt restriksjoner som følge av listeført smittsom sykdom.Etter at transportenheten har vært brukt til andre oppdrag i akvakulturanlegg med håndtering av levende fisk uten at fisken er transportert.
+Dersom det ikke benyttes engangsemballasje skal transportenhet rengjøres og desinfiseres i følgende tilfeller:
+
+1. Før hver enkelt transport av akvakulturdyr til akvakulturanlegg, havbeite eller annet utsett. Desinfeksjon kan unnlates når:
+
+   1. gjentatte transporter av smolt eller settefisk fra ett settefiskanlegg til samme mottaksanlegg anses som en operasjon (kippkjøring),
+   2. avstanden mellom settefiskanlegget og matfiskanlegget er kort, og
+   3. det iverksettes nødvendige tiltak for å hindre spredning av smitte under lasting fra båt, utstyr, mv. til settefiskanlegget.
+2. Etter at transporter er gjennomført fra ett akvakulturanlegg eller akvakulturområde for bløtdyr til slakteri eller tilvirkningsanlegg, og før man begynner på tilsvarende transporter fra et annet akvakulturanlegg eller akvakulturområde for bløtdyr.
+3. Etter at slaktefisk er losset ved slakteri hvor det oppbevares fisk i ventemerd fra andre akvakulturanlegg.
+4. Etter at slaktefisk er losset ved slakteri hvor det samtidig losses fisk fra andre akvakulturanlegg.
+5. Etter gjennomført transport av akvakulturdyr fra akvakulturanlegg eller akvakulturområde for bløtdyr, som er pålagt restriksjoner som følge av listeført smittsom sykdom.
+6. Etter at transportenheten har vært brukt til andre oppdrag i akvakulturanlegg med håndtering av levende fisk uten at fisken er transportert.
 
 Transportutstyret skal være tømt for akvakulturdyr før rengjøring og desinfeksjon gjennomføres. Rengjøringen skal sikre at belegg og organisk materiale fjernes før desinfeksjon gjennomføres.
 
@@ -224,7 +293,10 @@ Dersom smitterisikoen er lav, kan Mattilsynet gi unntak fra kravet om karantenet
 
 ### § 21. Landtransport
 
-Ved landtransporter av akvakulturdyr skal transportmiddelet være konstruert på en slik måte at det ikke skjer vannlekkasjer under transporten. Vannskifting ved landtransport skal skje på en vannskiftestasjon som er godkjent av Mattilsynet. For å bli godkjent må følgende vilkår være oppfylt:Vannet som brukes til utskifting, må ikke påvirke helsestatusen til de akvakulturdyrene som transporteres.Vannskiftestasjonen skal være innrettet slik at ikke miljøet blir forurenset, enten ved at vannet blir desinfisert, eller ved å unngå at vann slippes direkte ut i havet eller åpne vassdrag.
+Ved landtransporter av akvakulturdyr skal transportmiddelet være konstruert på en slik måte at det ikke skjer vannlekkasjer under transporten. Vannskifting ved landtransport skal skje på en vannskiftestasjon som er godkjent av Mattilsynet. For å bli godkjent må følgende vilkår være oppfylt:
+
+1. Vannet som brukes til utskifting, må ikke påvirke helsestatusen til de akvakulturdyrene som transporteres.
+2. Vannskiftestasjonen skal være innrettet slik at ikke miljøet blir forurenset, enten ved at vannet blir desinfisert, eller ved å unngå at vann slippes direkte ut i havet eller åpne vassdrag.
 
 ### § 22. Sjøtransport og behandling av transportvann
 
@@ -236,7 +308,12 @@ Ved transport av akvakulturdyr fra segment med lavere helsekategori med hensyn t
 
 Ved transport av akvakulturdyr til segment med høyere helsekategori med hensyn til sykdom på liste 2 skal transportvann ikke skiftes ut når transporten passerer gjennom segment med lavere helsekategori og går nærmere enn 4 nautiske mil fra grunnlinjen, med mindre Mattilsynet har gitt tillatelse til det.
 
-Uavhengig av bestemmelsene i foregående ledd er det forbudt å:transportere levende laks, ørret, regnbueørret og røye, unntatt settefisk, ut av PD-sonen,transportere levende laks, ørret, regnbueørret og røye til slakt over Hustadvika,transportere fisk fra akvakulturanlegg med mistanke om eller påvist PD til åpen slaktemerd ved slakteri, med mindre Mattilsynet har gitt tillatelse,transportere rensefisk fra akvakulturanlegg med ubehandlet sjøvann, ut av PD-sonen. Det samme gjelder ved transport fra område der aktuell subtype av SAV forekommer, til område fri for den aktuelle subtypen av SAV. Med ubehandlet sjøvann menes sjøvann som ikke er behandlet i samsvar med kravene i [forskrift 20. februar 1997 nr. 192](forskrift/1997-02-20-192) om desinfeksjon av inntaksvann til og avløpsvann fra akvakulturrelatert virksomhet.
+Uavhengig av bestemmelsene i foregående ledd er det forbudt å:
+
+1. transportere levende laks, ørret, regnbueørret og røye, unntatt settefisk, ut av PD-sonen,
+2. transportere levende laks, ørret, regnbueørret og røye til slakt over Hustadvika,
+3. transportere fisk fra akvakulturanlegg med mistanke om eller påvist PD til åpen slaktemerd ved slakteri, med mindre Mattilsynet har gitt tillatelse,
+4. transportere rensefisk fra akvakulturanlegg med ubehandlet sjøvann, ut av PD-sonen. Det samme gjelder ved transport fra område der aktuell subtype av SAV forekommer, til område fri for den aktuelle subtypen av SAV. Med ubehandlet sjøvann menes sjøvann som ikke er behandlet i samsvar med kravene i [forskrift 20. februar 1997 nr. 192](forskrift/1997-02-20-192) om desinfeksjon av inntaksvann til og avløpsvann fra akvakulturrelatert virksomhet.
 
 > Endret ved [forskrifter 29 mars 2010 nr. 490](forskrift/2010-03-29-490), [11 april 2014 nr. 528](forskrift/2014-04-11-528), [29 aug 2017 nr. 1319](forskrift/2017-08-29-1319), [25 juni 2019 nr. 919](forskrift/2019-06-25-919).
 
@@ -290,6 +367,11 @@ Denne forskriften, med unntak av [§ 12](forskrift/2008-06-17-820/§12) tredje l
 
 ### § 29. Overgangsbestemmelser
 
-[§ 22](forskrift/2008-06-17-820/§22) første og annet ledd trer i kraft 1. januar 2021. Sjøtransport og behandling av transportvann kan foregå i tråd med bestemmelsene i [§ 22](forskrift/2008-06-17-820/§22) første og annet ledd i overgangsperioden. Ellers gjelder følgende regler for sjøtransport og behandling av transportvann frem til 1. januar 2021:Transport av yngel til settefiskanlegg skal foregå uten vannutskifting.Transport av fisk til matfisk- og stamfiskanlegg og transport av slaktefisk kan foregå med kontinuerlig vannutskifting. Transporten skal likevel foregå uten vannutskifting når transporten passerer så nær akvakulturanlegg eller utslipp av avløp fra slakteri eller tilvirkningsanlegg at det er fare for at smitte spres til akvakulturdyrene som transporteres eller til akvakulturdyr som passeres under transporten. Vannutskiftingen skal stanses i størst mulig avstand fra akvakulturanlegg, slakteri og tilvirkningsanlegg som passeres.Transport av settefisk av laks, ørret, regnbueørret og røye, og rensefisk, med brønnbåt ut fra PD-sonen skal gjennomføres uten vannutskifting når brønnbåten er innenfor PD-sonen.Transport av levende laks, ørret, regnbueørret og røye med brønnbåt fra akvakulturanlegg utenfor PD-sonen med mistanke om eller påvist PD skal gjennomføres uten vannutskifting. Mattilsynet kan i enkelte tilfeller gjøre unntak fra dette kravet dersom smitterisikoen er lav og det er nødvendig for å kontrollere utbruddet.
+[§ 22](forskrift/2008-06-17-820/§22) første og annet ledd trer i kraft 1. januar 2021. Sjøtransport og behandling av transportvann kan foregå i tråd med bestemmelsene i [§ 22](forskrift/2008-06-17-820/§22) første og annet ledd i overgangsperioden. Ellers gjelder følgende regler for sjøtransport og behandling av transportvann frem til 1. januar 2021:
+
+1. Transport av yngel til settefiskanlegg skal foregå uten vannutskifting.
+2. Transport av fisk til matfisk- og stamfiskanlegg og transport av slaktefisk kan foregå med kontinuerlig vannutskifting. Transporten skal likevel foregå uten vannutskifting når transporten passerer så nær akvakulturanlegg eller utslipp av avløp fra slakteri eller tilvirkningsanlegg at det er fare for at smitte spres til akvakulturdyrene som transporteres eller til akvakulturdyr som passeres under transporten. Vannutskiftingen skal stanses i størst mulig avstand fra akvakulturanlegg, slakteri og tilvirkningsanlegg som passeres.
+3. Transport av settefisk av laks, ørret, regnbueørret og røye, og rensefisk, med brønnbåt ut fra PD-sonen skal gjennomføres uten vannutskifting når brønnbåten er innenfor PD-sonen.
+4. Transport av levende laks, ørret, regnbueørret og røye med brønnbåt fra akvakulturanlegg utenfor PD-sonen med mistanke om eller påvist PD skal gjennomføres uten vannutskifting. Mattilsynet kan i enkelte tilfeller gjøre unntak fra dette kravet dersom smitterisikoen er lav og det er nødvendig for å kontrollere utbruddet.
 
 > Tilføyd ved [forskrift 29 aug 2017 nr. 1319](forskrift/2017-08-29-1319), endret ved [forskrift 25 juni 2019 nr. 919](forskrift/2019-06-25-919).

@@ -15,7 +15,7 @@ xml_hash: "8408e1385bfba14de995b0ef848d15086d71ec760b82f8f3079ea02c23b72608"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,7 +96,14 @@ Jernbanedirektoratet skal drive delegert etatsstyring av Norsk Jernbanemuseum.
 
 Forutsetninger og krav som Samferdselsdepartementet stiller til Jernbanedirektoratet, skal gå fram av den formelle styringsdialogen. Styringsdialogen omfatter styringsdokumenter, rapporter og møter av styringskarakter mellom departementet og etaten. Styringsdialogen skal dokumenteres.
 
-Følgende dokumenter er en del av styringsdialogen:instruks for Jernbanedirektoratettildelingsbrev og eventuelle supplerende tildelingsbrevreferater fra etatsstyringsmøterårsrapport fra etaten, inkl. årsregnskaptertialrapporterrapportering til statsregnskapet.
+Følgende dokumenter er en del av styringsdialogen:
+
+- instruks for Jernbanedirektoratet
+- tildelingsbrev og eventuelle supplerende tildelingsbrev
+- referater fra etatsstyringsmøter
+- årsrapport fra etaten, inkl. årsregnskap
+- tertialrapporter
+- rapportering til statsregnskapet.
 
 Det holdes som hovedregel fire etatsstyringsmøter mellom Samferdselsdepartementet og Jernbanedirektoratet i løpet av året. Tidspunktet for etatsstyringsmøtene fremgår av tildelingsbrevet.
 

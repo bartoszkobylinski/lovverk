@@ -26,7 +26,10 @@ eu_basis: []
 
 Tilskuddsordningens formål er å fremme klimatiltak i kommuner, fylkeskommuner og Longyearbyen lokalstyre ved å støtte prosjekter som bidrar til reduksjon i utslipp av klimagasser og omstilling til lavutslippssamfunnet.
 
-Tilskuddsordningens delmål er å bidra til at:kommunen, fylkeskommunen og Longyearbyen lokalstyre integrerer klimahensyn i sine aktiviteterkommunen, fylkeskommunen og Longyearbyen lokalstyre styrker rollen som samfunnsutvikler og pådriver som tilrettelegger for samarbeid på klimaområdet mellom ulike aktører.
+Tilskuddsordningens delmål er å bidra til at:
+
+1. kommunen, fylkeskommunen og Longyearbyen lokalstyre integrerer klimahensyn i sine aktiviteter
+2. kommunen, fylkeskommunen og Longyearbyen lokalstyre styrker rollen som samfunnsutvikler og pådriver som tilrettelegger for samarbeid på klimaområdet mellom ulike aktører.
 
 > Endret ved forskrift [11 mars 2021 nr. 659](forskrift/2021-03-11-659).
 
@@ -38,7 +41,12 @@ Tilskudd fra ordningen kan tildeles kommuner og fylkeskommuner, samt Longyearbye
 
 ## § 3. Tildelingskriterier
 
-Tilskudd kan tildeles til tiltak som oppfyller følgende tildelingskriterier:tiltaket skal bidra til reduserte klimagassutslipp, omstilling til lavutslippssamfunnet eller begge delersøknaden skal være politisk forankret i kommunentilskuddet skal være utløsende for at tiltaket gjennomføres ogkommunen må bidra med egeninnsats.
+Tilskudd kan tildeles til tiltak som oppfyller følgende tildelingskriterier:
+
+1. tiltaket skal bidra til reduserte klimagassutslipp, omstilling til lavutslippssamfunnet eller begge deler
+2. søknaden skal være politisk forankret i kommunen
+3. tilskuddet skal være utløsende for at tiltaket gjennomføres og
+4. kommunen må bidra med egeninnsats.
 
 For tilskudd til nettverk og erfaringsdeling gjelder likevel egne kriterier som vil fremgå av utlysningen.
 

@@ -42,7 +42,15 @@ Virksomhet som utfører arbeidsoppdrag i samsvar med [§ 2](forskrift/2024-10-21
 
 ### § 4. Lønnsbestemmelser
 
-Arbeidstakere som utfører bygningsarbeid, jf. [§ 2](forskrift/2024-10-21-2544/§2), skal minst ha en lønn per time på:For fagarbeider: kr 264,32Fagarbeidere er arbeidstakere som har fag- eller svennebrev i vedkommende fag. Utenlandske fagbrev som er godkjent av NOKUT er sidestilt med norsk fagbrev.For ufaglærte uten bransjeerfaring: kr 239,61For ufaglærte med minst ett års bransjeerfaring: kr 249,00For arbeidstakere under 18 år: kr 162,44.
+Arbeidstakere som utfører bygningsarbeid, jf. [§ 2](forskrift/2024-10-21-2544/§2), skal minst ha en lønn per time på:
+
+1. For fagarbeider: kr 264,32
+
+   Fagarbeidere er arbeidstakere som har fag- eller svennebrev i vedkommende fag. Utenlandske fagbrev som er godkjent av NOKUT er sidestilt med norsk fagbrev.
+2. For ufaglærte uten bransjeerfaring: kr 239,61
+
+   For ufaglærte med minst ett års bransjeerfaring: kr 249,00
+3. For arbeidstakere under 18 år: kr 162,44.
 
 > Endret ved forskrift [28 mai 2025 nr. 960](forskrift/2025-05-28-960) (i kraft 15 juni 2025).
 

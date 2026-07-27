@@ -15,7 +15,7 @@ xml_hash: "695dd265a3d47a3b84e9434ee88b5d4cdb005d6b84636f9b9a90dbf8494ee65d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,6 +24,10 @@ eu_basis: []
 
 1\. Kongens myndighet etter lovens punkt VI om ikrafttredelse og overgangsregler delegeres til Finansdepartementet.
 
-2\. Kongens myndighet etter følgende bestemmelser delegeres til Finansdepartementet:§ 2-1 annet ledd om at Kongen i tvilstilfelle avgjør hvem som foruten finansinstitusjoner er omfattet av bestemmelsene i § 2-17.§ 2-17 sjette ledd om at Kongen kan gi nærmere regler om sletting av opplysninger.§ 2-17 åttende ledd om at Kongen kan fastsette nærmere regler om at finansinstitusjoner m.v. som omfattes av § 2-17 kan unntas fra en eller flere av bestemmelsene i denne paragrafen.
+2\. Kongens myndighet etter følgende bestemmelser delegeres til Finansdepartementet:
+
+- § 2-1 annet ledd om at Kongen i tvilstilfelle avgjør hvem som foruten finansinstitusjoner er omfattet av bestemmelsene i § 2-17.
+- § 2-17 sjette ledd om at Kongen kan gi nærmere regler om sletting av opplysninger.
+- § 2-17 åttende ledd om at Kongen kan fastsette nærmere regler om at finansinstitusjoner m.v. som omfattes av § 2-17 kan unntas fra en eller flere av bestemmelsene i denne paragrafen.
 
 3\. I § 2-17a første og tredje ledd skal «departementet» forstås som «Finansdepartementet».

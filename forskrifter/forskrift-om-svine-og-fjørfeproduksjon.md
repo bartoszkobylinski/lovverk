@@ -15,7 +15,7 @@ xml_hash: "697d24acf20f9ae2a00336863ed93d09374150da6b13eac63cafd8eacfd35be3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,16 @@ eu_basis: []
 
 ## § 1. Konsesjonsgrenser
 
-Grensene for svine- og fjørfehold som kan drives uten departementets tillatelse er 2 100 konsesjonsenheter som fordeler seg slik;maksimalt 280 000 omsatte eller slaktede kyllinger pr. år,maksimalt 60 000 omsatte eller slaktede kalkuner pr. år,maksimalt 7 500 verpehøner på ethvert tidspunkt,maksimalt 2 100 omsatte eller slaktede slaktegriser pr. år,maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 150 utrangerte avlspurker pr. år (faktor 1,4286),produksjon i registrerte foredlingsbesetninger med maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 438 utrangerte avlspurker pr. år (faktor 4,1714),produksjon i registrerte formeringsbesetninger med maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 220 utrangerte avlspurker pr. år (faktor 2,0952), ellersatellitt i purkering med maksimalt 53 avlspurker på ethvert tidspunkt, eller maksimalt 2 100 omsatte eller slaktede slaktegriser pr. år.
+Grensene for svine- og fjørfehold som kan drives uten departementets tillatelse er 2 100 konsesjonsenheter som fordeler seg slik;
+
+1. maksimalt 280 000 omsatte eller slaktede kyllinger pr. år,
+2. maksimalt 60 000 omsatte eller slaktede kalkuner pr. år,
+3. maksimalt 7 500 verpehøner på ethvert tidspunkt,
+4. maksimalt 2 100 omsatte eller slaktede slaktegriser pr. år,
+5. maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 150 utrangerte avlspurker pr. år (faktor 1,4286),
+6. produksjon i registrerte foredlingsbesetninger med maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 438 utrangerte avlspurker pr. år (faktor 4,1714),
+7. produksjon i registrerte formeringsbesetninger med maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 220 utrangerte avlspurker pr. år (faktor 2,0952), eller
+8. satellitt i purkering med maksimalt 53 avlspurker på ethvert tidspunkt, eller maksimalt 2 100 omsatte eller slaktede slaktegriser pr. år.
 
 For purkeringer kan det innvilges konsesjon for maksimalt 450 avlspurker i navet på ethvert tidspunkt, og maksimalt 1010 utrangerte avlspurker per år (faktor 2,2444).
 

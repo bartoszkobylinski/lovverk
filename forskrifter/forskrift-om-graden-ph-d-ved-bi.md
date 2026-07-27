@@ -15,7 +15,7 @@ xml_hash: "89e92e13ae47652514c339c2a6b81bfaf40e9e1287956a2958ac3fe4aa0cedaf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,13 @@ Ph.d.-utdanningen er normert til tre års fulltidsstudier og inkluderer en oppl�
 
 Ph.d.-utdanningens viktigste komponent er et selvstendig forskningsarbeid eller kombinert forsknings- og utviklingsarbeid som gjennomføres under aktiv veiledning.
 
-Ph.d.-graden tildeles på grunnlag av:Godkjent vitenskapelig avhandlingGodkjent gjennomføring av kursdelenGodkjent predoktoralt forsvarGodkjent prøveforelesning over oppgitt emneGodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av:
+
+1. Godkjent vitenskapelig avhandling
+2. Godkjent gjennomføring av kursdelen
+3. Godkjent predoktoralt forsvar
+4. Godkjent prøveforelesning over oppgitt emne
+5. Godkjent offentlig forsvar av avhandlingen (disputas).
 
 > **Endres** ved forskrift [11 mars 2026 nr. 396](forskrift/2026-03-11-396) (i kraft 1 aug 2026).
 
@@ -60,9 +66,43 @@ Minst 50 % av de faglige ansatte knyttet til doktorgradsprogrammet skal være p
 
 ### § 2-1. Vilkår for opptak
 
-For opptak til ph.d.-utdanningen gjelder følgende regler:For opptak til ph.d.-utdanningen må søkeren normalt ha en femårig mastergrad, jamfør beskrivelsene i kvalifikasjonsrammeverkets andre syklus. Gjennomsnittskarakter må være B eller bedre.I særskilte tilfeller kan det gis opptak til kandidater med andre grader som Handelshøyskolen BI har godkjent som opptaksgrunnlag til ph.d.-utdanningen.Kun mastergrader med en tilstrekkelig teoretisk orientering og behandling av metodologiske temaer vil bli behandlet.Instituttet som mottar søknaden må vurdere den, og gi en skriftlig begrunnelse til undervisningsutvalget for doktorgrad.I svært spesielle tilfeller kan søkere med en utdanning som er kortere enn fem år vurderes for opptak. Instituttet hvor søker ønsker opptak kan pålegge disse kandidatene å ta tilleggsutdanning eller tilleggskurs, alternativt levere inn individuelle arbeider.Arbeidspraksis og ikke akkrediterte studier godtas ikke for å fylle disse kravene. Relevant akademisk publisering godtas.Innfrielse av slike tilleggskrav skal godkjennes av instituttet og sendes til doktorgradsadministrasjonen.Instituttet kan foreslå unntak fra kravene. Disse skal behandles i undervisningsutvalget for doktorgrad, og Dean fatter endelig vedtak i saken.Kun søkere med høyere utdanning (mastergrad) innenfor økonomisk- administrativ utdanning i vid forstand, vil få opptak til phd-utdanningen.Søkere uten annen høyere utdanning enn erfaringsbaserte mastergrader vil ikke bli vurdert.Instituttet, undervisningsutvalget doktorgrad eller Dean kan i særskilte tilfeller kreve GMAT eller GRE-tester og/eller TOEFL eller IELTS fra søkerne. Søkerne vil i så fall bli informert om dette, eller at dette fremgår av utlysningen.Det kan innvilges fritak fra deler av opplæringsdelen (se [§ 3-4](forskrift/2015-06-11-924/§3-4)) dersom tilsvarende krav er oppfylt ved en annen institusjon som tilbyr godkjente kurs.Opplæringsdelen må være gjennomført i løpet av de fem siste årene før søknad om opptak, og kan ikke overstige 18 studiepoeng.Søknad om fritak skal ligge ved søknaden om opptak til programmet.Søknad om fritak godtas ikke etter at opptak er innvilget.
+For opptak til ph.d.-utdanningen gjelder følgende regler:
 
-Søknaden skal inneholde:Dokumentasjon for den utdanning som skal ligge til grunn for opptaket.Prosjektbeskrivelse som kan omfatte:Faglig redegjørelse for prosjektetFremdriftFinansieringDokumentasjon av spesielle behov for faglige og materielle ressurserEventuelle planer for opphold ved annen institusjonFaglig formidlingOpplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.Plan for opplæringsdelen, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverket.Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig være innhentet og legges ved søknaden.Handelshøyskolen BI fastsetter søknadsskjema og kan fastsette krav til ytterligere dokumentasjon.Handelshøyskolen BI kan fastsette krav om residensplikt.
+1. For opptak til ph.d.-utdanningen må søkeren normalt ha en femårig mastergrad, jamfør beskrivelsene i kvalifikasjonsrammeverkets andre syklus. Gjennomsnittskarakter må være B eller bedre.
+2. I særskilte tilfeller kan det gis opptak til kandidater med andre grader som Handelshøyskolen BI har godkjent som opptaksgrunnlag til ph.d.-utdanningen.
+
+   1. Kun mastergrader med en tilstrekkelig teoretisk orientering og behandling av metodologiske temaer vil bli behandlet.
+   2. Instituttet som mottar søknaden må vurdere den, og gi en skriftlig begrunnelse til undervisningsutvalget for doktorgrad.
+3. I svært spesielle tilfeller kan søkere med en utdanning som er kortere enn fem år vurderes for opptak. Instituttet hvor søker ønsker opptak kan pålegge disse kandidatene å ta tilleggsutdanning eller tilleggskurs, alternativt levere inn individuelle arbeider.
+
+   1. Arbeidspraksis og ikke akkrediterte studier godtas ikke for å fylle disse kravene. Relevant akademisk publisering godtas.
+   2. Innfrielse av slike tilleggskrav skal godkjennes av instituttet og sendes til doktorgradsadministrasjonen.
+   3. Instituttet kan foreslå unntak fra kravene. Disse skal behandles i undervisningsutvalget for doktorgrad, og Dean fatter endelig vedtak i saken.
+   4. Kun søkere med høyere utdanning (mastergrad) innenfor økonomisk- administrativ utdanning i vid forstand, vil få opptak til phd-utdanningen.
+   5. Søkere uten annen høyere utdanning enn erfaringsbaserte mastergrader vil ikke bli vurdert.
+4. Instituttet, undervisningsutvalget doktorgrad eller Dean kan i særskilte tilfeller kreve GMAT eller GRE-tester og/eller TOEFL eller IELTS fra søkerne. Søkerne vil i så fall bli informert om dette, eller at dette fremgår av utlysningen.
+5. Det kan innvilges fritak fra deler av opplæringsdelen (se [§ 3-4](forskrift/2015-06-11-924/§3-4)) dersom tilsvarende krav er oppfylt ved en annen institusjon som tilbyr godkjente kurs.
+
+   1. Opplæringsdelen må være gjennomført i løpet av de fem siste årene før søknad om opptak, og kan ikke overstige 18 studiepoeng.
+   2. Søknad om fritak skal ligge ved søknaden om opptak til programmet.
+   3. Søknad om fritak godtas ikke etter at opptak er innvilget.
+
+Søknaden skal inneholde:
+
+1. Dokumentasjon for den utdanning som skal ligge til grunn for opptaket.
+2. Prosjektbeskrivelse som kan omfatte:
+
+   - Faglig redegjørelse for prosjektet
+   - Fremdrift
+   - Finansiering
+   - Dokumentasjon av spesielle behov for faglige og materielle ressurser
+   - Eventuelle planer for opphold ved annen institusjon
+   - Faglig formidling
+   - Opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
+3. Plan for opplæringsdelen, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverket.
+4. Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig være innhentet og legges ved søknaden.
+5. Handelshøyskolen BI fastsetter søknadsskjema og kan fastsette krav til ytterligere dokumentasjon.
+6. Handelshøyskolen BI kan fastsette krav om residensplikt.
 
 ### § 2-2. Infrastruktur
 
@@ -74,7 +114,10 @@ Vedtak om opptak baseres på en samlet vurdering av søknaden. Handelshøyskolen
 
 I vedtaket skal minst én veileder oppnevnes, ansvaret for håndtering av andre behov som er skissert i søknaden plasseres, og avtaleperioden fastsettes med startdato og sluttdato. Startdato settes lik startdato for finansiering. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker eller avklares spesielt i forhold til kandidatens finansieringsgrunnlag.
 
-Opptak skal nektes om:Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingenDe immaterialrettslige avtaler som er inngått er så urimelige at Handelshøyskolen BI ikke bør medvirke i prosjektet.
+Opptak skal nektes om:
+
+1. Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+2. De immaterialrettslige avtaler som er inngått er så urimelige at Handelshøyskolen BI ikke bør medvirke i prosjektet.
 
 ### § 2-4. Avtaleperiode
 
@@ -98,7 +141,12 @@ Handelshøyskolen BI kan vedta tvungen avslutning av ph.d.-utdanningen før avta
 
 ### § 2-7. Tvungen avslutning ved forsinkelse eller manglende fremdrift før avtalt tid
 
-Når ett eller flere av de følgende vilkårene er oppfylt, kan Handelshøyskolen BI vedta tvungen avslutning av ph.d.-utdanningen:Vesentlige brudd på progresjonskravene jf. [§ 2-12](forskrift/2015-06-11-924/§2-12).Vesentlig forsinkelse som skyldes forhold kandidaten selv rår over.Gjentatte eller vesentlige brudd på kandidatens plikter etter avtalen, som informasjons-, oppfølgings- eller rapporteringsplikt. jf. [§ 3-6](forskrift/2015-06-11-924/§3-6) og [§ 3-7](forskrift/2015-06-11-924/§3-7).Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.
+Når ett eller flere av de følgende vilkårene er oppfylt, kan Handelshøyskolen BI vedta tvungen avslutning av ph.d.-utdanningen:
+
+1. Vesentlige brudd på progresjonskravene jf. [§ 2-12](forskrift/2015-06-11-924/§2-12).
+2. Vesentlig forsinkelse som skyldes forhold kandidaten selv rår over.
+3. Gjentatte eller vesentlige brudd på kandidatens plikter etter avtalen, som informasjons-, oppfølgings- eller rapporteringsplikt. jf. [§ 3-6](forskrift/2015-06-11-924/§3-6) og [§ 3-7](forskrift/2015-06-11-924/§3-7).
+4. Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.
 
 Vedtak etter paragrafen her fattes av Dean. Klager behandles av klagenemnda ved Handelshøyskolen BI.
 
@@ -250,7 +298,13 @@ For ph.d.-kandidater uten arbeidsgiver skal tilsvarende meldeplikt nedfelles i o
 
 ### § 4-1. Grunnlag for bedømmelse
 
-Ph.d.-graden tildeles på grunnlag av:Godkjent predoktoralt forsvarGodkjent vitenskapelig avhandlingGodkjent gjennomføring av kursdelenGodkjent prøveforelesning over oppgitt emneGodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av:
+
+1. Godkjent predoktoralt forsvar
+2. Godkjent vitenskapelig avhandling
+3. Godkjent gjennomføring av kursdelen
+4. Godkjent prøveforelesning over oppgitt emne
+5. Godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 4-2. Tidsbruk fra innlevering til disputas
 
@@ -260,7 +314,13 @@ Handelshøyskolen BI må bestrebe at tiden fra innlevering til disputas er korte
 
 Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen og predoktoralt forsvar er godkjent.
 
-Som vedlegg til søknaden skal følge:Avhandlingen i godkjent format og i henhold til Handelshøyskolen BIs bestemmelser i den form og det antall eksemplarer Handelshøyskolen BI har bestemt.Dokumentasjon av nødvendige tillatelser, jf. [§ 2-1](forskrift/2015-06-11-924/§2-1).Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 3-8](forskrift/2015-06-11-924/§3-8).Erklæring om at doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
+Som vedlegg til søknaden skal følge:
+
+1. Avhandlingen i godkjent format og i henhold til Handelshøyskolen BIs bestemmelser i den form og det antall eksemplarer Handelshøyskolen BI har bestemt.
+2. Dokumentasjon av nødvendige tillatelser, jf. [§ 2-1](forskrift/2015-06-11-924/§2-1).
+3. Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 3-8](forskrift/2015-06-11-924/§3-8).
+4. Erklæring om at doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.
+5. Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
 
 Handelshøyskolen BI kan på selvstendig grunnlag avvise søknad om å få avhandlingen bedømt dersom det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité. Med mindre annet avtales skriftlig i det enkelte tilfelle, kan dette også gjøres gjeldende dersom innlevering av avhandlingen finner sted etter avsluttet opptak i doktorgradsprogrammet.
 
@@ -274,7 +334,13 @@ Handelshøyskolen BI behandler søknad om å få avhandlingen bedømt. Søknad s
 
 Når Handelshøyskolen BI har godkjent søknad om å få avhandlingen bedømt, oppnevner den en sakkyndig komité på minst tre medlemmer som skal bedømme avhandlingen og disputasen. Habilitetsreglene i [forvaltningsloven § 6](lov/1967-02-10/§6) gjelder for komiteens medlemmer. Komiteens sammensetning bør normalt være klarlagt før innleveringstidspunkt.
 
-Bedømmelseskomiteen skal normalt settes sammen slik at:Begge kjønn er representertMinst ett av medlemmene er uten tilknytning til Handelshøyskolen BIMinst ett av medlemmene ikke har hovedstilling ved norske institusjonerAlle medlemmene har doktorgrad eller tilsvarende kompetanseFlertallet i bedømmelseskomiteen er eksterne medlemmer.
+Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+1. Begge kjønn er representert
+2. Minst ett av medlemmene er uten tilknytning til Handelshøyskolen BI
+3. Minst ett av medlemmene ikke har hovedstilling ved norske institusjoner
+4. Alle medlemmene har doktorgrad eller tilsvarende kompetanse
+5. Flertallet i bedømmelseskomiteen er eksterne medlemmer.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt. Oppnevnte veiledere og andre som har bidratt til avhandlingen, kan ikke være medlem av bedømmelseskomiteen eller administrere den.
 

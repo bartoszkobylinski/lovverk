@@ -24,7 +24,13 @@ eu_basis: []
 
 ## I
 
-[Lov av 30. juni 1972 nr. 70](lov/1972-06-30-70) om bergverk skal gjelde for Jan Mayen med følgende endringer og tillegg:Meddelelse om det som skal forkynnes i henhold til bestemmelse i bergverksloven kan foregå etter reglene i [domstollovens § 164](lov/1915-08-13-5/§164).Den som forlanger utmålsforretning holdt eller som for øvrig med hjemmel av bergverksloven framsetter begjæring som kan nødvendiggjøre reise for bergmesteren, må oppfylle de krav som i hvert tilfelle blir stillet av vedkommende departement med hensyn til befordring, kost og forpleining samt eventuell annen godtgjørelse til bergmesteren.Reiser til inspeksjon på Jan Mayen foretas når bergmesteren finner det påkrevet og/eller etter spesiell anmodning av vedkommende departement.Den varslingsfrist som er bestemt i § 30 annet ledd forlenges til minst 2 måneder.Såfremt bergmesteren for Svalbard bemyndiges til å gjøre tjeneste som bergmester for Jan Mayen, gjelder ikke bestemmelsen i § 57 første ledd annet punktum i bergverksloven.
+[Lov av 30. juni 1972 nr. 70](lov/1972-06-30-70) om bergverk skal gjelde for Jan Mayen med følgende endringer og tillegg:
+
+1. Meddelelse om det som skal forkynnes i henhold til bestemmelse i bergverksloven kan foregå etter reglene i [domstollovens § 164](lov/1915-08-13-5/§164).
+2. Den som forlanger utmålsforretning holdt eller som for øvrig med hjemmel av bergverksloven framsetter begjæring som kan nødvendiggjøre reise for bergmesteren, må oppfylle de krav som i hvert tilfelle blir stillet av vedkommende departement med hensyn til befordring, kost og forpleining samt eventuell annen godtgjørelse til bergmesteren.
+3. Reiser til inspeksjon på Jan Mayen foretas når bergmesteren finner det påkrevet og/eller etter spesiell anmodning av vedkommende departement.
+4. Den varslingsfrist som er bestemt i § 30 annet ledd forlenges til minst 2 måneder.
+5. Såfremt bergmesteren for Svalbard bemyndiges til å gjøre tjeneste som bergmester for Jan Mayen, gjelder ikke bestemmelsen i § 57 første ledd annet punktum i bergverksloven.
 
 ## II
 

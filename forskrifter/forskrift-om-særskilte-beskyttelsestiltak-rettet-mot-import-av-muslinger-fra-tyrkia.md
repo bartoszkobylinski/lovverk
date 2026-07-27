@@ -17,7 +17,7 @@ xml_hash: "3e018d26f9871434a18cda701262c763c6d912250ed2ab1cc01b7ac918752ff6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -110,9 +110,14 @@ Member States shall not allow entry into the Union of live and chilled bivalve m
 
 ### Article 3. Measures concerning frozen and processed bivalve molluscs
 
-1\. Member States shall, using appropriate sampling plans and detection methods, carry out tests on consignments of frozen and processed bivalve molluscs originating in or dispatched from Turkey as provided for in paragraph 2.Those tests shall take place at the border control post of entry into the Union of the consignments concerned.
+1\. Member States shall, using appropriate sampling plans and detection methods, carry out tests on consignments of frozen and processed bivalve molluscs originating in or dispatched from Turkey as provided for in paragraph 2.
 
-2\. Member States shall carry out the tests necessary to identify:the contamination level of Escherichia coli in all consignments of frozen bivalve molluscs;the presence of marine biotoxins in all consignments of frozen or processed bivalve molluscs.
+Those tests shall take place at the border control post of entry into the Union of the consignments concerned.
+
+2\. Member States shall carry out the tests necessary to identify:
+
+1. the contamination level of Escherichia coli in all consignments of frozen bivalve molluscs;
+2. the presence of marine biotoxins in all consignments of frozen or processed bivalve molluscs.
 
 3\. The consignments subjected to tests referred to in paragraphs 1 and 2 shall stay under supervision of the competent authorities at the border control post concerned until the results of those tests are received and assessed.
 

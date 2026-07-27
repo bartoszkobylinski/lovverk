@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Hvem som kan gis tilgang til opplysninger for statistiske resultater og analyser
 
-(1) Tilgang til opplysninger etter [statistikkloven § 14](lov/2019-06-21-32/§14) kan gis til forskningsinstitusjoner for forskningsformål og til følgende organer for utarbeiding av statistiske resultater og analyser:statlige organer, fylkeskommuner og kommunerNorges BankRiksrevisjonensentrale statistikkmyndigheter i andre landinternasjonale organisasjoner med grunnlag i folkerettslig avtale.
+(1) Tilgang til opplysninger etter [statistikkloven § 14](lov/2019-06-21-32/§14) kan gis til forskningsinstitusjoner for forskningsformål og til følgende organer for utarbeiding av statistiske resultater og analyser:
+
+1. statlige organer, fylkeskommuner og kommuner
+2. Norges Bank
+3. Riksrevisjonen
+4. sentrale statistikkmyndigheter i andre land
+5. internasjonale organisasjoner med grunnlag i folkerettslig avtale.
 
 (2) Med forskningsinstitusjoner menes organisasjoner som er godkjent som forskningsorganisasjon av Forskningsrådet eller EUs statistikkontor, Eurostat. Statistisk sentralbyrå kan godkjenne en organisasjon som forskningsinstitusjon selv om organisasjonen ikke vil kunne godkjennes av Forskningsrådet eller Eurostat.
 
@@ -50,4 +56,9 @@ Statistisk sentralbyrå kan kreve betaling for tilrettelegging og tilgjengeliggj
 
 (1) Forskriften trer i kraft 1. januar 2021.
 
-(2) Fra samme tidspunkt oppheves[forskrift 13. februar 1990 nr. 105 om gjennomføring og utfylling av lov om offisiell statistikk og Statistisk sentralbyrå (statistikkloven)](forskrift/1990-02-13-105).[forskrift 15. desember 2006 nr. 1454 om utvidet virkeområde for lov 16. juni 1989 nr. 54 om offisiell statistikk og Statistisk sentralbyrå til å gjelde for Svalbard](forskrift/2006-12-15-1454)[forskrift 20. juni 2008 nr. 632 om gjennomføring av EØS-rettsakter om europeisk statistikk](forskrift/2008-06-20-632)[forskrift 1. desember 2014 nr. 1489 om opplysningsplikt til den offisielle lønnsstatistikken ved rapportering i henhold til lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)](forskrift/2014-12-01-1489).
+(2) Fra samme tidspunkt oppheves
+
+1. [forskrift 13. februar 1990 nr. 105 om gjennomføring og utfylling av lov om offisiell statistikk og Statistisk sentralbyrå (statistikkloven)](forskrift/1990-02-13-105).
+2. [forskrift 15. desember 2006 nr. 1454 om utvidet virkeområde for lov 16. juni 1989 nr. 54 om offisiell statistikk og Statistisk sentralbyrå til å gjelde for Svalbard](forskrift/2006-12-15-1454)
+3. [forskrift 20. juni 2008 nr. 632 om gjennomføring av EØS-rettsakter om europeisk statistikk](forskrift/2008-06-20-632)
+4. [forskrift 1. desember 2014 nr. 1489 om opplysningsplikt til den offisielle lønnsstatistikken ved rapportering i henhold til lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)](forskrift/2014-12-01-1489).

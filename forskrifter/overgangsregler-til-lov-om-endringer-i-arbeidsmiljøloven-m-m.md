@@ -22,7 +22,10 @@ eu_basis: []
 
 # Overgangsregler til lov om endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)
 
-1. Endringen i [arbeidsmiljøloven § 14-12](lov/2005-06-17-62/§14-12) første ledd og [statsansatteloven § 11](lov/2017-06-16-67/§11) første ledd gis virkning fra 1. juli 2023 forkonkrete innleieavtaler som foreligger på ikrafttredelsestidspunktet, ogoppdragskontrakter som er inngått før ikrafttredelsen under forutsetning av at innleie kan benyttes i oppdragsgjennomføringen. Det samme gjelder hvor bindende tilbud er inngitt før ikrafttredelsen.
+1. Endringen i [arbeidsmiljøloven § 14-12](lov/2005-06-17-62/§14-12) første ledd og [statsansatteloven § 11](lov/2017-06-16-67/§11) første ledd gis virkning fra 1. juli 2023 for
+
+   1. konkrete innleieavtaler som foreligger på ikrafttredelsestidspunktet, og
+   2. oppdragskontrakter som er inngått før ikrafttredelsen under forutsetning av at innleie kan benyttes i oppdragsgjennomføringen. Det samme gjelder hvor bindende tilbud er inngitt før ikrafttredelsen.
 2. Endringen i [arbeidsmiljøloven § 14-12](lov/2005-06-17-62/§14-12) fjerde ledd gjelder for innleieforhold som påbegynnes etter ikrafttredelsen. I innleieforhold som eksisterer ved ikrafttredelsen, vil innleie etter [§ 14-12](lov/2005-06-17-62/§14-12) andre ledd som skjer etter ikrafttredelsen likevel inngå i beregningsgrunnlaget som danner rett til fast ansettelse.
 3. [Arbeidsmiljøloven § 14-12](lov/2005-06-17-62/§14-12) nytt femte ledd gis virkning fra 1. juli 2023 for oppdragskontrakter som er inngått før ikrafttredelsen. Tilsvarende gjelder [arbeidsmiljøloven § 14-13](lov/2005-06-17-62/§14-13) nytt femte ledd og endringen i [arbeidsmarkedsloven § 25](lov/2004-12-10-76/§25) andre ledd.
 4. – – –

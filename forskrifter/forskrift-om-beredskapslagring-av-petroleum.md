@@ -15,7 +15,7 @@ xml_hash: "cb5bf257b0226d61a2a0dc7b7f3bec6eb043f0aa3968acc14c3cde007983d93a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,13 @@ Ved utrekning av volum for å fastslå om lagerplikt ligg føre, kan departement
 
 ## § 3. Lagringspliktige produkt
 
-Med mindre departementet bestemmer noko anna er følgjande produkt lagringspliktige:*Kategori 1:* Bensin.*Kategori 2:* Autodiesel, anleggsdiesel, lett fyringsolje, fyringsparafin, jetdrivstoff, marine gassoljer.*Kategori 3:* Tungdestillat, tungolje.Produkta skal vere i samsvar med Norsk Petroleumsinstitutts bransjestandard for oljeprodukt. Med tungdestillat er meint spesialdestillat fyring og spesialdestillat marine.
+Med mindre departementet bestemmer noko anna er følgjande produkt lagringspliktige:
+
+1. *Kategori 1:* Bensin.
+2. *Kategori 2:* Autodiesel, anleggsdiesel, lett fyringsolje, fyringsparafin, jetdrivstoff, marine gassoljer.
+3. *Kategori 3:* Tungdestillat, tungolje.
+
+Produkta skal vere i samsvar med Norsk Petroleumsinstitutts bransjestandard for oljeprodukt. Med tungdestillat er meint spesialdestillat fyring og spesialdestillat marine.
 
 ## § 4. Storleiken på beredskapslageret
 
@@ -44,7 +50,14 @@ Importørar eller produsentar som ikkje importerte eller framstilte lagringsplik
 
 ## § 5. Sal og forbruk unnateke frå lagring
 
-Ved utrekning av lagringsplikta inngår ikkjesal og forbruk av mengd som lagringspliktige har kjøpt av annan lagringspliktigsal og forbruk av mengd som den lagringspliktige har kjøpt av ein som ikkje er lagringspliktigsal til eksportsal til skip i utanriksfartsal til forsvarsstyresmakteneeige forbruk i raffineri.
+Ved utrekning av lagringsplikta inngår ikkje
+
+1. sal og forbruk av mengd som lagringspliktige har kjøpt av annan lagringspliktig
+2. sal og forbruk av mengd som den lagringspliktige har kjøpt av ein som ikkje er lagringspliktig
+3. sal til eksport
+4. sal til skip i utanriksfart
+5. sal til forsvarsstyresmaktene
+6. eige forbruk i raffineri.
 
 Lagringspliktig som har importert eller sjølv framstilt og kjøpt lagringspliktige produkt av andre lagringspliktige, kan i medhald av første ledd berre gjere slike frådrag i lagringspliktige importerte eller eigenproduserte volum at det står i høve til dei importerte eller eigenproduserte voluma, slik dei importerte eller eigenproduserte voluma står i høve til totalen av importerte eller eigenproduserte volum og volum kjøpt av andre lagringspliktige. Dette gjeld likevel ikkje der lagringspliktig kan dokumentere at ein større del av importerte eller eigenproduserte volum har gått med til sal eller forbruk som gir rett til frådrag.
 
@@ -58,13 +71,22 @@ Lagringsplikta etter [§ 3](forskrift/2006-09-01-1019/§3) er oppfylt når minst
 
 Lagringsplikta kan òg oppfyllast ved lager av råolje, kondensat og halvfabrikata. Lagringspliktig må då halde lager av råolje, kondensat og halvfabrikata som i volum tilsvarer dei voluma som ville ha gått med i framstillinga av dei aktuelle lagringspliktige produkta. Inntil 40 prosent av den totale lagringsplikta kan bestå av råolje, kondensat eller halvfabrikata.
 
-Med mindre anna produktutbytte kan dokumenterast, skal det ved utrekning av voluma etter tredje ledd leggjast til grunn følgjande utbyttefordeling for råolje tilsvarande20 prosent for produkt i kategori 150 prosent for produkt i kategori 230 prosent for produkt i kategori 3.
+Med mindre anna produktutbytte kan dokumenterast, skal det ved utrekning av voluma etter tredje ledd leggjast til grunn følgjande utbyttefordeling for råolje tilsvarande
+
+1. 20 prosent for produkt i kategori 1
+2. 50 prosent for produkt i kategori 2
+3. 30 prosent for produkt i kategori 3.
 
 Med dei avgrensingane som følgjer av andre ledd, kan lager av fleire komponentar som skal inngå i framstillinga av dei lagringspliktige produkta, tre i staden for dei produkta som skal framstillast av dei. Lagringspliktig må dokumentere at det vert halde lager av alle komponentane som går med i det produktet som skal erstattast. Ved utrekninga vert det teke utgangspunkt i det største volumet ferdig produkt som kan framstillast ved blanding av dei lagra komponentane.
 
 ## § 7. Produkt som ikkje kan inngå i eit beredskapslager
 
-Følgjande lagringspliktige produkt kan ikkje inngå i eit beredskapslager:råolje og kondensat som ikkje er utvunnelagringspliktige produkt som er i røyrleidningar, i transitt over land og i detaljsalsanlegg med unntak for bunkersanlegg for skiplagringspliktige produkt som er lagra på vegner av forsvarsstyresmaktenelagringspliktige produkt i tankskip i utanriksfart.
+Følgjande lagringspliktige produkt kan ikkje inngå i eit beredskapslager:
+
+1. råolje og kondensat som ikkje er utvunne
+2. lagringspliktige produkt som er i røyrleidningar, i transitt over land og i detaljsalsanlegg med unntak for bunkersanlegg for skip
+3. lagringspliktige produkt som er lagra på vegner av forsvarsstyresmaktene
+4. lagringspliktige produkt i tankskip i utanriksfart.
 
 ## § 8. Lagring av andre
 

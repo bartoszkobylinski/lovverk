@@ -28,13 +28,24 @@ Formålet med denne ordningen er å kompensere tap av billettinntekt og deltaker
 
 ## § 2. Generelle vilkår
 
-Det kan etter søknad gis kompensasjon til arrangører som i hovedsak formidler eller gjør kunst og kultur tilgjengelig til allmennheten når følgende vilkår er oppfylt:Arrangøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 5. mars 2020.Arrangementet var planlagt avholdt i Norge.Arrangementet ville ha vært åpent for allmennheten.Arrangementet var planlagt avholdt i perioden fra og med 5. mars til og med 30. april 2020.Tapt billettinntekt, deltakeravgift eller merutgifter for arrangøren i den gjeldende perioden utgjør minimum 25 000 kroner til sammen.Arrangøren er ikke under konkursbehandling.
+Det kan etter søknad gis kompensasjon til arrangører som i hovedsak formidler eller gjør kunst og kultur tilgjengelig til allmennheten når følgende vilkår er oppfylt:
+
+1. Arrangøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 5. mars 2020.
+2. Arrangementet var planlagt avholdt i Norge.
+3. Arrangementet ville ha vært åpent for allmennheten.
+4. Arrangementet var planlagt avholdt i perioden fra og med 5. mars til og med 30. april 2020.
+5. Tapt billettinntekt, deltakeravgift eller merutgifter for arrangøren i den gjeldende perioden utgjør minimum 25 000 kroner til sammen.
+6. Arrangøren er ikke under konkursbehandling.
 
 Arrangører som mottar 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019, har ikke rett til kompensasjon etter denne forskriften.
 
 ## § 3. Hvilke tap eller utgifter det kan gis kompensasjon for
 
-Det kan gis kompensasjon for:netto tapt billettinntekt ved avlysning eller stenging av arrangementer som følge av pålegg eller råd gitt av myndighetene i forbindelse med covid-19-utbruddet,netto tapt deltakeravgift ved avlysning eller stenging av arrangementer som følge av pålegg eller råd gitt av myndighetene i forbindelse med covid-19-utbruddet, ogmerutgifter som følge av at arrangementer avlyses, stenges eller utsettes som følge av pålegg eller råd gitt av myndighetene i forbindelse med covid-19-utbruddet.
+Det kan gis kompensasjon for:
+
+1. netto tapt billettinntekt ved avlysning eller stenging av arrangementer som følge av pålegg eller råd gitt av myndighetene i forbindelse med covid-19-utbruddet,
+2. netto tapt deltakeravgift ved avlysning eller stenging av arrangementer som følge av pålegg eller råd gitt av myndighetene i forbindelse med covid-19-utbruddet, og
+3. merutgifter som følge av at arrangementer avlyses, stenges eller utsettes som følge av pålegg eller råd gitt av myndighetene i forbindelse med covid-19-utbruddet.
 
 Med netto tapt billettinntekt eller tapt deltakeravgift menes differansen mellom arrangementets budsjetterte billettinntekt eller deltakeravgift og arrangementets faktiske billettinntekt eller deltakeravgift. Tapt billettinntekt eller deltakeravgift som har blitt dekket av arrangørens forsikringsordning, avtale mv. eller offentlig kompensasjon utenfor denne ordningen, kompenseres ikke. Tapt billettinntekt eller deltakeravgift som kan dekkes av arrangørens forsikringsordning eller avtale mv., dekkes heller ikke.
 
@@ -58,7 +69,16 @@ Søknad om kompensasjon skal leveres elektronisk via Norsk kulturråds nettsider
 
 Søknadsfrist vil bli fastsatt av Kulturdepartementet.
 
-Følgende opplysninger skal gis i søknadsskjemaet:bekreftelse på at vilkårene i [§ 2](forskrift/2020-04-03-677/§2) er oppfylt.tapt billettinntekt eller deltakeravgift som søkes kompensert i henhold til [§ 3](forskrift/2020-04-03-677/§3) bokstav a og b og merutgifter som søkes kompensert etter [§ 3](forskrift/2020-04-03-677/§3) bokstav c.bekreftelse på at kompensasjon etter [§ 3](forskrift/2020-04-03-677/§3) ikke er dekket eller kunne blitt dekket på annen måte, gjennom for eksempel forsikring eller avtaler.opplysninger om kompensasjon etter [§ 3](forskrift/2020-04-03-677/§3) vil gi et overskudd som overstiger budsjettert resultat for arrangement før avlysning eller utsettelse jf. [§ 4](forskrift/2020-04-03-677/§4) andre ledd.bekreftelse på at arrangøren ikke mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019, jf. [§ 2](forskrift/2020-04-03-677/§2) andre ledd.bekreftelse på at arrangøren ikke har mottatt offentlig kompensasjon utenfor denne ordningen som dekker kompensasjon etter [§ 3](forskrift/2020-04-03-677/§3).bekreftelse fra arrangør om at arrangementet ble avlyst, stengt eller utsatt som følge av råd eller pålegg fra myndighetene.bekreftelse på at arrangøren ikke er under konkursbehandling.
+Følgende opplysninger skal gis i søknadsskjemaet:
+
+1. bekreftelse på at vilkårene i [§ 2](forskrift/2020-04-03-677/§2) er oppfylt.
+2. tapt billettinntekt eller deltakeravgift som søkes kompensert i henhold til [§ 3](forskrift/2020-04-03-677/§3) bokstav a og b og merutgifter som søkes kompensert etter [§ 3](forskrift/2020-04-03-677/§3) bokstav c.
+3. bekreftelse på at kompensasjon etter [§ 3](forskrift/2020-04-03-677/§3) ikke er dekket eller kunne blitt dekket på annen måte, gjennom for eksempel forsikring eller avtaler.
+4. opplysninger om kompensasjon etter [§ 3](forskrift/2020-04-03-677/§3) vil gi et overskudd som overstiger budsjettert resultat for arrangement før avlysning eller utsettelse jf. [§ 4](forskrift/2020-04-03-677/§4) andre ledd.
+5. bekreftelse på at arrangøren ikke mottok 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019, jf. [§ 2](forskrift/2020-04-03-677/§2) andre ledd.
+6. bekreftelse på at arrangøren ikke har mottatt offentlig kompensasjon utenfor denne ordningen som dekker kompensasjon etter [§ 3](forskrift/2020-04-03-677/§3).
+7. bekreftelse fra arrangør om at arrangementet ble avlyst, stengt eller utsatt som følge av råd eller pålegg fra myndighetene.
+8. bekreftelse på at arrangøren ikke er under konkursbehandling.
 
 Norsk kulturråd kan også be om ytterligere opplysninger som er nødvendige for behandling av søknader etter denne forskriften
 
@@ -66,7 +86,14 @@ Arrangører med flere arrangementer må sende samlet søknad. Arrangører som sa
 
 ## § 6. Dokumentasjon
 
-Søkere må på forespørsel bl.a. kunne dokumentere:spesifikasjon av hvilke arrangementer som inngår i en ev. samlet søknad i henhold til [§ 5](forskrift/2020-04-03-677/§5) femte ledd.tapet eller merutgiftene som søkes kompensert etter [§ 3](forskrift/2020-04-03-677/§3), for eksempel ved å legge frem regnskap fra tidligere års sammenlignbare arrangementer, avtaler, intensjonsavtaler og annen relevant informasjon som viser kostnader, inntekter og eventuelt overskudd, jf. [§ 4](forskrift/2020-04-03-677/§4) andre ledd.budsjetterte inntekter og utgifter for arrangementet før beslutning om avlysning eller utsettelsefaktiske inntekter og utgifter for arrangementet etter beslutning om avlysning eller utsettelse.at tapet eller merutgiftene ikke dekkes på annen måte. Dokumentasjon av merutgifter kan bl.a. være kjøpsbetingelser eller avtaler for de varene eller tjenestene som søkes kompensert.at det var gitt pålegg eller råd fra myndighetene om avlysning eller utsettelse av arrangementet, samt datoen arrangementet ble avlyst, stengt eller utsatt.
+Søkere må på forespørsel bl.a. kunne dokumentere:
+
+1. spesifikasjon av hvilke arrangementer som inngår i en ev. samlet søknad i henhold til [§ 5](forskrift/2020-04-03-677/§5) femte ledd.
+2. tapet eller merutgiftene som søkes kompensert etter [§ 3](forskrift/2020-04-03-677/§3), for eksempel ved å legge frem regnskap fra tidligere års sammenlignbare arrangementer, avtaler, intensjonsavtaler og annen relevant informasjon som viser kostnader, inntekter og eventuelt overskudd, jf. [§ 4](forskrift/2020-04-03-677/§4) andre ledd.
+3. budsjetterte inntekter og utgifter for arrangementet før beslutning om avlysning eller utsettelse
+4. faktiske inntekter og utgifter for arrangementet etter beslutning om avlysning eller utsettelse.
+5. at tapet eller merutgiftene ikke dekkes på annen måte. Dokumentasjon av merutgifter kan bl.a. være kjøpsbetingelser eller avtaler for de varene eller tjenestene som søkes kompensert.
+6. at det var gitt pålegg eller råd fra myndighetene om avlysning eller utsettelse av arrangementet, samt datoen arrangementet ble avlyst, stengt eller utsatt.
 
 Arrangementenes budsjett og regnskap skal på forespørsel bekreftes av daglig leder eller styreleder. Søkes det om å kompensere tap eller merutgifter over 1 million kroner, skal det på forespørsel kunne fremlegges revisorattestestasjon for beregningen av kompensasjonsbeløpet.
 

@@ -70,9 +70,23 @@ Det skal utarbeides et kart over skogeiendommen. All informasjon som er registre
 
 De ulike registreringene skal gjennomføres i samsvar med gitte kvalitets- og metodekrav. Departementet kan gi nærmere retningslinjer om krav til kvalitet og metoder.
 
-En skogbruksplan eller ressursoversikt skal omfatte informasjon om de enkelte bestander eller behandlingsenheter:ArealHogstklasseBonitetVolum fordelt på treslagAlderTilvekstMiljøverdier knyttet til biologisk mangfold, landskap, friluftsliv og kulturminner.
+En skogbruksplan eller ressursoversikt skal omfatte informasjon om de enkelte bestander eller behandlingsenheter:
 
-Der det utarbeides skogbruksplan skal denne også omfatte informasjon om hele skogeiendommen:Totalt areal fordelt på markslagProduktivt skogareal fordelt på boniteter og hogstklasserVolum fordelt på treslag, boniteter og hogstklasserTilvekstProduksjonsevne.
+- Areal
+- Hogstklasse
+- Bonitet
+- Volum fordelt på treslag
+- Alder
+- Tilvekst
+- Miljøverdier knyttet til biologisk mangfold, landskap, friluftsliv og kulturminner.
+
+Der det utarbeides skogbruksplan skal denne også omfatte informasjon om hele skogeiendommen:
+
+- Totalt areal fordelt på markslag
+- Produktivt skogareal fordelt på boniteter og hogstklasser
+- Volum fordelt på treslag, boniteter og hogstklasser
+- Tilvekst
+- Produksjonsevne.
 
 > Endret ved [forskrift 18 des 2006 nr. 1495](forskrift/2006-12-18-1495) (i kraft 1 jan 2007).
 
@@ -152,4 +166,6 @@ Landbruks- og matdepartementet kan gi utfyllende bestemmelser til denne forskrif
 
 Denne forskrift trer i kraft straks.
 
-Fra samme dato oppheves følgende forskrift:[Forskrift 22. april 1994 nr. 318](forskrift/1994-04-22-318) om tilskudd til skogbruksplanlegging.
+Fra samme dato oppheves følgende forskrift:
+
+- [Forskrift 22. april 1994 nr. 318](forskrift/1994-04-22-318) om tilskudd til skogbruksplanlegging.

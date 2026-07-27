@@ -42,7 +42,11 @@ Patentstyret kan i det enkelte tilfellet godta annet språk enn nevnt i første 
 
 ### § 3. Søknadens innhold
 
-Søknaden skal være signert av søkeren eller dennes fullmektig og inneholde:søkerens navn eller foretaksnavn og adresse, og eventuelt også fullmektigens navn eller foretaksnavn og adresse.opplysning om det kreves prioritet etter [designloven § 16](lov/2003-03-14-15/§16).en angivelse av om og hvor lenge registreringen ønskes utsatt etter [designloven § 18](lov/2003-03-14-15/§18) annet ledd.
+Søknaden skal være signert av søkeren eller dennes fullmektig og inneholde:
+
+1. søkerens navn eller foretaksnavn og adresse, og eventuelt også fullmektigens navn eller foretaksnavn og adresse.
+2. opplysning om det kreves prioritet etter [designloven § 16](lov/2003-03-14-15/§16).
+3. en angivelse av om og hvor lenge registreringen ønskes utsatt etter [designloven § 18](lov/2003-03-14-15/§18) annet ledd.
 
 Søknaden skal i tillegg inneholde opplysninger som nevnt i [§ 4](forskrift/2003-04-04-418/§4) og [§ 5](forskrift/2003-04-04-418/§5).
 
@@ -100,7 +104,12 @@ Patentstyret kan forlange at den som krever prioritet, skal innlevere et priorit
 
 For at en søknad skal kunne gi grunnlag for prioritet etter [designloven § 16](lov/2003-03-14-15/§16) første ledd, må den være den første som angir designen.
 
-En senere søknad som angir designen, kan likevel gi grunnlag for prioritet hvis:den er innlevert på samme sted som den første søknaden og av samme søker eller dennes rettsetterfølger,den første søknaden er trukket tilbake, henlagt eller avslått uten at designen var allment tilgjengelig da den senere søknaden ble innlevert,den første søknaden ikke har tjent som grunnlag for noe krav om prioritet, ogden første søknaden ikke danner grunnlag for noen bestående rettighet.
+En senere søknad som angir designen, kan likevel gi grunnlag for prioritet hvis:
+
+1. den er innlevert på samme sted som den første søknaden og av samme søker eller dennes rettsetterfølger,
+2. den første søknaden er trukket tilbake, henlagt eller avslått uten at designen var allment tilgjengelig da den senere søknaden ble innlevert,
+3. den første søknaden ikke har tjent som grunnlag for noe krav om prioritet, og
+4. den første søknaden ikke danner grunnlag for noen bestående rettighet.
 
 ### § 9. Folkerettslig avtale om prioritet
 
@@ -138,7 +147,11 @@ Etter krav fra søkeren skal Patentstyret foreta en supplerende undersøkelse av
 
 Kravet om supplerende undersøkelse må tas med i søknaden ved innleveringen til Patentstyret. Omfatter søknaden mer enn én design, skal undersøkelsen gjelde alle designene i søknaden, om ikke annet er angitt i søknaden.
 
-Ved den supplerende undersøkelsen skal Patentstyret kartlegge forhold som kan være til hinder for designrett etter [designloven § 3](lov/2003-03-14-15/§3) til [§ 5](lov/2003-03-14-15/§5), [§ 7](lov/2003-03-14-15/§7) annet ledd og [§ 8](lov/2003-03-14-15/§8). Patentstyret skal herunder kartlegge alle:design som er eller har vært søkt eller registrert i Norgeinternasjonale registreringer som har eller har hatt virkning i Norge og hvor Norge er utpektvaremerke som kan være til hinder for designrett etter [designloven § 7](lov/2003-03-14-15/§7) tredje ledd nr. 1.
+Ved den supplerende undersøkelsen skal Patentstyret kartlegge forhold som kan være til hinder for designrett etter [designloven § 3](lov/2003-03-14-15/§3) til [§ 5](lov/2003-03-14-15/§5), [§ 7](lov/2003-03-14-15/§7) annet ledd og [§ 8](lov/2003-03-14-15/§8). Patentstyret skal herunder kartlegge alle:
+
+1. design som er eller har vært søkt eller registrert i Norge
+2. internasjonale registreringer som har eller har hatt virkning i Norge og hvor Norge er utpekt
+3. varemerke som kan være til hinder for designrett etter [designloven § 7](lov/2003-03-14-15/§7) tredje ledd nr. 1.
 
 Får Patentstyret kjennskap til andre forhold som kan ha betydning for beskyttelsen av designen, skal dette inngå i undersøkelsen.
 
@@ -224,7 +237,42 @@ Innehaveren kan kreve at Patentstyret slår sammen tidligere avdelte registrerin
 
 Patentstyret fører register over designsøknader og designregistreringer. For internasjonale designregistreringer hvor Norge er utpekt gjelder [§ 21](forskrift/2003-04-04-418/§21). Opplysningene i designregistret er tilgjengelig for enhver.
 
-Registeret skal inneholde følgende opplysninger om søknaden og registreringen:søkerens navn eller foretaksnavn og adresseeventuell fullmektigs navn eller foretaksnavn og adresseeventuell særskilt adresse for korrespondanse, jf. [§ 3a](forskrift/2003-04-04-418/§3a) og [designloven § 49](lov/2003-03-14-15/§49)hvis det fremgår av søknaden, eller søkeren eller designeren har bedt om at navnet innføres i registeret, designerens eller designernes navn, gruppe eller foretaksnavn og adressesøknadsdag og søknadsnummerom prioritet er krevd, og i tilfelle grunnlaget for prioritet og opplysninger som nevnt i [kapittel 2](forskrift/2003-04-04-418/kap2)bilder som viser designen, med angivelse av om designen er i fargerom det er levert modellanmerkning om samregistreringangivelse av det produktet eller produktene som designen gjelder, og den eller de klassene i Locarnoavtalen 8. oktober 1968 nr. 1 om internasjonal klassifisering av design som omfatter produktetregistreringsdag, registreringsnummer og kunngjøringsdagregistreringsperiodens utløpom søknaden er en utskilt eller avdelt søknad, og i tilfelle den opprinnelige søknadens nummerom registreringen er en avdelt registrering, og i tilfelle den opprinnelige registreringens nummerom det ved utskilling fra eller deling av en søknad eller registrering er fremkommet nye søknader eller registreringer, med opplysning om de nye søknads- eller registreringsnumreneom søknaden eller registreringen er sammenslått med en annen søknad eller registrering, og i tilfelle den opprinnelige søknadens eller registreringens nummer og leveringsdagom søkeren har bedt om utsatt registreringden dag dokumenter som kan avsløre designens utseende ble tilgjengelige for enhver etter [designloven § 21](lov/2003-03-14-15/§21)mottatte og sendte dokumenter i sakenbetalte utestående og eventuelt tilbakebetalte avgifter og gebyrerandre beslutninger som er truffet i saken og sakens statusom designregistreringen er fornyet etter [designloven § 24](lov/2003-03-14-15/§24) og fornyelsesavgift er betalt,dato for opphør etter [designloven § 33](lov/2003-03-14-15/§33) eller [§ 34](lov/2003-03-14-15/§34)om krav om at fristoversittelse ikke skal få virkning og avgjørelsen av slikt krav, jf. [designloven § 50](lov/2003-03-14-15/§50)at det er inngitt krav om administrativ overprøving av og avgjørelse i slik sak, jf. [designloven § 25](lov/2003-03-14-15/§25)at det er levert klage til Klagenemnden for industrielle rettigheter etter [designloven § 36](lov/2003-03-14-15/§36)at det er reist søksmål etter [designloven § 39](lov/2003-03-14-15/§39)at det er reist søksmål om ugyldigkjennelse eller overføring av registreringen etter [designloven § 25](lov/2003-03-14-15/§25), og utfallet av saken når dommen er endeligny fullmektig ved endring i fullmektigforholdat det er tatt utlegg og arrest i en designregistrering,om overdragelse eller lisensom søkerens, innehaverens, fullmektigens eller lisenstakerens navn, foretaksnavn eller adresse er endret.Melding om endringer etter nr. 29, 31 og 32 skal leveres på særskilt skjema fastsatt av Patentstyret.
+Registeret skal inneholde følgende opplysninger om søknaden og registreringen:
+
+1. søkerens navn eller foretaksnavn og adresse
+2. eventuell fullmektigs navn eller foretaksnavn og adresse
+3. eventuell særskilt adresse for korrespondanse, jf. [§ 3a](forskrift/2003-04-04-418/§3a) og [designloven § 49](lov/2003-03-14-15/§49)
+4. hvis det fremgår av søknaden, eller søkeren eller designeren har bedt om at navnet innføres i registeret, designerens eller designernes navn, gruppe eller foretaksnavn og adresse
+5. søknadsdag og søknadsnummer
+6. om prioritet er krevd, og i tilfelle grunnlaget for prioritet og opplysninger som nevnt i [kapittel 2](forskrift/2003-04-04-418/kap2)
+7. bilder som viser designen, med angivelse av om designen er i farger
+8. om det er levert modell
+9. anmerkning om samregistrering
+10. angivelse av det produktet eller produktene som designen gjelder, og den eller de klassene i Locarnoavtalen 8. oktober 1968 nr. 1 om internasjonal klassifisering av design som omfatter produktet
+11. registreringsdag, registreringsnummer og kunngjøringsdag
+12. registreringsperiodens utløp
+13. om søknaden er en utskilt eller avdelt søknad, og i tilfelle den opprinnelige søknadens nummer
+14. om registreringen er en avdelt registrering, og i tilfelle den opprinnelige registreringens nummer
+15. om det ved utskilling fra eller deling av en søknad eller registrering er fremkommet nye søknader eller registreringer, med opplysning om de nye søknads- eller registreringsnumrene
+16. om søknaden eller registreringen er sammenslått med en annen søknad eller registrering, og i tilfelle den opprinnelige søknadens eller registreringens nummer og leveringsdag
+17. om søkeren har bedt om utsatt registrering
+18. den dag dokumenter som kan avsløre designens utseende ble tilgjengelige for enhver etter [designloven § 21](lov/2003-03-14-15/§21)
+19. mottatte og sendte dokumenter i saken
+20. betalte utestående og eventuelt tilbakebetalte avgifter og gebyrer
+21. andre beslutninger som er truffet i saken og sakens status
+22. om designregistreringen er fornyet etter [designloven § 24](lov/2003-03-14-15/§24) og fornyelsesavgift er betalt,
+23. dato for opphør etter [designloven § 33](lov/2003-03-14-15/§33) eller [§ 34](lov/2003-03-14-15/§34)
+24. om krav om at fristoversittelse ikke skal få virkning og avgjørelsen av slikt krav, jf. [designloven § 50](lov/2003-03-14-15/§50)
+25. at det er inngitt krav om administrativ overprøving av og avgjørelse i slik sak, jf. [designloven § 25](lov/2003-03-14-15/§25)
+26. at det er levert klage til Klagenemnden for industrielle rettigheter etter [designloven § 36](lov/2003-03-14-15/§36)
+27. at det er reist søksmål etter [designloven § 39](lov/2003-03-14-15/§39)
+28. at det er reist søksmål om ugyldigkjennelse eller overføring av registreringen etter [designloven § 25](lov/2003-03-14-15/§25), og utfallet av saken når dommen er endelig
+29. ny fullmektig ved endring i fullmektigforhold
+30. at det er tatt utlegg og arrest i en designregistrering,
+31. om overdragelse eller lisens
+32. om søkerens, innehaverens, fullmektigens eller lisenstakerens navn, foretaksnavn eller adresse er endret.
+
+Melding om endringer etter nr. 29, 31 og 32 skal leveres på særskilt skjema fastsatt av Patentstyret.
 
 > Endret ved [forskrifter 25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010), [1 mars 2013 nr. 246](forskrift/2013-03-01-246) (i kraft 1 april 2013), [21 juni 2019 nr. 800](forskrift/2019-06-21-800) (i kraft 1 juli 2019).
 
@@ -232,7 +280,24 @@ Registeret skal inneholde følgende opplysninger om søknaden og registreringen:
 
 Internasjonale designregistreringer hvor Norge er utpekt føres i registeret nevnt i [§ 20](forskrift/2003-04-04-418/§20). Opplysningene i registeret er tilgjengelige for enhver.
 
-Registeret skal inneholde følgende opplysninger om den internasjonale registreringen:internasjonalt registreringsnummerdesignhaverens navn eller foretaksnavn og adresseopplysninger om hvem som har frembrakt designen hvis det fremgår av den internasjonale registreringen, eller hvis designhaver eller designer har bedt om at navnet føres inn i registeret.eventuell fullmektigs navn eller foretaksnavn og adresseeventuell særskilt adresse for korrespondanse, jf. [§ 3a](forskrift/2003-04-04-418/§3a) og [designloven § 49](lov/2003-03-14-15/§49)dato for internasjonal registrering og kunngjøring av registreringen i Det internasjonale byråets bulleteng (International Design Bulletin)om prioritet er krevd, og i tilfelle hvor den påberopte tidligere søknaden er levert, samt leveringsdag og søknadsnummer for søknadendato for beslutning om virkning i Norge og kunngjøring av beslutningenbilder som viser designen samt angivelse av om designen er i fargerangivelse av produktet eller produktene som designen gjelder, og den eller de klassene i Locarnoavtalen 8. oktober 1968 nr. 1 om internasjonal klassifisering av design som omfatter produktet på engelskanmerkning om samregistreringom fornyelse av en registreringdato for registrerings- eller eventuelt fornyelsesperiodens utløpom registreringen har falt bort eller er løpt ut og datoen for detandre opplysninger som mottas fra Det internasjonale byrået om internasjonal designregistrering som gjelder i Norge når opplysningene har betydning for retten til, rettigheter i eller vernet av designen i Norgeopplysninger som nevnt i [§ 20](forskrift/2003-04-04-418/§20) annet ledd nr. 19, 21 og 29 til 32.
+Registeret skal inneholde følgende opplysninger om den internasjonale registreringen:
+
+1. internasjonalt registreringsnummer
+2. designhaverens navn eller foretaksnavn og adresse
+3. opplysninger om hvem som har frembrakt designen hvis det fremgår av den internasjonale registreringen, eller hvis designhaver eller designer har bedt om at navnet føres inn i registeret.
+4. eventuell fullmektigs navn eller foretaksnavn og adresse
+5. eventuell særskilt adresse for korrespondanse, jf. [§ 3a](forskrift/2003-04-04-418/§3a) og [designloven § 49](lov/2003-03-14-15/§49)
+6. dato for internasjonal registrering og kunngjøring av registreringen i Det internasjonale byråets bulleteng (International Design Bulletin)
+7. om prioritet er krevd, og i tilfelle hvor den påberopte tidligere søknaden er levert, samt leveringsdag og søknadsnummer for søknaden
+8. dato for beslutning om virkning i Norge og kunngjøring av beslutningen
+9. bilder som viser designen samt angivelse av om designen er i farger
+10. angivelse av produktet eller produktene som designen gjelder, og den eller de klassene i Locarnoavtalen 8. oktober 1968 nr. 1 om internasjonal klassifisering av design som omfatter produktet på engelsk
+11. anmerkning om samregistrering
+12. om fornyelse av en registrering
+13. dato for registrerings- eller eventuelt fornyelsesperiodens utløp
+14. om registreringen har falt bort eller er løpt ut og datoen for det
+15. andre opplysninger som mottas fra Det internasjonale byrået om internasjonal designregistrering som gjelder i Norge når opplysningene har betydning for retten til, rettigheter i eller vernet av designen i Norge
+16. opplysninger som nevnt i [§ 20](forskrift/2003-04-04-418/§20) annet ledd nr. 19, 21 og 29 til 32.
 
 > Endret ved [forskrifter 25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010), [21 juni 2019 nr. 800](forskrift/2019-06-21-800) (i kraft 1 juli 2019).
 
@@ -258,17 +323,41 @@ Kunngjøring av opphør av internasjonal designregistrering etter [designloven �
 
 ### § 24. Kunngjøring av administrativ overprøving
 
-Kunngjøring av krav om administrativ overprøving etter [designloven § 27](lov/2003-03-14-15/§27) skal inneholde:opplysninger som nevnt i [§ 20](forskrift/2003-04-04-418/§20) annet ledd nr. 1 til 3 og 10 og 11navn eller foretaksnavn og adresse på den som krever administrativ overprøving, og eventuell fullmektigs navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 30](forskrift/2003-04-04-418/§30) annet ledd, jf. [§ 3a](forskrift/2003-04-04-418/§3a)dato for kravet om administrativ overprøving.
+Kunngjøring av krav om administrativ overprøving etter [designloven § 27](lov/2003-03-14-15/§27) skal inneholde:
 
-Kunngjøring av endelig avgjørelse i sak om administrativ overprøving, jf. [designloven § 35](lov/2003-03-14-15/§35), skal inneholde:opplysninger som nevnt i første leddopplysninger om utfallet av den administrative overprøvingendatoen avgjørelsen ble endelig.
+1. opplysninger som nevnt i [§ 20](forskrift/2003-04-04-418/§20) annet ledd nr. 1 til 3 og 10 og 11
+2. navn eller foretaksnavn og adresse på den som krever administrativ overprøving, og eventuell fullmektigs navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 30](forskrift/2003-04-04-418/§30) annet ledd, jf. [§ 3a](forskrift/2003-04-04-418/§3a)
+3. dato for kravet om administrativ overprøving.
+
+Kunngjøring av endelig avgjørelse i sak om administrativ overprøving, jf. [designloven § 35](lov/2003-03-14-15/§35), skal inneholde:
+
+1. opplysninger som nevnt i første ledd
+2. opplysninger om utfallet av den administrative overprøvingen
+3. datoen avgjørelsen ble endelig.
 
 > Endret ved [forskrift 25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010).
 
 ### § 25. Andre kunngjøringer
 
-Kunngjøring etter [designloven § 50](lov/2003-03-14-15/§50) skal inneholde:opplysning om hvilken frist som er oversittet og at det er besluttet at fristoversittelsen ikke får virkningopplysninger som nevnt i [§ 20](forskrift/2003-04-04-418/§20) annet ledd nr. 1 og 5 eller 11.
+Kunngjøring etter [designloven § 50](lov/2003-03-14-15/§50) skal inneholde:
 
-Patentstyret skal for øvrig kunngjøre:rett til fortsatt utnyttelse etter [designloven § 31](lov/2003-03-14-15/§31), med angivelse av designens registreringsnummer, opplysninger om innehaver og opplysinger om den som har rett til fortsatt utnyttelseopphevelse av registrering etter [designloven § 33](lov/2003-03-14-15/§33) og slettelse av registrering etter [designloven § 34](lov/2003-03-14-15/§34)søksmål om ugyldighet og overføring og endelig avgjørelse i slik saksøksmål etter [designloven § 39](lov/2003-03-14-15/§39) og endelig avgjørelse i slik saksammenslåing av registreringer, med angivelse av de avdelte registreringenes numre og det nye registreringsnummeretmelding om overdragelsemelding om lisensmelding om endring av søkerens, innehaverens, fullmektigens eller lisenstakerens navn eller foretaksnavn og adresse, samt eventuell endring av særskilt korrespondanseadressemelding om oppnevning, endring eller sletting av fullmektigutlegg og arrest i designen.Kunngjøring etter nr. 3 og 6 til 10 skal inneholde opplysning om hvilken dato melding om forholdet som kunngjøres kom inn til Patentstyret.
+1. opplysning om hvilken frist som er oversittet og at det er besluttet at fristoversittelsen ikke får virkning
+2. opplysninger som nevnt i [§ 20](forskrift/2003-04-04-418/§20) annet ledd nr. 1 og 5 eller 11.
+
+Patentstyret skal for øvrig kunngjøre:
+
+1. rett til fortsatt utnyttelse etter [designloven § 31](lov/2003-03-14-15/§31), med angivelse av designens registreringsnummer, opplysninger om innehaver og opplysinger om den som har rett til fortsatt utnyttelse
+2. opphevelse av registrering etter [designloven § 33](lov/2003-03-14-15/§33) og slettelse av registrering etter [designloven § 34](lov/2003-03-14-15/§34)
+3. søksmål om ugyldighet og overføring og endelig avgjørelse i slik sak
+4. søksmål etter [designloven § 39](lov/2003-03-14-15/§39) og endelig avgjørelse i slik sak
+5. sammenslåing av registreringer, med angivelse av de avdelte registreringenes numre og det nye registreringsnummeret
+6. melding om overdragelse
+7. melding om lisens
+8. melding om endring av søkerens, innehaverens, fullmektigens eller lisenstakerens navn eller foretaksnavn og adresse, samt eventuell endring av særskilt korrespondanseadresse
+9. melding om oppnevning, endring eller sletting av fullmektig
+10. utlegg og arrest i designen.
+
+Kunngjøring etter nr. 3 og 6 til 10 skal inneholde opplysning om hvilken dato melding om forholdet som kunngjøres kom inn til Patentstyret.
 
 > Endret ved [forskrift 25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010).
 
@@ -374,7 +463,11 @@ Dersom en internasjonal designregistrering er gitt virkning i Norge ved en åpen
 
 ### § 40. Oppheving av andre forskrifter
 
-Følgende forskrifter oppheves:[Forskrift av 15. september 1970 nr. 9122](forskrift/1970-09-15-9122) om klassifikasjon av mønster[Forskrift av 20. desember 1996 nr. 1163](forskrift/1996-12-20-1163) til mønsterloven[Forskrift av 23. desember 1996 nr. 1264](forskrift/1996-12-23-1264) om nærmere bestemmelser til mønsterloven.
+Følgende forskrifter oppheves:
+
+1. [Forskrift av 15. september 1970 nr. 9122](forskrift/1970-09-15-9122) om klassifikasjon av mønster
+2. [Forskrift av 20. desember 1996 nr. 1163](forskrift/1996-12-20-1163) til mønsterloven
+3. [Forskrift av 23. desember 1996 nr. 1264](forskrift/1996-12-23-1264) om nærmere bestemmelser til mønsterloven.
 
 > Endret ved [forskrift 9 april 2010 nr. 498](forskrift/2010-04-09-498) (i kraft 17 juni 2010, tidligere § 36).
 

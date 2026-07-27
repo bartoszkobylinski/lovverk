@@ -50,7 +50,11 @@ Den som har fått tildelt dispensasjon fra en salgsorganisasjon for å drive kai
 
 ## § 4. Vilkår for registrering
 
-For å bli registrert som kjøper må søker være registrert i Foretaksregisteret og Enhetsregisteret, og sende søknad til Fiskeridirektoratet med følgende opplysninger:Søker/foretakets organisasjonsnummer, navn, adresse, telefonnummer, epostadresse, samt navn og adresse for styreleder og daglig leder.Nøyaktig stedsangivelse for hvor kjøp av fangst skal skje. Dette omfatter også mottaksanlegg og lignende. Med nøyaktig stedsangivelse menes besøksadresse og kommunenummeret hvor kjøpet av fangst skal skje, eventuelt godkjenningsnummer, samt nøyaktige koordinater angitt i grader og desimalminutter.En bekreftelse på at kjøper forplikter seg til å holde seg orientert om og overholde salgsorganisasjonens forretningsregler og omsetnings- og salgsbestemmelser, herunder til enhver tid stille den bankgaranti eller tilsvarende sikkerhet som salgsorganisasjonene krever, jf. [lov 21. juni 2013 nr. 75 om førstehandsomsetning av viltlevande marine ressursar § 10](lov/2013-06-21-75/§10).
+For å bli registrert som kjøper må søker være registrert i Foretaksregisteret og Enhetsregisteret, og sende søknad til Fiskeridirektoratet med følgende opplysninger:
+
+1. Søker/foretakets organisasjonsnummer, navn, adresse, telefonnummer, epostadresse, samt navn og adresse for styreleder og daglig leder.
+2. Nøyaktig stedsangivelse for hvor kjøp av fangst skal skje. Dette omfatter også mottaksanlegg og lignende. Med nøyaktig stedsangivelse menes besøksadresse og kommunenummeret hvor kjøpet av fangst skal skje, eventuelt godkjenningsnummer, samt nøyaktige koordinater angitt i grader og desimalminutter.
+3. En bekreftelse på at kjøper forplikter seg til å holde seg orientert om og overholde salgsorganisasjonens forretningsregler og omsetnings- og salgsbestemmelser, herunder til enhver tid stille den bankgaranti eller tilsvarende sikkerhet som salgsorganisasjonene krever, jf. [lov 21. juni 2013 nr. 75 om førstehandsomsetning av viltlevande marine ressursar § 10](lov/2013-06-21-75/§10).
 
 Dersom det søkes om registrering for å drive kjøp ved flere mottaksanlegg eller steder, gjelder bokstav b for det enkelte mottaksanlegg eller sted.
 
@@ -88,7 +92,10 @@ Vedtak om suspensjon som nevnt i første ledd opphører fra det tidspunkt salgso
 
 ## § 8. Tilbakekall av registreringen
 
-Registrering som kjøper kan kalles tilbake dersomKjøper ikke har kjøpt fangst i første hånd i en tidsperiode på 12 måneder, ellerKjøper ikke til enhver tid fyller vilkårene i [§ 4](forskrift/2010-11-26-1475/§4).
+Registrering som kjøper kan kalles tilbake dersom
+
+1. Kjøper ikke har kjøpt fangst i første hånd i en tidsperiode på 12 måneder, eller
+2. Kjøper ikke til enhver tid fyller vilkårene i [§ 4](forskrift/2010-11-26-1475/§4).
 
 Vedtak om tilbakekall kan gjøres midlertidig. I slike tilfeller kan det fastsettes at kjøper ikke trenger å søke på nytt når tilbakekallsperioden er utløpt.
 

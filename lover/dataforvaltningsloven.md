@@ -15,7 +15,7 @@ xml_hash: "2f323f4261d2bd6b66f100237e331e272cd71dad7287b4d5339f208f96db2f36"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32019L1024"
@@ -37,7 +37,12 @@ Loven skal fremme viderebruk av data fra offentlig sektor, bidra til forskning, 
 
 ### § 2. Lovens virkeområde
 
-Loven gjelder forstaten, fylkeskommunene og kommuneneandre rettssubjekter i saker der de fatter enkeltvedtak eller gir forskriftselvstendige rettssubjekter som er omfattet av [offentleglova](lov/2006-05-19-16)andre rettssubjekter som er omfattet av [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5k (direktiv [(EU) 2019/1024](eu/32019l1024)) (åpne data-direktivet).
+Loven gjelder for
+
+1. staten, fylkeskommunene og kommunene
+2. andre rettssubjekter i saker der de fatter enkeltvedtak eller gir forskrift
+3. selvstendige rettssubjekter som er omfattet av [offentleglova](lov/2006-05-19-16)
+4. andre rettssubjekter som er omfattet av [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5k (direktiv [(EU) 2019/1024](eu/32019l1024)) (åpne data-direktivet).
 
 Første punktum bokstav c og d gjelder ikke for rettssubjekter som driver næringsvirksomhet i direkte konkurranse med eller på samme vilkår som private. Kongen kan gi forskrift om at loven ikke skal gjelde for utdanningsinstitusjoner, kulturinstitusjoner og bestemte virksomheter som er omfattet av første ledd bokstav a og c, eller for visse data hos slike virksomheter.
 
@@ -51,7 +56,10 @@ Loven gjelder på Svalbard og Jan Mayen. Kongen kan gi forskrift om lovens anven
 
 ### § 3. Definisjoner
 
-I denne loven betyr:data: enhver framstilling av handlinger, fakta eller informasjon og enhver sammenstilling av slike handlinger, fakta eller informasjon, også i form av lyd- eller bildeopptak eller audiovisuelle opptakviderebruk: bruk av data fra virksomheter omfattet av loven her og forskningsdata til ethvert formål, unntatt slike virksomheters bruk av data som er mottatt fra en annen virksomhet utelukkende som ledd i utøving av myndighets- eller forvaltningsoppgaver.
+I denne loven betyr:
+
+1. data: enhver framstilling av handlinger, fakta eller informasjon og enhver sammenstilling av slike handlinger, fakta eller informasjon, også i form av lyd- eller bildeopptak eller audiovisuelle opptak
+2. viderebruk: bruk av data fra virksomheter omfattet av loven her og forskningsdata til ethvert formål, unntatt slike virksomheters bruk av data som er mottatt fra en annen virksomhet utelukkende som ledd i utøving av myndighets- eller forvaltningsoppgaver.
 
 ### § 4. Rett til å kreve at data gjøres tilgjengelig for viderebruk
 

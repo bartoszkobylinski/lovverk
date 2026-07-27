@@ -15,7 +15,7 @@ xml_hash: "1a0990c3bc97c1007d41458e0aa9ce8b5d4c65d7c1edf60e98bde31a26ccf8de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,15 @@ Forskriften setter ikke krav til elektromagnetisk stråling som avgis av målein
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med:*Avgassmåler:* Et måleredskap til bestemmelse av volumandeler av gitte komponenter av avgassen fra et motorkjøretøy med gnisttenning på den analyserte prøvens fuktighetsnivå, jf. avsnitt II*Målestørrelsen:* Den bestemte størrelsen som skal måles*Påvirkende størrelse:* En størrelse som ikke er målestørrelsen, men som påvirker måleresultatet*Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør avgassmålerens normale driftsbetingelser*Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor avgassmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser*Kritiske endringsverdi:* Den verdien der endringen i avgassmåleren anses som uønsket*Klimatiske miljøer:* De omgivelser der avgassmåleren kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+I denne forskriften menes med:
+
+1. *Avgassmåler:* Et måleredskap til bestemmelse av volumandeler av gitte komponenter av avgassen fra et motorkjøretøy med gnisttenning på den analyserte prøvens fuktighetsnivå, jf. avsnitt II
+2. *Målestørrelsen:* Den bestemte størrelsen som skal måles
+3. *Påvirkende størrelse:* En størrelse som ikke er målestørrelsen, men som påvirker måleresultatet
+4. *Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør avgassmålerens normale driftsbetingelser
+5. *Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor avgassmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser
+6. *Kritiske endringsverdi:* Den verdien der endringen i avgassmåleren anses som uønsket
+7. *Klimatiske miljøer:* De omgivelser der avgassmåleren kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
 
 ## Kapittel 2 – Krav til avgassmålere
 
@@ -87,7 +95,10 @@ Det mekaniske miljø klassifiseres i følgende klasser:
 | M2 | Denne klassen omfatter avgassmålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøyer i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
 | M3 | Denne klassen omfatter avgassmålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:
+
+1. Vibrasjon
+2. Mekanisk sjokk.
 
 ### § 9. Elektromagnetiske miljø
 
@@ -101,9 +112,21 @@ Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskreve
 | E2 | Denne klassen omfatter avgassmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter avgassmålere som får strøm fra batteriet i et kjøretøy. Slike avgassmålere skal oppfylle kravene for E2 samt følgende tilleggskrav: spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
-Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:SpenningsvariasjonVariasjoner i nettfrekvensNettgenererte magnetiske feltAndre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
+1. Spenningsavbrudd
+2. Kortvarig redusert spenning
+3. Spenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladninger
+4. Høyfrekvente elektromagnetisk felt
+5. Overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. Overspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. Spenningsvariasjon
+2. Variasjoner i nettfrekvens
+3. Nettgenererte magnetiske felt
+4. Andre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
 
 ### § 10. Grunnleggende regler for forsøk og bestemmelse av feil
 
@@ -139,7 +162,12 @@ En avgassmåler skal konstrueres slik at virkningen av en funksjonsfeil som medf
 
 ### § 17. Egnethet
 
-En avgassmåler skal være:Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatRobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserKonstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av avgassmåleren. Testprosedyren skal være beskrevet i bruksanvisningenUfølsom overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+En avgassmåler skal være:
+
+1. Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat
+2. Robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser
+3. Konstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av avgassmåleren. Testprosedyren skal være beskrevet i bruksanvisningen
+4. Ufølsom overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
 
 En avgassmåler skal ikke være av en slik art at det lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
 
@@ -159,11 +187,25 @@ Måledata, programvare som er av avgjørende betydning for måleegenskapene, og 
 
 ### § 19. Opplysninger som skal påføres eller følge avgassmåleren
 
-En avgassmåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres avgassmåleren:Relevante opplysninger om bruksbetingelserMålekapasitetMåleområdeIdentitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseOpplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+En avgassmåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres avgassmåleren:
+
+1. Relevante opplysninger om bruksbetingelser
+2. Målekapasitet
+3. Måleområde
+4. Identitetsmerke
+5. Nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse
+6. Opplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
 
 Dersom målerens dimensjoner er for små eller dets konstruksjon for følsom til at de relevante opplysninger kan påføres, skal disse være påført på eventuell emballasje samt i de følgedokumenter som kreves i henhold til denne forskriften.
 
-Opplysninger om betjening skal følge avgassmåleren med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:Angitte driftsbetingelserElektromagnetisk miljøØvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskaper.
+Opplysninger om betjening skal følge avgassmåleren med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. Angitte driftsbetingelser
+2. Elektromagnetisk miljø
+3. Øvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plassering
+4. Anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. Anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. Vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskaper.
 
 For grupper av identiske avgassmålere som brukes på samme sted er det ikke nødvendig med individuelle bruksanvisninger. Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes.
 
@@ -189,7 +231,10 @@ En avgassmåler skal være konstruert slik at det lett kan vurderes om den er i 
 
 ### § 23. Definisjoner
 
-I dette avsnittet menes med:*Avgassmåler:* En avgassmåler er et måleredskap til bestemmelse av volumandeler av gitte komponenter av avgassen fra et motorkjøretøy med gnisttenning, på den analyserte prøvens fuktighetsnivå. Disse gasskomponentene er karbonmonoksid (CO), karbondioksid (CO2), oksygen (O2) og hydrokarboner (HC). Innholdet av hydrokarboner skal uttrykkes som konsentrasjon av n-heksan (C6 H14), målt med nærinfrarød absorpsjonsteknikk. Volumandelene av gasskomponentene uttrykkes som prosentdel ( % vol) for CO, CO2 og O2 og i deler per million (ppm vol). Videre beregner en avgassmåler lambdaverdien fra volumandelene av komponentene i eksosen*Lambda:* Lambda er en dimensjonsløs verdi som representerer en motors forbrenningseffektivitet i form av luft/drivstofforhold i eksosgassene. Den bestemmes med en standardisert referanseformel.
+I dette avsnittet menes med:
+
+1. *Avgassmåler:* En avgassmåler er et måleredskap til bestemmelse av volumandeler av gitte komponenter av avgassen fra et motorkjøretøy med gnisttenning, på den analyserte prøvens fuktighetsnivå. Disse gasskomponentene er karbonmonoksid (CO), karbondioksid (CO2), oksygen (O2) og hydrokarboner (HC). Innholdet av hydrokarboner skal uttrykkes som konsentrasjon av n-heksan (C6 H14), målt med nærinfrarød absorpsjonsteknikk. Volumandelene av gasskomponentene uttrykkes som prosentdel ( % vol) for CO, CO2 og O2 og i deler per million (ppm vol). Videre beregner en avgassmåler lambdaverdien fra volumandelene av komponentene i eksosen
+2. *Lambda:* Lambda er en dimensjonsløs verdi som representerer en motors forbrenningseffektivitet i form av luft/drivstofforhold i eksosgassene. Den bestemmes med en standardisert referanseformel.
 
 ### § 24. Instrumentklasser
 
@@ -207,7 +252,17 @@ Klassene 0 og I defineres for avgassmålere. De relevante minste måleområder f
 
 ### § 25. Angitte driftsbetingelser
 
-Verdiene av de angitte driftsbetingelser skal angis av produsenten som følger:For de klimatiske og mekaniske påvirkende størrelser:Et minste temperaturintervall på 35 °C for det klimatiske miljøSom mekanisk miljø anvendes klasse M1For påvirkende størrelser som skyldes elektrisk strømforsyning:Spennings- og frekvensområde for vekselspenningsforsyningGrensene for likespenningsforsyningFor lufttrykk: Minimums- og maksimumsverdier for lufttrykket er for begge klasser: pmin ≤ 860 hPa, pmax  225 > 1 060 hPa.
+Verdiene av de angitte driftsbetingelser skal angis av produsenten som følger:
+
+1. For de klimatiske og mekaniske påvirkende størrelser:
+
+   1. Et minste temperaturintervall på 35 °C for det klimatiske miljø
+   2. Som mekanisk miljø anvendes klasse M1
+2. For påvirkende størrelser som skyldes elektrisk strømforsyning:
+
+   1. Spennings- og frekvensområde for vekselspenningsforsyning
+   2. Grensene for likespenningsforsyning
+3. For lufttrykk: Minimums- og maksimumsverdier for lufttrykket er for begge klasser: pmin ≤ 860 hPa, pmax  225 > 1 060 hPa.
 
 ### § 26. Maksimale tillatte målefeil
 
@@ -249,7 +304,15 @@ Standardavviket for 20 målinger skal ikke overstige en tredel av absoluttverdie
 
 Til måling av CO, CO2 og HC skal avgassmåleren, herunder det spesifiserte gasshåndteringssystemet, angi 95 % av den endelige verdien som er bestemt med kalibreringsgasser, innen 15 sekunder fra bytte fra en gass med null innhold, f.eks. frisk luft. Til måling av O2 skal avgassmåleren under lignende forhold angi en verdi som avviker mindre enn 0,1 % vol. fra null innen 60 sekunder etter bytte fra frisk luft til en oksygenfri gass.
 
-Komponentene i eksosgassen, bortsett fra komponentene hvis verdier måles, skal ikke påvirke måleresultatene med mer enn halvparten av absoluttverdien av maksimal tillatt målefeil når disse komponentene er til stede i følgende maksimale volumandeler:6 % vol. CO16 % vol. CO210 % vol. O25 % vol. H20,3 % vol. NO2 000 ppm vol. HC (som n-heksan)Vanndamp til metning.
+Komponentene i eksosgassen, bortsett fra komponentene hvis verdier måles, skal ikke påvirke måleresultatene med mer enn halvparten av absoluttverdien av maksimal tillatt målefeil når disse komponentene er til stede i følgende maksimale volumandeler:
+
+1. 6 % vol. CO
+2. 16 % vol. CO2
+3. 10 % vol. O2
+4. 5 % vol. H2
+5. 0,3 % vol. NO
+6. 2 000 ppm vol. HC (som n-heksan)
+7. Vanndamp til metning.
 
 En avgassmåler skal ha en anordning for innregulering med funksjoner for nullstilling, gasskalibrering og intern regulering. Innreguleringsfunksjonen for nullstilling og intern regulering skal være automatisk. For automatiske eller halvautomatiske innreguleringsfunksjoner skal avgassmåleren ikke kunne utføre en måling så lenge reguleringene ikke er gjort.
 

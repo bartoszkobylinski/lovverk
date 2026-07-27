@@ -15,7 +15,7 @@ xml_hash: "37ddcba0fcaa7c4782270e960e99f6a8e52d7c82359b74054bedf121f42cf87a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,13 @@ Lova skal òg fremje forbrukarinteresser, ærlegdom, dyrevelferd, etikk, miljø,
 
 ### § 2. Sakleg verkeområde
 
-Lova omfattar alle forhold i samband med utvikling, produksjon, import, tilarbeiding, distribusjon, eksport og omsetning avkosmetikk og kroppspleieprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til menneske, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å reinse eller parfymere desse delane av kroppen, endre utsjånaden deira, påverke kroppslukter, verne dei eller halde dei i god standkosmetikk og kroppspleieprodukt for dyr, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til dyr, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å reinse eller parfymere desse delane av kroppen, endre utsjånaden deira, påverke kroppslukter, verne dei eller halde dei i god standlækjemiddelnære kroppspleieprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til menneske eller dyr, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å førebyggje, lindre eller behandle helseplager som ikkje kjem av sjukdomtatoveringsprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å bli førte inn i huda til menneske eller dyr for å oppnå permanente eller langvarige mønster, teikningar, strekar, felt eller fargar på huda, medrekna tatoveringsvæske og permanent sminkeinjeksjonsprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å bli førte inn i huda til menneske eller dyr for å endre utsjånaden til huda på andre måtar enn dei som er nemnde i bokstav d.
+Lova omfattar alle forhold i samband med utvikling, produksjon, import, tilarbeiding, distribusjon, eksport og omsetning av
+
+1. kosmetikk og kroppspleieprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til menneske, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å reinse eller parfymere desse delane av kroppen, endre utsjånaden deira, påverke kroppslukter, verne dei eller halde dei i god stand
+2. kosmetikk og kroppspleieprodukt for dyr, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til dyr, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å reinse eller parfymere desse delane av kroppen, endre utsjånaden deira, påverke kroppslukter, verne dei eller halde dei i god stand
+3. lækjemiddelnære kroppspleieprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til menneske eller dyr, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å førebyggje, lindre eller behandle helseplager som ikkje kjem av sjukdom
+4. tatoveringsprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å bli førte inn i huda til menneske eller dyr for å oppnå permanente eller langvarige mønster, teikningar, strekar, felt eller fargar på huda, medrekna tatoveringsvæske og permanent sminke
+5. injeksjonsprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å bli førte inn i huda til menneske eller dyr for å endre utsjånaden til huda på andre måtar enn dei som er nemnde i bokstav d.
 
 Lova omfattar også alle forhold i samband med produksjon av materiale og gjenstandar som er bestemte til å kome i kontakt med eller kan ha innverknad på produkta, jf. [§ 4](lov/2005-12-21-126/§4) bokstav a.
 
@@ -48,7 +54,11 @@ Kongen kan gi forskrifter om bruken av lova på Svalbard, på Jan Mayen, i bilan
 
 ### § 4. Definisjonar
 
-I denne lova forstår ein medprodukt: kosmetikk og kroppspleieprodukt, kosmetikk og kroppspleieprodukt for dyr, lækjemiddelnære kroppspleieprodukt, tatoveringsprodukt og injeksjonsproduktverksemd: privat eller offentlege føretak eller privatpersonar som utfører ein aktivitet som er nemnd i [§ 2](lov/2005-12-21-126/§2) første ledd, bortsett frå aktivitet med privat og ikkje-kommersielt formålomsetning: innehav med sikte på sal, frambod for sal, distribusjon, sjølve salet og alle andre former for overdraging, med eller utan vederlag.
+I denne lova forstår ein med
+
+1. produkt: kosmetikk og kroppspleieprodukt, kosmetikk og kroppspleieprodukt for dyr, lækjemiddelnære kroppspleieprodukt, tatoveringsprodukt og injeksjonsprodukt
+2. verksemd: privat eller offentlege føretak eller privatpersonar som utfører ein aktivitet som er nemnd i [§ 2](lov/2005-12-21-126/§2) første ledd, bortsett frå aktivitet med privat og ikkje-kommersielt formål
+3. omsetning: innehav med sikte på sal, frambod for sal, distribusjon, sjølve salet og alle andre former for overdraging, med eller utan vederlag.
 
 ## Kapittel II. Forbod og påbod
 

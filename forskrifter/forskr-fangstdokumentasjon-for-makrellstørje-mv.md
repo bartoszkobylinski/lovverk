@@ -30,7 +30,12 @@ Forskriften gjelder for landing, innenlands omsetning, import, eksport og reeksp
 
 ## § 2. Definisjoner
 
-I denne forskrift forstås med:*eksport av fisk*, at fisk som har blitt landet fra norsk fartøy i norsk havn føres ut av Norge,*reeksport av fisk*, at fisk som har blitt importert til eller landet fra utenlandsk fartøy i Norge, blir ført ut av landet,*fangstdokument*, elektronisk- eller papirdokument som er godkjent av ansvarlige myndigheter i samsvar med krav i Den internasjonale kommisjonen for bevaring av tunfisk (ICCAT),*reeksportdokument*, elektronisk- eller papirdokument godkjent av ansvarlige myndigheter i samsvar med krav i Den internasjonale kommisjonen for bevaring av tunfisk (ICCAT) når fisken blir importert via tredjeland til Norge eller blir reeksportert fra Norge.
+I denne forskrift forstås med:
+
+1. *eksport av fisk*, at fisk som har blitt landet fra norsk fartøy i norsk havn føres ut av Norge,
+2. *reeksport av fisk*, at fisk som har blitt importert til eller landet fra utenlandsk fartøy i Norge, blir ført ut av landet,
+3. *fangstdokument*, elektronisk- eller papirdokument som er godkjent av ansvarlige myndigheter i samsvar med krav i Den internasjonale kommisjonen for bevaring av tunfisk (ICCAT),
+4. *reeksportdokument*, elektronisk- eller papirdokument godkjent av ansvarlige myndigheter i samsvar med krav i Den internasjonale kommisjonen for bevaring av tunfisk (ICCAT) når fisken blir importert via tredjeland til Norge eller blir reeksportert fra Norge.
 
 > Endret ved [forskrift 28 feb 2014 nr. 217](forskrift/2014-02-28-217).
 

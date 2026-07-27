@@ -15,7 +15,7 @@ xml_hash: "382ee77cb82a09925efdc2d8b900df77adc72c6d324e942eabee4bc020fec5fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,17 @@ Ved oppføring av bolig for salg kan utbyggeren søke om tilsagn om lånefinansi
 
 Husbanken kan gi lån til oppføring av boliger med godt inneklima og miljøvennlige materialer og byggemetoder.
 
-Minst tre av følgende forhold ved boligen og prosjektet må være oppfyltProdukter som benyttes, kan maksimalt inneholde 0,1 vektprosent av spesifiserte helse- og miljøfarlige stoffer slik det fremgår av veilederen.Minimum 70 vektprosent av avfallet som oppstår dersom tiltaket overskrider 100 m2, og minimum 80 vektprosent av avfallet som oppstår dersom tiltaket overskrider 300 m2, skal sorteres i ulike avfallstyper og leveres til godkjent avfallsmottak eller direkte til gjenvinning.Boligen skal kunne endres uten store bygningsmessige inngrep. Rom før og etter endringen må tilfredsstille forskriftsmessige krav for rom til varig opphold. I tillegg må ett av følgende krav oppfyllesminst ett rom skal utformes slik at det kan deles i to ellerto rom kan slås sammen ellerdet er mulig å etablere en hybel der det er lagt til rette for eget bad og kjøkkenløsning.Minimum 25 areal-, volum- eller vektprosent av produkter innenfor utvalgte bygningsdeler skal ha miljødokumentasjon, slik det fremgår av veiledningen.Fossilt brensel kan ikke brukes til oppvarming og tørking av bygninger under oppføring.
+Minst tre av følgende forhold ved boligen og prosjektet må være oppfylt
+
+1. Produkter som benyttes, kan maksimalt inneholde 0,1 vektprosent av spesifiserte helse- og miljøfarlige stoffer slik det fremgår av veilederen.
+2. Minimum 70 vektprosent av avfallet som oppstår dersom tiltaket overskrider 100 m2, og minimum 80 vektprosent av avfallet som oppstår dersom tiltaket overskrider 300 m2, skal sorteres i ulike avfallstyper og leveres til godkjent avfallsmottak eller direkte til gjenvinning.
+3. Boligen skal kunne endres uten store bygningsmessige inngrep. Rom før og etter endringen må tilfredsstille forskriftsmessige krav for rom til varig opphold. I tillegg må ett av følgende krav oppfylles
+
+   1. minst ett rom skal utformes slik at det kan deles i to eller
+   2. to rom kan slås sammen eller
+   3. det er mulig å etablere en hybel der det er lagt til rette for eget bad og kjøkkenløsning.
+4. Minimum 25 areal-, volum- eller vektprosent av produkter innenfor utvalgte bygningsdeler skal ha miljødokumentasjon, slik det fremgår av veiledningen.
+5. Fossilt brensel kan ikke brukes til oppvarming og tørking av bygninger under oppføring.
 
 Husbanken kan også gi lån til bygg som ikke oppfyller vilkårene i annet ledd, men som har Svanemerke-sertifikat eller BREEAM-NOR-sertifikat «Very good», «Excellent» eller «Outstanding».
 
@@ -70,17 +80,55 @@ Husbanken kan gi lån til livsløpsboliger. Livsløpsboliger legger til rette fo
 
 Ved lån til livsløpsboliger må kravene til tilgjengelig boenhet i til enhver tid gjeldende byggteknisk forskrift være oppfylt.
 
-Lån til livsløpsboliger kan ikke gis der det etter til enhver tid gjeldende byggteknisk forskrift ikke er krav om tilgjengelig boenhet. Det er to unntak:Husbanken kan gi lån til livsløpsbolig til alle boliger på inntil 50 m2 BRA som oppfyller alle kravene til livsløpsbolig.Husbanken kan finansiere leiligheter i andre etasje i fire- og seksmannsboliger uten at det er trinnfri atkomst til boligene ved ferdigstillelse. Husbanken krever da at det ved ferdigstillelse er satt av plass til fremtidig internt heishus med plass til innvendig løfteinnretning med størrelse på minimum 1100x1400 mm. Ved etterinstallering av heis skal heisen være universelt utformet og kunne betjene boligene i andre etasje. Alle leilighetene i prosjektet som blir finansiert med lån til livsløpsboliger, må tilfredsstille Husbankens krav til livsløpsbolig internt i boligen.
+Lån til livsløpsboliger kan ikke gis der det etter til enhver tid gjeldende byggteknisk forskrift ikke er krav om tilgjengelig boenhet. Det er to unntak:
 
-Livsløpsboliger skal i tillegg oppfylle alle følgende krav til tilgjengelighet:*Tilgjengelig parsengssoverom*Parsengssoverom skal ha plass til en dobbeltseng på minst 1800x2100 mm. På den ene langsiden skal det være plass til en snusirkel for rullestol med diameter på 1500 mm eller snurektangel på 1300x1800mm. På motsatt langside skal det være passasjebredde på minst 600 mm. Det skal også være minst 900 mm passasjebredde frem til vindu. Foran skap skal det være plass til snusirkel eller snurektangel. Husbanken godtar stiplet fremtidig parsengssoverom på inngangsplanet hvis det er et parsengssoverom i en annen etasje.Parsengssoverommet og kjøkkenløsningen kan ikke være i samme rom.Stuen må være minst like stor som et parsengssoverom.*Tilgjengelig innvendig bod på minst 3 m2*Boden på minimum 3 m2 skal være inne i boenheten og ha utadslående dør eller skyvedør som er trinnfrie.Bodarealet skal utformes slik at boden kan benyttes av rullestolbruker.*Vaskesøyle på tilgjengelig bad eller vaskerom*Vaskesøylen skal være på minst 600x600 mm og gi plass og tilkoblingsmulighet til vaskemaskin og tørketrommel på tilgjengelig bad, eller i et eget tilgjengelig vaskerom på inngangsplanet. Foran vaskesøylen skal det være betjeningsareal på 1400x900 mm for bruk av vaskemaskin og/eller tørketrommel.*Boligene skal være forberedt for installasjon og ettermontering av velferds- og smarthusteknologi*Boligene skalha skap for ekom med plassering og utforming som sikrer tilstrekkelig dekningsforhold for mottak av trådløse signaler. Skapet skal ha inntak for bredbånd og plass til gateway, switch/ruter og patchepanel.være forberedt for motorisert og fjernstyrt åpning av ytterdør, og ytterdøren må være godkjent for dette.være forberedt for ettermontering av utvendig solskjerming av solbelastede vinduer i stue og i parsengssoverom.Nærmere spesifikasjoner fremgår av veileder.
+1. Husbanken kan gi lån til livsløpsbolig til alle boliger på inntil 50 m2 BRA som oppfyller alle kravene til livsløpsbolig.
+2. Husbanken kan finansiere leiligheter i andre etasje i fire- og seksmannsboliger uten at det er trinnfri atkomst til boligene ved ferdigstillelse. Husbanken krever da at det ved ferdigstillelse er satt av plass til fremtidig internt heishus med plass til innvendig løfteinnretning med størrelse på minimum 1100x1400 mm. Ved etterinstallering av heis skal heisen være universelt utformet og kunne betjene boligene i andre etasje. Alle leilighetene i prosjektet som blir finansiert med lån til livsløpsboliger, må tilfredsstille Husbankens krav til livsløpsbolig internt i boligen.
+
+Livsløpsboliger skal i tillegg oppfylle alle følgende krav til tilgjengelighet:
+
+1. *Tilgjengelig parsengssoverom*
+
+   1. Parsengssoverom skal ha plass til en dobbeltseng på minst 1800x2100 mm. På den ene langsiden skal det være plass til en snusirkel for rullestol med diameter på 1500 mm eller snurektangel på 1300x1800mm. På motsatt langside skal det være passasjebredde på minst 600 mm. Det skal også være minst 900 mm passasjebredde frem til vindu. Foran skap skal det være plass til snusirkel eller snurektangel. Husbanken godtar stiplet fremtidig parsengssoverom på inngangsplanet hvis det er et parsengssoverom i en annen etasje.
+   2. Parsengssoverommet og kjøkkenløsningen kan ikke være i samme rom.
+   3. Stuen må være minst like stor som et parsengssoverom.
+2. *Tilgjengelig innvendig bod på minst 3 m2*
+
+   1. Boden på minimum 3 m2 skal være inne i boenheten og ha utadslående dør eller skyvedør som er trinnfrie.
+   2. Bodarealet skal utformes slik at boden kan benyttes av rullestolbruker.
+3. *Vaskesøyle på tilgjengelig bad eller vaskerom*
+
+   Vaskesøylen skal være på minst 600x600 mm og gi plass og tilkoblingsmulighet til vaskemaskin og tørketrommel på tilgjengelig bad, eller i et eget tilgjengelig vaskerom på inngangsplanet. Foran vaskesøylen skal det være betjeningsareal på 1400x900 mm for bruk av vaskemaskin og/eller tørketrommel.
+4. *Boligene skal være forberedt for installasjon og ettermontering av velferds- og smarthusteknologi*
+
+   Boligene skal
+
+   1. ha skap for ekom med plassering og utforming som sikrer tilstrekkelig dekningsforhold for mottak av trådløse signaler. Skapet skal ha inntak for bredbånd og plass til gateway, switch/ruter og patchepanel.
+   2. være forberedt for motorisert og fjernstyrt åpning av ytterdør, og ytterdøren må være godkjent for dette.
+   3. være forberedt for ettermontering av utvendig solskjerming av solbelastede vinduer i stue og i parsengssoverom.
+
+   Nærmere spesifikasjoner fremgår av veileder.
 
 ### § 2-5. Lån til oppgradering av eksisterende bolig
 
 Husbanken kan gi lån til oppgraderingsprosjekter som bidrar vesentlig til en mer energieffektiv og tilgjengelig boligmasse.
 
-Husbanken skal som hovedregel kreve at oppgraderingsarbeidene har tiltak både innen energieffektivisering og tilgjengelighet. Husbanken kan gi lån til oppgradering av yttertak og lån til oppgradering av yttervegg inkludert vindu og dører. I tillegg til oppgradering av yttertak eller yttervegg må prosjektet inkludere oppgradering av felles trapperom eller to av følgende tiltak:trinnfri atkomstveioppgradering av inngangsdør eller inngangspartioverbygd inngangsparti med plass til vognendret inngangsplanterskelfrie døråpningertilgjengelig bad.
+Husbanken skal som hovedregel kreve at oppgraderingsarbeidene har tiltak både innen energieffektivisering og tilgjengelighet. Husbanken kan gi lån til oppgradering av yttertak og lån til oppgradering av yttervegg inkludert vindu og dører. I tillegg til oppgradering av yttertak eller yttervegg må prosjektet inkludere oppgradering av felles trapperom eller to av følgende tiltak:
 
-Husbanken kan også gi lån til omfattende og gode tiltak på ett av disse områdene. Dette gjelderetterinstallering eller oppgradering av heistilgjengelig og synlig inngangspartitiltak som gjør at alle nødvendige boligfunksjoner er på inngangsplanetutbedring av baderomEnovas krav for oppgradering av bolig.
+1. trinnfri atkomstvei
+2. oppgradering av inngangsdør eller inngangsparti
+3. overbygd inngangsparti med plass til vogn
+4. endret inngangsplan
+5. terskelfrie døråpninger
+6. tilgjengelig bad.
+
+Husbanken kan også gi lån til omfattende og gode tiltak på ett av disse områdene. Dette gjelder
+
+1. etterinstallering eller oppgradering av heis
+2. tilgjengelig og synlig inngangsparti
+3. tiltak som gjør at alle nødvendige boligfunksjoner er på inngangsplanet
+4. utbedring av baderom
+5. Enovas krav for oppgradering av bolig.
 
 Før Husbanken kan gi lån til oppgradering, skal det gjøres en helhetlig vurdering av oppgraderingsbehov. Tiltak skal ikke hindre gjennomføring av andre viktige oppgraderingstiltak i fremtiden.
 
@@ -98,7 +146,10 @@ Med vanskeligstilte på boligmarkedet menes personer og familier som ikke har mu
 
 Husbanken kan gi lån til kommuner som sannsynliggjør at prosjektet bidrar til flere egnede kommunalt disponerte utleieboliger og en mer formålstjenlig boligmasse. Det er et vilkår for slike lån at boligene tildeles vanskeligstilte i minst 30 år.
 
-Husbanken kan gi lån til selskaper og andre som har til formål å leie ut boliger til vanskeligstilte. Vilkårene for slik långivning er at eiereninngår en tildelingsavtale med kommunen om at kommunen skal ha eksklusiv rett til å tildele alle boligene i et boligprosjekt til vanskeligstilte på boligmarkedet i minst 30 år dersom prosjektet også har fått utleieboligtilskudd fra Husbanken ellerinngår en tilvisningsavtale med kommunen om at kommunen skal ha eksklusiv rett til å tilvise 40 % av boligene i et boligprosjekt til økonomisk vanskeligstilte på boligmarkedet i minst 20 år.
+Husbanken kan gi lån til selskaper og andre som har til formål å leie ut boliger til vanskeligstilte. Vilkårene for slik långivning er at eieren
+
+1. inngår en tildelingsavtale med kommunen om at kommunen skal ha eksklusiv rett til å tildele alle boligene i et boligprosjekt til vanskeligstilte på boligmarkedet i minst 30 år dersom prosjektet også har fått utleieboligtilskudd fra Husbanken eller
+2. inngår en tilvisningsavtale med kommunen om at kommunen skal ha eksklusiv rett til å tilvise 40 % av boligene i et boligprosjekt til økonomisk vanskeligstilte på boligmarkedet i minst 20 år.
 
 Eieren må i tillegg inngå en samarbeidsavtale med kommunen som regulerer det løpende samarbeidet og forvaltningen av boligene.
 
@@ -106,7 +157,11 @@ Før Husbanken utbetaler lån til andre enn kommuner, må en erklæring om kommu
 
 ### § 3-3. Hva kan det gis lån til
 
-Husbanken kan gi lån tilå oppføre boligerå kjøpe boliger, eller å kjøpe alle aksjene i et eiendomsselskap slik som definert i forskrift om unntak fra [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) og [allmennaksjeloven § 8-10](lov/1997-06-13-45/§8-10) § 10, inkludert eventuelle kostnader til å utbedre boligene slik at de blir egnet til formåletå bygge om andre bygg til boliger, herunder eventuelle kostnader til kjøp av slike bygg.
+Husbanken kan gi lån til
+
+1. å oppføre boliger
+2. å kjøpe boliger, eller å kjøpe alle aksjene i et eiendomsselskap slik som definert i forskrift om unntak fra [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) og [allmennaksjeloven § 8-10](lov/1997-06-13-45/§8-10) § 10, inkludert eventuelle kostnader til å utbedre boligene slik at de blir egnet til formålet
+3. å bygge om andre bygg til boliger, herunder eventuelle kostnader til kjøp av slike bygg.
 
 Husbanken skal ikke gi lån til vedlikehold eller rehabilitering ut over det som følger av første ledd.
 
@@ -116,7 +171,11 @@ Husbanken kan ikke gi lån til prosjekter med samlokaliserte boliger dersom boli
 
 ### § 3-4. Hvordan søknadene blir vurdert
 
-Husbanken avgjør søknadene ut fra blant annethver kommunes behov, der de kommunene som har størst boligsosiale utfordringer skal prioritereshvor godt tiltaket er egnet til å nå formålet med låneordningenprosjektøkonomien og prosjektgjennomføringen.
+Husbanken avgjør søknadene ut fra blant annet
+
+1. hver kommunes behov, der de kommunene som har størst boligsosiale utfordringer skal prioriteres
+2. hvor godt tiltaket er egnet til å nå formålet med låneordningen
+3. prosjektøkonomien og prosjektgjennomføringen.
 
 ## Kapittel 4. Lån til studentboliger
 
@@ -132,7 +191,11 @@ Kunnskapsdepartementet kan etter søknad godkjenne lån til studentboligprosjekt
 
 ### § 4-3. Hva det kan gis lån til
 
-Lån kan gis tiloppføring av studentboligerkombinasjon av kjøp og ombygging av eksisterende bygningsmasse til studentboliger. Det gis ikke lån til kjøp av eksisterende studentboliger som bare representerer et eierskifte.oppgradering av eksisterende studentboliger.
+Lån kan gis til
+
+1. oppføring av studentboliger
+2. kombinasjon av kjøp og ombygging av eksisterende bygningsmasse til studentboliger. Det gis ikke lån til kjøp av eksisterende studentboliger som bare representerer et eierskifte.
+3. oppgradering av eksisterende studentboliger.
 
 ## Kapittel 5. Startlån
 
@@ -150,7 +213,12 @@ Søkeren må ha evne til å betjene lånet over tid og fortsatt ha nødvendige m
 
 ### § 5-3. Hva det kan gis lån til
 
-Kommunen kan gi lån tilkjøp av boligutbedring og tilpasning av boligoppføring av ny boligrefinansiering av dyre lån dersom det bidrar til at husstanden kan bli boende i boligen.
+Kommunen kan gi lån til
+
+1. kjøp av bolig
+2. utbedring og tilpasning av bolig
+3. oppføring av ny bolig
+4. refinansiering av dyre lån dersom det bidrar til at husstanden kan bli boende i boligen.
 
 Boligen skal være egnet for husstanden, nøktern og rimelig sammenliknet med prisnivået på stedet.
 
@@ -158,9 +226,17 @@ Kommunen kan bruke startlånet til å fullfinansiere boligen eller som topplån 
 
 ### § 5-4. Tildeling av startlån
 
-Startlån skal tildeles etter en behovsprøving. I vurderingen skal kommunen legge vekt på om søkerenforventes å ha langvarige problemer med å finansiere eid bolig oghar benyttet muligheten til sparing innenfor de økonomiske mulighetene søkerens inntekter og nødvendige utgifter til livsopphold gir.
+Startlån skal tildeles etter en behovsprøving. I vurderingen skal kommunen legge vekt på om søkeren
 
-Selv om vilkårene i første ledd ikke er oppfylt kan kommunen gi startlån i alle disse situasjonenehusstanden har barn eller særlige sosiale eller helsemessige utfordringer, og hensynet til å sikre en trygg, god og stabil bosituasjon innen kort tid taler for dethusstanden har problemer med å dekke boutgiftene, og refinansiering med startlån kan bidra til at husstanden kan bli boende i boligen sinboligsituasjonen hindrer mulighetene til å opprettholde et arbeidsforhold, eller hindrer utvikling av det lokale næringslivetlånet bidrar til bedre utnyttelse av kommunalt disponerte boliger.
+1. forventes å ha langvarige problemer med å finansiere eid bolig og
+2. har benyttet muligheten til sparing innenfor de økonomiske mulighetene søkerens inntekter og nødvendige utgifter til livsopphold gir.
+
+Selv om vilkårene i første ledd ikke er oppfylt kan kommunen gi startlån i alle disse situasjonene
+
+1. husstanden har barn eller særlige sosiale eller helsemessige utfordringer, og hensynet til å sikre en trygg, god og stabil bosituasjon innen kort tid taler for det
+2. husstanden har problemer med å dekke boutgiftene, og refinansiering med startlån kan bidra til at husstanden kan bli boende i boligen sin
+3. boligsituasjonen hindrer mulighetene til å opprettholde et arbeidsforhold, eller hindrer utvikling av det lokale næringslivet
+4. lånet bidrar til bedre utnyttelse av kommunalt disponerte boliger.
 
 Departementet kan gi ytterligere føringer for tildeling av startlånet.
 
@@ -174,13 +250,22 @@ Med barnehage forstås tilbud som er godkjent etter barnehagelovens bestemmelser
 
 ### § 6-2. Hvem som kan få barnehagelån
 
-Lån kan gis tilkommunerenkeltpersonerforetak.
+Lån kan gis til
+
+1. kommuner
+2. enkeltpersoner
+3. foretak.
 
 Lån kan bare gis til lånsøkere som både skal eie og drive barnehagen. Lånsøker må være anbefalt av kommunen.
 
 ### § 6-3. Hva det kan gis lån til
 
-Lån kan gis tiloppføring av barnehagertilbygg til barnehagerkjøp og utbedring av bygning eller del av bygning som tas i bruk som barnehageutbedring av barnehager som er eldre enn 15 år. Lån kan også gis uavhengig av barnehagens alder dersom låneformålet enten er å bedre et dårlig inneklima eller å gi bedre tilrettelegging for funksjonshemmede.
+Lån kan gis til
+
+1. oppføring av barnehager
+2. tilbygg til barnehager
+3. kjøp og utbedring av bygning eller del av bygning som tas i bruk som barnehage
+4. utbedring av barnehager som er eldre enn 15 år. Lån kan også gis uavhengig av barnehagens alder dersom låneformålet enten er å bedre et dårlig inneklima eller å gi bedre tilrettelegging for funksjonshemmede.
 
 Lån kan gis hvis lokalene benyttes til barnehageformål minst 20 timer i uken.
 
@@ -198,7 +283,10 @@ Ved opphør eller endring i barnehagens virksomhet, forfaller lånet til betalin
 
 Søkeren må benytte bygningsinformasjonsmodellering (BIM) som grunnlag for søknaden om lånefinansiering innen 1. januar 2022. Søknader for prosjekter med mindre enn 20 boenheter, selvbyggere etter forskrift om byggesak og oppgraderingsprosjekter unntas fra dette kravet.
 
-For å få lån må søkerha ordnede forhold med hensyn til betaling av skatt, arbeidsgiveravgift og merverdiavgiftvære et lovlig etablert foretak.
+For å få lån må søker
+
+1. ha ordnede forhold med hensyn til betaling av skatt, arbeidsgiveravgift og merverdiavgift
+2. være et lovlig etablert foretak.
 
 Privatpersoner som søker om lån for én bolig unntas dette kravet. Dette gjelder også boliger som inneholder én utleiedel.
 
@@ -216,13 +304,22 @@ Lånsøker dokumenterer at vilkårene for tildeling av lånet er oppfylt ved å 
 
 Husbanken kan be om ytterligere opplysninger som er nødvendig for å kunne avgjøre søknaden, og innhente opplysninger fra andre myndigheter.
 
-Både før og etter at lånet er utbetalt kan Husbanken kontrollere at vilkårene i lånevedtaket er oppfylt gjennom åbe om nødvendige opplysninger og dokumentasjoninnhente opplysninger fra andre myndigheterbesiktige tiltaket og om nødvendig be låntakeren medvirke til besiktigelsen.
+Både før og etter at lånet er utbetalt kan Husbanken kontrollere at vilkårene i lånevedtaket er oppfylt gjennom å
+
+1. be om nødvendige opplysninger og dokumentasjon
+2. innhente opplysninger fra andre myndigheter
+3. besiktige tiltaket og om nødvendig be låntakeren medvirke til besiktigelsen.
 
 ### § 7-4. Kredittvurdering og låneutmåling
 
 Husbankens kredittvurdering er avgjørende for om Husbanken skal gi lån og avgjørende for låneutmålingen. Lån og låneutmåling til kommuner og fylkeskommuner skjer etter føringer fra departementet.
 
-Kredittvurderingen gjøres på grunnlag avbetjeningsevnesikkerhetsøkers historikk. Likt med søker regnes enhver som representerer søker utad, søkers eiere og eiernes nærstående samt selskaper e.l. med samme representants- eller eierinteresser.godkjente prosjektkostnader, kjøpesum for boligene eller aksjekjøpesum.
+Kredittvurderingen gjøres på grunnlag av
+
+1. betjeningsevne
+2. sikkerhet
+3. søkers historikk. Likt med søker regnes enhver som representerer søker utad, søkers eiere og eiernes nærstående samt selskaper e.l. med samme representants- eller eierinteresser.
+4. godkjente prosjektkostnader, kjøpesum for boligene eller aksjekjøpesum.
 
 Ved lån til personkunder kan belåningsgraden på eiendommen være på inntil 90 % av antatt eiendomsverdi.
 
@@ -316,7 +413,10 @@ Med grunnlag i disse vilkårene fastsetter Finanstilsynet basisrentene for flyte
 
 Fra basisrentene trekker Husbanken fra 0,75 prosentpoeng for å komme fram til årlige effektive renter for fast og flytende rente. Årlig effektiv rente kan likevel ikke være negativ.
 
-Husbanken beregner de nominelle rentene ut fra de årlige effektive rentene. Formelen for å beregne de nominelle rentene er:$$r_n = \\left[ (1 + r_e)^{\\frac 1n} -1\\right] n$$
+Husbanken beregner de nominelle rentene ut fra de årlige effektive rentene. Formelen for å beregne de nominelle rentene er:
+
+$$r_n = \\left[ (1 + r_e)^{\\frac 1n} -1\\right] n$$
+
 der:
 rn = årlig nominell rente i prosent
 re = årlig effektiv husbankrente i prosent, før gebyr
@@ -362,9 +462,20 @@ Ved overgang fra fast til flytende rente på et lån skal det tas utgangspunkt i
 
 ### § 8-5. Nedbetalingsvilkår
 
-Husbanken fastsetter nedbetalingsvilkårene innenfor disse rammene:Lån kan avdras som annuitets- eller serielån.Lån kan gis med inntil 30 års løpetid. Lån til utleieboliger til vanskeligstilte og lån til studentboliger kan gis med inntil 50 års løpetid. Lån til kommuner som skal lånes ut videre som startlån, kan i særlige tilfeller gis med inntil 50 års løpetid.Lån kan gis med inntil åtte års avdragsfrihet.
+Husbanken fastsetter nedbetalingsvilkårene innenfor disse rammene:
 
-Lån med inntil 50 års løpetid etter første ledd bokstav b tredje setning kan bare gis dersom:det dokumenteres at låntaker har varig lav inntekt,det sannsynliggjøres at boligen tilfredsstiller husstandens behov over lang tid,det sannsynliggjøres at tilgjengelige private leieboliger i området er uegnede og/eller innebærer en betydelig høyere utgift på lang sikt enn det aktuelle startlånet ogdet dokumenteres at kommunen ikke anser det som økonomisk forsvarlig å gi et lån med kortere nedbetalingstid.Vilkåret i bokstav a kan fravikes dersom husstanden har barn eller står i fare for å miste boligen, og husstanden kan dokumentere lav, forutsigbar inntekt. Vilkårene i bokstavene b og c kan også fravikes dersom husstanden står i fare for å miste boligen.
+1. Lån kan avdras som annuitets- eller serielån.
+2. Lån kan gis med inntil 30 års løpetid. Lån til utleieboliger til vanskeligstilte og lån til studentboliger kan gis med inntil 50 års løpetid. Lån til kommuner som skal lånes ut videre som startlån, kan i særlige tilfeller gis med inntil 50 års løpetid.
+3. Lån kan gis med inntil åtte års avdragsfrihet.
+
+Lån med inntil 50 års løpetid etter første ledd bokstav b tredje setning kan bare gis dersom:
+
+1. det dokumenteres at låntaker har varig lav inntekt,
+2. det sannsynliggjøres at boligen tilfredsstiller husstandens behov over lang tid,
+3. det sannsynliggjøres at tilgjengelige private leieboliger i området er uegnede og/eller innebærer en betydelig høyere utgift på lang sikt enn det aktuelle startlånet og
+4. det dokumenteres at kommunen ikke anser det som økonomisk forsvarlig å gi et lån med kortere nedbetalingstid.
+
+Vilkåret i bokstav a kan fravikes dersom husstanden har barn eller står i fare for å miste boligen, og husstanden kan dokumentere lav, forutsigbar inntekt. Vilkårene i bokstavene b og c kan også fravikes dersom husstanden står i fare for å miste boligen.
 
 For startlån står kommunen fritt til å tilby gunstigere nedbetalingsvilkår. Slike avtaler endrer ikke lånevilkårene som gjelder mellom kommunen og Husbanken.
 

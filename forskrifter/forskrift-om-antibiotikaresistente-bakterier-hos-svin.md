@@ -50,7 +50,15 @@ Den som kun har kontakt med levende gris på slakteri, er unntatt fra plikten ti
 
 ## § 5. Situasjoner som utløser plikten til å bruke beskyttelsesutstyr
 
-Plikten til å bruke beskyttelsesutstyr i [§ 4](forskrift/2018-02-14-247/§4) utløses dersom vedkommende i løpet av de siste 12 månedene har:hatt kontakt med et dyr som denne visste var positiv for antibiotikaresistente bakterier eller senere fått kunnskap om at dyret var positivt under kontaktenbesøkt eller arbeidet i husdyrbesetning i utlandetvært innlagt på helseinstitusjon, fått tannbehandling eller gjennomgått omfattende helseundersøkelse, i utlandetarbeidet som helsearbeider i utlandetoppholdt seg i barnehjem eller flyktningeleir i utlandetoppholdt seg mer enn seks uker sammenhengende i utlandet, ellertestet positivt for antibiotikaresistente bakterier.
+Plikten til å bruke beskyttelsesutstyr i [§ 4](forskrift/2018-02-14-247/§4) utløses dersom vedkommende i løpet av de siste 12 månedene har:
+
+1. hatt kontakt med et dyr som denne visste var positiv for antibiotikaresistente bakterier eller senere fått kunnskap om at dyret var positivt under kontakten
+2. besøkt eller arbeidet i husdyrbesetning i utlandet
+3. vært innlagt på helseinstitusjon, fått tannbehandling eller gjennomgått omfattende helseundersøkelse, i utlandet
+4. arbeidet som helsearbeider i utlandet
+5. oppholdt seg i barnehjem eller flyktningeleir i utlandet
+6. oppholdt seg mer enn seks uker sammenhengende i utlandet, eller
+7. testet positivt for antibiotikaresistente bakterier.
 
 ## § 6. Ansvar
 

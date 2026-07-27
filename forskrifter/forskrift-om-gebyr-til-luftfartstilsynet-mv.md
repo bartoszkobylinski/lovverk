@@ -15,7 +15,7 @@ xml_hash: "2de2080995e2fc1737c38d4c50977f434278f9b30eb3b0718114ccafb2028d92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ Forskriften fastsetter gebyr for Luftfartstilsynets arbeid med myndighetshandlin
 
 ### § 2. Definisjoner
 
-I forskriften menes med*tillatelse:* enhver tillatelse, godkjenning, konsesjon, lisens, sertifikat mv. etter [luftfartsloven](lov/1993-06-11-101) eller forskrift gitt med hjemmel i [luftfartsloven](lov/1993-06-11-101).*vekt i kg:* maksimal tillatt startvekt (MTOW Maximum Take-off Weight).
+I forskriften menes med
+
+1. *tillatelse:* enhver tillatelse, godkjenning, konsesjon, lisens, sertifikat mv. etter [luftfartsloven](lov/1993-06-11-101) eller forskrift gitt med hjemmel i [luftfartsloven](lov/1993-06-11-101).
+2. *vekt i kg:* maksimal tillatt startvekt (MTOW Maximum Take-off Weight).
 
 ### § 3. Gebyr for søknad om tillatelse
 
@@ -52,7 +55,12 @@ Innehaver av tillatelse skal betale årsgebyr etter bestemmelsene i denne forskr
 
 Årsgebyret dekker en periode på tolv måneder fra kalenderårets begynnelse. Årsgebyr betales etter de rettigheter som er registrert i Luftfartstilsynet og Norges luftfartøyregister per 1. januar og etter gebyrsatser som fastsatt i denne forskrift.
 
-Ved første gangs betaling av årsgebyr skal gebyretved utstedelse i første kvartal være 4/4 av årsgebyret.ved utstedelse i annet kvartal være 3/4 av årsgebyret.ved utstedelse i tredje kvartal være 2/4 av årsgebyret.ved utstedelse i fjerde kvartal være 1/4 av årsgebyret.
+Ved første gangs betaling av årsgebyr skal gebyret
+
+1. ved utstedelse i første kvartal være 4/4 av årsgebyret.
+2. ved utstedelse i annet kvartal være 3/4 av årsgebyret.
+3. ved utstedelse i tredje kvartal være 2/4 av årsgebyret.
+4. ved utstedelse i fjerde kvartal være 1/4 av årsgebyret.
 
 Ved endring i gitt tillatelse, skal årsgebyr betales i henhold til endret tillatelse fra og med det kvartal endringen skjer.
 
@@ -108,15 +116,29 @@ Gebyr fastsettes ut fra fartøyets vekt eller pantedokuments pålydende. Gebyr b
 
 For kunngjøring etter [luftfartsloven § 3-4 annet ledd](lov/1993-06-11-101/§3-4/ledd/2) og [§ 3-35 annet ledd](lov/1993-06-11-101/§3-35/ledd/2) betales gebyr kr 4 660 samt annonseringskostnader. For attestert registerutskrift betales gebyr kr 700. For duplikat av registreringsbevis eller tinglyst dokument betales gebyr kr 700.
 
-Gebyr betales ikke for tinglysing, registrering eller anmerkning avhjemmelsovergang på grunnlag av uskiftebevilling.melding som tingretten, gjeldsnemnda eller bostyrer foretar i medhold av [konkursloven](lov/1984-06-08-58) eller [panteloven](lov/1980-02-08-2).utleggsforretning, arrestforretning og midlertidig forføyning.erklæring fra retten om at det er besluttet gjennomføring av tvangsdekning i et realregistrert formuesgode.
+Gebyr betales ikke for tinglysing, registrering eller anmerkning av
+
+1. hjemmelsovergang på grunnlag av uskiftebevilling.
+2. melding som tingretten, gjeldsnemnda eller bostyrer foretar i medhold av [konkursloven](lov/1984-06-08-58) eller [panteloven](lov/1980-02-08-2).
+3. utleggsforretning, arrestforretning og midlertidig forføyning.
+4. erklæring fra retten om at det er besluttet gjennomføring av tvangsdekning i et realregistrert formuesgode.
 
 ### § 12. Gebyr for registrering av luftfartøy m.m.
 
-For registrering av luftfartøy, registrering av eierskifte, registrering av leieavtale og andre heftelser, inkludert IDERA, samt registrering av påtegning på slike betaleskr 5 460 for seilfly, motorseilfly, ballong og motordrevet luftfartøy t.o.m. 2 730 kg.kr 8 500 for motordrevet luftfartøy fra 2 731 til 5 700 kg.kr 13 650 for motordrevet luftfartøy fra 5 701 til 10 000 kg.kr 17 450 for motordrevet luftfartøy fra 10 001 kg.
+For registrering av luftfartøy, registrering av eierskifte, registrering av leieavtale og andre heftelser, inkludert IDERA, samt registrering av påtegning på slike betales
+
+1. kr 5 460 for seilfly, motorseilfly, ballong og motordrevet luftfartøy t.o.m. 2 730 kg.
+2. kr 8 500 for motordrevet luftfartøy fra 2 731 til 5 700 kg.
+3. kr 13 650 for motordrevet luftfartøy fra 5 701 til 10 000 kg.
+4. kr 17 450 for motordrevet luftfartøy fra 10 001 kg.
 
 ### § 13. Gebyr for registrering av pantedokument og andre rettigheter
 
-For registrering av pantedokument, registrering av påtegning på pantedokument og re-registrering av pantedokument betaleskr 6 690 for pantedokument pålydende t.o.m kr 10 000 000.kr 12 000 for pantedokument pålydende over kr 10 000 000 t.o.m. kr 100 000 000.kr 19 200 for pantedokument pålydende over kr 100 000 000.
+For registrering av pantedokument, registrering av påtegning på pantedokument og re-registrering av pantedokument betales
+
+1. kr 6 690 for pantedokument pålydende t.o.m kr 10 000 000.
+2. kr 12 000 for pantedokument pålydende over kr 10 000 000 t.o.m. kr 100 000 000.
+3. kr 19 200 for pantedokument pålydende over kr 100 000 000.
 
 ### § 14. Gebyr for luftfartøy i ikke-ervervsmessig luftfart som nevnt i EASA-forskriften, forordning (EU) 2018/1139 artikkel 2 nr. 3 bokstav d, jf. vedlegg I (Annex I-fartøy)
 
@@ -144,7 +166,11 @@ Gebyr for utstedelse av ARC dekker kostnader ved blant annet gjennomgåelse av l
 
 For nye luftfartøy hvor ARC utstedes på grunnlag av Statement of Conformity, betales gebyr kr 3 640.
 
-For utstedelse av ARC basert på anbefaling (recommendation) betales gebyrkr 2 030 for seilfly, motorseilfly og ballong.kr 3 640 for motordrevet luftfartøy t.o.m. 2 730 kg.kr 5 290 for motordrevet luftfartøy over 2 730 kg.
+For utstedelse av ARC basert på anbefaling (recommendation) betales gebyr
+
+1. kr 2 030 for seilfly, motorseilfly og ballong.
+2. kr 3 640 for motordrevet luftfartøy t.o.m. 2 730 kg.
+3. kr 5 290 for motordrevet luftfartøy over 2 730 kg.
 
 For validering av ARC betales kr 2 030.
 
@@ -172,7 +198,11 @@ Når Luftfartstilsynet etter avtale med annet lands luftfartsmyndighet har påta
 
 ### § 17. Gebyr for typeakseptering, konstruksjons-, modifikasjons- og reparasjonsgranskning av luftfartøy og annet flymateriell
 
-For typeakseptering, konstruksjons-, modifikasjons- og reparasjonsgransking av luftfartøy og annet flymateriell som ikke har eller vil få EASA-typesertifikat eller annen EASA-godkjenning (Annex I-luftfartøy), betales gebyr etter regning, jf. [§ 4](forskrift/2026-01-28-125/§4) forgjennomgåelse og godkjenning av tekniske spesifikasjoner, tegninger og beregninger mot relevant byggekode, besiktigelse av luftfartøy eller flymateriell.besiktigelse av skader av betydning for luftdyktigheten, godkjenning av reparasjonsunderlag og besiktigelse ved godkjenning av reparasjoner.gjennomgåelse av spesifikasjoner, tegninger og beregninger for nye konstruksjoner, besiktigelse og kontroll av luftfartøy eller flymateriell og annet arbeid i forbindelse med godkjenning av nye konstruksjoner.
+For typeakseptering, konstruksjons-, modifikasjons- og reparasjonsgransking av luftfartøy og annet flymateriell som ikke har eller vil få EASA-typesertifikat eller annen EASA-godkjenning (Annex I-luftfartøy), betales gebyr etter regning, jf. [§ 4](forskrift/2026-01-28-125/§4) for
+
+1. gjennomgåelse og godkjenning av tekniske spesifikasjoner, tegninger og beregninger mot relevant byggekode, besiktigelse av luftfartøy eller flymateriell.
+2. besiktigelse av skader av betydning for luftdyktigheten, godkjenning av reparasjonsunderlag og besiktigelse ved godkjenning av reparasjoner.
+3. gjennomgåelse av spesifikasjoner, tegninger og beregninger for nye konstruksjoner, besiktigelse og kontroll av luftfartøy eller flymateriell og annet arbeid i forbindelse med godkjenning av nye konstruksjoner.
 
 ### § 18. Gebyr for andre tekniske godkjenninger mv.
 
@@ -276,7 +306,10 @@ For første gangs godkjenning av organisasjon som designer flymateriell betales 
 
 For søknad om endring av gitt godkjenning betales gebyr etter regning, jf. [§ 4](forskrift/2026-01-28-125/§4).
 
-For organisasjon som designer flymateriell betales årsgebyr medkr 13 600 for organisasjon med 1–5 ansatte.kr 20 100 for organisasjon med over 5 ansatte.
+For organisasjon som designer flymateriell betales årsgebyr med
+
+1. kr 13 600 for organisasjon med 1–5 ansatte.
+2. kr 20 100 for organisasjon med over 5 ansatte.
 
 ### § 23. Årsgebyr og gebyr for godkjenning av organisasjon som produserer flymateriell
 
@@ -576,7 +609,13 @@ For saksbehandling knyttet til Assessment of Competence og/eller utstedelse av k
 
 ### § 46. Gebyr for sertifikat til flyteknisk personell
 
-For sertifikat til flyteknisk personell betales gebyrkr 6 730 for utstedelse eller utvidelse av Part-66 AML med ny typerettighet eller tilsvarende nasjonal rettighet.kr 2 070 for utstedelse eller utvidelse med ny kategori for Part-66 vedlikeholds-sertifikat uten typerettighet, eller overføring fra annen EASA-medlemsstat.kr 1 650 for fornyelse eller duplikat av Part-66 vedlikeholdssertifikat eller tilsvarende nasjonal rettighet.kr 9 320 for gjennomføring av typeevaluering og utstedelse eller utvidelse av Part-66 vedlikeholdssertifikat (AML) eller tilsvarende nasjonal rettighet.kr 1 650 for utstedelse av rapport for eksamenskreditt for moduleksamen som er 8 år eller eldre.
+For sertifikat til flyteknisk personell betales gebyr
+
+1. kr 6 730 for utstedelse eller utvidelse av Part-66 AML med ny typerettighet eller tilsvarende nasjonal rettighet.
+2. kr 2 070 for utstedelse eller utvidelse med ny kategori for Part-66 vedlikeholds-sertifikat uten typerettighet, eller overføring fra annen EASA-medlemsstat.
+3. kr 1 650 for fornyelse eller duplikat av Part-66 vedlikeholdssertifikat eller tilsvarende nasjonal rettighet.
+4. kr 9 320 for gjennomføring av typeevaluering og utstedelse eller utvidelse av Part-66 vedlikeholdssertifikat (AML) eller tilsvarende nasjonal rettighet.
+5. kr 1 650 for utstedelse av rapport for eksamenskreditt for moduleksamen som er 8 år eller eldre.
 
 Gebyr for typeevaluering dekker ikke utgifter til å fremskaffe luftdyktig luftfartøy eller nødvendig verktøy og manualer. Søker må selv sørge for slikt utstyr og betaling for dette. For prøve som avlegges utenfor Norge betales gebyr etter regning, jf. [§ 4](forskrift/2026-01-28-125/§4).
 
@@ -584,7 +623,12 @@ Gebyr for typeevaluering dekker ikke utgifter til å fremskaffe luftdyktig luftf
 
 For innehaver av sertifikat til flygeleder og flygelederelev påløper årsgebyr kr 2 130. Årsgebyret dekker sertifikatutstedelse og påtegning i sertifikatet ved fornyelse og for nye privilegier.
 
-For dokumentutstedelse betales gebyr etter følgende satserkr 3 100 for konvertering av flygeledersertifikat fra EØS-land og kr 7 550 for konvertering av flygeledersertifikat utenfor EØS-land.kr 2 070 for utstedelse av autorisasjonsbevis etter bestått autorisasjon av AFIS/FIS- personell.Når autorisasjonsprøve for AFIS/FIS-personell gjennomføres ved bruk av kontrollant fra Luftfartstilsynet betales et tillegg på kr 10 400.For godkjenning av kontrollant AFIS/FIS betales gebyr kr 2 000.
+For dokumentutstedelse betales gebyr etter følgende satser
+
+1. kr 3 100 for konvertering av flygeledersertifikat fra EØS-land og kr 7 550 for konvertering av flygeledersertifikat utenfor EØS-land.
+2. kr 2 070 for utstedelse av autorisasjonsbevis etter bestått autorisasjon av AFIS/FIS- personell.
+3. Når autorisasjonsprøve for AFIS/FIS-personell gjennomføres ved bruk av kontrollant fra Luftfartstilsynet betales et tillegg på kr 10 400.
+4. For godkjenning av kontrollant AFIS/FIS betales gebyr kr 2 000.
 
 For øvrig saksarbeid som fører til nytt sertifikat, bevis eller ny rettighet
 
@@ -600,7 +644,12 @@ For første gangs godkjenning av flylege med praksis utenfor Norge, betales geby
 
 For registrering av opplysninger i forbindelse med legeattest eller legeerklæring utstedt av flylege utenfor Norge, påløper gebyr kr 1 200. Gebyret faktureres sertifikatinnehaver.
 
-For saksarbeid betales gebyr etter følgende satser:kr 1 180 for dispensasjonssøknad i tilknytning til legeattest eller legeerklæring for seilfly, ballong, mikrofly eller AFIS/FIS/HF-personellkr 660 for utstedelse av uendret legeattest i gyldighetsperiodenkr 660 for kopi av enkeltstående saksdokumentkr 1 900 for saksarbeid ved endring av utstederland (State of Licence Issue).
+For saksarbeid betales gebyr etter følgende satser:
+
+1. kr 1 180 for dispensasjonssøknad i tilknytning til legeattest eller legeerklæring for seilfly, ballong, mikrofly eller AFIS/FIS/HF-personell
+2. kr 660 for utstedelse av uendret legeattest i gyldighetsperioden
+3. kr 660 for kopi av enkeltstående saksdokument
+4. kr 1 900 for saksarbeid ved endring av utstederland (State of Licence Issue).
 
 ### § 49. Årsgebyr og gebyr for utdannings- og skoletillatelser mv.
 
@@ -654,7 +703,15 @@ For sertifisering av tjenesteyter for lufttrafikktjeneste betales gebyr etter re
 
 Årsgebyr dekker, i tillegg til kostnader som nevnt i [§ 5 første ledd](forskrift/2026-01-28-125/§5/ledd/1), re-sertifisering av tjenesteyter og endringshåndtering. Dersom Luftfartstilsynets arbeid med endringshåndteringer blir særlig omfattende, og/eller ved innføring av ny teknologi av særlig omfang betales gebyr etter regning, jf. [§ 4](forskrift/2026-01-28-125/§4).
 
-For sertifiserte tjenesteytere innenfor flysikringstjeneste betales årsgebyr kr 272 000 med tillegg avkr 295 000 for hver kontrollsentral/sektorgruppe (underveistjeneste)kr 141 500 for hver RTC (enhet for fjernstyring, Remote Tower Center)kr 230 000 for hver kontrollert tårnenhetkr 141 500 for hver kontrollert tårnenhet (RTC)kr 230 000 for hver enhet for innflygingskontrollkr 94 000 for hver enhet med AFIS/FISkr 65 300 for hver enhet med AFIS/FIS i RTC.
+For sertifiserte tjenesteytere innenfor flysikringstjeneste betales årsgebyr kr 272 000 med tillegg av
+
+1. kr 295 000 for hver kontrollsentral/sektorgruppe (underveistjeneste)
+2. kr 141 500 for hver RTC (enhet for fjernstyring, Remote Tower Center)
+3. kr 230 000 for hver kontrollert tårnenhet
+4. kr 141 500 for hver kontrollert tårnenhet (RTC)
+5. kr 230 000 for hver enhet for innflygingskontroll
+6. kr 94 000 for hver enhet med AFIS/FIS
+7. kr 65 300 for hver enhet med AFIS/FIS i RTC.
 
 Hvor kontrolltårn og enhet for innflygingskontroll ikke er separate enheter, betales gebyr kun for kontrolltårn. For kontrollsentral/sektorgruppe som også omfatter innflygingskontroll, betales kun gebyr for kontrollsentral/sektorgruppe.
 
@@ -664,7 +721,11 @@ For tjenesteyter som kun yter flygeinformasjonstjeneste AFIS/FIS betales årsgeb
 
 For sertifisering av tjenesteyter for CNS (flynavigasjonstjeneste) betales gebyr etter regning, jf. [§ 4](forskrift/2026-01-28-125/§4).
 
-For organisasjon sertifisert for CNS tjeneste (flynavigasjonstjeneste) betales årsgebyr kr 475 300 med tillegg for hvert sted som yter flynavigasjonstjeneste medkr 445 800 for flyplass med instrumentlandingssystem i kategori II eller III.kr 196 000 for flyplass med instrumentlandingssystem i kategori I.kr 117 600 for flyplass med ikke-presisjons instrumentlandingssystem.
+For organisasjon sertifisert for CNS tjeneste (flynavigasjonstjeneste) betales årsgebyr kr 475 300 med tillegg for hvert sted som yter flynavigasjonstjeneste med
+
+1. kr 445 800 for flyplass med instrumentlandingssystem i kategori II eller III.
+2. kr 196 000 for flyplass med instrumentlandingssystem i kategori I.
+3. kr 117 600 for flyplass med ikke-presisjons instrumentlandingssystem.
 
 For organisasjon sertifisert for CNS tjeneste og som har et begrenset sertifikat betales årsgebyr kr 350 000.
 
@@ -743,9 +804,22 @@ For behandling av mottatt selverklæring fra organisasjon som driver bakketjenes
 
 Gebyr for sikkerhetsgodkjenning av aktører innen sivil luftfart dekker kostnader ved blant annet gjennomgåelse av dokumentasjon og inspeksjon før godkjenning gis.
 
-For sikkerhetsgodkjenning betales gebyr etter regning, jf. [§ 4](forskrift/2026-01-28-125/§4), med minimumsbeløpkr 250 000 for fraktleverandør med 20 eller flere kontorer/sted.kr 200 000 for fraktleverandør med 10–19 kontorer/sted.kr 150 000 for fraktleverandør med 3 t.o.m. 9 kontorer/sted.kr 72 000 for fraktleverandør med 2 kontorer/sted.kr 36 100 for fraktleverandør med 1 kontor/sted.kr 25 000 for kjent avsender.kr 25 000 for transportør per kontor/sted.
+For sikkerhetsgodkjenning betales gebyr etter regning, jf. [§ 4](forskrift/2026-01-28-125/§4), med minimumsbeløp
 
-For sikkerhetsgodkjenning av leverandør av forsyninger til flyging betales gebyr etter regning, jf. [§ 4](forskrift/2026-01-28-125/§4), med minimumsbeløpkr 150 000 for leverandør med 10 kontorer/sted eller flere.kr 90 000 for leverandør med 3 t.o.m. 9 kontorer/sted.kr 45 800 for leverandør med 2 kontorer/sted.kr 25 000 for leverandør med 1 kontor/sted.
+1. kr 250 000 for fraktleverandør med 20 eller flere kontorer/sted.
+2. kr 200 000 for fraktleverandør med 10–19 kontorer/sted.
+3. kr 150 000 for fraktleverandør med 3 t.o.m. 9 kontorer/sted.
+4. kr 72 000 for fraktleverandør med 2 kontorer/sted.
+5. kr 36 100 for fraktleverandør med 1 kontor/sted.
+6. kr 25 000 for kjent avsender.
+7. kr 25 000 for transportør per kontor/sted.
+
+For sikkerhetsgodkjenning av leverandør av forsyninger til flyging betales gebyr etter regning, jf. [§ 4](forskrift/2026-01-28-125/§4), med minimumsbeløp
+
+1. kr 150 000 for leverandør med 10 kontorer/sted eller flere.
+2. kr 90 000 for leverandør med 3 t.o.m. 9 kontorer/sted.
+3. kr 45 800 for leverandør med 2 kontorer/sted.
+4. kr 25 000 for leverandør med 1 kontor/sted.
 
 For godkjenning av nytt underkontor for allerede sikkerhetsgodkjent fraktleverandør eller leverandør av forsyninger, betales gebyr kr 21 300. For endring i godkjenningsvilkår for sikkerhetsgodkjent fraktleverandør eller leverandør av forsyninger som krever inspeksjon, betales gebyr kr 21 300.
 
@@ -773,17 +847,36 @@ For godkjenning av kurs betales gebyr kr 5 200 per kurs.
 
 ### § 64. Årsgebyr for lufthavner og luftfartsselskaper
 
-For sikkerhetsgodkjent lufthavn betales årsgebyrkr 446 200 for lufthavn med mer enn 10 millioner passasjerer.kr 294 400 for lufthavn med 2–10 millioner passasjerer.kr 128 800 for lufthavn med færre enn 2 millioner passasjerer.
+For sikkerhetsgodkjent lufthavn betales årsgebyr
 
-For sikkerhetsgodkjent luftfartsselskap betales årsgebyrkr 231 600 for selskap med luftfartøy over 19 seter, eller luftfartøy over 15 tonn MTOW.kr 111 000 for selskap med luftfartøy til og med 19 seter.kr 50 600 for selskap med rene fraktfly (all cargo) over 15 tonn MTOW.
+1. kr 446 200 for lufthavn med mer enn 10 millioner passasjerer.
+2. kr 294 400 for lufthavn med 2–10 millioner passasjerer.
+3. kr 128 800 for lufthavn med færre enn 2 millioner passasjerer.
+
+For sikkerhetsgodkjent luftfartsselskap betales årsgebyr
+
+1. kr 231 600 for selskap med luftfartøy over 19 seter, eller luftfartøy over 15 tonn MTOW.
+2. kr 111 000 for selskap med luftfartøy til og med 19 seter.
+3. kr 50 600 for selskap med rene fraktfly (all cargo) over 15 tonn MTOW.
 
 ### § 65. Årsgebyr for sikkerhetsgodkjent fraktleverandør, leverandør av forsyninger, transportør og kjent avsender
 
-For sikkerhetsgodkjente fraktleverandører betales årsgebyrkr 200 000 for fraktleverandør med 20 eller flere kontorer/stedkr 126 800 for fraktleverandør med 10–19 kontorer/sted.kr 94 900 for fraktleverandør med 3–9 kontorer/sted.kr 75 100 for fraktleverandør med 2 kontorer/sted.kr 38 200 for fraktleverandør med 1 kontor/sted.
+For sikkerhetsgodkjente fraktleverandører betales årsgebyr
+
+1. kr 200 000 for fraktleverandør med 20 eller flere kontorer/sted
+2. kr 126 800 for fraktleverandør med 10–19 kontorer/sted.
+3. kr 94 900 for fraktleverandør med 3–9 kontorer/sted.
+4. kr 75 100 for fraktleverandør med 2 kontorer/sted.
+5. kr 38 200 for fraktleverandør med 1 kontor/sted.
 
 For sikkerhetsgodkjent fraktleverandør som er ansvarlig for fysisk sikkerhetskontroll, betales tillegg til årsgebyr med kr 8 300 per sted med slik fysisk sikkerhetskontroll.
 
-For sikkerhetsgodkjent leverandør av forsyninger til flyging betales årsgebyrkr 69 900 for leverandør med 10 kontorer/sted eller mer.kr 35 100 for leverandør med 3–9 kontorer/sted.kr 23 500 for leverandør med 2 kontorer/sted.kr 11 600 for leverandør med 1 kontor/sted.
+For sikkerhetsgodkjent leverandør av forsyninger til flyging betales årsgebyr
+
+1. kr 69 900 for leverandør med 10 kontorer/sted eller mer.
+2. kr 35 100 for leverandør med 3–9 kontorer/sted.
+3. kr 23 500 for leverandør med 2 kontorer/sted.
+4. kr 11 600 for leverandør med 1 kontor/sted.
 
 For kjent avsender betales årsgebyr kr 9 500 per kontor/sted.
 

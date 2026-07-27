@@ -15,7 +15,7 @@ xml_hash: "9a36eba91b25e93024ff154397ea14c4a5282024b3be91b3e2c30e53a981483f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,10 @@ Sysselmesteren kan kreve de opplysningene som er nødvendige for å avklare om d
 
 ## § 5. Steder reisende kan kontrolleres
 
-Reisende til og fra Svalbard kan kontrolleresved ankomst til og avgang fra Svalbard eller der den reisende melder seg eller påtreffesi territorialfarvannet på sjøfartøy underveis til eller fra havn eller indre farvann på Svalbard
+Reisende til og fra Svalbard kan kontrolleres
+
+1. ved ankomst til og avgang fra Svalbard eller der den reisende melder seg eller påtreffes
+2. i territorialfarvannet på sjøfartøy underveis til eller fra havn eller indre farvann på Svalbard
 
 Justis- og beredskapsdepartementet kan fastsette særlige steder der reisende vil bli kontrollert.
 
@@ -88,7 +91,14 @@ En forhåndsmelding etter § 7 første ledd som gjelder luftfartøy i rutetrafik
 
 En forhåndsmelding etter § 7 første ledd som gjelder andre luftfartøy i kommersiell trafikk, skal gis senest 48 timer og minst to arbeidsdager før luftfartøyet lander på Svalbard
 
-Forhåndsmeldingen skal inneholdede reisendes og mannskapets legitimasjonsdokumenttype og -nummer, statsborgerskap, navn og fødselsdatogrenseovergangsstedtransportkodentransportens avgangs- og ankomsttiddet totale antall personer som transporteres med transportenførste ombordsstigningssted.
+Forhåndsmeldingen skal inneholde
+
+1. de reisendes og mannskapets legitimasjonsdokumenttype og -nummer, statsborgerskap, navn og fødselsdato
+2. grenseovergangssted
+3. transportkoden
+4. transportens avgangs- og ankomsttid
+5. det totale antall personer som transporteres med transporten
+6. første ombordsstigningssted.
 
 Ved behov kan Sysselmesteren pålegge en transportør å opplyse om visumnummer og endedestinasjon.
 
@@ -128,7 +138,13 @@ Grenseforskriften § 4-12 og § 4-13 gjelder for Svalbard med samme tilpasninger
 
 [Grenseloven § 26](lov/2018-04-20-8/§26) gjelder for Svalbard.
 
-Med bot eller fengsel inntil seks måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrerpåbud etter [§ 4](lov/1925-07-17-11/§4) første leddpåbud eller forbud etter [§ 5](lov/2018-04-20-8/§5) tredje og femte leddkrav etter [§ 7](lov/2018-04-20-8/§7) første leddkrav etter [§ 10](lov/2018-04-20-8/§10)påbud etter [§ 11](lov/2018-04-20-8/§11) første og andre ledd.
+Med bot eller fengsel inntil seks måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrer
+
+1. påbud etter [§ 4](lov/1925-07-17-11/§4) første ledd
+2. påbud eller forbud etter [§ 5](lov/2018-04-20-8/§5) tredje og femte ledd
+3. krav etter [§ 7](lov/2018-04-20-8/§7) første ledd
+4. krav etter [§ 10](lov/2018-04-20-8/§10)
+5. påbud etter [§ 11](lov/2018-04-20-8/§11) første og andre ledd.
 
 Forsøk straffes på samme måte.
 

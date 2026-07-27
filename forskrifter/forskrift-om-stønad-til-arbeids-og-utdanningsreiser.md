@@ -52,7 +52,14 @@ Stønaden gis tidligst fra det tidspunkt søknad er framsatt.
 
 ## § 5. Forhold til andre ytelser
 
-Det gis ikke stønad etter denne forskriften til personer sommottar grunnstønad til transport til arbeid eller utdanning, jf. [folketrygdloven § 6-3](lov/1997-02-28-19/§6-3),mottar stønad til bil, jf. [folketrygdloven § 10-7](lov/1997-02-28-19/§10-7) og denne er ment å skulle benyttes til transport til arbeid eller utdanning. Det kan likevel gis stønad etter denne forskriften dersom det foreligger særlige forhold som gjør at bilen ikke kan benyttes til dette formålet,er elever i grunn- eller videregående skole der kommunen eller fylkeskommunen har ansvaret for å dekke reisen til skolen,deltar på arbeidsmarkedstiltak som er tildelt av Arbeids- og velferdsetaten. Det kan likevel gis stønad etter denne forskriften til personer som deltar på midlertidig eller varig lønnstilskudd jf. [forskrift 11. desember 2015 nr. 1598 om arbeidsmarkedstiltak kapittel 9](forskrift/2015-12-11-1598/kap9) og [10](forskrift/2015-12-11-1598/kap10),mottar en full ytelse til livsopphold etter folketrygdloven, ellerfår dekket transportutgifter til utdanning eller arbeid etter annet regelverk.
+Det gis ikke stønad etter denne forskriften til personer som
+
+1. mottar grunnstønad til transport til arbeid eller utdanning, jf. [folketrygdloven § 6-3](lov/1997-02-28-19/§6-3),
+2. mottar stønad til bil, jf. [folketrygdloven § 10-7](lov/1997-02-28-19/§10-7) og denne er ment å skulle benyttes til transport til arbeid eller utdanning. Det kan likevel gis stønad etter denne forskriften dersom det foreligger særlige forhold som gjør at bilen ikke kan benyttes til dette formålet,
+3. er elever i grunn- eller videregående skole der kommunen eller fylkeskommunen har ansvaret for å dekke reisen til skolen,
+4. deltar på arbeidsmarkedstiltak som er tildelt av Arbeids- og velferdsetaten. Det kan likevel gis stønad etter denne forskriften til personer som deltar på midlertidig eller varig lønnstilskudd jf. [forskrift 11. desember 2015 nr. 1598 om arbeidsmarkedstiltak kapittel 9](forskrift/2015-12-11-1598/kap9) og [10](forskrift/2015-12-11-1598/kap10),
+5. mottar en full ytelse til livsopphold etter folketrygdloven, eller
+6. får dekket transportutgifter til utdanning eller arbeid etter annet regelverk.
 
 Personer som mottar sykepenger etter lov [28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd [kapittel 8](lov/1997-02-28-19/kap8), kan likevel motta stønad etter denne forskriften når de deltar i tiltaket opplæring i form av ordinær utdanning jf. forskrift [11. desember 2015 nr. 1598](forskrift/2015-12-11-1598) om arbeidsmarkedstiltak [kapittel 7](forskrift/2015-12-11-1598/kap7).
 

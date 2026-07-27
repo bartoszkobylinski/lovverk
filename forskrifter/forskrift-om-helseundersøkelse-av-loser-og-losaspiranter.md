@@ -15,7 +15,7 @@ xml_hash: "1362b64eb91a3f24ab91b7c655ad23c091f9cf2f879c386417a3698d089e75b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,12 @@ Forskriften skal sikre at loser og losaspiranter er helsemessig skikket til tjen
 
 (1) Det er kun lege med godkjenning som sjømannslege i Norge som kan gjennomføre helseundersøkelser og utstede helse- og udyktighetserklæringer etter denne forskriften. Når det i denne forskriften brukes begrepet lege menes lege med slik godkjenning.
 
-(2) I denne forskriften menes med:*«Helseerklæring»*: Erklæring fra lege om at en los eller losaspirant er undersøkt i samsvar med denne forskriften, og funnet helsemessig skikket til å gjøre tjeneste som los eller losaspirant.*«Permanent udyktighetserklæring»*: Erklæring fra lege om at en person er undersøkt i samsvar med denne forskriften og ikke funnet helsemessig skikket til å gjøre tjeneste som los eller losaspirant, og det ikke er sannsynlig at han eller hun vil oppfylle vilkårene innen to år.*«Foreløpig udyktighetserklæring»*: Erklæring fra lege om at en person er undersøkt i samsvar med denne forskriften og ikke funnet helsemessig skikket til å gjøre tjeneste som los eller losaspirant, men det er sannsynlig at han eller hun vil kunne oppfylle vilkårene innen to år.*«Midlertidig udyktighetserklæring»*: Erklæring fra lege, uten forutgående helseundersøkelse, om at en person ikke anses helsemessig skikket til å gjøre tjeneste som los eller losaspirant.
+(2) I denne forskriften menes med:
+
+1. *«Helseerklæring»*: Erklæring fra lege om at en los eller losaspirant er undersøkt i samsvar med denne forskriften, og funnet helsemessig skikket til å gjøre tjeneste som los eller losaspirant.
+2. *«Permanent udyktighetserklæring»*: Erklæring fra lege om at en person er undersøkt i samsvar med denne forskriften og ikke funnet helsemessig skikket til å gjøre tjeneste som los eller losaspirant, og det ikke er sannsynlig at han eller hun vil oppfylle vilkårene innen to år.
+3. *«Foreløpig udyktighetserklæring»*: Erklæring fra lege om at en person er undersøkt i samsvar med denne forskriften og ikke funnet helsemessig skikket til å gjøre tjeneste som los eller losaspirant, men det er sannsynlig at han eller hun vil kunne oppfylle vilkårene innen to år.
+4. *«Midlertidig udyktighetserklæring»*: Erklæring fra lege, uten forutgående helseundersøkelse, om at en person ikke anses helsemessig skikket til å gjøre tjeneste som los eller losaspirant.
 
 ## § 4. Krav om helseerklæring
 
@@ -197,19 +202,39 @@ Hørselsundersøkelsen skal gjennomføres med rentone-audiometri ved hver unders
 
 ### 1.2.2. Bruk av høreapparat
 
-Dette er bare akseptabelt under følgende forutsetninger:Høreapparat kan bare aksepteres for loser som er i tjeneste, ikke for losaspiranter.Det må konstateres at losen vil være i stand til å utføre arbeidsoppgavene sine sikkert og effektivt i rutine- og nødssituasjoner.Bruk av høreapparat må gi en hørsel som, for alle de angitte frekvensene, gir et hørselstap som er minst 10 dB lavere (bedre) enn de grenseverdier som er satt.Los som bruker høreapparat må undersøkes ved Høresentral eller av øre-nese-hals-spesialist for taleaudiometriundersøkelse i bakgrunnsstøy. Det må godtgjøres at bruk av høreapparat bedrer hørselen slik at kommunikasjon oppfattes riktig, selv i bakgrunnsstøy.Det må være sannsynliggjort at hørselen vil holde dette nivået i hele gyldighetsperioden for helseerklæringen. Om nødvendig må det utstedes tidsbegrenset helseerklæring.
+Dette er bare akseptabelt under følgende forutsetninger:
+
+1. Høreapparat kan bare aksepteres for loser som er i tjeneste, ikke for losaspiranter.
+2. Det må konstateres at losen vil være i stand til å utføre arbeidsoppgavene sine sikkert og effektivt i rutine- og nødssituasjoner.
+3. Bruk av høreapparat må gi en hørsel som, for alle de angitte frekvensene, gir et hørselstap som er minst 10 dB lavere (bedre) enn de grenseverdier som er satt.
+4. Los som bruker høreapparat må undersøkes ved Høresentral eller av øre-nese-hals-spesialist for taleaudiometriundersøkelse i bakgrunnsstøy. Det må godtgjøres at bruk av høreapparat bedrer hørselen slik at kommunikasjon oppfattes riktig, selv i bakgrunnsstøy.
+5. Det må være sannsynliggjort at hørselen vil holde dette nivået i hele gyldighetsperioden for helseerklæringen. Om nødvendig må det utstedes tidsbegrenset helseerklæring.
 
 ### 1.3. C – Fysiske funksjonskrav
 
 ### 1.3.1. Introduksjon
 
-De fysiske funksjonskravene for å arbeide som los krever tilstrekkelig funksjonsdyktighet på følgende områder:StyrkeUtholdenhetSmidighetBalanse og koordinasjonArbeidskapasitet – hjerte/lunge-reserve.
+De fysiske funksjonskravene for å arbeide som los krever tilstrekkelig funksjonsdyktighet på følgende områder:
+
+1. Styrke
+2. Utholdenhet
+3. Smidighet
+4. Balanse og koordinasjon
+5. Arbeidskapasitet – hjerte/lunge-reserve.
 
 Medisinske tilstander og fysisk funksjonsevne.
 
 Noen medisinske tilstander kan medføre reduksjon av fysisk funksjonsevne.
 
-Noen eksempler på tilstander er gitt nedenfor:høy eller lav kroppsvekt/fedmealvorlig redusert muskelmassemuskel- og skjelettsykdommer, smerte eller bevegelsesinnskrenkningfølgetilstand etter skade eller kirurgilungesykdommerhjerte- og karsykdommernevrologiske sykdommer.
+Noen eksempler på tilstander er gitt nedenfor:
+
+1. høy eller lav kroppsvekt/fedme
+2. alvorlig redusert muskelmasse
+3. muskel- og skjelettsykdommer, smerte eller bevegelsesinnskrenkning
+4. følgetilstand etter skade eller kirurgi
+5. lungesykdommer
+6. hjerte- og karsykdommer
+7. nevrologiske sykdommer.
 
 ### 1.3.2. Testing av fysisk funksjonsevne
 
@@ -231,17 +256,46 @@ Følgende tabell viser hva som kreves av losen, og hvordan sjømannslegen skal u
 - Testen gjennomføres før opptak som losaspirant og rutinemessig hvert femte år mens losen er i tjeneste.
 - Testen skal gjennomføres hyppigere dersom sjømannslegen finner det nødvendig.
 
-Nedenfor vises eksempler på måter å vurdere fysisk funksjonsevne på.Dokumentasjon av observert evne til å arbeide som los sikkert og effektivt.Dokumentasjon av gjennomføring av oppgaver som ligner på rutine- og nødprosedyrene losen må kunne utføre.Vurdering av kardiorespiratorisk reserve, inkludert spirometri og ergometriske tester. Disse vil gi et mål for maksimum arbeidskapasitet og indirekte fortelle noe om losens evne til å utføre fysisk krevende arbeid. En stor reserve vil også indikere at hjerte- og lungefunksjonen med stor sannsynlighet holder i hele gyldighetsperioden for helseerklæringen. Rettesnoren er måling av maksimalt oksygenopptak (VO2 maks), men dette krever avansert utstyr. Step-tester som Chester eller Harvard er enklere alternativer og kan brukes for screening. Hvis step-testen er unormal kan man henvise til VO2 maX eller tredemølletest.Uformell testing av kardiorespiratorisk reserve, f.eks. ved å løpe trapper (3–6 etasjer) og observere graden av slitenhet, tungpust o.l. samt pulsfrekvens når man stopper. Dette er ikke reproduserbart av andre enn samme lege ved neste undersøkelse.Klinisk vurdering av styrke, bevegelsesevne, koordinering osv.
+Nedenfor vises eksempler på måter å vurdere fysisk funksjonsevne på.
 
-Tilleggsinformasjon kan stamme fra losens egen beskrivelse av aktiviteter som han har gjort nylig eller gjør regelmessig, så somfysisk krevende arbeidsoppgaver ved bording, kvittinggjennomføring av et fysisk krevende kurs, så som røykdykkerkurs, helikopterrømningskurs, sikkerhetskurs etter STCW-konvensjonen eller lignendebekreftet individuelt treningsprogram.
+- Dokumentasjon av observert evne til å arbeide som los sikkert og effektivt.
+- Dokumentasjon av gjennomføring av oppgaver som ligner på rutine- og nødprosedyrene losen må kunne utføre.
+- Vurdering av kardiorespiratorisk reserve, inkludert spirometri og ergometriske tester. Disse vil gi et mål for maksimum arbeidskapasitet og indirekte fortelle noe om losens evne til å utføre fysisk krevende arbeid. En stor reserve vil også indikere at hjerte- og lungefunksjonen med stor sannsynlighet holder i hele gyldighetsperioden for helseerklæringen. Rettesnoren er måling av maksimalt oksygenopptak (VO2 maks), men dette krever avansert utstyr. Step-tester som Chester eller Harvard er enklere alternativer og kan brukes for screening. Hvis step-testen er unormal kan man henvise til VO2 maX eller tredemølletest.
+- Uformell testing av kardiorespiratorisk reserve, f.eks. ved å løpe trapper (3–6 etasjer) og observere graden av slitenhet, tungpust o.l. samt pulsfrekvens når man stopper. Dette er ikke reproduserbart av andre enn samme lege ved neste undersøkelse.
+- Klinisk vurdering av styrke, bevegelsesevne, koordinering osv.
 
-Tolking av resultaterEr det evidens for at losen ikke er i stand til å utføre sine arbeidsoppgaver i rutine- og nødssituasjoner sikkert og effektivt?Er det observert noen begrensning i styrke, bevegelighet, utholdenhet eller koordinasjon?Hva var resultatet av arbeidskapasitetstestingen?Testen begrenset pga. tung pust, muskel/skjelett-smerte eller annen smerte, eller utmattelse. Årsaker må undersøkes og tas i betrakting når man vurderer fysisk funksjonsevne.Ikke i stand til å gjennomføre testen.Gjennomført test, men sliten og med dårlig restitusjon etter avsluttet test.Gjennomført test til god eller gjennomsnittlig standard.
+Tilleggsinformasjon kan stamme fra losens egen beskrivelse av aktiviteter som han har gjort nylig eller gjør regelmessig, så som
+
+- fysisk krevende arbeidsoppgaver ved bording, kvitting
+- gjennomføring av et fysisk krevende kurs, så som røykdykkerkurs, helikopterrømningskurs, sikkerhetskurs etter STCW-konvensjonen eller lignende
+- bekreftet individuelt treningsprogram.
+
+Tolking av resultater
+
+- Er det evidens for at losen ikke er i stand til å utføre sine arbeidsoppgaver i rutine- og nødssituasjoner sikkert og effektivt?
+- Er det observert noen begrensning i styrke, bevegelighet, utholdenhet eller koordinasjon?
+- Hva var resultatet av arbeidskapasitetstestingen?
+- Testen begrenset pga. tung pust, muskel/skjelett-smerte eller annen smerte, eller utmattelse. Årsaker må undersøkes og tas i betrakting når man vurderer fysisk funksjonsevne.
+- Ikke i stand til å gjennomføre testen.
+- Gjennomført test, men sliten og med dårlig restitusjon etter avsluttet test.
+- Gjennomført test til god eller gjennomsnittlig standard.
 
 Diskuter subjektive opplevelser under testen med losen og spør også hvordan det fungerer i arbeidet som los. Innhent komparentopplysninger ved usikkerhet om konklusjonen.
 
 ### 1.3.3. Beslutningstagning
 
-Informasjon fra flere kilder kan være nødvendig og ikke alle av disse er tilgjengelige i løpet av den medisinske undersøkelsen.Er det indikasjon for at fysisk funksjonsevne er redusert? (stivhet, fedme, sykehistorie med hjertesykdom osv.)Hvis NEI – Ingen test nødvendig.Hvis JA – Vurder hvilke tester eller observasjoner som må utføres for å kunne vurdere losens funksjonsevne i relasjon til arbeidsoppgavene.Indikerer testresultatene at funksjonsevnen er redusert?NEI – under forutsetning av at det ikke foreligger en underliggende sykdom som påvirker gjennomføringen av testen. → Ubegrenset helseerklæringJA – men tjenestepliktene kan kanskje modifiseres slik at losen kan arbeide trygt og effektivt uten å legge for store byrder på andre. → Udyktighetserklæring, evt. klage jf. at klagenemnda kan sette særlige begrensninger og særlige vilkårJA – men årsaken til begrensningen kan bli behandlet. Ikke forenlig med pålitelig, sikker og effektiv utførelse av arbeidsoppgavene. → Foreløpig udyktighetserklæringJA – og årsaken til begrensningen kan ikke behandles. Ikke forenlig med pålitelig sikker og effektiv utførelse av arbeidsoppgavene. → Permanent udyktighetserklæring.
+Informasjon fra flere kilder kan være nødvendig og ikke alle av disse er tilgjengelige i løpet av den medisinske undersøkelsen.
+
+- Er det indikasjon for at fysisk funksjonsevne er redusert? (stivhet, fedme, sykehistorie med hjertesykdom osv.)
+
+  - Hvis NEI – Ingen test nødvendig.
+  - Hvis JA – Vurder hvilke tester eller observasjoner som må utføres for å kunne vurdere losens funksjonsevne i relasjon til arbeidsoppgavene.
+- Indikerer testresultatene at funksjonsevnen er redusert?
+
+  - NEI – under forutsetning av at det ikke foreligger en underliggende sykdom som påvirker gjennomføringen av testen. → Ubegrenset helseerklæring
+  - JA – men tjenestepliktene kan kanskje modifiseres slik at losen kan arbeide trygt og effektivt uten å legge for store byrder på andre. → Udyktighetserklæring, evt. klage jf. at klagenemnda kan sette særlige begrensninger og særlige vilkår
+  - JA – men årsaken til begrensningen kan bli behandlet. Ikke forenlig med pålitelig, sikker og effektiv utførelse av arbeidsoppgavene. → Foreløpig udyktighetserklæring
+  - JA – og årsaken til begrensningen kan ikke behandles. Ikke forenlig med pålitelig sikker og effektiv utførelse av arbeidsoppgavene. → Permanent udyktighetserklæring.
 
 ### 1.4. D – Bruk av medikamenter
 
@@ -261,7 +315,11 @@ Hvis medikasjonen er klinisk essensiell for effektiv kontroll av sykdommen, f.ek
 
 Sjømannslegen må sørge for at losen har skriftlig dokumentasjon for medikamentene som er i bruk, skrevet på fastsatt skjema. Dette er spesielt viktig for medikamenter som har streng forskrivningsregulering (reseptgruppe A og B i Norge) og medikamenter som kan misbrukes, eller som kan ha bivirkninger som kan kompromittere fysisk og mental funksjonsevne.
 
-Alle loser som kan godkjennes helsemessig, og som går på fast medikasjon, skal utstyres med erklæring fra sjømannslegen med:spesifikasjon av medikamentets navn,dosering ogen bekreftelse på at det er gitt tillatelse til å bruke medikamentene under tjenestegjøring som los.
+Alle loser som kan godkjennes helsemessig, og som går på fast medikasjon, skal utstyres med erklæring fra sjømannslegen med:
+
+- spesifikasjon av medikamentets navn,
+- dosering og
+- en bekreftelse på at det er gitt tillatelse til å bruke medikamentene under tjenestegjøring som los.
 
 ### 1.4.3. Korttidsbehandling med medikamenter
 
@@ -287,7 +345,22 @@ Bruk av slike medikamenter omfattes ikke av kravet til erklæring om bruk av fas
 
 Sjømannslegen må basere sin avgjørelse på pålitelig informasjon om medikamentbruk, medikamentenes bivirkningsforekomst, den tilgrunnliggende tilstand og dens behandlingsbehov, og gjøre sin vurdering av medikamentbruken etter en personlig undersøkelse av losen.
 
-Sjømannslegen må vurdere om konsekvensene av medikamentbruken tilsier at det skal utstedes udyktighetserklæring eller helseerklæring. Helseerklæring med begrensninger eller vilkår kan kun utstedes i samsvar med vedtak i Klagenemnda.HELSEERKLÆRINGIngen bivirkninger, ingen krav om hyppige kontroller og ingen risiko for livstruende konsekvenser dersom medikamentet ikke inntas.Tidsbegrensning i helseerklæringen kan gis dersom det er behov for overvåkning av effekt av behandling eller bivirkninger hyppigere enn varigheten av en helseerklæring.UDYKTIGHETSERKLÆRING (permanent, foreløpig eller midlertidig)Losen kan ikke utføre sine arbeidsoppgaver på en pålitelig sikker og effektiv måte i rutine- og nødssituasjonerdet er risiko for livstruende konsekvenser hvis man ikke får medisinen som bestemtdet er risiko for kognitiv påvirkning når medikamentet tas som foreskrevetdet er risiko for alvorlige bivirkninger som kan være farlige under tjenesten, f.eks. blødningsrisiko ved bruk av antikoagulantia.Dersom det forventes at behandlingen er avsluttet og kravene til helseerklæring er oppfylt innen to år, utstedes foreløpig udyktighetserklæring, evt. klage jf. at klagenemnda kan forlenge perioden for foreløpig udyktighetserklæring utover to år og sette særlige begrensninger og særlige vilkår.Dersom det forventes at behandlingen kommer til å vare lengre enn to år, utstedes permanent udyktighetserklæring, evt. klage jf. at klagenemnda kan sette særlige begrensninger og særlige vilkår.
+Sjømannslegen må vurdere om konsekvensene av medikamentbruken tilsier at det skal utstedes udyktighetserklæring eller helseerklæring. Helseerklæring med begrensninger eller vilkår kan kun utstedes i samsvar med vedtak i Klagenemnda.
+
+- HELSEERKLÆRING
+
+  - Ingen bivirkninger, ingen krav om hyppige kontroller og ingen risiko for livstruende konsekvenser dersom medikamentet ikke inntas.
+
+    - Tidsbegrensning i helseerklæringen kan gis dersom det er behov for overvåkning av effekt av behandling eller bivirkninger hyppigere enn varigheten av en helseerklæring.
+- UDYKTIGHETSERKLÆRING (permanent, foreløpig eller midlertidig)
+
+  - Losen kan ikke utføre sine arbeidsoppgaver på en pålitelig sikker og effektiv måte i rutine- og nødssituasjoner
+
+    - det er risiko for livstruende konsekvenser hvis man ikke får medisinen som bestemt
+    - det er risiko for kognitiv påvirkning når medikamentet tas som foreskrevet
+    - det er risiko for alvorlige bivirkninger som kan være farlige under tjenesten, f.eks. blødningsrisiko ved bruk av antikoagulantia.
+    - Dersom det forventes at behandlingen er avsluttet og kravene til helseerklæring er oppfylt innen to år, utstedes foreløpig udyktighetserklæring, evt. klage jf. at klagenemnda kan forlenge perioden for foreløpig udyktighetserklæring utover to år og sette særlige begrensninger og særlige vilkår.
+    - Dersom det forventes at behandlingen kommer til å vare lengre enn to år, utstedes permanent udyktighetserklæring, evt. klage jf. at klagenemnda kan sette særlige begrensninger og særlige vilkår.
 
 ### 1.5. E – Helsekrav for vanlige medisinske tilstander
 
@@ -301,7 +374,13 @@ En helseerklæring skal normalt gis for to år, men dersom den medisinske tilsta
 
 ### 1.5.2. Medisinske tilstander
 
-Tabellen over medisinske tilstander er organisert på følgende måte:kolonne: WHO International Classification of Diseases, 10. utgave (ICD-10). Kodene er tatt med for å muliggjøre innsamling og sammenligning av data for statistikk- og forskningsformål.kolonne: Det vanlige navnet på sykdommen eller en gruppe av sykdommer med en kort beskrivelse av relevansen for tjeneste som los.kolonne: Beskrivelse av tilstander som er uforenlige med arbeid som los. Det sjekkes først mot denne kolonnen.kolonne: Beskrivelse av tilstander som bør medføre tidsbegrenset helseerklæring. Det sjekkes mot denne kolonnen hvis losen ikke dekkes av beskrivelsen i kolonne 3.kolonne: Beskrivelse av tilstander som er forenlige med helseerklæring uten begrensninger. Denne kolonnen sjekkes først når losens tilstand ikke dekkes av kolonne 3 og 4.
+Tabellen over medisinske tilstander er organisert på følgende måte:
+
+1. kolonne: WHO International Classification of Diseases, 10. utgave (ICD-10). Kodene er tatt med for å muliggjøre innsamling og sammenligning av data for statistikk- og forskningsformål.
+2. kolonne: Det vanlige navnet på sykdommen eller en gruppe av sykdommer med en kort beskrivelse av relevansen for tjeneste som los.
+3. kolonne: Beskrivelse av tilstander som er uforenlige med arbeid som los. Det sjekkes først mot denne kolonnen.
+4. kolonne: Beskrivelse av tilstander som bør medføre tidsbegrenset helseerklæring. Det sjekkes mot denne kolonnen hvis losen ikke dekkes av beskrivelsen i kolonne 3.
+5. kolonne: Beskrivelse av tilstander som er forenlige med helseerklæring uten begrensninger. Denne kolonnen sjekkes først når losens tilstand ikke dekkes av kolonne 3 og 4.
 
 Blankt felt betyr at sjømannslegen ikke kan utstede denne type erklæring for dette diagnosepunktet.
 

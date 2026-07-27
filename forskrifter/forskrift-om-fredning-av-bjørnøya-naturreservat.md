@@ -15,7 +15,7 @@ xml_hash: "b56538a5b2be5c7928218a576d75009f10d4cfdbf9ba347998caca030f353dbc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,10 @@ Bjørnøyas landområder med territorialfarvannet ut til 12 nautiske mil er fred
 
 ### § 2. (avgrensning og omfang)
 
-Det fredete området omfatterhele øya, med unntak av et mindre landareal omkring stasjonen i nord, ogterritorialfarvannet ut til 12 nautiske mil.
+Det fredete området omfatter
+
+1. hele øya, med unntak av et mindre landareal omkring stasjonen i nord, og
+2. territorialfarvannet ut til 12 nautiske mil.
 
 Naturreservatet utgjør ca. 177 km2 landareal (inkludert ferskvann) og ca. 2805 km2 marint areal. Grensen for reservatet fremgår av vedlagte kart i målestokk 1:350 000 og 1:50 000, datert Miljøverndepartementet desember 2008. De nøyaktige grensene for reservatet skal avmerkes der de går over land og knekkpunktene skal koordinatbestemmes.
 
@@ -42,7 +45,13 @@ Kartet oppbevares hos Sysselmesteren på Svalbard, i Miljødirektoratet og i Kli
 
 ### § 3. (formål)
 
-Formålet med fredningen er å bevare en tilnærmet uberørt og i verdenssammenheng unik isolert øy, med særegent økologisk system, storslått natur, spesiell geologi, flora og fauna, særegne landformer og mange kulturminner, herunder spesielt ivaretaøya som nøkkelområde for sjøfugl, inkludert sårbare arter, i Barentshavet,øya som rastelokalitet for trekkende fugl,den nære sammenhengen mellom livet i havet og på land,den særegne økologien som utvikles på isolerte øyer ogdet historiske perspektivet som kulturminner fra alle hovedepokene i Svalbards historie representerer.
+Formålet med fredningen er å bevare en tilnærmet uberørt og i verdenssammenheng unik isolert øy, med særegent økologisk system, storslått natur, spesiell geologi, flora og fauna, særegne landformer og mange kulturminner, herunder spesielt ivareta
+
+1. øya som nøkkelområde for sjøfugl, inkludert sårbare arter, i Barentshavet,
+2. øya som rastelokalitet for trekkende fugl,
+3. den nære sammenhengen mellom livet i havet og på land,
+4. den særegne økologien som utvikles på isolerte øyer og
+5. det historiske perspektivet som kulturminner fra alle hovedepokene i Svalbards historie representerer.
 
 ## Kapittel II. Fredningsbestemmelser
 
@@ -90,13 +99,19 @@ I tiden fra og med 1. april til og med 31. august er det forbudt å fly nærmere
 
 Bruk av terrenggående kjøretøy er forbudt.
 
-Forbudet i tredje ledd er ikke til hinder forferdsel med snøscooter på frossen og snødekt mark for transport av forsyninger til stasjonen, dersom værforholdene medfører at skip må anløpe annet sted ved øya enn ved stasjonen, ellerferdsel med snøscooter på frossen og snødekt mark i forbindelse med transport av nødvendig utstyr for vedlikehold av kommunikasjonsmaster og radiofyr sør, sørøst og øst for stasjonen.
+Forbudet i tredje ledd er ikke til hinder for
+
+1. ferdsel med snøscooter på frossen og snødekt mark for transport av forsyninger til stasjonen, dersom værforholdene medfører at skip må anløpe annet sted ved øya enn ved stasjonen, eller
+2. ferdsel med snøscooter på frossen og snødekt mark i forbindelse med transport av nødvendig utstyr for vedlikehold av kommunikasjonsmaster og radiofyr sør, sørøst og øst for stasjonen.
 
 ### § 8a. (ferdsel og opphold på land)
 
 Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet.
 
-Det skal holdes tilstrekkelig avstand tildyrelivet for å unngå unødige forstyrrelser ogfredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
+Det skal holdes tilstrekkelig avstand til
+
+1. dyrelivet for å unngå unødige forstyrrelser og
+2. fredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
 
 > Tilføyd ved forskrift [9 feb 2024 nr. 230](forskrift/2024-02-09-230) (i kraft 1 jan 2025).
 
@@ -110,7 +125,10 @@ Skip som anløper sjøområdene i naturreservatene kan ikke ha flere enn 200 pas
 
 I og nær de store fuglekoloniene er enhver form for ferdsel forbudt til lands og til vanns i tiden fra og med 1. april til og med 31. august.
 
-Forbudet er ikke til hinder forferdsel til vanns med båter på inntil 40 fot. Slike båter kan ikke ha høyere hastighet enn 5 knop nærmere enn 500 meter fra landferdsel i forbindelse med bruk av området som nødhavn.
+Forbudet er ikke til hinder for
+
+1. ferdsel til vanns med båter på inntil 40 fot. Slike båter kan ikke ha høyere hastighet enn 5 knop nærmere enn 500 meter fra land
+2. ferdsel i forbindelse med bruk av området som nødhavn.
 
 I et område nordøst på øya er enhver form for ferdsel på land og i ferskvann forbudt i perioden fra og med 15. juni til og med 31. august av hensyn til hekkende fugl.
 
@@ -132,7 +150,12 @@ Bestemmelsene i [kapittel II](forskrift/2002-08-16-903/kapii) er ikke til hinder
 
 ### § 12. (særskilt tillatelse)
 
-Forvaltningsmyndigheten kan etter søknad gi tillatelse tilnødvendig transport av materiell og personer i forbindelse med vedlikehold av etablerte bygninger, anlegg og installasjoner,nødvendig transport av brensel og forsyninger til hyttene ognødvendig opprensking av forurenset grunn.bruk av ubemannede luftfartøy (droner) og innretninger som nevnt i § 5a for andre formål enn fritids- og hobbyformål.
+Forvaltningsmyndigheten kan etter søknad gi tillatelse til
+
+1. nødvendig transport av materiell og personer i forbindelse med vedlikehold av etablerte bygninger, anlegg og installasjoner,
+2. nødvendig transport av brensel og forsyninger til hyttene og
+3. nødvendig opprensking av forurenset grunn.
+4. bruk av ubemannede luftfartøy (droner) og innretninger som nevnt i § 5a for andre formål enn fritids- og hobbyformål.
 
 > Endret ved forskrift [9 feb 2024 nr. 230](forskrift/2024-02-09-230) (i kraft 1 jan 2025).
 

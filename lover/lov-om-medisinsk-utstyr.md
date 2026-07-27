@@ -15,7 +15,7 @@ xml_hash: "0fa404e7a048f2f4b49eff55f4777b976c43a2f1b7d42d825caa63d4374cb808"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32017R0745"
@@ -26,9 +26,20 @@ eu_basis:
 
 ## § 1. Gjennomføring av forordningene om medisinsk utstyr
 
-Forordning [(EU) 2017/745](eu/32017r0745) om medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II, kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 11, gjelder som lov. Forordningen gjelder med tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av:forordning [(EU) 2020/561](eu/32020r0561)forordning [(EU) 2023/502](eu/32023r0502)forordning [(EU) 2023/607](eu/32023r0607)forordning [(EU) 2023/2197](eu/32023r2197)forordning [(EU) 2024/1860](eu/32024r1860)
+Forordning [(EU) 2017/745](eu/32017r0745) om medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II, kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 11, gjelder som lov. Forordningen gjelder med tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av:
 
-Forordning [(EU) 2017/746](eu/32017r0746) om in vitro-diagnostisk medisinsk utstyr, som inntatt i [EØS-avtalens vedlegg II, kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 12, gjelder som lov. Forordningen gjelder med tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av:forordning [(EU) 2022/112](eu/32022r0112)forordning [(EU) 2023/503](eu/32023r0503)forordning [(EU) 2023/607](eu/32023r0607)forordning [(EU) 2024/1860](eu/32024r1860)
+- forordning [(EU) 2020/561](eu/32020r0561)
+- forordning [(EU) 2023/502](eu/32023r0502)
+- forordning [(EU) 2023/607](eu/32023r0607)
+- forordning [(EU) 2023/2197](eu/32023r2197)
+- forordning [(EU) 2024/1860](eu/32024r1860)
+
+Forordning [(EU) 2017/746](eu/32017r0746) om in vitro-diagnostisk medisinsk utstyr, som inntatt i [EØS-avtalens vedlegg II, kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 12, gjelder som lov. Forordningen gjelder med tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av:
+
+- forordning [(EU) 2022/112](eu/32022r0112)
+- forordning [(EU) 2023/503](eu/32023r0503)
+- forordning [(EU) 2023/607](eu/32023r0607)
+- forordning [(EU) 2024/1860](eu/32024r1860)
 
 Departementet kan gi forskrift om gjennomføring og utfylling av forordningene gjennomført i første og andre ledd. Departementet kan også gi forskrift om endringer av forordningene i samsvar med rettsakter som vedtas av EU-kommisjonen og innlemmes i [EØS-avtalen](lov/1992-11-27-109/eøsl).
 

@@ -30,7 +30,14 @@ Bestemmelsene i [kapittel 1](forskrift/2019-11-18-1520/kap1) gjelder for kausjon
 
 ### § 2. Krav til innholdet i vedtak om garantier
 
-Et garantivedtak skal angihvem garantien er stilt forhvilket formål garantien gjelderhvilken type garanti som er stiltdet maksimale beløpet som det garanteres for og hvordan beløpet eventuelt reduseres i garantiperiodenhvilket tidspunkt garantien gjelder fra og når den opphørerom vedtaket må godkjennes av departementet etter [kommuneloven § 14-19](lov/2018-06-22-83/§14-19).
+Et garantivedtak skal angi
+
+1. hvem garantien er stilt for
+2. hvilket formål garantien gjelder
+3. hvilken type garanti som er stilt
+4. det maksimale beløpet som det garanteres for og hvordan beløpet eventuelt reduseres i garantiperioden
+5. hvilket tidspunkt garantien gjelder fra og når den opphører
+6. om vedtaket må godkjennes av departementet etter [kommuneloven § 14-19](lov/2018-06-22-83/§14-19).
 
 Hvis det kausjoneres for lån, skal garantivedtaket også angi lånets hovedstol og hvilket tillegg for renter og omkostninger som det garanteres for.
 
@@ -52,7 +59,13 @@ Kausjoner kan ikke gjelde for mer enn to år fra det tidspunktet som fordringen 
 
 Et garantivedtak som er truffet av en kommune skal ikke være gjenstand for godkjenning av departementet, jf. [kommuneloven § 14-19](lov/2018-06-22-83/§14-19) andre ledd første punktum, hvis beløpet som kommunen garanterer for er lavere enn eller lik den beløpsgrensen som gjelder for kommunen etter andre ledd.
 
-Beløpsgrensen for kommuner somikke har over 3 000 innbyggere, er 800 000 kronerhar over 3 000, men ikke over 10 000 innbyggere, er 2 000 000 kronerhar over 10 000, men ikke over 30 000 innbyggere, er 4 000 000 kronerhar over 30 000, men ikke over 100 000 innbyggere, er 7 000 000 kronerhar over 100 000 innbyggere, er 10 000 000 kroner.
+Beløpsgrensen for kommuner som
+
+1. ikke har over 3 000 innbyggere, er 800 000 kroner
+2. har over 3 000, men ikke over 10 000 innbyggere, er 2 000 000 kroner
+3. har over 10 000, men ikke over 30 000 innbyggere, er 4 000 000 kroner
+4. har over 30 000, men ikke over 100 000 innbyggere, er 7 000 000 kroner
+5. har over 100 000 innbyggere, er 10 000 000 kroner.
 
 Det er innbyggertallet i kommunen 1. januar i året før garantivedtaket som avgjør hva som er beløpsgrensen for kommunen.
 
@@ -66,7 +79,14 @@ Et fylkeskommunalt garantivedtak skal ikke være gjenstand for godkjenning av de
 
 Finansreglementet skal inneholde regler om hvordan kommunens eller fylkeskommunens finansielle midler og finansielle forpliktelser skal forvaltes i samsvar med [kommuneloven § 14-1](lov/2018-06-22-83/§14-1) tredje ledd, jf. [§ 14-13](lov/2018-06-22-83/§14-13) første ledd.
 
-Finansreglementet skal minst angihva som er formålet med forvaltningenhvilke midler som skal forvaltes med lav risiko og høy likviditethvilke midler som skal forvaltes med en lang tidshorisonthvilke avkastningsmål, rammer og begrensninger som gjelder for forvaltningen av midlene som er nevnt i bokstav b og chvilke rammer og begrensninger som gjelder for forvaltningen av gjeldhvordan avvik fra finansreglementet skal håndteres.
+Finansreglementet skal minst angi
+
+1. hva som er formålet med forvaltningen
+2. hvilke midler som skal forvaltes med lav risiko og høy likviditet
+3. hvilke midler som skal forvaltes med en lang tidshorisont
+4. hvilke avkastningsmål, rammer og begrensninger som gjelder for forvaltningen av midlene som er nevnt i bokstav b og c
+5. hvilke rammer og begrensninger som gjelder for forvaltningen av gjeld
+6. hvordan avvik fra finansreglementet skal håndteres.
 
 Etter første ledd bokstav d og e skal det blant annet angis hva som er tillatt risiko, kravene til risikospredning og hvilke finansielle instrumenter som er tillatt.
 
@@ -80,7 +100,13 @@ En slik instans skal vurdere rutinene for finans- og gjeldsforvaltningen.
 
 Rapportene om finans- og gjeldsforvaltningen til kommunestyret eller fylkestinget skal inneholde en beskrivelse og vurdering av kommunens eller fylkeskommunens finansielle risiko og avkastning, sammenholdt med målene og kravene i finansreglementet. Rapportene skal også inneholde en beskrivelse og vurdering av eventuelle vesentlige endringer i markedet og i kommunens eller fylkeskommunens finansielle risiko. Rapportene skal også opplyse om eventuelle avvik mellom kravene i finansreglementet og den faktiske forvaltningen, og hvordan avvikene er håndtert.
 
-Rapportene skalvise hvordan de finansielle midlene er sammensatt og markedsverdien av dem, både samlet og for hver gruppe av midlervise hvordan de finansielle forpliktelsene er sammensatt og verdien av dem, både samlet og for hver gruppe av forpliktelseropplyse om de finansielle forpliktelsenes løpetid, og om verdien av lån som forfaller og må refinansieres innen 12 månederopplyse om aktuelle markedsrenter og kommunens eller fylkeskommunens egne rentebetingelseropplyse om forhold som kommunestyret eller fylkestinget har stilt krav om at det skal opplyses om.
+Rapportene skal
+
+1. vise hvordan de finansielle midlene er sammensatt og markedsverdien av dem, både samlet og for hver gruppe av midler
+2. vise hvordan de finansielle forpliktelsene er sammensatt og verdien av dem, både samlet og for hver gruppe av forpliktelser
+3. opplyse om de finansielle forpliktelsenes løpetid, og om verdien av lån som forfaller og må refinansieres innen 12 måneder
+4. opplyse om aktuelle markedsrenter og kommunens eller fylkeskommunens egne rentebetingelser
+5. opplyse om forhold som kommunestyret eller fylkestinget har stilt krav om at det skal opplyses om.
 
 ## Kapittel 3. Ikrafttredelse og overgangsbestemmelser
 

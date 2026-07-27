@@ -15,7 +15,7 @@ xml_hash: "f0e42a90107daeb3167cf7c0f441c8be977733ba09d60748469240259e9f274a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,10 @@ Statens jernbanetilsyn er nasjonal sikkerhetsmyndighet i denne forskriften.
 
 Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2018/762](eu/32018r0762) av 16. februar 2018, som endret av forordning [(EU) 2020/782](eu/32020r0782), inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
 
-Fra 31. oktober 2025 oppheves:[forskrift 2. desember 2011 nr. 1177 om gjennomføring av kommisjonsforordning (EU) nr. 1158/2010 om felles sikkerhetsmetode for vurdering av samsvar med krav for å få sikkerhetssertifikat for jernbane på det nasjonale jernbanenettet (forskrift om metode for vurdering av sikkerhetssertifikat)](forskrift/2011-12-02-1177), og[forskrift 2. desember 2011 nr. 1176 om gjennomføring av kommisjonsforordning (EU) nr. 1169/2010 om felles sikkerhetsmetode for vurdering av samsvar med krav for å få sikkerhetsgodkjenning for jernbane på det nasjonale jernbanenettet (forskrift om metode for vurdering av sikkerhetsgodkjenning)](forskrift/2011-12-02-1176).
+Fra 31. oktober 2025 oppheves:
+
+- [forskrift 2. desember 2011 nr. 1177 om gjennomføring av kommisjonsforordning (EU) nr. 1158/2010 om felles sikkerhetsmetode for vurdering av samsvar med krav for å få sikkerhetssertifikat for jernbane på det nasjonale jernbanenettet (forskrift om metode for vurdering av sikkerhetssertifikat)](forskrift/2011-12-02-1177), og
+- [forskrift 2. desember 2011 nr. 1176 om gjennomføring av kommisjonsforordning (EU) nr. 1169/2010 om felles sikkerhetsmetode for vurdering av samsvar med krav for å få sikkerhetsgodkjenning for jernbane på det nasjonale jernbanenettet (forskrift om metode for vurdering av sikkerhetsgodkjenning)](forskrift/2011-12-02-1176).
 
 1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 796](forskrift/2022-05-06-796).
 

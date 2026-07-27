@@ -32,7 +32,19 @@ Søknad om patent leveres på særskilt søknadsskjema. Skjemaet med vedlegg ska
 
 ### § 2. Søknadens innhold
 
-Søknaden skal inneholde:oppfinnerens navn og adresse, søkerens navn eller foretaksnavn og adresse, og eventuelt også fullmektigens navn eller foretaksnavn og adresse– – –en kort og saklig tittel på oppfinnelsenen beskrivelse av oppfinnelsen, med tegninger dersom det er nødvendig for å forstå oppfinnelsenen bestemt angivelse av hva som søkes beskyttet ved patentet (patentkrav)et sammendrag som nevnt i [§ 11](forskrift/2007-12-14-1417/§11)opplysning om søknaden omfatter deponert biologisk materiale som nevnt i [patentloven § 8a](lov/1967-12-15-9/§8a)opplysning om leverandørland og opprinnelsesland for biologisk materiale som nevnt i [patentloven § 8b](lov/1967-12-15-9/§8b)opplysning om innhentet samtykke for bruk av humant biologisk materiale som nevnt i [patentloven § 8c](lov/1967-12-15-9/§8c)opplysning om det internasjonale søknadsnummeret og leveringsdag, og eventuell påberopt prioritetsdato ved videreføring av internasjonal søknad etter [patentloven § 31](lov/1967-12-15-9/§31)en fortegnelse over medfølgende dokumenter.
+Søknaden skal inneholde:
+
+1. oppfinnerens navn og adresse, søkerens navn eller foretaksnavn og adresse, og eventuelt også fullmektigens navn eller foretaksnavn og adresse
+2. – – –
+3. en kort og saklig tittel på oppfinnelsen
+4. en beskrivelse av oppfinnelsen, med tegninger dersom det er nødvendig for å forstå oppfinnelsen
+5. en bestemt angivelse av hva som søkes beskyttet ved patentet (patentkrav)
+6. et sammendrag som nevnt i [§ 11](forskrift/2007-12-14-1417/§11)
+7. opplysning om søknaden omfatter deponert biologisk materiale som nevnt i [patentloven § 8a](lov/1967-12-15-9/§8a)
+8. opplysning om leverandørland og opprinnelsesland for biologisk materiale som nevnt i [patentloven § 8b](lov/1967-12-15-9/§8b)
+9. opplysning om innhentet samtykke for bruk av humant biologisk materiale som nevnt i [patentloven § 8c](lov/1967-12-15-9/§8c)
+10. opplysning om det internasjonale søknadsnummeret og leveringsdag, og eventuell påberopt prioritetsdato ved videreføring av internasjonal søknad etter [patentloven § 31](lov/1967-12-15-9/§31)
+11. en fortegnelse over medfølgende dokumenter.
 
 Søknaden skal være signert av søkeren eller dennes fullmektig. Signaturen kan være håndskrevet, trykt, påstemplet eller elektronisk i samsvar med den standard Patentstyret til enhver tid har fastsatt. Dersom patent søkes av en annen enn oppfinneren, skal søknaden inneholde en erklæring fra søkeren om at vedkommende har rett til oppfinnelsen. Erklæringen skal angi grunnlaget for søkerens rett til oppfinnelsen.
 
@@ -48,7 +60,11 @@ Dersom ikke annet er angitt i søknaden, er adressen som oppgis etter [§ 2](for
 
 Søknaden får leveringsdag selv om vilkårene i [§ 2](forskrift/2007-12-14-1417/§2) ikke er oppfylt dersom den inneholder en beskrivelse av oppfinnelsen og opplysninger som gjør det mulig å identifisere og kontakte søkeren eller dennes fullmektig. Dersom søknaden leveres elektronisk, må den være levert i et format som Patentstyret godtar.
 
-Dersom Patentstyret ved fastsettelsen av leveringsdagen finner at deler av beskrivelsen, tegningene eller patentkravene mangler, skal Patentstyret straks varsle søkeren om dette og be om at forholdet rettes innen to måneder fra varslet ble sendt. Søknaden beholder leveringsdagen dersom søkeren innen nevnte frist eller, dersom varsel ikke er sendt, innen to måneder fra en søknad som oppfyller vilkårene i første ledd ble levert:leverer det som mangler, ogviser til at delene er inkludert i søknaden ved henvisning til en tidligere søknad, ellererklærer at ikke noen del mangler og Patentstyret finner å kunne legge dette til grunn.
+Dersom Patentstyret ved fastsettelsen av leveringsdagen finner at deler av beskrivelsen, tegningene eller patentkravene mangler, skal Patentstyret straks varsle søkeren om dette og be om at forholdet rettes innen to måneder fra varslet ble sendt. Søknaden beholder leveringsdagen dersom søkeren innen nevnte frist eller, dersom varsel ikke er sendt, innen to måneder fra en søknad som oppfyller vilkårene i første ledd ble levert:
+
+1. leverer det som mangler, og
+2. viser til at delene er inkludert i søknaden ved henvisning til en tidligere søknad, eller
+3. erklærer at ikke noen del mangler og Patentstyret finner å kunne legge dette til grunn.
 
 > Endret ved [forskrift 21 juni 2019 nr. 800](forskrift/2019-06-21-800) (i kraft 1 juli 2019).
 
@@ -70,7 +86,11 @@ For dokumenter som nevnt i første ledd annet punktum, kan Patentstyret i det en
 
 ### § 6. Patentkrav
 
-Et patentkrav skal inneholde:en benevnelse på oppfinnelsenen angivelse av den teknikken som oppfinnelsen utgjør noe nytt i forhold til (teknikkens stilling), dersom dette er nødvendigen angivelse av det nye og særegne ved oppfinnelsen.
+Et patentkrav skal inneholde:
+
+1. en benevnelse på oppfinnelsen
+2. en angivelse av den teknikken som oppfinnelsen utgjør noe nytt i forhold til (teknikkens stilling), dersom dette er nødvendig
+3. en angivelse av det nye og særegne ved oppfinnelsen.
 
 Oppfinnelsen skal så vidt mulig plasseres i en av kategoriene produkter, anordninger, fremgangsmåter og anvendelser.
 
@@ -132,7 +152,12 @@ Krav om prioritet kan trekkes tilbake ved skriftlig melding til Patentstyret inn
 
 ### § 14. Vilkår for søknadsprioritet
 
-For at en søknad skal kunne gi grunnlag for prioritet etter [patentloven § 6](lov/1967-12-15-9/§6), må den være den første som beskriver oppfinnelsen. En senere søknad som beskriver oppfinnelsen gir grunnlag for prioritet dersom følgende vilkår er oppfylt:den er levert til samme patentmyndighet som den første søknaden og av den samme søkeren eller dennes rettsetterfølgerden første søknaden er trukket tilbake, henlagt eller avslått uten at den var tilgjengelig for enhver da den senere søknaden ble levertden første søknaden ikke har tjent som grunnlag for noe krav om prioritetden første søknaden ikke danner grunnlag for noen bestående rettighet.
+For at en søknad skal kunne gi grunnlag for prioritet etter [patentloven § 6](lov/1967-12-15-9/§6), må den være den første som beskriver oppfinnelsen. En senere søknad som beskriver oppfinnelsen gir grunnlag for prioritet dersom følgende vilkår er oppfylt:
+
+1. den er levert til samme patentmyndighet som den første søknaden og av den samme søkeren eller dennes rettsetterfølger
+2. den første søknaden er trukket tilbake, henlagt eller avslått uten at den var tilgjengelig for enhver da den senere søknaden ble levert
+3. den første søknaden ikke har tjent som grunnlag for noe krav om prioritet
+4. den første søknaden ikke danner grunnlag for noen bestående rettighet.
 
 ### § 15. Prioritet ved søknad som omfatter flere oppfinnelser
 
@@ -258,7 +283,10 @@ Kravet om nyhetsgransking regnes som trukket tilbake dersom søknaden og overset
 
 ### § 30. Uttalelse fra annen granskingsmyndighet
 
-Søkes patent på en oppfinnelse som den samme søkeren har søkt om patent på utenfor riket, skal søkeren etter anmodning fra Patentstyret opplyse om hva vedkommende patentmyndighet har uttalt vedrørende nyhetsgranskingen og patenterbarheten. Innen en frist som Patentstyret fastsetter, skal søkeren sende inn:kopi av det som vedkommende patentmyndighet har uttalt om nyhetsgranskingen og patenterbarheten for øvrig, ellererklæring om at søkeren ennå ikke har mottatt slik uttalelse.
+Søkes patent på en oppfinnelse som den samme søkeren har søkt om patent på utenfor riket, skal søkeren etter anmodning fra Patentstyret opplyse om hva vedkommende patentmyndighet har uttalt vedrørende nyhetsgranskingen og patenterbarheten. Innen en frist som Patentstyret fastsetter, skal søkeren sende inn:
+
+1. kopi av det som vedkommende patentmyndighet har uttalt om nyhetsgranskingen og patenterbarheten for øvrig, eller
+2. erklæring om at søkeren ennå ikke har mottatt slik uttalelse.
 
 Oversitter søkeren den fristen som Patentstyret har fastsatt, henlegges søknaden etter [patentloven § 15](lov/1967-12-15-9/§15). Dersom søkeren uttrykkelig nekter å sende inn kopi av uttalelse eller erklæring, avslås søknaden etter [patentloven § 16](lov/1967-12-15-9/§16).
 
@@ -292,7 +320,20 @@ Når søknaden er på engelsk, skal Patentstyret, før det sendes underretning e
 
 ### § 34. Patentskrift
 
-Patentstyret skal utferdige et patentskrift, jf. [patentloven § 21](lov/1967-12-15-9/§21) tredje ledd, etter at meddelelsesgebyr er betalt eller fritak for slikt gebyr er gitt. Patentskriftet skal inneholde opplysninger om:datoen for meddelelsen av patentetsøknads- og patentnummerpatentets klassifisering etter det internasjonale patentklassifikasjonssystemnavn eller foretaksnavn og adresse til patenthaveren, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 2a](forskrift/2007-12-14-1417/§2a)oppfinnerens navn og adresseoppfinnelsens tittelleveringsdagen for nasjonal søknadsøknaden er en internasjonal søknad, og i tilfelle det internasjonale søknadsnummer, den internasjonale leveringsdag og dagen for videreføring etter [patentloven § 31](lov/1967-12-15-9/§31) eller den dag søknaden anses levert etter [patentloven § 38](lov/1967-12-15-9/§38)prioritet er krevd, og i tilfelle leveringssted og -dag samt nummer for den søknaden det kreves prioritet frasøknaden er fremkommet ved deling eller utskilling, og i tilfelle den opprinnelige søknadens nummerden institusjon der prøve av biologisk materiale er deponert, og det saksnummer institusjonen har gitt prøvenanførte publikasjoner.
+Patentstyret skal utferdige et patentskrift, jf. [patentloven § 21](lov/1967-12-15-9/§21) tredje ledd, etter at meddelelsesgebyr er betalt eller fritak for slikt gebyr er gitt. Patentskriftet skal inneholde opplysninger om:
+
+1. datoen for meddelelsen av patentet
+2. søknads- og patentnummer
+3. patentets klassifisering etter det internasjonale patentklassifikasjonssystem
+4. navn eller foretaksnavn og adresse til patenthaveren, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse etter [§ 2a](forskrift/2007-12-14-1417/§2a)
+5. oppfinnerens navn og adresse
+6. oppfinnelsens tittel
+7. leveringsdagen for nasjonal søknad
+8. søknaden er en internasjonal søknad, og i tilfelle det internasjonale søknadsnummer, den internasjonale leveringsdag og dagen for videreføring etter [patentloven § 31](lov/1967-12-15-9/§31) eller den dag søknaden anses levert etter [patentloven § 38](lov/1967-12-15-9/§38)
+9. prioritet er krevd, og i tilfelle leveringssted og -dag samt nummer for den søknaden det kreves prioritet fra
+10. søknaden er fremkommet ved deling eller utskilling, og i tilfelle den opprinnelige søknadens nummer
+11. den institusjon der prøve av biologisk materiale er deponert, og det saksnummer institusjonen har gitt prøven
+12. anførte publikasjoner.
 
 > Endret ved forskrifter [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010), [21 juni 2019 nr. 800](forskrift/2019-06-21-800) (i kraft 1 juli 2019).
 
@@ -308,7 +349,11 @@ Protest mot meddelelse av patent gir ikke partsrettigheter. Dersom protesten ikk
 
 ### § 36. Innsigelsens form og innhold
 
-Innsigelse etter [patentloven § 24](lov/1967-12-15-9/§24) leveres til Patentstyret og skal inneholde:opplysning om innsigerens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom innsigeren er representert ved fullmektigopplysning om nummeret på det patentet som det reises innsigelse moten angivelse av omfanget av innsigelsen og de grunnene som den støttes på, med en angivelse av de kjensgjerningene og bevisene, eksempelvis publikasjoner, som anføres til støtte for innsigelsen.
+Innsigelse etter [patentloven § 24](lov/1967-12-15-9/§24) leveres til Patentstyret og skal inneholde:
+
+1. opplysning om innsigerens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom innsigeren er representert ved fullmektig
+2. opplysning om nummeret på det patentet som det reises innsigelse mot
+3. en angivelse av omfanget av innsigelsen og de grunnene som den støttes på, med en angivelse av de kjensgjerningene og bevisene, eksempelvis publikasjoner, som anføres til støtte for innsigelsen.
 
 Innsigelsen skal være signert av innsigeren eller dennes fullmektig. [§ 2a](forskrift/2007-12-14-1417/§2a) gjelder tilsvarende for adresse ved korrespondanse med innsiger.
 
@@ -336,7 +381,11 @@ Dersom Patentstyret under behandlingen av en innsigelse mottar en protest som er
 
 ### § 40. Krav om administrativ patentbegrensning
 
-Krav om administrativ patentbegrensning etter [patentloven § 39a](lov/1967-12-15-9/§39a) leveres til Patentstyret og skal inneholde:opplysning om patenthaverens navn eller foretaksnavn og adresse, samt også fullmektigens navn eller foretaksnavn og adresse dersom patenthaveren er representert ved fullmektigopplysning om nummeret på det patentet som søkes begrensetangivelse av den begrensningen som kreves.
+Krav om administrativ patentbegrensning etter [patentloven § 39a](lov/1967-12-15-9/§39a) leveres til Patentstyret og skal inneholde:
+
+1. opplysning om patenthaverens navn eller foretaksnavn og adresse, samt også fullmektigens navn eller foretaksnavn og adresse dersom patenthaveren er representert ved fullmektig
+2. opplysning om nummeret på det patentet som søkes begrenset
+3. angivelse av den begrensningen som kreves.
 
 Et krav om administrativ patentbegrensning skal være signert av patenthaveren eller dennes fullmektig. [§ 2a](forskrift/2007-12-14-1417/§2a) gjelder tilsvarende.
 
@@ -348,7 +397,13 @@ Patentstyret skal avvise krav om administrativ patentbegrensning som er fremsatt
 
 ### § 41. Administrativ overprøving
 
-Krav om administrativ overprøving etter [patentloven § 52b](lov/1967-12-15-9/§52b) leveres til Patentstyret og skal inneholde:opplysning om navn eller foretaksnavn og adresse til den som har levert kravet, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektigopplysning om nummeret til patentet som angripesen redegjørelse for grunnlaget for at patentet angripesopplysning om hvilke patentkrav overprøvingen gjelder, alternativt hvilke patentkrav som er uberørt av kravet om overprøvingnødvendig dokumentasjon av forhold som påberopes til støtte for kravet.
+Krav om administrativ overprøving etter [patentloven § 52b](lov/1967-12-15-9/§52b) leveres til Patentstyret og skal inneholde:
+
+1. opplysning om navn eller foretaksnavn og adresse til den som har levert kravet, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig
+2. opplysning om nummeret til patentet som angripes
+3. en redegjørelse for grunnlaget for at patentet angripes
+4. opplysning om hvilke patentkrav overprøvingen gjelder, alternativt hvilke patentkrav som er uberørt av kravet om overprøving
+5. nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.
 
 Et krav om administrativ overprøving skal være signert av den som krever overprøving eller dennes fullmektig. [§ 2a](forskrift/2007-12-14-1417/§2a) gjelder tilsvarende for adresse for korrespondanse med den som krever overprøving.
 
@@ -370,7 +425,47 @@ Når patentet er meddelt på engelsk, gjelder [patentloven § 21](lov/1967-12-15
 
 Patentstyret fører et register over innkomne nasjonale og videreførte internasjonale søknader og over meddelte patenter på grunnlag av slike søknader. For registrering av europeiske patenter som gjelder her i riket i patentregisteret gjelder [§ 45](forskrift/2007-12-14-1417/§45). Opplysningene i registeret om den enkelte søknad er tilgjengelige for enhver når dokumentene i saken er tilgjengelige etter [patentloven § 22](lov/1967-12-15-9/§22).
 
-Registret skal inneholde følgende opplysninger om søknaden og det meddelte patentet:søknadens og patentets nummerklassifisering etter det internasjonale patentklassifikasjonssystemeventuell klassifisering etter andre patentklassifikasjonssystemer– – –søkerens navn eller foretaksnavn og adresseeventuell fullmektigs navn eller foretaksnavn og adresseoppfinnerens navn og adresseoppfinnelsens tittelom søknaden er en nasjonal eller internasjonal søknadfor nasjonal søknad; leveringsdagfor videreført internasjonal søknad; internasjonalt søknadsnummer, internasjonal leveringsdag og den dag søknaden ble videreført etter [patentloven § 31](lov/1967-12-15-9/§31) eller anses levert etter [patentloven § 38](lov/1967-12-15-9/§38)for europeisk søknad som er omgjort til nasjonal søknad; søknadens nummer og leveringsdag etter den europeiske patentkonvensjonen, samt den dag søknaden er omgjort til nasjonal søknadom prioritet er krevd, og i tilfelle hvor den påberopte tidligere søknad er levert, samt leveringsdag og søknadsnummer for denne søknadom søknaden er en avdelt eller utskilt søknad, og i tilfelle den opprinnelige søknadens nummerom det ved deling av eller utskilling fra en søknad er fremkommet nye søknader, med opplysning om de nye søknadsnumreneden dag dokumentene i saken ble tilgjengelige for enhver etter [patentloven § 22](lov/1967-12-15-9/§22), og, dersom det er sendt inn oversettelse som nevnt i [patentloven § 60](lov/1967-12-15-9/§60) annet ledd første punktum, at slik oversettelse er sendt inn, og dagen dette ble kunngjortmottatte og sendte dokumenter i sakenden dag meddelelsen av patentet ble kunngjortandre beslutninger som er truffet i saken og sakens statusinnbetalte, utestående og eventuelt tilbakebetalte avgifter og gebyrerinnbetalt årsavgift eller henstand med betaling av årsavgifttidspunktet patentet er bortfalt fra etter [patentloven § 51](lov/1967-12-15-9/§51)om patenthaveren har gitt avkall på patentet etter [patentloven § 54](lov/1967-12-15-9/§54)om krav om at en fristoversittelse ikke skal få virkning og avgjørelse av slikt krav, jf. [patentloven § 72](lov/1967-12-15-9/§72)at det er reist søksmål om ugyldigkjennelse, overføring av et patent eller om tvangslisensat patentet er kjent ugyldig ved dom etter [patentloven § 52](lov/1967-12-15-9/§52), og utfallet av saken når dommen er rettskraftigat det er tatt utlegg eller arrest i patentetat det er inngitt innsigelse mot patentet og avgjørelse i innsigelsessakenat det er inngitt krav om administrativ begrensning eller opphør av patentet og avgjørelse i slik sakat det er inngitt krav om administrativ overprøving av patentet og avgjørelse i slik sakat en avgjørelse er påklaget til Klagenemnden for industrielle rettigheter etter [patentloven § 26](lov/1967-12-15-9/§26), [§ 39d](lov/1967-12-15-9/§39d) eller [§ 52e](lov/1967-12-15-9/§52e)om overdragelse eller lisensom deponering av biologisk materiale som nevnt i [§ 12](forskrift/2007-12-14-1417/§12)om søkerens, innehaverens, fullmektigens eller lisenstakerens navn, foretaksnavn eller adresse er endretom ny fullmektig ved endring i fullmektigforholdeventuell særskilt korrespondanseadresse for søker eller innehaver, jf. [§ 2a](forskrift/2007-12-14-1417/§2a) og [§ 103](forskrift/2007-12-14-1417/§103)om det er sendt inn rettelse av oversettelse etter [patentloven § 21](lov/1967-12-15-9/§21) tredje ledd sjette punktum eller [§ 60](lov/1967-12-15-9/§60) annet ledd femte punktum, og, dersom rettelse er sendt inn, dagen dette ble kunngjortom pantat det er gitt opplysninger etter [patentloven § 8 b](lov/1967-12-15-9/§8b), og i tilfelle om opplysningene gjelder biologisk materiale eller tradisjonell kunnskap, samt hvilke opplysninger som er gitt om leverandørland, opprinnelsesland og samtykkekrav i nasjonal lovgivning.
+Registret skal inneholde følgende opplysninger om søknaden og det meddelte patentet:
+
+1. søknadens og patentets nummer
+2. klassifisering etter det internasjonale patentklassifikasjonssystem
+3. eventuell klassifisering etter andre patentklassifikasjonssystemer
+4. – – –
+5. søkerens navn eller foretaksnavn og adresse
+6. eventuell fullmektigs navn eller foretaksnavn og adresse
+7. oppfinnerens navn og adresse
+8. oppfinnelsens tittel
+9. om søknaden er en nasjonal eller internasjonal søknad
+10. for nasjonal søknad; leveringsdag
+11. for videreført internasjonal søknad; internasjonalt søknadsnummer, internasjonal leveringsdag og den dag søknaden ble videreført etter [patentloven § 31](lov/1967-12-15-9/§31) eller anses levert etter [patentloven § 38](lov/1967-12-15-9/§38)
+12. for europeisk søknad som er omgjort til nasjonal søknad; søknadens nummer og leveringsdag etter den europeiske patentkonvensjonen, samt den dag søknaden er omgjort til nasjonal søknad
+13. om prioritet er krevd, og i tilfelle hvor den påberopte tidligere søknad er levert, samt leveringsdag og søknadsnummer for denne søknad
+14. om søknaden er en avdelt eller utskilt søknad, og i tilfelle den opprinnelige søknadens nummer
+15. om det ved deling av eller utskilling fra en søknad er fremkommet nye søknader, med opplysning om de nye søknadsnumrene
+16. den dag dokumentene i saken ble tilgjengelige for enhver etter [patentloven § 22](lov/1967-12-15-9/§22), og, dersom det er sendt inn oversettelse som nevnt i [patentloven § 60](lov/1967-12-15-9/§60) annet ledd første punktum, at slik oversettelse er sendt inn, og dagen dette ble kunngjort
+17. mottatte og sendte dokumenter i saken
+18. den dag meddelelsen av patentet ble kunngjort
+19. andre beslutninger som er truffet i saken og sakens status
+20. innbetalte, utestående og eventuelt tilbakebetalte avgifter og gebyrer
+21. innbetalt årsavgift eller henstand med betaling av årsavgift
+22. tidspunktet patentet er bortfalt fra etter [patentloven § 51](lov/1967-12-15-9/§51)
+23. om patenthaveren har gitt avkall på patentet etter [patentloven § 54](lov/1967-12-15-9/§54)
+24. om krav om at en fristoversittelse ikke skal få virkning og avgjørelse av slikt krav, jf. [patentloven § 72](lov/1967-12-15-9/§72)
+25. at det er reist søksmål om ugyldigkjennelse, overføring av et patent eller om tvangslisens
+26. at patentet er kjent ugyldig ved dom etter [patentloven § 52](lov/1967-12-15-9/§52), og utfallet av saken når dommen er rettskraftig
+27. at det er tatt utlegg eller arrest i patentet
+28. at det er inngitt innsigelse mot patentet og avgjørelse i innsigelsessaken
+29. at det er inngitt krav om administrativ begrensning eller opphør av patentet og avgjørelse i slik sak
+30. at det er inngitt krav om administrativ overprøving av patentet og avgjørelse i slik sak
+31. at en avgjørelse er påklaget til Klagenemnden for industrielle rettigheter etter [patentloven § 26](lov/1967-12-15-9/§26), [§ 39d](lov/1967-12-15-9/§39d) eller [§ 52e](lov/1967-12-15-9/§52e)
+32. om overdragelse eller lisens
+33. om deponering av biologisk materiale som nevnt i [§ 12](forskrift/2007-12-14-1417/§12)
+34. om søkerens, innehaverens, fullmektigens eller lisenstakerens navn, foretaksnavn eller adresse er endret
+35. om ny fullmektig ved endring i fullmektigforhold
+36. eventuell særskilt korrespondanseadresse for søker eller innehaver, jf. [§ 2a](forskrift/2007-12-14-1417/§2a) og [§ 103](forskrift/2007-12-14-1417/§103)
+37. om det er sendt inn rettelse av oversettelse etter [patentloven § 21](lov/1967-12-15-9/§21) tredje ledd sjette punktum eller [§ 60](lov/1967-12-15-9/§60) annet ledd femte punktum, og, dersom rettelse er sendt inn, dagen dette ble kunngjort
+38. om pant
+39. at det er gitt opplysninger etter [patentloven § 8 b](lov/1967-12-15-9/§8b), og i tilfelle om opplysningene gjelder biologisk materiale eller tradisjonell kunnskap, samt hvilke opplysninger som er gitt om leverandørland, opprinnelsesland og samtykkekrav i nasjonal lovgivning.
 
 Melding om endringer etter annet ledd nr. 32, 34 og 35 skal leveres på særskilt skjema fastsatt av Patentstyret.
 
@@ -378,17 +473,48 @@ Melding om endringer etter annet ledd nr. 32, 34 og 35 skal leveres på særskil
 
 ### § 44. Registrering av supplerende beskyttelsessertifikater
 
-Patentstyret registrerer supplerende beskyttelsessertifikater og søknader om slike sertifikater i patentregisteret. Opplysningene i registeret skal være tilgjengelig for enhver. Følgende opplysninger føres inn i registeret:søkerens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig, og eventuell særskilt korrespondanseadresse, jf. [§ 64a](forskrift/2007-12-14-1417/§64a) og [§ 2a](forskrift/2007-12-14-1417/§2a)nummer og leveringsdag for søknaden om supplerende beskyttelsessertifikat, og eventuelt for søknaden om forlengelse.basispatentets nummeroppfinnelsens titteldet aktive stoffet eller blandingen av aktive stoffer som det søkes om supplerende beskyttelsessertifikat fornummer på og dato for markedsføringstillatelsen, og preparatet som identifiseres i tillatelsennummer på og dato for den første tillatelse til markedsføring innenfor EØS-områdetmottatte og sendte dokumenter i sakeninnbetalte, utestående og eventuelt tilbakebetalte avgifter og gebyrerde beslutninger som er truffet i saken og sakens statusdato for utstedelse og kunngjøring av sertifikatet samt sertifikatets nummersertifikatets gyldighetstid, herunder om gyldighetstiden er forlengetat sertifikatet er bortfalt og grunnen til detom pantom melding etter [patentloven § 62a](lov/1967-12-15-9/§62a) sjette ledd.
+Patentstyret registrerer supplerende beskyttelsessertifikater og søknader om slike sertifikater i patentregisteret. Opplysningene i registeret skal være tilgjengelig for enhver. Følgende opplysninger føres inn i registeret:
+
+1. søkerens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig, og eventuell særskilt korrespondanseadresse, jf. [§ 64a](forskrift/2007-12-14-1417/§64a) og [§ 2a](forskrift/2007-12-14-1417/§2a)
+2. nummer og leveringsdag for søknaden om supplerende beskyttelsessertifikat, og eventuelt for søknaden om forlengelse.
+3. basispatentets nummer
+4. oppfinnelsens tittel
+5. det aktive stoffet eller blandingen av aktive stoffer som det søkes om supplerende beskyttelsessertifikat for
+6. nummer på og dato for markedsføringstillatelsen, og preparatet som identifiseres i tillatelsen
+7. nummer på og dato for den første tillatelse til markedsføring innenfor EØS-området
+8. mottatte og sendte dokumenter i saken
+9. innbetalte, utestående og eventuelt tilbakebetalte avgifter og gebyrer
+10. de beslutninger som er truffet i saken og sakens status
+11. dato for utstedelse og kunngjøring av sertifikatet samt sertifikatets nummer
+12. sertifikatets gyldighetstid, herunder om gyldighetstiden er forlenget
+13. at sertifikatet er bortfalt og grunnen til det
+14. om pant
+15. om melding etter [patentloven § 62a](lov/1967-12-15-9/§62a) sjette ledd.
 
 > Endret ved forskrifter [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010), [12 mai 2015 nr. 495](forskrift/2015-05-12-495) (i kraft 1 juli 2015), [16 juni 2017 nr. 786](forskrift/2017-06-16-786) (i kraft 1 sep 2017), [21 juni 2019 nr. 800](forskrift/2019-06-21-800) (i kraft 1 juli 2019), [20 des 2022 nr. 2303](forskrift/2022-12-20-2303) (i kraft 1 feb 2023).
 
 ### § 45. Registrering av europeiske søknader og patenter
 
-For europeiske søknader hvor søkeren har levert oversettelse av patentkravene til norsk etter [patentloven § 66g](lov/1967-12-15-9/§66g) første ledd, fører Patentstyret et særskilt register. Opplysningene i registeret er tilgjengelig for enhver. Følgende opplysninger skal føres i registeret:søknadens nummer hos Det europeiske patentverketsøkerens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig, og eventuelt særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a) jf. [§ 64a](forskrift/2007-12-14-1417/§64a)den dag oversettelse av patentkravene ble levert og den dag dette ble kunngjortden dag en eventuell rettelse av oversettelsen ble levert og den dag dette ble kunngjortsøknadens leveringsdag og, dersom søknaden er en avdelt europeisk søknad, datoen for levering av den avdelte søknadenom sakens dokumenter er tilgjengelige for enhveropplysninger svarende til de som er nevnt i [§ 43](forskrift/2007-12-14-1417/§43) annet ledd nr. 7, 8 og 15om pant.
+For europeiske søknader hvor søkeren har levert oversettelse av patentkravene til norsk etter [patentloven § 66g](lov/1967-12-15-9/§66g) første ledd, fører Patentstyret et særskilt register. Opplysningene i registeret er tilgjengelig for enhver. Følgende opplysninger skal føres i registeret:
+
+1. søknadens nummer hos Det europeiske patentverket
+2. søkerens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig, og eventuelt særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a) jf. [§ 64a](forskrift/2007-12-14-1417/§64a)
+3. den dag oversettelse av patentkravene ble levert og den dag dette ble kunngjort
+4. den dag en eventuell rettelse av oversettelsen ble levert og den dag dette ble kunngjort
+5. søknadens leveringsdag og, dersom søknaden er en avdelt europeisk søknad, datoen for levering av den avdelte søknaden
+6. om sakens dokumenter er tilgjengelige for enhver
+7. opplysninger svarende til de som er nevnt i [§ 43](forskrift/2007-12-14-1417/§43) annet ledd nr. 7, 8 og 15
+8. om pant.
 
 Sendes det inn oversettelse og betales det gebyr i samsvar med [patentloven § 66c](lov/1967-12-15-9/§66c) første ledd første punktum, føres opplysning om dette inn i registeret over europeiske søknader med angivelse av når oversettelsen er sendt inn og gebyr er betalt, samt når Patentstyret har kunngjort dette. Det samme gjelder for rettelse av slik oversettelse som sendes inn før patentet er registrert etter tredje ledd.
 
-Et europeisk patent føres inn i patentregisteret når Det europeiske patentverket har kunngjort sin beslutning om å meddele patent og patenthaver har sendt inn oversettelse og betalt gebyr i samsvar med [patentloven § 66c](lov/1967-12-15-9/§66c) første ledd første punktum. Følgende opplysninger skal føres inn i registeret:den dag Det europeiske patentverket har kunngjort sin beslutning om å meddele patentden dag oversettelse er sendt inn og gebyr er betalt, samt den dag Patentstyret har kunngjort at dette har funnet stedsøknadens leveringsdag og, dersom søknaden er en avdelt europeisk søknad, datoen for levering av den avdelte søknadenden dag dokumentene i saken ble tilgjengelig for enhveropplysninger som nevnt i [§ 34](forskrift/2007-12-14-1417/§34) nr. 1 til 6 og 8 til 11 og [§ 43](forskrift/2007-12-14-1417/§43) annet ledd nr. 20 til 27, 29 til 32 og 34 til 38.
+Et europeisk patent føres inn i patentregisteret når Det europeiske patentverket har kunngjort sin beslutning om å meddele patent og patenthaver har sendt inn oversettelse og betalt gebyr i samsvar med [patentloven § 66c](lov/1967-12-15-9/§66c) første ledd første punktum. Følgende opplysninger skal føres inn i registeret:
+
+1. den dag Det europeiske patentverket har kunngjort sin beslutning om å meddele patent
+2. den dag oversettelse er sendt inn og gebyr er betalt, samt den dag Patentstyret har kunngjort at dette har funnet sted
+3. søknadens leveringsdag og, dersom søknaden er en avdelt europeisk søknad, datoen for levering av den avdelte søknaden
+4. den dag dokumentene i saken ble tilgjengelig for enhver
+5. opplysninger som nevnt i [§ 34](forskrift/2007-12-14-1417/§34) nr. 1 til 6 og 8 til 11 og [§ 43](forskrift/2007-12-14-1417/§43) annet ledd nr. 20 til 27, 29 til 32 og 34 til 38.
 
 Når Det europeiske patentverket har kunngjort sin beslutning om å oppheve eller endre et europeisk patent som gjelder i Norge, skal opplysning om dette føres inn i patentregisteret med angivelse av datoen for kunngjøringen. Dersom patenthaveren sender inn oversettelse og betaler gebyr i samsvar med [patentloven § 66c](lov/1967-12-15-9/§66c) første ledd annet punktum jf. første punktum, skal opplysning om dette føres inn i registeret med angivelse av når oversettelse er sendt inn og gebyr er betalt, samt når Patentstyret har kunngjort dette. Sendes ikke oversettelse inn eller betales ikke gebyr som nevnt i [patentloven § 66c](lov/1967-12-15-9/§66c) første ledd annet punktum jf. første punktum innenfor fristen etter [patentloven § 66c](lov/1967-12-15-9/§66c) første ledd annet punktum jf. første punktum, skal opplysning om dette føres inn i registeret.
 
@@ -402,7 +528,20 @@ Leveres det en rettelse av oversettelse som nevnt i tredje eller fjerde ledd og 
 
 ### § 46. Kunngjøring av opplysninger som er tilgjengelige for enhver
 
-Kunngjøring etter [patentloven § 22](lov/1967-12-15-9/§22) fjerde ledd skal inneholde:søknadens nummersøkerens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig, og eventuell særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)oppfinnerens navn og adressesøknadens klassifisering etter det internasjonale klassifikasjonssystemopplysning om leveringsdagopplysning om internasjonal leveringsdagoppfinnelsens titteldersom prioritet er krevd; opplysning om tidspunkt og sted for leveringen av den prioritetsbegrunnende søknad samt dens nummeropplysning om dette dersom det er deponert prøve av biologisk materialeopplysning om at søkeren har krevd at prøve av deponert biologisk materiale kun skal utleveres til en særlig sakkyndigopplysning om at det er levert oversettelse som nevnt i [patentloven § 60](lov/1967-12-15-9/§60) annet ledd første punktum, dersom dette er gjortdersom det er gitt opplysninger etter [patentloven § 8 b](lov/1967-12-15-9/§8b); om opplysningene gjelder biologisk materiale eller tradisjonell kunnskap, samt hvilke opplysninger som er gitt om leverandørland, opprinnelsesland og samtykkekrav i nasjonal lovgivning.
+Kunngjøring etter [patentloven § 22](lov/1967-12-15-9/§22) fjerde ledd skal inneholde:
+
+1. søknadens nummer
+2. søkerens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig, og eventuell særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)
+3. oppfinnerens navn og adresse
+4. søknadens klassifisering etter det internasjonale klassifikasjonssystem
+5. opplysning om leveringsdag
+6. opplysning om internasjonal leveringsdag
+7. oppfinnelsens tittel
+8. dersom prioritet er krevd; opplysning om tidspunkt og sted for leveringen av den prioritetsbegrunnende søknad samt dens nummer
+9. opplysning om dette dersom det er deponert prøve av biologisk materiale
+10. opplysning om at søkeren har krevd at prøve av deponert biologisk materiale kun skal utleveres til en særlig sakkyndig
+11. opplysning om at det er levert oversettelse som nevnt i [patentloven § 60](lov/1967-12-15-9/§60) annet ledd første punktum, dersom dette er gjort
+12. dersom det er gitt opplysninger etter [patentloven § 8 b](lov/1967-12-15-9/§8b); om opplysningene gjelder biologisk materiale eller tradisjonell kunnskap, samt hvilke opplysninger som er gitt om leverandørland, opprinnelsesland og samtykkekrav i nasjonal lovgivning.
 
 Dersom oversettelsen av beskrivelsen eller patentkravene er endret før utløpet av fristen etter § 77 i forskriften her, men etter at dokumentene i saken er blitt tilgjengelige for enhver, skal dette kunngjøres. Slik kunngjøring skal i tillegg inneholde det som er nevnt i første ledd og opplysning om den dato endringen av oversettelsen kom inn til Patentstyret, samt i hvilke nummer av Norsk Patenttidende tidligere kunngjøringer av søknaden etter [patentloven § 22](lov/1967-12-15-9/§22) fjerde ledd fant sted.
 
@@ -422,31 +561,65 @@ Kunngjøring av at det er sendt inn rettelse av oversettelse etter [patentloven 
 
 ### § 48. Kunngjøring av innkomne innsigelser
 
-Kunngjøring etter [patentloven § 24](lov/1967-12-15-9/§24) sjette ledd skal inneholde:patentets nummer og klassifisering etter det internasjonale patentklassifikasjonssystempatenthavers navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)innsigerens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuelt særskilt korrespondanseadresse, jf. [§ 36](forskrift/2007-12-14-1417/§36) annet ledd annet punktum, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)innsigelsens datohvilket nummer av Norsk Patenttidende patentmeddelelsen ble kunngjort i.
+Kunngjøring etter [patentloven § 24](lov/1967-12-15-9/§24) sjette ledd skal inneholde:
+
+1. patentets nummer og klassifisering etter det internasjonale patentklassifikasjonssystem
+2. patenthavers navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)
+3. innsigerens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuelt særskilt korrespondanseadresse, jf. [§ 36](forskrift/2007-12-14-1417/§36) annet ledd annet punktum, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)
+4. innsigelsens dato
+5. hvilket nummer av Norsk Patenttidende patentmeddelelsen ble kunngjort i.
 
 > Endret ved forskrift [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010).
 
 ### § 49. Kunngjøring av endelig avgjørelse i innsigelsessak
 
-Kunngjøring av at en innsigelse er endelig avgjort av Patentstyret, jf. [patentloven § 25](lov/1967-12-15-9/§25) femte ledd, skal inneholde opplysning om:patentets nummer og klassifisering etter det internasjonale patentklassifikasjonssystempatenthavers navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)innsigerens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuelt særskilt korrespondanseadresse, jf. [§ 36](forskrift/2007-12-14-1417/§36) annet ledd annet punktum, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)hvilket nummer av Norsk Patenttidende patentmeddelelsen ble kunngjort iutfallet av innsigelsessakenden dag avgjørelsen ble endelig.
+Kunngjøring av at en innsigelse er endelig avgjort av Patentstyret, jf. [patentloven § 25](lov/1967-12-15-9/§25) femte ledd, skal inneholde opplysning om:
+
+1. patentets nummer og klassifisering etter det internasjonale patentklassifikasjonssystem
+2. patenthavers navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)
+3. innsigerens navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuelt særskilt korrespondanseadresse, jf. [§ 36](forskrift/2007-12-14-1417/§36) annet ledd annet punktum, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)
+4. hvilket nummer av Norsk Patenttidende patentmeddelelsen ble kunngjort i
+5. utfallet av innsigelsessaken
+6. den dag avgjørelsen ble endelig.
 
 > Endret ved forskrift [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010).
 
 ### § 50. Kunngjøring av administrativ patentbegrensning
 
-Kunngjøring etter [patentloven § 39e](lov/1967-12-15-9/§39e) skal inneholde opplysning om:patentets nummer og klassifisering etter det internasjonale patentklassifikasjonssystempatenthavers navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse, jf. [§ 40](forskrift/2007-12-14-1417/§40) annet ledd annet punktum, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)dato for avgjørelse av krav om administrativ patentbegrensninghvilket nummer av Norsk Patenttidende patentmeddelelsen ble kunngjort iutfallet av begrensningssakenden dag avgjørelsen ble kunngjort.
+Kunngjøring etter [patentloven § 39e](lov/1967-12-15-9/§39e) skal inneholde opplysning om:
+
+1. patentets nummer og klassifisering etter det internasjonale patentklassifikasjonssystem
+2. patenthavers navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse, jf. [§ 40](forskrift/2007-12-14-1417/§40) annet ledd annet punktum, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)
+3. dato for avgjørelse av krav om administrativ patentbegrensning
+4. hvilket nummer av Norsk Patenttidende patentmeddelelsen ble kunngjort i
+5. utfallet av begrensningssaken
+6. den dag avgjørelsen ble kunngjort.
 
 > Endret ved forskrift [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010).
 
 ### § 51. Kunngjøring av krav om administrativ overprøving
 
-Kunngjøring etter [patentloven § 52b](lov/1967-12-15-9/§52b) fjerde ledd skal inneholde:patentets nummer og klassifisering etter det internasjonale patentklassifikasjonssystempatenthavers navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)navn eller foretaksnavn og adresse på den som krever administrativ overprøving, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuelt særskilt korrespondanseadresse, jf. [§ 41](forskrift/2007-12-14-1417/§41) annet ledd annet punktum, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)dato for kravet om administrativ overprøvinghvilket nummer av Norsk Patenttidende patentmeddelelsen ble kunngjort i.
+Kunngjøring etter [patentloven § 52b](lov/1967-12-15-9/§52b) fjerde ledd skal inneholde:
+
+1. patentets nummer og klassifisering etter det internasjonale patentklassifikasjonssystem
+2. patenthavers navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)
+3. navn eller foretaksnavn og adresse på den som krever administrativ overprøving, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuelt særskilt korrespondanseadresse, jf. [§ 41](forskrift/2007-12-14-1417/§41) annet ledd annet punktum, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)
+4. dato for kravet om administrativ overprøving
+5. hvilket nummer av Norsk Patenttidende patentmeddelelsen ble kunngjort i.
 
 > Endret ved forskrift [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010).
 
 ### § 52. Kunngjøring av avgjørelse i sak om administrativ overprøving
 
-Kunngjøring av avgjørelse i sak om administrativ overprøving, jf. [patentloven § 52d](lov/1967-12-15-9/§52d) fjerde ledd, skal inneholde opplysning om:patentets nummer og klassifisering etter det internasjonale patentklassifikasjonssystempatenthavers navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)navn eller foretaksnavn og adresse på den som krever administrativ overprøving, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuelt særskilt korrespondanseadresse, jf. [§ 41](forskrift/2007-12-14-1417/§41) annet ledd annet punktum, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)dato for kravet om administrativ overprøvinghvilket nummer av Norsk Patenttidende patentmeddelelsen ble kunngjort iutfallet av den administrative overprøvingenden dag avgjørelsen ble kunngjort.
+Kunngjøring av avgjørelse i sak om administrativ overprøving, jf. [patentloven § 52d](lov/1967-12-15-9/§52d) fjerde ledd, skal inneholde opplysning om:
+
+1. patentets nummer og klassifisering etter det internasjonale patentklassifikasjonssystem
+2. patenthavers navn eller foretaksnavn og adresse, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuell særskilt korrespondanseadresse, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)
+3. navn eller foretaksnavn og adresse på den som krever administrativ overprøving, og eventuelt fullmektigens navn eller foretaksnavn og adresse, samt eventuelt særskilt korrespondanseadresse, jf. [§ 41](forskrift/2007-12-14-1417/§41) annet ledd annet punktum, jf. [§ 2a](forskrift/2007-12-14-1417/§2a)
+4. dato for kravet om administrativ overprøving
+5. hvilket nummer av Norsk Patenttidende patentmeddelelsen ble kunngjort i
+6. utfallet av den administrative overprøvingen
+7. den dag avgjørelsen ble kunngjort.
 
 > Endret ved forskrift [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010).
 
@@ -462,31 +635,72 @@ Når en avgjørelse om å endre et supplerende beskyttelsessertifikats gyldighet
 
 ### § 55. Kunngjøring av europeisk søknad og europeisk patent mv.
 
-Kunngjøring etter [patentloven § 66g](lov/1967-12-15-9/§66g) første ledd skal inneholde:opplysning om at oversettelse er levertsøknadens nummerklassifisering av søknadensøkerens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig, og eventuell særskilt korrespondanseadresse, jf. [§ 64a](forskrift/2007-12-14-1417/§64a) og [§ 2a](forskrift/2007-12-14-1417/§2a)oppfinnelsens tittelopplysning om søknadens leveringsdagom prioritet er krevd, og i tilfelle hvor den påberopte tidligere søknad er levert, samt leveringsdag og søknadsnummer for denne søknad.
+Kunngjøring etter [patentloven § 66g](lov/1967-12-15-9/§66g) første ledd skal inneholde:
 
-Kunngjøring etter [patentloven § 66c](lov/1967-12-15-9/§66c) tredje ledd første punktum skal inneholde:opplysning om at patentet gjelder her i riket og datoen for kunngjøring av beslutningen om å meddele patentdet som er nevnt i første ledd nr. 2 til 7.
+1. opplysning om at oversettelse er levert
+2. søknadens nummer
+3. klassifisering av søknaden
+4. søkerens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig, og eventuell særskilt korrespondanseadresse, jf. [§ 64a](forskrift/2007-12-14-1417/§64a) og [§ 2a](forskrift/2007-12-14-1417/§2a)
+5. oppfinnelsens tittel
+6. opplysning om søknadens leveringsdag
+7. om prioritet er krevd, og i tilfelle hvor den påberopte tidligere søknad er levert, samt leveringsdag og søknadsnummer for denne søknad.
 
-Kunngjøring etter [patentloven § 66c](lov/1967-12-15-9/§66c) tredje ledd annet punktum skal inneholde:opplysning om at patentet gjelder her i riket i endret form og datoen for kunngjøring av beslutningen om at patentet skal opprettholdes i endret formpatentets nummerklassifisering av patentetpatenthaverens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig, og eventuell særskilt korrespondanseadresse, jf. [§ 64a](forskrift/2007-12-14-1417/§64a) og [§ 2a](forskrift/2007-12-14-1417/§2a)det som er nevnt i første ledd nr. 5 til 7.
+Kunngjøring etter [patentloven § 66c](lov/1967-12-15-9/§66c) tredje ledd første punktum skal inneholde:
 
-Kunngjøring av rettet oversettelse av patentkravene i en søknad etter [patentloven § 66j](lov/1967-12-15-9/§66j) første ledd fjerde punktum skal inneholde:opplysning om at rettet oversettelse er levert og datoen for leveringenDet som er nevnt i første ledd nr. 2 til 7.
+1. opplysning om at patentet gjelder her i riket og datoen for kunngjøring av beslutningen om å meddele patent
+2. det som er nevnt i første ledd nr. 2 til 7.
 
-Kunngjøring av rettet oversettelse av et patent etter [patentloven § 66j](lov/1967-12-15-9/§66j) første ledd tredje punktum skal inneholde:opplysning om at rettet oversettelse er levert og datoen for leveringen og betaling av gebyrdet som er nevnt i første ledd nr. 5 og tredje ledd nr. 2 til 4.
+Kunngjøring etter [patentloven § 66c](lov/1967-12-15-9/§66c) tredje ledd annet punktum skal inneholde:
 
-Kunngjøring av opphevelse av et europeisk patent etter [patentloven § 66b](lov/1967-12-15-9/§66b) annet ledd tredje punktum jf. [§ 55](lov/1967-12-15-9/§55) skal inneholde:opplysning om at patentet er besluttet opphevet og datoen for beslutningendet som er nevnt i første ledd nr. 5 og tredje ledd nr. 2 til 4.
+1. opplysning om at patentet gjelder her i riket i endret form og datoen for kunngjøring av beslutningen om at patentet skal opprettholdes i endret form
+2. patentets nummer
+3. klassifisering av patentet
+4. patenthaverens navn eller foretaksnavn og adresse, samt fullmektigens navn eller foretaksnavn og adresse dersom vedkommende er representert ved fullmektig, og eventuell særskilt korrespondanseadresse, jf. [§ 64a](forskrift/2007-12-14-1417/§64a) og [§ 2a](forskrift/2007-12-14-1417/§2a)
+5. det som er nevnt i første ledd nr. 5 til 7.
 
-Dersom Det europeiske patentverket beslutter at en fristoversittelse ikke skal få virkning, jf. [patentloven § 66k](lov/1967-12-15-9/§66k) første ledd, og dette vil innebære at en søknad eller et patent igjen får virkning her i riket eller at omfanget av patentvernet her i riket utvides, skal Patentstyret kunngjøre dette. Kunngjøringen skal inneholde:opplysning om hvilken frist som er oversittet og at det er besluttet at fristoversittelsen ikke får virkningopplysninger som nevnt i første ledd nr. 2 til 7 dersom beslutningen gjelder en søknadopplysninger som nevnt i tredje ledd nr. 2 til 5 dersom beslutningen gjelder et patent.
+Kunngjøring av rettet oversettelse av patentkravene i en søknad etter [patentloven § 66j](lov/1967-12-15-9/§66j) første ledd fjerde punktum skal inneholde:
+
+1. opplysning om at rettet oversettelse er levert og datoen for leveringen
+2. Det som er nevnt i første ledd nr. 2 til 7.
+
+Kunngjøring av rettet oversettelse av et patent etter [patentloven § 66j](lov/1967-12-15-9/§66j) første ledd tredje punktum skal inneholde:
+
+1. opplysning om at rettet oversettelse er levert og datoen for leveringen og betaling av gebyr
+2. det som er nevnt i første ledd nr. 5 og tredje ledd nr. 2 til 4.
+
+Kunngjøring av opphevelse av et europeisk patent etter [patentloven § 66b](lov/1967-12-15-9/§66b) annet ledd tredje punktum jf. [§ 55](lov/1967-12-15-9/§55) skal inneholde:
+
+1. opplysning om at patentet er besluttet opphevet og datoen for beslutningen
+2. det som er nevnt i første ledd nr. 5 og tredje ledd nr. 2 til 4.
+
+Dersom Det europeiske patentverket beslutter at en fristoversittelse ikke skal få virkning, jf. [patentloven § 66k](lov/1967-12-15-9/§66k) første ledd, og dette vil innebære at en søknad eller et patent igjen får virkning her i riket eller at omfanget av patentvernet her i riket utvides, skal Patentstyret kunngjøre dette. Kunngjøringen skal inneholde:
+
+1. opplysning om hvilken frist som er oversittet og at det er besluttet at fristoversittelsen ikke får virkning
+2. opplysninger som nevnt i første ledd nr. 2 til 7 dersom beslutningen gjelder en søknad
+3. opplysninger som nevnt i tredje ledd nr. 2 til 5 dersom beslutningen gjelder et patent.
 
 > Endret ved forskrifter [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010), [21 juni 2019 nr. 800](forskrift/2019-06-21-800) (i kraft 1 juli 2019).
 
 ### § 56. Kunngjøring av beslutning om at en fristoversittelse ikke skal få virkning
 
-Kunngjøring etter [patentloven § 66c](lov/1967-12-15-9/§66c) første ledd fjerde punktum og [§ 74](lov/1967-12-15-9/§74) første ledd skal innholde:opplysning om hvilken frist som er oversittet og at det er besluttet at fristoversittelsen ikke får virkningopplysinger som nevnt i [§ 43](forskrift/2007-12-14-1417/§43) annet ledd nr. 1 til 3 og 5 til 8, samt 36.
+Kunngjøring etter [patentloven § 66c](lov/1967-12-15-9/§66c) første ledd fjerde punktum og [§ 74](lov/1967-12-15-9/§74) første ledd skal innholde:
+
+1. opplysning om hvilken frist som er oversittet og at det er besluttet at fristoversittelsen ikke får virkning
+2. opplysinger som nevnt i [§ 43](forskrift/2007-12-14-1417/§43) annet ledd nr. 1 til 3 og 5 til 8, samt 36.
 
 > Endret ved forskrift [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010).
 
 ### § 57. Andre kunngjøringer
 
-Patentstyret skal kunngjøre følgende:melding om overdragelsemelding om lisensmelding om endring av søkerens, innehaverens, fullmektigens eller lisenstakerens navn eller foretaksnavn og adresse, samt av særskilt korrespondanseadressemelding om oppnevning, endring eller sletting av fullmektigmelding om at det er tatt utlegg eller arrestmeldinger etter [patentloven § 55](lov/1967-12-15-9/§55)melding om pantsettelse.
+Patentstyret skal kunngjøre følgende:
+
+1. melding om overdragelse
+2. melding om lisens
+3. melding om endring av søkerens, innehaverens, fullmektigens eller lisenstakerens navn eller foretaksnavn og adresse, samt av særskilt korrespondanseadresse
+4. melding om oppnevning, endring eller sletting av fullmektig
+5. melding om at det er tatt utlegg eller arrest
+6. meldinger etter [patentloven § 55](lov/1967-12-15-9/§55)
+7. melding om pantsettelse.
 
 Kunngjøringen skal inneholde opplysning om hvilken dato meldingen kom inn til Patentstyret.
 
@@ -496,7 +710,12 @@ Kunngjøringen skal inneholde opplysning om hvilken dato meldingen kom inn til P
 
 ### § 58. Levering av europeisk søknad
 
-Leveres en europeisk søknad til Patentstyret, skal Patentstyret:registrere leveringsdagensende søkeren en bekreftelse på at søknaden er mottattunderrette Det europeiske patentverket om leveringenvideresende søknaden til Det europeiske patentverket, men ikke dersom søknaden er omfattet av [lov 26. juni 1953 nr. 8](lov/1953-06-26-8) om oppfinnelser av betydning for rikets forsvar.
+Leveres en europeisk søknad til Patentstyret, skal Patentstyret:
+
+1. registrere leveringsdagen
+2. sende søkeren en bekreftelse på at søknaden er mottatt
+3. underrette Det europeiske patentverket om leveringen
+4. videresende søknaden til Det europeiske patentverket, men ikke dersom søknaden er omfattet av [lov 26. juni 1953 nr. 8](lov/1953-06-26-8) om oppfinnelser av betydning for rikets forsvar.
 
 ### § 59. Oversettelse av europeisk søknad og europeisk patent
 
@@ -544,7 +763,12 @@ Har Det europeiske patentverket fastlagt sammendraget for en europeisk søknad s
 
 ### § 65. Patentstyret som mottakende myndighet
 
-Patentstyret er mottakende myndighet for internasjonale søknader som leveres av:norske statsborgerepersoner bosatt her i riketpersoner som driver næringsvirksomhet her i riketnorske juridiske personer.
+Patentstyret er mottakende myndighet for internasjonale søknader som leveres av:
+
+1. norske statsborgere
+2. personer bosatt her i riket
+3. personer som driver næringsvirksomhet her i riket
+4. norske juridiske personer.
 
 Leveres en internasjonal søknad av flere i fellesskap, er Patentstyret mottakende myndighet for søknaden hvis minst én av søkerne omfattes av første ledd.
 
@@ -642,7 +866,11 @@ Fristen for å kreve omprøving etter [patentloven § 38](lov/1967-12-15-9/§38)
 
 ### § 79. Definisjoner
 
-I kapitlet her menes med:*sertifikat:* et supplerende beskyttelsessertifikat for legemidler eller plantefarmasøytiske produkter*legemiddelforordningen:* EØS-avtalen vedlegg XVII nr. 6 (Europaparlaments- og rådsforordning [(EF) nr. 469/2009](eu/32009r0469) av 6. mai 2009 om et supplerende beskyttelsessertifikat for legemidler) med de tilpasninger som følger av vedlegg XVII, protokoll 1 til avtalen og avtalen for øvrig.*plantemiddelforordningen:* EØS-avtalen vedlegg XVII nr. 6a (Europaparlamentets og Rådets forordning [(EF) nr. 1610/96](eu/31996r1610) av 23. juli 1996 om innføring av et supplerende beskyttelsessertifikat for plantefarmasøytiske produkter) med de endringer og tillegg som følger av protokoll 1 til avtalen og avtalen for øvrig.
+I kapitlet her menes med:
+
+1. *sertifikat:* et supplerende beskyttelsessertifikat for legemidler eller plantefarmasøytiske produkter
+2. *legemiddelforordningen:* EØS-avtalen vedlegg XVII nr. 6 (Europaparlaments- og rådsforordning [(EF) nr. 469/2009](eu/32009r0469) av 6. mai 2009 om et supplerende beskyttelsessertifikat for legemidler) med de tilpasninger som følger av vedlegg XVII, protokoll 1 til avtalen og avtalen for øvrig.
+3. *plantemiddelforordningen:* EØS-avtalen vedlegg XVII nr. 6a (Europaparlamentets og Rådets forordning [(EF) nr. 1610/96](eu/31996r1610) av 23. juli 1996 om innføring av et supplerende beskyttelsessertifikat for plantefarmasøytiske produkter) med de endringer og tillegg som følger av protokoll 1 til avtalen og avtalen for øvrig.
 
 > Endret ved forskrift [16 juni 2017 nr. 786](forskrift/2017-06-16-786) (i kraft 1 sep 2017).
 
@@ -684,7 +912,11 @@ Et endret sertifikat skal inneholde de opplysningene som er nevnt i [§ 54](fors
 
 ### § 84. Krav om endring av gyldighetsperiode
 
-Enhver kan fremsette et skriftlig krav til Patentstyret om endring av gyldighetsperioden til et utstedt sertifikat. Kravet skal inneholde:navn og adresse til den som fremsetter kravetopplysning om sertifikatets nummer eller basispatentets nummerde grunner kravet støtter seg på.
+Enhver kan fremsette et skriftlig krav til Patentstyret om endring av gyldighetsperioden til et utstedt sertifikat. Kravet skal inneholde:
+
+1. navn og adresse til den som fremsetter kravet
+2. opplysning om sertifikatets nummer eller basispatentets nummer
+3. de grunner kravet støtter seg på.
 
 Patentstyret skal avvise et krav som ikke oppfyller vilkårene i første ledd.
 
@@ -700,7 +932,10 @@ Dersom gyldighetsperioden endres, skal Patentstyret utstede nytt sertifikat og m
 
 Dersom en søknad om sertifikat eller forlengelse avslås eller henlegges, kan søkeren påklage avgjørelsen til Klagenemnden for industrielle rettigheter (Klagenemnden). [Patentloven § 27](lov/1967-12-15-9/§27) første og annet ledd gjelder tilsvarende.
 
-Avslag på krav om endring av et sertifikats gyldighetsperiode tas under behandling av Klagenemnden dersom den som avgjørelsen har gått imot, innen to måneder fra melding om at kravet ikke ble tatt til følge, ble sendt vedkommende:gir Patentstyret skriftlig melding om at kravet opprettholdesbetaler fastsatt gebyr.
+Avslag på krav om endring av et sertifikats gyldighetsperiode tas under behandling av Klagenemnden dersom den som avgjørelsen har gått imot, innen to måneder fra melding om at kravet ikke ble tatt til følge, ble sendt vedkommende:
+
+1. gir Patentstyret skriftlig melding om at kravet opprettholdes
+2. betaler fastsatt gebyr.
 
 [Patentloven § 22](lov/1967-12-15-9/§22) femte og sjette ledd gjelder tilsvarende for dokumenter som inngis til Klagenemnden.
 
@@ -722,17 +957,30 @@ Enhver kan reise søksmål for domstolene for å få kjent et utstedt sertifikat
 
 ### § 88. Definisjon av plantesort
 
-Med plantesort forstås i patentloven og i forskriften her en bestand av planter innenfor en enkelt taksonomisk gruppe av lavest kjente rang, somkan defineres på grunnlag av forekomsten av kjennetegn som skyldes en bestemt genotype eller kombinasjon av genotyper,kan skilles fra enhver annen bestand av planter på grunnlag av forekomsten av minst ett av de nevnte kjennetegn, ogkan betraktes som en enhet når det gjelder evnen til å formere seg uforandret.
+Med plantesort forstås i patentloven og i forskriften her en bestand av planter innenfor en enkelt taksonomisk gruppe av lavest kjente rang, som
+
+1. kan defineres på grunnlag av forekomsten av kjennetegn som skyldes en bestemt genotype eller kombinasjon av genotyper,
+2. kan skilles fra enhver annen bestand av planter på grunnlag av forekomsten av minst ett av de nevnte kjennetegn, og
+3. kan betraktes som en enhet når det gjelder evnen til å formere seg uforandret.
 
 Forekomsten av kjennetegn som nevnt i første ledd nr. 1, kan være invariabel eller variabel mellom sortsbestanddeler av samme slag, forutsatt at også variasjonsnivået skyldes genotypen eller kombinasjonen av genotyper.
 
 ### § 89. Rett til å bruke planteformeringsmateriale
 
-En gårdbrukers rett til å bruke planteformeringsmateriale i samsvar med [patentloven § 3b](lov/1967-12-15-9/§3b) første ledd, gjelder bare for følgende plantearter:*Fôrvekster:* Cicer arietinum L. (kikert), Lupinus luteus L. (gul lupin), Medicago sativa L. (luserne), Pisum sativum L. (hageert), Trifolium alexandrinum L. (alexandrinekløver), Trifolium resupinatum L. (vendekløver), Vicia faba (bønnevikke) og Vicia sativa L. (fôrvikke)*Kornarter:* Avena sativa (havre), Hordeum vulgare L. (bygg), Oryza sativa L. (ris), Phalaris canariensis L. (kanarigras), Secale cereale L. (rug), X Triticosecale Wittm. (rughvete), Triticum aestivum L. emend. Fiori et Paol. (hvete), Triticum durum Desf. (durumhvete) og Triticum spelta L. (spelthvete)*Poteter:* Solanum tuberosum (poteter)*Olje- og fiberplanter:* Brassica napus L. – partim – (raps), Brassica rapa L. – partim – (rybs) og Linum usitatissimum (lin).
+En gårdbrukers rett til å bruke planteformeringsmateriale i samsvar med [patentloven § 3b](lov/1967-12-15-9/§3b) første ledd, gjelder bare for følgende plantearter:
+
+1. *Fôrvekster:* Cicer arietinum L. (kikert), Lupinus luteus L. (gul lupin), Medicago sativa L. (luserne), Pisum sativum L. (hageert), Trifolium alexandrinum L. (alexandrinekløver), Trifolium resupinatum L. (vendekløver), Vicia faba (bønnevikke) og Vicia sativa L. (fôrvikke)
+2. *Kornarter:* Avena sativa (havre), Hordeum vulgare L. (bygg), Oryza sativa L. (ris), Phalaris canariensis L. (kanarigras), Secale cereale L. (rug), X Triticosecale Wittm. (rughvete), Triticum aestivum L. emend. Fiori et Paol. (hvete), Triticum durum Desf. (durumhvete) og Triticum spelta L. (spelthvete)
+3. *Poteter:* Solanum tuberosum (poteter)
+4. *Olje- og fiberplanter:* Brassica napus L. – partim – (raps), Brassica rapa L. – partim – (rybs) og Linum usitatissimum (lin).
 
 ### § 90. Vederlag for utøvelse av rett etter patentloven § 3b første ledd
 
-Det skal ikke betales vederlag for utøvelse av retten etter [patentloven § 3b](lov/1967-12-15-9/§3b) første ledd når formeringsmaterialet brukes i små gårdsbruk. Små gårdsbruk er gårdsbruk som:når det gjelder poteter, ikke dyrker et areal som overstiger det som er nødvendig for å produsere 185 tonn poteter pr. høst, uansett størrelsen på det arealet der gårdbrukeren eventuelt dyrker andre planter enn poteternår det gjelder fôrvekster, ikke dyrker disse vekstene i en periode på mer enn fem år på et areal som overstiger det som er nødvendig for å produsere 92 tonn korn pr. høst, uansett størrelsen på det arealet der gårdbrukeren eventuelt dyrker andre planternår det gjelder de øvrige plantearter som er nevnt i forskriften her [§ 89](forskrift/2007-12-14-1417/§89), ikke dyrker disse vekstene på et areal som overstiger det som er nødvendig for å produsere 92 tonn korn pr. høst, uansett størrelsen på det arealet der gårdbrukeren eventuelt dyrker andre planter.
+Det skal ikke betales vederlag for utøvelse av retten etter [patentloven § 3b](lov/1967-12-15-9/§3b) første ledd når formeringsmaterialet brukes i små gårdsbruk. Små gårdsbruk er gårdsbruk som:
+
+1. når det gjelder poteter, ikke dyrker et areal som overstiger det som er nødvendig for å produsere 185 tonn poteter pr. høst, uansett størrelsen på det arealet der gårdbrukeren eventuelt dyrker andre planter enn poteter
+2. når det gjelder fôrvekster, ikke dyrker disse vekstene i en periode på mer enn fem år på et areal som overstiger det som er nødvendig for å produsere 92 tonn korn pr. høst, uansett størrelsen på det arealet der gårdbrukeren eventuelt dyrker andre planter
+3. når det gjelder de øvrige plantearter som er nevnt i forskriften her [§ 89](forskrift/2007-12-14-1417/§89), ikke dyrker disse vekstene på et areal som overstiger det som er nødvendig for å produsere 92 tonn korn pr. høst, uansett størrelsen på det arealet der gårdbrukeren eventuelt dyrker andre planter.
 
 Andre gårdbrukere skal betale rettighetshaveren et rimelig vederlag som skal være betydelig lavere enn det beløpet som kreves for en lisens til å produsere formeringsmateriale av samme slag i samme område. Dersom ikke annet er avtalt, skal vederlaget tilsvare 50 prosent av det beløpet som kreves for en slik lisens som nevnt i første punktum i leddet her.
 
@@ -740,7 +988,10 @@ En gårdbruker skal ikke betale vederlag for bruk av avlsdyr eller annet animals
 
 ### § 91. Opplysningsplikt
 
-Dersom ikke annet er avtalt, skal gårdbrukeren på anmodning gi rettighetshaveren opplysninger som er relevante for å avgjøre om vilkårene for å bruke landbruksunntaket etter [patentloven § 3b](lov/1967-12-15-9/§3b) første ledd jf. § 90 og § 89 i forskriften her er oppfylt, og for å beregne et eventuelt vederlag etter [§ 90](forskrift/2007-12-14-1417/§90) annet ledd. Gårdbrukeren skal herunder oppgi:mengden av planteformeringsmateriale som gårdbrukeren eventuelt har brukt i medhold av [patentloven § 3b](lov/1967-12-15-9/§3b) første leddden virksomheten som eventuelt har produsert planteformeringsmaterialet for gårdbrukeren på grunnlag av dennes innhøstede produkter (forarbeidsvirksomheten).
+Dersom ikke annet er avtalt, skal gårdbrukeren på anmodning gi rettighetshaveren opplysninger som er relevante for å avgjøre om vilkårene for å bruke landbruksunntaket etter [patentloven § 3b](lov/1967-12-15-9/§3b) første ledd jf. § 90 og § 89 i forskriften her er oppfylt, og for å beregne et eventuelt vederlag etter [§ 90](forskrift/2007-12-14-1417/§90) annet ledd. Gårdbrukeren skal herunder oppgi:
+
+1. mengden av planteformeringsmateriale som gårdbrukeren eventuelt har brukt i medhold av [patentloven § 3b](lov/1967-12-15-9/§3b) første ledd
+2. den virksomheten som eventuelt har produsert planteformeringsmaterialet for gårdbrukeren på grunnlag av dennes innhøstede produkter (forarbeidsvirksomheten).
 
 Dersom ikke annet er avtalt, skal forarbeidsvirksomheten på anmodning gi rettighetshaveren opplysninger om mengden av innhøstede produkter som forarbeidsvirksomheten eventuelt har behandlet for gårdbrukeren, og den samlede mengden planteformeringsmateriale som er produsert på grunnlag av de innhøstede produktene. Retten til å kreve opplysninger gjelder bare for opplysninger fra inneværende produksjonsår og de tre foregående år.
 
@@ -780,17 +1031,29 @@ Den som leverer krav om tvangslisens til Konkurransetilsynet etter [patentloven 
 
 ### § 97. Tvangslisens for fremstilling for eksport
 
-Når vilkårene i [§ 98](forskrift/2007-12-14-1417/§98) er oppfylt, skal legemiddelprodusent i Norge på anmodning gis tvangslisens etter [patentloven § 47](lov/1967-12-15-9/§47) for fremstilling av farmasøytiske produkter for eksport til en berettiget importstat som har bedt produsenten om å levere produktene. Som berettiget importstat regnes en stat eller et tollområde som oppfyller følgende vilkår:på det aktuelle tidspunktet er blant de minst utviklede statene eller områdene etter FNs klassifisering, eller som har utilstrekkelig produksjonsevne i samsvar med vedlegget til WTOs hovedrådsvedtak 30. august 2003 (WTOs legemiddelvedtak)har gitt melding til TRIPS-rådet i WTO i samsvar med WTOs legemiddelvedtak punkt 1 bokstav b og punkt 2 bokstav a.
+Når vilkårene i [§ 98](forskrift/2007-12-14-1417/§98) er oppfylt, skal legemiddelprodusent i Norge på anmodning gis tvangslisens etter [patentloven § 47](lov/1967-12-15-9/§47) for fremstilling av farmasøytiske produkter for eksport til en berettiget importstat som har bedt produsenten om å levere produktene. Som berettiget importstat regnes en stat eller et tollområde som oppfyller følgende vilkår:
+
+1. på det aktuelle tidspunktet er blant de minst utviklede statene eller områdene etter FNs klassifisering, eller som har utilstrekkelig produksjonsevne i samsvar med vedlegget til WTOs hovedrådsvedtak 30. august 2003 (WTOs legemiddelvedtak)
+2. har gitt melding til TRIPS-rådet i WTO i samsvar med WTOs legemiddelvedtak punkt 1 bokstav b og punkt 2 bokstav a.
 
 Dersom staten ikke er tilsluttet WTO-avtalen, gis meldingen etter første ledd nr. 2 til det norske utenriksdepartementet.
 
 ### § 98. Vilkår for tvangslisens for fremstilling for eksport
 
-Tvangslisens etter [§ 97](forskrift/2007-12-14-1417/§97) gis bare dersom følgende vilkår er oppfylt:det er forsøkt oppnådd avtalelisens i Norge, så langt det er nødvendig etter [patentloven § 49](lov/1967-12-15-9/§49) første leddproduktet er omfattet av WTOs legemiddelvedtak punkt 1 bokstav aproduktet skal fremstilles utelukkende med sikte på eksport til den berettigede importstaten for å dekke denne statens aktuelle, helsemessige behov for produktet, slik behovet er beskrevet i meldingen nevnt i forskriften her [§ 97](forskrift/2007-12-14-1417/§97)oppfinnelsen ikke er patentbeskyttet i den berettigede importstaten, eller det er gitt tvangslisens eller tatt rettslige skritt for å oppnå tvangslisens i denne staten i samsvar med avtalen 15. april 1994 nr. 16 om handelsrelaterte sider ved immaterielle rettigheter (TRIPS-avtalen) artikkel 31 og WTOs legemiddelvedtak.
+Tvangslisens etter [§ 97](forskrift/2007-12-14-1417/§97) gis bare dersom følgende vilkår er oppfylt:
+
+1. det er forsøkt oppnådd avtalelisens i Norge, så langt det er nødvendig etter [patentloven § 49](lov/1967-12-15-9/§49) første ledd
+2. produktet er omfattet av WTOs legemiddelvedtak punkt 1 bokstav a
+3. produktet skal fremstilles utelukkende med sikte på eksport til den berettigede importstaten for å dekke denne statens aktuelle, helsemessige behov for produktet, slik behovet er beskrevet i meldingen nevnt i forskriften her [§ 97](forskrift/2007-12-14-1417/§97)
+4. oppfinnelsen ikke er patentbeskyttet i den berettigede importstaten, eller det er gitt tvangslisens eller tatt rettslige skritt for å oppnå tvangslisens i denne staten i samsvar med avtalen 15. april 1994 nr. 16 om handelsrelaterte sider ved immaterielle rettigheter (TRIPS-avtalen) artikkel 31 og WTOs legemiddelvedtak.
 
 Ved vurderingen av hva som er rimelige forretningsmessige vilkår etter [patentloven § 49](lov/1967-12-15-9/§49) første ledd, og ved fastsettelsen av vederlag etter [patentloven § 50](lov/1967-12-15-9/§50) annet ledd, skal det tas hensyn til den økonomiske verdien utnyttelsen av oppfinnelsen har for importstaten.
 
-I avgjørelsen om tvangslisens kan det oppstilles nærmere vilkår for lisensen, jf. [patentloven § 50](lov/1967-12-15-9/§50) annet ledd. Det skal herunder stilles vilkår om:at emballasjen og produktpakningen skal skille seg tydelig fra produkter som er brakt i omsetning i Norge eller i en annen stat av patenthaveren selv eller med dennes samtykkeat produktene skal merkes slik at det tydelig fremgår at legemidlet er fremstilt på grunnlag av tvangslisens i Norge for eksport til en bestemt importstat i samsvar med WTOs legemiddelvedtakat fremstilling og eksport skal opphøre hvis tvangslisenshaveren blir kjent med at produktene i ikke ubetydelig grad blir anvendt til formål som ikke er omfattet av tvangslisensen, jf. første ledd nr. 3.
+I avgjørelsen om tvangslisens kan det oppstilles nærmere vilkår for lisensen, jf. [patentloven § 50](lov/1967-12-15-9/§50) annet ledd. Det skal herunder stilles vilkår om:
+
+1. at emballasjen og produktpakningen skal skille seg tydelig fra produkter som er brakt i omsetning i Norge eller i en annen stat av patenthaveren selv eller med dennes samtykke
+2. at produktene skal merkes slik at det tydelig fremgår at legemidlet er fremstilt på grunnlag av tvangslisens i Norge for eksport til en bestemt importstat i samsvar med WTOs legemiddelvedtak
+3. at fremstilling og eksport skal opphøre hvis tvangslisenshaveren blir kjent med at produktene i ikke ubetydelig grad blir anvendt til formål som ikke er omfattet av tvangslisensen, jf. første ledd nr. 3.
 
 ### § 99. Melding om meddelt tvangslisens for fremstilling for eksport
 

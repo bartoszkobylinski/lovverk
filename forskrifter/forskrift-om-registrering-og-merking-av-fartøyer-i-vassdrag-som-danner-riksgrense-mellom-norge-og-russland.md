@@ -15,7 +15,7 @@ xml_hash: "3b2a93369df7b68765058ef555c921a254dcc17e9cb55b14c5a83e63b0dde7ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,10 @@ eu_basis: []
 
 Før et fartøy på norsk side brukes i vassdrag som danner riksgrense mellom Norge og Russland, skal det være registrert og merket i samsvar med denne forskriften.
 
-Som grensevassdrag regnes i denne forbindelsePasvikelv med de sjøer den danner fra grensemerke nr. 9 og 10 til grensemerke nr. 177 og fra grenselinjen over elven mellom grensemerke nr. 199 og 200 til broen ved Elvenes,Jakobselv fra grensemerke nr. 283 til grensemerke nr. 396.
+Som grensevassdrag regnes i denne forbindelse
+
+1. Pasvikelv med de sjøer den danner fra grensemerke nr. 9 og 10 til grensemerke nr. 177 og fra grenselinjen over elven mellom grensemerke nr. 199 og 200 til broen ved Elvenes,
+2. Jakobselv fra grensemerke nr. 283 til grensemerke nr. 396.
 
 ## § 2. Fartøyregisteret
 

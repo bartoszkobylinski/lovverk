@@ -15,7 +15,7 @@ xml_hash: "915fba9eb70418d7ea98ffb05ebb4f91e815a5fca7d0e462a614d9aae8b99a2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1. Endringer i forordninger om medisinsk utstyr
 
-Forordning om medisinsk utstyr, jf. [lov om medisinsk utstyr § 1 første ledd](lov/2020-05-07-37/§1/ledd/1), gjelder med endringene som følger avforordning [(EU) 2020/561](eu/32020r0561)forordning [(EU) 2023/502](eu/32023r0502)forordning [(EU) 2023/607](eu/32023r0607)forordning [(EU) 2023/2197](eu/32023r2197)forordning [(EU) 2025/788](eu/32025r0788)forordning [(EU) 2025/1920](eu/32025r1920).
+Forordning om medisinsk utstyr, jf. [lov om medisinsk utstyr § 1 første ledd](lov/2020-05-07-37/§1/ledd/1), gjelder med endringene som følger av
+
+- forordning [(EU) 2020/561](eu/32020r0561)
+- forordning [(EU) 2023/502](eu/32023r0502)
+- forordning [(EU) 2023/607](eu/32023r0607)
+- forordning [(EU) 2023/2197](eu/32023r2197)
+- forordning [(EU) 2025/788](eu/32025r0788)
+- forordning [(EU) 2025/1920](eu/32025r1920).
 
 > Tilføyd ved forskrift [20 des 2024 nr. 3418](forskrift/2024-12-20-3418), opphevet ved forskrift [4 sep 2025 nr. 1783](forskrift/2025-09-04-1783), tilføyd ved forskrift [2 des 2025 nr. 2410](forskrift/2025-12-02-2410), endret ved forskrift [2 des 2025 nr. 2423](forskrift/2025-12-02-2423) (i kraft 6 des 2025).
 
@@ -214,7 +221,14 @@ Direktoratet for medisinske produkter kan i særlige tilfeller gi dispensasjon f
 
 ### § 19. Straff
 
-Den som forsettlig eller uaktsomt overtrer følgende bestemmelser, straffes i henhold til [lov 7. mai 2020 nr. 37 om medisinsk utstyr](lov/2020-05-07-37) med bøter eller fengsel inntil 3 måneder:bestemmelsene i denne forskrift [§ 6](forskrift/2021-05-09-1476/§6) til [§ 14](forskrift/2021-05-09-1476/§14) og [§ 16](forskrift/2021-05-09-1476/§16).forordning [(EU) 2017/745](eu/32017r0745) (MDR) artikkel 5 til 7, 10, 11, 13 til 18, 21 til 23, 25, 27, 29, 31, 32, 36, 37, 61 til 66, 68, 70, 72, 74, 75, 77, 80, 82, 84 til 86 og 89.forordning [(EU) 2017/746](eu/32017r0746) (IVDR) artikkel 5 til 7, 10, 11, 13 til 16, 19, 20, 22, 24, 26, 28, 29, 32, 33, 56 til 62, 64, 66, 68, 70, 71, 73, 76, 79 til 81 og 84.forordning [(EU) 2021/2226](eu/32021r2226) artikkel 3 til 9.forordning [(EU) nr. 207/2012](eu/32012r0207) artikkel 3 til 7.forordning [(EU) nr. 722/2012](eu/32012r0722) artikkel 3.
+Den som forsettlig eller uaktsomt overtrer følgende bestemmelser, straffes i henhold til [lov 7. mai 2020 nr. 37 om medisinsk utstyr](lov/2020-05-07-37) med bøter eller fengsel inntil 3 måneder:
+
+1. bestemmelsene i denne forskrift [§ 6](forskrift/2021-05-09-1476/§6) til [§ 14](forskrift/2021-05-09-1476/§14) og [§ 16](forskrift/2021-05-09-1476/§16).
+2. forordning [(EU) 2017/745](eu/32017r0745) (MDR) artikkel 5 til 7, 10, 11, 13 til 18, 21 til 23, 25, 27, 29, 31, 32, 36, 37, 61 til 66, 68, 70, 72, 74, 75, 77, 80, 82, 84 til 86 og 89.
+3. forordning [(EU) 2017/746](eu/32017r0746) (IVDR) artikkel 5 til 7, 10, 11, 13 til 16, 19, 20, 22, 24, 26, 28, 29, 32, 33, 56 til 62, 64, 66, 68, 70, 71, 73, 76, 79 til 81 og 84.
+4. forordning [(EU) 2021/2226](eu/32021r2226) artikkel 3 til 9.
+5. forordning [(EU) nr. 207/2012](eu/32012r0207) artikkel 3 til 7.
+6. forordning [(EU) nr. 722/2012](eu/32012r0722) artikkel 3.
 
 Grove overtredelser straffes med bøter eller fengsel inntil 2 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om overtredelsen har ført til eller kunne ha ført til at pasient, bruker eller annen person dør eller at helsetilstanden blir eller kunne ha blitt midlertidig eller varig alvorlig forringet, eller om det oppstår en alvorlig trussel mot folkehelsen.
 
@@ -222,7 +236,14 @@ Grove overtredelser straffes med bøter eller fengsel inntil 2 år. Ved avgjøre
 
 ### § 19a. Overtredelsesgebyr
 
-Direktoratet for medisinske produkter kan ilegge overtredelsesgebyr for den som forsettlig eller uaktsomt overtrer:bestemmelsene i denne forskrift [§ 6](forskrift/2021-05-09-1476/§6) til [§ 14](forskrift/2021-05-09-1476/§14) og [§ 16](forskrift/2021-05-09-1476/§16).forordning [(EU) 2017/745](eu/32017r0745) (MDR) artikkel 5 til 7, 9 til 11, 13 til 23, 25, 27, 29, 31, 32, 36, 37, 52, 55, 56, 59, 61 til 66, 68, 70, 72, 74, 75, 77, 80, 82 til 89, 95, 97 og 120.forordning [(EU) 2017/746](eu/32017r0746) (IVDR) artikkel 5 til 7, 9 til 11, 13 til 20, 22, 24, 26, 28, 29, 32, 33, 48, 50, 51, 54, 56 til 62, 64, 66, 68, 70, 71, 73, 76, 78 til 84, 90, 92 og 110.forordning [(EU) 2021/2226](eu/32021r2226) artikkel 3 til 9.forordning [(EU) nr. 207/2012](eu/32012r0207) artikkel 3 til 7.forordning [(EU) nr. 722/2012](eu/32012r0722) artikkel 3.
+Direktoratet for medisinske produkter kan ilegge overtredelsesgebyr for den som forsettlig eller uaktsomt overtrer:
+
+1. bestemmelsene i denne forskrift [§ 6](forskrift/2021-05-09-1476/§6) til [§ 14](forskrift/2021-05-09-1476/§14) og [§ 16](forskrift/2021-05-09-1476/§16).
+2. forordning [(EU) 2017/745](eu/32017r0745) (MDR) artikkel 5 til 7, 9 til 11, 13 til 23, 25, 27, 29, 31, 32, 36, 37, 52, 55, 56, 59, 61 til 66, 68, 70, 72, 74, 75, 77, 80, 82 til 89, 95, 97 og 120.
+3. forordning [(EU) 2017/746](eu/32017r0746) (IVDR) artikkel 5 til 7, 9 til 11, 13 til 20, 22, 24, 26, 28, 29, 32, 33, 48, 50, 51, 54, 56 til 62, 64, 66, 68, 70, 71, 73, 76, 78 til 84, 90, 92 og 110.
+4. forordning [(EU) 2021/2226](eu/32021r2226) artikkel 3 til 9.
+5. forordning [(EU) nr. 207/2012](eu/32012r0207) artikkel 3 til 7.
+6. forordning [(EU) nr. 722/2012](eu/32012r0722) artikkel 3.
 
 > Tilføyd ved forskrift [23 mai 2022 nr. 904](forskrift/2022-05-23-904) (i kraft 26 mai 2022), endret ved forskrifter [8 mars 2023 nr. 309](forskrift/2023-03-08-309) (tidligere § 21a), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [21 jan 2026 nr. 198](forskrift/2026-01-21-198) (i kraft 7 feb 2026).
 
@@ -252,7 +273,10 @@ Unntak fra samsvarsvurdering gitt av Direktoratet for medisinske produkter i sam
 
 ### § 22. Plikt til å melde uhell
 
-Den som i sin virksomhet produserer utstyr skal uten unødig opphold melde om følgende:enhver feilfunksjon eller enhver forringelse av et utstyrs egenskaper og/eller ytelser samt enhver mangel på merkingen eller bruksanvisningen som kan føre til eller kunne ha ført til pasientens, brukerens eller annen persons død eller alvorlig forverring av pasientens, brukerens eller annen persons helsetilstand.ethvert teknisk eller medisinsk hensyn i forbindelse med et utstyrs egenskaper eller ytelser som, av de årsaker som er omhandlet under bokstav a, har ført til at produsenten systematisk har trukket utstyr av samme type tilbake fra markedet eller gjort endringer som følge av dette.
+Den som i sin virksomhet produserer utstyr skal uten unødig opphold melde om følgende:
+
+1. enhver feilfunksjon eller enhver forringelse av et utstyrs egenskaper og/eller ytelser samt enhver mangel på merkingen eller bruksanvisningen som kan føre til eller kunne ha ført til pasientens, brukerens eller annen persons død eller alvorlig forverring av pasientens, brukerens eller annen persons helsetilstand.
+2. ethvert teknisk eller medisinsk hensyn i forbindelse med et utstyrs egenskaper eller ytelser som, av de årsaker som er omhandlet under bokstav a, har ført til at produsenten systematisk har trukket utstyr av samme type tilbake fra markedet eller gjort endringer som følge av dette.
 
 Meldingen sendes til Direktoratet for medisinske produkter. Direktoratet for medisinske produkter kan fastsette retningslinjer for meldeplikten.
 
@@ -262,7 +286,13 @@ Meldingen sendes til Direktoratet for medisinske produkter. Direktoratet for med
 
 *Overgangsregler for prosedyrer for utstyr til klinisk utprøving av øvrig medisinsk utstyr frem til Eudamed er fullt ut funksjonell*
 
-Frem til den seneste av datoene for Eudamed nevnt i forordning [(EU) 2017/745](eu/32017r0745) (MDR) artikkel 123 nr. 3 bokstav d gjelder følgende regler for prosedyrer for utstyr til klinisk utprøving:For utstyr beregnet til klinisk utprøving skal produsenten eller den ansvarlige representanten etablert innen EØS-området, senest 60 dager før utprøvingen begynner, utferdige en erklæring som nevnt i direktiv [93/42/EØF](eu/31993l0042) (MDD) vedlegg ØMU II til Direktoratet for medisinske produkter i de medlemsstater der utprøvingene skal finne sted.For utstyr i klasse III samt implanterbart utstyr og invasivt utstyr til langvarig bruk i klasse IIa eller IIb, kan den kliniske utprøvingen starte 60 dager etter underretningen, med mindre tilsynsmyndigheten av hensyn til folkehelsen eller offisielle retningslinjer innen utløpet av fristen har meddelt produsenten vedtak om at utprøvingen ikke kan påbegynnes. Direktoratet for medisinske produkter kan gi produsenten tillatelse til å innlede de relevante kliniske utprøvingene før utløpet av fristen på 60 dager, forutsatt at den relevante etiske komité har gitt en positiv uttalelse om utprøvingsprogrammet, som også omfatter komiteens gjennomgåelse av planen for klinisk utprøving.For annet utstyr kan Direktoratet for medisinske produkter gi produsenten tillatelse til å innlede de kliniske utprøvingene umiddelbart etter underretning er gitt, forutsatt at den relevante etiske komité har gitt en positiv uttalelse til utprøvingsprogrammet, som også omfatter komiteens gjennomgåelse av planen for klinisk utprøving.Kliniske utprøvinger skal utføres i samsvar med bestemmelser i vedlegg [93/42/EØF](eu/31993l0042) (MDD) ØMU I.Produsenten eller hans ansvarlige representant skal underrette Direktoratet for medisinske produkter når den kliniske utprøvingen avsluttes, med en begrunnelse dersom den avsluttes før tiden. Dersom den kliniske utprøvingen avsluttes før tiden av sikkerhetsgrunner skal alle medlemsstater og EU-kommisjonen underrettes. Rapporten som nevnes i direktiv [93/42/EØF](eu/31993l0042) (MDD) ØMU vedlegg I nr. 2.3.7 skal produsenten eller hans ansvarlige representant kunne stille til rådighet for Direktoratet for medisinske produkter.
+Frem til den seneste av datoene for Eudamed nevnt i forordning [(EU) 2017/745](eu/32017r0745) (MDR) artikkel 123 nr. 3 bokstav d gjelder følgende regler for prosedyrer for utstyr til klinisk utprøving:
+
+- For utstyr beregnet til klinisk utprøving skal produsenten eller den ansvarlige representanten etablert innen EØS-området, senest 60 dager før utprøvingen begynner, utferdige en erklæring som nevnt i direktiv [93/42/EØF](eu/31993l0042) (MDD) vedlegg ØMU II til Direktoratet for medisinske produkter i de medlemsstater der utprøvingene skal finne sted.
+- For utstyr i klasse III samt implanterbart utstyr og invasivt utstyr til langvarig bruk i klasse IIa eller IIb, kan den kliniske utprøvingen starte 60 dager etter underretningen, med mindre tilsynsmyndigheten av hensyn til folkehelsen eller offisielle retningslinjer innen utløpet av fristen har meddelt produsenten vedtak om at utprøvingen ikke kan påbegynnes. Direktoratet for medisinske produkter kan gi produsenten tillatelse til å innlede de relevante kliniske utprøvingene før utløpet av fristen på 60 dager, forutsatt at den relevante etiske komité har gitt en positiv uttalelse om utprøvingsprogrammet, som også omfatter komiteens gjennomgåelse av planen for klinisk utprøving.
+- For annet utstyr kan Direktoratet for medisinske produkter gi produsenten tillatelse til å innlede de kliniske utprøvingene umiddelbart etter underretning er gitt, forutsatt at den relevante etiske komité har gitt en positiv uttalelse til utprøvingsprogrammet, som også omfatter komiteens gjennomgåelse av planen for klinisk utprøving.
+- Kliniske utprøvinger skal utføres i samsvar med bestemmelser i vedlegg [93/42/EØF](eu/31993l0042) (MDD) ØMU I.
+- Produsenten eller hans ansvarlige representant skal underrette Direktoratet for medisinske produkter når den kliniske utprøvingen avsluttes, med en begrunnelse dersom den avsluttes før tiden. Dersom den kliniske utprøvingen avsluttes før tiden av sikkerhetsgrunner skal alle medlemsstater og EU-kommisjonen underrettes. Rapporten som nevnes i direktiv [93/42/EØF](eu/31993l0042) (MDD) ØMU vedlegg I nr. 2.3.7 skal produsenten eller hans ansvarlige representant kunne stille til rådighet for Direktoratet for medisinske produkter.
 
 Denne bestemmelsen får ikke anvendelse på kliniske utprøvinger med utstyr som er samsvarsvurdert med mindre hensikten med utprøvingen er å anvende utstyret til et annet formål enn det som ble angitt i forbindelse med den opprinnelige samsvarsvurderingen.
 

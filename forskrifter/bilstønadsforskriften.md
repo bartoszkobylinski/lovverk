@@ -15,7 +15,7 @@ xml_hash: "5cefbbd5abaff1e3d43182476f7f7d267b09dd2f4c941a74ee6faa3c12889ee4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Personkrets og formål
 
-Denne forskriften omfatter medlemmer som fyller vilkårene i[folketrygdloven § 10-5](lov/1997-02-28-19/§10-5) Stønad til bedring av funksjonsevnen i arbeidslivet, eller[folketrygdloven § 10-6](lov/1997-02-28-19/§10-6) Stønad til bedring av funksjonsevnen i dagliglivet.
+Denne forskriften omfatter medlemmer som fyller vilkårene i
+
+1. [folketrygdloven § 10-5](lov/1997-02-28-19/§10-5) Stønad til bedring av funksjonsevnen i arbeidslivet, eller
+2. [folketrygdloven § 10-6](lov/1997-02-28-19/§10-6) Stønad til bedring av funksjonsevnen i dagliglivet.
 
 Ved vurderingen av om et medlem som fyller vilkårene i [folketrygdloven § 10-5](lov/1997-02-28-19/§10-5) kan tilstås ytelser etter denne forskriften, skal det legges særlig vekt på at medlemmets helse bevares best mulig.
 
@@ -42,7 +45,12 @@ Med gruppe 1 i denne forskriften menes ordinære personbiler. Stønad til gruppe
 
 ## § 3. Alminnelige vilkår for stønad til anskaffelse av motorkjøretøy mv.
 
-Det kan gis stønad til anskaffelse av kjøretøy til funksjonshemmet som fyller de generelle vilkår for stønad etter [folketrygdloven kapittel 10](lov/1997-02-28-19/kap10) og som på grunn av varige forflytningsvansker trenger eget kjøretøy for åreise til og fra arbeids- eller opplæringssted,utføre sin funksjon som hjemmearbeidende,forhindre eller bryte en isolert tilværelse,avlaste sin familie i tilfeller hvor funksjonshemmingen medfører en særlig stor pleiebyrde, og derved bidra til å forhindre innleggelse i helseinstitusjon o.l.
+Det kan gis stønad til anskaffelse av kjøretøy til funksjonshemmet som fyller de generelle vilkår for stønad etter [folketrygdloven kapittel 10](lov/1997-02-28-19/kap10) og som på grunn av varige forflytningsvansker trenger eget kjøretøy for å
+
+1. reise til og fra arbeids- eller opplæringssted,
+2. utføre sin funksjon som hjemmearbeidende,
+3. forhindre eller bryte en isolert tilværelse,
+4. avlaste sin familie i tilfeller hvor funksjonshemmingen medfører en særlig stor pleiebyrde, og derved bidra til å forhindre innleggelse i helseinstitusjon o.l.
 
 Medlemmet må sannsynliggjøre at han eller hun har et reelt og betydelig behov for transport. Funksjonshemmingen må være av en slik art at reise med buss, båt, tog, trikk e.l. ikke er mulig eller medfører slike belastninger av varig art at det ikke er rimelig å forlange det.
 
@@ -58,7 +66,10 @@ Det kan ikke gis stønad til kjøretøy som helt eller delvis nyttes i egen nær
 
 ## § 5. Regler for valg av kjøretøy
 
-Stønad til kjøretøy ytes til:medlem som har behov for ordinær personbil (gruppe 1), og som fyller vilkårene i [folketrygdloven § 10-5](lov/1997-02-28-19/§10-5)medlem som har behov for spesielt tilrettelagt kassebil (gruppe 2).
+Stønad til kjøretøy ytes til:
+
+1. medlem som har behov for ordinær personbil (gruppe 1), og som fyller vilkårene i [folketrygdloven § 10-5](lov/1997-02-28-19/§10-5)
+2. medlem som har behov for spesielt tilrettelagt kassebil (gruppe 2).
 
 I gruppe 1 kan medlemmet fritt velge nytt eller brukt kjøretøy. Medlemmet må selv sørge for at kjøretøyet er hensiktsmessig og at det vil vare ut stønadsperioden. Dette gjelder også dersom det er behov for spesialtilpasninger.
 
@@ -104,7 +115,10 @@ Vilkårene om gjenanskaffelse gjelder selv om det ikke er gitt stønad fra folke
 
 ## § 9. Stønad til anskaffelse av kjøretøy
 
-Stønad til kjøretøy er behovsprøvd mot inntekt. Det ytes stønad til kjøp av kjøretøy i form av:tilskudd til gruppe 1rente- og avdragsfritt lån til gruppe 2.
+Stønad til kjøretøy er behovsprøvd mot inntekt. Det ytes stønad til kjøp av kjøretøy i form av:
+
+1. tilskudd til gruppe 1
+2. rente- og avdragsfritt lån til gruppe 2.
 
 Det gis stønad til kjøp av kjøretøy til medlemmer som har en alminnelig inntekt før særfradrag som ikke overstiger 6 ganger folketrygdens grunnbeløp (G).
 

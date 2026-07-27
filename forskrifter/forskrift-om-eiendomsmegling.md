@@ -30,7 +30,10 @@ eu_basis: []
 
 (1) [Lov om eiendomsmegling (eiendomsmeglingsloven) § 5-1](lov/2007-06-29-73/§5-1) og [§ 5-3](lov/2007-06-29-73/§5-3) fjerde ledd gjør ingen innskrenkning i boligbyggelagenes adgang til å drive virksomhet omfattet av [lov 6. juni 2003 nr. 38](lov/2003-06-06-38) om bustadbyggjelag (bustadbyggjelagslova).
 
-(2) [Eiendomsmeglingsloven § 5-3](lov/2007-06-29-73/§5-3) første til tredje og femte til syvende ledd (forbud mot egenhandel) gjelder ikke for:ansatte i boligbyggelag som ikke utfører arbeid som er ledd i eiendomsmegling,ansatte i boligbyggelag ved tildeling av ny bolig til fast pris gjennom ansiennitet i boligbyggelaget.
+(2) [Eiendomsmeglingsloven § 5-3](lov/2007-06-29-73/§5-3) første til tredje og femte til syvende ledd (forbud mot egenhandel) gjelder ikke for:
+
+1. ansatte i boligbyggelag som ikke utfører arbeid som er ledd i eiendomsmegling,
+2. ansatte i boligbyggelag ved tildeling av ny bolig til fast pris gjennom ansiennitet i boligbyggelaget.
 
 ### § 1-2. Nærmere regler om næringsmegling
 
@@ -40,7 +43,15 @@ Bestemmelsene i [eiendomsmeglingsloven § 4-4](lov/2007-06-29-73/§4-4), [§ 6-2
 
 (1) Reglene om budjournal i [§ 3-5](forskrift/2007-11-23-1318/§3-5), oppdragstakers plikter ved budgivning i [§ 6-3](forskrift/2007-11-23-1318/§6-3), innsyn i budjournal i [§ 6-4](forskrift/2007-11-23-1318/§6-4), bestemmelsene i [eiendomsmeglingsloven § 6-7 annet ledd nr. 3](lov/2007-06-29-73/§6-7/ledd/2/nummer/3) til 6, nr. 9 til 13 og nr. 18 og [eiendomsmeglingsloven § 6-8](lov/2007-06-29-73/§6-8), kan fravikes ved oppdrag omfattet av [eiendomsmeglingsloven § 1-4 annet ledd](lov/2007-06-29-73/§1-4/ledd/2).
 
-(2) Oppgave som nevnt i [eiendomsmeglingsloven § 6-7](lov/2007-06-29-73/§6-7) annet ledd skal ved utleiemeglingsoppdrag i tillegg inneholde opplysninger om:leieobjektets arealer eller antall rom,leiesum og øvrige betalinger etter [husleieloven § 3-1](lov/1999-03-26-17/§3-1) jf. [§ 3-4](lov/1999-03-26-17/§3-4),leietiden og partenes oppsigelsesadgang,utleiers krav til depositum eller garanti,vilkår om leierens vedlikeholdsplikt,om leieobjektet er utleiers egen bolig, og om dette gir leieren færre rettigheter enn ved leie av annen bolig, jf. [husleieloven § 11-4](lov/1999-03-26-17/§11-4) ogeventuell adgang til fremleie av leieobjektet eller deler av dette.
+(2) Oppgave som nevnt i [eiendomsmeglingsloven § 6-7](lov/2007-06-29-73/§6-7) annet ledd skal ved utleiemeglingsoppdrag i tillegg inneholde opplysninger om:
+
+1. leieobjektets arealer eller antall rom,
+2. leiesum og øvrige betalinger etter [husleieloven § 3-1](lov/1999-03-26-17/§3-1) jf. [§ 3-4](lov/1999-03-26-17/§3-4),
+3. leietiden og partenes oppsigelsesadgang,
+4. utleiers krav til depositum eller garanti,
+5. vilkår om leierens vedlikeholdsplikt,
+6. om leieobjektet er utleiers egen bolig, og om dette gir leieren færre rettigheter enn ved leie av annen bolig, jf. [husleieloven § 11-4](lov/1999-03-26-17/§11-4) og
+7. eventuell adgang til fremleie av leieobjektet eller deler av dette.
 
 > Tilføyd ved [forskrift 24 feb 2010 nr. 238](forskrift/2010-02-24-238) (i kraft 1 juli 2010), endret ved [forskrifter 21 juni 2013 nr. 722](forskrift/2013-06-21-722) (i kraft 1 jan 2014 med virkning for oppdrag som inngås fra denne datoen), [10 juni 2025 nr. 986](forskrift/2025-06-10-986) (i kraft 1 juli 2025).
 
@@ -60,7 +71,15 @@ Bestemmelsene i [eiendomsmeglingsloven § 4-4](lov/2007-06-29-73/§4-4), [§ 6-2
 
 (3) Det skal fremgå tydelig i all markedsføring at handelen gjelder en kontraktsposisjon.
 
-(4) Den skriftlige oppgaven etter [eiendomsmeglingsloven § 6-7](lov/2007-06-29-73/§6-7) annet ledd skal minst inneholde opplysninger om:hva kontraktsposisjonen gjelder og at kjøperen overtar selgerens rettigheter og plikter etter kontrakten, som skal vedlegges den skriftlige oppgaven,selgerens navn,prisforlangende eller prisantydning for kontraktsposisjonen, kjøpesummen i det opprinnelige avtaleforholdet, andel fellesgjeld, alle gebyrer, avgifter og øvrige kostnader, samt summen av disse beløpene,hva som er avtalt om betaling av kjøpesummen i det underliggende kontraktsforholdet, samt hva som gjelder for garantistillelser etter [bustadoppføringslova § 12](lov/1997-06-13-43/§12) og [§ 47](lov/1997-06-13-43/§47),nærmere opplysninger om boligen som kontraktsposisjonen knytter seg til, herunder minst de opplysninger som nevnt i [eiendomsmeglingsloven § 6-7](lov/2007-06-29-73/§6-7) annet til fjerde ledd, med unntak av annet ledd nr. 12, 13 og 14,hvem som er ansvarlig for å gjennomføre det økonomiske oppgjøret i det opprinnelige avtaleforholdet, jf. [eiendomsmeglingsloven § 6-10](lov/2007-06-29-73/§6-10),økonomisk risiko knyttet til vederlaget for kontraktsposisjonen.
+(4) Den skriftlige oppgaven etter [eiendomsmeglingsloven § 6-7](lov/2007-06-29-73/§6-7) annet ledd skal minst inneholde opplysninger om:
+
+1. hva kontraktsposisjonen gjelder og at kjøperen overtar selgerens rettigheter og plikter etter kontrakten, som skal vedlegges den skriftlige oppgaven,
+2. selgerens navn,
+3. prisforlangende eller prisantydning for kontraktsposisjonen, kjøpesummen i det opprinnelige avtaleforholdet, andel fellesgjeld, alle gebyrer, avgifter og øvrige kostnader, samt summen av disse beløpene,
+4. hva som er avtalt om betaling av kjøpesummen i det underliggende kontraktsforholdet, samt hva som gjelder for garantistillelser etter [bustadoppføringslova § 12](lov/1997-06-13-43/§12) og [§ 47](lov/1997-06-13-43/§47),
+5. nærmere opplysninger om boligen som kontraktsposisjonen knytter seg til, herunder minst de opplysninger som nevnt i [eiendomsmeglingsloven § 6-7](lov/2007-06-29-73/§6-7) annet til fjerde ledd, med unntak av annet ledd nr. 12, 13 og 14,
+6. hvem som er ansvarlig for å gjennomføre det økonomiske oppgjøret i det opprinnelige avtaleforholdet, jf. [eiendomsmeglingsloven § 6-10](lov/2007-06-29-73/§6-10),
+7. økonomisk risiko knyttet til vederlaget for kontraktsposisjonen.
 
 (5) Ved innføring i oppdragsjournal skal det anmerkes at oppdraget gjelder salg eller oppgjør av en kontraktsposisjon.
 
@@ -76,7 +95,10 @@ Bestemmelsene i [eiendomsmeglingsloven § 4-4](lov/2007-06-29-73/§4-4), [§ 6-2
 
 ### § 2-1. Rettshjelperes adgang til å drive eiendomsmeglingsvirksomhet
 
-(1) Eiendomsmeglingsvirksomhet mot godtgjørelse, jf. [eiendomsmeglingsloven § 2-1](lov/2007-06-29-73/§2-1), kan også drives av foretak som driver rettshjelpsvirksomhet, jf. [lov 13. august 1915 nr. 5](lov/1915-08-13-5) om domstolene (domstolloven) [§ 218](lov/1915-08-13-5/§218) annet ledd nr. 1, dersomrettshjelpsvirksomheten er organisert som enkeltpersonforetak jf. [domstolloven § 219a](lov/1915-08-13-5/§219a) første ledd, ogrettshjelperen i tre år har drevet rettshjelpvirksomhet etter tillatelse fra Tilsynsrådet for advokatvirksomhet, jf. [forskrift 20. desember 1996 nr. 1161](forskrift/1996-12-20-1161) til domstolloven ([advokatforskriften) § 1-1](forskrift/1996-12-20-1161/§1-1).
+(1) Eiendomsmeglingsvirksomhet mot godtgjørelse, jf. [eiendomsmeglingsloven § 2-1](lov/2007-06-29-73/§2-1), kan også drives av foretak som driver rettshjelpsvirksomhet, jf. [lov 13. august 1915 nr. 5](lov/1915-08-13-5) om domstolene (domstolloven) [§ 218](lov/1915-08-13-5/§218) annet ledd nr. 1, dersom
+
+1. rettshjelpsvirksomheten er organisert som enkeltpersonforetak jf. [domstolloven § 219a](lov/1915-08-13-5/§219a) første ledd, og
+2. rettshjelperen i tre år har drevet rettshjelpvirksomhet etter tillatelse fra Tilsynsrådet for advokatvirksomhet, jf. [forskrift 20. desember 1996 nr. 1161](forskrift/1996-12-20-1161) til domstolloven ([advokatforskriften) § 1-1](forskrift/1996-12-20-1161/§1-1).
 
 (2) Bestemmelser i eiendomsmeglingsloven og i denne forskrift om eiendomsmeglingsvirksomhet drevet av advokater, jf. [eiendomsmeglingsloven § 2-1](lov/2007-06-29-73/§2-1) første ledd nr. 2, gjelder tilsvarende.
 
@@ -112,7 +134,10 @@ Bestemmelsene i [eiendomsmeglingsloven § 4-4](lov/2007-06-29-73/§4-4), [§ 6-2
 
 (1) Den som stiller sikkerhet for foretaket når skadelidte framsetter krav om erstatning er ansvarlig overfor skadelidte. Dette gjelder selv om tapet ble forårsaket mens foretaket hadde en annen sikkerhetsstiller.
 
-(2) Et erstatningskrav anses som framsatt på det tidligste av følgende tidspunkter:Det tidspunkt foretaket eller dets sikkerhetsstiller første gang mottok skriftlig melding om tapet med krav om erstatning.Det tidspunkt foretaket eller dets sikkerhetsstiller første gang mottok skriftlig melding fra sikrede eller skadelidte vedrørende omstendigheter som kan ventes å føre til at et erstatningskrav blir reist mot sikrede.
+(2) Et erstatningskrav anses som framsatt på det tidligste av følgende tidspunkter:
+
+1. Det tidspunkt foretaket eller dets sikkerhetsstiller første gang mottok skriftlig melding om tapet med krav om erstatning.
+2. Det tidspunkt foretaket eller dets sikkerhetsstiller første gang mottok skriftlig melding fra sikrede eller skadelidte vedrørende omstendigheter som kan ventes å føre til at et erstatningskrav blir reist mot sikrede.
 
 (3) Dersom foretaket ikke har en sikkerhetsstiller på det tidspunktet kravet framsettes, svarer foretakets siste sikkerhetsstiller.
 
@@ -120,7 +145,10 @@ Bestemmelsene i [eiendomsmeglingsloven § 4-4](lov/2007-06-29-73/§4-4), [§ 6-2
 
 ### § 2-5. Opplysninger om foretakets eiere
 
-(1) Søknad om tillatelse etter loven [§ 2-3](forskrift/2007-11-23-1318/§2-3) skal inneholde følgende opplysninger:foretakets navn og organisasjonsnummer, ognavn og fødsels-/organisasjonsnummer og størrelsen på eierandelen til eiere av betydelig andel i foretaket.
+(1) Søknad om tillatelse etter loven [§ 2-3](forskrift/2007-11-23-1318/§2-3) skal inneholde følgende opplysninger:
+
+1. foretakets navn og organisasjonsnummer, og
+2. navn og fødsels-/organisasjonsnummer og størrelsen på eierandelen til eiere av betydelig andel i foretaket.
 
 (2) Der en betydelig andel i foretaket eies av et selskap, gjelder første ledd bokstav b) tilsvarende for eierselskapet, slik at samtlige personer som direkte eller indirekte eier 10 % eller mer av foretaket framkommer i eierlisten.
 
@@ -128,7 +156,12 @@ Bestemmelsene i [eiendomsmeglingsloven § 4-4](lov/2007-06-29-73/§4-4), [§ 6-2
 
 ### § 2-6. Opplysninger om foretakets styremedlemmer, daglig leder og fagansvarlig
 
-(1) Søknad om tillatelse etter loven [§ 2-3](forskrift/2007-11-23-1318/§2-3) skal inneholde følgende opplysninger:foretakets navn og organisasjonsnummer,navn, personnummer og tiltredelsesdato på samtlige styremedlemmer,navn, personnummer og tiltredelsesdato på fagansvarlig for foretaket og eventuelle filialer,navn, personnummer og tiltredelsesdato på daglig leder for foretaket og eventuelle filialer.
+(1) Søknad om tillatelse etter loven [§ 2-3](forskrift/2007-11-23-1318/§2-3) skal inneholde følgende opplysninger:
+
+1. foretakets navn og organisasjonsnummer,
+2. navn, personnummer og tiltredelsesdato på samtlige styremedlemmer,
+3. navn, personnummer og tiltredelsesdato på fagansvarlig for foretaket og eventuelle filialer,
+4. navn, personnummer og tiltredelsesdato på daglig leder for foretaket og eventuelle filialer.
 
 (2) Første ledd gjelder tilsvarende ved melding om skifte av styremedlem, daglig leder eller fagansvarlig.
 
@@ -198,11 +231,28 @@ Føring av journaler, jf. [eiendomsmeglingsloven § 3-1](lov/2007-06-29-73/§3-1
 
 ### § 3-2. Oppdragsjournal
 
-Hvert oppdrag som meglerforetaket påtar seg, jf. [eiendomsmeglingsloven § 6-1](lov/2007-06-29-73/§6-1) første ledd, skal snarest mulig innføres i en oppdragsjournal. Oppdragene skal innføres i tidsrekkefølge og nummerorden. Journalen skal minst inneholde følgende opplysninger:tidspunkt for inngåelse av oppdragsavtale,oppdragsgivers navn,hva oppdraget gjelder,eiendommens adresse, registerbetegnelse og kommune,hvilken type rettighet som søkes overdratt, jf. [eiendomsmeglingsloven § 1-2](lov/2007-06-29-73/§1-2) annet ledd,oppdragets varighet,status for oppdrag, herunder oppsigelse, forlengelse og gjennomføring av oppdraget, ogansvarlig megler, jf. [eiendomsmeglingsloven § 6-2](lov/2007-06-29-73/§6-2).
+Hvert oppdrag som meglerforetaket påtar seg, jf. [eiendomsmeglingsloven § 6-1](lov/2007-06-29-73/§6-1) første ledd, skal snarest mulig innføres i en oppdragsjournal. Oppdragene skal innføres i tidsrekkefølge og nummerorden. Journalen skal minst inneholde følgende opplysninger:
+
+1. tidspunkt for inngåelse av oppdragsavtale,
+2. oppdragsgivers navn,
+3. hva oppdraget gjelder,
+4. eiendommens adresse, registerbetegnelse og kommune,
+5. hvilken type rettighet som søkes overdratt, jf. [eiendomsmeglingsloven § 1-2](lov/2007-06-29-73/§1-2) annet ledd,
+6. oppdragets varighet,
+7. status for oppdrag, herunder oppsigelse, forlengelse og gjennomføring av oppdraget, og
+8. ansvarlig megler, jf. [eiendomsmeglingsloven § 6-2](lov/2007-06-29-73/§6-2).
 
 ### § 3-3. Meglingsjournal
 
-(1) Hver formidling som finner sted skal føres i en meglingsjournal. Formidlingene skal innføres snarest mulig i tidsrekkefølge og nummerorden. Journalen skal minst inneholde følgende opplysninger:oppdragsnummer, jf. [§ 3-2](forskrift/2007-11-23-1318/§3-2),tidspunkt for når handel er kommet i stand, jf. [eiendomsmeglingsloven § 7-3](lov/2007-06-29-73/§7-3) første ledd,eiendommens adresse, registerbetegnelse og kommune,hvilken type rettighet som overdras, jf. [eiendomsmeglingsloven § 1-2](lov/2007-06-29-73/§1-2) annet ledd,avtalepartenes navn,kjøpesum/årlig leiesum, ogvederlag.
+(1) Hver formidling som finner sted skal føres i en meglingsjournal. Formidlingene skal innføres snarest mulig i tidsrekkefølge og nummerorden. Journalen skal minst inneholde følgende opplysninger:
+
+1. oppdragsnummer, jf. [§ 3-2](forskrift/2007-11-23-1318/§3-2),
+2. tidspunkt for når handel er kommet i stand, jf. [eiendomsmeglingsloven § 7-3](lov/2007-06-29-73/§7-3) første ledd,
+3. eiendommens adresse, registerbetegnelse og kommune,
+4. hvilken type rettighet som overdras, jf. [eiendomsmeglingsloven § 1-2](lov/2007-06-29-73/§1-2) annet ledd,
+5. avtalepartenes navn,
+6. kjøpesum/årlig leiesum, og
+7. vederlag.
 
 (2) Oppdrag som kun omfatter oppgjør, skal innføres i meglingsjournalen på samme tidspunkt som innføring i oppdragsjournalen.
 
@@ -212,17 +262,34 @@ Hvert oppdrag som meglerforetaket påtar seg, jf. [eiendomsmeglingsloven § 6-1]
 
 ### § 3-4. Journalføring for oppgjørsforetak
 
-Oppdrag som kun gjelder oppgjør for andre eiendomsmeglingsforetak i medhold av [eiendomsmeglingsloven § 3-5](lov/2007-06-29-73/§3-5), skal bare føres i særskilt oppdragsjournal for oppgjørsforetak. Hvert oppdrag som mottas, skal snarest mulig innføres i journalen. Oppdragene skal innføres i tidsrekkefølge og nummerorden. Journalen skal minst inneholde følgende opplysninger:navn og organisasjonsnummer på eiendomsmeglingsforetaket som har gitt oppdraget,tidspunkt for når oppdraget er mottatt,eiendommens adresse, registerbetegnelse og kommune,avtalepartenes navn,avtalt vederlag, ogoppdragsansvarlig.
+Oppdrag som kun gjelder oppgjør for andre eiendomsmeglingsforetak i medhold av [eiendomsmeglingsloven § 3-5](lov/2007-06-29-73/§3-5), skal bare føres i særskilt oppdragsjournal for oppgjørsforetak. Hvert oppdrag som mottas, skal snarest mulig innføres i journalen. Oppdragene skal innføres i tidsrekkefølge og nummerorden. Journalen skal minst inneholde følgende opplysninger:
+
+1. navn og organisasjonsnummer på eiendomsmeglingsforetaket som har gitt oppdraget,
+2. tidspunkt for når oppdraget er mottatt,
+3. eiendommens adresse, registerbetegnelse og kommune,
+4. avtalepartenes navn,
+5. avtalt vederlag, og
+6. oppdragsansvarlig.
 
 > Endret ved [forskrift 24 feb 2010 nr. 238](forskrift/2010-02-24-238) (i kraft 1 juli 2010).
 
 ### § 3-5. Budjournal
 
-Hvert bud som eiendomsmeglingsforetaket mottar skal snarest mulig innføres i en budjournal. Budene skal ordnes etter det enkelte oppdrag. Journalen skal minst inneholde følgende opplysninger:tidspunkt for når budet er mottatt,budgiverens eller fullmektigens navn, adresse og/eller telefonnummer,budets størrelse,eventuelle forbehold og tidspunktet for eventuelt bortfall av slike forbehold,akseptfrist, ogtidspunkt for avslag eller aksept.
+Hvert bud som eiendomsmeglingsforetaket mottar skal snarest mulig innføres i en budjournal. Budene skal ordnes etter det enkelte oppdrag. Journalen skal minst inneholde følgende opplysninger:
+
+1. tidspunkt for når budet er mottatt,
+2. budgiverens eller fullmektigens navn, adresse og/eller telefonnummer,
+3. budets størrelse,
+4. eventuelle forbehold og tidspunktet for eventuelt bortfall av slike forbehold,
+5. akseptfrist, og
+6. tidspunkt for avslag eller aksept.
 
 ### § 3-6. Depotjournal
 
-(1) Dersom eiendomsmeglingsforetaket er i besittelse av skjøter, pantobligasjoner, andelsbevis og lignende på vegne av andre skal dette føres i en depotjournal. Også dokumenter som mottas for oversendelse til sentral oppgjørsavdeling eller særskilt oppgjørsforetak skal innføres i journalen. Journalen skal minst inneholde følgende opplysninger:dato for mottak, ogdato for utlevering eller oversendelse av dokumentene.
+(1) Dersom eiendomsmeglingsforetaket er i besittelse av skjøter, pantobligasjoner, andelsbevis og lignende på vegne av andre skal dette føres i en depotjournal. Også dokumenter som mottas for oversendelse til sentral oppgjørsavdeling eller særskilt oppgjørsforetak skal innføres i journalen. Journalen skal minst inneholde følgende opplysninger:
+
+1. dato for mottak, og
+2. dato for utlevering eller oversendelse av dokumentene.
 
 (2) Dokumenter som nevnt i første ledd skal oppbevares avlåst og brannsikkert.
 
@@ -246,7 +313,11 @@ Som klientmidler, jf. [eiendomsmeglingsloven § 3-2](lov/2007-06-29-73/§3-2), r
 
 ### § 3-10. Klientkonto
 
-(1) Klientmidler som ikke umiddelbart utbetales, skal settes på særskilt eller felles klientkonto i finansinstitusjon som har rett til å tilby slik tjeneste i Norge, og som i kontoavtalen har forpliktet seg til:ikke å gjøre motregning gjeldende i klientkontoen for de krav finansinstitusjonen måtte ha overfor eiendomsmeglingsforetaket,å påse at kun personer eller foretak som nevnt i 3-11 første ledd kan disponere over kontoen,å registrere opphør av rett til å disponere over klientkontoen i medhold av [§ 3-11](forskrift/2007-11-23-1318/§3-11) annet ledd når melding etter [§ 3-11](forskrift/2007-11-23-1318/§3-11) fjerde ledd er mottatt.
+(1) Klientmidler som ikke umiddelbart utbetales, skal settes på særskilt eller felles klientkonto i finansinstitusjon som har rett til å tilby slik tjeneste i Norge, og som i kontoavtalen har forpliktet seg til:
+
+1. ikke å gjøre motregning gjeldende i klientkontoen for de krav finansinstitusjonen måtte ha overfor eiendomsmeglingsforetaket,
+2. å påse at kun personer eller foretak som nevnt i 3-11 første ledd kan disponere over kontoen,
+3. å registrere opphør av rett til å disponere over klientkontoen i medhold av [§ 3-11](forskrift/2007-11-23-1318/§3-11) annet ledd når melding etter [§ 3-11](forskrift/2007-11-23-1318/§3-11) fjerde ledd er mottatt.
 
 (2) Klientkonto skal opprettes i foretakets navn og betegnes «klientkonto».
 
@@ -306,7 +377,11 @@ Som klientmidler, jf. [eiendomsmeglingsloven § 3-2](lov/2007-06-29-73/§3-2), r
 
 ### § 4-2. Nærmere krav til studieplan for eiendomsmeglereksamen
 
-Studieplanen skal omfatte:de lovbestemmelser og forskrifter som en utøver av eiendomsmegleryrket berøres av,eiendomsmegling i praksis og dokumentbehandling, samtregnskapslære, økonomi og oppgjør ved omsetning av rettigheter i fast eiendom, herunder behandling av klientmidler.
+Studieplanen skal omfatte:
+
+1. de lovbestemmelser og forskrifter som en utøver av eiendomsmegleryrket berøres av,
+2. eiendomsmegling i praksis og dokumentbehandling, samt
+3. regnskapslære, økonomi og oppgjør ved omsetning av rettigheter i fast eiendom, herunder behandling av klientmidler.
 
 ### § 4-3. (Opphevet)
 
@@ -316,7 +391,12 @@ Studieplanen skal omfatte:de lovbestemmelser og forskrifter som en utøver av ei
 
 (1) Som godkjent praktisk erfaring, jf. [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2) første ledd nr. 3 og [§ 4-3](lov/2007-06-29-73/§4-3) første ledd nr. 2, regnes praksis som eiendomsmeglerfullmektig i eiendomsmeglingsforetak. Tilsvarende gjelder praksis som eiendomsmeglerfullmektig hos advokat som driver tilstrekkelig omfattende eiendomsmegling. Arbeidsområdet må dekke alle sider av ordinær eiendomsmeglingsvirksomhet ved omsetning av rettigheter til fast eiendom i Norge.
 
-(2) Finanstilsynet kan etter søknad godkjenne praktisk erfaring fra:foretak eller filial som i det vesentlige forestår oppgjør,foretak eller filial som i det vesentlige formidler leiekontrakter til fast eiendom,foretak eller filial som i det vesentlige formidler eiendom beliggende i utlandet,eiendomsmeglingsvirksomhet i utlandet.
+(2) Finanstilsynet kan etter søknad godkjenne praktisk erfaring fra:
+
+1. foretak eller filial som i det vesentlige forestår oppgjør,
+2. foretak eller filial som i det vesentlige formidler leiekontrakter til fast eiendom,
+3. foretak eller filial som i det vesentlige formidler eiendom beliggende i utlandet,
+4. eiendomsmeglingsvirksomhet i utlandet.
 
 (3) Dersom praktisk erfaring etter første og annet ledd ikke har omfattet oppgjør, må søkeren ha tre måneders praktisk erfaring fra foretak eller avdeling/filial som kun forestår oppgjør, ha gjennomført 30 oppgjør, eller fullført et oppgjørskurs som på forhånd er godkjent av Finanstilsynet.
 
@@ -332,7 +412,10 @@ Studieplanen skal omfatte:de lovbestemmelser og forskrifter som en utøver av ei
 
 ### § 4-6. Vilkår for utstedelse av eiendomsmeglerbrev til søkere med yrkeskvalifikasjoner fra stater utenfor EØS-området
 
-Eiendomsmeglerbrev kan utstedes til søker som har rett til å drive eiendomsmegling i en stat Norge har inngått avtale om gjensidig godkjenning av eiendomsmeglere med dersom:vedkommende har bestått en egnethetsprøve eller gjennomført en prøveperiode i samsvar med [§ 4-8](forskrift/2007-11-23-1318/§4-8) og [§ 4-9](forskrift/2007-11-23-1318/§4-9), ogvedkommende oppfyller vilkårene i [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2) første ledd nr. 1, 4 og 5.
+Eiendomsmeglerbrev kan utstedes til søker som har rett til å drive eiendomsmegling i en stat Norge har inngått avtale om gjensidig godkjenning av eiendomsmeglere med dersom:
+
+1. vedkommende har bestått en egnethetsprøve eller gjennomført en prøveperiode i samsvar med [§ 4-8](forskrift/2007-11-23-1318/§4-8) og [§ 4-9](forskrift/2007-11-23-1318/§4-9), og
+2. vedkommende oppfyller vilkårene i [eiendomsmeglingsloven § 4-2](lov/2007-06-29-73/§4-2) første ledd nr. 1, 4 og 5.
 
 ### § 4-7. Egnethetsprøve
 
@@ -358,7 +441,10 @@ Eiendomsmeglerbrev kan utstedes til søker som har rett til å drive eiendomsmeg
 
 (3) Finanstilsynet kan stille vilkår om at praksisstedet minst skal gjennomføre et bestemt antall omsetninger årlig for at det skal gis godkjennelse som praksissted.
 
-(4) Praksisstedet må framlegge en plan hvor det minst redegjøres for følgende:hvem som har det faglige ansvaret for oppfølgning av kandidaten i prøveperioden, vedkommende må være eiendomsmegler, jf. loven [§ 4-2](forskrift/2007-11-23-1318/§4-2), jurist med tillatelse etter loven [§ 4-3](forskrift/2007-11-23-1318/§4-3) eller advokat,en opplæringsplan som viser hvilke oppgaver det tas sikte på at kandidaten skal delta i under prøveperioden. Dersom deler av eiendomsmeglingen som f.eks. oppgjør ikke gjennomføres i foretakets lokaler må det redegjøres særskilt for dette.
+(4) Praksisstedet må framlegge en plan hvor det minst redegjøres for følgende:
+
+1. hvem som har det faglige ansvaret for oppfølgning av kandidaten i prøveperioden, vedkommende må være eiendomsmegler, jf. loven [§ 4-2](forskrift/2007-11-23-1318/§4-2), jurist med tillatelse etter loven [§ 4-3](forskrift/2007-11-23-1318/§4-3) eller advokat,
+2. en opplæringsplan som viser hvilke oppgaver det tas sikte på at kandidaten skal delta i under prøveperioden. Dersom deler av eiendomsmeglingen som f.eks. oppgjør ikke gjennomføres i foretakets lokaler må det redegjøres særskilt for dette.
 
 (5) Praksisplanen må vise at praksisperioden vil gi praksiskandidaten innsikt i alle sider av eiendomsmeglingsvirksomheten. Finanstilsynet kan stille ytterligere vilkår til innholdet av planen.
 
@@ -390,7 +476,12 @@ Eiendomsmeglerbrev kan utstedes til søker som har rett til å drive eiendomsmeg
 
 (1) Etterutdanning må kunne dokumenteres fra og med det tredje året etter at vedkommendes engasjement i eiendomsmeglingsvirksomhet ble påbegynt.
 
-(2) Dokumentasjonen skal minst angi:navn på den som arrangerer kurset,emneområde,kort beskrivelse av kursets innhold ogkursdato og varighet.
+(2) Dokumentasjonen skal minst angi:
+
+1. navn på den som arrangerer kurset,
+2. emneområde,
+3. kort beskrivelse av kursets innhold og
+4. kursdato og varighet.
 
 (3) Kopi av dokumentasjon nevnt i annet ledd skal fortløpende gis til fagansvarlig.
 
@@ -400,9 +491,20 @@ Eiendomsmeglerbrev kan utstedes til søker som har rett til å drive eiendomsmeg
 
 ### § 5-1. Foretakets adgang til å drive annen virksomhet
 
-(1) Foretak og advokater som driver eiendomsmegling, jf. [eiendomsmeglingsloven § 2-1](lov/2007-06-29-73/§2-1), kan i tillegg drive:forretningsførsel for gårdeiere og utleieforvaltning,taksering av fast eiendom som foretaket ikke har i oppdrag å formidle,bistand ved gjennomføring av seksjonering av eiendommer og stiftelse av borettslag,formidling av rengjørings- og flyttetjenester og strømprodukter,formidling av innbo- og villaforsikringer, ogvirksomhet nevnt i [eiendomsmeglingsloven § 1-2](lov/2007-06-29-73/§1-2) annet ledd nr. 4, når omsetningen ikke hovedsakelig tar sikte på overdragelse av eiendom eller rettighet som nevnt i [eiendomsmeglingsloven § 1-2](lov/2007-06-29-73/§1-2) nr. 1 til 3, og foretaket skriftlig gjør partene oppmerksomme på at virksomheten ikke er eiendomsmegling og at sikkerhetsstillelsen, jf. [eiendomsmeglingsloven § 2-7](lov/2007-06-29-73/§2-7), ikke gjelder, ogformidling av kreditt når den ikke krever tillatelse etter annen lovgivning.
+(1) Foretak og advokater som driver eiendomsmegling, jf. [eiendomsmeglingsloven § 2-1](lov/2007-06-29-73/§2-1), kan i tillegg drive:
 
-(2) Foretak og advokater som driver eiendomsmegling, jf. [eiendomsmeglingsloven § 2-1](lov/2007-06-29-73/§2-1), kan ikke drive:formidling av eierskifteforsikring mot vederlag, ellerbistand som i det vesentligste omfatter annonsering eller annen markedsføring av fast eiendom, eller på annen måte opptre som representant for bare én part i forbindelse med omsetning av fast eiendom.
+1. forretningsførsel for gårdeiere og utleieforvaltning,
+2. taksering av fast eiendom som foretaket ikke har i oppdrag å formidle,
+3. bistand ved gjennomføring av seksjonering av eiendommer og stiftelse av borettslag,
+4. formidling av rengjørings- og flyttetjenester og strømprodukter,
+5. formidling av innbo- og villaforsikringer, og
+6. virksomhet nevnt i [eiendomsmeglingsloven § 1-2](lov/2007-06-29-73/§1-2) annet ledd nr. 4, når omsetningen ikke hovedsakelig tar sikte på overdragelse av eiendom eller rettighet som nevnt i [eiendomsmeglingsloven § 1-2](lov/2007-06-29-73/§1-2) nr. 1 til 3, og foretaket skriftlig gjør partene oppmerksomme på at virksomheten ikke er eiendomsmegling og at sikkerhetsstillelsen, jf. [eiendomsmeglingsloven § 2-7](lov/2007-06-29-73/§2-7), ikke gjelder, og
+7. formidling av kreditt når den ikke krever tillatelse etter annen lovgivning.
+
+(2) Foretak og advokater som driver eiendomsmegling, jf. [eiendomsmeglingsloven § 2-1](lov/2007-06-29-73/§2-1), kan ikke drive:
+
+1. formidling av eierskifteforsikring mot vederlag, eller
+2. bistand som i det vesentligste omfatter annonsering eller annen markedsføring av fast eiendom, eller på annen måte opptre som representant for bare én part i forbindelse med omsetning av fast eiendom.
 
 ### § 5-2. Særlige regler om formidling av kreditt
 
@@ -418,7 +520,14 @@ Personer som nevnt i [eiendomsmeglingsloven § 5-2](lov/2007-06-29-73/§5-2) fø
 
 ### § 5-4. Register over rettigheter i fast eiendom
 
-(1) Foretak og advokater som driver eiendomsmegling, skal føre register over rettigheter som nevnt i [§ 5-3](forskrift/2007-11-23-1318/§5-3). Følgende opplysninger skal framkomme av registeret:type rettighet,tidspunkt for erverv og eventuelt avhending av rettigheten,hvordan rettigheten er ervervet eller avhendet,eiendommens adresse, registerbetegnelse og kommune,eventuelt vederlag, ogved erverv eller avhending av andeler eller aksjer; selskapets navn og organisasjonsnummer.
+(1) Foretak og advokater som driver eiendomsmegling, skal føre register over rettigheter som nevnt i [§ 5-3](forskrift/2007-11-23-1318/§5-3). Følgende opplysninger skal framkomme av registeret:
+
+1. type rettighet,
+2. tidspunkt for erverv og eventuelt avhending av rettigheten,
+3. hvordan rettigheten er ervervet eller avhendet,
+4. eiendommens adresse, registerbetegnelse og kommune,
+5. eventuelt vederlag, og
+6. ved erverv eller avhending av andeler eller aksjer; selskapets navn og organisasjonsnummer.
 
 (2) Opplysningene skal snarest mulig innføres i registeret. Det som er ført i registeret må ikke ved overstrykninger eller på annen måte gjøres uleselig.
 
@@ -428,9 +537,22 @@ Personer som nevnt i [eiendomsmeglingsloven § 5-2](lov/2007-06-29-73/§5-2) fø
 
 ### § 6-1. Nærmere regler om arbeidsfordelingen mellom ansvarlig megler og medhjelper
 
-(1) Bare ansvarlig megler, jf. eiendomsmeglingsloven 6-2 annet ledd, kan:inngå oppdragsavtale, jf. [eiendomsmeglingsloven § 6-4](lov/2007-06-29-73/§6-4),besiktige og undersøke eiendommen,gi opplysninger og råd som kan være av betydning for handelen og gjennomføringen av denne,avholde budrunde, samtavholde kontraktsmøte.
+(1) Bare ansvarlig megler, jf. eiendomsmeglingsloven 6-2 annet ledd, kan:
 
-(2) Medhjelpere, jf. [eiendomsmeglingsloven § 6-2](lov/2007-06-29-73/§6-2) annet ledd, kan:innhente opplysninger til salgsoppgave og utforme utkast til denne,utforme utkast til salgsannonser og annen markedsføring,forestå visninger,utarbeide utkast til kjøpekontrakt,utarbeide og klargjøre dokumenter som skal tinglyses ogutarbeide utkast til særskilte avtaler, søknader eller andre dokumenter tilknyttet handelen oppdraget gjelder, herunder dokumenter vedrørende oppgjør.
+1. inngå oppdragsavtale, jf. [eiendomsmeglingsloven § 6-4](lov/2007-06-29-73/§6-4),
+2. besiktige og undersøke eiendommen,
+3. gi opplysninger og råd som kan være av betydning for handelen og gjennomføringen av denne,
+4. avholde budrunde, samt
+5. avholde kontraktsmøte.
+
+(2) Medhjelpere, jf. [eiendomsmeglingsloven § 6-2](lov/2007-06-29-73/§6-2) annet ledd, kan:
+
+1. innhente opplysninger til salgsoppgave og utforme utkast til denne,
+2. utforme utkast til salgsannonser og annen markedsføring,
+3. forestå visninger,
+4. utarbeide utkast til kjøpekontrakt,
+5. utarbeide og klargjøre dokumenter som skal tinglyses og
+6. utarbeide utkast til særskilte avtaler, søknader eller andre dokumenter tilknyttet handelen oppdraget gjelder, herunder dokumenter vedrørende oppgjør.
 
 (3) Med de begrensninger som følger av fjerde ledd, skal ansvarlig megler instruere, kontrollere og godkjenne medhjelpers arbeid, jf. annet ledd.
 
@@ -478,13 +600,31 @@ Personer som nevnt i [eiendomsmeglingsloven § 5-2](lov/2007-06-29-73/§5-2) fø
 
 ### § 7-1. Oppdragstakers plikt til å gi tilbud basert på timepris
 
-Tilbud basert på timepris skal minst inneholde følgende opplysninger:pris per time inkludert merverdiavgift,anslag over antall timer som vil medgå til:befaring, innhenting av opplysninger, salgsforberedelse, utarbeidelse av salgsoppgave og utforming/bestilling av annonser,visninger,annen kontakt med interessenter og budrunde,utforming av kontrakt og avholdelse av kontraktsmøte, oggjennomføring av handelen, jf. [eiendomsmeglingsloven § 6-10 første ledd](lov/2007-06-29-73/§6-10/ledd/1).totalt anslått tidsbruk for gjennomføringen av oppdraget,samlet vederlag basert på oppgitt timepris og tidsbruk for gjennomføringen av oppdraget, ogenkeltvis og samlet overslag over størrelsen på utleggene, jf. [eiendomsmeglingsloven § 6-4](lov/2007-06-29-73/§6-4) første ledd nr. 5.
+Tilbud basert på timepris skal minst inneholde følgende opplysninger:
+
+1. pris per time inkludert merverdiavgift,
+2. anslag over antall timer som vil medgå til:
+
+   1. befaring, innhenting av opplysninger, salgsforberedelse, utarbeidelse av salgsoppgave og utforming/bestilling av annonser,
+   2. visninger,
+   3. annen kontakt med interessenter og budrunde,
+   4. utforming av kontrakt og avholdelse av kontraktsmøte, og
+   5. gjennomføring av handelen, jf. [eiendomsmeglingsloven § 6-10 første ledd](lov/2007-06-29-73/§6-10/ledd/1).
+3. totalt anslått tidsbruk for gjennomføringen av oppdraget,
+4. samlet vederlag basert på oppgitt timepris og tidsbruk for gjennomføringen av oppdraget, og
+5. enkeltvis og samlet overslag over størrelsen på utleggene, jf. [eiendomsmeglingsloven § 6-4](lov/2007-06-29-73/§6-4) første ledd nr. 5.
 
 > Endret ved forskrift [10 juni 2025 nr. 986](forskrift/2025-06-10-986) (i kraft 1 juli 2025).
 
 ### § 7-2. Oppdragstakers plikt til å skrive regning
 
-(1) Regning, jf. [eiendomsmeglingsloven § 7-2 tredje ledd](lov/2007-06-29-73/§7-2/ledd/3), skal gi opplysning om den tid oppdragstaker har brukt på:befaring, innhenting av opplysninger, salgsforberedelse, utarbeidelse av salgsoppgave og utforming/bestilling av annonser,visninger,annen kontakt med interessenter og budrunde,utforming av kontrakt og avholdelse av kontraktsmøte, oggjennomføring av handelen, jf. [eiendomsmeglingsloven § 6-10 første ledd](lov/2007-06-29-73/§6-10/ledd/1).
+(1) Regning, jf. [eiendomsmeglingsloven § 7-2 tredje ledd](lov/2007-06-29-73/§7-2/ledd/3), skal gi opplysning om den tid oppdragstaker har brukt på:
+
+1. befaring, innhenting av opplysninger, salgsforberedelse, utarbeidelse av salgsoppgave og utforming/bestilling av annonser,
+2. visninger,
+3. annen kontakt med interessenter og budrunde,
+4. utforming av kontrakt og avholdelse av kontraktsmøte, og
+5. gjennomføring av handelen, jf. [eiendomsmeglingsloven § 6-10 første ledd](lov/2007-06-29-73/§6-10/ledd/1).
 
 (2) Regning skal i tillegg inneholde en spesifisert oversikt over alle utlegg, jf. [eiendomsmeglingsloven § 7-5](lov/2007-06-29-73/§7-5).
 

@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1.
 
-[Lov 15. juni 1990 nr. 27](lov/1990-06-15-27) om vern av kretsmønstre for integrerte kretser (kretsmønsterloven) kommer foruten på kretsmønstre som nevnt i loven [§ 10](lov/1990-06-15-27/§10) også til anvendelse påkretsmønstre som er frembrakt av en person som er statsborger av eller bosatt i en stat som er medlem av Verdens handelsorganisasjon, med mindre eneretten tilfaller eller går direkte over til arbeids- eller oppdragsgiver,kretsmønstre som er frembrakt i et arbeids- eller oppdragsforhold, når eneretten tilfaller eller går direkte over tilen fysisk person som er statsborger av eller bosatt i en stat som er medlem av Verdens handelsorganisasjon, elleren juridisk eller fysisk person som driver ervervsvirksomhet for frembringelse av kretsmønstre eller fremstilling av integrerte kretser i en stat som er medlem av Verdens handelsorganisasjon, ogkretsmønstre for øvrig når kretsmønsteret utnyttes ervervsmessig innenfor Det europeiske økonomiske samarbeidsområde før det har vært utnyttet ervervsmessig noe annet sted, og den som første gang utnytter det ervervsmessig innenfor Det europeiske økonomiske samarbeidsområde er en juridisk eller fysisk person som nevnt i nr. 2 bokstav a og b som har fått enerett til å utnytte det ervervsmessig innenfor Det europeiske økonomiske samarbeidsområde av den som har råderetten over kretsmønsteret.
+[Lov 15. juni 1990 nr. 27](lov/1990-06-15-27) om vern av kretsmønstre for integrerte kretser (kretsmønsterloven) kommer foruten på kretsmønstre som nevnt i loven [§ 10](lov/1990-06-15-27/§10) også til anvendelse på
+
+1. kretsmønstre som er frembrakt av en person som er statsborger av eller bosatt i en stat som er medlem av Verdens handelsorganisasjon, med mindre eneretten tilfaller eller går direkte over til arbeids- eller oppdragsgiver,
+2. kretsmønstre som er frembrakt i et arbeids- eller oppdragsforhold, når eneretten tilfaller eller går direkte over til
+
+   1. en fysisk person som er statsborger av eller bosatt i en stat som er medlem av Verdens handelsorganisasjon, eller
+   2. en juridisk eller fysisk person som driver ervervsvirksomhet for frembringelse av kretsmønstre eller fremstilling av integrerte kretser i en stat som er medlem av Verdens handelsorganisasjon, og
+3. kretsmønstre for øvrig når kretsmønsteret utnyttes ervervsmessig innenfor Det europeiske økonomiske samarbeidsområde før det har vært utnyttet ervervsmessig noe annet sted, og den som første gang utnytter det ervervsmessig innenfor Det europeiske økonomiske samarbeidsområde er en juridisk eller fysisk person som nevnt i nr. 2 bokstav a og b som har fått enerett til å utnytte det ervervsmessig innenfor Det europeiske økonomiske samarbeidsområde av den som har råderetten over kretsmønsteret.
 
 For første ledd nr. 3 gjelder [kretsmønsterloven § 5](lov/1990-06-15-27/§5) tredje ledd tilsvarende.
 

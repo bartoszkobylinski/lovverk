@@ -40,7 +40,12 @@ Loven gjelder på norsk territorium. Loven gjelder for Svalbard, Jan Mayen og bi
 
 ## § 4. Vilkår for tilskudd
 
-(1) Foretak som nevnt i [§ 3](lov/2020-04-17-23/§3) og som oppfyller følgende vilkår kan få tilskudd:Foretaket har ansatte. Dette vilkåret gjelder ikke for enkeltpersonforetak og ansvarlige selskap der foretakets inntekt er innehavers eller minst en av deltagernes hovedinntektForetaket har i perioden det søkes tilskudd om hatt et stort omsetningsfallForetaket utøver lovlig virksomhetForetaket er ikke under konkursbehandling
+(1) Foretak som nevnt i [§ 3](lov/2020-04-17-23/§3) og som oppfyller følgende vilkår kan få tilskudd:
+
+- Foretaket har ansatte. Dette vilkåret gjelder ikke for enkeltpersonforetak og ansvarlige selskap der foretakets inntekt er innehavers eller minst en av deltagernes hovedinntekt
+- Foretaket har i perioden det søkes tilskudd om hatt et stort omsetningsfall
+- Foretaket utøver lovlig virksomhet
+- Foretaket er ikke under konkursbehandling
 
 (2) Departementet kan gi forskrift til utfylling av denne paragrafen, herunder om beregning av omsetning og omsetningsfallets størrelse, og fastsette ytterligere vilkår.
 

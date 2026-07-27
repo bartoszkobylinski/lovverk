@@ -106,7 +106,11 @@ Subsidiær frihetsstraff etter straff i form av bot, skal alltid utholdes uavkor
 
 ### § 3-3. Endringer i beregnet straffetid
 
-I straffetiden inngår ikke den tiddomfelte har vært innvilget avbrudd i straffegjennomføringen i medhold av [lov om gjennomføring av straff § 35](lov/2001-05-18-21/§35)domfelte har vært fraværende i forbindelse med rømning, unnvikelse eller uteblivelse etter innvilget lovlig fravær fra straffegjennomføringstraffegjennomføringen avbrytes ved at domfelte overføres til varetektsfengsling i annen sak eller til annen strafferettslig reaksjon enn den han er undergitt.
+I straffetiden inngår ikke den tid
+
+1. domfelte har vært innvilget avbrudd i straffegjennomføringen i medhold av [lov om gjennomføring av straff § 35](lov/2001-05-18-21/§35)
+2. domfelte har vært fraværende i forbindelse med rømning, unnvikelse eller uteblivelse etter innvilget lovlig fravær fra straffegjennomføring
+3. straffegjennomføringen avbrytes ved at domfelte overføres til varetektsfengsling i annen sak eller til annen strafferettslig reaksjon enn den han er undergitt.
 
 Ved fravær som nevnt i første ledd skal det foretas omberegning av tidspunktet for endt straffegjennomføring, eventuelt prøveløslatelse. Domfelte skal underrettes om de korrigerte tidspunkter.
 
@@ -224,7 +228,13 @@ Fengselets tilsatte kan bistå ved medisinutdeling hvis praktiske hensyn nødven
 
 ### § 3-18. Reportasje og intervju
 
-I forbindelse med reportasje fra et fengsel kan det fastsettes vilkår omat det ikke uten samtykke fra vedkommende innsatt offentliggjøres opplysninger om innsatte i tekst eller bildeat det ikke tas fotografi av tilsatt uten at det klart fremgår av billedteksten at vedkommende tjenestegjør i fengselet. Tilsatte i fengsel kan nekte å bli fotografert og få sitt navn offentliggjortat en tilsatt skal følge reporteren rundt på fengselsområdet under reporterens opphold. Vilkåret settes i fengsel med høyt sikkerhetsnivå og i avdeling med særlig høyt sikkerhetsnivåat reporteren ikke henvender seg til innsatte uten at vedkommende har gitt uttrykkelig tillatelseat tillatelsen begrenses til bestemte områder eller lokaler i fengselet.
+I forbindelse med reportasje fra et fengsel kan det fastsettes vilkår om
+
+- at det ikke uten samtykke fra vedkommende innsatt offentliggjøres opplysninger om innsatte i tekst eller bilde
+- at det ikke tas fotografi av tilsatt uten at det klart fremgår av billedteksten at vedkommende tjenestegjør i fengselet. Tilsatte i fengsel kan nekte å bli fotografert og få sitt navn offentliggjort
+- at en tilsatt skal følge reporteren rundt på fengselsområdet under reporterens opphold. Vilkåret settes i fengsel med høyt sikkerhetsnivå og i avdeling med særlig høyt sikkerhetsnivå
+- at reporteren ikke henvender seg til innsatte uten at vedkommende har gitt uttrykkelig tillatelse
+- at tillatelsen begrenses til bestemte områder eller lokaler i fengselet.
 
 Andre vilkår kan fastsettes dersom det anses nødvendig for å sikre ro, orden og sikkerhet i fengselet.
 
@@ -294,7 +304,10 @@ Ett eller flere kontrolltiltak kan brukes i kombinasjon.
 
 ### § 3-26. Undersøkelser for å avdekke bruk av rusmidler, med videre
 
-Gjennomføring av urinprøver skal skje etter én av følgende fremgangsmåter:prøven avgis under tilsyn, ellerprøven kan avgis uten de tilsattes tilsyn dersom den innsatte på forhånd har tatt av seg alt tøy. Prøve kan deretter avgis i et egnet «nakent» rom, uten vannforsyning.
+Gjennomføring av urinprøver skal skje etter én av følgende fremgangsmåter:
+
+- prøven avgis under tilsyn, eller
+- prøven kan avgis uten de tilsattes tilsyn dersom den innsatte på forhånd har tatt av seg alt tøy. Prøve kan deretter avgis i et egnet «nakent» rom, uten vannforsyning.
 
 Spørsmålet om eneromsplassering med spesialtoalett skal forelegges for regionalt nivå dersom det anses nødvendig å opprettholde tiltaket utover 3 dager.
 
@@ -400,7 +413,15 @@ Utelukkelse etter [straffegjennomføringsloven § 39](lov/2001-05-18-21/§39) ko
 
 Tap av dagpenger kan ilegges for en periode av inntil 14 dager og gjelder kun tap av dagpenger som ikke er opptjent på reaksjonstidspunktet. Den dagpengesatsen innsatte ellers tilstås, skal reduseres med inntil 50% i reaksjonsperioden.
 
-Følgende tap av begunstigelse kan ilegges (uttømmende).Tillatelse til å se på fjernsyn på innsattes rom.Tillatelse til å ha privat datautstyr på innsattes rom.Tillatelse til å ha tillitsjobb i eller utenfor fengselets område.Tillatelse til å foreta innkjøp utover nødvendige artikler.Tillatelse til å drive hobbyvirksomhet.Tapet kan gjelde inntil videre eller for et bestemt tidsrom, men ikke utover 20 dager. Tidsbegrensningen gjelder ikke tap av tillatelse til å ha tillitsjobb.
+Følgende tap av begunstigelse kan ilegges (uttømmende).
+
+- Tillatelse til å se på fjernsyn på innsattes rom.
+- Tillatelse til å ha privat datautstyr på innsattes rom.
+- Tillatelse til å ha tillitsjobb i eller utenfor fengselets område.
+- Tillatelse til å foreta innkjøp utover nødvendige artikler.
+- Tillatelse til å drive hobbyvirksomhet.
+
+Tapet kan gjelde inntil videre eller for et bestemt tidsrom, men ikke utover 20 dager. Tidsbegrensningen gjelder ikke tap av tillatelse til å ha tillitsjobb.
 
 ### § 3-38. Reaksjon på brudd. Uttalelsesrett. Forsøk. Gjentagelse
 
@@ -450,7 +471,12 @@ Domfelte skal selv dekke reiseutgifter i forbindelse med oppmøteplikten. Krimin
 
 Perioden med møteplikt kan forlenges med inntil 3 måneder. Regionalt nivå kan fastsette ytterligere forlengelse, men ikke utover 1 år. I tilfeller der hensynet til en sikkerhetsmessig forsvarlig gjennomføring av prøveløslatelsen gjør det særlig påkrevet, kan regionalt nivå likevel forlenge perioden med møteplikt utover 1 år. Perioden kan ikke forlenges ut over prøvetidens utløp.
 
-Møtepliktsperioden opphører nården fastsatte perioden utløper, herunder etter forlengelsefriomsorgskontoret bestemmer detdet avsies dom eller kjennelse som følge av brudd på prøveløslatelsesvilkår, og den nye dommen utelukker møtepliktoppdraget overføres til annet land.
+Møtepliktsperioden opphører når
+
+1. den fastsatte perioden utløper, herunder etter forlengelse
+2. friomsorgskontoret bestemmer det
+3. det avsies dom eller kjennelse som følge av brudd på prøveløslatelsesvilkår, og den nye dommen utelukker møteplikt
+4. oppdraget overføres til annet land.
 
 > Endret ved [forskrift 26 juni 2014 nr. 878](forskrift/2014-06-26-878).
 
@@ -694,7 +720,12 @@ Kriminalomsorgen skal kontrollere at de fastsatte vilkårene overholdes og at gj
 
 Kriminalomsorgen kan foreta uanmeldte kontrollbesøk i hjemmet og på sysselsettingsplassen for å kontrollere at vilkårene for straffegjennomføring med elektronisk kontroll overholdes.
 
-Dersom kontroll med radiofrekvensteknologi ikke er tilstrekkelig for å kontrollere at vilkårene for straffegjennomføring med elektronisk kontroll overholdes, kan kriminalomsorgen i tillegg beslutte bruk avsporingsteknologi,videosamtale,fjernalkoholtesting, ogbiometri, herunder fingeravtrykk og ansiktsgjenkjenning.
+Dersom kontroll med radiofrekvensteknologi ikke er tilstrekkelig for å kontrollere at vilkårene for straffegjennomføring med elektronisk kontroll overholdes, kan kriminalomsorgen i tillegg beslutte bruk av
+
+1. sporingsteknologi,
+2. videosamtale,
+3. fjernalkoholtesting, og
+4. biometri, herunder fingeravtrykk og ansiktsgjenkjenning.
 
 Brukes sporingsteknologi, skal kriminalomsorgen benytte situasjonsbestemt sporing. Med situasjonsbestemt sporing menes sporing som aktiveres når domfelte bryter vilkårene som er satt etter [straffegjennomføringsloven § 16](lov/2001-05-18-21/§16) tredje ledd bokstav d og e. Dersom domfelte bryter disse vilkårene, kan kriminalomsorgen foreta kontinuerlig sporing av den domfeltes geografiske posisjon.
 
@@ -972,6 +1003,11 @@ Kriminalomsorgsdirektoratet gir nærmere retningslinjer til straffegjennomførin
 
 ### § 9-2. Ikrafttredelse
 
-Forskriften gjelder fra 1. mars 2002. Fra samme tidspunkt oppheves:[forskrift av 12. desember 1961 nr. 8944](forskrift/1961-12-12-8944) for fengselsvesenet (fengselsreglement),[forskrift av 1. februar 1965 nr. 3632](forskrift/1965-02-01-3632) om faste besøkende i fengselsvesenets anstalter,[forskrifter av 30. november 1984 nr. 3637](forskrift/1984-11-30-3637) for det direkte tilsyn med innsatte og[forskrift av 22. april 1960 nr. 6](forskrift/1960-04-22-6) om tvangsmidler og våpen i fengselsvesenets anstalter.
+Forskriften gjelder fra 1. mars 2002. Fra samme tidspunkt oppheves:
+
+- [forskrift av 12. desember 1961 nr. 8944](forskrift/1961-12-12-8944) for fengselsvesenet (fengselsreglement),
+- [forskrift av 1. februar 1965 nr. 3632](forskrift/1965-02-01-3632) om faste besøkende i fengselsvesenets anstalter,
+- [forskrifter av 30. november 1984 nr. 3637](forskrift/1984-11-30-3637) for det direkte tilsyn med innsatte og
+- [forskrift av 22. april 1960 nr. 6](forskrift/1960-04-22-6) om tvangsmidler og våpen i fengselsvesenets anstalter.
 
 > Endret ved [forskrifter 2 juli 2007 nr. 878](forskrift/2007-07-02-878), [29 juli 2008 nr. 863](forskrift/2008-07-29-863) (i kraft 1 aug 2008, tidligere § 7-2), [8 feb 2018 nr. 812](forskrift/2018-02-08-812) (i kraft 7 juni 2018, tidligere § 8-2).

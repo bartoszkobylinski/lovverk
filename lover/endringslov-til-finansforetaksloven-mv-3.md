@@ -15,7 +15,7 @@ xml_hash: "c39f1cb145041613000dffa9f3221cc15c6146f779870aefbf821fa852a51bf0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32024L1619"
@@ -94,13 +94,28 @@ det ikke er godtgjort at finansforetaket vil være i stand til å oppfylle krav 
 
 [§ 3-5 første ledd](lov/2015-04-10-17/§3-5/ledd/1) skal lyde:
 
-(1) Foretaket kan ikke ha styremedlemmer, daglig leder, personer i stillinger som inngår i den faktiske ledelsen av virksomheten eller deler av denne, eller personer med nøkkelfunksjoner som:ikke kan antas å ha de nødvendige kvalifikasjoner og yrkeserfaring til å utøve stillingen eller vervet,er dømt for straffbart forhold, og det straffbare forholdet gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte,i stilling eller ved utøvelsen av andre verv har utvist en slik adferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte.
+(1) Foretaket kan ikke ha styremedlemmer, daglig leder, personer i stillinger som inngår i den faktiske ledelsen av virksomheten eller deler av denne, eller personer med nøkkelfunksjoner som:
+
+1. ikke kan antas å ha de nødvendige kvalifikasjoner og yrkeserfaring til å utøve stillingen eller vervet,
+2. er dømt for straffbart forhold, og det straffbare forholdet gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte,
+3. i stilling eller ved utøvelsen av andre verv har utvist en slik adferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte.
 
 [§ 3-5 tredje ledd](lov/2015-04-10-17/§3-5/ledd/3) oppheves.
 
 [§ 3-7 første ledd](lov/2015-04-10-17/§3-7/ledd/1) skal lyde:
 
-(1) Departementet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår for en tillatelse etter denne loven dersom:finansforetaket ikke har begynt sin virksomhet innen ett år fra den dag tillatelsen ble gitt, gir uttrykkelig avkall på tillatelsen eller ikke har drevet aktiv konsesjonspliktig virksomhet siste seks måneder,finansforetaket har fått tillatelsen ved bruk av uriktige opplysninger eller andre uregelmessigheter,finansforetaket ikke lenger oppfyller vilkår for tillatelsen,finansforetaket foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, eller i henhold til konsesjonsvilkår eller vedtekter,finansforetaket unnlater å etterkomme pålegg fra Finanstilsynet,styremedlemmer, daglig leder eller person som inngår i den faktiske ledelsen av virksomheten eller deler av denne, har handlet på en slik måte at kravene til ledelsen etter [§ 3-5](lov/2015-04-10-17/§3-5) ikke lenger er oppfylt, herunder at personer i styret eller ledelsen slutter i løpet av det første hele driftsår etter at virksomheten er satt i gang,eierforholdene i foretaket er endret ved erverv i strid med reglene i [kapittel 6](lov/2015-04-10-17/kap6) ellerfinansforetaket ikke oppfyller soliditetskrav fastsatt i eller i medhold av lov eller det er grunn til å tro at finansforetaket ikke lenger er i stand til å oppfylle sine forpliktelser, herunder særlig ikke vil være i stand til å honorere innskytere,finansforetaket ville utgjøre en trussel mot betalingssystemets stabilitet eller tilliten til det, dersom det fortsatte sin betalingstjenestevirksomhet,finansforetaket bare driver virksomhet som nevnt i [§ 2-8 a](lov/2015-04-10-17/§2-8a), og i fem sammenhengende år har hatt gjennomsnittlig samlede eiendeler under beløpstersklene som nevnt i den paragrafen.
+(1) Departementet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår for en tillatelse etter denne loven dersom:
+
+1. finansforetaket ikke har begynt sin virksomhet innen ett år fra den dag tillatelsen ble gitt, gir uttrykkelig avkall på tillatelsen eller ikke har drevet aktiv konsesjonspliktig virksomhet siste seks måneder,
+2. finansforetaket har fått tillatelsen ved bruk av uriktige opplysninger eller andre uregelmessigheter,
+3. finansforetaket ikke lenger oppfyller vilkår for tillatelsen,
+4. finansforetaket foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, eller i henhold til konsesjonsvilkår eller vedtekter,
+5. finansforetaket unnlater å etterkomme pålegg fra Finanstilsynet,
+6. styremedlemmer, daglig leder eller person som inngår i den faktiske ledelsen av virksomheten eller deler av denne, har handlet på en slik måte at kravene til ledelsen etter [§ 3-5](lov/2015-04-10-17/§3-5) ikke lenger er oppfylt, herunder at personer i styret eller ledelsen slutter i løpet av det første hele driftsår etter at virksomheten er satt i gang,
+7. eierforholdene i foretaket er endret ved erverv i strid med reglene i [kapittel 6](lov/2015-04-10-17/kap6) eller
+8. finansforetaket ikke oppfyller soliditetskrav fastsatt i eller i medhold av lov eller det er grunn til å tro at finansforetaket ikke lenger er i stand til å oppfylle sine forpliktelser, herunder særlig ikke vil være i stand til å honorere innskytere,
+9. finansforetaket ville utgjøre en trussel mot betalingssystemets stabilitet eller tilliten til det, dersom det fortsatte sin betalingstjenestevirksomhet,
+10. finansforetaket bare driver virksomhet som nevnt i [§ 2-8 a](lov/2015-04-10-17/§2-8a), og i fem sammenhengende år har hatt gjennomsnittlig samlede eiendeler under beløpstersklene som nevnt i den paragrafen.
 
 – – –
 
@@ -242,7 +257,9 @@ Finanstilsynet kan i enkeltvedtak fastsette høyere kapitalkrav eller virksomhet
 
 [§ 14-6 tredje ledd annet punktum bokstav g](lov/2015-04-10-17/§14-6/ledd/3/setning/2/bokstav/g) og ny bokstav h skal lyde:
 
-å benytte årets resultat til å øke kjernekapitaldekningen og ikke å utbetale utbytte og rente på kjernekapital ,å redusere risikoen knyttet til bærekraftsforhold, herunder risikoer som oppstår som følge av endring og omstilling til regulatoriske bærekraftsmål, ved å endre organiseringen og styringen av virksomheten, strategier og risikostyring, og fastsette strengere mål og tiltak enn i foretakets planer for omstilling.
+å benytte årets resultat til å øke kjernekapitaldekningen og ikke å utbetale utbytte og rente på kjernekapital ,
+
+å redusere risikoen knyttet til bærekraftsforhold, herunder risikoer som oppstår som følge av endring og omstilling til regulatoriske bærekraftsmål, ved å endre organiseringen og styringen av virksomheten, strategier og risikostyring, og fastsette strengere mål og tiltak enn i foretakets planer for omstilling.
 
 Overskriften til [avsnitt IV i kapittel 14](lov/2015-04-10-17/KAPITTEL_14-4) flyttes til etter [§ 14-17](lov/2015-04-10-17/§14-17).
 

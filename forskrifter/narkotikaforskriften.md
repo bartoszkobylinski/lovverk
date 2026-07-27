@@ -15,7 +15,7 @@ xml_hash: "755a4a1644668709f3b067c6c7b6b73199b4e0b0c2456ced749a0fd80eae63dd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Formål
 
-Formålet med forskriften er åfastsette hva som er narkotikaforebygge spredning og misbruk av narkotika, herunder sikre forsvarlige kontrolltiltaksikre tilgang til nødvendige legemidler til medisinsk og vitenskapelig bruk.
+Formålet med forskriften er å
+
+1. fastsette hva som er narkotika
+2. forebygge spredning og misbruk av narkotika, herunder sikre forsvarlige kontrolltiltak
+3. sikre tilgang til nødvendige legemidler til medisinsk og vitenskapelig bruk.
 
 ## § 2. Virkeområde
 
@@ -38,7 +42,11 @@ Skip, luftfartøy eller annet transportmiddel i internasjonal trafikk som fører
 
 ## § 3. Definisjoner
 
-Som narkotika regnesstoffer, grupper av stoffer, droger, planter og sopper som er oppført i narkotikalisten, jf. [§ 4](forskrift/2013-02-14-199/§4)salter, stereoisomere, estere og etere av stoffer og grupper av stoffer oppført på narkotikalisten, forutsatt at stoffene har, eller antas å ha, psykoaktiv effektblandinger (flytende, i fast form eller i gassfase) med innhold som nevnt i bokstav a) eller b).
+Som narkotika regnes
+
+1. stoffer, grupper av stoffer, droger, planter og sopper som er oppført i narkotikalisten, jf. [§ 4](forskrift/2013-02-14-199/§4)
+2. salter, stereoisomere, estere og etere av stoffer og grupper av stoffer oppført på narkotikalisten, forutsatt at stoffene har, eller antas å ha, psykoaktiv effekt
+3. blandinger (flytende, i fast form eller i gassfase) med innhold som nevnt i bokstav a) eller b).
 
 Med psykoaktiv effekt menes effekt på sentralnervesystemet i form av stimulering eller nedstemthet med minst én av følgende virkninger: hallusinasjoner, forstyrrelser i motoriske funksjoner, tenkning, adferd, oppfattelse eller sinnsstemning.
 
@@ -64,7 +72,10 @@ Denne bestemmelsen gjelder ikke for medbringing av legemidler med innhold av nar
 
 ## § 6. Industriell bruk
 
-Gammabutyrolakton og 1,4-butandiol kan tillates brukt industrielt dersomdet endelige framstilte produkt ikke har, eller antas å ikke ha, psykoaktiv effekt ogråvaren ikke kan, eller antas å ikke kunne, gjenvinnes fra det endelige produkt.
+Gammabutyrolakton og 1,4-butandiol kan tillates brukt industrielt dersom
+
+1. det endelige framstilte produkt ikke har, eller antas å ikke ha, psykoaktiv effekt og
+2. råvaren ikke kan, eller antas å ikke kunne, gjenvinnes fra det endelige produkt.
 
 Industriell bruk av gammabutyrolakton og 1,4-butandiol forutsetter tillatelse fra departementet.
 
@@ -88,9 +99,17 @@ Narkotika skal ikke lagerholdes i større mengder enn det som er nødvendig for 
 
 ## § 9. Innførsel og utførsel
 
-(1) Narkotika kan bare innføres eller utføres av virksomhet som hartillatelse til innførsel eller utførsel av narkotika, jf. [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 23](lov/1992-12-04-132/§23) første og annet ledd, ogsærskilt tillatelse (sertifikat) for hver innførsel og utførsel, jf. [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 23](lov/1992-12-04-132/§23) annet ledd annet punktum.
+(1) Narkotika kan bare innføres eller utføres av virksomhet som har
 
-(2) Søknad om sertifikat sendes Direktoratet for medisinske produkter. Søknaden skal inneholdenavn, besøksadresse og organisasjonsnummer til norskregistrert importør eller eksportørnavn og adresse på den norskregistrerte virksomheten som er lagerholder av narkotikaen, dersom den som innfører eller utfører ikke selv er lagerholdernavn og adresse på utenlandsk importør eller eksportørart og mengde narkotika.
+1. tillatelse til innførsel eller utførsel av narkotika, jf. [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 23](lov/1992-12-04-132/§23) første og annet ledd, og
+2. særskilt tillatelse (sertifikat) for hver innførsel og utførsel, jf. [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 23](lov/1992-12-04-132/§23) annet ledd annet punktum.
+
+(2) Søknad om sertifikat sendes Direktoratet for medisinske produkter. Søknaden skal inneholde
+
+1. navn, besøksadresse og organisasjonsnummer til norskregistrert importør eller eksportør
+2. navn og adresse på den norskregistrerte virksomheten som er lagerholder av narkotikaen, dersom den som innfører eller utfører ikke selv er lagerholder
+3. navn og adresse på utenlandsk importør eller eksportør
+4. art og mengde narkotika.
 
 (3) Lagerholder er den virksomhet som er gitt tillatelse til lagerhold av narkotika etter [forskrift 2. november 2004 nr. 1441](forskrift/2004-11-02-1441) om tilvirkning og import av legemidler, eller [forskrift 21. desember 1993 nr. 1219](forskrift/1993-12-21-1219) om grossistvirksomhet med legemidler.
 
@@ -114,7 +133,47 @@ Narkotika skal ikke lagerholdes i større mengder enn det som er nødvendig for 
 
 ## § 10. Unntak fra krav om inn- og utførselssertifikat
 
-Narkotika som inngår i følgende blandinger er unntatt fra kravet om sertifikat:Blandinger med innhold avAcetyldihydrokodeinKodeinDihydrokodeinEtylmorfinNikokodinNikodikodinNorkodein ogFolkodinsom inneholder høyst 100 mg/dose av stoffet, eller 2,5 % i udoserte preparater, i blanding med ett eller flere andre stoffer.Blandinger med innhold avPropiram som inneholder høyst 100 mg/dose propiram, og er tilsatt minst tilsvarende mengde metylcellulose.Blandinger med innhold avDekstroprofoksifen til peroral bruk som inneholder høyst 135 mg/dose av dekstroprofoksifen, eller 2,5 % i udoserte preparater, og ikke inneholder psykotrope stoffer.Blandinger med innhold avKokain som inneholder høyst 0,1 % kokain.Blandinger med innhold avOpium ellerMorfinsom inneholder høyst 0,2 % morfin i blanding med ett eller flere andre stoffer, og på en slik måte at stoffet vanskelig kan gjenvinnes.Blandinger med innhold avDifenoksin som inneholder høyst 0,5 mg/dose difenoksin, tilsatt en mengde atropinsulfat svarende til minst 5 % av dosen av difenoksin.Blandinger med innhold avDifenoksylat som inneholder høyst 2,5 mg/dose difenoksylat, tilsatt en mengde atropinsulfat svarende til minst 1 % av dosen av difenoksylat.Blandinger med innhold avPulvis ipecacuanhae et opii compositus10 % opium i pulver10 % ipecacuanhaerot, i pulver blandet med80 % hjelpestoffer.
+Narkotika som inngår i følgende blandinger er unntatt fra kravet om sertifikat:
+
+1. Blandinger med innhold av
+
+   - Acetyldihydrokodein
+   - Kodein
+   - Dihydrokodein
+   - Etylmorfin
+   - Nikokodin
+   - Nikodikodin
+   - Norkodein og
+   - Folkodin
+
+   som inneholder høyst 100 mg/dose av stoffet, eller 2,5 % i udoserte preparater, i blanding med ett eller flere andre stoffer.
+2. Blandinger med innhold av
+
+   - Propiram som inneholder høyst 100 mg/dose propiram, og er tilsatt minst tilsvarende mengde metylcellulose.
+3. Blandinger med innhold av
+
+   - Dekstroprofoksifen til peroral bruk som inneholder høyst 135 mg/dose av dekstroprofoksifen, eller 2,5 % i udoserte preparater, og ikke inneholder psykotrope stoffer.
+4. Blandinger med innhold av
+
+   - Kokain som inneholder høyst 0,1 % kokain.
+5. Blandinger med innhold av
+
+   - Opium eller
+   - Morfin
+
+   som inneholder høyst 0,2 % morfin i blanding med ett eller flere andre stoffer, og på en slik måte at stoffet vanskelig kan gjenvinnes.
+6. Blandinger med innhold av
+
+   - Difenoksin som inneholder høyst 0,5 mg/dose difenoksin, tilsatt en mengde atropinsulfat svarende til minst 5 % av dosen av difenoksin.
+7. Blandinger med innhold av
+
+   - Difenoksylat som inneholder høyst 2,5 mg/dose difenoksylat, tilsatt en mengde atropinsulfat svarende til minst 1 % av dosen av difenoksylat.
+8. Blandinger med innhold av
+
+   - Pulvis ipecacuanhae et opii compositus
+   - 10 % opium i pulver
+   - 10 % ipecacuanhaerot, i pulver blandet med
+   - 80 % hjelpestoffer.
 
 > Endret ved forskrift [9 april 2024 nr. 585](forskrift/2024-04-09-585).
 
@@ -136,7 +195,12 @@ Virksomheter som innfører eller utfører narkotika skal levere regnskap til dep
 
 Departementet kan bestemme at kvartalsregnskapet skal leveres på fastsatt skjema.
 
-Regnskapet skal for hver enkel sending opplyse omsertifikatnummerstoffnavnmengdegrensepasseringsdato.
+Regnskapet skal for hver enkel sending opplyse om
+
+1. sertifikatnummer
+2. stoffnavn
+3. mengde
+4. grensepasseringsdato.
 
 Sertifikatgjenparter og ubenyttede sertifikater legges ved regnskapet.
 
@@ -150,9 +214,22 @@ Virksomheter som innfører, utfører, omsetter, oppbevarer eller tilvirker narko
 
 Departementet kan bestemme at årsregnskapet skal leveres på fastsatt skjema.
 
-Regnskapet skal for hvert enkelt stoff opplyse ombeholdning ved årets begynnelse og slutt, herunder råvare, halvfabrikata og bruksferdig preparatmengde innført fra utlandetmengde utført til utlandetmengde innkjøpt innenlands, samt navn på leverandørmengde omsatt innenlands, samt navn på mottaker (kjøper)mengde tap som ikke skyldes tilvirkning, men for eksempel brannskade, tyveri, vannskade eller brekkasjemengde svinn ved tilvirkningmengde brukt ved analyse eller forsøkmengde destruert (fra eget lager).
+Regnskapet skal for hvert enkelt stoff opplyse om
 
-Dersom stoff merket N i narkotikalisten brukes til tilvirkning av annet stoff merket N, skal regnskapet i tillegg opplyse ommengde tilvirketmengde brukt til tilvirkning.
+1. beholdning ved årets begynnelse og slutt, herunder råvare, halvfabrikata og bruksferdig preparat
+2. mengde innført fra utlandet
+3. mengde utført til utlandet
+4. mengde innkjøpt innenlands, samt navn på leverandør
+5. mengde omsatt innenlands, samt navn på mottaker (kjøper)
+6. mengde tap som ikke skyldes tilvirkning, men for eksempel brannskade, tyveri, vannskade eller brekkasje
+7. mengde svinn ved tilvirkning
+8. mengde brukt ved analyse eller forsøk
+9. mengde destruert (fra eget lager).
+
+Dersom stoff merket N i narkotikalisten brukes til tilvirkning av annet stoff merket N, skal regnskapet i tillegg opplyse om
+
+1. mengde tilvirket
+2. mengde brukt til tilvirkning.
 
 Ved tilvirkning av blandinger oppført i denne forskrift [§ 10](forskrift/2013-02-14-199/§10), skal regnskapet også opplyse om mengde stoff brukt i tilvirkningen.
 
@@ -194,7 +271,11 @@ Direktoratet for medisinske produkter kan ved overtredelse av plikt til å lever
 
 ## § 19. Medbringing av legemidler med innhold av narkotika til eget personlig, medisinsk bruk for reisende
 
-Legemidler med innhold av narkotika kan, til eget personlig, medisinsk bruk, medbringes ved inn- eller utreise nårlegemidlene er rekvirert av lege eller tannlegeden reisende kan dokumentere, for eksempel ved hjelp av pakningens etikett, resept eller legeerklæring, at legemidlene er rekvirert til eget personlig, medisinsk brukmengden medbrakt legemiddel ikke overstiger mengdebegrensningen som fremkommer av annet, tredje, fjerde, femte eller sjette ledd.
+Legemidler med innhold av narkotika kan, til eget personlig, medisinsk bruk, medbringes ved inn- eller utreise når
+
+1. legemidlene er rekvirert av lege eller tannlege
+2. den reisende kan dokumentere, for eksempel ved hjelp av pakningens etikett, resept eller legeerklæring, at legemidlene er rekvirert til eget personlig, medisinsk bruk
+3. mengden medbrakt legemiddel ikke overstiger mengdebegrensningen som fremkommer av annet, tredje, fjerde, femte eller sjette ledd.
 
 For reisende med folkeregistrert adresse i Norge gjelder ved innreise til Norge en mengdebegrensning tilsvarende én ukes forbruk etter angitt dosering når legemidlet er anskaffet i utlandet. Den reisende kan likevel medbringe slike legemidler tilsvarende inntil én måneds forbruk etter angitt dosering dersom den reisendes medisinske behov kan dokumenteres ved erklæring fra lege i Norge. Erklæringen må angis på skjema fastsatt av Direktoratet for medisinske produkter, og er gyldig i inntil ett år fra utstedelsesdato med mindre legen har satt en kortere gyldighetsperiode.
 
@@ -1540,7 +1621,11 @@ Generell struktur av benzoylindol-avledede kjemiske forbindelser:
 
 2\. *Katinon-gruppe*
 
-Enhver kjemisk forbindelse, som strukturelt er avledet av 2-amino-1-fenylpropan-1-on ved en eller flere av følgende endringer:Substitusjon i hovedkjedens 3-posisjon med en alkylgruppe (R1 );Substitusjon i aminogruppen med en eller to alkyl-, aryl- eller arylalkylgrupper (R2 eller R2 og R3 ) eller ved inklusjon av nitrogenatomet i en syklisk struktur;Substitusjon i benzenringen med en alkyl-, alkoksy-, alkandiylbis(oksy)-, halogenalkyl- eller halogengrupper og eventuelt ytterligere et antall monovalente substituenter (R4 )n.
+Enhver kjemisk forbindelse, som strukturelt er avledet av 2-amino-1-fenylpropan-1-on ved en eller flere av følgende endringer:
+
+1. Substitusjon i hovedkjedens 3-posisjon med en alkylgruppe (R1 );
+2. Substitusjon i aminogruppen med en eller to alkyl-, aryl- eller arylalkylgrupper (R2 eller R2 og R3 ) eller ved inklusjon av nitrogenatomet i en syklisk struktur;
+3. Substitusjon i benzenringen med en alkyl-, alkoksy-, alkandiylbis(oksy)-, halogenalkyl- eller halogengrupper og eventuelt ytterligere et antall monovalente substituenter (R4 )n.
 
 Generell struktur av katinon-avledede kjemiske forbindelser:
 
@@ -1627,7 +1712,13 @@ Generell struktur av tryptamin-avledede kjemiske forbindelser:
 
 11\. *Fentanyl-gruppe*
 
-Enhver kjemisk forbindelse som strukturelt er avledet av fentanyl ved en eller flere av følgende endringer:Substitusjon i fenetyl-delen av molekylet med enten tiofenyl, furanyl, metoksykarbonyl eller 4-etyl-5-oksotetrazol-1-yl (R1), alkyl eller hydroksy (R2) eller alkyl (R3);Substitusjon i sykloheksanringen med enten alkyl eller alkenyl (R4);Substitusjon i 4-posisjonen i sykloheksanringen med metoksymetyl, metoksykarbonyl eller fenyl (R5);Substitusjon på amidgruppen med alkyl, sykloalkyl, alkenyl, metoksymetyl, fenyl, furanyl eller tetrahydrofuranyl (R6);Substitusjon i anilin-delen av molekylet med enten alkyl, alkoksy eller halogen (R7).
+Enhver kjemisk forbindelse som strukturelt er avledet av fentanyl ved en eller flere av følgende endringer:
+
+1. Substitusjon i fenetyl-delen av molekylet med enten tiofenyl, furanyl, metoksykarbonyl eller 4-etyl-5-oksotetrazol-1-yl (R1), alkyl eller hydroksy (R2) eller alkyl (R3);
+2. Substitusjon i sykloheksanringen med enten alkyl eller alkenyl (R4);
+3. Substitusjon i 4-posisjonen i sykloheksanringen med metoksymetyl, metoksykarbonyl eller fenyl (R5);
+4. Substitusjon på amidgruppen med alkyl, sykloalkyl, alkenyl, metoksymetyl, fenyl, furanyl eller tetrahydrofuranyl (R6);
+5. Substitusjon i anilin-delen av molekylet med enten alkyl, alkoksy eller halogen (R7).
 
 Generell struktur av fentanyl-avledede kjemiske forbindelser:
 
@@ -1641,7 +1732,12 @@ Generell struktur av fentanyl-avledede kjemiske forbindelser:
 
 12\. *Nitazen-gruppe*
 
-Enhver kjemisk forbindelse som er avledet av benzimidazol ved en eller flere av følgende endringer:Substitusjon på det alifatiske nitrogenatomet med enten H eller alkyl (R1) eller alkyl (R2). Nitrogenatomet kan også være inkludert i en syklisk struktur.Substitusjon på alfa-karbonet i benzylgruppen med enten H, alkyl eller karboksamid (R3).Substitusjon i 4-posisjon i benzylringen med enten H, alkoksy, hydroksy, halogen, alkyl, alkylthio eller acetoksy (R4).Substitusjon i benzimidazolringen med enten H, nitro, amino eller alkyl (R5).
+Enhver kjemisk forbindelse som er avledet av benzimidazol ved en eller flere av følgende endringer:
+
+1. Substitusjon på det alifatiske nitrogenatomet med enten H eller alkyl (R1) eller alkyl (R2). Nitrogenatomet kan også være inkludert i en syklisk struktur.
+2. Substitusjon på alfa-karbonet i benzylgruppen med enten H, alkyl eller karboksamid (R3).
+3. Substitusjon i 4-posisjon i benzylringen med enten H, alkoksy, hydroksy, halogen, alkyl, alkylthio eller acetoksy (R4).
+4. Substitusjon i benzimidazolringen med enten H, nitro, amino eller alkyl (R5).
 
 - R1 = H, alkyl.
 - R2 = alkyl.

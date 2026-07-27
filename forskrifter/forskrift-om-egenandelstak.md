@@ -24,7 +24,18 @@ eu_basis: []
 
 ## § 1. Hvilke egenandeler forskriften gjelder for
 
-Forskriften gjelder godkjente egenandeler forlegehjelplaboratorieprøver og radiologiske undersøkelser og behandlingpsykologhjelplegemidler, medisinsk forbruksmateriell og næringsmidlerreiserhelsehjelp som utføres poliklinisk av personell som er nevnt i § 4 i [forskrift om betaling frå pasientar for poliklinisk helsehjelp i spesialisthelsetenesta](forskrift/2016-12-20-1848)tannlegehjelp ved tilstander som beskrevet i [forskrift 16. desember 2014 nr. 1702 § 1](forskrift/2014-12-16-1702/§1) punkt 5 Sykdommer og anomalier i munn og kjeve og punkt 6 Periodontitt, og tannpleierhjelp som beskrevet i [forskrift 16. desember 2014 nr. 1702 § 1](forskrift/2014-12-16-1702/§1) andre leddfysioterapiopphold ved opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetakbehandlingsreiser til utlandet (klimareiser), jf. [forskrift 16. juni 2017 nr. 749 om behandlingsreiser til utlandet (klimareiser)](forskrift/2017-06-16-749).
+Forskriften gjelder godkjente egenandeler for
+
+1. legehjelp
+2. laboratorieprøver og radiologiske undersøkelser og behandling
+3. psykologhjelp
+4. legemidler, medisinsk forbruksmateriell og næringsmidler
+5. reiser
+6. helsehjelp som utføres poliklinisk av personell som er nevnt i § 4 i [forskrift om betaling frå pasientar for poliklinisk helsehjelp i spesialisthelsetenesta](forskrift/2016-12-20-1848)
+7. tannlegehjelp ved tilstander som beskrevet i [forskrift 16. desember 2014 nr. 1702 § 1](forskrift/2014-12-16-1702/§1) punkt 5 Sykdommer og anomalier i munn og kjeve og punkt 6 Periodontitt, og tannpleierhjelp som beskrevet i [forskrift 16. desember 2014 nr. 1702 § 1](forskrift/2014-12-16-1702/§1) andre ledd
+8. fysioterapi
+9. opphold ved opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetak
+10. behandlingsreiser til utlandet (klimareiser), jf. [forskrift 16. juni 2017 nr. 749 om behandlingsreiser til utlandet (klimareiser)](forskrift/2017-06-16-749).
 
 Forskriften gjelder ikke for egenandeler som er betalt i utlandet, unntatt offentlig fastsatte egenandeler som er kommet til fradrag i beregningen av stønad etter reglene i og i medhold av [folketrygdloven § 5-24a](lov/1997-02-28-19/§5-24a).
 

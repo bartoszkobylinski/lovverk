@@ -15,7 +15,7 @@ xml_hash: "1c0a291eb6bb481f1c55cf21f69daf2255e386bf0f55b4272fd6169677321b57"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,7 +86,12 @@ Utsjekk på variant kan dokumenteres av flygeinstruktør i rettighetsbeviset til
 
 4.1*Klasser av fly*
 
-Fly som er sertifisert for operasjon med (1) en flyger, inndeles normalt i følgende klasser:En-motors landflyEn-motors sjøflyFler-motors landflyFlere-motors sjøfly.
+Fly som er sertifisert for operasjon med (1) en flyger, inndeles normalt i følgende klasser:
+
+1. En-motors landfly
+2. En-motors sjøfly
+3. Fler-motors landfly
+4. Flere-motors sjøfly.
 
 4.2*Ervervelse av rettighet på klasse fly – klasserettighet og utsjekk på modeller*
 

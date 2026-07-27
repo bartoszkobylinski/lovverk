@@ -15,7 +15,7 @@ xml_hash: "5691153c02f64e0efe4e1f4805d4047f8312698c7d5e8703f3def838fc599a15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,45 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I denne forskriften menes med*gjesteadvokat:* person med utenlandsk advokatbevilling som utøver advokatvirksomhet i Norge på ikke-permanent basis*advokatgruppe:* enhver enhet, med eller uten status som rettssubjekt, som er dannet i samsvar med lovgivningen i en EØS-stat eller Sveits, der personer med advokatbevilling driver sin yrkesvirksomhet i en gruppe under felles navn*EØS-advokat:* enhver som har rett til å utøve virksomhet under en av følgende profesjonelle titler fra sitt hjemland:Belgia: Avocat/AdvocaatBulgaria: AдвoкатDanmark: AdvokatEstland: VandeadvokaatFinland: Asianajaja/AdvokatFrankrike: AvocatHellas: Δικηγóρoς (Dikigoros)Irland: Barrister/SolicitorIsland: LögmaðurItalia: AvvocatoKroatia: Odvjetnik/OdvjetnicaKypros: ΔικηγóρoςLatvia: Zvērināts advokātsLiechtenstein: RechtsanwaltLitauen: AdvokatasLuxembourg: Avocat-avoueMalta: Avukat/Prokuratur LegaliNederland: AdvocaatNorge: AdvokatPolen: Adwokat/Radca prawnyPortugal: AdvogadoRomania: AvocatSlovakia: Advokát/Komerčný právnikSlovenia: Odvetnik/OdvetnicaSpania: AbogadoSverige: AdvokatTsjekkia: AdvokátTyskland: RechtsanwaltUngarn: ÜgyvédØsterrike: Rechtsanwalt*sveitsisk advokat:* enhver som har rett til å utøve virksomhet under en av følgende profesjonelle titler fra Sveits:Advokat/Rechtsanwalt/Anwalt/Fürsprecher/Fürsprech/Avocat/Avvocato
+I denne forskriften menes med
+
+1. *gjesteadvokat:* person med utenlandsk advokatbevilling som utøver advokatvirksomhet i Norge på ikke-permanent basis
+2. *advokatgruppe:* enhver enhet, med eller uten status som rettssubjekt, som er dannet i samsvar med lovgivningen i en EØS-stat eller Sveits, der personer med advokatbevilling driver sin yrkesvirksomhet i en gruppe under felles navn
+3. *EØS-advokat:* enhver som har rett til å utøve virksomhet under en av følgende profesjonelle titler fra sitt hjemland:
+
+   - Belgia: Avocat/Advocaat
+   - Bulgaria: Aдвoкат
+   - Danmark: Advokat
+   - Estland: Vandeadvokaat
+   - Finland: Asianajaja/Advokat
+   - Frankrike: Avocat
+   - Hellas: Δικηγóρoς (Dikigoros)
+   - Irland: Barrister/Solicitor
+   - Island: Lögmaður
+   - Italia: Avvocato
+   - Kroatia: Odvjetnik/Odvjetnica
+   - Kypros: Δικηγóρoς
+   - Latvia: Zvērināts advokāts
+   - Liechtenstein: Rechtsanwalt
+   - Litauen: Advokatas
+   - Luxembourg: Avocat-avoue
+   - Malta: Avukat/Prokuratur Legali
+   - Nederland: Advocaat
+   - Norge: Advokat
+   - Polen: Adwokat/Radca prawny
+   - Portugal: Advogado
+   - Romania: Avocat
+   - Slovakia: Advokát/Komerčný právnik
+   - Slovenia: Odvetnik/Odvetnica
+   - Spania: Abogado
+   - Sverige: Advokat
+   - Tsjekkia: Advokát
+   - Tyskland: Rechtsanwalt
+   - Ungarn: Ügyvéd
+   - Østerrike: Rechtsanwalt
+4. *sveitsisk advokat:* enhver som har rett til å utøve virksomhet under en av følgende profesjonelle titler fra Sveits:
+
+   - Advokat/Rechtsanwalt/Anwalt/Fürsprecher/Fürsprech/Avocat/Avvocato
 
 ## Kapittel 2. Advokatbevilling
 
@@ -406,7 +444,20 @@ Søknader til Advokattilsynet skal inngis på norsk, dansk, svensk eller engelsk
 
 ### § 51. Forvalterens oppgaver
 
-Advokattilsynet fastsetter forvalterens oppgaver i den enkelte saken. Innenfor rammene av [advokatloven § 47](lov/2022-05-12-28/§47), har forvalteren de samme fullmaktene og rettighetene som den forvaltede advokaten har i advokatvirksomheten. I den grad det er nødvendig i det enkelte oppdraget, skal forvalteren blant annetskaffe seg oversikt over advokatvirksomheten og iverksette umiddelbare tiltak for å hindre at klienter lider rettstap i forbindelse med løpende sakerundersøke om advokaten også har drevet annen virksomhet med naturlig tilknytning til advokatvirksomheten som er underlagt andre kontrollorganers tilsyn, og i så fall informere kontrollorganet om forvalteroppnevningensørge for at advokatens klientbankkonti blir sperretsørge for at advokatens driftskonto blir sperret, dersom dette er nødvendig for å ivareta klientenes interessersikre advokatens klientarkiv, databærere med videresikre testamenter, ektepakter, verdipapirer og andre verdigjenstander som advokaten har til oppbevaring eller forvaltningføre løpende saker og klientmidler tilbake til klienten eller til en ny advokat etter avtale med klienten, dersom forvalteren er oppnevnt med hjemmel i [advokatloven § 46 første ledd bokstav a](lov/2022-05-12-28/§46/ledd/1/bokstav/a) eller bføre løpende saker og klientmidler tilbake til klienten eller til en ny advokat etter avtale med klienten dersom det er nødvendig for å avverge skade eller tap, dersom forvalteren er oppnevnt med hjemmel i [advokatloven § 46 første ledd bokstav c](lov/2022-05-12-28/§46/ledd/1/bokstav/c) eller doverlevere advokatens klientarkiv til Advokattilsynet, jf. [advokatloven § 49 første ledd](lov/2022-05-12-28/§49/ledd/1)veilede klientene slik at de kan ivareta sine interesser, herunder fremskaffe dokumentasjon som er nødvendig for at klientene skal kunne fremme krav under advokatens sikkerhetsstillelse eller forsikringsørge for forsvarlig oppbevaring av advokatens regnskapsmaterialelegge til rette for at bostyrer og dødsbo får de opplysningene som er nødvendige for å inndrive utestående salær, ved advokatens eller advokatforetakets konkurs, eller ved advokatens død
+Advokattilsynet fastsetter forvalterens oppgaver i den enkelte saken. Innenfor rammene av [advokatloven § 47](lov/2022-05-12-28/§47), har forvalteren de samme fullmaktene og rettighetene som den forvaltede advokaten har i advokatvirksomheten. I den grad det er nødvendig i det enkelte oppdraget, skal forvalteren blant annet
+
+1. skaffe seg oversikt over advokatvirksomheten og iverksette umiddelbare tiltak for å hindre at klienter lider rettstap i forbindelse med løpende saker
+2. undersøke om advokaten også har drevet annen virksomhet med naturlig tilknytning til advokatvirksomheten som er underlagt andre kontrollorganers tilsyn, og i så fall informere kontrollorganet om forvalteroppnevningen
+3. sørge for at advokatens klientbankkonti blir sperret
+4. sørge for at advokatens driftskonto blir sperret, dersom dette er nødvendig for å ivareta klientenes interesser
+5. sikre advokatens klientarkiv, databærere med videre
+6. sikre testamenter, ektepakter, verdipapirer og andre verdigjenstander som advokaten har til oppbevaring eller forvaltning
+7. føre løpende saker og klientmidler tilbake til klienten eller til en ny advokat etter avtale med klienten, dersom forvalteren er oppnevnt med hjemmel i [advokatloven § 46 første ledd bokstav a](lov/2022-05-12-28/§46/ledd/1/bokstav/a) eller b
+8. føre løpende saker og klientmidler tilbake til klienten eller til en ny advokat etter avtale med klienten dersom det er nødvendig for å avverge skade eller tap, dersom forvalteren er oppnevnt med hjemmel i [advokatloven § 46 første ledd bokstav c](lov/2022-05-12-28/§46/ledd/1/bokstav/c) eller d
+9. overlevere advokatens klientarkiv til Advokattilsynet, jf. [advokatloven § 49 første ledd](lov/2022-05-12-28/§49/ledd/1)
+10. veilede klientene slik at de kan ivareta sine interesser, herunder fremskaffe dokumentasjon som er nødvendig for at klientene skal kunne fremme krav under advokatens sikkerhetsstillelse eller forsikring
+11. sørge for forsvarlig oppbevaring av advokatens regnskapsmateriale
+12. legge til rette for at bostyrer og dødsbo får de opplysningene som er nødvendige for å inndrive utestående salær, ved advokatens eller advokatforetakets konkurs, eller ved advokatens død
 
 ### § 52. Plikter for advokaten under forvaltning
 
@@ -718,7 +769,14 @@ Hvis omkostningene i forbindelse med et oppdrag må antas å bli uforholdsmessig
 
 3.1.6
 
-En advokat som har påtatt seg et oppdrag, plikter å fullføre det hvis klienten ønsker dette, med mindre det viser seg:at advokaten har fått feilaktige eller ufullstendige opplysningerat klienten ikke vil følge advokatens råd i sakenat klienten ikke på anmodning betaler forskudd eller stiller sikkerhet for salær og omkostningerat klienten ikke på anmodning betaler a konto-regning for utført arbeid og/eller påløpte omkostningerat klienten forårsaker eller medvirker til offentliggjøring i strid med advokatens anmodning om å avstå fra slik offentliggjøring, ellerat det inntreffer slike omstendigheter at det ikke med rimelighet kan forlanges at advokaten fortsetter oppdraget.
+En advokat som har påtatt seg et oppdrag, plikter å fullføre det hvis klienten ønsker dette, med mindre det viser seg:
+
+- at advokaten har fått feilaktige eller ufullstendige opplysninger
+- at klienten ikke vil følge advokatens råd i saken
+- at klienten ikke på anmodning betaler forskudd eller stiller sikkerhet for salær og omkostninger
+- at klienten ikke på anmodning betaler a konto-regning for utført arbeid og/eller påløpte omkostninger
+- at klienten forårsaker eller medvirker til offentliggjøring i strid med advokatens anmodning om å avstå fra slik offentliggjøring, eller
+- at det inntreffer slike omstendigheter at det ikke med rimelighet kan forlanges at advokaten fortsetter oppdraget.
 
 Før advokaten frasier seg et oppdrag, plikter han eller hun å utføre det som ikke kan utstå uten at klienten utsettes for rettstap.
 

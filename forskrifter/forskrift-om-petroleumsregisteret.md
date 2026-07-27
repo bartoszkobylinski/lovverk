@@ -26,7 +26,15 @@ eu_basis: []
 
 ### § 1-1. Definisjoner
 
-I denne forskrift forstås med:petroleumsloven, [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet,tinglysingsloven, [lov 7. juni 1935 nr. 2](lov/1935-06-07-2) om tinglysing,sjøloven, [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten,forvaltningsloven, [lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker,tillatelser, utvinningstillatelser som nevnt i [petroleumsloven § 3-3](lov/1996-11-29-72/§3-3) og særskilte tillatelser til anlegg og drift av innretninger som nevnt i [samme lov § 4-3](forskrift/1997-06-19-618/§4-3),andel, den ideelle andel en rettighetshaver til enhver tid har i en tillatelse og i det interessentskap som følger av den samarbeidsavtale som er knyttet til tillatelsen,innretninger, installasjoner og anlegg m.v. som nevnt i petroleumsloven § 1-6 d og som er utplassert i medhold av en tillatelse som nevnt i [samme lov §§ 3-3](forskrift/1997-06-19-618/§3-3) og [4-3](forskrift/1997-06-19-618/§4-3).
+I denne forskrift forstås med:
+
+1. petroleumsloven, [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet,
+2. tinglysingsloven, [lov 7. juni 1935 nr. 2](lov/1935-06-07-2) om tinglysing,
+3. sjøloven, [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten,
+4. forvaltningsloven, [lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker,
+5. tillatelser, utvinningstillatelser som nevnt i [petroleumsloven § 3-3](lov/1996-11-29-72/§3-3) og særskilte tillatelser til anlegg og drift av innretninger som nevnt i [samme lov § 4-3](forskrift/1997-06-19-618/§4-3),
+6. andel, den ideelle andel en rettighetshaver til enhver tid har i en tillatelse og i det interessentskap som følger av den samarbeidsavtale som er knyttet til tillatelsen,
+7. innretninger, installasjoner og anlegg m.v. som nevnt i petroleumsloven § 1-6 d og som er utplassert i medhold av en tillatelse som nevnt i [samme lov §§ 3-3](forskrift/1997-06-19-618/§3-3) og [4-3](forskrift/1997-06-19-618/§4-3).
 
 > Endret ved [forskrift 28 jan 2013 nr. 117](forskrift/2013-01-28-117) (i kraft 1 feb 2013).
 
@@ -64,9 +72,22 @@ Departementet kan bestemme at ytterligere opplysninger skal registreres.
 
 ### § 2-3. Rettighetshavers meldeplikt m.v.
 
-Rettighetshaver skal gi skriftlig melding til registerfører ved følgende endringer i tillatelsen:skifte av operatør i medhold av [petroleumsloven § 3-7](lov/1996-11-29-72/§3-7),endring av selskapsnavn,forlengelse av tillatelsen etter [petroleumsloven § 3-9](lov/1996-11-29-72/§3-9) og [§ 4-3](lov/1996-11-29-72/§4-3) tredje ledd,oppgivelse av utvinningstillatelsen etter [petroleumsloven § 3-15](lov/1996-11-29-72/§3-15),pantsettelse av tillatelsen eller andel i tillatelsen etter [petroleumsloven § 6-2](lov/1996-11-29-72/§6-2),overdragelse av tillatelsen eller andel i tillatelsen m.v. som nevnt i [petroleumsloven § 10-12](lov/1996-11-29-72/§10-12) første ledd, og andre disposisjoner som endrer fordelingen av rettighetshavers andel i tillatelsen,tilbakekall av tillatelsen etter [petroleumsloven § 10-13](lov/1996-11-29-72/§10-13).
+Rettighetshaver skal gi skriftlig melding til registerfører ved følgende endringer i tillatelsen:
 
-Følgende dokumentasjon skal sendes inn til registerfører sammen med meldingen:ved melding etter første ledd litra a), c) og d): dokumentasjon på vedtak fattet av Energidepartementet.ved melding etter første ledd litra b): bekreftet firmaattest som viser det nye navnet.ved melding etter første ledd litra e): pantobligasjon med bekreftet kopi, bekreftet firmaattest for pantsetter, dokumentasjon på at samtykke fra Energidepartementet er innhentet og kvittering for betalt gebyr, jf. [§ 4-3](forskrift/1997-06-19-618/§4-3). Pantobligasjonen skal være undertegnet av signaturberettiget eller i henhold til fullmakt undertegnet av signaturberettiget. Ved transport av pantobligasjonen skal dette fremgå på originaldokumentet med bekreftet kopi.ved melding etter første ledd litra f): skjøte med bekreftet kopi, bekreftet firmaattest for selger og dokumentasjon på samtykke til overdragelsen fra Energidepartementet og Finansdepartementet. Behøves ikke faktisk samtykke fra Finansdepartementet, skal det fremlegges kopi av redegjørelse i henhold til § 1 i forskrift om samtykke til overdragelse av tillatelse og interesseoverføring etter [petroleumsskatteloven § 10](lov/1975-06-13-35/§10). Skjøtet skal være på blankett fastsatt av registerfører og skal være undertegnet av signaturberettiget eller i henhold til fullmakt undertegnet av signaturberettiget.
+1. skifte av operatør i medhold av [petroleumsloven § 3-7](lov/1996-11-29-72/§3-7),
+2. endring av selskapsnavn,
+3. forlengelse av tillatelsen etter [petroleumsloven § 3-9](lov/1996-11-29-72/§3-9) og [§ 4-3](lov/1996-11-29-72/§4-3) tredje ledd,
+4. oppgivelse av utvinningstillatelsen etter [petroleumsloven § 3-15](lov/1996-11-29-72/§3-15),
+5. pantsettelse av tillatelsen eller andel i tillatelsen etter [petroleumsloven § 6-2](lov/1996-11-29-72/§6-2),
+6. overdragelse av tillatelsen eller andel i tillatelsen m.v. som nevnt i [petroleumsloven § 10-12](lov/1996-11-29-72/§10-12) første ledd, og andre disposisjoner som endrer fordelingen av rettighetshavers andel i tillatelsen,
+7. tilbakekall av tillatelsen etter [petroleumsloven § 10-13](lov/1996-11-29-72/§10-13).
+
+Følgende dokumentasjon skal sendes inn til registerfører sammen med meldingen:
+
+1. ved melding etter første ledd litra a), c) og d): dokumentasjon på vedtak fattet av Energidepartementet.
+2. ved melding etter første ledd litra b): bekreftet firmaattest som viser det nye navnet.
+3. ved melding etter første ledd litra e): pantobligasjon med bekreftet kopi, bekreftet firmaattest for pantsetter, dokumentasjon på at samtykke fra Energidepartementet er innhentet og kvittering for betalt gebyr, jf. [§ 4-3](forskrift/1997-06-19-618/§4-3). Pantobligasjonen skal være undertegnet av signaturberettiget eller i henhold til fullmakt undertegnet av signaturberettiget. Ved transport av pantobligasjonen skal dette fremgå på originaldokumentet med bekreftet kopi.
+4. ved melding etter første ledd litra f): skjøte med bekreftet kopi, bekreftet firmaattest for selger og dokumentasjon på samtykke til overdragelsen fra Energidepartementet og Finansdepartementet. Behøves ikke faktisk samtykke fra Finansdepartementet, skal det fremlegges kopi av redegjørelse i henhold til § 1 i forskrift om samtykke til overdragelse av tillatelse og interesseoverføring etter [petroleumsskatteloven § 10](lov/1975-06-13-35/§10). Skjøtet skal være på blankett fastsatt av registerfører og skal være undertegnet av signaturberettiget eller i henhold til fullmakt undertegnet av signaturberettiget.
 
 Melding skal gis straks endringen er godkjent av myndighetene. Melding om overdragelse etter første ledd litra f) skal gis så snart overdragelsen er gjennomført mellom partene. Ved endring av selskapsnavn skal melding gis straks endringen er registrert i foretaksregisteret. Ved endring som nevnt i [petroleumsloven § 3-9](lov/1996-11-29-72/§3-9) annet ledd og [§ 3-15](lov/1996-11-29-72/§3-15), skal melding gis straks endringen får virkning. Meldingen skal være undertegnet av signaturberettiget for selskapet eller i henhold til fullmakt undertegnet av signaturberettiget.
 

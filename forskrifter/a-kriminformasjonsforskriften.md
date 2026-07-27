@@ -32,7 +32,22 @@ Formålet med forskriften er å sikre nødvendig adgang til deling og annen beha
 
 ## § 3. Deling av taushetsbelagte opplysninger
 
-Når det er nødvendig for å løse oppgaver som er lagt til mottaker- eller avsenderorganet, og som gjelder å forebygge, avdekke, forhindre eller sanksjonere lovbrudd som kan gi dårligere arbeidsvilkår, krenke arbeidstakeres rettigheter, skade konkurransen i næringslivet eller medføre misbruk av skatte-, avgifts- eller velferdsordninger, kan følgende organer dele opplysninger med hverandre uten hinder av taushetsplikt etter [forvaltningsloven § 13](lov/1967-02-10/§13):Arbeids- og velferdsetatenArbeidstilsynetDet lokale el-tilsynFiskeridirektoratetFylkeskommuner eller kommuner som inngår i et etablert a-krimsamarbeidKystvaktenMattilsynetSjøfartsdirektoratetStatens vegvesenUtlendingsdirektoratetStatens innkrevingssentral, Innkrevingssentralen for bidrag og tilbakebetalingskrav og øvrige innkrevingsmyndigheter under Skatteetaten når de er underlagt taushetsplikt etter [forvaltningsloven](lov/1967-02-10)Politiet når de utfører forvaltningsoppgaver eller sivile gjøremål.Organene nevnt i første punktum kan på samme vilkår dele slike opplysninger med Skatteetaten, Tolletaten, politiet og medarbeidere i Nasjonalt tverretatlig analyse- og etterretningssenter.
+Når det er nødvendig for å løse oppgaver som er lagt til mottaker- eller avsenderorganet, og som gjelder å forebygge, avdekke, forhindre eller sanksjonere lovbrudd som kan gi dårligere arbeidsvilkår, krenke arbeidstakeres rettigheter, skade konkurransen i næringslivet eller medføre misbruk av skatte-, avgifts- eller velferdsordninger, kan følgende organer dele opplysninger med hverandre uten hinder av taushetsplikt etter [forvaltningsloven § 13](lov/1967-02-10/§13):
+
+1. Arbeids- og velferdsetaten
+2. Arbeidstilsynet
+3. Det lokale el-tilsyn
+4. Fiskeridirektoratet
+5. Fylkeskommuner eller kommuner som inngår i et etablert a-krimsamarbeid
+6. Kystvakten
+7. Mattilsynet
+8. Sjøfartsdirektoratet
+9. Statens vegvesen
+10. Utlendingsdirektoratet
+11. Statens innkrevingssentral, Innkrevingssentralen for bidrag og tilbakebetalingskrav og øvrige innkrevingsmyndigheter under Skatteetaten når de er underlagt taushetsplikt etter [forvaltningsloven](lov/1967-02-10)
+12. Politiet når de utfører forvaltningsoppgaver eller sivile gjøremål.
+
+Organene nevnt i første punktum kan på samme vilkår dele slike opplysninger med Skatteetaten, Tolletaten, politiet og medarbeidere i Nasjonalt tverretatlig analyse- og etterretningssenter.
 
 I forbindelse med konkrete saker om forebygging, avdekking, avverging eller sanksjonering av lovbrudd som nevnt i første ledd kan organene nevnt i første ledd første punktum, så langt det er nødvendig, også dele taushetsbelagte opplysninger med enheter og personer i andre fylkeskommuner eller kommuner som er berørt av sakene. De aktuelle fylkeskommunene og kommunene kan på tilsvarende vilkår dele slike opplysninger med de nevnte organene og med hverandre.
 
@@ -48,17 +63,49 @@ Ansatte i Arbeidstilsynet, Arbeids- og velferdsetaten, Skatteetaten, Tolletaten 
 
 ## § 5. Sammenstilling
 
-Organene nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd kan sammenstille personopplysninger som er delt for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, når dette er nødvendig for åavdekke relevant informasjon om lovbrudd som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første leddutarbeide analyser og rapporter om aktører, miljøer, utviklingstrekk og aktiviteter knyttet til lovbrudd som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, ellerutarbeide evalueringer og beslutningsgrunnlag for styring, prioriteringer, valg av kontrollobjekter og bruk av virkemidler.
+Organene nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd kan sammenstille personopplysninger som er delt for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, når dette er nødvendig for å
+
+1. avdekke relevant informasjon om lovbrudd som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd
+2. utarbeide analyser og rapporter om aktører, miljøer, utviklingstrekk og aktiviteter knyttet til lovbrudd som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, eller
+3. utarbeide evalueringer og beslutningsgrunnlag for styring, prioriteringer, valg av kontrollobjekter og bruk av virkemidler.
 
 Sammenstillingen kan skje gjennom bruk av et felles IKT-system og ved bruk av helautomatiserte analyseverktøy.
 
 ## § 6. Opplysninger som kan behandles
 
-Når det er nødvendig for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, kan blant annet opplysninger om følgende forhold behandles:navn og eventuelle aliasadresse, kjønn, sivil status, fødested og fødselsnummerstatsborgerskap, oppholdsgrunnlag og -statusutlendingsidentifikasjon, identifikasjonsnummer og -kort, misbrukt eller fiktiv identitetandre folkeregistrerte opplysningersignalement og bildeelektronisk kontaktinformasjon og elektroniske profiler på Internettutdanning, kvalifikasjoner, lisenser, godkjenninger, sertifikater mv.ansettelsesforhold, yrker og vervoppdrag, kontrakter og avtaleforholdtilknytning til virksomheter eller personer som bistår den registrerte eller utsetter vedkommende for arbeidslivskriminalitet og kontaktpersonerat noen har blitt eller kan bli utsatt for arbeidslivskriminalitetpersoner som gir opplysninger om arbeidslivskriminalitetbevegelsesmønstre og grensepasseringer, inn- og utreise og opphold til inn- og utland, herunder om registrering, identitet, internatopphold, utvisning og grensekontrollformuesgoder, herunder fast eiendom og tilknyttede eierforhold, rettigheter og løsøremotorvogn eller annet transportmiddel, identifikasjonsnummer, historikk, bruk og eierforholdvirksomhetsidentifikasjon, herunder navn og organisasjonsnummereierskap, formelle og uformelle roller, tilknytninger til andre fysiske eller juridiske personer eller formuesmasse, herunder utenlandsk trust eller tilsvarende juridisk arrangement, overdragelse og omstruktureringtransaksjoner og betalingsopplysninger, bankkonti, finansielle instrumenter, elektroniske valuta og -penger, andre typer finanskonti og kontodisponentbudsjett- og regnskap, inntekt og formue, skattefastsetting og -beregning, rapporteringspliktig eller innrapportert skatt, gebyr eller avgift og innkrevingstønader, ytelser, trygder, pensjon, arbeidsmarkedstiltak, ytelser etter [forsikringsavtaleloven](lov/1989-06-16-69) og andre subsidie- tilskudds- og støtteordninger, lønns- og trekkoppgaver, refusjoner, og opplysninger om forhold som ligger til grunn for dissekonkurs- og bobehandlingtidligere kontroller og ilagte administrative sanksjoner.
+Når det er nødvendig for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, kan blant annet opplysninger om følgende forhold behandles:
+
+1. navn og eventuelle alias
+2. adresse, kjønn, sivil status, fødested og fødselsnummer
+3. statsborgerskap, oppholdsgrunnlag og -status
+4. utlendingsidentifikasjon, identifikasjonsnummer og -kort, misbrukt eller fiktiv identitet
+5. andre folkeregistrerte opplysninger
+6. signalement og bilde
+7. elektronisk kontaktinformasjon og elektroniske profiler på Internett
+8. utdanning, kvalifikasjoner, lisenser, godkjenninger, sertifikater mv.
+9. ansettelsesforhold, yrker og verv
+10. oppdrag, kontrakter og avtaleforhold
+11. tilknytning til virksomheter eller personer som bistår den registrerte eller utsetter vedkommende for arbeidslivskriminalitet og kontaktpersoner
+12. at noen har blitt eller kan bli utsatt for arbeidslivskriminalitet
+13. personer som gir opplysninger om arbeidslivskriminalitet
+14. bevegelsesmønstre og grensepasseringer, inn- og utreise og opphold til inn- og utland, herunder om registrering, identitet, internatopphold, utvisning og grensekontroll
+15. formuesgoder, herunder fast eiendom og tilknyttede eierforhold, rettigheter og løsøre
+16. motorvogn eller annet transportmiddel, identifikasjonsnummer, historikk, bruk og eierforhold
+17. virksomhetsidentifikasjon, herunder navn og organisasjonsnummer
+18. eierskap, formelle og uformelle roller, tilknytninger til andre fysiske eller juridiske personer eller formuesmasse, herunder utenlandsk trust eller tilsvarende juridisk arrangement, overdragelse og omstrukturering
+19. transaksjoner og betalingsopplysninger, bankkonti, finansielle instrumenter, elektroniske valuta og -penger, andre typer finanskonti og kontodisponent
+20. budsjett- og regnskap, inntekt og formue, skattefastsetting og -beregning, rapporteringspliktig eller innrapportert skatt, gebyr eller avgift og innkreving
+21. stønader, ytelser, trygder, pensjon, arbeidsmarkedstiltak, ytelser etter [forsikringsavtaleloven](lov/1989-06-16-69) og andre subsidie- tilskudds- og støtteordninger, lønns- og trekkoppgaver, refusjoner, og opplysninger om forhold som ligger til grunn for disse
+22. konkurs- og bobehandling
+23. tidligere kontroller og ilagte administrative sanksjoner.
 
 ## § 7. Behandling av særlige kategorier av personopplysninger og opplysninger om straffedommer og lovovertredelser
 
-Når det er nødvendig for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, kan behandlingen av opplysninger etter denne forskriften også omfatte følgende opplysninger:fagforeningsmedlemskaphelseforholdpersonopplysninger som nevnt i [personvernforordningen artikkel 10](lov/2018-06-15-38/gdpr/a10).
+Når det er nødvendig for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, kan behandlingen av opplysninger etter denne forskriften også omfatte følgende opplysninger:
+
+1. fagforeningsmedlemskap
+2. helseforhold
+3. personopplysninger som nevnt i [personvernforordningen artikkel 10](lov/2018-06-15-38/gdpr/a10).
 
 ## § 8. Behandlingsansvar
 

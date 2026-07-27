@@ -15,7 +15,7 @@ xml_hash: "ccefdf786825a9b656372dcb892d8f662bc47ed62ab072736e3d2941f1be5d0b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,13 @@ eu_basis: []
 
 Forskrifta gjeld tilbakebetaling av utdanningslån som er gitt etter [utdanningsstøttelova](lov/2005-06-03-37) og [forskrift om utdanningsstøtte](forskrift/2020-04-15-798).
 
-Forskrifta gir reglar omrenter og tilbakebetalingbetalingsutsetjing og sletting av rentersletting av gjeldmisleghalden gjeld som er permanent overført til Innkrevjingsmyndigheitatap av rettar.
+Forskrifta gir reglar om
+
+- renter og tilbakebetaling
+- betalingsutsetjing og sletting av renter
+- sletting av gjeld
+- misleghalden gjeld som er permanent overført til Innkrevjingsmyndigheita
+- tap av rettar.
 
 > Endra ved forskrift [28 des 2025 nr. 2898](forskrift/2025-12-28-2898) (i kraft 1 jan 2026).
 
@@ -74,7 +80,9 @@ Flytande basisrente blir fastsett på grunnlag av 2 månaders observasjon av til
 
 Fast basisrente blir fastsett på grunnlag av 1 månads observasjon av tilbod om bustadlån med den same rentebindingstida som i avtalen om fast rente på utdanningslånet. Ny fast rente tek til å gjelde 1 månad etter avslutta observasjonsperiode.
 
-Lånekassen fastset dei nominelle rentene på lånet til låntakaren. Desse blir rekna ut frå basisrenta minus 0,15 prosentpoeng. Formelen for å rekne ut den nominelle renta er slik: $$r_n = \\begin{bmatrix}(1 + r_e)\\frac{1}{n} - 1 \\end{bmatrix}n$$
+Lånekassen fastset dei nominelle rentene på lånet til låntakaren. Desse blir rekna ut frå basisrenta minus 0,15 prosentpoeng. Formelen for å rekne ut den nominelle renta er slik:
+
+$$r_n = \\begin{bmatrix}(1 + r_e)\\frac{1}{n} - 1 \\end{bmatrix}n$$
 
 Teiknforklaring:
 
@@ -113,13 +121,24 @@ Tabellen viser dei periodane låntakaren kan søkje om fast rente, og kva dato r
 
 ### § 9. Unntak frå retten til å inngå avtale om fast rente
 
-Desse låntakarane kan ikkje inngå avtale om fast rente:låntakarar under 18 årlåntakarar som har kortare nedbetalingstid enn avtaleperiodenlåntakarar som får lån eller stipend til fulltidsutdanninglåntakarar i deltidsutdanning som får lån eller stipend frå Lånekassen og har eit renteberande lån frå tidlegare utdanninglåntakarar med oppsagt lånlåntakarar i gjeldsordning.
+Desse låntakarane kan ikkje inngå avtale om fast rente:
+
+1. låntakarar under 18 år
+2. låntakarar som har kortare nedbetalingstid enn avtaleperioden
+3. låntakarar som får lån eller stipend til fulltidsutdanning
+4. låntakarar i deltidsutdanning som får lån eller stipend frå Lånekassen og har eit renteberande lån frå tidlegare utdanning
+5. låntakarar med oppsagt lån
+6. låntakarar i gjeldsordning.
 
 Låntakarar som har sagt opp avtalen om fast rente før bindingstida er gått ut, kan ikkje inngå ny avtale om fast rente før 2 månader etter oppseiinga.
 
 ### § 10. Berekning av rentetap eller rentegevinst
 
-Det blir rekna rentetap eller rentegevinst vedekstra innbetalingar, sjå [§ 11](forskrift/2022-12-15-2259/§11)oppseiing av fastrenteavtalen, sjå [§ 12](forskrift/2022-12-15-2259/§12)oppheving av fastrenteavtalen, sjå [§ 13](forskrift/2022-12-15-2259/§13).
+Det blir rekna rentetap eller rentegevinst ved
+
+1. ekstra innbetalingar, sjå [§ 11](forskrift/2022-12-15-2259/§11)
+2. oppseiing av fastrenteavtalen, sjå [§ 12](forskrift/2022-12-15-2259/§12)
+3. oppheving av fastrenteavtalen, sjå [§ 13](forskrift/2022-12-15-2259/§13).
 
 Rentetap eller rentegevinst blir rekna etter reglane i [forskrift 19. september 2022 nr. 1612 om finansavtaler (finansavtaleforskriften) § 2-1](forskrift/2022-09-19-1612/§2-1) andre ledd. På betalingstidspunktet reknar Lånekassen ut ei rente for resten av avtaletida. Denne renta er det vekta gjennomsnittet av renta på dei 2 tilboda om fastrentelån i Lånekassen som rekna i bindingstid ligg nærmast lånet til låntakaren, det eine med kortare og det andre med lengre bindingstid enn den resterande avtaletida. Dersom den ekstra innbetalinga blir gjord på ei tid då det finst tilbod om fast rente, skal renta på desse tilboda brukast. Dersom det ikkje finst noko tilbod om fast rente når den ekstra innbetalinga skjer, skal Lånekassen sine siste tilbod om fastrente brukast. Er det mindre enn 3 år att av nedbetalingstida, bruker Lånekassen den flytande renta på innbetalingstidspunktet og Lånekassen sitt siste tilbod om 3 års fastrente til å rekne ut ei gjennomsnittleg rente.
 
@@ -260,7 +279,12 @@ Ei permanent overføring av gjelda til Innkrevjingsmyndigheita fører til tap av
 
 ### § 27. Gjeld som ikkje blir permanent overført til Innkrevjingsmyndigheita
 
-Gjelda blir ikkje permanent overført til Innkrevjingsmyndigheita dersom eitt av desse vilkåra er til stades:Låntakaren har ei frivillig eller tvungen betalingsordning.Låntakaren har betalt inn eit beløp tilsvarande minst 6 terminbeløp dei siste 12 månadene.Låntakaren sannsynleggjer at den noverande situasjonen gir rett til betalingsutsetjing, sletting av renter eller sletting av gjeld.Det finst særlege grunnar til ikkje å overføre gjelda.
+Gjelda blir ikkje permanent overført til Innkrevjingsmyndigheita dersom eitt av desse vilkåra er til stades:
+
+1. Låntakaren har ei frivillig eller tvungen betalingsordning.
+2. Låntakaren har betalt inn eit beløp tilsvarande minst 6 terminbeløp dei siste 12 månadene.
+3. Låntakaren sannsynleggjer at den noverande situasjonen gir rett til betalingsutsetjing, sletting av renter eller sletting av gjeld.
+4. Det finst særlege grunnar til ikkje å overføre gjelda.
 
 Krav om unntak skal vere grunngitt og sett fram innan den fristen som er oppgitt i varselet om permanent overføring av gjelda til Innkrevjingsmyndigheita. Krav om unntak som kjem etter at gjelda er permanent overført, blir ikkje behandla.
 
@@ -365,13 +389,40 @@ Inntektsgrensene i tabellen blir heva med eit fast beløp per år for kvart barn
 
 ### § 38. Andre sosiale og økonomiske vilkår
 
-Ein låntakar som har hatt ei brutto person- og kapitalinntekt per år under grensene i [§ 36](forskrift/2022-12-15-2259/§36) medan låntakaren oppfylte eit av krava i bokstavane a–g, har rett til å få sletta renter for heile eller delar av den aktuelle perioden. For rett til å få sletta renter etter bokstav c, d, f eller g, skal samla hushaldsinntekt i tillegg ha vore under grensene i [§ 37](forskrift/2022-12-15-2259/§37).*Sjukdom eller arbeidsløyse*Låntakaren var sjuk, registrert arbeidslaus eller mottakar av arbeidsavklaringspengar. Det er ein føresetnad at forholdet varte i minst 3 månader samanhengande.*Førstegongsteneste og utdanning i Forsvaret*Låntakaren avtente førstegongsteneste i Noreg eller eit anna EØS-land, eller var elev ved ein militær skole. Det er ein føresetnad at forholdet varte i minst 3 månader samanhengande.*Fødsel eller adopsjon*Låntakaren fekk barn og hadde omsorga for barnet etter fødselen. Låntakaren får sletta renter i opp til 12 månader frå fødselen. Låntakarar som adopterte barn under 10 år, får sletta renter etter dei same reglane i opp til 12 månader frå adopsjonsdatoen.*Omsorgsarbeid*Låntakaren hadde over 3 månader i strekk omsorg for nokon i den nærmaste familien. Dette gjeld uføre, menneske med nedsett funksjonsevne og eldre med stort pleiebehov.*Økonomisk stønad etter [sosialtenestelova](lov/2009-12-18-131)*Låntakaren hadde i over 3 månader i strekk ikkje anna inntekt enn økonomisk stønad etter [sosialtenestelova § 18](lov/2009-12-18-131/§18). I slike tilfelle kan renter bli sletta for opp til 36 månader til saman.*Fulltidsarbeid med låg brutto inntekt*Låntakaren hadde i minst 12 månader i strekk fulltidsarbeid og samtidig låg gjennomsnittleg brutto månadsinntekt. Inntektsgrensa for 2026 er 21 306 kr, for 2025 20 487 kr, for 2024 19 605 kr og for 2023 18 689 kr. Låntakaren kan få sletta renter for opp til 36 månader til saman. Frivillig ulønt arbeid gir ikkje rett til sletting av renter.*Soning*Låntakaren sona i fengsel eller sikringsanstalt i minst 12 månader i strekk og hadde samtidig låg gjennomsnittleg brutto månadsinntekt. Inntektsgrensa for 2026 er 21 306 kr, for 2025 20 487 kr, for 2024 19 605 kr og for 2023 18 689 kr.
+Ein låntakar som har hatt ei brutto person- og kapitalinntekt per år under grensene i [§ 36](forskrift/2022-12-15-2259/§36) medan låntakaren oppfylte eit av krava i bokstavane a–g, har rett til å få sletta renter for heile eller delar av den aktuelle perioden. For rett til å få sletta renter etter bokstav c, d, f eller g, skal samla hushaldsinntekt i tillegg ha vore under grensene i [§ 37](forskrift/2022-12-15-2259/§37).
+
+1. *Sjukdom eller arbeidsløyse*
+
+   Låntakaren var sjuk, registrert arbeidslaus eller mottakar av arbeidsavklaringspengar. Det er ein føresetnad at forholdet varte i minst 3 månader samanhengande.
+2. *Førstegongsteneste og utdanning i Forsvaret*
+
+   Låntakaren avtente førstegongsteneste i Noreg eller eit anna EØS-land, eller var elev ved ein militær skole. Det er ein føresetnad at forholdet varte i minst 3 månader samanhengande.
+3. *Fødsel eller adopsjon*
+
+   Låntakaren fekk barn og hadde omsorga for barnet etter fødselen. Låntakaren får sletta renter i opp til 12 månader frå fødselen. Låntakarar som adopterte barn under 10 år, får sletta renter etter dei same reglane i opp til 12 månader frå adopsjonsdatoen.
+4. *Omsorgsarbeid*
+
+   Låntakaren hadde over 3 månader i strekk omsorg for nokon i den nærmaste familien. Dette gjeld uføre, menneske med nedsett funksjonsevne og eldre med stort pleiebehov.
+5. *Økonomisk stønad etter [sosialtenestelova](lov/2009-12-18-131)*
+
+   Låntakaren hadde i over 3 månader i strekk ikkje anna inntekt enn økonomisk stønad etter [sosialtenestelova § 18](lov/2009-12-18-131/§18). I slike tilfelle kan renter bli sletta for opp til 36 månader til saman.
+6. *Fulltidsarbeid med låg brutto inntekt*
+
+   Låntakaren hadde i minst 12 månader i strekk fulltidsarbeid og samtidig låg gjennomsnittleg brutto månadsinntekt. Inntektsgrensa for 2026 er 21 306 kr, for 2025 20 487 kr, for 2024 19 605 kr og for 2023 18 689 kr. Låntakaren kan få sletta renter for opp til 36 månader til saman. Frivillig ulønt arbeid gir ikkje rett til sletting av renter.
+7. *Soning*
+
+   Låntakaren sona i fengsel eller sikringsanstalt i minst 12 månader i strekk og hadde samtidig låg gjennomsnittleg brutto månadsinntekt. Inntektsgrensa for 2026 er 21 306 kr, for 2025 20 487 kr, for 2024 19 605 kr og for 2023 18 689 kr.
 
 > Endra ved forskrifter [19 des 2023 nr. 2177](forskrift/2023-12-19-2177) (i kraft 1 jan 2024), [19 des 2024 nr. 3321](forskrift/2024-12-19-3321) (i kraft 1 jan 2025), [28 des 2025 nr. 2898](forskrift/2025-12-28-2898) (i kraft 1 jan 2026).
 
 ### § 39. Vilkår som gjeld deltidsutdanning, tillitsverv, permisjon frå studiet eller deltaking i Erasmus+
 
-Låntakarar som har hatt ei brutto person- og kapitalinntekt per år som er under grensene i [§ 36](forskrift/2022-12-15-2259/§36), har rett til å få sletta renter for heile eller delar av den aktuelle perioden dersom låntakaren i periodenhar bestått deltidsutdanning og dokumenterer å ha hatt rett til lån eller stipend etter [forskrift om utdanningsstøtte](forskrift/2020-04-15-798)samtidig hadde tillitsverv på fulltid i ein landsomfattande elev- eller studentorganisasjon eller i tilknyting til ein utdanningsinstitusjon eller ein studentsamskipnad. Låntakaren kan i så fall få sletta renter for opp til 12 månader til saman. Det er ein føresetnad at forholdet varte i minst 3 månader samanhengande.har hatt permisjon frå studiet for å forske og får studentstipend frå Forskingsrådetsamtidig deltok i programmet Erasmus+ i minst 3 månader i strekk.
+Låntakarar som har hatt ei brutto person- og kapitalinntekt per år som er under grensene i [§ 36](forskrift/2022-12-15-2259/§36), har rett til å få sletta renter for heile eller delar av den aktuelle perioden dersom låntakaren i perioden
+
+1. har bestått deltidsutdanning og dokumenterer å ha hatt rett til lån eller stipend etter [forskrift om utdanningsstøtte](forskrift/2020-04-15-798)
+2. samtidig hadde tillitsverv på fulltid i ein landsomfattande elev- eller studentorganisasjon eller i tilknyting til ein utdanningsinstitusjon eller ein studentsamskipnad. Låntakaren kan i så fall få sletta renter for opp til 12 månader til saman. Det er ein føresetnad at forholdet varte i minst 3 månader samanhengande.
+3. har hatt permisjon frå studiet for å forske og får studentstipend frå Forskingsrådet
+4. samtidig deltok i programmet Erasmus+ i minst 3 månader i strekk.
 
 > Endra ved forskrift [19 des 2024 nr. 3321](forskrift/2024-12-19-3321) (i kraft 1 jan 2025).
 
@@ -411,7 +462,12 @@ Innsatssona tyder her Finnmark og kommunane Lyngen, Storfjord, Kåfjord, Skjerv�
 
 ### § 44. Vilkår for å få sletta gjeld som yrkesaktiv lege i utvalde kommunar
 
-Låntakarar kan få sletta delar av utdanningsgjelda dersom dei har hatt arbeid som lege i ein oppteningsperiode på 12 månader i desse kommunane:Troms: Gratangen og IbestadNordland: Rødøy, Nesna, Bø, Øksnes, Evenes, Vega, Flakstad, Moskenes og AndøyTrøndelag: Leka, Røyrvik, Høylandet og LierneMøre og Romsdal: Aure.
+Låntakarar kan få sletta delar av utdanningsgjelda dersom dei har hatt arbeid som lege i ein oppteningsperiode på 12 månader i desse kommunane:
+
+- Troms: Gratangen og Ibestad
+- Nordland: Rødøy, Nesna, Bø, Øksnes, Evenes, Vega, Flakstad, Moskenes og Andøy
+- Trøndelag: Leka, Røyrvik, Høylandet og Lierne
+- Møre og Romsdal: Aure.
 
 Ordninga gjeld òg låntakarar som har hatt arbeid som lege i dei tidlegare kommunane Torsken og Berg i Troms, Tysfjord i Nordland og Fosnes i Trøndelag.
 
@@ -437,7 +493,14 @@ Berre renteberande lån inngår i gjelda som kan bli sletta etter dette kapittel
 
 ### § 46. Vilkår for å bli rekna som yrkesaktiv
 
-Som yrkesaktiv i oppteningsperioden reknar ein den som gjennom oppteningsperiodenhadde arbeid tilsvarande minst 50 prosent av fulltidsarbeidhadde fulltidsarbeid i minst 6 månader og var registrert som arbeidssøkjar til fulltidsarbeid i resten av periodenhadde omsorg for barn født i 2016 eller seinare eller hadde særleg tyngjande omsorgsplikter i den nærmaste familienhadde studiepermisjon med lønn eller stipend tilsvarande minst 50 prosent av full stilling. Sletting av gjeld etter [§ 43](forskrift/2022-12-15-2259/§43) og [§ 50](forskrift/2022-12-15-2259/§50) føreset at lønna blei betalt av ein arbeidsgivar i Finnmark og Nord-Troms.var tilsett i transportsektoren, på skip, på oljeleitingsfartøy eller på faste installasjonar på kontinentalsokkelen og samtidig blei rekna som busett etter [§ 48](forskrift/2022-12-15-2259/§48)arbeidde frå heimekontor uavhengig av den geografiske plasseringa av arbeidsgivar si verksemd.
+Som yrkesaktiv i oppteningsperioden reknar ein den som gjennom oppteningsperioden
+
+1. hadde arbeid tilsvarande minst 50 prosent av fulltidsarbeid
+2. hadde fulltidsarbeid i minst 6 månader og var registrert som arbeidssøkjar til fulltidsarbeid i resten av perioden
+3. hadde omsorg for barn født i 2016 eller seinare eller hadde særleg tyngjande omsorgsplikter i den nærmaste familien
+4. hadde studiepermisjon med lønn eller stipend tilsvarande minst 50 prosent av full stilling. Sletting av gjeld etter [§ 43](forskrift/2022-12-15-2259/§43) og [§ 50](forskrift/2022-12-15-2259/§50) føreset at lønna blei betalt av ein arbeidsgivar i Finnmark og Nord-Troms.
+5. var tilsett i transportsektoren, på skip, på oljeleitingsfartøy eller på faste installasjonar på kontinentalsokkelen og samtidig blei rekna som busett etter [§ 48](forskrift/2022-12-15-2259/§48)
+6. arbeidde frå heimekontor uavhengig av den geografiske plasseringa av arbeidsgivar si verksemd.
 
 Den tida ein låntakar er sjukmeld, blir rekna med i oppteningsperioden.
 
@@ -447,7 +510,10 @@ I særlege tilfelle kan låntakarar som i ei kort tid har hatt arbeid ein annan 
 
 ### § 47. Låntakarar som ikkje blir rekna som yrkesaktive
 
-Låntakaren blir ikkje rekna som yrkesaktiv i den aktuelle perioden dersom låntakarenfekk eller kunne fått lån eller stipend frå Lånekassen til fulltidsutdanning, har vore i førstegongsteneste eller i utdanning ved ein militær skolefekk arbeidsavklaringspengar, med mindre låntakaren samtidig har oppfylt vilkår for yrkesaktivitet etter [§ 46](forskrift/2022-12-15-2259/§46).
+Låntakaren blir ikkje rekna som yrkesaktiv i den aktuelle perioden dersom låntakaren
+
+1. fekk eller kunne fått lån eller stipend frå Lånekassen til fulltidsutdanning, har vore i førstegongsteneste eller i utdanning ved ein militær skole
+2. fekk arbeidsavklaringspengar, med mindre låntakaren samtidig har oppfylt vilkår for yrkesaktivitet etter [§ 46](forskrift/2022-12-15-2259/§46).
 
 Låntakaren blir ikkje rekna som yrkesaktiv etter [§ 43](forskrift/2022-12-15-2259/§43) eller [§ 50](forskrift/2022-12-15-2259/§50) dersom låntakaren var meir enn 50 prosent yrkesaktiv utanfor Finnmark og Nord-Troms og samstundes hadde omsorg for barn født i 2016 eller seinare eller hadde særleg tyngjande omsorgsplikter i den nærmaste familien.
 
@@ -513,21 +579,41 @@ Gjeld blir ikkje sletta meir enn 1 gong for kvar lærarutdanning.
 
 ### § 55. Realfag
 
-Ordninga omfattar låntakarar som har fullført ei av desse utdanningane:integrert masterprogram i lærarutdanning med spesialisering i realfagtoårig fagdidaktisk masterprogram for lærarar som tek spesialisering i realfagpraktisk-pedagogisk utdanning, etter fullført mastergrad eller hovudfag i biologi, fysikk, geofag, informasjonsteknologi, kjemi, matematikk eller teknologiske fag eller fullført sivilingeniørutdanningpraktisk-pedagogisk utdanning, etter fullført ingeniørutdanning.
+Ordninga omfattar låntakarar som har fullført ei av desse utdanningane:
+
+1. integrert masterprogram i lærarutdanning med spesialisering i realfag
+2. toårig fagdidaktisk masterprogram for lærarar som tek spesialisering i realfag
+3. praktisk-pedagogisk utdanning, etter fullført mastergrad eller hovudfag i biologi, fysikk, geofag, informasjonsteknologi, kjemi, matematikk eller teknologiske fag eller fullført sivilingeniørutdanning
+4. praktisk-pedagogisk utdanning, etter fullført ingeniørutdanning.
 
 ### § 56. Framandspråk
 
-Ordninga omfattar låntakarar som har fullført ei av desse utdanningane:integrert masterprogram i lærarutdanning med spesialisering i framandspråktoårig fagdidaktisk masterprogram for lærarar som tek spesialisering i framandspråkpraktisk-pedagogisk utdanning, etter fullført mastergrad eller hovudfag i framandspråk.
+Ordninga omfattar låntakarar som har fullført ei av desse utdanningane:
+
+1. integrert masterprogram i lærarutdanning med spesialisering i framandspråk
+2. toårig fagdidaktisk masterprogram for lærarar som tek spesialisering i framandspråk
+3. praktisk-pedagogisk utdanning, etter fullført mastergrad eller hovudfag i framandspråk.
 
 Nordisk og norsk blir ikkje rekna som framandspråk etter denne ordninga.
 
 ### § 57. Kvensk eller samisk som ein del av utdanninga
 
-Ordninga omfattar låntakarar som har tatt minst 60 studiepoeng i kvensk eller eit samisk språk som ein del av ei av desse utdanningane:samisk grunnskolelærarutdanningsamisk barnehagelærarutdanninggrunnskolelærarutdanninglektorutdanning.
+Ordninga omfattar låntakarar som har tatt minst 60 studiepoeng i kvensk eller eit samisk språk som ein del av ei av desse utdanningane:
+
+1. samisk grunnskolelærarutdanning
+2. samisk barnehagelærarutdanning
+3. grunnskolelærarutdanning
+4. lektorutdanning.
 
 ### § 58. Kvensk eller samisk i tillegg til anna utdanning
 
-Ordninga omfattar låntakarar som har tatt minst 60 studiepoeng i kvensk eller eit samisk språk i tillegg til ei av desse utdanningane:praktisk-pedagogisk utdanningbarnehagelærarutdanninggrunnskolelærarutdanninglektorutdanninglærarutdanning i praktiske og estetiske fag.
+Ordninga omfattar låntakarar som har tatt minst 60 studiepoeng i kvensk eller eit samisk språk i tillegg til ei av desse utdanningane:
+
+1. praktisk-pedagogisk utdanning
+2. barnehagelærarutdanning
+3. grunnskolelærarutdanning
+4. lektorutdanning
+5. lærarutdanning i praktiske og estetiske fag.
 
 > Endra ved forskrift [19 des 2023 nr. 2177](forskrift/2023-12-19-2177) (i kraft 1 jan 2024).
 
@@ -561,7 +647,12 @@ Låntakarar som har rett til sletting av gjeld etter første eller andre ledd ka
 
 ### § 62. Unntak frå kravet om fullføring på normert tid
 
-Låntakaren kan få sletta gjeld etter [§ 61](forskrift/2022-12-15-2259/§61) første eller andre ledd sjølv om utdanninga ikkje blei gjennomført på normert tid, dersom årsaka til at låntakaren brukte lengre tid varat låntakaren har nedsett funksjonsevne, og var funksjonshemma i studiesituasjonen fordi læringsmiljøet eller studiesituasjonen ved lærestaden ikkje var tilpassa låntakarens nedsette funksjonsevneat låntakaren har fått barn i utdanningsperiodenat låntakaren blei forseinka på grunn av sjukdomat låntakaren samtidig hadde tillitsverv på fulltid i minst 3 månader i strekk i ein landsomfattande studentorganisasjon, eller i tilknyting til ein utdanningsinstitusjon eller ein studentsamskipnad.
+Låntakaren kan få sletta gjeld etter [§ 61](forskrift/2022-12-15-2259/§61) første eller andre ledd sjølv om utdanninga ikkje blei gjennomført på normert tid, dersom årsaka til at låntakaren brukte lengre tid var
+
+1. at låntakaren har nedsett funksjonsevne, og var funksjonshemma i studiesituasjonen fordi læringsmiljøet eller studiesituasjonen ved lærestaden ikkje var tilpassa låntakarens nedsette funksjonsevne
+2. at låntakaren har fått barn i utdanningsperioden
+3. at låntakaren blei forseinka på grunn av sjukdom
+4. at låntakaren samtidig hadde tillitsverv på fulltid i minst 3 månader i strekk i ein landsomfattande studentorganisasjon, eller i tilknyting til ein utdanningsinstitusjon eller ein studentsamskipnad.
 
 ### § 63. Krav til oppteningsperioden
 

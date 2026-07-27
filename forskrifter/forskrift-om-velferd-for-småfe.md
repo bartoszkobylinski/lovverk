@@ -83,7 +83,13 @@ Avhorning og kastrasjon skal utføres av veterinær med bruk av bedøvelse og la
 
 ### § 10. Dyrerom m.m.
 
-Dyrerom, garder og binger skal være utformet slik at:dyrene har god mulighet for sosial kontakt, bevegelse og annen naturlig adferd,gulv, vegger og innredninger som dyrene er i kontakt med, er av god utforming og kvalitet,det er enkelt å foreta grundig inspeksjon av samtlige dyr,det er tilrettelagt for å gi dyrene godt stell og for levering til dyrebil, ogdet er innlagt vann.
+Dyrerom, garder og binger skal være utformet slik at:
+
+1. dyrene har god mulighet for sosial kontakt, bevegelse og annen naturlig adferd,
+2. gulv, vegger og innredninger som dyrene er i kontakt med, er av god utforming og kvalitet,
+3. det er enkelt å foreta grundig inspeksjon av samtlige dyr,
+4. det er tilrettelagt for å gi dyrene godt stell og for levering til dyrebil, og
+5. det er innlagt vann.
 
 Bestemmelsene i første ledd bokstav e gjelder ikke husdyrrom som er i bruk ved denne forskriftens ikrafttreden.
 
@@ -229,7 +235,13 @@ Driften skal være tilpasset de klimatiske forhold.
 
 ### § 25. Slipp og hold av småfe på utmarksbeite
 
-Ved slipp og hold på utmarksbeite skal eier eller annen med ansvar for dyrene, sikre at:samtlige dyr har god helsetilstand og er i forsvarlig hold,avkom er sammen med mordyr og er i god stand til å holde følge med mora,avkom som slippes med mordyr uten tilstrekkelig melkeproduksjon, er eldre enn 6 uker og tar til seg nok fôr til å sikre utvikling og vekst,avkom som slippes uten mordyr, er eldre enn 8 uker, er i følge med voksen sau og tar til seg nok fôr til å sikre utvikling og vekst, ogavkom som blir morløse, tas hjem dersom morløsheten medfører økt fare for lidelse.
+Ved slipp og hold på utmarksbeite skal eier eller annen med ansvar for dyrene, sikre at:
+
+1. samtlige dyr har god helsetilstand og er i forsvarlig hold,
+2. avkom er sammen med mordyr og er i god stand til å holde følge med mora,
+3. avkom som slippes med mordyr uten tilstrekkelig melkeproduksjon, er eldre enn 6 uker og tar til seg nok fôr til å sikre utvikling og vekst,
+4. avkom som slippes uten mordyr, er eldre enn 8 uker, er i følge med voksen sau og tar til seg nok fôr til å sikre utvikling og vekst, og
+5. avkom som blir morløse, tas hjem dersom morløsheten medfører økt fare for lidelse.
 
 ### § 26. Forebyggende tiltak
 
@@ -267,6 +279,9 @@ Denne forskriften trer i kraft 1. mars 2005.
 
 ### § 33. Overgangsbestemmelser
 
-For eksisterende drift ved ikrafttredelse av denne forskriften, trer følgende bestemmelser i kraft:[§ 11](forskrift/2005-02-18-160/§11) andre ledd andre pkt. om tett liggeunderlag for lam og kje trer i kraft fra 1. januar 2007.[§ 14](forskrift/2005-02-18-160/§14) fjerde ledd om alarm trer i kraft 1. januar 2008.
+For eksisterende drift ved ikrafttredelse av denne forskriften, trer følgende bestemmelser i kraft:
+
+1. [§ 11](forskrift/2005-02-18-160/§11) andre ledd andre pkt. om tett liggeunderlag for lam og kje trer i kraft fra 1. januar 2007.
+2. [§ 14](forskrift/2005-02-18-160/§14) fjerde ledd om alarm trer i kraft 1. januar 2008.
 
 > Endret ved [forskrift 21 des 2009 nr. 1733](forskrift/2009-12-21-1733) (i kraft 1 jan 2010).

@@ -15,7 +15,7 @@ xml_hash: "96fb1563bfd0132e12828ddfa06347ce552312ea2608deb915bbaa3e5fe4a748"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,9 +54,27 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 
 ## § 5. Krav til landings- og startområde
 
-(1) GenereltEn sjøflyplass skal ha minst ett landings- og startområde.Landings- og startområde(ne) skal normalt plasseres, orienteres og utformes slik at landing og start kan foretas opp mot den fremherskende vindretning.Landings- og startområdets form kan være, jf. vedlegg 1:tilnærmet kvadratisk,sektorformet,rektangulært (ett eller flere områder med forskjellig orientering).Ved plassering av landings- og startområde(ne) skal det tas nødvendig hensyn til særlig sjøgang og eventuell konflikt med annen trafikk på vannet.
+(1) Generelt
 
-(2) DimensjonerEt landings- og startområdes lengde skal fastsettes ut fra den banelengde som kreves av dimensjonerende luftfartøy.Landings- og startområdets lengde, L, skal minimum være nominell lengde korrigert for høyde over havet og et fast tillegg på minimum 60 m. Korreksjonen skal være den største av 0,025% pr. meter høyde over havet eller det som fremgår av flygehåndboken for dimensjonerende luftfartøy.Dersom landings- og startområdet er tilnærmet kvadratisk, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c første strekpunkt, skal korteste sidekant ha dimensjon L, jf. vedlegg 1.Dersom landings- og startområdet er sektorformet, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c annet strekpunkt, skal radius ha dimensjon L og vinkelåpningen skal være minimum 150 grader, jf. vedlegg 1.Dersom landings- og startområdet er rektangulært, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c tredje strekpunkt, skal det ha lengde L og bredde minimum 100 meter, jf. vedlegg 1.Sjøflyplass som skal ha ervervsmessig trafikk med betalende passasjerer, skal ha et landings- og startområde med minimum lengde, L, på 1.000 meter.Sjøflyplass som skal ha base for skoleflyging, skal ha et landings- og startområde med minimum lengde, L, på 600 meter.Landings- og startområdet skal ha vanndybde på minimum 1,5 meter ved laveste vannstand.
+1. En sjøflyplass skal ha minst ett landings- og startområde.
+2. Landings- og startområde(ne) skal normalt plasseres, orienteres og utformes slik at landing og start kan foretas opp mot den fremherskende vindretning.
+3. Landings- og startområdets form kan være, jf. vedlegg 1:
+
+   - tilnærmet kvadratisk,
+   - sektorformet,
+   - rektangulært (ett eller flere områder med forskjellig orientering).
+4. Ved plassering av landings- og startområde(ne) skal det tas nødvendig hensyn til særlig sjøgang og eventuell konflikt med annen trafikk på vannet.
+
+(2) Dimensjoner
+
+1. Et landings- og startområdes lengde skal fastsettes ut fra den banelengde som kreves av dimensjonerende luftfartøy.
+2. Landings- og startområdets lengde, L, skal minimum være nominell lengde korrigert for høyde over havet og et fast tillegg på minimum 60 m. Korreksjonen skal være den største av 0,025% pr. meter høyde over havet eller det som fremgår av flygehåndboken for dimensjonerende luftfartøy.
+3. Dersom landings- og startområdet er tilnærmet kvadratisk, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c første strekpunkt, skal korteste sidekant ha dimensjon L, jf. vedlegg 1.
+4. Dersom landings- og startområdet er sektorformet, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c annet strekpunkt, skal radius ha dimensjon L og vinkelåpningen skal være minimum 150 grader, jf. vedlegg 1.
+5. Dersom landings- og startområdet er rektangulært, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c tredje strekpunkt, skal det ha lengde L og bredde minimum 100 meter, jf. vedlegg 1.
+6. Sjøflyplass som skal ha ervervsmessig trafikk med betalende passasjerer, skal ha et landings- og startområde med minimum lengde, L, på 1.000 meter.
+7. Sjøflyplass som skal ha base for skoleflyging, skal ha et landings- og startområde med minimum lengde, L, på 600 meter.
+8. Landings- og startområdet skal ha vanndybde på minimum 1,5 meter ved laveste vannstand.
 
 ## § 6. Krav til taksekanaler
 
@@ -66,11 +84,19 @@ Eventuelle krav til taksekanaler fastsettes av Luftfartstilsynet i hvert enkelt 
 
 ## § 7. Krav til fortøyningsanlegg og flyoppstillingsplasser m.m.
 
-(1) *Inngjerding m.m.*Fortøyningsanlegg og flyoppstillingsplasser skal være tilstrekkelig sikret mot uvedkommende ved nødvendig skilting samt om nødvendig vakthold og/eller inngjerding.
+(1) *Inngjerding m.m.*
 
-(2) *Plassering*Fortøyningsanlegg og flyoppstillingsplasser, herunder bøyer, skal ikke være slik plassert at de er til hinder for trafikk til og fra landings- og startområdet.
+Fortøyningsanlegg og flyoppstillingsplasser skal være tilstrekkelig sikret mot uvedkommende ved nødvendig skilting samt om nødvendig vakthold og/eller inngjerding.
 
-(3) *Andre krav*Eventuelle andre krav til fortøyningsanlegg, flyoppstillingsplasser m.m. fastsettes av Luftfartstilsynet i hvert enkelt tilfelle, og skal fremgå av godkjenningsdokumentet.\*
+(2) *Plassering*
+
+Fortøyningsanlegg og flyoppstillingsplasser, herunder bøyer, skal ikke være slik plassert at de er til hinder for trafikk til og fra landings- og startområdet.
+
+(3) *Andre krav*
+
+Eventuelle andre krav til fortøyningsanlegg, flyoppstillingsplasser m.m. fastsettes av Luftfartstilsynet i hvert enkelt tilfelle, og skal fremgå av godkjenningsdokumentet.
+
+\*
 
 ## § 8. Krav til merking av landings- og startområdet mv.
 
@@ -78,19 +104,75 @@ Eventuelle krav til merking av landings- og startområdets utstrekning, taksekan
 
 ## § 9. Krav til hinderflater og identifisering av hinder
 
-(1) *Hinderflater*For en sjøflyplass skal det for hvert landings- og startområde fastsettes et antall hinderflater som består av inn- og utflygingsflater og sideflater som angitt nedenfor.
+(1) *Hinderflater*
 
-(2) *Inn- og utflygingsflater (jf. vedlegg 1)*Ved tilnærmet kvadratisk landings- og startområde, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c første strekpunkt, skal det fastsettes fire inn- og utflygingsflater som hver begrenses av:En innerkant med lengde tilsvarende landings- og starts områdets side og som faller sammen med denne.To sidekanter som divergerer slik at to tilstøtende inn- og utflygingsflater henger sammen.En ytterkant parallell med innerkanten.Ved sektorformet landings- og startområde, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c annet strekpunkt, skal det fastsettes en inn- og utflygingsflate som begrenses av:En innerkant som faller sammen med den sirkelbue som definerer landings- og startområdets sektorbegrensning.To sidekanter langs forlengelsen av de radier som begrenser landings- og startområdet.En ytterkant som er en sirkelbue mellom forlengelsen av de radier som begrenser landings- og startområdet, og som har en avstand fra innerkanten lik flatens lengde.Ved rektangulært landings- og startområde, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c tredje strekpunkt, skal det for hver landings- og startsretning fastsettes inn- og utflygingsflater som hver begrenses av:En innerkant med lengde tilsvarende landings- og startområdets bredde, og som faller sammen med landings- og startområdets endebegrensning.To sidekanter som divergerer 10% i forhold til landings- og startområdets senterlinje.En ytterkant parallell med innerkanten.Dersom et område bare brukes for landing, skal det for hver landingsflate fastsettes en utflygingsflate for avbrutt landing. Utflygingsflate for avbrutt landing skal ha begrensninger som en ordinær utflygingsflate, men plasseringen av innerkanten fastsettes i godkjenningen. Dersom innerkanten ikke faller sammen med landingsområdets endebegrensning skal det etableres spesiell prosedyre for avbrutt innflyging.En inn- og utflygingsflate skal ha en helning i forhold til horisontalplanet på 5%, og en lengde på minimum 500 meter.For sjøflyplass som skal ha base for skoleflyging eller ervervsmessig trafikk med betalende passasjerer, skal inn- og utflygingsflaten ha en lengde på minimum 1.600 meter.
+For en sjøflyplass skal det for hvert landings- og startområde fastsettes et antall hinderflater som består av inn- og utflygingsflater og sideflater som angitt nedenfor.
 
-(3) *Sideflater (jf. vedlegg 1)*På hver side av et landings- og startområde skal det fastsettes en sideflate. Dette gjelder likevel ikke når landings- og startområdets form er tilnærmet kvadratisk, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c første strekpunkt.En sideflate for rektangulært landings- og startområde, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c tredje strekpunkt, skal begrenses av:En innerkant som faller sammen med landings- og avgangsområdets lengdebegrensning.To sidekanter som faller sammen med inn- og utflygingsflatenes sidekanter.En sideflate for sektorformet landings- og startområde, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c annet strekpunkt, skal begrenses av innerkant og sidekanter som angitt i vedlegg 1.En sideflate skal ha en helning i forhold til horisontalplanet på 33%, og en lengde slik at den går klar alle hindre i aktuell retning.
+(2) *Inn- og utflygingsflater (jf. vedlegg 1)*
 
-(4) *Identifisering av hinder*Innenfor landings- og startområdet skal alle faste og bevegelige objekter anses som hinder.Terreng og objekter (både faste og bevegelige) som gjennomtrenger hinderflatene, skal anses som hinder.
+1. Ved tilnærmet kvadratisk landings- og startområde, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c første strekpunkt, skal det fastsettes fire inn- og utflygingsflater som hver begrenses av:
+
+   - En innerkant med lengde tilsvarende landings- og starts områdets side og som faller sammen med denne.
+   - To sidekanter som divergerer slik at to tilstøtende inn- og utflygingsflater henger sammen.
+   - En ytterkant parallell med innerkanten.
+2. Ved sektorformet landings- og startområde, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c annet strekpunkt, skal det fastsettes en inn- og utflygingsflate som begrenses av:
+
+   - En innerkant som faller sammen med den sirkelbue som definerer landings- og startområdets sektorbegrensning.
+   - To sidekanter langs forlengelsen av de radier som begrenser landings- og startområdet.
+   - En ytterkant som er en sirkelbue mellom forlengelsen av de radier som begrenser landings- og startområdet, og som har en avstand fra innerkanten lik flatens lengde.
+3. Ved rektangulært landings- og startområde, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c tredje strekpunkt, skal det for hver landings- og startsretning fastsettes inn- og utflygingsflater som hver begrenses av:
+
+   - En innerkant med lengde tilsvarende landings- og startområdets bredde, og som faller sammen med landings- og startområdets endebegrensning.
+   - To sidekanter som divergerer 10% i forhold til landings- og startområdets senterlinje.
+   - En ytterkant parallell med innerkanten.
+4. Dersom et område bare brukes for landing, skal det for hver landingsflate fastsettes en utflygingsflate for avbrutt landing. Utflygingsflate for avbrutt landing skal ha begrensninger som en ordinær utflygingsflate, men plasseringen av innerkanten fastsettes i godkjenningen. Dersom innerkanten ikke faller sammen med landingsområdets endebegrensning skal det etableres spesiell prosedyre for avbrutt innflyging.
+5. En inn- og utflygingsflate skal ha en helning i forhold til horisontalplanet på 5%, og en lengde på minimum 500 meter.
+6. For sjøflyplass som skal ha base for skoleflyging eller ervervsmessig trafikk med betalende passasjerer, skal inn- og utflygingsflaten ha en lengde på minimum 1.600 meter.
+
+(3) *Sideflater (jf. vedlegg 1)*
+
+1. På hver side av et landings- og startområde skal det fastsettes en sideflate. Dette gjelder likevel ikke når landings- og startområdets form er tilnærmet kvadratisk, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c første strekpunkt.
+2. En sideflate for rektangulært landings- og startområde, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c tredje strekpunkt, skal begrenses av:
+
+   - En innerkant som faller sammen med landings- og avgangsområdets lengdebegrensning.
+   - To sidekanter som faller sammen med inn- og utflygingsflatenes sidekanter.
+3. En sideflate for sektorformet landings- og startområde, jf. [§ 5](forskrift/2002-12-03-1383/§5) første ledd bokstav c annet strekpunkt, skal begrenses av innerkant og sidekanter som angitt i vedlegg 1.
+4. En sideflate skal ha en helning i forhold til horisontalplanet på 33%, og en lengde slik at den går klar alle hindre i aktuell retning.
+
+(4) *Identifisering av hinder*
+
+1. Innenfor landings- og startområdet skal alle faste og bevegelige objekter anses som hinder.
+2. Terreng og objekter (både faste og bevegelige) som gjennomtrenger hinderflatene, skal anses som hinder.
 
 ## § 10. Krav til fjerning og merking av hinder
 
-(1) *Fjerning av hinder*Alle faste og bevegelige hindre skal i utgangspunktet fjernes.Innenfor landings- og startområdet skal alle faste hindre fjernes.Alle faste og bevegelige hindre som ikke kan fjernes skal være gjenstand for en risikoanalyse. Ved risikoanalysen skal det vurderes hvilken flysikkerhetsmessig risiko hindrene representerer og hvilke kompenserende tiltak som må fastsettes for å ivareta flysikkerheten. Kompenserende tiltak fastsettes av Luftfartstilsynet i forbindelse med godkjenningen av flyplassen, og skal fremgå av godkjenningsdokumentet.Kompenserende tiltak kan som eksempel være, men er ikke begrenset til:Endring av hinderets høyde, masse og brekkbarhetBegrensninger på hvilke luftfartøy som kan bruke plassenBegrensninger på trafikkmengdenSpesielle inn- og utflygingsprosedyrerSærlige krav til operatører og fartøysjefer som kan bruke plassenAlle faste hindre som ikke kan fjernes, skal kunngjøres, jf. [§ 12](forskrift/2002-12-03-1383/§12) femte ledd nedenfor, og eventuelt merkes, jf. [§ 10](forskrift/2002-12-03-1383/§10) annet ledd nedenfor, og eventuelt belyses, jf. [§ 11](forskrift/2002-12-03-1383/§11) nedenfor.
+(1) *Fjerning av hinder*
 
-(2) *Merking av faste hindre*Alle faste hindre som ikke kan fjernes, skal merkes dersom ikke hindret har en utforming eller farge som gjør at det skiller seg klart fra omgivelsene og er godt synlig sett fra luftfartøy.\*Faste hindre som skal merkes, skal merkes med kontrastfarger, f.eks. i rødt og hvitt eller oransje og hvitt.Faste hindre som skal merkes, skal merkes i rutemønster eller båndmønster eller på annen hensiktsmessig måte. Rutenes og båndenes størrelse skal tilpasses hinderets størrelse.\*Faste hindre som skal merkes og som er mindre enn 1,5 m både horisontalt og vertikalt, skal merkes ensfarget rødt eller oransje.
+1. Alle faste og bevegelige hindre skal i utgangspunktet fjernes.
+2. Innenfor landings- og startområdet skal alle faste hindre fjernes.
+3. Alle faste og bevegelige hindre som ikke kan fjernes skal være gjenstand for en risikoanalyse. Ved risikoanalysen skal det vurderes hvilken flysikkerhetsmessig risiko hindrene representerer og hvilke kompenserende tiltak som må fastsettes for å ivareta flysikkerheten. Kompenserende tiltak fastsettes av Luftfartstilsynet i forbindelse med godkjenningen av flyplassen, og skal fremgå av godkjenningsdokumentet.
+
+   Kompenserende tiltak kan som eksempel være, men er ikke begrenset til:
+
+   - Endring av hinderets høyde, masse og brekkbarhet
+   - Begrensninger på hvilke luftfartøy som kan bruke plassen
+   - Begrensninger på trafikkmengden
+   - Spesielle inn- og utflygingsprosedyrer
+   - Særlige krav til operatører og fartøysjefer som kan bruke plassen
+4. Alle faste hindre som ikke kan fjernes, skal kunngjøres, jf. [§ 12](forskrift/2002-12-03-1383/§12) femte ledd nedenfor, og eventuelt merkes, jf. [§ 10](forskrift/2002-12-03-1383/§10) annet ledd nedenfor, og eventuelt belyses, jf. [§ 11](forskrift/2002-12-03-1383/§11) nedenfor.
+
+(2) *Merking av faste hindre*
+
+1. Alle faste hindre som ikke kan fjernes, skal merkes dersom ikke hindret har en utforming eller farge som gjør at det skiller seg klart fra omgivelsene og er godt synlig sett fra luftfartøy.
+
+\*
+
+1. Faste hindre som skal merkes, skal merkes med kontrastfarger, f.eks. i rødt og hvitt eller oransje og hvitt.
+2. Faste hindre som skal merkes, skal merkes i rutemønster eller båndmønster eller på annen hensiktsmessig måte. Rutenes og båndenes størrelse skal tilpasses hinderets størrelse.
+
+\*
+
+1. Faste hindre som skal merkes og som er mindre enn 1,5 m både horisontalt og vertikalt, skal merkes ensfarget rødt eller oransje.
 
 ## § 11. Krav til lysanlegg
 
@@ -98,19 +180,53 @@ Eventuelle krav til lysanlegg skal fastsettes av Luftfartstilsynet i hvert enkel
 
 ## § 12. Krav til flyplassdata og kunngjøring av slike
 
-(1) *Generelt*Sjøflyplassens innehaver skal fremskaffe, dokumentere og vedlikeholde de data om sjøflyplassen som fremgår av annet til sjuende ledd.Sjøflyplassens innehaver skal gjøre de data som fremgår av annet til sjuende ledd kjent for sjøflyplassens brukere, eventuelt gjennom et kunngjøringssystem.Sjøflyplassens innehaver skal påse at de flyplassdata som er kunngjort for flyplassen til enhver tid er korrekte.
+(1) *Generelt*
 
-(2) *Flyplassens referansepunkt*For en sjøflyplass skal det fastsettes et geografisk referansepunkt så nær sjøflyplassens geometriske sentrum som mulig.Referansepunktets posisjon skal kunngjøres i grader og minutter.
+1. Sjøflyplassens innehaver skal fremskaffe, dokumentere og vedlikeholde de data om sjøflyplassen som fremgår av annet til sjuende ledd.
+2. Sjøflyplassens innehaver skal gjøre de data som fremgår av annet til sjuende ledd kjent for sjøflyplassens brukere, eventuelt gjennom et kunngjøringssystem.
+3. Sjøflyplassens innehaver skal påse at de flyplassdata som er kunngjort for flyplassen til enhver tid er korrekte.
 
-(3) *Flyplassens høyde*Sjøflyplassens høyde over havet skal måles med nøyaktighet 1 m.Sjøflyplassens høyde skal kunngjøres i hele fot.
+(2) *Flyplassens referansepunkt*
 
-(4) *Flyplassens utforming*De kart og tegninger som er nødvendige for kunngjøring av flyplassdata skal utarbeides.Følgende data skal kunngjøres:Landings- og startområder: Rettvisende retning, lengde og bredde.Taksekanaler: Plassering og bredde.Fortøyningsanlegg og flyoppstillingsplasser: Plassering og andre nødvendige opplysninger.Merking (jf. [§ 8](forskrift/2002-12-03-1383/§8) ovenfor): Utforming og plassering.Lysanlegg (jf. [§ 11](forskrift/2002-12-03-1383/§11) ovenfor): Typer, utforming og plassering.
+1. For en sjøflyplass skal det fastsettes et geografisk referansepunkt så nær sjøflyplassens geometriske sentrum som mulig.
+2. Referansepunktets posisjon skal kunngjøres i grader og minutter.
 
-(5) *Hinder*Alle faste objekter som utgjør et hinder, jf. [§ 9](forskrift/2002-12-03-1383/§9) fjerde ledd ovenfor skal kunngjøres. Kunngjøringen skal inneholde hinderets posisjon (i grader, minutter, sekunder) og største høyde (i fot), en beskrivelse av objektet samt angi eventuell merking og belysning.Alt terreng som utgjør et hinder skal kunngjøres. Kunngjøringen skal inneholde en beskrivelse av hinderet og angi hinderets utstrekning. Kunngjøringen skal også inneholde posisjonen til hinderets viktigste høyeste punkter (i grader, minutter, sekunder), samt de samme punktenes høyde i fot. Dessuten skal kunngjøringen inneholde opplysninger om eventuell merking og belysning.
+(3) *Flyplassens høyde*
 
-(6) *Banelengder*For hver landings- og startsretning skal følgende kunngjøres:Tilgjengelig startdistanse (TORA)Tilgjengelig landingsdistanse (LDA).
+1. Sjøflyplassens høyde over havet skal måles med nøyaktighet 1 m.
+2. Sjøflyplassens høyde skal kunngjøres i hele fot.
 
-(7) *Lokale restriksjoner og merknader*Følgende data kunngjøres:Hvorvidt sjøflyplassen har Luftfartstilsynets godkjenning.Sjøflyplassens anvendelsesområde og begrensninger i bruk.Avvik fra gjeldende krav til utforming og drift.Andre opplysninger av flysikkerhetsmessig betydning.
+(4) *Flyplassens utforming*
+
+1. De kart og tegninger som er nødvendige for kunngjøring av flyplassdata skal utarbeides.
+2. Følgende data skal kunngjøres:
+
+   - Landings- og startområder: Rettvisende retning, lengde og bredde.
+   - Taksekanaler: Plassering og bredde.
+   - Fortøyningsanlegg og flyoppstillingsplasser: Plassering og andre nødvendige opplysninger.
+   - Merking (jf. [§ 8](forskrift/2002-12-03-1383/§8) ovenfor): Utforming og plassering.
+   - Lysanlegg (jf. [§ 11](forskrift/2002-12-03-1383/§11) ovenfor): Typer, utforming og plassering.
+
+(5) *Hinder*
+
+1. Alle faste objekter som utgjør et hinder, jf. [§ 9](forskrift/2002-12-03-1383/§9) fjerde ledd ovenfor skal kunngjøres. Kunngjøringen skal inneholde hinderets posisjon (i grader, minutter, sekunder) og største høyde (i fot), en beskrivelse av objektet samt angi eventuell merking og belysning.
+2. Alt terreng som utgjør et hinder skal kunngjøres. Kunngjøringen skal inneholde en beskrivelse av hinderet og angi hinderets utstrekning. Kunngjøringen skal også inneholde posisjonen til hinderets viktigste høyeste punkter (i grader, minutter, sekunder), samt de samme punktenes høyde i fot. Dessuten skal kunngjøringen inneholde opplysninger om eventuell merking og belysning.
+
+(6) *Banelengder*
+
+1. For hver landings- og startsretning skal følgende kunngjøres:
+
+   - Tilgjengelig startdistanse (TORA)
+   - Tilgjengelig landingsdistanse (LDA).
+
+(7) *Lokale restriksjoner og merknader*
+
+1. Følgende data kunngjøres:
+
+   - Hvorvidt sjøflyplassen har Luftfartstilsynets godkjenning.
+   - Sjøflyplassens anvendelsesområde og begrensninger i bruk.
+   - Avvik fra gjeldende krav til utforming og drift.
+   - Andre opplysninger av flysikkerhetsmessig betydning.
 
 ## § 13. Dispensasjon
 

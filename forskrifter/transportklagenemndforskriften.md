@@ -32,7 +32,13 @@ Transportklagenemnda skal bidra til å spre generell kunnskap om passasjerenes r
 
 ### § 1-2. Organiseringen av transportklagenemnda
 
-(1) Transportklagenemnda består av følgende organer:Styret ([kapittel 4](forskrift/2012-01-20-84/kap4)).Nemnda ([kapittel 2](forskrift/2012-01-20-84/kap2)).Sekretariatet ([kapittel 3](forskrift/2012-01-20-84/kap3)).
+(1) Transportklagenemnda består av følgende organer:
+
+Styret ([kapittel 4](forskrift/2012-01-20-84/kap4)).
+
+Nemnda ([kapittel 2](forskrift/2012-01-20-84/kap2)).
+
+Sekretariatet ([kapittel 3](forskrift/2012-01-20-84/kap3)).
 
 (2) Samferdselsdepartementet utpeker sekretariatet for transportklagenemnda.
 
@@ -46,7 +52,14 @@ Transportklagenemnda skal bidra til å spre generell kunnskap om passasjerenes r
 
 ### § 1-4. Hvilke passasjerer som har klagerett
 
-Enhver passasjer som har rettigheter i medhold avluftfartsloven med forskrifter, avtale om yting av tjenester som faller innenfor luftfartslovgivningens virkeområde,jernbaneloven med forskrifter, avtale om yting av tjenester som faller innenfor jernbanelovens virkeområde,yrkestransportlova med forskrifter, avtale om yting av tjenester som faller inn under yrkestransportlovgivningens virkeområde, ellerregler i sjøloven kapittel 15 romertall IV med forskrifter, avtale om yting av tjenester som faller innenfor sjøfartslovgivningens virkeområde,samt andre regler og rettsprinsipper som har betydning for forholdet mellom passasjeren og tjenesteyteren, har rett til å klage til Transportklagenemnda over antatt brudd på sine rettigheter.
+Enhver passasjer som har rettigheter i medhold av
+
+1. luftfartsloven med forskrifter, avtale om yting av tjenester som faller innenfor luftfartslovgivningens virkeområde,
+2. jernbaneloven med forskrifter, avtale om yting av tjenester som faller innenfor jernbanelovens virkeområde,
+3. yrkestransportlova med forskrifter, avtale om yting av tjenester som faller inn under yrkestransportlovgivningens virkeområde, eller
+4. regler i sjøloven kapittel 15 romertall IV med forskrifter, avtale om yting av tjenester som faller innenfor sjøfartslovgivningens virkeområde,
+
+samt andre regler og rettsprinsipper som har betydning for forholdet mellom passasjeren og tjenesteyteren, har rett til å klage til Transportklagenemnda over antatt brudd på sine rettigheter.
 
 > Endret ved [forskrift 20 des 2016 nr. 1782](forskrift/2016-12-20-1782) (i kraft 1 jan 2017, nemnda skal behandle klager i henhold til bokstav d som innkommer 1. januar 2017 eller senere).
 
@@ -252,13 +265,27 @@ Klagenemnda skal informere partene så snart den har mottatt nødvendige og rele
 
 ### § 6-1. Avvisning foretatt av sekretariatets leder
 
-Sekretariatets leder kan avvise en klage dersomsaken åpenbart faller utenfor nemndas kompetanse etter [§ 1-3](forskrift/2012-01-20-84/§1-3),hele eller deler av klagen hører mest naturlig inn under et annet klageorgan,klagen åpenbart ikke kan tas til følge,saken er til behandling ved de alminnelige domstolene eller er endelig avgjort ved dom, rettsforlik eller bindende voldgiftsavgjørelse, ellersaken har tidligere vært behandlet av nemnda, jf. dog [§ 6-5](forskrift/2012-01-20-84/§6-5),saken ikke lar seg behandle uten at dette i særlig grad går utover nemndas effektivitet.
+Sekretariatets leder kan avvise en klage dersom
+
+1. saken åpenbart faller utenfor nemndas kompetanse etter [§ 1-3](forskrift/2012-01-20-84/§1-3),
+2. hele eller deler av klagen hører mest naturlig inn under et annet klageorgan,
+3. klagen åpenbart ikke kan tas til følge,
+4. saken er til behandling ved de alminnelige domstolene eller er endelig avgjort ved dom, rettsforlik eller bindende voldgiftsavgjørelse, eller
+5. saken har tidligere vært behandlet av nemnda, jf. dog [§ 6-5](forskrift/2012-01-20-84/§6-5),
+6. saken ikke lar seg behandle uten at dette i særlig grad går utover nemndas effektivitet.
 
 > Endret ved [forskrift 29 juni 2016 nr. 844](forskrift/2016-06-29-844) (i kraft 1 juli 2016).
 
 ### § 6-2. Avvisning foretatt av nemnda
 
-Nemnda kan avvise en klage dersomsaken faller utenfor nemndas kompetanse etter [§ 1-3](forskrift/2012-01-20-84/§1-3),hele eller deler av klagen hører mest naturlig inn under et annet klageorgan,saken er av en slik art at vedtak ikke kan fattes på forsvarlig vis uten at partene avgir muntlig forklaring,saken for øvrig reiser bevisspørsmål som vanskelig kan klarlegges under saksbehandlingen eller av andre grunner ikke egner seg for behandling i nemnda,saken har tidligere vært behandlet av nemnda, eller er til behandling eller er avgjort av utenlandsk klageorgan, jf. dog [§ 6-5](forskrift/2012-01-20-84/§6-5), ellersaken ikke lar seg behandle uten at dette i særlig grad går utover nemndas effektivitet.
+Nemnda kan avvise en klage dersom
+
+1. saken faller utenfor nemndas kompetanse etter [§ 1-3](forskrift/2012-01-20-84/§1-3),
+2. hele eller deler av klagen hører mest naturlig inn under et annet klageorgan,
+3. saken er av en slik art at vedtak ikke kan fattes på forsvarlig vis uten at partene avgir muntlig forklaring,
+4. saken for øvrig reiser bevisspørsmål som vanskelig kan klarlegges under saksbehandlingen eller av andre grunner ikke egner seg for behandling i nemnda,
+5. saken har tidligere vært behandlet av nemnda, eller er til behandling eller er avgjort av utenlandsk klageorgan, jf. dog [§ 6-5](forskrift/2012-01-20-84/§6-5), eller
+6. saken ikke lar seg behandle uten at dette i særlig grad går utover nemndas effektivitet.
 
 > Endret ved [forskrift 29 juni 2016 nr. 844](forskrift/2016-06-29-844) (i kraft 1 juli 2016).
 
@@ -288,7 +315,25 @@ Dersom en klage avvises etter reglene i [§ 6-1](forskrift/2012-01-20-84/§6-1) 
 
 ### § 7-1. Transportklagenemndas side på Internett
 
-(1) Klagenemnda skal ha en egen side på Internett. Nemnda skal ha tydelige og lett forståelige opplysninger på sine nettsider og etter anmodning på et varig medium, om:nemndas kontaktopplysninger, herunder post- og e-postadresse,hvilke fysiske personer som har ansvar for klagebehandlingen (ledere, nemndsmedlemmer, ansatte i sekretariatet, meklere, og andre som behandler klagene), og på hvilken måte de er oppnevnt, og for hvor lang tid,sakkunnskap, upartiskhet og uavhengighet hos de fysiske personene med ansvar for klagebehandlingen, og om disse er ansatt av eller mottar vederlag utelukkende fra den næringsdrivende,nemndas eventuelle deltagelse i nettverk av klageorganer som skal gjøre det enklere å løse tverrnasjonale tvister,hvilke type saker nemnda har kompetanse til å behandle, herunder nedre og/eller øvre beløpsgrense som vilkår for å ta en klage til behandling,nemndas saksbehandlingsregler og dens adgang til å avvise en sak,språkkrav til klagen og hvilke språk som benyttes under klagebehandlingen,hvilke typer regler nemnda kan bruke i klagebehandlingen (f.eks. lovbestemmelser, rimelighetsvurderinger og atferdsregler),eventuelle forhåndskrav som partene må oppfylle før klagen behandles, f.eks. ha prøvd å løse saken med motparten,hvorvidt partene kan trekke seg fra klagebehandlingen,eventuelle kostnader partene må dekke, herunder reglene for fordeling av kostnader ved endt klagebehandling,gjennomsnittlig klagebehandlingstid,rettsvirkningene av resultatet av klagebehandlingen, herunder eventuelt sanksjonene ved manglende etterlevelse av en bindende beslutning,avgjørelsens tvangskraft, dersom det er relevant,nemndas årsrapport, jf. [§ 9-1](forskrift/2012-01-20-84/§9-1),denne forskriften og retningslinjene som er nevnt i [§ 4-2](forskrift/2012-01-20-84/§4-2) (1),EU-kommisjonens liste over klageorganer. Listen skal også gjøres tilgjengelig på varig medium i klageorganets lokaler, dersom dette er praktisk mulig.
+(1) Klagenemnda skal ha en egen side på Internett. Nemnda skal ha tydelige og lett forståelige opplysninger på sine nettsider og etter anmodning på et varig medium, om:
+
+1. nemndas kontaktopplysninger, herunder post- og e-postadresse,
+2. hvilke fysiske personer som har ansvar for klagebehandlingen (ledere, nemndsmedlemmer, ansatte i sekretariatet, meklere, og andre som behandler klagene), og på hvilken måte de er oppnevnt, og for hvor lang tid,
+3. sakkunnskap, upartiskhet og uavhengighet hos de fysiske personene med ansvar for klagebehandlingen, og om disse er ansatt av eller mottar vederlag utelukkende fra den næringsdrivende,
+4. nemndas eventuelle deltagelse i nettverk av klageorganer som skal gjøre det enklere å løse tverrnasjonale tvister,
+5. hvilke type saker nemnda har kompetanse til å behandle, herunder nedre og/eller øvre beløpsgrense som vilkår for å ta en klage til behandling,
+6. nemndas saksbehandlingsregler og dens adgang til å avvise en sak,
+7. språkkrav til klagen og hvilke språk som benyttes under klagebehandlingen,
+8. hvilke typer regler nemnda kan bruke i klagebehandlingen (f.eks. lovbestemmelser, rimelighetsvurderinger og atferdsregler),
+9. eventuelle forhåndskrav som partene må oppfylle før klagen behandles, f.eks. ha prøvd å løse saken med motparten,
+10. hvorvidt partene kan trekke seg fra klagebehandlingen,
+11. eventuelle kostnader partene må dekke, herunder reglene for fordeling av kostnader ved endt klagebehandling,
+12. gjennomsnittlig klagebehandlingstid,
+13. rettsvirkningene av resultatet av klagebehandlingen, herunder eventuelt sanksjonene ved manglende etterlevelse av en bindende beslutning,
+14. avgjørelsens tvangskraft, dersom det er relevant,
+15. nemndas årsrapport, jf. [§ 9-1](forskrift/2012-01-20-84/§9-1),
+16. denne forskriften og retningslinjene som er nevnt i [§ 4-2](forskrift/2012-01-20-84/§4-2) (1),
+17. EU-kommisjonens liste over klageorganer. Listen skal også gjøres tilgjengelig på varig medium i klageorganets lokaler, dersom dette er praktisk mulig.
 
 (2) Alle avgjørelser nemnda fatter skal i sin helhet publiseres på klagenemndas internettside. Unntak gjelder for de delene av avgjørelsen som er taushetsbelagt i lov. Navn på personer som nevnt i [§ 5-9](forskrift/2012-01-20-84/§5-9) skal likevel ikke publiseres med mindre vedkommende selv samtykker.
 
@@ -312,7 +357,13 @@ Kostnadene ved etablering og drift av klagenemnda dekkes gjennom kostnadsbaserte
 
 (1) Den sektorkostnaden som er beregnet for luftfarten («luftfartskostnaden») etter reglene i [§ 8-1](forskrift/2012-01-20-84/§8-1) dekkes gjennom et gebyr som kreves inn fra flyselskapene etter regelen i annet ledd og fra de foretakene som driver landingsplass etter reglene i tredje ledd. Gebyret beregnes og fastsettes normalt per kalenderår.
 
-(2) Gebyr beregnes og innkreves bare for flygninger som gir passasjerene rettigheter overfor flyselskapet (tjenesteyteren) i henhold rettsgrunnlag som nevnt i [§ 1-4](forskrift/2012-01-20-84/§1-4) første ledd. Gebyret som skal betales av flyselskapene for den enkelte flygningen beregnes slik:Luftfartskostnaden multipliseres med en faktor som gjenspeiler hvor stor andel av samlet antall klager som er rettet mot flyselskapene.Summen fra a) divideres med forventet antall gebyrpliktige passasjeravganger fra norske lufthavner i vedkommende kalenderår.Summen fra b) multipliseres med antall passasjerer på den aktuelle flygningen.Flygninger på eller fra Svalbard utløser ikke betalingsplikt for flyselskapene, og inngår heller ikke i beregningen etter bokstav c) ovenfor.
+(2) Gebyr beregnes og innkreves bare for flygninger som gir passasjerene rettigheter overfor flyselskapet (tjenesteyteren) i henhold rettsgrunnlag som nevnt i [§ 1-4](forskrift/2012-01-20-84/§1-4) første ledd. Gebyret som skal betales av flyselskapene for den enkelte flygningen beregnes slik:
+
+1. Luftfartskostnaden multipliseres med en faktor som gjenspeiler hvor stor andel av samlet antall klager som er rettet mot flyselskapene.
+2. Summen fra a) divideres med forventet antall gebyrpliktige passasjeravganger fra norske lufthavner i vedkommende kalenderår.
+3. Summen fra b) multipliseres med antall passasjerer på den aktuelle flygningen.
+
+Flygninger på eller fra Svalbard utløser ikke betalingsplikt for flyselskapene, og inngår heller ikke i beregningen etter bokstav c) ovenfor.
 
 (3) Gebyret som skal betales av foretak som driver landingsplass fastsettes skjønnsmessig av nemndas styre (jf. [§ 4-2](forskrift/2012-01-20-84/§4-2) (3)) slik at de samlede årlige innbetalingene dekker differansen mellom summene beregnet etter reglene i annet ledd bokstav a) og b). I tillegg skal gebyret dekke kostnadene ved å foreta innkreving etter fjerde ledd. Foretak som driver landingsplass på Svalbard betaler ikke gebyr etter første punktum.
 
@@ -342,7 +393,11 @@ Nemnda krever inn gebyrer fra jernbaneforetakene i henhold til annet ledd.
 
 (1) Den sektorkostnad for etablering og drift som er beregnet for sjøfarten etter reglene i [§ 8-1](forskrift/2012-01-20-84/§8-1), dekkes gjennom et gebyr som kreves inn fra tjenesteyterne etter reglene i annet ledd. Gebyret beregnes og fastsettes normalt forskuddsvis for hvert kalenderår.
 
-(2) Gebyr beregnes og innkreves bare for transportytelser som gir passasjerene rettigheter overfor bortfrakter (tjenesteyteren) i henhold til rettsgrunnlag som nevnt i [§ 1-4](forskrift/2012-01-20-84/§1-4) bokstav d. Gebyret som skal betales av bortfrakter for den enkelte transportytelse skal beregnes særskilt for den del av sektoren hvor transporten har avgang- eller ankomsthavn utenfor norsk territorium (sjøfart utenriks) og den delen av sektoren hvor både avgang- og ankomsthavn er innenfor norsk territorium (sjøfart innenriks), slik:Sektorkostnaden for sjøfart utenriks eller innenriks etter [§ 8-1](forskrift/2012-01-20-84/§8-1) multipliseres med en faktor som gjenspeiler hvor stor andel av samlet antall klager som er rettet mot bortfrakterne.Summen etter bokstav a divideres med forventet antall gebyrpliktige transportytelser fra norske havner i vedkommende kalenderår.Summen etter bokstav b multipliseres med antall passasjerer på den aktuelle fergetransporten.
+(2) Gebyr beregnes og innkreves bare for transportytelser som gir passasjerene rettigheter overfor bortfrakter (tjenesteyteren) i henhold til rettsgrunnlag som nevnt i [§ 1-4](forskrift/2012-01-20-84/§1-4) bokstav d. Gebyret som skal betales av bortfrakter for den enkelte transportytelse skal beregnes særskilt for den del av sektoren hvor transporten har avgang- eller ankomsthavn utenfor norsk territorium (sjøfart utenriks) og den delen av sektoren hvor både avgang- og ankomsthavn er innenfor norsk territorium (sjøfart innenriks), slik:
+
+1. Sektorkostnaden for sjøfart utenriks eller innenriks etter [§ 8-1](forskrift/2012-01-20-84/§8-1) multipliseres med en faktor som gjenspeiler hvor stor andel av samlet antall klager som er rettet mot bortfrakterne.
+2. Summen etter bokstav a divideres med forventet antall gebyrpliktige transportytelser fra norske havner i vedkommende kalenderår.
+3. Summen etter bokstav b multipliseres med antall passasjerer på den aktuelle fergetransporten.
 
 (3) Transport på eller fra Svalbard utløser ikke betalingsplikt for bortfrakterne, og inngår heller ikke i gebyrberegningen etter annet ledd. Tilsvarende gjelder for transportytelser som etter pakkereiseloven § 10-1 gir passasjeren adgang til nemndbehandling.
 
@@ -368,7 +423,19 @@ Styret fastsetter godtgjørelsen til nemndas leder. Styret kan bestemme at også
 
 ### § 9-1. Årsberetning
 
-Transportklagenemnda skal innen 1. mars hvert år avgi en årsberetning om virksomheten det foregående kalenderåret. Beretningen skal ikke inneholde taushetsbelagte opplysninger som umuliggjør at den i sin helhet publiseres i overensstemmelse [§ 7-1](forskrift/2012-01-20-84/§7-1) (2) eller gjøres offentlig på annen måte. Årsberetningen skal inneholde opplysninger om:antall mottatte klager og hva klagene gjelder,eventuelle systematiske eller vesentlige problemer som forekommer ofte og fører til tvister mellom forbrukere og næringsdrivende. Opplysningene kan følges av anbefalinger om hvordan slike problemer kan unngås eller løses i framtiden,antall avviste klager, og hvordan de avviste sakene prosentvis fordeler seg på de ulike avvisningsgrunnene,prosentandel av klagebehandlingene som er foreslått eller pålagt til fordel for henholdsvis forbruker og næringsdrivende, og prosentandel av klagebehandlingene som har endt med minnelig løsning,prosentandelen av klagebehandlingene som ble avbrutt og årsakene til dette, hvis slik informasjon foreligger,gjennomsnittlig saksbehandlingstid,antall saker som behandles innen saksbehandlingsfristen på 90 dager, og antall saker som har fått forlenget saksbehandlingsfrist,i hvilket omfang resultatene av klagebehandlinger er blitt etterlevd, hvis slik informasjon foreligger,klageorganets eventuelle deltagelse i nettverk av klageorganer som skal gjøre det enklere å løse tverrnasjonale tvister,klageorganets eventuelle opplærings- og kompetansetiltak,en evaluering av klageorganets effektivitet, samt forslag til forbedringstiltak.
+Transportklagenemnda skal innen 1. mars hvert år avgi en årsberetning om virksomheten det foregående kalenderåret. Beretningen skal ikke inneholde taushetsbelagte opplysninger som umuliggjør at den i sin helhet publiseres i overensstemmelse [§ 7-1](forskrift/2012-01-20-84/§7-1) (2) eller gjøres offentlig på annen måte. Årsberetningen skal inneholde opplysninger om:
+
+1. antall mottatte klager og hva klagene gjelder,
+2. eventuelle systematiske eller vesentlige problemer som forekommer ofte og fører til tvister mellom forbrukere og næringsdrivende. Opplysningene kan følges av anbefalinger om hvordan slike problemer kan unngås eller løses i framtiden,
+3. antall avviste klager, og hvordan de avviste sakene prosentvis fordeler seg på de ulike avvisningsgrunnene,
+4. prosentandel av klagebehandlingene som er foreslått eller pålagt til fordel for henholdsvis forbruker og næringsdrivende, og prosentandel av klagebehandlingene som har endt med minnelig løsning,
+5. prosentandelen av klagebehandlingene som ble avbrutt og årsakene til dette, hvis slik informasjon foreligger,
+6. gjennomsnittlig saksbehandlingstid,
+7. antall saker som behandles innen saksbehandlingsfristen på 90 dager, og antall saker som har fått forlenget saksbehandlingsfrist,
+8. i hvilket omfang resultatene av klagebehandlinger er blitt etterlevd, hvis slik informasjon foreligger,
+9. klageorganets eventuelle deltagelse i nettverk av klageorganer som skal gjøre det enklere å løse tverrnasjonale tvister,
+10. klageorganets eventuelle opplærings- og kompetansetiltak,
+11. en evaluering av klageorganets effektivitet, samt forslag til forbedringstiltak.
 
 > Endret ved [forskrift 29 juni 2016 nr. 844](forskrift/2016-06-29-844) (i kraft 1 juli 2016).
 
@@ -378,7 +445,10 @@ Transportklagenemnda skal innen 1. mars hvert år avgi en årsberetning om virks
 
 Forskriften trer i kraft 1. februar 2012.
 
-Fra samme tidspunktoppheves [forskrift 31. oktober 2008 nr. 1168](forskrift/2008-10-31-1168) om klagenemnd for flypassasjerer.gjøres følgende endringer i [forskrift 3. september 2010 nr. 1241](forskrift/2010-09-03-1241) om gjennomføring av Europaparlaments- og rådsforordning [(EF) nr. 1371/2007](eu/32007r1371) av 23. oktober 2007 om jernbanepassasjerers rettigheter og forpliktelser (jernbanepassasjerrettighetsforskriften): – – –
+Fra samme tidspunkt
+
+1. oppheves [forskrift 31. oktober 2008 nr. 1168](forskrift/2008-10-31-1168) om klagenemnd for flypassasjerer.
+2. gjøres følgende endringer i [forskrift 3. september 2010 nr. 1241](forskrift/2010-09-03-1241) om gjennomføring av Europaparlaments- og rådsforordning [(EF) nr. 1371/2007](eu/32007r1371) av 23. oktober 2007 om jernbanepassasjerers rettigheter og forpliktelser (jernbanepassasjerrettighetsforskriften): – – –
 
 ### § 10-2. Overgangsregler mv.
 

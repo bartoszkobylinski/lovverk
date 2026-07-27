@@ -15,7 +15,7 @@ xml_hash: "5cd442547ec07778d443c6a6116651badb67fac59ffacd2933e5fe306333cab0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,13 @@ Dersom det er nødvendig å ta ut prøver under transport, velges det ut prøver
 
 1.2.2.
 
-Ved prøvetaking under lossing, velges det ut fire prøver blant følgende kritiske punkter:øverst og nederst i partiet i nærheten av døråpningeneøverst i de bakerste hjørnene i partiet (så langt fra fryse-enheten som mulig)i midten av partietmidt i partiets fremre overflate (så nær fryse-enheten som mulig)de øverste og nederste hjørnene i partiets fremre overflate (så nær fryse-enheten som mulig)
+Ved prøvetaking under lossing, velges det ut fire prøver blant følgende kritiske punkter:
+
+1. øverst og nederst i partiet i nærheten av døråpningene
+2. øverst i de bakerste hjørnene i partiet (så langt fra fryse-enheten som mulig)
+3. i midten av partiet
+4. midt i partiets fremre overflate (så nær fryse-enheten som mulig)
+5. de øverste og nederste hjørnene i partiets fremre overflate (så nær fryse-enheten som mulig)
 
 1.3.*Salgsdisker*
 

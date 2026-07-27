@@ -38,7 +38,13 @@ Forskriften omfatter enhver som mottar og kjøper pelagisk fisk i første hånd.
 
 Mottaker skal ha automatisk vekt egnet til bruk ved landing av fisk. At vekten er egnet til bruk ved landing av fisk vil si at all fisk, slik den føres over vekten, blir automatisk registrert og korrekt veid. Vekten skal være plassert i mottaksområdet, og den som lander skal ha uhindret og direkte adgang til vekten. De måletekniske kravene til vektene som benyttes ved landing av fisk følger av regler gitt i eller i medhold av [lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid](lov/2007-01-26-4).
 
-En egnet ikke-automatisk vekt kan benyttes:ved landing av fryst fisk,ved landing av rensefisk,for veiing av utsortert pelagisk fanget fisk og fisk som sorteres ut til produksjon av farse-, mel og oljeprodukter i henhold til [forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel § 5 andre ledd](forskrift/2014-05-06-607/§5/ledd/2),for veiing av fisk som mottas på annen måte enn i første hånd, dette gjelder ikke mottak av avskjær ved mottaksanlegg som mottar industrifangster for produksjon av fiskemel og fiskeolje,for veiing av bifangst.
+En egnet ikke-automatisk vekt kan benyttes:
+
+1. ved landing av fryst fisk,
+2. ved landing av rensefisk,
+3. for veiing av utsortert pelagisk fanget fisk og fisk som sorteres ut til produksjon av farse-, mel og oljeprodukter i henhold til [forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel § 5 andre ledd](forskrift/2014-05-06-607/§5/ledd/2),
+4. for veiing av fisk som mottas på annen måte enn i første hånd, dette gjelder ikke mottak av avskjær ved mottaksanlegg som mottar industrifangster for produksjon av fiskemel og fiskeolje,
+5. for veiing av bifangst.
 
 Hver enkelt vekt som benyttes ved landing skal registreres hos Fiskeridirektoratet før den kan tas i bruk. Ved innmelding skal vekten identifiseres med opplysninger om vekttype, vektprodusent og et unikt serienummer, samt opplysninger om vektens plassering og om hvilken mottaker som er ansvarlig for vekten. Fiskeridirektoratet fastsetter nærmere prosedyrer for slik registrering.
 

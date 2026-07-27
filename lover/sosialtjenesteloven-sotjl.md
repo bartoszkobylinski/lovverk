@@ -15,7 +15,7 @@ xml_hash: "37e1bc4d0e847548af4cad4c59e9c5eeb0da5ce5e99abc7b9e416d837a955a65"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,14 @@ Kostnadene ved tjenester som nevnt i første ledd skal dekkes av den kommunen so
 
 ### § 8. Statens ansvar og myndighet
 
-Departementet skalfølge med at loven og forskriftene og andre bestemmelser som gjelder for tjenester etter denne loven, blir anvendt riktig og på en måte som fremmer lovens formål på en god og hensiktsmessig måte,sørge for at erfaringene med loven blir vurdert, og at det blir gjennomført nødvendige endringer i regelverket,gi de retningslinjene og instruksene som er nødvendige for å nå det målet som er nevnt i bokstav a,arbeide for at det blir satt i gang forskning som kan få betydning for løsningen av oppgaver etter loven,sørge for at det finnes et forsvarlig tilbud for utdanning av personale, og at de som skal anvende loven ellers, får forsvarlig veiledning,sørge for at det blir utarbeidet informasjonsmateriell som sosialtjenesten kan bruke, jf. [§ 12](lov/2009-12-18-131/§12).
+Departementet skal
+
+1. følge med at loven og forskriftene og andre bestemmelser som gjelder for tjenester etter denne loven, blir anvendt riktig og på en måte som fremmer lovens formål på en god og hensiktsmessig måte,
+2. sørge for at erfaringene med loven blir vurdert, og at det blir gjennomført nødvendige endringer i regelverket,
+3. gi de retningslinjene og instruksene som er nødvendige for å nå det målet som er nevnt i bokstav a,
+4. arbeide for at det blir satt i gang forskning som kan få betydning for løsningen av oppgaver etter loven,
+5. sørge for at det finnes et forsvarlig tilbud for utdanning av personale, og at de som skal anvende loven ellers, får forsvarlig veiledning,
+6. sørge for at det blir utarbeidet informasjonsmateriell som sosialtjenesten kan bruke, jf. [§ 12](lov/2009-12-18-131/§12).
 
 Departementet kan kreve at kommunale organer som hører under denne loven, uten hinder av taushetsplikten gir de opplysninger og meldinger som er nødvendige for at departementet kan utføre sine oppgaver etter første ledd.
 
@@ -376,7 +383,13 @@ Dersom et barns interesser tilsier det, kan statsforvalteren eller departementet
 
 Enhver som utfører tjeneste eller arbeid etter denne loven, skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenesten.
 
-Enhver som utfører tjeneste eller arbeid etter denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet oppholdnår det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmiddel, eller ved andre utpreget skadelige handlinger,når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+Enhver som utfører tjeneste eller arbeid etter denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold
+
+1. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,
+2. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,
+3. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,
+4. når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmiddel, eller ved andre utpreget skadelige handlinger,
+5. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
 
 Enhver som utfører tjeneste eller arbeid etter denne loven, plikter også å gi opplysninger etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
 

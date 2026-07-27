@@ -22,6 +22,11 @@ eu_basis: []
 
 # Delegering av myndighet til Riksantikvaren etter lov om kulturminner § 20.
 
-Kongens myndighet etter [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner [§ 20](lov/1978-06-09-50/§20) delegeres til Riksantikvaren for så vidt gjelder:endringer i verneområdets navnretting eller feil og unøyaktigheter i beskrivelsen av det vernete områdetgrenseendringer som omfatter mindre arealer (utvidelser eller innskrenkninger)andre endringer i vernebestemmelsene som ikke strider mot formålet med vernet.
+Kongens myndighet etter [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner [§ 20](lov/1978-06-09-50/§20) delegeres til Riksantikvaren for så vidt gjelder:
+
+1. endringer i verneområdets navn
+2. retting eller feil og unøyaktigheter i beskrivelsen av det vernete området
+3. grenseendringer som omfatter mindre arealer (utvidelser eller innskrenkninger)
+4. andre endringer i vernebestemmelsene som ikke strider mot formålet med vernet.
 
 Delegeringen trer i kraft straks.

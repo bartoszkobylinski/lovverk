@@ -42,13 +42,35 @@ Forskriften retter seg mot enhver som planlegger drift eller driver akvakulturan
 
 ## § 3. Definisjoner
 
-I forskriften forstås med:*Akvakulturanlegg:* Enhver lokalitet, fysisk avgrenset område eller installasjon som drives av et akvakulturforetak der akvakulturdyr oppdrettes, med unntak av de lokaliteter, områder eller installasjoner der ville akvatiske dyr høstet eller fanget med tanke på konsum, holdes midlertidig uten å fôres i påvente av å bli slaktet. Med akvakulturforetak menes her ethvert privat eller offentlig foretak, ideelt eller ikke, som utøver en hvilken som helst virksomhet i forbindelse med oppdrett, hold eller dyrking av akvakulturdyr.*Akvakulturdyr:* Alle livsstadier inklusive kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg, inkludert alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg.(Opphevet)*Akvariedyr:* Alle akvatiske dyr som holdes, oppdrettes eller omsettes utelukkende for prydformål.*Akvatiske dyr:*kjeveløse fisk (urfisk) som tilhører overklassen *Agnatha*, bruskfisk og beinfisk som tilhører klassene *Chondrichthyes* og *Osteichthyes*bløtdyr som tilhører rekken *Mollusca*krepsdyr som tilhører underrekken *Crustacea*.*Biosikkerhetssystem:* Gjeldende tiltak for å forebygge, overvåke og bekjempe sykdommer hos akvatiske dyr.*Etablering:* Plassering av akvakulturanlegg eller havbeite, på en lokalitet som er geografisk definert.*Havbeite:* Akvakultur av krepsdyr og bløtdyr i form av bunnkultur uten at dyrene holdes i fangenskap.*Installasjon:* Innretninger der akvakulturdyr fôres, behandles eller oppbevares, inkludert fortøyninger. En installasjon kan bestå av flere produksjonsenheter.*Installasjon for fritidsfiske:* Dammer eller andre installasjoner der populasjonen opprettholdes kun med tanke på fritidsfiske ved utsett av akvakulturdyr.*Vassdrag:* Alt stillestående eller rennende overflatevann med årssikker vannføring, med tilhørende bunn og bredder inntil høyeste flomvannstand, inkludert hoved- og sidevassdrag med tilhørende nedslagsfelt.
+I forskriften forstås med:
+
+1. *Akvakulturanlegg:* Enhver lokalitet, fysisk avgrenset område eller installasjon som drives av et akvakulturforetak der akvakulturdyr oppdrettes, med unntak av de lokaliteter, områder eller installasjoner der ville akvatiske dyr høstet eller fanget med tanke på konsum, holdes midlertidig uten å fôres i påvente av å bli slaktet. Med akvakulturforetak menes her ethvert privat eller offentlig foretak, ideelt eller ikke, som utøver en hvilken som helst virksomhet i forbindelse med oppdrett, hold eller dyrking av akvakulturdyr.
+2. *Akvakulturdyr:* Alle livsstadier inklusive kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg, inkludert alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg.
+3. (Opphevet)
+4. *Akvariedyr:* Alle akvatiske dyr som holdes, oppdrettes eller omsettes utelukkende for prydformål.
+5. *Akvatiske dyr:*
+
+   1. kjeveløse fisk (urfisk) som tilhører overklassen *Agnatha*, bruskfisk og beinfisk som tilhører klassene *Chondrichthyes* og *Osteichthyes*
+   2. bløtdyr som tilhører rekken *Mollusca*
+   3. krepsdyr som tilhører underrekken *Crustacea*.
+6. *Biosikkerhetssystem:* Gjeldende tiltak for å forebygge, overvåke og bekjempe sykdommer hos akvatiske dyr.
+7. *Etablering:* Plassering av akvakulturanlegg eller havbeite, på en lokalitet som er geografisk definert.
+8. *Havbeite:* Akvakultur av krepsdyr og bløtdyr i form av bunnkultur uten at dyrene holdes i fangenskap.
+9. *Installasjon:* Innretninger der akvakulturdyr fôres, behandles eller oppbevares, inkludert fortøyninger. En installasjon kan bestå av flere produksjonsenheter.
+10. *Installasjon for fritidsfiske:* Dammer eller andre installasjoner der populasjonen opprettholdes kun med tanke på fritidsfiske ved utsett av akvakulturdyr.
+11. *Vassdrag:* Alt stillestående eller rennende overflatevann med årssikker vannføring, med tilhørende bunn og bredder inntil høyeste flomvannstand, inkludert hoved- og sidevassdrag med tilhørende nedslagsfelt.
 
 > Endret ved forskrift [6 april 2022 nr. 629](forskrift/2022-04-06-629) (i kraft 28 april 2022).
 
 ## § 4. Krav om melding og registrering
 
-Den som innehar eller ønsker å etablere:akvakulturanlegg hvor akvatiske dyr kun holdes uten at de skal omsettes,akvakulturanlegg eller havbeite som kun omsetter små mengder akvakulturdyr, eller akvatiske dyr fra havbeite, for konsum til sluttforbruker eller lokal detaljist som omsetter direkte til sluttforbrukerinstallasjon for midlertidig oppbevaring av rensefiskskal gi melding om dette til Mattilsynet.
+Den som innehar eller ønsker å etablere:
+
+1. akvakulturanlegg hvor akvatiske dyr kun holdes uten at de skal omsettes,
+2. akvakulturanlegg eller havbeite som kun omsetter små mengder akvakulturdyr, eller akvatiske dyr fra havbeite, for konsum til sluttforbruker eller lokal detaljist som omsetter direkte til sluttforbruker
+3. installasjon for midlertidig oppbevaring av rensefisk
+
+skal gi melding om dette til Mattilsynet.
 
 Meldingen skal minimum inneholde opplysninger om hvem som er ansvarlig, geografisk plassering, inntaksvann og avløpsvann, eventuell behandling av avløpsvann, samt opplysninger om art, antallet akvatiske dyr, størrelse på akvakulturanlegget eller havbeitet, mengde som eventuelt omsettes til humant konsum og til hvem. Endringer i disse opplysninger skal også meldes til Mattilsynet.
 
@@ -66,7 +88,17 @@ Etablering av akvakulturanlegg og havbeite, utvidelse av produksjonsomfang og an
 
 ## § 6. Krav til søknad om godkjenning
 
-Søknaden om godkjenning skal inneholde de opplysninger som er nødvendige for å vurdere om godkjenning kan gis, og hvilke vilkår som eventuelt skal stilles, og skal minst inneholde følgende:Navn på eier av akvakulturanlegget eller havbeitet, adresse, og kontaktopplysninger som e-postadresse, telefonnummer og mobilnummer.Opplysninger om søknaden gjelder nyetablering eller endring av gitt godkjenning.Art og utviklingsstadium, produksjonsform, driftsform og omfang.Kart og koordinatangivelse som beskriver plassering, plantegning over akvakulturanlegget eller havbeitet, og oversikt over eventuelt vanninntak og avløp.Beredskapsplan, herunder plan for smittehygieniske og velferdsmessige tiltak for å hindre og håndtere utbrudd av smittsom sykdom, massedød og andre kritiske situasjoner.Internkontrollsystem som sannsynliggjør at krav til smittehygienisk og velferdsmessig forsvarlig drift, herunder risikobasert helsekontroll, opprettholdelse av god vannkvalitet og journalføring, kan etterleves.Dokumentasjon på lokalitetens egnethet til å sikre fisk og tifotkreps en god velferd, herunder data på vannkvalitet, mengde vann og naturgitte forhold av vesentlig betydning for velferden. I landanlegg skal vannmengden dokumenteres gjennom angivelse av den mengde vann som er tilgjengelig i vannkilden, angitt hydraulisk kapasitet sammenholdt med en spesifisert produksjonsplan for anlegget.Bokstav e gjelder ikke for havbeite. Bokstav f gjelder ikke for fangstbasert akvakultur.
+Søknaden om godkjenning skal inneholde de opplysninger som er nødvendige for å vurdere om godkjenning kan gis, og hvilke vilkår som eventuelt skal stilles, og skal minst inneholde følgende:
+
+1. Navn på eier av akvakulturanlegget eller havbeitet, adresse, og kontaktopplysninger som e-postadresse, telefonnummer og mobilnummer.
+2. Opplysninger om søknaden gjelder nyetablering eller endring av gitt godkjenning.
+3. Art og utviklingsstadium, produksjonsform, driftsform og omfang.
+4. Kart og koordinatangivelse som beskriver plassering, plantegning over akvakulturanlegget eller havbeitet, og oversikt over eventuelt vanninntak og avløp.
+5. Beredskapsplan, herunder plan for smittehygieniske og velferdsmessige tiltak for å hindre og håndtere utbrudd av smittsom sykdom, massedød og andre kritiske situasjoner.
+6. Internkontrollsystem som sannsynliggjør at krav til smittehygienisk og velferdsmessig forsvarlig drift, herunder risikobasert helsekontroll, opprettholdelse av god vannkvalitet og journalføring, kan etterleves.
+7. Dokumentasjon på lokalitetens egnethet til å sikre fisk og tifotkreps en god velferd, herunder data på vannkvalitet, mengde vann og naturgitte forhold av vesentlig betydning for velferden. I landanlegg skal vannmengden dokumenteres gjennom angivelse av den mengde vann som er tilgjengelig i vannkilden, angitt hydraulisk kapasitet sammenholdt med en spesifisert produksjonsplan for anlegget.
+
+Bokstav e gjelder ikke for havbeite. Bokstav f gjelder ikke for fangstbasert akvakultur.
 
 Det kan kreves ytterligere opplysninger dersom det er nødvendig for å vurdere om godkjenning kan gis.
 
@@ -90,7 +122,11 @@ Det kan stilles vilkår til godkjenningen.
 
 ## § 8. Endring og tilbaketrekking av godkjenning
 
-Mattilsynet kan endre eller trekke tilbake godkjenningen som nevnt i [§ 5](forskrift/2008-06-17-823/§5) dersom:Det foreligger vesentlige brudd på vilkår i godkjenningen eller bestemmelser gitt, i eller i medhold av matloven eller dyrevelferdsloven.Det viser seg at sykdomstilstand eller kunnskap om sykdomsmessige eller velferdsmessige forhold er vesentlig endret i forhold til da godkjenning ble gitt.Annen plassering, produksjonsform eller endring av produksjonsomfang kan forbedre helsesituasjonen eller velferden vesentlig i akvakulturanlegget, havbeitet eller det omkringliggende miljø.
+Mattilsynet kan endre eller trekke tilbake godkjenningen som nevnt i [§ 5](forskrift/2008-06-17-823/§5) dersom:
+
+1. Det foreligger vesentlige brudd på vilkår i godkjenningen eller bestemmelser gitt, i eller i medhold av matloven eller dyrevelferdsloven.
+2. Det viser seg at sykdomstilstand eller kunnskap om sykdomsmessige eller velferdsmessige forhold er vesentlig endret i forhold til da godkjenning ble gitt.
+3. Annen plassering, produksjonsform eller endring av produksjonsomfang kan forbedre helsesituasjonen eller velferden vesentlig i akvakulturanlegget, havbeitet eller det omkringliggende miljø.
 
 > Endret ved forskrifter [6 aug 2010 nr. 1147](forskrift/2010-08-06-1147), [6 april 2022 nr. 629](forskrift/2022-04-06-629) (i kraft 28 april 2022).
 

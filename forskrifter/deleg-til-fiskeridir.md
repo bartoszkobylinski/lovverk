@@ -22,4 +22,8 @@ eu_basis: []
 
 # Delegering av myndighet til Fiskeridirektoratet vedrørende forskrifter om maskevidde, bifangst, fredningstid og minstemål m.m.
 
-Fiskeridirektoratet delegeres myndighet til å endre følgende forskrifter:[Forskrift av 10. oktober 1989 nr. 1095](forskrift/1989-10-10-1095) om maskevidde, bifangst, fredningstid og minstemål m.v. ved fangst av fisk og sild.[Forskrift av 10. oktober 1989 nr. 1103](forskrift/1989-10-10-1103) om maskevidde, bifangst og minstemål m.v. i trålfiske etter reker og sjøkreps.[Forskrift av 10. oktober 1989 nr. 1099](forskrift/1989-10-10-1099) om fangstforbud, fredningstid, minstemål m.v. ved fangst av hummer, krabbe, kamtsjatkakrabbe og haneskjell.
+Fiskeridirektoratet delegeres myndighet til å endre følgende forskrifter:
+
+- [Forskrift av 10. oktober 1989 nr. 1095](forskrift/1989-10-10-1095) om maskevidde, bifangst, fredningstid og minstemål m.v. ved fangst av fisk og sild.
+- [Forskrift av 10. oktober 1989 nr. 1103](forskrift/1989-10-10-1103) om maskevidde, bifangst og minstemål m.v. i trålfiske etter reker og sjøkreps.
+- [Forskrift av 10. oktober 1989 nr. 1099](forskrift/1989-10-10-1099) om fangstforbud, fredningstid, minstemål m.v. ved fangst av hummer, krabbe, kamtsjatkakrabbe og haneskjell.

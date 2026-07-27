@@ -15,7 +15,7 @@ xml_hash: "525cfed6d49da41f7810acd750b113174fa3d0fc9a3699813ba8718942f6ec59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,12 @@ Loven gjelder norsk territorium og på kontinentalsokkelen. For Svalbard, Jan Ma
 
 ### § 4. Lovens begreper
 
-I denne lov menes med:*etterspørselssjokk:* etterspørselen øker så sterkt at næringslivet støter på kapasitetsbegrensninger som raskt medfører økte markedspriser og som medfører utilstrekkelig tilgang til varer og tjenester*tilbudssvikt*: knapphet på varer og tjenester som raskt kan medføre økte markedspriser og som medfører utilstrekkelig tilgang til varer og tjenester*logistikkbrist*: plutselig avbrudd i normal logistikk og infrastruktur som medfører utilstrekkelig tilgang til varer og tjenester*særskilte tiltak:* enkeltvedtak ved beredskapsforberedelser og krisehåndtering
+I denne lov menes med:
+
+1. *etterspørselssjokk:* etterspørselen øker så sterkt at næringslivet støter på kapasitetsbegrensninger som raskt medfører økte markedspriser og som medfører utilstrekkelig tilgang til varer og tjenester
+2. *tilbudssvikt*: knapphet på varer og tjenester som raskt kan medføre økte markedspriser og som medfører utilstrekkelig tilgang til varer og tjenester
+3. *logistikkbrist*: plutselig avbrudd i normal logistikk og infrastruktur som medfører utilstrekkelig tilgang til varer og tjenester
+4. *særskilte tiltak:* enkeltvedtak ved beredskapsforberedelser og krisehåndtering
 
 ### § 5. Offentlige myndigheters ansvar ved krisehåndtering (ansvarsprinsippet)
 
@@ -48,7 +53,18 @@ Ved kriser som omfattes av [§ 6](lov/2011-12-16-65/§6), har offentlige myndigh
 
 ### § 6. Forskrifter
 
-Når det på grunn av risiko for etterspørselssjokk, tilbudssvikt eller logistikkbrist er nødvendig for å sørge for at befolkningens behov, det militære forsvarets behov, allierte militære styrkers behov i Norge eller internasjonale forpliktelser knyttet til varer og tjenester dekkes, kan Kongen gi nærmere bestemmelser omprioritering, omfordeling, lagring og avståelse av varer, utførelse av tjenester, samt forberedelser og medvirkning hertil, herunder bestemmelser om innførsel, utførsel, distribusjon av varer og omsetning av varer og tjenester, herunder omsetningsregulerende tiltakplikt for næringsdrivende til å levere eller framstille varer eller yte tjenester til bestemte formål eller bestemte mottakereplikt for næringsdrivende til å avstå løsøre og fast eiendom for midlertidig disponeringplikt for næringsdrivende til å gi, og så langt som mulig dokumentere informasjon, herunder informasjon om varebeholdninger, rullering, produksjon, omsetning, transport og lagring, logistikk, regnskap m.m.plikt for næringsdrivende til å samarbeide med offentlige myndigheter om å finne effektive løsninger for å håndtere manglende tilgang til varer og tjenesterplikt for næringsdrivende til å gjennomføre eller bidra til gjennomføring av analysearbeid og utredninger knyttet til leveringssikkerhetplikt for næringsdrivende, næringsorganisasjon eller -sammenslutning til å delta i særskilte organer som er opprettet eller opprettes for å bidra til å sikre tilgangen på varer og tjenester i kriserplikt for næringsdrivende til å planlegge eller delta i planlegging og gjennomføring av øvelser og annen opplæring i krisehåndteringplikt for næringsdrivende til å varsle om forhold som kan gi grunnlag for særskilte tiltak1plikt for næringsdrivende til å planlegge, forberede og gjennomføre, eller bidra til planlegging, forberedelse og gjennomføring av særskilte tiltak
+Når det på grunn av risiko for etterspørselssjokk, tilbudssvikt eller logistikkbrist er nødvendig for å sørge for at befolkningens behov, det militære forsvarets behov, allierte militære styrkers behov i Norge eller internasjonale forpliktelser knyttet til varer og tjenester dekkes, kan Kongen gi nærmere bestemmelser om
+
+1. prioritering, omfordeling, lagring og avståelse av varer, utførelse av tjenester, samt forberedelser og medvirkning hertil, herunder bestemmelser om innførsel, utførsel, distribusjon av varer og omsetning av varer og tjenester, herunder omsetningsregulerende tiltak
+2. plikt for næringsdrivende til å levere eller framstille varer eller yte tjenester til bestemte formål eller bestemte mottakere
+3. plikt for næringsdrivende til å avstå løsøre og fast eiendom for midlertidig disponering
+4. plikt for næringsdrivende til å gi, og så langt som mulig dokumentere informasjon, herunder informasjon om varebeholdninger, rullering, produksjon, omsetning, transport og lagring, logistikk, regnskap m.m.
+5. plikt for næringsdrivende til å samarbeide med offentlige myndigheter om å finne effektive løsninger for å håndtere manglende tilgang til varer og tjenester
+6. plikt for næringsdrivende til å gjennomføre eller bidra til gjennomføring av analysearbeid og utredninger knyttet til leveringssikkerhet
+7. plikt for næringsdrivende, næringsorganisasjon eller -sammenslutning til å delta i særskilte organer som er opprettet eller opprettes for å bidra til å sikre tilgangen på varer og tjenester i kriser
+8. plikt for næringsdrivende til å planlegge eller delta i planlegging og gjennomføring av øvelser og annen opplæring i krisehåndtering
+9. plikt for næringsdrivende til å varsle om forhold som kan gi grunnlag for særskilte tiltak1
+10. plikt for næringsdrivende til å planlegge, forberede og gjennomføre, eller bidra til planlegging, forberedelse og gjennomføring av særskilte tiltak
 
 1 Helse- og omsorgsdepartementet, Justisdepartementet, Landbruks- og matdepartementet og Nærings- og fiskeridepartementet iflg. [res. 16 juni 2017 nr. 820](forskrift/2017-06-16-820).
 
@@ -98,7 +114,14 @@ Kongen kan gi kommuner og fylkeskommuner myndighet til å gi forskriftsbestemmel
 
 ### § 15. Opplysningsplikt
 
-Næringsdrivende har plikt til å gi opplysninger til beredskapsformål. Kongen kan gi bestemmelser om at opplysninger som er nødvendige til beredskapsformål, kan hentes fraskatte- og avgiftsmyndigheter, tollmyndigheter og andre myndigheter med ansvar for regulering og kontroll av import og eksport,andre myndigheter med ansvar for regulering av ervervsvirksomhet,Brønnøysundregistrene og andre registereiere,andre myndigheter med informasjon av betydning for beredskapsplanlegging eller krisehåndtering etter denne loven.Opplysningsplikten gjelder uten hensyn til taushetsplikt.
+Næringsdrivende har plikt til å gi opplysninger til beredskapsformål. Kongen kan gi bestemmelser om at opplysninger som er nødvendige til beredskapsformål, kan hentes fra
+
+1. skatte- og avgiftsmyndigheter, tollmyndigheter og andre myndigheter med ansvar for regulering og kontroll av import og eksport,
+2. andre myndigheter med ansvar for regulering av ervervsvirksomhet,
+3. Brønnøysundregistrene og andre registereiere,
+4. andre myndigheter med informasjon av betydning for beredskapsplanlegging eller krisehåndtering etter denne loven.
+
+Opplysningsplikten gjelder uten hensyn til taushetsplikt.
 
 > Endret ved [lov 27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
 
@@ -136,7 +159,17 @@ Den som har overtrådt bestemmelser i eller vedtak gitt i medhold av denne lov [
 
 Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Foretak eller annen sammenslutning eller organer kan ikke ilegges overtredelsesgebyr dersom overtredelsen skyldes forhold utenfor dens kontroll.
 
-Ved vurderingen av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det blant annet legges vekt påhvor alvorlig overtredelsen har krenket de interesser loven verner,graden av skyld,om overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,om overtredelsen er begått for å fremme overtrederens interesser,om overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,om det foreligger gjentakelse ogom andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson blir ilagt straff.Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
+Ved vurderingen av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det blant annet legges vekt på
+
+1. hvor alvorlig overtredelsen har krenket de interesser loven verner,
+2. graden av skyld,
+3. om overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,
+4. om overtredelsen er begått for å fremme overtrederens interesser,
+5. om overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,
+6. om det foreligger gjentakelse og
+7. om andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson blir ilagt straff.
+
+Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
 
 Kongen kan i forskrift gi nærmere bestemmelser om overtredelsesgebyr, herunder om vilkår for å ilegge overtredelsesgebyr, om størrelsen på overtredelsesgebyret, om rente og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall og om frafall av ilagt overtredelsesgebyr.
 

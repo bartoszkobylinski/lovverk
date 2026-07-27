@@ -15,7 +15,7 @@ xml_hash: "53b713e16e7b9df63e7fb67196793672090c42729dbe777697445a48b1edceaa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -171,7 +171,12 @@ Søkere som ikke får opptak til studium, studieprogram eller utdanninger kan p�
 
 ### § 4-2. Tap av studierett
 
-(1) Studenter kan miste studieretten på et studium/studieprogram de er tatt opp til i følgende tilfeller:Studenten har ikke semesterregistrert seg og/eller betalt semesteravgift og egenbetaling innen gjeldende frister, og har ikke fått innvilget permisjon etter [§ 4-5](forskrift/2024-11-27-3659/§4-5) eller reservert studieplass etter [§ 2-5 (5)](forskrift/2024-11-27-3659/§2-5/ledd/5) i denne forskrift.Studenten har brukt opp sine forsøk til eksamen eller praksisperiode i henhold til studieplan og til forskrift om opptak, studier og eksamen.Studenten har ikke produsert studiepoeng i løpet av de siste to semestre. For studenter som er i gang med masteravhandling av 30 studiepoengs omfang eller 50 studiepoengs omfang gjelder henholdsvis to og tre semestre. Studenter som ikke har levert masteravhandling innen fristen kan i spesielle tilfeller få innvilget et henholdsvis tredje semester for masteravhandling på 30 studiepoeng eller fjerde semester for masteravhandling på 50 studiepoeng etter søknad til studiesjef. Dersom studenten har hatt permisjon i denne perioden, skal permisjonstiden ikke regnes med.Studieretten er urettmessig oppnådd ved hjelp av falske dokumenter, falskt vitnemål, eller dokumenter utstedt av falske institusjoner.
+(1) Studenter kan miste studieretten på et studium/studieprogram de er tatt opp til i følgende tilfeller:
+
+1. Studenten har ikke semesterregistrert seg og/eller betalt semesteravgift og egenbetaling innen gjeldende frister, og har ikke fått innvilget permisjon etter [§ 4-5](forskrift/2024-11-27-3659/§4-5) eller reservert studieplass etter [§ 2-5 (5)](forskrift/2024-11-27-3659/§2-5/ledd/5) i denne forskrift.
+2. Studenten har brukt opp sine forsøk til eksamen eller praksisperiode i henhold til studieplan og til forskrift om opptak, studier og eksamen.
+3. Studenten har ikke produsert studiepoeng i løpet av de siste to semestre. For studenter som er i gang med masteravhandling av 30 studiepoengs omfang eller 50 studiepoengs omfang gjelder henholdsvis to og tre semestre. Studenter som ikke har levert masteravhandling innen fristen kan i spesielle tilfeller få innvilget et henholdsvis tredje semester for masteravhandling på 30 studiepoeng eller fjerde semester for masteravhandling på 50 studiepoeng etter søknad til studiesjef. Dersom studenten har hatt permisjon i denne perioden, skal permisjonstiden ikke regnes med.
+4. Studieretten er urettmessig oppnådd ved hjelp av falske dokumenter, falskt vitnemål, eller dokumenter utstedt av falske institusjoner.
 
 (2) Vilkår for tap av studieretten skal fremgå av utdanningsplanen.
 
@@ -195,7 +200,11 @@ Søkere som ikke får opptak til studium, studieprogram eller utdanninger kan p�
 
 ### § 4-4. Overgang mellom studieprogram
 
-(1) Studenter som er tatt opp til et studieprogram ved Fjellhaug Internasjonale Høgskole, kan få overgang til et annet studieprogram i samme fagområde hvisstudenten har fått studierett gjennom ordinært opptak, møtt til studiestart og registrert seg på det studium/studieprogram han/hun ble tatt opp til.studium/studieprogram som studenten søker overgang til, ikke er lukket ved poengrangering.studenten fyller opptakskravet til studium/studieprogram.
+(1) Studenter som er tatt opp til et studieprogram ved Fjellhaug Internasjonale Høgskole, kan få overgang til et annet studieprogram i samme fagområde hvis
+
+- studenten har fått studierett gjennom ordinært opptak, møtt til studiestart og registrert seg på det studium/studieprogram han/hun ble tatt opp til.
+- studium/studieprogram som studenten søker overgang til, ikke er lukket ved poengrangering.
+- studenten fyller opptakskravet til studium/studieprogram.
 
 (2) Ved poengrangering kan overgang vurderes hvis studentens poengsum er lik eller høyere enn medianen ved siste opptak og studiet har ledige plasser.
 
@@ -231,7 +240,10 @@ Søkere som ikke får opptak til studium, studieprogram eller utdanninger kan p�
 
 ### § 6-1. Grader
 
-(1) Fjellhaug Internasjonale Høgskole kan tildele følgende grader:bachelor, normert studietid 3 år,master, normert studietid 2 år.
+(1) Fjellhaug Internasjonale Høgskole kan tildele følgende grader:
+
+- bachelor, normert studietid 3 år,
+- master, normert studietid 2 år.
 
 (2) De generelle kravene til gradene bachelor og master er fastsatt i egne forskrifter. For øvrig fremgår kravene til den enkelte grad av studieplan for det aktuelle studiet.
 
@@ -261,7 +273,16 @@ Søkere som ikke får opptak til studium, studieprogram eller utdanninger kan p�
 
 (1) Det skal fastsettes studieplan for alle studieprogrammer som tilbys ved Fjellhaug Internasjonale Høgskole og som skal godskrives studenten i form av studiepoeng.
 
-(2) Studieplanen skal utarbeides i tråd med [forskrift 8. november 2017 nr. 1846 om Nasjonalt kvalifikasjonsrammeverk for livslang læring](forskrift/2017-11-08-1846) og skal inneholde følgende opplysninger:læringsutbyttebeskrivelser i form av kunnskaper, ferdigheter og generell kompetansehvilke emner som studiet/studieprogrammet består avstudiets/studieprogrammets omfang i studiepoeng og forventet arbeidsomfangemnebeskrivelserarbeidskrav og vurderingsformereventuelle forkunnskapskrav eller anbefalte forkunnskaperpensumlitteraturbestemmelser vedrørende kvalitetsutviklingen studiet/studieprogrammet.
+(2) Studieplanen skal utarbeides i tråd med [forskrift 8. november 2017 nr. 1846 om Nasjonalt kvalifikasjonsrammeverk for livslang læring](forskrift/2017-11-08-1846) og skal inneholde følgende opplysninger:
+
+1. læringsutbyttebeskrivelser i form av kunnskaper, ferdigheter og generell kompetanse
+2. hvilke emner som studiet/studieprogrammet består av
+3. studiets/studieprogrammets omfang i studiepoeng og forventet arbeidsomfang
+4. emnebeskrivelser
+5. arbeidskrav og vurderingsformer
+6. eventuelle forkunnskapskrav eller anbefalte forkunnskaper
+7. pensumlitteratur
+8. bestemmelser vedrørende kvalitetsutviklingen studiet/studieprogrammet.
 
 (3) Det skal foreligge vedtatte studieplaner før oppstarten av nytt semester. Styret og eller Akademisk Råd kan gi utfyllende bestemmelser for utarbeidelse og revidering av studieplaner.
 
@@ -441,7 +462,13 @@ Oppgavebesvarelser som tidligere har fått en endelig sensur, kan ikke innlevere
 
 ### § 10-11. Erklæring om selvstendig arbeid
 
-(1) Studenter som leverer inn hjemmeoppgaver, inkludert masteravhandlinger, må gjøre seg kjent med de reglene som gjelder for slike oppgaver, og gi en erklæring om dette. Erklæringen skal dateres og signeres eller godkjennes elektronisk og leveres inn sammen med oppgaven. Høgskolen kan også fastsette at erklæring om selvstendig arbeid skal signeres eller godkjennes på forhånd for et helt semester. Erklæringen legger ansvaret på studenten for følgende:Det innleverte arbeidet skal ikke være brukt tidligere som del av en utdanning ved Fjellhaug Internasjonale Høgskole eller annen utdanningsinstitusjon.Det skal opplyses om kildebruk etter gjeldende regler. Referanse til kilde gis nøyaktig i teksten. Dette gjelder for sitat, men også når stoffet er gjengitt med egne ord. Kravet gjelder både når kilden er pensumlitteratur eller andre bøker, artikler og lignende.Det skal opplyses om materialet er funnet på internett og/eller eventuelt hvordan det er brukt Kunstig Intelligens (KI).For praksisrapporter og når det er brukt informasjon fra intervju, spørreskjema og lignende, vil det være nødvendig å sikre informantens anonymitet. I slike tilfeller blir det orientert om gjeldende regelverk i oppgaveheftet for de enkelte emner og i undervisningen.Ved masteravhandlinger må en være spesielt varsom med bruk av konfidensielle data og opplysninger fra observasjon, intervju og spørreskjema. Studenten er i slike tilfeller forpliktet til å drøfte spørsmål om kildebruk og henvisning med sin veileder. Det blir ellers vist til pensum i forskningsmetode.
+(1) Studenter som leverer inn hjemmeoppgaver, inkludert masteravhandlinger, må gjøre seg kjent med de reglene som gjelder for slike oppgaver, og gi en erklæring om dette. Erklæringen skal dateres og signeres eller godkjennes elektronisk og leveres inn sammen med oppgaven. Høgskolen kan også fastsette at erklæring om selvstendig arbeid skal signeres eller godkjennes på forhånd for et helt semester. Erklæringen legger ansvaret på studenten for følgende:
+
+- Det innleverte arbeidet skal ikke være brukt tidligere som del av en utdanning ved Fjellhaug Internasjonale Høgskole eller annen utdanningsinstitusjon.
+- Det skal opplyses om kildebruk etter gjeldende regler. Referanse til kilde gis nøyaktig i teksten. Dette gjelder for sitat, men også når stoffet er gjengitt med egne ord. Kravet gjelder både når kilden er pensumlitteratur eller andre bøker, artikler og lignende.
+- Det skal opplyses om materialet er funnet på internett og/eller eventuelt hvordan det er brukt Kunstig Intelligens (KI).
+- For praksisrapporter og når det er brukt informasjon fra intervju, spørreskjema og lignende, vil det være nødvendig å sikre informantens anonymitet. I slike tilfeller blir det orientert om gjeldende regelverk i oppgaveheftet for de enkelte emner og i undervisningen.
+- Ved masteravhandlinger må en være spesielt varsom med bruk av konfidensielle data og opplysninger fra observasjon, intervju og spørreskjema. Studenten er i slike tilfeller forpliktet til å drøfte spørsmål om kildebruk og henvisning med sin veileder. Det blir ellers vist til pensum i forskningsmetode.
 
 (2) Ved brudd på disse reglene blir det vist til [§ 11-7](forskrift/2024-11-27-3659/§11-7) i denne forskrift om annullering av eksamen eller annen vurdering, og til [lov om universiteter og høyskoler § 12-4](lov/2024-03-08-9/§12-4).
 
@@ -497,9 +524,16 @@ Akademisk råd kan fastsette at enkelte eksamener kan avholdes på annet språk 
 
 (2) Det skal normalt benyttes to sensorer ved muntlig og skriftlig eksamen, enten to interne sensorer eller både intern og ekstern sensor.
 
-(3) Ved sensur skal oppgaveansvarlig og sensorene:utforme eksamensoppgaver og sensorveiledningvurdere eksamensbesvarelsene fra alle kandidateneforeta en samlet vurdering av vurderingsordningene for emnet.
+(3) Ved sensur skal oppgaveansvarlig og sensorene:
 
-(4) Ekstern sensor må tilfredsstille ett eller flere av følgende krav:være ansatt på høyskolelektor/universitetslektornivå eller høyere nivå ved universitet/høyskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivåi særlige tilfeller gjennom relevant yrkespraksis være særlig kvalifisert for å foreta sensur innenfor et bestemt område.
+- utforme eksamensoppgaver og sensorveiledning
+- vurdere eksamensbesvarelsene fra alle kandidatene
+- foreta en samlet vurdering av vurderingsordningene for emnet.
+
+(4) Ekstern sensor må tilfredsstille ett eller flere av følgende krav:
+
+- være ansatt på høyskolelektor/universitetslektornivå eller høyere nivå ved universitet/høyskole eller annen forskningsinstitusjon eller på annen måte ha dokumentert vitenskapelig kompetanse på samme nivå
+- i særlige tilfeller gjennom relevant yrkespraksis være særlig kvalifisert for å foreta sensur innenfor et bestemt område.
 
 (5) Ekstern sensor kan ikke ha vært ansatt ved Fjellhaug Internasjonale Høgskole det siste studieåret.
 
@@ -549,7 +583,15 @@ Formelle feil kan påklages i samsvar med bestemmelsene i [lov om universiteter 
 
 ### § 11-7. Fusk og forsøk på fusk
 
-(1) Som fusk eller forsøk på fusk ved eksamen eller prøve regnes bl.a.:å ha ulovlige hjelpemidler tilgjengelig under eksamenå presentere andres arbeid som sitt egetå sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisningerå oppgi fiktive kilder eller fabrikkere datamaterialeå bruke KI-generert tekst i skriftlige arbeider uten å dokumentere detteureglementert samarbeid mellom eksamenskandidater eller grupperå handle i strid med denne forskriften eller retningslinjer for den enkelte eksamen.
+(1) Som fusk eller forsøk på fusk ved eksamen eller prøve regnes bl.a.:
+
+- å ha ulovlige hjelpemidler tilgjengelig under eksamen
+- å presentere andres arbeid som sitt eget
+- å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger
+- å oppgi fiktive kilder eller fabrikkere datamateriale
+- å bruke KI-generert tekst i skriftlige arbeider uten å dokumentere dette
+- ureglementert samarbeid mellom eksamenskandidater eller grupper
+- å handle i strid med denne forskriften eller retningslinjer for den enkelte eksamen.
 
 (2) Konsekvenser av fusk eller forsøk på fusk reguleres av [lov om universiteter og høyskoler](lov/2024-03-08-9) og behandles av Høgskolens klagenemnd, jf. [lov om universiteter og høyskoler § 12-4](lov/2024-03-08-9/§12-4) og [§ 14-1](lov/2024-03-08-9/§14-1). Vedtak i høgskolens klagenemnd kan påklages. Styret kan fastsette retningslinjer for behandling av fusk/forsøk på fusk.
 
@@ -561,7 +603,10 @@ Formelle feil kan påklages i samsvar med bestemmelsene i [lov om universiteter 
 
 ### § 11-8. Annullering av eksamen eller annen vurdering
 
-(1) Styret selv eller institusjonens klagenemnd, jf. [lov om universiteter og høyskoler § 14-1](lov/2024-03-08-9/§14-1), kan annullere eksamen eller prøve eller godkjenning av emne hvis studentenved hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å gå opp til vedkommende eksamen eller prøve, eller til å delta i vedkommende emne, ellerhar forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende emne.
+(1) Styret selv eller institusjonens klagenemnd, jf. [lov om universiteter og høyskoler § 14-1](lov/2024-03-08-9/§14-1), kan annullere eksamen eller prøve eller godkjenning av emne hvis studenten
+
+1. ved hjelp av falskt vitnemål eller annen form for uredelig opptreden har skaffet seg adgang til å gå opp til vedkommende eksamen eller prøve, eller til å delta i vedkommende emne, eller
+2. har forsøkt å fuske eller forsettlig eller grovt uaktsomt har fusket ved avleggelsen av, eller forut for endelig sensur av, vedkommende eksamen eller prøve, eller under gjennomføringen av vedkommende emne.
 
 (2) Styret selv eller institusjonens klagenemnd, jf. [lov om universiteter og høyskoler § 14-1](lov/2024-03-08-9/§14-1), kan annullere godskriving eller godkjenning av utdanning, eller fritak for eksamen eller prøve, hvis studenten har oppnådd dette ved hjelp av falskt vitnemål eller annen form for uredelig opptreden.
 
@@ -571,7 +616,10 @@ Formelle feil kan påklages i samsvar med bestemmelsene i [lov om universiteter 
 
 ### § 11-9. Karakterer og vurderingsuttrykk
 
-Enhver eksamen skal føre frem til et vurderingsuttrykk (karakter). Karakteren skal angis på en av to måter; entensom «Bestått» eller «Ikke bestått», ellersom en bokstav, etter skalaen A, B, C, D, E, F. De ulike verdiene skal gis etter følgende allmenne kriterier:
+Enhver eksamen skal føre frem til et vurderingsuttrykk (karakter). Karakteren skal angis på en av to måter; enten
+
+1. som «Bestått» eller «Ikke bestått», eller
+2. som en bokstav, etter skalaen A, B, C, D, E, F. De ulike verdiene skal gis etter følgende allmenne kriterier:
 
 *Bokmål*
 
@@ -610,7 +658,12 @@ Enhver eksamen skal føre frem til et vurderingsuttrykk (karakter). Karakteren s
 
 (1) Den enkelte karakter gis en vekting ved utregning av en gjennomsnittskarakter i et emne. Vektingen angis i studieplanen som en brøk av den samlede karakteren.
 
-(2) Gjennomsnittskarakterer er en samlet karakter for et emne. For emner skal gjennomsnittskarakteren regnes ut slik:Hver bokstavkarakter erstattes av en tallekvivalent, slik at A=5, B=4, C=3, D=2, E=1.For hver eksamen multipliseres tallekvivalenten med den vekten vedkommende eksamen skal ha i henhold til studieplanen, og alle produktene summeres og divideres med det totale antall studiepoeng.Produktsummen settes opp eller ned til nærmeste hele tall etter at vanlige forhøyningsregler er anvendt.Gjennomsnittskarakteren angis med det bokstavsymbolet som svarer til det tallet som kommer frem.
+(2) Gjennomsnittskarakterer er en samlet karakter for et emne. For emner skal gjennomsnittskarakteren regnes ut slik:
+
+- Hver bokstavkarakter erstattes av en tallekvivalent, slik at A=5, B=4, C=3, D=2, E=1.
+- For hver eksamen multipliseres tallekvivalenten med den vekten vedkommende eksamen skal ha i henhold til studieplanen, og alle produktene summeres og divideres med det totale antall studiepoeng.
+- Produktsummen settes opp eller ned til nærmeste hele tall etter at vanlige forhøyningsregler er anvendt.
+- Gjennomsnittskarakteren angis med det bokstavsymbolet som svarer til det tallet som kommer frem.
 
 ### § 11-11. Hovedkarakter
 
@@ -624,7 +677,13 @@ Enhver eksamen skal føre frem til et vurderingsuttrykk (karakter). Karakteren s
 
 ### § 12-1. Vurdering av praksis
 
-For utdanninger der gjennomføring av praksis er underlagt en faglig vurdering, gjelder følgende:Praksis vurderes med bestått eller ikke bestått, eller en gradert karakterskala. Er praksis et obligatorisk arbeidskrav, vurderes perioden som godkjent eller ikke godkjent. Informasjon om fremmøtekrav, arbeidskrav og vurderingsform skal fremgå av studieplanen. Studieplanen skal inkludere bestemmelser fra en eventuell nasjonal rammeplan dersom en slik foreligger.En student har rett til jevnlig veiledning og tilbakemelding, slik at han eller hun er orientert om hvordan han eller hun fungerer med tanke på læringsutbyttebeskrivelsene for praksisperioden.Dersom det på et tidspunkt i en veiledet praksisperiode kan være tvil om studenten vil kunne bestå eller få godkjent praksis, skal studenten kalles inn til et møte mellom de berørte partene. Dette gjelder også for praksis som ikke er underlagt faglig vurdering/veiledning. Studenten skal i møtet gis skriftlig melding om at det er tvil om studenten vil kunne bestå eller få godkjent praksis. Møtet skal avholdes på et tidspunkt som gir studenten mulighet til å vise tilfredsstillende praksis den siste delen av perioden for å bestå eller få godkjent praksisen, normalt senest halvveis i praksisperioden.Dersom det etter varslingstidspunktet oppstår forhold som er av en slik art at det utvilsomt ville føre til at praksisperioden ble underkjent dersom det hadde oppstått tidligere, skal det likevel kunne føre til at praksisperioden blir vurdert til ikke bestått eller ikke godkjent.Krav om tilstedeværelse skal komme frem av studie- og emneplan, og kan som hovedregel ikke fravikes på grunn av dokumentert fravær.
+For utdanninger der gjennomføring av praksis er underlagt en faglig vurdering, gjelder følgende:
+
+1. Praksis vurderes med bestått eller ikke bestått, eller en gradert karakterskala. Er praksis et obligatorisk arbeidskrav, vurderes perioden som godkjent eller ikke godkjent. Informasjon om fremmøtekrav, arbeidskrav og vurderingsform skal fremgå av studieplanen. Studieplanen skal inkludere bestemmelser fra en eventuell nasjonal rammeplan dersom en slik foreligger.
+2. En student har rett til jevnlig veiledning og tilbakemelding, slik at han eller hun er orientert om hvordan han eller hun fungerer med tanke på læringsutbyttebeskrivelsene for praksisperioden.
+3. Dersom det på et tidspunkt i en veiledet praksisperiode kan være tvil om studenten vil kunne bestå eller få godkjent praksis, skal studenten kalles inn til et møte mellom de berørte partene. Dette gjelder også for praksis som ikke er underlagt faglig vurdering/veiledning. Studenten skal i møtet gis skriftlig melding om at det er tvil om studenten vil kunne bestå eller få godkjent praksis. Møtet skal avholdes på et tidspunkt som gir studenten mulighet til å vise tilfredsstillende praksis den siste delen av perioden for å bestå eller få godkjent praksisen, normalt senest halvveis i praksisperioden.
+4. Dersom det etter varslingstidspunktet oppstår forhold som er av en slik art at det utvilsomt ville føre til at praksisperioden ble underkjent dersom det hadde oppstått tidligere, skal det likevel kunne føre til at praksisperioden blir vurdert til ikke bestått eller ikke godkjent.
+5. Krav om tilstedeværelse skal komme frem av studie- og emneplan, og kan som hovedregel ikke fravikes på grunn av dokumentert fravær.
 
 ### § 12-2. Ikke bestått praksis. Antall forsøk
 

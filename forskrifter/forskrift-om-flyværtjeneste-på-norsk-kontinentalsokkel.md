@@ -32,7 +32,15 @@ Forskriften gjelder i Norge, herunder på Svalbard og Jan Mayen, og utenfor nors
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med:*innretning*: Fellesbetegnelse for fast og flyttbar innretning som benyttes til petroleumsvirksomhet eller annen virksomhet på kontinentalsokkelen.*helikopterdekk*: En landingsplattform, på innretning eller skip, spesielt bygd og beregnet for start og landing med helikopter.*helikopterdekkoperatør*: Driftsselskap for innretning eller skip med helikopterdekk.*helikopteroperatør*: Foretak som innehar særskilt tillatelse for offshoreoperasjoner, jf. [forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner § 4a](forskrift/2013-08-07-956/§4a).*flyværtjeneste*: Tjeneste innen flysikringstjenesten med det formål å utarbeide, samle inn, bearbeide eller lagre, samt videresende de meteorologiske produkter som berører luftfarten (observasjon, varsling, overvåking og formidling av meteorologisk informasjon).*METAR (Aviation Routine Weather Report)*: Rapport om rutinemessig observasjon av værforholdene på og i nærheten av en landingsplattform som formuleres i henhold til internasjonale koder.*Landingsplassvarsel (TAF – Terminal Aerodrome Forecast)*: En kort angivelse av de forventede værforholdene på et helikopterdekk for et bestemt tidsrom.
+I denne forskriften menes med:
+
+1. *innretning*: Fellesbetegnelse for fast og flyttbar innretning som benyttes til petroleumsvirksomhet eller annen virksomhet på kontinentalsokkelen.
+2. *helikopterdekk*: En landingsplattform, på innretning eller skip, spesielt bygd og beregnet for start og landing med helikopter.
+3. *helikopterdekkoperatør*: Driftsselskap for innretning eller skip med helikopterdekk.
+4. *helikopteroperatør*: Foretak som innehar særskilt tillatelse for offshoreoperasjoner, jf. [forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner § 4a](forskrift/2013-08-07-956/§4a).
+5. *flyværtjeneste*: Tjeneste innen flysikringstjenesten med det formål å utarbeide, samle inn, bearbeide eller lagre, samt videresende de meteorologiske produkter som berører luftfarten (observasjon, varsling, overvåking og formidling av meteorologisk informasjon).
+6. *METAR (Aviation Routine Weather Report)*: Rapport om rutinemessig observasjon av værforholdene på og i nærheten av en landingsplattform som formuleres i henhold til internasjonale koder.
+7. *Landingsplassvarsel (TAF – Terminal Aerodrome Forecast)*: En kort angivelse av de forventede værforholdene på et helikopterdekk for et bestemt tidsrom.
 
 ### § 3. Ansvar
 
@@ -56,9 +64,25 @@ For innretninger eller skip uten regelmessige passasjerflyginger gjelder krav om
 
 Helikopterdekkoperatøren skal sørge for at det utføres rutinemessig værobservasjon (METAR) på innretninger eller skip som har regelmessige passasjerflyginger. Dersom det i en avstand på 15 nautiske mil fra innretningen eller skipet ligger flere innretninger eller skip, er det tilstrekkelig at det utføres og er tilgjengelig rapport fra rutinemessig værobservasjon på én av innretningene eller skipene.
 
-I følgende områder skal det uansett utarbeides METAR på minst én sentralt plassert innretning eller ett sentralt plassert fartøy:EkofiskSleipnerHeimdalOsebergTampenHeidrunNorneÅsta HansteenGoliatJohan SverdrupJohan Castberg.
+I følgende områder skal det uansett utarbeides METAR på minst én sentralt plassert innretning eller ett sentralt plassert fartøy:
 
-For følgende større områder kreves i tillegg for:Ekofisk/Ula: én METAR i nord og én i sørOseberg: én METAR i nordøstTampen: én METAR i vest og én i nord.
+1. Ekofisk
+2. Sleipner
+3. Heimdal
+4. Oseberg
+5. Tampen
+6. Heidrun
+7. Norne
+8. Åsta Hansteen
+9. Goliat
+10. Johan Sverdrup
+11. Johan Castberg.
+
+For følgende større områder kreves i tillegg for:
+
+1. Ekofisk/Ula: én METAR i nord og én i sør
+2. Oseberg: én METAR i nordøst
+3. Tampen: én METAR i vest og én i nord.
 
 Dersom det ikke oppnås enighet mellom helikopterdekkoperatørene om hvor værobservasjonen skal utføres, kan Luftfartstilsynet fastsette hvilke innretninger eller skip i området som skal ha rutinemessig værobservasjon og hvordan kostnadene skal fordeles.
 
@@ -70,7 +94,14 @@ METAR skal utarbeides på grunnlag av manuelle observasjoner. Luftfartstilsynet 
 
 ### § 8. Krav til værinformasjon på innretning og skip uten krav til rutinemessig værobservasjon
 
-På innretning og skip uten krav til rutinemessig værobservasjon (METAR) skal helikopterdekkoperatøren gi nødvendig værinformasjon til helikoptertrafikken. Innretningen eller skipet skal ha meteorologiske instrumenter som minst kan vise og gi informasjon om:vindens retning (magnetisk) og hastighet (knop) på et sted der målingene gir et mest mulig representativt bilde av de aktuelle vindforhold på og rundt innretningen eller skipet,vindens retning (magnetisk) og hastighet (knop) på et sted der målingene gir et mest mulig representativt bilde av de aktuelle vindforhold på helikopterdekket,sikt, dersom innretningen eller skipet har installert siktmåler,skyhøyder målt i fot,temperatur og duggpunktstemperatur i °C oglufttrykk, målt i hektopascal og korrigert til havoverflaten (QNH).
+På innretning og skip uten krav til rutinemessig værobservasjon (METAR) skal helikopterdekkoperatøren gi nødvendig værinformasjon til helikoptertrafikken. Innretningen eller skipet skal ha meteorologiske instrumenter som minst kan vise og gi informasjon om:
+
+1. vindens retning (magnetisk) og hastighet (knop) på et sted der målingene gir et mest mulig representativt bilde av de aktuelle vindforhold på og rundt innretningen eller skipet,
+2. vindens retning (magnetisk) og hastighet (knop) på et sted der målingene gir et mest mulig representativt bilde av de aktuelle vindforhold på helikopterdekket,
+3. sikt, dersom innretningen eller skipet har installert siktmåler,
+4. skyhøyder målt i fot,
+5. temperatur og duggpunktstemperatur i °C og
+6. lufttrykk, målt i hektopascal og korrigert til havoverflaten (QNH).
 
 Instrumentene må kunne overvåkes, betjenes og avleses fra et sted der målingene kan meddeles over radio til helikopterbesetningen umiddelbart før landing.
 
@@ -96,7 +127,12 @@ Helikopterdekkoperatøren på innretninger og skip uten krav til rutinemessig v�
 
 Personell som utøver rutinemessig værobservasjon (METAR) eller videreformidler værinformasjon, skal ha gjennomgått opplæring i samsvar med krav i Den meteorologiske verdensorganisasjon (WMO), WMO No 1209 – Compendium of WMO Competency Frameworks (2019). Gjennomført opplæring skal være dokumentert.
 
-Opplæringsprogrammet skal være godkjent av Luftfartstilsynet. Opplæringen skal bestå av både en teoretisk og en praktisk del og gi personellet tilstrekkelig kompetanse til å utføre følgende oppgaver:Overvåke værsituasjon i tilknytning til innretningen eller skipet i tidsrom det er helikopterflyging til eller fra innretningen. Opplæringen må føre til at personellet kan analysere og beskrive nåværende værsituasjon på innretningen.Observere meteorologiske fenomen og parameter knyttet til helikopterflygingen, samt signifikante endringer. Personell skal ha kompetanse om automatiserte observasjoner (AUTOMETAR) og semi-automatiserte løsninger.Kvalitetssikre observasjoner før utstedelse i henhold til interne prosedyrer, samt identifisere eventuelle feilkilder og endre observasjonene før utstedelse.Kvalitetssikre at meteorologisk informasjon er konsis og kan videreformidles gjennom etablerte distribusjonskanaler på en slik måte at informasjonen blir forstått av brukerne.
+Opplæringsprogrammet skal være godkjent av Luftfartstilsynet. Opplæringen skal bestå av både en teoretisk og en praktisk del og gi personellet tilstrekkelig kompetanse til å utføre følgende oppgaver:
+
+1. Overvåke værsituasjon i tilknytning til innretningen eller skipet i tidsrom det er helikopterflyging til eller fra innretningen. Opplæringen må føre til at personellet kan analysere og beskrive nåværende værsituasjon på innretningen.
+2. Observere meteorologiske fenomen og parameter knyttet til helikopterflygingen, samt signifikante endringer. Personell skal ha kompetanse om automatiserte observasjoner (AUTOMETAR) og semi-automatiserte løsninger.
+3. Kvalitetssikre observasjoner før utstedelse i henhold til interne prosedyrer, samt identifisere eventuelle feilkilder og endre observasjonene før utstedelse.
+4. Kvalitetssikre at meteorologisk informasjon er konsis og kan videreformidles gjennom etablerte distribusjonskanaler på en slik måte at informasjonen blir forstått av brukerne.
 
 Personell som utøver rutinemessig værobservasjon eller videreformidler værinformasjon skal gjennomgå årlig vedlikeholdstrening. Personell som utarbeider METAR skal ha kunnskap om relevante aktører i luftfarten, for eksempel om lufttrafikktjenesten.
 

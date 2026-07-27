@@ -34,11 +34,21 @@ Med de begrensninger som følger av folkeretten, gjelder forskriften for norske 
 
 ### § 2. Tilsyn og dokumentasjon
 
-Skipet skal ha om bord en bekreftelse fra flaggstaten på at det er ført tilsyn etter IMO-resolusjon A 1104(29), og at kravene i denne forskriften er oppfylt. Bekreftelsen skalvære på norsk eller engelskfornyes hvert femte år.
+Skipet skal ha om bord en bekreftelse fra flaggstaten på at det er ført tilsyn etter IMO-resolusjon A 1104(29), og at kravene i denne forskriften er oppfylt. Bekreftelsen skal
+
+1. være på norsk eller engelsk
+2. fornyes hvert femte år.
 
 ### § 3. Definisjoner
 
-I denne forskriften betyr«passasjer»: enhver person med unntak avskipsføreren og medlemmer av besetningen eller andre personer ansatt eller beskjeftiget i skipets tjeneste i hvilken som helst stilling om bordbarn under ett år,«passasjerskip»: skip som fører flere enn 12 passasjerer, unntatt skip som tilhører forsvaret eller benyttes i dets tjeneste,«SOLAS» den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 konsolidert utgave 2020 som endret ved MSC.456(101), MSC.474(102), 482(103) og MSC.496(105).
+I denne forskriften betyr
+
+1. «passasjer»: enhver person med unntak av
+
+   1. skipsføreren og medlemmer av besetningen eller andre personer ansatt eller beskjeftiget i skipets tjeneste i hvilken som helst stilling om bord
+   2. barn under ett år,
+2. «passasjerskip»: skip som fører flere enn 12 passasjerer, unntatt skip som tilhører forsvaret eller benyttes i dets tjeneste,
+3. «SOLAS» den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 konsolidert utgave 2020 som endret ved MSC.456(101), MSC.474(102), 482(103) og MSC.496(105).
 
 > Endret ved forskrift [18 des 2023 nr. 2173](forskrift/2023-12-18-2173) (i kraft 1 jan 2024).
 

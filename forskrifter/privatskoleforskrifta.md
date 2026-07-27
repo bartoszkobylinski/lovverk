@@ -15,7 +15,7 @@ xml_hash: "9c2f398a2f8717133d224cc76f811d2d083dd9d7a17d9ba90412f9032f5ac62b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,10 @@ Skolen avgjer kva for valfag elevane på 8. til 10. trinn skal få tilbod om. Sk
 
 Elevar på 8. til 10. trinn skal i tillegg til opplæringa i engelsk ha opplæring i eit framandspråk, fordjuping i engelsk, norsk, samisk eller matematikk, eller opplæring i arbeidslivsfag.
 
-Skolen må tilby opplæring iminst eitt av språka tysk, fransk, spansk eller russisk etter læreplanen i framandspråk på nivå I, eller etter den læreplanen som skolen har fått godkjend.minst eitt av faga fordjuping i engelsk, fordjuping i norsk, fordjuping i samisk eller fordjuping i matematikk, etter den læreplanen som skolen har fått godkjend.
+Skolen må tilby opplæring i
+
+1. minst eitt av språka tysk, fransk, spansk eller russisk etter læreplanen i framandspråk på nivå I, eller etter den læreplanen som skolen har fått godkjend.
+2. minst eitt av faga fordjuping i engelsk, fordjuping i norsk, fordjuping i samisk eller fordjuping i matematikk, etter den læreplanen som skolen har fått godkjend.
 
 Elevane skal ha det faget dei har valt, frå 8. til 10. trinn. Dei kan likevel byte fag det første halvåret i samråd med skolen. Skolen kan godkjenne fagbyte på eit seinare tidspunkt dersom særlege grunnar taler for det.
 
@@ -76,7 +79,12 @@ Elevar som ikkje deltar i opplæringa i framandspråk, fordjuping eller arbeidsl
 
 ### § 1-9. Fritak frå skriveopplæring i eitt av dei norske skriftspråka
 
-Elevar er fritatt frå skriveopplæring i det skriftspråket dei har som sidemål, dersom dei i tillegg til å få opplæring etter skolens ordinære læreplan i norsk oppfyller minst eitt av desse vilkåra:Dei får opplæring i samisk som første- eller andrespråk.Dei får opplæring i kvensk eller finsk som andrespråk.Dei får opplæring i norsk teiknspråk.Dei får særskild språkopplæring etter [privatskolelova § 3-5](lov/2003-07-04-84/§3-5).
+Elevar er fritatt frå skriveopplæring i det skriftspråket dei har som sidemål, dersom dei i tillegg til å få opplæring etter skolens ordinære læreplan i norsk oppfyller minst eitt av desse vilkåra:
+
+1. Dei får opplæring i samisk som første- eller andrespråk.
+2. Dei får opplæring i kvensk eller finsk som andrespråk.
+3. Dei får opplæring i norsk teiknspråk.
+4. Dei får særskild språkopplæring etter [privatskolelova § 3-5](lov/2003-07-04-84/§3-5).
 
 Dei skal likevel få skriveopplæring i sidemålet sitt dersom dei ønskjer det.
 
@@ -134,7 +142,31 @@ Skolen kan i inntaksreglementet reservere plassar for elevar som ikkje har best�
 
 Skolar som er godkjende for å drive særskilt tilrettelagd opplæring for elevar med dokumenterte behov, kan ta inn vaksne søkjarar utan rett til vidaregåande opplæring.
 
-I tillegg kan desse skolane ta inn vaksne søkjarar utan rett til vidaregåande opplæring:Aglo videregående skole med opp til 43 elevarBybroen videregående skole AS med opp til 95 elevarForeningen Danielsen Intensivgymnas med opp til 186 elevarForeningen Danielsen Videregående Skole med opp til 19 elevarGjennestad videregående skole med opp til 58 elevarHaugesund Toppidrettsgymnas AS med opp til 27 elevarHjerleid Handverksskole AS med opp til 105 elevarKristen videregående skole Nordland med opp til 40 elevarKristen videregående skole Trøndelag med opp til 21 elevarLukas videregående skole AS med opp til 74 elevarMøbelsnekkerskolen AS med opp til 30 elevarNatur videregående skole med opp til 89 elevarNordborg skoler AS med opp til 13 elevarNorsk Restaurantskole med opp til 20 elevarPlus-skolen AS med opp til 108 elevarTomb videregående skole med opp til 21 elevarTveit vidaregåande skule med opp til 3 elevarTyrifjord videregående skole med opp til 13 elevarVal skolar AS med opp til 9 elevarVinterlandbruksskulen på Jæren med opp til 21 elevarVinterlandbruksskulen i Ryfylke med opp til 17 elevarWang AS med opp til 45 elevarØya videregående skole med opp til 7 elevar.
+I tillegg kan desse skolane ta inn vaksne søkjarar utan rett til vidaregåande opplæring:
+
+1. Aglo videregående skole med opp til 43 elevar
+2. Bybroen videregående skole AS med opp til 95 elevar
+3. Foreningen Danielsen Intensivgymnas med opp til 186 elevar
+4. Foreningen Danielsen Videregående Skole med opp til 19 elevar
+5. Gjennestad videregående skole med opp til 58 elevar
+6. Haugesund Toppidrettsgymnas AS med opp til 27 elevar
+7. Hjerleid Handverksskole AS med opp til 105 elevar
+8. Kristen videregående skole Nordland med opp til 40 elevar
+9. Kristen videregående skole Trøndelag med opp til 21 elevar
+10. Lukas videregående skole AS med opp til 74 elevar
+11. Møbelsnekkerskolen AS med opp til 30 elevar
+12. Natur videregående skole med opp til 89 elevar
+13. Nordborg skoler AS med opp til 13 elevar
+14. Norsk Restaurantskole med opp til 20 elevar
+15. Plus-skolen AS med opp til 108 elevar
+16. Tomb videregående skole med opp til 21 elevar
+17. Tveit vidaregåande skule med opp til 3 elevar
+18. Tyrifjord videregående skole med opp til 13 elevar
+19. Val skolar AS med opp til 9 elevar
+20. Vinterlandbruksskulen på Jæren med opp til 21 elevar
+21. Vinterlandbruksskulen i Ryfylke med opp til 17 elevar
+22. Wang AS med opp til 45 elevar
+23. Øya videregående skole med opp til 7 elevar.
 
 Vaksne søkjarar med rett til vidaregåande opplæring skal prioriterast føre vaksne søkjarar utan rett.
 
@@ -174,7 +206,12 @@ Søkjarar som har vitnemål for fullført norsk grunnskole eller dokumentasjon p
 
 ### § 3-12. Søkjarar utan karakterar eller utan samanliknbart karaktergrunnlag
 
-Ved inntak på grunnlag av poeng, skal desse søkjarane vurderast individuelt:søkjarar som manglar vurdering med karakter i meir enn halvparten av faga på vitnemålet frå grunnskolensøkjarar som har gått på ein godkjend tiårig grunnskole og har fått vitnemål utan bokstav- eller talkarakterarandre søkjarar som ikkje har eit samanliknbart karaktergrunnlagsøkjarar som etter ei realkompetansevurdering har fått godkjent meir enn halvparten av faga som krevst for vitnemål etter [opplæringsforskrifta § 15-26](forskrift/2024-06-03-900/§15-26).
+Ved inntak på grunnlag av poeng, skal desse søkjarane vurderast individuelt:
+
+1. søkjarar som manglar vurdering med karakter i meir enn halvparten av faga på vitnemålet frå grunnskolen
+2. søkjarar som har gått på ein godkjend tiårig grunnskole og har fått vitnemål utan bokstav- eller talkarakterar
+3. andre søkjarar som ikkje har eit samanliknbart karaktergrunnlag
+4. søkjarar som etter ei realkompetansevurdering har fått godkjent meir enn halvparten av faga som krevst for vitnemål etter [opplæringsforskrifta § 15-26](forskrift/2024-06-03-900/§15-26).
 
 Ved inntak av søkjarar som fell inn under bokstav b, skal skolen rangere søkjarane på grunnlag av fråsegner frå grunnskolane dei kjem frå.
 
@@ -182,7 +219,11 @@ Ved inntak av søkjarar som fell inn under bokstav b, skal skolen rangere søkja
 
 Søkjarar som har bestått alle faga som er fastsette i læreplanverket for utdanningsprogrammet på vidaregåande trinn 1, kan takast inn til vidaregåande trinn 2. Søkjarar som også har bestått alle faga på programområdet på vidaregåande trinn 2, kan takast inn til vidaregåande trinn 3. Kravet om bestått gjeld også i dei faga der det berre blir gitt halvårsvurdering med karakter på det aktuelle trinnet.
 
-Følgjande søkjarar som ikkje oppfyller vilkåra for inntak etter første ledd, kan likevel takast inn til neste trinn dersom skolen etter ei samla vurdering finn at det er forsvarleg ut frå dei faglege føresetnadene:søkjarar som har vedtak om individuelt tilrettelagd opplæring etter [privatskolelova § 3-6](lov/2003-07-04-84/§3-6), jf. [opplæringslova § 11-6](lov/2023-06-09-30/§11-6), og som på grunn av innhaldet i vedtaket ikkje har vurdering med karakter i fleire fag frå vidaregåande trinn 1 eller trinn 2søkjarar som planlegg å følgje vidaregåande opplæring med individuelt utvalde kompetansemål.søkjarar som ikkje har bestått eitt eller fleire fag.
+Følgjande søkjarar som ikkje oppfyller vilkåra for inntak etter første ledd, kan likevel takast inn til neste trinn dersom skolen etter ei samla vurdering finn at det er forsvarleg ut frå dei faglege føresetnadene:
+
+1. søkjarar som har vedtak om individuelt tilrettelagd opplæring etter [privatskolelova § 3-6](lov/2003-07-04-84/§3-6), jf. [opplæringslova § 11-6](lov/2023-06-09-30/§11-6), og som på grunn av innhaldet i vedtaket ikkje har vurdering med karakter i fleire fag frå vidaregåande trinn 1 eller trinn 2
+2. søkjarar som planlegg å følgje vidaregåande opplæring med individuelt utvalde kompetansemål.
+3. søkjarar som ikkje har bestått eitt eller fleire fag.
 
 For søkjarar som fell inn under andre ledd bokstav a og b, skal skolen leggje vekt på den sakkunnige vurderinga.
 
@@ -228,7 +269,12 @@ Elevar som får opplæring i samisk som første- eller andrespråk eller i kvens
 
 ### § 4-6. Fritak frå skriveopplæring i eitt av dei norske skriftspråka
 
-Elevar er fritatt frå skriveopplæring i det skriftspråket dei har som sidemål, dersom dei i tillegg til å få opplæring etter skolens ordinære læreplan i norsk oppfyller minst eitt av desse vilkåra:Dei får opplæring i samisk som første- eller andrespråk.Dei får opplæring i kvensk eller finsk som andrespråk.Dei får opplæring i norsk teiknspråk.Dei får særskild språkopplæring etter [privatskolelova § 3-5](lov/2003-07-04-84/§3-5).
+Elevar er fritatt frå skriveopplæring i det skriftspråket dei har som sidemål, dersom dei i tillegg til å få opplæring etter skolens ordinære læreplan i norsk oppfyller minst eitt av desse vilkåra:
+
+1. Dei får opplæring i samisk som første- eller andrespråk.
+2. Dei får opplæring i kvensk eller finsk som andrespråk.
+3. Dei får opplæring i norsk teiknspråk.
+4. Dei får særskild språkopplæring etter [privatskolelova § 3-5](lov/2003-07-04-84/§3-5).
 
 Dei skal likevel få skriveopplæring i sidemålet sitt dersom dei ønskjer det.
 
@@ -248,7 +294,11 @@ Elevar må sjølve leggje fram nødvendig dokumentasjon når dei søkjer om godk
 
 ### § 4-9. Opplæring etter læreplanen i norsk for språklege minoritetar med kort butid i Noreg
 
-Elevar kan velje å følgje læreplanen i norsk for språklege minoritetar med kort butid i Noreg dersom alle desse vilkåra er oppfylte:Elevane har særskild språkopplæring etter [privatskolelova § 3-5](lov/2003-07-04-84/§3-5).Elevane har ikkje hatt meir enn fire års opplæring frå og med femte trinn i norsk grunnskole før dei byrjar i vidaregåande opplæring.Skolen følgjer læreplanar i norsk i Læreplanverket for Kunnskapsløftet eller har godkjenning for å kunne tilby opplæring etter læreplanen i norsk for språklege minoritetar med kort butid i Noreg.
+Elevar kan velje å følgje læreplanen i norsk for språklege minoritetar med kort butid i Noreg dersom alle desse vilkåra er oppfylte:
+
+1. Elevane har særskild språkopplæring etter [privatskolelova § 3-5](lov/2003-07-04-84/§3-5).
+2. Elevane har ikkje hatt meir enn fire års opplæring frå og med femte trinn i norsk grunnskole før dei byrjar i vidaregåande opplæring.
+3. Skolen følgjer læreplanar i norsk i Læreplanverket for Kunnskapsløftet eller har godkjenning for å kunne tilby opplæring etter læreplanen i norsk for språklege minoritetar med kort butid i Noreg.
 
 ## Tredje delen – fellesreglar for grunnskoleopplæringa og den vidaregåande opplæringa
 
@@ -260,7 +310,12 @@ Elevar kan velje å følgje læreplanen i norsk for språklege minoritetar med k
 
 Alle læreplanane som blir godkjende etter [privatskolelova § 2-3 første ledd](lov/2003-07-04-84/§2-3/ledd/1), må oppfylle krava i denne paragrafen. Læreplanane må vere jamgode med læreplanane i læreplanverket for Kunnskapsløftet.
 
-Læreplanen for skolen skal omfatteoverordna del eller annan tilsvarande planlæreplanar for fag, med omtale av dei same delane som læreplanane etter Kunnskapsløftetfag- og timefordelingein omtale av kva slag vurderingsordningar og dokumentasjon skolen skal bruke.
+Læreplanen for skolen skal omfatte
+
+1. overordna del eller annan tilsvarande plan
+2. læreplanar for fag, med omtale av dei same delane som læreplanane etter Kunnskapsløftet
+3. fag- og timefordeling
+4. ein omtale av kva slag vurderingsordningar og dokumentasjon skolen skal bruke.
 
 Læreplanane for dei vidaregåande skolane må til vanleg vere i samsvar med den tilbodsstrukturen som er fastsett for den offentlege vidaregåande skolen.
 
@@ -328,7 +383,14 @@ Det skal ikkje leggjast avgjerande vekt på enkelthendingar med mindre dei er s�
 
 Frå og med 8. trinn skal elevane få vurdering med karakter i faga. Det er berre krav om karakterar ved halvårsvurdering og sluttvurdering.
 
-Det skal brukast heile talkarakterar på ein skala frå 1 til 6. Karakterane skal vise til desse gradane av ferdigheit hos elevane:karakteren 6: framifrå kompetanse i fagetkarakteren 5: mykje god kompetanse i fagetkarakteren 4: god kompetanse i fagetkarakteren 3: nokså god kompetanse i fagetkarakteren 2: låg kompetanse i fagetkarakteren 1: svært låg kompetanse i faget.
+Det skal brukast heile talkarakterar på ein skala frå 1 til 6. Karakterane skal vise til desse gradane av ferdigheit hos elevane:
+
+1. karakteren 6: framifrå kompetanse i faget
+2. karakteren 5: mykje god kompetanse i faget
+3. karakteren 4: god kompetanse i faget
+4. karakteren 3: nokså god kompetanse i faget
+5. karakteren 2: låg kompetanse i faget
+6. karakteren 1: svært låg kompetanse i faget.
 
 I vidaregåande opplæring består ein eit fag med karakteren 2 eller betre. Med karakteren 1 som standpunktkarakter i eit fag blir faget rekna som bestått når eksamenskarakteren i faget er 2 eller betre. Dette gjeld ikkje for tverrfagleg eksamen.
 
@@ -336,7 +398,11 @@ Departementet kan fastsetje i læreplanen i eit fag om uttrykka «bestått» og 
 
 ### § 6-5. Karakterar i orden og i oppførsel
 
-Frå og med 8. trinn skal elevane få vurdering i orden og i oppførsel med karakterar. Desse karakterane skal brukast:God (G): vanleg god orden og vanleg god oppførselNokså god (Ng): store negative avvik frå vanleg god orden og vanleg god oppførselLite god (Lg): særleg store negative avvik frå vanleg god orden og vanleg god oppførsel.
+Frå og med 8. trinn skal elevane få vurdering i orden og i oppførsel med karakterar. Desse karakterane skal brukast:
+
+1. God (G): vanleg god orden og vanleg god oppførsel
+2. Nokså god (Ng): store negative avvik frå vanleg god orden og vanleg god oppførsel
+3. Lite god (Lg): særleg store negative avvik frå vanleg god orden og vanleg god oppførsel.
 
 ### § 6-6. Samtale om utvikling
 
@@ -356,7 +422,17 @@ Varselet skal gi eleven høve til å få karakter i fag eller til å betre karak
 
 Elevar i vidaregåande skole som har fråvær i meir enn ti prosent av årstimetalet i eit fag, kan ikkje få standpunktkarakter i faget. Det same gjeld halvårsvurdering med karakter ved slutten av skoleåret i eit gjennomgåande fag.
 
-Dersom faglæraren har tilstrekkeleg grunnlag for å gi vurdering med karakter, jf. [§ 9-1](forskrift/2024-06-03-901/§9-1), skal eleven likevel få karakter dersom det blir lagt fram dokumentasjon på at årsaka til fråværet er:sjukdom eller andre helseforholdvelferdsforholdandre religiøse høgtidsdagar enn dei offentlege heilagdagane, avgrensa til to dagar, jf. [trossamfunnsloven § 18](lov/2020-04-24-31/§18)lovpålagt oppmøtearbeid som tillitsvaldpolitisk arbeidhjelpearbeidtryggleikskurs på bane, andre og tredje del av tryggleikskurs på veg og førarprøve for klasse B, jf. [trafikkopplæringsforskriften §§ 11-6](forskrift/2004-10-01-1339/§11-6), [11-8](forskrift/2004-10-01-1339/§11-8) og [30-2](forskrift/2004-10-01-1339/§30-2).representasjon på arrangement på nasjonalt og internasjonalt nivå.
+Dersom faglæraren har tilstrekkeleg grunnlag for å gi vurdering med karakter, jf. [§ 9-1](forskrift/2024-06-03-901/§9-1), skal eleven likevel få karakter dersom det blir lagt fram dokumentasjon på at årsaka til fråværet er:
+
+1. sjukdom eller andre helseforhold
+2. velferdsforhold
+3. andre religiøse høgtidsdagar enn dei offentlege heilagdagane, avgrensa til to dagar, jf. [trossamfunnsloven § 18](lov/2020-04-24-31/§18)
+4. lovpålagt oppmøte
+5. arbeid som tillitsvald
+6. politisk arbeid
+7. hjelpearbeid
+8. tryggleikskurs på bane, andre og tredje del av tryggleikskurs på veg og førarprøve for klasse B, jf. [trafikkopplæringsforskriften §§ 11-6](forskrift/2004-10-01-1339/§11-6), [11-8](forskrift/2004-10-01-1339/§11-8) og [30-2](forskrift/2004-10-01-1339/§30-2).
+9. representasjon på arrangement på nasjonalt og internasjonalt nivå.
 
 Ved fråvær som kjem av sjukdom eller andre helseforhold, kan eleven leggje fram eigenmelding i opptil ti prosent av timane i eit fag. Dersom helserelatert og eventuelt udokumentert fråvær i eit fag til saman har nådd ti prosent, må eleven leggje fram dokumentasjon frå helsepersonell ved meir helserelatert fråvær. Eleven kan likevel leggje fram eigenmelding etter at ti prosent er nådd, dersom årsaka er ein tilstand som gir høgare risiko for helserelatert fråvær, og dette er dokumentert av helsepersonell.
 
@@ -388,7 +464,12 @@ Utdanningsdirektoratet kan i særlege tilfelle innvilge søknader om dispensasjo
 
 All vurdering som blir gjord før opplæringa er avslutta, er undervegsvurdering. Undervegsvurderinga i fag skal vere ein integrert del av opplæringa, og ho skal tene til å fremje læring, auke kompetansen i faga og gjere opplæringa betre tilpassa den enkelte. Undervegsvurderinga kan vere munnleg, skriftleg eller begge delar.
 
-I undervegsvurderinga i fag skal elevardelta i vurderinga av sitt eige arbeid og reflektere over si eiga læring og faglege utviklingforstå kva dei skal lære, og kva som blir venta av deifå vite kva dei meistrarfå rettleiing om korleis dei kan arbeide vidare for å auke kompetansen sin.
+I undervegsvurderinga i fag skal elevar
+
+1. delta i vurderinga av sitt eige arbeid og reflektere over si eiga læring og faglege utvikling
+2. forstå kva dei skal lære, og kva som blir venta av dei
+3. få vite kva dei meistrar
+4. få rettleiing om korleis dei kan arbeide vidare for å auke kompetansen sin.
 
 Undervegsvurderinga skal brukast til å vurdere om elevane har tilfredsstillande utbytte av opplæringa, jf. [privatskolelova § 3-4c](lov/2003-07-04-84/§3-4c).
 
@@ -396,7 +477,11 @@ Elevar og lærekandidatar som får individuelt tilrettelagd opplæring, skal ha 
 
 ### § 6-12. Undervegsvurdering i orden og i oppførsel
 
-Undervegsvurdering i orden og i oppførsel skal givast jamleg og skal tene til å fremje sosial læring ved at elevanefår rettleiing om kva som er god orden og oppførselfår vite om ordenen og oppførselen deira er i tråd med skolereglanereflekterer over sin eigen orden og oppførsel og korleis dei kan utvikle seg.
+Undervegsvurdering i orden og i oppførsel skal givast jamleg og skal tene til å fremje sosial læring ved at elevane
+
+1. får rettleiing om kva som er god orden og oppførsel
+2. får vite om ordenen og oppførselen deira er i tråd med skolereglane
+3. reflekterer over sin eigen orden og oppførsel og korleis dei kan utvikle seg.
 
 ### § 6-13. Halvårsvurdering i fag
 
@@ -480,13 +565,21 @@ Elevar i grunnskolen og den vidaregåande opplæringa som får innføringsopplæ
 
 ### § 6-21. Fritak frå vurdering med karakter i eitt av dei norske skriftspråka
 
-Elevar og tidlegare elevar har rett til fritak frå vurdering med karakter i det skriftspråket dei har som sidemål, dersom eitt av desse vilkåra er oppfylt:Dei har vanskar med å lære både bokmål og nynorsk på grunn av dokumentert sjukdom, skade eller dysfunksjon.Dei har ikkje gått i norsk grunnskole på 8. til 10. trinn.Dei har eller har hatt særskild språkopplæring i løpet av 8. til 10. trinn eller i vidaregåande opplæring.Dei har i løpet av 8. til 10. trinn eller den vidaregåande opplæringa gått på ein internasjonal eller utanlandsk skole i Noreg som er godkjend for ikkje å gi vurdering med karakter i sidemål.
+Elevar og tidlegare elevar har rett til fritak frå vurdering med karakter i det skriftspråket dei har som sidemål, dersom eitt av desse vilkåra er oppfylt:
+
+1. Dei har vanskar med å lære både bokmål og nynorsk på grunn av dokumentert sjukdom, skade eller dysfunksjon.
+2. Dei har ikkje gått i norsk grunnskole på 8. til 10. trinn.
+3. Dei har eller har hatt særskild språkopplæring i løpet av 8. til 10. trinn eller i vidaregåande opplæring.
+4. Dei har i løpet av 8. til 10. trinn eller den vidaregåande opplæringa gått på ein internasjonal eller utanlandsk skole i Noreg som er godkjend for ikkje å gi vurdering med karakter i sidemål.
 
 Elevar som hadde rett til fritak frå opplæring i eitt av dei norske skriftspråka på 8. til 10. trinn etter [§ 1-9](forskrift/2024-06-03-901/§1-9), har rett til fritak frå vurdering med karakter i det skriftspråket dei har som sidemål i vidaregåande opplæring. Den skolen som har ansvar for å utferde vitnemål, skal avgjere søknader om fritak. Avgjerder om fritak er enkeltvedtak. Statsforvaltaren er klageinstans.
 
 ### § 6-22. Fritak frå vurdering med karakter i framandspråk i vidaregåande opplæring
 
-Ein elev eller tidlegare elev på studieførebuande utdanningsprogram har rett til fritak frå vurdering med karakter i faget framandspråk dersom eleven oppfyller desse vilkåra:Eleven har dysleksi eller spesifikke språkvanskar, eller dokumenterte vanskar som ligg nær opp til dysleksi eller spesifikke språkvanskar når det gjeld konsekvensar for eleven i faget.Vanskane er av ein slik grad at individuell tilrettelegging ikkje er eller var tilstrekkeleg for å sikre likeverdige opplæringsmoglegheiter.
+Ein elev eller tidlegare elev på studieførebuande utdanningsprogram har rett til fritak frå vurdering med karakter i faget framandspråk dersom eleven oppfyller desse vilkåra:
+
+1. Eleven har dysleksi eller spesifikke språkvanskar, eller dokumenterte vanskar som ligg nær opp til dysleksi eller spesifikke språkvanskar når det gjeld konsekvensar for eleven i faget.
+2. Vanskane er av ein slik grad at individuell tilrettelegging ikkje er eller var tilstrekkeleg for å sikre likeverdige opplæringsmoglegheiter.
 
 Dersom eleven har valt å avbryte opplæringa i framandspråk, må eleven i tillegg sannsynleggjere at han eller ho ikkje var i stand til å følgje faget.
 
@@ -542,7 +635,12 @@ Kven som er trekte ut til skriftleg eksamen i grunnskolen eller til eksamen i vi
 
 Elevar som får meir opplæring etter [§ 4-2](forskrift/2024-06-03-901/§4-2) skal ikkje trekkjast ut i det faget dei får meir opplæring i dersom dei har bestått alle nødvendige eksamenar i samsvar med læreplanverket, jf. [§ 6-30](forskrift/2024-06-03-901/§6-30), [§ 6-31](forskrift/2024-06-03-901/§6-31) og [§ 6-45](forskrift/2024-06-03-901/§6-45).
 
-Med mindre noko anna følgjer av læreplanen i faget, er tidsramma for eksamensformeneopp til fem timar ved skriftleg eksamenopp til 30 minuttar per kandidat ved munnleg eksamenopp til 45 minuttar per kandidat ved munnleg-praktisk eksamenopp til fem timar per kandidat ved praktisk eksamen.
+Med mindre noko anna følgjer av læreplanen i faget, er tidsramma for eksamensformene
+
+1. opp til fem timar ved skriftleg eksamen
+2. opp til 30 minuttar per kandidat ved munnleg eksamen
+3. opp til 45 minuttar per kandidat ved munnleg-praktisk eksamen
+4. opp til fem timar per kandidat ved praktisk eksamen.
 
 Skriftleg eksamen skal starte klokka 09.00 norsk tid. Kandidatar som ikkje har møtt når eksamen startar, skal likevel få gjennomføre eksamen dersom dei møter før klokka 10.00, men dei skal ikkje få kompensert tapt tid
 
@@ -560,7 +658,11 @@ På vidaregåande trinn 1 på studieførebuande utdanningsprogram skal om lag 20
 
 På vidaregåande trinn 2 på studieførebuande utdanningsprogram skal alle elevar trekkjast ut til eksamen i eitt fag.
 
-På vidaregåande trinn 3 på studieførebuande utdanningsprogram skal alle elevar ha skriftleg eksamen i hovudmålet sitt. I tillegg gjeld følgjande krav til eksamenar:På programområde for realfag og programområde for språk, samfunnsfag og økonomi skal elevane normalt trekkjast ut til to skriftlege eksamenar og éin munnleg, praktisk eller munnleg-praktisk eksamen.På utdanningsprogram for musikk, dans og drama skal elevane trekkjast ut til to eksamenar, og éin munnleg-praktisk eksamen innanfor sitt eige programområde.På andre studieførebuande utdanningsprogram og programområde skal elevane trekkjast ut til tre eksamenar. Minst éin av desse skal vere i eit fag frå deira eige programområde.
+På vidaregåande trinn 3 på studieførebuande utdanningsprogram skal alle elevar ha skriftleg eksamen i hovudmålet sitt. I tillegg gjeld følgjande krav til eksamenar:
+
+1. På programområde for realfag og programområde for språk, samfunnsfag og økonomi skal elevane normalt trekkjast ut til to skriftlege eksamenar og éin munnleg, praktisk eller munnleg-praktisk eksamen.
+2. På utdanningsprogram for musikk, dans og drama skal elevane trekkjast ut til to eksamenar, og éin munnleg-praktisk eksamen innanfor sitt eige programområde.
+3. På andre studieførebuande utdanningsprogram og programområde skal elevane trekkjast ut til tre eksamenar. Minst éin av desse skal vere i eit fag frå deira eige programområde.
 
 ### § 6-31. Talet på eksamenar på yrkesfaglege utdanningsprogram
 
@@ -676,7 +778,10 @@ Det skal førast fråvær i dagar og enkelttimar på vitnemålet frå og med 8. 
 
 Ein elev eller foreldra til eleven kan krevje at årsaka til fråværet blir ført på eit vedlegg til vitnemålet, dersom dei legg fram dokumentasjon på årsaka til fråværet.
 
-Ein elev eller foreldra til eleven kan krevje at opp til ti fråværsdagar i løpet av eit skoleår ikkje blir førte på vitnemålet, dersomdet er dokumentert med legeattest at årsaka til fråværet er sjukdom eller andre helseforholdeleven har fått godkjent permisjon etter [privatskolelova § 3-13](lov/2003-07-04-84/§3-13).
+Ein elev eller foreldra til eleven kan krevje at opp til ti fråværsdagar i løpet av eit skoleår ikkje blir førte på vitnemålet, dersom
+
+1. det er dokumentert med legeattest at årsaka til fråværet er sjukdom eller andre helseforhold
+2. eleven har fått godkjent permisjon etter [privatskolelova § 3-13](lov/2003-07-04-84/§3-13).
 
 Fråvær på grunn av sjukdom eller andre helseforhold må ha vart i meir enn tre dagar for ikkje å bli ført på vitnemålet, og det er berre fråværet frå og med den fjerde dagen som kan strykast. Dersom ein elev har ein dokumentert risiko for fråvær på grunn av nedsett funksjonsevne eller kronisk sjukdom, kan fråværet likevel strykast frå og med den første fråværsdagen.
 
@@ -694,7 +799,13 @@ Dersom dokumentasjonen går tapt, skal det utferdast ny dokumentasjon som er så
 
 Vitnemål i vidaregåande opplæring skal givast som dokumentasjon på bestått opplæringsløp. Skolen kan utferde vitnemål med norsk og samisk tekst til elevar som har hatt opplæring i eller på samisk, og til dei som ber om det.
 
-For å få vitnemål må ein ha bestått alle nødvendige fag og eksamenar i samsvar med læreplanen skolen har fått godkjend etter [privatskolelova § 2-3](lov/2003-07-04-84/§2-3). Dette gjeld likevel ikkje fordei som er fritatt frå opplæring i eitt av dei norske skriftspråka etter [§ 4-6](forskrift/2024-06-03-901/§4-6)dei om er fritatt frå opplæring i kroppsøving etter [§ 4-6](forskrift/2024-06-03-901/§4-6)dei som er fritatt frå vurdering med karakter etter [§ 6-19](forskrift/2024-06-03-901/§6-19) eller [§ 6-21](forskrift/2024-06-03-901/§6-21) til [§ 6-23](forskrift/2024-06-03-901/§6-23)dei som fell inn under dei særskilde reglane om dokumentasjon etter [§ 6-47](forskrift/2024-06-03-901/§6-47)dei som har fått dispensasjon etter [§ 6-10](forskrift/2024-06-03-901/§6-10) eller [§ 6-39](forskrift/2024-06-03-901/§6-39).
+For å få vitnemål må ein ha bestått alle nødvendige fag og eksamenar i samsvar med læreplanen skolen har fått godkjend etter [privatskolelova § 2-3](lov/2003-07-04-84/§2-3). Dette gjeld likevel ikkje for
+
+1. dei som er fritatt frå opplæring i eitt av dei norske skriftspråka etter [§ 4-6](forskrift/2024-06-03-901/§4-6)
+2. dei om er fritatt frå opplæring i kroppsøving etter [§ 4-6](forskrift/2024-06-03-901/§4-6)
+3. dei som er fritatt frå vurdering med karakter etter [§ 6-19](forskrift/2024-06-03-901/§6-19) eller [§ 6-21](forskrift/2024-06-03-901/§6-21) til [§ 6-23](forskrift/2024-06-03-901/§6-23)
+4. dei som fell inn under dei særskilde reglane om dokumentasjon etter [§ 6-47](forskrift/2024-06-03-901/§6-47)
+5. dei som har fått dispensasjon etter [§ 6-10](forskrift/2024-06-03-901/§6-10) eller [§ 6-39](forskrift/2024-06-03-901/§6-39).
 
 > Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
@@ -702,7 +813,13 @@ For å få vitnemål må ein ha bestått alle nødvendige fag og eksamenar i sam
 
 Førstegongsvitnemål skal givast som dokumentasjon til elevar som har bestått vidaregåande opplæring som gir generell studiekompetanse, innan fem år etter oppstart.
 
-På førstegongsvitnemålet skal det førast følgjande karakterar:karakterar frå opplæringsløpet til eleven, jf. læreplanen for skolenkarakterar i fag som går utover minstekravet til studiekompetanse, dersom eleven ønskjer detendra karakterar etter klagekarakterar frå ny eksamen etter [§ 6-36](forskrift/2024-06-03-901/§6-36), § [§ 6-38 tredje ledd](forskrift/2024-06-03-901/§6-38/ledd/3) eller [§ 6-39 andre ledd](forskrift/2024-06-03-901/§6-39/ledd/2), utsett eksamen etter [§ 6-35](forskrift/2024-06-03-901/§6-35) og særskild eksamen etter [§ 6-37](forskrift/2024-06-03-901/§6-37)karakterar som er betra i løpet av den tida læreplanen for skolen fastset for opplæringsløpet, ikkje medrekna verdiskapingstida i bedrift, dersom eleven ønskjer det.
+På førstegongsvitnemålet skal det førast følgjande karakterar:
+
+1. karakterar frå opplæringsløpet til eleven, jf. læreplanen for skolen
+2. karakterar i fag som går utover minstekravet til studiekompetanse, dersom eleven ønskjer det
+3. endra karakterar etter klage
+4. karakterar frå ny eksamen etter [§ 6-36](forskrift/2024-06-03-901/§6-36), § [§ 6-38 tredje ledd](forskrift/2024-06-03-901/§6-38/ledd/3) eller [§ 6-39 andre ledd](forskrift/2024-06-03-901/§6-39/ledd/2), utsett eksamen etter [§ 6-35](forskrift/2024-06-03-901/§6-35) og særskild eksamen etter [§ 6-37](forskrift/2024-06-03-901/§6-37)
+5. karakterar som er betra i løpet av den tida læreplanen for skolen fastset for opplæringsløpet, ikkje medrekna verdiskapingstida i bedrift, dersom eleven ønskjer det.
 
 Dersom det allereie er utferda eit førstegongsvitnemål, skal dette berre endrast dersom eleven får nye karakterar som følgje av bokstav c–e, eller dersom ein eller fleire karakterar er annullert.
 
@@ -904,7 +1021,10 @@ Om oppbevaring mv. av politiattestar gjeld [politiregisterforskriften § 37-2](f
 
 ### § 10-4. Yrkesforbod
 
-Ein person kan ikkje tilsetjast eller ha praksis i skolar eller tilbod som er nemnde i [privatskolelova § 4-3 første ledd](lov/2003-07-04-84/§4-3/ledd/1), dersom det står i politiattesten at personen er dømd for eller har vedtatt førelegg for å ha brote[straffeloven (2005) § 299](lov/2005-05-20-28/§299), [§ 301](lov/2005-05-20-28/§301), [§ 302](lov/2005-05-20-28/§302), [§ 303](lov/2005-05-20-28/§303), [§ 304](lov/2005-05-20-28/§304), [§ 305](lov/2005-05-20-28/§305), [§ 306](lov/2005-05-20-28/§306), [§ 310](lov/2005-05-20-28/§310) eller [§ 311](lov/1902-05-22-10/§311)[straffeloven (1902) § 195](lov/1902-05-22-10/§195), [§ 196](lov/1902-05-22-10/§196), [§ 200 andre ledd](lov/1902-05-22-10/§200/ledd/2), [§ 201 første ledd bokstav c](lov/1902-05-22-10/§201/ledd/1/bokstav/c), [§ 201a](lov/1902-05-22-10/§201a) eller [§ 204a](lov/1902-05-22-10/§204a).
+Ein person kan ikkje tilsetjast eller ha praksis i skolar eller tilbod som er nemnde i [privatskolelova § 4-3 første ledd](lov/2003-07-04-84/§4-3/ledd/1), dersom det står i politiattesten at personen er dømd for eller har vedtatt førelegg for å ha brote
+
+1. [straffeloven (2005) § 299](lov/2005-05-20-28/§299), [§ 301](lov/2005-05-20-28/§301), [§ 302](lov/2005-05-20-28/§302), [§ 303](lov/2005-05-20-28/§303), [§ 304](lov/2005-05-20-28/§304), [§ 305](lov/2005-05-20-28/§305), [§ 306](lov/2005-05-20-28/§306), [§ 310](lov/2005-05-20-28/§310) eller [§ 311](lov/1902-05-22-10/§311)
+2. [straffeloven (1902) § 195](lov/1902-05-22-10/§195), [§ 196](lov/1902-05-22-10/§196), [§ 200 andre ledd](lov/1902-05-22-10/§200/ledd/2), [§ 201 første ledd bokstav c](lov/1902-05-22-10/§201/ledd/1/bokstav/c), [§ 201a](lov/1902-05-22-10/§201a) eller [§ 204a](lov/1902-05-22-10/§204a).
 
 ### Kapittel 11. Spesielt for skolar som driv særskilt tilrettelagd opplæring for elevar med dokumenterte behov
 
@@ -918,7 +1038,10 @@ Skolen har ansvar for at elevane som blir tatt inn, har slik nedsett funksjonsev
 
 For å bli tatt inn ved ein skole godkjend med tilskot etter sats for nokså ressurskrevjande elevar, er det krav om at eleven må ha ei sakkyndig vurdering frå pedagogisk-psykologisk teneste eller frå ein annan kompetent faginstans som dokumenterer at søkjaren har nedsett funksjonsevne og lærevanskar som er langvarige eller permanente. Vurderinga må anbefale særskild tilrettelegging på grunn av lærevanskane til eleven.
 
-For å bli tatt inn ved ein skole godkjend med tilskot etter sats for særleg ressurskrevjande elevar, er det krav om at eleven må ha:sakkyndig vurdering frå pedagogisk-psykologisk teneste eller frå ein annan kompetent faginstans som dokumenterer at eleven har sterkt nedsett funksjonsevne og omfattande lærevanskar som er langvarige eller permanentevedtak om individuelt tilrettelagd opplæring.
+For å bli tatt inn ved ein skole godkjend med tilskot etter sats for særleg ressurskrevjande elevar, er det krav om at eleven må ha:
+
+1. sakkyndig vurdering frå pedagogisk-psykologisk teneste eller frå ein annan kompetent faginstans som dokumenterer at eleven har sterkt nedsett funksjonsevne og omfattande lærevanskar som er langvarige eller permanente
+2. vedtak om individuelt tilrettelagd opplæring.
 
 > Tilføyd ved forskrift [17 juni 2024 nr. 1048](forskrift/2024-06-17-1048) (i kraft 1 aug 2024), endra ved forskrift [2 april 2025 nr. 575](forskrift/2025-04-02-575).
 
@@ -944,7 +1067,10 @@ Dersom det har skjedd ein ulykkesskade, skal forsikringa dekkje nødvendige utgi
 
 ### § 12-3. Når og kvar forsikringa skal gjelde
 
-Forsikringa skal gi dekning for ulykkesskade som har hendtpå opplæringsstaden i opplæringstidapå veg mellom heimen og opplæringsstaden.
+Forsikringa skal gi dekning for ulykkesskade som har hendt
+
+1. på opplæringsstaden i opplæringstida
+2. på veg mellom heimen og opplæringsstaden.
 
 Andre opphaldsstader er likestilte med heim i første ledd bokstav b.
 
@@ -976,7 +1102,12 @@ Eigendelen kan ikkje vere høgare enn 0,015 G.
 
 ### § 12-6. Avgrensingar i forsikringsdekninga
 
-Forsikringa kan vere avgrensa til ikkje å dekkje ulykkesskade som kjem avforgifting gjennom mat, drikke eller nytingsmiddelinfeksjon forårsaka av stikk eller bit av insekt eller liknande, som malaria, flekktyfus eller borreliosesmitte gjennom bakteriar, til dømes E. coli eller salmonella, eller gjennom virus eller anna smittekjeldepsykiske skadar, som sjokkliding, depresjon og angst, med mindre det til same tid har oppstått fysisk skade som gir livsvarig medisinsk invaliditet.
+Forsikringa kan vere avgrensa til ikkje å dekkje ulykkesskade som kjem av
+
+1. forgifting gjennom mat, drikke eller nytingsmiddel
+2. infeksjon forårsaka av stikk eller bit av insekt eller liknande, som malaria, flekktyfus eller borreliose
+3. smitte gjennom bakteriar, til dømes E. coli eller salmonella, eller gjennom virus eller anna smittekjelde
+4. psykiske skadar, som sjokkliding, depresjon og angst, med mindre det til same tid har oppstått fysisk skade som gir livsvarig medisinsk invaliditet.
 
 ### Kapittel 13. Rapportering og evaluering av opplæringsverksemda
 
@@ -986,7 +1117,13 @@ Forsikringa kan vere avgrensa til ikkje å dekkje ulykkesskade som kjem avforgif
 
 ### § 13-1. Rapportering frå grunnskolar til Utdanningsdirektoratet
 
-Grunnskolar skal gi Utdanningsdirektoratet følgjande opplysningar om grunnskoleopplæring, skolefritidsordninga, leksehjelptilbod:opplysningar om skolen, mellom anna om kva skriftspråk som er hovudmål på skolen, opplæringsstad og skoleskyssopplysningar om barn og unge i opplæringspliktig alderopplysningar om tilsette, kompetanse og ressursaropplysningar om fagval og organiseringa av opplæringa for ulike elevgrupperopplysningar om foreldrebetaling og moderasjonsordningar for skolefritidsordninga.
+Grunnskolar skal gi Utdanningsdirektoratet følgjande opplysningar om grunnskoleopplæring, skolefritidsordninga, leksehjelptilbod:
+
+1. opplysningar om skolen, mellom anna om kva skriftspråk som er hovudmål på skolen, opplæringsstad og skoleskyss
+2. opplysningar om barn og unge i opplæringspliktig alder
+3. opplysningar om tilsette, kompetanse og ressursar
+4. opplysningar om fagval og organiseringa av opplæringa for ulike elevgrupper
+5. opplysningar om foreldrebetaling og moderasjonsordningar for skolefritidsordninga.
 
 Utdanningsdirektoratet kan behandle personopplysningar etter første ledd som indirekte kan knytast til barn og unge i opplæringspliktig alder, inkludert personopplysningar som nemnde i personvernforordninga artikkel 9 og 10, når dette er nødvendig for formål som er omtalte i [privatskolelova § 7-2d](lov/2003-07-04-84/§7-2d). Opplysningane kan også brukast som grunnlag for forsking, analyse og statistikk.
 
@@ -994,7 +1131,11 @@ Utdanningsdirektoratet kan behandle personopplysningar etter første ledd som in
 
 ### § 13-2. Opplysningar frå vidaregåande skolar til Utdanningsdirektoratet
 
-Utan hinder av teieplikt skal vidaregåande skolar gjere følgjande opplysningar om elevar i den vidaregåande opplæringa tilgjengelege for Utdanningsdirektoratet:bakgrunnsopplysningar, til dømes om heimfylke, fødselsnummer og kjønnopplysningar om deltaking i vidaregåande opplæring, til dømes om elevstatus, fagval, ungdomsrett og inntakopplysningar om læringsresultat og gjennomføring, til dømes karakterar, resultat og karakterpoeng.
+Utan hinder av teieplikt skal vidaregåande skolar gjere følgjande opplysningar om elevar i den vidaregåande opplæringa tilgjengelege for Utdanningsdirektoratet:
+
+1. bakgrunnsopplysningar, til dømes om heimfylke, fødselsnummer og kjønn
+2. opplysningar om deltaking i vidaregåande opplæring, til dømes om elevstatus, fagval, ungdomsrett og inntak
+3. opplysningar om læringsresultat og gjennomføring, til dømes karakterar, resultat og karakterpoeng.
 
 Utdanningsdirektoratet kan behandle personopplysningar etter første ledd som indirekte kan knytast til ein elev, inkludert personopplysningar som nemnde i personvernforordninga artikkel 9 og 10, når det er nødvendig for formål som er omtalte i [privatskolelova § 7-2d](lov/2003-07-04-84/§7-2d). Opplysningane kan også brukast som grunnlag for forsking, analyse og statistikk
 
@@ -1028,7 +1169,11 @@ Skolen skal sørgje for at kartleggingar etter første ledd blir gjennomførte.
 
 På oppdrag frå departementet skal Utdanningsdirektoratet i tillegg utarbeide frivillige kartleggingsprøver og anna kartleggingsverktøy.
 
-Utdanningsdirektoratet kan på visse vilkår behandle personopplysningar om deltaking i kartleggingane og personopplysningar knytte til resultata av kartleggingane. Vilkåra er at opplysningane blir brukte tilvidareutvikling av kartleggingsverktøydrift av eit digitalt system for gjennomføring av kartlegginganeforsking, analyse og statistikk, jf. [privatskolelova § 7-2d](lov/2003-07-04-84/§7-2d).
+Utdanningsdirektoratet kan på visse vilkår behandle personopplysningar om deltaking i kartleggingane og personopplysningar knytte til resultata av kartleggingane. Vilkåra er at opplysningane blir brukte til
+
+1. vidareutvikling av kartleggingsverktøy
+2. drift av eit digitalt system for gjennomføring av kartleggingane
+3. forsking, analyse og statistikk, jf. [privatskolelova § 7-2d](lov/2003-07-04-84/§7-2d).
 
 Utdanningsdirektoratet kan levere ut prøveresultata for kvar enkelt elev til skolen eleven går på.
 
@@ -1046,7 +1191,11 @@ Utdanningsdirektoratet kan behandle personopplysningar om dei som deltar i inter
 
 ### § 13-7. Fritak frå nasjonale prøver og kartleggingsprøver
 
-Skolen kan gi fritak frå nasjonale prøver og kartleggingsprøver til elevar somfår individuelt tilrettelagd opplæring, jf. [opplæringslova § 11-6](lov/2023-06-09-30/§11-6) og [§ 11-7](lov/2023-06-09-30/§11-7), jf. [privatskolelova § 3-6](lov/2003-07-04-84/§3-6)får særskild språkopplæring, jf. [privatskolelova § 3-5](lov/2003-07-04-84/§3-5)går på internasjonal skole og får opplæring etter læreplanen i grunnleggjande norsk for språklege minoritetar eller ein annan jamgod plan.
+Skolen kan gi fritak frå nasjonale prøver og kartleggingsprøver til elevar som
+
+1. får individuelt tilrettelagd opplæring, jf. [opplæringslova § 11-6](lov/2023-06-09-30/§11-6) og [§ 11-7](lov/2023-06-09-30/§11-7), jf. [privatskolelova § 3-6](lov/2003-07-04-84/§3-6)
+2. får særskild språkopplæring, jf. [privatskolelova § 3-5](lov/2003-07-04-84/§3-5)
+3. går på internasjonal skole og får opplæring etter læreplanen i grunnleggjande norsk for språklege minoritetar eller ein annan jamgod plan.
 
 Skal skolen gi fritak til ein elev, må det vere klart at prøvene ikkje vil ha mykje å seie for opplæringa til eleven. Avgjerda om fritak er eit enkeltvedtak. Statsforvaltaren er klageinstans.
 
@@ -1074,7 +1223,10 @@ Utdanningsdirektoratet kan fastsetje nærare retningslinjer for gjennomføringa 
 
 ### § 14-1. Innhenting av opplysningar frå Folkeregisteret
 
-Når det er nødvendig for å utføre oppgåver etter [privatskolelova](lov/2003-07-04-84), kan offentlege styresmakter utan hinder av teieplikt hente inn opplysningar frå Folkeregisteret omkven som er foreldra til barn som får eller skal få tenester etter [privatskolelova](lov/2003-07-04-84)kven som har foreldreansvaret for barn som får eller skal få tenester etter [privatskolelova](lov/2003-07-04-84).
+Når det er nødvendig for å utføre oppgåver etter [privatskolelova](lov/2003-07-04-84), kan offentlege styresmakter utan hinder av teieplikt hente inn opplysningar frå Folkeregisteret om
+
+1. kven som er foreldra til barn som får eller skal få tenester etter [privatskolelova](lov/2003-07-04-84)
+2. kven som har foreldreansvaret for barn som får eller skal få tenester etter [privatskolelova](lov/2003-07-04-84).
 
 ### § 14-2. Styrt tilgang til personopplysningar
 
@@ -1086,13 +1238,23 @@ Krava i første ledd gjeld personopplysningar som fell inn under [personopplysni
 
 ### § 14-3. Innhenting av opplysningar ved skolebyte
 
-Så langt det er nødvendig til formål som nemnde i [privatskolelova § 7-9 andre ledd](lov/2003-07-04-84/§7-9/ledd/2), kan skolar hente inn følgjande opplysningar om elevar i samband med skolebyte:opplysningar om tidlegare gjennomført opplæringkarakterar som skal førast på vitnemål eller kompetansebevisopplysningar om fråvær som skal førast på vitnemål eller kompetansebeviskartlegging av elevar med rett til særskild språkopplæring etter [opplæringslova § 3-5](lov/2023-06-09-30/§3-5) og [§ 6-5](lov/2023-06-09-30/§6-5) eller etter [privatskolelova § 3-5](lov/2003-07-04-84/§3-5).
+Så langt det er nødvendig til formål som nemnde i [privatskolelova § 7-9 andre ledd](lov/2003-07-04-84/§7-9/ledd/2), kan skolar hente inn følgjande opplysningar om elevar i samband med skolebyte:
+
+1. opplysningar om tidlegare gjennomført opplæring
+2. karakterar som skal førast på vitnemål eller kompetansebevis
+3. opplysningar om fråvær som skal førast på vitnemål eller kompetansebevis
+4. kartlegging av elevar med rett til særskild språkopplæring etter [opplæringslova § 3-5](lov/2023-06-09-30/§3-5) og [§ 6-5](lov/2023-06-09-30/§6-5) eller etter [privatskolelova § 3-5](lov/2003-07-04-84/§3-5).
 
 Kommunen og fylkeskommunen kan dele dei opplysningane frå vedtak om skolebyte etter [privatskolelova § 2-4](lov/2003-07-04-84/§2-4), jf. [opplæringslova § 13-2](lov/2023-06-09-30/§13-2), som den nye skolen treng for å kunne vareta eleven som blir flytta, og andre elevar på skolen.
 
 ### § 14-4. Innhenting av opplysningar ved overgang frå grunnskole til vidaregåande opplæring
 
-Så langt det er nødvendig til formål som nemnde i [privatskolelova § 7-9 tredje ledd](lov/2003-07-04-84/§7-9/ledd/3), kan skolar som tilbyr vidaregåande opplæring, hente inn følgjande opplysningar om elevar frå grunnskolar:opplysningar om fullført eller ikkje fullført grunnskolehalvårsvurdering med karakterar frå 10. trinnkarakterar som blir førte på vitnemål for grunnskolenfråvær som blir ført på vitnemål for grunnskolen.
+Så langt det er nødvendig til formål som nemnde i [privatskolelova § 7-9 tredje ledd](lov/2003-07-04-84/§7-9/ledd/3), kan skolar som tilbyr vidaregåande opplæring, hente inn følgjande opplysningar om elevar frå grunnskolar:
+
+1. opplysningar om fullført eller ikkje fullført grunnskole
+2. halvårsvurdering med karakterar frå 10. trinn
+3. karakterar som blir førte på vitnemål for grunnskolen
+4. fråvær som blir ført på vitnemål for grunnskolen.
 
 ### § 14-5. Ikkje-anonyme skolemiljøundersøkingar
 
@@ -1126,7 +1288,16 @@ Fristen for å søkje om godkjenning av skole eller driftsendringar etter [priva
 
 ### § 16A-1. Lovbrotsgebyr
 
-Departementet kan ileggje skolar godkjende etter [privatskolelova](lov/2003-07-04-84) lovbrotsgebyr dersom skolen eller nokon som opptrer på vegner av skolen, forsettleg eller aktlaust bryt føresegner i:[§§ 1-1](forskrift/2024-06-03-901/§1-1) til [1-3](forskrift/2024-06-03-901/§1-3) om innhaldet i grunnskoleopplæringa[§ 3-2](forskrift/2024-06-03-901/§3-2) og [§§ 3-10](forskrift/2024-06-03-901/§3-10) til [3-13](forskrift/2024-06-03-901/§3-13) om inntak til vidaregåande opplæring[§ 4-1](forskrift/2024-06-03-901/§4-1) og [§ 4-4](forskrift/2024-06-03-901/§4-4) om innhaldet i den vidaregående opplæringa[§ 6-9](forskrift/2024-06-03-901/§6-9), [§ 6-11](forskrift/2024-06-03-901/§6-11), [§ 6-16](forskrift/2024-06-03-901/§6-16), [§ 6-17](forskrift/2024-06-03-901/§6-17), [§ 6-27](forskrift/2024-06-03-901/§6-27) og [§§ 6-41](forskrift/2024-06-03-901/§6-41) til [6-51](forskrift/2024-06-03-901/§6-51) om individuell vurdering[§§ 9-1](forskrift/2024-06-03-901/§9-1) og [9-2](forskrift/2024-06-03-901/§9-2) om tilleggskompetanse[§§ 10-1](forskrift/2024-06-03-901/§10-1) til [10-4](forskrift/2024-06-03-901/§10-4) om politiattest og yrkesforbod[§ 11-1](forskrift/2024-06-03-901/§11-1) om krav til dokumentasjon av den nedsette funksjonsevna og lærevanskane til eleven[§ 14-2](forskrift/2024-06-03-901/§14-2) om styrt tilgang til personopplysningar.
+Departementet kan ileggje skolar godkjende etter [privatskolelova](lov/2003-07-04-84) lovbrotsgebyr dersom skolen eller nokon som opptrer på vegner av skolen, forsettleg eller aktlaust bryt føresegner i:
+
+- [§§ 1-1](forskrift/2024-06-03-901/§1-1) til [1-3](forskrift/2024-06-03-901/§1-3) om innhaldet i grunnskoleopplæringa
+- [§ 3-2](forskrift/2024-06-03-901/§3-2) og [§§ 3-10](forskrift/2024-06-03-901/§3-10) til [3-13](forskrift/2024-06-03-901/§3-13) om inntak til vidaregåande opplæring
+- [§ 4-1](forskrift/2024-06-03-901/§4-1) og [§ 4-4](forskrift/2024-06-03-901/§4-4) om innhaldet i den vidaregående opplæringa
+- [§ 6-9](forskrift/2024-06-03-901/§6-9), [§ 6-11](forskrift/2024-06-03-901/§6-11), [§ 6-16](forskrift/2024-06-03-901/§6-16), [§ 6-17](forskrift/2024-06-03-901/§6-17), [§ 6-27](forskrift/2024-06-03-901/§6-27) og [§§ 6-41](forskrift/2024-06-03-901/§6-41) til [6-51](forskrift/2024-06-03-901/§6-51) om individuell vurdering
+- [§§ 9-1](forskrift/2024-06-03-901/§9-1) og [9-2](forskrift/2024-06-03-901/§9-2) om tilleggskompetanse
+- [§§ 10-1](forskrift/2024-06-03-901/§10-1) til [10-4](forskrift/2024-06-03-901/§10-4) om politiattest og yrkesforbod
+- [§ 11-1](forskrift/2024-06-03-901/§11-1) om krav til dokumentasjon av den nedsette funksjonsevna og lærevanskane til eleven
+- [§ 14-2](forskrift/2024-06-03-901/§14-2) om styrt tilgang til personopplysningar.
 
 Ved vurderinga av ilegging og utmåling av lovbrotsgebyr kan det også leggjast vekt på om det er oppdaga forhold i strid med andre lover og forskrifter, dersom forholdet svekkjer tilliten til skolen.
 

@@ -16,7 +16,7 @@ xml_hash: "bfbf4466c6ec27e331faf351ac30a9c6f677b06190bc50e1d2318a9dd880146c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -47,7 +47,12 @@ EØS-avtalens vedlegg I kapittel I del 7.1 nr. 9c (forordning [(EU) nr. 142/2011
 
 ### § 3. Unntak fra registreringsplikt
 
-Følgende driftsansvarlige unntas fra registreringskravet i forordning [(EF) nr. 1069/2009](eu/32009r1069) artikkel 23 (4):Driftsansvarlige som håndterer eller framstiller jakttrofeer eller andre preparater nevnt i [§ 2](forskrift/2016-09-14-1064/§2) jf. forordning [(EU) nr. 142/2011](eu/32011r0142) vedlegg XIII kapittel VI til privat eller ikke-kommersielle formål.Driftsansvarlige som transporterer tørr ubehandlet ull og tørt ubehandlet hår som er forsvarlig emballert og som sendes direkte til anlegg som framstiller avledede produkter til bruk utenfor fôrkjeden eller til anlegg som utfører mellombehandling på en måte som hindrer spredning av sykdomsframkallende stoffer.Brukere av organisk gjødsel eller jordforbedringsmidler på bruk hvor det ikke holdes produksjonsdyr.Aktører som håndterer eller distribuerer organisk gjødsel eller jordforbedringsmidler kun i forpakninger opptil 50 kg, som er ferdige til salg og kun til bruk utenfor mat- og fôrkjeden.
+Følgende driftsansvarlige unntas fra registreringskravet i forordning [(EF) nr. 1069/2009](eu/32009r1069) artikkel 23 (4):
+
+1. Driftsansvarlige som håndterer eller framstiller jakttrofeer eller andre preparater nevnt i [§ 2](forskrift/2016-09-14-1064/§2) jf. forordning [(EU) nr. 142/2011](eu/32011r0142) vedlegg XIII kapittel VI til privat eller ikke-kommersielle formål.
+2. Driftsansvarlige som transporterer tørr ubehandlet ull og tørt ubehandlet hår som er forsvarlig emballert og som sendes direkte til anlegg som framstiller avledede produkter til bruk utenfor fôrkjeden eller til anlegg som utfører mellombehandling på en måte som hindrer spredning av sykdomsframkallende stoffer.
+3. Brukere av organisk gjødsel eller jordforbedringsmidler på bruk hvor det ikke holdes produksjonsdyr.
+4. Aktører som håndterer eller distribuerer organisk gjødsel eller jordforbedringsmidler kun i forpakninger opptil 50 kg, som er ferdige til salg og kun til bruk utenfor mat- og fôrkjeden.
 
 ## Kapittel III. Utfyllende nasjonale bestemmelser om forskning, diagnostikk og undervisning
 
@@ -71,7 +76,13 @@ Det skal meldes fra til Mattilsynet før bruk, transport eller avhending av mate
 
 ### § 7. Biogassproduksjon og kompostering – unntak fra krav om trykksterilisering og merking av materiale i kategori 2
 
-Følgende animalske materiale i kategori 2 kan komposteres eller omdannes til biogass uten forutgående trykksterilisering og permanent merking av det resulterende materialet:husdyrgjødselfordøyelseskanal, med eller uten innhold, fra fjørfe og grismelkmelkebaserte produkterråmelk.
+Følgende animalske materiale i kategori 2 kan komposteres eller omdannes til biogass uten forutgående trykksterilisering og permanent merking av det resulterende materialet:
+
+1. husdyrgjødsel
+2. fordøyelseskanal, med eller uten innhold, fra fjørfe og gris
+3. melk
+4. melkebaserte produkter
+5. råmelk.
 
 Biogassanlegg som benytter biprodukter som kan spres på jorder uten forutgående bearbeiding i [§ 12](forskrift/2016-09-14-1064/§12) er unntatt fra kravet om hygieniseringsenhet. Unntaket gjelder ikke der husdyrgjødsel fra pelsdyr eller slakterier benyttes, eller der husdyrgjødselen kommer fra et annet fylke enn der råtneresten skal brukes.
 
@@ -97,7 +108,13 @@ Hvis animalske biprodukter er brukt til omdanning til biogass eller kompost samm
 
 ### § 12. Biprodukter som kan spres på jorder uten forutgående bearbeiding – materialer i kategori 2 og 3
 
-Følgende materiale kan spres på jordbruksareal uten forutgående bearbeiding:Kategori 2: Melk, melkebaserte produkter og råmelk.Kategori 3: Rå melk, råmelk og produkter fremstilt av disse.Kategori 2: Husdyrgjødsel fra vanlig husdyrhold.Kategori 2: Husdyrgjødsel og innhold fra fordøyelseskanal fra små slakterianlegg og gårdslakterier.Husdyrgjødsel som omsettes etter overgangsbestemmelsene i [forskrift 29. januar 2025 nr. 116 om produksjon, omsetning og import av gjødselvarer av organisk opphav og visse uorganiske gjødselvarer (gjødselvareforskriften) § 51](forskrift/2025-01-29-116/§51) bokstav g og k.
+Følgende materiale kan spres på jordbruksareal uten forutgående bearbeiding:
+
+1. Kategori 2: Melk, melkebaserte produkter og råmelk.
+2. Kategori 3: Rå melk, råmelk og produkter fremstilt av disse.
+3. Kategori 2: Husdyrgjødsel fra vanlig husdyrhold.
+4. Kategori 2: Husdyrgjødsel og innhold fra fordøyelseskanal fra små slakterianlegg og gårdslakterier.
+5. Husdyrgjødsel som omsettes etter overgangsbestemmelsene i [forskrift 29. januar 2025 nr. 116 om produksjon, omsetning og import av gjødselvarer av organisk opphav og visse uorganiske gjødselvarer (gjødselvareforskriften) § 51](forskrift/2025-01-29-116/§51) bokstav g og k.
 
 Husdyrgjødsel og innhold fra fordøyelseskanal som spres på jordbruksareal uten forutgående bearbeiding skal ha sin opprinnelse i det fylket den skal brukes. Det kreves tillatelse fra Mattilsynet for å bruke slike biprodukter fra et annet fylke. Fra 1. februar 2027 kan slike tillatelser bare gis i særskilte tilfeller.
 
@@ -169,7 +186,11 @@ Brenning og nedgraving etter denne bestemmelsen skal gjøres etter anvisning og 
 
 ### § 22. Krav om dokumentasjon ved innenlandstransport – handelsdokument m.m.
 
-Biprodukter og avledede produkter som bare transporteres i Norge, skal dokumenteres på en av følgende måter:med fysisk eller elektronisk handelsdokument som inneholder informasjonen i forskriftens vedlegg 2med handelsdokument i forordning [(EU) nr. 142/2011](eu/32011r0142) vedlegg VIII kapittel III (6)ved elektronisk overføring av informasjon om opprinnelse, bestemmelsessted, mengde, beskrivelse av biproduktene eller avledede produktene og eventuell merking.
+Biprodukter og avledede produkter som bare transporteres i Norge, skal dokumenteres på en av følgende måter:
+
+1. med fysisk eller elektronisk handelsdokument som inneholder informasjonen i forskriftens vedlegg 2
+2. med handelsdokument i forordning [(EU) nr. 142/2011](eu/32011r0142) vedlegg VIII kapittel III (6)
+3. ved elektronisk overføring av informasjon om opprinnelse, bestemmelsessted, mengde, beskrivelse av biproduktene eller avledede produktene og eventuell merking.
 
 Overføres informasjonen elektronisk etter bokstav b og c skal transportøren ha tilgang til den elektroniske informasjonen under transporten.
 
@@ -197,7 +218,13 @@ Transportmidler og beholdere som er brukt til å levere hygienisert husdyrgjøds
 
 ### § 26. Ubearbeidet agn og fôr til fisk – unntak og tilleggsvilkår
 
-Ubearbeidede animalske biprodukter frasild og lodde,lokalt villfanget fisk oglokalt villfangede virvelløse dyr,som har gjennomgått en fryseprosess som dreper parasitter, kan brukes som fôr til villfanget fisk og virvelløse dyr i vann, som holdes midlertidig i påvente av å bli slaktet eller er under tilvenning til bearbeidet fôr. Unntatt fra dette er at ubearbeidede animalske biprodukter fra krepsdyr ikke kan brukes som fôr til krepsdyr.
+Ubearbeidede animalske biprodukter fra
+
+- sild og lodde,
+- lokalt villfanget fisk og
+- lokalt villfangede virvelløse dyr,
+
+som har gjennomgått en fryseprosess som dreper parasitter, kan brukes som fôr til villfanget fisk og virvelløse dyr i vann, som holdes midlertidig i påvente av å bli slaktet eller er under tilvenning til bearbeidet fôr. Unntatt fra dette er at ubearbeidede animalske biprodukter fra krepsdyr ikke kan brukes som fôr til krepsdyr.
 
 Animalske biprodukter av villfanget fisk, villfangede virvelløse dyr som lever i vann og virvelløse landdyr kan brukes som agn, herunder som agn til virvelløse dyr som lever i vann.
 
@@ -221,7 +248,11 @@ Det bearbeidede fôret skal pakkes i ny emballasje og det skal tas nødvendige f
 
 ### § 30. Materiale fra renskjæring og spalting av huder og skinn for produksjon av gelatin m.m.
 
-Virksomheter som håndterer huder og skinn fra hov- og klovdyr og som oppfyller kravene i forordning [(EU) nr. 142/2011](eu/32011r0142) artikkel 24(4) jf. vedlegg XIII kapittel V(A) kan levere materiale fra renskjæring og spalting av huder og skinn for produksjon avgelatin til fôr til dyrorganisk gjødseljordforbedringsmidler.
+Virksomheter som håndterer huder og skinn fra hov- og klovdyr og som oppfyller kravene i forordning [(EU) nr. 142/2011](eu/32011r0142) artikkel 24(4) jf. vedlegg XIII kapittel V(A) kan levere materiale fra renskjæring og spalting av huder og skinn for produksjon av
+
+1. gelatin til fôr til dyr
+2. organisk gjødsel
+3. jordforbedringsmidler.
 
 ### § 31. Tørking av fjør mv. – unntak
 
@@ -235,7 +266,10 @@ Ubehandlet ull og hår fra registrerte eller autoriserte virksomheter kan omsett
 
 ### § 33. Biprodukter til forskning og diagnostisering
 
-Søknad om tillatelse for å importere og transittere biprodukter eller avledede produkter til forskning og diagnostisering skalinneholde informasjon om hvor biproduktene ankommer EØSdokumentere hvordan smittespredning skal forhindres.
+Søknad om tillatelse for å importere og transittere biprodukter eller avledede produkter til forskning og diagnostisering skal
+
+1. inneholde informasjon om hvor biproduktene ankommer EØS
+2. dokumentere hvordan smittespredning skal forhindres.
 
 Forsendelsen skal sendes direkte fra stedet hvor den ble ført inn i EØS til godkjent bruker.
 
@@ -292,7 +326,13 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 > Endret 15 mars 2017 (erstattet pdf med konsolidert fulltekst). Endret ved forskrifter [6 mars 2020 nr. 707](forskrift/2020-03-06-707) (i kraft 7 april 2020), [6 mars 2024 nr. 539](forskrift/2024-03-06-539) (i kraft 3 april 2024).
 
-Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1069/2009](eu/32009r1069). Dette er grunnrettsakten. Grunnrettsakten er endret ved europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063), forordning [(EU) 2017/625](eu/32017r0625) og forordning [(EU) 2019/1009](eu/32019r1009). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg I, er innarbeidet nedenfor.►**B** Forordning [(EF) nr. 1069/2009](eu/32009r1069)►**M1** Europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063)►**M2** Forordning [(EU) nr. 2017/625](eu/32017r0625*) av 15. mars 2017►**M3** Forordning [(EU) 2019/1009](eu/32019r1009) av 5. juni 2019►**EØS** Tilpasning som følge av EØS-avtalen vedlegg I
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1069/2009](eu/32009r1069). Dette er grunnrettsakten. Grunnrettsakten er endret ved europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063), forordning [(EU) 2017/625](eu/32017r0625) og forordning [(EU) 2019/1009](eu/32019r1009). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg I, er innarbeidet nedenfor.
+
+- ►**B** Forordning [(EF) nr. 1069/2009](eu/32009r1069)
+- ►**M1** Europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063)
+- ►**M2** Forordning [(EU) nr. 2017/625](eu/32017r0625*) av 15. mars 2017
+- ►**M3** Forordning [(EU) 2019/1009](eu/32019r1009) av 5. juni 2019
+- ►**EØS** Tilpasning som følge av EØS-avtalen vedlegg I
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1069/2009](eu/32009r1069)
 av 21. oktober 2009
@@ -310,7 +350,80 @@ etter samråd med Regionkomiteen,
 
 etter framgangsmåten fastsatt i traktatens artikkel 2512 og
 
-ut fra følgende betraktninger:Animalske biprodukter som ikke er beregnet på konsum, kan innebære en risiko for folkehelsen og dyrehelsen. Tidligere kriser knyttet til utbrudd av munn- og klovsyke, spredning av overførbar spongiform encefalopati, for eksempel bovin spongiform encefalopati (BSE), og forekomst av dioksiner i fôrvarer, har vist hvilke følger feil bruk av visse animalske biprodukter har for folkehelsen og dyrehelsen, tryggheten i næringsmiddel- og fôrkjeden og forbrukernes tillit. Slike kriser kan dessuten også ha en mer omfattende negativ innvirkning på samfunnet som helhet som følge av deres innvirkning på den sosioøkonomiske situasjonen for gårdbrukerne og den berørte næringssektoren og på forbrukernes tillit til at produkter av animalsk opprinnelse er trygge. Sykdomsutbrudd kan også ha negative følger for miljøet, ikke bare på grunn av problemer med disponering, men også når det gjelder biologisk mangfold.Animalske biprodukter oppstår hovedsakelig under slakting av dyr beregnet på konsum, under framstilling av produkter av animalsk opprinnelse, for eksempel melkeprodukter, og i forbindelse med disponering av døde dyr og ved tiltak i forbindelse med sykdomsbekjempelse. Uansett hva kilden er, innebærer de en mulig risiko for folkehelsen, dyrehelsen og miljøet. Denne risikoen må kontrolleres på hensiktsmessig måte, enten ved at de berørte produktene disponeres på en sikrere måte, eller ved at de brukes for ulike formål, forutsatt at det skjer på strenge vilkår slik at helserisikoen reduseres mest mulig.Disponering av alle animalske biprodukter er ikke et realistisk alternativ, ettersom det ville innebære uholdbare kostnader og miljørisikoer. Omvendt er det i alle borgernes interesse at et mangfold av animalske biprodukter brukes på en trygg og holdbar måte for ulike formål, forutsatt at helserisikoene reduseres mest mulig. En rekke animalske biprodukter brukes allment i viktige produksjonssektorer, for eksempel legemiddel-, fôrvare- og lærvareindustrien.Ny teknologi har utvidet mulighetene for å bruke animalske biprodukter eller avledede produkter til en rekke produksjonssektorer, særlig for energiproduksjon. Anvendelse av ny teknologi kan imidlertid innebære helserisiko som også må reduseres mest mulig.Fellesskapets hygieneregler for innsamling, transport, håndtering, behandling, omforming, bearbeiding, lagring, omsetning, distribusjon, bruk eller disponering av animalske biprodukter bør fastsettes i et sammenhengende og fullstendig regelverk.Disse allmenne reglene bør stå i forhold til den risikoen for folkehelsen og dyrehelsen som animalske biprodukter innebærer når de håndteres av driftsansvarlige i ulike ledd av kjeden fra innsamling til bruk eller disponering. I reglene bør det også tas hensyn til den miljørisikoen som disse aktivitetene innebærer. Fellesskapets regelverk bør ved behov omfatte egnede hygieneregler for omsetning, herunder ved handel innenfor Fellesskapet med og import av animalske biprodukter.I forordning [(EF) nr. 1774/2002](eu/32002r1774*)3 fastsatte Europaparlamentet og Rådet Fellesskapets hygieneregler for animalske biprodukter som ikke er beregnet på konsum. Nevnte forordning ble utarbeidet på grunnlag av vitenskapelige råd og som et tiltak i henhold til Kommisjonens hvitbok av 12. januar 2000 om næringsmiddeltrygghet, og innførte et sett av regler som har som formål å sikre tryggheten i næringsmiddel- og fôrkjeden, og som utfyller Fellesskapets regler for næringsmidler og fôrvarer. Disse reglene har vesentlig forbedret vernet i Fellesskapet mot risikoen knyttet til animalske biprodukter.Ved forordning [(EF) nr. 1774/2002](eu/32002r1774*) ble det innført en klassifisering av animalske biprodukter i tre kategorier avhengig av graden av risiko. I henhold til forordningen skal driftsansvarlige holde animalske biprodukter av ulike kategorier atskilt fra hverandre dersom de ønsker å bruke animalske biprodukter som ikke innebærer en betydelig risiko for folkehelsen eller dyrehelsen, særlig dersom disse produktene er framstilt av materiale som er egnet til konsum. Nevnte forordning innførte også prinsippet om at produksjonsdyr ikke skal fôres med høyrisikostoffer, og at dyr ikke skal fôres med materiale fra dyr av samme art. I henhold til nevnte forordning skal bare materiale fra dyr som har gjennomgått veterinærkontroll, inngå i fôrkjeden. I tillegg fastsetter forordningen bestemmelser om bearbeidingskrav som sikrer risikoreduksjon.I henhold til artikkel 35 nr. 2 i forordning [(EF) nr. 1774/2002](eu/32002r1774*) skal Kommisjonen framlegge en rapport for Europaparlamentet og Rådet om de tiltak medlemsstatene har truffet for å etterkomme forordningen. Rapporten skal eventuelt følges av forslag til regelverksendringer. Rapporten ble framlagt 21. oktober 2005, og det ble understreket at prinsippene i forordning [(EF) nr. 1774/2002](eu/32002r1774*) fortsatt bør følges. Det ble dessuten pekt på områder der det ble ansett nødvendig å endre nevnte forordning, særlig presisering med hensyn til anvendelsen av reglene på ferdige produkter, forholdet til annet fellesskapsregelverk og klassifiseringen av visse materialer. Resultatene av en rekke inspeksjoner som Kommisjonens næringsmiddel- og veterinærkontor gjennomførte i medlemsstatene i 2004 og 2005, støtter disse konklusjonene. Ifølge Næringsmiddel- og veterinærkontoret er det nødvendig å gjøre det lettere å spore flyten av animalske biprodukter, og de offentlige kontrollene bør effektiviseres og harmoniseres.Styringskomiteen for vitenskapelige spørsmål, som ble erstattet med Den europeiske myndighet for næringsmiddeltrygghet (EFSA) i 2002, har avgitt en rekke uttalelser om animalske biprodukter. Disse uttalelsene viser at det er behov for å beholde hovedprinsippene i forordning [(EF) nr. 1774/2002](eu/32002r1774*), særlig prinsippet om at animalske biprodukter fra dyr som ved hygienekontroll har vist seg ikke å være egnet til konsum, ikke bør inngå i fôrkjeden. Disse animalske biproduktene kan imidlertid på nærmere angitte hygienevilkår gjenvinnes og brukes til framstilling av tekniske eller industrielle produkter.I konklusjonene fra formannskapet i Rådet om Kommisjonens rapport av 21. oktober 2005, som ble vedtatt i desember 2005, og ved Kommisjonens påfølgende samråd, ble det framhevet at bestemmelsene i forordning [(EF) nr. 1774/2002](eu/32002r1774*) bør forbedres. Hovedmålene for bestemmelsene om animalske biprodukter, som er å kontrollere risikoen for folkehelsen og dyrehelsen og å sikre trygghet i næringsmiddel- og fôrkjeden, bør fastsettes på en tydelig måte. Bestemmelsene i denne forordning bør gjøre det mulig å nå disse målene.Bestemmelsene om animalske biprodukter som fastsettes i denne forordning, bør få anvendelse på produkter som ikke kan brukes til konsum i henhold til Fellesskapets regelverk, særlig når de ikke overholder reglene for næringsmiddelhygiene eller når de ikke kan bringes i omsetning som næringsmiddel ettersom de er utrygge, enten fordi de er helseskadelige eller fordi de er uegnet til konsum (animalske biprodukter i henhold til lovgivningen). Disse bestemmelsene bør også få anvendelse på produkter av animalsk opprinnelse som ikke overholder visse bestemmelser med hensyn til eventuelt konsum, eller som er råstoffer til framstilling av produkter for konsum, selv om de til slutt skal brukes for andre formål (animalske biprodukter «ved valg»).For å hindre risiko knyttet til ville dyr, bør også kropper eller deler av kroppene til slike dyr, som mistenkes for å være infisert med en smittsom sykdom, være omfattet av bestemmelsene i denne forordning. Dette bør imidlertid ikke innebære en forpliktelse til å samle inn og disponere kroppene til ville dyr som har dødd eller er avlivet i sitt habitat. Dersom god jaktpraksis følges, kan tarmer og andre kroppsdeler fra viltlevende vilt disponeres på en sikker måte på stedet. Medlemsstatene har godt innarbeidede rutiner for risikoreduksjon, som i noen tilfeller bygger på kulturtradisjoner eller nasjonal lovgivning som regulerer jegeres virksomhet I Fellesskapets regelverk, særlig europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,4 er det fastsatt bestemmelser om behandling av kjøtt og animalske biprodukter fra viltlevende vilt. Disse bestemmelsene legger også ansvaret for å hindre risiko på personer som har fått opplæring, for eksempel jegere. På grunn av den mulige risikoen for næringsmiddelkjeden, bør animalske biprodukter fra felt viltlevende vilt være omfattet av denne forordning bare i det omfang hygieneregler for næringsmidler får anvendelse på omsetning av slikt vilt og berører aktiviteter som utføres i viltbehandlingsanlegg. I tillegg bør animalske biprodukter som brukes til preparering av jakttrofeer, være omfattet av denne forordning for å hindre at det oppstår risiko for dyrehelsen som følge av slike biprodukter.Bestemmelsene i denne forordning bør få anvendelse på animalske biprodukter framstilt av vanndyr, unntatt materiale fra fartøyer som omfattes av Fellesskapets regelverk for næringsmiddelhygiene. Det bør imidlertid vedtas tiltak som står i forhold til risikoen knyttet til håndtering og disponering av materiale som oppstår ved rensing om bord på fiskefartøyer av fisk som viser tegn på sykdom. Slike gjennomføringstiltak for forordningen bør vedtas på grunnlag av en risikovurdering foretatt av en egnet vitenskapelig institusjon i lys av tilgjengelig dokumentasjon av hvor effektive visse tiltak er for å bekjempe spredning av sykdommer som kan overføres til mennesker, særlig av visse parasitter.På grunn av den begrensede risikoen som er knyttet til materialer som brukes som rått fôr til kjæledyr ved en driftsenhet eller leveres til sluttbrukerne av næringsmiddelforetak, bør visse virksomheter knyttet til slikt rått fôr til kjæledyr ikke være omfattet av bestemmelsene i denne forordning.Det bør i denne forordning fastsettes hvilke dyr som skal klassifiseres som kjæledyr, slik at biprodukter fra slike dyr ikke brukes i fôr til produksjonsdyr. Særlig bør dyr som brukes for andre formål enn produksjon, for eksempel for selskapets skyld, klassifiseres som kjæledyr.Av hensyn til sammenhengen i Fellesskapets regelverk bør visse definisjoner fastsatt i europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å hindre, bekjempe og utrydde visse typer overførbar spongiform encefalopati5 og i europaparlaments- og rådsdirektiv [2008/98/EF](eu/32008l0098) av 19. november 2008 om avfall6 anvendes i denne forordning. Henvisningen til rådsdirektiv [86/609/EØF](eu/31986l0609*) av 24. november 1986 om tilnærming av medlemsstatenes lover og forskrifter om vern av forsøksdyr og dyr til andre vitenskapelige formål7 bør gjøres tydeligere.Av hensyn til sammenhengen i Fellesskapets regelverk bør definisjonen av «vanndyr» som er fastsatt i rådsdirektiv [2006/88/EF](eu/32006l0088*) av 24. oktober 2006 om dyrehelsekrav til akvakulturdyr og produkter av disse, og om forebygging og bekjempelse av visse sykdommer hos vanndyr,8 anvendes i denne forordning. Samtidig bør virvelløse dyr som lever i vann, som ikke omfattes av nevnte definisjon og som ikke innebærer noen risiko for sykdomsoverføring, være omfattet av samme krav som vanndyr.I rådsdirektiv [1999/31/EF](eu/31999l0031) av 26. april 1999 om deponering av avfall9 fastsettes vilkårene for utstedelse av tillatelse til drift av fyllplasser. I denne forordning bør det fastsettes at animalske biprodukter skal disponeres på fyllplasser som det er utstedt en slik tillatelse for.Hovedansvaret for å utføre aktiviteter i henhold til denne forordning bør ligge hos de driftsansvarlige. Samtidig er det i allmennhetens interesse at risiko for folkehelsen og dyrehelsen hindres, noe som forutsetter at det finnes et system for innsamling og disponering som sikrer en sikker bruk eller sikker disponering av animalske biprodukter som ikke kan brukes, eller som ikke brukes av økonomiske grunner. Innsamlings- og disponeringssystemets omfang bør stå i forhold til den faktiske mengden av animalske biprodukter som oppstår i den enkelte medlemsstat. I samsvar med føre-var-prinsippet bør det også tas hensyn til behovet for utvidet disponeringskapasitet i tilfelle av større utbrudd av smittsomme sykdommer eller av midlertidig teknisk feil ved et eksisterende disponeringsanlegg. Medlemsstatene bør kunne samarbeide med hverandre og med tredjestater, forutsatt at bestemmelsene i denne forordning følges.Det er viktig å fastsette et startpunkt i animalske biprodukters livssyklus som kravene i denne forordning får anvendelse fra. Når et produkt er blitt et animalsk biprodukt, bør det ikke komme inn i næringsmiddelkjeden igjen. Særlige vilkår gjelder for håndtering av visse råstoffer, for eksempel huder, som håndteres i virksomheter eller anlegg som samtidig inngår i både næringsmiddelkjeden og kjeden med animalske biprodukter. I slike tilfeller bør de nødvendige tiltak treffes ved hjelp av atskillelse for å redusere den mulige risikoen for næringsmiddelkjeden som kan oppstå på grunn av krysskontaminering. For andre virksomheter bør det fastsettes risikobaserte vilkår for å unngå krysskontaminering, særlig ved å skille kjeden med animalske biprodukter fra næringsmiddelkjeden.Av hensyn til rettssikkerheten og en egnet overvåking av mulig risiko, bør det fastsettes et sluttpunkt i produksjonskjeden for produkter som ikke lenger har direkte betydning for tryggheten i fôrkjeden. For visse produkter som er omfattet av annet fellesskapsregelverk, bør et sluttpunkt fastsettes på produksjonsstadiet. Produkter som har nådd dette sluttpunktet, bør fritas fra kontroll i henhold til denne forordning. Særlig bør produkter etter sluttpunktet kunne bringes i omsetning uten restriksjoner i henhold til denne forordning og kunne håndteres og transporteres av driftsansvarlige som ikke er blitt godkjent eller registrert i henhold til denne forordning.Det bør imidlertid være mulig å endre dette sluttpunktet, særlig dersom ny risiko oppstår. Ved forordning [(EF) nr. 1774/2002](eu/32002r1774*) ble visse produkter unntatt fra forordningens krav, blant annet guano, visse huder som har vært behandlet på en bestemt måte, for eksempel med garving, og visse jakttrofeer. I gjennomføringstiltakene som skal vedtas i henhold til denne forordning for produkter som for eksempel produkter av bearbeidet fett og sluttprodukter fra produksjonen av biodiesel, bør det fastsettes lignende unntak på egnede vilkår.For å sikre et høyt nivå for vern av folkehelsen og dyrehelsen bør medlemsstatene fortsette å treffe de nødvendige tiltak for å hindre at animalske biprodukter sendes fra områder eller anlegg som er omfattet av restriksjoner, særlig ved utbrudd av en sykdom oppført i rådsdirektiv [92/119/EØF](eu/31992l0119*) av 17. desember 1992 om generelle fellesskapstiltak for bekjempelse av visse dyresykdommer og særtiltak med hensyn til smittsomt blæreutslett hos gris.10Aktiviteter som berører animalske biprodukter og innebærer en betydelig risiko for folkehelsen og dyrehelsen, bør bare utføres i virksomheter eller anlegg som på forhånd er godkjent for slike aktiviteter av vedkommende myndighet. Dette vilkåret bør særlig gjelde for foredlingsvirksomheter eller -anlegg og andre virksomheter eller anlegg som håndterer eller lagrer animalske biprodukter som har direkte betydning for tryggheten i fôrkjeden. Det bør være tillatt å håndtere animalske biprodukter av flere enn én kategori ved samme virksomhet eller anlegg, forutsatt at krysskontaminering unngås. Det bør videre være tillatt å endre disse vilkårene dersom mengden av materialet som skal disponeres og bearbeides, øker på grunn av et større sykdomsutbrudd, forutsatt at det sikres at midlertidig bruk på slike endrede vilkår ikke fører til spredning av sykdomsrisiko.Slike godkjenninger bør imidlertid ikke være nødvendig for virksomheter eller anlegg som bearbeider eller håndterer visse sikre materialer, for eksempel produkter som er så bearbeidet at de ikke lenger innebærer en risiko for folkehelsen og dyrehelsen. Slike virksomheter eller anlegg bør registreres slik at det kan foretas offentlig kontroll av materialflyten og at sporbarheten sikres. Kravet om registrering bør gjelde også for driftsansvarlige som transporterer animalske biprodukter eller avledede produkter, med mindre de ikke lenger er gjenstand for kontroll ettersom det er fastsatt et sluttpunkt i kjeden.Virksomheter eller anlegg bør godkjennes på grunnlag av opplysninger som er framlagt for vedkommende myndighet, og etter et besøk på stedet som viser at kravene i denne forordning til virksomhetens eller anleggets infrastruktur og utstyr vil bli oppfylt, slik at eventuell risiko for folkehelsen eller dyrehelsen som oppstår i denne prosessen, kan kontrolleres på egnet måte. Det bør være mulig å gi godkjenningen på visse vilkår slik at de driftsansvarlige kan bøte på eventuelle mangler før virksomheten eller anlegget får full godkjenning.Det bør ikke kreves at virksomheter eller anlegg som utfører aktiviteter som allerede er godkjent i henhold til Fellesskapets regelverk for næringsmiddelhygiene, skal godkjennes eller registreres i henhold til denne forordning, ettersom godkjenninger eller registreringer i henhold til dette fellesskapsregelverket allerede tar hensyn til målene i denne forordning. Virksomheter eller anlegg som har blitt godkjent eller registrert i henhold til hygieneregelverk, bør imidlertid være forpliktet til å oppfylle kravene i denne forordning og være gjenstand for offentlige kontroller som gjennomføres for å fastslå at kravene i denne forordning er oppfylt.Animalske biprodukter og avledede produkter bør på grunnlag av risikovurderinger klassifiseres i tre kategorier ut fra hvilken grad av risiko de innebærer for folkehelsen og dyrehelsen. Animalske biprodukter og avledede produkter som innebærer høy risiko, bør bare brukes for formål utenfor fôrkjeden, men bruk av produkter som innebærer en lavere risiko, bør tillates under sikre forhold.Vitenskapelige og teknologiske framskritt kan føre til utvikling av prosesser som fjerner eller reduserer risikoen for folkehelsen og dyrehelsen. Listene over animalske biprodukter i denne forordning bør kunne endres for å ta hensyn til slike framskritt. Før eventuelle endringer gjøres, og i samsvar med de allmenne prinsippene i Fellesskapets regelverk som har som mål å sikre et høyt nivå for vern av folkehelsen og dyrehelsen, bør en risikovurdering foretas av en egnet vitenskapelig institusjon, for eksempel EFSA, Det europeiske legemiddelkontor eller Vitenskapskomiteen for forbruksvarer, avhengig av hvilken type animalsk biprodukt som skal vurderes. Det bør imidlertid være klart at når animalske biprodukter av ulike kategorier er blitt blandet, bør blandingen håndteres i samsvar med de standarder som er fastsatt for den delen av blandingen som tilhører kategorien med høyest risiko.På grunn av den høye risikoen for folkehelsen, bør animalske biprodukter som innebærer en risiko for overførbar spongiform encefalopati (TSE), særlig ikke brukes som fôr. Denne restriksjonen skal også gjelde for ville dyr som kan spre smittsom sykdom. Restriksjonen med hensyn til fôring med animalske biprodukter som innebærer TSE-risiko, bør ikke berøre anvendelsen av bestemmelsene om fôring i forordning [(EF) nr. 999/2001](eu/32001r0999).Animalske biprodukter fra forsøksdyr som definert i direktiv [86/609/EØF](eu/31986l0609*), bør også utelukkes fra bruk i fôr på grunn av den mulige risikoen som slike animalske biprodukter innebærer. Medlemsstatene kan imidlertid tillate bruk av animalske biprodukter fra dyr som har vært anvendt i forsøk for å prøve nye tilsetningsstoffer i fôrvarer, i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer.11Bruk av visse stoffer og produkter er ulovlig i henhold til rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en fremgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse12 og rådsdirektiv [96/22/EF](eu/31996l0022) av 29. april 1996 om forbud mot bruk av visse stoffer med hormonell eller tyreostatisk virkning samt beta-agonister innenfor husdyrhold.13 I tillegg fastsettes i rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter14 ytterligere bestemmelser om kontroll av visse stoffer og deres restmengder i levende dyr og animalske produkter. I direktiv [96/23/EF](eu/31996l0023) fastsettes også bestemmelser som får anvendelse når det er påvist en forekomst av restmengder av godkjente stoffer eller forurensende stoffer som overstiger visse tillatte nivåer. For å sikre sammenheng i Fellesskapets regelverk bør produkter av animalsk opprinnelse der det påvises stoffer som er i strid med forordning [(EØF) nr. 2377/90](eu/31990r2377) og direktiv [96/22/EF](eu/31996l0022) og [96/23/EF](eu/31996l0023), klassifiseres som kategori 1- eller 2-materiale, alt etter hvilken risiko de innebærer for næringsmiddel- og fôrkjeden.Det bør ikke være nødvendig å disponere husdyrgjødsel og mage- og tarminnhold, forutsatt at egnet behandling sikrer at sykdom ikke overføres ved spredning på jord. Animalske biprodukter fra dyr som har dødd i driftsenheten og dyr som er avlivet for å utrydde sykdommer, bør ikke brukes i fôrkjeden. Denne restriksjonen bør også gjelde tillatt import av animalske biprodukter til Fellesskapet, dersom de ikke overholder Fellesskapets regelverk ved kontroll på Fellesskapets grensekontrollstasjon, og produkter som ikke oppfyller gjeldende krav ved kontroller foretatt i Fellesskapet. Manglende overholdelse av europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler15 og europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om omsetning av og bruk av fôrvarer16 bør ikke føre til at produkter som framlegges for grensekontroll, utelukkes fra fôrkjeden.Etter at forordning [(EF) nr. 1774/2002](eu/32002r1774*) trådte i kraft, har den automatiske klassifiseringen av visse animalske biprodukter som kategori 2-materiale satt sterke begrensninger for deres bruksmuligheter, som ikke nødvendigvis står i forhold til den tilknyttede risikoen. Disse animalske biproduktene bør derfor omklassifiseres som kategori 3-materiale slik at de kan brukes fôr visse fôringsformål. Alle andre animalske biprodukter som ikke er oppført i noen av de tre kategoriene, bør fortsatt automatisk klassifiseres som kategori 2-materiale av forsiktighetshensyn, særlig for å styrke prinsippet om at slikt materiale generelt utelukkes fra fôrkjeden for andre produksjonsdyr enn pelsdyr.Annet regelverk som har trådt i kraft etter vedtakelsen av europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,17 nærmere bestemt europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,18 forordning [(EF) nr. 853/2004](eu/32004r0853*), og europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene,19 som utfylles av forordning [(EF) nr. 1774/2002](eu/32002r1774*), pålegger driftsansvarlige for fôr- og næringsmiddelforetak hovedansvaret for å overholde fellesskapsregler som har som formål å verne folkehelsen og dyrehelsen. I henhold til dette regelverket bør driftsansvarlige som driver virksomhet som omfattes av denne forordning, også ha hovedansvaret for å sikre at forordningen overholdes. Denne forpliktelsen bør gjøres tydeligere, og det bør angis nærmere hvordan sporbarhet sikres, for eksempel gjennom atskilt innsamling og transport av animalske biprodukter. Eksisterende systemer som på annen måte sikrer sporbarhet for produkter som utelukkende er i omløp på nasjonalt plan, bør fortsatt anvendes dersom de gir tilsvarende opplysninger. Alt bør gjøres for å fremme bruk av elektronisk dokumentasjon og annen dokumentasjon i annen form enn på papir, forutsatt at full sporbarhet er sikret.En ordning med egenkontroll er nødvendig for å sikre at kravene i denne forordning oppfylles i en virksomhet eller et anlegg. Ved offentlig kontroll bør vedkommende myndigheter ta hensyn til resultatene fra egenkontroller. Ved visse virksomheter eller anlegg bør egenkontroller foretas gjennom en ordning som bygger på prinsippene for fareanalyse og kritiske kontrollpunkter (HACCP). HACCP-prinsippene bør bygge på erfaringen med gjennomføringen av dem i henhold til Fellesskapets regelverk for næringsmiddel- og fôrvarehygiene. I denne forbindelse kan nasjonale retningslinjer for god praksis være nyttige for å lette den praktiske gjennomføringen av HACCP-prinsippene og av andre sider ved denne forordning.Animalske biprodukter bør brukes bare dersom risikoen for folkehelsen og dyrehelsen reduseres under bearbeidingen og omsetningen av avledede produkter som er framstilt på grunnlag av animalske biprodukter. Dersom dette ikke er mulig, bør de animalske biproduktene disponeres under sikre forhold. Tilgjengelige bruksmuligheter for animalske biprodukter i de ulike kategoriene bør angis tydelig i samsvar med annet fellesskapsregelverk. Generelt bør bruksmulighetene for animalske biprodukter i en kategori med høyere risiko også gjelde for animalske biprodukter i en kategori med lavere risiko, med mindre særlige hensyn må tas på grunn av risikoen som er knyttet til visse animalske biprodukter.Disponering av animalske biprodukter og avledede produkter bør skje i samsvar med miljølovgivning som gjelder deponering og avfallsforbrenning. For å sikre sammenheng skal avfallsforbrenning skje i samsvar med europaparlaments- og rådsdirektiv [2000/76/EF](eu/32000l0076*) av 4. desember 2000 om forbrenning av avfall.20 Samforbrenning av avfall – enten som gjenvinning eller disponering – omfattes av lignende vilkår for godkjenning og drift som avfallsforbrenning, særlig med hensyn til grenseverdier for utslipp til atmosfæren, utslipp av spillvann og restmengder, kontroll og overvåking samt krav til måling. Direkte samforbrenning, uten forutgående bearbeiding, av materialer i alle tre kategorier bør derfor tillates. I tillegg bør det innføres særlige bestemmelser om godkjenning av avfallsforbrenningsanlegg med lav og høy kapasitet.Bruk av animalske biprodukter eller avledede produkter som brensel i forbrenningsprosessen bør være tillatt, og bør ikke anses som disponering. En slik bruk bør imidlertid skje på vilkår som sikrer vern av folkehelsen og dyrehelsen samt oppfyllelse av de relevante miljøstandarder.Ved denne forordning bør det gis mulighet for å fastsette parametrer for bearbeidingsmetoder med hensyn til tid, temperatur og trykk for animalske biprodukter, særlig for metodene som nå kalles metode 2–7 i henhold til forordning [(EF) nr. 1774/2002](eu/32002r1774*).Skall fra skalldyr der bløtvev eller kjøtt er fjernet, bør ikke være omfattet av denne forordning. På grunn av varierende praksis i Fellesskapet med hensyn til fjerning av slikt bløtvev eller kjøtt fra skall, bør det være mulig å bruke skall dersom ikke alt bløtvev eller kjøtt er fjernet, forutsatt at slik bruk ikke innebærer noen risiko for folkehelsen og dyrehelsen. Nasjonale retningslinjer for god praksis vil kunne bidra til å spre kunnskap om egnede vilkår for slik bruk.Ettersom slike produkter innebærer en begrenset risiko for folkehelsen eller dyrehelsen, bør vedkommende myndighet kunne tillate bearbeiding og spredning på jord av biodynamiske preparater på grunnlag av kategori 2- og 3-materiale, som nevnt i rådsforordning [(EF) nr. 834/2007](eu/32007r0834) av 28. juni 2007 om økologisk produksjon og merking av økologiske produkter.21Ny teknologi under utvikling tilbyr gunstige metoder for energiproduksjon på grunnlag av animalske biprodukter eller for sikker disponering av slike produkter. Sikker disponering kan skje gjennom en kombinasjon av metoder for sikker inneslutting av animalske biprodukter på stedet og vedtatte metoder for disponering, gjennom en kombinasjon av godkjente prosessparametrer og nye standarder som er vurdert og anses som gunstige. For å ta hensyn til de vitenskapelige og teknologiske framskritt i denne forbindelse, bør slik teknologi godkjennes som alternativ metode for disponering eller bruk av animalske biprodukter i hele Fellesskapet. Dersom en enkeltperson har utviklet en teknologisk prosess, bør en søknad som er kontrollert av vedkommende myndighet undersøkes av EFSA før godkjenning gis, for å sikre at det foretas en vurdering av muligheten for å redusere risikoen under prosessen samt for å sikre ivaretakelse av enkeltpersoners rettigheter, herunder fortrolig behandling av forretningsopplysninger. For å gi søkerne råd bør det vedtas et standardformat for søknaden. Ettersom dette dokumentet bare skal være veiledende, bør det vedtas i samsvar med framgangsmåten med rådgivende komité i samarbeid med EFSA.Det er hensiktsmessig å presisere hvilke krav som gjelder for omsetning av animalske biprodukter og avledede produkter beregnet på bruk som fôr, og for omsetning av organisk gjødsel og jordforbedringsmidler, for å sikre vern av næringsmiddel- og fôrkjeden. Bare kategori 3-materiale bør brukes som fôr til andre produksjonsdyr enn pelsdyr. Gjødsel framstilt på grunnlag av animalske biprodukter kan påvirke tryggheten i næringsmiddel- og fôrkjeden. Når gjødsel er framstilt av kjøttbeinmel framstilt av kategori 2-materiale eller av bearbeidet animalsk protein, bør det tilsettes en bestanddel, for eksempel et uorganisk eller ufordøyelig stoff, for å hindre at det brukes direkte som fôr. En slik tilsetning bør ikke kreves dersom produktenes sammensetning eller emballasje, særlig for produkter som skal brukes av sluttforbruker, hindrer at produktet feilaktig brukes som fôr. Når bestanddelene fastsettes, bør det tas hensyn til ulike forhold knyttet til klimaet og jorden samt formålet med å bruke bestemte typer gjødsel.Ved europaparlaments- og rådsforordning [(EF) nr. 1523/2007](eu/32007r1523) av 11. desember 2007 om forbud mot markedsføring i og innførsel til og utførsel fra Fellesskapet av skinn fra hunder og katter samt produkter fra slike22 ble det fastsatt et generelt forbud mot markedsføring og innførsel og utførsel av skinn fra katter og hunder samt produkter fra slike. Dette forbudet bør imidlertid ikke påvirke forpliktelsen i henhold til denne forordning til å disponere animalske biprodukter fra katter og hunder, herunder skinn.For å fremme vitenskap, forskning og kunstnerisk virksomhet kan det være nødvendig å bruke animalske biprodukter eller avledede produkter av alle kategorier, og iblant i mindre mengder enn det som er i handel. For å gjøre det lettere å importere og bruke slike animalske biprodukter eller avledede produkter bør vedkommende myndighet kunne fastsette vilkårene for slike aktiviteter i hvert enkelt tilfelle. Det bør fastsettes harmoniserte vilkår for tilfeller der det kreves tiltak på fellesskapsplan.Forordning [(EF) nr. 1774/2002](eu/32002r1774*) inneholder nærmere bestemmelser som gjennom unntak tillater at dyr i zoologiske hager fôres med kategori 2- og 3-materiale. Lignende bestemmelser bør fastsettes i denne forordning, og fôring med visse typer kategori 1-materiale bør tillates og utfylles med muligheten for å fastsette nærmere bestemmelser om kontroll av all eventuell risiko som oppstår for folkehelsen eller dyrehelsen.I henhold til forordning [(EF) nr. 1774/2002](eu/32002r1774*) er det tillatt å fôre truede eller vernede arter av åtselfugler og andre arter som lever i sitt habitat, for å fremme biologisk mangfold. En slik fôringsrutine er et egnet redskap i bevaringen av slike arter, og bør fortsatt være tillatt i henhold til denne forordning, i samsvar med vilkår som fastsettes for å hindre spredning av sykdom. Samtidig bør det i gjennomføringstiltakene fastsettes helsevilkår som gjør det mulig å bruke slikt kategori 1-materiale som fôr i ordninger med ekstensivt beite, og som fôr til andre kjøttetende arter, for eksempel bjørner og ulver. Det er viktig at slike helsevilkår utformes idet det tas hensyn til de berørte artenes naturlige forbruksmønster og til Fellesskapets mål om å fremme biologisk mangfold, som nevnt i Kommisjonens melding av 22. mai 2006 med tittelen «Å stanse tapet av biologisk mangfold innen 2010 – og deretter».Nedgraving og avfallsforbrenning av animalske biprodukter, særlig av døde dyr, kan være berettiget i visse situasjoner, særlig i fjerntliggende områder eller ved sykdomsbekjempelse der det kreves rask disponering av dyr som er blitt avlivet for å bekjempe utbrudd av alvorlig smittsom sykdom. Særlig bør disponering på stedet være tillatt under særlige omstendigheter, ettersom den tilgjengelige destruksjons- eller avfallsforbrenningskapasiteten i en region eller en medlemsstat ellers vil kunne være en begrensende faktor ved bekjempelse av en sykdom.Det nåværende unntaket for nedgraving og avfallsforbrenning av animalske biprodukter bør utvides til områder som i praksis er utilgjengelige eller som utgjør en risiko for helsen og sikkerheten til personalet som foretar innsamling. Erfaringene fra anvendelsen av forordning [(EF) nr. 1774/2002](eu/32002r1774*) og fra naturkatastrofer som skogbranner og oversvømmelser i visse medlemsstater har vist at disponering i form av nedgraving og avfallsforbrenning på stedet kan være berettiget for å sikre rask disponering av dyr og for å hindre spredning av sykdomsrisiko. Den samlede størrelsen på områder med status som fjerntliggende i en medlemsstat bør på grunnlag av erfaringene fra anvendelsen av forordning [(EF) nr. 999/2001](eu/32001r0999) begrenses for å sikre oppfyllelse av den allmenne forpliktelsen til å ha et egnet disponeringssystem som er i samsvar med bestemmelsene i denne forordning.Visse virksomheter eller anlegg som håndterer bare små mengder av animalske biprodukter som ikke utgjør en risiko for folkehelsen eller dyrehelsen, bør under offentlig tilsyn være tillatt for å disponere slike biprodukter på andre måter enn ved disponering i henhold til denne forordning. Kriteriene for slike ekstraordinære omstendigheter bør imidlertid fastsettes på fellesskapsplan for å sikre at de anvendes på en ensartet måte ut fra den faktiske situasjonen i visse sektorer samt tilgangen til andre disponeringssystemer i visse medlemsstater.Hvilke tiltak som kan treffes av vedkommende myndighet bør fastsettes av hensyn til rettssikkerheten, særlig i forbindelse med midlertidig innstilling av eller permanent driftsforbud eller innføring av vilkår for å sikre at denne forordning anvendes på riktig måte. Disse offentlige kontrollene bør gjennomføres innenfor rammen av flerårige kontrollplaner i henhold til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.23For å sikre at medlemsstatene kan kontrollere mengden av materiale som innføres til deres territorium for å bli disponert, bør vedkommende myndigheter tillate mottakelse av slikt materiale på sitt territorium.Trykksterilisering og utfyllende vilkår for transport kan innføres for å sikre risikokontroll. For å sikre sporbarhet og samarbeid mellom vedkommende myndigheter i medlemsstatene som kontrollerer sending av animalske biprodukter eller avledede produkter, bør TRACES-systemet, som ble innført ved kommisjonsvedtak [2004/292/EF](eu/32004d0292),24 anvendes for å innhente opplysninger om sending av kategori 1- og 2-materiale og kjøttbeinmel eller animalsk fett framstilt av kategori 1- og 2-materiale, og animalsk protein framstilt av kategori 3-materiale. For materiale som vanligvis sendes i små mengder for å brukes i forbindelse med forskning, utdanning, kunst eller diagnostikk, bør det fastsettes særlige vilkår for å gjøre forflytning av slikt materiale innenfor Fellesskapet lettere. Bilaterale avtaler som gjør det lettere å kontrollere materiale som flyttes mellom medlemsstater som har felles grense, bør være tillatt under særlige omstendigheter.For å gjøre det lettere å transportere forsendelser gjennom tredjestater som grenser til flere enn én medlemsstat, bør det innføres en særlig ordning for sending av forsendelser fra en medlemsstats territorium til en annen gjennom en tredjestats territorium, for å sikre særlig at forsendelser som kommer tilbake til Fellesskapets territorium, gjennomgår veterinærkontroll i samsvar med rådsdirektiv [89/662/EØF](eu/31989l0662*) av 11. desember 1989 om veterinærkontroll ved handel innenfor Fellesskapet med sikte på gjennomføring av det indre marked.25For å sikre sammenheng i Fellesskapets regelverk er det nødvendig å redegjøre for forholdet mellom bestemmelsene i denne forordning og i Fellesskapets regelverk om avfall. Det bør særlig sikres sammenheng med forbudene mot eksport av avfall som er fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1013/2006](eu/32006r1013*) av 14. juni 2006 om transport av avfall.26 For å hindre mulige skadevirkninger for miljøet, bør det være forbudt å eksportere animalske biprodukter og avledede produkter med sikte på disponering ved avfallsforbrenning og på en fyllplass. Eksport av animalske biprodukter og avledede produkter for bruk i et biogass- eller komposteringsanlegg i en tredjestat bør også hindres dersom tredjestaten ikke er medlem av Organisasjonen for økonomisk samarbeid og utvikling (OECD), for å hindre mulige negative miljøvirkninger og risiko for folkehelsen og dyrehelsen. Ved anvendelse av bestemmelsene om unntak fra eksportforbudet er Kommisjonen forpliktet til fullt ut å overholde Basel-konvensjonen om kontroll av grensekryssende transport av og disponering av farlig avfall, som ble inngått på vegne av Fellesskapet ved rådsbeslutning [93/98/EØF](eu/31993d0098*),27 og endringen av denne konvensjonen som fastsatt i partskonferansens vedtak III/1, som ble godkjent på vegne av Fellesskapet ved rådsbeslutning [97/640/EF](eu/31997d0640)28 og gjennomført ved forordning [(EF) nr. 1013/2006](eu/32006r1013*).Videre bør det sikres at animalske biprodukter som er blandet eller forurenset med farlig avfall som er oppført i kommisjonsvedtak [2000/532/EF](eu/32000d0532) av 3. mai 2000 om erstatning av vedtak [94/3/EF](eu/31994d0003) om utarbeiding av en liste over avfall i henhold til artikkel 1 bokstav a) i rådsdirektiv [75/442/EØF](eu/31975l0442) om avfall og rådsvedtak [94/904/EF](eu/31994d0904) om utarbeiding av en liste over farlig avfall i henhold til artikkel 1 nr. 4 i rådsdirektiv [91/689/EØF](eu/31991l0689*) om farlig avfall,29 utelukkende importeres, eksporteres eller sendes mellom medlemsstatene i samsvar med forordning [(EF) nr. 1013/2006](eu/32006r1013*). Det er også nødvendig å fastsette bestemmelser om sending av slikt materiale innenfor en medlemsstat.Kommisjonen bør kunne gjennomføre kontroller i medlemsstatene. Fellesskapskontroller i tredjestater bør gjennomføres i samsvar med forordning [(EF) nr. 882/2004](eu/32004r0882*).Import av animalske biprodukter og avledede produkter til Fellesskapet og transitt av slikt materiale bør skje i samsvar med bestemmelser som er minst like strenge som dem som anvendes i Fellesskapet. Alternativt kan bestemmelsene om animalske biprodukter og avledede produkter som gjelder i tredjestater, anerkjennes som likeverdige med bestemmelsene som er fastsatt i Fellesskapets regelverk. På grunn av den mulige risikoen som er knyttet til produkter beregnet på bruk utenfor fôrkjeden, bør det anvendes et begrenset sett med importbestemmelser for produkter som er beregnet på bruk utenfor fôrkjeden.Fellesskapets regler for framstilling av avledede produkter beregnet på bruk i kosmetiske produkter, legemidler eller medisinsk utstyr utgjør et omfattende regelverk for omsetning av slike produkter: Rådsdirektiv [76/768/EØF](eu/31976l0768*) av 27. juli 1976 om tilnærming av medlemsstatenes lovgivning om kosmetiske produkter,30 europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler,31 europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater,32 rådsdirektiv [90/385/EØF](eu/31990l0385*) av 20. juni 1990 om tilnærming av medlemsstatenes lovgivning om aktive implanterbare medisinske innretninger,33 rådsdirektiv [93/42/EØF](eu/31993l0042) av 14. juni 1993 om medisinsk utstyr,34 og europaparlaments- og rådsdirektiv [98/79/EF](eu/31998l0079*) av 27. oktober 1998 om medisinsk utstyr til in vitro-diagnostikk35 (særdirektivene). Særdirektivene om kosmetiske produkter og medisinsk utstyr inneholder imidlertid ingen bestemmelser om vern mot risiko for dyrehelsen. I slike tilfeller bør denne forordning få anvendelse på slik risiko, og det bør kunne treffes vernetiltak i samsvar med forordning [(EF) nr. 178/2002](eu/32002r0178).Animalske biprodukter eller avledede produkter som leveres som materiale eller ingredienser til framstilling av slike avledede produkter, bør også være omfattet av kravene i særdirektivene i det omfang de inneholder bestemmelser om kontroll av risiko for folkehelsen og dyrehelsen. Nevnte særdirektiver inneholder allerede bestemmelser om utgangsmateriale av animalsk opprinnelse som kan brukes til framstilling av de nevnte avledede produktene, og fastsetter visse vilkår for å sikre vern av folkehelsen og dyrehelsen. I henhold til direktiv [76/768/EØF](eu/31976l0768*) skal kategori 1- og 2-materiale ikke brukes som bestanddel i kosmetiske produkter, og produsentene forpliktes til å anvende god framstillingspraksis. Ved kommisjonsdirektiv [2003/32/EF](eu/32003l0032*)36 innføres nærmere spesifikasjoner med hensyn til medisinsk utstyr som er framstilt av vev av animalsk opprinnelse.Dersom disse vilkårene ennå ikke er fastsatt i særdirektivene eller dersom de ikke omfatter visse typer risiko for folkehelsen og dyrehelsen, bør imidlertid denne forordning få anvendelse, og det bør kunne treffes vernetiltak i samsvar med forordning [(EF) nr. 178/2002](eu/32002r0178).Visse avledede produkter kommer ikke inn i fôrkjeden eller spres ikke på jord som er dekket med gress eller andre fôrvekster som beites av eller brukes som fôrvarer til produksjonsdyr. Slike avledede produkter omfatter produkter til teknisk bruk, for eksempel behandlede huder til lærproduksjon, bearbeidet ull til tekstilindustrien, beinprodukter til lim og bearbeidet materiale til bruk i fôr til kjæledyr. Driftsansvarlige bør få omsette slike produkter, forutsatt at de enten er framstilt av råstoff som ikke krever behandling, eller at behandlingen eller sluttbruken av det behandlede materialet sikrer tilfredsstillende risikokontroll.I en rekke medlemsstater er det påvist manglende overholdelse av bestemmelsene i forordning [(EF) nr. 1774/2002](eu/32002r1774*). I tillegg til streng håndheving av disse bestemmelsene er det derfor også behov for strafferettslige og andre sanksjoner overfor driftsansvarlige som ikke overholder disse bestemmelsene. Det er derfor nødvendig at medlemsstatene fastsetter regler for sanksjoner ved overtredelse av bestemmelsene i denne forordning.Ettersom målet for denne forordning, som er å fastsette hygieneregler og dyrehelseregler for animalske biprodukter og avledede produkter for å hindre og redusere risiko for folkehelsen og dyrehelsen som følge av disse produktene, og særlig for å sikre tryggheten i næringsmiddel- og fôrkjeden, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå dette målet.For å styrke rettssikkerheten og i lys av Kommisjonens allmenne mål om å forenkle Fellesskapets regelverk, bør et sammenhengende regelverk fastsettes i denne forordning, idet det tas hensyn til bestemmelsene i forordning [(EF) nr. 1774/2002](eu/32002r1774*) samt de erfaringer og framskritt som er gjort siden nevnte forordning trådte i kraft. Forordning [(EF) nr. 1774/2002](eu/32002r1774*) bør derfor oppheves og erstattes av denne forordning.Tiltakene som er nødvendige for å gjennomføre denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.37For å sikre sammenheng og klarhet i Fellesskapets regelverk bør de tekniske bestemmelsene om særskilte aktiviteter som gjelder animalske biprodukter, som nå er fastsatt i vedleggene til forordning [(EF) nr. 1774/2002](eu/32002r1774*) og i gjennomføringstiltak som er vedtatt av Kommisjonen på grunnlag av nevnte forordning,38 fastsettes i særskilte gjennomføringsrettsakter. Det bør gjennomføres samråd med og opplysningsarbeid overfor forbrukere og sosioøkonomiske kretser som berøres av spørsmål knyttet til denne forordning, i samsvar med kommisjonsbeslutning [2004/613/EF](eu/32004d0613) av 6. august 2004 om opprettelse av en rådgivende gruppe for næringsmiddelkjeden, dyrehelse og plantehelse.39Kommisjonen bør særlig tildeles myndighet til å vedta bestemmelser som endrer sluttpunktet i produksjonskjeden for visse avledede produkter og fastsetter et slikt sluttpunkt for visse andre avledede produkter, bestemmelser om alvorlige smittsomme sykdommer som innebærer at animalske biprodukter og avledede produkter ikke bør få sendes dersom disse sykdommene forekommer, og/eller vilkår for sending av slike produkter, tiltak som endrer klassifiseringen av animalske biprodukter og avledede produkter, tiltak for å begrense bruk og disponering av avledede produkter, tiltak som fastsetter vilkår for anvendelsen av visse unntak med hensyn til bruk, innsamling og disponering av animalske biprodukter og avledede produkter samt tiltak for godkjenning eller avvisning av en bestemt alternativ metode for bruk og disponering av animalske biprodukter og avledede produkter.I tillegg bør Kommisjonen tildeles myndighet til å vedta nærmere bestemmelser om innsamling og transport av animalske biprodukter og avledede produkter, krav til infrastruktur, utstyr og hygiene for virksomheter eller anlegg som håndterer animalske biprodukter og avledede produkter, vilkår for og tekniske krav til håndtering av animalske biprodukter og avledede produkter, herunder hvilken dokumentasjon som skal framlegges med sikte på validering av slik behandling, vilkår for omsetning av animalske biprodukter og avledede produkter, krav knyttet til sikker sporing, sikker behandling og sikker sluttbruk, vilkår for import, transitt og eksport av animalske biprodukter og avledede produkter, nærmere bestemmelser om hvordan offentlige kontroller skal gjennomføres, herunder bestemmelser om referansemetodene for mikrobiologiske analyser samt vilkår for kontroll av sending av visse animalske biprodukter og avledede produkter mellom medlemsstatene. Ettersom disse tiltakene er allmenne og har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, blant annet ved å utfylle den med nye ikke-grunnleggende bestemmelser, må de vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 5a i beslutning [1999/468/EF](eu/31999d0468).Av effektivitetshensyn bør de fristene som vanligvis gjelder for framgangsmåten med forskriftskomité med kontroll, forkortes i forbindelse med vedtakelsen av tiltak for fastsettelse av vilkår for sending av animalske biprodukter fra driftsenheter, anlegg eller områder som er omfattet av restriksjoner. I hastetilfeller er det nødvendig å anvende framgangsmåten for hastebehandling i artikkel 5a nr. 6 i beslutning [1999/468/EF](eu/31999d0468) for å vedta tiltak som endrer sluttpunktet i produksjonskjeden for visse produkter,
+ut fra følgende betraktninger:
+
+1. Animalske biprodukter som ikke er beregnet på konsum, kan innebære en risiko for folkehelsen og dyrehelsen. Tidligere kriser knyttet til utbrudd av munn- og klovsyke, spredning av overførbar spongiform encefalopati, for eksempel bovin spongiform encefalopati (BSE), og forekomst av dioksiner i fôrvarer, har vist hvilke følger feil bruk av visse animalske biprodukter har for folkehelsen og dyrehelsen, tryggheten i næringsmiddel- og fôrkjeden og forbrukernes tillit. Slike kriser kan dessuten også ha en mer omfattende negativ innvirkning på samfunnet som helhet som følge av deres innvirkning på den sosioøkonomiske situasjonen for gårdbrukerne og den berørte næringssektoren og på forbrukernes tillit til at produkter av animalsk opprinnelse er trygge. Sykdomsutbrudd kan også ha negative følger for miljøet, ikke bare på grunn av problemer med disponering, men også når det gjelder biologisk mangfold.
+2. Animalske biprodukter oppstår hovedsakelig under slakting av dyr beregnet på konsum, under framstilling av produkter av animalsk opprinnelse, for eksempel melkeprodukter, og i forbindelse med disponering av døde dyr og ved tiltak i forbindelse med sykdomsbekjempelse. Uansett hva kilden er, innebærer de en mulig risiko for folkehelsen, dyrehelsen og miljøet. Denne risikoen må kontrolleres på hensiktsmessig måte, enten ved at de berørte produktene disponeres på en sikrere måte, eller ved at de brukes for ulike formål, forutsatt at det skjer på strenge vilkår slik at helserisikoen reduseres mest mulig.
+3. Disponering av alle animalske biprodukter er ikke et realistisk alternativ, ettersom det ville innebære uholdbare kostnader og miljørisikoer. Omvendt er det i alle borgernes interesse at et mangfold av animalske biprodukter brukes på en trygg og holdbar måte for ulike formål, forutsatt at helserisikoene reduseres mest mulig. En rekke animalske biprodukter brukes allment i viktige produksjonssektorer, for eksempel legemiddel-, fôrvare- og lærvareindustrien.
+4. Ny teknologi har utvidet mulighetene for å bruke animalske biprodukter eller avledede produkter til en rekke produksjonssektorer, særlig for energiproduksjon. Anvendelse av ny teknologi kan imidlertid innebære helserisiko som også må reduseres mest mulig.
+5. Fellesskapets hygieneregler for innsamling, transport, håndtering, behandling, omforming, bearbeiding, lagring, omsetning, distribusjon, bruk eller disponering av animalske biprodukter bør fastsettes i et sammenhengende og fullstendig regelverk.
+6. Disse allmenne reglene bør stå i forhold til den risikoen for folkehelsen og dyrehelsen som animalske biprodukter innebærer når de håndteres av driftsansvarlige i ulike ledd av kjeden fra innsamling til bruk eller disponering. I reglene bør det også tas hensyn til den miljørisikoen som disse aktivitetene innebærer. Fellesskapets regelverk bør ved behov omfatte egnede hygieneregler for omsetning, herunder ved handel innenfor Fellesskapet med og import av animalske biprodukter.
+7. I forordning [(EF) nr. 1774/2002](eu/32002r1774*)3 fastsatte Europaparlamentet og Rådet Fellesskapets hygieneregler for animalske biprodukter som ikke er beregnet på konsum. Nevnte forordning ble utarbeidet på grunnlag av vitenskapelige råd og som et tiltak i henhold til Kommisjonens hvitbok av 12. januar 2000 om næringsmiddeltrygghet, og innførte et sett av regler som har som formål å sikre tryggheten i næringsmiddel- og fôrkjeden, og som utfyller Fellesskapets regler for næringsmidler og fôrvarer. Disse reglene har vesentlig forbedret vernet i Fellesskapet mot risikoen knyttet til animalske biprodukter.
+8. Ved forordning [(EF) nr. 1774/2002](eu/32002r1774*) ble det innført en klassifisering av animalske biprodukter i tre kategorier avhengig av graden av risiko. I henhold til forordningen skal driftsansvarlige holde animalske biprodukter av ulike kategorier atskilt fra hverandre dersom de ønsker å bruke animalske biprodukter som ikke innebærer en betydelig risiko for folkehelsen eller dyrehelsen, særlig dersom disse produktene er framstilt av materiale som er egnet til konsum. Nevnte forordning innførte også prinsippet om at produksjonsdyr ikke skal fôres med høyrisikostoffer, og at dyr ikke skal fôres med materiale fra dyr av samme art. I henhold til nevnte forordning skal bare materiale fra dyr som har gjennomgått veterinærkontroll, inngå i fôrkjeden. I tillegg fastsetter forordningen bestemmelser om bearbeidingskrav som sikrer risikoreduksjon.
+9. I henhold til artikkel 35 nr. 2 i forordning [(EF) nr. 1774/2002](eu/32002r1774*) skal Kommisjonen framlegge en rapport for Europaparlamentet og Rådet om de tiltak medlemsstatene har truffet for å etterkomme forordningen. Rapporten skal eventuelt følges av forslag til regelverksendringer. Rapporten ble framlagt 21. oktober 2005, og det ble understreket at prinsippene i forordning [(EF) nr. 1774/2002](eu/32002r1774*) fortsatt bør følges. Det ble dessuten pekt på områder der det ble ansett nødvendig å endre nevnte forordning, særlig presisering med hensyn til anvendelsen av reglene på ferdige produkter, forholdet til annet fellesskapsregelverk og klassifiseringen av visse materialer. Resultatene av en rekke inspeksjoner som Kommisjonens næringsmiddel- og veterinærkontor gjennomførte i medlemsstatene i 2004 og 2005, støtter disse konklusjonene. Ifølge Næringsmiddel- og veterinærkontoret er det nødvendig å gjøre det lettere å spore flyten av animalske biprodukter, og de offentlige kontrollene bør effektiviseres og harmoniseres.
+10. Styringskomiteen for vitenskapelige spørsmål, som ble erstattet med Den europeiske myndighet for næringsmiddeltrygghet (EFSA) i 2002, har avgitt en rekke uttalelser om animalske biprodukter. Disse uttalelsene viser at det er behov for å beholde hovedprinsippene i forordning [(EF) nr. 1774/2002](eu/32002r1774*), særlig prinsippet om at animalske biprodukter fra dyr som ved hygienekontroll har vist seg ikke å være egnet til konsum, ikke bør inngå i fôrkjeden. Disse animalske biproduktene kan imidlertid på nærmere angitte hygienevilkår gjenvinnes og brukes til framstilling av tekniske eller industrielle produkter.
+11. I konklusjonene fra formannskapet i Rådet om Kommisjonens rapport av 21. oktober 2005, som ble vedtatt i desember 2005, og ved Kommisjonens påfølgende samråd, ble det framhevet at bestemmelsene i forordning [(EF) nr. 1774/2002](eu/32002r1774*) bør forbedres. Hovedmålene for bestemmelsene om animalske biprodukter, som er å kontrollere risikoen for folkehelsen og dyrehelsen og å sikre trygghet i næringsmiddel- og fôrkjeden, bør fastsettes på en tydelig måte. Bestemmelsene i denne forordning bør gjøre det mulig å nå disse målene.
+12. Bestemmelsene om animalske biprodukter som fastsettes i denne forordning, bør få anvendelse på produkter som ikke kan brukes til konsum i henhold til Fellesskapets regelverk, særlig når de ikke overholder reglene for næringsmiddelhygiene eller når de ikke kan bringes i omsetning som næringsmiddel ettersom de er utrygge, enten fordi de er helseskadelige eller fordi de er uegnet til konsum (animalske biprodukter i henhold til lovgivningen). Disse bestemmelsene bør også få anvendelse på produkter av animalsk opprinnelse som ikke overholder visse bestemmelser med hensyn til eventuelt konsum, eller som er råstoffer til framstilling av produkter for konsum, selv om de til slutt skal brukes for andre formål (animalske biprodukter «ved valg»).
+13. For å hindre risiko knyttet til ville dyr, bør også kropper eller deler av kroppene til slike dyr, som mistenkes for å være infisert med en smittsom sykdom, være omfattet av bestemmelsene i denne forordning. Dette bør imidlertid ikke innebære en forpliktelse til å samle inn og disponere kroppene til ville dyr som har dødd eller er avlivet i sitt habitat. Dersom god jaktpraksis følges, kan tarmer og andre kroppsdeler fra viltlevende vilt disponeres på en sikker måte på stedet. Medlemsstatene har godt innarbeidede rutiner for risikoreduksjon, som i noen tilfeller bygger på kulturtradisjoner eller nasjonal lovgivning som regulerer jegeres virksomhet I Fellesskapets regelverk, særlig europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,4 er det fastsatt bestemmelser om behandling av kjøtt og animalske biprodukter fra viltlevende vilt. Disse bestemmelsene legger også ansvaret for å hindre risiko på personer som har fått opplæring, for eksempel jegere. På grunn av den mulige risikoen for næringsmiddelkjeden, bør animalske biprodukter fra felt viltlevende vilt være omfattet av denne forordning bare i det omfang hygieneregler for næringsmidler får anvendelse på omsetning av slikt vilt og berører aktiviteter som utføres i viltbehandlingsanlegg. I tillegg bør animalske biprodukter som brukes til preparering av jakttrofeer, være omfattet av denne forordning for å hindre at det oppstår risiko for dyrehelsen som følge av slike biprodukter.
+14. Bestemmelsene i denne forordning bør få anvendelse på animalske biprodukter framstilt av vanndyr, unntatt materiale fra fartøyer som omfattes av Fellesskapets regelverk for næringsmiddelhygiene. Det bør imidlertid vedtas tiltak som står i forhold til risikoen knyttet til håndtering og disponering av materiale som oppstår ved rensing om bord på fiskefartøyer av fisk som viser tegn på sykdom. Slike gjennomføringstiltak for forordningen bør vedtas på grunnlag av en risikovurdering foretatt av en egnet vitenskapelig institusjon i lys av tilgjengelig dokumentasjon av hvor effektive visse tiltak er for å bekjempe spredning av sykdommer som kan overføres til mennesker, særlig av visse parasitter.
+15. På grunn av den begrensede risikoen som er knyttet til materialer som brukes som rått fôr til kjæledyr ved en driftsenhet eller leveres til sluttbrukerne av næringsmiddelforetak, bør visse virksomheter knyttet til slikt rått fôr til kjæledyr ikke være omfattet av bestemmelsene i denne forordning.
+16. Det bør i denne forordning fastsettes hvilke dyr som skal klassifiseres som kjæledyr, slik at biprodukter fra slike dyr ikke brukes i fôr til produksjonsdyr. Særlig bør dyr som brukes for andre formål enn produksjon, for eksempel for selskapets skyld, klassifiseres som kjæledyr.
+17. Av hensyn til sammenhengen i Fellesskapets regelverk bør visse definisjoner fastsatt i europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å hindre, bekjempe og utrydde visse typer overførbar spongiform encefalopati5 og i europaparlaments- og rådsdirektiv [2008/98/EF](eu/32008l0098) av 19. november 2008 om avfall6 anvendes i denne forordning. Henvisningen til rådsdirektiv [86/609/EØF](eu/31986l0609*) av 24. november 1986 om tilnærming av medlemsstatenes lover og forskrifter om vern av forsøksdyr og dyr til andre vitenskapelige formål7 bør gjøres tydeligere.
+18. Av hensyn til sammenhengen i Fellesskapets regelverk bør definisjonen av «vanndyr» som er fastsatt i rådsdirektiv [2006/88/EF](eu/32006l0088*) av 24. oktober 2006 om dyrehelsekrav til akvakulturdyr og produkter av disse, og om forebygging og bekjempelse av visse sykdommer hos vanndyr,8 anvendes i denne forordning. Samtidig bør virvelløse dyr som lever i vann, som ikke omfattes av nevnte definisjon og som ikke innebærer noen risiko for sykdomsoverføring, være omfattet av samme krav som vanndyr.
+19. I rådsdirektiv [1999/31/EF](eu/31999l0031) av 26. april 1999 om deponering av avfall9 fastsettes vilkårene for utstedelse av tillatelse til drift av fyllplasser. I denne forordning bør det fastsettes at animalske biprodukter skal disponeres på fyllplasser som det er utstedt en slik tillatelse for.
+20. Hovedansvaret for å utføre aktiviteter i henhold til denne forordning bør ligge hos de driftsansvarlige. Samtidig er det i allmennhetens interesse at risiko for folkehelsen og dyrehelsen hindres, noe som forutsetter at det finnes et system for innsamling og disponering som sikrer en sikker bruk eller sikker disponering av animalske biprodukter som ikke kan brukes, eller som ikke brukes av økonomiske grunner. Innsamlings- og disponeringssystemets omfang bør stå i forhold til den faktiske mengden av animalske biprodukter som oppstår i den enkelte medlemsstat. I samsvar med føre-var-prinsippet bør det også tas hensyn til behovet for utvidet disponeringskapasitet i tilfelle av større utbrudd av smittsomme sykdommer eller av midlertidig teknisk feil ved et eksisterende disponeringsanlegg. Medlemsstatene bør kunne samarbeide med hverandre og med tredjestater, forutsatt at bestemmelsene i denne forordning følges.
+21. Det er viktig å fastsette et startpunkt i animalske biprodukters livssyklus som kravene i denne forordning får anvendelse fra. Når et produkt er blitt et animalsk biprodukt, bør det ikke komme inn i næringsmiddelkjeden igjen. Særlige vilkår gjelder for håndtering av visse råstoffer, for eksempel huder, som håndteres i virksomheter eller anlegg som samtidig inngår i både næringsmiddelkjeden og kjeden med animalske biprodukter. I slike tilfeller bør de nødvendige tiltak treffes ved hjelp av atskillelse for å redusere den mulige risikoen for næringsmiddelkjeden som kan oppstå på grunn av krysskontaminering. For andre virksomheter bør det fastsettes risikobaserte vilkår for å unngå krysskontaminering, særlig ved å skille kjeden med animalske biprodukter fra næringsmiddelkjeden.
+22. Av hensyn til rettssikkerheten og en egnet overvåking av mulig risiko, bør det fastsettes et sluttpunkt i produksjonskjeden for produkter som ikke lenger har direkte betydning for tryggheten i fôrkjeden. For visse produkter som er omfattet av annet fellesskapsregelverk, bør et sluttpunkt fastsettes på produksjonsstadiet. Produkter som har nådd dette sluttpunktet, bør fritas fra kontroll i henhold til denne forordning. Særlig bør produkter etter sluttpunktet kunne bringes i omsetning uten restriksjoner i henhold til denne forordning og kunne håndteres og transporteres av driftsansvarlige som ikke er blitt godkjent eller registrert i henhold til denne forordning.
+23. Det bør imidlertid være mulig å endre dette sluttpunktet, særlig dersom ny risiko oppstår. Ved forordning [(EF) nr. 1774/2002](eu/32002r1774*) ble visse produkter unntatt fra forordningens krav, blant annet guano, visse huder som har vært behandlet på en bestemt måte, for eksempel med garving, og visse jakttrofeer. I gjennomføringstiltakene som skal vedtas i henhold til denne forordning for produkter som for eksempel produkter av bearbeidet fett og sluttprodukter fra produksjonen av biodiesel, bør det fastsettes lignende unntak på egnede vilkår.
+24. For å sikre et høyt nivå for vern av folkehelsen og dyrehelsen bør medlemsstatene fortsette å treffe de nødvendige tiltak for å hindre at animalske biprodukter sendes fra områder eller anlegg som er omfattet av restriksjoner, særlig ved utbrudd av en sykdom oppført i rådsdirektiv [92/119/EØF](eu/31992l0119*) av 17. desember 1992 om generelle fellesskapstiltak for bekjempelse av visse dyresykdommer og særtiltak med hensyn til smittsomt blæreutslett hos gris.10
+25. Aktiviteter som berører animalske biprodukter og innebærer en betydelig risiko for folkehelsen og dyrehelsen, bør bare utføres i virksomheter eller anlegg som på forhånd er godkjent for slike aktiviteter av vedkommende myndighet. Dette vilkåret bør særlig gjelde for foredlingsvirksomheter eller -anlegg og andre virksomheter eller anlegg som håndterer eller lagrer animalske biprodukter som har direkte betydning for tryggheten i fôrkjeden. Det bør være tillatt å håndtere animalske biprodukter av flere enn én kategori ved samme virksomhet eller anlegg, forutsatt at krysskontaminering unngås. Det bør videre være tillatt å endre disse vilkårene dersom mengden av materialet som skal disponeres og bearbeides, øker på grunn av et større sykdomsutbrudd, forutsatt at det sikres at midlertidig bruk på slike endrede vilkår ikke fører til spredning av sykdomsrisiko.
+26. Slike godkjenninger bør imidlertid ikke være nødvendig for virksomheter eller anlegg som bearbeider eller håndterer visse sikre materialer, for eksempel produkter som er så bearbeidet at de ikke lenger innebærer en risiko for folkehelsen og dyrehelsen. Slike virksomheter eller anlegg bør registreres slik at det kan foretas offentlig kontroll av materialflyten og at sporbarheten sikres. Kravet om registrering bør gjelde også for driftsansvarlige som transporterer animalske biprodukter eller avledede produkter, med mindre de ikke lenger er gjenstand for kontroll ettersom det er fastsatt et sluttpunkt i kjeden.
+27. Virksomheter eller anlegg bør godkjennes på grunnlag av opplysninger som er framlagt for vedkommende myndighet, og etter et besøk på stedet som viser at kravene i denne forordning til virksomhetens eller anleggets infrastruktur og utstyr vil bli oppfylt, slik at eventuell risiko for folkehelsen eller dyrehelsen som oppstår i denne prosessen, kan kontrolleres på egnet måte. Det bør være mulig å gi godkjenningen på visse vilkår slik at de driftsansvarlige kan bøte på eventuelle mangler før virksomheten eller anlegget får full godkjenning.
+28. Det bør ikke kreves at virksomheter eller anlegg som utfører aktiviteter som allerede er godkjent i henhold til Fellesskapets regelverk for næringsmiddelhygiene, skal godkjennes eller registreres i henhold til denne forordning, ettersom godkjenninger eller registreringer i henhold til dette fellesskapsregelverket allerede tar hensyn til målene i denne forordning. Virksomheter eller anlegg som har blitt godkjent eller registrert i henhold til hygieneregelverk, bør imidlertid være forpliktet til å oppfylle kravene i denne forordning og være gjenstand for offentlige kontroller som gjennomføres for å fastslå at kravene i denne forordning er oppfylt.
+29. Animalske biprodukter og avledede produkter bør på grunnlag av risikovurderinger klassifiseres i tre kategorier ut fra hvilken grad av risiko de innebærer for folkehelsen og dyrehelsen. Animalske biprodukter og avledede produkter som innebærer høy risiko, bør bare brukes for formål utenfor fôrkjeden, men bruk av produkter som innebærer en lavere risiko, bør tillates under sikre forhold.
+30. Vitenskapelige og teknologiske framskritt kan føre til utvikling av prosesser som fjerner eller reduserer risikoen for folkehelsen og dyrehelsen. Listene over animalske biprodukter i denne forordning bør kunne endres for å ta hensyn til slike framskritt. Før eventuelle endringer gjøres, og i samsvar med de allmenne prinsippene i Fellesskapets regelverk som har som mål å sikre et høyt nivå for vern av folkehelsen og dyrehelsen, bør en risikovurdering foretas av en egnet vitenskapelig institusjon, for eksempel EFSA, Det europeiske legemiddelkontor eller Vitenskapskomiteen for forbruksvarer, avhengig av hvilken type animalsk biprodukt som skal vurderes. Det bør imidlertid være klart at når animalske biprodukter av ulike kategorier er blitt blandet, bør blandingen håndteres i samsvar med de standarder som er fastsatt for den delen av blandingen som tilhører kategorien med høyest risiko.
+31. På grunn av den høye risikoen for folkehelsen, bør animalske biprodukter som innebærer en risiko for overførbar spongiform encefalopati (TSE), særlig ikke brukes som fôr. Denne restriksjonen skal også gjelde for ville dyr som kan spre smittsom sykdom. Restriksjonen med hensyn til fôring med animalske biprodukter som innebærer TSE-risiko, bør ikke berøre anvendelsen av bestemmelsene om fôring i forordning [(EF) nr. 999/2001](eu/32001r0999).
+32. Animalske biprodukter fra forsøksdyr som definert i direktiv [86/609/EØF](eu/31986l0609*), bør også utelukkes fra bruk i fôr på grunn av den mulige risikoen som slike animalske biprodukter innebærer. Medlemsstatene kan imidlertid tillate bruk av animalske biprodukter fra dyr som har vært anvendt i forsøk for å prøve nye tilsetningsstoffer i fôrvarer, i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer.11
+33. Bruk av visse stoffer og produkter er ulovlig i henhold til rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en fremgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse12 og rådsdirektiv [96/22/EF](eu/31996l0022) av 29. april 1996 om forbud mot bruk av visse stoffer med hormonell eller tyreostatisk virkning samt beta-agonister innenfor husdyrhold.13 I tillegg fastsettes i rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter14 ytterligere bestemmelser om kontroll av visse stoffer og deres restmengder i levende dyr og animalske produkter. I direktiv [96/23/EF](eu/31996l0023) fastsettes også bestemmelser som får anvendelse når det er påvist en forekomst av restmengder av godkjente stoffer eller forurensende stoffer som overstiger visse tillatte nivåer. For å sikre sammenheng i Fellesskapets regelverk bør produkter av animalsk opprinnelse der det påvises stoffer som er i strid med forordning [(EØF) nr. 2377/90](eu/31990r2377) og direktiv [96/22/EF](eu/31996l0022) og [96/23/EF](eu/31996l0023), klassifiseres som kategori 1- eller 2-materiale, alt etter hvilken risiko de innebærer for næringsmiddel- og fôrkjeden.
+34. Det bør ikke være nødvendig å disponere husdyrgjødsel og mage- og tarminnhold, forutsatt at egnet behandling sikrer at sykdom ikke overføres ved spredning på jord. Animalske biprodukter fra dyr som har dødd i driftsenheten og dyr som er avlivet for å utrydde sykdommer, bør ikke brukes i fôrkjeden. Denne restriksjonen bør også gjelde tillatt import av animalske biprodukter til Fellesskapet, dersom de ikke overholder Fellesskapets regelverk ved kontroll på Fellesskapets grensekontrollstasjon, og produkter som ikke oppfyller gjeldende krav ved kontroller foretatt i Fellesskapet. Manglende overholdelse av europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler15 og europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om omsetning av og bruk av fôrvarer16 bør ikke føre til at produkter som framlegges for grensekontroll, utelukkes fra fôrkjeden.
+35. Etter at forordning [(EF) nr. 1774/2002](eu/32002r1774*) trådte i kraft, har den automatiske klassifiseringen av visse animalske biprodukter som kategori 2-materiale satt sterke begrensninger for deres bruksmuligheter, som ikke nødvendigvis står i forhold til den tilknyttede risikoen. Disse animalske biproduktene bør derfor omklassifiseres som kategori 3-materiale slik at de kan brukes fôr visse fôringsformål. Alle andre animalske biprodukter som ikke er oppført i noen av de tre kategoriene, bør fortsatt automatisk klassifiseres som kategori 2-materiale av forsiktighetshensyn, særlig for å styrke prinsippet om at slikt materiale generelt utelukkes fra fôrkjeden for andre produksjonsdyr enn pelsdyr.
+36. Annet regelverk som har trådt i kraft etter vedtakelsen av europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,17 nærmere bestemt europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,18 forordning [(EF) nr. 853/2004](eu/32004r0853*), og europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene,19 som utfylles av forordning [(EF) nr. 1774/2002](eu/32002r1774*), pålegger driftsansvarlige for fôr- og næringsmiddelforetak hovedansvaret for å overholde fellesskapsregler som har som formål å verne folkehelsen og dyrehelsen. I henhold til dette regelverket bør driftsansvarlige som driver virksomhet som omfattes av denne forordning, også ha hovedansvaret for å sikre at forordningen overholdes. Denne forpliktelsen bør gjøres tydeligere, og det bør angis nærmere hvordan sporbarhet sikres, for eksempel gjennom atskilt innsamling og transport av animalske biprodukter. Eksisterende systemer som på annen måte sikrer sporbarhet for produkter som utelukkende er i omløp på nasjonalt plan, bør fortsatt anvendes dersom de gir tilsvarende opplysninger. Alt bør gjøres for å fremme bruk av elektronisk dokumentasjon og annen dokumentasjon i annen form enn på papir, forutsatt at full sporbarhet er sikret.
+37. En ordning med egenkontroll er nødvendig for å sikre at kravene i denne forordning oppfylles i en virksomhet eller et anlegg. Ved offentlig kontroll bør vedkommende myndigheter ta hensyn til resultatene fra egenkontroller. Ved visse virksomheter eller anlegg bør egenkontroller foretas gjennom en ordning som bygger på prinsippene for fareanalyse og kritiske kontrollpunkter (HACCP). HACCP-prinsippene bør bygge på erfaringen med gjennomføringen av dem i henhold til Fellesskapets regelverk for næringsmiddel- og fôrvarehygiene. I denne forbindelse kan nasjonale retningslinjer for god praksis være nyttige for å lette den praktiske gjennomføringen av HACCP-prinsippene og av andre sider ved denne forordning.
+38. Animalske biprodukter bør brukes bare dersom risikoen for folkehelsen og dyrehelsen reduseres under bearbeidingen og omsetningen av avledede produkter som er framstilt på grunnlag av animalske biprodukter. Dersom dette ikke er mulig, bør de animalske biproduktene disponeres under sikre forhold. Tilgjengelige bruksmuligheter for animalske biprodukter i de ulike kategoriene bør angis tydelig i samsvar med annet fellesskapsregelverk. Generelt bør bruksmulighetene for animalske biprodukter i en kategori med høyere risiko også gjelde for animalske biprodukter i en kategori med lavere risiko, med mindre særlige hensyn må tas på grunn av risikoen som er knyttet til visse animalske biprodukter.
+39. Disponering av animalske biprodukter og avledede produkter bør skje i samsvar med miljølovgivning som gjelder deponering og avfallsforbrenning. For å sikre sammenheng skal avfallsforbrenning skje i samsvar med europaparlaments- og rådsdirektiv [2000/76/EF](eu/32000l0076*) av 4. desember 2000 om forbrenning av avfall.20 Samforbrenning av avfall – enten som gjenvinning eller disponering – omfattes av lignende vilkår for godkjenning og drift som avfallsforbrenning, særlig med hensyn til grenseverdier for utslipp til atmosfæren, utslipp av spillvann og restmengder, kontroll og overvåking samt krav til måling. Direkte samforbrenning, uten forutgående bearbeiding, av materialer i alle tre kategorier bør derfor tillates. I tillegg bør det innføres særlige bestemmelser om godkjenning av avfallsforbrenningsanlegg med lav og høy kapasitet.
+40. Bruk av animalske biprodukter eller avledede produkter som brensel i forbrenningsprosessen bør være tillatt, og bør ikke anses som disponering. En slik bruk bør imidlertid skje på vilkår som sikrer vern av folkehelsen og dyrehelsen samt oppfyllelse av de relevante miljøstandarder.
+41. Ved denne forordning bør det gis mulighet for å fastsette parametrer for bearbeidingsmetoder med hensyn til tid, temperatur og trykk for animalske biprodukter, særlig for metodene som nå kalles metode 2–7 i henhold til forordning [(EF) nr. 1774/2002](eu/32002r1774*).
+42. Skall fra skalldyr der bløtvev eller kjøtt er fjernet, bør ikke være omfattet av denne forordning. På grunn av varierende praksis i Fellesskapet med hensyn til fjerning av slikt bløtvev eller kjøtt fra skall, bør det være mulig å bruke skall dersom ikke alt bløtvev eller kjøtt er fjernet, forutsatt at slik bruk ikke innebærer noen risiko for folkehelsen og dyrehelsen. Nasjonale retningslinjer for god praksis vil kunne bidra til å spre kunnskap om egnede vilkår for slik bruk.
+43. Ettersom slike produkter innebærer en begrenset risiko for folkehelsen eller dyrehelsen, bør vedkommende myndighet kunne tillate bearbeiding og spredning på jord av biodynamiske preparater på grunnlag av kategori 2- og 3-materiale, som nevnt i rådsforordning [(EF) nr. 834/2007](eu/32007r0834) av 28. juni 2007 om økologisk produksjon og merking av økologiske produkter.21
+44. Ny teknologi under utvikling tilbyr gunstige metoder for energiproduksjon på grunnlag av animalske biprodukter eller for sikker disponering av slike produkter. Sikker disponering kan skje gjennom en kombinasjon av metoder for sikker inneslutting av animalske biprodukter på stedet og vedtatte metoder for disponering, gjennom en kombinasjon av godkjente prosessparametrer og nye standarder som er vurdert og anses som gunstige. For å ta hensyn til de vitenskapelige og teknologiske framskritt i denne forbindelse, bør slik teknologi godkjennes som alternativ metode for disponering eller bruk av animalske biprodukter i hele Fellesskapet. Dersom en enkeltperson har utviklet en teknologisk prosess, bør en søknad som er kontrollert av vedkommende myndighet undersøkes av EFSA før godkjenning gis, for å sikre at det foretas en vurdering av muligheten for å redusere risikoen under prosessen samt for å sikre ivaretakelse av enkeltpersoners rettigheter, herunder fortrolig behandling av forretningsopplysninger. For å gi søkerne råd bør det vedtas et standardformat for søknaden. Ettersom dette dokumentet bare skal være veiledende, bør det vedtas i samsvar med framgangsmåten med rådgivende komité i samarbeid med EFSA.
+45. Det er hensiktsmessig å presisere hvilke krav som gjelder for omsetning av animalske biprodukter og avledede produkter beregnet på bruk som fôr, og for omsetning av organisk gjødsel og jordforbedringsmidler, for å sikre vern av næringsmiddel- og fôrkjeden. Bare kategori 3-materiale bør brukes som fôr til andre produksjonsdyr enn pelsdyr. Gjødsel framstilt på grunnlag av animalske biprodukter kan påvirke tryggheten i næringsmiddel- og fôrkjeden. Når gjødsel er framstilt av kjøttbeinmel framstilt av kategori 2-materiale eller av bearbeidet animalsk protein, bør det tilsettes en bestanddel, for eksempel et uorganisk eller ufordøyelig stoff, for å hindre at det brukes direkte som fôr. En slik tilsetning bør ikke kreves dersom produktenes sammensetning eller emballasje, særlig for produkter som skal brukes av sluttforbruker, hindrer at produktet feilaktig brukes som fôr. Når bestanddelene fastsettes, bør det tas hensyn til ulike forhold knyttet til klimaet og jorden samt formålet med å bruke bestemte typer gjødsel.
+46. Ved europaparlaments- og rådsforordning [(EF) nr. 1523/2007](eu/32007r1523) av 11. desember 2007 om forbud mot markedsføring i og innførsel til og utførsel fra Fellesskapet av skinn fra hunder og katter samt produkter fra slike22 ble det fastsatt et generelt forbud mot markedsføring og innførsel og utførsel av skinn fra katter og hunder samt produkter fra slike. Dette forbudet bør imidlertid ikke påvirke forpliktelsen i henhold til denne forordning til å disponere animalske biprodukter fra katter og hunder, herunder skinn.
+47. For å fremme vitenskap, forskning og kunstnerisk virksomhet kan det være nødvendig å bruke animalske biprodukter eller avledede produkter av alle kategorier, og iblant i mindre mengder enn det som er i handel. For å gjøre det lettere å importere og bruke slike animalske biprodukter eller avledede produkter bør vedkommende myndighet kunne fastsette vilkårene for slike aktiviteter i hvert enkelt tilfelle. Det bør fastsettes harmoniserte vilkår for tilfeller der det kreves tiltak på fellesskapsplan.
+48. Forordning [(EF) nr. 1774/2002](eu/32002r1774*) inneholder nærmere bestemmelser som gjennom unntak tillater at dyr i zoologiske hager fôres med kategori 2- og 3-materiale. Lignende bestemmelser bør fastsettes i denne forordning, og fôring med visse typer kategori 1-materiale bør tillates og utfylles med muligheten for å fastsette nærmere bestemmelser om kontroll av all eventuell risiko som oppstår for folkehelsen eller dyrehelsen.
+49. I henhold til forordning [(EF) nr. 1774/2002](eu/32002r1774*) er det tillatt å fôre truede eller vernede arter av åtselfugler og andre arter som lever i sitt habitat, for å fremme biologisk mangfold. En slik fôringsrutine er et egnet redskap i bevaringen av slike arter, og bør fortsatt være tillatt i henhold til denne forordning, i samsvar med vilkår som fastsettes for å hindre spredning av sykdom. Samtidig bør det i gjennomføringstiltakene fastsettes helsevilkår som gjør det mulig å bruke slikt kategori 1-materiale som fôr i ordninger med ekstensivt beite, og som fôr til andre kjøttetende arter, for eksempel bjørner og ulver. Det er viktig at slike helsevilkår utformes idet det tas hensyn til de berørte artenes naturlige forbruksmønster og til Fellesskapets mål om å fremme biologisk mangfold, som nevnt i Kommisjonens melding av 22. mai 2006 med tittelen «Å stanse tapet av biologisk mangfold innen 2010 – og deretter».
+50. Nedgraving og avfallsforbrenning av animalske biprodukter, særlig av døde dyr, kan være berettiget i visse situasjoner, særlig i fjerntliggende områder eller ved sykdomsbekjempelse der det kreves rask disponering av dyr som er blitt avlivet for å bekjempe utbrudd av alvorlig smittsom sykdom. Særlig bør disponering på stedet være tillatt under særlige omstendigheter, ettersom den tilgjengelige destruksjons- eller avfallsforbrenningskapasiteten i en region eller en medlemsstat ellers vil kunne være en begrensende faktor ved bekjempelse av en sykdom.
+51. Det nåværende unntaket for nedgraving og avfallsforbrenning av animalske biprodukter bør utvides til områder som i praksis er utilgjengelige eller som utgjør en risiko for helsen og sikkerheten til personalet som foretar innsamling. Erfaringene fra anvendelsen av forordning [(EF) nr. 1774/2002](eu/32002r1774*) og fra naturkatastrofer som skogbranner og oversvømmelser i visse medlemsstater har vist at disponering i form av nedgraving og avfallsforbrenning på stedet kan være berettiget for å sikre rask disponering av dyr og for å hindre spredning av sykdomsrisiko. Den samlede størrelsen på områder med status som fjerntliggende i en medlemsstat bør på grunnlag av erfaringene fra anvendelsen av forordning [(EF) nr. 999/2001](eu/32001r0999) begrenses for å sikre oppfyllelse av den allmenne forpliktelsen til å ha et egnet disponeringssystem som er i samsvar med bestemmelsene i denne forordning.
+52. Visse virksomheter eller anlegg som håndterer bare små mengder av animalske biprodukter som ikke utgjør en risiko for folkehelsen eller dyrehelsen, bør under offentlig tilsyn være tillatt for å disponere slike biprodukter på andre måter enn ved disponering i henhold til denne forordning. Kriteriene for slike ekstraordinære omstendigheter bør imidlertid fastsettes på fellesskapsplan for å sikre at de anvendes på en ensartet måte ut fra den faktiske situasjonen i visse sektorer samt tilgangen til andre disponeringssystemer i visse medlemsstater.
+53. Hvilke tiltak som kan treffes av vedkommende myndighet bør fastsettes av hensyn til rettssikkerheten, særlig i forbindelse med midlertidig innstilling av eller permanent driftsforbud eller innføring av vilkår for å sikre at denne forordning anvendes på riktig måte. Disse offentlige kontrollene bør gjennomføres innenfor rammen av flerårige kontrollplaner i henhold til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.23
+54. For å sikre at medlemsstatene kan kontrollere mengden av materiale som innføres til deres territorium for å bli disponert, bør vedkommende myndigheter tillate mottakelse av slikt materiale på sitt territorium.
+55. Trykksterilisering og utfyllende vilkår for transport kan innføres for å sikre risikokontroll. For å sikre sporbarhet og samarbeid mellom vedkommende myndigheter i medlemsstatene som kontrollerer sending av animalske biprodukter eller avledede produkter, bør TRACES-systemet, som ble innført ved kommisjonsvedtak [2004/292/EF](eu/32004d0292),24 anvendes for å innhente opplysninger om sending av kategori 1- og 2-materiale og kjøttbeinmel eller animalsk fett framstilt av kategori 1- og 2-materiale, og animalsk protein framstilt av kategori 3-materiale. For materiale som vanligvis sendes i små mengder for å brukes i forbindelse med forskning, utdanning, kunst eller diagnostikk, bør det fastsettes særlige vilkår for å gjøre forflytning av slikt materiale innenfor Fellesskapet lettere. Bilaterale avtaler som gjør det lettere å kontrollere materiale som flyttes mellom medlemsstater som har felles grense, bør være tillatt under særlige omstendigheter.
+56. For å gjøre det lettere å transportere forsendelser gjennom tredjestater som grenser til flere enn én medlemsstat, bør det innføres en særlig ordning for sending av forsendelser fra en medlemsstats territorium til en annen gjennom en tredjestats territorium, for å sikre særlig at forsendelser som kommer tilbake til Fellesskapets territorium, gjennomgår veterinærkontroll i samsvar med rådsdirektiv [89/662/EØF](eu/31989l0662*) av 11. desember 1989 om veterinærkontroll ved handel innenfor Fellesskapet med sikte på gjennomføring av det indre marked.25
+57. For å sikre sammenheng i Fellesskapets regelverk er det nødvendig å redegjøre for forholdet mellom bestemmelsene i denne forordning og i Fellesskapets regelverk om avfall. Det bør særlig sikres sammenheng med forbudene mot eksport av avfall som er fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1013/2006](eu/32006r1013*) av 14. juni 2006 om transport av avfall.26 For å hindre mulige skadevirkninger for miljøet, bør det være forbudt å eksportere animalske biprodukter og avledede produkter med sikte på disponering ved avfallsforbrenning og på en fyllplass. Eksport av animalske biprodukter og avledede produkter for bruk i et biogass- eller komposteringsanlegg i en tredjestat bør også hindres dersom tredjestaten ikke er medlem av Organisasjonen for økonomisk samarbeid og utvikling (OECD), for å hindre mulige negative miljøvirkninger og risiko for folkehelsen og dyrehelsen. Ved anvendelse av bestemmelsene om unntak fra eksportforbudet er Kommisjonen forpliktet til fullt ut å overholde Basel-konvensjonen om kontroll av grensekryssende transport av og disponering av farlig avfall, som ble inngått på vegne av Fellesskapet ved rådsbeslutning [93/98/EØF](eu/31993d0098*),27 og endringen av denne konvensjonen som fastsatt i partskonferansens vedtak III/1, som ble godkjent på vegne av Fellesskapet ved rådsbeslutning [97/640/EF](eu/31997d0640)28 og gjennomført ved forordning [(EF) nr. 1013/2006](eu/32006r1013*).
+58. Videre bør det sikres at animalske biprodukter som er blandet eller forurenset med farlig avfall som er oppført i kommisjonsvedtak [2000/532/EF](eu/32000d0532) av 3. mai 2000 om erstatning av vedtak [94/3/EF](eu/31994d0003) om utarbeiding av en liste over avfall i henhold til artikkel 1 bokstav a) i rådsdirektiv [75/442/EØF](eu/31975l0442) om avfall og rådsvedtak [94/904/EF](eu/31994d0904) om utarbeiding av en liste over farlig avfall i henhold til artikkel 1 nr. 4 i rådsdirektiv [91/689/EØF](eu/31991l0689*) om farlig avfall,29 utelukkende importeres, eksporteres eller sendes mellom medlemsstatene i samsvar med forordning [(EF) nr. 1013/2006](eu/32006r1013*). Det er også nødvendig å fastsette bestemmelser om sending av slikt materiale innenfor en medlemsstat.
+59. Kommisjonen bør kunne gjennomføre kontroller i medlemsstatene. Fellesskapskontroller i tredjestater bør gjennomføres i samsvar med forordning [(EF) nr. 882/2004](eu/32004r0882*).
+60. Import av animalske biprodukter og avledede produkter til Fellesskapet og transitt av slikt materiale bør skje i samsvar med bestemmelser som er minst like strenge som dem som anvendes i Fellesskapet. Alternativt kan bestemmelsene om animalske biprodukter og avledede produkter som gjelder i tredjestater, anerkjennes som likeverdige med bestemmelsene som er fastsatt i Fellesskapets regelverk. På grunn av den mulige risikoen som er knyttet til produkter beregnet på bruk utenfor fôrkjeden, bør det anvendes et begrenset sett med importbestemmelser for produkter som er beregnet på bruk utenfor fôrkjeden.
+61. Fellesskapets regler for framstilling av avledede produkter beregnet på bruk i kosmetiske produkter, legemidler eller medisinsk utstyr utgjør et omfattende regelverk for omsetning av slike produkter: Rådsdirektiv [76/768/EØF](eu/31976l0768*) av 27. juli 1976 om tilnærming av medlemsstatenes lovgivning om kosmetiske produkter,30 europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler,31 europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater,32 rådsdirektiv [90/385/EØF](eu/31990l0385*) av 20. juni 1990 om tilnærming av medlemsstatenes lovgivning om aktive implanterbare medisinske innretninger,33 rådsdirektiv [93/42/EØF](eu/31993l0042) av 14. juni 1993 om medisinsk utstyr,34 og europaparlaments- og rådsdirektiv [98/79/EF](eu/31998l0079*) av 27. oktober 1998 om medisinsk utstyr til in vitro-diagnostikk35 (særdirektivene). Særdirektivene om kosmetiske produkter og medisinsk utstyr inneholder imidlertid ingen bestemmelser om vern mot risiko for dyrehelsen. I slike tilfeller bør denne forordning få anvendelse på slik risiko, og det bør kunne treffes vernetiltak i samsvar med forordning [(EF) nr. 178/2002](eu/32002r0178).
+62. Animalske biprodukter eller avledede produkter som leveres som materiale eller ingredienser til framstilling av slike avledede produkter, bør også være omfattet av kravene i særdirektivene i det omfang de inneholder bestemmelser om kontroll av risiko for folkehelsen og dyrehelsen. Nevnte særdirektiver inneholder allerede bestemmelser om utgangsmateriale av animalsk opprinnelse som kan brukes til framstilling av de nevnte avledede produktene, og fastsetter visse vilkår for å sikre vern av folkehelsen og dyrehelsen. I henhold til direktiv [76/768/EØF](eu/31976l0768*) skal kategori 1- og 2-materiale ikke brukes som bestanddel i kosmetiske produkter, og produsentene forpliktes til å anvende god framstillingspraksis. Ved kommisjonsdirektiv [2003/32/EF](eu/32003l0032*)36 innføres nærmere spesifikasjoner med hensyn til medisinsk utstyr som er framstilt av vev av animalsk opprinnelse.
+63. Dersom disse vilkårene ennå ikke er fastsatt i særdirektivene eller dersom de ikke omfatter visse typer risiko for folkehelsen og dyrehelsen, bør imidlertid denne forordning få anvendelse, og det bør kunne treffes vernetiltak i samsvar med forordning [(EF) nr. 178/2002](eu/32002r0178).
+64. Visse avledede produkter kommer ikke inn i fôrkjeden eller spres ikke på jord som er dekket med gress eller andre fôrvekster som beites av eller brukes som fôrvarer til produksjonsdyr. Slike avledede produkter omfatter produkter til teknisk bruk, for eksempel behandlede huder til lærproduksjon, bearbeidet ull til tekstilindustrien, beinprodukter til lim og bearbeidet materiale til bruk i fôr til kjæledyr. Driftsansvarlige bør få omsette slike produkter, forutsatt at de enten er framstilt av råstoff som ikke krever behandling, eller at behandlingen eller sluttbruken av det behandlede materialet sikrer tilfredsstillende risikokontroll.
+65. I en rekke medlemsstater er det påvist manglende overholdelse av bestemmelsene i forordning [(EF) nr. 1774/2002](eu/32002r1774*). I tillegg til streng håndheving av disse bestemmelsene er det derfor også behov for strafferettslige og andre sanksjoner overfor driftsansvarlige som ikke overholder disse bestemmelsene. Det er derfor nødvendig at medlemsstatene fastsetter regler for sanksjoner ved overtredelse av bestemmelsene i denne forordning.
+66. Ettersom målet for denne forordning, som er å fastsette hygieneregler og dyrehelseregler for animalske biprodukter og avledede produkter for å hindre og redusere risiko for folkehelsen og dyrehelsen som følge av disse produktene, og særlig for å sikre tryggheten i næringsmiddel- og fôrkjeden, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå dette målet.
+67. For å styrke rettssikkerheten og i lys av Kommisjonens allmenne mål om å forenkle Fellesskapets regelverk, bør et sammenhengende regelverk fastsettes i denne forordning, idet det tas hensyn til bestemmelsene i forordning [(EF) nr. 1774/2002](eu/32002r1774*) samt de erfaringer og framskritt som er gjort siden nevnte forordning trådte i kraft. Forordning [(EF) nr. 1774/2002](eu/32002r1774*) bør derfor oppheves og erstattes av denne forordning.
+68. Tiltakene som er nødvendige for å gjennomføre denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.37
+69. For å sikre sammenheng og klarhet i Fellesskapets regelverk bør de tekniske bestemmelsene om særskilte aktiviteter som gjelder animalske biprodukter, som nå er fastsatt i vedleggene til forordning [(EF) nr. 1774/2002](eu/32002r1774*) og i gjennomføringstiltak som er vedtatt av Kommisjonen på grunnlag av nevnte forordning,38 fastsettes i særskilte gjennomføringsrettsakter. Det bør gjennomføres samråd med og opplysningsarbeid overfor forbrukere og sosioøkonomiske kretser som berøres av spørsmål knyttet til denne forordning, i samsvar med kommisjonsbeslutning [2004/613/EF](eu/32004d0613) av 6. august 2004 om opprettelse av en rådgivende gruppe for næringsmiddelkjeden, dyrehelse og plantehelse.39
+70. Kommisjonen bør særlig tildeles myndighet til å vedta bestemmelser som endrer sluttpunktet i produksjonskjeden for visse avledede produkter og fastsetter et slikt sluttpunkt for visse andre avledede produkter, bestemmelser om alvorlige smittsomme sykdommer som innebærer at animalske biprodukter og avledede produkter ikke bør få sendes dersom disse sykdommene forekommer, og/eller vilkår for sending av slike produkter, tiltak som endrer klassifiseringen av animalske biprodukter og avledede produkter, tiltak for å begrense bruk og disponering av avledede produkter, tiltak som fastsetter vilkår for anvendelsen av visse unntak med hensyn til bruk, innsamling og disponering av animalske biprodukter og avledede produkter samt tiltak for godkjenning eller avvisning av en bestemt alternativ metode for bruk og disponering av animalske biprodukter og avledede produkter.
+71. I tillegg bør Kommisjonen tildeles myndighet til å vedta nærmere bestemmelser om innsamling og transport av animalske biprodukter og avledede produkter, krav til infrastruktur, utstyr og hygiene for virksomheter eller anlegg som håndterer animalske biprodukter og avledede produkter, vilkår for og tekniske krav til håndtering av animalske biprodukter og avledede produkter, herunder hvilken dokumentasjon som skal framlegges med sikte på validering av slik behandling, vilkår for omsetning av animalske biprodukter og avledede produkter, krav knyttet til sikker sporing, sikker behandling og sikker sluttbruk, vilkår for import, transitt og eksport av animalske biprodukter og avledede produkter, nærmere bestemmelser om hvordan offentlige kontroller skal gjennomføres, herunder bestemmelser om referansemetodene for mikrobiologiske analyser samt vilkår for kontroll av sending av visse animalske biprodukter og avledede produkter mellom medlemsstatene. Ettersom disse tiltakene er allmenne og har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, blant annet ved å utfylle den med nye ikke-grunnleggende bestemmelser, må de vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 5a i beslutning [1999/468/EF](eu/31999d0468).
+72. Av effektivitetshensyn bør de fristene som vanligvis gjelder for framgangsmåten med forskriftskomité med kontroll, forkortes i forbindelse med vedtakelsen av tiltak for fastsettelse av vilkår for sending av animalske biprodukter fra driftsenheter, anlegg eller områder som er omfattet av restriksjoner. I hastetilfeller er det nødvendig å anvende framgangsmåten for hastebehandling i artikkel 5a nr. 6 i beslutning [1999/468/EF](eu/31999d0468) for å vedta tiltak som endrer sluttpunktet i produksjonskjeden for visse produkter,
 
 1 EUT C 100 av 30.4.2009, s. 133.
 
@@ -411,9 +524,31 @@ I denne forordning fastsettes bestemmelser om folkehelsen og dyrehelsen i forbin
 
 Virkeområde
 
-1\. Denne forordning får anvendelse påanimalske biprodukter og avledede produkter som ikke er beregnet på konsum i henhold til Fellesskapets regelverk, ogfølgende produkter som ifølge en beslutning tatt av en driftsansvarlig, som ikke kan endres, er beregnet på andre formål enn konsum:produkter av animalsk opprinnelse som i henhold til Fellesskapets regelverk kan være beregnet på konsum,råstoffer til framstilling av produkter av animalsk opprinnelse.
+1\. Denne forordning får anvendelse på
 
-2\. Denne forordning får ikke anvendelse på følgende animalske biprodukter:hele kropper eller deler av ville dyr, med unntak av viltlevende vilt, som ikke mistenkes for å være angrepet eller påvirket av sykdommer som kan overføres til mennesker eller dyr, med unntak av vanndyr som fanges for kommersielle formål,hele kropper eller deler av viltlevende vilt som ikke er samlet inn etter felling i samsvar med god jaktpraksis, med forbehold for forordning [(EF) nr. 853/2004](eu/32004r0853*),animalske biprodukter fra viltlevende vilt og fra kjøtt fra viltlevende vilt nevnt i artikkel 1 nr. 3 bokstav e) i forordning [(EF) nr. 853/2004](eu/32004r0853*),oocytter, embryoer og sæd beregnet på avlsformål,rå melk, råmelk og avledede produkter som framskaffes, oppbevares, disponeres eller brukes ved opprinnelsesenheten,skall fra skalldyr der bløtvev eller kjøtt er fjernet,kjøkken- og matavfall, unntatt når 13det kommer fra transportmidler i internasjonal trafikk,det skal brukes som fôr,det er beregnet på bearbeiding med trykksterilisering, på bearbeiding med metoder nevnt i artikkel 15 nr. 1 første ledd bokstav b) eller på omdanning til biogass eller kompostering,uten at det påvirker Fellesskapets miljøregelverk, materiale fra fartøyer som overholder bestemmelsene i forordning [(EF) nr. 852/2004](eu/32004r0852*) og (EF) [nr. 853/2004](eu/32004r0853*), som oppstår i forbindelse med deres fangstvirksomhet og disponeres i havet, med unntak av materiale som oppstår ved rensing om bord av fisk som viser tegn på sykdom, herunder parasitter, som kan overføres til mennesker,rått fôr til kjæledyr fra detaljforretninger der oppdeling og lagring utelukkende forekommer med henblikk på direktesalg til forbrukeren på stedet,rått fôr til kjæledyr fra dyr som er slaktet på opprinnelsesenheten for forbruk i privat husholdning, ogekskrementer og urin, med unntak av gjødsel og umineralisert guano.
+1. animalske biprodukter og avledede produkter som ikke er beregnet på konsum i henhold til Fellesskapets regelverk, og
+2. følgende produkter som ifølge en beslutning tatt av en driftsansvarlig, som ikke kan endres, er beregnet på andre formål enn konsum:
+
+   1. produkter av animalsk opprinnelse som i henhold til Fellesskapets regelverk kan være beregnet på konsum,
+   2. råstoffer til framstilling av produkter av animalsk opprinnelse.
+
+2\. Denne forordning får ikke anvendelse på følgende animalske biprodukter:
+
+1. hele kropper eller deler av ville dyr, med unntak av viltlevende vilt, som ikke mistenkes for å være angrepet eller påvirket av sykdommer som kan overføres til mennesker eller dyr, med unntak av vanndyr som fanges for kommersielle formål,
+2. hele kropper eller deler av viltlevende vilt som ikke er samlet inn etter felling i samsvar med god jaktpraksis, med forbehold for forordning [(EF) nr. 853/2004](eu/32004r0853*),
+3. animalske biprodukter fra viltlevende vilt og fra kjøtt fra viltlevende vilt nevnt i artikkel 1 nr. 3 bokstav e) i forordning [(EF) nr. 853/2004](eu/32004r0853*),
+4. oocytter, embryoer og sæd beregnet på avlsformål,
+5. rå melk, råmelk og avledede produkter som framskaffes, oppbevares, disponeres eller brukes ved opprinnelsesenheten,
+6. skall fra skalldyr der bløtvev eller kjøtt er fjernet,
+7. kjøkken- og matavfall, unntatt når 13
+
+   1. det kommer fra transportmidler i internasjonal trafikk,
+   2. det skal brukes som fôr,
+   3. det er beregnet på bearbeiding med trykksterilisering, på bearbeiding med metoder nevnt i artikkel 15 nr. 1 første ledd bokstav b) eller på omdanning til biogass eller kompostering,
+8. uten at det påvirker Fellesskapets miljøregelverk, materiale fra fartøyer som overholder bestemmelsene i forordning [(EF) nr. 852/2004](eu/32004r0852*) og (EF) [nr. 853/2004](eu/32004r0853*), som oppstår i forbindelse med deres fangstvirksomhet og disponeres i havet, med unntak av materiale som oppstår ved rensing om bord av fisk som viser tegn på sykdom, herunder parasitter, som kan overføres til mennesker,
+9. rått fôr til kjæledyr fra detaljforretninger der oppdeling og lagring utelukkende forekommer med henblikk på direktesalg til forbrukeren på stedet,
+10. rått fôr til kjæledyr fra dyr som er slaktet på opprinnelsesenheten for forbruk i privat husholdning, og
+11. ekskrementer og urin, med unntak av gjødsel og umineralisert guano.
 
 3\. Denne forordning berører ikke Fellesskapets veterinærregelverk som har som formål å bekjempe og utrydde visse sykdommer.
 
@@ -421,7 +556,20 @@ Virkeområde
 
 Definisjoner
 
-I denne forordning menes med«animalske biprodukter» hele kropper eller deler av dyr, produkter av animalsk opprinnelse eller andre produkter fra dyr, som ikke er beregnet på konsum, herunder oocytter, embryoer og sæd,«avledede produkter» produkter som er framstilt ved en eller flere behandlinger, omdanninger eller trinn i bearbeidingen av animalske biprodukter,«produkter av animalsk opprinnelse» produkter av animalsk opprinnelse som definert i nr. 8.1 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*),«skrott» skrott som definert i nr. 9.1 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*),«dyr» virvelløse dyr eller virveldyr,«produksjonsdyr»alle dyr som holdes, oppfôres eller oppdrettes av mennesker og som brukes i produksjonen av næringsmidler, ull, pels, fjør, huder og skinn eller alle andre produkter fra dyr eller for andre landbruksformål,dyr av hestefamilien,«vilt dyr» alle dyr som ikke holdes av mennesker,«kjæledyr» alle dyr av arter som mennesker vanligvis fôrer og holder, for andre formål enn konsum og oppdrett,«vanndyr» vanndyr som definert i artikkel 3 nr. 1 i direktiv [2006/88/EF](eu/32006l0088*),
+I denne forordning menes med
+
+1. «animalske biprodukter» hele kropper eller deler av dyr, produkter av animalsk opprinnelse eller andre produkter fra dyr, som ikke er beregnet på konsum, herunder oocytter, embryoer og sæd,
+2. «avledede produkter» produkter som er framstilt ved en eller flere behandlinger, omdanninger eller trinn i bearbeidingen av animalske biprodukter,
+3. «produkter av animalsk opprinnelse» produkter av animalsk opprinnelse som definert i nr. 8.1 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*),
+4. «skrott» skrott som definert i nr. 9.1 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*),
+5. «dyr» virvelløse dyr eller virveldyr,
+6. «produksjonsdyr»
+
+   1. alle dyr som holdes, oppfôres eller oppdrettes av mennesker og som brukes i produksjonen av næringsmidler, ull, pels, fjør, huder og skinn eller alle andre produkter fra dyr eller for andre landbruksformål,
+   2. dyr av hestefamilien,
+7. «vilt dyr» alle dyr som ikke holdes av mennesker,
+8. «kjæledyr» alle dyr av arter som mennesker vanligvis fôrer og holder, for andre formål enn konsum og oppdrett,
+9. «vanndyr» vanndyr som definert i artikkel 3 nr. 1 i direktiv [2006/88/EF](eu/32006l0088*),
 
 ►**M2**
 
@@ -472,7 +620,10 @@ Startpunktet i produksjonskjeden og forpliktelser
 
 3\. Medlemsstatene skal overvåke og kontrollere at de relevante kravene i denne forordning er oppfylt av driftsansvarlige i hele kjeden av animalske biprodukter og avledede produkter som nevnt i nr. 2. For dette formål skal de opprettholde et system med offentlige kontroller i samsvar med relevante fellesskapsregler.
 
-4\. Medlemsstatene skal sikre at det er opprettet et egnet system på deres territorium som sikrer at animalske biprodukterinnsamles, identifiseres og transporteres uten unødig opphold, oghåndteres, brukes eller disponeres i samsvar med denne forordning.
+4\. Medlemsstatene skal sikre at det er opprettet et egnet system på deres territorium som sikrer at animalske biprodukter
+
+1. innsamles, identifiseres og transporteres uten unødig opphold, og
+2. håndteres, brukes eller disponeres i samsvar med denne forordning.
 
 5\. Medlemsstatene kan oppfylle sine forpliktelser i henhold til nr. 4 i samarbeid med andre medlemsstater eller tredjestater.
 
@@ -480,11 +631,24 @@ Startpunktet i produksjonskjeden og forpliktelser
 
 Sluttpunktet i produksjonskjeden
 
-1\. Avledede produkter nevnt i artikkel 33 som har nådd det leddet i produksjonen som kreves i de fellesskapsreglene som er omhandlet i nevnte artikkel, skal anses å ha nådd sluttpunktet i produksjonskjeden, der de ikke lenger skal være omfattet av kravene i denne forordning.Disse avledede produktene kan deretter bringes i omsetning uten restriksjoner i henhold til denne forordning, og skal ikke lenger være gjenstand for offentlige kontroller i henhold til denne forordning.Sluttpunktet i produksjonskjeden kan endresfor produkter nevnt i artikkel 33 bokstav a)–d), dersom det er risiko for dyrehelsen,for produkter nevnt i artikkel 33 bokstav e) og f), dersom det er risiko for folkehelsen eller dyrehelsen.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 6.
+1\. Avledede produkter nevnt i artikkel 33 som har nådd det leddet i produksjonen som kreves i de fellesskapsreglene som er omhandlet i nevnte artikkel, skal anses å ha nådd sluttpunktet i produksjonskjeden, der de ikke lenger skal være omfattet av kravene i denne forordning.
+
+Disse avledede produktene kan deretter bringes i omsetning uten restriksjoner i henhold til denne forordning, og skal ikke lenger være gjenstand for offentlige kontroller i henhold til denne forordning.
+
+Sluttpunktet i produksjonskjeden kan endres
+
+1. for produkter nevnt i artikkel 33 bokstav a)–d), dersom det er risiko for dyrehelsen,
+2. for produkter nevnt i artikkel 33 bokstav e) og f), dersom det er risiko for folkehelsen eller dyrehelsen.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 6.
 
 ►**M3**
 
-2\. For avledede produkter nevnt i artikkel 32, 35 og 36 som ikke lenger utgjør en betydelig risiko for folkehelsen eller dyrehelsen, kan det fastsettes et sluttpunkt i produksjonskjeden der de ikke lenger skal være omfattet av kravene i denne forordningen.Disse avledede produktene kan deretter bringes i omsetning uten restriksjoner i henhold til denne forordningen, og skal ikke lenger være gjenstand for offentlige kontroller i henhold til denne forordningen.Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 51a om utfylling av denne forordningen ved å fastsette et sluttpunkt i produksjonskjeden der de avledede produktene nevnt i dette nummeret ikke lenger skal være omfattet av kravene i denne forordningen.
+2\. For avledede produkter nevnt i artikkel 32, 35 og 36 som ikke lenger utgjør en betydelig risiko for folkehelsen eller dyrehelsen, kan det fastsettes et sluttpunkt i produksjonskjeden der de ikke lenger skal være omfattet av kravene i denne forordningen.
+
+Disse avledede produktene kan deretter bringes i omsetning uten restriksjoner i henhold til denne forordningen, og skal ikke lenger være gjenstand for offentlige kontroller i henhold til denne forordningen.
+
+Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 51a om utfylling av denne forordningen ved å fastsette et sluttpunkt i produksjonskjeden der de avledede produktene nevnt i dette nummeret ikke lenger skal være omfattet av kravene i denne forordningen.
 
 3\. Dersom det oppstår risiko for folkehelsen eller dyrehelsen, gjelder artikkel 53 og 54 i forordning (EF) nr. 178/2002 om helsemessige nødtiltak tilsvarende med nødvendige endringer for de avledede produktene nevnt i artikkel 32, 33 og 36 i denne forordningen.
 
@@ -499,9 +663,19 @@ Dyrehelserestriksjoner
 
 Alminnelige dyrehelsehelserestriksjoner
 
-1\. Animalske biprodukter og avledede produkter fra mottakelige arter skal ikke sendes fra driftsenheter, virksomheter, anlegg eller områder som er underlagt restriksjoneri henhold til Fellesskapets veterinærregelverk, ellerpå grunn av forekomst av en alvorlig smittsom sykdom som eroppført i vedlegg I til direktiv [92/119/EØF](eu/31992l0119*) ellerfastsatt i samsvar med annet ledd.Tiltakene nevnt i første ledd bokstav b) ii), som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+1\. Animalske biprodukter og avledede produkter fra mottakelige arter skal ikke sendes fra driftsenheter, virksomheter, anlegg eller områder som er underlagt restriksjoner
 
-2\. Nr. 1 får ikke anvendelse når animalske biprodukter og avledede produkter sendes på vilkår som hindrer spredning av sykdommer som kan overføres til mennesker eller dyr.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 5.
+1. i henhold til Fellesskapets veterinærregelverk, eller
+2. på grunn av forekomst av en alvorlig smittsom sykdom som er
+
+   1. oppført i vedlegg I til direktiv [92/119/EØF](eu/31992l0119*) eller
+   2. fastsatt i samsvar med annet ledd.
+
+Tiltakene nevnt i første ledd bokstav b) ii), som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+
+2\. Nr. 1 får ikke anvendelse når animalske biprodukter og avledede produkter sendes på vilkår som hindrer spredning av sykdommer som kan overføres til mennesker eller dyr.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 5.
 
 ### Avsnitt 4
 Klassifisering
@@ -522,21 +696,98 @@ Klassifisering av animalske biprodukter og avledede produkter
 
 Kategori 1-materiale
 
-Kategori 1-materiale skal omfatte følgende animalske biprodukter:hele kropper og alle kroppsdeler, herunder huder og skinn, fra følgende dyr:dyr som er mistenkt for å være angrepet av TSE i samsvar med forordning [(EF) nr. 999/2001](eu/32001r0999), eller som forekomst av TSE er offisielt bekreftet hos,dyr som er avlivet som følge av tiltak for å utrydde TSE,andre dyr enn produksjonsdyr og ville dyr, herunder særlig kjæledyr, dyr i zoologisk hage og sirkusdyr,
-► **M1**dyr som benyttes i et eller flere forsøk som definert i artikkel 3 i europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063) av 22. september 2010 om vern av dyr som brukes til vitenskapelige formål,1 i tilfeller der vedkommende myndighet beslutter at slike dyr eller kroppsdeler kan utgjøre en alvorlig helserisiko for mennesker eller for andre dyr, som et resultat av et slikt eller slike forsøk, men uten at det berører artikkel 3 nr. 2 i forordning [(EF) nr. 1831/2003](eu/32003r1831),
-◄ **M1**ville dyr som er mistenkt for å være angrepet av sykdommer som kan overføres til mennesker eller dyr,følgende materiale:spesifisert risikomateriale,hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale ved disponeringstidspunktet,animalske biprodukter framstilt av dyr som har gjennomgått ulovlig behandling i henhold til artikkel 1 nr. 2 bokstav d) i direktiv [96/22/EF](eu/31996l0022) eller artikkel 2 bokstav b) i direktiv [96/23/EF](eu/31996l0023),animalske biprodukter som inneholder restmengder av andre stoffer og miljøforurensende stoffer oppført i gruppe B nr. 3 i vedlegg I til direktiv [96/23/EF](eu/31996l0023), forutsatt at disse restmengdene overskrider det tillatte nivået i henhold til Fellesskapets regelverk eller, dersom Fellesskapet mangler regelverk på dette området, nasjonal lovgivning,animalske biprodukter som er samlet inn under behandling av spillvann som fastsatt i kravene i gjennomføringsregler vedtatt i henhold til artikkel 27 første ledd bokstav c):fra virksomheter eller anlegg som bearbeider kategori 1-materiale, ellerfra andre virksomheter eller anlegg der spesifisert risikomateriale fjernes,kjøkken- og matavfall fra transportmidler i internasjonal trafikk, ogblandinger av kategori 1-materiale og enten kategori 2- eller kategori 3-materiale eller begge deler.
+Kategori 1-materiale skal omfatte følgende animalske biprodukter:
+
+1. hele kropper og alle kroppsdeler, herunder huder og skinn, fra følgende dyr:
+
+   1. dyr som er mistenkt for å være angrepet av TSE i samsvar med forordning [(EF) nr. 999/2001](eu/32001r0999), eller som forekomst av TSE er offisielt bekreftet hos,
+   2. dyr som er avlivet som følge av tiltak for å utrydde TSE,
+   3. andre dyr enn produksjonsdyr og ville dyr, herunder særlig kjæledyr, dyr i zoologisk hage og sirkusdyr,
+      ► **M1**
+   4. dyr som benyttes i et eller flere forsøk som definert i artikkel 3 i europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063) av 22. september 2010 om vern av dyr som brukes til vitenskapelige formål,1 i tilfeller der vedkommende myndighet beslutter at slike dyr eller kroppsdeler kan utgjøre en alvorlig helserisiko for mennesker eller for andre dyr, som et resultat av et slikt eller slike forsøk, men uten at det berører artikkel 3 nr. 2 i forordning [(EF) nr. 1831/2003](eu/32003r1831),
+      ◄ **M1**
+   5. ville dyr som er mistenkt for å være angrepet av sykdommer som kan overføres til mennesker eller dyr,
+2. følgende materiale:
+
+   1. spesifisert risikomateriale,
+   2. hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale ved disponeringstidspunktet,
+3. animalske biprodukter framstilt av dyr som har gjennomgått ulovlig behandling i henhold til artikkel 1 nr. 2 bokstav d) i direktiv [96/22/EF](eu/31996l0022) eller artikkel 2 bokstav b) i direktiv [96/23/EF](eu/31996l0023),
+4. animalske biprodukter som inneholder restmengder av andre stoffer og miljøforurensende stoffer oppført i gruppe B nr. 3 i vedlegg I til direktiv [96/23/EF](eu/31996l0023), forutsatt at disse restmengdene overskrider det tillatte nivået i henhold til Fellesskapets regelverk eller, dersom Fellesskapet mangler regelverk på dette området, nasjonal lovgivning,
+5. animalske biprodukter som er samlet inn under behandling av spillvann som fastsatt i kravene i gjennomføringsregler vedtatt i henhold til artikkel 27 første ledd bokstav c):
+
+   1. fra virksomheter eller anlegg som bearbeider kategori 1-materiale, eller
+   2. fra andre virksomheter eller anlegg der spesifisert risikomateriale fjernes,
+6. kjøkken- og matavfall fra transportmidler i internasjonal trafikk, og
+7. blandinger av kategori 1-materiale og enten kategori 2- eller kategori 3-materiale eller begge deler.
 
 ###### Artikkel 9
 
 Kategori 2-materiale
 
-Kategori 2-materiale skal omfatte følgende animalske biprodukter:husdyrgjødsel, umineralisert guano og mage- og tarminnhold,animalske biprodukter som er samlet inn under behandling av spillvann som fastsatt i kravene i gjennomføringsregler vedtatt i henhold til artikkel 27 første ledd bokstav c):fra virksomheter eller anlegg som bearbeider kategori 2-materiale, ellerfra andre slakterier enn dem som omfattes av artikkel 8 bokstav e),animalske biprodukter som inneholder restmengder av godkjente stoffer eller forurensende stoffer som overskrider de tillatte nivåene som nevnt i artikkel 15 nr. 3 i direktiv [96/23/EF](eu/31996l0023),produkter av animalsk opprinnelse som er erklært uegnet til konsum på grunn av forekomst av fremmedlegemer i disse produktene,produkter av animalsk opprinnelse unntatt kategori 1-materiale, somimporteres eller innføres fra en tredjestat og ikke oppfyller bestemmelsene i Fellesskapets veterinærregelverk om import eller innføring til Fellesskapet, med mindre Fellesskapets regelverk tillater at de importeres eller innføres underlagt visse restriksjoner, eller at de sendes tilbake til tredjestaten, ellersendes til en annen medlemsstat og ikke oppfyller kravene som er fastsatt eller godkjent i Fellesskapets regelverk, med mindre de sendes tilbake med tillatelse fra vedkommende myndighet i opprinnelsesstaten,dyr og deler av dyr, med unntak av dyrene nevnt i artikkel 8 eller 10,som dør på annen måte enn ved slakting for konsum, herunder dyr som er avlivet for å bekjempe sykdom,fostre,oocytter, embryoer og sæd som ikke er beregnet på avlsformål, ogfjørfe som er døde i egget,blandinger av kategori 2- og kategori 3-materiale,animalske biprodukter som ikke består av kategori 1- eller kategori 3-materiale.
+Kategori 2-materiale skal omfatte følgende animalske biprodukter:
+
+1. husdyrgjødsel, umineralisert guano og mage- og tarminnhold,
+2. animalske biprodukter som er samlet inn under behandling av spillvann som fastsatt i kravene i gjennomføringsregler vedtatt i henhold til artikkel 27 første ledd bokstav c):
+
+   1. fra virksomheter eller anlegg som bearbeider kategori 2-materiale, eller
+   2. fra andre slakterier enn dem som omfattes av artikkel 8 bokstav e),
+3. animalske biprodukter som inneholder restmengder av godkjente stoffer eller forurensende stoffer som overskrider de tillatte nivåene som nevnt i artikkel 15 nr. 3 i direktiv [96/23/EF](eu/31996l0023),
+4. produkter av animalsk opprinnelse som er erklært uegnet til konsum på grunn av forekomst av fremmedlegemer i disse produktene,
+5. produkter av animalsk opprinnelse unntatt kategori 1-materiale, som
+
+   1. importeres eller innføres fra en tredjestat og ikke oppfyller bestemmelsene i Fellesskapets veterinærregelverk om import eller innføring til Fellesskapet, med mindre Fellesskapets regelverk tillater at de importeres eller innføres underlagt visse restriksjoner, eller at de sendes tilbake til tredjestaten, eller
+   2. sendes til en annen medlemsstat og ikke oppfyller kravene som er fastsatt eller godkjent i Fellesskapets regelverk, med mindre de sendes tilbake med tillatelse fra vedkommende myndighet i opprinnelsesstaten,
+6. dyr og deler av dyr, med unntak av dyrene nevnt i artikkel 8 eller 10,
+
+   1. som dør på annen måte enn ved slakting for konsum, herunder dyr som er avlivet for å bekjempe sykdom,
+   2. fostre,
+   3. oocytter, embryoer og sæd som ikke er beregnet på avlsformål, og
+   4. fjørfe som er døde i egget,
+7. blandinger av kategori 2- og kategori 3-materiale,
+8. animalske biprodukter som ikke består av kategori 1- eller kategori 3-materiale.
 
 ###### Artikkel 10
 
 Kategori 3-materiale
 
-Kategori 3-materiale skal omfatte følgende animalske biprodukter:skrotter og deler av slaktede dyr eller, dersom det dreier seg om vilt, skrotter og deler av felte dyr, og som i henhold til Fellesskapets regelverk er egnet til konsum, men som av kommersielle grunner ikke er beregnet på konsum,skrotter og følgende deler enten av dyr som er slaktet i et slakteri og ble ansett som egnet for slakting med sikte på konsum etter en ante mortem-kontroll, eller kropper og følgende deler av vilt som er felt med sikte på konsum i samsvar med Fellesskapets lovgivning:skrotter eller kropper og deler av dyr som erklæres uegnet til konsum i henhold til Fellesskapets regelverk, men som ikke viste tegn på sykdommer som kan overføres til mennesker eller dyr,fjørfehoder,huder og skinn, herunder materiale fra renskjæring og spalting, horn og hover/klover, herunder falanger og karpal- og metakarpalben, tarsal- og metatarsalben, avandre dyr enn drøvtyggere som må undersøkes for TSE, ogdrøvtyggere som er blitt undersøkt med negativt resultat i samsvar med artikkel 6 nr. 1 i forordning [(EF) nr. 999/2001](eu/32001r0999),grisebuster,fjør,animalske biprodukter fra fjørfe og haredyr som er slaktet på driftsenheten som nevnt i artikkel 1 nr. 3 bokstav d) i forordning [(EF) nr. 853/2004](eu/32004r0853*), som ikke viste tegn på sykdommer som kan overføres til mennesker eller dyr,blod fra dyr som ikke viste tegn på sykdommer som kan overføres gjennom blod til mennesker eller dyr, fra følgende dyr som er slaktet på et slakteri etter at det er erklært som egnet til konsum som følge av en kontroll ante-mortem i samsvar med Fellesskapets regelverk:andre dyr enn drøvtyggere som må undersøkes for TSE, ogdrøvtyggere som er blitt undersøkt med negativt resultat i samsvar med artikkel 6 nr. 1 i forordning [(EF) nr. 999/2001](eu/32001r0999),animalske biprodukter fra framstillingen av produkter beregnet på konsum, herunder avfettede bein, fettgrever og sentrifuge- eller separatorslam i forbindelse med melkeforedling,produkter av animalsk opprinnelse, eller næringsmidler som inneholder produkter av animalsk opprinnelse, som ikke lenger er beregnet på konsum av kommersielle grunner eller på grunn av produksjons- eller emballeringsproblemer eller andre feil som ikke innebærer noen risiko for mennesker og dyr,fôr til kjæledyr og fôrvarer av animalsk opprinnelse, eller fôrvarer som inneholder produkter av animalsk opprinnelse eller avledede produkter, som ikke lenger er beregnet på bruk som fôr av kommersielle grunner eller på grunn av produksjons- eller emballeringsproblemer eller andre feil som ikke innebærer noen risiko for mennesker og dyr,blod, placenta, ull, fjør, hår, horn, biter av hover/klover samt rå melk fra levende dyr som ikke viste tegn på sykdommer som kan overføres gjennom dette produktet til mennesker eller dyr,vanndyr og deler av slike dyr, unntatt havpattedyr, som ikke viste tegn på sykdommer som kan overføres til mennesker eller dyr,animalske biprodukter fra vanndyr fra virksomheter eller anlegg som framstiller produkter til konsum,følgende materiale fra dyr som ikke viser tegn til sykdommer som kan overføres til mennesker eller dyr gjennom dette materialet,skall fra skalldyr med bløtvev eller kjøtt,følgende materiale fra landdyr:biprodukter fra klekkerier,egg,biprodukter av egg, herunder eggeskall,daggamle kyllinger som avlives av kommersielle grunner,virvelløse landdyr og virvelløse dyr som lever i vann, unntatt arter som er sykdomsframkallende for dyr eller mennesker,dyr og deler av dyr som tilhører dyreordenen Rodentia og Lagomorpha, unntatt kategori 1-materiale som nevnt i artikkel 8 bokstav a) iii)–v) og kategori 2-materiale som nevnt i artikkel 9 bokstav a)–g),huder og skinn, hover og klover, fjør, ull, horn, hår og pels fra døde dyr, unntatt dyr nevnt i denne artikkel bokstav b), som ikke viste tegn på sykdommer som kan overføres gjennom dette produktet til mennesker eller dyr,fettvev fra dyr som ikke viste noen tegn til sykdom som kan overføres gjennom dette materialet til mennesker eller dyr, og som er slaktet på et slakteri etter at det er erklært som egnet til konsum som følge av en kontroll ante-mortem i samsvar med Fellesskapets regelverk,kjøkken- og matavfall, med unntak av det som er nevnt i artikkel 8 bokstav f).
+Kategori 3-materiale skal omfatte følgende animalske biprodukter:
+
+1. skrotter og deler av slaktede dyr eller, dersom det dreier seg om vilt, skrotter og deler av felte dyr, og som i henhold til Fellesskapets regelverk er egnet til konsum, men som av kommersielle grunner ikke er beregnet på konsum,
+2. skrotter og følgende deler enten av dyr som er slaktet i et slakteri og ble ansett som egnet for slakting med sikte på konsum etter en ante mortem-kontroll, eller kropper og følgende deler av vilt som er felt med sikte på konsum i samsvar med Fellesskapets lovgivning:
+
+   1. skrotter eller kropper og deler av dyr som erklæres uegnet til konsum i henhold til Fellesskapets regelverk, men som ikke viste tegn på sykdommer som kan overføres til mennesker eller dyr,
+   2. fjørfehoder,
+   3. huder og skinn, herunder materiale fra renskjæring og spalting, horn og hover/klover, herunder falanger og karpal- og metakarpalben, tarsal- og metatarsalben, av
+
+      - andre dyr enn drøvtyggere som må undersøkes for TSE, og
+      - drøvtyggere som er blitt undersøkt med negativt resultat i samsvar med artikkel 6 nr. 1 i forordning [(EF) nr. 999/2001](eu/32001r0999),
+   4. grisebuster,
+   5. fjør,
+3. animalske biprodukter fra fjørfe og haredyr som er slaktet på driftsenheten som nevnt i artikkel 1 nr. 3 bokstav d) i forordning [(EF) nr. 853/2004](eu/32004r0853*), som ikke viste tegn på sykdommer som kan overføres til mennesker eller dyr,
+4. blod fra dyr som ikke viste tegn på sykdommer som kan overføres gjennom blod til mennesker eller dyr, fra følgende dyr som er slaktet på et slakteri etter at det er erklært som egnet til konsum som følge av en kontroll ante-mortem i samsvar med Fellesskapets regelverk:
+
+   1. andre dyr enn drøvtyggere som må undersøkes for TSE, og
+   2. drøvtyggere som er blitt undersøkt med negativt resultat i samsvar med artikkel 6 nr. 1 i forordning [(EF) nr. 999/2001](eu/32001r0999),
+5. animalske biprodukter fra framstillingen av produkter beregnet på konsum, herunder avfettede bein, fettgrever og sentrifuge- eller separatorslam i forbindelse med melkeforedling,
+6. produkter av animalsk opprinnelse, eller næringsmidler som inneholder produkter av animalsk opprinnelse, som ikke lenger er beregnet på konsum av kommersielle grunner eller på grunn av produksjons- eller emballeringsproblemer eller andre feil som ikke innebærer noen risiko for mennesker og dyr,
+7. fôr til kjæledyr og fôrvarer av animalsk opprinnelse, eller fôrvarer som inneholder produkter av animalsk opprinnelse eller avledede produkter, som ikke lenger er beregnet på bruk som fôr av kommersielle grunner eller på grunn av produksjons- eller emballeringsproblemer eller andre feil som ikke innebærer noen risiko for mennesker og dyr,
+8. blod, placenta, ull, fjør, hår, horn, biter av hover/klover samt rå melk fra levende dyr som ikke viste tegn på sykdommer som kan overføres gjennom dette produktet til mennesker eller dyr,
+9. vanndyr og deler av slike dyr, unntatt havpattedyr, som ikke viste tegn på sykdommer som kan overføres til mennesker eller dyr,
+10. animalske biprodukter fra vanndyr fra virksomheter eller anlegg som framstiller produkter til konsum,
+11. følgende materiale fra dyr som ikke viser tegn til sykdommer som kan overføres til mennesker eller dyr gjennom dette materialet,
+
+    1. skall fra skalldyr med bløtvev eller kjøtt,
+    2. følgende materiale fra landdyr:
+
+       - biprodukter fra klekkerier,
+       - egg,
+       - biprodukter av egg, herunder eggeskall,
+    3. daggamle kyllinger som avlives av kommersielle grunner,
+12. virvelløse landdyr og virvelløse dyr som lever i vann, unntatt arter som er sykdomsframkallende for dyr eller mennesker,
+13. dyr og deler av dyr som tilhører dyreordenen Rodentia og Lagomorpha, unntatt kategori 1-materiale som nevnt i artikkel 8 bokstav a) iii)–v) og kategori 2-materiale som nevnt i artikkel 9 bokstav a)–g),
+14. huder og skinn, hover og klover, fjør, ull, horn, hår og pels fra døde dyr, unntatt dyr nevnt i denne artikkel bokstav b), som ikke viste tegn på sykdommer som kan overføres gjennom dette produktet til mennesker eller dyr,
+15. fettvev fra dyr som ikke viste noen tegn til sykdom som kan overføres gjennom dette materialet til mennesker eller dyr, og som er slaktet på et slakteri etter at det er erklært som egnet til konsum som følge av en kontroll ante-mortem i samsvar med Fellesskapets regelverk,
+16. kjøkken- og matavfall, med unntak av det som er nevnt i artikkel 8 bokstav f).
 
 ### KAPITTEL II
 Disponering og bruk av animalske biprodukter og avledede produkter
@@ -548,9 +799,20 @@ Bruksrestriksjoner
 
 Bruksrestriksjoner
 
-1\. Følgende typer bruk av animalske biprodukter og avledede produkter skal være forbudt:fôring av landdyr av en bestemt art, med unntak av pelsdyr, med bearbeidet animalsk protein som kommer fra dyrekropper eller deler av dyr av samme art,fôring av produksjonsdyr, med unntak av pelsdyr, med kjøkken- og matavfall eller fôrmidler som inneholder eller er framstilt av kjøkken- og matavfall,fôring av produksjonsdyr med fôrvekster, enten ved direkte beiting eller ved fôring med høstede fôrvekster, fra jord der det er brukt organisk gjødsel eller jordforbedringsmidler, unntatt husdyrgjødsel, med mindre innhøstingen eller beitingen finner sted etter et tidsrom som sikrer egnet kontroll av risikoen for folkehelsen og dyrehelsen og som varer i minst 21 dager, ogfôring av oppdrettsfisk med bearbeidet animalsk protein som kommer fra kropper eller deler av oppdrettsfisk av samme art.
+1\. Følgende typer bruk av animalske biprodukter og avledede produkter skal være forbudt:
 
-2\. Det kan fastsettes tiltak med hensyn til følgende:de undersøkelser og kontroller som skal gjennomføres for å sikre overholdelse av forbudene nevnt i nr. 1, herunder påvisningsmetoder og prøver som skal anvendes for å påvise forekomst av materiale fra bestemte arter og terskelverdier for ubetydelige mengder av bearbeidet animalsk protein som er nevnt i nr. 1 bokstav a) og d), forårsaket av utilsiktet og teknisk uunngåelig kontaminering,vilkårene for fôring av pelsdyr med bearbeidet animalsk protein framstilt av kropper eller deler av dyr av samme art, ogvilkårene for fôring av produksjonsdyr med fôrvekster, enten ved direkte beiting eller ved fôring med høstede fôrvekster, fra jord der det er spredt organisk gjødsel eller jordforbedringsmidler, særlig vilkårene for å endre tidsrommet nevnt i nr. 1 bokstav c).Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+1. fôring av landdyr av en bestemt art, med unntak av pelsdyr, med bearbeidet animalsk protein som kommer fra dyrekropper eller deler av dyr av samme art,
+2. fôring av produksjonsdyr, med unntak av pelsdyr, med kjøkken- og matavfall eller fôrmidler som inneholder eller er framstilt av kjøkken- og matavfall,
+3. fôring av produksjonsdyr med fôrvekster, enten ved direkte beiting eller ved fôring med høstede fôrvekster, fra jord der det er brukt organisk gjødsel eller jordforbedringsmidler, unntatt husdyrgjødsel, med mindre innhøstingen eller beitingen finner sted etter et tidsrom som sikrer egnet kontroll av risikoen for folkehelsen og dyrehelsen og som varer i minst 21 dager, og
+4. fôring av oppdrettsfisk med bearbeidet animalsk protein som kommer fra kropper eller deler av oppdrettsfisk av samme art.
+
+2\. Det kan fastsettes tiltak med hensyn til følgende:
+
+1. de undersøkelser og kontroller som skal gjennomføres for å sikre overholdelse av forbudene nevnt i nr. 1, herunder påvisningsmetoder og prøver som skal anvendes for å påvise forekomst av materiale fra bestemte arter og terskelverdier for ubetydelige mengder av bearbeidet animalsk protein som er nevnt i nr. 1 bokstav a) og d), forårsaket av utilsiktet og teknisk uunngåelig kontaminering,
+2. vilkårene for fôring av pelsdyr med bearbeidet animalsk protein framstilt av kropper eller deler av dyr av samme art, og
+3. vilkårene for fôring av produksjonsdyr med fôrvekster, enten ved direkte beiting eller ved fôring med høstede fôrvekster, fra jord der det er spredt organisk gjødsel eller jordforbedringsmidler, særlig vilkårene for å endre tidsrommet nevnt i nr. 1 bokstav c).
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 ### Avsnitt 2
 Disponering og bruk
@@ -559,27 +821,98 @@ Disponering og bruk
 
 Disponering og bruk av kategori 1-materiale
 
-Kategori 1-materiale skaldisponeres som avfall ved avfallsforbrenningdirekte uten forutgående bearbeiding, elleretter bearbeiding, med trykksterilisering dersom vedkommende myndighet krever det, og da skal det resulterende materialet merkes permanent,dersom kategori 1-materialet er avfall, gjenvinnes eller disponeres ved samforbrenningdirekte uten forutgående bearbeiding, elleretter bearbeiding, ved trykksterilisering dersom vedkommende myndighet krever det, og da skal det resulterende materialet merkes permanent,dersom det gjelder annet kategori 1-materiale enn det som er nevnt i artikkel 8 bokstav a) i) og ii), disponeres ved bearbeiding med trykksterilisering, og da skal det resulterende materialet merkes permanent og nedgraves på en godkjent fyllplass,dersom det gjelder kategori 1-materiale nevnt i artikkel 8 bokstav f), disponeres ved nedgraving på en godkjent fyllplass,brukes som brensel i forbrenningsprosessen, med eller uten forutgående bearbeiding, ellerbrukes til framstilling av avledede produkter nevnt i artikkel 33, 34 og 36 som bringes i omsetning i samsvar med nevnte artikler.
+Kategori 1-materiale skal
+
+1. disponeres som avfall ved avfallsforbrenning
+
+   1. direkte uten forutgående bearbeiding, eller
+   2. etter bearbeiding, med trykksterilisering dersom vedkommende myndighet krever det, og da skal det resulterende materialet merkes permanent,
+2. dersom kategori 1-materialet er avfall, gjenvinnes eller disponeres ved samforbrenning
+
+   1. direkte uten forutgående bearbeiding, eller
+   2. etter bearbeiding, ved trykksterilisering dersom vedkommende myndighet krever det, og da skal det resulterende materialet merkes permanent,
+3. dersom det gjelder annet kategori 1-materiale enn det som er nevnt i artikkel 8 bokstav a) i) og ii), disponeres ved bearbeiding med trykksterilisering, og da skal det resulterende materialet merkes permanent og nedgraves på en godkjent fyllplass,
+4. dersom det gjelder kategori 1-materiale nevnt i artikkel 8 bokstav f), disponeres ved nedgraving på en godkjent fyllplass,
+5. brukes som brensel i forbrenningsprosessen, med eller uten forutgående bearbeiding, eller
+6. brukes til framstilling av avledede produkter nevnt i artikkel 33, 34 og 36 som bringes i omsetning i samsvar med nevnte artikler.
 
 ###### Artikkel 13
 
 Disponering og bruk av kategori 2-materiale
 
-Kategori 2-materiale skaldisponeres som avfall ved avfallsforbrenningdirekte uten forutgående bearbeiding, elleretter bearbeiding, ved trykksterilisering dersom vedkommende myndighet krever det, og da skal det resulterende materialet merkes permanent,dersom kategori 2-materialet er avfall, gjenvinnes eller disponeres ved samforbrenningdirekte uten forutgående bearbeiding, elleretter bearbeiding, ved trykksterilisering dersom vedkommende myndighet krever det, og da skal det resulterende materialet merkes permanent,disponeres på en godkjent fyllplass etter bearbeiding ved trykksterilisering, og da skal det resulterende materialet merkes permanent,brukes til framstilling av organisk gjødsel og jordforbedringsmidler som skal bringes i omsetning i samsvar med artikkel 32 etter bearbeiding ved trykksterilisering, der det er relevant, og da skal det resulterende materialet merkes permanent,komposteres eller omdannes til biogassetter bearbeiding med trykksterilisering, og da skal det resulterende materialet merkes permanent, ellermed eller uten forutgående bearbeiding, når det gjelder husdyrgjødsel, fordøyelseskanalen og dens innhold, melk, melkebasert produkter, råmelk, egg og eggprodukter som ifølge vedkommende myndighet ikke innebærer risiko for spredning av alvorlige smittsomme sykdommer,spres på jord uten bearbeiding, når det gjelder husdyrgjødsel, mage- og tarminnhold som er atskilt fra fordøyelseskanalen, melk og melkebaserte produkter og råmelk som ifølge vedkommende myndighet ikke innebærer risiko for spredning av alvorlige smittsomme sykdommer,når det gjelder materiale fra vanndyr, ensileres, komposteres eller omdannes til biogass,brukes som brensel i forbrenningsprosessen, med eller uten forutgående bearbeiding, ellerbrukes til framstilling av avledede produkter nevnt i artikkel 33, 34 og 36 som bringes i omsetning i samsvar med nevnte artikler.
+Kategori 2-materiale skal
+
+1. disponeres som avfall ved avfallsforbrenning
+
+   1. direkte uten forutgående bearbeiding, eller
+   2. etter bearbeiding, ved trykksterilisering dersom vedkommende myndighet krever det, og da skal det resulterende materialet merkes permanent,
+2. dersom kategori 2-materialet er avfall, gjenvinnes eller disponeres ved samforbrenning
+
+   1. direkte uten forutgående bearbeiding, eller
+   2. etter bearbeiding, ved trykksterilisering dersom vedkommende myndighet krever det, og da skal det resulterende materialet merkes permanent,
+3. disponeres på en godkjent fyllplass etter bearbeiding ved trykksterilisering, og da skal det resulterende materialet merkes permanent,
+4. brukes til framstilling av organisk gjødsel og jordforbedringsmidler som skal bringes i omsetning i samsvar med artikkel 32 etter bearbeiding ved trykksterilisering, der det er relevant, og da skal det resulterende materialet merkes permanent,
+5. komposteres eller omdannes til biogass
+
+   1. etter bearbeiding med trykksterilisering, og da skal det resulterende materialet merkes permanent, eller
+   2. med eller uten forutgående bearbeiding, når det gjelder husdyrgjødsel, fordøyelseskanalen og dens innhold, melk, melkebasert produkter, råmelk, egg og eggprodukter som ifølge vedkommende myndighet ikke innebærer risiko for spredning av alvorlige smittsomme sykdommer,
+6. spres på jord uten bearbeiding, når det gjelder husdyrgjødsel, mage- og tarminnhold som er atskilt fra fordøyelseskanalen, melk og melkebaserte produkter og råmelk som ifølge vedkommende myndighet ikke innebærer risiko for spredning av alvorlige smittsomme sykdommer,
+7. når det gjelder materiale fra vanndyr, ensileres, komposteres eller omdannes til biogass,
+8. brukes som brensel i forbrenningsprosessen, med eller uten forutgående bearbeiding, eller
+9. brukes til framstilling av avledede produkter nevnt i artikkel 33, 34 og 36 som bringes i omsetning i samsvar med nevnte artikler.
 
 ###### Artikkel 14
 
 Disponering og bruk av kategori 3-materiale
 
-Kategori 3-materiale skaldisponeres som avfall ved avfallsforbrenning, med eller uten forutgående bearbeiding,dersom kategori 3-materialet er avfall, gjenvinnes eller disponeres ved samforbrenning, med eller uten bearbeiding,disponeres på en godkjent fyllplass etter bearbeiding,bearbeides, unntatt når det gjelder kategori 3-materiale som er endret gjennom nedbryting eller bedervelse slik at det utgjør en uakseptabel risiko for folkehelsen og dyrehelsen, og brukestil framstilling av fôr til andre produksjonsdyr enn pelsdyr, som skal bringes i omsetning i samsvar med artikkel 31, unntatt når det gjelder materiale nevnt i artikkel 10 bokstav n)–p),til framstilling av fôr til pelsdyr, som skal bringes i omsetning i samsvar med artikkel 36,til framstilling av fôr til kjæledyr, som skal bringes i omsetning i samsvar med artikkel 35, ellertil framstilling av organisk gjødsel og jordforbedringsmidler som skal bringes i omsetning i samsvar med artikkel 32,til framstilling av rått fôr til kjæledyr, som skal bringes i omsetning i samsvar med artikkel 35,komposteres eller omdannes til biogass,når det gjelder materiale fra vanndyr, ensileres, komposteres eller omdannes til biogass,når det gjelder skall fra andre skalldyr enn dem som er nevnt i artikkel 2 nr. 2 bokstav f), og eggeskall, brukes på vilkår fastsatt av vedkommende myndighet som hindrer at det oppstår risiko for folkehelsen og dyrehelsen,brukes som brensel i forbrenningsprosessen, med eller uten forutgående bearbeiding,brukes til framstilling av avledede produkter nevnt i artikkel 33, 34 og 36 som bringes i omsetning i samsvar med nevnte artikler,når det gjelder kjøkken- og matavfall nevnt i artikkel 10 bokstav p), bearbeides med trykksterilisering eller bearbeidingsmetoder nevnt i artikkel 15 nr. 1 første ledd bokstav b) eller komposteres eller omdannes til biogass, ellerspres på jord uten bearbeiding, når det gjelder rå melk, råmelk og avledede produkter som ifølge vedkommende myndighet ikke innebærer risiko for spredning av alvorlige smittsomme sykdommer gjennom disse produktene til mennesker eller dyr.
+Kategori 3-materiale skal
+
+1. disponeres som avfall ved avfallsforbrenning, med eller uten forutgående bearbeiding,
+2. dersom kategori 3-materialet er avfall, gjenvinnes eller disponeres ved samforbrenning, med eller uten bearbeiding,
+3. disponeres på en godkjent fyllplass etter bearbeiding,
+4. bearbeides, unntatt når det gjelder kategori 3-materiale som er endret gjennom nedbryting eller bedervelse slik at det utgjør en uakseptabel risiko for folkehelsen og dyrehelsen, og brukes
+
+   1. til framstilling av fôr til andre produksjonsdyr enn pelsdyr, som skal bringes i omsetning i samsvar med artikkel 31, unntatt når det gjelder materiale nevnt i artikkel 10 bokstav n)–p),
+   2. til framstilling av fôr til pelsdyr, som skal bringes i omsetning i samsvar med artikkel 36,
+   3. til framstilling av fôr til kjæledyr, som skal bringes i omsetning i samsvar med artikkel 35, eller
+   4. til framstilling av organisk gjødsel og jordforbedringsmidler som skal bringes i omsetning i samsvar med artikkel 32,
+5. til framstilling av rått fôr til kjæledyr, som skal bringes i omsetning i samsvar med artikkel 35,
+6. komposteres eller omdannes til biogass,
+7. når det gjelder materiale fra vanndyr, ensileres, komposteres eller omdannes til biogass,
+8. når det gjelder skall fra andre skalldyr enn dem som er nevnt i artikkel 2 nr. 2 bokstav f), og eggeskall, brukes på vilkår fastsatt av vedkommende myndighet som hindrer at det oppstår risiko for folkehelsen og dyrehelsen,
+9. brukes som brensel i forbrenningsprosessen, med eller uten forutgående bearbeiding,
+10. brukes til framstilling av avledede produkter nevnt i artikkel 33, 34 og 36 som bringes i omsetning i samsvar med nevnte artikler,
+11. når det gjelder kjøkken- og matavfall nevnt i artikkel 10 bokstav p), bearbeides med trykksterilisering eller bearbeidingsmetoder nevnt i artikkel 15 nr. 1 første ledd bokstav b) eller komposteres eller omdannes til biogass, eller
+12. spres på jord uten bearbeiding, når det gjelder rå melk, råmelk og avledede produkter som ifølge vedkommende myndighet ikke innebærer risiko for spredning av alvorlige smittsomme sykdommer gjennom disse produktene til mennesker eller dyr.
 
 ###### Artikkel 15
 
 Gjennomføringstiltak
 
-1\. Det kan fastsettes gjennomføringstiltak for dette avsnitt med hensyn til følgende:særlige vilkår for håndtering om bord og disponering av materiale som framkommer ved rensing av fisk som viser tegn på sykdom, herunder parasitter, som kan overføres til mennesker,andre metoder for bearbeiding av animalske biprodukter enn trykksterilisering, særlig med hensyn til parametrene som skal anvendes for disse bearbeidingsmetodene, særlig tid, temperatur, trykk og partikkelstørrelse,parametrene for omdanning av animalske biprodukter, herunder kjøkken- og matavfall, til biogass eller kompost,vilkår for avfallsforbrenning og samforbrenning av animalske biprodukter og avledede produkter,vilkår for forbrenning av animalske biprodukter og avledede produkter,vilkår for framstilling og håndtering av animalske biprodukter nevnt i artikkel 10 bokstav c),ensilering av materiale fra vanndyr,permanent merking av animalske biprodukter,spredning på jord av visse animalske biprodukter, organisk gjødsel og jordforbedringsmidler,bruk av visse animalske biprodukter som fôr til produksjonsdyr, oghvilket nivå av risiko for folkehelsen eller dyrehelsen som anses som uakseptabelt med hensyn til visse typer materiale som nevnt i artikkel 14 bokstav d).Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+1\. Det kan fastsettes gjennomføringstiltak for dette avsnitt med hensyn til følgende:
 
-2\. Til det er vedtatt bestemmelser nevnt inr. 1 første ledd bokstav c), f) og g), kan medlemsstatene vedta eller beholde nasjonale bestemmelser omframstilling og håndtering av animalske biprodukter nevnt i artikkel 10 bokstav c),omdanning av animalske biprodukter nevnt i artikkel 10 bokstav p), ogensilering av materiale fra vanndyr,nr. 1 første ledd bokstav a), kan animalske biprodukter som er nevnt der, disponeres i havet, med forbehold for Fellesskapets miljøregelverk.
+1. særlige vilkår for håndtering om bord og disponering av materiale som framkommer ved rensing av fisk som viser tegn på sykdom, herunder parasitter, som kan overføres til mennesker,
+2. andre metoder for bearbeiding av animalske biprodukter enn trykksterilisering, særlig med hensyn til parametrene som skal anvendes for disse bearbeidingsmetodene, særlig tid, temperatur, trykk og partikkelstørrelse,
+3. parametrene for omdanning av animalske biprodukter, herunder kjøkken- og matavfall, til biogass eller kompost,
+4. vilkår for avfallsforbrenning og samforbrenning av animalske biprodukter og avledede produkter,
+5. vilkår for forbrenning av animalske biprodukter og avledede produkter,
+6. vilkår for framstilling og håndtering av animalske biprodukter nevnt i artikkel 10 bokstav c),
+7. ensilering av materiale fra vanndyr,
+8. permanent merking av animalske biprodukter,
+9. spredning på jord av visse animalske biprodukter, organisk gjødsel og jordforbedringsmidler,
+10. bruk av visse animalske biprodukter som fôr til produksjonsdyr, og
+11. hvilket nivå av risiko for folkehelsen eller dyrehelsen som anses som uakseptabelt med hensyn til visse typer materiale som nevnt i artikkel 14 bokstav d).
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+
+2\. Til det er vedtatt bestemmelser nevnt i
+
+1. nr. 1 første ledd bokstav c), f) og g), kan medlemsstatene vedta eller beholde nasjonale bestemmelser om
+
+   1. framstilling og håndtering av animalske biprodukter nevnt i artikkel 10 bokstav c),
+   2. omdanning av animalske biprodukter nevnt i artikkel 10 bokstav p), og
+   3. ensilering av materiale fra vanndyr,
+2. nr. 1 første ledd bokstav a), kan animalske biprodukter som er nevnt der, disponeres i havet, med forbehold for Fellesskapets miljøregelverk.
 
 ### Avsnitt 3
 Unntak
@@ -588,37 +921,90 @@ Unntak
 
 Unntak
 
-Som unntak fra artikkel 12–14 kan animalske biprodukternår det gjelder animalske biprodukter nevnt i artikkel 15 nr. 1 første ledd bokstav a), håndteres og disponeres i samsvar med særlige vilkår fastsatt i henhold til nevnte bokstav,brukes til forskning og andre særskilte formål i samsvar med artikkel 17,når det gjelder animalske biprodukter nevnt i artikkel 18, brukes til særlige fôringsformål i samsvar med nevnte artikkel,når det gjelder animalske biprodukter nevnt i artikkel 19, disponeres i samsvar med nevnte artikkel,disponeres eller brukes i samsvar med alternative metoder som er godkjent i samsvar med artikkel 20, på grunnlag av parametrer som kan omfatte trykksterilisering eller andre krav i denne forordning eller dens gjennomføringstiltak,når det gjelder kategori 2- og 3-materiale, med vedkommende myndighets tillatelse brukes til bearbeiding og spredning på jord av biodynamiske preparater som nevnt i artikkel 12 nr. 1 bokstav c) i forordning [(EF) nr. 834/2007](eu/32007r0834),når det gjelder kategori 3-materiale, med vedkommende myndighets tillatelse brukes som fôr til kjæledyr,når det gjelder animalske biprodukter, med unntak av kategori 1-materiale, som framkommer ved kirurgiske inngrep på levende dyr eller i forbindelse med at dyr fødes i driftsenheten, disponeres i driftsenheten dersom vedkommende myndighet har gitt tillatelse til det.
+Som unntak fra artikkel 12–14 kan animalske biprodukter
+
+1. når det gjelder animalske biprodukter nevnt i artikkel 15 nr. 1 første ledd bokstav a), håndteres og disponeres i samsvar med særlige vilkår fastsatt i henhold til nevnte bokstav,
+2. brukes til forskning og andre særskilte formål i samsvar med artikkel 17,
+3. når det gjelder animalske biprodukter nevnt i artikkel 18, brukes til særlige fôringsformål i samsvar med nevnte artikkel,
+4. når det gjelder animalske biprodukter nevnt i artikkel 19, disponeres i samsvar med nevnte artikkel,
+5. disponeres eller brukes i samsvar med alternative metoder som er godkjent i samsvar med artikkel 20, på grunnlag av parametrer som kan omfatte trykksterilisering eller andre krav i denne forordning eller dens gjennomføringstiltak,
+6. når det gjelder kategori 2- og 3-materiale, med vedkommende myndighets tillatelse brukes til bearbeiding og spredning på jord av biodynamiske preparater som nevnt i artikkel 12 nr. 1 bokstav c) i forordning [(EF) nr. 834/2007](eu/32007r0834),
+7. når det gjelder kategori 3-materiale, med vedkommende myndighets tillatelse brukes som fôr til kjæledyr,
+8. når det gjelder animalske biprodukter, med unntak av kategori 1-materiale, som framkommer ved kirurgiske inngrep på levende dyr eller i forbindelse med at dyr fødes i driftsenheten, disponeres i driftsenheten dersom vedkommende myndighet har gitt tillatelse til det.
 
 ###### Artikkel 17
 
 Forskning og andre særskilte formål
 
-1\. Vedkommende myndighet kan som unntak fra artikkel 12–14 tillate bruk av animalske biprodukter og avledede produkter i forbindelse med utstillinger og kunstnerisk virksomhet, diagnostisering, undervisning og forskning på vilkår som sikrer at risikoen for folkehelsen og dyrehelsen kontrolleres.Slike vilkår skal omfatteforbud mot at de animalske biproduktene eller avledede produkters senere brukes for andre formål, ogen forpliktelse til å disponere de animalske biproduktene eller avledede produktene på en sikker måte, eller til å sende dem tilbake til opprinnelsesstedet, dersom det er relevant.
+1\. Vedkommende myndighet kan som unntak fra artikkel 12–14 tillate bruk av animalske biprodukter og avledede produkter i forbindelse med utstillinger og kunstnerisk virksomhet, diagnostisering, undervisning og forskning på vilkår som sikrer at risikoen for folkehelsen og dyrehelsen kontrolleres.
 
-2\. Når det gjelder risiko for folkehelsen og dyrehelse som krever vedtakelse av tiltak for hele Fellesskapets territorium, særlig dersom ny risiko oppstår, kan det fastsettes harmoniserte vilkår for import og bruk av de animalske biproduktene og avledede produktene nevnt i nr. 1. Vilkårene kan omfatte krav til lagring, pakking, identifisering, transport og disponering.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+Slike vilkår skal omfatte
+
+1. forbud mot at de animalske biproduktene eller avledede produkters senere brukes for andre formål, og
+2. en forpliktelse til å disponere de animalske biproduktene eller avledede produktene på en sikker måte, eller til å sende dem tilbake til opprinnelsesstedet, dersom det er relevant.
+
+2\. Når det gjelder risiko for folkehelsen og dyrehelse som krever vedtakelse av tiltak for hele Fellesskapets territorium, særlig dersom ny risiko oppstår, kan det fastsettes harmoniserte vilkår for import og bruk av de animalske biproduktene og avledede produktene nevnt i nr. 1. Vilkårene kan omfatte krav til lagring, pakking, identifisering, transport og disponering.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 ###### Artikkel 18
 
 Særlige fôringsformål
 
-1\. Vedkommende myndighet kan som unntak fra artikkel 13 og 14 gi tillatelse til innsamling og bruk av kategori 2-materiale, på vilkår som sikrer at risikoen for folkehelsen og dyrehelsen kontrolleres, dersom materialet kommer fra dyr som ikke er avlivet eller døde som følge av forekomst av eller mistanke om forekomst av en sykdom som kan overføres til mennesker eller dyr, samt av kategori 3-materiale til fôring avdyr i zoologiske hager,sirkusdyr,andre krypdyr og rovfugler enn dyr i zoologiske hager eller sirkusdyr,pelsdyr,ville dyr,hunder fra godkjente kenneler eller hundekobler,hunder og katter i dyremottak,fluelarver og mark til agn.
+1\. Vedkommende myndighet kan som unntak fra artikkel 13 og 14 gi tillatelse til innsamling og bruk av kategori 2-materiale, på vilkår som sikrer at risikoen for folkehelsen og dyrehelsen kontrolleres, dersom materialet kommer fra dyr som ikke er avlivet eller døde som følge av forekomst av eller mistanke om forekomst av en sykdom som kan overføres til mennesker eller dyr, samt av kategori 3-materiale til fôring av
 
-2\. Vedkommende myndighet kan som unntak fra artikkel 12 og i samsvar med vilkårene fastsatt i henhold til nr. 3 i denne artikkel gi tillatelse tilbruk av kategori 1-materiale nevnt i artikkel 8 bokstav b) ii) og materiale fra dyr i zoologiske hager som fôr til dyr i zoologiske hager, ogbruk av kategori 1-materiale nevnt i artikkel 8 bokstav b) ii) som fôr til truede eller vernede arter av åtselfugler og andre arter som lever i sitt habitat, for å fremme biologisk mangfold.
+1. dyr i zoologiske hager,
+2. sirkusdyr,
+3. andre krypdyr og rovfugler enn dyr i zoologiske hager eller sirkusdyr,
+4. pelsdyr,
+5. ville dyr,
+6. hunder fra godkjente kenneler eller hundekobler,
+7. hunder og katter i dyremottak,
+8. fluelarver og mark til agn.
 
-3\. Det kan fastsettes gjennomføringstiltak for denne artikkel med hensyn til følgende:vilkår for når innsamling og bruk i henhold til nr. 1 kan tillates med hensyn til forflytning, lagring og bruk av kategori 2- og 3-materiale til fôring, herunder dersom ny risiko oppstår, ogvilkår for i visse tilfeller og som unntak fra forpliktelsen fastsatt i artikkel 21 nr. 1, å tillate bruk av kategori 1-materiale til fôring som nevnt i nr. 2 i denne artikkel, herunder:truede eller vernede arter av åtselfugler og andre arter i visse medlemsstater som kan fôres med slikt materiale,tiltak for å hindre risiko for folkehelsen og dyrehelsen.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+2\. Vedkommende myndighet kan som unntak fra artikkel 12 og i samsvar med vilkårene fastsatt i henhold til nr. 3 i denne artikkel gi tillatelse til
+
+1. bruk av kategori 1-materiale nevnt i artikkel 8 bokstav b) ii) og materiale fra dyr i zoologiske hager som fôr til dyr i zoologiske hager, og
+2. bruk av kategori 1-materiale nevnt i artikkel 8 bokstav b) ii) som fôr til truede eller vernede arter av åtselfugler og andre arter som lever i sitt habitat, for å fremme biologisk mangfold.
+
+3\. Det kan fastsettes gjennomføringstiltak for denne artikkel med hensyn til følgende:
+
+1. vilkår for når innsamling og bruk i henhold til nr. 1 kan tillates med hensyn til forflytning, lagring og bruk av kategori 2- og 3-materiale til fôring, herunder dersom ny risiko oppstår, og
+2. vilkår for i visse tilfeller og som unntak fra forpliktelsen fastsatt i artikkel 21 nr. 1, å tillate bruk av kategori 1-materiale til fôring som nevnt i nr. 2 i denne artikkel, herunder:
+
+   1. truede eller vernede arter av åtselfugler og andre arter i visse medlemsstater som kan fôres med slikt materiale,
+   2. tiltak for å hindre risiko for folkehelsen og dyrehelsen.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 ###### Artikkel 19
 
 Innsamling, transport og disponering
 
-1\. Vedkommende myndighet kan som unntak fra artikkel 12–14 og 21 tillate disponeringved nedgraving av døde kjæledyr og dyr av hestefamilien,ved avfallsforbrenning eller nedgraving på stedet eller på andre måter under offentlig tilsyn som hindrer overføring av risiko for folkehelsen og dyrehelsen, av kategori 1-materiale nevnt i artikkel 8 bokstav a) v) og bokstav b) ii) og kategori 2- og 3-materiale i fjerntliggende områder,ved avfallsforbrenning eller nedgraving på stedet eller på andre måter under offentlig tilsyn som hindrer overføring av risiko for folkehelsen og dyrehelsen, av kategori 1-materiale nevnt i artikkel 8 bokstav b) ii) og kategori 2- og 3-materiale i områder som i praksis er utilgjengelige eller som bare vil være tilgjengelige under visse omstendigheter, på grunn av geografiske forhold, klimaforhold eller en naturkatastrofe, som utgjør en risiko for helsen og sikkerheten til personalet som foretar innsamling, eller der adgang ville kreve bruk av uforholdsmessig store innsamlingsressurser,på andre måter enn ved avfallsforbrenning eller nedgraving på stedet under offentlig tilsyn, når det gjelder kategori 2- og 3-materiale som ikke utgjør en risiko for folkehelsen og dyrehelsen, når materialmengden per uke ikke overstiger en bestemt mengde som er fastsatt i forhold til virksomhetens art og den dyrearten som de berørte animalske biproduktene kommer fra,ved avfallsforbrenning eller nedgraving på stedet på vilkår som hindrer overføring av risiko for folkehelsen og dyrehelsen, av andre animalske biprodukter enn kategori 1-materiale nevnt i artikkel 8 bokstav a) i) ved et utbrudd av en meldepliktig sykdom, dersom transport til nærmeste anlegg som er godkjent for bearbeiding eller disponering av de animalske biproduktene ville øke faren for spredning av helserisiko eller, ved et omfattende utbrudd av en epizooti, ville føre til manglende kapasitet ved slike anlegg, ogved avfallsforbrenning eller nedgraving på stedet på vilkår som hindrer overføring av risiko for folkehelsen og dyrehelsen, av bier og biprodukter fra biavl.
+1\. Vedkommende myndighet kan som unntak fra artikkel 12–14 og 21 tillate disponering
+
+1. ved nedgraving av døde kjæledyr og dyr av hestefamilien,
+2. ved avfallsforbrenning eller nedgraving på stedet eller på andre måter under offentlig tilsyn som hindrer overføring av risiko for folkehelsen og dyrehelsen, av kategori 1-materiale nevnt i artikkel 8 bokstav a) v) og bokstav b) ii) og kategori 2- og 3-materiale i fjerntliggende områder,
+3. ved avfallsforbrenning eller nedgraving på stedet eller på andre måter under offentlig tilsyn som hindrer overføring av risiko for folkehelsen og dyrehelsen, av kategori 1-materiale nevnt i artikkel 8 bokstav b) ii) og kategori 2- og 3-materiale i områder som i praksis er utilgjengelige eller som bare vil være tilgjengelige under visse omstendigheter, på grunn av geografiske forhold, klimaforhold eller en naturkatastrofe, som utgjør en risiko for helsen og sikkerheten til personalet som foretar innsamling, eller der adgang ville kreve bruk av uforholdsmessig store innsamlingsressurser,
+4. på andre måter enn ved avfallsforbrenning eller nedgraving på stedet under offentlig tilsyn, når det gjelder kategori 2- og 3-materiale som ikke utgjør en risiko for folkehelsen og dyrehelsen, når materialmengden per uke ikke overstiger en bestemt mengde som er fastsatt i forhold til virksomhetens art og den dyrearten som de berørte animalske biproduktene kommer fra,
+5. ved avfallsforbrenning eller nedgraving på stedet på vilkår som hindrer overføring av risiko for folkehelsen og dyrehelsen, av andre animalske biprodukter enn kategori 1-materiale nevnt i artikkel 8 bokstav a) i) ved et utbrudd av en meldepliktig sykdom, dersom transport til nærmeste anlegg som er godkjent for bearbeiding eller disponering av de animalske biproduktene ville øke faren for spredning av helserisiko eller, ved et omfattende utbrudd av en epizooti, ville føre til manglende kapasitet ved slike anlegg, og
+6. ved avfallsforbrenning eller nedgraving på stedet på vilkår som hindrer overføring av risiko for folkehelsen og dyrehelsen, av bier og biprodukter fra biavl.
 
 2\. Dyrebestanden av en bestemt art i de fjerntliggende områdene nevnt i nr. 1 bokstav b) skal ikke overstige en viss prosentdel av dyrebestanden av denne arten i den berørte medlemsstat.
 
-3\. Medlemsstatene skal for Kommisjonen gjøre tilgjengelig opplysninger omhvilke områder de klassifiserer som fjerntliggende områder ved gjennomføringen av nr. 1 bokstav b), og grunnene til denne klassifiseringen, og ajourførte opplysninger om eventuelle endringer av denne klassifiseringen, oghvordan de bruker tillatelsene omhandlet i nr. 1 bokstav c) og d) når det gjelder kategori 1- og 2-materiale.
+3\. Medlemsstatene skal for Kommisjonen gjøre tilgjengelig opplysninger om
 
-4\. Det skal fastsettes gjennomføringstiltak for denne artikkel med hensyn til følgende:vilkår som skal sikre kontroll av risiko for folkehelsen og dyrehelsen ved avfallsforbrenning eller nedgraving på stedet,den største tillatte prosentdelen av dyrebestanden i samsvar med nr. 2,mengden av animalske biprodukter i forhold til aktivitetenes art og den dyrearten som de berørte animalske biproduktene kommer fra, i samsvar med nr. 1 bokstav d), oglisten over sykdommer nevnt i nr. 1 bokstav e).Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+1. hvilke områder de klassifiserer som fjerntliggende områder ved gjennomføringen av nr. 1 bokstav b), og grunnene til denne klassifiseringen, og ajourførte opplysninger om eventuelle endringer av denne klassifiseringen, og
+2. hvordan de bruker tillatelsene omhandlet i nr. 1 bokstav c) og d) når det gjelder kategori 1- og 2-materiale.
+
+4\. Det skal fastsettes gjennomføringstiltak for denne artikkel med hensyn til følgende:
+
+1. vilkår som skal sikre kontroll av risiko for folkehelsen og dyrehelsen ved avfallsforbrenning eller nedgraving på stedet,
+2. den største tillatte prosentdelen av dyrebestanden i samsvar med nr. 2,
+3. mengden av animalske biprodukter i forhold til aktivitetenes art og den dyrearten som de berørte animalske biproduktene kommer fra, i samsvar med nr. 1 bokstav d), og
+4. listen over sykdommer nevnt i nr. 1 bokstav e).
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 ### Avsnitt 4
 Alternative metoder
@@ -629,17 +1015,28 @@ Godkjenning av alternative metoder
 
 1\. Framgangsmåten for godkjenning av en alternativ metode for bruk eller disponering av animalske biprodukter eller avledede produkter kan innledes av Kommisjonen eller etter søknad fra en medlemsstat eller en berørt part, som kan representere flere berørte parter.
 
-2\. Berørte parter skal sende sine søknader til vedkommende myndighet i den medlemsstat der de har til hensikt å anvende den alternative metoden.Vedkommende myndighet skal innen en frist på to måneder fra en fullstendig søknad er mottatt, vurdere om søknaden er i samsvar med standardformatet for søknader nevnt i nr. 10.
+2\. Berørte parter skal sende sine søknader til vedkommende myndighet i den medlemsstat der de har til hensikt å anvende den alternative metoden.
+
+Vedkommende myndighet skal innen en frist på to måneder fra en fullstendig søknad er mottatt, vurdere om søknaden er i samsvar med standardformatet for søknader nevnt i nr. 10.
 
 3\. Vedkommende myndighet skal oversende medlemsstatenes og berørte parters søknader sammen med en rapport om sin vurdering til Den europeiske myndighet for næringsmiddeltrygghet (EFSA) og underrette Kommisjonen om dette.
 
 4\. Når Kommisjonen innleder framgangsmåten for godkjenning, skal den sende en rapport om sin vurdering til EFSA.
 
-5\. EFSA skal innen seks måneder etter mottakelsen av en fullstendig søknad vurdere om den framlagte metoden sikrer at risiko for folkehelsen og dyrehelsenkontrolleres på en måte som hindrer spredning før disponering i samsvar med denne forordning eller dens gjennomføringstiltak, ellerreduseres til et nivå som, for den relevante kategorien av animalske biprodukter, minst tilsvarer nivået som oppnåsmed bearbeidingsmetodene fastsatt i henhold til artikkel 15 nr. 1 første ledd bokstav b).EFSA skal avgi en uttalelse om den framlagte søknaden.
+5\. EFSA skal innen seks måneder etter mottakelsen av en fullstendig søknad vurdere om den framlagte metoden sikrer at risiko for folkehelsen og dyrehelsen
 
-6\. I behørig begrunnede tilfeller kan EFSA anmode søkerne om ytterligere opplysninger, og i så fall skal fristen fastsatt i nr. 5 forlenges.EFTA skal etter samråd med Kommisjonen eller søkeren fastsette en frist for å framlegge disse opplysningene til EFTA, og skal underrette Kommisjonen og søkeren, etter det som er relevant, om hvor lang forlengelse av fristen som kreves.
+1. kontrolleres på en måte som hindrer spredning før disponering i samsvar med denne forordning eller dens gjennomføringstiltak, eller
+2. reduseres til et nivå som, for den relevante kategorien av animalske biprodukter, minst tilsvarer nivået som oppnåsmed bearbeidingsmetodene fastsatt i henhold til artikkel 15 nr. 1 første ledd bokstav b).
 
-7\. Når søkere ønsker å oversende ytterligere opplysninger på eget initiativ, skal de sende det direkte til EFSA.I så fall skal fristen fastsatt i nr. 5 ikke forlenges.
+EFSA skal avgi en uttalelse om den framlagte søknaden.
+
+6\. I behørig begrunnede tilfeller kan EFSA anmode søkerne om ytterligere opplysninger, og i så fall skal fristen fastsatt i nr. 5 forlenges.
+
+EFTA skal etter samråd med Kommisjonen eller søkeren fastsette en frist for å framlegge disse opplysningene til EFTA, og skal underrette Kommisjonen og søkeren, etter det som er relevant, om hvor lang forlengelse av fristen som kreves.
+
+7\. Når søkere ønsker å oversende ytterligere opplysninger på eget initiativ, skal de sende det direkte til EFSA.
+
+I så fall skal fristen fastsatt i nr. 5 ikke forlenges.
 
 8\. EFSA skal oversende sin uttalelse til Kommisjonen, søkeren og den berørte myndighet i den berørte medlemsstat.
 
@@ -647,7 +1044,12 @@ Godkjenning av alternative metoder
 
 10\. Et standardformat for søknader om anvendelse av alternative metoder skal vedtas etter framgangsmåten med rådgivende komité fastsatt i artikkel 52 nr. 2.
 
-11\. Etter at uttalelsen fra EFSA er mottatt, skal følgende vedtas:enten et tiltak som innebærer godkjenning av en alternativ metode for bruk eller disponering av animalske biprodukter eller avledede produkter, elleret tiltak som innebærer at en slik alternativ metode ikke godkjennes.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+11\. Etter at uttalelsen fra EFSA er mottatt, skal følgende vedtas:
+
+1. enten et tiltak som innebærer godkjenning av en alternativ metode for bruk eller disponering av animalske biprodukter eller avledede produkter, eller
+2. et tiltak som innebærer at en slik alternativ metode ikke godkjennes.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 ### AVDELING II
 DRIFTSANSVARLIGES FORPLIKTELSER
@@ -664,25 +1066,49 @@ Innsamling og identifisering med hensyn til kategori og transport
 
 1\. Driftsansvarlige skal innsamle, identifisere og transportere animalske biprodukter uten unødig opphold på vilkår som hindrer at det oppstår risiko for folkehelsen og dyrehelsen.
 
-2\. Driftsansvarlige skal sikre at animalske biprodukter og avledede produkter under transport følges av et handelsdokument, eller dersom denne forordning eller et tiltak vedtatt i samsvar med nr. 6 krever det, et hygienesertifikat.Som unntak fra første ledd kan vedkommende myndighet tillate transport av husdyrgjødsel mellom to steder på samme driftsenhet, eller mellom driftsenheter og brukere av husdyrgjødsel i samme medlemsstat, uten et handelsdokument eller hygienesertifikat.
+2\. Driftsansvarlige skal sikre at animalske biprodukter og avledede produkter under transport følges av et handelsdokument, eller dersom denne forordning eller et tiltak vedtatt i samsvar med nr. 6 krever det, et hygienesertifikat.
 
-3\. Handelsdokumenter og hygienesertifikater som følger animalske biprodukter eller avledede produkter under transport, skal minst inneholde opplysninger om produktenes opprinnelse, bestemmelsessted og mengde, og en beskrivelse av de animalske biproduktene eller avledede produktene og merkingen av dem, når slik merking kreves i henhold til denne forordning.For animalske biprodukter og avledede produkter som transporteres innenfor en medlemsstats territorium, kan imidlertid vedkommende myndighet i den berørte medlemsstat tillate at opplysningene nevnt i første ledd overføres ved hjelp av et alternativt system.
+Som unntak fra første ledd kan vedkommende myndighet tillate transport av husdyrgjødsel mellom to steder på samme driftsenhet, eller mellom driftsenheter og brukere av husdyrgjødsel i samme medlemsstat, uten et handelsdokument eller hygienesertifikat.
+
+3\. Handelsdokumenter og hygienesertifikater som følger animalske biprodukter eller avledede produkter under transport, skal minst inneholde opplysninger om produktenes opprinnelse, bestemmelsessted og mengde, og en beskrivelse av de animalske biproduktene eller avledede produktene og merkingen av dem, når slik merking kreves i henhold til denne forordning.
+
+For animalske biprodukter og avledede produkter som transporteres innenfor en medlemsstats territorium, kan imidlertid vedkommende myndighet i den berørte medlemsstat tillate at opplysningene nevnt i første ledd overføres ved hjelp av et alternativt system.
 
 4\. Driftsansvarlige skal innsamle, transportere og disponere kjøkken- og matavfall i kategori 3, i samsvar med nasjonale tiltak omhandlet i artikkel 13 i direktiv [2008/98/EF](eu/32008l0098).
 
-5\. Følgende skal fastsettes etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3:maler for handelsdokumenter som skal følge animalske biprodukter under transport, ogmaler for hygienesertifikater og vilkår for hvordan disse skal følge animalske biprodukter og avledede produkter under transport.
+5\. Følgende skal fastsettes etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3:
 
-6\. Det kan fastsettes gjennomføringstiltak for denne artikkel med hensyn til følgende:tilfeller der det kreves et hygienesertifikat i lys av den risiko for folkehelsen og dyrehelsen som visse avledede produkter utgjør,tilfeller der avledede produkter som unntak fra nr. 2 første ledd kan transporteres uten handelsdokumenter eller hygienesertifikater nevnt der, i lys av den lave risikoen som visse animalske biprodukter eller avledede produkter utgjør for folkehelsen og dyrehelsen,krav om identifisering, herunder merking, og om atskillelse av ulike kategorier av animalske biprodukter under transport, ogvilkår for å hindre at risiko for folkehelsen og dyrehelsen oppstår under innsamling og transport av animalske biprodukter, herunder vilkår for sikker transport av disse produktene når det gjelder beholdere, kjøretøyer og emballasje.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+1. maler for handelsdokumenter som skal følge animalske biprodukter under transport, og
+2. maler for hygienesertifikater og vilkår for hvordan disse skal følge animalske biprodukter og avledede produkter under transport.
+
+6\. Det kan fastsettes gjennomføringstiltak for denne artikkel med hensyn til følgende:
+
+1. tilfeller der det kreves et hygienesertifikat i lys av den risiko for folkehelsen og dyrehelsen som visse avledede produkter utgjør,
+2. tilfeller der avledede produkter som unntak fra nr. 2 første ledd kan transporteres uten handelsdokumenter eller hygienesertifikater nevnt der, i lys av den lave risikoen som visse animalske biprodukter eller avledede produkter utgjør for folkehelsen og dyrehelsen,
+3. krav om identifisering, herunder merking, og om atskillelse av ulike kategorier av animalske biprodukter under transport, og
+4. vilkår for å hindre at risiko for folkehelsen og dyrehelsen oppstår under innsamling og transport av animalske biprodukter, herunder vilkår for sikker transport av disse produktene når det gjelder beholdere, kjøretøyer og emballasje.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 ###### Artikkel 22
 
 Sporbarhet
 
-1\. Driftsansvarlige som sender, transporterer eller mottar animalske biprodukter eller avledede produkter, skal føre register over forsendelsene og de tilhørende handelsdokumentene eller hygienesertifikatene.Første ledd får imidlertid ikke anvendelse når en tillatelse til å transportere animalske biprodukter eller avledede produkter uten handelsdokumenter eller hygienesertifikater er gitt i samsvar med artikkel 21 nr. 2 annet ledd eller med gjennomføringstiltak vedtatt i henhold til artikkel 21 nr. 6 bokstav b).
+1\. Driftsansvarlige som sender, transporterer eller mottar animalske biprodukter eller avledede produkter, skal føre register over forsendelsene og de tilhørende handelsdokumentene eller hygienesertifikatene.
 
-2\. De driftsansvarlige nevnt i nr. 1 skal ha innført systemer og framgangsmåter for å identifiserede andre driftsansvarlige som deres animalske biprodukter eller avledede produkter er levert til, ogde driftsansvarlige som de har fått leveringer fra.Disse opplysningene skal stilles til rådighet for vedkommende myndighet på anmodning.
+Første ledd får imidlertid ikke anvendelse når en tillatelse til å transportere animalske biprodukter eller avledede produkter uten handelsdokumenter eller hygienesertifikater er gitt i samsvar med artikkel 21 nr. 2 annet ledd eller med gjennomføringstiltak vedtatt i henhold til artikkel 21 nr. 6 bokstav b).
 
-3\. Gjennomføringstiltak for denne artikkel kan vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3, og særlig med hensyn tilopplysningene som skal stilles til rådighet for vedkommende myndigheter,hvor lenge disse opplysningene skal oppbevares.
+2\. De driftsansvarlige nevnt i nr. 1 skal ha innført systemer og framgangsmåter for å identifisere
+
+1. de andre driftsansvarlige som deres animalske biprodukter eller avledede produkter er levert til, og
+2. de driftsansvarlige som de har fått leveringer fra.
+
+Disse opplysningene skal stilles til rådighet for vedkommende myndighet på anmodning.
+
+3\. Gjennomføringstiltak for denne artikkel kan vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3, og særlig med hensyn til
+
+1. opplysningene som skal stilles til rådighet for vedkommende myndigheter,
+2. hvor lenge disse opplysningene skal oppbevares.
 
 ### Avsnitt 2
 Registrering og godkjenning
@@ -691,31 +1117,82 @@ Registrering og godkjenning
 
 Registrering av driftsansvarlige, virksomheter eller anlegg
 
-1\. For registreringsformål skal driftsansvarligefør de innleder sin virksomhet, underrette vedkommende myndighet om alle virksomheter eller anlegg som de har kontroll over og som deltar i framstilling, transport, håndtering, bearbeiding, lagring, omsetning, distribusjon, bruk eller disponering av animalske biprodukter eller avledede produkter,oversende vedkommende myndigheter opplysninger omhvilken kategori av animalske biprodukter eller avledede produkter som de har kontroll over,hvilken type virksomhet som utøves med animalske biprodukter eller avledede produkter som utgangsmateriale.
+1\. For registreringsformål skal driftsansvarlige
+
+1. før de innleder sin virksomhet, underrette vedkommende myndighet om alle virksomheter eller anlegg som de har kontroll over og som deltar i framstilling, transport, håndtering, bearbeiding, lagring, omsetning, distribusjon, bruk eller disponering av animalske biprodukter eller avledede produkter,
+2. oversende vedkommende myndigheter opplysninger om
+
+   1. hvilken kategori av animalske biprodukter eller avledede produkter som de har kontroll over,
+   2. hvilken type virksomhet som utøves med animalske biprodukter eller avledede produkter som utgangsmateriale.
 
 2\. Driftsansvarlige skal oversende vedkommende myndighet ajourførte opplysninger om alle virksomheter eller anlegg som de har kontroll over i henhold til nr. 1 bokstav a), herunder enhver vesentlig endring i aktivitetene, for eksempel nedleggelse av en eksisterende virksomhet eller et eksisterende anlegg.
 
 3\. Nærmere regler for registrering i henhold til nr. 1 kan vedtas etter framgangsmåten fastsatt i artikkel 52 nr. 3.
 
-4\. Som unntak fra nr. 1 skal framstilling av animalske biprodukter i virksomhet som allerede er godkjent eller registrert i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*) eller forordning [(EF) nr. 853/2004](eu/32004r0853*), ikke anses som virksomhet som må meldes for registrering, og dette skal også gjelde for aktiviteter i virksomheter eller anlegg som allerede er godkjent i samsvar med artikkel 24 i denne forordning.Samme unntak skal gjelde for aktiviteter som utelukkende innebærer framstilling av animalske biprodukter på stedet og gjennomføres i driftsenheter eller andre steder der dyr holdes, oppdrettes eller stelles.
+4\. Som unntak fra nr. 1 skal framstilling av animalske biprodukter i virksomhet som allerede er godkjent eller registrert i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*) eller forordning [(EF) nr. 853/2004](eu/32004r0853*), ikke anses som virksomhet som må meldes for registrering, og dette skal også gjelde for aktiviteter i virksomheter eller anlegg som allerede er godkjent i samsvar med artikkel 24 i denne forordning.
+
+Samme unntak skal gjelde for aktiviteter som utelukkende innebærer framstilling av animalske biprodukter på stedet og gjennomføres i driftsenheter eller andre steder der dyr holdes, oppdrettes eller stelles.
 
 ###### Artikkel 24
 
 Godkjenning av virksomheter eller anlegg
 
-1\. Driftsansvarlige skal sikre at virksomheter eller anlegg som de har kontroll over, godkjennes av vedkommende myndighet når en av følgende aktiviteter gjennomføres i virksomheten eller anlegget:bearbeiding av animalske biprodukter med trykksterilisering, med bearbeidingsmetoder nevnt i artikkel 15 nr. 1 første ledd bokstav b) eller med alternative metoder som er godkjent i samsvar med artikkel 20,disponering som avfall ved avfallsforbrenning, av animalske biprodukter og avledede produkter, med unntak av virksomheter eller anlegg med driftstillatelse i henhold til direktiv [2000/76/EF](eu/32000l0076*),disponering eller gjenvinning av animalske biprodukter og avledede produkter ved samforbrenning, dersom de er avfall, med unntak av virksomheter og anlegg med driftstillatelse i henhold til direktiv [2000/76/EF](eu/32000l0076*),bruk av animalske biprodukter og avledede produkter som brensel i forbrenningsprosessen,framstilling av fôr til kjæledyr,framstilling av organisk gjødsel og jordforbedringsmidler,omdanning av animalske biprodukter og/eller avledede produkter til biogass eller kompost,håndtering av animalske biprodukter etter at de er samlet inn, ved hjelp av aktiviteter som sortering, skjæring, kjøling, frysing, salting, fjerning av huder og skinn eller av særskilt risikomateriale,lagring av animalske biprodukter,lagring av avledede produkter som er beregnet pådisponering på fyllplass eller ved avfallsforbrenning, eller beregnet på gjenvinning eller disponering ved samforbrenning,brukes som brensel i forbrenningsprosessen,brukes som fôr, med unntak av virksomheter eller anlegg som er godkjent eller registrert i samsvar med forordning [(EF) nr. 183/2005](eu/32005r0183),brukes som organisk gjødsel og jordforbedringsmidler, med unntak av lagring på et sted der de skal brukes direkte.
+1\. Driftsansvarlige skal sikre at virksomheter eller anlegg som de har kontroll over, godkjennes av vedkommende myndighet når en av følgende aktiviteter gjennomføres i virksomheten eller anlegget:
 
-2\. I godkjenningen nevnt i nr. 1 skal det angis om virksomheten eller anlegget er godkjent for aktiviteter med animalske biprodukter og/eller avledede produkter somtilhører en bestemt kategori nevnt i artikkel 8, 9 eller 10, ellertilhører flere enn én kategori nevnt i artikkel 8, 9 eller 10, med angivelse av om disse aktivitetene gjennomførespermanent under forhold med streng atskillelse som hindrer risiko for folkehelsen og dyrehelsen, ellermidlertidig under forhold som hindrer kontaminering, for å bøte på manglende kapasitet for slike produkter på grunn avet omfattende utbrudd av en epizooti, ellerandre ekstraordinære og uforutsette omstendigheter.
+1. bearbeiding av animalske biprodukter med trykksterilisering, med bearbeidingsmetoder nevnt i artikkel 15 nr. 1 første ledd bokstav b) eller med alternative metoder som er godkjent i samsvar med artikkel 20,
+2. disponering som avfall ved avfallsforbrenning, av animalske biprodukter og avledede produkter, med unntak av virksomheter eller anlegg med driftstillatelse i henhold til direktiv [2000/76/EF](eu/32000l0076*),
+3. disponering eller gjenvinning av animalske biprodukter og avledede produkter ved samforbrenning, dersom de er avfall, med unntak av virksomheter og anlegg med driftstillatelse i henhold til direktiv [2000/76/EF](eu/32000l0076*),
+4. bruk av animalske biprodukter og avledede produkter som brensel i forbrenningsprosessen,
+5. framstilling av fôr til kjæledyr,
+6. framstilling av organisk gjødsel og jordforbedringsmidler,
+7. omdanning av animalske biprodukter og/eller avledede produkter til biogass eller kompost,
+8. håndtering av animalske biprodukter etter at de er samlet inn, ved hjelp av aktiviteter som sortering, skjæring, kjøling, frysing, salting, fjerning av huder og skinn eller av særskilt risikomateriale,
+9. lagring av animalske biprodukter,
+10. lagring av avledede produkter som er beregnet på
+
+    1. disponering på fyllplass eller ved avfallsforbrenning, eller beregnet på gjenvinning eller disponering ved samforbrenning,
+    2. brukes som brensel i forbrenningsprosessen,
+    3. brukes som fôr, med unntak av virksomheter eller anlegg som er godkjent eller registrert i samsvar med forordning [(EF) nr. 183/2005](eu/32005r0183),
+    4. brukes som organisk gjødsel og jordforbedringsmidler, med unntak av lagring på et sted der de skal brukes direkte.
+
+2\. I godkjenningen nevnt i nr. 1 skal det angis om virksomheten eller anlegget er godkjent for aktiviteter med animalske biprodukter og/eller avledede produkter som
+
+1. tilhører en bestemt kategori nevnt i artikkel 8, 9 eller 10, eller
+2. tilhører flere enn én kategori nevnt i artikkel 8, 9 eller 10, med angivelse av om disse aktivitetene gjennomføres
+
+   1. permanent under forhold med streng atskillelse som hindrer risiko for folkehelsen og dyrehelsen, eller
+   2. midlertidig under forhold som hindrer kontaminering, for å bøte på manglende kapasitet for slike produkter på grunn av
+
+      - et omfattende utbrudd av en epizooti, eller
+      - andre ekstraordinære og uforutsette omstendigheter.
 
 ###### Artikkel 25
 
 Allmenne hygieneregler
 
-1\. Driftsansvarlige skal sikre at virksomheter eller anlegg som de har kontroll over og som gjennomfører aktivitetene nevnt i artikkel 24 nr. 1 bokstav a) og h),er utformet på en måte som muliggjør effektiv rengjøring og desinfisering, og eventuelt at gulv er utformet slik at væske er lett å lede bort,har tilgang til egnede innretninger for å opprettholde egnet personlig hygiene, som toaletter, garderober og vaskeservanter for ansatte,er utstyrt med egnede innretninger for vern mot skadedyr, som insekter, gnagere og fugler,holder innretninger og utstyr i god stand og sikrer at måleutstyr kalibreres regelmessig, oghar innført egnede ordninger for rengjøring og desinfisering av beholdere og kjøretøyer for å unngå risiko for kontaminering.
+1\. Driftsansvarlige skal sikre at virksomheter eller anlegg som de har kontroll over og som gjennomfører aktivitetene nevnt i artikkel 24 nr. 1 bokstav a) og h),
 
-2\. Alle personer som arbeider på virksomheten eller anlegget nevnt i nr. 1, skal ha på seg egnede og rene klær, og om nødvendig vernetøy.Dersom det er relevant i en virksomhet eller et anlegg, skalpersoner som arbeider i den urene avdelingen, ikke ha adgang til den rene avdelingen med mindre de skifter arbeidstøy og skifter eller desinfiserer skotøy,utstyr og redskaper ikke overføres fra den urene avdelingen til den rene, med mindre de først er rengjort og desinfisert,den driftsansvarlige fastsette en rutine for personers bevegelser for å kontrollere disse bevegelsene, og beskrive hvordan fotbad og desinfisering av hjul gjennomføres på riktig måte.
+1. er utformet på en måte som muliggjør effektiv rengjøring og desinfisering, og eventuelt at gulv er utformet slik at væske er lett å lede bort,
+2. har tilgang til egnede innretninger for å opprettholde egnet personlig hygiene, som toaletter, garderober og vaskeservanter for ansatte,
+3. er utstyrt med egnede innretninger for vern mot skadedyr, som insekter, gnagere og fugler,
+4. holder innretninger og utstyr i god stand og sikrer at måleutstyr kalibreres regelmessig, og
+5. har innført egnede ordninger for rengjøring og desinfisering av beholdere og kjøretøyer for å unngå risiko for kontaminering.
 
-3\. I virksomheter eller anlegg som gjennomfører aktivitetene nevnt i artikkel 24 nr. 1 bokstav a), skalanimalske biprodukter håndteres på en slik måte at risiko for kontaminering unngås,animalske biprodukter bearbeides så snart som mulig. Etter bearbeiding skal avledede produkter håndteres og lagres på en slik måte at risiko for kontaminering unngås,der det er relevant, alle deler av animalske biprodukter og avledede produkter i forbindelse med bearbeiding av disse, behandles ved en bestemt temperatur i et bestemt tidsrom, og risiko for rekontaminering skal unngås,de driftsansvarlige regelmessig kontrollere de anvendte parametrene, særlig temperatur, trykk, tid og partikkelstørrelse, om nødvendig ved å bruke automatiske innretninger,det fastsettes rengjøringsrutiner for alle deler av virksomhetene eller anleggene, og disse skal dokumenteres.
+2\. Alle personer som arbeider på virksomheten eller anlegget nevnt i nr. 1, skal ha på seg egnede og rene klær, og om nødvendig vernetøy.
+
+Dersom det er relevant i en virksomhet eller et anlegg, skal
+
+1. personer som arbeider i den urene avdelingen, ikke ha adgang til den rene avdelingen med mindre de skifter arbeidstøy og skifter eller desinfiserer skotøy,
+2. utstyr og redskaper ikke overføres fra den urene avdelingen til den rene, med mindre de først er rengjort og desinfisert,
+3. den driftsansvarlige fastsette en rutine for personers bevegelser for å kontrollere disse bevegelsene, og beskrive hvordan fotbad og desinfisering av hjul gjennomføres på riktig måte.
+
+3\. I virksomheter eller anlegg som gjennomfører aktivitetene nevnt i artikkel 24 nr. 1 bokstav a), skal
+
+1. animalske biprodukter håndteres på en slik måte at risiko for kontaminering unngås,
+2. animalske biprodukter bearbeides så snart som mulig. Etter bearbeiding skal avledede produkter håndteres og lagres på en slik måte at risiko for kontaminering unngås,
+3. der det er relevant, alle deler av animalske biprodukter og avledede produkter i forbindelse med bearbeiding av disse, behandles ved en bestemt temperatur i et bestemt tidsrom, og risiko for rekontaminering skal unngås,
+4. de driftsansvarlige regelmessig kontrollere de anvendte parametrene, særlig temperatur, trykk, tid og partikkelstørrelse, om nødvendig ved å bruke automatiske innretninger,
+5. det fastsettes rengjøringsrutiner for alle deler av virksomhetene eller anleggene, og disse skal dokumenteres.
 
 ###### Artikkel 26
 
@@ -731,7 +1208,20 @@ Håndtering av animalske biprodukter i næringsmiddelforetak
 
 Gjennomføringstiltak
 
-Det skal fastsettes gjennomføringstiltak for dette avsnitt og avsnitt 1 i dette kapittel med hensyn til følgende:hvilke krav til infrastruktur og utstyr som skal gjelde i virksomheter eller anlegg,hvilke hygienekrav som skal gjelde for alle typer håndtering av animalske biprodukter og avledede produkter, herunder tiltak for å endre hygienekrav til virksomheter og anlegg nevnt i artikkel 25 nr. 1,vilkår for og tekniske krav til håndtering, behandling, omdanning, bearbeiding og lagring av animalske biprodukter eller avledede produkter samt vilkår for behandling av spillvann,hvilken dokumentasjon som den driftsansvarlige skal framlegge med sikte på validering av behandlingen, omdanningen og bearbeidingen av animalske biprodukter eller avledede produkter, når det gjelder evnen til å unngå at det oppstår risiko for folkehelsen og dyrehelsen i forbindelse med disse aktivitetene,vilkår for håndtering av animalske biprodukter eller avledede produkter fra flere enn én kategori nevnt i artikkel 8–10 i samme virksomhet eller anleggdersom disse aktivitetene foregår atskilt,dersom disse aktivitetene foregår midlertidig under visse omstendigheter,vilkår for å unngå krysskontaminering når animalske biprodukter lagres, behandles eller bearbeides i en egen del av en virksomhet eller et anlegg nevnt i artikkel 26,standardparametrer for omdanning av biogass- og komposteringsanlegg,hvilke krav som gjelder for avfallsforbrenning eller samforbrenning i anlegg med høy og lav kapasitet, som nevnt i artikkel 24 nr. 1 bokstav b) og c), oghvilke krav som gjelder for forbrenning av animalske biprodukter og avledede produkter som nevnt i artikkel 24 nr. 1 bokstav d).
+Det skal fastsettes gjennomføringstiltak for dette avsnitt og avsnitt 1 i dette kapittel med hensyn til følgende:
+
+1. hvilke krav til infrastruktur og utstyr som skal gjelde i virksomheter eller anlegg,
+2. hvilke hygienekrav som skal gjelde for alle typer håndtering av animalske biprodukter og avledede produkter, herunder tiltak for å endre hygienekrav til virksomheter og anlegg nevnt i artikkel 25 nr. 1,
+3. vilkår for og tekniske krav til håndtering, behandling, omdanning, bearbeiding og lagring av animalske biprodukter eller avledede produkter samt vilkår for behandling av spillvann,
+4. hvilken dokumentasjon som den driftsansvarlige skal framlegge med sikte på validering av behandlingen, omdanningen og bearbeidingen av animalske biprodukter eller avledede produkter, når det gjelder evnen til å unngå at det oppstår risiko for folkehelsen og dyrehelsen i forbindelse med disse aktivitetene,
+5. vilkår for håndtering av animalske biprodukter eller avledede produkter fra flere enn én kategori nevnt i artikkel 8–10 i samme virksomhet eller anlegg
+
+   1. dersom disse aktivitetene foregår atskilt,
+   2. dersom disse aktivitetene foregår midlertidig under visse omstendigheter,
+6. vilkår for å unngå krysskontaminering når animalske biprodukter lagres, behandles eller bearbeides i en egen del av en virksomhet eller et anlegg nevnt i artikkel 26,
+7. standardparametrer for omdanning av biogass- og komposteringsanlegg,
+8. hvilke krav som gjelder for avfallsforbrenning eller samforbrenning i anlegg med høy og lav kapasitet, som nevnt i artikkel 24 nr. 1 bokstav b) og c), og
+9. hvilke krav som gjelder for forbrenning av animalske biprodukter og avledede produkter som nevnt i artikkel 24 nr. 1 bokstav d).
 
 Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
@@ -748,9 +1238,22 @@ Driftsansvarlige skal innføre, gjennomføre og opprettholde egenkontroll i sine
 
 Fareanalyse og kritiske kontrollpunkter
 
-1\. Driftsansvarlige som utfører en av følgende virksomheter skal innføre, gjennomføre og opprettholde en eller flere permanente skriftlige framgangsmåter på grunnlag av prinsippene for fareanalyse og kritiske kontrollpunkter (HACCP) for følgende:bearbeiding av animalske biprodukter,omdanning av animalske biprodukter til biogass og kompost,håndtering og lagring av flere enn én kategori av animalske biprodukter eller avledede produkter i samme virksomhet eller anlegg,framstilling av fôr til kjæledyr.
+1\. Driftsansvarlige som utfører en av følgende virksomheter skal innføre, gjennomføre og opprettholde en eller flere permanente skriftlige framgangsmåter på grunnlag av prinsippene for fareanalyse og kritiske kontrollpunkter (HACCP) for følgende:
 
-2\. Driftsansvarlige som angitt i nr. 1 skal særligidentifisere alle farer som må hindres, fjernes eller reduseres til et akseptabelt nivå,identifisere de kritiske kontrollpunktene på det eller de trinn der kontroll er viktig for å hindre eller fjerne en fare eller redusere den til et akseptabelt nivå,fastsette kritiske grenser for kritiske kontrollpunkter som skiller det som kan aksepteres, fra det som ikke kan aksepteres, for å hindre, fjerne eller redusere identifiserte farer,fastsette og gjennomføre effektive framgangsmåter for overvåking av kritiske kontrollpunkter,fastsette korrigerende tiltak når overvåkingen viser at et kritisk kontrollpunkt ikke er under kontroll,innføre framgangsmåter for å verifisere at tiltakene som beskrives i bokstav a)–e), er fullstendige og fungerer effektivt. Verifisering skal utføres regelmessig,innføre dokumenter og registrering som er tilpasset foretakets art og størrelse, for å vise at tiltakene som beskrives i bokstav a)–f), anvendes effektivt.
+1. bearbeiding av animalske biprodukter,
+2. omdanning av animalske biprodukter til biogass og kompost,
+3. håndtering og lagring av flere enn én kategori av animalske biprodukter eller avledede produkter i samme virksomhet eller anlegg,
+4. framstilling av fôr til kjæledyr.
+
+2\. Driftsansvarlige som angitt i nr. 1 skal særlig
+
+1. identifisere alle farer som må hindres, fjernes eller reduseres til et akseptabelt nivå,
+2. identifisere de kritiske kontrollpunktene på det eller de trinn der kontroll er viktig for å hindre eller fjerne en fare eller redusere den til et akseptabelt nivå,
+3. fastsette kritiske grenser for kritiske kontrollpunkter som skiller det som kan aksepteres, fra det som ikke kan aksepteres, for å hindre, fjerne eller redusere identifiserte farer,
+4. fastsette og gjennomføre effektive framgangsmåter for overvåking av kritiske kontrollpunkter,
+5. fastsette korrigerende tiltak når overvåkingen viser at et kritisk kontrollpunkt ikke er under kontroll,
+6. innføre framgangsmåter for å verifisere at tiltakene som beskrives i bokstav a)–e), er fullstendige og fungerer effektivt. Verifisering skal utføres regelmessig,
+7. innføre dokumenter og registrering som er tilpasset foretakets art og størrelse, for å vise at tiltakene som beskrives i bokstav a)–f), anvendes effektivt.
 
 3\. Når det gjøres endringer i produktet, prosessen eller et av trinnene i produksjonen, bearbeidingen, lagringen og distribusjonen, skal driftsansvarlige gjennomgå framgangsmåtene på nytt og foreta de nødvendige endringer.
 
@@ -762,7 +1265,10 @@ Nasjonale retningslinjer for god praksis
 
 1\. Ved behov skal vedkommende myndigheter fremme utvikling, spredning og frivillig bruk av nasjonale retningslinjer for god praksis, særlig når det gjelder anvendelsen av HACCP-prinsippene nevnt i artikkel 29. Driftsansvarlige kan bruke disse retningslinjene på frivillig grunnlag.
 
-2\. Vedkommende myndighet skal vurdere nasjonale retningslinjer for å sikre atde er utarbeidet i samråd med representanter fra de partene hvis interesser kan bli betydelig berørt, og at de er formidlet til de sektorene de gjelder for, oginnholdet i dem er praktisk gjennomførbart i de sektorene de gjelder for.
+2\. Vedkommende myndighet skal vurdere nasjonale retningslinjer for å sikre at
+
+1. de er utarbeidet i samråd med representanter fra de partene hvis interesser kan bli betydelig berørt, og at de er formidlet til de sektorene de gjelder for, og
+2. innholdet i dem er praktisk gjennomførbart i de sektorene de gjelder for.
 
 ### KAPITTEL II
 Omsetning
@@ -774,9 +1280,15 @@ Animalske biprodukter og avledede produkter til bruk i fôr til andre produksjon
 
 Omsetning
 
-1\. Animalske biprodukter og avledede produkter som er beregnet på bruk i fôr til andre produksjonsdyr enn pelsdyr, kan bringes i omsetning bare dersomde utgjør eller er framstilt av annet kategori 3-materiale enn materiale nevnt i artikkel 10 bokstav n)–p),de er samlet inn eller bearbeidet i samsvar med vilkårene for trykksterilisering eller andre vilkår for å hindre at det oppstår risiko for folkehelsen og dyrehelsen, i samsvar med tiltak vedtatt i henhold til artikkel 15 og eventuelle tiltak som er fastsatt i samsvar med artikkel 2 i denne artikkel, ogde kommer fra godkjente eller registrerte virksomheter eller anlegg, avhengig av hvilken type animalsk biprodukt eller avledet produkt det gjelder.
+1\. Animalske biprodukter og avledede produkter som er beregnet på bruk i fôr til andre produksjonsdyr enn pelsdyr, kan bringes i omsetning bare dersom
 
-2\. Det kan fastsettes gjennomføringstiltak for denne artikkel med hensyn til de vilkår for folkehelsen og dyrehelsen som skal anvendes ved innsamling, bearbeiding og behandling av animalske biprodukter og avledede produkter nevnt i nr. 1.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+1. de utgjør eller er framstilt av annet kategori 3-materiale enn materiale nevnt i artikkel 10 bokstav n)–p),
+2. de er samlet inn eller bearbeidet i samsvar med vilkårene for trykksterilisering eller andre vilkår for å hindre at det oppstår risiko for folkehelsen og dyrehelsen, i samsvar med tiltak vedtatt i henhold til artikkel 15 og eventuelle tiltak som er fastsatt i samsvar med artikkel 2 i denne artikkel, og
+3. de kommer fra godkjente eller registrerte virksomheter eller anlegg, avhengig av hvilken type animalsk biprodukt eller avledet produkt det gjelder.
+
+2\. Det kan fastsettes gjennomføringstiltak for denne artikkel med hensyn til de vilkår for folkehelsen og dyrehelsen som skal anvendes ved innsamling, bearbeiding og behandling av animalske biprodukter og avledede produkter nevnt i nr. 1.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 ### Avsnitt 2
 Organisk gjødsel og jordforbedringsmidler
@@ -785,11 +1297,28 @@ Organisk gjødsel og jordforbedringsmidler
 
 Omsetning og bruk
 
-1\. Organisk gjødsel og jordforbedringsmidler kan bringes i omsetning og brukes, forutsatt atde er framstilt av kategori 2- eller 3-materiale,de er framstilt i samsvar med vilkårene for trykksterilisering eller andre vilkår for å hindre at det oppstår risiko for folkehelsen og dyrehelsen, i samsvar med tiltak vedtatt i henhold til artikkel 15 og eventuelle tiltak som er fastsatt i samsvar med nr. 3 i denne artikkel, ogde kommer fra godkjente eller registrerte virksomheter eller anlegg, etter det som er relevant, ogde, dersom det gjelder kjøttbeinmel framstilt av kategori 2-materiale og bearbeidede animalske proteiner beregnet på bruk som eller i organisk gjødsel og jordforbedringsmidler, er blitt blandet med en bestanddel for å utelukke at blandingen senere brukes som fôr, og ved behov er merket i samsvar med tiltak vedtatt i henhold til nr. 3.I tillegg kan råtnerester fra omdanning til biogass eller kompost bringes i omsetning og brukes som organisk gjødsel eller jordforbedringsmiddel.Medlemsstatene kan vedta eller opprettholde nasjonale regler som pålegger ytterligere vilkår for å begrense bruken av organisk gjødsel og jordforbedringsmidler, forutsatt at reglene er berettiget ut fra hensynet til vern av folkehelsen og dyrehelsen.
+1\. Organisk gjødsel og jordforbedringsmidler kan bringes i omsetning og brukes, forutsatt at
+
+1. de er framstilt av kategori 2- eller 3-materiale,
+2. de er framstilt i samsvar med vilkårene for trykksterilisering eller andre vilkår for å hindre at det oppstår risiko for folkehelsen og dyrehelsen, i samsvar med tiltak vedtatt i henhold til artikkel 15 og eventuelle tiltak som er fastsatt i samsvar med nr. 3 i denne artikkel, og
+3. de kommer fra godkjente eller registrerte virksomheter eller anlegg, etter det som er relevant, og
+4. de, dersom det gjelder kjøttbeinmel framstilt av kategori 2-materiale og bearbeidede animalske proteiner beregnet på bruk som eller i organisk gjødsel og jordforbedringsmidler, er blitt blandet med en bestanddel for å utelukke at blandingen senere brukes som fôr, og ved behov er merket i samsvar med tiltak vedtatt i henhold til nr. 3.
+
+I tillegg kan råtnerester fra omdanning til biogass eller kompost bringes i omsetning og brukes som organisk gjødsel eller jordforbedringsmiddel.
+
+Medlemsstatene kan vedta eller opprettholde nasjonale regler som pålegger ytterligere vilkår for å begrense bruken av organisk gjødsel og jordforbedringsmidler, forutsatt at reglene er berettiget ut fra hensynet til vern av folkehelsen og dyrehelsen.
 
 2\. Som unntak fra nr. 1 bokstav d) skal det ikke kreves blanding dersom materiale som følge av sammensetningen eller emballasjen, ikke kan brukes som fôr.
 
-3\. Det kan fastsettes gjennomføringstiltak for denne artikkel med hensyn til følgende:vilkår for folkehelsen og dyrehelsen i forbindelse med framstilling og bruk av organisk gjødsel og jordforbedringsmidler,bestanddeler eller stoffer til merking av organisk gjødsel eller jordforbedringsmidler,bestanddeler som skal blandes med organisk gjødsel eller jordforbedringsmidler,ytterligere vilkår, for eksempel de metoder som skal anvendes til merking og de laveste andeler som skal gjelde ved tilberedning av blandingen, for å utelukke at slik gjødsel eller slike jordforbedringsmidler brukes som fôr, ogtilfeller der materialet som følge av sammensetningen eller emballasjen kan unntas fra kravet om blanding.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+3\. Det kan fastsettes gjennomføringstiltak for denne artikkel med hensyn til følgende:
+
+1. vilkår for folkehelsen og dyrehelsen i forbindelse med framstilling og bruk av organisk gjødsel og jordforbedringsmidler,
+2. bestanddeler eller stoffer til merking av organisk gjødsel eller jordforbedringsmidler,
+3. bestanddeler som skal blandes med organisk gjødsel eller jordforbedringsmidler,
+4. ytterligere vilkår, for eksempel de metoder som skal anvendes til merking og de laveste andeler som skal gjelde ved tilberedning av blandingen, for å utelukke at slik gjødsel eller slike jordforbedringsmidler brukes som fôr, og
+5. tilfeller der materialet som følge av sammensetningen eller emballasjen kan unntas fra kravet om blanding.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 ### Avsnitt 3
 Avledede produkter som omfattes av annet fellesskapsregelverk
@@ -798,13 +1327,22 @@ Avledede produkter som omfattes av annet fellesskapsregelverk
 
 Omsetning
 
-Driftsansvarlige kan bringe følgende avledede produkter i omsetning:kosmetiske produkter som definert i artikkel 1 nr. 1 i direktiv [76/768/EØF](eu/31976l0768*),aktive implanterbare medisinske innretninger som definert i artikkel 1 nr. 2 bokstav c) i direktiv [90/385/EØF](eu/31990l0385*),medisinsk utstyr som definert i artikkel 1 nr. 2 bokstav a) i direktiv [93/42/EØF](eu/31993l0042),medisinsk utstyr til in vitro-diagnostikk som definert i artikkel 1 nr. 2 bokstav b) i direktiv [98/79/EF](eu/31998l0079*),veterinærpreparater som definert i artikkel 1 nr. 2 i direktiv [2001/82/EF](eu/32001l0082),legemidler som definert i artikkel 1 nr. 2 i direktiv [2001/83/EF](eu/32001l0083).
+Driftsansvarlige kan bringe følgende avledede produkter i omsetning:
+
+1. kosmetiske produkter som definert i artikkel 1 nr. 1 i direktiv [76/768/EØF](eu/31976l0768*),
+2. aktive implanterbare medisinske innretninger som definert i artikkel 1 nr. 2 bokstav c) i direktiv [90/385/EØF](eu/31990l0385*),
+3. medisinsk utstyr som definert i artikkel 1 nr. 2 bokstav a) i direktiv [93/42/EØF](eu/31993l0042),
+4. medisinsk utstyr til in vitro-diagnostikk som definert i artikkel 1 nr. 2 bokstav b) i direktiv [98/79/EF](eu/31998l0079*),
+5. veterinærpreparater som definert i artikkel 1 nr. 2 i direktiv [2001/82/EF](eu/32001l0082),
+6. legemidler som definert i artikkel 1 nr. 2 i direktiv [2001/83/EF](eu/32001l0083).
 
 ###### Artikkel 34
 
 Framstilling
 
-1\. Import, innsamling og forflytning av animalske biprodukter og avledede produkter som skal leveres til virksomheter eller anlegg med sikte på framstilling av de avledede produktene nevnt i artikkel 33, og framstilling av slike avledede produkter skal skje i samsvar med det fellesskapsregelverk som er nevnt i den artikkelen.Ubrukt materiale fra slike virksomheter eller anlegg skal disponeres i samsvar med nevnte regelverk.
+1\. Import, innsamling og forflytning av animalske biprodukter og avledede produkter som skal leveres til virksomheter eller anlegg med sikte på framstilling av de avledede produktene nevnt i artikkel 33, og framstilling av slike avledede produkter skal skje i samsvar med det fellesskapsregelverk som er nevnt i den artikkelen.
+
+Ubrukt materiale fra slike virksomheter eller anlegg skal disponeres i samsvar med nevnte regelverk.
 
 2\. Denne forordning får imidlertid anvendelse dersom det i fellesskapsregelverket nevnt i artikkel 33 ikke fastsettes vilkår for kontroll av mulig risiko for folkehelsen og dyrehelsen i samsvar med målene i denne forordning.
 
@@ -815,21 +1353,46 @@ Andre avledede produkter
 
 Omsetning av fôr til kjæledyr
 
-Driftsansvarlige kan bringe fôr til kjæledyr i omsetning, forutsatt atproduktene er framstilt avannet kategori 3-materiale enn materiale nevnt i artikkel 10 bokstav n)–p),kategori 1-materiale som nevnt i artikkel 8 bokstav c), på vilkår fastsatt i henhold til artikkel 40 nr. 1 bokstav a), dersom det gjelder importert fôr til kjæledyr eller fôr til kjæledyr framstilt av importert materiale, ellermateriale som nevnt i artikkel 10 bokstav a) og artikkel 10 bokstav b) i) og ii), dersom det gjelder rått fôr til kjæledyr, ogde sikrer at risiko for folkehelsen og dyrehelsen kontrolleres gjennom sikker behandling i samsvar med artikkel 38, dersom anvendelse av sikre kilder i henhold til artikkel 37 ikke sikrer tilstrekkelig kontroll.
+Driftsansvarlige kan bringe fôr til kjæledyr i omsetning, forutsatt at
+
+1. produktene er framstilt av
+
+   1. annet kategori 3-materiale enn materiale nevnt i artikkel 10 bokstav n)–p),
+   2. kategori 1-materiale som nevnt i artikkel 8 bokstav c), på vilkår fastsatt i henhold til artikkel 40 nr. 1 bokstav a), dersom det gjelder importert fôr til kjæledyr eller fôr til kjæledyr framstilt av importert materiale, eller
+   3. materiale som nevnt i artikkel 10 bokstav a) og artikkel 10 bokstav b) i) og ii), dersom det gjelder rått fôr til kjæledyr, og
+2. de sikrer at risiko for folkehelsen og dyrehelsen kontrolleres gjennom sikker behandling i samsvar med artikkel 38, dersom anvendelse av sikre kilder i henhold til artikkel 37 ikke sikrer tilstrekkelig kontroll.
 
 ###### Artikkel 36
 
 Omsetning av andre avledede produkter
 
-Driftsansvarlige kan omsette andre avledede produkter enn produktene nevnt i artikkel 31–33 og 35, forutsatt atdisse produkteneikke er beregnet brukt som fôr til produksjonsdyr eller til spredning på jord som fôr til slike dyr kommer fra, ellerer beregnet brukt som fôr til pelsdyr, ogde sikrer at risiko for folkehelsen og dyrehelsen kontrolleres gjennomanvendelse av sikre kilder i samsvar med artikkel 37,sikker behandling i samsvar med artikkel 38, dersom sikre kilder ikke sikrer tilstrekkelig kontroll, ellerverifisering av at produktene brukes bare for sikker sluttbruk i samsvar med artikkel 39, dersom sikker behandling ikke sikrer tilstrekkelig kontroll.
+Driftsansvarlige kan omsette andre avledede produkter enn produktene nevnt i artikkel 31–33 og 35, forutsatt at
+
+1. disse produktene
+
+   1. ikke er beregnet brukt som fôr til produksjonsdyr eller til spredning på jord som fôr til slike dyr kommer fra, eller
+   2. er beregnet brukt som fôr til pelsdyr, og
+2. de sikrer at risiko for folkehelsen og dyrehelsen kontrolleres gjennom
+
+   1. anvendelse av sikre kilder i samsvar med artikkel 37,
+   2. sikker behandling i samsvar med artikkel 38, dersom sikre kilder ikke sikrer tilstrekkelig kontroll, eller
+   3. verifisering av at produktene brukes bare for sikker sluttbruk i samsvar med artikkel 39, dersom sikker behandling ikke sikrer tilstrekkelig kontroll.
 
 ###### Artikkel 37
 
 Anvendelse av sikre kilder
 
-1\. Anvendelse av sikre kilder skal omfatte bruk av materialesom ikke utgjør en uakseptabel risiko for folkehelsen og dyrehelsen,som er samlet inn og transportert fra innsamlingsstedet til framstillingsvirksomheten eller -anlegget under forhold som utelukker risiko for folkehelsen og dyrehelsen, ellersom er importert til Fellesskapet og transportert fra stedet der det først innføres til Fellesskapet, til framstillingsvirksomheten eller -anlegget, under forhold som utelukker risiko for folkehelsen og dyrehelsen.
+1\. Anvendelse av sikre kilder skal omfatte bruk av materiale
 
-2\. I forbindelse med anvendelse av sikre kilder skal driftsansvarlige dokumentere at kravene i nr. 1 er oppfylt, herunder ved behov dokumentere sikkerheten ved biosikkerhetstiltak som er truffet for å utelukke at utgangsmaterialet innebærer risiko for folkehelsen og dyrehelsen.Dokumentasjonen skal stilles til rådighet for vedkommende myndighet på anmodning.I tilfellet nevnt i nr. 1 bokstav c) skal forsendelsene følges av et hygienesertifikat etter en modell som vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3.
+1. som ikke utgjør en uakseptabel risiko for folkehelsen og dyrehelsen,
+2. som er samlet inn og transportert fra innsamlingsstedet til framstillingsvirksomheten eller -anlegget under forhold som utelukker risiko for folkehelsen og dyrehelsen, eller
+3. som er importert til Fellesskapet og transportert fra stedet der det først innføres til Fellesskapet, til framstillingsvirksomheten eller -anlegget, under forhold som utelukker risiko for folkehelsen og dyrehelsen.
+
+2\. I forbindelse med anvendelse av sikre kilder skal driftsansvarlige dokumentere at kravene i nr. 1 er oppfylt, herunder ved behov dokumentere sikkerheten ved biosikkerhetstiltak som er truffet for å utelukke at utgangsmaterialet innebærer risiko for folkehelsen og dyrehelsen.
+
+Dokumentasjonen skal stilles til rådighet for vedkommende myndighet på anmodning.
+
+I tilfellet nevnt i nr. 1 bokstav c) skal forsendelsene følges av et hygienesertifikat etter en modell som vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3.
 
 ###### Artikkel 38
 
@@ -843,13 +1406,23 @@ Det skal særlig gjennom prøving av sluttproduktet sikres at det avledede produ
 
 Sikker sluttbruk
 
-Sikker sluttbruk skal omfatte bruk av avledede produkterunder forhold som ikke utgjør en uakseptabel risiko for folkehelsen og dyrehelsen, ellersom kan utgjøre en risiko for folkehelsen og dyrehelsen, for særskilte formål, forutsatt at bruken er berettiget av hensyn til mål fastsatt i Fellesskapets regelverk, særlig med sikte på å verne folkehelsen og dyrehelsen.
+Sikker sluttbruk skal omfatte bruk av avledede produkter
+
+1. under forhold som ikke utgjør en uakseptabel risiko for folkehelsen og dyrehelsen, eller
+2. som kan utgjøre en risiko for folkehelsen og dyrehelsen, for særskilte formål, forutsatt at bruken er berettiget av hensyn til mål fastsatt i Fellesskapets regelverk, særlig med sikte på å verne folkehelsen og dyrehelsen.
 
 ###### Artikkel 40
 
 Gjennomføringstiltak
 
-Det kan fastsettes gjennomføringstiltak for dette avsnitt med hensyn til følgende:vilkår for å bringe i omsetning importert fôr til kjæledyr eller fôr til kjæledyr som er framstilt av importert materiale, fra kategori 1-materiale nevnt i artikkel 8 bokstav c),vilkår for sikker anvendelse av sikre kilder og sikker forflytning av materiale som skal brukes under forhold som utelukker risiko for folkehelsen og dyrehelsen,dokumentasjon som nevnt i artikkel 37 nr. 2 første ledd,parametrer for produksjonsprosessen som nevnt i artikkel 38 første ledd, særlig med hensyn til fysisk eller kjemisk behandling av det anvendte materialet,krav til prøving av sluttproduktet, ogvilkår for sikker bruk av framstilte produkter som utgjør en risiko for folkehelsen eller dyrehelsen.
+Det kan fastsettes gjennomføringstiltak for dette avsnitt med hensyn til følgende:
+
+1. vilkår for å bringe i omsetning importert fôr til kjæledyr eller fôr til kjæledyr som er framstilt av importert materiale, fra kategori 1-materiale nevnt i artikkel 8 bokstav c),
+2. vilkår for sikker anvendelse av sikre kilder og sikker forflytning av materiale som skal brukes under forhold som utelukker risiko for folkehelsen og dyrehelsen,
+3. dokumentasjon som nevnt i artikkel 37 nr. 2 første ledd,
+4. parametrer for produksjonsprosessen som nevnt i artikkel 38 første ledd, særlig med hensyn til fysisk eller kjemisk behandling av det anvendte materialet,
+5. krav til prøving av sluttproduktet, og
+6. vilkår for sikker bruk av framstilte produkter som utgjør en risiko for folkehelsen eller dyrehelsen.
 
 Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
@@ -858,19 +1431,59 @@ Import, transitt og eksport
 
 ### Artikkel 41. Import og transitt
 
-1\. Animalske biprodukter og avledede produkter skal importeres til eller sendes i transitt gjennom Fellesskapet i samsvar medde krav i denne forordning og dens gjennomføringstiltak som er relevante for det berørte animalske biproduktet eller det avledede produktet, og som er minst like strenge som dem som gjelder for framstilling og omsetning av slike animalske biprodukter eller avledede produkter i Fellesskapet,vilkår som er anerkjent som minst like strenge som de kravene som gjelder for framstilling og omsetning av slike animalske biprodukter eller avledede produkter i henhold til Fellesskapets regelverk, ellernår det gjelder de animalske biproduktene og de avledede produktene som er nevnt i artikkel 33, 35 og 36, de kravene som er fastsatt i disse artiklene.Tiltakene nevnt i første ledd bokstav b), som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+1\. Animalske biprodukter og avledede produkter skal importeres til eller sendes i transitt gjennom Fellesskapet i samsvar med
 
-2\. Som unntak fra nr. 1 skal import og transitt avspesifisert risikomateriale bare skje i samsvar med forordning [(EF) nr. 999/2001](eu/32001r0999),animalske biprodukter eller avledede produkter som er blandet eller kontaminert med avfall som er oppført som farlig i vedtak [2000/532/EF](eu/32000d0532), bare skje i henhold til kravene i forordning [(EF) nr. 1013/2006](eu/32006r1013*),kategori 1-materiale, kategori 2-materiale og avledede produkter som ikke er beregnet på framstilling av avledede produkter nevnt i artikkel 33, 35 og 36, bare skje dersom regler for import av dem er vedtatt i samsvar med artikkel 42 nr. 2 bokstav a),animalske biprodukter og avledede produkter som er beregnet for formålene nevnt i artikkel 17 nr. 1, bare skje i samsvar med nasjonale tiltak som sikrer at risikoen for folkehelsen og dyrehelsen kontrolleres, inntil harmoniserte vilkår nevnt i artikkel 17 nr. 2 er vedtatt.
+1. de krav i denne forordning og dens gjennomføringstiltak som er relevante for det berørte animalske biproduktet eller det avledede produktet, og som er minst like strenge som dem som gjelder for framstilling og omsetning av slike animalske biprodukter eller avledede produkter i Fellesskapet,
+2. vilkår som er anerkjent som minst like strenge som de kravene som gjelder for framstilling og omsetning av slike animalske biprodukter eller avledede produkter i henhold til Fellesskapets regelverk, eller
+3. når det gjelder de animalske biproduktene og de avledede produktene som er nevnt i artikkel 33, 35 og 36, de kravene som er fastsatt i disse artiklene.
 
-3\. Når det gjelder import og transitt av kategori 3-materiale og avledede produkter, skal de relevante kravene i henhold til nr. 1 første ledd bokstav a) fastsettes.I disse kravene kan det angis at forsendelserskal komme fra en tredjestat eller en del av en tredjestat som er oppført på en liste i samsvar med nr. 4,skal komme fra virksomheter eller anlegg som er godkjent eller registrert av vedkommende myndighet i opprinnelsestredjestaten og oppført på en liste av denne myndighet for dette formål, ogved det innførselsstedet til Fellesskapet der veterinærkontrollen finner sted, skal følges av dokumentasjon, for eksempel et handelsdokument eller et hygienesertifikat og, dersom det er relevant, en erklæring som er utarbeidet etter en modell fastsatt i henhold til artikkel 42 nr. 2 første ledd bokstav d).Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.Inntil det er vedtatt krav som nevnt i annet ledd bokstav a) og c), skal medlemsstatene fastsette kravene i nasjonale tiltak.
+Tiltakene nevnt i første ledd bokstav b), som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
-4\. Lister over tredjestater eller deler av tredjestater som animalske biprodukter eller avledede produkter kan importeres eller sendes i transitt gjennom Fellesskapet fra, skal utarbeides etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3, idet det tas særlig hensyn til følgende:tredjestatens lovgivning,hvordan vedkommende myndighet og dennes kontrollmyndighet i tredjestaten er bygd opp, hvilke fullmakter de har, hvilket tilsyn de er underlagt og hvilken myndighet de har til å kontrollere anvendelsen av sin lovgivning på en effektiv måte,de faktiske hygienekravene som anvendes ved produksjon, framstilling, håndtering, lagring og sending av produkter av animalsk opprinnelse beregnet på Fellesskapet,de garantier som tredjestater kan gi når det gjelder overholdelse av de relevante hygienekravene,erfaring fra omsetningen av produktet fra tredjestaten og resultatene av importkontrollene som er utført,resultatet av eventuelle fellesskapsinspeksjoner i tredjestaten,helsetilstanden for bestanden, andre husdyr og ville dyr i tredjestaten, særlig med hensyn til eksotiske dyresykdommer og alle aspekter ved den generelle helsetilstanden i landet som kan innebære en risiko for folkehelsen og dyrehelsen i Fellesskapet,hvor raskt og regelmessig tredjestaten gir opplysninger om forekomst av smittsomme dyresykdommer på sitt territorium, særlig sykdommene oppført i Verdens dyrehelseorganisasjons helseregelverk for landdyr og for vanndyr,tredjestatens gjeldende regler for forebygging og bekjempelse av smittsomme dyresykdommer samt anvendelsen av disse, herunder reglene for import fra andre tredjestater.Listene over virksomheter eller anlegg nevnt i nr. 3 annet ledd bokstav b) skal ajourføres og oversendes til Kommisjonen og medlemsstatene samt gjøres tilgjengelige for allmennheten.
+2\. Som unntak fra nr. 1 skal import og transitt av
+
+1. spesifisert risikomateriale bare skje i samsvar med forordning [(EF) nr. 999/2001](eu/32001r0999),
+2. animalske biprodukter eller avledede produkter som er blandet eller kontaminert med avfall som er oppført som farlig i vedtak [2000/532/EF](eu/32000d0532), bare skje i henhold til kravene i forordning [(EF) nr. 1013/2006](eu/32006r1013*),
+3. kategori 1-materiale, kategori 2-materiale og avledede produkter som ikke er beregnet på framstilling av avledede produkter nevnt i artikkel 33, 35 og 36, bare skje dersom regler for import av dem er vedtatt i samsvar med artikkel 42 nr. 2 bokstav a),
+4. animalske biprodukter og avledede produkter som er beregnet for formålene nevnt i artikkel 17 nr. 1, bare skje i samsvar med nasjonale tiltak som sikrer at risikoen for folkehelsen og dyrehelsen kontrolleres, inntil harmoniserte vilkår nevnt i artikkel 17 nr. 2 er vedtatt.
+
+3\. Når det gjelder import og transitt av kategori 3-materiale og avledede produkter, skal de relevante kravene i henhold til nr. 1 første ledd bokstav a) fastsettes.
+
+I disse kravene kan det angis at forsendelser
+
+1. skal komme fra en tredjestat eller en del av en tredjestat som er oppført på en liste i samsvar med nr. 4,
+2. skal komme fra virksomheter eller anlegg som er godkjent eller registrert av vedkommende myndighet i opprinnelsestredjestaten og oppført på en liste av denne myndighet for dette formål, og
+3. ved det innførselsstedet til Fellesskapet der veterinærkontrollen finner sted, skal følges av dokumentasjon, for eksempel et handelsdokument eller et hygienesertifikat og, dersom det er relevant, en erklæring som er utarbeidet etter en modell fastsatt i henhold til artikkel 42 nr. 2 første ledd bokstav d).
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+
+Inntil det er vedtatt krav som nevnt i annet ledd bokstav a) og c), skal medlemsstatene fastsette kravene i nasjonale tiltak.
+
+4\. Lister over tredjestater eller deler av tredjestater som animalske biprodukter eller avledede produkter kan importeres eller sendes i transitt gjennom Fellesskapet fra, skal utarbeides etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3, idet det tas særlig hensyn til følgende:
+
+1. tredjestatens lovgivning,
+2. hvordan vedkommende myndighet og dennes kontrollmyndighet i tredjestaten er bygd opp, hvilke fullmakter de har, hvilket tilsyn de er underlagt og hvilken myndighet de har til å kontrollere anvendelsen av sin lovgivning på en effektiv måte,
+3. de faktiske hygienekravene som anvendes ved produksjon, framstilling, håndtering, lagring og sending av produkter av animalsk opprinnelse beregnet på Fellesskapet,
+4. de garantier som tredjestater kan gi når det gjelder overholdelse av de relevante hygienekravene,
+5. erfaring fra omsetningen av produktet fra tredjestaten og resultatene av importkontrollene som er utført,
+6. resultatet av eventuelle fellesskapsinspeksjoner i tredjestaten,
+7. helsetilstanden for bestanden, andre husdyr og ville dyr i tredjestaten, særlig med hensyn til eksotiske dyresykdommer og alle aspekter ved den generelle helsetilstanden i landet som kan innebære en risiko for folkehelsen og dyrehelsen i Fellesskapet,
+8. hvor raskt og regelmessig tredjestaten gir opplysninger om forekomst av smittsomme dyresykdommer på sitt territorium, særlig sykdommene oppført i Verdens dyrehelseorganisasjons helseregelverk for landdyr og for vanndyr,
+9. tredjestatens gjeldende regler for forebygging og bekjempelse av smittsomme dyresykdommer samt anvendelsen av disse, herunder reglene for import fra andre tredjestater.
+
+Listene over virksomheter eller anlegg nevnt i nr. 3 annet ledd bokstav b) skal ajourføres og oversendes til Kommisjonen og medlemsstatene samt gjøres tilgjengelige for allmennheten.
 
 ### Artikkel 42. Gjennomføringstiltak
 
 1\. Gjennomføringstiltak for artikkel 41, som kan utelukke import eller transitt av animalske biprodukter eller avledede produkter som er framstilt i visse virksomheter eller anlegg, for å verne folkehelsen eller dyrehelsen, skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3.
 
-2\. Det skal fastsettes andre gjennomføringstiltak for artikkel 41 med hensyn til følgende:vilkår for import og transitt av kategori 1- og 2-materiale og for avledede produkter,Restriksjoner med hensyn til folkehelsen eller dyrehelsen for importert kategori 3-materiale eller avledede produkter, som kan fastsettes med henvisning til fellesskapslister over tredjestater eller deler av tredjestater, som er utarbeidet i samsvar med artikkel 41 nr. 4 eller for andre formål som gjelder folkehelsen eller dyrehelsen,vilkår for framstilling av animalske biprodukter eller avledede produkter i virksomheter eller anlegg i tredjestater; vilkårene kan omfatte nærmere bestemmelser om den berørte vedkommende myndighets kontroll av slike virksomheter eller anlegg, og de kan unnta visse typer virksomheter eller anlegg som håndterer animalske biprodukter eller avledede produkter, fra kravet om godkjenning eller registrering som er nevnt i artikkel 41 nr. 3 annet ledd bokstav b), ogmodeller for hygienesertifikater, handelsdokumenter og erklæringer som skal følge forsendelser, der det angis vilkår for å fastslå at de berørte animalske biproduktene eller de avledede produktene er samlet inn eller framstilt i samsvar med kravene i denne forordning.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+2\. Det skal fastsettes andre gjennomføringstiltak for artikkel 41 med hensyn til følgende:
+
+1. vilkår for import og transitt av kategori 1- og 2-materiale og for avledede produkter,
+2. Restriksjoner med hensyn til folkehelsen eller dyrehelsen for importert kategori 3-materiale eller avledede produkter, som kan fastsettes med henvisning til fellesskapslister over tredjestater eller deler av tredjestater, som er utarbeidet i samsvar med artikkel 41 nr. 4 eller for andre formål som gjelder folkehelsen eller dyrehelsen,
+3. vilkår for framstilling av animalske biprodukter eller avledede produkter i virksomheter eller anlegg i tredjestater; vilkårene kan omfatte nærmere bestemmelser om den berørte vedkommende myndighets kontroll av slike virksomheter eller anlegg, og de kan unnta visse typer virksomheter eller anlegg som håndterer animalske biprodukter eller avledede produkter, fra kravet om godkjenning eller registrering som er nevnt i artikkel 41 nr. 3 annet ledd bokstav b), og
+4. modeller for hygienesertifikater, handelsdokumenter og erklæringer som skal følge forsendelser, der det angis vilkår for å fastslå at de berørte animalske biproduktene eller de avledede produktene er samlet inn eller framstilt i samsvar med kravene i denne forordning.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 ### Artikkel 43. Eksport
 
@@ -878,11 +1491,16 @@ Import, transitt og eksport
 
 2\. Eksport av animalske biprodukter og avledede produkter til tredjestater som ikke er medlem i OECD, for bruk i et biogass- eller komposteringsanlegg, skal være forbudt.
 
-3\. Kategori 1-materiale, kategori 2-materiale og avledede produkter skal bare kunne eksporteres for andre formål enn dem som er nevnt i nr. 1 og 2, og bare dersom det er fastsatt regler for eksport av dem.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+3\. Kategori 1-materiale, kategori 2-materiale og avledede produkter skal bare kunne eksporteres for andre formål enn dem som er nevnt i nr. 1 og 2, og bare dersom det er fastsatt regler for eksport av dem.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 4\. Artikkel 12 i forordning [(EF) nr. 178/2002](eu/32002r0178), som gjelder næringsmidler og fôr som eksporteres fra Fellesskapet, får tilsvarende anvendelse for eksport av kategori 3-materiale eller avledede produkter i samsvar med denne forordning.
 
-5\. Som unntak fra nr. 3 og 4 skal eksport avspesifisert risikomateriale bare skje i samsvar med forordning [(EF) nr. 999/2001](eu/32001r0999),animalske biprodukter eller avledede produkter som er blandet eller kontaminert med avfall som er oppført som farlig i vedtak [2000/532/EF](eu/32000d0532), bare skje i henhold til kravene i forordning [(EF) nr. 1013/2006](eu/32006r1013*).
+5\. Som unntak fra nr. 3 og 4 skal eksport av
+
+1. spesifisert risikomateriale bare skje i samsvar med forordning [(EF) nr. 999/2001](eu/32001r0999),
+2. animalske biprodukter eller avledede produkter som er blandet eller kontaminert med avfall som er oppført som farlig i vedtak [2000/532/EF](eu/32000d0532), bare skje i henhold til kravene i forordning [(EF) nr. 1013/2006](eu/32006r1013*).
 
 ### AVDELING III
 OFFENTLIG KONTROLL OG SLUTTBESTEMMELSER
@@ -908,33 +1526,93 @@ Offentlig kontroll
 
 ### Artikkel 46. Midlertidig oppheving eller tilbakekalling av godkjenning, samt forbud mot virksomhet
 
-1\. Dersom vedkommende myndighet gjennom offentlig kontroll og overvåking fastslår at ett eller flere av kravene i denne forordning ikke er oppfylt, skal den treffe egnede tiltak.Vedkommende myndighet skal særlig, på en måte som er egnet i lys av hvor alvorlige manglene er, og av den mulige risikoen for folkehelsen og dyrehelsenmidlertidig oppheve godkjenninger av virksomheter eller anlegg som er godkjent i henhold til denne forordning, dersomvilkårene for godkjenning eller drift av virksomheten eller anlegget ikke lenger er oppfylt,den driftsansvarlige kan forventes å rette opp manglene i løpet av et rimelig tidsrom, ogden mulige risikoen for folkehelsen og dyrehelsen ikke krever tiltak i henhold til bokstav b),tilbakekalle godkjenninger av virksomheter eller anlegg som er godkjent i henhold til denne forordning, dersomvilkårene for godkjenning eller drift av virksomheten eller anlegget ikke lenger er oppfylt, ogden driftsansvarlige ikke kan forventes å rette opp manglene i løpet av et rimelig tidsromav grunner knyttet til virksomhetens eller anleggets infrastruktur,av grunner knyttet til den driftsansvarliges eller dennes personales personlige egenskaper, ellerpå grunn av alvorlig risiko for folkehelsen og dyrehelsen som krever omfattende driftsendringer i anlegget før den driftsansvarlige kan søke om fornyet godkjenning,pålegge virksomheter eller anlegg særlige vilkår for å rette opp eksisterende mangler.
+1\. Dersom vedkommende myndighet gjennom offentlig kontroll og overvåking fastslår at ett eller flere av kravene i denne forordning ikke er oppfylt, skal den treffe egnede tiltak.
 
-2\. I samsvar med det som er egnet i lys av hvor alvorlige manglene er, og av den mulige risikoen for folkehelsen og dyrehelsen, skal vedkommende myndighet midlertidig eller permanent forby driftsansvarlige nevnt i artikkel 23 nr. 1 og 3 og artikkel 24 nr. 1 å utføre aktiviteter i henhold til denne forordning, etter det som er relevant, når den har mottatt opplysninger som viserat kravene i Fellesskapets regelverk ikke er oppfylt, ogat slike aktiviteter innebærer mulig risiko for folkehelsen eller dyrehelsen.
+Vedkommende myndighet skal særlig, på en måte som er egnet i lys av hvor alvorlige manglene er, og av den mulige risikoen for folkehelsen og dyrehelsen
+
+1. midlertidig oppheve godkjenninger av virksomheter eller anlegg som er godkjent i henhold til denne forordning, dersom
+
+   1. vilkårene for godkjenning eller drift av virksomheten eller anlegget ikke lenger er oppfylt,
+   2. den driftsansvarlige kan forventes å rette opp manglene i løpet av et rimelig tidsrom, og
+   3. den mulige risikoen for folkehelsen og dyrehelsen ikke krever tiltak i henhold til bokstav b),
+2. tilbakekalle godkjenninger av virksomheter eller anlegg som er godkjent i henhold til denne forordning, dersom
+
+   1. vilkårene for godkjenning eller drift av virksomheten eller anlegget ikke lenger er oppfylt, og
+   2. den driftsansvarlige ikke kan forventes å rette opp manglene i løpet av et rimelig tidsrom
+
+      - av grunner knyttet til virksomhetens eller anleggets infrastruktur,
+      - av grunner knyttet til den driftsansvarliges eller dennes personales personlige egenskaper, eller
+      - på grunn av alvorlig risiko for folkehelsen og dyrehelsen som krever omfattende driftsendringer i anlegget før den driftsansvarlige kan søke om fornyet godkjenning,
+3. pålegge virksomheter eller anlegg særlige vilkår for å rette opp eksisterende mangler.
+
+2\. I samsvar med det som er egnet i lys av hvor alvorlige manglene er, og av den mulige risikoen for folkehelsen og dyrehelsen, skal vedkommende myndighet midlertidig eller permanent forby driftsansvarlige nevnt i artikkel 23 nr. 1 og 3 og artikkel 24 nr. 1 å utføre aktiviteter i henhold til denne forordning, etter det som er relevant, når den har mottatt opplysninger som viser
+
+1. at kravene i Fellesskapets regelverk ikke er oppfylt, og
+2. at slike aktiviteter innebærer mulig risiko for folkehelsen eller dyrehelsen.
 
 ### Artikkel 47. Lister
 
-1\. Hver medlemsstat skal utarbeide en liste over virksomheter, anlegg og driftsansvarlige på sitt territorium som er godkjent eller registrert i samsvar med denne forordning.Den skal tildele et offisielt nummer til alle godkjente eller registrerte virksomheter, anlegg eller driftsansvarlige, som identifiserer virksomheten, anlegget eller den driftsansvarlige med hensyn til den typen aktiviteter som utføres.Medlemsstatene skal eventuelt angi et offisielt nummer som virksomheten, anlegget eller den driftsansvarlige har fått tildelt i henhold til annet fellesskapsregelverk.Medlemsstatene skal gjøre listene over godkjente eller registrerte virksomheter, anlegg og driftsansvarlige tilgjengelige for Kommisjonen og de andre medlemsstatene.Medlemsstatene skal føre ajourførte lister over godkjente virksomheter, anlegg og driftsansvarlige, og gjøre dem tilgjengelige for de andre medlemsstatene og for allmennheten.
+1\. Hver medlemsstat skal utarbeide en liste over virksomheter, anlegg og driftsansvarlige på sitt territorium som er godkjent eller registrert i samsvar med denne forordning.
 
-2\. Gjennomføringstiltak for denne artikkel kan fastsettes etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3, særlig med hensyn tilformatet for listene nevnt i nr. 1, ogframgangsmåten for å gjøre listene nevnt i nr. 1 tilgjengelige.
+Den skal tildele et offisielt nummer til alle godkjente eller registrerte virksomheter, anlegg eller driftsansvarlige, som identifiserer virksomheten, anlegget eller den driftsansvarlige med hensyn til den typen aktiviteter som utføres.
+
+Medlemsstatene skal eventuelt angi et offisielt nummer som virksomheten, anlegget eller den driftsansvarlige har fått tildelt i henhold til annet fellesskapsregelverk.
+
+Medlemsstatene skal gjøre listene over godkjente eller registrerte virksomheter, anlegg og driftsansvarlige tilgjengelige for Kommisjonen og de andre medlemsstatene.
+
+Medlemsstatene skal føre ajourførte lister over godkjente virksomheter, anlegg og driftsansvarlige, og gjøre dem tilgjengelige for de andre medlemsstatene og for allmennheten.
+
+2\. Gjennomføringstiltak for denne artikkel kan fastsettes etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3, særlig med hensyn til
+
+1. formatet for listene nevnt i nr. 1, og
+2. framgangsmåten for å gjøre listene nevnt i nr. 1 tilgjengelige.
 
 ### Artikkel 48. Kontroll av forsendelser til andre medlemsstater
 
-1\. Når en driftsansvarlig har til hensikt å sende kategori 1-materiale, kategori 2-materiale og kjøttbeinmel eller animalsk fett framstilt av kategori 1- og kategori 2-materiale til en annen medlemsstat, skal vedkommende underrette vedkommende myndighet i opprinnelsesmedlemsstaten og i bestemmelsesmedlemsstaten om dette.Vedkommende myndighet i bestemmelsesmedlemsstaten skal etter søknad fra den driftsansvarlige innen en fastsatt frist beslutteå avvise forsendelsen,å godta forsendelsen uten vilkår, ellerå motta forsendelsen på følgende vilkår:dersom de avledede produktene ikke er blitt trykksterilisert, skal denne behandlingen foretas, ellerde animalske biproduktene eller avledede produkter skal oppfylle alle vilkår som er knyttet til sending av forsendelsen og som er begrunnet ut fra hensynet til vern av folkehelsen og dyrehelsen, for å sikre at animalske biprodukter og avledede produkter håndteres i samsvar med denne forordning.
+1\. Når en driftsansvarlig har til hensikt å sende kategori 1-materiale, kategori 2-materiale og kjøttbeinmel eller animalsk fett framstilt av kategori 1- og kategori 2-materiale til en annen medlemsstat, skal vedkommende underrette vedkommende myndighet i opprinnelsesmedlemsstaten og i bestemmelsesmedlemsstaten om dette.
+
+Vedkommende myndighet i bestemmelsesmedlemsstaten skal etter søknad fra den driftsansvarlige innen en fastsatt frist beslutte
+
+1. å avvise forsendelsen,
+2. å godta forsendelsen uten vilkår, eller
+3. å motta forsendelsen på følgende vilkår:
+
+   1. dersom de avledede produktene ikke er blitt trykksterilisert, skal denne behandlingen foretas, eller
+   2. de animalske biproduktene eller avledede produkter skal oppfylle alle vilkår som er knyttet til sending av forsendelsen og som er begrunnet ut fra hensynet til vern av folkehelsen og dyrehelsen, for å sikre at animalske biprodukter og avledede produkter håndteres i samsvar med denne forordning.
 
 2\. Formater for driftsansvarliges søknader i henhold til nr. 1 kan vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 52 nr. 3.
 
-3\. Vedkommende myndighet i opprinnelsesmedlemsstaten skal ved hjelp av TRACES-systemet i samsvar med vedtak [2004/292/EF](eu/32004d0292) underrette vedkommende myndighet i bestemmelsesmedlemsstaten om sending av alle forsendelser som sendes til bestemmelsesmedlemsstaten og som inneholderanimalske biprodukter eller avledede produkter nevnt i nr. 1,bearbeidet animalsk protein framstilt av kategori 3-materiale.Når vedkommende myndighet i bestemmelsesmedlemsstaten underrettes om forsendelsen, skal den gjennom TRACES-systemet underrette vedkommende myndighet i opprinnelsesmedlemsstaten om hver forsendelses ankomst.
+3\. Vedkommende myndighet i opprinnelsesmedlemsstaten skal ved hjelp av TRACES-systemet i samsvar med vedtak [2004/292/EF](eu/32004d0292) underrette vedkommende myndighet i bestemmelsesmedlemsstaten om sending av alle forsendelser som sendes til bestemmelsesmedlemsstaten og som inneholder
+
+1. animalske biprodukter eller avledede produkter nevnt i nr. 1,
+2. bearbeidet animalsk protein framstilt av kategori 3-materiale.
+
+Når vedkommende myndighet i bestemmelsesmedlemsstaten underrettes om forsendelsen, skal den gjennom TRACES-systemet underrette vedkommende myndighet i opprinnelsesmedlemsstaten om hver forsendelses ankomst.
 
 4\. Kategori 1- og kategori 2-materiale, kjøttbeinmel og animalsk fett nevnt i nr. 1 skal transporteres direkte til bestemmelsesvirksomheten eller -anlegget, som skal være registrert eller godkjent i henhold til artikkel 23, 24 og 44, eller, dersom det gjelder husdyrgjødsel, til bestemmelsesdriftsenheten.
 
-5\. Når animalske biprodukter eller avledede produkter sendes til en annen medlemsstat gjennom en tredjestats territorium, skal transporten skje i forsendelser som har blitt forseglet i opprinnelsesmedlemsstaten, og de skal følges av et hygienesertifikat.Forseglede forsendelser kan bare gjeninnføres til Fellesskapet over en grensekontrollstasjon, i samsvar med artikkel 6 i direktiv [89/662/EØF](eu/31989l0662*).
+5\. Når animalske biprodukter eller avledede produkter sendes til en annen medlemsstat gjennom en tredjestats territorium, skal transporten skje i forsendelser som har blitt forseglet i opprinnelsesmedlemsstaten, og de skal følges av et hygienesertifikat.
+
+Forseglede forsendelser kan bare gjeninnføres til Fellesskapet over en grensekontrollstasjon, i samsvar med artikkel 6 i direktiv [89/662/EØF](eu/31989l0662*).
 
 6\. Som unntak fra nr. 1–5 kan animalske biprodukter eller avledede produkter som er nevnt der, og som er blandet eller kontaminert med avfall som er oppført som farlig i vedtak [2000/532/EF](eu/32000d0532), bare sendes til en annen medlemsstat dersom kravene i forordning [(EF) nr. 1013/2006](eu/32006r1013*) er oppfylt.
 
-7\. Det kan vedtas gjennomføringstiltak for denne artikkel med hensyn til følgende:en bestemt frist for vedkommende myndighets beslutning som nevnt i nr. 1,ytterligere vilkår for sending av animalske biprodukter eller avledede produkter nevnt i nr. 4,modeller for hygienesertifikatene som skal følge forsendelser som sendes i samsvar med nr. 5, ogvilkår for når animalske biprodukter og avledede produkter som skal brukes i forbindelse med utstillinger, kunstnerisk virksomhet, diagnostikk, undervisning eller forskning, kan sendes til andre medlemsstater, som unntak fra nr. 1–5 i denne artikkel.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+7\. Det kan vedtas gjennomføringstiltak for denne artikkel med hensyn til følgende:
 
-8\. I gjennomføringstiltakene for denne artikkel kan det angis på hvilke vilkår vedkommende myndigheter som unntak fra nr. 1–4 kan tillatesending av husdyrgjødsel som transporteres mellom to steder på samme driftsenhet, eller mellom driftsenheter som ligger i grenseområder i medlemsstater som har en felles grense,sending av andre animalske biprodukter eller avledede produkter mellom virksomheter eller anlegg som ligger i grenseområder i medlemsstater som har en felles grense, ogtransport av døde kjæledyr som skal kremeres, til en virksomhet eller et anlegg som ligger i grenseområdet i en annen medlemsstat som har en felles grense med avsenderstaten.Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+1. en bestemt frist for vedkommende myndighets beslutning som nevnt i nr. 1,
+2. ytterligere vilkår for sending av animalske biprodukter eller avledede produkter nevnt i nr. 4,
+3. modeller for hygienesertifikatene som skal følge forsendelser som sendes i samsvar med nr. 5, og
+4. vilkår for når animalske biprodukter og avledede produkter som skal brukes i forbindelse med utstillinger, kunstnerisk virksomhet, diagnostikk, undervisning eller forskning, kan sendes til andre medlemsstater, som unntak fra nr. 1–5 i denne artikkel.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
+
+8\. I gjennomføringstiltakene for denne artikkel kan det angis på hvilke vilkår vedkommende myndigheter som unntak fra nr. 1–4 kan tillate
+
+1. sending av husdyrgjødsel som transporteres mellom to steder på samme driftsenhet, eller mellom driftsenheter som ligger i grenseområder i medlemsstater som har en felles grense,
+2. sending av andre animalske biprodukter eller avledede produkter mellom virksomheter eller anlegg som ligger i grenseområder i medlemsstater som har en felles grense, og
+3. transport av døde kjæledyr som skal kremeres, til en virksomhet eller et anlegg som ligger i grenseområdet i en annen medlemsstat som har en felles grense med avsenderstaten.
+
+Disse tiltakene, som er utformet for å endre ikke-vesentlige deler av denne forordning ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 52 nr. 4.
 
 ►**M2**
 
@@ -985,11 +1663,15 @@ Medlemsstatene skal oversende Kommisjonen teksten til de internrettslige bestemm
 
 2\. Når det vises til dette nummer, får artikkel 3 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
-3\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+3\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
 4\. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
-5\. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og nr. 5 bokstav b) samt artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Fristene fastsatt i artikkel 5a nr. 3 bokstav c) og nr. 4 bokstav b) og e) i beslutning [1999/468/EF](eu/31999d0468) skal være henholdsvis to måneder, en måned og to måneder.
+5\. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og nr. 5 bokstav b) samt artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+Fristene fastsatt i artikkel 5a nr. 3 bokstav c) og nr. 4 bokstav b) og e) i beslutning [1999/468/EF](eu/31999d0468) skal være henholdsvis to måneder, en måned og to måneder.
 
 6\. Når det vises til dette nummer, får artikkel 5a nr. 1, 2, 4 og 6 samt artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
@@ -1093,31 +1775,123 @@ Denne forordningen fastsetter sluttpunkter i produksjonskjeden for organisk gjø
 
 I denne forordningen får definisjonene fastsatt i vedlegg I i forordning [(EU) nr. 142/2011](eu/32011r0142) anvendelse.
 
-Videre menes med«EU-gjødselvare» en gjødselvare som definert i artikkel 2 nr. 2 i forordning [(EU) nr. 2019/1009](eu/32019r1009),«Sluttpunkt» et sluttpunkt i produksjonskjeden der et avledet produkt ikke lenger er omfattet av kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+Videre menes med
+
+1. «EU-gjødselvare» en gjødselvare som definert i artikkel 2 nr. 2 i forordning [(EU) nr. 2019/1009](eu/32019r1009),
+2. «Sluttpunkt» et sluttpunkt i produksjonskjeden der et avledet produkt ikke lenger er omfattet av kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 ### Artikkel 3. Sluttpunkt for visse typer organisk gjødsel og visse jordforbedringsmidler
 
-Følgende avledede produkter, unntatt de som er importert til Unionen, skal dersom de er produsert i et gjødselanlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), anses for å ha nådd sluttpunktet som organisk gjødsel og jordforbedringsmidler:Aske av kategori 2- og 3-materiale som oppfyller de generelle og særlige kravene fastsatt i vedlegg III til forordning [(EU) nr. 142/2011](eu/32011r0142).Rester fra omdanning av animalske biprodukter i et biogassanlegg som oppfyller kravene fastsatt i følgende bestemmelser i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142):Kapittel I avsnitt 1 nr. 1, nr. 2 bokstav a), b), c) og e) og nr. 3 og 4.Kapittel II.Kapittel III avsnitt 1 nr. 1 første og siste ledd og avsnitt 3 nr. 1.Kompost som oppfyller kravene fastsatt i følgende bestemmelser i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142):Kapittel I avsnitt 2 nr. 1, 3 og 4.Kapittel II.Kapittel III avsnitt 1 nr. 2 og avsnitt 3 nr. 1.Bearbeidet husdyrgjødsel og bearbeidet frass som oppfyller kravene fastsatt i kapittel I avsnitt 2 bokstav a), b) og d) i vedlegg XI til forordning [(EU) nr. 142/2011](eu/32011r0142).
+Følgende avledede produkter, unntatt de som er importert til Unionen, skal dersom de er produsert i et gjødselanlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), anses for å ha nådd sluttpunktet som organisk gjødsel og jordforbedringsmidler:
+
+1. Aske av kategori 2- og 3-materiale som oppfyller de generelle og særlige kravene fastsatt i vedlegg III til forordning [(EU) nr. 142/2011](eu/32011r0142).
+2. Rester fra omdanning av animalske biprodukter i et biogassanlegg som oppfyller kravene fastsatt i følgende bestemmelser i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142):
+
+   1. Kapittel I avsnitt 1 nr. 1, nr. 2 bokstav a), b), c) og e) og nr. 3 og 4.
+   2. Kapittel II.
+   3. Kapittel III avsnitt 1 nr. 1 første og siste ledd og avsnitt 3 nr. 1.
+3. Kompost som oppfyller kravene fastsatt i følgende bestemmelser i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142):
+
+   1. Kapittel I avsnitt 2 nr. 1, 3 og 4.
+   2. Kapittel II.
+   3. Kapittel III avsnitt 1 nr. 2 og avsnitt 3 nr. 1.
+4. Bearbeidet husdyrgjødsel og bearbeidet frass som oppfyller kravene fastsatt i kapittel I avsnitt 2 bokstav a), b) og d) i vedlegg XI til forordning [(EU) nr. 142/2011](eu/32011r0142).
 
 ### Artikkel 4. Sluttpunkt for visse typer organisk gjødsel og visse jordforbedringsmidler betinget av risikoreduserende tiltak
 
-1\. Følgende avledede produkter, unntatt de som er importert til Unionen, skal dersom de er produsert i et gjødselanlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), anses å ha nådd sluttpunktet som organisk gjødsel og jordforbedringsmidler dersom de brukes i EU-gjødselvaren i en andel på høyst 5 volumprosent:Glyserin av kategori 2- og 3-materiale og annet kategori 2-materiale som kommer fra biodieselprosesser og produksjon av fornybare drivstoffer, og som oppfyller kravene fastsatt i kapittel IV avsnitt 3 nr. 2 bokstav b), c) og f) i vedlegg IV til forordning [(EU) nr. 142/2011](eu/32011r0142).Kategori 3-materiale utenom glyserin, som oppfyller kravene fastsatt i kapittel IV avsnitt 3 nr. 2 bokstav b), c) og f) i vedlegg IV til forordning [(EU) nr. 142/2011](eu/32011r0142).Bearbeidet animalsk protein av kategori 3-materiale som oppfyller de særlige kravene til bearbeidet animalsk protein som er fastsatt i kapittel II avsnitt 1 punkt A nr. 1 og 2, punkt B nr. 3 bokstav a) og punkt C i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).Kjøttbeinmel av kategori 2-materiale bearbeidet ved standard bearbeidingsmetode 1 som fastsatt i kapittel III punkt A i vedlegg IV og merket med glyseroltriheptanoat (GTH) som fastsatt i kapittel V i vedlegg VIII til forordning [(EU) nr. 142/2011](eu/32011r0142).Blodprodukter av kategori 3-materiale som oppfyller de særlige kravene til blodprodukter fastsatt i kapittel II avsnitt 2 i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).Hydrolysert protein, herunder hydrolysert protein avledet fra rester fra lær- eller tekstilindustrien, som oppfyller de særlige kravene til hydrolysert protein fastsatt i kapittel II avsnitt 5 punkt D i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).Dikalsiumfosfat og trikalsiumfosfat som oppfyller de særlige kravene i henholdsvis avsnitt 6 og 7 i kapittel II i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).Horn, hornprodukter, hover og hovprodukter som oppfyller de særlige kravene fastsatt i kapittel XII i vedlegg XIII til forordning [(EU) nr. 142/2011](eu/32011r0142).
+1\. Følgende avledede produkter, unntatt de som er importert til Unionen, skal dersom de er produsert i et gjødselanlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), anses å ha nådd sluttpunktet som organisk gjødsel og jordforbedringsmidler dersom de brukes i EU-gjødselvaren i en andel på høyst 5 volumprosent:
 
-2\. De avledede produktene nevnt i nr. 1 i denne artikkelen som finnes i EU-gjødselvaren i en andel på mer enn 5 volumprosent, skal anses å ha nådd sluttpunktet som organisk gjødsel og jordforbedringsmidler dersom de er pakket i salgsklare pakninger til bruk for sluttbrukeren, er merket i samsvar med merkingskravene til EU-gjødselvarer som inneholder avledede produkter, som fastsatt i del I i vedlegg III til forordning [(EU) 2019/1009](eu/32019r1009), og oppfyller vilkårene fastsatt i enten følgende bokstav a) eller b):Pakningene veier ikke mer enn 50 kg.Pakningene veier ikke mer enn 1 000 kg, hvorav minst 10 volumprosent erkalk,mineralgjødsel elleravledede produkter nevnt i artikkel 3.
+1. Glyserin av kategori 2- og 3-materiale og annet kategori 2-materiale som kommer fra biodieselprosesser og produksjon av fornybare drivstoffer, og som oppfyller kravene fastsatt i kapittel IV avsnitt 3 nr. 2 bokstav b), c) og f) i vedlegg IV til forordning [(EU) nr. 142/2011](eu/32011r0142).
+2. Kategori 3-materiale utenom glyserin, som oppfyller kravene fastsatt i kapittel IV avsnitt 3 nr. 2 bokstav b), c) og f) i vedlegg IV til forordning [(EU) nr. 142/2011](eu/32011r0142).
+3. Bearbeidet animalsk protein av kategori 3-materiale som oppfyller de særlige kravene til bearbeidet animalsk protein som er fastsatt i kapittel II avsnitt 1 punkt A nr. 1 og 2, punkt B nr. 3 bokstav a) og punkt C i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).
+4. Kjøttbeinmel av kategori 2-materiale bearbeidet ved standard bearbeidingsmetode 1 som fastsatt i kapittel III punkt A i vedlegg IV og merket med glyseroltriheptanoat (GTH) som fastsatt i kapittel V i vedlegg VIII til forordning [(EU) nr. 142/2011](eu/32011r0142).
+5. Blodprodukter av kategori 3-materiale som oppfyller de særlige kravene til blodprodukter fastsatt i kapittel II avsnitt 2 i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).
+6. Hydrolysert protein, herunder hydrolysert protein avledet fra rester fra lær- eller tekstilindustrien, som oppfyller de særlige kravene til hydrolysert protein fastsatt i kapittel II avsnitt 5 punkt D i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).
+7. Dikalsiumfosfat og trikalsiumfosfat som oppfyller de særlige kravene i henholdsvis avsnitt 6 og 7 i kapittel II i vedlegg X til forordning [(EU) nr. 142/2011](eu/32011r0142).
+8. Horn, hornprodukter, hover og hovprodukter som oppfyller de særlige kravene fastsatt i kapittel XII i vedlegg XIII til forordning [(EU) nr. 142/2011](eu/32011r0142).
+
+2\. De avledede produktene nevnt i nr. 1 i denne artikkelen som finnes i EU-gjødselvaren i en andel på mer enn 5 volumprosent, skal anses å ha nådd sluttpunktet som organisk gjødsel og jordforbedringsmidler dersom de er pakket i salgsklare pakninger til bruk for sluttbrukeren, er merket i samsvar med merkingskravene til EU-gjødselvarer som inneholder avledede produkter, som fastsatt i del I i vedlegg III til forordning [(EU) 2019/1009](eu/32019r1009), og oppfyller vilkårene fastsatt i enten følgende bokstav a) eller b):
+
+1. Pakningene veier ikke mer enn 50 kg.
+2. Pakningene veier ikke mer enn 1 000 kg, hvorav minst 10 volumprosent er
+
+   1. kalk,
+   2. mineralgjødsel eller
+   3. avledede produkter nevnt i artikkel 3.
 
 ### Artikkel 5. Ikrafttredelse
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 22. mai 2023.*For Kommisjonen*
-Ursula von der Leyen
-*President*1 EUT L 300 av 14.11.2009, s. 1.2 Europaparlaments- og rådsforordning [(EU) 2019/1009](eu/32019r1009) av 5. juni 2019 om fastsettelse av regler for tilgjengeliggjøring på markedet av EU-gjødselvarer, om endring av forordning [(EF) nr. 1069/2009](eu/32009r1069) og [(EF) nr. 1107/2009](eu/32009r1107) og om oppheving av forordning [(EF) nr. 2003/2003](eu/32003r2003) (EUT L 170 av 25.6.2019, s. 1).3 EFSA Journal 2 021;19(12):6932.4 Kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142) av 25. februar 2011 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om gjennomføring av rådsdirektiv [97/78/EF](eu/31997l0078) med hensyn til visse prøver og produkter som er unntatt fra veterinærkontroll på grensen i henhold til nevnte direktiv (EUT L 54 av 26.2.2011, s. 1).5 EFSA Journal 2015;13(11):4306.6 https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2018.5314 (EFSA Journal 2018;16(7):5314).7 Europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati (EFT L 147 av 31.5.2001, s. 1).8 EFSA Journal 2021;19(4): 6558.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 22. mai 2023.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen*<br>Ursula von der Leyen<br>*President* |
+
+1 EUT L 300 av 14.11.2009, s. 1.
+
+2 Europaparlaments- og rådsforordning [(EU) 2019/1009](eu/32019r1009) av 5. juni 2019 om fastsettelse av regler for tilgjengeliggjøring på markedet av EU-gjødselvarer, om endring av forordning [(EF) nr. 1069/2009](eu/32009r1069) og [(EF) nr. 1107/2009](eu/32009r1107) og om oppheving av forordning [(EF) nr. 2003/2003](eu/32003r2003) (EUT L 170 av 25.6.2019, s. 1).
+
+3 EFSA Journal 2 021;19(12):6932.
+
+4 Kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142) av 25. februar 2011 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om gjennomføring av rådsdirektiv [97/78/EF](eu/31997l0078) med hensyn til visse prøver og produkter som er unntatt fra veterinærkontroll på grensen i henhold til nevnte direktiv (EUT L 54 av 26.2.2011, s. 1).
+
+5 EFSA Journal 2015;13(11):4306.
+
+6 https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2018.5314 (EFSA Journal 2018;16(7):5314).
+
+7 Europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati (EFT L 147 av 31.5.2001, s. 1).
+
+8 EFSA Journal 2021;19(4): 6558.
 
 ### Forordning (EU) nr. 142/2011
 
 > Endret 15 mars 2017 (erstattet pdf med konsolidert fulltekst), endret ved forskrifter [18 des 2017 nr. 2228](forskrift/2017-12-18-2228), [19 jan 2018 nr. 62](forskrift/2018-01-19-62), [25 april 2018 nr. 628](forskrift/2018-04-25-628), [9 mars 2020 nr. 722](forskrift/2020-03-09-722) (i kraft 7 april 2020), [7 feb 2022 nr. 186](forskrift/2022-02-07-186), [2 mai 2022 nr. 813](forskrift/2022-05-02-813), [30 okt 2023 nr. 1732](forskrift/2023-10-30-1732), [8 juli 2024 nr. 1649](forskrift/2024-07-08-1649), [27 okt 2025 nr. 2127](forskrift/2025-10-27-2127), [4 mai 2026 nr. 696](forskrift/2026-05-04-696).
 
-Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(EU) nr. 142/2011](eu/32011r0142). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) nr. 749/2011](eu/32011r0749), forordning [(EU) nr. 1063/2012](eu/32012r1063), forordning [(EU) nr. 1097/2012](eu/32012r1097), forordning [(EU) nr. 294/2013](eu/32013r0294), forordning [(EU) nr. 555/2013](eu/32013r0555), forordning [(EU) nr. 717/2013](eu/32013r0717), forordning [(EU) nr. 592/2014](eu/32014r0592), forordning [(EU) 2015/9](eu/32015r0009), forordning [(EU) 2017/172](eu/32017r0172), forordning [(EU) 2017/786](eu/32017r0786), forordning [(EU) 2017/893](eu/32017r0893), forordning [(EU) 2017/1261](eu/32017r1261), forordning [(EU) 2017/1262](eu/32017r1262), forordning [(EU) 2019/319](eu/32019r0319), forordning [(EU) 2019/1084](eu/32019r1084), forordning [(EU) 2019/1177](eu/32019r1177), forordning [(EU) 2019/2124](eu/32019r2124), forordning [(EU) 2020/207](eu/32020r0207), forordning [(EU) 2020/735](eu/32020r0735), forordning [(EU) 2020/757](eu/32020r0757), forordning [(EU) 2020/762](eu/32020r0762), forordning [(EU) 2020/797](eu/32020r0797), forordning [(EU) 2020/1720](eu/32020r1720), forordning [(EU) 2021/899](eu/32021r0899), forordning [(EU) 2021/1699](eu/32021r1699), forordning [(EU) 2021/1891](eu/32021r1891), forordning [(EU) 2021/1925](eu/32021r1925), forordning [(EU) 2021/1929](eu/32021r1929), forordning [(EU) 2021/1973](eu/32021r1973), forordning [(EU) 2022/384](eu/32022r0384), forordning [(EU) 2022/488](eu/32022r0488), forordning [(EU) 2023/2613](eu/32023r2613), forordning [(EU) 2024/1719](eu/32024r1719), forordning [(EU) 2025/1377](eu/32025r1377), forordning [(EU) 2025/1379](eu/32025r1379), forordning [(EU) 2025/2016](eu/32025r2016) og forordning [(EU) 2026/176](eu/32026r0176)). Alle endringer av grunnrettsakten, samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg I, er innarbeidet nedenfor.► **B** Forordning [(EU) nr. 142/2011](eu/32011r0142)► **M1** Kommisjonsforordning [(EU) nr. 749/2011](eu/32011r0749)► **M2** Kommisjonsforordning [(EU) nr. 1063/2012](eu/32012r1063)► **M3** Kommisjonsforordning [(EU) nr. 1097/2012](eu/32012r1097)► **M4** Kommisjonsforordning [(EU) nr. 294/2013](eu/32013r0294)► **M5** Kommisjonsforordning [(EU) nr. 555/2013](eu/32013r0555)► **M6** Kommisjonsforordning [(EU) nr. 717/2013](eu/32013r0717)► **M8** Kommisjonsforordning [(EU) nr. 592/2014](eu/32014r0592)► **M9** Kommisjonsforordning [(EU) 2015/9](eu/32015r0009)► **M10** Forordning [(EU) 2017/172](eu/32017r0172)► **M11** Forordning [(EU) 2017/786](eu/32017r0786)► **M12** Forordning [(EU) 2017/893](eu/32017r0893)► **M13** Forordning [(EU) 2017/1261](eu/32017r1261)► **M14** Forordning [(EU) 2017/1262](eu/32017r1262)► **M15** Forordning [(EU) 2019/319](eu/32019r0319)► **M16** Forordning [(EU) 2019/1084](eu/32019r1084)► **M17** Forordning [(EU) 2019/1177](eu/32019r1177)► **M19** Forordning [(EU) 2019/2124](eu/32019r2124)► **M20** Forordning [(EU) 2020/207](eu/32020r0207)► **M21** Forordning [(EU) 2020/735](eu/32020r0735)► **M22** Forordning [(EU) 2020/757](eu/32020r0757)► **M23** Forordning [(EU) 2020/762](eu/32020r0762)► **M24** Forordning [(EU) 2020/797](eu/32020r0797)► **M25** Forordning [(EU) 2020/1720](eu/32020r1720)► **M26** Forordning [(EU) 2021/899](eu/32021r0899)► **M27** Forordning [(EU) 2021/1699](eu/32021r1699)► **M28** Forordning [(EU) 2021/1891](eu/32021r1891)► **M29** Forordning [(EU) 2021/1925](eu/32021r1925)► **M30** Forordning [(EU) 2021/1929](eu/32021r1929)► **M31** Forordning [(EU) 2021/1973](eu/32021r1973)► **M32** Forordning [(EU) 2022/384](eu/32022r0384)► **M33** Forordning [(EU) 2022/488](eu/32022r0488)► **M34** Forordning [(EU) 2023/2613](eu/32023r2613)►**M35** Forordning [(EU) 2024/1719](eu/32024r1719)►**M36** Forordning [(EU) 2025/1377](eu/32025r1377)►**M37** Forordning [(EU) 2025/1379](eu/32025r1379)►**M38** Forordning [(EU) 2025/2016](eu/32025r2016)►**M39** Forordning [(EU) 2026/176](eu/32026r0176)► **EØS** Tilpasning som følge av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1)
+Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(EU) nr. 142/2011](eu/32011r0142). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) nr. 749/2011](eu/32011r0749), forordning [(EU) nr. 1063/2012](eu/32012r1063), forordning [(EU) nr. 1097/2012](eu/32012r1097), forordning [(EU) nr. 294/2013](eu/32013r0294), forordning [(EU) nr. 555/2013](eu/32013r0555), forordning [(EU) nr. 717/2013](eu/32013r0717), forordning [(EU) nr. 592/2014](eu/32014r0592), forordning [(EU) 2015/9](eu/32015r0009), forordning [(EU) 2017/172](eu/32017r0172), forordning [(EU) 2017/786](eu/32017r0786), forordning [(EU) 2017/893](eu/32017r0893), forordning [(EU) 2017/1261](eu/32017r1261), forordning [(EU) 2017/1262](eu/32017r1262), forordning [(EU) 2019/319](eu/32019r0319), forordning [(EU) 2019/1084](eu/32019r1084), forordning [(EU) 2019/1177](eu/32019r1177), forordning [(EU) 2019/2124](eu/32019r2124), forordning [(EU) 2020/207](eu/32020r0207), forordning [(EU) 2020/735](eu/32020r0735), forordning [(EU) 2020/757](eu/32020r0757), forordning [(EU) 2020/762](eu/32020r0762), forordning [(EU) 2020/797](eu/32020r0797), forordning [(EU) 2020/1720](eu/32020r1720), forordning [(EU) 2021/899](eu/32021r0899), forordning [(EU) 2021/1699](eu/32021r1699), forordning [(EU) 2021/1891](eu/32021r1891), forordning [(EU) 2021/1925](eu/32021r1925), forordning [(EU) 2021/1929](eu/32021r1929), forordning [(EU) 2021/1973](eu/32021r1973), forordning [(EU) 2022/384](eu/32022r0384), forordning [(EU) 2022/488](eu/32022r0488), forordning [(EU) 2023/2613](eu/32023r2613), forordning [(EU) 2024/1719](eu/32024r1719), forordning [(EU) 2025/1377](eu/32025r1377), forordning [(EU) 2025/1379](eu/32025r1379), forordning [(EU) 2025/2016](eu/32025r2016) og forordning [(EU) 2026/176](eu/32026r0176)). Alle endringer av grunnrettsakten, samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg I, er innarbeidet nedenfor.
+
+- ► **B** Forordning [(EU) nr. 142/2011](eu/32011r0142)
+- ► **M1** Kommisjonsforordning [(EU) nr. 749/2011](eu/32011r0749)
+- ► **M2** Kommisjonsforordning [(EU) nr. 1063/2012](eu/32012r1063)
+- ► **M3** Kommisjonsforordning [(EU) nr. 1097/2012](eu/32012r1097)
+- ► **M4** Kommisjonsforordning [(EU) nr. 294/2013](eu/32013r0294)
+- ► **M5** Kommisjonsforordning [(EU) nr. 555/2013](eu/32013r0555)
+- ► **M6** Kommisjonsforordning [(EU) nr. 717/2013](eu/32013r0717)
+- ► **M8** Kommisjonsforordning [(EU) nr. 592/2014](eu/32014r0592)
+- ► **M9** Kommisjonsforordning [(EU) 2015/9](eu/32015r0009)
+- ► **M10** Forordning [(EU) 2017/172](eu/32017r0172)
+- ► **M11** Forordning [(EU) 2017/786](eu/32017r0786)
+- ► **M12** Forordning [(EU) 2017/893](eu/32017r0893)
+- ► **M13** Forordning [(EU) 2017/1261](eu/32017r1261)
+- ► **M14** Forordning [(EU) 2017/1262](eu/32017r1262)
+- ► **M15** Forordning [(EU) 2019/319](eu/32019r0319)
+- ► **M16** Forordning [(EU) 2019/1084](eu/32019r1084)
+- ► **M17** Forordning [(EU) 2019/1177](eu/32019r1177)
+- ► **M19** Forordning [(EU) 2019/2124](eu/32019r2124)
+- ► **M20** Forordning [(EU) 2020/207](eu/32020r0207)
+- ► **M21** Forordning [(EU) 2020/735](eu/32020r0735)
+- ► **M22** Forordning [(EU) 2020/757](eu/32020r0757)
+- ► **M23** Forordning [(EU) 2020/762](eu/32020r0762)
+- ► **M24** Forordning [(EU) 2020/797](eu/32020r0797)
+- ► **M25** Forordning [(EU) 2020/1720](eu/32020r1720)
+- ► **M26** Forordning [(EU) 2021/899](eu/32021r0899)
+- ► **M27** Forordning [(EU) 2021/1699](eu/32021r1699)
+- ► **M28** Forordning [(EU) 2021/1891](eu/32021r1891)
+- ► **M29** Forordning [(EU) 2021/1925](eu/32021r1925)
+- ► **M30** Forordning [(EU) 2021/1929](eu/32021r1929)
+- ► **M31** Forordning [(EU) 2021/1973](eu/32021r1973)
+- ► **M32** Forordning [(EU) 2022/384](eu/32022r0384)
+- ► **M33** Forordning [(EU) 2022/488](eu/32022r0488)
+- ► **M34** Forordning [(EU) 2023/2613](eu/32023r2613)
+- ►**M35** Forordning [(EU) 2024/1719](eu/32024r1719)
+- ►**M36** Forordning [(EU) 2025/1377](eu/32025r1377)
+- ►**M37** Forordning [(EU) 2025/1379](eu/32025r1379)
+- ►**M38** Forordning [(EU) 2025/2016](eu/32025r2016)
+- ►**M39** Forordning [(EU) 2026/176](eu/32026r0176)
+- ► **EØS** Tilpasning som følge av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1)
 
 ### KOMMISJONSFORORDNING [(EU) nr. 142/2011](eu/32011r0142)
 av 25. februar 2011
@@ -1131,7 +1905,58 @@ under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1069/2009](e
 
 under henvisning til rådsdirektiv [97/78/EF](eu/31997l0078) av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater,2 særlig artikkel 16 nr. 3, og
 
-ut fra følgende betraktninger:I forordning [(EF) nr. 1069/2009](eu/32009r1069) fastsettes bestemmelser om dyrehelse og folkehelse for animalske biprodukter og avledede produkter. Forordningen fastsetter hvilke forhold animalske biprodukter skal disponeres under, med sikte på å hindre spredning av risiko for folkehelsen og dyrehelsen. Forordningen fastsetter videre vilkårene for bruk av animalske biprodukter i fôr og til diverse andre formål, for eksempel i kosmetikk, legemidler og tekniske anvendelser. Forordningen fastsetter også driftsansvarliges forpliktelser i forbindelse med håndtering av animalske biprodukter i virksomheter og anlegg som er underlagt offentlig kontroll.I henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) skal det gjennom gjennomføringsbestemmelser fastsettes nærmere bestemmelser om håndtering av animalske biprodukter og avledede produkter, for eksempel krav til bearbeiding, hygienekrav og formatet for dokumentasjon som skal følge forsendelser av animalske biprodukter og avledede produkter av hensyn til sporbarheten.Nærmere bestemmelser om bruk og disponering av animalske biprodukter i denne forordning bør fastsettes med sikte på å nå målene i forordning [(EF) nr. 1069/2009](eu/32009r1069), særlig når det gjelder bærekraftig bruk av animalsk materiale og et høyt nivå for vern av folkehelsen og dyrehelsen i Den europeiske union.Forordning [(EF) nr. 1069/2009](eu/32009r1069) får ikke anvendelse på hele kropper eller deler av ville dyr som ikke mistenkes for å være angrepet eller påvirket av sykdommer som kan overføres til mennesker eller dyr, med unntak av vanndyr som fanges for kommersielle formål. Forordningen får heller ikke anvendelse på hele kropper eller deler av viltlevende vilt som ikke er samlet inn etter felling, i samsvar med god jaktpraksis. Slike animalske biprodukter fra jakt bør disponeres på en slik måte at overføring av risiko hindres, i samsvar med den særskilte jaktpraksis og i samsvar med det aktive jegere anser som god praksis.Forordning [(EF) nr. 1069/2009](eu/32009r1069) får anvendelse på animalske biprodukter til preparering av jakttrofeer. Preparering av slike trofeer, samt preparering av dyr og deler av dyr med andre metoder, for eksempel plastinering, bør skje under forhold som hindrer overføring av risiko for folkehelsen eller dyrehelsen.Forordning [(EF) nr. 1069/2009](eu/32009r1069) får anvendelse på kjøkken- og matavfall som kommer fra transportmidler i internasjonal trafikk, for eksempel materiale fra næringsmidler som serveres om bord på fly eller skip som ankommer Den europeiske union fra en tredjestat. Kjøkken- og matavfall omfattes også av nevnte forordning dersom det er beregnet på bruk i fôr, på bearbeiding i samsvar med en av bearbeidingsmetodene som er godkjent i henhold til denne forordning, eller på omdanning til biogass eller kompostering. I henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) er det forbudt å fôre produksjonsdyr, unntatt pelsdyr, med kjøkken- og matavfall. Kjøkken- og matavfall i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) kan derfor bearbeides og deretter brukes, forutsatt at det avledede produktet ikke brukes som fôr til slike dyr.Av hensyn til sammenhengen i Unionens regelverk bør definisjonen av fôrmidler i europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) og oppheving av rådsdirektiv [79/373/EØF](eu/31979l0373*), kommisjonsdirektiv [80/511/EØF](eu/31980l0511), rådsdirektiv [82/471/EØF](eu/31982l0471), [83/228/EØF](eu/31983l0228), [93/74/EØF](eu/31993*0074), [93/113/EØF](eu/31993l0113) og [96/25/EF](eu/31996l0025) samt kommisjonsbeslutning [2004/217/EF](eu/32004d0217)3 anvendes som grunnlag for definisjonen av fôrmidler av animalsk opprinnelse i denne forordning.I henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) er det forbudt å sende animalske biprodukter og avledede produkter fra mottakelige arter, fra driftsenheter, virksomheter, anlegg eller områder som er underlagt restriksjoner på grunn av forekomst av alvorlige smittsomme sykdommer. For å sikre et høyt nivå for vern av dyrehelsen i Unionen bør det angis at listen over sykdommer i helseregelverket for landdyr og for vanndyr fra Verdens dyrehelseorganisasjon (heretter kalt «OIE»), er den listen over alvorlige smittsomme sykdommer som skal anvendes ved fastsettelsen av forbudets omfang.Ettersom europaparlaments- og rådsdirektiv [2000/76/EF](eu/32000l0076*) av 4. desember 2000 om forbrenning av avfall4 ikke omfatter avfallsforbrenning og samforbrenning av visse animalske biprodukter, bør det fastsettes egnede bestemmelser for å hindre helserisiko i forbindelse med denne virksomheten med hensyn til mulige miljøvirkninger. Rester fra avfallsforbrenning eller samforbrenning av animalske biprodukter bør resirkuleres eller disponeres i samsvar med Unionens miljøregelverk, ettersom dette regelverket tillater at fosforen i aske brukes til gjødsel og at asken fra kremering av kjæledyr gis til eierne.Produkter av animalsk opprinnelse eller næringsmidler som inneholder slike produkter, bør for å begrense mulig helserisiko disponeres på en fyllplass i henhold til rådsdirektiv [1999/31/EF](eu/31999l0031) av 26. april 1999 om deponering av avfall5 bare dersom de er bearbeidet i henhold til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene.6Det bør være forbudt å disponere animalske biprodukter eller avledede produkter gjennom spillvann, ettersom spillvann ikke er underlagt krav som sikrer egnet kontroll av risiko for folkehelsen og dyrehelsen. Egnede tiltak bør vedtas for å hindre uakseptabel risiko som følge av utilsiktet disponering av flytende animalske biprodukter, for eksempel i forbindelse med rengjøring av gulv og utstyr som brukes ved bearbeiding.Ved europaparlaments- og rådsdirektiv [2008/98/EF](eu/32008l0098) av 19. november 2008 om avfall og om oppheving av visse direktiver7 fastsettes visse tiltak for å verne miljøet og menneskers helse. I henhold til artikkel 2 nr. 2 bokstav b) i nevnte direktiv er visse produkter unntatt fra direktivets virkeområde i det omfang de er omfattet av andre deler av Unionens regelverk, herunder animalske biprodukter som er omfattet av europaparlaments- og rådsforordning [(EF) nr. 1774/2002](eu/32002r1774*) av 3. oktober 2002 om hygieneregler for animalske biprodukter som ikke er beregnet på konsum,8 unntatt slike som er beregnet på avfallsforbrenning, deponering eller bruk i biogass- eller komposteringsanlegg. Nevnte forordning ble 4. mars 2011 opphevet og erstattet av forordning [(EF) nr. 1069/2009](eu/32009r1069). Av hensyn til sammenhengen i Unionens regelverk bør prosessene som anvendes for å omdanne animalske biprodukter og avledede produkter til biogass og kompost, være i samsvar med hygienereglene i denne forordning samt miljøverntiltakene i direktiv [2008/98/EF](eu/32008l0098).Vedkommende myndighet i en medlemsstat bør kunne godkjenne alternative parametrer for omdanning av animalske biprodukter til biogass eller for kompostering på grunnlag av en validering i samsvar med en harmonisert modell. Det bør i så fall være mulig å bringe råtnerester og kompost i omsetning i hele Den europeiske union. Vedkommende myndighet i en medlemsstat bør videre kunne godkjenne visse parametrer for bestemte animalske biprodukter, for eksempel kjøkken- og matavfall og blandinger av slikt avfall og annet materiale, som omdannes til biogass eller komposteres. Ettersom slike godkjenninger ikke utstedes på grunnlag av en harmonisert modell, bør råtnerester og kompost bare bringes i omsetning i de medlemsstater der parametrene er blitt godkjent.For å hindre at næringsmidler kontamineres med sykdomsframkallende stoffer, bør virksomheter eller anlegg som bearbeider animalske biprodukter, være plassert atskilt fra slakterier eller andre virksomheter der næringsmidler bearbeides, særlig i samsvar med europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,9 med mindre de animalske biproduktene bearbeides under forhold som er blitt godkjent av vedkommende myndighet, med sikte på å hindre overføring av risiko for folkehelsen og dyrehelsen til virksomheter som bearbeider næringsmidler.I europaparlaments og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å hindre, bekjempe og utrydde visse typer overførbar spongiform encefalopati10 er det fastsatt at medlemsstatene skal gjennomføre årlige overvåkingsprogrammer for overførbar spongiform encefalopati (TSE). Kropper av dyr som for å fremme biologisk mangfold brukes som fôr til visse arter, bør være omfattet av overvåkingsprogrammene i det omfang som er nødvendig for å sikre at det gjennom disse programmene innhentes tilstrekkelige opplysninger om prevalensen av TSE i en bestemt medlemsstat.I henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) er det tillatt å fôre truede eller vernede arter av åtselfugler og andre arter som lever i sitt habitat, med visse typer kategori 1-materiale for å fremme biologisk mangfold. Slik fôring bør tillates for visse kjøttetende arter nevnt i rådsdirektiv [92/43/EØF](eu/31992l0043*) av 21. mai 1992 om vern av habitater og ville dyr og planter11 og for visse arter av rovfugler nevnt i europaparlaments- og rådsdirektiv [2009/147/EF](eu/32009l0147) av 30. november 2009 om vern av viltlevende fugler12 for å ta hensyn til disse artenes naturlige spisemønstre.Ved forordning [(EF) nr. 1069/2009](eu/32009r1069) er det innført en framgangsmåte for godkjenning av alternative metoder for bruk eller disponering av animalske biprodukter eller avledede produkter. Slike metoder kan godkjennes av Kommisjonen etter at den har mottatt en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «EFSA»). For å lette EFSAs vurdering av søknader bør det fastsettes et standardformat som viser hva slags dokumentasjon søkerne skal framlegge. I samsvar med traktatene bør det være mulig å framlegge søknader om alternative metoder på de offisielle språk i Unionen, som fastsatt i rådsforordning (EØF) nr. 1 om fastsettelse av reglene for bruk av språk i Det europeiske økonomiske fellesskap.13I henhold til europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene14 skal driftsansvarlige for fôrforetak, bortsett fra primærprodusenter, lagre og transportere fôr under visse hygieniske forhold. Ettersom disse forholdene sikrer en tilsvarende reduksjon av mulig risiko, bør fôrblandinger framstilt av animalske biprodukter ikke omfattes av de krav i denne forordning som gjelder lagring og transport.For å fremme vitenskap og forskning og for å sikre best mulig bruk av animalske biprodukter og avledede produkter som brukes til diagnostisering av sykdommer hos mennesker eller dyr, bør vedkommende myndighet ha mulighet til å fastsette vilkår for prøver av slikt materiale til forsknings- og utdanningsformål og diagnoseformål. Slike vilkår bør imidlertid ikke fastsettes for prøver av sykdomsframkallende stoffer som er omfattet av særlige bestemmelser i rådsdirektiv [92/118/EØF](eu/31992l0118) av 17. desember 1992 om fastsettelse av krav til dyrehelse og folkehelse ved handel innenfor Fellesskapet med og innførsel til Fellesskapet av produkter som ikke omfattes av nevnte krav fastsatt i særlige fellesskapsregler nevnt i avsnitt I i vedlegg A til direktiv [89/662/EØF](eu/31989l0662*) og, når det gjelder sykdomsfremkallende smittestoffer, i direktiv [90/425/EØF](eu/31990l0425).15Ved direktiv [97/78/EF](eu/31997l0078) unntas animalske biprodukter som er beregnet på utstillinger, forutsatt at de ikke skal markedsføres, og animalske biprodukter som er beregnet på bestemte undersøkelser eller analyser, fra veterinærkontroll på grensekontrollstasjonen på innførselsstedet til Unionen. I henhold til nevnte direktiv kan det vedtas gjennomføringstiltak for disse unntakene. I denne forordning bør det fastsettes egnede vilkår for import av animalske biprodukter og avledede produkter beregnet på utstillinger og særlige undersøkelser eller analyser, for å sikre at uakseptabel risiko for folkehelsen eller dyrehelsen ikke spres når slike produkter innføres til Unionen. Av hensyn til sammenhengen i Unionens regelverk og for å sikre de driftsansvarliges rettssikkerhet, bør disse vilkårene og gjennomføringstiltakene for direktiv [97/78/EF](eu/31997l0078) fastsettes i denne forordning.Etter innsamling bør animalske biprodukter håndteres under egnede forhold som sikrer at uakseptabel risiko for folkehelsen eller dyrehelsen ikke overføres. Virksomheter eller anlegg der visse aktiviteter gjennomføres før videre bearbeiding av animalske biprodukter, bør bygges og drives på en måte som hindrer overføring av risiko. Dette bør omfatte virksomheter eller anlegg der det gjennomføres aktiviteter som innebærer håndtering av animalske biprodukter i samsvar med Unionens veterinærregelverk, unntatt håndtering av animalske biprodukter i forbindelse med behandling hos privatpraktiserende veterinærer.I henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) skal driftsansvarlige sikre at animalske biprodukter og avledede produkter kan spores i alle ledd av kjeden av framstilling, bruk og disponering, for å unngå unødvendige forstyrrelser i det indre marked i tilfelle av hendelser i forbindelse med faktisk eller mulig risiko for folkehelsen eller dyrehelsen. Sporbarheten bør derfor sikres ikke bare av driftsansvarlige som framstiller, samler inn eller transporterer animalske biprodukter, men også av driftsansvarlige som disponerer animalske biprodukter eller avledede produkter ved avfallsforbrenning, samforbrenning eller deponering.Beholdere og transportmidler som brukes for animalske biprodukter eller avledede produkter, bør holdes rene for å unngå kontaminering. Dersom de bare er beregnet på transport av et bestemt materiale, for eksempel et flytende animalsk biprodukt som ikke innebærer en uakseptabel helserisiko, kan de driftsansvarlige tilpasse sine tiltak for å unngå kontaminering, etter den risikoen dette materialet faktisk innebærer.Medlemsstatene bør kunne kreve at driftsansvarlige anvender det integrerte veterinærdatasystemet (TRACES) som ble innført ved kommisjonsvedtak [2004/292/EF](eu/32004d0292) av 30. mars 2004 om innføring av TRACES-systemet og endring av vedtak [92/486/EØF](eu/31992d0486)16 (heretter kalt «TRACES-systemet»), for å dokumentere at forsendelser av animalske biprodukter eller avledede produkter ankommer bestemmelsesstedet. Alternativt bør forsendelsens ankomst dokumenteres ved at den fjerde kopien av handelsdokumentet sendes tilbake til produsenten. Erfaringene med de to alternative metodene bør evalueres etter det første året med gjennomføring av denne forordning.Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) fastsettes visse parametrer for behandling av smeltet fett, fiskeolje og eggprodukter, som gir en egnet kontroll av mulig helserisiko når slike produkter brukes for andre formål enn konsum. Disse parametrene bør derfor godkjennes som alternativer til de behandlingene av animalske biprodukter som er fastsatt i denne forordning.Råmelk og råmelksprodukter bør komme fra storfebesetninger som er frie for visse sykdommer som nevnt i rådsdirektiv [64/432/EØF](eu/31964l0432*) av 26. juni 1964 om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet17Henvisningene til rådsdirektiv [76/768/EØF](eu/31976l0768*) av 27. juli 1976 om tilnærming av medlemsstatenes lovgivning om kosmetiske produkter,18 til rådsdirektiv [96/22/EF](eu/31996l0022) av 29. april 1996 om forbud mot bruk av visse stoffer med hormonell eller tyreostatisk virkning samt beta-agonister innenfor husdyrhold,19 til rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter20 bør ajourføres, og det samme bør henvisningen til rådsdirektiv [2009/158/EF](eu/32009l0158) av 30. november 2009 om dyrehelsevilkår for handel innenfor Fellesskapet med og import fra tredjestater av fjørfe og rugeegg21 i hygienereglene for handel med ubearbeidet husdyrgjødsel.Visse typer importert materiale til framstilling av fôr til kjæledyr bør håndteres og brukes på vilkår som står i forhold til den risikoen materialet kan innebære. Det bør særlig fastsettes bestemmelser om sikker transport til bestemmelsesvirksomheter eller -anlegg der dette materialet og kategori 3-materiale blandes inn i fôr til kjæledyr. Når det gjelder bestemmelsesvirksomheter eller -anlegg, bør vedkommende myndighet kunne tillate at importert materiale lagres sammen med kategori 3-materiale, forutsatt at det importerte materialet kan spores.I forordning [(EF) nr. 1069/2009](eu/32009r1069) vises det til visse avledede produkter som kan bringes i omsetning i samsvar med vilkår fastsatt i visse andre deler av Unionens regelverk. I samme regelverk fastsettes også vilkår for import, innsamling og forflytning av animalske biprodukter og avledede produkter til framstilling av slike avledede produkter. Forordning [(EF) nr. 1069/2009](eu/32009r1069) får imidlertid anvendelse dersom det i andre deler av Unionens regelverk ikke er fastsatt vilkår knyttet til den risiko for folkehelsen og dyrehelsen som slike råmaterialer kan medføre. Ettersom slike vilkår ikke er fastsatt med hensyn til materialer som har gjennomgått visse bearbeidingstrinn før de oppfyller vilkårene for omsetning i henhold til andre deler av Unionens regelverk, bør de fastsettes i denne forordning. Det bør særlig fastsettes vilkår for import og håndtering av slikt materiale i Unionen i samsvar med strenge kontroll- og dokumentasjonskrav, for å hindre overføring av mulig helserisiko fra slikt materiale.Det bør i denne forordning særlig fastsettes egnede helsevilkår for materiale som brukes til framstilling av legemidler i samsvar med europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler for mennesker,22 av veterinærpreparater i samsvar med europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater,23 for medisinsk utstyr i samsvar med rådsdirektiv [93/42/EØF](eu/31993l0042) av 14. juni 1993 om medisinsk utstyr,24 av medisinsk utstyr til in vitro-diagnostikk i samsvar med europaparlaments- og rådsdirektiv [98/79/EF](eu/31998l0079*) av 27. oktober 1998 om medisinsk utstyr til in vitro-diagnostikk,25 av aktive implanterbare medisinske innretninger i samsvar med rådsdirektiv [90/385/EØF](eu/31990l0385*) av 20. juni 1990 om tilnærming av medlemsstatenes lovgivning om aktive implanterbare medisinske innretninger26 eller laboratoriereagenser («sluttproduktene»). Dersom risikoen knyttet til slikt materiale reduseres gjennom rensing, konsentrasjon i produktet eller på grunn av vilkårene for håndtering og disponering, bør bare kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og i denne forordning få anvendelse når det gjelder sporbarhet. I slike tilfeller bør kravene om at animalske biprodukter skal holdes atskilt fra andre kategorier i virksomheten eller anlegget som framstiller sluttproduktene, ikke få anvendelse, ettersom senere bruk av materiale for andre formål, særlig bruk i næringsmidler eller fôr, kan utelukkes dersom den driftsansvarlige anvender reglene på riktig måte under vedkommende myndighets ansvar. Forsendelser av slikt materiale som skal importeres til Unionen, bør gjennomgå veterinærkontroll på grensekontrollstasjonen på innførselsstedet til Unionen i samsvar med direktiv [97/78/EF](eu/31997l0078), for å sikre at disse produktene oppfyller kravene for å kunne bringes i omsetning i Unionen.I henhold til rådsdirektiv [2009/156/EF](eu/32009l0156) av 30. november 2009 om krav til dyrehelse ved forflytning av dyr av hestefamilien og innførsel av slike dyr fra tredjestater27 er visse sykdommer som dyr av hestefamilien er mottakelige for, meldepliktige. Blodprodukter fra dyr av hestefamilien, som er beregnet på andre formål enn fôr, for eksempel blodprodukter beregnet på veterinærpreparater, bør for å redusere risikoen for overføring av slike sykdommer komme fra dyr av hestefamilien som ikke har vist kliniske tegn til slike sykdommer.Det bør være tillatt å omsette ferske huder og skinn for andre formål enn konsum, forutsatt at de oppfyller de kravene til dyrehelse for ferskt kjøtt som er fastsatt i samsvar med rådsdirektiv [2002/99/EF](eu/32002l0099) av 16. desember 2002 om fastsettelse av dyrehelseregler for produksjon, bearbeiding, distribusjon og innførsel av produkter av animalsk opprinnelse beregnet på konsum,28 ettersom disse vilkårene sikrer en tilstrekkelig reduksjon av mulig helserisiko.Hygienereglene for framstilling og omsetning av jakttrofeer og andre preparater fra dyr som fastsettes i denne forordning og som har til hensikt å fjerne mulig risiko, bør utfylle bestemmelsene om vern av visse arter av ville dyr i rådsforordning [(EF) nr. 338/97](eu/31997r0338*) av 9. desember 1996 om vern av ville dyr og planter ved kontroll av handelen med dem,29 ettersom nevnte forordning har et annet formål. Anatomiske preparater av dyr eller animalske biprodukter som har gjennomgått en behandling, for eksempel plastinering, som på tilsvarende måte reduserer mulig risiko, bør for å gjøre det lettere å bruke slike preparater, særlig til undervisningsformål, ikke være omfattet av dyrehelserestriksjoner.Biprodukter av biavl som skal bringes i omsetning, bør være frie for visse sykdommer som bier er mottakelige for og som er oppført i rådsdirektiv [92/65/EØF](eu/31992l0065*) av 13. juli 1992 om fastsettelse av krav til dyrehelse ved handel innenfor Fellesskapet med dyr, sæd, egg og embryoer som ikke omfattes av kravene til dyrehelse fastsatt i de særlige fellesskapsregler oppført i vedlegg A del I til direktiv [90/425/EØF](eu/31990l0425).30Europaparlamentet og Rådet har oppfordret Kommisjonen til å fastsette et sluttpunkt i produksjonskjeden for produkter av bearbeidet fett, der de ikke lenger skal være omfattet av kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069). Beslutningen om dette sluttpunktet bør tas så snart det foreligger en vurdering som evaluerer fettbearbeidingsprosessenes evne til å redusere den mulige helserisikoen som ulike kategorier av materiale som bearbeides, kan medføre.Det bør i denne forordning vises til kommisjonsforordning [(EU) nr. 206/2010](eu/32010r0206*) av 12. mars 2010 om fastsettelse av lister over tredjestater, tredjestatsområder og deler av disse, som er godkjent med hensyn til import av visse dyr og ferskt kjøtt til EU, og krav vedrørende utstedelse av veterinærsertifikater,31 i det omfang disse tredjestatene og andre territorier bør godkjennes for import av visse animalske biprodukter eller avledede produkter, ettersom den risikoen disse produktene innebærer tilsvarer risikoen som kan oppstå gjennom import av levende dyr eller ferskt kjøtt.På grunnlag av lignende vurderinger av helserisiko og for å sikre sammenheng i Unionens regelverk bør det vises til ytterligere lister over tredjestater som det er tillatt å importere visse typer materiale av animalsk opprinnelse fra, med sikte på å fastsette hvilke tredjestater animalske biprodukter fra visse arter kan importeres fra. Slike lister er fastsatt ved kommisjonsvedtak [2004/211/EF](eu/32004d0211) av 6. januar 2004 om opprettelse av en liste over tredjestater og deler av deres territorier som medlemsstatene tillater import fra av levende dyr av hestefamilien og sæd, egg og embryoer fra dyr av hestefamilien, og om endring av beslutning [93/195/EØF](eu/31993d0195*) og [94/63/EF](eu/31994*0063),32 kommisjonsforordning [(EU) nr. 605/2010](eu/32010r0605*) av 2. juli 2010 om krav til dyrehelse og folkehelse og utstedelse av veterinærattest ved innførsel til Den europeiske union av råmelk og melkeprodukter beregnet på konsum,33 kommisjonsvedtak [2006/766/EF](eu/32006d0766) av 6. november 2006 om opprettelse av lister over tredjestater og territorier som det er tillatt med import fra av muslinger, pigghuder, sekkedyr, sjøsnegler og fiskerivarer,34 kommisjonsforordning [(EF) nr. 798/2008](eu/32008r0798) av 8. august 2008 om fastsettelse av en liste over tredjestater, territorier, soner eller områder hvorfra fjørfe og fjørfeprodukter kan importeres til og sendes i transitt gjennom Fellesskapet, og krav til veterinærsertifikater35 og kommisjonsforordning [(EF) nr. 119/2009](eu/32009r0119) av 9. februar 2009 om fastsettelse av en liste over tredjestater eller deler av disse, for import til eller transitt gjennom Fellesskapet av kjøtt av ville dyr av leporidefamilien, av visse viltlevende landpattedyr og oppdrettskaniner samt om kravene til veterinærattest.36Ettersom avfall fra fotoindustrien, som bruker visse animalske biprodukter, for eksempel virvelsøyle fra storfe, ikke bare innebærer en risiko for folkehelsen og dyrehelsen, men også for miljøet, bør det enten disponeres eller eksporteres fra de animalske biproduktenes opprinnelsestredjestat i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1013/2006](eu/32006r1013*) av 14. juni 2006 om transport av avfall.37I reglene for transitt av visse animalske biprodukter og avledede produkter gjennom Den europeiske union mellom områder i Russland bør det vises til listen over grensekontrollstasjoner i kommisjonsdirektiv [2009/821/EF](eu/32009d0821) av 28. september 2009 om utarbeiding av ei liste over godkjende grensekontrollstasjonar, om fastsetjing av visse reglar for dei inspeksjonane som veterinærsakkunnige frå Kommisjonen skal utføre, og om fastsetjing av veterinæreiningar i TRACES.38 Det felles veterinærdokumentet til bruk ved import som er fastsatt i kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136) av 22. januar 2004 om fastsettelse av framgangsmåtene for veterinærkontroller ved Fellesskapets grensekontrollstasjoner ved import av produkter fra tredjestater39 bør anvendes ved denne type transitt.I denne forordning bør det fastsettes at hygienesertifikatene som skal følge forsendelser av animalske biprodukter eller avledede produkter på innførselsstedet til Unionen der veterinærkontroll finner sted, bør utstedes i samsvar med prinsipper for attestering som tilsvarer prinsippene i rådsdirektiv [96/93/EF](eu/31996l0093) av 17. desember 1996 om utstedelse av sertifikater for dyr og animalske produkter40Av hensyn til sammenhengen i Unionens regelverk bør det gjennomføres offentlig kontroll av hele kjeden av animalske biprodukter og avledede produkter i samsvar med de allmenne prinsippene for offentlig kontroll som er fastsatt i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.41Det er derfor nødvendig å fastsette gjennomføringstiltak for forordning [(EF) nr. 1069/2009 i](eu/32009r1069) denne forordning.Ved forordning [(EF) nr. 1069/2009](eu/32009r1069) oppheves forordning [(EF) nr. 1774/2002](eu/32002r1774*) med virkning fra 4. mars 2011.Etter vedtakelsen av forordning [(EF) nr. 1774/2002](eu/32002r1774*) ble visse gjennomføringsrettsakter vedtatt, nærmere bestemt kommisjonsforordning [(EF) nr. 811/2003](eu/32003r0811)42 om forbudet mot resirkulering innenfor samme art når det gjelder fisk, nedgraving og forbrenning av visse animalske biprodukter som avfall, kommisjonsvedtak [2003/322/EF](eu/32003d0322)43 om fôring av enkelte arter av åtselfugler med visse typer kategori 1-materiale, kommisjonsvedtak [2003/324/EF](eu/32003d0324)44 om unntak fra forbudet mot resirkulering innenfor samme art for pelsdyr, kommisjonsforordning [(EF) nr. 79/2005](eu/32005r0079)45 om melk og melkebaserte produkter, (EF) [nr. 92/2005](eu/32005r0092)46 om framgangsmåter for disponering eller bruk, (EF) [nr. 181/2006](eu/32006r0181)47 om andre former for organisk gjødsel og jordforbedringsmidler enn husdyrgjødsel, (EF) [nr. 1192/2006](eu/32006r1192)48 om lister over godkjente anlegg og (EF) [nr. 2007/2006](eu/32006r2007)49 om import og transitt av visse halvfabrikater av kategori 3.I tillegg ble visse overgangstiltak vedtatt, særlig kommisjonsforordning [(EF) nr. 878/2004](eu/32004r0878)50 om import og håndtering av visse typer kategori 1- og 2-materiale, kommisjonsvedtak [2004/407/EF](eu/32004d0407*)51 om import av visse typer materiale til framstilling av fotografisk gelatin, og kommisjonsforordning [(EF) nr. 197/2006](eu/32006r0197)52 om håndtering av tidligere næringsmidler, med sikte på å fastsette tiltak som står i forhold til risikoen for visse særskilte bruksformål for animalske biprodukter.For ytterligere å forenkle Unionens bestemmelser om animalske biprodukter, i samsvar med anmodningen fra formannskapet i Rådet i forbindelse med vedtakelsen av forordning [(EF) nr. 1069/2009](eu/32009r1069), ble disse gjennomførings- og overgangstiltakene gjennomgått. De bør nå ved denne forordning oppheves og erstattes i det omfang som er nødvendig for å skape en sammenhengende rettslig ramme for animalske biprodukter og avledede produkter.Forordning [(EF) nr. 1069/2009](eu/32009r1069) får anvendelse fra 4. mars 2011, og denne forordning bør derfor også få anvendelse fra samme dato. Det er videre nødvendig å fastsette en overgangsperiode for å gi berørte parter tid til å tilpasse seg til de nye bestemmelsene i denne forordning og til å bringe i omsetning visse produkter som er framstilt i samsvar med de hygieneregler som gjaldt i Unionen før nevnte dato, samt for at importen skal kunne fortsette når kravene i denne forordning trer i kraft.Omsetning og eksport av visse produkter nevnt i forordning [(EF) nr. 878/2004](eu/32004r0878) bør fortsatt skje i samsvar med nasjonale tiltak, ettersom den tilknyttede risikoen for den begrensede mengden materiale som dette omfatter i dag, kan håndteres på nasjonalt plan, i påvente av en mulig framtidig harmonisering. I påvente av at det på grunnlag av ytterligere dokumentasjon vedtas tiltak for innsamling og disponering av visse begrensede mengder av produkter av animalsk opprinnelse fra detaljhandelen, bør vedkommende myndighet fortsatt kunne tillate at slike produkter samles inn og disponeres på andre måter, forutsatt at et tilsvarende nivå for vern av folkehelsen og dyrehelsen sikres.I samsvar med den anmodningen Europaparlamentet framsatte da det godkjente forordning [(EF) nr. 1069/2009](eu/32009r1069) ved første behandling, og idet det tas hensyn til Parlamentets mer spesifikke forslag til håndtering av visse tekniske spørsmål, ble et utkast til denne forordning 27. september 2010 framlagt for Komiteen for miljø, folkehelse og næringsmiddeltrygghet, med sikte på utveksling av synspunkter.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+ut fra følgende betraktninger:
+
+1. I forordning [(EF) nr. 1069/2009](eu/32009r1069) fastsettes bestemmelser om dyrehelse og folkehelse for animalske biprodukter og avledede produkter. Forordningen fastsetter hvilke forhold animalske biprodukter skal disponeres under, med sikte på å hindre spredning av risiko for folkehelsen og dyrehelsen. Forordningen fastsetter videre vilkårene for bruk av animalske biprodukter i fôr og til diverse andre formål, for eksempel i kosmetikk, legemidler og tekniske anvendelser. Forordningen fastsetter også driftsansvarliges forpliktelser i forbindelse med håndtering av animalske biprodukter i virksomheter og anlegg som er underlagt offentlig kontroll.
+2. I henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) skal det gjennom gjennomføringsbestemmelser fastsettes nærmere bestemmelser om håndtering av animalske biprodukter og avledede produkter, for eksempel krav til bearbeiding, hygienekrav og formatet for dokumentasjon som skal følge forsendelser av animalske biprodukter og avledede produkter av hensyn til sporbarheten.
+3. Nærmere bestemmelser om bruk og disponering av animalske biprodukter i denne forordning bør fastsettes med sikte på å nå målene i forordning [(EF) nr. 1069/2009](eu/32009r1069), særlig når det gjelder bærekraftig bruk av animalsk materiale og et høyt nivå for vern av folkehelsen og dyrehelsen i Den europeiske union.
+4. Forordning [(EF) nr. 1069/2009](eu/32009r1069) får ikke anvendelse på hele kropper eller deler av ville dyr som ikke mistenkes for å være angrepet eller påvirket av sykdommer som kan overføres til mennesker eller dyr, med unntak av vanndyr som fanges for kommersielle formål. Forordningen får heller ikke anvendelse på hele kropper eller deler av viltlevende vilt som ikke er samlet inn etter felling, i samsvar med god jaktpraksis. Slike animalske biprodukter fra jakt bør disponeres på en slik måte at overføring av risiko hindres, i samsvar med den særskilte jaktpraksis og i samsvar med det aktive jegere anser som god praksis.
+5. Forordning [(EF) nr. 1069/2009](eu/32009r1069) får anvendelse på animalske biprodukter til preparering av jakttrofeer. Preparering av slike trofeer, samt preparering av dyr og deler av dyr med andre metoder, for eksempel plastinering, bør skje under forhold som hindrer overføring av risiko for folkehelsen eller dyrehelsen.
+6. Forordning [(EF) nr. 1069/2009](eu/32009r1069) får anvendelse på kjøkken- og matavfall som kommer fra transportmidler i internasjonal trafikk, for eksempel materiale fra næringsmidler som serveres om bord på fly eller skip som ankommer Den europeiske union fra en tredjestat. Kjøkken- og matavfall omfattes også av nevnte forordning dersom det er beregnet på bruk i fôr, på bearbeiding i samsvar med en av bearbeidingsmetodene som er godkjent i henhold til denne forordning, eller på omdanning til biogass eller kompostering. I henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) er det forbudt å fôre produksjonsdyr, unntatt pelsdyr, med kjøkken- og matavfall. Kjøkken- og matavfall i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) kan derfor bearbeides og deretter brukes, forutsatt at det avledede produktet ikke brukes som fôr til slike dyr.
+7. Av hensyn til sammenhengen i Unionens regelverk bør definisjonen av fôrmidler i europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) og oppheving av rådsdirektiv [79/373/EØF](eu/31979l0373*), kommisjonsdirektiv [80/511/EØF](eu/31980l0511), rådsdirektiv [82/471/EØF](eu/31982l0471), [83/228/EØF](eu/31983l0228), [93/74/EØF](eu/31993*0074), [93/113/EØF](eu/31993l0113) og [96/25/EF](eu/31996l0025) samt kommisjonsbeslutning [2004/217/EF](eu/32004d0217)3 anvendes som grunnlag for definisjonen av fôrmidler av animalsk opprinnelse i denne forordning.
+8. I henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) er det forbudt å sende animalske biprodukter og avledede produkter fra mottakelige arter, fra driftsenheter, virksomheter, anlegg eller områder som er underlagt restriksjoner på grunn av forekomst av alvorlige smittsomme sykdommer. For å sikre et høyt nivå for vern av dyrehelsen i Unionen bør det angis at listen over sykdommer i helseregelverket for landdyr og for vanndyr fra Verdens dyrehelseorganisasjon (heretter kalt «OIE»), er den listen over alvorlige smittsomme sykdommer som skal anvendes ved fastsettelsen av forbudets omfang.
+9. Ettersom europaparlaments- og rådsdirektiv [2000/76/EF](eu/32000l0076*) av 4. desember 2000 om forbrenning av avfall4 ikke omfatter avfallsforbrenning og samforbrenning av visse animalske biprodukter, bør det fastsettes egnede bestemmelser for å hindre helserisiko i forbindelse med denne virksomheten med hensyn til mulige miljøvirkninger. Rester fra avfallsforbrenning eller samforbrenning av animalske biprodukter bør resirkuleres eller disponeres i samsvar med Unionens miljøregelverk, ettersom dette regelverket tillater at fosforen i aske brukes til gjødsel og at asken fra kremering av kjæledyr gis til eierne.
+10. Produkter av animalsk opprinnelse eller næringsmidler som inneholder slike produkter, bør for å begrense mulig helserisiko disponeres på en fyllplass i henhold til rådsdirektiv [1999/31/EF](eu/31999l0031) av 26. april 1999 om deponering av avfall5 bare dersom de er bearbeidet i henhold til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene.6
+11. Det bør være forbudt å disponere animalske biprodukter eller avledede produkter gjennom spillvann, ettersom spillvann ikke er underlagt krav som sikrer egnet kontroll av risiko for folkehelsen og dyrehelsen. Egnede tiltak bør vedtas for å hindre uakseptabel risiko som følge av utilsiktet disponering av flytende animalske biprodukter, for eksempel i forbindelse med rengjøring av gulv og utstyr som brukes ved bearbeiding.
+12. Ved europaparlaments- og rådsdirektiv [2008/98/EF](eu/32008l0098) av 19. november 2008 om avfall og om oppheving av visse direktiver7 fastsettes visse tiltak for å verne miljøet og menneskers helse. I henhold til artikkel 2 nr. 2 bokstav b) i nevnte direktiv er visse produkter unntatt fra direktivets virkeområde i det omfang de er omfattet av andre deler av Unionens regelverk, herunder animalske biprodukter som er omfattet av europaparlaments- og rådsforordning [(EF) nr. 1774/2002](eu/32002r1774*) av 3. oktober 2002 om hygieneregler for animalske biprodukter som ikke er beregnet på konsum,8 unntatt slike som er beregnet på avfallsforbrenning, deponering eller bruk i biogass- eller komposteringsanlegg. Nevnte forordning ble 4. mars 2011 opphevet og erstattet av forordning [(EF) nr. 1069/2009](eu/32009r1069). Av hensyn til sammenhengen i Unionens regelverk bør prosessene som anvendes for å omdanne animalske biprodukter og avledede produkter til biogass og kompost, være i samsvar med hygienereglene i denne forordning samt miljøverntiltakene i direktiv [2008/98/EF](eu/32008l0098).
+13. Vedkommende myndighet i en medlemsstat bør kunne godkjenne alternative parametrer for omdanning av animalske biprodukter til biogass eller for kompostering på grunnlag av en validering i samsvar med en harmonisert modell. Det bør i så fall være mulig å bringe råtnerester og kompost i omsetning i hele Den europeiske union. Vedkommende myndighet i en medlemsstat bør videre kunne godkjenne visse parametrer for bestemte animalske biprodukter, for eksempel kjøkken- og matavfall og blandinger av slikt avfall og annet materiale, som omdannes til biogass eller komposteres. Ettersom slike godkjenninger ikke utstedes på grunnlag av en harmonisert modell, bør råtnerester og kompost bare bringes i omsetning i de medlemsstater der parametrene er blitt godkjent.
+14. For å hindre at næringsmidler kontamineres med sykdomsframkallende stoffer, bør virksomheter eller anlegg som bearbeider animalske biprodukter, være plassert atskilt fra slakterier eller andre virksomheter der næringsmidler bearbeides, særlig i samsvar med europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,9 med mindre de animalske biproduktene bearbeides under forhold som er blitt godkjent av vedkommende myndighet, med sikte på å hindre overføring av risiko for folkehelsen og dyrehelsen til virksomheter som bearbeider næringsmidler.
+15. I europaparlaments og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å hindre, bekjempe og utrydde visse typer overførbar spongiform encefalopati10 er det fastsatt at medlemsstatene skal gjennomføre årlige overvåkingsprogrammer for overførbar spongiform encefalopati (TSE). Kropper av dyr som for å fremme biologisk mangfold brukes som fôr til visse arter, bør være omfattet av overvåkingsprogrammene i det omfang som er nødvendig for å sikre at det gjennom disse programmene innhentes tilstrekkelige opplysninger om prevalensen av TSE i en bestemt medlemsstat.
+16. I henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) er det tillatt å fôre truede eller vernede arter av åtselfugler og andre arter som lever i sitt habitat, med visse typer kategori 1-materiale for å fremme biologisk mangfold. Slik fôring bør tillates for visse kjøttetende arter nevnt i rådsdirektiv [92/43/EØF](eu/31992l0043*) av 21. mai 1992 om vern av habitater og ville dyr og planter11 og for visse arter av rovfugler nevnt i europaparlaments- og rådsdirektiv [2009/147/EF](eu/32009l0147) av 30. november 2009 om vern av viltlevende fugler12 for å ta hensyn til disse artenes naturlige spisemønstre.
+17. Ved forordning [(EF) nr. 1069/2009](eu/32009r1069) er det innført en framgangsmåte for godkjenning av alternative metoder for bruk eller disponering av animalske biprodukter eller avledede produkter. Slike metoder kan godkjennes av Kommisjonen etter at den har mottatt en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «EFSA»). For å lette EFSAs vurdering av søknader bør det fastsettes et standardformat som viser hva slags dokumentasjon søkerne skal framlegge. I samsvar med traktatene bør det være mulig å framlegge søknader om alternative metoder på de offisielle språk i Unionen, som fastsatt i rådsforordning (EØF) nr. 1 om fastsettelse av reglene for bruk av språk i Det europeiske økonomiske fellesskap.13
+18. I henhold til europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene14 skal driftsansvarlige for fôrforetak, bortsett fra primærprodusenter, lagre og transportere fôr under visse hygieniske forhold. Ettersom disse forholdene sikrer en tilsvarende reduksjon av mulig risiko, bør fôrblandinger framstilt av animalske biprodukter ikke omfattes av de krav i denne forordning som gjelder lagring og transport.
+19. For å fremme vitenskap og forskning og for å sikre best mulig bruk av animalske biprodukter og avledede produkter som brukes til diagnostisering av sykdommer hos mennesker eller dyr, bør vedkommende myndighet ha mulighet til å fastsette vilkår for prøver av slikt materiale til forsknings- og utdanningsformål og diagnoseformål. Slike vilkår bør imidlertid ikke fastsettes for prøver av sykdomsframkallende stoffer som er omfattet av særlige bestemmelser i rådsdirektiv [92/118/EØF](eu/31992l0118) av 17. desember 1992 om fastsettelse av krav til dyrehelse og folkehelse ved handel innenfor Fellesskapet med og innførsel til Fellesskapet av produkter som ikke omfattes av nevnte krav fastsatt i særlige fellesskapsregler nevnt i avsnitt I i vedlegg A til direktiv [89/662/EØF](eu/31989l0662*) og, når det gjelder sykdomsfremkallende smittestoffer, i direktiv [90/425/EØF](eu/31990l0425).15
+20. Ved direktiv [97/78/EF](eu/31997l0078) unntas animalske biprodukter som er beregnet på utstillinger, forutsatt at de ikke skal markedsføres, og animalske biprodukter som er beregnet på bestemte undersøkelser eller analyser, fra veterinærkontroll på grensekontrollstasjonen på innførselsstedet til Unionen. I henhold til nevnte direktiv kan det vedtas gjennomføringstiltak for disse unntakene. I denne forordning bør det fastsettes egnede vilkår for import av animalske biprodukter og avledede produkter beregnet på utstillinger og særlige undersøkelser eller analyser, for å sikre at uakseptabel risiko for folkehelsen eller dyrehelsen ikke spres når slike produkter innføres til Unionen. Av hensyn til sammenhengen i Unionens regelverk og for å sikre de driftsansvarliges rettssikkerhet, bør disse vilkårene og gjennomføringstiltakene for direktiv [97/78/EF](eu/31997l0078) fastsettes i denne forordning.
+21. Etter innsamling bør animalske biprodukter håndteres under egnede forhold som sikrer at uakseptabel risiko for folkehelsen eller dyrehelsen ikke overføres. Virksomheter eller anlegg der visse aktiviteter gjennomføres før videre bearbeiding av animalske biprodukter, bør bygges og drives på en måte som hindrer overføring av risiko. Dette bør omfatte virksomheter eller anlegg der det gjennomføres aktiviteter som innebærer håndtering av animalske biprodukter i samsvar med Unionens veterinærregelverk, unntatt håndtering av animalske biprodukter i forbindelse med behandling hos privatpraktiserende veterinærer.
+22. I henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) skal driftsansvarlige sikre at animalske biprodukter og avledede produkter kan spores i alle ledd av kjeden av framstilling, bruk og disponering, for å unngå unødvendige forstyrrelser i det indre marked i tilfelle av hendelser i forbindelse med faktisk eller mulig risiko for folkehelsen eller dyrehelsen. Sporbarheten bør derfor sikres ikke bare av driftsansvarlige som framstiller, samler inn eller transporterer animalske biprodukter, men også av driftsansvarlige som disponerer animalske biprodukter eller avledede produkter ved avfallsforbrenning, samforbrenning eller deponering.
+23. Beholdere og transportmidler som brukes for animalske biprodukter eller avledede produkter, bør holdes rene for å unngå kontaminering. Dersom de bare er beregnet på transport av et bestemt materiale, for eksempel et flytende animalsk biprodukt som ikke innebærer en uakseptabel helserisiko, kan de driftsansvarlige tilpasse sine tiltak for å unngå kontaminering, etter den risikoen dette materialet faktisk innebærer.
+24. Medlemsstatene bør kunne kreve at driftsansvarlige anvender det integrerte veterinærdatasystemet (TRACES) som ble innført ved kommisjonsvedtak [2004/292/EF](eu/32004d0292) av 30. mars 2004 om innføring av TRACES-systemet og endring av vedtak [92/486/EØF](eu/31992d0486)16 (heretter kalt «TRACES-systemet»), for å dokumentere at forsendelser av animalske biprodukter eller avledede produkter ankommer bestemmelsesstedet. Alternativt bør forsendelsens ankomst dokumenteres ved at den fjerde kopien av handelsdokumentet sendes tilbake til produsenten. Erfaringene med de to alternative metodene bør evalueres etter det første året med gjennomføring av denne forordning.
+25. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) fastsettes visse parametrer for behandling av smeltet fett, fiskeolje og eggprodukter, som gir en egnet kontroll av mulig helserisiko når slike produkter brukes for andre formål enn konsum. Disse parametrene bør derfor godkjennes som alternativer til de behandlingene av animalske biprodukter som er fastsatt i denne forordning.
+26. Råmelk og råmelksprodukter bør komme fra storfebesetninger som er frie for visse sykdommer som nevnt i rådsdirektiv [64/432/EØF](eu/31964l0432*) av 26. juni 1964 om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet17
+27. Henvisningene til rådsdirektiv [76/768/EØF](eu/31976l0768*) av 27. juli 1976 om tilnærming av medlemsstatenes lovgivning om kosmetiske produkter,18 til rådsdirektiv [96/22/EF](eu/31996l0022) av 29. april 1996 om forbud mot bruk av visse stoffer med hormonell eller tyreostatisk virkning samt beta-agonister innenfor husdyrhold,19 til rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter20 bør ajourføres, og det samme bør henvisningen til rådsdirektiv [2009/158/EF](eu/32009l0158) av 30. november 2009 om dyrehelsevilkår for handel innenfor Fellesskapet med og import fra tredjestater av fjørfe og rugeegg21 i hygienereglene for handel med ubearbeidet husdyrgjødsel.
+28. Visse typer importert materiale til framstilling av fôr til kjæledyr bør håndteres og brukes på vilkår som står i forhold til den risikoen materialet kan innebære. Det bør særlig fastsettes bestemmelser om sikker transport til bestemmelsesvirksomheter eller -anlegg der dette materialet og kategori 3-materiale blandes inn i fôr til kjæledyr. Når det gjelder bestemmelsesvirksomheter eller -anlegg, bør vedkommende myndighet kunne tillate at importert materiale lagres sammen med kategori 3-materiale, forutsatt at det importerte materialet kan spores.
+29. I forordning [(EF) nr. 1069/2009](eu/32009r1069) vises det til visse avledede produkter som kan bringes i omsetning i samsvar med vilkår fastsatt i visse andre deler av Unionens regelverk. I samme regelverk fastsettes også vilkår for import, innsamling og forflytning av animalske biprodukter og avledede produkter til framstilling av slike avledede produkter. Forordning [(EF) nr. 1069/2009](eu/32009r1069) får imidlertid anvendelse dersom det i andre deler av Unionens regelverk ikke er fastsatt vilkår knyttet til den risiko for folkehelsen og dyrehelsen som slike råmaterialer kan medføre. Ettersom slike vilkår ikke er fastsatt med hensyn til materialer som har gjennomgått visse bearbeidingstrinn før de oppfyller vilkårene for omsetning i henhold til andre deler av Unionens regelverk, bør de fastsettes i denne forordning. Det bør særlig fastsettes vilkår for import og håndtering av slikt materiale i Unionen i samsvar med strenge kontroll- og dokumentasjonskrav, for å hindre overføring av mulig helserisiko fra slikt materiale.
+30. Det bør i denne forordning særlig fastsettes egnede helsevilkår for materiale som brukes til framstilling av legemidler i samsvar med europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler for mennesker,22 av veterinærpreparater i samsvar med europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater,23 for medisinsk utstyr i samsvar med rådsdirektiv [93/42/EØF](eu/31993l0042) av 14. juni 1993 om medisinsk utstyr,24 av medisinsk utstyr til in vitro-diagnostikk i samsvar med europaparlaments- og rådsdirektiv [98/79/EF](eu/31998l0079*) av 27. oktober 1998 om medisinsk utstyr til in vitro-diagnostikk,25 av aktive implanterbare medisinske innretninger i samsvar med rådsdirektiv [90/385/EØF](eu/31990l0385*) av 20. juni 1990 om tilnærming av medlemsstatenes lovgivning om aktive implanterbare medisinske innretninger26 eller laboratoriereagenser («sluttproduktene»). Dersom risikoen knyttet til slikt materiale reduseres gjennom rensing, konsentrasjon i produktet eller på grunn av vilkårene for håndtering og disponering, bør bare kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og i denne forordning få anvendelse når det gjelder sporbarhet. I slike tilfeller bør kravene om at animalske biprodukter skal holdes atskilt fra andre kategorier i virksomheten eller anlegget som framstiller sluttproduktene, ikke få anvendelse, ettersom senere bruk av materiale for andre formål, særlig bruk i næringsmidler eller fôr, kan utelukkes dersom den driftsansvarlige anvender reglene på riktig måte under vedkommende myndighets ansvar. Forsendelser av slikt materiale som skal importeres til Unionen, bør gjennomgå veterinærkontroll på grensekontrollstasjonen på innførselsstedet til Unionen i samsvar med direktiv [97/78/EF](eu/31997l0078), for å sikre at disse produktene oppfyller kravene for å kunne bringes i omsetning i Unionen.
+31. I henhold til rådsdirektiv [2009/156/EF](eu/32009l0156) av 30. november 2009 om krav til dyrehelse ved forflytning av dyr av hestefamilien og innførsel av slike dyr fra tredjestater27 er visse sykdommer som dyr av hestefamilien er mottakelige for, meldepliktige. Blodprodukter fra dyr av hestefamilien, som er beregnet på andre formål enn fôr, for eksempel blodprodukter beregnet på veterinærpreparater, bør for å redusere risikoen for overføring av slike sykdommer komme fra dyr av hestefamilien som ikke har vist kliniske tegn til slike sykdommer.
+32. Det bør være tillatt å omsette ferske huder og skinn for andre formål enn konsum, forutsatt at de oppfyller de kravene til dyrehelse for ferskt kjøtt som er fastsatt i samsvar med rådsdirektiv [2002/99/EF](eu/32002l0099) av 16. desember 2002 om fastsettelse av dyrehelseregler for produksjon, bearbeiding, distribusjon og innførsel av produkter av animalsk opprinnelse beregnet på konsum,28 ettersom disse vilkårene sikrer en tilstrekkelig reduksjon av mulig helserisiko.
+33. Hygienereglene for framstilling og omsetning av jakttrofeer og andre preparater fra dyr som fastsettes i denne forordning og som har til hensikt å fjerne mulig risiko, bør utfylle bestemmelsene om vern av visse arter av ville dyr i rådsforordning [(EF) nr. 338/97](eu/31997r0338*) av 9. desember 1996 om vern av ville dyr og planter ved kontroll av handelen med dem,29 ettersom nevnte forordning har et annet formål. Anatomiske preparater av dyr eller animalske biprodukter som har gjennomgått en behandling, for eksempel plastinering, som på tilsvarende måte reduserer mulig risiko, bør for å gjøre det lettere å bruke slike preparater, særlig til undervisningsformål, ikke være omfattet av dyrehelserestriksjoner.
+34. Biprodukter av biavl som skal bringes i omsetning, bør være frie for visse sykdommer som bier er mottakelige for og som er oppført i rådsdirektiv [92/65/EØF](eu/31992l0065*) av 13. juli 1992 om fastsettelse av krav til dyrehelse ved handel innenfor Fellesskapet med dyr, sæd, egg og embryoer som ikke omfattes av kravene til dyrehelse fastsatt i de særlige fellesskapsregler oppført i vedlegg A del I til direktiv [90/425/EØF](eu/31990l0425).30
+35. Europaparlamentet og Rådet har oppfordret Kommisjonen til å fastsette et sluttpunkt i produksjonskjeden for produkter av bearbeidet fett, der de ikke lenger skal være omfattet av kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069). Beslutningen om dette sluttpunktet bør tas så snart det foreligger en vurdering som evaluerer fettbearbeidingsprosessenes evne til å redusere den mulige helserisikoen som ulike kategorier av materiale som bearbeides, kan medføre.
+36. Det bør i denne forordning vises til kommisjonsforordning [(EU) nr. 206/2010](eu/32010r0206*) av 12. mars 2010 om fastsettelse av lister over tredjestater, tredjestatsområder og deler av disse, som er godkjent med hensyn til import av visse dyr og ferskt kjøtt til EU, og krav vedrørende utstedelse av veterinærsertifikater,31 i det omfang disse tredjestatene og andre territorier bør godkjennes for import av visse animalske biprodukter eller avledede produkter, ettersom den risikoen disse produktene innebærer tilsvarer risikoen som kan oppstå gjennom import av levende dyr eller ferskt kjøtt.
+37. På grunnlag av lignende vurderinger av helserisiko og for å sikre sammenheng i Unionens regelverk bør det vises til ytterligere lister over tredjestater som det er tillatt å importere visse typer materiale av animalsk opprinnelse fra, med sikte på å fastsette hvilke tredjestater animalske biprodukter fra visse arter kan importeres fra. Slike lister er fastsatt ved kommisjonsvedtak [2004/211/EF](eu/32004d0211) av 6. januar 2004 om opprettelse av en liste over tredjestater og deler av deres territorier som medlemsstatene tillater import fra av levende dyr av hestefamilien og sæd, egg og embryoer fra dyr av hestefamilien, og om endring av beslutning [93/195/EØF](eu/31993d0195*) og [94/63/EF](eu/31994*0063),32 kommisjonsforordning [(EU) nr. 605/2010](eu/32010r0605*) av 2. juli 2010 om krav til dyrehelse og folkehelse og utstedelse av veterinærattest ved innførsel til Den europeiske union av råmelk og melkeprodukter beregnet på konsum,33 kommisjonsvedtak [2006/766/EF](eu/32006d0766) av 6. november 2006 om opprettelse av lister over tredjestater og territorier som det er tillatt med import fra av muslinger, pigghuder, sekkedyr, sjøsnegler og fiskerivarer,34 kommisjonsforordning [(EF) nr. 798/2008](eu/32008r0798) av 8. august 2008 om fastsettelse av en liste over tredjestater, territorier, soner eller områder hvorfra fjørfe og fjørfeprodukter kan importeres til og sendes i transitt gjennom Fellesskapet, og krav til veterinærsertifikater35 og kommisjonsforordning [(EF) nr. 119/2009](eu/32009r0119) av 9. februar 2009 om fastsettelse av en liste over tredjestater eller deler av disse, for import til eller transitt gjennom Fellesskapet av kjøtt av ville dyr av leporidefamilien, av visse viltlevende landpattedyr og oppdrettskaniner samt om kravene til veterinærattest.36
+38. Ettersom avfall fra fotoindustrien, som bruker visse animalske biprodukter, for eksempel virvelsøyle fra storfe, ikke bare innebærer en risiko for folkehelsen og dyrehelsen, men også for miljøet, bør det enten disponeres eller eksporteres fra de animalske biproduktenes opprinnelsestredjestat i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1013/2006](eu/32006r1013*) av 14. juni 2006 om transport av avfall.37
+39. I reglene for transitt av visse animalske biprodukter og avledede produkter gjennom Den europeiske union mellom områder i Russland bør det vises til listen over grensekontrollstasjoner i kommisjonsdirektiv [2009/821/EF](eu/32009d0821) av 28. september 2009 om utarbeiding av ei liste over godkjende grensekontrollstasjonar, om fastsetjing av visse reglar for dei inspeksjonane som veterinærsakkunnige frå Kommisjonen skal utføre, og om fastsetjing av veterinæreiningar i TRACES.38 Det felles veterinærdokumentet til bruk ved import som er fastsatt i kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136) av 22. januar 2004 om fastsettelse av framgangsmåtene for veterinærkontroller ved Fellesskapets grensekontrollstasjoner ved import av produkter fra tredjestater39 bør anvendes ved denne type transitt.
+40. I denne forordning bør det fastsettes at hygienesertifikatene som skal følge forsendelser av animalske biprodukter eller avledede produkter på innførselsstedet til Unionen der veterinærkontroll finner sted, bør utstedes i samsvar med prinsipper for attestering som tilsvarer prinsippene i rådsdirektiv [96/93/EF](eu/31996l0093) av 17. desember 1996 om utstedelse av sertifikater for dyr og animalske produkter40
+41. Av hensyn til sammenhengen i Unionens regelverk bør det gjennomføres offentlig kontroll av hele kjeden av animalske biprodukter og avledede produkter i samsvar med de allmenne prinsippene for offentlig kontroll som er fastsatt i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.41
+42. Det er derfor nødvendig å fastsette gjennomføringstiltak for forordning [(EF) nr. 1069/2009 i](eu/32009r1069) denne forordning.
+43. Ved forordning [(EF) nr. 1069/2009](eu/32009r1069) oppheves forordning [(EF) nr. 1774/2002](eu/32002r1774*) med virkning fra 4. mars 2011.
+44. Etter vedtakelsen av forordning [(EF) nr. 1774/2002](eu/32002r1774*) ble visse gjennomføringsrettsakter vedtatt, nærmere bestemt kommisjonsforordning [(EF) nr. 811/2003](eu/32003r0811)42 om forbudet mot resirkulering innenfor samme art når det gjelder fisk, nedgraving og forbrenning av visse animalske biprodukter som avfall, kommisjonsvedtak [2003/322/EF](eu/32003d0322)43 om fôring av enkelte arter av åtselfugler med visse typer kategori 1-materiale, kommisjonsvedtak [2003/324/EF](eu/32003d0324)44 om unntak fra forbudet mot resirkulering innenfor samme art for pelsdyr, kommisjonsforordning [(EF) nr. 79/2005](eu/32005r0079)45 om melk og melkebaserte produkter, (EF) [nr. 92/2005](eu/32005r0092)46 om framgangsmåter for disponering eller bruk, (EF) [nr. 181/2006](eu/32006r0181)47 om andre former for organisk gjødsel og jordforbedringsmidler enn husdyrgjødsel, (EF) [nr. 1192/2006](eu/32006r1192)48 om lister over godkjente anlegg og (EF) [nr. 2007/2006](eu/32006r2007)49 om import og transitt av visse halvfabrikater av kategori 3.
+45. I tillegg ble visse overgangstiltak vedtatt, særlig kommisjonsforordning [(EF) nr. 878/2004](eu/32004r0878)50 om import og håndtering av visse typer kategori 1- og 2-materiale, kommisjonsvedtak [2004/407/EF](eu/32004d0407*)51 om import av visse typer materiale til framstilling av fotografisk gelatin, og kommisjonsforordning [(EF) nr. 197/2006](eu/32006r0197)52 om håndtering av tidligere næringsmidler, med sikte på å fastsette tiltak som står i forhold til risikoen for visse særskilte bruksformål for animalske biprodukter.
+46. For ytterligere å forenkle Unionens bestemmelser om animalske biprodukter, i samsvar med anmodningen fra formannskapet i Rådet i forbindelse med vedtakelsen av forordning [(EF) nr. 1069/2009](eu/32009r1069), ble disse gjennomførings- og overgangstiltakene gjennomgått. De bør nå ved denne forordning oppheves og erstattes i det omfang som er nødvendig for å skape en sammenhengende rettslig ramme for animalske biprodukter og avledede produkter.
+47. Forordning [(EF) nr. 1069/2009](eu/32009r1069) får anvendelse fra 4. mars 2011, og denne forordning bør derfor også få anvendelse fra samme dato. Det er videre nødvendig å fastsette en overgangsperiode for å gi berørte parter tid til å tilpasse seg til de nye bestemmelsene i denne forordning og til å bringe i omsetning visse produkter som er framstilt i samsvar med de hygieneregler som gjaldt i Unionen før nevnte dato, samt for at importen skal kunne fortsette når kravene i denne forordning trer i kraft.
+48. Omsetning og eksport av visse produkter nevnt i forordning [(EF) nr. 878/2004](eu/32004r0878) bør fortsatt skje i samsvar med nasjonale tiltak, ettersom den tilknyttede risikoen for den begrensede mengden materiale som dette omfatter i dag, kan håndteres på nasjonalt plan, i påvente av en mulig framtidig harmonisering. I påvente av at det på grunnlag av ytterligere dokumentasjon vedtas tiltak for innsamling og disponering av visse begrensede mengder av produkter av animalsk opprinnelse fra detaljhandelen, bør vedkommende myndighet fortsatt kunne tillate at slike produkter samles inn og disponeres på andre måter, forutsatt at et tilsvarende nivå for vern av folkehelsen og dyrehelsen sikres.
+49. I samsvar med den anmodningen Europaparlamentet framsatte da det godkjente forordning [(EF) nr. 1069/2009](eu/32009r1069) ved første behandling, og idet det tas hensyn til Parlamentets mer spesifikke forslag til håndtering av visse tekniske spørsmål, ble et utkast til denne forordning 27. september 2010 framlagt for Komiteen for miljø, folkehelse og næringsmiddeltrygghet, med sikte på utveksling av synspunkter.
+50. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
 1 EUT L 300 av 14.11.2009, s. 1.
 
@@ -1244,7 +2069,10 @@ ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål og definisjoner
 
-I denne forordning fastsettes gjennomføringstiltakfor hygiene- og dyrehelsereglene for animalske biprodukter og avledede produkter i forordning [(EF) nr. 1069/2009](eu/32009r1069),for visse prøver og produkter som er unntatt fra veterinærkontroll på grensekontrollstasjonen i henhold til artikkel 16 nr. 1 bokstav e) og f) i direktiv [97/78/EF](eu/31997l0078).
+I denne forordning fastsettes gjennomføringstiltak
+
+1. for hygiene- og dyrehelsereglene for animalske biprodukter og avledede produkter i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+2. for visse prøver og produkter som er unntatt fra veterinærkontroll på grensekontrollstasjonen i henhold til artikkel 16 nr. 1 bokstav e) og f) i direktiv [97/78/EF](eu/31997l0078).
 
 ### Artikkel 2. Definisjoner
 
@@ -1252,13 +2080,25 @@ I denne forordning gjelder definisjonene fastsatt i vedlegg I.
 
 ### Artikkel 3. Sluttpunkt i produksjonskjeden for visse avledede produkter
 
-Følgende avledede produkter kan bringes i omsetning, men ikke importeres, uten restriksjoner, som fastsatt i artikkel 5 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069):biodiesel som oppfyller kravene til disponering og bruk av avledede produkter i vedlegg IV kapittel IV avsnitt 3 nr. 2 bokstav b),bearbeidet fôr til kjæledyr som oppfyller de særlige kravene til bearbeidet fôr til kjæledyr i vedlegg XIII kapittel II nr. 7 bokstav a),tyggesaker som oppfyller de særlige kravene til tyggesaker i vedlegg XIII kapittel II nr. 7 bokstav b),huder og skinn av hovdyr som oppfyller de særlige kravene til sluttpunktet for disse produktene i vedlegg XIII kapittel V bokstav C,ull og hår som oppfyller de særlige kravene til sluttpunktet for disse produktene i vedlegg XIII kapittel VII bokstav B,fjør og dun som oppfyller de særlige kravene til sluttpunktet for disse produktene i vedlegg XIII kapittel VII bokstav C,
-► **M1**pels som oppfyller de særlige kravene for sluttpunktet for dette produktet i kapittel VIII i vedlegg XIII,fiskeolje til framstilling av legemidler som oppfyller de særlige kravene for sluttpunktet for dette produktet i kapittel VIII i vedlegg XIII,
-◄ **M1**
-► **M4**bensin og drivstoff som oppfyller de særlige kravene til produkter fra den katalytiske flertrinnsprosessen for produksjon av fornybart drivstoff fastsatt i nr. 2 bokstav c) i vedlegg IV kapittel IV avsnitt 3,produkter framstilt av bearbeidet fett fra smeltet fett og som oppfyller kravene fastsatt i vedlegg XIII kapittel XI.
-◄ **M4**
-► **M13**fornybar diesel, fornybart jetdrivstoff, fornybar propan og fornybar bensin som oppfyller de særlige kravene til produkter fra flertrinnsprosessen med katalytisk hydrobehandling for framstilling av fornybare drivstoffer som omhandlet i vedlegg IV kapittel IV avsnitt 3 nr. 2 bokstav f).
-◄ **M13**
+Følgende avledede produkter kan bringes i omsetning, men ikke importeres, uten restriksjoner, som fastsatt i artikkel 5 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069):
+
+1. biodiesel som oppfyller kravene til disponering og bruk av avledede produkter i vedlegg IV kapittel IV avsnitt 3 nr. 2 bokstav b),
+2. bearbeidet fôr til kjæledyr som oppfyller de særlige kravene til bearbeidet fôr til kjæledyr i vedlegg XIII kapittel II nr. 7 bokstav a),
+3. tyggesaker som oppfyller de særlige kravene til tyggesaker i vedlegg XIII kapittel II nr. 7 bokstav b),
+4. huder og skinn av hovdyr som oppfyller de særlige kravene til sluttpunktet for disse produktene i vedlegg XIII kapittel V bokstav C,
+5. ull og hår som oppfyller de særlige kravene til sluttpunktet for disse produktene i vedlegg XIII kapittel VII bokstav B,
+6. fjør og dun som oppfyller de særlige kravene til sluttpunktet for disse produktene i vedlegg XIII kapittel VII bokstav C,
+   ► **M1**
+7. pels som oppfyller de særlige kravene for sluttpunktet for dette produktet i kapittel VIII i vedlegg XIII,
+8. fiskeolje til framstilling av legemidler som oppfyller de særlige kravene for sluttpunktet for dette produktet i kapittel VIII i vedlegg XIII,
+   ◄ **M1**
+   ► **M4**
+9. bensin og drivstoff som oppfyller de særlige kravene til produkter fra den katalytiske flertrinnsprosessen for produksjon av fornybart drivstoff fastsatt i nr. 2 bokstav c) i vedlegg IV kapittel IV avsnitt 3,
+10. produkter framstilt av bearbeidet fett fra smeltet fett og som oppfyller kravene fastsatt i vedlegg XIII kapittel XI.
+    ◄ **M4**
+    ► **M13**
+11. fornybar diesel, fornybart jetdrivstoff, fornybar propan og fornybar bensin som oppfyller de særlige kravene til produkter fra flertrinnsprosessen med katalytisk hydrobehandling for framstilling av fornybare drivstoffer som omhandlet i vedlegg IV kapittel IV avsnitt 3 nr. 2 bokstav f).
+    ◄ **M13**
 
 ### Artikkel 4. Alvorlige smittsomme sykdommer
 
@@ -1279,7 +2119,10 @@ DISPONERING OG BRUK AV ANIMALSKE BIPRODUKTER OG AVLEDEDE PRODUKTER
 
 ◄ **M8**
 
-1\. Vedkommende myndighet skal sikre at avfallsforbrenning og samforbrenning av animalske biprodukter og avledede produkter bare skjeri avfallsforbrenningsanlegg og samforbrenningsanlegg som har fått en tillatelse i henhold til direktiv [2000/76/EF](eu/32000l0076*), ellernår det gjelder anlegg som ikke er omfattet av kravet om tillatelse i direktiv [2000/76/EF](eu/32000l0076*), i avfallsforbrenningsanlegg og samforbrenningsanlegg som er godkjent av vedkommende myndighet for disponering ved avfallsforbrenning, eller disponering eller gjenvinning av animalske biprodukter eller avledede produkter, dersom de er avfall, ved samforbrenning i henhold til artikkel 24 nr. 1 bokstav b) eller c) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+1\. Vedkommende myndighet skal sikre at avfallsforbrenning og samforbrenning av animalske biprodukter og avledede produkter bare skjer
+
+1. i avfallsforbrenningsanlegg og samforbrenningsanlegg som har fått en tillatelse i henhold til direktiv [2000/76/EF](eu/32000l0076*), eller
+2. når det gjelder anlegg som ikke er omfattet av kravet om tillatelse i direktiv [2000/76/EF](eu/32000l0076*), i avfallsforbrenningsanlegg og samforbrenningsanlegg som er godkjent av vedkommende myndighet for disponering ved avfallsforbrenning, eller disponering eller gjenvinning av animalske biprodukter eller avledede produkter, dersom de er avfall, ved samforbrenning i henhold til artikkel 24 nr. 1 bokstav b) eller c) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 2\. Vedkommende myndighet skal godkjenne avfallsforbrenningsanlegg og samforbrenningsanlegg som nevnt i nr. 1 bokstav b) i henhold til artikkel 24 nr. 1 bokstav b) eller c) i forordning [(EF) nr. 1069/2009](eu/32009r1069) bare dersom de oppfyller kravene i vedlegg III til denne forordning.
 
@@ -1293,31 +2136,63 @@ DISPONERING OG BRUK AV ANIMALSKE BIPRODUKTER OG AVLEDEDE PRODUKTER
 
 6\. Driftsansvarlige skal sikre at forbrenningsanlegg som er under deres kontroll, bortsett fra forbrenningsanlegg nevnt i vedlegg IV kapittel IV avsnitt 2, og der animalske biprodukter eller avledede produkter brukes som brensel, oppfyller de allmenne vilkårene og de særlige kravene fastsatt i kapittel IV og V i vedlegg III og er godkjent av vedkommende myndighet i samsvar med artikkel 24 nr. 1 bokstav d) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
-7\. Vedkommende myndighet skal bare godkjenne forbrenningsanlegg nevnt i nr. 6 til bruk av animalske biprodukter og avledede produkter som brensel til forbrenning dersomforbrenningsanleggene omfattes av kapittel V i vedlegg III til denne forordning,forbrenningsanleggene oppfyller alle relevante allmenne vilkår og særlige krav fastsatt i kapittel IV og V i vedlegg III til denne forordning,det foreligger administrative framgangsmåter for å sikre at kravene til godkjenning av forbrenningsanleggene kontrolleres hvert år.
+7\. Vedkommende myndighet skal bare godkjenne forbrenningsanlegg nevnt i nr. 6 til bruk av animalske biprodukter og avledede produkter som brensel til forbrenning dersom
+
+1. forbrenningsanleggene omfattes av kapittel V i vedlegg III til denne forordning,
+2. forbrenningsanleggene oppfyller alle relevante allmenne vilkår og særlige krav fastsatt i kapittel IV og V i vedlegg III til denne forordning,
+3. det foreligger administrative framgangsmåter for å sikre at kravene til godkjenning av forbrenningsanleggene kontrolleres hvert år.
 
 ◄**M8**
 
 ►**M21**
 
-8\. Ved bruk av gjødsel fra produksjonsdyr eller kjøttbeinmel som brensel til forbrenning som fastsatt i vedlegg III kapittel V, får følgende regler anvendelse i tillegg til dem som er nevnt i nr. 7 i denne artikkelen:Søknaden om godkjenning som den driftsansvarlige inngir til den vedkommende myndigheten i samsvar med artikkel 24 nr. 1 bokstav d) i forordning (EF) nr. 1069/2009, skal inneholde dokumentasjon som er sertifisert av den vedkommende myndigheten eller av en yrkesorganisasjon som er godkjent av de vedkommende myndighetene i medlemsstaten, på at forbrenningsanlegget der gjødselen fra produksjonsdyr eller kjøttbeinmel brukes som brensel, oppfyller kravene fastsatt i kapittel V punkt B nr. 3 for gjødsel og punkt D for kjøttbeinmel samt kravene for begge brensler i punkt B nr. 4 og 5 i vedlegg III til denne forordningen, uten at det berører muligheten for medlemsstatens vedkommende myndigheter til å tillate at visse bestemmelser fravikes i samsvar med vedlegg III kapittel V punkt C nr. 4.Framgangsmåten for godkjenning fastsatt i artikkel 44 i forordning (EF) nr. 1069/2009 skal ikke avsluttes før den vedkommende myndigheten eller en yrkesorganisasjon godkjent av nevnte myndighet har utført minst to etterfølgende kontroller, hvorav den ene uanmeldt, i løpet av de første seks månedene forbrenningsanlegget er i drift, herunder de nødvendige målingene av temperatur og utslipp. Når resultatene av disse kontrollene har vist at kravene i kapittel V punkt B nr. 3, 4 og 5 for gjødsel og punkt D for kjøttbeinmel og, dersom det er relevant, punkt C nr. 4 eller punkt D nr. 5 i vedlegg III til denne forordningen er oppfylt, kan fullstendig godkjenning gis.Forbrenning av kjøttbeinmel i forbrenningsanlegg nevnt i kapittel V punkt A, B og C i vedlegg III til denne forordningen skal ikke være tillatt. ◄**M21**
+8\. Ved bruk av gjødsel fra produksjonsdyr eller kjøttbeinmel som brensel til forbrenning som fastsatt i vedlegg III kapittel V, får følgende regler anvendelse i tillegg til dem som er nevnt i nr. 7 i denne artikkelen:
+
+1. Søknaden om godkjenning som den driftsansvarlige inngir til den vedkommende myndigheten i samsvar med artikkel 24 nr. 1 bokstav d) i forordning (EF) nr. 1069/2009, skal inneholde dokumentasjon som er sertifisert av den vedkommende myndigheten eller av en yrkesorganisasjon som er godkjent av de vedkommende myndighetene i medlemsstaten, på at forbrenningsanlegget der gjødselen fra produksjonsdyr eller kjøttbeinmel brukes som brensel, oppfyller kravene fastsatt i kapittel V punkt B nr. 3 for gjødsel og punkt D for kjøttbeinmel samt kravene for begge brensler i punkt B nr. 4 og 5 i vedlegg III til denne forordningen, uten at det berører muligheten for medlemsstatens vedkommende myndigheter til å tillate at visse bestemmelser fravikes i samsvar med vedlegg III kapittel V punkt C nr. 4.
+2. Framgangsmåten for godkjenning fastsatt i artikkel 44 i forordning (EF) nr. 1069/2009 skal ikke avsluttes før den vedkommende myndigheten eller en yrkesorganisasjon godkjent av nevnte myndighet har utført minst to etterfølgende kontroller, hvorav den ene uanmeldt, i løpet av de første seks månedene forbrenningsanlegget er i drift, herunder de nødvendige målingene av temperatur og utslipp. Når resultatene av disse kontrollene har vist at kravene i kapittel V punkt B nr. 3, 4 og 5 for gjødsel og punkt D for kjøttbeinmel og, dersom det er relevant, punkt C nr. 4 eller punkt D nr. 5 i vedlegg III til denne forordningen er oppfylt, kan fullstendig godkjenning gis.
+3. Forbrenning av kjøttbeinmel i forbrenningsanlegg nevnt i kapittel V punkt A, B og C i vedlegg III til denne forordningen skal ikke være tillatt. ◄**M21**
 
 ### Artikkel 7. Deponering av visse typer kategori 1- og 3-materiale
 
-Som unntak fra artikkel 12 og artikkel 14 bokstav c) i forordning [(EF) nr. 1069/2009](eu/32009r1069) kan vedkommende myndighet tillate deponering av følgende typer kategori 1- og 3-materiale på en godkjent fyllplass:importert fôr til kjæledyr framstilt av importert materiale av kategori 1-materiale nevnt i artikkel 8 bokstav c) i forordning [(EF) nr. 1069/2009](eu/32009r1069),kategori 3-materiale nevnt i artikkel 10 bokstav f) og g) i forordning [(EF) nr. 1069/2009](eu/32009r1069), forutsatt atmaterialet ikke har vært i kontakt med animalske biprodukter nevnt i artikkel 8 og 9 og artikkel 10 bokstav a)–e) og h)–p) i nevnte forordning,materialet på det tidspunkt det skal disponereser blitt bearbeidet i henhold til artikkel 2 nr. 1 bokstav m) i forordning [nr. 852/2004](eu/32004r0852*), oger blitt bearbeidet i samsvar med kapittel II i vedlegg X til denne forordning eller i samsvar med de særlige kravene til fôr til kjæledyr i kapittel II i vedlegg XIII til denne forordning, dersom materialet er nevnt i artikkel 10 bokstav g) i forordning [(EF) nr. 1069/2009/EF](eu/32009r1069), ogdisponeringen av dette materialet ikke utgjør en risiko for folkehelsen eller dyrehelsen.
+Som unntak fra artikkel 12 og artikkel 14 bokstav c) i forordning [(EF) nr. 1069/2009](eu/32009r1069) kan vedkommende myndighet tillate deponering av følgende typer kategori 1- og 3-materiale på en godkjent fyllplass:
+
+1. importert fôr til kjæledyr framstilt av importert materiale av kategori 1-materiale nevnt i artikkel 8 bokstav c) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+2. kategori 3-materiale nevnt i artikkel 10 bokstav f) og g) i forordning [(EF) nr. 1069/2009](eu/32009r1069), forutsatt at
+
+   1. materialet ikke har vært i kontakt med animalske biprodukter nevnt i artikkel 8 og 9 og artikkel 10 bokstav a)–e) og h)–p) i nevnte forordning,
+   2. materialet på det tidspunkt det skal disponeres
+
+      - er blitt bearbeidet i henhold til artikkel 2 nr. 1 bokstav m) i forordning [nr. 852/2004](eu/32004r0852*), og
+      - er blitt bearbeidet i samsvar med kapittel II i vedlegg X til denne forordning eller i samsvar med de særlige kravene til fôr til kjæledyr i kapittel II i vedlegg XIII til denne forordning, dersom materialet er nevnt i artikkel 10 bokstav g) i forordning [(EF) nr. 1069/2009/EF](eu/32009r1069), og
+   3. disponeringen av dette materialet ikke utgjør en risiko for folkehelsen eller dyrehelsen.
 
 ### Artikkel 8. Krav til bearbeidingsanlegg og andre virksomheter
 
-1\. Driftsansvarlige skal sikre at bearbeidingsanlegg og andre virksomheter som de har kontroll over, oppfyller følgende krav i vedlegg IV kapittel I:de alminnelige vilkårene for bearbeiding i avsnitt 1,kravene til behandling av spillvann i avsnitt 2,de særlige kravene til bearbeiding av kategori 1- og 2-materiale i avsnitt 3,de særlige kravene til bearbeiding av kategori 3-materiale i avsnitt 4.
+1\. Driftsansvarlige skal sikre at bearbeidingsanlegg og andre virksomheter som de har kontroll over, oppfyller følgende krav i vedlegg IV kapittel I:
+
+1. de alminnelige vilkårene for bearbeiding i avsnitt 1,
+2. kravene til behandling av spillvann i avsnitt 2,
+3. de særlige kravene til bearbeiding av kategori 1- og 2-materiale i avsnitt 3,
+4. de særlige kravene til bearbeiding av kategori 3-materiale i avsnitt 4.
 
 2\. Vedkommende myndighet skal godkjenne bearbeidingsanlegg og -virksomheter bare dersom de oppfyller kravene i vedlegg IV kapittel I.
 
 ### Artikkel 9. Hygiene- og bearbeidingskrav til bearbeidingsanlegg og andre virksomheter
 
-Driftsansvarlige skal sikre at virksomheter og anlegg som de har kontroll over, oppfyller følgende krav i vedlegg IV:hygiene- og bearbeidingskravene i kapittel II,standardmetodene for bearbeiding i kapittel III, forutsatt at metodene anvendes i virksomheten eller anlegget,de alternative bearbeidingsmetodene i kapittel IV, forutsatt at metodene anvendes i virksomheten eller anlegget.
+Driftsansvarlige skal sikre at virksomheter og anlegg som de har kontroll over, oppfyller følgende krav i vedlegg IV:
+
+1. hygiene- og bearbeidingskravene i kapittel II,
+2. standardmetodene for bearbeiding i kapittel III, forutsatt at metodene anvendes i virksomheten eller anlegget,
+3. de alternative bearbeidingsmetodene i kapittel IV, forutsatt at metodene anvendes i virksomheten eller anlegget.
 
 ### Artikkel 10. Krav med hensyn til omdanning av animalske biprodukter og avledede produkter til biogass eller kompost
 
-1\. Driftsansvarlige skal sikre at virksomheter og anlegg som de har kontroll over, oppfyller følgende krav til omdanning av animalske biprodukter og avledede produkter til biogass eller for kompostering i vedlegg V:kravene til biogass- og komposteringsanlegg i kapittel I,hygienekravene til biogass- og komposteringsanlegg i kapittel II,standardparametrene for omdanning i kapittel III avsnitt 1,standardene for råtnerester og kompost i kapittel III avsnitt 3.
+1\. Driftsansvarlige skal sikre at virksomheter og anlegg som de har kontroll over, oppfyller følgende krav til omdanning av animalske biprodukter og avledede produkter til biogass eller for kompostering i vedlegg V:
+
+1. kravene til biogass- og komposteringsanlegg i kapittel I,
+2. hygienekravene til biogass- og komposteringsanlegg i kapittel II,
+3. standardparametrene for omdanning i kapittel III avsnitt 1,
+4. standardene for råtnerester og kompost i kapittel III avsnitt 3.
 
 2\. Vedkommende myndighet skal godkjenne biogass- og komposteringsanlegg bare dersom de oppfyller kravene i vedlegg V.
 
@@ -1328,25 +2203,42 @@ UNNTAK FRA VISSE BESTEMMELSER I FORORDNING [(EF) NR. 1069/2009](eu/32009r1069)
 
 ### Artikkel 11. Særlige bestemmelser om prøver til forskning og diagnostikk
 
-1\. Vedkommende myndighet kan tillate transport, bruk og disponering av prøver til forskning og diagnostikk på vilkår som sikrer kontroll med risikoen for folkehelsen og dyrehelsen.Vedkommende myndighet skal særlig sikre at driftsansvarlige oppfyller kravene i vedlegg VI kapittel I.
+1\. Vedkommende myndighet kan tillate transport, bruk og disponering av prøver til forskning og diagnostikk på vilkår som sikrer kontroll med risikoen for folkehelsen og dyrehelsen.
+
+Vedkommende myndighet skal særlig sikre at driftsansvarlige oppfyller kravene i vedlegg VI kapittel I.
 
 2\. Driftsansvarlige skal oppfylle de særlige bestemmelsene om prøver til forskning og diagnostikk i vedlegg VI kapittel I.
 
-3\. Driftsansvarlige kan sende prøver til forskning og diagnostikk som består av følgende animalske biprodukter og avledede produkter, til en annen medlemsstat uten å underrette vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 48 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og uten at vedkommende myndighet i bestemmelsesmedlemsstaten underrettes gjennom TRACES-systemet og gir sitt samtykke til å motta forsendelsen i samsvar med artikkel 48 nr. 1 og 3 i nevnte forordning:kategori 1- og 2-materiale og kjøttbeinmel eller animalsk fett fra kategori 1- og 2-materiale,bearbeidet animalsk protein.
+3\. Driftsansvarlige kan sende prøver til forskning og diagnostikk som består av følgende animalske biprodukter og avledede produkter, til en annen medlemsstat uten å underrette vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 48 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og uten at vedkommende myndighet i bestemmelsesmedlemsstaten underrettes gjennom TRACES-systemet og gir sitt samtykke til å motta forsendelsen i samsvar med artikkel 48 nr. 1 og 3 i nevnte forordning:
+
+1. kategori 1- og 2-materiale og kjøttbeinmel eller animalsk fett fra kategori 1- og 2-materiale,
+2. bearbeidet animalsk protein.
 
 ### Artikkel 12. Særlige bestemmelser om vareprøver og utstillingsgjenstander
 
-1\. Vedkommende myndighet kan tillate transport, bruk og disponering av vareprøver og utstillingsgjenstander på vilkår som sikrer kontroll med risikoen for folkehelsen og dyrehelsen.Vedkommende myndighet skal særlig sikre at driftsansvarlige oppfyller kravene i vedlegg VI kapittel I avsnitt 1 nr. 2–4.
+1\. Vedkommende myndighet kan tillate transport, bruk og disponering av vareprøver og utstillingsgjenstander på vilkår som sikrer kontroll med risikoen for folkehelsen og dyrehelsen.
+
+Vedkommende myndighet skal særlig sikre at driftsansvarlige oppfyller kravene i vedlegg VI kapittel I avsnitt 1 nr. 2–4.
 
 2\. Driftsansvarlige skal oppfylle de særlige bestemmelsene om vareprøver og utstillingsgjenstander i vedlegg VI kapittel I avsnitt 2.
 
-3\. Driftsansvarlige kan sende vareprøver som består av følgende animalske biprodukter og avledede produkter, til en annen medlemsstat uten å underrette vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 48 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og uten at vedkommende myndighet i bestemmelsesmedlemsstaten underrettes gjennom TRACES-systemet og gir sitt samtykke til å motta forsendelsen i samsvar med artikkel 48 nr. 1 og 3 i nevnte forordning:kategori 1- og 2-materiale og kjøttbeinmel eller animalsk fett fra kategori 1- og 2-materiale,bearbeidet animalsk protein.
+3\. Driftsansvarlige kan sende vareprøver som består av følgende animalske biprodukter og avledede produkter, til en annen medlemsstat uten å underrette vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 48 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og uten at vedkommende myndighet i bestemmelsesmedlemsstaten underrettes gjennom TRACES-systemet og gir sitt samtykke til å motta forsendelsen i samsvar med artikkel 48 nr. 1 og 3 i nevnte forordning:
+
+1. kategori 1- og 2-materiale og kjøttbeinmel eller animalsk fett fra kategori 1- og 2-materiale,
+2. bearbeidet animalsk protein.
 
 ### Artikkel 13. Særlige bestemmelser om fôring
 
-1\. Driftsansvarlige kan fôre følgende dyr med kategori 2-materiale, forutsatt at materialet kommer fra dyr som ikke er avlivet eller døde som følge av forekomst eller mistenkt forekomst av en sykdom som kan overføres til mennesker eller dyr, og forutsatt at de alminnelige kravene i vedlegg VI kapittel II avsnitt 1 og eventuelle andre vilkår som vedkommende myndighet fastsetter, er oppfylt:dyr i zoologiske hager,pelsdyr,hunder fra godkjente kenneler eller hundekobler,hunder og katter i dyremottak,
-► **M4**fluelarver og mark til agn,sirkusdyr.
-◄ **M4**
+1\. Driftsansvarlige kan fôre følgende dyr med kategori 2-materiale, forutsatt at materialet kommer fra dyr som ikke er avlivet eller døde som følge av forekomst eller mistenkt forekomst av en sykdom som kan overføres til mennesker eller dyr, og forutsatt at de alminnelige kravene i vedlegg VI kapittel II avsnitt 1 og eventuelle andre vilkår som vedkommende myndighet fastsetter, er oppfylt:
+
+1. dyr i zoologiske hager,
+2. pelsdyr,
+3. hunder fra godkjente kenneler eller hundekobler,
+4. hunder og katter i dyremottak,
+   ► **M4**
+5. fluelarver og mark til agn,
+6. sirkusdyr.
+   ◄ **M4**
 
 ►**M36**
 
@@ -1354,13 +2246,23 @@ Vedkommende myndighet kan bare tillate fôring av dyrene nevnt i første ledd me
 
 ◄**M36**
 
-2\. Driftsansvarlige kan fôre følgende dyr med kategori 3-materiale, forutsatt at de alminnelige kravene i vedlegg VI kapittel II avsnitt 1 og eventuelle andre vilkår som vedkommende myndighet fastsetter, er oppfylt:dyr i zoologiske hager,pelsdyr,hunder fra godkjente kenneler eller hundekobler,hunder og katter i dyremottak,
-► **M4**fluelarver og mark til agn,sirkusdyr.
-◄ **M4**
+2\. Driftsansvarlige kan fôre følgende dyr med kategori 3-materiale, forutsatt at de alminnelige kravene i vedlegg VI kapittel II avsnitt 1 og eventuelle andre vilkår som vedkommende myndighet fastsetter, er oppfylt:
+
+1. dyr i zoologiske hager,
+2. pelsdyr,
+3. hunder fra godkjente kenneler eller hundekobler,
+4. hunder og katter i dyremottak,
+   ► **M4**
+5. fluelarver og mark til agn,
+6. sirkusdyr.
+   ◄ **M4**
 
 ### Artikkel 14. Fôring av visse arter i og utenfor fôringsstasjoner og i zoologiske hager
 
-1\. Vedkommende myndighet kan tillate bruk av kategori 1-materiale som består av hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale, til fôringpå fôringsstasjoner, av utryddelsestruede eller vernede arter av åtselfugler og andre arter som lever i sitt habitat, for å fremme biologisk mangfold, forutsatt at vilkårene i vedlegg VI kapittel II avsnitt 2 er oppfylt,utenfor fôringsstasjoner, eventuelt uten forutgående innsamling av de døde dyrene, av ville dyr nevnt i vedlegg VI kapittel II avsnitt 2 nr. 1 bokstav a), forutsatt at vilkårene i nevnte kapittel avsnitt 3 er oppfylt.
+1\. Vedkommende myndighet kan tillate bruk av kategori 1-materiale som består av hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale, til fôring
+
+1. på fôringsstasjoner, av utryddelsestruede eller vernede arter av åtselfugler og andre arter som lever i sitt habitat, for å fremme biologisk mangfold, forutsatt at vilkårene i vedlegg VI kapittel II avsnitt 2 er oppfylt,
+2. utenfor fôringsstasjoner, eventuelt uten forutgående innsamling av de døde dyrene, av ville dyr nevnt i vedlegg VI kapittel II avsnitt 2 nr. 1 bokstav a), forutsatt at vilkårene i nevnte kapittel avsnitt 3 er oppfylt.
 
 2\. Vedkommende myndighet kan tillate bruk av kategori 1-materiale som består av hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale, og bruk av materiale fra dyr i zoologiske hager til fôring av dyr i zoologiske hager, forutsatt at vilkårene i vedlegg VI kapittel II avsnitt 4 er oppfylt.
 
@@ -1398,7 +2300,10 @@ INNSAMLING, TRANSPORT, IDENTIFISERING OG SPORBARHET
 
 ### Artikkel 17. Krav med hensyn til handelsdokumenter og hygienesertifikater, identifisering, innsamling og transport av animalske biprodukter samt sporbarhet
 
-1\. Driftsansvarlige skal sikre at animalske biprodukter og avledede produkteroppfyller kravene til innsamling, transport og identifisering i vedlegg VIII kapittel I og II,under transporten følges av handelsdokumenter eller hygienesertifikater i samsvar med kravene i vedlegg VIII kapittel III.
+1\. Driftsansvarlige skal sikre at animalske biprodukter og avledede produkter
+
+1. oppfyller kravene til innsamling, transport og identifisering i vedlegg VIII kapittel I og II,
+2. under transporten følges av handelsdokumenter eller hygienesertifikater i samsvar med kravene i vedlegg VIII kapittel III.
 
 2\. Driftsansvarlige som sender, transporterer eller mottar animalske biprodukter eller avledede produkter, skal føre register over forsendelsene og de tilhørende handelsdokumentene eller hygienesertifikatene i samsvar med kravene i vedlegg VIII kapittel IV.
 
@@ -1413,9 +2318,36 @@ Vedkommende myndighet kan tillate at flere enn én virksomhet eller ett anlegg h
 
 ### Artikkel 19. Krav med hensyn til visse godkjente virksomheter og anlegg som håndterer animalske biprodukter og avledede produkter
 
-Driftsansvarlige skal sikre at virksomheter og anlegg som de har kontroll over og som er godkjent av vedkommende myndighet, oppfyller kravene i følgende kapitler i vedlegg IX til denne forordning, dersom de utfører en eller flere av følgende aktiviteter nevnt i artikkel 24 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069):kapittel I dersom de framstiller fôr til kjæledyr som nevnt i artikkel 24 nr. 1 bokstav e) i nevnte forordning,kapittel II dersom de oppbevarer animalske biprodukter som nevnt i artikkel 24 nr. 1 i) i nevnte forordning og dersom de håndterer animalske biprodukter etter innsamling ved hjelp av følgende aktiviteter nevnt i artikkel 24 nr. 1 bokstav h) i samme forordning:sortering,oppdeling,kjøling,innfrysing,salting,konservering på annen måte,fjerning av huder og skinn eller fjerning av spesifisert risikomateriale,aktiviteter som omfatter håndtering av animalske biprodukter og som utføres i samsvar med forpliktelsene i henhold til Unionens veterinærregelverk,hygienisering/pasteurisering av animalske biprodukter beregnet på omdanning til biogass/kompostering, før slik omdanning eller kompostering i en annen virksomhet eller et annet anlegg i samsvar med vedlegg V til denne forordning,siling,►**M23** faseovergangsprosesser for kategori 3-materialer, somtermokoagulering av blod,sentrifugering av blod,inneslutning som fastsatt i kapittel V i vedlegg IX til denne forordningen,hydrolyse av hover/klover, grisebuster, fjør og hårsom er beregnet på bearbeiding med bearbeidingsmetodene fastsatt i denne forordningen. ◄**M23**► **M9**kapittel III dersom de lagrer avledede produkter til visse formål som nevnt i artikkel 24 nr. 1 bokstav j) i nevnte forordning,
-◄ **M9**
-►**M23**kapittel V, dersom de på driftsenheten oppbevarer animalske biprodukter som nevnt i artikkel 24 nr. 1 bokstav h) eller i) i nevnte forordning, forutsatt at ubearbeidede animalske biprodukter deretter sluttbehandles som nevnt i artikkel 4 i nevnte forordning.Når de aktivitetene som er nevnt i punkt i)–vii) og xi) i bokstav b) finner sted på en godkjent virksomhet eller et godkjent anlegg som er nevnt i artikkel 26 nr. 1 i forordning (EF) nr. 1069/2009, og som produserer disse materialene, kan de vedkommende myndighetene tillate disse aktivitetene uten registrering i samsvar med artikkel 23 eller godkjenning i samsvar med artikkel 24 nr. 1 bokstav h) i nevnte forordning, forutsatt at de animalske biproduktene lagres, transporteres og sluttbehandles eller brukes som ubearbeidede animalske biprodukter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069). ◄**M23**
+Driftsansvarlige skal sikre at virksomheter og anlegg som de har kontroll over og som er godkjent av vedkommende myndighet, oppfyller kravene i følgende kapitler i vedlegg IX til denne forordning, dersom de utfører en eller flere av følgende aktiviteter nevnt i artikkel 24 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069):
+
+1. kapittel I dersom de framstiller fôr til kjæledyr som nevnt i artikkel 24 nr. 1 bokstav e) i nevnte forordning,
+2. kapittel II dersom de oppbevarer animalske biprodukter som nevnt i artikkel 24 nr. 1 i) i nevnte forordning og dersom de håndterer animalske biprodukter etter innsamling ved hjelp av følgende aktiviteter nevnt i artikkel 24 nr. 1 bokstav h) i samme forordning:
+
+   1. sortering,
+   2. oppdeling,
+   3. kjøling,
+   4. innfrysing,
+   5. salting,
+   6. konservering på annen måte,
+   7. fjerning av huder og skinn eller fjerning av spesifisert risikomateriale,
+   8. aktiviteter som omfatter håndtering av animalske biprodukter og som utføres i samsvar med forpliktelsene i henhold til Unionens veterinærregelverk,
+   9. hygienisering/pasteurisering av animalske biprodukter beregnet på omdanning til biogass/kompostering, før slik omdanning eller kompostering i en annen virksomhet eller et annet anlegg i samsvar med vedlegg V til denne forordning,
+   10. siling,
+   11. ►**M23** faseovergangsprosesser for kategori 3-materialer, som
+
+       - termokoagulering av blod,
+       - sentrifugering av blod,
+       - inneslutning som fastsatt i kapittel V i vedlegg IX til denne forordningen,
+       - hydrolyse av hover/klover, grisebuster, fjør og hår
+
+       som er beregnet på bearbeiding med bearbeidingsmetodene fastsatt i denne forordningen. ◄**M23**
+
+   ► **M9**
+3. kapittel III dersom de lagrer avledede produkter til visse formål som nevnt i artikkel 24 nr. 1 bokstav j) i nevnte forordning,
+   ◄ **M9**
+   ►**M23**
+4. kapittel V, dersom de på driftsenheten oppbevarer animalske biprodukter som nevnt i artikkel 24 nr. 1 bokstav h) eller i) i nevnte forordning, forutsatt at ubearbeidede animalske biprodukter deretter sluttbehandles som nevnt i artikkel 4 i nevnte forordning.
+5. Når de aktivitetene som er nevnt i punkt i)–vii) og xi) i bokstav b) finner sted på en godkjent virksomhet eller et godkjent anlegg som er nevnt i artikkel 26 nr. 1 i forordning (EF) nr. 1069/2009, og som produserer disse materialene, kan de vedkommende myndighetene tillate disse aktivitetene uten registrering i samsvar med artikkel 23 eller godkjenning i samsvar med artikkel 24 nr. 1 bokstav h) i nevnte forordning, forutsatt at de animalske biproduktene lagres, transporteres og sluttbehandles eller brukes som ubearbeidede animalske biprodukter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069). ◄**M23**
 
 ### Artikkel 20. Krav med hensyn til visse registrerte virksomheter og anlegg som håndterer animalske biprodukter og avledede produkter
 
@@ -1423,11 +2355,17 @@ Driftsansvarlige skal sikre at virksomheter og anlegg som de har kontroll over o
 
 2\. Registrerte driftsansvarlige som transporterer animalske biprodukter eller avledede produkter, skal særlig oppfylle vilkårene i vedlegg IX kapittel IV nr. 2, med mindre transporten skjer mellom den driftsansvarliges egne lokaler.
 
-3\. Nr. 1 og 2 får ikke anvendelse pågodkjente driftsansvarlige som transporterer animalske biprodukter eller avledede produkter som en binæring,driftsansvarlige som er registrert for transportvirksomhet i samsvar med forordning [(EF) nr. 183/2005](eu/32005r0183).
+3\. Nr. 1 og 2 får ikke anvendelse på
+
+1. godkjente driftsansvarlige som transporterer animalske biprodukter eller avledede produkter som en binæring,
+2. driftsansvarlige som er registrert for transportvirksomhet i samsvar med forordning [(EF) nr. 183/2005](eu/32005r0183).
 
 ► **M2**
 
-4\. Vedkommende myndighet kan unnta følgende driftsansvarlige fra meldingsplikten nevnt i artikkel 23 nr. 1 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069):driftsansvarlige som håndterer eller lager jakttrofeer eller andre preparater nevnt i kapittel VI i vedlegg XIII til denne forordning til private eller ikke-kommersielle formål,driftsansvarlige som håndterer eller disponerer prøver til forskning og diagnostikk til utdanningsformål,
+4\. Vedkommende myndighet kan unnta følgende driftsansvarlige fra meldingsplikten nevnt i artikkel 23 nr. 1 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069):
+
+1. driftsansvarlige som håndterer eller lager jakttrofeer eller andre preparater nevnt i kapittel VI i vedlegg XIII til denne forordning til private eller ikke-kommersielle formål,
+2. driftsansvarlige som håndterer eller disponerer prøver til forskning og diagnostikk til utdanningsformål,
 
 ◄ **M2**
 
@@ -1449,7 +2387,10 @@ Driftsansvarlige skal sikre at virksomheter og anlegg som de har kontroll over o
 
 ### Artikkel 20a. Lister over virksomheter, anlegg og driftsansvarlige i medlemsstatene
 
-Vedkommende myndighet i en medlemsstat skal sørge for at ajourførte lister over virksomheter, anlegg og driftsansvarlige nevnt i artikkel 47 nr. 1 første ledd i forordning (EF) nr. 1069/2009 erutarbeidet i samsvar med de tekniske spesifikasjonene som er offentliggjort på Kommisjonens nettsted\*,lagt inn enten i TRACES eller er tilgjengelige via TRACES senest 31. oktober 2021.
+Vedkommende myndighet i en medlemsstat skal sørge for at ajourførte lister over virksomheter, anlegg og driftsansvarlige nevnt i artikkel 47 nr. 1 første ledd i forordning (EF) nr. 1069/2009 er
+
+1. utarbeidet i samsvar med de tekniske spesifikasjonene som er offentliggjort på Kommisjonens nettsted\*,
+2. lagt inn enten i TRACES eller er tilgjengelige via TRACES senest 31. oktober 2021.
 
 \*[https://ec.europa.eu/food/sites/food/files/safety/docs/fs-animal-products-app-est-technical_spec_04032012_en.pdf](https://ec.europa.eu/food/sites/food/files/safety/docs/fs-animal-products-app-est-technical_spec_04032012_en.pdf)
 
@@ -1460,7 +2401,11 @@ OMSETNING
 
 ### Artikkel 21. Bearbeiding og omsetning av animalske biprodukter og avledede produkter beregnet på bruk i fôr til andre produksjonsdyr enn pelsdyr
 
-1\. Driftsansvarlige skal oppfylle følgende krav til annen omsetning enn import, av animalske biprodukter og avledede produkter beregnet på bruk i fôr til andre produksjonsdyr enn pelsdyr, i samsvar med artikkel 31 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), som fastsatt i vedlegg X til denne forordning:de alminnelige kravene til bearbeiding og omsetning i kapittel I,de særlige kravene til bearbeidede animalske proteiner og andre avledede produkter i kapittel II,kravene til visse typer fiskefôr og agn i kapittel III.
+1\. Driftsansvarlige skal oppfylle følgende krav til annen omsetning enn import, av animalske biprodukter og avledede produkter beregnet på bruk i fôr til andre produksjonsdyr enn pelsdyr, i samsvar med artikkel 31 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), som fastsatt i vedlegg X til denne forordning:
+
+1. de alminnelige kravene til bearbeiding og omsetning i kapittel I,
+2. de særlige kravene til bearbeidede animalske proteiner og andre avledede produkter i kapittel II,
+3. kravene til visse typer fiskefôr og agn i kapittel III.
 
 2\. Vedkommende myndighet kan tillate annen omsetning enn import, av melk, melkebaserte produkter og produkter framstilt av melk, som er klassifisert som kategori 3-materiale i henhold til artikkel 10 bokstav e), f) og h) i forordning [(EF) nr. 1069/2009](eu/32009r1069) og som ikke er bearbeidet i samsvar med de alminnelige kravene i kapittel II avsnitt 4 del I i vedlegg X til denne forordning, forutsatt at dette materialet oppfyller vilkårene for unntaket for omsetning av melk bearbeidet i samsvar med nasjonale standarder i nevnte avsnitt del II.
 
@@ -1478,7 +2423,13 @@ OMSETNING
 
 ► **M9**
 
-2\. Omsetning av følgende er ikke underlagt noen krav til dyrehelse:guano fra ville sjøfugler, som er sanket i Unionen eller importert fra tredjestater,salgsklare vekstmedier som ikke er importert, og med et innhold lavere enn:5 % i volum av avledede produkter av kategori 3-materiale eller kategori 2-materiale med unntak fra bearbeidet husdyrgjødsel,50 % i volum av bearbeidet husdyrgjødsel.
+2\. Omsetning av følgende er ikke underlagt noen krav til dyrehelse:
+
+1. guano fra ville sjøfugler, som er sanket i Unionen eller importert fra tredjestater,
+2. salgsklare vekstmedier som ikke er importert, og med et innhold lavere enn:
+
+   1. 5 % i volum av avledede produkter av kategori 3-materiale eller kategori 2-materiale med unntak fra bearbeidet husdyrgjødsel,
+   2. 50 % i volum av bearbeidet husdyrgjødsel.
 
 ◄ **M9**
 
@@ -1492,7 +2443,12 @@ OMSETNING
 
 1\. Halvfabrikater som importeres til eller føres i transitt gjennom Unionen, skal oppfylle vilkårene for kontroll av mulig risiko for folkehelsen og dyrehelsen i vedlegg XII til denne forordning.
 
-2\. Halvfabrikater som er transportert til en virksomhet eller et anlegg som nevnt i nr. 3 i vedlegg XII til denne forordning, kan håndteres uten ytterligere restriksjoner i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) og i henhold til denne forordning, forutsatt atvirksomheten eller anlegget har egnet utstyr for å motta halvfabrikata, som hindrer spredning av sykdommer som kan overføres til mennesker eller dyr,halvfabrikatene ikke innebærer risiko for spredning av sykdommer som kan overføres til mennesker eller dyr, på grunn av rensing eller annen behandling som de animalske biproduktene i halvfabrikatet har gjennomgått, på grunn av konsentrasjonen av animalske biprodukter i halvfabrikatet eller på grunn av biosikkerhetstiltak for håndteringen av halvfabrikatene,virksomheten eller anlegget fører registre over mengden av materiale som mottas, over materialets kategori, dersom det er relevant, og over hvilke virksomheter, anlegg eller driftsansvarlige de har levert sine produkter til, ogubrukte halvfabrikater eller annet overskuddsmateriale fra virksomheten eller anlegget, for eksempel produkter med utgått holdbarhetsdato, disponeres i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
+2\. Halvfabrikater som er transportert til en virksomhet eller et anlegg som nevnt i nr. 3 i vedlegg XII til denne forordning, kan håndteres uten ytterligere restriksjoner i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) og i henhold til denne forordning, forutsatt at
+
+1. virksomheten eller anlegget har egnet utstyr for å motta halvfabrikata, som hindrer spredning av sykdommer som kan overføres til mennesker eller dyr,
+2. halvfabrikatene ikke innebærer risiko for spredning av sykdommer som kan overføres til mennesker eller dyr, på grunn av rensing eller annen behandling som de animalske biproduktene i halvfabrikatet har gjennomgått, på grunn av konsentrasjonen av animalske biprodukter i halvfabrikatet eller på grunn av biosikkerhetstiltak for håndteringen av halvfabrikatene,
+3. virksomheten eller anlegget fører registre over mengden av materiale som mottas, over materialets kategori, dersom det er relevant, og over hvilke virksomheter, anlegg eller driftsansvarlige de har levert sine produkter til, og
+4. ubrukte halvfabrikater eller annet overskuddsmateriale fra virksomheten eller anlegget, for eksempel produkter med utgått holdbarhetsdato, disponeres i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 ► **M9**
 
@@ -1515,7 +2471,11 @@ IMPORT, TRANSITT OG EKSPORT
 
 ### Artikkel 25. Import, transitt og eksport av animalske biprodukter og avledede produkter
 
-1\. Import til og transitt gjennom Unionen av følgende animalske biprodukter skal være forbudt:ubearbeidet husdyrgjødsel,ubearbeidede fjør og deler av fjør og dun,bivoks i form av bikaker.
+1\. Import til og transitt gjennom Unionen av følgende animalske biprodukter skal være forbudt:
+
+1. ubearbeidet husdyrgjødsel,
+2. ubearbeidede fjør og deler av fjør og dun,
+3. bivoks i form av bikaker.
 
 ►**M36**
 
@@ -1525,10 +2485,36 @@ IMPORT, TRANSITT OG EKSPORT
 
 ► **M2**
 
-2\. Innføring til og transitt gjennom Unionen av følgende skal ikke være underlagt noen krav til dyrehelse:ull og hår som er fabrikkvasket eller behandlet med en annen metode som sikrer at ingen uakseptabel risiko gjenstår,pels som har blitt tørket ved en omgivelsestemperatur på 18 °C i minst to dager ved en luftfuktighet på 55 %,ull og hår framstilt fra andre dyr enn svin, som har blitt behandlet ved fabrikkvasking som består av at ullen eller håret senkes i en serie vannbad, såpe og natriumhydroksid eller kaliumhydroksid,ull og hår framstilt fra andre dyr enn svin, som sendes direkte til et anlegg som framstiller avledede produkter av ull og hår for tekstilindustrien og som har blitt behandlet med minst én av følgende framgangsmåter:kjemisk avbusting ved hjelp av lesket kalk eller natriumsulfid,utgassing med formaldehyd i et hermetisk forseglet kammer i minst 24 timer,industriell rensing som består av at ull og hår senkes i et vannløselig vaskemiddel som holder 60–70 °C,lagring, som kan omfatte transporttid, ved 37 °C i åtte dager, 18 °C i 28 dager eller 4 °C i 120 dager,ull og hår som er tørt og forsvarlig emballert, framstilt fra andre dyr enn svin og som er beregnet for sending til et anlegg som framstiller avledede produkter fra ull og hår til tekstilindustrien og tilfredsstiller alle de følgende krav:Det ble framstilt minst 21 dager før innføringen i Unionen og holdt i en tredjestat eller region av denne som eroppført i del 1 av vedlegg II til forordning [(EU) nr. 206/2010](eu/32010r0206*) og godkjent for innføring til Unionen av ferskt kjøtt fra drøvtyggere som ikke er underlagt tilleggsgaranti A og F omhandlet i nevnte forordning,fri for munn- og klovsyke og, ved ull og hår fra sauer og geiter, for saue- og geitekopper i samsvar med de grunnleggende generelle kriterier som er angitt i vedlegg II til rådsdirektiv [2004/68/EF](eu/32004l0068*).Det er fulgt av en importørerklæring slik det kreves i henhold til kapittel 21 i vedlegg XV.Det ble forelagt av den driftsansvarlige på en av de godkjente grensekontrollstasjonene i Unionen som er oppført i vedlegg I til vedtak [2009/821/EF](eu/32009d0821), der det med tilfredsstillende resultat gjennomgikk dokumentkontrollen foretatt i samsvar med artikkel 4 nr. 3 i direktiv [97/78/EF](eu/31997l0078).◄ **M2**►**M36**salgsklare avledede produkter av bivoks som ikke er beregnet på bruk som fôr eller kjæledyrfôr eller på bruk i gjød-sel, bigårder, kosmetikk eller legemidler.
-◄**M36**
+2\. Innføring til og transitt gjennom Unionen av følgende skal ikke være underlagt noen krav til dyrehelse:
 
-3\. Driftsansvarlige skal oppfylle følgende særlige krav i vedlegg XIV til denne forordning for import til og transitt gjennom Unionen av visse animalske biprodukter og avledede produkter som nevnt i artikkel 41 nr. 3 og artikkel 42 i forordning [(EF) nr. 1069/2009](eu/32009r1069):de særlige kravene i kapittel I i nevnte vedlegg for import og transitt av kategori 3-materiale og avledede produkter til bruk i fôrkjeden, unntatt i fôr til kjæledyr eller pelsdyr,de særlige kravene i kapittel II i nevnte vedlegg for import og transitt av animalske biprodukter og avledede produkter til bruk utenfor fôrkjeden for produksjonsdyr.
+1. ull og hår som er fabrikkvasket eller behandlet med en annen metode som sikrer at ingen uakseptabel risiko gjenstår,
+2. pels som har blitt tørket ved en omgivelsestemperatur på 18 °C i minst to dager ved en luftfuktighet på 55 %,
+3. ull og hår framstilt fra andre dyr enn svin, som har blitt behandlet ved fabrikkvasking som består av at ullen eller håret senkes i en serie vannbad, såpe og natriumhydroksid eller kaliumhydroksid,
+4. ull og hår framstilt fra andre dyr enn svin, som sendes direkte til et anlegg som framstiller avledede produkter av ull og hår for tekstilindustrien og som har blitt behandlet med minst én av følgende framgangsmåter:
+
+   - kjemisk avbusting ved hjelp av lesket kalk eller natriumsulfid,
+   - utgassing med formaldehyd i et hermetisk forseglet kammer i minst 24 timer,
+   - industriell rensing som består av at ull og hår senkes i et vannløselig vaskemiddel som holder 60–70 °C,
+   - lagring, som kan omfatte transporttid, ved 37 °C i åtte dager, 18 °C i 28 dager eller 4 °C i 120 dager,
+5. ull og hår som er tørt og forsvarlig emballert, framstilt fra andre dyr enn svin og som er beregnet for sending til et anlegg som framstiller avledede produkter fra ull og hår til tekstilindustrien og tilfredsstiller alle de følgende krav:
+
+   1. Det ble framstilt minst 21 dager før innføringen i Unionen og holdt i en tredjestat eller region av denne som er
+
+      - oppført i del 1 av vedlegg II til forordning [(EU) nr. 206/2010](eu/32010r0206*) og godkjent for innføring til Unionen av ferskt kjøtt fra drøvtyggere som ikke er underlagt tilleggsgaranti A og F omhandlet i nevnte forordning,
+      - fri for munn- og klovsyke og, ved ull og hår fra sauer og geiter, for saue- og geitekopper i samsvar med de grunnleggende generelle kriterier som er angitt i vedlegg II til rådsdirektiv [2004/68/EF](eu/32004l0068*).
+   2. Det er fulgt av en importørerklæring slik det kreves i henhold til kapittel 21 i vedlegg XV.
+   3. Det ble forelagt av den driftsansvarlige på en av de godkjente grensekontrollstasjonene i Unionen som er oppført i vedlegg I til vedtak [2009/821/EF](eu/32009d0821), der det med tilfredsstillende resultat gjennomgikk dokumentkontrollen foretatt i samsvar med artikkel 4 nr. 3 i direktiv [97/78/EF](eu/31997l0078).
+
+      ◄ **M2**
+
+   ►**M36**
+6. salgsklare avledede produkter av bivoks som ikke er beregnet på bruk som fôr eller kjæledyrfôr eller på bruk i gjød-sel, bigårder, kosmetikk eller legemidler.
+   ◄**M36**
+
+3\. Driftsansvarlige skal oppfylle følgende særlige krav i vedlegg XIV til denne forordning for import til og transitt gjennom Unionen av visse animalske biprodukter og avledede produkter som nevnt i artikkel 41 nr. 3 og artikkel 42 i forordning [(EF) nr. 1069/2009](eu/32009r1069):
+
+1. de særlige kravene i kapittel I i nevnte vedlegg for import og transitt av kategori 3-materiale og avledede produkter til bruk i fôrkjeden, unntatt i fôr til kjæledyr eller pelsdyr,
+2. de særlige kravene i kapittel II i nevnte vedlegg for import og transitt av animalske biprodukter og avledede produkter til bruk utenfor fôrkjeden for produksjonsdyr.
 
 ►**M24**
 
@@ -1542,7 +2528,27 @@ IMPORT, TRANSITT OG EKSPORT
 
 ### Artikkel 26. Omsetning, herunder import, og eksport av visse typer kategori 1-materiale
 
-Vedkommende myndighet kan tillate omsetning, herunder import, og eksport av huder og skinn fra dyr som har gjennomgått ulovlig behandling i henhold til artikkel 1 nr. 2 bokstav d) i direktiv [96/22/EF](eu/31996l0022) eller artikkel 2 bokstav b) i direktiv [96/23/EF](eu/31996l0023), og av tarmer fra drøvtyggere, med eller uten innhold, samt av bein og beinprodukter som inneholder virvelsøyler og kranier, forutsatt at følgende krav er oppfylt:materialet er ikke kategori 1-materiale framstilt av følgende dyr:dyr som er mistenkt for å være angrepet av TSE i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999),dyr som forekomst av TSE er offisielt bekreftet hos,dyr som er avlivet som følge av tiltak for å utrydde TSE,materialet er ikke beregnet på følgende bruksformål:fôring,spredning på jord der det høstes fôr til produksjonsdyr,framstilling avkosmetiske produkter som definert i artikkel 1 nr. 1 i direktiv [76/768/EØF](eu/31976l0768*),aktive implanterbare medisinske innretninger som definert i artikkel 1 nr. 2 bokstav c) i direktiv [90/385/EØF](eu/31990l0385*),medisinsk utstyr som definert i artikkel 1 nr. 2 bokstav a) i direktiv [93/42/EØF](eu/31993l0042),medisinsk utstyr til in vitro-diagnostikk som definert i artikkel 1 nr. 2 bokstav b) i direktiv [98/79/EF](eu/31998l0079*),veterinærpreparater som definert i artikkel 1 nr. 2 i direktiv [2001/82/EF](eu/32001l0082),legemidler som definert i artikkel 1 nr. 2 i direktiv [2001/83/EF](eu/32001l0083),materialet skal være merket ved import og skal oppfylle de særlige kravene til visse typer forflytning av animalske biprodukter i kapittel IV avsnitt 1 i vedlegg XIV til denne forordning,materialet skal være importert i samsvar med krav til hygieneattestering i samsvar med nasjonal lovgivning.
+Vedkommende myndighet kan tillate omsetning, herunder import, og eksport av huder og skinn fra dyr som har gjennomgått ulovlig behandling i henhold til artikkel 1 nr. 2 bokstav d) i direktiv [96/22/EF](eu/31996l0022) eller artikkel 2 bokstav b) i direktiv [96/23/EF](eu/31996l0023), og av tarmer fra drøvtyggere, med eller uten innhold, samt av bein og beinprodukter som inneholder virvelsøyler og kranier, forutsatt at følgende krav er oppfylt:
+
+1. materialet er ikke kategori 1-materiale framstilt av følgende dyr:
+
+   1. dyr som er mistenkt for å være angrepet av TSE i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999),
+   2. dyr som forekomst av TSE er offisielt bekreftet hos,
+   3. dyr som er avlivet som følge av tiltak for å utrydde TSE,
+2. materialet er ikke beregnet på følgende bruksformål:
+
+   1. fôring,
+   2. spredning på jord der det høstes fôr til produksjonsdyr,
+   3. framstilling av
+
+      - kosmetiske produkter som definert i artikkel 1 nr. 1 i direktiv [76/768/EØF](eu/31976l0768*),
+      - aktive implanterbare medisinske innretninger som definert i artikkel 1 nr. 2 bokstav c) i direktiv [90/385/EØF](eu/31990l0385*),
+      - medisinsk utstyr som definert i artikkel 1 nr. 2 bokstav a) i direktiv [93/42/EØF](eu/31993l0042),
+      - medisinsk utstyr til in vitro-diagnostikk som definert i artikkel 1 nr. 2 bokstav b) i direktiv [98/79/EF](eu/31998l0079*),
+      - veterinærpreparater som definert i artikkel 1 nr. 2 i direktiv [2001/82/EF](eu/32001l0082),
+      - legemidler som definert i artikkel 1 nr. 2 i direktiv [2001/83/EF](eu/32001l0083),
+3. materialet skal være merket ved import og skal oppfylle de særlige kravene til visse typer forflytning av animalske biprodukter i kapittel IV avsnitt 1 i vedlegg XIV til denne forordning,
+4. materialet skal være importert i samsvar med krav til hygieneattestering i samsvar med nasjonal lovgivning.
 
 ►**M24**
 
@@ -1550,7 +2556,12 @@ Vedkommende myndighet kan tillate omsetning, herunder import, og eksport av hude
 
 ### Artikkel 27. Import og transitt av prøver til forskning og diagnostikk
 
-1\. Vedkommende myndighet kan tillate import og transitt av prøver til forskning og diagnostikk som inneholder avledede produkter eller animalske biprodukter, herunder animalske biprodukter nevnt i artikkel 25 nr. 1, på vilkår som sikrer kontroll med risikoen for folkehelsen og dyrehelsen.Disse vilkårene skal omfatte minst følgende tiltak:innførselen av forsendelsen skal være godkjent på forhånd av vedkommende myndighet i bestemmelsesmedlemsstaten, ogforsendelsen skal sendes direkte fra innførselsstedet til Unionen, til den godkjente brukeren.
+1\. Vedkommende myndighet kan tillate import og transitt av prøver til forskning og diagnostikk som inneholder avledede produkter eller animalske biprodukter, herunder animalske biprodukter nevnt i artikkel 25 nr. 1, på vilkår som sikrer kontroll med risikoen for folkehelsen og dyrehelsen.
+
+Disse vilkårene skal omfatte minst følgende tiltak:
+
+1. innførselen av forsendelsen skal være godkjent på forhånd av vedkommende myndighet i bestemmelsesmedlemsstaten, og
+2. forsendelsen skal sendes direkte fra innførselsstedet til Unionen, til den godkjente brukeren.
 
 2\. Driftsansvarlige skal framvise prøver til forskning og diagnostikk som skal importeres gjennom en annen medlemsstat enn bestemmelsesmedlemsstaten, ved en godkjent grensekontrollstasjon i Unionen som er oppført i vedlegg I til vedtak [2009/821/EF](eu/32009d0821). Disse prøvene til forskning og diagnostikk skal ikke gjennomgå veterinærkontroll i henhold til kapittel I i direktiv [97/78/EF](eu/31997l0078) på grensestasjonen. Vedkommende myndigheter for grensekontrollstasjonen skal underrette vedkommende myndighet i bestemmelsesmedlemsstaten om innførselen av prøvene til forskning og diagnostikk, gjennom TRACES-systemet.
 
@@ -1568,7 +2579,9 @@ Vedkommende myndighet kan tillate omsetning, herunder import, og eksport av hude
 
 ### Artikkel 29. Særlige krav til visse typer forflytning av animalske biprodukter mellom områder i Russland
 
-1\. Vedkommende myndighet skal tillate visse typer forflytning av forsendelser av animalske biprodukter som kommer fra og skal til Russland direkte eller gjennom en annen tredjestat, på vei eller med jernbane gjennom Unionen, mellom godkjente grensekontrollstasjoner i Unionen som er oppført i vedlegg I til vedtak [2009/821/EF](eu/32009d0821), forutsatt at følgende vilkår er oppfylt:forsendelsen skal være forseglet med et segl med løpenummer på grensekontrollstasjonen på innførselsstedet til Unionen, av den offentlige vedkommende myndighets veterinærtjeneste,
+1\. Vedkommende myndighet skal tillate visse typer forflytning av forsendelser av animalske biprodukter som kommer fra og skal til Russland direkte eller gjennom en annen tredjestat, på vei eller med jernbane gjennom Unionen, mellom godkjente grensekontrollstasjoner i Unionen som er oppført i vedlegg I til vedtak [2009/821/EF](eu/32009d0821), forutsatt at følgende vilkår er oppfylt:
+
+1. forsendelsen skal være forseglet med et segl med løpenummer på grensekontrollstasjonen på innførselsstedet til Unionen, av den offentlige vedkommende myndighets veterinærtjeneste,
 
 ►**M19**
 
@@ -1580,7 +2593,9 @@ Vedkommende myndighet kan tillate omsetning, herunder import, og eksport av hude
 
 ### Artikkel 29a. Særlige krav til transitt gjennom Kroatia av animalske biprodukter fra Bosnia-Hercegovina beregnet på tredjestater
 
-1\. Transport på vei gjennom Unionen av forsendelser av animalske biprodukter og avledede produkter fra Bosnia-Hercegovina beregnet på tredjestater direkte mellom grensekontrollstasjonen Nova Sela og grensekontrollstasjonen Ploče skal være tillatt, forutsatt at følgende vilkår er oppfylt:forsendelsen er forseglet med et segl med løpenummer av den offentlige veterinæren på innførselsgrensekontrollstasjonen,
+1\. Transport på vei gjennom Unionen av forsendelser av animalske biprodukter og avledede produkter fra Bosnia-Hercegovina beregnet på tredjestater direkte mellom grensekontrollstasjonen Nova Sela og grensekontrollstasjonen Ploče skal være tillatt, forutsatt at følgende vilkår er oppfylt:
+
+1. forsendelsen er forseglet med et segl med løpenummer av den offentlige veterinæren på innførselsgrensekontrollstasjonen,
 
 ►**M19**
 
@@ -1613,13 +2628,20 @@ OFFENTLIG KONTROLL
 
 ### Artikkel 32. Offentlig kontroll
 
-1\. Vedkommende myndighet skal treffe alle nødvendige tiltak for å kontrollere hele kjeden av innsamling, transport, bruk og disponering av animalske biprodukter og avledede produkter, som nevnt i artikkel 4 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069).Tiltakene skal gjennomføres i samsvar med prinsippene for offentlig kontroll i artikkel 3 i forordning [(EF) nr. 882/2004](eu/32004r0882*).
+1\. Vedkommende myndighet skal treffe alle nødvendige tiltak for å kontrollere hele kjeden av innsamling, transport, bruk og disponering av animalske biprodukter og avledede produkter, som nevnt i artikkel 4 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+
+Tiltakene skal gjennomføres i samsvar med prinsippene for offentlig kontroll i artikkel 3 i forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
 2\. Offentlig kontroll i henhold til nr. 1 skal omfatte kontroll av registerføringen og andre dokumenter som kreves i henhold til denne forordning.
 
-3\. Vedkommende myndighet skal gjennomføre følgende offentlige kontroller, som nevnt i artikkel 45 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), i samsvar med kravene i vedlegg XVI til denne forordning:offentlig kontroll i bearbeidingsanlegg i henhold til kapittel I,offentlig kontroll av annen virksomhet som omfatter håndtering av animalske biprodukter og avledede produkter i henhold til kapittel III avsnitt 1–9.
+3\. Vedkommende myndighet skal gjennomføre følgende offentlige kontroller, som nevnt i artikkel 45 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), i samsvar med kravene i vedlegg XVI til denne forordning:
 
-4\. Vedkommende myndighet skal kontrollere forseglinger på forsendelser av animalske biprodukter eller avledede produkter.Når vedkommende myndighet forsegler en slik forsendelse som transporteres til et bestemmelsessted, skal den underrette vedkommende myndighet for bestemmelsesstedet.
+1. offentlig kontroll i bearbeidingsanlegg i henhold til kapittel I,
+2. offentlig kontroll av annen virksomhet som omfatter håndtering av animalske biprodukter og avledede produkter i henhold til kapittel III avsnitt 1–9.
+
+4\. Vedkommende myndighet skal kontrollere forseglinger på forsendelser av animalske biprodukter eller avledede produkter.
+
+Når vedkommende myndighet forsegler en slik forsendelse som transporteres til et bestemmelsessted, skal den underrette vedkommende myndighet for bestemmelsesstedet.
 
 5\. Vedkommende myndighet skal utarbeide lister over virksomheter, anlegg og driftsansvarlige i henhold til artikkel 47 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), i samsvar med formatet i kapittel II i vedlegg XVI til denne forordning.
 
@@ -1640,17 +2662,39 @@ SLUTTBESTEMMELSER
 
 ### Artikkel 34. Restriksjoner for omsetning av visse animalske biprodukter og avledede produkter av hensyn til folkehelsen og dyrehelsen
 
-Vedkommende myndighet skal ikke forby eller begrense omsetning av følgende animalske biprodukter og avledede produkter av andre hensyn til folkehelsen eller dyrehelsen enn dem som er fastsatt i Unionens regelverk, særlig i forordning [(EF) nr. 1069/2009](eu/32009r1069) og i denne forordning:bearbeidet animalsk protein og andre avledede produkter i henhold til kapittel II i vedlegg X til denne forordning,fôr til kjæledyr og visse andre avledede produkter i henhold til vedlegg XIII til denne forordning,animalske biprodukter og avledede produkter som importeres til eller føres i transitt gjennom Unionen, som nevnt i vedlegg XIV til denne forordning.
+Vedkommende myndighet skal ikke forby eller begrense omsetning av følgende animalske biprodukter og avledede produkter av andre hensyn til folkehelsen eller dyrehelsen enn dem som er fastsatt i Unionens regelverk, særlig i forordning [(EF) nr. 1069/2009](eu/32009r1069) og i denne forordning:
+
+1. bearbeidet animalsk protein og andre avledede produkter i henhold til kapittel II i vedlegg X til denne forordning,
+2. fôr til kjæledyr og visse andre avledede produkter i henhold til vedlegg XIII til denne forordning,
+3. animalske biprodukter og avledede produkter som importeres til eller føres i transitt gjennom Unionen, som nevnt i vedlegg XIV til denne forordning.
 
 ### Artikkel 35. Oppheving
 
-1\. Følgende rettsakter oppheves:forordning [(EF) nr. 811/2003](eu/32003r0811),vedtak [2003/322/EF](eu/32003d0322),vedtak [2003/324/EF](eu/32003d0324),forordning [(EF) nr. 878/2004](eu/32004r0878),vedtak [2004/407/EF](eu/32004d0407*),forordning [(EF) nr. 79/2005](eu/32005r0079),forordning [(EF) nr. 92/2005](eu/32005r0092),forordning [(EF) nr. 181/2006](eu/32006r0181),forordning [(EF) nr. 197/2006](eu/32006r0197),forordning [(EF) nr. 1192/2006](eu/32006r1192),forordning [(EF) nr. 2007/2006](eu/32006r2007).
+1\. Følgende rettsakter oppheves:
+
+1. forordning [(EF) nr. 811/2003](eu/32003r0811),
+2. vedtak [2003/322/EF](eu/32003d0322),
+3. vedtak [2003/324/EF](eu/32003d0324),
+4. forordning [(EF) nr. 878/2004](eu/32004r0878),
+5. vedtak [2004/407/EF](eu/32004d0407*),
+6. forordning [(EF) nr. 79/2005](eu/32005r0079),
+7. forordning [(EF) nr. 92/2005](eu/32005r0092),
+8. forordning [(EF) nr. 181/2006](eu/32006r0181),
+9. forordning [(EF) nr. 197/2006](eu/32006r0197),
+10. forordning [(EF) nr. 1192/2006](eu/32006r1192),
+11. forordning [(EF) nr. 2007/2006](eu/32006r2007).
 
 2\. Henvisninger til de opphevede rettsaktene skal forstås som henvisninger til denne forordning.
 
 ### Artikkel 36. Overgangstiltak
 
-1\. I en overgangsperiode fram til 31. desember 2011 kan driftsansvarlige bringe i omsetning organisk gjødsel og jordforbedringsmidler som ble framstilt før 4. mars 2011 i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*) og (EF) [nr. 181/2006](eu/32006r0181),forutsatt at de er framstilt av entenkjøttbeinmel som er framstilt av kategori 2-materiale, ellerbearbeidet animalsk protein,selv om de ikke er blandet med en bestanddel for å utelukke at blandingen senere brukes som fôr.
+1\. I en overgangsperiode fram til 31. desember 2011 kan driftsansvarlige bringe i omsetning organisk gjødsel og jordforbedringsmidler som ble framstilt før 4. mars 2011 i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*) og (EF) [nr. 181/2006](eu/32006r0181),
+
+1. forutsatt at de er framstilt av enten
+
+   1. kjøttbeinmel som er framstilt av kategori 2-materiale, eller
+   2. bearbeidet animalsk protein,
+2. selv om de ikke er blandet med en bestanddel for å utelukke at blandingen senere brukes som fôr.
 
 2\. I en overgangsperiode fram til 31. januar 2012 skal forsendelser av animalske biprodukter og avledede produkter som følges av et hygienesertifikat, en erklæring eller et handelsdokument som er utfylt og undertegnet i samsvar med den relevante modellen i vedlegg X til forordning [(EF) nr. 1774/2002](eu/32002r1774*), fortsatt godkjennes for import til Unionen, forutsatt at sertifikatene, erklæringene eller dokumentene er utfylt og undertegnet før 30. november 2011.
 
@@ -1677,7 +2721,14 @@ Utferdiget i Brussel, 25. februar 2011.
 ### VEDLEGG I
 DEFINISJONER SOM NEVNT I ARTIKKEL 2
 
-I denne forordning menes med:«pelsdyr» dyr som holdes eller oppdrettes med henblikk på pelsproduksjon og som ikke er beregnet på konsum,«blod» ferskt fullblod,«fôrmiddel» fôrmidler i henhold til artikkel 3 nr. 2 bokstav g) i forordning [(EF) nr. 767/2009](eu/32009r0767) som er av animalsk opprinnelse, herunder bearbeidet animalsk protein, blodprodukter, smeltet fett, eggprodukter, fiskeolje, fettderivater, kollagen, gelatin og hydrolyserte proteiner, dikalsiumfosfat, trikalsiumfosfat, melk, melkebaserte produkter, produkter framstilt av melk, råmelk, råmelksprodukter og slam fra sentrifugering eller separering,«blodprodukter» produkter fra blod eller bestanddeler av blod, med unntak av blodmel; de omfatter tørket/fryst/flytende plasma, tørket fullblod, tørkede/fryste/flytende røde blodlegemer eller bestanddeler og blandinger av disse,«bearbeidet animalsk protein» animalsk protein som i sin helhet er framstilt av kategori 3-materiale, og som er behandlet i samsvar med vedlegg X kapittel II avsnitt 1 (herunder blodmel og fiskemel), for å gjøre det egnet til direkte bruk som fôrmiddel eller annen bruk i fôrvarer, herunder fôr til kjæledyr, eller til bruk i organisk gjødsel eller jordforbedringsmidler; det omfatter imidlertid ikke blodprodukter, melk, melkebaserte produkter, produkter framstilt av melk, råmelk, råmelksprodukter, slam fra sentrifugering eller separering, gelatin, hydrolyserte proteiner og dikalsiumfosfat, egg og eggprodukter, herunder eggeskall, trikalsiumfosfat og kollagen,«blodmel» bearbeidet animalsk protein framstilt gjennom varmebehandling av blod eller bestanddeler av blod i samsvar med vedlegg X kapittel II avsnitt 1,
+I denne forordning menes med:
+
+1. «pelsdyr» dyr som holdes eller oppdrettes med henblikk på pelsproduksjon og som ikke er beregnet på konsum,
+2. «blod» ferskt fullblod,
+3. «fôrmiddel» fôrmidler i henhold til artikkel 3 nr. 2 bokstav g) i forordning [(EF) nr. 767/2009](eu/32009r0767) som er av animalsk opprinnelse, herunder bearbeidet animalsk protein, blodprodukter, smeltet fett, eggprodukter, fiskeolje, fettderivater, kollagen, gelatin og hydrolyserte proteiner, dikalsiumfosfat, trikalsiumfosfat, melk, melkebaserte produkter, produkter framstilt av melk, råmelk, råmelksprodukter og slam fra sentrifugering eller separering,
+4. «blodprodukter» produkter fra blod eller bestanddeler av blod, med unntak av blodmel; de omfatter tørket/fryst/flytende plasma, tørket fullblod, tørkede/fryste/flytende røde blodlegemer eller bestanddeler og blandinger av disse,
+5. «bearbeidet animalsk protein» animalsk protein som i sin helhet er framstilt av kategori 3-materiale, og som er behandlet i samsvar med vedlegg X kapittel II avsnitt 1 (herunder blodmel og fiskemel), for å gjøre det egnet til direkte bruk som fôrmiddel eller annen bruk i fôrvarer, herunder fôr til kjæledyr, eller til bruk i organisk gjødsel eller jordforbedringsmidler; det omfatter imidlertid ikke blodprodukter, melk, melkebaserte produkter, produkter framstilt av melk, råmelk, råmelksprodukter, slam fra sentrifugering eller separering, gelatin, hydrolyserte proteiner og dikalsiumfosfat, egg og eggprodukter, herunder eggeskall, trikalsiumfosfat og kollagen,
+6. «blodmel» bearbeidet animalsk protein framstilt gjennom varmebehandling av blod eller bestanddeler av blod i samsvar med vedlegg X kapittel II avsnitt 1,
 
 ►**M11**
 
@@ -1685,7 +2736,10 @@ I denne forordning menes med:«pelsdyr» dyr som holdes eller oppdrettes med hen
 
 ◄**M11**
 
-1. «smeltet fett» enten fett som er framstilt gjennom bearbeiding avanimalske biprodukter, ellerprodukter beregnet på konsum, som en driftsansvarlig har besluttet å bruke for andre formål enn konsum,
+1. «smeltet fett» enten fett som er framstilt gjennom bearbeiding av
+
+   1. animalske biprodukter, eller
+   2. produkter beregnet på konsum, som en driftsansvarlig har besluttet å bruke for andre formål enn konsum,
 
 ►**M11**
 
@@ -1705,7 +2759,10 @@ I denne forordning menes med:«pelsdyr» dyr som holdes eller oppdrettes med hen
 
 ► **M4**
 
-1. «fôr til kjæledyr» annet fôr enn materialet nevnt i artikkel 24 nr. 2, til bruk som fôr til kjæledyr, og tyggesaker som består av animalske biprodukter og avledede produkter sominneholder annet kategori 3-materiale enn materialet nevnt i artikkel 10 bokstav n), o) og p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), ogkan inneholde importert kategori 1-materiale som består av animalske biprodukter fra dyr som har gjennomgått ulovlig behandling i henhold til artikkel 1 nr. 2 bokstav d) i direktiv [96/22/EF](eu/31996l0022) eller artikkel 2 bokstav b) i direktiv [96/23/EF](eu/31996l0023),
+1. «fôr til kjæledyr» annet fôr enn materialet nevnt i artikkel 24 nr. 2, til bruk som fôr til kjæledyr, og tyggesaker som består av animalske biprodukter og avledede produkter som
+
+   1. inneholder annet kategori 3-materiale enn materialet nevnt i artikkel 10 bokstav n), o) og p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), og
+   2. kan inneholde importert kategori 1-materiale som består av animalske biprodukter fra dyr som har gjennomgått ulovlig behandling i henhold til artikkel 1 nr. 2 bokstav d) i direktiv [96/22/EF](eu/31996l0022) eller artikkel 2 bokstav b) i direktiv [96/23/EF](eu/31996l0023),
 
 ◄ **M4**
 
@@ -1723,23 +2780,66 @@ I denne forordning menes med:«pelsdyr» dyr som holdes eller oppdrettes med hen
 2. «fettderivater» produkter framstilt av smeltet fett, som når det gjelder smeltet fett fra kategori 1- eller 2-materiale, er bearbeidet i samsvar med vedlegg XIII kapittel XI,
 3. «guano» et naturprodukt som er samlet inn fra ekskrementer fra flaggermus eller viltlevende sjøfugler og som ikke er mineralisert,
 4. «kjøttbeinmel» animalsk protein framstilt gjennom bearbeiding av kategori 1- eller 2-materiale i samsvar med en av bearbeidingsmetodene i vedlegg IV kapittel III,
-5. «behandlede huder og skinn» produkter framstilt av ubehandlede huder og skinn, unntatt tyggesaker, somer tørket,er tørrsaltet eller våtsaltet i minst 14 dager før avsendelse,er saltet i minst sju døgn i havsalt tilsatt 2 % natriumkarbonat,er tørket i minst 42 døgn ved en temperatur på minst 20 °C, ellerer konservert på annen måte enn ved garving,
+5. «behandlede huder og skinn» produkter framstilt av ubehandlede huder og skinn, unntatt tyggesaker, som
+
+   1. er tørket,
+   2. er tørrsaltet eller våtsaltet i minst 14 dager før avsendelse,
+   3. er saltet i minst sju døgn i havsalt tilsatt 2 % natriumkarbonat,
+   4. er tørket i minst 42 døgn ved en temperatur på minst 20 °C, eller
+   5. er konservert på annen måte enn ved garving,
 6. «ubehandlede huder og skinn» alt hud- og underhudsvev som ikke har gjennomgått annen behandling enn oppdeling, kjøling eller innfrysing,
-7. «ubehandlede fjør og deler av fjør» fjør og deler av fjør, unntatt fjør og deler av fjør som er behandletmed vanndamp ellermed en annen metode som sikrer at ingen uakseptabel risiko gjenstår,
+7. «ubehandlede fjør og deler av fjør» fjør og deler av fjør, unntatt fjør og deler av fjør som er behandlet
+
+   1. med vanndamp eller
+   2. med en annen metode som sikrer at ingen uakseptabel risiko gjenstår,
 
 ► **M2**
 
-1. «ubehandlet ull» ull, unntatt ull somer vasket på fabrikk,er framstilt ved garving,er behandlet med en annen metode som sikrer at ingen uakseptabel risiko gjenstår,er framstilt fra andre dyr enn svin, og har blitt behandlet ved fabrikkvasking som består av at ullen senkes i en serie vannbad, såpe og natriumhydroksid eller kaliumhydroksid, ellerer framstilt fra andre dyr enn svin, er beregnet på sending direkte til et anlegg som framstiller avledede produkter av ull og hår for tekstilindustrien, og har blitt behandlet med minst én av følgende framgangsmåter:kjemisk avbusting ved hjelp av lesket kalk eller natriumsulfid,utgassing med formaldehyd i et hermetisk forseglet kammer i minst 24 timer,industriell rensing som består av at ull senkes i et vannløselig vaskemiddel som holder 60–70 °C,lagring, som kan omfatte transporttid, ved 37 °C i åtte dager, 18 °C i 28 dager eller 4 °C i 120 dager,
-2. «ubehandlet hår» hår, unntatt hår somer vasket på fabrikk,er framstilt ved garving,er behandlet med en annen metode som sikrer at ingen uakseptabel risiko gjenstår,er framstilt fra andre dyr enn svin, og har blitt behandlet ved fabrikkvasking som består av at håret senkes i en serie vannbad, såpe og natriumhydroksid eller kaliumhydroksid, ellerer framstilt fra andre dyr enn svin, er beregnet på sending direkte til et anlegg som framstiller avledede produkter av hår for tekstilindustrien, og har blitt behandlet med minst én av følgende framgangsmåter:kjemisk avbusting ved hjelp av lesket kalk eller natriumsulfid,utgassing med formaldehyd i et hermetisk forseglet kammer i minst 24 timer,industriell rensing som består av at hår senkes i et vannløselig vaskemiddel som holder 60–70 °C,lagring, som kan omfatte transporttid, ved 37 °C i åtte dager, 18 °C i 28 dager eller 4 °C i 120 dager.
+1. «ubehandlet ull» ull, unntatt ull som
+
+   1. er vasket på fabrikk,
+   2. er framstilt ved garving,
+   3. er behandlet med en annen metode som sikrer at ingen uakseptabel risiko gjenstår,
+   4. er framstilt fra andre dyr enn svin, og har blitt behandlet ved fabrikkvasking som består av at ullen senkes i en serie vannbad, såpe og natriumhydroksid eller kaliumhydroksid, eller
+   5. er framstilt fra andre dyr enn svin, er beregnet på sending direkte til et anlegg som framstiller avledede produkter av ull og hår for tekstilindustrien, og har blitt behandlet med minst én av følgende framgangsmåter:
+
+      1. kjemisk avbusting ved hjelp av lesket kalk eller natriumsulfid,
+      2. utgassing med formaldehyd i et hermetisk forseglet kammer i minst 24 timer,
+      3. industriell rensing som består av at ull senkes i et vannløselig vaskemiddel som holder 60–70 °C,
+      4. lagring, som kan omfatte transporttid, ved 37 °C i åtte dager, 18 °C i 28 dager eller 4 °C i 120 dager,
+2. «ubehandlet hår» hår, unntatt hår som
+
+   1. er vasket på fabrikk,
+   2. er framstilt ved garving,
+   3. er behandlet med en annen metode som sikrer at ingen uakseptabel risiko gjenstår,
+   4. er framstilt fra andre dyr enn svin, og har blitt behandlet ved fabrikkvasking som består av at håret senkes i en serie vannbad, såpe og natriumhydroksid eller kaliumhydroksid, eller
+   5. er framstilt fra andre dyr enn svin, er beregnet på sending direkte til et anlegg som framstiller avledede produkter av hår for tekstilindustrien, og har blitt behandlet med minst én av følgende framgangsmåter:
+
+      1. kjemisk avbusting ved hjelp av lesket kalk eller natriumsulfid,
+      2. utgassing med formaldehyd i et hermetisk forseglet kammer i minst 24 timer,
+      3. industriell rensing som består av at hår senkes i et vannløselig vaskemiddel som holder 60–70 °C,
+      4. lagring, som kan omfatte transporttid, ved 37 °C i åtte dager, 18 °C i 28 dager eller 4 °C i 120 dager.
 
 ◄ **M2**
 
-1. «ubehandlede grisebuster» grisebuster, unntatt grisebuster somer vasket på fabrikk,er framstilt ved garving, ellerer behandlet med en annen metode som sikrer at ingen uakseptabel risiko gjenstår,
+1. «ubehandlede grisebuster» grisebuster, unntatt grisebuster som
+
+   1. er vasket på fabrikk,
+   2. er framstilt ved garving, eller
+   3. er behandlet med en annen metode som sikrer at ingen uakseptabel risiko gjenstår,
 2. «utstillingsgjenstand» animalske biprodukter eller avledede produkter beregnet på utstillinger eller kunstnerisk virksomhet,
 
 ► **M9**
 
-1. «halvfabrikat» et avledet produktsom er beregnet for bruk i framstillingen av legemidler, veterinærpreparater, medisinsk utstyr for humanmedisinske og veterinære formål, aktivt implanterbart medisinsk utstyr, medisinsk utstyr for in vitro-diagnostikk for humanmedisinske og veterinære formål, laboratoriereagenser og kosmetiske produktersom materiale i en framstillingsprosess eller i den endelige produksjonen av et ferdig produkt,i validering eller kontroll i en framstillingsprosess, elleri kvalitetskontrollen av det ferdige produktet.som har kommet så langt i utformings-, omdannings- og framstillingsprosessen at materialet kan anses som et avledet produkt og anvendes, enten direkte eller som en bestanddel i et produkt, for formålene nevnt i bokstav a),som imidlertid må behandles eller omdannes ytterligere, for eksempel blandes, overflatebehandles, settes sammen eller emballeres for å være egnet til å bringes i omsetning eller tas i bruk enten som legemiddel, veterinærpreparat, medisinsk utstyr for humanmedisinske og veterinære formål, aktivt implanterbart medisinsk utstyr, medisinsk utstyr for in vitro-diagnostikk for humanmedisinske og veterinære formål, laboratoriereagens eller kosmetisk produkt,
+1. «halvfabrikat» et avledet produkt
+
+   1. som er beregnet for bruk i framstillingen av legemidler, veterinærpreparater, medisinsk utstyr for humanmedisinske og veterinære formål, aktivt implanterbart medisinsk utstyr, medisinsk utstyr for in vitro-diagnostikk for humanmedisinske og veterinære formål, laboratoriereagenser og kosmetiske produkter
+
+      1. som materiale i en framstillingsprosess eller i den endelige produksjonen av et ferdig produkt,
+      2. i validering eller kontroll i en framstillingsprosess, eller
+      3. i kvalitetskontrollen av det ferdige produktet.
+   2. som har kommet så langt i utformings-, omdannings- og framstillingsprosessen at materialet kan anses som et avledet produkt og anvendes, enten direkte eller som en bestanddel i et produkt, for formålene nevnt i bokstav a),
+   3. som imidlertid må behandles eller omdannes ytterligere, for eksempel blandes, overflatebehandles, settes sammen eller emballeres for å være egnet til å bringes i omsetning eller tas i bruk enten som legemiddel, veterinærpreparat, medisinsk utstyr for humanmedisinske og veterinære formål, aktivt implanterbart medisinsk utstyr, medisinsk utstyr for in vitro-diagnostikk for humanmedisinske og veterinære formål, laboratoriereagens eller kosmetisk produkt,
 
 ◄ **M9**
 
@@ -1775,17 +2875,19 @@ I denne forordning menes med:«pelsdyr» dyr som holdes eller oppdrettes med hen
 ► **M9**
 
 1. «bearbeidingsanlegg» anlegg eller innretninger for framstilling av animalske biprodukter som nevnt i artikkel 24 nr. 1 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069), der animalske biprodukter bearbeides i samsvar med vedlegg IV og/eller vedlegg X,
-◄ **M9**
+   ◄ **M9**
 
 ►**M23**
 
 1. «dyrkingsmedier» materiale, herunder pottejord, unntatt jord på stedet, som planter eller sopp dyrkes i og som brukes uavhengig av jord på stedet,
 2. «prosesshygienekriterium» et kriterium som angir når produksjonsprosessen fungerer tilfredsstillende. Et slikt kriterium gjelder ikke for produkter som er brakt i omsetning. Kriteriet fastsetter en veiledende grenseverdi for kontaminering, og ved overskridelse av denne verdien kreves det korrigerende tiltak for at hygienen i prosessen fortsatt skal være i samsvar med de generelle kravene til fôrsikkerhet.
-◄**M23**
+   ◄**M23**
 
 ►**M29**
 
-1. «frass» en blanding av ekskrementer fra oppdrettsinsekter, fôrsubstrat, deler av oppdrettsinsekter, døde egg og med et innhold av døde oppdrettsinsekter på høyst 5 volumprosent og 3 vektprosent.◄**M29**
+1. «frass» en blanding av ekskrementer fra oppdrettsinsekter, fôrsubstrat, deler av oppdrettsinsekter, døde egg og med et innhold av døde oppdrettsinsekter på høyst 5 volumprosent og 3 vektprosent.
+
+   ◄**M29**
 
 ►**M11**
 
@@ -1800,16 +2902,48 @@ RESTRIKSJONER PÅ BRUKEN AV ANIMALSKE BIPRODUKTER
 Resirkulering innenfor samme art når det gjelder pelsdyr
 
 1. I Estland, Latvia og Finland kan følgende pelsdyr fôres med kjøttbeinmel eller andre produkter som er bearbeidet i samsvar med vedlegg IV kapittel III og som er framstilt av kropper eller deler av kropper av dyr av samme art:
-► **M1**rev (*Vulpes vulpes* og *Alopex lagopus*).◄ **M1**mårhund *(Nyctereutes procynoides*).
+   ► **M1**
+
+   1. rev (*Vulpes vulpes* og *Alopex lagopus*).
+
+   ◄ **M1**
+
+   1. mårhund *(Nyctereutes procynoides*).
 2. I Estland og Latvia kan pelsdyr av arten mink (*Mustela vison*) fôres med kjøttbeinmel eller andre produkter som er bearbeidet i samsvar med bearbeidingsmetodene i vedlegg IV kapittel III og som er framstilt av kropper eller deler av kropper av dyr av samme art.
-3. Fôringen nevnt i nr. 1 og 2 skal skje på følgende vilkår:Fôringen skal skje bare i driftsenhetersom er registrert av vedkommende myndighet på grunnlag av en søknad med vedlagt dokumentasjon som beviser at det ikke er noen grunn til å mistenke at det forekommer TSE-agens i bestanden av den arten som søknaden gjelder,som har et egnet overvåkingssystem for overførbar spongiform encefalopati (TSE) hos pelsdyr, som omfatter regelmessig laboratorieundersøkelse av prøver med tanke på TSE,som har gitt tilstrekkelig garanti for at animalske biprodukter eller kjøttbeinmel eller andre produkter som er bearbeidet i samsvar med vedlegg IV kapittel III og som er framstilt av slike dyr eller deres avkom, ikke kan komme inn i næringsmiddel- eller fôrkjeden til andre dyr enn pelsdyr,som ikke har hatt noen kjent kontakt med en driftsenhet der det er mistanke om eller bekreftet utbrudd av TSE,der den driftsansvarlige for den registrerte driftsenheten sikrer atskrottene av pelsdyr som er beregnet på bruk som fôr til dyr av samme art, håndteres og bearbeides atskilt fra skrotter som ikke er godkjent til dette formålet,pelsdyr som fôres med kjøttbeinmel eller andre produkter som er bearbeidet i samsvar med vedlegg IV kapittel III og som er framstilt av dyr av samme art, holdes atskilt fra dyr som ikke fôres med produkter framstilt av dyr av samme art,driftsenheten oppfyller kravene i vedlegg VI kapittel II avsnitt 1 nr. 2 og i vedlegg VIII kapittel II nr. 2 bokstav b) ii).Den driftsansvarlige for driftsenheten skal sikre at kjøttbeinmel eller andre produkter som kommer fra én art og er beregnet på bruk som fôr til samme art, erbearbeidet i et bearbeidingsanlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069), og som bare anvender bearbeidingsmetode 1–5 eller 7 som fastsatt i kapittel III i vedlegg IV til denne forordning,framstilt av friske dyr som er slaktet med sikte på pelsproduksjon.Dersom det er bekreftet kontakt eller mistanke om kontakt med en driftsenhet der det er mistanke om eller bekreftet utbrudd av TSE, skal den driftsansvarlige for driftsenheten umiddelbartunderrette vedkommende myndighet om slik kontakt,slutte å avsende pelsdyr, uansett bestemmelsessted, med mindre det foreligger en skriftlig godkjenning fra vedkommende myndighet.
+3. Fôringen nevnt i nr. 1 og 2 skal skje på følgende vilkår:
+
+   1. Fôringen skal skje bare i driftsenheter
+
+      1. som er registrert av vedkommende myndighet på grunnlag av en søknad med vedlagt dokumentasjon som beviser at det ikke er noen grunn til å mistenke at det forekommer TSE-agens i bestanden av den arten som søknaden gjelder,
+      2. som har et egnet overvåkingssystem for overførbar spongiform encefalopati (TSE) hos pelsdyr, som omfatter regelmessig laboratorieundersøkelse av prøver med tanke på TSE,
+      3. som har gitt tilstrekkelig garanti for at animalske biprodukter eller kjøttbeinmel eller andre produkter som er bearbeidet i samsvar med vedlegg IV kapittel III og som er framstilt av slike dyr eller deres avkom, ikke kan komme inn i næringsmiddel- eller fôrkjeden til andre dyr enn pelsdyr,
+      4. som ikke har hatt noen kjent kontakt med en driftsenhet der det er mistanke om eller bekreftet utbrudd av TSE,
+      5. der den driftsansvarlige for den registrerte driftsenheten sikrer at
+
+         - skrottene av pelsdyr som er beregnet på bruk som fôr til dyr av samme art, håndteres og bearbeides atskilt fra skrotter som ikke er godkjent til dette formålet,
+         - pelsdyr som fôres med kjøttbeinmel eller andre produkter som er bearbeidet i samsvar med vedlegg IV kapittel III og som er framstilt av dyr av samme art, holdes atskilt fra dyr som ikke fôres med produkter framstilt av dyr av samme art,
+         - driftsenheten oppfyller kravene i vedlegg VI kapittel II avsnitt 1 nr. 2 og i vedlegg VIII kapittel II nr. 2 bokstav b) ii).
+   2. Den driftsansvarlige for driftsenheten skal sikre at kjøttbeinmel eller andre produkter som kommer fra én art og er beregnet på bruk som fôr til samme art, er
+
+      1. bearbeidet i et bearbeidingsanlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069), og som bare anvender bearbeidingsmetode 1–5 eller 7 som fastsatt i kapittel III i vedlegg IV til denne forordning,
+      2. framstilt av friske dyr som er slaktet med sikte på pelsproduksjon.
+   3. Dersom det er bekreftet kontakt eller mistanke om kontakt med en driftsenhet der det er mistanke om eller bekreftet utbrudd av TSE, skal den driftsansvarlige for driftsenheten umiddelbart
+
+      1. underrette vedkommende myndighet om slik kontakt,
+      2. slutte å avsende pelsdyr, uansett bestemmelsessted, med mindre det foreligger en skriftlig godkjenning fra vedkommende myndighet.
 
 ### KAPITTEL II
 Fôring av produksjonsdyr med fôrvekster
 
-Følgene vilkår får anvendelse på fôring av produksjonsdyr med fôrvekster fra jord, enten ved at dyrene har direkte tilgang til jorden eller ved at høstede fôrvekster brukes som fôr, forutsatt at organisk gjødsel eller jordforbedringsmidler er spredt på denne jorden:ventetiden på minst 21 døgn i henhold til artikkel 11 nr. 1 bokstav c) i forordning [(EF) nr. 1069/2009](eu/32009r1069) er overholdt,det er bare anvendt organisk gjødsel og jordforbedringsmidler i samsvar med artikkel 32 nr. 1 og 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og kapittel II i vedlegg XI til denne forordning.
+Følgene vilkår får anvendelse på fôring av produksjonsdyr med fôrvekster fra jord, enten ved at dyrene har direkte tilgang til jorden eller ved at høstede fôrvekster brukes som fôr, forutsatt at organisk gjødsel eller jordforbedringsmidler er spredt på denne jorden:
 
-Disse vilkårene får imidlertid ikke anvendelse dersom bare følgende typer organisk gjødsel eller jordforbedringsmiddel er spredt på jorden:husdyrgjødsel og guano,mage- og tarminnhold, melk, melkebaserte produkter, produkter framstilt av melk, råmelk og råmelksprodukter som ifølge vedkommende myndighet ikke innebærer risiko for spredning av alvorlige dyresykdommer.
+1. ventetiden på minst 21 døgn i henhold til artikkel 11 nr. 1 bokstav c) i forordning [(EF) nr. 1069/2009](eu/32009r1069) er overholdt,
+2. det er bare anvendt organisk gjødsel og jordforbedringsmidler i samsvar med artikkel 32 nr. 1 og 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og kapittel II i vedlegg XI til denne forordning.
+
+Disse vilkårene får imidlertid ikke anvendelse dersom bare følgende typer organisk gjødsel eller jordforbedringsmiddel er spredt på jorden:
+
+1. husdyrgjødsel og guano,
+2. mage- og tarminnhold, melk, melkebaserte produkter, produkter framstilt av melk, råmelk og råmelksprodukter som ifølge vedkommende myndighet ikke innebærer risiko for spredning av alvorlige dyresykdommer.
 
 ► **M8**
 
@@ -1825,10 +2959,22 @@ ALMINNELIGE KRAV TIL AVFALLSFORBRENNING OG SAMFORBRENNING
 
 Allmenne vilkår
 
-1. Driftsansvarlige for avfallsforbrennings- og samforbrenningsanlegg nevnt i artikkel 6 nr. 1 bokstav b) i denne forordning skal sikre at følgende hygienekrav er oppfylt i anleggene de har kontroll over:Animalske biprodukter og avledede produkter skal disponeres snarest mulig etter ankomst, i samsvar med vilkår som er fastsatt av vedkommende myndighet. De skal lagres på egnet måte til de disponeres, i samsvar med vilkår som er fastsatt av vedkommende myndighet.For å unngå risiko for kontaminering skal anlegg ha egnede ordninger for rengjøring og desinfisering av beholdere og kjøretøyer, fortrinnsvis i et særskilt område som spillvann disponeres fra i samsvar med Unionens regelverk.Anlegg skal være plassert på et godt drenert, fast underlag.Anlegg skal være utstyrt med egnede innretninger for vern mot skadedyr, som insekter, gnagere og fugler. I den forbindelse skal det anvendes et dokumentert program for skadedyrbekjempelse.Personalet skal ha tilgang til hensiktsmessige innretninger for å opprettholde egnet personlig hygiene, for eksempel toaletter, garderober og vaskeservanter, dersom det er nødvendig for å hindre risiko for kontaminering.Det skal fastsettes rengjøringsrutiner for alle deler av anlegget, og disse skal dokumenteres. Det skal finnes egnet utstyr og rengjøringsmidler for rengjøringen av anlegget.Hygienekontrollen skal omfatte regelmessige inspeksjoner av miljø og utstyr. Tidsplanen for inspeksjonene og resultatene skal dokumenteres og oppbevares i minst to år.
+1. Driftsansvarlige for avfallsforbrennings- og samforbrenningsanlegg nevnt i artikkel 6 nr. 1 bokstav b) i denne forordning skal sikre at følgende hygienekrav er oppfylt i anleggene de har kontroll over:
+
+   1. Animalske biprodukter og avledede produkter skal disponeres snarest mulig etter ankomst, i samsvar med vilkår som er fastsatt av vedkommende myndighet. De skal lagres på egnet måte til de disponeres, i samsvar med vilkår som er fastsatt av vedkommende myndighet.
+   2. For å unngå risiko for kontaminering skal anlegg ha egnede ordninger for rengjøring og desinfisering av beholdere og kjøretøyer, fortrinnsvis i et særskilt område som spillvann disponeres fra i samsvar med Unionens regelverk.
+   3. Anlegg skal være plassert på et godt drenert, fast underlag.
+   4. Anlegg skal være utstyrt med egnede innretninger for vern mot skadedyr, som insekter, gnagere og fugler. I den forbindelse skal det anvendes et dokumentert program for skadedyrbekjempelse.
+   5. Personalet skal ha tilgang til hensiktsmessige innretninger for å opprettholde egnet personlig hygiene, for eksempel toaletter, garderober og vaskeservanter, dersom det er nødvendig for å hindre risiko for kontaminering.
+   6. Det skal fastsettes rengjøringsrutiner for alle deler av anlegget, og disse skal dokumenteres. Det skal finnes egnet utstyr og rengjøringsmidler for rengjøringen av anlegget.
+   7. Hygienekontrollen skal omfatte regelmessige inspeksjoner av miljø og utstyr. Tidsplanen for inspeksjonene og resultatene skal dokumenteres og oppbevares i minst to år.
 2. Den driftsansvarlige ved et avfallsforbrennings- eller samforbrenningsanlegg skal treffe alle nødvendige forholdsregler med hensyn til å motta animalske biprodukter eller avledede produkter for å unngå eller, i den grad det er praktisk mulig, begrense den direkte risikoen for menneskers og dyrs helse.
 3. Dyr skal ikke ha adgang til anleggene, til animalske biprodukter og avledede produkter i påvente av avfallsforbrenning eller samforbrenning, eller til aske fra avfallsforbrenning eller samforbrenning av animalske biprodukter.
-4. Dersom avfallsforbrennings- eller samforbrenningsanlegget befinner seg på en oppdrettsenhetskal avfallsforbrennings- eller samforbrenningsanlegget og dyrene samt deres fôr og strø, være helt fysisk atskilt, om nødvendig med gjerde,skal utstyret utelukkende være forbeholdt driften av forbrenningsovnen og ikke benyttes andre steder på driftsenheten, eller det skal alternativt rengjøres og desinfiseres før bruk,skal personale som arbeider i anlegget, bytte yttertøy og skotøy før de håndterer dyr eller fôr.
+4. Dersom avfallsforbrennings- eller samforbrenningsanlegget befinner seg på en oppdrettsenhet
+
+   1. skal avfallsforbrennings- eller samforbrenningsanlegget og dyrene samt deres fôr og strø, være helt fysisk atskilt, om nødvendig med gjerde,
+   2. skal utstyret utelukkende være forbeholdt driften av forbrenningsovnen og ikke benyttes andre steder på driftsenheten, eller det skal alternativt rengjøres og desinfiseres før bruk,
+   3. skal personale som arbeider i anlegget, bytte yttertøy og skotøy før de håndterer dyr eller fôr.
 5. Lagringen av animalske biprodukter og avledede produkter i påvente av avfallsforbrenning eller samforbrenning, og av aske skal skje i overdekkede, riktig merkede og, dersom det er relevant, lekkasjesikre beholdere.
 6. Ufullstendig forbrente animalske biprodukter skal avfallsforbrennes på nytt eller disponeres på annen måte enn ved disponering på en godkjent fyllplass, i samsvar med artikkel 12, 13 eller 14 i forordning [(EF) nr. 1069/2009](eu/32009r1069), etter det som er relevant.
 
@@ -1867,7 +3013,11 @@ AVFALLSFORBRENNINGS- OG SAMFORBRENNINGSANLEGG MED HØY KAPASITET
 
 Særlige driftsvilkår
 
-Avfallsforbrennings- eller samforbrenningsanlegg som behandler bare animalske biprodukter og avledede produkter med en kapasitet på mer enn 50 kg per time (anlegg med høy kapasitet) og som ikke må ha driftstillatelse i henhold til direktiv [2000/76/EF](eu/32000l0076*), skal oppfylle følgende vilkår:Hver linje i anlegget skal være utstyrt med minst én støttebrenner. Støttebrenneren skal slås på automatisk dersom temperaturen i forbrenningsgassene, etter siste innblåsing av forbrenningsluft, synker under 850 °C eller 1 100 °C, etter det som er relevant. Den skal også benyttes ved driftsstart- og driftsstansoperasjoner i et anlegg for å sikre at temperaturen holder seg på 850 °C eller 1 100 °C, etter det som er relevant, så lenge det er ubrent materiale i avfallsforbrennings- eller samforbrenningskammeret.Når animalske biprodukter eller avledede produkter fortløpende innføres i kammeret der avfallsforbrenningen eller samforbrenningen skjer, skal anlegget drives med et automatisk system for å hindre at animalske biprodukter eller avledede produkter innføres under driftsstart før det oppnås en temperatur på 850 °C eller 1 100 °C, etter det som er relevant, og alltid når temperaturen ikke kan opprettholdes.Den driftsansvarlige skal drive forbrenningsanlegget på en slik måte at det oppnås en tilstrekkelig høy forbrenning til at det samlede innholdet av organisk karbon i slagg og bunnaske er mindre enn 3 % eller glødetapet er mindre enn 5 % av tørrvekten. Ved behov skal egnede forbehandlingsmetoder anvendes.
+Avfallsforbrennings- eller samforbrenningsanlegg som behandler bare animalske biprodukter og avledede produkter med en kapasitet på mer enn 50 kg per time (anlegg med høy kapasitet) og som ikke må ha driftstillatelse i henhold til direktiv [2000/76/EF](eu/32000l0076*), skal oppfylle følgende vilkår:
+
+1. Hver linje i anlegget skal være utstyrt med minst én støttebrenner. Støttebrenneren skal slås på automatisk dersom temperaturen i forbrenningsgassene, etter siste innblåsing av forbrenningsluft, synker under 850 °C eller 1 100 °C, etter det som er relevant. Den skal også benyttes ved driftsstart- og driftsstansoperasjoner i et anlegg for å sikre at temperaturen holder seg på 850 °C eller 1 100 °C, etter det som er relevant, så lenge det er ubrent materiale i avfallsforbrennings- eller samforbrenningskammeret.
+2. Når animalske biprodukter eller avledede produkter fortløpende innføres i kammeret der avfallsforbrenningen eller samforbrenningen skjer, skal anlegget drives med et automatisk system for å hindre at animalske biprodukter eller avledede produkter innføres under driftsstart før det oppnås en temperatur på 850 °C eller 1 100 °C, etter det som er relevant, og alltid når temperaturen ikke kan opprettholdes.
+3. Den driftsansvarlige skal drive forbrenningsanlegget på en slik måte at det oppnås en tilstrekkelig høy forbrenning til at det samlede innholdet av organisk karbon i slagg og bunnaske er mindre enn 3 % eller glødetapet er mindre enn 5 % av tørrvekten. Ved behov skal egnede forbehandlingsmetoder anvendes.
 
 ###### Avsnitt 2
 
@@ -1883,7 +3033,11 @@ Avfallsforbrennings- eller samforbrenningsanlegg som behandler bare animalske bi
 
 ► **M9**
 
-1. de skal bare brukes til disponering av:døde kjæledyr i henhold til artikkel 8 bokstav a) iii) i forordning [(EF) nr. 1069/2009](eu/32009r1069),kategori 1-materiale nevnt i artikkel 8 bokstav b), e) og f), kategori 2-materiale nevnt i artikkel 9 eller kategori 3-materiale nevnt i artikkel 10 i nevnte forordning, ogdøde, individuelt identifiserte dyr av hestefamilien fra driftsenheter som ikke er underlagt helserestriksjoner i henhold til artikkel 4 nr. 5 eller artikkel 5 i direktiv [2009/156/EF](eu/32009l0156), dersom godkjent av medlemsstaten.
+1. de skal bare brukes til disponering av:
+
+   1. døde kjæledyr i henhold til artikkel 8 bokstav a) iii) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+   2. kategori 1-materiale nevnt i artikkel 8 bokstav b), e) og f), kategori 2-materiale nevnt i artikkel 9 eller kategori 3-materiale nevnt i artikkel 10 i nevnte forordning, og
+   3. døde, individuelt identifiserte dyr av hestefamilien fra driftsenheter som ikke er underlagt helserestriksjoner i henhold til artikkel 4 nr. 5 eller artikkel 5 i direktiv [2009/156/EF](eu/32009l0156), dersom godkjent av medlemsstaten.
 
 ◄ **M9**
 
@@ -1899,10 +3053,25 @@ ALLMENNE KRAV TIL BRUK AV ANIMALSKE BIPRODUKTER OG AVLEDEDE PRODUKTER SOM BRENSE
 
 Allmenne krav til forbrenning av animalske biprodukter og avledede produkter som brensel
 
-1. Driftsansvarlige for forbrenningsanlegg nevnt i artikkel 6 nr. 6 skal sikre at følgende vilkår er oppfylt i forbrenningsanlegg som er under deres kontroll:Animalske biprodukter og avledede produkter som skal brukes som brensel, skal brukes til dette formål så snart som mulig eller lagres på en sikker måte fram til de skal brukes.I forbrenningsanleggene skal det være iverksatt egnede tiltak for å sikre at beholdere og kjøretøyer rengjøres og desinfiseres på et eget område på anlegget der spillvann kan samles opp og disponeres i samsvar med Unionens regelverk, for å unngå risiko for miljøforurensning.Som unntak fra kravene i første ledd kan beholdere og kjøretøyer som brukes til transport av smeltet fett, rengjøres og desinfiseres på lasteanlegget eller på andre anlegg som er godkjent eller registrert i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069).Forbrenningsanleggene skal være plassert på et godt drenert, fast underlag.I forbrenningsanleggene skal det være iverksatt egnede tiltak for å beskytte mot skadedyr. I den forbindelse skal det brukes et dokumentert program for skadedyrbekjempelse.Personalet skal ha tilgang til hensiktsmessige innretninger for å opprettholde personlig hygiene, for eksempel toaletter, garderober og vaskeservanter, dersom det er nødvendig for å forebygge risiko for forurensning av utstyr som brukes til håndtering av produksjonsdyr eller fôr til disse.Det skal fastsettes dokumenterte framgangsmåter for rengjøring og desinfisering for alle deler av forbrenningsanlegget. Det skal finnes egnet utstyr og rengjøringsmidler for rengjøringen av anlegget.Hygienekontrollen skal omfatte regelmessige inspeksjoner av miljø og utstyr. Tidsplanen for og resultatene av inspeksjonen skal dokumenteres og oppbevares i minst to år.Dersom smeltet fett brukes som brensel til forbrenning i stasjonære forbrenningsmotorer på godkjente eller registrerte anlegg for bearbeiding av næringsmidler eller fôr, skal all bearbeiding av næringsmidler eller fôr på samme sted skje under strenge krav til atskillelse.
+1. Driftsansvarlige for forbrenningsanlegg nevnt i artikkel 6 nr. 6 skal sikre at følgende vilkår er oppfylt i forbrenningsanlegg som er under deres kontroll:
+
+   1. Animalske biprodukter og avledede produkter som skal brukes som brensel, skal brukes til dette formål så snart som mulig eller lagres på en sikker måte fram til de skal brukes.
+   2. I forbrenningsanleggene skal det være iverksatt egnede tiltak for å sikre at beholdere og kjøretøyer rengjøres og desinfiseres på et eget område på anlegget der spillvann kan samles opp og disponeres i samsvar med Unionens regelverk, for å unngå risiko for miljøforurensning.
+
+      Som unntak fra kravene i første ledd kan beholdere og kjøretøyer som brukes til transport av smeltet fett, rengjøres og desinfiseres på lasteanlegget eller på andre anlegg som er godkjent eller registrert i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069).
+   3. Forbrenningsanleggene skal være plassert på et godt drenert, fast underlag.
+   4. I forbrenningsanleggene skal det være iverksatt egnede tiltak for å beskytte mot skadedyr. I den forbindelse skal det brukes et dokumentert program for skadedyrbekjempelse.
+   5. Personalet skal ha tilgang til hensiktsmessige innretninger for å opprettholde personlig hygiene, for eksempel toaletter, garderober og vaskeservanter, dersom det er nødvendig for å forebygge risiko for forurensning av utstyr som brukes til håndtering av produksjonsdyr eller fôr til disse.
+   6. Det skal fastsettes dokumenterte framgangsmåter for rengjøring og desinfisering for alle deler av forbrenningsanlegget. Det skal finnes egnet utstyr og rengjøringsmidler for rengjøringen av anlegget.
+   7. Hygienekontrollen skal omfatte regelmessige inspeksjoner av miljø og utstyr. Tidsplanen for og resultatene av inspeksjonen skal dokumenteres og oppbevares i minst to år.
+   8. Dersom smeltet fett brukes som brensel til forbrenning i stasjonære forbrenningsmotorer på godkjente eller registrerte anlegg for bearbeiding av næringsmidler eller fôr, skal all bearbeiding av næringsmidler eller fôr på samme sted skje under strenge krav til atskillelse.
 2. Driftsansvarlige for forbrenningsanlegg skal ta alle nødvendige forholdsregler i forbindelse med mottak av animalske biprodukter eller avledede produkter for å forebygge eller, i den grad det er praktisk mulig, begrense risikoene for menneskers og dyrs helse og for miljøet.
 3. Dyr skal ikke ha adgang til forbrenningsanlegget, til de animalske biproduktene eller de avledede produktene i påvente av forbrenning, eller til asken fra forbrenningen.
-4. Dersom forbrenningsanlegget er plassert på en driftsenhet der det holdes dyr av arter som er bestemt til næringsmiddelproduksjonskal forbrenningsutstyret og dyrene samt deres fôr og strø være helt fysisk atskilt,skal utstyr som brukes til drift av forbrenningsanlegget, utelukkende være forbeholdt dette formål og ikke benyttes andre steder på driftsenheten, med mindre det er blitt rengjort og desinfisert på en effektiv måte før slik bruk,skal personalet som arbeider på forbrenningsanlegget, skifte yttertøy og fottøy og selv iverksette personlige hygienetiltak før de håndterer dyr på denne eller andre driftsenheter eller dyrenes fôr og strø.
+4. Dersom forbrenningsanlegget er plassert på en driftsenhet der det holdes dyr av arter som er bestemt til næringsmiddelproduksjon
+
+   1. skal forbrenningsutstyret og dyrene samt deres fôr og strø være helt fysisk atskilt,
+   2. skal utstyr som brukes til drift av forbrenningsanlegget, utelukkende være forbeholdt dette formål og ikke benyttes andre steder på driftsenheten, med mindre det er blitt rengjort og desinfisert på en effektiv måte før slik bruk,
+   3. skal personalet som arbeider på forbrenningsanlegget, skifte yttertøy og fottøy og selv iverksette personlige hygienetiltak før de håndterer dyr på denne eller andre driftsenheter eller dyrenes fôr og strø.
 5. De animalske biproduktene og avledede produktene som venter på forbrenning som brensel, samt restene fra forbrenningen skal lagres på et lukket og tildekket sted som er forbeholdt dette formål, eller i lukkede og lekkasjesikre beholdere.
 6. Forbrenningen av animalske biprodukter eller avledede produkter skal skje på en måte som hindrer krysskontaminering av fôr.
 
@@ -1936,21 +3105,65 @@ TYPER ANLEGG OG BRENSEL SOM KAN BRUKES TIL FORBRENNING, OG SÆRLIGE KRAV TIL VIS
 ###### A. Stasjonære forbrenningsmotorer
 
 1. Utgangsmateriale:
-Til denne prosessen kan det brukes en fettfraksjon fra animalske biprodukter i alle kategorier, forutsatt at den oppfyller følgende vilkår:Med mindre det benyttes fiskeolje eller smeltet fett framstilt i samsvar med henholdsvis avsnitt VIII eller XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal fettfraksjonen fra animalske biprodukter først bearbeides på følgende måte:dersom fettfraksjonen er fra kategori 1- og 2-materiale, en av bearbeidingsmetodene 1–5 som fastsatt i kapittel III i vedlegg IV.Dersom dette fettet flyttes fra bearbeidingsanlegget for umiddelbar direkte forbrenning i et lukket transportørsystem som ikke kan omgås, og forutsatt at et slikt system er godkjent av vedkommende myndighet, er permanent merking med glyseroltriheptanoat (GTH), som nevnt i vedlegg VIII kapittel V nr. 1, ikke påkrevd,dersom fettfraksjonen er fra kategori 3-materiale, en av bearbeidingsmetodene 1–5 eller bearbeidingsmetode 7 som fastsatt i kapittel III i vedlegg IV,dersom materialene er avledet fra fisk, en av bearbeidingsmetodene 1–7 som fastsatt i kapittel III i vedlegg IV.Fettfraksjonen skal skilles fra proteinet, og i tilfeller der fett fra drøvtyggere skal forbrennes på et annet anlegg, skal uløselige urenheter fjernes slik at de høyst utgjør 0,15 vektprosent.
+   Til denne prosessen kan det brukes en fettfraksjon fra animalske biprodukter i alle kategorier, forutsatt at den oppfyller følgende vilkår:
+
+   1. Med mindre det benyttes fiskeolje eller smeltet fett framstilt i samsvar med henholdsvis avsnitt VIII eller XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal fettfraksjonen fra animalske biprodukter først bearbeides på følgende måte:
+
+      1. dersom fettfraksjonen er fra kategori 1- og 2-materiale, en av bearbeidingsmetodene 1–5 som fastsatt i kapittel III i vedlegg IV.
+
+         Dersom dette fettet flyttes fra bearbeidingsanlegget for umiddelbar direkte forbrenning i et lukket transportørsystem som ikke kan omgås, og forutsatt at et slikt system er godkjent av vedkommende myndighet, er permanent merking med glyseroltriheptanoat (GTH), som nevnt i vedlegg VIII kapittel V nr. 1, ikke påkrevd,
+      2. dersom fettfraksjonen er fra kategori 3-materiale, en av bearbeidingsmetodene 1–5 eller bearbeidingsmetode 7 som fastsatt i kapittel III i vedlegg IV,
+      3. dersom materialene er avledet fra fisk, en av bearbeidingsmetodene 1–7 som fastsatt i kapittel III i vedlegg IV.
+   2. Fettfraksjonen skal skilles fra proteinet, og i tilfeller der fett fra drøvtyggere skal forbrennes på et annet anlegg, skal uløselige urenheter fjernes slik at de høyst utgjør 0,15 vektprosent.
 2. Metode:
-Forbrenning av animalsk fett som brensel i en stasjonær forbrenningsmotor skal skje på følgende måte:Fettfraksjonene nevnt i nr. 1 bokstav a) og b) skal forbrennesi henhold til vilkårene fastsatt i kapittel IV avsnitt 2 nr. 1 ellerved bruk av prosessparametre som gir samme resultat som vilkårene angitt i bokstav i), og som er godkjent av vedkommende myndighet,forbrenning av annet materiale av animalsk opprinnelse enn animalsk fett, skal ikke være tillatt,animalsk fett fra kategori 1- eller 2-materiale som forbrennes i lokaler som er godkjent eller registrert i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*), forordning [(EF) nr. 853/2004](eu/32004r0853*), forordning [(EF) nr. 183/2005](eu/32005r0183) eller på offentlige steder, skal være bearbeidet med bearbeidingsmetode 1 som fastsatt i vedlegg IV kapittel III,forbrenning av animalsk fett skal skje i samsvar med Unionens regelverk om vern av miljøet, særlig med standardene og kravene i nevnte regelverk og kravene med hensyn til de beste tilgjengelige teknikkene for kontroll med og overvåking av utslipp.
+   Forbrenning av animalsk fett som brensel i en stasjonær forbrenningsmotor skal skje på følgende måte:
+
+   1. Fettfraksjonene nevnt i nr. 1 bokstav a) og b) skal forbrennes
+
+      1. i henhold til vilkårene fastsatt i kapittel IV avsnitt 2 nr. 1 eller
+      2. ved bruk av prosessparametre som gir samme resultat som vilkårene angitt i bokstav i), og som er godkjent av vedkommende myndighet,
+   2. forbrenning av annet materiale av animalsk opprinnelse enn animalsk fett, skal ikke være tillatt,
+   3. animalsk fett fra kategori 1- eller 2-materiale som forbrennes i lokaler som er godkjent eller registrert i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*), forordning [(EF) nr. 853/2004](eu/32004r0853*), forordning [(EF) nr. 183/2005](eu/32005r0183) eller på offentlige steder, skal være bearbeidet med bearbeidingsmetode 1 som fastsatt i vedlegg IV kapittel III,
+   4. forbrenning av animalsk fett skal skje i samsvar med Unionens regelverk om vern av miljøet, særlig med standardene og kravene i nevnte regelverk og kravene med hensyn til de beste tilgjengelige teknikkene for kontroll med og overvåking av utslipp.
 3. Driftsforhold:
-Som unntak fra kravene fastsatt i kapittel IV avsnitt 2 nr. 2 første ledd kan vedkommende myndighet med ansvar for miljøspørsmål godkjenne krav basert på andre prosessparametre som sikrer tilsvarende miljøresultater.
+   Som unntak fra kravene fastsatt i kapittel IV avsnitt 2 nr. 2 første ledd kan vedkommende myndighet med ansvar for miljøspørsmål godkjenne krav basert på andre prosessparametre som sikrer tilsvarende miljøresultater.
 
 ###### B. Forbrenningsanlegg på driftsenheter der fjørfegjødsel brukes som brensel
 
 1. Type anlegg:
-Forbrenningsanlegg på driftsenheter med en samlet nominell termisk effekt på høyst 5 MW.
+   Forbrenningsanlegg på driftsenheter med en samlet nominell termisk effekt på høyst 5 MW.
 2. Utgangsmateriale og bruksområde:
-Utelukkende ubearbeidet fjørfegjødsel som nevnt i artikkel 9 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069), som skal brukes som brensel til forbrenning i samsvar med kravene fastsatt i nr. 3–5.Forbrenning av andre animalske biprodukter eller avledede produkter og gjødsel fra andre arter eller gjødsel som er framstilt utenfor driftsenheten, skal ikke tillates som brensel på forbrenningsanlegg nevnt i nr. 1.
-3. Særlige krav til fjørfegjødsel som brukes som brensel til forbrenning:Gjødselen skal lagres på en sikker måte på et lukket lagerområde for å minimere behovet for ytterligere håndtering og for å hindre krysskontaminering av andre deler av en driftsenhet der det holdes dyr av arter som er bestemt til næringsmiddelproduksjon.Forbrenningsanlegget på driftsenheten skal være utstyrt medet automatisk brenselhåndteringssystem som fører brenselet direkte inn i forbrenningskammeret uten ytterligere håndtering,en støttebrenner som skal brukes i oppstarts- og avstengningsfasen for å sikre at temperaturkravene fastsatt i kapittel IV avsnitt 2 nr. 2 er oppfylt til enhver tid i disse fasene og så lenge forbrenningskammeret inneholder materiale som ikke er forbrent.
-4. Grenseverdier for utslipp og krav til overvåking:Utslipp av svoveldioksid, nitrogenoksider (nærmere bestemt summen av nitrogenmonoksid og nitrogendioksid, uttrykt som nitrogendioksid) og partikler skal ikke overstige følgende grenseverdier uttrykt i mg/Nm3 ved en temperatur på 273,15 K, et trykk på 101,3 kPa og et oksygeninnhold på 11 prosent etter korrigering for innholdet av vanndamp i avgassene:*Forurensende stoff**Grenseverdi for utslipp i mg/Nm3*Svoveldioksid50Nitrogenoksider (som NO2)200Partikler10Den driftsansvarlige for forbrenningsanlegget på driftsenheten skal minst én gang i året foreta målinger av svoveldioksid, nitrogenoksider og partikler.Som et alternativ til målingene nevnt i første ledd, kan det brukes andre framgangsmåter som er kontrollert og godkjent av vedkommende myndighet, for å bestemme utslippet av svoveldioksid.Overvåkingen skal utføres av eller på vegne av den driftsansvarlige i samsvar med CEN-standardene. Dersom det ikke foreligger CEN-standarder, skal ISO-standarder eller nasjonale eller internasjonale standarder som gir data av tilsvarende vitenskapelig kvalitet, benyttes.Alle resultater skal registreres, behandles og framlegges på en slik måte at vedkommende myndighet kan kontrollere at grenseverdiene for utslipp overholdes.For forbrenningsanlegg på driftsenheter der det brukes sekundært renseutstyr for å overholde grenseverdiene for utslipp, skal det løpende kontrolleres at nevnte utstyr fungerer effektivt, og resultatene skal registreres.Ved manglende overholdelse av grenseverdiene nevnt i bokstav a) eller dersom et forbrenningsanlegg på en driftsenhet ikke oppfyller kravene i kapittel IV avsnitt 2 nr. 1, skal den driftsansvarlige umiddelbart underrette vedkommende myndighet og treffe nødvendige tiltak for å sikre at kravene oppfylles så snart som mulig. Dersom det ikke lenger er mulig å oppfylle kravene, skal vedkommende myndighet innstille driften av anlegget og tilbakekalle godkjenningen av det.
-5. Endringer i driften og driftsstans:Den driftsansvarlige skal underrette vedkommende myndighet om planlagte endringer av forbrenningsanlegget på driftsenheten som kan påvirke utslippene, minst en måned før datoen for endringen.Den driftsansvarlige skal treffe nødvendige tiltak for å sikre at oppstarts- og avstengningsfasen i forbrenningsanlegget på driftsenheten og en eventuell funksjonssvikt er så kortvarig som mulig. Ved funksjonssvikt eller driftsstans i det sekundære renseutstyret skal den driftsansvarlige underrette vedkommende myndighet umiddelbart.
+   Utelukkende ubearbeidet fjørfegjødsel som nevnt i artikkel 9 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069), som skal brukes som brensel til forbrenning i samsvar med kravene fastsatt i nr. 3–5.
+
+   Forbrenning av andre animalske biprodukter eller avledede produkter og gjødsel fra andre arter eller gjødsel som er framstilt utenfor driftsenheten, skal ikke tillates som brensel på forbrenningsanlegg nevnt i nr. 1.
+3. Særlige krav til fjørfegjødsel som brukes som brensel til forbrenning:
+
+   1. Gjødselen skal lagres på en sikker måte på et lukket lagerområde for å minimere behovet for ytterligere håndtering og for å hindre krysskontaminering av andre deler av en driftsenhet der det holdes dyr av arter som er bestemt til næringsmiddelproduksjon.
+   2. Forbrenningsanlegget på driftsenheten skal være utstyrt med
+
+      1. et automatisk brenselhåndteringssystem som fører brenselet direkte inn i forbrenningskammeret uten ytterligere håndtering,
+      2. en støttebrenner som skal brukes i oppstarts- og avstengningsfasen for å sikre at temperaturkravene fastsatt i kapittel IV avsnitt 2 nr. 2 er oppfylt til enhver tid i disse fasene og så lenge forbrenningskammeret inneholder materiale som ikke er forbrent.
+4. Grenseverdier for utslipp og krav til overvåking:
+
+   1. Utslipp av svoveldioksid, nitrogenoksider (nærmere bestemt summen av nitrogenmonoksid og nitrogendioksid, uttrykt som nitrogendioksid) og partikler skal ikke overstige følgende grenseverdier uttrykt i mg/Nm3 ved en temperatur på 273,15 K, et trykk på 101,3 kPa og et oksygeninnhold på 11 prosent etter korrigering for innholdet av vanndamp i avgassene:
+
+      | *Forurensende stoff* | *Grenseverdi for utslipp i mg/Nm3* |
+      | --- | --- |
+      | Svoveldioksid | 50 |
+      | Nitrogenoksider (som NO2) | 200 |
+      | Partikler | 10 |
+   2. Den driftsansvarlige for forbrenningsanlegget på driftsenheten skal minst én gang i året foreta målinger av svoveldioksid, nitrogenoksider og partikler.
+
+      Som et alternativ til målingene nevnt i første ledd, kan det brukes andre framgangsmåter som er kontrollert og godkjent av vedkommende myndighet, for å bestemme utslippet av svoveldioksid.
+
+      Overvåkingen skal utføres av eller på vegne av den driftsansvarlige i samsvar med CEN-standardene. Dersom det ikke foreligger CEN-standarder, skal ISO-standarder eller nasjonale eller internasjonale standarder som gir data av tilsvarende vitenskapelig kvalitet, benyttes.
+   3. Alle resultater skal registreres, behandles og framlegges på en slik måte at vedkommende myndighet kan kontrollere at grenseverdiene for utslipp overholdes.
+   4. For forbrenningsanlegg på driftsenheter der det brukes sekundært renseutstyr for å overholde grenseverdiene for utslipp, skal det løpende kontrolleres at nevnte utstyr fungerer effektivt, og resultatene skal registreres.
+   5. Ved manglende overholdelse av grenseverdiene nevnt i bokstav a) eller dersom et forbrenningsanlegg på en driftsenhet ikke oppfyller kravene i kapittel IV avsnitt 2 nr. 1, skal den driftsansvarlige umiddelbart underrette vedkommende myndighet og treffe nødvendige tiltak for å sikre at kravene oppfylles så snart som mulig. Dersom det ikke lenger er mulig å oppfylle kravene, skal vedkommende myndighet innstille driften av anlegget og tilbakekalle godkjenningen av det.
+5. Endringer i driften og driftsstans:
+
+   1. Den driftsansvarlige skal underrette vedkommende myndighet om planlagte endringer av forbrenningsanlegget på driftsenheten som kan påvirke utslippene, minst en måned før datoen for endringen.
+   2. Den driftsansvarlige skal treffe nødvendige tiltak for å sikre at oppstarts- og avstengningsfasen i forbrenningsanlegget på driftsenheten og en eventuell funksjonssvikt er så kortvarig som mulig. Ved funksjonssvikt eller driftsstans i det sekundære renseutstyret skal den driftsansvarlige underrette vedkommende myndighet umiddelbart.
 
 ◄ **M8**
 
@@ -1958,20 +3171,48 @@ Utelukkende ubearbeidet fjørfegjødsel som nevnt i artikkel 9 bokstav a) i foro
 
 ###### C. Forbrenningsanlegg der annen gjødsel fra produksjonsdyr enn fjørfegjødsel omhandlet i punkt B brukes som brensel til forbrenning
 
-1. Type anlegg:Forbrenningsanlegg med en samlet nominell termisk effekt på høyst 50 MW.
-2. Utgangsmateriale:Utelukkende annen gjødsel fra produksjonsdyr enn fjørfegjødsel omhandlet i punkt B, som skal brukes som brensel til forbrenning i samsvar med kravene fastsatt i nr. 3.Andre animalske biprodukter eller avledede produkter skal ikke brukes som brensel i forbrenningsanlegg som nevnt i nr. 1. Annen gjødsel fra produksjonsdyr enn fjørfegjødsel omhandlet i punkt B, som er framstilt utenfor driftsenheten, bør ikke komme i kontakt med produksjonsdyr.
-3. Metode:Forbrenningsanlegg der annen gjødsel fra produksjonsdyr enn fjørfegjødsel omhandlet i punkt B brukes som brensel, skal oppfylle kravene fastsatt i punkt B nr. 3, 4 og 5.
-4. Unntak og overgangsperiode:Medlemsstatens vedkommende myndighet med ansvar for miljøspørsmål kansom unntak fra punkt B nr. 3 bokstav b) ii) gi forbrenningsanlegg som er i drift 2. august 2017, en ytterligere frist på høyst seks år til å oppfylle kravene i kapittel IV avsnitt 2 nr. 2 første ledd i vedlegg III til denne forordning,som unntak fra punkt B nr. 4 tillate utslipp av partikler i en mengde på høyst 50 mg/m3, forutsatt at forbrenningsanleggenes samlede nominelle termiske effekt ikke overstiger 5 MW,som unntak fra punkt B nr. 3 bokstav b) i) tillate manuell plassering av gjødsel fra hest som brensel i forbrenningskammeret når samlet nominell termisk effekt ikke overstiger 0,5 MW.
+1. Type anlegg:
+
+   Forbrenningsanlegg med en samlet nominell termisk effekt på høyst 50 MW.
+2. Utgangsmateriale:
+
+   Utelukkende annen gjødsel fra produksjonsdyr enn fjørfegjødsel omhandlet i punkt B, som skal brukes som brensel til forbrenning i samsvar med kravene fastsatt i nr. 3.
+
+   Andre animalske biprodukter eller avledede produkter skal ikke brukes som brensel i forbrenningsanlegg som nevnt i nr. 1. Annen gjødsel fra produksjonsdyr enn fjørfegjødsel omhandlet i punkt B, som er framstilt utenfor driftsenheten, bør ikke komme i kontakt med produksjonsdyr.
+3. Metode:
+
+   Forbrenningsanlegg der annen gjødsel fra produksjonsdyr enn fjørfegjødsel omhandlet i punkt B brukes som brensel, skal oppfylle kravene fastsatt i punkt B nr. 3, 4 og 5.
+4. Unntak og overgangsperiode:
+
+   Medlemsstatens vedkommende myndighet med ansvar for miljøspørsmål kan
+
+   1. som unntak fra punkt B nr. 3 bokstav b) ii) gi forbrenningsanlegg som er i drift 2. august 2017, en ytterligere frist på høyst seks år til å oppfylle kravene i kapittel IV avsnitt 2 nr. 2 første ledd i vedlegg III til denne forordning,
+   2. som unntak fra punkt B nr. 4 tillate utslipp av partikler i en mengde på høyst 50 mg/m3, forutsatt at forbrenningsanleggenes samlede nominelle termiske effekt ikke overstiger 5 MW,
+   3. som unntak fra punkt B nr. 3 bokstav b) i) tillate manuell plassering av gjødsel fra hest som brensel i forbrenningskammeret når samlet nominell termisk effekt ikke overstiger 0,5 MW.
 
 ◄ **M14**
 
 ###### ►**M21** D. Forbrenningsanlegg der kjøttbeinmel brukes som brensel til forbrenning
 
-1. Type anleggForbrenningsanlegg med en samlet nominell termisk effekt på høyst 50 MW.
-2. UtgangsmaterialeKjøttbeinmel av kategori 1- og kategori 2-materialer, som skal brukes bare som brensel til forbrenning i samsvar med kravene fastsatt i nr. 3 eller i en blanding av kjøttbeinmel, smeltet fett og husdyrgjødsel.
-3. Særlige krav til kjøttbeinmel som brukes som brensel til forbrenningKjøttbeinmel skal lagres sikkert i forbrenningsanlegget i et lukket lagerområde beskyttet mot dyrs tilgang og skal ikke sendes til et annet bestemmelsessted ved havari eller unormale driftsforhold med mindre den vedkommende myndigheten har gitt tillatelse til det.Forbrenningsanlegget skal være utstyrt medet automatisk eller kontinuerlig brenselhåndteringssystem som fører brenselet direkte inn i forbrenningskammeret uten ytterligere håndtering,en støttebrenner som skal brukes i oppstarts- og avstengningsfasen for å sikre at temperaturkravene fastsatt i kapittel IV avsnitt 2 nr. 2 er oppfylt til enhver tid i disse fasene og så lenge forbrenningskammeret inneholder materiale som ikke er forbrent.
-4. MetodeForbrenningsanlegg der kjøttbeinmel av kategori 1- og kategori 2-materialer brukes som brensel, skal oppfylle de generelle kravene fastsatt i kapittel IV og de særlige kravene fastsatt i punkt B nr. 4 og 5 i dette kapittelet.
-5. Unntak og overgangsperiodeMedlemsstatenes vedkommende myndigheter med ansvar for miljøspørsmål kan som unntak fra nr. 3 bokstav b) ii) gi forbrenningsanlegg som er i drift 3. juni 2020, en ytterligere frist på høyst fire år til å oppfylle kravene i kapittel IV avsnitt 2 nr. 2 annet ledd. ◄**M21**
+1. Type anlegg
+
+   Forbrenningsanlegg med en samlet nominell termisk effekt på høyst 50 MW.
+2. Utgangsmateriale
+
+   Kjøttbeinmel av kategori 1- og kategori 2-materialer, som skal brukes bare som brensel til forbrenning i samsvar med kravene fastsatt i nr. 3 eller i en blanding av kjøttbeinmel, smeltet fett og husdyrgjødsel.
+3. Særlige krav til kjøttbeinmel som brukes som brensel til forbrenning
+
+   1. Kjøttbeinmel skal lagres sikkert i forbrenningsanlegget i et lukket lagerområde beskyttet mot dyrs tilgang og skal ikke sendes til et annet bestemmelsessted ved havari eller unormale driftsforhold med mindre den vedkommende myndigheten har gitt tillatelse til det.
+   2. Forbrenningsanlegget skal være utstyrt med
+
+      1. et automatisk eller kontinuerlig brenselhåndteringssystem som fører brenselet direkte inn i forbrenningskammeret uten ytterligere håndtering,
+      2. en støttebrenner som skal brukes i oppstarts- og avstengningsfasen for å sikre at temperaturkravene fastsatt i kapittel IV avsnitt 2 nr. 2 er oppfylt til enhver tid i disse fasene og så lenge forbrenningskammeret inneholder materiale som ikke er forbrent.
+4. Metode
+
+   Forbrenningsanlegg der kjøttbeinmel av kategori 1- og kategori 2-materialer brukes som brensel, skal oppfylle de generelle kravene fastsatt i kapittel IV og de særlige kravene fastsatt i punkt B nr. 4 og 5 i dette kapittelet.
+5. Unntak og overgangsperiode
+
+   Medlemsstatenes vedkommende myndigheter med ansvar for miljøspørsmål kan som unntak fra nr. 3 bokstav b) ii) gi forbrenningsanlegg som er i drift 3. juni 2020, en ytterligere frist på høyst fire år til å oppfylle kravene i kapittel IV avsnitt 2 nr. 2 annet ledd. ◄**M21**
 
 ### VEDLEGG IV
 BEARBEIDING
@@ -1983,9 +3224,29 @@ KRAV TIL BEARBEIDINGSANLEGG OG VISSE ANDRE ANLEGG OG VIRKSOMHETER
 
 Allmenne vilkår
 
-1. Bearbeidingsanlegg skal oppfylle følgende krav til bearbeiding ved trykksterilisering eller i samsvar med bearbeidingsmetodene nevnt i artikkel 15 nr. 1 bokstav b) i forordning [(EF) nr. 1069/2009](eu/32009r1069):Bearbeidingsanlegg skal ikke befinne seg på samme sted som slakterier eller andre virksomheter som er godkjent eller registrert i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*) eller forordning [(EF) nr. 853/2004](eu/32004r0853*), med mindre risikoen for folkehelsen og dyrehelsen som følge av bearbeidingen av animalske biprodukter som kommer fra slike slakterier eller andre virksomheter, reduseres ved at minst følgende vilkår er oppfylt:bearbeidingsanlegget skal være fysisk atskilt fra slakteriet eller den andre virksomheten, eventuelt ved at bearbeidingsanlegget er plassert i en bygning som er helt atskilt fra slakteriet eller den andre virksomheten,følgende skal være installert og være i drift i bearbeidingsanlegget:et transportsystem som knytter bearbeidingsanlegget til slakteriet eller den andre virksomheten og som ikke kan omgås,atskilte innganger, mottaksområder, utstyr og utganger for bearbeidingsanlegget og for slakteriet eller virksomheten,det skal vedtas tiltak for å hindre at personale som arbeider på bearbeidingsanlegget og i slakteriet eller den andre virksomheten, sprer risiko,uvedkommende personer og dyr skal ikke ha adgang til bearbeidingsanlegget.
-Som unntak fra punkt i)–iv) kan vedkommende myndighet når det gjelder bearbeidingsanlegg for kategori 3-materiale, tillate andre vilkår enn vilkårene i nevnte punkter, for å redusere risikoen for folkehelsen og dyrehelsen, herunder risiko som oppstår fra bearbeiding av kategori 3-materiale som kommer fra anlegg på et annet sted som er godkjent eller registrert i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*) eller forordning [(EF) nr. 853/2004](eu/32004r0853*).
-Medlemsstatene skal innenfor rammen av Den faste komité for næringsmiddelkjeden og dyrehelsen som omhandlet i artikkel 52 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) underrette Kommisjonen og de andre medlemsstatene om deres vedkommende myndigheters anvendelse av dette unntaket.Bearbeidingsanlegget skal ha en «ren» og en «uren» avdeling med nødvendig skille mellom de to avdelingene. Den urene avdelingen skal ha et overdekket område til mottak av animalske biprodukter, og være utformet slik at den er lett å rengjøre og desinfisere. Gulvene skal være slik utformet at væske er lett å lede bort.Bearbeidingsanlegget skal være tilstrekkelig utstyrt med toaletter, garderober og håndvasker for personalet.Bearbeidingsanlegget skal kunne produsere varmt vann og damp i tilstrekkelige mengder til at animalske biprodukter kan bearbeides.Den urene avdelingen skal om nødvendig ha utstyr for oppstykking av animalske biprodukter og utstyr for overføring av knuste animalske biprodukter til bearbeidingsenheten.Når varmebehandling er påkrevd, skal alle installasjoner være utstyrt medmåleutstyr til å kontrollere temperaturen mot tid og, dersom det er relevant for den anvendte bearbeidingsmetoden, trykk på kritiske steder,registreringsutstyr til kontinuerlig registrering av resultatet av disse målingene, slik at de fortsatt er tilgjengelige med sikte på offentlig kontroll og annen kontroll,et egnet sikkerhetssystem for å unngå utilstrekkelig oppvarming.For å hindre at det ferdige produktet rekontamineres av animalske biprodukter som tas inn i bearbeidingsanlegget, skal den delen av anlegget der materialene som skal bearbeides, blir losset, være klart atskilt fra de delene der produktene blir bearbeidet og der det avledede produktet blir lagret.
+1. Bearbeidingsanlegg skal oppfylle følgende krav til bearbeiding ved trykksterilisering eller i samsvar med bearbeidingsmetodene nevnt i artikkel 15 nr. 1 bokstav b) i forordning [(EF) nr. 1069/2009](eu/32009r1069):
+
+   1. Bearbeidingsanlegg skal ikke befinne seg på samme sted som slakterier eller andre virksomheter som er godkjent eller registrert i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*) eller forordning [(EF) nr. 853/2004](eu/32004r0853*), med mindre risikoen for folkehelsen og dyrehelsen som følge av bearbeidingen av animalske biprodukter som kommer fra slike slakterier eller andre virksomheter, reduseres ved at minst følgende vilkår er oppfylt:
+
+      1. bearbeidingsanlegget skal være fysisk atskilt fra slakteriet eller den andre virksomheten, eventuelt ved at bearbeidingsanlegget er plassert i en bygning som er helt atskilt fra slakteriet eller den andre virksomheten,
+      2. følgende skal være installert og være i drift i bearbeidingsanlegget:
+
+         - et transportsystem som knytter bearbeidingsanlegget til slakteriet eller den andre virksomheten og som ikke kan omgås,
+         - atskilte innganger, mottaksområder, utstyr og utganger for bearbeidingsanlegget og for slakteriet eller virksomheten,
+      3. det skal vedtas tiltak for å hindre at personale som arbeider på bearbeidingsanlegget og i slakteriet eller den andre virksomheten, sprer risiko,
+      4. uvedkommende personer og dyr skal ikke ha adgang til bearbeidingsanlegget.
+         Som unntak fra punkt i)–iv) kan vedkommende myndighet når det gjelder bearbeidingsanlegg for kategori 3-materiale, tillate andre vilkår enn vilkårene i nevnte punkter, for å redusere risikoen for folkehelsen og dyrehelsen, herunder risiko som oppstår fra bearbeiding av kategori 3-materiale som kommer fra anlegg på et annet sted som er godkjent eller registrert i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*) eller forordning [(EF) nr. 853/2004](eu/32004r0853*).
+         Medlemsstatene skal innenfor rammen av Den faste komité for næringsmiddelkjeden og dyrehelsen som omhandlet i artikkel 52 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) underrette Kommisjonen og de andre medlemsstatene om deres vedkommende myndigheters anvendelse av dette unntaket.
+   2. Bearbeidingsanlegget skal ha en «ren» og en «uren» avdeling med nødvendig skille mellom de to avdelingene. Den urene avdelingen skal ha et overdekket område til mottak av animalske biprodukter, og være utformet slik at den er lett å rengjøre og desinfisere. Gulvene skal være slik utformet at væske er lett å lede bort.
+   3. Bearbeidingsanlegget skal være tilstrekkelig utstyrt med toaletter, garderober og håndvasker for personalet.
+   4. Bearbeidingsanlegget skal kunne produsere varmt vann og damp i tilstrekkelige mengder til at animalske biprodukter kan bearbeides.
+   5. Den urene avdelingen skal om nødvendig ha utstyr for oppstykking av animalske biprodukter og utstyr for overføring av knuste animalske biprodukter til bearbeidingsenheten.
+   6. Når varmebehandling er påkrevd, skal alle installasjoner være utstyrt med
+
+      1. måleutstyr til å kontrollere temperaturen mot tid og, dersom det er relevant for den anvendte bearbeidingsmetoden, trykk på kritiske steder,
+      2. registreringsutstyr til kontinuerlig registrering av resultatet av disse målingene, slik at de fortsatt er tilgjengelige med sikte på offentlig kontroll og annen kontroll,
+      3. et egnet sikkerhetssystem for å unngå utilstrekkelig oppvarming.
+   7. For å hindre at det ferdige produktet rekontamineres av animalske biprodukter som tas inn i bearbeidingsanlegget, skal den delen av anlegget der materialene som skal bearbeides, blir losset, være klart atskilt fra de delene der produktene blir bearbeidet og der det avledede produktet blir lagret.
 2. Bearbeidingsanlegget skal ha egnet utstyr til rengjøring og desinfisering av de containerne eller beholderne som de animalske biproduktene mottas i, og de transportmidlene, med unntak av skip, som de transporteres med.
 3. Det skal finnes egnet utstyr til desinfisering av hjulene på, og eventuelt andre deler av, et kjøretøy når kjøretøyet forlater den urene avdelingen i bearbeidingsanlegget.
 4. Alle bearbeidingsanlegg skal ha et avløpssystem for spillvann som oppfyller de krav som er fastsatt av vedkommende myndighet i samsvar med Unionens regelverk.
@@ -2002,7 +3263,7 @@ Behandling av spillvann
 4. Spillvann som har gjennomgått forbehandlingen i anlegg omhandlet i nr. 1, og spillvann fra andre anlegg som håndterer eller bearbeider animalske biprodukter, skal behandles i samsvar med Unionens regelverk, uten restriksjoner i henhold til denne forordning.
 5. I tillegg til kravene i nr. 4 kan vedkommende myndighet kreve at driftsansvarlige skal behandle spillvann som kommer fra urene avdelinger i bearbeidingsanlegg og fra anlegg eller virksomheter som utfører mellombehandling med kategori 1- eller 2-materiale eller lagrer kategori 1- eller 2-materiale, i samsvar med vilkår som sikrer at risikoen knyttet til sykdomsframkallende stoffer reduseres.
 6. Med forbehold for nr. 1–5 skal det være forbudt å disponere animalske biprodukter, herunder blod og melk, eller avledede produkter gjennom spillvann.
-Kategori 3-materiale som består av slam fra sentrifugering eller separering kan imidlertid disponeres gjennom spillvann, forutsatt at det har gjennomgått en av behandlingene for slam fra sentrifugering eller separering.
+   Kategori 3-materiale som består av slam fra sentrifugering eller separering kan imidlertid disponeres gjennom spillvann, forutsatt at det har gjennomgått en av behandlingene for slam fra sentrifugering eller separering.
 
 ###### Avsnitt 3
 
@@ -2014,7 +3275,15 @@ Bearbeidingsanlegg for kategori 1- og 2-materiale skal være utformet slik at fu
 
 Særlige krav til bearbeiding av kategori 3-materiale
 
-Følgende krav gjelder i tillegg til de allmenne vilkårene i avsnitt I:Bearbeidingsanlegg der kategori 3-materiale bearbeides, skal ikke befinne seg på samme sted som bearbeidingsanlegg der kategori 1- eller kategori 2-materiale bearbeides, med mindre de befinner seg i en fullstendig atskilt bygning.Vedkommende myndighet kan imidlertid tillate bearbeiding av kategori 3-materiale på et sted der håndtering eller bearbeiding av kategori 1- eller 2-materiale skjer, dersom krysskontaminering hindres på grunn avanleggets utforming, særlig mottaksordningene, og gjennom den videre håndteringen av råstoffer,utformingen og forvaltningen av utstyret som anvendes til bearbeiding, herunder utformingen og forvaltningen av atskilte bearbeidingslinjer eller av rengjøringsrutiner som utelukker spredning av enhver mulig risiko for folkehelsen og dyrehelsen, ogutformingen og forvaltningen av områder til midlertidig oppbevaring av sluttproduktene.Bearbeidingsanlegg som bearbeider kategori 3-materiale, skal ha en innretning som gjør det mulig å oppdage fremmedlegemer, som emballasjemateriale, metalldeler osv., i de animalske biproduktene eller avledede produktene, dersom de framstiller materiale beregnet på bruk i fôr. Slike fremmedlegemer skal fjernes før eller under bearbeidingen.
+Følgende krav gjelder i tillegg til de allmenne vilkårene i avsnitt I:
+
+1. Bearbeidingsanlegg der kategori 3-materiale bearbeides, skal ikke befinne seg på samme sted som bearbeidingsanlegg der kategori 1- eller kategori 2-materiale bearbeides, med mindre de befinner seg i en fullstendig atskilt bygning.
+2. Vedkommende myndighet kan imidlertid tillate bearbeiding av kategori 3-materiale på et sted der håndtering eller bearbeiding av kategori 1- eller 2-materiale skjer, dersom krysskontaminering hindres på grunn av
+
+   1. anleggets utforming, særlig mottaksordningene, og gjennom den videre håndteringen av råstoffer,
+   2. utformingen og forvaltningen av utstyret som anvendes til bearbeiding, herunder utformingen og forvaltningen av atskilte bearbeidingslinjer eller av rengjøringsrutiner som utelukker spredning av enhver mulig risiko for folkehelsen og dyrehelsen, og
+   3. utformingen og forvaltningen av områder til midlertidig oppbevaring av sluttproduktene.
+3. Bearbeidingsanlegg som bearbeider kategori 3-materiale, skal ha en innretning som gjør det mulig å oppdage fremmedlegemer, som emballasjemateriale, metalldeler osv., i de animalske biproduktene eller avledede produktene, dersom de framstiller materiale beregnet på bruk i fôr. Slike fremmedlegemer skal fjernes før eller under bearbeidingen.
 
 ### KAPITTEL II
 KRAV TIL HYGIENE OG BEARBEIDING
@@ -2042,7 +3311,12 @@ Med mindre vedkommende myndighet krever anvendelse av trykksterilisering (metode
 
 Bearbeiding av kategori 3-materiale
 
-1. De kritiske kontrollpunktene som avgjør omfanget av varmebehandlingen som anvendes i bearbeidingen, skal for hver av bearbeidingsmetodene i vedlegg V kapittel III omfatte følgende:råstoffets partikkelstørrelse,oppnådd temperatur i varmebehandlingen,det trykket råstoffet eventuelt utsettes for, ogvarmebehandlingens varighet eller tilførselshastigheten for et kontinuerlig system. Det skal fastsettes minstekrav til bearbeiding for hvert kritiske kontrollpunkt som anvendes.
+1. De kritiske kontrollpunktene som avgjør omfanget av varmebehandlingen som anvendes i bearbeidingen, skal for hver av bearbeidingsmetodene i vedlegg V kapittel III omfatte følgende:
+
+   1. råstoffets partikkelstørrelse,
+   2. oppnådd temperatur i varmebehandlingen,
+   3. det trykket råstoffet eventuelt utsettes for, og
+   4. varmebehandlingens varighet eller tilførselshastigheten for et kontinuerlig system. Det skal fastsettes minstekrav til bearbeiding for hvert kritiske kontrollpunkt som anvendes.
 2. Dersom det anvendes kjemiske behandlinger som er godkjent av vedkommende myndighet som bearbeidingsmetode 7 i samsvar med kapittel III bokstav G, skal de kritiske kontrollpunktene som avgjør omfanget av de anvendte kjemiske behandlingene, omfatte den oppnådde pH-verdien.
 3. Registre som viser at minsteverdiene for behandling for hvert kritiske kontrollpunkt er overholdt, skal oppbevares i minst to år.
 4. Kategori 3-materiale skal bearbeides i samsvar med en av bearbeidingsmetodene 1–5 eller 7, eller dersom det gjelder materiale fra vanndyr, med en av bearbeidingsmetodene 1–7 i kapittel III.
@@ -2069,7 +3343,9 @@ STANDARDMETODER FOR BEARBEIDING
 
 *Tid, temperatur og trykk*
 
-1. Etter reduksjonen skal de animalske biproduktene varmes opp slik at det sikres at en kjernetemperatur på over 100 °C opprettholdes i minst 125 minutter, en kjernetemperatur på over 110 °C opprettholdes i minst 120 minutter og en kjernetemperatur på over 120 °C opprettholdes i minst 50 minutter.Produktene kan varmes opp til disse kjernetemperaturene i den angitte rekkefølgen eller ved en vilkårlig kombinasjon av de angitte tidsrom.
+1. Etter reduksjonen skal de animalske biproduktene varmes opp slik at det sikres at en kjernetemperatur på over 100 °C opprettholdes i minst 125 minutter, en kjernetemperatur på over 110 °C opprettholdes i minst 120 minutter og en kjernetemperatur på over 120 °C opprettholdes i minst 50 minutter.
+
+   Produktene kan varmes opp til disse kjernetemperaturene i den angitte rekkefølgen eller ved en vilkårlig kombinasjon av de angitte tidsrom.
 2. Bearbeidingen skal foretas i et diskontinuerlig system.
 
 *C. Bearbeidingsmetode 3*
@@ -2080,7 +3356,9 @@ STANDARDMETODER FOR BEARBEIDING
 
 *Tid, temperatur og trykk*
 
-1. Etter reduksjonen skal de animalske biproduktene varmes opp slik at det sikres at en kjernetemperatur på over 100 °C opprettholdes i minst 95 minutter, en kjernetemperatur på over 110 °C opprettholdes i minst 55 minutter og en kjernetemperatur på over 120 °C opprettholdes i minst 13 minutter.Produktene kan varmes opp til disse kjernetemperaturene i den angitte rekkefølgen eller ved en vilkårlig kombinasjon av de angitte tidsrom.
+1. Etter reduksjonen skal de animalske biproduktene varmes opp slik at det sikres at en kjernetemperatur på over 100 °C opprettholdes i minst 95 minutter, en kjernetemperatur på over 110 °C opprettholdes i minst 55 minutter og en kjernetemperatur på over 120 °C opprettholdes i minst 13 minutter.
+
+   Produktene kan varmes opp til disse kjernetemperaturene i den angitte rekkefølgen eller ved en vilkårlig kombinasjon av de angitte tidsrom.
 2. Bearbeidingen kan foretas i et diskontinuerlig system eller i et kontinuerlig system.
 
 *D. Bearbeidingsmetode 4*
@@ -2091,7 +3369,9 @@ STANDARDMETODER FOR BEARBEIDING
 
 *Tid, temperatur og trykk*
 
-1. Etter reduksjonen skal de animalske biproduktene plasseres i et kar med tilsatt fett og varmes opp slik at det opprettholdes en kjernetemperatur på over 100 °C i minst 16 minutter, en kjernetemperatur på over 110 °C opprettholdes i minst 13 minutter, en kjernetemperatur på over 120 °C opprettholdes i minst åtte minutter og en kjernetemperatur på over 130 °C opprettholdes i minst tre minutter.Produktene kan varmes opp til disse kjernetemperaturene i den angitte rekkefølgen eller ved en vilkårlig kombinasjon av de angitte tidsrom.
+1. Etter reduksjonen skal de animalske biproduktene plasseres i et kar med tilsatt fett og varmes opp slik at det opprettholdes en kjernetemperatur på over 100 °C i minst 16 minutter, en kjernetemperatur på over 110 °C opprettholdes i minst 13 minutter, en kjernetemperatur på over 120 °C opprettholdes i minst åtte minutter og en kjernetemperatur på over 130 °C opprettholdes i minst tre minutter.
+
+   Produktene kan varmes opp til disse kjernetemperaturene i den angitte rekkefølgen eller ved en vilkårlig kombinasjon av de angitte tidsrom.
 2. Bearbeidingen kan foretas i et diskontinuerlig system eller i et kontinuerlig system.
 
 *E. Bearbeidingsmetode 5*
@@ -2102,27 +3382,53 @@ STANDARDMETODER FOR BEARBEIDING
 
 *Tid, temperatur og trykk*
 
-1. Etter reduksjonen skal de animalske biproduktene varmes opp til de koagulerer, deretter presses slik at fett og vann fjernes fra det proteinholdige materialet. Det proteinholdige materialet skal deretter varmes opp slik at det sikres at en kjernetemperatur på over 80 °C opprettholdes i minst 120 minutter og en kjernetemperatur på over 100 °C opprettholdes i minst 60 minutter.Produktene kan varmes opp til disse kjernetemperaturene i den angitte rekkefølgen eller ved en vilkårlig kombinasjon av de angitte tidsrom.
+1. Etter reduksjonen skal de animalske biproduktene varmes opp til de koagulerer, deretter presses slik at fett og vann fjernes fra det proteinholdige materialet. Det proteinholdige materialet skal deretter varmes opp slik at det sikres at en kjernetemperatur på over 80 °C opprettholdes i minst 120 minutter og en kjernetemperatur på over 100 °C opprettholdes i minst 60 minutter.
+
+   Produktene kan varmes opp til disse kjernetemperaturene i den angitte rekkefølgen eller ved en vilkårlig kombinasjon av de angitte tidsrom.
 2. Bearbeidingen kan foretas i et diskontinuerlig system eller i et kontinuerlig system.
 
 *F. Bearbeidingsmetode 6 (bare for animalske biprodukter av kategori 3 fra vanndyr/virvelløse dyr som lever i vann)*
 
 *Reduksjon*
 
-1. De animalske biproduktene skal reduseres til en partikkelstørrelse på høyst50 mm ved varmebehandling i samsvar med nr. 2 bokstav a), eller30 mm ved varmebehandling i samsvar med nr. 2 bokstav b).Deretter skal de blandes med maursyre slik at pH-verdien reduseres til og holder seg på 4,0 eller lavere. Blandingen skal oppbevares i minst 24 timer før den behandles ytterligere.
+1. De animalske biproduktene skal reduseres til en partikkelstørrelse på høyst
+
+   1. 50 mm ved varmebehandling i samsvar med nr. 2 bokstav a), eller
+   2. 30 mm ved varmebehandling i samsvar med nr. 2 bokstav b).
+
+   Deretter skal de blandes med maursyre slik at pH-verdien reduseres til og holder seg på 4,0 eller lavere. Blandingen skal oppbevares i minst 24 timer før den behandles ytterligere.
 
 *Tid, temperatur og trykk*
 
-1. Etter reduksjon skal blandingen varmes opp tilen kjernetemperatur på minst 90 °C i minst 60 minutter, elleren kjernetemperatur på minst 70 °C i minst 60 minutter.Når det brukes et system for kontinuerlig gjennomstrømning, skal produktets gang gjennom varmeveksleren kontrolleres ved hjelp av mekaniske innretninger som begrenser bevegelsen på en slik måte at produktet etter avsluttet varmebehandling har gjennomgått en syklus som er tilstrekkelig både når det gjelder tid og temperatur.
+1. Etter reduksjon skal blandingen varmes opp til
+
+   1. en kjernetemperatur på minst 90 °C i minst 60 minutter, eller
+   2. en kjernetemperatur på minst 70 °C i minst 60 minutter.
+
+   Når det brukes et system for kontinuerlig gjennomstrømning, skal produktets gang gjennom varmeveksleren kontrolleres ved hjelp av mekaniske innretninger som begrenser bevegelsen på en slik måte at produktet etter avsluttet varmebehandling har gjennomgått en syklus som er tilstrekkelig både når det gjelder tid og temperatur.
 2. Bearbeidingen kan foretas i et diskontinuerlig system eller i et kontinuerlig system.
 
 *G. Bearbeidingsmetode 7*
 
-1. Enhver bearbeidingsmetode som er godkjent av vedkommende myndighet, forutsatt at den driftsansvarlige har vist vedkommende myndighet følgende:at de relevante farene knyttet til utgangsmaterialet er identifisert, idet det er tatt hensyn til materialets opprinnelse, samt mulig risiko idet det er tatt hensyn til dyrehelsetilstanden i den medlemsstaten, det området eller den sonen metoden skal anvendes i,at bearbeidingsmetoden gjør det mulig å redusere disse farene til et nivå som ikke utgjør en betydelig risiko for folkehelsen og dyrehelsen,at det i en periode på 30 produksjonsdager, daglig er tatt prøver av sluttproduktet i samsvar med følgende mikrobiologiske krav:Prøver av materiale som er tatt rett etter behandlingen:
-*Clostridium perfringens*: ingen forekomst i 1 g av produktet.Prøver av materiale som er tatt under lagring eller ved uttak fra lager:
-Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0.
-Enterobacteriaceae: n = 5, c = 2, m = 10, M = 300 i 1 g
-der:n =antall prøver som skal undersøkes,m =terskelverdien for bakterietallet; resultatet anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,M =største bakterietall; resultatet anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, ogc =antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid anses som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.
+1. Enhver bearbeidingsmetode som er godkjent av vedkommende myndighet, forutsatt at den driftsansvarlige har vist vedkommende myndighet følgende:
+
+   1. at de relevante farene knyttet til utgangsmaterialet er identifisert, idet det er tatt hensyn til materialets opprinnelse, samt mulig risiko idet det er tatt hensyn til dyrehelsetilstanden i den medlemsstaten, det området eller den sonen metoden skal anvendes i,
+   2. at bearbeidingsmetoden gjør det mulig å redusere disse farene til et nivå som ikke utgjør en betydelig risiko for folkehelsen og dyrehelsen,
+   3. at det i en periode på 30 produksjonsdager, daglig er tatt prøver av sluttproduktet i samsvar med følgende mikrobiologiske krav:
+
+      1. Prøver av materiale som er tatt rett etter behandlingen:
+         *Clostridium perfringens*: ingen forekomst i 1 g av produktet.
+      2. Prøver av materiale som er tatt under lagring eller ved uttak fra lager:
+         Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0.
+         Enterobacteriaceae: n = 5, c = 2, m = 10, M = 300 i 1 g
+         der:
+
+         |  |  |
+         | --- | --- |
+         | n = | antall prøver som skal undersøkes, |
+         | m = | terskelverdien for bakterietallet; resultatet anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m, |
+         | M = | største bakterietall; resultatet anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, og |
+         | c = | antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid anses som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m. |
 2. Opplysninger om de kritiske kontrollpunktene som gjør det mulig å fastslå at det enkelte bearbeidingsanlegg overholder de mikrobiologiske kravene på en tilfredsstillende måte, skal registreres og oppbevares slik at den driftsansvarlige og vedkommende myndighet kan kontrollere bearbeidingsanleggets drift. De opplysningene som skal registreres og kontrolleres, skal omfatte partikkelstørrelse, og eventuelt kritisk temperatur, absolutt tid, trykkprofil, tilførselshastighet for råstoff og resirkuleringsrate for fett.
 3. Som unntak fra nr. 1 kan vedkommende myndighet tillate anvendelse av bearbeidingsmetoder som er blitt godkjent før denne forordning trer i kraft, i samsvar med kapittel III i vedlegg V til forordning [(EF) nr. 1774/2002](eu/32002r1774*).
 4. Vedkommende myndighet skal permanent eller midlertidig oppheve anvendelsen av bearbeidingsmetoder omhandlet i nr. 1 og 3 dersom den får bevis for at en eller flere av omstendighetene omhandlet i nr. 1 bokstav a) eller b) er vesentlig endret.
@@ -2137,10 +3443,17 @@ Alminnelige bestemmelser
 
 ► **M1**
 
-1. Materiale som oppstår gjennom bearbeiding av kategori 1- og 2-materiale skal merkes permanent i samsvar med kravene for merking av visse avledede produkter i vedlegg VIII kapittel V.Slik merking skal imidlertid ikke kreves for følgende materiale nevnt i avsnitt 2:biodiesel framstilt i samsvar med bokstav D,hydrolysert materiale nevnt i bokstav H,blandinger av svine- og fjørfegjødsel med ulesket kalk framstilt i samsvar med bokstav I,
-► **M13**fornybare drivstoffer framstilt av smeltet fett fra kategori 1- og kategori 2-materiale i samsvar med punkt J og L.
-◄ **M13**
-◄ **M1**
+1. Materiale som oppstår gjennom bearbeiding av kategori 1- og 2-materiale skal merkes permanent i samsvar med kravene for merking av visse avledede produkter i vedlegg VIII kapittel V.
+
+   Slik merking skal imidlertid ikke kreves for følgende materiale nevnt i avsnitt 2:
+
+   1. biodiesel framstilt i samsvar med bokstav D,
+   2. hydrolysert materiale nevnt i bokstav H,
+   3. blandinger av svine- og fjørfegjødsel med ulesket kalk framstilt i samsvar med bokstav I,
+      ► **M13**
+   4. fornybare drivstoffer framstilt av smeltet fett fra kategori 1- og kategori 2-materiale i samsvar med punkt J og L.
+      ◄ **M13**
+      ◄ **M1**
 2. For å gjøre det lettere å innføre en ny, alternativ metode skal vedkommende myndighet i en medlemsstat på anmodning formidle resultatene fra offentlige kontroller til vedkommende myndighet i en annen medlemsstat når en alternativ metode for første gang anvendes i den medlemsstaten.
 
 ###### Avsnitt 2
@@ -2149,39 +3462,145 @@ Krav til bearbeidingen
 
 *A. Alkalisk hydrolyse*
 
-1. *Utgangsmateriale*Til denne prosessen kan det anvendes animalske biprodukter av alle kategorier.
-2. *Bearbeidingsmetode*Alkalisk hydrolyse skal skje i samsvar med følgende krav til bearbeidingen:Det skal benyttes en løsning av enten natriumhydroksid (NaOH) eller kaliumhydroksid (KOH) (eller en blanding av de to), i en mengde som sikrer en omtrentlig molær likeverdighet til vekt, type og sammensetning av de animalske biproduktene som skal nedbrytes.Dersom et høyt fettinnhold i de animalske biproduktene nøytraliserer basen, skal den tilsatte basen tilpasses slik at den nevnte molære likeverdigheten oppnås.Animalske biprodukter skal plasseres i en beholder av legert stål. Den oppmålte mengden av alkalisk stoff skal tilsettes enten i fast form eller som en løsning, som beskrevet i bokstav a).De animalske biproduktene og alkaliblandingen skal varmes opp til en kjernetemperatur på minst 150 °C og et trykk (absolutt) på minst 4 bar, i minsttre sammenhengende timer,seks sammenhengende timer når det gjelder animalske biprodukter omhandlet i artikkel 8 bokstav a) i) og ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069).Materiale framstilt av kategori 1-materiale som består av dyr som er avlivet som følge av tiltak for å utrydde TSE, og som er enten drøvtyggere som det ikke kreves TSE-prøving av, eller drøvtyggere som har gjennomgått prøving med negativt resultat i samsvar med artikkel 6 nr. 1 i forordning [(EF) nr. 999/2001](eu/32001r0999), kan bearbeides i samsvar med nr. 2 bokstav c) i) i dette avsnitt, ellerén sammenhengende time når det gjelder animalske biprodukter som består av materiale fra bare fisk eller fjørfe.Prosessen skal gjennomføres i et diskontinuerlig system, og materialet i karet skal blandes kontinuerlig for å fremme nedbrytningsprosessen, helt til vevet er oppløst og bein og tenner er blitt myke.De animalske biproduktene skal behandles slik at kravene til tid, temperatur og trykk oppfylles samtidig.
+1. *Utgangsmateriale*
+
+   Til denne prosessen kan det anvendes animalske biprodukter av alle kategorier.
+2. *Bearbeidingsmetode*
+
+   Alkalisk hydrolyse skal skje i samsvar med følgende krav til bearbeidingen:
+
+   1. Det skal benyttes en løsning av enten natriumhydroksid (NaOH) eller kaliumhydroksid (KOH) (eller en blanding av de to), i en mengde som sikrer en omtrentlig molær likeverdighet til vekt, type og sammensetning av de animalske biproduktene som skal nedbrytes.
+
+      Dersom et høyt fettinnhold i de animalske biproduktene nøytraliserer basen, skal den tilsatte basen tilpasses slik at den nevnte molære likeverdigheten oppnås.
+   2. Animalske biprodukter skal plasseres i en beholder av legert stål. Den oppmålte mengden av alkalisk stoff skal tilsettes enten i fast form eller som en løsning, som beskrevet i bokstav a).
+   3. De animalske biproduktene og alkaliblandingen skal varmes opp til en kjernetemperatur på minst 150 °C og et trykk (absolutt) på minst 4 bar, i minst
+
+      1. tre sammenhengende timer,
+      2. seks sammenhengende timer når det gjelder animalske biprodukter omhandlet i artikkel 8 bokstav a) i) og ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+
+         Materiale framstilt av kategori 1-materiale som består av dyr som er avlivet som følge av tiltak for å utrydde TSE, og som er enten drøvtyggere som det ikke kreves TSE-prøving av, eller drøvtyggere som har gjennomgått prøving med negativt resultat i samsvar med artikkel 6 nr. 1 i forordning [(EF) nr. 999/2001](eu/32001r0999), kan bearbeides i samsvar med nr. 2 bokstav c) i) i dette avsnitt, eller
+      3. én sammenhengende time når det gjelder animalske biprodukter som består av materiale fra bare fisk eller fjørfe.
+   4. Prosessen skal gjennomføres i et diskontinuerlig system, og materialet i karet skal blandes kontinuerlig for å fremme nedbrytningsprosessen, helt til vevet er oppløst og bein og tenner er blitt myke.
+   5. De animalske biproduktene skal behandles slik at kravene til tid, temperatur og trykk oppfylles samtidig.
 
 *B. Hydrolyse under høyt trykk og høy temperatur*
 
-1. *Utgangsmateriale*Til denne prosessen kan det brukes kategori 2- og 3-materiale.
-2. *Bearbeidingsmetode*Hydrolyse under høyt trykk og høy temperatur skal skje i samsvar med følgende krav til bearbeidingen:de animalske biproduktene skal varmes opp til en kjernetemperatur på minst 180 °C i minst 40 sammenhengende minutter og med et trykk (absolutt) på minst 12 bar, og oppvarmingen skjer via indirekte damp til biolysereaktoren,prosessen skal gjennomføres i et diskontinuerlig system og materialet i karet skal blandes kontinuerlig, ogde animalske biproduktene skal behandles slik at kravene til tid, temperatur og trykk oppfylles samtidig.
+1. *Utgangsmateriale*
+
+   Til denne prosessen kan det brukes kategori 2- og 3-materiale.
+2. *Bearbeidingsmetode*
+
+   Hydrolyse under høyt trykk og høy temperatur skal skje i samsvar med følgende krav til bearbeidingen:
+
+   1. de animalske biproduktene skal varmes opp til en kjernetemperatur på minst 180 °C i minst 40 sammenhengende minutter og med et trykk (absolutt) på minst 12 bar, og oppvarmingen skjer via indirekte damp til biolysereaktoren,
+   2. prosessen skal gjennomføres i et diskontinuerlig system og materialet i karet skal blandes kontinuerlig, og
+   3. de animalske biproduktene skal behandles slik at kravene til tid, temperatur og trykk oppfylles samtidig.
 
 *C. Framstilling av biogass fra hydrolyse under høyt trykk*
 
-1. *Utgangsmateriale*Til denne prosessen kan det anvendes animalske biprodukter av alle kategorier.
-2. *Bearbeidingsmetode*Framstilling av biogass fra hydrolyse under høyt trykk skal skje i samsvar med følgende krav til bearbeidingen:De animalske biproduktene skal først bearbeides med bearbeidingsmetode 1 (trykksterilisering) i samsvar med kapittel III, i et godkjent bearbeidingsanlegg.Etter bearbeidingen nevnt i bokstav a), skal det avfettede materialet behandles ved en temperatur på minst 220 °C i minst 20 minutter med et trykk (absolutt) på minst 25 bar, og oppvarmingen foregår i to trinn; først med direkte dampinnsprøyting og deretter indirekte i en koaksial varmeveksler.Prosessen skal gjennomføres i et diskontinuerlig system eller fortløpende, og materialet i karet blandes kontinuerlig.De animalske biproduktene skal behandles slik at kravene til tid, temperatur og trykk oppfylles samtidig.Det resulterende materialet skal deretter blandes med vann og gjennomgå anaerob gjæring (omdanning til biogass) i en biogassreaktor.Dersom utgangsmaterialet er av kategori 1, skal hele prosessen gjennomføres på samme sted og i et lukket system, og den biogassen som blir produsert under prosessen, skal forbrennes raskt i samme anlegg ved minst 900 °C, etterfulgt av rask kjøling («quenching»).
+1. *Utgangsmateriale*
+
+   Til denne prosessen kan det anvendes animalske biprodukter av alle kategorier.
+2. *Bearbeidingsmetode*
+
+   Framstilling av biogass fra hydrolyse under høyt trykk skal skje i samsvar med følgende krav til bearbeidingen:
+
+   1. De animalske biproduktene skal først bearbeides med bearbeidingsmetode 1 (trykksterilisering) i samsvar med kapittel III, i et godkjent bearbeidingsanlegg.
+   2. Etter bearbeidingen nevnt i bokstav a), skal det avfettede materialet behandles ved en temperatur på minst 220 °C i minst 20 minutter med et trykk (absolutt) på minst 25 bar, og oppvarmingen foregår i to trinn; først med direkte dampinnsprøyting og deretter indirekte i en koaksial varmeveksler.
+   3. Prosessen skal gjennomføres i et diskontinuerlig system eller fortløpende, og materialet i karet blandes kontinuerlig.
+   4. De animalske biproduktene skal behandles slik at kravene til tid, temperatur og trykk oppfylles samtidig.
+   5. Det resulterende materialet skal deretter blandes med vann og gjennomgå anaerob gjæring (omdanning til biogass) i en biogassreaktor.
+   6. Dersom utgangsmaterialet er av kategori 1, skal hele prosessen gjennomføres på samme sted og i et lukket system, og den biogassen som blir produsert under prosessen, skal forbrennes raskt i samme anlegg ved minst 900 °C, etterfulgt av rask kjøling («quenching»).
 
 *D. Produksjon av biodiesel*
 
-1. *Utgangsmateriale*Til denne prosessen kan det anvendes en fettfraksjon fra animalske biprodukter av alle kategorier.
-2. *Bearbeidingsmetode*Produksjon av biodiesel skal skje i samsvar med følgende krav til bearbeidingen:Med mindre det anvendes fiskeolje eller smeltet fett framstilt i samsvar med henholdsvis avsnitt VIII eller XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal fettfraksjonen fra animalske biprodukter først bearbeides medbearbeidingsmetode 1 (trykksterilisering) i kapittel III dersom det gjelder kategori 1- eller 2-materiale, og►**M36**en av bearbeidingsmetodene 1–5 eller bearbeidingsmetode 7 i kapittel III dersom det gjelder annet kategori 3-materiale enn brukt matolje, eller en av bearbeidingsmetodene 1–7 i nevnte kapittel dersom det gjelder materiale fra fisk.◄**M36**Det bearbeidede fettet skal bearbeides ytterligere ved bruk av én av følgende metoder:en prosess der det bearbeidede fettet skal skilles fra proteinet og, dersom det gjelder fett fra drøvtyggere, skal uløselige urenheter som overstiger 0,15 vektprosent, fjernes, og deretter skal det bearbeidede fettet gjennomgå forestring og transforestring.Det kreves imidlertid ikke forestring av bearbeidet fett fra kategori 3-materiale. Ved forestring skal pH-verdien senkes til et nivå under 1 ved tilsetning av svovelsyre (H2 SO4) eller en tilsvarende syre, og blandingen varmes opp til 72 °C i to timer mens den blandes kraftig.Transforestringen skal utføres ved at pH-verdien økes til ca. 14 med kaliumhydroksid eller med en tilsvarende base ved 3 550 °C i minst 15 minutter. Transforestringen skal utføres to ganger på de vilkårene som er beskrevet i dette punkt, ved bruk av en ny basisk løsning. Prosessen skal etterfølges av en raffinering av produktene, herunder en vakuumdestillasjon ved 150 °C, som gir biodiesel,en prosess med tilsvarende parametrer, som er godkjent av vedkommende myndighet.
+1. *Utgangsmateriale*
+
+   Til denne prosessen kan det anvendes en fettfraksjon fra animalske biprodukter av alle kategorier.
+2. *Bearbeidingsmetode*
+
+   Produksjon av biodiesel skal skje i samsvar med følgende krav til bearbeidingen:
+
+   1. Med mindre det anvendes fiskeolje eller smeltet fett framstilt i samsvar med henholdsvis avsnitt VIII eller XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal fettfraksjonen fra animalske biprodukter først bearbeides med
+
+      1. bearbeidingsmetode 1 (trykksterilisering) i kapittel III dersom det gjelder kategori 1- eller 2-materiale, og
+
+      ►**M36**
+
+      1. en av bearbeidingsmetodene 1–5 eller bearbeidingsmetode 7 i kapittel III dersom det gjelder annet kategori 3-materiale enn brukt matolje, eller en av bearbeidingsmetodene 1–7 i nevnte kapittel dersom det gjelder materiale fra fisk.
+
+      ◄**M36**
+   2. Det bearbeidede fettet skal bearbeides ytterligere ved bruk av én av følgende metoder:
+
+      1. en prosess der det bearbeidede fettet skal skilles fra proteinet og, dersom det gjelder fett fra drøvtyggere, skal uløselige urenheter som overstiger 0,15 vektprosent, fjernes, og deretter skal det bearbeidede fettet gjennomgå forestring og transforestring.
+
+         Det kreves imidlertid ikke forestring av bearbeidet fett fra kategori 3-materiale. Ved forestring skal pH-verdien senkes til et nivå under 1 ved tilsetning av svovelsyre (H2 SO4) eller en tilsvarende syre, og blandingen varmes opp til 72 °C i to timer mens den blandes kraftig.
+
+         Transforestringen skal utføres ved at pH-verdien økes til ca. 14 med kaliumhydroksid eller med en tilsvarende base ved 3 550 °C i minst 15 minutter. Transforestringen skal utføres to ganger på de vilkårene som er beskrevet i dette punkt, ved bruk av en ny basisk løsning. Prosessen skal etterfølges av en raffinering av produktene, herunder en vakuumdestillasjon ved 150 °C, som gir biodiesel,
+      2. en prosess med tilsvarende parametrer, som er godkjent av vedkommende myndighet.
 
 *E. Brookes forgassing*
 
-1. *Utgangsmateriale*Til denne prosessen kan det brukes kategori 2- og 3-materiale.
-2. *Bearbeidingsmetode*Brookes forgassing skal skje i samsvar med følgende krav til bearbeidingen:Etterbrenningskammeret skal varmes opp med naturgass.De animalske biproduktene skal plasseres i forgasserens primærkammer og døren lukkes. Primærkammeret skal ikke ha brennere og skal i stedet varmes opp ved overføring av varme fra etterbrenningskammeret som skal befinne seg under primærkammeret. For å gjøre prosessen mer effektiv skal det slippes inn luft bare til primærkammeret gjennom tre innsugingsventiler på hoveddøren.De animalske biproduktene skal bli til flyktige komplekse hydrokarboner, og gassene som oppstår, ledes fra primærkammeret gjennom en smal åpning øverst på den bakre veggen mot blande- og krakkingssonene, hvor de knuses til sine enkelte bestanddeler. Gassene skal til slutt ledes inn i etterbrenningskammeret der de skal forbrennes i flammen fra en brenner med naturgass i et luftoverskudd.
-►**M23**Hver bearbeidingsenhet må ha to brennere og to sekundære vifter som reserve i tilfelle det oppstår feil ved brennerne eller viftene. Sekundærkammeret må være utformet slik at det gir en oppholdstid på minst to sekunder ved en temperatur på minst 850 °C under alle forbrenningsforhold. ◄**M23**På vei ut av sekundærkammeret skal eksosen ledes gjennom et trykkregulerende spjeld nede i skorsteinen, som kjøler og fortynner den med omgivelsesluften, samtidig som trykket i primær- og sekundærkammeret opprettholdes.Prosessen skal skje i en syklus på 24 timer, som omfatter påfylling, bearbeiding, nedkjøling og fjerning av aske. Ved slutten av syklusen skal restasken fjernes fra primærkammeret ved hjelp av vakuumekstraksjon til lukkede sekker som deretter forsegles før transport.Forgassing av andre materialer enn animalske biprodukter skal ikke være tillatt.
+1. *Utgangsmateriale*
+
+   Til denne prosessen kan det brukes kategori 2- og 3-materiale.
+2. *Bearbeidingsmetode*
+
+   Brookes forgassing skal skje i samsvar med følgende krav til bearbeidingen:
+
+   1. Etterbrenningskammeret skal varmes opp med naturgass.
+   2. De animalske biproduktene skal plasseres i forgasserens primærkammer og døren lukkes. Primærkammeret skal ikke ha brennere og skal i stedet varmes opp ved overføring av varme fra etterbrenningskammeret som skal befinne seg under primærkammeret. For å gjøre prosessen mer effektiv skal det slippes inn luft bare til primærkammeret gjennom tre innsugingsventiler på hoveddøren.
+   3. De animalske biproduktene skal bli til flyktige komplekse hydrokarboner, og gassene som oppstår, ledes fra primærkammeret gjennom en smal åpning øverst på den bakre veggen mot blande- og krakkingssonene, hvor de knuses til sine enkelte bestanddeler. Gassene skal til slutt ledes inn i etterbrenningskammeret der de skal forbrennes i flammen fra en brenner med naturgass i et luftoverskudd.
+      ►**M23**
+   4. Hver bearbeidingsenhet må ha to brennere og to sekundære vifter som reserve i tilfelle det oppstår feil ved brennerne eller viftene. Sekundærkammeret må være utformet slik at det gir en oppholdstid på minst to sekunder ved en temperatur på minst 850 °C under alle forbrenningsforhold. ◄**M23**
+   5. På vei ut av sekundærkammeret skal eksosen ledes gjennom et trykkregulerende spjeld nede i skorsteinen, som kjøler og fortynner den med omgivelsesluften, samtidig som trykket i primær- og sekundærkammeret opprettholdes.
+   6. Prosessen skal skje i en syklus på 24 timer, som omfatter påfylling, bearbeiding, nedkjøling og fjerning av aske. Ved slutten av syklusen skal restasken fjernes fra primærkammeret ved hjelp av vakuumekstraksjon til lukkede sekker som deretter forsegles før transport.
+   7. Forgassing av andre materialer enn animalske biprodukter skal ikke være tillatt.
 
 *F. Forbrenning av animalsk fett i dampkjel*
 
-1. *Utgangsmateriale*Til denne prosessen kan det anvendes en fettfraksjon fra animalske biprodukter av alle kategorier.
-2. *Bearbeidingsmetode*Forbrenning av animalsk fett i dampkjel skal skje i samsvar med følgende krav til bearbeidingen:Med mindre det anvendes fiskeolje eller smeltet fett framstilt i samsvar med henholdsvis avsnitt VIII eller XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal fettfraksjonen fra animalske biprodukter først bearbeides på følgende måte:når det gjelder fettfraksjonen av kategori 1- og 2-materiale som skal forbrennes i et annet anlegg:med en av bearbeidingsmetodene 1–5 i kapittel III i dette vedlegg dersom det gjelder fettfraksjonen fra bearbeidingen av drøvtyggere som er blitt prøvet med negativt resultat i samsvar med artikkel 6 nr. 1 i forordning [(EF) nr. 999/2001](eu/32001r0999) og fra bearbeidingen av andre dyr enn drøvtyggere som er underlagt krav om TSE-prøving,med bearbeidingsmetode 1 i kapittel III dersom det gjelder fettfraksjonen fra bearbeidingen av andre drøvtyggere, ogmed en av bearbeidingsmetodene 1–5 eller 7 dersom det gjelder kategori 1- og 2-materiale som skal forbrennes i samme anlegg, og kategori 3-materiale; med bearbeidingsmetode 1–7 i kapittel III dersom det gjelder materiale framstilt av fisk.Fettfraksjonen skal skilles fra proteinet, og dersom det gjelder fett fra drøvtyggere som skal forbrennes i et annet anlegg, skal uløselige urenheter som overstiger 0,15, fjernes.Etter bearbeidingen nevnt i bokstav a) og b) gjøres følgende:fettet fordampes i dampkjel og forbrennes ved en temperatur på minst 1 100 °C i minst 0,2 sekunder, ellerfettet bearbeides med tilsvarende prosessparametrer som er godkjent av vedkommende myndighet.Forbrenning av annet materiale av animalsk opprinnelse enn animalsk fett, skal ikke være tillatt.Forbrenningen av fett framstilt av kategori 1- og 2-materiale skal skje i det samme anlegget som der fettet smeltes, for å utnytte den genererte energien til smelteprosessene. Vedkommende myndighet kan imidlertid tillate at fettet flyttes til andre anlegg med sikte på forbrenning, forutsatt at:bestemmelsesanlegget er godkjent til å utføre forbrenningen,bearbeidingen av næringsmidler og fôr i et godkjent anlegg på samme område skjer under strenge krav til atskillelse.Forbrenningen skal skje i samsvar med Unionens regelverk for miljøvern, særlig når det gjelder kravene i dette regelverket om beste tilgjengelige teknikker for kontroll over og overvåking av utslipp.
+1. *Utgangsmateriale*
+
+   Til denne prosessen kan det anvendes en fettfraksjon fra animalske biprodukter av alle kategorier.
+2. *Bearbeidingsmetode*
+
+   Forbrenning av animalsk fett i dampkjel skal skje i samsvar med følgende krav til bearbeidingen:
+
+   1. Med mindre det anvendes fiskeolje eller smeltet fett framstilt i samsvar med henholdsvis avsnitt VIII eller XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal fettfraksjonen fra animalske biprodukter først bearbeides på følgende måte:
+
+      1. når det gjelder fettfraksjonen av kategori 1- og 2-materiale som skal forbrennes i et annet anlegg:
+
+         - med en av bearbeidingsmetodene 1–5 i kapittel III i dette vedlegg dersom det gjelder fettfraksjonen fra bearbeidingen av drøvtyggere som er blitt prøvet med negativt resultat i samsvar med artikkel 6 nr. 1 i forordning [(EF) nr. 999/2001](eu/32001r0999) og fra bearbeidingen av andre dyr enn drøvtyggere som er underlagt krav om TSE-prøving,
+         - med bearbeidingsmetode 1 i kapittel III dersom det gjelder fettfraksjonen fra bearbeidingen av andre drøvtyggere, og
+      2. med en av bearbeidingsmetodene 1–5 eller 7 dersom det gjelder kategori 1- og 2-materiale som skal forbrennes i samme anlegg, og kategori 3-materiale; med bearbeidingsmetode 1–7 i kapittel III dersom det gjelder materiale framstilt av fisk.
+   2. Fettfraksjonen skal skilles fra proteinet, og dersom det gjelder fett fra drøvtyggere som skal forbrennes i et annet anlegg, skal uløselige urenheter som overstiger 0,15, fjernes.
+   3. Etter bearbeidingen nevnt i bokstav a) og b) gjøres følgende:
+
+      1. fettet fordampes i dampkjel og forbrennes ved en temperatur på minst 1 100 °C i minst 0,2 sekunder, eller
+      2. fettet bearbeides med tilsvarende prosessparametrer som er godkjent av vedkommende myndighet.
+   4. Forbrenning av annet materiale av animalsk opprinnelse enn animalsk fett, skal ikke være tillatt.
+   5. Forbrenningen av fett framstilt av kategori 1- og 2-materiale skal skje i det samme anlegget som der fettet smeltes, for å utnytte den genererte energien til smelteprosessene. Vedkommende myndighet kan imidlertid tillate at fettet flyttes til andre anlegg med sikte på forbrenning, forutsatt at:
+
+      1. bestemmelsesanlegget er godkjent til å utføre forbrenningen,
+      2. bearbeidingen av næringsmidler og fôr i et godkjent anlegg på samme område skjer under strenge krav til atskillelse.
+   6. Forbrenningen skal skje i samsvar med Unionens regelverk for miljøvern, særlig når det gjelder kravene i dette regelverket om beste tilgjengelige teknikker for kontroll over og overvåking av utslipp.
 
 *G. Prosessen termomekanisk produksjon av biodrivstoff*
 
-1. *Utgangsmateriale*Til denne prosessen kan det brukes husdyrgjødsel, mage- og tarminnhold og kategori 3-materiale.
-2. *Bearbeidingsmetode*Termomekanisk produksjon av biodrivstoff skal skje i samsvar med følgende krav til bearbeidingen:De animalske biproduktene fylles i en varmeveksler og behandles deretter ved en temperatur på 80 °C i åtte timer I løpet av dette tidsrommet reduseres materialets partikkelstørrelse konstant ved hjelp av egnet mekanisk utstyr.Materialet behandles deretter ved en temperatur på 100 °C i minst to timer.Partikkelstørrelsen i det resulterende materialet skal ikke være mer enn 20 millimeter.De animalske biproduktene skal behandles slik at kravene til tid, temperatur og trykk i bokstav a) og b) oppfylles samtidig.Under varmebehandlingen av materialet skal fordampet vann kontinuerlig fanges opp fra luftrommet over biodrivstoffet, og ledes gjennom en kondensator av rustfritt stål. Kondensatet holdes ved en temperatur på minst 70 °C i minst én time før det slippes ut som spillvann.Etter varmebehandlingen av materialet skal det resulterende biodrivstoffet tømmes ut av varmeveksleren og transporteres automatisk gjennom et helt tildekket og lukket transportsystem til avfallsforbrenning eller samforbrenning på samme sted.Prosessen skal utføres i et diskontinuerlig system.
+1. *Utgangsmateriale*
+
+   Til denne prosessen kan det brukes husdyrgjødsel, mage- og tarminnhold og kategori 3-materiale.
+2. *Bearbeidingsmetode*
+
+   Termomekanisk produksjon av biodrivstoff skal skje i samsvar med følgende krav til bearbeidingen:
+
+   1. De animalske biproduktene fylles i en varmeveksler og behandles deretter ved en temperatur på 80 °C i åtte timer I løpet av dette tidsrommet reduseres materialets partikkelstørrelse konstant ved hjelp av egnet mekanisk utstyr.
+   2. Materialet behandles deretter ved en temperatur på 100 °C i minst to timer.
+   3. Partikkelstørrelsen i det resulterende materialet skal ikke være mer enn 20 millimeter.
+   4. De animalske biproduktene skal behandles slik at kravene til tid, temperatur og trykk i bokstav a) og b) oppfylles samtidig.
+   5. Under varmebehandlingen av materialet skal fordampet vann kontinuerlig fanges opp fra luftrommet over biodrivstoffet, og ledes gjennom en kondensator av rustfritt stål. Kondensatet holdes ved en temperatur på minst 70 °C i minst én time før det slippes ut som spillvann.
+   6. Etter varmebehandlingen av materialet skal det resulterende biodrivstoffet tømmes ut av varmeveksleren og transporteres automatisk gjennom et helt tildekket og lukket transportsystem til avfallsforbrenning eller samforbrenning på samme sted.
+   7. Prosessen skal utføres i et diskontinuerlig system.
 
 ► **M9** ◄
 
@@ -2189,21 +3608,89 @@ Krav til bearbeidingen
 
 *I. Kalkbehandling av svine- og fjørfegjødsel*
 
-1. *Utgangsmateriale*I denne prosessen kan det anvendes husdyrgjødsel som nevnt i artikkel 9 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069), fra svin og fjøre.
-2. *Bearbeidingsmetode*Husdyrgjødselens tørrstoffinnhold skal fastsettes ved anvendelse av metoden CEN EN 12880 20001 «Karakterisering av slam. Bestemmelse av tørrstoffinnhold og vanninnhold».Til denne prosessen skal tørrstoffinnholdet være mellom 15 % og 70 %.Mengden av kalk som skal tilsettes, skal bestemmes på en slik måte at kombinasjonene av tid og temperatur som er fastsatt i bokstav f), oppnås.De animalske biproduktene som skal bearbeides, skal ha en partikkelstørrelse på høyst 12 mm.Ved behov skal størrelsen på partiklene fra husdyrgjødsel reduseres slik at den største tillatte partikkelstørrelsen ikke overskrides.Husdyrgjødselen skal blandes med ulesket kalk (CaO) med middels til høy reaktivitet på mindre enn seks minutter for å oppnå en temperaturstigning på 40 °C i samsvar med kriteriene i reaktivitetstest nr. 5.10 i metode CEN EN 459-2:2002.2Blandingen skal skje i to blandere i linje, med to skruer per blander.Begge blanderne skalha en skruediameter på 0,55 m og en skruelengde på 3,5 m,drives med en kraft på 30 kW, og skruens rotasjonshastighet skal være 156 rpm,ha en behandlingskapasitet på 10 tonn per time.Blandingen skal i gjennomsnitt vare i ca. to minutter.Blandingen skal blandes i minst seks timer til en masse med en vekt på minst to tonn.Det skal foretas kontinuerlig måling på kontrollsteder i massen for å påvise at blandingen i massen oppnår en pH-verdi på minst 12 i løpet av en av følgende perioder, der en av de tilsvarende temperaturene skal oppnås:60 °C i løpet av 60 minutter, eller70 °C i løpet av 30 minutter.Prosessen skal utføres i et diskontinuerlig system.Det skal innføres en permanent skriftlig framgangsmåte som bygger på HACCP-prinsippene.Driftsansvarlige har gjennom en validering i samsvar med følgende krav mulighet til å påvise for vedkommende myndighet at en prosess der det anvendes annet blandeutstyr enn det som er nevnt i bokstav d), eller anvendes dolomittkalk (CaOMgO) i stedet for ulesket kalk, er minst like effektiv som prosessen som beskrives i bokstav a)–h).En slik validering skalpåvise at det ved anvendelse av et annet blandeutstyr enn det som er nevnt i bokstav d), eller av dolomittkalk, kan framstille en blanding med husdyrgjødsel som oppnår de parametrene for pH-verdi, tid og temperatur som er nevnt i bokstav f),bygge på kontroll av tid og temperatur i den nedre, midtre og øvre delen av massen, med et representativt antall kontrollpunkter (minst fire kontrollpunkter i den nedre delen, som skal plasseres høyst 10 cm fra bunnen og høyst 10 cm fra toppen av den nedre delen, ett kontrollpunkt i den midtre delen halvveis mellom den øvre og den nedre delen, og fire kontrollpunkter i den øvre delen, som skal plasseres høyst 10 cm under overflaten og høyst 10 cm under massens øvre del),gjennomføres i to perioder på minst 30 dager, hvorav den ene skal være i den kalde årstiden på det geografiske stedet der blandeutstyret skal anvendes.
+1. *Utgangsmateriale*
+
+   I denne prosessen kan det anvendes husdyrgjødsel som nevnt i artikkel 9 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069), fra svin og fjøre.
+2. *Bearbeidingsmetode*
+
+   1. Husdyrgjødselens tørrstoffinnhold skal fastsettes ved anvendelse av metoden CEN EN 12880 20001 «Karakterisering av slam. Bestemmelse av tørrstoffinnhold og vanninnhold».
+
+      Til denne prosessen skal tørrstoffinnholdet være mellom 15 % og 70 %.
+   2. Mengden av kalk som skal tilsettes, skal bestemmes på en slik måte at kombinasjonene av tid og temperatur som er fastsatt i bokstav f), oppnås.
+   3. De animalske biproduktene som skal bearbeides, skal ha en partikkelstørrelse på høyst 12 mm.
+
+      Ved behov skal størrelsen på partiklene fra husdyrgjødsel reduseres slik at den største tillatte partikkelstørrelsen ikke overskrides.
+   4. Husdyrgjødselen skal blandes med ulesket kalk (CaO) med middels til høy reaktivitet på mindre enn seks minutter for å oppnå en temperaturstigning på 40 °C i samsvar med kriteriene i reaktivitetstest nr. 5.10 i metode CEN EN 459-2:2002.2
+
+      Blandingen skal skje i to blandere i linje, med to skruer per blander.
+
+      Begge blanderne skal
+
+      1. ha en skruediameter på 0,55 m og en skruelengde på 3,5 m,
+      2. drives med en kraft på 30 kW, og skruens rotasjonshastighet skal være 156 rpm,
+      3. ha en behandlingskapasitet på 10 tonn per time.
+
+         Blandingen skal i gjennomsnitt vare i ca. to minutter.
+   5. Blandingen skal blandes i minst seks timer til en masse med en vekt på minst to tonn.
+   6. Det skal foretas kontinuerlig måling på kontrollsteder i massen for å påvise at blandingen i massen oppnår en pH-verdi på minst 12 i løpet av en av følgende perioder, der en av de tilsvarende temperaturene skal oppnås:
+
+      1. 60 °C i løpet av 60 minutter, eller
+      2. 70 °C i løpet av 30 minutter.
+   7. Prosessen skal utføres i et diskontinuerlig system.
+   8. Det skal innføres en permanent skriftlig framgangsmåte som bygger på HACCP-prinsippene.
+   9. Driftsansvarlige har gjennom en validering i samsvar med følgende krav mulighet til å påvise for vedkommende myndighet at en prosess der det anvendes annet blandeutstyr enn det som er nevnt i bokstav d), eller anvendes dolomittkalk (CaOMgO) i stedet for ulesket kalk, er minst like effektiv som prosessen som beskrives i bokstav a)–h).
+
+      En slik validering skal
+
+      - påvise at det ved anvendelse av et annet blandeutstyr enn det som er nevnt i bokstav d), eller av dolomittkalk, kan framstille en blanding med husdyrgjødsel som oppnår de parametrene for pH-verdi, tid og temperatur som er nevnt i bokstav f),
+      - bygge på kontroll av tid og temperatur i den nedre, midtre og øvre delen av massen, med et representativt antall kontrollpunkter (minst fire kontrollpunkter i den nedre delen, som skal plasseres høyst 10 cm fra bunnen og høyst 10 cm fra toppen av den nedre delen, ett kontrollpunkt i den midtre delen halvveis mellom den øvre og den nedre delen, og fire kontrollpunkter i den øvre delen, som skal plasseres høyst 10 cm under overflaten og høyst 10 cm under massens øvre del),
+      - gjennomføres i to perioder på minst 30 dager, hvorav den ene skal være i den kalde årstiden på det geografiske stedet der blandeutstyret skal anvendes.
 
 *J. Katalytisk flertrinnsprosess for framstilling av fornybare drivstoffer*
 
-1. *Utgangsmateriale*Til denne prosessen kan følgende materiale anvendes:smeltet fett fra kategori 2-materiale, som er bearbeidet med bearbeidingsmetode 1 (trykksterilisering),fiskeolje eller smeltet fett fra kategori 3-materiale, som er bearbeidet medén av bearbeidingsmetodene 1–5 eller 7, ellernår det gjelder materiale fra fiskeolje, én av bearbeidingsmetodene 1–7,fiskeolje eller smeltet fett framstilt i samsvar med henholdsvis avsnitt VIII eller XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*).►**M36**brukt matolje av kategori 3-materiale.◄**M36**Det er forbudt å anvende smeltet fett fra kategori 1-materiale til denne prosessen.
-2. *Bearbeidingsmetode*Det smeltede fettet skal gjennomgå en forbehandling som består avbleking av det sentrifugerte materialet ved at det passerer gjennom et leirefilter,fjerning av resterende uløselige urenheter ved filtrering.Det forbehandlede materialet skal gjennomgå en katalytisk flertrinnsprosess som består av et trinn med hydro-deoksygenering etter fulgt av et trinn med isomerisering.Materialet må utsettes for et trykk på minst 20 bar ved en temperatur på minst 250 °C i minst 20 minutter.
-◄ **M1**
+1. *Utgangsmateriale*
+
+   1. Til denne prosessen kan følgende materiale anvendes:
+
+      1. smeltet fett fra kategori 2-materiale, som er bearbeidet med bearbeidingsmetode 1 (trykksterilisering),
+      2. fiskeolje eller smeltet fett fra kategori 3-materiale, som er bearbeidet med
+
+         - én av bearbeidingsmetodene 1–5 eller 7, eller
+         - når det gjelder materiale fra fiskeolje, én av bearbeidingsmetodene 1–7,
+      3. fiskeolje eller smeltet fett framstilt i samsvar med henholdsvis avsnitt VIII eller XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*).
+
+      ►**M36**
+
+      1. brukt matolje av kategori 3-materiale.
+
+      ◄**M36**
+   2. Det er forbudt å anvende smeltet fett fra kategori 1-materiale til denne prosessen.
+2. *Bearbeidingsmetode*
+
+   1. Det smeltede fettet skal gjennomgå en forbehandling som består av
+
+      1. bleking av det sentrifugerte materialet ved at det passerer gjennom et leirefilter,
+      2. fjerning av resterende uløselige urenheter ved filtrering.
+   2. Det forbehandlede materialet skal gjennomgå en katalytisk flertrinnsprosess som består av et trinn med hydro-deoksygenering etter fulgt av et trinn med isomerisering.
+
+      Materialet må utsettes for et trykk på minst 20 bar ved en temperatur på minst 250 °C i minst 20 minutter.
+      ◄ **M1**
 
 ► **M9**
 
 *K. Ensilering av fiskemateriale*
 
-1. *Utgangsmateriale*Til denne prosessen skal bare følgende biprodukter fra vanndyr anvendes:Kategori 2-materiale nevnt i artikkel 9 bokstav f) i) og iii) i forordning [(EF) nr. 1069/2009](eu/32009r1069),Kategori 3-materialer.
-2. *Bearbeidingsmetode*Materiale som skal behandles, skal innsamles fra akvakulturanlegg og bearbeidingsanlegg for næringsmidler daglig og uten unødvendige forsinkelser, kvernes eller hakkes, og deretter ensileres ved en pH-verdi på høyst 4, med maursyre eller annen organisk syre godkjent i samsvar med fôrvareregelverket. Fiskeensilasjen som er et resultat av dette, skal være en suspensjon av oppdelte vanndyr gjort flytende gjennom aktiviteten til endogene enzymer med tilstedeværelse av tilsatt syre. Proteinene fra vanndyr skal reduseres til mindre og oppløselige enheter ved hjelp av enzymene og syren for å unngå mikrobiell nedbrytning. Det ensilerte materiale transporteres til bearbeidingsanlegget.Ved bearbeidingsanlegget skal det ensilerte materiale fra vanndyr ledes via rørledninger til lukkede lagringstanker. Inkubasjonstiden må være minst 24 timer ved en pH-verdi på høyst 4 før varmebehandlingen kan gjennomføres. Før varmebehandlingen skal ensilasjen fra vanndyr ha en pH-verdi på høyst 4 og en partikkelstørrelse på mindre enn 10 mm etter filtrering eller oppløsning på anlegget. Under bearbeidingen skal den forvarmes til over 85 °C etterfulgt av inkubasjon i en isolert beholder for å oppnå 85 °C i alt fiskemateriale i 25 minutter. Bearbeidingen skal skje i en lukket produksjonslinje med tanker og rørledninger.Før godkjenning kan gis skal driftsansvarliges permanente skriftlige framgangsmåte nevnt i artikkel 29 nr. 1) til 3) i forordning [(EF) nr. 1069/2009](eu/32009r1069) vurderes av vedkommende myndighet.
+1. *Utgangsmateriale*
+
+   Til denne prosessen skal bare følgende biprodukter fra vanndyr anvendes:
+
+   1. Kategori 2-materiale nevnt i artikkel 9 bokstav f) i) og iii) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+   2. Kategori 3-materialer.
+2. *Bearbeidingsmetode*
+
+   - Materiale som skal behandles, skal innsamles fra akvakulturanlegg og bearbeidingsanlegg for næringsmidler daglig og uten unødvendige forsinkelser, kvernes eller hakkes, og deretter ensileres ved en pH-verdi på høyst 4, med maursyre eller annen organisk syre godkjent i samsvar med fôrvareregelverket. Fiskeensilasjen som er et resultat av dette, skal være en suspensjon av oppdelte vanndyr gjort flytende gjennom aktiviteten til endogene enzymer med tilstedeværelse av tilsatt syre. Proteinene fra vanndyr skal reduseres til mindre og oppløselige enheter ved hjelp av enzymene og syren for å unngå mikrobiell nedbrytning. Det ensilerte materiale transporteres til bearbeidingsanlegget.
+   - Ved bearbeidingsanlegget skal det ensilerte materiale fra vanndyr ledes via rørledninger til lukkede lagringstanker. Inkubasjonstiden må være minst 24 timer ved en pH-verdi på høyst 4 før varmebehandlingen kan gjennomføres. Før varmebehandlingen skal ensilasjen fra vanndyr ha en pH-verdi på høyst 4 og en partikkelstørrelse på mindre enn 10 mm etter filtrering eller oppløsning på anlegget. Under bearbeidingen skal den forvarmes til over 85 °C etterfulgt av inkubasjon i en isolert beholder for å oppnå 85 °C i alt fiskemateriale i 25 minutter. Bearbeidingen skal skje i en lukket produksjonslinje med tanker og rørledninger.
+   - Før godkjenning kan gis skal driftsansvarliges permanente skriftlige framgangsmåte nevnt i artikkel 29 nr. 1) til 3) i forordning [(EF) nr. 1069/2009](eu/32009r1069) vurderes av vedkommende myndighet.
 
 1 BS EN 12880:2000, Karakterisering av slam. Bestemmelse av tørrstoffinnhold og vanninnhold. Den europeiske standardiseringskomité.
 
@@ -2215,8 +3702,25 @@ Krav til bearbeidingen
 
 *L. Flertrinnsprosess med katalytisk hydrobehandling for framstilling av fornybare drivstoffer*
 
-1. *Utgangsmaterialer*Til denne prosessen kan følgende materialer brukes:Smeltet fett som er framstilt av kategori 1-materiale, og som er bearbeidet med bearbeidingsmetode 1 (trykksterilisering).►**M36**Brukt matolje av kategori 3-materiale, smeltet fett og fiskeolje som er i samsvar med punkt J nr. 1 bokstav a) i dette avsnittet.◄**M36**
-2. *Bearbeidingsmetode*Det smeltede fettet skal gjennomgå en forbehandling som minst omfatter bleking av utgangsmaterialet, herunder smeltet fett, med syre i nærvær av blekejord samt etterfølgende fjerning av den brukte blekejorden og uløselige urenheter ved filtrering.Før denne behandlingen kan smeltet fett avslimes med syre og/eller kaustisk løsning for å fjerne urenheter fra det smeltede fettet ved at det dannes slim som senere fraskilles ved sentrifugering.De forbehandlede materialene skal gjennomgå en hydrobehandlingsprosess som består av et trinn med katalytisk hydrobehandling, et strippingstrinn og deretter et isomeriseringstrinn.Materialene skal utsettes for et trykk på minst 30 bar ved en temperatur på minst 265 °C i minst 20 minutter.
+1. *Utgangsmaterialer*
+
+   Til denne prosessen kan følgende materialer brukes:
+
+   1. Smeltet fett som er framstilt av kategori 1-materiale, og som er bearbeidet med bearbeidingsmetode 1 (trykksterilisering).
+
+   ►**M36**
+
+   1. Brukt matolje av kategori 3-materiale, smeltet fett og fiskeolje som er i samsvar med punkt J nr. 1 bokstav a) i dette avsnittet.
+
+   ◄**M36**
+2. *Bearbeidingsmetode*
+
+   1. Det smeltede fettet skal gjennomgå en forbehandling som minst omfatter bleking av utgangsmaterialet, herunder smeltet fett, med syre i nærvær av blekejord samt etterfølgende fjerning av den brukte blekejorden og uløselige urenheter ved filtrering.
+
+      Før denne behandlingen kan smeltet fett avslimes med syre og/eller kaustisk løsning for å fjerne urenheter fra det smeltede fettet ved at det dannes slim som senere fraskilles ved sentrifugering.
+   2. De forbehandlede materialene skal gjennomgå en hydrobehandlingsprosess som består av et trinn med katalytisk hydrobehandling, et strippingstrinn og deretter et isomeriseringstrinn.
+
+      Materialene skal utsettes for et trykk på minst 30 bar ved en temperatur på minst 265 °C i minst 20 minutter.
 
 ◄ **M13**
 
@@ -2224,17 +3728,36 @@ Krav til bearbeidingen
 
 *M. Produksjon av biodiesel av bearbeidet fett avledet av animalske biprodukter i kategori 1, 2 og 3*
 
-1. *Utgangsmateriale*Til denne prosessen kan det brukes smeltet fett av kategori 1-, 2- eller 3-materiale og brukt matolje av kategori 3-materiale.
-2. *Bearbeidingsmetoder*Med mindre det brukes fiskeolje framstilt i samsvar med avsnitt VIII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853)\* eller smeltet fett framstilt i samsvar med avsnitt XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853), skal fettfraksjonen fra animalske biprodukter først bearbeides medbearbeidingsmetode 1 (trykksterilisering) i kapittel III i dette vedlegget dersom det gjelder kategori 1- eller 2-materiale, ogen av bearbeidingsmetodene 1–5 eller bearbeidingsmetode 7 i kapittel III i dette vedlegget dersom det gjelder annet kategori 3-materiale enn brukt matolje, eller en av bearbeidingsmetodene 1–7 i nevnte kapittel dersom det gjelder materiale fra fisk.
-3. Etter bearbeiding i samsvar med en av bearbeidingsmetodene nevnt i nr. 2 skal utgangsmaterialene nevnt i nr. 1 gjennomgå følgende trinn:En forhåndsrensingsprosess for å fjerne uløselige urenheter over 0,15 %. De rensede væskene fra forhåndsrensingen skal pumpes til biodieseltanken på det anlegget der de rensede væskene lagres, som råstoff til biodiesel, fram til bearbeidingen.En syrekatalysert forestring/omestring (1,5 % metansulfonsyre (MSA) vekt/vekt, 140 °C, 5,5 bar absolutt trykk (bar(a)), 4 timer) for omdanning av det rensede råstoffet til biodiesel.Fraksjonert destillasjon: Biodieselen skal fraksjoneres (≥ 220 °C; 10–35 millibar (mbar(a)) til flere raffinerte produkter som hvert inneholder karbonkjeder av en bestemt lengde, noe som resulterer i biodieselpartier med forskjellige spesifikasjoner.
+1. *Utgangsmateriale*
+
+   Til denne prosessen kan det brukes smeltet fett av kategori 1-, 2- eller 3-materiale og brukt matolje av kategori 3-materiale.
+2. *Bearbeidingsmetoder*
+
+   Med mindre det brukes fiskeolje framstilt i samsvar med avsnitt VIII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853)\* eller smeltet fett framstilt i samsvar med avsnitt XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853), skal fettfraksjonen fra animalske biprodukter først bearbeides med
+
+   1. bearbeidingsmetode 1 (trykksterilisering) i kapittel III i dette vedlegget dersom det gjelder kategori 1- eller 2-materiale, og
+   2. en av bearbeidingsmetodene 1–5 eller bearbeidingsmetode 7 i kapittel III i dette vedlegget dersom det gjelder annet kategori 3-materiale enn brukt matolje, eller en av bearbeidingsmetodene 1–7 i nevnte kapittel dersom det gjelder materiale fra fisk.
+3. Etter bearbeiding i samsvar med en av bearbeidingsmetodene nevnt i nr. 2 skal utgangsmaterialene nevnt i nr. 1 gjennomgå følgende trinn:
+
+   1. En forhåndsrensingsprosess for å fjerne uløselige urenheter over 0,15 %. De rensede væskene fra forhåndsrensingen skal pumpes til biodieseltanken på det anlegget der de rensede væskene lagres, som råstoff til biodiesel, fram til bearbeidingen.
+   2. En syrekatalysert forestring/omestring (1,5 % metansulfonsyre (MSA) vekt/vekt, 140 °C, 5,5 bar absolutt trykk (bar(a)), 4 timer) for omdanning av det rensede råstoffet til biodiesel.
+   3. Fraksjonert destillasjon: Biodieselen skal fraksjoneres (≥ 220 °C; 10–35 millibar (mbar(a)) til flere raffinerte produkter som hvert inneholder karbonkjeder av en bestemt lengde, noe som resulterer i biodieselpartier med forskjellige spesifikasjoner.
 4. Vedkommende myndighet skal vurdere HACCP-planen, der de viktigste bearbeidingsparametrene for trinnene beskrevet i nr. 1, 2 og 3 kontrolleres og registreres.
 
 \* Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55, ELI: http://data.europa.eu/eli/reg/2004/853/oj).
 
 *N. Produksjonsprosess for biodiesel ved bruk av smeltet fett av animalske biprodukter i kategori 1, 2 og 3*
 
-1. *Utgangsmateriale*Til denne prosessen skal det brukes en fettfraksjon fra animalske biprodukter i kategori 1, 2 eller 3.
-2. *Bearbeidingsmetoder*Med mindre det brukes fiskeolje framstilt i samsvar med avsnitt VIII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853) eller smeltet fett framstilt i samsvar med avsnitt XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853), skal fettfraksjonen fra animalske biprodukter først bearbeides medbearbeidingsmetode 1 (trykksterilisering) i kapittel III i dette vedlegget dersom det gjelder kategori 1- eller 2-materiale, ogen av bearbeidingsmetodene 1–5 eller bearbeidingsmetode 7 i kapittel III i dette vedlegget dersom det gjelder annet kategori 3-materiale enn brukt matolje, eller en av bearbeidingsmetodene 1–7 i nevnte kapittel dersom det gjelder materiale fra fisk. Dersom det gjelder fett fra drøvtyggere, skal uløselige urenheter over 0,15 vektprosent fjernes.Den etterfølgende produksjonsprosessen for biodiesel skal bestå av en omdanningsfase med forest-ring og omestring i ett trinn ved en temperatur på minst 200 °C, trykk på minst 70 bar med en retensjonstid på minst 15 minutter, ved bruk av MgO som katalysator og med en alkohol (metanol) til stede, etterfulgt av vakuumdestillasjon (ved ≥ 150 °C, ≤ 10 mbar) av sluttproduktet, som er biodie-sel.
+1. *Utgangsmateriale*
+
+   Til denne prosessen skal det brukes en fettfraksjon fra animalske biprodukter i kategori 1, 2 eller 3.
+2. *Bearbeidingsmetoder*
+
+   1. Med mindre det brukes fiskeolje framstilt i samsvar med avsnitt VIII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853) eller smeltet fett framstilt i samsvar med avsnitt XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853), skal fettfraksjonen fra animalske biprodukter først bearbeides med
+
+      1. bearbeidingsmetode 1 (trykksterilisering) i kapittel III i dette vedlegget dersom det gjelder kategori 1- eller 2-materiale, og
+      2. en av bearbeidingsmetodene 1–5 eller bearbeidingsmetode 7 i kapittel III i dette vedlegget dersom det gjelder annet kategori 3-materiale enn brukt matolje, eller en av bearbeidingsmetodene 1–7 i nevnte kapittel dersom det gjelder materiale fra fisk. Dersom det gjelder fett fra drøvtyggere, skal uløselige urenheter over 0,15 vektprosent fjernes.
+   2. Den etterfølgende produksjonsprosessen for biodiesel skal bestå av en omdanningsfase med forest-ring og omestring i ett trinn ved en temperatur på minst 200 °C, trykk på minst 70 bar med en retensjonstid på minst 15 minutter, ved bruk av MgO som katalysator og med en alkohol (metanol) til stede, etterfulgt av vakuumdestillasjon (ved ≥ 150 °C, ≤ 10 mbar) av sluttproduktet, som er biodie-sel.
 3. Vedkommende myndighet skal vurdere HACCP-planen, der de viktigste bearbeidingsparametrene for trinnene beskrevet i nr. 1 og 2 kontrolleres og registreres.
 
 ◄**M36**
@@ -2243,20 +3766,81 @@ Krav til bearbeidingen
 
 Disponering og bruk av avledede produkter
 
-1. Avledede produkter fra bearbeidingen avkategori 1-materiale skaldisponeres i samsvar med artikkel 12 bokstav a) eller b) i forordning [(EF) nr. 1069/2009](eu/32009r1069),disponeres ved nedgraving på en godkjent fyllplass,
-► **M4**omdannes til biogass. I slike tilfeller skal råtnerester disponeres i samsvar med i) eller ii), unntatt dersom materialet oppstår fra bearbeiding i samsvar med nr. 2 bokstav a) eller b), og restene kan brukes i samsvar med vilkårene fastsatt i nr. 2 bokstav a) eller nr. 2 bokstav b) iii), eller,
-◄ **M4**bearbeides videre til fettderivater med andre bruksformål enn fôring.Kategori 2- eller 3-materiale skal
-► **M4**disponeres i samsvar med nr. 1 bokstav a) i) eller ii), med eller uten forutgående bearbeiding i samsvar med artikkel 13 bokstav a) og b) og artikkel 14 bokstav a) og (b) i forordning [(EF) nr. 1069/2009](eu/32009r1069)
-◄ **M4**bearbeides videre til fettderivater med andre bruksformål enn fôring,brukes som organisk gjødsel eller jordforbedringsmiddel, ellerkomposteres eller omdannes til biogass.
-2. For materiale som oppstår gjennom bearbeiding gjelder følgende:Materiale som oppstår gjennom alkalisk hydrolyse i henhold til avsnitt 2 bokstav A, kan omdannes i et biogassanlegg og deretter forbrennes raskt ved minst 900 °C, etterfulgt av rask kjøling («quenching»); dersom materiale nevnt i artikkel 8 bokstav a) og b) i forordning [(EF) nr. 1069/2009](eu/32009r1069) er blitt anvendt som utgangsmateriale, skal omdanningen til biogass skje på samme sted som bearbeidingen og i et lukket system.
-►**M36**Materiale som oppstår gjennom produksjon av biodiesel ved prosessen omhandlet i avsnitt 2 punkt D, M og N, kan
-◄**M36**dersom det gjelder biodiesel og rester fra destillering av biodiesel, anvendes som drivstoff uten begrensninger i henhold til denne forordning (sluttpunkt),
-► **M4**når det gjelder kaliumsulfat, brukes til direkte spredning på jord eller til produksjon av avledede produkter for spredning på jord,når det gjelder glyserin som er framstilt av kategori 1- eller 2-materiale som er bearbeidet i samsvar med bearbeidingsmetoden fastsatt i kapittel III:brukes for tekniske formål,omdannes til biogass, i hvilket tilfelle råtnerestene kan spres på jord på produsentmedlemsstatens nasjonale territorium, dersom vedkommende myndighet har gitt tillatelse til dette, ellerbrukes til denitrifikasjon i et renseanlegg, i hvilket tilfelle restene av denitrifikasjonen kan spres på jord i samsvar med rådsdirektiv [91/271/EØF](eu/31991l0271),1når det gjelder glyserin framstilt av kategori 3-materiale:brukes for tekniske formål,omdannes til biogass, i hvilket tilfelle råtnerestene kan spres på jord, ellerbrukes til fôring, forutsatt at glyserinet ikke er framstilt av kategori 3-materiale nevnt i artikkel 10 bokstav n), o) og p) i forordning [(EF) nr. 1069/2009](eu/32009r1069),◄ **M4**► **M1**materiale som oppstår gjennom den katalytiske flertrinnsprosessen for framstilling av fornybare drivstoffer, kandersom det gjelder bensin og andre drivstoffer som oppstår gjennom prosessen, anvendes som drivstoff uten begrensninger i henhold til denne forordning (sluttpunkt),dersom det gjelder brukt leire fra bleking og slam fra forbehandlingsprosessen nevnt i avsnitt 2 bokstav J nr. 2 bokstav a)disponeres ved forbrenning eller samforbrenningomdannes til biogass,komposteres eller anvendes til framstilling av avledede produkter nevnt i artikkel 36 bokstav a) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069).◄ **M1**
-► **M9**den kalkbehandlede blandingen av svine- og fjørfegjødsel kan spres på mark som bearbeidet husdyrgjødsel.Det avledede sluttproduktet fra ensilering av fiskemateriale kanfor kategori 2-materiale brukes til formål nevnt i artikkel 13 bokstav a) til d) og g) til i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) uten videre bearbeiding eller som fôr til dyr nevnt i artikkel 18 eller artikkel 36 bokstav a) ii) i nevnte forordning, ellerfor kategori 3-materiale brukes til formål nevnt i artikkel 14 i forordning [(EF) nr. 1069/2009](eu/32009r1069).◄ **M9**
-► **M13**Materiale som oppstår gjennom flertrinnsprosessen med katalytisk hydrobehandling for framstilling av fornybare drivstoffer, kandersom det gjelder fornybar diesel, fornybart jetdrivstoff, fornybar propan og fornybar bensin som oppstår gjennom prosessen, brukes som drivstoff uten begrensninger i henhold til denne forordning (sluttpunkt),dersom det gjelder slam fra avslimingen og brukt blekejord fra forbehandlingsprosessen nevnt i avsnitt 2 punkt L nr. 2 bokstav a),disponeres i samsvar med artikkel 12 bokstav a) eller b) i forordning [(EF) nr. 1069/2009](eu/32009r1069),disponeres ved nedgraving på en godkjent fyllplass,omdannes til biogass, forutsatt at råtnerestene fra omdanningen til biogass disponeres ved avfallsforbrenning, samforbrenning eller nedgraving på en godkjent fyllplass,brukes for tekniske formål som nevnt i artikkel 36 bokstav a) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069).◄ **M13**
-► **M4**
+1. Avledede produkter fra bearbeidingen av
+
+   1. kategori 1-materiale skal
+
+      1. disponeres i samsvar med artikkel 12 bokstav a) eller b) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+      2. disponeres ved nedgraving på en godkjent fyllplass,
+         ► **M4**
+      3. omdannes til biogass. I slike tilfeller skal råtnerester disponeres i samsvar med i) eller ii), unntatt dersom materialet oppstår fra bearbeiding i samsvar med nr. 2 bokstav a) eller b), og restene kan brukes i samsvar med vilkårene fastsatt i nr. 2 bokstav a) eller nr. 2 bokstav b) iii), eller,
+         ◄ **M4**
+      4. bearbeides videre til fettderivater med andre bruksformål enn fôring.
+   2. Kategori 2- eller 3-materiale skal
+      ► **M4**
+
+      1. disponeres i samsvar med nr. 1 bokstav a) i) eller ii), med eller uten forutgående bearbeiding i samsvar med artikkel 13 bokstav a) og b) og artikkel 14 bokstav a) og (b) i forordning [(EF) nr. 1069/2009](eu/32009r1069)
+         ◄ **M4**
+      2. bearbeides videre til fettderivater med andre bruksformål enn fôring,
+      3. brukes som organisk gjødsel eller jordforbedringsmiddel, eller
+      4. komposteres eller omdannes til biogass.
+2. For materiale som oppstår gjennom bearbeiding gjelder følgende:
+
+   1. Materiale som oppstår gjennom alkalisk hydrolyse i henhold til avsnitt 2 bokstav A, kan omdannes i et biogassanlegg og deretter forbrennes raskt ved minst 900 °C, etterfulgt av rask kjøling («quenching»); dersom materiale nevnt i artikkel 8 bokstav a) og b) i forordning [(EF) nr. 1069/2009](eu/32009r1069) er blitt anvendt som utgangsmateriale, skal omdanningen til biogass skje på samme sted som bearbeidingen og i et lukket system.
+      ►**M36**
+   2. Materiale som oppstår gjennom produksjon av biodiesel ved prosessen omhandlet i avsnitt 2 punkt D, M og N, kan
+      ◄**M36**
+
+      1. dersom det gjelder biodiesel og rester fra destillering av biodiesel, anvendes som drivstoff uten begrensninger i henhold til denne forordning (sluttpunkt),
+         ► **M4**
+      2. når det gjelder kaliumsulfat, brukes til direkte spredning på jord eller til produksjon av avledede produkter for spredning på jord,
+      3. når det gjelder glyserin som er framstilt av kategori 1- eller 2-materiale som er bearbeidet i samsvar med bearbeidingsmetoden fastsatt i kapittel III:
+
+         - brukes for tekniske formål,
+         - omdannes til biogass, i hvilket tilfelle råtnerestene kan spres på jord på produsentmedlemsstatens nasjonale territorium, dersom vedkommende myndighet har gitt tillatelse til dette, eller
+         - brukes til denitrifikasjon i et renseanlegg, i hvilket tilfelle restene av denitrifikasjonen kan spres på jord i samsvar med rådsdirektiv [91/271/EØF](eu/31991l0271),1
+      4. når det gjelder glyserin framstilt av kategori 3-materiale:
+
+         - brukes for tekniske formål,
+         - omdannes til biogass, i hvilket tilfelle råtnerestene kan spres på jord, eller
+         - brukes til fôring, forutsatt at glyserinet ikke er framstilt av kategori 3-materiale nevnt i artikkel 10 bokstav n), o) og p) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+
+         ◄ **M4**
+
+      ► **M1**
+   3. materiale som oppstår gjennom den katalytiske flertrinnsprosessen for framstilling av fornybare drivstoffer, kan
+
+      1. dersom det gjelder bensin og andre drivstoffer som oppstår gjennom prosessen, anvendes som drivstoff uten begrensninger i henhold til denne forordning (sluttpunkt),
+      2. dersom det gjelder brukt leire fra bleking og slam fra forbehandlingsprosessen nevnt i avsnitt 2 bokstav J nr. 2 bokstav a)
+
+         - disponeres ved forbrenning eller samforbrenning
+         - omdannes til biogass,
+         - komposteres eller anvendes til framstilling av avledede produkter nevnt i artikkel 36 bokstav a) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+
+      ◄ **M1**
+      ► **M9**
+   4. den kalkbehandlede blandingen av svine- og fjørfegjødsel kan spres på mark som bearbeidet husdyrgjødsel.
+   5. Det avledede sluttproduktet fra ensilering av fiskemateriale kan
+
+      1. for kategori 2-materiale brukes til formål nevnt i artikkel 13 bokstav a) til d) og g) til i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) uten videre bearbeiding eller som fôr til dyr nevnt i artikkel 18 eller artikkel 36 bokstav a) ii) i nevnte forordning, eller
+      2. for kategori 3-materiale brukes til formål nevnt i artikkel 14 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+
+      ◄ **M9**
+      ► **M13**
+   6. Materiale som oppstår gjennom flertrinnsprosessen med katalytisk hydrobehandling for framstilling av fornybare drivstoffer, kan
+
+      1. dersom det gjelder fornybar diesel, fornybart jetdrivstoff, fornybar propan og fornybar bensin som oppstår gjennom prosessen, brukes som drivstoff uten begrensninger i henhold til denne forordning (sluttpunkt),
+      2. dersom det gjelder slam fra avslimingen og brukt blekejord fra forbehandlingsprosessen nevnt i avsnitt 2 punkt L nr. 2 bokstav a),
+
+         - disponeres i samsvar med artikkel 12 bokstav a) eller b) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+         - disponeres ved nedgraving på en godkjent fyllplass,
+         - omdannes til biogass, forutsatt at råtnerestene fra omdanningen til biogass disponeres ved avfallsforbrenning, samforbrenning eller nedgraving på en godkjent fyllplass,
+         - brukes for tekniske formål som nevnt i artikkel 36 bokstav a) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+
+      ◄ **M13**
+      ► **M4**
 3. Alt annet avfall enn animalske biprodukter og avledede produkter som oppstår fra bearbeidingen av animalske biprodukter i samsvar med dette avsnitt, for eksempel slam, filterinnhold, aske og råtnerester, skal disponeres i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) og denne forordning.
-◄ **M4**
+   ◄ **M4**
 
 1 EFT L 135 av 30.5.1991, s. 40.
 
@@ -2270,28 +3854,69 @@ KRAV TIL ANLEGG
 
 Biogassanlegg
 
-1. Et biogassanlegg skal være utstyrt med en pasteuriserings-/hygieneenhet som de animalske biproduktene eller de avledede produktene må passere (med en partikkelstørrelse på høyst 12 mm før de tilføres enheten), og som er utstyrt medinstallasjoner til å overvåke at temperaturen holdes på 70 °C i én time,registreringsutstyr som fortløpende registrerer måleresultatene fra overvåkingen nevnt i bokstav a), oget egnet sikkerhetssystem for å unngå utilstrekkelig oppvarming.
-2. Som unntak fra nr. 1 skal en pasteuriserings-/hygieneenhet ikke være påbudt for biogassanlegg som bearbeider barekategori 1- eller 2-materiale som er blitt bearbeidet i samsvar med bearbeidingsmetode 1 i vedlegg IV kapittel III,kategori 3-materiale som er blitt bearbeidet i samsvar med en av bearbeidingsmetodene 1–5 eller 7, eller dersom det gjelder materiale fra vanndyr, med en av bearbeidingsmetodene 1–7 i vedlegg IV kapittel III,kategori 3-materiale som har gjennomgått pasteurisering/hygienisering i et annet godkjent anlegg,
-► **M4**animalske biprodukter som kan spres på land uten bearbeiding i samsvar med artikkel 13 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069) og denne forordning, dersom vedkommende myndighet ikke anser dette for å utgjøre noen risiko for spredning av alvorlige overførbare sykdommer til mennesker eller dyr,
-◄ **M4**animalske biprodukter som har gjennomgått alkalisk hydrolyse i henhold til vedlegg IV kapittel IV avsnitt 2 bokstav A,følgende animalske biprodukter, dersom de er godkjent av vedkommende myndighet:animalske biprodukter omhandlet i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), som er bearbeidet i henhold til artikkel 2 nr. 1 bokstav m) i forordning [(EF) nr. 852/2004](eu/32004r0852*) på det tidspunkt da de er beregnet på andre formål enn konsum,animalske biprodukter i henhold til artikkel 10 bokstav g) i forordning [nr. 1069/2009](eu/32009r1069), elleranimalske biprodukter som skal omdannes til biogass, dersom råtnerestene deretter komposteres, bearbeides eller disponeres i samsvar med denne forordning.►**M36**frass som er bearbeidet i samsvar med vedlegg XI kapittel I avsnitt 2 bokstav b).**◄M36**
-3. Dersom biogassanlegget er plassert på eller ved siden av et sted der det holdes produksjonsdyr, og biogassanlegget ikke bare anvender husdyrgjødsel, melk eller råmelk fra disse dyrene, skal anlegget være plassert i en viss avstand fra det området der dyrene holdes.Avstanden skal fastsettes på en måte som sikrer at biogassanlegget ikke medfører en uakseptabel risiko for at sykdom overføres til mennesker eller dyr.Under alle omstendigheter skal biogassanlegget og dyrene samt deres fôr og strø, være helt fysisk atskilt, om nødvendig med gjerde.
+1. Et biogassanlegg skal være utstyrt med en pasteuriserings-/hygieneenhet som de animalske biproduktene eller de avledede produktene må passere (med en partikkelstørrelse på høyst 12 mm før de tilføres enheten), og som er utstyrt med
+
+   1. installasjoner til å overvåke at temperaturen holdes på 70 °C i én time,
+   2. registreringsutstyr som fortløpende registrerer måleresultatene fra overvåkingen nevnt i bokstav a), og
+   3. et egnet sikkerhetssystem for å unngå utilstrekkelig oppvarming.
+2. Som unntak fra nr. 1 skal en pasteuriserings-/hygieneenhet ikke være påbudt for biogassanlegg som bearbeider bare
+
+   1. kategori 1- eller 2-materiale som er blitt bearbeidet i samsvar med bearbeidingsmetode 1 i vedlegg IV kapittel III,
+   2. kategori 3-materiale som er blitt bearbeidet i samsvar med en av bearbeidingsmetodene 1–5 eller 7, eller dersom det gjelder materiale fra vanndyr, med en av bearbeidingsmetodene 1–7 i vedlegg IV kapittel III,
+   3. kategori 3-materiale som har gjennomgått pasteurisering/hygienisering i et annet godkjent anlegg,
+      ► **M4**
+   4. animalske biprodukter som kan spres på land uten bearbeiding i samsvar med artikkel 13 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069) og denne forordning, dersom vedkommende myndighet ikke anser dette for å utgjøre noen risiko for spredning av alvorlige overførbare sykdommer til mennesker eller dyr,
+      ◄ **M4**
+   5. animalske biprodukter som har gjennomgått alkalisk hydrolyse i henhold til vedlegg IV kapittel IV avsnitt 2 bokstav A,
+   6. følgende animalske biprodukter, dersom de er godkjent av vedkommende myndighet:
+
+      1. animalske biprodukter omhandlet i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), som er bearbeidet i henhold til artikkel 2 nr. 1 bokstav m) i forordning [(EF) nr. 852/2004](eu/32004r0852*) på det tidspunkt da de er beregnet på andre formål enn konsum,
+      2. animalske biprodukter i henhold til artikkel 10 bokstav g) i forordning [nr. 1069/2009](eu/32009r1069), eller
+      3. animalske biprodukter som skal omdannes til biogass, dersom råtnerestene deretter komposteres, bearbeides eller disponeres i samsvar med denne forordning.
+
+   ►**M36**
+
+   1. frass som er bearbeidet i samsvar med vedlegg XI kapittel I avsnitt 2 bokstav b).
+
+   **◄M36**
+3. Dersom biogassanlegget er plassert på eller ved siden av et sted der det holdes produksjonsdyr, og biogassanlegget ikke bare anvender husdyrgjødsel, melk eller råmelk fra disse dyrene, skal anlegget være plassert i en viss avstand fra det området der dyrene holdes.
+
+   Avstanden skal fastsettes på en måte som sikrer at biogassanlegget ikke medfører en uakseptabel risiko for at sykdom overføres til mennesker eller dyr.
+
+   Under alle omstendigheter skal biogassanlegget og dyrene samt deres fôr og strø, være helt fysisk atskilt, om nødvendig med gjerde.
 4. Hvert enkelt biogassanlegg skal ha et eget laboratorium eller benytte et eksternt laboratorium. Laboratoriet skal være utstyrt for å kunne foreta de nødvendige analyser og være godkjent av vedkommende myndighet, være akkreditert i samsvar med internasjonalt anerkjente standarder eller regelmessig kontrolleres av vedkommende myndighet.
 
 ###### Avsnitt 2
 
 Komposteringsanlegg
 
-1. Komposteringsanlegg skal være utstyrt med en lukket komposteringsreaktor eller et lukket område som de innførte animalske biproduktene eller avledede produktene må passere, og med følgende:installasjoner til å overvåke temperaturen i sann tid,registreringsenheter som registrerer, eventuelt fortløpende, måleresultatene fra overvåkingen nevnt i bokstav a), oget egnet sikkerhetssystem for å unngå utilstrekkelig oppvarming.
-2. Som unntak fra nr. 1 kan andre typer komposteringssystemer godkjennes, forutsatt at dedrives slik at alle materialer som bearbeides i systemet, tilfredsstiller parametrene for varighet og temperatur, herunder eventuelt fortløpende overvåking av parametrene, elleromdanner bare materiale nevnt i avsnitt 1 nr. 2, ogoppfyller alle andre relevante krav i denne forordning.
-3. Dersom komposteringsanlegget er plassert på eller ved siden av et sted der det holdes produksjonsdyr, og komposteringsanlegget ikke bare anvender husdyrgjødsel, melk eller råmelk fra disse dyrene, skal anlegget være plassert i en viss avstand fra det området der dyrene holdes.Avstanden skal fastsettes på en måte som sikrer at biogassanlegget ikke medfører en uakseptabel risiko for at sykdom overføres til mennesker eller dyr.Under alle omstendigheter skal biogassanlegget og dyrene samt deres fôr og strø, være helt fysisk atskilt, om nødvendig med gjerde.
+1. Komposteringsanlegg skal være utstyrt med en lukket komposteringsreaktor eller et lukket område som de innførte animalske biproduktene eller avledede produktene må passere, og med følgende:
+
+   1. installasjoner til å overvåke temperaturen i sann tid,
+   2. registreringsenheter som registrerer, eventuelt fortløpende, måleresultatene fra overvåkingen nevnt i bokstav a), og
+   3. et egnet sikkerhetssystem for å unngå utilstrekkelig oppvarming.
+2. Som unntak fra nr. 1 kan andre typer komposteringssystemer godkjennes, forutsatt at de
+
+   1. drives slik at alle materialer som bearbeides i systemet, tilfredsstiller parametrene for varighet og temperatur, herunder eventuelt fortløpende overvåking av parametrene, eller
+   2. omdanner bare materiale nevnt i avsnitt 1 nr. 2, og
+   3. oppfyller alle andre relevante krav i denne forordning.
+3. Dersom komposteringsanlegget er plassert på eller ved siden av et sted der det holdes produksjonsdyr, og komposteringsanlegget ikke bare anvender husdyrgjødsel, melk eller råmelk fra disse dyrene, skal anlegget være plassert i en viss avstand fra det området der dyrene holdes.
+
+   Avstanden skal fastsettes på en måte som sikrer at biogassanlegget ikke medfører en uakseptabel risiko for at sykdom overføres til mennesker eller dyr.
+
+   Under alle omstendigheter skal biogassanlegget og dyrene samt deres fôr og strø, være helt fysisk atskilt, om nødvendig med gjerde.
 4. Hvert enkelt komposteringsanlegg skal ha et eget laboratorium eller benytte et eksternt laboratorium. Laboratoriet skal være utstyrt for å kunne foreta de nødvendige analyser og være godkjent av vedkommende myndighet, være akkreditert i samsvar med internasjonalt anerkjente standarder eller regelmessig kontrolleres av vedkommende myndighet.
 
 ### KAPITTEL II
 HYGIENEKRAV TIL BIOGASS- OG KOMPOSTERINGSANLEGG
 
 1. Animalske biprodukter skal omdannes snarest mulig etter at de ankommer biogass- eller komposteringsanlegget. Før bearbeidingen skal de oppbevares på forsvarlig måte.
-2. Containere, beholdere og kjøretøyer som anvendes til transport av ubearbeidet materiale, skal rengjøres og desinfiseres på et dertil egnet område.Dette området skal være plassert eller utformet på en slik måte at det hindrer risikoen for kontaminering av bearbeidede produkter.
-3. Det skal systematisk treffes forebyggende tiltak mot fugler, gnagere, insekter og andre skadedyr.I den forbindelse skal det anvendes et dokumentert program for skadedyrbekjempelse.
+2. Containere, beholdere og kjøretøyer som anvendes til transport av ubearbeidet materiale, skal rengjøres og desinfiseres på et dertil egnet område.
+
+   Dette området skal være plassert eller utformet på en slik måte at det hindrer risikoen for kontaminering av bearbeidede produkter.
+3. Det skal systematisk treffes forebyggende tiltak mot fugler, gnagere, insekter og andre skadedyr.
+
+   I den forbindelse skal det anvendes et dokumentert program for skadedyrbekjempelse.
 4. Det skal fastsettes rengjøringsrutiner for alle deler av anlegget, og disse skal dokumenteres. Det skal finnes egnet utstyr og rengjøringsmidler for rengjøringen av anlegget.
 5. Hygienekontrollen skal omfatte regelmessige inspeksjoner av miljø og utstyr. Tidsplanen for inspeksjonene og resultatene skal dokumenteres.
 6. Installasjoner og utstyr skal holdes i god stand, og måleutstyret skal kalibreres med jevne mellomrom.
@@ -2304,42 +3929,106 @@ OMDANNINGSPARAMETRER
 
 Standardparametrer for omdanning
 
-1. Kategori 3-materiale som brukes som råstoff i et biogassanlegg som er utstyrt med en pasteuriserings-/hygieneenhet, skal oppfylle følgende minstekrav:største partikkelstørrelse før materialet kommer inn i enheten: 12 mm,laveste temperatur for alt materiale i enheten: 70 °C, ogminste tid i enheten uten avbrudd: 60 minutter.Melk, melkebaserte produkter, produkter framstilt av melk, råmelk og råmelksprodukter i kategori 3 kan imidlertid benyttes som råstoff i et biogassanlegg uten pasteurisering/hygienisering, dersom vedkommende myndighet ikke anser at de utgjør noen risiko for spredning av alvorlige overførbare sykdommer til mennesker eller dyr.Minstekravene i bokstav b) og c) i dette nummer får også anvendelse på kategori 2-materiale som innføres i et biogassanlegg uten forutgående bearbeiding i samsvar med artikkel 13 bokstav e) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
-2. Kategori 3-materiale som brukes som råstoff i et komposteringsanlegg, skal oppfylle følgende minstekrav:største partikkelstørrelse før materialet kommer inn i komposteringsreaktoren: 12 mm,laveste temperatur for alt materiale i reaktoren: 70 °C, ogminste tid uten avbrudd: 60 minutter.Minstekravene i bokstav b) og c) i dette nummer får også anvendelse på kategori 2-materiale som komposteres uten forutgående bearbeiding i samsvar med artikkel 13 bokstav e) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+1. Kategori 3-materiale som brukes som råstoff i et biogassanlegg som er utstyrt med en pasteuriserings-/hygieneenhet, skal oppfylle følgende minstekrav:
+
+   1. største partikkelstørrelse før materialet kommer inn i enheten: 12 mm,
+   2. laveste temperatur for alt materiale i enheten: 70 °C, og
+   3. minste tid i enheten uten avbrudd: 60 minutter.
+
+   Melk, melkebaserte produkter, produkter framstilt av melk, råmelk og råmelksprodukter i kategori 3 kan imidlertid benyttes som råstoff i et biogassanlegg uten pasteurisering/hygienisering, dersom vedkommende myndighet ikke anser at de utgjør noen risiko for spredning av alvorlige overførbare sykdommer til mennesker eller dyr.
+
+   Minstekravene i bokstav b) og c) i dette nummer får også anvendelse på kategori 2-materiale som innføres i et biogassanlegg uten forutgående bearbeiding i samsvar med artikkel 13 bokstav e) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+2. Kategori 3-materiale som brukes som råstoff i et komposteringsanlegg, skal oppfylle følgende minstekrav:
+
+   1. største partikkelstørrelse før materialet kommer inn i komposteringsreaktoren: 12 mm,
+   2. laveste temperatur for alt materiale i reaktoren: 70 °C, og
+   3. minste tid uten avbrudd: 60 minutter.
+
+   Minstekravene i bokstav b) og c) i dette nummer får også anvendelse på kategori 2-materiale som komposteres uten forutgående bearbeiding i samsvar med artikkel 13 bokstav e) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 ###### Avsnitt 2
 
 Alternative omdanningsparametrer for biogass- og komposteringsanlegg
 
-1. Vedkommende myndighet kan tillate anvendelse av andre parametrer enn parametrene i kapittel I avsnitt 1 nr. 1 og standardparametrene for omdanning, forutsatt at den som søker om slik anvendelse, viser at disse parametrene sikrer tilstrekkelig reduksjon av biologisk risiko. Dokumentasjonen skal omfatte en validering som skal utføres i samsvar med følgende krav:identifisering og analyse av mulige risikoer, herunder virkninger fra råstoffet, på grunnlag av en fullstendig beskrivelse av omdanningsvilkårene og -parametrene,en risikovurdering av hvordan de særlige omdanningsvilkårene som er nevnt i bokstav a), oppnås i praksis i normale og atypiske situasjoner,validering av den fastsatte prosessen ved å måle reduksjonen av levedyktighet/smittsomhet hosendogene indikatororganismer under prosessen, dersom indikatoren erkonstant til stede i råstoffet i et høyt antall,minst like varmeresistent mot omdanningsprosessens dødelige aspekter som de sykdomsframkallende stoffene den skal brukes til overvåking av, men samtidig heller ikke betydelig mer resistent,forholdsvis lett å mengdebestemme, identifisere og bekrefte, elleren veldefinert prøveorganisme eller et veldefinert virus under eksponeringen, som er innført i et egnet prøvingsemne i utgangsmaterialet,valideringen av den fastsatte prosessen nevnt i bokstav c) skal dokumentere at prosessen reduserer den samlede risikoen på følgende måte:ved termiske og kjemiske prosesser oppnåsen reduksjon på 5 log10 av *Enterococcus faecalis* eller *Salmonella Senftenberg* (775W, H2S-negative),en reduksjon av smittsom titer av varmeresistente virus, for eksempel parvovirus, på minst 3 log10, når de er identifisert som en relevant risiko, ognår det gjelder kjemiske prosesser, oppnås ogsåen reduksjon av resistente parasitter, for eksempel egg av *Ascaris sp.*, på minst 99,9 % (3 log10) av levedyktige stadier,utforming av et fullstendig kontrollprogram som omfatter framgangsmåter for å overvåke prosessen nevnt i bokstav c),tiltak som sikrer fortløpende overvåking og kontroll av de relevante prosessparametrene som er fastsatt i kontrollprogrammet, når anlegget er i drift.Nærmere opplysninger om de relevante prosessparametrene som benyttes i et biogass- eller komposteringsanlegg, samt andre kritiske kontrollpunkter, skal registreres og holdes à jour slik at eieren, den driftsansvarlige eller vedkommendes representant og vedkommende myndighet kan overvåke driften av anlegget.Den driftsansvarlige skal gjøre de registrerte opplysningene tilgjengelig for vedkommende myndighet på anmodning. Opplysninger om en prosess som er tillatt i henhold til dette nummer, skal gjøres tilgjengelige for Kommisjonen på anmodning.
-2. Som unntak fra nr. 1 kan vedkommende myndigheter, i påvente av at bestemmelsene nevnt i artikkel 15 nr. 2 bokstav a) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069) vedtas, tillate anvendelse av andre særlige krav enn kravene i dette kapittel, forutsatt at de sikrer en tilsvarende virkning når det gjelder reduksjon av sykdomsframkallende stoffer, forkjøkken- og matavfall som brukes som det eneste animalske biproduktet i et biogass- eller komposteringsanlegg, ogblandinger av kjøkken- og matavfall med følgende materiale:husdyrgjødsel,mage- og tarminnhold som er skilt fra fordøyelseskanalen,melk,melkebaserte produkter,produkter framstilt av melk,råmelk,råmelksprodukter,egg,eggprodukter,
-► **M9**animalske biprodukter nevnt i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069) som er blitt bearbeidet i henhold til artikkel 2 nr. 1 bokstav m) i forordning [(EF) nr. 852/2004](eu/32004r0852*).stoffblandinger av animalske biprodukter nevnt i nr. 2 bokstav b) med materiale fra ikke-animalske biprodukter.
-◄ **M9**
-3. Dersom materiale nevnt i nr. 2 bokstav b) eller avledede produkter nevnt i artikkel 10 bokstav g) i forordning [(EF) nr. 1069/2009](eu/32009r1069) er det eneste utgangsmaterialet av animalsk opprinnelse som behandles i et biogass- eller komposteringsanlegg, kan vedkommende myndighet tillate anvendelse av andre særlige krav enn kravene i dette kapittel, forutsatt at denikke antar at dette materialet utgjør noen risiko for spredning av alvorlige overførbare sykdommer til mennesker eller dyr,
-► **M9**anser råtnerestene eller komposten som ubearbeidet materiale og pålegger driftsansvarlige å håndtere dem i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), med denne forordning eller, for kompost eller råtnerester fra kjøkken- og matavfall, å gjenvinne eller disponere dem i samsvar med miljøregelverket.
-◄ **M9**
-4. Driftsansvarlige kan bringe råtnerester og kompost som er framstilt i samsvar med parametrer som er godkjent av vedkommende myndighet, i omsetningi samsvar med nr. 1,i samsvar med nr. 2 og 3, men bare i den medlemsstat der disse parametrene er godkjent.
+1. Vedkommende myndighet kan tillate anvendelse av andre parametrer enn parametrene i kapittel I avsnitt 1 nr. 1 og standardparametrene for omdanning, forutsatt at den som søker om slik anvendelse, viser at disse parametrene sikrer tilstrekkelig reduksjon av biologisk risiko. Dokumentasjonen skal omfatte en validering som skal utføres i samsvar med følgende krav:
+
+   1. identifisering og analyse av mulige risikoer, herunder virkninger fra råstoffet, på grunnlag av en fullstendig beskrivelse av omdanningsvilkårene og -parametrene,
+   2. en risikovurdering av hvordan de særlige omdanningsvilkårene som er nevnt i bokstav a), oppnås i praksis i normale og atypiske situasjoner,
+   3. validering av den fastsatte prosessen ved å måle reduksjonen av levedyktighet/smittsomhet hos
+
+      1. endogene indikatororganismer under prosessen, dersom indikatoren er
+
+         - konstant til stede i råstoffet i et høyt antall,
+         - minst like varmeresistent mot omdanningsprosessens dødelige aspekter som de sykdomsframkallende stoffene den skal brukes til overvåking av, men samtidig heller ikke betydelig mer resistent,
+         - forholdsvis lett å mengdebestemme, identifisere og bekrefte, eller
+      2. en veldefinert prøveorganisme eller et veldefinert virus under eksponeringen, som er innført i et egnet prøvingsemne i utgangsmaterialet,
+   4. valideringen av den fastsatte prosessen nevnt i bokstav c) skal dokumentere at prosessen reduserer den samlede risikoen på følgende måte:
+
+      1. ved termiske og kjemiske prosesser oppnås
+
+         - en reduksjon på 5 log10 av *Enterococcus faecalis* eller *Salmonella Senftenberg* (775W, H2S-negative),
+         - en reduksjon av smittsom titer av varmeresistente virus, for eksempel parvovirus, på minst 3 log10, når de er identifisert som en relevant risiko, og
+      2. når det gjelder kjemiske prosesser, oppnås også
+
+         - en reduksjon av resistente parasitter, for eksempel egg av *Ascaris sp.*, på minst 99,9 % (3 log10) av levedyktige stadier,
+   5. utforming av et fullstendig kontrollprogram som omfatter framgangsmåter for å overvåke prosessen nevnt i bokstav c),
+   6. tiltak som sikrer fortløpende overvåking og kontroll av de relevante prosessparametrene som er fastsatt i kontrollprogrammet, når anlegget er i drift.
+
+      Nærmere opplysninger om de relevante prosessparametrene som benyttes i et biogass- eller komposteringsanlegg, samt andre kritiske kontrollpunkter, skal registreres og holdes à jour slik at eieren, den driftsansvarlige eller vedkommendes representant og vedkommende myndighet kan overvåke driften av anlegget.
+
+      Den driftsansvarlige skal gjøre de registrerte opplysningene tilgjengelig for vedkommende myndighet på anmodning. Opplysninger om en prosess som er tillatt i henhold til dette nummer, skal gjøres tilgjengelige for Kommisjonen på anmodning.
+2. Som unntak fra nr. 1 kan vedkommende myndigheter, i påvente av at bestemmelsene nevnt i artikkel 15 nr. 2 bokstav a) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069) vedtas, tillate anvendelse av andre særlige krav enn kravene i dette kapittel, forutsatt at de sikrer en tilsvarende virkning når det gjelder reduksjon av sykdomsframkallende stoffer, for
+
+   1. kjøkken- og matavfall som brukes som det eneste animalske biproduktet i et biogass- eller komposteringsanlegg, og
+   2. blandinger av kjøkken- og matavfall med følgende materiale:
+
+      1. husdyrgjødsel,
+      2. mage- og tarminnhold som er skilt fra fordøyelseskanalen,
+      3. melk,
+      4. melkebaserte produkter,
+      5. produkter framstilt av melk,
+      6. råmelk,
+      7. råmelksprodukter,
+      8. egg,
+      9. eggprodukter,
+         ► **M9**
+      10. animalske biprodukter nevnt i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069) som er blitt bearbeidet i henhold til artikkel 2 nr. 1 bokstav m) i forordning [(EF) nr. 852/2004](eu/32004r0852*).
+      11. stoffblandinger av animalske biprodukter nevnt i nr. 2 bokstav b) med materiale fra ikke-animalske biprodukter.
+          ◄ **M9**
+3. Dersom materiale nevnt i nr. 2 bokstav b) eller avledede produkter nevnt i artikkel 10 bokstav g) i forordning [(EF) nr. 1069/2009](eu/32009r1069) er det eneste utgangsmaterialet av animalsk opprinnelse som behandles i et biogass- eller komposteringsanlegg, kan vedkommende myndighet tillate anvendelse av andre særlige krav enn kravene i dette kapittel, forutsatt at den
+
+   1. ikke antar at dette materialet utgjør noen risiko for spredning av alvorlige overførbare sykdommer til mennesker eller dyr,
+      ► **M9**
+   2. anser råtnerestene eller komposten som ubearbeidet materiale og pålegger driftsansvarlige å håndtere dem i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), med denne forordning eller, for kompost eller råtnerester fra kjøkken- og matavfall, å gjenvinne eller disponere dem i samsvar med miljøregelverket.
+      ◄ **M9**
+4. Driftsansvarlige kan bringe råtnerester og kompost som er framstilt i samsvar med parametrer som er godkjent av vedkommende myndighet, i omsetning
+
+   1. i samsvar med nr. 1,
+   2. i samsvar med nr. 2 og 3, men bare i den medlemsstat der disse parametrene er godkjent.
 
 ###### Avsnitt 3
 
 Krav til råtnerester og kompost
 
-1. Representative prøver av råtnerester eller kompost som er tatt under eller umiddelbart etter omdanningen i et biogassanlegg eller kompostering i et komposteringsanlegg, for å overvåke prosessen, skal oppfylle følgende krav:
-*Escherichia coli*: n = 5, c = 1, m = 1 000, M = 5 000 i 1 g,
-eller
-Enterococcaceae: n = 5, c = 1, m = 1 000, M = 5 000 i 1 g,
-ogrepresentative prøver av råtnerester eller kompost som er tatt under lagring eller ved uttak fra lager, skal oppfylle følgende krav:
-Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0.
-For bokstav a) og b) gjelder følgende:
-n = antall prøver som skal undersøkes,
-m = terskelverdien for bakterietallet; resultatet anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,
-M = største bakterietall; resultatet anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, og
-c = antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid betraktes som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.►**M10**
+1. 1. Representative prøver av råtnerester eller kompost som er tatt under eller umiddelbart etter omdanningen i et biogassanlegg eller kompostering i et komposteringsanlegg, for å overvåke prosessen, skal oppfylle følgende krav:
+      *Escherichia coli*: n = 5, c = 1, m = 1 000, M = 5 000 i 1 g,
+      eller
+      Enterococcaceae: n = 5, c = 1, m = 1 000, M = 5 000 i 1 g,
+      og
+   2. representative prøver av råtnerester eller kompost som er tatt under lagring eller ved uttak fra lager, skal oppfylle følgende krav:
+      Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0.
+      For bokstav a) og b) gjelder følgende:
+      n = antall prøver som skal undersøkes,
+      m = terskelverdien for bakterietallet; resultatet anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,
+      M = største bakterietall; resultatet anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, og
+      c = antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid betraktes som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.
+
+   ►**M10**
 2. Andre råtnerester eller kompost enn dem som er nevnt i avsnitt 2 nr. 3 bokstav b), som ikke oppfyller kravene i dette avsnitt, skal omarbeides eller komposteres på nytt, og dersom det gjelder salmonella, håndteres eller sluttbehandles i samsvar med instruksene fra vedkommende myndighet.
-◄**M10**
-► **M1**
+   ◄**M10**
+   ► **M1**
 3. Når animalske biprodukter omdannes til biogass eller komposteres sammen med materiale som ikke er av animalsk opprinnelse, kan vedkommende myndighet tillate at driftsansvarlige tar representative prøver etter pasteuriseringen nevnt i kapittel I avsnitt 1 nr. 1 bokstav a) eller etter kompostering som nevnt i avsnitt 2 nr. 1, etter det som er relevant, og før disse produktene blandes med materiale som ikke er av animalsk opprinnelse, for å kontrollere effektiviteten av henholdsvis omdanningen eller komposteringen av de animalske biproduktene.
-◄ **M1**
+   ◄ **M1**
 
 ### VEDLEGG VI
 SÆRLIGE BESTEMMELSER OM FORSKNING, FÔRING, INNSAMLING OG DISPONERING
@@ -2351,11 +4040,24 @@ SÆRLIGE BESTEMMELSER OM FORSKNING OG ANDRE FORMÅL
 
 Prøver til forskning og diagnostikk
 
-1. Driftsansvarlige skal sikre at forsendelser av prøver til forskning og diagnostikk følges av et handelsdokument som inneholder følgende opplysninger:en beskrivelse av materialet og hvilken dyreart det kommer fra,materialets kategori,mengden materiale,materialets opprinnelsessted samt avsendersted,avsenderens navn og adresse,navn og adresse til mottakeren og/eller brukeren.
+1. Driftsansvarlige skal sikre at forsendelser av prøver til forskning og diagnostikk følges av et handelsdokument som inneholder følgende opplysninger:
+
+   1. en beskrivelse av materialet og hvilken dyreart det kommer fra,
+   2. materialets kategori,
+   3. mengden materiale,
+   4. materialets opprinnelsessted samt avsendersted,
+   5. avsenderens navn og adresse,
+   6. navn og adresse til mottakeren og/eller brukeren.
 2. Brukere som håndterer prøver til forskning og diagnostikk, skal treffe alle tiltak som er nødvendige for å unngå at sykdommer som kan overføres til mennesker eller dyr, spres under håndteringen av materialet som er under deres kontroll, særlig gjennom anvendelse av god laboratoriepraksis.
 3. All etterfølgende anvendelse av prøver til forskning og diagnostikk til andre formål enn dem som er nevnt i vedlegg I nr. 38, skal være forbudt.
-4. Prøver til forskning og diagnostikk og eventuelle produkter framstilt ved bruk av disse prøvene skal, med mindre de oppbevares for referanseformål, disponeressom avfall ved avfallsforbrenning eller samforbrenning,ved en behandling på vilkår som minst tilsvarer den validerte metoden for dampautoklaver,1 dersom det gjelder animalske biprodukter eller avledede produkter som er nevnt i artikkel 8 bokstav a) iv), artikkel 8 bokstav c) og d), artikkel 9 og artikkel 10 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og som er en del av cellekulturer, laboratoriesett eller laboratorieprøver, og etterfølgende disponering som avfall eller spillvann i samsvar med relevant unionsregelverk,ved trykksterilisering og etterfølgende disponering eller bruk i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
-5. Brukere som håndterer prøver til forskning og utvikling, skal føre et register over forsendelser av slike prøver.Registeret skal inneholde opplysningene nevnt i nr. 1 samt dato og metode for disponering av prøvene og eventuelle avledede produkter.
+4. Prøver til forskning og diagnostikk og eventuelle produkter framstilt ved bruk av disse prøvene skal, med mindre de oppbevares for referanseformål, disponeres
+
+   1. som avfall ved avfallsforbrenning eller samforbrenning,
+   2. ved en behandling på vilkår som minst tilsvarer den validerte metoden for dampautoklaver,1 dersom det gjelder animalske biprodukter eller avledede produkter som er nevnt i artikkel 8 bokstav a) iv), artikkel 8 bokstav c) og d), artikkel 9 og artikkel 10 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og som er en del av cellekulturer, laboratoriesett eller laboratorieprøver, og etterfølgende disponering som avfall eller spillvann i samsvar med relevant unionsregelverk,
+   3. ved trykksterilisering og etterfølgende disponering eller bruk i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+5. Brukere som håndterer prøver til forskning og utvikling, skal føre et register over forsendelser av slike prøver.
+
+   Registeret skal inneholde opplysningene nevnt i nr. 1 samt dato og metode for disponering av prøvene og eventuelle avledede produkter.
 6. Som unntak fra nr. 1, 4 og 5 kan vedkommende myndighet tillate håndtering og disponering av prøver til forskning og diagnostikk for utdanningsformål på vilkår som sikrer at det ikke oppstår en uakseptabel risiko for folkehelsen eller dyrehelsen.
 
 1 CEN TC/102 – Sterilisatorer til medisinske formål – EN 285:2006 + A2:2009 – Sterilisering – Dampautoklaver – Store autoklaver, henvisning offentliggjort i EUT C 293 av 2.12.2009, s. 39.
@@ -2365,7 +4067,11 @@ Prøver til forskning og diagnostikk
 Vareprøver og utstillingsgjenstander
 
 1. Vareprøver og utstillingsgjenstander kan bare transporteres, brukes og disponeres i samsvar med avsnitt 1 nr. 1–4 og 6.
-2. Med mindre de oppbevares for referanseformål, skal de etter at de særskilte undersøkelsene eller analysene er avsluttetsendes tilbake til opprinnelsesmedlemsstaten,sendes til en annen medlemsstat eller en annen tredjestat, dersom vedkommende myndighet i bestemmelsesmedlemsstaten eller -tredjestaten på forhånd har gitt tillatelse til dette, ellerdisponeres eller brukes i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+2. Med mindre de oppbevares for referanseformål, skal de etter at de særskilte undersøkelsene eller analysene er avsluttet
+
+   1. sendes tilbake til opprinnelsesmedlemsstaten,
+   2. sendes til en annen medlemsstat eller en annen tredjestat, dersom vedkommende myndighet i bestemmelsesmedlemsstaten eller -tredjestaten på forhånd har gitt tillatelse til dette, eller
+   3. disponeres eller brukes i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 3. Når utstillingen eller den kunstneriske virksomheten er avsluttet, skal utstillingsgjenstander sendes tilbake til opprinnelsesmedlemsstaten, avsendes eller disponeres i samsvar med nr. 2.
 
 ### KAPITTEL II
@@ -2382,30 +4088,158 @@ Kategori 2- og 3-materiale nevnt i artikkel 18 nr. 1 i forordning [(EF) nr. 1069
 ◄ **M4**
 
 1. De animalske biproduktene skal transporteres til brukerne eller til innsamlingssentralene i samsvar med vedlegg VIII kapittel I avsnitt 1 og 3.
-2. Innsamlingssentralene skal registreres av vedkommende myndighet, forutsatt atde oppfyller kravene til anlegg som utfører mellombehandling i henhold til vedlegg IX kapittel II, ogde har egnet utstyr til å destruere ubrukt materiale, eller til å sende det til et godkjent bearbeidingsanlegg eller til et godkjent avfallsforbrennings- eller samforbrenningsanlegg i samsvar med denne forordning.
+2. Innsamlingssentralene skal registreres av vedkommende myndighet, forutsatt at
+
+   1. de oppfyller kravene til anlegg som utfører mellombehandling i henhold til vedlegg IX kapittel II, og
+   2. de har egnet utstyr til å destruere ubrukt materiale, eller til å sende det til et godkjent bearbeidingsanlegg eller til et godkjent avfallsforbrennings- eller samforbrenningsanlegg i samsvar med denne forordning.
 3. Medlemsstatene kan tillate at et bearbeidingsanlegg for kategori 2-materiale anvendes som innsamlingssentral.
-4. Driftsansvarlige for innsamlingssentraler som leverer annet materiale enn animalske biprodukter fra vanndyr og fra virvelløse dyr som lever i vann, til sluttbrukere, skal sikre at materialet gjennomgår en av følgende behandlinger:denaturering med en løsning av et fargestoff; løsningen skal være så sterk at fargen på materialet er klart synlig og ikke forsvinner når det fargede materialet fryses eller kjøles, og hele overflaten på alle deler av materialet skal være dekket med denne oppløsningen, enten ved at materialet er dyppet i oppløsningen eller ved at oppløsningen er påført ved sprøyting eller på annen måte,sterilisering ved koking eller damping under trykk til alle deler av materialet er gjennomkokt, ellerenhver annen håndtering eller behandling som er godkjent av vedkommende myndighet som har ansvar for den driftsansvarlige.
+4. Driftsansvarlige for innsamlingssentraler som leverer annet materiale enn animalske biprodukter fra vanndyr og fra virvelløse dyr som lever i vann, til sluttbrukere, skal sikre at materialet gjennomgår en av følgende behandlinger:
+
+   1. denaturering med en løsning av et fargestoff; løsningen skal være så sterk at fargen på materialet er klart synlig og ikke forsvinner når det fargede materialet fryses eller kjøles, og hele overflaten på alle deler av materialet skal være dekket med denne oppløsningen, enten ved at materialet er dyppet i oppløsningen eller ved at oppløsningen er påført ved sprøyting eller på annen måte,
+   2. sterilisering ved koking eller damping under trykk til alle deler av materialet er gjennomkokt, eller
+   3. enhver annen håndtering eller behandling som er godkjent av vedkommende myndighet som har ansvar for den driftsansvarlige.
 
 ###### Avsnitt 2
 
 Fôring av visse arter på fôringsstasjoner
 
-1. Vedkommende myndighet kan tillate bruk av kategori 1-materiale nevnt i artikkel 18 nr. 2 bokstav b) i forordning [(EF) nr. 1069/2009](eu/32009r1069) til fôring av følgende truede og vernede arter på fôringsstasjoner, på følgende vilkår:Materialet skal brukes som fôr til
-► **M9**en av følgende arter åtselfugler i følgende medlemsstater:*Landkode**Medlemsstat**Dyreart**Lokalt navn**Latinsk navn*BGBulgarialammegribb*Gypaetus barbatus*munkegribb*Aegypius monachus*åtselgribb*Neophron percnopterus*gåsegribb*Gyps fulvus*kongeørn*Aquila chrysaetos*keiserørn*Aquila helíaca*havørn*Haliaeetus albicilla*svartglente*Milvus migrans*glente*Milvus*ELHellaslammegribb*Gypaetus barbatus*munkegribb*Aegypius monachus*åtselgribb*Neophron percnopterus*gåsegribb*Gyps fulvus*kongeørn*Aquila chrysaetos*keiserørn*Aquila heliaca*havørn*Haliaeetus albicilla*svartglente*Milvus migrans*ESSpanialammegribb*Gypaetus barbatus*munkegribb*Aegypius monachus*åtselgribb*Neophron percnopterus*gåsegribb*Gyps fulvus*kongeørn*Aquila chrysaetos*spansk keiserørn*Aquila adalberti*svartglente*Milvus migrans*glente*Milvus*FRFrankrikelammegribb*Gypaetus barbatus*munkegribb*Aegypius monachus*åtselgribb*Neophron percnopterus*gåsegribb*Gyps fulvus*kongeørn*Aquila chrysaetos*havørn*Haliaeetus albicilla*svartglente*Milvus migrans*glente*Milvus*HRKroatialammegribb*Gypaetus barbatus*munkegribb*Aegypius monachus*åtselgribb*Neophron percnopterus*gåsegribb*Gyps fulvus*ITItalialammegribb*Gypaetus barbatus*munkegribb*Aegypius monachus*åtselgribb*Neophron percnopterus*gåsegribb*Gyps fulvus*kongeørn*Aquila chrysaetos*svartglente*Milvus migrans*glente*Milvus*CYKyprosmunkegribb*Aegypius monachus*gåsegribb*Gyps fulvus*PTPortugalmunkegribb*Aegypius monachus*åtselgribb*Neophron percnopterus*gåsegribb*Gyps fulvus*kongeørn*Aquila chrysaetos*SKSlovakiakongeørn*Aquila chrysaetos*keiserørn*Aquila heliaca*havørn*Haliaeetus albicilla*svartglente*Milvus migrans*glente*Milvus*
-◄**M9**en art i Carnivora-ordenen som er oppført i vedlegg II til direktiv [92/43/EØF](eu/31992l0043*), i særlige verneområder som er opprettet i henhold til nevnte direktiv, elleren art i Falconiformes-ordenen eller Strigiformes-ordenen som er oppført i vedlegg I til direktiv [2009/147/EF](eu/32009l0147), i særlige verneområder som er opprettet i henhold til nevnte direktiv.Vedkommende myndighet har gitt en tillatelse til den driftsansvarlige som har ansvar for fôringsstasjonen.Vedkommende myndighet skal utstede slike tillatelser, forutsatt atfôringen ikke brukes som en alternativ disponeringsmåte for spesifisert risikomateriale eller selvdøde drøvtyggere som inneholder slikt materiale som utgjør en TSE-risiko,det er innført et egnet overvåkingssystem for TSE som fastsatt i forordning [(EF) nr. 999/2001](eu/32001r0999), herunder regelmessig laboratorieundersøkelse av prøver med tanke på TSE.Vedkommende myndighet skal sikre samordning med alle andre vedkommende myndigheter som har ansvar for å overvåke at kravene knyttet til tillatelsen, oppfylles.Vedkommende myndighet skal, på grunnlag av en vurdering av den særlige situasjonen for de berørte artene og deres habitat, være overbevist om at artenes vernestatus vil bli forbedret.Tillatelsen som gis av vedkommende myndighet, skalangi navnet på den berørte arten,inneholde en detaljert beskrivelse av fôringsstasjonens plassering i det geografiske området der fôringen skal foregå, ogumiddelbart trekkes tilbake dersomdet er mistanke om eller er bekreftet forbindelse til spredning av TSE, inntil risikoen kan utelukkes, ellernoen av bestemmelsene i denne forordning ikke overholdes.Den driftsansvarlige som har ansvar for fôringen, skalavsette et område til fôringen som er lukket, og som bare dyr av de artene som skal vernes, har adgang til, eventuelt med gjerde eller på andre måter som er i samsvar med disse artenes naturlige spisemønstre,sikre at det før bruk og innenfor rammen av overvåkingsprogrammet mot TSE i samsvar med vedlegg III til forordning [(EF) nr. 999/2001](eu/32001r0999), gjennomføres TSE-prøving med negativt resultat av skrotter av storfe og av minst 4 % av skrotter av sau og geit som oppfyller vilkårene og er beregnet på bruk til fôr, samt, dersom det er relevant, i samsvar med en beslutning vedtatt i henhold til artikkel 6 nr. 1 bokstav b) i nevnte forordning, ogføre register over i det minste antall, art, anslått vekt og opprinnelse for skrottene av de dyrene som blir brukt som fôr, fôringsdato og det stedet der fôringen skjedde, samt, dersom det er relevant, resultatene av TSE-undersøkelsene.
-2. Når en medlemsstat oversender Kommisjonen en søknad om å bli oppført på listen i nr. 1 bokstav a), skal den framleggeen nærmere begrunnelse for hvorfor listen bør utvides med bestemte arter av åtselfugler i den berørte medlemsstat, herunder en redegjørelse for hvorfor det er nødvendig å fôre disse fuglene med kategori 1-materiale i stedet for kategori 2- eller 3-materiale,en beskrivelse av de tiltak som vil bli truffet for å sikre overholdelse av nr. 1.
+1. Vedkommende myndighet kan tillate bruk av kategori 1-materiale nevnt i artikkel 18 nr. 2 bokstav b) i forordning [(EF) nr. 1069/2009](eu/32009r1069) til fôring av følgende truede og vernede arter på fôringsstasjoner, på følgende vilkår:
+
+   1. Materialet skal brukes som fôr til
+      ► **M9**
+
+      1. en av følgende arter åtselfugler i følgende medlemsstater:
+
+         | *Landkode* | *Medlemsstat* | *Dyreart* |  |
+         | --- | --- | --- | --- |
+         |  |  | *Lokalt navn* | *Latinsk navn* |
+         | BG | Bulgaria | lammegribb | *Gypaetus barbatus* |
+         |  |  | munkegribb | *Aegypius monachus* |
+         |  |  | åtselgribb | *Neophron percnopterus* |
+         |  |  | gåsegribb | *Gyps fulvus* |
+         |  |  | kongeørn | *Aquila chrysaetos* |
+         |  |  | keiserørn | *Aquila helíaca* |
+         |  |  | havørn | *Haliaeetus albicilla* |
+         |  |  | svartglente | *Milvus migrans* |
+         |  |  | glente | *Milvus* |
+         | EL | Hellas | lammegribb | *Gypaetus barbatus* |
+         |  |  | munkegribb | *Aegypius monachus* |
+         |  |  | åtselgribb | *Neophron percnopterus* |
+         |  |  | gåsegribb | *Gyps fulvus* |
+         |  |  | kongeørn | *Aquila chrysaetos* |
+         |  |  | keiserørn | *Aquila heliaca* |
+         |  |  | havørn | *Haliaeetus albicilla* |
+         |  |  | svartglente | *Milvus migrans* |
+         | ES | Spania | lammegribb | *Gypaetus barbatus* |
+         |  |  | munkegribb | *Aegypius monachus* |
+         |  |  | åtselgribb | *Neophron percnopterus* |
+         |  |  | gåsegribb | *Gyps fulvus* |
+         |  |  | kongeørn | *Aquila chrysaetos* |
+         |  |  | spansk keiserørn | *Aquila adalberti* |
+         |  |  | svartglente | *Milvus migrans* |
+         |  |  | glente | *Milvus* |
+         | FR | Frankrike | lammegribb | *Gypaetus barbatus* |
+         |  |  | munkegribb | *Aegypius monachus* |
+         |  |  | åtselgribb | *Neophron percnopterus* |
+         |  |  | gåsegribb | *Gyps fulvus* |
+         |  |  | kongeørn | *Aquila chrysaetos* |
+         |  |  | havørn | *Haliaeetus albicilla* |
+         |  |  | svartglente | *Milvus migrans* |
+         |  |  | glente | *Milvus* |
+         | HR | Kroatia | lammegribb | *Gypaetus barbatus* |
+         |  |  | munkegribb | *Aegypius monachus* |
+         |  |  | åtselgribb | *Neophron percnopterus* |
+         |  |  | gåsegribb | *Gyps fulvus* |
+         | IT | Italia | lammegribb | *Gypaetus barbatus* |
+         |  |  | munkegribb | *Aegypius monachus* |
+         |  |  | åtselgribb | *Neophron percnopterus* |
+         |  |  | gåsegribb | *Gyps fulvus* |
+         |  |  | kongeørn | *Aquila chrysaetos* |
+         |  |  | svartglente | *Milvus migrans* |
+         |  |  | glente | *Milvus* |
+         | CY | Kypros | munkegribb | *Aegypius monachus* |
+         |  |  | gåsegribb | *Gyps fulvus* |
+         | PT | Portugal | munkegribb | *Aegypius monachus* |
+         |  |  | åtselgribb | *Neophron percnopterus* |
+         |  |  | gåsegribb | *Gyps fulvus* |
+         |  |  | kongeørn | *Aquila chrysaetos* |
+         | SK | Slovakia | kongeørn | *Aquila chrysaetos* |
+         |  |  | keiserørn | *Aquila heliaca* |
+         |  |  | havørn | *Haliaeetus albicilla* |
+         |  |  | svartglente | *Milvus migrans* |
+         |  |  | glente | *Milvus* |
+
+         ◄**M9**
+      2. en art i Carnivora-ordenen som er oppført i vedlegg II til direktiv [92/43/EØF](eu/31992l0043*), i særlige verneområder som er opprettet i henhold til nevnte direktiv, eller
+      3. en art i Falconiformes-ordenen eller Strigiformes-ordenen som er oppført i vedlegg I til direktiv [2009/147/EF](eu/32009l0147), i særlige verneområder som er opprettet i henhold til nevnte direktiv.
+   2. Vedkommende myndighet har gitt en tillatelse til den driftsansvarlige som har ansvar for fôringsstasjonen.
+
+      Vedkommende myndighet skal utstede slike tillatelser, forutsatt at
+
+      1. fôringen ikke brukes som en alternativ disponeringsmåte for spesifisert risikomateriale eller selvdøde drøvtyggere som inneholder slikt materiale som utgjør en TSE-risiko,
+      2. det er innført et egnet overvåkingssystem for TSE som fastsatt i forordning [(EF) nr. 999/2001](eu/32001r0999), herunder regelmessig laboratorieundersøkelse av prøver med tanke på TSE.
+   3. Vedkommende myndighet skal sikre samordning med alle andre vedkommende myndigheter som har ansvar for å overvåke at kravene knyttet til tillatelsen, oppfylles.
+   4. Vedkommende myndighet skal, på grunnlag av en vurdering av den særlige situasjonen for de berørte artene og deres habitat, være overbevist om at artenes vernestatus vil bli forbedret.
+   5. Tillatelsen som gis av vedkommende myndighet, skal
+
+      1. angi navnet på den berørte arten,
+      2. inneholde en detaljert beskrivelse av fôringsstasjonens plassering i det geografiske området der fôringen skal foregå, og
+      3. umiddelbart trekkes tilbake dersom
+
+         - det er mistanke om eller er bekreftet forbindelse til spredning av TSE, inntil risikoen kan utelukkes, eller
+         - noen av bestemmelsene i denne forordning ikke overholdes.
+   6. Den driftsansvarlige som har ansvar for fôringen, skal
+
+      1. avsette et område til fôringen som er lukket, og som bare dyr av de artene som skal vernes, har adgang til, eventuelt med gjerde eller på andre måter som er i samsvar med disse artenes naturlige spisemønstre,
+      2. sikre at det før bruk og innenfor rammen av overvåkingsprogrammet mot TSE i samsvar med vedlegg III til forordning [(EF) nr. 999/2001](eu/32001r0999), gjennomføres TSE-prøving med negativt resultat av skrotter av storfe og av minst 4 % av skrotter av sau og geit som oppfyller vilkårene og er beregnet på bruk til fôr, samt, dersom det er relevant, i samsvar med en beslutning vedtatt i henhold til artikkel 6 nr. 1 bokstav b) i nevnte forordning, og
+      3. føre register over i det minste antall, art, anslått vekt og opprinnelse for skrottene av de dyrene som blir brukt som fôr, fôringsdato og det stedet der fôringen skjedde, samt, dersom det er relevant, resultatene av TSE-undersøkelsene.
+2. Når en medlemsstat oversender Kommisjonen en søknad om å bli oppført på listen i nr. 1 bokstav a), skal den framlegge
+
+   1. en nærmere begrunnelse for hvorfor listen bør utvides med bestemte arter av åtselfugler i den berørte medlemsstat, herunder en redegjørelse for hvorfor det er nødvendig å fôre disse fuglene med kategori 1-materiale i stedet for kategori 2- eller 3-materiale,
+   2. en beskrivelse av de tiltak som vil bli truffet for å sikre overholdelse av nr. 1.
 
 ###### Avsnitt 3
 
 Fôring av ville dyr utenfor fôringsstasjoner
 
-Vedkommende myndighet kan tillate bruk av kategori 1-materiale som består av hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale, utenfor fôringsstasjoner, eventuelt uten forutgående innsamling av de døde dyrene, til fôring av ville dyr nevnt i avsnitt 2 nr. 1 bokstav a), forutsatt at følgende vilkår er oppfylt:Vedkommende myndighet skal, på grunnlag av en vurdering av den særlige situasjonen for de berørte artene og deres habitat, være overbevist om at artenes vernestatus vil bli forbedret.Vedkommende myndighet skal i tillatelsen angi driftsenheter eller besetninger i et geografisk avgrenset fôringsområde på følgende vilkår:Fôringsområdet skal ikke omfatte områder med intensiv husdyrproduksjon.Produksjonsdyr i driftsenheter eller besetninger i fôringsområdet skal være underlagt regelmessig overvåking utført av en offentlig veterinær når det gjelder forekomst av TSE og sykdommer som kan overføres til mennesker eller dyr.Fôringen skal umiddelbart opphøre dersomdet er mistanke om eller er bekreftet forbindelse til spredning av TSE i en driftsenhet eller en besetning, inntil risikoen kan utelukkes,det er mistanke om eller bekreftet utbrudd av en alvorlig sykdom som kan overføres til mennesker eller dyr i en driftsenhet eller en besetning, inntil risikoen kan utelukkes, ellernoen av bestemmelsene i denne forordning ikke overholdes.I tillatelsen skal vedkommende myndighet angi følgende:egnede tiltak for å hindre spredning av TSE og overførbare sykdommer fra de døde dyrene til mennesker eller andre dyr, for eksempel tiltak som gjelder spisemønstrene til artene som skal vernes, sesongbestemte fôringsrestriksjoner, restriksjoner for forflytning av produksjonsdyr og andre tiltak som har som formål å kontrollere mulig risiko for spredning av en sykdom som kan overføres til mennesker eller dyr, blant annet tiltak knyttet til arter i fôringsområdet som de animalske biproduktene ikke brukes som fôr til,ansvarsområdene for personer eller enheter i fôringsområdet, som bistår ved fôringen eller har ansvaret for produksjonsdyr, i forbindelse med tiltakene nevnt i punkt i),vilkårene for anvendelsen av sanksjoner i henhold til artikkel 53 i forordning [(EF) nr. 1069/2009](eu/32009r1069) som gjelder overtredelse av tiltak i henhold til punkt i) begått av personer eller enheter nevnt i bokstav d) ii).Dersom fôringen skjer uten forutgående innsamling av de døde dyrene, skal det foretas en beregning av den sannsynlige dødelighetsraten for produksjonsdyr i fôringsområdet og av de ville dyrenes sannsynlige fôrbehov, som skal danne grunnlaget for vurderingen av de mulige risikoene for overføring av sykdommer.
+Vedkommende myndighet kan tillate bruk av kategori 1-materiale som består av hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale, utenfor fôringsstasjoner, eventuelt uten forutgående innsamling av de døde dyrene, til fôring av ville dyr nevnt i avsnitt 2 nr. 1 bokstav a), forutsatt at følgende vilkår er oppfylt:
+
+1. Vedkommende myndighet skal, på grunnlag av en vurdering av den særlige situasjonen for de berørte artene og deres habitat, være overbevist om at artenes vernestatus vil bli forbedret.
+2. Vedkommende myndighet skal i tillatelsen angi driftsenheter eller besetninger i et geografisk avgrenset fôringsområde på følgende vilkår:
+
+   1. Fôringsområdet skal ikke omfatte områder med intensiv husdyrproduksjon.
+   2. Produksjonsdyr i driftsenheter eller besetninger i fôringsområdet skal være underlagt regelmessig overvåking utført av en offentlig veterinær når det gjelder forekomst av TSE og sykdommer som kan overføres til mennesker eller dyr.
+   3. Fôringen skal umiddelbart opphøre dersom
+
+      1. det er mistanke om eller er bekreftet forbindelse til spredning av TSE i en driftsenhet eller en besetning, inntil risikoen kan utelukkes,
+      2. det er mistanke om eller bekreftet utbrudd av en alvorlig sykdom som kan overføres til mennesker eller dyr i en driftsenhet eller en besetning, inntil risikoen kan utelukkes, eller
+      3. noen av bestemmelsene i denne forordning ikke overholdes.
+   4. I tillatelsen skal vedkommende myndighet angi følgende:
+
+      1. egnede tiltak for å hindre spredning av TSE og overførbare sykdommer fra de døde dyrene til mennesker eller andre dyr, for eksempel tiltak som gjelder spisemønstrene til artene som skal vernes, sesongbestemte fôringsrestriksjoner, restriksjoner for forflytning av produksjonsdyr og andre tiltak som har som formål å kontrollere mulig risiko for spredning av en sykdom som kan overføres til mennesker eller dyr, blant annet tiltak knyttet til arter i fôringsområdet som de animalske biproduktene ikke brukes som fôr til,
+      2. ansvarsområdene for personer eller enheter i fôringsområdet, som bistår ved fôringen eller har ansvaret for produksjonsdyr, i forbindelse med tiltakene nevnt i punkt i),
+      3. vilkårene for anvendelsen av sanksjoner i henhold til artikkel 53 i forordning [(EF) nr. 1069/2009](eu/32009r1069) som gjelder overtredelse av tiltak i henhold til punkt i) begått av personer eller enheter nevnt i bokstav d) ii).
+   5. Dersom fôringen skjer uten forutgående innsamling av de døde dyrene, skal det foretas en beregning av den sannsynlige dødelighetsraten for produksjonsdyr i fôringsområdet og av de ville dyrenes sannsynlige fôrbehov, som skal danne grunnlaget for vurderingen av de mulige risikoene for overføring av sykdommer.
 
 ###### Avsnitt 4
 
 Fôring av dyr i zoologiske hager med kategori 1-materiale
 
-Vedkommende myndighet kan tillate bruk av kategori 1-materiale som består av hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale, og bruk av materiale fra dyr i zoologiske hager til fôring av dyr i zoologiske hager, på følgende vilkår:Vedkommende myndighet skal ha gitt en tillatelse til den driftsansvarlige som har ansvar for fôringen. Vedkommende myndighet skal utstede slike tillatelser, forutsatt atfôringen ikke brukes som en alternativ disponeringsmåte for spesifisert risikomateriale eller selvdøde drøvtyggere som inneholder slikt materiale som utgjør en TSE-risiko,det er innført et egnet overvåkingssystem for TSE i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999), som omfatter regelmessig laboratorieundersøkelse av prøver med tanke på TSE, dersom det brukes kategori 1-materiale som består av hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale fra storfe.Tillatelsen som vedkommende myndighet utsteder, skal umiddelbart trekkes tilbake dersomdet er mistanke om eller er bekreftet forbindelse til spredning av TSE, inntil risikoen kan utelukkes, ellernoen av bestemmelsene i denne forordning ikke overholdes.Den driftsansvarlige som har ansvar for fôringen, skallagre materialet som skal brukes som fôr, og gjennomføre fôringen, i et lukket og inngjerdet område for å sikre at ingen andre kjøttetende dyr enn de dyrene i zoologiske hager som det er utstedt tillatelse for, har adgang til det materialet som skal brukes som fôr,sikre at det innenfor rammen av overvåkingsprogrammet mot TSE i samsvar med vedlegg III til forordning [(EF) nr. 999/2001](eu/32001r0999), gjennomføres TSE-prøving av drøvtyggere som er beregnet på bruk i fôr, samt, dersom det er relevant, i samsvar med en beslutning vedtatt i henhold til artikkel 6 nr. 1 bokstav b) annet ledd i nevnte forordning,føre register over i det minste antall, art, anslått vekt og opprinnelse for kroppene av de dyrene som blir brukt som fôr, resultatene av TSE-undersøkelsene og fôringsdatoen.
+Vedkommende myndighet kan tillate bruk av kategori 1-materiale som består av hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale, og bruk av materiale fra dyr i zoologiske hager til fôring av dyr i zoologiske hager, på følgende vilkår:
+
+1. Vedkommende myndighet skal ha gitt en tillatelse til den driftsansvarlige som har ansvar for fôringen. Vedkommende myndighet skal utstede slike tillatelser, forutsatt at
+
+   1. fôringen ikke brukes som en alternativ disponeringsmåte for spesifisert risikomateriale eller selvdøde drøvtyggere som inneholder slikt materiale som utgjør en TSE-risiko,
+   2. det er innført et egnet overvåkingssystem for TSE i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999), som omfatter regelmessig laboratorieundersøkelse av prøver med tanke på TSE, dersom det brukes kategori 1-materiale som består av hele kropper eller deler av døde dyr som inneholder spesifisert risikomateriale fra storfe.
+   3. Tillatelsen som vedkommende myndighet utsteder, skal umiddelbart trekkes tilbake dersom
+
+      1. det er mistanke om eller er bekreftet forbindelse til spredning av TSE, inntil risikoen kan utelukkes, eller
+      2. noen av bestemmelsene i denne forordning ikke overholdes.
+   4. Den driftsansvarlige som har ansvar for fôringen, skal
+
+      1. lagre materialet som skal brukes som fôr, og gjennomføre fôringen, i et lukket og inngjerdet område for å sikre at ingen andre kjøttetende dyr enn de dyrene i zoologiske hager som det er utstedt tillatelse for, har adgang til det materialet som skal brukes som fôr,
+      2. sikre at det innenfor rammen av overvåkingsprogrammet mot TSE i samsvar med vedlegg III til forordning [(EF) nr. 999/2001](eu/32001r0999), gjennomføres TSE-prøving av drøvtyggere som er beregnet på bruk i fôr, samt, dersom det er relevant, i samsvar med en beslutning vedtatt i henhold til artikkel 6 nr. 1 bokstav b) annet ledd i nevnte forordning,
+      3. føre register over i det minste antall, art, anslått vekt og opprinnelse for kroppene av de dyrene som blir brukt som fôr, resultatene av TSE-undersøkelsene og fôringsdatoen.
 
 ### KAPITTEL III
 SÆRLIGE BESTEMMELSER OM INNSAMLING OG DISPONERING
@@ -2414,16 +4248,39 @@ SÆRLIGE BESTEMMELSER OM INNSAMLING OG DISPONERING
 
 Særlige bestemmelser om disponering av animalske biprodukter
 
-1. Dersom vedkommende myndighet tillater disponering av animalske biprodukter på stedet i samsvar med artikkel 19 nr. 1 bokstav a)–c) og e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan disponeringen skjeved forbrenning eller nedgraving på stedet der de animalske biproduktene kommer fra,på en godkjent fyllplass, ellerved forbrenning eller nedgraving på et sted som mest mulig reduserer risikoen for dyrehelsen og folkehelsen og for miljøet, forutsatt at stedet ligger innenfor en avstand som gjør at vedkommende myndighet kan hindre risikoen for dyrehelsen og folkehelsen og for miljøet.
-2. Forbrenning av animalske biprodukter på steder nevnt i artikkel 19 nr. 1 bokstav b), c) og e) i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal skje på en måte som sikrer at de brennespå et korrekt oppbygd bål, og slik at de animalske biproduktene blir redusert til aske,uten at menneskers helse settes i fare,uten at det anvendes prosesser eller metoder som kan skade miljøet, særlig dersom de kan medføre risiko for vann, luft, jord, planter og dyr, eller plager i form av støy eller lukt,på vilkår som sikrer at asken disponeres ved nedgraving på en godkjent fyllplass.
-3. Nedgraving av animalske biprodukter på steder nevnt i artikkel 19 nr. 1 bokstav a)–c) og e) i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal skje på en måte som sikrer at de graves nedpå en slik måte at kjøttetende og altetende dyr ikke kan få tak i dem,på en godkjent fyllplass eller på et annet sted uten at menneskers helse settes i fare og ved anvendelse av prosesser eller metoder som ikke skader miljøet, særlig dersom de kan medføre risiko for vann, luft, jord, planter og dyr, eller plager i form av støy eller lukt.
-4. Ved disponering i henhold til artikkel 19 nr. 1 bokstav a)–c) og e) i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal forflytningen av animalske biprodukter fra opprinnelsesstedet til disponeringsstedet skje på følgende vilkår:de animalske biproduktene transporteres i sikre, lekkasjetette beholdere eller kjøretøyer,lasting og lossing av de animalske biproduktene overvåkes av vedkommende myndighet, dersom det er relevant,hjulene på kjøretøyer desinfiseres før kjøretøyet forlater opprinnelsesstedet,beholdere og kjøretøyer som brukes til transport av animalske biprodukter, blir grundig rengjort og desinfisert etter at de animalske biproduktene er losset, ogdet sørges for egnet eskorte for kjøretøyene, tetthetsprøving og doble vegger, dersom det er relevant.
+1. Dersom vedkommende myndighet tillater disponering av animalske biprodukter på stedet i samsvar med artikkel 19 nr. 1 bokstav a)–c) og e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan disponeringen skje
+
+   1. ved forbrenning eller nedgraving på stedet der de animalske biproduktene kommer fra,
+   2. på en godkjent fyllplass, eller
+   3. ved forbrenning eller nedgraving på et sted som mest mulig reduserer risikoen for dyrehelsen og folkehelsen og for miljøet, forutsatt at stedet ligger innenfor en avstand som gjør at vedkommende myndighet kan hindre risikoen for dyrehelsen og folkehelsen og for miljøet.
+2. Forbrenning av animalske biprodukter på steder nevnt i artikkel 19 nr. 1 bokstav b), c) og e) i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal skje på en måte som sikrer at de brennes
+
+   1. på et korrekt oppbygd bål, og slik at de animalske biproduktene blir redusert til aske,
+   2. uten at menneskers helse settes i fare,
+   3. uten at det anvendes prosesser eller metoder som kan skade miljøet, særlig dersom de kan medføre risiko for vann, luft, jord, planter og dyr, eller plager i form av støy eller lukt,
+   4. på vilkår som sikrer at asken disponeres ved nedgraving på en godkjent fyllplass.
+3. Nedgraving av animalske biprodukter på steder nevnt i artikkel 19 nr. 1 bokstav a)–c) og e) i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal skje på en måte som sikrer at de graves ned
+
+   1. på en slik måte at kjøttetende og altetende dyr ikke kan få tak i dem,
+   2. på en godkjent fyllplass eller på et annet sted uten at menneskers helse settes i fare og ved anvendelse av prosesser eller metoder som ikke skader miljøet, særlig dersom de kan medføre risiko for vann, luft, jord, planter og dyr, eller plager i form av støy eller lukt.
+4. Ved disponering i henhold til artikkel 19 nr. 1 bokstav a)–c) og e) i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal forflytningen av animalske biprodukter fra opprinnelsesstedet til disponeringsstedet skje på følgende vilkår:
+
+   1. de animalske biproduktene transporteres i sikre, lekkasjetette beholdere eller kjøretøyer,
+   2. lasting og lossing av de animalske biproduktene overvåkes av vedkommende myndighet, dersom det er relevant,
+   3. hjulene på kjøretøyer desinfiseres før kjøretøyet forlater opprinnelsesstedet,
+   4. beholdere og kjøretøyer som brukes til transport av animalske biprodukter, blir grundig rengjort og desinfisert etter at de animalske biproduktene er losset, og
+   5. det sørges for egnet eskorte for kjøretøyene, tetthetsprøving og doble vegger, dersom det er relevant.
 
 ###### Avsnitt 2
 
 Forbrenning og nedgraving av animalske biprodukter i fjerntliggende områder
 
-Den største tillatte prosentdelen i henhold til artikkel 19 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal ikke overstige10 % av storfebestanden i den berørte medlemsstat,25 % av saue- og geitebestanden i den berørte medlemsstat,10 % av svinebestanden i den berørte medlemsstat, ogen prosentdel av bestanden av andre arter, som fastsettes av vedkommende myndighet på grunnlag av en vurdering av den mulige risikoen for folkehelsen og dyrehelsen som oppstår i forbindelse med disponering av dyr av disse artene ved forbrenning eller nedgraving på stedet.
+Den største tillatte prosentdelen i henhold til artikkel 19 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal ikke overstige
+
+1. 10 % av storfebestanden i den berørte medlemsstat,
+2. 25 % av saue- og geitebestanden i den berørte medlemsstat,
+3. 10 % av svinebestanden i den berørte medlemsstat, og
+4. en prosentdel av bestanden av andre arter, som fastsettes av vedkommende myndighet på grunnlag av en vurdering av den mulige risikoen for folkehelsen og dyrehelsen som oppstår i forbindelse med disponering av dyr av disse artene ved forbrenning eller nedgraving på stedet.
 
 ###### Avsnitt 3
 
@@ -2434,8 +4291,12 @@ Når det gjelder bier og biprodukter av biavl, kan vedkommende myndighet tillate
 ### KAPITTEL IV
 DISPONERING PÅ ANDRE MÅTER
 
-Som unntak fra artikkel 14 i forordning [(EF) nr. 1069/2009](eu/32009r1069) kan medlemsstatene tillate innsamling, transport og disponering av kategori 3-materiale nevnt i artikkel 10 bokstav f) i nevnte forordning, på andre måter enn ved forbrenning eller nedgraving på stedet, forutsatt atmengden av materialet ikke overstiger 20 kg per uke fra den virksomheten eller det anlegget der materialet samles inn, uansett hvilken art materialet kommer fra,materialet samles inn, transporteres og disponeres på måter som hindrer overføring av uakseptabel risiko for folkehelsen og dyrehelsen,vedkommende myndighet foretar regelmessige kontroller, herunder av registrene som føres av driftsansvarlige, i de virksomheter eller anlegg der materialet samles inn, for å sikre at bestemmelsene i dette avsnitt overholdes.
-► **M9** ◄
+Som unntak fra artikkel 14 i forordning [(EF) nr. 1069/2009](eu/32009r1069) kan medlemsstatene tillate innsamling, transport og disponering av kategori 3-materiale nevnt i artikkel 10 bokstav f) i nevnte forordning, på andre måter enn ved forbrenning eller nedgraving på stedet, forutsatt at
+
+1. mengden av materialet ikke overstiger 20 kg per uke fra den virksomheten eller det anlegget der materialet samles inn, uansett hvilken art materialet kommer fra,
+2. materialet samles inn, transporteres og disponeres på måter som hindrer overføring av uakseptabel risiko for folkehelsen og dyrehelsen,
+3. vedkommende myndighet foretar regelmessige kontroller, herunder av registrene som føres av driftsansvarlige, i de virksomheter eller anlegg der materialet samles inn, for å sikre at bestemmelsene i dette avsnitt overholdes.
+   ► **M9** ◄
 
 ### VEDLEGG VII
 STANDARDFORMAT FOR SØKNADER OM ALTERNATIVE METODER
@@ -2444,19 +4305,78 @@ STANDARDFORMAT FOR SØKNADER OM ALTERNATIVE METODER
 Språkbestemmelser
 
 1. Søknader om godkjenning av en alternativ metode for bruk eller disponering av animalske biprodukter eller avledede produkter i henhold til artikkel 20 i forordning [(EF) nr. 1069/2009](eu/32009r1069) (heretter kalt «søknader») skal framlegges på et av de offisielle språkene i Den europeiske union som nevnt i artikkel 1 i forordning [nr. 1/1958](eu/31958r0001).
-2. Berørte parter som framlegger slike søknader på et annet språk enn engelsk, skal før vurderingen validere den offisielle oversettelsen av søknaden, som EFSA skal sørge for.Perioden nevnt i artikkel 20 nr. 5 i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal starte på det tidspunkt berørte parter har validert den offisielle oversettelsen av søknaden.
+2. Berørte parter som framlegger slike søknader på et annet språk enn engelsk, skal før vurderingen validere den offisielle oversettelsen av søknaden, som EFSA skal sørge for.
+
+   Perioden nevnt i artikkel 20 nr. 5 i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal starte på det tidspunkt berørte parter har validert den offisielle oversettelsen av søknaden.
 
 ### KAPITTEL II
 Søknadenes innhold
 
 ► **M1**
 
-1. En søknad skal inneholde alle opplysninger som er nødvendige for at EFSA skal kunne vurdere den foreslåtte alternative metodens sikkerhet, og særlig en beskrivelse av følgende:de kategorier av animalske biprodukter som metoden skal anvendes på,hele prosessen,de tilknyttede biologiske farene for folkehelsen og dyrehelsen, oggraden av risikoreduksjon som skal oppnås gjennom prosessen.
-2. Søknaden nevnt i nr. 1 skal dessutenangi hvilke numre i artikkel 8, 9 og 10 i forordning [(EF) nr. 1069/2009](eu/32009r1069) som får anvendelse, herunder materialets fysiske tilstand og, dersom det er relevant, eventuell forbehandling og eventuelt annet materiale enn animalske biprodukter som skal anvendes i prosessen,inneholde en HACCP-protokoll og et flytskjema som klart angir de enkelte trinn i prosessen, identifiserer de kritiske parametrene for inaktivering av relevante sykdomsframkallende stoffer, som temperatur, trykk, eksponeringstid, justering av pH-verdi og partikkelstørrelse, og som utfylles med tekniske datablader for utstyret som anvendes i prosessen,identifisere og karakterisere de biologiske farer for folkehelsen og dyrehelsen som de kategoriene av animalske biprodukter som metoden skal anvendes på, innebærer,vise at de mest resistente biologiske farene knyttet til den kategorien av materiale som skal bearbeides, i alle produkter som framstilles i løpet av prosessen, herunder spillvann, reduseres til minst den grad som oppnås gjennom bearbeidingskravene i denne forordning for samme kategori av animalske biprodukter. Graden av risikoreduksjon skal bestemmes gjennom validerte direkte målinger, med mindre modellering eller sammenlikning med andre prosesser kan godtas.
-3. Med validerte direkte målinger i henhold til nr. 2 bokstav d) menesmåling av reduksjonen av levedyktighet/smittsomhet hos endogene indikatororganismer under prosessen, dersom indikatoren erkonstant til stede i råstoffet i et høyt antall,minst like resistent mot behandlingsprosessens dødelige aspekter som de sykdomsframkallende stoffene den skal brukes til overvåking av, men samtidig heller ikke betydelig mer resistent,forholdsvis lett å mengdebestemme, identifisere og bekrefte, elleranvendelse av en veldefinert prøveorganisme eller et veldefinert virus, som er innført i et egnet prøvingsemne i utgangsmaterialet,Dersom prosessen omfatter flere behandlingstrinn, skal det foretas en vurdering av i hvilken grad de enkelte titerreduksjonstrinnene utfyller hverandre, eller om tidligere trinn i prosessen kan ha negativ innvirkning på de neste trinnene,rapportering av de samlede resultatene gjennomen nærmere beskrivelse av metoden som er anvendt,en beskrivelse av arten av prøvene som er analysert,dokumentasjon av at antall prøver som er analysert, er representativt,en begrunnelse for antall prøver som er tatt og valget av målepunkter,angivelse av de anvendte påvisningsmetodenes følsomhet og spesifisitet,framlegging av opplysninger om repeterbarhet og statistisk variabilitet for målingene som er gjort under forsøkene,en begrunnelse for prionsurrogaters betydning, dersom slike anvendes,opplysninger med hensyn til modeller eller sammenligninger med andre prosesser som anvendes, om at de faktorene som fører til risikoreduksjon, er velkjente, og at modellen for risikoreduksjon er veletablert, dersom det ikke foreligger direkte målinger,framlegging av opplysninger for hele prosessen om direkte målinger av alle faktorer som fører til risikoreduksjon, som dokumenterer at disse faktorene er anvendt på samme måte for hele partiet som er behandlet.
-4. HACCP-planen nevnt i nr. 2 bokstav b) skal bygge på de kritiske parametrene som anvendes for å oppnå risikoreduksjonen, særligtemperatur,trykk,tid ogmikrobiologiske kriterier.De kritiske grensene i HACCP-planen skal defineres på grunnlag av resultatene av valideringsforsøket og/eller den framlagte modellen.Dersom det kan påvises at prosessen virker tilfredsstillende bare ved å henvise til tekniske parametrer som er særskilt knyttet til utstyret som anvendes i prosessen, skal HACCP-planen også omfatte de tekniske grenseverdiene som skal oppnås, særlig for energiopptak, antall pumpeslag eller dosering av kjemikalier.Det skal gis opplysninger om de kritiske og tekniske parametrene som skal overvåkes og registreres kontinuerlig eller med fastsatte mellomrom, og om metodene som anvendes til måling og overvåking.Det skal tas hensyn til parametrenes variabilitet under typiske produksjonsvilkår.HACCP-planen skal gjenspeile både normale og unormale driftsvilkår/driftsvilkår i nødssituasjoner, herunder ved driftsavbrudd, og den skal angi mulige korrigerende tiltak som skal anvendes ved unormale driftsvilkår/driftsvilkår i nødssituasjoner.
-5. Søknadene skal også inneholde tilstrekkelige opplysninger om følgende:risikoene som er knyttet til innbyrdes avhengige prosesser, særlig resultatet av en vurdering av mulige indirekte virkninger som kanpåvirke graden av risikoreduksjon for en bestemt prosess,oppstå i forbindelse med transport eller lagring av produkter som har oppstått gjennom prosessen, og i forbindelse med sikker disponering av slike produkter, herunder spillvann,risikoene som er knyttet til den planlagte sluttbruken av produktene, særligangivelse av den planlagte sluttbruken av alle produkter som oppstår gjennom prosessen,en vurdering av de sannsynlige risikoene for folkehelsen og dyrehelsen og mulige virkninger for miljøet, på grunnlag av den risikoreduksjonen som er anslått i samsvar med nr. 2 bokstav d).
-6. Søknader skal framlegges sammen med dokumentasjon, særliget flytskjema som viser hvordan prosessen fungerer,dokumentasjonen nevnt i nr. 2 bokstav d) samt annen dokumentasjon som kan underbygge opplysningene som er gitt som ledd i søknaden i henhold til nr. 2.
+1. En søknad skal inneholde alle opplysninger som er nødvendige for at EFSA skal kunne vurdere den foreslåtte alternative metodens sikkerhet, og særlig en beskrivelse av følgende:
+
+   - de kategorier av animalske biprodukter som metoden skal anvendes på,
+   - hele prosessen,
+   - de tilknyttede biologiske farene for folkehelsen og dyrehelsen, og
+   - graden av risikoreduksjon som skal oppnås gjennom prosessen.
+2. Søknaden nevnt i nr. 1 skal dessuten
+
+   1. angi hvilke numre i artikkel 8, 9 og 10 i forordning [(EF) nr. 1069/2009](eu/32009r1069) som får anvendelse, herunder materialets fysiske tilstand og, dersom det er relevant, eventuell forbehandling og eventuelt annet materiale enn animalske biprodukter som skal anvendes i prosessen,
+   2. inneholde en HACCP-protokoll og et flytskjema som klart angir de enkelte trinn i prosessen, identifiserer de kritiske parametrene for inaktivering av relevante sykdomsframkallende stoffer, som temperatur, trykk, eksponeringstid, justering av pH-verdi og partikkelstørrelse, og som utfylles med tekniske datablader for utstyret som anvendes i prosessen,
+   3. identifisere og karakterisere de biologiske farer for folkehelsen og dyrehelsen som de kategoriene av animalske biprodukter som metoden skal anvendes på, innebærer,
+   4. vise at de mest resistente biologiske farene knyttet til den kategorien av materiale som skal bearbeides, i alle produkter som framstilles i løpet av prosessen, herunder spillvann, reduseres til minst den grad som oppnås gjennom bearbeidingskravene i denne forordning for samme kategori av animalske biprodukter. Graden av risikoreduksjon skal bestemmes gjennom validerte direkte målinger, med mindre modellering eller sammenlikning med andre prosesser kan godtas.
+3. Med validerte direkte målinger i henhold til nr. 2 bokstav d) menes
+
+   1. måling av reduksjonen av levedyktighet/smittsomhet hos endogene indikatororganismer under prosessen, dersom indikatoren er
+
+      - konstant til stede i råstoffet i et høyt antall,
+      - minst like resistent mot behandlingsprosessens dødelige aspekter som de sykdomsframkallende stoffene den skal brukes til overvåking av, men samtidig heller ikke betydelig mer resistent,
+      - forholdsvis lett å mengdebestemme, identifisere og bekrefte, eller
+   2. anvendelse av en veldefinert prøveorganisme eller et veldefinert virus, som er innført i et egnet prøvingsemne i utgangsmaterialet,
+
+      Dersom prosessen omfatter flere behandlingstrinn, skal det foretas en vurdering av i hvilken grad de enkelte titerreduksjonstrinnene utfyller hverandre, eller om tidligere trinn i prosessen kan ha negativ innvirkning på de neste trinnene,
+   3. rapportering av de samlede resultatene gjennom
+
+      1. en nærmere beskrivelse av metoden som er anvendt,
+      2. en beskrivelse av arten av prøvene som er analysert,
+      3. dokumentasjon av at antall prøver som er analysert, er representativt,
+      4. en begrunnelse for antall prøver som er tatt og valget av målepunkter,
+      5. angivelse av de anvendte påvisningsmetodenes følsomhet og spesifisitet,
+      6. framlegging av opplysninger om repeterbarhet og statistisk variabilitet for målingene som er gjort under forsøkene,
+      7. en begrunnelse for prionsurrogaters betydning, dersom slike anvendes,
+      8. opplysninger med hensyn til modeller eller sammenligninger med andre prosesser som anvendes, om at de faktorene som fører til risikoreduksjon, er velkjente, og at modellen for risikoreduksjon er veletablert, dersom det ikke foreligger direkte målinger,
+      9. framlegging av opplysninger for hele prosessen om direkte målinger av alle faktorer som fører til risikoreduksjon, som dokumenterer at disse faktorene er anvendt på samme måte for hele partiet som er behandlet.
+4. HACCP-planen nevnt i nr. 2 bokstav b) skal bygge på de kritiske parametrene som anvendes for å oppnå risikoreduksjonen, særlig
+
+   - temperatur,
+   - trykk,
+   - tid og
+   - mikrobiologiske kriterier.
+
+   De kritiske grensene i HACCP-planen skal defineres på grunnlag av resultatene av valideringsforsøket og/eller den framlagte modellen.
+
+   Dersom det kan påvises at prosessen virker tilfredsstillende bare ved å henvise til tekniske parametrer som er særskilt knyttet til utstyret som anvendes i prosessen, skal HACCP-planen også omfatte de tekniske grenseverdiene som skal oppnås, særlig for energiopptak, antall pumpeslag eller dosering av kjemikalier.
+
+   Det skal gis opplysninger om de kritiske og tekniske parametrene som skal overvåkes og registreres kontinuerlig eller med fastsatte mellomrom, og om metodene som anvendes til måling og overvåking.
+
+   Det skal tas hensyn til parametrenes variabilitet under typiske produksjonsvilkår.
+
+   HACCP-planen skal gjenspeile både normale og unormale driftsvilkår/driftsvilkår i nødssituasjoner, herunder ved driftsavbrudd, og den skal angi mulige korrigerende tiltak som skal anvendes ved unormale driftsvilkår/driftsvilkår i nødssituasjoner.
+5. Søknadene skal også inneholde tilstrekkelige opplysninger om følgende:
+
+   1. risikoene som er knyttet til innbyrdes avhengige prosesser, særlig resultatet av en vurdering av mulige indirekte virkninger som kan
+
+      1. påvirke graden av risikoreduksjon for en bestemt prosess,
+      2. oppstå i forbindelse med transport eller lagring av produkter som har oppstått gjennom prosessen, og i forbindelse med sikker disponering av slike produkter, herunder spillvann,
+   2. risikoene som er knyttet til den planlagte sluttbruken av produktene, særlig
+
+      1. angivelse av den planlagte sluttbruken av alle produkter som oppstår gjennom prosessen,
+      2. en vurdering av de sannsynlige risikoene for folkehelsen og dyrehelsen og mulige virkninger for miljøet, på grunnlag av den risikoreduksjonen som er anslått i samsvar med nr. 2 bokstav d).
+6. Søknader skal framlegges sammen med dokumentasjon, særlig
+
+   1. et flytskjema som viser hvordan prosessen fungerer,
+   2. dokumentasjonen nevnt i nr. 2 bokstav d) samt annen dokumentasjon som kan underbygge opplysningene som er gitt som ledd i søknaden i henhold til nr. 2.
 7. Søknader skal inneholde den berørte parts kontaktadresse, herunder navn og fullstendig adresse, telefonnummer og/eller faksnummer og/eller e-postadresse til en person som er ansvarlig som eller på vegne av den berørte person.
 
 ◄ **M1**
@@ -2472,8 +4392,18 @@ INNSAMLING OG TRANSPORT
 Kjøretøyer og beholdere
 
 1. Animalske biprodukter og avledede produkter skal fra startpunktet i produksjonskjeden i henhold til artikkel 4 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) samles inn og transporteres i ny, hermetisk lukket emballasje eller i overdekkede, lekkasjesikre beholdere eller kjøretøyer.
-2. Kjøretøyer og ombruksbeholdere og alt utstyr eller alle apparater som kan brukes på nytt, og som kommer i kontakt med animalske biprodukter eller avledede produkter, unntatt avledede produkter som bringes i omsetning i henhold til forordning [(EF) nr. 767/2009](eu/32009r0767) og lagres og transporteres i samsvar med vedlegg II til forordning [(EF) nr. 183/2005](eu/32005r0183), skal holdes rene.Med mindre de bare anvendes til transport av bestemte animalske biprodukter eller avledede produkter, slik at krysskontaminering unngås, skal de særligvære rene og tørre før bruk, ogrengjøres, vaskes og/eller desinfiseres hver gang de er brukt, i det omfang som er nødvendig for å unngå krysskontaminering.
-3. Ombruksbeholdere skal forbeholdes transport av et bestemt animalsk biprodukt eller avledet produkt i det omfang som er nødvendig for å unngå krysskontaminering.Ombruksbeholdere kan imidlertid brukes, forutsatt at vedkommende myndighet har godkjent slik bruktil transport av ulike animalske biprodukter eller avledede produkter, forutsatt at de rengjøres og desinfiseres hver gang de er brukt, slik at krysskontaminering unngås,til transport av animalske biprodukter eller avledede produkter nevnt i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), etter at de er brukt til transport av produkter beregnet på konsum under forhold som hindrer krysskontaminering.
+2. Kjøretøyer og ombruksbeholdere og alt utstyr eller alle apparater som kan brukes på nytt, og som kommer i kontakt med animalske biprodukter eller avledede produkter, unntatt avledede produkter som bringes i omsetning i henhold til forordning [(EF) nr. 767/2009](eu/32009r0767) og lagres og transporteres i samsvar med vedlegg II til forordning [(EF) nr. 183/2005](eu/32005r0183), skal holdes rene.
+
+   Med mindre de bare anvendes til transport av bestemte animalske biprodukter eller avledede produkter, slik at krysskontaminering unngås, skal de særlig
+
+   1. være rene og tørre før bruk, og
+   2. rengjøres, vaskes og/eller desinfiseres hver gang de er brukt, i det omfang som er nødvendig for å unngå krysskontaminering.
+3. Ombruksbeholdere skal forbeholdes transport av et bestemt animalsk biprodukt eller avledet produkt i det omfang som er nødvendig for å unngå krysskontaminering.
+
+   Ombruksbeholdere kan imidlertid brukes, forutsatt at vedkommende myndighet har godkjent slik bruk
+
+   1. til transport av ulike animalske biprodukter eller avledede produkter, forutsatt at de rengjøres og desinfiseres hver gang de er brukt, slik at krysskontaminering unngås,
+   2. til transport av animalske biprodukter eller avledede produkter nevnt i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), etter at de er brukt til transport av produkter beregnet på konsum under forhold som hindrer krysskontaminering.
 4. Emballasjemateriale skal disponeres ved avfallsforbrenning eller på andre måter i samsvar med Unionens regelverk.
 
 ###### Avsnitt 2
@@ -2481,7 +4411,10 @@ Kjøretøyer og beholdere
 Temperaturforhold
 
 1. For å unngå risiko for folkehelsen eller dyrehelsen skal transport av animalske biprodukter til framstilling av fôrmidler eller rått fôr til kjæledyr, skje ved en egnet temperatur, som når det gjelder animalske biprodukter fra kjøtt og kjøttprodukter som er beregnet på andre formål enn konsum, er høyst 7 °C, med mindre de brukes til fôringsformål i samsvar med vedlegg II kapittel I.
-2. Ubearbeidet kategori 3-materiale til framstilling av fôrmidler eller fôr til kjæledyr, skal lagres og transporteres i kjølt, fryst eller ensilert tilstand, med mindre detinnen 24 timer etter innsamlingen eller etter lagringen bearbeides i kjølt eller fryst tilstand og deretter transporteres i transportmidler der lagringstemperaturen kan opprettholdes,når det gjelder melk, melkebaserte produkter eller produkter framstilt av melk, som ikke har gjennomgått noen av behandlingene i vedlegg X kapittel II avsnitt 4 del I, transporteres i kjølt tilstand og i isolerte beholdere, med mindre risikoen kan reduseres gjennom andre tiltak på grunn av materialets egenskaper.
+2. Ubearbeidet kategori 3-materiale til framstilling av fôrmidler eller fôr til kjæledyr, skal lagres og transporteres i kjølt, fryst eller ensilert tilstand, med mindre det
+
+   1. innen 24 timer etter innsamlingen eller etter lagringen bearbeides i kjølt eller fryst tilstand og deretter transporteres i transportmidler der lagringstemperaturen kan opprettholdes,
+   2. når det gjelder melk, melkebaserte produkter eller produkter framstilt av melk, som ikke har gjennomgått noen av behandlingene i vedlegg X kapittel II avsnitt 4 del I, transporteres i kjølt tilstand og i isolerte beholdere, med mindre risikoen kan reduseres gjennom andre tiltak på grunn av materialets egenskaper.
 3. Kjøretøyer som brukes til kjøletransport, skal være utformet slik at de opprettholder riktig temperatur under hele transporten og slik at temperaturen kan overvåkes.
 
 ###### Avsnitt 3
@@ -2499,51 +4432,151 @@ Som unntak fra avsnitt 1 kan vedkommende myndighet tillate innsamling og transpo
 ### KAPITTEL II
 IDENTIFISERING
 
-1. Alle nødvendige tiltak skal treffes for å sikre atforsendelser av animalske biprodukter og avledede produkter kan identifiseres og holdes atskilt og forbli identifiserbare under innsamlingen på de animalske biproduktenes opprinnelsessted og under transporten,et merkestoff for identifisering av animalske biprodukter eller avledede produkter i en særlig kategori bare brukes for den kategorien som det i henhold til denne forordning eller i henhold til nr. 4 skal brukes til,forsendelser av animalske biprodukter og avledede produkter sendes fra en medlemsstat til en annen i emballasje, beholdere eller kjøretøyer som i det minste i transportperioden er tydelig merket med følgende fargekoder som ikke kan slettes, for å vise opplysninger, som fastsatt i denne forordning, på overflaten eller deler av overflaten av emballasje, beholdere eller kjøretøyer, eller på etiketter eller symboler festet på disse:for materiale i kategori 1 svart farge,ii) for materiale i kategori 2 (med unntak av husdyrgjødsel og innhold fra fordøyelseskanalen) gul farge,for materiale i kategori 3 grønn farge med en høy andel av blå farge for å sikre at fargen tydelig kan skilles fra andre farger,når det gjelder importerte forsendelser, anvendes den fargen som er angitt i nr. i)–iii) for det berørte materialet, fra det tidspunkt forsendelsen har passert den grensekontrollstasjonen der den først føres inn i Unionen.
-2. Under transport og lagring skal en etikett som er festet til emballasjen, beholderen eller kjøretøyettydelig angi hvilken kategori de animalske biproduktene eller avledede produktene tilhører, ogvære tydelig merket med en lett leselig påskrift på emballasjen, beholderen eller kjøretøyet, etter det som er relevant:når det gjelder materiale i kategori 3, ordlyden «ikke beregnet på konsum»,når det gjelder materiale i kategori 2 (unntatt for husdyrgjødsel og mage- og tarminnhold) og avledede produkter fra kategori 2-materiale, ordlyden «ikke beregnet på fôr»; når materiale i kategori 2 imidlertid er beregnet på fôring av dyr i henhold til bestemmelsene i artikkel 18 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) på vilkår som er fastsatt i eller i samsvar med nevnte artikkel, skal etiketten ha ordlyden «til fôring av ...» i tillegg til navn på den eller de dyrearter som materialet er beregnet på,når det gjelder kategori 1-materiale og avledede produkter fra kategori 1-materiale som er beregnet pådisponering, «bare beregnet på disponering»,framstilling av fôr til kjæledyr, «bare til framstilling av fôr til kjæledyr»,framstilling av et avledet produkt i henhold til artikkel 36 i forordning [(EF) nr. 1069/2009](eu/32009r1069), «bare til framstilling av avledede produkter. Ikke beregnet på konsum, bruk som fôr eller spredning på jord»,når det gjelder melk, melkebaserte produkter, produkter framstilt av melk, råmelk og råmelksprodukter, «ikke beregnet på konsum»,når det gjelder gelatin framstilt av kategori 3-materiale, «gelatin egnet til fôr»,når det gjelder kollagen framstilt av kategori 3-materiale, «kollagen egnet til fôr»,
-►**M23**når det gjelder rått fôr til kjæledyr, «Brukes bare som fôr til kjæledyr. Oppbevares atskilt fra næringsmidler. Vask hender og rengjør verktøy, redskaper og overflater etter håndtering av dette produktet.»
-◄**M23**når det gjelder fisk og avledede produkter fra fisk beregnet til fiskefôr, som behandles og emballeres før distribusjon, tydelig og lett leselig merking med navn og adresse til fôrprodusenten som produktene kommer fra, ognår det gjelder fiskemel fra villfisk, påføres ordlyden «inneholder bare fiskemel av villfiskkan brukes som fôr til oppdrettsfisk av alle arter»,når det gjelder fiskemel fra oppdrettsfisk, påføres ordlyden «inneholder bare fiskemel av oppdrettsfisk av arten [...] – kan bare brukes som fôr til oppdrettsfisk av andre arter»,når det gjelder fiskemel fra villfisk og fra oppdrettsfisk, påføres ordlyden «inneholder fiskemel av villfisk og oppdrettsfisk av arten [...] – kan bare brukes som fôr til oppdrettsfisk av andre arter»,når det gjelder blodprodukter fra dyr av hestefamilien for andre bruksformål enn i fôr, ordlyden «blod og blodprodukter fra dyr av hestefamilien. Ikke beregnet på konsum eller fôr»,når det gjelder horn, hover/klover og annet materiale til framstilling av organisk gjødsel og jordforbedringsmidler i henhold til vedlegg XIV kapittel II avsnitt 12, ordlyden «ikke beregnet på konsum eller fôr»,når det gjelder organisk gjødsel og jordforbedringsmidler, ordlyden «organisk gjødsel eller jordforbedringsmidler/produksjonsdyr skal ikke beite og ikke fôres med fôrvekster i minst 21 dager etter spredning»,når det gjelder materiale som brukes til fôring i samsvar med vedlegg VI kapittel II avsnitt 1, navn og adresse til innsamlingssentralen, og ordlyden «ikke beregnet på konsum»,når det gjelder husdyrgjødsel og innhold fra fordøyelseskanalen, ordet «husdyrgjødsel»,når det gjelder halvfabrikater, ordlyden «bare for legemidler/veterinærpreparater/medisinsk utstyr/aktive implanterbare medisinske innretninger/medisinsk utstyr til in vitro-diagnostikk/laboratoriereagenser» (påført på den ytre emballasjen),når det gjelder prøver til diagnostikk, ordlyden «for forskningsformål og diagnostiske formål» i stedet for teksten i bokstav a),når det gjelder vareprøver, ordlyden «vareprøve som ikke er beregnet på konsum» i stedet for teksten i bokstav a),
-► **M1**når det gjelder utstillingsvarer, ordene «utstillingsvare som ikke er beregnet på konsum» i stedet for teksten i bokstav a),når det gjelder fiskeolje til framstilling av legemidler nevnt i kapittel XIII i vedlegg XIII, ordene «fiskeolje til framstilling av legemidler» i stedet for teksten i bokstav a),
-◄ **M1**
-► **M4**når det gjelder husdyrgjødsel som har vært gjenstand for kalkbehandlingen fastsatt i nr. 1 i vedlegg IV kapittel IV avsnitt 2, ordlyden «blanding av husdyrgjødsel og kalk»,når det gjelder behandlet husdyrgjødsel som har vært gjenstand for behandlingen fastsatt i nr. 2 bokstav b) og c) i vedlegg XI kapittel I avsnitt 2, ordlyden «behandlet husdyrgjødsel».
-◄ **M4**
-►**M23**når det gjelder materialer for avgifting nevnt i vedlegg VIII kapittel VII, ordene: «Materialer for avgifting. Ikke egnet til omsetning.»
-◄**M23**Etiketten nevnt i bokstav b) xi) skal ikke kreves for følgende typer organisk gjødsel og jordforbedringsmidler:i salgsklar emballasje med en vekt på høyst 50 kg som skal brukes av sluttforbruker, elleri storsekker med en vekt på høyst 50 kg, forutsatt atde er godkjent av vedkommende myndighet i den medlemsstat der den organiske gjødselen eller jordforbedringsmiddelet skal spres,det på disse sekkene angis at de ikke er beregnet på spredning på jord som produksjonsdyr har adgang til.
+1. Alle nødvendige tiltak skal treffes for å sikre at
+
+   1. forsendelser av animalske biprodukter og avledede produkter kan identifiseres og holdes atskilt og forbli identifiserbare under innsamlingen på de animalske biproduktenes opprinnelsessted og under transporten,
+   2. et merkestoff for identifisering av animalske biprodukter eller avledede produkter i en særlig kategori bare brukes for den kategorien som det i henhold til denne forordning eller i henhold til nr. 4 skal brukes til,
+   3. forsendelser av animalske biprodukter og avledede produkter sendes fra en medlemsstat til en annen i emballasje, beholdere eller kjøretøyer som i det minste i transportperioden er tydelig merket med følgende fargekoder som ikke kan slettes, for å vise opplysninger, som fastsatt i denne forordning, på overflaten eller deler av overflaten av emballasje, beholdere eller kjøretøyer, eller på etiketter eller symboler festet på disse:
+
+      1. for materiale i kategori 1 svart farge,
+
+      ii) for materiale i kategori 2 (med unntak av husdyrgjødsel og innhold fra fordøyelseskanalen) gul farge,
+
+      1. for materiale i kategori 3 grønn farge med en høy andel av blå farge for å sikre at fargen tydelig kan skilles fra andre farger,
+      2. når det gjelder importerte forsendelser, anvendes den fargen som er angitt i nr. i)–iii) for det berørte materialet, fra det tidspunkt forsendelsen har passert den grensekontrollstasjonen der den først føres inn i Unionen.
+2. Under transport og lagring skal en etikett som er festet til emballasjen, beholderen eller kjøretøyet
+
+   1. tydelig angi hvilken kategori de animalske biproduktene eller avledede produktene tilhører, og
+   2. være tydelig merket med en lett leselig påskrift på emballasjen, beholderen eller kjøretøyet, etter det som er relevant:
+
+      1. når det gjelder materiale i kategori 3, ordlyden «ikke beregnet på konsum»,
+      2. når det gjelder materiale i kategori 2 (unntatt for husdyrgjødsel og mage- og tarminnhold) og avledede produkter fra kategori 2-materiale, ordlyden «ikke beregnet på fôr»; når materiale i kategori 2 imidlertid er beregnet på fôring av dyr i henhold til bestemmelsene i artikkel 18 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) på vilkår som er fastsatt i eller i samsvar med nevnte artikkel, skal etiketten ha ordlyden «til fôring av ...» i tillegg til navn på den eller de dyrearter som materialet er beregnet på,
+      3. når det gjelder kategori 1-materiale og avledede produkter fra kategori 1-materiale som er beregnet på
+
+         - disponering, «bare beregnet på disponering»,
+         - framstilling av fôr til kjæledyr, «bare til framstilling av fôr til kjæledyr»,
+         - framstilling av et avledet produkt i henhold til artikkel 36 i forordning [(EF) nr. 1069/2009](eu/32009r1069), «bare til framstilling av avledede produkter. Ikke beregnet på konsum, bruk som fôr eller spredning på jord»,
+      4. når det gjelder melk, melkebaserte produkter, produkter framstilt av melk, råmelk og råmelksprodukter, «ikke beregnet på konsum»,
+      5. når det gjelder gelatin framstilt av kategori 3-materiale, «gelatin egnet til fôr»,
+      6. når det gjelder kollagen framstilt av kategori 3-materiale, «kollagen egnet til fôr»,
+         ►**M23**
+      7. når det gjelder rått fôr til kjæledyr, «Brukes bare som fôr til kjæledyr. Oppbevares atskilt fra næringsmidler. Vask hender og rengjør verktøy, redskaper og overflater etter håndtering av dette produktet.»
+         ◄**M23**
+      8. når det gjelder fisk og avledede produkter fra fisk beregnet til fiskefôr, som behandles og emballeres før distribusjon, tydelig og lett leselig merking med navn og adresse til fôrprodusenten som produktene kommer fra, og
+
+         - når det gjelder fiskemel fra villfisk, påføres ordlyden «inneholder bare fiskemel av villfisk
+         - kan brukes som fôr til oppdrettsfisk av alle arter»,
+         - når det gjelder fiskemel fra oppdrettsfisk, påføres ordlyden «inneholder bare fiskemel av oppdrettsfisk av arten [...] – kan bare brukes som fôr til oppdrettsfisk av andre arter»,
+         - når det gjelder fiskemel fra villfisk og fra oppdrettsfisk, påføres ordlyden «inneholder fiskemel av villfisk og oppdrettsfisk av arten [...] – kan bare brukes som fôr til oppdrettsfisk av andre arter»,
+      9. når det gjelder blodprodukter fra dyr av hestefamilien for andre bruksformål enn i fôr, ordlyden «blod og blodprodukter fra dyr av hestefamilien. Ikke beregnet på konsum eller fôr»,
+      10. når det gjelder horn, hover/klover og annet materiale til framstilling av organisk gjødsel og jordforbedringsmidler i henhold til vedlegg XIV kapittel II avsnitt 12, ordlyden «ikke beregnet på konsum eller fôr»,
+      11. når det gjelder organisk gjødsel og jordforbedringsmidler, ordlyden «organisk gjødsel eller jordforbedringsmidler/produksjonsdyr skal ikke beite og ikke fôres med fôrvekster i minst 21 dager etter spredning»,
+      12. når det gjelder materiale som brukes til fôring i samsvar med vedlegg VI kapittel II avsnitt 1, navn og adresse til innsamlingssentralen, og ordlyden «ikke beregnet på konsum»,
+      13. når det gjelder husdyrgjødsel og innhold fra fordøyelseskanalen, ordet «husdyrgjødsel»,
+      14. når det gjelder halvfabrikater, ordlyden «bare for legemidler/veterinærpreparater/medisinsk utstyr/aktive implanterbare medisinske innretninger/medisinsk utstyr til in vitro-diagnostikk/laboratoriereagenser» (påført på den ytre emballasjen),
+      15. når det gjelder prøver til diagnostikk, ordlyden «for forskningsformål og diagnostiske formål» i stedet for teksten i bokstav a),
+      16. når det gjelder vareprøver, ordlyden «vareprøve som ikke er beregnet på konsum» i stedet for teksten i bokstav a),
+          ► **M1**
+      17. når det gjelder utstillingsvarer, ordene «utstillingsvare som ikke er beregnet på konsum» i stedet for teksten i bokstav a),
+      18. når det gjelder fiskeolje til framstilling av legemidler nevnt i kapittel XIII i vedlegg XIII, ordene «fiskeolje til framstilling av legemidler» i stedet for teksten i bokstav a),
+          ◄ **M1**
+          ► **M4**
+      19. når det gjelder husdyrgjødsel som har vært gjenstand for kalkbehandlingen fastsatt i nr. 1 i vedlegg IV kapittel IV avsnitt 2, ordlyden «blanding av husdyrgjødsel og kalk»,
+      20. når det gjelder behandlet husdyrgjødsel som har vært gjenstand for behandlingen fastsatt i nr. 2 bokstav b) og c) i vedlegg XI kapittel I avsnitt 2, ordlyden «behandlet husdyrgjødsel».
+          ◄ **M4**
+          ►**M23**
+      21. når det gjelder materialer for avgifting nevnt i vedlegg VIII kapittel VII, ordene: «Materialer for avgifting. Ikke egnet til omsetning.»
+          ◄**M23**
+   3. Etiketten nevnt i bokstav b) xi) skal ikke kreves for følgende typer organisk gjødsel og jordforbedringsmidler:
+
+      1. i salgsklar emballasje med en vekt på høyst 50 kg som skal brukes av sluttforbruker, eller
+      2. i storsekker med en vekt på høyst 50 kg, forutsatt at
+
+         - de er godkjent av vedkommende myndighet i den medlemsstat der den organiske gjødselen eller jordforbedringsmiddelet skal spres,
+         - det på disse sekkene angis at de ikke er beregnet på spredning på jord som produksjonsdyr har adgang til.
 3. Medlemsstatene kan innføre ordninger eller fastsette regler for fargekoding av emballasje, beholdere eller kjøretøyer som brukes til transport av animalske biprodukter og bearbeidede produkter med opprinnelse på deres territorium, og som blir der, forutsatt at disse ordningene eller reglene ikke forveksles med fargekodingssystemet som er fastsatt i nr. 1 bokstav c).
 4. Medlemsstatene kan innføre ordninger eller fastsette regler for merking av animalske biprodukter med opprinnelse på deres territorium, og som blir der, forutsatt at disse ordningene eller reglene ikke er i strid med kravene til merking som er fastsatt for avledede produkter i kapittel V i dette vedlegg.
 5. Som unntak fra nr. 3 og 4 kan medlemsstatene bruke ordningene eller reglene nevnt i disse numrene på animalske biprodukter med opprinnelse på deres territorium, men som ikke blir der, dersom bestemmelsesmedlemsstaten eller -tredjestaten har gitt sitt samtykke.
-6. Imidlertid gjelder følgende:Nr. 1 og 2 i dette kapittel får ikke anvendelse på identifisering av kategori 3-materiale som består av melk, melkebaserte produkter og produkter framstilt av melk, som foretas av driftsansvarlige for melkeforedlingsvirksomheter som er godkjent i samsvar med artikkel 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*), dersom de mottar produkter som de tidligere selv har levert og som returneres til dem, blant annet av kundene deres.Vedkommende myndighet kan som unntak fra nr. 1 og 2 godkjenne at husdyrgjødsel som transporteres mellom to steder i samme driftsenhet eller mellom driftsenheter og brukere i samme medlemsstat, identifiseres på andre måter.Fôrblandinger i henhold til artikkel 3 nr. 2 bokstav h) i forordning [(EF) nr. 767/2009](eu/32009r0767) som er framstilt av animalske biprodukter eller avledede produkter og som er emballert og brakt i omsetning som fôr i samsvar med artikkel 4 i nevnte forordning, er ikke omfattet av krav om identifisering i samsvar med nr. 1 og krav om merking i samsvar med nr. 2.
+6. Imidlertid gjelder følgende:
+
+   1. Nr. 1 og 2 i dette kapittel får ikke anvendelse på identifisering av kategori 3-materiale som består av melk, melkebaserte produkter og produkter framstilt av melk, som foretas av driftsansvarlige for melkeforedlingsvirksomheter som er godkjent i samsvar med artikkel 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*), dersom de mottar produkter som de tidligere selv har levert og som returneres til dem, blant annet av kundene deres.
+   2. Vedkommende myndighet kan som unntak fra nr. 1 og 2 godkjenne at husdyrgjødsel som transporteres mellom to steder i samme driftsenhet eller mellom driftsenheter og brukere i samme medlemsstat, identifiseres på andre måter.
+   3. Fôrblandinger i henhold til artikkel 3 nr. 2 bokstav h) i forordning [(EF) nr. 767/2009](eu/32009r0767) som er framstilt av animalske biprodukter eller avledede produkter og som er emballert og brakt i omsetning som fôr i samsvar med artikkel 4 i nevnte forordning, er ikke omfattet av krav om identifisering i samsvar med nr. 1 og krav om merking i samsvar med nr. 2.
 
 ### KAPITTEL III
 HANDELSDOKUMENTER OG HYGIENESERTIFIKATER
 
-1. Under transporten skal et handelsdokument i samsvar med modellen i dette kapittel, eller dersom denne forordning krever det, et hygienesertifikat følge de animalske biproduktene og avledede produktene.Et slikt dokument eller sertifikat skal imidlertid ikke kreves dersomprodukter framstilt av kategori 3-materiale og organisk gjødsel og jordforbedringsmidler leveres innenfor samme medlemsstat fra detaljister til andre sluttbrukere enn driftsansvarlige,melk, melkebaserte produkter og produkter framstilt av melk som er kategori 3-materiale, samles inn og returneres til driftsansvarlige for melkeforedlingsvirksomheter som er godkjent i samsvar med artikkel 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*), dersom de mottar produkter som de tidligere selv har levert og som returneres til dem, blant annet av kundene deres,fôrblandinger i henhold til artikkel 3 nr. 2 bokstav h) i forordning [(EF) nr. 767/2009](eu/32009r0767) som er framstilt av animalske biprodukter eller avledede produkter, bringes i omsetning emballert og merket i samsvar med artikkel 4 i forordning [(EF) nr. 767/2009](eu/32009r0767).
-2. Handelsdokumentet skal utarbeides i minst tre eksemplarer (en original og to kopier). Originalen skal følge forsendelsen til det endelige bestemmelsesstedet. Mottakeren skal oppbevare den. Produsenten skal oppbevare én av kopiene, og transportøren skal oppbevare den andre.Medlemsstatene kan kreve at det framlegges dokumentasjon for at sendingen er ankommet, gjennom TRACES-systemet eller med et fjerde eksemplar av handelsdokumentet, som mottakeren sender tilbake til produsenten.
+1. Under transporten skal et handelsdokument i samsvar med modellen i dette kapittel, eller dersom denne forordning krever det, et hygienesertifikat følge de animalske biproduktene og avledede produktene.
+
+   Et slikt dokument eller sertifikat skal imidlertid ikke kreves dersom
+
+   1. produkter framstilt av kategori 3-materiale og organisk gjødsel og jordforbedringsmidler leveres innenfor samme medlemsstat fra detaljister til andre sluttbrukere enn driftsansvarlige,
+   2. melk, melkebaserte produkter og produkter framstilt av melk som er kategori 3-materiale, samles inn og returneres til driftsansvarlige for melkeforedlingsvirksomheter som er godkjent i samsvar med artikkel 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*), dersom de mottar produkter som de tidligere selv har levert og som returneres til dem, blant annet av kundene deres,
+   3. fôrblandinger i henhold til artikkel 3 nr. 2 bokstav h) i forordning [(EF) nr. 767/2009](eu/32009r0767) som er framstilt av animalske biprodukter eller avledede produkter, bringes i omsetning emballert og merket i samsvar med artikkel 4 i forordning [(EF) nr. 767/2009](eu/32009r0767).
+2. Handelsdokumentet skal utarbeides i minst tre eksemplarer (en original og to kopier). Originalen skal følge forsendelsen til det endelige bestemmelsesstedet. Mottakeren skal oppbevare den. Produsenten skal oppbevare én av kopiene, og transportøren skal oppbevare den andre.
+
+   Medlemsstatene kan kreve at det framlegges dokumentasjon for at sendingen er ankommet, gjennom TRACES-systemet eller med et fjerde eksemplar av handelsdokumentet, som mottakeren sender tilbake til produsenten.
 3. Hygienesertifikatene skal utstedes og underskrives av vedkommende myndighet.
-4. Et handelsdokument i samsvar med modellen i nr. 6 skal følge animalske biprodukter og avledede produkter fra startpunktet i produksjonskjeden i henhold til artikkel 4 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), under transport i Unionen.Vedkommende myndighet kan imidlertid, i tillegg til å tillate at opplysninger oversendes gjennom et alternativt system som nevnt i artikkel 21 nr. 3 annet ledd i forordning [(EF) nr. 1069/2009](eu/32009r1069), tillate at animalske biprodukter og avledede produkter som transporteres på dens territorium, følges avet annet handelsdokument, på papir eller i elektronisk form, forutsatt at dette handelsdokumentet inneholder opplysningene som er angitt i bokstav f) i merknadene under nr. 6 i dette kapittel,et handelsdokument der mengden materiale uttrykkes som materialets vekt eller volum eller som antall kolli.
+4. Et handelsdokument i samsvar med modellen i nr. 6 skal følge animalske biprodukter og avledede produkter fra startpunktet i produksjonskjeden i henhold til artikkel 4 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), under transport i Unionen.
+
+   Vedkommende myndighet kan imidlertid, i tillegg til å tillate at opplysninger oversendes gjennom et alternativt system som nevnt i artikkel 21 nr. 3 annet ledd i forordning [(EF) nr. 1069/2009](eu/32009r1069), tillate at animalske biprodukter og avledede produkter som transporteres på dens territorium, følges av
+
+   1. et annet handelsdokument, på papir eller i elektronisk form, forutsatt at dette handelsdokumentet inneholder opplysningene som er angitt i bokstav f) i merknadene under nr. 6 i dette kapittel,
+   2. et handelsdokument der mengden materiale uttrykkes som materialets vekt eller volum eller som antall kolli.
 
 ►**M37**
 
-1. Registre og tilknyttede handelsdokumenter eller hygienesertifikater skal oppbevares i minst to år, slik at de kan framlegges for vedkommende myndighet.Denne plikten gjelder ikke hygienesertifikater for forsendelser av ubearbeidet husdyrgjødsel og handelsdokumenter for transport innenfor Den europeiske union av animalske biprodukter og avledede produkter som utstedes via TRACES.
+1. Registre og tilknyttede handelsdokumenter eller hygienesertifikater skal oppbevares i minst to år, slik at de kan framlegges for vedkommende myndighet.
+
+   Denne plikten gjelder ikke hygienesertifikater for forsendelser av ubearbeidet husdyrgjødsel og handelsdokumenter for transport innenfor Den europeiske union av animalske biprodukter og avledede produkter som utstedes via TRACES.
 
 ◄**M37**
 
 1. Modell for handelsdokument
-►**M27**
-2. Mal for hygienesertifikatMal for hygienesertifikat til bruk ved forflytning av animalske biprodukter fra restriksjonssoner som er opprettet for å forebygge og bekjempe visse listeførte sykdommer►**M37**[Pdf-fil](static/SF/sf-20160914-1064-32011r0142-v8-02-02.pdf).◄**M37**◄**M27**
+   ►**M27**
+2. Mal for hygienesertifikat
+
+   Mal for hygienesertifikat til bruk ved forflytning av animalske biprodukter fra restriksjonssoner som er opprettet for å forebygge og bekjempe visse listeførte sykdommer
+
+   ►**M37**
+
+   [Pdf-fil](static/SF/sf-20160914-1064-32011r0142-v8-02-02.pdf).
+
+   ◄**M37**
+
+   ◄**M27**
 
 *Merknader*
 
-1. Et handelsdokument skal utstedes i henhold til modellen i dette kapittel.Det skal inneholde, i den nummerrekkefølgen som er angitt i modellen, de attestasjonene som kreves for transport av animalske biprodukter og avledede produkter.
-2. Det skal utarbeides på ett av de offisielle språkene i opprinnelsesmedlemsstaten og i bestemmelsesmedlemsstaten, etter det som er hensiktsmessig.Det kan imidlertid også utarbeides på et annet offisielt språk i Unionen dersom det følges av en offisiell oversettelse, eller dersom dette er avtalt på forhånd med vedkommende myndighet i bestemmelsesmedlemsstaten.
+1. Et handelsdokument skal utstedes i henhold til modellen i dette kapittel.
+
+   Det skal inneholde, i den nummerrekkefølgen som er angitt i modellen, de attestasjonene som kreves for transport av animalske biprodukter og avledede produkter.
+2. Det skal utarbeides på ett av de offisielle språkene i opprinnelsesmedlemsstaten og i bestemmelsesmedlemsstaten, etter det som er hensiktsmessig.
+
+   Det kan imidlertid også utarbeides på et annet offisielt språk i Unionen dersom det følges av en offisiell oversettelse, eller dersom dette er avtalt på forhånd med vedkommende myndighet i bestemmelsesmedlemsstaten.
 3. Originalen av hvert handelsdokument skal bestå av ett enkelt ark med tekst på begge sider, eller dersom det er behov for mer tekst, være utformet slik at alle nødvendige ark utgjør en del av et integrert hele og ikke kan deles opp.
 4. Dersom det med tanke på identifisering av innholdet i forsendelsen er vedlagt tilleggsark til handelsdokumentet, skal disse arkene også anses som en del av originaldokumentet, og hver av sidene skal påføres underskriften til den ansvarlige for forsendelsen.
 5. Når handelsdokumentet, herunder eventuelle tilleggsark som nevnt i bokstav d), utgjør mer enn én side, skal hver side være nummerert – (sidenummer) av (totalt antall sider) – nederst på siden og være merket øverst på siden med det kodenummeret som den ansvarlige personen har tildelt dokumentet.
-6. Originalen av handelsdokumentet skal fylles ut og undertegnes av den ansvarlige personen.Handelsdokumentet skal angihvilken dato materialet ble transportert fra anlegget,en beskrivelse av materialet, herunderidentifisering av materialet i samsvar med en av kategoriene nevnt i artikkel 8–10 i forordning [(EF) nr. 1069/2009](eu/32009r1069),dyrearten og særskilt henvisning til det relevante punkt i artikkel 10 i forordning [(EF) nr. 1069/2009](eu/32009r1069) når det gjelder kategori 3-materiale og avledede produkter som er beregnet på bruk i fôr, ogeventuelt dyrets øremerkenummer,mengden materiale, uttrykt som materialets vekt eller volum eller som antall kolli,
-►**M16**Navn på og adresse til opprinnelsesvirksomheten eller -anlegget for materialet og godkjennings- eller registreringsnummeret tildelt i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) eller, eventuelt, i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852)1, [(EF) nr. 853/2004](eu/32004r0853)2 eller europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183)3 samt behandlingens art og metode, etter hva som er relevant.Navn på og adresse og registreringsnummer til transportøren av materialet.Navn på og adresse til bestemmelsesvirksomheten eller -anlegget og registrerings- eller godkjenningsnummeret tildelt i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) eller, eventuelt, i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852) eller [(EF) nr. 183/2005](eu/32005r0183).Ved transport i containere, containerens fullstendige identifikasjonsnummer («BIC-kode») utstedt i samsvar med kravene fastsatt av Bureau International des containers et du Transport intermodal4.Ved eksport av bearbeidet animalsk protein og produkter som inneholder bearbeidede animalske proteiner som nevnt i vedlegg IV til forordning [(EF) nr. 999/2001](eu/32001r0999), utførselsmedlemsstaten og grensekontrollstasjonen for utførsel nevnt i kommisjonsvedtak [2009/821/EF](eu/32009d0821)5. ◄**M16**
+6. Originalen av handelsdokumentet skal fylles ut og undertegnes av den ansvarlige personen.
+
+   Handelsdokumentet skal angi
+
+   1. hvilken dato materialet ble transportert fra anlegget,
+   2. en beskrivelse av materialet, herunder
+
+      - identifisering av materialet i samsvar med en av kategoriene nevnt i artikkel 8–10 i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+      - dyrearten og særskilt henvisning til det relevante punkt i artikkel 10 i forordning [(EF) nr. 1069/2009](eu/32009r1069) når det gjelder kategori 3-materiale og avledede produkter som er beregnet på bruk i fôr, og
+      - eventuelt dyrets øremerkenummer,
+   3. mengden materiale, uttrykt som materialets vekt eller volum eller som antall kolli,
+      ►**M16**
+   4. Navn på og adresse til opprinnelsesvirksomheten eller -anlegget for materialet og godkjennings- eller registreringsnummeret tildelt i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) eller, eventuelt, i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852)1, [(EF) nr. 853/2004](eu/32004r0853)2 eller europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183)3 samt behandlingens art og metode, etter hva som er relevant.
+   5. Navn på og adresse og registreringsnummer til transportøren av materialet.
+   6. Navn på og adresse til bestemmelsesvirksomheten eller -anlegget og registrerings- eller godkjenningsnummeret tildelt i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) eller, eventuelt, i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852) eller [(EF) nr. 183/2005](eu/32005r0183).
+   7. Ved transport i containere, containerens fullstendige identifikasjonsnummer («BIC-kode») utstedt i samsvar med kravene fastsatt av Bureau International des containers et du Transport intermodal4.
+   8. Ved eksport av bearbeidet animalsk protein og produkter som inneholder bearbeidede animalske proteiner som nevnt i vedlegg IV til forordning [(EF) nr. 999/2001](eu/32001r0999), utførselsmedlemsstaten og grensekontrollstasjonen for utførsel nevnt i kommisjonsvedtak [2009/821/EF](eu/32009d0821)5. ◄**M16**
 7. Den ansvarliges underskrift skal være i en annen farge enn den trykte teksten.
 8. Dokumentets referansenummer og det lokale referansenummeret skal utstedes bare én gang for samme forsendelse.
-►**M16**
+   ►**M16**
 9. Vedkommende myndighet med ansvar for bestemmelsesstedet nevnt i artikkel 48 nr. 3 annet ledd i forordning (EF) nr. 1069/2009 skal innen 15 virkedager etter mottak av opplysningene nevnt i artikkel 48 nr. 3 første ledd i nevnte forordning, underrette vedkommende myndighet i opprinnelsesmedlemsstaten om forsendelsens ankomst via TRACES. ◄**M16**
 
 ►**M37**
@@ -2579,7 +4612,26 @@ REGISTRE
 
 Alminnelige bestemmelser
 
-1. Registre som nevnt i artikkel 22 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) for animalske biprodukter og avledede produkter, unntatt fôrblandinger i henhold til artikkel 3 nr. 2 bokstav h) i forordning [(EF) nr. 767/2009](eu/32009r0767), som er framstilt av animalske biprodukter eller avledede produkter og som bringes i omsetning i samsvar med artikkel 4 i forordning [(EF) nr. 767/2009](eu/32009r0767), skal inneholde følgende:en beskrivelse avdyreartene for kategori 3-materiale og avledede produkter beregnet på bruk som fôrmidler og eventuelt, dersom det gjelder hele skrotter og hoder, øremerkenummer,mengden materiale,når det gjelder registre som føres av en person som sender animalske biprodukter eller avledede produkter, følgende opplysninger:hvilken dato materialet ble transportert fra anlegget,transportørens og mottakerens navn og adresse og eventuelt deres godkjenningsnummer eller registreringsnummer,når det gjelder registre som føres av en person som transporterer animalske biprodukter eller avledede produkter, følgende opplysninger:hvilken dato materialet ble transportert fra anlegget,materialets opprinnelsessted som det sendes fra,mottakerens navn og adresse og eventuelt godkjenningsnummer eller registreringsnummer,når det gjelder registre som føres av en person som mottar animalske biprodukter eller avledede produkter, følgende opplysninger:hvilken dato materialet ble mottatt,materialets opprinnelsessted som det sendes fra,transportørens navn og adresse.
+1. Registre som nevnt i artikkel 22 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) for animalske biprodukter og avledede produkter, unntatt fôrblandinger i henhold til artikkel 3 nr. 2 bokstav h) i forordning [(EF) nr. 767/2009](eu/32009r0767), som er framstilt av animalske biprodukter eller avledede produkter og som bringes i omsetning i samsvar med artikkel 4 i forordning [(EF) nr. 767/2009](eu/32009r0767), skal inneholde følgende:
+
+   1. en beskrivelse av
+
+      1. dyreartene for kategori 3-materiale og avledede produkter beregnet på bruk som fôrmidler og eventuelt, dersom det gjelder hele skrotter og hoder, øremerkenummer,
+      2. mengden materiale,
+   2. når det gjelder registre som føres av en person som sender animalske biprodukter eller avledede produkter, følgende opplysninger:
+
+      1. hvilken dato materialet ble transportert fra anlegget,
+      2. transportørens og mottakerens navn og adresse og eventuelt deres godkjenningsnummer eller registreringsnummer,
+   3. når det gjelder registre som føres av en person som transporterer animalske biprodukter eller avledede produkter, følgende opplysninger:
+
+      1. hvilken dato materialet ble transportert fra anlegget,
+      2. materialets opprinnelsessted som det sendes fra,
+      3. mottakerens navn og adresse og eventuelt godkjenningsnummer eller registreringsnummer,
+   4. når det gjelder registre som føres av en person som mottar animalske biprodukter eller avledede produkter, følgende opplysninger:
+
+      1. hvilken dato materialet ble mottatt,
+      2. materialets opprinnelsessted som det sendes fra,
+      3. transportørens navn og adresse.
 2. Som unntak fra nr. 1 i dette avsnitt kreves det ikke at driftsansvarlige holder opplysningene nevnt i nr. 1 bokstav a) og bokstav b) i), bokstav c) i) og iii) og bokstav d ii) og iii) atskilt, dersom de beholder en kopi av handelsdokumentet fastsatt i kapittel III for hver forsendelse og gjør disse opplysningene tilgjengelige i forbindelse med de andre opplysningene som kreves i nr. 1 i dette avsnitt.
 3. Driftsansvarlige for avfallsforbrennings- og samforbrenningsanlegg skal føre registre over de mengder og kategorier av animalske biprodukter og avledede produkter som gjennomgår avfallsforbrenning eller samforbrenning, etter det som er relevant, og hvilken dato disse aktivitetene ble utført.
 
@@ -2587,31 +4639,54 @@ Alminnelige bestemmelser
 
 Ytterligere krav ved bruk for særlige fôringsformål
 
-I tillegg til registrene som kreves i samsvar med avsnitt 1, skal driftsansvarlige føre følgende registre i forbindelse med relevant materiale dersom animalske biprodukter brukes for særlige fôringsformål i samsvar med vedlegg VI kapittel II:når det gjelder sluttbrukere, den mengden som er brukt, de dyrene det er beregnet som fôr til og datoen det ble brukt,når det gjelder innsamlingssentraler:mengden som er håndtert eller behandlet i samsvar med vedlegg VI kapittel I avsnitt 1 nr. 4,navnet og adressen til alle sluttbrukere som bruker materialet,lokalene materialet bringes til med sikte på bruk,avsendt mengde, ogdatoen da materialet ble sendt.
+I tillegg til registrene som kreves i samsvar med avsnitt 1, skal driftsansvarlige føre følgende registre i forbindelse med relevant materiale dersom animalske biprodukter brukes for særlige fôringsformål i samsvar med vedlegg VI kapittel II:
+
+1. når det gjelder sluttbrukere, den mengden som er brukt, de dyrene det er beregnet som fôr til og datoen det ble brukt,
+2. når det gjelder innsamlingssentraler:
+
+   1. mengden som er håndtert eller behandlet i samsvar med vedlegg VI kapittel I avsnitt 1 nr. 4,
+   2. navnet og adressen til alle sluttbrukere som bruker materialet,
+   3. lokalene materialet bringes til med sikte på bruk,
+   4. avsendt mengde, og
+   5. datoen da materialet ble sendt.
 
 ###### Avsnitt 3
 
 Krav som gjelder visse pelsdyr
 
-Den driftsansvarlige for driftsenheten nevnt i vedlegg II kapittel I skal som et minstekrav føre registre over følgende:antall pelser og skrotter av dyr som er fôret med materiale fra dyr av samme art, oghver forsendelse, for å sikre at materialet kan spores.
+Den driftsansvarlige for driftsenheten nevnt i vedlegg II kapittel I skal som et minstekrav føre registre over følgende:
+
+1. antall pelser og skrotter av dyr som er fôret med materiale fra dyr av samme art, og
+2. hver forsendelse, for å sikre at materialet kan spores.
 
 ###### Avsnitt 4
 
 Krav til spredning av visse typer organisk gjødsel og jordforbedringsmidler på jord
 
-Personen som har ansvar for jord der det spres organisk gjødsel og jordforbedringsmidler, unntatt materiale nevnt i vedlegg II kapittel II annet ledd, og som produksjonsdyr har adgang til eller som fôrvekster høstes fra for å brukes som fôr til produksjonsdyr, skal i minst to år oppbevare registre over følgende:hvilke mengder organisk gjødsel og jordforbedringsmidler som er brukt,hvilken dato organisk gjødsel og jordforbedringsmidler ble spredt på jord, og hvor det ble spredt,hvilke datoer dyrene etter spredning av organisk gjødsel og jordforbedringsmidler har kunnet beite på jorden eller hvilke datoer fôrvekster er høstet fra jorden med sikte på fôring.
+Personen som har ansvar for jord der det spres organisk gjødsel og jordforbedringsmidler, unntatt materiale nevnt i vedlegg II kapittel II annet ledd, og som produksjonsdyr har adgang til eller som fôrvekster høstes fra for å brukes som fôr til produksjonsdyr, skal i minst to år oppbevare registre over følgende:
+
+1. hvilke mengder organisk gjødsel og jordforbedringsmidler som er brukt,
+2. hvilken dato organisk gjødsel og jordforbedringsmidler ble spredt på jord, og hvor det ble spredt,
+3. hvilke datoer dyrene etter spredning av organisk gjødsel og jordforbedringsmidler har kunnet beite på jorden eller hvilke datoer fôrvekster er høstet fra jorden med sikte på fôring.
 
 ###### Avsnitt 5
 
 Krav til animalske biprodukter framstilt av vanndyr og til fôring av fisk
 
-Bearbeidingsanlegg som framstiller fiskemel eller annet fôr fra vanndyr, skal føre registre over følgende:framstilt mengde per dag,opprinnelsesart, herunder opplysning om vanndyrene er fanget i sitt naturlige miljø eller stammer fra akvakultur,når det gjelder fiskemel fra oppdrettsfisk som er beregnet brukt som fôr til oppdrettsfisk av en annen art, opprinnelsesartens vitenskapelige navn.
+Bearbeidingsanlegg som framstiller fiskemel eller annet fôr fra vanndyr, skal føre registre over følgende:
+
+1. framstilt mengde per dag,
+2. opprinnelsesart, herunder opplysning om vanndyrene er fanget i sitt naturlige miljø eller stammer fra akvakultur,
+3. når det gjelder fiskemel fra oppdrettsfisk som er beregnet brukt som fôr til oppdrettsfisk av en annen art, opprinnelsesartens vitenskapelige navn.
 
 ###### Avsnitt 6
 
 Krav til forbrenning og nedgraving av animalske biprodukter
 
-Ved forbrenning eller nedgraving av animalske biprodukter som fastsatt i artikkel 19 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal personen som har ansvar for forbrenningen eller nedgravingen, føre register over følgende:hvilke mengder, kategorier og arter av animalske biprodukter som er gravd ned eller forbrent,dato og sted for nedgraving og forbrenning.
+Ved forbrenning eller nedgraving av animalske biprodukter som fastsatt i artikkel 19 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal personen som har ansvar for forbrenningen eller nedgravingen, føre register over følgende:
+
+1. hvilke mengder, kategorier og arter av animalske biprodukter som er gravd ned eller forbrent,
+2. dato og sted for nedgraving og forbrenning.
 
 ###### Avsnitt 7
 
@@ -2622,14 +4697,31 @@ Driftsansvarlige for godkjente fotovirksomheter i henhold til vedlegg XIV kapitt
 ### KAPITTEL V
 MERKING AV VISSE AVLEDEDE PRODUKTER
 
-1. I bearbeidingsanlegg for kategori 1- eller 2-materiale skal avledede produkter merkes permanent med glyceroltriheptanoate (GTH) på en slik måte atGTH tilsettes avledede produkter som på forhånd er desinfisert ved varmebehandling med en kjernetemperatur på minst 80 °C, og som deretter er beskyttet fra rekontaminering,alle avledede produkter inneholder en homogen konsentrasjon av GTH på minst 250 mg per kg fett.
-2. Driftsansvarlige for bearbeidingsanlegg som nevnt i nr. 1 skal ha innført et system for overvåking og registrering av parametrer som er egnet til å godtgjøre overfor vedkommende myndigheter at den påkrevde homogene minstekonsentrasjonen av GTH oppnås.Overvåkings- og registreringssystemet skal blant annet omfatte bestemmelse av innholdet av intakt GTH som triglycerid i et renset GTH-ekstrakt, som er ekstrahert med petroleumseter 40–70 fra prøver som er tatt med jevne mellomrom.
-3. Merking med GTH skal ikke kreves forflytende avledede produkter beregnet på biogass- eller komposteringsanlegg,avledede produkter som brukes til fôring av pelsdyr i samsvar med vedlegg II kapittel I,biodiesel framstilt i samsvar med vedlegg IV kapittel IV avsnitt 2 bokstav D,avledede produkter framstilt i samsvar med artikkel 12 bokstav a) ii) og bokstav b) ii), artikkel 13 bokstav a) ii) og bokstav b) ii) og artikkel 16 bokstav e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), dersom disse produkteneflyttes ved et lukket transportsystem som ikke kan omgås, og som er godkjent av vedkommende myndighet, fra bearbeidingsanlegget forumiddelbar direkte avfallsforbrenning eller samforbrenning,umiddelbar bruk i samsvar med en metode som er godkjent for animalske biprodukter av kategori 1- og 2-material i henhold til vedlegg IV kapittel IV, eller
-► **M1**er beregnet på forskning og andre særskilte formål som nevnt i artikkel 17 i forordning [(EF) nr. 1069/2009](eu/32009r1069), som er godkjent av vedkommende myndighet,
-► **M13**fornybare drivstoffer framstilt av smeltet fett fra kategori 1- og kategori 2-materiale, i samsvar med vedlegg IV kapittel IV avsnitt 2 punkt J og L.
-◄ **M13**
-◄ **M1**
-► **M4**
+1. I bearbeidingsanlegg for kategori 1- eller 2-materiale skal avledede produkter merkes permanent med glyceroltriheptanoate (GTH) på en slik måte at
+
+   1. GTH tilsettes avledede produkter som på forhånd er desinfisert ved varmebehandling med en kjernetemperatur på minst 80 °C, og som deretter er beskyttet fra rekontaminering,
+   2. alle avledede produkter inneholder en homogen konsentrasjon av GTH på minst 250 mg per kg fett.
+2. Driftsansvarlige for bearbeidingsanlegg som nevnt i nr. 1 skal ha innført et system for overvåking og registrering av parametrer som er egnet til å godtgjøre overfor vedkommende myndigheter at den påkrevde homogene minstekonsentrasjonen av GTH oppnås.
+
+   Overvåkings- og registreringssystemet skal blant annet omfatte bestemmelse av innholdet av intakt GTH som triglycerid i et renset GTH-ekstrakt, som er ekstrahert med petroleumseter 40–70 fra prøver som er tatt med jevne mellomrom.
+3. Merking med GTH skal ikke kreves for
+
+   1. flytende avledede produkter beregnet på biogass- eller komposteringsanlegg,
+   2. avledede produkter som brukes til fôring av pelsdyr i samsvar med vedlegg II kapittel I,
+   3. biodiesel framstilt i samsvar med vedlegg IV kapittel IV avsnitt 2 bokstav D,
+   4. avledede produkter framstilt i samsvar med artikkel 12 bokstav a) ii) og bokstav b) ii), artikkel 13 bokstav a) ii) og bokstav b) ii) og artikkel 16 bokstav e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), dersom disse produktene
+
+      1. flyttes ved et lukket transportsystem som ikke kan omgås, og som er godkjent av vedkommende myndighet, fra bearbeidingsanlegget for
+
+         - umiddelbar direkte avfallsforbrenning eller samforbrenning,
+         - umiddelbar bruk i samsvar med en metode som er godkjent for animalske biprodukter av kategori 1- og 2-material i henhold til vedlegg IV kapittel IV, eller
+           ► **M1**
+      2. er beregnet på forskning og andre særskilte formål som nevnt i artikkel 17 i forordning [(EF) nr. 1069/2009](eu/32009r1069), som er godkjent av vedkommende myndighet,
+         ► **M13**
+   5. fornybare drivstoffer framstilt av smeltet fett fra kategori 1- og kategori 2-materiale, i samsvar med vedlegg IV kapittel IV avsnitt 2 punkt J og L.
+      ◄ **M13**
+      ◄ **M1**
+      ► **M4**
 
 ### KAPITTEL VI
 TRANSPORT AV DØDE KJÆLEDYR
@@ -2641,7 +4733,9 @@ Vilkårene i artikkel 48 nr. 1–3 i forordning [(EF) nr. 1069/2009](eu/32009r10
 ### ►**M22** KAPITTEL VII
 TRANSPORT AV FISKEOLJER OG FISKEMEL BEREGNET PÅ PRODUKSJON AV FÔRMIDLER TIL ET ANLEGG FOR AVGIFTING
 
-1\. Driftsansvarlige som har til hensikt å transportere fiskeoljer og fiskemel av kategori 3-materialer beregnet på produksjon av fôr fra et bearbeidingsanlegg som er godkjent for produksjon av fiskeoljer og fiskemel, til et fôrproduksjonsanlegg som er registrert eller godkjent i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) og godkjent i samsvar med artikkel 10 nr. 3 i forordning (EF) nr. 183/2005, i en annen medlemsstat for avgifting i samsvar med prosessene nevnt i forordning [(EU) 2015/786](eu/32015r0786), skal søke om godkjenning av forsendelsen fra den vedkommende myndigheten på bestemmelsesstedet.Søknaden skal være i standardformatet for søknader og godkjenninger fastsatt i kapittel III avsnitt 10 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142).
+1\. Driftsansvarlige som har til hensikt å transportere fiskeoljer og fiskemel av kategori 3-materialer beregnet på produksjon av fôr fra et bearbeidingsanlegg som er godkjent for produksjon av fiskeoljer og fiskemel, til et fôrproduksjonsanlegg som er registrert eller godkjent i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) og godkjent i samsvar med artikkel 10 nr. 3 i forordning (EF) nr. 183/2005, i en annen medlemsstat for avgifting i samsvar med prosessene nevnt i forordning [(EU) 2015/786](eu/32015r0786), skal søke om godkjenning av forsendelsen fra den vedkommende myndigheten på bestemmelsesstedet.
+
+Søknaden skal være i standardformatet for søknader og godkjenninger fastsatt i kapittel III avsnitt 10 i vedlegg XIV til forordning [(EU) nr. 142/2011](eu/32011r0142).
 
 2\. Den vedkommende myndigheten i bestemmelsesmedlemsstaten nevnt i nr. 1 skal underrette den driftsansvarlige om sin beslutning om forsendelsen ved å returnere søknaden nevnt i nr. 1 annet ledd korrekt utfylt.
 
@@ -2655,12 +4749,25 @@ KRAV SOM GJELDER VISSE GODKJENTE OG REGISTRERTE VIRKSOMHETER OG ANLEGG
 ### KAPITTEL I
 FRAMSTILLING AV FÔR TIL KJÆLEDYR
 
-Virksomheter eller anlegg som framstiller fôr til kjæledyr som nevnt i artikkel 24 nr. 1 bokstav e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal ha egnet utstyr tilå lagre og behandle innkommende materiale på en fullstendig sikker måte, ogå disponere ubrukte animalske biprodukter som gjenstår etter framstillingen av produktene i samsvar med denne forordning, eller de skal sende dette materialet til et avfallsforbrennings-, samforbrennings- eller bearbeidingsanlegg eller, når det gjelder kategori 3-materiale, til et biogass- eller komposteringsanlegg i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og med denne forordning.
+Virksomheter eller anlegg som framstiller fôr til kjæledyr som nevnt i artikkel 24 nr. 1 bokstav e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal ha egnet utstyr til
+
+1. å lagre og behandle innkommende materiale på en fullstendig sikker måte, og
+2. å disponere ubrukte animalske biprodukter som gjenstår etter framstillingen av produktene i samsvar med denne forordning, eller de skal sende dette materialet til et avfallsforbrennings-, samforbrennings- eller bearbeidingsanlegg eller, når det gjelder kategori 3-materiale, til et biogass- eller komposteringsanlegg i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og med denne forordning.
 
 ### KAPITTEL II
 HÅNDTERING AV ANIMALSKE BIPRODUKTER ETTER INNSAMLING
 
-Kravene i dette kapittel får anvendelse på lagring av animalske biprodukter som nevnt i artikkel 24 nr. 1 i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) og på følgende aktiviteter som innebærer håndtering av animalske biprodukter etter innsamling, som nevnt i artikkel 24 nr. 1 bokstav h) i nevnte forordning:sortering,oppdeling,kjøling,innfrysing,salting eller annen konservering,fjerning av huder og skinn,fjerning av spesifisert risikomateriale,aktiviteter som omfatter håndtering av animalske biprodukter og som utføres i samsvar med forpliktelsene i henhold til Unionens veterinærregelverk, for eksempel post mortem-kontroll eller prøvetaking,hygienisering/pasteurisering av animalske biprodukter beregnet på omdanning til biogass eller kompostering, før slik omdanning eller kompostering i en annen virksomhet eller et annet anlegg i samsvar med vedlegg V til denne forordning,
+Kravene i dette kapittel får anvendelse på lagring av animalske biprodukter som nevnt i artikkel 24 nr. 1 i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) og på følgende aktiviteter som innebærer håndtering av animalske biprodukter etter innsamling, som nevnt i artikkel 24 nr. 1 bokstav h) i nevnte forordning:
+
+1. sortering,
+2. oppdeling,
+3. kjøling,
+4. innfrysing,
+5. salting eller annen konservering,
+6. fjerning av huder og skinn,
+7. fjerning av spesifisert risikomateriale,
+8. aktiviteter som omfatter håndtering av animalske biprodukter og som utføres i samsvar med forpliktelsene i henhold til Unionens veterinærregelverk, for eksempel post mortem-kontroll eller prøvetaking,
+9. hygienisering/pasteurisering av animalske biprodukter beregnet på omdanning til biogass eller kompostering, før slik omdanning eller kompostering i en annen virksomhet eller et annet anlegg i samsvar med vedlegg V til denne forordning,
 
 ►**M23**
 
@@ -2673,7 +4780,14 @@ Kravene i dette kapittel får anvendelse på lagring av animalske biprodukter so
 
 Alminnelige krav
 
-1. Lokaler og utstyr der mellombehandling utføres, skal oppfylle minst følgende krav:De skal være tilstrekkelig atskilt fra gjennomfartsveier som kan føre til spredning av kontaminering, og fra andre lokaler som for eksempel slakterier. Anleggets utforming skal sikre at kategori 1- og 2-materiale holdes helt atskilt fra kategori 3-materiale fra mottak til avsendelse, med mindre det anvendes en helt atskilt bygning.Anlegget skal ha et overdekket område til mottak og avsendelse av animalske biprodukter, med mindre de animalske biproduktene losses gjennom installasjoner som hindrer spredning av risiko for folkehelsen og dyrehelsen, for eksempel gjennom lukkede rør for flytende animalske biprodukter.Anlegget skal være utformet slik at det er lett å rengjøre og desinfisere. Gulvene skal være utformet slik at væske er lett å lede bort.Anlegget skal være tilstrekkelig utstyrt med toaletter, garderober, håndvasker for personalet og eventuelt kontorlokaler som kan stilles til rådighet for personale som foretar offentlig kontroll.Anlegget skal være utstyrt med egnede innretninger for vern mot skadedyr, som insekter, gnagere og fugler.Der dette er nødvendig for å nå målene i denne forordning, skal anleggene ha egnede temperaturkontrollerte lagringssteder med tilstrekkelig kapasitet til å opprettholde riktig temperatur for de animalske biproduktene, samtidig som de skal være utformet slik at temperaturene kan overvåkes og registreres.
+1. Lokaler og utstyr der mellombehandling utføres, skal oppfylle minst følgende krav:
+
+   1. De skal være tilstrekkelig atskilt fra gjennomfartsveier som kan føre til spredning av kontaminering, og fra andre lokaler som for eksempel slakterier. Anleggets utforming skal sikre at kategori 1- og 2-materiale holdes helt atskilt fra kategori 3-materiale fra mottak til avsendelse, med mindre det anvendes en helt atskilt bygning.
+   2. Anlegget skal ha et overdekket område til mottak og avsendelse av animalske biprodukter, med mindre de animalske biproduktene losses gjennom installasjoner som hindrer spredning av risiko for folkehelsen og dyrehelsen, for eksempel gjennom lukkede rør for flytende animalske biprodukter.
+   3. Anlegget skal være utformet slik at det er lett å rengjøre og desinfisere. Gulvene skal være utformet slik at væske er lett å lede bort.
+   4. Anlegget skal være tilstrekkelig utstyrt med toaletter, garderober, håndvasker for personalet og eventuelt kontorlokaler som kan stilles til rådighet for personale som foretar offentlig kontroll.
+   5. Anlegget skal være utstyrt med egnede innretninger for vern mot skadedyr, som insekter, gnagere og fugler.
+   6. Der dette er nødvendig for å nå målene i denne forordning, skal anleggene ha egnede temperaturkontrollerte lagringssteder med tilstrekkelig kapasitet til å opprettholde riktig temperatur for de animalske biproduktene, samtidig som de skal være utformet slik at temperaturene kan overvåkes og registreres.
 2. Anlegget skal ha egnet utstyr til rengjøring og desinfisering av de containerne eller beholderne som de animalske biproduktene mottas i, og de transportmidlene, med unntak av skip, som de transporteres i. Egnet utstyr til desinfisering av hjulene på kjøretøyer skal være tilgjengelig.
 
 ###### Avsnitt 2
@@ -2697,7 +4811,20 @@ KRAV TIL LAGRING AV AVLEDEDE PRODUKTER
 
 Alminnelige krav
 
-Lokaler og utstyr for lagring av avledede produkter skal oppfylle minst følgende krav:Lokaler og utstyr der avledede produkter framstilt av kategori 3-materiale lagres, skal ikke befinne seg på samme sted som lokaler der avledede produkter framstilt av kategori 1- eller 2-materiale lagres, med mindre krysskontaminering hindres på grunn av lokalenes utforming og forvaltning, for eksempel gjennom lagring i helt atskilte bygninger.Anlegget skalha et overdekket område til mottak og avsendelse av de avledede produktene, med mindre delosses gjennom installasjoner som hindrer spredning av risiko for folkehelsen og dyrehelsen, for eksempel gjennom lukkede rør for flytende produkter, ellermottas i emballasje, for eksempel i store sekker, eller i overdekkede, lekkasjesikre beholdere eller transportmidler,være utformet slik at det er lett å rengjøre og desinfisere. Gulvene skal være utformet slik at væske er lett å lede bort,være tilstrekkelig utstyrt med toaletter, garderober og håndvasker for personalet,være utstyrt med egnede innretninger for vern mot skadedyr, som insekter, gnagere og fugler.Anlegget skal ha egnet utstyr til rengjøring og desinfisering av de containerne eller beholderne som de avledede produktene mottas i, og de transportmidlene, med unntak av skip, som de transporteres i.Før de sendes videre, skal avledede produkter lagres på en hensiktsmessig måte.
+Lokaler og utstyr for lagring av avledede produkter skal oppfylle minst følgende krav:
+
+1. Lokaler og utstyr der avledede produkter framstilt av kategori 3-materiale lagres, skal ikke befinne seg på samme sted som lokaler der avledede produkter framstilt av kategori 1- eller 2-materiale lagres, med mindre krysskontaminering hindres på grunn av lokalenes utforming og forvaltning, for eksempel gjennom lagring i helt atskilte bygninger.
+2. Anlegget skal
+
+   1. ha et overdekket område til mottak og avsendelse av de avledede produktene, med mindre de
+
+      1. losses gjennom installasjoner som hindrer spredning av risiko for folkehelsen og dyrehelsen, for eksempel gjennom lukkede rør for flytende produkter, eller
+      2. mottas i emballasje, for eksempel i store sekker, eller i overdekkede, lekkasjesikre beholdere eller transportmidler,
+   2. være utformet slik at det er lett å rengjøre og desinfisere. Gulvene skal være utformet slik at væske er lett å lede bort,
+   3. være tilstrekkelig utstyrt med toaletter, garderober og håndvasker for personalet,
+   4. være utstyrt med egnede innretninger for vern mot skadedyr, som insekter, gnagere og fugler.
+3. Anlegget skal ha egnet utstyr til rengjøring og desinfisering av de containerne eller beholderne som de avledede produktene mottas i, og de transportmidlene, med unntak av skip, som de transporteres i.
+4. Før de sendes videre, skal avledede produkter lagres på en hensiktsmessig måte.
 
 ###### Avsnitt 2
 
@@ -2709,9 +4836,18 @@ Særlige krav til lagring av visse typer melk, melkebaserte produkter og produkt
 ### KAPITTEL IV
 REGISTRERTE DRIFTSANSVARLIGE
 
-1. Driftsansvarlige for registrerte anlegg eller virksomheter eller andre registrerte driftsansvarlige skal håndtere animalske biprodukter og avledede produkter på følgende vilkår:lokalene skal være utformet på en måte som muliggjør effektiv rengjøring og desinfisering ved behov,lokalene skal være utstyrt med egnede innretninger for vern mot skadedyr, som insekter, gnagere og fugler,installasjoner og utstyr skal om nødvendig oppbevares under hygieniske forhold,animalske biprodukter og avledede produkter skal lagres under forhold som hindrer kontaminering.
+1. Driftsansvarlige for registrerte anlegg eller virksomheter eller andre registrerte driftsansvarlige skal håndtere animalske biprodukter og avledede produkter på følgende vilkår:
+
+   1. lokalene skal være utformet på en måte som muliggjør effektiv rengjøring og desinfisering ved behov,
+   2. lokalene skal være utstyrt med egnede innretninger for vern mot skadedyr, som insekter, gnagere og fugler,
+   3. installasjoner og utstyr skal om nødvendig oppbevares under hygieniske forhold,
+   4. animalske biprodukter og avledede produkter skal lagres under forhold som hindrer kontaminering.
 2. Driftsansvarlige skal føre registre i en form som er tilgjengelig for vedkommende myndighet.
-3. Registrerte driftsansvarlige som transporterer animalske biprodukter eller avledede produkter, skal, med mindre transporten skjer mellom den driftsansvarliges egne lokaler, særligha tilgang til opplysninger om identifisering av kjøretøyene, som gjør det mulig å kontrollere bruken av kjøretøyene til transport av animalske biprodukter eller avledede produkter,rengjøre og desinfisere kjøretøyene ved behov,treffe alle andre nødvendige tiltak for å hindre kontaminering og spredning av sykdommer som kan overføres til mennesker eller dyr.
+3. Registrerte driftsansvarlige som transporterer animalske biprodukter eller avledede produkter, skal, med mindre transporten skjer mellom den driftsansvarliges egne lokaler, særlig
+
+   1. ha tilgang til opplysninger om identifisering av kjøretøyene, som gjør det mulig å kontrollere bruken av kjøretøyene til transport av animalske biprodukter eller avledede produkter,
+   2. rengjøre og desinfisere kjøretøyene ved behov,
+   3. treffe alle andre nødvendige tiltak for å hindre kontaminering og spredning av sykdommer som kan overføres til mennesker eller dyr.
 
 ► **M9**
 
@@ -2744,7 +4880,10 @@ Vedkommende myndighet i den berørte medlemsstaten skal sikre at materialet ette
 
 2.*Utgangsmateriale*
 
-Til denne prosessen skal bare følgende materiale fra svin anvendes:Kategori 2-materiale nevnt i artikkel 9 bokstav f) i) til iii) i forordning [(EF) nr. 1069/2009](eu/32009r1069),Kategori 3-materiale nevnt i artikkel 10 bokstav h) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+Til denne prosessen skal bare følgende materiale fra svin anvendes:
+
+1. Kategori 2-materiale nevnt i artikkel 9 bokstav f) i) til iii) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+2. Kategori 3-materiale nevnt i artikkel 10 bokstav h) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
 
 Denne metoden kan bare brukes til disponering av svin fra samme driftsenhet under forutsetning av at denne driftsenheten ikke er omfattet av restriksjoner som følge av mistanke om eller bekreftet utbrudd av en alvorlig sykdom som kan overføres til svin. Denne metoden kan ikke brukes for dyr som er døde som en følge av denne type sykdom eller er avlivet for å bekjempe sykdom eller for deler av slike dyr.
 
@@ -2756,7 +4895,11 @@ Metoden er en prosess som er godkjent av vedkommende myndighet.
 
 Stedet skal være konstruert og utformet i samsvar med Unionens regelverk for miljøvern for å hindre lukt og forebygge risiko for grunn og grunnvann.
 
-Den driftsansvarlige skaltreffe forebyggende tiltak mot dyrs tilgang og innføre et dokumentert program for skadedyrbekjempelse,innføre framgangsmåter for å hindre spredning av sykdommer,innføre framgangsmåter for å hindre spredning av brukt sagflis utenfor det lukkede systemet.
+Den driftsansvarlige skal
+
+1. treffe forebyggende tiltak mot dyrs tilgang og innføre et dokumentert program for skadedyrbekjempelse,
+2. innføre framgangsmåter for å hindre spredning av sykdommer,
+3. innføre framgangsmåter for å hindre spredning av brukt sagflis utenfor det lukkede systemet.
 
 Prosessen skal gjennomføres i et lukket system som består av flere kamre med vanntett gulv og avgrenset med massive vegger. Alt spillvann skal samles opp, kamrene skal forbindes med et avløpsrør med en 6 mm rist for å fange opp faste partikler.
 
@@ -2780,7 +4923,10 @@ Driftsansvarlig skal registrere den elektroniske avlesningen og overvåkingen av
 
 På slutten av oppfyllings- og lagringsfasen er temperaturovervåkingen en indikator på om stabelen er bygd opp på en tilfredsstillende måte. Temperaturen skal måles med et automatisk registreringsutstyr. Målet er å nå 55 °C i tre påfølgende dager, noe som viser at modningsprosessen er i gang, at stabelen er bygd opp på en effektiv måte, og at modningsfasen har startet.
 
-Driftsansvarlig skal overvåke temperaturen en gang om dagen, og følgende tiltak skal iverksettes avhengig av resultatet av målingene:Dersom temperaturen er 55 °C eller høyere i tre påfølgende dager, kan stabelen fjernes etter en tre måneders sammenhengende modningsfase eller forbli lagret på området i påvente av å bli fjernet senere.Dersom temperaturen ikke når 55 °C i tre påfølgende dager, må tiltak definert i den permanente skriftlige framgangsmåten nevnt i artikkel 29 nr. 1) til 3) i forordning [(EF) nr. 1069/2009](eu/32009r1069) iverksettes av driftsansvarlig; vedkommende myndighet kan om nødvendig stoppe bearbeidingsmetoden, og materiale må disponeres i samsvar med artikkel 13 i nevnte forordning.
+Driftsansvarlig skal overvåke temperaturen en gang om dagen, og følgende tiltak skal iverksettes avhengig av resultatet av målingene:
+
+1. Dersom temperaturen er 55 °C eller høyere i tre påfølgende dager, kan stabelen fjernes etter en tre måneders sammenhengende modningsfase eller forbli lagret på området i påvente av å bli fjernet senere.
+2. Dersom temperaturen ikke når 55 °C i tre påfølgende dager, må tiltak definert i den permanente skriftlige framgangsmåten nevnt i artikkel 29 nr. 1) til 3) i forordning [(EF) nr. 1069/2009](eu/32009r1069) iverksettes av driftsansvarlig; vedkommende myndighet kan om nødvendig stoppe bearbeidingsmetoden, og materiale må disponeres i samsvar med artikkel 13 i nevnte forordning.
 
 En frist for lagringsfasen kan fastsettes av vedkommende myndighet.
 
@@ -2800,7 +4946,10 @@ Vedkommende myndighet som gir tillatelse, skal sikre at materialet etter hydroly
 
 2.*Utgangsmateriale*
 
-Til denne prosessen skal bare følgende materiale fra svin, fjørfe eller oppdrettsharedyr brukes:Kategori 2-materiale nevnt i artikkel 9 bokstav f) i), ii) og iii) i forordning [(EF) nr. 1069/2009](eu/32009r1069).Kategori 3-materiale nevnt i artikkel 10 bokstav h) i samme forordning.
+Til denne prosessen skal bare følgende materiale fra svin, fjørfe eller oppdrettsharedyr brukes:
+
+1. Kategori 2-materiale nevnt i artikkel 9 bokstav f) i), ii) og iii) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+2. Kategori 3-materiale nevnt i artikkel 10 bokstav h) i samme forordning.
 
 Denne metoden skal bare brukes til sluttbehandling av svin, fjørfe eller oppdrettsharedyr fra samme driftsenhet, under forutsetning av at denne driftsenheten ikke er omfattet av et forbud som følge av mistanke om eller bekreftet utbrudd av en alvorlig smittsom sykdom som rammer svin, fjørfe eller oppdrettsharedyr, og at dyr ikke er blitt avlivet for å bekjempe sykdom.
 
@@ -2809,7 +4958,37 @@ Denne metoden skal bare brukes til sluttbehandling av svin, fjørfe eller oppdre
 
 3.*Metode*
 
-Hydrolyse med etterfølgende disponering innebærer en midlertidig lagring på stedet. Den skal skje i samsvar med følgende standarder:På en driftsenhet som av vedkommende myndighet har fått tillatelse til å anvende bearbeidingsmetoden på grunnlag av en vurdering av dyretettheten på driftsenheten, den sannsynlige dødelighetsraten og den mulige risikoen for folkehelsen og dyrehelsen, skal de animalske biproduktene etter innsamling plasseres i en beholder som er konstruert i samsvar med bokstav b) (heretter kalt «beholderen») og som er plassert på et særskilt sted i samsvar med bokstav c) og d) (heretter kalt «det særskilte stedet»).Beholderen skalha en lukkeinnretning,være vanntett, lekkasjesikker og hermetisk lukket,ha et belegg som hindrer korrosjon,være utstyrt med en innretning som styrer utslipp, i samsvar med bokstav e).Beholderen skal være plassert på et særskilt sted som er fysisk atskilt fra driftsenheten.Dette stedet skal ha særskilte atkomstveier for flytting av materiale og for innsamlingskjøretøyer.Beholderen og stedet skal være konstruert og utformet i samsvar med Unionens regelverk for miljøvern, med sikte på å hindre lukt og forebygge risiko for grunn og grunnvann.Beholderen skal være knyttet til et rør for gassutslipp, som skal være utstyrt med egnede filtre for å forebygge spredning av sykdommer som kan overføres til mennesker og dyr.Beholderen skal være lukket under hydrolyseprosessen i minst tre måneder, på en slik måte at den ikke kan åpnes av uvedkommende.Den driftsansvarlige skal innføre framgangsmåter for å hindre at personalets bevegelser fører til spredning av sykdommer som kan overføres til mennesker eller dyr.Den driftsansvarlige skaltreffe forebyggende tiltak mot fugler, gnagere, insekter og andre skadedyr,innføre et dokumentert program for skadedyrbekjempelse.Den driftsansvarlige skal føre register overalt materiale som legges i beholderen,all innsamling av hydrolisert materiale fra beholderen.Den driftsansvarlige skal regelmessig tømme beholderen med sikte på kontrollav at det ikke forekommer korrosjon,for å påvise og hindre at flytende materiale lekker ut i grunnen.Etter hydrolysen skal materialet samles inn, brukes og disponeres i samsvar med artikkel 13 bokstav a), b) og c) eller artikkel 13 bokstav e) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) eller artikkel 14 i nevnte forordning for kategori 3-materiale.Prosessen skal utføres i et diskontinuerlig system.All annen håndtering eller bruk av det hydrolyserte materialet, herunder spredning av det på mark, skal være forbudt.
+Hydrolyse med etterfølgende disponering innebærer en midlertidig lagring på stedet. Den skal skje i samsvar med følgende standarder:
+
+1. På en driftsenhet som av vedkommende myndighet har fått tillatelse til å anvende bearbeidingsmetoden på grunnlag av en vurdering av dyretettheten på driftsenheten, den sannsynlige dødelighetsraten og den mulige risikoen for folkehelsen og dyrehelsen, skal de animalske biproduktene etter innsamling plasseres i en beholder som er konstruert i samsvar med bokstav b) (heretter kalt «beholderen») og som er plassert på et særskilt sted i samsvar med bokstav c) og d) (heretter kalt «det særskilte stedet»).
+2. Beholderen skal
+
+   1. ha en lukkeinnretning,
+   2. være vanntett, lekkasjesikker og hermetisk lukket,
+   3. ha et belegg som hindrer korrosjon,
+   4. være utstyrt med en innretning som styrer utslipp, i samsvar med bokstav e).
+3. Beholderen skal være plassert på et særskilt sted som er fysisk atskilt fra driftsenheten.
+
+   Dette stedet skal ha særskilte atkomstveier for flytting av materiale og for innsamlingskjøretøyer.
+4. Beholderen og stedet skal være konstruert og utformet i samsvar med Unionens regelverk for miljøvern, med sikte på å hindre lukt og forebygge risiko for grunn og grunnvann.
+5. Beholderen skal være knyttet til et rør for gassutslipp, som skal være utstyrt med egnede filtre for å forebygge spredning av sykdommer som kan overføres til mennesker og dyr.
+6. Beholderen skal være lukket under hydrolyseprosessen i minst tre måneder, på en slik måte at den ikke kan åpnes av uvedkommende.
+7. Den driftsansvarlige skal innføre framgangsmåter for å hindre at personalets bevegelser fører til spredning av sykdommer som kan overføres til mennesker eller dyr.
+8. Den driftsansvarlige skal
+
+   1. treffe forebyggende tiltak mot fugler, gnagere, insekter og andre skadedyr,
+   2. innføre et dokumentert program for skadedyrbekjempelse.
+9. Den driftsansvarlige skal føre register over
+
+   1. alt materiale som legges i beholderen,
+   2. all innsamling av hydrolisert materiale fra beholderen.
+10. Den driftsansvarlige skal regelmessig tømme beholderen med sikte på kontroll
+
+    1. av at det ikke forekommer korrosjon,
+    2. for å påvise og hindre at flytende materiale lekker ut i grunnen.
+11. Etter hydrolysen skal materialet samles inn, brukes og disponeres i samsvar med artikkel 13 bokstav a), b) og c) eller artikkel 13 bokstav e) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) eller artikkel 14 i nevnte forordning for kategori 3-materiale.
+12. Prosessen skal utføres i et diskontinuerlig system.
+13. All annen håndtering eller bruk av det hydrolyserte materialet, herunder spredning av det på mark, skal være forbudt.
 
 ◄ **M9**
 
@@ -2821,7 +5000,23 @@ ALMINNELIGE KRAV TIL BEARBEIDING OG OMSETNING
 
 *Mikrobiologiske krav til avledede produkter*
 
-Følgende mikrobiologiske krav skal gjelde for avledede produkter:Prøver av sluttproduktene som er tatt under lagring eller ved uttak fra lager i bearbeidingsanlegget, skal oppfylle følgende krav:Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0Enterobacteriaceae: n = 5, c = 2, m = 10, M = 300 i 1 gder:n = antall prøver som skal undersøkes,m = terskelverdien for bakterietallet; resultatet anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,M = største bakterietall; resultatet anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, ogc = antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid betraktes som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.
+Følgende mikrobiologiske krav skal gjelde for avledede produkter:
+
+Prøver av sluttproduktene som er tatt under lagring eller ved uttak fra lager i bearbeidingsanlegget, skal oppfylle følgende krav:
+
+Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0
+
+Enterobacteriaceae: n = 5, c = 2, m = 10, M = 300 i 1 g
+
+der:
+
+n = antall prøver som skal undersøkes,
+
+m = terskelverdien for bakterietallet; resultatet anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,
+
+M = største bakterietall; resultatet anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, og
+
+c = antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid betraktes som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.
 
 De mikrobiologiske kravene i dette kapittel skal imidlertid ikke gjelde for fett og fiskeolje fra bearbeiding av animalske biprodukter, dersom det tas prøver av det bearbeidede animalske proteinet som framstilles ved samme bearbeiding, for å sikre at disse kravene er oppfylt.
 
@@ -2834,31 +5029,95 @@ Særlige krav til bearbeidet animalsk protein
 
 ►**M12**
 
-1. *Råstoffer*Bare animalske biprodukter som er kategori 3-materiale eller produkter framstilt av slike animalske biprodukter, unntatt kategori 3-materiale nevnt i artikkel 10 bokstav n)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av bearbeidet animalsk protein.Bearbeidet animalsk protein fra oppdrettsinsekter beregnet på produksjon av fôr til andre produksjonsdyr enn pelsdyr kan bare komme fra følgende insektarter:Svart soldatflue (*Hermetia illucens*) og husflue (*Musca domestica*).Stor melbille (*Tenebrio molitor*) og liten melbille (*Alphitobius diaperinus*).Hussiriss (Acheta domesticus), tropisk hussiriss (*Gryllodes sigillatus*) og feltsiriss (*Gryllus assimilis*).
-◄**M12**
-►**M29**Silkeorm (*Bombyx mori*)
-◄**M29**
-2. *Krav til bearbeidingen*Bearbeidet animalsk protein fra pattedyr skal være behandlet med bearbeidingsmetode 1 (trykksterilisering) i henhold til vedlegg IV kapittel III.Imidlertid gjelder følgende:Svineblod eller bestanddeler av svineblod til framstilling av blodmel kan i stedet være behandlet med en av bearbeidingsmetodene 1–5 eller 7 i vedlegg IV kapittel III, forutsatt at det dersom bearbeidingsmetode 7 er anvendt, skal være varmebehandlet til en kjernetemperatur på 80 °C.Bearbeidet animalsk protein fra pattedyrkan være behandlet med en av bearbeidingsmetodene 1–5 eller 7 i vedlegg IV kapittel III, forutsatt at det deretter disponeres eller brukes som brensel til forbrenning,kan, dersom det utelukkende er beregnet på bruk i fôr til kjæledyr, være behandlet med en av bearbeidingsmetodene 1–5 eller 7 i vedlegg IV kapittel III, forutsatt at dettransporteres i egne beholdere som ikke brukes til transport av animalske biprodukter eller fôr til produksjonsdyr, ogsendes direkte fra et bearbeidingsanlegg for kategori 3-materiale til produksjonsanlegget for fôr til kjæledyr eller til et godkjent lagringsanlegg, og deretter sendes direkte derfra til et produksjonsanlegg for fôr til kjæledyr.Bearbeidet animalsk protein som ikke kommer fra pattedyr, med unntak av fiskemel, skal være behandlet med én av bearbeidingsmetodene 1–5 eller 7.Fiskemel skal være behandlet meden av bearbeidingsmetodene i vedlegg IV kapittel III, elleren annen metode som sikrer at produktet oppfyller de mikrobiologiske kravene til avledede produkter i kapittel I i dette vedlegg.
-3. *Lagring*Bearbeidet animalsk protein skal pakkes og lagres i nye eller steriliserte sekker, eller lagres i siloer som er beregnet på dette, eller i lagerrom.Det skal treffes tilstrekkelige tiltak for å redusere kondens i siloer, transportører eller heiseinnretninger så mye som mulig.Produkter på transportører, i heiseinnretninger og siloer skal beskyttes mot tilfeldig kontaminering.Utstyr til behandling av bearbeidet animalsk protein skal holdes rent og tørt og skal ha egnede kontrollpunkter, slik at det er mulig å kontrollere at utstyret er rent.Alle lagringssteder skal regelmessig tømmes og rengjøres, i det omfang som er nødvendig for å unngå kontaminering.Bearbeidet animalsk protein skal oppbevares tørt.Lekkasjer og kondens i lagringsområdet skal unngås.
+1. *Råstoffer*
+
+   1. Bare animalske biprodukter som er kategori 3-materiale eller produkter framstilt av slike animalske biprodukter, unntatt kategori 3-materiale nevnt i artikkel 10 bokstav n)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av bearbeidet animalsk protein.
+   2. Bearbeidet animalsk protein fra oppdrettsinsekter beregnet på produksjon av fôr til andre produksjonsdyr enn pelsdyr kan bare komme fra følgende insektarter:
+
+      1. Svart soldatflue (*Hermetia illucens*) og husflue (*Musca domestica*).
+      2. Stor melbille (*Tenebrio molitor*) og liten melbille (*Alphitobius diaperinus*).
+      3. Hussiriss (Acheta domesticus), tropisk hussiriss (*Gryllodes sigillatus*) og feltsiriss (*Gryllus assimilis*).
+         ◄**M12**
+         ►**M29**
+      4. Silkeorm (*Bombyx mori*)
+         ◄**M29**
+2. *Krav til bearbeidingen*
+
+   1. Bearbeidet animalsk protein fra pattedyr skal være behandlet med bearbeidingsmetode 1 (trykksterilisering) i henhold til vedlegg IV kapittel III.
+
+      Imidlertid gjelder følgende:
+
+      1. Svineblod eller bestanddeler av svineblod til framstilling av blodmel kan i stedet være behandlet med en av bearbeidingsmetodene 1–5 eller 7 i vedlegg IV kapittel III, forutsatt at det dersom bearbeidingsmetode 7 er anvendt, skal være varmebehandlet til en kjernetemperatur på 80 °C.
+      2. Bearbeidet animalsk protein fra pattedyr
+
+         1. kan være behandlet med en av bearbeidingsmetodene 1–5 eller 7 i vedlegg IV kapittel III, forutsatt at det deretter disponeres eller brukes som brensel til forbrenning,
+         2. kan, dersom det utelukkende er beregnet på bruk i fôr til kjæledyr, være behandlet med en av bearbeidingsmetodene 1–5 eller 7 i vedlegg IV kapittel III, forutsatt at det
+
+            - transporteres i egne beholdere som ikke brukes til transport av animalske biprodukter eller fôr til produksjonsdyr, og
+            - sendes direkte fra et bearbeidingsanlegg for kategori 3-materiale til produksjonsanlegget for fôr til kjæledyr eller til et godkjent lagringsanlegg, og deretter sendes direkte derfra til et produksjonsanlegg for fôr til kjæledyr.
+   2. Bearbeidet animalsk protein som ikke kommer fra pattedyr, med unntak av fiskemel, skal være behandlet med én av bearbeidingsmetodene 1–5 eller 7.
+   3. Fiskemel skal være behandlet med
+
+      1. en av bearbeidingsmetodene i vedlegg IV kapittel III, eller
+      2. en annen metode som sikrer at produktet oppfyller de mikrobiologiske kravene til avledede produkter i kapittel I i dette vedlegg.
+3. *Lagring*
+
+   1. Bearbeidet animalsk protein skal pakkes og lagres i nye eller steriliserte sekker, eller lagres i siloer som er beregnet på dette, eller i lagerrom.
+
+      Det skal treffes tilstrekkelige tiltak for å redusere kondens i siloer, transportører eller heiseinnretninger så mye som mulig.
+   2. Produkter på transportører, i heiseinnretninger og siloer skal beskyttes mot tilfeldig kontaminering.
+   3. Utstyr til behandling av bearbeidet animalsk protein skal holdes rent og tørt og skal ha egnede kontrollpunkter, slik at det er mulig å kontrollere at utstyret er rent.
+
+      Alle lagringssteder skal regelmessig tømmes og rengjøres, i det omfang som er nødvendig for å unngå kontaminering.
+   4. Bearbeidet animalsk protein skal oppbevares tørt.
+
+      Lekkasjer og kondens i lagringsområdet skal unngås.
 
 ###### Avsnitt 2
 
 Særlige krav til blodprodukter
 
-1. *Råstoff*Bare blod som er nevnt i artikkel 10 bokstav a) og artikkel 10 bokstav b) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av blodprodukter.
-2. *Krav til bearbeidingen*Blodprodukter skal være behandlet meden av bearbeidingsmetodene 1–5 eller 7 i vedlegg IV kapittel III, elleren annen metode som sikrer at blodproduktet oppfyller de mikrobiologiske kravene til avledede produkter i kapittel I i dette vedlegg.
+1. *Råstoff*
+
+   Bare blod som er nevnt i artikkel 10 bokstav a) og artikkel 10 bokstav b) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av blodprodukter.
+2. *Krav til bearbeidingen*
+
+   Blodprodukter skal være behandlet med
+
+   1. en av bearbeidingsmetodene 1–5 eller 7 i vedlegg IV kapittel III, eller
+   2. en annen metode som sikrer at blodproduktet oppfyller de mikrobiologiske kravene til avledede produkter i kapittel I i dette vedlegg.
 
 ###### Avsnitt 3
 
 Særlige krav til smeltet fett, fiskeolje og fettderivater framstilt av kategori 3-materiale
 
 1. *Råstoffer*
-► **M9***Smeltet fett*Bare annet kategori 3-materiale enn det kategori 3-materiale som er nevnt i artikkel 10 bokstav n), o) og p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes i framstillingen av smeltet fett.
-◄ **M9**
-►**M11***Fiskeolje*Bare kategori 3-materiale som er nevnt i artikkel 10 bokstav i), j) og l) i forordning [(EF) nr. 1069/2009](eu/32009r1069), og kategori 3-materiale fra akvatiske dyr som er nevnt i artikkel 10 bokstav e) og f) i nevnte forordning, kan brukes til framstilling av fiskeolje.
-◄**M11**
-2. *Krav til bearbeidingen*Med mindre fiskeoljen eller det smeltede fettet er framstilt i samsvar med henholdsvis avsnitt VIII eller XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal smeltet fett framstilles med en av bearbeidingsmetodene 1–5 eller 7, og fiskeolje kan framstillesmed en av bearbeidingsmetodene 1–7 i vedlegg IV kapittel III, ellermed en annen metode som sikrer at produktet oppfyller de mikrobiologiske kravene til avledede produkter i kapittel I i dette vedlegg.Smeltet fett fra drøvtyggere skal renses slik at det høyeste innholdet av resterende uløselige urenheter ikke overstiger 0,15 vektprosent.Fettderivater fra smeltet fett eller fiskeolje fra kategori 3-materiale skal framstilles med en av bearbeidingsmetodene i vedlegg IV kapittel III.
-3. *Hygieneregler*Når smeltet fett eller fiskeolje skal pakkes, skal det brukes nye eller rengjorte beholdere eller beholdere som om nødvendig er rengjort og desinfisert for å unngå kontaminering, og alle nødvendige tiltak skal treffes for å hindre at fettet eller oljen rekontamineres.Når produktene skal transporteres i bulk, skal rør, pumper, bulktanker og alle andre bulkcontainere eller tankbiler brukt under transport av produktene fra produksjonsanlegget direkte til skipet, til tanker på land eller direkte til anleggene, være rene før de tas i bruk.
+   ► **M9**
+
+   1. *Smeltet fett*
+
+      Bare annet kategori 3-materiale enn det kategori 3-materiale som er nevnt i artikkel 10 bokstav n), o) og p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes i framstillingen av smeltet fett.
+      ◄ **M9**
+      ►**M11**
+   2. *Fiskeolje*
+
+      Bare kategori 3-materiale som er nevnt i artikkel 10 bokstav i), j) og l) i forordning [(EF) nr. 1069/2009](eu/32009r1069), og kategori 3-materiale fra akvatiske dyr som er nevnt i artikkel 10 bokstav e) og f) i nevnte forordning, kan brukes til framstilling av fiskeolje.
+      ◄**M11**
+2. *Krav til bearbeidingen*
+
+   Med mindre fiskeoljen eller det smeltede fettet er framstilt i samsvar med henholdsvis avsnitt VIII eller XII i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal smeltet fett framstilles med en av bearbeidingsmetodene 1–5 eller 7, og fiskeolje kan framstilles
+
+   1. med en av bearbeidingsmetodene 1–7 i vedlegg IV kapittel III, eller
+   2. med en annen metode som sikrer at produktet oppfyller de mikrobiologiske kravene til avledede produkter i kapittel I i dette vedlegg.
+
+      Smeltet fett fra drøvtyggere skal renses slik at det høyeste innholdet av resterende uløselige urenheter ikke overstiger 0,15 vektprosent.
+
+      Fettderivater fra smeltet fett eller fiskeolje fra kategori 3-materiale skal framstilles med en av bearbeidingsmetodene i vedlegg IV kapittel III.
+3. *Hygieneregler*
+
+   Når smeltet fett eller fiskeolje skal pakkes, skal det brukes nye eller rengjorte beholdere eller beholdere som om nødvendig er rengjort og desinfisert for å unngå kontaminering, og alle nødvendige tiltak skal treffes for å hindre at fettet eller oljen rekontamineres.
+
+   Når produktene skal transporteres i bulk, skal rør, pumper, bulktanker og alle andre bulkcontainere eller tankbiler brukt under transport av produktene fra produksjonsanlegget direkte til skipet, til tanker på land eller direkte til anleggene, være rene før de tas i bruk.
 
 ###### Avsnitt 4
 
@@ -2868,8 +5127,50 @@ Særlige krav til melk, råmelk og visse andre produkter framstilt av melk eller
 
 Alminnelige krav
 
-1. *Råstoff*Bare melk nevnt i artikkel 10 bokstav e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), unntatt slam fra sentrifugering eller separering, og melk nevnt i artikkel 10 bokstav f) og h) i forordning [(EF) nr. 1069/2009](eu/32009r1069) kan brukes til framstilling av melk, melkebaserte produkter og produkter framstilt av melk.Råmelk kan brukes bare dersom den kommer fra levende dyr som ikke viste tegn på sykdommer som kan overføres gjennom råmelk til mennesker eller dyr.
-2. *Krav til bearbeidingen*Melk skal behandles på en av følgende måter:sterilisering til en F0 -verdi1 på minst 3,UHT-behandling2 kombinert med ett av følgende:en etterfølgende fysisk behandling i form avtørking, kombinert med ytterligere oppvarming til minst 72 °C dersom det dreier seg om melk beregnet til fôr, ellersenking av pH-verdien til under 6 i minst en time,at melken, det melkebaserte produktet eller produktet som er framstilt av melk, er blitt framstilt minst 21 dager før forsendelse, og at det i løpet av dette tidsrommet ikke er påvist noen tilfeller av munn- og klovsyke i opprinnelsesmedlemsstaten,HTST-behandling3 to ganger,HTST-behandling kombinert med ett av følgende:en etterfølgende fysisk behandling i form avtørking, kombinert med ytterligere oppvarming til minst 72 °C dersom det dreier seg om melk beregnet til fôr, ellersenking av pH-verdien til under 6,0 i minst en time,det forhold at melken, det melkebaserte produktet eller produktet som er framstilt av melk, er blitt framstilt minst 21 dager før forsendelse, og at det i løpet av dette tidsrommet ikke er påvist noen tilfeller av munn- og klovsyke i opprinnelsesmedlemsstaten,Melkebaserte produkter og produkter framstilt av melk skal enten gjennomgå minst én av behandlingene nevnt i nr. 1 eller være framstilt av melk som er behandlet i samsvar med nr. 1.Myse som skal brukes som fôr til dyr av arter som er mottakelige for munn- og klovsyke og som er framstilt av melk behandlet i samsvar med nr. 1, skalenten samles inn tidligst 16 timer etter at melken er koagulert, og dens pH-verdi skal registreres som < 6,0 før den transporteres til driftsenheter, ellervære framstilt minst 21 dager før forsendelse, og det skal i løpet av dette tidsrommet ikke være påvist noen tilfeller av munn- og klovsyke i opprinnelsesmedlemsstaten.I tillegg til kravene fastsatt i nr. 1–3 skal melk, melkebaserte produkter og produkter framstilt av melk oppfylle følgende krav:Etter bearbeidingen skal det tas nødvendige forholdsregler for å unngå kontaminering av produktene.Sluttproduktet skal merkes med angivelse av at det inneholder kategori 3-materiale og ikke er beregnet på konsum, og det skalvære pakket i ny emballasje, ellertransporteres i bulkcontainere eller andre transportmidler som er grundig rengjort og desinfisert før bruk.Rå melk skal framstilles på vilkår som gir tilstrekkelige garantier med hensyn til dyrehelse.Råmelk og råmelksprodukter skalkomme fra storfe som er holdt på en driftsenhet der alle storfebesetninger er anerkjent som offisielt tuberkulosefrie, offisielt brucellosefrie og offisielt frie fra enzootisk bovin leukose i henhold til artikkel 2 nr. 2 bokstav d), f) og j) i direktiv [64/432/EØF](eu/31964l0432*),være framstilt minst 21 dager før forsendelse, og det skal i løpet av dette tidsrommet ikke være påvist noen tilfeller av munn- og klovsyke i opprinnelsesmedlemsstaten,ha gjennomgått én enkelt HTST-behandling,4oppfylle kravene i nr. 4 i denne del.
+1. *Råstoff*
+
+   Bare melk nevnt i artikkel 10 bokstav e) i forordning [(EF) nr. 1069/2009](eu/32009r1069), unntatt slam fra sentrifugering eller separering, og melk nevnt i artikkel 10 bokstav f) og h) i forordning [(EF) nr. 1069/2009](eu/32009r1069) kan brukes til framstilling av melk, melkebaserte produkter og produkter framstilt av melk.
+
+   Råmelk kan brukes bare dersom den kommer fra levende dyr som ikke viste tegn på sykdommer som kan overføres gjennom råmelk til mennesker eller dyr.
+2. *Krav til bearbeidingen*
+
+   1. Melk skal behandles på en av følgende måter:
+
+      - sterilisering til en F0 -verdi1 på minst 3,
+      - UHT-behandling2 kombinert med ett av følgende:
+
+        1. en etterfølgende fysisk behandling i form av
+
+           1. tørking, kombinert med ytterligere oppvarming til minst 72 °C dersom det dreier seg om melk beregnet til fôr, eller
+           2. senking av pH-verdien til under 6 i minst en time,
+        2. at melken, det melkebaserte produktet eller produktet som er framstilt av melk, er blitt framstilt minst 21 dager før forsendelse, og at det i løpet av dette tidsrommet ikke er påvist noen tilfeller av munn- og klovsyke i opprinnelsesmedlemsstaten,
+      - HTST-behandling3 to ganger,
+      - HTST-behandling kombinert med ett av følgende:
+
+        1. en etterfølgende fysisk behandling i form av
+
+           1. tørking, kombinert med ytterligere oppvarming til minst 72 °C dersom det dreier seg om melk beregnet til fôr, eller
+           2. senking av pH-verdien til under 6,0 i minst en time,
+        2. det forhold at melken, det melkebaserte produktet eller produktet som er framstilt av melk, er blitt framstilt minst 21 dager før forsendelse, og at det i løpet av dette tidsrommet ikke er påvist noen tilfeller av munn- og klovsyke i opprinnelsesmedlemsstaten,
+   2. Melkebaserte produkter og produkter framstilt av melk skal enten gjennomgå minst én av behandlingene nevnt i nr. 1 eller være framstilt av melk som er behandlet i samsvar med nr. 1.
+   3. Myse som skal brukes som fôr til dyr av arter som er mottakelige for munn- og klovsyke og som er framstilt av melk behandlet i samsvar med nr. 1, skal
+
+      1. enten samles inn tidligst 16 timer etter at melken er koagulert, og dens pH-verdi skal registreres som < 6,0 før den transporteres til driftsenheter, eller
+      2. være framstilt minst 21 dager før forsendelse, og det skal i løpet av dette tidsrommet ikke være påvist noen tilfeller av munn- og klovsyke i opprinnelsesmedlemsstaten.
+   4. I tillegg til kravene fastsatt i nr. 1–3 skal melk, melkebaserte produkter og produkter framstilt av melk oppfylle følgende krav:
+
+      - Etter bearbeidingen skal det tas nødvendige forholdsregler for å unngå kontaminering av produktene.
+      - Sluttproduktet skal merkes med angivelse av at det inneholder kategori 3-materiale og ikke er beregnet på konsum, og det skal
+
+        1. være pakket i ny emballasje, eller
+        2. transporteres i bulkcontainere eller andre transportmidler som er grundig rengjort og desinfisert før bruk.
+   5. Rå melk skal framstilles på vilkår som gir tilstrekkelige garantier med hensyn til dyrehelse.
+   6. Råmelk og råmelksprodukter skal
+
+      - komme fra storfe som er holdt på en driftsenhet der alle storfebesetninger er anerkjent som offisielt tuberkulosefrie, offisielt brucellosefrie og offisielt frie fra enzootisk bovin leukose i henhold til artikkel 2 nr. 2 bokstav d), f) og j) i direktiv [64/432/EØF](eu/31964l0432*),
+      - være framstilt minst 21 dager før forsendelse, og det skal i løpet av dette tidsrommet ikke være påvist noen tilfeller av munn- og klovsyke i opprinnelsesmedlemsstaten,
+      - ha gjennomgått én enkelt HTST-behandling,4
+      - oppfylle kravene i nr. 4 i denne del.
 
 1 F0 er beregnet dødelig virkning på bakteriesporer. En F0-verdi på 3,00 betyr at det kaldeste punktet i produktet er tilstrekkelig oppvarmet til at det oppnås samme dødelige virkning som ved 121 °C (250 °F) i tre minutter med øyeblikkelig oppvarming og kjøling.
 
@@ -2890,7 +5191,23 @@ Unntak for omsetning av melk som er bearbeidet i samsvar med nasjonale krav
 ◄ **M4**
 
 1. Vedkommende myndighet skal tillate at melkeforedlingsvirksomheter som er godkjent eller registrert i samsvar med artikkel 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*), leverer melk, melkebaserte produkter og produkter framstilt av melk for formålene nevnt i nr. 3 i denne del, forutsatt at den berørte virksomhet sikrer at produktene kan spores.
-2. Melk, melkebaserte produkter og produkter framstilt av melk kan leveres og brukes som fôrmidleri den berørte medlemsstat og i grenseområder der de berørte medlemsstater har en gjensidig avtale om dette, når det gjelder avledede produkter, herunder grensemelk, som har vært i kontakt med rå melk og/eller melk som er pasteurisert i samsvar med kravene til varmebehandling i avsnitt IX kapittel II del II nr. 1 bokstav a) eller b) i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), dersom de avledede produktene har gjennomgått én av følgende behandlinger:UHT,sterilisering som gir en Fc-verdi på 3 eller høyere, eller som utføres ved en temperatur på minst 115 °C i 20 minutter eller en tilsvarende kombinasjon av temperatur og tid,pasteurisering eller sterilisering, unntatt som nevnt i punkt ii), etterfulgt avnår det gjelder tørrmelk, tørkede melkeprodukter eller produkter framstilt av melk: en tørkeprosess,når det gjelder et syrnet melkeprodukt: en prosess der pH-verdien senkes og holdes på under 6 i minst én time,i den berørte medlemsstat,når det gjelder avledede produkter, herunder grensemelk, som har vært i kontakt med melk som bare har blitt pasteurisert i samsvar med kravene til varmebehandling i avsnitt IX kapittel II del II nr. 1 bokstav a) i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), og myse framstilt av ikke-varmebehandlede melkebaserte produkter, som skal være samlet inn minst 16 timer etter at melken er koagulert, og som skal ha en registrert pH-verdi lavere enn 6,0 før den leveres til fôring, forutsatt at den sendes direkte til et begrenset antall godkjente driftsenheter, fastsatt på grunnlag av den risikovurderingen basert på best og verst tenkelige tilfeller som er foretatt av den berørte medlemsstat i forbindelse med utarbeidingen av beredskapsplanene for epizootier, særlig munn- og klovsyke,når det gjelder rå produkter, herunder grensemelk som har vært i kontakt med rå melk og andre produkter som ikke kan garanteres å ha gjennomgått behandlingene nevnt i bokstav a) og b) i), forutsatt at de sendes til et begrenset antall godkjente driftsenheter, fastsatt på grunnlag av en risikovurdering basert på best og verst tenkelige tilfeller som er foretatt av den berørte medlemsstat i forbindelse med utarbeidingen av beredskapsplanene for epizootier, særlig munn- og klovsyke, og forutsatt at dyrene på den godkjente driftsenheten bare kan flyttesenten direkte til et slakteri i samme medlemsstat, ellertil en annen driftsenhet i samme medlemsstat, der vedkommende myndighet kan garantere at dyr som er mottakelige for munn- og klovsyke, bare får forlate driftsenheten enten direkte til et slakteri i samme medlemsstat, eller dersom dyrene er blitt sendt til en driftsenhet der de produktene som er nevnt i punkt ii)i dette ledd, ikke brukes som fôr, etter en 21-dagers stillstandsperiode fra det tidspunktet dyrene kom til driftsenheten
+2. Melk, melkebaserte produkter og produkter framstilt av melk kan leveres og brukes som fôrmidler
+
+   1. i den berørte medlemsstat og i grenseområder der de berørte medlemsstater har en gjensidig avtale om dette, når det gjelder avledede produkter, herunder grensemelk, som har vært i kontakt med rå melk og/eller melk som er pasteurisert i samsvar med kravene til varmebehandling i avsnitt IX kapittel II del II nr. 1 bokstav a) eller b) i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), dersom de avledede produktene har gjennomgått én av følgende behandlinger:
+
+      1. UHT,
+      2. sterilisering som gir en Fc-verdi på 3 eller høyere, eller som utføres ved en temperatur på minst 115 °C i 20 minutter eller en tilsvarende kombinasjon av temperatur og tid,
+      3. pasteurisering eller sterilisering, unntatt som nevnt i punkt ii), etterfulgt av
+
+         - når det gjelder tørrmelk, tørkede melkeprodukter eller produkter framstilt av melk: en tørkeprosess,
+         - når det gjelder et syrnet melkeprodukt: en prosess der pH-verdien senkes og holdes på under 6 i minst én time,
+   2. i den berørte medlemsstat,
+
+      1. når det gjelder avledede produkter, herunder grensemelk, som har vært i kontakt med melk som bare har blitt pasteurisert i samsvar med kravene til varmebehandling i avsnitt IX kapittel II del II nr. 1 bokstav a) i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), og myse framstilt av ikke-varmebehandlede melkebaserte produkter, som skal være samlet inn minst 16 timer etter at melken er koagulert, og som skal ha en registrert pH-verdi lavere enn 6,0 før den leveres til fôring, forutsatt at den sendes direkte til et begrenset antall godkjente driftsenheter, fastsatt på grunnlag av den risikovurderingen basert på best og verst tenkelige tilfeller som er foretatt av den berørte medlemsstat i forbindelse med utarbeidingen av beredskapsplanene for epizootier, særlig munn- og klovsyke,
+      2. når det gjelder rå produkter, herunder grensemelk som har vært i kontakt med rå melk og andre produkter som ikke kan garanteres å ha gjennomgått behandlingene nevnt i bokstav a) og b) i), forutsatt at de sendes til et begrenset antall godkjente driftsenheter, fastsatt på grunnlag av en risikovurdering basert på best og verst tenkelige tilfeller som er foretatt av den berørte medlemsstat i forbindelse med utarbeidingen av beredskapsplanene for epizootier, særlig munn- og klovsyke, og forutsatt at dyrene på den godkjente driftsenheten bare kan flyttes
+
+         - enten direkte til et slakteri i samme medlemsstat, eller
+         - til en annen driftsenhet i samme medlemsstat, der vedkommende myndighet kan garantere at dyr som er mottakelige for munn- og klovsyke, bare får forlate driftsenheten enten direkte til et slakteri i samme medlemsstat, eller dersom dyrene er blitt sendt til en driftsenhet der de produktene som er nevnt i punkt ii)i dette ledd, ikke brukes som fôr, etter en 21-dagers stillstandsperiode fra det tidspunktet dyrene kom til driftsenheten
 3. Vedkommende myndighet kan tillate levering av råmelk som ikke oppfyller kravene i del I bokstav B nr. 6, fra én gårdbruker til en annen gårdbruker i samme medlemsstat for fôringsformål, på vilkår som hindrer overføring av helserisiko.
 
 ###### Del III
@@ -2909,39 +5226,99 @@ Som unntak fra første ledd kan vedkommende myndighet godkjenne alternative para
 
 Særlige krav til gelatin og hydrolysert protein
 
-1. RåstofferBare animalske biprodukter som er kategori 3-materiale eller produkter framstilt av slike animalske biprodukter, unntatt materiale nevnt i artikkel 10 bokstav m)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av gelatin og hydrolysert protein.
-2. Krav til bearbeidingen av gelatinMed mindre gelatinen er framstilt i samsvar med avsnitt XIV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal den framstilles ved en prosess som sikrer at kategori 3-materiale behandles med syre eller base, etterfulgt av én eller flere skyllinger.pH-verdien skal tilpasses i henhold til dette. Gelatin skal utvinnes ved en eller flere etterfølgende oppvarminger, etterfulgt av rensing ved hjelp av filtrering og sterilisering.Etter at gelatinen har gjennomgått prosessene nevnt i nr. 1, kan den tørkes og eventuelt pulveriseres eller formes i plater.Bruk av andre konserveringsmidler enn svoveldioksid og hydrogenperoksid skal være forbudt.
-3. Andre krav til gelatinGelatin skal innpakkes, emballeres, lagres og transporteres under tilfredsstillende hygieniske forhold.Særligskal det være et rom eller et eget sted som er avsatt til lagring av innpakkings- og emballeringsmateriale,skal innpakking og emballering foregå i et rom eller på et sted som er beregnet på dette formålet.
-4. Krav til bearbeidingen av hydrolysert proteinHydrolysert protein skal framstilles ved en produksjonsprosess som omfatter hensiktsmessige tiltak for å redusere kontaminering. Hydrolysert protein fra drøvtyggere skal ha en molekylvekt lavere enn 10 000 dalton.I tillegg til kravene i første ledd skal hydrolyserte proteiner som helt eller delvis kommer fra huder og skinn av drøvtyggere, framstilles i et bearbeidingsanlegg som utelukkende er beregnet til å framstille hydrolysert protein, ved en prosess som omfatter en bearbeiding av råstoff i kategori 3 ved at de legges i saltlake, kalkes og skylles intensivt førmaterialet utsettes for en pH-verdi på over 11 i mer enn tre timer ved en temperatur på over 80 °C, etterfulgt av varmebehandling ved over 140 °C i 30 minutter ved mer enn 3,6 bar, ellermaterialet utsettes for en pH-verdi på 1 til 2, etterfulgt av en pH-verdi på over 11, etterfulgt av varmebehandling ved 140 °C i 30 minutter ved 3 bar.
+1. Råstoffer
+
+   Bare animalske biprodukter som er kategori 3-materiale eller produkter framstilt av slike animalske biprodukter, unntatt materiale nevnt i artikkel 10 bokstav m)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av gelatin og hydrolysert protein.
+2. Krav til bearbeidingen av gelatin
+
+   1. Med mindre gelatinen er framstilt i samsvar med avsnitt XIV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal den framstilles ved en prosess som sikrer at kategori 3-materiale behandles med syre eller base, etterfulgt av én eller flere skyllinger.
+
+      pH-verdien skal tilpasses i henhold til dette. Gelatin skal utvinnes ved en eller flere etterfølgende oppvarminger, etterfulgt av rensing ved hjelp av filtrering og sterilisering.
+   2. Etter at gelatinen har gjennomgått prosessene nevnt i nr. 1, kan den tørkes og eventuelt pulveriseres eller formes i plater.
+   3. Bruk av andre konserveringsmidler enn svoveldioksid og hydrogenperoksid skal være forbudt.
+3. Andre krav til gelatin
+
+   Gelatin skal innpakkes, emballeres, lagres og transporteres under tilfredsstillende hygieniske forhold.
+
+   Særlig
+
+   1. skal det være et rom eller et eget sted som er avsatt til lagring av innpakkings- og emballeringsmateriale,
+   2. skal innpakking og emballering foregå i et rom eller på et sted som er beregnet på dette formålet.
+4. Krav til bearbeidingen av hydrolysert protein
+
+   Hydrolysert protein skal framstilles ved en produksjonsprosess som omfatter hensiktsmessige tiltak for å redusere kontaminering. Hydrolysert protein fra drøvtyggere skal ha en molekylvekt lavere enn 10 000 dalton.
+
+   I tillegg til kravene i første ledd skal hydrolyserte proteiner som helt eller delvis kommer fra huder og skinn av drøvtyggere, framstilles i et bearbeidingsanlegg som utelukkende er beregnet til å framstille hydrolysert protein, ved en prosess som omfatter en bearbeiding av råstoff i kategori 3 ved at de legges i saltlake, kalkes og skylles intensivt før
+
+   1. materialet utsettes for en pH-verdi på over 11 i mer enn tre timer ved en temperatur på over 80 °C, etterfulgt av varmebehandling ved over 140 °C i 30 minutter ved mer enn 3,6 bar, eller
+   2. materialet utsettes for en pH-verdi på 1 til 2, etterfulgt av en pH-verdi på over 11, etterfulgt av varmebehandling ved 140 °C i 30 minutter ved 3 bar.
 
 ###### Avsnitt 6
 
 Særlige krav til dikalsiumfosfat
 
-1. RåstofferBare animalske biprodukter som er kategori 3-materiale eller produkter framstilt av slike animalske biprodukter, unntatt materiale nevnt i artikkel 10 bokstav m)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av dikalsiumfosfat.
-2. Krav til bearbeidingenDikalsiumfosfat skal framstilles ved en prosess som består av følgende tre trinn:for det første, sikrer at alt beinmateriale i kategori 3 finknuses og avfettes med varmt vann og behandles med fortynnet saltsyre (med en minstekonsentrasjon på 4 % og med en pH-verdi på under 1,5) i et tidsrom på minst to dager,for det andre, etter den delen av prosessen som er angitt i bokstav a), behandler den oppnådde fosforsyren med kalk for å få en utfelling av dikalsiumfosfat med en pH-verdi på mellom 4 og 7, ogtil slutt lufttørker utfellingen av dikalsiumfosfat ved en starttemperatur på mellom 65 °C og 325 °C og en sluttemperatur på mellom 30 °C og 65 °C.Dikalsiumfosfat som kommer fra avfettede bein, skal komme fra bein som er nevnt i artikkel 10 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+1. Råstoffer
+
+   Bare animalske biprodukter som er kategori 3-materiale eller produkter framstilt av slike animalske biprodukter, unntatt materiale nevnt i artikkel 10 bokstav m)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av dikalsiumfosfat.
+2. Krav til bearbeidingen
+
+   1. Dikalsiumfosfat skal framstilles ved en prosess som består av følgende tre trinn:
+
+      1. for det første, sikrer at alt beinmateriale i kategori 3 finknuses og avfettes med varmt vann og behandles med fortynnet saltsyre (med en minstekonsentrasjon på 4 % og med en pH-verdi på under 1,5) i et tidsrom på minst to dager,
+      2. for det andre, etter den delen av prosessen som er angitt i bokstav a), behandler den oppnådde fosforsyren med kalk for å få en utfelling av dikalsiumfosfat med en pH-verdi på mellom 4 og 7, og
+      3. til slutt lufttørker utfellingen av dikalsiumfosfat ved en starttemperatur på mellom 65 °C og 325 °C og en sluttemperatur på mellom 30 °C og 65 °C.
+   2. Dikalsiumfosfat som kommer fra avfettede bein, skal komme fra bein som er nevnt i artikkel 10 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 ###### Avsnitt 7
 
 Særlige krav til trikalsiumfosfat
 
-1. RåstofferBare animalske biprodukter som er kategori 3-materiale eller produkter framstilt av slike animalske biprodukter, unntatt materiale nevnt i artikkel 10 bokstav m)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av trikalsiumfosfat.
-2. Krav til bearbeidingenTrikalsiumfosfat skal framstilles ved en prosess som sikrer atalt bein som er kategori 3-materiale, finknuses og avfettes motstrøms med varmt vann (beinbiter på under 14 mm),det dampkokes sammenhengende ved 145 °C i 30 minutter ved 4 bar,proteinbuljong skilles fra hydroksyapatitt (trikalsiumfosfat) ved sentrifugering, ogdet skjer en granulering av trikalsiumfosfat etter lufttørking i fluidisert seng ved 200 °C.
+1. Råstoffer
+
+   Bare animalske biprodukter som er kategori 3-materiale eller produkter framstilt av slike animalske biprodukter, unntatt materiale nevnt i artikkel 10 bokstav m)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av trikalsiumfosfat.
+2. Krav til bearbeidingen
+
+   Trikalsiumfosfat skal framstilles ved en prosess som sikrer at
+
+   1. alt bein som er kategori 3-materiale, finknuses og avfettes motstrøms med varmt vann (beinbiter på under 14 mm),
+   2. det dampkokes sammenhengende ved 145 °C i 30 minutter ved 4 bar,
+   3. proteinbuljong skilles fra hydroksyapatitt (trikalsiumfosfat) ved sentrifugering, og
+   4. det skjer en granulering av trikalsiumfosfat etter lufttørking i fluidisert seng ved 200 °C.
 
 ###### Avsnitt 8
 
 Særlige krav til kollagen
 
-1. RåstofferBare animalske biprodukter som er kategori 3-materiale eller produkter framstilt av slike animalske biprodukter, unntatt materiale nevnt i artikkel 10 bokstav m)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av kollagen.
-2. Krav til bearbeidingenMed mindre kollagenet er framstilt i samsvar med avsnitt XV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal det framstilles gjennom en prosess som sikrer at ubehandlet kategori 3-materiale gjennomgår en behandling som omfatter vask, justering av pH-verdien ved hjelp av syre eller base, etterfulgt av én eller flere skyllinger.Etter denne behandlingen kan kollagenet tørkes.Bruk av andre konserveringsmidler enn dem som er godkjent i henhold til Unionens regelverk, skal være forbudt.
-3. Andre kravKollagen skal innpakkes, emballeres, lagres og transporteres under tilfredsstillende hygieniske forhold. Særligskal det være et rom eller et eget sted som er avsatt til lagring av innpakkings- og emballeringsmateriale,skal innpakking og emballering foregå i et rom eller på et sted som er beregnet på dette formålet.
+1. Råstoffer
+
+   Bare animalske biprodukter som er kategori 3-materiale eller produkter framstilt av slike animalske biprodukter, unntatt materiale nevnt i artikkel 10 bokstav m)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av kollagen.
+2. Krav til bearbeidingen
+
+   1. Med mindre kollagenet er framstilt i samsvar med avsnitt XV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), skal det framstilles gjennom en prosess som sikrer at ubehandlet kategori 3-materiale gjennomgår en behandling som omfatter vask, justering av pH-verdien ved hjelp av syre eller base, etterfulgt av én eller flere skyllinger.
+
+      Etter denne behandlingen kan kollagenet tørkes.
+   2. Bruk av andre konserveringsmidler enn dem som er godkjent i henhold til Unionens regelverk, skal være forbudt.
+3. Andre krav
+
+   Kollagen skal innpakkes, emballeres, lagres og transporteres under tilfredsstillende hygieniske forhold. Særlig
+
+   1. skal det være et rom eller et eget sted som er avsatt til lagring av innpakkings- og emballeringsmateriale,
+   2. skal innpakking og emballering foregå i et rom eller på et sted som er beregnet på dette formålet.
 
 ###### Avsnitt 9
 
 Særlige krav til eggprodukter
 
-1. RåstofferBare animalske biprodukter som er nevnt i artikkel 10 bokstav e) og f) og artikkel 10 bokstav k) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av eggprodukter.
-2. Krav til bearbeidingenEggprodukter skal hagjennomgått en av bearbeidingsmetodene 1–5 eller 7 i vedlegg IV kapittel III,gjennomgått en annen metode og parametrer som sikrer at produktene oppfyller de mikrobiologiske kravene til avledede produkter i kapittel I, ellerblitt behandlet i samsvar med kravene til egg og eggprodukter i avsnitt X kapittel I–III i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*).
+1. Råstoffer
+
+   Bare animalske biprodukter som er nevnt i artikkel 10 bokstav e) og f) og artikkel 10 bokstav k) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan brukes til framstilling av eggprodukter.
+2. Krav til bearbeidingen
+
+   Eggprodukter skal ha
+
+   1. gjennomgått en av bearbeidingsmetodene 1–5 eller 7 i vedlegg IV kapittel III,
+   2. gjennomgått en annen metode og parametrer som sikrer at produktene oppfyller de mikrobiologiske kravene til avledede produkter i kapittel I, eller
+   3. blitt behandlet i samsvar med kravene til egg og eggprodukter i avsnitt X kapittel I–III i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*).
 
 ► **M4**
 
@@ -2949,15 +5326,40 @@ Særlige krav til eggprodukter
 
 Særlige krav til fôring av andre produksjonsdyr enn pelsdyr med visse typer kategori 3-materiale nevnt i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069)
 
-Kategori 3-materiale som består av næringsmidler som inneholder produkter av animalsk opprinnelse med opprinnelse i medlemsstater, og som ikke lenger er beregnet på konsum av kommersielle grunner eller på grunn av produksjons- eller emballeringsproblemer eller andre feil som ikke innebærer noen risiko for mennesker eller dyr nevnt i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan bringes i omsetning som fôr til andre produksjonsdyr enn pelsdyr, uten ytterligere behandling, forutsatt at materialet:har gjennomgått bearbeiding i henhold til artikkel 2 nr. 1 bokstav m) i forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i samsvar med denne forordning,består av eller inneholder en eller flere av følgende kategori 3-materialer nevnt i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069):melk,melkebaserte produkter,produkter framstilt av melk,egg,eggprodukter,honning,smeltet fett,kollagen,gelatin,ikke har vært i kontakt med noe annet kategori 3-materiale, ogalle forholdsregler er tatt for å unngå kontaminering av materialet.
+Kategori 3-materiale som består av næringsmidler som inneholder produkter av animalsk opprinnelse med opprinnelse i medlemsstater, og som ikke lenger er beregnet på konsum av kommersielle grunner eller på grunn av produksjons- eller emballeringsproblemer eller andre feil som ikke innebærer noen risiko for mennesker eller dyr nevnt i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kan bringes i omsetning som fôr til andre produksjonsdyr enn pelsdyr, uten ytterligere behandling, forutsatt at materialet:
+
+1. har gjennomgått bearbeiding i henhold til artikkel 2 nr. 1 bokstav m) i forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i samsvar med denne forordning,
+2. består av eller inneholder en eller flere av følgende kategori 3-materialer nevnt i artikkel 10 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069):
+
+   - melk,
+   - melkebaserte produkter,
+   - produkter framstilt av melk,
+   - egg,
+   - eggprodukter,
+   - honning,
+   - smeltet fett,
+   - kollagen,
+   - gelatin,
+3. ikke har vært i kontakt med noe annet kategori 3-materiale, og
+4. alle forholdsregler er tatt for å unngå kontaminering av materialet.
 
 ◄ **M4**
 
 ### KAPITTEL III
 KRAV TIL VISSE TYPER FISKEFÔR OG AGN
 
-1. Animalske biprodukter fra fisk eller virvelløse dyr som lever i vann, og avlede produkter av slike produkter, som er beregnet brukt som fôr til oppdrettsfisk eller til andre akvakulturarter, skalhåndteres og bearbeides atskilt fra materiale som ikke er godkjent til dette formålet,komme fravillfisk eller andre vanndyr, unntatt havpattedyr, som fanges for kommersielle formål, eller fra animalske biprodukter fra villfisk som kommer fra anlegg som framstiller fiskeprodukter for konsum, ellerfra oppdrettsfisk, forutsatt at de brukes som fôr til oppdrettsfisk av andre arter,bearbeides i et bearbeidingsanlegg i samsvar med en metode som sikrer et mikrobiologisk sikkert produkt, herunder med hensyn til sykdomsframkallende stoffer hos fisk.
-2. Vedkommende myndighet kan, med sikte på å hindre spredning av uakseptabel risiko for at sykdom overføres til mennesker eller dyr, fastsette vilkår for bruk av vanndyr og av virvelløse landdyr og virvelløse dyr som lever i vannsom fôr til oppdrettsfisk eller virvelløse dyr som lever i vann, dersom de animalske biproduktene ikke er bearbeidet i samsvar med nr. 1 bokstav c),som agn, herunder agn til virvelløse dyr som lever i vann.
+1. Animalske biprodukter fra fisk eller virvelløse dyr som lever i vann, og avlede produkter av slike produkter, som er beregnet brukt som fôr til oppdrettsfisk eller til andre akvakulturarter, skal
+
+   1. håndteres og bearbeides atskilt fra materiale som ikke er godkjent til dette formålet,
+   2. komme fra
+
+      1. villfisk eller andre vanndyr, unntatt havpattedyr, som fanges for kommersielle formål, eller fra animalske biprodukter fra villfisk som kommer fra anlegg som framstiller fiskeprodukter for konsum, eller
+      2. fra oppdrettsfisk, forutsatt at de brukes som fôr til oppdrettsfisk av andre arter,
+   3. bearbeides i et bearbeidingsanlegg i samsvar med en metode som sikrer et mikrobiologisk sikkert produkt, herunder med hensyn til sykdomsframkallende stoffer hos fisk.
+2. Vedkommende myndighet kan, med sikte på å hindre spredning av uakseptabel risiko for at sykdom overføres til mennesker eller dyr, fastsette vilkår for bruk av vanndyr og av virvelløse landdyr og virvelløse dyr som lever i vann
+
+   1. som fôr til oppdrettsfisk eller virvelløse dyr som lever i vann, dersom de animalske biproduktene ikke er bearbeidet i samsvar med nr. 1 bokstav c),
+   2. som agn, herunder agn til virvelløse dyr som lever i vann.
 
 ### VEDLEGG XI
 ORGANISK GJØDSEL OG JORDFORBEDRINGSMIDLER
@@ -2969,15 +5371,37 @@ KRAV TIL UBEARBEIDET HUSDYRGJØDSEL, BEARBEIDET HUSDYRGJØDSEL OG PRODUKTER FRAM
 
 Ubearbeidet husdyrgjødsel
 
-1. I tillegg til at samtykket fra bestemmelsesmedlemsstaten skal være innhentet i henhold til artikkel 48 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal følgende vilkår være oppfylt i forbindelse med handel mellom medlemsstatene med ubearbeidet husdyrgjødsel fra andre arter enn fjørfe eller dyr av hestefamilien:Handel med ubearbeidet husdyrgjødsel fra andre arter enn fjørfe eller dyr av hestefamilien skal være forbudt, med unntak av husdyrgjødselfra et område som ikke er underlagt restriksjoner på grunn av en alvorlig smittsom sykdom, ogsom er beregnet på spredning under vedkommende myndigheters tilsyn på jord som inngår i en enkelt driftsenhet på begge sider av grensen mellom to medlemsstater.Vedkommende myndighet i bestemmelsesmedlemsstaten kan imidlertid, idet det tas hensyn til husdyrgjødselens opprinnelse, dens bestemmelsessted og dyrehelsen, gjennom en særlig godkjenning tillate innførsel til sitt territorium av følgende:husdyrgjødsel beregnet påbearbeiding i et anlegg for framstilling av avledede produkter som er beregnet på bruk utenfor fôrkjeden, elleromdanning til biogass eller kompost i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) og med vedlegg V til denne forordning med sikte på framstilling av produktene nevnt i avsnitt 2 i dette kapittel.I slike tilfeller skal vedkommende myndighet ved godkjenning av innførsel til slike anlegg ta hensyn til husdyrgjødselens opprinnelse, ellerhusdyrgjødsel beregnet på spredning på jord på en driftsenhet, forutsatt at vedkommende myndighet i opprinnelsesmedlemsstaten har gitt sitt samtykke til slik handel.I tilfellene nevnt i bokstav b) skal en helseattestasjon i samsvar med modellen i nr. 3 vedlegges handelsdokumentet som følger forsendelsen av husdyrgjødsel.
-2. I tillegg til at samtykket fra bestemmelsesmedlemsstaten skal være innhentet i henhold til artikkel 48 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal følgende vilkår være oppfylt i forbindelse med handel mellom medlemsstatene med ubearbeidet fjørfegjødsel:gjødselen må komme fra et område som ikke er underlagt restriksjoner på grunn av Newcastle disease eller aviær influensa,i tillegg må ubearbeidet gjødsel fra fjørfebesetninger som er vaksinert mot Newcastle disease, ikke sendes til en region som har fått status som «ikke-vaksinerende mot Newcastle disease» i henhold til artikkel 15 nr. 2 i direktiv [2009/158/EF](eu/32009l0158), ogen helseattestasjon i samsvar med modellen i nr. 3 skal vedlegges handelsdokumentet som følger forsendelsen av husdyrgjødsel.
+1. I tillegg til at samtykket fra bestemmelsesmedlemsstaten skal være innhentet i henhold til artikkel 48 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal følgende vilkår være oppfylt i forbindelse med handel mellom medlemsstatene med ubearbeidet husdyrgjødsel fra andre arter enn fjørfe eller dyr av hestefamilien:
+
+   1. Handel med ubearbeidet husdyrgjødsel fra andre arter enn fjørfe eller dyr av hestefamilien skal være forbudt, med unntak av husdyrgjødsel
+
+      1. fra et område som ikke er underlagt restriksjoner på grunn av en alvorlig smittsom sykdom, og
+      2. som er beregnet på spredning under vedkommende myndigheters tilsyn på jord som inngår i en enkelt driftsenhet på begge sider av grensen mellom to medlemsstater.
+   2. Vedkommende myndighet i bestemmelsesmedlemsstaten kan imidlertid, idet det tas hensyn til husdyrgjødselens opprinnelse, dens bestemmelsessted og dyrehelsen, gjennom en særlig godkjenning tillate innførsel til sitt territorium av følgende:
+
+      1. husdyrgjødsel beregnet på
+
+         - bearbeiding i et anlegg for framstilling av avledede produkter som er beregnet på bruk utenfor fôrkjeden, eller
+         - omdanning til biogass eller kompost i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) og med vedlegg V til denne forordning med sikte på framstilling av produktene nevnt i avsnitt 2 i dette kapittel.
+
+         I slike tilfeller skal vedkommende myndighet ved godkjenning av innførsel til slike anlegg ta hensyn til husdyrgjødselens opprinnelse, eller
+      2. husdyrgjødsel beregnet på spredning på jord på en driftsenhet, forutsatt at vedkommende myndighet i opprinnelsesmedlemsstaten har gitt sitt samtykke til slik handel.
+   3. I tilfellene nevnt i bokstav b) skal en helseattestasjon i samsvar med modellen i nr. 3 vedlegges handelsdokumentet som følger forsendelsen av husdyrgjødsel.
+2. I tillegg til at samtykket fra bestemmelsesmedlemsstaten skal være innhentet i henhold til artikkel 48 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal følgende vilkår være oppfylt i forbindelse med handel mellom medlemsstatene med ubearbeidet fjørfegjødsel:
+
+   1. gjødselen må komme fra et område som ikke er underlagt restriksjoner på grunn av Newcastle disease eller aviær influensa,
+   2. i tillegg må ubearbeidet gjødsel fra fjørfebesetninger som er vaksinert mot Newcastle disease, ikke sendes til en region som har fått status som «ikke-vaksinerende mot Newcastle disease» i henhold til artikkel 15 nr. 2 i direktiv [2009/158/EF](eu/32009l0158), og
+   3. en helseattestasjon i samsvar med modellen i nr. 3 skal vedlegges handelsdokumentet som følger forsendelsen av husdyrgjødsel.
 3. Modell for helseattestasjonen som skal vedlegges handelsdokumentet:
-*Handelsdokument*
-►**M37**
-[Pdf-fil](static/SF/sf-20160914-1064-32011r0142-v11-01-02.pdf).
-◄**M37**
+   *Handelsdokument*
+   ►**M37**
+   [Pdf-fil](static/SF/sf-20160914-1064-32011r0142-v11-01-02.pdf).
+   ◄**M37**
 4. Handel mellom medlemsstatene av ubearbeidet gjødsel fra dyr av hestefamilien kan tillates, forutsatt at bestemmelsesmedlemsstaten i samsvar med artikkel 48 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) har gitt sitt samtykke til handelen, og forutsatt at gjødselen ikke kommer fra en driftsenhet som er underlagt noen dyrehelserestriksjoner på grunn av snive, vesikulær stomatitt, miltbrann eller rabies, i samsvar med artikkel 4 nr. 5 i direktiv [2009/156/EF](eu/32009l0156).
-5. Vedkommende myndighet i bestemmelsesmedlemsstaten kan i samsvar med artikkel 48 nr. 1 bokstav c) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069) pålegge en driftsansvarlig som sender ubearbeidet husdyrgjødsel fra en annen medlemsstatå oversende ytterligere opplysninger knyttet til en planlagt forsendelse, for eksempel nøyaktige geografiske opplysninger om steder der husdyrgjødselen skal losses, ogå lagre husdyrgjødselen før den spres på jord.
+5. Vedkommende myndighet i bestemmelsesmedlemsstaten kan i samsvar med artikkel 48 nr. 1 bokstav c) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069) pålegge en driftsansvarlig som sender ubearbeidet husdyrgjødsel fra en annen medlemsstat
+
+   1. å oversende ytterligere opplysninger knyttet til en planlagt forsendelse, for eksempel nøyaktige geografiske opplysninger om steder der husdyrgjødselen skal losses, og
+   2. å lagre husdyrgjødselen før den spres på jord.
 6. Vedkommende myndighet kan tillate sending av husdyrgjødsel som transporteres mellom to steder i samme driftsenhet, på vilkår som sikrer kontroll med mulig helserisiko, for eksempel f forpliktelser for driftsansvarlige til å føre egnede registre.
 
 **►M29**
@@ -2986,19 +5410,55 @@ Ubearbeidet husdyrgjødsel
 
 Guano fra flaggermus, frass, bearbeidet husdyrgjødsel og avledede produkter fra bearbeidet husdyrgjødsel
 
-Når guano fra flaggermus, bearbeidet husdyrgjødsel og avledede produkter fra bearbeidet husdyrgjødsel bringes i omsetning, gjelder vilkårene som er angitt i følgende bokstav a)–e). Når det gjelder guano fra flaggermus, kreves i tillegg mottakermedlemsstatens samtykke i samsvar med artikkel 48 nr. 1 i forordning (EF) nr. 1069/2009.◄**M29**De(n) skal komme fra et anlegg for framstilling av avledede produkter som er beregnet på bruk utenfor fôrkjeden, fra et biogass- eller komposteringsanlegg eller fra et anlegg for framstilling av organisk gjødsel eller jordforbedringsmidler.De skal ha gjennomgått en varmebehandling ved minst 70 °C i minst 60 minutter og en behandling for reduksjon av sporedannende bakterier og toksindannelse, når de er identifisert som en relevant risiko.Vedkommende myndighet kan imidlertid tillate bruk av andre standardiserte prosessparametrer enn dem som er nevnt i bokstav b), forutsatt at søkeren kan dokumentere at disse parametrene sikrer lavest mulig biologisk risiko.Dokumentasjonen skal omfatte en validering, som skal utføres på følgende måte:identifisering og analyse av mulige risikoer, herunder virkninger fra råstoffet, på grunnlag av en fullstendig beskrivelse av bearbeidingsvilkårene, samt en risikovurdering av hvordan de særlige bearbeidingsvilkårene oppnås i praksis i normale og atypiske situasjoner,validering av den fastsatte prosessenved å måle reduksjonen av levedyktighet/smittsomhet hos endogene indikatororganismer under prosessen, dersom indikatoren erkonstant til stede i råstoffet i et høyt antall,minst like varmeresistent mot behandlingsprosessens dødelige aspekter som de sykdomsframkallende stoffene den skal brukes til overvåking av, men samtidig heller ikke betydelig mer resistent,forholdsvis lett å mengdebestemme, identifisere og bekrefte, ellerved å måle reduksjonen av levedyktighet/smittsomhet under eksponeringen, av en veldefinert prøveorganisme eller et veldefinert virus, som er innført i et egnet prøvingsemne i utgangsmaterialet,valideringen nevnt i punkt ii) skal dokumentere at prosessen reduserer den totale risikoen på følgende måte:ved termiske og kjemiske prosesser oppnås en reduksjon av *Enterococcus faecalis* på minst 5 log10 og en reduksjon av smittsom titer av varmeresistente virus, for eksempel *parvovirus*, når de er identifisert som en relevant risiko, på minst 3 log10,ved kjemiske prosesser oppnås også en reduksjon av resistente parasitter, for eksempel egg av *Ascaris sp.*, på minst 99,9 % (3 log10) av levedyktige stadier,utforming av et fullstendig kontrollprogram som omfatter framgangsmåter for å overvåke prosessen,tiltak som sikrer fortløpende overvåking og kontroll av de relevante prosessparametrene som er fastsatt i kontrollprogrammet, når anlegget er i drift.Nærmere opplysninger om de relevante prosessparametrene som benyttes i et anlegg, samt andre kritiske kontrollpunkter, skal registreres og holdes à jour slik at eieren, den driftsansvarlige eller vedkommendes representant og vedkommende myndighet kan overvåke driften av anlegget. Opplysninger om en prosess som er tillatt i henhold til dette nummer, skal gjøres tilgjengelige for Kommisjonen på anmodning.Representative prøver av husdyrgjødsel som er tatt under eller umiddelbart etter bearbeiding i anlegget for å overvåke prosessen, skal oppfylle følgende krav:
-*Escherichia coli*: n = 5, c = 5, m = 0, M = 1 000 i 1 g,
-eller
-*Enterococcaceae*: n = 5, c = 5, m = 0, M = 1 000 i 1 g,
-og
-representative prøver av husdyrgjødsel som er tatt under lagring eller ved uttak fra produksjonsanlegget eller biogass- eller komposteringsanlegget, skal oppfylle følgende krav:
-Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0.
-der:
-n = antall prøver som skal undersøkes,
-m = terskelverdien for bakterietallet; resultatet anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,
-M = største bakterietall; resultatet anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, og
-c = antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid betraktes som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.Bearbeidet husdyrgjødsel og produkter av bearbeidet husdyrgjødsel som ikke oppfyller kravene i denne bokstav, skal betraktes som ubearbeidet.De skal oppbevares på en slik måte at risikoen for kontaminering eller ny infeksjon og fuktighetsdannelse reduseres mest mulig etter behandlingen. Produktene skal derfor oppbevares i:godt forseglede og isolerte siloer eller i lagerrom som er utformet for dette formålet,godt forseglet emballasje, for eksempel plastsekker eller storsekker.**►M29**Når frass bringes i omsetning, gjelder vilkårene som er angitt i bokstav a), b), d) og e) i dette avsnittet.
+Når guano fra flaggermus, bearbeidet husdyrgjødsel og avledede produkter fra bearbeidet husdyrgjødsel bringes i omsetning, gjelder vilkårene som er angitt i følgende bokstav a)–e). Når det gjelder guano fra flaggermus, kreves i tillegg mottakermedlemsstatens samtykke i samsvar med artikkel 48 nr. 1 i forordning (EF) nr. 1069/2009.
+
 ◄**M29**
+
+1. De(n) skal komme fra et anlegg for framstilling av avledede produkter som er beregnet på bruk utenfor fôrkjeden, fra et biogass- eller komposteringsanlegg eller fra et anlegg for framstilling av organisk gjødsel eller jordforbedringsmidler.
+2. De skal ha gjennomgått en varmebehandling ved minst 70 °C i minst 60 minutter og en behandling for reduksjon av sporedannende bakterier og toksindannelse, når de er identifisert som en relevant risiko.
+3. Vedkommende myndighet kan imidlertid tillate bruk av andre standardiserte prosessparametrer enn dem som er nevnt i bokstav b), forutsatt at søkeren kan dokumentere at disse parametrene sikrer lavest mulig biologisk risiko.
+
+   Dokumentasjonen skal omfatte en validering, som skal utføres på følgende måte:
+
+   1. identifisering og analyse av mulige risikoer, herunder virkninger fra råstoffet, på grunnlag av en fullstendig beskrivelse av bearbeidingsvilkårene, samt en risikovurdering av hvordan de særlige bearbeidingsvilkårene oppnås i praksis i normale og atypiske situasjoner,
+   2. validering av den fastsatte prosessen
+
+      - ved å måle reduksjonen av levedyktighet/smittsomhet hos endogene indikatororganismer under prosessen, dersom indikatoren er
+
+        - konstant til stede i råstoffet i et høyt antall,
+        - minst like varmeresistent mot behandlingsprosessens dødelige aspekter som de sykdomsframkallende stoffene den skal brukes til overvåking av, men samtidig heller ikke betydelig mer resistent,
+        - forholdsvis lett å mengdebestemme, identifisere og bekrefte, eller
+      - ved å måle reduksjonen av levedyktighet/smittsomhet under eksponeringen, av en veldefinert prøveorganisme eller et veldefinert virus, som er innført i et egnet prøvingsemne i utgangsmaterialet,
+   3. valideringen nevnt i punkt ii) skal dokumentere at prosessen reduserer den totale risikoen på følgende måte:
+
+      - ved termiske og kjemiske prosesser oppnås en reduksjon av *Enterococcus faecalis* på minst 5 log10 og en reduksjon av smittsom titer av varmeresistente virus, for eksempel *parvovirus*, når de er identifisert som en relevant risiko, på minst 3 log10,
+      - ved kjemiske prosesser oppnås også en reduksjon av resistente parasitter, for eksempel egg av *Ascaris sp.*, på minst 99,9 % (3 log10) av levedyktige stadier,
+   4. utforming av et fullstendig kontrollprogram som omfatter framgangsmåter for å overvåke prosessen,
+   5. tiltak som sikrer fortløpende overvåking og kontroll av de relevante prosessparametrene som er fastsatt i kontrollprogrammet, når anlegget er i drift.
+
+      Nærmere opplysninger om de relevante prosessparametrene som benyttes i et anlegg, samt andre kritiske kontrollpunkter, skal registreres og holdes à jour slik at eieren, den driftsansvarlige eller vedkommendes representant og vedkommende myndighet kan overvåke driften av anlegget. Opplysninger om en prosess som er tillatt i henhold til dette nummer, skal gjøres tilgjengelige for Kommisjonen på anmodning.
+4. Representative prøver av husdyrgjødsel som er tatt under eller umiddelbart etter bearbeiding i anlegget for å overvåke prosessen, skal oppfylle følgende krav:
+   *Escherichia coli*: n = 5, c = 5, m = 0, M = 1 000 i 1 g,
+   eller
+   *Enterococcaceae*: n = 5, c = 5, m = 0, M = 1 000 i 1 g,
+   og
+   representative prøver av husdyrgjødsel som er tatt under lagring eller ved uttak fra produksjonsanlegget eller biogass- eller komposteringsanlegget, skal oppfylle følgende krav:
+   Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0.
+   der:
+   n = antall prøver som skal undersøkes,
+   m = terskelverdien for bakterietallet; resultatet anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,
+   M = største bakterietall; resultatet anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, og
+   c = antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid betraktes som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.
+
+   Bearbeidet husdyrgjødsel og produkter av bearbeidet husdyrgjødsel som ikke oppfyller kravene i denne bokstav, skal betraktes som ubearbeidet.
+5. De skal oppbevares på en slik måte at risikoen for kontaminering eller ny infeksjon og fuktighetsdannelse reduseres mest mulig etter behandlingen. Produktene skal derfor oppbevares i:
+
+   1. godt forseglede og isolerte siloer eller i lagerrom som er utformet for dette formålet,
+   2. godt forseglet emballasje, for eksempel plastsekker eller storsekker.
+
+   **►M29**
+6. Når frass bringes i omsetning, gjelder vilkårene som er angitt i bokstav a), b), d) og e) i dette avsnittet.
+   ◄**M29**
 
 ### KAPITTEL II
 KRAV TIL VISSE TYPER ORGANISK GJØDSEL OG JORDFORBEDRINGSMIDLER
@@ -3007,34 +5467,100 @@ KRAV TIL VISSE TYPER ORGANISK GJØDSEL OG JORDFORBEDRINGSMIDLER
 
 Framstillingsvilkår
 
-1. Organisk gjødsel og jordforbedringsmidler, unntatt husdyrgjødsel, mage- og tarminnhold, kompost, melk, melkebaserte produkter, produkter framstilt av melk, råmelk, råmelksprodukter og råtnerester fra omdanning av animalske biprodukter eller avledede produkter til biogass, skal framstillesmed bearbeidingsmetode 1 (trykksterilisering), når kategori 2-materiale brukes som utgangsmateriale,
-► **M4**ved bruk av bearbeidet animalsk protein, herunder bearbeidet animalsk protein i samsvar med bokstav B nr. 1 bokstav b) ii) i vedlegg X kapittel II avsnitt 1, som er framstilt av kategori 3-materiale i samsvar med vedlegg X kapittel II avsnitt 1 eller av materiale som har gjennomgått en annen behandling, dersom slike materialer i henhold til denne forordning kan brukes til organisk gjødsel og jordforbedringsmidler, eller,
-◄ **M4**med en av bearbeidingsmetodene 1–7 i vedlegg IV kapittel III, dersom kategori 3-materiale som ikke brukes til framstilling av bearbeidet animalsk protein, brukes som utgangsmateriale.
+1. Organisk gjødsel og jordforbedringsmidler, unntatt husdyrgjødsel, mage- og tarminnhold, kompost, melk, melkebaserte produkter, produkter framstilt av melk, råmelk, råmelksprodukter og råtnerester fra omdanning av animalske biprodukter eller avledede produkter til biogass, skal framstilles
+
+   1. med bearbeidingsmetode 1 (trykksterilisering), når kategori 2-materiale brukes som utgangsmateriale,
+      ► **M4**
+   2. ved bruk av bearbeidet animalsk protein, herunder bearbeidet animalsk protein i samsvar med bokstav B nr. 1 bokstav b) ii) i vedlegg X kapittel II avsnitt 1, som er framstilt av kategori 3-materiale i samsvar med vedlegg X kapittel II avsnitt 1 eller av materiale som har gjennomgått en annen behandling, dersom slike materialer i henhold til denne forordning kan brukes til organisk gjødsel og jordforbedringsmidler, eller,
+      ◄ **M4**
+   3. med en av bearbeidingsmetodene 1–7 i vedlegg IV kapittel III, dersom kategori 3-materiale som ikke brukes til framstilling av bearbeidet animalsk protein, brukes som utgangsmateriale.
 2. Organisk gjødsel og jordforbedringsmidler som består av eller som er framstilt av kjøttbeinmel fra kategori 2-materiale eller av bearbeidet animalsk protein, skal i et registrert anlegg blandes med en tilstrekkelig minstedel av en bestanddel som er godkjent av vedkommende myndighet i den medlemsstaten der produktene skal spres på jord, for å utelukke at blandingen senere brukes som fôr.
-3. Vedkommende myndighet skal godkjenne bestanddelen nevnt i nr. 2 i samsvar med følgende krav:bestanddelen skal bestå av kalk, husdyrgjødsel, urin, kompost eller råtnerester fra omdanning av animalske biprodukter til biogass eller andre stoffer, for eksempel mineralgjødsel, som ikke brukes i fôrvarer og som utelukker at blandingen senere brukes som fôr, i samsvar med god landbrukspraksis,bestanddelen skal fastsettes på grunnlag av en vurdering av vilkårene med hensyn til klima- og jordbunnsforhold for bruk av blandingen som gjødsel, dersom det foreligger opplysninger om at bestanddelen gir blandingen en smak som er ubehagelig for dyr, eller på annen måte effektivt hindrer at blandingen feilaktig brukes som fôr, og i samsvar med kravene i Unionens regelverk eller, når det er relevant, nasjonal lovgivning om miljøvern når det gjelder vern av jord og grunnvann.Vedkommende myndighet skal på anmodning gjøre listen over godkjente bestanddeler tilgjengelig for Kommisjonen og for de andre medlemsstatene.
-4. Kravene i nr. 2 skal imidlertid ikke gjelde fororganisk gjødsel og jordforbedringsmidler i salgsklar emballasje med en vekt på høyst 50 kg som skal brukes av sluttforbruker, ellerorganisk gjødsel og jordforbedringsmidler i store sekker med en vekt på høyst 1 000 kg, dersom det på emballasjen angis at den organiske gjødselen ikke er beregnet på spredning på jord som produksjonsdyr har adgang til, forutsatt at vedkommende myndighet i den medlemsstaten der den organiske gjødselen eller jordforbedringsmidlene skal spres, har godkjent bruk av slike store sekker på grunnlag av en vurdering av sannsynligheten for at materialet havner på driftsenheter som holder dyr, eller på jord som produksjonsdyr har adgang til.
-5. Produsenter av organisk gjødsel og jordforbedringsmidler skal sikre at dekontaminering av sykdomsframkallende stoffer er gjennomført før de bringes i omsetning, i samsvar med:vedlegg X kapittel I når det gjelder bearbeidet animalsk protein eller avledede produkter som er framstilt av kategori 2- eller 3-materiale,vedlegg V kapittel III avsnitt 3 når det gjelder kompost og råtnerester fra omdanning av animalske biprodukter eller avledede produkter til biogass.
+3. Vedkommende myndighet skal godkjenne bestanddelen nevnt i nr. 2 i samsvar med følgende krav:
+
+   1. bestanddelen skal bestå av kalk, husdyrgjødsel, urin, kompost eller råtnerester fra omdanning av animalske biprodukter til biogass eller andre stoffer, for eksempel mineralgjødsel, som ikke brukes i fôrvarer og som utelukker at blandingen senere brukes som fôr, i samsvar med god landbrukspraksis,
+   2. bestanddelen skal fastsettes på grunnlag av en vurdering av vilkårene med hensyn til klima- og jordbunnsforhold for bruk av blandingen som gjødsel, dersom det foreligger opplysninger om at bestanddelen gir blandingen en smak som er ubehagelig for dyr, eller på annen måte effektivt hindrer at blandingen feilaktig brukes som fôr, og i samsvar med kravene i Unionens regelverk eller, når det er relevant, nasjonal lovgivning om miljøvern når det gjelder vern av jord og grunnvann.
+
+   Vedkommende myndighet skal på anmodning gjøre listen over godkjente bestanddeler tilgjengelig for Kommisjonen og for de andre medlemsstatene.
+4. Kravene i nr. 2 skal imidlertid ikke gjelde for
+
+   1. organisk gjødsel og jordforbedringsmidler i salgsklar emballasje med en vekt på høyst 50 kg som skal brukes av sluttforbruker, eller
+   2. organisk gjødsel og jordforbedringsmidler i store sekker med en vekt på høyst 1 000 kg, dersom det på emballasjen angis at den organiske gjødselen ikke er beregnet på spredning på jord som produksjonsdyr har adgang til, forutsatt at vedkommende myndighet i den medlemsstaten der den organiske gjødselen eller jordforbedringsmidlene skal spres, har godkjent bruk av slike store sekker på grunnlag av en vurdering av sannsynligheten for at materialet havner på driftsenheter som holder dyr, eller på jord som produksjonsdyr har adgang til.
+5. Produsenter av organisk gjødsel og jordforbedringsmidler skal sikre at dekontaminering av sykdomsframkallende stoffer er gjennomført før de bringes i omsetning, i samsvar med:
+
+   - vedlegg X kapittel I når det gjelder bearbeidet animalsk protein eller avledede produkter som er framstilt av kategori 2- eller 3-materiale,
+   - vedlegg V kapittel III avsnitt 3 når det gjelder kompost og råtnerester fra omdanning av animalske biprodukter eller avledede produkter til biogass.
 
 ###### Avsnitt 2
 
 Lagring og transport
 
-Etter bearbeiding eller omdanning skal organisk gjødsel og jordforbedringsmidler lagres og transporteres på en tilfredsstillende måtei bulk, under egnede forhold som hindrer kontaminering,emballert eller i store sekker, når det gjelder organisk gjødsel eller jordforbedringsmidler beregnet på salg til sluttbrukere, ellernår det gjelder lagring på en driftsenhet, i et egnet lagringsrom som ingen produksjonsdyr har adgang til.
-► **M9**
+Etter bearbeiding eller omdanning skal organisk gjødsel og jordforbedringsmidler lagres og transporteres på en tilfredsstillende måte
+
+1. i bulk, under egnede forhold som hindrer kontaminering,
+2. emballert eller i store sekker, når det gjelder organisk gjødsel eller jordforbedringsmidler beregnet på salg til sluttbrukere, eller
+3. når det gjelder lagring på en driftsenhet, i et egnet lagringsrom som ingen produksjonsdyr har adgang til.
+   ► **M9**
 
 ###### Avsnitt 3
 
 Krav til godkjenning av virksomheter eller anlegg
 
-For at virksomheter eller anlegg som gjennomfører aktivitetene omhandlet i avsnitt 1 nr. 1, skal godkjennes i samsvar med artikkel 24 nr. 1 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal driftsansvarlige sikre at disse overholder kravene i artikkel 8 i denne forordning og:ha egnede anlegg for lagring av innkomne ingredienser for å hindre krysskontaminering og unngå kontaminering under lagring,disponere animalske biprodukter eller avledede produkter i samsvar med artikkel 13 og 14 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
-◄ **M9**
+For at virksomheter eller anlegg som gjennomfører aktivitetene omhandlet i avsnitt 1 nr. 1, skal godkjennes i samsvar med artikkel 24 nr. 1 bokstav f) i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal driftsansvarlige sikre at disse overholder kravene i artikkel 8 i denne forordning og:
+
+1. ha egnede anlegg for lagring av innkomne ingredienser for å hindre krysskontaminering og unngå kontaminering under lagring,
+2. disponere animalske biprodukter eller avledede produkter i samsvar med artikkel 13 og 14 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+   ◄ **M9**
 
 ### VEDLEGG XII
 HALVFABRIKATER
 
-I henhold til artikkel 34 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal følgende vilkår gjelde for import og transitt gjennom Unionen av halvfabrikater:Import og transitt av halvfabrikater skal tillates, forutsatt atde er framstilt av følgende materiale:annet kategori 3-materiale enn materiale nevnt i artikkel 10 bokstav c) og n)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069),produkter framstilt av dyr nevnt i artikkel 10 bokstav i), l) og m) i forordning [nr. 1069/2009](eu/32009r1069), ellerblandinger av materialene nevnt i punkt i) og ii),når det gjelder halvfabrikater til framstilling av medisinsk utstyr, medisinsk utstyr til in vitro- diagnostikk og laboratoriereagenser, er de framstilt avmateriale som oppfyller kriteriene i bokstav a), bortsett fra at de kan være framstilt av dyr som har gjennomgått ulovlig behandling i henhold til artikkel 1 nr. 2 bokstav d) i direktiv [96/22/EF](eu/31996l0022) eller artikkel 2 bokstav b) i direktiv [96/23/EF](eu/31996l0023),kategori 2-materiale nevnt i artikkel 9 bokstav f) og h) i forordning [(EF) nr. 1069/2009](eu/32009r1069), ellerblandinger av materialene nevnt i punkt i) og ii),når det gjelder halvfabrikater til framstilling av aktive implanterbare medisinske innretninger, legemidler og veterinærpreparater, er de framstilt av materiale nevnt i bokstav b), dersom vedkommende myndighet anser bruk av dette materialet berettiget ut fra hensynet til vern av folkehelsen eller dyrehelsen,de kommer fra en tredjestat som er oppført som medlem av Verdens dyrehelseorganisasjon (OIE) i OIE-bulletinen,de kommer fra en virksomhet eller et anlegg som er registrert eller godkjent av vedkommende myndighet i en tredjestat nevnt i bokstav d), i samsvar med vilkårene i nr. 2,hver forsendelse følges av en erklæring fra importøren som er i samsvar med modellen for erklæring i vedlegg XV kapittel 20 og er skrevet på minst ett av de offisielle språkene i den medlemsstaten der kontrollen på grensekontrollstasjonen skal foretas, og i bestemmelsesmedlemsstaten. Disse medlemsstatene kan tillate bruk av andre språk og kreve offisielle oversettelser av erklæringer på disse andre språkene,når det gjelder materiale nevnt i bokstav b), dokumenterer importøren overfor vedkommende myndighet at materialetikke innebærer risiko for spredning av en sykdom som kan overføres til mennesker eller dyr, ellertransporteres under forhold som hindrer spredning av sykdom som kan overføres til mennesker eller dyr.En virksomhet eller et anlegg kan registreres eller godkjennes av vedkommende myndighet i en tredjestat, som nevnt i nr. 1 bokstav e), forutsatt atden driftsansvarlige eller eieren av anlegget eller dennes representantdokumenterer at anlegget har egnet utstyr til omdanning av materiale nevnt i nr. 1 bokstav a), b) eller c), etter det som er relevant, for å sikre at de nødvendige utformings-, omdannings- og framstillingstrinnene fullføres,innfører og iverksetter metoder for overvåking og kontroll av kritiske kontrollpunkter på grunnlag av de prosesser som er brukt,fører registre over opplysningene som er innhentet i henhold til punkt ii), og oppbevarer dem i et tidsrom på minst to år, slik at de kan framlegges for vedkommende myndighet,underretter vedkommende myndighet dersom tilgjengelige opplysninger viser at det foreligger alvorlig risiko for dyrehelsen eller folkehelsen,vedkommende myndighet i tredjestaten foretar regelmessige kontroller av virksomheten eller anlegget og fører tilsyn med anlegget i samsvar med følgende vilkår:hvor ofte kontrollene og tilsynet skal gjennomføres, avhenger av anleggets størrelse, typen produkter som framstilles samt risikovurderinger og garantier som er gitt, på grunnlag av et kontrollsystem opprettet i samsvar med prinsippene for fareanalyse og kritiske kontrollpunkter (HACCP),dersom vedkommende myndighet gjennomfører en kontroll og finner at bestemmelsene i denne forordning ikke blir overholdt, skal vedkommende myndighet treffe egnede tiltak,vedkommende myndighet skal lage en liste over virksomheter eller anlegg som er godkjent og registrert i samsvar med dette vedlegg, og skal tildele hvert anlegg et offisielt nummer, som identifiserer virksomheten eller anlegget med hensyn til hvilken type aktivitet som utføres; listen og senere endringer av den skal oversendes til den medlemsstaten der kontrollen på grensekontrollstasjonen skal foretas, og til bestemmelsesmedlemsstaten.
-◄ **M9**Halvfabrikatene som importeres til Unionen, skal kontrolleres ved grensekontrollstasjonen i samsvar med artikkel 4 i direktiv [97/78/EF](eu/31997l0078), og transporteres direkte fra denne grensekontrollstasjonen ententil en registrert virksomhet eller et registrert anlegg for framstilling av laboratoriereagenser, medisinsk utstyr og medisinsk utstyr for in vitro-diagnostikk for veterinære formål eller avledede produkter som nevnt i artikkel 33 i forordning [(EF) nr. 1069/2009](eu/32009r1069), der halvfabrikater skal blandes, brukes til overflatebehandling, settes sammen eller emballeres før de bringes i omsetning eller tas i bruk i samsvar med det unionsregelverk som får anvendelse på det avledede produktet,
-◄ **M9**til en virksomhet eller et anlegg som er godkjent for lagring av animalske biprodukter i samsvar med artikkel 24 nr. 1 i) i forordning [(EF) nr. 1069/2009](eu/32009r1069), hvorfra de bare kan sendes til en virksomhet eller et anlegg som nevnt i bokstav a) i dette nummer, for bruksformål nevnt i bokstav a).Halvfabrikater i transitt gjennom Unionen skal transporteres i samsvar med artikkel 11 i direktiv [97/78/EF](eu/31997l0078).Den offentlige veterinæren ved den berørte grensekontrollstasjonen skal via TRACES-systemet underrette den myndighet som er ansvarlig for anlegget på bestemmelsesstedet, om forsendelsen.Den driftsansvarlige eller eieren av bestemmelsesvirksomheten eller -anlegget eller dennes representant skal føre registre i samsvar med artikkel 22 i forordning [(EF) nr. 1069/2009](eu/32009r1069), og skal på anmodning framlegge for vedkommende myndighet nødvendige opplysninger om innkjøp, salg, bruk, lagre og disponering av overflødige halvfabrikater, for å sikre at denne forordning overholdes.Vedkommende myndighet skal i samsvar med direktiv [97/78/EF](eu/31997l0078) sikre at forsendelser av halvfabrikater sendes fra den medlemsstat der kontrollen på grensekontrollstasjonen skal foretas, til bestemmelsesanlegget, som nevnt i nr. 3 eller, ved transitt, til utførselsgrensekontrollstasjonen.Vedkommende myndighet skal med jevne mellomrom gjennomføre dokumentkontroller for å avstemme mengdene av halvfabrikater som, på den ene side, blir importert og, på den annen side, blir lagret, brukt, sendt eller disponert, for å sikre at bestemmelsene i denne forordning overholdes.Når det gjelder forsendelser av halvfabrikater i transitt, skal vedkommende myndigheter som er ansvarlige for henholdsvis innførsels- og utførselsgrensekontrollstasjonen samarbeide ved behov, for å sikre at det gjennomføres effektive kontroller og at partiene kan spores.
+I henhold til artikkel 34 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal følgende vilkår gjelde for import og transitt gjennom Unionen av halvfabrikater:
+
+1. Import og transitt av halvfabrikater skal tillates, forutsatt at
+
+   1. de er framstilt av følgende materiale:
+
+      1. annet kategori 3-materiale enn materiale nevnt i artikkel 10 bokstav c) og n)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+      2. produkter framstilt av dyr nevnt i artikkel 10 bokstav i), l) og m) i forordning [nr. 1069/2009](eu/32009r1069), eller
+      3. blandinger av materialene nevnt i punkt i) og ii),
+   2. når det gjelder halvfabrikater til framstilling av medisinsk utstyr, medisinsk utstyr til in vitro- diagnostikk og laboratoriereagenser, er de framstilt av
+
+      1. materiale som oppfyller kriteriene i bokstav a), bortsett fra at de kan være framstilt av dyr som har gjennomgått ulovlig behandling i henhold til artikkel 1 nr. 2 bokstav d) i direktiv [96/22/EF](eu/31996l0022) eller artikkel 2 bokstav b) i direktiv [96/23/EF](eu/31996l0023),
+      2. kategori 2-materiale nevnt i artikkel 9 bokstav f) og h) i forordning [(EF) nr. 1069/2009](eu/32009r1069), eller
+      3. blandinger av materialene nevnt i punkt i) og ii),
+   3. når det gjelder halvfabrikater til framstilling av aktive implanterbare medisinske innretninger, legemidler og veterinærpreparater, er de framstilt av materiale nevnt i bokstav b), dersom vedkommende myndighet anser bruk av dette materialet berettiget ut fra hensynet til vern av folkehelsen eller dyrehelsen,
+   4. de kommer fra en tredjestat som er oppført som medlem av Verdens dyrehelseorganisasjon (OIE) i OIE-bulletinen,
+   5. de kommer fra en virksomhet eller et anlegg som er registrert eller godkjent av vedkommende myndighet i en tredjestat nevnt i bokstav d), i samsvar med vilkårene i nr. 2,
+   6. hver forsendelse følges av en erklæring fra importøren som er i samsvar med modellen for erklæring i vedlegg XV kapittel 20 og er skrevet på minst ett av de offisielle språkene i den medlemsstaten der kontrollen på grensekontrollstasjonen skal foretas, og i bestemmelsesmedlemsstaten. Disse medlemsstatene kan tillate bruk av andre språk og kreve offisielle oversettelser av erklæringer på disse andre språkene,
+   7. når det gjelder materiale nevnt i bokstav b), dokumenterer importøren overfor vedkommende myndighet at materialet
+
+      1. ikke innebærer risiko for spredning av en sykdom som kan overføres til mennesker eller dyr, eller
+      2. transporteres under forhold som hindrer spredning av sykdom som kan overføres til mennesker eller dyr.
+2. En virksomhet eller et anlegg kan registreres eller godkjennes av vedkommende myndighet i en tredjestat, som nevnt i nr. 1 bokstav e), forutsatt at
+
+   1. den driftsansvarlige eller eieren av anlegget eller dennes representant
+
+      1. dokumenterer at anlegget har egnet utstyr til omdanning av materiale nevnt i nr. 1 bokstav a), b) eller c), etter det som er relevant, for å sikre at de nødvendige utformings-, omdannings- og framstillingstrinnene fullføres,
+      2. innfører og iverksetter metoder for overvåking og kontroll av kritiske kontrollpunkter på grunnlag av de prosesser som er brukt,
+      3. fører registre over opplysningene som er innhentet i henhold til punkt ii), og oppbevarer dem i et tidsrom på minst to år, slik at de kan framlegges for vedkommende myndighet,
+      4. underretter vedkommende myndighet dersom tilgjengelige opplysninger viser at det foreligger alvorlig risiko for dyrehelsen eller folkehelsen,
+   2. vedkommende myndighet i tredjestaten foretar regelmessige kontroller av virksomheten eller anlegget og fører tilsyn med anlegget i samsvar med følgende vilkår:
+
+      1. hvor ofte kontrollene og tilsynet skal gjennomføres, avhenger av anleggets størrelse, typen produkter som framstilles samt risikovurderinger og garantier som er gitt, på grunnlag av et kontrollsystem opprettet i samsvar med prinsippene for fareanalyse og kritiske kontrollpunkter (HACCP),
+      2. dersom vedkommende myndighet gjennomfører en kontroll og finner at bestemmelsene i denne forordning ikke blir overholdt, skal vedkommende myndighet treffe egnede tiltak,
+      3. vedkommende myndighet skal lage en liste over virksomheter eller anlegg som er godkjent og registrert i samsvar med dette vedlegg, og skal tildele hvert anlegg et offisielt nummer, som identifiserer virksomheten eller anlegget med hensyn til hvilken type aktivitet som utføres; listen og senere endringer av den skal oversendes til den medlemsstaten der kontrollen på grensekontrollstasjonen skal foretas, og til bestemmelsesmedlemsstaten.
+         ◄ **M9**
+3. Halvfabrikatene som importeres til Unionen, skal kontrolleres ved grensekontrollstasjonen i samsvar med artikkel 4 i direktiv [97/78/EF](eu/31997l0078), og transporteres direkte fra denne grensekontrollstasjonen enten
+
+   1. til en registrert virksomhet eller et registrert anlegg for framstilling av laboratoriereagenser, medisinsk utstyr og medisinsk utstyr for in vitro-diagnostikk for veterinære formål eller avledede produkter som nevnt i artikkel 33 i forordning [(EF) nr. 1069/2009](eu/32009r1069), der halvfabrikater skal blandes, brukes til overflatebehandling, settes sammen eller emballeres før de bringes i omsetning eller tas i bruk i samsvar med det unionsregelverk som får anvendelse på det avledede produktet,
+      ◄ **M9**
+   2. til en virksomhet eller et anlegg som er godkjent for lagring av animalske biprodukter i samsvar med artikkel 24 nr. 1 i) i forordning [(EF) nr. 1069/2009](eu/32009r1069), hvorfra de bare kan sendes til en virksomhet eller et anlegg som nevnt i bokstav a) i dette nummer, for bruksformål nevnt i bokstav a).
+4. Halvfabrikater i transitt gjennom Unionen skal transporteres i samsvar med artikkel 11 i direktiv [97/78/EF](eu/31997l0078).
+5. Den offentlige veterinæren ved den berørte grensekontrollstasjonen skal via TRACES-systemet underrette den myndighet som er ansvarlig for anlegget på bestemmelsesstedet, om forsendelsen.
+6. Den driftsansvarlige eller eieren av bestemmelsesvirksomheten eller -anlegget eller dennes representant skal føre registre i samsvar med artikkel 22 i forordning [(EF) nr. 1069/2009](eu/32009r1069), og skal på anmodning framlegge for vedkommende myndighet nødvendige opplysninger om innkjøp, salg, bruk, lagre og disponering av overflødige halvfabrikater, for å sikre at denne forordning overholdes.
+7. Vedkommende myndighet skal i samsvar med direktiv [97/78/EF](eu/31997l0078) sikre at forsendelser av halvfabrikater sendes fra den medlemsstat der kontrollen på grensekontrollstasjonen skal foretas, til bestemmelsesanlegget, som nevnt i nr. 3 eller, ved transitt, til utførselsgrensekontrollstasjonen.
+8. Vedkommende myndighet skal med jevne mellomrom gjennomføre dokumentkontroller for å avstemme mengdene av halvfabrikater som, på den ene side, blir importert og, på den annen side, blir lagret, brukt, sendt eller disponert, for å sikre at bestemmelsene i denne forordning overholdes.
+9. Når det gjelder forsendelser av halvfabrikater i transitt, skal vedkommende myndigheter som er ansvarlige for henholdsvis innførsels- og utførselsgrensekontrollstasjonen samarbeide ved behov, for å sikre at det gjennomføres effektive kontroller og at partiene kan spores.
 
 ### VEDLEGG XIII
 FÔR TIL KJÆLEDYR OG VISSE ANDRE AVLEDEDE PRODUKTER
@@ -3042,75 +5568,244 @@ FÔR TIL KJÆLEDYR OG VISSE ANDRE AVLEDEDE PRODUKTER
 ### KAPITTEL I
 Alminnelige krav
 
-Produksjonsanlegg for fôr til kjæledyr og virksomheter eller anlegg som framstiller avledede produkter nevnt i dette vedlegg, skal ha egnet utstyr tillagring og behandling av innkommende materiale under forhold som hindrer at risiko for folkehelsen og dyrehelsen innføres,disponering av ubrukte animalske biprodukter og avledede produkter som gjenstår etter framstilling, med mindre det ubrukte materialet sendes for å bli bearbeidet eller disponert på en annen virksomhet eller et annet anlegg, i samsvar med denne forordning.
+Produksjonsanlegg for fôr til kjæledyr og virksomheter eller anlegg som framstiller avledede produkter nevnt i dette vedlegg, skal ha egnet utstyr til
+
+1. lagring og behandling av innkommende materiale under forhold som hindrer at risiko for folkehelsen og dyrehelsen innføres,
+2. disponering av ubrukte animalske biprodukter og avledede produkter som gjenstår etter framstilling, med mindre det ubrukte materialet sendes for å bli bearbeidet eller disponert på en annen virksomhet eller et annet anlegg, i samsvar med denne forordning.
 
 ### KAPITTEL II
 Særlige krav til fôr til kjæledyr, herunder tyggesaker
 
-1. Rått fôr til kjæledyrDriftsansvarlige kan framstille rått fôr til kjæledyr bare fra kategori 3-materiale nevnt i artikkel 10 bokstav a) og artikkel 10 bokstav b) i) og ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069).Rått fôr til kjæledyr skal pakkes i ny emballasje for å unngå lekkasjer.Det skal treffes egnede tiltak for å unngå kontaminering av produktet i alle ledd i produksjonskjeden og fram til utsalgsstedet.
-2. Råstoff til framstilling av bearbeidet fôr til kjæledyr og tyggesakerDriftsansvarlige kan framstille bearbeidet fôr til kjæledyr og tyggesaker bare avkategori 3-materiale, unntatt materiale nevnt i artikkel 10 bokstav n)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), ognår det gjelder importert fôr til kjæledyr eller fôr til kjæledyr framstilt av importert materiale, bare av kategori 1-materiale som består av animalske biprodukter framstilt av dyr som har gjennomgått ulovlig behandling i henhold til artikkel 1 nr. 2 bokstav d) i direktiv [96/22/EF](eu/31996l0022) eller artikkel 2 bokstav b) i direktiv [96/23/EF](eu/31996l0023).
-3. Bearbeidet fôr til kjæledyrBoksefôr til kjæledyr skal varmebehandles til en Fc-verdi på minst 3.Bearbeidet fôr til kjæledyr, med unntak av boksefôr til kjæledyr, skalgjennomgå en varmebehandling til en kjernetemperatur i det ferdige produktet på minst 90 °C,gjennomgå en varmebehandling der ingrediensene av animalsk opprinnelse varmes opp til minst 90 °C, ellernår det gjelder fôrmidler av animalsk opprinnelse, være framstilt utelukkende avanimalske biprodukter eller avledede produkter fra kjøtt eller kjøttprodukter som har gjennomgått en varmebehandling til en kjernetemperatur på minst 90 °C,følgende avledede produkter av animalsk opprinnelse som er framstilt i samsvar med kravene i denne forordning: melk og melkebaserte produkter, gelatin, hydrolyserte proteiner, eggprodukter, kollagen, blodprodukter nevnt i vedlegg X kapittel II avsnitt 2, bearbeidede animalske proteiner (herunder fiskemel), smeltet fett, fiskeolje, dikalsiumfosfat, trikalsiumfosfat eller animalske smaksforsterkere,dersom vedkommende myndighet tillater det, gjennomgå en behandling, f.eks. tørking eller gjæring, som sikrer at fôret til kjæledyr ikke medfører en uakseptabel risiko for folkehelsen og dyrehelsen,når det gjelder animalske biprodukter nevnt i artikkel 10 bokstav l) og m) i forordning [(EF) nr. 1069/2009](eu/32009r1069) og animalske biprodukter som framstilles av vanndyr, virvelløse landdyr og virvelløse dyr som lever i vann, og dersom vedkommende myndigheter tillater det, gjennomgå en behandling som sikrer at fôret til kjæledyr ikke medfører en uakseptabel risiko for folkehelsen og dyrehelsen.Etter framstillingen skal det tas nødvendige forholdsregler for å unngå at det bearbeidede fôret til kjæledyr kontamineres.Det bearbeidede fôret til kjæledyr skal pakkes i ny emballasje.
-4. Tyggesaker skal gjennomgå en behandling som er tilstrekkelig til å ødelegge sykdomsframkallende organismer, herunder salmonella.Etter denne behandlingen skal det tas nødvendige forholdsregler for å unngå at tyggesakene kontamineres.Tyggesakene skal pakkes i ny emballasje.
+1. Rått fôr til kjæledyr
+
+   Driftsansvarlige kan framstille rått fôr til kjæledyr bare fra kategori 3-materiale nevnt i artikkel 10 bokstav a) og artikkel 10 bokstav b) i) og ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+
+   Rått fôr til kjæledyr skal pakkes i ny emballasje for å unngå lekkasjer.
+
+   Det skal treffes egnede tiltak for å unngå kontaminering av produktet i alle ledd i produksjonskjeden og fram til utsalgsstedet.
+2. Råstoff til framstilling av bearbeidet fôr til kjæledyr og tyggesaker
+
+   Driftsansvarlige kan framstille bearbeidet fôr til kjæledyr og tyggesaker bare av
+
+   1. kategori 3-materiale, unntatt materiale nevnt i artikkel 10 bokstav n)–p) i forordning [(EF) nr. 1069/2009](eu/32009r1069), og
+   2. når det gjelder importert fôr til kjæledyr eller fôr til kjæledyr framstilt av importert materiale, bare av kategori 1-materiale som består av animalske biprodukter framstilt av dyr som har gjennomgått ulovlig behandling i henhold til artikkel 1 nr. 2 bokstav d) i direktiv [96/22/EF](eu/31996l0022) eller artikkel 2 bokstav b) i direktiv [96/23/EF](eu/31996l0023).
+3. Bearbeidet fôr til kjæledyr
+
+   1. Boksefôr til kjæledyr skal varmebehandles til en Fc-verdi på minst 3.
+   2. Bearbeidet fôr til kjæledyr, med unntak av boksefôr til kjæledyr, skal
+
+      1. gjennomgå en varmebehandling til en kjernetemperatur i det ferdige produktet på minst 90 °C,
+      2. gjennomgå en varmebehandling der ingrediensene av animalsk opprinnelse varmes opp til minst 90 °C, eller
+      3. når det gjelder fôrmidler av animalsk opprinnelse, være framstilt utelukkende av
+
+         - animalske biprodukter eller avledede produkter fra kjøtt eller kjøttprodukter som har gjennomgått en varmebehandling til en kjernetemperatur på minst 90 °C,
+         - følgende avledede produkter av animalsk opprinnelse som er framstilt i samsvar med kravene i denne forordning: melk og melkebaserte produkter, gelatin, hydrolyserte proteiner, eggprodukter, kollagen, blodprodukter nevnt i vedlegg X kapittel II avsnitt 2, bearbeidede animalske proteiner (herunder fiskemel), smeltet fett, fiskeolje, dikalsiumfosfat, trikalsiumfosfat eller animalske smaksforsterkere,
+      4. dersom vedkommende myndighet tillater det, gjennomgå en behandling, f.eks. tørking eller gjæring, som sikrer at fôret til kjæledyr ikke medfører en uakseptabel risiko for folkehelsen og dyrehelsen,
+      5. når det gjelder animalske biprodukter nevnt i artikkel 10 bokstav l) og m) i forordning [(EF) nr. 1069/2009](eu/32009r1069) og animalske biprodukter som framstilles av vanndyr, virvelløse landdyr og virvelløse dyr som lever i vann, og dersom vedkommende myndigheter tillater det, gjennomgå en behandling som sikrer at fôret til kjæledyr ikke medfører en uakseptabel risiko for folkehelsen og dyrehelsen.
+
+         Etter framstillingen skal det tas nødvendige forholdsregler for å unngå at det bearbeidede fôret til kjæledyr kontamineres.
+
+         Det bearbeidede fôret til kjæledyr skal pakkes i ny emballasje.
+4. Tyggesaker skal gjennomgå en behandling som er tilstrekkelig til å ødelegge sykdomsframkallende organismer, herunder salmonella.
+
+   Etter denne behandlingen skal det tas nødvendige forholdsregler for å unngå at tyggesakene kontamineres.
+
+   Tyggesakene skal pakkes i ny emballasje.
 5. Det skal tas stikkprøver av tyggesaker og av bearbeidet fôr til kjæledyr, unntatt boksefôr til kjæledyr og unntatt bearbeidet fôr til kjæledyr som er behandlet i samsvar med nr. 3 bokstav b) v), under framstilling og/eller lagring (før avsendelse) for å kontrollere at følgende krav er oppfylt:
-Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0
-Enterobacteriaceae: n = 5, c = 2, m = 10, M = 300 i 1 g
-der:
-n = antall prøver som skal undersøkes,
-m = terskelverdien for bakterietallet; resultatet skal anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,
-M = største bakterietall; resultatet skal anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, og
-c = antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid betraktes som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.
-►**M23**
+   Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0
+   Enterobacteriaceae: n = 5, c = 2, m = 10, M = 300 i 1 g
+   der:
+   n = antall prøver som skal undersøkes,
+   m = terskelverdien for bakterietallet; resultatet skal anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,
+   M = største bakterietall; resultatet skal anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, og
+   c = antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid betraktes som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.
+   ►**M23**
 6. Det skal tas stikkprøver av rått fôr til kjæledyr under produksjonen og/eller lagringen (før avsendelse) for å kontrollere at følgende krav er oppfylt:
-Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0
-Produksjonsprosessen for rått fôr til kjæledyr skal oppfylle følgende prosesshygienekriterium:
-Enterobacteriaceae: n = 5, c = 2, m = 500 i 1 g, M = 5000 i 1 g
-der
-n = antall prøver som skal testes,
-m = terskelverdien for bakterietallet; resultatet skal anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,
-M = største bakterietall; resultatet skal anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, og
-c = antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid betraktes som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.De driftsansvarlige skal, som ledd i sine framgangsmåter basert på prinsippene om risikoanalyse og kritiske styringspunkter (HACCP), treffe tiltak for å sikre at forsyning, håndtering og bearbeiding av råstoffer og rått fôr til kjæledyr under deres kontroll utføres på en slik at måte at de ovennevnte sikkerhetsstandardene og prosesshygienekriteriet er oppfylt. Dersom sikkerhetsstandardene og prosesshygienekriteriet ikke er oppfylt, skal den driftsansvarlige treffe forholdsmessige korrigerende tiltak i samsvar med den skriftlige framgangsmåten nevnt i innledende punktum i artikkel 29 nr. 1 i forordning (EF) nr. 1069/2009 og framgangsmåtene basert på HACCP-prinsippene fastsatt i artikkel 29 nr. 2 bokstav e) og f) i den forordningen.Den vedkommende myndigheten skal underrettes om den manglende overholdelsen og om dens årsak dersom den er fastslått, korrigerende tiltak som er truffet og resultatene av kontrolltiltakene. Dersom den vedkommende myndigheten ikke er overbevist om at de nødvendige korrigerende tiltakene er truffet, kan den pålegge den driftsansvarlige ytterligere tiltak, herunder merking med henblikk på håndtering, og kan kreve at den driftsansvarlige gjennomfører en mikrobiologisk undersøkelse av flere prøver. ◄**M23**
-7. Sluttpunkt for bearbeidet fôr til kjæledyr og tyggesakerFølgende kan bringes i omsetning uten restriksjoner i henhold til denne forordning:bearbeidet fôr til kjæledyrsom er framstilt og emballert i Unionen i samsvar med nr. 3 og som det er tatt prøver av i samsvar med nr. 5, ellersom har gjennomgått veterinærkontroller i samsvar med direktiv [97/78/EF](eu/31997l0078) på en grensekontrollstasjon,tyggesakersom er framstilt og emballert i Unionen i samsvar med nr. 4 og som det er tatt prøver av i samsvar med nr. 5, ellersom har gjennomgått veterinærkontroller i samsvar med direktiv [97/78/EF](eu/31997l0078) på en grensekontrollstasjon.
+   Salmonella: ingen forekomst i 25 g, n = 5, c = 0, m = 0, M = 0
+   Produksjonsprosessen for rått fôr til kjæledyr skal oppfylle følgende prosesshygienekriterium:
+   Enterobacteriaceae: n = 5, c = 2, m = 500 i 1 g, M = 5000 i 1 g
+   der
+   n = antall prøver som skal testes,
+   m = terskelverdien for bakterietallet; resultatet skal anses som tilfredsstillende dersom bakterietallet i samtlige prøver ikke overstiger m,
+   M = største bakterietall; resultatet skal anses som ikke tilfredsstillende dersom bakterietallet i én eller flere prøver er lik eller høyere enn M, og
+   c = antall prøver der bakterietallet kan ligge mellom m og M, idet prøven alltid betraktes som akseptabel dersom bakterietallet i de andre prøvene er lik eller lavere enn m.
+
+   De driftsansvarlige skal, som ledd i sine framgangsmåter basert på prinsippene om risikoanalyse og kritiske styringspunkter (HACCP), treffe tiltak for å sikre at forsyning, håndtering og bearbeiding av råstoffer og rått fôr til kjæledyr under deres kontroll utføres på en slik at måte at de ovennevnte sikkerhetsstandardene og prosesshygienekriteriet er oppfylt. Dersom sikkerhetsstandardene og prosesshygienekriteriet ikke er oppfylt, skal den driftsansvarlige treffe forholdsmessige korrigerende tiltak i samsvar med den skriftlige framgangsmåten nevnt i innledende punktum i artikkel 29 nr. 1 i forordning (EF) nr. 1069/2009 og framgangsmåtene basert på HACCP-prinsippene fastsatt i artikkel 29 nr. 2 bokstav e) og f) i den forordningen.
+
+   Den vedkommende myndigheten skal underrettes om den manglende overholdelsen og om dens årsak dersom den er fastslått, korrigerende tiltak som er truffet og resultatene av kontrolltiltakene. Dersom den vedkommende myndigheten ikke er overbevist om at de nødvendige korrigerende tiltakene er truffet, kan den pålegge den driftsansvarlige ytterligere tiltak, herunder merking med henblikk på håndtering, og kan kreve at den driftsansvarlige gjennomfører en mikrobiologisk undersøkelse av flere prøver. ◄**M23**
+7. Sluttpunkt for bearbeidet fôr til kjæledyr og tyggesaker
+
+   Følgende kan bringes i omsetning uten restriksjoner i henhold til denne forordning:
+
+   1. bearbeidet fôr til kjæledyr
+
+      1. som er framstilt og emballert i Unionen i samsvar med nr. 3 og som det er tatt prøver av i samsvar med nr. 5, eller
+      2. som har gjennomgått veterinærkontroller i samsvar med direktiv [97/78/EF](eu/31997l0078) på en grensekontrollstasjon,
+   2. tyggesaker
+
+      1. som er framstilt og emballert i Unionen i samsvar med nr. 4 og som det er tatt prøver av i samsvar med nr. 5, eller
+      2. som har gjennomgått veterinærkontroller i samsvar med direktiv [97/78/EF](eu/31997l0078) på en grensekontrollstasjon.
 
 ### KAPITTEL III
 Særlige krav til animalske smaksforsterkere til framstilling av fôr til kjæledyr
 
 1. Driftsansvarlige kan bruke bare animalske biprodukter som kan brukes som råstoff til bearbeidet fôr til kjæledyr og tyggesaker i henhold til kapittel II nr. 2 til framstilling av flytende eller dehydrerte avledede produkter som brukes til å forsterke smaksverdien av fôr til kjæledyr.
 2. Animalske smaksforsterkere skal ha gjennomgått en behandlingsmetode og parametrer som sikrer at produktene oppfyller de mikrobiologiske kravene fastsatt i kapittel II nr. 5 i dette vedlegg. Etter behandlingen skal det tas nødvendige forholdsregler for å unngå kontaminering av produktet.
-3. Sluttproduktet skalvære pakket i ny eller sterilisert emballasje, ellertransporteres i bulkcontainere eller andre transportmidler som er grundig rengjort og desinfisert.
+3. Sluttproduktet skal
+
+   1. være pakket i ny eller sterilisert emballasje, eller
+   2. transporteres i bulkcontainere eller andre transportmidler som er grundig rengjort og desinfisert.
 
 ### KAPITTEL IV
 Særlige krav til blod og blodprodukter fra dyr av hestefamilien
 
-Omsetning av blod og blodprodukter fra dyr av hestefamilien for andre formål enn fôring, skal oppfylle følgende vilkår:Blod kan bringes i omsetning for slike formål, forutsatt at det er samlet innfra dyr av hestefamilien somved inspeksjon på datoen for innsamling av blod ikke viser kliniske tegn på noen av de meldepliktige sykdommene oppført i vedlegg I til direktiv [2009/156/EF](eu/32009l0156), og på hesteinfluensa, piroplasmose hos hest, rhinopneumonitt hos hest og virusarteritt hos hest som er oppført i artikkel 1.2.3. nr. 4 i 2010-utgaven av OIEs helseregelverk for landdyr,i minst 30 dager før og under innsamlingen av blod er blitt holdt på driftsenheter under tilsyn av veterinær, og som ikke omfattes av et forbud i henhold til artikkel 4 nr. 5 i direktiv [2009/156/EF](eu/32009l0156) eller restriksjoner i henhold til artikkel 5 i samme direktiv,i tidsrommene fastsatt i artikkel 4 nr. 5 i direktiv [2009/156/EF](eu/32009l0156) ikke hadde noen kontakt med dyr av hestefamilien fra driftsenheter som var underlagt et forbud av dyrehelsemessige grunner i henhold til samme artikkel, og som i et tidsrom på minst 40 dager før innsamlingen av blod ikke var i kontakt med dyr av hestefamilien fra en medlemsstat eller en tredjestat som ikke anses som fri for afrikansk hestepest i samsvar med artikkel 5 nr. 2 første ledd bokstav a) og b) i nevnte direktiv,under tilsyn av veterinær entenpå slakterier som er registrert eller godkjent i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*), elleri godkjente anlegg som er utstyrt med et veterinært godkjenningsnummer og under tilsyn av vedkommende myndighet med henblikk på innsamling av blod fra dyr av hestefamilien til framstilling av blodprodukter som brukes til andre formål enn fôring.Blodprodukter kan bringes i omsetning for slike formål, forutsatt atalle nødvendige forholdsregler er tatt for å unngå kontaminering av blodproduktene med sykdomsframkallende stoffer ved framstilling, håndtering og emballering,blodproduktene er framstilt av blod somenten oppfyller vilkårene i nr. 1 bokstav a), ellerhar gjennomgått minst én av følgende behandlinger, etterfulgt av en effektivitetskontroll, for inaktivering av eventuelle sykdomsframkallende stoffer som kan føre til afrikansk hestepest, encefalomyelitt hos hest, av alle former, også venezuelansk encefalomyelitt hos hest, infeksiøs anemi hos hest, vesikulær stomatitt og snive (*Burkholderia mallei*):varmebehandling ved en temperatur på 65 °C i minst tre timer,bestråling med 25 kGy gammastråler,endring av pH til en pH på 5 i to timer,varmebehandling til en kjernetemperatur på minst 80 °C.Blod og blodprodukter fra dyr av hestefamilien skal emballeres i forseglede, tette beholdere som, når det gjelder blod fra dyr av hestefamilien, er merket med godkjenningsnummeret til slakteriet eller innsamlingsvirksomhetens nevnt i nr. 1 bokstav b).
+Omsetning av blod og blodprodukter fra dyr av hestefamilien for andre formål enn fôring, skal oppfylle følgende vilkår:
+
+1. Blod kan bringes i omsetning for slike formål, forutsatt at det er samlet inn
+
+   1. fra dyr av hestefamilien som
+
+      1. ved inspeksjon på datoen for innsamling av blod ikke viser kliniske tegn på noen av de meldepliktige sykdommene oppført i vedlegg I til direktiv [2009/156/EF](eu/32009l0156), og på hesteinfluensa, piroplasmose hos hest, rhinopneumonitt hos hest og virusarteritt hos hest som er oppført i artikkel 1.2.3. nr. 4 i 2010-utgaven av OIEs helseregelverk for landdyr,
+      2. i minst 30 dager før og under innsamlingen av blod er blitt holdt på driftsenheter under tilsyn av veterinær, og som ikke omfattes av et forbud i henhold til artikkel 4 nr. 5 i direktiv [2009/156/EF](eu/32009l0156) eller restriksjoner i henhold til artikkel 5 i samme direktiv,
+      3. i tidsrommene fastsatt i artikkel 4 nr. 5 i direktiv [2009/156/EF](eu/32009l0156) ikke hadde noen kontakt med dyr av hestefamilien fra driftsenheter som var underlagt et forbud av dyrehelsemessige grunner i henhold til samme artikkel, og som i et tidsrom på minst 40 dager før innsamlingen av blod ikke var i kontakt med dyr av hestefamilien fra en medlemsstat eller en tredjestat som ikke anses som fri for afrikansk hestepest i samsvar med artikkel 5 nr. 2 første ledd bokstav a) og b) i nevnte direktiv,
+   2. under tilsyn av veterinær enten
+
+      1. på slakterier som er registrert eller godkjent i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*), eller
+      2. i godkjente anlegg som er utstyrt med et veterinært godkjenningsnummer og under tilsyn av vedkommende myndighet med henblikk på innsamling av blod fra dyr av hestefamilien til framstilling av blodprodukter som brukes til andre formål enn fôring.
+2. Blodprodukter kan bringes i omsetning for slike formål, forutsatt at
+
+   1. alle nødvendige forholdsregler er tatt for å unngå kontaminering av blodproduktene med sykdomsframkallende stoffer ved framstilling, håndtering og emballering,
+   2. blodproduktene er framstilt av blod som
+
+      1. enten oppfyller vilkårene i nr. 1 bokstav a), eller
+      2. har gjennomgått minst én av følgende behandlinger, etterfulgt av en effektivitetskontroll, for inaktivering av eventuelle sykdomsframkallende stoffer som kan føre til afrikansk hestepest, encefalomyelitt hos hest, av alle former, også venezuelansk encefalomyelitt hos hest, infeksiøs anemi hos hest, vesikulær stomatitt og snive (*Burkholderia mallei*):
+
+         - varmebehandling ved en temperatur på 65 °C i minst tre timer,
+         - bestråling med 25 kGy gammastråler,
+         - endring av pH til en pH på 5 i to timer,
+         - varmebehandling til en kjernetemperatur på minst 80 °C.
+3. Blod og blodprodukter fra dyr av hestefamilien skal emballeres i forseglede, tette beholdere som, når det gjelder blod fra dyr av hestefamilien, er merket med godkjenningsnummeret til slakteriet eller innsamlingsvirksomhetens nevnt i nr. 1 bokstav b).
 
 ### KAPITTEL V
 Særskilte krav til huder og skinn av hovdyr og avledede produkter
 
-- Virksomheter og anleggVedkommende myndighet kan tillate at anlegg som håndterer huder og skinn, herunder kalkbehandlede huder, for å levere materiale fra renskjæring og spalting av slike huder og skinn til framstilling av gelatin som skal brukes til fôr, organisk gjødsel eller jordforbedringsmidler, forutsatt atanlegget har lagerrom med harde gulv og glatte vegger som er lette å rengjøre og desinfisere, og de skal når det er hensiktsmessig være utstyrt med kjøleinnretninger,lagerrommene holdes tilstrekkelig rene og i god stand, slik at de ikke er en kilde til kontaminering av råstoffene,dersom råstoff som ikke oppfyller kravene i dette kapittel, lagres og/eller bearbeides i disse lokalene, skal det ved mottak, lagring, bearbeiding og forsendelse holdes atskilt fra råstoff som oppfyller kravene i dette kapittel,når det gjelder materiale fra renskjæring og spalting av kalkbehandlede huder, gjennomgår materiale fra renskjæring og spalting en behandling som sikrer at det ikke gjenstår noen risiko for folkehelsen og dyrehelsen når de brukes til framstilling avgelatin som skal brukes som fôr, ellerorganisk gjødsel eller jordforbedringsmidler.
-- Omsetning av animalske biprodukter og avledede produkterUbehandlede huder og skinn kan bringes i omsetning dersom de oppfyller de hygienekravene som gjelder for ferskt kjøtt i henhold til direktiv [2002/99/EF](eu/32002l0099).Behandlede huder og skinn kan bringes i omsetning, forutsatt atde ikke har vært i kontakt med andre animalske produkter eller levende dyr som kan innebære en risiko for spredning av en alvorlig smittsom sykdom,handelsdokumentet i vedlegg VIII kapittel III inneholder en erklæring om at alle forholdsregler er tatt for å unngå kontaminering fra sykdomsframkallende stoffer.
-- Sluttpunkt for huder og skinnHuder og skinn fra hovdyr som ifølge en beslutning fra en driftsansvarlig er beregnet på andre formål enn konsum, og som oppfyller kravene i forordning [(EF) nr. 853/2004](eu/32004r0853*) for råstoffer til gelatin eller kollagen beregnet på bruk i næringsmidler, kan bringes i omsetning uten restriksjoner i henhold til denne forordning.Følgende typer behandlede huder og skinn kan bringes i omsetning uten restriksjoner i henhold til denne forordning:huder og skinn som har gjennomgått en fullstendig garvingsprosess,huder og skinn i tilstanden «wet blue»,huder og skinn i tilstanden «pickled pelts»,huder og skinn i tilstanden «limed hides» (behandlet med kalk og i en saltlake med en pH-verdi på 12–13 i minst åtte timer).
+- Virksomheter og anlegg
+
+  Vedkommende myndighet kan tillate at anlegg som håndterer huder og skinn, herunder kalkbehandlede huder, for å levere materiale fra renskjæring og spalting av slike huder og skinn til framstilling av gelatin som skal brukes til fôr, organisk gjødsel eller jordforbedringsmidler, forutsatt at
+
+  1. anlegget har lagerrom med harde gulv og glatte vegger som er lette å rengjøre og desinfisere, og de skal når det er hensiktsmessig være utstyrt med kjøleinnretninger,
+  2. lagerrommene holdes tilstrekkelig rene og i god stand, slik at de ikke er en kilde til kontaminering av råstoffene,
+  3. dersom råstoff som ikke oppfyller kravene i dette kapittel, lagres og/eller bearbeides i disse lokalene, skal det ved mottak, lagring, bearbeiding og forsendelse holdes atskilt fra råstoff som oppfyller kravene i dette kapittel,
+  4. når det gjelder materiale fra renskjæring og spalting av kalkbehandlede huder, gjennomgår materiale fra renskjæring og spalting en behandling som sikrer at det ikke gjenstår noen risiko for folkehelsen og dyrehelsen når de brukes til framstilling av
+
+     1. gelatin som skal brukes som fôr, eller
+     2. organisk gjødsel eller jordforbedringsmidler.
+- Omsetning av animalske biprodukter og avledede produkter
+
+  1. Ubehandlede huder og skinn kan bringes i omsetning dersom de oppfyller de hygienekravene som gjelder for ferskt kjøtt i henhold til direktiv [2002/99/EF](eu/32002l0099).
+  2. Behandlede huder og skinn kan bringes i omsetning, forutsatt at
+
+     1. de ikke har vært i kontakt med andre animalske produkter eller levende dyr som kan innebære en risiko for spredning av en alvorlig smittsom sykdom,
+     2. handelsdokumentet i vedlegg VIII kapittel III inneholder en erklæring om at alle forholdsregler er tatt for å unngå kontaminering fra sykdomsframkallende stoffer.
+- Sluttpunkt for huder og skinn
+
+  1. Huder og skinn fra hovdyr som ifølge en beslutning fra en driftsansvarlig er beregnet på andre formål enn konsum, og som oppfyller kravene i forordning [(EF) nr. 853/2004](eu/32004r0853*) for råstoffer til gelatin eller kollagen beregnet på bruk i næringsmidler, kan bringes i omsetning uten restriksjoner i henhold til denne forordning.
+  2. Følgende typer behandlede huder og skinn kan bringes i omsetning uten restriksjoner i henhold til denne forordning:
+
+     1. huder og skinn som har gjennomgått en fullstendig garvingsprosess,
+     2. huder og skinn i tilstanden «wet blue»,
+     3. huder og skinn i tilstanden «pickled pelts»,
+     4. huder og skinn i tilstanden «limed hides» (behandlet med kalk og i en saltlake med en pH-verdi på 12–13 i minst åtte timer).
 - Som unntak fra bokstav C nr. 2 kan vedkommende myndighet kreve at forsendelser av behandlede huder og skinn nevnt i nr. 2 bokstav c) og d) skal følges av et handelsdokument i samsvar med modellen i vedlegg VIII kapittel II nr. 6, når de leveres til virksomheter eller anlegg som framstiller fôr til kjæledyr, organisk gjødsel eller jordforbedringsmidler eller omdanner slikt materiale til biogass.
 
 ### KAPITTEL VI
 Særlige krav til jakttrofeer og andre preparater fra dyr
 
 1. Bestemmelsene i dette kapittel berører ikke tiltak for vern av ville dyr vedtatt i henhold til forordning [(EF) nr. 338/97](eu/31997r0338*).
-2. Anvendelse av sikre kilderJakttrofeer og andre preparater fra dyr kan, dersom de animalske biproduktene før prepareringen har gjennomgått en behandling eller framlegges i en tilstand som ikke innebærer noen helserisiko, bringes i omsetning, forutsatt at de kommer fraandre arter enn hovdyr, fugler og dyr av klassen Insecta eller Arachnida, ogdyr med opprinnelse i et område som ikke er underlagt restriksjoner på grunn av forekomst av alvorlige smittsomme sykdommer som dyr av de aktuelle artene er mottakelige for.
-3. Sikker behandlingJakttrofeer eller andre preparater fra dyr kan, dersom de animalske biproduktene før prepareringen har gjennomgått en behandling eller framlegges i en tilstand som ikke innebærer noen helserisiko, bringes i omsetning, forutsatt at dekommer fra hovdyr eller fugler som har gjennomgått fullstendig taksidermisk behandling for at de skal kunne konserveres ved omgivelsestemperatur,er monterte hovdyr eller fugler eller monterte deler av slike dyr,
-► **M4**har gjennomgått anatomisk preparering, for eksempel plastinering,er dyr av klassen Insecta eller Arachnida som har gjennomgått en behandling, for eksempel tørking, for å hindre spredning av sykdommer som kan overføres til mennesker eller dyr, eller
-►**M23**inngår i naturhistoriske samlinger eller skal fremme vitenskapen og erkonservert i medier, for eksempel alkohol eller formaldehyd, som gjør det mulig å stille ut gjenstandene,fullstendig innkapslet på objektglass, ellerbestår av hele skjeletter eller deler av skjeletter, bein eller tenner som utelukkende skal utveksles mellom museer og utdanningsinstitusjoner, ◄**M23**er bearbeidede DNA-prøver beregnet på materialbanker for å fremme forskning på biologisk mangfold, økologi, lege- og veterinærvitenskap eller biologi.
-◄ **M4**Jakttrofeer eller andre preparater, unntatt de som er nevnt i bokstav B) og bokstav C nr. 1, fra dyr som kommer fra et område som er omfattet av restriksjoner som følge av forekomst av alvorlige smittsomme sykdommer som dyr av den berørte art er mottakelige for, kan bringes i omsetning, forutsatt atnår det gjelder jakttrofeer eller andre preparater som består utelukkende av bein, horn, hover/klover, klør, gevir eller tenner:de har ligget i kokende vann i et hensiktsmessig tidsrom for å sikre at alle andre materialer enn bein, horn, hover/klover, klør, gevir eller tenner er fjernet,de er blitt desinfisert med et produkt som er godkjent av vedkommende myndighet, særlig med hydrogenperoksid for deler som består av bein,umiddelbart etter behandlingen og uten å komme i kontakt med andre produkter av animalsk opprinnelse som kan kontaminere dem, har de blitt pakket hver for seg i gjennomsiktig og lukket emballasje for å unngå enhver senere kontaminering, ogde følges av et hygienesertifikat som attesterer at vilkårene i punkt i)–iii) er oppfylt,når det gjelder jakttrofeer eller andre preparater som består utelukkende av huder eller skinn:de har blitttørket,tørrsaltet eller våtsaltet i minst 14 dager før avsendelse, ellerkonservert på annen måte enn ved garving,umiddelbart etter behandlingen og uten å komme i kontakt med andre produkter av animalsk opprinnelse som kan kontaminere dem, har de blitt pakket hver for seg i gjennomsiktig og lukket emballasje for å unngå enhver senere kontaminering, ogde følges av et handelsdokument eller et hygienesertifikat som attesterer at vilkårene i punkt i) og ii) er oppfylt.
+2. Anvendelse av sikre kilder
+
+   Jakttrofeer og andre preparater fra dyr kan, dersom de animalske biproduktene før prepareringen har gjennomgått en behandling eller framlegges i en tilstand som ikke innebærer noen helserisiko, bringes i omsetning, forutsatt at de kommer fra
+
+   1. andre arter enn hovdyr, fugler og dyr av klassen Insecta eller Arachnida, og
+   2. dyr med opprinnelse i et område som ikke er underlagt restriksjoner på grunn av forekomst av alvorlige smittsomme sykdommer som dyr av de aktuelle artene er mottakelige for.
+3. Sikker behandling
+
+   1. Jakttrofeer eller andre preparater fra dyr kan, dersom de animalske biproduktene før prepareringen har gjennomgått en behandling eller framlegges i en tilstand som ikke innebærer noen helserisiko, bringes i omsetning, forutsatt at de
+
+      1. kommer fra hovdyr eller fugler som har gjennomgått fullstendig taksidermisk behandling for at de skal kunne konserveres ved omgivelsestemperatur,
+      2. er monterte hovdyr eller fugler eller monterte deler av slike dyr,
+         ► **M4**
+      3. har gjennomgått anatomisk preparering, for eksempel plastinering,
+      4. er dyr av klassen Insecta eller Arachnida som har gjennomgått en behandling, for eksempel tørking, for å hindre spredning av sykdommer som kan overføres til mennesker eller dyr, eller
+         ►**M23**
+      5. inngår i naturhistoriske samlinger eller skal fremme vitenskapen og er
+
+         1. konservert i medier, for eksempel alkohol eller formaldehyd, som gjør det mulig å stille ut gjenstandene,
+         2. fullstendig innkapslet på objektglass, eller
+         3. består av hele skjeletter eller deler av skjeletter, bein eller tenner som utelukkende skal utveksles mellom museer og utdanningsinstitusjoner, ◄**M23**
+      6. er bearbeidede DNA-prøver beregnet på materialbanker for å fremme forskning på biologisk mangfold, økologi, lege- og veterinærvitenskap eller biologi.
+         ◄ **M4**
+   2. Jakttrofeer eller andre preparater, unntatt de som er nevnt i bokstav B) og bokstav C nr. 1, fra dyr som kommer fra et område som er omfattet av restriksjoner som følge av forekomst av alvorlige smittsomme sykdommer som dyr av den berørte art er mottakelige for, kan bringes i omsetning, forutsatt at
+
+      1. når det gjelder jakttrofeer eller andre preparater som består utelukkende av bein, horn, hover/klover, klør, gevir eller tenner:
+
+         1. de har ligget i kokende vann i et hensiktsmessig tidsrom for å sikre at alle andre materialer enn bein, horn, hover/klover, klør, gevir eller tenner er fjernet,
+         2. de er blitt desinfisert med et produkt som er godkjent av vedkommende myndighet, særlig med hydrogenperoksid for deler som består av bein,
+         3. umiddelbart etter behandlingen og uten å komme i kontakt med andre produkter av animalsk opprinnelse som kan kontaminere dem, har de blitt pakket hver for seg i gjennomsiktig og lukket emballasje for å unngå enhver senere kontaminering, og
+         4. de følges av et hygienesertifikat som attesterer at vilkårene i punkt i)–iii) er oppfylt,
+      2. når det gjelder jakttrofeer eller andre preparater som består utelukkende av huder eller skinn:
+
+         1. de har blitt
+
+            - tørket,
+            - tørrsaltet eller våtsaltet i minst 14 dager før avsendelse, eller
+            - konservert på annen måte enn ved garving,
+         2. umiddelbart etter behandlingen og uten å komme i kontakt med andre produkter av animalsk opprinnelse som kan kontaminere dem, har de blitt pakket hver for seg i gjennomsiktig og lukket emballasje for å unngå enhver senere kontaminering, og
+         3. de følges av et handelsdokument eller et hygienesertifikat som attesterer at vilkårene i punkt i) og ii) er oppfylt.
 
 ### KAPITTEL VII
 Særlige krav til ull, hår, grisebuster, fjør, deler av fjør og dun
 
-1. RåstoffUbehandlet ull, ubehandlet hår, ubehandlede grisebuster og ubehandlede fjør, deler av fjør og dun skal være kategori 3-materiale nevnt i artikkel 10 bokstav b) iii)–v) og artikkel 10 bokstav h) og n) i forordning [(EF) nr. 1069/2009](eu/32009r1069).De skal være tørre og forsvarlig pakket.Når det gjelder ubehandlede fjør, deler av fjør og dun som sendes direkte fra slakteriet til bearbeidingsanlegget, kan imidlertid vedkommende myndighet tillate unntak fra kravet om at materialet skal være tørt når det transporteres på deres territorium, forutsatt atalle nødvendige tiltak er truffet for å unngå eventuell sykdomsspredning,transporten finner sted i vanntette beholdere og/eller kjøretøyer som skal rengjøres og desinfiseres umiddelbart etter hver bruk.
-► **M2**Forflytning av grisebuster og ull og hår fra svin fra regioner der afrikansk svinepest er endemisk, skal forbys, med unntak av grisebuster, ull og hår fra svin som
-◄ **M2**er kokt, farget eller bleket, ellerhar gjennomgått en annen form for behandling som garanterer at sykdomsframkallende stoffer drepes, forutsatt at bevis for dette kan framlegges i form av et sertifikat utstedt av den ansvarlige veterinæren på opprinnelsesstedet. Fabrikkvask kan ikke anses som en behandlingsform i denne bestemmelse.Bestemmelsene i nr. 1 får ikke anvendelse for prydfjør eller andre fjørsom reisende har med for privat bruk, elleri forsendelser til privatpersoner i ikke-kommersielle sammenhenger.
-2. Sluttpunkt for ull og hårFabrikkvasket ull og hår, og ull og hår som er behandlet med en annen metode som sikrer at ingen uakseptabel risiko gjenstår, kan bringes i omsetning uten restriksjoner i henhold til denne forordning.Medlemsstatene kan tillate omsetning av ubehandlet ull og hår fra driftsenheter eller fra virksomheter eller anlegg som er blitt registrert i samsvar med artikkel 23 i forordning [(EF) nr. 1069/2009](eu/32009r1069) eller godkjent i samsvar med artikkel 24 nr. 1 bokstav i) i samme forordning, på deres territorium uten restriksjoner i henhold til denne forordning, dersom de finner det godtgjort at ullen og håret ikke innebærer en uakseptabel risiko for folkehelsen og dyrehelsen.
-► **M2**Ull og hår framstilt fra andre dyr enn svin kan bringes i omsetning uten restriksjoner i samsvar med denne forordning, forutsatt atullen eller håret har blitt behandlet ved fabrikkvasking som består av at den/det senkes i en serie vannbad, såpe og natriumhydroksid eller kaliumhydroksid, ellerullen eller håret sendes direkte til et anlegg som framstiller avledede produkter av ull eller hår for tekstilindustrien, og ullen eller håret har blitt behandlet med minst én av følgende framgangsmåter:kjemisk avbusting ved hjelp av lesket kalk eller natriumsulfid,utgassing med formaldehyd i et hermetisk forseglet kammer i minst 24 timer,industriell rensing som består av at ull og hår senkes i et vannløselig vaskemiddel som holder 60–70 °C,lagring, som kan omfatte transporttid, ved 37 °C i åtte dager, 18 °C i 28 dager eller 4 °C i 120 dager.
-◄ **M2**
-3. Sluttpunkt for fjør og dunFjør, deler av fjør og dun som har blitt fabrikkvasket og behandlet med varm damp ved 100 °C i minst 30 minutter, kan bringes i omsetning uten restriksjoner i henhold til denne forordning.
+1. Råstoff
+
+   1. Ubehandlet ull, ubehandlet hår, ubehandlede grisebuster og ubehandlede fjør, deler av fjør og dun skal være kategori 3-materiale nevnt i artikkel 10 bokstav b) iii)–v) og artikkel 10 bokstav h) og n) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+
+      De skal være tørre og forsvarlig pakket.
+
+      Når det gjelder ubehandlede fjør, deler av fjør og dun som sendes direkte fra slakteriet til bearbeidingsanlegget, kan imidlertid vedkommende myndighet tillate unntak fra kravet om at materialet skal være tørt når det transporteres på deres territorium, forutsatt at
+
+      1. alle nødvendige tiltak er truffet for å unngå eventuell sykdomsspredning,
+      2. transporten finner sted i vanntette beholdere og/eller kjøretøyer som skal rengjøres og desinfiseres umiddelbart etter hver bruk.
+         ► **M2**
+   2. Forflytning av grisebuster og ull og hår fra svin fra regioner der afrikansk svinepest er endemisk, skal forbys, med unntak av grisebuster, ull og hår fra svin som
+      ◄ **M2**
+
+      1. er kokt, farget eller bleket, eller
+      2. har gjennomgått en annen form for behandling som garanterer at sykdomsframkallende stoffer drepes, forutsatt at bevis for dette kan framlegges i form av et sertifikat utstedt av den ansvarlige veterinæren på opprinnelsesstedet. Fabrikkvask kan ikke anses som en behandlingsform i denne bestemmelse.
+   3. Bestemmelsene i nr. 1 får ikke anvendelse for prydfjør eller andre fjør
+
+      1. som reisende har med for privat bruk, eller
+      2. i forsendelser til privatpersoner i ikke-kommersielle sammenhenger.
+2. Sluttpunkt for ull og hår
+
+   Fabrikkvasket ull og hår, og ull og hår som er behandlet med en annen metode som sikrer at ingen uakseptabel risiko gjenstår, kan bringes i omsetning uten restriksjoner i henhold til denne forordning.
+
+   Medlemsstatene kan tillate omsetning av ubehandlet ull og hår fra driftsenheter eller fra virksomheter eller anlegg som er blitt registrert i samsvar med artikkel 23 i forordning [(EF) nr. 1069/2009](eu/32009r1069) eller godkjent i samsvar med artikkel 24 nr. 1 bokstav i) i samme forordning, på deres territorium uten restriksjoner i henhold til denne forordning, dersom de finner det godtgjort at ullen og håret ikke innebærer en uakseptabel risiko for folkehelsen og dyrehelsen.
+   ► **M2**
+
+   Ull og hår framstilt fra andre dyr enn svin kan bringes i omsetning uten restriksjoner i samsvar med denne forordning, forutsatt at
+
+   1. ullen eller håret har blitt behandlet ved fabrikkvasking som består av at den/det senkes i en serie vannbad, såpe og natriumhydroksid eller kaliumhydroksid, eller
+   2. ullen eller håret sendes direkte til et anlegg som framstiller avledede produkter av ull eller hår for tekstilindustrien, og ullen eller håret har blitt behandlet med minst én av følgende framgangsmåter:
+
+      1. kjemisk avbusting ved hjelp av lesket kalk eller natriumsulfid,
+      2. utgassing med formaldehyd i et hermetisk forseglet kammer i minst 24 timer,
+      3. industriell rensing som består av at ull og hår senkes i et vannløselig vaskemiddel som holder 60–70 °C,
+      4. lagring, som kan omfatte transporttid, ved 37 °C i åtte dager, 18 °C i 28 dager eller 4 °C i 120 dager.
+         ◄ **M2**
+3. Sluttpunkt for fjør og dun
+
+   Fjør, deler av fjør og dun som har blitt fabrikkvasket og behandlet med varm damp ved 100 °C i minst 30 minutter, kan bringes i omsetning uten restriksjoner i henhold til denne forordning.
 
 ### KAPITTEL VIII
 Særlige krav til pels
@@ -3122,7 +5817,15 @@ Pels som har blitt tørket ved en omgivelsestemperatur på 18 °C i to dager ved
 ### KAPITTEL IX
 Særlige krav til biprodukter av biavl
 
-Biprodukter av biavl som er beregnet utelukkende på bruk i biavl, skalikke komme fra et område som er underlagt forbud i forbindelse med utbrudd avamerikansk bipest (*Paenibacillus larvae larvae*), med mindre vedkommende myndighet har vurdert faren som ubetydelig, og har utstedt en særskilt godkjenning bare til bruk i den nevnte medlemsstaten, og har truffet alle nødvendige tiltak for å unngå enhver spredning av sykdommen,akarinose (*Acarapis woodi* (Rennie)), med mindre bestemmelsesområdet har mottatt tilleggsgarantier i samsvar med artikkel 14 nr. 2 i direktiv [92/65/EØF](eu/31992l0065*),liten kubebille (*Aethina tumida*), ellerTropilaelaps-midd (*Tropilaelaps* spp.), ogoppfylle kravene fastsatt i artikkel 8 bokstav a) i direktiv [92/65/EØF](eu/31992l0065*).
+Biprodukter av biavl som er beregnet utelukkende på bruk i biavl, skal
+
+1. ikke komme fra et område som er underlagt forbud i forbindelse med utbrudd av
+
+   1. amerikansk bipest (*Paenibacillus larvae larvae*), med mindre vedkommende myndighet har vurdert faren som ubetydelig, og har utstedt en særskilt godkjenning bare til bruk i den nevnte medlemsstaten, og har truffet alle nødvendige tiltak for å unngå enhver spredning av sykdommen,
+   2. akarinose (*Acarapis woodi* (Rennie)), med mindre bestemmelsesområdet har mottatt tilleggsgarantier i samsvar med artikkel 14 nr. 2 i direktiv [92/65/EØF](eu/31992l0065*),
+   3. liten kubebille (*Aethina tumida*), eller
+   4. Tropilaelaps-midd (*Tropilaelaps* spp.), og
+2. oppfylle kravene fastsatt i artikkel 8 bokstav a) i direktiv [92/65/EØF](eu/31992l0065*).
 
 ### KAPITTEL X
 Særlige krav til smeltet fett framstilt av kategori 1- eller 2-materiale for fettbearbeidingsformål
@@ -3134,17 +5837,42 @@ Særlige krav til smeltet fett framstilt av kategori 1- eller 2-materiale for fe
 Særlige krav til fettderivater
 
 1. Følgende prosesser kan anvendes til framstilling av fettderivater fra smeltet fett fra kategori 2-materiale:
-►**M23**transesterifisering eller hydrolyse ved en temperatur på minst 200 °C under tilsvarende egnet trykk i minst 20 minutter (glyserol, fettsyrer og estere), ◄**M23**forsåpning med NaOH 12M (glyserol og såpe)i et diskontinuerlig system ved 95 °C i tre timer, elleri et kontinuerlig system ved 140 °C, 2 bar (2 000 hPa) i åtte minutter, ellerhydrogenering ved 160 °C, 12 bar (12 000 hPa) i 20 minutter.
-2. Fettderivater framstilt i samsvar med dette kapittel kan bringes i omsetning barefor annen bruk enn i fôr, kosmetikk og legemidler,når det gjelder fettderivater fra kategori 1-materiale, dessuten for annen bruk enn i organisk gjødsel og jordforbedringsmidler.
-► **M4**
-3. Sluttpunkt for produkter framstilt av smeltet fett:Fettderivater som er bearbeidet i henhold til punkt 1, kan bringes i omsetning til bruksformål angitt i punkt 2 uten begrensninger i henhold til denne forordning.
-◄ **M4**
+   ►**M23**
+
+   1. transesterifisering eller hydrolyse ved en temperatur på minst 200 °C under tilsvarende egnet trykk i minst 20 minutter (glyserol, fettsyrer og estere), ◄**M23**
+   2. forsåpning med NaOH 12M (glyserol og såpe)
+
+      1. i et diskontinuerlig system ved 95 °C i tre timer, eller
+      2. i et kontinuerlig system ved 140 °C, 2 bar (2 000 hPa) i åtte minutter, eller
+   3. hydrogenering ved 160 °C, 12 bar (12 000 hPa) i 20 minutter.
+2. Fettderivater framstilt i samsvar med dette kapittel kan bringes i omsetning bare
+
+   1. for annen bruk enn i fôr, kosmetikk og legemidler,
+   2. når det gjelder fettderivater fra kategori 1-materiale, dessuten for annen bruk enn i organisk gjødsel og jordforbedringsmidler.
+      ► **M4**
+3. Sluttpunkt for produkter framstilt av smeltet fett:
+
+   Fettderivater som er bearbeidet i henhold til punkt 1, kan bringes i omsetning til bruksformål angitt i punkt 2 uten begrensninger i henhold til denne forordning.
+   ◄ **M4**
 
 ### KAPITTEL XII
 Særlige krav til horn og hornprodukter, unntatt hornmel, og hover/klover og hov-/klovprodukter, unntatt hov-/klovmel, til framstilling av organisk gjødsel og jordforbedringsmidler
 
-Omsetningen av horn og hornprodukter, unntatt hornmel, og hover/klover og hov-/klovprodukter, unntatt hov-/klovmel, til framstilling av organisk gjødsel og jordforbedringsmidler, skal være underlagt følgende vilkår:de må komme fra dyr somenten er slaktet på et slakteri, og som etter å ha gjennomgått en kontroll ante mortem, er funnet egnet til å slaktes for konsum i samsvar med Unionens regelverk, ellerikke har vist kliniske tegn på sykdommer som kan overføres til mennesker eller dyr gjennom dette produktet,de har gjennomgått en varmebehandling i én time med en kjernetemperatur på minst 80 °C,hornene skal være fjernet uten at kraniehulen er åpnet,alle forholdsregler skal tas på alle trinn av bearbeidingen, lagringen eller transporten for å unngå krysskontaminering,de skal være pakket enten i ny emballasje eller nye beholdere, eller de skal transporteres i kjøretøyer eller bulkcontainere som før lastingen er blitt desinfisert med et produkt godkjent av vedkommende myndighet,emballasjen eller beholderne skalangi produkttype (horn, hornprodukter, hover/klover eller hov-/klovprodukter),være merket med navn og adresse til den/det godkjente eller registrerte bestemmelsesvirksomheten eller -anlegget.
-► **M1**
+Omsetningen av horn og hornprodukter, unntatt hornmel, og hover/klover og hov-/klovprodukter, unntatt hov-/klovmel, til framstilling av organisk gjødsel og jordforbedringsmidler, skal være underlagt følgende vilkår:
+
+1. de må komme fra dyr som
+
+   1. enten er slaktet på et slakteri, og som etter å ha gjennomgått en kontroll ante mortem, er funnet egnet til å slaktes for konsum i samsvar med Unionens regelverk, eller
+   2. ikke har vist kliniske tegn på sykdommer som kan overføres til mennesker eller dyr gjennom dette produktet,
+2. de har gjennomgått en varmebehandling i én time med en kjernetemperatur på minst 80 °C,
+3. hornene skal være fjernet uten at kraniehulen er åpnet,
+4. alle forholdsregler skal tas på alle trinn av bearbeidingen, lagringen eller transporten for å unngå krysskontaminering,
+5. de skal være pakket enten i ny emballasje eller nye beholdere, eller de skal transporteres i kjøretøyer eller bulkcontainere som før lastingen er blitt desinfisert med et produkt godkjent av vedkommende myndighet,
+6. emballasjen eller beholderne skal
+
+   1. angi produkttype (horn, hornprodukter, hover/klover eller hov-/klovprodukter),
+   2. være merket med navn og adresse til den/det godkjente eller registrerte bestemmelsesvirksomheten eller -anlegget.
+      ► **M1**
 
 ### KAPITTEL XIII
 Særskilte krav for fiskeolje til framstilling av legemidler
@@ -3163,9 +5891,18 @@ SÆRLIGE KRAV TIL IMPORT TIL OG TRANSITT GJENNOM UNIONEN AV KATEGORI 3-materiale
 
 ###### Avsnitt 1
 
-Følgende krav skal i henhold til artikkel 41 nr. 1 bokstav a) og nr. 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069) gjelde for importerte forsendelser av kategori 3-materiale og avledede produkter til andre bruksformål i fôrkjeden enn fôr til kjæledyr eller fôr til pelsdyr, og for forsendelser av slikt materiale og slike produkter i transitt:de skal bestå av eller være framstilt av kategori 3-materiale oppført i kolonnen «råstoffer» i tabell 1,de skal oppfylle vilkårene for import og transitt i kolonnen «vilkår for import og transitt» i tabell 1,
-► **M4**de skal komme fra en tredjestat eller en del av en tredjestat som er oppført i kolonnen «liste over tredjestater» i tabell 1,de skal komme fra en virksomhet eller et anlegg som er registrert eller godkjent av vedkommende myndighet i tredjestaten, og som er oppført på listen over slike virksomheter og anlegg nevnt i artikkel 30, ogde skalledsages under transporten til det innførselsstedet i Unionen der veterinærkontrollen finner sted, av hygienesertifikatet nevnt i kolonnen «sertifikater/dokumentmodeller» i tabell 1, ellerframvises på det innførselsstedet til Unionen der veterinærkontrollen finner sted, sammen med et dokument som tilsvarer modellen nevnt i kolonnen «sertifikater/dokumentmodeller» i tabell 2
-◄ **M4**
+Følgende krav skal i henhold til artikkel 41 nr. 1 bokstav a) og nr. 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069) gjelde for importerte forsendelser av kategori 3-materiale og avledede produkter til andre bruksformål i fôrkjeden enn fôr til kjæledyr eller fôr til pelsdyr, og for forsendelser av slikt materiale og slike produkter i transitt:
+
+1. de skal bestå av eller være framstilt av kategori 3-materiale oppført i kolonnen «råstoffer» i tabell 1,
+2. de skal oppfylle vilkårene for import og transitt i kolonnen «vilkår for import og transitt» i tabell 1,
+   ► **M4**
+3. de skal komme fra en tredjestat eller en del av en tredjestat som er oppført i kolonnen «liste over tredjestater» i tabell 1,
+4. de skal komme fra en virksomhet eller et anlegg som er registrert eller godkjent av vedkommende myndighet i tredjestaten, og som er oppført på listen over slike virksomheter og anlegg nevnt i artikkel 30, og
+5. de skal
+
+   1. ledsages under transporten til det innførselsstedet i Unionen der veterinærkontrollen finner sted, av hygienesertifikatet nevnt i kolonnen «sertifikater/dokumentmodeller» i tabell 1, eller
+   2. framvises på det innførselsstedet til Unionen der veterinærkontrollen finner sted, sammen med et dokument som tilsvarer modellen nevnt i kolonnen «sertifikater/dokumentmodeller» i tabell 2
+      ◄ **M4**
 
 ###### ►**M32** Tabell 1
 
@@ -3195,30 +5932,112 @@ Import av bearbeidet animalsk protein, herunder andre blandinger og produkter en
 
 ◄ **M1**
 
-Følgende krav skal gjelde for import av bearbeidet animalsk protein:Før forsendelser kan frigis for fri omsetning i Unionen, skal vedkommende myndighet ved import av bearbeidet animalsk protein ta stikkprøver av importerte forsendelser ved grensekontrollstasjonen for å sikre at de alminnelige kravene i vedlegg X kapittel I oppfylles.Vedkommende myndighet skalta prøver av alle forsendelser som transporteres i bulk,foreta stikkprøvekontroll av forsendelser av produkter som er emballert på opprinnelsesproduksjonsanlegget.Som unntak fra nr. 1 gjelder at dersom seks etterfølgende prøver av bulkforsendelser med opprinnelse i en tredjestat har vært negative, kan vedkommende myndighet for grensekontrollstasjonen foreta stikkprøvekontroll av senere bulkforsendelser fra den tredjestaten.Dersom én av disse stikkprøvene er positive, skal vedkommende myndighet som foretar stikkprøvekontrollen, underrette vedkommende myndighet i opprinnelsestredjestaten, slik at den kan treffe egnede tiltak for å rette opp situasjonen.Vedkommende myndighet i opprinnelsestredjestaten skal gjøre vedkommende myndighet som foretar stikkprøvekontroller, oppmerksom på disse tiltakene.Dersom det påvises enda en positiv prøve fra samme kilde, skal vedkommende myndighet for grensekontrollstasjonen ta prøver av alle forsendelser fra denne kilden til seks etterfølgende prøver igjen er negative.Vedkommende myndigheter skal oppbevare resultatene fra prøvetakingen av alle forsendelser som er kontrollert, i minst tre år.Dersom det påvises salmonella i en forsendelse som importeres til Unionen, eller forsendelsen ikke oppfyller de mikrobiologiske kravene til enterobacteriaceae i vedlegg X kapittel I, skal den entenbehandles etter framgangsmåten fastsatt i artikkel 17 nr. 2 bokstav a) i direktiv [97/78/EF](eu/31997l0078), ellerbearbeides på nytt i et bearbeidingsanlegg eller dekontamineres ved hjelp av en behandling som er godkjent av vedkommende myndighet. Forsendelsen skal ikke frigis før den er behandlet og undersøkt for salmonella eller enterobacteriaceae, om nødvendig, av vedkommende myndighet i samsvar med vedlegg X kapittel I med negativt resultat.
-►**M12**
-**►M36**Bearbeidet animalsk protein fra oppdrettsinsekter kan importeres til Unionen, forutsatt at det er framstilt i sam-svar med følgende vilkår:Insektene tilhører en av følgende arter:Svart soldatflue (*Hermetia illucens*) og husflue (Musca domestica).Stor melbille (Tenebrio molitor) og liten melbille (*Alphitobius diaperinus*).Hussiriss (*Acheta domesticus*), tropisk hussiriss (*Gryllodes sigillatus*) og feltsiriss (*Gryllus assimilis*).Silkeorm (*Bombyx mori*).◄**M36**substratet som insektene fôres med, kan bare inneholde produkter av ikke-animalsk opprinnelse eller følgende produkter av animalsk opprinnelse fra kategori 3-materiale:fiskemel,blodprodukter fra andre dyr enn drøvtyggere,dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,hydrolyserte proteiner fra andre dyr enn drøvtyggere,hydrolyserte proteiner fra huder og skinn fra drøvtyggere,gelatin og kollagen fra andre dyr enn drøvtyggere,egg og eggprodukter,melk, melkebaserte produkter, produkter framstilt fra melk og råmelk,honning,smeltet fett,substratet som insektene fôres med, samt insektene eller deres larver har ikke vært i kontakt med noe annet materiale av animalsk opprinnelse enn det som er nevnt i bokstav b), og substratet inneholdt ikke naturgjødsel, kjøkken- og matavfall eller annet avfall. ◄**M12**
+Følgende krav skal gjelde for import av bearbeidet animalsk protein:
+
+1. Før forsendelser kan frigis for fri omsetning i Unionen, skal vedkommende myndighet ved import av bearbeidet animalsk protein ta stikkprøver av importerte forsendelser ved grensekontrollstasjonen for å sikre at de alminnelige kravene i vedlegg X kapittel I oppfylles.
+
+   Vedkommende myndighet skal
+
+   1. ta prøver av alle forsendelser som transporteres i bulk,
+   2. foreta stikkprøvekontroll av forsendelser av produkter som er emballert på opprinnelsesproduksjonsanlegget.
+2. Som unntak fra nr. 1 gjelder at dersom seks etterfølgende prøver av bulkforsendelser med opprinnelse i en tredjestat har vært negative, kan vedkommende myndighet for grensekontrollstasjonen foreta stikkprøvekontroll av senere bulkforsendelser fra den tredjestaten.
+
+   Dersom én av disse stikkprøvene er positive, skal vedkommende myndighet som foretar stikkprøvekontrollen, underrette vedkommende myndighet i opprinnelsestredjestaten, slik at den kan treffe egnede tiltak for å rette opp situasjonen.
+
+   Vedkommende myndighet i opprinnelsestredjestaten skal gjøre vedkommende myndighet som foretar stikkprøvekontroller, oppmerksom på disse tiltakene.
+
+   Dersom det påvises enda en positiv prøve fra samme kilde, skal vedkommende myndighet for grensekontrollstasjonen ta prøver av alle forsendelser fra denne kilden til seks etterfølgende prøver igjen er negative.
+3. Vedkommende myndigheter skal oppbevare resultatene fra prøvetakingen av alle forsendelser som er kontrollert, i minst tre år.
+4. Dersom det påvises salmonella i en forsendelse som importeres til Unionen, eller forsendelsen ikke oppfyller de mikrobiologiske kravene til enterobacteriaceae i vedlegg X kapittel I, skal den enten
+
+   1. behandles etter framgangsmåten fastsatt i artikkel 17 nr. 2 bokstav a) i direktiv [97/78/EF](eu/31997l0078), eller
+   2. bearbeides på nytt i et bearbeidingsanlegg eller dekontamineres ved hjelp av en behandling som er godkjent av vedkommende myndighet. Forsendelsen skal ikke frigis før den er behandlet og undersøkt for salmonella eller enterobacteriaceae, om nødvendig, av vedkommende myndighet i samsvar med vedlegg X kapittel I med negativt resultat.
+      ►**M12**
+      **►M36**
+5. Bearbeidet animalsk protein fra oppdrettsinsekter kan importeres til Unionen, forutsatt at det er framstilt i sam-svar med følgende vilkår:
+
+   1. Insektene tilhører en av følgende arter:
+
+      - Svart soldatflue (*Hermetia illucens*) og husflue (Musca domestica).
+      - Stor melbille (Tenebrio molitor) og liten melbille (*Alphitobius diaperinus*).
+      - Hussiriss (*Acheta domesticus*), tropisk hussiriss (*Gryllodes sigillatus*) og feltsiriss (*Gryllus assimilis*).
+      - Silkeorm (*Bombyx mori*).
+
+      ◄**M36**
+   2. substratet som insektene fôres med, kan bare inneholde produkter av ikke-animalsk opprinnelse eller følgende produkter av animalsk opprinnelse fra kategori 3-materiale:
+
+      - fiskemel,
+      - blodprodukter fra andre dyr enn drøvtyggere,
+      - dikalsiumfosfat og trikalsiumfosfat av animalsk opprinnelse,
+      - hydrolyserte proteiner fra andre dyr enn drøvtyggere,
+      - hydrolyserte proteiner fra huder og skinn fra drøvtyggere,
+      - gelatin og kollagen fra andre dyr enn drøvtyggere,
+      - egg og eggprodukter,
+      - melk, melkebaserte produkter, produkter framstilt fra melk og råmelk,
+      - honning,
+      - smeltet fett,
+   3. substratet som insektene fôres med, samt insektene eller deres larver har ikke vært i kontakt med noe annet materiale av animalsk opprinnelse enn det som er nevnt i bokstav b), og substratet inneholdt ikke naturgjødsel, kjøkken- og matavfall eller annet avfall. ◄**M12**
 
 ###### Avsnitt 3
 
 Import av smeltet fett
 
-Følgende krav skal gjelde for import av smeltet fett:Smeltet fett skalvære helt eller delvis framstilt av råstoff fra svin og komme fra en tredjestat eller en del av en tredjestat som har vært fri for munn- og klovsyke de siste 24 månedene og fri for klassisk svinepest og afrikansk svinepest de siste 12 månedene,være helt eller delvis framstilt av råstoff fra fjørfe og komme fra en tredjestat eller en del av en tredjestat som har vært fri for Newcastle disease og aviær influensa de siste seks månedene,være helt eller delvis framstilt av råstoff fra drøvtyggere og komme fra en tredjestat eller en del av en tredjestat som har vært fri for munn- og klovsyke de siste 24 månedene og fri for kvegpest de siste tolv månedene, ellerdersom det har forekommet utbrudd av en av sykdommene nevnt i bokstav a)–c) i det relevante tidsrommet som er nevnt i disse bokstavene, ha gjennomgått en av følgende varmebehandlinger:ved minst 70 °C i minst 30 minutter, ellerved minst 90 °C i minst 15 minutter.Nærmere opplysninger om de kritiske kontrollpunktene skal registreres og oppbevares av den driftsansvarlige slik at eieren, den driftsansvarlige eller vedkommendes representant og, om nødvendig vedkommende myndighet kan kontrollere driften av anlegget; de registrerte opplysningene skal omfatte partikkelstørrelse, kritisk temperatur og eventuelt absolutt tid, trykkprofil, tilførselshastighet for råstoff og resirkuleringsrate for fett.
+Følgende krav skal gjelde for import av smeltet fett:
+
+Smeltet fett skal
+
+1. være helt eller delvis framstilt av råstoff fra svin og komme fra en tredjestat eller en del av en tredjestat som har vært fri for munn- og klovsyke de siste 24 månedene og fri for klassisk svinepest og afrikansk svinepest de siste 12 månedene,
+2. være helt eller delvis framstilt av råstoff fra fjørfe og komme fra en tredjestat eller en del av en tredjestat som har vært fri for Newcastle disease og aviær influensa de siste seks månedene,
+3. være helt eller delvis framstilt av råstoff fra drøvtyggere og komme fra en tredjestat eller en del av en tredjestat som har vært fri for munn- og klovsyke de siste 24 månedene og fri for kvegpest de siste tolv månedene, eller
+4. dersom det har forekommet utbrudd av en av sykdommene nevnt i bokstav a)–c) i det relevante tidsrommet som er nevnt i disse bokstavene, ha gjennomgått en av følgende varmebehandlinger:
+
+   1. ved minst 70 °C i minst 30 minutter, eller
+   2. ved minst 90 °C i minst 15 minutter.
+
+      Nærmere opplysninger om de kritiske kontrollpunktene skal registreres og oppbevares av den driftsansvarlige slik at eieren, den driftsansvarlige eller vedkommendes representant og, om nødvendig vedkommende myndighet kan kontrollere driften av anlegget; de registrerte opplysningene skal omfatte partikkelstørrelse, kritisk temperatur og eventuelt absolutt tid, trykkprofil, tilførselshastighet for råstoff og resirkuleringsrate for fett.
 
 ###### Avsnitt 4
 
 Import av melk, melkebaserte produkter, produkter framstilt av melk, råmelk og råmelksprodukter
 
-1. Følgende krav skal gjelde for import av melk, melkebaserte produkter, produkter avledet av melk, råmelk og råmelksprodukter:Melk, melkebaserte produkter og produkter framstilt av melk skalha gjennomgått minst en av behandlingene i vedlegg X kapittel II avsnitt 4 del I bokstav B nr. 1.1, 1.2, 1.3 og nr. 1.4 bokstav a),oppfylle vilkårene i vedlegg X kapittel II avsnitt 4 del I bokstav B nr. 2 og 4, og når det gjelder myse, nr. 3.Som unntak fra vedlegg X kapittel II avsnitt 4 del I bokstav B nr. 1.4 kan melk, melkebaserte produkter og produkter framstilt av melk importeres fra godkjente tredjestater oppført i kolonne A i vedlegg I til forordning [(EU) nr. 605/2010](eu/32010r0605*), forutsatt at melken, de melkebaserte produktene eller produktene som er framstilt av melk, har gjennomgått én enkelt HTST-behandling ogtidligst er avsendt 21 dager etter framstillingen, og det i dette tidsrommet ikke er påvist noen tilfeller av munn- og klovsyke i avsendertredjestaten, ellerer blitt forevist ved en grensekontrollstasjon på et innførselssted til Unionen tidligst 21 dager etter framstillingen, og at det i løpet av dette tidsrommet ikke er påvist noen tilfeller av munn- og klovsyke i avsendertredjestaten.
-2. Følgende krav skal gjelde for import av råmelk og råmelksprodukter:Materialet skal ha gjennomgått én enkelt HTST-behandling ogtidligst være avsendt 21 dager etter framstillingen, og det skal i dette tidsrommet ikke være påvist noen tilfeller av munn- og klovsyke i avsendertredjestaten, ellerha blitt forevist ved en grensekontrollstasjon på et innførselssted til Unionen tidligst 21 dager etter framstillingen, og det skal i løpet av dette tidsrommet ikke være påvist noen tilfeller av munn- og klovsyke i avsendertredjestaten.Materialet skal komme fra storfe som har gjennomgått regelmessig veterinærkontroll for å sikre at de kommer fra driftsenheter der alle storfebesetningerenten er offisielt anerkjent som tuberkulosefrie og offisielt brucellosefrie i henhold til artikkel 2 nr. 2 bokstav d) og f) i direktiv [64/432/EØF](eu/31964l0432*) eller ikke omfattes av restriksjoner i henhold til nasjonal lovgivning i opprinnelsestredjestaten om råmelk med hensyn til utryddelse av tuberkulose og brucellose, ogenten er offisielt anerkjent som frie fra enzootisk bovin leukose i henhold til artikkel 2 nr. 2 bokstav j) i direktiv [64/432/EØF](eu/31964l0432*) eller omfattes av en offentlig ordning for kontroll av enzootisk bovin leukose, og det er ikke påvist tegn på denne sykdommen i besetningen de siste to år, verken i kliniske undersøkelser eller i laboratorieundersøkelser.Etter bearbeidingen skal alle nødvendige forholdsregler være tatt for å unngå kontaminering av råmelken eller råmelksproduktene.Sluttproduktet skal merkes med angivelse av at det inneholder kategori 3-materiale og ikke er beregnet på konsum, og det skalvære pakket i nye beholdere, ellertransporteres i bulkcontainere eller andre transportmidler som er grundig rengjort og desinfisert før bruk.
-► **M9**
+1. Følgende krav skal gjelde for import av melk, melkebaserte produkter, produkter avledet av melk, råmelk og råmelksprodukter:
+
+   1. Melk, melkebaserte produkter og produkter framstilt av melk skal
+
+      1. ha gjennomgått minst en av behandlingene i vedlegg X kapittel II avsnitt 4 del I bokstav B nr. 1.1, 1.2, 1.3 og nr. 1.4 bokstav a),
+      2. oppfylle vilkårene i vedlegg X kapittel II avsnitt 4 del I bokstav B nr. 2 og 4, og når det gjelder myse, nr. 3.
+   2. Som unntak fra vedlegg X kapittel II avsnitt 4 del I bokstav B nr. 1.4 kan melk, melkebaserte produkter og produkter framstilt av melk importeres fra godkjente tredjestater oppført i kolonne A i vedlegg I til forordning [(EU) nr. 605/2010](eu/32010r0605*), forutsatt at melken, de melkebaserte produktene eller produktene som er framstilt av melk, har gjennomgått én enkelt HTST-behandling og
+
+      1. tidligst er avsendt 21 dager etter framstillingen, og det i dette tidsrommet ikke er påvist noen tilfeller av munn- og klovsyke i avsendertredjestaten, eller
+      2. er blitt forevist ved en grensekontrollstasjon på et innførselssted til Unionen tidligst 21 dager etter framstillingen, og at det i løpet av dette tidsrommet ikke er påvist noen tilfeller av munn- og klovsyke i avsendertredjestaten.
+2. Følgende krav skal gjelde for import av råmelk og råmelksprodukter:
+
+   1. Materialet skal ha gjennomgått én enkelt HTST-behandling og
+
+      1. tidligst være avsendt 21 dager etter framstillingen, og det skal i dette tidsrommet ikke være påvist noen tilfeller av munn- og klovsyke i avsendertredjestaten, eller
+      2. ha blitt forevist ved en grensekontrollstasjon på et innførselssted til Unionen tidligst 21 dager etter framstillingen, og det skal i løpet av dette tidsrommet ikke være påvist noen tilfeller av munn- og klovsyke i avsendertredjestaten.
+   2. Materialet skal komme fra storfe som har gjennomgått regelmessig veterinærkontroll for å sikre at de kommer fra driftsenheter der alle storfebesetninger
+
+      1. enten er offisielt anerkjent som tuberkulosefrie og offisielt brucellosefrie i henhold til artikkel 2 nr. 2 bokstav d) og f) i direktiv [64/432/EØF](eu/31964l0432*) eller ikke omfattes av restriksjoner i henhold til nasjonal lovgivning i opprinnelsestredjestaten om råmelk med hensyn til utryddelse av tuberkulose og brucellose, og
+      2. enten er offisielt anerkjent som frie fra enzootisk bovin leukose i henhold til artikkel 2 nr. 2 bokstav j) i direktiv [64/432/EØF](eu/31964l0432*) eller omfattes av en offentlig ordning for kontroll av enzootisk bovin leukose, og det er ikke påvist tegn på denne sykdommen i besetningen de siste to år, verken i kliniske undersøkelser eller i laboratorieundersøkelser.
+   3. Etter bearbeidingen skal alle nødvendige forholdsregler være tatt for å unngå kontaminering av råmelken eller råmelksproduktene.
+   4. Sluttproduktet skal merkes med angivelse av at det inneholder kategori 3-materiale og ikke er beregnet på konsum, og det skal
+
+      1. være pakket i nye beholdere, eller
+      2. transporteres i bulkcontainere eller andre transportmidler som er grundig rengjort og desinfisert før bruk.
+         ► **M9**
 
 ###### Avsnitt 5
 
 Import av blodprodukter til fôring av produksjonsdyr
 
-Følgende krav skal gjelde ved import av blodprodukter, herunder spraytørket blod og blodplasma fra svin som er beregnet på fôring av svin:Disse avledede produktene skalgjennomgå en varmebehandling ved en kjernetemperatur på minst 80 °C, der det tørkede blodet og blodplasmaet inneholder høyst 8 % fuktighet med en vannaktivitet (Aw) på mindre enn 0,60,lagres ved romtemperatur under tørre lagerforhold i minst seks uker.
-◄ **M9**
+Følgende krav skal gjelde ved import av blodprodukter, herunder spraytørket blod og blodplasma fra svin som er beregnet på fôring av svin:
+
+Disse avledede produktene skal
+
+1. gjennomgå en varmebehandling ved en kjernetemperatur på minst 80 °C, der det tørkede blodet og blodplasmaet inneholder høyst 8 % fuktighet med en vannaktivitet (Aw) på mindre enn 0,60,
+2. lagres ved romtemperatur under tørre lagerforhold i minst seks uker.
+   ◄ **M9**
 
 ### KAPITTEL II
 SÆRLIGE KRAV TIL IMPORT TIL OG TRANSITT GJENNOM UNIONEN AV ANIMALSKE PRODUKTER OG AVLEDEDE PRODUKTER FOR BRUK UTENFOR FÔRKJEDEN FOR ANDRE PRODUKSJONSDYR ENN PELSDYR
@@ -3227,9 +6046,18 @@ SÆRLIGE KRAV TIL IMPORT TIL OG TRANSITT GJENNOM UNIONEN AV ANIMALSKE PRODUKTER 
 
 Særlige krav
 
-I henhold til artikkel 41 nr. 1 bokstav a), artikkel 41 nr. 2 bokstav c) og artikkel 41 nr. 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal følgende krav gjelde for importerte forsendelser av animalske biprodukter og avledede produkter til bruk utenfor fôrkjeden for produksjonsdyr, og for forsendelser av slike produkter i transitt:de skal bestå av eller være framstilt av animalske biprodukter oppført i kolonnen «råstoffer» i tabell 2,de skal oppfylle vilkårene for import og transitt i kolonnen «vilkår for import og transitt» i tabell 2,
-► **M4**de skal komme fra en tredjestat eller en del av en tredjestat som er oppført i kolonnen «liste over tredjestater» i tabell 2, ◄ **B** ► **EØS** eller Svalbard ◄ **EØS** ► **B**de skal komme fra en virksomhet eller et anlegg som er registrert eller godkjent av vedkommende myndighet i tredjestaten, og som er oppført på listen over slike virksomheter og anlegg nevnt i artikkel 30, ogde skalledsages under transporten til det innførselsstedet i Unionen der veterinærkontrollen finner sted, av hygienesertifikatet nevnt i kolonnen «sertifikater/dokumentmodeller» i tabell 2, ellerframvises på det innførselsstedet i Unionen der veterinærkontrollen finner sted, sammen med et dokument som tilsvarer modellen nevnt i kolonnen «sertifikater/dokumentmodeller» i tabell 2.
-◄ **M4**
+I henhold til artikkel 41 nr. 1 bokstav a), artikkel 41 nr. 2 bokstav c) og artikkel 41 nr. 3 i forordning [(EF) nr. 1069/2009](eu/32009r1069) skal følgende krav gjelde for importerte forsendelser av animalske biprodukter og avledede produkter til bruk utenfor fôrkjeden for produksjonsdyr, og for forsendelser av slike produkter i transitt:
+
+1. de skal bestå av eller være framstilt av animalske biprodukter oppført i kolonnen «råstoffer» i tabell 2,
+2. de skal oppfylle vilkårene for import og transitt i kolonnen «vilkår for import og transitt» i tabell 2,
+   ► **M4**
+3. de skal komme fra en tredjestat eller en del av en tredjestat som er oppført i kolonnen «liste over tredjestater» i tabell 2, ◄ **B** ► **EØS** eller Svalbard ◄ **EØS** ► **B**
+4. de skal komme fra en virksomhet eller et anlegg som er registrert eller godkjent av vedkommende myndighet i tredjestaten, og som er oppført på listen over slike virksomheter og anlegg nevnt i artikkel 30, og
+5. de skal
+
+   1. ledsages under transporten til det innførselsstedet i Unionen der veterinærkontrollen finner sted, av hygienesertifikatet nevnt i kolonnen «sertifikater/dokumentmodeller» i tabell 2, eller
+   2. framvises på det innførselsstedet i Unionen der veterinærkontrollen finner sted, sammen med et dokument som tilsvarer modellen nevnt i kolonnen «sertifikater/dokumentmodeller» i tabell 2.
+      ◄ **M4**
 
 ###### ►**M32** Tabell 2
 
@@ -3274,9 +6102,53 @@ I henhold til artikkel 41 nr. 1 bokstav a), artikkel 41 nr. 2 bokstav c) og arti
 
 Import av blod og blodprodukter, unntatt fra dyr av hestefamilien, til framstilling av avledede produkter som er beregnet på bruk utenfor fôrkjeden for produksjonsdyr
 
-Følgende krav skal gjelde for import av blod og blodprodukter, unntatt fra dyr av hestefamilien, til framstilling av avledede produkter som er beregnet på bruk utenfor fôrkjeden for produksjonsdyr:Blodproduktene skal komme fra anlegg for framstilling av avledede produkter som er beregnet på bruk utenfor fôrkjeden for produksjonsdyr, som oppfyller de særlige kravene i denne forordning, eller fra innsamlingsvirksomheten.
-► **M4**Blodet som blodprodukter til framstilling av avledede produkter til bruk utenfor fôrkjeden for produksjonsdyr, produseres av, skal være samlet inn under veterinærkontrolli slakterier:som er godkjent i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*), ellersom er godkjent og under tilsyn av vedkommende myndighet i innsamlingsstaten, ellerfra levende dyr i anlegg som er godkjent og under tilsyn av vedkommende myndighet i innsamlingsstaten.
-◄ **M4**Når det gjelder blodprodukter til framstilling av avledede produkter som skal brukes utenfor fôrkjeden for produksjonsdyr, som stammer fra dyr som tilhører taksonene Artiodactyla, Perissodactyla og Proboscidea, herunder krysninger av disse, skal oppfylle vilkårene i bokstav a) eller b):Produktene skal ha gjennomgått én av følgende behandlinger som sikrer fravær av sykdomsframkallende stoffer som kan forårsake sykdommene nevnt i bokstav b):varmebehandling ved en temperatur på 65 °C i minst tre timer etterfulgt av en effektivitetskontroll,bestråling med 25 kGy gammastråler etterfulgt av en effektivitetskontroll,varmebehandling ved en kjernetemperatur på minst 80 °C etterfulgt av en effektivitetskontroll,bare for dyr som ikke tilhører familien Suidae eller Tayassuidae: endring av pH-verdien til 5 i to timer, etterfulgt av en effektivitetskontroll.Blodprodukter som ikke er behandlet i samsvar med bokstav a), skal ha opprinnelse i en stat eller region:der det i minst tolv måneder ikke er påvist noe tilfelle av kvegpest, småfepest eller Rift Valley Fever, og der det i minst tolv måneder ikke har vært foretatt vaksinasjon mot disse sykdommene,der det i minst tolv måneder ikke er påvist noe tilfelle av munn- og klovsyke, ogder det i minst tolv måneder ikke har vært foretatt vaksinasjon mot denne sykdommen, ellerder det i løpet av minst de siste tolv månedene er gjennomført vaksinasjonsprogrammer under offentlig kontroll mot munn- og klovsyke hos tamme drøvtyggere. I så fall skal produktene etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078) og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, transporteres direkte til den/det registrerte bestemmelsesvirksomheten eller -anlegget, og alle forholdsregler, herunder sikker disponering av avfall og ubrukt materiale eller overskuddsmateriale, skal treffes for å unngå risiko for spredning av sykdommer til dyr eller mennesker.Når det gjelder dyr som ikke tilhører familien Suidae eller Tayassuidae, skal i tillegg til vilkårene i nr. 3.1 bokstav b i) og ii) ett av følgende vilkår være oppfylt:I opprinnelsestredjestaten eller -regionen er det i minst tolv måneder ikke påvist noe tilfelle av vesikulær stomatitt eller blåtunge (heller ikke forekomst av seropositive dyr), og det har ikke vært foretatt vaksinasjon av de mottakelige artene mot disse sykdommene i minst tolv måneder.Etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078) og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, skal produktene transporteres direkte til bestemmelsesanlegget, og alle forholdsregler, herunder sikker disponering av avfall og ubrukt materiale eller overskuddsmateriale, skal treffes for å unngå risiko for spredning av sykdommer til dyr eller mennesker.I tillegg til at vilkårene i nr. 3.1 bokstav b) i) og ii) skal være oppfylt, skal det når det gjelder dyr som tilhører familien Suidae eller Tayassuidae, i minst tolv måneder ikke være påvist noe tilfelle av smittsomt blæreutslett hos gris, klassisk svinepest eller afrikansk svinepest i opprinnelsesstaten eller -regionen, det skal i minst tolv måneder ikke ha vært foretatt vaksinasjon mot disse sykdommene, og ett av følgende vilkår skal være oppfylt:I opprinnelsestredjestaten eller -regionen er det i minst tolv måneder ikke påvist noe tilfelle av vesikulær stomatitt (heller ikke forekomst av seropositive dyr), og det har i minst tolv måneder ikke vært foretatt vaksinasjon av de mottakelige artene mot disse sykdommene.Etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078) og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, skal produktene transporteres direkte til den/det registrerte bestemmelsesvirksomheten eller -anlegget, og alle forholdsregler, herunder sikker disponering av avfall og ubrukt materiale eller overskuddsmateriale, skal treffes for å unngå risiko for spredning av sykdommer til dyr eller mennesker.Blodprodukter til framstilling av avledede produkter som skal brukes utenfor fôrkjeden for produksjonsdyr, og som stammer fra fjørfe og andre fuglearter, skal oppfylle vilkårene i bokstav a) eller b):Produktene skal ha gjennomgått én av følgende behandlinger som sikrer fravær av sykdomsframkallende stoffer som kan forårsake sykdommene nevnt i bokstav b):varmebehandling ved en temperatur på 65 °C i minst tre timer etterfulgt av en effektivitetskontroll,bestråling med 25 kGy gammastråler etterfulgt av en effektivitetskontroll,varmebehandling ved en kjernetemperatur på minst 70 °C etterfulgt av en effektivitetskontroll.Blodprodukter som ikke er behandlet i samsvar med bokstav a), skal ha opprinnelse i en tredjestat eller regionsom er fri for Newcastle disease og sterkt sykdomsframkallende aviær influensa som er oppført i 2010-utgaven av OIEs helseregelverk for landdyr,der det i løpet av de siste tolv månedene ikke har vært foretatt vaksinasjon mot aviær influensa,der fjørfeet eller de andre fugleartene som produktene stammer fra, ikke er blitt vaksinert mot Newcastle disease med vaksiner framstilt av en originalvirusstamme med Newcastle disease som har høyere sykdomsframkallende evne enn lentogene stammer av viruset.
+Følgende krav skal gjelde for import av blod og blodprodukter, unntatt fra dyr av hestefamilien, til framstilling av avledede produkter som er beregnet på bruk utenfor fôrkjeden for produksjonsdyr:
+
+- Blodproduktene skal komme fra anlegg for framstilling av avledede produkter som er beregnet på bruk utenfor fôrkjeden for produksjonsdyr, som oppfyller de særlige kravene i denne forordning, eller fra innsamlingsvirksomheten.
+  ► **M4**
+- Blodet som blodprodukter til framstilling av avledede produkter til bruk utenfor fôrkjeden for produksjonsdyr, produseres av, skal være samlet inn under veterinærkontroll
+
+  1. i slakterier:
+
+     1. som er godkjent i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*), eller
+     2. som er godkjent og under tilsyn av vedkommende myndighet i innsamlingsstaten, eller
+     3. fra levende dyr i anlegg som er godkjent og under tilsyn av vedkommende myndighet i innsamlingsstaten.
+        ◄ **M4**
+- Når det gjelder blodprodukter til framstilling av avledede produkter som skal brukes utenfor fôrkjeden for produksjonsdyr, som stammer fra dyr som tilhører taksonene Artiodactyla, Perissodactyla og Proboscidea, herunder krysninger av disse, skal oppfylle vilkårene i bokstav a) eller b):
+
+  1. Produktene skal ha gjennomgått én av følgende behandlinger som sikrer fravær av sykdomsframkallende stoffer som kan forårsake sykdommene nevnt i bokstav b):
+
+     1. varmebehandling ved en temperatur på 65 °C i minst tre timer etterfulgt av en effektivitetskontroll,
+     2. bestråling med 25 kGy gammastråler etterfulgt av en effektivitetskontroll,
+     3. varmebehandling ved en kjernetemperatur på minst 80 °C etterfulgt av en effektivitetskontroll,
+     4. bare for dyr som ikke tilhører familien Suidae eller Tayassuidae: endring av pH-verdien til 5 i to timer, etterfulgt av en effektivitetskontroll.
+  2. Blodprodukter som ikke er behandlet i samsvar med bokstav a), skal ha opprinnelse i en stat eller region:
+
+     1. der det i minst tolv måneder ikke er påvist noe tilfelle av kvegpest, småfepest eller Rift Valley Fever, og der det i minst tolv måneder ikke har vært foretatt vaksinasjon mot disse sykdommene,
+     2. der det i minst tolv måneder ikke er påvist noe tilfelle av munn- og klovsyke, og
+
+        - der det i minst tolv måneder ikke har vært foretatt vaksinasjon mot denne sykdommen, eller
+        - der det i løpet av minst de siste tolv månedene er gjennomført vaksinasjonsprogrammer under offentlig kontroll mot munn- og klovsyke hos tamme drøvtyggere. I så fall skal produktene etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078) og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, transporteres direkte til den/det registrerte bestemmelsesvirksomheten eller -anlegget, og alle forholdsregler, herunder sikker disponering av avfall og ubrukt materiale eller overskuddsmateriale, skal treffes for å unngå risiko for spredning av sykdommer til dyr eller mennesker.
+- Når det gjelder dyr som ikke tilhører familien Suidae eller Tayassuidae, skal i tillegg til vilkårene i nr. 3.1 bokstav b i) og ii) ett av følgende vilkår være oppfylt:
+
+  1. I opprinnelsestredjestaten eller -regionen er det i minst tolv måneder ikke påvist noe tilfelle av vesikulær stomatitt eller blåtunge (heller ikke forekomst av seropositive dyr), og det har ikke vært foretatt vaksinasjon av de mottakelige artene mot disse sykdommene i minst tolv måneder.
+  2. Etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078) og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, skal produktene transporteres direkte til bestemmelsesanlegget, og alle forholdsregler, herunder sikker disponering av avfall og ubrukt materiale eller overskuddsmateriale, skal treffes for å unngå risiko for spredning av sykdommer til dyr eller mennesker.
+- I tillegg til at vilkårene i nr. 3.1 bokstav b) i) og ii) skal være oppfylt, skal det når det gjelder dyr som tilhører familien Suidae eller Tayassuidae, i minst tolv måneder ikke være påvist noe tilfelle av smittsomt blæreutslett hos gris, klassisk svinepest eller afrikansk svinepest i opprinnelsesstaten eller -regionen, det skal i minst tolv måneder ikke ha vært foretatt vaksinasjon mot disse sykdommene, og ett av følgende vilkår skal være oppfylt:
+
+  1. I opprinnelsestredjestaten eller -regionen er det i minst tolv måneder ikke påvist noe tilfelle av vesikulær stomatitt (heller ikke forekomst av seropositive dyr), og det har i minst tolv måneder ikke vært foretatt vaksinasjon av de mottakelige artene mot disse sykdommene.
+  2. Etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078) og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, skal produktene transporteres direkte til den/det registrerte bestemmelsesvirksomheten eller -anlegget, og alle forholdsregler, herunder sikker disponering av avfall og ubrukt materiale eller overskuddsmateriale, skal treffes for å unngå risiko for spredning av sykdommer til dyr eller mennesker.
+- Blodprodukter til framstilling av avledede produkter som skal brukes utenfor fôrkjeden for produksjonsdyr, og som stammer fra fjørfe og andre fuglearter, skal oppfylle vilkårene i bokstav a) eller b):
+
+  1. Produktene skal ha gjennomgått én av følgende behandlinger som sikrer fravær av sykdomsframkallende stoffer som kan forårsake sykdommene nevnt i bokstav b):
+
+     1. varmebehandling ved en temperatur på 65 °C i minst tre timer etterfulgt av en effektivitetskontroll,
+     2. bestråling med 25 kGy gammastråler etterfulgt av en effektivitetskontroll,
+     3. varmebehandling ved en kjernetemperatur på minst 70 °C etterfulgt av en effektivitetskontroll.
+  2. Blodprodukter som ikke er behandlet i samsvar med bokstav a), skal ha opprinnelse i en tredjestat eller region
+
+     1. som er fri for Newcastle disease og sterkt sykdomsframkallende aviær influensa som er oppført i 2010-utgaven av OIEs helseregelverk for landdyr,
+     2. der det i løpet av de siste tolv månedene ikke har vært foretatt vaksinasjon mot aviær influensa,
+     3. der fjørfeet eller de andre fugleartene som produktene stammer fra, ikke er blitt vaksinert mot Newcastle disease med vaksiner framstilt av en originalvirusstamme med Newcastle disease som har høyere sykdomsframkallende evne enn lentogene stammer av viruset.
 
 ###### Avsnitt 3
 
@@ -3286,11 +6158,27 @@ Følgende krav skal gjelde for import av blod og blodprodukter fra dyr av hestef
 
 ► **M4**
 
-1. Blodet skal oppfylle vilkårene i nr. 1 bokstav a) i vedlegg XIII kapittel IV og skal samles inn under tilsyn av veterinær:i slakterier:som er godkjent i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*), ellersom er godkjent og under tilsyn av vedkommende myndighet i innsamlingsstaten, ellerfra levende dyr av hestefamilien i godkjente anlegg som er utstyrt med et veterinært godkjenningsnummer og under tilsyn av vedkommende myndighet i innsamlingsstaten med henblikk på innsamling av blod fra dyr av hestefamilien til produksjon av blodprodukter for bruk til andre formål enn fôring.
-◄ **M4**
-2. Blodproduktene skal oppfylle vilkårene vedlegg XIII kapittel IV nr. 2.I tillegg skal blodproduktene nevnt i vedlegg XIII kapittel IV nr. 2 bokstav b) i) være framstilt av blod som er innsamlet fra dyr av hestefamilien som er blitt holdt i et tidsrom på minst tre måneder, eller siden fødselen dersom de er yngre enn tre måneder, før innsamlingsdatoen på driftsenheter under tilsyn av veterinær i innsamlingstredjestaten, som i dette tidsrommet og under blodinnsamlingen har vært fri forafrikansk hestepest i henhold til artikkel 5 nr. 2 første ledd bokstav a) og b) i direktiv [2009/156/EF](eu/32009l0156),venezuelansk encefalomyelitt hos hest i minst to år,snive:i minst tre år, elleri et tidsrom på seks måneder der dyrene ikke har vist kliniske tegn på snive (*Burkholderia mallei*) under kontrollen post mortem på slakteriet nevnt i nr. 1 bokstav a), herunder en grundig undersøkelse av slimhinner fra luftrøret, strupehodet, nesehulen og bihulene og deres forgreininger, etter at hodet er delt etter medianplanet og neseskilleveggen er tatt ut,
-► **M4**når det gjelder andre blodprodukter enn serum og plasma, vesikulær stomatitt i minst seks måneder.
-◄ **M4**
+1. Blodet skal oppfylle vilkårene i nr. 1 bokstav a) i vedlegg XIII kapittel IV og skal samles inn under tilsyn av veterinær:
+
+   1. i slakterier:
+
+      1. som er godkjent i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*), eller
+      2. som er godkjent og under tilsyn av vedkommende myndighet i innsamlingsstaten, eller
+   2. fra levende dyr av hestefamilien i godkjente anlegg som er utstyrt med et veterinært godkjenningsnummer og under tilsyn av vedkommende myndighet i innsamlingsstaten med henblikk på innsamling av blod fra dyr av hestefamilien til produksjon av blodprodukter for bruk til andre formål enn fôring.
+      ◄ **M4**
+2. Blodproduktene skal oppfylle vilkårene vedlegg XIII kapittel IV nr. 2.
+
+   I tillegg skal blodproduktene nevnt i vedlegg XIII kapittel IV nr. 2 bokstav b) i) være framstilt av blod som er innsamlet fra dyr av hestefamilien som er blitt holdt i et tidsrom på minst tre måneder, eller siden fødselen dersom de er yngre enn tre måneder, før innsamlingsdatoen på driftsenheter under tilsyn av veterinær i innsamlingstredjestaten, som i dette tidsrommet og under blodinnsamlingen har vært fri for
+
+   1. afrikansk hestepest i henhold til artikkel 5 nr. 2 første ledd bokstav a) og b) i direktiv [2009/156/EF](eu/32009l0156),
+   2. venezuelansk encefalomyelitt hos hest i minst to år,
+   3. snive:
+
+      1. i minst tre år, eller
+      2. i et tidsrom på seks måneder der dyrene ikke har vist kliniske tegn på snive (*Burkholderia mallei*) under kontrollen post mortem på slakteriet nevnt i nr. 1 bokstav a), herunder en grundig undersøkelse av slimhinner fra luftrøret, strupehodet, nesehulen og bihulene og deres forgreininger, etter at hodet er delt etter medianplanet og neseskilleveggen er tatt ut,
+         ► **M4**
+   4. når det gjelder andre blodprodukter enn serum og plasma, vesikulær stomatitt i minst seks måneder.
+      ◄ **M4**
 3. Blodprodukter skal komme fra en virksomhet eller et anlegg som er godkjent eller registrert av vedkommende myndighet i tredjestaten.
 4. Blod og blodprodukter skal emballeres og merkes i samsvar med vedlegg XIII kapittel IV nr. 3.
 
@@ -3298,52 +6186,155 @@ Følgende krav skal gjelde for import av blod og blodprodukter fra dyr av hestef
 
 Import av huder og skinn fra hovdyr
 
-Følgende krav skal gjelde for import av huder og skinn fra hovdyr:Ferske eller kjølte huder og skinn fra hovdyr kan importeres dersomde kommer fra en tredjestat oppført i den relevante kolonnen i tabell 2 rad 4 i avsnitt 1, og som avhengig av den berørte dyrearti minst tolv måneder før avsendelsen har vært fri for alle følgende sykdommer:klassisk svinepest,afrikansk svinepest ogkvegpest, ogi minst tolv måneder før avsendelsen har vært fri for munn- og klovsyke, og der det i minst tolv måneder før avsendelsen ikke har vært foretatt vaksinasjon mot denne sykdommen,de kommer fradyr som har oppholdt seg på territoriet til opprinnelsestredjestaten i minst tre måneder før slakting, eller siden fødselen når det gjelder dyr som er yngre enn tre måneder,når det gjelder huder og skinn fra klovdyr, dyr som kommer fra driftsenheter der det ikke har vært utbrudd av munn- og klovsyke i løpet av de siste 30 dagene, og der det i 30 dager innenfor en radius på ti kilometer ikke har vært noe tilfelle av munn- og klovsyke,når det gjelder huder og skinn fra svin, dyr som kommer fra driftsenheter der det ikke har vært utbrudd av smittsomt blæreutslett hos gris i løpet av de siste 30 dagene eller av klassisk eller afrikansk svinepest i løpet av de siste 40 dagene, og der det i 30 dager innenfor en radius på ti kilometer ikke har vært noe tilfelle av disse sykdommene, ellerdyr som i løpet av 24 timer før slakting har gjennomgått en kontroll ante mortem på slakteriet, og ikke har vist noe tegn på munn- og klovsyke, kvegpest, klassisk svinepest, afrikansk svinepest eller smittsomt blæreutslett hos gris, ogde har vært omfattet av alle nødvendige forholdsregler for å unngå rekontaminering fra sykdomsframkallende stoffer.Behandlede huder og skinn nevnt i vedlegg XIII kapittel V bokstav C.2 kan importeres uten restriksjoner.Andre behandlede huder og skinn kan importeres dersomde kommer fraen tredjestat eller, ved regionalisering i samsvar med Unionens regelverk, fra en del av en tredjestat som er oppført på listen i bokstav a) i kolonnen «liste over tredjestater» i tabell 2 rad 5 i avsnitt 1, som import er tillatt fra av ferskt kjøtt fra de tilsvarende artene, og de er blitt behandlet i samsvar med vedlegg I nr. 28 bokstav a)–c),en tredjestat som er oppført på listen i bokstav a) i den relevante kolonnen i tabell 2 rad 5 i avsnitt 1, og de er blitt behandlet i samsvar med vedlegg I nr. 28 bokstav c) eller d), ellerdyr av hestefamilien eller drøvtyggere fra en tredjestat som er oppført på listen i bokstav b) i kolonnen «liste over tredjestater» i tabell 2 rad 5 i avsnitt 1, og de er blitt behandlet i samsvar med vedlegg I nr. 28 bokstav a)–c) samt holdt isolert i minst 21 dager etter behandling, ognår det gjelder saltede huder og skinn som transporteres med skip, de før import er blitt behandlet i samsvar med vedlegg I nr. 28 bokstav b) eller c) og har vært holdt isolert under transporten i minst 14 dager etter behandlingen fastsatt i nr. 28 bokstav b), eller i minst sju dager etter behandlingen fastsatt i nr. 28 bokstav c), og hygienesertifikatene som følger forsendelsen attesterer slik behandling og transportens varighet.Ferske, kjølte eller behandlede huder og skinn fra hovdyr skal importeres i containere, veigående kjøretøyer, jernbanevogner eller baller som er forseglet av vedkommende myndighet i avsendertredjestaten.
+Følgende krav skal gjelde for import av huder og skinn fra hovdyr:
+
+1. Ferske eller kjølte huder og skinn fra hovdyr kan importeres dersom
+
+   1. de kommer fra en tredjestat oppført i den relevante kolonnen i tabell 2 rad 4 i avsnitt 1, og som avhengig av den berørte dyreart
+
+      1. i minst tolv måneder før avsendelsen har vært fri for alle følgende sykdommer:
+
+         - klassisk svinepest,
+         - afrikansk svinepest og
+         - kvegpest, og
+      2. i minst tolv måneder før avsendelsen har vært fri for munn- og klovsyke, og der det i minst tolv måneder før avsendelsen ikke har vært foretatt vaksinasjon mot denne sykdommen,
+   2. de kommer fra
+
+      1. dyr som har oppholdt seg på territoriet til opprinnelsestredjestaten i minst tre måneder før slakting, eller siden fødselen når det gjelder dyr som er yngre enn tre måneder,
+      2. når det gjelder huder og skinn fra klovdyr, dyr som kommer fra driftsenheter der det ikke har vært utbrudd av munn- og klovsyke i løpet av de siste 30 dagene, og der det i 30 dager innenfor en radius på ti kilometer ikke har vært noe tilfelle av munn- og klovsyke,
+      3. når det gjelder huder og skinn fra svin, dyr som kommer fra driftsenheter der det ikke har vært utbrudd av smittsomt blæreutslett hos gris i løpet av de siste 30 dagene eller av klassisk eller afrikansk svinepest i løpet av de siste 40 dagene, og der det i 30 dager innenfor en radius på ti kilometer ikke har vært noe tilfelle av disse sykdommene, eller
+      4. dyr som i løpet av 24 timer før slakting har gjennomgått en kontroll ante mortem på slakteriet, og ikke har vist noe tegn på munn- og klovsyke, kvegpest, klassisk svinepest, afrikansk svinepest eller smittsomt blæreutslett hos gris, og
+   3. de har vært omfattet av alle nødvendige forholdsregler for å unngå rekontaminering fra sykdomsframkallende stoffer.
+2. Behandlede huder og skinn nevnt i vedlegg XIII kapittel V bokstav C.2 kan importeres uten restriksjoner.
+3. Andre behandlede huder og skinn kan importeres dersom
+
+   1. de kommer fra
+
+      1. en tredjestat eller, ved regionalisering i samsvar med Unionens regelverk, fra en del av en tredjestat som er oppført på listen i bokstav a) i kolonnen «liste over tredjestater» i tabell 2 rad 5 i avsnitt 1, som import er tillatt fra av ferskt kjøtt fra de tilsvarende artene, og de er blitt behandlet i samsvar med vedlegg I nr. 28 bokstav a)–c),
+      2. en tredjestat som er oppført på listen i bokstav a) i den relevante kolonnen i tabell 2 rad 5 i avsnitt 1, og de er blitt behandlet i samsvar med vedlegg I nr. 28 bokstav c) eller d), eller
+      3. dyr av hestefamilien eller drøvtyggere fra en tredjestat som er oppført på listen i bokstav b) i kolonnen «liste over tredjestater» i tabell 2 rad 5 i avsnitt 1, og de er blitt behandlet i samsvar med vedlegg I nr. 28 bokstav a)–c) samt holdt isolert i minst 21 dager etter behandling, og
+   2. når det gjelder saltede huder og skinn som transporteres med skip, de før import er blitt behandlet i samsvar med vedlegg I nr. 28 bokstav b) eller c) og har vært holdt isolert under transporten i minst 14 dager etter behandlingen fastsatt i nr. 28 bokstav b), eller i minst sju dager etter behandlingen fastsatt i nr. 28 bokstav c), og hygienesertifikatene som følger forsendelsen attesterer slik behandling og transportens varighet.
+4. Ferske, kjølte eller behandlede huder og skinn fra hovdyr skal importeres i containere, veigående kjøretøyer, jernbanevogner eller baller som er forseglet av vedkommende myndighet i avsendertredjestaten.
 
 ###### Avsnitt 5
 
 Import av jakttrofeer og andre preparater fra dyr
 
-Følgende krav skal gjelde for import av jakttrofeer og andre preparater fra dyr:Jakttrofeer eller andre preparater fra dyr, som oppfyller vilkårene nevnt i vedlegg XIII kapittel VI bokstav B og bokstav C nr. 1, kan importeres uten restriksjoner.Behandlede jakttrofeer eller andre preparater fra fugler eller hovdyr, som utelukkende består av bein, horn, hover/klover, klør, gevir, tenner, huder eller skinn, fra tredjestater kan importeres dersom de oppfyller kravene i vedlegg XIII kapittel VI bokstav C nr. 1 bokstav a) og bokstav C nr. 2 bokstav a) i)–iii) og bokstav b) i) og ii).Når det gjelder tørrsaltede eller våtsaltede huder som transporteres med skip, trenger hudene imidlertid ikke å være saltet i 14 dager før avsendelse, forutsatt at de har vært saltet i 14 dager før import.Jakttrofeer eller andre preparater fra fugler og hovdyr, som består av hele kroppsdeler som ikke er behandlet på noen måte, kan importeres dersomde kommer fra dyr med opprinnelse i et område som ikke er underlagt restriksjoner på grunn av forekomst av alvorlige smittsomme sykdommer som dyr av de aktuelle artene er mottakelige for,de uten å komme i kontakt med andre produkter av animalsk opprinnelse som kan kontaminere dem, pakkes hver for seg og i gjennomsiktig og lukket emballasje for å unngå enhver senere kontaminering.
+Følgende krav skal gjelde for import av jakttrofeer og andre preparater fra dyr:
+
+1. Jakttrofeer eller andre preparater fra dyr, som oppfyller vilkårene nevnt i vedlegg XIII kapittel VI bokstav B og bokstav C nr. 1, kan importeres uten restriksjoner.
+2. Behandlede jakttrofeer eller andre preparater fra fugler eller hovdyr, som utelukkende består av bein, horn, hover/klover, klør, gevir, tenner, huder eller skinn, fra tredjestater kan importeres dersom de oppfyller kravene i vedlegg XIII kapittel VI bokstav C nr. 1 bokstav a) og bokstav C nr. 2 bokstav a) i)–iii) og bokstav b) i) og ii).
+
+   Når det gjelder tørrsaltede eller våtsaltede huder som transporteres med skip, trenger hudene imidlertid ikke å være saltet i 14 dager før avsendelse, forutsatt at de har vært saltet i 14 dager før import.
+3. Jakttrofeer eller andre preparater fra fugler og hovdyr, som består av hele kroppsdeler som ikke er behandlet på noen måte, kan importeres dersom
+
+   1. de kommer fra dyr med opprinnelse i et område som ikke er underlagt restriksjoner på grunn av forekomst av alvorlige smittsomme sykdommer som dyr av de aktuelle artene er mottakelige for,
+   2. de uten å komme i kontakt med andre produkter av animalsk opprinnelse som kan kontaminere dem, pakkes hver for seg og i gjennomsiktig og lukket emballasje for å unngå enhver senere kontaminering.
 
 ###### Avsnitt 6
 
 Import av behandlede fjør, deler av fjør og dun
 
-Behandlede fjør og deler av fjør og dun kan importeres dersomde er behandlede prydfjør, behandlede fjør som reisende har tatt med seg til privat bruk, eller forsendelser av behandlede fjør eller dun som er sendt til privatpersoner for ikke-industriell bruk, ellerde følges av et handelsdokument som attesterer at fjørene eller delene av fjør eller dun er behandlet med damp eller en annen metode som sikrer at ingen uakseptabel risiko gjenstår, og at de er tørre og forsvarlig emballert, ogde sendes til en registrert virksomhet eller et registrert anlegg for slik behandling, med mindre handelsdokumentet viser at de er fabrikkvasket og behandlet med damp ved 100 °C i minst 30 minutter.
+Behandlede fjør og deler av fjør og dun kan importeres dersom
+
+1. de er behandlede prydfjør, behandlede fjør som reisende har tatt med seg til privat bruk, eller forsendelser av behandlede fjør eller dun som er sendt til privatpersoner for ikke-industriell bruk, eller
+2. de følges av et handelsdokument som attesterer at fjørene eller delene av fjør eller dun er behandlet med damp eller en annen metode som sikrer at ingen uakseptabel risiko gjenstår, og at de er tørre og forsvarlig emballert, og
+3. de sendes til en registrert virksomhet eller et registrert anlegg for slik behandling, med mindre handelsdokumentet viser at de er fabrikkvasket og behandlet med damp ved 100 °C i minst 30 minutter.
 
 ###### Avsnitt 7
 
 Import av bein og beinprodukter (unntatt beinmel), horn og hornprodukter (unntatt hornmel) og hover/klover og hov-/klovprodukter (unntatt hov-/klovmel) beregnet på andre formål enn fôrmidler, organisk gjødsel og jordforbedringsmidler
 
-1. Bein og beinprodukter (unntatt beinmel), horn og hornprodukter (unntatt hornmel) og hover/klover og hov-/klovprodukter (unntatt hov-/klovmel) kan importeres med sikte på framstilling av avledede produkter som skal brukes utenfor fôrkjeden, forutsatt atproduktene er tørket før eksport til Unionen og ikke er kjølt eller fryst,
-► **M9**produktene transporteres bare over land eller sjø fra opprinnelsestredjestaten direkte til en grensekontrollstasjon på et innførselssted til Unionen, og ikke omlastes i en havn eller på et sted utenfor Unionen,
-◄ **M9**produktene etter dokumentkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078) transporteres direkte til den/det registrerte bestemmelsesvirksomheten eller -anlegget.
-2. Hver forsendelse skal følges av et handelsdokument som er stemplet av vedkommende myndighet som fører tilsyn med opprinnelsesanlegget, herunder følgende opplysninger:opprinnelsestredjestat,produksjonsvirksomhetens eller -anleggets navn,produkttype (tørket bein/tørket beinprodukt/tørkede horn/tørkede hornprodukter/tørkede hover/klover/tørkede hov-/klovprodukter), og
-►**M23**bekreftelse på at produktet ikke på noe trinn er beregnet på bruk i framstilling av næringsmidler, fôrmidler, organisk gjødsel eller jordforbedringsmidler, ogkommer fra friske dyr slaktet i slakteri, oger enten tørket i 42 dager ved en gjennomsnittstemperatur på minst 20 °C, og/ellerer varmebehandlet i én time ved en kjernetemperatur på minst 80 °C før tørking, og/ellerer forasket i én time ved en kjernetemperatur på minst 800 °C, og/ellerhar gjennomgått en syrning slik at pH-verdien har vært holdt under 6 i hele materialet i minst én time. ◄**M23**
-3. Når materialet sendes til Unionen, skal det være innelukket i forseglede beholdere eller kjøretøyer eller transporteres i bulk på et skip.Ved transport i containere skal containerne, og i alle tilfeller alle medfølgende dokumenter, være merket med navn og adresse til den/det registrerte bestemmelsesvirksomheten eller -anlegget.
+1. Bein og beinprodukter (unntatt beinmel), horn og hornprodukter (unntatt hornmel) og hover/klover og hov-/klovprodukter (unntatt hov-/klovmel) kan importeres med sikte på framstilling av avledede produkter som skal brukes utenfor fôrkjeden, forutsatt at
+
+   1. produktene er tørket før eksport til Unionen og ikke er kjølt eller fryst,
+      ► **M9**
+   2. produktene transporteres bare over land eller sjø fra opprinnelsestredjestaten direkte til en grensekontrollstasjon på et innførselssted til Unionen, og ikke omlastes i en havn eller på et sted utenfor Unionen,
+      ◄ **M9**
+   3. produktene etter dokumentkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078) transporteres direkte til den/det registrerte bestemmelsesvirksomheten eller -anlegget.
+2. Hver forsendelse skal følges av et handelsdokument som er stemplet av vedkommende myndighet som fører tilsyn med opprinnelsesanlegget, herunder følgende opplysninger:
+
+   1. opprinnelsestredjestat,
+   2. produksjonsvirksomhetens eller -anleggets navn,
+   3. produkttype (tørket bein/tørket beinprodukt/tørkede horn/tørkede hornprodukter/tørkede hover/klover/tørkede hov-/klovprodukter), og
+      ►**M23**
+   4. bekreftelse på at produktet ikke på noe trinn er beregnet på bruk i framstilling av næringsmidler, fôrmidler, organisk gjødsel eller jordforbedringsmidler, og
+
+      1. kommer fra friske dyr slaktet i slakteri, og
+      2. er enten tørket i 42 dager ved en gjennomsnittstemperatur på minst 20 °C, og/eller
+      3. er varmebehandlet i én time ved en kjernetemperatur på minst 80 °C før tørking, og/eller
+      4. er forasket i én time ved en kjernetemperatur på minst 800 °C, og/eller
+      5. har gjennomgått en syrning slik at pH-verdien har vært holdt under 6 i hele materialet i minst én time. ◄**M23**
+3. Når materialet sendes til Unionen, skal det være innelukket i forseglede beholdere eller kjøretøyer eller transporteres i bulk på et skip.
+
+   Ved transport i containere skal containerne, og i alle tilfeller alle medfølgende dokumenter, være merket med navn og adresse til den/det registrerte bestemmelsesvirksomheten eller -anlegget.
 4. Etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, skal materialet transporteres direkte til den/det registrerte bestemmelsesvirksomheten eller -anlegget.
 
 ###### Avsnitt 8
 
 Import av animalske biprodukter til framstilling av fôr til pelsdyr, annet fôr til kjæledyr enn rått fôr, og av avledede produkter som er beregnet på bruk utenfor fôrkjeden for produksjonsdyr
 
-Animalske biprodukter til framstilling av fôr til pelsdyr, annet fôr til kjæledyr enn rått fôr, og av avledede produkter som er beregnet på bruk utenfor fôrkjeden for produksjonsdyr, kan importeres forutsatt atde animalske biproduktene er blitt dypfryst på opprinnelsesanlegget, eller er blitt konservert i samsvar med Unionens regelverk for å unngå at de forderves i tidsrommet fra de sendes til de leveres til bestemmelsesanlegget,de animalske biproduktene har vært omfattet av alle nødvendige forholdsregler for å unngå kontaminering med sykdomsframkallende stoffer,de animalske biproduktene er pakket i ny emballasje for å unngå lekkasjer, eller i emballasje som er rengjort og desinfisert før bruk,de animalske biproduktene etter veterinærkontrollene fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, blir transportert direkte ententil et produksjonsanlegg for fôr til kjæledyr eller en/et registrert bestemmelsesvirksomhet eller -anlegg som har gitt garantier for at de animalske biproduktene vil bli brukt bare til framstilling av produkter som de er registrert eller godkjent for, etter det som er relevant, som angitt av vedkommende myndighet om nødvendig, og ikke vil bli fjernet fra anlegget uten å være bearbeidet, bortsett fra til direkte disponering,til en virksomhet eller et anlegg for framstilling av fôr til kjæledyr, som er godkjent i samsvar med artikkel 24 nr. 1 bokstav h) i forordning [(EF) nr. 1069/2009](eu/32009r1069),til en registrert bruker eller innsamlingssentral, som har gitt garantier for at de animalske biproduktene vil bli brukt bare for tillatte formål, som angitt av vedkommende myndighet om nødvendig, ellertil en virksomhet eller et anlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069).Når det gjelder råstoff til framstilling av fôr til kjæledyr i henhold til artikkel 35 bokstav a) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal råstoffetvære merket i tredjestaten før de innføres til Unionen, med et kryss av trekull eller aktivkull i flytende form på alle yttersider av hver fryste blokk, eller, dersom råstoffet transporteres på paller som ikke er oppdelt i atskilte forsendelser under transporten til bestemmelsesproduksjonsanlegget for fôr til kjæledyr, på alle yttersider av hver enkelt pall, slik at merkingen dekker minst 70 % av den fryste blokkens diagonale lengde og er minst 10 cm bred,når det gjelder materiale som ikke er fryst, være merket i tredjestaten før de innføres til Unionen, med trekull i flytende form som sprøytes på, eller med trekullpulver som påføres slik at trekullet er klart synlig på materialet,transporteres direkte tilbestemmelsesproduksjonsanlegget for fôr til kjæledyr i samsvar med nr. 4 bokstav a), elleren bestemmelsesvirksomhet eller et bestemmelsesanlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav h) i forordning [(EF) nr. 1069/2009](eu/32009r1069), i henhold til nr. 4 bokstav b) i dette avsnitt, og derfra direkte til produksjonsanlegget for fôr til kjæledyr som fastsatt i punkt i), forutsatt at bestemmelsesanleggetbare håndterer materiale som omfattes av nr. 5.1, ellerbare håndterer materiale beregnet på et produksjonsanlegg for fôr til kjæledyr som nevnt i punkt i), ogbare behandles for å fjerne merkingen omhandlet i bokstav a) og b) i bestemmelsesproduksjonsanlegget for fôr til kjæledyr, og bare umiddelbart før materialet brukes til framstilling av fôr til kjæledyr i samsvar med vilkårene i vedlegg XIII kapittel II for fôr til kjæledyr som framstilles av kategori 3-materiale.Når det gjelder forsendelser som består av råstoff som er blitt behandlet i samsvar med nr. 5.1 ovenfor, og andre ubehandlede råstoffer, skal alt råstoff i forsendelsen merkes i samsvar med nr. 5.1 bokstav a) og b) ovenfor.Merkingen nevnt i nr. 5.1 bokstav a) og b) og i nr. 5.2 skal forbli synlig fra avsendelsen til leveringen til bestemmelsesproduksjonsanlegget for fôr til kjæledyr.I bestemmelsesproduksjonsanlegget for fôr til kjæledyr skal råstoff til framstilling av fôr til kjæledyr som er nevnt i artikkel 35 bokstav a) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069), lagres før framstilling, brukes og disponeres på vilkår som er godkjent av vedkommende myndighet og som sikrer at det kan foretas offentlig kontroll av materialmengden som mottas, brukes til framstilling og disponeres, dersom det er relevant.Vedkommende myndighet kan tillate at den driftsansvarlige for produksjonsanlegget for fôr til kjæledyr lagrer slikt materiale sammen med kategori 3-materiale.
+Animalske biprodukter til framstilling av fôr til pelsdyr, annet fôr til kjæledyr enn rått fôr, og av avledede produkter som er beregnet på bruk utenfor fôrkjeden for produksjonsdyr, kan importeres forutsatt at
+
+- de animalske biproduktene er blitt dypfryst på opprinnelsesanlegget, eller er blitt konservert i samsvar med Unionens regelverk for å unngå at de forderves i tidsrommet fra de sendes til de leveres til bestemmelsesanlegget,
+- de animalske biproduktene har vært omfattet av alle nødvendige forholdsregler for å unngå kontaminering med sykdomsframkallende stoffer,
+- de animalske biproduktene er pakket i ny emballasje for å unngå lekkasjer, eller i emballasje som er rengjort og desinfisert før bruk,
+- de animalske biproduktene etter veterinærkontrollene fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, blir transportert direkte enten
+
+  1. til et produksjonsanlegg for fôr til kjæledyr eller en/et registrert bestemmelsesvirksomhet eller -anlegg som har gitt garantier for at de animalske biproduktene vil bli brukt bare til framstilling av produkter som de er registrert eller godkjent for, etter det som er relevant, som angitt av vedkommende myndighet om nødvendig, og ikke vil bli fjernet fra anlegget uten å være bearbeidet, bortsett fra til direkte disponering,
+  2. til en virksomhet eller et anlegg for framstilling av fôr til kjæledyr, som er godkjent i samsvar med artikkel 24 nr. 1 bokstav h) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+  3. til en registrert bruker eller innsamlingssentral, som har gitt garantier for at de animalske biproduktene vil bli brukt bare for tillatte formål, som angitt av vedkommende myndighet om nødvendig, eller
+  4. til en virksomhet eller et anlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav a) i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+- Når det gjelder råstoff til framstilling av fôr til kjæledyr i henhold til artikkel 35 bokstav a) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069), skal råstoffet
+
+  1. være merket i tredjestaten før de innføres til Unionen, med et kryss av trekull eller aktivkull i flytende form på alle yttersider av hver fryste blokk, eller, dersom råstoffet transporteres på paller som ikke er oppdelt i atskilte forsendelser under transporten til bestemmelsesproduksjonsanlegget for fôr til kjæledyr, på alle yttersider av hver enkelt pall, slik at merkingen dekker minst 70 % av den fryste blokkens diagonale lengde og er minst 10 cm bred,
+  2. når det gjelder materiale som ikke er fryst, være merket i tredjestaten før de innføres til Unionen, med trekull i flytende form som sprøytes på, eller med trekullpulver som påføres slik at trekullet er klart synlig på materialet,
+  3. transporteres direkte til
+
+     1. bestemmelsesproduksjonsanlegget for fôr til kjæledyr i samsvar med nr. 4 bokstav a), eller
+     2. en bestemmelsesvirksomhet eller et bestemmelsesanlegg som er godkjent i samsvar med artikkel 24 nr. 1 bokstav h) i forordning [(EF) nr. 1069/2009](eu/32009r1069), i henhold til nr. 4 bokstav b) i dette avsnitt, og derfra direkte til produksjonsanlegget for fôr til kjæledyr som fastsatt i punkt i), forutsatt at bestemmelsesanlegget
+
+        - bare håndterer materiale som omfattes av nr. 5.1, eller
+        - bare håndterer materiale beregnet på et produksjonsanlegg for fôr til kjæledyr som nevnt i punkt i), og
+  4. bare behandles for å fjerne merkingen omhandlet i bokstav a) og b) i bestemmelsesproduksjonsanlegget for fôr til kjæledyr, og bare umiddelbart før materialet brukes til framstilling av fôr til kjæledyr i samsvar med vilkårene i vedlegg XIII kapittel II for fôr til kjæledyr som framstilles av kategori 3-materiale.
+- Når det gjelder forsendelser som består av råstoff som er blitt behandlet i samsvar med nr. 5.1 ovenfor, og andre ubehandlede råstoffer, skal alt råstoff i forsendelsen merkes i samsvar med nr. 5.1 bokstav a) og b) ovenfor.
+- Merkingen nevnt i nr. 5.1 bokstav a) og b) og i nr. 5.2 skal forbli synlig fra avsendelsen til leveringen til bestemmelsesproduksjonsanlegget for fôr til kjæledyr.
+- I bestemmelsesproduksjonsanlegget for fôr til kjæledyr skal råstoff til framstilling av fôr til kjæledyr som er nevnt i artikkel 35 bokstav a) ii) i forordning [(EF) nr. 1069/2009](eu/32009r1069), lagres før framstilling, brukes og disponeres på vilkår som er godkjent av vedkommende myndighet og som sikrer at det kan foretas offentlig kontroll av materialmengden som mottas, brukes til framstilling og disponeres, dersom det er relevant.
+
+  Vedkommende myndighet kan tillate at den driftsansvarlige for produksjonsanlegget for fôr til kjæledyr lagrer slikt materiale sammen med kategori 3-materiale.
 
 ###### Avsnitt 9
 
 Import av smeltet fett for visse formål utenfor fôrkjeden for produksjonsdyr
 
-Smeltet fett som ikke er beregnet på framstilling av fôr til produksjonsdyr, framstilling av kosmetikk, legemidler eller medisinsk utstyr, kan importeres forutsatt atde er framstilt av
-►**M23**når det gjelder materiale beregnet på produksjon av biodiesel eller produkter av bearbeidet fett, eller produksjon av fornybart drivstoff som har gjennomgått den behandlingen som er nevnt i kapittel IV avsnitt 2 bokstav L i vedlegg IV, animalske biprodukter nevnt i artikkel 8, 9 og 10 i forordning (EF) nr. 1069/2009, ◄**M23**når det gjelder materiale til framstilling av organisk gjødsel og jordforbedringsmidler, kategori 2-materiale nevnt i artikkel 9 bokstav c), d) og f) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069), eller kategori 3-materiale, unntatt materiale nevnt i artikkel 10 bokstav c) og p) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
-► **M1**når det gjelder materiale beregnet på framstilling av fornybare drivstoffer nevnt i kapittel IV avsnitt 2 bokstav J i vedlegg IV til denne forordning, kategori 2-materiale nevnt i artikkel 9 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og kategori 3-materiale nevnt i artikkel 10 i sistnevnte forordning,når det gjelder annet materiale, kategori 1-materiale nevnt i artikkel 8 bokstav b)–d) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kategori 2-materiale nevnt i artikkel 9 bokstav c) og d) og bokstav f) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) eller kategori 3-materiale, unntatt materiale nevnt i artikkel 10 bokstav c) og p) i sistnevnte forordning b) de er bearbeidet med bearbeidingsmetode 1 (trykksterilisering) eller med en av de andre bearbeidingsmetodene i vedlegg IV kapittel III,
-◄ **M1**når det gjelder smeltet fett fra drøvtyggere, er uløselige urenheter som overstiger 0,15 vektprosent, fjernet,de er før avsendelsen til Unionen blitt merket slik at minstekonsentrasjonen av GTH i henhold til vedlegg VIII kapittel V nr. 1 bokstav b) oppnås,etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, skal det smeltede fettet transporteres direkte til den/det registrerte bestemmelsesvirksomheten eller -anlegget under forhold som hindrer kontaminering, ogde er merket på emballasjen eller beholderen med teksten «IKKE BEREGNET PÅ KONSUM ELLER FÔR».
+Smeltet fett som ikke er beregnet på framstilling av fôr til produksjonsdyr, framstilling av kosmetikk, legemidler eller medisinsk utstyr, kan importeres forutsatt at
+
+1. de er framstilt av
+   ►**M23**
+
+   1. når det gjelder materiale beregnet på produksjon av biodiesel eller produkter av bearbeidet fett, eller produksjon av fornybart drivstoff som har gjennomgått den behandlingen som er nevnt i kapittel IV avsnitt 2 bokstav L i vedlegg IV, animalske biprodukter nevnt i artikkel 8, 9 og 10 i forordning (EF) nr. 1069/2009, ◄**M23**
+   2. når det gjelder materiale til framstilling av organisk gjødsel og jordforbedringsmidler, kategori 2-materiale nevnt i artikkel 9 bokstav c), d) og f) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069), eller kategori 3-materiale, unntatt materiale nevnt i artikkel 10 bokstav c) og p) i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+      ► **M1**
+   3. når det gjelder materiale beregnet på framstilling av fornybare drivstoffer nevnt i kapittel IV avsnitt 2 bokstav J i vedlegg IV til denne forordning, kategori 2-materiale nevnt i artikkel 9 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og kategori 3-materiale nevnt i artikkel 10 i sistnevnte forordning,
+   4. når det gjelder annet materiale, kategori 1-materiale nevnt i artikkel 8 bokstav b)–d) i forordning [(EF) nr. 1069/2009](eu/32009r1069), kategori 2-materiale nevnt i artikkel 9 bokstav c) og d) og bokstav f) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) eller kategori 3-materiale, unntatt materiale nevnt i artikkel 10 bokstav c) og p) i sistnevnte forordning b) de er bearbeidet med bearbeidingsmetode 1 (trykksterilisering) eller med en av de andre bearbeidingsmetodene i vedlegg IV kapittel III,
+      ◄ **M1**
+2. når det gjelder smeltet fett fra drøvtyggere, er uløselige urenheter som overstiger 0,15 vektprosent, fjernet,
+3. de er før avsendelsen til Unionen blitt merket slik at minstekonsentrasjonen av GTH i henhold til vedlegg VIII kapittel V nr. 1 bokstav b) oppnås,
+4. etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, skal det smeltede fettet transporteres direkte til den/det registrerte bestemmelsesvirksomheten eller -anlegget under forhold som hindrer kontaminering, og
+5. de er merket på emballasjen eller beholderen med teksten «IKKE BEREGNET PÅ KONSUM ELLER FÔR».
 
 ###### Avsnitt 10
 
 Import av fettderivater
 
-1. Fettderivater kan importeres dersom hygienesertifikatet som følger forsendelsen attestererom fettderivatene er framstilt av kategori 1-, 2- eller 3-materiale,når det gjelder fettderivater som er framstilt av kategori 2-materiale, at produkteneer blitt framstilt etter en metode som minst oppfyller kravene til én av prosessene beskrevet i vedlegg XIII kapittel XI nr. 1, ogskal brukes bare i organisk gjødsel eller i jordforbedringsmidler eller til andre tekniske formål, bortsett fra i kosmetikk, legemidler og medisinsk utstyr,når det gjelder fettderivater framstilt av kategori 1-materiale, at produktene ikke skal brukes i organisk gjødsel og jordforbedringsmidler, kosmetikk, legemidler og medisinsk utstyr; de kan imidlertid brukes for andre formål utenfor fôrkjeden for produksjonsdyr.
+1. Fettderivater kan importeres dersom hygienesertifikatet som følger forsendelsen attesterer
+
+   1. om fettderivatene er framstilt av kategori 1-, 2- eller 3-materiale,
+   2. når det gjelder fettderivater som er framstilt av kategori 2-materiale, at produktene
+
+      1. er blitt framstilt etter en metode som minst oppfyller kravene til én av prosessene beskrevet i vedlegg XIII kapittel XI nr. 1, og
+      2. skal brukes bare i organisk gjødsel eller i jordforbedringsmidler eller til andre tekniske formål, bortsett fra i kosmetikk, legemidler og medisinsk utstyr,
+   3. når det gjelder fettderivater framstilt av kategori 1-materiale, at produktene ikke skal brukes i organisk gjødsel og jordforbedringsmidler, kosmetikk, legemidler og medisinsk utstyr; de kan imidlertid brukes for andre formål utenfor fôrkjeden for produksjonsdyr.
 2. Hygienesertifikatet nevnt i nr. 1 skal framlegges for vedkommende myndighet på grensekontrollstasjonen på det stedet varene først føres inn i Unionen, og deretter skal et eksemplar følge forsendelsen til den når bestemmelsesanlegget.
 3. Etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, skal fettderivatene transporteres direkte til den/det registrerte bestemmelsesvirksomheten eller -anlegget.
 
@@ -3351,7 +6342,12 @@ Import av fettderivater
 
 Import av fotografisk gelatin
 
-1. Gelatin som er framstilt av materiale som inneholder virvelsøyle fra storfe, som består av kategori 1-materiale i henhold til artikkel 8 bokstav b) i forordning [(EF) nr. 1069/2009](eu/32009r1069) og som er beregnet på bruk i fotoindustrien (fotografisk gelatin), kan importeres, forutsatt at den fotografiske gelatinenkommer fra ett av opprinnelsesanleggene oppført i tabell 3,er framstilt i samsvar med nr. 6, ogimporteres via én av grensekontrollstasjonene der varen først innføres til Unionen som er oppført i tabell 3, oger beregnet på framstilling i en godkjent fotovirksomhet som er oppført i tabell 3.
+1. Gelatin som er framstilt av materiale som inneholder virvelsøyle fra storfe, som består av kategori 1-materiale i henhold til artikkel 8 bokstav b) i forordning [(EF) nr. 1069/2009](eu/32009r1069) og som er beregnet på bruk i fotoindustrien (fotografisk gelatin), kan importeres, forutsatt at den fotografiske gelatinen
+
+   1. kommer fra ett av opprinnelsesanleggene oppført i tabell 3,
+   2. er framstilt i samsvar med nr. 6, og
+   3. importeres via én av grensekontrollstasjonene der varen først innføres til Unionen som er oppført i tabell 3, og
+   4. er beregnet på framstilling i en godkjent fotovirksomhet som er oppført i tabell 3.
 
 **►M29**
 
@@ -3373,14 +6369,33 @@ Import av fotografisk gelatin
 1. Når den fotografiske gelatinen er kommet inn i bestemmelsesmedlemsstaten, kan den ikke selges mellom medlemsstater, men skal bare brukes i den godkjente fotovirksomheten i samme bestemmelsesmedlemsstat, og utelukkende til fotoproduksjon.
 2. Etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, skal den fotografiske gelatinen transporteres direkte til den godkjente bestemmelsesfotovirksomheten.
 3. Transporten nevnt i nr. 3 skal foretas i kjøretøyer eller containere der den fotografiske gelatinen holdes fysisk atskilt fra alle produkter som er beregnet på bruk som næringsmidler eller fôr.
-4. Den driftsansvarlige ved den godkjente bestemmelsesfotovirksomheten skal sikre at eventuelle overskudd eller rester samt annet avfall fra fotografisk gelatin blirtransportert i forseglede, lekkasjesikre beholdere merket «bare beregnet på disponering», i kjøretøyer under tilfredsstillende hygieniske forhold,disponert i samsvar med artikkel 12 bokstav a) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) eller eksportert til opprinnelsestredjestaten i samsvar med forordning [(EF) nr. 1013/2006](eu/32006r1013*).
-5. Fotografisk gelatin skal framstilles i samsvar med følgende krav:Fotografisk gelatin skal bare produseres ved anlegg som ikke produserer gelatin til næringsmidler eller fôr beregnet på forsendelse til Den europeiske union, og som er godkjent for dette formål av vedkommende myndighet i den berørte tredjestaten.Fotografisk gelatin skal framstilles ved en prosess som sikrer at råstoffene behandles med bearbeidingsmetode 1 (trykksterilisering) i vedlegg IV kapittel III, eller gjennomgå en behandling med syre eller base i minst to dager, skylling med vann ogetter syrebehandling, en behandling med en basisk løsning i minst 20 dager, elleretter syrebehandling, en behandling med en syreløsning i 10–12 timer.Deretter skal pH-verdien justeres og materialet renses ved filtrering og sterilisering ved 138–140 °C i 4 sekunder.Etter at den fotografiske gelatinen har gjennomgått prosessen nevnt i bokstav b), kan den tørkes og eventuelt pulveriseres eller formes i plater.Den fotografiske gelatinen skal pakkes, emballeres i ny emballasje, lagres og transporteres i forseglede, lekkasjesikre, merkede beholdere i et kjøretøy under tilfredsstillende hygieniske forhold.Dersom det påvises lekkasje, skal kjøretøyet og beholderne rengjøres og inspiseres grundig før de brukes igjen.Pakninger og emballasje som inneholder fotografisk gelatin, skal være merket med teksten «fotografisk gelatin bare beregnet på fotoindustrien».
+4. Den driftsansvarlige ved den godkjente bestemmelsesfotovirksomheten skal sikre at eventuelle overskudd eller rester samt annet avfall fra fotografisk gelatin blir
+
+   1. transportert i forseglede, lekkasjesikre beholdere merket «bare beregnet på disponering», i kjøretøyer under tilfredsstillende hygieniske forhold,
+   2. disponert i samsvar med artikkel 12 bokstav a) i) i forordning [(EF) nr. 1069/2009](eu/32009r1069) eller eksportert til opprinnelsestredjestaten i samsvar med forordning [(EF) nr. 1013/2006](eu/32006r1013*).
+5. Fotografisk gelatin skal framstilles i samsvar med følgende krav:
+
+   1. Fotografisk gelatin skal bare produseres ved anlegg som ikke produserer gelatin til næringsmidler eller fôr beregnet på forsendelse til Den europeiske union, og som er godkjent for dette formål av vedkommende myndighet i den berørte tredjestaten.
+   2. Fotografisk gelatin skal framstilles ved en prosess som sikrer at råstoffene behandles med bearbeidingsmetode 1 (trykksterilisering) i vedlegg IV kapittel III, eller gjennomgå en behandling med syre eller base i minst to dager, skylling med vann og
+
+      1. etter syrebehandling, en behandling med en basisk løsning i minst 20 dager, eller
+      2. etter syrebehandling, en behandling med en syreløsning i 10–12 timer.
+
+         Deretter skal pH-verdien justeres og materialet renses ved filtrering og sterilisering ved 138–140 °C i 4 sekunder.
+   3. Etter at den fotografiske gelatinen har gjennomgått prosessen nevnt i bokstav b), kan den tørkes og eventuelt pulveriseres eller formes i plater.
+   4. Den fotografiske gelatinen skal pakkes, emballeres i ny emballasje, lagres og transporteres i forseglede, lekkasjesikre, merkede beholdere i et kjøretøy under tilfredsstillende hygieniske forhold.
+
+      Dersom det påvises lekkasje, skal kjøretøyet og beholderne rengjøres og inspiseres grundig før de brukes igjen.
+   5. Pakninger og emballasje som inneholder fotografisk gelatin, skal være merket med teksten «fotografisk gelatin bare beregnet på fotoindustrien».
 
 ###### Avsnitt 12
 
 Import av horn og hornprodukter, unntatt hornmel, og hover/klover og hov-/klovprodukter, unntatt hov-/klovmel, til framstilling av organisk gjødsel eller jordforbedringsmidler
 
-Horn og hornprodukter, unntatt hornmel, og hover/klover og hov-/klovprodukter, unntatt hov-/klovmel, som er beregnet på framstilling av organisk gjødsel eller jordforbedringsmidler, kan importeres, forutsatt atde er framstilt i samsvar med vedlegg XIII kapittel XII, ogde etter veterinærkontrollene fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, blir transportert direkte til en/et godkjent eller registrert virksomhet eller anlegg.
+Horn og hornprodukter, unntatt hornmel, og hover/klover og hov-/klovprodukter, unntatt hov-/klovmel, som er beregnet på framstilling av organisk gjødsel eller jordforbedringsmidler, kan importeres, forutsatt at
+
+1. de er framstilt i samsvar med vedlegg XIII kapittel XII, og
+2. de etter veterinærkontrollene fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, blir transportert direkte til en/et godkjent eller registrert virksomhet eller anlegg.
 
 ### KAPITTEL III
 SÆRLIGE BESTEMMELSER OM VISSE PRØVER
@@ -3389,23 +6404,61 @@ SÆRLIGE BESTEMMELSER OM VISSE PRØVER
 
 Prøver til forskning og diagnostikk
 
-Prøver til forskning og diagnostikk og eventuelle produkter framstilt ved bruk av disse prøvene skal, med mindre de oppbevares for referanseformål eller sendes tilbake til opprinnelsestredjestaten, disponeressom avfall ved avfallsforbrenning,ved trykksterilisering og etterfølgende disponering eller bruk i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069), elleri samsvar med vedlegg VI kapittel I nr. 4 bokstav b) dersommengden ikke overstiger 2 000 ml, ogprøvene eller de avledede produktene er framstilt i og sendt fra tredjestater eller deler av tredjestater som medlemsstatene tillater import fra av ferskt kjøtt fra storfe, og som er oppført i del I i vedlegg II til forordning [(EU) nr. 206/2010](eu/32010r0206*).
+Prøver til forskning og diagnostikk og eventuelle produkter framstilt ved bruk av disse prøvene skal, med mindre de oppbevares for referanseformål eller sendes tilbake til opprinnelsestredjestaten, disponeres
+
+1. som avfall ved avfallsforbrenning,
+2. ved trykksterilisering og etterfølgende disponering eller bruk i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069), eller
+3. i samsvar med vedlegg VI kapittel I nr. 4 bokstav b) dersom
+
+   1. mengden ikke overstiger 2 000 ml, og
+   2. prøvene eller de avledede produktene er framstilt i og sendt fra tredjestater eller deler av tredjestater som medlemsstatene tillater import fra av ferskt kjøtt fra storfe, og som er oppført i del I i vedlegg II til forordning [(EU) nr. 206/2010](eu/32010r0206*).
 
 ###### Avsnitt 2
 
 Vareprøver
 
-1. Vedkommende myndighet kan tillate import og transitt av vareprøver, forutsatt atde kommer fratredjestater nevnt i kolonnen «liste over tredjestater» i tabell 2 rad 14 i kapittel II avsnitt 1 i dette vedlegg,når det gjelder prøver som består av melk, melkebaserte produkter eller produkter framstilt av melk, godkjente tredjestater oppført i vedlegg I til forordning [(EU) nr. 605/2010](eu/32010r0605*),de følges av et hygienesertifikat i samsvar med vedlegg XV kapittel 8, ogde etter veterinærkontrollene fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, blir transportert direkte til den/det godkjente eller registrerte virksomheten eller anlegget som er angitt i godkjenningen fra vedkommende myndighet.
-2. Med mindre vareprøvene oppbevares for referanseformål, skal dedisponeres eller brukes i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069), ellersendes tilbake til opprinnelsestredjestaten.
-3. Dersom vareprøver brukes til prøving av maskiner, skal prøvingen foretasmed utstyr som er beregnet til dette formålet, ellermed utstyr som er rengjort og desinfisert før det brukes for andre formål enn prøvingen.Under transporten til den/det godkjente eller registrerte virksomheten eller anlegget, skal vareprøvene pakkes i lekkasjesikre beholdere.
+1. Vedkommende myndighet kan tillate import og transitt av vareprøver, forutsatt at
+
+   1. de kommer fra
+
+      1. tredjestater nevnt i kolonnen «liste over tredjestater» i tabell 2 rad 14 i kapittel II avsnitt 1 i dette vedlegg,
+      2. når det gjelder prøver som består av melk, melkebaserte produkter eller produkter framstilt av melk, godkjente tredjestater oppført i vedlegg I til forordning [(EU) nr. 605/2010](eu/32010r0605*),
+   2. de følges av et hygienesertifikat i samsvar med vedlegg XV kapittel 8, og
+   3. de etter veterinærkontrollene fastsatt i direktiv [97/78/EF](eu/31997l0078), og i samsvar med vilkårene i artikkel 8 nr. 4 i nevnte direktiv, blir transportert direkte til den/det godkjente eller registrerte virksomheten eller anlegget som er angitt i godkjenningen fra vedkommende myndighet.
+2. Med mindre vareprøvene oppbevares for referanseformål, skal de
+
+   1. disponeres eller brukes i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069), eller
+   2. sendes tilbake til opprinnelsestredjestaten.
+3. Dersom vareprøver brukes til prøving av maskiner, skal prøvingen foretas
+
+   1. med utstyr som er beregnet til dette formålet, eller
+   2. med utstyr som er rengjort og desinfisert før det brukes for andre formål enn prøvingen.
+
+      Under transporten til den/det godkjente eller registrerte virksomheten eller anlegget, skal vareprøvene pakkes i lekkasjesikre beholdere.
 
 ###### Avsnitt 3
 
 Utstillingsgjenstander
 
-1. Import og transitt av utstillingsgjenstander skal skje i samsvar med følgende vilkår:de skal komme fra tredjestater nevnt i kolonnen «liste over tredjestater» i tabell 2 rad 14 i kapittel II avsnitt 1,innførselen er på forhånd godkjent av vedkommende myndighet i den medlemsstaten der utstillingsgjenstanden skal brukes,etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078), skal utstillingsgjenstandene transporteres direkte til den godkjente brukeren.
-2. Hver forsendelse skal pakkes i emballasje for å unngå lekkasjer, og skal følges av et handelsdokument med følgende opplysninger:en beskrivelse av materialet og hvilken dyreart det kommer fra,materialets kategori,mengden materiale,materialets avsendersted,avsenderens navn og adresse,mottakerens navn og adresse, ogopplysninger som gjør det mulig å identifisere godkjenningen fra vedkommende myndighet på bestemmelsesstedet.
-3. Når utstillingen eller den kunstneriske virksomheten er avsluttet, skal utstillingsgjenstandersendes tilbake til opprinnelsestredjestaten,sendes til en annen medlemsstat eller en annen tredjestat, dersom vedkommende myndighet i bestemmelsesmedlemsstaten eller -tredjestaten på forhånd har gitt tillatelse til dette, ellerdisponeres i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+1. Import og transitt av utstillingsgjenstander skal skje i samsvar med følgende vilkår:
+
+   1. de skal komme fra tredjestater nevnt i kolonnen «liste over tredjestater» i tabell 2 rad 14 i kapittel II avsnitt 1,
+   2. innførselen er på forhånd godkjent av vedkommende myndighet i den medlemsstaten der utstillingsgjenstanden skal brukes,
+   3. etter veterinærkontrollen fastsatt i direktiv [97/78/EF](eu/31997l0078), skal utstillingsgjenstandene transporteres direkte til den godkjente brukeren.
+2. Hver forsendelse skal pakkes i emballasje for å unngå lekkasjer, og skal følges av et handelsdokument med følgende opplysninger:
+
+   1. en beskrivelse av materialet og hvilken dyreart det kommer fra,
+   2. materialets kategori,
+   3. mengden materiale,
+   4. materialets avsendersted,
+   5. avsenderens navn og adresse,
+   6. mottakerens navn og adresse, og
+   7. opplysninger som gjør det mulig å identifisere godkjenningen fra vedkommende myndighet på bestemmelsesstedet.
+3. Når utstillingen eller den kunstneriske virksomheten er avsluttet, skal utstillingsgjenstander
+
+   1. sendes tilbake til opprinnelsestredjestaten,
+   2. sendes til en annen medlemsstat eller en annen tredjestat, dersom vedkommende myndighet i bestemmelsesmedlemsstaten eller -tredjestaten på forhånd har gitt tillatelse til dette, eller
+   3. disponeres i samsvar med artikkel 12–14 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 ### KAPITTEL IV
 SÆRLIGE KRAV FOR VISSE TYPER FORFLYTNING AV ANIMALSKE BIPRODUKTER
@@ -3414,13 +6467,23 @@ SÆRLIGE KRAV FOR VISSE TYPER FORFLYTNING AV ANIMALSKE BIPRODUKTER
 
 Import av visse typer kategori 1-materiale
 
-Materiale nevnt i artikkel 26 skal importeres på følgende vilkår:Materialet skal importeres med en etikett som er festet til emballasjen, beholderen eller kjøretøyet, med teksten «Forbudt i næringsmidler, fôr, gjødsel, kosmetikk, legemidler og medisinsk utstyr».Materialet skal leveres direkte til en/et godkjent eller registrert virksomhet eller anlegg for framstilling av avledede produkter, unntatt produktene nevnt i nr. 1.Ubrukt materiale eller overskuddsmateriale skal brukes eller disponeres i samsvar med artikkel 12 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+Materiale nevnt i artikkel 26 skal importeres på følgende vilkår:
+
+1. Materialet skal importeres med en etikett som er festet til emballasjen, beholderen eller kjøretøyet, med teksten «Forbudt i næringsmidler, fôr, gjødsel, kosmetikk, legemidler og medisinsk utstyr».
+2. Materialet skal leveres direkte til en/et godkjent eller registrert virksomhet eller anlegg for framstilling av avledede produkter, unntatt produktene nevnt i nr. 1.
+3. Ubrukt materiale eller overskuddsmateriale skal brukes eller disponeres i samsvar med artikkel 12 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 ###### Avsnitt 2
 
 Import av visse typer materiale for andre formål enn bruk i fôr til produksjonslanddyr
 
-1. Vedkommende myndighet kan tillate import av følgende typer materiale for andre formål enn bruk i fôr til produksjonslanddyr, unntatt fôr til pelsdyr, forutsatt at det ikke foreligger noen uakseptabel risiko for spredning av sykdommer som kan overføres til mennesker eller dyr:animalske biprodukter fra vanndyr og avledede produkter fra vanndyr,virvelløse dyr som lever i vann og avledede produkter fra virvelløse dyr som lever i vann,virvelløse landdyr, herunder alle deres utviklingsstadier, for eksempel larver, og avledede produkter,produkter som kommer fra dyr nevnt i bokstav a)–c), for eksempel fiskerogn,kategori 3-materiale som består av dyr og deler av dyr som tilhører dyreordenene Rodentia og Lagomorpha.
+1. Vedkommende myndighet kan tillate import av følgende typer materiale for andre formål enn bruk i fôr til produksjonslanddyr, unntatt fôr til pelsdyr, forutsatt at det ikke foreligger noen uakseptabel risiko for spredning av sykdommer som kan overføres til mennesker eller dyr:
+
+   1. animalske biprodukter fra vanndyr og avledede produkter fra vanndyr,
+   2. virvelløse dyr som lever i vann og avledede produkter fra virvelløse dyr som lever i vann,
+   3. virvelløse landdyr, herunder alle deres utviklingsstadier, for eksempel larver, og avledede produkter,
+   4. produkter som kommer fra dyr nevnt i bokstav a)–c), for eksempel fiskerogn,
+   5. kategori 3-materiale som består av dyr og deler av dyr som tilhører dyreordenene Rodentia og Lagomorpha.
 2. Import av forsendelser av materiale nevnt i nr. 1 skal skje i samsvar med krav til hygieneattestering i samsvar med nasjonal lovgivning.
 
 ### ►**M10** KAPITTEL V
@@ -3452,7 +6515,14 @@ KRAV TIL INNFØRSEL AV FORSENDELSER AV ANIMALSKE BIPRODUKTER OG AVLEDEDE PRODUKT
 
 Animalske biprodukter og avledede produkter, uemballerte eller i bulk, som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innført til et tredjeland hvis territorium ikke helt eller delvis er oppført i vedlegg XIV
 
-1\. Den vedkommende myndigheten på grensekontrollstasjonen skal bare tillate innførsel til Unionen av forsendelser av animalske biprodukter og avledede produkter, uemballerte eller i bulk, som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innført til et tredjeland hvis territorium ikke helt eller delvis er oppført i vedlegg XIV for innførsel til Unionen av den aktuelle produkttypen, dersom følgende vilkår er oppfylt:Forsendelsen ledsages av det offisielle sertifikatet eller dokumentet, enten som original eller bekreftet kopi, eller den elektroniske versjonen av dette sertifikatet eller dokumentet som er generert i IMSOC(1), og som er utstedt av den vedkommende myndigheten i eksportmedlemsstaten.Forsendelsen ledsages av en erklæring fra den vedkommende myndigheten i bestemmelsesmedlemsstaten der myndigheten godtar å motta forsendelsen og angir bestemmelsesstedet i Unionen.Forsendelsen oppfyller begge følgende vilkår:Den er fortsatt forseglet med en intakt originalforsegling, dersom det i det opprinnelige sertifikatet omtalt i nr. 1 bokstav a) eller et annet offisielt dokument utstedt av en myndighet i Unionen er nevnt at forsendelsen ble forseglet før den forlot Unionen.Den ledsages av en offentlig erklæring fra den vedkommende myndigheten eller annen offentlig myndighet i tredjelandet som har nektet innførsel av forsendelsen, med angivelse av årsaken til at den ble nektet innført.
+1\. Den vedkommende myndigheten på grensekontrollstasjonen skal bare tillate innførsel til Unionen av forsendelser av animalske biprodukter og avledede produkter, uemballerte eller i bulk, som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innført til et tredjeland hvis territorium ikke helt eller delvis er oppført i vedlegg XIV for innførsel til Unionen av den aktuelle produkttypen, dersom følgende vilkår er oppfylt:
+
+1. Forsendelsen ledsages av det offisielle sertifikatet eller dokumentet, enten som original eller bekreftet kopi, eller den elektroniske versjonen av dette sertifikatet eller dokumentet som er generert i IMSOC(1), og som er utstedt av den vedkommende myndigheten i eksportmedlemsstaten.
+2. Forsendelsen ledsages av en erklæring fra den vedkommende myndigheten i bestemmelsesmedlemsstaten der myndigheten godtar å motta forsendelsen og angir bestemmelsesstedet i Unionen.
+3. Forsendelsen oppfyller begge følgende vilkår:
+
+   1. Den er fortsatt forseglet med en intakt originalforsegling, dersom det i det opprinnelige sertifikatet omtalt i nr. 1 bokstav a) eller et annet offisielt dokument utstedt av en myndighet i Unionen er nevnt at forsendelsen ble forseglet før den forlot Unionen.
+   2. Den ledsages av en offentlig erklæring fra den vedkommende myndigheten eller annen offentlig myndighet i tredjelandet som har nektet innførsel av forsendelsen, med angivelse av årsaken til at den ble nektet innført.
 
 2\. Som unntak fra nr. 1 bokstav a) skal forsendelsens opprinnelse i tilfeller der forsendelsen ble eksportert uten et ledsagende offisielt sertifikat eller dokument, bekreftes på annen måte på grunnlag av dokumentasjonen som framlegges av den driftsansvarlige som har ansvaret for forsendelsen.
 
@@ -3464,7 +6534,18 @@ Animalske biprodukter og avledede produkter, uemballerte eller i bulk, som har s
 
 1\. Den vedkommende myndigheten på grensekontrollstasjonen skal bare tillate innførsel til Unionen av forsendelser av animalske biprodukter og avledede produkter, uemballerte eller i bulk, som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innført til et tredjeland hvis territorium helt eller delvis er oppført i vedlegg XIV for innførsel til Unionen av den aktuelle produkttypen, dersom vilkårene i avsnitt 1 nr. 1 bokstav a), b) og c) punkt ii) samt i nr. 2 og 3 er oppfylt:
 
-2\. Når produktene nevnt i nr. 1 er blitt losset, lagret eller omlastet, eller dersom den opprinnelige forseglingen er blitt skiftet ut i eller ved innførsel til tredjelandet eller en del av dets territorium som er oppført i vedlegg XIV, skal forsendelsen ledsages av en offisiell erklæring fra den vedkommende myndigheten eller fra en annen offentlig myndighet i det berørte tredjelandet eller territoriet:som angir sted og dato for lossing, lagring og omlasting samt nummeret på forseglingen som er satt på containeren etter omlasting,som bekrefter atforseglingen på kjøretøyet eller containeren med forsendelsen ble brutt bare med henblikk på de offentlige kontrollene,produktene ble håndtert bare i det omfanget som er nødvendig, og særligved korrekt temperatur som kreves for de relevante typene av animalske biprodukter eller avledede produkter, ogpå en måte som hindrer krysskontaminering av produktene under kontrollene,kjøretøyet eller containeren ble straks forseglet igjen etter de offentlig kontrollene,som angir årsakene til lossing og lagring.
+2\. Når produktene nevnt i nr. 1 er blitt losset, lagret eller omlastet, eller dersom den opprinnelige forseglingen er blitt skiftet ut i eller ved innførsel til tredjelandet eller en del av dets territorium som er oppført i vedlegg XIV, skal forsendelsen ledsages av en offisiell erklæring fra den vedkommende myndigheten eller fra en annen offentlig myndighet i det berørte tredjelandet eller territoriet:
+
+1. som angir sted og dato for lossing, lagring og omlasting samt nummeret på forseglingen som er satt på containeren etter omlasting,
+2. som bekrefter at
+
+   1. forseglingen på kjøretøyet eller containeren med forsendelsen ble brutt bare med henblikk på de offentlige kontrollene,
+   2. produktene ble håndtert bare i det omfanget som er nødvendig, og særlig
+
+      - ved korrekt temperatur som kreves for de relevante typene av animalske biprodukter eller avledede produkter, og
+      - på en måte som hindrer krysskontaminering av produktene under kontrollene,
+   3. kjøretøyet eller containeren ble straks forseglet igjen etter de offentlig kontrollene,
+3. som angir årsakene til lossing og lagring.
 
 ###### Avsnitt 3
 
@@ -3472,8 +6553,11 @@ Emballerte animalske biprodukter og avledede produkter som har sin opprinnelse i
 
 1\. Den vedkommende myndigheten på grensekontrollstasjonen skal bare tillate innførsel til Unionen av forsendelser av emballerte animalske biprodukter og avledede produkter som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innført til et tredjeland, dersom kravene fastsatt i avsnitt 1 er oppfylt og hver enkelt produktemballasje fortsatt er intakt sammenlignet med emballasjens tilstand før eksporten.
 
-2\. Dersom produktene nevnt i nr. 1 er blitt losset i et tredjeland, ledsages forsendelsen av en offisiell erklæring fra den vedkommende myndigheten eller en annen offentlig myndighet i tredjelandet som attesterer at produkteneikke har gjennomgått noen annen håndtering enn lossing, lagring og omlasting,ble håndtert ved den temperaturen som kreves for de relevante typene av animalske biprodukter eller avledede produkter.
-◄**M24**
+2\. Dersom produktene nevnt i nr. 1 er blitt losset i et tredjeland, ledsages forsendelsen av en offisiell erklæring fra den vedkommende myndigheten eller en annen offentlig myndighet i tredjelandet som attesterer at produktene
+
+1. ikke har gjennomgått noen annen håndtering enn lossing, lagring og omlasting,
+2. ble håndtert ved den temperaturen som kreves for de relevante typene av animalske biprodukter eller avledede produkter.
+   ◄**M24**
 
 ### VEDLEGG XV
 MODELLER FOR HYGIENESERTIFIKATER
@@ -3908,23 +6992,66 @@ OFFENTLIGE KONTROLLER I BEARBEIDINGSANLEGG
 
 Tilsyn med produksjonen
 
-1. Vedkommende myndighet skal føre tilsyn med bearbeidingsanleggene for å sikre at kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og denne forordning oppfylles.Den skal særligkontrollerede generelle hygieniske forholdene for lokalene, utstyret og personalet,at egenkontrollene som utføres av den driftsansvarlige for bearbeidingsanleggene i henhold til artikkel 28 i forordning [(EF) nr. 1069/2009](eu/32009r1069), er effektive; kontrollen skal omfatte en undersøkelse av resultatene av egenkontrollene og ved behov prøvetaking,at innføringen av den permanente skriftlige framgangsmåten på grunnlag av HACCP-prinsippene i henhold til artikkel 29 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), er effektiv; kontrollen skal omfatte en undersøkelse av resultatene av innføringen og ved behov prøvetaking,produktenes kvalitet etter bearbeiding; analysene og prøvingen skal gjennomføres i samsvar med vitenskapelig anerkjente metoder, særlig de som er fastsatt i Unionens regelverk, eller dersom slike metoder ikke er fastsatt i Unionens regelverk, i samsvar med anerkjente internasjonale krav, eller dersom slike ikke finnes, nasjonale krav, oglagringsforholdene,ta de prøvene som er nødvendige for laboratorieundersøkelser, ogforeta enhver annen kontroll den anser som nødvendig for å sørge for at bestemmelsene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og denne forordning overholdes.
+1. Vedkommende myndighet skal føre tilsyn med bearbeidingsanleggene for å sikre at kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og denne forordning oppfylles.
+
+   Den skal særlig
+
+   1. kontrollere
+
+      1. de generelle hygieniske forholdene for lokalene, utstyret og personalet,
+      2. at egenkontrollene som utføres av den driftsansvarlige for bearbeidingsanleggene i henhold til artikkel 28 i forordning [(EF) nr. 1069/2009](eu/32009r1069), er effektive; kontrollen skal omfatte en undersøkelse av resultatene av egenkontrollene og ved behov prøvetaking,
+      3. at innføringen av den permanente skriftlige framgangsmåten på grunnlag av HACCP-prinsippene i henhold til artikkel 29 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069), er effektiv; kontrollen skal omfatte en undersøkelse av resultatene av innføringen og ved behov prøvetaking,
+      4. produktenes kvalitet etter bearbeiding; analysene og prøvingen skal gjennomføres i samsvar med vitenskapelig anerkjente metoder, særlig de som er fastsatt i Unionens regelverk, eller dersom slike metoder ikke er fastsatt i Unionens regelverk, i samsvar med anerkjente internasjonale krav, eller dersom slike ikke finnes, nasjonale krav, og
+      5. lagringsforholdene,
+   2. ta de prøvene som er nødvendige for laboratorieundersøkelser, og
+   3. foreta enhver annen kontroll den anser som nødvendig for å sørge for at bestemmelsene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og denne forordning overholdes.
 2. For at vedkommende myndighet skal kunne oppfylle sine forpliktelser i henhold til nr. 1, skal den til enhver tid ha fri adgang til alle deler av bearbeidingsanlegget og til registre, handelsdokumenter og hygienesertifikater.
 
 ###### Avsnitt 2
 
 Framgangsmåter for validering
 
-1. Før vedkommende myndighet godkjenner et bearbeidingsanlegg, skal den i samsvar med artikkel 44 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) kontrollere at den driftansvarlige har validert bearbeidingsanlegget i samsvar med følgende framgangsmåter og indikatorer:en beskrivelse av prosessen ved hjelp av et flytdiagram for prosessen,påvisning av kritiske kontrollpunkter (CCP), herunder materialets bearbeidingshastighet for kontinuerlige systemer,overholdelse av de særlige prosesskravene fastsatt i denne forordning, ogoverholdelse av følgende krav:partikkelstørrelse for kontinuerlig behandling og diskontinuerlig behandling under trykk, definert på grunnlag av hullet i kvernen eller frigangen,temperatur, trykk, bearbeidingstid og, når det gjelder kontinuerlige bearbeidingssystemer, materialets bearbeidingshastighet som fastsatt i nr. 2 og 3.
-2. Når det gjelder et system med diskontinuerlig behandling under trykk,skal temperaturen overvåkes med et fast termoelement, og den skal framstilles i forhold til sann tid,skal trykket overvåkes med et fast manometer og framstilles i forhold til sann tid,bearbeidingstiden skal framgå av diagrammene over tid/temperatur og tid/trykk.Termoelementet og manometeret skal kalibreres minst én gang i året.
-3. Når det gjelder et system med kontinuerlig behandling under trykk,skal temperaturen og trykket overvåkes med termoelementer eller en infrarød temperaturføler, og manometre skal brukes på fastsatte steder i hele prosessystemet på en slik måte at temperaturen og trykket oppfyller de fastsatte vilkårene i hele det kontinuerlige systemet eller i en del av det; temperaturen og trykket skal framstilles i forhold til sann tid,skal resultatene av målingen av minste oppholdstid inne i hele den relevante delen av det kontinuerlige systemet der temperaturen og trykket oppfyller de fastsatte vilkårene, framlegges for vedkommende myndigheter ved hjelp av uoppløselige markører, for eksempel mangandioksid, eller en metode som gir tilsvarende garantier.Nøyaktige målinger og kontroll av bearbeidingshastigheten er avgjørende og skal måles under valideringsprøvingen i forhold til et kritisk kontrollpunkt som kan overvåkes kontinuerlig, for eksempel:mateskruens omdreininger per minutt (o/min),elektrisk kraft (ampere ved en gitt spenning),fordampings-/kondenseringshastighet, ellerantall pumpeslag per tidsenhet.Alt målings- og overvåkingsutstyr skal kalibreres minst én gang i året.
+1. Før vedkommende myndighet godkjenner et bearbeidingsanlegg, skal den i samsvar med artikkel 44 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069) kontrollere at den driftansvarlige har validert bearbeidingsanlegget i samsvar med følgende framgangsmåter og indikatorer:
+
+   1. en beskrivelse av prosessen ved hjelp av et flytdiagram for prosessen,
+   2. påvisning av kritiske kontrollpunkter (CCP), herunder materialets bearbeidingshastighet for kontinuerlige systemer,
+   3. overholdelse av de særlige prosesskravene fastsatt i denne forordning, og
+   4. overholdelse av følgende krav:
+
+      1. partikkelstørrelse for kontinuerlig behandling og diskontinuerlig behandling under trykk, definert på grunnlag av hullet i kvernen eller frigangen,
+      2. temperatur, trykk, bearbeidingstid og, når det gjelder kontinuerlige bearbeidingssystemer, materialets bearbeidingshastighet som fastsatt i nr. 2 og 3.
+2. Når det gjelder et system med diskontinuerlig behandling under trykk,
+
+   1. skal temperaturen overvåkes med et fast termoelement, og den skal framstilles i forhold til sann tid,
+   2. skal trykket overvåkes med et fast manometer og framstilles i forhold til sann tid,
+   3. bearbeidingstiden skal framgå av diagrammene over tid/temperatur og tid/trykk.
+
+      Termoelementet og manometeret skal kalibreres minst én gang i året.
+3. Når det gjelder et system med kontinuerlig behandling under trykk,
+
+   1. skal temperaturen og trykket overvåkes med termoelementer eller en infrarød temperaturføler, og manometre skal brukes på fastsatte steder i hele prosessystemet på en slik måte at temperaturen og trykket oppfyller de fastsatte vilkårene i hele det kontinuerlige systemet eller i en del av det; temperaturen og trykket skal framstilles i forhold til sann tid,
+   2. skal resultatene av målingen av minste oppholdstid inne i hele den relevante delen av det kontinuerlige systemet der temperaturen og trykket oppfyller de fastsatte vilkårene, framlegges for vedkommende myndigheter ved hjelp av uoppløselige markører, for eksempel mangandioksid, eller en metode som gir tilsvarende garantier.
+
+      Nøyaktige målinger og kontroll av bearbeidingshastigheten er avgjørende og skal måles under valideringsprøvingen i forhold til et kritisk kontrollpunkt som kan overvåkes kontinuerlig, for eksempel:
+
+      1. mateskruens omdreininger per minutt (o/min),
+      2. elektrisk kraft (ampere ved en gitt spenning),
+      3. fordampings-/kondenseringshastighet, eller
+      4. antall pumpeslag per tidsenhet.
+
+         Alt målings- og overvåkingsutstyr skal kalibreres minst én gang i året.
 4. Vedkommende myndighet skal gjenta kontrollen av framgangsmåten for validering når den vurderer det som nødvendig, og i alle tilfeller hver gang det foretas vesentlige endringer av prosessen, for eksempel endringer med hensyn til maskiner eller råstoffer.
 
 ### KAPITTEL II
 LISTER OVER REGISTRERTE OG GODKJENTE VIRKSOMHETER, ANLEGG OG DRIFTSANSVARLIGE
 
-1. Tilgang til lister over registrerte og godkjente virksomheter, anlegg og driftsansvarligeFor å bistå medlemsstatene i arbeidet med å gi andre medlemsstater og offentligheten tilgang til ajourførte lister over registrerte og godkjente virksomheter, anlegg og driftsansvarlige, skal Kommisjonen opprette et nettsted som skal inneholde lenker til nasjonale nettsteder opprettet av hver medlemsstat, som nevnt i nr. 2 bokstav a).
-2. Utforming av de nasjonale nettstedeneHver medlemsstat skal gi Kommisjonen adressen til ett nasjonalt nettsted som inneholder hovedlisten over alle registrerte og godkjente virksomheter, anlegg og driftsansvarlige på sitt territorium («hovedliste»).Hver hovedliste skal bestå av én side og skal være utfylt på ett eller flere av de offisielle språkene i Unionen.
+1. Tilgang til lister over registrerte og godkjente virksomheter, anlegg og driftsansvarlige
+
+   For å bistå medlemsstatene i arbeidet med å gi andre medlemsstater og offentligheten tilgang til ajourførte lister over registrerte og godkjente virksomheter, anlegg og driftsansvarlige, skal Kommisjonen opprette et nettsted som skal inneholde lenker til nasjonale nettsteder opprettet av hver medlemsstat, som nevnt i nr. 2 bokstav a).
+2. Utforming av de nasjonale nettstedene
+
+   1. Hver medlemsstat skal gi Kommisjonen adressen til ett nasjonalt nettsted som inneholder hovedlisten over alle registrerte og godkjente virksomheter, anlegg og driftsansvarlige på sitt territorium («hovedliste»).
+   2. Hver hovedliste skal bestå av én side og skal være utfylt på ett eller flere av de offisielle språkene i Unionen.
 3. Oppsettet for hovedlister, herunder relevante opplysninger og koder, skal være i samsvar med de tekniske spesifikasjonene Kommisjonen har offentliggjort på sitt nettsted.
 
 ### KAPITTEL III
@@ -3952,14 +7079,24 @@ Når det gjelder disponering av animalske biprodukter i fjerntliggende områder 
 
 Offentlig kontroll i registrerte driftsenheter med hensyn til fôring av pelsdyr
 
-1. Vedkommende myndighet skal treffe nødvendige tiltak for å kontrollereat sammensetning, bearbeiding og bruk av fôr som inneholder kjøttbeinmel eller andre produkter som er bearbeidet i samsvar med bearbeidingsmetodene fastsatt i vedlegg IV kapittel III, og som kommer fra skrotter eller deler av skrotter fra dyr av samme art, foregår forskriftsmessig,at dyrene fôres med fôret nevnt i bokstav a), herundernøye tilsyn med disse dyrenes helsetilstand, oghensiktsmessig TSE-overvåking, som omfatter regelmessig prøvetaking og laboratorieundersøkelser med tanke på TSE.
+1. Vedkommende myndighet skal treffe nødvendige tiltak for å kontrollere
+
+   1. at sammensetning, bearbeiding og bruk av fôr som inneholder kjøttbeinmel eller andre produkter som er bearbeidet i samsvar med bearbeidingsmetodene fastsatt i vedlegg IV kapittel III, og som kommer fra skrotter eller deler av skrotter fra dyr av samme art, foregår forskriftsmessig,
+   2. at dyrene fôres med fôret nevnt i bokstav a), herunder
+
+      1. nøye tilsyn med disse dyrenes helsetilstand, og
+      2. hensiktsmessig TSE-overvåking, som omfatter regelmessig prøvetaking og laboratorieundersøkelser med tanke på TSE.
 2. Prøvene nevnt i nr. 1 bokstav b) ii) skal omfatte prøver tatt av dyr som viser nevrologiske symptomer, og prøver tatt av eldre avlsdyr.
 
 ###### Avsnitt 5
 
 Offentlig kontroll av innsamlingssentraler
 
-1. Vedkommende myndighet skalføre opp innsamlingssentraler på listen som utarbeides i samsvar med artikkel 47 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069),tildele hver innsamlingssentral et offisielt nummer, ogajourføre listen over innsamlingssentraler og gjøre den tilgjengelig sammen med listen som utarbeides i samsvar med artikkel 47 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+1. Vedkommende myndighet skal
+
+   1. føre opp innsamlingssentraler på listen som utarbeides i samsvar med artikkel 47 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+   2. tildele hver innsamlingssentral et offisielt nummer, og
+   3. ajourføre listen over innsamlingssentraler og gjøre den tilgjengelig sammen med listen som utarbeides i samsvar med artikkel 47 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 2. Vedkommende myndighet skal foreta offentlig kontroll ved innsamlingssentraler for å kontrollere at bestemmelsene i denne forordning overholdes.
 
 ► **M4**
@@ -4012,7 +7149,10 @@ Offentlige kontroller med hensyn til hydrolyse med etterfølgende disponering
 
 Vedkommende myndighet skal gjennomføre kontroller på steder der hydrolyse med etterfølgende disponering gjennomføres i samsvar med vedlegg IX kapittel V avsnitt 2 bokstav B.
 
-Slike kontroller skal omfatte sjekk av dokumenter for å kontrollere at mengden av hydrolisert materiale stemmer overens med den mengden som sendes og disponeres:av den mengde materiale som hydrolyseres på stedet,på virksomheter eller anlegg der det hydrolyserte materialet disponeres.
+Slike kontroller skal omfatte sjekk av dokumenter for å kontrollere at mengden av hydrolisert materiale stemmer overens med den mengden som sendes og disponeres:
+
+1. av den mengde materiale som hydrolyseres på stedet,
+2. på virksomheter eller anlegg der det hydrolyserte materialet disponeres.
 
 Kontroller skal gjennomføres regelmessig på grunnlag av en risikovurdering. I løpet av de første 12 månedene av driften skal det utføres et kontrollbesøk til stedet der en beholder for hydrolyse er plassert, hver gang hydrolisert materiale er oppsamlet fra beholderen.Etter de første tolv månedene av driften skal det foretas kontrollbesøk på slike steder hver gang beholderen tømmes og det kontrolleres at det ikke forekommer korrosjon og lekkasje i samsvar med kapittel V avsnitt 2 bokstav B nr. 3 bokstav j) i vedlegg IX.
 

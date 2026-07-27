@@ -36,7 +36,12 @@ Forskriften gjelder for norsk landterritorium og territorialfarvann, på kontine
 
 Forskriften gjelder virksomheter hvor det foregår slakting eller tilvirkning av akvakulturdyr, inkludert ekspedisjonssentraler for bløtdyr som er akvakulturdyr.
 
-Forskriften gjelder ikke for:tilvirking hos detaljist for salg direkte til forbruker, herunder storhusholdning, kantine, serveringssted og lignende,slakting og tilvirking av sjøpattedyr,slaktemerder, ogfangsbasert akvakultur.
+Forskriften gjelder ikke for:
+
+1. tilvirking hos detaljist for salg direkte til forbruker, herunder storhusholdning, kantine, serveringssted og lignende,
+2. slakting og tilvirking av sjøpattedyr,
+3. slaktemerder, og
+4. fangsbasert akvakultur.
 
 Kapittel 4 gjelder i tillegg til artikkel 3 nummer 1 i forordning [(EF) nr. 1099/2009](eu/32009r1099) som er gjennomført i [forskrift 13. januar 2013 nr. 60](forskrift/2013-01-13-60) om avliving av dyr.
 
@@ -44,7 +49,17 @@ Kapittel 4 gjelder i tillegg til artikkel 3 nummer 1 i forordning [(EF) nr. 1099
 
 ### § 3. Definisjoner
 
-I denne forskrift mener en med:*Akvakulturdyr:* alle livsstadier inklusive kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg eller et akvakulturområde for bløtdyr, inkludert alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg eller et akvakulturområde for bløtdyr.*Akvatiske dyr:*kjeveløse fisk (urfisk) som tilhører overklassen *Agnatha*, bruskfisk og beinfisk som tilhører klassene *Chondrichthyes* og *Osteichthyes*bløtdyr som tilhører rekken *Mollusca*skalldyr som tilhører underrekken *Crustacea*.*Avløpsvann:* væske fra slakte- og tilvirkingsprosessen – herunder vaskevann fra produksjonslokalene.*Slakting:* bedøving og avliving av fisk.*Tilvirkning:* tilvirkning av akvakulturdyr før konsum ved enhver type tiltak eller teknikk som endrer den anatomiske helheten, slik som bløgging, sløying, hodekapping, kutting, filetering, rensing og tining som genererer avfall eller biprodukter og som kan forårsake spredning av sykdom.
+I denne forskrift mener en med:
+
+1. *Akvakulturdyr:* alle livsstadier inklusive kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg eller et akvakulturområde for bløtdyr, inkludert alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg eller et akvakulturområde for bløtdyr.
+2. *Akvatiske dyr:*
+
+   1. kjeveløse fisk (urfisk) som tilhører overklassen *Agnatha*, bruskfisk og beinfisk som tilhører klassene *Chondrichthyes* og *Osteichthyes*
+   2. bløtdyr som tilhører rekken *Mollusca*
+   3. skalldyr som tilhører underrekken *Crustacea*.
+3. *Avløpsvann:* væske fra slakte- og tilvirkingsprosessen – herunder vaskevann fra produksjonslokalene.
+4. *Slakting:* bedøving og avliving av fisk.
+5. *Tilvirkning:* tilvirkning av akvakulturdyr før konsum ved enhver type tiltak eller teknikk som endrer den anatomiske helheten, slik som bløgging, sløying, hodekapping, kutting, filetering, rensing og tining som genererer avfall eller biprodukter og som kan forårsake spredning av sykdom.
 
 > Endret ved [forskrift 17 juni 2008 nr. 826](forskrift/2008-06-17-826) (i kraft 1 aug 2008).
 
@@ -60,13 +75,27 @@ Etablering, drift, utvidelse, flytting og endring av drift ved slakteri og tilvi
 
 Søknad om godkjenning skal inneholde de opplysninger som er nødvendige for å vurdere om godkjenning kan gis og hvilke vilkår som eventuelt skal stilles.
 
-Søknad om godkjenning skal minst inneholde opplysninger om følgende:Navn på slakteri- eller tilvirkningsanlegg, driftsansvarlig, adresse, telefonnummer, telefaksnummer, eventuelt mobiltelefonnummer og e-postadresse.Kart og koordinatangivelse som beskriver plassering av virksomheten og plantegning av slakteri- eller tilvirkningsanlegget.System for behandling av avløpsvann.Arter av akvakulturdyr som skal slaktes eller tilvirkes ved slakteriet eller tilvirkningsanlegget, produksjon og driftsomfang.Internkontrollsystem som sannsynliggjør at krav til smittehygienisk og velferdsmessig forsvarlig drift, inkludert krav til journalføring, kan etterleves.Hvilke metoder og innretninger som er valgt for sedering, bedøving og avliving av fiskene og dokumentasjon på at disse er utprøvd og funnet egnede.
+Søknad om godkjenning skal minst inneholde opplysninger om følgende:
+
+1. Navn på slakteri- eller tilvirkningsanlegg, driftsansvarlig, adresse, telefonnummer, telefaksnummer, eventuelt mobiltelefonnummer og e-postadresse.
+2. Kart og koordinatangivelse som beskriver plassering av virksomheten og plantegning av slakteri- eller tilvirkningsanlegget.
+3. System for behandling av avløpsvann.
+4. Arter av akvakulturdyr som skal slaktes eller tilvirkes ved slakteriet eller tilvirkningsanlegget, produksjon og driftsomfang.
+5. Internkontrollsystem som sannsynliggjør at krav til smittehygienisk og velferdsmessig forsvarlig drift, inkludert krav til journalføring, kan etterleves.
+6. Hvilke metoder og innretninger som er valgt for sedering, bedøving og avliving av fiskene og dokumentasjon på at disse er utprøvd og funnet egnede.
 
 Det kan kreves ytterligere opplysninger dersom det er nødvendig for å vurdere om godkjenning kan gis.
 
 ### § 6. Forhold som vurderes ved godkjenning
 
-Slakteri og tilvirkingsanlegg skal:lokaliseres slik at nødvendige smitteforebyggende hensyn til nærliggende akvakulturanlegg og viltlevende bestander av akvatiske dyr blir ivaretatt,bygges slik at krav til behandling av avløpsvann og biprodukter kan oppfylles,ha drenering av avløpsvann til eget avløpssystem, om nødvendig skal drenering også omfatte avløpsvann fra losseplass og andre arealer som eksponeres for biprodukter,ha lager for biprodukter som er plassert atskilt fra produksjonslokalene, og med nødvendig kapasitet for mellomlagring,ha tekniske innretninger og utstyr som er egnet ut fra hensynet til fiskevelferd, ogha et internkontrollsystem som sannsynliggjør at krav til smittehygienisk og fiskevelferdsmessig forsvarlig drift, inkludert krav til journalføring, kan etterleves.
+Slakteri og tilvirkingsanlegg skal:
+
+1. lokaliseres slik at nødvendige smitteforebyggende hensyn til nærliggende akvakulturanlegg og viltlevende bestander av akvatiske dyr blir ivaretatt,
+2. bygges slik at krav til behandling av avløpsvann og biprodukter kan oppfylles,
+3. ha drenering av avløpsvann til eget avløpssystem, om nødvendig skal drenering også omfatte avløpsvann fra losseplass og andre arealer som eksponeres for biprodukter,
+4. ha lager for biprodukter som er plassert atskilt fra produksjonslokalene, og med nødvendig kapasitet for mellomlagring,
+5. ha tekniske innretninger og utstyr som er egnet ut fra hensynet til fiskevelferd, og
+6. ha et internkontrollsystem som sannsynliggjør at krav til smittehygienisk og fiskevelferdsmessig forsvarlig drift, inkludert krav til journalføring, kan etterleves.
 
 Det kan stilles vilkår til godkjenningen.
 
@@ -94,7 +123,10 @@ Akvakulturdyr skal ikke føres levende ut igjen fra slakteri og tilvirkningsanle
 
 Mottak av akvakulturdyr eller akvakulturdyrprodukter inn til, og uttak av akvakulturdyrprodukter ut fra slakteri- eller tilvirkningsanlegg skal journalføres.
 
-Mattilsynet skal varsles umiddelbart ved:grunn til mistanke om sykdom på liste 1, 2 eller 3, med unntak av lakselus, ellerteknisk svikt eller andre forhold som har medført vesentlige velferdsmessige konsekvenser for fisken.
+Mattilsynet skal varsles umiddelbart ved:
+
+1. grunn til mistanke om sykdom på liste 1, 2 eller 3, med unntak av lakselus, eller
+2. teknisk svikt eller andre forhold som har medført vesentlige velferdsmessige konsekvenser for fisken.
 
 > Endret ved [forskrift 29 mars 2010 nr. 491](forskrift/2010-03-29-491).
 

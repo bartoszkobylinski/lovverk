@@ -26,13 +26,34 @@ eu_basis: []
 
 Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen ved innførsel og innenlandsk produksjon av sukker mv. med kr 9,67 per kg av varens avgiftspliktige vekt.
 
-Avgiftsplikten omfatter:sukker (roe-/bete- og rørsukker)sirup og sukkeroppløsning av nevnte varer.
+Avgiftsplikten omfatter:
+
+1. sukker (roe-/bete- og rørsukker)
+2. sirup og sukkeroppløsning av nevnte varer.
 
 Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunnlaget for avgiften.
 
 ## § 2.
 
-Det gis fritak for avgift på sukker somfra produsents og importørs lagerutføres til utlandetleveres som proviantinnføressom reisegodstil bruk i transportmidler i ervervsmessig virksomhetfra produsents eller importørs lager leveres til eller innføres avdiplomaterNATO og styrker fra land som deltar i Partnerskap for fredDen nordiske investeringsbankkommer i retur til produsents eller importørs lagerbrukes til ervervsmessig fremstilling av varerbrukes til birøktleveres vederlagsfritt til mottaker for utdeling på veldedig grunnlag.
+Det gis fritak for avgift på sukker som
+
+1. fra produsents og importørs lager
+
+   1. utføres til utlandet
+   2. leveres som proviant
+2. innføres
+
+   1. som reisegods
+   2. til bruk i transportmidler i ervervsmessig virksomhet
+3. fra produsents eller importørs lager leveres til eller innføres av
+
+   1. diplomater
+   2. NATO og styrker fra land som deltar i Partnerskap for fred
+   3. Den nordiske investeringsbank
+4. kommer i retur til produsents eller importørs lager
+5. brukes til ervervsmessig fremstilling av varer
+6. brukes til birøkt
+7. leveres vederlagsfritt til mottaker for utdeling på veldedig grunnlag.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

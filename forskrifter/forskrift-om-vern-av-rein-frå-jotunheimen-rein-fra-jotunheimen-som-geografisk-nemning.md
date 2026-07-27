@@ -15,7 +15,7 @@ xml_hash: "6d1ceb0c89c582665562607cbefd1bdd8e7a2ffa55d4b7fde115f4c1b4f16274"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,10 +32,28 @@ Kontaktutvalget for Tamreinlagene i Sør-Norge.
 
 ## § 3. Vilkår for bruk av produktnemninga
 
-1. *Produktbeskriving*Rein frå Jotunheimen/Rein fra Jotunheimen er kjøt av tamrein (*Rangifer tarandus tarandus*) som har gått på naturbeite i fjellområda i Jotunheimen og Filefjell.Nemninga Rein frå Jotunheimen/Rein fra Jotunheimen omfattar ferske og fryste skrottar, naturlege stykningsdelar og kjøttsorteringer av kalv, simle og bukk av tamrein. Meir enn 50 % av dyra som slaktast skal vera kalv. Minimum slaktevekt på kalv skal vera 20 kg.
-2. *Geografisk område*Beiteområdet for tamrein som omfattast av nemninga Rein frå Jotunheimen/Rein fra Jotunheimen er avgrensa til Jotunheimen og Filefjell i tråd med vedlagte kart.
-3. *Produksjonsmetode*Tamreinen kalvar ute på beite i slutten av april og litt ut i mai. Storleiken på tamreinflokkane skal tilpassast beiteområda slik at beitet ikkje blir beita ned.Tamreinen skal gjetast og flyttast på for heile tida å søkje dei områda der beiteforholda er best. Tamreinen forflyttar seg sjølv til dei ulike sesongbeitene. Det skal ikkje nyttast bil for transport mellom beiteområda.All tilvekst skal skje ved naturleg fôropptak. Kraftfôr eller anna tilleggsfôr, kunstige tilsetningsstoff eller vekstfremmande næring skal ikkje nyttast.Slakting skal skje ein til to gonger årleg, på hausten og om vinteren, og skal gjennomførast i fjellet i tilknyting til beiteområdet.Det skal drivast eit systematisk avlsarbeid med registrering og veging av kalvane for å sikre optimal flokksamansetning og eit godt framtidig vekstgrunnlag med høge kalvevektar.
-4. *Merking av produktet:*Rein frå Jotunheimen/Rein fra Jotunheimen kan merkast med teksten og figurmerket for Beskytta geografisk nemning/Beskyttet geografisk betegnelse.
+1. *Produktbeskriving*
+
+   Rein frå Jotunheimen/Rein fra Jotunheimen er kjøt av tamrein (*Rangifer tarandus tarandus*) som har gått på naturbeite i fjellområda i Jotunheimen og Filefjell.
+
+   Nemninga Rein frå Jotunheimen/Rein fra Jotunheimen omfattar ferske og fryste skrottar, naturlege stykningsdelar og kjøttsorteringer av kalv, simle og bukk av tamrein. Meir enn 50 % av dyra som slaktast skal vera kalv. Minimum slaktevekt på kalv skal vera 20 kg.
+2. *Geografisk område*
+
+   Beiteområdet for tamrein som omfattast av nemninga Rein frå Jotunheimen/Rein fra Jotunheimen er avgrensa til Jotunheimen og Filefjell i tråd med vedlagte kart.
+3. *Produksjonsmetode*
+
+   Tamreinen kalvar ute på beite i slutten av april og litt ut i mai. Storleiken på tamreinflokkane skal tilpassast beiteområda slik at beitet ikkje blir beita ned.
+
+   Tamreinen skal gjetast og flyttast på for heile tida å søkje dei områda der beiteforholda er best. Tamreinen forflyttar seg sjølv til dei ulike sesongbeitene. Det skal ikkje nyttast bil for transport mellom beiteområda.
+
+   All tilvekst skal skje ved naturleg fôropptak. Kraftfôr eller anna tilleggsfôr, kunstige tilsetningsstoff eller vekstfremmande næring skal ikkje nyttast.
+
+   Slakting skal skje ein til to gonger årleg, på hausten og om vinteren, og skal gjennomførast i fjellet i tilknyting til beiteområdet.
+
+   Det skal drivast eit systematisk avlsarbeid med registrering og veging av kalvane for å sikre optimal flokksamansetning og eit godt framtidig vekstgrunnlag med høge kalvevektar.
+4. *Merking av produktet:*
+
+   Rein frå Jotunheimen/Rein fra Jotunheimen kan merkast med teksten og figurmerket for Beskytta geografisk nemning/Beskyttet geografisk betegnelse.
 
 ## § 4. Iverksetjing
 

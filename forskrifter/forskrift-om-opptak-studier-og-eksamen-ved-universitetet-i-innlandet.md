@@ -148,7 +148,15 @@ Universitetet kan tildele grader og yrkesutdanninger i samsvar med [forskrift 16
 
 ### § 3-2. Krav til graden bachelor
 
-(1) Graden bachelor tildeles etter ett av følgende løp:Fullført studieprogram av 180 studiepoengs omfang som etter akkrediteringsvedtak i universitetsstyret fører frem til bachelorgrad. I studieprogrammet skal det inngå en fordypning i et fagområde på minimum 80 studiepoeng.Fullført yrkesrettet utdanning av minimum 120 studiepoengs omfang, med tillegg av fullført studieprogram på 60 studiepoeng.Sammensatt studieløp av 180 studiepoengs omfang som tilfredsstiller følgende vilkår:Fordypning i fagområde på minimum 80 studiepoeng. Fordypningen må fremgå av studieplan og foreligge i form av fullførte studieprogrammer.Ytterligere fagområde på minimum 30 studiepoeng. Fagområdet må fremgå av studieplan og foreligge i form av fullførte studieprogrammer.Emner innen vitenskapsteori og filosofi og/eller andre frittstående emner.
+(1) Graden bachelor tildeles etter ett av følgende løp:
+
+1. Fullført studieprogram av 180 studiepoengs omfang som etter akkrediteringsvedtak i universitetsstyret fører frem til bachelorgrad. I studieprogrammet skal det inngå en fordypning i et fagområde på minimum 80 studiepoeng.
+2. Fullført yrkesrettet utdanning av minimum 120 studiepoengs omfang, med tillegg av fullført studieprogram på 60 studiepoeng.
+3. Sammensatt studieløp av 180 studiepoengs omfang som tilfredsstiller følgende vilkår:
+
+   - Fordypning i fagområde på minimum 80 studiepoeng. Fordypningen må fremgå av studieplan og foreligge i form av fullførte studieprogrammer.
+   - Ytterligere fagområde på minimum 30 studiepoeng. Fagområdet må fremgå av studieplan og foreligge i form av fullførte studieprogrammer.
+   - Emner innen vitenskapsteori og filosofi og/eller andre frittstående emner.
 
 (2) I grunnlaget for graden skal det inngå en bacheloroppgave eller et annet selvstendig arbeid av teoretisk, praktisk eller kunstnerisk art på minimum 10 studiepoeng. Universitetsstyret kan gjøre unntak for kravet om selvstendig arbeid for bachelorgrad etter første ledd bokstav a).
 
@@ -156,11 +164,19 @@ Universitetet kan tildele grader og yrkesutdanninger i samsvar med [forskrift 16
 
 ### § 3-3. Tilleggsbetegnelse for graden bachelor
 
-(1) For oppnådd bachelorgrad etter [§ 3-2](forskrift/2024-06-19-1221/§3-2) a) angis gradens faglige innhold på vitnemål som følger:Bachelor i <tittel på studieprogrammet>.
+(1) For oppnådd bachelorgrad etter [§ 3-2](forskrift/2024-06-19-1221/§3-2) a) angis gradens faglige innhold på vitnemål som følger:
 
-(2) For oppnådd bachelorgrad etter [§ 3-2](forskrift/2024-06-19-1221/§3-2) b), angis gradens faglige innhold på vitnemål som følger:Bachelor på grunnlag av <betegnelse på studieprogram på 120 studiepoeng> og <betegnelse på studieprogram på 60 studiepoeng>.
+- Bachelor i <tittel på studieprogrammet>.
 
-(3) For oppnådd bachelorgrad etter [§ 3-2](forskrift/2024-06-19-1221/§3-2) c), angis gradens faglige innhold på vitnemål i henhold til fagområdet for fordypningen, forutsatt at universitetet tilbyr fordypningen:Bachelor med fordypning i <fagområde for fordypningen>.For oppnådd bachelorgrad etter [§ 3-2](forskrift/2024-06-19-1221/§3-2) c) med fordypning i fagområder universitetet selv ikke tilbyr, tildeles graden «Bachelor» uten tilleggsbetegnelse.
+(2) For oppnådd bachelorgrad etter [§ 3-2](forskrift/2024-06-19-1221/§3-2) b), angis gradens faglige innhold på vitnemål som følger:
+
+- Bachelor på grunnlag av <betegnelse på studieprogram på 120 studiepoeng> og <betegnelse på studieprogram på 60 studiepoeng>.
+
+(3) For oppnådd bachelorgrad etter [§ 3-2](forskrift/2024-06-19-1221/§3-2) c), angis gradens faglige innhold på vitnemål i henhold til fagområdet for fordypningen, forutsatt at universitetet tilbyr fordypningen:
+
+- Bachelor med fordypning i <fagområde for fordypningen>.
+
+For oppnådd bachelorgrad etter [§ 3-2](forskrift/2024-06-19-1221/§3-2) c) med fordypning i fagområder universitetet selv ikke tilbyr, tildeles graden «Bachelor» uten tilleggsbetegnelse.
 
 (4) Tilleggsbetegnelsen fastsettes ved etablering av studieprogrammet.
 
@@ -174,7 +190,9 @@ Krav til innhold og omfang i mastergrad fremgår av nasjonal [forskrift 1. desem
 
 ### § 3-5. Tilleggsbetegnelse for graden master
 
-For oppnådd mastergrad angis gradens faglige innhold på vitnemål som følger:Master i <tittel på studieprogrammet>.
+For oppnådd mastergrad angis gradens faglige innhold på vitnemål som følger:
+
+- Master i <tittel på studieprogrammet>.
 
 ### § 3-6. Faglig godkjenning
 
@@ -284,11 +302,20 @@ Studenten må betale semesteravgift og eventuell annen avgift fastsatt i samsvar
 
 ### § 5-3. Opphør av studierett
 
-Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekker seg fra studieprogrammet.Studiene er fullført og vitnemål eller dokumentasjon på fullført studieprogram er utstedt.
+Studieretten opphører automatisk når:
+
+1. Studenten selv bekrefter at hun/han trekker seg fra studieprogrammet.
+2. Studiene er fullført og vitnemål eller dokumentasjon på fullført studieprogram er utstedt.
 
 ### § 5-4. Tap av studierett
 
-(1) Studenten mister studieretten på studieprogram de er tatt opp til i følgende tilfeller:Studenten har overskredet den fastsatte grensen for normert tid og der studenten har overskredet grensen for utvidet tid.Studenten har ikke gyldig fravær, er ikke i permisjon eller midlertidig utestengt fra universitetet, og har ikke bestått eksamen i løpet av siste studieår i henhold til gjeldende studieplan.Studenten legger ikke frem originaldokumenter, eller legger frem falske vitnemål eller annen ugyldig dokumentasjon ved dokumentasjonskontroll.Studenten møter ikke opp ved studiestart på studieprogram der dette er påkrevd.Studenten ikke betaler semesteravgift eller øvrige avgifter jf. [§ 5-2](forskrift/2024-06-19-1221/§5-2), ikke bekrefter sin utdanningsplan og/eller ikke registrerer seg innen gitte frister.
+(1) Studenten mister studieretten på studieprogram de er tatt opp til i følgende tilfeller:
+
+1. Studenten har overskredet den fastsatte grensen for normert tid og der studenten har overskredet grensen for utvidet tid.
+2. Studenten har ikke gyldig fravær, er ikke i permisjon eller midlertidig utestengt fra universitetet, og har ikke bestått eksamen i løpet av siste studieår i henhold til gjeldende studieplan.
+3. Studenten legger ikke frem originaldokumenter, eller legger frem falske vitnemål eller annen ugyldig dokumentasjon ved dokumentasjonskontroll.
+4. Studenten møter ikke opp ved studiestart på studieprogram der dette er påkrevd.
+5. Studenten ikke betaler semesteravgift eller øvrige avgifter jf. [§ 5-2](forskrift/2024-06-19-1221/§5-2), ikke bekrefter sin utdanningsplan og/eller ikke registrerer seg innen gitte frister.
 
 (2) Dersom studenten har brukt opp sine eksamensforsøk til samme emne eller praksisperiode i henhold til studieplan eller etter denne forskrift, kan studenten miste studieretten.
 
@@ -380,7 +407,15 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 
 (2) Ved den norske filmskolen kan studenter framstille seg til ordinær eksamen én gang.
 
-(3) Det regnes som tellende eksamensforsøk når studenten:får eksamen sensurert med bestått eller ikke-bestått karaktertrekker seg etter avmeldingsfristens utløp uten gyldig fraværikke møter på eksamenikke leverer eksamensbesvarelsen innen angitt fristmøter på eksamen og trekker seg under eksamen uten gyldig grunnmøter til eksamen uten nødvendig eller fungerende utstyr, og av den grunn ikke får gjennomført eksamenfår sin eksamen annullert på grunn av fusk eller forsøk på fusk.
+(3) Det regnes som tellende eksamensforsøk når studenten:
+
+- får eksamen sensurert med bestått eller ikke-bestått karakter
+- trekker seg etter avmeldingsfristens utløp uten gyldig fravær
+- ikke møter på eksamen
+- ikke leverer eksamensbesvarelsen innen angitt frist
+- møter på eksamen og trekker seg under eksamen uten gyldig grunn
+- møter til eksamen uten nødvendig eller fungerende utstyr, og av den grunn ikke får gjennomført eksamen
+- får sin eksamen annullert på grunn av fusk eller forsøk på fusk.
 
 (4) Når eksamen ikke er bestått etter tre forsøk jf. første ledd, kan fakultetet i særlige tilfeller gi dispensasjon for et fjerde forsøk etter søknad fra studenten. I slike tilfeller kan det fastsettes særskilte krav og tidspunkt for når et fjerde og siste eksamensforsøk må gjennomføres.
 
@@ -520,7 +555,10 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 
 ### § 8-1. Karaktersystem
 
-(1) Karaktersystemet ved eksamen skal være ett av følgende to alternativer:Bestått / Ikke beståttGradert bokstavkarakterskala fra A til E for bestått og F for ikke bestått i henhold til generelle, kvalitative beskrivelser av karaktertrinnene fra Universitets- og høgskolerådet.
+(1) Karaktersystemet ved eksamen skal være ett av følgende to alternativer:
+
+1. Bestått / Ikke bestått
+2. Gradert bokstavkarakterskala fra A til E for bestått og F for ikke bestått i henhold til generelle, kvalitative beskrivelser av karaktertrinnene fra Universitets- og høgskolerådet.
 
 (2) Det skal utarbeides sensorveiledning til hver eksamen. Denne skal være tilgjengelig for sensor før sensuren starter, og tilgjengeliggjøres for studentene når sensuren er kunngjort.
 
@@ -528,7 +566,12 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 
 (4) Skalaen Bestått / Ikke bestått bør brukes i praksisemner og emner av tilsvarende karakter.
 
-(5) Skalaen Bestått / Ikke bestått kan brukes:i emner der det legges vekt på helhetlig vurdering av kunnskap, ferdigheter og kompetanse, og der graderte karakterer har liten meningi grunnleggende emner som feltkurs, medikamentregning, metodeemner, skrivekurs eller andre innføringsemnerselvstendig arbeid i lavere grad som organiseres som gruppeoppgaveri kunstfaglige emner.
+(5) Skalaen Bestått / Ikke bestått kan brukes:
+
+1. i emner der det legges vekt på helhetlig vurdering av kunnskap, ferdigheter og kompetanse, og der graderte karakterer har liten mening
+2. i grunnleggende emner som feltkurs, medikamentregning, metodeemner, skrivekurs eller andre innføringsemner
+3. selvstendig arbeid i lavere grad som organiseres som gruppeoppgaver
+4. i kunstfaglige emner.
 
 (6) Hvilket karaktersystem som skal benyttes ved den enkelte eksamen fastsettes i studieplaner og emnebeskrivelser.
 
@@ -546,7 +589,13 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 
 (4) Bruk av ekstern sensor til karakterfastsettelse skal komme alle kandidater til gode. Ekstern sensor kan benyttes på en fastsatt del besvarelsene i et emne på store kull. Denne vurderingen legges da til grunn for sensur av de øvrige besvarelsene.
 
-(5) Omfang av sensur:Det skal være to sensorer på eksamener som alene utgjør 15 studiepoeng eller mer.Det skal være to sensorer på muntlig eksamen og på andre eksamener som ikke lar seg etterprøve.Det skal være minst to sensorer, hvorav minst én ekstern ved sensur av masteroppgaver, bacheloroppgaver eller tilsvarende selvstendig arbeidPå eksamener bør det i tillegg til intern sensor hvert år benyttes ekstern sensor til karakterfastsettelse på minst 1/3 av emnene. I løpet av en treårsperiode bør alle emner i studieprogrammet ha hatt ekstern karakterfastsettelse.Ved ny sensur etter klage jf. lovens [§ 11-9](lov/2024-03-08-9/§11-9) andre ledd og [§ 11-11](lov/2024-03-08-9/§11-11) andre ledd, benyttes minst to nye sensorer, hvorav minst én ekstern. Endring kan gjøres både til gunst og ugunst for klager. Ved ny sensur skal sensorene ikke få opprinnelig karakter, sensors begrunnelse for denne eller studentens begrunnelse for klagen. Den nye kommisjonen skal alltid ha sensorveiledning tilgjengelig.
+(5) Omfang av sensur:
+
+1. Det skal være to sensorer på eksamener som alene utgjør 15 studiepoeng eller mer.
+2. Det skal være to sensorer på muntlig eksamen og på andre eksamener som ikke lar seg etterprøve.
+3. Det skal være minst to sensorer, hvorav minst én ekstern ved sensur av masteroppgaver, bacheloroppgaver eller tilsvarende selvstendig arbeid
+4. På eksamener bør det i tillegg til intern sensor hvert år benyttes ekstern sensor til karakterfastsettelse på minst 1/3 av emnene. I løpet av en treårsperiode bør alle emner i studieprogrammet ha hatt ekstern karakterfastsettelse.
+5. Ved ny sensur etter klage jf. lovens [§ 11-9](lov/2024-03-08-9/§11-9) andre ledd og [§ 11-11](lov/2024-03-08-9/§11-11) andre ledd, benyttes minst to nye sensorer, hvorav minst én ekstern. Endring kan gjøres både til gunst og ugunst for klager. Ved ny sensur skal sensorene ikke få opprinnelig karakter, sensors begrunnelse for denne eller studentens begrunnelse for klagen. Den nye kommisjonen skal alltid ha sensorveiledning tilgjengelig.
 
 (6) Dersom intern og ekstern sensor ikke blir enige om vurderingen av en besvarelse, avgjør ekstern sensor. Ved uenighet mellom to interne eller to eksterne sensorer, oppnevnes en tredje ekstern sensor som avgjør karakterfastsettelsen.
 
@@ -608,7 +657,19 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 
 ### § 9-1. Fusk på eksamen og obligatoriske aktiviteter
 
-(1) Fusk, forsøk på fusk eller medvirkning til fusk foreligger når en student handler i strid med [kapittel 9](forskrift/2024-06-19-1221/kap9) i denne forskrift, eller med de angitte reglene for gjennomføringen av eksamen eller obligatorisk aktivitet, på en slik måte at handlingen kan være egnet til å gi et uberettiget fortrinn eller resultat for studenten selv eller andre.Eksempler på tilfeller der studenten kan mistenkes for fusk:studenten har ulovlige hjelpemidler tilgjengelig under eksamenstudenten bruker tillatte hjelpemidler på en ureglementert måtestudenten presenterer andres arbeid som sitt egetstudenten presenterer innhold som er frembrakt ved hjelp av kunstig intelligens eller annen teknologi som sitt eget arbeidstudenten gjengir innhold fra kilder uten tilstrekkelige kildehenvisningerstudenten oppgir fiktive kilder, informanter eller datastudenten gjenbruker innhold fra egne beståtte eksamensbesvarelser eller godkjente obligatoriske aktiviteter uten å opplyse om dettestudenten skaffer seg adgang til eksamen ved å fuske ved en obligatorisk aktivitet, eller ved å få godkjenning for deltakelse ved obligatorisk aktivitet på uriktig grunnlagstudentene utformer besvarelser til individuell eksamen i fellesskap, eller på annen måte deltar i regelstridig samarbeid.
+(1) Fusk, forsøk på fusk eller medvirkning til fusk foreligger når en student handler i strid med [kapittel 9](forskrift/2024-06-19-1221/kap9) i denne forskrift, eller med de angitte reglene for gjennomføringen av eksamen eller obligatorisk aktivitet, på en slik måte at handlingen kan være egnet til å gi et uberettiget fortrinn eller resultat for studenten selv eller andre.
+
+- Eksempler på tilfeller der studenten kan mistenkes for fusk:
+
+  - studenten har ulovlige hjelpemidler tilgjengelig under eksamen
+  - studenten bruker tillatte hjelpemidler på en ureglementert måte
+  - studenten presenterer andres arbeid som sitt eget
+  - studenten presenterer innhold som er frembrakt ved hjelp av kunstig intelligens eller annen teknologi som sitt eget arbeid
+  - studenten gjengir innhold fra kilder uten tilstrekkelige kildehenvisninger
+  - studenten oppgir fiktive kilder, informanter eller data
+  - studenten gjenbruker innhold fra egne beståtte eksamensbesvarelser eller godkjente obligatoriske aktiviteter uten å opplyse om dette
+  - studenten skaffer seg adgang til eksamen ved å fuske ved en obligatorisk aktivitet, eller ved å få godkjenning for deltakelse ved obligatorisk aktivitet på uriktig grunnlag
+  - studentene utformer besvarelser til individuell eksamen i fellesskap, eller på annen måte deltar i regelstridig samarbeid.
 
 (2) En student kan mistenkes for fusk fra det tidspunkt en eksamen eller en obligatorisk aktivitet er påbegynt. En eksamen eller obligatorisk aktivitet anses normalt å være påbegynt når oppgavetekst er utlevert eller problemformulering godkjent. Dersom det gjennomføres kontroll av tillatte hjelpemidler før oppgaveteksten er utlevert, anses eksamen påbegynt når eksamenskandidaten har levert inn sine hjelpemidler for kontroll.
 

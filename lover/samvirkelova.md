@@ -15,7 +15,7 @@ xml_hash: "78704e91392a1f51abc2bcd6d0b6549efb8b9a11119f2955889c657dfd1a6a03"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,21 @@ eu_basis: []
 
 (1) Lova gjeld for samvirkeforetak.
 
-(2) Med samvirkeforetak er meint ei samanslutning som har til hovudformål å fremje dei økonomiske interessene til medlemmane gjennom deira deltaking i verksemda som avtakarar, leverandørar eller på annan liknande måte, og deravkastinga, bortsett frå ei normal forrenting av innskoten kapital, anten blir ståande i verksemda eller fordelt mellom medlemmane på grunnlag av deira andel i omsetninga med samanslutninga, ogikkje nokon av medlemmane har personleg ansvar for skyldnadene til samanslutninga, udelt eller for delar som til saman utgjer dei samla skyldnadene.
+(2) Med samvirkeforetak er meint ei samanslutning som har til hovudformål å fremje dei økonomiske interessene til medlemmane gjennom deira deltaking i verksemda som avtakarar, leverandørar eller på annan liknande måte, og der
+
+1. avkastinga, bortsett frå ei normal forrenting av innskoten kapital, anten blir ståande i verksemda eller fordelt mellom medlemmane på grunnlag av deira andel i omsetninga med samanslutninga, og
+2. ikkje nokon av medlemmane har personleg ansvar for skyldnadene til samanslutninga, udelt eller for delar som til saman utgjer dei samla skyldnadene.
 
 (3) Eit samvirkeforetak ligg også føre dersom interessene til medlemmane som nemnt i andre ledd, blir fremja gjennom deira omsetning med eit foretak som samvirkeforetaket eig åleine eller saman med andre samvirkeforetak, medrekna eit sekundærsamvirke etter [§ 4](lov/2007-06-29-81/§4) andre ledd. Det same gjeld dersom interessene til medlemmane blir fremja gjennom deira omsetning med eit foretak som sekundærsamvirket eig åleine. Kongen kan ved enkeltvedtak i særlege tilfelle godkjenne at det ligg føre eit samvirkeforetak også om interessene til medlemmane blir fremja gjennom deira omsetning med andre samanslutningar enn dei som er nemnde i dette leddet.
 
-(4) Lova gjeld ikkje for:aksjeselskapallmennaksjeselskapbustadbyggjelagburettslaggjensidige forsikringsselskapdottersamvirkeforetak.
+(4) Lova gjeld ikkje for:
+
+1. aksjeselskap
+2. allmennaksjeselskap
+3. bustadbyggjelag
+4. burettslag
+5. gjensidige forsikringsselskap
+6. dottersamvirkeforetak.
 
 ### § 2. Høve til å fråvike lova
 
@@ -58,7 +68,10 @@ Føresegnene i denne lova kan fråvikast når det er særskilt fastsett i lova e
 
 (1) Eit morforetak utgjer saman med eitt eller fleire dotterforetak eit konsern.
 
-(2) Eit samvirkeforetak er eit morforetak dersom det på grunn av avtale eller vedtekter eller som eigar av aksjar eller andelar har avgjerande innverknad over eit anna foretak. Eit samvirkeforetak skal alltid reknast for å ha avgjerande innverknad dersom foretaket:har så mange aksjar eller andelar i eit anna foretak at dei representerer fleirtalet av stemmene i det andre foretaket, ellerhar rett til å velje eller avsetje eit fleirtal av medlemmane i styret til det andre foretaket.
+(2) Eit samvirkeforetak er eit morforetak dersom det på grunn av avtale eller vedtekter eller som eigar av aksjar eller andelar har avgjerande innverknad over eit anna foretak. Eit samvirkeforetak skal alltid reknast for å ha avgjerande innverknad dersom foretaket:
+
+1. har så mange aksjar eller andelar i eit anna foretak at dei representerer fleirtalet av stemmene i det andre foretaket, eller
+2. har rett til å velje eller avsetje eit fleirtal av medlemmane i styret til det andre foretaket.
 
 (3) Eit foretak som står i forhold som nemnt i andre ledd til eit morforetak, er eit dotterforetak. Eit samvirkeforetak etter § 1 i lova her kan ikkje vere dotterforetak.
 
@@ -98,15 +111,34 @@ Med møte er meint i denne lova møte kor dei som deltar anten er fysisk til sta
 
 (1) Stiftingsdokumentet skal innehalde vedtekter for foretaket, jf. [§ 10](lov/2007-06-29-81/§10).
 
-(2) Stiftingsdokumentet skal dessutan opplyse om:namn eller foretaksnamn, adresse og fødselsnummer eller organisasjonsnummer for stiftarane,namn, adresse og fødselsnummer for dei som skal vere medlemmar av styret.
+(2) Stiftingsdokumentet skal dessutan opplyse om:
 
-(3) Dersom stiftarane skal gjere innskot i samband med stiftinga, skal stiftingsdokumentet også opplyse om:det beløpet som kvar stiftar skal betale,summen av innskotsskyldnadene til stiftarane,tidspunktet for oppgjer av innskotsskyldnadene.Skal ein eller fleire stiftarar gjere opp innskotsskyldnaden med anna enn pengar, skal stiftingsdokumentet opplyse om kva eigedelar det gjeld, namnet og adressa til innskytaren og kva vilkår som skal gjelde.
+1. namn eller foretaksnamn, adresse og fødselsnummer eller organisasjonsnummer for stiftarane,
+2. namn, adresse og fødselsnummer for dei som skal vere medlemmar av styret.
+
+(3) Dersom stiftarane skal gjere innskot i samband med stiftinga, skal stiftingsdokumentet også opplyse om:
+
+1. det beløpet som kvar stiftar skal betale,
+2. summen av innskotsskyldnadene til stiftarane,
+3. tidspunktet for oppgjer av innskotsskyldnadene.
+
+Skal ein eller fleire stiftarar gjere opp innskotsskyldnaden med anna enn pengar, skal stiftingsdokumentet opplyse om kva eigedelar det gjeld, namnet og adressa til innskytaren og kva vilkår som skal gjelde.
 
 (4) Departementet kan utarbeide standard stiftingsdokument.
 
 ### § 10. Vedtekter for samvirkeforetak
 
-Vedtektene skal minst innehalde føresegner om:foretaksnamn for foretaket,den kommunen i riket der foretaket skal ha forretningskontor,kva verksemd foretaket skal drive,storleiken på eventuelle andelsinnskot, om dei skal forrentast, og om dei skal betalast tilbake ved utmelding,kor vidt det skal betalast medlemskontingent,korleis årsoverskotet skal kunne nyttast, jf. [§ 26](lov/2007-06-29-81/§26),talet på eller det lågaste og høgaste talet på styremedlemmar,kva saker som skal opp på det ordinære årsmøtet,korleis nettoformuen skal fordelast ved oppløysing.
+Vedtektene skal minst innehalde føresegner om:
+
+1. foretaksnamn for foretaket,
+2. den kommunen i riket der foretaket skal ha forretningskontor,
+3. kva verksemd foretaket skal drive,
+4. storleiken på eventuelle andelsinnskot, om dei skal forrentast, og om dei skal betalast tilbake ved utmelding,
+5. kor vidt det skal betalast medlemskontingent,
+6. korleis årsoverskotet skal kunne nyttast, jf. [§ 26](lov/2007-06-29-81/§26),
+7. talet på eller det lågaste og høgaste talet på styremedlemmar,
+8. kva saker som skal opp på det ordinære årsmøtet,
+9. korleis nettoformuen skal fordelast ved oppløysing.
 
 ### § 11. Opningsbalanse
 
@@ -148,7 +180,15 @@ Vedtektene skal minst innehalde føresegner om:foretaksnamn for foretaket,den ko
 
 ### § 15. Medlemsrettar
 
-(1) Medlemmar av samvirkeforetak har desse rettane:rett til å bli innkalla og til å delta i årsmøtet, jf. [§§ 46](lov/2007-06-29-81/§46) og [36](lov/2007-06-29-81/§36), jf. [§ 37](lov/2007-06-29-81/§37),rett til å få tatt opp saker på årsmøtet, jf. [§ 47](lov/2007-06-29-81/§47),rett til å røyste på årsmøtet, jf. [§ 38](lov/2007-06-29-81/§38),rett til å få tilgjengelege opplysingar på årsmøtet frå leiinga, jf. [§ 51](lov/2007-06-29-81/§51),rett til å få tilsendt årsrekneskapen, årsmeldinga og revisjonsmeldinga til foretaket, jf. [§ 41](lov/2007-06-29-81/§41) tredje ledd,rett til del av overskotet i foretaket basert på medlemmen si omsetning med foretaket, jf. [§ 27](lov/2007-06-29-81/§27),andre rettar som følgjer av lov eller vedtekter.
+(1) Medlemmar av samvirkeforetak har desse rettane:
+
+1. rett til å bli innkalla og til å delta i årsmøtet, jf. [§§ 46](lov/2007-06-29-81/§46) og [36](lov/2007-06-29-81/§36), jf. [§ 37](lov/2007-06-29-81/§37),
+2. rett til å få tatt opp saker på årsmøtet, jf. [§ 47](lov/2007-06-29-81/§47),
+3. rett til å røyste på årsmøtet, jf. [§ 38](lov/2007-06-29-81/§38),
+4. rett til å få tilgjengelege opplysingar på årsmøtet frå leiinga, jf. [§ 51](lov/2007-06-29-81/§51),
+5. rett til å få tilsendt årsrekneskapen, årsmeldinga og revisjonsmeldinga til foretaket, jf. [§ 41](lov/2007-06-29-81/§41) tredje ledd,
+6. rett til del av overskotet i foretaket basert på medlemmen si omsetning med foretaket, jf. [§ 27](lov/2007-06-29-81/§27),
+7. andre rettar som følgjer av lov eller vedtekter.
 
 (2) Ein medlem kan ikkje utøve medlemsrettane tidlegare enn den dagen medlemmen blir innført i medlemsregisteret.
 
@@ -158,7 +198,11 @@ Vedtektene skal minst innehalde føresegner om:foretaksnamn for foretaket,den ko
 
 ### § 16. Medlemsplikter
 
-(1) Medlemmar av samvirkeforetak har desse pliktene:plikt til å betale eit eventuelt innskotsbeløp,plikt til å etterleve vedtak som er lovleg treft av eit foretaksorgan,andre plikter som følgjer av lov eller vedtekter.
+(1) Medlemmar av samvirkeforetak har desse pliktene:
+
+1. plikt til å betale eit eventuelt innskotsbeløp,
+2. plikt til å etterleve vedtak som er lovleg treft av eit foretaksorgan,
+3. andre plikter som følgjer av lov eller vedtekter.
 
 (2) Medlemspliktene oppstår den dagen medlemmen blir innført i medlemsregisteret, dersom ikkje noko anna følgjer av lov eller vedtekter. Vedtektene kan ikkje fastsetje at plikter som medlemmane har etter lova, skal oppstå seinare enn det som følgjer av første punktum.
 
@@ -232,7 +276,11 @@ Eit samvirkeforetak skal behandle alle medlemmar likt. Forskjellsbehandling krev
 
 (1) Dersom eit foretak har krenka rettane til ein medlem ved vesentleg mishald, kan medlemmen straks melde seg ut av foretaket. Skrankar etter vedtektene for høvet til å melde seg ut gjeld ikkje. Medlemmen har krav på å få tilbakebetalt andelsinnskotet og inneståande på medlemskapitalkonto, eventuelt med renter. Dersom det blir gjort vedtak om etterbetaling innan eitt år etter utløpet av det kalenderåret utmeldinga skjedde, har medlemmen også krav på etterbetaling basert på medlemmen si omsetning med foretaket i den perioden etterbetalinga knyter seg til.
 
-(2) Retten kan påleggje foretaket å utløyse ein medlem dersom tungtvegande grunnar talar for utløysing som følgje av atforetaket har krenka rettane til ein medlem ved vesentleg mishald, ellerstyret, årsmøtet eller nokon som representerer foretaket, har handla i strid med [§§ 55](lov/2007-06-29-81/§55) eller [90](lov/2007-06-29-81/§90), ellerdet har oppstått eit alvorleg og varig motsetningsforhold mellom medlemmen og andre medlemmar om drifta av foretaket.
+(2) Retten kan påleggje foretaket å utløyse ein medlem dersom tungtvegande grunnar talar for utløysing som følgje av at
+
+1. foretaket har krenka rettane til ein medlem ved vesentleg mishald, eller
+2. styret, årsmøtet eller nokon som representerer foretaket, har handla i strid med [§§ 55](lov/2007-06-29-81/§55) eller [90](lov/2007-06-29-81/§90), eller
+3. det har oppstått eit alvorleg og varig motsetningsforhold mellom medlemmen og andre medlemmar om drifta av foretaket.
 
 (3) Ein påstand om utløysing kan ikkje takast til følgje dersom utløysing vil verke urimeleg mot foretaket. Sak med påstand om utløysing må reisast innan rimeleg tid. Utløysingssummen skal svare til verdien på medlemmen sin andel i nettoformuen til foretaket rett før utløysingsgrunnen låg føre.
 
@@ -302,9 +350,17 @@ Eit samvirkeforetak skal behandle alle medlemmar likt. Forskjellsbehandling krev
 
 (1) Eit samvirkeforetak kan berre gi kreditt eller trygd til fordel for ein medlem innanfor ramma av dei midlane foretaket kan bruke til etterbetaling, og berre når det blir stilt fullgod trygd for kravet på tilbakebetaling eller tilbakesøking.
 
-(2) Forbodet i første ledd gjeld ikkjekreditt på vanlege vilkår i samband med forretningsavtalar og omsetning med medlemmane,kreditt eller trygd frå eit sekundærsamvirke til fordel for medlemsforetaka,kreditt eller trygd til fordel for tilsette i hovudstilling i foretaket, dersom kreditten eller trygda er i samsvar med det som er vanleg ved finansiell støtte til tilsette.
+(2) Forbodet i første ledd gjeld ikkje
 
-(3) Føresegnene i første og andre ledd gjeld tilsvarande for høvet til å gi kreditt eller stille trygd til fordel for ein styremedlem, ein dagleg leiar, ein medlem av eit anna foretaksorgan eller ein som er nærståande til desse eller til ein medlem i foretaket etter reglane i [aksjelova § 1-5](lov/1997-06-13-44/§1-5) første ledd. Forbodet i første ledd er likevel ikkje til hinder for at foretaket gir kreditt eller stiller trygd til fordel for ein tilsett eller hans eller hennar nærståande dersom:den tilsette er valt som representant for dei tilsette i styret etter reglane i lova her eller i vedtektene, ogskyldnaren er tilsett i hovudstilling i foretaket eller i eit anna foretak i same konsern eller i same føderative samvirke, ogkreditten blir ytt i samsvar med det som er vanleg ved finansiell støtte til tilsette.
+1. kreditt på vanlege vilkår i samband med forretningsavtalar og omsetning med medlemmane,
+2. kreditt eller trygd frå eit sekundærsamvirke til fordel for medlemsforetaka,
+3. kreditt eller trygd til fordel for tilsette i hovudstilling i foretaket, dersom kreditten eller trygda er i samsvar med det som er vanleg ved finansiell støtte til tilsette.
+
+(3) Føresegnene i første og andre ledd gjeld tilsvarande for høvet til å gi kreditt eller stille trygd til fordel for ein styremedlem, ein dagleg leiar, ein medlem av eit anna foretaksorgan eller ein som er nærståande til desse eller til ein medlem i foretaket etter reglane i [aksjelova § 1-5](lov/1997-06-13-44/§1-5) første ledd. Forbodet i første ledd er likevel ikkje til hinder for at foretaket gir kreditt eller stiller trygd til fordel for ein tilsett eller hans eller hennar nærståande dersom:
+
+1. den tilsette er valt som representant for dei tilsette i styret etter reglane i lova her eller i vedtektene, og
+2. skyldnaren er tilsett i hovudstilling i foretaket eller i eit anna foretak i same konsern eller i same føderative samvirke, og
+3. kreditten blir ytt i samsvar med det som er vanleg ved finansiell støtte til tilsette.
 
 (4) Har foretaket handla i strid med reglane i paragrafen her, er disposisjonen ugyldig. Er det gitt trygd, kan det likevel ikkje gjerast gjeldande at disposisjonen er ugyldig overfor ein medkontrahent som var i aktsam god tru då trygda vart gitt. Midlar som er ulovleg overført frå foretaket, eller eit beløp tilsvarande verdien av midlane, skal straks førast tilbake til foretaket. Den som på vegner av foretaket har gjort eller godkjent ein ulovleg disposisjon, er ansvarleg etter reglane i [§ 31](lov/2007-06-29-81/§31) tredje ledd.
 
@@ -398,7 +454,10 @@ Ingen kan sjølv eller ved fullmektig, som fullmektig eller som utsending røyst
 
 (2) Styret skal syte for ei forsvarleg gjennomføring av årsmøtet.
 
-(3) Blir årsmøtet gjennomført som fysisk møte, gjeld desse reglane:Årsmøtet skal haldast i den kommunen der foretaket har forretningskontoret, om ikkje anna er fastsett i vedtektene. Årsmøtet kan haldast ein annan stad dersom det trengst av særlege grunnar.Medlemmane har rett til å delta elektronisk, om ikkje styret meiner at det ligg føre sakleg grunn for å nekte. Reglane i fjerde ledd gjeld tilsvarande.
+(3) Blir årsmøtet gjennomført som fysisk møte, gjeld desse reglane:
+
+1. Årsmøtet skal haldast i den kommunen der foretaket har forretningskontoret, om ikkje anna er fastsett i vedtektene. Årsmøtet kan haldast ein annan stad dersom det trengst av særlege grunnar.
+2. Medlemmane har rett til å delta elektronisk, om ikkje styret meiner at det ligg føre sakleg grunn for å nekte. Reglane i fjerde ledd gjeld tilsvarande.
 
 (4) Blir årsmøtet gjennomført som elektronisk møte, skal styret syte for at det finst system som sikrar at krav til årsmøte i lova er oppfylt. Systema må sikre at deltakinga og røystinga kan kontrollerast på ein forsvarleg måte, og det må nyttast ein forsvarleg metode for å autentisere avsendaren. I vedtektene kan det fastsetjast nærmare krav til elektronisk deltaking på årsmøtet.
 
@@ -454,11 +513,19 @@ Den som opnar møtet, skal før første røysting setje opp ei liste over dei me
 
 (1) Saker som ikkje er melde til medlemmane etter reglane om innkalling av årsmøtet, kan ikkje avgjerast utan at alle medlemmane i foretaket samtykkjer. Er medlemmane representerte ved utsendingar, er det nok at alle utsendingane samtykkjer.
 
-(2) At saka ikkje er oppgitt i innkallinga, hindrar ikkje at:det ordinære årsmøtet avgjer saker som etter lova eller vedtektene skal behandlast på møtet,det ordinære årsmøtet avgjer framlegg om gransking etter [§ 59](lov/2007-06-29-81/§59) første ledd,det blir vedtatt å innkalle til nytt årsmøte for å avgjere framlegg som er gjorde i møtet.
+(2) At saka ikkje er oppgitt i innkallinga, hindrar ikkje at:
+
+1. det ordinære årsmøtet avgjer saker som etter lova eller vedtektene skal behandlast på møtet,
+2. det ordinære årsmøtet avgjer framlegg om gransking etter [§ 59](lov/2007-06-29-81/§59) første ledd,
+3. det blir vedtatt å innkalle til nytt årsmøte for å avgjere framlegg som er gjorde i møtet.
 
 ### § 51. Opplysingsplikt for leiinga
 
-(1) Ein medlem kan krevje at styremedlemmar og dagleg leiar på årsmøtet gir tilgjengelege opplysingar om tilhøve som kan innverke på vurderinga av:godkjenninga av årsrekneskapen og årsmeldinga, eventuelt anna rekneskap for foretaket,saker som er lagde fram for medlemmane til avgjerd,den økonomiske stillinga til foretaket, medrekna verksemda i andre samanslutningar som foretaket tek del i, og andre saker som årsmøtet skal ta opp, om dei opplysingane som krevst, kan givast utan for stor skade for foretaket.
+(1) Ein medlem kan krevje at styremedlemmar og dagleg leiar på årsmøtet gir tilgjengelege opplysingar om tilhøve som kan innverke på vurderinga av:
+
+1. godkjenninga av årsrekneskapen og årsmeldinga, eventuelt anna rekneskap for foretaket,
+2. saker som er lagde fram for medlemmane til avgjerd,
+3. den økonomiske stillinga til foretaket, medrekna verksemda i andre samanslutningar som foretaket tek del i, og andre saker som årsmøtet skal ta opp, om dei opplysingane som krevst, kan givast utan for stor skade for foretaket.
 
 (2) Er medlemmane representerte ved utsendingar, kan berre utsendingane krevje slike opplysingar.
 
@@ -488,7 +555,15 @@ Den som opnar møtet, skal før første røysting setje opp ei liste over dei me
 
 (1) Årsmøtet kan vedta å endre vedtektene med to tredelar av dei røystene som er gitt. Vedtektene kan setje strengare vedtakskrav.
 
-(2) Vedtektsendringar som innebervesentlege endringar av formålsføresegna,meir tyngjande heftereglar for medlemmane,skjerping i plikta til å gjere innskot i foretaket,innføring av omsetningsplikt med foretaket eller vesentleg skjerping av slik plikt, elleravgrensingar i retten til å tre ut,krev tilslutning frå minst fire femdelar av dei røystene som er gitt.
+(2) Vedtektsendringar som inneber
+
+1. vesentlege endringar av formålsføresegna,
+2. meir tyngjande heftereglar for medlemmane,
+3. skjerping i plikta til å gjere innskot i foretaket,
+4. innføring av omsetningsplikt med foretaket eller vesentleg skjerping av slik plikt, eller
+5. avgrensingar i retten til å tre ut,
+
+krev tilslutning frå minst fire femdelar av dei røystene som er gitt.
 
 (3) Blir det gjort vedtektsendringar som nemnt i andre ledd, kan ein medlem som har røysta imot, tre ut av foretaket etter reglane i [§ 24](lov/2007-06-29-81/§24) første ledd, om melding om det blir gitt seinast ein månad etter vedtaket. Første punktum gjeld ikkje for medlemmar som har vore representerte ved utsendingar.
 
@@ -506,7 +581,12 @@ Ein medlem av foretaket, ein styremedlem eller dagleg leiar kan reise søksmål 
 
 (1) Søksmål etter [§ 56](lov/2007-06-29-81/§56) om at eit vedtak er ugyldig, må reisast innan tre månader etter at vedtaket er gjort. Elles er vedtaket gyldig. Er vedtaket gjort utanfor møte, blir fristen rekna frå den dagen protokollen vart sendt til medlemmane.
 
-(2) Reglane i første ledd gjeld ikkje nårvedtaket er av slikt slag at det ikkje kan gjerast sjølv med samtykke frå alle medlemmane,lov eller vedtekter krev at visse medlemmar eller alle medlemmane må samtykke i vedtaket, og slikt samtykke ikkje er gitt,det ikkje er kalla inn til årsmøtet, eller reglane om innkalling har vore sette vesentleg til side,søksmål blir reist innan to år etter utgangen av fristen i første ledd, og tingretten kjem til at saksøkjaren har hatt rimeleg grunn til fristforsøminga, og at det ville føre til eit openbert urimeleg resultat om vedtaket skulle reknast som gyldig.
+(2) Reglane i første ledd gjeld ikkje når
+
+1. vedtaket er av slikt slag at det ikkje kan gjerast sjølv med samtykke frå alle medlemmane,
+2. lov eller vedtekter krev at visse medlemmar eller alle medlemmane må samtykke i vedtaket, og slikt samtykke ikkje er gitt,
+3. det ikkje er kalla inn til årsmøtet, eller reglane om innkalling har vore sette vesentleg til side,
+4. søksmål blir reist innan to år etter utgangen av fristen i første ledd, og tingretten kjem til at saksøkjaren har hatt rimeleg grunn til fristforsøminga, og at det ville føre til eit openbert urimeleg resultat om vedtaket skulle reknast som gyldig.
 
 ### § 58. Dom om ugyldig vedtak
 
@@ -612,9 +692,19 @@ Ein medlem av foretaket, ein styremedlem eller dagleg leiar kan reise søksmål 
 
 ### § 69. Krav til kjønnssamansetjinga i styret
 
-(1) Føresegnene i denne paragrafen gjeld for samvirkeforetak som på balansedagen for årsrekneskapen anten har:samla driftsinntekter og finansinntekter på meir enn 50 millionar kroner,fleire enn 30 tilsette, som skal reknast likt som etter [§ 67](lov/2007-06-29-81/§67), ellermeir enn 500 medlemmar.
+(1) Føresegnene i denne paragrafen gjeld for samvirkeforetak som på balansedagen for årsrekneskapen anten har:
 
-(2) Har styret tre eller fleire medlemmar, skal kjønnssamansetjinga i styret oppfylle følgjande krav:Har styret tre eller fire medlemmar, kan maksimalt to styremedlemmar ha same kjønn.Har styret fem eller seks medlemmar, kan maksimalt tre styremedlemmar ha same kjønn.Har styret sju medlemmar, kan maksimalt fire styremedlemmar ha same kjønn.Har styret åtte medlemmar, kan maksimalt fem styremedlemmar ha same kjønn.Har styret ni eller fleire medlemmar, kan maksimalt 60 prosent av styremedlemmane ha same kjønn.
+1. samla driftsinntekter og finansinntekter på meir enn 50 millionar kroner,
+2. fleire enn 30 tilsette, som skal reknast likt som etter [§ 67](lov/2007-06-29-81/§67), eller
+3. meir enn 500 medlemmar.
+
+(2) Har styret tre eller fleire medlemmar, skal kjønnssamansetjinga i styret oppfylle følgjande krav:
+
+1. Har styret tre eller fire medlemmar, kan maksimalt to styremedlemmar ha same kjønn.
+2. Har styret fem eller seks medlemmar, kan maksimalt tre styremedlemmar ha same kjønn.
+3. Har styret sju medlemmar, kan maksimalt fire styremedlemmar ha same kjønn.
+4. Har styret åtte medlemmar, kan maksimalt fem styremedlemmar ha same kjønn.
+5. Har styret ni eller fleire medlemmar, kan maksimalt 60 prosent av styremedlemmane ha same kjønn.
 
 (3) Andre ledd gjeld tilsvarande for varamedlemmar.
 
@@ -894,7 +984,15 @@ Styret skal hvert år ha et møte med revisor uten at daglig leder eller andre f
 
 (1) Styra i dei foretaka som skal fusjonere, skal utarbeide og vedta ein sams fusjonsplan.
 
-(2) Fusjonsplanen skal minst innehalde:foretaksnamn for foretaka, forretningskommunar, adresser og organisasjonsnummer,frå kva tid transaksjonar i det overdragande foretaket rekneskapsmessig skal sjåast å vere gjorde for rekning av det overtakande foretaket,det vederlaget som skal ytast til medlemmane i det eller dei overdragande foretaka, medrekna storleiken på eit eventuelt vederlag utover medlemskapen i det overtakande foretaket (jf. [§ 106](lov/2007-06-29-81/§106)),vilkår for utøving av rettar som medlem i det overtakande foretaket og for innføring i medlemsregisteret,kva rettar medlemmar med særlege rettar i det eller dei overdragande foretaka skal ha i det overtakande foretaket,særlege rettar eller fordelar som medlemmar av styret eller dagleg leiar skal få ved fusjonen,utkast til opningsbalanse for det overtakande foretaket. Opningsbalansen skal setjast opp i samsvar med gjeldande rekneskapsreglar. For foretak som er revisjonspliktige etter revisorlova, skal ein statsautorisert eller registrert revisor gi ei fråsegn om at balansen er sett opp i samsvar med desse reglane.
+(2) Fusjonsplanen skal minst innehalde:
+
+1. foretaksnamn for foretaka, forretningskommunar, adresser og organisasjonsnummer,
+2. frå kva tid transaksjonar i det overdragande foretaket rekneskapsmessig skal sjåast å vere gjorde for rekning av det overtakande foretaket,
+3. det vederlaget som skal ytast til medlemmane i det eller dei overdragande foretaka, medrekna storleiken på eit eventuelt vederlag utover medlemskapen i det overtakande foretaket (jf. [§ 106](lov/2007-06-29-81/§106)),
+4. vilkår for utøving av rettar som medlem i det overtakande foretaket og for innføring i medlemsregisteret,
+5. kva rettar medlemmar med særlege rettar i det eller dei overdragande foretaka skal ha i det overtakande foretaket,
+6. særlege rettar eller fordelar som medlemmar av styret eller dagleg leiar skal få ved fusjonen,
+7. utkast til opningsbalanse for det overtakande foretaket. Opningsbalansen skal setjast opp i samsvar med gjeldande rekneskapsreglar. For foretak som er revisjonspliktige etter revisorlova, skal ein statsautorisert eller registrert revisor gi ei fråsegn om at balansen er sett opp i samsvar med desse reglane.
 
 (3) Dersom det overtakande foretaket er eit eksisterande foretak, skal fusjonsplanen innehalde eventuelle framlegg til vedtektsendringar i det overtakande foretaket. Blir det overtakande foretaket stifta ved fusjonen, skal planen i staden innehalde framlegg til stiftingsdokument for det overtakande foretaket, jf. [§§ 8](lov/2007-06-29-81/§8) til [10](lov/2007-06-29-81/§10).
 
@@ -902,7 +1000,10 @@ Styret skal hvert år ha et møte med revisor uten at daglig leder eller andre f
 
 ### § 105. Vedlegg til fusjonsplanen
 
-Som vedlegg til fusjonsplanen skal følgje:vedtektene til overdragande og overtakande foretak,siste årsrekneskap, årsmelding og revisjonsmelding for dei foretaka som er med på fusjonen og som har rekneskapsplikt og revisjonsplikt.
+Som vedlegg til fusjonsplanen skal følgje:
+
+1. vedtektene til overdragande og overtakande foretak,
+2. siste årsrekneskap, årsmelding og revisjonsmelding for dei foretaka som er med på fusjonen og som har rekneskapsplikt og revisjonsplikt.
 
 ### § 106. Fastsetjing av vederlagskrava
 
@@ -976,7 +1077,13 @@ Foretaksregisteret skal kunngjere vedtaka om fusjon i Brønnøysundregistra sin 
 
 (2) Sjølv om forholdet til kreditorar som har kome med motsegner etter [§ 115](lov/2007-06-29-81/§115), ikkje er avklart, kan tingretten etter kravsmål frå det foretaket kravet gjeld, vedta at fusjonen kan gjennomførast og meldast til Foretaksregisteret.
 
-(3) Iverksetjinga av fusjonen skjer ved registrering av melding etter første eller andre ledd. Iverksetjinga har følgjande verknader:det eller dei overdragande foretaka er oppløyste,det overtakande foretaket er stifta og registrert, eller dei samla andelsinnskota i foretaket er auka,medlemmane i det eller dei overdragande foretaka har blitt medlemmar i det overtakande foretaket,det eller dei overdraganda foretaka har overført eigedelar, rettar og skyldnader til det overtakande foretaket,andre verknader som følgjer av fusjonsplanen.
+(3) Iverksetjinga av fusjonen skjer ved registrering av melding etter første eller andre ledd. Iverksetjinga har følgjande verknader:
+
+1. det eller dei overdragande foretaka er oppløyste,
+2. det overtakande foretaket er stifta og registrert, eller dei samla andelsinnskota i foretaket er auka,
+3. medlemmane i det eller dei overdragande foretaka har blitt medlemmar i det overtakande foretaket,
+4. det eller dei overdraganda foretaka har overført eigedelar, rettar og skyldnader til det overtakande foretaket,
+5. andre verknader som følgjer av fusjonsplanen.
 
 (4) Det overtakande foretaket skal ta vare på rekneskapsmateriale og bøker frå det eller dei overdragande foretaka i samsvar med bokføringslova § 13 i minst ti år etter at fusjonen er registrert. Registrerte rekneskapsopplysingar i det overdragande foretaket på fusjonstidspunktet skal kunne bli gjengitt i samsvar med bokføringslova § 6 i minst ti år etter at fusjonen er registrert.
 
@@ -1020,7 +1127,10 @@ Foretaksregisteret skal kunngjere vedtaka om fusjon i Brønnøysundregistra sin 
 
 ### § 121. Fisjonsplan o.a.
 
-(1) Styret i det foretaket som skal delast, skal utarbeide og signere ein fisjonsplan som minst inneheld opplysingar om forhold som nemnt i [§ 104](lov/2007-06-29-81/§104) andre ledd. I tillegg skal fisjonsplanen oppgi:fordelinga av eigedelar, rettar og skyldnader på dei foretaka som er med på fisjonen,fordelinga av medlemskap og eventuelt anna vederlag på medlemmane i det overdragande foretaket.
+(1) Styret i det foretaket som skal delast, skal utarbeide og signere ein fisjonsplan som minst inneheld opplysingar om forhold som nemnt i [§ 104](lov/2007-06-29-81/§104) andre ledd. I tillegg skal fisjonsplanen oppgi:
+
+1. fordelinga av eigedelar, rettar og skyldnader på dei foretaka som er med på fisjonen,
+2. fordelinga av medlemskap og eventuelt anna vederlag på medlemmane i det overdragande foretaket.
 
 (2) Dersom eit overtakande foretak er eit eksisterande foretak, skal fisjonsplanen innehalde eventuelle framlegg til vedtektsendringar i det overtakande foretaket. Dersom eit overtakande foretak skal stiftast ved fisjonen, skal planen i staden innehalde framlegg til stiftingsdokument for det overtakande foretaket, jf. [§§ 8](lov/2007-06-29-81/§8) til [10](lov/2007-06-29-81/§10).
 
@@ -1044,7 +1154,13 @@ Føresegnene i [§§ 112](lov/2007-06-29-81/§112) til [115](lov/2007-06-29-81/�
 
 (1) Føresegnene i [§ 116](lov/2007-06-29-81/§116) gjeld tilsvarande ved fisjon, bortsett frå føresegnene i [§ 116](lov/2007-06-29-81/§116) tredje ledd andre punktum.
 
-(2) Iverksetjinga av fisjonen har følgjande verknader:det overdragande foretaket er oppløyst eller eksisterer for den gjenverande delen,det eller dei overtakande foretaka er stifta og registrerte, eller dei samla andelsinnskota i eit eksisterande foretak er auka,alle eller nokre av medlemmane i det overdragande foretaket er medlemmar i eitt eller fleire overtakande foretak,eigedelane, rettane og skyldnadene til det overdragande foretaket er heilt eller delvis overført til eitt eller fleire overtakande foretak,andre verknader som følgjer av fisjonsplanen.
+(2) Iverksetjinga av fisjonen har følgjande verknader:
+
+1. det overdragande foretaket er oppløyst eller eksisterer for den gjenverande delen,
+2. det eller dei overtakande foretaka er stifta og registrerte, eller dei samla andelsinnskota i eit eksisterande foretak er auka,
+3. alle eller nokre av medlemmane i det overdragande foretaket er medlemmar i eitt eller fleire overtakande foretak,
+4. eigedelane, rettane og skyldnadene til det overdragande foretaket er heilt eller delvis overført til eitt eller fleire overtakande foretak,
+5. andre verknader som følgjer av fisjonsplanen.
 
 ### § 125. Ugyldig fisjon
 
@@ -1156,7 +1272,10 @@ Det som måtte tilfalle foretaket av summar som er sette av etter [§ 135](lov/2
 
 ### § 140. Tingretten overtek ansvaret for avviklinga
 
-(1) Tingretten kan ved orskurd vedta å overta ansvaret for avviklinga av foretaket når særlege grunnar talar for det, dersomforetaket ikkje er meldt endeleg oppløyst til Foretaksregisteret seinast eitt år etter registrering av melding etter [§ 129](lov/2007-06-29-81/§129), ellerminst ein femdel av medlemmane krev det.
+(1) Tingretten kan ved orskurd vedta å overta ansvaret for avviklinga av foretaket når særlege grunnar talar for det, dersom
+
+1. foretaket ikkje er meldt endeleg oppløyst til Foretaksregisteret seinast eitt år etter registrering av melding etter [§ 129](lov/2007-06-29-81/§129), eller
+2. minst ein femdel av medlemmane krev det.
 
 (2) Styret eller i tilfelle avviklingsstyret skal få høve til å uttale seg før avgjerda blir tatt. Foretaksregisteret skal gi tingretten melding om at fristen etter første ledd nr. 1 er ute.
 
@@ -1168,7 +1287,13 @@ Det som måtte tilfalle foretaket av summar som er sette av etter [§ 135](lov/2
 
 ### § 141. Oppløysing etter orskurd frå tingretten
 
-(1) Dersom ikkje årsmøtet vedtek oppløysing, skal tingretten ved orskurd vedta foretaket oppløyst i desse tilfella:når foretaket skal løysast opp som følgje av føresegner i lov eller vedtekter,når foretaket ikkje har meldt til Foretaksregisteret eit styre som fyller dei vilkåra som følgjer av føresegnene gitt i eller i medhald av lov,når foretaket etter lova skal ha dagleg leiar, og ikkje har meldt til Foretaksregisteret ein dagleg leiar som fyller dei vilkåra som er fastsette i lov,når foretaket er revisjonspliktig etter revisorlova og ikkje har meldt til Foretaksregisteret ein revisor som fyller dei vilkåra som er fastsette i lov,når årsrekneskap, årsmelding og revisjonsmelding som foretaket skal sende til Rekneskapsregisteret etter [rekneskapslova § 8-2](lov/1998-07-17-56/§8-2), ikkje er innsende innan seks månader etter fristen for slik innsending, eller når Rekneskapsregisteret når fristen er ute, ikkje kan godkjenne det innsende materialet som årsrekneskap, årsmelding og revisjonsmelding.
+(1) Dersom ikkje årsmøtet vedtek oppløysing, skal tingretten ved orskurd vedta foretaket oppløyst i desse tilfella:
+
+1. når foretaket skal løysast opp som følgje av føresegner i lov eller vedtekter,
+2. når foretaket ikkje har meldt til Foretaksregisteret eit styre som fyller dei vilkåra som følgjer av føresegnene gitt i eller i medhald av lov,
+3. når foretaket etter lova skal ha dagleg leiar, og ikkje har meldt til Foretaksregisteret ein dagleg leiar som fyller dei vilkåra som er fastsette i lov,
+4. når foretaket er revisjonspliktig etter revisorlova og ikkje har meldt til Foretaksregisteret ein revisor som fyller dei vilkåra som er fastsette i lov,
+5. når årsrekneskap, årsmelding og revisjonsmelding som foretaket skal sende til Rekneskapsregisteret etter [rekneskapslova § 8-2](lov/1998-07-17-56/§8-2), ikkje er innsende innan seks månader etter fristen for slik innsending, eller når Rekneskapsregisteret når fristen er ute, ikkje kan godkjenne det innsende materialet som årsrekneskap, årsmelding og revisjonsmelding.
 
 (2) Retten kan berre vedta foretaket oppløyst som følgje av føresegner i vedtektene når ein medlem har sett fram krav om det og årsmøtet har lete vere å gjere vedtak om oppløysing etter [§ 127](lov/2007-06-29-81/§127).
 
@@ -1220,7 +1345,13 @@ Det som måtte tilfalle foretaket av summar som er sette av etter [§ 135](lov/2
 
 (1) Styret skal utarbeide og signere ein omdanningsplan med framlegg til vedtektsendring.
 
-(2) Omdanningsplanen skal minst innehalde:frå kva tid transaksjonar i det omdanna foretaket rekneskapsmessig skal sjåast å vere gjorde for rekninga av aksjeselskapet eller allmennaksjeselskapet,fordelinga av aksjar mellom medlemmane i samvirkeforetaket, jf. tredje ledd,kven som skal vere medlemmar av styret i selskapet, og kven som skal vere revisor for selskapet,særlege rettar eller fordelar som medlemmar av styret eller dagleg leiar skal få ved omdanninga,framlegg til vedtekter for selskapet, jf. aksjelova og [allmennaksjelova § 2-2](lov/1997-06-13-45/§2-2).
+(2) Omdanningsplanen skal minst innehalde:
+
+1. frå kva tid transaksjonar i det omdanna foretaket rekneskapsmessig skal sjåast å vere gjorde for rekninga av aksjeselskapet eller allmennaksjeselskapet,
+2. fordelinga av aksjar mellom medlemmane i samvirkeforetaket, jf. tredje ledd,
+3. kven som skal vere medlemmar av styret i selskapet, og kven som skal vere revisor for selskapet,
+4. særlege rettar eller fordelar som medlemmar av styret eller dagleg leiar skal få ved omdanninga,
+5. framlegg til vedtekter for selskapet, jf. aksjelova og [allmennaksjelova § 2-2](lov/1997-06-13-45/§2-2).
 
 (3) Fordelinga av aksjar skal skje etter føresegnene i [§ 135](lov/2007-06-29-81/§135) femte ledd andre og tredje punktum.
 
@@ -1228,7 +1359,10 @@ Det som måtte tilfalle foretaket av summar som er sette av etter [§ 135](lov/2
 
 ### § 148. Vedlegg til omdanningsplanen
 
-(1) Som vedlegg til omdanningsplanen skal følgje:siste årsrekneskap, årsmelding og revisjonsmelding for samvirkeforetak med rekneskaps- og revisjonsplikt,utkast til opningsbalanse for selskapet.
+(1) Som vedlegg til omdanningsplanen skal følgje:
+
+1. siste årsrekneskap, årsmelding og revisjonsmelding for samvirkeforetak med rekneskaps- og revisjonsplikt,
+2. utkast til opningsbalanse for selskapet.
 
 (2) Opningsbalansen skal setjast opp i samsvar med gjeldande rekneskapsreglar. Ein statsautorisert eller registrert revisor skal gi ei fråsegn om at balansen er sett opp i samsvar med desse reglane. Opningsbalansen med fråsegn frå revisor skal tidlegast vere datert åtte veker før årsmøtevedtaket om omdanning. Kongen kan gi forskrift med nærmare reglar om kravet til opningsbalanse. I forskrifta kan det gjerast unntak frå reglane i første til tredje punktum.
 
@@ -1250,7 +1384,12 @@ Føresegna i [§ 112](lov/2007-06-29-81/§112) gjeld tilsvarande ved omdanning.
 
 ### § 152. Iverksetjing av omdanninga
 
-Omdanninga til aksjeselskap eller allmennaksjeselskap skjer når omdanningsvedtaket blir registrert i Foretaksregisteret. Iverksetjinga har følgjande verknader:samvirkeforetaket er omdanna til aksjeselskap eller allmennaksjeselskap,medlemmane i samvirkeforetaket er blitt aksjeeigarar i aksjeselskapet eller allmennaksjeselskapet,eigedelane, rettane og skyldnadene til samvirkeforetaket er overtatt av aksjeselskapet eller allmennaksjeselskapet,andre verknader som følgjer av omdanningsplanen.
+Omdanninga til aksjeselskap eller allmennaksjeselskap skjer når omdanningsvedtaket blir registrert i Foretaksregisteret. Iverksetjinga har følgjande verknader:
+
+1. samvirkeforetaket er omdanna til aksjeselskap eller allmennaksjeselskap,
+2. medlemmane i samvirkeforetaket er blitt aksjeeigarar i aksjeselskapet eller allmennaksjeselskapet,
+3. eigedelane, rettane og skyldnadene til samvirkeforetaket er overtatt av aksjeselskapet eller allmennaksjeselskapet,
+4. andre verknader som følgjer av omdanningsplanen.
 
 ## Kapittel 12. Skadebot m.m.
 
@@ -1323,7 +1462,11 @@ Lova gjeld frå den tid Kongen fastset.1 Dei einskilde føresegnene kan setjast 
 ### § 163. Overgangsreglar
 
 1. Samvirkelag eller økonomiske foreiningar som er stifta før lova blir sett i verk, er ikkje underlagde lova før det har gått fem år frå iverksetjinga. Årsmøtet kan med fleirtal som for vedtektsendring vedta at samanslutninga skal registrerast som samvirkeforetak (SA) i Foretaksregisteret på eit tidlegare tidspunkt. Samanslutninga skal i så fall meldast til Foretaksregisteret innan tre månader etter at vedtaket er gjort. Elles fell vedtaket bort. Foretaket er underlagt lova frå registreringstidspunktet.
-2. Samvirkelag og økonomiske foreiningar som er stifta før lova blir sett i verk, skal bringe vedtektene i samsvar med lova innan fem år etter iverksetjinga, eller innan eit eventuelt tidlegare tidspunkt etter nr. 1 andre punktum. Vedtektsendringane skal meldast til Foretaksregisteret.Vedtektsendringar som er nødvendige for å bringe vedtektene i samsvar med lova, kan årsmøtet vedta med fleirtal av dei røystene som er gitt. Står røystetalet likt, avgjer møteleiaren kva vedtaket skal gå ut på, sjølv om møteleiaren ikkje har røysterett.Er vedtektene ikkje brakt i samsvar med lova innan fristen etter første ledd, og gjer ikkje foretaket dei nødvendige endringane etter krav frå Foretaksregisteret, skal tingretten etter melding frå Foretaksregisteret vedta foretaket oppløyst. Føresegnene i [§§ 141](lov/2007-06-29-81/§141) til [144](lov/2007-06-29-81/§144) gjeld tilsvarande.
+2. Samvirkelag og økonomiske foreiningar som er stifta før lova blir sett i verk, skal bringe vedtektene i samsvar med lova innan fem år etter iverksetjinga, eller innan eit eventuelt tidlegare tidspunkt etter nr. 1 andre punktum. Vedtektsendringane skal meldast til Foretaksregisteret.
+
+   Vedtektsendringar som er nødvendige for å bringe vedtektene i samsvar med lova, kan årsmøtet vedta med fleirtal av dei røystene som er gitt. Står røystetalet likt, avgjer møteleiaren kva vedtaket skal gå ut på, sjølv om møteleiaren ikkje har røysterett.
+
+   Er vedtektene ikkje brakt i samsvar med lova innan fristen etter første ledd, og gjer ikkje foretaket dei nødvendige endringane etter krav frå Foretaksregisteret, skal tingretten etter melding frå Foretaksregisteret vedta foretaket oppløyst. Føresegnene i [§§ 141](lov/2007-06-29-81/§141) til [144](lov/2007-06-29-81/§144) gjeld tilsvarande.
 3. Foretak som på tidspunktet for iverksetjing av lova har ei ordning med omsetjelege andelar, kan oppretthalde ordninga også etter at lova er sett i verk. Andelar kan berre omsetjast til andre medlemmar, eller til personar som blir medlemmar ved kjøp av andelar.
 4. Foretak som på tidspunktet for iverksetjing av lova har vedtekter som gir dei tilsette rett til å vere representerte i årsmøte og eventuelt representantskap, kan oppretthalde ordninga også etter at lova er sett i verk.
 5. Endringa i § 164 nr. 22 i [lov 21. juni 1985 nr. 79](lov/1985-06-21-79) om enerett til foretaksnavn og andre forretningskjennetegn (foretaksnavneloven) [§ 2-2](lov/1985-06-21-79/§2-2) gjeld også for foretaksnamn som er tatt i bruk før iverksetjinga av foretaksnamnelova.

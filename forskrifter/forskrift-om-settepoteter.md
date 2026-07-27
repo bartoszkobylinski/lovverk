@@ -15,7 +15,7 @@ xml_hash: "bbaa5f4329a5d3625f24219f0f987c2c279f4e18106ac0a3b5ce4caeb68e042d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,64 @@ Denne forskriften gir bestemmelser om vilkårene for produksjon, kontroll, serti
 
 ### § 3. Definisjoner og forklaringer
 
-I denne forskriften betyr:*Meristem:* Vekstpunkt pluss 1-2 bladanlegg skåret fra en plantes stengelspiss eller sideknopp.*Meristemplante:* Plante som er vokst opp fra et meristem på næringssubstrat.*Meristemstikling:* Stikling fra meristemplanter.*In vitro-formering:* Oppformering av meristemstiklinger på næringssubstrat.*Klon:* Planter eller knoller som stammer fra en enkelt plante eller fra ett meristem og som er dyrket som en atskilt enhet.*Avvikende type:* Plante med ekstremt mange stengler (Wildings), kjempevekst (Bolters) eller andre genetisk betingede avvik.*Utsæd:* Settepoteter som skal brukes til sertifisert produksjon av settepoteter.*Klasse:* Settepoteter inndelt etter definerte krav til oppformering og kvalitet. I denne forskriften er settepotetene inndelt i følgende klasser: Prebasis 1 (P1), Prebasis 2 (P2), Prebasis 3 (P3), Prebasis 4 (P4), Basis 1 (B1), Basis 2 (B2), Basis 3 (B3) og Sertifisert (C).*Generasjon:* Videre inndeling innen klassene prebasis og basis basert på antall dyrkingsår. Generasjonsbetegnelsen er angitt med et tall som en del av klassebetegnelsen. Den automatiske nedklassifisering fra generasjon til generasjon vil bli overstyrt av klassifisering etter kvalitetskravene, jf. vedlegg IA og IB, dersom disse overskrides.*Prebasismateriale:* Settepotetmateriale som er oppformert fra meristem og produsert etter kravene til prebasis, og som i hovedsak er produsert med sikte på produksjon av basismateriale.Prebasismateriale er:P1Knoller (miniknoller) produsert i veksthus/netthus på grunnlag av meristemstiklinger.P2Avlet klonvis på utsæd av P1.P3Avlet på utsæd av P2.P4Avlet på utsæd av P3.Ved behov kan avlingen fra én plante tas ut av generasjonene P3 eller P4 og danne utsæd for produksjon av en ny klon i generasjon P2.Prebasismateriale i generasjonene P3 og P4 kontrolleres av Mattilsynet og godkjennes dersom det tilfredsstiller kvalitetskravene i vedlegg I.*Basismateriale:* Settepotetmateriale som stammer fra prebasismateriale og som i hovedsak er produsert med sikte på produksjon av sertifisert materiale.Basismateriale er:B1Avlet på utsæd av P2, P3 eller P4.B2Avlet på utsæd av P2, P3, P4 eller B1.B3Avlet på utsæd av P2, P3, P4, B1 eller B2.Basismateriale kontrolleres av Mattilsynet og godkjennes dersom det tilfredsstiller kvalitetskravene i vedlegg I.*Sertifisert materiale:* Settepotetmateriale som stammer fra prebasis eller basis, og som i hovedsak er produsert med sikte på produksjon av mat-, industripotet e.l.Sertifisert materiale er:CAvlet på utsæd av P2, P3, P4, B1, B2 eller B3.Sertifisert materiale kontrolleres av Mattilsynet og godkjennes dersom det tilfredsstiller kvalitetskravene i vedlegg I.*Produksjon:* Avl, lagring, sortering, pakking, merking og forsegling.*Laboratorier som utfører in vitro-formering:* Bedrifter som kan utføre prosessene fra skjæring av meristem til og med produksjon av miniknoller i veksthus/netthus.*Prebasissenter:* Bedrifter som kan teste, eventuelt produsere P2-materiale.*Driftsenhet:* En driftsenhet omfatter alt dyrka areal innen de gnr. og bnr. som drives av en kontraktavler, også leid areal.*Vekstkontroll:* Den offentlige kontroll i veksttida av innmeldte arealer hos kontraktavlere.*Laboratoriekontroll:* Laboratorieundersøkelser som utføres for påvisning av virus, bakterier, sopp og potetcystenematode.*Omsetning:* Besittelse med tanke på salg, utbud for salg, distribusjon, samt selve salget og enhver annen form for overdragelse med eller uten vederlag.*Synlige virussjukdommer:* Virussmitte som gir planter med unormal bladfarge/bladform (mosaikk), deformerte planter og/eller planter som er tydelig redusert i størrelse. Potetvirus A, potetvirus Y og jordboende virus skal alltid regnes som synlige virussjukdommer.*Landsort:* En samling av populasjoner av en art som er naturlig tilpasset miljøforholdene i regionen der de vokser.*Genetisk erosjon:* Tap av genetisk mangfold mellom og innenfor sorter/populasjoner av en art over tid, eller reduksjon av det genetiske mangfoldet innenfor en art som følge av miljøforandringer eller menneskelig aktivitet.*Bevaringsverdig sort:* En landsort/sort som er naturlig tilpasset til lokale eller regionale forhold, og som er truet av genetisk erosjon.*In-situ bevaring:* Bevaring av genetisk materiale i dets naturlige omgivelser og, for kulturplanter, i jordbrukslandskapet hvor de har utviklet sine bestemte egenskaper.*Genbank og lignende:* En virksomhet med en samling av frø eller formeringsmateriale for langtidsbevaring som er tilgjengelig gjennom distribusjon i mindre mengder til foredling, forskning, undervisning og oppformering.
+I denne forskriften betyr:
+
+1. *Meristem:* Vekstpunkt pluss 1-2 bladanlegg skåret fra en plantes stengelspiss eller sideknopp.
+2. *Meristemplante:* Plante som er vokst opp fra et meristem på næringssubstrat.
+3. *Meristemstikling:* Stikling fra meristemplanter.
+4. *In vitro-formering:* Oppformering av meristemstiklinger på næringssubstrat.
+5. *Klon:* Planter eller knoller som stammer fra en enkelt plante eller fra ett meristem og som er dyrket som en atskilt enhet.
+6. *Avvikende type:* Plante med ekstremt mange stengler (Wildings), kjempevekst (Bolters) eller andre genetisk betingede avvik.
+7. *Utsæd:* Settepoteter som skal brukes til sertifisert produksjon av settepoteter.
+8. *Klasse:* Settepoteter inndelt etter definerte krav til oppformering og kvalitet. I denne forskriften er settepotetene inndelt i følgende klasser: Prebasis 1 (P1), Prebasis 2 (P2), Prebasis 3 (P3), Prebasis 4 (P4), Basis 1 (B1), Basis 2 (B2), Basis 3 (B3) og Sertifisert (C).
+9. *Generasjon:* Videre inndeling innen klassene prebasis og basis basert på antall dyrkingsår. Generasjonsbetegnelsen er angitt med et tall som en del av klassebetegnelsen. Den automatiske nedklassifisering fra generasjon til generasjon vil bli overstyrt av klassifisering etter kvalitetskravene, jf. vedlegg IA og IB, dersom disse overskrides.
+10. *Prebasismateriale:* Settepotetmateriale som er oppformert fra meristem og produsert etter kravene til prebasis, og som i hovedsak er produsert med sikte på produksjon av basismateriale.
+
+    Prebasismateriale er:
+
+    |  |  |
+    | --- | --- |
+    | P1 | Knoller (miniknoller) produsert i veksthus/netthus på grunnlag av meristemstiklinger. |
+    | P2 | Avlet klonvis på utsæd av P1. |
+    | P3 | Avlet på utsæd av P2. |
+    | P4 | Avlet på utsæd av P3. |
+
+    Ved behov kan avlingen fra én plante tas ut av generasjonene P3 eller P4 og danne utsæd for produksjon av en ny klon i generasjon P2.
+
+    Prebasismateriale i generasjonene P3 og P4 kontrolleres av Mattilsynet og godkjennes dersom det tilfredsstiller kvalitetskravene i vedlegg I.
+11. *Basismateriale:* Settepotetmateriale som stammer fra prebasismateriale og som i hovedsak er produsert med sikte på produksjon av sertifisert materiale.
+
+    Basismateriale er:
+
+    |  |  |
+    | --- | --- |
+    | B1 | Avlet på utsæd av P2, P3 eller P4. |
+    | B2 | Avlet på utsæd av P2, P3, P4 eller B1. |
+    | B3 | Avlet på utsæd av P2, P3, P4, B1 eller B2. |
+
+    Basismateriale kontrolleres av Mattilsynet og godkjennes dersom det tilfredsstiller kvalitetskravene i vedlegg I.
+12. *Sertifisert materiale:* Settepotetmateriale som stammer fra prebasis eller basis, og som i hovedsak er produsert med sikte på produksjon av mat-, industripotet e.l.
+
+    Sertifisert materiale er:
+
+    |  |  |
+    | --- | --- |
+    | C | Avlet på utsæd av P2, P3, P4, B1, B2 eller B3. |
+
+    Sertifisert materiale kontrolleres av Mattilsynet og godkjennes dersom det tilfredsstiller kvalitetskravene i vedlegg I.
+13. *Produksjon:* Avl, lagring, sortering, pakking, merking og forsegling.
+14. *Laboratorier som utfører in vitro-formering:* Bedrifter som kan utføre prosessene fra skjæring av meristem til og med produksjon av miniknoller i veksthus/netthus.
+15. *Prebasissenter:* Bedrifter som kan teste, eventuelt produsere P2-materiale.
+16. *Driftsenhet:* En driftsenhet omfatter alt dyrka areal innen de gnr. og bnr. som drives av en kontraktavler, også leid areal.
+17. *Vekstkontroll:* Den offentlige kontroll i veksttida av innmeldte arealer hos kontraktavlere.
+18. *Laboratoriekontroll:* Laboratorieundersøkelser som utføres for påvisning av virus, bakterier, sopp og potetcystenematode.
+19. *Omsetning:* Besittelse med tanke på salg, utbud for salg, distribusjon, samt selve salget og enhver annen form for overdragelse med eller uten vederlag.
+20. *Synlige virussjukdommer:* Virussmitte som gir planter med unormal bladfarge/bladform (mosaikk), deformerte planter og/eller planter som er tydelig redusert i størrelse. Potetvirus A, potetvirus Y og jordboende virus skal alltid regnes som synlige virussjukdommer.
+21. *Landsort:* En samling av populasjoner av en art som er naturlig tilpasset miljøforholdene i regionen der de vokser.
+22. *Genetisk erosjon:* Tap av genetisk mangfold mellom og innenfor sorter/populasjoner av en art over tid, eller reduksjon av det genetiske mangfoldet innenfor en art som følge av miljøforandringer eller menneskelig aktivitet.
+23. *Bevaringsverdig sort:* En landsort/sort som er naturlig tilpasset til lokale eller regionale forhold, og som er truet av genetisk erosjon.
+24. *In-situ bevaring:* Bevaring av genetisk materiale i dets naturlige omgivelser og, for kulturplanter, i jordbrukslandskapet hvor de har utviklet sine bestemte egenskaper.
+25. *Genbank og lignende:* En virksomhet med en samling av frø eller formeringsmateriale for langtidsbevaring som er tilgjengelig gjennom distribusjon i mindre mengder til foredling, forskning, undervisning og oppformering.
 
 > Endret ved [forskrifter 5 juni 2008 nr. 547](forskrift/2008-06-05-547), [30 april 2010 nr. 635](forskrift/2010-04-30-635).
 
@@ -54,7 +111,10 @@ Enhver som vil etablere og drive virksomhet som settepotetforretning, laboratori
 
 Bare settepotetforretninger kan importere, eksportere, omsette eller drive kontraktproduksjon av settepoteter. Krav til settepotetforretninger framgår av vedlegg VIII.
 
-Bestemmelsene i første ledd gjelder ikke for virksomheter som:bare kjøper og omsetter videre settepoteter som er ferdig pakket her i landet, eller som er importert ferdig pakket av en settepotetforretning.bare kjøper settepoteter i ferdig pakkete enheter på opptil 50 kg, og videreselger disse direkte til endelig forbruker i løssalg eller i åpne, mindre enheter (småsalg).
+Bestemmelsene i første ledd gjelder ikke for virksomheter som:
+
+1. bare kjøper og omsetter videre settepoteter som er ferdig pakket her i landet, eller som er importert ferdig pakket av en settepotetforretning.
+2. bare kjøper settepoteter i ferdig pakkete enheter på opptil 50 kg, og videreselger disse direkte til endelig forbruker i løssalg eller i åpne, mindre enheter (småsalg).
 
 Settepotetforretninger skal føre statistikk, sammenstille oversikter og avgi de rapporter som Mattilsynet krever.
 
@@ -152,7 +212,10 @@ Mattilsynet fastsetter regler for prøvetaking, og er ansvarlig for gjennomføri
 
 Pakking, lukking og merking av emballasje skal oppfylle kravene i vedlegg III.
 
-Unntatt fra kravene etter første ledd erleveranse mellom avler og kjøper som foregår i bulk etter avtale mellom registrert settepotetforretning og kjøper. Transportmidler for bulkleveranse skal være rengjort og desinfisert. Bulkleveransen kan bestå av flere partinummer av samme sort.småsalg av settepoteter etter [§ 4](forskrift/1996-07-02-1447/§4) andre ledd bokstav b.
+Unntatt fra kravene etter første ledd er
+
+1. leveranse mellom avler og kjøper som foregår i bulk etter avtale mellom registrert settepotetforretning og kjøper. Transportmidler for bulkleveranse skal være rengjort og desinfisert. Bulkleveransen kan bestå av flere partinummer av samme sort.
+2. småsalg av settepoteter etter [§ 4](forskrift/1996-07-02-1447/§4) andre ledd bokstav b.
 
 > Endret ved [forskrift 24 april 2020 nr. 854](forskrift/2020-04-24-854) (i kraft 27 april 2020).
 
@@ -180,7 +243,12 @@ Virksomheter som omfattes av denne forskriften skal innføre og utøve internkon
 
 ### § 16. Innholdet i internkontrollen
 
-Internkontroll innebærer at virksomheten skal:ha oversikt over organisering og ansvarsforhold,kartlegge risiko for overtredelse av settepotetregelverket ut fra virksomhetens aktiviteter, og iverksette tiltak for å redusere risikoen,ha rutiner for å avdekke, rette opp og hindre gjentakelse av overtredelser ogforeta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
+Internkontroll innebærer at virksomheten skal:
+
+1. ha oversikt over organisering og ansvarsforhold,
+2. kartlegge risiko for overtredelse av settepotetregelverket ut fra virksomhetens aktiviteter, og iverksette tiltak for å redusere risikoen,
+3. ha rutiner for å avdekke, rette opp og hindre gjentakelse av overtredelser og
+4. foreta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
 
 Punkt a-d skal dokumenteres skriftlig i den form og det omfang som er nødvendig på bakgrunn av virksomhetens art, aktiviteter, risikoforhold og størrelse. Dokumentasjonen skal være tilgjengelig for Mattilsynet.
 
@@ -210,7 +278,13 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og
 
 Forskrift trer i kraft straks.
 
-Samtidig oppheves:Forskrift 1. januar 19811 for statskontrollert produksjon og omsetning av såvare, planter og plantedeler forsåvidt angår poteter.Retningslinjer 1. desember 19831 for godkjenning av forretninger for produksjon og omsetning av statskontrollerte settepoteter.Forskrift 1. februar 19841 om utfyllende bestemmelser for statskontrollert produksjon, klassifisering og omsetning av settepotet.Retningslinjer 23. oktober 19851 for klonavl av poteter.[Forskrift 15. mai 1989 nr. 514](forskrift/1989-05-15-514) om forbud mot omsetning av ikke-statskontrollerte settepoteter.
+Samtidig oppheves:
+
+- Forskrift 1. januar 19811 for statskontrollert produksjon og omsetning av såvare, planter og plantedeler forsåvidt angår poteter.
+- Retningslinjer 1. desember 19831 for godkjenning av forretninger for produksjon og omsetning av statskontrollerte settepoteter.
+- Forskrift 1. februar 19841 om utfyllende bestemmelser for statskontrollert produksjon, klassifisering og omsetning av settepotet.
+- Retningslinjer 23. oktober 19851 for klonavl av poteter.
+- [Forskrift 15. mai 1989 nr. 514](forskrift/1989-05-15-514) om forbud mot omsetning av ikke-statskontrollerte settepoteter.
 
 > Endret ved [forskrift 21 nov 2006 nr. 1298](forskrift/2006-11-21-1298) (tidligere § 18).
 
@@ -220,7 +294,31 @@ Samtidig oppheves:Forskrift 1. januar 19811 for statskontrollert produksjon og o
 
 ### A. Krav ved vekstkontroll
 
-Det innmeldte settepotetareal skal oppfylle følgende krav:Følgende planteskadegjørere skal ikke være påvist på driftsenheten:Lys potetringråte (*Clavibacter michiganensis subsp. sepedonicus*)Mørk potetringråte (*Ralstonia solanacearum*)Potetkreft (*Synchytrium endobioticum*)Hvit potetcystenematode (*Globodera pallida*)Gul potetcystenematode (*Globodera rostochiensis*)Potetråte nematode (*Ditylenchus destructor*)Koloradobille (*Leptinotarsa decemlineata*)PotetbladrullevirusPotato spindle tuber viroidRotgallnematode (*Meloidogyne chitwoodii* og *Meloidogyne fallax*)*Dickeya* spp.Etter eventuell sanering og godkjenning av Mattilsynet, kan driftsenheter der disse skadegjørerne er blitt påvist tas inn igjen i settepotetavlen.Krav i prosent for de ulike klasser ved vekstkontroll:*Prebasis**Basis**Sertifisert**P3**P4**B1**B2**B3**C*Fremmed sort/avvikende type0,00,00,050,050,050,1Synlige virussjukdommer0,050,050,20,20,51,0Stengelråte0,20,20,50,50,51,0
+Det innmeldte settepotetareal skal oppfylle følgende krav:
+
+1. Følgende planteskadegjørere skal ikke være påvist på driftsenheten:
+
+   - Lys potetringråte (*Clavibacter michiganensis subsp. sepedonicus*)
+   - Mørk potetringråte (*Ralstonia solanacearum*)
+   - Potetkreft (*Synchytrium endobioticum*)
+   - Hvit potetcystenematode (*Globodera pallida*)
+   - Gul potetcystenematode (*Globodera rostochiensis*)
+   - Potetråte nematode (*Ditylenchus destructor*)
+   - Koloradobille (*Leptinotarsa decemlineata*)
+   - Potetbladrullevirus
+   - Potato spindle tuber viroid
+   - Rotgallnematode (*Meloidogyne chitwoodii* og *Meloidogyne fallax*)
+   - *Dickeya* spp.
+
+   Etter eventuell sanering og godkjenning av Mattilsynet, kan driftsenheter der disse skadegjørerne er blitt påvist tas inn igjen i settepotetavlen.
+2. Krav i prosent for de ulike klasser ved vekstkontroll:
+
+   |  | *Prebasis* |  | *Basis* |  |  | *Sertifisert* |
+   | --- | --- | --- | --- | --- | --- | --- |
+   |  | *P3* | *P4* | *B1* | *B2* | *B3* | *C* |
+   | Fremmed sort/avvikende type | 0,0 | 0,0 | 0,05 | 0,05 | 0,05 | 0,1 |
+   | Synlige virussjukdommer | 0,05 | 0,05 | 0,2 | 0,2 | 0,5 | 1,0 |
+   | Stengelråte | 0,2 | 0,2 | 0,5 | 0,5 | 0,5 | 1,0 |
 
 > Endret ved [forskrift 15 aug 2018 nr. 1301](forskrift/2018-08-15-1301) (i kraft 1 okt 2018).
 
@@ -242,22 +340,36 @@ Krav i prosent for de ulike klasser ved laboratoriekontroll:
 ### C. Krav til varekvalitet
 
 1. Settepoteter skal ha minst mulig av sjukdommer og skadegjørere som kan forringe deres verdi som settepoteter.
-2. Knollstørrelse:Tillatt størrelse er settepoteter som kan passere et sold med maskevidde 55 mm i kvadratiske masker, men stanser på et tilsvarende sold med maskevidde 30 mm.Største tillatte forskjell i størrelse innenfor en pakning er 15 mm.For mandelpotet er tillatt størrelse på settepotet 25-75 g.En pakning skal ikke inneholde mer enn 3 vektprosent med knoller som er større enn merkingen tilsier. En pakning skal ikke inneholde mer enn 3 vektprosent med knoller som er mindre enn merkingen tilsier.Grenser for knollstørrelse gjelder når det ikke er annen avtale mellom selger og kjøper.
-3. Settepotetene i partiet skal:være fri for frost- og varmeskadervære tørre og fri for kondensvannvære faste og ikke uttørket og skrumpnei gjennomsnitt være fri for groer over 5 mmvære sortert og pakket slik at de er av ensartet kvalitet.
+2. Knollstørrelse:
+
+   Tillatt størrelse er settepoteter som kan passere et sold med maskevidde 55 mm i kvadratiske masker, men stanser på et tilsvarende sold med maskevidde 30 mm.
+
+   Største tillatte forskjell i størrelse innenfor en pakning er 15 mm.
+
+   For mandelpotet er tillatt størrelse på settepotet 25-75 g.
+
+   En pakning skal ikke inneholde mer enn 3 vektprosent med knoller som er større enn merkingen tilsier. En pakning skal ikke inneholde mer enn 3 vektprosent med knoller som er mindre enn merkingen tilsier.
+
+   Grenser for knollstørrelse gjelder når det ikke er annen avtale mellom selger og kjøper.
+3. Settepotetene i partiet skal:
+
+   1. være fri for frost- og varmeskader
+   2. være tørre og fri for kondensvann
+   3. være faste og ikke uttørket og skrumpne
+   4. i gjennomsnitt være fri for groer over 5 mm
+   5. være sortert og pakket slik at de er av ensartet kvalitet.
 4. Settepotetene kan maksimalt ha 1 vektprosent vedhengende jord.
-5. Ved pakking skal partiet tilfredsstille følgende krav i vektprosent:*Betegnelse på sjukdom eller skader**Maks. vekt %**Vurderingsgrunnlag*a. Bløte råter
-b. Tørre råter1Tydelig angrep av bløt råte.
-Tydelig angrep av potettørråte, fomaråte, fusariumråte eller annen tørr råte.c. Mekaniske skader
+5. Ved pakking skal partiet tilfredsstille følgende krav i vektprosent:
 
+   | *Betegnelse på sjukdom eller skader* | *Maks. vekt %* |  | *Vurderingsgrunnlag* |
+   | --- | --- | --- | --- |
+   | a. Bløte råter<br>b. Tørre råter | 1 |  | Tydelig angrep av bløt råte.<br>Tydelig angrep av potettørråte, fomaråte, fusariumråte eller annen tørr råte. |
+   | c. Mekaniske skader<br><br><br><br>d. Misformede knoller | 3 |  | Sår, åpne sprekker, indre knusing eller lignende som er dypere enn 10 % av knollens lengde. Åpne sår som dekker mer enn 10 % av knollens overflate.<br>Knoller som avviker vesentlig fra sortens typiske form slik at bruksverdien reduseres, og vekstsprekker dypere enn 5 mm. |
+   | e. Skurv (unntatt sølvskurv) | 5 |  | Angrep av flatskurv som dekker mer enn 20 % av knollens overflate. Angrep av vorteskurv, blæreskurv og svartskurv som dekker mer enn 10 % av knollens overflate. |
+   | f. Sølvskurv | 15 |  | Angrep av sølvskurv som dekker mer enn 30 % av knollens overflate. |
+   | g. Indre defekter | P3, P4:<br><br>0 | B1, B2,<br>B3, C:<br>2 | Rustflekker som skyldes jordboende<br>virus. |
 
-
-d. Misformede knoller3Sår, åpne sprekker, indre knusing eller lignende som er dypere enn 10 % av knollens lengde. Åpne sår som dekker mer enn 10 % av knollens overflate.
-Knoller som avviker vesentlig fra sortens typiske form slik at bruksverdien reduseres, og vekstsprekker dypere enn 5 mm.e. Skurv (unntatt sølvskurv)5Angrep av flatskurv som dekker mer enn 20 % av knollens overflate. Angrep av vorteskurv, blæreskurv og svartskurv som dekker mer enn 10 % av knollens overflate.f. Sølvskurv15Angrep av sølvskurv som dekker mer enn 30 % av knollens overflate.g. Indre defekterP3, P4:
-
-0B1, B2,
-B3, C:
-2Rustflekker som skyldes jordboende
-virus.Sum av a–e kan maksimalt være 6 vekt-%.
+   Sum av a–e kan maksimalt være 6 vekt-%.
 
 > Vedlegg I endret ved [forskrifter 21 nov 2006 nr. 1298](forskrift/2006-11-21-1298), [5 juni 2008 nr. 547](forskrift/2008-06-05-547), [23 nov 2010 nr. 1473](forskrift/2010-11-23-1473).
 
@@ -275,7 +387,10 @@ Avlere skal enten ha eget tilfredsstillende lager og utstyr for sortering, pakki
 
 For leid areal skal det foreligge en skriftlig leieavtale på minimum 5 år. Det må ikke foregå annen potetproduksjon enn sertifisert settepotetproduksjon på driftsenheten som leier ut jord.
 
-Nye avlere og nye arealer hos eksisterende avlere skal i samsvar med bestemmelsene om prøvetaking i vedlegg IV oppfylle følgende krav:Alt dyrket areal på driftsenheten skal være undersøkt for potetcystenematode.Eventuelle poteter av siste års avl skal være undersøkt for lys ringråte.
+Nye avlere og nye arealer hos eksisterende avlere skal i samsvar med bestemmelsene om prøvetaking i vedlegg IV oppfylle følgende krav:
+
+- Alt dyrket areal på driftsenheten skal være undersøkt for potetcystenematode.
+- Eventuelle poteter av siste års avl skal være undersøkt for lys ringråte.
 
 Mattilsynet kan nekte videre sertifisert produksjon av settepoteter på en driftsenhet, dersom det ikke oppnås tilfredsstillende resultat i settepotetavlen.
 
@@ -285,7 +400,12 @@ Mattilsynet kan nekte videre sertifisert produksjon av settepoteter på en drift
 
 Settepotetforretningene skal innen 15. mai hvert år sende melding om sine kontraktarealer til Mattilsynet.
 
-Ved innmelding skal følgende opplyses:avlerens navn og adressesort og klasse (ikke klasse for bevaringsverdige sorter)kontraktarealavler/partinummer og klasse for innkjøpte settepoteter (ikke klasse for bevaringsverdige sorter).
+Ved innmelding skal følgende opplyses:
+
+- avlerens navn og adresse
+- sort og klasse (ikke klasse for bevaringsverdige sorter)
+- kontraktareal
+- avler/partinummer og klasse for innkjøpte settepoteter (ikke klasse for bevaringsverdige sorter).
 
 For nye avlere skal det ved innmeldingen følge et kart over driftsenheten.
 
@@ -376,23 +496,88 @@ Forretningen skal sørge for at alle partier som pakkes for omsetning blir varek
 
 ## Vedlegg III – Pakking og merking av settepoteter
 
-1. *Pakningsenheter og leveranser*Som pakningsenheter gjelder:Over 50 kg netto (storsekk, kasser)10–50 kg (sekk)Under 10 kg (småpakke).Alle pakningsenheter skal være nye.Hver pakningsenhet skal bare inneholde settepoteter av samme sort og partinummer.
-2. *Lukking*Alle pakningsenheter skal være lukket på en slik måte at de ikke kan åpnes og lukkes på nytt uten at det er godt synlig.
-3. *Merking*Opplysninger på den offisielle merking:Norske regler og normerKlasse/generasjonsnummerMattilsynetDyrker og partinummerSortSorteringsstørrelseNettovektSorteringsdato/pakkedatoAnsvarlig settepotetforretning.
-4. *Opplysninger på småpakninger:*Klasse/generasjonsnummerSortVektAnsvarlig settepotetforretningDyrker/partinummer.Småpakning som leveres i fellespakninger inntil siste forhandler skal være utstyrt med offisiell merking.
-5. *Merkelappens utseende* Klasse prebasis:Hvit med fiolett diagonal strekKlasse basis:HvitKlasse sertifisert:Blå
-6. *Merkelappens størrelse*Minimum 110 mm x 67 mm.
-7. *Varedeklarasjon for bevaringsverdige sorter*Sort«Bevaringsverdig sort»Sortens opprinnelsesområdeRegionen såvaren er produsert i hvis denne ikke er identisk med opprinnelsesområdetAnsvarlig settepotetforretningDyrker/partinummerVektSorteringsdato/pakkedato.
+1. *Pakningsenheter og leveranser*
+
+   Som pakningsenheter gjelder:
+
+   1. Over 50 kg netto (storsekk, kasser)
+   2. 10–50 kg (sekk)
+   3. Under 10 kg (småpakke).
+
+   Alle pakningsenheter skal være nye.
+
+   Hver pakningsenhet skal bare inneholde settepoteter av samme sort og partinummer.
+2. *Lukking*
+
+   Alle pakningsenheter skal være lukket på en slik måte at de ikke kan åpnes og lukkes på nytt uten at det er godt synlig.
+3. *Merking*
+
+   Opplysninger på den offisielle merking:
+
+   1. Norske regler og normer
+   2. Klasse/generasjonsnummer
+   3. Mattilsynet
+   4. Dyrker og partinummer
+   5. Sort
+   6. Sorteringsstørrelse
+   7. Nettovekt
+   8. Sorteringsdato/pakkedato
+   9. Ansvarlig settepotetforretning.
+4. *Opplysninger på småpakninger:*
+
+   1. Klasse/generasjonsnummer
+   2. Sort
+   3. Vekt
+   4. Ansvarlig settepotetforretning
+   5. Dyrker/partinummer.
+
+   Småpakning som leveres i fellespakninger inntil siste forhandler skal være utstyrt med offisiell merking.
+5. *Merkelappens utseende*
+
+   |  |  |
+   | --- | --- |
+   | Klasse prebasis: | Hvit med fiolett diagonal strek |
+   | Klasse basis: | Hvit |
+   | Klasse sertifisert: | Blå |
+6. *Merkelappens størrelse*
+
+   Minimum 110 mm x 67 mm.
+7. *Varedeklarasjon for bevaringsverdige sorter*
+
+   1. Sort
+   2. «Bevaringsverdig sort»
+   3. Sortens opprinnelsesområde
+   4. Regionen såvaren er produsert i hvis denne ikke er identisk med opprinnelsesområdet
+   5. Ansvarlig settepotetforretning
+   6. Dyrker/partinummer
+   7. Vekt
+   8. Sorteringsdato/pakkedato.
 
 > Endret ved [forskrifter 5 juni 2008 nr. 547](forskrift/2008-06-05-547) (tidligere vedlegg 3), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [24 april 2020 nr. 854](forskrift/2020-04-24-854) (i kraft 27 april 2020).
 
 ## Vedlegg IV – Regler for prøvetaking
 
-1. *Prøver til ringråte-, knoll- og vintertest*Til ringråte-, knoll- og vintertest skal det tas ut 200 knoller pr. parti av alle partier (unntatt P1). Settepotetforretningene er ansvarlige for at prøven blir tatt ut slik at den er et best mulig gjennomsnitt av partiet. Fra et kasselager tas knoller jevnt ut fra minst 10 kasser fordelt i lageret, og fra et løslager tas prøvene tilsvarende på forskjellige steder i partiet. Alle knollene skal være innenfor sorteringsgrensene for settepoteter.Prøvene skal merkes med lapp påført forretningens og avlerens navn, sort, klasse og partinummer. Det skal være en lapp innlagt i sekken og en utenpå.
-2. *Prøver for varekvalitetskontroll*For hvert parti settepoteter som omsettes skal det tas ut en prøve à 10 kg pr. påbegynt 50 tonn. Prøvene tas ut ved pakking.Forretningene er ansvarlige for at prøven tas ut fra minst 3 % av de første 100 enheter, og 1 % av resten. Fra kasser tas prøver fra minimum 4 kasser, helst i ulike sjikt.
-3. *Krav til jordprøver for undersøkelse av potetcystenematode*Settepotetforretningene er ansvarlige for uttak av jordprøver til undersøkelse av potetcystenematode. Avleren selv kan ikke foreta uttak av jordprøver på egne arealer. Prøvene skal sendes til analyse dit Mattilsynet bestemmer.
-4. Jordprøveuttak hos nye avlere og nye arealer hos eksisterende avlere, jf. vedlegg II punkt 1.1:Det skal tas ut en prøve på minst 1,5 liter jord pr. 10 daa i løpet av foregående vekstsesong før oppstart av settepotetavl på nye arealer. Dersom det dyrkes poteter på hele eller deler av disse arealene den foregående vekstsesongen, skal prøvene tas ut etter høsting der det er dyrket poteter.En prøve skal bestå av minst 100 prøvestikk. Stikkene tas langs parallelle linjer med 10 meters avstand og 10 meters innbyrdes mellomrom.
-5. Jordprøveuttak i forbindelse med sertifisering av settepoteter, jf. [§ 11](forskrift/1996-07-02-1447/§11):Etter høsting og før pløying skal det tas ut en prøve på minst 0,5 liter jord pr. 10 daa. En prøve skal bestå av minst 100 prøvestikk. Stikkene tas langs parallelle linjer med 10 meters avstand og 10 meters innbyrdes mellomrom.
+1. *Prøver til ringråte-, knoll- og vintertest*
+
+   Til ringråte-, knoll- og vintertest skal det tas ut 200 knoller pr. parti av alle partier (unntatt P1). Settepotetforretningene er ansvarlige for at prøven blir tatt ut slik at den er et best mulig gjennomsnitt av partiet. Fra et kasselager tas knoller jevnt ut fra minst 10 kasser fordelt i lageret, og fra et løslager tas prøvene tilsvarende på forskjellige steder i partiet. Alle knollene skal være innenfor sorteringsgrensene for settepoteter.
+
+   Prøvene skal merkes med lapp påført forretningens og avlerens navn, sort, klasse og partinummer. Det skal være en lapp innlagt i sekken og en utenpå.
+2. *Prøver for varekvalitetskontroll*
+
+   For hvert parti settepoteter som omsettes skal det tas ut en prøve à 10 kg pr. påbegynt 50 tonn. Prøvene tas ut ved pakking.
+
+   Forretningene er ansvarlige for at prøven tas ut fra minst 3 % av de første 100 enheter, og 1 % av resten. Fra kasser tas prøver fra minimum 4 kasser, helst i ulike sjikt.
+3. *Krav til jordprøver for undersøkelse av potetcystenematode*
+
+   Settepotetforretningene er ansvarlige for uttak av jordprøver til undersøkelse av potetcystenematode. Avleren selv kan ikke foreta uttak av jordprøver på egne arealer. Prøvene skal sendes til analyse dit Mattilsynet bestemmer.
+4. Jordprøveuttak hos nye avlere og nye arealer hos eksisterende avlere, jf. vedlegg II punkt 1.1:
+
+   Det skal tas ut en prøve på minst 1,5 liter jord pr. 10 daa i løpet av foregående vekstsesong før oppstart av settepotetavl på nye arealer. Dersom det dyrkes poteter på hele eller deler av disse arealene den foregående vekstsesongen, skal prøvene tas ut etter høsting der det er dyrket poteter.
+
+   En prøve skal bestå av minst 100 prøvestikk. Stikkene tas langs parallelle linjer med 10 meters avstand og 10 meters innbyrdes mellomrom.
+5. Jordprøveuttak i forbindelse med sertifisering av settepoteter, jf. [§ 11](forskrift/1996-07-02-1447/§11):
+
+   Etter høsting og før pløying skal det tas ut en prøve på minst 0,5 liter jord pr. 10 daa. En prøve skal bestå av minst 100 prøvestikk. Stikkene tas langs parallelle linjer med 10 meters avstand og 10 meters innbyrdes mellomrom.
 
 > Endret ved [forskrifter 5 juni 2008 nr. 547](forskrift/2008-06-05-547), [23 nov 2010 nr. 1473](forskrift/2010-11-23-1473), [5 juli 2013 nr. 867](forskrift/2013-07-05-867).
 
@@ -406,7 +591,13 @@ Morknollen skal være testet etter internasjonalt anerkjente metoder, og funnet 
 
 1.2
 
-Hver meristemplante som skal brukes til videre in vitro-formering skal være testet og funnet fri for virus. Dette skal testes ved at en meristemstikling dyrkes i jord i 3–5 uker. Denne planten skal være testet etter internasjonalt anerkjente metoder, og funnet fri for PVY, PVA, PVS, PVM, PVX og PLRV. I tillegg skal det utføres test på følgende testplanter:*Capsicum annuum* L.*Chenopodium quinoa* Willd.*Nicotiana debneyi* Domin*Nicotiana benthamiana* Domin*Nicotiana occidentalis* P1 H.-M.Wheeler.
+Hver meristemplante som skal brukes til videre in vitro-formering skal være testet og funnet fri for virus. Dette skal testes ved at en meristemstikling dyrkes i jord i 3–5 uker. Denne planten skal være testet etter internasjonalt anerkjente metoder, og funnet fri for PVY, PVA, PVS, PVM, PVX og PLRV. I tillegg skal det utføres test på følgende testplanter:
+
+- *Capsicum annuum* L.
+- *Chenopodium quinoa* Willd.
+- *Nicotiana debneyi* Domin
+- *Nicotiana benthamiana* Domin
+- *Nicotiana occidentalis* P1 H.-M.Wheeler.
 
 1.3
 
@@ -478,24 +669,46 @@ Avlingen fra én plante tas ut fra generasjonene P3 eller P4. Planten som avling
 
 ## Vedlegg VI – Krav til laboratorier som utfører meristemskjæring og in vitro-formering av poteter til avlssystemet
 
-1. *Krav til faglige kvalifikasjoner for leder*Driftsansvarlig for laboratoriet må dokumentere at virksomheten har fast ansatt faglig leder. Den faglige leder må ha relevant utdannelse, og i tillegg ha minst ett års relevant praksis.
-2. *Laboratoriets virksomhet*Laboratoriet må disponere lokaler og utstyr slik at produksjon og testing kan foregå slik Mattilsynet til enhver tid bestemmer.
-3. *Forpliktelser for laboratoriet*Laboratoriet forplikter seg til å medvirke til produksjon av sertifiserte settepoteter i henhold til denne forskrift.
+1. *Krav til faglige kvalifikasjoner for leder*
+
+   Driftsansvarlig for laboratoriet må dokumentere at virksomheten har fast ansatt faglig leder. Den faglige leder må ha relevant utdannelse, og i tillegg ha minst ett års relevant praksis.
+2. *Laboratoriets virksomhet*
+
+   Laboratoriet må disponere lokaler og utstyr slik at produksjon og testing kan foregå slik Mattilsynet til enhver tid bestemmer.
+3. *Forpliktelser for laboratoriet*
+
+   Laboratoriet forplikter seg til å medvirke til produksjon av sertifiserte settepoteter i henhold til denne forskrift.
 
 > Endret ved [forskrift 5 juni 2008 nr. 547](forskrift/2008-06-05-547).
 
 ## Vedlegg VII – Krav til prebasissenter
 
-1. *Krav til faglige kvalifikasjoner for leder*Driftsansvarlig for laboratoriet må dokumentere at virksomheten har fast ansatt faglig leder. Den faglige leder må ha høyere landbruksutdannelse eller tilsvarende relevant utdannelse. I tillegg må den faglige lederen ha relevant praksis eller ha gjennomgått spesialopplæring innen klonavl av poteter og testing/påvisning av sjukdommer på potet. Mattilsynet vurderer i hvert enkelt tilfelle hvorvidt utdannelse/praksis kan aksepteres ut fra de kriterier som her er gitt.
-2. *Prebasissenterets virksomhet*Prebasissenteret må disponere lokaler og utstyr slik at produksjon og testing kan foregå slik Mattilsynet til enhver tid bestemmer.Areal for produksjon av generasjon P2 kan eies//leies og drives av prebasissenteret, eller kan drives av en prebasisavler. Prebasissenteret vil alltid være ansvarlig for gjennomføring av avlen og for testing/dokumentasjon av materialet.
-3. *Forpliktelser som prebasissenter*Prebasissenteret forplikter seg til å medvirke til produksjon av sertifiserte settepoteter i henhold til denne forskrift.
+1. *Krav til faglige kvalifikasjoner for leder*
+
+   Driftsansvarlig for laboratoriet må dokumentere at virksomheten har fast ansatt faglig leder. Den faglige leder må ha høyere landbruksutdannelse eller tilsvarende relevant utdannelse. I tillegg må den faglige lederen ha relevant praksis eller ha gjennomgått spesialopplæring innen klonavl av poteter og testing/påvisning av sjukdommer på potet. Mattilsynet vurderer i hvert enkelt tilfelle hvorvidt utdannelse/praksis kan aksepteres ut fra de kriterier som her er gitt.
+2. *Prebasissenterets virksomhet*
+
+   Prebasissenteret må disponere lokaler og utstyr slik at produksjon og testing kan foregå slik Mattilsynet til enhver tid bestemmer.
+
+   Areal for produksjon av generasjon P2 kan eies//leies og drives av prebasissenteret, eller kan drives av en prebasisavler. Prebasissenteret vil alltid være ansvarlig for gjennomføring av avlen og for testing/dokumentasjon av materialet.
+3. *Forpliktelser som prebasissenter*
+
+   Prebasissenteret forplikter seg til å medvirke til produksjon av sertifiserte settepoteter i henhold til denne forskrift.
 
 > Endret ved [forskrift 5 juni 2008 nr. 547](forskrift/2008-06-05-547).
 
 ## Vedlegg VIII – Krav til settepotetforretninger
 
-1. *Krav til faglige kvalifikasjoner for leder*Driftsansvarlig for forretningen må dokumentere at forretningen har fast ansatt faglig leder i full stilling. Den faglige leder må ha høyere landbruksutdannelse, og i tillegg ha minst ett års relevant praksis.
-2. *Forretningens virksomhet*Forretningen må være registrert i foretaksregisteret og ha fast forretningssted.Forretningen må selv ha direkte kontrakt med produsentene.
-3. *Forpliktelser som settepotetforretning*Forretningen forplikter seg til å medvirke til produksjon av sertifiserte settepoteter i henhold til denne forskrift.
+1. *Krav til faglige kvalifikasjoner for leder*
+
+   Driftsansvarlig for forretningen må dokumentere at forretningen har fast ansatt faglig leder i full stilling. Den faglige leder må ha høyere landbruksutdannelse, og i tillegg ha minst ett års relevant praksis.
+2. *Forretningens virksomhet*
+
+   Forretningen må være registrert i foretaksregisteret og ha fast forretningssted.
+
+   Forretningen må selv ha direkte kontrakt med produsentene.
+3. *Forpliktelser som settepotetforretning*
+
+   Forretningen forplikter seg til å medvirke til produksjon av sertifiserte settepoteter i henhold til denne forskrift.
 
 > Endret ved [forskrift 5 juni 2008 nr. 547](forskrift/2008-06-05-547).

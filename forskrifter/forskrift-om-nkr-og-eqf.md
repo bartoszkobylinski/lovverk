@@ -15,7 +15,7 @@ xml_hash: "6cd5e44fc2d8b4b8a1d3e4539430b96b94dc5709a8436fa520aad9ecdc809749"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,13 @@ Tilbydere med godkjenning eller akkreditering i henhold til opplæringslova, pri
 
 ## § 2. Definisjoner
 
-I denne forskrift forstås med:*Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR):* en samlet, systematisk og nivådelt beskrivelse av kvalifikasjoner oppnådd i henhold til fastsatt læringsutbytte.*Det europeiske kvalifikasjonsrammeverket for livslang læring (EQF):* et felles europeisk referansesystem som beskriver nivåer av læringsutbytte ved hjelp av et åttedelt rammeverk.*Læringsutbytte:* det en person vet, kan og er i stand til å gjøre som resultat av en læringsprosess. Læringsutbyttet er inndelt i kunnskap, ferdigheter og generell kompetanse.*Kvalifikasjon:* et dokumentert læringsutbytte på et gitt nivå. Læringsutbyttet er vurdert etter bestemte kriterier og formelt godkjent av en ansvarlig myndighet.*Ansvarlig myndighet:* departementet samt myndighet med ansvar for godkjenning, akkreditering og kvalitetssikring i henhold til relevant lovverk.
+I denne forskrift forstås med:
+
+1. *Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR):* en samlet, systematisk og nivådelt beskrivelse av kvalifikasjoner oppnådd i henhold til fastsatt læringsutbytte.
+2. *Det europeiske kvalifikasjonsrammeverket for livslang læring (EQF):* et felles europeisk referansesystem som beskriver nivåer av læringsutbytte ved hjelp av et åttedelt rammeverk.
+3. *Læringsutbytte:* det en person vet, kan og er i stand til å gjøre som resultat av en læringsprosess. Læringsutbyttet er inndelt i kunnskap, ferdigheter og generell kompetanse.
+4. *Kvalifikasjon:* et dokumentert læringsutbytte på et gitt nivå. Læringsutbyttet er vurdert etter bestemte kriterier og formelt godkjent av en ansvarlig myndighet.
+5. *Ansvarlig myndighet:* departementet samt myndighet med ansvar for godkjenning, akkreditering og kvalitetssikring i henhold til relevant lovverk.
 
 ## § 3. Departementets ansvar
 

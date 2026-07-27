@@ -15,7 +15,7 @@ xml_hash: "7a34754b5eeadd327ee46af17418857af1c66bc2122450d97687a5b091b1d96e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ Ved all offentlig omsetning, og ved slike erverv som etter denne lov er likestil
 
 I de tilfeller der betaling skjer helt eller delvis i form av et annet kunstverk, skal avgift belastes begge kunstverkene, dersom tilsvarende salg mot kontanter hadde vært avgiftspliktig. Avgiftsbelastningen skal imidlertid ikke gjelde gaver. Departementet kan fastsette nærmere regler om hvilke kunstverk som går inn under avgiftsplikten og i hvilken utstrekning avgiftsplikten skal gjelde for omsetning med tilknytning til utlandet eller Svalbard.
 
-Likestilt med offentlig omsetning er etter denne lov:Ethvert erverv som skjer med sikte på offentlig visning i gallerier, museer eller tilsvarende. Salg direkte fra kunstner eller privatpersoner til museer som er åpne for publikum og ikke driver ervervsmessig, skal likevel ikke anses som offentlig omsetning, med mindre det i handelen deltar en formidler.Ethvert erverv direkte fra den kunstner som har skapt verket, når arbeidet er et utsmykkingsoppdrag, et bestillingsverk eller et konkurranseutkast, samt erverv ellers som sidestilles med offentlig omsetning.
+Likestilt med offentlig omsetning er etter denne lov:
+
+1. Ethvert erverv som skjer med sikte på offentlig visning i gallerier, museer eller tilsvarende. Salg direkte fra kunstner eller privatpersoner til museer som er åpne for publikum og ikke driver ervervsmessig, skal likevel ikke anses som offentlig omsetning, med mindre det i handelen deltar en formidler.
+2. Ethvert erverv direkte fra den kunstner som har skapt verket, når arbeidet er et utsmykkingsoppdrag, et bestillingsverk eller et konkurranseutkast, samt erverv ellers som sidestilles med offentlig omsetning.
 
 Avgiftspliktig etter denne lov er originaleksemplar av kunstverk som malerier, kollasjer, tegninger, stikk, trykk, litografier, skulpturer, billedtepper, keramikk, glasskunst og fotografiske verk. Som originaleksemplar regnes eksemplar av kunstverk som er utført i et begrenset antall av kunstneren selv eller med hans samtykke. Bestemmelsen gjelder ikke byggverk.
 

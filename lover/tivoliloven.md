@@ -15,7 +15,7 @@ xml_hash: "89d53e9a13355226df851f7f4bb65ebd2838cf7a77d306e5c061028a9c6dab95"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,13 +40,33 @@ Loven gjelder for Svalbard og Jan Mayen i den utstrekning Kongen bestemmer.
 
 ### § 3. Definisjoner
 
-I denne loven menes med*fornøyelsesinnretning:* installasjon til bruk for fornøyelsesformål som innebærer risiko, og som stiller minimale krav til ferdigheter, og hvor brukerne enten bringes i bevegelse eller situasjoner hvor de helt eller delvis ikke har kontroll over egen bevegelse, eller begge deler*virksomhet:* foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for én eller flere fornøyelsesinnretninger*ulykke:* uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser på fornøyelsesinnretning som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og andre lignende ulykker*alvorlig hendelse:* uønsket hendelse på fornøyelsesinnretning som under andre omstendigheter kunne ha ført til en ulykke*hendelse:* enhver annen uønsket hendelse enn en ulykke på fornøyelsesinnretninger, som har sammenheng med driften, og som innvirker på driftssikkerheten.
+I denne loven menes med
+
+1. *fornøyelsesinnretning:* installasjon til bruk for fornøyelsesformål som innebærer risiko, og som stiller minimale krav til ferdigheter, og hvor brukerne enten bringes i bevegelse eller situasjoner hvor de helt eller delvis ikke har kontroll over egen bevegelse, eller begge deler
+2. *virksomhet:* foretak, enkeltpersonforetak eller forvaltningsorgan som har driftstillatelse for én eller flere fornøyelsesinnretninger
+3. *ulykke:* uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser på fornøyelsesinnretning som fører til død eller alvorlig personskade, betydelige materielle skader på eiendom eller på miljø, og andre lignende ulykker
+4. *alvorlig hendelse:* uønsket hendelse på fornøyelsesinnretning som under andre omstendigheter kunne ha ført til en ulykke
+5. *hendelse:* enhver annen uønsket hendelse enn en ulykke på fornøyelsesinnretninger, som har sammenheng med driften, og som innvirker på driftssikkerheten.
 
 ### § 4. Myndighet etter loven
 
 Departementet er myndighet etter denne loven.
 
-Departementet kan gi forskrifter om:bestemmelser om definisjon av fornøyelsesinnretningsaksbehandlingsregler til driftstillatelse, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse, om vilkår for utstedelse og tilbakekall av driftstillatelse, samt om fjerning av fornøyelsesinnretningtekniske og driftsmessige krav, inkludert krav til bemanning, redningsberedskap, sikkerhetsstyringssystem og erstatnings- og forsikringsplikt samt unntak for krav til sikkerhetsstillelsegodkjenning eller akkreditering av virksomhet som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slik virksomhetgodkjenning eller sertifisering av personell som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slikt personelluniversell utforming av byggverk, innretninger og billettsystemerbruk av personlig verneutstyrplikt til varsling, rapportering og taushetsplikt, herunder hvilke opplysninger som skal inngå i varslings- og rapporteringsplikten, samt hvordan og til hvem dette skal skjebehandling av personopplysningertvangsmulkt og overtredelsesgebyr, inkludert hvordan den skal fastsettes, beregnes og frafallesgebyr, årsgebyr og sektoravgifthvem som omfattes av forbudet mot ruspåvirkning og av påbudet om pliktmessig avhold, samt om testing av ruspåvirkningundersøkelsesmyndighetens oppgaver og kompetanse, inkludert varsling og rapportering til og fra undersøkelsesmyndigheten, og om samarbeid og utveksling av opplysninger med andre land og internasjonale organisasjoner i den grad det følger av internasjonale avtaler som Norge har inngått.
+Departementet kan gi forskrifter om:
+
+1. bestemmelser om definisjon av fornøyelsesinnretning
+2. saksbehandlingsregler til driftstillatelse, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse, om vilkår for utstedelse og tilbakekall av driftstillatelse, samt om fjerning av fornøyelsesinnretning
+3. tekniske og driftsmessige krav, inkludert krav til bemanning, redningsberedskap, sikkerhetsstyringssystem og erstatnings- og forsikringsplikt samt unntak for krav til sikkerhetsstillelse
+4. godkjenning eller akkreditering av virksomhet som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slik virksomhet
+5. godkjenning eller sertifisering av personell som skal utføre oppgaver av sikkerhetsmessig betydning, samt bruk av slikt personell
+6. universell utforming av byggverk, innretninger og billettsystemer
+7. bruk av personlig verneutstyr
+8. plikt til varsling, rapportering og taushetsplikt, herunder hvilke opplysninger som skal inngå i varslings- og rapporteringsplikten, samt hvordan og til hvem dette skal skje
+9. behandling av personopplysninger
+10. tvangsmulkt og overtredelsesgebyr, inkludert hvordan den skal fastsettes, beregnes og frafalles
+11. gebyr, årsgebyr og sektoravgift
+12. hvem som omfattes av forbudet mot ruspåvirkning og av påbudet om pliktmessig avhold, samt om testing av ruspåvirkning
+13. undersøkelsesmyndighetens oppgaver og kompetanse, inkludert varsling og rapportering til og fra undersøkelsesmyndigheten, og om samarbeid og utveksling av opplysninger med andre land og internasjonale organisasjoner i den grad det følger av internasjonale avtaler som Norge har inngått.
 
 > Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82) (i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958)).
 
@@ -170,7 +190,13 @@ Tvangsmulkt er tvangsgrunnlag for utlegg.
 
 Tilsynsmyndigheten kan ilegge overtredelsesgebyr til en virksomhet som overtrer bestemmelser gitt i eller i medhold av denne loven.
 
-Når tilsynsmyndigheten skal avgjøre om et overtredelsesgebyr skal ilegges, og når sanksjonen skal utmåles, skal den særlig legge vekt på disse forholdene:overtredelsens grovhet og omfangom overtrederen kunne forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltakom overtredelsen er gjentattom overtrederen har eller kunne oppnådd noen fordel ved overtredelsenovertrederens økonomiske evne.
+Når tilsynsmyndigheten skal avgjøre om et overtredelsesgebyr skal ilegges, og når sanksjonen skal utmåles, skal den særlig legge vekt på disse forholdene:
+
+1. overtredelsens grovhet og omfang
+2. om overtrederen kunne forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak
+3. om overtredelsen er gjentatt
+4. om overtrederen har eller kunne oppnådd noen fordel ved overtredelsen
+5. overtrederens økonomiske evne.
 
 Overtredelsesgebyret tilfaller statskassen.
 
@@ -250,7 +276,10 @@ Enhver plikter på forlangende, og uten hensyn til taushetsplikt, å gi undersø
 
 ### § 23 g. Tiltak for å fremskaffe opplysninger
 
-Undersøkelsesmyndigheten har rett til å benytte privat grunn og kan kreve å få undersøke og ta i besittelse relevante gjenstander, dokumenter og andre ting i den utstrekning den trenger det for å kunne utøve sitt verv. Herunder skal undersøkelsesmyndigheten ha rett tilå kreve en fullstendig obduksjon av de omkomne og til å få umiddelbar adgang til resultatene av slike undersøkelser eller tester av prøver som er tatt, ogå kreve legeundersøkelse av alle personer involvert i ulykken eller hendelsen, eller be om at det utføres tester på prøver som er tatt av slike personer, og ha umiddelbar tilgang til resultatet av slike undersøkelser eller tester.
+Undersøkelsesmyndigheten har rett til å benytte privat grunn og kan kreve å få undersøke og ta i besittelse relevante gjenstander, dokumenter og andre ting i den utstrekning den trenger det for å kunne utøve sitt verv. Herunder skal undersøkelsesmyndigheten ha rett til
+
+1. å kreve en fullstendig obduksjon av de omkomne og til å få umiddelbar adgang til resultatene av slike undersøkelser eller tester av prøver som er tatt, og
+2. å kreve legeundersøkelse av alle personer involvert i ulykken eller hendelsen, eller be om at det utføres tester på prøver som er tatt av slike personer, og ha umiddelbar tilgang til resultatet av slike undersøkelser eller tester.
 
 Om nødvendig kan undersøkelsesmyndigheten kreve bistand fra politiet.
 
@@ -282,7 +311,22 @@ Enhver som utfører tjeneste eller arbeid for undersøkelsesmyndigheten har taus
 
 Personer som nevnt i første ledd har også taushetsplikt for alle opplysninger undersøkelsesmyndigheten mottar, får utarbeidet eller selv utarbeider som ledd i undersøkelse av en ulykke eller alvorlig hendelse.
 
-Taushetsplikten etter første og annet ledd er likevel ikke til hinder forat opplysninger gjengis i en undersøkelsesrapport som nevnt i [§ 23 m](lov/2017-05-22-30/§23m) dersom det er nødvendig for å gi en tilstrekkelig redegjørelse for årsakene til en ulykke eller en alvorlig hendelse med det formålet og innenfor de rammene som følger av [§ 23 a](lov/2017-05-22-30/§23a/ledd/2) annet og tredje ledd. Rapporten skal ikke gjengiopplysninger som avslører identiteten til personer som har avgitt forklaring etter [§ 23 f](lov/2017-05-22-30/§23f),opplysninger av særlig følsom eller privat art, herunder detaljerte opplysninger om en persons helse,opplysninger som innebærer å ta stilling til noens strafferettslige eller sivilrettslige skyld eller ansvar, elleropplysninger som innebærer å ta stilling til om en person tilfredsstiller regelbestemte krav til å inneha en tillatelse som er relevant for undersøkelsen.Unntakene i bokstav b til d gjelder selv om personen er anonymisert.at opplysninger gis til tilsynsmyndigheten fordi det ellers vil være en vesentlig og nærliggende risiko for tap av liv eller skade på person som følge av at personell med oppgaver som kan påvirke sikkerheten for fornøyelsesinnretningen, har opptrådt på en måte som tilsier at vedkommende er klart uskikket til å inneha oppgavenat opplysninger gjøres kjent for dem som de direkte gjelder, eller for andre i den utstrekning undersøkelsesmyndigheten selv og andre som har krav på taushet samtykkerat opplysningene deles med andre som arbeider for undersøkelsesmyndigheten med den aktuelle undersøkelsenat opplysningene bringes videre i statistisk format opplysningene bringes videre når ingen berettiget interesse tilsier at de holdes hemmelig, for eksempel når de er alminnelig kjent eller alminnelig tilgjengelig andre stederat opplysninger gis videre til utenlandsk og internasjonal myndighet og organisasjon når dette følger av internasjonale avtaler Norge har inngått.
+Taushetsplikten etter første og annet ledd er likevel ikke til hinder for
+
+1. at opplysninger gjengis i en undersøkelsesrapport som nevnt i [§ 23 m](lov/2017-05-22-30/§23m) dersom det er nødvendig for å gi en tilstrekkelig redegjørelse for årsakene til en ulykke eller en alvorlig hendelse med det formålet og innenfor de rammene som følger av [§ 23 a](lov/2017-05-22-30/§23a/ledd/2) annet og tredje ledd. Rapporten skal ikke gjengi
+
+   1. opplysninger som avslører identiteten til personer som har avgitt forklaring etter [§ 23 f](lov/2017-05-22-30/§23f),
+   2. opplysninger av særlig følsom eller privat art, herunder detaljerte opplysninger om en persons helse,
+   3. opplysninger som innebærer å ta stilling til noens strafferettslige eller sivilrettslige skyld eller ansvar, eller
+   4. opplysninger som innebærer å ta stilling til om en person tilfredsstiller regelbestemte krav til å inneha en tillatelse som er relevant for undersøkelsen.
+
+   Unntakene i bokstav b til d gjelder selv om personen er anonymisert.
+2. at opplysninger gis til tilsynsmyndigheten fordi det ellers vil være en vesentlig og nærliggende risiko for tap av liv eller skade på person som følge av at personell med oppgaver som kan påvirke sikkerheten for fornøyelsesinnretningen, har opptrådt på en måte som tilsier at vedkommende er klart uskikket til å inneha oppgaven
+3. at opplysninger gjøres kjent for dem som de direkte gjelder, eller for andre i den utstrekning undersøkelsesmyndigheten selv og andre som har krav på taushet samtykker
+4. at opplysningene deles med andre som arbeider for undersøkelsesmyndigheten med den aktuelle undersøkelsen
+5. at opplysningene bringes videre i statistisk form
+6. at opplysningene bringes videre når ingen berettiget interesse tilsier at de holdes hemmelig, for eksempel når de er alminnelig kjent eller alminnelig tilgjengelig andre steder
+7. at opplysninger gis videre til utenlandsk og internasjonal myndighet og organisasjon når dette følger av internasjonale avtaler Norge har inngått.
 
 Taushetsplikten etter første og annet ledd er heller ikke til hinder for at det offentliggjøres opplysninger i dokumenter som undersøkelsesmyndigheten ikke selv har utarbeidet eller fått utarbeidet. Dette gjelder likevel ikke opplysninger som nevnt i tredje ledd nr. 1 bokstav a til d, opplysninger som er taushetspliktige etter [forvaltningsloven § 13](lov/1967-02-10/§13), og opplysninger som i utgangspunktet er omfattet av en strengere taushetspliktbestemmelse i særlov enn den som følger av tredje ledd nr. 1 bokstav a til d, eller [forvaltningsloven § 13](lov/1967-02-10/§13). Opplysningene kan heller ikke offentliggjøres etter første punktum dersom undersøkelsesmyndigheten mener at offentliggjøring kan bli brukt av andre til å vurdere sivilrettslig eller strafferettslig skyld eller ansvar eller dersom undersøkelsesmyndigheten har fått tilgang til dokumentet i tilknytning til forklaring som nevnt i [§ 23 f](lov/2017-05-22-30/§23f), og undersøkelsesmyndigheten anser opplysninger i dokumentet som en del av forklaringen.
 

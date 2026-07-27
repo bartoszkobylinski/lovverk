@@ -15,7 +15,7 @@ xml_hash: "157a848f86626317cd0dd0707b5e37cf8089f17079a2f0242d4d935b4dcb9e5f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften gjelderpå norsk territorium, inkludert norsk luftromom bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjonfor alle norske statsborgere og personer med bosted i Norgefor alle foretak registrert i Foretaksregisteretfor alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+Forskriften gjelder
+
+1. på norsk territorium, inkludert norsk luftrom
+2. om bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjon
+3. for alle norske statsborgere og personer med bosted i Norge
+4. for alle foretak registrert i Foretaksregisteret
+5. for alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
 Forskriften gjelder på Svalbard og Jan Mayen.
 
@@ -66,15 +72,72 @@ om restriktive tiltak mot alvorlige menneskerettsbrudd og -overgrep
 
 ### Artikkel 1
 
-I denne forordningen menes med«krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende før eller etter datoen for denne forordningens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,«kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,«kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,«formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eierandeler i penger eller finansielle ressurser,«EUs territorium»: territoriet til medlemsstatene der traktaten om Den europeiske union (TEU) kommer til anvendelse, på de vilkår som er fastsatt i TEU, herunder deres luftrom.
+I denne forordningen menes med
+
+1. «krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende før eller etter datoen for denne forordningens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særlig
+
+   1. krav om oppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,
+   2. krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,
+   3. krav om kompensasjon med hensyn til en kontrakt eller transaksjon,
+   4. motkrav,
+   5. krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,
+2. «kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,
+3. «kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,
+4. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+5. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,
+6. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+7. «penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+   2. innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+   4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+   6. remburser, konnossementer og pantebrev,
+   7. dokumenter som viser eierandeler i penger eller finansielle ressurser,
+8. «EUs territorium»: territoriet til medlemsstatene der traktaten om Den europeiske union (TEU) kommer til anvendelse, på de vilkår som er fastsatt i TEU, herunder deres luftrom.
 
 ### Artikkel 2
 
-1\. Denne forordning får anvendelse påfolkemord,forbrytelser mot menneskeheten,følgende alvorlige menneskerettsbrudd eller -overgrep:tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff,slaveri,utenomrettslige, summariske eller vilkårlige henrettelser og drap,personers tvungne forsvinning,vilkårlig fengsling og frihetsberøvelse,andre overgrep mot eller brudd på menneskerettighetene, herunder, men ikke begrenset til følgende, i den grad nevnte overgrep og brudd er utbredte, systematiske eller på annen måte gir grunn til alvorlig bekymring med hensyn til målene for den felles utenriks- og sikkerhetspolitikken fastsatt i artikkel 21 i TEU:menneskehandel og menneskerettsovergrep som begås av menneskesmuglere som nevnt i denne artikkelen,seksualisert og kjønnsbasert vold,overgrep mot eller brudd på friheten til å delta i fredelig forsamling og til å danne foreninger,overgrep mot eller brudd på menings- og ytringsfriheten,overgrep mot eller brudd på religions- og trosfriheten.
+1\. Denne forordning får anvendelse på
 
-2\. Ved anvendelse av nr. 1 bør det tas hensyn til folkerettslig sedvanerett og allment anerkjente folkerettslige instrumenter, somden internasjonale konvensjonen om sivile og politiske rettigheter,den internasjonale konvensjonen om økonomiske, sosiale og kulturelle rettigheter,overenskomsten om forhindring og avstraffelse av forbrytelsen folkemord,konvensjonen mot tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff,den internasjonale konvensjonen om avskaffelse av alle former for rasediskriminering,konvensjonen om å avskaffe alle former for diskriminering mot kvinner,konvensjonen om barnets rettigheter,den internasjonale konvensjonen om beskyttelse mot tvungen forsvinning,konvensjonen om rettighetene til mennesker med nedsatt funksjonsevne,protokollen om å hindre, bekjempe og straffe handel med mennesker, særlig kvinner og barn, som utfyller FN-konvensjonen mot grenseoverskridende organisert kriminalitet,[Roma-vedtektene om Den internasjonale straffedomstol](traktat/1998-07-17-2),den europeiske konvensjonen om beskyttelse av menneskerettighetene og de grunnleggende friheter.
+1. folkemord,
+2. forbrytelser mot menneskeheten,
+3. følgende alvorlige menneskerettsbrudd eller -overgrep:
 
-3\. For anvendelse av denne forordningen kan fysiske eller juridiske personer, enheter eller organer omfattestatlige aktører,andre aktører som utøver faktisk kontroll eller myndighet over et territorium,andre ikke-statlige aktører, i henhold til artikkel 1 nr. 4 i beslutning (FUSP) 2020/1999.
+   1. tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff,
+   2. slaveri,
+   3. utenomrettslige, summariske eller vilkårlige henrettelser og drap,
+   4. personers tvungne forsvinning,
+   5. vilkårlig fengsling og frihetsberøvelse,
+4. andre overgrep mot eller brudd på menneskerettighetene, herunder, men ikke begrenset til følgende, i den grad nevnte overgrep og brudd er utbredte, systematiske eller på annen måte gir grunn til alvorlig bekymring med hensyn til målene for den felles utenriks- og sikkerhetspolitikken fastsatt i artikkel 21 i TEU:
+
+   1. menneskehandel og menneskerettsovergrep som begås av menneskesmuglere som nevnt i denne artikkelen,
+   2. seksualisert og kjønnsbasert vold,
+   3. overgrep mot eller brudd på friheten til å delta i fredelig forsamling og til å danne foreninger,
+   4. overgrep mot eller brudd på menings- og ytringsfriheten,
+   5. overgrep mot eller brudd på religions- og trosfriheten.
+
+2\. Ved anvendelse av nr. 1 bør det tas hensyn til folkerettslig sedvanerett og allment anerkjente folkerettslige instrumenter, som
+
+1. den internasjonale konvensjonen om sivile og politiske rettigheter,
+2. den internasjonale konvensjonen om økonomiske, sosiale og kulturelle rettigheter,
+3. overenskomsten om forhindring og avstraffelse av forbrytelsen folkemord,
+4. konvensjonen mot tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff,
+5. den internasjonale konvensjonen om avskaffelse av alle former for rasediskriminering,
+6. konvensjonen om å avskaffe alle former for diskriminering mot kvinner,
+7. konvensjonen om barnets rettigheter,
+8. den internasjonale konvensjonen om beskyttelse mot tvungen forsvinning,
+9. konvensjonen om rettighetene til mennesker med nedsatt funksjonsevne,
+10. protokollen om å hindre, bekjempe og straffe handel med mennesker, særlig kvinner og barn, som utfyller FN-konvensjonen mot grenseoverskridende organisert kriminalitet,
+11. [Roma-vedtektene om Den internasjonale straffedomstol](traktat/1998-07-17-2),
+12. den europeiske konvensjonen om beskyttelse av menneskerettighetene og de grunnleggende friheter.
+
+3\. For anvendelse av denne forordningen kan fysiske eller juridiske personer, enheter eller organer omfatte
+
+1. statlige aktører,
+2. andre aktører som utøver faktisk kontroll eller myndighet over et territorium,
+3. andre ikke-statlige aktører, i henhold til artikkel 1 nr. 4 i beslutning (FUSP) 2020/1999.
 
 ### Artikkel 3
 
@@ -82,17 +145,35 @@ I denne forordningen menes med«krav»: ethvert omtvistet eller uomtvistet krav 
 
 2\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I.
 
-3\. Vedlegg I omfatter følgende, som fastlagt av Rådet i samsvar med artikkel 3 i beslutning (FUSP) 2020/1999:fysiske eller juridiske personer, enheter eller organer som er ansvarlige for handlinger oppført i artikkel 2 nr. 1,fysiske eller juridiske personer, enheter eller organer som gir økonomisk, teknisk eller materiell støtte til eller på annen måte er involvert i handlinger oppført i artikkel 2 nr. 1, herunder ved å planlegge, lede, bestille, bistå, forberede, legge til rette for eller oppmuntre til nevnte handlinger,fysiske eller juridiske personer, enheter eller organer som er forbundet med de fysiske eller juridiske personene, enhetene eller organene som omfattes av bokstav a) og b).
+3\. Vedlegg I omfatter følgende, som fastlagt av Rådet i samsvar med artikkel 3 i beslutning (FUSP) 2020/1999:
+
+1. fysiske eller juridiske personer, enheter eller organer som er ansvarlige for handlinger oppført i artikkel 2 nr. 1,
+2. fysiske eller juridiske personer, enheter eller organer som gir økonomisk, teknisk eller materiell støtte til eller på annen måte er involvert i handlinger oppført i artikkel 2 nr. 1, herunder ved å planlegge, lede, bestille, bistå, forberede, legge til rette for eller oppmuntre til nevnte handlinger,
+3. fysiske eller juridiske personer, enheter eller organer som er forbundet med de fysiske eller juridiske personene, enhetene eller organene som omfattes av bokstav a) og b).
 
 ### Artikkel 4
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 3 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, ellerskal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 3 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene
+
+1. er nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,
+2. utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,
+3. utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,
+4. er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, eller
+5. skal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 5
 
--1. [Artikkel 3 nr. 1](forskrift/2021-05-11-1458/a3/nummer/1) og [2](forskrift/2021-05-11-1458/a3/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, elleransatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
+-1. [Artikkel 3 nr. 1](forskrift/2021-05-11-1458/a3/nummer/1) og [2](forskrift/2021-05-11-1458/a3/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+1. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+2. internasjonale organisasjoner,
+3. humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+4. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+5. organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,
+6. medlemsstatenes særlige organer, eller
+7. ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
 
 -1a. Unntaket fastsatt i nr. -1 gjelder ikke de fysiske eller juridiske personene, enhetene eller organene som er markert med en stjerne i [vedlegg I](forskrift/2021-05-11-1458/vedleggI).
 
@@ -104,13 +185,21 @@ I denne forordningen menes med«krav»: ethvert omtvistet eller uomtvistet krav 
 
 ### Artikkel 6
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsen i artikkel 3 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 3 ble oppført i vedlegg I, eller for en rettslig eller administrativ beslutning fastsatt i EU eller en rettslig beslutning som er rettskraftig i vedkommende medlemsstat, før eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,avgjørelsen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, oganerkjennelse av beslutningen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsen i artikkel 3 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt at
+
+1. pengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 3 ble oppført i vedlegg I, eller for en rettslig eller administrativ beslutning fastsatt i EU eller en rettslig beslutning som er rettskraftig i vedkommende medlemsstat, før eller etter denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. avgjørelsen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, og
+4. anerkjennelse av beslutningen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 7
 
-1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg I, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsen i artikkel 3 nr. 1 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg I, ogbetalingen ikke er i strid med artikkel 3 nr. 2.
+1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg I, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsen i artikkel 3 nr. 1 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått at
+
+1. pengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg I, og
+2. betalingen ikke er i strid med artikkel 3 nr. 2.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
 
@@ -118,11 +207,20 @@ I denne forordningen menes med«krav»: ethvert omtvistet eller uomtvistet krav 
 
 1\. Bestemmelsen i artikkel 3 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført fra en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
 
-2\. Artikkel 3 nr. 2 får ikke anvendelse på beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 3 ble oppført i vedlegg I, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige avgjørelser som er fastsatt i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten,forutsatt at alle renter eller øvrige inntekter og betalinger fortsatt er omfattet av tiltakene fastsatt i artikkel 3 nr. 1.
+2\. Artikkel 3 nr. 2 får ikke anvendelse på beløp som tilføres frosne konti i form av
+
+1. renter eller annen avkastning på disse kontiene,
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 3 ble oppført i vedlegg I, eller
+3. beløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige avgjørelser som er fastsatt i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten,
+
+forutsatt at alle renter eller øvrige inntekter og betalinger fortsatt er omfattet av tiltakene fastsatt i artikkel 3 nr. 1.
 
 ### Artikkel 9
 
-1\. Med forbehold om gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organeromgående gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 3 nr. 1, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene nevnt i bokstav a).
+1\. Med forbehold om gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organer
+
+1. omgående gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 3 nr. 1, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, og
+2. samarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene nevnt i bokstav a).
 
 2\. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
 
@@ -140,7 +238,10 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 12
 
-1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, eller av en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene framsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a).
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, eller av en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene framsettes av
+
+1. fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,
+2. fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a).
 
 2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
 
@@ -148,7 +249,10 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 13
 
-1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig ompenger som er frosset i henhold til artikkel 3, og tillatelser som er gitt i henhold til artikkel 4, 5, 6 og 7,problemer med brudd på og håndheving av bestemmelsene samt rettsavgjørelser truffet av nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig om
+
+1. penger som er frosset i henhold til artikkel 3, og tillatelser som er gitt i henhold til artikkel 4, 5, 6 og 7,
+2. problemer med brudd på og håndheving av bestemmelsene samt rettsavgjørelser truffet av nasjonale domstoler.
 
 2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
 
@@ -178,7 +282,14 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 17
 
-1\. Rådet, Kommisjonen og EUs høye representant for utenriks- og sikkerhetspolitikk (heretter kalt «EUs høye representant») skal behandle personopplysninger for å kunne utføre oppgavene som pålagt dem i henhold til denne forordningen. Disse oppgavene består blant annet ifor Rådets del å utarbeide og foreta endringer av vedlegg I,for EUs høye representants del å utarbeide endringer av vedlegg I,for Kommisjonens delå føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer og enheter underlagt restriktive tiltak og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
+1\. Rådet, Kommisjonen og EUs høye representant for utenriks- og sikkerhetspolitikk (heretter kalt «EUs høye representant») skal behandle personopplysninger for å kunne utføre oppgavene som pålagt dem i henhold til denne forordningen. Disse oppgavene består blant annet i
+
+1. for Rådets del å utarbeide og foreta endringer av vedlegg I,
+2. for EUs høye representants del å utarbeide endringer av vedlegg I,
+3. for Kommisjonens del
+
+   1. å føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer og enheter underlagt restriktive tiltak og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,
+   2. å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
 
 2\. Der det er aktuelt, kan Rådet, Kommisjonen og EUs høye representant behandle relevante data om straffbare handlinger begått av listeførte fysiske personer og om straffedom eller sikkerhetstiltak mot slike personer, bare i den grad en slik behandling er nødvendig for å utarbeide vedlegg I.
 
@@ -194,7 +305,13 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 19
 
-Denne forordningen får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for alle fysiske personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
+Denne forordningen får anvendelse
+
+1. på EUs territorium, herunder i EUs luftrom,
+2. om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,
+3. for alle fysiske personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,
+4. for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,
+5. for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
 
 ### Artikkel 20
 

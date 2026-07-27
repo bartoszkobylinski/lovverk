@@ -15,7 +15,7 @@ xml_hash: "6f1d9fe475c4d82027a2150661b7df165554756daeb37c999a1e478c78e708e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,8 +28,12 @@ Denne forskriften omfatter personer som er medlem i trygden etter [folketrygdlov
 
 ## § 2. Avgiftsgrunnlag
 
-1. For rettigheter etter [kapitlene 5](lov/1997-02-28-19/kap5), [8](lov/1997-02-28-19/kap8), [9](lov/1997-02-28-19/kap9) og [14](lov/1997-02-28-19/kap14) i [folketrygdloven](lov/1997-02-28-19) skal avgift fastsettes i prosent av inntekt som nevnt i [skatteloven § 12-2](lov/1999-03-26-14/§12-2).Det skal ikke betales avgift når inntekten er mindre enn 99 650 kroner. Avgiften må ikke utgjøre mer enn 25 prosent av den del av inntekten som overstiger 99 650 kroner.
-2. For rettigheter etter [kapitlene 4](lov/1997-02-28-19/kap4), [6](lov/1997-02-28-19/kap6), [7](lov/1997-02-28-19/kap7), [10](lov/1997-02-28-19/kap10) til [13](lov/1997-02-28-19/kap13) og [15](lov/1997-02-28-19/kap15) til [20](lov/1997-02-28-19/kap20) i [folketrygdloven](lov/1997-02-28-19) skal avgiften fastsettes i prosent av pensjonsgivende inntekt, jf. [folketrygdloven § 3-15 første ledd](lov/1997-02-28-19/§3-15/ledd/1).Det skal ikke betales avgift når inntekten er mindre enn 99 650 kroner. Avgiften må ikke utgjøre mer enn 25 prosent av den del av inntekten som overstiger 99 650 kroner.
+1. For rettigheter etter [kapitlene 5](lov/1997-02-28-19/kap5), [8](lov/1997-02-28-19/kap8), [9](lov/1997-02-28-19/kap9) og [14](lov/1997-02-28-19/kap14) i [folketrygdloven](lov/1997-02-28-19) skal avgift fastsettes i prosent av inntekt som nevnt i [skatteloven § 12-2](lov/1999-03-26-14/§12-2).
+
+   Det skal ikke betales avgift når inntekten er mindre enn 99 650 kroner. Avgiften må ikke utgjøre mer enn 25 prosent av den del av inntekten som overstiger 99 650 kroner.
+2. For rettigheter etter [kapitlene 4](lov/1997-02-28-19/kap4), [6](lov/1997-02-28-19/kap6), [7](lov/1997-02-28-19/kap7), [10](lov/1997-02-28-19/kap10) til [13](lov/1997-02-28-19/kap13) og [15](lov/1997-02-28-19/kap15) til [20](lov/1997-02-28-19/kap20) i [folketrygdloven](lov/1997-02-28-19) skal avgiften fastsettes i prosent av pensjonsgivende inntekt, jf. [folketrygdloven § 3-15 første ledd](lov/1997-02-28-19/§3-15/ledd/1).
+
+   Det skal ikke betales avgift når inntekten er mindre enn 99 650 kroner. Avgiften må ikke utgjøre mer enn 25 prosent av den del av inntekten som overstiger 99 650 kroner.
 3. Når en person er medlem i folketrygdens pensjonsdel med hjemmel i [§ 2-7](lov/1997-02-28-19/§2-7), [§ 2-7 a](lov/1997-02-28-19/§2-7a) eller [§ 2-8](lov/1997-02-28-19/§2-8) og samtidig betaler trygdeavgift i Norge av personinntekt som nevnt i [skatteloven § 12-2 bokstav f](lov/1999-03-26-14/§12-2/bokstav/f) og [g](lov/1999-03-26-14/§12-2/bokstav/g), skal differansen mellom den fulle avgiften og avgiften for slik personinntekt og tilskudd fra staten innkreves av Arbeids- og velferdsetaten.
 
 ## § 3. Avgiftssatser
@@ -49,7 +53,9 @@ Avgiften som innbetales til trygdemyndighetene fastsettes til følgende prosents
 | Medlemmet<br>er skattepliktig i Norge | ORDINÆR TRYGDEAVGIFT<br>BETALES IKKE SAMMEN<br>MED SKATTEN TIL SKATTEMYNDIGHETENE<br><br>Arbeidsgiver plikter<br>ikke å betale arbeids-<br>giveravgift<br><br>Arbeidsgiver plikter<br>å betale arbeids-<br>giveravgift | 7,4<br><br><br><br>5,1 | 4,7<br><br><br><br>0,0 | 2,3<br><br><br><br>0,0 | 9,4<br><br><br><br>2,5 | 0,2<br><br><br><br>0,0 |
 | ORDINÆR TRYGDEAVGIFT<br>BETALES SAMMEN MED<br>SKATTEN TIL SKATTEMYNDIGHETENE<br><br>Arbeidsgiver plikter<br>ikke å betale arbeids-<br>giveravgift<br><br>Arbeidsgiver plikter å<br>betale arbeidsgiver-<br>avgift | 2,3<br><br><br><br>0,0 | 4,7<br><br><br><br>0,0 | 2,3<br><br><br><br>0,0 | 6,9<br><br><br><br>0,0 | 0,2<br><br><br><br>0,0 |  |
 
-\* Gjelder for begrenset rett til sykepenger mv. i utlandet etter [folketrygdloven § 8-9 annet ledd](lov/1997-02-28-19/§8-9/ledd/2).\*\* Omfatter også personer som ikke skattelignes i Norge etter bestemmelse i en skatteavtale.
+\* Gjelder for begrenset rett til sykepenger mv. i utlandet etter [folketrygdloven § 8-9 annet ledd](lov/1997-02-28-19/§8-9/ledd/2).
+
+\*\* Omfatter også personer som ikke skattelignes i Norge etter bestemmelse i en skatteavtale.
 
 ## § 4. Ikrafttredelse
 

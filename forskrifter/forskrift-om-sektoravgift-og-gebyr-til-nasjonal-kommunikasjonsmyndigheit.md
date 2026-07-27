@@ -15,7 +15,7 @@ xml_hash: "38fd42e4b9ef250ad3d4e91e897f741850a6a78ba6bbd355b8e47b1e9f03ca79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,26 @@ Formålet med forskrifta er å finansiere Nasjonal kommunikasjonsmyndigheit sine
 
 ## § 2. Fordelinga mellom aktørane
 
-Statsbudsjettet fastslår kvart år inntektsløyvinga til Nasjonal kommunikasjonsmyndigheit, som er summen Nasjonal kommunikasjonsmyndigheit kan krevje inn i sektoravgift og gebyr. Sektoravgifta blir berekna etter anslått ressursbruk for oppgåvene Nasjonal kommunikasjonsmyndigheit utfører. Av det årlege beløpet kan Nasjonal kommunikasjonsmyndigheit krevje inn53,8 % fråtilbydarar av elektronisk kommunikasjonsnett og elektronisk kommunikasjonsteneste,utbyggjarar av breiband og nettoperatørar,tilbydarar etter lov om elektroniske tillitstenester,datasenteroperatørarinnehavarar av løyve til å bruke nummer-, namn- og adresseressursar,verksemd som deler ut domenenamn under norske landtoppdomene.35,5 %frå innehavarar av frekvensløyve,for koordinering av satellittsystem.7,3 % fråregistrerte importørar, produsentar og radioforhandlarar,innehavarar av løyve for aeromobilt utstyr, nødpeilesendarar og anna radioutstyr,autorisert verksemd.3,4 % frå tilbydarar av posttenester.
+Statsbudsjettet fastslår kvart år inntektsløyvinga til Nasjonal kommunikasjonsmyndigheit, som er summen Nasjonal kommunikasjonsmyndigheit kan krevje inn i sektoravgift og gebyr. Sektoravgifta blir berekna etter anslått ressursbruk for oppgåvene Nasjonal kommunikasjonsmyndigheit utfører. Av det årlege beløpet kan Nasjonal kommunikasjonsmyndigheit krevje inn
+
+1. 53,8 % frå
+
+   - tilbydarar av elektronisk kommunikasjonsnett og elektronisk kommunikasjonsteneste,
+   - utbyggjarar av breiband og nettoperatørar,
+   - tilbydarar etter lov om elektroniske tillitstenester,
+   - datasenteroperatørar
+   - innehavarar av løyve til å bruke nummer-, namn- og adresseressursar,
+   - verksemd som deler ut domenenamn under norske landtoppdomene.
+2. 35,5 %
+
+   - frå innehavarar av frekvensløyve,
+   - for koordinering av satellittsystem.
+3. 7,3 % frå
+
+   - registrerte importørar, produsentar og radioforhandlarar,
+   - innehavarar av løyve for aeromobilt utstyr, nødpeilesendarar og anna radioutstyr,
+   - autorisert verksemd.
+4. 3,4 % frå tilbydarar av posttenester.
 
 Løyvinga i statsbudsjettet til Radiostøykontrollen reduserer sektoravgifta for frekvensløyve og koordinering av satellittsystem, jf. fyrste ledd nummer 2. Løyvinga i statsbudsjettet til administrasjon av statleg tilskott til breiband fordelast på forvaltningsområda.
 
@@ -56,11 +75,38 @@ Departementet kan årleg utan høyring, jf. [forvaltningsloven § 37 fjerde ledd
 
 ## § 6. Sektoravgift og gebyr for løyve til bruk av nummer, namn og adresser
 
-Sektoravgifta for løyve til å bruke nummer i norsk nummerplan for telefon m.m. (E.164) erfor 8- og 12-sifra nummer kr 14 540, eller der dette gir høgare avgiftfor 8-sifra nummer i 8xx-serien kr 0,18 for kvart nummerfor nummer i seriane 2, 3, 5, 6, og 7 kr 0,03 for kvart nummerfor 8-sifra nummer i seriane 4 og 9 kr 0,12 for kvart nummerfor 4-sifra nummer i serien 18xx kr 4 350 for kvart nummerfor 5-sifra nummer kr 2 320 for kvart nummerfor 6-sifra EØS-harmoniserte nummer kr 2 910 for kvart nummerfor kvart prefiks for val av tilbydar av elektronisk kommunikasjonsnett som blir brukt til offentleg tilgjengeleg elektronisk kommunikasjonsteneste kr 4 350.
+Sektoravgifta for løyve til å bruke nummer i norsk nummerplan for telefon m.m. (E.164) er
 
-Sektoravgifta for løyve til å bruke nummer i andre nasjonale, obligatoriske nummerplanar erfor X.121 DNIC kr 4 350for X.121 PNIC (DNIC + 2 eller 3 siffer) kr 4 350for E.118 kortutgivarkode (IIN) kr 4 350for E.167 ISDN-nettkode for lukka brukargrupper kr 4 350for E.212 mobil nettkode (MNC) kr 4 350for E.214 nettkode (NC) for landmobile nett kr 4 350for Q.704 punktkodar for nasjonal signalering (NI=3) uavhengig av kor mange punktkodar som blir disponerte kr 4 350for Q.708 punktkodar for internasjonal signalering (NI=0) kr 4 350 for kvar punktkodefor T.35 leverandørkode kr 4 350for tilbydarkode for tilbydarportabilitet kr 4 350.
+1. for 8- og 12-sifra nummer kr 14 540, eller der dette gir høgare avgift
 
-Gebyr for løyve til å bruke og registrere nummerressursar etter frivillige nummerplanar er kr 1 970for registrering av ADMD domenenamn for X.400 elektronisk postfor registrering av PRMD domenenamn for X.400 elektronisk postfor løyve til å bruke EDI-identifikator for bruk i EDIFACTfor løyve til å bruke ISO-DCC nettadresse (NSAP-adresse)for løyve til å bruke objektidentifikator.
+   1. for 8-sifra nummer i 8xx-serien kr 0,18 for kvart nummer
+   2. for nummer i seriane 2, 3, 5, 6, og 7 kr 0,03 for kvart nummer
+   3. for 8-sifra nummer i seriane 4 og 9 kr 0,12 for kvart nummer
+2. for 4-sifra nummer i serien 18xx kr 4 350 for kvart nummer
+3. for 5-sifra nummer kr 2 320 for kvart nummer
+4. for 6-sifra EØS-harmoniserte nummer kr 2 910 for kvart nummer
+5. for kvart prefiks for val av tilbydar av elektronisk kommunikasjonsnett som blir brukt til offentleg tilgjengeleg elektronisk kommunikasjonsteneste kr 4 350.
+
+Sektoravgifta for løyve til å bruke nummer i andre nasjonale, obligatoriske nummerplanar er
+
+1. for X.121 DNIC kr 4 350
+2. for X.121 PNIC (DNIC + 2 eller 3 siffer) kr 4 350
+3. for E.118 kortutgivarkode (IIN) kr 4 350
+4. for E.167 ISDN-nettkode for lukka brukargrupper kr 4 350
+5. for E.212 mobil nettkode (MNC) kr 4 350
+6. for E.214 nettkode (NC) for landmobile nett kr 4 350
+7. for Q.704 punktkodar for nasjonal signalering (NI=3) uavhengig av kor mange punktkodar som blir disponerte kr 4 350
+8. for Q.708 punktkodar for internasjonal signalering (NI=0) kr 4 350 for kvar punktkode
+9. for T.35 leverandørkode kr 4 350
+10. for tilbydarkode for tilbydarportabilitet kr 4 350.
+
+Gebyr for løyve til å bruke og registrere nummerressursar etter frivillige nummerplanar er kr 1 970
+
+1. for registrering av ADMD domenenamn for X.400 elektronisk post
+2. for registrering av PRMD domenenamn for X.400 elektronisk post
+3. for løyve til å bruke EDI-identifikator for bruk i EDIFACT
+4. for løyve til å bruke ISO-DCC nettadresse (NSAP-adresse)
+5. for løyve til å bruke objektidentifikator.
 
 > Endra ved forskrifter [25 juni 2025 nr. 1325](forskrift/2025-06-25-1325) (i kraft 1 juli 2025 med veknad frå 1 jan 2025), [29 jan 2026 nr. 113](forskrift/2026-01-29-113) (i kraft 1 feb 2026 med verknad frå 1 jan 2026).
 
@@ -92,7 +138,11 @@ Nasjonal kommunikasjonsmyndigheit kan i enkeltvedtak nærmare fastsetje kva slag
 
 ## § 9a. Sektoravgift for datasenteroperatørar
 
-Nasjonal kommunikasjonsmyndigheit kan i enkeltvedtak fastsetje og krevje inn ei sektoravgift frå datasenteroperatørar somtilbyr andre tilgang til datasenterteneste mot vederlag,driv datasenter med en abonnert elektrisk effekt på meir enn 0,5 MW, ellerer underlagt [sikkerhetsloven](lov/2018-06-01-24).
+Nasjonal kommunikasjonsmyndigheit kan i enkeltvedtak fastsetje og krevje inn ei sektoravgift frå datasenteroperatørar som
+
+1. tilbyr andre tilgang til datasenterteneste mot vederlag,
+2. driv datasenter med en abonnert elektrisk effekt på meir enn 0,5 MW, eller
+3. er underlagt [sikkerhetsloven](lov/2018-06-01-24).
 
 Sektoravgifta omfattar også Nasjonal kommunikasjonsmyndigheit sine forvaltningsoppgåver som sektormyndigheit etter [sikkerhetsloven](lov/2018-06-01-24). Sektoravgifta skal fordelast forholdsmessig mellom datasenteroperatørar etter fyrste ledd.
 
@@ -130,7 +180,11 @@ Innehavar av sendarløyve for Profesjonell Mobil Radio eller lågeffektsystem ti
 
 ## § 13. Sektoravgift og gebyr for sendarløyve i frekvensband over 30 MHz som er planlagt for kringkastingstenester
 
-Innehavar av sendarløyve for kringkastingsnett i frekvensband over 30 MHz som ikkje er riksdekkjande skal betale ei sektoravgift på kr 2 680 for kvart nett. I tillegg skal innehavar betale følgjande sektoravgift for kvar sendar innehavar har, avhengig av sendareffekt:Kr 640 for sendareffekt mindre enn 50 WKr 1 030 for sendareffekt frå 50 W til 1000 WKr 2 110 for sendareffekt høgare enn 1000 W.
+Innehavar av sendarløyve for kringkastingsnett i frekvensband over 30 MHz som ikkje er riksdekkjande skal betale ei sektoravgift på kr 2 680 for kvart nett. I tillegg skal innehavar betale følgjande sektoravgift for kvar sendar innehavar har, avhengig av sendareffekt:
+
+1. Kr 640 for sendareffekt mindre enn 50 W
+2. Kr 1 030 for sendareffekt frå 50 W til 1000 W
+3. Kr 2 110 for sendareffekt høgare enn 1000 W.
 
 Innehavar av sendarløyve til enkeltståande arrangement eller med tilsvarande kort varigheit, i frekvensband over 30 MHz som er planlagt for kringkastingstenester, skal betale kr 3 260 i gebyr ved tildelinga av løyvet.
 
@@ -182,7 +236,10 @@ Innehavar av sendarløyve som ikkje inngår i første til tredje ledd, skal beta
 
 Det samla beløpet som blir krevje inn frå innehavarar av spektrumsløyve etter denne paragrafen, er beløpet etter [§ 2 første ledd](forskrift/2024-01-17-79/§2/ledd/1) nummer 2 etter frådrag for sektoravgift og gebyr etter [§ 11](forskrift/2024-01-17-79/§11) til [§ 14](forskrift/2024-01-17-79/§14) og [§ 16](forskrift/2024-01-17-79/§16).
 
-Innehavarane av spektrumsløyve skal betale ei sektoravgift som består av to delar utrekna slik:20 % av beløpet etter første ledd blir fordelt mellom innehavarane av spektrumsløyve med ein lik del for kvar samanhengande frekvensblokk dei disponerer.80 % av beløpet etter første ledd blir fordelt mellom innehavarane av spektrumsløyva i høve til Nasjonal kommunikasjonsmyndigheit ressursbruk og bandbreidda som kvart spektrumsløyve omfattar. Dette gjerast slik at beløpet blir fordelt på kvar samanhengande frekvensblokk som kvart spektrumsløyve omfattar ved at vekta bandbreidde rekna ut etter tredje ledd, blir delt på den samla vekta bandbreidda for alle spektrumsløyva det skal betalast sektoravgift for etter denne paragrafen, og multiplisert med beløpet etter første punktum.
+Innehavarane av spektrumsløyve skal betale ei sektoravgift som består av to delar utrekna slik:
+
+1. 20 % av beløpet etter første ledd blir fordelt mellom innehavarane av spektrumsløyve med ein lik del for kvar samanhengande frekvensblokk dei disponerer.
+2. 80 % av beløpet etter første ledd blir fordelt mellom innehavarane av spektrumsløyva i høve til Nasjonal kommunikasjonsmyndigheit ressursbruk og bandbreidda som kvart spektrumsløyve omfattar. Dette gjerast slik at beløpet blir fordelt på kvar samanhengande frekvensblokk som kvart spektrumsløyve omfattar ved at vekta bandbreidde rekna ut etter tredje ledd, blir delt på den samla vekta bandbreidda for alle spektrumsløyva det skal betalast sektoravgift for etter denne paragrafen, og multiplisert med beløpet etter første punktum.
 
 Kvar samanhengande frekvensblokk eit spektrumsløyve omfattar blir tilordna ei vekt i høve til bandbreidda og ei vekt i høve til Nasjonal kommunikasjonsmyndigheit sin ressursbruk. Vekta bandbreidde blir rekna ut ved at vekta i høve til bandbreidda blir multiplisert med vekta i høve til Nasjonal kommunikasjonsmyndigheit sin ressursbruk. Vekta i høve til bandbreidde er lik 1/f, der f er senterfrekvensen i det frekvensbandet frekvensblokka ligg i. Vekta i høve til Nasjonal kommunikasjonsmyndigheit sins ressursbruk følgjer av tabellen under. For frekvensband som ikkje er nemnde i tabellen, vert vekta lik 1. For regionale løyve blir vekta multiplisert med brøkdelen av befolkninga i Noreg som er busett i dekningsområdet for løyvet. For løyve som gjeld på Svalbard blir vekta multiplisert med 1/100. For løyve som gjeld offshore blir vekta multiplisert med 1/5.
 
@@ -211,7 +268,15 @@ Kvar samanhengande frekvensblokk eit spektrumsløyve omfattar blir tilordna ei v
 
 ## § 16. Andre sektoravgifter og gebyr for frekvensløyve og koordinering av satellittsystem
 
-Nasjonal kommunikasjonsmyndigheit kan ved enkeltvedtak fastsetje og krevje inn ei sektoravgift for:internasjonal koordinering av satellittsystem,tildeling av løyve og tilsynsførsel med jordstasjonar for satellitt på Svalbard og i Antarktis,frekvensløyve til Forsvaret,sendarløyve i frekvensband planlagt for kringkastingstenester med sendarar i frekvensband lågare enn 30 MHz,sendarløyve for lokale, private nett i 3800–4200 MHz-bandet og 26 GHz-bandet,frekvensløyve for maritim radioverksemd, ogfor frekvensløyve til luftfartsverksemd.
+Nasjonal kommunikasjonsmyndigheit kan ved enkeltvedtak fastsetje og krevje inn ei sektoravgift for:
+
+1. internasjonal koordinering av satellittsystem,
+2. tildeling av løyve og tilsynsførsel med jordstasjonar for satellitt på Svalbard og i Antarktis,
+3. frekvensløyve til Forsvaret,
+4. sendarløyve i frekvensband planlagt for kringkastingstenester med sendarar i frekvensband lågare enn 30 MHz,
+5. sendarløyve for lokale, private nett i 3800–4200 MHz-bandet og 26 GHz-bandet,
+6. frekvensløyve for maritim radioverksemd, og
+7. for frekvensløyve til luftfartsverksemd.
 
 Nasjonal kommunikasjonsmyndigheit kan ved enkeltvedtak fastsetje og krevje inn gebyr eller sektoravgift for frekvensløyve som ikkje er omfatta av første ledd eller [§ 11](forskrift/2024-01-17-79/§11) til [§ 15](forskrift/2024-01-17-79/§15).
 
@@ -219,7 +284,11 @@ Nasjonal kommunikasjonsmyndigheit kan ved enkeltvedtak fastsetje og krevje inn g
 
 ## § 17. Sektoravgift og gebyr for løyve for aeromobilt radioutstyr
 
-Gebyr for registrering av installert radioutstyr i luftfartøy erfor fullt utstyrt luftfartøy over 9 000 kg, kr 1 680for fullt utstyrt luftfartøy under 9 000 kg, kr 1 220for luftfartøy som ikkje er fullt utstyrt, kr 690.
+Gebyr for registrering av installert radioutstyr i luftfartøy er
+
+1. for fullt utstyrt luftfartøy over 9 000 kg, kr 1 680
+2. for fullt utstyrt luftfartøy under 9 000 kg, kr 1 220
+3. for luftfartøy som ikkje er fullt utstyrt, kr 690.
 
 Sektoravgifta for løyve for aeromobilt radiokommunikasjonsutstyr, radionavigasjonsutstyr, pulsutstyr og nødpeilesendar (ELT) om bord i luftfartøy, er kr 690.
 

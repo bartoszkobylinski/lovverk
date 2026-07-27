@@ -15,7 +15,7 @@ xml_hash: "0545eabba47eb299ebd26ea8661ca1599c3ec7b69ef36e1854cd3db7088caba9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,12 @@ Forskriften skal bidra til god helse og trivsel hos produksjonsdyr.
 
 Forskriften gjelder for alle virveldyr som avles eller holdes for produksjon av mat, ull, hud eller pels, eller for andre produksjonsformål.
 
-Forskriften gjelder ikke for:Fisk, reptiler og amfibier.Viltlevende dyr.Dyr som utelukkende holdes for deltakelse i konkurranser, utstillinger, oppvisninger eller andre kultur- eller sportsaktiviteter. Slike dyr vil omfattes av forskriften dersom de helt eller delvis holdes for avl av konkurranse-, kultur- eller sportsdyr.Forsøks- eller laboratoriedyr.
+Forskriften gjelder ikke for:
+
+1. Fisk, reptiler og amfibier.
+2. Viltlevende dyr.
+3. Dyr som utelukkende holdes for deltakelse i konkurranser, utstillinger, oppvisninger eller andre kultur- eller sportsaktiviteter. Slike dyr vil omfattes av forskriften dersom de helt eller delvis holdes for avl av konkurranse-, kultur- eller sportsdyr.
+4. Forsøks- eller laboratoriedyr.
 
 Bestemmelsene i denne forskriften skal gjelde framfor bestemmelser i forskrifter om velferd for særskilte dyrearter som stiller svakere krav til dyrevelferden enn denne forskriften.
 

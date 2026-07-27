@@ -28,7 +28,13 @@ Formålet med forskriften er å bidra til forsvarlig og effektiv saksbehandling 
 
 ## § 2. Virkeområde
 
-Forskriften gjelder tildeling av behandlingsreise tilpasienter med kroniske inflammatoriske revmatiske leddsykdommerpasienter med postpoliosyndrompasienter fra 4 år med psoriasis eller barneleddgikt (juvenil idiopatisk artritt)pasienter fra 3 år til fylte 18 år med astma, kronisk lungesykdom eller atopisk eksempasienter med amyotrofisk lateralsklerose.
+Forskriften gjelder tildeling av behandlingsreise til
+
+1. pasienter med kroniske inflammatoriske revmatiske leddsykdommer
+2. pasienter med postpoliosyndrom
+3. pasienter fra 4 år med psoriasis eller barneleddgikt (juvenil idiopatisk artritt)
+4. pasienter fra 3 år til fylte 18 år med astma, kronisk lungesykdom eller atopisk eksem
+5. pasienter med amyotrofisk lateralsklerose.
 
 > Endret ved [forskrift 18 des 2018 nr. 2088](forskrift/2018-12-18-2088) (i kraft 1 jan 2019).
 
@@ -38,7 +44,11 @@ Behandlingsreise er et organisert diagnosespesifikt behandlingstilbud i land med
 
 ## § 4. Vilkår for tildeling av behandlingsreiser
 
-Behandlingsreiser kan bare tildeles søkere somer medlem i folketrygden med rett til stønad ved helsetjenester og som har fast bosted i rikethar en diagnose som nevnt i [§ 2](forskrift/2017-06-16-749/§2) oghar behov for og forventet nytte av en behandlingsreise.
+Behandlingsreiser kan bare tildeles søkere som
+
+1. er medlem i folketrygden med rett til stønad ved helsetjenester og som har fast bosted i riket
+2. har en diagnose som nevnt i [§ 2](forskrift/2017-06-16-749/§2) og
+3. har behov for og forventet nytte av en behandlingsreise.
 
 Behandlingsreise kan ikke tildeles søkeren dersom det er risiko for at søkerens helsetilstand kan bli betydelig forverret eller at det kan oppstå alvorlige komplikasjoner under behandlingsreisen.
 
@@ -50,7 +60,10 @@ For barn skal diagnostisering foretas av barnelege eller av lege med spesialistg
 
 ## § 6. Prioritering av søkere
 
-Prioritering av søkerne skal skje etter en samlet vurdering avsykdommens omfang, sykdomsaktivitet og mulige senfølger ogbehovet for og forventet nytte av behandlingsreisen.
+Prioritering av søkerne skal skje etter en samlet vurdering av
+
+1. sykdommens omfang, sykdomsaktivitet og mulige senfølger og
+2. behovet for og forventet nytte av behandlingsreisen.
 
 Dersom søkere vurderes likestilt etter første ledd, skal søkere som har liten nytte av eller begrenset tilgang til annen behandling prioriteres.
 
@@ -58,7 +71,10 @@ Dersom søker tidligere har deltatt på behandlingsreise, kan det legges vekt p�
 
 ## § 7. Rett til ledsager
 
-Rett til å ha med én ledsager harpasienter under 14 årpasienter som på grunn av nedsatt funksjonsevne har behov for ledsager.
+Rett til å ha med én ledsager har
+
+1. pasienter under 14 år
+2. pasienter som på grunn av nedsatt funksjonsevne har behov for ledsager.
 
 Dersom det foreligger særskilte behov eller omstendigheter, kan pasienter mellom 14 og 18 år gis rett til å ha med én ledsager.
 

@@ -16,7 +16,7 @@ xml_hash: "7bcc38dbfd7c28de5d439ae511af7d5d5a7e1e205bf3f41820194e6b6c842c1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -97,27 +97,68 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål og virkeområde
 
-Denne forordningen fastsetter samme minstehyppighet for offentlig kontroll, særlig inspeksjoner, av dyr og avlsmateriale og av forholdene de holdes eller produseres under, på følgende anlegg:Godkjente anlegg for holdte landdyr og rugeegg som nevnt i artikkel 1 nr. 1 bokstav a) i delegert forordning [(EU) 2019/2035](eu/32019r2035).Godkjente anlegg for avlsmateriale som nevnt i artikkel 3 i delegert forordning [(EU) 2020/686](eu/32020r0686).Visse akvakulturanlegg godkjent i henhold til artikkel 176 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) og grupper av akvakulturanlegg godkjent i henhold til artikkel 177 i samme forordning.Registrerte anlegg for holdte landdyr som nevnt i artikkel 1 nr. 1 bokstav a) i delegert forordning [(EU) 2019/2035](eu/32019r2035) som holder storfe, sau eller geit.
+Denne forordningen fastsetter samme minstehyppighet for offentlig kontroll, særlig inspeksjoner, av dyr og avlsmateriale og av forholdene de holdes eller produseres under, på følgende anlegg:
+
+1. Godkjente anlegg for holdte landdyr og rugeegg som nevnt i artikkel 1 nr. 1 bokstav a) i delegert forordning [(EU) 2019/2035](eu/32019r2035).
+2. Godkjente anlegg for avlsmateriale som nevnt i artikkel 3 i delegert forordning [(EU) 2020/686](eu/32020r0686).
+3. Visse akvakulturanlegg godkjent i henhold til artikkel 176 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) og grupper av akvakulturanlegg godkjent i henhold til artikkel 177 i samme forordning.
+4. Registrerte anlegg for holdte landdyr som nevnt i artikkel 1 nr. 1 bokstav a) i delegert forordning [(EU) 2019/2035](eu/32019r2035) som holder storfe, sau eller geit.
 
 ### Artikkel 2. Definisjoner
 
-I denne forordningen gjelder følgende definisjoner fastsatt i forordning [(EU) nr. 2016/429](eu/32016r0429), delegert forordning [(EU) 2019/2035](eu/32019r2035), delegert forordning [(EU) 2020/686](eu/32020r0686), delegert forordning [(EU) 2020/688](eu/32020r0688)9 og delegert forordning [(EU) 2020/990](eu/32020r0990)10:«anlegg»: definisjonen i artikkel 4 nr. 27 i forordning [(EU) 2016/429](eu/32016r0429),«rugeri»: definisjonen i artikkel 4 nr. 47 i forordning [(EU) 2016/429](eu/32016r0429),«oppsamling»: definisjonen i artikkel 4 nr. 49 i forordning [(EU) 2016/429](eu/32016r0429),«oppsamlingssentral for hunder, katter og ildrer»: definisjonen i artikkel 2 nr. 7 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«dyremottak»: definisjonen i artikkel 2 nr. 8 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«kontrollstasjon»: definisjonen i artikkel 2 nr. 9 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«produksjonsanlegg som er isolert fra det omgivende miljøet»: definisjonen i artikkel 2 nr. 10 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«godkjent karanteneanlegg»: definisjonen i artikkel 3 nr. 9 i delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688),«avgrenset anlegg»: definisjonen i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429),«godkjent anlegg for avlsmateriale»: definisjonen i artikkel 2 nr. 2 i delegert forordning [(EU) 2020/686](eu/32020r0686),«godkjent akvakulturanlegg»: definisjonen i artikkel 2 nr. 10 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990),«godkjent gruppe av akvakulturanlegg»: definisjonen i artikkel 2 nr. 11 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990).
+I denne forordningen gjelder følgende definisjoner fastsatt i forordning [(EU) nr. 2016/429](eu/32016r0429), delegert forordning [(EU) 2019/2035](eu/32019r2035), delegert forordning [(EU) 2020/686](eu/32020r0686), delegert forordning [(EU) 2020/688](eu/32020r0688)9 og delegert forordning [(EU) 2020/990](eu/32020r0990)10:
 
-9 Delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse ved forflytning av landdyr og rugeegg innenfor Unionen (EUT L 174 av 3.6.2020, s. 140).10 Delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990) av 28. april 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse og helsesertifikater ved forflytning av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr innenfor Unionen (EUT L 221 av 10.7.2020, s. 42).
+1. «anlegg»: definisjonen i artikkel 4 nr. 27 i forordning [(EU) 2016/429](eu/32016r0429),
+2. «rugeri»: definisjonen i artikkel 4 nr. 47 i forordning [(EU) 2016/429](eu/32016r0429),
+3. «oppsamling»: definisjonen i artikkel 4 nr. 49 i forordning [(EU) 2016/429](eu/32016r0429),
+4. «oppsamlingssentral for hunder, katter og ildrer»: definisjonen i artikkel 2 nr. 7 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+5. «dyremottak»: definisjonen i artikkel 2 nr. 8 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+6. «kontrollstasjon»: definisjonen i artikkel 2 nr. 9 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+7. «produksjonsanlegg som er isolert fra det omgivende miljøet»: definisjonen i artikkel 2 nr. 10 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+8. «godkjent karanteneanlegg»: definisjonen i artikkel 3 nr. 9 i delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688),
+9. «avgrenset anlegg»: definisjonen i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429),
+10. «godkjent anlegg for avlsmateriale»: definisjonen i artikkel 2 nr. 2 i delegert forordning [(EU) 2020/686](eu/32020r0686),
+11. «godkjent akvakulturanlegg»: definisjonen i artikkel 2 nr. 10 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990),
+12. «godkjent gruppe av akvakulturanlegg»: definisjonen i artikkel 2 nr. 11 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990).
+
+9 Delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse ved forflytning av landdyr og rugeegg innenfor Unionen (EUT L 174 av 3.6.2020, s. 140).
+
+10 Delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990) av 28. april 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse og helsesertifikater ved forflytning av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr innenfor Unionen (EUT L 221 av 10.7.2020, s. 42).
 
 ### Artikkel 3. Samme minstehyppighet for inspeksjoner på visse godkjente anlegg
 
-Vedkommende myndigheter i medlemsstatene11 skal minst én gang hvert kalenderår utføre offentlig kontroll, særlig inspeksjoner, av dyr og rugeegg og under hvilke forhold dyrene og rugeeggene holdes eller produseres, på følgende typer anlegg på deres territorium som har fått godkjenning fra vedkommende myndighet:Rugerier og anlegg som holder fjørfe.Anlegg for oppsamling av hov- og klovdyr og fjørfe.Oppsamlingssentraler for hunder, katter og ildrer.Dyremottak for hunder, katter og ildrer.Kontrollstasjoner.Produksjonsanlegg for humler som er isolert fra det omgivende miljøet.Godkjente karanteneanlegg.Avgrensede anlegg.
+Vedkommende myndigheter i medlemsstatene11 skal minst én gang hvert kalenderår utføre offentlig kontroll, særlig inspeksjoner, av dyr og rugeegg og under hvilke forhold dyrene og rugeeggene holdes eller produseres, på følgende typer anlegg på deres territorium som har fått godkjenning fra vedkommende myndighet:
+
+1. Rugerier og anlegg som holder fjørfe.
+2. Anlegg for oppsamling av hov- og klovdyr og fjørfe.
+3. Oppsamlingssentraler for hunder, katter og ildrer.
+4. Dyremottak for hunder, katter og ildrer.
+5. Kontrollstasjoner.
+6. Produksjonsanlegg for humler som er isolert fra det omgivende miljøet.
+7. Godkjente karanteneanlegg.
+8. Avgrensede anlegg.
 
 11 I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### Artikkel 4. Samme minstehyppighet for inspeksjoner på godkjente anlegg for avlsmateriale
 
-Vedkommende myndigheter i medlemsstatene skal hvert år utføre offentlig kontroll, og særlig inspeksjoner, av avlsmateriale, unntatt rugeegg, og under hvilke forhold dette avlsmaterialet produseres, på følgende typer anlegg på deres territorium som har fått godkjenning fra vedkommende myndighet:Minst to ganger hvert kalenderår: Sædstasjoner for storfe og svin.Minst én gang hvert kalenderår:Sædstasjoner for sau, geit og hestedyr.Embryouttaks- eller embryoproduksjonsgrupper.Bearbeidingsanlegg for avlsmateriale.Lagre for avlsmateriale.
+Vedkommende myndigheter i medlemsstatene skal hvert år utføre offentlig kontroll, og særlig inspeksjoner, av avlsmateriale, unntatt rugeegg, og under hvilke forhold dette avlsmaterialet produseres, på følgende typer anlegg på deres territorium som har fått godkjenning fra vedkommende myndighet:
+
+1. Minst to ganger hvert kalenderår: Sædstasjoner for storfe og svin.
+2. Minst én gang hvert kalenderår:
+
+   1. Sædstasjoner for sau, geit og hestedyr.
+   2. Embryouttaks- eller embryoproduksjonsgrupper.
+   3. Bearbeidingsanlegg for avlsmateriale.
+   4. Lagre for avlsmateriale.
 
 ### Artikkel 5. Samme minstehyppighet for inspeksjoner på visse godkjente akvakulturanlegg og visse godkjente grupper av akvakulturanlegg
 
-Vedkommende myndighet i en medlemsstat skal utføre offentlig kontroll, og særlig inspeksjoner, av akvakulturdyr og under hvilke forhold disse dyrene holdes, på visse godkjente akvakulturanlegg og godkjente grupper av akvakulturanlegg på dens territorium. Ved denne offentlige kontrollen skal det tas hensyn til risikoklassifiseringen av det godkjente akvakulturanlegget eller den godkjente gruppen av akvakulturanlegg som fastsatt av vedkommende myndighet i samsvar med del 1 kapittel 1 punkt 1.2 i vedlegg VI til delegert forordning [(EU) 2020/689](eu/32020r0689), eller risikoklassifiseringen av anleggene i avhengige segmenter som omhandlet i artikkel 73 nr. 3 bokstav b) i nevnte forordning, som følger:Anlegg med høy risiko skal inspiseres minst én gang hvert kalenderår.Anlegg med middels høy risiko skal kontrolleres minst én gang hvert andre kalenderår.Anlegg med lav risiko skal kontrolleres minst én gang hvert tredje kalenderår.
+Vedkommende myndighet i en medlemsstat skal utføre offentlig kontroll, og særlig inspeksjoner, av akvakulturdyr og under hvilke forhold disse dyrene holdes, på visse godkjente akvakulturanlegg og godkjente grupper av akvakulturanlegg på dens territorium. Ved denne offentlige kontrollen skal det tas hensyn til risikoklassifiseringen av det godkjente akvakulturanlegget eller den godkjente gruppen av akvakulturanlegg som fastsatt av vedkommende myndighet i samsvar med del 1 kapittel 1 punkt 1.2 i vedlegg VI til delegert forordning [(EU) 2020/689](eu/32020r0689), eller risikoklassifiseringen av anleggene i avhengige segmenter som omhandlet i artikkel 73 nr. 3 bokstav b) i nevnte forordning, som følger:
+
+1. Anlegg med høy risiko skal inspiseres minst én gang hvert kalenderår.
+2. Anlegg med middels høy risiko skal kontrolleres minst én gang hvert andre kalenderår.
+3. Anlegg med lav risiko skal kontrolleres minst én gang hvert tredje kalenderår.
 
 ### Artikkel 6. Samme minstehyppighet for inspeksjoner på anlegg som holder storfe, sau og geit
 
@@ -133,7 +174,9 @@ Vedkommende myndighet i en medlemsstat skal hvert år utføre offentlig kontroll
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 4. februar 2022.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 4. februar 2022.
 
 |  |  |
 | --- | --- |
@@ -227,7 +270,10 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål og virkeområde
 
-1\. Denne forordningen utfyller forordning [(EU) 2017/625](eu/32017r0625) med hensyn til visse særlige regler om offentlig kontroll som medlemsstatenes vedkommende myndigheter11 utfører av dyr, produkter av animalsk opprinnelse og avlsmateriale for å verifisere overholdelsen av krav til dyrehelse som nevnt i artikkel 1 nr. 2 bokstav d) i nevnte forordning, og om nødvendig med hensyn til visse tiltak som treffes av vedkommende myndigheter etter offentlig kontrollpå visse anlegg som holder dyr,på visse anlegg der det samles opp, produseres, bearbeides eller oppbevares avlsmateriale.
+1\. Denne forordningen utfyller forordning [(EU) 2017/625](eu/32017r0625) med hensyn til visse særlige regler om offentlig kontroll som medlemsstatenes vedkommende myndigheter11 utfører av dyr, produkter av animalsk opprinnelse og avlsmateriale for å verifisere overholdelsen av krav til dyrehelse som nevnt i artikkel 1 nr. 2 bokstav d) i nevnte forordning, og om nødvendig med hensyn til visse tiltak som treffes av vedkommende myndigheter etter offentlig kontroll
+
+1. på visse anlegg som holder dyr,
+2. på visse anlegg der det samles opp, produseres, bearbeides eller oppbevares avlsmateriale.
 
 2\. Denne forordningen utfyller forordning [(EU) 2017/625](eu/32017r0625) med hensyn til særlige tiltak som treffes av vedkommende myndigheter i medlemsstatene etter offentlig kontroll av visse dyr av storfe i transitt.
 
@@ -235,29 +281,76 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 2. Definisjoner
 
-I denne forordningen gjelder følgende definisjoner fastsatt i forordning [(EU) nr. 2016/429](eu/32016r0429), delegert forordning [(EU) 2019/2035](eu/32019r2035), delegert forordning [(EU) 2020/686](eu/32020r0686), delegert forordning [(EU) 2020/688](eu/32020r0688), delegert forordning [(EU) 2020/692](eu/32020r0692) og delegert forordning [(EU) 2020/990](eu/32020r0990):«anlegg»: definisjonen i artikkel 4 nr. 27 i forordning [(EU) 2016/429](eu/32016r0429),«rugeri»: definisjonen i artikkel 4 nr. 47 i forordning [(EU) 2016/429](eu/32016r0429),«oppsamling»: definisjonen i artikkel 4 nr. 49 i forordning [(EU) 2016/429](eu/32016r0429),«oppsamlingssentral for hunder, katter og ildrer»: definisjonen i artikkel 2 nr. 7 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«dyremottak»: definisjonen i artikkel 2 nr. 8 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«kontrollstasjon»: definisjonen i artikkel 2 nr. 9 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«produksjonsanlegg som er isolert fra det omgivende miljøet»: definisjonen i artikkel 2 nr. 10 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«godkjent karanteneanlegg»: definisjonen i artikkel 3 nr. 9 i delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688),«avgrenset anlegg»: definisjonen i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429),«godkjent anlegg for avlsmateriale»: definisjonen i artikkel 2 nr. 2 i forordning [(EU) 2020/686](eu/32020r0686),«godkjent akvakulturanlegg»: definisjonen i artikkel 2 nr. 10 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990),«godkjent gruppe av akvakulturanlegg»: definisjonen i artikkel 2 nr. 11 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990),«anleggets veterinær»: definisjonen i artikkel 2 nr. 14 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«storfe»: definisjonen i artikkel 2 nr. 5 i delegert forordning [(EU) 2020/692](eu/32020r0692).
+I denne forordningen gjelder følgende definisjoner fastsatt i forordning [(EU) nr. 2016/429](eu/32016r0429), delegert forordning [(EU) 2019/2035](eu/32019r2035), delegert forordning [(EU) 2020/686](eu/32020r0686), delegert forordning [(EU) 2020/688](eu/32020r0688), delegert forordning [(EU) 2020/692](eu/32020r0692) og delegert forordning [(EU) 2020/990](eu/32020r0990):
+
+1. «anlegg»: definisjonen i artikkel 4 nr. 27 i forordning [(EU) 2016/429](eu/32016r0429),
+2. «rugeri»: definisjonen i artikkel 4 nr. 47 i forordning [(EU) 2016/429](eu/32016r0429),
+3. «oppsamling»: definisjonen i artikkel 4 nr. 49 i forordning [(EU) 2016/429](eu/32016r0429),
+4. «oppsamlingssentral for hunder, katter og ildrer»: definisjonen i artikkel 2 nr. 7 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+5. «dyremottak»: definisjonen i artikkel 2 nr. 8 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+6. «kontrollstasjon»: definisjonen i artikkel 2 nr. 9 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+7. «produksjonsanlegg som er isolert fra det omgivende miljøet»: definisjonen i artikkel 2 nr. 10 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+8. «godkjent karanteneanlegg»: definisjonen i artikkel 3 nr. 9 i delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688),
+9. «avgrenset anlegg»: definisjonen i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429),
+10. «godkjent anlegg for avlsmateriale»: definisjonen i artikkel 2 nr. 2 i forordning [(EU) 2020/686](eu/32020r0686),
+11. «godkjent akvakulturanlegg»: definisjonen i artikkel 2 nr. 10 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990),
+12. «godkjent gruppe av akvakulturanlegg»: definisjonen i artikkel 2 nr. 11 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990),
+13. «anleggets veterinær»: definisjonen i artikkel 2 nr. 14 i delegert forordning [(EU) 2019/2035](eu/32019r2035),
+14. «storfe»: definisjonen i artikkel 2 nr. 5 i delegert forordning [(EU) 2020/692](eu/32020r0692).
 
 ### Artikkel 3. Offentlig kontroll på visse godkjente anlegg
 
-1\. Offentlige veterinærer eller, for godkjente akvakulturanlegg og godkjente grupper av akvakulturanlegg, offentlige veterinærer eller offisielle fagpersoner på området akvatiske dyrs helse, skal utføre offentlig kontroll for å verifisere overholdelsen av krav til dyrehelse som er nevnt i artikkel 1 nr. 2 bokstav d) i forordning [(EU) 2017/625](eu/32017r0625), og som er fastsatt i og i samsvar med forordning [(EU) 2016/429](eu/32016r0429), på følgende typer anlegg som har fått godkjenning fra vedkommende myndighet:Rugerier og anlegg som holder fjørfe.Anlegg for oppsamling av hov- og klovdyr og fjørfe.Oppsamlingssentraler for hunder, katter og ildrer.Dyremottak for hunder, katter og ildrer.Kontrollstasjoner.Produksjonsanlegg for humler som er isolert fra det omgivende miljøet.Godkjente karanteneanlegg.Avgrensede anlegg.Godkjente anlegg for avlsmateriale.Godkjente akvakulturanlegg.Godkjente grupper av akvakulturanlegg.Ved den offentlige kontrollen nevnt i første ledd skal det særlig verifiseres at de driftsansvarlige for de godkjente anleggene fortsatt oppfyller godkjenningskravene for disse anleggene.
+1\. Offentlige veterinærer eller, for godkjente akvakulturanlegg og godkjente grupper av akvakulturanlegg, offentlige veterinærer eller offisielle fagpersoner på området akvatiske dyrs helse, skal utføre offentlig kontroll for å verifisere overholdelsen av krav til dyrehelse som er nevnt i artikkel 1 nr. 2 bokstav d) i forordning [(EU) 2017/625](eu/32017r0625), og som er fastsatt i og i samsvar med forordning [(EU) 2016/429](eu/32016r0429), på følgende typer anlegg som har fått godkjenning fra vedkommende myndighet:
+
+1. Rugerier og anlegg som holder fjørfe.
+2. Anlegg for oppsamling av hov- og klovdyr og fjørfe.
+3. Oppsamlingssentraler for hunder, katter og ildrer.
+4. Dyremottak for hunder, katter og ildrer.
+5. Kontrollstasjoner.
+6. Produksjonsanlegg for humler som er isolert fra det omgivende miljøet.
+7. Godkjente karanteneanlegg.
+8. Avgrensede anlegg.
+9. Godkjente anlegg for avlsmateriale.
+10. Godkjente akvakulturanlegg.
+11. Godkjente grupper av akvakulturanlegg.
+
+Ved den offentlige kontrollen nevnt i første ledd skal det særlig verifiseres at de driftsansvarlige for de godkjente anleggene fortsatt oppfyller godkjenningskravene for disse anleggene.
 
 2\. Den offentlige kontrollen nevnt i nr. 1 i denne artikkelen skal omfatte inspeksjoner som nevnt i artikkel 14 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625) som skal utføres minst i samsvar med minstehyppigheten, dersom det er fastsatt en slik minstehyppighet i Kommisjonens gjennomføringsforordning [(EU) 2022/160](eu/32022r0160)12.
 
-3\. Inspeksjonene nevnt i nr. 2 kan kombineres medoffentlig kontroll som nevnt i artikkel 9 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625),annen offentlig kontroll som nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625) for å verifisere at krav er overholdt, ellerannen offentlig kontroll eller andre inspeksjoner eller besøk som er fastsatt i EU-regler.
+3\. Inspeksjonene nevnt i nr. 2 kan kombineres med
+
+1. offentlig kontroll som nevnt i artikkel 9 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625),
+2. annen offentlig kontroll som nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625) for å verifisere at krav er overholdt, eller
+3. annen offentlig kontroll eller andre inspeksjoner eller besøk som er fastsatt i EU-regler.
 
 12 Kommisjonens gjennomføringsforordning [(EU) 2022/160](eu/32022r0160) av 4. februar 2022 om fastsettelse av samme minstehyppighet for visse offentlige kontroller for å verifisere overholdelsen av dyrehelsekravene i Unionen i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625), og om oppheving av forordning [(EF) nr. 1082/2003](eu/32003r1082) og [(EF) nr. 1505/2006](eu/32006r1505) (EUT L 26 av 7.2.2022, s. 11).
 
 ### Artikkel 4. Særlige regler for offentlig kontroll på avgrensede anlegg for landdyr
 
-Ved offentlig kontroll på avgrensede anlegg for landdyr skal den offisielle veterinæren særligverifisere ved å undersøke registeret over forflytninger at dyrene som føres inn på det gitte avgrensede anlegget, utelukkende kommer fra et annet avgrenset anlegg eller er satt i karantene i samsvar med del 9 nr. 1 i vedlegg I til delegert forordning [(EU) 2019/2035](eu/32019r2035),verifisere at resultatene av de kliniske undersøkelsene, laboratorieundersøkelsene og post mortem-undersøkelsene som det avgrensede anleggets veterinær har utført, utelukker enhver mistanke om listeførte eller nye sykdommer,dersom det er mistanke om forekomst av listeførte eller nye sykdommer, verifisere at den driftsansvarlige for det avgrensede anlegget underretter vedkommende myndighet om denne mistanken og reduserer den potensielle risikoen for at slike sykdommer sprer seg i og utenfor det avgrensede anlegget, ogrevidere virksomheten til det avgrensede anleggets veterinær og gjennomføringen og resultatene av sykdomsovervåkingsplanen nevnt i del 9 nr. 2 bokstav a) i vedlegg I til delegert forordning [(EU) 2019/2035](eu/32019r2035), og særlig verifisere at sykdomsovervåkingsplanen er blitt gjennomgått og oppdatert minst en gang om året i samsvar med disse kravene.
+Ved offentlig kontroll på avgrensede anlegg for landdyr skal den offisielle veterinæren særlig
+
+1. verifisere ved å undersøke registeret over forflytninger at dyrene som føres inn på det gitte avgrensede anlegget, utelukkende kommer fra et annet avgrenset anlegg eller er satt i karantene i samsvar med del 9 nr. 1 i vedlegg I til delegert forordning [(EU) 2019/2035](eu/32019r2035),
+2. verifisere at resultatene av de kliniske undersøkelsene, laboratorieundersøkelsene og post mortem-undersøkelsene som det avgrensede anleggets veterinær har utført, utelukker enhver mistanke om listeførte eller nye sykdommer,
+3. dersom det er mistanke om forekomst av listeførte eller nye sykdommer, verifisere at den driftsansvarlige for det avgrensede anlegget underretter vedkommende myndighet om denne mistanken og reduserer den potensielle risikoen for at slike sykdommer sprer seg i og utenfor det avgrensede anlegget, og
+4. revidere virksomheten til det avgrensede anleggets veterinær og gjennomføringen og resultatene av sykdomsovervåkingsplanen nevnt i del 9 nr. 2 bokstav a) i vedlegg I til delegert forordning [(EU) 2019/2035](eu/32019r2035), og særlig verifisere at sykdomsovervåkingsplanen er blitt gjennomgått og oppdatert minst en gang om året i samsvar med disse kravene.
 
 ### Artikkel 5. Særlige regler for offentlig kontroll for å verifisere overholdelsen av krav om identifikasjon og registrering av storfe, sau eller geit, og for oppfølgingstiltak ved manglende overholdelse av disse
 
 1\. Offentlig kontroll for å verifisere at krav om identifikasjon og registrering av storfe, sau eller geit er overholdt, skal omfatte inspeksjoner som omhandlet i artikkel 14 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625) av storfe, sau eller geit på anlegg som holder disse dyrene, utført minst i samsvar med minstehyppigheten fastsatt i artikkel 6 i gjennomføringsforordning [(EU) 2022/160](eu/32022r0160).
 
-2\. Inspeksjonene nevnt i nr. 1 kan kombineres medoffentlig kontroll som nevnt i artikkel 9 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625),annen offentlig kontroll som nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625) for å verifisere at krav er overholdt, ellerannen offentlig kontroll eller andre inspeksjoner eller besøk som er fastsatt i EU-regler.
+2\. Inspeksjonene nevnt i nr. 1 kan kombineres med
 
-3\. Når vedkommende myndighet velger ut anleggene som skal inspiseres, skal den ta hensyn til følgende kriterier i sin risikoanalyse i tillegg til dem som er fastsatt i artikkel 9 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625):Antallet dyr på anlegget.De dyreartene som finnes på og er identifisert på anlegget.Vesentlige endringer i forhold til det antallet dyr eller de dyreartene som har befunnet seg på anlegget i de siste fem årene.Eventuelle andre relevante kriterier fastsatt av medlemsstaten.
+1. offentlig kontroll som nevnt i artikkel 9 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625),
+2. annen offentlig kontroll som nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625) for å verifisere at krav er overholdt, eller
+3. annen offentlig kontroll eller andre inspeksjoner eller besøk som er fastsatt i EU-regler.
+
+3\. Når vedkommende myndighet velger ut anleggene som skal inspiseres, skal den ta hensyn til følgende kriterier i sin risikoanalyse i tillegg til dem som er fastsatt i artikkel 9 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625):
+
+1. Antallet dyr på anlegget.
+2. De dyreartene som finnes på og er identifisert på anlegget.
+3. Vesentlige endringer i forhold til det antallet dyr eller de dyreartene som har befunnet seg på anlegget i de siste fem årene.
+4. Eventuelle andre relevante kriterier fastsatt av medlemsstaten.
 
 4\. Dersom det foretas en inspeksjon som nevnt i nr. 1, skal vedkommende myndighet inspisere alt storfe og all sau og geit på anlegget.
 
@@ -279,7 +372,9 @@ Forordning [(EF) nr. 494/98](eu/31998r0494) oppheves.
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 4. februar 2022.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 4. februar 2022.
 
 |  |  |
 | --- | --- |

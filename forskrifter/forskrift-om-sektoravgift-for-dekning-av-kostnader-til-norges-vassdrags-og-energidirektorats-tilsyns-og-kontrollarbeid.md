@@ -28,13 +28,20 @@ Forskriften regulerer Norges vassdrags- og energidirektorats (NVE) adgang til å
 
 ## § 2. Virkeområde
 
-Forskriften gjelder fordeling, beregning og innkreving av sektoravgifter for følgende tilsynsområder:tilsyn og kontroll med fjernvarmeanlegg etter [energiloven kapittel 5](lov/1990-06-29-50/kap5).tilsyn og kontroll med drift, vedlikehold og modernisering av elektriske anlegg etter [energiloven kapittel 3](lov/1990-06-29-50/kap3).miljøtilsyn og kontroll med energianlegg etter [energiloven kapittel 3](lov/1990-06-29-50/kap3) og [5](lov/1990-06-29-50/kap5), og vassdragstiltak knyttet til oppfølging av krav fastsatt i eller i medhold av [vannressursloven](lov/2000-11-24-82) og [vassdragsreguleringsloven](lov/1917-12-14-17).
+Forskriften gjelder fordeling, beregning og innkreving av sektoravgifter for følgende tilsynsområder:
+
+1. tilsyn og kontroll med fjernvarmeanlegg etter [energiloven kapittel 5](lov/1990-06-29-50/kap5).
+2. tilsyn og kontroll med drift, vedlikehold og modernisering av elektriske anlegg etter [energiloven kapittel 3](lov/1990-06-29-50/kap3).
+3. miljøtilsyn og kontroll med energianlegg etter [energiloven kapittel 3](lov/1990-06-29-50/kap3) og [5](lov/1990-06-29-50/kap5), og vassdragstiltak knyttet til oppfølging av krav fastsatt i eller i medhold av [vannressursloven](lov/2000-11-24-82) og [vassdragsreguleringsloven](lov/1917-12-14-17).
 
 Forskriften gjelder ikke dekning av kostnader til oppfølging av bestemmelsene i [forskrift 18. desember 2009 nr. 1600 om sikkerhet ved vassdragsanlegg (damsikkerhetsforskriften)](forskrift/2009-12-18-1600) eller dekning av kostnader til oppfølging av bestemmelsene i [energiloven kapittel 9](lov/1990-06-29-50/kap9) og [forskrift 7. desember 2012 nr. 1157 om sikkerhet og beredskap i kraftforsyningen (kraftberedskapsforskriften)](forskrift/2012-12-07-1157).
 
 ## § 3. Fordelingen av kostnader mellom tilsynsområdene og innad i tilsynsområdene
 
-NVE fastsetter:hvordan kostnadene med tilsyns- og kontrollarbeidet skal fordeles mellom tilsynsområdene som er omfattet av denne forskrift, på grunnlag av anslått ressursbruk i NVEs årsregnskap siste regnskapsår,hvordan kostnadene skal fordeles mellom ulike typer konsesjonærer innenfor det enkelte tilsynsområde, på grunnlag av anslått tidsbruk med de ulike typene konsesjonærer.
+NVE fastsetter:
+
+1. hvordan kostnadene med tilsyns- og kontrollarbeidet skal fordeles mellom tilsynsområdene som er omfattet av denne forskrift, på grunnlag av anslått ressursbruk i NVEs årsregnskap siste regnskapsår,
+2. hvordan kostnadene skal fordeles mellom ulike typer konsesjonærer innenfor det enkelte tilsynsområde, på grunnlag av anslått tidsbruk med de ulike typene konsesjonærer.
 
 ## § 4. Periode for sektoravgift
 

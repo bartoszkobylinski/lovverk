@@ -15,7 +15,7 @@ xml_hash: "fb6af6491d89259e5a3526911948dc42a076ed7239902596755dab64911c7800"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -101,17 +101,34 @@ Dersom forbud eller begrensninger etter første eller andre ledd påvirker en l�
 
 ### § 9. Offentlige oppgaver
 
-Forbudet i [§ 5](lov/2026-06-19-53/§5) gjelder ikke motorferdsel som er nødvendigfor politiet, organisert redningstjeneste, ambulansetjenesten, brann- og redningsvesenet og det statlige naturoppsynetved lovhjemlet kontroll med at regelverk overholdesved Forsvarets øvelser og operative virksomhetved domstolenes transport knyttet til merking og oppmåling i jordskiftesakerfor å gjennomføre skjøtsel etter [naturmangfoldloven § 47](lov/2009-06-19-100/§47) og skjøtsel og vedlikehold etter [kulturminneloven §§ 11 første ledd bokstav a](lov/1978-06-09-50/§11/ledd/1/bokstav/a) og [21](lov/1978-06-09-50/§21), inkludert transport til slike områderfor transport utenfor [markalovens](lov/2009-06-05-35) virkeområde til områder som skal skjøttes etter [markaloven § 11](lov/2009-06-05-35/§11)ved naturrestaurering som utføres av eller på vegne av offentlige myndigheter.
+Forbudet i [§ 5](lov/2026-06-19-53/§5) gjelder ikke motorferdsel som er nødvendig
+
+1. for politiet, organisert redningstjeneste, ambulansetjenesten, brann- og redningsvesenet og det statlige naturoppsynet
+2. ved lovhjemlet kontroll med at regelverk overholdes
+3. ved Forsvarets øvelser og operative virksomhet
+4. ved domstolenes transport knyttet til merking og oppmåling i jordskiftesaker
+5. for å gjennomføre skjøtsel etter [naturmangfoldloven § 47](lov/2009-06-19-100/§47) og skjøtsel og vedlikehold etter [kulturminneloven §§ 11 første ledd bokstav a](lov/1978-06-09-50/§11/ledd/1/bokstav/a) og [21](lov/1978-06-09-50/§21), inkludert transport til slike områder
+6. for transport utenfor [markalovens](lov/2009-06-05-35) virkeområde til områder som skal skjøttes etter [markaloven § 11](lov/2009-06-05-35/§11)
+7. ved naturrestaurering som utføres av eller på vegne av offentlige myndigheter.
 
 Departementet kan gi forskrift som gir unntak fra forbudet i [§ 5](lov/2026-06-19-53/§5) om nødvendig motorferdsel for andre offentlige oppgaver.
 
 ### § 10. Veier og anlegg
 
-Forbudet i [§ 5](lov/2026-06-19-53/§5) gjelder ikke motorferdsel som er nødvendigfor etablering, drift, vedlikehold og fjerning av veierfor etablering, drift, vedlikehold og fjerning av infrastrukturanlegg og andre anlegg som tjener allmenne samfunnsbehov.
+Forbudet i [§ 5](lov/2026-06-19-53/§5) gjelder ikke motorferdsel som er nødvendig
+
+1. for etablering, drift, vedlikehold og fjerning av veier
+2. for etablering, drift, vedlikehold og fjerning av infrastrukturanlegg og andre anlegg som tjener allmenne samfunnsbehov.
 
 ### § 11. Viltforvaltning og uthenting av vilt
 
-Forbudet i [§ 5](lov/2026-06-19-53/§5) gjelder ikke motorferdsel som er nødvendigfor kommunen ved akuttiltak for å hindre at storvilt blir påkjørtfor kommunen ved ettersøk etter skadet storvilt og håndtering av fallvilt av storviltfor kommunale fellingslag, innenfor rammen av vedtak om skadefelling av rovvilt fattet av statsforvalteren eller direktoratetfor uthenting av felt elg, hjort, villsvin og bjørnfor registrerte lisensjegere på jerv ved utkjøring og tilsyn med jervebåser som er godkjent av statsforvalteren, og utkjøring av åte og åtebuer på vassdrag og snødekt mark. Lisens må være tilgjengelig under motorferdselen.
+Forbudet i [§ 5](lov/2026-06-19-53/§5) gjelder ikke motorferdsel som er nødvendig
+
+1. for kommunen ved akuttiltak for å hindre at storvilt blir påkjørt
+2. for kommunen ved ettersøk etter skadet storvilt og håndtering av fallvilt av storvilt
+3. for kommunale fellingslag, innenfor rammen av vedtak om skadefelling av rovvilt fattet av statsforvalteren eller direktoratet
+4. for uthenting av felt elg, hjort, villsvin og bjørn
+5. for registrerte lisensjegere på jerv ved utkjøring og tilsyn med jervebåser som er godkjent av statsforvalteren, og utkjøring av åte og åtebuer på vassdrag og snødekt mark. Lisens må være tilgjengelig under motorferdselen.
 
 Departementet kan gi forskrift om at bestemte kommuner gis adgang til å gi forskrift om unntak fra forbudet i [§ 5](lov/2026-06-19-53/§5) for uthenting av annet storvilt enn nevnt i første ledd bokstav d, for uthenting av sel, eller for annen transport i forbindelse med jakt.
 
@@ -149,7 +166,11 @@ Kommunen kan gi forskrift som begrenser eller forbyr bruk av fremkomstmidler som
 
 ### § 18. Åpent vassdrag
 
-Forbudet i [§ 5](lov/2026-06-19-53/§5) gjelder ikke motorferdsel på åpent vann påelverinnsjøer med overflateareal på over to kvadratkilometerinnsjøer som inngår i et vassdrag som er farbart med fartøy.
+Forbudet i [§ 5](lov/2026-06-19-53/§5) gjelder ikke motorferdsel på åpent vann på
+
+1. elver
+2. innsjøer med overflateareal på over to kvadratkilometer
+3. innsjøer som inngår i et vassdrag som er farbart med fartøy.
 
 Kommunen kan i forskrift eller i arealplan etter [plan- og bygningsloven](lov/2008-06-27-71) forby eller regulere ferdsel som er tillatt etter første ledd. Reguleringen kan blant annet gå ut på å begrense adgangen til motorferdsel til bestemte formål, tider, områder eller fremkomstmidler.
 
@@ -183,9 +204,20 @@ Forbudet i [§ 5](lov/2026-06-19-53/§5) gjelder ikke på åpent vann på innsj�
 
 ### § 25. Fastsetting av arealer til motorferdsel i arealplan etter plan- og bygningsloven
 
-Kommunen kan i kommuneplanens arealdel eller reguleringsplan etter [plan- og bygningsloven](lov/2008-06-27-71) fastsette følgende arealer der motorferdsel er tillatt etter kapittelet her:løyper for motorferdsel på snødekt mark og islagt vassdrag og tilhørende rastesoner, jf. [§ 20](lov/2026-06-19-53/§20)øvingsområder for obligatorisk kjøreopplæring på snødekt mark og islagt vassdrag, jf. [§ 21](lov/2026-06-19-53/§21)områder for motorsport, jf. [§ 22](lov/2026-06-19-53/§22)landingsplasser for luftfartøy, jf. [§ 23](lov/2026-06-19-53/§23)hele eller deler av innsjøer med overflateareal på mindre enn to kvadratkilometer, jf. [§ 24](lov/2026-06-19-53/§24).
+Kommunen kan i kommuneplanens arealdel eller reguleringsplan etter [plan- og bygningsloven](lov/2008-06-27-71) fastsette følgende arealer der motorferdsel er tillatt etter kapittelet her:
 
-Arealer etter første ledd bokstav a til e kan ikke legges iforeslåtte verneområder som er kunngjort etter [naturmangfoldloven § 42](lov/2009-06-19-100/§42)verneområder, med mindre verneforskriften åpner for detvillreinområder, unntatt arealer etter første ledd bokstav d og e der slik motorferdsel har vært tillatt i medhold av [lov 10. juni 1977 nr. 82 om motorferdsel i utmark og vassdrag](lov/1977-06-10-82)områder der de vil være til vesentlig skade eller ulempe for reindriften.
+1. løyper for motorferdsel på snødekt mark og islagt vassdrag og tilhørende rastesoner, jf. [§ 20](lov/2026-06-19-53/§20)
+2. øvingsområder for obligatorisk kjøreopplæring på snødekt mark og islagt vassdrag, jf. [§ 21](lov/2026-06-19-53/§21)
+3. områder for motorsport, jf. [§ 22](lov/2026-06-19-53/§22)
+4. landingsplasser for luftfartøy, jf. [§ 23](lov/2026-06-19-53/§23)
+5. hele eller deler av innsjøer med overflateareal på mindre enn to kvadratkilometer, jf. [§ 24](lov/2026-06-19-53/§24).
+
+Arealer etter første ledd bokstav a til e kan ikke legges i
+
+1. foreslåtte verneområder som er kunngjort etter [naturmangfoldloven § 42](lov/2009-06-19-100/§42)
+2. verneområder, med mindre verneforskriften åpner for det
+3. villreinområder, unntatt arealer etter første ledd bokstav d og e der slik motorferdsel har vært tillatt i medhold av [lov 10. juni 1977 nr. 82 om motorferdsel i utmark og vassdrag](lov/1977-06-10-82)
+4. områder der de vil være til vesentlig skade eller ulempe for reindriften.
 
 Landingsplasser kan heller ikke legges på fjelltopper, utsiktspunkter, breer eller andre lignende steder der landingsplassen i hovedsak vil være utgangspunkt for rekreasjon og friluftsliv.
 
@@ -215,7 +247,13 @@ Kommunen skal sørge for forsvarlig merking av arealer til motorferdsel. Departe
 
 ### § 28. Leiekjøring
 
-Kommunen kan gi tillatelse til motorferdsel for leiekjørere som tar på seg transportoppdrag på snødekt mark og islagt vassdrag. Tillatelse til leiekjøring kan bare gjeldetransport som er tillatt etter [kapittel 3](lov/2026-06-19-53/kap3)transport som det er gitt tillatelse til etter kapittelet hergods- og persontransport mellom bilvei og fritidsboligtransport for nødvendig tilsyn med og vedlikehold av bygninger etter oppdrag fra eierentransport for redaktørstyrte journalistiske medier på reportasjeoppdrag.
+Kommunen kan gi tillatelse til motorferdsel for leiekjørere som tar på seg transportoppdrag på snødekt mark og islagt vassdrag. Tillatelse til leiekjøring kan bare gjelde
+
+1. transport som er tillatt etter [kapittel 3](lov/2026-06-19-53/kap3)
+2. transport som det er gitt tillatelse til etter kapittelet her
+3. gods- og persontransport mellom bilvei og fritidsbolig
+4. transport for nødvendig tilsyn med og vedlikehold av bygninger etter oppdrag fra eieren
+5. transport for redaktørstyrte journalistiske medier på reportasjeoppdrag.
 
 ### § 29. Utmarksnæring
 
@@ -319,7 +357,13 @@ Departementet kan gi forskrift om plikt til å føre inn enkeltvedtak gitt i med
 
 ### § 47. Endring, omgjøring og tilbakekall av tillatelse
 
-Kommunen kan, så langt det er nødvendig, endre eller trekke tilbake en tillatelse som er gitt etter denne loven dersomdet viser seg at skader eller ulemper blir vesentlig større eller annerledes enn ventet da tillatelsen ble gittskader eller ulemper kan reduseres uten urimelig kostnad for den som har fått tillatelsenny teknologi gjør det mulig å redusere skader eller ulemper i vesentlig graddet foreligger grov eller gjentatt overtredelse av bestemmelser som er gitt i eller i medhold av denne lovenvesentlige forutsetninger for tillatelsen er bortfalt.
+Kommunen kan, så langt det er nødvendig, endre eller trekke tilbake en tillatelse som er gitt etter denne loven dersom
+
+1. det viser seg at skader eller ulemper blir vesentlig større eller annerledes enn ventet da tillatelsen ble gitt
+2. skader eller ulemper kan reduseres uten urimelig kostnad for den som har fått tillatelsen
+3. ny teknologi gjør det mulig å redusere skader eller ulemper i vesentlig grad
+4. det foreligger grov eller gjentatt overtredelse av bestemmelser som er gitt i eller i medhold av denne loven
+5. vesentlige forutsetninger for tillatelsen er bortfalt.
 
 Første ledd innskrenker ikke adgangen til å omgjøre etter ellers gjeldende omgjøringsregler. Statsforvalteren har samme myndighet til å omgjøre kommunens ugyldige vedtak som overordnet forvaltningsorgan har etter [forvaltningsloven](lov/1967-02-10).
 
@@ -445,7 +489,9 @@ landbruks-, natur- og friluftsformål samt reindrift, samlet eller hver for seg,
 
 [§ 12-7 nr. 14](lov/2008-06-27-71/§12-7/nummer/14) og ny nr. 15 skal lyde:
 
-hvilke arealer som skal være til offentlige formål eller fellesareal,motorferdsel i områder angitt i [motorferdselloven § 18](lov/2026-06-19-53/§18) og [§ 25](lov/2026-06-19-53/§25), når og hvordan slik ferdsel kan skje, og hvilke transport- og fremkomstmidler som kan benyttes.
+hvilke arealer som skal være til offentlige formål eller fellesareal,
+
+motorferdsel i områder angitt i [motorferdselloven § 18](lov/2026-06-19-53/§18) og [§ 25](lov/2026-06-19-53/§25), når og hvordan slik ferdsel kan skje, og hvilke transport- og fremkomstmidler som kan benyttes.
 
 [§ 16-2](lov/2008-06-27-71/§16-2) nytt syvende ledd skal lyde:
 
@@ -455,7 +501,9 @@ Ekspropriasjon av grunn som er regulert til løyper for motorferdsel på snødek
 
 [§ 10 første ledd fjerde punktum bokstav m](lov/2009-06-05-35/§10/ledd/1/setning/4/bokstav/m) og ny bokstav n skal lyde:
 
-nødvendig istandsetting ved akutt utfall i områder som er vernet eller midlertidig vernet etter [§ 11](lov/2009-06-05-35/§11),skjøtsel etter [§ 11](lov/2009-06-05-35/§11) i loven her, inkludert transport til områdene som skal skjøttes.
+nødvendig istandsetting ved akutt utfall i områder som er vernet eller midlertidig vernet etter [§ 11](lov/2009-06-05-35/§11),
+
+skjøtsel etter [§ 11](lov/2009-06-05-35/§11) i loven her, inkludert transport til områdene som skal skjøttes.
 
 [§ 10 syvende ledd](lov/2009-06-05-35/§10/ledd/7) skal lyde:
 
@@ -465,4 +513,6 @@ Er det nødvendig for å gjennomføre skjøtselstiltak i verneområder vernet et
 
 [§ 4-6 første ledd bokstav h](lov/2025-06-20-107/§4-6/ledd/1/bokstav/h) og ny bokstav i skal lyde:
 
-planlagte kostnader og investeringerplanlagt adkomst til og ferdsel i undersøkelsesområdet, herunder behov for motorferdsel i utmark og vassdrag.
+planlagte kostnader og investeringer
+
+planlagt adkomst til og ferdsel i undersøkelsesområdet, herunder behov for motorferdsel i utmark og vassdrag.

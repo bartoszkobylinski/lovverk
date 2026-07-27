@@ -52,7 +52,11 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.) ved Universitetet i 
 
 (1) Søkere skal ha en femårig mastergrad eller tilsvarende utdanning. Fakultetet kan gi søkere som på annen måte har godtgjort tilsvarende kvalifikasjoner i vedkommende fag adgang til å fremstille seg for dr.philos.-graden. Det er søkerens ansvar å dokumentere tilsvarende kvalifikasjoner.
 
-(2) Søkere må som hovedregel være statsborger i Norge eller et annet nordisk land. Andre søkere kan gis anledning til å fremstille seg for dr.philos.-graden dersom de har oppholdstillatelse i Norge, eller dersom avhandlingenbehandler emner eller bygger på materiale som har direkte tilknytning til Norge, ellerhar sterk tilknytning til norsk forskning innenfor fagområdet, ellerer utført under opphold ved et norsk universitet eller forskningsinstitutt, eller i særlig kontakt med norske forskere.
+(2) Søkere må som hovedregel være statsborger i Norge eller et annet nordisk land. Andre søkere kan gis anledning til å fremstille seg for dr.philos.-graden dersom de har oppholdstillatelse i Norge, eller dersom avhandlingen
+
+- behandler emner eller bygger på materiale som har direkte tilknytning til Norge, eller
+- har sterk tilknytning til norsk forskning innenfor fagområdet, eller
+- er utført under opphold ved et norsk universitet eller forskningsinstitutt, eller i særlig kontakt med norske forskere.
 
 (3) Søkere som allerede har en norsk eller nordisk doktorgrad gis ikke adgang til å fremstille seg for dr.philos.-graden i samme fagområde.
 
@@ -60,13 +64,25 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.) ved Universitetet i 
 
 (1) Søknad om å få fremstille seg for dr.philos.-graden sendes til fakultetet som avhandlingens tema hører inn under.
 
-(2) Sammen med søknaden skal søkeren sende:Ett eksemplar av avhandlingenDokumentasjon på tidligere utdanning eller tilsvarende kvalifikasjonerOversikt over tidligere vitenskapelige arbeider (disse må kunne fremvises på forespørsel)Medforfatterskapserklæring, dersom dette er påkrevd i henhold til [§ 7](forskrift/2021-09-15-3067/§7) sjuende leddErklæring om hvorvidt avhandlingen er bedømt ved Universitetet i Agder tidligereErklæring om at avhandlingen ikke er eller har vært levert til bedømmelse ved en annen institusjonEn kortfattet oppsummering av avhandlingen på norsk og engelsk.
+(2) Sammen med søknaden skal søkeren sende:
+
+- Ett eksemplar av avhandlingen
+- Dokumentasjon på tidligere utdanning eller tilsvarende kvalifikasjoner
+- Oversikt over tidligere vitenskapelige arbeider (disse må kunne fremvises på forespørsel)
+- Medforfatterskapserklæring, dersom dette er påkrevd i henhold til [§ 7](forskrift/2021-09-15-3067/§7) sjuende ledd
+- Erklæring om hvorvidt avhandlingen er bedømt ved Universitetet i Agder tidligere
+- Erklæring om at avhandlingen ikke er eller har vært levert til bedømmelse ved en annen institusjon
+- En kortfattet oppsummering av avhandlingen på norsk og engelsk.
 
 (3) Søkere som ikke er statsborger i Norge eller et annet nordisk land må i tillegg sende inn dokumentasjon på oppholdstillatelse i Norge og/eller dokumentasjon på avhandlingens tilknytning til Norge, jf. [§ 4](forskrift/2021-09-15-3067/§4) tredje ledd.
 
 ### § 6. Fakultetets behandling av søknaden
 
-(1) På bakgrunn av dokumentasjonen søkeren sender inn skal fakultetet avgjøre:om avhandlingen tematisk hører hjemme ved fakultetet,om søkeren har tilstrekkelig forhåndskvalifikasjoner ogom søkeren skal gis adgang til å fremstille seg for dr.philos.-graden.
+(1) På bakgrunn av dokumentasjonen søkeren sender inn skal fakultetet avgjøre:
+
+- om avhandlingen tematisk hører hjemme ved fakultetet,
+- om søkeren har tilstrekkelig forhåndskvalifikasjoner og
+- om søkeren skal gis adgang til å fremstille seg for dr.philos.-graden.
 
 (2) Fakultetet kan på selvstendig grunnlag avslå en søknad dersom det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en bedømmelseskomité.
 
@@ -112,7 +128,12 @@ Forskriften gjelder graden doctor philosophiae (dr.philos.) ved Universitetet i 
 
 (1) Når fakultetet har godkjent søknad om å få avhandlingen bedømt, oppnevner fakultetet en sakkyndig bedømmelseskomité på minst tre medlemmer som skal bedømme avhandlingen, prøveforelesningene og disputasen. Habilitetsreglene i [forvaltningsloven § 6](lov/1967-02-10/§6) gjelder for komitéens medlemmer.
 
-(2) Bedømmelseskomitéen skal normalt settes sammen slik at:minst to av medlemmene er uten tilknytning til Universitetet i Agder,minst ett av medlemmene har hovedstilling ved en utenlandsk institusjon,begge kjønn er representert ogalle medlemmene har doktorgrad eller tilsvarende faglig kompetanse.
+(2) Bedømmelseskomitéen skal normalt settes sammen slik at:
+
+- minst to av medlemmene er uten tilknytning til Universitetet i Agder,
+- minst ett av medlemmene har hovedstilling ved en utenlandsk institusjon,
+- begge kjønn er representert og
+- alle medlemmene har doktorgrad eller tilsvarende faglig kompetanse.
 
 (3) Dersom kriteriene ovenfor fravikes, må fakultetet begrunne dette særskilt.
 

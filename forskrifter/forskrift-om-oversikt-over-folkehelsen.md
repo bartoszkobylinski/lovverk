@@ -28,13 +28,23 @@ Forskriften skal legge til rette for systematisk og kunnskapsbasert folkehelsear
 
 ## § 2. Virkeområde
 
-Forskriften gjelder:kommunenes og fylkeskommunenes arbeid med oversikt etter [folkehelseloven § 5](lov/2011-06-24-29/§5) og [§ 21](lov/2011-06-24-29/§21) ogFolkehelseinstituttets arbeid med å gjøre tilgjengelig opplysninger etter [folkehelseloven § 25](lov/2011-06-24-29/§25) annet ledd.
+Forskriften gjelder:
+
+1. kommunenes og fylkeskommunenes arbeid med oversikt etter [folkehelseloven § 5](lov/2011-06-24-29/§5) og [§ 21](lov/2011-06-24-29/§21) og
+2. Folkehelseinstituttets arbeid med å gjøre tilgjengelig opplysninger etter [folkehelseloven § 25](lov/2011-06-24-29/§25) annet ledd.
 
 > Endret ved [forskrift 18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016).
 
 ## § 3. Krav til oversiktens innhold
 
-Oversikten skal omfatte opplysninger om og vurderinger av:befolkningssammensetningoppvekst- og levekårsforholdfysisk, biologisk, kjemisk og sosialt miljøskader og ulykkerhelserelatert atferd oghelsetilstand.
+Oversikten skal omfatte opplysninger om og vurderinger av:
+
+1. befolkningssammensetning
+2. oppvekst- og levekårsforhold
+3. fysisk, biologisk, kjemisk og sosialt miljø
+4. skader og ulykker
+5. helserelatert atferd og
+6. helsetilstand.
 
 Med oppvekst- og levekårsforhold menes for eksempel økonomiske vilkår, bo- og arbeidsforhold og utdanningsforhold. Med helserelatert atferd menes for eksempel fysisk aktivitet, ernæring, bruk av tobakk og rusmidler.
 
@@ -52,7 +62,10 @@ Kommunen skal samarbeide og utveksle informasjon med fylkeskommunen i arbeidet m
 
 ## § 6. Opplysninger fra Folkehelseinstituttet
 
-Folkehelseinstituttet skal gjøre opplysninger fra nasjonale kilder tilgjengelige som grunnlag for kommunenes og fylkeskommunenes arbeid med oversikter. Oppgaven omfatter blant annet å:utarbeide og presentere folkehelseprofil for hver enkelt kommune og fylkeskommune i løpet av første kvartal hvert år ogetablere og oppdatere en statistikkbank.
+Folkehelseinstituttet skal gjøre opplysninger fra nasjonale kilder tilgjengelige som grunnlag for kommunenes og fylkeskommunenes arbeid med oversikter. Oppgaven omfatter blant annet å:
+
+1. utarbeide og presentere folkehelseprofil for hver enkelt kommune og fylkeskommune i løpet av første kvartal hvert år og
+2. etablere og oppdatere en statistikkbank.
 
 > Endret ved [forskrift 18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016).
 
@@ -66,7 +79,11 @@ Folkehelseinstituttet eller en fylkeskommune skal være dataansvarlig for behand
 
 Folkehelseinstituttet skal legge til rette for samordning av fylkeshelseundersøkelser blant annet ved å gjøre tilgjengelig maler for innhold og gjennomføring av slike undersøkelser. Undersøkelsene skal gjennomføres i samsvar med malene. Malene kan bare fravikes i særlige tilfeller.
 
-Følgende regler om behandling av helseopplysninger i forskrift om befolkningsbaserte helseundersøkelser gjelder tilsvarende for fylkeshelseundersøkelser som gjennomføres med hjemmel i denne bestemmelsen:§ 1-4 om forbud mot kommersiell utnyttelse§ 2-4 til § 2-7 om informasjon og samtykke§ 4-1 til § 4-7 om vilkår for behandling av helseopplysninger, tilgjengeliggjøring, sammenstilling, internkontroll, bevaring, mv.
+Følgende regler om behandling av helseopplysninger i forskrift om befolkningsbaserte helseundersøkelser gjelder tilsvarende for fylkeshelseundersøkelser som gjennomføres med hjemmel i denne bestemmelsen:
+
+1. § 1-4 om forbud mot kommersiell utnyttelse
+2. § 2-4 til § 2-7 om informasjon og samtykke
+3. § 4-1 til § 4-7 om vilkår for behandling av helseopplysninger, tilgjengeliggjøring, sammenstilling, internkontroll, bevaring, mv.
 
 > Endret ved [forskrifter 18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016), [11 mai 2018 nr. 724](forskrift/2018-05-11-724) som endret ved [forskrift 23 okt 2018 nr. 1603](forskrift/2018-10-23-1603) (i kraft 23 okt 2018).
 

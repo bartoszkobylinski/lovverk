@@ -94,7 +94,10 @@ Driftsmåter skal legges til rette slik at de gir storfe gode muligheter for fri
 
 Storfe skal sikres mulighet for fri bevegelse og mosjon på beite i minimum 8 uker i løpet av sommerhalvåret.
 
-Storfe som er oppstallet i båsfjøs, skal i løpet av sommerhalvåret sikres mulighet for fri bevegelse og mosjon på beite i minimum16 uker dersom beiteområdet ligger i sonene 1–412 uker dersom beiteområdet ligger i sonene 5–7.
+Storfe som er oppstallet i båsfjøs, skal i løpet av sommerhalvåret sikres mulighet for fri bevegelse og mosjon på beite i minimum
+
+1. 16 uker dersom beiteområdet ligger i sonene 1–4
+2. 12 uker dersom beiteområdet ligger i sonene 5–7.
 
 Dersom egnet beite ikke er tilgjengelig for fjøs som sto ferdig bygget før 1. januar 2014, skal dyrene i stedet ha tilgang til egnet luftegård eller annet utendørs område der dyrene sikres mulighet til fri bevegelse og mosjon.
 
@@ -234,7 +237,11 @@ Kalv skal ikke holdes bundet*.* Kalv skal ikke holdes i enkeltbinger etter åtte
 
 Bingeskiller i enkeltbinger skal ha åpninger som tillater kalvene å se og komme i berøring med andre dyr når de står oppreist. Bredden på enkeltbingen skal være minst lik mankehøyden på kalven i stående stilling, og lengden skal være minst kalvens lengde (fra nesespiss til bakre del av bekkenet (tuber ischii)) multiplisert med 1,1.
 
-Fellesbinge skal være minst så stor at alle kalvene kan ligge samtidig. Bingens frie areal skal være minst1,5 m2 pr. kalv under 150 kg levende vekt.1,8 m2 pr. kalv mellom 150 og 220 kg.2,0 m2 pr. kalv over 220 kg levende vekt.
+Fellesbinge skal være minst så stor at alle kalvene kan ligge samtidig. Bingens frie areal skal være minst
+
+- 1,5 m2 pr. kalv under 150 kg levende vekt.
+- 1,8 m2 pr. kalv mellom 150 og 220 kg.
+- 2,0 m2 pr. kalv over 220 kg levende vekt.
 
 Driftsformer som innebærer at kyr og kalver oppstalles i én og samme fellesbinge, skal inneholde et eget kalvegjemme med tett gulv på minst 0,7 m2 pr. kalv, dog slik at samtlige kalver kan ligge samtidig.
 

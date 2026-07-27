@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Formål og virkeområde
 
-Tilskuddsordningen har som hovedmål å bidra til mediemangfold, ytringsfrihet og styrking av de lokale lyd- og bildemedienes demokratiske funksjon i samfunnet. Tilskuddsordningen skal stimulere til et kvalitetsorientert og økonomisk livskraftig miljø for lokale medier som når et stort publikum ved å bidra til:digitalisering av lokalradio,produksjon av programmer med høy teknisk og innholdsmessig kvalitet,videreutvikling av det enkelte lokalmediets egenart, ogkompetanseutvikling og samarbeid mellom ulike lokalmedier.
+Tilskuddsordningen har som hovedmål å bidra til mediemangfold, ytringsfrihet og styrking av de lokale lyd- og bildemedienes demokratiske funksjon i samfunnet. Tilskuddsordningen skal stimulere til et kvalitetsorientert og økonomisk livskraftig miljø for lokale medier som når et stort publikum ved å bidra til:
+
+1. digitalisering av lokalradio,
+2. produksjon av programmer med høy teknisk og innholdsmessig kvalitet,
+3. videreutvikling av det enkelte lokalmediets egenart, og
+4. kompetanseutvikling og samarbeid mellom ulike lokalmedier.
 
 Forskriften gjelder ikke for Svalbard.
 
@@ -32,7 +37,14 @@ Forskriften gjelder ikke for Svalbard.
 
 ## § 2. Hvem kan motta tilskudd
 
-Tilskudd etter denne forskriften kan gis til:lokalkringkastingskonsesjonærer i henhold til [kringkastingsloven § 1-1 første ledd bokstav b](lov/1992-12-04-127/§1-1/ledd/1/bokstav/b) og [§ 2-1 første ledd](lov/1992-12-04-127/§2-1/ledd/1),registrerte kringkastere i henhold til [kringkastingsloven § 2-1 tredje ledd](lov/1992-12-04-127/§2-1/ledd/3) som hovedsakelig tilbyr lydprogrammer og bildeprogrammer rettet mot et lokalt publikum,nasjonale sammenslutninger for lokale lyd- og bildemedier,anleggskonsesjonærer i henhold til [kringkastingsloven § 2-2](lov/1992-12-04-127/§2-2) i digitale lokalradionett,tilbydere av audiovisuelle bestillingstjenester iht. [kringkastingsloven § 1-1 første ledd bokstav d](lov/1992-12-04-127/§1-1/ledd/1/bokstav/d) og [f](lov/1992-12-04-127/§1-1/ledd/1/bokstav/f), som hovedsakelig tilbyr bildeprogrammer rettet mot et lokalt publikum, ogtilbydere av podkasttjenester som hovedsakelig består av lydprogrammer rettet mot et lokalt publikum.
+Tilskudd etter denne forskriften kan gis til:
+
+1. lokalkringkastingskonsesjonærer i henhold til [kringkastingsloven § 1-1 første ledd bokstav b](lov/1992-12-04-127/§1-1/ledd/1/bokstav/b) og [§ 2-1 første ledd](lov/1992-12-04-127/§2-1/ledd/1),
+2. registrerte kringkastere i henhold til [kringkastingsloven § 2-1 tredje ledd](lov/1992-12-04-127/§2-1/ledd/3) som hovedsakelig tilbyr lydprogrammer og bildeprogrammer rettet mot et lokalt publikum,
+3. nasjonale sammenslutninger for lokale lyd- og bildemedier,
+4. anleggskonsesjonærer i henhold til [kringkastingsloven § 2-2](lov/1992-12-04-127/§2-2) i digitale lokalradionett,
+5. tilbydere av audiovisuelle bestillingstjenester iht. [kringkastingsloven § 1-1 første ledd bokstav d](lov/1992-12-04-127/§1-1/ledd/1/bokstav/d) og [f](lov/1992-12-04-127/§1-1/ledd/1/bokstav/f), som hovedsakelig tilbyr bildeprogrammer rettet mot et lokalt publikum, og
+6. tilbydere av podkasttjenester som hovedsakelig består av lydprogrammer rettet mot et lokalt publikum.
 
 Med *podkasttjeneste* menes en tjeneste som tilbys av en podkasttilbyder hvor hovedformålet er å tilby lydprogrammer som kan høres på et tidspunkt lytteren selv velger og på dennes bestilling fra en programkatalog og som distribueres til allmennheten via elektroniske kommunikasjonsnett.
 
@@ -46,9 +58,22 @@ Det kan ikke gis tilskudd til foretak som er gjenstand for et utestående tilbak
 
 ## § 3. Tilskuddsformer og beløpsgrenser
 
-Tilskudd etter denne forskriften kan gis i form av:Drifts- og investeringstilskudd til digitalisering av lokalradio.Driftstilskudd til nasjonale sammenslutninger for lokale lyd- og bildemedier.Driftstilskudd til lokalradioer for etniske og språklige minoritetsgrupper.Prosjekttilskudd til lokale programproduksjoner.Tilskudd til enkeltstående kompetansehevende tiltak.Tilskudd til utviklingsprosjekter med tiltak som stimulerer til aktivitet som øker lokal programmessig kvalitet og bredde.
+Tilskudd etter denne forskriften kan gis i form av:
 
-Følgende beløpsgrenser gjelder for tilskuddene:Maksimalt 1,5 millioner kroner i driftstilskudd per nasjonale sammenslutning per år, jf. første ledd bokstav b.Maksimalt 200 000 kroner i driftstilskudd per lokalradio for etniske og språklige minoritetsgrupper per år, jf. første ledd bokstav c.Maksimalt 250 000 kroner per prosjekt for lokal programproduksjon per tilskuddsår, jf. første ledd bokstav d.Maksimalt 100 000 kroner per kompetansehevende tiltak per tilskuddsår, jf. første ledd bokstav e.Maksimalt 100 000 kroner per utviklingsprosjekt per tilskuddsår, jf. første ledd bokstav f.
+1. Drifts- og investeringstilskudd til digitalisering av lokalradio.
+2. Driftstilskudd til nasjonale sammenslutninger for lokale lyd- og bildemedier.
+3. Driftstilskudd til lokalradioer for etniske og språklige minoritetsgrupper.
+4. Prosjekttilskudd til lokale programproduksjoner.
+5. Tilskudd til enkeltstående kompetansehevende tiltak.
+6. Tilskudd til utviklingsprosjekter med tiltak som stimulerer til aktivitet som øker lokal programmessig kvalitet og bredde.
+
+Følgende beløpsgrenser gjelder for tilskuddene:
+
+1. Maksimalt 1,5 millioner kroner i driftstilskudd per nasjonale sammenslutning per år, jf. første ledd bokstav b.
+2. Maksimalt 200 000 kroner i driftstilskudd per lokalradio for etniske og språklige minoritetsgrupper per år, jf. første ledd bokstav c.
+3. Maksimalt 250 000 kroner per prosjekt for lokal programproduksjon per tilskuddsår, jf. første ledd bokstav d.
+4. Maksimalt 100 000 kroner per kompetansehevende tiltak per tilskuddsår, jf. første ledd bokstav e.
+5. Maksimalt 100 000 kroner per utviklingsprosjekt per tilskuddsår, jf. første ledd bokstav f.
 
 > Endret ved forskrifter [6 nov 2020 nr. 2294](forskrift/2020-11-06-2294), [14 mai 2024 nr. 770](forskrift/2024-05-14-770).
 
@@ -60,7 +85,12 @@ Om lag halvparten av midlene som årlig tildeles gjennom tilskuddsordningen skal
 
 Et foretak kan maksimalt motta 1,5 millioner kroner per år i tilskudd fra denne tilskuddsordningen.
 
-Som et foretak etter første ledd regnes to eller flere foretak som står i et slikt forhold til hverandre at:et foretak sitter med flertallet av aksjeeiernes eller deltakernes stemmeretter i et annet foretak,et foretak har rett til å utpeke eller fjerne et flertall av medlemmene av administrasjons-, ledelses- eller kontrollorganet i et annet foretak,et foretak har rett til å ha dominerende innflytelse over et annet foretak i henhold til en kontrakt inngått med det foretaket eller i henhold til en bestemmelse i foretakets vedtekter, elleret foretak som er aksjeeier eller deltaker i et annet foretak kontrollerer alene, i henhold til en avtale med andre aksjeeiere eller deltakere i dette foretaket, et flertall av aksjeeiernes eller deltakernes stemmeretter i dette foretaket.
+Som et foretak etter første ledd regnes to eller flere foretak som står i et slikt forhold til hverandre at:
+
+1. et foretak sitter med flertallet av aksjeeiernes eller deltakernes stemmeretter i et annet foretak,
+2. et foretak har rett til å utpeke eller fjerne et flertall av medlemmene av administrasjons-, ledelses- eller kontrollorganet i et annet foretak,
+3. et foretak har rett til å ha dominerende innflytelse over et annet foretak i henhold til en kontrakt inngått med det foretaket eller i henhold til en bestemmelse i foretakets vedtekter, eller
+4. et foretak som er aksjeeier eller deltaker i et annet foretak kontrollerer alene, i henhold til en avtale med andre aksjeeiere eller deltakere i dette foretaket, et flertall av aksjeeiernes eller deltakernes stemmeretter i dette foretaket.
 
 Som et foretak etter første ledd regnes også foretak som via ett eller flere andre foretak har forbindelser som angitt i annet ledd bokstav a til d.
 
@@ -68,15 +98,29 @@ Som et foretak etter første ledd regnes også foretak som via ett eller flere a
 
 ## § 6. Kriterier for vurdering av søknader om tilskudd til digitalisering av lokalradio
 
-Følgende generelle kriterier vektlegges ved behandling av søknader om investeringstilskudd til digitalisering av lokalradio, jf. [§ 3](forskrift/2016-02-19-166/§3) første ledd bokstav a:sannsynligheten for at prosjektet lar seg realisere,prosjektets forventede dekningsområde,forventet mangfold av lokalradioer som deltar i samarbeidet om prosjektet, ogprioritering av områder der det er et begrenset kommersielt grunnlag for utbygging av digitale lokalradionett.
+Følgende generelle kriterier vektlegges ved behandling av søknader om investeringstilskudd til digitalisering av lokalradio, jf. [§ 3](forskrift/2016-02-19-166/§3) første ledd bokstav a:
 
-Følgende generelle kriterier vektlegges ved behandling av søknader om driftstilskudd til digitalisering av lokalradio, jf. [§ 3](forskrift/2016-02-19-166/§3) første ledd bokstav a:prioritering av søkere med begrenset sendetid eller der sendingene dekker et område som gir et svakt kommersielt grunnlag for drift av lokalradio,prioritering av nisjeradioer som sender i slukkeområdene,radioer som dokumenterer realistiske prosjekt og avtaler for samarbeid med anleggskonsesjonær, oganleggskonsesjonær som tilrettelegger for et lokalt mediemangfold gjennom å tilby forpliktende leieavtaler for et mangfold av lokalradioer i regionen.
+1. sannsynligheten for at prosjektet lar seg realisere,
+2. prosjektets forventede dekningsområde,
+3. forventet mangfold av lokalradioer som deltar i samarbeidet om prosjektet, og
+4. prioritering av områder der det er et begrenset kommersielt grunnlag for utbygging av digitale lokalradionett.
+
+Følgende generelle kriterier vektlegges ved behandling av søknader om driftstilskudd til digitalisering av lokalradio, jf. [§ 3](forskrift/2016-02-19-166/§3) første ledd bokstav a:
+
+1. prioritering av søkere med begrenset sendetid eller der sendingene dekker et område som gir et svakt kommersielt grunnlag for drift av lokalradio,
+2. prioritering av nisjeradioer som sender i slukkeområdene,
+3. radioer som dokumenterer realistiske prosjekt og avtaler for samarbeid med anleggskonsesjonær, og
+4. anleggskonsesjonær som tilrettelegger for et lokalt mediemangfold gjennom å tilby forpliktende leieavtaler for et mangfold av lokalradioer i regionen.
 
 > Endret ved [forskrift 6 nov 2020 nr. 2294](forskrift/2020-11-06-2294).
 
 ## § 7. Kriterier for vurdering av søknader om tilskudd til nasjonale sammenslutninger av lyd- og bildemedier
 
-Følgende generelle kriterier vektlegges ved behandling av søknader om tilskudd til nasjonale sammenslutninger av lyd- og bildemedier, jf. [§ 3](forskrift/2016-02-19-166/§3) første ledd bokstav b:antall medlemmer,eiermessig mangfold blant medlemmene, ogorganisasjonens aktivitetsnivå basert på budsjett og dokumenterte aktiviteter.
+Følgende generelle kriterier vektlegges ved behandling av søknader om tilskudd til nasjonale sammenslutninger av lyd- og bildemedier, jf. [§ 3](forskrift/2016-02-19-166/§3) første ledd bokstav b:
+
+1. antall medlemmer,
+2. eiermessig mangfold blant medlemmene, og
+3. organisasjonens aktivitetsnivå basert på budsjett og dokumenterte aktiviteter.
 
 > Endret ved [forskrift 6 nov 2020 nr. 2294](forskrift/2020-11-06-2294).
 

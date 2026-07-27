@@ -15,7 +15,7 @@ xml_hash: "2020dd28864a2a80ba30bf79aff7c144b966c7a8c615dcdf93510ba34c96f879"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1
 
-De alminnelige domstoler er:Høyesterettlagmannsrettenetingrettene
+De alminnelige domstoler er:
+
+1. Høyesterett
+2. lagmannsrettene
+3. tingrettene
 
 Forliksrådene er meklingsinstitusjoner med begrenset domsmyndighet som angitt i [tvisteloven § 6-10](lov/2005-06-17-90/§6-10).
 
@@ -34,7 +38,13 @@ Forliksrådene er meklingsinstitusjoner med begrenset domsmyndighet som angitt i
 
 ### § 2
 
-Særdomstoler er:jordskifterettene;– – –de overordentlige domstoler, som nedsettes etter [§ 29](lov/1915-08-13-5/§29);konsulrettene i utlandetRiksretten.
+Særdomstoler er:
+
+1. jordskifterettene;
+2. – – –
+3. de overordentlige domstoler, som nedsettes etter [§ 29](lov/1915-08-13-5/§29);
+4. konsulrettene i utlandet
+5. Riksretten.
 
 For de domstoler som er nevnt under nr. 1-4, gjelder denne lov om ikke annet er bestemt. For Riksretten gjelder den ikke.
 
@@ -334,7 +344,9 @@ Styret fastsetter eventuell stillingsinstruks for direktøren og instruks for sa
 
 > Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 aug 2001 iflg. [res. 15 juni 2001 nr. 619](forskrift/2001-06-15-619)), endret ved lov [19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)).
 
-1 Inkurie: Loven er opphevet. Se nå [lov 16 juni 2017 nr. 67](lov/2017-06-16-67).2 Inkurie: Opphevet. Se nå [lov 16 juni 2017 nr. 67 §§ 15](lov/2017-06-16-67/§15) til [16](lov/2017-06-16-67/§16), [§§ 24](lov/2017-06-16-67/§24) til [27](lov/2017-06-16-67/§27), [§§ 29](lov/2017-06-16-67/§29) til [31](lov/2017-06-16-67/§31).
+1 Inkurie: Loven er opphevet. Se nå [lov 16 juni 2017 nr. 67](lov/2017-06-16-67).
+
+2 Inkurie: Opphevet. Se nå [lov 16 juni 2017 nr. 67 §§ 15](lov/2017-06-16-67/§15) til [16](lov/2017-06-16-67/§16), [§§ 24](lov/2017-06-16-67/§24) til [27](lov/2017-06-16-67/§27), [§§ 29](lov/2017-06-16-67/§29) til [31](lov/2017-06-16-67/§31).
 
 ### § 33 c
 
@@ -604,7 +616,14 @@ Midlertidige dommere til Høyesterett, lagmannsrettene, tingrettene og jordskift
 
 ### § 55 e
 
-En dommer som er utnevnt etter [§ 55](lov/1915-08-13-5/§55) kan ved siden av sin faste stilling konstitueres som dommer ved en sideordnet domstol for inntil to år vedledighet eller fravær i dommerstillinginhabilitetbehov for ekstra dommere elleromorganisering av domstoler.Konstitusjon av dommer til jordskifterett kan skje for inntil fire år.
+En dommer som er utnevnt etter [§ 55](lov/1915-08-13-5/§55) kan ved siden av sin faste stilling konstitueres som dommer ved en sideordnet domstol for inntil to år ved
+
+1. ledighet eller fravær i dommerstilling
+2. inhabilitet
+3. behov for ekstra dommere eller
+4. omorganisering av domstoler.
+
+Konstitusjon av dommer til jordskifterett kan skje for inntil fire år.
 
 En dommer eller en pensjonert dommer, med unntak av jordskiftelagdommer og dommer i jordskifterettene, kan likevel alltid konstitueres ved en annen domstol for å foreta vigsler.1 Slik konstitusjon gjøres av domstollederen der vigselen skal foretas.
 
@@ -742,7 +761,10 @@ Stevnevitner skal avgi forsikring til vedkommende rett om at de samvittighetsful
 
 ### § 63a
 
-Dommere og andre som utfører tjeneste eller arbeid for et dommerkontor plikter å hindre at andre får adgang eller kjennskap til det de i forbindelse med tjenesten eller arbeidet får vite om:noens personlige forhold, ellertekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår.
+Dommere og andre som utfører tjeneste eller arbeid for et dommerkontor plikter å hindre at andre får adgang eller kjennskap til det de i forbindelse med tjenesten eller arbeidet får vite om:
+
+1. noens personlige forhold, eller
+2. tekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår.
 
 [Forvaltningsloven §§ 13](lov/1967-02-10/§13) til [13 e](lov/1967-02-10/§13e) og [13 g](lov/1967-02-10/§13g) og [straffeloven § 209](lov/2005-05-20-28/§209) får tilsvarende anvendelse.
 
@@ -822,19 +844,42 @@ Gjenpart av fortegnelsen sendes vedkommende domstol innen 15. september året et
 
 Den som velges, må ha tilstrekkelige norskkunnskaper, og for øvrig være personlig egnet til oppgaven.
 
-I tillegg må vedkommendevære over 21 år og under 70 år, ved valgperiodens start,ikke være fradømt stemmeretten i offentlige anliggender,ikke være under offentlig gjeldsforhandling eller konkursbehandling eller i konkurskarantene,stå innført i folkeregisteret som bosatt i kommunen på valgdagen, ogvære statsborger i Norge eller et annet nordisk land, eller ha stått innført i folkeregisteret som bosatt i riket de tre siste år før valgdagen.
+I tillegg må vedkommende
+
+1. være over 21 år og under 70 år, ved valgperiodens start,
+2. ikke være fradømt stemmeretten i offentlige anliggender,
+3. ikke være under offentlig gjeldsforhandling eller konkursbehandling eller i konkurskarantene,
+4. stå innført i folkeregisteret som bosatt i kommunen på valgdagen, og
+5. være statsborger i Norge eller et annet nordisk land, eller ha stått innført i folkeregisteret som bosatt i riket de tre siste år før valgdagen.
 
 > Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [22 mai 1981 nr. 27](lov/1981-05-22-27), [23 juni 1995 nr. 34](lov/1995-06-23-34), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 71
 
-Utelukket fra valg på grunn av stilling er:Stortingets representanter og vararepresentanter,statsrådets medlemmer, statssekretærer, statsrådenes personlige politiske rådgivere og ansatte ved Statsministerens kontor,statsforvaltere og assisterende statsforvaltere,utnevnte og konstituerte dommere og ansatte ved domstolene,ansatte ved påtalemyndigheten, i politiet og kriminalomsorgen og personer som er tildelt begrenset politimyndighet,ansatte i Justisdepartementet, Politidirektoratet og Domstoladministrasjonen og dens styre,ansatte og studenter ved Politihøgskolen og Fengselsskolen,praktiserende advokater og advokatfullmektiger,kommunens administrasjonssjef (medlemmene av kommunerådet i kommuner med et parlamentarisk styringssystem) og andre kommunale tjenestemenn som tar direkte del i forberedelsen eller gjennomføringen av valget.
+Utelukket fra valg på grunn av stilling er:
+
+1. Stortingets representanter og vararepresentanter,
+2. statsrådets medlemmer, statssekretærer, statsrådenes personlige politiske rådgivere og ansatte ved Statsministerens kontor,
+3. statsforvaltere og assisterende statsforvaltere,
+4. utnevnte og konstituerte dommere og ansatte ved domstolene,
+5. ansatte ved påtalemyndigheten, i politiet og kriminalomsorgen og personer som er tildelt begrenset politimyndighet,
+6. ansatte i Justisdepartementet, Politidirektoratet og Domstoladministrasjonen og dens styre,
+7. ansatte og studenter ved Politihøgskolen og Fengselsskolen,
+8. praktiserende advokater og advokatfullmektiger,
+9. kommunens administrasjonssjef (medlemmene av kommunerådet i kommuner med et parlamentarisk styringssystem) og andre kommunale tjenestemenn som tar direkte del i forberedelsen eller gjennomføringen av valget.
 
 > Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [23 juni 1995 nr. 34](lov/1995-06-23-34), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [25 juni 2010 nr. 47](lov/2010-06-25-47), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
 ### § 72
 
-Utelukket fra valg på grunn av vandel er:den som er idømt ubetinget fengselsstraff i mer enn ett år,den som er idømt forvaring eller særreaksjoner etter [straffeloven § 40](lov/2005-05-20-28/§40) eller [§§ 62](lov/2005-05-20-28/§62) til [65](lov/2005-05-20-28/§65),den som er idømt ubetinget fengselsstraff i ett år eller mindre, og det ved valgperiodens start er mindre enn 15 år siden dommen var rettskraftig,den som er idømt betinget fengselsstraff, og det ved valgperiodens start er mindre enn 10 år siden dommen var rettskraftig,den som er idømt eller har vedtatt bøtestraff for et forhold som etter loven kan medføre fengsel i mer enn ett år, og det ved valgperiodens start er mindre enn 10 år siden dommen var rettskraftig eller vedtakelsen,den som har fått betinget påtaleunnlatelse eller domsutsettelse for et forhold som etter loven kan medføre fengsel i mer enn ett år, og det ved valgperiodens start er mindre enn 10 år siden avgjørelsen var rettskraftig.
+Utelukket fra valg på grunn av vandel er:
+
+1. den som er idømt ubetinget fengselsstraff i mer enn ett år,
+2. den som er idømt forvaring eller særreaksjoner etter [straffeloven § 40](lov/2005-05-20-28/§40) eller [§§ 62](lov/2005-05-20-28/§62) til [65](lov/2005-05-20-28/§65),
+3. den som er idømt ubetinget fengselsstraff i ett år eller mindre, og det ved valgperiodens start er mindre enn 15 år siden dommen var rettskraftig,
+4. den som er idømt betinget fengselsstraff, og det ved valgperiodens start er mindre enn 10 år siden dommen var rettskraftig,
+5. den som er idømt eller har vedtatt bøtestraff for et forhold som etter loven kan medføre fengsel i mer enn ett år, og det ved valgperiodens start er mindre enn 10 år siden dommen var rettskraftig eller vedtakelsen,
+6. den som har fått betinget påtaleunnlatelse eller domsutsettelse for et forhold som etter loven kan medføre fengsel i mer enn ett år, og det ved valgperiodens start er mindre enn 10 år siden avgjørelsen var rettskraftig.
 
 Dom på samfunnsstraff eller ungdomsstraff medfører utelukkelse etter første ledd nr. 1 eller 3, avhengig av lengden av den subsidiære fengselsstraffen. Ved delvis betinget fengselsstraff vurderes hver del for seg etter første ledd.
 
@@ -984,7 +1029,13 @@ Avgjørelse av spørsmål om gyldig fravær som er tatt av en tjenestemann, kan 
 
 ### § 91
 
-En meddommer eller et varamedlem skal ikke gjøre tjeneste dersom vedkommendeskulle vært slettet etter [§ 76](lov/1915-08-13-5/§76),ikke har tilstrekkelige norskkunnskaper,er siktet for et straffbart forhold, uten at siktelsen har ført til et forelegg,er utelukket fra å gjøre tjeneste etter [§ 106](lov/1915-08-13-5/§106) eller [§ 107](lov/1915-08-13-5/§107) ellerskal delta i en sak hvor det blir gitt informasjon som etter sikkerhetsloven er skjermingsverdig, og ikke kan klareres og autoriseres for den aktuelle sikkerhetsgrad.
+En meddommer eller et varamedlem skal ikke gjøre tjeneste dersom vedkommende
+
+1. skulle vært slettet etter [§ 76](lov/1915-08-13-5/§76),
+2. ikke har tilstrekkelige norskkunnskaper,
+3. er siktet for et straffbart forhold, uten at siktelsen har ført til et forelegg,
+4. er utelukket fra å gjøre tjeneste etter [§ 106](lov/1915-08-13-5/§106) eller [§ 107](lov/1915-08-13-5/§107) eller
+5. skal delta i en sak hvor det blir gitt informasjon som etter sikkerhetsloven er skjermingsverdig, og ikke kan klareres og autoriseres for den aktuelle sikkerhetsgrad.
 
 Dersom det ved trekningen er på det rene at det foreligger et forhold som nevnt i første ledd, foretas ny trekning. Ellers gjelder [§ 92](lov/1915-08-13-5/§92).
 
@@ -1106,7 +1157,17 @@ Avgjørelser om godtgjørelse etter paragrafen her kan ankes etter reglene i [lo
 
 ### § 106
 
-Ingen kan være dommer:naar han selv er part i saken eller medberettiget, medforpligtet eller regrespligtig i forhold til en part, eller naar han i en straffesak er fornærmet ved den strafbare handling;naar han er i slegt eller svogerskap i op- eller nedstigende linje eller i sidelinjen saa nær som søskendebarn med nogen, som staar i saadant forhold til saken som nævnt under nr. 1;naar han er eller har været gift med eller er forlovet med eller er fosterfar, fostermor eller fosterbarn til nogen, som staar i saadant forhold til saken som nævnt under nr. 1;når han er verge for noen, som står i slikt forhold til saken som nevnt under nr. 1, eller har vært verge for en part, etter at saken begynte;når han styrer eller er medlem eller varamedlem av styret for et selskap, et samvirkeforetak, en forening, sparebank, stiftelse eller offentlig innretning eller ordfører eller varaordfører i en kommune eller fylkeskommune som står i et slikt forhold til saken som nevnt i nr. 1, eller når han styrer eller er medlem eller varamedlem av styret for et bo som står i slikt forhold til saken, og det ikke er tingretten selv som styrer boet;naar han har handlet i saken for en part, eller for paatalemyndigheten eller den fornærmede;naar han er i slegt eller svogerskap i op- eller nedstigende linje eller sidelinjen saa nær som søskende eller gift med eller forlovet med nogen, som handler i saken for en part eller for paatalemyndigheten eller den fornærmede;når han tidligere har hatt med saken å gjøre som voldgiftsdommer eller i lavere rett som dommer eller lagrettemedlem;naar han er i slegt eller svogerskap i op- eller nedstigende linje eller i sidelinjen saa nær som søskende eller gift med eller forlovet med nogen, som har været dommer i saken i lavere ret.
+Ingen kan være dommer:
+
+1. naar han selv er part i saken eller medberettiget, medforpligtet eller regrespligtig i forhold til en part, eller naar han i en straffesak er fornærmet ved den strafbare handling;
+2. naar han er i slegt eller svogerskap i op- eller nedstigende linje eller i sidelinjen saa nær som søskendebarn med nogen, som staar i saadant forhold til saken som nævnt under nr. 1;
+3. naar han er eller har været gift med eller er forlovet med eller er fosterfar, fostermor eller fosterbarn til nogen, som staar i saadant forhold til saken som nævnt under nr. 1;
+4. når han er verge for noen, som står i slikt forhold til saken som nevnt under nr. 1, eller har vært verge for en part, etter at saken begynte;
+5. når han styrer eller er medlem eller varamedlem av styret for et selskap, et samvirkeforetak, en forening, sparebank, stiftelse eller offentlig innretning eller ordfører eller varaordfører i en kommune eller fylkeskommune som står i et slikt forhold til saken som nevnt i nr. 1, eller når han styrer eller er medlem eller varamedlem av styret for et bo som står i slikt forhold til saken, og det ikke er tingretten selv som styrer boet;
+6. naar han har handlet i saken for en part, eller for paatalemyndigheten eller den fornærmede;
+7. naar han er i slegt eller svogerskap i op- eller nedstigende linje eller sidelinjen saa nær som søskende eller gift med eller forlovet med nogen, som handler i saken for en part eller for paatalemyndigheten eller den fornærmede;
+8. når han tidligere har hatt med saken å gjøre som voldgiftsdommer eller i lavere rett som dommer eller lagrettemedlem;
+9. naar han er i slegt eller svogerskap i op- eller nedstigende linje eller i sidelinjen saa nær som søskende eller gift med eller forlovet med nogen, som har været dommer i saken i lavere ret.
 
 > Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [18 des 1987 nr. 97](lov/1987-12-18-97), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [14 mai 2004 nr. 25](lov/2004-05-14-25) (ikr. 1 jan 2005 iflg. [res. 14 mai 2004 nr. 751](forskrift/2004-05-14-751)), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
@@ -1242,9 +1303,21 @@ En dommer i Høyesterett, lagmannsrettene, tingrettene og jordskifterettene kan 
 
 ### § 121 c
 
-En dommer i Høyesterett, lagmannsrettene, tingrettene og jordskifterettene må søke om godkjenning for sidegjøremålsom kan medføre at dommeren mer enn leilighetsvis kan bli inhabilsom kan medføre at arbeidet i dommerstillingen hemmes eller sinkesi kollegiale forvaltningsorganer hvor det er sannsynlig at avgjørelsen kan bli brakt inn for domstolene til overprøvingi privat eller offentlig næringsvirksomhetom granskingi private tvisteløsningsnemnder ogsom medlem i voldgiftsrett
+En dommer i Høyesterett, lagmannsrettene, tingrettene og jordskifterettene må søke om godkjenning for sidegjøremål
 
-Unntatt fra godkjenning ervalg eller oppnevning som foretas av Stortinget eller av Kongen i statsrådvalg som stortingsrepresentant, som medlem av Sametinget eller som medlem av folkevalgte organer i kommune eller fylkeskommune ogverv i registrert politisk parti.
+1. som kan medføre at dommeren mer enn leilighetsvis kan bli inhabil
+2. som kan medføre at arbeidet i dommerstillingen hemmes eller sinkes
+3. i kollegiale forvaltningsorganer hvor det er sannsynlig at avgjørelsen kan bli brakt inn for domstolene til overprøving
+4. i privat eller offentlig næringsvirksomhet
+5. om gransking
+6. i private tvisteløsningsnemnder og
+7. som medlem i voldgiftsrett
+
+Unntatt fra godkjenning er
+
+1. valg eller oppnevning som foretas av Stortinget eller av Kongen i statsråd
+2. valg som stortingsrepresentant, som medlem av Sametinget eller som medlem av folkevalgte organer i kommune eller fylkeskommune og
+3. verv i registrert politisk parti.
 
 Når Kongen i statsråd foretar oppnevninger etter første ledd jf. annet ledd nr. 1, skal det likevel innhentes uttalelse fra domstoladministrasjonen hvis det ikke gjelder oppnevning til granskingskommisjon eller medlem til styret i domstoladministrasjonen, Tilsynsutvalget eller Innstillingsrådet.
 
@@ -1262,7 +1335,11 @@ For saker om godkjenning gjelder forvaltningslovens regler om enkeltvedtak, like
 
 Sidegjøremål for dommere i Høyesterett, lagmannsrettene, tingrettene og jordskifterettene skal registreres. Det samme gjelder opplysning om siste stilling før utnevnelsen eller tilsettingen som dommer.
 
-Unntatt fra registreringen ermedlemskap i politiske partier, i trossamfunn, i interesseorganisasjoner og ideelle foreningerverv og lignende i ideelle foreninger som har færre enn 100 medlemmer ogenkeltstående foredrag, forelesninger og lignende.
+Unntatt fra registreringen er
+
+1. medlemskap i politiske partier, i trossamfunn, i interesseorganisasjoner og ideelle foreninger
+2. verv og lignende i ideelle foreninger som har færre enn 100 medlemmer og
+3. enkeltstående foredrag, forelesninger og lignende.
 
 Unntaket i annet ledd nr. 1 og 2 gjelder ikke for sidegjøremål i ideelle foreninger hvor medlemmene har særlige gjensidige forpliktelser overfor hverandre (brorskaps- eller søsterforbund).
 
@@ -1278,7 +1355,13 @@ Registeret over sidegjøremål føres av domstoladministrasjonen.
 
 ### § 121 g
 
-En dommer skal melde fra om sidegjøremål til registerføreren snarest mulig, og senest innen en måned etter at dommeren påtok seg sidegjøremålet. Meldingen skal inneholde følgende opplysninger:dommerens tittel, navn og domstoltilknytninghva gjøremålet består ihvem som eventuelt er oppdragsgivertidspunktet for og varigheten av sidegjøremålet ogom dommeren mottar godtgjøring.
+En dommer skal melde fra om sidegjøremål til registerføreren snarest mulig, og senest innen en måned etter at dommeren påtok seg sidegjøremålet. Meldingen skal inneholde følgende opplysninger:
+
+1. dommerens tittel, navn og domstoltilknytning
+2. hva gjøremålet består i
+3. hvem som eventuelt er oppdragsgiver
+4. tidspunktet for og varigheten av sidegjøremålet og
+5. om dommeren mottar godtgjøring.
 
 Et registrert sidegjøremål skal slettes når det er gått tre år etter at sidegjøremålet ble avsluttet.
 
@@ -1356,7 +1439,14 @@ Departementet kan gi forskrift om strømming etter første ledd, blant annet om 
 
 ### § 125
 
-Retten kan ved kjennelse beslutte at et rettsmøte helt eller delvis skal holdes for lukkede dørernår hensynet til statens forhold til en fremmed makt krever det,når hensynet til privatlivets fred eller til ærbarhet krever det,når særlige forhold gir grunn til frykt for at offentlighet vil vanskeliggjøre sakens opplysning og lukkede dører derfor er påkrevd,når en siktet er under 18 år, fornærmedes ettermæle krever det eller en siktet eller et vitne ber om det av grunner som retten finner fyllestgjørende,når et vitne avhøres anonymt, jf. [straffeprosessloven § 130 a](lov/1981-05-22-25/§130a), elleri krigstid når hensynet til militære operasjoner eller militære avdelingers sikkerhet eller andre særlige grunner krever det.
+Retten kan ved kjennelse beslutte at et rettsmøte helt eller delvis skal holdes for lukkede dører
+
+1. når hensynet til statens forhold til en fremmed makt krever det,
+2. når hensynet til privatlivets fred eller til ærbarhet krever det,
+3. når særlige forhold gir grunn til frykt for at offentlighet vil vanskeliggjøre sakens opplysning og lukkede dører derfor er påkrevd,
+4. når en siktet er under 18 år, fornærmedes ettermæle krever det eller en siktet eller et vitne ber om det av grunner som retten finner fyllestgjørende,
+5. når et vitne avhøres anonymt, jf. [straffeprosessloven § 130 a](lov/1981-05-22-25/§130a), eller
+6. i krigstid når hensynet til militære operasjoner eller militære avdelingers sikkerhet eller andre særlige grunner krever det.
 
 I saker etter ekteskapsloven eller barneloven og i saker mellom ektefeller eller fraskilte om fordeling eller tildeling av formuen, skal rettsmøtet holdes for lukkede dører, med mindre retten av særlige grunner beslutter at saken helt eller delvis føres for åpne dører. Det samme gjelder i tilsvarende saker mellom personer som er eller har vært samboere.
 
@@ -1388,7 +1478,10 @@ Når et rettsmøte holdes for lukkede dører, og retten finner at sakens opplysn
 
 I straffesaker må ingen gjengi offentlig noe av forhandlingene i rettsmøte utenfor hovedforhandlingen, med unntak for saker om tilståelsesdom etter [straffeprosessloven § 248](lov/1981-05-22-25/§248).
 
-Ellers kan retten ved kjennelse helt eller delvis forby offentlig gjengivelse av forhandlingene i rettsmøtenår retten frykter at offentlig gjengivelse av forhandlingene vil kunne ha skadelig virkning på opplysningen eller pådømmelsen av saken, ellernår rettsmøtet holdes eller kan holdes for lukkede dører.
+Ellers kan retten ved kjennelse helt eller delvis forby offentlig gjengivelse av forhandlingene i rettsmøte
+
+1. når retten frykter at offentlig gjengivelse av forhandlingene vil kunne ha skadelig virkning på opplysningen eller pådømmelsen av saken, eller
+2. når rettsmøtet holdes eller kan holdes for lukkede dører.
 
 I saker etter ekteskapsloven eller barneloven og i saker mellom ektefeller eller fraskilte om fordeling eller tildeling av formuen, må forhandlingene ikke gjengis offentlig, med mindre retten av særlige grunner beslutter at offentlig gjengivelse i anonymisert form helt eller delvis tillates. Det samme gjelder i tilsvarende saker mellom personer som er eller har vært samboere.
 
@@ -1398,7 +1491,12 @@ Referatforbud etter første eller annet ledd gjelder til retten beslutter at det
 
 ### § 130
 
-Retten kan forby at hele eller deler av en rettsavgjørelse gjengis offentlig hvishensynet til privatlivets fred eller fornærmedes ettermæle krever det, elleretterforskningshensyn krever at en kjennelse eller beslutning avsagt i en straffesak utenfor hovedforhandling ikke blir offentlig gjengitt.Forbudet gjelder til retten beslutter at det skal oppheves. Forbud etter bokstav a gjelder ikke en domsslutning så langt den kan gjengis uten å røpe noens identitet. Enhver kan anke et forbud eller en nektelse av å oppheve et forbud etter leddet her.
+Retten kan forby at hele eller deler av en rettsavgjørelse gjengis offentlig hvis
+
+1. hensynet til privatlivets fred eller fornærmedes ettermæle krever det, eller
+2. etterforskningshensyn krever at en kjennelse eller beslutning avsagt i en straffesak utenfor hovedforhandling ikke blir offentlig gjengitt.
+
+Forbudet gjelder til retten beslutter at det skal oppheves. Forbud etter bokstav a gjelder ikke en domsslutning så langt den kan gjengis uten å røpe noens identitet. Enhver kan anke et forbud eller en nektelse av å oppheve et forbud etter leddet her.
 
 Retten kan forby at rettsavgjørelser gjengis offentlig før avgjørelsen er meddelt partene og fornærmede eller etterlatte i lovbestemt rekkefølge, jf. [straffeprosessloven § 93 a](lov/1981-05-22-25/§93a) annet ledd annet punktum. Slikt forbud gjelder likevel ikke for lengre tid enn to uker etter avsigelsen av rettsavgjørelsen.
 
@@ -1984,7 +2082,11 @@ En offentlig tjenestemann, prosessfullmektig, rettslig medhjelper eller privat a
 
 Staten indestaar for det erstatningsansvar, som ilægges en offentlig tjenestemand. Dog hefter staten ikke overfor sigtede for det ansvar, som en offentlig forsvarer paadrar sig, naar han er opnævnt efter begjæring av sigtede uten at være fast antat for retskredsen.
 
-Erstatningssøksmål om en tjenestemanns eller det offentliges ansvar i anledning av rettslige avgjørelser kan ikke reises uten atavgjørelsen er opphevet eller forandret,avgjørelsen er bortfalt med den virkning at rettidig anke mot den ikke kunne tas under behandling eller avgjøres, ellertjenestemannen ved dom er kjent skyldig i straffbart forhold ved avgjørelsen.
+Erstatningssøksmål om en tjenestemanns eller det offentliges ansvar i anledning av rettslige avgjørelser kan ikke reises uten at
+
+1. avgjørelsen er opphevet eller forandret,
+2. avgjørelsen er bortfalt med den virkning at rettidig anke mot den ikke kunne tas under behandling eller avgjøres, eller
+3. tjenestemannen ved dom er kjent skyldig i straffbart forhold ved avgjørelsen.
 
 For krav om at staten erstatter sakskostnader på grunn av feil ved rettens behandling, gjelder [tvisteloven § 20-12](lov/2005-06-17-90/§20-12).
 
@@ -2132,7 +2234,16 @@ Hvis en advokat eller advokatfullmektig ilegges straff eller erstatning etter de
 
 ### § 218
 
-For å få tillatelse til å være advokat ved Høyesterett skal søkeren godtgjøre:at vedkommende har advokatbevilling,at vedkommende har vært i virksomheti minst ett år som advokat, elleri minst tre år i stilling som nevnt i [advokatloven § 4 første ledd bokstav b](lov/2022-05-12-28/§4/ledd/1/bokstav/b),at vedkommende har vist seg skikket for sakførsel ved Høyesterett ved en prøve avlagt for Høyesterett.Minst to av de tre årene nevnt i første punktum nr. 2 bokstav b skal ha vært som advokatfullmektig. For den som i minst to år har vært i virksomhet som statsadvokat eller fullmektig hos riksadvokaten, er ett år som advokatfullmektig tilstrekkelig.
+For å få tillatelse til å være advokat ved Høyesterett skal søkeren godtgjøre:
+
+1. at vedkommende har advokatbevilling,
+2. at vedkommende har vært i virksomhet
+
+   1. i minst ett år som advokat, eller
+   2. i minst tre år i stilling som nevnt i [advokatloven § 4 første ledd bokstav b](lov/2022-05-12-28/§4/ledd/1/bokstav/b),
+3. at vedkommende har vist seg skikket for sakførsel ved Høyesterett ved en prøve avlagt for Høyesterett.
+
+Minst to av de tre årene nevnt i første punktum nr. 2 bokstav b skal ha vært som advokatfullmektig. For den som i minst to år har vært i virksomhet som statsadvokat eller fullmektig hos riksadvokaten, er ett år som advokatfullmektig tilstrekkelig.
 
 Den som vil avlegge prøve som nevnt i første ledd første punktum nr. 3, skal sende Høyesteretts domstolleder en bekreftelse fra Advokattilsynet om at vedkommende oppfyller vilkårene i første ledd nr. 1 og 2. Prøven omfatter utføringen av to muntlige saker. Minst en av disse skal være en sivil sak for den ankende part, med mindre Høyesteretts ankeutvalg av særlige grunner gir tillatelse til annet. Det er ikke adgang til å møte til prøve i en sak som behandles av Høyesterett i plenum eller storkammer, med mindre Høyesteretts ankeutvalg av særlige grunner gir tillatelse til det. For statsadvokater og fullmektiger hos riksadvokaten kan en straffesak godkjennes som prøvesak selv om vilkårene etter første ledd ikke er oppfylt. I samme sak kan det bare være en prøveadvokat, med mindre Høyesteretts ankeutvalg av særlige grunner gir tillatelse til noe annet.
 
@@ -2182,7 +2293,13 @@ Tilsynsutvalget kan ikke vurdere forhold som kan overprøves etter reglene i ret
 
 ### § 237
 
-Rett til å klage en dommer inn for Tilsynsutvalget harparter, prosessfullmektiger, sakkyndige, vitner og andre personer som mener at en dommer har overtrådt bestemmelsene i [§ 236](lov/1915-08-13-5/§236) og som selv har vært direkte berørt av dettedepartementetdomstoladministrasjonendomstollederen ved den domstol som dommeren er tilknyttet ogDen Norske Advokatforening eller andre som har en særlig interesse i å få Tilsynsutvalgets vurdering av dommerens atferd.
+Rett til å klage en dommer inn for Tilsynsutvalget har
+
+1. parter, prosessfullmektiger, sakkyndige, vitner og andre personer som mener at en dommer har overtrådt bestemmelsene i [§ 236](lov/1915-08-13-5/§236) og som selv har vært direkte berørt av dette
+2. departementet
+3. domstoladministrasjonen
+4. domstollederen ved den domstol som dommeren er tilknyttet og
+5. Den Norske Advokatforening eller andre som har en særlig interesse i å få Tilsynsutvalgets vurdering av dommerens atferd.
 
 Rett til å klage en dommer inn for Tilsynsutvalget på grunn av forhold utenfor tjenesten har bare departementet, domstoladministrasjonen og domstollederen ved den domstol som dommeren er tilknyttet.
 
@@ -2206,7 +2323,10 @@ Tilsynsutvalget treffer sine vedtak i møte. For at utvalget skal være vedtaksf
 
 Reglene i kapittel 6 om habilitet gjelder tilsvarende for medlemmene av Tilsynsutvalget.
 
-Tilsynsutvalget kan gi utvalgets leder eller et annet av utvalgets medlemmer myndighet tilå avvise en klage når det ikke foreligger klageadgang etter loven herå avgjøre en klagesak når klagen er åpenbart ubegrunnet.
+Tilsynsutvalget kan gi utvalgets leder eller et annet av utvalgets medlemmer myndighet til
+
+1. å avvise en klage når det ikke foreligger klageadgang etter loven her
+2. å avgjøre en klagesak når klagen er åpenbart ubegrunnet.
 
 Tilsynsutvalgets vedtak i disiplinærsaker er offentlige i anonymisert form.
 

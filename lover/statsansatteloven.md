@@ -15,7 +15,7 @@ xml_hash: "7528888335162efec68280f92932ea6a44016b57e66769840d28a13e307a7823"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,11 @@ eu_basis: []
 
 (3) Kongen fastsetter personalreglement for departementene og Statsministerens kontor. Et utkast til reglement skal på forhånd forhandles frem mellom de forhandlingsberettigede tjenestemannsorganisasjoner etter [lov 18. juli 1958 nr. 2 om offentlige tjenestetvister § 3](lov/1958-07-18-2/§3) første ledd og det departement som sentralt forvalter statens lønns- og personalforhold.
 
-(4) Et personalreglement er gyldig nårdet er fastsatt i samsvar med bestemmelsene i første til tredje ledddet inneholder bestemmelsene som etter loven skal fastsettes i personalreglement ogdet ikke inneholder bestemmelser som strider mot lov eller vedtak fattet med hjemmel i lov, eller avtaler sluttet mellom staten og hovedsammenslutningene.
+(4) Et personalreglement er gyldig når
+
+1. det er fastsatt i samsvar med bestemmelsene i første til tredje ledd
+2. det inneholder bestemmelsene som etter loven skal fastsettes i personalreglement og
+3. det ikke inneholder bestemmelser som strider mot lov eller vedtak fattet med hjemmel i lov, eller avtaler sluttet mellom staten og hovedsammenslutningene.
 
 (5) Partene kan når som helst kreve at personalreglementet tas opp til revisjon. Den samme retten har departementet.
 
@@ -100,7 +104,10 @@ eu_basis: []
 
 (2) I personalreglement kan det gjøres unntak fra reglene i [§§ 3](lov/2017-06-16-67/§3) til [6](lov/2017-06-16-67/§6) ved ansettelse og utnevning for inntil ett år.
 
-(3) I personalreglement kan det gjøres unntak fra reglene i [§§ 5](lov/2017-06-16-67/§5) og [6](lov/2017-06-16-67/§6) vedgruppevis inntak av elever og aspiranter, elleransettelsesforhold med kortere arbeidstid enn 15 timer per uke.
+(3) I personalreglement kan det gjøres unntak fra reglene i [§§ 5](lov/2017-06-16-67/§5) og [6](lov/2017-06-16-67/§6) ved
+
+1. gruppevis inntak av elever og aspiranter, eller
+2. ansettelsesforhold med kortere arbeidstid enn 15 timer per uke.
 
 ### § 8. Utnevning av embetsmenn og ansettelse av statsansatte som beskikkes av Kongen
 
@@ -108,7 +115,13 @@ Kongen kan fastsette regler om hvem som skal ha rett til uttalelse når embetsme
 
 ### § 9. Fast og midlertidig ansettelse
 
-(1) Statsansatte skal ansettes fast. Avtale om midlertidig ansettelse kan likevel inngåsnår arbeidet er av midlertidig karakterfor arbeid i stedet for en annen eller andre (vikariat)for praksisarbeidfor utdanningsstillinger, ellerfor en periode på inntil seks måneder når det har oppstått et uforutsett behov.
+(1) Statsansatte skal ansettes fast. Avtale om midlertidig ansettelse kan likevel inngås
+
+1. når arbeidet er av midlertidig karakter
+2. for arbeid i stedet for en annen eller andre (vikariat)
+3. for praksisarbeid
+4. for utdanningsstillinger, eller
+5. for en periode på inntil seks måneder når det har oppstått et uforutsett behov.
 
 (2) Arbeidsgiver i virksomheten skal minst en gang årlig drøfte bruken av midlertidige ansettelser etter bestemmelsene i første ledd med de tillitsvalgte, inkludert grunnlaget for og omfanget av slike ansettelser, og konsekvenser for arbeidsmiljøet.
 
@@ -176,7 +189,12 @@ Kongen kan fastsette regler om hvem som skal ha rett til uttalelse når embetsme
 
 ### § 14. Adgang til åremål og konstitusjon av embetsmenn
 
-(1) Embetsmann utnevnes fast i embetet, men kan konstitueresnår embetsmannen bare trengs for et begrenset tidsrom eller for å utføre et bestemt oppdragnår embetet ennå ikke er fast organisert, eller arbeidsområdet eller virkekretsen er planlagt endretnår embetsmannen skal gjøre tjeneste i stedet for en annen (vikar), ellerfor en periode på inntil seks måneder.
+(1) Embetsmann utnevnes fast i embetet, men kan konstitueres
+
+1. når embetsmannen bare trengs for et begrenset tidsrom eller for å utføre et bestemt oppdrag
+2. når embetet ennå ikke er fast organisert, eller arbeidsområdet eller virkekretsen er planlagt endret
+3. når embetsmannen skal gjøre tjeneste i stedet for en annen (vikar), eller
+4. for en periode på inntil seks måneder.
 
 (2) I tilfeller som nevnt i første ledd bokstav b, kan Kongen, i stedet for å benytte konstitusjon, ta forbehold om at embetsmannen må finne seg i slike endringer i embetets arbeidsområde som senere blir fastsatt.
 
@@ -244,7 +262,12 @@ Kongen kan fastsette regler om hvem som skal ha rett til uttalelse når embetsme
 
 ### § 20. Oppsigelse på grunn av den statsansattes forhold
 
-(1) En ansatt kan sies opp når vedkommendeikke er i stand til å gjenoppta arbeidet på grunn av sykdomikke lenger har de kvalifikasjoner som er nødvendig eller foreskrevet for stillingenpå grunn av vedvarende mangelfull arbeidsutførelse er uskikket for stillingen, ellergjentatte ganger har krenket sine tjenesteplikter.
+(1) En ansatt kan sies opp når vedkommende
+
+1. ikke er i stand til å gjenoppta arbeidet på grunn av sykdom
+2. ikke lenger har de kvalifikasjoner som er nødvendig eller foreskrevet for stillingen
+3. på grunn av vedvarende mangelfull arbeidsutførelse er uskikket for stillingen, eller
+4. gjentatte ganger har krenket sine tjenesteplikter.
 
 (2) Skyldes oppsigelsen forhold som nevnt i første ledd bokstav a eller b, skal den ansatte før oppsigelsen gis, om mulig tilbys en annen passende stilling i virksomheten.
 
@@ -256,9 +279,16 @@ Oppsigelsesvernet ved sykdom, svangerskap og etter fødsel eller adopsjon, og ve
 
 ### § 22. Oppsigelsesfrister
 
-(1) Ved oppsigelse fra arbeidsgiver er oppsigelsesfristenén måned hvis ansettelsestiden er ett år eller mindretre måneder hvis ansettelsestiden er mer enn ett årseks måneder hvis ansettelsestiden er mer enn to år.
+(1) Ved oppsigelse fra arbeidsgiver er oppsigelsesfristen
 
-(2) Dersom den ansatte sier opp sin stilling er oppsigelsesfristenén måned hvis ansettelsestiden er ett år eller mindretre måneder hvis ansettelsestiden er mer enn ett år.
+1. én måned hvis ansettelsestiden er ett år eller mindre
+2. tre måneder hvis ansettelsestiden er mer enn ett år
+3. seks måneder hvis ansettelsestiden er mer enn to år.
+
+(2) Dersom den ansatte sier opp sin stilling er oppsigelsesfristen
+
+1. én måned hvis ansettelsestiden er ett år eller mindre
+2. tre måneder hvis ansettelsestiden er mer enn ett år.
 
 ### § 23. Beregning av ansettelsestiden
 
@@ -282,7 +312,10 @@ Oppsigelsesvernet ved sykdom, svangerskap og etter fødsel eller adopsjon, og ve
 
 (6) Er det flere fortrinnsberettigede til en stilling, skal den som er best kvalifisert ansettes.
 
-(7) Reglene i denne paragrafen gjelder tilsvarende for embetsmenn uansett tjenestetid, dersom avskjeden skyldes at embetsmannenpå grunn av sykdom er varig uskikket til forsvarlig å utføre sin tjeneste, ellerikke lenger har de kvalifikasjonene som er nødvendig eller foreskrevet for embetet.
+(7) Reglene i denne paragrafen gjelder tilsvarende for embetsmenn uansett tjenestetid, dersom avskjeden skyldes at embetsmannen
+
+1. på grunn av sykdom er varig uskikket til forsvarlig å utføre sin tjeneste, eller
+2. ikke lenger har de kvalifikasjonene som er nødvendig eller foreskrevet for embetet.
 
 (8) Reglene gjelder ikke for konstituerte embetsmenn. Fortrinnsretten kan ikke gjøres gjeldende til embeter eller stillinger som beskikkes av Kongen i statsråd.
 
@@ -290,11 +323,20 @@ Oppsigelsesvernet ved sykdom, svangerskap og etter fødsel eller adopsjon, og ve
 
 ### § 25. Ordensstraff
 
-(1) Statsansatte eller embetsmenn kan ilegges ordensstraff forovertredelse av tjenesteplikter eller unnlatelse av å oppfylle tjenesteplikter, ellerutilbørlig adferd i eller utenfor tjenesten som skader den aktelse eller tillit som er nødvendig for stillingen, tjenesten eller embetet.
+(1) Statsansatte eller embetsmenn kan ilegges ordensstraff for
 
-(2) Som ordensstraff kan statsansatteilegges tap av ansiennitet fra én måned til to år, ellervarig eller midlertidig omplasseres til en annen stilling.
+1. overtredelse av tjenesteplikter eller unnlatelse av å oppfylle tjenesteplikter, eller
+2. utilbørlig adferd i eller utenfor tjenesten som skader den aktelse eller tillit som er nødvendig for stillingen, tjenesten eller embetet.
 
-(3) Som ordensstraff kan embetsmennilegges skriftlig irettesettelse, ellerilegges tap av ansiennitet fra én måned til to år.
+(2) Som ordensstraff kan statsansatte
+
+1. ilegges tap av ansiennitet fra én måned til to år, eller
+2. varig eller midlertidig omplasseres til en annen stilling.
+
+(3) Som ordensstraff kan embetsmenn
+
+1. ilegges skriftlig irettesettelse, eller
+2. ilegges tap av ansiennitet fra én måned til to år.
 
 (4) Opplysninger om ordensstraff kan lagres i personalmappen i fem år.
 
@@ -302,13 +344,28 @@ Oppsigelsesvernet ved sykdom, svangerskap og etter fødsel eller adopsjon, og ve
 
 ### § 26. Avskjed av statsansatte
 
-En statsansatt kan avskjediges når vedkommendehar vist grov uforstand i tjenestengrovt har krenket sine tjenesteplikterpå tross av skriftlig advarsel gjentatt har krenket sine tjenesteplikter, ellerved utilbørlig adferd i eller utenfor tjenesten viser seg uverdig til sin stilling eller bryter ned den aktelsen eller tilliten som er nødvendig for stillingen eller tjenesten.
+En statsansatt kan avskjediges når vedkommende
+
+1. har vist grov uforstand i tjenesten
+2. grovt har krenket sine tjenesteplikter
+3. på tross av skriftlig advarsel gjentatt har krenket sine tjenesteplikter, eller
+4. ved utilbørlig adferd i eller utenfor tjenesten viser seg uverdig til sin stilling eller bryter ned den aktelsen eller tilliten som er nødvendig for stillingen eller tjenesten.
 
 ### § 27. Avskjed av embetsmenn ved administrativ beslutning eller dom
 
-(1) En embetsmann kan avskjediges når vedkommendepå grunn av sykdom er varig uskikket til forsvarlig å utføre sin tjenesteikke lenger har de kvalifikasjoner som er nødvendige eller foreskrevet for embetet, eller av andre grunner er varig uskikket for embetethar vist grov uforstand i tjenestengrovt har krenket sine tjenesteplikterpå tross av skriftlig advarsel gjentatt har krenket sine tjenesteplikter, ellerved utilbørlig adferd i eller utenfor tjenesten viser seg uverdig til sitt embete eller bryter ned den aktelse eller tillit som er nødvendig for embetet.
+(1) En embetsmann kan avskjediges når vedkommende
 
-(2) Før embetsmann avskjediges, skal embetsmannen om mulig tilbys annen passende stilling i virksomheten dersom avskjeden skyldes at vedkommendepå grunn av sykdom er varig uskikket til forsvarlig å utføre sin tjeneste, ellerikke lenger har de kvalifikasjoner som er nødvendige eller foreskrevet for embetet.
+1. på grunn av sykdom er varig uskikket til forsvarlig å utføre sin tjeneste
+2. ikke lenger har de kvalifikasjoner som er nødvendige eller foreskrevet for embetet, eller av andre grunner er varig uskikket for embetet
+3. har vist grov uforstand i tjenesten
+4. grovt har krenket sine tjenesteplikter
+5. på tross av skriftlig advarsel gjentatt har krenket sine tjenesteplikter, eller
+6. ved utilbørlig adferd i eller utenfor tjenesten viser seg uverdig til sitt embete eller bryter ned den aktelse eller tillit som er nødvendig for embetet.
+
+(2) Før embetsmann avskjediges, skal embetsmannen om mulig tilbys annen passende stilling i virksomheten dersom avskjeden skyldes at vedkommende
+
+1. på grunn av sykdom er varig uskikket til forsvarlig å utføre sin tjeneste, eller
+2. ikke lenger har de kvalifikasjoner som er nødvendige eller foreskrevet for embetet.
 
 (3) Kongen kan gi forskrift om hva som regnes som annen passende stilling etter annet ledd. Kongen kan også i forskrift fastsette at arbeidsgivers tilbud om annen passende stilling ikke skal omfatte den som blir avskjediget fra bestemte embeter, og at det heller ikke skal gjelde ved ansettelse i bestemte stillinger.
 

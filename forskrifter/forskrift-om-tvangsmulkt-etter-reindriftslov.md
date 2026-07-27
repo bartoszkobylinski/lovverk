@@ -32,7 +32,13 @@ Med pålegg menes et påbud om eller forbud mot å foreta en nærmere bestemt ha
 
 ## § 2. Utmåling av tvangsmulkt
 
-Ved utmåling av tvangsmulkt skal det særlig legges vekt påhvilken type pålegg som ikke er etterkommet,hvor alvorlig unnlatelsen av å etterkomme pålegget er i forhold til de hensyn som pålegget skal ivareta,hvor byrdefullt det vil være for den ansvarlige å etterkomme pålegget,vedkommendes økonomiske evne,eventuelle fordeler ved ikke å etterkomme pålegget.
+Ved utmåling av tvangsmulkt skal det særlig legges vekt på
+
+1. hvilken type pålegg som ikke er etterkommet,
+2. hvor alvorlig unnlatelsen av å etterkomme pålegget er i forhold til de hensyn som pålegget skal ivareta,
+3. hvor byrdefullt det vil være for den ansvarlige å etterkomme pålegget,
+4. vedkommendes økonomiske evne,
+5. eventuelle fordeler ved ikke å etterkomme pålegget.
 
 ## § 3. Forhøyet tvangsmulkt
 
@@ -40,7 +46,11 @@ Dersom et pålegg ikke blir etterkommet til tross for fastsatt tvangsmulkt, kan 
 
 ## § 4. Forfallstidspunkt
 
-For fastsettelse av forfallstidspunkt gjelder følgende:Der hvor tvangsmulkten er fastsatt i daglige terminer påløper tvangsmulkten per dag frem til pålegget blir oppfylt. Tvangsmulkten forfaller til betaling ved skriftlig påkrav.Der hvor tvangsmulkten er fastsatt i ukentlige terminer påløper tvangsmulkten per uke frem til pålegget blir oppfylt. Tvangsmulkten forfaller til betaling ved skriftlig påkrav.Der hvor tvangsmulkten er fastsatt i månedlige terminer påløper tvangsmulkten per måned frem til pålegget blir oppfylt. Tvangsmulkten forfaller til betaling ved skriftlig påkrav.
+For fastsettelse av forfallstidspunkt gjelder følgende:
+
+1. Der hvor tvangsmulkten er fastsatt i daglige terminer påløper tvangsmulkten per dag frem til pålegget blir oppfylt. Tvangsmulkten forfaller til betaling ved skriftlig påkrav.
+2. Der hvor tvangsmulkten er fastsatt i ukentlige terminer påløper tvangsmulkten per uke frem til pålegget blir oppfylt. Tvangsmulkten forfaller til betaling ved skriftlig påkrav.
+3. Der hvor tvangsmulkten er fastsatt i månedlige terminer påløper tvangsmulkten per måned frem til pålegget blir oppfylt. Tvangsmulkten forfaller til betaling ved skriftlig påkrav.
 
 ## § 5. Forholdet til forvaltningsloven og klage
 

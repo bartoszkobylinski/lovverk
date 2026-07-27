@@ -15,7 +15,7 @@ xml_hash: "132c45a816b7321f5830df1011698597755a7f0a2e719fa2f039d27172f6f0a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -92,7 +92,11 @@ Statsbygg tilbyr rådgivning i utredningsfasen for virksomheter i statlig sivil 
 
 Departementene er ansvarlige for leieforhold som de selv eller underliggende virksomheter inngår i markedet.
 
-Iht. Finansdepartementets rundskriv [R-2013-110](rundskriv/r-2013-110) av 25. november 2013 om fullmakter iht. bevilgningsreglementet og kgl. res. av 2. desember 2005 nr. 1359, har departementene fullmakt til å samtykke i at det inngås leieavtaler uten at saken forelegges Stortinget på følgende vilkår:Leieavtalene skal gjelde den ordinære driften av den statlige virksomheten.Utgiftene i forbindelse med avtalene skal kunne dekkes innenfor et uendret bevilgningsnivå på vedkommende budsjettpost i hele avtaleperioden.Behovet for oppsigelsesklausuler skal nøye vurderes for alle avtaler utover budsjettåret. Leieavtalen må kunne transporteres til annen statlig virksomhet.
+Iht. Finansdepartementets rundskriv [R-2013-110](rundskriv/r-2013-110) av 25. november 2013 om fullmakter iht. bevilgningsreglementet og kgl. res. av 2. desember 2005 nr. 1359, har departementene fullmakt til å samtykke i at det inngås leieavtaler uten at saken forelegges Stortinget på følgende vilkår:
+
+1. Leieavtalene skal gjelde den ordinære driften av den statlige virksomheten.
+2. Utgiftene i forbindelse med avtalene skal kunne dekkes innenfor et uendret bevilgningsnivå på vedkommende budsjettpost i hele avtaleperioden.
+3. Behovet for oppsigelsesklausuler skal nøye vurderes for alle avtaler utover budsjettåret. Leieavtalen må kunne transporteres til annen statlig virksomhet.
 
 Dersom leieutgiftene ikke kan dekkes innenfor uendret bevilgningsnivå på vedkommende budsjettkapittel i hele leieperioden, kreves det bevilgning fra Stortinget før inngåelse av leiekontrakt.
 
@@ -126,7 +130,12 @@ Oppdragsdepartementet er ansvarlig for de byggeprosjekter som settes i gang på 
 
 For prosjekter med en antatt investeringskostnad over 300 mill. kroner gjelder krav om avklaringsfase og beslutningspunkt oppstart forprosjekt og beslutningspunkt startbevilgning. Nærmere beskrivelse framgår av egen veileder for styring i tidligfase av store statlige byggeprosjekter. For prosjekter med antatt investeringskostnad under 300 mill. kroner gjelder krav til utredning i pkt. 2.2.
 
-For øvrig gjelder følgende prinsipper for ansvarsdeling ved behandling og gjennomføring av statlige byggeprosjekter:Oppdragsdepartementet har ansvaret for departementets egen behandling av byggesaken, herunder bl.a. prioritering av prosjektet, dimensjonering, arealramme og kvalitativ utforming. Videre er oppdragsdepartementet ansvarlig for å fremme ev. forslag om midler til avklaringsfase, prosjektering og ev. forslag om startbevilgning. Oppdragsdepartementet skal også fremme forslag om bevilgning til nødvendig brukerutstyr til prosjektet for regjeringen jf. pkt. 4.3.Statsbygg ivaretar byggherreansvaret på vegne av staten, og har ansvar for anbudsprosedyrer, kontraktsinngåelse og gjennomføring av fastsatte planer innenfor det bevilgede beløp. Statsbygg er videre ansvarlig for å varsle oppdragsdepartementet og Kommunal- og moderniseringsdepartementet om avvik i prosjektgjennomføringen som kan medføre at prosjektet ikke kan gjennomføres iht. fastsatte planer. Ved eventuelle feil eller mangler fra Statsbyggs side har Kommunal- og moderniseringsministeren det konstitusjonelle ansvaret.Kommunal- og moderniseringsdepartementet behandler forslag til kostnadsrammer for prosjekter under terskelverdi for ekstern kvalitetssikring og har det overordnede ansvaret for disponeringen av usikkerhetsavsetninger i byggeprosjekter, jf. pkt. 4.5 nedenfor, samt for å fremme forslag om midler til videreføring av byggeprosjekter.Finansdepartementet har ansvaret for ordningen med ekstern kvalitetssikring av store statlige investeringsprosjekter, i henhold til de til enhver tid gjeldende terskelverdier departementet setter for slike analyser, og er sammen med oppdragsdepartementet ansvarlig for ekstern kvalitetssikring av enkeltprosjekter, jf. bl.a. pkt. 4.3 nedenfor.
+For øvrig gjelder følgende prinsipper for ansvarsdeling ved behandling og gjennomføring av statlige byggeprosjekter:
+
+1. Oppdragsdepartementet har ansvaret for departementets egen behandling av byggesaken, herunder bl.a. prioritering av prosjektet, dimensjonering, arealramme og kvalitativ utforming. Videre er oppdragsdepartementet ansvarlig for å fremme ev. forslag om midler til avklaringsfase, prosjektering og ev. forslag om startbevilgning. Oppdragsdepartementet skal også fremme forslag om bevilgning til nødvendig brukerutstyr til prosjektet for regjeringen jf. pkt. 4.3.
+2. Statsbygg ivaretar byggherreansvaret på vegne av staten, og har ansvar for anbudsprosedyrer, kontraktsinngåelse og gjennomføring av fastsatte planer innenfor det bevilgede beløp. Statsbygg er videre ansvarlig for å varsle oppdragsdepartementet og Kommunal- og moderniseringsdepartementet om avvik i prosjektgjennomføringen som kan medføre at prosjektet ikke kan gjennomføres iht. fastsatte planer. Ved eventuelle feil eller mangler fra Statsbyggs side har Kommunal- og moderniseringsministeren det konstitusjonelle ansvaret.
+3. Kommunal- og moderniseringsdepartementet behandler forslag til kostnadsrammer for prosjekter under terskelverdi for ekstern kvalitetssikring og har det overordnede ansvaret for disponeringen av usikkerhetsavsetninger i byggeprosjekter, jf. pkt. 4.5 nedenfor, samt for å fremme forslag om midler til videreføring av byggeprosjekter.
+4. Finansdepartementet har ansvaret for ordningen med ekstern kvalitetssikring av store statlige investeringsprosjekter, i henhold til de til enhver tid gjeldende terskelverdier departementet setter for slike analyser, og er sammen med oppdragsdepartementet ansvarlig for ekstern kvalitetssikring av enkeltprosjekter, jf. bl.a. pkt. 4.3 nedenfor.
 
 *4.2 Avklaringsfase og oppstart forprosjekt*
 

@@ -34,7 +34,18 @@ Målgruppen er barn og unge i alderen fra 0 til og med 24 år som av ulike grunn
 
 ### § 1-3. Kriterier for måloppnåelse
 
-Prosjekter som får tilskudd, skal støtte opp under målet med tilskuddsordningen. Følgende kriterier er sentrale for å vurdere måloppnåelse:Flere åpne møteplasser for barn og ungeFlere barn og unge som deltar på en åpen møteplassMer mangfoldig, inkluderende og tilgjengelig tilbud til barn og ungeFlere barn, unge og deres familier deltar i fritidsaktiviteterFlere barn, unge og deres familier deltar i ferieaktiviteterFlere i målgruppen fullfører videregående opplæringFlere arenaer og tilbud der barn og unge kan få erfaringer, mestring og gode opplevelserFlere barn, unge og deres familier har tilgang til utstyr som lar dem delta i aktiviteter på fritiden og i ferierUtprøving av arbeidsmodeller for å inkludere barn og ungdomØkt samarbeid mellom aktørene som bidrar i arbeidet med målgruppen.
+Prosjekter som får tilskudd, skal støtte opp under målet med tilskuddsordningen. Følgende kriterier er sentrale for å vurdere måloppnåelse:
+
+1. Flere åpne møteplasser for barn og unge
+2. Flere barn og unge som deltar på en åpen møteplass
+3. Mer mangfoldig, inkluderende og tilgjengelig tilbud til barn og unge
+4. Flere barn, unge og deres familier deltar i fritidsaktiviteter
+5. Flere barn, unge og deres familier deltar i ferieaktiviteter
+6. Flere i målgruppen fullfører videregående opplæring
+7. Flere arenaer og tilbud der barn og unge kan få erfaringer, mestring og gode opplevelser
+8. Flere barn, unge og deres familier har tilgang til utstyr som lar dem delta i aktiviteter på fritiden og i ferier
+9. Utprøving av arbeidsmodeller for å inkludere barn og ungdom
+10. Økt samarbeid mellom aktørene som bidrar i arbeidet med målgruppen.
 
 Bufdir rapporterer til departementet på måloppnåelse i tilskuddsordningen.
 
@@ -56,7 +67,18 @@ Enkeltpersonforetak og privatpersoner kan ikke søke.
 
 ### § 1-5. Definisjoner
 
-I denne forskriften betyr:*tilskuddsbrev:* brev fra Bufdir til tilskuddsmottaker som inneholder vedtak om og vilkår for tilskudd.*tilskuddsperiode:* hele perioden tildelingen gjelder for.*tilskuddsår:* det kalenderåret søknaden gjelder og tilskuddet utbetales for.*aktivitetstype:* type aktivitet man kan søke om tilskudd til.*samfunnsdeltakelse:* tilknytning til fritidsaktiviteter, kulturliv, utdanning, organisasjonsliv og arbeidsliv, samt demokratisk deltagelse.*sentralledd:* sentralleddet er organisasjonens hovedsete eller sekretariat.*egenfinansiering:* økonomiske midler som søker bidrar med inn i prosjektet.*deltakende kommune:* kommune eller bydel i Oslo som har bekreftet deltakelse og som oppfyller kriteriene for å delta i ordningen.*frivillig organisasjon:* organisasjon som er registrert i Frivillighetsregisteret.*privat aktør:* virksomhet som er registrert i Enhetsregisteret, men som ikke kvalifiserer som frivillig organisasjon eller offentlig virksomhet.
+I denne forskriften betyr:
+
+1. *tilskuddsbrev:* brev fra Bufdir til tilskuddsmottaker som inneholder vedtak om og vilkår for tilskudd.
+2. *tilskuddsperiode:* hele perioden tildelingen gjelder for.
+3. *tilskuddsår:* det kalenderåret søknaden gjelder og tilskuddet utbetales for.
+4. *aktivitetstype:* type aktivitet man kan søke om tilskudd til.
+5. *samfunnsdeltakelse:* tilknytning til fritidsaktiviteter, kulturliv, utdanning, organisasjonsliv og arbeidsliv, samt demokratisk deltagelse.
+6. *sentralledd:* sentralleddet er organisasjonens hovedsete eller sekretariat.
+7. *egenfinansiering:* økonomiske midler som søker bidrar med inn i prosjektet.
+8. *deltakende kommune:* kommune eller bydel i Oslo som har bekreftet deltakelse og som oppfyller kriteriene for å delta i ordningen.
+9. *frivillig organisasjon:* organisasjon som er registrert i Frivillighetsregisteret.
+10. *privat aktør:* virksomhet som er registrert i Enhetsregisteret, men som ikke kvalifiserer som frivillig organisasjon eller offentlig virksomhet.
 
 ## Kapittel 2. Saksgang og søknadsprosess
 
@@ -64,7 +86,12 @@ I denne forskriften betyr:*tilskuddsbrev:* brev fra Bufdir til tilskuddsmottaker
 
 For at en søknad skal bli behandlet av Bufdir, må den knyttes til en deltakende kommune. Dette gjelder både søknader fra kommunen selv, og søknader fra andre aktører.
 
-En deltakende kommune må oppfylle og dokumentere følgende krav:kommunen ivaretar knutepunktfunksjonen i [§ 2-2](forskrift/2021-11-23-3261/§2-2),kommunen forplikter seg til å rangere søknader fra andre aktører,kommunen skal kunngjøre tilskuddsordningen lokalt, ogkommunen har en kontaktperson for tilskuddsordningen.
+En deltakende kommune må oppfylle og dokumentere følgende krav:
+
+1. kommunen ivaretar knutepunktfunksjonen i [§ 2-2](forskrift/2021-11-23-3261/§2-2),
+2. kommunen forplikter seg til å rangere søknader fra andre aktører,
+3. kommunen skal kunngjøre tilskuddsordningen lokalt, og
+4. kommunen har en kontaktperson for tilskuddsordningen.
 
 Bekreftelse etter annet ledd skal sendes gjennom Bufdirs søknadsportal for tilskudd innen frist fastsatt av Bufdir, med mindre annet er avtalt med Bufdir.
 
@@ -148,13 +175,27 @@ Innvilgelse av tilskuddsmidler utover ett år gjøres med forbehold om viderefø
 
 ### § 3-3. Aktivitet som ikke dekkes av tilskuddsmidler
 
-Tilskuddsmidler kan ikke benyttes til aktivitet som:danner grunnlag for profitt for tilskuddsmottaker eller nærstående part,dekker tjenester som allerede er pålagt kommunen eller andre offentlige instanser ved lov eller,stiller krav om kunnskap, politisk ståsted eller religiøs bakgrunn for å delta.
+Tilskuddsmidler kan ikke benyttes til aktivitet som:
+
+1. danner grunnlag for profitt for tilskuddsmottaker eller nærstående part,
+2. dekker tjenester som allerede er pålagt kommunen eller andre offentlige instanser ved lov eller,
+3. stiller krav om kunnskap, politisk ståsted eller religiøs bakgrunn for å delta.
 
 ### § 3-4. Vurderingskriterier, prioriteringer og fordeling av midler
 
-Bufdir skal ved den overordnete fordelingen av midlerta hensyn til antall barn og unge i kommunene,bruke indikatorer for omfang av utenforskap blant barn og unge i kommunene,sørge for at midlene fordeles med god geografisk spredning,sørge for at midlene fordeles mellom de ulike aktivitetstypene ogsørge for at midlene fordeles mellom offentlige instanser og aktører i sivilsamfunnet.
+Bufdir skal ved den overordnete fordelingen av midler
 
-Bufdir skal i behandlingen av de enkelte søknadenevurdere kvaliteten og forventet måloppnåelse,vurdere søknadsbeløp opp mot forventet måloppnåelse oglegge vekt på kommunens rangering.
+1. ta hensyn til antall barn og unge i kommunene,
+2. bruke indikatorer for omfang av utenforskap blant barn og unge i kommunene,
+3. sørge for at midlene fordeles med god geografisk spredning,
+4. sørge for at midlene fordeles mellom de ulike aktivitetstypene og
+5. sørge for at midlene fordeles mellom offentlige instanser og aktører i sivilsamfunnet.
+
+Bufdir skal i behandlingen av de enkelte søknadene
+
+1. vurdere kvaliteten og forventet måloppnåelse,
+2. vurdere søknadsbeløp opp mot forventet måloppnåelse og
+3. legge vekt på kommunens rangering.
 
 Spesielt sårbare grupper kan gis prioritet.
 
@@ -188,25 +229,46 @@ Bufdir skal offentliggjøre oversikter over alle tildelte tilskudd på egnet må
 
 ### § 4-1. Kultur-, fritids- og ferieaktivitet
 
-Søker skal:tilby kultur-, fritids- eller ferieaktiviteter for barn, unge og eventuell familie, organisert som et gruppetilbud,prioritere målgruppen i rekruttering av deltakere til aktiviteten,avholde aktiviteten i deltakernes fritid og ha lave eller ingen kostnader for målgruppen.
+Søker skal:
+
+1. tilby kultur-, fritids- eller ferieaktiviteter for barn, unge og eventuell familie, organisert som et gruppetilbud,
+2. prioritere målgruppen i rekruttering av deltakere til aktiviteten,
+3. avholde aktiviteten i deltakernes fritid og ha lave eller ingen kostnader for målgruppen.
 
 > Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
 
 ### § 4-2. Jobbtilbud og veiledning
 
-Søker skal:tilby barn og unge deltidsjobb, sommerjobb, jobbforberedende aktiviteter eller en annen form for veiledning eller kurs, i deltakernes fritid,prioritere målgruppen i rekruttering av deltakere,ha en plan for oppfølging av deltakere og eventuelle arbeidsgivere i perioden aktiviteten pågår.
+Søker skal:
+
+1. tilby barn og unge deltidsjobb, sommerjobb, jobbforberedende aktiviteter eller en annen form for veiledning eller kurs, i deltakernes fritid,
+2. prioritere målgruppen i rekruttering av deltakere,
+3. ha en plan for oppfølging av deltakere og eventuelle arbeidsgivere i perioden aktiviteten pågår.
 
 > Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
 
 ### § 4-3. Utstyrssentral
 
-Søker skal:låne ut utstyr for å legge til rette for deltakelse i fritidsaktiviteter for barn og unge,sørge for at utstyret er lett tilgjengelig for målgruppen,påse at utlån er gratis eller har svært lave kostnader for målgruppen,ikke gi bort utstyr eller låne ut utstyr på ubestemt tid,påse at tilskuddsmidler og egenfinansiering bare benyttes til å dekke utgifter som er direkte knyttet til drift av utstyrssentralen.
+Søker skal:
+
+1. låne ut utstyr for å legge til rette for deltakelse i fritidsaktiviteter for barn og unge,
+2. sørge for at utstyret er lett tilgjengelig for målgruppen,
+3. påse at utlån er gratis eller har svært lave kostnader for målgruppen,
+4. ikke gi bort utstyr eller låne ut utstyr på ubestemt tid,
+5. påse at tilskuddsmidler og egenfinansiering bare benyttes til å dekke utgifter som er direkte knyttet til drift av utstyrssentralen.
 
 > Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
 
 ### § 4-4. Lokal fritidskasse
 
-Søker skal:opprette en lokal fritidskasse til å dekke kostnader forbundet med deltakelse i fritidsaktiviteter for målgruppen,påse at midler fra fritidskassen dekker kostnader til utstyr og/eller reise til fritidsaktiviteter, og/eller utgifter i forbindelse med cup eller leir,organisere fritidskassen i samarbeid mellom kommunen og frivilligheten,ikke stille krav til dokumentasjon av privatøkonomi eller lignende ved organisering av fritidskassen,påse at fritidskassen er organisert slik at målgruppen ikke opplever det som stigmatiserende å benytte kassen,ikke betale ut penger direkte til målgruppen.
+Søker skal:
+
+1. opprette en lokal fritidskasse til å dekke kostnader forbundet med deltakelse i fritidsaktiviteter for målgruppen,
+2. påse at midler fra fritidskassen dekker kostnader til utstyr og/eller reise til fritidsaktiviteter, og/eller utgifter i forbindelse med cup eller leir,
+3. organisere fritidskassen i samarbeid mellom kommunen og frivilligheten,
+4. ikke stille krav til dokumentasjon av privatøkonomi eller lignende ved organisering av fritidskassen,
+5. påse at fritidskassen er organisert slik at målgruppen ikke opplever det som stigmatiserende å benytte kassen,
+6. ikke betale ut penger direkte til målgruppen.
 
 Kommuner som søker kan i tillegg benytte midler fra fritidskassen til å dekke kostnader til deltakeravgifter i faste, organiserte fritidsaktiviteter. Punktene a–f gjelder tilsvarende.
 
@@ -214,47 +276,93 @@ Kommuner som søker kan i tillegg benytte midler fra fritidskassen til å dekke 
 
 ### § 4-5. Kultur- og aktivitetskort
 
-Søker skal:sikre at kortet dekker kostnader til enkeltstående opplevelser for målgruppen,sikre at opplevelsene som inngår i kortet skal ha lave eller ingen kostnader for målgruppen,organisere utdelingen og bruken av kortet slik at målgruppen ikke opplever det som stigmatiserende å bruke,ikke betale ut penger direkte til målgruppen,ikke dekke medlemsavgifter (kontingenter og treningsavgifter) gjennom kortet.
+Søker skal:
+
+1. sikre at kortet dekker kostnader til enkeltstående opplevelser for målgruppen,
+2. sikre at opplevelsene som inngår i kortet skal ha lave eller ingen kostnader for målgruppen,
+3. organisere utdelingen og bruken av kortet slik at målgruppen ikke opplever det som stigmatiserende å bruke,
+4. ikke betale ut penger direkte til målgruppen,
+5. ikke dekke medlemsavgifter (kontingenter og treningsavgifter) gjennom kortet.
 
 ### § 4-6. Aktivitetsguide
 
-Søker skal:aktivisere aktivitetsguide som skal hjelpe målgruppen med å finne veien inn i en fritidsaktivitet,påse at aktivitetsguiden setter det enkelte barn/ungdom/families ønsker og behov i sentrum for bistanden,påse at aktivitetsguiden har direkte kontakt med det enkelte barn/ungdom i målgruppen, og fungerer som et bindeledd mellom aktivitetstilbydere, familien og offentlige instanser.
+Søker skal:
+
+1. aktivisere aktivitetsguide som skal hjelpe målgruppen med å finne veien inn i en fritidsaktivitet,
+2. påse at aktivitetsguiden setter det enkelte barn/ungdom/families ønsker og behov i sentrum for bistanden,
+3. påse at aktivitetsguiden har direkte kontakt med det enkelte barn/ungdom i målgruppen, og fungerer som et bindeledd mellom aktivitetstilbydere, familien og offentlige instanser.
 
 > Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
 
 ### § 4-7. Ungdomslos
 
-Søker skal:lønne én eller flere loser som tilbyr tett oppfølging til ungdom mellom 10 og 24 år, som av ulike årsaker har utfordringer med å fullføre skoleløpet,sikre god samordning i kommunen gjennom at losen har god kjennskap til og samarbeid med andre relevante tilbud rettet mot målgruppen,legge til rette for forpliktende samarbeid mellom kommunale virksomheter og tjenester og relevante fylkeskommunale og statlige tjenester,påse at losaktiviteten er tydelig forankret på kommunaldirektørnivå eller tilsvarende i kommunen eller bydelsdirektørnivå for bydeler i Oslo,bidra med en egenfinansiering som tilsvarer beløpet dere mottar i tilskudd til denne aktivitetstypen,ikke benytte midlene til å dekke innkjøp og investeringer eller drift av rene opplæringstilbud eller arbeidsrettede tiltak,gjøre seg kjent med informasjon om aktivitetstypen Ungdomslos på Bufdir sine nettsider,oppgi i søknadsskjemaet om det søkes om tilskudd til skolelos i tråd med Skolelosprosjektet, og om det er ønskelig med faglig oppfølging av Bufdir. Søker må også sette seg inn i prosjektbeskrivelsen på Bufdir sine nettsider.
+Søker skal:
+
+1. lønne én eller flere loser som tilbyr tett oppfølging til ungdom mellom 10 og 24 år, som av ulike årsaker har utfordringer med å fullføre skoleløpet,
+2. sikre god samordning i kommunen gjennom at losen har god kjennskap til og samarbeid med andre relevante tilbud rettet mot målgruppen,
+3. legge til rette for forpliktende samarbeid mellom kommunale virksomheter og tjenester og relevante fylkeskommunale og statlige tjenester,
+4. påse at losaktiviteten er tydelig forankret på kommunaldirektørnivå eller tilsvarende i kommunen eller bydelsdirektørnivå for bydeler i Oslo,
+5. bidra med en egenfinansiering som tilsvarer beløpet dere mottar i tilskudd til denne aktivitetstypen,
+6. ikke benytte midlene til å dekke innkjøp og investeringer eller drift av rene opplæringstilbud eller arbeidsrettede tiltak,
+7. gjøre seg kjent med informasjon om aktivitetstypen Ungdomslos på Bufdir sine nettsider,
+8. oppgi i søknadsskjemaet om det søkes om tilskudd til skolelos i tråd med Skolelosprosjektet, og om det er ønskelig med faglig oppfølging av Bufdir. Søker må også sette seg inn i prosjektbeskrivelsen på Bufdir sine nettsider.
 
 > Endret ved forskrift [9 aug 2024 nr. 1925](forskrift/2024-08-09-1925) (i kraft 1 jan 2025).
 
 ### § 4-8. Åpen møteplass
 
-Søker skal:etablere, videreutvikle og/eller drive fritidsklubb, ungdomshus eller tilsvarende som skal fungere som en sosial arena hvor barn og unge mellom 10 og 24 år, uavhengig av bakgrunn, kan møtes jevnlig og delta på like vilkår på fritiden,sikre at møteplassen har regelmessige åpningstider og et fast tilholdssted eller lokale,sikre at møteplassen er et lavterskeltilbud og at det ikke stilles krav til forhåndspåmelding eller deltakelse i fellesaktiviteter,sikre at møteplassen inneholder mer enn rene aktivitetsgrupper, og at deltakerne har mulighet til å møtes enten for å gjøre forskjellige valgfrie aktiviteter eller bare for sosialt samvær,prioritere målgruppen i rekruttering av deltakere og sikre at deltakelse på møteplassen er gratis eller har lave kostnader for målgruppen,sikre at voksne ansatte/frivillige ivaretar gode rammer for møteplassen.
+Søker skal:
+
+1. etablere, videreutvikle og/eller drive fritidsklubb, ungdomshus eller tilsvarende som skal fungere som en sosial arena hvor barn og unge mellom 10 og 24 år, uavhengig av bakgrunn, kan møtes jevnlig og delta på like vilkår på fritiden,
+2. sikre at møteplassen har regelmessige åpningstider og et fast tilholdssted eller lokale,
+3. sikre at møteplassen er et lavterskeltilbud og at det ikke stilles krav til forhåndspåmelding eller deltakelse i fellesaktiviteter,
+4. sikre at møteplassen inneholder mer enn rene aktivitetsgrupper, og at deltakerne har mulighet til å møtes enten for å gjøre forskjellige valgfrie aktiviteter eller bare for sosialt samvær,
+5. prioritere målgruppen i rekruttering av deltakere og sikre at deltakelse på møteplassen er gratis eller har lave kostnader for målgruppen,
+6. sikre at voksne ansatte/frivillige ivaretar gode rammer for møteplassen.
 
 > Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
 
 ### § 4-9. Utprøving av arbeidsmodeller
 
-Søker skal:prøve ut en arbeidsmodell med mål om å øke deltakelsen i fritidsaktiviteter for målgruppen,prøve ut arbeidsmodellen i tett samarbeid med en eller flere aktører fra en annen sektor (offentlig, privat eller frivillig), og sikre at utprøvingen av arbeidsmodellen fører til økt samarbeid mellom aktører som arbeider med målgruppen,påse at det er en plan for organisering av samarbeidet,påse at utprøvingen bidrar til å fjerne barrierer for deltakelse,sikre at prosjektet ikke er avgrenset til et tilbud om bare aktivitet til målgruppen eller aktivitetsguide.
+Søker skal:
+
+1. prøve ut en arbeidsmodell med mål om å øke deltakelsen i fritidsaktiviteter for målgruppen,
+2. prøve ut arbeidsmodellen i tett samarbeid med en eller flere aktører fra en annen sektor (offentlig, privat eller frivillig), og sikre at utprøvingen av arbeidsmodellen fører til økt samarbeid mellom aktører som arbeider med målgruppen,
+3. påse at det er en plan for organisering av samarbeidet,
+4. påse at utprøvingen bidrar til å fjerne barrierer for deltakelse,
+5. sikre at prosjektet ikke er avgrenset til et tilbud om bare aktivitet til målgruppen eller aktivitetsguide.
 
 > Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
 
 ### § 4-10. Koordinering av lokalt arbeid for inkludering av målgruppen
 
-Søker skal:koordinere, tilrettelegge og organisere samarbeidet mellom tjenester i kommunen og mellom kommunen og andre aktører (frivillig/privat sektor), med mål om å øke målgruppens deltakelse i fritidsaktiviteter,sikre at koordineringen bidrar til å fjerne barrierer for deltakelse,søke om tilskudd til arbeid på systemnivå og ikke til å gjennomføre fritidsaktiviteter eller direkte oppfølging av målgruppen,søke om inntil 400 000 kroner per år i tilskudd.
+Søker skal:
+
+1. koordinere, tilrettelegge og organisere samarbeidet mellom tjenester i kommunen og mellom kommunen og andre aktører (frivillig/privat sektor), med mål om å øke målgruppens deltakelse i fritidsaktiviteter,
+2. sikre at koordineringen bidrar til å fjerne barrierer for deltakelse,
+3. søke om tilskudd til arbeid på systemnivå og ikke til å gjennomføre fritidsaktiviteter eller direkte oppfølging av målgruppen,
+4. søke om inntil 400 000 kroner per år i tilskudd.
 
 > Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
 
 ### § 4-11. Annen lokal aktivitet
 
-Søker skal:tilby aktivitet i målgruppens fritid som ikke passer inn under de andre aktivitetstypene i ordningen,sikre at prosjektet inneholder aktivitet for målgruppen og er organisert som et gruppetilbud,søke om minst 200 000 kroner per år.
+Søker skal:
+
+1. tilby aktivitet i målgruppens fritid som ikke passer inn under de andre aktivitetstypene i ordningen,
+2. sikre at prosjektet inneholder aktivitet for målgruppen og er organisert som et gruppetilbud,
+3. søke om minst 200 000 kroner per år.
 
 > Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
 
 ### § 4-12. Sentralledd frivillige organisasjoner – aktivitet i minst fem kommuner
 
-Søker skal:tilby aktivitet i målgruppens fritid i minst fem kommuner,sikre at prosjektet inneholder et aktivitetstilbud til målgruppen og er organisert som et gruppetilbud eller aktivitet tilsvarende § 4-3 og § 4-6,ikke søke om tilskudd til aktivitet tilsvarende § 4-4, § 4-7, § 4-9 eller § 4-10 under denne aktivitetstypen,søke om minst 200 000 kroner per år.
+Søker skal:
+
+1. tilby aktivitet i målgruppens fritid i minst fem kommuner,
+2. sikre at prosjektet inneholder et aktivitetstilbud til målgruppen og er organisert som et gruppetilbud eller aktivitet tilsvarende § 4-3 og § 4-6,
+3. ikke søke om tilskudd til aktivitet tilsvarende § 4-4, § 4-7, § 4-9 eller § 4-10 under denne aktivitetstypen,
+4. søke om minst 200 000 kroner per år.
 
 > Endret ved forskrift [26 sep 2022 nr. 1657](forskrift/2022-09-26-1657) (i kraft 1 jan 2023).
 

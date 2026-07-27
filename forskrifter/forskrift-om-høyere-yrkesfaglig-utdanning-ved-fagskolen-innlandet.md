@@ -15,7 +15,7 @@ xml_hash: "a9d514660f15177afa9e9f2bb409fd8f02432c81b19e6247a6b382d420299277"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ eu_basis: []
 
 (1) Forskriften gjelder for høyere yrkesfaglig utdanning ved Fagskolen Innlandet.
 
-(2) Forskriften gjelder for personer somSøker opptak til studier ved Fagskolen InnlandetHar studierett ved Fagskolen Innlandet.
+(2) Forskriften gjelder for personer som
+
+- Søker opptak til studier ved Fagskolen Innlandet
+- Har studierett ved Fagskolen Innlandet.
 
 ### § 1-2. Definisjoner
 
@@ -78,7 +81,11 @@ eu_basis: []
 
 ### § 2-4. Opptak på visse vilkår (Betinget opptak)
 
-(1) Søkere som ikke kan avlegge eksamen i videregående opplæring på grunn av sykdom, ulykker, dødsfall i nær familie eller andre spesielle omstendigheter, kan få opptak dersom følgende vilkår er oppfylt:Søkeren har standpunktkarakter 2 eller bedre i fagetIkke allerede har avsluttende vurdering i faget, ogOppfyller fastsatte karakterkrav når eksamen er avlagt.
+(1) Søkere som ikke kan avlegge eksamen i videregående opplæring på grunn av sykdom, ulykker, dødsfall i nær familie eller andre spesielle omstendigheter, kan få opptak dersom følgende vilkår er oppfylt:
+
+1. Søkeren har standpunktkarakter 2 eller bedre i faget
+2. Ikke allerede har avsluttende vurdering i faget, og
+3. Oppfyller fastsatte karakterkrav når eksamen er avlagt.
 
 (2) Søkere som har fått opptak på visse vilkår, kan ikke få reservert studieplass til senere opptak.
 
@@ -104,9 +111,18 @@ eu_basis: []
 
 (2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden må dokumentere kunnskaper i norsk, såfremt den omsøkte fagskoleutdanningen ikke tilbys på et fremmedspråk.
 
-(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («Bergenstesten B2»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
+(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:
 
-(4) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:oppnådd diplom fra International Baccalaureate (IB)oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
+1. Bestått norsk med 393 timer fra videregående opplæring
+2. Bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. Bestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. Skriftlig test i norsk, høyere nivå («Bergenstesten B2»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009
+5. Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
+
+(4) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:
+
+1. oppnådd diplom fra International Baccalaureate (IB)
+2. oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
 
 (5) Ved utdanninger som stiller språkkrav i engelsk, vil disse kravene fremkomme i utdanningens studieplan og på Fagskolen Innlandets nettside.
 
@@ -132,11 +148,23 @@ Det er fastsatt nasjonale regler for poengberegning og rangering ved opptak. Det
 
 (1) Studierett er en rettighet man får ved å være tatt opp som student ved et studieprogram eller enkeltemne og ha inngått studiekontrakt med Fagskolen Innlandet. Studieretten er knyttet til studieprogrammet eller emnet som studenten har fått opptak til. Studieretten gir rett til å følge undervisning, eventuell praksis, og andre læringsaktiviteter, og til å få sluttvurdering i samsvar med gjeldende studieplan når vilkårene etter denne forskriftens [kapittel 3](forskrift/2023-12-04-2342/kap3), [4](forskrift/2023-12-04-2342/kap4) og [5](forskrift/2023-12-04-2342/kap5) er oppfylt. Ved krav om betalt studieavgift må dette være innfridd for å få studierett.
 
-(2) Følgende gjelder for studierettens lengde:Ved opptak til et studieprogram blir studenten tildelt studierett med en varighet lik normert studietid for studieprogrammet.En student som er tatt opp til et studieprogram med mellom ett og tre års studietid, kan etter søknad få fastsatt en avvikende studieplan, med utvidet studietid på inntil ett år utover normert studietid.Studieretten faller bort når studieprogrammet eller enkeltemnet som studenten er tatt opp til er fullført og bestått.
+(2) Følgende gjelder for studierettens lengde:
+
+1. Ved opptak til et studieprogram blir studenten tildelt studierett med en varighet lik normert studietid for studieprogrammet.
+2. En student som er tatt opp til et studieprogram med mellom ett og tre års studietid, kan etter søknad få fastsatt en avvikende studieplan, med utvidet studietid på inntil ett år utover normert studietid.
+3. Studieretten faller bort når studieprogrammet eller enkeltemnet som studenten er tatt opp til er fullført og bestått.
 
 (3) En søker til fagskoleutdanning ved Fagskolen Innlandet kan få studierett ved samme studieprogram maksimalt tre ganger hvis studiet tidligere har vært påbegynt.
 
-(4) Følgende forhold kan føre til tap av studieretten:Dersom studenten ikke oppfyller vilkår for godkjente arbeidskravDersom studenten ikke betaler studieavgift til fastsatt tid der dette er påkrevdDersom studenten overskrider normert studietid for studieprogrammetDersom studenten overskrider avtalt, utvidet studierett utover normert studietid for studieprogrammetDersom studenten opplyser fagskolen at han eller hun avbryter utdanningenDersom studenten er utestenges etter [lov om høyere yrkesfaglig utdanning § 25](lov/2018-06-08-28/§25), [forskrift om høyere yrkesfaglig utdanning § 35](forskrift/2019-07-11-1005/§35) og denne forskriftens [§ 4-5](forskrift/2023-12-04-2342/§4-5) eller [§ 8-4](forskrift/2023-12-04-2342/§8-4).Dersom studenten ikke består obligatorisk praksis etter denne forskriftens [§ 5-4 (6)](forskrift/2023-12-04-2342/§5-4/ledd/6).
+(4) Følgende forhold kan føre til tap av studieretten:
+
+1. Dersom studenten ikke oppfyller vilkår for godkjente arbeidskrav
+2. Dersom studenten ikke betaler studieavgift til fastsatt tid der dette er påkrevd
+3. Dersom studenten overskrider normert studietid for studieprogrammet
+4. Dersom studenten overskrider avtalt, utvidet studierett utover normert studietid for studieprogrammet
+5. Dersom studenten opplyser fagskolen at han eller hun avbryter utdanningen
+6. Dersom studenten er utestenges etter [lov om høyere yrkesfaglig utdanning § 25](lov/2018-06-08-28/§25), [forskrift om høyere yrkesfaglig utdanning § 35](forskrift/2019-07-11-1005/§35) og denne forskriftens [§ 4-5](forskrift/2023-12-04-2342/§4-5) eller [§ 8-4](forskrift/2023-12-04-2342/§8-4).
+7. Dersom studenten ikke består obligatorisk praksis etter denne forskriftens [§ 5-4 (6)](forskrift/2023-12-04-2342/§5-4/ledd/6).
 
 > Endret ved forskrift [3 feb 2025 nr. 438](forskrift/2025-02-03-438).
 
@@ -232,7 +260,12 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 
 ### § 4-4. Vurderingskriterier
 
-En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:Studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner.Studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning.Studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse.Studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
+
+1. Studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner.
+2. Studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning.
+3. Studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse.
+4. Studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
 ### § 4-5. Utestenging og klage
 
@@ -256,7 +289,13 @@ En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
 
 (1) Styret for Fagskolen Innlandet oppnevner skikkethetsnemnd for de av skolens utdanninger som er definert i [§ 4-2](forskrift/2023-12-04-2342/§4-2).
 
-(2) Skikkethetsnemnda skal bestå av:En faglig leder eller tilsvarende funksjonTo faglærereTo representanter fra praksisfeltetTo studentrepresentanterEn ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+(2) Skikkethetsnemnda skal bestå av:
+
+1. En faglig leder eller tilsvarende funksjon
+2. To faglærere
+3. To representanter fra praksisfeltet
+4. To studentrepresentanter
+5. En ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
 
 (3) Medlemmene oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år. Faglig leder for avdeling eller tilsvarende funksjon, er nemndas leder. Minst to tredjedeler av nemndas medlemmer skal være til stede ved saksbehandlingen.
 
@@ -278,7 +317,23 @@ Styret skal sørge for at studentenes kunnskaper, ferdigheter og generelle kompe
 
 ### § 5-2. Vurderingsformer og språk i besvarelser
 
-(1) Det enkelte emnes særegenhet er førende for valg av vurderingsform. Følgende vurderingsformer kan benyttes ved Fagskolen Innlandet, hver for seg eller sammen, og i studieplanen skal det stå oppgitt hvilke vurderingsformer som gjelder under de enkelte emner:Skriftlig eksamen under tilsynMuntlig eksamenPraktisk eksamenProsjektarbeidHjemmeeksamenMuntlig presentasjonFagsamtale / muntlig høringSkriftlig sluttprøveSkriftlig sluttprøve under tilsynFerdighetsprøverLaboratorieøvelserMappevurderingPraksisLoggRefleksjonsnotat.
+(1) Det enkelte emnes særegenhet er førende for valg av vurderingsform. Følgende vurderingsformer kan benyttes ved Fagskolen Innlandet, hver for seg eller sammen, og i studieplanen skal det stå oppgitt hvilke vurderingsformer som gjelder under de enkelte emner:
+
+- Skriftlig eksamen under tilsyn
+- Muntlig eksamen
+- Praktisk eksamen
+- Prosjektarbeid
+- Hjemmeeksamen
+- Muntlig presentasjon
+- Fagsamtale / muntlig høring
+- Skriftlig sluttprøve
+- Skriftlig sluttprøve under tilsyn
+- Ferdighetsprøver
+- Laboratorieøvelser
+- Mappevurdering
+- Praksis
+- Logg
+- Refleksjonsnotat.
 
 (2) Ved både skriftlige og muntlige vurderingsformer skal oppgaver besvares på norsk, med mindre annet framgår av oppgaveteksten.
 
@@ -481,7 +536,12 @@ Vurderingsuttrykket ved sluttvurdering skal være bestått/ikke bestått eller e
 
 (1) Fusk eller forsøk på fusk er når en student forsettlig eller grovt uaktsomt handler i strid med forskrifter og retningslinjer for vurdering.
 
-(2) Fusk kan være:bruk av hjelpemidler som ikke er tillatt, eller å ha disse tilgjengeligå utgi andres arbeid som egetå sitere kilder uten å benytte kildehenvisningureglementert samarbeid mellom kandidater eller grupper.
+(2) Fusk kan være:
+
+1. bruk av hjelpemidler som ikke er tillatt, eller å ha disse tilgjengelig
+2. å utgi andres arbeid som eget
+3. å sitere kilder uten å benytte kildehenvisning
+4. ureglementert samarbeid mellom kandidater eller grupper.
 
 (3) Dersom det under sluttprøve/eksamen oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte vurderingssituasjonen.
 

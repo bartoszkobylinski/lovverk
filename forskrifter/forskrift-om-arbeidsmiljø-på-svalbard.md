@@ -15,7 +15,7 @@ xml_hash: "1235a6c5b9ff00d6be0c995ff2582d1810847f70a3627b0c0820bcf7ab2f14a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,11 @@ Det skal følge med nødvendig og lett forståelig skriftlig rettleiing om trans
 
 *3. Tekniske innretninger eller utstyr som nevnt i denne paragrafs nr. 1, skal, før de overdras eller utstilles, være forsynt med produsentens, eller for importerte innretningers vedkommende, importørens navn og adresse, eller med annen merking, som gjør det lett å identifisere produsenten eller importøren.*
 
-*4. Kongen1 gir nærmere bestemmelser om:**konstruksjon, utførelse, oppstilling m.v.,**godkjenning,**materialprøving eller at tekniske innretninger eller utstyr skal undersøkes eller besiktiges av sakkyndig person.*
+*4. Kongen1 gir nærmere bestemmelser om:*
+
+1. *konstruksjon, utførelse, oppstilling m.v.,*
+2. *godkjenning,*
+3. *materialprøving eller at tekniske innretninger eller utstyr skal undersøkes eller besiktiges av sakkyndig person.*
 
 *5. Utgifter med undersøkelse eller besiktigelse som pålegges etter denne paragraf, bæres av den som har plikt til å foreta undersøkelsen eller besiktigelsen.*
 
@@ -76,7 +80,13 @@ Det skal følge med nødvendig og lett forståelig skriftlig rettleiing om trans
 
 ### § 18. Produsenter og importører av giftige og andre helsefarlige stoffer.
 
-*1. Den som produserer eller importerer giftige eller andre helsefarlige stoffer som skal brukes eller ventelig vil bli brukt i virksomhet som går inn under denne lov, skal:**skaffe til veie opplysninger om stoffets sammensetning og egenskaper,**treffe de tiltak som er nødvendige for å forebygge ulykker og helseskader eller særlig ubehag eller ulempe for arbeidstakerne,**gi melding til den Kongen1 bestemmer om stoffets navn, sammensetning, fysikalske og kjemiske egenskaper, samt supplerende opplysninger som måtte kreves for å fastslå stoffets farlighetsgrad,**sørge for forsvarlig emballasje slik at ulykker og helseskader forebygges,*merke emballasjen med stoffets navn, produsentens eller importørens navn og tydelig advarsel. Etikett for merking skal sendes sammen med melding etter bokstav c).
+*1. Den som produserer eller importerer giftige eller andre helsefarlige stoffer som skal brukes eller ventelig vil bli brukt i virksomhet som går inn under denne lov, skal:*
+
+1. *skaffe til veie opplysninger om stoffets sammensetning og egenskaper,*
+2. *treffe de tiltak som er nødvendige for å forebygge ulykker og helseskader eller særlig ubehag eller ulempe for arbeidstakerne,*
+3. *gi melding til den Kongen1 bestemmer om stoffets navn, sammensetning, fysikalske og kjemiske egenskaper, samt supplerende opplysninger som måtte kreves for å fastslå stoffets farlighetsgrad,*
+4. *sørge for forsvarlig emballasje slik at ulykker og helseskader forebygges,*
+5. merke emballasjen med stoffets navn, produsentens eller importørens navn og tydelig advarsel. Etikett for merking skal sendes sammen med melding etter bokstav c).
 
 2\. *Kongen1 kan kreve at produsenten eller importøren foretar undersøkelser eller leverer prøve til undersøkelse for å få fastslått stoffets farlighetsgrad.*
 

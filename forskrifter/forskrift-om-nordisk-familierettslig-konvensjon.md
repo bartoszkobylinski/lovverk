@@ -15,7 +15,7 @@ xml_hash: "f4127f2a654fb2aa5d861bd63ff64f048239fbf4f6183339bbf7a79a8e7a3744"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ Konvensjon 6. februar 1931 nr. 1 mellom Norge, Danmark, Finland, Island og Sveri
 
 ## § 2.
 
-Om registrering som vilkår for at en ektepakt eller en lovvalgsavtale skal ha virkning overfor tredjeperson, jf. konvensjonen artikkel 4 tredje ledd, gjelder:Hvis ektefellenes formuesforhold etter konvensjonen artikkel 3 eller 3a skal reguleres av norsk rett, skal norske regler om registrering av ektepakter gjelde for ektefellenes ektepakter og lovvalgsavtaler.Hvis ektepakten gjelder fast eiendom i Norge, kommer også norske regler om tinglysning av fast eiendom til anvendelse.
+Om registrering som vilkår for at en ektepakt eller en lovvalgsavtale skal ha virkning overfor tredjeperson, jf. konvensjonen artikkel 4 tredje ledd, gjelder:
+
+1. Hvis ektefellenes formuesforhold etter konvensjonen artikkel 3 eller 3a skal reguleres av norsk rett, skal norske regler om registrering av ektepakter gjelde for ektefellenes ektepakter og lovvalgsavtaler.
+2. Hvis ektepakten gjelder fast eiendom i Norge, kommer også norske regler om tinglysning av fast eiendom til anvendelse.
 
 ## § 3.
 

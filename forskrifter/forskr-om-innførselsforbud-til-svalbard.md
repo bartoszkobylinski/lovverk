@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Det er forbudt å innføre til Svalbard levende pattedyr og fugler av alle slag. Unntatt fra forbudet er:burfugl, kanin og smågnager fra Norge og Sverige og burfugl fra Finland som kan tas med uten veterinærattest,kyr, griser, hester og høns som er nødvendig for å opprettholde husdyrholdet i Barentsburg og Pyramiden.
+Det er forbudt å innføre til Svalbard levende pattedyr og fugler av alle slag. Unntatt fra forbudet er:
+
+1. burfugl, kanin og smågnager fra Norge og Sverige og burfugl fra Finland som kan tas med uten veterinærattest,
+2. kyr, griser, hester og høns som er nødvendig for å opprettholde husdyrholdet i Barentsburg og Pyramiden.
 
 ## § 2.
 

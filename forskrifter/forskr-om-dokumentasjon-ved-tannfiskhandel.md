@@ -32,17 +32,33 @@ Det er forbudt å importere, eksportere og re-eksportere patagonisk tannfisk (Di
 
 ## § 3. Dokumentkrav
 
-Fangstdokumentet nevnt i [§ 2](forskrift/2000-01-06-7/§2) skal inneholde minst følgende opplysninger:navn, adresse, telefon- og faksnummer til den myndighet i flaggstat som har utstedt dokumentet,fartøyets navn, registreringshavn, registreringsnummer og radiokallesignal,vekt for hver art av patagonisk tannfisk (Dissostichus spp.) spesifisert på produkttype fordelt på CCAMLR statistiske underområder eller divisjoner dersom fangsten er tatt innenfor CCAMLR-området, og/eller fordelt på FAO statistiske områder, underområder eller divisjoner dersom fangsten er tatt utenfor CCAMLR-området,tidsperioden (fra dato til dato) da fangsten ble tatt,dato da fangsten ble landet og navn på havn hvor fangsten ble landet, eller dato da fangst ble mottatt av annet fartøy og navn, flaggstat og registreringsnummer til fartøyet som mottok slik fangst, ognavn, adresse, telefon- og faksnummer til mottaker eller mottakere av fangst og mottatt kvantum spesifisert på fiskeslag og produkttype.
+Fangstdokumentet nevnt i [§ 2](forskrift/2000-01-06-7/§2) skal inneholde minst følgende opplysninger:
+
+1. navn, adresse, telefon- og faksnummer til den myndighet i flaggstat som har utstedt dokumentet,
+2. fartøyets navn, registreringshavn, registreringsnummer og radiokallesignal,
+3. vekt for hver art av patagonisk tannfisk (Dissostichus spp.) spesifisert på produkttype fordelt på CCAMLR statistiske underområder eller divisjoner dersom fangsten er tatt innenfor CCAMLR-området, og/eller fordelt på FAO statistiske områder, underområder eller divisjoner dersom fangsten er tatt utenfor CCAMLR-området,
+4. tidsperioden (fra dato til dato) da fangsten ble tatt,
+5. dato da fangsten ble landet og navn på havn hvor fangsten ble landet, eller dato da fangst ble mottatt av annet fartøy og navn, flaggstat og registreringsnummer til fartøyet som mottok slik fangst, og
+6. navn, adresse, telefon- og faksnummer til mottaker eller mottakere av fangst og mottatt kvantum spesifisert på fiskeslag og produkttype.
 
 Ved import skal fangstdokumentet være signert og stemplet av ansvarlig myndighet i den eksporterende stat.
 
 ## § 4. Utfylling av fangstdokument ved eksport
 
-Følgende regler gjelder for utfylling av fangstdokument ved eksport:eksportør skal på hvert fangstdokument føre det kvantum patagonisk tannfisk (Dissostichus spp.) spesifisert på art som er med i forsendelsen,eksportør skal på hvert fangstdokument føre navn og adresse til importør og stedet hvor importen skal skje,eksportør skal på hvert fangstdokument føre eksportørens navn og adresse og skal signere dokumentet,eksportør skal av Fiskeridirektoratet få bekreftet at opplysningene på fangstdokumentet er korrekte.
+Følgende regler gjelder for utfylling av fangstdokument ved eksport:
+
+1. eksportør skal på hvert fangstdokument føre det kvantum patagonisk tannfisk (Dissostichus spp.) spesifisert på art som er med i forsendelsen,
+2. eksportør skal på hvert fangstdokument føre navn og adresse til importør og stedet hvor importen skal skje,
+3. eksportør skal på hvert fangstdokument føre eksportørens navn og adresse og skal signere dokumentet,
+4. eksportør skal av Fiskeridirektoratet få bekreftet at opplysningene på fangstdokumentet er korrekte.
 
 ## § 5. Regler vedrørende re-eksport
 
-Dersom patagonisk tannfisk (Dissostichus spp.) re-eksporteres, skal re-eksportør på skjema utgitt av Fiskeridirektoratet gi følgende opplysninger:netto vekt av hvert fiskeslag spesifisert på produkttype sammen med nummer på fangstdokument som hvert fiskeslag og produkttype relateres til,navn og adresse til importøren av forsendelsen, stedet hvor importen foregikk samt navn og adresse til eksportøren,bekreftelse fra Fiskeridirektoratet om at opplysningene på skjemaet er korrekte.
+Dersom patagonisk tannfisk (Dissostichus spp.) re-eksporteres, skal re-eksportør på skjema utgitt av Fiskeridirektoratet gi følgende opplysninger:
+
+1. netto vekt av hvert fiskeslag spesifisert på produkttype sammen med nummer på fangstdokument som hvert fiskeslag og produkttype relateres til,
+2. navn og adresse til importøren av forsendelsen, stedet hvor importen foregikk samt navn og adresse til eksportøren,
+3. bekreftelse fra Fiskeridirektoratet om at opplysningene på skjemaet er korrekte.
 
 Det opprinnelige fangstdokumentet skal også følge forsendelsen ved re-eksport.
 

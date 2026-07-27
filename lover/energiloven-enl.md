@@ -15,7 +15,7 @@ xml_hash: "abe64e46014a9e2beede65a1d7a81ce980b8cd693fb3525b9373e84b1b112885"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32010L0031"
@@ -67,7 +67,10 @@ Med bygning forstås i denne lov: En konstruksjon med tak og vegger som er varig
 
 Med energikartlegging forstås en systematisk kartlegging av energibruken i et foretak med sikte på å få oversikt over mulige energieffektiviseringstiltak. Kartleggingen omfatter bygninger, industriprosesser, transport og andre aktiviteter.
 
-Med kontroll i tredje ledd og [§§ 4-6](lov/1990-06-29-50/§4-6) og [4-7](lov/1990-06-29-50/§4-7) forstås i denne lov: Rettigheter, avtaler eller andre midler som enkeltvis eller sammen, de faktiske eller juridiske forhold tatt i betraktning, gir mulighet til å utøve avgjørende innflytelse over et foretaks virksomhet, særlig:eiendomsrett eller bruksrett til et foretaks samlede aktiva eller deler av demrettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.
+Med kontroll i tredje ledd og [§§ 4-6](lov/1990-06-29-50/§4-6) og [4-7](lov/1990-06-29-50/§4-7) forstås i denne lov: Rettigheter, avtaler eller andre midler som enkeltvis eller sammen, de faktiske eller juridiske forhold tatt i betraktning, gir mulighet til å utøve avgjørende innflytelse over et foretaks virksomhet, særlig:
+
+1. eiendomsrett eller bruksrett til et foretaks samlede aktiva eller deler av dem
+2. rettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.
 
 Med rettigheter forstås i denne lov: stemmerettigheter, rett til utnevnelse av personer i styre, ledende stilling eller med fullmakt til å representere virksomheten utad, samt beholdning av majoritetsandel.
 
@@ -99,7 +102,12 @@ Departementet kan i enkeltvedtak fastsette hvilke anlegg som skal inngå i trans
 
 Dersom et tiltak omfattes av kravet til melding med forslag til utredningsprogram etter [plan- og bygningsloven kapittel 14](lov/2008-06-27-71/kap14), skal konsesjonsmyndigheten ha mottatt slik melding og fastsatt utredningsprogrammet før det kan søkes om konsesjon etter loven her.
 
-Konsesjonsmyndigheten kan ved enkeltvedtak avslutte behandlingen av en melding med forslag til utredningsprogram dersom det er klart at søknaden om konsesjon til tiltaket vil bli avslått fordiselskapet som har inngitt meldingen, er oppløst eller tatt under konkursbehandlingtiltaket helt eller delvis er planlagt plassert i et område omfattet av vernevedtak etter [naturmangfoldloven](lov/2009-06-19-100) eller Stortingets vedtak om vern av vassdrag, og tiltaket vil ha direkte innvirkning på verneverdienetiltaket helt eller delvis er planlagt plassert i et område hvor det er særlig fare for naturskadetiltaket vil medføre vesentlige ulemper for miljø eller annen arealbruk som klart overstiger nytten ved tiltaket.
+Konsesjonsmyndigheten kan ved enkeltvedtak avslutte behandlingen av en melding med forslag til utredningsprogram dersom det er klart at søknaden om konsesjon til tiltaket vil bli avslått fordi
+
+1. selskapet som har inngitt meldingen, er oppløst eller tatt under konkursbehandling
+2. tiltaket helt eller delvis er planlagt plassert i et område omfattet av vernevedtak etter [naturmangfoldloven](lov/2009-06-19-100) eller Stortingets vedtak om vern av vassdrag, og tiltaket vil ha direkte innvirkning på verneverdiene
+3. tiltaket helt eller delvis er planlagt plassert i et område hvor det er særlig fare for naturskade
+4. tiltaket vil medføre vesentlige ulemper for miljø eller annen arealbruk som klart overstiger nytten ved tiltaket.
 
 Hvis forslagsstilleren ikke har søkt om konsesjon innen to år etter at utredningsprogrammet er fastsatt, må tiltaket meldes på nytt før det kan søkes om konsesjon. Konsesjonsmyndigheten kan forlenge fristen etter søknad.
 
@@ -207,7 +215,10 @@ Reguleringsmyndigheten kan dispensere fra leverings-, tilknytnings- eller invest
 
 Departementet kan gi forskrift om leveringsplikten, blant annet om priser, konsesjonærenes og sluttbrukernes vilkår, gjennomføring, organisering og informasjon.
 
-Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår for leveringsplikt, ellerfastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
+Reguleringsmyndigheten skal ved enkeltvedtak
+
+1. fastsette eller godkjenne vilkår for leveringsplikt, eller
+2. fastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
 
 > Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
 
@@ -217,7 +228,10 @@ Den som gis anleggskonsesjon etter [§ 3-1](lov/1990-06-29-50/§3-1) for nettanl
 
 Departementet kan i ekstraordinære tilfeller gi dispensasjon fra tilknytnings- og investeringsplikten for uttakskunder.
 
-Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår for tilknytning av anlegg, ellerfastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
+Reguleringsmyndigheten skal ved enkeltvedtak
+
+1. fastsette eller godkjenne vilkår for tilknytning av anlegg, eller
+2. fastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
 
 > Tilføyd ved [lov 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
 
@@ -229,13 +243,22 @@ Områdekonsesjonæren skal på forespørsel bygge nødvendige nettanlegg helt fr
 
 Departementet kan gi dispensasjon fra tilknytnings- og investeringsplikten for produksjon dersom tiltaket ikke er samfunnsmessig rasjonelt.
 
-Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår for tilknytning av anlegg, ellerfastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
+Reguleringsmyndigheten skal ved enkeltvedtak
+
+1. fastsette eller godkjenne vilkår for tilknytning av anlegg, eller
+2. fastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
 
 > Tilføyd ved [lov 19 juni 2009 nr. 105](lov/2009-06-19-105) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 671](forskrift/2009-06-19-671)), endret ved [lover 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345), tidligere § 3-4), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
 
 ### § 3-5. (Vilkår)
 
-For konsesjoner etter [§§ 3-1](lov/1990-06-29-50/§3-1) og [3-2](lov/1990-06-29-50/§3-2) kan departementet gi nærmere forskrifter og fastsette vilkår:av hensyn til etterspørsel av elektrisk energi og til en rasjonell energiforsyning.om påbegynnelse, bygging, utførelse, idriftsettelse, vedlikehold, drift og nedleggelse av det elektriske anlegget.om utnyttelse av det enkelte kraftverk.for å unngå skader på natur og kulturverdier.om konsesjonærens organisasjon og kompetanse, kompetanse hos den som overlates driftsoppgaver og bestemmelser som regulerer bortsettelse av drift.
+For konsesjoner etter [§§ 3-1](lov/1990-06-29-50/§3-1) og [3-2](lov/1990-06-29-50/§3-2) kan departementet gi nærmere forskrifter og fastsette vilkår:
+
+1. av hensyn til etterspørsel av elektrisk energi og til en rasjonell energiforsyning.
+2. om påbegynnelse, bygging, utførelse, idriftsettelse, vedlikehold, drift og nedleggelse av det elektriske anlegget.
+3. om utnyttelse av det enkelte kraftverk.
+4. for å unngå skader på natur og kulturverdier.
+5. om konsesjonærens organisasjon og kompetanse, kompetanse hos den som overlates driftsoppgaver og bestemmelser som regulerer bortsettelse av drift.
 
 Departementet kan i forbindelse med den enkelte konsesjon fastsette ytterligere vilkår dersom det finnes påkrevet av allmenne eller private interesser.
 
@@ -275,7 +298,17 @@ Kongen kan gi forskrift om prioritering av nettilknytning eller kapasitetsøknin
 
 Uten konsesjon fra reguleringsmyndigheten, kan ingen andre enn staten stå for omsetning av elektrisk energi. Reguleringsmyndigheten avgjør i tvilstilfelle om konsesjonsplikt foreligger.
 
-For konsesjoner etter første ledd kan reguleringsmyndigheten fastsette vilkår om:den interne organisering og regnskapsførsel hos konsesjonæren.markedsadgang for alle som etterspør nettjenester ved å tilby ikke-diskriminerende og objektive punkttariffer og vilkår.nøytral opptreden av netteier.fastsettelse og beregning av tariffer og inntekter ved salg av nettjenester.informasjon til kunder tilknyttet konsesjonærens nett.annen virksomhet i forbindelse med utbygging og utnyttelse av felles infrastruktur.samordning av nett og nettjenester.tilslutning til klageorgan godkjent etter [godkjenningsloven](lov/2016-06-17-29). Et slikt vilkår kan også stilles overfor selskaper som tidligere er gitt konsesjon.oppbevaring av relevante opplysninger fra transaksjoner vedrørende leveranse av elektrisk energi som inngås med engroskunder og systemansvarlig. Et slikt vilkår kan også stilles overfor selskaper som tidligere er gitt konsesjon.
+For konsesjoner etter første ledd kan reguleringsmyndigheten fastsette vilkår om:
+
+1. den interne organisering og regnskapsførsel hos konsesjonæren.
+2. markedsadgang for alle som etterspør nettjenester ved å tilby ikke-diskriminerende og objektive punkttariffer og vilkår.
+3. nøytral opptreden av netteier.
+4. fastsettelse og beregning av tariffer og inntekter ved salg av nettjenester.
+5. informasjon til kunder tilknyttet konsesjonærens nett.
+6. annen virksomhet i forbindelse med utbygging og utnyttelse av felles infrastruktur.
+7. samordning av nett og nettjenester.
+8. tilslutning til klageorgan godkjent etter [godkjenningsloven](lov/2016-06-17-29). Et slikt vilkår kan også stilles overfor selskaper som tidligere er gitt konsesjon.
+9. oppbevaring av relevante opplysninger fra transaksjoner vedrørende leveranse av elektrisk energi som inngås med engroskunder og systemansvarlig. Et slikt vilkår kan også stilles overfor selskaper som tidligere er gitt konsesjon.
 
 Reguleringsmyndigheten kan fastsette ytterligere vilkår dersom det finnes påkrevet av hensyn til allmenne interesser.
 
@@ -295,7 +328,10 @@ Departementet kan i konsesjonen fastsette vilkår for handel som innebærer bruk
 
 Konsesjon etter første ledd kan likevel gis til andre når forbindelsen er tilknyttet anlegg for produksjon eller forbruk av elektrisk energi til havs og krysser avgrensningslinjen mellom Norges kontinentalsokkel og en annen stats sokkel. Det samme gjelder for mindre utenlandsforbindelser under transmisjonsnettsnivå i grenseområder. For disse kan det gjøres en forenklet vurdering av om konsesjon bør gis, og vilkår i konsesjonen kan tilpasses disponeringen av forbindelsen i det aktuelle området.
 
-Når det er gitt konsesjon etter første ledd, skal reguleringsmyndigheten, innenfor rammene av konsesjonsvilkårene, ved enkeltvedtakfastsette eller godkjenne vilkår for tilgang til forbindelsen, ellerfastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
+Når det er gitt konsesjon etter første ledd, skal reguleringsmyndigheten, innenfor rammene av konsesjonsvilkårene, ved enkeltvedtak
+
+1. fastsette eller godkjenne vilkår for tilgang til forbindelsen, eller
+2. fastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
 
 > Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)), [2 des 2016 nr. 87](lov/2016-12-02-87) (ikr. 1 jan 2017 iflg. [res. 2 des 2016 nr. 1420](forskrift/2016-12-02-1420)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [11 juni 2021 nr. 86](lov/2021-06-11-86) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1889](forskrift/2021-06-11-1889), se endringsloven for overgangsregel til første ledd annet punktum).
 
@@ -311,7 +347,10 @@ Enhver som helt eller delvis eier eller driver nett, produksjon eller organisert
 
 Den avregningsansvarlige som nevnt i annet ledd plikter å utstede opprinnelsesgarantier for produsert elektrisk energi etter anmodning fra berettigede produsenter. Departementet gir forskrifter om utforming og gjennomføring av ordningen, herunder om berettiget produksjon, utstedelse, innhold i og innløsing av opprinnelsesgarantier, gebyr for utstedelse, rapportering og kontroll mv.
 
-Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår om utøvelsen av avregningsansvaret, ellerfastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
+Reguleringsmyndigheten skal ved enkeltvedtak
+
+1. fastsette eller godkjenne vilkår om utøvelsen av avregningsansvaret, eller
+2. fastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
 
 > Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [18 juni 2021 nr. 138](lov/2021-06-18-138) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1983](forskrift/2021-06-18-1983)), [22 mars 2024 nr. 12](lov/2024-03-22-12) (i kraft 1 juli 2024 iflg. [res. 22 mars 2024 nr. 501](forskrift/2024-03-22-501)).
 
@@ -335,7 +374,10 @@ Uten konsesjon fra reguleringsmyndigheten kan ingen andre enn staten forestå or
 
 I konsesjonen kan det settes vilkår dersom det finnes påkrevet av allmenne hensyn. Departementet kan gi forskrift om aktørenes informasjonsplikt og om vilkårene reguleringsmyndigheten kan sette i konsesjonen.
 
-Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår for handel på markedsplasser som nevnt i første ledd, ellerfastsette eller godkjenne metoder for å fastsette vilkår for handel på markedsplasser som nevnt i bokstav a.
+Reguleringsmyndigheten skal ved enkeltvedtak
+
+1. fastsette eller godkjenne vilkår for handel på markedsplasser som nevnt i første ledd, eller
+2. fastsette eller godkjenne metoder for å fastsette vilkår for handel på markedsplasser som nevnt i bokstav a.
 
 > Tilføyd ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), endret ved [lov 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [18 juni 2021 nr. 138](lov/2021-06-18-138) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1983](forskrift/2021-06-18-1983)).
 
@@ -345,7 +387,10 @@ Den som skal opptre i Norge som operatør med ansvar for organisering eller drif
 
 Operatører som er utpekt i en annen EØS-stat, og som ønsker å utvide virksomheten til budområder innenfor kraftmarkedet i Norge, skal gi melding til reguleringsmyndigheten senest to måneder før virksomhetens oppstart.
 
-Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår for handel på markedsplasser som nevnt i første og annet ledd, ellerfastsette eller godkjenne metoder for å fastsette vilkår for handel på markedsplasser som nevnt i bokstav a.
+Reguleringsmyndigheten skal ved enkeltvedtak
+
+1. fastsette eller godkjenne vilkår for handel på markedsplasser som nevnt i første og annet ledd, eller
+2. fastsette eller godkjenne metoder for å fastsette vilkår for handel på markedsplasser som nevnt i bokstav a.
 
 Reguleringsmyndigheten kan ved enkeltvedtak fastsette ytterligere vilkår overfor operatører nevnt i første og annet ledd for å legge til rette for effektiv konkurranse, ivareta hensynet til systemsikkerhet og fremme et effektivt kraftmarked.
 
@@ -383,7 +428,11 @@ Departementet kan gi forskrift om funksjonelt skille.
 
 Den som driver eller har direkte eller indirekte kontroll over virksomhet som driver med produksjon eller omsetning av elektrisk energi, kan ikke eie anlegg i transmisjonsnettet eller ha direkte eller indirekte kontroll over eller rettigheter i en virksomhet som eier slike anlegg, eller som har systemansvar. Den som eier anlegg i transmisjonsnettet, eller har direkte eller indirekte kontroll over en virksomhet som eier slike anlegg eller som har systemansvar, kan ikke direkte eller indirekte ha kontroll over eller rettigheter i en virksomhet som driver med produksjon eller omsetning av elektrisk energi.
 
-Den som har kontroll over eller rettigheter i en virksomhet som driver med produksjon eller omsetning av elektrisk energi kan ikke utnevnepersoner til styret i en virksomhet som eier anlegg i transmisjonsnettet, eller som har systemansvarpersoner til en ledende stilling i en virksomhet som nevnt i bokstav apersoner som utad kan representere en virksomhet som nevnt i bokstav a.
+Den som har kontroll over eller rettigheter i en virksomhet som driver med produksjon eller omsetning av elektrisk energi kan ikke utnevne
+
+1. personer til styret i en virksomhet som eier anlegg i transmisjonsnettet, eller som har systemansvar
+2. personer til en ledende stilling i en virksomhet som nevnt i bokstav a
+3. personer som utad kan representere en virksomhet som nevnt i bokstav a.
 
 Personer som nevnt i bokstavene a til c kan ikke ha en tilsvarende posisjon i en virksomhet som driver produksjon eller omsetning av elektrisk energi.
 
@@ -489,7 +538,10 @@ Departementet kan fastsette at denne bestemmelse ikke får anvendelse på fjernv
 
 ### § 5-2. (Vilkår)
 
-For konsesjoner etter [§ 5-1](lov/1990-06-29-50/§5-1) kan departementet gi nærmere forskrifter og fastsette vilkår:om påbegynnelse, bygging, utførelse, idriftsettelse, vedlikehold, drift og nedleggelse av fjernvarmeanlegget.om konsesjonærens organisasjon og kompetanse, kompetanse hos den som overlates driftsoppgaver og bestemmelser som regulerer bortsettelse av drift.
+For konsesjoner etter [§ 5-1](lov/1990-06-29-50/§5-1) kan departementet gi nærmere forskrifter og fastsette vilkår:
+
+1. om påbegynnelse, bygging, utførelse, idriftsettelse, vedlikehold, drift og nedleggelse av fjernvarmeanlegget.
+2. om konsesjonærens organisasjon og kompetanse, kompetanse hos den som overlates driftsoppgaver og bestemmelser som regulerer bortsettelse av drift.
 
 Departementet kan i forbindelse med den enkelte konsesjon fastsette ytterligere vilkår dersom det finnes påkrevet av allmenne eller private interesser.
 
@@ -563,7 +615,15 @@ Departementet tildeler myndigheten til å utøve systemansvaret på nærmere fas
 
 Enhver som helt eller delvis eier eller driver nett, produksjon eller organisert markedsplass, samt omsettere og sluttbrukere plikter å rette seg etter den systemansvarliges instrukser under systemansvaret, samt følge de bestemmelser om systemansvaret som er fastsatt i eller i medhold av denne lov. Avgjørelser som fattes av den systemansvarlige under utøvelsen av systemansvaret er unntatt forvaltningsloven kap. IV-VI og VIII.
 
-Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår omsystem- og balansetjenester,planlegging, idriftsettelse eller tilknytning av anlegg i kraftsystemet, som bruk av standardvilkår,den systemansvarliges kapasitetstildeling og håndtering av flaskehalser i overføringsnettet, blant annet for utenlandsforbindelser etter [§ 4-2](lov/1990-06-29-50/§4-2),utøvelsen av systemansvaret, ellerfastsette eller godkjenne metoder for å fastsette vilkår om forhold som nevnt i bokstav a.
+Reguleringsmyndigheten skal ved enkeltvedtak
+
+1. fastsette eller godkjenne vilkår om
+
+   1. system- og balansetjenester,
+   2. planlegging, idriftsettelse eller tilknytning av anlegg i kraftsystemet, som bruk av standardvilkår,
+   3. den systemansvarliges kapasitetstildeling og håndtering av flaskehalser i overføringsnettet, blant annet for utenlandsforbindelser etter [§ 4-2](lov/1990-06-29-50/§4-2),
+   4. utøvelsen av systemansvaret, eller
+2. fastsette eller godkjenne metoder for å fastsette vilkår om forhold som nevnt i bokstav a.
 
 > Tilføyd ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), endret ved lover [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 5A-1), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [22 mars 2024 nr. 12](lov/2024-03-22-12) (i kraft 1 juli 2024 iflg. [res. 22 mars 2024 nr. 501](forskrift/2024-03-22-501)).
 
@@ -599,7 +659,16 @@ Departementet gir forskrifter og vilkår om planleggingen.
 
 ### § 7-2. (Anlegg som omfattes av plikten til å gjennomføre kost-nytteanalyse)
 
-En tiltakshaver skal gjennomføre en kost-nytteanalyse av mulighetene for å utnytte overskuddsvarme ved planlegging av følgende anlegg:termiske kraftverk med mer enn 20 MW samlet innfyrt termisk effektindustrianlegg med mer enn 20 MW samlet innfyrt termisk effekt som vil ha overskuddsvarme med anvendbar temperaturfjernvarmeanlegg og fjernkjøleanleggenergiproduksjonsanlegg med mer enn 20 MW samlet innfyrt termisk effekt som planlegges tilkoblet i et eksisterende fjernvarme- eller fjernkjøleanleggdatasentre med mer enn 2 MW samlet tilført elektrisk effektandre anlegg med mer enn 20 MW samlet tilført elektrisk effekt.Det samme gjelder ved omfattende oppgradering av anlegg som nevnt i første punktum bokstav a, b og d.
+En tiltakshaver skal gjennomføre en kost-nytteanalyse av mulighetene for å utnytte overskuddsvarme ved planlegging av følgende anlegg:
+
+1. termiske kraftverk med mer enn 20 MW samlet innfyrt termisk effekt
+2. industrianlegg med mer enn 20 MW samlet innfyrt termisk effekt som vil ha overskuddsvarme med anvendbar temperatur
+3. fjernvarmeanlegg og fjernkjøleanlegg
+4. energiproduksjonsanlegg med mer enn 20 MW samlet innfyrt termisk effekt som planlegges tilkoblet i et eksisterende fjernvarme- eller fjernkjøleanlegg
+5. datasentre med mer enn 2 MW samlet tilført elektrisk effekt
+6. andre anlegg med mer enn 20 MW samlet tilført elektrisk effekt.
+
+Det samme gjelder ved omfattende oppgradering av anlegg som nevnt i første punktum bokstav a, b og d.
 
 Departementet kan gi forskrift om hvilke tiltakshavere og anlegg som omfattes av første ledd.
 
@@ -607,7 +676,13 @@ Departementet kan gi forskrift om hvilke tiltakshavere og anlegg som omfattes av
 
 ### § 7-3. (Innholdet i kost-nytteanalyser)
 
-En kost-nytteanalyse for anlegg som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) skal inneholde en vurdering av kostnader og fordeler som kan oppstå ved å gjennomføre følgende tiltak:å drive et termisk kraftverk som et høyeffektivt kraftvarmeverkå oppgradere et termisk kraftverk til å kunne drive høyeffektiv kraftvarmeproduksjonå drive et industrianlegg slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørselå utnytte overskuddsvarme fra nærliggende anlegg og datasentre når nye fjernvarme- eller fjernkjøleanlegg planlegges, eller anlegg for energiproduksjon i eksisterende fjernvarme- eller fjernkjøleanlegg planlegges oppført eller omfattende oppgradertå drive datasentre som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) første ledd bokstav e og anlegg som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) første ledd bokstav f slik at overskuddsvarme brukes til å dekke en økonomisk begrunnet etterspørsel.
+En kost-nytteanalyse for anlegg som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) skal inneholde en vurdering av kostnader og fordeler som kan oppstå ved å gjennomføre følgende tiltak:
+
+1. å drive et termisk kraftverk som et høyeffektivt kraftvarmeverk
+2. å oppgradere et termisk kraftverk til å kunne drive høyeffektiv kraftvarmeproduksjon
+3. å drive et industrianlegg slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel
+4. å utnytte overskuddsvarme fra nærliggende anlegg og datasentre når nye fjernvarme- eller fjernkjøleanlegg planlegges, eller anlegg for energiproduksjon i eksisterende fjernvarme- eller fjernkjøleanlegg planlegges oppført eller omfattende oppgradert
+5. å drive datasentre som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) første ledd bokstav e og anlegg som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) første ledd bokstav f slik at overskuddsvarme brukes til å dekke en økonomisk begrunnet etterspørsel.
 
 Departementet kan gi forskrift om nærmere definisjon av tiltakene i første ledd og innholdet i og gjennomføringen av en kost-nytteanalyse.
 
@@ -651,7 +726,10 @@ Dersom en bygning som nevnt i første eller annet ledd har et samlet bruksareal 
 
 ### § 8-3. (Energiattest for offentlige bygninger)
 
-Eieren av en bygning skal innhente energiattest og sørge for at et sammendrag av energiattesten plasseres synlig for brukerne av bygningen når:mer enn 250 kvadratmeter av bygningens bruksareal brukes av offentlige myndigheter, og bygningen ofte besøkes av allmennhetenmer enn 250 kvadratmeter av bygningens bruksareal brukes av departementer, direktorater eller tilsynsorganer.
+Eieren av en bygning skal innhente energiattest og sørge for at et sammendrag av energiattesten plasseres synlig for brukerne av bygningen når:
+
+1. mer enn 250 kvadratmeter av bygningens bruksareal brukes av offentlige myndigheter, og bygningen ofte besøkes av allmennheten
+2. mer enn 250 kvadratmeter av bygningens bruksareal brukes av departementer, direktorater eller tilsynsorganer.
 
 Departementet kan gi forskrift om innholdet i pliktene etter første ledd.
 
@@ -783,7 +861,13 @@ Undersøkelsesrapportene med tilhørende materiale skal stilles til rådighet fo
 
 Departementet eller reguleringsmyndigheten kan trekke tilbake en konsesjon eller annen tillatelse dersom rettighetshaveren har gitt uriktige eller ufullstendige opplysninger om forhold av vesentlig betydning for vedtaket. Det samme gjelder dersom rettighetshaveren ikke lenger anses skikket til å utøve virksomheten etter grovt eller gjentatte brudd på denne loven eller bestemmelser eller pålegg gitt i medhold av loven. En konsesjon kan også trekkes tilbake ved oversittelse av frister som er gitt i eller i medhold av denne loven, og som er knyttet til fremdriften av tiltaket.
 
-Reguleringsmyndigheten kan, uavhengig av første ledd, helt eller delvis trekke tilbake en omsetningskonsesjon etter [§ 4-1](lov/1990-06-29-50/§4-1) ved grovt eller gjentatte brudd på bestemmelser gitt i eller i medhold av loven her, samt i[avtaleloven § 38 b](lov/1918-05-31-4/§38b)[markedsføringsloven § 6](lov/2009-01-09-2/§6), [§ 10](lov/2009-01-09-2/§10), [§ 11](lov/2009-01-09-2/§11), [§ 12](lov/2009-01-09-2/§12), [§ 13](lov/2009-01-09-2/§13), [§ 13 a](lov/2009-01-09-2/§13a), [§ 14 første ledd](lov/2009-01-09-2/§14/ledd/1), [§ 15](lov/2009-01-09-2/§15), [§ 16](lov/2009-01-09-2/§16), [§ 16 a første ledd bokstav a](lov/2009-01-09-2/§16a/ledd/1/bokstav/a), [§ 17](lov/2009-01-09-2/§17), [§ 17 a](lov/2009-01-09-2/§17a), [§ 18](lov/2009-01-09-2/§18), [§ 20 annet ledd](lov/2009-01-09-2/§20/ledd/2) og [§ 22](lov/2009-01-09-2/§22), eller forskrift gitt i medhold av [§ 6 femte ledd](lov/2009-01-09-2/§6/ledd/5) eller [§ 10 annet](lov/2009-01-09-2/§10/ledd/2) og [tredje ledd](lov/2009-01-09-2/§10/ledd/3)[angrerettloven §§ 8](lov/2014-06-20-27/§8) til [24 a](lov/2014-06-20-27/§24a), [§ 25 annet ledd annet punktum](lov/2014-06-20-27/§25/ledd/2/setning/2) og [§ 27](lov/2014-06-20-27/§27), eller forskrift gitt i medhold av [§ 8](lov/2014-06-20-27/§8).Første punktum gjelder likevel bare når lovbruddet gir rimelig grunn til å tro at fortsatt virksomhet kan skade sluttbrukere eller tilliten til strømmarkedet eller aktørene i strømmarkedet.
+Reguleringsmyndigheten kan, uavhengig av første ledd, helt eller delvis trekke tilbake en omsetningskonsesjon etter [§ 4-1](lov/1990-06-29-50/§4-1) ved grovt eller gjentatte brudd på bestemmelser gitt i eller i medhold av loven her, samt i
+
+1. [avtaleloven § 38 b](lov/1918-05-31-4/§38b)
+2. [markedsføringsloven § 6](lov/2009-01-09-2/§6), [§ 10](lov/2009-01-09-2/§10), [§ 11](lov/2009-01-09-2/§11), [§ 12](lov/2009-01-09-2/§12), [§ 13](lov/2009-01-09-2/§13), [§ 13 a](lov/2009-01-09-2/§13a), [§ 14 første ledd](lov/2009-01-09-2/§14/ledd/1), [§ 15](lov/2009-01-09-2/§15), [§ 16](lov/2009-01-09-2/§16), [§ 16 a første ledd bokstav a](lov/2009-01-09-2/§16a/ledd/1/bokstav/a), [§ 17](lov/2009-01-09-2/§17), [§ 17 a](lov/2009-01-09-2/§17a), [§ 18](lov/2009-01-09-2/§18), [§ 20 annet ledd](lov/2009-01-09-2/§20/ledd/2) og [§ 22](lov/2009-01-09-2/§22), eller forskrift gitt i medhold av [§ 6 femte ledd](lov/2009-01-09-2/§6/ledd/5) eller [§ 10 annet](lov/2009-01-09-2/§10/ledd/2) og [tredje ledd](lov/2009-01-09-2/§10/ledd/3)
+3. [angrerettloven §§ 8](lov/2014-06-20-27/§8) til [24 a](lov/2014-06-20-27/§24a), [§ 25 annet ledd annet punktum](lov/2014-06-20-27/§25/ledd/2/setning/2) og [§ 27](lov/2014-06-20-27/§27), eller forskrift gitt i medhold av [§ 8](lov/2014-06-20-27/§8).
+
+Første punktum gjelder likevel bare når lovbruddet gir rimelig grunn til å tro at fortsatt virksomhet kan skade sluttbrukere eller tilliten til strømmarkedet eller aktørene i strømmarkedet.
 
 Departementet kan gi forskrift om at også brudd på andre bestemmelser gitt i eller i medhold av lov skal kunne gi grunnlag for å trekke tilbake en omsetningskonsesjon.
 
@@ -829,13 +913,25 @@ Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene
 
 > Endret ved [lover 27 nov 1992 nr. 119](lov/1992-11-27-119), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), [19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-6), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
 
-1 Jf. [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 20.2 Jf. [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 47.
+1 Jf. [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 20.
+
+2 Jf. [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 47.
 
 ### § 10-7. (Overtredelsesgebyr)
 
-Departementet kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomt overtrer:[§ 3-1 første ledd](lov/1990-06-29-50/§3-1/ledd/1), [§ 3-1 a første ledd](lov/1990-06-29-50/§3-1a/ledd/1), [§ 3-1 b første ledd](lov/1990-06-29-50/§3-1b/ledd/1), [§ 4-2 første ledd](lov/1990-06-29-50/§4-2/ledd/1), [§ 5-1 første ledd](lov/1990-06-29-50/§5-1/ledd/1), [§ 5-4 første](lov/1990-06-29-50/§5-4/ledd/1) og [tredje ledd](lov/1990-06-29-50/§5-4/ledd/3), [§ 5-5 første](lov/1990-06-29-50/§5-5/ledd/1) og [annet ledd](lov/1990-06-29-50/§5-5/ledd/2), [§ 5-7 første](lov/1990-06-29-50/§5-7/ledd/1), [tredje](lov/1990-06-29-50/§5-7/ledd/3) og [fjerde ledd](lov/1990-06-29-50/§5-7/ledd/4), [§ 6-1 annet ledd](lov/1990-06-29-50/§6-1/ledd/2), [§ 7-1](lov/1990-06-29-50/§7-1), [§ 7-2 første ledd](lov/1990-06-29-50/§7-2/ledd/1), [§ 7-3 første ledd](lov/1990-06-29-50/§7-3/ledd/1), [§ 7-4 første ledd](lov/1990-06-29-50/§7-4/ledd/1), [§ 8-2](lov/1990-06-29-50/§8-2), [§ 8-3](lov/1990-06-29-50/§8-3) [første ledd](lov/1990-06-29-50/§8-3/ledd/1), [§ 8-4](lov/1990-06-29-50/§8-4) [første ledd](lov/1990-06-29-50/§8-4/ledd/1), [§ 8-5](lov/1990-06-29-50/§8-5) [første ledd](lov/1990-06-29-50/§8-5/ledd/1), [§ 9-1 annet ledd](lov/1990-06-29-50/§9-1/ledd/2), [§ 9-2 første ledd](lov/1990-06-29-50/§9-2/ledd/1), [§ 9-3 første](lov/1990-06-29-50/§9-3/ledd/1) og [annet ledd](lov/1990-06-29-50/§9-3/ledd/2), [§ 9-5 annet ledd](lov/1990-06-29-50/§9-5/ledd/2) eller [§ 10-1 annet ledd](lov/1990-06-29-50/§10-1/ledd/2)pålegg etter [§ 10-1](lov/1990-06-29-50/§10-1) og [§ 10-1 a](lov/1990-06-29-50/§10-1a)konsesjon og konsesjonsvilkår, eller andre enkeltvedtak gitt i medhold av [§ 3-1 første ledd](lov/1990-06-29-50/§3-1/ledd/1), [§ 3-1 a første ledd](lov/1990-06-29-50/§3-1a/ledd/1), [§ 3-1 b annet ledd](lov/1990-06-29-50/§3-1b/ledd/2), [§ 3-2](lov/1990-06-29-50/§3-2), [§ 4-2 annet](lov/1990-06-29-50/§4-2/ledd/2) og [tredje ledd](lov/1990-06-29-50/§4-2/ledd/3), [§ 4-4 første ledd](lov/1990-06-29-50/§4-4/ledd/1), [§ 5-2](lov/1990-06-29-50/§5-2), [§ 5-3](lov/1990-06-29-50/§5-3), [§ 5-4 første ledd](lov/1990-06-29-50/§5-4/ledd/1), [§ 5-5 tredje ledd](lov/1990-06-29-50/§5-5/ledd/3), [§ 6-1 annet ledd](lov/1990-06-29-50/§6-1/ledd/2), [§ 9-1 fjerde](lov/1990-06-29-50/§9-1/ledd/4) og [femte ledd](lov/1990-06-29-50/§9-1/ledd/5) eller [§ 9-2 annet](lov/1990-06-29-50/§9-2/ledd/2) til [fjerde ledd](lov/1990-06-29-50/§9-2/ledd/4)forskrift, når det i forskriften er særskilt bestemt at overtredelse kan medføre overtredelsesgebyr.
+Departementet kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomt overtrer:
 
-Reguleringsmyndigheten kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomt overtrer:[§ 3-3 første ledd](lov/1990-06-29-50/§3-3/ledd/1), [§ 3-4 første ledd](lov/1990-06-29-50/§3-4/ledd/1), [§ 3-4 a første](lov/1990-06-29-50/§3-4a/ledd/1) og [annet ledd](lov/1990-06-29-50/§3-4a/ledd/2), [§ 4-1 første ledd](lov/1990-06-29-50/§4-1/ledd/1), [§ 4-3 tredje ledd](lov/1990-06-29-50/§4-3/ledd/3), [§ 4-5 første ledd](lov/1990-06-29-50/§4-5/ledd/1), [§ 4-5 a](lov/1990-06-29-50/§4-5a), [§ 4-6 første](lov/1990-06-29-50/§4-6/ledd/1) og [annet ledd](lov/1990-06-29-50/§4-6/ledd/2), [§ 4-7 første](lov/1990-06-29-50/§4-7/ledd/1) til [tredje ledd](lov/1990-06-29-50/§4-7/ledd/3), [§ 4-8](lov/1990-06-29-50/§4-8), [§ 4-10 første](lov/1990-06-29-50/§4-10/ledd/1) og [annet ledd](lov/1990-06-29-50/§4-10/ledd/2), [§ 6-1 tredje ledd](lov/1990-06-29-50/§6-1/ledd/3) eller [§ 10-1 første](lov/1990-06-29-50/§10-1/ledd/1), [tredje](lov/1990-06-29-50/§10-1/ledd/3) og [femte ledd](lov/1990-06-29-50/§10-1/ledd/5)pålegg etter [§ 10-1](lov/1990-06-29-50/§10-1)konsesjon og konsesjonsvilkår, eller andre enkeltvedtak gitt i medhold av [§ 3-3 fjerde ledd](lov/1990-06-29-50/§3-3/ledd/4), [§ 3-4 tredje ledd](lov/1990-06-29-50/§3-4/ledd/3), [§ 3-4 a fjerde ledd](lov/1990-06-29-50/§3-4a/ledd/4), [§ 4-1 annet](lov/1990-06-29-50/§4-1/ledd/2) og [tredje ledd](lov/1990-06-29-50/§4-1/ledd/3), [§ 4-2 fjerde ledd](lov/1990-06-29-50/§4-2/ledd/4), [§ 4-3 annet](lov/1990-06-29-50/§4-3/ledd/2), [tredje](lov/1990-06-29-50/§4-3/ledd/3) og [femte ledd](lov/1990-06-29-50/§4-3/ledd/5), [§ 4-5 annet](lov/1990-06-29-50/§4-5/ledd/2) og [tredje ledd](lov/1990-06-29-50/§4-5/ledd/3) eller [§ 6-1 fjerde ledd](lov/1990-06-29-50/§6-1/ledd/4)forskrift, når det i forskriften er særskilt bestemt at overtredelse kan medføre overtredelsesgebyr.
+1. [§ 3-1 første ledd](lov/1990-06-29-50/§3-1/ledd/1), [§ 3-1 a første ledd](lov/1990-06-29-50/§3-1a/ledd/1), [§ 3-1 b første ledd](lov/1990-06-29-50/§3-1b/ledd/1), [§ 4-2 første ledd](lov/1990-06-29-50/§4-2/ledd/1), [§ 5-1 første ledd](lov/1990-06-29-50/§5-1/ledd/1), [§ 5-4 første](lov/1990-06-29-50/§5-4/ledd/1) og [tredje ledd](lov/1990-06-29-50/§5-4/ledd/3), [§ 5-5 første](lov/1990-06-29-50/§5-5/ledd/1) og [annet ledd](lov/1990-06-29-50/§5-5/ledd/2), [§ 5-7 første](lov/1990-06-29-50/§5-7/ledd/1), [tredje](lov/1990-06-29-50/§5-7/ledd/3) og [fjerde ledd](lov/1990-06-29-50/§5-7/ledd/4), [§ 6-1 annet ledd](lov/1990-06-29-50/§6-1/ledd/2), [§ 7-1](lov/1990-06-29-50/§7-1), [§ 7-2 første ledd](lov/1990-06-29-50/§7-2/ledd/1), [§ 7-3 første ledd](lov/1990-06-29-50/§7-3/ledd/1), [§ 7-4 første ledd](lov/1990-06-29-50/§7-4/ledd/1), [§ 8-2](lov/1990-06-29-50/§8-2), [§ 8-3](lov/1990-06-29-50/§8-3) [første ledd](lov/1990-06-29-50/§8-3/ledd/1), [§ 8-4](lov/1990-06-29-50/§8-4) [første ledd](lov/1990-06-29-50/§8-4/ledd/1), [§ 8-5](lov/1990-06-29-50/§8-5) [første ledd](lov/1990-06-29-50/§8-5/ledd/1), [§ 9-1 annet ledd](lov/1990-06-29-50/§9-1/ledd/2), [§ 9-2 første ledd](lov/1990-06-29-50/§9-2/ledd/1), [§ 9-3 første](lov/1990-06-29-50/§9-3/ledd/1) og [annet ledd](lov/1990-06-29-50/§9-3/ledd/2), [§ 9-5 annet ledd](lov/1990-06-29-50/§9-5/ledd/2) eller [§ 10-1 annet ledd](lov/1990-06-29-50/§10-1/ledd/2)
+2. pålegg etter [§ 10-1](lov/1990-06-29-50/§10-1) og [§ 10-1 a](lov/1990-06-29-50/§10-1a)
+3. konsesjon og konsesjonsvilkår, eller andre enkeltvedtak gitt i medhold av [§ 3-1 første ledd](lov/1990-06-29-50/§3-1/ledd/1), [§ 3-1 a første ledd](lov/1990-06-29-50/§3-1a/ledd/1), [§ 3-1 b annet ledd](lov/1990-06-29-50/§3-1b/ledd/2), [§ 3-2](lov/1990-06-29-50/§3-2), [§ 4-2 annet](lov/1990-06-29-50/§4-2/ledd/2) og [tredje ledd](lov/1990-06-29-50/§4-2/ledd/3), [§ 4-4 første ledd](lov/1990-06-29-50/§4-4/ledd/1), [§ 5-2](lov/1990-06-29-50/§5-2), [§ 5-3](lov/1990-06-29-50/§5-3), [§ 5-4 første ledd](lov/1990-06-29-50/§5-4/ledd/1), [§ 5-5 tredje ledd](lov/1990-06-29-50/§5-5/ledd/3), [§ 6-1 annet ledd](lov/1990-06-29-50/§6-1/ledd/2), [§ 9-1 fjerde](lov/1990-06-29-50/§9-1/ledd/4) og [femte ledd](lov/1990-06-29-50/§9-1/ledd/5) eller [§ 9-2 annet](lov/1990-06-29-50/§9-2/ledd/2) til [fjerde ledd](lov/1990-06-29-50/§9-2/ledd/4)
+4. forskrift, når det i forskriften er særskilt bestemt at overtredelse kan medføre overtredelsesgebyr.
+
+Reguleringsmyndigheten kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomt overtrer:
+
+1. [§ 3-3 første ledd](lov/1990-06-29-50/§3-3/ledd/1), [§ 3-4 første ledd](lov/1990-06-29-50/§3-4/ledd/1), [§ 3-4 a første](lov/1990-06-29-50/§3-4a/ledd/1) og [annet ledd](lov/1990-06-29-50/§3-4a/ledd/2), [§ 4-1 første ledd](lov/1990-06-29-50/§4-1/ledd/1), [§ 4-3 tredje ledd](lov/1990-06-29-50/§4-3/ledd/3), [§ 4-5 første ledd](lov/1990-06-29-50/§4-5/ledd/1), [§ 4-5 a](lov/1990-06-29-50/§4-5a), [§ 4-6 første](lov/1990-06-29-50/§4-6/ledd/1) og [annet ledd](lov/1990-06-29-50/§4-6/ledd/2), [§ 4-7 første](lov/1990-06-29-50/§4-7/ledd/1) til [tredje ledd](lov/1990-06-29-50/§4-7/ledd/3), [§ 4-8](lov/1990-06-29-50/§4-8), [§ 4-10 første](lov/1990-06-29-50/§4-10/ledd/1) og [annet ledd](lov/1990-06-29-50/§4-10/ledd/2), [§ 6-1 tredje ledd](lov/1990-06-29-50/§6-1/ledd/3) eller [§ 10-1 første](lov/1990-06-29-50/§10-1/ledd/1), [tredje](lov/1990-06-29-50/§10-1/ledd/3) og [femte ledd](lov/1990-06-29-50/§10-1/ledd/5)
+2. pålegg etter [§ 10-1](lov/1990-06-29-50/§10-1)
+3. konsesjon og konsesjonsvilkår, eller andre enkeltvedtak gitt i medhold av [§ 3-3 fjerde ledd](lov/1990-06-29-50/§3-3/ledd/4), [§ 3-4 tredje ledd](lov/1990-06-29-50/§3-4/ledd/3), [§ 3-4 a fjerde ledd](lov/1990-06-29-50/§3-4a/ledd/4), [§ 4-1 annet](lov/1990-06-29-50/§4-1/ledd/2) og [tredje ledd](lov/1990-06-29-50/§4-1/ledd/3), [§ 4-2 fjerde ledd](lov/1990-06-29-50/§4-2/ledd/4), [§ 4-3 annet](lov/1990-06-29-50/§4-3/ledd/2), [tredje](lov/1990-06-29-50/§4-3/ledd/3) og [femte ledd](lov/1990-06-29-50/§4-3/ledd/5), [§ 4-5 annet](lov/1990-06-29-50/§4-5/ledd/2) og [tredje ledd](lov/1990-06-29-50/§4-5/ledd/3) eller [§ 6-1 fjerde ledd](lov/1990-06-29-50/§6-1/ledd/4)
+4. forskrift, når det i forskriften er særskilt bestemt at overtredelse kan medføre overtredelsesgebyr.
 
 Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved individuell utmåling av gebyret, skal det særlig legges vekt på momentene i [forvaltningsloven § 44](lov/1967-02-10/§44) tredje ledd og om det foreligger gjentagelse. Det skal også tas hensyn til om det er truffet vedtak om inndragning av utbytte fra samme forhold.
 

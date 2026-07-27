@@ -46,7 +46,12 @@ Det som i dette kapitlet sies om åndsverk, gjelder tilsvarende for arbeider som
 
 ### § 3
 
-For konserverings- og sikringsformål kan institusjon som nevnt i [§ 1](forskrift/2021-08-26-2608/§1) fremstille eksemplar av åndsverk som den har eksemplar av i sine samlingeri samme format som originaleksemplareti andre format enn originaleksemplaret, der det ikke kan skaffes et eksemplar som oppfyller konserverings- og sikringsformålet fra utsalgssted, utgiver, importør eller produsentved overføring til mikroformerved overføring til nye lagringssystemer hvis det som følge av ukurant utstyr er nødvendig for å benytte verket.
+For konserverings- og sikringsformål kan institusjon som nevnt i [§ 1](forskrift/2021-08-26-2608/§1) fremstille eksemplar av åndsverk som den har eksemplar av i sine samlinger
+
+1. i samme format som originaleksemplaret
+2. i andre format enn originaleksemplaret, der det ikke kan skaffes et eksemplar som oppfyller konserverings- og sikringsformålet fra utsalgssted, utgiver, importør eller produsent
+3. ved overføring til mikroformer
+4. ved overføring til nye lagringssystemer hvis det som følge av ukurant utstyr er nødvendig for å benytte verket.
 
 Adgangen til eksemplarfremstilling for konserverings- og sikringsformål gjelder også for åndsverk som ikke er offentliggjort.
 
@@ -72,7 +77,11 @@ Institusjon som nevnt i [§ 1](forskrift/2021-08-26-2608/§1) kan fremstille eks
 
 ### § 7
 
-Eksemplar fremstilt i samsvar med [§ 1](forskrift/2021-08-26-2608/§1) til [§ 3](forskrift/2021-08-26-2608/§3) og [§ 5](forskrift/2021-08-26-2608/§5) til [§ 9](forskrift/2021-08-26-2608/§9) må kun brukes i vedkommende institusjons egne lokaler, med unntak aveksemplar fremstilt på papireksemplar av musikk- og filmverk fremstilt for utlån etter [§ 5](forskrift/2021-08-26-2608/§5) andre leddeksemplar som skal brukes til fjernlån på konkret bestilling etter [§ 8](forskrift/2021-08-26-2608/§8).
+Eksemplar fremstilt i samsvar med [§ 1](forskrift/2021-08-26-2608/§1) til [§ 3](forskrift/2021-08-26-2608/§3) og [§ 5](forskrift/2021-08-26-2608/§5) til [§ 9](forskrift/2021-08-26-2608/§9) må kun brukes i vedkommende institusjons egne lokaler, med unntak av
+
+1. eksemplar fremstilt på papir
+2. eksemplar av musikk- og filmverk fremstilt for utlån etter [§ 5](forskrift/2021-08-26-2608/§5) andre ledd
+3. eksemplar som skal brukes til fjernlån på konkret bestilling etter [§ 8](forskrift/2021-08-26-2608/§8).
 
 ### § 8
 
@@ -90,7 +99,11 @@ Brukeren kan fremstille en papirutskrift til eie av åndsverk som er tilgjengeli
 
 ### § 10
 
-For formål som angitt i [pliktavleveringslova](lov/1989-06-09-32), kan mottaksinstitusjon:fremstille eksemplar av åndsverk som er avleveringspliktig og som de har i sine samlinger, til konserverings- og sikringsformål etter [§ 3](forskrift/2021-08-26-2608/§3)fremstille eksemplar, også i andre format enn originaleksemplaret, av åndsverk som er avleveringspliktig og som de ikke har i sine samlinger, når slikt eksemplar ikke kan skaffes fra utsalgssted, utgiver, importør eller produsentgjøre pliktavlevert åndsverk fra egen samling tilgjengelig på terminaler i institusjonens egne lokaler.
+For formål som angitt i [pliktavleveringslova](lov/1989-06-09-32), kan mottaksinstitusjon:
+
+1. fremstille eksemplar av åndsverk som er avleveringspliktig og som de har i sine samlinger, til konserverings- og sikringsformål etter [§ 3](forskrift/2021-08-26-2608/§3)
+2. fremstille eksemplar, også i andre format enn originaleksemplaret, av åndsverk som er avleveringspliktig og som de ikke har i sine samlinger, når slikt eksemplar ikke kan skaffes fra utsalgssted, utgiver, importør eller produsent
+3. gjøre pliktavlevert åndsverk fra egen samling tilgjengelig på terminaler i institusjonens egne lokaler.
 
 Nasjonalbiblioteket kan fremstille eksemplar av pliktavlevert dokument i andre format enn originaleksemplaret for bruk omfattet av tredje ledd og [§ 11](forskrift/2021-08-26-2608/§11) og [§ 12](forskrift/2021-08-26-2608/§12).
 
@@ -112,7 +125,17 @@ Brukerne kan ikke ta digital kopi.
 
 ### § 13
 
-I [§ 14](forskrift/2021-08-26-2608/§14) til [§ 17](forskrift/2021-08-26-2608/§17) menes med:*verk eller annet arbeid:* et offentliggjort verk eller annet arbeid i form av en bok, et tidsskrift, en avis, et magasin eller en annen form for skriftlig materiale, notasjon, herunder noteskrift, og tilhørende illustrasjoner, uansett medium, herunder i lydformat og i digitalt format, som er vernet av opphavsrett eller nærstående rettigheter*tilgodesett person:* en person som, uavhengig av eventuelle andre funksjonsnedsettelser,er blindhar nedsatt funksjonsevne som ikke kan avhjelpes slik at vedkommende får en synsfunksjon tilnærmet lik den hos en person uten slik funksjonsnedsettelse, og derfor ikke er i stand til å lese trykte verk i tilnærmet samme grad som en person uten slik funksjonsnedsettelsehar nedsatt persepsjonsevne- eller lesevansker og derfor ikke er i stand til å lese trykte verk i vesentlig samme grad som en person uten slik funksjonsnedsettelse ellerpå annen måte, på grunn av en fysisk funksjonsnedsettelse, ikke kan tilegne seg verket eller arbeidet på vanlig måte eller er ute av stand til å holde eller håndtere en bok eller til å fokusere blikket eller bevege øynene i den utstrekning som normalt er nødvendig for å lese.*tilgjengelig format:* et verk eller et annet arbeid i en alternativ form eller et alternativt format som gir en tilgodesett person tilgang til verket eller arbeidet, og som gir den personen like enkel og uhindret tilgang som en person uten noen av funksjonsnedsettelsene nevnt i nr. 2.*godkjent enhet:* en enhet som er godkjent eller anerkjent av departementet, av en stat innen EØS, eller av en stat som er part i Marrakechtraktaten, for å tilby tilgodesette personer undervisning, opplæring, tilpasset lesing eller tilgang til informasjon på ideelt grunnlag. Begrepet omfatter også en offentlig institusjon eller ideell organisasjon som leverer de samme tjenestene til tilgodesette personer, som en av sine primære oppgaver eller institusjonelle forpliktelser eller som en del av sine oppgaver i allmennhetens interesse.
+I [§ 14](forskrift/2021-08-26-2608/§14) til [§ 17](forskrift/2021-08-26-2608/§17) menes med:
+
+1. *verk eller annet arbeid:* et offentliggjort verk eller annet arbeid i form av en bok, et tidsskrift, en avis, et magasin eller en annen form for skriftlig materiale, notasjon, herunder noteskrift, og tilhørende illustrasjoner, uansett medium, herunder i lydformat og i digitalt format, som er vernet av opphavsrett eller nærstående rettigheter
+2. *tilgodesett person:* en person som, uavhengig av eventuelle andre funksjonsnedsettelser,
+
+   1. er blind
+   2. har nedsatt funksjonsevne som ikke kan avhjelpes slik at vedkommende får en synsfunksjon tilnærmet lik den hos en person uten slik funksjonsnedsettelse, og derfor ikke er i stand til å lese trykte verk i tilnærmet samme grad som en person uten slik funksjonsnedsettelse
+   3. har nedsatt persepsjonsevne- eller lesevansker og derfor ikke er i stand til å lese trykte verk i vesentlig samme grad som en person uten slik funksjonsnedsettelse eller
+   4. på annen måte, på grunn av en fysisk funksjonsnedsettelse, ikke kan tilegne seg verket eller arbeidet på vanlig måte eller er ute av stand til å holde eller håndtere en bok eller til å fokusere blikket eller bevege øynene i den utstrekning som normalt er nødvendig for å lese.
+3. *tilgjengelig format:* et verk eller et annet arbeid i en alternativ form eller et alternativt format som gir en tilgodesett person tilgang til verket eller arbeidet, og som gir den personen like enkel og uhindret tilgang som en person uten noen av funksjonsnedsettelsene nevnt i nr. 2.
+4. *godkjent enhet:* en enhet som er godkjent eller anerkjent av departementet, av en stat innen EØS, eller av en stat som er part i Marrakechtraktaten, for å tilby tilgodesette personer undervisning, opplæring, tilpasset lesing eller tilgang til informasjon på ideelt grunnlag. Begrepet omfatter også en offentlig institusjon eller ideell organisasjon som leverer de samme tjenestene til tilgodesette personer, som en av sine primære oppgaver eller institusjonelle forpliktelser eller som en del av sine oppgaver i allmennhetens interesse.
 
 ### § 14
 
@@ -136,7 +159,12 @@ Det skal heller ikke betales kompensasjon hvis skaden for opphaver er minimal.
 
 ### § 16
 
-En godkjent enhet som er etablert i Norge, og som overfører, stiller til rådighet, låner ut eller på annen måte sprer tilgjengelige format til tilgodesette personer eller godkjente enheter innen EØS-området eller i en stat som er part i Marrakechtraktaten, eller som importerer tilgjengelige format fra en godkjent enhet som er etablert i disse områdene, skal sørge for at den:kun sprer, overfører og stiller til rådighet tilgjengelige format for tilgodesette personer eller andre godkjente enhetertreffer egnede tiltak for å motvirke at tilgjengelige format blir fremstilt, spredt, overført eller stilt til rådighet på uautorisert visutviser nødvendig aktsomhet ved og fører register over sin håndtering av verk og andre arbeideroffentliggjør og oppdaterer opplysninger om hvordan enheten overholder forpliktelsene i bokstav a til c.
+En godkjent enhet som er etablert i Norge, og som overfører, stiller til rådighet, låner ut eller på annen måte sprer tilgjengelige format til tilgodesette personer eller godkjente enheter innen EØS-området eller i en stat som er part i Marrakechtraktaten, eller som importerer tilgjengelige format fra en godkjent enhet som er etablert i disse områdene, skal sørge for at den:
+
+1. kun sprer, overfører og stiller til rådighet tilgjengelige format for tilgodesette personer eller andre godkjente enheter
+2. treffer egnede tiltak for å motvirke at tilgjengelige format blir fremstilt, spredt, overført eller stilt til rådighet på uautorisert vis
+3. utviser nødvendig aktsomhet ved og fører register over sin håndtering av verk og andre arbeider
+4. offentliggjør og oppdaterer opplysninger om hvordan enheten overholder forpliktelsene i bokstav a til c.
 
 ### § 17
 
@@ -152,7 +180,13 @@ Bestemmelsene i [åndsverkloven § 25](lov/2018-06-15-40/§25), jf. [§ 16](lov/
 
 Godkjente enheter som fremstiller eksemplar av offentliggjort litterært verk eller musikkverk til bruk for personer med funksjonsnedsettelse etter reglene i [åndsverkloven § 55](lov/2018-06-15-40/§55), [§ 56](lov/2018-06-15-40/§56) og [§ 56a](lov/2018-06-15-40/§56a) kan behandle personopplysninger, blant annet personopplysninger som nevnt i [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9) nr. 1, når det er nødvendig for å administrere tjenester til personer med funksjonsnedsettelse.
 
-Første ledd omfatter personopplysninger om:låners navn, fødselsnummer eller eventuell annen unik identifikator, postadresse, e-postadresse, telefonnummer, lånenummer, skole eller studiesteddokumentasjon av funksjonsnedsettelse eller sykdom som svekker låners evne til å lese trykt tekstbrukergenererte bokmerker og navigasjonsopplysningervannmerke eller tilsvarende i eksemplar av utgitt eller offentliggjort litterært verk eller musikkverknavn og kontaktopplysninger om foreldre eller andre som har foreldreansvaret for barn under 18 år.
+Første ledd omfatter personopplysninger om:
+
+1. låners navn, fødselsnummer eller eventuell annen unik identifikator, postadresse, e-postadresse, telefonnummer, lånenummer, skole eller studiested
+2. dokumentasjon av funksjonsnedsettelse eller sykdom som svekker låners evne til å lese trykt tekst
+3. brukergenererte bokmerker og navigasjonsopplysninger
+4. vannmerke eller tilsvarende i eksemplar av utgitt eller offentliggjort litterært verk eller musikkverk
+5. navn og kontaktopplysninger om foreldre eller andre som har foreldreansvaret for barn under 18 år.
 
 Godkjente enheter som nevnt i første ledd er hver for seg behandlingsansvarlig.
 
@@ -162,7 +196,36 @@ Hvis en person med funksjonsnedsettelse ikke lenger har behov for tjenesten elle
 
 ### § 19
 
-Omfattende søk etter rettighetshavere, jf. [åndsverkloven § 52](lov/2018-06-15-40/§52), skal utføres i god tro og i de kilder som er relevante for den aktuelle verkstypen. Dokumentasjon av søket skal videreformidles til Nasjonalbiblioteket. Søket skal alltid omfatte følgende søkekilder:For utgitte bøker:register over pliktavlevert materiale (Nasjonalbibliografien), bibliotekskataloger og autoritetsregistre som finnes i bibliotek og i andre institusjonerforlegger- og opphaversammenslutninger i vedkommende landeksisterende databaser og registre, WATCH (Writers, Artists and their Copyright Holders), ISBN (International Standard Book Number) og databaser over trykte bøkerdatabasene til de aktuelle rettighetsorganisasjonene, særlig organisasjoner som forvalter rettigheter til eksemplarfremstillingkilder som omfatter en rekke databaser og registre, herunder VIAF (Virtual International Authority Files) og ARROW (Accessible Registries of Rights Information and Orphan Works).For aviser, blad, tidsskrift og periodika:ISSN (International Standard Serial Number) for tidsskriftindekser og kataloger fra bibliotek og andre samlingerregister over pliktavlevert materiale (Nasjonalbibliografien)forleggersammenslutninger og forfatter- og journalistsammenslutninger i vedkommende landdatabasene til aktuelle rettighetshaverorganisasjoner, herunder organisasjoner som forvalter rettigheter til eksemplarfremstilling.For visuelle verk, herunder kunst, fotografi, illustrasjoner, design, arkitektur, skisser av de sistnevnte verk og andre slike verk som finnes i bøker, tidsskrift, aviser og blad eller andre verk:kildene som er nevnt i nr. 1 og 2databasene til de aktuelle rettighetshaverorganisasjonene, særlig for billedkunst, og inkludert organisasjoner som forvalter rettigheter til eksemplarfremstillingdatabasene til bildebyrå, der det er relevant.For audiovisuelle verk og lydopptak:register over pliktavlevert materiale (Nasjonalbibliografien)produsentsammenslutninger i vedkommende landdatabasene til film- eller lydkulturarvinstitusjoner og Nasjonalbiblioteketdatabaser med relevante standarder og identifikatorer, så som ISAN (International Standard Audiovisual Number) for audiovisuelle verk, ISWC (International Standard Music Work Code) for musikkverk og ISRC (International Standard Recording Code) for lydopptakdatabasene til de aktuelle rettighetshaverorganisasjonene, særlig for opphavere, utøvende kunstnere, produsenter av lydopptak og produsenter av audiovisuelle verkopplysninger om medvirkende og annen informasjon som vises på emballasjen til verketdatabasene til andre relevante sammenslutninger som representerer en bestemt kategori av rettighetshavere.
+Omfattende søk etter rettighetshavere, jf. [åndsverkloven § 52](lov/2018-06-15-40/§52), skal utføres i god tro og i de kilder som er relevante for den aktuelle verkstypen. Dokumentasjon av søket skal videreformidles til Nasjonalbiblioteket. Søket skal alltid omfatte følgende søkekilder:
+
+1. For utgitte bøker:
+
+   1. register over pliktavlevert materiale (Nasjonalbibliografien), bibliotekskataloger og autoritetsregistre som finnes i bibliotek og i andre institusjoner
+   2. forlegger- og opphaversammenslutninger i vedkommende land
+   3. eksisterende databaser og registre, WATCH (Writers, Artists and their Copyright Holders), ISBN (International Standard Book Number) og databaser over trykte bøker
+   4. databasene til de aktuelle rettighetsorganisasjonene, særlig organisasjoner som forvalter rettigheter til eksemplarfremstilling
+   5. kilder som omfatter en rekke databaser og registre, herunder VIAF (Virtual International Authority Files) og ARROW (Accessible Registries of Rights Information and Orphan Works).
+2. For aviser, blad, tidsskrift og periodika:
+
+   1. ISSN (International Standard Serial Number) for tidsskrift
+   2. indekser og kataloger fra bibliotek og andre samlinger
+   3. register over pliktavlevert materiale (Nasjonalbibliografien)
+   4. forleggersammenslutninger og forfatter- og journalistsammenslutninger i vedkommende land
+   5. databasene til aktuelle rettighetshaverorganisasjoner, herunder organisasjoner som forvalter rettigheter til eksemplarfremstilling.
+3. For visuelle verk, herunder kunst, fotografi, illustrasjoner, design, arkitektur, skisser av de sistnevnte verk og andre slike verk som finnes i bøker, tidsskrift, aviser og blad eller andre verk:
+
+   1. kildene som er nevnt i nr. 1 og 2
+   2. databasene til de aktuelle rettighetshaverorganisasjonene, særlig for billedkunst, og inkludert organisasjoner som forvalter rettigheter til eksemplarfremstilling
+   3. databasene til bildebyrå, der det er relevant.
+4. For audiovisuelle verk og lydopptak:
+
+   1. register over pliktavlevert materiale (Nasjonalbibliografien)
+   2. produsentsammenslutninger i vedkommende land
+   3. databasene til film- eller lydkulturarvinstitusjoner og Nasjonalbiblioteket
+   4. databaser med relevante standarder og identifikatorer, så som ISAN (International Standard Audiovisual Number) for audiovisuelle verk, ISWC (International Standard Music Work Code) for musikkverk og ISRC (International Standard Recording Code) for lydopptak
+   5. databasene til de aktuelle rettighetshaverorganisasjonene, særlig for opphavere, utøvende kunstnere, produsenter av lydopptak og produsenter av audiovisuelle verk
+   6. opplysninger om medvirkende og annen informasjon som vises på emballasjen til verket
+   7. databasene til andre relevante sammenslutninger som representerer en bestemt kategori av rettighetshavere.
 
 ## Kapittel 2 – Opptak av kringkastingsprogram mv.
 
@@ -182,7 +245,11 @@ Med opptak forstås i [§ 22](forskrift/2021-08-26-2608/§22) til [§ 25](forskr
 
 ### § 22
 
-Kringkastingsforetak kan gjøre opptak av åndsverk uten særskilt samtykke nåropptaket gjøres ved kringkastingsforetakets egne hjelpemidler,opptaket gjøres til bruk ved kringkastingsforetakets egne sendinger, ogkringkastingsforetaket for øvrig har rett til å ta verket med i sine programmer, det vil si at kringkastingsforetaket i henhold til lov eller avtale har rett til å kringkaste verket.
+Kringkastingsforetak kan gjøre opptak av åndsverk uten særskilt samtykke når
+
+1. opptaket gjøres ved kringkastingsforetakets egne hjelpemidler,
+2. opptaket gjøres til bruk ved kringkastingsforetakets egne sendinger, og
+3. kringkastingsforetaket for øvrig har rett til å ta verket med i sine programmer, det vil si at kringkastingsforetaket i henhold til lov eller avtale har rett til å kringkaste verket.
 
 ### § 23
 
@@ -354,7 +421,10 @@ Nemndas vedtak føres inn i protokoll. Nemnda kan forsøke mekling mellom parten
 
 ### § 47
 
-Bestemmelsene i [åndsverkloven](lov/2018-06-15-40) skal, i samme utstrekning som de gjelder for norske statsborgere og selskaper med tilknytning til Norge, gjelde tilsvarende for verk og for arbeider omhandlet i loven kapittel 2 aven person som er statsborger av eller bosatt i et land innenfor Det europeiske økonomiske samarbeidsområde (EØS), elleret selskap som har sitt sete i et land innenfor EØS.
+Bestemmelsene i [åndsverkloven](lov/2018-06-15-40) skal, i samme utstrekning som de gjelder for norske statsborgere og selskaper med tilknytning til Norge, gjelde tilsvarende for verk og for arbeider omhandlet i loven kapittel 2 av
+
+1. en person som er statsborger av eller bosatt i et land innenfor Det europeiske økonomiske samarbeidsområde (EØS), eller
+2. et selskap som har sitt sete i et land innenfor EØS.
 
 Bestemmelsene i [åndsverkloven § 16](lov/2018-06-15-40/§16) og [§ 20](lov/2018-06-15-40/§20) om spredningsrett skal også gjelde for lyd- og filmopptak som er gjort i et land innenfor EØS.
 
@@ -386,7 +456,12 @@ Bestemmelsene i [åndsverkloven § 72](lov/2018-06-15-40/§72) andre og tredje l
 
 ### § 51
 
-Bestemmelsene i [åndsverkloven](lov/2018-06-15-40) skal, med unntak av [§ 13](lov/2018-06-15-40/§13), [kapittel 2](lov/2018-06-15-40/kap2), [§ 59](lov/2018-06-15-40/§59) til [§ 61](lov/2018-06-15-40/§61) og [§ 104](lov/2018-06-15-40/§104), gjeldeverk som er utgitt første gang i et land som er tilsluttet Verdenskonvensjonen om opphavsrett (Verdenskonvensjonen)verk av opphaver som er statsborger av et land tilsluttet Verdenskonvensjonenverk av opphaver som har bopel i et land tilsluttet Verdenskonvensjonen, hvis bopel etter vedkommende lands egen lovgivning er likestilt med statsborgerskap ved gjennomføring av Verdenskonvensjonenverk av statsløs eller flyktning som har sitt vanlige oppholdssted i et land tilsluttet tilleggsprotokoll 1 til Verdenskonvensjonen.
+Bestemmelsene i [åndsverkloven](lov/2018-06-15-40) skal, med unntak av [§ 13](lov/2018-06-15-40/§13), [kapittel 2](lov/2018-06-15-40/kap2), [§ 59](lov/2018-06-15-40/§59) til [§ 61](lov/2018-06-15-40/§61) og [§ 104](lov/2018-06-15-40/§104), gjelde
+
+1. verk som er utgitt første gang i et land som er tilsluttet Verdenskonvensjonen om opphavsrett (Verdenskonvensjonen)
+2. verk av opphaver som er statsborger av et land tilsluttet Verdenskonvensjonen
+3. verk av opphaver som har bopel i et land tilsluttet Verdenskonvensjonen, hvis bopel etter vedkommende lands egen lovgivning er likestilt med statsborgerskap ved gjennomføring av Verdenskonvensjonen
+4. verk av statsløs eller flyktning som har sitt vanlige oppholdssted i et land tilsluttet tilleggsprotokoll 1 til Verdenskonvensjonen.
 
 ### § 52
 
@@ -436,7 +511,10 @@ Retten til vederlag etter første ledd varer ikke ut over den tid norske lydoppt
 
 ### § 59
 
-[Åndsverkloven § 22](lov/2018-06-15-40/§22) skal omfattefjernsynssending fra kringkastingsinstitusjon som har sitt sete i et land som er tilsluttet Den europeiske overenskomst av 22. juni 1960 om vern av fjernsynssendingerfjernsynssending som sendes fra territoriet til et land som er tilsluttet Den europeiske overenskomst av 22. juni 1960 om vern av fjernsynssendinger.
+[Åndsverkloven § 22](lov/2018-06-15-40/§22) skal omfatte
+
+1. fjernsynssending fra kringkastingsinstitusjon som har sitt sete i et land som er tilsluttet Den europeiske overenskomst av 22. juni 1960 om vern av fjernsynssendinger
+2. fjernsynssending som sendes fra territoriet til et land som er tilsluttet Den europeiske overenskomst av 22. juni 1960 om vern av fjernsynssendinger.
 
 ### VI. Anvendelse av [åndsverkloven § 59](lov/2018-06-15-40/§59) til [§ 61](lov/2018-06-15-40/§61) på verk med tilknytning til land utenfor Det europeiske økonomiske samarbeidsområde [(EØS-avtalen)](lov/1992-11-27-109/eøsl)
 

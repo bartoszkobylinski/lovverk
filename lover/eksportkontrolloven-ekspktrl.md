@@ -42,7 +42,13 @@ Til dette formål kan departementet foreta inspeksjon og kreve innsyn i registre
 
 Pliktene etter første og annet ledd gjelder uten hinder av lovbestemt taushetsplikt.
 
-Med de unntak som følger av bestemmelsene foran, har enhver taushetsplikt om det de får kunnskap om etter denne lov. Taushetsplikten er likevel ikke til hinder forat opplysningen brukes for å oppnå det formål de er gitt eller innhentet for, bl.a. kan de brukes i forbindelse med saksforberedelse, avgjørelse, gjennomføring av avgjørelsen, oppfølging og kontroll,at opplysningene er tilgjengelige for andre tjenestemenn innen organet eller etaten i den utstrekning som trengs for en hensiktsmessig arbeids- og arkivordning, bl.a. til bruk av veiledning i andre saker,at forvaltningsorganet gir andre forvaltningsorganer opplysninger om et foretaks forbindelse med organet og om avgjørelser som er truffet når det er nødvendig for å fremme avgiverorganets oppgaver etter denne lov,at forvaltningsorganet anmelder eller gir opplysninger om lovbrudd til påtalemyndigheten eller vedkommende kontrollmyndighet, når det finnes ønskelig av allmenne omsyn eller forfølgning av lovbruddet har naturlig sammenheng med avgiverorganets oppgaver,at forvaltningsorganet gir et annet forvaltningsorgan opplysninger (samordning) som forutsatt i lov om Oppgaveregisteret.
+Med de unntak som følger av bestemmelsene foran, har enhver taushetsplikt om det de får kunnskap om etter denne lov. Taushetsplikten er likevel ikke til hinder for
+
+1. at opplysningen brukes for å oppnå det formål de er gitt eller innhentet for, bl.a. kan de brukes i forbindelse med saksforberedelse, avgjørelse, gjennomføring av avgjørelsen, oppfølging og kontroll,
+2. at opplysningene er tilgjengelige for andre tjenestemenn innen organet eller etaten i den utstrekning som trengs for en hensiktsmessig arbeids- og arkivordning, bl.a. til bruk av veiledning i andre saker,
+3. at forvaltningsorganet gir andre forvaltningsorganer opplysninger om et foretaks forbindelse med organet og om avgjørelser som er truffet når det er nødvendig for å fremme avgiverorganets oppgaver etter denne lov,
+4. at forvaltningsorganet anmelder eller gir opplysninger om lovbrudd til påtalemyndigheten eller vedkommende kontrollmyndighet, når det finnes ønskelig av allmenne omsyn eller forfølgning av lovbruddet har naturlig sammenheng med avgiverorganets oppgaver,
+5. at forvaltningsorganet gir et annet forvaltningsorgan opplysninger (samordning) som forutsatt i lov om Oppgaveregisteret.
 
 Departementet kan videre bestemme at offentlige organer som har med fastsettingen av formues- og inntektsskatt og kontrollen med merverdiavgiften å gjøre, skal få adgang til å gjøre seg kjent med de opplysninger som er gitt etter denne lov.
 
@@ -64,7 +70,15 @@ Når departementet krever ransaking eller beslag for å få opplysninger om et f
 
 ## § 5.
 
-Dersom forholdet ikke rammes av strengere straffebud, straffes med bøter eller med fengsel inntil fem år eller med begge deler den som:utfører varer, teknologi eller tjenester i strid med denne lov eller forskrift som er gitt i medhold av den, ellerovertrer noe vilkår som er satt i medhold av denne lov, ellermuntlig eller skriftlig gir uriktige opplysninger om forhold som er av betydning for adgangen til å utføre varer, teknologi eller tjenester når det skjeri erklæring avgitt til bruk for offentlig myndighet eller noen som handler på vegne av offentlig myndighet, i anledning av utførsel eller søknad om tillatelse til utførsel,i erklæring som skal sette en annen i stand til å gi slik erklæring som er nevnt under punkt a, ellerpå annen måte overtrer bestemmelser som er gitt i eller i medhold av denne lov.
+Dersom forholdet ikke rammes av strengere straffebud, straffes med bøter eller med fengsel inntil fem år eller med begge deler den som:
+
+1. utfører varer, teknologi eller tjenester i strid med denne lov eller forskrift som er gitt i medhold av den, eller
+2. overtrer noe vilkår som er satt i medhold av denne lov, eller
+3. muntlig eller skriftlig gir uriktige opplysninger om forhold som er av betydning for adgangen til å utføre varer, teknologi eller tjenester når det skjer
+
+   1. i erklæring avgitt til bruk for offentlig myndighet eller noen som handler på vegne av offentlig myndighet, i anledning av utførsel eller søknad om tillatelse til utførsel,
+   2. i erklæring som skal sette en annen i stand til å gi slik erklæring som er nevnt under punkt a, eller
+4. på annen måte overtrer bestemmelser som er gitt i eller i medhold av denne lov.
 
 Uaktsom overtredelse som nevnt i første ledd, straffes med bøter eller fengsel inntil to år.
 

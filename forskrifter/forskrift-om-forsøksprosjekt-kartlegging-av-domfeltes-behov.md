@@ -42,7 +42,11 @@ For å bli behovskartlagt etter forskriften her må den domfelte gi et skriftlig
 
 Den domfelte skal i skjemaet samtykke til utlevering av nødvendige opplysninger til forvaltningssamarbeidsparter, jf. § 5 nr. 4 i forskriften her.
 
-Det skal framgå i samtykkeskjemaet at opplysningene ikke kan nyttes til andre formål enn de som er nevnt i [§ 1](forskrift/2011-09-30-978/§1). Dette gjelder likevel ikke opplysninger som den domfelte gir om:planer om å unndra seg straffegjennomføringen,utøvd vold eller trusler mot ansatte eller andre innsatte eller planer om dette,utøvd vold eller trusler mot nærstående eller andre personer utenfor kriminalomsorgen eller planer om dette.
+Det skal framgå i samtykkeskjemaet at opplysningene ikke kan nyttes til andre formål enn de som er nevnt i [§ 1](forskrift/2011-09-30-978/§1). Dette gjelder likevel ikke opplysninger som den domfelte gir om:
+
+1. planer om å unndra seg straffegjennomføringen,
+2. utøvd vold eller trusler mot ansatte eller andre innsatte eller planer om dette,
+3. utøvd vold eller trusler mot nærstående eller andre personer utenfor kriminalomsorgen eller planer om dette.
 
 Disse opplysningene skal meddeles enhetsledelsen.
 
@@ -58,13 +62,25 @@ Bare tilsatte i kriminalomsorgen som er godkjent som kartleggere og som har fåt
 
 ### § 5. Personvern
 
-For å ivareta personvernet skal følgende gjelde:De svar som den domfelte avgir, skal gjennomgås og gis en vurdering av kriminalomsorgen. Domfelte skal få se vurderingene og gis mulighet til å imøtegå dem.Den domfelte kan når som helst trekke tilbake samtykket til å delta.Bare tilsatte i kriminalomsorgen som har tjenstlig behov, kan gis tilgang til kartleggingsopplysninger. Kriminalomsorgens retningslinjer for tilgangskontroll gjelder tilsvarende.Det skal bare utleveres kartleggingsinformasjon etter [§ 3](forskrift/2011-09-30-978/§3) som forvaltningssamarbeidsparten, innenfor sitt arbeidsområde, trenger for å gi den domfelte best mulig oppfølging. Forvaltningssamarbeidsparten skal skriftlig forplikte seg til å oppfylle kravene til informasjonssikkerhet etter personopplysningsforskriften, jf. [personopplysningsforskriften § 2-15](forskrift/2000-12-15-1265/§2-15) første, fjerde og femte ledd.Kriminalomsorgens regler om sperring og sletting/kassasjon av informasjon gjelder. Etter de frister som er fastsatt i kriminalomsorgens bevarings- og kassasjonsregler, skal arkivverdig materiale overleveres Riksarkivet, jf. [arkivloven § 9](lov/1992-12-04-126/§9) og [forvaltningsloven § 13d](lov/1967-02-10/§13d). Materiale som ikke er arkivverdig, skal slettes når det ikke lenger er bruk for det.
+For å ivareta personvernet skal følgende gjelde:
+
+1. De svar som den domfelte avgir, skal gjennomgås og gis en vurdering av kriminalomsorgen. Domfelte skal få se vurderingene og gis mulighet til å imøtegå dem.
+2. Den domfelte kan når som helst trekke tilbake samtykket til å delta.
+3. Bare tilsatte i kriminalomsorgen som har tjenstlig behov, kan gis tilgang til kartleggingsopplysninger. Kriminalomsorgens retningslinjer for tilgangskontroll gjelder tilsvarende.
+4. Det skal bare utleveres kartleggingsinformasjon etter [§ 3](forskrift/2011-09-30-978/§3) som forvaltningssamarbeidsparten, innenfor sitt arbeidsområde, trenger for å gi den domfelte best mulig oppfølging. Forvaltningssamarbeidsparten skal skriftlig forplikte seg til å oppfylle kravene til informasjonssikkerhet etter personopplysningsforskriften, jf. [personopplysningsforskriften § 2-15](forskrift/2000-12-15-1265/§2-15) første, fjerde og femte ledd.
+5. Kriminalomsorgens regler om sperring og sletting/kassasjon av informasjon gjelder. Etter de frister som er fastsatt i kriminalomsorgens bevarings- og kassasjonsregler, skal arkivverdig materiale overleveres Riksarkivet, jf. [arkivloven § 9](lov/1992-12-04-126/§9) og [forvaltningsloven § 13d](lov/1967-02-10/§13d). Materiale som ikke er arkivverdig, skal slettes når det ikke lenger er bruk for det.
 
 ### § 6. Innholdet i kartleggingsverktøyet
 
 Kartlegging skal foretas ved hjelp av et IKT-verktøy. Verktøyet skal gi mulighet til å behandle og lagre informasjon som er relevante for å oppnå formålene som er nevnt i [§ 1](forskrift/2011-09-30-978/§1). Spørsmålene kan ta sikte på å avdekke kriminell bakgrunn og tidligere dommer, boforhold, utdanningsnivå, arbeidsforhold, økonomi, nettverk, narkotika- og alkoholbruk.
 
-Følgende områder kan også inngå:erfaring fra og holdning til å la seg behandle for misbruk av narkotika og alkohol,lovbrudd vedkommende er dømt for,fysisk og psykisk helsetilstand,vurdering av egen aggresjon og bruk av vold og som offer for vold, ogegen vurdering av framtidsmulighetene.
+Følgende områder kan også inngå:
+
+- erfaring fra og holdning til å la seg behandle for misbruk av narkotika og alkohol,
+- lovbrudd vedkommende er dømt for,
+- fysisk og psykisk helsetilstand,
+- vurdering av egen aggresjon og bruk av vold og som offer for vold, og
+- egen vurdering av framtidsmulighetene.
 
 Dersom det skal legges til nye spørsmål i spørreskjemaet, må disse i sin helhet være relevante for formålet som nevnt i [§ 1](forskrift/2011-09-30-978/§1). Endringer må godkjennes av Kriminalomsorgsdirektoratet.
 

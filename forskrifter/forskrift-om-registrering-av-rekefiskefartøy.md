@@ -28,9 +28,22 @@ Denne forskrift gjelder for norske fartøy som innehar reketråltillatelse, fart
 
 ## § 2. Registreringsmelding
 
-Fartøy som skal delta i fisket etter reker i farvann som nevnt i [§ 1](forskrift/1997-07-11-784/§1) skal på forhånd være registrert gjennom melding til Fiskeridirektoratet:før 1. januar hvert år hvis mulig elleri god tid før avgang fra hjemstedshavn ellerinnen 30 dager fra endringstidspunktet dersom det er endringer i opplysninger gitt i registreringsmeldingen.
+Fartøy som skal delta i fisket etter reker i farvann som nevnt i [§ 1](forskrift/1997-07-11-784/§1) skal på forhånd være registrert gjennom melding til Fiskeridirektoratet:
 
-Meldingen skal inneholde følgende opplysninger:Radiokallesignal og registreringsnummerFartøyets navnType melding: «Registreringsmelding reke Svalbard»BruttotonnasjeFartøytype (Redskapsgruppe)Fartøyets lengdeHjemstedshavnFartøyeiers eller befrakters navn og adresse.
+1. før 1. januar hvert år hvis mulig eller
+2. i god tid før avgang fra hjemstedshavn eller
+3. innen 30 dager fra endringstidspunktet dersom det er endringer i opplysninger gitt i registreringsmeldingen.
+
+Meldingen skal inneholde følgende opplysninger:
+
+1. Radiokallesignal og registreringsnummer
+2. Fartøyets navn
+3. Type melding: «Registreringsmelding reke Svalbard»
+4. Bruttotonnasje
+5. Fartøytype (Redskapsgruppe)
+6. Fartøyets lengde
+7. Hjemstedshavn
+8. Fartøyeiers eller befrakters navn og adresse.
 
 ## § 3. Utskifting
 

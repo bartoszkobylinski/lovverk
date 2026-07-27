@@ -15,7 +15,7 @@ xml_hash: "4237001de5e7ed5a640ecf97ce5a40e72b911fe2bbc667bdf90ffb3057043db4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,17 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskrift med vedlegg betyr:*Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.*Lasteskip*: Skip som anvendes til transport av last i fast eller flytende form eller skip som av Sjøfartsdirektoratet er sertifisert som lasteskip, og som ikke er passasjerskip eller fiske- og fangstfartøy.*Broen*: Styrehus og brovinge unntatt bestikklugar, kartrom eller annet avlukke i akterkant av styrehus.*Kvalifisert besetningsmedlem*: Person som tilfredsstiller krav til språkkunnskaper og som er sertifisert for brovakttjeneste i samsvar med den til enhver tid gjeldende forskrift om kvalfikasjonskrav.*Purre- og kalleanlegg*: Internt kommunikasjonsanlegg i henhold til gjeldende bestemmelser i forskrift om driftsordninger på norske skip.*Selvstyreranlegg*: Innretning som består av styreenhet og kompass sammenligningsutstyr (kursavvikeralarm) i henhold til gjeldende bestemmelser i forskrift om driftsordninger på norske skip.*Sjøgående skip*: Skip med fartsområde større enn fartsområde 2 (beskyttet farvann).*Sjøveisregler*: [Forskrift av 1. desember 1975 nr. 5](forskrift/1975-12-01-5) om forebygging av sammenstøt på sjøen med senere endringer.*Tonn*: Bruttotonnasje i henhold til den internasjonale konvensjon om måling av fartøyer 1969, med senere endringer, slik denne tonnasje er angitt i fartøyets målebrev. For fartøy som har en nasjonal bruttotonnasje anført i anmerkningsrubrikken, er det den nasjonale tonnasje som skal legges til grunn.
+I denne forskrift med vedlegg betyr:
+
+1. *Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.
+2. *Lasteskip*: Skip som anvendes til transport av last i fast eller flytende form eller skip som av Sjøfartsdirektoratet er sertifisert som lasteskip, og som ikke er passasjerskip eller fiske- og fangstfartøy.
+3. *Broen*: Styrehus og brovinge unntatt bestikklugar, kartrom eller annet avlukke i akterkant av styrehus.
+4. *Kvalifisert besetningsmedlem*: Person som tilfredsstiller krav til språkkunnskaper og som er sertifisert for brovakttjeneste i samsvar med den til enhver tid gjeldende forskrift om kvalfikasjonskrav.
+5. *Purre- og kalleanlegg*: Internt kommunikasjonsanlegg i henhold til gjeldende bestemmelser i forskrift om driftsordninger på norske skip.
+6. *Selvstyreranlegg*: Innretning som består av styreenhet og kompass sammenligningsutstyr (kursavvikeralarm) i henhold til gjeldende bestemmelser i forskrift om driftsordninger på norske skip.
+7. *Sjøgående skip*: Skip med fartsområde større enn fartsområde 2 (beskyttet farvann).
+8. *Sjøveisregler*: [Forskrift av 1. desember 1975 nr. 5](forskrift/1975-12-01-5) om forebygging av sammenstøt på sjøen med senere endringer.
+9. *Tonn*: Bruttotonnasje i henhold til den internasjonale konvensjon om måling av fartøyer 1969, med senere endringer, slik denne tonnasje er angitt i fartøyets målebrev. For fartøy som har en nasjonal bruttotonnasje anført i anmerkningsrubrikken, er det den nasjonale tonnasje som skal legges til grunn.
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
@@ -52,14 +62,22 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 ### § 5. Skikkethet til tjeneste
 
-Med formål å forebygge trøtthet skaldet etableres og håndheves hvileperioder1 for vaktgående personell, ogkreves at vaktordningen innrettes slik at effektiviteten til alt vaktgående personell ikke blir nedsatt på grunn av trøtthet, og at tjenesten må være lagt slik til rette at første vakt ved begynnelsen av en reise og etterfølgende avløsningsvakter er tilstrekkelig uthvilt og ellers i stand til å gjøre tjeneste.
+Med formål å forebygge trøtthet skal
+
+1. det etableres og håndheves hvileperioder1 for vaktgående personell, og
+2. kreves at vaktordningen innrettes slik at effektiviteten til alt vaktgående personell ikke blir nedsatt på grunn av trøtthet, og at tjenesten må være lagt slik til rette at første vakt ved begynnelsen av en reise og etterfølgende avløsningsvakter er tilstrekkelig uthvilt og ellers i stand til å gjøre tjeneste.
 
 1 Jf. [lov av 3. juni 1977 nr. 50](lov/1977-06-03-50) om arbeidstiden på skip med senere endringer.
 
 ### § 6. Vaktordninger og prinsipper
 
 1. Rederier, skipsførere, maskinsjefer og alt vaktgående personell skal være oppmerksom på krav, prinsipper og veiledning i denne forskrift som det er nødvendig å oppfylle og iaktta for å sikre at forsvarlig uavbrutt vakt eller vakter som er tilpasset de rådende omstendigheter og forhold, holdes på alle skip til enhver tid.
-2. Skipsføreren skal forvisse seg om at vaktordningene er tilstrekkelig med hensyn til å holde forsvarlig vakt eller vakter, de rådende omstendigheter og forhold tatt i betraktning, og under skipsførerens overordnede ledelse at;ansvarshavende vaktoffiserer på broen er ansvarlig for sikker navigering av skipet på sine vakter, da de til enhver tid skal være fysisk til stede på broen eller på et direkte tilknyttet sted så som kartrommet eller kontrollrommet på broen;radiooperatører er ansvarlig for å holde uavbrutt radiovakt på aktuelle frekvenser på sine vakter;ansvarshavende vaktoffiserer på maskinvakt under ledelse av maskinsjefen, er umiddelbart tilgjengelige og klare til å betjene maskinrom og er, når det kreves, fysisk til stede i maskinrommet på sine vakter; ogpassende og effektiv vakt eller vakter til enhver tid holdes av hensyn til sikkerheten når skipet er for anker eller fortøyd og, dersom skipet fører farlig last, at slik vakt eller vakter er lagt til rette på en måte som fullt ut ivaretar hensynet til den farlige lastens art, mengde, innpakking og stuing og til særskilte forhold som hersker om bord, på sjøen eller på land.
+2. Skipsføreren skal forvisse seg om at vaktordningene er tilstrekkelig med hensyn til å holde forsvarlig vakt eller vakter, de rådende omstendigheter og forhold tatt i betraktning, og under skipsførerens overordnede ledelse at;
+
+   - ansvarshavende vaktoffiserer på broen er ansvarlig for sikker navigering av skipet på sine vakter, da de til enhver tid skal være fysisk til stede på broen eller på et direkte tilknyttet sted så som kartrommet eller kontrollrommet på broen;
+   - radiooperatører er ansvarlig for å holde uavbrutt radiovakt på aktuelle frekvenser på sine vakter;
+   - ansvarshavende vaktoffiserer på maskinvakt under ledelse av maskinsjefen, er umiddelbart tilgjengelige og klare til å betjene maskinrom og er, når det kreves, fysisk til stede i maskinrommet på sine vakter; og
+   - passende og effektiv vakt eller vakter til enhver tid holdes av hensyn til sikkerheten når skipet er for anker eller fortøyd og, dersom skipet fører farlig last, at slik vakt eller vakter er lagt til rette på en måte som fullt ut ivaretar hensynet til den farlige lastens art, mengde, innpakking og stuing og til særskilte forhold som hersker om bord, på sjøen eller på land.
 3. Vaktlister skal slås opp på lett tilgjengelige steder.
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
@@ -67,7 +85,18 @@ Med formål å forebygge trøtthet skaldet etableres og håndheves hvileperioder
 ### § 7. Brovakt
 
 1. Brovakten skal utføres i samsvar med bestemmelsene i vedlegg A.
-2. Brovaktfunksjonene omfatter navigering, manøvrering, kommunikasjon, styring og utkikk. Betjening av nevnte funksjoner skal være slik det fremgår av denne paragrafs nr. 2.1, 2.2 og 2.3.Navigering, manøvrering og kommunikasjon. Disse funksjoner skal ivaretas av skipets fører eller ansvarshavende vaktoffiser på broen.Styring. På skip hvor bemanningen er fastsatt under hensyn til at skipet er utstyrt med selvstyreranlegg og purre- og kalleanlegg, kan ansvarshavende vaktoffiser på broen ha tilsynet med og betjene disse funksjonene alene, unntatt når det forekommer:tåke eller nedsatt sikt, ellertrangt eller urent farvann, ellersterk trafikk, ellerandre spesielle farer.I slike tilfeller skal det på ethvert skip enten skiftes til manuell styring eller være vedvarende overvåking av kurs og kontroll av skipets selvstyring. I slike tilfeller skal et kvalifisert besetningsmedlem styre skipet eller overvåke kursen på selvstyreranlegget.Utkikk. Det skal alltid holdes forsvarlig utkikk i samsvar med vedlegg A, del 3.1, og i overensstemmelse med [Sjøveisreglenes bestemmelser.](traktat/1972-10-20-1) Under forutsetninger som er nevnt i vedlegg A del 3.15 kan ansvarshavende vaktoffiser på broen inneha utkikksfunksjonen alene i dagslys.
+2. Brovaktfunksjonene omfatter navigering, manøvrering, kommunikasjon, styring og utkikk. Betjening av nevnte funksjoner skal være slik det fremgår av denne paragrafs nr. 2.1, 2.2 og 2.3.
+
+   - Navigering, manøvrering og kommunikasjon. Disse funksjoner skal ivaretas av skipets fører eller ansvarshavende vaktoffiser på broen.
+   - Styring. På skip hvor bemanningen er fastsatt under hensyn til at skipet er utstyrt med selvstyreranlegg og purre- og kalleanlegg, kan ansvarshavende vaktoffiser på broen ha tilsynet med og betjene disse funksjonene alene, unntatt når det forekommer:
+
+     - tåke eller nedsatt sikt, eller
+     - trangt eller urent farvann, eller
+     - sterk trafikk, eller
+     - andre spesielle farer.
+
+     I slike tilfeller skal det på ethvert skip enten skiftes til manuell styring eller være vedvarende overvåking av kurs og kontroll av skipets selvstyring. I slike tilfeller skal et kvalifisert besetningsmedlem styre skipet eller overvåke kursen på selvstyreranlegget.
+   - Utkikk. Det skal alltid holdes forsvarlig utkikk i samsvar med vedlegg A, del 3.1, og i overensstemmelse med [Sjøveisreglenes bestemmelser.](traktat/1972-10-20-1) Under forutsetninger som er nevnt i vedlegg A del 3.15 kan ansvarshavende vaktoffiser på broen inneha utkikksfunksjonen alene i dagslys.
 
 ### § 8. Maskinvakt
 
@@ -190,7 +219,13 @@ er foretatt en omhyggelig vurdering av situasjonen og fastslått uten tvil at de
 
 15.2
 
-tas fullt hensyn til alle relevante faktorer, herunder, men ikke begrenset til:værsituasjonsikttrafikktetthetnærhet til farer for navigeringenoppmerksomheten som kreves når det navigeres i eller nær trafikkseparasjonssystemer; og
+tas fullt hensyn til alle relevante faktorer, herunder, men ikke begrenset til:
+
+- værsituasjon
+- sikt
+- trafikktetthet
+- nærhet til farer for navigeringen
+- oppmerksomheten som kreves når det navigeres i eller nær trafikkseparasjonssystemer; og
 
 15.3
 
@@ -454,7 +489,9 @@ nødvendigheten av å sette en person til å styre skipet og å skifte over til 
 
 35.2
 
-at det med et skip under selvstyring er særdeles farlig å la en situasjon utvikle seg til et punkt der den vakthavende dekksoffiseren er uten bistand og må bryte kontinuiteten i utkikken for å handle i en nødsituasjon.1 Se regel V/19, V/19-1 og V/19-2.
+at det med et skip under selvstyring er særdeles farlig å la en situasjon utvikle seg til et punkt der den vakthavende dekksoffiseren er uten bistand og må bryte kontinuiteten i utkikken for å handle i en nødsituasjon.
+
+1 Se regel V/19, V/19-1 og V/19-2.
 
 36
 

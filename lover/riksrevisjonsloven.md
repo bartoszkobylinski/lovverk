@@ -58,7 +58,10 @@ Kollegiet er Riksrevisjonens øverste ledelse. Kollegiet består av fem riksrevi
 
 Stortinget velger fem riksrevisorer med personlige varamedlemmer etter innstilling fra Stortingets presidentskap. Stortinget utpeker leder og nestleder blant de fem riksrevisorene.
 
-Til verv som riksrevisor kan ikke velges:Stortingets representanter og vararepresentanterstatsrådets medlemmer, statssekretærer og statsrådenes politiske rådgivere.
+Til verv som riksrevisor kan ikke velges:
+
+1. Stortingets representanter og vararepresentanter
+2. statsrådets medlemmer, statssekretærer og statsrådenes politiske rådgivere.
 
 Riksrevisorene og varamedlemmene for disse velges for fire år og tiltrer 1. januar året etter stortingsvalget. De kan gjenoppnevnes for ytterligere én periode. Dersom et sittende eller tidligere medlem av Riksrevisjonens kollegium velges til vervet som leder av kollegiet, kan vedkommende likevel velges for en periode på fire år med adgang til gjenoppnevning én gang. Samlet oppnevningsperiode kan likevel ikke utgjøre mer enn tolv år.
 
@@ -188,7 +191,10 @@ Riksrevisjonens rett til informasjon etter første ledd gjelder overfor alle som
 
 I revisjon av tilskudd eller bidrag av statsmidler til offentlige eller private virksomheter gjelder retten til informasjon etter første ledd også overfor mottaker av statsmidlene.
 
-Riksrevisjonen har samme rett til informasjon som forvaltningen kan kreve overforandre som er tillagt statlig forvaltningsmyndighet eller oppgaver finansiert med statlige midlerprivate som leverer varer eller tjenester til staten.
+Riksrevisjonen har samme rett til informasjon som forvaltningen kan kreve overfor
+
+1. andre som er tillagt statlig forvaltningsmyndighet eller oppgaver finansiert med statlige midler
+2. private som leverer varer eller tjenester til staten.
 
 ### § 6-2. Deltakelse i generalforsamling o.l.
 
@@ -248,7 +254,13 @@ Enhver kan kreve innsyn i Riksrevisjonens saksdokumenter og journaler dersom ikk
 
 Krav om innsyn i dokumenter som Riksrevisjonen har innhentet eller mottatt fra revidert virksomhet eller fra annet organ som er omfattet av [offentleglova](lov/2006-05-19-16) eller tilsvarende regelverk om allmennhetens rett til dokumentinnsyn, og dokumenter som rutinemessig sendes i kopi til Riksrevisjonen, skal behandles av avsenderorganet. Unntaket omfatter ikke korrespondanse mellom Riksrevisjonen og vedkommende organ om revisjonen og revisjonsprosessen.
 
-Riksrevisjonen kan også unnta fra innsynutkast til referat fra intervjuer og møter som ledd i revisjon, og endelig referat fra intervjuer og møter med personer som ikke uttaler seg på vegne av en offentlig virksomhetsvar på spørreundersøkelser som Riksrevisjonen gjennomfører som ledd i en revisjonhenvendelser fra enkeltpersoner om kritikkverdige forhold i reviderte virksomheter, og Riksrevisjonens svar på slike henvendelserdokumenter som utveksles mellom Stortinget og Riksrevisjonen, og som gjelder Riksrevisjonens budsjett og interne administrasjon. Etter at Stortinget har fastsatt budsjettet, skal det gis innsyn i Riksrevisjonens forslag til budsjett.opplysninger i dokumenter som sendes til eller fra Riksrevisjonen som ledd i ekstern kvalitetssikring av virksomheten til andre lands riksrevisjoner, og hvor opplysningene utveksles under forutsetning av, eller det følger av fast praksis, at de ikke skal offentliggjøres.
+Riksrevisjonen kan også unnta fra innsyn
+
+1. utkast til referat fra intervjuer og møter som ledd i revisjon, og endelig referat fra intervjuer og møter med personer som ikke uttaler seg på vegne av en offentlig virksomhet
+2. svar på spørreundersøkelser som Riksrevisjonen gjennomfører som ledd i en revisjon
+3. henvendelser fra enkeltpersoner om kritikkverdige forhold i reviderte virksomheter, og Riksrevisjonens svar på slike henvendelser
+4. dokumenter som utveksles mellom Stortinget og Riksrevisjonen, og som gjelder Riksrevisjonens budsjett og interne administrasjon. Etter at Stortinget har fastsatt budsjettet, skal det gis innsyn i Riksrevisjonens forslag til budsjett.
+5. opplysninger i dokumenter som sendes til eller fra Riksrevisjonen som ledd i ekstern kvalitetssikring av virksomheten til andre lands riksrevisjoner, og hvor opplysningene utveksles under forutsetning av, eller det følger av fast praksis, at de ikke skal offentliggjøres.
 
 Dokumenter i revisjonssaker som vurderes framlagt for Stortinget, er gjenstand for innsyn først når saken er mottatt i Stortinget eller avsluttet uten rapportering til Stortinget. Riksrevisjonen varsler revidert virksomhet om hvilke saker som har utsatt offentlighet, og når den opphører.
 
@@ -272,7 +284,13 @@ Denne lovens [§§ 7-1](lov/2024-12-13-77/§7-1) om Riksrevisjonens taushetsplik
 
 ### § 8-1. Riksrevisjonens budsjett, regnskap og økonomiforvaltning
 
-Riksrevisjonen skalfastsette et økonomiregelverk som er i samsvar med de til enhver tid gjeldende reglene for statlig økonomistyring, med nødvendige tilpasninger for Riksrevisjonenpåse at det hvert fjerde år foretas en ekstern kvalitetskontroll av Riksrevisjonens revisjonsvirksomhet og organisasjonforeslå budsjett for Riksrevisjonen og fremme dette overfor Stortingets presidentskapfastsette årsregnskap for Riksrevisjonenutarbeide årsmelding om Riksrevisjonens virksomhet.
+Riksrevisjonen skal
+
+1. fastsette et økonomiregelverk som er i samsvar med de til enhver tid gjeldende reglene for statlig økonomistyring, med nødvendige tilpasninger for Riksrevisjonen
+2. påse at det hvert fjerde år foretas en ekstern kvalitetskontroll av Riksrevisjonens revisjonsvirksomhet og organisasjon
+3. foreslå budsjett for Riksrevisjonen og fremme dette overfor Stortingets presidentskap
+4. fastsette årsregnskap for Riksrevisjonen
+5. utarbeide årsmelding om Riksrevisjonens virksomhet.
 
 Vedtatt økonomiregelverk skal sendes til Stortinget. Årsmelding, inkludert årsregnskap og revisjonsberetning, skal sendes til Stortinget hvert år.
 

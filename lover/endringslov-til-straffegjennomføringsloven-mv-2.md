@@ -15,7 +15,7 @@ xml_hash: "ca2501940a141c2efd01ea7a95674ef62e99bda1d827e27df452527f67809b71"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,7 +100,9 @@ Innsatte i sikkerhetsseng skal ha tilsyn av helsepersonell snarest mulig etter a
 
 I [lov 13. juni 1980 nr. 35 om fri rettshjelp](lov/1980-06-13-35) skal [§ 11 første ledd nr. 9](lov/1980-06-13-35/§11/ledd/1/nummer/9) og [10](lov/1980-06-13-35/§11/ledd/1/nummer/10) lyde:
 
-for innsatte som er eller har vært utelukket fra fellesskapet etter [straffegjennomføringsloven §§ 37](lov/2001-05-18-21/§37), [37 a](lov/2001-05-18-21/§37a) eller [37 b](lov/2001-05-18-21/§37b) i mer enn ett sammenhengende døgn, og som vurderer å klage eller som klager på vedtaket. For innsatte under 18 år er det ikke et vilkår at utelukkelsen overskrider ett døgn.for innsatte som er eller har vært plassert i sikkerhetscelle eller sikkerhetsseng etter [straffegjennomføringsloven § 38 c](lov/2001-05-18-21/§38c) eller [§ 38 d](lov/2001-05-18-21/§38d), og som vurderer å klage eller som klager på vedtaket.
+for innsatte som er eller har vært utelukket fra fellesskapet etter [straffegjennomføringsloven §§ 37](lov/2001-05-18-21/§37), [37 a](lov/2001-05-18-21/§37a) eller [37 b](lov/2001-05-18-21/§37b) i mer enn ett sammenhengende døgn, og som vurderer å klage eller som klager på vedtaket. For innsatte under 18 år er det ikke et vilkår at utelukkelsen overskrider ett døgn.
+
+for innsatte som er eller har vært plassert i sikkerhetscelle eller sikkerhetsseng etter [straffegjennomføringsloven § 38 c](lov/2001-05-18-21/§38c) eller [§ 38 d](lov/2001-05-18-21/§38d), og som vurderer å klage eller som klager på vedtaket.
 
 ## IV
 

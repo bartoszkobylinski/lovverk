@@ -15,7 +15,7 @@ xml_hash: "a70786ed228b1b1b29542f92d52a32c4c819d04a8da1a2617861058dafd44f78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,9 +32,17 @@ Tilskuddsordningen skal bidra i arbeidet med å redusere utslipp av nitrogen fra
 
 Miljødirektoratet kan etter søknad tildele tilskudd til kommuner og kommunalt eide selskaper. Interesseorganisasjoner kan også søke på vegne av aktuelle kommuner og selskap.
 
-Tilskudd kan gis til:planlegging og/eller prosjektering av nitrogenfjerning ved avløpsrenseanleggvurdering av egnet teknologi for nitrogenfjerning, både midlertidige og permanente løsningerkompetansehevingstiltak knyttet til nitrogenfjerning.
+Tilskudd kan gis til:
 
-Videre skal følgende tildelingskriterier oppfylles:kommunen/interkommunalt selskap skal bidra med egeninnsatsprosjektet skal bidra til å bedre miljøtilstanden i Oslofjordenprosjektet skal ha til hensikt å bidra til en raskere beslutning om eller innføring av nitrogenfjerning.
+1. planlegging og/eller prosjektering av nitrogenfjerning ved avløpsrenseanlegg
+2. vurdering av egnet teknologi for nitrogenfjerning, både midlertidige og permanente løsninger
+3. kompetansehevingstiltak knyttet til nitrogenfjerning.
+
+Videre skal følgende tildelingskriterier oppfylles:
+
+1. kommunen/interkommunalt selskap skal bidra med egeninnsats
+2. prosjektet skal bidra til å bedre miljøtilstanden i Oslofjorden
+3. prosjektet skal ha til hensikt å bidra til en raskere beslutning om eller innføring av nitrogenfjerning.
 
 Årlige satsingsområder og prioriteringer for tilskuddsordningen kunngjøres i utlysningen.
 

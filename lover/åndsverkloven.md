@@ -15,7 +15,7 @@ xml_hash: "07e36db755f62bca9783155c6dcbd07feadfbc20601802200b6c9599dde87d23"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009L0024"
@@ -38,13 +38,31 @@ eu_basis:
 
 ### § 1. Lovens formål
 
-Formålet med loven er ågi rettigheter til de som skaper, fremfører eller investerer i åndsverk eller nærstående prestasjoner og arbeider, og slik også gi insentiv til kulturell produksjonavgrense rettighetene med sikte på å ivareta en rimelig balanse mellom rettighetshavernes interesser på den ene siden og brukernes og allmennhetens interesser på den andre siden, slik at åndsverk og nærstående prestasjoner og arbeider kan brukes der dette ut fra samfunnsmessige hensyn er rimelig, som bruk innen det private området og av hensyn til informasjons- og ytringsfrihetenlegge til rette for at det på en enkel måte kan avtales bruk av åndsverk og nærstående prestasjoner og arbeider.
+Formålet med loven er å
+
+1. gi rettigheter til de som skaper, fremfører eller investerer i åndsverk eller nærstående prestasjoner og arbeider, og slik også gi insentiv til kulturell produksjon
+2. avgrense rettighetene med sikte på å ivareta en rimelig balanse mellom rettighetshavernes interesser på den ene siden og brukernes og allmennhetens interesser på den andre siden, slik at åndsverk og nærstående prestasjoner og arbeider kan brukes der dette ut fra samfunnsmessige hensyn er rimelig, som bruk innen det private området og av hensyn til informasjons- og ytringsfriheten
+3. legge til rette for at det på en enkel måte kan avtales bruk av åndsverk og nærstående prestasjoner og arbeider.
 
 ### § 2. Opphavsrett til åndsverk
 
 Den som skaper et åndsverk, har opphavsrett til verket, og betegnes som opphaver.
 
-Med åndsverk forstås i denne loven litterære eller kunstneriske verk av enhver art, som er uttrykk for original og individuell skapende åndsinnsats, slik somtekster av alle slag, blant annet av skjønnlitterær og faglitterær artmuntlige foredragsceneverk, både dramatiske, musikkdramatiske og koreografiske verk, pantomimer og hørespillmusikkverk, med eller uten tekstfilmverkfotografiske verkmalerier, tegninger, grafikk og lignende billedkunstskulptur av alle slagbygningskunst, både tegninger og modeller, og selve byggverketbilledvev og gjenstander av kunsthåndverk og kunstindustri, både forbildet og selve verketkart, samt tegninger og grafiske og plastiske avbildninger av vitenskapelig eller teknisk artdatamaskinprogrammeroversettelser og andre bearbeidelser av verk som er nevnt foran.
+Med åndsverk forstås i denne loven litterære eller kunstneriske verk av enhver art, som er uttrykk for original og individuell skapende åndsinnsats, slik som
+
+1. tekster av alle slag, blant annet av skjønnlitterær og faglitterær art
+2. muntlige foredrag
+3. sceneverk, både dramatiske, musikkdramatiske og koreografiske verk, pantomimer og hørespill
+4. musikkverk, med eller uten tekst
+5. filmverk
+6. fotografiske verk
+7. malerier, tegninger, grafikk og lignende billedkunst
+8. skulptur av alle slag
+9. bygningskunst, både tegninger og modeller, og selve byggverket
+10. billedvev og gjenstander av kunsthåndverk og kunstindustri, både forbildet og selve verket
+11. kart, samt tegninger og grafiske og plastiske avbildninger av vitenskapelig eller teknisk art
+12. datamaskinprogrammer
+13. oversettelser og andre bearbeidelser av verk som er nevnt foran.
 
 For fotografiske bilder som ikke er åndsverk gjelder [§ 23](lov/2018-06-15-40/§23).
 
@@ -52,9 +70,17 @@ For fotografiske bilder som ikke er åndsverk gjelder [§ 23](lov/2018-06-15-40/
 
 ### § 3. Opphavsrettens innhold
 
-Opphavsretten gir enerett til å råde over åndsverket ved åfremstille varig eller midlertidig eksemplar av åndsverket, uavhengig av på hvilken måte og i hvilken form dette skjergjøre verket tilgjengelig for allmennheten.
+Opphavsretten gir enerett til å råde over åndsverket ved å
 
-Verket gjøres tilgjengelig for allmennheten nåreksemplar av verket frembys til salg, utleie eller utlån eller på annen måte spres til allmennheteneksemplar av verket vises offentlig uten bruk av tekniske hjelpemidlerverket fremføres offentligverket overføres til allmennheten, i tråd eller trådløst, herunder når verket kringkastes eller stilles til rådighet på en slik måte at den enkelte selv kan velge tid og sted for tilgang til verket.
+1. fremstille varig eller midlertidig eksemplar av åndsverket, uavhengig av på hvilken måte og i hvilken form dette skjer
+2. gjøre verket tilgjengelig for allmennheten.
+
+Verket gjøres tilgjengelig for allmennheten når
+
+1. eksemplar av verket frembys til salg, utleie eller utlån eller på annen måte spres til allmennheten
+2. eksemplar av verket vises offentlig uten bruk av tekniske hjelpemidler
+3. verket fremføres offentlig
+4. verket overføres til allmennheten, i tråd eller trådløst, herunder når verket kringkastes eller stilles til rådighet på en slik måte at den enkelte selv kan velge tid og sted for tilgang til verket.
 
 Det er ikke tillatt å strømme eller på annen måte bruke åndsverk som åpenbart i strid med denne loven er gjort tilgjengelig for allmennheten på Internett eller annet elektronisk kommunikasjonsnett når bruk fra den ulovlige kilden er egnet til å skade opphavers økonomiske interesser i vesentlig grad. Vederlag og erstatning etter [§ 81](lov/2018-06-15-40/§81) kan bare ilegges ved forsettlig overtredelse av bestemmelsen i dette ledd.
 
@@ -64,7 +90,12 @@ Enerett etter første ledd omfatter åndsverket i opprinnelig eller endret skikk
 
 ### § 4. Visse midlertidige eksemplar
 
-Når tilfeldig eller forbigående fremstilling av midlertidige eksemplar utgjør en integrert og vesentlig del av en teknisk prosess og har som eneste formål å muliggjørelovlig bruk av et verk, elleren overføring i nettverk av et mellomledd på vegne av tredjeparter,omfattes slik eksemplarfremstilling ikke av eneretten etter [§ 3](lov/2018-06-15-40/§3), med mindre den har selvstendig økonomisk betydning.
+Når tilfeldig eller forbigående fremstilling av midlertidige eksemplar utgjør en integrert og vesentlig del av en teknisk prosess og har som eneste formål å muliggjøre
+
+1. lovlig bruk av et verk, eller
+2. en overføring i nettverk av et mellomledd på vegne av tredjeparter,
+
+omfattes slik eksemplarfremstilling ikke av eneretten etter [§ 3](lov/2018-06-15-40/§3), med mindre den har selvstendig økonomisk betydning.
 
 Bestemmelsen i første ledd gjelder ikke for datamaskinprogrammer og databaser.1
 
@@ -114,9 +145,18 @@ Et åndsverk er utgitt når et rimelig antall eksemplar av verket med samtykke a
 
 ### § 11. Opphavsrettens vernetid
 
-Vernetiden for opphavsrett varer i opphaverens levetid og 70 år etterutløpet av opphaverens dødsår for verk med én opphaverutløpet av den lengstlevende opphavers dødsår for fellesverk etter [§ 8](lov/2018-06-15-40/§8)utløpet av dødsåret for den lengstlevende av hovedregissøren, forfatteren av filmmanuskript, dialogforfatteren og komponisten av musikk som er frembrakt med henblikk på filminnspillingen for filmverk2utløpet av dødsåret for den lengstlevende av tekstforfatteren og komponisten for musikkverk der både tekst og musikk er frembrakt med henblikk på verket.3
+Vernetiden for opphavsrett varer i opphaverens levetid og 70 år etter
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9f (direktiv [2006/116/EF](eu/32006l0116) (vernetidsdirektivet) art. 1, endret ved direktiv [2011/77/EU](eu/32011l0077) art. 1 (1)).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9f (direktiv [2006/116/EF](eu/32006l0116) (vernetidsdirektivet) art. 2 (2)).3 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9f (direktiv [2006/116/EF](eu/32006l0116) (vernetidsdirektivet) art. 1 (7), endret ved direktiv [2011/77/EU](eu/32011l0077) art. 1 (1)).
+1. utløpet av opphaverens dødsår for verk med én opphaver
+2. utløpet av den lengstlevende opphavers dødsår for fellesverk etter [§ 8](lov/2018-06-15-40/§8)
+3. utløpet av dødsåret for den lengstlevende av hovedregissøren, forfatteren av filmmanuskript, dialogforfatteren og komponisten av musikk som er frembrakt med henblikk på filminnspillingen for filmverk2
+4. utløpet av dødsåret for den lengstlevende av tekstforfatteren og komponisten for musikkverk der både tekst og musikk er frembrakt med henblikk på verket.3
+
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9f (direktiv [2006/116/EF](eu/32006l0116) (vernetidsdirektivet) art. 1, endret ved direktiv [2011/77/EU](eu/32011l0077) art. 1 (1)).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9f (direktiv [2006/116/EF](eu/32006l0116) (vernetidsdirektivet) art. 2 (2)).
+
+3 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9f (direktiv [2006/116/EF](eu/32006l0116) (vernetidsdirektivet) art. 1 (7), endret ved direktiv [2011/77/EU](eu/32011l0077) art. 1 (1)).
 
 ### § 12. Vernetid for anonyme åndsverk
 
@@ -148,7 +188,11 @@ Kretsmønster til integrerte kretser omfattes ikke av denne loven, men reguleres
 
 ### § 16. Utøvende kunstneres enerett
 
-En utøvende kunstner har enerett til å råde over sin fremføring av et verk eller tradisjonsuttrykk ved ågjøre varig eller midlertidig opptak av fremføringenfremstille varig eller midlertidig eksemplar av et opptak av fremføringengjøre fremføringen eller opptak av den tilgjengelig for allmennheten. For offentlig fremføring og overføring til allmennheten av lydopptak gjelder likevel bestemmelsene i [§ 21](lov/2018-06-15-40/§21), med mindre overføringen skjer på en slik måte at den enkelte selv kan velge tid og sted for tilgang til opptaket.
+En utøvende kunstner har enerett til å råde over sin fremføring av et verk eller tradisjonsuttrykk ved å
+
+1. gjøre varig eller midlertidig opptak av fremføringen
+2. fremstille varig eller midlertidig eksemplar av et opptak av fremføringen
+3. gjøre fremføringen eller opptak av den tilgjengelig for allmennheten. For offentlig fremføring og overføring til allmennheten av lydopptak gjelder likevel bestemmelsene i [§ 21](lov/2018-06-15-40/§21), med mindre overføringen skjer på en slik måte at den enkelte selv kan velge tid og sted for tilgang til opptaket.
 
 Vernet etter denne bestemmelsen varer i 50 år etter utløpet av det året fremføringen fant sted. Dersom en film utgis eller offentliggjøres i løpet av tidsrommet nevnt i første punktum i leddet her, varer vernet i 50 år etter utløpet av det året opptaket første gang ble utgitt eller offentliggjort. Dersom et lydopptak utgis eller offentliggjøres i løpet av tidsrommet nevnt i første punktum i leddet her, varer vernet i 70 år etter utløpet av det året opptaket første gang ble utgitt eller offentliggjort.
 
@@ -164,7 +208,10 @@ Bestemmelsene i [§ 3](lov/2018-06-15-40/§3) første til tredje ledd, [§§ 4](
 
 ### § 17. Heving av avtale om rettigheter til lydopptak
 
-En utøvende kunstner som har overdratt rettigheter til et lydopptak til en produsent, kan heve avtalen når det er gått 50 år etter utløpet av det året lydopptaket første gang ble utgitt, eller dersom utgivelse ikke har funnet sted, etter utløpet av det året lydopptaket på annen måte ble offentliggjort, hvis produsenten ikketilbyr et tilstrekkelig antall eksemplar av lydopptaket for salg, ogstiller lydopptaket til rådighet på en slik måte at allmennheten selv kan velge tid og sted for tilgang til opptaket.
+En utøvende kunstner som har overdratt rettigheter til et lydopptak til en produsent, kan heve avtalen når det er gått 50 år etter utløpet av det året lydopptaket første gang ble utgitt, eller dersom utgivelse ikke har funnet sted, etter utløpet av det året lydopptaket på annen måte ble offentliggjort, hvis produsenten ikke
+
+1. tilbyr et tilstrekkelig antall eksemplar av lydopptaket for salg, og
+2. stiller lydopptaket til rådighet på en slik måte at allmennheten selv kan velge tid og sted for tilgang til opptaket.
 
 Den utøvende kunstneren må varsle produsenten om at hevingsretten etter paragrafen her vil benyttes. Dersom produsenten ikke utfører handlingene som nevnt i første ledd bokstav a og b innen ett år etter å ha mottatt varsel, kan avtalen heves.
 
@@ -230,7 +277,11 @@ Vederlagsplikt etter denne paragrafen gjelder i 70 år etter utløpet av det år
 
 ### § 22. Kringkastingsforetaks rettigheter
 
-En kringkastingssending eller deler av den må ikke uten kringkastingsforetakets samtykkeopptas på innretning som kan gjengi denutsendes trådløst eller videresendes til allmennheten ved trådpå annen måte i ervervsøyemed gjøres tilgjengelig for allmennheten.
+En kringkastingssending eller deler av den må ikke uten kringkastingsforetakets samtykke
+
+1. opptas på innretning som kan gjengi den
+2. utsendes trådløst eller videresendes til allmennheten ved tråd
+3. på annen måte i ervervsøyemed gjøres tilgjengelig for allmennheten.
 
 Er en sending tatt opp på innretning som nevnt i første ledd, må den ikke uten kringkastingsforetakets samtykke overføres til en annen innretning før 50 år2 er gått etter utløpet av det året den første sendingen fant sted.
 
@@ -242,7 +293,11 @@ Bestemmelsene i [§§ 4](lov/2018-06-15-40/§4), [9](lov/2018-06-15-40/§9), [10
 
 > Endret ved lov [4 juni 2021 nr. 58](lov/2021-06-04-58) (ikr. 1 juli 2021 iflg. [res. 4 juni 2021 nr. 1779](forskrift/2021-06-04-1779)).
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9f (direktiv [2006/116/EF](eu/32006l0116) (vernetidsdirektivet) art. 3 (4)).2 Se [EØS-avtalens vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9f (direktiv [2006/116/EF](eu/32006l0116) (vernetidsdirektivet) art. 3 (4), 8 og 10).3 Se [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5p (direktiv [2010/13/EU](eu/32010l0013) (AMT-direktivet) art. 15).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9f (direktiv [2006/116/EF](eu/32006l0116) (vernetidsdirektivet) art. 3 (4)).
+
+2 Se [EØS-avtalens vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9f (direktiv [2006/116/EF](eu/32006l0116) (vernetidsdirektivet) art. 3 (4), 8 og 10).
+
+3 Se [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5p (direktiv [2010/13/EU](eu/32010l0013) (AMT-direktivet) art. 15).
 
 ### § 23. Eneretten til fotografiske bilder
 
@@ -270,7 +325,9 @@ Bestemmelsene [§§ 3](lov/2018-06-15-40/§3) tredje ledd, 4, 8 til 10, 14, 26 t
 
 Avtale som utvider fremstillerens rett etter første ledd til en offentliggjort database kan ikke gjøres gjeldende.
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 1 og kap. III).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 1).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 1 og kap. III).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 1).
 
 ## Kapittel 3 Avgrensning av opphavsretten og forvaltning av rettigheter ved avtalelisens mv.
 
@@ -286,15 +343,31 @@ Når et verk gjengis offentlig etter reglene i dette kapitlet, kan det skje i de
 
 Når det ikke skjer i ervervsøyemed eller på grunnlag av et verk som er gjengitt i strid med denne loven, kan enkelte eksemplar av et offentliggjort verk fremstilles til privat bruk. Slike eksemplar må ikke brukes i annet øyemed.
 
-Bestemmelsen i første ledd gir ikke rett til åettergjøre bygningskunst gjennom oppføring av byggverkfremstille digitale eksemplar av datamaskinprogram1fremstille digitale eksemplar av databaser2 i digital formfremstille eksemplar av kunstverk ved fotokopiering, avstøpning, avtrykk eller tilsvarende fremgangsmåte når eksemplaret kan oppfattes som originaleksemplar.
+Bestemmelsen i første ledd gir ikke rett til å
 
-Bestemmelsen i første ledd gir ikke rett til å la fremstillingen utføre ved fremmed hjelp når det gjeldermusikkverkfilmverkskulptur, billedvev og gjenstander av kunsthåndverk og kunstindustrikunstnerisk gjengivelse av andre kunstverk.Personer med nedsatt funksjonsevne kan uten hinder av forrige punktum la fremstilling av musikk- og filmverk utføre ved fremmed hjelp som ikke medvirker i ervervsøyemed, når dette er nødvendig på grunn av den nedsatte funksjonsevnen. Med fremmed hjelp menes bistand fra en utenforstående, enten ved selve eksemplarfremstillingen eller ved at fremstillingsutstyr stilles til rådighet.
+1. ettergjøre bygningskunst gjennom oppføring av byggverk
+2. fremstille digitale eksemplar av datamaskinprogram1
+3. fremstille digitale eksemplar av databaser2 i digital form
+4. fremstille eksemplar av kunstverk ved fotokopiering, avstøpning, avtrykk eller tilsvarende fremgangsmåte når eksemplaret kan oppfattes som originaleksemplar.
+
+Bestemmelsen i første ledd gir ikke rett til å la fremstillingen utføre ved fremmed hjelp når det gjelder
+
+1. musikkverk
+2. filmverk
+3. skulptur, billedvev og gjenstander av kunsthåndverk og kunstindustri
+4. kunstnerisk gjengivelse av andre kunstverk.
+
+Personer med nedsatt funksjonsevne kan uten hinder av forrige punktum la fremstilling av musikk- og filmverk utføre ved fremmed hjelp som ikke medvirker i ervervsøyemed, når dette er nødvendig på grunn av den nedsatte funksjonsevnen. Med fremmed hjelp menes bistand fra en utenforstående, enten ved selve eksemplarfremstillingen eller ved at fremstillingsutstyr stilles til rådighet.
 
 For fremstilling av eksemplar etter første ledd gis opphaverne en rimelig kompensasjon gjennom årlige bevilgninger over statsbudsjettet.3 Departementet kan i forskrift fastsette nærmere regler om fordeling av kompensasjonen.
 
 Fremstilling av eksemplar på grunnlag av et verk som er gjengitt i strid med denne loven, jf. første ledd, kan bare sanksjoneres med vederlag og erstatning etter [§ 81](lov/2018-06-15-40/§81) dersom overtredelsen er forsettlig.
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 5 (direktiv [2009/24/EF](eu/32009l0024) (dataprogramdirektivet) art. 5).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 1 og 3).3 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (2) b jf. art. 2).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 5 (direktiv [2009/24/EF](eu/32009l0024) (dataprogramdirektivet) art. 5).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 1 og 3).
+
+3 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (2) b jf. art. 2).
 
 ### § 27. Spredning av eksemplar (konsumpsjon)
 
@@ -302,7 +375,11 @@ Er et eksemplar av et verk solgt eller på annen måte overdratt med opphaverens
 
 Bestemmelsen i første ledd gir, med unntak for byggverk og bruksgjenstander, ikke adgang til utleie.2 Bestemmelsen gir heller ikke adgang til utlån av maskinlesbart eksemplar av datamaskinprogram.3 Likestilt med leie er bytte som drives som organisert virksomhet.
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 4 (2)) og nr. 5 (direktiv [2009/24/EF](eu/32009l0024) (dataprogramdirektivet) art. 4 (2)).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9g (direktiv [2006/115](eu/32006l0115) (utleie- og utlånsdirektivet) art. 1 (2), 3 (2) og 4 og nr. 5 (direktiv [2009/24/EF](eu/32009l0024) (dataprogramdirektivet) art. 4 c).3 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 5 (direktiv [2009/24/EF](eu/32009l0024) (dataprogramdirektivet) art. 4 c).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 4 (2)) og nr. 5 (direktiv [2009/24/EF](eu/32009l0024) (dataprogramdirektivet) art. 4 (2)).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9g (direktiv [2006/115](eu/32006l0115) (utleie- og utlånsdirektivet) art. 1 (2), 3 (2) og 4 og nr. 5 (direktiv [2009/24/EF](eu/32009l0024) (dataprogramdirektivet) art. 4 c).
+
+3 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 5 (direktiv [2009/24/EF](eu/32009l0024) (dataprogramdirektivet) art. 4 c).
 
 ### § 28. Visning av eksemplar (konsumpsjon)
 
@@ -366,7 +443,9 @@ Også et offentliggjort kunstverk, offentliggjort fotografisk verk eller offentl
 
 Når et fjernsynsselskap i medhold av [§ 22](lov/2018-06-15-40/§22) fjerde ledd gjengir korte utdrag fra begivenheter av stor interesse for allmennheten kan selskapet gjengi verk som inngår i utdraget.2
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) c, jf. art. 1 (2) a og e) og nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 6 (2) d).2 Se [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5p (direktiv [2010/13/EU](eu/32010l0013) (AMT-direktivet) art. 15).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) c, jf. art. 1 (2) a og e) og nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 6 (2) d).
+
+2 Se [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5p (direktiv [2010/13/EU](eu/32010l0013) (AMT-direktivet) art. 15).
 
 ### § 37. Gjengivelse av kunstverk og fotografiske verk i kritisk og vitenskapelig fremstilling og biografier
 
@@ -378,13 +457,17 @@ Offentliggjort personbilde i form av fotografisk verk kan mot vederlag gjengis i
 
 Bestemmelsene i denne paragrafen gir ikke rett til gjengivelse i digital form, med mindre det gjelder en ikke-ervervsmessig gjengivelse etter første ledd.2
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (2) a og (3) a, d og o).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) a og o, jf. art. 2 og 3).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (2) a og (3) a, d og o).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) a og o, jf. art. 2 og 3).
 
 ### § 38. Gjengivelse av kunstverk og fotografisk verk i katalog mv.
 
 Kunstverk og fotografisk verk som inngår i en samling eller som utstilles eller utbys til salg, kan avbildes i katalog over samlingen, i katalog over verk som utstilles eller utbys til salg, og i meddelelse om utstillingen eller salget. Katalog kan bare fremstilles ved trykking, fotokopiering eller lignende metode.2
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3), a, j og o).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) a, j og o, jf. art. 2).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3), a, j og o).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) a, j og o, jf. art. 2).
 
 ### § 39. Endring av byggverk og bruksgjenstander
 
@@ -392,7 +475,10 @@ Byggverk og bruksgjenstander kan endres uten opphaverens samtykke når det skjer
 
 ### § 40. Fri bruk ved seremonier, ungdomsstevner og andre tilstelninger
 
-Et utgitt verk kan fremføres offentlig og overføres til allmennheten vedreligiøs seremoni eller seremoni basert på ikke-religiøse livssynungdomsstevner og andre tilstelninger der fremføring eller overføring av åndsverk ikke er det vesentlige, hvis tilhørerne eller tilskuerne har adgang uten betaling, og tilstelningen heller ikke indirekte finner sted i ervervsøyemed.
+Et utgitt verk kan fremføres offentlig og overføres til allmennheten ved
+
+1. religiøs seremoni eller seremoni basert på ikke-religiøse livssyn
+2. ungdomsstevner og andre tilstelninger der fremføring eller overføring av åndsverk ikke er det vesentlige, hvis tilhørerne eller tilskuerne har adgang uten betaling, og tilstelningen heller ikke indirekte finner sted i ervervsøyemed.
 
 Denne paragrafen gjelder ikke for filmverk, scenisk fremføring av sceneverk, eller fremføring og overføring ved kringkasting.
 
@@ -412,13 +498,23 @@ Den som har rett til å bruke en database,2 kan foreta slike handlinger som er n
 
 Bestemmelsene i andre, tredje og fjerde ledd kan ikke fravikes ved avtale.
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 5 (direktiv [2009/24/EF](eu/32009l0024) (dataprogramdirektivet) art. 5).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 1).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 5 (direktiv [2009/24/EF](eu/32009l0024) (dataprogramdirektivet) art. 5).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 1).
 
 ### § 42. Omvendt utvikling av datamaskinprogram
 
-Det er tillatt å fremstille eksemplar av et datamaskinprograms kode og oversette kodens form når dette er en forutsetning for å skaffe til veie de opplysninger som er nødvendige for å oppnå funksjonelt samvirke mellom et selvstendig utviklet datamaskinprogram og andre programmer, dersomhandlingene utføres av en person som har rett til å bruke et eksemplar av et datamaskinprogram, eller på dennes vegne av en person som har tillatelse til detde opplysninger som er nødvendige for å oppnå funksjonelt samvirke, ikke tidligere har vært lett tilgjengelige for de personer som nevnes i bokstav a, oghandlingene er begrenset til de deler av det opprinnelige program som er nødvendige for å oppnå funksjonelt samvirke.
+Det er tillatt å fremstille eksemplar av et datamaskinprograms kode og oversette kodens form når dette er en forutsetning for å skaffe til veie de opplysninger som er nødvendige for å oppnå funksjonelt samvirke mellom et selvstendig utviklet datamaskinprogram og andre programmer, dersom
 
-De opplysninger som er innhentet ved anvendelse av bestemmelsen i første ledd, må ikkebrukes til andre formål enn å muliggjøre funksjonelt samvirke med det selvstendig utviklede datamaskinprogramgis videre til andre, bortsett fra når dette er nødvendig for å muliggjøre funksjonelt samvirke med det selvstendig utviklede datamaskinprogrambrukes til utvikling, fremstilling eller markedsføring av et datamaskinprogram som vesentlig svarer til det opprinnelige i sin utforming, eller til noen annen handling som gjør inngrep i opphavsretten til programmet.
+1. handlingene utføres av en person som har rett til å bruke et eksemplar av et datamaskinprogram, eller på dennes vegne av en person som har tillatelse til det
+2. de opplysninger som er nødvendige for å oppnå funksjonelt samvirke, ikke tidligere har vært lett tilgjengelige for de personer som nevnes i bokstav a, og
+3. handlingene er begrenset til de deler av det opprinnelige program som er nødvendige for å oppnå funksjonelt samvirke.
+
+De opplysninger som er innhentet ved anvendelse av bestemmelsen i første ledd, må ikke
+
+1. brukes til andre formål enn å muliggjøre funksjonelt samvirke med det selvstendig utviklede datamaskinprogram
+2. gis videre til andre, bortsett fra når dette er nødvendig for å muliggjøre funksjonelt samvirke med det selvstendig utviklede datamaskinprogram
+3. brukes til utvikling, fremstilling eller markedsføring av et datamaskinprogram som vesentlig svarer til det opprinnelige i sin utforming, eller til noen annen handling som gjør inngrep i opphavsretten til programmet.
 
 Bestemmelsene i denne paragrafen kan ikke fravikes ved avtale.
 
@@ -430,9 +526,17 @@ Bestemmelsene i denne paragrafen kan ikke fravikes ved avtale.
 
 Et utgitt verk kan fremføres offentlig og overføres til allmennheten ved undervisning. Har opphaveren overdratt eksemplar av et kunstverk eller fotografisk verk eller er slike verk offentliggjort, kan verket fremføres offentlig og overføres til allmennheten ved undervisning.
 
-Første ledd gjelder ikke forfilmverkscenisk fremføring av sceneverkoverføring ved kringkastingfremføring og overføring innen rammen av organisert konsertvirksomhet.
+Første ledd gjelder ikke for
 
-Ved ervervsmessig undervisning2 gjelder denne paragrafen heller ikke forfremføring og overføring av databaser,3 ellerannen trådbunden eller trådløs overføring til allmennheten.4
+1. filmverk
+2. scenisk fremføring av sceneverk
+3. overføring ved kringkasting
+4. fremføring og overføring innen rammen av organisert konsertvirksomhet.
+
+Ved ervervsmessig undervisning2 gjelder denne paragrafen heller ikke for
+
+1. fremføring og overføring av databaser,3 eller
+2. annen trådbunden eller trådløs overføring til allmennheten.4
 
 Fremføring og overføring i ordinær klasseromsundervisning anses å skje innenfor det private området.
 
@@ -440,7 +544,13 @@ For bruk i egen undervisning kan lærere og elever gjøre opptak av sin egen fre
 
 Departementet kan i forskrift bestemme at skoler og andre undervisningsinstitusjoner vederlagsfritt kan gjøre opptak av kringkastingssending for tidsforskutt bruk.
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) a og o, jf. art. 1 (2) a og e) og nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 6 (2) b og art. 9 b).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 5 (6) og 6 (2) b, jf. art. 3).3 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 1 og 3).4 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) a, jf. art. 3).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) a og o, jf. art. 1 (2) a og e) og nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 6 (2) b og art. 9 b).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 5 (6) og 6 (2) b, jf. art. 3).
+
+3 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 1 og 3).
+
+4 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) a, jf. art. 3).
 
 ### § 44. Tvangslisens for samleverk til bruk i undervisning mv.
 
@@ -448,7 +558,9 @@ I samleverk bestemt til bruk ved undervisning, religiøs seremoni eller seremoni
 
 Opphaveren har krav på vederlag.
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (2) a, jf. art. 1 (2) a og e) og nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 6 (2) d).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (2) a, jf. art. 2).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (2) a, jf. art. 1 (2) a og e) og nr. 9a (direktiv [96/9/EF](eu/31996l0009) (databasedirektivet) art. 6 (2) d).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (2) a, jf. art. 2).
 
 ### § 45. Tvangslisens for bruk av verk ved offentlig eksamen
 
@@ -484,7 +596,9 @@ Departementet kan i forskrift gi regler om rett for arkiv, bibliotek, museer og 
 
 Departementet kan gi regler om at arkiv, bibliotek, museer og undervisningsinstitusjoner, ved hjelp av terminaler i egne lokaler, kan gjøre verk i samlingene tilgjengelig for enkeltpersoner når det skjer til forskningsformål eller private studieformål.2
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (2) c).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) n, jf. art. 3).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (2) c).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 5 (3) n, jf. art. 3).
 
 ### § 50. Avtalelisens for bruk av verk i arkiv, bibliotek og museer
 
@@ -494,7 +608,11 @@ Arkiv, bibliotek og museer kan fremstille eksemplar av utgitte verk i samlingene
 
 ### § 51. Kulturarvinstitusjoner som er omfattet av reglene om hitteverk
 
-Følgende institusjoner med allmennyttig formål er omfattet av reglene om bruk av hitteverk etter [§§ 52](lov/2018-06-15-40/§52) til [54](lov/2018-06-15-40/§54):offentlig tilgjengelige bibliotek, utdanningsinstitusjoner og museerarkiv-, film- og lydarvinstitusjonerallmennkringkastingsforetak.
+Følgende institusjoner med allmennyttig formål er omfattet av reglene om bruk av hitteverk etter [§§ 52](lov/2018-06-15-40/§52) til [54](lov/2018-06-15-40/§54):
+
+1. offentlig tilgjengelige bibliotek, utdanningsinstitusjoner og museer
+2. arkiv-, film- og lydarvinstitusjoner
+3. allmennkringkastingsforetak.
 
 1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 10 (direktiv [2012/28/EU](eu/32012l0028) (hitteverkdirektivet) art. 1 (1)).
 
@@ -512,9 +630,17 @@ Verk eller lydopptak som i henhold til lovgivningen i et land i EØS-området an
 
 ### § 53. Bruk av hitteverk
 
-Institusjon etter [§ 51](lov/2018-06-15-40/§51) kan for sine allmennyttige formålfremstille eksemplar av hitteverk i samlingene for å digitalisere, indeksere, katalogisere, bevare, restaurere eller gjøre tilgjengelig for allmennheten etter bokstav bgjøre hitteverk i samlingene tilgjengelig for allmennheten på en slik måte at den enkelte selv kan velge tid og sted for tilgang til verket.
+Institusjon etter [§ 51](lov/2018-06-15-40/§51) kan for sine allmennyttige formål
 
-Bruk av hitteverk etter første ledd kan skje der følgende vilkår er oppfylt:hitteverket har tilknytning til et land i EØS-området ved at verket enten ble utgitt eller ble utsendt i radio eller i fjernsyn for første gang i et land i EØS-området, eller med rettighetshavers samtykke ble gjort tilgjengelig for allmennheten i et land i EØS-området av en institusjon etter [§ 51](lov/2018-06-15-40/§51), og det ikke er grunn til å tro at rettighetshaveren ville ha motsatt seg brukeninstitusjonen er etablert i et EØS-landinntekter fra bruk av hitteverk skal kun dekke utgifter til eksemplarfremstilling og tilgjengeliggjøring for allmennheten av hitteverk etter denne paragrafenkjente rettighetshavere navngis.
+1. fremstille eksemplar av hitteverk i samlingene for å digitalisere, indeksere, katalogisere, bevare, restaurere eller gjøre tilgjengelig for allmennheten etter bokstav b
+2. gjøre hitteverk i samlingene tilgjengelig for allmennheten på en slik måte at den enkelte selv kan velge tid og sted for tilgang til verket.
+
+Bruk av hitteverk etter første ledd kan skje der følgende vilkår er oppfylt:
+
+1. hitteverket har tilknytning til et land i EØS-området ved at verket enten ble utgitt eller ble utsendt i radio eller i fjernsyn for første gang i et land i EØS-området, eller med rettighetshavers samtykke ble gjort tilgjengelig for allmennheten i et land i EØS-området av en institusjon etter [§ 51](lov/2018-06-15-40/§51), og det ikke er grunn til å tro at rettighetshaveren ville ha motsatt seg bruken
+2. institusjonen er etablert i et EØS-land
+3. inntekter fra bruk av hitteverk skal kun dekke utgifter til eksemplarfremstilling og tilgjengeliggjøring for allmennheten av hitteverk etter denne paragrafen
+4. kjente rettighetshavere navngis.
 
 For allmennkringkastingsforetak gjelder reglene kun for bruk av hitteverk i form av lydopptak og filmverk i egne samlinger som foretaket har produsert eller fått produsert av andre før 1. januar 2003.
 
@@ -580,7 +706,13 @@ Ved satellittkringkasting får bestemmelsen ikke anvendelse med mindre sendingen
 
 Bestemmelsen gjelder tilsvarende for radioproduksjoner.
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 8 (direktiv [93/83/EØF](eu/31993l0083) (satellitt- og kabeldirektivet) art. 9).2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 8 (direktiv [93/83/EØF](eu/31993l0083) (satellitt- og kabeldirektivet) art. 10).3 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 8 (direktiv [93/83/EØF](eu/31993l0083) (satellitt- og kabeldirektivet) art. 3 nr. 2, jf. art. 1).4 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 8 (direktiv [93/83/EØF](eu/31993l0083) (satellitt- og kabeldirektivet) art. 3 nr. 3, jf. art. 2).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 8 (direktiv [93/83/EØF](eu/31993l0083) (satellitt- og kabeldirektivet) art. 9).
+
+2 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 8 (direktiv [93/83/EØF](eu/31993l0083) (satellitt- og kabeldirektivet) art. 10).
+
+3 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 8 (direktiv [93/83/EØF](eu/31993l0083) (satellitt- og kabeldirektivet) art. 3 nr. 2, jf. art. 1).
+
+4 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 8 (direktiv [93/83/EØF](eu/31993l0083) (satellitt- og kabeldirektivet) art. 3 nr. 3, jf. art. 2).
 
 ### § 58. Midlertidige (efemære) opptak
 
@@ -602,7 +734,13 @@ Retten etter første ledd gjelder ikke videresalg fra privatpersoner til museer 
 
 ### § 60. Beregning og innkreving av følgerettsvederlaget
 
-Følgerettsvederlaget skal beregnes på grunnlag av salgsprisen uten merverdiavgift etter følgende satser:5 prosent av den del av salgsprisen som ikke overstiger 50 000 euro3 prosent av den del av salgsprisen som overstiger 50 000 euro, men som ikke overstiger 200 000 euro1 prosent av den del av salgsprisen som overstiger 200 000 euro, men som ikke overstiger 350 000 euro0,5 prosent av den del av salgsprisen som overstiger 350 000 euro, men som ikke overstiger 500 000 euro0,25 prosent av den del av salgsprisen som overstiger 500 000 euro.
+Følgerettsvederlaget skal beregnes på grunnlag av salgsprisen uten merverdiavgift etter følgende satser:
+
+1. 5 prosent av den del av salgsprisen som ikke overstiger 50 000 euro
+2. 3 prosent av den del av salgsprisen som overstiger 50 000 euro, men som ikke overstiger 200 000 euro
+3. 1 prosent av den del av salgsprisen som overstiger 200 000 euro, men som ikke overstiger 350 000 euro
+4. 0,5 prosent av den del av salgsprisen som overstiger 350 000 euro, men som ikke overstiger 500 000 euro
+5. 0,25 prosent av den del av salgsprisen som overstiger 500 000 euro.
 
 Vederlaget skal kun betales når salgsprisen uten merverdiavgift overstiger 3 000 euro. Det totale vederlaget for et videresalg skal ikke overstige 12 500 euro.
 
@@ -638,7 +776,9 @@ Departementet kan i forskrift gi nærmere bestemmelser om kontroll med organisas
 
 > Endret ved lov [28 mai 2021 nr. 49](lov/2021-05-28-49) (ikr. 1 juli 2021 iflg. [res. 28 mai 2021 nr. 1685](forskrift/2021-05-28-1685)).
 
-1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 8 ([direktiv 93/83/EØF](eu/31993l0083) (satellitt- og kabeldirektivet) art. 10).2 Se [EØS-avtalen art. 4](lov/1992-11-27-109/eøsl/a4).
+1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 8 ([direktiv 93/83/EØF](eu/31993l0083) (satellitt- og kabeldirektivet) art. 10).
+
+2 Se [EØS-avtalen art. 4](lov/1992-11-27-109/eøsl/a4).
 
 ### § 64. Vederlag for bruk av verk ved avtalelisens
 
@@ -716,7 +856,11 @@ Opphavsrett til datamaskinprogram som er skapt av en arbeidstaker under utførel
 
 Har opphaveren overdratt rett til å bruke et verk for film, er erververen, hvis ikke annet er avtalt, pliktig til innen rimelig tid å innspille filmverket og sørge for at det blir gjort tilgjengelig for allmennheten. Blir erververens forpliktelser vesentlig misligholdt, kan opphaveren heve avtalen, beholde mottatt honorar og kreve erstatning for skade som ikke dekkes av honoraret.
 
-Er ikke annet avtalt, omfatter overdragelsen av rett til innspilling av et verk for film rett til åfremstille eksemplar av filmverketgjøre filmverket tilgjengelig for allmennheten gjennom spredning av eksemplar og ved fremføring og overføringforsyne filmverket med tekster eller oversatt tale.
+Er ikke annet avtalt, omfatter overdragelsen av rett til innspilling av et verk for film rett til å
+
+1. fremstille eksemplar av filmverket
+2. gjøre filmverket tilgjengelig for allmennheten gjennom spredning av eksemplar og ved fremføring og overføring
+3. forsyne filmverket med tekster eller oversatt tale.
 
 Bestemmelsen i andre ledd gjelder ikke musikkverk.
 
@@ -776,7 +920,13 @@ Ved vurderingen av om grovt inngrep foreligger, skal det særlig legges vekt på
 
 ### § 81. Vederlag og erstatning
 
-Den som forsettlig eller uaktsomt gjør inngrep i en annens rett eller på annen måte overtrer denne loven, skal betale til den forurettede:rimelig vederlag for bruken, samt erstatning for skade som følge av overtredelsen som ikke ville oppstått ved avtale om brukerstatning for skade som følge av overtredelsen, ellervederlag svarende til vinningen som er oppnådd ved overtredelsen.Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for den forurettede. Ved utmålingen av vederlag og erstatning for forsettlig eller grovt uaktsom overtredelse tas det også hensyn til ikke-økonomisk skade påført den forurettede ved overtredelsen.
+Den som forsettlig eller uaktsomt gjør inngrep i en annens rett eller på annen måte overtrer denne loven, skal betale til den forurettede:
+
+1. rimelig vederlag for bruken, samt erstatning for skade som følge av overtredelsen som ikke ville oppstått ved avtale om bruk
+2. erstatning for skade som følge av overtredelsen, eller
+3. vederlag svarende til vinningen som er oppnådd ved overtredelsen.
+
+Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for den forurettede. Ved utmålingen av vederlag og erstatning for forsettlig eller grovt uaktsom overtredelse tas det også hensyn til ikke-økonomisk skade påført den forurettede ved overtredelsen.
 
 Er det handlet forsettlig eller grovt uaktsomt, skal overtrederen, dersom den forurettede krever det og i den grad det ikke fremstår som urimelig, i stedet for vederlag og erstatning fastsatt etter første ledd, betale det dobbelte av rimelig vederlag for bruken.
 
@@ -790,7 +940,14 @@ Ansvar etter første og tredje ledd kan lempes etter [lov 13. juni 1969 nr. 26](
 
 ### § 82. Tiltak for å hindre inngrep og andre overtredelser
 
-For å hindre inngrep og andre overtredelser av denne loven, kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for produkter som utgjør inngrep i en annens rett eller andre overtredelser av denne loven, og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slike produkter. Slikt pålegg kan blant annet gå ut på at produkter og materialer og hjelpemidler skaltilbakekalles fra handelendefinitivt fjernes fra handelenødeleggesutleveres til rettighetshaveren.Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til overtredelsens alvorlighet, virkningene av tiltakene og tredjeparts interesser.
+For å hindre inngrep og andre overtredelser av denne loven, kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for produkter som utgjør inngrep i en annens rett eller andre overtredelser av denne loven, og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slike produkter. Slikt pålegg kan blant annet gå ut på at produkter og materialer og hjelpemidler skal
+
+1. tilbakekalles fra handelen
+2. definitivt fjernes fra handelen
+3. ødelegges
+4. utleveres til rettighetshaveren.
+
+Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til overtredelsens alvorlighet, virkningene av tiltakene og tredjeparts interesser.
 
 Første ledd gjelder tilsvarende i tilfeller som nevnt i [§ 78](lov/2018-06-15-40/§78) første ledd andre punktum.
 
@@ -898,7 +1055,11 @@ Avgjørelsen treffes ved kjennelse. Kjennelse som opphever et pålegg får ikke 
 
 ### § 95. Bortfall av pålegg
 
-Et pålegg om å hindre eller vanskeliggjøre tilgang til nettsted faller bort uten opphevelsenår en fastsatt tid for pålegget er løpt utnår saksøkeren er gitt en frist for å stille sikkerhet, og fristen oversittes, ellernår saksøkeren gir avkall på sin rett etter pålegget.
+Et pålegg om å hindre eller vanskeliggjøre tilgang til nettsted faller bort uten opphevelse
+
+1. når en fastsatt tid for pålegget er løpt ut
+2. når saksøkeren er gitt en frist for å stille sikkerhet, og fristen oversittes, eller
+3. når saksøkeren gir avkall på sin rett etter pålegget.
 
 Frist som nevnt i første ledd bokstav b kan på begjæring forlenges. Forlengelse kan bare gis dersom begjæringen kommer inn innen utløpet av fristen. Forlengelse kan etter samme regler gis på ny.
 
@@ -924,7 +1085,15 @@ Krav om erstatning etter denne paragrafen kan gjøres gjeldende for Oslo tingret
 
 Det er forbudt å omgå effektive tekniske beskyttelsessystemer som en rettighetshaver eller den rettighetshaveren har gitt samtykke, benytter for å kontrollere eksemplarfremstilling eller tilgjengeliggjøring for allmennheten av et vernet verk.
 
-Det er videre forbudt åselge, leie ut eller på annen måte distribuereprodusere eller innføre for distribusjon til allmennhetenreklamere for salg eller utleie avbesitte for ervervsmessige formål, ellertilby tjenester i tilknytning tilinnretninger, produkter eller komponenter som frembys med det formål å omgå effektive tekniske beskyttelsessystemer, eller som kun har begrenset ervervsmessig nytte for annet enn slikt formål, eller som i hovedsak er utviklet for å muliggjøre eller forenkle slik omgåelse.
+Det er videre forbudt å
+
+1. selge, leie ut eller på annen måte distribuere
+2. produsere eller innføre for distribusjon til allmennheten
+3. reklamere for salg eller utleie av
+4. besitte for ervervsmessige formål, eller
+5. tilby tjenester i tilknytning til
+
+innretninger, produkter eller komponenter som frembys med det formål å omgå effektive tekniske beskyttelsessystemer, eller som kun har begrenset ervervsmessig nytte for annet enn slikt formål, eller som i hovedsak er utviklet for å muliggjøre eller forenkle slik omgåelse.
 
 Denne paragrafen skal ikke være til hinder for forskning i kryptologi.
 
@@ -958,7 +1127,12 @@ Det er forbudt å omsette eller i ervervsøyemed besitte et hvilket som helst mi
 
 ### § 102. Forbud mot fjerning eller endring av elektronisk rettighetsinformasjon
 
-Det er forbudt uten rettighetshaverens samtykkeå fjerne eller endre elektronisk rettighetsinformasjon som rettighetshaveren har føyet til et vernet verk, og som enten inngår i et eksemplar eller fremtrer i forbindelse med at verket gjøres tilgjengelig for allmennheten, ellerå innføre et eksemplar for spredning, omsette eller på annen måte gjøre et vernet verk tilgjengelig for allmennheten der elektronisk rettighetsinformasjon er fjernet eller endret i strid med bokstav adersom handlingen i bokstav a eller b foranlediger, muliggjør, letter eller skjuler et inngrep i opphavsrett.
+Det er forbudt uten rettighetshaverens samtykke
+
+1. å fjerne eller endre elektronisk rettighetsinformasjon som rettighetshaveren har føyet til et vernet verk, og som enten inngår i et eksemplar eller fremtrer i forbindelse med at verket gjøres tilgjengelig for allmennheten, eller
+2. å innføre et eksemplar for spredning, omsette eller på annen måte gjøre et vernet verk tilgjengelig for allmennheten der elektronisk rettighetsinformasjon er fjernet eller endret i strid med bokstav a
+
+dersom handlingen i bokstav a eller b foranlediger, muliggjør, letter eller skjuler et inngrep i opphavsrett.
 
 1 Se [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 9e (direktiv [2001/29/EF](eu/32001l0029) (opphavsrettsdirektivet) art. 7).
 
@@ -970,7 +1144,13 @@ Det som i dette kapittel sies om verk, gjelder tilsvarende for arbeider som er v
 
 ### § 104. Retten til eget bilde
 
-Fotografi som avbilder en person, kan ikke gjengis eller vises offentlig uten samtykke av den avbildede, unntatt nåravbildningen har aktuell og allmenn interesseavbildningen av personen er mindre viktig enn hovedinnholdet i bildetbildet gjengir forsamlinger, folketog i friluft eller forhold eller hendelser som har allmenn interesseeksemplar av avbildningen på vanlig måte vises som reklame for fotografens virksomhet og den avbildede ikke nedlegger forbud, ellerbildet brukes som omhandlet i [§ 33](lov/2018-06-15-40/§33) andre ledd eller [§ 37](lov/2018-06-15-40/§37) tredje ledd.
+Fotografi som avbilder en person, kan ikke gjengis eller vises offentlig uten samtykke av den avbildede, unntatt når
+
+1. avbildningen har aktuell og allmenn interesse
+2. avbildningen av personen er mindre viktig enn hovedinnholdet i bildet
+3. bildet gjengir forsamlinger, folketog i friluft eller forhold eller hendelser som har allmenn interesse
+4. eksemplar av avbildningen på vanlig måte vises som reklame for fotografens virksomhet og den avbildede ikke nedlegger forbud, eller
+5. bildet brukes som omhandlet i [§ 33](lov/2018-06-15-40/§33) andre ledd eller [§ 37](lov/2018-06-15-40/§37) tredje ledd.
 
 Vernet gjelder i den avbildedes levetid og 15 år etter utløpet av avbildedes dødsår.
 
@@ -1028,7 +1208,13 @@ Trykte verk skal være påført ansvarlig utgiver, opplagsnummer og trykkeår. G
 
 ### § 113. Lovens rekkevidde for opphavsrett til åndsverk
 
-Lovens bestemmelser om opphavsrett får anvendelse pååndsverk som er skapt av norsk statsborger eller av person som er bosatt her i riketåndsverk som er utgitt første gang her i riket, eller er utgitt samtidig her og i et annet landfilmverk og fjernsynsverk hvis produsent har sitt hovedsete eller er bosatt her i riketbyggverk som er oppført her i riketkunstverk og fotografisk verk som er innføyd i bygninger eller faste anlegg her i riket.
+Lovens bestemmelser om opphavsrett får anvendelse på
+
+1. åndsverk som er skapt av norsk statsborger eller av person som er bosatt her i riket
+2. åndsverk som er utgitt første gang her i riket, eller er utgitt samtidig her og i et annet land
+3. filmverk og fjernsynsverk hvis produsent har sitt hovedsete eller er bosatt her i riket
+4. byggverk som er oppført her i riket
+5. kunstverk og fotografisk verk som er innføyd i bygninger eller faste anlegg her i riket.
 
 Samtidig utgivelse som nevnt i første ledd bokstav b anses å ha funnet sted når verket utgis her i riket innen 30 dager etter første utgivelse.
 
@@ -1042,7 +1228,10 @@ Bestemmelsen i [§ 13](lov/2018-06-15-40/§13) får anvendelse på åndsverk som
 
 ### § 114. Lovens rekkevidde for nærstående rettigheter
 
-[Kapittel 2](lov/2018-06-15-40/kap2) gjelder, med unntak av [§§ 23](lov/2018-06-15-40/§23) og [24](lov/2018-06-15-40/§24) og den i [§§ 16](lov/2018-06-15-40/§16) og [20](lov/2018-06-15-40/§20) nevnte spredningsrett, til fordel for arbeid som er frembrakt avnorsk statsborger eller person som er bosatt her i riketselskap som har norsk styre og sete her i riket.
+[Kapittel 2](lov/2018-06-15-40/kap2) gjelder, med unntak av [§§ 23](lov/2018-06-15-40/§23) og [24](lov/2018-06-15-40/§24) og den i [§§ 16](lov/2018-06-15-40/§16) og [20](lov/2018-06-15-40/§20) nevnte spredningsrett, til fordel for arbeid som er frembrakt av
+
+1. norsk statsborger eller person som er bosatt her i riket
+2. selskap som har norsk styre og sete her i riket.
 
 Bestemmelsene i [§§ 16](lov/2018-06-15-40/§16) og [22](lov/2018-06-15-40/§22) gjelder også for fremføringer og kringkastingssendinger som finner sted i Norge. Bestemmelsen om spredningsrett i [§§ 16](lov/2018-06-15-40/§16) og [20](lov/2018-06-15-40/§20) gjelder for lyd- og filmopptak gjort i Norge. Bestemmelsen i [§ 20](lov/2018-06-15-40/§20) om rett til eksemplarfremstilling gjelder til fordel for ethvert lyd- og filmopptak. Bestemmelsen i [§ 24](lov/2018-06-15-40/§24) gjelder for arbeid frembrakt av noen som er statsborger i eller bosatt i eller har sete i et land innenfor EØS-området.1 Bestemmelsen i [§ 23](lov/2018-06-15-40/§23) gjelder for fotografiske bilder som første gang er utgitt her i riket eller som er laget av noen som er statsborger i eller bosatt i eller har sete i et land innenfor EØS-området. Det samme gjelder for fotografier innføyd i bygninger eller faste anlegg i et land innenfor nevnte område.
 

@@ -15,7 +15,7 @@ xml_hash: "80d16e27d5d183f507c054c4c3a8148c87a8e92d80a000b932ee0909b0fab2c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,13 +26,36 @@ eu_basis: []
 
 Private forslagsstillere skal sende et planinitiativ til kommunen senest samtidig med forespørsel om oppstartsmøte etter plan- og [bygningsloven § 12-8](lov/2008-06-27-71/§12-8) første ledd andre punktum.
 
-Planinitiativet skal i nødvendig grad omtale premissene for det videre planarbeidet, og redegjøre forformålet med planenplanområdet og om planarbeidet vil få virkninger utenfor planområdetplanlagt bebyggelse, anlegg og andre tiltakutbyggingsvolum og byggehøyderfunksjonell og miljømessig kvalitettiltakets virkning på, og tilpasning til, landskap og omgivelser,forholdet til kommuneplan, eventuelle gjeldende reguleringsplaner og retningslinjer, og pågående planarbeidvesentlige interesser som berøres av planinitiativethvordan samfunnssikkerhet skal ivaretas, blant annet gjennom å forebygge risiko og sårbarhethvilke berørte offentlige organer og andre interesserte som skal varsles om planoppstartprosesser for samarbeid og medvirkning fra berørte fagmyndigheter, grunneiere, festere, naboer og andre berørtevurderingen av om planen er omfattet av forskrift om konsekvensutredninger, og hvordan kravene i tilfelle vil kunne bli ivaretatt.
+Planinitiativet skal i nødvendig grad omtale premissene for det videre planarbeidet, og redegjøre for
+
+1. formålet med planen
+2. planområdet og om planarbeidet vil få virkninger utenfor planområdet
+3. planlagt bebyggelse, anlegg og andre tiltak
+4. utbyggingsvolum og byggehøyder
+5. funksjonell og miljømessig kvalitet
+6. tiltakets virkning på, og tilpasning til, landskap og omgivelser,
+7. forholdet til kommuneplan, eventuelle gjeldende reguleringsplaner og retningslinjer, og pågående planarbeid
+8. vesentlige interesser som berøres av planinitiativet
+9. hvordan samfunnssikkerhet skal ivaretas, blant annet gjennom å forebygge risiko og sårbarhet
+10. hvilke berørte offentlige organer og andre interesserte som skal varsles om planoppstart
+11. prosesser for samarbeid og medvirkning fra berørte fagmyndigheter, grunneiere, festere, naboer og andre berørte
+12. vurderingen av om planen er omfattet av forskrift om konsekvensutredninger, og hvordan kravene i tilfelle vil kunne bli ivaretatt.
 
 ## § 2. Gjennomføring av oppstartsmøte
 
 Oppstartsmøte etter plan- og [bygningsloven § 12-8](lov/2008-06-27-71/§12-8) første ledd andre punktum skal gjennomføres innen rimelig tid etter at kommunen har mottatt forespørsel om dette fra forslagsstilleren.
 
-I oppstartsmøtet skal alle temaer som er nødvendig for å klargjøre forutsetningene for det videre planarbeidet og utformingen av det endelige planforslaget, behandles. Det skal blant annet tas stilling tilhvordan det skal tilrettelegges for samarbeid, medvirkning og samfunnssikkerhetom planen vil omfattes av forskrift om konsekvensutredninger og hvordan det videre opplegget skal være for arbeidet frem til en slik utredning foreliggerom det skal utarbeides andre utredninger om bestemte temaer, og om kommunen eller forslagsstilleren skal utarbeide rapporteneom det er hensiktsmessig med felles behandling av plan- og byggesak etter plan- og [bygningsloven § 12-15](lov/2008-06-27-71/§12-15)hva kommunen skal bidra med underveis i planarbeidetom det er behov for senere dialogmøter mellom forslagsstilleren og kommunenen overordnet fremdriftsplan som skal gjelde for planarbeidethvem som er kontaktpersoner hos forslagsstiller og i kommunenom det kan være aktuelt å stoppe planinitiativet etter plan- og [bygningsloven § 12-8](lov/2008-06-27-71/§12-8) andre ledd.
+I oppstartsmøtet skal alle temaer som er nødvendig for å klargjøre forutsetningene for det videre planarbeidet og utformingen av det endelige planforslaget, behandles. Det skal blant annet tas stilling til
+
+1. hvordan det skal tilrettelegges for samarbeid, medvirkning og samfunnssikkerhet
+2. om planen vil omfattes av forskrift om konsekvensutredninger og hvordan det videre opplegget skal være for arbeidet frem til en slik utredning foreligger
+3. om det skal utarbeides andre utredninger om bestemte temaer, og om kommunen eller forslagsstilleren skal utarbeide rapportene
+4. om det er hensiktsmessig med felles behandling av plan- og byggesak etter plan- og [bygningsloven § 12-15](lov/2008-06-27-71/§12-15)
+5. hva kommunen skal bidra med underveis i planarbeidet
+6. om det er behov for senere dialogmøter mellom forslagsstilleren og kommunen
+7. en overordnet fremdriftsplan som skal gjelde for planarbeidet
+8. hvem som er kontaktpersoner hos forslagsstiller og i kommunen
+9. om det kan være aktuelt å stoppe planinitiativet etter plan- og [bygningsloven § 12-8](lov/2008-06-27-71/§12-8) andre ledd.
 
 ## § 3. Krav til referat fra oppstartsmøtet
 

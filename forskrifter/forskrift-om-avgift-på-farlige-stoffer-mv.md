@@ -34,7 +34,11 @@ Offentlig eller privat virksomhet som håndterer eller skal håndtere farlige st
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*Virksomhet:* Bedrift, anlegg, offentlig organ, interessentskap eller annet rettssubjekt som faller inn under [§ 1](forskrift/1995-07-10-684/§1).*Petroleumsprodukt:* Flytende og kondenserbare hydrokarboner med flammepunkt ikke over 55°C, samt motorbrensel og fyringsolje, med flammepunkt over 55°C, som er fremstilt av råolje. Med unntak av § 5, regnes ikke råolje i forskriften som petroleumsprodukt.*Løsningsmiddel:* Alkohol, eter, keton, ester og lignende væsker med flammepunkt ikke over 55°C.
+I denne forskrift betyr:
+
+1. *Virksomhet:* Bedrift, anlegg, offentlig organ, interessentskap eller annet rettssubjekt som faller inn under [§ 1](forskrift/1995-07-10-684/§1).
+2. *Petroleumsprodukt:* Flytende og kondenserbare hydrokarboner med flammepunkt ikke over 55°C, samt motorbrensel og fyringsolje, med flammepunkt over 55°C, som er fremstilt av råolje. Med unntak av § 5, regnes ikke råolje i forskriften som petroleumsprodukt.
+3. *Løsningsmiddel:* Alkohol, eter, keton, ester og lignende væsker med flammepunkt ikke over 55°C.
 
 For øvrig gjelder de definisjoner som er fastsatt i lovene om brannfarlige varer samt væsker og gasser under trykk og eksplosive varer.
 
@@ -68,7 +72,9 @@ Virksomheter som har større kjeler og trykkbeholdere som ikke, eller i liten gr
 
 ### § 7. Avgift for tilvirkning og omsetning av sprengstoff og krutt
 
-1. For virksomheter som omsetter sprengstoff eller krutt, beregnes avgiften på grunnlag av de produkter som den enkelte virksomhet omsetter innenlands i løpet av året.Avgift pålegges første ledd i omsetningskjeden.
+1. For virksomheter som omsetter sprengstoff eller krutt, beregnes avgiften på grunnlag av de produkter som den enkelte virksomhet omsetter innenlands i løpet av året.
+
+   Avgift pålegges første ledd i omsetningskjeden.
 2. For virksomheter som tilvirker sprengstoff eller krutt til eget bruk, beregnes avgiften på grunnlag av den mengde den enkelte virksomhet bruker i løpet av året.
 3. Virksomhet som tilvirker sprengstoff eller krutt på mer enn ett tilvirkningssted, skal i tillegg til mengdebasert avgift i henhold til nr. 1 eller 2 betale en fast årlig avgift pr. tilvirkningssted utover det første.
 4. Avgiftssatsen etter nr. 1 og 2 er kr 152,43 pr. tonn. For virksomheter hvor de produktmengder som danner grunnlag for avgiftsberegninger i henhold til punkt 1 og 2 er mindre enn 400 tonn, skal den årlige mengdebaserte avgift være kr 61 700.
@@ -79,7 +85,9 @@ Virksomheter som har større kjeler og trykkbeholdere som ikke, eller i liten gr
 
 ### § 8. Avgift for virksomhet i anleggsfase
 
-1. Virksomhet som er undergitt tilsyn etter lovene om brannfarlige varer samt væsker og gasser under trykk og eksplosive varer og som er under opp- eller nedbygging, kan pålegges avgift dersom Direktoratet for samfunnssikkerhet og beredskaps engasjement i forbindelse med virksomheten vil pågå kontinuerlig gjennom et lengre tidsrom.Avgiften skal dekke etatens faktiske utgifter ved kontrollen.
+1. Virksomhet som er undergitt tilsyn etter lovene om brannfarlige varer samt væsker og gasser under trykk og eksplosive varer og som er under opp- eller nedbygging, kan pålegges avgift dersom Direktoratet for samfunnssikkerhet og beredskaps engasjement i forbindelse med virksomheten vil pågå kontinuerlig gjennom et lengre tidsrom.
+
+   Avgiften skal dekke etatens faktiske utgifter ved kontrollen.
 2. Vedtak om at en virksomhet skal betale avgift etter denne bestemmelse, fattes av Direktoratet for samfunnssikkerhet og beredskap så snart man har grunnlag for å vurdere omfanget av kontroll og tilsyn med virksomheten. Denne skal straks underrettes om vedtaket.
 3. Eventuell avgift etter denne bestemmelse kommer i tillegg til avgift etter [§ 4](forskrift/1995-07-10-684/§4), [§ 5](forskrift/1995-07-10-684/§5), [§ 6](forskrift/1995-07-10-684/§6) og [§ 7](forskrift/1995-07-10-684/§7).
 

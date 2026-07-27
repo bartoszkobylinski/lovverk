@@ -44,7 +44,11 @@ Produksjon av anadrome laksefisk og innlandsfisk til kultiveringsformål reguler
 
 ### § 3. Geografisk virkeområde
 
-Denne loven gjelder:på landterritoriet og i territorialfarvannet,i jurisdiksjonsområder etablert i medhold av [lov 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone, ogpå kontinentalsokkelen.
+Denne loven gjelder:
+
+1. på landterritoriet og i territorialfarvannet,
+2. i jurisdiksjonsområder etablert i medhold av [lov 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone, og
+3. på kontinentalsokkelen.
 
 Loven gjelder ikke på Svalbard og Jan Mayen. Kongen kan gi forskrift om at loven helt eller delvis skal gjelde på Svalbard og Jan Mayen og kan fastsette nærmere bestemmelser av hensyn til de stedlige forhold, herunder bestemmelser som fraviker bestemmelser i denne lov.
 
@@ -64,7 +68,17 @@ Departementet kan i enkeltvedtak eller forskrift gi nærmere bestemmelser om inn
 
 ### § 6. Generelle vilkår for tildeling av akvakulturtillatelse
 
-Departementet kan etter søknad gi tillatelse til akvakultur dersom:det er miljømessig forsvarlig,kravene i [§ 15](lov/2005-06-17-79/§15) om forholdet til arealplaner og vernetiltak er oppfylt,avveiningen av arealinteresser etter [§ 16](lov/2005-06-17-79/§16) er foretatt, ogdet er gitt tillatelser som kreves etter:[lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet m.v.,[lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensning og om avfall,havne- og farvannsloven, og[lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann.
+Departementet kan etter søknad gi tillatelse til akvakultur dersom:
+
+1. det er miljømessig forsvarlig,
+2. kravene i [§ 15](lov/2005-06-17-79/§15) om forholdet til arealplaner og vernetiltak er oppfylt,
+3. avveiningen av arealinteresser etter [§ 16](lov/2005-06-17-79/§16) er foretatt, og
+4. det er gitt tillatelser som kreves etter:
+
+   - [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet m.v.,
+   - [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensning og om avfall,
+   - havne- og farvannsloven, og
+   - [lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann.
 
 Departementet kan i forskrift gi nærmere bestemmelser om tildeling av akvakulturtillatelse, herunder krav til søknad og kriterier for innvilgelse av søknad og gi nærmere bestemmelser om hvilke søknader som skal behandles av fylkeskommunene.
 
@@ -74,7 +88,13 @@ Departementet kan i forskrift gi nærmere bestemmelser om hel eller delvis stans
 
 ### § 7. Særlig om akvakulturtillatelse til laks, ørret og regnbueørret
 
-For tildeling av tillatelse til produksjon av laks, ørret og regnbueørret kan departementet gi forskrift om:antall tillatelser som skal tildeles,geografisk fordeling av tillatelser,prioriteringskriterier,utvelgelse av kvalifiserte søkere i henhold til prioriteringskriteriene i bokstav c, herunder trekning mv., ogvederlag for tildeling av tillatelser.
+For tildeling av tillatelse til produksjon av laks, ørret og regnbueørret kan departementet gi forskrift om:
+
+1. antall tillatelser som skal tildeles,
+2. geografisk fordeling av tillatelser,
+3. prioriteringskriterier,
+4. utvelgelse av kvalifiserte søkere i henhold til prioriteringskriteriene i bokstav c, herunder trekning mv., og
+5. vederlag for tildeling av tillatelser.
 
 Departementet kan i forskrift gi nærmere bestemmelser om vederlag for utvidelse av gjeldende tillatelse.
 
@@ -92,7 +112,13 @@ Departementet kan i forskrift gi nærmere bestemmelser om samordning av søknads
 
 ### § 9. Tilpasning av produksjon av hensyn til miljøet, og endring og tilbaketrekking av akvakulturtillatelse
 
-Departementet kan endre eller trekke tilbake akvakulturtillatelsen:dersom dette er nødvendig ut fra hensynet til miljøet,dersom vesentlige forutsetninger som ligger til grunn for tillatelsen er endret,ved grov eller gjentatt overtredelse av bestemmelser gitt i eller i medhold av denne loven,dersom tillatelsen ikke benyttes eller bare benyttes i begrenset grad, ellerdersom en eller flere nødvendige tillatelser gitt i medhold av lovene nevnt i [§ 6](lov/2005-06-17-79/§6) første ledd bokstav d er bortfalt.
+Departementet kan endre eller trekke tilbake akvakulturtillatelsen:
+
+1. dersom dette er nødvendig ut fra hensynet til miljøet,
+2. dersom vesentlige forutsetninger som ligger til grunn for tillatelsen er endret,
+3. ved grov eller gjentatt overtredelse av bestemmelser gitt i eller i medhold av denne loven,
+4. dersom tillatelsen ikke benyttes eller bare benyttes i begrenset grad, eller
+5. dersom en eller flere nødvendige tillatelser gitt i medhold av lovene nevnt i [§ 6](lov/2005-06-17-79/§6) første ledd bokstav d er bortfalt.
 
 Endring og tilbaketrekking av tillatelse etter første ledd kan gjøres tidsbegrenset. Tidsbegrenset endring og tilbaketrekking kan gjøres betinget av at bestemte forhold utbedres eller endres.
 
@@ -164,7 +190,12 @@ Departementet kan fastsette forbud mot, pålegge flytting av eller sette andre v
 
 ### § 15. Forholdet til arealplaner og vernetiltak
 
-Tillatelse til akvakultur kan ikke gis i strid med:vedtatte arealplaner etter [plan- og bygningsloven](lov/2008-06-27-71),vedtatte vernetiltak etter [kapittel V i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold](lov/2009-06-19-100/kapV),vedtatte vernetiltak etter [lov 9. juni 1978 nr. 50 om kulturminner](lov/1978-06-09-50), ellervedtatte vernetiltak etter [lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33).
+Tillatelse til akvakultur kan ikke gis i strid med:
+
+1. vedtatte arealplaner etter [plan- og bygningsloven](lov/2008-06-27-71),
+2. vedtatte vernetiltak etter [kapittel V i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold](lov/2009-06-19-100/kapV),
+3. vedtatte vernetiltak etter [lov 9. juni 1978 nr. 50 om kulturminner](lov/1978-06-09-50), eller
+4. vedtatte vernetiltak etter [lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33).
 
 Tillatelse til akvakultur kan likevel gis dersom det foreligger samtykke fra vedkommende plan- eller vernemyndighet.
 
@@ -172,7 +203,12 @@ Tillatelse til akvakultur kan likevel gis dersom det foreligger samtykke fra ved
 
 ### § 16. Interesseavveining ved arealbruk til akvakultur
 
-Departementet skal foreta en avveining av arealinteresser ved plassering av lokaliteter til akvakultur. Det skal særlig legge vekt på:søkers behov for areal til planlagt akvakulturproduksjon,alternativ bruk av området til annen akvakultur,annen bruk av området, ogverneinteresser som ikke omfattes av [§ 15](lov/2005-06-17-79/§15) bokstav b og c.
+Departementet skal foreta en avveining av arealinteresser ved plassering av lokaliteter til akvakultur. Det skal særlig legge vekt på:
+
+1. søkers behov for areal til planlagt akvakulturproduksjon,
+2. alternativ bruk av området til annen akvakultur,
+3. annen bruk av området, og
+4. verneinteresser som ikke omfattes av [§ 15](lov/2005-06-17-79/§15) bokstav b og c.
 
 Departementet kan i forskrift gi nærmere bestemmelser om bruk og plassering av lokaliteter til akvakultur.
 
@@ -334,7 +370,17 @@ Departementet kan i forskrift gi nærmere bestemmelser om inndragning, herunder 
 
 Et foretak kan ilegges overtredelsesgebyr dersom foretaket eller noen som har handlet på foretakets vegne overtrer bestemmelser gitt i eller i medhold av loven. Dette gjelder selv om ansvaret for overtredelsen ikke kan rettes mot noen enkeltperson.
 
-Ved avgjørelsen av om foretaket skal ilegges overtredelsesgebyr og ved utmålingen av gebyret kan det særlig legges vekt på:overtredelsesgebyrets preventive virkning,overtredelsens grovhet,om foretaket ved internkontroll, retningslinjer, instruksjon, opplæring eller andre tiltak kunne ha forebygget overtredelsen,om overtredelsen er begått for å fremme foretakets interesser,om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,foretakets økonomiske evne,om det foreligger gjentakelse,hvilke tiltak som er iverksatt for å forebygge eller avbøte virkningene av overtredelsen ogom overtredelsen innebærer fare for eller har ført til alvorlig eller uopprettelig miljøskade.
+Ved avgjørelsen av om foretaket skal ilegges overtredelsesgebyr og ved utmålingen av gebyret kan det særlig legges vekt på:
+
+1. overtredelsesgebyrets preventive virkning,
+2. overtredelsens grovhet,
+3. om foretaket ved internkontroll, retningslinjer, instruksjon, opplæring eller andre tiltak kunne ha forebygget overtredelsen,
+4. om overtredelsen er begått for å fremme foretakets interesser,
+5. om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,
+6. foretakets økonomiske evne,
+7. om det foreligger gjentakelse,
+8. hvilke tiltak som er iverksatt for å forebygge eller avbøte virkningene av overtredelsen og
+9. om overtredelsen innebærer fare for eller har ført til alvorlig eller uopprettelig miljøskade.
 
 Dersom den ansvarlige for overtredelsesgebyret er et foretak som inngår i et konsern, hefter foretakets morselskap og morselskapet i det konsern selskapet er en del av, subsidiært for beløpet.
 

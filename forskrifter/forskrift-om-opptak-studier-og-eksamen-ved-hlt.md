@@ -15,7 +15,7 @@ xml_hash: "a0b37ce771e6b858a99c3dfbc4acc12522808f0d16b4ed51f3d957e8e76a7feb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -128,7 +128,13 @@ Studenter som får barn under studiene, har rett til permisjon etter [lov om uni
 
 Søknad om permisjon med ønsket varighet skal sendes skriftlig til HLTs administrasjon. Studenten blir ikke belastet med studie- og semesteravgift i permisjonstiden. I permisjonsperioden har studenten fortsatt status som student ved HLT, og har rett til å gjenoppta sine studier på tilsvarende nivå som før permisjonen.
 
-Studenter som søker permisjon, må være oppmerksomme på følgende:Det kan komme endringer i fag- og studieplaner som kan føre til tilpassingsproblemer etter tilbakekomst fra permisjon, for eksempel endring av pensum, arbeidskrav og eksamensformer.Studenter i permisjon er selv ansvarlig for å holde seg orientert om endringer i frister og regler for fag- og studieplaner, samt foreta eventuelle fagvalg.Dersom studenten ikke ønsker å gjenoppta plassen etter endt permisjon, må vedkommende sende HLT en skriftlig oppsigelse.Studenter som ønsker å avlegge eksamen i permisjonstiden, må søke HLT om dette. Ved innvilgelse må studenten selv melde seg opp til eksamen innen gjeldende frister.Før gjenopptakelse av studiene må man så tidlig som mulig kontakte studieveileder for å få laget en revidert utdanningsplan.
+Studenter som søker permisjon, må være oppmerksomme på følgende:
+
+- Det kan komme endringer i fag- og studieplaner som kan føre til tilpassingsproblemer etter tilbakekomst fra permisjon, for eksempel endring av pensum, arbeidskrav og eksamensformer.
+- Studenter i permisjon er selv ansvarlig for å holde seg orientert om endringer i frister og regler for fag- og studieplaner, samt foreta eventuelle fagvalg.
+- Dersom studenten ikke ønsker å gjenoppta plassen etter endt permisjon, må vedkommende sende HLT en skriftlig oppsigelse.
+- Studenter som ønsker å avlegge eksamen i permisjonstiden, må søke HLT om dette. Ved innvilgelse må studenten selv melde seg opp til eksamen innen gjeldende frister.
+- Før gjenopptakelse av studiene må man så tidlig som mulig kontakte studieveileder for å få laget en revidert utdanningsplan.
 
 ## Kapittel 4: Eksamen og vitnemål
 
@@ -142,11 +148,24 @@ HLT skal sørge for at studentenes kunnskaper og ferdigheter blir prøvd og vurd
 
 ### § 4-2. Eksamensrett
 
-Studenten har adgang til å avlegge eksamen dersom samtlige av følgende betingelser er tilfredsstilt:registrert som eksamenspåmeldt ved fristens utløpgjennomført færre enn 3 – tre – eksamensforsøk i det aktuelle emne/kursbetalt forfalt studie- og semesteravgift og eventuell eksamensavgifttilstrekkelig frammøte i henhold til [kapittel 5](forskrift/2019-09-23-1468/kap5).
+Studenten har adgang til å avlegge eksamen dersom samtlige av følgende betingelser er tilfredsstilt:
+
+- registrert som eksamenspåmeldt ved fristens utløp
+- gjennomført færre enn 3 – tre – eksamensforsøk i det aktuelle emne/kurs
+- betalt forfalt studie- og semesteravgift og eventuell eksamensavgift
+- tilstrekkelig frammøte i henhold til [kapittel 5](forskrift/2019-09-23-1468/kap5).
 
 ### § 4-3. Eksamensformer
 
-Eksamen kan bestå av en eller flere evalueringsformer. Evalueringsform og vektingen av disse angis i de ulike emnebeskrivelsene. De vanligste eksamensformene er:Skriftlig skoleeksamenMuntlig eksamenInnlevering av oppgave – individuelt eller som gruppe72-timers hjemmeeksamenRefleksjonsnotat/rapportFlervalgsprøveBacheloroppgave.
+Eksamen kan bestå av en eller flere evalueringsformer. Evalueringsform og vektingen av disse angis i de ulike emnebeskrivelsene. De vanligste eksamensformene er:
+
+- Skriftlig skoleeksamen
+- Muntlig eksamen
+- Innlevering av oppgave – individuelt eller som gruppe
+- 72-timers hjemmeeksamen
+- Refleksjonsnotat/rapport
+- Flervalgsprøve
+- Bacheloroppgave.
 
 Rammer mv. for eksamen framgår av emneplanen. Faglig leder kan gi nærmere retningslinjer.
 
@@ -186,7 +205,13 @@ Hvis reisetiden til HLT er lengere enn 3 timer, kan studenten søke om desentral
 
 I spesielle tilfeller og etter begrunnet søknad kan HLT fravike de vanlige eksamensordningene. Slike unntak kan være funksjonshemming, sykdom, dysleksi e.l. som tilsier at en annen eksamensform vil gi studenten bedre mulighet til å få vist sin reelle kompetanse. Det skal i slike tilfeller foreligge legeattest eller annen erklæring. Sensor skal informeres hvis det er gjennomført eksamen på spesielle vilkår.
 
-Eksempler på tilrettelagte eksamener er:Utvidet eksamenstidBruk av ekstra hjelpemidler, f.eks. pc med rettskrivningsprogram, ergonomisk utstyrSensor vil se bort fra rettskrivingenOpplesing av eller forstørret skrift på oppgavenAnnen eksamensform, f.eks. muntlig istedenfor skriftlig eksamen – eller omvendt, eller skriftlig 72-timers hjemmeeksamen istedenfor skoleeksamen.
+Eksempler på tilrettelagte eksamener er:
+
+- Utvidet eksamenstid
+- Bruk av ekstra hjelpemidler, f.eks. pc med rettskrivningsprogram, ergonomisk utstyr
+- Sensor vil se bort fra rettskrivingen
+- Opplesing av eller forstørret skrift på oppgaven
+- Annen eksamensform, f.eks. muntlig istedenfor skriftlig eksamen – eller omvendt, eller skriftlig 72-timers hjemmeeksamen istedenfor skoleeksamen.
 
 Søknadsskjema finnes på HLTs nettside. Studenter må søker innen gjeldende frister.
 
@@ -212,7 +237,10 @@ Fusk er opptreden i strid med reglene for eksamensavvikling, og som på en urett
 
 HLT ser svært alvorlig på fusk. Det er et grovt tillitsbrudd i forhold til HLT, og usolidarisk overfor medstudenter. Fusk må møtes med strenge sanksjoner ut fra hensynet til medstudenter, framtidige arbeidsgivere og HLTs omdømme som utdanningsinstitusjon. HLT behandler fusk og forsøk på fusk (heretter kalt fusk) i henhold til [lov om universiteter og høyskoler (UH-loven), § 4-7](lov/2005-04-01-15/§4-7) og [§ 4-8](lov/2005-04-01-15/§4-8).
 
-Fusk kan medføre alvorlige konsekvenser for studenten. Hvis HLTs klagenemnd finner at en student har fusket, kan de fatte vedtak med følgende reaksjonsformer:Annullering av eksamen eller prøve eller godkjenning av kurs (§ 4-7)Utestenging fra institusjonen og tap av retten til å gå opp til eksamen ved institusjonen og andre universiteter og høyskoler i opptil ett år (§ 4-8).
+Fusk kan medføre alvorlige konsekvenser for studenten. Hvis HLTs klagenemnd finner at en student har fusket, kan de fatte vedtak med følgende reaksjonsformer:
+
+- Annullering av eksamen eller prøve eller godkjenning av kurs (§ 4-7)
+- Utestenging fra institusjonen og tap av retten til å gå opp til eksamen ved institusjonen og andre universiteter og høyskoler i opptil ett år (§ 4-8).
 
 ### § 4-12. Rett til begrunnelse
 
@@ -262,6 +290,12 @@ Denne forskriften trer i kraft 1. oktober 2019. Samtidig oppheves [forskrift 9. 
 
 ### § 6-2. Aktuelle lover og forskrifter
 
-- Lov om universiteter og høyskoler[lovdata.no/lov/20050401-015.html](https://lovdata.no/lov/2005-04-01-15)
-- Straffeloven[lovdata.no/lov/2005-05-20-28](https://lovdata.no/lov/2005-05-20-28)
-- Forskrift om opptak til høgre utdanning[lovdata.no/forskrift/2017-01-06-13](https://lovdata.no/forskrift/2017-01-06-13)
+- Lov om universiteter og høyskoler
+
+  [lovdata.no/lov/20050401-015.html](https://lovdata.no/lov/2005-04-01-15)
+- Straffeloven
+
+  [lovdata.no/lov/2005-05-20-28](https://lovdata.no/lov/2005-05-20-28)
+- Forskrift om opptak til høgre utdanning
+
+  [lovdata.no/forskrift/2017-01-06-13](https://lovdata.no/forskrift/2017-01-06-13)

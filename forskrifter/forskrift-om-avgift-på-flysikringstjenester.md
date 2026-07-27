@@ -15,7 +15,7 @@ xml_hash: "2eb2356fb3dbb7909527248e15911ef43c3d8cd5a94b048b1b09ff6f0e471810"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,14 @@ eu_basis: []
 
 ### § 4. Avgiftsfritak
 
-(1) I tillegg til avgiftsfritak for flygninger nevnt i ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 3, skal det heller ikke betales underveisavgift og terminalavgift etter denne forskriften for:Flygninger utført av fartøy med militært registreringsmerke som nevnt i ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 4 bokstav a på Andøya lufthavn og Bardufoss lufthavn.Kalibreringsflygninger, jf. ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 4 bokstav c;Rundflygninger, jf. ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 4 bokstav d;VFR-flygninger, jf. ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 4 bokstav e;Humanitære flygninger, jf. ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 4 bokstav f; ogFlygninger innen Svalbard og Jan Mayen.
+(1) I tillegg til avgiftsfritak for flygninger nevnt i ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 3, skal det heller ikke betales underveisavgift og terminalavgift etter denne forskriften for:
+
+1. Flygninger utført av fartøy med militært registreringsmerke som nevnt i ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 4 bokstav a på Andøya lufthavn og Bardufoss lufthavn.
+2. Kalibreringsflygninger, jf. ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 4 bokstav c;
+3. Rundflygninger, jf. ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 4 bokstav d;
+4. VFR-flygninger, jf. ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 4 bokstav e;
+5. Humanitære flygninger, jf. ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 4 bokstav f; og
+6. Flygninger innen Svalbard og Jan Mayen.
 
 (2) Kostnadene relatert til avgiftsfritaket etter første ledd skal bæres av Avinor AS med mindre det på annen måte er sørget for kostnadsdekning, jf. ytelsesstyrings- og avgiftsforordningen artikkel 31 nr. 6.
 
@@ -186,7 +193,12 @@ Samferdselsdepartementet kan dispensere fra kravene i forskriften i den grad det
 
 *Terminalavgiftssone A*
 
-Det samlede luftrommet hvor det ytes terminalflysikringstjenester til flygninger til følgende lufthavner:Bergen lufthavn, FleslandOslo lufthavn, GardermoenStavanger lufthavn, SolaTrondheim lufthavn, Værnes.
+Det samlede luftrommet hvor det ytes terminalflysikringstjenester til flygninger til følgende lufthavner:
+
+- Bergen lufthavn, Flesland
+- Oslo lufthavn, Gardermoen
+- Stavanger lufthavn, Sola
+- Trondheim lufthavn, Værnes.
 
 *Underveisavgiftssone*
 

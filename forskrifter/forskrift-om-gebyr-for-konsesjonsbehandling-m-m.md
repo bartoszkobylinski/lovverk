@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1.
 
-Det skal betales gebyr for behandlingen av følgende saker:Søknader om konsesjon (ervervstillatelse) etter [lov 28. november 2003 nr. 98](lov/2003-11-28-98) om konsesjon ved erverv av fast eiendom (konsesjonsloven) mv. [§ 2](lov/2003-11-28-98/§2) og [§ 3](lov/2003-11-28-98/§3).Søknader om delingssamtykke etter [lov om jord 12. mai 1995 nr. 23 § 12](lov/1995-05-12-23/§12).
+Det skal betales gebyr for behandlingen av følgende saker:
+
+1. Søknader om konsesjon (ervervstillatelse) etter [lov 28. november 2003 nr. 98](lov/2003-11-28-98) om konsesjon ved erverv av fast eiendom (konsesjonsloven) mv. [§ 2](lov/2003-11-28-98/§2) og [§ 3](lov/2003-11-28-98/§3).
+2. Søknader om delingssamtykke etter [lov om jord 12. mai 1995 nr. 23 § 12](lov/1995-05-12-23/§12).
 
 Gebyret kreves inn av kommunen i alle saker. Kommunen skal ikke betale gebyr til seg selv.
 

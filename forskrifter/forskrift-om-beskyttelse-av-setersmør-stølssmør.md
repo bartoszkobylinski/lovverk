@@ -15,7 +15,7 @@ xml_hash: "0339ecdda3b605de6597d793e8fd01257c16d2b61e00fec743b31f09f81b7047"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,10 +28,32 @@ Setersmør/Stølssmør.
 
 ## § 2. Produksjonsmetode
 
-1. *Produktbeskrivelse*Setersmør/Stølssmør er smør foredlet på seter av syrnet fløte/rømme fremstilt av melk produsert av kyr på seterbeite.Setersmør/Stølssmør har en myk konsistens og en sterk gul farge. Det er tradisjonelt saltere enn vanlig smør.
-2. *Produksjonssted*Setersmør/Stølssmør skal være foredlet på en seter eller i en småskala foredlingsenhet i tilknytning til en seter. Seter defineres her som et produksjonssted for melk beliggende i fjellet og utenfor gårdens driftssenter. Setra skal ha tilgang til beite i utmark. Setergrend/stølslag omfattes også av definisjonen.I de tilfeller der melka tradisjonelt har blitt fraktet ned til gården på grunn av kort avstand til gårdsbebyggelsen, gjelder ikke kravet om foredling på seter.
-3. *Beite og melkeråvare*Melk som brukes til fremstilling av Setersmør/Stølssmør skal komme fra kyr som har beitet på seterbeite. Seterbeite defineres her som utmarksbeite og naturbeitemark i tilknytning til setra.Minimum 70 % av tørrstoffet i kyrnes daglige fôropptak skal komme fra seterbeite, tilsvarende et kraftfôropptak på maksimum 27,5 kg kraftfôr per ku per 100 kg energikorrigert melk (EKM). Beiteopptaket må være tilstrekkelig og over 65 MJ per ku per dag. For kyr med høyere dagsavdrått enn 15 kg anbefales en kraftfôrmengde på 10 kg per 100 kg EKM. Kraftfôrforbruket per ku skal loggføres daglig.Før melken kan brukes til fremstilling av Setersmør/Stølssmør skal dyra ha beitet minimum 14 dager på utmarksbeite og/eller naturbeitemark.
-4. *Foredling*Melken skal separeres rett etter melking mens den ennå er spenevarm. Fløten fra separeringen skal syrnes til ønsket pH. Rømmen skal lagres kaldt ved 4 °C.Før kinning skal temperaturen i rømmen heves til 8–16 °C. Kinningen er ferdig når fettet har skilt seg fra kjernemelken og fettkulene klumper seg sammen til smørkorn. Saupet/kjernemelken skal tappes ut og smøret skal skylles med rent vann inntil vannet er helt transparent og sauprestene er borte.Til slutt eltes overflødig vann ut av smøret, smøret vaskes og salt eltes inn i smøret. Saltmengden kan være mellom 1–2,5 %. Setersmør/Stølssmør kan også være uvasket.Deretter pakkes smøret og kjøle- eller fryselagres.
+1. *Produktbeskrivelse*
+
+   Setersmør/Stølssmør er smør foredlet på seter av syrnet fløte/rømme fremstilt av melk produsert av kyr på seterbeite.
+
+   Setersmør/Stølssmør har en myk konsistens og en sterk gul farge. Det er tradisjonelt saltere enn vanlig smør.
+2. *Produksjonssted*
+
+   Setersmør/Stølssmør skal være foredlet på en seter eller i en småskala foredlingsenhet i tilknytning til en seter. Seter defineres her som et produksjonssted for melk beliggende i fjellet og utenfor gårdens driftssenter. Setra skal ha tilgang til beite i utmark. Setergrend/stølslag omfattes også av definisjonen.
+
+   I de tilfeller der melka tradisjonelt har blitt fraktet ned til gården på grunn av kort avstand til gårdsbebyggelsen, gjelder ikke kravet om foredling på seter.
+3. *Beite og melkeråvare*
+
+   Melk som brukes til fremstilling av Setersmør/Stølssmør skal komme fra kyr som har beitet på seterbeite. Seterbeite defineres her som utmarksbeite og naturbeitemark i tilknytning til setra.
+
+   Minimum 70 % av tørrstoffet i kyrnes daglige fôropptak skal komme fra seterbeite, tilsvarende et kraftfôropptak på maksimum 27,5 kg kraftfôr per ku per 100 kg energikorrigert melk (EKM). Beiteopptaket må være tilstrekkelig og over 65 MJ per ku per dag. For kyr med høyere dagsavdrått enn 15 kg anbefales en kraftfôrmengde på 10 kg per 100 kg EKM. Kraftfôrforbruket per ku skal loggføres daglig.
+
+   Før melken kan brukes til fremstilling av Setersmør/Stølssmør skal dyra ha beitet minimum 14 dager på utmarksbeite og/eller naturbeitemark.
+4. *Foredling*
+
+   Melken skal separeres rett etter melking mens den ennå er spenevarm. Fløten fra separeringen skal syrnes til ønsket pH. Rømmen skal lagres kaldt ved 4 °C.
+
+   Før kinning skal temperaturen i rømmen heves til 8–16 °C. Kinningen er ferdig når fettet har skilt seg fra kjernemelken og fettkulene klumper seg sammen til smørkorn. Saupet/kjernemelken skal tappes ut og smøret skal skylles med rent vann inntil vannet er helt transparent og sauprestene er borte.
+
+   Til slutt eltes overflødig vann ut av smøret, smøret vaskes og salt eltes inn i smøret. Saltmengden kan være mellom 1–2,5 %. Setersmør/Stølssmør kan også være uvasket.
+
+   Deretter pakkes smøret og kjøle- eller fryselagres.
 
 ## § 3. Merking
 

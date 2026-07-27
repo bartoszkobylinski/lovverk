@@ -23,4 +23,6 @@ eu_basis: []
 # Forskrift om oppheving av forskrift om arealtilskott til privateide skoler, kirker utenfor Den Norske Kirke.
 
 1. I samsvar med Stortingets vedtak av 16. desember 1986 oppheves med virkning fra 1. januar 1987 forskrift om arealtilskott til privateide skoler, kirker utenfor den norske kirke m.v., gitt ved kgl.res. av 12. desember 1975 med endringer gitt ved [kgl.res. av 6. mai 1983 nr. 926](forskrift/1983-05-06-926) og [8. juli 1983 nr. 1248](forskrift/1983-07-08-1248).
-2. Søknader om arealtilskudd blir likevel å behandle i samsvar med forskriften dersom byggearbeidet er fullført før 1. juli 1987 og søknaden er innkommet til fylkesskattesjefen før 1. august 1987.Som fullført regnes bygning som i henhold til plan- og bygningslovens § 99 er gitt ferdigattest eller midlertidig brukstillatelse.
+2. Søknader om arealtilskudd blir likevel å behandle i samsvar med forskriften dersom byggearbeidet er fullført før 1. juli 1987 og søknaden er innkommet til fylkesskattesjefen før 1. august 1987.
+
+   Som fullført regnes bygning som i henhold til plan- og bygningslovens § 99 er gitt ferdigattest eller midlertidig brukstillatelse.

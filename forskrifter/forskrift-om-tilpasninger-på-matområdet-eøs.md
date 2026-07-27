@@ -28,7 +28,10 @@ eu_basis: []
 
 Formålet med denne forskriften er å gjennomføre innenfor matlovens virkeområde de endringer i EØS-avtalen vedlegg I kapittel I, II og III, vedlegg II kapittel XII, XIII, XIV, XV og XXVII, vedlegg XX [kapittel II](lov/1992-11-27-109/kapii) og protokoll 47 som følger av Avtale 25. juli 2007 om Republikken Bulgarias og Romanias deltakelse i Det europeiske økonomiske samarbeidsområdet (EØS-utvidelsesavtalen).
 
-Denne forskrift skal i tilfelle av motstrid gå foranandre forskrifter gitt i medhold av matloven.bestemmelser i matloven, så langt det er nødvendig for å oppfylle Norges forpliktelser som følge av EØS-avtalen, som endret ved EØS-utvidelsesavtalen.
+Denne forskrift skal i tilfelle av motstrid gå foran
+
+1. andre forskrifter gitt i medhold av matloven.
+2. bestemmelser i matloven, så langt det er nødvendig for å oppfylle Norges forpliktelser som følge av EØS-avtalen, som endret ved EØS-utvidelsesavtalen.
 
 ## § 2. Endring av status
 

@@ -15,7 +15,7 @@ xml_hash: "a02747d23532d6fd1c9b1e0cc37e2e8bbcea58f127fd8689c75fa21a4fce0b3a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,19 +34,40 @@ Denne forskriften gjelder for Norge, herunder Svalbard.
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med*barn:* Personer under 18 år.*markedsføring:* Enhver form for kommunikasjon eller handling i markedsføringsøyemed. Det foreligger markedsføringsøyemed dersom hensiktenmed kommunikasjonen eller handlingen er å fremme omsetning overfor forbrukere.*sponsing:* Enhver form for offentlig eller privat bidrag til et arrangement, en virksomhet eller en person med den hensikt å fremme omsetning av produkter overfor forbrukere.
+I denne forskriften menes med
+
+1. *barn:* Personer under 18 år.
+2. *markedsføring:* Enhver form for kommunikasjon eller handling i markedsføringsøyemed. Det foreligger markedsføringsøyemed dersom hensiktenmed kommunikasjonen eller handlingen er å fremme omsetning overfor forbrukere.
+3. *sponsing:* Enhver form for offentlig eller privat bidrag til et arrangement, en virksomhet eller en person med den hensikt å fremme omsetning av produkter overfor forbrukere.
 
 ## § 4. Markedsføringsforbud
 
 Markedsføring av produkter omfattet av [vedlegg I](forskrift/2025-04-25-684/vedleggI) særlig rettet mot barn, er forbudt. Uavhengig av om markedsføringen er særlig rettet mot barn, skal markedsføring av slike produkter ikke forekomme på en måte som oppfordrer voksne til å kjøpe produktet til barn.
 
-Følgende markedsføring av produkter omfattet av [vedlegg I](forskrift/2025-04-25-684/vedleggI) skal alltid anses å være særlig rettet mot barn:reklame på kino i tilknytning til filmer som er særlig rettet mot barn under 13 år, og som starter før kl. 18.30konkurranser med aldersgrense lavere enn 18 årutdeling av smaksprøver og vareprøver til barn.
+Følgende markedsføring av produkter omfattet av [vedlegg I](forskrift/2025-04-25-684/vedleggI) skal alltid anses å være særlig rettet mot barn:
 
-Ved vurdering av om annen markedsføring av produkter omfattet av [vedlegg I](forskrift/2025-04-25-684/vedleggI) er særlig rettet mot barn, skal det foretas en helhetsvurdering, hvor det blant annet kan legges vekt på:om produktet primært konsumeres av eller særlig kan appellere til barnom markedsføringen har en presentasjonsform, innhold eller utforming som særlig kan appellere til barn, for eksempel på grunn av språk, farger, effekter, bildebruk, bruk av animasjon eller tegnede figurertid og sted for markedsføringenom det medvirker barn eller personer som særlig kan appellere til barnbruk av gaver, leker, kuponger, rabatter, samleobjekter, konkurranser eller spill som særlig kan appellere til barn.
+1. reklame på kino i tilknytning til filmer som er særlig rettet mot barn under 13 år, og som starter før kl. 18.30
+2. konkurranser med aldersgrense lavere enn 18 år
+3. utdeling av smaksprøver og vareprøver til barn.
+
+Ved vurdering av om annen markedsføring av produkter omfattet av [vedlegg I](forskrift/2025-04-25-684/vedleggI) er særlig rettet mot barn, skal det foretas en helhetsvurdering, hvor det blant annet kan legges vekt på:
+
+1. om produktet primært konsumeres av eller særlig kan appellere til barn
+2. om markedsføringen har en presentasjonsform, innhold eller utforming som særlig kan appellere til barn, for eksempel på grunn av språk, farger, effekter, bildebruk, bruk av animasjon eller tegnede figurer
+3. tid og sted for markedsføringen
+4. om det medvirker barn eller personer som særlig kan appellere til barn
+5. bruk av gaver, leker, kuponger, rabatter, samleobjekter, konkurranser eller spill som særlig kan appellere til barn.
 
 ## § 5. Unntak fra markedsføringsforbudet
 
-I den utstrekning et forhold vil rammes av markedsføringsforbudene i [§ 4](forskrift/2025-04-25-684/§4), gjøres følgende unntak:sponsing til ideelle formål, unntatt bidrag med produkter i [vedlegg I](forskrift/2025-04-25-684/vedleggI) næringsmiddelkategori 1–5bruk av sponsors navn og varemerker, unntatt varemerker som gjelder for konkrete produkter i [vedlegg I](forskrift/2025-04-25-684/vedleggI)produktets utformingemballasje og innpakningalminnelig oppstilling av produkter på utsalgsstednøkterne produktopplysninger på nettsider og i tilknytning til utsalgssted.
+I den utstrekning et forhold vil rammes av markedsføringsforbudene i [§ 4](forskrift/2025-04-25-684/§4), gjøres følgende unntak:
+
+1. sponsing til ideelle formål, unntatt bidrag med produkter i [vedlegg I](forskrift/2025-04-25-684/vedleggI) næringsmiddelkategori 1–5
+2. bruk av sponsors navn og varemerker, unntatt varemerker som gjelder for konkrete produkter i [vedlegg I](forskrift/2025-04-25-684/vedleggI)
+3. produktets utforming
+4. emballasje og innpakning
+5. alminnelig oppstilling av produkter på utsalgssted
+6. nøkterne produktopplysninger på nettsider og i tilknytning til utsalgssted.
 
 > Endret ved forskrift [15 aug 2025 nr. 1645](forskrift/2025-08-15-1645).
 

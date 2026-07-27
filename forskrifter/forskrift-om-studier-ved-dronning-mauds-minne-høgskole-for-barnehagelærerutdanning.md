@@ -15,7 +15,7 @@ xml_hash: "045f7cc5d7f79efb4f4ef1b99cc304b7662e9113cc99932de56caaf69d2c61db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -77,7 +77,11 @@ For opptak og rangering til bachelorutdanninger gjelder de regler som departemen
 
 (1) For opptak og rangering til masterutdanning gjelder de regler som departementet har fastsatt i forskrifts form.
 
-(2) For opptak til masterprogram som bygger på en lavere grad må søkeren ha:oppnådd bachelorgrad eller tilsvarende, ogbestått vurdering i minst 80 studiepoeng i fagområdet til den aktuelle mastergraden, spesifisert i studieplanen for det aktuelle masterprogrammet, ogoppfylt øvrige opptakskrav fastsatt i studieplanen for. masterprogrammet. Dersom det er flere kvalifiserte søkere enn antall studieplasser rangeres søkerne som angitt i [§ 2-7](forskrift/2025-06-05-1370/§2-7).
+(2) For opptak til masterprogram som bygger på en lavere grad må søkeren ha:
+
+1. oppnådd bachelorgrad eller tilsvarende, og
+2. bestått vurdering i minst 80 studiepoeng i fagområdet til den aktuelle mastergraden, spesifisert i studieplanen for det aktuelle masterprogrammet, og
+3. oppfylt øvrige opptakskrav fastsatt i studieplanen for. masterprogrammet. Dersom det er flere kvalifiserte søkere enn antall studieplasser rangeres søkerne som angitt i [§ 2-7](forskrift/2025-06-05-1370/§2-7).
 
 (3) For opptak til masterprogram som DMMH tilbyr i samarbeid med andre institusjoner, fremgår det av studieplanen hvem som gjennomfører opptak. Opptak skjer da etter de kriterier som ligger til grunn ved den aktuelle institusjonen.
 
@@ -103,7 +107,13 @@ For opptak og rangering til bachelorutdanninger gjelder de regler som departemen
 
 ### § 2-7. Rangeringskriterier ved lokalt opptak til masterutdanninger og videreutdanninger på masternivå
 
-(1) Dersom det er flere kvalifiserte søkere enn antall studieplasser rangeres søkerne på følgende grunnlag:Søkere med bachelorgrad eller annen utdanning av 180 studiepoengs omfang som er godkjent som opptaksgrunnlag, rangeres på grunnlag av vektet gjennomsnitt av alle eksamener som inngår i denne utdanningen. Ved poenglikhet beregnes også omfang av relevant praksis etter fullført opptaksgrunnlag.For søkere med relevant høyere utdanning som omfatter mer enn 180 studiepoeng, foretas rangeringen på grunnlag av vektet gjennomsnitt av eksamener i graden som helhet. Ved poenglikhet beregnes også omfang av relevant praksis etter fullført opptaksgrunnlag.Dersom søker må dokumentere utdanning i tillegg til bachelorgraden, der både bachelorgrad og tilleggsutdanning samlet gjør søker kvalifisert for studiet, benyttes både bachelorgrad og tilleggsutdanning ved rangering.Søkere som ikke har mulighet til å forbedre karakterer fra sin bachelorutdanning, kan legge ved dokumentasjon på annen relevant høyere utdanning for å forbedre sitt karaktersnitt. Hva som er annen relevant høyere utdanning vil fremgå i studieplanen. Annen relevant utdanning vil inngå i opptaksgrunnlaget, og kan derfor ikke innpasses i det nye studiet.Kvalifiserte søkere som ikke kan poengberegnes, må rangeres i forhold til poengberegnede søkere ved hjelp av individuell skjønnsmessig vurdering. For å få tilbud om opptak kreves likeverdige ferdigheter og kunnskaper med søkere som får tilbud om opptak etter rangering på grunnlag av poengberegning.
+(1) Dersom det er flere kvalifiserte søkere enn antall studieplasser rangeres søkerne på følgende grunnlag:
+
+1. Søkere med bachelorgrad eller annen utdanning av 180 studiepoengs omfang som er godkjent som opptaksgrunnlag, rangeres på grunnlag av vektet gjennomsnitt av alle eksamener som inngår i denne utdanningen. Ved poenglikhet beregnes også omfang av relevant praksis etter fullført opptaksgrunnlag.
+2. For søkere med relevant høyere utdanning som omfatter mer enn 180 studiepoeng, foretas rangeringen på grunnlag av vektet gjennomsnitt av eksamener i graden som helhet. Ved poenglikhet beregnes også omfang av relevant praksis etter fullført opptaksgrunnlag.
+3. Dersom søker må dokumentere utdanning i tillegg til bachelorgraden, der både bachelorgrad og tilleggsutdanning samlet gjør søker kvalifisert for studiet, benyttes både bachelorgrad og tilleggsutdanning ved rangering.
+4. Søkere som ikke har mulighet til å forbedre karakterer fra sin bachelorutdanning, kan legge ved dokumentasjon på annen relevant høyere utdanning for å forbedre sitt karaktersnitt. Hva som er annen relevant høyere utdanning vil fremgå i studieplanen. Annen relevant utdanning vil inngå i opptaksgrunnlaget, og kan derfor ikke innpasses i det nye studiet.
+5. Kvalifiserte søkere som ikke kan poengberegnes, må rangeres i forhold til poengberegnede søkere ved hjelp av individuell skjønnsmessig vurdering. For å få tilbud om opptak kreves likeverdige ferdigheter og kunnskaper med søkere som får tilbud om opptak etter rangering på grunnlag av poengberegning.
 
 (2) Med vektet gjennomsnitt menes gjennomsnittet av alle karakterer på vitnemålet vektet i forhold til antall studiepoeng/vekttall på hvert emne. Ved omregning av karakterer gjelder følgende tabell:
 
@@ -116,11 +126,22 @@ For opptak og rangering til bachelorutdanninger gjelder de regler som departemen
 
 ### § 2-7a. Rangeringskriterier ved lokalt opptak til videreutdanninger på bachelornivå
 
-(1) For studier der rangeringskriterier ikke er fastsatt i rammeplan. Dersom det er flere kvalifiserte søkere enn antall studieplasser rangeres søkerne på følgende grunnlag:For studieprogram hvor opptakskravet er generell studiekompetanse beregnes karakterpoeng og tilleggspoeng etter reglene i [forskrift om opptak til høyere utdanning](forskrift/2017-01-06-13).Kvalifiserte søkere som ikke kan poengberegnes etter denne forskriften og søkere som får godkjent realkompetanse som en del av sitt opptaksgrunnlag, skal rangeres etter en helhetlig og skjønnsmessig vurdering av om søkeren har likeverdige kvalifikasjoner med søkere som tas opp etter rangering på grunnlag av poengberegning.Ved poenglikhet rangeres søkerne ved loddtrekning.
+(1) For studier der rangeringskriterier ikke er fastsatt i rammeplan. Dersom det er flere kvalifiserte søkere enn antall studieplasser rangeres søkerne på følgende grunnlag:
+
+1. For studieprogram hvor opptakskravet er generell studiekompetanse beregnes karakterpoeng og tilleggspoeng etter reglene i [forskrift om opptak til høyere utdanning](forskrift/2017-01-06-13).
+2. Kvalifiserte søkere som ikke kan poengberegnes etter denne forskriften og søkere som får godkjent realkompetanse som en del av sitt opptaksgrunnlag, skal rangeres etter en helhetlig og skjønnsmessig vurdering av om søkeren har likeverdige kvalifikasjoner med søkere som tas opp etter rangering på grunnlag av poengberegning.
+
+Ved poenglikhet rangeres søkerne ved loddtrekning.
 
 ### § 2-8. Realkompetanse
 
-(1) Søkere som er 25 år eller eldre i opptaksåret og som ikke har generell studiekompetanse, kan gis opptak til et bestemt studieprogram dersom de på grunnlag av realkompetanse har de nødvendige kvalifikasjoner for aktuelt studieprogram.For søknad til bachelor i barnehagelærerutdanning må søkere dokumentere fem års arbeid og/eller utdanning hvor minst tre av årene må være relevante for studiet det søkes opptak til. Med relevant praksis menes her arbeid i barnehage, SFO-assistent i grunnskolen eller tilsvarende. Arbeid innen helse-, omsorg-, sosial- eller undervisningssektoren kan regnes som relevant dersom det kan dokumenteres at søkeren har arbeidet med barn. Relevant utdanning er barne- og ungdomsarbeiderutdanning. Allmennfag/studiespesialisering regnes alltid som relevant.Må ha tilstrekkelige ferdigheter i norsk eller annet nordisk språk. Minimum norsk 113 årstimer fra videregående skole eller tilsvarende fra tidligere reformer. Faget må være bestått med karakteren 2 eller bedre.Søkere med morsmål fra et ikke-nordisk land må dokumentere norsk og engelsk i henhold til [forskrift om opptak til høyere utdannings § 2-2](forskrift/2017-01-06-13/§2-2).For søknad til bachelor og/eller videreutdanning i fritidspedagogikk må søkere dokumentere fem års arbeid og/eller utdanning hvor minst tre av årene må være relevante for studiet det søkes opptak til. Med relevant praksis mener man her studiespesialiserende videregående, barne- og ungdomsarbeiderfag i videregående, fagskoleutdanninger innen fagfeltet barn, unge og fritid. Arbeid i barnehage, skole, SFO, kulturskole, kultur og frivillig sektor vil også regnes som relevant.For opptak til enkeltemner på bachelornivå må man dokumentere fem års arbeid og/eller utdanning hvor minst tre av årene må være relevante for emnet det søkes opptak til. Mer utfyllende beskrivelse kan ligge i emnebeskrivelsen ved særskilte krav.
+(1) Søkere som er 25 år eller eldre i opptaksåret og som ikke har generell studiekompetanse, kan gis opptak til et bestemt studieprogram dersom de på grunnlag av realkompetanse har de nødvendige kvalifikasjoner for aktuelt studieprogram.
+
+1. For søknad til bachelor i barnehagelærerutdanning må søkere dokumentere fem års arbeid og/eller utdanning hvor minst tre av årene må være relevante for studiet det søkes opptak til. Med relevant praksis menes her arbeid i barnehage, SFO-assistent i grunnskolen eller tilsvarende. Arbeid innen helse-, omsorg-, sosial- eller undervisningssektoren kan regnes som relevant dersom det kan dokumenteres at søkeren har arbeidet med barn. Relevant utdanning er barne- og ungdomsarbeiderutdanning. Allmennfag/studiespesialisering regnes alltid som relevant.
+2. Må ha tilstrekkelige ferdigheter i norsk eller annet nordisk språk. Minimum norsk 113 årstimer fra videregående skole eller tilsvarende fra tidligere reformer. Faget må være bestått med karakteren 2 eller bedre.
+3. Søkere med morsmål fra et ikke-nordisk land må dokumentere norsk og engelsk i henhold til [forskrift om opptak til høyere utdannings § 2-2](forskrift/2017-01-06-13/§2-2).
+4. For søknad til bachelor og/eller videreutdanning i fritidspedagogikk må søkere dokumentere fem års arbeid og/eller utdanning hvor minst tre av årene må være relevante for studiet det søkes opptak til. Med relevant praksis mener man her studiespesialiserende videregående, barne- og ungdomsarbeiderfag i videregående, fagskoleutdanninger innen fagfeltet barn, unge og fritid. Arbeid i barnehage, skole, SFO, kulturskole, kultur og frivillig sektor vil også regnes som relevant.
+5. For opptak til enkeltemner på bachelornivå må man dokumentere fem års arbeid og/eller utdanning hvor minst tre av årene må være relevante for emnet det søkes opptak til. Mer utfyllende beskrivelse kan ligge i emnebeskrivelsen ved særskilte krav.
 
 (2) Studenter tatt opp på bakgrunn av realkompetanse kan gis begrenset studierett.
 
@@ -194,13 +215,28 @@ Søkere som er ansatt i barnehage og skole og som får støtte fra eier til å t
 
 ### § 3-2. Opphør av studierett
 
-(1) Studieretten opphører når:studenten har fullført studiet og fått utstedt vitnemål eller annet dokument som bekrefter fullføring av studieprogramstudenten selv bekrefter at han eller hun trekker seg fra studietdet dobbelte av normert studietid for studieprogrammet har gått, uavhengig av om studenten har fullført studiet.
+(1) Studieretten opphører når:
 
-(2) Ved beregning av studierettens varighet etter punkt c, skal følgende ikke telle medPermisjonstid etter [§ 3-6](forskrift/2025-06-05-1370/§3-6)Utestengelse.
+1. studenten har fullført studiet og fått utstedt vitnemål eller annet dokument som bekrefter fullføring av studieprogram
+2. studenten selv bekrefter at han eller hun trekker seg fra studiet
+3. det dobbelte av normert studietid for studieprogrammet har gått, uavhengig av om studenten har fullført studiet.
+
+(2) Ved beregning av studierettens varighet etter punkt c, skal følgende ikke telle med
+
+1. Permisjonstid etter [§ 3-6](forskrift/2025-06-05-1370/§3-6)
+2. Utestengelse.
 
 ### § 3-3. Tap av studierett
 
-Studieretten kan fratas når:studenten ikke har betalt semesteravgift eller annen pålagt avgift, i henhold til fastsatt frist.studenten ikke har bekreftet utdanningsplan i henhold til fastsatt frist.studenten har brukt opp sine forsøk på eksamen i et emne.studenten ikke består sitt andre forsøk i et praksisemne.studenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurt.det er klart at studenten av andre årsaker ikke vil kunne fullføre studiet.studenten ikke møter til semesterstart og ikke har varslet om dette fraværet.
+Studieretten kan fratas når:
+
+1. studenten ikke har betalt semesteravgift eller annen pålagt avgift, i henhold til fastsatt frist.
+2. studenten ikke har bekreftet utdanningsplan i henhold til fastsatt frist.
+3. studenten har brukt opp sine forsøk på eksamen i et emne.
+4. studenten ikke består sitt andre forsøk i et praksisemne.
+5. studenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurt.
+6. det er klart at studenten av andre årsaker ikke vil kunne fullføre studiet.
+7. studenten ikke møter til semesterstart og ikke har varslet om dette fraværet.
 
 ### § 3-4. Studieprogresjon
 
@@ -286,7 +322,14 @@ Ved godskriving av utdanning som tidligere har inngått i beregningsgrunnlaget f
 
 ### § 5-2. Adgang til eksamen
 
-(1) For å få eksamensadgang må studenten:ha studierett ogha betalt de aktuelle avgifter ogha meldt seg til vurdering innen de gitte frister ogha bestått aktuelle arbeidskrav ogha bestått eventuelle forkunnskapskrav.ha deltatt på eventuell obligatorisk aktivitet tilknyttet eksamensgjennomføringen som fremgår av emneplanen.
+(1) For å få eksamensadgang må studenten:
+
+1. ha studierett og
+2. ha betalt de aktuelle avgifter og
+3. ha meldt seg til vurdering innen de gitte frister og
+4. ha bestått aktuelle arbeidskrav og
+5. ha bestått eventuelle forkunnskapskrav.
+6. ha deltatt på eventuell obligatorisk aktivitet tilknyttet eksamensgjennomføringen som fremgår av emneplanen.
 
 (2) Ved forbedring av karakter melder kandidaten seg opp til de deleksamenene eller eksamener som er aktuelle. Kandidaten ilegges en særskilt eksamensavgift som må være betalt før adgang til eksamen kan gis.
 
@@ -308,13 +351,23 @@ Ved godskriving av utdanning som tidligere har inngått i beregningsgrunnlaget f
 
 (2) Dokumentasjon på gyldig fravær må være DMMH i hende senest 3 virkedager etter eksamensslutt.
 
-(3) Studenten regnes som «ikke møtt» og har brukt et eksamensforsøk når:Studenten ikke møter til eksamen innen de gitte tidsfristerStudenten ikke leverer eksamensbesvarelsen innen de gitte tidsfristerStudenten ikke leverer eksamensbesvarelsen i tråd med gjeldende regelverk for levering av eksamen.
+(3) Studenten regnes som «ikke møtt» og har brukt et eksamensforsøk når:
+
+1. Studenten ikke møter til eksamen innen de gitte tidsfrister
+2. Studenten ikke leverer eksamensbesvarelsen innen de gitte tidsfrister
+3. Studenten ikke leverer eksamensbesvarelsen i tråd med gjeldende regelverk for levering av eksamen.
 
 (4) Ved dokumentert sykdom eller annen tungtveiende og dokumentert årsak som oppstår i løpet av de siste fem virkedagene før innlevering, kan det ved søknad innvilges inntil en uke utsatt innlevering av eksamensmappe eller oppgave. Slik søknad må være eksamenskontoret i hende senest siste virkedag før innleveringsdag.
 
 ### § 5-5. Ny/utsatt eksamen
 
-Følgende studenter har rett til ny/utsatt eksamen dersom det tilbys for den aktuelle eksamenen:Studenter som har gyldig fravær ved første ordinær eksamensavvikling studenten har adgang til.Studenter som vurderes til ikke bestått karakter ved første ordinær eksamensavvikling i emnet.Studenter som på grunn av utvekslingsopphold eller deltidsstudier i regi av DMMH ikke har kunnet avlegge eksamen ved ordinær eksamensavvikling i emnet.Studenter som på grunn av utsatt praksis ikke har kunnet avlegge eksamen ved ordinær eksamensavvikling i emnet.Forutsatt at ny/utsatt eksamen likevel må avvikles, studenter som ønsker å forbedre tidligere eksamensresultat.
+Følgende studenter har rett til ny/utsatt eksamen dersom det tilbys for den aktuelle eksamenen:
+
+1. Studenter som har gyldig fravær ved første ordinær eksamensavvikling studenten har adgang til.
+2. Studenter som vurderes til ikke bestått karakter ved første ordinær eksamensavvikling i emnet.
+3. Studenter som på grunn av utvekslingsopphold eller deltidsstudier i regi av DMMH ikke har kunnet avlegge eksamen ved ordinær eksamensavvikling i emnet.
+4. Studenter som på grunn av utsatt praksis ikke har kunnet avlegge eksamen ved ordinær eksamensavvikling i emnet.
+5. Forutsatt at ny/utsatt eksamen likevel må avvikles, studenter som ønsker å forbedre tidligere eksamensresultat.
 
 ### § 5-6. Antall forsøk
 
@@ -389,7 +442,11 @@ Følgende studenter har rett til ny/utsatt eksamen dersom det tilbys for den akt
 
 (3) Det skal være minst to sensorer, hvorav minst én ekstern, ved bedømmelse av masteroppgave.
 
-(4) For å kunne bekle rollen som ekstern sensor må personen i tillegg til å være faglig kvalifisert, oppfylle følgende kriterier:er ikke tilsatt ved DMMHhar ikke vært tilsatt ved DMMH i studieåret den aktuelle eksamen tilhørerhar ikke undervist eller veiledet på det aktuelle studieprogrammet det studieåret den aktuelle eksamen tilhører.
+(4) For å kunne bekle rollen som ekstern sensor må personen i tillegg til å være faglig kvalifisert, oppfylle følgende kriterier:
+
+1. er ikke tilsatt ved DMMH
+2. har ikke vært tilsatt ved DMMH i studieåret den aktuelle eksamen tilhører
+3. har ikke undervist eller veiledet på det aktuelle studieprogrammet det studieåret den aktuelle eksamen tilhører.
 
 (5) Det skal utarbeides sensorveiledning eller løsningsforslag i forbindelse med sensur av alle skriftlige eksamener unntatt flervalgseksamen. Sensorveiledningen eller løsningsforslaget skal være tilgjengelig for sensor før vurderingen starter og tilgjengelig for studentene når sensur foreligger.
 
@@ -425,7 +482,15 @@ Følgende studenter har rett til ny/utsatt eksamen dersom det tilbys for den akt
 
 (1) Fusk og forsøk på fusk behandles etter de til enhver tid gjeldende regler i [universitets- og høyskoleloven](lov/2024-03-08-9).
 
-(2) Som fusk eller forsøk på fusk ved eksamen, obligatoriske arbeidskrav eller i studieløpet for øvrig regnes blant annet:benytte eller ha tilgjengelig andre hjelpemidler enn de som er tillatt ved den bestemte eksamenplagiering, presentere andres arbeid som sitt egetselvplagiering, presenterer eget tidligere arbeid som har gitt uttelling uten referanseureglementert samarbeid mellom kandidater eller grupperurettmessig å ha skaffet seg adgang til eksamenÅ generere besvarelse ved hjelp av kunstig intelligens, og levere den helt eller delvis som egen besvarelse, dersom ikke annet er opplyst for den enkelte eksamenpå annen måte handlet slik at det urettmessig kan gi fordeler ved eksamen, arbeidskrav eller i studieløpet for øvrig.
+(2) Som fusk eller forsøk på fusk ved eksamen, obligatoriske arbeidskrav eller i studieløpet for øvrig regnes blant annet:
+
+1. benytte eller ha tilgjengelig andre hjelpemidler enn de som er tillatt ved den bestemte eksamen
+2. plagiering, presentere andres arbeid som sitt eget
+3. selvplagiering, presenterer eget tidligere arbeid som har gitt uttelling uten referanse
+4. ureglementert samarbeid mellom kandidater eller grupper
+5. urettmessig å ha skaffet seg adgang til eksamen
+6. Å generere besvarelse ved hjelp av kunstig intelligens, og levere den helt eller delvis som egen besvarelse, dersom ikke annet er opplyst for den enkelte eksamen
+7. på annen måte handlet slik at det urettmessig kan gi fordeler ved eksamen, arbeidskrav eller i studieløpet for øvrig.
 
 (3) Rektor fremmer sak ved mistanke om fusk eller forsøk på fusk.
 
@@ -453,7 +518,10 @@ Det gjennomføres plagiatkontroll av innleverte eksamensbesvarelser og annet stu
 
 ### § 6-2. Tilrettelegging av praksis
 
-(1) Det kan etter søknad innvilges tilrettelegging i praksis ut fra dokumenterte behov. Tilrettelegging kan gis på følgende grunnlag:Studenter som har forsørgeransvar for barn under 12 år. Aleneforsørgere prioriteres.Studenter som av medisinske eller andre grunner har behov for spesiell plassering i praksis.
+(1) Det kan etter søknad innvilges tilrettelegging i praksis ut fra dokumenterte behov. Tilrettelegging kan gis på følgende grunnlag:
+
+1. Studenter som har forsørgeransvar for barn under 12 år. Aleneforsørgere prioriteres.
+2. Studenter som av medisinske eller andre grunner har behov for spesiell plassering i praksis.
 
 (2) Praksisplass på særskilt grunnlag omfatter kun de barnehager som DMMH har ordinær avtale med.
 
@@ -525,7 +593,14 @@ Søknader om dispensasjon fra forskrift avgjøres av Rektor selv.
 
 ### § 8-2. Høgskolens nemnd for studentsaker
 
-Høgskolens nemnd for studentsaker avgjør:klager over enkeltvedtak i henhold til denne forskrift, der ikke annet er angittklager på formelle feil ved praksisklager på formelle feil ved eksamensaker med mistanke om fusk eller forsøk på fusksaker med merknad på politiattestvedtak om skikkethet.
+Høgskolens nemnd for studentsaker avgjør:
+
+1. klager over enkeltvedtak i henhold til denne forskrift, der ikke annet er angitt
+2. klager på formelle feil ved praksis
+3. klager på formelle feil ved eksamen
+4. saker med mistanke om fusk eller forsøk på fusk
+5. saker med merknad på politiattest
+6. vedtak om skikkethet.
 
 ### § 8-3. Skikkethet
 

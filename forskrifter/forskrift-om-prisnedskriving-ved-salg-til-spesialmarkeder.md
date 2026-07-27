@@ -15,7 +15,7 @@ xml_hash: "0b63b9fe72f8f48a2ebe14ed03bf1d7d8dada92aee28f164a6a8d8e2788ac597"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,14 @@ Forskriften får ikke anvendelse på produkter omfattet av protokoll 3 til EØS-
 
 ## § 3. Definisjoner
 
-I denne forskriften legges følgende definisjoner til grunn:*Markedsregulator:* Nortura SA og Tine SA.*Egg:* Skallegg.*Eggprodukter:* Heleggpulver, heleggmasse, eggehvite (fersk og frossen) og eggeplomme.*Naturell yoghurt:* Yoghurt er et melkeprodukt av høypasteurisert melk som er syrnet ved hjelp av melkesyrebakteriene *Lactobacillus bulgaricus* og *Streptococcus thermophilus*. Naturell yoghurt er uten andre tilsetninger.*Smør:* Naturlig smør, mysesmør eller rekombinert smør (ferskt, saltet eller harskt) fremstilt utelukkende fra melk, med et melkefettinnhold på 80 vektprosent eller mer, men høyst 95 vektprosent, med et innhold av råprotein, sukker og salt på høyst 2 vektprosent og med et vanninnhold på høyst 16 vektprosent. Smør inneholder ikke tilsatte emulgeringsmidler, men kan inneholde natriumklorid, fargestoffer, nøytraliseringssalter og harmløse melkesyreproduserende bakterier.*Hvitost:* Modnede halvfaste, harde eller ekstra harde produkter som kan være belagt (med film eller voks etc.). Osten skal fremstilles ved delvis eller fullstendig koagulering av proteinene i melk (helmelk, delvis skummet melk, fløte, kjernemelk eller kombinasjoner av disse), ved løpe eller andre koaguleringsmidler, og ved delvis drenering av myse som oppstår etter koaguleringen. Ost fremstilles altså ved konsentrering av melkeproteiner, særlig kaseinene, og proteininnholdet er dermed høyere enn i melk. Smelteoster fremstilt av faste guloster som rives og tilsettes vann og smeltesalter før varmebehandling kommer ikke inn under denne definisjonen av ost. Gammelost og pultost er heller ikke omfattet av hvitost.
+I denne forskriften legges følgende definisjoner til grunn:
+
+- *Markedsregulator:* Nortura SA og Tine SA.
+- *Egg:* Skallegg.
+- *Eggprodukter:* Heleggpulver, heleggmasse, eggehvite (fersk og frossen) og eggeplomme.
+- *Naturell yoghurt:* Yoghurt er et melkeprodukt av høypasteurisert melk som er syrnet ved hjelp av melkesyrebakteriene *Lactobacillus bulgaricus* og *Streptococcus thermophilus*. Naturell yoghurt er uten andre tilsetninger.
+- *Smør:* Naturlig smør, mysesmør eller rekombinert smør (ferskt, saltet eller harskt) fremstilt utelukkende fra melk, med et melkefettinnhold på 80 vektprosent eller mer, men høyst 95 vektprosent, med et innhold av råprotein, sukker og salt på høyst 2 vektprosent og med et vanninnhold på høyst 16 vektprosent. Smør inneholder ikke tilsatte emulgeringsmidler, men kan inneholde natriumklorid, fargestoffer, nøytraliseringssalter og harmløse melkesyreproduserende bakterier.
+- *Hvitost:* Modnede halvfaste, harde eller ekstra harde produkter som kan være belagt (med film eller voks etc.). Osten skal fremstilles ved delvis eller fullstendig koagulering av proteinene i melk (helmelk, delvis skummet melk, fløte, kjernemelk eller kombinasjoner av disse), ved løpe eller andre koaguleringsmidler, og ved delvis drenering av myse som oppstår etter koaguleringen. Ost fremstilles altså ved konsentrering av melkeproteiner, særlig kaseinene, og proteininnholdet er dermed høyere enn i melk. Smelteoster fremstilt av faste guloster som rives og tilsettes vann og smeltesalter før varmebehandling kommer ikke inn under denne definisjonen av ost. Gammelost og pultost er heller ikke omfattet av hvitost.
 
 ## § 4. Grunnvilkår
 
@@ -66,7 +73,11 @@ Dersom søker har inngått en avtale om levering til spesialmarkeder på bakgrun
 
 ## § 5-1. Melkeprodukter
 
-Det kan gis prisnedskriving for melkeprodukter etter satser per kg solgt mengde i følgende varegrupper:naturell yoghurtsmørhvitost.
+Det kan gis prisnedskriving for melkeprodukter etter satser per kg solgt mengde i følgende varegrupper:
+
+- naturell yoghurt
+- smør
+- hvitost.
 
 ## § 5-2. Egg og eggprodukter
 
@@ -147,7 +158,10 @@ Prognosene sendes til Omsetningsrådet og skal inneholde en oversikt over budsje
 
 Frist for innsending av søknad om godtgjørelse for prisnedskriving ved salg til spesialmarkeder er 15. februar året etter at salget er skjedd.
 
-Søknaden skal inneholde dokumentasjon som viser samlet solgt kvantum for de aktuelle produktene med tilhørende prisnedskrivingsbeløp basert på satser for året produktene er solgt. Søker skal dokumentere at de produktene det søkes prisnedskriving for eregenproduserte produkter av norskprodusert egg, melk eller kjøtt, jf. [§ 5](forskrift/2020-06-22-1400/§5), ogsolgt til spesialmarkeder.
+Søknaden skal inneholde dokumentasjon som viser samlet solgt kvantum for de aktuelle produktene med tilhørende prisnedskrivingsbeløp basert på satser for året produktene er solgt. Søker skal dokumentere at de produktene det søkes prisnedskriving for er
+
+- egenproduserte produkter av norskprodusert egg, melk eller kjøtt, jf. [§ 5](forskrift/2020-06-22-1400/§5), og
+- solgt til spesialmarkeder.
 
 Dersom søknaden omfatter krav om prisnedskriving for kjøttprodukter skal det legges ved dokumentasjon på uttak fra reguleringslager, jf. § 4-3 andre ledd.
 

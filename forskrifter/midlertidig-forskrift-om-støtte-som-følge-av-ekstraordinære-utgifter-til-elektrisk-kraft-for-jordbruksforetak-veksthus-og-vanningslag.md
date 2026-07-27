@@ -16,7 +16,7 @@ xml_hash: "528a3519f5125271b05b9b08df7f6252aaee297e2633deeb9514e9e8e8553350"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -35,7 +35,11 @@ Forskriften gjelder strømforbruk i perioden fra og med april 2022 til og med de
 
 ## § 3. Definisjoner
 
-I forskriften menes med*jordbruksforetak:* foretak som oppfyller vilkårene for å motta produksjonstilskudd eller avløsertilskudd etter [forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket](forskrift/2014-12-19-1817)*veksthusforetak:* foretak registrert i Enhetsregisteret som driver innendørs dyrking av vekster*vanningslag:* lag eller andre sammenslutninger registrert i Enhetsregisteret enn de som omfattes av nr. 1 eller nr. 2, og som driver vanning av jordbruksareal som disponeres av minst to jordbruksforetak.
+I forskriften menes med
+
+1. *jordbruksforetak:* foretak som oppfyller vilkårene for å motta produksjonstilskudd eller avløsertilskudd etter [forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket](forskrift/2014-12-19-1817)
+2. *veksthusforetak:* foretak registrert i Enhetsregisteret som driver innendørs dyrking av vekster
+3. *vanningslag:* lag eller andre sammenslutninger registrert i Enhetsregisteret enn de som omfattes av nr. 1 eller nr. 2, og som driver vanning av jordbruksareal som disponeres av minst to jordbruksforetak.
 
 > Endret ved forskrift [14 des 2023 nr. 2035](forskrift/2023-12-14-2035).
 
@@ -43,7 +47,14 @@ I forskriften menes med*jordbruksforetak:* foretak som oppfyller vilkårene for 
 
 Det kan gis støtte til jordbruksforetak for strømutgifter i produksjonen, og for husholdningsforbruk som ikke omfattes av [lov om Norgespris og strømstønad til husholdninger § 5 første ledd](lov/2025-06-20-44/§5/ledd/1).
 
-Veksthusforetak kan gis støtte for strømutgifter til dyrking av følgende vekster som skal omsettes i markedet:grønnsaker,frukt og bær,krydderurter og medisinske urter,blomster og prydplanter,planteskolevekster, medregnet skogplanter, ellerungplanter av blomster, prydplanter, frukt, bær og grønnsaker for utplanting på friland og for salg.
+Veksthusforetak kan gis støtte for strømutgifter til dyrking av følgende vekster som skal omsettes i markedet:
+
+1. grønnsaker,
+2. frukt og bær,
+3. krydderurter og medisinske urter,
+4. blomster og prydplanter,
+5. planteskolevekster, medregnet skogplanter, eller
+6. ungplanter av blomster, prydplanter, frukt, bær og grønnsaker for utplanting på friland og for salg.
 
 Det kan også gis støtte for husholdningsforbruk som ikke omfattes av [lov om Norgespris og strømstønad til husholdninger § 5 første ledd](lov/2025-06-20-44/§5/ledd/1).
 
@@ -55,7 +66,21 @@ Foretak som både oppfyller vilkårene for støtte som jordbruksforetak og som v
 
 ## § 5. Utmåling av støtte til jordbruksforetak
 
-Støttebeløp for jordbruksforetak beregnes etter følgende formel: $$(\\text{stønadsgrunnlag} - \\text{70 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2024 beregnes støttebeløp etter følgende formel: $$(\\text{stønadsgrunnlag} - \\text{73 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2025 beregnes støttebeløp etter følgende formel: $$(\\text{stønadsgrunnlag} - \\text{75 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2026 beregnes støttebeløp etter følgende formel: $$(\\text{stønadsgrunnlag} - \\text{77 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+Støttebeløp for jordbruksforetak beregnes etter følgende formel:
+
+$$(\\text{stønadsgrunnlag} - \\text{70 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+
+For forbruk fra og med januar 2024 beregnes støttebeløp etter følgende formel:
+
+$$(\\text{stønadsgrunnlag} - \\text{73 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+
+For forbruk fra og med januar 2025 beregnes støttebeløp etter følgende formel:
+
+$$(\\text{stønadsgrunnlag} - \\text{75 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+
+For forbruk fra og med januar 2026 beregnes støttebeløp etter følgende formel:
+
+$$(\\text{stønadsgrunnlag} - \\text{77 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
 
 Støtten kan gis for forbruk inntil 20 000 kWt per foretak per måned. Fra og med oktober 2022, kan det gis støtte for forbruk inntil 60 000 kWt per foretak per måned.
 
@@ -65,13 +90,41 @@ Som stønadsgrunnlag etter første ledd benyttes gjennomsnittlig månedlig elspo
 
 ## § 6. Utmåling av støtte til veksthusforetak
 
-Støttebeløp for produksjon i veksthus beregnes på grunnlag av forbruk registrert på målepunkt som tilhører foretaket etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{70 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2024 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{73 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2025 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{75 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2026 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{77 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+Støttebeløp for produksjon i veksthus beregnes på grunnlag av forbruk registrert på målepunkt som tilhører foretaket etter følgende formel:
+
+$$(\\text{foretakets faktiske kostnader per kWt} - \\text{70 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+
+For forbruk fra og med januar 2024 beregnes støttebeløp etter følgende formel:
+
+$$(\\text{foretakets faktiske kostnader per kWt} - \\text{73 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+
+For forbruk fra og med januar 2025 beregnes støttebeløp etter følgende formel:
+
+$$(\\text{foretakets faktiske kostnader per kWt} - \\text{75 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+
+For forbruk fra og med januar 2026 beregnes støttebeløp etter følgende formel:
+
+$$(\\text{foretakets faktiske kostnader per kWt} - \\text{77 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
 
 > Endret ved forskrifter [14 des 2023 nr. 2035](forskrift/2023-12-14-2035), [11 jan 2024 nr. 58](forskrift/2024-01-11-58), [18 des 2024 nr. 3312](forskrift/2024-12-18-3312) (i kraft 1 jan 2025), [18 des 2025 nr. 2723](forskrift/2025-12-18-2723) (i kraft 1 jan 2026).
 
 ## § 7. Utmåling av støtte til vanningslag
 
-Støttebeløp for vanning av jordbruksareal beregnes på grunnlag av forbruk registrert på målepunkt som tilhører virksomheten etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{70 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2024 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{73 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2025 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{75 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2026 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{77 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+Støttebeløp for vanning av jordbruksareal beregnes på grunnlag av forbruk registrert på målepunkt som tilhører virksomheten etter følgende formel:
+
+$$(\\text{foretakets faktiske kostnader per kWt} - \\text{70 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+
+For forbruk fra og med januar 2024 beregnes støttebeløp etter følgende formel:
+
+$$(\\text{foretakets faktiske kostnader per kWt} - \\text{73 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+
+For forbruk fra og med januar 2025 beregnes støttebeløp etter følgende formel:
+
+$$(\\text{foretakets faktiske kostnader per kWt} - \\text{75 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
+
+For forbruk fra og med januar 2026 beregnes støttebeløp etter følgende formel:
+
+$$(\\text{foretakets faktiske kostnader per kWt} - \\text{77 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$
 
 > Endret ved forskrifter [11 jan 2024 nr. 58](forskrift/2024-01-11-58), [18 des 2024 nr. 3312](forskrift/2024-12-18-3312) (i kraft 1 jan 2025), [18 des 2025 nr. 2723](forskrift/2025-12-18-2723) (i kraft 1 jan 2026).
 

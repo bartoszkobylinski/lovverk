@@ -15,7 +15,7 @@ xml_hash: "4fbe2163856659b474b046787d773734c301e09193ec21d009cf305fc853536e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -43,7 +43,26 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten, og om grun
 
 ## § 2.
 
-Det gis fritak for avgift på alkohol somfra produsents eller importørs lagerutføres til utlandetleveres som proviantleveres til utsalg på lufthavninnføressom reisegodstil bruk i transportmidler i ervervsmessig virksomhetfra produsents eller importørs lager leveres til eller innføres avdiplomaterNATO og styrker fra land som deltar i Partnerskap for fredDen nordiske investeringsbankkommer i retur til produsents eller importørs lagerleveres til teknisk, vitenskapelig eller medisinsk bruk og som er gjort utjenlig til drikk (denaturert) eller på annen måte finnes garantert mot å bli brukt til drikkbrukes som råstoff mv. ved fremstilling av varerfremstilles ved ikke ervervsmessig produksjon. Fritaket omfatter ikke brennevinsbasert drikk og gjelder kun fremstilling til eget bruk.
+Det gis fritak for avgift på alkohol som
+
+1. fra produsents eller importørs lager
+
+   1. utføres til utlandet
+   2. leveres som proviant
+   3. leveres til utsalg på lufthavn
+2. innføres
+
+   1. som reisegods
+   2. til bruk i transportmidler i ervervsmessig virksomhet
+3. fra produsents eller importørs lager leveres til eller innføres av
+
+   1. diplomater
+   2. NATO og styrker fra land som deltar i Partnerskap for fred
+   3. Den nordiske investeringsbank
+4. kommer i retur til produsents eller importørs lager
+5. leveres til teknisk, vitenskapelig eller medisinsk bruk og som er gjort utjenlig til drikk (denaturert) eller på annen måte finnes garantert mot å bli brukt til drikk
+6. brukes som råstoff mv. ved fremstilling av varer
+7. fremstilles ved ikke ervervsmessig produksjon. Fritaket omfatter ikke brennevinsbasert drikk og gjelder kun fremstilling til eget bruk.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

@@ -34,7 +34,44 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr*Anerkjent klasseinstitusjon:* Klasseinstitusjon som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):American Bureau of Shipping (ABS)Bureau Veritas (BV)DNVLloyd's Register of Shipping (LR)Nippon Kaiji Kyoaki (Class NK)Rina Services S.p.A (RINA).*ekstremt vær:* Definisjonen av «Extreme weather» i ISO 19901-7 (2005), A.6.4.2.2, gjelder tilsvarende. Kombinasjon av 100 års bølger og vind sammen med 10 års strøm kan benyttes dersom det ikke finnes mer nøyaktig data på lokasjon*innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster*inntil:* Innretninger ligger inntil en konstruksjon når:gangveien mellom innretningen og konstruksjonen er tilkoblet, ellerinnretningen står i fare for å drive inn i konstruksjonen etter bortfall av alle liner i verste hjørne. Kriteriet er at bortfall av alle liner i verste hjørne gir én eller flere sikkerhetsfaktorer, som blir under 1.0, ellernår avstanden mellom innretning og konstruksjon kan bli mindre enn 10 m, når en har tatt hensyn til transientbevegelsen etter bortfall av alle liner i verste hjørne*MOU-klasseinstitusjon:* Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktigelse mv. av flyttbare innretninger. Disse institusjoner er:American Bureau of Shipping (ABS)DNVLloyds Register of Shipping (LR).*rederiet:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende*sertifisert:*Vedrørende utstyr og materialer: Utstyr som tilfredsstiller angitte krav, eller materialer som er i henhold til anerkjent standard, og som er sertifisert, godkjent eller typegodkjent av:teknisk kontrollorgan,akkreditert sertifiseringsorgan,anerkjent klasseinstitusjon,annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet, elleradministrasjonen i et land som har ratifisert sjøsikkerhetskonvensjonen ([SOLAS)](traktat/1974-11-01-1)Vedrørende arbeidsutførelse: Personell som i henhold til regelkrav skal ha spesielle kvalifikasjoner for å utføre bestemte arbeidsoppgaver, og som er sertifisert av:anerkjent klasseinstitusjon,akkreditert sertifiseringsorgan, ellerannen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet*sikkerhetsstyringssystem:* Alle systematiske tiltak som rederiet skal iverksette for å sikre at virksomheten planlegges, organiseres, utøves og vedlikeholdes i samsvar med krav fastsatt i eller i medhold av [lov 16. februar 2007 nr. 9](lov/2007-02-16-9) om skipssikkerhet og [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten.
+I denne forskrift betyr
+
+1. *Anerkjent klasseinstitusjon:* Klasseinstitusjon som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):
+
+   1. American Bureau of Shipping (ABS)
+   2. Bureau Veritas (BV)
+   3. DNV
+   4. Lloyd's Register of Shipping (LR)
+   5. Nippon Kaiji Kyoaki (Class NK)
+   6. Rina Services S.p.A (RINA).
+2. *ekstremt vær:* Definisjonen av «Extreme weather» i ISO 19901-7 (2005), A.6.4.2.2, gjelder tilsvarende. Kombinasjon av 100 års bølger og vind sammen med 10 års strøm kan benyttes dersom det ikke finnes mer nøyaktig data på lokasjon
+3. *innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster
+4. *inntil:* Innretninger ligger inntil en konstruksjon når:
+
+   1. gangveien mellom innretningen og konstruksjonen er tilkoblet, eller
+   2. innretningen står i fare for å drive inn i konstruksjonen etter bortfall av alle liner i verste hjørne. Kriteriet er at bortfall av alle liner i verste hjørne gir én eller flere sikkerhetsfaktorer, som blir under 1.0, eller
+   3. når avstanden mellom innretning og konstruksjon kan bli mindre enn 10 m, når en har tatt hensyn til transientbevegelsen etter bortfall av alle liner i verste hjørne
+5. *MOU-klasseinstitusjon:* Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktigelse mv. av flyttbare innretninger. Disse institusjoner er:
+
+   1. American Bureau of Shipping (ABS)
+   2. DNV
+   3. Lloyds Register of Shipping (LR).
+6. *rederiet:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende
+7. *sertifisert:*
+
+   1. Vedrørende utstyr og materialer: Utstyr som tilfredsstiller angitte krav, eller materialer som er i henhold til anerkjent standard, og som er sertifisert, godkjent eller typegodkjent av:
+
+      1. teknisk kontrollorgan,
+      2. akkreditert sertifiseringsorgan,
+      3. anerkjent klasseinstitusjon,
+      4. annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet, eller
+      5. administrasjonen i et land som har ratifisert sjøsikkerhetskonvensjonen ([SOLAS)](traktat/1974-11-01-1)
+   2. Vedrørende arbeidsutførelse: Personell som i henhold til regelkrav skal ha spesielle kvalifikasjoner for å utføre bestemte arbeidsoppgaver, og som er sertifisert av:
+
+      1. anerkjent klasseinstitusjon,
+      2. akkreditert sertifiseringsorgan, eller
+      3. annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet
+8. *sikkerhetsstyringssystem:* Alle systematiske tiltak som rederiet skal iverksette for å sikre at virksomheten planlegges, organiseres, utøves og vedlikeholdes i samsvar med krav fastsatt i eller i medhold av [lov 16. februar 2007 nr. 9](lov/2007-02-16-9) om skipssikkerhet og [lov 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten.
 
 > Endret ved [forskrifter 5 juli 2016 nr. 897](forskrift/2016-07-05-897), [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
 
@@ -80,9 +117,13 @@ Rederiet skal kunne dokumentere at forskriftens krav er oppfylt. På forespørse
 
 (3) Dimensjoneringen av vinsj med hensyn til trekkraft og bremsesystemer skal ta utgangspunkt i delesirkel ved kabelardrift og tredje linelag ved trommelutførelse.
 
-(4) For vinsjer uten pal, eller der pal ikke er i samsvar med [§ 8](forskrift/2009-07-10-998/§8), gjelder:Når vinsjen er parkert skal minst to uavhengige holdebremsesystemer være innkoplet til enhver tid. Samlet statisk holdekraft skal minst tilsvare 120 % av bruddstyrken til den aktuelle ankerlinen. Den svakeste bremsen skal kunne holde minst 60 % av nevnte bruddstyrke.
+(4) For vinsjer uten pal, eller der pal ikke er i samsvar med [§ 8](forskrift/2009-07-10-998/§8), gjelder:
 
-(5) For vinsjer med pal, og der pal er i samsvar med [§ 8](forskrift/2009-07-10-998/§8), gjelder:Når vinsjen er parkert skal det, i tillegg til pal, være minst ett holdebremsesystem innkoplet til enhver tid. Samlet statisk holdekraft skal minst tilsvare bruddstyrken til den aktuelle ankerlinen.
+Når vinsjen er parkert skal minst to uavhengige holdebremsesystemer være innkoplet til enhver tid. Samlet statisk holdekraft skal minst tilsvare 120 % av bruddstyrken til den aktuelle ankerlinen. Den svakeste bremsen skal kunne holde minst 60 % av nevnte bruddstyrke.
+
+(5) For vinsjer med pal, og der pal er i samsvar med [§ 8](forskrift/2009-07-10-998/§8), gjelder:
+
+Når vinsjen er parkert skal det, i tillegg til pal, være minst ett holdebremsesystem innkoplet til enhver tid. Samlet statisk holdekraft skal minst tilsvare bruddstyrken til den aktuelle ankerlinen.
 
 (6) Når vinsjen opereres skal minst to uavhengige bremsesystemer være tilgjengelig til enhver tid. Det skal være et dynamisk bremsesystem som hensiktsmessig skal kunne stoppe aktuelle kombinerte belastninger fra ankerlinen og ankerhåndteringsfartøy under utkjøring med maksimal hastighet, jf. syvende og niende ledd. Dimensjonerende spenning i vinsjen og alle komponenter som blir belastet under oppbremsing skal ved disse belastningene ikke overskride 85 % av materialets minste spesifiserte flytegrense eller 80 % av materialets bruddstyrke. Den dynamiske bremsen skal om nødvendig ha et kjølesystem.
 
@@ -108,7 +149,14 @@ Rederiet skal kunne dokumentere at forskriftens krav er oppfylt. På forespørse
 
 (17) Ankervinsjens kontrollsystem er et sikkerhetskritisk system og skal være i samsvar med [forskrift 22. desember 1993 nr. 1239](forskrift/1993-12-22-1239) om risikoanalyse på flyttbare innretninger [§ 22](forskrift/1993-12-22-1239/§22).
 
-(18) Ankervinsjen skal leveres med sertifikat fra MOU-klasseinstitusjon som dokumentererprodusent, typebenevnelse og produksjonsdatoankerlinetype og dimensjon/lengde som vinsjen er konstruert forstatiske bremseholdekrefterbremsekapasitet under utkjøring som spesifisert i syvende ledd ovenforrestbremsekraft som tilsettes etter svikt i krafttilførsel under kjøringankervinsjens maksimale trekkraft (steilekraft)
+(18) Ankervinsjen skal leveres med sertifikat fra MOU-klasseinstitusjon som dokumenterer
+
+1. produsent, typebenevnelse og produksjonsdato
+2. ankerlinetype og dimensjon/lengde som vinsjen er konstruert for
+3. statiske bremseholdekrefter
+4. bremsekapasitet under utkjøring som spesifisert i syvende ledd ovenfor
+5. restbremsekraft som tilsettes etter svikt i krafttilførsel under kjøring
+6. ankervinsjens maksimale trekkraft (steilekraft)
 
 > Endret ved forskrift [24 jan 2022 nr. 118](forskrift/2022-01-24-118).
 
@@ -152,7 +200,19 @@ Dersom innretningen skal holde posisjon ved hjelp av trusterassistert forankring
 
 ### § 13. Prøving av nytt ankringssystem
 
-Før ankringssystemet tas i normal bruk for første gang skal følgende utføres og dokumenteresfunksjonsprøver uten belastning av alle ankervinsjer, kjetting-/ståltaustoppere, pal og bremser o.l.kalibrering av instrumentertrykkprøving av hydrauliske systemerutkjøring av alle ankerliner under høyeste hastighet og strekk i ankerlinen, for prøving av vinsjens dynamiske bremsekapasitetprøving av nødutløsing av alle kjetting-/ståltaustoppere, pal og bremser under belastningkontrollert utkjøring, stopp og videre utkjøring av ankerline ved hjelp av lagret energi, jf. [§ 7](forskrift/2009-07-10-998/§7) tiende leddkontroll av ankervinsjens maksimale trekkraftkontroll av restbremsekraft etter svikt i krafttilførselenfunksjons- og redundansprøving av eventuelt trusterassistert system eller dynamisk posisjoneringssystemtap på grunn av friksjon i ledeskiver må måles og dokumenteres for hver enkelt innretning og hver enkelt ankerlinekontroll og kalibrering av målesystemer for ankerlinestrekk
+Før ankringssystemet tas i normal bruk for første gang skal følgende utføres og dokumenteres
+
+1. funksjonsprøver uten belastning av alle ankervinsjer, kjetting-/ståltaustoppere, pal og bremser o.l.
+2. kalibrering av instrumenter
+3. trykkprøving av hydrauliske systemer
+4. utkjøring av alle ankerliner under høyeste hastighet og strekk i ankerlinen, for prøving av vinsjens dynamiske bremsekapasitet
+5. prøving av nødutløsing av alle kjetting-/ståltaustoppere, pal og bremser under belastning
+6. kontrollert utkjøring, stopp og videre utkjøring av ankerline ved hjelp av lagret energi, jf. [§ 7](forskrift/2009-07-10-998/§7) tiende ledd
+7. kontroll av ankervinsjens maksimale trekkraft
+8. kontroll av restbremsekraft etter svikt i krafttilførselen
+9. funksjons- og redundansprøving av eventuelt trusterassistert system eller dynamisk posisjoneringssystem
+10. tap på grunn av friksjon i ledeskiver må måles og dokumenteres for hver enkelt innretning og hver enkelt ankerline
+11. kontroll og kalibrering av målesystemer for ankerlinestrekk
 
 ## Kapittel 3. Forankringsanalyse
 
@@ -164,10 +224,28 @@ Før ankringssystemet tas i normal bruk for første gang skal følgende utføres
 
 (3) Det kreves at de data som behøves for forankringsanalysen forefinnes og er kvalitetssikret og verifisert ved kalibrerte data fra modellforsøk. Dette gjelder vind-, strøm-, bølgedrift, masse- og dempingskoeffisienter og transferfunksjoner. Dette skal også gjøres ved ombygginger som vesentlig endrer forutsetningene for bevegelseskarakteristikken.
 
-(4) Beregningene skal utarbeides i henhold til den metodikk som er angitt i ISO 19901-7 (2005). Forutsetninger og sikkerhetsfaktorer som angitt i Annex B.2 i standarden skal benyttes i analysen. I tillegg gjelder følgendedet skal for alle innretninger også analyseres for operasjonstilstanden. Man skal tilfredsstille sikkerhetsfaktorene for konsekvensklasse 3dersom man ønsker å fortsette operasjon med én line ute av drift må fortsatt alle krav til sikkerhetsfaktorer tilfredsstilles, inkludert intaktkravetinnretninger som har produksjonstekniske installasjoner, utstyr for lagring, transport eller overføring av hydrokarboner til tankskip skal benytte tabell B.2 i ISO 19901-7 (2005) Annex B. Beregninger av tolinebrudd skal gjøres, og tilfredsstille sikkerhetsfaktorene gitt i denne tabellen. Som minimum skal 10-års vær benyttes for analyser av tolinebrudd, men dersom operasjonen i konsekvensklasse 3 avsluttes før 10-års vær nås, kan beregningene av tolinebrudd baseres på den maksimale operasjonstilstanden. Det skal utføres bevegelsesberegninger for innretningen og nærliggende konstruksjon med hensyn på avdrift og kollisjonsfare. Beregningene skal utføres for ekstremt vær og med største enkeltfeil for henholdsvis innretning og for nærliggende flytende konstruksjon. Etter slik hendelse skal minste avstand mellom innretning og nærliggende flytende konstruksjon ikke være mindre enn 10 meter.innretninger som ligger inntil annen installasjon skal benytte tabell B.2 i ISO 19901-7 (2005) Annex B for de liner som er kritisk med hensyn til kollisjonsfare. For disse linene skal beregninger av tolinebrudd gjøres, og tilfredsstille sikkerhetsfaktorene gitt i denne tabellen. Som minimum skal 10-års vær benyttes for analyser av tolinebrudd, men dersom operasjonen i konsekvensklasse 3 avsluttes før 10-års vær nås, kan beregningene av tolinebrudd baseres på den maksimale operasjonstilstanden. For liner som ikke er kritisk med hensyn til kollisjonsfare kan tabell inntatt i § 14(4 f) benyttes. Det skal utføres bevegelsesberegninger for innretningen og nærliggende konstruksjon med hensyn på avdrift og kollisjonsfare. Beregningene skal utføres for ekstremt vær og med største enkeltfeil for henholdsvis innretning og for nærliggende flytende konstruksjon. Etter slik hendelse skal minste avstand mellom innretning og nærliggende flytende konstruksjon ikke være mindre enn 10 meter.det skal i alle analyser benyttes 100 års returperiode for værkrefter som beskrevet i ISO 19901-7 (2005), A.6.4.2.2. For ikke-permanente oppankringer kan sesongdata benyttes. Det skal gjøres dynamiske analysertabell B.3 i ISO 19901-7 (2005) Annex B erstattes med følgende:*Konsekvensklasse
-3**Konsekvensklasse
-2**Konsekvensklasse
-1*Intakt1.901.801.50Énlinebrudd1.301.201.10Énlinebrudd, transient1.101.101.05det skal analyseres for verste værretning for hver line, og det skal ikke brukes sektorer med større utstrekning enn 30 graderalle analyser skal ha et sammendrag som viser eventuelle fravik fra regelverket, og operasjonelle forhold eller forutsetninger som er av spesiell betydning eller hjelp om bord. Dette inkluderer maksimal transient bevegelsetrustere kan benyttes som hjelpemiddel til å redusere ankerlinekreftene i henhold til ISO 19901-7 (2005), med følgende presiseringerdersom innretningen har et automatisk system, men benytter dette manuelt, godskrives 70 % av netto trusterkapasitetmanuelt fjernstyrt trust godskrives ikke for innretninger som ligger inntil annen konstruksjonvertikallaster aksepteres for noen typer ankre, som pæle- eller sugeankre. Ved bruk av dreggankere og dregginstallerte plateankere tillates det for intakttilstanden ikke vertikale laster på ankerlinen ved det punktet hvor ankerlinen penetrerer havbunnen. Etter enkeltfeil, eller ved dobbeltfeil når det er krav til beregning av dette, kan begrensede vertikale laster tillates når angrepsvinkelen (α) ved det punktet hvor ankerlinen penetrerer havbunnen er mindre enn 50 % av den beregnede vinkel for ankerlinens innsjakling i ankeret (θ), jf. DNV-RP-E301 app f (2000).en innretning er i nærheten av (Vicinity jf. ISO 19901-7 (2005) Annex B) dersom det ikke er tid å evakuere selve innretningen og nærliggende installasjoner/konstruksjoner i løpet av tiden det tar å drive dit under de rådende værforhold. Man er kun i nærheten for de kondisjoner hvor været kommer i kritisk sektor med hensyn til kollisjon mellom innretningene.
+(4) Beregningene skal utarbeides i henhold til den metodikk som er angitt i ISO 19901-7 (2005). Forutsetninger og sikkerhetsfaktorer som angitt i Annex B.2 i standarden skal benyttes i analysen. I tillegg gjelder følgende
+
+1. det skal for alle innretninger også analyseres for operasjonstilstanden. Man skal tilfredsstille sikkerhetsfaktorene for konsekvensklasse 3
+2. dersom man ønsker å fortsette operasjon med én line ute av drift må fortsatt alle krav til sikkerhetsfaktorer tilfredsstilles, inkludert intaktkravet
+3. innretninger som har produksjonstekniske installasjoner, utstyr for lagring, transport eller overføring av hydrokarboner til tankskip skal benytte tabell B.2 i ISO 19901-7 (2005) Annex B. Beregninger av tolinebrudd skal gjøres, og tilfredsstille sikkerhetsfaktorene gitt i denne tabellen. Som minimum skal 10-års vær benyttes for analyser av tolinebrudd, men dersom operasjonen i konsekvensklasse 3 avsluttes før 10-års vær nås, kan beregningene av tolinebrudd baseres på den maksimale operasjonstilstanden. Det skal utføres bevegelsesberegninger for innretningen og nærliggende konstruksjon med hensyn på avdrift og kollisjonsfare. Beregningene skal utføres for ekstremt vær og med største enkeltfeil for henholdsvis innretning og for nærliggende flytende konstruksjon. Etter slik hendelse skal minste avstand mellom innretning og nærliggende flytende konstruksjon ikke være mindre enn 10 meter.
+4. innretninger som ligger inntil annen installasjon skal benytte tabell B.2 i ISO 19901-7 (2005) Annex B for de liner som er kritisk med hensyn til kollisjonsfare. For disse linene skal beregninger av tolinebrudd gjøres, og tilfredsstille sikkerhetsfaktorene gitt i denne tabellen. Som minimum skal 10-års vær benyttes for analyser av tolinebrudd, men dersom operasjonen i konsekvensklasse 3 avsluttes før 10-års vær nås, kan beregningene av tolinebrudd baseres på den maksimale operasjonstilstanden. For liner som ikke er kritisk med hensyn til kollisjonsfare kan tabell inntatt i § 14(4 f) benyttes. Det skal utføres bevegelsesberegninger for innretningen og nærliggende konstruksjon med hensyn på avdrift og kollisjonsfare. Beregningene skal utføres for ekstremt vær og med største enkeltfeil for henholdsvis innretning og for nærliggende flytende konstruksjon. Etter slik hendelse skal minste avstand mellom innretning og nærliggende flytende konstruksjon ikke være mindre enn 10 meter.
+5. det skal i alle analyser benyttes 100 års returperiode for værkrefter som beskrevet i ISO 19901-7 (2005), A.6.4.2.2. For ikke-permanente oppankringer kan sesongdata benyttes. Det skal gjøres dynamiske analyser
+6. tabell B.3 i ISO 19901-7 (2005) Annex B erstattes med følgende:
+
+   |  | *Konsekvensklasse<br>3* | *Konsekvensklasse<br>2* | *Konsekvensklasse<br>1* |
+   | --- | --- | --- | --- |
+   | Intakt | 1.90 | 1.80 | 1.50 |
+   | Énlinebrudd | 1.30 | 1.20 | 1.10 |
+   | Énlinebrudd, transient | 1.10 | 1.10 | 1.05 |
+7. det skal analyseres for verste værretning for hver line, og det skal ikke brukes sektorer med større utstrekning enn 30 grader
+8. alle analyser skal ha et sammendrag som viser eventuelle fravik fra regelverket, og operasjonelle forhold eller forutsetninger som er av spesiell betydning eller hjelp om bord. Dette inkluderer maksimal transient bevegelse
+9. trustere kan benyttes som hjelpemiddel til å redusere ankerlinekreftene i henhold til ISO 19901-7 (2005), med følgende presiseringer
+
+   1. dersom innretningen har et automatisk system, men benytter dette manuelt, godskrives 70 % av netto trusterkapasitet
+   2. manuelt fjernstyrt trust godskrives ikke for innretninger som ligger inntil annen konstruksjon
+10. vertikallaster aksepteres for noen typer ankre, som pæle- eller sugeankre. Ved bruk av dreggankere og dregginstallerte plateankere tillates det for intakttilstanden ikke vertikale laster på ankerlinen ved det punktet hvor ankerlinen penetrerer havbunnen. Etter enkeltfeil, eller ved dobbeltfeil når det er krav til beregning av dette, kan begrensede vertikale laster tillates når angrepsvinkelen (α) ved det punktet hvor ankerlinen penetrerer havbunnen er mindre enn 50 % av den beregnede vinkel for ankerlinens innsjakling i ankeret (θ), jf. DNV-RP-E301 app f (2000).
+11. en innretning er i nærheten av (Vicinity jf. ISO 19901-7 (2005) Annex B) dersom det ikke er tid å evakuere selve innretningen og nærliggende installasjoner/konstruksjoner i løpet av tiden det tar å drive dit under de rådende værforhold. Man er kun i nærheten for de kondisjoner hvor været kommer i kritisk sektor med hensyn til kollisjon mellom innretningene.
 
 > Endret ved [forskrift 23 des 2010 nr. 1821](forskrift/2010-12-23-1821) (i kraft 1 jan 2011).
 
@@ -175,7 +253,12 @@ Før ankringssystemet tas i normal bruk for første gang skal følgende utføres
 
 ### § 15. Vedlikehold av ankringssystemet
 
-(1) Komponentene i ankrings- og posisjoneringssystemet skal inspiseres og vedlikeholdes slik at de kan utføre sine definerte funksjoner i alle faser av levetiden. Komponentene skal inspiseres, vedlikeholdes og resertifiseres i samsvar med leverandørenes anbefalinger og i henhold til MOU-klasseinstitusjonens regler. I tillegg gjelder følgendekjettinger som er 20 år eller eldre skal resertifiseres ved hver mellomklassing (2,5 år) ved bruk av magnetpulverprøving (MPI) eller tilsvarende på alle tilgjengelige flater i kjettingens totale lengde. Det samme gjelder for kjettinger der mer enn 10 % av kjettingstolpene er løse med et gap på mer enn 0,5 mmfor kjettinger der dokumentasjonen avdekker en feilhistorikk, jf. DNV-OSS-101 (april 2009) Ch. 3 Sec. 4 L404 siste ledd, skal kjettingen resertifiseres årlig ved bruk av 100 % NDT. Dette gjelder også for kjetting som er mindre enn 20 år gammeldet skal etter mer enn én kaldpressing av løse stolper utføres ultralydkontroll eller tilsvarende av setene på løkkenledeskivenes slitasje og friksjon skal prøves årlig, og gjennomgå en utvidet prøving hvert 5. år, for verifikasjon med [§ 9](forskrift/2009-07-10-998/§9) fjerde ledd og [§ 13](forskrift/2009-07-10-998/§13) første ledd bokstav j.
+(1) Komponentene i ankrings- og posisjoneringssystemet skal inspiseres og vedlikeholdes slik at de kan utføre sine definerte funksjoner i alle faser av levetiden. Komponentene skal inspiseres, vedlikeholdes og resertifiseres i samsvar med leverandørenes anbefalinger og i henhold til MOU-klasseinstitusjonens regler. I tillegg gjelder følgende
+
+1. kjettinger som er 20 år eller eldre skal resertifiseres ved hver mellomklassing (2,5 år) ved bruk av magnetpulverprøving (MPI) eller tilsvarende på alle tilgjengelige flater i kjettingens totale lengde. Det samme gjelder for kjettinger der mer enn 10 % av kjettingstolpene er løse med et gap på mer enn 0,5 mm
+2. for kjettinger der dokumentasjonen avdekker en feilhistorikk, jf. DNV-OSS-101 (april 2009) Ch. 3 Sec. 4 L404 siste ledd, skal kjettingen resertifiseres årlig ved bruk av 100 % NDT. Dette gjelder også for kjetting som er mindre enn 20 år gammel
+3. det skal etter mer enn én kaldpressing av løse stolper utføres ultralydkontroll eller tilsvarende av setene på løkken
+4. ledeskivenes slitasje og friksjon skal prøves årlig, og gjennomgå en utvidet prøving hvert 5. år, for verifikasjon med [§ 9](forskrift/2009-07-10-998/§9) fjerde ledd og [§ 13](forskrift/2009-07-10-998/§13) første ledd bokstav j.
 
 (2) At komponenter i et ankrings- og posisjoneringssystem har gyldige sertifikater, fritar ikke fra å undersøke hvorvidt systemene, og tilhørende komponenter, fortsatt er egnet til bruk, avdekke eventuelle mangler og iverksette nødvendige tiltak.
 
@@ -201,7 +284,12 @@ Før ankringssystemet tas i normal bruk for første gang skal følgende utføres
 
 ### § 17. Operasjon av ankringssystemet
 
-(1) Ved bruk av dreggankere og dregginstallerte plateankere skal ankrenes installasjonsstrekk, målt i det punktet hvor ankerlinen penetrerer havbunnen, minst være lik beregnet maksimalt linestrekk i det samme punktet i henhold til den dynamiske analysen for ekstreme værforhold (overlevelsestilstand i intaktkondisjon), jf. [§ 14](forskrift/2009-07-10-998/§14). Installasjonsstrekket kan reduseres forutsatt atkravene i [§ 14](forskrift/2009-07-10-998/§14) kan opprettholdes også etter dregging av et hvilket som helst anker. Beregningen av tilleggsdregg som følge av at linestrekket øker fra installasjonsstrekket til det maksimalt beregnede linestrekket skal utføres i samsvar med DNV-RP-E301 eller tilsvarende. Dersom det skal gjøres beregninger for sandbunn kan en benytte dokumenterte empiriske metoder, forutsatt at dette gir et tilsvarende sikkerhetsnivå og at sikkerhetsfaktorene som er angitt i DNV-RP-E301 anvendesde geotekniske data som ligger til grunn for analysene er representative for det aktuelle ankringsområdet. Dersom området ikke er homogent skal det i analysen benyttes stedsspesifikke geotekniske data for hver ankerlokasjondet ikke fører til økt risiko for nærliggende konstruksjoner,det verifiseres at ankrene er satt riktig på bunn.
+(1) Ved bruk av dreggankere og dregginstallerte plateankere skal ankrenes installasjonsstrekk, målt i det punktet hvor ankerlinen penetrerer havbunnen, minst være lik beregnet maksimalt linestrekk i det samme punktet i henhold til den dynamiske analysen for ekstreme værforhold (overlevelsestilstand i intaktkondisjon), jf. [§ 14](forskrift/2009-07-10-998/§14). Installasjonsstrekket kan reduseres forutsatt at
+
+1. kravene i [§ 14](forskrift/2009-07-10-998/§14) kan opprettholdes også etter dregging av et hvilket som helst anker. Beregningen av tilleggsdregg som følge av at linestrekket øker fra installasjonsstrekket til det maksimalt beregnede linestrekket skal utføres i samsvar med DNV-RP-E301 eller tilsvarende. Dersom det skal gjøres beregninger for sandbunn kan en benytte dokumenterte empiriske metoder, forutsatt at dette gir et tilsvarende sikkerhetsnivå og at sikkerhetsfaktorene som er angitt i DNV-RP-E301 anvendes
+2. de geotekniske data som ligger til grunn for analysene er representative for det aktuelle ankringsområdet. Dersom området ikke er homogent skal det i analysen benyttes stedsspesifikke geotekniske data for hver ankerlokasjon
+3. det ikke fører til økt risiko for nærliggende konstruksjoner,
+4. det verifiseres at ankrene er satt riktig på bunn.
 
 (2) Ankerlinestrekket i operasjonstilstanden skal ved bruk av dreggeanker og plateanker aldri være større enn prøvet ankerholdekraft. Operasjon skal avsluttes før ankerlinestrekket overskrider prøvet ankerholdekraft. Dette skal gjenspeiles i frakoplingsverdiene i operasjonsmanualene.
 

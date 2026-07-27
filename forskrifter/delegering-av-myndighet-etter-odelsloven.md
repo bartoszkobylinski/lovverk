@@ -32,4 +32,9 @@ Loven tar til å gjelde 1. januar 1976.
 
 ## III
 
-Følgjande tidlegare føresegner om delegasjon av fullmakt til odelsfrigjering vert med dette oppheva (likevel slik at føresegnene framleis skal gjelde når saka vert handsama etter den eldre lovgjevinga, jfr. [odelslova § 79](lov/1974-06-28-58/§79)):Kgl. resolusjon 2. juni 1970 om m. a. delegasjon av myndigheit etter oreigningslova, avsnitt V.Kgl. resolusjon 6. april 1962 om fullmakt for Landbruksdepartementet etter jordlova, avsnitt IV.Kgl. resolusjon 4. desember 1964 om overføring av fullmakt etter [oreigningslova § 9](lov/1959-10-23-3/§9).Kgl. resolusjon 15. desember 1972 om fullmakt m. a. til å gjere vedtak etter veglova og oreigningslova, avsnitt IV, for så vidt gjeld fullmakta til å gjere vedtak etter [oreigningslova § 9](lov/1959-10-23-3/§9).
+Følgjande tidlegare føresegner om delegasjon av fullmakt til odelsfrigjering vert med dette oppheva (likevel slik at føresegnene framleis skal gjelde når saka vert handsama etter den eldre lovgjevinga, jfr. [odelslova § 79](lov/1974-06-28-58/§79)):
+
+1. Kgl. resolusjon 2. juni 1970 om m. a. delegasjon av myndigheit etter oreigningslova, avsnitt V.
+2. Kgl. resolusjon 6. april 1962 om fullmakt for Landbruksdepartementet etter jordlova, avsnitt IV.
+3. Kgl. resolusjon 4. desember 1964 om overføring av fullmakt etter [oreigningslova § 9](lov/1959-10-23-3/§9).
+4. Kgl. resolusjon 15. desember 1972 om fullmakt m. a. til å gjere vedtak etter veglova og oreigningslova, avsnitt IV, for så vidt gjeld fullmakta til å gjere vedtak etter [oreigningslova § 9](lov/1959-10-23-3/§9).

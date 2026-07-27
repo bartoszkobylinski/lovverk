@@ -15,7 +15,7 @@ xml_hash: "9738be5ff26e591a5d779d4bfe43fb71c27fe37c0c8017ba13292a5864c1dfa0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,11 +106,24 @@ Although not part of the labelling, the first identifying feature of «Prosciutt
 
 The following specifications are obligatory on the labelling of «Prosciutto di Parma»:
 
-For whole «Prosciutto di Parma», on the bone«Prosciutto di Parma» followed by «denominazione di origine protetta» (protected designation of origin),the production site.
+For whole «Prosciutto di Parma», on the bone
 
-For packaged, whole, boned or cut «Prosciutto di Parma»«Prosciutto di Parma» followed by «denominazione di origine protetta» (protected designation of origin),the packaging site,the production date (if the seal is not longer visible).
+- «Prosciutto di Parma» followed by «denominazione di origine protetta» (protected designation of origin),
+- the production site.
 
-For sliced, pre-packaged «Prosciutto di Parma»the packages display a common section equal to 25 % of the surface of the upper section of the packages made up of a triangle positioned at the top left-hand corner, with a black or transparent background, within the limits and under the conditions laid down by the annexed Directive on the slicing and packaging of «Prosciutto di Parma», bearing the «duke's crown» logo and the wording:«Prosciutto di Parma denominazione di origine protetta ai sensi della legge 13 febbraio 1990, n. 26 et del regolamento (CE) n. 1107/96» («Prosciutto di Parma» protected designation of origin in accordance with Law No 26 of 13 February 1990, and Regulation [(EC) No 1107/96](eu/31996r1107*)),«confezionato sotto il controllo dell'Organismo autorizzato» (packaged under the supervision of the authorised body),the packaging site,the production date (date indicating start of ageing as shown on the seal).
+For packaged, whole, boned or cut «Prosciutto di Parma»
+
+- «Prosciutto di Parma» followed by «denominazione di origine protetta» (protected designation of origin),
+- the packaging site,
+- the production date (if the seal is not longer visible).
+
+For sliced, pre-packaged «Prosciutto di Parma»
+
+- the packages display a common section equal to 25 % of the surface of the upper section of the packages made up of a triangle positioned at the top left-hand corner, with a black or transparent background, within the limits and under the conditions laid down by the annexed Directive on the slicing and packaging of «Prosciutto di Parma», bearing the «duke's crown» logo and the wording:
+- «Prosciutto di Parma denominazione di origine protetta ai sensi della legge 13 febbraio 1990, n. 26 et del regolamento (CE) n. 1107/96» («Prosciutto di Parma» protected designation of origin in accordance with Law No 26 of 13 February 1990, and Regulation [(EC) No 1107/96](eu/31996r1107*)),
+- «confezionato sotto il controllo dell'Organismo autorizzato» (packaged under the supervision of the authorised body),
+- the packaging site,
+- the production date (date indicating start of ageing as shown on the seal).
 
 The use of adjectives such as «classic», «authentic», «extra», «super» or any other qualifying term or attribute added to the marketed product and other words not specifically provided for in the product specification is prohibited, except for the terms «disossato» (boned) and «affettato» (sliced).
 

@@ -26,7 +26,10 @@ eu_basis: []
 
 Forskriften gjelder stønad til briller til barn som har behov for synskorrigering.
 
-Forskriften gjelder ikke stønad som gis etter [folketrygdloven § 10-7](lov/1997-02-28-19/§10-7) første ledd bokstav atil anskaffelse av briller til forebygging eller behandling av amblyopitil anskaffelse av briller som kompenserer for nedsatt synsevne som følge av sykdom, skade eller lyte.
+Forskriften gjelder ikke stønad som gis etter [folketrygdloven § 10-7](lov/1997-02-28-19/§10-7) første ledd bokstav a
+
+1. til anskaffelse av briller til forebygging eller behandling av amblyopi
+2. til anskaffelse av briller som kompenserer for nedsatt synsevne som følge av sykdom, skade eller lyte.
 
 ## § 2. Vilkår for rett til stønad
 
@@ -44,7 +47,13 @@ Stønad gis til én brille per kalenderår. Utgifter til reparasjon dekkes ikke.
 
 ## § 4. Stønadens størrelse
 
-Stønad gis etter satser, som inndeles etter følgende brillestyrker:Sats 1: Briller med sfærisk styrke på minst ett glass ≥ 1,00D ≤ 4,00D og/eller cylinderstyrke på minst ett glass ≥ 1,00D ≤ 4,00DSats 2: Briller med sfærisk styrke på minst ett glass ≥ 4,25D ≤ 6,00D og cylinderstyrke på minst ett glass ≤ 4,00DSats 3: Briller med sfærisk styrke på minst ett glass ≥ 6,25D ≤ 8,00D og/eller cylinderstyrke på minst ett glass ≥ 4,25 D ≤ 6,00 DSats 4: Briller med sfærisk styrke på minst ett glass ≥ 8,25D ≤ 10,00D og cylinderstyrke på minst ett glass ≤ 6,00DSats 5: Briller med sfærisk styrke på minst ett glass ≥ 10,25D og/eller cylinderstyrke på minst ett glass ≥ 6,25D.
+Stønad gis etter satser, som inndeles etter følgende brillestyrker:
+
+1. Sats 1: Briller med sfærisk styrke på minst ett glass ≥ 1,00D ≤ 4,00D og/eller cylinderstyrke på minst ett glass ≥ 1,00D ≤ 4,00D
+2. Sats 2: Briller med sfærisk styrke på minst ett glass ≥ 4,25D ≤ 6,00D og cylinderstyrke på minst ett glass ≤ 4,00D
+3. Sats 3: Briller med sfærisk styrke på minst ett glass ≥ 6,25D ≤ 8,00D og/eller cylinderstyrke på minst ett glass ≥ 4,25 D ≤ 6,00 D
+4. Sats 4: Briller med sfærisk styrke på minst ett glass ≥ 8,25D ≤ 10,00D og cylinderstyrke på minst ett glass ≤ 6,00D
+5. Sats 5: Briller med sfærisk styrke på minst ett glass ≥ 10,25D og/eller cylinderstyrke på minst ett glass ≥ 6,25D.
 
 Størrelsen på satsene fastsettes av departementet.
 

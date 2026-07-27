@@ -38,19 +38,42 @@ Statsforvalteren er ansvarlig for behandling av personopplysninger ved behandlin
 
 ## § 4. Formålet med behandlingen av personopplysninger
 
-Kommunen kan behandle personopplysninger for spesifikke, uttrykkelig angitte og berettigede formål, herundervurdere om en person er vanskeligstilt på boligmarkedetgi individuelt tilpasset bistand til vanskeligstilte på boligmarkedetha oversikt over behovet for både ordinære og tilpassede boliger for vanskeligstilte på boligmarkedet.
+Kommunen kan behandle personopplysninger for spesifikke, uttrykkelig angitte og berettigede formål, herunder
+
+1. vurdere om en person er vanskeligstilt på boligmarkedet
+2. gi individuelt tilpasset bistand til vanskeligstilte på boligmarkedet
+3. ha oversikt over behovet for både ordinære og tilpassede boliger for vanskeligstilte på boligmarkedet.
 
 Statsforvalteren kan behandle opplysninger for formålene angitt i første ledd a og b ved behandling av klager etter [lov om kommunenes ansvar på det boligsosiale feltet § 7](lov/2022-12-20-121/§7).
 
 ## § 5. Personopplysninger som kan behandles
 
-Når det er nødvendig for å utføre oppgaver som nevnt i [lov om kommunenes ansvar på det boligsosiale feltet](lov/2022-12-20-121), kan kommunen og statsforvalteren behandle personopplysninger om følgende forhold:navn, adresse, telefonnummer, e-postadresse, reservasjonsstatus for digital post, kontonummer, målform, fødselsnummer, d-nummer og sivilstatusnavn og fødselsnummer eller d-nummer på medlemmer av husstandeneventuell verge og den rettslige handleevnen til den som ber om bistand i økonomiske forholdinntekt, formue, skatteberegning og gjeld, inkludert opplysninger om offentlige ytelser og stønaderandre økonomiske forhold, for eksempel kredittvurderinger, betalingsanmerkninger og underholdsbidragarbeidsforholdoppholdsrett og oppholdstillatelse, herunder oppholdsgrunnlag, varighet på oppholdsretten og oppholdstillatelsen og om det er søkt om fornyet oppholdstillatelse eller varig oppholdsrettbolig og boforholdsosiale og helsemessige forholdutdanningskole- og barnehageplassmorsmål og foretrukket tolkespråkstraffedommer og lovovertredelser.
+Når det er nødvendig for å utføre oppgaver som nevnt i [lov om kommunenes ansvar på det boligsosiale feltet](lov/2022-12-20-121), kan kommunen og statsforvalteren behandle personopplysninger om følgende forhold:
+
+1. navn, adresse, telefonnummer, e-postadresse, reservasjonsstatus for digital post, kontonummer, målform, fødselsnummer, d-nummer og sivilstatus
+2. navn og fødselsnummer eller d-nummer på medlemmer av husstanden
+3. eventuell verge og den rettslige handleevnen til den som ber om bistand i økonomiske forhold
+4. inntekt, formue, skatteberegning og gjeld, inkludert opplysninger om offentlige ytelser og stønader
+5. andre økonomiske forhold, for eksempel kredittvurderinger, betalingsanmerkninger og underholdsbidrag
+6. arbeidsforhold
+7. oppholdsrett og oppholdstillatelse, herunder oppholdsgrunnlag, varighet på oppholdsretten og oppholdstillatelsen og om det er søkt om fornyet oppholdstillatelse eller varig oppholdsrett
+8. bolig og boforhold
+9. sosiale og helsemessige forhold
+10. utdanning
+11. skole- og barnehageplass
+12. morsmål og foretrukket tolkespråk
+13. straffedommer og lovovertredelser.
 
 Personopplysninger angitt i første ledd bokstav d, kan kommunen uten hinder av taushetsplikt innhente fra skattemyndighetene på grunnlag av innrapporterte inntektsopplysninger og skatteoppgjøret.
 
 ## § 6. Opplysninger om andre enn den som ber om bistand
 
-Adgangen til å behandle opplysninger angitt i [§ 5](forskrift/2023-08-17-1330/§5) gjelder også nødvendige opplysninger omektefelle eller samboer til den som ber om bistandbarn, inkludert barn med delt bosted eller samværsrett, samt fosterbarn til den som ber om bistand, eller barn av ektefelle eller samboerforeldre, forsørgere, fosterforeldre eller personer med foreldreansvar for den som ber om bistandandre husstandsmedlemmer med betydning for den boligsosiale situasjonen til den som ber om bistand.
+Adgangen til å behandle opplysninger angitt i [§ 5](forskrift/2023-08-17-1330/§5) gjelder også nødvendige opplysninger om
+
+1. ektefelle eller samboer til den som ber om bistand
+2. barn, inkludert barn med delt bosted eller samværsrett, samt fosterbarn til den som ber om bistand, eller barn av ektefelle eller samboer
+3. foreldre, forsørgere, fosterforeldre eller personer med foreldreansvar for den som ber om bistand
+4. andre husstandsmedlemmer med betydning for den boligsosiale situasjonen til den som ber om bistand.
 
 ## § 7. Viderebehandling for utvikling og testing
 

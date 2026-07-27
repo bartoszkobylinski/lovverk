@@ -64,11 +64,21 @@ eu_basis: []
 
 ### § 2-2. Bachelorgrad
 
-(1) Graden bachelor blir tildelt for utdanningar på 180 studiepoeng, tilsvarande tre år, i eit av følgjande studieløp:eit fullført treårig studieprogram med 180 studiepoeng som ifølgje rammeplan eller forskrift gir bachelorgradeit fullført treårig integrert studieprogram med 180 studiepoeng (utan rammeplan) som ifølgje vedtak i styret for Høgskulen i Volda gir bachelorgradein fritt samansett bachelorgrad med eit omfang på 180 studiepoeng, jf. tredje ledd
+(1) Graden bachelor blir tildelt for utdanningar på 180 studiepoeng, tilsvarande tre år, i eit av følgjande studieløp:
+
+1. eit fullført treårig studieprogram med 180 studiepoeng som ifølgje rammeplan eller forskrift gir bachelorgrad
+2. eit fullført treårig integrert studieprogram med 180 studiepoeng (utan rammeplan) som ifølgje vedtak i styret for Høgskulen i Volda gir bachelorgrad
+3. ein fritt samansett bachelorgrad med eit omfang på 180 studiepoeng, jf. tredje ledd
 
 (2) I grunnlaget for graden skal det inngå ei bacheloroppgåve eller eit anna sjølvstendig fordjupingsarbeid. Dette arbeidet kan vere av teoretisk-metodisk, praktisk eller kunstnarisk art, og det kan vere utført individuelt eller i ei gruppe.
 
-(3) Det kan etter søknad skrivast ut vitnemål for ein fritt samansett bachelorgrad, med følgjande grunnkrav:Graden må innehalde minimum 80 studiepoeng innan same fagområde. Av desse 80 studiepoenga må minimum 20 studiepoeng vere på fordjupingsnivå.Graden må innehalde minst éi eining på minimum 30 studiepoeng på eit anna fagområde.I grunnlaget for graden skal det inngå ei bacheloroppgåve eller eit anna sjølvstendig fordjupingsarbeid, som skildra i [§ 2-2 (2)](forskrift/2025-07-03-1481/§2-2/ledd/2).Krav om tilknyting og gjenbruk av studiepoeng som følgjer av [forskrift om godkjenning av norsk og utenlandsk høyere utdanning og av realkompetanse (godkjenningsforskriften)](forskrift/2018-12-21-2221) må vere oppfylte.Ein kan berre få utskrive ein fritt samansett bachelorgrad dersom ein ikkje oppfyller krava i [§ 2-2](forskrift/2025-07-03-1481/§2-2) (1) a eller b.
+(3) Det kan etter søknad skrivast ut vitnemål for ein fritt samansett bachelorgrad, med følgjande grunnkrav:
+
+1. Graden må innehalde minimum 80 studiepoeng innan same fagområde. Av desse 80 studiepoenga må minimum 20 studiepoeng vere på fordjupingsnivå.
+2. Graden må innehalde minst éi eining på minimum 30 studiepoeng på eit anna fagområde.
+3. I grunnlaget for graden skal det inngå ei bacheloroppgåve eller eit anna sjølvstendig fordjupingsarbeid, som skildra i [§ 2-2 (2)](forskrift/2025-07-03-1481/§2-2/ledd/2).
+4. Krav om tilknyting og gjenbruk av studiepoeng som følgjer av [forskrift om godkjenning av norsk og utenlandsk høyere utdanning og av realkompetanse (godkjenningsforskriften)](forskrift/2018-12-21-2221) må vere oppfylte.
+5. Ein kan berre få utskrive ein fritt samansett bachelorgrad dersom ein ikkje oppfyller krava i [§ 2-2](forskrift/2025-07-03-1481/§2-2) (1) a eller b.
 
 (4) Studentane har krav på rettleiing i arbeidet med bacheloroppgåva. Det kan stillast som krav at studenten har gjennomført rettleiing for å kunne levere oppgåva. Vilkåra for rettleiing og krava til innlevering av bacheloroppgåve eller anna sjølvstendig fordjupingsarbeid skal gå fram av emneplanen.
 
@@ -136,9 +146,17 @@ For utdanningar som krev politiattest, følgjer krava av [§ 12-2](lov/2024-03-0
 
 (2) Spesifikke krav til fagleg grunnlag og faglege minstekrav for den enkelte utdanninga blir fastsett av styret i studieplanen, jf. [§ 2](forskrift/2005-12-01-1392/§2) i [forskrift om krav til mastergrad](forskrift/2005-12-01-1392).
 
-(3) For opptak til ein mastergrad med eit omfang på 120 studiepoeng må eit av følgjande utdanningsløp vere fullført eller bestått:bachelorgrad (minimum 180 studiepoeng)cand.mag.-gradannan grad eller yrkesutdanning av minimum 3 års omfangutdanning som i samsvar med [§ 9-3](lov/2024-03-08-9/§9-3) i lova er godkjend som jamgod med ovannemnde gradar eller utdanningsløp
+(3) For opptak til ein mastergrad med eit omfang på 120 studiepoeng må eit av følgjande utdanningsløp vere fullført eller bestått:
 
-(4) Innanfor grunnlaget for opptak må eit av følgjande inngå:Fordjuping i fag, emne eller emnegruppe av eit omfang på minimum 80 studiepoeng innanfor eit fagområde som er relevant for mastergraden. Dette skal gå fram av studieplanen.Integrert yrkesretta utdanning av eit omfang på minimum 120 studiepoeng innanfor eit fagområde som er relevant for mastergraden. Dette skal gå fram av studieplanen.
+- bachelorgrad (minimum 180 studiepoeng)
+- cand.mag.-grad
+- annan grad eller yrkesutdanning av minimum 3 års omfang
+- utdanning som i samsvar med [§ 9-3](lov/2024-03-08-9/§9-3) i lova er godkjend som jamgod med ovannemnde gradar eller utdanningsløp
+
+(4) Innanfor grunnlaget for opptak må eit av følgjande inngå:
+
+- Fordjuping i fag, emne eller emnegruppe av eit omfang på minimum 80 studiepoeng innanfor eit fagområde som er relevant for mastergraden. Dette skal gå fram av studieplanen.
+- Integrert yrkesretta utdanning av eit omfang på minimum 120 studiepoeng innanfor eit fagområde som er relevant for mastergraden. Dette skal gå fram av studieplanen.
 
 (5) Andre opptakskrav som er fastsette i studieplanen for masterprogrammet, må vere oppfylte.
 
@@ -146,7 +164,11 @@ For utdanningar som krev politiattest, følgjer krava av [§ 12-2](lov/2024-03-0
 
 ### § 3-7. Opptaksgrunnlag for erfaringsbasert master
 
-For opptak til ein erfaringsbasert mastergrad med omfang på 90 studiepoeng må opptaksgrunnlaget som går fram av [§ 3-6](forskrift/2025-07-03-1481/§3-6), vere oppfylt. I tillegg blir det stilt krav om følgjande:Minst 2 års relevant yrkespraksis, dokumentert med attest frå arbeidsgivar. Kva som blir rekna som relevant yrkespraksis, skal gå fram av studieplanen.Det vekta karaktergjennomsnittet skal vere C eller betre i den faglege fordjupinga. Omfanget til den faglege fordjupinga skal gå fram av studieplanen.Eventuelle særskilde opptakskrav skal gå fram av studieplanen.
+For opptak til ein erfaringsbasert mastergrad med omfang på 90 studiepoeng må opptaksgrunnlaget som går fram av [§ 3-6](forskrift/2025-07-03-1481/§3-6), vere oppfylt. I tillegg blir det stilt krav om følgjande:
+
+1. Minst 2 års relevant yrkespraksis, dokumentert med attest frå arbeidsgivar. Kva som blir rekna som relevant yrkespraksis, skal gå fram av studieplanen.
+2. Det vekta karaktergjennomsnittet skal vere C eller betre i den faglege fordjupinga. Omfanget til den faglege fordjupinga skal gå fram av studieplanen.
+3. Eventuelle særskilde opptakskrav skal gå fram av studieplanen.
 
 ### § 3-8. Opptaksgrunnlag for vidareutdanning
 
@@ -186,7 +208,10 @@ Opptakskrava for praktisk-pedagogisk utdanning går fram av [forskrift om rammep
 
 (1) Søkjarar til studium som er organiserte gjennom Samordna opptak, kan få tidleg opptak etter reglar som blir fastsette av Samordna opptak.
 
-(2) Søkjarar til studium med lokalt opptak til haustsemesteret kan få tidleg opptak dersom følgjande vilkår er oppfylte:På søknadstidspunktet oppfyller søkjaren opptakskrava og ville med god margin ha kome inn ved føregåande opptak; ogPå søknadstidspunktet har søkjaren eit dokumentert behov for tidlegare svar på søknaden om studieplass.
+(2) Søkjarar til studium med lokalt opptak til haustsemesteret kan få tidleg opptak dersom følgjande vilkår er oppfylte:
+
+1. På søknadstidspunktet oppfyller søkjaren opptakskrava og ville med god margin ha kome inn ved føregåande opptak; og
+2. På søknadstidspunktet har søkjaren eit dokumentert behov for tidlegare svar på søknaden om studieplass.
 
 (3) Aktuelle studium med lokalt opptak med moglegheit for tidleg opptak er skildra i retningslinjene for opptak.
 
@@ -230,7 +255,13 @@ Opptakskrava for praktisk-pedagogisk utdanning går fram av [forskrift om rammep
 
 (1) Studenten må gjennomføre semesterregistrering kvart semester for at studieretten skal vere gyldig.
 
-(2) Innan fristen for semesterregistrering må studentar gjere følgjande:registrere seg i Studentwebgodkjenne utdanningsplanen for studieprogrammetmelde seg opp til undervisning og vurderingbetale semesteravgiftastadfeste at ein er gjort kjend med høgskulen sitt regelverk
+(2) Innan fristen for semesterregistrering må studentar gjere følgjande:
+
+1. registrere seg i Studentweb
+2. godkjenne utdanningsplanen for studieprogrammet
+3. melde seg opp til undervisning og vurdering
+4. betale semesteravgifta
+5. stadfeste at ein er gjort kjend med høgskulen sitt regelverk
 
 ### § 4-3. Lengd på studieretten
 
@@ -308,15 +339,29 @@ Opptakskrava for praktisk-pedagogisk utdanning går fram av [forskrift om rammep
 
 ### § 7-1. Studiekalender og fristar
 
-(1) Det blir for kvart studieår fastsett ein studiekalender som viserstart- og avslutningsdato for haust- og vårsemesteretundervisnings- og eksamensperiodar.
+(1) Det blir for kvart studieår fastsett ein studiekalender som viser
 
-(2) Det blir fastsett fristar forsemesterregistrering og godkjenning av utdanningsplanbetaling av semesteravgift til studentsamskipnaden og ev. andre avgifterå søkje om utveksling eller utanlandsopphaldandre høve som gjeld gjennomføring av studiet.
+1. start- og avslutningsdato for haust- og vårsemesteret
+2. undervisnings- og eksamensperiodar.
+
+(2) Det blir fastsett fristar for
+
+1. semesterregistrering og godkjenning av utdanningsplan
+2. betaling av semesteravgift til studentsamskipnaden og ev. andre avgifter
+3. å søkje om utveksling eller utanlandsopphald
+4. andre høve som gjeld gjennomføring av studiet.
 
 (3) Studiekalenderen og informasjonen om fristar blir kunngjord på høgskulen sin offisielle nettstad.
 
 ### § 7-2. Studentavgifter og semesterkvittering
 
-(1) Høgskulen i Volda krev kvart semester innsemesteravgift til Studentsamskipnaden i Volda, jf. [lov om studentsamskipnader § 10](lov/2007-12-14-116/§10)frivillig støtte til Studentenes og Akademikernes Internasjonale Hjelpefond (SAIH)avgifter til læremiddel og andre materialkostnader knytte til undervisninga, jf. [universitets- og høyskoleforskriften § 4-7](forskrift/2024-06-28-1392/§4-7)studieavgift, dersom det er vedteke at dette skal gjelde for studieprogrammet, jf. [universitets- og høyskoleforskriften § 4-6](forskrift/2024-06-28-1392/§4-6)studieavgift for statsborgarar frå land utanfor EØS og Sveits, jf. [uhl. § 2-6](lov/2024-03-08-9/§2-6).
+(1) Høgskulen i Volda krev kvart semester inn
+
+1. semesteravgift til Studentsamskipnaden i Volda, jf. [lov om studentsamskipnader § 10](lov/2007-12-14-116/§10)
+2. frivillig støtte til Studentenes og Akademikernes Internasjonale Hjelpefond (SAIH)
+3. avgifter til læremiddel og andre materialkostnader knytte til undervisninga, jf. [universitets- og høyskoleforskriften § 4-7](forskrift/2024-06-28-1392/§4-7)
+4. studieavgift, dersom det er vedteke at dette skal gjelde for studieprogrammet, jf. [universitets- og høyskoleforskriften § 4-6](forskrift/2024-06-28-1392/§4-6)
+5. studieavgift for statsborgarar frå land utanfor EØS og Sveits, jf. [uhl. § 2-6](lov/2024-03-08-9/§2-6).
 
 (2) Betalt semesteravgift, saman med gyldig studierett, gir rett til semesterkvittering som stadfestar at ein er student i det aktuelle semesteret.
 
@@ -416,7 +461,11 @@ Opptakskrava for praktisk-pedagogisk utdanning går fram av [forskrift om rammep
 
 ### § 7-9. Overgang mellom studieprogram
 
-(1) Ein student kan normalt få overgang frå eit årsstudium til eit bachelorstudium innanfor same fagområde dersomstudenten har fått studierett gjennom ordinært opptak, har møtt til studiestart og har registrert seg på det studieprogrammet vedkomande blei oppteken til, ogstudieprogrammet studenten søkjer overgang til, ikkje er lukka ved poengrangering, ogstudenten oppfyller opptakskravet til studieprogrammet.
+(1) Ein student kan normalt få overgang frå eit årsstudium til eit bachelorstudium innanfor same fagområde dersom
+
+1. studenten har fått studierett gjennom ordinært opptak, har møtt til studiestart og har registrert seg på det studieprogrammet vedkomande blei oppteken til, og
+2. studieprogrammet studenten søkjer overgang til, ikkje er lukka ved poengrangering, og
+3. studenten oppfyller opptakskravet til studieprogrammet.
 
 (2) Dersom studieprogrammet er lukka med poengrangering, kan overgang vurderast dersom studenten sin poengsum er lik eller høgare enn medianen ved siste opptak.
 
@@ -530,7 +579,15 @@ Høgskulen i Volda har fleire utdanningar som er underlagde reglane om skikkavur
 
 (1) Det er ikkje høve til å framstille seg til eksamen i same emne meir enn tre – 3 – gonger ved Høgskulen i Volda. Avgrensinga gjeld også ved nytt opptak før det er gått tre år etter siste eksamensforsøk, jf. § 4-5 (4). For praksis har studenten to forsøk, jf. [§ 8-6](forskrift/2025-07-03-1481/§8-6).
 
-(2) Eit forsøk er teljande dersom studentenhar bestått eksamentrekkjer seg etter at fristen er gått ut, eller under eksamen, jf. [§ 9-4](forskrift/2025-07-03-1481/§9-4)ikkje møter til eksamenikkje leverer eksamen innan fristenikkje leverer bachelor- eller masteroppgåve innan ordinær frist eller utsett fristfår karakteren F eller ikkje beståttfår eksamen annullert på grunn av fusk eller forsøk på fusk.
+(2) Eit forsøk er teljande dersom studenten
+
+1. har bestått eksamen
+2. trekkjer seg etter at fristen er gått ut, eller under eksamen, jf. [§ 9-4](forskrift/2025-07-03-1481/§9-4)
+3. ikkje møter til eksamen
+4. ikkje leverer eksamen innan fristen
+5. ikkje leverer bachelor- eller masteroppgåve innan ordinær frist eller utsett frist
+6. får karakteren F eller ikkje bestått
+7. får eksamen annullert på grunn av fusk eller forsøk på fusk.
 
 (3) Gyldig fråvær blir ikkje rekna som eit teljande eksamensforsøk, jf. [§ 9-6](forskrift/2025-07-03-1481/§9-6).
 
@@ -538,7 +595,11 @@ Høgskulen i Volda har fleire utdanningar som er underlagde reglane om skikkavur
 
 ### § 9-6. Kontinuasjonseksamen («konteeksamen») – ny eksamen
 
-(1) Det blir som hovudregel arrangert ein kontinuasjonseksamen påfølgjande semester for studentar somhar gyldig fråvær, ellerhar resultat F eller ikkje bestått, ellertrekkjer seg under ordinær eksamen.
+(1) Det blir som hovudregel arrangert ein kontinuasjonseksamen påfølgjande semester for studentar som
+
+- har gyldig fråvær, eller
+- har resultat F eller ikkje bestått, eller
+- trekkjer seg under ordinær eksamen.
 
 (2) Ein student som har rett til kontinuasjonseksamen etter første ledd, må sjølv melde seg opp til eksamen innan fristen.
 
@@ -676,7 +737,18 @@ Vurderingsuttrykket for ein eksamen er enten bestått eller ikkje bestått eller
 
 (1) Fusk, forsøk på fusk eller medverknad til fusk ligg føre når ein student handlar i strid med [kapittel 10](forskrift/2025-07-03-1481/kap10) i denne forskrifta, eller i strid med reglane for gjennomføring av eksamen eller obligatorisk aktivitet, på ein slik måte at handlinga kan vere eigna til å gi ein urettmessig fordel for studenten sjølv eller for andre.
 
-(2) Følgjande blir rekna som fusk:Studenten har ulovlege hjelpemiddel tilgjengeleg under eksamen.Studenten bruker lovlege hjelpemiddel på ein uriktig måte.Studenten presenterer andre sitt arbeid som sitt eige utan tilstrekkeleg kjeldetilvising eller markering av sitat.Studenten leverer eit arbeid av praktisk eller kunstnarisk art som er laga av andre enn dei sjølve.Studenten leverer eit eksamensarbeid eller ei eksamensoppgåve som er utarbeidd av andre personar eller funksjonar som sitt eige arbeid.Studenten har fiktive kjelder, informantar eller data (fabrikkering eller forfalsking av data).Studenten bruker sitt eige arbeid som tidlegare har gitt utteljing (bestått eksamen eller godkjent arbeidskrav), utan tilstrekkeleg kjeldetilvising til sitt eige arbeid. Gjenbruk av eigne tidlegare arbeid som har gitt utteljing, kan tillatast dersom dette følgjer av emneplanen eller eksamensoppgåva.Studenten har skaffa seg tilgang til eksamensoppgåva før eksamenen startar.Studenten skaffar seg tilgang til eksamen ved å fuske med ein obligatorisk aktivitet eller ved å få godkjenning for deltaking i ein obligatorisk aktivitet på uriktig grunnlag.Studentane utformar eit eksamensarbeid eller ei eksamensoppgåve til individuell eksamen i fellesskap eller deltar på ein annan måte i eit ulovleg samarbeid under eksamen.
+(2) Følgjande blir rekna som fusk:
+
+- Studenten har ulovlege hjelpemiddel tilgjengeleg under eksamen.
+- Studenten bruker lovlege hjelpemiddel på ein uriktig måte.
+- Studenten presenterer andre sitt arbeid som sitt eige utan tilstrekkeleg kjeldetilvising eller markering av sitat.
+- Studenten leverer eit arbeid av praktisk eller kunstnarisk art som er laga av andre enn dei sjølve.
+- Studenten leverer eit eksamensarbeid eller ei eksamensoppgåve som er utarbeidd av andre personar eller funksjonar som sitt eige arbeid.
+- Studenten har fiktive kjelder, informantar eller data (fabrikkering eller forfalsking av data).
+- Studenten bruker sitt eige arbeid som tidlegare har gitt utteljing (bestått eksamen eller godkjent arbeidskrav), utan tilstrekkeleg kjeldetilvising til sitt eige arbeid. Gjenbruk av eigne tidlegare arbeid som har gitt utteljing, kan tillatast dersom dette følgjer av emneplanen eller eksamensoppgåva.
+- Studenten har skaffa seg tilgang til eksamensoppgåva før eksamenen startar.
+- Studenten skaffar seg tilgang til eksamen ved å fuske med ein obligatorisk aktivitet eller ved å få godkjenning for deltaking i ein obligatorisk aktivitet på uriktig grunnlag.
+- Studentane utformar eit eksamensarbeid eller ei eksamensoppgåve til individuell eksamen i fellesskap eller deltar på ein annan måte i eit ulovleg samarbeid under eksamen.
 
 (3) Ein student kan mistenkast for fusk frå det tidspunkt ein eksamen eller obligatorisk aktivitet har starta. Ein eksamen eller obligatorisk aktivitet blir som hovudregel rekna som starta når oppgåveteksten er utlevert eller problemformuleringa er godkjend. Dersom det blei gjennomført kontroll av lovlege hjelpemiddel før oppgåveteksten er utlevert, blir eksamenen rekna som starta frå det tidspunktet studenten har levert inn hjelpemidla sine for kontroll.
 
@@ -718,7 +790,10 @@ Vurderingsuttrykket for ein eksamen er enten bestått eller ikkje bestått eller
 
 (4) For utdanningar der skikkavurdering inngår, kan vitnemål haldast tilbake fram til studenten er vurdert som skikka for yrket.
 
-(5) I følgjande tilfelle kan vitnemål utferdast på papir:dersom studenten manglar norsk fødselsnummer eller D-nummerdersom studenten har fått digitalt vitnemål, men har behov for å vise fram eit vitnemål på papir til ein utdanningsinstitusjon eller arbeidsgivar i utlandet.
+(5) I følgjande tilfelle kan vitnemål utferdast på papir:
+
+1. dersom studenten manglar norsk fødselsnummer eller D-nummer
+2. dersom studenten har fått digitalt vitnemål, men har behov for å vise fram eit vitnemål på papir til ein utdanningsinstitusjon eller arbeidsgivar i utlandet.
 
 (6) I særskilde tilfelle kan studenten få produsert eit duplikat ved å søkje om dette. Søknaden må vere dokumentert. Det blir normalt kravd ei avgift for å produsere eit duplikat.
 

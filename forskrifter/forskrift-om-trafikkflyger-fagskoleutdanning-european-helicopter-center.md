@@ -15,7 +15,7 @@ xml_hash: "28be373f720135e281d910ff31104976b972ffc36893b832e0a62db38efe27e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,9 +60,25 @@ EHC har to hovedopptak hvert år, i vår- og høstsemester. Skolen kan utvide an
 
 ### § 2-2. Opptakskrav
 
-(1) Opptakskrav til fagskolen er:Fullført og bestått videregående opplæring med generell studiekompetanse, fagbrev, svennebrev eller vitnemål fra relevant yrkesutdanning. Informasjon om hvilke kompetanser som gir rett til opptak på den enkelte utdanning finnes i de enkelte studieplaner.Søkere som er 23 år eller eldre i opptaksåret, kan tas opp på grunnlag av tilsvarende kompetanse som i a etter gjennomført realkompetansevurdering. Ved opptak med bakgrunn i realkompetanse, må søkeren fremlegge dokumentasjon på realkompetanse tilsvarende de ordinære opptakskravene.Bestå opptaksprøve.Studenter må være fylt 18 år for å gjennomføre Skilltest (Ferdighetsprøve). Dette iht. internasjonal lov om luftfart (Part FCL).Søkeren må inneha gyldig medisinsk sertifikat for flygere klasse 1 før første soloflyging kan gjennomføres.
+(1) Opptakskrav til fagskolen er:
 
-(2) Alle kandidater til opptak må gjennomføre skolens opptaksprøve. Introduksjon til opptaksprøven oversendes per e-post til kandidater ved påmelding.Opptaksprøven er utviklet for seleksjon av pilotkandidater. Kandidaten blir testet på områder som:Situasjonsoppfatningromlige evnerteknisk forståelseresonnementengelsklogikkmatematikk.
+1. Fullført og bestått videregående opplæring med generell studiekompetanse, fagbrev, svennebrev eller vitnemål fra relevant yrkesutdanning. Informasjon om hvilke kompetanser som gir rett til opptak på den enkelte utdanning finnes i de enkelte studieplaner.
+2. Søkere som er 23 år eller eldre i opptaksåret, kan tas opp på grunnlag av tilsvarende kompetanse som i a etter gjennomført realkompetansevurdering. Ved opptak med bakgrunn i realkompetanse, må søkeren fremlegge dokumentasjon på realkompetanse tilsvarende de ordinære opptakskravene.
+3. Bestå opptaksprøve.
+4. Studenter må være fylt 18 år for å gjennomføre Skilltest (Ferdighetsprøve). Dette iht. internasjonal lov om luftfart (Part FCL).
+5. Søkeren må inneha gyldig medisinsk sertifikat for flygere klasse 1 før første soloflyging kan gjennomføres.
+
+(2) Alle kandidater til opptak må gjennomføre skolens opptaksprøve. Introduksjon til opptaksprøven oversendes per e-post til kandidater ved påmelding.
+
+1. Opptaksprøven er utviklet for seleksjon av pilotkandidater. Kandidaten blir testet på områder som:
+
+   - Situasjonsoppfatning
+   - romlige evner
+   - teknisk forståelse
+   - resonnement
+   - engelsk
+   - logikk
+   - matematikk.
 
 (3) Bestått opptaksprøve og oppfyllelse av ovenstående kriterier kvalifiserer kandidaten til opptak ved første ledige klasse ved EHC. Studentopptak skjer kontinuerlig gjennom året.
 
@@ -76,7 +92,10 @@ EHC har to hovedopptak hvert år, i vår- og høstsemester. Skolen kan utvide an
 
 (1) Styret selv er ansvarlig for opptak til fagskoleutdanningene for det enkelte studieår og at dette blir gjennomført korrekt.
 
-(2) Vedtak om opptak fattes av rektor ved skolen, herunder åbehandle søknader om opptak på særskilt grunnlagbehandle realkompetansesøknader.
+(2) Vedtak om opptak fattes av rektor ved skolen, herunder å
+
+1. behandle søknader om opptak på særskilt grunnlag
+2. behandle realkompetansesøknader.
 
 (3) Vedtak om opptak kan påklages til den lokale klagenemnda.
 
@@ -126,7 +145,12 @@ EHC stiller ikke krav om politiattest. Imidlertid vil det være et krav om uttø
 
 (1) Vurderingsuttrykket ved avsluttende vurdering, eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være bestått/ikke bestått eller en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått, jf. [forskrift om høyere yrkesfaglig utdanning § 40](forskrift/2019-07-11-1005/§40).
 
-(2) Ved European Helicopter Center kan følgende eksamensformer benyttes hver for seg eller sammen for det enkelte emnet, slik det er beskrevet i den enkelte studieplan:skriftlig eksamen under tilsynmuntlig eksamenferdighetsprøvermuntlige presentasjoner.
+(2) Ved European Helicopter Center kan følgende eksamensformer benyttes hver for seg eller sammen for det enkelte emnet, slik det er beskrevet i den enkelte studieplan:
+
+- skriftlig eksamen under tilsyn
+- muntlig eksamen
+- ferdighetsprøver
+- muntlige presentasjoner.
 
 ### § 3-3. Karakterskala
 
@@ -187,9 +211,21 @@ De enkelte studieplaner regulerer gjennomføring av eksamener og omfatter bl.a. 
 
 (3) Etter bestått teorieksamen vil studenten motta en bevitnelse av eksamensresultat i de ulike fagene (Notice of examination result) fra luftfartsmyndigheten.
 
-(4) Vitnemålet undertegnes av rektor, eller den rektor har gitt fullmakt.Når alle emnene av utdanningen er fullført vil studenten få utstedt trafikkflygersertifikat (CPL) fra luftfartsmyndigheten (CAA-N).Studenter som avbryter utdanningen underveis, kan ved anmodning få utstedt en karakterutskrift for de deler av utdanningen som er bestått. De oppnår også studiepoeng for de emnene som er bestått.
+(4) Vitnemålet undertegnes av rektor, eller den rektor har gitt fullmakt.
 
-(5) Vitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:Kandidatens navnDet overordnede læringsutbyttetEmnerKvalifikasjonsnivået som oppnåsKaraktersystemet som benyttes (5–1 eller bestått/ikke bestått)Antall studiepoengKarakter/karaktererGradsbetegnelse.
+1. Når alle emnene av utdanningen er fullført vil studenten få utstedt trafikkflygersertifikat (CPL) fra luftfartsmyndigheten (CAA-N).
+2. Studenter som avbryter utdanningen underveis, kan ved anmodning få utstedt en karakterutskrift for de deler av utdanningen som er bestått. De oppnår også studiepoeng for de emnene som er bestått.
+
+(5) Vitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:
+
+1. Kandidatens navn
+2. Det overordnede læringsutbyttet
+3. Emner
+4. Kvalifikasjonsnivået som oppnås
+5. Karaktersystemet som benyttes (5–1 eller bestått/ikke bestått)
+6. Antall studiepoeng
+7. Karakter/karakterer
+8. Gradsbetegnelse.
 
 ## Kapittel 5. Sanksjoner
 
@@ -247,11 +283,21 @@ De enkelte studieplaner regulerer gjennomføring av eksamener og omfatter bl.a. 
 
 (1) Lokal klagenemnd for fagskoleutdanning, jf. [lov om høyere yrkesfaglig utdanning § 20](lov/2018-06-08-28/§20), behandler klager over enkeltvedtak fattet av fagskolen.
 
-(2) Den lokale klagenemnda oppnevnes av styret og består av fem medlemmer med personlige varamedlemmer. Klagenemnda skal ha slik sammensetning:leder med personlig varamedlemett medlem med fagskoleadministrativ kompetanse med personlig varamedlemett medlem som er fagskolelærer med personlig varamedlemto studenter med personlig varamedlem.Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere og ikke være tilsatt ved fagskolen. Klagenemnda er vedtaksfør når lederen eller nestlederen og minst to andre medlemmer eller varamedlemmer er til stede. Jf. [§ 20 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§20).
+(2) Den lokale klagenemnda oppnevnes av styret og består av fem medlemmer med personlige varamedlemmer. Klagenemnda skal ha slik sammensetning:
+
+1. leder med personlig varamedlem
+2. ett medlem med fagskoleadministrativ kompetanse med personlig varamedlem
+3. ett medlem som er fagskolelærer med personlig varamedlem
+4. to studenter med personlig varamedlem.
+
+Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere og ikke være tilsatt ved fagskolen. Klagenemnda er vedtaksfør når lederen eller nestlederen og minst to andre medlemmer eller varamedlemmer er til stede. Jf. [§ 20 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§20).
 
 (3) Klagenemndas vedtak i saker om fagskolens enkeltvedtak kan ikke påklages, jf. [lov om høyere yrkesfaglig utdanning § 20](lov/2018-06-08-28/§20).
 
-(4) Nasjonal klagenemnd for fagskoleutdanning, jf. [forskrift om høyere yrkesfaglig utdanning kapittel 7](forskrift/2019-07-11-1005/kap7), er klageinstans for klager på enkeltvedtak truffet med hjemmel i følgende paragrafer i [lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28):[§ 24](lov/2018-06-08-28/§24) Annullering av eksamen eller prøve[§ 25](lov/2018-06-08-28/§25) Bortvisning og utestenging
+(4) Nasjonal klagenemnd for fagskoleutdanning, jf. [forskrift om høyere yrkesfaglig utdanning kapittel 7](forskrift/2019-07-11-1005/kap7), er klageinstans for klager på enkeltvedtak truffet med hjemmel i følgende paragrafer i [lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28):
+
+- [§ 24](lov/2018-06-08-28/§24) Annullering av eksamen eller prøve
+- [§ 25](lov/2018-06-08-28/§25) Bortvisning og utestenging
 
 (5) Den nasjonale klagenemndas vedtak kan ikke påklages, jf. [forskrift om høyere yrkesfaglig utdanning § 45 fjerde ledd](forskrift/2019-07-11-1005/§45/ledd/4).
 
@@ -275,7 +321,13 @@ De enkelte studieplaner regulerer gjennomføring av eksamener og omfatter bl.a. 
 
 (6) Klage skal besvares senest innen en måned. Dersom klagebehandlingen tar lengre tid, skal den som klager, underrettes om dette skriftlig.
 
-(7) En klage må inneholde:klagers navn og adressehenvisning til vedtaket det klages overhva klagen gjelder og begrunnelse for denneangivelse av den endring som ønskes i det vedtak det klages overdato og underskrift(er).
+(7) En klage må inneholde:
+
+1. klagers navn og adresse
+2. henvisning til vedtaket det klages over
+3. hva klagen gjelder og begrunnelse for denne
+4. angivelse av den endring som ønskes i det vedtak det klages over
+5. dato og underskrift(er).
 
 ### § 7-5. Klage på karakterfastsetting
 

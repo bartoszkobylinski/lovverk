@@ -15,7 +15,7 @@ xml_hash: "3cfc92e6ba8d650cc1bd0c99075a075dce85fa568cc55832151fc4c6c334ce89"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Fullmakt til prisregulering.
 
-Når det er nødvendig for å fremme en samfunnsmessig forsvarlig prisutvikling, kan Kongen fastsette:vedtak om maksimalpriser, minstepriser, prisstopp, prisberegninger, rabatter, maksimalavanser, leverings- og betalingsvilkår og andre bestemmelser om priser, fortjenester og forretningsvilkår, ellervedtak om meldeplikt for endring av størrelser i nr. 1.
+Når det er nødvendig for å fremme en samfunnsmessig forsvarlig prisutvikling, kan Kongen fastsette:
+
+1. vedtak om maksimalpriser, minstepriser, prisstopp, prisberegninger, rabatter, maksimalavanser, leverings- og betalingsvilkår og andre bestemmelser om priser, fortjenester og forretningsvilkår, eller
+2. vedtak om meldeplikt for endring av størrelser i nr. 1.
 
 Kongen skal gi melding til Stortinget om særlig viktige reguleringer som vedtas etter første ledd.
 
@@ -50,7 +53,11 @@ Opplysninger som kreves etter annet ledd kan gis uten hinder av den lovbestemte 
 
 ## § 4. Straff.
 
-Med bøter eller med fengsel inntil tre år straffes den som uaktsomt eller forsettlig:overtrer denne lovs [§ 2](lov/1993-06-11-66/§2) eller vedtak etter [denne lov](lov/1993-06-11-66/§2)s [§ 1](lov/1993-06-11-66/§1),unnlater å etterkomme pålegg om opplysninger og/eller medvirke til gransking etter [§ 3](lov/1993-06-11-66/§3),gir uriktige eller ufullstendige opplysninger til kontrollmyndighetene.
+Med bøter eller med fengsel inntil tre år straffes den som uaktsomt eller forsettlig:
+
+1. overtrer denne lovs [§ 2](lov/1993-06-11-66/§2) eller vedtak etter [denne lov](lov/1993-06-11-66/§2)s [§ 1](lov/1993-06-11-66/§1),
+2. unnlater å etterkomme pålegg om opplysninger og/eller medvirke til gransking etter [§ 3](lov/1993-06-11-66/§3),
+3. gir uriktige eller ufullstendige opplysninger til kontrollmyndighetene.
 
 Den som har kjøpt en ting eller rettighet eller mottatt en ytelse på ulovlige vilkår, kan bare straffes for medvirkning hvis han eller hun har tilskyndet eller forledet til overtredelsen.
 
@@ -80,7 +87,10 @@ Adgangen til å reise sak med krav på inndragning etter denne paragraf faller b
 
 Den som har betalt høyere pris enn lovlig, kan kreve overprisen tilbakebetalt dersom han eller hun ikke etter forholdene må anses for i vesentlig grad medansvarlig for overtredelsen.
 
-Krav om at den avtalte pris skal settes ned til lovlig pris eller krav om tilbakebetaling av overprisen, gir ikke den annen part rett til å heve avtalen dersom:det gjelder ervervsmessig omsetning av ting eller ytelser til forbruker, ellerhevingen ville virke urimelig under hensyn til den skyld begge parter har utvist og omstendighetene for øvrig.
+Krav om at den avtalte pris skal settes ned til lovlig pris eller krav om tilbakebetaling av overprisen, gir ikke den annen part rett til å heve avtalen dersom:
+
+1. det gjelder ervervsmessig omsetning av ting eller ytelser til forbruker, eller
+2. hevingen ville virke urimelig under hensyn til den skyld begge parter har utvist og omstendighetene for øvrig.
 
 ## § 7. Ikrafttredelse m.v.
 

@@ -15,7 +15,7 @@ xml_hash: "5b4ef156e3a5f16ab72971beac8561027f66086535dfb0938d8b6d6abd7069b8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,31 @@ Denne forskriften gjelder for nye og eksisterende norske skip som skal besiktes 
 
 ## § 2. Definisjoner
 
-I denne forskrift betyr:*Eksisterende passasjerskip i spesiell fart:* Passasjerskip i spesiell fart som ikke er nytt passasjerskip i spesiell fart. Likt med eksisterende passasjerskip i spesiell fart regnes skip som innkjøpes fra utlandet.*Internasjonal reise:* En reise fra et land som omfattes av Sjøsikkerhetskonvensjonen til en havn utenfor dette land eller omvendt, og i denne henseende skal ethvert territorium for hvis internasjonale forhold en kontraherende regjering er ansvarlig, eller for hvilket De forente nasjoner er den administrerende myndighet, betraktes som eget land.*Lastelinjekonvensjonen:* Den internasjonale konvensjon om lastelinjer som ble undertegnet i London den 5. april 1966 med senere endringer, herunder endringer foretatt ved 1988-Protokollen til Lastelinjekonvensjonen 1966.*Nytt passasjerskip i spesiell fart:* Et passasjerskip i spesiell fart hvis kjøl strekkes eller som er på et liknende byggetrinn, på eller etter den dag disse forskrifter trer i kraft, eller et skip som fører passasjerer i spesiell fart for første gang på eller etter denne dag. Likt med nytt skip regnes skip som ombygges til passasjerskip i spesiell fart på eller etter nevnte dag.*Oljesølkonvensjonen:* Den internasjonale konvensjon om hindring av oljeforurensning av sjøen som ble undertegnet i London 12. mai 1954 med senere endringer.*Overenskomsten:* Den internasjonale overenskomst om passasjerskip i spesiell fart, 1971, som ble undertegnet i London 6. oktober 1971, med ikrafttreden 2. januar 1974. Overenskomsten med vedlegg følger som bilag 1 til disse forskrifter.*Passasjer:* Enhver person om bord med unntak av:skipsføreren og medlemmer av besetningen eller andre personer, ansatt eller beskjeftiget i skipets tjeneste i hvilken som helst stilling om bord, ogbarn under ett år.med uttrykket «andre personer ansatt eller beskjeftiget i skipets tjeneste i hvilken som helst stilling om bord», menes personell for:forsknings- eller vitenskapelig arbeid som havforskning, seismiske målinger o.l.,reell yrkesmessig opplæring rettet mot sjøfart eller fiske,opplæring som er organisert som fag i grunnskole eller videregående skole, ogrehabiliteringstiltak som er godkjent av offentlig myndighet.*Passasjer i spesiell fart:* En passasjer ført i spesiell fart på værdekket, øvre dekk og/eller mellomdekk som gir plass til mer enn åtte passasjerer.*Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.*Passasjerskip i spesiell fart:* Et mekanisk fremdrevet passasjerskip som fører et stort antall passasjerer i spesiell fart.*Protokollen:* Protokoll om romkrav for passasjerskip i spesiell fart, 1973, som ble undertegnet i London 13. oktober 1973. Overenskomsten med vedlegg følger som bilag 3 til disse forskrifter.*Regler:* De regler som er knyttet til Sjøsikkerhetskonvensjonen; henvisning til slike regler, skal forstås som henvisning til nevnte regler slik disse er blitt modifisert ved nærværende forskrifter.*Sjøsikkerhetskonvensjonen (SOLAS):* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.1*Spesiell fart:* Befordring på sjøen av et stort antall passasjerer i spesiell fart på en internasjonal reise innenfor et område som definert i overenskomstens regel 2(6).
+I denne forskrift betyr:
+
+1. *Eksisterende passasjerskip i spesiell fart:* Passasjerskip i spesiell fart som ikke er nytt passasjerskip i spesiell fart. Likt med eksisterende passasjerskip i spesiell fart regnes skip som innkjøpes fra utlandet.
+2. *Internasjonal reise:* En reise fra et land som omfattes av Sjøsikkerhetskonvensjonen til en havn utenfor dette land eller omvendt, og i denne henseende skal ethvert territorium for hvis internasjonale forhold en kontraherende regjering er ansvarlig, eller for hvilket De forente nasjoner er den administrerende myndighet, betraktes som eget land.
+3. *Lastelinjekonvensjonen:* Den internasjonale konvensjon om lastelinjer som ble undertegnet i London den 5. april 1966 med senere endringer, herunder endringer foretatt ved 1988-Protokollen til Lastelinjekonvensjonen 1966.
+4. *Nytt passasjerskip i spesiell fart:* Et passasjerskip i spesiell fart hvis kjøl strekkes eller som er på et liknende byggetrinn, på eller etter den dag disse forskrifter trer i kraft, eller et skip som fører passasjerer i spesiell fart for første gang på eller etter denne dag. Likt med nytt skip regnes skip som ombygges til passasjerskip i spesiell fart på eller etter nevnte dag.
+5. *Oljesølkonvensjonen:* Den internasjonale konvensjon om hindring av oljeforurensning av sjøen som ble undertegnet i London 12. mai 1954 med senere endringer.
+6. *Overenskomsten:* Den internasjonale overenskomst om passasjerskip i spesiell fart, 1971, som ble undertegnet i London 6. oktober 1971, med ikrafttreden 2. januar 1974. Overenskomsten med vedlegg følger som bilag 1 til disse forskrifter.
+7. *Passasjer:* Enhver person om bord med unntak av:
+
+   1. skipsføreren og medlemmer av besetningen eller andre personer, ansatt eller beskjeftiget i skipets tjeneste i hvilken som helst stilling om bord, og
+   2. barn under ett år.
+   3. med uttrykket «andre personer ansatt eller beskjeftiget i skipets tjeneste i hvilken som helst stilling om bord», menes personell for:
+
+      1. forsknings- eller vitenskapelig arbeid som havforskning, seismiske målinger o.l.,
+      2. reell yrkesmessig opplæring rettet mot sjøfart eller fiske,
+      3. opplæring som er organisert som fag i grunnskole eller videregående skole, og
+      4. rehabiliteringstiltak som er godkjent av offentlig myndighet.
+8. *Passasjer i spesiell fart:* En passasjer ført i spesiell fart på værdekket, øvre dekk og/eller mellomdekk som gir plass til mer enn åtte passasjerer.
+9. *Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.
+10. *Passasjerskip i spesiell fart:* Et mekanisk fremdrevet passasjerskip som fører et stort antall passasjerer i spesiell fart.
+11. *Protokollen:* Protokoll om romkrav for passasjerskip i spesiell fart, 1973, som ble undertegnet i London 13. oktober 1973. Overenskomsten med vedlegg følger som bilag 3 til disse forskrifter.
+12. *Regler:* De regler som er knyttet til Sjøsikkerhetskonvensjonen; henvisning til slike regler, skal forstås som henvisning til nevnte regler slik disse er blitt modifisert ved nærværende forskrifter.
+13. *Sjøsikkerhetskonvensjonen (SOLAS):* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.1
+14. *Spesiell fart:* Befordring på sjøen av et stort antall passasjerer i spesiell fart på en internasjonal reise innenfor et område som definert i overenskomstens regel 2(6).
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
@@ -120,7 +144,11 @@ Enhver henvisning til denne overenskomst er samtidig en henvisning til overensko
 
 ### Art III. Formidling av informasjon
 
-De regjeringer som er deltakere i denne overenskomst forplikter seg til å sende til og deponere hos Den mellomstatlige rådgivende skipsfartsorganisasjon (heretter kalt «organisasjonen»):ordlyden av de lover, resolusjoner, forordninger, forskrifter og andre bestemmelser som måtte være utferdiget om de forskjellige emner som inngår i overenskomsten,et tilstrekkelig antall eksemplarer av deres sertifikater, utstedt i henhold til bestemmelsene i denne overenskomst, for distribuering til de regjeringer som er deltakere i overenskomsten, og også til de regjeringer som har tiltrådt konvensjonen, ogen oppgave over ikke-statlige institusjoner som har fullmakt til å opptre på deres vegne i administreringen av tiltak under denne overenskomst, for forsendelse til regjeringer som er deltakere i denne overenskomst og også til de regjeringer som har vedtatt konvensjonen.
+De regjeringer som er deltakere i denne overenskomst forplikter seg til å sende til og deponere hos Den mellomstatlige rådgivende skipsfartsorganisasjon (heretter kalt «organisasjonen»):
+
+1. ordlyden av de lover, resolusjoner, forordninger, forskrifter og andre bestemmelser som måtte være utferdiget om de forskjellige emner som inngår i overenskomsten,
+2. et tilstrekkelig antall eksemplarer av deres sertifikater, utstedt i henhold til bestemmelsene i denne overenskomst, for distribuering til de regjeringer som er deltakere i overenskomsten, og også til de regjeringer som har tiltrådt konvensjonen, og
+3. en oppgave over ikke-statlige institusjoner som har fullmakt til å opptre på deres vegne i administreringen av tiltak under denne overenskomst, for forsendelse til regjeringer som er deltakere i denne overenskomst og også til de regjeringer som har vedtatt konvensjonen.
 
 ### Art IV. Tidligere konvensjoner, overenskomster og avtaler
 
@@ -129,7 +157,11 @@ De regjeringer som er deltakere i denne overenskomst forplikter seg til å sende
 
 ### Art V. Underskrift, vedtakelse og tiltredelse
 
-1. Denne overenskomst skal være åpen for underskrift i 3 måneder fra denne dags dato og skal deretter stå åpen for tiltredelse. Regjeringer som har sluttet seg til konvensjonen kan bli deltakere i overenskomsten ved:underskrift uten forbehold om godkjennelse,underskrift med forbehold om godkjennelse etterfulgt av godkjennelse, ellertiltredelse.
+1. Denne overenskomst skal være åpen for underskrift i 3 måneder fra denne dags dato og skal deretter stå åpen for tiltredelse. Regjeringer som har sluttet seg til konvensjonen kan bli deltakere i overenskomsten ved:
+
+   1. underskrift uten forbehold om godkjennelse,
+   2. underskrift med forbehold om godkjennelse etterfulgt av godkjennelse, eller
+   3. tiltredelse.
 2. Godkjennelse eller tiltredelse skjer ved å deponere et godkjennelses- eller tiltredelsesdokument hos Organisasjonen. Organisasjonen skal underrette alle andre regjeringer som har underskrevet eller tiltrådt overenskomsten og de regjeringer som har vedtatt konvensjonen om enhver godkjennelse eller tiltredelse og om datoen for dens deponering.
 
 ### Art VI. Ikrafttredelse
@@ -140,8 +172,16 @@ De regjeringer som er deltakere i denne overenskomst forplikter seg til å sende
 
 ### Art VII. Endringer
 
-1. *Endringer ved enstemmig overenskomst:*Denne overenskomst kan endres ved enstemmig beslutning mellom de regjeringer som er deltakere i overenskomsten.På anmodning fra en av de regjeringer som deltar i denne overenskomst skal Organisasjonen sende endringsforslag til alle deltakende regjeringer til overveielse og vedtakelse.Enhver slik endring skal tre i kraft seks måneder etter den dato den er blitt vedtatt av alle de regjeringer som deltar i denne overenskomst. En regjering som er deltaker i denne overenskomst, og som ikke underretter Organisasjonen om sin vedtakelse eller forkastelse av endringen innen tolv måneder fra den dato da Organisasjonen sendte forslaget i henhold til underpunkt (ii) i dette punkt skal anses for å ha godtatt endringen.
-2. *Endringer ved konferanse:*På anmodning fra en regjering som er deltaker i denne overenskomst og med tilslutning fra minst en tredjedel av de regjeringer som er deltakere i overenskomsten, skal en konferanse av slike regjeringer sammenkalles av Organisasjonen for behandling av endringer i denne overenskomst.Enhver endring som er vedtatt av en slik konferanse med to tredjedels flertall av de regjeringer som er deltakere i denne overenskomst og som er til stede og stemmer, skal av Organisasjonen sendes alle regjeringer som er deltakere i overenskomsten for deres vedtakelse.Enhver endring som er meddelt de regjeringer som er deltakere i denne overenskomst ifølge foregående underpunkt (ii) skal for alle de regjeringer som er deltakere i denne overenskomst, tre i kraft tolv måneder etter den dato da endringen er vedtatt av to tredjedeler av de regjeringer som er deltakere i denne overenskomst, unntatt for dem som før den trer i kraft avgir en erklæring om at de ikke vedtar endringen.
+1. *Endringer ved enstemmig overenskomst:*
+
+   1. Denne overenskomst kan endres ved enstemmig beslutning mellom de regjeringer som er deltakere i overenskomsten.
+   2. På anmodning fra en av de regjeringer som deltar i denne overenskomst skal Organisasjonen sende endringsforslag til alle deltakende regjeringer til overveielse og vedtakelse.
+   3. Enhver slik endring skal tre i kraft seks måneder etter den dato den er blitt vedtatt av alle de regjeringer som deltar i denne overenskomst. En regjering som er deltaker i denne overenskomst, og som ikke underretter Organisasjonen om sin vedtakelse eller forkastelse av endringen innen tolv måneder fra den dato da Organisasjonen sendte forslaget i henhold til underpunkt (ii) i dette punkt skal anses for å ha godtatt endringen.
+2. *Endringer ved konferanse:*
+
+   1. På anmodning fra en regjering som er deltaker i denne overenskomst og med tilslutning fra minst en tredjedel av de regjeringer som er deltakere i overenskomsten, skal en konferanse av slike regjeringer sammenkalles av Organisasjonen for behandling av endringer i denne overenskomst.
+   2. Enhver endring som er vedtatt av en slik konferanse med to tredjedels flertall av de regjeringer som er deltakere i denne overenskomst og som er til stede og stemmer, skal av Organisasjonen sendes alle regjeringer som er deltakere i overenskomsten for deres vedtakelse.
+   3. Enhver endring som er meddelt de regjeringer som er deltakere i denne overenskomst ifølge foregående underpunkt (ii) skal for alle de regjeringer som er deltakere i denne overenskomst, tre i kraft tolv måneder etter den dato da endringen er vedtatt av to tredjedeler av de regjeringer som er deltakere i denne overenskomst, unntatt for dem som før den trer i kraft avgir en erklæring om at de ikke vedtar endringen.
 
 ### Art VIII. Oppsigelse
 
@@ -151,8 +191,10 @@ De regjeringer som er deltakere i denne overenskomst forplikter seg til å sende
 
 ### Art IX. Territorier
 
-1. De forente nasjoner, i de tilfelle da de er den utøvende myndighet for et territorium, eller en hvilken som helst regjering som har sluttet seg til konvensjonen og som er ansvarlig for et territoriums internasjonale forbindelser, skal så snart som mulig rådføre seg med et slikt territorium for å søke denne overenskomsten utvidet til territoriet og kan til enhver tid ved skriftlig melding, stilet til Organisasjonen, erklære at denne overenskomsten skal gjøres gjeldende for et slikt territorium.Denne overenskomst skal fra den dato melding mottas, eller fra en hvilken som helst annen dato som måtte være angitt i meldingen, gjøres gjeldende for det territorium som er nevnt i meldingen.
-2. De forente nasjoner eller enhver regjering som har sluttet seg til konvensjonen, og som har avgitt erklæring i henhold til punkt (a) i denne artikkel, kan når som helst etter utløpet av et tidsrom på fem år fra den dag da denne overenskomst på denne måte er blitt gjort gjeldende for et hvilket som helst territorium, ved skriftlig melding, stilet til Organisasjonen, erklære at denne overenskomst ikke lenger skal gjelde for det territorium som er nevnt i meldingen.Denne overenskomst skal opphøre å omfatte ethvert territorium nevnt i en slik melding etter ett år, eller et slikt lengre tidsrom som måtte være angitt i meldingen, regnet fra den dato da Organisasjonen mottok meldingen.
+1. 1. De forente nasjoner, i de tilfelle da de er den utøvende myndighet for et territorium, eller en hvilken som helst regjering som har sluttet seg til konvensjonen og som er ansvarlig for et territoriums internasjonale forbindelser, skal så snart som mulig rådføre seg med et slikt territorium for å søke denne overenskomsten utvidet til territoriet og kan til enhver tid ved skriftlig melding, stilet til Organisasjonen, erklære at denne overenskomsten skal gjøres gjeldende for et slikt territorium.
+   2. Denne overenskomst skal fra den dato melding mottas, eller fra en hvilken som helst annen dato som måtte være angitt i meldingen, gjøres gjeldende for det territorium som er nevnt i meldingen.
+2. 1. De forente nasjoner eller enhver regjering som har sluttet seg til konvensjonen, og som har avgitt erklæring i henhold til punkt (a) i denne artikkel, kan når som helst etter utløpet av et tidsrom på fem år fra den dag da denne overenskomst på denne måte er blitt gjort gjeldende for et hvilket som helst territorium, ved skriftlig melding, stilet til Organisasjonen, erklære at denne overenskomst ikke lenger skal gjelde for det territorium som er nevnt i meldingen.
+   2. Denne overenskomst skal opphøre å omfatte ethvert territorium nevnt i en slik melding etter ett år, eller et slikt lengre tidsrom som måtte være angitt i meldingen, regnet fra den dato da Organisasjonen mottok meldingen.
 3. Organisasjonen skal underrette alle de regjeringer som er deltakere i denne overenskomst og de regjeringer som har sluttet seg til konvensjonen, når denne overenskomst er blitt gjort gjeldende for et territorium i henhold til punkt (a) i denne artikkel, og når den ikke lenger gjelder i henhold til bestemmelsene i punkt (b), med underretning i hvert enkelt tilfelle om den dato da denne overenskomst ble gjort gjeldende eller ikke lenger vil gjelde.
 
 ### Art X. Deponering og registrering
@@ -178,7 +220,31 @@ Disse regler kalles «Regler for passasjerskip i spesiell fart, 1971».
 
 ### Regel 2. *Definisjoner*
 
-I disse regler gjelder følgende:*Administrasjon* betyr regjering i det land som skipet er registrert i.*Godkjent* betyr godkjent av administrasjonen.*Konvensjonen* betyr Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1960.](traktat/1974-11-01-1)*Regler* betyr de regler som er knyttet til konvensjonen, henvisning til slike regler skal forstås som henvisning til nevnte regler slik disse er blitt modifisert ved nærværende regler.*Mil* betyr 1852 meter eller 6080 fot.*Spesiell fart* betyr befordring på sjøen av et stort antall passasjerer i spesiell fart på internasjonal reise innen det område som er angitt nedenfor (som illustrert i kartet i Tillegg I til disse regler): i syd begrenset av breddeparallellen 20° S fra østkysten av Afrika til vestkysten av Madagaskar, derfra langs vest- og nordkysten av Madagaskar til 50° østlig lengde, derfra langs lengdemeridianen 50 Ø til 10° sydlig bredde, derfra langs en rett linje til punktet 3° sydlig bredde, 75° østlig lengde, derfra langs en rett linje til punktet 11°sydlig bredde, 120° østlig lengde, derfra langs breddeparallellen 11° S til 141 ° 03′ østlig lengde, i øst begrenset av lengdemeridianen 141° 03′ Ø fra 11° sydlig bredde til sydkysten av Ny Guinea, derfra langs syd-, vest- og nordkysten av Ny Guinea til punktet 141° 03 ′ østlig lengde, derfra en rett linje fra nordkysten av Ny Guinea fra punktet 141° 03′ Ø til punktet 10° nordlig bredde, på nordøstkysten av Mindanao, derfra langs vestkystene av øyene Leyte, Samar og Luzon til Port of Sual (Luzon Island), derfra langs en rett linje fra Port of Sual til Hong Kong,i nord begrenset av sydkysten av Asia fra Hong Kong til Suez,i vest begrenset av østkysten av Afrika fra Suez til punktet 20° sydlig bredde.*Internasjonal reise* betyr en reise, innen det område som er fastsatt i punkt (6) i denne regel, fra en havn i et land hvor denne overenskomst gjelder til en havn utenfor sådant land eller omvendt. I denne henseende er ethvert territorium, for hvilket en regjering som har vedtatt konvensjonen er ansvarlig for de internasjonale forbindelser, eller for hvilket De forenede nasjoner utøver myndighet, å betrakte som et særskilt land.*Kort internasjonal reise* betyr en internasjonal reise innen det område som er fastsatt i punkt (6) i denne regel, hvor et skip under reisen ikke er mer enn 200 mil fra en havn eller sted hvor passasjerene og mannskapet kan bli landsatt i sikkerhet, og som ikke overstiger 600 mil regnet mellom den siste anløpshavn i det land hvor reisen begynner og den endelige bestemmelseshavn.*Passasjer* betyr enhver person med unntak av:Skipsføreren og medlemmer av besetningen eller andre personer som er beskjeftiget eller ansatt i skipets tjeneste i en hvilken som helst stilling om bord.Et barn under 1 år.*Værdekket* ber det øverste gjennomgående dekk som helt eller delvis er utsatt for været, og som helt eller delvis kan bli benyttet av passasjerer.*Øvre dekk* i skip med sideåpninger betyr dekket under værdekket.*Passasjer i spesiell fart* betyr en passasjer ført i spesiell fart på værdekket, øvre dekk og/eller mellomdekk som gir plass til mer enn åtte passasjerer.*Passasjerskip i spesiell fart* betyr et mekanisk fremdrevet passasjerskip som fører et stort antall passasjerer i spesiell fart.*Nytt passasjerskip i spesiell fart* betyr passasjerskip i spesiell fart hvor kjølen er strukket, eller som er på et tilsvarende byggetrinn på eller etter den dato denne overenskomst trer i kraft, eller et skip som fører passasjerer i spesiell fart for første gang på eller etter denne dato.*Eksisterende passasjerskip i spesiell fart* betyr passasjerskip i spesiell fart som ikke er et nytt passasjerskip i spesiell fart.*Redningsflåte* betyr en redningsflåte som tilfredsstiller enten regel 15 eller regel 16 i konvensjonens [kapittel III](forskrift/1977-02-15-2/kapiii).*Flyteredskap* betyr flyteutstyr (unntatt livbåter, redningsflåter, livbøyer og redningsvester) innrettet til å holde oppe et nærmere angitt antall personer som er i vannet, og som er av en slik konstruksjon at de beholder sin form og sine egenskaper.
+I disse regler gjelder følgende:
+
+1. *Administrasjon* betyr regjering i det land som skipet er registrert i.
+2. *Godkjent* betyr godkjent av administrasjonen.
+3. *Konvensjonen* betyr Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1960.](traktat/1974-11-01-1)
+4. *Regler* betyr de regler som er knyttet til konvensjonen, henvisning til slike regler skal forstås som henvisning til nevnte regler slik disse er blitt modifisert ved nærværende regler.
+5. *Mil* betyr 1852 meter eller 6080 fot.
+6. *Spesiell fart* betyr befordring på sjøen av et stort antall passasjerer i spesiell fart på internasjonal reise innen det område som er angitt nedenfor (som illustrert i kartet i Tillegg I til disse regler): i syd begrenset av breddeparallellen 20° S fra østkysten av Afrika til vestkysten av Madagaskar, derfra langs vest- og nordkysten av Madagaskar til 50° østlig lengde, derfra langs lengdemeridianen 50 Ø til 10° sydlig bredde, derfra langs en rett linje til punktet 3° sydlig bredde, 75° østlig lengde, derfra langs en rett linje til punktet 11°sydlig bredde, 120° østlig lengde, derfra langs breddeparallellen 11° S til 141 ° 03′ østlig lengde, i øst begrenset av lengdemeridianen 141° 03′ Ø fra 11° sydlig bredde til sydkysten av Ny Guinea, derfra langs syd-, vest- og nordkysten av Ny Guinea til punktet 141° 03 ′ østlig lengde, derfra en rett linje fra nordkysten av Ny Guinea fra punktet 141° 03′ Ø til punktet 10° nordlig bredde, på nordøstkysten av Mindanao, derfra langs vestkystene av øyene Leyte, Samar og Luzon til Port of Sual (Luzon Island), derfra langs en rett linje fra Port of Sual til Hong Kong,
+
+   - i nord begrenset av sydkysten av Asia fra Hong Kong til Suez,
+   - i vest begrenset av østkysten av Afrika fra Suez til punktet 20° sydlig bredde.
+7. *Internasjonal reise* betyr en reise, innen det område som er fastsatt i punkt (6) i denne regel, fra en havn i et land hvor denne overenskomst gjelder til en havn utenfor sådant land eller omvendt. I denne henseende er ethvert territorium, for hvilket en regjering som har vedtatt konvensjonen er ansvarlig for de internasjonale forbindelser, eller for hvilket De forenede nasjoner utøver myndighet, å betrakte som et særskilt land.
+8. *Kort internasjonal reise* betyr en internasjonal reise innen det område som er fastsatt i punkt (6) i denne regel, hvor et skip under reisen ikke er mer enn 200 mil fra en havn eller sted hvor passasjerene og mannskapet kan bli landsatt i sikkerhet, og som ikke overstiger 600 mil regnet mellom den siste anløpshavn i det land hvor reisen begynner og den endelige bestemmelseshavn.
+9. *Passasjer* betyr enhver person med unntak av:
+
+   1. Skipsføreren og medlemmer av besetningen eller andre personer som er beskjeftiget eller ansatt i skipets tjeneste i en hvilken som helst stilling om bord.
+   2. Et barn under 1 år.
+10. *Værdekket* ber det øverste gjennomgående dekk som helt eller delvis er utsatt for været, og som helt eller delvis kan bli benyttet av passasjerer.
+11. *Øvre dekk* i skip med sideåpninger betyr dekket under værdekket.
+12. *Passasjer i spesiell fart* betyr en passasjer ført i spesiell fart på værdekket, øvre dekk og/eller mellomdekk som gir plass til mer enn åtte passasjerer.
+13. *Passasjerskip i spesiell fart* betyr et mekanisk fremdrevet passasjerskip som fører et stort antall passasjerer i spesiell fart.
+14. *Nytt passasjerskip i spesiell fart* betyr passasjerskip i spesiell fart hvor kjølen er strukket, eller som er på et tilsvarende byggetrinn på eller etter den dato denne overenskomst trer i kraft, eller et skip som fører passasjerer i spesiell fart for første gang på eller etter denne dato.
+15. *Eksisterende passasjerskip i spesiell fart* betyr passasjerskip i spesiell fart som ikke er et nytt passasjerskip i spesiell fart.
+16. *Redningsflåte* betyr en redningsflåte som tilfredsstiller enten regel 15 eller regel 16 i konvensjonens [kapittel III](forskrift/1977-02-15-2/kapiii).
+17. *Flyteredskap* betyr flyteutstyr (unntatt livbåter, redningsflåter, livbøyer og redningsvester) innrettet til å holde oppe et nærmere angitt antall personer som er i vannet, og som er av en slik konstruksjon at de beholder sin form og sine egenskaper.
 
 ### Regel 3. *Anvendelse*
 
@@ -215,51 +281,124 @@ Særrettigheter etter denne overenskomst kan ikke kreves for noe skip, med mindr
 
 ### Regel 10. *Anvendelse*
 
-I disse regler skal regel 1 (a) i kapittel II i konvensjonen erstattes med:Denne del gjelder for nye passasjerskip i spesiell fart, dersom intet annet er uttrykkelig bestemt.Hvor eksisterende passasjerskip i spesiell fart ikke allerede oppfyller kravene i disse regler vedrørende nye passasjerskip i spesiell fart, skal arrangementet på hvert skip, i henhold til bestemmelsene i regel 14, vurderes av administrasjonen og slike forbedringer som finnes praktisk gjennomførlige skal foretas ikke senere enn ved utløpet av et tidsrom på tolv måneder fra den dato da denne overenskomst trer i kraft, med sikte på å oppnå større bygningsmessig sikkerhet i den grad forholdene ved den spesielle fart gjør dette mulig.
+I disse regler skal regel 1 (a) i kapittel II i konvensjonen erstattes med:
+
+1. Denne del gjelder for nye passasjerskip i spesiell fart, dersom intet annet er uttrykkelig bestemt.
+2. Hvor eksisterende passasjerskip i spesiell fart ikke allerede oppfyller kravene i disse regler vedrørende nye passasjerskip i spesiell fart, skal arrangementet på hvert skip, i henhold til bestemmelsene i regel 14, vurderes av administrasjonen og slike forbedringer som finnes praktisk gjennomførlige skal foretas ikke senere enn ved utløpet av et tidsrom på tolv måneder fra den dato da denne overenskomst trer i kraft, med sikte på å oppnå større bygningsmessig sikkerhet i den grad forholdene ved den spesielle fart gjør dette mulig.
 
 ### Regel 11. *Fritakelser*
 
 I disse regler skal regel 1 (c) i kapittel II i konvensjonen erstattes med:
 
-Skip som anvendes på reiser mellom nære nabohavner i to eller flere land, kan av administrasjonen fritas for spesielle krav i denne del hvis:regjeringene i de stater hvor slike havner er beliggende finner at beskyttelse fra naturens side og de forhold hvorunder slike reiser mellom to slike havner foregår, gjør det urimelig eller unødvendig å gjøre slike krav gjeldende, ogskipene under reisen ikke fjerner seg mer enn 20 mil fra nærmeste land unntatt når man krysser havbukter, hvor denne avstand ikke må overstige 30 mil.
+Skip som anvendes på reiser mellom nære nabohavner i to eller flere land, kan av administrasjonen fritas for spesielle krav i denne del hvis:
+
+1. regjeringene i de stater hvor slike havner er beliggende finner at beskyttelse fra naturens side og de forhold hvorunder slike reiser mellom to slike havner foregår, gjør det urimelig eller unødvendig å gjøre slike krav gjeldende, og
+2. skipene under reisen ikke fjerner seg mer enn 20 mil fra nærmeste land unntatt når man krysser havbukter, hvor denne avstand ikke må overstige 30 mil.
 
 ### Regel 12. *Tillatt lengde av rommene*
 
-1. I disse regler 5 (c) i kapittel II i konvensjonen erstattes med:Kriterium for fartens art: For et skip av gitt lengde bestemmes den oppdelingsfaktor som skal brukes ved det fartskriterietall som fremkommer gjennom følgende modifiserte formel:C8 = 72 (M + 1.75 P1 ) / (V + P1 – P)hvor C8 = kriterietalletM = volumet av maskinrommet som definert i regel 2 i [kapittel II](forskrift/1977-02-15-2/kapii) med tillegg av volumet av mulige permanente brenseloljetanker som måtte være beliggende over den indre bunn og foran eller aktenfor maskinrommet.V = hele volumet av skipet under grenselinjen,P = hele volumet av passasjerrommene under grenselinjen som definert i regel 2 i [kapittel II](forskrift/1977-02-15-2/kapii),P1 = P + 0,0373 LN + 2,13 A (i kubikk meter)ellerP1 = P + 0,4 LN + 7 A (i kubikk fot)hvor A = det totale areal i m2 eller fot2 av rommene målt for å bestemme antallet passasjerer i spesiell fart som kan føres over grenselinjen, heri innbefattet arealet av mulige lugarer som er utstyrt med mer enn åtte køyer. Arealet som benyttes til bysse, messerom, WC, vaskesteder, bagasje- og lagerrom, sykerom og luftesteder for mellomdekkspassasjerer skal ikke medregnes,L = skipets lengde som definert i regel 2 i [kapittel II](forskrift/1977-02-15-2/kapii),N = det totale antall køyer for passasjerer med køyeplass som føres over grenselinjen, hvor en passasjer med køyeplass er definert som en passasjer i lugarer som ikke rommer mer enn 8 passasjerer.
-2. I disse regler skal regel 5 (d) (iv) i kapittel II i konvensjonen erstattes med:Bestemmelsene i punkt (d) (iii) skal også gjelde for skip av en hvilken som helst lengde, som er sertifisert til å føre et samlet antall passasjerer som ikke overstiger L2 / 117 (L i meter) eller L2 / 1260 (L i fot) eller 280, hvor det minste tall velges og hvor antallet passasjerer med køyeplass ikke skal overstige L2 / 7000 (L i fot), eller 50, hvor det minste tall velges.I skip som har en lengde på 131 meter (430 fot) og derover som dette punkt gjelder for, skal oppdelingen aktenfor kollisjonsskottet beregnes på grunnlag av faktoren 1.
+1. I disse regler 5 (c) i kapittel II i konvensjonen erstattes med:
+
+   Kriterium for fartens art: For et skip av gitt lengde bestemmes den oppdelingsfaktor som skal brukes ved det fartskriterietall som fremkommer gjennom følgende modifiserte formel:
+
+   C8 = 72 (M + 1.75 P1 ) / (V + P1 – P)
+
+   hvor C8 = kriterietallet
+
+   M = volumet av maskinrommet som definert i regel 2 i [kapittel II](forskrift/1977-02-15-2/kapii) med tillegg av volumet av mulige permanente brenseloljetanker som måtte være beliggende over den indre bunn og foran eller aktenfor maskinrommet.
+
+   V = hele volumet av skipet under grenselinjen,
+
+   P = hele volumet av passasjerrommene under grenselinjen som definert i regel 2 i [kapittel II](forskrift/1977-02-15-2/kapii),
+
+   P1 = P + 0,0373 LN + 2,13 A (i kubikk meter)
+
+   eller
+
+   P1 = P + 0,4 LN + 7 A (i kubikk fot)
+
+   hvor A = det totale areal i m2 eller fot2 av rommene målt for å bestemme antallet passasjerer i spesiell fart som kan føres over grenselinjen, heri innbefattet arealet av mulige lugarer som er utstyrt med mer enn åtte køyer. Arealet som benyttes til bysse, messerom, WC, vaskesteder, bagasje- og lagerrom, sykerom og luftesteder for mellomdekkspassasjerer skal ikke medregnes,
+
+   L = skipets lengde som definert i regel 2 i [kapittel II](forskrift/1977-02-15-2/kapii),
+
+   N = det totale antall køyer for passasjerer med køyeplass som føres over grenselinjen, hvor en passasjer med køyeplass er definert som en passasjer i lugarer som ikke rommer mer enn 8 passasjerer.
+2. I disse regler skal regel 5 (d) (iv) i kapittel II i konvensjonen erstattes med:
+
+   Bestemmelsene i punkt (d) (iii) skal også gjelde for skip av en hvilken som helst lengde, som er sertifisert til å føre et samlet antall passasjerer som ikke overstiger L2 / 117 (L i meter) eller L2 / 1260 (L i fot) eller 280, hvor det minste tall velges og hvor antallet passasjerer med køyeplass ikke skal overstige L2 / 7000 (L i fot), eller 50, hvor det minste tall velges.
+
+   I skip som har en lengde på 131 meter (430 fot) og derover som dette punkt gjelder for, skal oppdelingen aktenfor kollisjonsskottet beregnes på grunnlag av faktoren 1.
 3. I disse regler skal bestemmelsene i regel 4 (d) og 5 (e) i kapittel II i konvensjonen ikke gjelde for noe skip som i henhold til bestemmelsene i regel 27 (c) (iii) i [kapittel III](forskrift/1977-02-15-2/kapiii), har tillatelse til å føre passasjerer utover hva skipet har livbåtkapasitet for.
 
 ### Regel 13. *Oppdelingslastelinjer*
 
-1. I disse regler skal regel 11 (b) i kapittel II i konvensjonen erstattes med:De fastsatte og avmerkede oppdelingslastelinjer skal være angitt i sikkerhetssertifikatet for passasjerskip i spesiell fart, og skal atskilles ved betegnelsen D.1 for den prinsipale passasjerfart, og D.2, D.3 osv. for de alternative fartsforhold.
-2. I disse regler skal regel 11 (d) i kapittel II i konvensjonen erstattes med:Det fribord som svarer til enhver godkjent oppdelingslastelinje og de fartsforhold som det er godkjent for, skal være tydelig angitt i sikkerhetssertifikatet for skip i spesiell fart.
+1. I disse regler skal regel 11 (b) i kapittel II i konvensjonen erstattes med:
+
+   De fastsatte og avmerkede oppdelingslastelinjer skal være angitt i sikkerhetssertifikatet for passasjerskip i spesiell fart, og skal atskilles ved betegnelsen D.1 for den prinsipale passasjerfart, og D.2, D.3 osv. for de alternative fartsforhold.
+2. I disse regler skal regel 11 (d) i kapittel II i konvensjonen erstattes med:
+
+   Det fribord som svarer til enhver godkjent oppdelingslastelinje og de fartsforhold som det er godkjent for, skal være tydelig angitt i sikkerhetssertifikatet for skip i spesiell fart.
 
 ### Regel 14. *Maskineri, elektriske installasjoner, beskyttelse mot brann samt oppdagelse og slukking av brann*
 
-Passasjerskip i spesiell fart skal tilfredsstille fullt ut de krav i del C, D, E og F i kapittel II i konvensjonen, som gjelder for passasjerskip, unntatt:For nye passasjerskip i spesiell fart:bestemmelsene i reglene 42 og 68 skal gjelde fullt ut, unntatt for anordning av innhegning rundt trappeoppganger i rom som benyttes av passasjerer i spesiell fart,bestemmelsene i reglene 34, 51 og 52 skal gjelde fullt ut unntatt for beboelsesrom som benyttes av passasjerer i spesiell fart, ogbestemmelsene i reglene 59 og 61 skal gjelde fullt ut hvor slike systemer er foreskrevet.For eksisterende passasjerskip i spesiell fart:bestemmelsene i reglene 24 (b), 25 (d)-(h), 27 (b), 29, 35, 37-44, 49, 53 og 68 skal gjelde i den utstrekning det er rimelig og praktisk gjennomførlig. Spesiell oppmerksomhet skal vies bestemmelsen om tilstrekkelig antall utganger,bestemmelsene i reglene 27 (a) (ii)-(viii), 45, 46 (a)-(b), 58 (b)-(f) og 64 (b)-(j) skal i det vesentlige gjelde, ogbestemmelsene i reglene 51 og 52 skal gjelde fullt ut unntatt for rom som bebos av passasjerer i spesiell fart,bestemmelsene i regel 36 skal gjelde fullt ut unntatt for frittliggende dekkshus som ikke inneholder beboelsesrom og dekk utsatt for været som kan være av tre dersom bygningsmessige brannsikringstiltak er foretatt til administrasjonens tilfredshet,bestemmelsene i reglene 59-62 skal gjelde hvor slike systemer er anordnet,bestemmelsene i regel 34 skal gjelde i den utstrekning som de tilsvarende bestemmelsene som er nevnt i underpunktene (a)-(e) i dette punkt unntatt for rom som bebos av passasjerer i spesiell fart.
+Passasjerskip i spesiell fart skal tilfredsstille fullt ut de krav i del C, D, E og F i kapittel II i konvensjonen, som gjelder for passasjerskip, unntatt:
+
+1. For nye passasjerskip i spesiell fart:
+
+   1. bestemmelsene i reglene 42 og 68 skal gjelde fullt ut, unntatt for anordning av innhegning rundt trappeoppganger i rom som benyttes av passasjerer i spesiell fart,
+   2. bestemmelsene i reglene 34, 51 og 52 skal gjelde fullt ut unntatt for beboelsesrom som benyttes av passasjerer i spesiell fart, og
+   3. bestemmelsene i reglene 59 og 61 skal gjelde fullt ut hvor slike systemer er foreskrevet.
+2. For eksisterende passasjerskip i spesiell fart:
+
+   1. bestemmelsene i reglene 24 (b), 25 (d)-(h), 27 (b), 29, 35, 37-44, 49, 53 og 68 skal gjelde i den utstrekning det er rimelig og praktisk gjennomførlig. Spesiell oppmerksomhet skal vies bestemmelsen om tilstrekkelig antall utganger,
+   2. bestemmelsene i reglene 27 (a) (ii)-(viii), 45, 46 (a)-(b), 58 (b)-(f) og 64 (b)-(j) skal i det vesentlige gjelde, og
+   3. bestemmelsene i reglene 51 og 52 skal gjelde fullt ut unntatt for rom som bebos av passasjerer i spesiell fart,
+   4. bestemmelsene i regel 36 skal gjelde fullt ut unntatt for frittliggende dekkshus som ikke inneholder beboelsesrom og dekk utsatt for været som kan være av tre dersom bygningsmessige brannsikringstiltak er foretatt til administrasjonens tilfredshet,
+   5. bestemmelsene i reglene 59-62 skal gjelde hvor slike systemer er anordnet,
+   6. bestemmelsene i regel 34 skal gjelde i den utstrekning som de tilsvarende bestemmelsene som er nevnt i underpunktene (a)-(e) i dette punkt unntatt for rom som bebos av passasjerer i spesiell fart.
 
 ### Del III. Livredningsredskaper etc.
 
 ### Regel 15. *Anvendelse*
 
-Disse regler skal regel 1 i kapittel III i konvensjonen erstattes med:Denne del får anvendelse på nye passasjerskip i spesiell fart hvor intet annet er uttrykkelig bestemt.For eksisterende passasjerskip i spesiell fart som ikke allerede tilfredsstiller bestemmelsene i disse regler for nye passasjerskip i spesiell fart, skal administrasjonen vurdere ordningen på hvert enkelt skip, og slike forbedringer som finnes praktisk gjennomførlige skal foretas, ikke senere enn ved utløpet av tolv måneder fra den dato da denne overenskomst trer i kraft, med sikte på at prinsippene i denne del i det vesentlige tilfredsstilles.
+Disse regler skal regel 1 i kapittel III i konvensjonen erstattes med:
+
+1. Denne del får anvendelse på nye passasjerskip i spesiell fart hvor intet annet er uttrykkelig bestemt.
+2. For eksisterende passasjerskip i spesiell fart som ikke allerede tilfredsstiller bestemmelsene i disse regler for nye passasjerskip i spesiell fart, skal administrasjonen vurdere ordningen på hvert enkelt skip, og slike forbedringer som finnes praktisk gjennomførlige skal foretas, ikke senere enn ved utløpet av tolv måneder fra den dato da denne overenskomst trer i kraft, med sikte på at prinsippene i denne del i det vesentlige tilfredsstilles.
 
 ### Regel 16. *Fritakelse*
 
 I disse regler skal regel 3 (a) i kapittel III i konvensjonen erstattes med:
 
-Når skip anvendes på reiser mellom nære nabohavner i to eller flere land kan administrasjonen frita disse for ethvert særlig krav i denne del hvis:regjeringene i de stater hvor slike havner er beliggende finner at beskyttelsen fra naturens side og de forhold hvorunder slike reiser mellom to slike havner foregår, gjør det urimelig eller unødvendig å anvende disse krav, ogskipene under reisen ikke fjerner seg mer enn 20 mil fra nærmeste land unntatt når man krysser havbukter, hvor denne avstand ikke må overstige 30 mil.
+Når skip anvendes på reiser mellom nære nabohavner i to eller flere land kan administrasjonen frita disse for ethvert særlig krav i denne del hvis:
+
+1. regjeringene i de stater hvor slike havner er beliggende finner at beskyttelsen fra naturens side og de forhold hvorunder slike reiser mellom to slike havner foregår, gjør det urimelig eller unødvendig å anvende disse krav, og
+2. skipene under reisen ikke fjerner seg mer enn 20 mil fra nærmeste land unntatt når man krysser havbukter, hvor denne avstand ikke må overstige 30 mil.
 
 ### Regel 17. *Livbåter, redningsflåter og flyteredskaper*
 
-1. I disse regler skal regel 27 (b) i kapittel III i konvensjonen erstattes med:Passasjerskip i spesiell fart på internasjonale reiser som ikke er korte internasjonale reiser skal ha:Livbåter hvis samlede kapasitet på hver side av skipet er tilstrekkelig til at de kan oppta halvparten av det totale antall ombordværende personer. Administrasjonen kan dog tillate at livbåter erstattes med redningsflåter som har den samme totale kapasitet, men slik at det på hver side av skipet aldri skal være mindre livbåter enn tilstrekkelig til å kunne oppta 35 prosent av alle ombordværende.Redningsflåter med tilstrekkelig samlet kapasitet til å romme 10 prosent av det totale antall personer om bord, samt flyteredskaper for 15 prosent av dette antall.
-2. I disse regler skal regel 27 (c) (iii) i kapittel III i konvensjonen erstattes med:Uten hensyn til bestemmelsene i punkt (c) (ii) skal antallet av personer ført i et hvilket som helst skip som benyttes på korte internasjonale reiser ikke overstige den samlede livbåtkapasitet som er fastsatt i punkt (c) (i) og (c) (ii) i denne regel, med mindre administrasjonen finner at trafikkmengden gjør dette nødvendig.
-3. I disse regler skal regel 27 (c) (iv) i kapittel III i konvensjonen erstattes med:Når administrasjonen i henhold til bestemmelsene i punkt (c) (iii) har tillatt befordring av personer utover livbåtkapasiteten og finner at det på vedkommende skip ikke er praktisk gjennomførlig å stue de redningsflåter som skal føres ifølge punkt (c) (ii), kan den tillate en reduksjon i livbåtantallet.Betingelsene for dette er:
+1. I disse regler skal regel 27 (b) i kapittel III i konvensjonen erstattes med:
+
+   Passasjerskip i spesiell fart på internasjonale reiser som ikke er korte internasjonale reiser skal ha:
+
+   1. Livbåter hvis samlede kapasitet på hver side av skipet er tilstrekkelig til at de kan oppta halvparten av det totale antall ombordværende personer. Administrasjonen kan dog tillate at livbåter erstattes med redningsflåter som har den samme totale kapasitet, men slik at det på hver side av skipet aldri skal være mindre livbåter enn tilstrekkelig til å kunne oppta 35 prosent av alle ombordværende.
+   2. Redningsflåter med tilstrekkelig samlet kapasitet til å romme 10 prosent av det totale antall personer om bord, samt flyteredskaper for 15 prosent av dette antall.
+2. I disse regler skal regel 27 (c) (iii) i kapittel III i konvensjonen erstattes med:
+
+   Uten hensyn til bestemmelsene i punkt (c) (ii) skal antallet av personer ført i et hvilket som helst skip som benyttes på korte internasjonale reiser ikke overstige den samlede livbåtkapasitet som er fastsatt i punkt (c) (i) og (c) (ii) i denne regel, med mindre administrasjonen finner at trafikkmengden gjør dette nødvendig.
+3. I disse regler skal regel 27 (c) (iv) i kapittel III i konvensjonen erstattes med:
+
+   Når administrasjonen i henhold til bestemmelsene i punkt (c) (iii) har tillatt befordring av personer utover livbåtkapasiteten og finner at det på vedkommende skip ikke er praktisk gjennomførlig å stue de redningsflåter som skal føres ifølge punkt (c) (ii), kan den tillate en reduksjon i livbåtantallet.
+
+   Betingelsene for dette er:
 4. livbåtantallet skal hvor det gjelder skip med en lengde på 58 meter (eller 190 engelske fot) eller derover, aldri være under fire, hvorav to skal føres på hver side av skipet, og skal, hvor det gjelder skip med en lengde under 58 meter (eller 190 engelske fot) aldri være under to, hvorav en skal føres på hver side av skipet og
 5. antallet av livbåter og redningsflåter skal bestandig være tilstrekkelig til å kunne oppta det totale antall ombordværende personer,
 6. dersom de livbåter som føres ikke har den kapasitet som kreves etter kolonne C i tabellen i regel 28 i [kapittel III](forskrift/1977-02-15-2/kapiii), skal administrasjonen forsøke å sørge for at de redningsflåter som det er mulig å sjøsette fra de godkjente utsetningsanordninger skal ha slik samlet kapasitet at den tilsvarer forskjellen mellom kapasiteten av de livbåter som befinner seg om bord og den kapasitet som forlanges etter kolonne C i tabellen, og de foreskrevne utsetningsanordninger skal være plassert som bestemt i regel 18.
-7. I disse regler skal regel 27 (c) (v) og (vi) i kapittel III i konvensjonen erstattes med:Ethvert passasjerskip i spesiell fart skal på korte internasjonale reiser i tillegg til det foreskrevne antall livbåter og redningsflåter etter bestemmelsene i dette punkt, ha redningsflåter og flyteredskaper i tilstrekkelig antall til å kunne oppta 10 prosent av det samlede antall ombordværende personer. Under enhver omstendighet skal det i disse 10 prosent inkluderes redningsflåter for å kunne oppta minst 5 prosent av det samlede antall personer som det er plass til i de livbåter som skipet har om bord.
-8. I disse regler skal regel 27 (c) (vii) i kapittel III i konvensjonen erstattes med:Administrasjonen kan tillate bestemte skip eller klasser av skip med sertifikater for korte internasjonale reiser å foreta reiser på mer enn 600, men ikke over 1200 mil, dersom de har livbåter som kan oppta 70 prosent av de ombordværende personer og ellers tilfredsstiller bestemmelsene i dette punkt.
+7. I disse regler skal regel 27 (c) (v) og (vi) i kapittel III i konvensjonen erstattes med:
+
+   Ethvert passasjerskip i spesiell fart skal på korte internasjonale reiser i tillegg til det foreskrevne antall livbåter og redningsflåter etter bestemmelsene i dette punkt, ha redningsflåter og flyteredskaper i tilstrekkelig antall til å kunne oppta 10 prosent av det samlede antall ombordværende personer. Under enhver omstendighet skal det i disse 10 prosent inkluderes redningsflåter for å kunne oppta minst 5 prosent av det samlede antall personer som det er plass til i de livbåter som skipet har om bord.
+8. I disse regler skal regel 27 (c) (vii) i kapittel III i konvensjonen erstattes med:
+
+   Administrasjonen kan tillate bestemte skip eller klasser av skip med sertifikater for korte internasjonale reiser å foreta reiser på mer enn 600, men ikke over 1200 mil, dersom de har livbåter som kan oppta 70 prosent av de ombordværende personer og ellers tilfredsstiller bestemmelsene i dette punkt.
 
 ### Regel 18. *Anbringelse og manøvrering av livbåter, redningsflåter og flyteredskaper*
 
@@ -314,8 +453,44 @@ OVERENSKOMSTEN OM PASSASJERSKIP I SPESIELL FART, 1971
 | Jeg, undertegnede | (navn) bevitner |
 
 1. At det ovenfor nevnte skip er blitt behørig besiktet i samsvar med bestemmelsene i de regler som er knyttet til overenskomsten om passasjerskip i spesiell fart, 1971, og som gjelder for reiser innenfor de områder som er definert under spesiell fart i disse regler.
-2. At besiktelsen viser at skipet, når det fører passasjerer i spesiell fart og har om bord et samlet antall (mannskap og passasjerer) som ikke overstiger ..... personer, tilfredsstiller kravene i de nevnte regler for så vidt angår:ordningen av og detaljene vedrørende den vanntette oppdeling,følgende oppdelingslastelinjer:Oppdelingslastelinjer som er bestemtFribordÅ benytte når de rom somog avmerket på skipets sider midt-passasjerer føres i,skips (regel 13 i overenskomstenomfatter følgendeom passasjerskip i spesiell fart, 1971)alternative rom:D.1.D.2.D.3.livredningsutstyr tilstrekkelig for et samlet antall av ikke over.......... personer, nemlig:.......... livbåter (herunder ......... motorlivbåter eller mekanisk drevne livbåter), for ......... personer, og ..... ..... motorlivbåter utstyrt med radiotelegrafianlegg og lyskaster (innbefattet i det ovennevnte samlede antall livbåter, se ovenfor) som krever ........ sertifiserte førere av redningsfarkost,.......... redningsflåter som det kreves godkjente utsetningsanordninger for, for ............ personer, og.......... redningsflåter som det ikke kreves godkjente utsetningsanordninger for, for ............ personer,.......... flyteredskaper for ........... personer,.......... livbøyer,.......... redningsvester.livbåtene og redningsflåtene var utstyrt i samsvar med bestemmelsene i reglene,skipet var utstyrt med et linekastende apparat og bærbare radioapparater for livbåter og redningsflåter i samsvar med bestemmelsene i reglene.
-3. At skipet i alle andre henseender tilfredsstiller fordringene i de regler som er knyttet til den nevnte overenskomst, i den utstrekning kravene gjelder for det.Dette sertifikat er utstedt på vegne av den ............ regjering.Det er gyldig inntil ............Utstedt i ............. den ............ 19 .......
+2. At besiktelsen viser at skipet, når det fører passasjerer i spesiell fart og har om bord et samlet antall (mannskap og passasjerer) som ikke overstiger ..... personer, tilfredsstiller kravene i de nevnte regler for så vidt angår:
+
+   1. ordningen av og detaljene vedrørende den vanntette oppdeling,
+   2. følgende oppdelingslastelinjer:
+
+      |  |  |  |
+      | --- | --- | --- |
+      | Oppdelingslastelinjer som er bestemt | Fribord | Å benytte når de rom som |
+      | og avmerket på skipets sider midt- |  | passasjerer føres i, |
+      | skips (regel 13 i overenskomsten |  | omfatter følgende |
+      | om passasjerskip i spesiell fart, 1971) |  | alternative rom: |
+      | D.1. |  |  |
+      | D.2. |  |  |
+      | D.3. |  |  |
+   3. livredningsutstyr tilstrekkelig for et samlet antall av ikke over
+
+      .......... personer, nemlig:
+
+      .......... livbåter (herunder ......... motorlivbåter eller mekanisk drevne livbåter), for ......... personer, og ..... ..... motorlivbåter utstyrt med radiotelegrafianlegg og lyskaster (innbefattet i det ovennevnte samlede antall livbåter, se ovenfor) som krever ........ sertifiserte førere av redningsfarkost,
+
+      .......... redningsflåter som det kreves godkjente utsetningsanordninger for, for ............ personer, og
+
+      .......... redningsflåter som det ikke kreves godkjente utsetningsanordninger for, for ............ personer,
+
+      .......... flyteredskaper for ........... personer,
+
+      .......... livbøyer,
+
+      .......... redningsvester.
+   4. livbåtene og redningsflåtene var utstyrt i samsvar med bestemmelsene i reglene,
+   5. skipet var utstyrt med et linekastende apparat og bærbare radioapparater for livbåter og redningsflåter i samsvar med bestemmelsene i reglene.
+3. At skipet i alle andre henseender tilfredsstiller fordringene i de regler som er knyttet til den nevnte overenskomst, i den utstrekning kravene gjelder for det.
+
+   Dette sertifikat er utstedt på vegne av den ............ regjering.
+
+   Det er gyldig inntil ............
+
+   Utstedt i ............. den ............ 19 .......
 
 *Her anbringes seglet eller underskriften til den myndighet som har rett til å utstede sertifikatet.*
 
@@ -365,11 +540,19 @@ Denne protokoll gjelder for passasjerskip som brukes i spesiell fart og som er r
 
 ### Art III. Formidling av informasjon
 
-De regjeringer som har vedtatt denne protokoll forplikter seg til å sende til og deponere hos Den mellomstatlige rådgivende skipsfartsorganisasjon (heretter kalt «Organisasjonen»):ordlyden av de lover, resolusjoner, forordninger, forskrifter og andre bestemmelser som måtte være utferdiget om de forskjellige emner som inngår i denne protokoll,et tilstrekkelig antall eksemplarer av deres sertifikater, utstedt i henhold til bestemmelsene i denne protokoll, for distribuering til de regjeringer som har vedtatt denne protokoll, og også til de regjeringer som har vedtatt 1960 Konvensjonen, ogen oppgave over ikke-statlige institusjoner som har fullmakt til å opptre på deres vegne ved iverksettelsen av tiltak under denne protokoll, for forsendelse til regjeringer som har vedtatt denne protokoll og også til de regjeringer som har vedtatt 1960 Konvensjonen.
+De regjeringer som har vedtatt denne protokoll forplikter seg til å sende til og deponere hos Den mellomstatlige rådgivende skipsfartsorganisasjon (heretter kalt «Organisasjonen»):
+
+1. ordlyden av de lover, resolusjoner, forordninger, forskrifter og andre bestemmelser som måtte være utferdiget om de forskjellige emner som inngår i denne protokoll,
+2. et tilstrekkelig antall eksemplarer av deres sertifikater, utstedt i henhold til bestemmelsene i denne protokoll, for distribuering til de regjeringer som har vedtatt denne protokoll, og også til de regjeringer som har vedtatt 1960 Konvensjonen, og
+3. en oppgave over ikke-statlige institusjoner som har fullmakt til å opptre på deres vegne ved iverksettelsen av tiltak under denne protokoll, for forsendelse til regjeringer som har vedtatt denne protokoll og også til de regjeringer som har vedtatt 1960 Konvensjonen.
 
 ### Art IV. Underskrift, vedtakelse og tiltredelse
 
-1. Denne protokoll skal være åpen for underskrift i 3 måneder fra dags dato og skal deretter stå åpen for tiltredelse. Regjeringer som har vedtatt 1971 Overenskomsten kan vedta protokollen ved:underskrift uten forbehold om godkjennelseunderskrift med forbehold om godkjennelse etterfulgt av godkjennelse, ellertiltredelse
+1. Denne protokoll skal være åpen for underskrift i 3 måneder fra dags dato og skal deretter stå åpen for tiltredelse. Regjeringer som har vedtatt 1971 Overenskomsten kan vedta protokollen ved:
+
+   1. underskrift uten forbehold om godkjennelse
+   2. underskrift med forbehold om godkjennelse etterfulgt av godkjennelse, eller
+   3. tiltredelse
 2. Godkjennelse eller tiltredelse skjer ved å deponere et godkjennelses- eller tiltredelsesdokument hos Organisasjonen. Organisasjonen skal underrette alle andre regjeringer som har underskrevet eller tiltrådt denne protokoll og de regjeringer som har vedtatt 1960 Konvensjonen om enhver godkjennelse eller tiltredelse og om datoen for dets deponering.
 
 ### Art V. Ikrafttredelse
@@ -380,8 +563,16 @@ De regjeringer som har vedtatt denne protokoll forplikter seg til å sende til o
 
 ### Art VI. Endringer
 
-1. *Endringer ved enstemmig overenskomst:*Denne protokoll kan endres ved enstemmig beslutning mellom de regjeringer som har vedtatt protokollen.På anmodning fra en av de regjeringer som har vedtatt denne protokoll skal Organisasjonen sende endringsforslag til alle kontraherende regjeringer til overveielse og vedtakelse.Enhver slik endring skal tre i kraft seks måneder etter den dato den er blitt vedtatt av alle de regjeringer som har vedtatt denne protokoll. En regjering som har vedtatt denne protokoll, og som ikke underretter Organisasjonen om sin vedtakelse eller forkastelse av endringen innen tolv måneder fra den dato da Organisasjonen sendte forslaget i henhold til underpunkt 2. i dette punkt skal anses for å ha godtatt endringen.
-2. *Endringer ved konferanse:*På anmodning fra en regjering som har vedtatt denne protokoll og med tilslutning fra minst en tredjedel av de regjeringer som har vedtatt protokollen, skal en konferanse av slike regjeringer sammenkalles av Organisasjonen for behandling av endringer i denne protokoll.Enhver endring som er vedtatt av en slik konferanse med to tredjedels flertall av de regjeringer som har vedtatt denne protokoll og som er til stede og stemmer, skal av Organisasjonen sendes alle regjeringer som har vedtatt protokollen til vedtakelse.Enhver endring som er meddelt de regjeringer som har vedtatt denne protokoll ifølge foregående underpunkt 2. skal for alle de regjeringer som har vedtatt denne protokoll, tre i kraft tolv måneder etter den dato da endringen er vedtatt av to tredjedeler av de regjeringer som har vedtatt denne protokoll, unntatt for dem som før den trer i kraft avgir en erklæring om at de ikke vedtar endringen.
+1. *Endringer ved enstemmig overenskomst:*
+
+   1. Denne protokoll kan endres ved enstemmig beslutning mellom de regjeringer som har vedtatt protokollen.
+   2. På anmodning fra en av de regjeringer som har vedtatt denne protokoll skal Organisasjonen sende endringsforslag til alle kontraherende regjeringer til overveielse og vedtakelse.
+   3. Enhver slik endring skal tre i kraft seks måneder etter den dato den er blitt vedtatt av alle de regjeringer som har vedtatt denne protokoll. En regjering som har vedtatt denne protokoll, og som ikke underretter Organisasjonen om sin vedtakelse eller forkastelse av endringen innen tolv måneder fra den dato da Organisasjonen sendte forslaget i henhold til underpunkt 2. i dette punkt skal anses for å ha godtatt endringen.
+2. *Endringer ved konferanse:*
+
+   1. På anmodning fra en regjering som har vedtatt denne protokoll og med tilslutning fra minst en tredjedel av de regjeringer som har vedtatt protokollen, skal en konferanse av slike regjeringer sammenkalles av Organisasjonen for behandling av endringer i denne protokoll.
+   2. Enhver endring som er vedtatt av en slik konferanse med to tredjedels flertall av de regjeringer som har vedtatt denne protokoll og som er til stede og stemmer, skal av Organisasjonen sendes alle regjeringer som har vedtatt protokollen til vedtakelse.
+   3. Enhver endring som er meddelt de regjeringer som har vedtatt denne protokoll ifølge foregående underpunkt 2. skal for alle de regjeringer som har vedtatt denne protokoll, tre i kraft tolv måneder etter den dato da endringen er vedtatt av to tredjedeler av de regjeringer som har vedtatt denne protokoll, unntatt for dem som før den trer i kraft avgir en erklæring om at de ikke vedtar endringen.
 
 ### Art VII. Oppsigelse
 
@@ -391,8 +582,10 @@ De regjeringer som har vedtatt denne protokoll forplikter seg til å sende til o
 
 ### Art VIII. Territorier
 
-1. De forente nasjoner, i de tilfelle da de er den utøvende myndighet for et territorium, eller en hvilken som helst regjering som har vedtatt 1960 Konvensjonen og som er ansvarlig for et territoriums internasjonale forbindelser, skal så snart som mulig rådføre seg med et slikt territorium for å søke denne protokoll utvidet til territoriet og kan til enhver tid ved skriftlig melding, stilet til Organisasjonen, erklære at denne protokoll skal gjøres gjeldende for et slikt territorium.Denne protokoll skal fra den dato melding mottas, eller fra en hvilken som helst annen dato som måtte være angitt i meldingen, gjøres gjeldende for det territorium som er nevnt i meldingen.
-2. De forente nasjoner eller enhver regjering som har vedtatt 1960 Konvensjonen, og som har avgitt erklæring i henhold til punkt a) i denne artikkel, kan når som helst etter utløpet av et tidsrom på fem år fra den dag da denne protokoll er blitt gjort gjeldende for et hvilket som helst territorium, ved skriftlig melding, stilet til Organisasjonen, erklære at denne protokoll ikke lenger skal gjelde for det territorium som er nevnt i meldingen.Denne protokoll skal opphøre å omfatte ethvert territorium nevnt i en slik melding etter et år, eller et slikt lengre tidsrom som måtte være angitt i meldingen, regnet fra den dato da Organisasjonen mottok meldingen.
+1. 1. De forente nasjoner, i de tilfelle da de er den utøvende myndighet for et territorium, eller en hvilken som helst regjering som har vedtatt 1960 Konvensjonen og som er ansvarlig for et territoriums internasjonale forbindelser, skal så snart som mulig rådføre seg med et slikt territorium for å søke denne protokoll utvidet til territoriet og kan til enhver tid ved skriftlig melding, stilet til Organisasjonen, erklære at denne protokoll skal gjøres gjeldende for et slikt territorium.
+   2. Denne protokoll skal fra den dato melding mottas, eller fra en hvilken som helst annen dato som måtte være angitt i meldingen, gjøres gjeldende for det territorium som er nevnt i meldingen.
+2. 1. De forente nasjoner eller enhver regjering som har vedtatt 1960 Konvensjonen, og som har avgitt erklæring i henhold til punkt a) i denne artikkel, kan når som helst etter utløpet av et tidsrom på fem år fra den dag da denne protokoll er blitt gjort gjeldende for et hvilket som helst territorium, ved skriftlig melding, stilet til Organisasjonen, erklære at denne protokoll ikke lenger skal gjelde for det territorium som er nevnt i meldingen.
+   2. Denne protokoll skal opphøre å omfatte ethvert territorium nevnt i en slik melding etter et år, eller et slikt lengre tidsrom som måtte være angitt i meldingen, regnet fra den dato da Organisasjonen mottok meldingen.
 3. Organisasjonen skal underrette alle de regjeringer som har vedtatt denne protokoll og de regjeringer som har sluttet seg til 1960 Konvensjonen, når denne overenskomst er blitt gjort gjeldende for et territorium i henhold til punkt a) i denne artikkel, og når den ikke lenger gjelder i henhold til bestemmelsene i punkt b), med underretning i hvert enkelt tilfelle om den dato da denne protokoll ble gjort gjeldende eller ikke lenger vil gjelde.
 
 ### Art IX. Deponering og registrering
@@ -419,7 +612,18 @@ Disse regler kalles «Regler for romkrav for passasjerskip i spesiell fart, 1973
 ### Regel 2. *Definisjoner*
 
 1. Unntatt hvor annet er utrykkelig bestemt, skal de definisjoner som er nevnt i regel 2 i Regler for passasjerskip i spesiell fart, 1971 også gjelde for disse regler.
-2. For disse regler gjelder videre disse definisjoner:*1960 Konvensjonen* betyr Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1960.](traktat/1974-11-01-1)*1966 Konvensjonen* betyr Den internasjonale konvensjon om lastelinjer, 1966.*Reisens varighet* betyr tidsintervallet mellom det tidspunkt skipet forlater den havn hvor reisen begynner og det tidspunkt det ankommer til den havn hvor reisen slutter.*Godværssesongen* i relasjon til de deler av området for spesiell fart som ligger innenfor den tropiske sone, slik denne er definert i regel 48 i 1966 Konvensjonen, betyr en periode som strekker seg over hele året, og i relasjon til de deler av dette område som ligger innenfor et periodisk tropeområde slik dette er definert i regel 49 i samme konvensjon, den periode som er fastsatt i regel 49 som den tropiske periode for dette område.*Uværssesongen* i relasjon til de deler av området for spesiell fart som ligger innenfor det periodiske tropeområde slik dette er definert i den ovenfor nevnte regel 49, betyr den periode som der er fastsatt som sommerperioden i dette område.*Dypeste oppdelingslastelinje* er den vannlinje som svarer til det største tillatte dypgående etter de oppdelingskrav som kommer til anvendelse i henhold til reglene for passasjerskip i spesiell fart, 1971.*Skipets lengde* er lengden målt mellom perpendikulærene ved dypeste oppdelingslastelinje.*Øvre mellomdekk* betyr dekket under værdekket, eller i skip med sideåpninger dekket under øvre dekk.*Nedre mellomdekk* betyr dekket under øvre mellomdekk.*Brutto romvolum* betyr volumet målt mellom dekkene og mellom overflaten av spanter, garnering eller kledning i skipssidene.
+2. For disse regler gjelder videre disse definisjoner:
+
+   1. *1960 Konvensjonen* betyr Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1960.](traktat/1974-11-01-1)
+   2. *1966 Konvensjonen* betyr Den internasjonale konvensjon om lastelinjer, 1966.
+   3. *Reisens varighet* betyr tidsintervallet mellom det tidspunkt skipet forlater den havn hvor reisen begynner og det tidspunkt det ankommer til den havn hvor reisen slutter.
+   4. *Godværssesongen* i relasjon til de deler av området for spesiell fart som ligger innenfor den tropiske sone, slik denne er definert i regel 48 i 1966 Konvensjonen, betyr en periode som strekker seg over hele året, og i relasjon til de deler av dette område som ligger innenfor et periodisk tropeområde slik dette er definert i regel 49 i samme konvensjon, den periode som er fastsatt i regel 49 som den tropiske periode for dette område.
+   5. *Uværssesongen* i relasjon til de deler av området for spesiell fart som ligger innenfor det periodiske tropeområde slik dette er definert i den ovenfor nevnte regel 49, betyr den periode som der er fastsatt som sommerperioden i dette område.
+   6. *Dypeste oppdelingslastelinje* er den vannlinje som svarer til det største tillatte dypgående etter de oppdelingskrav som kommer til anvendelse i henhold til reglene for passasjerskip i spesiell fart, 1971.
+   7. *Skipets lengde* er lengden målt mellom perpendikulærene ved dypeste oppdelingslastelinje.
+   8. *Øvre mellomdekk* betyr dekket under værdekket, eller i skip med sideåpninger dekket under øvre dekk.
+   9. *Nedre mellomdekk* betyr dekket under øvre mellomdekk.
+   10. *Brutto romvolum* betyr volumet målt mellom dekkene og mellom overflaten av spanter, garnering eller kledning i skipssidene.
 
 ### Regel 3. *Anvendelse*
 
@@ -451,12 +655,27 @@ Særrettigheter etter disse regler kan ikke kreves for noe skip, med mindre det 
 
 ### Regel 9. *Rom som ikke egner seg for befordring av passasjerer*
 
-1. Ingen passasjer i spesiell fart skal befordres:i noe dekk som ligger lavere enn det som ligger umiddelbart under den dypeste oppdelingslastelinje,på noe sted i mellomdekk hvor rommets effektive høyde er mindre enn 1,90 meter (6 fot 3 tommer),foran kollisjonsskottet eller dets øvre forlengelse, som fastsatt i regel 9, kapittel II i 1960 Konvensjonen,på nedre mellomdekk i et område som ligger innenfor 10 % av skipets lengde, regnet fra den forre perpendikulær, ellerpå noe værdekk som ikke er vernet slik som administrasjonen forlanger.
+1. Ingen passasjer i spesiell fart skal befordres:
+
+   1. i noe dekk som ligger lavere enn det som ligger umiddelbart under den dypeste oppdelingslastelinje,
+   2. på noe sted i mellomdekk hvor rommets effektive høyde er mindre enn 1,90 meter (6 fot 3 tommer),
+   3. foran kollisjonsskottet eller dets øvre forlengelse, som fastsatt i regel 9, kapittel II i 1960 Konvensjonen,
+   4. på nedre mellomdekk i et område som ligger innenfor 10 % av skipets lengde, regnet fra den forre perpendikulær, eller
+   5. på noe værdekk som ikke er vernet slik som administrasjonen forlanger.
 2. Under uværssesongen skal rom på værdekk ikke medregnes som tilgjengelig rom for befordring av passasjerer i spesiell fart, når unntas at slike rom kan anses å være tilgjengelige som lufteplass, slik som regel 11 og regel 13 forlanger.
 
 ### Regel 10. *Tillatt passasjerantall*
 
-Det antall passasjerer i spesiell fart som befordres på noen reise må ikke overstige:for noen reise det antall som er tillatt under Overenskomst om passasjerskip i spesiell fart, 1971,for en reise på 72 timer eller derover, et antall som tilsvarer antall køyer i samsvar med regel 13,for en reise på mindre enn 72 timer, summen av:antall køyer (hvis sådanne) som er montert i henhold til kravene i regel 13, 2), ogantall passasjerer som er tillatt i oppholdsrom som ikke har køyer, i samsvar med regel 11,for en reise på 24 timer eller derover, et antall beregnet i samsvar med regel 11, 4) eller 13, 3) som passende,for en hvilken som helst reise det antall for hvilket lufteplasser er tilgjengelig i samsvar med regel 11 eller regel 13, som passende.
+Det antall passasjerer i spesiell fart som befordres på noen reise må ikke overstige:
+
+1. for noen reise det antall som er tillatt under Overenskomst om passasjerskip i spesiell fart, 1971,
+2. for en reise på 72 timer eller derover, et antall som tilsvarer antall køyer i samsvar med regel 13,
+3. for en reise på mindre enn 72 timer, summen av:
+
+   1. antall køyer (hvis sådanne) som er montert i henhold til kravene i regel 13, 2), og
+   2. antall passasjerer som er tillatt i oppholdsrom som ikke har køyer, i samsvar med regel 11,
+4. for en reise på 24 timer eller derover, et antall beregnet i samsvar med regel 11, 4) eller 13, 3) som passende,
+5. for en hvilken som helst reise det antall for hvilket lufteplasser er tilgjengelig i samsvar med regel 11 eller regel 13, som passende.
 
 ### Regel 11. *Rom som ikke har køyeplass*
 
@@ -467,13 +686,35 @@ Det antall passasjerer i spesiell fart som befordres på noen reise må ikke ove
 
 ### Regel 12. *Områder som skal fratrekkes og merkes*
 
-1. Når man i samsvar med regel 11 skal beregne hvilket passasjerantall kan befordres i noe rom som ikke er forsynt med køyer, skal følgende fratrekk gjøres:et totalt fratrekk på 5 % av bruttoarealet av rommet, som avsettes for medbrakt bagasje,et område som strekker seg 0,75 meter (2 fot 6 tommer) fra inngangen til enhver trapp eller leider, vaskeplass, toalett eller latrinebatteri, eller enhver vannkran eller brannhydrant,rom som er nødvendig for arbeidet med livbåter, flåter og andre flytegjenstander. Disse områder kan dog medregnes som lufteplasser,enhver lasteluke, ogethvert område som administrasjonen finner er uegnet som oppholdssted for passasjerer i spesiell fart.
+1. Når man i samsvar med regel 11 skal beregne hvilket passasjerantall kan befordres i noe rom som ikke er forsynt med køyer, skal følgende fratrekk gjøres:
+
+   1. et totalt fratrekk på 5 % av bruttoarealet av rommet, som avsettes for medbrakt bagasje,
+   2. et område som strekker seg 0,75 meter (2 fot 6 tommer) fra inngangen til enhver trapp eller leider, vaskeplass, toalett eller latrinebatteri, eller enhver vannkran eller brannhydrant,
+   3. rom som er nødvendig for arbeidet med livbåter, flåter og andre flytegjenstander. Disse områder kan dog medregnes som lufteplasser,
+   4. enhver lasteluke, og
+   5. ethvert område som administrasjonen finner er uegnet som oppholdssted for passasjerer i spesiell fart.
 2. De områder som er beskrevet i b), c), d) og e) i punkt 1) i denne regel skal avmerkes med en hvit linje som er 0,08 meter (3 tommer) bred.
 
 ### Regel 13. *Rom med monterte køyer*
 
 1. På ethvert skip som foretar en reise av en varighet som under normale forhold vil vare 72 timer eller mer, skal det innredes en køye for hver passasjer i spesiell fart.
-2. På ethvert skip hvor det er innredet køyer til bruk for passasjerer i spesiell fart, skal følgende bestemmelser gjelde:størrelsen av køyen skal ikke være mindre enn 1,90 meter (6 fot 3 tommer) lang og 0,70 meter (2 fot 3 tommer) bred,hver køye skal ha direkte adgang til passasje og passasjen skal være slik innrettet at den gir lett adgang til en nødutgang,bredden av passasjen skal ikke være mindre enn 0,7 meter (2 fot 3 tommer),køyer kan monteres i en eller to høyder, i sistnevnte tilfelle under forutsetning av at følgende krav er oppfylt:avstanden mellom dekk og bunnen av den underste køye skal ikke være mindre enn 0,45 meter (1 fot 6 tommer),avstanden mellom bunnen av underste køye og bunnen av øverste køye skal ikke være mindre enn 0,90 meter (3 fot),avstanden mellom bunnen av den øverste køye og undersiden av ovenforliggende innretning (f. eks. dekksbjelker eller bærebjelker) skal ikke være mindre enn 0,90 meter (3 fot), ogdet skal være forsvarlig adkomst til øverste køye,køyer skal være forsynt med slingrekant eller rekkverk og hvis de er plassert side om side, med forsvarlig separering,køyer og fester skal være av metall og av en type som er godkjent av administrasjonen,med unntak av de tilfeller hvor lukeåpninger har innebygning eller på annen måte er beskyttet som fastsatt av administrasjonen, skal ingen køye være plassert innenfor en avstand av 0,9 meter fra slike åpninger,ingen køye skal plasseres innenfor en avstand av 0,60 meter (2 fot) fra karmer, garnering eller kledning i skipssiden,ingen køye skal være plassert innenfor en avstand av 0,75 meter (2 fot 6 tommer) fra døråpning til trapp eller leider, vaskeplass, toalett eller latrinebatteri, vannkran eller brannhydrant, ogingen køye skal plasseres på noe sted hvor administrasjonen finner at passasjerer i spesiell fart ikke bør plasseres.
+2. På ethvert skip hvor det er innredet køyer til bruk for passasjerer i spesiell fart, skal følgende bestemmelser gjelde:
+
+   1. størrelsen av køyen skal ikke være mindre enn 1,90 meter (6 fot 3 tommer) lang og 0,70 meter (2 fot 3 tommer) bred,
+   2. hver køye skal ha direkte adgang til passasje og passasjen skal være slik innrettet at den gir lett adgang til en nødutgang,
+   3. bredden av passasjen skal ikke være mindre enn 0,7 meter (2 fot 3 tommer),
+   4. køyer kan monteres i en eller to høyder, i sistnevnte tilfelle under forutsetning av at følgende krav er oppfylt:
+
+      1. avstanden mellom dekk og bunnen av den underste køye skal ikke være mindre enn 0,45 meter (1 fot 6 tommer),
+      2. avstanden mellom bunnen av underste køye og bunnen av øverste køye skal ikke være mindre enn 0,90 meter (3 fot),
+      3. avstanden mellom bunnen av den øverste køye og undersiden av ovenforliggende innretning (f. eks. dekksbjelker eller bærebjelker) skal ikke være mindre enn 0,90 meter (3 fot), og
+      4. det skal være forsvarlig adkomst til øverste køye,
+   5. køyer skal være forsynt med slingrekant eller rekkverk og hvis de er plassert side om side, med forsvarlig separering,
+   6. køyer og fester skal være av metall og av en type som er godkjent av administrasjonen,
+   7. med unntak av de tilfeller hvor lukeåpninger har innebygning eller på annen måte er beskyttet som fastsatt av administrasjonen, skal ingen køye være plassert innenfor en avstand av 0,9 meter fra slike åpninger,
+   8. ingen køye skal plasseres innenfor en avstand av 0,60 meter (2 fot) fra karmer, garnering eller kledning i skipssiden,
+   9. ingen køye skal være plassert innenfor en avstand av 0,75 meter (2 fot 6 tommer) fra døråpning til trapp eller leider, vaskeplass, toalett eller latrinebatteri, vannkran eller brannhydrant, og
+   10. ingen køye skal plasseres på noe sted hvor administrasjonen finner at passasjerer i spesiell fart ikke bør plasseres.
 3. Under ingen omstendighet skal antallet passasjerer i spesiell fart som befordres i henhold til denne regel være slik at rom i kubikkmeter (kubikkfot) delt med 3,06 kubikk meter (108 kubikk fot) overstiges.
 4. Lufteplass som ikke er mindre enn 0,37 kvadratmeter (4 kvadratfot) pr. passasjer skal innrettes på værdekkene for hver passasjer på de øvre og nedre mellomdekk. Slike lufteplasser skal være tydelig merket «RESERVERT SOM LUFTEPLASS FOR PASSASJERER I SPESIELL FART».
 
@@ -501,7 +742,10 @@ Alle rom, heri iberegnet korridorer, trapper og leidere innrettet for opphold el
 
 ### Regel 18. *Solseil*
 
-Ethvert skip skal utstyres med godkjente solseil som skal gi beskyttelse mot været for:de deler av utsatte dekk som er avsatt for benyttelse av passasjerer i spesiell fart, ogde deler av utsatte dekk og tak over oppholdsrom som er plassert umiddelbart over rom som er avsatt for å benyttes av passasjerer i spesiell fart, i den utstrekning administrasjonen finner dette nødvendig.
+Ethvert skip skal utstyres med godkjente solseil som skal gi beskyttelse mot været for:
+
+1. de deler av utsatte dekk som er avsatt for benyttelse av passasjerer i spesiell fart, og
+2. de deler av utsatte dekk og tak over oppholdsrom som er plassert umiddelbart over rom som er avsatt for å benyttes av passasjerer i spesiell fart, i den utstrekning administrasjonen finner dette nødvendig.
 
 ### Regel 19. *Koking av mat*
 
@@ -519,7 +763,26 @@ Rom, heri innbefattet lufterom til bruk for passasjerer i spesiell fart skal ikk
 
 ### Regel 22. *Lempninger i bestemmelsene i Del II*
 
-For eksisterende skip kan administrasjonen tillate følgende lempninger fra kravene i Del II i disse regler:Regel 9, 1), b) og 15 kommer til anvendelse bare i den utstrekning administrasjonen finner dette praktisk og rimelig.Regel 11 kommer til anvendelse unntagen på reiser i godt vær, hvor reisens varighet er på mer enn 24, men mindre enn 48 timer, hvor arealet pr. person som befordres som passasjerer i spesiell fart på andre steder enn i nedre dekk kan reduseres til 0,9 kvadratmeter (10 kvadratfot) og i nedre mellomdekk til 1,12 kvadratmeter (12 kvadratfot).Regel 13 kommer til anvendelse på følgende vilkår:På et skips reise, hvor administrasjonen på forhånd har angitt reiseruten, hvor der under reisen foregår en utstrakt iland- og ombordstigning i de mellomliggende havner, kan administrasjonen lempe på kravene i punkt 1) i den utstrekning dette finnes forsvarlig, idet man tar reisens egenart i betraktning.Hvor et skip allerede er forsynt med køyer, dersom administrasjonen finner at:de passasjerer i spesiell fart som er om bord har slike egenskaper at slik reduksjon i størrelsen av køyer ikke ville bety noe ubehag for dem, ogslik tilgjengelig ekstra plass som fremkommer gjennom slik reduksjon kan benyttes til å øke sikkerheten og komforten for passasjerene i spesiell fart, og slik plass ikke vil bli benyttet til å øke passasjerantallet på en slik måte som ellers ville vært tillatt under regel 13, kan køyer som ikke må være mindre enn 1,80 meter (6 fot) lange og 0,70 meter (2 fot 3 tommer) brede benyttes.De avstander som er fastsatt i regel 13, 2) d) (i), (ii) og (iii) kan alle reduseres med høyst 0,15 meter (6 tommer) forutsatt at summen av disse avstander ikke er mindre enn 1,90 meter (6 fot 3 tommer).Regel 17 behøver ikke komme til anvendelse når et naturlig ventilasjonssystem blir montert i de rom som denne regel refererer til, forutsatt at et slikt system er tilstrekkelig til å sikre en luftbevegelse under alle vær- og klimaforhold som skipet kan regne med å møte, og som særlig tilfredsstiller i det minste følgende krav:Det samlede areal for inntaksventilene som betjener slikt rom bortsett fra ventiler, dører, trapper, skylights eller andre åpninger som ikke bare sørger for ventilasjon skal ikke være mindre enn:for øvre mellomdekk 0,032 kvadratmeter (5 kvadrattommer) for hver passasjer som tilhører dette rom,for nedre mellomdekkrom 0,048 kvadratmeter (7,5 kvadrattommer) for hver passasjer som tilhører dette rom, og det samlede areal åpninger som betjener et slikt rom skal heller ikke være mindre enn de ovennevnte normer.I alle mellomdekkrom, bortsett fra åpne selvluftende rom, skal det benyttes vifter som har en diameter av ikke mindre enn 0,60 meter (2 fot) for hver 25 passasjerer som tilhører slikt rom, forutsatt at vifter av mindre diameter kan benyttes og antallet vifter varieres, dersom administrasjonen finner at de til sammen vil skaffe en like stor luftbevegelse.Hvor etter denne paragraf passasjerantallet som tilhører et oppholdsrom skal være slik som bestemt i regel 11 eller regel 13, alt etter hvilken regel som anvendes, og antallet som tilhører et hvilket som helst annet rom skal være slik som dette har kapasitet til.
+For eksisterende skip kan administrasjonen tillate følgende lempninger fra kravene i Del II i disse regler:
+
+1. Regel 9, 1), b) og 15 kommer til anvendelse bare i den utstrekning administrasjonen finner dette praktisk og rimelig.
+2. Regel 11 kommer til anvendelse unntagen på reiser i godt vær, hvor reisens varighet er på mer enn 24, men mindre enn 48 timer, hvor arealet pr. person som befordres som passasjerer i spesiell fart på andre steder enn i nedre dekk kan reduseres til 0,9 kvadratmeter (10 kvadratfot) og i nedre mellomdekk til 1,12 kvadratmeter (12 kvadratfot).
+3. Regel 13 kommer til anvendelse på følgende vilkår:
+
+   1. På et skips reise, hvor administrasjonen på forhånd har angitt reiseruten, hvor der under reisen foregår en utstrakt iland- og ombordstigning i de mellomliggende havner, kan administrasjonen lempe på kravene i punkt 1) i den utstrekning dette finnes forsvarlig, idet man tar reisens egenart i betraktning.
+   2. Hvor et skip allerede er forsynt med køyer, dersom administrasjonen finner at:
+
+      1. de passasjerer i spesiell fart som er om bord har slike egenskaper at slik reduksjon i størrelsen av køyer ikke ville bety noe ubehag for dem, og
+      2. slik tilgjengelig ekstra plass som fremkommer gjennom slik reduksjon kan benyttes til å øke sikkerheten og komforten for passasjerene i spesiell fart, og slik plass ikke vil bli benyttet til å øke passasjerantallet på en slik måte som ellers ville vært tillatt under regel 13, kan køyer som ikke må være mindre enn 1,80 meter (6 fot) lange og 0,70 meter (2 fot 3 tommer) brede benyttes.
+   3. De avstander som er fastsatt i regel 13, 2) d) (i), (ii) og (iii) kan alle reduseres med høyst 0,15 meter (6 tommer) forutsatt at summen av disse avstander ikke er mindre enn 1,90 meter (6 fot 3 tommer).
+4. Regel 17 behøver ikke komme til anvendelse når et naturlig ventilasjonssystem blir montert i de rom som denne regel refererer til, forutsatt at et slikt system er tilstrekkelig til å sikre en luftbevegelse under alle vær- og klimaforhold som skipet kan regne med å møte, og som særlig tilfredsstiller i det minste følgende krav:
+
+   1. Det samlede areal for inntaksventilene som betjener slikt rom bortsett fra ventiler, dører, trapper, skylights eller andre åpninger som ikke bare sørger for ventilasjon skal ikke være mindre enn:
+
+      1. for øvre mellomdekk 0,032 kvadratmeter (5 kvadrattommer) for hver passasjer som tilhører dette rom,
+      2. for nedre mellomdekkrom 0,048 kvadratmeter (7,5 kvadrattommer) for hver passasjer som tilhører dette rom, og det samlede areal åpninger som betjener et slikt rom skal heller ikke være mindre enn de ovennevnte normer.
+   2. I alle mellomdekkrom, bortsett fra åpne selvluftende rom, skal det benyttes vifter som har en diameter av ikke mindre enn 0,60 meter (2 fot) for hver 25 passasjerer som tilhører slikt rom, forutsatt at vifter av mindre diameter kan benyttes og antallet vifter varieres, dersom administrasjonen finner at de til sammen vil skaffe en like stor luftbevegelse.
+   3. Hvor etter denne paragraf passasjerantallet som tilhører et oppholdsrom skal være slik som bestemt i regel 11 eller regel 13, alt etter hvilken regel som anvendes, og antallet som tilhører et hvilket som helst annet rom skal være slik som dette har kapasitet til.
 
 ### Del IV. Internasjonale helsebestemmelser
 

@@ -35,12 +35,20 @@ Skjemaet kan rekvireres fra Statens trykksakekspedisjon.
 ## Rettledning til domfelte.
 
 1. Vil de prøve å få dommen forandret ved høyere rett, må De komme med begjæring om det innen 14 dager fra idag, det vil si senest ...... dag, den ......
-2. Dette kan, om dommen er avsagt av forhørsrett eller herreds- eller byrett, gjøres på to måter:Ved anke til Høyesterett. Anke brukes hvis De vil klage over straffeutmålingen eller hvis De vil søke dommen opphevet fordi det er gjort feil under saksbehandlingen eller fordi dommen bygger på en uriktig forståelse av loven.Ved begjæring om fornyet behandling ved lagmannsrett. Slik begjæring brukes hvis De mener at skyldspørsmålet er uriktig avgjort.
+2. Dette kan, om dommen er avsagt av forhørsrett eller herreds- eller byrett, gjøres på to måter:
+
+   1. Ved anke til Høyesterett. Anke brukes hvis De vil klage over straffeutmålingen eller hvis De vil søke dommen opphevet fordi det er gjort feil under saksbehandlingen eller fordi dommen bygger på en uriktig forståelse av loven.
+   2. Ved begjæring om fornyet behandling ved lagmannsrett. Slik begjæring brukes hvis De mener at skyldspørsmålet er uriktig avgjort.
 3. Er dommen avsagt av lagmannsrett kan bare anke til Høyesterett komme på tale.
 4. Begjæringen kan De sette fram enten til en av *påtalemyndighetens* tjenestemenn (d.e. riksadvokaten, statsadvokatene, politimestrene, andre politiembetsmenn eller -tjenestemenn og lensmennene), eller til vedkommende *herreds- eller bydommer* (sorenskriver, n, byrett). Er De fengslet, kan De også sette fram begjæringen for *overbetjenten* (vaktmesteren) i fengslet.
-5. Begjæringen kan De gi enten muntlig til de tjenestemenn som er nevnt under punkt 4, eller skriftlig. Tjenestemennene kan gi Dem hjelp og rettledning i spørsmål om begjæringen.Sender De den skriftlig gjennom posten (telegrafen) må den være innlevert til poststasjon (telegrafstasjon) før fristen er ute.
+5. Begjæringen kan De gi enten muntlig til de tjenestemenn som er nevnt under punkt 4, eller skriftlig. Tjenestemennene kan gi Dem hjelp og rettledning i spørsmål om begjæringen.
+
+   Sender De den skriftlig gjennom posten (telegrafen) må den være innlevert til poststasjon (telegrafstasjon) før fristen er ute.
 6. I alle høve må De tydelig forklare hvilken grunn De har til å få saken inn for høyere rett, og om De begjærer saken inn for lagmannsrett eller for Høyesterett.
 7. Følger De ikke disse reglene, vil De risikere ikke å kunne komme videre med saken når fristen er ute.
 8. Hos Deres forsvarer kan De få råd om De bør begjære saken inn for høyere rett, og i tilfelle nærmere rettledning om hvorledes De skal gå fram med det.
 
-Denne meddelelse er gitt den ......av ........................Lagmann, Dommer, Lensmann, Stevnevitne.
+Denne meddelelse er gitt den ......
+
+- av ........................
+- Lagmann, Dommer, Lensmann, Stevnevitne.

@@ -38,13 +38,40 @@ Nasjonal kommunikasjonsmyndigheit kan treffe vedtak om at andre som omfattast av
 
 ## § 3. Definisjonar
 
-I denne forskrifta meinast med:*nettilbydar:* tilbydar av elektroniske kommunikasjonsnett som nyttast til offentleg elektronisk kommunikasjonsteneste.*nettutstyr:* utstyr som nyttast til elektronisk kommunikasjon og som inngår som ein integrert del av elektroniske kommunikasjonsnett.*anlegg:* fysisk konstruksjon som huser nettutstyr, og som utgjer ein naturleg heilskap, som til dømes eit fjell-/bunkeranlegg, ei bygning, ein avgrensa del av ei bygning, eller ei mast.*to-faktor autentisering:* autentisering av personell ved hjelp av to av faktorane «noko personen har», «noko personen veit» og «noko personen er».*EMP/HPM-våpen:* våpen basert på elektromagnetisk puls (EMP) eller høgfrekvent radiostråling (HPM).*hjelpeteknisk utstyr:* straumforsyningsutstyr, reservestraumforsyning og kjøleutstyr som er fast installert i anlegg, eller tilrettelagt for å bli installert i anlegg, for drift av nettutstyr.
+I denne forskrifta meinast med:
+
+1. *nettilbydar:* tilbydar av elektroniske kommunikasjonsnett som nyttast til offentleg elektronisk kommunikasjonsteneste.
+2. *nettutstyr:* utstyr som nyttast til elektronisk kommunikasjon og som inngår som ein integrert del av elektroniske kommunikasjonsnett.
+3. *anlegg:* fysisk konstruksjon som huser nettutstyr, og som utgjer ein naturleg heilskap, som til dømes eit fjell-/bunkeranlegg, ei bygning, ein avgrensa del av ei bygning, eller ei mast.
+4. *to-faktor autentisering:* autentisering av personell ved hjelp av to av faktorane «noko personen har», «noko personen veit» og «noko personen er».
+5. *EMP/HPM-våpen:* våpen basert på elektromagnetisk puls (EMP) eller høgfrekvent radiostråling (HPM).
+6. *hjelpeteknisk utstyr:* straumforsyningsutstyr, reservestraumforsyning og kjøleutstyr som er fast installert i anlegg, eller tilrettelagt for å bli installert i anlegg, for drift av nettutstyr.
 
 ## § 4. Klassifisering
 
-Nettilbydar skal klassifisere alle anlegg ut i frå kor viktig eiget nettutstyr i anlegget vurderast å vere for offentlege elektroniske kommunikasjonstenester. Anlegga skal klassifiserast i fire klassar:Klasse AAnlegg som omfattast av [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet (sikkerhetsloven)](lov/2018-06-01-24).Klasse BAnlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester på landsdelsnivå eller større, eller for eit tilsvarande omfang av brukarar.Klasse CAnlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester på fylkesnivå eller større, eller for eit tilsvarande omfang av brukarar.Klasse DAnlegg som ikkje er omfatta av klassane A, B eller C.
+Nettilbydar skal klassifisere alle anlegg ut i frå kor viktig eiget nettutstyr i anlegget vurderast å vere for offentlege elektroniske kommunikasjonstenester. Anlegga skal klassifiserast i fire klassar:
 
-Med anlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester meinast mellom anna anlegg med nettutstyr som er kritisk for:samtrafikk med elektroniske kommunikasjonsnett i utlandet,samtrafikk med nasjonale/regionale elektroniske kommunikasjonsnett,sentral dirigering og styring av elektronisk kommunikasjon,sentrale oppslags-, registrerings- eller databasetenester,kringkasting, ellerdrift og overvaking av utstyr nemnt i punkt 1.–5.
+1. Klasse A
+
+   Anlegg som omfattast av [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet (sikkerhetsloven)](lov/2018-06-01-24).
+2. Klasse B
+
+   Anlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester på landsdelsnivå eller større, eller for eit tilsvarande omfang av brukarar.
+3. Klasse C
+
+   Anlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester på fylkesnivå eller større, eller for eit tilsvarande omfang av brukarar.
+4. Klasse D
+
+   Anlegg som ikkje er omfatta av klassane A, B eller C.
+
+Med anlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester meinast mellom anna anlegg med nettutstyr som er kritisk for:
+
+1. samtrafikk med elektroniske kommunikasjonsnett i utlandet,
+2. samtrafikk med nasjonale/regionale elektroniske kommunikasjonsnett,
+3. sentral dirigering og styring av elektronisk kommunikasjon,
+4. sentrale oppslags-, registrerings- eller databasetenester,
+5. kringkasting, eller
+6. drift og overvaking av utstyr nemnt i punkt 1.–5.
 
 Nettilbydar skal revidere klassifiseringa minst årleg.
 

@@ -28,13 +28,23 @@ eu_basis: []
 
 Denne forskriften gjelder for eier og fører av norske fritidsbåter innenfor rikets grenser, herunder Svalbard og Jan Mayen.
 
-Forskriften gjelder ikke for fører av:fritidsbåter når de benyttes i organisert trenings- og konkurransekjøring med unntak av [§ 6](forskrift/2009-03-03-259/§6),robåter, kanoer og kajakker.
+Forskriften gjelder ikke for fører av:
+
+1. fritidsbåter når de benyttes i organisert trenings- og konkurransekjøring med unntak av [§ 6](forskrift/2009-03-03-259/§6),
+2. robåter, kanoer og kajakker.
 
 > Endret ved forskrift [24 juni 2021 nr. 2307](forskrift/2021-06-24-2307) (i kraft 1 juli 2021), [7 feb 2022 nr. 197](forskrift/2022-02-07-197) (i kraft 1 mars 2022).
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*Eier:* Eieren eller den som har rådighet over båten på eierens vegne.*Kompetansebevis:* Båtførerbevis, høyhastighetsbevis og internasjonalt båtførersertifikat utstedt med hjemmel i denne forskriften.*Kvalifikasjonsbevis:* Båtførerbevis utstedt med hjemmel i eldre regelverk, båtførerkort utstedt av Norske Båtskoler før forskriften trådte i kraft, bekreftelse på bestått eksamen ved Statens Sjøaspirantskoler, fritidsbåtskippersertifikat, yrkessertifikater for dekksoffiserer og militære maritime sertifikater av tilsvarende grad. Sjøfartsdirektoratet kan bestemme at annen teoretisk kompetanse enn det som er nevnt i første punktum skal regnes som kvalifikasjonsbevis, forutsatt at opplæringen er på samme nivå eller høyere enn båtførerprøven.*Lengde:* Skrogets lengde (LH) etter NS-EN-ISO-8666 Mindre fartøy – Hoveddata.*Motorytelse:* Den ytelse som er oppgitt av produsenten. Dersom det er grunn til å tro at motorytelsen er en annen enn den som er oppgitt av produsenten, kan Sjøfartsdirektoratet kreve at det foretas prøve. Gir prøven et annet resultat, skal dette resultatet legges til grunn.*Rikets grenser:* Norges territorialfarvann og innenlands farvann, herunder elver, kanaler og innsjøer.
+I denne forskrift betyr:
+
+1. *Eier:* Eieren eller den som har rådighet over båten på eierens vegne.
+2. *Kompetansebevis:* Båtførerbevis, høyhastighetsbevis og internasjonalt båtførersertifikat utstedt med hjemmel i denne forskriften.
+3. *Kvalifikasjonsbevis:* Båtførerbevis utstedt med hjemmel i eldre regelverk, båtførerkort utstedt av Norske Båtskoler før forskriften trådte i kraft, bekreftelse på bestått eksamen ved Statens Sjøaspirantskoler, fritidsbåtskippersertifikat, yrkessertifikater for dekksoffiserer og militære maritime sertifikater av tilsvarende grad. Sjøfartsdirektoratet kan bestemme at annen teoretisk kompetanse enn det som er nevnt i første punktum skal regnes som kvalifikasjonsbevis, forutsatt at opplæringen er på samme nivå eller høyere enn båtførerprøven.
+4. *Lengde:* Skrogets lengde (LH) etter NS-EN-ISO-8666 Mindre fartøy – Hoveddata.
+5. *Motorytelse:* Den ytelse som er oppgitt av produsenten. Dersom det er grunn til å tro at motorytelsen er en annen enn den som er oppgitt av produsenten, kan Sjøfartsdirektoratet kreve at det foretas prøve. Gir prøven et annet resultat, skal dette resultatet legges til grunn.
+6. *Rikets grenser:* Norges territorialfarvann og innenlands farvann, herunder elver, kanaler og innsjøer.
 
 > Endret ved forskrift [7 feb 2022 nr. 197](forskrift/2022-02-07-197) (i kraft 1 mars 2022).
 
@@ -58,7 +68,13 @@ Fører skal være fylt 16 år dersom fritidsbåten har motor med større ytelse 
 
 ### § 6. Konkurransekjøring
 
-Personer som har fylt 13 år kan føre fritidsbåt som nevnt i [§ 5](forskrift/2009-03-03-259/§5) i organisert trenings- eller konkurransekjøring når:trenings- eller konkurransekjøring foregår på bane godkjent av vedkommende myndighet,banen er tilfredsstillende merket,føreren har gjennomgått sikkerhetsopplæring under kontroll av leder autorisert i henhold til internasjonale konkurranseregler,fritidsbåten er utstyrt og utrustet i henhold til internasjonale konkurranseregler, ogtrenings- eller konkurransekjøring arrangeres av norsk båtforening med minst 50 medlemmer.
+Personer som har fylt 13 år kan føre fritidsbåt som nevnt i [§ 5](forskrift/2009-03-03-259/§5) i organisert trenings- eller konkurransekjøring når:
+
+1. trenings- eller konkurransekjøring foregår på bane godkjent av vedkommende myndighet,
+2. banen er tilfredsstillende merket,
+3. føreren har gjennomgått sikkerhetsopplæring under kontroll av leder autorisert i henhold til internasjonale konkurranseregler,
+4. fritidsbåten er utstyrt og utrustet i henhold til internasjonale konkurranseregler, og
+5. trenings- eller konkurransekjøring arrangeres av norsk båtforening med minst 50 medlemmer.
 
 Ansvarlig organisasjon eller arrangør skal i god tid før trenings- eller konkurransekjøringen begynner melde fra til lokal politimyndighet og på anmodning dokumentere at punktene a til og med e er tilfredsstilt.
 
@@ -66,7 +82,12 @@ Ansvarlig organisasjon eller arrangør skal i god tid før trenings- eller konku
 
 ### § 7. Kvalifikasjonskrav
 
-Fører av norsk fritidsbåt med lengde under 15 meter som:har lengde over 8 meter (26,25 fot), ellerhar motor med større ytelse enn 25 HK/19 kWskal inneha norsk båtførerbevis eller gyldig kvalifikasjonsbevis. For førere med båtførerbevis eller kvalifikasjonsbevis utstedt i utlandet gjelder [§ 13](forskrift/2009-03-03-259/§13).
+Fører av norsk fritidsbåt med lengde under 15 meter som:
+
+1. har lengde over 8 meter (26,25 fot), eller
+2. har motor med større ytelse enn 25 HK/19 kW
+
+skal inneha norsk båtførerbevis eller gyldig kvalifikasjonsbevis. For førere med båtførerbevis eller kvalifikasjonsbevis utstedt i utlandet gjelder [§ 13](forskrift/2009-03-03-259/§13).
 
 Bestemmelsen i første ledd gjelder ikke for fører som er født før 1. januar 1980.
 
@@ -88,9 +109,19 @@ En kandidat som ikke består båtførerprøven kan tidligst avlegge ny prøve et
 
 ### § 10. Søknad om båtførerbevis
 
-Søknad om båtførerbevis sendes på fastsatt skjema til Sjøfartsdirektoratet eller den det bemyndiger. Søknaden skal ha følgende vedlegg:bekreftelse på bestått båtførerprøve som ikke er eldre enn tre år, kopi av gyldig kvalifikasjonsbevis, kopi av kvalifikasjonsbevis som er utgått eller kopi av vitnemål som grunnlag for utstedelse av kvalifikasjonsbevis,passfoto ikke eldre enn ett år,kopi av godkjent legitimasjon med navn og fødselsnummer,kopi av kvittering for betalt gebyr.
+Søknad om båtførerbevis sendes på fastsatt skjema til Sjøfartsdirektoratet eller den det bemyndiger. Søknaden skal ha følgende vedlegg:
 
-Søknad om båtførerbevis fra person som har fått utstedt norsk kvalifikasjonsbevis før forskriften trådte i kraft, men som ikke kan fremlegge kopi av slikt bevis og som heller ikke er oppført i register tilgjengelig for Sjøfartsdirektoratet, skal ha et av følgende vedlegg i tillegg til vedleggene i første ledd bokstav b til d:kopi av vitnemål som grunnlag for utstedelse av kvalifikasjonsbevis,original eller kopi av dokumentasjon som viser at båtførerprøve er bestått,erklæring fra sensor som bekrefter at båtførerprøve er bestått, ellererklæring fra offentlig godkjent lærested hvor opplæring fant sted og som bekrefter at båtførerprøve er bestått.
+1. bekreftelse på bestått båtførerprøve som ikke er eldre enn tre år, kopi av gyldig kvalifikasjonsbevis, kopi av kvalifikasjonsbevis som er utgått eller kopi av vitnemål som grunnlag for utstedelse av kvalifikasjonsbevis,
+2. passfoto ikke eldre enn ett år,
+3. kopi av godkjent legitimasjon med navn og fødselsnummer,
+4. kopi av kvittering for betalt gebyr.
+
+Søknad om båtførerbevis fra person som har fått utstedt norsk kvalifikasjonsbevis før forskriften trådte i kraft, men som ikke kan fremlegge kopi av slikt bevis og som heller ikke er oppført i register tilgjengelig for Sjøfartsdirektoratet, skal ha et av følgende vedlegg i tillegg til vedleggene i første ledd bokstav b til d:
+
+1. kopi av vitnemål som grunnlag for utstedelse av kvalifikasjonsbevis,
+2. original eller kopi av dokumentasjon som viser at båtførerprøve er bestått,
+3. erklæring fra sensor som bekrefter at båtførerprøve er bestått, eller
+4. erklæring fra offentlig godkjent lærested hvor opplæring fant sted og som bekrefter at båtførerprøve er bestått.
 
 Ved navneendring skal kopi av vigselsattest eller navnebrev vedlegges, dersom ikke endringen fremgår av det sentrale personregisteret.
 
@@ -126,7 +157,12 @@ Det utenlandske beviset skal være utstedt mens innehaveren hadde bopel i vedkom
 
 ### § 15. Utstedelse av internasjonalt båtførersertifikat
 
-Fører av motorbåt eller seilbåt, kan få utstedt Internasjonalt båtførersertifikat for kystnavigasjon gjeldende for fritidsbåt med lengde under 15 meter som maksimalt kan oppnå hastighet under 50 knop dersom vedkommende oppfyller følgende vilkår:er fylt 16 år,er norsk statsborger eller bosatt i Norge, statsborger i et nord-amerikansk land eller statsborger i land som ikke er medlem av De forente nasjoners økonomiske kommisjon for Europa,kvalifiserer til å få utstedt norsk båtførerbevis eller innehar gyldig kvalifikasjonsbevis ogoppfyller kravene til praktisk prøve og helse i henhold til [§ 16](forskrift/2009-03-03-259/§16) og [§ 17](forskrift/2009-03-03-259/§17).
+Fører av motorbåt eller seilbåt, kan få utstedt Internasjonalt båtførersertifikat for kystnavigasjon gjeldende for fritidsbåt med lengde under 15 meter som maksimalt kan oppnå hastighet under 50 knop dersom vedkommende oppfyller følgende vilkår:
+
+1. er fylt 16 år,
+2. er norsk statsborger eller bosatt i Norge, statsborger i et nord-amerikansk land eller statsborger i land som ikke er medlem av De forente nasjoners økonomiske kommisjon for Europa,
+3. kvalifiserer til å få utstedt norsk båtførerbevis eller innehar gyldig kvalifikasjonsbevis og
+4. oppfyller kravene til praktisk prøve og helse i henhold til [§ 16](forskrift/2009-03-03-259/§16) og [§ 17](forskrift/2009-03-03-259/§17).
 
 Søknad sendes på fastsatt skjema til Sjøfartsdirektoratet eller den det bemyndiger.
 
@@ -174,7 +210,10 @@ Sjøfartsdirektoratet kan fastsette nærmere retningslinjer som inneholder overs
 
 ### § 17b. Utstedelse av høyhastighetsbevis
 
-Høyhastighetsbevis kan utstedes til person som er fylt 18 år, og somoppfyller kravet til å føre båtførerbevispliktig fritidsbåt,har gjennomført teoretisk og praktisk høyhastighetskurs i henhold til [§ 17](forskrift/2009-03-03-259/§17)c.
+Høyhastighetsbevis kan utstedes til person som er fylt 18 år, og som
+
+1. oppfyller kravet til å føre båtførerbevispliktig fritidsbåt,
+2. har gjennomført teoretisk og praktisk høyhastighetskurs i henhold til [§ 17](forskrift/2009-03-03-259/§17)c.
 
 Sjøfartsdirektoratet kan bestemme at annen norsk høyhastighetsopplæring kan gi grunnlag for å bli fritatt fra kravet til kurs som nevnt i første ledd bokstav b, forutsatt at opplæringen er på samme nivå eller høyere enn høyhastighetsbevis.
 
@@ -194,13 +233,27 @@ Kurset kan avlegges av personer som har fylt 17 år.
 
 Kurssteder skal være godkjent av Sjøfartsdirektoratet.
 
-Kursteder skal etablere, gjennomføre og videreutvikle et dokumenterbart sikkerhetsstyringssystem som minimum inneholder:beskrivelse av virksomheten,beskrivelse av det enkelte fartøy, herunder tekniske spesifikasjoner,rutiner for seilasplanlegging,beskrivelse av risikofaktorer for besetning og passasjerer når fartøyet er underveis og ved bruk utstyr om bord,tiltak for å unngå uønskede hendelser,rutiner for vedlikehold av fartøy og utstyr,beredskapsplan til bruk i ulike nødssituasjoner og rutiner for øvelser.
+Kursteder skal etablere, gjennomføre og videreutvikle et dokumenterbart sikkerhetsstyringssystem som minimum inneholder:
+
+1. beskrivelse av virksomheten,
+2. beskrivelse av det enkelte fartøy, herunder tekniske spesifikasjoner,
+3. rutiner for seilasplanlegging,
+4. beskrivelse av risikofaktorer for besetning og passasjerer når fartøyet er underveis og ved bruk utstyr om bord,
+5. tiltak for å unngå uønskede hendelser,
+6. rutiner for vedlikehold av fartøy og utstyr,
+7. beredskapsplan til bruk i ulike nødssituasjoner og rutiner for øvelser.
 
 > Tilføyd ved forskrift [7 feb 2022 nr. 197](forskrift/2022-02-07-197) (i kraft 1 mars 2022).
 
 ### § 17e. Krav til instruktør for praktisk del
 
-Sjøfartsdirektoratet eller den det bemyndiger må godkjenne instruktør som minimum må hafritidsskippersertifikat,gyldig helseerklæring for fritidsskippersertifikat som ikke er eldre enn to år,gyldig sikkerhetsopplæringskurs for sjøfolk på mindre skip,relevant erfaring med hurtiggående fartøytype det skal undervises i,instruktørkurs i henhold til retningslinjer fastsatt av Sjøfarsdirektoratet.
+Sjøfartsdirektoratet eller den det bemyndiger må godkjenne instruktør som minimum må ha
+
+1. fritidsskippersertifikat,
+2. gyldig helseerklæring for fritidsskippersertifikat som ikke er eldre enn to år,
+3. gyldig sikkerhetsopplæringskurs for sjøfolk på mindre skip,
+4. relevant erfaring med hurtiggående fartøytype det skal undervises i,
+5. instruktørkurs i henhold til retningslinjer fastsatt av Sjøfarsdirektoratet.
 
 Instruktør for vannscooter er unntatt kravene i første ledd bokstav a og c, men skal minimum ha båtførerbevis og kunne dokumentere kompetanse i førstehjelp som dekker førstehjelpsdelen av sikkerhetsopplæringskurset beskrevet i bokstav c.
 
@@ -212,7 +265,10 @@ Fartøy, unntatt vannscooter, som benyttes til høyhastighetsopplæring skal væ
 
 Personer som oppholder seg utendørs om bord i fartøy som benyttes i opplæring skal ha på seg egnet flyteutstyr som er CE-merket i henhold til [forskrift 22. juni 2018 nr. 1019 om konstruksjon, utforming og produksjon av personlig verneutstyr (PVU)](forskrift/2018-06-22-1019).
 
-På vannscooter skal alle i tillegg ha på segEgnet hjelm som er CE-merket i henhold til [forskrift 22. juni 2018 nr. 1019 om konstruksjon, utforming og produksjon av personlig verneutstyr (PVU)](forskrift/2018-06-22-1019)Egnet bekledning.
+På vannscooter skal alle i tillegg ha på seg
+
+1. Egnet hjelm som er CE-merket i henhold til [forskrift 22. juni 2018 nr. 1019 om konstruksjon, utforming og produksjon av personlig verneutstyr (PVU)](forskrift/2018-06-22-1019)
+2. Egnet bekledning.
 
 Vannscooter som benyttes til høyhastighetsopplæring skal være CE-merket i henhold til [forskrift 15. januar 2016 nr. 35 om produksjon og omsetning av fritidsfartøy og vannscootere mv.](forskrift/2016-01-15-35)
 

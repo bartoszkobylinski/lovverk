@@ -32,7 +32,14 @@ Saksdokumenter, journaler og lignende registre for Stortinget er åpne for innsy
 
 ### § 2. Reglenes virkeområde
 
-Reglene gjelder for følgende, som alle skal regnes som ulike organer etter disse reglene:Stortinget som kollegialt organstortingskomiteeneStortingets presidentskapStortingets internasjonale delegasjonerandre kollegiale organer som har sekretariat i Stortingets administrasjonStortingets administrasjon.
+Reglene gjelder for følgende, som alle skal regnes som ulike organer etter disse reglene:
+
+1. Stortinget som kollegialt organ
+2. stortingskomiteene
+3. Stortingets presidentskap
+4. Stortingets internasjonale delegasjoner
+5. andre kollegiale organer som har sekretariat i Stortingets administrasjon
+6. Stortingets administrasjon.
 
 Sekretariatet til et kollegialt organ opplistet i første ledd skal anses for å være del av organet.
 
@@ -44,7 +51,17 @@ Reglene gjelder ikke der spørsmål om offentlighet og innsyn er løst ved beste
 
 ### § 3. Offentleglovas hovedregler som gjelder for Stortinget
 
-Følgende hovedregler i [offentleglova kapittel 2](lov/2006-05-19-16/kap2) gjelder for Stortinget:definisjoner i [offentleglova § 4](lov/2006-05-19-16/§4)utsatt innsyn i [offentleglova § 5](lov/2006-05-19-16/§5)forbud mot forskjellsbehandling i [offentleglova § 6](lov/2006-05-19-16/§6)bruk av offentlig informasjon i [offentleglova § 7](lov/2006-05-19-16/§7)hovedregel om gratis innsyn i [offentleglova § 8](lov/2006-05-19-16/§8)rett til å kreve innsyn i en sammenstilling fra databaser i [offentleglova § 9](lov/2006-05-19-16/§9)plikten til å føre journal i [offentleglova § 10](lov/2006-05-19-16/§10)merinnsyn i [offentleglova § 11](lov/2006-05-19-16/§11)unntak for resten av dokumentet [§ 12](lov/2006-05-19-16/§12)
+Følgende hovedregler i [offentleglova kapittel 2](lov/2006-05-19-16/kap2) gjelder for Stortinget:
+
+1. definisjoner i [offentleglova § 4](lov/2006-05-19-16/§4)
+2. utsatt innsyn i [offentleglova § 5](lov/2006-05-19-16/§5)
+3. forbud mot forskjellsbehandling i [offentleglova § 6](lov/2006-05-19-16/§6)
+4. bruk av offentlig informasjon i [offentleglova § 7](lov/2006-05-19-16/§7)
+5. hovedregel om gratis innsyn i [offentleglova § 8](lov/2006-05-19-16/§8)
+6. rett til å kreve innsyn i en sammenstilling fra databaser i [offentleglova § 9](lov/2006-05-19-16/§9)
+7. plikten til å føre journal i [offentleglova § 10](lov/2006-05-19-16/§10)
+8. merinnsyn i [offentleglova § 11](lov/2006-05-19-16/§11)
+9. unntak for resten av dokumentet [§ 12](lov/2006-05-19-16/§12)
 
 Stortinget skal føre elektronisk journal, og gjøre denne allment tilgjengelig på internett.
 
@@ -52,7 +69,19 @@ Plikten til å føre journal og tilgjengeliggjøring av journal etter første le
 
 ### § 4. Offentleglovas unntak som gjelder for Stortinget
 
-Følgende unntak i [offentleglova kapittel 3](lov/2006-05-19-16/kap3) gjelder for Stortinget:dokument utarbeidet for egen saksforberedelse (organinterne dokumenter) i [offentleglova § 14](lov/2006-05-19-16/§14)dokument innhentet utenfra for den interne saksforberedelsen i [offentleglova § 15](lov/2006-05-19-16/§15)unntak for visse dokumenter som gjelder Det kongelige hoff i [offentleglova § 17](lov/2006-05-19-16/§17)unntak for rettssaksdokumenter i [offentleglova § 18](lov/2006-05-19-16/§18)unntak for dokumenter som blir utvekslet under konsultasjoner med Sametinget m.m. i [offentleglova § 19](lov/2006-05-19-16/§19)unntak av hensyn til Norges utenrikspolitiske interesser i [offentleglova § 20](lov/2006-05-19-16/§20)unntak av hensyn til nasjonale forsvars- og sikkerhetsinteresser i [offentleglova § 21](lov/2006-05-19-16/§21)unntak av hensyn til det offentliges forhandlingsposisjon m.m. i [offentleglova § 23](lov/2006-05-19-16/§23)unntak for kontroll- og reguleringstiltak, dokumenter om lovbrudd og opplysninger som kan lette gjennomføringen av lovbrudd m.m. i [offentleglova § 24](lov/2006-05-19-16/§24)unntak for ansettelsessaker, lønnsoppgaver m.m. i [offentleglova § 25](lov/2006-05-19-16/§25)unntak for eksamensdokumenter, forskningsopplysninger og fødselsnummer m.m. i [offentleglova § 26](lov/2006-05-19-16/§26)
+Følgende unntak i [offentleglova kapittel 3](lov/2006-05-19-16/kap3) gjelder for Stortinget:
+
+1. dokument utarbeidet for egen saksforberedelse (organinterne dokumenter) i [offentleglova § 14](lov/2006-05-19-16/§14)
+2. dokument innhentet utenfra for den interne saksforberedelsen i [offentleglova § 15](lov/2006-05-19-16/§15)
+3. unntak for visse dokumenter som gjelder Det kongelige hoff i [offentleglova § 17](lov/2006-05-19-16/§17)
+4. unntak for rettssaksdokumenter i [offentleglova § 18](lov/2006-05-19-16/§18)
+5. unntak for dokumenter som blir utvekslet under konsultasjoner med Sametinget m.m. i [offentleglova § 19](lov/2006-05-19-16/§19)
+6. unntak av hensyn til Norges utenrikspolitiske interesser i [offentleglova § 20](lov/2006-05-19-16/§20)
+7. unntak av hensyn til nasjonale forsvars- og sikkerhetsinteresser i [offentleglova § 21](lov/2006-05-19-16/§21)
+8. unntak av hensyn til det offentliges forhandlingsposisjon m.m. i [offentleglova § 23](lov/2006-05-19-16/§23)
+9. unntak for kontroll- og reguleringstiltak, dokumenter om lovbrudd og opplysninger som kan lette gjennomføringen av lovbrudd m.m. i [offentleglova § 24](lov/2006-05-19-16/§24)
+10. unntak for ansettelsessaker, lønnsoppgaver m.m. i [offentleglova § 25](lov/2006-05-19-16/§25)
+11. unntak for eksamensdokumenter, forskningsopplysninger og fødselsnummer m.m. i [offentleglova § 26](lov/2006-05-19-16/§26)
 
 ## Kapittel 3. Andre unntak fra innsynsretten
 

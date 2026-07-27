@@ -36,21 +36,51 @@ eu_basis: []
 
 ### § 1-2. Definisjoner
 
-1. *Studieprogram*En gitt samling av emner studenter kan tas opp til og få studierett på. Et studieprogram kjennetegnes ved at det ikke er nødvendig å søke opptak på nytt for å ta nye emner innenfor studieprogrammet.
-2. *Studieplan*Plan som blant annet beskriver opptakskrav, innhold, emner og læringsutbytte i et studieprogram. I studieplanen skal det fremgå eventuelle krav til selvstendig arbeid, hvilke emner som er obligatoriske, valgfrie og valgbare. I rammeplaner omtales studieplan også som programplan eller fagplan.
-3. *Emnebeskrivelse*En beskrivelse av blant annet innhold, omfang, læringsutbytte, pensum, vurderingsordning og eventuell vektingsreduksjon i et emne.
-4. *Emne*Studiepoenggivende enhet med egen avsluttende vurdering. Fullført emne skal gis eget karakteruttrykk.
-5. *Emnegruppe*Samling av emner fra ett fagområde som i en studieplan er definert til å utgjøre en samlet faglig enhet og som gis en felles betegnelse.
-6. *Studiepoeng*Mål på omfang og arbeidsmengde for et studieprogram eller emne. Ett års fulltids studier er normert til 60 studiepoeng med arbeidsomfang tilsvarende 1500–1800 timer.
-7. *Utdanningsplan*Utdanningsplanen er en gjensidig forpliktende avtale mellom universitetet og studenten for gjennomføring av et studieprogram av minimum 60 studiepoengs omfang. Utdanningsplanen bygger på studieprogrammets studieplan, og skal blant annet vise hvilke emner studenten skal gjennomføre til enhver tid.
-8. *Student*Person som gjennom opptak etter [lov om universiteter og høyskoler kapittel 8](lov/2024-03-08-9/kap8) og tilhørende forskrifter, er tatt opp til studieprogram eller enkeltemner ved universitetet.
-9. *Privatist*Person som etter [lov om universiteter og høyskoler § 11-4](lov/2024-03-08-9/§11-4) er gitt adgang til å gå opp til eksamen uten å være tatt opp som student.
-10. *Kandidat*Person som fremstiller seg til vurdering, herunder både studenter og privatister.
-11. *Vurdering*Betegnelse på alle typer bedømmelse av kandidatens kunnskaper, ferdigheter og generelle kompetanse. Alle vurderinger som fremgår av emnebeskrivelsen, må være godkjent/bestått for å få endelig karakter og tellende studiepoeng.
-12. *Eksamen*Vurderingsform som omfatter alle typer prøving som gir grunnlag for fastsettelse av selvstendig karakter for et emne, enten ved at resultatet skal inngå på vitnemål/karakterutskrift eller innregnes i en samlet karakter på vitnemål/karakterutskrift.
-13. *Vitnemål*Dokument som bekrefter fullført grad eller yrkesutdanning.
-14. *Diploma Supplement*Engelsk vitnemålstillegg som utstedes sammen med vitnemålet. Her fremkommer informasjon om landets utdanningssystem og studentens utdanning. Diploma Supplement er kun gyldig sammen med vitnemålet.
-15. *Karakterutskrift*Oversikt over oppnådde resultater som ikke fører, eller har ført, frem til grad eller yrkesutdanning.
+1. *Studieprogram*
+
+   En gitt samling av emner studenter kan tas opp til og få studierett på. Et studieprogram kjennetegnes ved at det ikke er nødvendig å søke opptak på nytt for å ta nye emner innenfor studieprogrammet.
+2. *Studieplan*
+
+   Plan som blant annet beskriver opptakskrav, innhold, emner og læringsutbytte i et studieprogram. I studieplanen skal det fremgå eventuelle krav til selvstendig arbeid, hvilke emner som er obligatoriske, valgfrie og valgbare. I rammeplaner omtales studieplan også som programplan eller fagplan.
+3. *Emnebeskrivelse*
+
+   En beskrivelse av blant annet innhold, omfang, læringsutbytte, pensum, vurderingsordning og eventuell vektingsreduksjon i et emne.
+4. *Emne*
+
+   Studiepoenggivende enhet med egen avsluttende vurdering. Fullført emne skal gis eget karakteruttrykk.
+5. *Emnegruppe*
+
+   Samling av emner fra ett fagområde som i en studieplan er definert til å utgjøre en samlet faglig enhet og som gis en felles betegnelse.
+6. *Studiepoeng*
+
+   Mål på omfang og arbeidsmengde for et studieprogram eller emne. Ett års fulltids studier er normert til 60 studiepoeng med arbeidsomfang tilsvarende 1500–1800 timer.
+7. *Utdanningsplan*
+
+   Utdanningsplanen er en gjensidig forpliktende avtale mellom universitetet og studenten for gjennomføring av et studieprogram av minimum 60 studiepoengs omfang. Utdanningsplanen bygger på studieprogrammets studieplan, og skal blant annet vise hvilke emner studenten skal gjennomføre til enhver tid.
+8. *Student*
+
+   Person som gjennom opptak etter [lov om universiteter og høyskoler kapittel 8](lov/2024-03-08-9/kap8) og tilhørende forskrifter, er tatt opp til studieprogram eller enkeltemner ved universitetet.
+9. *Privatist*
+
+   Person som etter [lov om universiteter og høyskoler § 11-4](lov/2024-03-08-9/§11-4) er gitt adgang til å gå opp til eksamen uten å være tatt opp som student.
+10. *Kandidat*
+
+    Person som fremstiller seg til vurdering, herunder både studenter og privatister.
+11. *Vurdering*
+
+    Betegnelse på alle typer bedømmelse av kandidatens kunnskaper, ferdigheter og generelle kompetanse. Alle vurderinger som fremgår av emnebeskrivelsen, må være godkjent/bestått for å få endelig karakter og tellende studiepoeng.
+12. *Eksamen*
+
+    Vurderingsform som omfatter alle typer prøving som gir grunnlag for fastsettelse av selvstendig karakter for et emne, enten ved at resultatet skal inngå på vitnemål/karakterutskrift eller innregnes i en samlet karakter på vitnemål/karakterutskrift.
+13. *Vitnemål*
+
+    Dokument som bekrefter fullført grad eller yrkesutdanning.
+14. *Diploma Supplement*
+
+    Engelsk vitnemålstillegg som utstedes sammen med vitnemålet. Her fremkommer informasjon om landets utdanningssystem og studentens utdanning. Diploma Supplement er kun gyldig sammen med vitnemålet.
+15. *Karakterutskrift*
+
+    Oversikt over oppnådde resultater som ikke fører, eller har ført, frem til grad eller yrkesutdanning.
 
 ## Kapittel 2. Grader og yrkesutdanninger
 
@@ -64,7 +94,11 @@ Graden høgskolekandidat oppnås ved fullført studieprogram på lavere grads ni
 
 ### § 2-3. Krav til graden bachelor
 
-(1) Graden bachelor oppnås ved fullført utdanning på minimum 180 studiepoeng. Grunnlaget for graden skal omfatte ett av følgende:studieprogram på minimum 180 studiepoeng, som i henhold til nasjonale forskrifter eller vedtak av styret gir bachelorgrad, ellerintegrert utdanning eller annet studieprogram på minimum 120 studiepoeng kombinert med påbygging eller fordypning innenfor samme eller tilgrensende fagområde av minimum 60 studiepoeng, ellerselvvalgt studium på minimum 180 studiepoeng med faglig fordypning på minimum 90 studiepoeng. Fordypningsenheten deles inn i 60+30 studiepoeng hvor de 30 studiepoengene er emner som bygger på de emnene som utgjør de første 60 studiepoengene. Fordypningen må inneholde et selvstendig skriftlig eller kunstnerisk arbeid av minimum 10 studiepoengs omfang. Emner i fordypningsenheten kan ikke være eldre enn 15 år på søknadstidspunktet for tildeling av grad etter denne bestemmelsen. Fordypningen må kombineres med emner/emnegrupper i tilgrensende fagområder av minimum 30 studiepoengs omfang. Maksimalt 120 studiepoeng kan overlappe med obligatoriske emner fra et ordinært studieprogram. Examen philosophicum og examen facultatum kan inngå i graden.
+(1) Graden bachelor oppnås ved fullført utdanning på minimum 180 studiepoeng. Grunnlaget for graden skal omfatte ett av følgende:
+
+1. studieprogram på minimum 180 studiepoeng, som i henhold til nasjonale forskrifter eller vedtak av styret gir bachelorgrad, eller
+2. integrert utdanning eller annet studieprogram på minimum 120 studiepoeng kombinert med påbygging eller fordypning innenfor samme eller tilgrensende fagområde av minimum 60 studiepoeng, eller
+3. selvvalgt studium på minimum 180 studiepoeng med faglig fordypning på minimum 90 studiepoeng. Fordypningsenheten deles inn i 60+30 studiepoeng hvor de 30 studiepoengene er emner som bygger på de emnene som utgjør de første 60 studiepoengene. Fordypningen må inneholde et selvstendig skriftlig eller kunstnerisk arbeid av minimum 10 studiepoengs omfang. Emner i fordypningsenheten kan ikke være eldre enn 15 år på søknadstidspunktet for tildeling av grad etter denne bestemmelsen. Fordypningen må kombineres med emner/emnegrupper i tilgrensende fagområder av minimum 30 studiepoengs omfang. Maksimalt 120 studiepoeng kan overlappe med obligatoriske emner fra et ordinært studieprogram. Examen philosophicum og examen facultatum kan inngå i graden.
 
 (2) For bachelorgrad etter første ledd bokstav a, angis graden som «Bachelor i <tittel på studieprogram>» på vitnemål.
 
@@ -258,7 +292,13 @@ Yrkesutdanning oppnås ved fullført 4-årig grunnskolelærerutdanning for 1.–
 
 (1) Den som har akseptert tilbud om studieplass ved universitetet har studierett til vedkommende studieprogram eller emne.
 
-(2) For å beholde sin studierett må studenten hvert semester og innen fastsatte frister;betale semesteravgift,betale kopinoravgift,betale avgift til læremidler og materialkostnader tilknyttet undervisningen hvor dette følger av studieplan og emnebeskrivelser,betale egenbetaling/studieavgift hvor dette fremgår av studieplan/emnebeskrivelser, ogfullføre semesterregistrering.
+(2) For å beholde sin studierett må studenten hvert semester og innen fastsatte frister;
+
+1. betale semesteravgift,
+2. betale kopinoravgift,
+3. betale avgift til læremidler og materialkostnader tilknyttet undervisningen hvor dette følger av studieplan og emnebeskrivelser,
+4. betale egenbetaling/studieavgift hvor dette fremgår av studieplan/emnebeskrivelser, og
+5. fullføre semesterregistrering.
 
 (3) Studierett innebærer blant annet rett til deltakelse i all organisert undervisning, veiledning, øvelser, oppgaveløsning, feltarbeid, laboratoriekurs, praksisstudier med videre, i tillegg til eksamener og annen vurdering som følger av studieplanen. Se likevel bestemmelser om frister og andre vilkår for å melde seg til vurdering og gå opp til eksamen i forskriftens [kapittel 7](forskrift/2024-06-19-1643/kap7).
 
@@ -278,11 +318,20 @@ Yrkesutdanning oppnås ved fullført 4-årig grunnskolelærerutdanning for 1.–
 
 ### § 6-3. Opphør av studierett
 
-Studieretten opphører når studieprogrammet er fullført. Tilsvarende gjelder nårstudenten selv sier fra seg studieplassen, ellerstudenten har overskredet studierettsperioden uten å fullføre.
+Studieretten opphører når studieprogrammet er fullført. Tilsvarende gjelder når
+
+1. studenten selv sier fra seg studieplassen, eller
+2. studenten har overskredet studierettsperioden uten å fullføre.
 
 ### § 6-4. Tap av studierett
 
-Studenten kan miste sin studierett dersomstudenten ikke overholder sine plikter etter [§ 6-1](forskrift/2024-06-19-1643/§6-1),studenten har benyttet maksimalt antall forsøk til vurdering i emne som etter studieplanen er obligatorisk (for praksis og masteroppgaver gjelder henholdsvis [§ 7-5 åttende ledd](forskrift/2024-06-19-1643/§7-5/ledd/8) og [§ 7-8 andre ledd](forskrift/2024-06-19-1643/§7-8/ledd/2)),studenten ikke har avlagt studiepoeng tilknyttet studieprogrammet de siste to semestrene,studenten ikke oppfyller de krav til progresjon i studiene som følger av den enkelte studieplan eller nasjonale forskrifter, ellerstudenten etter forespørsel ikke legger frem originaldokumentasjon brukt i opptaket eller som grunnlag for godkjenning av ekstern utdanning.
+Studenten kan miste sin studierett dersom
+
+1. studenten ikke overholder sine plikter etter [§ 6-1](forskrift/2024-06-19-1643/§6-1),
+2. studenten har benyttet maksimalt antall forsøk til vurdering i emne som etter studieplanen er obligatorisk (for praksis og masteroppgaver gjelder henholdsvis [§ 7-5 åttende ledd](forskrift/2024-06-19-1643/§7-5/ledd/8) og [§ 7-8 andre ledd](forskrift/2024-06-19-1643/§7-8/ledd/2)),
+3. studenten ikke har avlagt studiepoeng tilknyttet studieprogrammet de siste to semestrene,
+4. studenten ikke oppfyller de krav til progresjon i studiene som følger av den enkelte studieplan eller nasjonale forskrifter, eller
+5. studenten etter forespørsel ikke legger frem originaldokumentasjon brukt i opptaket eller som grunnlag for godkjenning av ekstern utdanning.
 
 ### § 6-5. Permisjoner
 
@@ -458,7 +507,17 @@ Det kreves at kandidaten disponerer egen bærbar datamaskin med administrasjonsr
 
 (4) Vedtak etter første til tredje ledd fattes av institusjonens nemnd for studentsaker.
 
-(5) Som fusk eller forsøk på fusk regnes blant annet:Å ha ulovlige hjelpemidler tilgjengelig under eksamen. Dersom det er eksamen med forutgående kontroll av hjelpemidler gjelder tilsvarende dersom ulovlige hjelpemidler avdekkes under kontrollen.Å presentere andres publiserte eller upubliserte arbeid som sitt eget.Å benytte eget arbeid som tidligere har gitt uttelling i form av studiepoeng eller som har gitt adgang til eksamen uten tilstrekkelig kildehenvisning.Å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger.Å generere besvarelse ved hjelp av kunstig intelligens, og levere den helt eller delvis som egen besvarelse, dersom ikke annet er opplyst for den enkelte eksamen.Å rettsstridig fabrikkere data eller kilder i forbindelse med studentarbeider.Ureglementert samarbeid mellom eksamenskandidater eller grupper.Å handle i strid med retningslinjer for eksamen.Å ha fusket ved gjennomføring av obligatoriske krav, intern prøving eller manipulasjon av oppmøteregistrering for obligatorisk deltakelse i undervisning.
+(5) Som fusk eller forsøk på fusk regnes blant annet:
+
+1. Å ha ulovlige hjelpemidler tilgjengelig under eksamen. Dersom det er eksamen med forutgående kontroll av hjelpemidler gjelder tilsvarende dersom ulovlige hjelpemidler avdekkes under kontrollen.
+2. Å presentere andres publiserte eller upubliserte arbeid som sitt eget.
+3. Å benytte eget arbeid som tidligere har gitt uttelling i form av studiepoeng eller som har gitt adgang til eksamen uten tilstrekkelig kildehenvisning.
+4. Å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger.
+5. Å generere besvarelse ved hjelp av kunstig intelligens, og levere den helt eller delvis som egen besvarelse, dersom ikke annet er opplyst for den enkelte eksamen.
+6. Å rettsstridig fabrikkere data eller kilder i forbindelse med studentarbeider.
+7. Ureglementert samarbeid mellom eksamenskandidater eller grupper.
+8. Å handle i strid med retningslinjer for eksamen.
+9. Å ha fusket ved gjennomføring av obligatoriske krav, intern prøving eller manipulasjon av oppmøteregistrering for obligatorisk deltakelse i undervisning.
 
 (6) Manglende kjennskap til regler om fusk, kildebruk, tillatte hjelpemidler, retningslinjer for eksamen og lignende fritar ikke studenten for ansvar.
 
@@ -482,7 +541,11 @@ Det kreves at kandidaten disponerer egen bærbar datamaskin med administrasjonsr
 
 ### § 10-1. Vurderingsuttrykk
 
-(1) Følgende vurderingsuttrykk benyttes ved universitetet:Godkjent / ikke godkjentBestått / ikke beståttEn gradert skala med fem trinn fra A til E for bestått, og F for ikke bestått. Det er fastsatt generelle, kvalitative beskrivelser for skalaen, se universitetets nettsider.
+(1) Følgende vurderingsuttrykk benyttes ved universitetet:
+
+1. Godkjent / ikke godkjent
+2. Bestått / ikke bestått
+3. En gradert skala med fem trinn fra A til E for bestått, og F for ikke bestått. Det er fastsatt generelle, kvalitative beskrivelser for skalaen, se universitetets nettsider.
 
 (2) I emner med sammensatt vurdering, må alle delene være vurdert til bestått eller godkjent før det gis endelig karakter i emnet.
 
@@ -490,9 +553,15 @@ Det kreves at kandidaten disponerer egen bærbar datamaskin med administrasjonsr
 
 ### § 10-2. Sensorordninger
 
-(1) Det skal benyttes to sensorer, hvorav minst én ekstern sensor, i følgende tilfellerVed bedømmelse av alle kandidaters selvstendige arbeid på masternivå (masteroppgave).Ved ny sensur (klagesensur) i henhold til [lov om universiteter og høyskoler § 11-10](lov/2024-03-08-9/§11-10).
+(1) Det skal benyttes to sensorer, hvorav minst én ekstern sensor, i følgende tilfeller
 
-(2) Det skal benyttes to sensorer i følgende tilfeller:Ved bedømmelse av alle kandidaters selvstendige arbeid på lavere grads nivå (bacheloroppgave eller kandidatoppgave) og eksamener som alene utgjør 15 studiepoeng eller mer.Ved bedømmelse av muntlig eksamen og vurdering av praktiske eksamener og lignende som etter sin art ikke lar seg etterprøve og derfor ikke kan påklages.
+1. Ved bedømmelse av alle kandidaters selvstendige arbeid på masternivå (masteroppgave).
+2. Ved ny sensur (klagesensur) i henhold til [lov om universiteter og høyskoler § 11-10](lov/2024-03-08-9/§11-10).
+
+(2) Det skal benyttes to sensorer i følgende tilfeller:
+
+1. Ved bedømmelse av alle kandidaters selvstendige arbeid på lavere grads nivå (bacheloroppgave eller kandidatoppgave) og eksamener som alene utgjør 15 studiepoeng eller mer.
+2. Ved bedømmelse av muntlig eksamen og vurdering av praktiske eksamener og lignende som etter sin art ikke lar seg etterprøve og derfor ikke kan påklages.
 
 (3) Ekstern sensor kan ikke ha vært ansatt ved Nord universitet i siste foregående semester.
 
@@ -508,7 +577,10 @@ Det kreves at kandidaten disponerer egen bærbar datamaskin med administrasjonsr
 
 (5) Sensuren skal kunngjøres senest 15 virkedager etter eksamen dersom ikke styret i midlertidig forskrift har vedtatt annen sensurfrist i medhold av [lov om universiteter og høyskoler § 11-7](lov/2024-03-08-9/§11-7).
 
-(6) Følgende sensurfrister gjelder for masteroppgaver og lignende avhandlinger:For bacheloroppgaver og kandidatoppgaver av minst 20 studiepoengs omfang skal sensur kunngjøres innen 20 virkedager fra innleveringsfristen.For masteroppgaver skal sensur kunngjøres innen 30 virkedager fra innleveringsfristen.
+(6) Følgende sensurfrister gjelder for masteroppgaver og lignende avhandlinger:
+
+1. For bacheloroppgaver og kandidatoppgaver av minst 20 studiepoengs omfang skal sensur kunngjøres innen 20 virkedager fra innleveringsfristen.
+2. For masteroppgaver skal sensur kunngjøres innen 30 virkedager fra innleveringsfristen.
 
 (7) For muntlige eller praktiske eksamener skal sensur kunngjøres senest 24 timer etter siste eksamensdag i eksamensavviklingen.
 
@@ -564,7 +636,10 @@ Formelle feil ved eksamen eller sensur kan påklages i henhold til [lov om unive
 
 (4) En kandidat som forbedrer sitt resultat i et emne som inngår i grunnlaget for et vitnemål, må dokumentere dette med separat karakterutskrift.
 
-(5) I følgende tilfeller kan vitnemål utstedes på papir:dersom studenten mangler norsk fødselsnummer eller D-nummerdersom studenten har fått digitalt vitnemål, men har behov for å vise fram et vitnemål på papir til utdanningsinstitusjoner eller arbeidsgivere i utlandet.
+(5) I følgende tilfeller kan vitnemål utstedes på papir:
+
+1. dersom studenten mangler norsk fødselsnummer eller D-nummer
+2. dersom studenten har fått digitalt vitnemål, men har behov for å vise fram et vitnemål på papir til utdanningsinstitusjoner eller arbeidsgivere i utlandet.
 
 (6) Ved tap av vitnemål utstedt på papir, kan studenten i særskilte tilfeller (for eksempel etter brann) om mulig få utstedt duplikat etter søknad. Søknaden må være dokumentert. Studenten vil bli avkrevd avgift for utstedelse av duplikat.
 

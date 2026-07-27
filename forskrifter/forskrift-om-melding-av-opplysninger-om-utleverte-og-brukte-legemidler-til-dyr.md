@@ -30,15 +30,35 @@ Forskriften skal sikre at utleverere og rekvirenter melder opplysninger om utlev
 
 ## § 2. Definisjoner
 
-I denne forskriften forstås med*utleverere:* apotek, legemiddelgrossister, fôrfirmaer og medisinfôrfirmaer*rekvirenter:* veterinærer og fiskehelsebiologer*bruksområder:* kategorier av sykdommer og andre indikasjoner som begrunner bruk av reseptpliktige legemidler, herunder medisinfôr, eller av fôr som er tilsatt koksidiostatika.
+I denne forskriften forstås med
+
+1. *utleverere:* apotek, legemiddelgrossister, fôrfirmaer og medisinfôrfirmaer
+2. *rekvirenter:* veterinærer og fiskehelsebiologer
+3. *bruksområder:* kategorier av sykdommer og andre indikasjoner som begrunner bruk av reseptpliktige legemidler, herunder medisinfôr, eller av fôr som er tilsatt koksidiostatika.
 
 ## § 3. Meldeplikt
 
-Utleverere skal melde fra til Mattilsynet om all utlevering avreseptpliktige legemidler til dyr, herunder medisinfôrfôr som er tilsatt koksidiostatika.
+Utleverere skal melde fra til Mattilsynet om all utlevering av
+
+1. reseptpliktige legemidler til dyr, herunder medisinfôr
+2. fôr som er tilsatt koksidiostatika.
 
 Rekvirenter skal melde fra til Mattilsynet om alle reseptpliktige legemidler som de får utlevert og deretter bruker til matproduserende dyr og hester. Rekvirentene skal spesifisere om det er de selv eller dyreholdere som tilfører dyrene legemidlene.
 
-Meldingen skal inneholde nødvendige og relevante opplysninger omutlevererenrekvirentendyreholdets identitet, unntatt for kjæledyr som holdes privatdyr som tilføres legemidlerbruksområdehvorvidt legemidler er utlevert til rekvirentlegemidler, herunder medisinfôrfôr som er tilsatt koksidiostatikatidspunkt for utleveringtidspunkt for reell eller forventet bruktilbakeholdelsestidervarigheten av startforbud for hest i henhold til norsk dopingreglement.
+Meldingen skal inneholde nødvendige og relevante opplysninger om
+
+1. utlevereren
+2. rekvirenten
+3. dyreholdets identitet, unntatt for kjæledyr som holdes privat
+4. dyr som tilføres legemidler
+5. bruksområde
+6. hvorvidt legemidler er utlevert til rekvirent
+7. legemidler, herunder medisinfôr
+8. fôr som er tilsatt koksidiostatika
+9. tidspunkt for utlevering
+10. tidspunkt for reell eller forventet bruk
+11. tilbakeholdelsestider
+12. varigheten av startforbud for hest i henhold til norsk dopingreglement.
 
 Det sentrale Mattilsynet spesifiserer i meldesystemet hva som er nødvendige og relevante opplysninger om forhold nevnt i tredje ledd, herunder bruk av kodeverk.
 

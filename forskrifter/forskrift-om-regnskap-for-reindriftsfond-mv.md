@@ -15,7 +15,7 @@ xml_hash: "1a68a602d57e9c83d50976ebb8e18c670c07a06a2996c72855e8f0934fb4204f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,7 +86,10 @@ Status skal inndeles i poster i samsvar med instruks fra Reindriftssjefen.
 
 ## § 12. Tilleggsopplysninger til resultatregnskapet og status
 
-Ved regnskapsavslutning skal det gis følgende tilleggsopplysninger:Fordringer og tilgodehavende, såvel som aksjer og andeler, skal spesifiseres i status (balanse) med navn og beløp.For hver post i status (balanse) som omfatter reindriftsanlegg, bygninger, maskiner o.l. skal det gis opplysninger om av- og nedskrivninger i regnskapsåret.
+Ved regnskapsavslutning skal det gis følgende tilleggsopplysninger:
+
+1. Fordringer og tilgodehavende, såvel som aksjer og andeler, skal spesifiseres i status (balanse) med navn og beløp.
+2. For hver post i status (balanse) som omfatter reindriftsanlegg, bygninger, maskiner o.l. skal det gis opplysninger om av- og nedskrivninger i regnskapsåret.
 
 ## § 13. Avskrivningsregler for anleggsmidler
 

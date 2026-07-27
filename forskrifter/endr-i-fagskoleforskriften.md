@@ -15,7 +15,7 @@ xml_hash: "c9cd638a6980a11e795175ced5f9349d7a331fe7e0aeacff43a38e628a44e67b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,9 @@ I [forskrift 11. juli 2019 nr. 1005 om høyere yrkesfaglig utdanning (fagskolefo
 
 [§ 46 første ledd bokstav a](forskrift/2019-07-11-1005/§46/ledd/1/bokstav/a) skal lyde:
 
-(1) NOKUT skal oppnevne sakkyndige for å gjennomføre vurdering ved:akkreditering av fagskoleutdanning, fagområde og institusjon, med mindre det er grunnlag for å avvise eller avslå søknaden etter [§ 46a](forskrift/2019-07-11-1005/§46a).
+(1) NOKUT skal oppnevne sakkyndige for å gjennomføre vurdering ved:
+
+1. akkreditering av fagskoleutdanning, fagområde og institusjon, med mindre det er grunnlag for å avvise eller avslå søknaden etter [§ 46a](forskrift/2019-07-11-1005/§46a).
 
 Ny [§ 46a](forskrift/2019-07-11-1005/§46a) skal lyde:
 

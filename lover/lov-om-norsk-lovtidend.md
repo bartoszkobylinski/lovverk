@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1.
 
-Norsk Lovtidend utgis for offentlig regning og skal inneholde:grunnlovsbestemmelser,lover og vedtak om lovers ikrafttredelse, oppheving og virksomhetsområde,provisoriske anordninger og vedtak om oppheving av slike anordninger,Stortingets skattevedtak,det som ved lov eller med hjemmel i lov er påbudt kunngjort i Norsk Lovtidend.
+Norsk Lovtidend utgis for offentlig regning og skal inneholde:
+
+1. grunnlovsbestemmelser,
+2. lover og vedtak om lovers ikrafttredelse, oppheving og virksomhetsområde,
+3. provisoriske anordninger og vedtak om oppheving av slike anordninger,
+4. Stortingets skattevedtak,
+5. det som ved lov eller med hjemmel i lov er påbudt kunngjort i Norsk Lovtidend.
 
 Forvaltningsavgjørelse som ikke er påbudt kunngjort, uttalelse, rundskriv m.m. samt overenskomster med fremmed stat kan kunngjøres i Norsk Lovtidend dersom det finnes hensiktsmessig. Kongen kan fastsette regler om kunngjøring etter denne bestemmelse.
 

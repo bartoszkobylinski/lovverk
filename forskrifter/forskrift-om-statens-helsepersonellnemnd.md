@@ -144,7 +144,11 @@ At både flertallets og mindretallets syn skal begrunnes er en utvidelse i forho
 
 Nemnda kan behandle saker som har utspring i hendelser skjedd før helsepersonelloven trådte i kraft. Departementet understreker at dette kun gjelder de vedtak som etter sin art og sitt innhold i det vesentlige er identiske med de vedtak der Statens helsepersonellnemnd er klageorgan etter [helsepersonelloven § 68](lov/1999-07-02-64/§68) andre ledd.
 
-I praksis vil dette medføre at nemnda kan behandle følgende saker;Vedtak som er fattet av Helsetilsynet/Autorisasjonskontoret etter lovens ikrafttredelse.Klage over vedtak som er fattet av Helsetilsynet før lovens ikrafttredelse, men hvor klagefristen utløper etter lovens ikrafttredelse.Klage over eller begjæring om omgjøring av Helsetilsynets vedtak som er innkommet til departementet, men ikke avgjort før lovens ikrafttredelse.
+I praksis vil dette medføre at nemnda kan behandle følgende saker;
+
+1. Vedtak som er fattet av Helsetilsynet/Autorisasjonskontoret etter lovens ikrafttredelse.
+2. Klage over vedtak som er fattet av Helsetilsynet før lovens ikrafttredelse, men hvor klagefristen utløper etter lovens ikrafttredelse.
+3. Klage over eller begjæring om omgjøring av Helsetilsynets vedtak som er innkommet til departementet, men ikke avgjort før lovens ikrafttredelse.
 
 Saker som har sitt utspring i hendelser skjedd før helsepersonelloven trådte i kraft skal avgjøres etter reglene i helsepersonelloven dersom disse er gunstigere for klageren enn tidligere regelverk.
 

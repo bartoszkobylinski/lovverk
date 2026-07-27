@@ -15,7 +15,7 @@ xml_hash: "9986902cac9466aaaf24a438e7109ee4167861154526f6683a352d059fd821b3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,11 @@ Strider bestemmelser i denne forskriften mot lov eller forskrifter gitt av lovgi
 
 ### § 2-1. Søknad
 
-Det kan søkes om opptak til eller plass ved studium ved Lofoten reiselivfagskole på følgende vis:Søknader til utlyste studier med oppstart i august som normalt sendes til Nasjonalt opptakskontor for fagskolen, som koordinerer opptaket. Dokumentasjonen sendes Lofoten reiselivfagskole som vurderer og godkjenner søkerens kompetanse. Etter ordinær søknadsfrist sendes søknaden direkte til skolen med fortløpende inntak for søkere som tilfredsstiller opptakskriteriene.Søknader til utlyst studium eller emne som starter i løpet av året sendes Lofoten reiselivfagskole sammen med dokumentasjonen innen gitt søknadsfrist. Søknadsfrist offentliggjøres i lokalpressen og på skolens hjemmeside. Skolen vurderer og godkjenner søkerens kompetanse med inntak. Etter søknadsfrist, dersom det er ledige studieplasser, foretar skolen med fortløpende inntak for søkere som tilfredsstiller opptakskriteriene.Søknader til studier med rullerende opptak sendes Lofoten reiselivfagskole med fortløpende inntak av søkere som tilfredsstiller opptakskriteriene.
+Det kan søkes om opptak til eller plass ved studium ved Lofoten reiselivfagskole på følgende vis:
+
+1. Søknader til utlyste studier med oppstart i august som normalt sendes til Nasjonalt opptakskontor for fagskolen, som koordinerer opptaket. Dokumentasjonen sendes Lofoten reiselivfagskole som vurderer og godkjenner søkerens kompetanse. Etter ordinær søknadsfrist sendes søknaden direkte til skolen med fortløpende inntak for søkere som tilfredsstiller opptakskriteriene.
+2. Søknader til utlyst studium eller emne som starter i løpet av året sendes Lofoten reiselivfagskole sammen med dokumentasjonen innen gitt søknadsfrist. Søknadsfrist offentliggjøres i lokalpressen og på skolens hjemmeside. Skolen vurderer og godkjenner søkerens kompetanse med inntak. Etter søknadsfrist, dersom det er ledige studieplasser, foretar skolen med fortløpende inntak for søkere som tilfredsstiller opptakskriteriene.
+3. Søknader til studier med rullerende opptak sendes Lofoten reiselivfagskole med fortløpende inntak av søkere som tilfredsstiller opptakskriteriene.
 
 ### § 2-2. Søknadsfrister
 
@@ -44,7 +48,14 @@ Ordinær søknadsfrist ved Lofoten reiselivfagskole er 15. april hvis ikke annet
 
 ### § 2-3. Opptakskrav
 
-Opptakskrav til Lofoten reiselivfagskole erFullført og bestått videregående opplæring med fagbrev/svennebrev/vitnemål fra relevant utdanning fra videregående skole. Informasjon om hvilke fagbrev og hvilket utdanningsprogram som gir rett til opptak til den enkelte fagskoleutdanning finnes på Lofoten reiselivfagskoles hjemmeside og i gjeldende studieplaner.Søkere som kan dokumentere at de skal gjennomføre fag-/svenneprøve etter opptaksfristen, kan tildeles plass på vilkår av bestått prøve. Fagprøven må være bestått innen 6 måneder etter oppstart av studiet.ellerMinst 5 års relevant praksis og med realkompetanse i felles allmenne fag tilsvarende læreplanene i Vg1 (grunnkurs) og Vg2 (videregående kurs 1) som utdanningene det søkes opptak på ved fagskolen bygger på, jamfør punkt a og den respektive studieplan. Ved opptak med grunnlag i realkompetansevurdering, må studentene fremlegge dokumentasjon på at de har realkompetanse som vurderes tilsvarende de ordinære opptakskravene. Søkere må ha fylt 23 år i søkeråret.
+Opptakskrav til Lofoten reiselivfagskole er
+
+1. Fullført og bestått videregående opplæring med fagbrev/svennebrev/vitnemål fra relevant utdanning fra videregående skole. Informasjon om hvilke fagbrev og hvilket utdanningsprogram som gir rett til opptak til den enkelte fagskoleutdanning finnes på Lofoten reiselivfagskoles hjemmeside og i gjeldende studieplaner.
+2. Søkere som kan dokumentere at de skal gjennomføre fag-/svenneprøve etter opptaksfristen, kan tildeles plass på vilkår av bestått prøve. Fagprøven må være bestått innen 6 måneder etter oppstart av studiet.
+
+eller
+
+1. Minst 5 års relevant praksis og med realkompetanse i felles allmenne fag tilsvarende læreplanene i Vg1 (grunnkurs) og Vg2 (videregående kurs 1) som utdanningene det søkes opptak på ved fagskolen bygger på, jamfør punkt a og den respektive studieplan. Ved opptak med grunnlag i realkompetansevurdering, må studentene fremlegge dokumentasjon på at de har realkompetanse som vurderes tilsvarende de ordinære opptakskravene. Søkere må ha fylt 23 år i søkeråret.
 
 ### § 2-4. Krav til politiattest
 
@@ -82,7 +93,11 @@ Opptakskrav til Lofoten reiselivfagskole erFullført og bestått videregående o
 
 (1) Studierektor ved Lofoten reiselivfagskole har ansvar for å gjennomføre realkompetansevurdering i tråd med NOKUT-forskriften § 5 og veileder fra Kompetanse Norge. Informasjon om hva som er relevant yrkesutdanning er nedfelt i studieplanene. Søkerens kompetanse blir vurdert opp mot læreplanmål i videregående opplæring innen relevante programområder. Opptak gjort på bakgrunn av realkompetanse gjelder kun for den utdanningen realkompetansen er knyttet til.
 
-(2) Søkere som søker studieplass på bakgrunn av realkompetanse kan væreSøkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravet.Søkere som ikke har fullført videregående opplæring.Søkere med utenlandsk utdanning.
+(2) Søkere som søker studieplass på bakgrunn av realkompetanse kan være
+
+1. Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravet.
+2. Søkere som ikke har fullført videregående opplæring.
+3. Søkere med utenlandsk utdanning.
 
 (3) Søkere må dokumentere kompetanse i felles allmenne fag som svarer til nivå 4 i Nasjonalt kvalifikasjonsrammeverk (NKR), ha fylt 23 år i søkeåret og må ha minst 5 års relevant arbeidserfaring for utdanningen det søkes opptak til.
 
@@ -92,7 +107,11 @@ Opptakskrav til Lofoten reiselivfagskole erFullført og bestått videregående o
 
 ### § 2-8. Ansvar for opptak
 
-(1) Studierektor ved Lofoten reiselivfagskole er ansvarlig for opptak og skal på vegne av styret ivareta ansvar for at opptakene til fagskoleutdanningene blir gjennomført korrekt, herunderbehandle realkompetansesøknadergodkjenne inntaket til alle studierpå vegne av styret ivareta ansvar for at opptakene til fagskolestudiene blir gjennomført korrekt.
+(1) Studierektor ved Lofoten reiselivfagskole er ansvarlig for opptak og skal på vegne av styret ivareta ansvar for at opptakene til fagskoleutdanningene blir gjennomført korrekt, herunder
+
+1. behandle realkompetansesøknader
+2. godkjenne inntaket til alle studier
+3. på vegne av styret ivareta ansvar for at opptakene til fagskolestudiene blir gjennomført korrekt.
 
 (2) Studierektor oppnevner medlemmer til opptakskomitéen. Studierektor fatter vedtak om opptak etter innstilling fra opptakskomitéen.
 
@@ -102,7 +121,10 @@ Opptakskrav til Lofoten reiselivfagskole erFullført og bestått videregående o
 
 (2) En student kan søke fritak for emner på grunnlag av annen dokumentert relevant utdanning og kompetanse. Dokumentasjon av realkompetanse kan også gi grunnlag for fritak. Fritaket skal bygge på en faglig vurdering av om søkerens helhetlige kompetanse samlet kan gi grunnlag for fritak for en del av fagskoleutdanningen. Slik kompetanse kan være opparbeidet gjennom arbeidsliv, frivillig sektor og annen utdanning. Den kan også være av annen formell, ikke-formell eller uformell art.
 
-(3) Søknad om innpassing eller fritak leveres skolen senest 60 dager etter at studiet har startet. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studentene ønsker å søke innpassing eller fritak for. Det krevesattestert kopi av vitnemål eller karakterutskriftstudieplan og emnebeskrivelse, med læringsutbyttebeskrivelser for emnet eller deler av emne det søkes innpassing eller fritak for.
+(3) Søknad om innpassing eller fritak leveres skolen senest 60 dager etter at studiet har startet. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studentene ønsker å søke innpassing eller fritak for. Det kreves
+
+1. attestert kopi av vitnemål eller karakterutskrift
+2. studieplan og emnebeskrivelse, med læringsutbyttebeskrivelser for emnet eller deler av emne det søkes innpassing eller fritak for.
 
 (4) Vedtak om innpassing og fritak av et emne fattes av studierektor. Vedtak om innpassing eller fritak er et enkeltvedtak etter [forvaltningsloven § 2](lov/1967-02-10/§2)b og kan påklages etter denne loven. Klage sendes fagskolen. Nærmere bestemmelser om klage på vedtak er gitt i [kap. 6](forskrift/2017-10-30-2479/kap6).
 
@@ -161,7 +183,12 @@ Opptakskrav til Lofoten reiselivfagskole erFullført og bestått videregående o
 
 (2) Studenter som er tatt opp til et studium og følger normalt skoleår blir automatisk meldt opp til eksamen. Frist for å melde seg av eksamen er tre uker før eksamensdato. Hvis en student vil melde seg opp til ny eksamen må studenten gjøre det innen 15. januar for eksamener i vårsemesteret og 15. september for eksamener i høstsemesteret, eller ved oppstart av hvert emne for samlingsbasert utdanning.
 
-(3) En student har rett til å fremstille seg tre ganger til eksamen i samme emne. En student er å regne som møtt til eksamen når han eller huntrekker seg etter frist for å melde seg avikke møter på eksamen uten dokumentert gyldig grunnikke leverer svarmøter på eksamen og trekker seg under eksamen.
+(3) En student har rett til å fremstille seg tre ganger til eksamen i samme emne. En student er å regne som møtt til eksamen når han eller hun
+
+1. trekker seg etter frist for å melde seg av
+2. ikke møter på eksamen uten dokumentert gyldig grunn
+3. ikke leverer svar
+4. møter på eksamen og trekker seg under eksamen.
 
 (4) Student som trekker seg etter angitt frist for å melde seg av eksamen, og som ikke har gyldig grunn, regnes for å ha framstilt seg til eksamen. Gyldig grunn er sykdom eller velferdsgrunner og skal være dokumentert. Slik dokumentasjon skal leveres/være poststemplet så raskt som mulig, senest tre uker etter at eksamen ble avholdt.
 
@@ -213,7 +240,15 @@ Denne bestemmelsen vil tre i kraft når Kunnskapsdepartementet har vedtatt forsk
 
 (1) Forsettlig eller grovt uaktsomt fusk eller forsøk på fusk ved eksamen eller gjennomføring av emner kan medføre annullering av aktuell eksamen. Kandidaten kan bli utestengt fra fagskolen og fratatt retten til å gå opp til eksamen ved institusjoner under lov om fagskoler i inntil ett år i henhold til lov om fagskoler § 9 og § 10.
 
-(2) Som fusk eller forsøk på fusk regnes blant annet:Å ha ulovlige hjelpemidler tilgjengelig under eksamen. Dersom det er eksamen med forutgående kontroll av hjelpemidler gjelder tilsvarende dersom ulovlige hjelpemidler avdekkes under kontrollen.Å presentere andres publiserte eller upubliserte arbeid som sitt eget.Å presentere eget tidligere arbeid, herunder arbeider benyttet i eksamen eller annen vurdering, uten tilstrekkelig kildehenvisning.Å rettsstridig fabrikkere data i forbindelse med studentarbeider.Ureglementert samarbeid mellom eksamenskandidater eller grupper.Å handle i strid med spesifikke retningslinjer for den enkelte eksamen.Å urettmessig ha skaffet seg adgang til vurdering ved for eksempel å ha fusket ved gjennomføring av skriftlige arbeidskrav, intern prøving eller manipulasjon av oppmøtelister for obligatorisk deltagelse i undervisning.
+(2) Som fusk eller forsøk på fusk regnes blant annet:
+
+1. Å ha ulovlige hjelpemidler tilgjengelig under eksamen. Dersom det er eksamen med forutgående kontroll av hjelpemidler gjelder tilsvarende dersom ulovlige hjelpemidler avdekkes under kontrollen.
+2. Å presentere andres publiserte eller upubliserte arbeid som sitt eget.
+3. Å presentere eget tidligere arbeid, herunder arbeider benyttet i eksamen eller annen vurdering, uten tilstrekkelig kildehenvisning.
+4. Å rettsstridig fabrikkere data i forbindelse med studentarbeider.
+5. Ureglementert samarbeid mellom eksamenskandidater eller grupper.
+6. Å handle i strid med spesifikke retningslinjer for den enkelte eksamen.
+7. Å urettmessig ha skaffet seg adgang til vurdering ved for eksempel å ha fusket ved gjennomføring av skriftlige arbeidskrav, intern prøving eller manipulasjon av oppmøtelister for obligatorisk deltagelse i undervisning.
 
 (3) Manglende kjennskap til regler for kildebruk, tillatte hjelpemidler, retningslinjer for eksamen og lignende fritar ikke studenten for ansvar.
 
@@ -237,7 +272,15 @@ Denne bestemmelsen vil tre i kraft når Kunnskapsdepartementet har vedtatt forsk
 
 (5) Skolen utsteder kun ett vitnemål pr. studium. En avgift kan påløpe ved bestilling av nytt vitnemål (duplikat).
 
-(6) Vitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentereNavn på utdanningenDet overordnede læringsutbyttetEmner som inngår i utdanningen og omfangOmtale av praksisNivå i Nasjonalt kvalifikasjonsrammeverk og kvalifikasjon som er oppnådd (nivå 5.1 eller 5.2)Karaktersystemet som benyttes (A–F eller «bestått»/«ikke bestått»)Oppnådd karakter i alle emner.
+(6) Vitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere
+
+1. Navn på utdanningen
+2. Det overordnede læringsutbyttet
+3. Emner som inngår i utdanningen og omfang
+4. Omtale av praksis
+5. Nivå i Nasjonalt kvalifikasjonsrammeverk og kvalifikasjon som er oppnådd (nivå 5.1 eller 5.2)
+6. Karaktersystemet som benyttes (A–F eller «bestått»/«ikke bestått»)
+7. Oppnådd karakter i alle emner.
 
 ### § 4-2. Karakterutskrift
 
@@ -267,9 +310,24 @@ Denne bestemmelsen vil tre i kraft når Kunnskapsdepartementet har vedtatt forsk
 
 (2) Ved klage på bortvisning, utestengning, annullering av eksamen eller tap av rett til å delta i praksis er det Nasjonale klagenemnd for fagskoleutdanning som er klageinstans. Ved andre forhold er det Lofoten reiselivfagskoles klagenemnd som skal behandle klagen med endelig virkning.
 
-(3) Klagenemnden består av fem medlemmer etter følgende kvalifikasjonerleder og vara for leder fyller de lovfestede kravene til lagdommere og er ikke ansatt ved fagskolenet medlem med varamedlem fra yrkesfeltetet medlem med varamedlem fra annen fagskoleto studenter med varamedlemmer.Alle medlemmene har personlig vara.
+(3) Klagenemnden består av fem medlemmer etter følgende kvalifikasjoner
 
-(4) Mandatet til klagenemnda er innrettet i forhold til forvaltningsloven og klage på følgende forhold blir behandlet av den lokale klagenemnda:formelle feil ved eksamen (f.eks. feil ved oppgaveteksten, eksamensavvikling eller ved gjennomføring av sensur)eksamen under særskilte vilkåropptakfritak eller innpassering av emnetap av retter.Klagenemda kan prøve alle sider av saken.
+1. leder og vara for leder fyller de lovfestede kravene til lagdommere og er ikke ansatt ved fagskolen
+2. et medlem med varamedlem fra yrkesfeltet
+3. et medlem med varamedlem fra annen fagskole
+4. to studenter med varamedlemmer.
+
+Alle medlemmene har personlig vara.
+
+(4) Mandatet til klagenemnda er innrettet i forhold til forvaltningsloven og klage på følgende forhold blir behandlet av den lokale klagenemnda:
+
+1. formelle feil ved eksamen (f.eks. feil ved oppgaveteksten, eksamensavvikling eller ved gjennomføring av sensur)
+2. eksamen under særskilte vilkår
+3. opptak
+4. fritak eller innpassering av emne
+5. tap av retter.
+
+Klagenemda kan prøve alle sider av saken.
 
 ### § 6-2. Framgangsmåte og frister
 
@@ -279,7 +337,14 @@ Denne bestemmelsen vil tre i kraft når Kunnskapsdepartementet har vedtatt forsk
 
 (3) Klage over formelle feil ved eksamen må sendes innen tre uker etter at studenten er eller burde ha gjort seg kjent med det forhold som gir grunnlag for klagen.
 
-(4) En skriftlig klage må inneholdeklagers navn og adressevedtak det klages overhva klagen gjelderdato og underskrift/er.Klagen bør inneholde begrunnelse. Ved klage på emnekarakter oppfordres studenten til å begrunne klagen opp mot læringsutbytte.
+(4) En skriftlig klage må inneholde
+
+1. klagers navn og adresse
+2. vedtak det klages over
+3. hva klagen gjelder
+4. dato og underskrift/er.
+
+Klagen bør inneholde begrunnelse. Ved klage på emnekarakter oppfordres studenten til å begrunne klagen opp mot læringsutbytte.
 
 ### § 6-3. Klage på vurdering/emnekarakter
 

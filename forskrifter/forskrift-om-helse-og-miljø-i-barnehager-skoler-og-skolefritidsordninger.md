@@ -30,7 +30,14 @@ Formålet med forskriften er å bidra til at miljøet i barnehager, på skoler, 
 
 ### § 2. Virkeområde
 
-Forskriften gjelder for planlegging, tilrettelegging og drift avbarnehagergrunnskolervideregående skolerskolefritidsordningerleksehjelpordninger i tilknytning til skolevirksomhetandre virksomheter, herunder barnepassvirksomheter og barneparker, som mot godtgjøring gir tilsyn med og omsorg for barn under skolepliktig alder, når virksomheten er regelmessig og tilbyr en ukentlig oppholdstid på mer enn ti timer og der tre eller flere barn er til stede samtidig.
+Forskriften gjelder for planlegging, tilrettelegging og drift av
+
+1. barnehager
+2. grunnskoler
+3. videregående skoler
+4. skolefritidsordninger
+5. leksehjelpordninger i tilknytning til skolevirksomhet
+6. andre virksomheter, herunder barnepassvirksomheter og barneparker, som mot godtgjøring gir tilsyn med og omsorg for barn under skolepliktig alder, når virksomheten er regelmessig og tilbyr en ukentlig oppholdstid på mer enn ti timer og der tre eller flere barn er til stede samtidig.
 
 ### § 3. Ansvar for virksomhetens plikter etter forskriften
 
@@ -126,7 +133,13 @@ Virksomheten skal ha internkontroll for å sikre at kravene i forskriften etterl
 
 Internkontrollen skal være systematisk og tilpasset virksomhetens størrelse, egenart, aktiviteter og risikoforhold.
 
-Ved internkontroll etter denne paragrafen skal virksomhetenutarbeide en beskrivelse av virksomhetens hovedoppgaver, mål og organisering,ha nødvendige rutiner og prosedyrer,avdekke og følge opp avvik og risiko for avvik,dokumentere internkontrollen i den form og det omfang som er nødvendig, ogevaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
+Ved internkontroll etter denne paragrafen skal virksomheten
+
+1. utarbeide en beskrivelse av virksomhetens hovedoppgaver, mål og organisering,
+2. ha nødvendige rutiner og prosedyrer,
+3. avdekke og følge opp avvik og risiko for avvik,
+4. dokumentere internkontrollen i den form og det omfang som er nødvendig, og
+5. evaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
 
 ### § 19. Kommunalt tilsyn
 

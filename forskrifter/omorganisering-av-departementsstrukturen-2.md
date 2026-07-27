@@ -26,11 +26,30 @@ eu_basis: []
 
 Arbeids- og administrasjonsdepartementet overtar alle arbeidsoppgavene til det nåværende Planleggings- og samordningsdepartementet med unntak av arbeidsoppgavene i tilknytning til nasjonale planleggings- og samordningsspørsmål som ble tilført PSD ved opprettelsen 1. januar 1998. Samordningsansvaret for Regjeringens IT-politikk overføres fra det nåværende Planleggings- og samordningsdepartementet til Nærings- og handelsdepartementet (se punkt 3).
 
-Viktige ansvarsområder som det nye Arbeids- og administrasjonsdepartementet overtar fra Planleggings- og samordningsdepartementet er:Generelle forvaltningspolitiske spørsmål, herunder tiltak for å sikre effektiv og formålstjenlig drift av statlige virksomheter.Utvikling av intern statlig tjenesteyting og fellestjenester.Statlig informasjonspolitikk, statlig innkjøpsstrategi og statlig bygge- og eiendomsforvaltning.Statlig arbeidsgiverpolitikk og generelle lønnsrevisjoner.Inntektspolitikk og levekårsspørsmål.Konkurranse- og prispolitikken.Etatsstyringsansvaret for fylkesmannsembetene, Statens forvaltningstjeneste, Statens informasjonstjeneste, Statens pensjonskasse, Konkurransetilsynet, Statskonsult, Statsbygg og Slottsforvaltningen.
+Viktige ansvarsområder som det nye Arbeids- og administrasjonsdepartementet overtar fra Planleggings- og samordningsdepartementet er:
 
-I tillegg til dette vil det nye departementet få overført Arbeidsavdelingen fra Kommunal- og arbeidsdepartementet. Avdelingen overføres i sin helhet inkludert forvaltningsansvar for en underliggende etat. Arbeidsavdelingen har følgende ansvarsområde:Arbeidsmarkedspolitikk, herunder informasjon, yrkesveiledning, arbeidsformidling, arbeidsutleie og arbeidskraftsberedskap.Utforming og forvaltning av ordinære arbeidsmarkedstiltak og spesielle arbeidsmarkedstiltak for yrkeshemmede. Dagpengeordningen. Ytelser under yrkesrettet attføring.Etatsstyringsansvar for arbeidsmarkedsetaten (Arbeidsdirektoratet, fylkesarbeidskontorer, arbeidskontorer og diverse spesialenheter).
+- Generelle forvaltningspolitiske spørsmål, herunder tiltak for å sikre effektiv og formålstjenlig drift av statlige virksomheter.
+- Utvikling av intern statlig tjenesteyting og fellestjenester.
+- Statlig informasjonspolitikk, statlig innkjøpsstrategi og statlig bygge- og eiendomsforvaltning.
+- Statlig arbeidsgiverpolitikk og generelle lønnsrevisjoner.
+- Inntektspolitikk og levekårsspørsmål.
+- Konkurranse- og prispolitikken.
+- Etatsstyringsansvaret for fylkesmannsembetene, Statens forvaltningstjeneste, Statens informasjonstjeneste, Statens pensjonskasse, Konkurransetilsynet, Statskonsult, Statsbygg og Slottsforvaltningen.
 
-Arbeids- og administrasjonsdepartementet organiseres ved opprettelsen i 6 avdelinger:AdministrasjonsavdelingenArbeidsavdelingenArbeidsgiveravdelingenInntektsavdelingenForvaltningspolitisk avdelingKonkurransepolitisk avdeling
+I tillegg til dette vil det nye departementet få overført Arbeidsavdelingen fra Kommunal- og arbeidsdepartementet. Avdelingen overføres i sin helhet inkludert forvaltningsansvar for en underliggende etat. Arbeidsavdelingen har følgende ansvarsområde:
+
+- Arbeidsmarkedspolitikk, herunder informasjon, yrkesveiledning, arbeidsformidling, arbeidsutleie og arbeidskraftsberedskap.
+- Utforming og forvaltning av ordinære arbeidsmarkedstiltak og spesielle arbeidsmarkedstiltak for yrkeshemmede. Dagpengeordningen. Ytelser under yrkesrettet attføring.
+- Etatsstyringsansvar for arbeidsmarkedsetaten (Arbeidsdirektoratet, fylkesarbeidskontorer, arbeidskontorer og diverse spesialenheter).
+
+Arbeids- og administrasjonsdepartementet organiseres ved opprettelsen i 6 avdelinger:
+
+- Administrasjonsavdelingen
+- Arbeidsavdelingen
+- Arbeidsgiveravdelingen
+- Inntektsavdelingen
+- Forvaltningspolitisk avdeling
+- Konkurransepolitisk avdeling
 
 Den interne organiseringen av departementet er under vurdering. Det kan bli foretatt endringer i avdelingsstrukturen med virkning fra årsskiftet/primo januar 1998.
 
@@ -38,9 +57,24 @@ Den interne organiseringen av departementet er under vurdering. Det kan bli fore
 
 Ansvarsområdet arbeidsmarkedspolitikk overføres fra det nåværende Kommunal- og arbeidsdepartementet til det nye Arbeids- og administrasjonsdepartementet (AAD) (se punkt 1). Det nye Kommunal- og regionaldepartementet (KRD) overtar de resterende oppgavene til Kommunal- og arbeidsdepartementet.
 
-Viktige ansvarsområder for det nye Kommunal- og regionaldepartementet er:Kommuneøkonomi, samordning av statlige tiltak overfor kommunesektoren, lovarbeid og fortolkning, kommuneinndeling, samt administrasjon av valg.Innvandringspolitikk, herunder mottak av flyktninger og asylsøkere og samordning av statlige tiltak innen innvandringsområdet.Samordning av statens samepolitiske arbeid, herunder tilpasning av samepolitikken til internasjonale rettsregler og samiske spørsmål på historisk nivå.Forvaltning av regional og distriktspolitiske virkemiddel og samordning av statlige virkemiddel rettet mot distriktene.Forvaltning og samordning av boligpolitikk og økonomi, samt bolig- og bygningslovgivning.Forvaltning og regelverksarbeid innen områdene arbeidsmiljø og sikkerhet, brann- og eksplosjonsvern, samt arbeidsrettslige spørsmål.
+Viktige ansvarsområder for det nye Kommunal- og regionaldepartementet er:
 
-Kommunal- og regionaldepartementet organiseres ved opprettelsen i 7 avdelinger:Arbeidsmiljø- og sikkerhetsavdelingenAvdelingen for samiske spørsmålBolig- og bygningsavdelingenInnvandringsavdelingenKommunalavdelingenPlan- og administrasjonsavdelingenRegionalpolitisk avdeling
+- Kommuneøkonomi, samordning av statlige tiltak overfor kommunesektoren, lovarbeid og fortolkning, kommuneinndeling, samt administrasjon av valg.
+- Innvandringspolitikk, herunder mottak av flyktninger og asylsøkere og samordning av statlige tiltak innen innvandringsområdet.
+- Samordning av statens samepolitiske arbeid, herunder tilpasning av samepolitikken til internasjonale rettsregler og samiske spørsmål på historisk nivå.
+- Forvaltning av regional og distriktspolitiske virkemiddel og samordning av statlige virkemiddel rettet mot distriktene.
+- Forvaltning og samordning av boligpolitikk og økonomi, samt bolig- og bygningslovgivning.
+- Forvaltning og regelverksarbeid innen områdene arbeidsmiljø og sikkerhet, brann- og eksplosjonsvern, samt arbeidsrettslige spørsmål.
+
+Kommunal- og regionaldepartementet organiseres ved opprettelsen i 7 avdelinger:
+
+- Arbeidsmiljø- og sikkerhetsavdelingen
+- Avdelingen for samiske spørsmål
+- Bolig- og bygningsavdelingen
+- Innvandringsavdelingen
+- Kommunalavdelingen
+- Plan- og administrasjonsavdelingen
+- Regionalpolitisk avdeling
 
 ## 3. Overføring av samordningsansvaret for Regjeringens IT-politikk
 
@@ -48,13 +82,25 @@ Nærings- og handelsdepartementet (NHD) overtar ansvaret og oppgavene knyttet ti
 
 ### 3.1. Nærmere definering av samordningsansvaret
 
-Fagdepartementenes linjeansvar i IT-politikken ligger fast. Følgelig er det kun samordningsansvaret som overføres fra Planleggings- og samordningsdepartementet (PSD) til Nærings- og handelsdepartementet. Nærings- og handelsdepartementets samordningsansvar defineres i følgende punkter:Være pådriver overfor fagdepartementet på viktige områder, og tilføre merverdi til aktiviteter i regi av fagdepartementene.Identifisere og følge opp sektorovergripende spørsmål knyttet til informasjonssamfunnet, bl.a. samfunnsmessige og sosiale konsekvenser, samt initiere og koordinere tiltak av tverrgående karakter.Utarbeide oversikter og strategier for utvikling av den samlede IT-politikken.Koordinere arbeidet med IT-sikkerhet.
+Fagdepartementenes linjeansvar i IT-politikken ligger fast. Følgelig er det kun samordningsansvaret som overføres fra Planleggings- og samordningsdepartementet (PSD) til Nærings- og handelsdepartementet. Nærings- og handelsdepartementets samordningsansvar defineres i følgende punkter:
+
+- Være pådriver overfor fagdepartementet på viktige områder, og tilføre merverdi til aktiviteter i regi av fagdepartementene.
+- Identifisere og følge opp sektorovergripende spørsmål knyttet til informasjonssamfunnet, bl.a. samfunnsmessige og sosiale konsekvenser, samt initiere og koordinere tiltak av tverrgående karakter.
+- Utarbeide oversikter og strategier for utvikling av den samlede IT-politikken.
+- Koordinere arbeidet med IT-sikkerhet.
 
 ### 3.2. Overføring av oppgaver
 
 Nærings- og handelsdepartementet overtar alle oppgaver knyttet til det overordnede og koordinerende ansvar for Regjeringens IT-politikk og spørsmål knyttet til IT i samfunnet. Oppgaver knyttet til samordningsansvaret for IT i forvaltningen herunder arbeid med IT-sikkerhet i forvaltningen blir liggende i Arbeids- og administrasjonsdepartementet (AAD).
 
-Oppgavene som overføres til Nærings- og handelsdepartementet omfatter bl.a.:Koordinering av satsingsområder og budsjettutvikling på IT-relevante kapitler.Sammenfatning og presentasjon av den samlede IT-politikken.Overordnede IT-politiske spørsmål.Spørsmål vedrørende samfunnsmessige konsekvenser av IT, inkl. forskning på IT i samfunnet.Rådet for IT-sikkerhet og utredning av IT-sertifisering og kryptopolitikk mv.Koordinering av deltakelse internasjonalt på det IT-politiske området, særlig i forhold til EU/EØS og OECD.
+Oppgavene som overføres til Nærings- og handelsdepartementet omfatter bl.a.:
+
+- Koordinering av satsingsområder og budsjettutvikling på IT-relevante kapitler.
+- Sammenfatning og presentasjon av den samlede IT-politikken.
+- Overordnede IT-politiske spørsmål.
+- Spørsmål vedrørende samfunnsmessige konsekvenser av IT, inkl. forskning på IT i samfunnet.
+- Rådet for IT-sikkerhet og utredning av IT-sertifisering og kryptopolitikk mv.
+- Koordinering av deltakelse internasjonalt på det IT-politiske området, særlig i forhold til EU/EØS og OECD.
 
 ## 4. Overføring av ansvaret for forvaltning av tilskudd til tros- og livssynssamfunn
 
@@ -106,4 +152,11 @@ De nye departementene delegeres dessuten i tråd med praksis fullmakt til å for
 
 ### Lover Kommunal- og regionaldepartementet skal ha forvaltningsansvaret for:
 
-Kommunal- og regionaldepartementet overtar forvaltningsansvaret for samtlige lover som det tidligere Kommunal- og arbeidsdepartementet hadde ansvaret for, med unntak av de som ansvaret blir overført til Arbeids- og administrasjonsdepartementet. De som blir overført til AAD er:[Lov 27. juni 1947 nr 9](lov/1947-06-27-9) om tiltak til å fremme sysselsetting[Lov 15. desember 1950 nr 7](lov/1950-12-15-7) om særlige rådgjerder under krig, krigsfare og liknende forhold (beredskapsloven) (§ 3)[Lov 14. desember 1956 nr 7](lov/1956-12-14-7) om forsynings og beredskapstiltak (§ 30)Lov 17. juni 1966 nr 12 om folketrygd kap. 4 om stønad under arbeidsløyse m.v.Lov 28. februar 1997 nr 19 om folketrygd (folketrygdloven) kap. [11](lov/1997-02-28-19/kap11) om ytelser under yrkesrettet attføring[Lov 4. februar 1977 nr 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v. [§ 3](lov/1977-02-04-4/§3) nr 2 bokstav g (§ 56 A, [§ 58](lov/1977-02-04-4/§58) nr 1 annet ledd, [§ 58 A](lov/1977-02-04-4/§58a) nr 1 første ledd bokstav c)
+Kommunal- og regionaldepartementet overtar forvaltningsansvaret for samtlige lover som det tidligere Kommunal- og arbeidsdepartementet hadde ansvaret for, med unntak av de som ansvaret blir overført til Arbeids- og administrasjonsdepartementet. De som blir overført til AAD er:
+
+- [Lov 27. juni 1947 nr 9](lov/1947-06-27-9) om tiltak til å fremme sysselsetting
+- [Lov 15. desember 1950 nr 7](lov/1950-12-15-7) om særlige rådgjerder under krig, krigsfare og liknende forhold (beredskapsloven) (§ 3)
+- [Lov 14. desember 1956 nr 7](lov/1956-12-14-7) om forsynings og beredskapstiltak (§ 30)
+- Lov 17. juni 1966 nr 12 om folketrygd kap. 4 om stønad under arbeidsløyse m.v.
+- Lov 28. februar 1997 nr 19 om folketrygd (folketrygdloven) kap. [11](lov/1997-02-28-19/kap11) om ytelser under yrkesrettet attføring
+- [Lov 4. februar 1977 nr 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v. [§ 3](lov/1977-02-04-4/§3) nr 2 bokstav g (§ 56 A, [§ 58](lov/1977-02-04-4/§58) nr 1 annet ledd, [§ 58 A](lov/1977-02-04-4/§58a) nr 1 første ledd bokstav c)

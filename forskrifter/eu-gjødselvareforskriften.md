@@ -19,7 +19,7 @@ xml_hash: "652478a098569ebac3ce3844dbfa928fabacfcbe830c7a30414150bafdbb71cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,9 @@ Ved konflikt mellom forordningens bestemmelser og denne bestemmelsen, går allti
 
 ## § 3. Forordning som utfyller forordning (EU) 2019/1009
 
-[EØS-avtalens vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel. XIV nr. 1 med følgende forordning gjelder som forskrift med de tilpasninger som følger av vedlegg II [kap. XIV](avtale/avt-1992-05-02-1-v2/kapXIV) nr. 1, protokoll 1 til avtalen og avtalen for øvrig:(forordning [(EU) 2022/973](eu/32022r0973)) om kriterier for agronomisk effektivitet og sikkerhet i forbindelse med avfallsprodukter i EU-gjødselvare.
+[EØS-avtalens vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel. XIV nr. 1 med følgende forordning gjelder som forskrift med de tilpasninger som følger av vedlegg II [kap. XIV](avtale/avt-1992-05-02-1-v2/kapXIV) nr. 1, protokoll 1 til avtalen og avtalen for øvrig:
+
+1. (forordning [(EU) 2022/973](eu/32022r0973)) om kriterier for agronomisk effektivitet og sikkerhet i forbindelse med avfallsprodukter i EU-gjødselvare.
 
 ## § 4. Nasjonale bestemmelser om språk i merking og dokumentasjon
 
@@ -52,7 +54,16 @@ Informasjonen til norske myndigheter og samsvarserklæringen skal være på nors
 
 Virksomheter som produserer eller importerer EU-gjødselvarer, skal registreres før EU-gjødselvarer omsettes eller importeres. Første registrering skal gjøres innen 1. mai 2024. Importøren eller den norske produsenten skal sørge for registreringen.
 
-Registreringen skal gjøres på den måten Mattilsynet bestemmer, og skal minst inneholde opplysninger omnavn, registrert firmanavn og postadresse til virksomhetenkontaktperson i virksomhetenvirksomhetskategorieventuelt registrert varemerkeopplysninger om Norge vil være første land for omsetning i EØS-områdetproduktfunksjonskategorier av gjødselvaren virksomheten produserer eller importererkomponentmaterialkategorier som inngår i gjødselvarer virksomheten produserer eller importererantatt omsetningsvolum.
+Registreringen skal gjøres på den måten Mattilsynet bestemmer, og skal minst inneholde opplysninger om
+
+1. navn, registrert firmanavn og postadresse til virksomheten
+2. kontaktperson i virksomheten
+3. virksomhetskategori
+4. eventuelt registrert varemerke
+5. opplysninger om Norge vil være første land for omsetning i EØS-området
+6. produktfunksjonskategorier av gjødselvaren virksomheten produserer eller importerer
+7. komponentmaterialkategorier som inngår i gjødselvarer virksomheten produserer eller importerer
+8. antatt omsetningsvolum.
 
 Mattilsynet kan kreve at registrerte opplysninger dokumenteres. Vesentlige endringer i virksomheten, herunder opphør av virksomheten, eller i registrerte opplysninger skal registreres senest en måned etter at endringer har funnet sted.
 
@@ -74,7 +85,11 @@ Mattilsynet utpeker teknisk kontrollorgan som skal gjøre samsvarsvurderinger et
 
 ## § 9. Tilsyn og vedtak – bestemmelser gitt med hjemmel i brann- og eksplosjonsvernloven og lov om tekniske kontrollorgan
 
-Direktoratet for samfunnssikkerhet og beredskap fører tilsyn og kan fatte vedtak i samsvar med [brann- og eksplosjonsvernloven § 33](lov/2002-06-14-20/§33) til [§ 40](lov/2002-06-14-20/§40) for å oppnå etterlevelse av bestemmelsene i forordning [(EU) 2019/1009](eu/32019r1009) om ammoniumnitratgjødsel med høyt nitrogeninnhold som skal sikre mot brann- og eksplosjonsfare, slik som:krav til produktfunksjonskategorien ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold, jf. forordning [(EU) 2019/1009](eu/32019r1009) artikkel 4 og vedlegg I del II Produktfunksjonskategori 1, C, I, bokstav a, punkt i (A) og punkt ii (A)krav til den komponenten av en blandet EU-gjødselvare som utgjøres av produktfunksjonskategorien nevnt i bokstav a når blandingsgjødselvaren har et innhold av minst 28 prosent nitrogen fra denne, jf. forordning [(EU) 2019/1009](eu/32019r1009) artikkel 4 og vedlegg I del II Produktfunksjonskategori 7krav om angivelse av produktfunksjonskategoriene nevnt i bokstav a og b i merkingen av gjødselvaren, og bestemmelser om merking som skal ivareta hensyn relatert til sikring mot brann- og eksplosjonsfare, jf. forordning [(EU) 2019/1009](eu/32019r1009) artikkel 4 og vedlegg III del I nr. 1 bokstav a, b, e, g og h og nr. 2.
+Direktoratet for samfunnssikkerhet og beredskap fører tilsyn og kan fatte vedtak i samsvar med [brann- og eksplosjonsvernloven § 33](lov/2002-06-14-20/§33) til [§ 40](lov/2002-06-14-20/§40) for å oppnå etterlevelse av bestemmelsene i forordning [(EU) 2019/1009](eu/32019r1009) om ammoniumnitratgjødsel med høyt nitrogeninnhold som skal sikre mot brann- og eksplosjonsfare, slik som:
+
+1. krav til produktfunksjonskategorien ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold, jf. forordning [(EU) 2019/1009](eu/32019r1009) artikkel 4 og vedlegg I del II Produktfunksjonskategori 1, C, I, bokstav a, punkt i (A) og punkt ii (A)
+2. krav til den komponenten av en blandet EU-gjødselvare som utgjøres av produktfunksjonskategorien nevnt i bokstav a når blandingsgjødselvaren har et innhold av minst 28 prosent nitrogen fra denne, jf. forordning [(EU) 2019/1009](eu/32019r1009) artikkel 4 og vedlegg I del II Produktfunksjonskategori 7
+3. krav om angivelse av produktfunksjonskategoriene nevnt i bokstav a og b i merkingen av gjødselvaren, og bestemmelser om merking som skal ivareta hensyn relatert til sikring mot brann- og eksplosjonsfare, jf. forordning [(EU) 2019/1009](eu/32019r1009) artikkel 4 og vedlegg III del I nr. 1 bokstav a, b, e, g og h og nr. 2.
 
 Dersom et teknisk kontrollorgan utpekt etter [§ 8](forskrift/2024-03-06-538/§8) første ledd ikke oppfyller sine forpliktelser, kan Direktoratet for samfunnssikkerhet og beredskap begrense, midlertidig oppheve eller trekke tilbake utpekingen.
 
@@ -313,13 +328,67 @@ ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Virkeområde
 
-1\. Denne forordningen får anvendelse på EU-gjødselvarer.Denne forordningen får ikke anvendelse påanimalske biprodukter eller avledede produkter som omfattes av kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) når de gjøres tilgjengelige på markedet,plantevernmidler som omfattes av forordning [(EF) nr. 1107/2009](eu/32009r1107).
+1\. Denne forordningen får anvendelse på EU-gjødselvarer.
 
-2\. Denne forordningen berører ikke anvendelsen av følgende rettsakter:Direktiv [86/278/EØF](eu/31986l0278)Direktiv [89/391/EØF](eu/31989l0391)Direktiv [91/676/EØF](eu/31991l0676)Direktiv [2000/60/EF](eu/32000l0060)Direktiv [2001/18/EF](eu/32001l0018)Forordning [(EF) nr. 852/2004](eu/32004r0852)Forordning [(EF) nr. 882/2004](eu/32004r0882)Forordning [(EF) nr. 1881/2006](eu/32006r1881)Forordning [(EF) nr. 1907/2006](eu/32006r1907)Forordning [(EF) nr. 834/2007](eu/32007r0834)Forordning [(EF) nr. 1272/2008](eu/32008r1272)Forordning [(EU) nr. 98/2013](eu/32013r0098)Forordning [(EU) nr. 1143/2014](eu/32014r1143)Forordning [(EU) 2016/2031](eu/32016r2031)Direktiv [(EU) 2016/2284](eu/32016l2284)Forordning [(EU) 2017/625](eu/32017r0625)►**EØS**EFTA-statenes nasjonale plantehelselovgivningEFTA-statenes nasjonale lovgivning om fremmede skadelige arter◄**EØS**
+Denne forordningen får ikke anvendelse på
+
+1. animalske biprodukter eller avledede produkter som omfattes av kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) når de gjøres tilgjengelige på markedet,
+2. plantevernmidler som omfattes av forordning [(EF) nr. 1107/2009](eu/32009r1107).
+
+2\. Denne forordningen berører ikke anvendelsen av følgende rettsakter:
+
+1. Direktiv [86/278/EØF](eu/31986l0278)
+2. Direktiv [89/391/EØF](eu/31989l0391)
+3. Direktiv [91/676/EØF](eu/31991l0676)
+4. Direktiv [2000/60/EF](eu/32000l0060)
+5. Direktiv [2001/18/EF](eu/32001l0018)
+6. Forordning [(EF) nr. 852/2004](eu/32004r0852)
+7. Forordning [(EF) nr. 882/2004](eu/32004r0882)
+8. Forordning [(EF) nr. 1881/2006](eu/32006r1881)
+9. Forordning [(EF) nr. 1907/2006](eu/32006r1907)
+10. Forordning [(EF) nr. 834/2007](eu/32007r0834)
+11. Forordning [(EF) nr. 1272/2008](eu/32008r1272)
+12. Forordning [(EU) nr. 98/2013](eu/32013r0098)
+13. Forordning [(EU) nr. 1143/2014](eu/32014r1143)
+14. Forordning [(EU) 2016/2031](eu/32016r2031)
+15. Direktiv [(EU) 2016/2284](eu/32016l2284)
+16. Forordning [(EU) 2017/625](eu/32017r0625)
+
+    ►**EØS**
+17. EFTA-statenes nasjonale plantehelselovgivning
+18. EFTA-statenes nasjonale lovgivning om fremmede skadelige arter
+
+    ◄**EØS**
 
 ### Artikkel 2. Definisjoner
 
-I denne forordningen menes med«gjødselvare» et stoff, en stoffblanding, en mikroorganisme eller ethvert annet materiale som brukes på eller er beregnet på å bli brukt på planter eller deres rhizosfære eller på sopp eller deres mykosfære, eller som er beregnet på å utgjøre rhizosfæren eller mykosfæren, enten alene eller blandet med annet materiale, med det formålet å tilføre plantene eller soppen næringsstoffer eller forbedre deres næringsstoffeffektivitet,«EU-gjødselvare» en gjødselvare som er CE-merket når den gjøres tilgjengelig på markedet,«stoff» et stoff som definert i artikkel 3 nr. 1 i [forordning (EF) nr. 1907/2006](eu/32006r1907),«stoffblanding» en stoffblanding som definert i artikkel 3 nr. 2 i [forordning (EF) nr. 1907/2006](eu/32006r1907),«mikroorganisme» en mikroorganisme som definert i artikkel 3 nr. 15 i forordning [(EF) nr. 1107/2009](eu/32009r1107),«flytende form» en suspensjon eller en løsning, der en suspensjon er en dispersjon i to faser der faste partikler holdes suspendert i den flytende fasen, og der en løsning er en væske som ikke inneholder faste partikler, eller en gel, herunder pastaer,«fast form» en form som kjennetegnes av strukturell stivhet og motstand mot endring av formen eller volumet, og der atomene er tett bundet til hverandre, enten i et regelmessig geometrisk gitter (krystallinske faste stoffer) eller på en uregelmessig måte (et amorft fast stoff),«masseprosent» en prosentdel av massen av hele EU-gjødselvaren i den formen den gjøres tilgjengelig på markedet,«gjøre tilgjengelig på markedet» enhver levering av en EU-gjødselvare med henblikk på distribusjon eller bruk på markedet i Unionen i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt,«bringe i omsetning» å gjøre en EU-gjødselvare tilgjengelig på markedet i Unionen for første gang,«produsent» enhver fysisk eller juridisk person som framstiller en EU-gjødselvare eller sørger for at en EU-gjødselvare blir utformet eller framstilt, og som markedsfører denne EU-gjødselvaren under eget navn eller varemerke,«representant» enhver fysisk eller juridisk person etablert i Unionen som har fått skriftlig fullmakt fra en produsent til å handle på dennes vegne i forbindelse med nærmere angitte oppgaver,«importør» enhver fysisk eller juridisk person etablert i Unionen som bringer en EU-gjødselvare fra et tredjeland i omsetning i Unionen,«distributør» enhver fysisk eller juridisk person i omsetningskjeden, bortsett fra produsenten eller importøren, som gjør en EU-gjødselvare tilgjengelig på markedet,«markedsdeltakere» produsenten, dennes representant, importøren og distributøren,«teknisk spesifikasjon» et dokument der det er fastsatt hvilke tekniske krav som en EU-gjødselvare, produksjonsprosessen eller metodene for prøvetaking og analysering av den skal oppfylle,«harmonisert standard» en harmonisert standard som definert i artikkel 2 nr. 1 bokstav c) i [forordning (EU) nr. 1025/2012](eu/32012r1025),«akkreditering» akkreditering som definert i artikkel 2 nr. 10 i forordning [(EF) nr. 765/2008](eu/32008r0765),«nasjonalt akkrediteringsorgan» et nasjonalt akkrediteringsorgan som definert i artikkel 2 nr. 11 i forordning [(EF) nr. 765/2008](eu/32008r0765),«samsvarsvurdering» en prosess der det vises om kravene i denne forordningen som gjelder en EU-gjødselvare, er oppfylt,«samsvarsvurderingsorgan» et organ som utfører samsvarsvurderingsaktiviteter, herunder testing, sertifisering og inspeksjon,«tilbakekalling» alle tiltak som har som mål å oppnå retur av en EU-gjødselvare som allerede er gjort tilgjengelig for sluttbrukeren,«tilbaketrekking» alle tiltak som har som mål å hindre at en EU-gjødselvare i omsetningskjeden blir gjort tilgjengelig på markedet,«Unionens harmoniseringsregelverk» alt av Unionens regelverk som harmoniserer vilkårene for markedsføring av produkter,«CE-merking» merking der produsenten angir at EU-gjødselvaren oppfyller gjeldende krav fastsatt i Unionens harmoniseringsregelverk for slik merking.
+I denne forordningen menes med
+
+1. «gjødselvare» et stoff, en stoffblanding, en mikroorganisme eller ethvert annet materiale som brukes på eller er beregnet på å bli brukt på planter eller deres rhizosfære eller på sopp eller deres mykosfære, eller som er beregnet på å utgjøre rhizosfæren eller mykosfæren, enten alene eller blandet med annet materiale, med det formålet å tilføre plantene eller soppen næringsstoffer eller forbedre deres næringsstoffeffektivitet,
+2. «EU-gjødselvare» en gjødselvare som er CE-merket når den gjøres tilgjengelig på markedet,
+3. «stoff» et stoff som definert i artikkel 3 nr. 1 i [forordning (EF) nr. 1907/2006](eu/32006r1907),
+4. «stoffblanding» en stoffblanding som definert i artikkel 3 nr. 2 i [forordning (EF) nr. 1907/2006](eu/32006r1907),
+5. «mikroorganisme» en mikroorganisme som definert i artikkel 3 nr. 15 i forordning [(EF) nr. 1107/2009](eu/32009r1107),
+6. «flytende form» en suspensjon eller en løsning, der en suspensjon er en dispersjon i to faser der faste partikler holdes suspendert i den flytende fasen, og der en løsning er en væske som ikke inneholder faste partikler, eller en gel, herunder pastaer,
+7. «fast form» en form som kjennetegnes av strukturell stivhet og motstand mot endring av formen eller volumet, og der atomene er tett bundet til hverandre, enten i et regelmessig geometrisk gitter (krystallinske faste stoffer) eller på en uregelmessig måte (et amorft fast stoff),
+8. «masseprosent» en prosentdel av massen av hele EU-gjødselvaren i den formen den gjøres tilgjengelig på markedet,
+9. «gjøre tilgjengelig på markedet» enhver levering av en EU-gjødselvare med henblikk på distribusjon eller bruk på markedet i Unionen i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt,
+10. «bringe i omsetning» å gjøre en EU-gjødselvare tilgjengelig på markedet i Unionen for første gang,
+11. «produsent» enhver fysisk eller juridisk person som framstiller en EU-gjødselvare eller sørger for at en EU-gjødselvare blir utformet eller framstilt, og som markedsfører denne EU-gjødselvaren under eget navn eller varemerke,
+12. «representant» enhver fysisk eller juridisk person etablert i Unionen som har fått skriftlig fullmakt fra en produsent til å handle på dennes vegne i forbindelse med nærmere angitte oppgaver,
+13. «importør» enhver fysisk eller juridisk person etablert i Unionen som bringer en EU-gjødselvare fra et tredjeland i omsetning i Unionen,
+14. «distributør» enhver fysisk eller juridisk person i omsetningskjeden, bortsett fra produsenten eller importøren, som gjør en EU-gjødselvare tilgjengelig på markedet,
+15. «markedsdeltakere» produsenten, dennes representant, importøren og distributøren,
+16. «teknisk spesifikasjon» et dokument der det er fastsatt hvilke tekniske krav som en EU-gjødselvare, produksjonsprosessen eller metodene for prøvetaking og analysering av den skal oppfylle,
+17. «harmonisert standard» en harmonisert standard som definert i artikkel 2 nr. 1 bokstav c) i [forordning (EU) nr. 1025/2012](eu/32012r1025),
+18. «akkreditering» akkreditering som definert i artikkel 2 nr. 10 i forordning [(EF) nr. 765/2008](eu/32008r0765),
+19. «nasjonalt akkrediteringsorgan» et nasjonalt akkrediteringsorgan som definert i artikkel 2 nr. 11 i forordning [(EF) nr. 765/2008](eu/32008r0765),
+20. «samsvarsvurdering» en prosess der det vises om kravene i denne forordningen som gjelder en EU-gjødselvare, er oppfylt,
+21. «samsvarsvurderingsorgan» et organ som utfører samsvarsvurderingsaktiviteter, herunder testing, sertifisering og inspeksjon,
+22. «tilbakekalling» alle tiltak som har som mål å oppnå retur av en EU-gjødselvare som allerede er gjort tilgjengelig for sluttbrukeren,
+23. «tilbaketrekking» alle tiltak som har som mål å hindre at en EU-gjødselvare i omsetningskjeden blir gjort tilgjengelig på markedet,
+24. «Unionens harmoniseringsregelverk» alt av Unionens regelverk som harmoniserer vilkårene for markedsføring av produkter,
+25. «CE-merking» merking der produsenten angir at EU-gjødselvaren oppfyller gjeldende krav fastsatt i Unionens harmoniseringsregelverk for slik merking.
 
 ### Artikkel 3. Fritt varebytte
 
@@ -331,7 +400,11 @@ I denne forordningen menes med«gjødselvare» et stoff, en stoffblanding, en mi
 
 ### Artikkel 4. Produktkrav
 
-1\. En EU-gjødselvare skaloppfylle kravene fastsatt i vedlegg I for den relevante produktfunksjonskategorien,oppfylle kravene fastsatt i vedlegg II for den eller de relevante komponentmaterialkategoriene,merkes i samsvar med merkingskravene fastsatt i vedlegg III.
+1\. En EU-gjødselvare skal
+
+1. oppfylle kravene fastsatt i vedlegg I for den relevante produktfunksjonskategorien,
+2. oppfylle kravene fastsatt i vedlegg II for den eller de relevante komponentmaterialkategoriene,
+3. merkes i samsvar med merkingskravene fastsatt i vedlegg III.
 
 2\. Når det gjelder aspekter som ikke omfattes av vedlegg I eller II, skal EU-gjødselvarer ikke utgjøre en risiko for menneskers, dyrs eller planters helse, for sikkerheten eller for miljøet.
 
@@ -348,11 +421,17 @@ EU-gjødselvarer skal bare gjøres tilgjengelige på markedet dersom de er i sam
 
 1\. Når produsenter bringer EU-gjødselvarer i omsetning, skal de sikre at de er utformet og produsert i samsvar med kravene fastsatt i vedlegg I og II.
 
-2\. Før produsentene bringer EU-gjødselvarer i omsetning, skal de utarbeide den tekniske dokumentasjonen og gjennomføre den relevante framgangsmåten for samsvarsvurdering nevnt i artikkel 15 eller sørge for at den gjennomføres.Når det ved framgangsmåten for samsvarsvurdering påvises at en EU-gjødselvare er i samsvar med gjeldende krav i denne forordningen, skal produsentene utarbeide en EU-samsvarserklæring og påføre CE-merkingen.
+2\. Før produsentene bringer EU-gjødselvarer i omsetning, skal de utarbeide den tekniske dokumentasjonen og gjennomføre den relevante framgangsmåten for samsvarsvurdering nevnt i artikkel 15 eller sørge for at den gjennomføres.
 
-3\. Produsentene skal oppbevare den tekniske dokumentasjonen og EU-samsvarserklæringen i fem år etter at EU-gjødselvaren som omfattes av disse dokumentene, er brakt i omsetning.På anmodning skal produsentene framlegge en kopi av EU-samsvarserklæringen for andre markedsdeltakere.
+Når det ved framgangsmåten for samsvarsvurdering påvises at en EU-gjødselvare er i samsvar med gjeldende krav i denne forordningen, skal produsentene utarbeide en EU-samsvarserklæring og påføre CE-merkingen.
 
-4\. Produsentene skal sikre at det foreligger prosedyrer for å sikre at EU-gjødselvarer som inngår i en serieproduksjon, fortsatt er i samsvar med denne forordningen. Det skal tas tilstrekkelig hensyn til endringer i produksjonsprosessen for eller egenskapene til disse EU-gjødselvarene og endringer i de harmoniserte standardene, de felles spesifikasjonene nevnt i artikkel 14 eller andre tekniske spesifikasjoner som det vises til for å dokumentere eller kontrollere en EU-gjødselvares samsvar med kravene.Når det anses som hensiktsmessig med hensyn til en EU-gjødselvares ytelse eller risikoene den utgjør, skal produsentene foreta stikkprøvekontroll av EU-gjødselvarer som er gjort tilgjengelige på markedet, undersøke og ved behov føre et register over klager, EU-gjødselvarer som ikke er i samsvar med kravene, og tilbakekallinger av slike EU-gjødselvarer og informere distributørene om all slik overvåking.
+3\. Produsentene skal oppbevare den tekniske dokumentasjonen og EU-samsvarserklæringen i fem år etter at EU-gjødselvaren som omfattes av disse dokumentene, er brakt i omsetning.
+
+På anmodning skal produsentene framlegge en kopi av EU-samsvarserklæringen for andre markedsdeltakere.
+
+4\. Produsentene skal sikre at det foreligger prosedyrer for å sikre at EU-gjødselvarer som inngår i en serieproduksjon, fortsatt er i samsvar med denne forordningen. Det skal tas tilstrekkelig hensyn til endringer i produksjonsprosessen for eller egenskapene til disse EU-gjødselvarene og endringer i de harmoniserte standardene, de felles spesifikasjonene nevnt i artikkel 14 eller andre tekniske spesifikasjoner som det vises til for å dokumentere eller kontrollere en EU-gjødselvares samsvar med kravene.
+
+Når det anses som hensiktsmessig med hensyn til en EU-gjødselvares ytelse eller risikoene den utgjør, skal produsentene foreta stikkprøvekontroll av EU-gjødselvarer som er gjort tilgjengelige på markedet, undersøke og ved behov føre et register over klager, EU-gjødselvarer som ikke er i samsvar med kravene, og tilbakekallinger av slike EU-gjødselvarer og informere distributørene om all slik overvåking.
 
 5\. Produsentene skal sikre at emballasjen til EU-gjødselvarer som de har brakt i omsetning, er påført et type- eller partinummer eller et annet element som gjør det mulig å identifisere dem, eller, dersom EU-gjødselvarene leveres uten emballasje, at den nødvendige informasjonen gis i et dokument som følger med hver gjødselvare.
 
@@ -366,15 +445,23 @@ EU-gjødselvarer skal bare gjøres tilgjengelige på markedet dersom de er i sam
 
 ### Artikkel 7. Representant
 
-1\. En produsent kan ved skriftlig fullmakt utpeke en representant.Forpliktelsene fastsatt i artikkel 6 nr. 1 og forpliktelsen til å utarbeide teknisk dokumentasjon nevnt i artikkel 6 nr. 2 skal ikke være en del av representantens fullmakt.
+1\. En produsent kan ved skriftlig fullmakt utpeke en representant.
 
-2\. En representant skal utføre oppgavene angitt i fullmakten fra produsenten. På grunnlag av fullmakten skal representanten minst kunne utføre følgende:Oppbevare EU-samsvarserklæringen og den tekniske dokumentasjonen og kunne stille dette til rådighet for nasjonale markedstilsynsmyndigheter i fem år etter at EU-gjødselvaren som omfattes av disse dokumentene, er brakt i omsetning.På begrunnet anmodning fra en vedkommende nasjonal myndighet gi denne all informasjon og all dokumentasjon som er nødvendig for å dokumentere at EU-gjødselvaren er i samsvar med kravene.På anmodning fra vedkommende nasjonale myndigheter samarbeide med dem om alle tiltak som treffes for å fjerne risikoene forbundet med EU-gjødselvarer som omfattes av representantens fullmakt.
+Forpliktelsene fastsatt i artikkel 6 nr. 1 og forpliktelsen til å utarbeide teknisk dokumentasjon nevnt i artikkel 6 nr. 2 skal ikke være en del av representantens fullmakt.
+
+2\. En representant skal utføre oppgavene angitt i fullmakten fra produsenten. På grunnlag av fullmakten skal representanten minst kunne utføre følgende:
+
+1. Oppbevare EU-samsvarserklæringen og den tekniske dokumentasjonen og kunne stille dette til rådighet for nasjonale markedstilsynsmyndigheter i fem år etter at EU-gjødselvaren som omfattes av disse dokumentene, er brakt i omsetning.
+2. På begrunnet anmodning fra en vedkommende nasjonal myndighet gi denne all informasjon og all dokumentasjon som er nødvendig for å dokumentere at EU-gjødselvaren er i samsvar med kravene.
+3. På anmodning fra vedkommende nasjonale myndigheter samarbeide med dem om alle tiltak som treffes for å fjerne risikoene forbundet med EU-gjødselvarer som omfattes av representantens fullmakt.
 
 ### Artikkel 8. Importørenes forpliktelser
 
 1\. Importører må bare bringe i omsetning EU-gjødselvarer som er i samsvar med denne forordningen.
 
-2\. Før importørene bringer en EU-gjødselvare i omsetning, skal de sikre at produsenten har gjennomført den relevante framgangsmåten for samsvarsvurdering nevnt i artikkel 15. De skal sikre at produsenten har utarbeidet den tekniske dokumentasjonen, at EU-gjødselvaren ledsages av de nødvendige dokumentene, og at produsenten har oppfylt kravene fastsatt i artikkel 6 nr. 5 og 6.Dersom en importør anser eller har grunn til å tro at en EU-gjødselvare ikke er i samsvar med denne forordningen, skal vedkommende ikke bringe EU-gjødselvaren i omsetning før den er brakt i samsvar med denne forordningen. Dersom EU-gjødselvaren utgjør en risiko for menneskers, dyr eller planters helse, for sikkerheten eller for miljøet, skal importøren dessuten underrette produsenten og markedstilsynsmyndighetene om dette.
+2\. Før importørene bringer en EU-gjødselvare i omsetning, skal de sikre at produsenten har gjennomført den relevante framgangsmåten for samsvarsvurdering nevnt i artikkel 15. De skal sikre at produsenten har utarbeidet den tekniske dokumentasjonen, at EU-gjødselvaren ledsages av de nødvendige dokumentene, og at produsenten har oppfylt kravene fastsatt i artikkel 6 nr. 5 og 6.
+
+Dersom en importør anser eller har grunn til å tro at en EU-gjødselvare ikke er i samsvar med denne forordningen, skal vedkommende ikke bringe EU-gjødselvaren i omsetning før den er brakt i samsvar med denne forordningen. Dersom EU-gjødselvaren utgjør en risiko for menneskers, dyr eller planters helse, for sikkerheten eller for miljøet, skal importøren dessuten underrette produsenten og markedstilsynsmyndighetene om dette.
 
 3\. Importørene skal angi sitt navn, registrerte firmanavn eller registrerte varemerke og postadressen der de kan kontaktes, på EU-gjødselvarens emballasje eller, dersom EU-gjødselvaren leveres uten emballasje, i et dokument som følger med EU-gjødselvaren. Kontaktopplysningene skal angis på et språk som sluttbrukerne og markedstilsynsmyndigheter lett kan forstå.
 
@@ -386,7 +473,9 @@ EU-gjødselvarer skal bare gjøres tilgjengelige på markedet dersom de er i sam
 
 7\. Importører som anser eller har grunn til å tro at en EU-gjødselvare som de har brakt i omsetning, ikke er i samsvar med denne forordningen, skal umiddelbart treffe nødvendige korrigerende tiltak for bringe den aktuelle EU-gjødselvaren i samsvar med denne forordningen eller trekke den tilbake eller tilbakekalle den, alt etter hva som er relevant. Dersom importører anser eller har grunn til å tro at en EU-gjødselvare som de har brakt i omsetning, utgjør en risiko for menneskers, dyrs eller planters helse, for sikkerheten eller for miljøet, skal de umiddelbart underrette vedkommende nasjonale myndigheter i medlemsstatene der de har gjort EU-gjødselvaren tilgjengelig på markedet, og gi nærmere opplysninger om særlig det manglende samsvaret og eventuelle korrigerende tiltak som er truffet.
 
-8\. Importørene skal i fem år etter at EU-gjødselvaren er brakt i omsetning, oppbevare en kopi av EU-samsvarserklæringen og stille den til rådighet for markedstilsynsmyndighetene og sørge for at den tekniske dokumentasjon på anmodning kan gjøres tilgjengelig for disse myndighetene.På anmodning skal importørene framlegge en kopi av EU-samsvarserklæringen for andre markedsdeltakere.
+8\. Importørene skal i fem år etter at EU-gjødselvaren er brakt i omsetning, oppbevare en kopi av EU-samsvarserklæringen og stille den til rådighet for markedstilsynsmyndighetene og sørge for at den tekniske dokumentasjon på anmodning kan gjøres tilgjengelig for disse myndighetene.
+
+På anmodning skal importørene framlegge en kopi av EU-samsvarserklæringen for andre markedsdeltakere.
 
 9\. Importørene skal på begrunnet anmodning fra en vedkommende nasjonal myndighet gi denne all informasjon og all dokumentasjon som er nødvendig for å dokumentere at EU-gjødselvaren er i samsvar med denne forordningen, på papir eller elektronisk og på et språk som vedkommende myndighet lett kan forstå. De skal på anmodning fra nevnte myndighet samarbeide med denne om alle tiltak som treffes for å fjerne risikoene forbundet med en EU-gjødselvare som de har brakt i omsetning.
 
@@ -394,7 +483,9 @@ EU-gjødselvarer skal bare gjøres tilgjengelige på markedet dersom de er i sam
 
 1\. Når distributører gjør en EU-gjødselvare tilgjengelig på markedet, skal de utvise behørig aktsomhet med hensyn til gjeldende krav i denne forordningen.
 
-2\. Før distributørene gjør en EU-gjødselvare tilgjengelig på markedet, skal de kontrollere at den ledsages av de nødvendige dokumentene, herunder informasjonen nevnt i artikkel 6 nr. 7 eller artikkel 8 nr. 4 framlagt på den måten som er angitt der, på et språk som lett kan forstås av sluttbrukere i medlemsstaten der EU-gjødselvaren skal gjøres tilgjengelig på markedet, og at produsenten og importøren har oppfylt kravene i henholdsvis artikkel 6 nr. 5 og 6 og artikkel 8 nr. 3.Dersom en distributør anser eller har grunn til å tro at en EU-gjødselvare ikke er i samsvar med denne forordningen, skal vedkommende ikke gjøre EU-gjødselvaren tilgjengelig på markedet før den er brakt i samsvar med denne forordningen. Dersom EU-gjødselvaren utgjør en risiko for menneskers, dyr eller planters helse, for sikkerheten eller for miljøet, skal distributøren dessuten underrette produsenten eller importøren samt markedstilsynsmyndighetene om dette.
+2\. Før distributørene gjør en EU-gjødselvare tilgjengelig på markedet, skal de kontrollere at den ledsages av de nødvendige dokumentene, herunder informasjonen nevnt i artikkel 6 nr. 7 eller artikkel 8 nr. 4 framlagt på den måten som er angitt der, på et språk som lett kan forstås av sluttbrukere i medlemsstaten der EU-gjødselvaren skal gjøres tilgjengelig på markedet, og at produsenten og importøren har oppfylt kravene i henholdsvis artikkel 6 nr. 5 og 6 og artikkel 8 nr. 3.
+
+Dersom en distributør anser eller har grunn til å tro at en EU-gjødselvare ikke er i samsvar med denne forordningen, skal vedkommende ikke gjøre EU-gjødselvaren tilgjengelig på markedet før den er brakt i samsvar med denne forordningen. Dersom EU-gjødselvaren utgjør en risiko for menneskers, dyr eller planters helse, for sikkerheten eller for miljøet, skal distributøren dessuten underrette produsenten eller importøren samt markedstilsynsmyndighetene om dette.
 
 3\. Distributørene skal så lenge de har ansvar for en EU-gjødselvare, sikre at oppbevarings- eller transportforholdene ikke bringer EU-gjødselvarens samsvar med kravene fastsatt i vedlegg I i fare.
 
@@ -408,11 +499,17 @@ En importør eller distributør skal anses som produsent i henhold til denne for
 
 ### Artikkel 11. Emballering og ompakking utført av importører og distributører
 
-Dersom en importør eller distributør pakker eller ompakker en EU-gjødselvare og ikke anses som en produsent i henhold til artikkel 10, skal denne importøren eller distributørensikre at emballasjen er påført vedkommendes navn, registrerte firmanavn eller registrerte varemerke samt postadresse med ordene «emballert av» eller «ompakket av» foran, ogoppbevare et eksemplar av den opprinnelige informasjonen nevnt i artikkel 6 nr. 7 eller artikkel 8 nr. 4 og stille dette til rådighet for markedstilsynsmyndighetene i fem år etter å ha gjort EU-gjødselvaren tilgjengelig på markedet.
+Dersom en importør eller distributør pakker eller ompakker en EU-gjødselvare og ikke anses som en produsent i henhold til artikkel 10, skal denne importøren eller distributøren
+
+1. sikre at emballasjen er påført vedkommendes navn, registrerte firmanavn eller registrerte varemerke samt postadresse med ordene «emballert av» eller «ompakket av» foran, og
+2. oppbevare et eksemplar av den opprinnelige informasjonen nevnt i artikkel 6 nr. 7 eller artikkel 8 nr. 4 og stille dette til rådighet for markedstilsynsmyndighetene i fem år etter å ha gjort EU-gjødselvaren tilgjengelig på markedet.
 
 ### Artikkel 12. Identifisering av markedsdeltakere
 
-1\. På anmodning skal markedsdeltakerne overfor markedstilsynsmyndighetene identifiserealle markedsdeltakere som de har fått levert en EU-gjødselvare fra,alle markedsdeltakere som de har levert en EU-gjødselvare til.
+1\. På anmodning skal markedsdeltakerne overfor markedstilsynsmyndighetene identifisere
+
+1. alle markedsdeltakere som de har fått levert en EU-gjødselvare fra,
+2. alle markedsdeltakere som de har levert en EU-gjødselvare til.
 
 2\. Markedsdeltakerne skal kunne framlegge informasjonen nevnt i første ledd i fem år etter at de har fått levert en EU-gjødselvare, og i fem år etter at de har levert en EU-gjødselvare.
 
@@ -427,7 +524,13 @@ Dersom en importør eller distributør pakker eller ompakker en EU-gjødselvare 
 
 ### Artikkel 14. Felles spesifikasjoner
 
-1\. Kommisjonen kan vedta gjennomføringsrettsakter der det fastsettes felles spesifikasjoner for kravene fastsatt i vedlegg I, II eller III eller testene nevnt i artikkel 13 nr. 2, dersomdisse kravene eller testene ikke omfattes av harmoniserte standarder eller deler av dem som det er offentliggjort henvisninger til i *Den europeisk unions tidende,*Kommisjonen oppdager utilbørlige forsinkelser i forbindelse med vedtakelsen av de aktuelle harmoniserte standardene, ellerKommisjonen i samsvar med framgangsmåten nevnt i artikkel 11 nr. 5 i [forordning (EU) nr. 1025/2012](eu/32012r1025) har besluttet å delvis opprettholde eller trekke tilbake henvisningene til de harmoniserte standardene eller deler av dem som disse kravene eller testene omfattes av.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 45 nr. 3.
+1\. Kommisjonen kan vedta gjennomføringsrettsakter der det fastsettes felles spesifikasjoner for kravene fastsatt i vedlegg I, II eller III eller testene nevnt i artikkel 13 nr. 2, dersom
+
+1. disse kravene eller testene ikke omfattes av harmoniserte standarder eller deler av dem som det er offentliggjort henvisninger til i *Den europeisk unions tidende,*
+2. Kommisjonen oppdager utilbørlige forsinkelser i forbindelse med vedtakelsen av de aktuelle harmoniserte standardene, eller
+3. Kommisjonen i samsvar med framgangsmåten nevnt i artikkel 11 nr. 5 i [forordning (EU) nr. 1025/2012](eu/32012r1025) har besluttet å delvis opprettholde eller trekke tilbake henvisningene til de harmoniserte standardene eller deler av dem som disse kravene eller testene omfattes av.
+
+Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 45 nr. 3.
 
 2\. EU-gjødselvarer som er i samsvar med felles spesifikasjoner eller deler av dem, skal formodes å være i samsvar med kravene fastsatt i vedlegg I, II og III som omfattes av disse felles spesifikasjonene eller deler av dem.
 
@@ -459,7 +562,9 @@ CE-merkingen er underlagt de allmenne prinsippene fastsatt i artikkel 30 i [foro
 
 2\. CE-merkingen skal påføres før EU-gjødselvaren bringes i omsetning.
 
-3\. CE-merkingen skal etterfølges av det meldte organets identifikasjonsnummer dersom det kreves i henhold til vedlegg IV.Det meldte organets identifikasjonsnummer skal påføres av organet selv eller av produsenten eller dennes representant etter organets anvisning.
+3\. CE-merkingen skal etterfølges av det meldte organets identifikasjonsnummer dersom det kreves i henhold til vedlegg IV.
+
+Det meldte organets identifikasjonsnummer skal påføres av organet selv eller av produsenten eller dennes representant etter organets anvisning.
 
 4\. Medlemsstatene skal basere seg på eksisterende ordninger for å sikre korrekt anvendelse av reglene for CE-merking og treffe egnede tiltak i tilfelle urettmessig bruk av merkingen.
 
@@ -512,15 +617,34 @@ Kommisjonen skal gjøre denne informasjonen offentlig tilgjengelig.
 
 3\. Et samsvarsvurderingsorgan skal være et tredjepartsorgan som er uavhengig av organisasjonen eller EU-gjødselvaren som det vurderer.
 
-4\. Et samsvarsvurderingsorgan, dets øverste ledelse og personalet med ansvar for å utføre samsvarsvurderingsoppgavene skal ikke være utvikler, produsent, leverandør, kjøper, eier eller bruker av gjødselvarer eller representant for noen av disse partene. Dette skal ikke hindre bruk av gjødselvarer som er nødvendige for samsvarsvurderingsorganets virksomhet, eller bruk av gjødselvarer for personlige formål.Et samsvarsvurderingsorgan, dets øverste ledelse og personalet med ansvar for å utføre samsvarsvurderingsoppgavene skal ikke være direkte involvert i utvikling, produksjon, markedsføring eller bruk av gjødselvarer eller representere parter som deltar i slike aktiviteter. De skal ikke delta i aktiviteter som kan være i strid med deres uavhengighet eller integritet i forbindelse med samsvarsvurderingsaktivitetene de er meldt for. Dette skal særlig gjelde rådgivningstjenester.Samsvarsvurderingsorganer skal sikre at deres datterforetaks eller underleverandørers aktiviteter ikke påvirker fortroligheten, objektiviteten eller upartiskheten med hensyn til organenes samsvarsvurderingsaktiviteter.
+4\. Et samsvarsvurderingsorgan, dets øverste ledelse og personalet med ansvar for å utføre samsvarsvurderingsoppgavene skal ikke være utvikler, produsent, leverandør, kjøper, eier eller bruker av gjødselvarer eller representant for noen av disse partene. Dette skal ikke hindre bruk av gjødselvarer som er nødvendige for samsvarsvurderingsorganets virksomhet, eller bruk av gjødselvarer for personlige formål.
+
+Et samsvarsvurderingsorgan, dets øverste ledelse og personalet med ansvar for å utføre samsvarsvurderingsoppgavene skal ikke være direkte involvert i utvikling, produksjon, markedsføring eller bruk av gjødselvarer eller representere parter som deltar i slike aktiviteter. De skal ikke delta i aktiviteter som kan være i strid med deres uavhengighet eller integritet i forbindelse med samsvarsvurderingsaktivitetene de er meldt for. Dette skal særlig gjelde rådgivningstjenester.
+
+Samsvarsvurderingsorganer skal sikre at deres datterforetaks eller underleverandørers aktiviteter ikke påvirker fortroligheten, objektiviteten eller upartiskheten med hensyn til organenes samsvarsvurderingsaktiviteter.
 
 5\. Samsvarsvurderingsorganer og deres personale skal utføre sine samsvarsvurderingsaktiviteter med den høyeste grad av faglig integritet og skal ha de nødvendige tekniske kvalifikasjonene på det aktuelle området, og de skal ikke være utsatt for noen form for press eller påvirkning, særlig av økonomisk art, som vil kunne påvirke deres avgjørelser eller resultatene av deres samsvarsvurderingsaktiviteter, særlig når det gjelder personer eller grupper av personer som er berørt av resultatene av disse aktivitetene.
 
-6\. Et samsvarsvurderingsorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt i henhold til vedlegg IV, og som det er meldt for, uansett om disse oppgavene utføres av samsvarsvurderingsorganet selv eller på dets vegne og ansvar.Et samsvarsvurderingsorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av EU-gjødselvarer som det er meldt for, ha følgende til rådighet:Personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingsoppgavene.Beskrivelser av framgangsmåter som skal følges ved samsvarsvurderingen, og som sikrer at disse framgangsmåtene er åpne og reproduserbare. Det skal ha egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som meldt organ, og andre aktiviteter.Framgangsmåter som gjør det mulig for organet å utføre sine aktiviteter på en måte som gjør at det tas behørig hensyn til foretakets størrelse, i hvilken sektor det driver virksomhet, dets struktur, hvor kompleks den aktuelle produktteknologien er, og om produksjonsprosessen har karakter av masse- eller serieproduksjon.Et samsvarsvurderingsorgan skal ha de nødvendige midlene til å kunne utføre de tekniske og administrative oppgavene forbundet med samsvarsvurderingsaktivitetene på en tilfredsstillende måte, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige fasiliteter.
+6\. Et samsvarsvurderingsorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt i henhold til vedlegg IV, og som det er meldt for, uansett om disse oppgavene utføres av samsvarsvurderingsorganet selv eller på dets vegne og ansvar.
 
-7\. Personalet med ansvar for å utføre samsvarsvurderingsoppgaver, skal hatilfredsstillende teknisk og faglig opplæring som omfatter all samsvarsvurderingsaktiviteter som samsvarsvurderingsorganet er meldt for,tilstrekkelig kunnskap om kravene som gjelder for vurderingene de utfører, og den nødvendige myndigheten til å utføre disse vurderingene,tilfredsstillende kunnskap om og forståelse av kravene fastsatt i vedlegg I, II og III, de gjeldende harmoniserte standardene nevnt i artikkel 13, de felles spesifikasjonene nevnt i artikkel 14 og de relevante bestemmelsene i Unionens harmoniseringsregelverk og i nasjonal lovgivning,kompetanse til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+Et samsvarsvurderingsorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av EU-gjødselvarer som det er meldt for, ha følgende til rådighet:
 
-8\. Det skal sikres at samsvarsvurderingsorganene, deres øverste ledelse og personalet med ansvar for å utføre samsvarsvurderingsoppgavene er upartiske.Godtgjøringen til øverste ledelse og personalet med ansvar for å utføre et samsvarsvurderingsorgans samsvarsvurderingsoppgaver skal ikke være avhengig av antallet vurderinger som er foretatt, eller av resultatet av vurderingene.
+1. Personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingsoppgavene.
+2. Beskrivelser av framgangsmåter som skal følges ved samsvarsvurderingen, og som sikrer at disse framgangsmåtene er åpne og reproduserbare. Det skal ha egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som meldt organ, og andre aktiviteter.
+3. Framgangsmåter som gjør det mulig for organet å utføre sine aktiviteter på en måte som gjør at det tas behørig hensyn til foretakets størrelse, i hvilken sektor det driver virksomhet, dets struktur, hvor kompleks den aktuelle produktteknologien er, og om produksjonsprosessen har karakter av masse- eller serieproduksjon.
+
+Et samsvarsvurderingsorgan skal ha de nødvendige midlene til å kunne utføre de tekniske og administrative oppgavene forbundet med samsvarsvurderingsaktivitetene på en tilfredsstillende måte, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige fasiliteter.
+
+7\. Personalet med ansvar for å utføre samsvarsvurderingsoppgaver, skal ha
+
+1. tilfredsstillende teknisk og faglig opplæring som omfatter all samsvarsvurderingsaktiviteter som samsvarsvurderingsorganet er meldt for,
+2. tilstrekkelig kunnskap om kravene som gjelder for vurderingene de utfører, og den nødvendige myndigheten til å utføre disse vurderingene,
+3. tilfredsstillende kunnskap om og forståelse av kravene fastsatt i vedlegg I, II og III, de gjeldende harmoniserte standardene nevnt i artikkel 13, de felles spesifikasjonene nevnt i artikkel 14 og de relevante bestemmelsene i Unionens harmoniseringsregelverk og i nasjonal lovgivning,
+4. kompetanse til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+
+8\. Det skal sikres at samsvarsvurderingsorganene, deres øverste ledelse og personalet med ansvar for å utføre samsvarsvurderingsoppgavene er upartiske.
+
+Godtgjøringen til øverste ledelse og personalet med ansvar for å utføre et samsvarsvurderingsorgans samsvarsvurderingsoppgaver skal ikke være avhengig av antallet vurderinger som er foretatt, eller av resultatet av vurderingene.
 
 9\. Samsvarsvurderingsorganene skal tegne ansvarsforsikring, med mindre staten påtar seg ansvar i henhold til nasjonal rett eller medlemsstaten selv er direkte ansvarlig for samsvarsvurderingen.
 
@@ -556,15 +680,21 @@ Dersom et samsvarsvurderingsorgan viser at det overholder kriteriene fastsatt i 
 
 3\. Meldingen skal inneholde fullstendige opplysninger om samsvarsvurderingsaktivitetene, samsvarsvurderingsmodulen(e) og den eller de aktuelle EU-gjødselvarene samt akkrediteringsbeviset nevnt i artikkel 27 nr. 2.
 
-4\. Det berørte organet kan bare utføre aktiviteter som meldt organ dersom Kommisjonen eller de øvrige medlemsstatene ikke har gjort innsigelse mot dette innen to uker etter meldingen.Bare et slikt organ skal anses for å være et meldt organ i henhold til denne forordningen.
+4\. Det berørte organet kan bare utføre aktiviteter som meldt organ dersom Kommisjonen eller de øvrige medlemsstatene ikke har gjort innsigelse mot dette innen to uker etter meldingen.
+
+Bare et slikt organ skal anses for å være et meldt organ i henhold til denne forordningen.
 
 5\. Meldermyndigheten skal underrette Kommisjonen og de andre medlemsstatene om eventuelle senere relevante endringer av meldingen.
 
 ### Artikkel 29. Identifikasjonsnumre og lister over meldte organer
 
-1\. Kommisjonen skal tildele hvert meldte organ et identifikasjonsnummer.Den skal tildele organet ett slikt nummer, selv om det er meldt i henhold til flere unionsrettsakter.
+1\. Kommisjonen skal tildele hvert meldte organ et identifikasjonsnummer.
 
-2\. Kommisjonen skal offentliggjøre listen over organene som er meldt i henhold til denne forordningen, herunder identifikasjonsnumrene de har fått tildelt, og aktivitetene de er meldt for.Kommisjonen skal sørge for at listen holdes oppdatert.
+Den skal tildele organet ett slikt nummer, selv om det er meldt i henhold til flere unionsrettsakter.
+
+2\. Kommisjonen skal offentliggjøre listen over organene som er meldt i henhold til denne forordningen, herunder identifikasjonsnumrene de har fått tildelt, og aktivitetene de er meldt for.
+
+Kommisjonen skal sørge for at listen holdes oppdatert.
 
 ### Artikkel 30. Endring av meldinger
 
@@ -580,13 +710,17 @@ Dersom et samsvarsvurderingsorgan viser at det overholder kriteriene fastsatt i 
 
 3\. Kommisjonen skal sikre at all sensitiv informasjon som den innhenter i forbindelse med sine undersøkelser, behandles fortrolig.
 
-4\. Dersom Kommisjonen fastslår at et meldt organ ikke oppfyller eller ikke lenger oppfyller kravene som gjelder for meldingen, skal den vedta en gjennomføringsrettsakt som pålegger meldermedlemsstaten å treffe nødvendige korrigerende tiltak, herunder tilbaketrekking av meldingen dersom det er nødvendig.Nevnte gjennomføringsrettsakt skal vedtas i samsvar med rådgivningsprosedyren nevnt i artikkel 45 nr. 2.
+4\. Dersom Kommisjonen fastslår at et meldt organ ikke oppfyller eller ikke lenger oppfyller kravene som gjelder for meldingen, skal den vedta en gjennomføringsrettsakt som pålegger meldermedlemsstaten å treffe nødvendige korrigerende tiltak, herunder tilbaketrekking av meldingen dersom det er nødvendig.
+
+Nevnte gjennomføringsrettsakt skal vedtas i samsvar med rådgivningsprosedyren nevnt i artikkel 45 nr. 2.
 
 ### Artikkel 32. Meldte organers driftsmessige forpliktelser
 
 1\. Meldte organer skal foreta samsvarsvurderinger i samsvar med framgangsmåtene for samsvarsvurdering fastsatt i vedlegg IV.
 
-2\. Samsvarsvurderingene skal utføres på en måte som står i forhold til målet, slik at markedsdeltakerne ikke pålegges unødige byrder. Meldte organer skal utføre sine aktiviteter på en måte som gjør at det tas behørig hensyn til foretakets størrelse, i hvilken sektor det driver virksomhet, dets struktur, hvor kompleks den aktuelle produktteknologien er, og om produksjonsprosessens har karakter av masse- eller serieproduksjon.Samtidig skal de overholde den graden av strenghet og det beskyttelsesnivået som kreves for at EU-gjødselvaren skal være i samsvar med denne forordningen.
+2\. Samsvarsvurderingene skal utføres på en måte som står i forhold til målet, slik at markedsdeltakerne ikke pålegges unødige byrder. Meldte organer skal utføre sine aktiviteter på en måte som gjør at det tas behørig hensyn til foretakets størrelse, i hvilken sektor det driver virksomhet, dets struktur, hvor kompleks den aktuelle produktteknologien er, og om produksjonsprosessens har karakter av masse- eller serieproduksjon.
+
+Samtidig skal de overholde den graden av strenghet og det beskyttelsesnivået som kreves for at EU-gjødselvaren skal være i samsvar med denne forordningen.
 
 3\. Dersom et meldt organ finner at en produsent ikke har oppfylt de grunnleggende kravene fastsatt i vedlegg I, II eller III eller i tilsvarende harmoniserte standarder, de felles spesifikasjonene nevnt i artikkel 14 eller andre tekniske spesifikasjoner, skal det kreve at produsenten treffer egnede korrigerende tiltak, og skal ikke utstede et sertifikat eller en beslutning om godkjenning.
 
@@ -600,7 +734,12 @@ Medlemsstatene skal sikre at det foreligger en framgangsmåte for å klage på b
 
 ### Artikkel 34. Meldte organers informasjonsplikt
 
-1\. Meldte organer skal underrette meldermyndigheten om følgende:Alle tilfeller av avslag, begrensning, midlertidig oppheving eller tilbaketrekking av et sertifikat eller en beslutning om godkjenning.Forhold som påvirker omfanget av eller vilkårene for meldingen.Anmodninger om informasjon om samsvarsvurderingsaktiviteter som de har mottatt fra markedstilsynsmyndighetene.På anmodning, samsvarsvurderingsaktiviteter som er utført innenfor rammen av meldingen, og enhver annen aktivitet som er utført, herunder aktiviteter og underleveranser på tvers av landegrensene.
+1\. Meldte organer skal underrette meldermyndigheten om følgende:
+
+1. Alle tilfeller av avslag, begrensning, midlertidig oppheving eller tilbaketrekking av et sertifikat eller en beslutning om godkjenning.
+2. Forhold som påvirker omfanget av eller vilkårene for meldingen.
+3. Anmodninger om informasjon om samsvarsvurderingsaktiviteter som de har mottatt fra markedstilsynsmyndighetene.
+4. På anmodning, samsvarsvurderingsaktiviteter som er utført innenfor rammen av meldingen, og enhver annen aktivitet som er utført, herunder aktiviteter og underleveranser på tvers av landegrensene.
 
 2\. Meldte organer skal gi de andre organene som er meldt i henhold til denne forordningen, og som utfører lignende samsvarsvurderingsaktiviteter som omfatter de samme EU-gjødselvarene, relevant informasjon om spørsmål som gjelder negative og, på anmodning, positive resultater av samsvarsvurderingen.
 
@@ -623,15 +762,27 @@ Artikkel 16–29 i forordning [(EF) nr. 765/2008](eu/32008r0765) får anvendelse
 
 ### Artikkel 38. Framgangsmåte på nasjonalt plan for å håndtere EU-gjødselvarer som utgjør en risiko
 
-1\. Dersom markedstilsynsmyndighetene i en medlemsstat har tilstrekkelig grunn til å tro at en EU-gjødselvare utgjør en risiko for menneskers, dyrs eller planters helse, for sikkerheten eller for miljøet, skal de foreta en vurdering av den aktuelle EU-gjødselvaren som omfatter alle relevante krav fastsatt i denne forordningen. De relevante markedsdeltakerne skal med henblikk på dette samarbeide med markedstilsynsmyndighetene i det omfang som er nødvendig.Dersom markedstilsynsmyndighetene i forbindelse med vurderingen nevnt i først ledd finner at EU-gjødselvaren ikke er i samsvar med kravene fastsatt i denne forordningen, skal de uten opphold kreve at den relevante markedsdeltakeren treffer alle egnede korrigerende tiltak innen en rimelig tidsfrist som fastsettes av markedstilsynsmyndighetene i forhold til risikoens art, for å bringe EU-gjødselvaren i samsvar med disse kravene, for å trekke det tilbake fra markedet eller tilbakekalle det.Markedstilsynsmyndighetene skal underrette det relevante meldte organet om dette.Artikkel 21 i [forordning (EF) nr. 765/2008](eu/32008r0765) får anvendelse på tiltakene nevnt i annet ledd i dette nummeret.
+1\. Dersom markedstilsynsmyndighetene i en medlemsstat har tilstrekkelig grunn til å tro at en EU-gjødselvare utgjør en risiko for menneskers, dyrs eller planters helse, for sikkerheten eller for miljøet, skal de foreta en vurdering av den aktuelle EU-gjødselvaren som omfatter alle relevante krav fastsatt i denne forordningen. De relevante markedsdeltakerne skal med henblikk på dette samarbeide med markedstilsynsmyndighetene i det omfang som er nødvendig.
+
+Dersom markedstilsynsmyndighetene i forbindelse med vurderingen nevnt i først ledd finner at EU-gjødselvaren ikke er i samsvar med kravene fastsatt i denne forordningen, skal de uten opphold kreve at den relevante markedsdeltakeren treffer alle egnede korrigerende tiltak innen en rimelig tidsfrist som fastsettes av markedstilsynsmyndighetene i forhold til risikoens art, for å bringe EU-gjødselvaren i samsvar med disse kravene, for å trekke det tilbake fra markedet eller tilbakekalle det.
+
+Markedstilsynsmyndighetene skal underrette det relevante meldte organet om dette.
+
+Artikkel 21 i [forordning (EF) nr. 765/2008](eu/32008r0765) får anvendelse på tiltakene nevnt i annet ledd i dette nummeret.
 
 2\. Dersom markedstilsynsmyndighetene anser at det manglende samsvaret ikke er begrenset til deres nasjonale territorium, skal de underrette Kommisjonen og de andre medlemsstatene om resultatene av vurderingen og om tiltakene de har pålagt markedsdeltakeren å treffe.
 
 3\. Markedsdeltakeren skal sikre at alle hensiktsmessige korrigerende tiltak treffes med hensyn til alle berørte EU-gjødselvarer som markedsdeltakeren har gjort tilgjengelige på markedet i Unionen.
 
-4\. Dersom den aktuelle markedsdeltakeren ikke treffer egnede korrigerende tiltak innen fristen nevnt i nr. 1 annet ledd, skal markedstilsynsmyndighetene treffe alle egnede midlertidige tiltak for å forby eller begrense tilgjengeliggjøringen av EU-gjødselvaren på sitt nasjonale marked, trekke det tilbake fra dette markedet eller tilbakekalle det.Markedstilsynsmyndighetene skal uten opphold underrette Kommisjonen og de andre medlemsstatene om disse tiltakene.
+4\. Dersom den aktuelle markedsdeltakeren ikke treffer egnede korrigerende tiltak innen fristen nevnt i nr. 1 annet ledd, skal markedstilsynsmyndighetene treffe alle egnede midlertidige tiltak for å forby eller begrense tilgjengeliggjøringen av EU-gjødselvaren på sitt nasjonale marked, trekke det tilbake fra dette markedet eller tilbakekalle det.
 
-5\. Informasjonen nevnt i nr. 4 annet ledd skal omfatte alle tilgjengelige opplysninger, særlig opplysninger som er nødvendige for å identifisere EU-gjødselvaren som ikke oppfyller kravene, EU-gjødselvarens opprinnelse, det påståtte manglende samsvarets art og risikoen dette medfører, arten og varigheten av de nasjonale tiltakene som er truffet, og synspunktene som den relevante markedsdeltakeren har framsatt. Markedstilsynsmyndighetene skal særlig angi om det manglende samsvaret skyldes noe av det følgende:At EU-gjødselvaren ikke oppfyller kravene fastsatt i vedlegg I, II eller III.Mangler i de harmoniserte standardene nevnt i artikkel 13.Mangler i de felles spesifikasjonene nevnt i artikkel 14.
+Markedstilsynsmyndighetene skal uten opphold underrette Kommisjonen og de andre medlemsstatene om disse tiltakene.
+
+5\. Informasjonen nevnt i nr. 4 annet ledd skal omfatte alle tilgjengelige opplysninger, særlig opplysninger som er nødvendige for å identifisere EU-gjødselvaren som ikke oppfyller kravene, EU-gjødselvarens opprinnelse, det påståtte manglende samsvarets art og risikoen dette medfører, arten og varigheten av de nasjonale tiltakene som er truffet, og synspunktene som den relevante markedsdeltakeren har framsatt. Markedstilsynsmyndighetene skal særlig angi om det manglende samsvaret skyldes noe av det følgende:
+
+1. At EU-gjødselvaren ikke oppfyller kravene fastsatt i vedlegg I, II eller III.
+2. Mangler i de harmoniserte standardene nevnt i artikkel 13.
+3. Mangler i de felles spesifikasjonene nevnt i artikkel 14.
 
 6\. Andre medlemsstater enn medlemsstaten som innleder framgangsmåten i henhold til denne artikkelen, skal uten opphold underrette Kommisjonen og de andre medlemsstatene om eventuelle tiltak som er truffet, om eventuell ytterligere informasjon de måtte ha om den aktuelle EU-gjødselvarens manglende samsvar, samt om eventuelle innsigelser mot det vedtatte nasjonale tiltaket.
 
@@ -643,11 +794,19 @@ Artikkel 16–29 i forordning [(EF) nr. 765/2008](eu/32008r0765) får anvendelse
 
 ### Artikkel 39. Unionsframgangsmåte ved beslutninger om beskyttelsestiltak
 
-1\. Dersom det etter at framgangsmåten i artikkel 38 nr. 3 og 4 er fullført, gjøres innsigelse mot et tiltak truffet av en medlemsstat, eller dersom Kommisjonen anser at et nasjonalt tiltak strider mot unionsretten, skal Kommisjonen uten opphold innlede samråd med medlemsstatene og den eller de relevante markedsdeltakerne og vurdere det nasjonale tiltaket. Kommisjonen skal på grunnlag av resultatene av denne vurderingen vedta en gjennomføringsrettsakt i form av en beslutning som fastslår om det nasjonale tiltaket er berettiget eller ikke.Dersom det nasjonale tiltaket anses som berettiget, skal beslutningen pålegge alle medlemsstater å treffe de nødvendige tiltakene for å sikre at EU-gjødselvaren som ikke oppfyller kravene, trekkes tilbake fra deres marked, og underrette Kommisjonen om dette.Dersom det nasjonale tiltaket anses som uberettiget, skal beslutningen pålegge den berørte medlemsstaten å trekke tiltaket tilbake.Kommisjonen skal rette sin beslutning til alle medlemsstatene og umiddelbart oversende den til dem og til den eller de relevante markedsdeltakerne.
+1\. Dersom det etter at framgangsmåten i artikkel 38 nr. 3 og 4 er fullført, gjøres innsigelse mot et tiltak truffet av en medlemsstat, eller dersom Kommisjonen anser at et nasjonalt tiltak strider mot unionsretten, skal Kommisjonen uten opphold innlede samråd med medlemsstatene og den eller de relevante markedsdeltakerne og vurdere det nasjonale tiltaket. Kommisjonen skal på grunnlag av resultatene av denne vurderingen vedta en gjennomføringsrettsakt i form av en beslutning som fastslår om det nasjonale tiltaket er berettiget eller ikke.
+
+Dersom det nasjonale tiltaket anses som berettiget, skal beslutningen pålegge alle medlemsstater å treffe de nødvendige tiltakene for å sikre at EU-gjødselvaren som ikke oppfyller kravene, trekkes tilbake fra deres marked, og underrette Kommisjonen om dette.
+
+Dersom det nasjonale tiltaket anses som uberettiget, skal beslutningen pålegge den berørte medlemsstaten å trekke tiltaket tilbake.
+
+Kommisjonen skal rette sin beslutning til alle medlemsstatene og umiddelbart oversende den til dem og til den eller de relevante markedsdeltakerne.
 
 2\. Dersom det nasjonale tiltaket anses som berettiget og EU-gjødselvarens manglende samsvar tilskrives mangler ved de harmoniserte standardene nevnt i artikkel 38 nr. 5 bokstav b) i denne forordningen, skal Kommisjonen anvende framgangsmåten fastsatt i artikkel 11 i [forordning (EU) nr. 1025/2012](eu/32012r1025).
 
-3\. Dersom det nasjonale tiltaket anses som berettiget og EU-gjødselvarens manglende samsvar tilskrives mangler i de felles spesifikasjonene nevnt i artikkel 38 nr. 5 bokstav c), skal Kommisjonen uten opphold vedta gjennomføringsrettsakter som endrer eller opphever de aktuelle felles spesifikasjonene.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 45 nr. 3.
+3\. Dersom det nasjonale tiltaket anses som berettiget og EU-gjødselvarens manglende samsvar tilskrives mangler i de felles spesifikasjonene nevnt i artikkel 38 nr. 5 bokstav c), skal Kommisjonen uten opphold vedta gjennomføringsrettsakter som endrer eller opphever de aktuelle felles spesifikasjonene.
+
+Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 45 nr. 3.
 
 ### Artikkel 40. EU-gjødselvarer som oppfyller kravene, men som utgjør en risiko
 
@@ -657,32 +816,73 @@ Artikkel 16–29 i forordning [(EF) nr. 765/2008](eu/32008r0765) får anvendelse
 
 3\. Medlemsstaten skal umiddelbart underrette Kommisjonen og de andre medlemsstatene. Informasjonen skal omfatte alle tilgjengelige opplysninger, særlig opplysninger som er nødvendige for å identifisere den aktuelle EU-gjødselvaren, EU-gjødselvarens opprinnelse og omsetningskjede, risikoen den utgjør, og arten og varigheten av de nasjonale tiltakene som er truffet.
 
-4\. Kommisjonen skal umiddelbart rådføre seg med medlemsstatene og den eller de relevante markedsdeltakerne og vurdere de nasjonale tiltakene som er truffet. Kommisjonen skal på grunnlag av resultatene av denne vurderingen vedta en gjennomføringsrettsakt i form av en beslutning som fastslår om det nasjonale tiltaket er berettiget eller ikke, og som pålegger egnede tiltak dersom det er nødvendig.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 45 nr. 3.Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til vern av menneskers, dyrs eller planters helse, sikkerheten eller miljøet, skal Kommisjonen i samsvar med framgangsmåten nevnt i artikkel 45 nr. 4 vedta gjennomføringsrettsakter som får umiddelbar virkning.
+4\. Kommisjonen skal umiddelbart rådføre seg med medlemsstatene og den eller de relevante markedsdeltakerne og vurdere de nasjonale tiltakene som er truffet. Kommisjonen skal på grunnlag av resultatene av denne vurderingen vedta en gjennomføringsrettsakt i form av en beslutning som fastslår om det nasjonale tiltaket er berettiget eller ikke, og som pålegger egnede tiltak dersom det er nødvendig.
+
+Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 45 nr. 3.
+
+Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til vern av menneskers, dyrs eller planters helse, sikkerheten eller miljøet, skal Kommisjonen i samsvar med framgangsmåten nevnt i artikkel 45 nr. 4 vedta gjennomføringsrettsakter som får umiddelbar virkning.
 
 5\. Kommisjonen skal rette sin beslutning til alle medlemsstatene og umiddelbart oversende den til dem og til den eller de relevante markedsdeltakerne.
 
 ### Artikkel 41. Formelt manglende samsvar
 
-1\. Med forbehold for artikkel 38 skal en medlemsstat, dersom den fastslår noe av det følgende for en EU-gjødselvare, pålegge den relevante markedsdeltakeren å bringe det manglende samsvaret til opphør:CE-merkingen er påført i strid med artikkel 30 i [forordning (EF) nr. 765/2008](eu/32008r0765) eller med artikkel 18 i denne forordningen.Det meldte organets identifikasjonsnummer er påført i strid med artikkel 18 eller er ikke påført selv om dette kreves i henhold til artikkel 18.Det er ikke utarbeidet en EU-samsvarserklæring, eller den er ikke utarbeidet på riktig måte.Den tekniske dokumentasjonen er enten ikke tilgjengelig eller ikke fullstendig.Informasjonen nevnt i artikkel 6 nr. 6 eller artikkel 8 nr. 3 mangler, er uriktig eller ufullstendig.Eventuelle andre administrative krav fastsatt i artikkel 6 eller 8 er ikke oppfylt.
+1\. Med forbehold for artikkel 38 skal en medlemsstat, dersom den fastslår noe av det følgende for en EU-gjødselvare, pålegge den relevante markedsdeltakeren å bringe det manglende samsvaret til opphør:
 
-2\. Dersom det manglende samsvaret nevnt i nr. 1 vedvarer, skal den aktuelle medlemsstaten treffe alle egnede tiltak for å begrense eller forby tilgjengeliggjøring av EU-gjødselvaren på markedet eller sikre at den tilbakekalles eller trekkes tilbake fra markedet.Medlemsstatenes forpliktelser i denne forbindelse skal ikke berøre deres mulighet til å regulere gjødselvarer som ikke er EU-gjødselvarer.
+1. CE-merkingen er påført i strid med artikkel 30 i [forordning (EF) nr. 765/2008](eu/32008r0765) eller med artikkel 18 i denne forordningen.
+2. Det meldte organets identifikasjonsnummer er påført i strid med artikkel 18 eller er ikke påført selv om dette kreves i henhold til artikkel 18.
+3. Det er ikke utarbeidet en EU-samsvarserklæring, eller den er ikke utarbeidet på riktig måte.
+4. Den tekniske dokumentasjonen er enten ikke tilgjengelig eller ikke fullstendig.
+5. Informasjonen nevnt i artikkel 6 nr. 6 eller artikkel 8 nr. 3 mangler, er uriktig eller ufullstendig.
+6. Eventuelle andre administrative krav fastsatt i artikkel 6 eller 8 er ikke oppfylt.
+
+2\. Dersom det manglende samsvaret nevnt i nr. 1 vedvarer, skal den aktuelle medlemsstaten treffe alle egnede tiltak for å begrense eller forby tilgjengeliggjøring av EU-gjødselvaren på markedet eller sikre at den tilbakekalles eller trekkes tilbake fra markedet.
+
+Medlemsstatenes forpliktelser i denne forbindelse skal ikke berøre deres mulighet til å regulere gjødselvarer som ikke er EU-gjødselvarer.
 
 ### KAPITTEL VI
 **DELEGERT MYNDIGHET OG KOMITÉPROSEDYRE**
 
 ### Artikkel 42. Endring av vedlegg
 
-1\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i henhold til artikkel 44 med henblikk på å endre vedlegg I, med unntak av grenseverdier for kadmium og definisjonene av eller andre elementer knyttet til virkeområdet for produktfunksjonskategorier, samt vedlegg II, III og IV for å tilpasse disse vedleggene til den tekniske utviklingen og lette adgangen til det indre marked og det frie varebyttet for EU-gjødselvarersom har potensial til å bli gjenstand for omfattende handel på det indre marked, ogder det foreligger vitenskapelig bevis for at deikke utgjør en risiko for menneskers, dyrs eller planters helse, for sikkerheten eller for miljøet, ogsikrer agronomisk effektivitet.Når Kommisjonen vedtar delegerte rettsakter der det innføres nye grenseverdier for forurensende stoffer i vedlegg I, skal den ta hensyn til vitenskapelige uttalelser fra Den europeiske myndighet for næringsmiddeltrygghet, Det europeiske kjemikaliebyrå eller Kommisjonens felles forskningssenter, alt etter hva som er relevant.Dersom Kommisjonen vedtar delegerte rettsakter for å legge til eller revidere komponentmaterialkategorier slik at de omfatter materiale som kan anses som gjenvunnet avfall eller biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098), skal disse delegerte rettsaktene uttrykkelig utelukke slikt materiale fra komponentmaterialkategori 1 og 11 i vedlegg II til denne forordningen.Når Kommisjonen vedtar delegerte rettsakter i henhold til dette nummeret, skal den særlig prioritere animalske biprodukter, biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098) og gjenvunnet avfall, særlig fra landbrukssektoren og den landbruksbaserte næringsmiddelindustrien, samt materiale og produkter som allerede lovlig er brakt i omsetning i en eller flere medlemsstater.
+1\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i henhold til artikkel 44 med henblikk på å endre vedlegg I, med unntak av grenseverdier for kadmium og definisjonene av eller andre elementer knyttet til virkeområdet for produktfunksjonskategorier, samt vedlegg II, III og IV for å tilpasse disse vedleggene til den tekniske utviklingen og lette adgangen til det indre marked og det frie varebyttet for EU-gjødselvarer
+
+1. som har potensial til å bli gjenstand for omfattende handel på det indre marked, og
+2. der det foreligger vitenskapelig bevis for at de
+
+   1. ikke utgjør en risiko for menneskers, dyrs eller planters helse, for sikkerheten eller for miljøet, og
+   2. sikrer agronomisk effektivitet.
+
+Når Kommisjonen vedtar delegerte rettsakter der det innføres nye grenseverdier for forurensende stoffer i vedlegg I, skal den ta hensyn til vitenskapelige uttalelser fra Den europeiske myndighet for næringsmiddeltrygghet, Det europeiske kjemikaliebyrå eller Kommisjonens felles forskningssenter, alt etter hva som er relevant.
+
+Dersom Kommisjonen vedtar delegerte rettsakter for å legge til eller revidere komponentmaterialkategorier slik at de omfatter materiale som kan anses som gjenvunnet avfall eller biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098), skal disse delegerte rettsaktene uttrykkelig utelukke slikt materiale fra komponentmaterialkategori 1 og 11 i vedlegg II til denne forordningen.
+
+Når Kommisjonen vedtar delegerte rettsakter i henhold til dette nummeret, skal den særlig prioritere animalske biprodukter, biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098) og gjenvunnet avfall, særlig fra landbrukssektoren og den landbruksbaserte næringsmiddelindustrien, samt materiale og produkter som allerede lovlig er brakt i omsetning i en eller flere medlemsstater.
 
 2\. Kommisjonen skal uten unødig opphold etter 15. juli 2019 vurdere struvitt, biokull og askebaserte produkter. Dersom vurderingen viser at kriteriene i nr. 1 bokstav b) er oppfylt, skal Kommisjonen vedta delegerte rettsakter i henhold til nr. 1 for å føre opp disse materialene i vedlegg II.
 
 3\. Kommisjonen kan bare vedta delegerte rettsakter i henhold til nr. 1 om endring av vedlegg II til denne forordningen for å legge til materiale som etter gjenvinning ikke lenger er avfall, i komponentmaterialkategoriene, dersom reglene for gjenvinning i det vedlegget, som er vedtatt før materialet legges til, sikrer at materialet oppfyller vilkårene fastsatt i artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098).
 
-4\. Kommisjonen kan bare vedta delegerte rettsakter i henhold til nr. 1 om endring av vedlegg II for å legge til nye mikroorganismer eller stammer av mikroorganismer eller ytterligere bearbeidingsmetoder i komponentmaterialkategorien for slike organismer etter å ha kontrollert hvilke stammer av den nye mikroorganismen som oppfyller kriteriene i nr. 1 bokstav b), på grunnlag av følgende data:Mikroorganismens navn.Mikroorganismens taksonomiske klassifisering: slekt, art, stamme og anskaffelsesmetode.Vitenskapelig litteratur som rapporterer om sikker produksjon, bevaring og bruk av mikroorganismen.Taksonomisk forbindelse til mikroorganismearter som oppfyller kravene til QPS-status (Qualified Presumption of Safety) som fastsatt av Den europeiske myndighet for næringsmiddeltrygghet.Informasjon om produksjonsprosessen, herunder, dersom det er relevant, bearbeidingsmetoder som spraytørking, lufttørking i fluidisert seng, statisk tørking, sentrifugering, deaktivering gjennom oppvarming, filtrering og maling.Informasjon om identiteten til og restmengdene av intermediære reststoffer, toksiner eller mikrobielle metabolitter i komponentmaterialet.Naturlig forekomst, overlevelse og mobilitet i miljøet.
+4\. Kommisjonen kan bare vedta delegerte rettsakter i henhold til nr. 1 om endring av vedlegg II for å legge til nye mikroorganismer eller stammer av mikroorganismer eller ytterligere bearbeidingsmetoder i komponentmaterialkategorien for slike organismer etter å ha kontrollert hvilke stammer av den nye mikroorganismen som oppfyller kriteriene i nr. 1 bokstav b), på grunnlag av følgende data:
 
-5\. Kommisjonen kan bare vedta delegerte rettsakter i henhold til nr. 1 om endring av vedlegg II til denne forordningen for å legge til avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) i komponentmaterialkategoriene dersom det er fastsatt et sluttpunkt i produksjonskjeden i samsvar med artikkel 5 nr. 2 i den forordningen.Kommisjonen skal vurdere slike avledede produkter med hensyn til relevante aspekter som det ikke er tatt hensyn til med henblikk på å fastsette et sluttpunkt i produksjonskjeden i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069). Dersom det i vurderingen fastslås at kriteriene i nr. 1 bokstav b) i denne artikkelen er oppfylt, skal Kommisjonen vedta delegerte rettsakter i henhold til nr. 1 i denne artikkelen for uten unødig opphold å legge til disse materialene i tabellen i komponentmaterialkategori 10 i del II i vedlegg II til denne forordningen når et slikt sluttpunkt er fastsatt.
+1. Mikroorganismens navn.
+2. Mikroorganismens taksonomiske klassifisering: slekt, art, stamme og anskaffelsesmetode.
+3. Vitenskapelig litteratur som rapporterer om sikker produksjon, bevaring og bruk av mikroorganismen.
+4. Taksonomisk forbindelse til mikroorganismearter som oppfyller kravene til QPS-status (Qualified Presumption of Safety) som fastsatt av Den europeiske myndighet for næringsmiddeltrygghet.
+5. Informasjon om produksjonsprosessen, herunder, dersom det er relevant, bearbeidingsmetoder som spraytørking, lufttørking i fluidisert seng, statisk tørking, sentrifugering, deaktivering gjennom oppvarming, filtrering og maling.
+6. Informasjon om identiteten til og restmengdene av intermediære reststoffer, toksiner eller mikrobielle metabolitter i komponentmaterialet.
+7. Naturlig forekomst, overlevelse og mobilitet i miljøet.
 
-6\. Senest 16. juli 2024 skal Kommisjonen vurdere kriteriene for biologisk nedbrytbarhet for polymerer nevnt i nr. 2 i komponentmaterialkategori 9 i vedlegg II del II og testmetoder for å kontrollere samsvar med disse kriteriene og, dersom det er relevant, vedta delegerte rettsakter i henhold til nr. 1 om fastsettelse av disse kriteriene.Slike kriterier skal sikreat polymeren kan nedbrytes fysisk og biologisk ved naturlige jordforhold og i vannmiljøer i hele Unionen, slik at den til slutt nedbrytes utelukkende til karbondioksid, biomasse og vann,at minst 90 % av polymerens organiske karbon omdannes til karbondioksid i løpet av en periode på høyst 48 måneder etter utløpet av EU-gjødselvarens funksjonsperiode angitt på etiketten, og sammenlignet med en egnet standard i testen som gjelder biologisk nedbrytbarhet, ogat bruken av polymerer ikke fører til akkumulering av plast i miljøet.
+5\. Kommisjonen kan bare vedta delegerte rettsakter i henhold til nr. 1 om endring av vedlegg II til denne forordningen for å legge til avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) i komponentmaterialkategoriene dersom det er fastsatt et sluttpunkt i produksjonskjeden i samsvar med artikkel 5 nr. 2 i den forordningen.
+
+Kommisjonen skal vurdere slike avledede produkter med hensyn til relevante aspekter som det ikke er tatt hensyn til med henblikk på å fastsette et sluttpunkt i produksjonskjeden i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069). Dersom det i vurderingen fastslås at kriteriene i nr. 1 bokstav b) i denne artikkelen er oppfylt, skal Kommisjonen vedta delegerte rettsakter i henhold til nr. 1 i denne artikkelen for uten unødig opphold å legge til disse materialene i tabellen i komponentmaterialkategori 10 i del II i vedlegg II til denne forordningen når et slikt sluttpunkt er fastsatt.
+
+6\. Senest 16. juli 2024 skal Kommisjonen vurdere kriteriene for biologisk nedbrytbarhet for polymerer nevnt i nr. 2 i komponentmaterialkategori 9 i vedlegg II del II og testmetoder for å kontrollere samsvar med disse kriteriene og, dersom det er relevant, vedta delegerte rettsakter i henhold til nr. 1 om fastsettelse av disse kriteriene.
+
+Slike kriterier skal sikre
+
+1. at polymeren kan nedbrytes fysisk og biologisk ved naturlige jordforhold og i vannmiljøer i hele Unionen, slik at den til slutt nedbrytes utelukkende til karbondioksid, biomasse og vann,
+2. at minst 90 % av polymerens organiske karbon omdannes til karbondioksid i løpet av en periode på høyst 48 måneder etter utløpet av EU-gjødselvarens funksjonsperiode angitt på etiketten, og sammenlignet med en egnet standard i testen som gjelder biologisk nedbrytbarhet, og
+3. at bruken av polymerer ikke fører til akkumulering av plast i miljøet.
 
 7\. Senest 16. juli 2022 skal Kommisjonen vedta delegerte rettsakter i samsvar med artikkel 44 for å komplettere nr. 3 i komponentmaterialkategori 11 i del II i vedlegg II til denne forordningen ved å fastsette kriterier for agronomisk effektivitet og sikkerhet i forbindelse med bruk av biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098) i EU-gjødselvarer. Slike kriterier skal gjenspeile den aktuelle produktframstillingspraksisen, den teknologiske utviklingen og de nyeste vitenskapelige dataene.
 
@@ -725,7 +925,11 @@ I forordning [(EF) nr. 1069/2009](eu/32009r1069) gjøres følgende endringer:
 
 1\) I artikkel 5 skal nr. 2 og 3 lyde:
 
-«2. For avledede produkter nevnt i artikkel 32, 35 og 36 som ikke lenger utgjør en betydelig risiko for folkehelsen eller dyrehelsen, kan det fastsettes et sluttpunkt i produksjonskjeden der de ikke lenger skal være omfattet av kravene i denne forordningen.Disse avledede produktene kan deretter bringes i omsetning uten restriksjoner i henhold til denne forordningen, og skal ikke lenger være gjenstand for offentlige kontroller i henhold til denne forordningen.Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 51a om utfylling av denne forordningen ved å fastsette et sluttpunkt i produksjonskjeden der de avledede produktene nevnt i dette nummeret ikke lenger skal være omfattet av kravene i denne forordningen.
+«2. For avledede produkter nevnt i artikkel 32, 35 og 36 som ikke lenger utgjør en betydelig risiko for folkehelsen eller dyrehelsen, kan det fastsettes et sluttpunkt i produksjonskjeden der de ikke lenger skal være omfattet av kravene i denne forordningen.
+
+Disse avledede produktene kan deretter bringes i omsetning uten restriksjoner i henhold til denne forordningen, og skal ikke lenger være gjenstand for offentlige kontroller i henhold til denne forordningen.
+
+Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 51a om utfylling av denne forordningen ved å fastsette et sluttpunkt i produksjonskjeden der de avledede produktene nevnt i dette nummeret ikke lenger skal være omfattet av kravene i denne forordningen.
 
 3\. Dersom det oppstår risiko for folkehelsen eller dyrehelsen, gjelder artikkel 53 og 54 i forordning [(EF) nr. 178/2002](eu/32002r0178) om helsemessige nødtiltak tilsvarende med nødvendige endringer for de avledede produktene nevnt i artikkel 32, 33 og 36 i denne forordningen.
 
@@ -743,7 +947,12 @@ I forordning [(EF) nr. 1107/2009](eu/32009r1107) gjøres følgende endringer:
 
 2\) i artikkel 3 skal ny bokstav lyde:
 
-«34. «biostimulant» et produkt som stimulerer planters næringsprosesser uavhengig av produktets næringsinnhold, og hvis ene formål å forbedre en eller flere av følgende egenskaper ved planten eller plantens rhizosfære:Næringsstoffutnyttelse.Toleranse overfor abiotisk stress.Kvalitetsegenskaper.Tilgjengeligheten av næringsstoffer i jorden eller rhizosfæren.»
+«34. «biostimulant» et produkt som stimulerer planters næringsprosesser uavhengig av produktets næringsinnhold, og hvis ene formål å forbedre en eller flere av følgende egenskaper ved planten eller plantens rhizosfære:
+
+1. Næringsstoffutnyttelse.
+2. Toleranse overfor abiotisk stress.
+3. Kvalitetsegenskaper.
+4. Tilgjengeligheten av næringsstoffer i jorden eller rhizosfæren.»
 
 3\) I artikkel 80 skal nytt nummer lyde:
 
@@ -758,7 +967,11 @@ Medlemsstatene skal fastsette regler for sanksjoner som får anvendelse ved over
 
 ### Artikkel 49. Rapport
 
-Senest 16. juli 2026 skal Kommisjonen framlegge en rapport for Europaparlamentet og Rådet med en vurdering av anvendelsen av denne forordningen og den generelle virkningen den har med hensyn til å oppfylle målene i den, herunder virkningen for små og mellomstore bedrifter. Rapporten skal inneholdeen vurderingen av hvordan det indre marked for gjødselvarer fungerer, herunder hvor effektiv samsvarsvurderingen og markedstilsynet er, samt en analyse av virkningene av den frivillige harmoniseringen på produksjonen, markedsandelene og handelsstrømmene for EU-gjødselvarer og gjødselvarer som bringes i omsetning i henhold til nasjonale regler,en gjennomgåelse av grenseverdiene for innholdet av kadmium i fosfatgjødsel med henblikk på å vurdere muligheten for å redusere disse grenseverdiene til et egnet lavere nivå basert på tilgjengelige teknologier og vitenskapelig dokumentasjon om eksponering for og akkumulering av kadmium i miljøet, idet det tas hensyn til miljøfaktorer, særlig i forbindelse med jord- og klimaforhold, helsefaktorer og sosioøkonomiske faktorer, herunder hensynet til forsyningssikkerheten,en vurdering av bruken av begrensninger når det gjelder innholdet av forurensende stoffer fastsatt i vedlegg I, og en vurdering av eventuell ny relevant vitenskapelig informasjon om toksisiteten og karsinogeniteten av forurensende stoffer som blir tilgjengelig, herunder risikoen for uranforurensning i gjødselvarer.
+Senest 16. juli 2026 skal Kommisjonen framlegge en rapport for Europaparlamentet og Rådet med en vurdering av anvendelsen av denne forordningen og den generelle virkningen den har med hensyn til å oppfylle målene i den, herunder virkningen for små og mellomstore bedrifter. Rapporten skal inneholde
+
+1. en vurderingen av hvordan det indre marked for gjødselvarer fungerer, herunder hvor effektiv samsvarsvurderingen og markedstilsynet er, samt en analyse av virkningene av den frivillige harmoniseringen på produksjonen, markedsandelene og handelsstrømmene for EU-gjødselvarer og gjødselvarer som bringes i omsetning i henhold til nasjonale regler,
+2. en gjennomgåelse av grenseverdiene for innholdet av kadmium i fosfatgjødsel med henblikk på å vurdere muligheten for å redusere disse grenseverdiene til et egnet lavere nivå basert på tilgjengelige teknologier og vitenskapelig dokumentasjon om eksponering for og akkumulering av kadmium i miljøet, idet det tas hensyn til miljøfaktorer, særlig i forbindelse med jord- og klimaforhold, helsefaktorer og sosioøkonomiske faktorer, herunder hensynet til forsyningssikkerheten,
+3. en vurdering av bruken av begrensninger når det gjelder innholdet av forurensende stoffer fastsatt i vedlegg I, og en vurdering av eventuell ny relevant vitenskapelig informasjon om toksisiteten og karsinogeniteten av forurensende stoffer som blir tilgjengelig, herunder risikoen for uranforurensning i gjødselvarer.
 
 I rapporten skal det tas behørig hensyn til den teknologiske utviklingen, innovasjon og standardiseringsprosesser som påvirker produksjonen og bruken av gjødselvarer. Den skal ved behov ledsages av et forslag til regelverk.
 
@@ -782,13 +995,18 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 16. juli 2022.
 
-Imidlertid gjelder følgende:Artikkel 4 nr. 3 og artikkel 14, 42, 43, 44, 45, 46 og 47 får anvendelse fra 15. juli 2019.Artikkel 20–36 får anvendelse fra 16. april 2020.
+Imidlertid gjelder følgende:
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 5. juni 2019.*For Europaparlamentet*
-A. TAJANI
-*President**For Rådet*
-G. CIAMBA
-*Formann*
+1. Artikkel 4 nr. 3 og artikkel 14, 42, 43, 44, 45, 46 og 47 får anvendelse fra 15. juli 2019.
+2. Artikkel 20–36 får anvendelse fra 16. april 2020.
+
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 5. juni 2019.
+
+|  |  |
+| --- | --- |
+| *For Europaparlamentet*<br>A. TAJANI<br>*President* | *For Rådet*<br>G. CIAMBA<br>*Formann* |
 
 ### VEDLEGG I
 **Produktfunksjonskategorier for EU-gjødselvarer**
@@ -796,12 +1014,51 @@ G. CIAMBA
 ### DEL I
 **PRODUKTFUNKSJONSKATEGORIER**
 
-1. GjødselOrganisk gjødselFast organisk gjødselFlytende organisk gjødselOrganisk-mineralsk gjødselFast organisk-mineralsk gjødselFlytende organisk-mineralsk gjødselUorganisk gjødselUorganisk makronæringsgjødselFast uorganisk makronæringsgjødselRen fast uorganisk makronæringsgjødselRen fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnholdSammensatt fast uorganisk makronæringsgjødselSammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnholdFlytende uorganisk makronæringsgjødselRen flytende uorganisk makronæringsgjødselSammensatt flytende uorganisk makronæringsgjødselUorganisk mikronæringsgjødselRen uorganisk mikronæringsgjødselSammensatt uorganisk mikronæringsgjødsel
+1. Gjødsel
+
+   1. Organisk gjødsel
+
+      1. Fast organisk gjødsel
+      2. Flytende organisk gjødsel
+   2. Organisk-mineralsk gjødsel
+
+      1. Fast organisk-mineralsk gjødsel
+      2. Flytende organisk-mineralsk gjødsel
+   3. Uorganisk gjødsel
+
+      1. Uorganisk makronæringsgjødsel
+
+         1. Fast uorganisk makronæringsgjødsel
+
+            1. Ren fast uorganisk makronæringsgjødsel
+
+               1. Ren fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold
+            2. Sammensatt fast uorganisk makronæringsgjødsel
+
+               1. Sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold
+         2. Flytende uorganisk makronæringsgjødsel
+
+            1. Ren flytende uorganisk makronæringsgjødsel
+            2. Sammensatt flytende uorganisk makronæringsgjødsel
+      2. Uorganisk mikronæringsgjødsel
+
+         1. Ren uorganisk mikronæringsgjødsel
+         2. Sammensatt uorganisk mikronæringsgjødsel
 2. Kalkingsmiddel
-3. JordforbedringsmiddelOrganisk jordforbedringsmiddelUorganisk jordforbedringsmiddel
+3. Jordforbedringsmiddel
+
+   1. Organisk jordforbedringsmiddel
+   2. Uorganisk jordforbedringsmiddel
 4. Dyrkingsmedium
-5. HemmerNitrifikasjonshemmerDenitrifikasjonshemmerUreasehemmer
-6. BiostimulantMikrobiell biostimulantIkke-mikrobiell biostimulant
+5. Hemmer
+
+   1. Nitrifikasjonshemmer
+   2. Denitrifikasjonshemmer
+   3. Ureasehemmer
+6. Biostimulant
+
+   1. Mikrobiell biostimulant
+   2. Ikke-mikrobiell biostimulant
 7. Mekanisk gjødselvareblanding
 
 ### DEL II
@@ -817,7 +1074,10 @@ G. CIAMBA
 
 ►**M1**
 
-5\. Restmengder av et farmakologisk virksomt stoff som definert i europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470)\* kan bare forekomme i en EU-gjødselvare dersom det aktuelle stoffet entener oppført i tabell 1 i vedlegget til kommisjonsforordning [(EU) nr. 37/2010](eu/32010r0037)\*\*, ellerhar en referanseverdi for tiltak fastsatt i samsvar med kommisjonsforordning [(EU) 2019/1871](eu/32019r1871)\*\*\*, og stoffet eller restmengdene av det forekommer i EU-gjødselvaren på et nivå som ligger under denne referanseverdien.
+5\. Restmengder av et farmakologisk virksomt stoff som definert i europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470)\* kan bare forekomme i en EU-gjødselvare dersom det aktuelle stoffet enten
+
+- er oppført i tabell 1 i vedlegget til kommisjonsforordning [(EU) nr. 37/2010](eu/32010r0037)\*\*, eller
+- har en referanseverdi for tiltak fastsatt i samsvar med kommisjonsforordning [(EU) 2019/1871](eu/32019r1871)\*\*\*, og stoffet eller restmengdene av det forekommer i EU-gjødselvaren på et nivå som ligger under denne referanseverdien.
 
 5a. En EU-gjødselvare kan bare inneholde et aktivt stoff i henhold til artikkel 2 nr. 2 i [forordning (EF) nr. 1107/2009](eu/32009r1107) dersom den aktuelle EU-gjødselvaren ikke har en plantevernfunksjon i henhold til artikkel 2 nr. 1 i den forordningen.
 
@@ -825,9 +1085,18 @@ G. CIAMBA
 
 6\. Det skal ikke bevisst tilsettes fosfonater i EU-gjødselvarer. Utilsiktet forekomst av fosfonater skal ikke overstige 0,5 masseprosent
 
-7\. Kravene i dette vedlegget uttrykkes i oksidert form for visse næringsstoffer. Dersom samsvaret vurderes på grunnlag av forekomsten av det aktuelle næringsstoffet i dets elementære form, skal følgende omregningsfaktorer brukes:Fosfor (P) = fosforpentoksid (P2O5) × 0,436Kalium (K) = kaliumoksid (K2O) × 0,830Kalsium (Ca) = kalsiumoksid (CaO) × 0,715Magnesium (Mg) = magnesiumoksid (MgO) × 0,603Natrium (Na) = natriumoksid (Na2O) × 0,742Svovel (S) = svoveltrioksid (SO3) × 0,400
+7\. Kravene i dette vedlegget uttrykkes i oksidert form for visse næringsstoffer. Dersom samsvaret vurderes på grunnlag av forekomsten av det aktuelle næringsstoffet i dets elementære form, skal følgende omregningsfaktorer brukes:
 
-8\. Kravene i dette vedlegget uttrykkes ved henvisning til organisk karbon (Corg). Dersom samsvaret vurderes på grunnlag av organisk materiale, brukes følgende omregningsfaktor:Organisk karbon (Corg) = organisk materiale × 0,56
+- Fosfor (P) = fosforpentoksid (P2O5) × 0,436
+- Kalium (K) = kaliumoksid (K2O) × 0,830
+- Kalsium (Ca) = kalsiumoksid (CaO) × 0,715
+- Magnesium (Mg) = magnesiumoksid (MgO) × 0,603
+- Natrium (Na) = natriumoksid (Na2O) × 0,742
+- Svovel (S) = svoveltrioksid (SO3) × 0,400
+
+8\. Kravene i dette vedlegget uttrykkes ved henvisning til organisk karbon (Corg). Dersom samsvaret vurderes på grunnlag av organisk materiale, brukes følgende omregningsfaktor:
+
+Organisk karbon (Corg) = organisk materiale × 0,56
 
 \* Europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726) (EUT L 152 av 16.6.2009, s. 11).
 
@@ -841,9 +1110,25 @@ En gjødsel skal være en EU-gjødselvare som har som funksjon å tilføre næri
 
 *Produktfunksjonskategori 1.A: ORGANISK GJØDSEL*
 
-1\. En organisk gjødsel skal inneholdeorganisk karbon (Corg) ognæringsstofferav utelukkende biologisk opprinnelse.En organisk gjødsel kan inneholde torv, leonarditt og lignitt, men ikke annet materiale som er fossilert eller innleiret i geologiske formasjoner.
+1\. En organisk gjødsel skal inneholde
 
-2\. Innholdet av forurensende stoffer i en organisk gjødsel må ikke overstige følgende grenseverdier:Kadmium (Cd): 1,5 mg/kg tørrstoffSeksverdig krom (Cr VI): 2 mg/kg tørrstoffKvikksølv (Hg): 1 mg/kg tørrstoffNikkel (Ni): 50 mg/kg tørrstoffBly (Pb): 120 mg/kg tørrstoffUorganisk arsen (As): 40 mg/kg tørrstoffBiuret (C2H5N3O2) må ikke forekomme i en organisk gjødsel.
+- organisk karbon (Corg) og
+- næringsstoffer
+
+av utelukkende biologisk opprinnelse.
+
+En organisk gjødsel kan inneholde torv, leonarditt og lignitt, men ikke annet materiale som er fossilert eller innleiret i geologiske formasjoner.
+
+2\. Innholdet av forurensende stoffer i en organisk gjødsel må ikke overstige følgende grenseverdier:
+
+1. Kadmium (Cd): 1,5 mg/kg tørrstoff
+2. Seksverdig krom (Cr VI): 2 mg/kg tørrstoff
+3. Kvikksølv (Hg): 1 mg/kg tørrstoff
+4. Nikkel (Ni): 50 mg/kg tørrstoff
+5. Bly (Pb): 120 mg/kg tørrstoff
+6. Uorganisk arsen (As): 40 mg/kg tørrstoff
+
+Biuret (C2H5N3O2) må ikke forekomme i en organisk gjødsel.
 
 3\. Innholdet av kobber (Cu) i en organisk gjødsel må ikke overstige 300 mg/kg tørrstoff, og innholdet av sink (Zn) i en organisk gjødsel må ikke overstige 800 mg/kg tørrstoff.
 
@@ -855,13 +1140,32 @@ En gjødsel skal være en EU-gjødselvare som har som funksjon å tilføre næri
 | *Salmonella* spp. | 5 | 0 | 0 | Ingen i 25 g eller 25 ml |
 | ►**M10** *Escherichia coli* eller enterokokker ◄**M10** | 5 | 5 | 0 | 1 000 i 1 g eller 1 ml |
 
-dern = antall prøver som skal testes,c = antall prøver der antallet bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,M = grenseverdien for antall bakterier uttrykt i KDE.
+der
+
+- n = antall prøver som skal testes,
+- c = antall prøver der antallet bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,
+- m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,
+- M = grenseverdien for antall bakterier uttrykt i KDE.
 
 *Produktfunksjonskategori 1.A.I: FAST ORGANISK GJØDSEL*
 
 1\. En fast organisk gjødsel skal være i fast form.
 
-2\. En fast organisk gjødsel skal inneholde minst ett av følgende deklarerte hovednæringsstoffer: nitrogen (N), fosforpentoksid (P2O5) eller kaliumoksid (K2O).Dersom en fast organisk gjødsel bare inneholder ett deklarert hovednæringsstoff, skal innholdet av det næringsstoffet være minst2,5 masseprosent totalnitrogen (N),2 masseprosent totalt fosforpentoksid (P2O5) eller2 masseprosent totalt kaliumoksid (K2O).Dersom en fast organisk gjødsel inneholder mer enn ett deklarert hovednæringsstoff, skal innholdet av disse næringsstoffene være minst1 masseprosent totalnitrogen (N),1 masseprosent totalt fosforpentoksid (P2O5) eller1 masseprosent totalt kaliumoksid (K2O).Summen av innholdet av disse næringsstoffene skal være minst 4 masseprosent.
+2\. En fast organisk gjødsel skal inneholde minst ett av følgende deklarerte hovednæringsstoffer: nitrogen (N), fosforpentoksid (P2O5) eller kaliumoksid (K2O).
+
+Dersom en fast organisk gjødsel bare inneholder ett deklarert hovednæringsstoff, skal innholdet av det næringsstoffet være minst
+
+1. 2,5 masseprosent totalnitrogen (N),
+2. 2 masseprosent totalt fosforpentoksid (P2O5) eller
+3. 2 masseprosent totalt kaliumoksid (K2O).
+
+Dersom en fast organisk gjødsel inneholder mer enn ett deklarert hovednæringsstoff, skal innholdet av disse næringsstoffene være minst
+
+1. 1 masseprosent totalnitrogen (N),
+2. 1 masseprosent totalt fosforpentoksid (P2O5) eller
+3. 1 masseprosent totalt kaliumoksid (K2O).
+
+Summen av innholdet av disse næringsstoffene skal være minst 4 masseprosent.
 
 3\. Innholdet av organisk karbon (Corg) i en fast organisk gjødsel skal være minst 15 masseprosent.
 
@@ -869,17 +1173,52 @@ dern = antall prøver som skal testes,c = antall prøver der antallet bakterier 
 
 1\. En flytende organisk gjødsel skal være i flytende form.
 
-2\. En flytende organisk gjødsel skal inneholde minst ett av følgende deklarerte hovednæringsstoffer: nitrogen (N), fosforpentoksid (P2O5) eller kaliumoksid (K2O).Dersom en flytende organisk gjødsel bare inneholder ett deklarert hovednæringsstoff, skal innholdet av det næringsstoffet være minst2 masseprosent totalnitrogen (N),1 masseprosent totalt fosforpentoksid (P2O5) eller2 masseprosent totalt kaliumoksid (K2O).Dersom en flytende organisk gjødsel inneholder mer enn ett deklarert hovednæringsstoff, skal innholdet av disse næringsstoffene være minst1 masseprosent totalnitrogen (N),1 masseprosent totalt fosforpentoksid (P2O5) eller1 masseprosent totalt kaliumoksid (K2O).Summen av innholdet av disse næringsstoffene skal være minst 3 masseprosent.
+2\. En flytende organisk gjødsel skal inneholde minst ett av følgende deklarerte hovednæringsstoffer: nitrogen (N), fosforpentoksid (P2O5) eller kaliumoksid (K2O).
+
+Dersom en flytende organisk gjødsel bare inneholder ett deklarert hovednæringsstoff, skal innholdet av det næringsstoffet være minst
+
+1. 2 masseprosent totalnitrogen (N),
+2. 1 masseprosent totalt fosforpentoksid (P2O5) eller
+3. 2 masseprosent totalt kaliumoksid (K2O).
+
+Dersom en flytende organisk gjødsel inneholder mer enn ett deklarert hovednæringsstoff, skal innholdet av disse næringsstoffene være minst
+
+1. 1 masseprosent totalnitrogen (N),
+2. 1 masseprosent totalt fosforpentoksid (P2O5) eller
+3. 1 masseprosent totalt kaliumoksid (K2O).
+
+Summen av innholdet av disse næringsstoffene skal være minst 3 masseprosent.
 
 3\. Innholdet av organisk karbon (Corg) i en flytende organisk gjødsel skal være minst 5 masseprosent.
 
 *Produktfunksjonskategori 1.B: ORGANISK-MINERALSK GJØDSEL*
 
-1\. En organisk-mineralsk gjødsel skal være sammensatt aven eller flere uorganiske gjødsler som angitt i produktfunksjonskategori 1.C ogett eller flere materialer som inneholderorganisk karbon (Corg) ognæringsstofferav utelukkende biologisk opprinnelse.En organisk-mineralsk gjødsel kan inneholde torv, leonarditt og lignitt, men ikke annet materiale som er fossilert eller innleiret i geologiske formasjoner.
+1\. En organisk-mineralsk gjødsel skal være sammensatt av
+
+1. en eller flere uorganiske gjødsler som angitt i produktfunksjonskategori 1.C og
+2. ett eller flere materialer som inneholder
+
+   - organisk karbon (Corg) og
+   - næringsstoffer
+
+   av utelukkende biologisk opprinnelse.
+
+En organisk-mineralsk gjødsel kan inneholde torv, leonarditt og lignitt, men ikke annet materiale som er fossilert eller innleiret i geologiske formasjoner.
 
 2\. Dersom en eller flere av de uorganiske gjødslene i sammensetningen er en ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold som angitt i produktfunksjonskategori 1.C.I a) i–ii) A), skal en organisk-mineralsk gjødsel ikke inneholde 16 masseprosent eller mer nitrogen (N) som stammer fra ammoniumnitrat (NH4NO3).
 
-3\. Innholdet av forurensende stoffer i en organisk-mineralsk gjødsel må ikke overstige følgende grenseverdier:Kadmium (Cd):Dersom innholdet av totalfosfor (P) i en organisk-mineralsk gjødsel er mindre enn 5 masseprosent, uttrykt som fosforpentoksid (P2O5): 3 mg/kg tørrstoff.Dersom innholdet av totalfosfor i en organisk-mineralsk gjødsel er på minst 5 masseprosent, uttrykt som fosforpentoksid (P2O5), («fosfatgjødsel»): 60 mg/kg fosforpentoksid (P2O5).Seksverdig krom (Cr VI): 2 mg/kg tørrstoffKvikksølv (Hg): 1 mg/kg tørrstoff.Nikkel (Ni): 50 mg/kg tørrstoffBly (Pb): 120 mg/kg tørrstoffUorganisk arsen (As): 40 mg/kg tørrstoffBiuret (C2H5N3O2): 12 g/kg tørrstoff
+3\. Innholdet av forurensende stoffer i en organisk-mineralsk gjødsel må ikke overstige følgende grenseverdier:
+
+1. Kadmium (Cd):
+
+   1. Dersom innholdet av totalfosfor (P) i en organisk-mineralsk gjødsel er mindre enn 5 masseprosent, uttrykt som fosforpentoksid (P2O5): 3 mg/kg tørrstoff.
+   2. Dersom innholdet av totalfosfor i en organisk-mineralsk gjødsel er på minst 5 masseprosent, uttrykt som fosforpentoksid (P2O5), («fosfatgjødsel»): 60 mg/kg fosforpentoksid (P2O5).
+2. Seksverdig krom (Cr VI): 2 mg/kg tørrstoff
+3. Kvikksølv (Hg): 1 mg/kg tørrstoff.
+4. Nikkel (Ni): 50 mg/kg tørrstoff
+5. Bly (Pb): 120 mg/kg tørrstoff
+6. Uorganisk arsen (As): 40 mg/kg tørrstoff
+7. Biuret (C2H5N3O2): 12 g/kg tørrstoff
 
 4\. Innholdet av kobber (Cu) i en organisk-mineralsk gjødsel må ikke overstige 600 mg/kg tørrstoff, og innholdet av sink (Zn) i en organisk-mineralsk gjødsel må ikke overstige 1 500 mg/kg tørrstoff. Disse grenseverdiene gjelder imidlertid ikke dersom kobber (Cu) eller sink (Zn) er tilsatt bevisst i en organisk-mineralsk gjødsel for å korrigere en mangel på mikronæringsstoffer i jorden og deklareres i samsvar med vedlegg III.
 
@@ -891,13 +1230,32 @@ dern = antall prøver som skal testes,c = antall prøver der antallet bakterier 
 | *Salmonella* spp. | 5 | 0 | 0 | Ingen i 25 g eller 25 ml |
 | ►**M10** *Escherichia coli* eller enterokokker ◄**M10** | 5 | 5 | 0 | 1 000 i 1 g eller 1 ml |
 
-dern = antall prøver som skal testes,c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,M = grenseverdien for antall bakterier uttrykt i KDE.
+der
+
+- n = antall prøver som skal testes,
+- c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,
+- m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,
+- M = grenseverdien for antall bakterier uttrykt i KDE.
 
 *Produktfunksjonskategori 1.B.I: FAST ORGANISK-MINERALSK GJØDSEL*
 
 1\. En fast organisk-mineralsk gjødsel skal være i fast form.
 
-2\. En fast organisk-mineralsk gjødsel skal inneholde minst ett av følgende deklarerte hovednæringsstoffer: nitrogen (N), fosforpentoksid (P2O5) eller kaliumoksid (K2O).Dersom en fast organisk-mineralsk gjødsel bare inneholder ett deklarert hovednæringsstoff, skal innholdet av det næringsstoffet være minst2,5 masseprosent totalnitrogen (N), der 1 masseprosent skal være organisk nitrogen (Norg),2 masseprosent totalt fosforpentoksid (P2O5) eller2 masseprosent totalt kaliumoksid (K2O).Dersom en fast organisk-mineralsk gjødsel inneholder mer enn ett deklarert hovednæringsstoff, skal innholdet av disse næringsstoffene være minst2 masseprosent totalnitrogen (N), der 0,5 masseprosent skal være organisk nitrogen (Norg),2 masseprosent totalt fosforpentoksid (P2O5) eller2 masseprosent totalt kaliumoksid (K2O).Summen av innholdet av disse næringsstoffene skal være minst 8 masseprosent.
+2\. En fast organisk-mineralsk gjødsel skal inneholde minst ett av følgende deklarerte hovednæringsstoffer: nitrogen (N), fosforpentoksid (P2O5) eller kaliumoksid (K2O).
+
+Dersom en fast organisk-mineralsk gjødsel bare inneholder ett deklarert hovednæringsstoff, skal innholdet av det næringsstoffet være minst
+
+1. 2,5 masseprosent totalnitrogen (N), der 1 masseprosent skal være organisk nitrogen (Norg),
+2. 2 masseprosent totalt fosforpentoksid (P2O5) eller
+3. 2 masseprosent totalt kaliumoksid (K2O).
+
+Dersom en fast organisk-mineralsk gjødsel inneholder mer enn ett deklarert hovednæringsstoff, skal innholdet av disse næringsstoffene være minst
+
+1. 2 masseprosent totalnitrogen (N), der 0,5 masseprosent skal være organisk nitrogen (Norg),
+2. 2 masseprosent totalt fosforpentoksid (P2O5) eller
+3. 2 masseprosent totalt kaliumoksid (K2O).
+
+Summen av innholdet av disse næringsstoffene skal være minst 8 masseprosent.
 
 3\. Innholdet av organisk karbon (Corg) i en fast organisk-mineralsk gjødsel skal være minst 7,5 masseprosent.
 
@@ -907,7 +1265,21 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 1\. En flytende organisk-mineralsk gjødsel skal være i flytende form.
 
-2\. En flytende organisk-mineralsk gjødsel skal inneholde minst ett av følgende deklarerte hovednæringsstoffer: nitrogen (N), fosforpentoksid (P2O5) eller kaliumoksid (K2O).Dersom en flytende organisk-mineralsk gjødsel bare inneholder ett deklarert hovednæringsstoff, skal innholdet av det næringsstoffet være minst2 masseprosent totalnitrogen (N), der 0,5 masseprosent skal være organisk nitrogen (Norg),2 masseprosent totalt fosforpentoksid (P2O5) eller2 masseprosent totalt kaliumoksid (K2O).Dersom en flytende organisk-mineralsk gjødsel inneholder mer enn ett deklarert hovednæringsstoff, skal innholdet av disse næringsstoffene være minst2 masseprosent totalnitrogen (N), der 0,5 masseprosent skal være organisk nitrogen (Norg),2 masseprosent totalt fosforpentoksid (P2O5) eller2 masseprosent totalt kaliumoksid (K2O).Summen av innholdet av disse næringsstoffene skal være minst 6 masseprosent.
+2\. En flytende organisk-mineralsk gjødsel skal inneholde minst ett av følgende deklarerte hovednæringsstoffer: nitrogen (N), fosforpentoksid (P2O5) eller kaliumoksid (K2O).
+
+Dersom en flytende organisk-mineralsk gjødsel bare inneholder ett deklarert hovednæringsstoff, skal innholdet av det næringsstoffet være minst
+
+1. 2 masseprosent totalnitrogen (N), der 0,5 masseprosent skal være organisk nitrogen (Norg),
+2. 2 masseprosent totalt fosforpentoksid (P2O5) eller
+3. 2 masseprosent totalt kaliumoksid (K2O).
+
+Dersom en flytende organisk-mineralsk gjødsel inneholder mer enn ett deklarert hovednæringsstoff, skal innholdet av disse næringsstoffene være minst
+
+1. 2 masseprosent totalnitrogen (N), der 0,5 masseprosent skal være organisk nitrogen (Norg),
+2. 2 masseprosent totalt fosforpentoksid (P2O5) eller
+3. 2 masseprosent totalt kaliumoksid (K2O).
+
+Summen av innholdet av disse næringsstoffene skal være minst 6 masseprosent.
 
 3\. Innholdet av organisk karbon (Corg) i en flytende organisk-mineralsk gjødsel skal være minst 3 masseprosent.
 
@@ -915,13 +1287,53 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 1\. En uorganisk gjødsel skal være en annen gjødsel enn en organisk eller organisk-mineralsk gjødsel som inneholder eller frigir næringsstoffer i mineralsk form.
 
-2\. I tillegg til kravene for enten produktfunksjonskategori 1.C.I eller produktfunksjonskategori 1.C.II skal en uorganisk gjødsel som inneholder mer enn 1 masseprosent organisk karbon (Corg), bortsett fra organisk karbon (Corg) frakelat- eller kompleksdannere nevnt i nr. 3 i komponentmaterialkategori 1 i vedlegg II del II,►**M6**nitrifikasjons-, denitrifikasjons- eller ureasehemmende forbindelser nevnt i nr. 4 i komponentmaterialkategori 1 i vedlegg II del II,◄**M6**overflatebehandlingsmidler nevnt i nr. 1 bokstav a) i komponentmaterialkategori 9 i vedlegg II del II,urea (CH4N2O) ellerkalsiumcyanamid (CaCN2),oppfylle kravet om at innholdet av patogener i en uorganisk gjødsel ikke må overstige grenseverdiene angitt i følgende tabell:*Mikroorganismer som det skal testes for**Prøvetakingsplaner**Grenseverdi*Mikroorganismer som det skal testes forncmM*Salmonella* spp.500Ingen i 25 g eller 25 ml►**M10** *Escherichia coli* eller enterokokker ◄**M10**5501 000 i 1 g eller 1 mldern = antall prøver som skal testes,c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,M = grenseverdien for antall bakterier uttrykt i KDE.
+2\. I tillegg til kravene for enten produktfunksjonskategori 1.C.I eller produktfunksjonskategori 1.C.II skal en uorganisk gjødsel som inneholder mer enn 1 masseprosent organisk karbon (Corg), bortsett fra organisk karbon (Corg) fra
+
+- kelat- eller kompleksdannere nevnt i nr. 3 i komponentmaterialkategori 1 i vedlegg II del II,
+
+  ►**M6**
+- nitrifikasjons-, denitrifikasjons- eller ureasehemmende forbindelser nevnt i nr. 4 i komponentmaterialkategori 1 i vedlegg II del II,
+
+  ◄**M6**
+- overflatebehandlingsmidler nevnt i nr. 1 bokstav a) i komponentmaterialkategori 9 i vedlegg II del II,
+- urea (CH4N2O) eller
+- kalsiumcyanamid (CaCN2),
+
+oppfylle kravet om at innholdet av patogener i en uorganisk gjødsel ikke må overstige grenseverdiene angitt i følgende tabell:
+
+| *Mikroorganismer som det skal testes for* | *Prøvetakingsplaner* |  |  | *Grenseverdi* |
+| --- | --- | --- | --- | --- |
+| Mikroorganismer som det skal testes for | n | c | m | M |
+| *Salmonella* spp. | 5 | 0 | 0 | Ingen i 25 g eller 25 ml |
+| ►**M10** *Escherichia coli* eller enterokokker ◄**M10** | 5 | 5 | 0 | 1 000 i 1 g eller 1 ml |
+
+der
+
+- n = antall prøver som skal testes,
+- c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,
+- m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,
+- M = grenseverdien for antall bakterier uttrykt i KDE.
 
 *Produktfunksjonskategori 1.C.I: UORGANISK MAKRONÆRINGSGJØDSEL*
 
-1\. Formålet med en uorganisk makronæringsgjødsel er å tilføre planter eller sopp ett eller flere av følgende makronæringsstoffer:Primære makronæringsstoffer: nitrogen (N), fosfor (P) eller kalium (K).Sekundære makronæringsstoffer: Kalsium (Ca), magnesium (Mg), natrium (Na) eller svovel (S).
+1\. Formålet med en uorganisk makronæringsgjødsel er å tilføre planter eller sopp ett eller flere av følgende makronæringsstoffer:
 
-2\. Innholdet av forurensende stoffer i en uorganisk makronæringsgjødsel må ikke overstige følgende grenseverdier:Kadmium (Cd):Dersom innholdet av totalfosfor (P) i en uorganisk makronæringsgjødsel er mindre enn 5 masseprosent, uttrykt som fosforpentoksid (P2O5): 3 mg/kg tørrstoff.Dersom innholdet av totalfosfor i en uorganisk makronæringsgjødsel er på minst 5 masseprosent, uttrykt som fosforpentoksid (P2O5), («fosfatgjødsel»): 60 mg/kg fosforpentoksid (P2O5).Seksverdig krom (Cr VI): 2 mg/kg tørrstoffKvikksølv (Hg): 1 mg/kg tørrstoffNikkel (Ni): 100 mg/kg tørrstoffBly (Pb): 120 mg/kg tørrstoffArsen (As): 40 mg/kg tørrstoffBiuret (C2H5N3O2): 12 g/kg tørrstoffPerklorat (ClO4-): 50 mg/kg tørrstoff
+1. Primære makronæringsstoffer: nitrogen (N), fosfor (P) eller kalium (K).
+2. Sekundære makronæringsstoffer: Kalsium (Ca), magnesium (Mg), natrium (Na) eller svovel (S).
+
+2\. Innholdet av forurensende stoffer i en uorganisk makronæringsgjødsel må ikke overstige følgende grenseverdier:
+
+1. Kadmium (Cd):
+
+   1. Dersom innholdet av totalfosfor (P) i en uorganisk makronæringsgjødsel er mindre enn 5 masseprosent, uttrykt som fosforpentoksid (P2O5): 3 mg/kg tørrstoff.
+   2. Dersom innholdet av totalfosfor i en uorganisk makronæringsgjødsel er på minst 5 masseprosent, uttrykt som fosforpentoksid (P2O5), («fosfatgjødsel»): 60 mg/kg fosforpentoksid (P2O5).
+2. Seksverdig krom (Cr VI): 2 mg/kg tørrstoff
+3. Kvikksølv (Hg): 1 mg/kg tørrstoff
+4. Nikkel (Ni): 100 mg/kg tørrstoff
+5. Bly (Pb): 120 mg/kg tørrstoff
+6. Arsen (As): 40 mg/kg tørrstoff
+7. Biuret (C2H5N3O2): 12 g/kg tørrstoff
+8. Perklorat (ClO4-): 50 mg/kg tørrstoff
 
 3\. Innholdet av kobber (Cu) i en uorganisk makronæringsgjødsel må ikke overstige 600 mg/kg tørrstoff, og innholdet av sink (Zn) i en uorganisk makronæringsgjødsel må ikke overstige 1 500 mg/kg tørrstoff. Disse grenseverdiene gjelder imidlertid ikke dersom kobber (Cu) eller sink (Zn) er tilsatt bevisst i en uorganisk makronæringsgjødsel for å korrigere en mangel på mikronæringsstoffer i jorden og deklareres i samsvar med vedlegg III.
 
@@ -931,15 +1343,65 @@ En fast uorganisk makronæringsgjødsel skal være i fast form.
 
 *Produktfunksjonskategori 1.C.I a) i): REN FAST UORGANISK MAKRONÆRINGSGJØDSEL*
 
-1\. En ren fast uorganisk makronæringsgjødsel skal ha et deklarert innhold avbare ett makronæringsstoff (nitrogen (N), fosfor (P), kalium (K), kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)) ellerbare ett primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) og et eller flere sekundære makronæringsstoffer (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)).
+1\. En ren fast uorganisk makronæringsgjødsel skal ha et deklarert innhold av
 
-2\. Dersom en ren fast uorganisk makronæringsgjødsel bare inneholder ett deklarert makronæringsstoff (nitrogen (N), fosfor (P), kalium (K), kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)), skal innholdet av det makronæringsstoffet være minst10 masseprosent totalnitrogen (N),12 masseprosent totalt fosforpentoksid (P2O5),6 masseprosent totalt kaliumoksid (K2O),5 masseprosent totalt magnesiumoksid (MgO),►**M7**9 masseprosent totalt kalsiumoksid (CaO),◄**M7**10 masseprosent totalt svoveltrioksid (SO3) eller1 masseprosent totalt natriumoksid (Na2O).Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 40 masseprosent.Dersom en ren fast uorganisk makronæringsgjødsel bare inneholder ett deklarert primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) og ett eller flere deklarerte sekundære makronæringsstoffer (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)),skal innholdet av det deklarerte makronæringsstoffet være minst3 masseprosent totalnitrogen (N),3 masseprosent totalt fosforpentoksid (P2O5) eller3 masseprosent totalt kaliumoksid (K2O).skal innholdet av det eller de sekundære makronæringsstoffene være minst1,5 masseprosent totalt magnesiumoksid (MgO),1,5 masseprosent totalt kalsiumoksid (CaO),1,5 masseprosent totalt svoveltrioksid (SO3) eller1 masseprosent totalt natriumoksid (Na2O).Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 40 masseprosent.Summen av innholdet av alle deklarerte primære og sekundære makronæringsstoffer skal være minst 18 masseprosent.
+1. bare ett makronæringsstoff (nitrogen (N), fosfor (P), kalium (K), kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)) eller
+2. bare ett primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) og et eller flere sekundære makronæringsstoffer (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)).
+
+2\. Dersom en ren fast uorganisk makronæringsgjødsel bare inneholder ett deklarert makronæringsstoff (nitrogen (N), fosfor (P), kalium (K), kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)), skal innholdet av det makronæringsstoffet være minst
+
+1. 10 masseprosent totalnitrogen (N),
+2. 12 masseprosent totalt fosforpentoksid (P2O5),
+3. 6 masseprosent totalt kaliumoksid (K2O),
+4. 5 masseprosent totalt magnesiumoksid (MgO),
+
+   ►**M7**
+5. 9 masseprosent totalt kalsiumoksid (CaO),
+
+   ◄**M7**
+6. 10 masseprosent totalt svoveltrioksid (SO3) eller
+7. 1 masseprosent totalt natriumoksid (Na2O).
+
+Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 40 masseprosent.
+
+Dersom en ren fast uorganisk makronæringsgjødsel bare inneholder ett deklarert primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) og ett eller flere deklarerte sekundære makronæringsstoffer (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)),
+
+1. skal innholdet av det deklarerte makronæringsstoffet være minst
+
+   1. 3 masseprosent totalnitrogen (N),
+   2. 3 masseprosent totalt fosforpentoksid (P2O5) eller
+   3. 3 masseprosent totalt kaliumoksid (K2O).
+2. skal innholdet av det eller de sekundære makronæringsstoffene være minst
+
+   1. 1,5 masseprosent totalt magnesiumoksid (MgO),
+   2. 1,5 masseprosent totalt kalsiumoksid (CaO),
+   3. 1,5 masseprosent totalt svoveltrioksid (SO3) eller
+   4. 1 masseprosent totalt natriumoksid (Na2O).
+
+Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 40 masseprosent.
+
+Summen av innholdet av alle deklarerte primære og sekundære makronæringsstoffer skal være minst 18 masseprosent.
 
 *Produktfunksjonskategori 1.C.I a) ii): SAMMENSATT FAST UORGANISK MAKRONÆRINGSGJØDSEL*
 
-1\. En sammensatt fast uorganisk makronæringsgjødsel skal ha et deklarert innhold avmer enn ett primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) ellermer enn ett sekundært makronæringsstoff (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)) og ingen primære makronæringsstoffer (nitrogen (N), fosfor (P), kalium (K)).
+1\. En sammensatt fast uorganisk makronæringsgjødsel skal ha et deklarert innhold av
 
-2\. En sammensatt fast uorganisk makronæringsgjødsel skal inneholde mer enn ett av følgende deklarerte makronæringsstoffer i minst følgende innhold:3 masseprosent totalnitrogen (N),3 masseprosent totalt fosforpentoksid (P2O5),3 masseprosent totalt kaliumoksid (K2O),1,5 masseprosent totalt magnesiumoksid (MgO),1,5 masseprosent totalt kalsiumoksid (CaO),1,5 masseprosent totalt svoveltrioksid (SO3) eller1 masseprosent totalt natriumoksid (Na2O).Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 40 masseprosent.Summen av innholdet av alle deklarerte makronæringsstoffer skal være minst 18 masseprosent.
+1. mer enn ett primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) eller
+2. mer enn ett sekundært makronæringsstoff (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)) og ingen primære makronæringsstoffer (nitrogen (N), fosfor (P), kalium (K)).
+
+2\. En sammensatt fast uorganisk makronæringsgjødsel skal inneholde mer enn ett av følgende deklarerte makronæringsstoffer i minst følgende innhold:
+
+1. 3 masseprosent totalnitrogen (N),
+2. 3 masseprosent totalt fosforpentoksid (P2O5),
+3. 3 masseprosent totalt kaliumoksid (K2O),
+4. 1,5 masseprosent totalt magnesiumoksid (MgO),
+5. 1,5 masseprosent totalt kalsiumoksid (CaO),
+6. 1,5 masseprosent totalt svoveltrioksid (SO3) eller
+7. 1 masseprosent totalt natriumoksid (Na2O).
+
+Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 40 masseprosent.
+
+Summen av innholdet av alle deklarerte makronæringsstoffer skal være minst 18 masseprosent.
 
 *Produktfunksjonskategori 1.C.I a) i–ii) A): REN ELLER SAMMENSATT FAST UORGANISK AMMONIUMNITRATGJØDSEL MED MAKRONÆRINGSSTOFFER OG HØYT NITROGENINNHOLD*
 
@@ -951,9 +1413,17 @@ En fast uorganisk makronæringsgjødsel skal være i fast form.
 
 4\. Oljeabsorpsjonen i en ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold etter to varmesykluser som beskrevet i vedlegg IV del II modul A1 nr. 4.1 må ikke overstige 4 masseprosent.
 
-5\. Detonerbarheten for en ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold skal være slik atetter fem varmesykluser som beskrevet i vedlegg IV del II modul A1 nr. 4.3,i to detonerbarhetstester som beskrevet i vedlegg IV del II modul A1 nr. 4.4,sammentrykkes en eller flere av de understøttende blysylindrene mindre enn 5 %.
+5\. Detonerbarheten for en ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold skal være slik at
 
-6\. Masseprosenten av brennbart materiale målt som karbon (C) må ikke overstige0,2 % for en ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold med et innhold av nitrogen (N) på minst 31,5 masseprosent og0,4 % for en ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold med et innhold av nitrogen (N) på minst 28 masseprosent, men under 31,5 masseprosent.
+- etter fem varmesykluser som beskrevet i vedlegg IV del II modul A1 nr. 4.3,
+- i to detonerbarhetstester som beskrevet i vedlegg IV del II modul A1 nr. 4.4,
+
+sammentrykkes en eller flere av de understøttende blysylindrene mindre enn 5 %.
+
+6\. Masseprosenten av brennbart materiale målt som karbon (C) må ikke overstige
+
+- 0,2 % for en ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold med et innhold av nitrogen (N) på minst 31,5 masseprosent og
+- 0,4 % for en ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold med et innhold av nitrogen (N) på minst 28 masseprosent, men under 31,5 masseprosent.
 
 7\. En løsning med 10 g av en ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold i 100 ml vann må ha en pH-verdi på minst 4,5.
 
@@ -967,15 +1437,61 @@ En flytende uorganisk makronæringsgjødsel skal være i flytende form.
 
 *Produktfunksjonskategori 1.C.I b) i): REN FLYTENDE UORGANISK MAKRONÆRINGSGJØDSEL*
 
-1\. En ren flytende uorganisk makronæringsgjødsel skal ha et deklarert innhold avbare ett makronæringsstoff (nitrogen (N), fosfor (P), kalium (K), kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)) ellerbare ett primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) og et eller flere sekundære makronæringsstoffer (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)).
+1\. En ren flytende uorganisk makronæringsgjødsel skal ha et deklarert innhold av
 
-2\. Dersom en ren flytende uorganisk makronæringsgjødsel bare inneholder ett deklarert makronæringsstoff (nitrogen (N), fosfor (P), kalium (K), kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)), skal innholdet av det makronæringsstoffet være minst5 masseprosent totalnitrogen (N),5 masseprosent totalt fosforpentoksid (P2O5),3 masseprosent totalt kaliumoksid (K2O),2 masseprosent totalt magnesiumoksid (MgO),6 masseprosent totalt kalsiumoksid (CaO),5 masseprosent totalt svoveltrioksid (SO3) eller1 masseprosent totalt natriumoksid (Na2O).Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 40 masseprosent.Dersom en ren flytende uorganisk makronæringsgjødsel bare inneholder ett deklarert primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) og ett eller flere deklarerte sekundære makronæringsstoffer (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)),skal innholdet av det deklarerte makronæringsstoffet være minst1,5 masseprosent totalnitrogen (N),1,5 masseprosent totalt fosforpentoksid (P2O5) eller1,5 masseprosent totalt kaliumoksid (K2O), ogskal innholdet av det eller de sekundære makronæringsstoffene være minst0,75 masseprosent totalt magnesiumoksid (MgO),0,75 masseprosent totalt kalsiumoksid (CaO),0,75 masseprosent totalt svoveltrioksid (SO3) eller0,5 masseprosent totalt natriumoksid (Na2O).Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 20 masseprosent.Summen av innholdet av alle deklarerte primære og sekundære makronæringsstoffer skal være minst 7 masseprosent.
+1. bare ett makronæringsstoff (nitrogen (N), fosfor (P), kalium (K), kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)) eller
+2. bare ett primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) og et eller flere sekundære makronæringsstoffer (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)).
+
+2\. Dersom en ren flytende uorganisk makronæringsgjødsel bare inneholder ett deklarert makronæringsstoff (nitrogen (N), fosfor (P), kalium (K), kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)), skal innholdet av det makronæringsstoffet være minst
+
+1. 5 masseprosent totalnitrogen (N),
+2. 5 masseprosent totalt fosforpentoksid (P2O5),
+3. 3 masseprosent totalt kaliumoksid (K2O),
+4. 2 masseprosent totalt magnesiumoksid (MgO),
+5. 6 masseprosent totalt kalsiumoksid (CaO),
+6. 5 masseprosent totalt svoveltrioksid (SO3) eller
+7. 1 masseprosent totalt natriumoksid (Na2O).
+
+Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 40 masseprosent.
+
+Dersom en ren flytende uorganisk makronæringsgjødsel bare inneholder ett deklarert primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) og ett eller flere deklarerte sekundære makronæringsstoffer (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)),
+
+1. skal innholdet av det deklarerte makronæringsstoffet være minst
+
+   1. 1,5 masseprosent totalnitrogen (N),
+   2. 1,5 masseprosent totalt fosforpentoksid (P2O5) eller
+   3. 1,5 masseprosent totalt kaliumoksid (K2O), og
+2. skal innholdet av det eller de sekundære makronæringsstoffene være minst
+
+   1. 0,75 masseprosent totalt magnesiumoksid (MgO),
+   2. 0,75 masseprosent totalt kalsiumoksid (CaO),
+   3. 0,75 masseprosent totalt svoveltrioksid (SO3) eller
+   4. 0,5 masseprosent totalt natriumoksid (Na2O).
+
+Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 20 masseprosent.
+
+Summen av innholdet av alle deklarerte primære og sekundære makronæringsstoffer skal være minst 7 masseprosent.
 
 *Produktfunksjonskategori 1.C.I b) ii): SAMMENSATT FLYTENDE UORGANISK MAKRONÆRINGSGJØDSEL*
 
-1\. En sammensatt flytende uorganisk makronæringsgjødsel skal ha et deklarert innhold avmer enn ett primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) ellermer enn ett sekundært makronæringsstoff (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)) og ingen primære makronæringsstoffer (nitrogen (N), fosfor (P), kalium (K)).
+1\. En sammensatt flytende uorganisk makronæringsgjødsel skal ha et deklarert innhold av
 
-2\. En sammensatt flytende uorganisk makronæringsgjødsel skal inneholde mer enn ett av følgende deklarerte stoffer i minst følgende innhold:1,5 masseprosent totalnitrogen (N),1,5 masseprosent totalt fosforpentoksid (P2O5),1,5 masseprosent totalt kaliumoksid (K2O),0,75 masseprosent totalt magnesiumoksid (MgO),0,75 masseprosent totalt kalsiumoksid (CaO),0,75 masseprosent totalt svoveltrioksid (SO3) eller0,5 masseprosent totalt natriumoksid (Na2O).Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 20 masseprosent.Summen av innholdet av alle deklarerte næringsstoffer skal være minst 7 masseprosent.
+1. mer enn ett primært makronæringsstoff (nitrogen (N), fosfor (P), kalium (K)) eller
+2. mer enn ett sekundært makronæringsstoff (kalsium (Ca), magnesium (Mg), natrium (Na), svovel (S)) og ingen primære makronæringsstoffer (nitrogen (N), fosfor (P), kalium (K)).
+
+2\. En sammensatt flytende uorganisk makronæringsgjødsel skal inneholde mer enn ett av følgende deklarerte stoffer i minst følgende innhold:
+
+1. 1,5 masseprosent totalnitrogen (N),
+2. 1,5 masseprosent totalt fosforpentoksid (P2O5),
+3. 1,5 masseprosent totalt kaliumoksid (K2O),
+4. 0,75 masseprosent totalt magnesiumoksid (MgO),
+5. 0,75 masseprosent totalt kalsiumoksid (CaO),
+6. 0,75 masseprosent totalt svoveltrioksid (SO3) eller
+7. 0,5 masseprosent totalt natriumoksid (Na2O).
+
+Innholdet av totalt natriumoksid (Na2O) skal imidlertid ikke overstige 20 masseprosent.
+
+Summen av innholdet av alle deklarerte næringsstoffer skal være minst 7 masseprosent.
 
 *Produktfunksjonskategori 1.C.II: UORGANISK MIKRONÆRINGSGJØDSEL*
 
@@ -1017,17 +1533,33 @@ En flytende uorganisk makronæringsgjødsel skal være i flytende form.
 
 1\. En sammensatt uorganisk mikronæringsgjødsel skal ha et deklarert innhold av mer enn ett mikronæringsstoff.
 
-2\. Summen av innholdet av alle deklarerte mikronæringsstoffer i en sammensatt mikronæringsgjødsel skal være minst2 masseprosent for gjødsel i flytende form,5 masseprosent for gjødsel i fast form.
+2\. Summen av innholdet av alle deklarerte mikronæringsstoffer i en sammensatt mikronæringsgjødsel skal være minst
+
+1. 2 masseprosent for gjødsel i flytende form,
+2. 5 masseprosent for gjødsel i fast form.
 
 ###### Produktfunksjonskategori 2: KALKINGSMIDDEL
 
-1\. Et kalkingsmiddel er en EU-gjødselvare som har som funksjon å korrigere jordens surhetsgrad.Et kalkingsmiddel skal inneholde oksider, hydroksider, karbonater eller silikater av næringsstoffene kalsium (Ca) eller magnesium (Mg).
+1\. Et kalkingsmiddel er en EU-gjødselvare som har som funksjon å korrigere jordens surhetsgrad.
 
-2\. Innholdet av forurensende stoffer i et kalkingsmiddel må ikke overstige følgende grenseverdier:Kadmium (Cd): 2 mg/kg tørrstoffSeksverdig krom (Cr VI): 2 mg/kg tørrstoffKvikksølv (Hg): 1 mg/kg tørrstoffNikkel (Ni): 90 mg/kg tørrstoffBly (Pb): 120 mg/kg tørrstoffArsen (As): 40 mg/kg tørrstoff
+Et kalkingsmiddel skal inneholde oksider, hydroksider, karbonater eller silikater av næringsstoffene kalsium (Ca) eller magnesium (Mg).
+
+2\. Innholdet av forurensende stoffer i et kalkingsmiddel må ikke overstige følgende grenseverdier:
+
+1. Kadmium (Cd): 2 mg/kg tørrstoff
+2. Seksverdig krom (Cr VI): 2 mg/kg tørrstoff
+3. Kvikksølv (Hg): 1 mg/kg tørrstoff
+4. Nikkel (Ni): 90 mg/kg tørrstoff
+5. Bly (Pb): 120 mg/kg tørrstoff
+6. Arsen (As): 40 mg/kg tørrstoff
 
 3\. Innholdet av kobber (Cu) i et kalkingsmiddel må ikke overstige 300 mg/kg tørrstoff, og innholdet av sink (Zn) i et kalkingsmiddel må ikke overstige 800 mg/kg tørrstoff.
 
-4\. Følgende parametrer fastsatt på grunnlag av et kalkingsmiddels masse skal være oppfylt:Minste nøytraliserende verdi: 15 (CaO-ekvivalent) eller 9 (HO--ekvivalent).Minimumsaktivitet: 10 % (saltsyretest) eller 50 % etter seks måneder (inkubasjonstest).Minste kornstørrelse: minst 70 % < 1 mm, bortsett fra brent kalk, granulert kalkingsmiddel og kritt (minst 70 % av kalkingsmiddelet skal kunne passere gjennom en sikt med en maskestørrelse på 1 mm).
+4\. Følgende parametrer fastsatt på grunnlag av et kalkingsmiddels masse skal være oppfylt:
+
+1. Minste nøytraliserende verdi: 15 (CaO-ekvivalent) eller 9 (HO--ekvivalent).
+2. Minimumsaktivitet: 10 % (saltsyretest) eller 50 % etter seks måneder (inkubasjonstest).
+3. Minste kornstørrelse: minst 70 % < 1 mm, bortsett fra brent kalk, granulert kalkingsmiddel og kritt (minst 70 % av kalkingsmiddelet skal kunne passere gjennom en sikt med en maskestørrelse på 1 mm).
 
 ###### Produktfunksjonskategori 3: JORDFORBEDRINGSMIDDEL
 
@@ -1035,9 +1567,18 @@ Et jordforbedringsmiddel er en EU-gjødselvare som har som funksjon å opprettho
 
 *Produktfunksjonskategori 3.A: ORGANISK JORDFORBEDRINGSMIDDEL*
 
-1\. Et organisk jordforbedringsmiddel skal bestå av materiale der 95 % er av utelukkende biologisk opprinnelse.Et organisk jordforbedringsmiddel kan inneholde torv, leonarditt og lignitt, men ikke annet materiale som er fossilert eller innleiret i geologiske formasjoner.
+1\. Et organisk jordforbedringsmiddel skal bestå av materiale der 95 % er av utelukkende biologisk opprinnelse.
 
-2\. Innholdet av forurensende stoffer i et organisk jordforbedringsmiddel må ikke overstige følgende grenseverdier:Kadmium (Cd): 2 mg/kg tørrstoffSeksverdig krom (Cr VI): 2 mg/kg tørrstoffKvikksølv (Hg): 1 mg/kg tørrstoffNikkel (Ni): 50 mg/kg tørrstoffBly (Pb): 120 mg/kg tørrstoffUorganisk arsen (As): 40 mg/kg tørrstoff
+Et organisk jordforbedringsmiddel kan inneholde torv, leonarditt og lignitt, men ikke annet materiale som er fossilert eller innleiret i geologiske formasjoner.
+
+2\. Innholdet av forurensende stoffer i et organisk jordforbedringsmiddel må ikke overstige følgende grenseverdier:
+
+1. Kadmium (Cd): 2 mg/kg tørrstoff
+2. Seksverdig krom (Cr VI): 2 mg/kg tørrstoff
+3. Kvikksølv (Hg): 1 mg/kg tørrstoff
+4. Nikkel (Ni): 50 mg/kg tørrstoff
+5. Bly (Pb): 120 mg/kg tørrstoff
+6. Uorganisk arsen (As): 40 mg/kg tørrstoff
 
 3\. Innholdet av kobber (Cu) i et organisk jordforbedringsmiddel må ikke overstige 300 mg/kg tørrstoff, og innholdet av sink (Zn) i et organisk jordforbedringsmiddel må ikke overstige 800 mg/kg tørrstoff.
 
@@ -1049,7 +1590,12 @@ Et jordforbedringsmiddel er en EU-gjødselvare som har som funksjon å opprettho
 | *Salmonella* spp. | 5 | 0 | 0 | Ingen i 25 g eller 25 ml |
 | ►**M10** *Escherichia coli* eller enterokokker ◄**M10** | 5 | 5 | 0 | 1 000 i 1 g eller 1 ml |
 
-dern = antall prøver som skal testes,c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,M = grenseverdien for antall bakterier uttrykt i KDE.
+der
+
+- n = antall prøver som skal testes,
+- c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,
+- m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,
+- M = grenseverdien for antall bakterier uttrykt i KDE.
 
 5\. Et organisk jordforbedringsmiddel skal inneholde minst 20 % tørrstoff.
 
@@ -1059,7 +1605,14 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 1\. Et uorganisk jordforbedringsmiddel skal være et annet jordforbedringsmiddel enn et organisk jordforbedringsmiddel.
 
-2\. Innholdet av forurensende stoffer i et uorganisk jordforbedringsmiddel må ikke overstige følgende grenseverdier:Kadmium (Cd): 1,5 mg/kg tørrstoffSeksverdig krom (Cr VI): 2 mg/kg tørrstoffKvikksølv (Hg): 1 mg/kg tørrstoffNikkel (Ni): 100 mg/kg tørrstoffBly (Pb): 120 mg/kg tørrstoffUorganisk arsen (As): 40 mg/kg tørrstoff
+2\. Innholdet av forurensende stoffer i et uorganisk jordforbedringsmiddel må ikke overstige følgende grenseverdier:
+
+1. Kadmium (Cd): 1,5 mg/kg tørrstoff
+2. Seksverdig krom (Cr VI): 2 mg/kg tørrstoff
+3. Kvikksølv (Hg): 1 mg/kg tørrstoff
+4. Nikkel (Ni): 100 mg/kg tørrstoff
+5. Bly (Pb): 120 mg/kg tørrstoff
+6. Uorganisk arsen (As): 40 mg/kg tørrstoff
 
 3\. Innholdet av kobber (Cu) i et uorganisk jordforbedringsmiddel må ikke overstige 300 mg/kg tørrstoff, og innholdet av sink (Zn) i et uorganisk jordforbedringsmiddel må ikke overstige 800 mg/kg tørrstoff.
 
@@ -1073,15 +1626,29 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 | *Salmonella* spp. | 5 | 0 | 0 | Ingen i 25 g eller 25 ml |
 | ►**M10** *Escherichia coli* eller enterokokker ◄**M10** | 5 | 5 | 0 | 1 000 i 1 g eller 1 ml |
 
-dern = antall prøver som skal testes,c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,M = grenseverdien for antall bakterier uttrykt i KDE.
+der
+
+- n = antall prøver som skal testes,
+- c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,
+- m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,
+- M = grenseverdien for antall bakterier uttrykt i KDE.
 
 ◄**M1**
 
 ###### Produktfunksjonskategori 4: DYRKINGSMEDIUM
 
-1\. Et dyrkingsmedium er en annen EU-gjødselvare enn jord in situ som har som funksjon å fungere som voksemedium for planter eller sopp.Med henblikk på dette nummeret omfatter planter også alger.
+1\. Et dyrkingsmedium er en annen EU-gjødselvare enn jord in situ som har som funksjon å fungere som voksemedium for planter eller sopp.
 
-2\. Innholdet av forurensende stoffer i et dyrkingsmedium må ikke overstige følgende grenseverdier:Kadmium (Cd): 1,5 mg/kg tørrstoffSeksverdig krom (Cr VI): 2 mg/kg tørrstoffKvikksølv (Hg): 1 mg/kg tørrstoffNikkel (Ni): 50 mg/kg tørrstoffBly (Pb): 120 mg/kg tørrstoffUorganisk arsen (As): 40 mg/kg tørrstoff
+Med henblikk på dette nummeret omfatter planter også alger.
+
+2\. Innholdet av forurensende stoffer i et dyrkingsmedium må ikke overstige følgende grenseverdier:
+
+1. Kadmium (Cd): 1,5 mg/kg tørrstoff
+2. Seksverdig krom (Cr VI): 2 mg/kg tørrstoff
+3. Kvikksølv (Hg): 1 mg/kg tørrstoff
+4. Nikkel (Ni): 50 mg/kg tørrstoff
+5. Bly (Pb): 120 mg/kg tørrstoff
+6. Uorganisk arsen (As): 40 mg/kg tørrstoff
 
 ►**M1**
 
@@ -1099,7 +1666,12 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 | *Salmonella* spp. | 5 | 0 | 0 | Ingen i 25 g eller 25 ml |
 | ►**M10** *Escherichia coli* eller enterokokker ◄**M10** | 5 | 5 | 0 | 1 000 i 1 g eller 1 ml |
 
-dern = antall prøver som skal testes,c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,M = grenseverdien for antall bakterier uttrykt i KDE.
+der
+
+- n = antall prøver som skal testes,
+- c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,
+- m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,
+- M = grenseverdien for antall bakterier uttrykt i KDE.
 
 ###### Produktfunksjonskategori 5: HEMMER
 
@@ -1109,7 +1681,12 @@ En hemmer er en EU-gjødselvare som har som funksjon å forbedre næringsstoffut
 
 1\. En nitrifikasjonshemmer skal hemme den biologiske oksidasjonen av ammoniumnitrogen (NH3-N) til nitrittnitrogen (NO2-) og dermed bremse danningen av nitratnitrogen (NO3-).
 
-2\. Oksidasjonshastigheten for ammoniumnitrogen (NH3-N) skal måles vedforsvinning av ammoniumnitrogen (NH3-N) ellersummen av danningen av nitrittnitrogen (NO2-) og nitratnitrogen (NO3-) i et visst tidsrom.Sammenlignet med en kontrollprøve der nitrifikasjonshemmeren ikke er tilsatt, skal en jordprøve som inneholder nitrifikasjonshemmeren, vise en reduksjon på 20 % av oksidasjonshastigheten for ammoniumnitrogen (NH3-N) på grunnlag av en analyse som foretas 14 dager etter anvendelsen ved et konfidensnivå på 95 %.
+2\. Oksidasjonshastigheten for ammoniumnitrogen (NH3-N) skal måles ved
+
+1. forsvinning av ammoniumnitrogen (NH3-N) eller
+2. summen av danningen av nitrittnitrogen (NO2-) og nitratnitrogen (NO3-) i et visst tidsrom.
+
+Sammenlignet med en kontrollprøve der nitrifikasjonshemmeren ikke er tilsatt, skal en jordprøve som inneholder nitrifikasjonshemmeren, vise en reduksjon på 20 % av oksidasjonshastigheten for ammoniumnitrogen (NH3-N) på grunnlag av en analyse som foretas 14 dager etter anvendelsen ved et konfidensnivå på 95 %.
 
 *Produktfunksjonskategori 5.B: DENITRIFIKASJONSHEMMER*
 
@@ -1125,9 +1702,21 @@ En hemmer er en EU-gjødselvare som har som funksjon å forbedre næringsstoffut
 
 ###### Produktfunksjonskategori 6: BIOSTIMULANT
 
-1\. En biostimulant er en EU-gjødselvare som har som funksjon å stimulere planters næringsprosesser uavhengig av varens næringsinnhold, og som bare har som formål å forbedre en eller flere av følgende egenskaper ved planten eller plantens rhizosfære:Næringsstoffutnyttelse.Toleranse overfor abiotisk stress.Kvalitetsegenskaper.Tilgjengeligheten av næringsstoffer i jorden eller rhizosfæren.
+1\. En biostimulant er en EU-gjødselvare som har som funksjon å stimulere planters næringsprosesser uavhengig av varens næringsinnhold, og som bare har som formål å forbedre en eller flere av følgende egenskaper ved planten eller plantens rhizosfære:
 
-2\. Innholdet av forurensende stoffer i en biostimulant må ikke overstige følgende grenseverdier:Kadmium (Cd): 1,5 mg/kg tørrstoffSeksverdig krom (Cr VI): 2 mg/kg tørrstoffBly (Pb): 120 mg/kg tørrstoffKvikksølv (Hg): 1 mg/kg tørrstoffNikkel (Ni): 50 mg/kg tørrstoffUorganisk arsen (As): 40 mg/kg tørrstoff
+1. Næringsstoffutnyttelse.
+2. Toleranse overfor abiotisk stress.
+3. Kvalitetsegenskaper.
+4. Tilgjengeligheten av næringsstoffer i jorden eller rhizosfæren.
+
+2\. Innholdet av forurensende stoffer i en biostimulant må ikke overstige følgende grenseverdier:
+
+1. Kadmium (Cd): 1,5 mg/kg tørrstoff
+2. Seksverdig krom (Cr VI): 2 mg/kg tørrstoff
+3. Bly (Pb): 120 mg/kg tørrstoff
+4. Kvikksølv (Hg): 1 mg/kg tørrstoff
+5. Nikkel (Ni): 50 mg/kg tørrstoff
+6. Uorganisk arsen (As): 40 mg/kg tørrstoff
 
 3\. Innholdet av kobber (Cu) i en biostimulant må ikke overstige 600 mg/kg tørrstoff, og innholdet av sink (Zn) i en biostimulant må ikke overstige 1 500 mg/kg tørrstoff.
 
@@ -1152,7 +1741,10 @@ En hemmer er en EU-gjødselvare som har som funksjon å forbedre næringsstoffut
 | Anaerobt kimtall, med mindre den mikrobiologiske biostimulanten er en aerob bakterie | 5 | 2 | 105 KDE/g eller ml |
 | Innhold av gjær og mugg, med mindre den mikrobielle biostimulanten er en sopp | 5 | 2 | 1 000 KDE/g eller ml |
 
-dern = antall enheter som prøven består av,c = antall prøveenheter med verdier over den fastsatte grenseverdien.
+der
+
+- n = antall enheter som prøven består av,
+- c = antall prøveenheter med verdier over den fastsatte grenseverdien.
 
 3\. Dersom den mikrobielle biostimulanten er i flytende form, skal den ha en pH som er optimal for innesluttede mikroorganismer og for planter.
 
@@ -1168,7 +1760,12 @@ dern = antall enheter som prøven består av,c = antall prøveenheter med verdie
 | *Salmonella* spp. | 5 | 0 | 0 | Ingen i 25 g eller 25 ml |
 | ►**M10** *Escherichia coli* eller enterokokker ◄**M10** | 5 | 5 | 0 | 1 000 i 1 g eller 1 ml |
 
-dern = antall prøver som skal testes,c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,M = grenseverdien for antall bakterier uttrykt i KDE.
+der
+
+- n = antall prøver som skal testes,
+- c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,
+- m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,
+- M = grenseverdien for antall bakterier uttrykt i KDE.
 
 ###### Produktfunksjonskategori 7: MEKANISK GJØDSELVAREBLANDING
 
@@ -1187,7 +1784,11 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 1. utarbeide en EU-samsvarserklæring for den mekaniske gjødselvareblandingen i samsvar med artikkel 6 nr. 2 i denne forordningen og
 2. ha en EU-samsvarserklæring for hver av EU-gjødselvarekomponentene.
 
-4\. Markedsdeltakere som gjør mekaniske gjødselvareblandinger tilgjengelige på markedet, skal overholde følgende bestemmelser i denne forordningen om EU-samsvarserklæringen for hver EU-gjødselvarekomponent samt for den mekaniske blandingen:Artikkel 6 nr. 3 (produsentens forpliktelse til å oppbevare EU-samsvarserklæringen).Artikkel 7 nr. 2 bokstav a) (representanters forpliktelse til å oppbevare EU-samsvarserklæringen).Artikkel 8 nr. 8 (importørers forpliktelse til å oppbevare en kopi av EU-samsvarserklæringen som kan stilles til rådighet for markedstilsynsmyndigheter).
+4\. Markedsdeltakere som gjør mekaniske gjødselvareblandinger tilgjengelige på markedet, skal overholde følgende bestemmelser i denne forordningen om EU-samsvarserklæringen for hver EU-gjødselvarekomponent samt for den mekaniske blandingen:
+
+1. Artikkel 6 nr. 3 (produsentens forpliktelse til å oppbevare EU-samsvarserklæringen).
+2. Artikkel 7 nr. 2 bokstav a) (representanters forpliktelse til å oppbevare EU-samsvarserklæringen).
+3. Artikkel 8 nr. 8 (importørers forpliktelse til å oppbevare en kopi av EU-samsvarserklæringen som kan stilles til rådighet for markedstilsynsmyndigheter).
 
 ### VEDLEGG II
 **Komponentmaterialkategorier**
@@ -1209,11 +1810,27 @@ Komponentmaterialene og innsatsmaterialene som brukes til å produsere dem, skal
 - Komponentmaterialkategori 8: Næringsstoffpolymerer
 - Komponentmaterialkategori 9: Andre polymerer enn næringsstoffpolymerer
 - Komponentmaterialkategori 10: Avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069)
-- Komponentmaterialkategori 11: Biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098)►**M2**
-- Komponentmaterialkategori 12: Utfelte fosfatsalter og derivater av disse◄**M2**►**M3**
-- Komponentmaterialkategori 13: Materialer fra termisk oksidasjon og derivater av disse◄**M3**►**M4**
-- Komponentmaterialkategori 14: Pyrolyse- og gassifiseringsmaterialer◄**M4**►**M5**
-- Komponentmaterialkategori 15: Gjenvunne materialer med høy renhet◄**M5**
+- Komponentmaterialkategori 11: Biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098)
+
+  ►**M2**
+- Komponentmaterialkategori 12: Utfelte fosfatsalter og derivater av disse
+
+  ◄**M2**
+
+  ►**M3**
+- Komponentmaterialkategori 13: Materialer fra termisk oksidasjon og derivater av disse
+
+  ◄**M3**
+
+  ►**M4**
+- Komponentmaterialkategori 14: Pyrolyse- og gassifiseringsmaterialer
+
+  ◄**M4**
+
+  ►**M5**
+- Komponentmaterialkategori 15: Gjenvunne materialer med høy renhet
+
+  ◄**M5**
 
 ### DEL II
 **KRAV TIL KOMPONENTMATERIALKATEGORIER**
@@ -1222,17 +1839,68 @@ I denne delen defineres de komponentmaterialene som EU-gjødselvarer utelukkende
 
 ###### Komponentmaterialkategori 1: STOFFER OG BLANDINGER AV JOMFRUELIGE MATERIALER
 
-1\. En EU-gjødselvare kan inneholde stoffer og blandinger, bortsett fra1avfall som definert i direktiv [2008/98/EF](eu/32008l0098),stoffer og stoffblandinger som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098),stoffer som er dannet av utgangsstoffer som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098), eller blandinger som inneholder slike stoffer,biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098),animalske biprodukter eller avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069),►**M1**andre polymerer ennpolymerer som er resultatet av en polymeriseringsprosess som har funnet sted i naturen, uavhengig av ekstraksjonsprosessen brukt til å ekstrahere dem, og som ikke er kjemisk modifisert som definert i artikkel 3 nr. 40 i forordning [(EF) nr. 1907/2006](eu/32006r1907),biologisk nedbrytbare polymerer ellerpolymerer med en vannløselighet på over 2 g/l under følgende forhold:temperatur: 20 °CpH 7dosering: 10 g / 1 000 mltestvarighet: 24 timer◄**M1**►**M2**kompostbiorester ellerutfelte fosfatsalter eller derivater av disse som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098)◄**M2**►**M3**materialer fra termisk oksidasjon eller derivater av disse som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098), ►**M5**---◄**M5**◄**M3**►**M4**pyrolyse- og gassifiseringsmaterialer som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098) ►**M5**, eller ◄**M5**◄**M4**►**M5**ammoniumsalter, sulfatsalter, fosfatsalter, elementær svovel, kalsiumkarbonat eller kalsiumoksid som er gjenvunnet fra avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098).◄**M5**
+1\. En EU-gjødselvare kan inneholde stoffer og blandinger, bortsett fra1
+
+1. avfall som definert i direktiv [2008/98/EF](eu/32008l0098),
+2. stoffer og stoffblandinger som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098),
+3. stoffer som er dannet av utgangsstoffer som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098), eller blandinger som inneholder slike stoffer,
+4. biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098),
+5. animalske biprodukter eller avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069),
+
+   ►**M1**
+6. andre polymerer enn
+
+   - polymerer som er resultatet av en polymeriseringsprosess som har funnet sted i naturen, uavhengig av ekstraksjonsprosessen brukt til å ekstrahere dem, og som ikke er kjemisk modifisert som definert i artikkel 3 nr. 40 i forordning [(EF) nr. 1907/2006](eu/32006r1907),
+   - biologisk nedbrytbare polymerer eller
+   - polymerer med en vannløselighet på over 2 g/l under følgende forhold:
+   - temperatur: 20 °C
+   - pH 7
+   - dosering: 10 g / 1 000 ml
+   - testvarighet: 24 timer
+
+   ◄**M1**
+
+   ►**M2**
+7. kompost
+8. biorester eller
+9. utfelte fosfatsalter eller derivater av disse som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098)
+
+   ◄**M2**
+
+   ►**M3**
+10. materialer fra termisk oksidasjon eller derivater av disse som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098), ►**M5**---◄**M5**
+
+    ◄**M3**
+
+    ►**M4**
+11. pyrolyse- og gassifiseringsmaterialer som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098) ►**M5**, eller ◄**M5**
+
+    ◄**M4**
+
+    ►**M5**
+12. ammoniumsalter, sulfatsalter, fosfatsalter, elementær svovel, kalsiumkarbonat eller kalsiumoksid som er gjenvunnet fra avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098).
+
+    ◄**M5**
 
 ►**M6**
 
-2\. Alle stoffer som inngår i EU-gjødselvaren, enten alene eller i en stoffblanding, unntatt polymerer, skal være registrert i henhold til forordning [(EF) nr. 1907/2006](eu/32006r1907)\* med et dokument som inneholderinformasjonen angitt i vedlegg VI, VII og VIII til forordning [(EF) nr. 1907/2006](eu/32006r1907), ogen rapport om kjemikaliesikkerhet i henhold til artikkel 14 i [forordning (EF) nr. 1907/2006](eu/32006r1907) som omfatter bruken som gjødselvare,med mindre de uttrykkelig omfattes av et av unntakene fra registreringsplikten nevnt i vedlegg IV til [forordning (EF) nr. 1907/2006](eu/32006r1907) eller i nr. 6, 7, 8 eller 10 (bare for magnesia) i vedlegg V til den forordningen.
+2\. Alle stoffer som inngår i EU-gjødselvaren, enten alene eller i en stoffblanding, unntatt polymerer, skal være registrert i henhold til forordning [(EF) nr. 1907/2006](eu/32006r1907)\* med et dokument som inneholder
+
+1. informasjonen angitt i vedlegg VI, VII og VIII til forordning [(EF) nr. 1907/2006](eu/32006r1907), og
+2. en rapport om kjemikaliesikkerhet i henhold til artikkel 14 i [forordning (EF) nr. 1907/2006](eu/32006r1907) som omfatter bruken som gjødselvare,
+
+med mindre de uttrykkelig omfattes av et av unntakene fra registreringsplikten nevnt i vedlegg IV til [forordning (EF) nr. 1907/2006](eu/32006r1907) eller i nr. 6, 7, 8 eller 10 (bare for magnesia) i vedlegg V til den forordningen.
 
 \* For et stoff som er gjenvunnet i Den europeiske union, er dette vilkåret oppfylt dersom stoffet er det samme, i henhold til artikkel 2 nr. 7 bokstav d) i) i [forordning (EF) nr. 1907/2006](eu/32006r1907), som et stoff som er registrert med et dokument som inneholder informasjonen angitt her, og dersom informasjon er tilgjengelig for produsenten av gjødselvaren i henhold til artikkel 2 nr. 7 bokstav d) ii) i forordning [(EF) nr. 1907/2006](eu/32006r1907).
 
 ◄**M6**
 
-3\. Dersom stoffet eller et av stoffene i blandingen er beregnet på å forbedre planters langsiktige tilgang til mikronæringsstoffer i EU-gjødselvaren, skal det aktuelle stoffet enten være en kelatdanner eller en kompleksdanner, og følgende regler gjelder:Kelatdanneren skal være et organisk stoff som består av et molekyl somhar to eller flere steder som donerer elektronpar til et sentralt overgangsmetallkation (sink (Zn), kobber (Cu), jern (Fe), mangan (Mn), magnesium (Mg), kalsium (Ca) eller kobolt (Co)), oger stort nok til å danne en fem- eller seksleddet syklisk struktur.
+3\. Dersom stoffet eller et av stoffene i blandingen er beregnet på å forbedre planters langsiktige tilgang til mikronæringsstoffer i EU-gjødselvaren, skal det aktuelle stoffet enten være en kelatdanner eller en kompleksdanner, og følgende regler gjelder:
+
+1. Kelatdanneren skal være et organisk stoff som består av et molekyl som
+
+   1. har to eller flere steder som donerer elektronpar til et sentralt overgangsmetallkation (sink (Zn), kobber (Cu), jern (Fe), mangan (Mn), magnesium (Mg), kalsium (Ca) eller kobolt (Co)), og
+   2. er stort nok til å danne en fem- eller seksleddet syklisk struktur.
 
 ►**M1**
 
@@ -1240,11 +1908,38 @@ EU-gjødselvaren skal være stabil i minst tre dager i en løsning med en pH-ver
 
 ◄**M1**
 
-1. Kompleksdanneren skal være et organisk stoff som danner en flat eller sterisk struktur med et di- eller trivalent overgangsmetallkation (sink (Zn), kobber (Cu), jern (Fe), mangan (Mn) eller kobolt (Co)).EU-gjødselvaren skal være stabil i en vannløsning ved pH 6 og 7 i minst én dag.
+1. Kompleksdanneren skal være et organisk stoff som danner en flat eller sterisk struktur med et di- eller trivalent overgangsmetallkation (sink (Zn), kobber (Cu), jern (Fe), mangan (Mn) eller kobolt (Co)).
+
+   EU-gjødselvaren skal være stabil i en vannløsning ved pH 6 og 7 i minst én dag.
 
 ►**M6**
 
-4\. Dersom stoffet eller et av stoffene i blandingen er beregnet på å forbedre EU-gjødselvarens frigivelse av næringsstoffer ved å forsinke eller stoppe aktiviteten til spesifikke grupper av mikroorganismer eller enzymer, skal det aktuelle stoffet være en nitrifikasjonshemmende, denitrifikasjonshemmende eller ureasehemmende forbindelse, og følgende regler gjelder:Den nitrifikasjonshemmende forbindelsen skal hemme den biologiske oksidasjonen av ammoniumnitrogen (NH3-N) i EU-gjødselvaren til nitrittnitrogen (NO2-) og dermed bremse danningen av nitratnitrogen (NO3-).Oksidasjonshastigheten for ammoniumnitrogen (NH3-N) skal måles enten vedforsvinning av ammoniumnitrogen (NH3-N) ellersummen av danningen av nitrittnitrogen (NO2-) og nitratnitrogen (NO3-) i et visst tidsrom.Sammenlignet med en kontrollprøve der den nitrifikasjonshemmende forbindelsen ikke er tilsatt, skal en jordprøve som inneholder den nitrifikasjonshemmende forbindelsen, vise en reduksjon på 20 % av oksidasjonshastigheten for ammoniumnitrogen (NH3-N) på grunnlag av en analyse som foretas 14 dager etter anvendelsen ved et konfidensnivå på 95 %.Den nitrifikasjonshemmende forbindelsen skal forekomme i EU-gjødselvaren i en konsentrasjon som ligger innenfor det konsentrasjonsområdet som sikrer at en slik reduksjon oppnås.Minst 50 % av EU-gjødselvarens innhold av totalnitrogen (N) skal bestå av nitrogenformene (N) ammonium (NH4+) og urea (CH4N2O).Den denitrifikasjonshemmende forbindelsen skal hemme danningen av dinitrogenoksid (N2O) i EU-gjødselvaren ved å bremse eller blokkere omdanningen av nitrat (NO3-) til dinitrogen (N2) uten å påvirke nitrifikasjonsprosessen beskrevet i produktfunksjonskategori 5.A.Sammenlignet med en kontrollprøve der den denitrifikasjonshemmende forbindelsen ikke er tilsatt, skal en *in vitro*-test som inneholder den denitrifikasjonshemmende forbindelsen, vise en reduksjon på 20 % av frigivelseshastigheten for dinitrogenoksid (N2O) på grunnlag av en analyse som foretas 14 dager etter anvendelsen ved et konfidensnivå på 95 %.Den denitrifikasjonshemmende forbindelsen skal forekomme i EU-gjødselvaren i en konsentrasjon som ligger innenfor det konsentrasjonsområdet som sikrer at en slik reduksjon oppnås.Den ureasehemmende forbindelsen skal hemme ureaseenzymets hydrolytiske virkning på urea (CH4N2O) i EU-gjødselvaren, primært for å redusere ammoniakkfordampingen.Sammenlignet med en kontrollprøve der den ureasehemmende forbindelsen ikke er tilsatt, skal en in vitro-test som inneholder den ureasehemmende forbindelsen, vise en reduksjon på 20 % av hydrolysehastigheten for urea (CH4N2O) på grunnlag av en analyse som foretas 14 dager etter anvendelsen ved et konfidensnivå på 95 %.Den ureasehemmende forbindelsen skal forekomme i EU-gjødselvaren i en konsentrasjon som ligger innenfor det konsentrasjonsområdet som sikrer at en slik reduksjon oppnås.Minst 50 % av EU-gjødselvarens innhold av totalnitrogen (N) skal bestå av nitrogenformen (N) urea (CH4N2O).
+4\. Dersom stoffet eller et av stoffene i blandingen er beregnet på å forbedre EU-gjødselvarens frigivelse av næringsstoffer ved å forsinke eller stoppe aktiviteten til spesifikke grupper av mikroorganismer eller enzymer, skal det aktuelle stoffet være en nitrifikasjonshemmende, denitrifikasjonshemmende eller ureasehemmende forbindelse, og følgende regler gjelder:
+
+1. Den nitrifikasjonshemmende forbindelsen skal hemme den biologiske oksidasjonen av ammoniumnitrogen (NH3-N) i EU-gjødselvaren til nitrittnitrogen (NO2-) og dermed bremse danningen av nitratnitrogen (NO3-).
+
+   Oksidasjonshastigheten for ammoniumnitrogen (NH3-N) skal måles enten ved
+
+   1. forsvinning av ammoniumnitrogen (NH3-N) eller
+   2. summen av danningen av nitrittnitrogen (NO2-) og nitratnitrogen (NO3-) i et visst tidsrom.
+
+   Sammenlignet med en kontrollprøve der den nitrifikasjonshemmende forbindelsen ikke er tilsatt, skal en jordprøve som inneholder den nitrifikasjonshemmende forbindelsen, vise en reduksjon på 20 % av oksidasjonshastigheten for ammoniumnitrogen (NH3-N) på grunnlag av en analyse som foretas 14 dager etter anvendelsen ved et konfidensnivå på 95 %.
+
+   Den nitrifikasjonshemmende forbindelsen skal forekomme i EU-gjødselvaren i en konsentrasjon som ligger innenfor det konsentrasjonsområdet som sikrer at en slik reduksjon oppnås.
+
+   Minst 50 % av EU-gjødselvarens innhold av totalnitrogen (N) skal bestå av nitrogenformene (N) ammonium (NH4+) og urea (CH4N2O).
+2. Den denitrifikasjonshemmende forbindelsen skal hemme danningen av dinitrogenoksid (N2O) i EU-gjødselvaren ved å bremse eller blokkere omdanningen av nitrat (NO3-) til dinitrogen (N2) uten å påvirke nitrifikasjonsprosessen beskrevet i produktfunksjonskategori 5.A.
+
+   Sammenlignet med en kontrollprøve der den denitrifikasjonshemmende forbindelsen ikke er tilsatt, skal en *in vitro*-test som inneholder den denitrifikasjonshemmende forbindelsen, vise en reduksjon på 20 % av frigivelseshastigheten for dinitrogenoksid (N2O) på grunnlag av en analyse som foretas 14 dager etter anvendelsen ved et konfidensnivå på 95 %.
+
+   Den denitrifikasjonshemmende forbindelsen skal forekomme i EU-gjødselvaren i en konsentrasjon som ligger innenfor det konsentrasjonsområdet som sikrer at en slik reduksjon oppnås.
+3. Den ureasehemmende forbindelsen skal hemme ureaseenzymets hydrolytiske virkning på urea (CH4N2O) i EU-gjødselvaren, primært for å redusere ammoniakkfordampingen.
+
+   Sammenlignet med en kontrollprøve der den ureasehemmende forbindelsen ikke er tilsatt, skal en in vitro-test som inneholder den ureasehemmende forbindelsen, vise en reduksjon på 20 % av hydrolysehastigheten for urea (CH4N2O) på grunnlag av en analyse som foretas 14 dager etter anvendelsen ved et konfidensnivå på 95 %.
+
+   Den ureasehemmende forbindelsen skal forekomme i EU-gjødselvaren i en konsentrasjon som ligger innenfor det konsentrasjonsområdet som sikrer at en slik reduksjon oppnås.
+
+   Minst 50 % av EU-gjødselvarens innhold av totalnitrogen (N) skal bestå av nitrogenformen (N) urea (CH4N2O).
 
 ◄**M6**
 
@@ -1260,11 +1955,44 @@ Med henblikk på dette punktet omfatter planter også sopp og alger, men ikke bl
 
 ###### Komponentmaterialkategori 3: KOMPOST
 
-1\. En EU-gjødselvare kan inneholde kompost oppnådd ved aerob kompostering av utelukkende et eller flere av følgende innsatsmaterialer:Bioavfall i henhold til direktiv [2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden.►**M1**(opphevet)◄**M1**►**M1**Levende eller døde organismer eller deler av dette som er ubearbeidet eller som bare er bearbeidet ved manuell, me-kanisk eller tyngdemessig påvirkning, ved oppløsning i vann, ved flotasjon, ved ekstraksjon med vann, ved damp-destillasjon eller ved oppvarming med det ene formålet å fjerne vann, eller som er utvunnet fra luft på en hvilken som helst måte, bortsett framaterialer som stammer fra blandet kommunalt avfall,avløpsslam, industrislam eller oppmudringsslam oganimalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).◄**M1**Komposteringspreparater som er nødvendige for å forbedre komposteringsprosessens prosess- eller miljøprestasjon, forutsatt at►**M6**tilsetningsstoffet oppfyller kravet fastsatt i nr. 2 i komponentmaterialkategori 1, og ◄**M6**den samlede konsentrasjonen av alle tilsetningsstoffer ikke overstiger 5 % av innsatsmaterialets samlede vekt.►**M1**Ethvert materiale oppført i bokstav a) eller c) eller i nr. 1a som◄**M1**tidligere er blitt kompostert eller nedbrutt, oginneholder høyst 6 mg PAH16 per kg tørrstoff2.
+1\. En EU-gjødselvare kan inneholde kompost oppnådd ved aerob kompostering av utelukkende et eller flere av følgende innsatsmaterialer:
+
+- Bioavfall i henhold til direktiv [2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden.
+
+  ►**M1**
+- (opphevet)
+
+  ◄**M1**
+
+  ►**M1**
+- Levende eller døde organismer eller deler av dette som er ubearbeidet eller som bare er bearbeidet ved manuell, me-kanisk eller tyngdemessig påvirkning, ved oppløsning i vann, ved flotasjon, ved ekstraksjon med vann, ved damp-destillasjon eller ved oppvarming med det ene formålet å fjerne vann, eller som er utvunnet fra luft på en hvilken som helst måte, bortsett fra
+
+  1. materialer som stammer fra blandet kommunalt avfall,
+  2. avløpsslam, industrislam eller oppmudringsslam og
+  3. animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+
+  ◄**M1**
+- Komposteringspreparater som er nødvendige for å forbedre komposteringsprosessens prosess- eller miljøprestasjon, forutsatt at
+
+  ►**M6**
+
+  1. tilsetningsstoffet oppfyller kravet fastsatt i nr. 2 i komponentmaterialkategori 1, og ◄**M6**
+  2. den samlede konsentrasjonen av alle tilsetningsstoffer ikke overstiger 5 % av innsatsmaterialets samlede vekt.
+
+  ►**M1**
+- Ethvert materiale oppført i bokstav a) eller c) eller i nr. 1a som
+
+  ◄**M1**
+
+  1. tidligere er blitt kompostert eller nedbrutt, og
+  2. inneholder høyst 6 mg PAH16 per kg tørrstoff2.
 
 ►**M1**
 
-1a. Uten hensyn til nr. 1 kan en EU-gjødselvare inneholde kompost framstilt ved aerob kompostering av materialer i kategori 2 eller 3 eller avledede produkter av disse i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 og i tiltakene nevnt i artikkel 32 nr. 3 i [forordning (EF) nr. 1069/2009](eu/32009r1069), alene eller blandet med innsatsmaterialer nevnt i nr. 1, forutsatt atsluttpunktet i produksjonskjeden er fastsatt i samsvar med artikkel 5 nr. 2 tredje ledd i [forordning (EF) nr. 1069/2009](eu/32009r1069), ogvilkårene i nr. 2 og 3 er oppfylt.
+1a. Uten hensyn til nr. 1 kan en EU-gjødselvare inneholde kompost framstilt ved aerob kompostering av materialer i kategori 2 eller 3 eller avledede produkter av disse i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 og i tiltakene nevnt i artikkel 32 nr. 3 i [forordning (EF) nr. 1069/2009](eu/32009r1069), alene eller blandet med innsatsmaterialer nevnt i nr. 1, forutsatt at
+
+1. sluttpunktet i produksjonskjeden er fastsatt i samsvar med artikkel 5 nr. 2 tredje ledd i [forordning (EF) nr. 1069/2009](eu/32009r1069), og
+2. vilkårene i nr. 2 og 3 er oppfylt.
 
 ◄**M1**
 
@@ -1272,14 +2000,36 @@ Med henblikk på dette punktet omfatter planter også sopp og alger, men ikke bl
 
 ►**M1**
 
-1. der produksjonslinjene for bearbeiding av innsatsmaterialer nevnt i nr. 1 og 1a er tydelig atskilt fra produksjonslinjene for bearbeiding av andre innsatsmaterialer enn de som er nevnt i nr. 1 og 1a, og◄**M1**
+1. der produksjonslinjene for bearbeiding av innsatsmaterialer nevnt i nr. 1 og 1a er tydelig atskilt fra produksjonslinjene for bearbeiding av andre innsatsmaterialer enn de som er nevnt i nr. 1 og 1a, og
+
+   ◄**M1**
 2. der fysisk kontakt mellom innsatsmaterialer og produsert materiale unngås, også under oppbevaring.
 
-3\. Den aerobe komposteringen skal bestå av en kontrollert nedbryting av biologisk nedbrytbare materialer som hovedsakelig er aerob, og som gjør det mulig å oppnå temperaturer egnet for termofile bakterier som følge av biologisk produsert varme. Alle deler av hvert parti skal enten regelmessig og grundig omrøres og vendes eller utsettes for tvungen ventilasjon for å sikre riktig hygienisering og ensartethet for materialet. Under komposteringsprosessen skal alle deler av hvert parti ha en av følgende temperatur/tid-profiler:70 °C eller mer i minst tre dager,65 °C eller mer i minst fem dager,60 °C eller mer i minst sju dager eller55 °C eller mer i minst 14 dager.
+3\. Den aerobe komposteringen skal bestå av en kontrollert nedbryting av biologisk nedbrytbare materialer som hovedsakelig er aerob, og som gjør det mulig å oppnå temperaturer egnet for termofile bakterier som følge av biologisk produsert varme. Alle deler av hvert parti skal enten regelmessig og grundig omrøres og vendes eller utsettes for tvungen ventilasjon for å sikre riktig hygienisering og ensartethet for materialet. Under komposteringsprosessen skal alle deler av hvert parti ha en av følgende temperatur/tid-profiler:
 
-4\. Komposten skal inneholdehøyst 6 mg PAH16 per kg tørrstoff3.høyst 3 g/kg tørrstoff av makroskopiske urenheter på over 2 mm for hver av formene glass, metall eller plast oghøyst 5 g/kg tørrstoff av summen av de makroskopiske urenhetene nevnt i bokstav b).Fra 16. juli 2026 skal forekomsten av plast på over 2 mm innenfor grenseverdien nevnt i bokstav b) være høyst 2,5 g/kg tørrstoff. Senest 16. juli 2029 skal grenseverdien på 2,5 g/kg tørrstoff for plast på over 2 mm vurderes på nytt for å ta hensyn til framskrittene innen separat innsamling av bioavfall.
+- 70 °C eller mer i minst tre dager,
+- 65 °C eller mer i minst fem dager,
+- 60 °C eller mer i minst sju dager eller
+- 55 °C eller mer i minst 14 dager.
 
-5\. Komposten skal oppfylle minst ett av følgende stabilitetskriterier:Oksygenopptakshastighet:Definisjon: En indikator på i hvilken grad biologisk nedbrytbart materiale nedbrytes innenfor et fastsatt tidsrom. Metoden er ikke egnet for materiale der innholdet av partikler større enn 10 mm overstiger 20 %.Kriterium: høyst 25 mmol O2/kg organisk materiale/time.Selvoppvarmingsfaktor:Definisjon: Den høyeste temperaturen som oppnås i en kompost under standardiserte forhold som en indikator på kompostens aerobe biologiske aktivitet.Kriterium: minst Rottegrad III.
+4\. Komposten skal inneholde
+
+1. høyst 6 mg PAH16 per kg tørrstoff3.
+2. høyst 3 g/kg tørrstoff av makroskopiske urenheter på over 2 mm for hver av formene glass, metall eller plast og
+3. høyst 5 g/kg tørrstoff av summen av de makroskopiske urenhetene nevnt i bokstav b).
+
+Fra 16. juli 2026 skal forekomsten av plast på over 2 mm innenfor grenseverdien nevnt i bokstav b) være høyst 2,5 g/kg tørrstoff. Senest 16. juli 2029 skal grenseverdien på 2,5 g/kg tørrstoff for plast på over 2 mm vurderes på nytt for å ta hensyn til framskrittene innen separat innsamling av bioavfall.
+
+5\. Komposten skal oppfylle minst ett av følgende stabilitetskriterier:
+
+1. Oksygenopptakshastighet:
+
+   - Definisjon: En indikator på i hvilken grad biologisk nedbrytbart materiale nedbrytes innenfor et fastsatt tidsrom. Metoden er ikke egnet for materiale der innholdet av partikler større enn 10 mm overstiger 20 %.
+   - Kriterium: høyst 25 mmol O2/kg organisk materiale/time.
+2. Selvoppvarmingsfaktor:
+
+   - Definisjon: Den høyeste temperaturen som oppnås i en kompost under standardiserte forhold som en indikator på kompostens aerobe biologiske aktivitet.
+   - Kriterium: minst Rottegrad III.
 
 ►**M10**
 
@@ -1289,11 +2039,39 @@ Med henblikk på dette punktet omfatter planter også sopp og alger, men ikke bl
 
 ###### Komponentmaterialkategori 4: BIORESTER FRA FERSKE AVLINGER
 
-1\. En EU-gjødselvare kan inneholde biorester oppnådd ved anaerob nedbryting av utelukkende et eller flere av følgende innsatsmaterialer:Planter eller plantedeler som er dyrket med henblikk på produksjon av biogass. Med henblikk på dette punktet omfatter planter også alger, men ikke blågrønnalger (cyanobakterier).Nedbrytingspreparater som er nødvendige for å forbedre nedbrytingsprosessens prosess- eller miljøprestasjon, forutsatt at►**M6**tilsetningsstoffet oppfyller kravet fastsatt i nr. 2 i komponentmaterialkategori 1, og ◄**M6**den samlede konsentrasjonen av alle tilsetningsstoffer ikke overstiger 5 % av innsatsmaterialets samlede vekt.Ethvert materiale nevnt i bokstav a) som tidligere er blitt nedbrutt.
+1\. En EU-gjødselvare kan inneholde biorester oppnådd ved anaerob nedbryting av utelukkende et eller flere av følgende innsatsmaterialer:
 
-2\. Den anaerobe nedbrytingen skal finne sted på et anleggder produksjonslinjene for bearbeiding av innsatsmaterialer nevnt i nr. 1 er tydelig atskilt fra produksjonslinjene for bearbeiding av andre innsatsmaterialer enn de som er nevnt i nr. 1, ogder fysisk kontakt mellom innsatsmaterialer og produsert materiale unngås, også under oppbevaring.
+1. Planter eller plantedeler som er dyrket med henblikk på produksjon av biogass. Med henblikk på dette punktet omfatter planter også alger, men ikke blågrønnalger (cyanobakterier).
+2. Nedbrytingspreparater som er nødvendige for å forbedre nedbrytingsprosessens prosess- eller miljøprestasjon, forutsatt at
 
-3\. Den anaerobe nedbrytingen skal bestå av kontrollert nedbryting av biologisk nedbrytbare materialer som hovedsakelig er anaerob, og ved temperaturer som er egnet for mesofile eller termofile bakterier. Alle deler av hvert parti skal regelmessig og grundig omrøres og vendes for å sikre riktig hygienisering og ensartethet for materialet. Under nedbrytingsprosessen skal alle deler av hvert parti ha en av følgende temperatur/tid-profiler:Termofil anaerob nedbryting ved 55 °C i minst 24 timer etterfulgt av en hydraulisk retensjonstid på minst 20 dager.Termofil anaerob nedbryting ved 55 °C med en behandlingsprosess som omfatter pasteurisering som beskrevet i kapittel I avsnitt 1 nr. 1 i vedlegg V til kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)4.Termofil anaerob nedbryting ved 55 °C etterfulgt av kompostering ved70 °C eller mer i minst tre dager,65 °C eller mer i minst fem dager,60 °C eller mer i minst sju dager eller55 °C eller mer i minst 14 dager.Mesofil anaerob nedbryting ved 37-40 °C med en behandlingsprosess som omfatter pasteurisering som beskrevet i kapittel I avsnitt 1 nr. 1 i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142).Mesofil anaerob nedbryting ved 37-40 °C etterfulgt av kompostering ved70 °C eller mer i minst tre dager,65 °C eller mer i minst fem dager,60 °C eller mer i minst sju dager eller55 °C eller mer i minst 14 dager.
+   ►**M6**
+
+   1. tilsetningsstoffet oppfyller kravet fastsatt i nr. 2 i komponentmaterialkategori 1, og ◄**M6**
+   2. den samlede konsentrasjonen av alle tilsetningsstoffer ikke overstiger 5 % av innsatsmaterialets samlede vekt.
+3. Ethvert materiale nevnt i bokstav a) som tidligere er blitt nedbrutt.
+
+2\. Den anaerobe nedbrytingen skal finne sted på et anlegg
+
+1. der produksjonslinjene for bearbeiding av innsatsmaterialer nevnt i nr. 1 er tydelig atskilt fra produksjonslinjene for bearbeiding av andre innsatsmaterialer enn de som er nevnt i nr. 1, og
+2. der fysisk kontakt mellom innsatsmaterialer og produsert materiale unngås, også under oppbevaring.
+
+3\. Den anaerobe nedbrytingen skal bestå av kontrollert nedbryting av biologisk nedbrytbare materialer som hovedsakelig er anaerob, og ved temperaturer som er egnet for mesofile eller termofile bakterier. Alle deler av hvert parti skal regelmessig og grundig omrøres og vendes for å sikre riktig hygienisering og ensartethet for materialet. Under nedbrytingsprosessen skal alle deler av hvert parti ha en av følgende temperatur/tid-profiler:
+
+1. Termofil anaerob nedbryting ved 55 °C i minst 24 timer etterfulgt av en hydraulisk retensjonstid på minst 20 dager.
+2. Termofil anaerob nedbryting ved 55 °C med en behandlingsprosess som omfatter pasteurisering som beskrevet i kapittel I avsnitt 1 nr. 1 i vedlegg V til kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)4.
+3. Termofil anaerob nedbryting ved 55 °C etterfulgt av kompostering ved
+
+   - 70 °C eller mer i minst tre dager,
+   - 65 °C eller mer i minst fem dager,
+   - 60 °C eller mer i minst sju dager eller
+   - 55 °C eller mer i minst 14 dager.
+4. Mesofil anaerob nedbryting ved 37-40 °C med en behandlingsprosess som omfatter pasteurisering som beskrevet i kapittel I avsnitt 1 nr. 1 i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142).
+5. Mesofil anaerob nedbryting ved 37-40 °C etterfulgt av kompostering ved
+
+   - 70 °C eller mer i minst tre dager,
+   - 65 °C eller mer i minst fem dager,
+   - 60 °C eller mer i minst sju dager eller
+   - 55 °C eller mer i minst 14 dager.
 
 ►**M6**
 
@@ -1303,17 +2081,60 @@ Med henblikk på dette punktet omfatter planter også sopp og alger, men ikke bl
 
 3c. En EU-gjødselvare kan inneholde en biorest som er i samsvar med nr. 1-3 eller nr. 3b samt en fraksjon som er i samsvar med nr. 3a, og som bare har gjennomgått en fysisk bearbeiding for å fjerne vann, uten at det er hensikten på annen måte å endre bioresten eller fraksjonen.
 
-3d. Tilsetningsstoffer som er nødvendige ved etterbearbeiding av en biorest eller en fraksjon i samsvar med nr. 3a, 3b og 3c, kan brukes forutsatt attilsetningsstoffet oppfyller kravene fastsatt i nr. 2 i komponentmaterialkategori 1,konsentrasjonen av de tilsetningsstoffene som er nødvendige i hver prosess, ikke overstiger 5 % av vekten av bioresten eller fraksjonen som brukes som innsatsmateriale i den respektive prosessen.
+3d. Tilsetningsstoffer som er nødvendige ved etterbearbeiding av en biorest eller en fraksjon i samsvar med nr. 3a, 3b og 3c, kan brukes forutsatt at
 
-4\. Bioresten eller en fraksjon som er nevnt i nr. 3a, 3b og 3c, skal oppfylle minst ett av følgende stabilitetskriterier:**◄M6**Oksygenopptakshastighet:Definisjon: En indikator på i hvilken grad biologisk nedbrytbart materiale nedbrytes innenfor et fastsatt tidsrom. Metoden er ikke egnet for materiale der innholdet av partikler større enn 10 mm overstiger 20 %.Kriterium: høyst 25 mmol O2/kg organisk materiale/time.Restbiogasspotensial:Definisjon: En indikator på gassen som frigis fra en biorest i en periode på 28 dager, og som måles mot de flyktige faste stoffene i prøven. Testen utføres tre ganger, og gjennomsnittsresultatet brukes til å dokumentere at kriteriet er oppfylt. De flyktige faste stoffene er de faste stoffene i en materialprøve som forsvinner når tørrstoffet forbrennes ved 550 °C.Kriterium: høyst 0,25 l biogass/g flyktige faste stoffer.
+1. tilsetningsstoffet oppfyller kravene fastsatt i nr. 2 i komponentmaterialkategori 1,
+2. konsentrasjonen av de tilsetningsstoffene som er nødvendige i hver prosess, ikke overstiger 5 % av vekten av bioresten eller fraksjonen som brukes som innsatsmateriale i den respektive prosessen.
+
+4\. Bioresten eller en fraksjon som er nevnt i nr. 3a, 3b og 3c, skal oppfylle minst ett av følgende stabilitetskriterier:**◄M6**
+
+1. Oksygenopptakshastighet:
+
+   - Definisjon: En indikator på i hvilken grad biologisk nedbrytbart materiale nedbrytes innenfor et fastsatt tidsrom. Metoden er ikke egnet for materiale der innholdet av partikler større enn 10 mm overstiger 20 %.
+   - Kriterium: høyst 25 mmol O2/kg organisk materiale/time.
+2. Restbiogasspotensial:
+
+   - Definisjon: En indikator på gassen som frigis fra en biorest i en periode på 28 dager, og som måles mot de flyktige faste stoffene i prøven. Testen utføres tre ganger, og gjennomsnittsresultatet brukes til å dokumentere at kriteriet er oppfylt. De flyktige faste stoffene er de faste stoffene i en materialprøve som forsvinner når tørrstoffet forbrennes ved 550 °C.
+   - Kriterium: høyst 0,25 l biogass/g flyktige faste stoffer.
 
 ###### Komponentmaterialkategori 5: ANDRE BIORESTER ENN BIORESTER FRA FERSKE AVLINGER
 
-1\. En EU-gjødselvare kan inneholde biorester oppnådd ved anaerob nedbryting av utelukkende et eller flere av følgende innsatsmaterialer:Bioavfall i henhold til direktiv [2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden.►**M1**(opphevet)◄**M1**►**M1**Levende eller døde organismer eller deler av dette som er ubearbeidet eller som bare er bearbeidet ved manuell, me-kanisk eller tyngdemessig påvirkning, ved oppløsning i vann, ved flotasjon, ved ekstraksjon med vann, ved damp-destillasjon eller ved oppvarming med det ene formålet å fjerne vann, eller som er utvunnet fra luft på en hvilken som helst måte, bortsett framaterialer som stammer fra blandet kommunalt avfall,avløpsslam, industrislam eller oppmudringsslam,animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069). ◄**M1**Nedbrytingspreparater som er nødvendige for å forbedre nedbrytingsprosessens prosess- eller miljøprestasjon, forutsatt at►**M6**tilsetningsstoffet oppfyller kravet fastsatt i nr. 2 i komponentmaterialkategori 1, og ◄**M6**den samlede konsentrasjonen av alle tilsetningsstoffer ikke overstiger 5 % av innsatsmaterialets samlede vekt.►**M1**Ethvert materiale oppført i bokstav a) eller c) eller i nr. 1a som◄**M1**tidligere er blitt kompostert eller nedbrutt, oginneholder høyst 6 mg PAH16 per kg tørrstoff5.
+1\. En EU-gjødselvare kan inneholde biorester oppnådd ved anaerob nedbryting av utelukkende et eller flere av følgende innsatsmaterialer:
+
+- Bioavfall i henhold til direktiv [2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden.
+
+  ►**M1**
+- (opphevet)
+
+  ◄**M1**
+
+  ►**M1**
+- Levende eller døde organismer eller deler av dette som er ubearbeidet eller som bare er bearbeidet ved manuell, me-kanisk eller tyngdemessig påvirkning, ved oppløsning i vann, ved flotasjon, ved ekstraksjon med vann, ved damp-destillasjon eller ved oppvarming med det ene formålet å fjerne vann, eller som er utvunnet fra luft på en hvilken som helst måte, bortsett fra
+
+  1. materialer som stammer fra blandet kommunalt avfall,
+  2. avløpsslam, industrislam eller oppmudringsslam,
+  3. animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069). ◄**M1**
+- Nedbrytingspreparater som er nødvendige for å forbedre nedbrytingsprosessens prosess- eller miljøprestasjon, forutsatt at
+
+  ►**M6**
+
+  1. tilsetningsstoffet oppfyller kravet fastsatt i nr. 2 i komponentmaterialkategori 1, og ◄**M6**
+  2. den samlede konsentrasjonen av alle tilsetningsstoffer ikke overstiger 5 % av innsatsmaterialets samlede vekt.
+
+  ►**M1**
+- Ethvert materiale oppført i bokstav a) eller c) eller i nr. 1a som
+
+  ◄**M1**
+
+  1. tidligere er blitt kompostert eller nedbrutt, og
+  2. inneholder høyst 6 mg PAH16 per kg tørrstoff5.
 
 ►**M1**
 
-1a. Uten hensyn til nr. 1 kan en EU-gjødselvare inneholde biorester framstilt ved anaerob nedbryting av materialer i kategori 2 eller 3 eller avledede produkter av disse i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 og i tiltakene nevnt i artikkel 32 nr. 3 i [forordning (EF) nr. 1069/2009](eu/32009r1069), alene eller blandet med innsatsmaterialer nevnt i nr. 1, forutsatt atsluttpunktet i produksjonskjeden er fastsatt i samsvar med artikkel 5 nr. 2 tredje ledd i [forordning (EF) nr. 1069/2009](eu/32009r1069), ogvilkårene i nr. 2 og 3 er oppfylt.
+1a. Uten hensyn til nr. 1 kan en EU-gjødselvare inneholde biorester framstilt ved anaerob nedbryting av materialer i kategori 2 eller 3 eller avledede produkter av disse i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 og i tiltakene nevnt i artikkel 32 nr. 3 i [forordning (EF) nr. 1069/2009](eu/32009r1069), alene eller blandet med innsatsmaterialer nevnt i nr. 1, forutsatt at
+
+1. sluttpunktet i produksjonskjeden er fastsatt i samsvar med artikkel 5 nr. 2 tredje ledd i [forordning (EF) nr. 1069/2009](eu/32009r1069), og
+2. vilkårene i nr. 2 og 3 er oppfylt.
 
 ◄**M1**
 
@@ -1324,7 +2145,23 @@ Med henblikk på dette punktet omfatter planter også sopp og alger, men ikke bl
 1. der produksjonslinjene for bearbeiding av innsatsmaterialer nevnt i nr. 1 og 1a er tydelig atskilt fra produksjonslinjene for bearbeiding av andre innsatsmaterialer enn de som er nevnt i nr. 1 og 1a, og ◄**M1**
 2. der fysisk kontakt mellom innsatsmaterialer og produsert materiale unngås, også under oppbevaring.
 
-3\. Den anaerobe nedbrytingen skal bestå av kontrollert nedbryting av biologisk nedbrytbare materialer som hovedsakelig er anaerob, og ved temperaturer som er egnet for mesofile eller termofile bakterier. Alle deler av hvert parti skal regelmessig og grundig omrøres og vendes for å sikre riktig hygienisering og ensartethet for materialet. Under nedbrytingsprosessen skal alle deler av hvert parti ha en av følgende temperatur/tid-profiler:Termofil anaerob nedbryting ved 55 °C i minst 24 timer etterfulgt av en hydraulisk retensjonstid på minst 20 dager.Termofil anaerob nedbryting ved 55 °C med en behandlingsprosess som omfatter pasteurisering som beskrevet i kapittel I avsnitt 1 nr. 1 i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142).Termofil anaerob nedbryting ved 55 °C etterfulgt av kompostering ved70 °C eller mer i minst 3 dager,65 °C eller mer i minst 5 dager,60 °C eller mer i minst sju dager eller55 °C eller mer i minst 14 dager.Mesofil anaerob nedbryting ved 37-40 °C med en behandlingsprosess som omfatter pasteurisering som beskrevet i kapittel I avsnitt 1 nr. 1 i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142).Mesofil anaerob nedbryting ved 37-40 °C etterfulgt av kompostering ved70 °C eller mer i minst 3 dager,65 °C eller mer i minst 5 dager,60 °C eller mer i minst sju dager eller55 °C eller mer i minst 14 dager.
+3\. Den anaerobe nedbrytingen skal bestå av kontrollert nedbryting av biologisk nedbrytbare materialer som hovedsakelig er anaerob, og ved temperaturer som er egnet for mesofile eller termofile bakterier. Alle deler av hvert parti skal regelmessig og grundig omrøres og vendes for å sikre riktig hygienisering og ensartethet for materialet. Under nedbrytingsprosessen skal alle deler av hvert parti ha en av følgende temperatur/tid-profiler:
+
+1. Termofil anaerob nedbryting ved 55 °C i minst 24 timer etterfulgt av en hydraulisk retensjonstid på minst 20 dager.
+2. Termofil anaerob nedbryting ved 55 °C med en behandlingsprosess som omfatter pasteurisering som beskrevet i kapittel I avsnitt 1 nr. 1 i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142).
+3. Termofil anaerob nedbryting ved 55 °C etterfulgt av kompostering ved
+
+   - 70 °C eller mer i minst 3 dager,
+   - 65 °C eller mer i minst 5 dager,
+   - 60 °C eller mer i minst sju dager eller
+   - 55 °C eller mer i minst 14 dager.
+4. Mesofil anaerob nedbryting ved 37-40 °C med en behandlingsprosess som omfatter pasteurisering som beskrevet i kapittel I avsnitt 1 nr. 1 i vedlegg V til forordning [(EU) nr. 142/2011](eu/32011r0142).
+5. Mesofil anaerob nedbryting ved 37-40 °C etterfulgt av kompostering ved
+
+   - 70 °C eller mer i minst 3 dager,
+   - 65 °C eller mer i minst 5 dager,
+   - 60 °C eller mer i minst sju dager eller
+   - 55 °C eller mer i minst 14 dager.
 
 ►**M6**
 
@@ -1334,17 +2171,34 @@ Med henblikk på dette punktet omfatter planter også sopp og alger, men ikke bl
 
 3c. En EU-gjødselvare kan inneholde en biorest som er i samsvar med nr. 1-3 eller nr. 3b samt en fraksjon som er i samsvar med nr. 3a, og som bare har gjennomgått en fysisk bearbeiding for å fjerne vann, uten at det er hensikten på annen måte å endre bioresten eller fraksjonen.
 
-3d. Tilsetningsstoffer som er nødvendige ved etterbearbeiding av en biorest eller en fraksjon i samsvar med nr. 3a, 3b og 3c, kan brukes forutsatt attilsetningsstoffet oppfyller kravene fastsatt i nr. 2 i komponentmaterialkategori 1,konsentrasjonen av de tilsetningsstoffene som er nødvendige i hver prosess, ikke overstiger 5 % av vekten av bioresten eller fraksjonen som brukes som innsatsmateriale i den respektive prosessen.
+3d. Tilsetningsstoffer som er nødvendige ved etterbearbeiding av en biorest eller en fraksjon i samsvar med nr. 3a, 3b og 3c, kan brukes forutsatt at
+
+1. tilsetningsstoffet oppfyller kravene fastsatt i nr. 2 i komponentmaterialkategori 1,
+2. konsentrasjonen av de tilsetningsstoffene som er nødvendige i hver prosess, ikke overstiger 5 % av vekten av bioresten eller fraksjonen som brukes som innsatsmateriale i den respektive prosessen.
 
 4\. Bioresten eller fraksjonen nevnt i nr. 3a, 3b og 3c skal ikke inneholde mer enn 6 mg/kg tørrstoff av PAH16\*\*.
 
 \*\* Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.
 
-5\. Biorestene eller fraksjonen nevnt i nr. 3a, 3b og 3c skal inneholde: ◄**M6**høyst 3 g/kg tørrstoff av makroskopiske urenheter på over 2 mm for hver av formene glass, metall eller plast oghøyst 5 g/kg tørrstoff av summen av de makroskopiske urenhetene nevnt i bokstav a).Fra 16. juli 2026 skal forekomsten av plast på over 2 mm innenfor grenseverdien nevnt i bokstav a) være høyst 2,5 g/kg tørrstoff. Senest 16. juli 2029 skal grenseverdien på 2,5 g/kg tørrstoff for plast på over 2 mm vurderes på nytt for å ta hensyn til framskrittene innen separat innsamling av bioavfall.
+5\. Biorestene eller fraksjonen nevnt i nr. 3a, 3b og 3c skal inneholde: ◄**M6**
+
+1. høyst 3 g/kg tørrstoff av makroskopiske urenheter på over 2 mm for hver av formene glass, metall eller plast og
+2. høyst 5 g/kg tørrstoff av summen av de makroskopiske urenhetene nevnt i bokstav a).
+
+Fra 16. juli 2026 skal forekomsten av plast på over 2 mm innenfor grenseverdien nevnt i bokstav a) være høyst 2,5 g/kg tørrstoff. Senest 16. juli 2029 skal grenseverdien på 2,5 g/kg tørrstoff for plast på over 2 mm vurderes på nytt for å ta hensyn til framskrittene innen separat innsamling av bioavfall.
 
 ►**M6**
 
-6\. Bioresten eller fraksjonen nevnt i nr. 3a, 3b og 3c skal oppfylle minst ett av følgende stabilitetskriterier: ◄**M6**Oksygenopptakshastighet:Definisjon: En indikator på i hvilken grad biologisk nedbrytbart materiale nedbrytes innenfor et fastsatt tidsrom. Metoden er ikke egnet for materiale der innholdet av partikler større enn 10 mm overstiger 20 %.Kriterium: høyst 25 mmol O2/kg organisk materiale/time.Restbiogasspotensial:Definisjon: En indikator på gassen som frigis fra en biorest i en periode på 28 dager, og som måles mot de flyktige faste stoffene i prøven. Testen utføres tre ganger, og gjennomsnittsresultatet brukes til å dokumentere at kriteriet er oppfylt. De flyktige faste stoffene er de faste stoffene i en materialprøve som forsvinner når tørrstoffet forbrennes ved 550 °C.Kriterium: høyst 0,25 l biogass/g flyktige faste stoffer.
+6\. Bioresten eller fraksjonen nevnt i nr. 3a, 3b og 3c skal oppfylle minst ett av følgende stabilitetskriterier: ◄**M6**
+
+1. Oksygenopptakshastighet:
+
+   - Definisjon: En indikator på i hvilken grad biologisk nedbrytbart materiale nedbrytes innenfor et fastsatt tidsrom. Metoden er ikke egnet for materiale der innholdet av partikler større enn 10 mm overstiger 20 %.
+   - Kriterium: høyst 25 mmol O2/kg organisk materiale/time.
+2. Restbiogasspotensial:
+
+   - Definisjon: En indikator på gassen som frigis fra en biorest i en periode på 28 dager, og som måles mot de flyktige faste stoffene i prøven. Testen utføres tre ganger, og gjennomsnittsresultatet brukes til å dokumentere at kriteriet er oppfylt. De flyktige faste stoffene er de faste stoffene i en materialprøve som forsvinner når tørrstoffet forbrennes ved 550 °C.
+   - Kriterium: høyst 0,25 l biogass/g flyktige faste stoffer.
 
 ►**M10**
 
@@ -1354,7 +2208,14 @@ Med henblikk på dette punktet omfatter planter også sopp og alger, men ikke bl
 
 ###### Komponentmaterialkategori 6: BIPRODUKTER FRA NÆRINGSMIDDELINDUSTRIEN
 
-1\. En EU-gjødselvare kan inneholde komponentmateriale som består av et av følgende stoffer:Kalk fra næringsmiddelproduksjon, det vil si et materiale fra næringsmiddelindustrien oppnådd ved karbonisering av organisk materiale, der det utelukkende er brukt brent kalk fra naturlige kilder.Melasse, det vil si et tyktflytende biprodukt fra raffinering av sukkerrør eller sukkerbeter til sukker.Vinasse, det vil si et tyktflytende biprodukt fra gjæring av melasse til etanol, askorbinsyre eller andre produkter.Berme, det vil si biprodukter fra produksjon av alkoholholdige drikker.Planter, plantedeler eller planteekstrakter som har gjennomgått enten bare varmebehandling eller varmebehandling i tillegg til bearbeidingsmetodene nevnt i komponentmaterialkategori 2.Kalk fra produksjon av drikkevann, det vil si restprodukter som frigis ved produksjon av drikkevann fra grunnvann eller overflatevann, og som hovedsakelig består av kalsiumkarbonat.
+1\. En EU-gjødselvare kan inneholde komponentmateriale som består av et av følgende stoffer:
+
+1. Kalk fra næringsmiddelproduksjon, det vil si et materiale fra næringsmiddelindustrien oppnådd ved karbonisering av organisk materiale, der det utelukkende er brukt brent kalk fra naturlige kilder.
+2. Melasse, det vil si et tyktflytende biprodukt fra raffinering av sukkerrør eller sukkerbeter til sukker.
+3. Vinasse, det vil si et tyktflytende biprodukt fra gjæring av melasse til etanol, askorbinsyre eller andre produkter.
+4. Berme, det vil si biprodukter fra produksjon av alkoholholdige drikker.
+5. Planter, plantedeler eller planteekstrakter som har gjennomgått enten bare varmebehandling eller varmebehandling i tillegg til bearbeidingsmetodene nevnt i komponentmaterialkategori 2.
+6. Kalk fra produksjon av drikkevann, det vil si restprodukter som frigis ved produksjon av drikkevann fra grunnvann eller overflatevann, og som hovedsakelig består av kalsiumkarbonat.
 
 ►**M6**
 
@@ -1364,7 +2225,17 @@ Med henblikk på dette punktet omfatter planter også sopp og alger, men ikke bl
 
 ###### Komponentmaterialkategori 7: MIKROORGANISMER
 
-En EU-gjødselvare som tilhører produktfunksjonskategori 6.A, kan inneholde mikroorganismer, herunder døde mikroorganismer eller mikroorganismer med tomme celler og ikke-skadelige restelementer fra mediene de er produsert på, somikke har gjennomgått annen behandling enn tørking eller frysetørking, oger oppført i tabellen nedenfor:*Azotobacter* spp.*Mycorrhizal fungi**Rhizobium* spp.*Azospirillum* spp.
+En EU-gjødselvare som tilhører produktfunksjonskategori 6.A, kan inneholde mikroorganismer, herunder døde mikroorganismer eller mikroorganismer med tomme celler og ikke-skadelige restelementer fra mediene de er produsert på, som
+
+- ikke har gjennomgått annen behandling enn tørking eller frysetørking, og
+- er oppført i tabellen nedenfor:
+
+  |  |
+  | --- |
+  | *Azotobacter* spp. |
+  | *Mycorrhizal fungi* |
+  | *Rhizobium* spp. |
+  | *Azospirillum* spp. |
 
 ###### Komponentmaterialkategori 8: NÆRINGSSTOFFPOLYMERER
 
@@ -1378,7 +2249,11 @@ En EU-gjødselvare som tilhører produktfunksjonskategori 6.A, kan inneholde mik
 
 ###### Komponentmaterialkategori 9: ANDRE POLYMERER ENN NÆRINGSSTOFFPOLYMERER
 
-1\. En EU-gjødselvare kan bare inneholde andre polymerer enn næringsstoffpolymerer dersom formålet med polymeren erå styre vanninntrengingen i næringsstoffpartiklene og dermed frigivelsen av næringsstoffer (da kalles polymeren vanligvis «overflatebehandlingsmiddel»),å øke EU-gjødselvarens vannretensjons- eller fuktningsevne, ellerå binde materiale i en EU-gjødselvare som tilhører produktfunksjonskategori 4.
+1\. En EU-gjødselvare kan bare inneholde andre polymerer enn næringsstoffpolymerer dersom formålet med polymeren er
+
+1. å styre vanninntrengingen i næringsstoffpartiklene og dermed frigivelsen av næringsstoffer (da kalles polymeren vanligvis «overflatebehandlingsmiddel»),
+2. å øke EU-gjødselvarens vannretensjons- eller fuktningsevne, eller
+3. å binde materiale i en EU-gjødselvare som tilhører produktfunksjonskategori 4.
 
 ►**M11**
 
@@ -1396,13 +2271,32 @@ En EU-gjødselvare som tilhører produktfunksjonskategori 6.A, kan inneholde mik
 
 ◄**M11**
 
-1. I testen der det testes for akutt toksisitet for planters vekst, skal spireevnen og plantebiomassen til de testede planteartene som dyrkes i jorden som eksponeres for testmaterialet, være høyere enn 90 % av spireevnen og plantebiomassen til de samme planteartene som dyrkes i tilsvarende referansejord som ikke eksponeres for testmaterialet.Resultatene anses bare for å være gyldige dersom det av kontrollprøvene (det vil si referansejorden) framgår atspiringen er minst 70 %,kimplantene ikke viser synlige fytotoksiske virkninger (for eksempel klorose, nekrose, inntørking eller deformasjon av blader og stilt), og det bare ses normale variasjoner i vekst og morfologi for den aktuelle arten,gjennomsnittlig overlevelse for kontrollkimplantene som utvikles, er på minst 90 % i hele undersøkelsesperioden, ogmiljøforholdene for en bestemt art er identiske, og at dyrkingsmediene inneholder den samme mengden jordmatriks, støttemedier eller substrat fra samme kilde.
-2. I testen der det testes for akutt toksisitet for meitemarker, skal forskjellen i den observerte dødeligheten for og biomassen til de overlevende meitemarkene i jord som eksponeres for testmaterialet, være høyst 10 % sammenlignet med tilsvarende referansejord som ikke eksponeres for testmaterialet. Resultatene anses for å være gyldige dersomdødeligheten som observeres i kontrollen (dvs. referansejorden), er lavere enn 10 %, ogdet gjennomsnittlige tapet av meitemarkenes biomasse (middelvekt) i referansejorden ikke overstiger 20 %.
+1. I testen der det testes for akutt toksisitet for planters vekst, skal spireevnen og plantebiomassen til de testede planteartene som dyrkes i jorden som eksponeres for testmaterialet, være høyere enn 90 % av spireevnen og plantebiomassen til de samme planteartene som dyrkes i tilsvarende referansejord som ikke eksponeres for testmaterialet.
+
+   Resultatene anses bare for å være gyldige dersom det av kontrollprøvene (det vil si referansejorden) framgår at
+
+   - spiringen er minst 70 %,
+   - kimplantene ikke viser synlige fytotoksiske virkninger (for eksempel klorose, nekrose, inntørking eller deformasjon av blader og stilt), og det bare ses normale variasjoner i vekst og morfologi for den aktuelle arten,
+   - gjennomsnittlig overlevelse for kontrollkimplantene som utvikles, er på minst 90 % i hele undersøkelsesperioden, og
+   - miljøforholdene for en bestemt art er identiske, og at dyrkingsmediene inneholder den samme mengden jordmatriks, støttemedier eller substrat fra samme kilde.
+2. I testen der det testes for akutt toksisitet for meitemarker, skal forskjellen i den observerte dødeligheten for og biomassen til de overlevende meitemarkene i jord som eksponeres for testmaterialet, være høyst 10 % sammenlignet med tilsvarende referansejord som ikke eksponeres for testmaterialet. Resultatene anses for å være gyldige dersom
+
+   - dødeligheten som observeres i kontrollen (dvs. referansejorden), er lavere enn 10 %, og
+   - det gjennomsnittlige tapet av meitemarkenes biomasse (middelvekt) i referansejorden ikke overstiger 20 %.
 3. I nitrifikasjonshemmertesten med jordmikroorganismer skal danningen av nitritt i jord som eksponeres for testmaterialet, være høyere enn 90 % sammenlignet med tilsvarende referansejord som ikke eksponeres for testmaterialet. Resultatene skal anses for å være gyldige dersom variasjonen mellom replikatene av kontrollprøvene (referansejord) og testprøvene er mindre enn 20 %.
 
 ►**M11**
 
-4\. Polymeren nevnt i nr. 1a skal bestå en test med tanke på kronisk toksisitet for meitemarker, slik atden observerte dødeligheten for og biomassen til de overlevende voksne meitemarkene i jord som eksponeres for testmaterialet, etter en inkubasjonstid på 28 dager ikke avviker med mer enn 10 % sammenlignet med tilsvarende referansejord som ikke eksponeres for testmaterialet,det observerte antallet avkom i jord som eksponeres for testmaterialet, etter en inkubasjonstid på 56 dager ikke avviker med mer enn 10 % sammenlignet med tilsvarende referansejord som ikke eksponeres for testmaterialet.Resultatene anses for å være gyldige bare dersom det av kontrollprøvene (det vil si referansejorden) framgår atden observerte dødeligheten hos voksne etter en inkubasjonstid på 28 dager er høyst 10 %,hvert replikat (som inneholder ti voksne) etter en inkubasjonstid på 56 dager produserer minst 30 avkom, ogvariasjonskoeffisienten for reproduksjon er høyst 30 %.
+4\. Polymeren nevnt i nr. 1a skal bestå en test med tanke på kronisk toksisitet for meitemarker, slik at
+
+1. den observerte dødeligheten for og biomassen til de overlevende voksne meitemarkene i jord som eksponeres for testmaterialet, etter en inkubasjonstid på 28 dager ikke avviker med mer enn 10 % sammenlignet med tilsvarende referansejord som ikke eksponeres for testmaterialet,
+2. det observerte antallet avkom i jord som eksponeres for testmaterialet, etter en inkubasjonstid på 56 dager ikke avviker med mer enn 10 % sammenlignet med tilsvarende referansejord som ikke eksponeres for testmaterialet.
+
+Resultatene anses for å være gyldige bare dersom det av kontrollprøvene (det vil si referansejorden) framgår at
+
+1. den observerte dødeligheten hos voksne etter en inkubasjonstid på 28 dager er høyst 10 %,
+2. hvert replikat (som inneholder ti voksne) etter en inkubasjonstid på 56 dager produserer minst 30 avkom, og
+3. variasjonskoeffisienten for reproduksjon er høyst 30 %.
 
 ◄**M11**
 
@@ -1412,19 +2306,55 @@ En EU-gjødselvare som tilhører produktfunksjonskategori 6.A, kan inneholde mik
 
 Kriterier for biologisk nedbrytbarhet for polymerer i markdekningsfilmer nevnt i nr. 1a i avsnittet Komponentmaterialkategori 9
 
-1\. Den biologiske nedbrytbarheten for polymerer i markdekningsfilmer nevnt i nr. 1a i avsnittet Komponentmaterialekategori 9 skal påvises i følgende to deler av miljøet:Del 1: jord.Del 2: grensesnittet mellom sediment og ferskvann, estuarint vann eller sjøvann.
+1\. Den biologiske nedbrytbarheten for polymerer i markdekningsfilmer nevnt i nr. 1a i avsnittet Komponentmaterialekategori 9 skal påvises i følgende to deler av miljøet:
 
-2\. Polymeren skal oppnå følgende:I del 1:Fullstendig nedbryting på minst 90 % i forhold til referansematerialets nedbryting innen 24 måneder pluss produktets funksjonsperiode som angitt på etiketten ellermineralisering på minst 90 % målt som utviklet CO2 i løpet av høyst 24 måneder pluss produktets funksjonsperiode som angitt på etiketten.I del 2:Fullstendig nedbryting på minst 30 % i forhold til referansematerialets nedbryting i løpet av tolv måneder ellerfullstendig nedbryting på minst 90 % i forhold til referansematerialets nedbryting i løpet av 24 måneder pluss produktets funksjonsperiode som angitt på etiketten.
+1. Del 1: jord.
+2. Del 2: grensesnittet mellom sediment og ferskvann, estuarint vann eller sjøvann.
 
-3\. For å påvise kriteriene for biologisk nedbrytbarhet i nr. 2 bokstav a) skal en av følgende testmetoder brukes:EN ISO 17556:2019. Plastics – Determination of the ultimate aerobic biodegradability of plastic materials in soil by measuring the oxygen demand in a respirometer or the amount of carbon dioxide evolved.ISO/CD 23517:2021. Plastics – Soil biodegradable materials for mulch films for use in agriculture and horticulture.ASTM D5988-96:2018. Standard Test Method for Determining Aerobic Biodegradation in Soil of Plastic Materials.
+2\. Polymeren skal oppnå følgende:
 
-4\. Dersom det ikke forekommer noen faseovergang (glassovergang eller smelteovergang) mellom 25 °C og 37 °C, kan temperaturen under testing i samsvar med nr. 3 bokstav a), b) og c) justeres til 37 °C.Da anses det relevante kriteriet i nr. 2 bokstav a) for å være påvist dersom polymeren oppnårminst 45 % fullstendig nedbryting eller mineralisering som nevnt i nr. 2 bokstav a) i en separat test ved 25 °C i løpet av ti måneder, der nedbrytingen eller mineraliseringen skal følge en stigende kurve og platåfasen ikke skal være nådd, med mindre nedbrytingen eller mineraliseringen er minst 90 %, oget av følgende kriterier:Fullstendig nedbryting på minst 90 % i forhold til referansematerialets nedbryting innen ti måneder pluss produktets funksjonsperiode angitt på etiketten ellermineralisering på minst 90 % målt som utviklet CO2 i løpet av høyst ti måneder pluss produktets funksjonsperiode angitt på etiketten.
+1. I del 1:
 
-5\. For å påvise kriteriene for biologisk nedbrytbarhet i nr. 2 bokstav b) skal en av følgende testmetoder brukes:EN/ISO 14851:2019. Determination of the ultimate aerobic biodegradability of plastic materials in an aqueous medium. Method by measuring the oxygen demand in a closed respirometer. EN/ISO 14852:2021. Determination of the ultimate aerobic biodegradability of plastic materials in an aqueous medium. Method by analysis of evolved carbon dioxide. ASTM D6691:2018 Standard Test Method for Determining Aerobic Biodegradation of Plastic Materials in the Marine Environment by a Defined Microbial Consortium or Natural Sea Water Inoculum. EN/ISO 19679:2020 Plastics – Determination of aerobic biodegradation of non-floating plastic materials in a seawater/sediment interface – Method by analysis of evolved carbon dioxide. EN/ISO 18830:2017 Plastics – Determination of aerobic biodegradation of non-floating plastic materials in a seawater/sandy sediment interface – Method by measuring the oxygen demand in closed respirometer.
+   1. Fullstendig nedbryting på minst 90 % i forhold til referansematerialets nedbryting innen 24 måneder pluss produktets funksjonsperiode som angitt på etiketten eller
+   2. mineralisering på minst 90 % målt som utviklet CO2 i løpet av høyst 24 måneder pluss produktets funksjonsperiode som angitt på etiketten.
+2. I del 2:
 
-6\. Polymerer kan testes i en av følgende former:I den formen filmen bringes i omsetning.I form av pulver fra malt film.
+   1. Fullstendig nedbryting på minst 30 % i forhold til referansematerialets nedbryting i løpet av tolv måneder eller
+   2. fullstendig nedbryting på minst 90 % i forhold til referansematerialets nedbryting i løpet av 24 måneder pluss produktets funksjonsperiode som angitt på etiketten.
 
-7\. Følgende materiale kan brukes som referansemateriale:Positive kontroller: Biologisk nedbrytbart materiale, for eksempel pulver av mikrokrystallinsk cellulose, askefrie cellulosefiltre eller poly-β-hydroksybutyrat.Negative kontroller: Ikke-biologisk nedbrytbare polymerer, for eksempel polyetylen eller polystyren.
+3\. For å påvise kriteriene for biologisk nedbrytbarhet i nr. 2 bokstav a) skal en av følgende testmetoder brukes:
+
+1. EN ISO 17556:2019. Plastics – Determination of the ultimate aerobic biodegradability of plastic materials in soil by measuring the oxygen demand in a respirometer or the amount of carbon dioxide evolved.
+2. ISO/CD 23517:2021. Plastics – Soil biodegradable materials for mulch films for use in agriculture and horticulture.
+3. ASTM D5988-96:2018. Standard Test Method for Determining Aerobic Biodegradation in Soil of Plastic Materials.
+
+4\. Dersom det ikke forekommer noen faseovergang (glassovergang eller smelteovergang) mellom 25 °C og 37 °C, kan temperaturen under testing i samsvar med nr. 3 bokstav a), b) og c) justeres til 37 °C.
+
+Da anses det relevante kriteriet i nr. 2 bokstav a) for å være påvist dersom polymeren oppnår
+
+1. minst 45 % fullstendig nedbryting eller mineralisering som nevnt i nr. 2 bokstav a) i en separat test ved 25 °C i løpet av ti måneder, der nedbrytingen eller mineraliseringen skal følge en stigende kurve og platåfasen ikke skal være nådd, med mindre nedbrytingen eller mineraliseringen er minst 90 %, og
+2. et av følgende kriterier:
+
+   1. Fullstendig nedbryting på minst 90 % i forhold til referansematerialets nedbryting innen ti måneder pluss produktets funksjonsperiode angitt på etiketten eller
+   2. mineralisering på minst 90 % målt som utviklet CO2 i løpet av høyst ti måneder pluss produktets funksjonsperiode angitt på etiketten.
+
+5\. For å påvise kriteriene for biologisk nedbrytbarhet i nr. 2 bokstav b) skal en av følgende testmetoder brukes:
+
+1. EN/ISO 14851:2019. Determination of the ultimate aerobic biodegradability of plastic materials in an aqueous medium. Method by measuring the oxygen demand in a closed respirometer.
+2. EN/ISO 14852:2021. Determination of the ultimate aerobic biodegradability of plastic materials in an aqueous medium. Method by analysis of evolved carbon dioxide.
+3. ASTM D6691:2018 Standard Test Method for Determining Aerobic Biodegradation of Plastic Materials in the Marine Environment by a Defined Microbial Consortium or Natural Sea Water Inoculum.
+4. EN/ISO 19679:2020 Plastics – Determination of aerobic biodegradation of non-floating plastic materials in a seawater/sediment interface – Method by analysis of evolved carbon dioxide.
+5. EN/ISO 18830:2017 Plastics – Determination of aerobic biodegradation of non-floating plastic materials in a seawater/sandy sediment interface – Method by measuring the oxygen demand in closed respirometer.
+
+6\. Polymerer kan testes i en av følgende former:
+
+1. I den formen filmen bringes i omsetning.
+2. I form av pulver fra malt film.
+
+7\. Følgende materiale kan brukes som referansemateriale:
+
+1. Positive kontroller: Biologisk nedbrytbart materiale, for eksempel pulver av mikrokrystallinsk cellulose, askefrie cellulosefiltre eller poly-β-hydroksybutyrat.
+2. Negative kontroller: Ikke-biologisk nedbrytbare polymerer, for eksempel polyetylen eller polystyren.
 
 ◄**M11**
 
@@ -1448,7 +2378,44 @@ Kriterier for biologisk nedbrytbarhet for polymerer i markdekningsfilmer nevnt i
 
 ###### Komponentmaterialkategori 11: BIPRODUKTER I HENHOLD TIL DIREKTIV [2008/98/EF](eu/32008l0098)
 
-1\. En EU-gjødselvare kan inneholde biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098), bortsett fra7animalske biprodukter eller avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069),►**M1**andre polymerer ennpolymerer som er resultatet av en polymeriseringsprosess som har funnet sted i naturen, uavhengig av ekstraksjonsprosessen brukt til å ekstrahere dem, og som ikke er kjemisk modifisert som definert i artikkel 3 nr. 40 i forordning [(EF) nr. 1907/2006](eu/32006r1907),biologisk nedbrytbare polymerer ellerpolymerer med en vannløselighet på over 2 g/l under følgende forhold:temperatur: 20 °CpH 7dosering: 10 g / 1 000 mltestvarighet: 24 timer◄**M1**►**M2**kompostbiorester ellerutfelte fosfatsalter eller derivater av disse som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098).◄**M2**►**M3**materialer fra termisk oksidasjon eller derivater av disse som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098) ►**M5 --- ◄M5**◄**M3**►**M4**pyrolyse- og gassifiseringsmaterialer som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098)**►M5**, eller**◄M5**◄**M4**►**M5**ammoniumsalter, sulfatsalter, fosfatsalter, elementær svovel, kalsiumkarbonat eller kalsiumoksid som er gjenvunnet fra avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098).◄**M5**
+1\. En EU-gjødselvare kan inneholde biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098), bortsett fra7
+
+1. animalske biprodukter eller avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069),
+
+   ►**M1**
+2. andre polymerer enn
+
+   - polymerer som er resultatet av en polymeriseringsprosess som har funnet sted i naturen, uavhengig av ekstraksjonsprosessen brukt til å ekstrahere dem, og som ikke er kjemisk modifisert som definert i artikkel 3 nr. 40 i forordning [(EF) nr. 1907/2006](eu/32006r1907),
+   - biologisk nedbrytbare polymerer eller
+   - polymerer med en vannløselighet på over 2 g/l under følgende forhold:
+   - temperatur: 20 °C
+   - pH 7
+   - dosering: 10 g / 1 000 ml
+   - testvarighet: 24 timer
+
+   ◄**M1**
+
+   ►**M2**
+3. kompost
+4. biorester eller
+5. utfelte fosfatsalter eller derivater av disse som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098).
+
+   ◄**M2**
+
+   ►**M3**
+6. materialer fra termisk oksidasjon eller derivater av disse som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098) ►**M5 --- ◄M5**
+
+   ◄**M3**
+
+   ►**M4**
+7. pyrolyse- og gassifiseringsmaterialer som er gjenvunnet fra avfall, eller som er biprodukter som definert i direktiv [2008/98/EF](eu/32008l0098)**►M5**, eller**◄M5**
+
+   ◄**M4**
+
+   ►**M5**
+8. ammoniumsalter, sulfatsalter, fosfatsalter, elementær svovel, kalsiumkarbonat eller kalsiumoksid som er gjenvunnet fra avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098).
+
+   ◄**M5**
 
 ►**M6**
 
@@ -1462,17 +2429,51 @@ Kriterier for biologisk nedbrytbarhet for polymerer i markdekningsfilmer nevnt i
 
 ###### Komponentmaterialkategori 12: UTFELTE FOSFATSALTER OG DERIVATER AV DISSE
 
-1\. En EU-gjødselvare kan inneholde utfelte fosfatsalter framstilt ved utfelling fra utelukkende et eller flere av følgende innsatsmaterialer:Spillvann og avløpsslam fra kommunale renseanlegg, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Spillvann og slam fra bearbeiding av næringsmidler, drikker, kjæledyrfôr, fôr eller melkeprodukter, bortsett fra animalske biprodukter eller avledede produkter om omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069), med mindre bearbeidingstrinnene innebærer kontakt med biocidprodukter som omhandlet i artikkel 3 nr. 1 bokstav a) i europaparlaments- og rådsforordning [(EU) nr. 528/2012](eu/32012r0528)\*, bortsett fra de som er definert som produkttype 4 i hovedgruppe 1 i vedlegg V til den forordningen.Bioavfall som definert i artikkel 3 nr. 4 i [direktiv 2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Rester fra produksjonsprosessen som definert i artikkel 2 bokstav t) i europaparlaments- og rådsdirektiv [2009/28/EF](eu/32009l0028)\*\* fra produksjon av bioetanol og biodiesel avledet av materialer nevnt i bokstav b), c) og e) i dette nummeret.Levende eller døde organismer eller deler av dette som ikke er bearbeidet, eller som bare er bearbeidet ved manuell, mekanisk eller tyngdemessig påvirkning, oppløsning i vann, flotasjon, ekstraksjon med vann, dampdestillasjon eller oppvarming utelukkende for å fjerne vann, eller som er utvunnet fra luft på en hvilken som helst måte, bortsett fra(\*\*\*)materialer som stammer fra blandet kommunalt avfall,avløpsslam, industrislam eller oppmudringsslam,animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Andre stoffer og stoffblandinger enn\*\*\*de som er nevnt i bokstav a)-e),avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098),stoffer og stoffblandinger som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098),stoffer som er dannet av utgangsstoffer som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098), eller stoffblandinger som inneholder slike stoffer,ikke-biologisk nedbrytbare polymerer,animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Utfelte fosfatsalter skal dessuten framstilles ved utfelling fra innsatsmaterialene nevnt i bokstav a)-f), eller en kombinasjon av dette, som er bearbeidet ved manuell, mekanisk eller tyngdemessig påvirkning, fast-flytende fraksjonering ved bruk av biologisk nedbrytbare polymerer, oppløsning i vann, flotasjon, ekstraksjon med vann, dampdestillasjon eller oppvarming utelukkende for å fjerne vann, termisk hydrolyse, anaerob nedbryting eller kompostering. Temperaturen under slike prosesser skal ikke overstige 275 °C.
+1\. En EU-gjødselvare kan inneholde utfelte fosfatsalter framstilt ved utfelling fra utelukkende et eller flere av følgende innsatsmaterialer:
 
-2\. Utfellingsprosessen skal skje under kontrollerte forhold i en reaktor. I tillegg skal det bare brukes innsatsmaterialer som ikke er forurenset med andre materialstrømmer eller innsatsmaterialer, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069), og som utilsiktet er blitt forurenset med andre materialstrømmer under en enkeltstående hendelse, og som bare fører til spormengder av eksogene forbindelser.På anlegget der utfellingen finner sted, skal fysisk kontakt mellom innsatsmaterialet og produsert materiale unngås etter utfellingsprosessen, også under oppbevaring.
+1. Spillvann og avløpsslam fra kommunale renseanlegg, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+2. Spillvann og slam fra bearbeiding av næringsmidler, drikker, kjæledyrfôr, fôr eller melkeprodukter, bortsett fra animalske biprodukter eller avledede produkter om omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069), med mindre bearbeidingstrinnene innebærer kontakt med biocidprodukter som omhandlet i artikkel 3 nr. 1 bokstav a) i europaparlaments- og rådsforordning [(EU) nr. 528/2012](eu/32012r0528)\*, bortsett fra de som er definert som produkttype 4 i hovedgruppe 1 i vedlegg V til den forordningen.
+3. Bioavfall som definert i artikkel 3 nr. 4 i [direktiv 2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+4. Rester fra produksjonsprosessen som definert i artikkel 2 bokstav t) i europaparlaments- og rådsdirektiv [2009/28/EF](eu/32009l0028)\*\* fra produksjon av bioetanol og biodiesel avledet av materialer nevnt i bokstav b), c) og e) i dette nummeret.
+5. Levende eller døde organismer eller deler av dette som ikke er bearbeidet, eller som bare er bearbeidet ved manuell, mekanisk eller tyngdemessig påvirkning, oppløsning i vann, flotasjon, ekstraksjon med vann, dampdestillasjon eller oppvarming utelukkende for å fjerne vann, eller som er utvunnet fra luft på en hvilken som helst måte, bortsett fra(\*\*\*)
 
-3\. De utfelte fosfatsaltene skal inneholdeet minsteinnhold av fosforpentoksid (P2O5) på 16 % av tørrstoffinnholdet,et høyeste innhold av organisk karbon (Corg) på 3 % av tørrstoffinnholdet,høyst 3 g/kg tørrstoff av makroskopiske urenheter på over 2 mm i en av følgende former: organisk materiale, glass, stein, metall og plast,høyst 5 g/kg tørrstoff av summen av de makroskopiske urenhetene nevnt i bokstav c).
+   - materialer som stammer fra blandet kommunalt avfall,
+   - avløpsslam, industrislam eller oppmudringsslam,
+   - animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+6. Andre stoffer og stoffblandinger enn\*\*\*
 
-4\. En EU-gjødselvare kan inneholde derivater av utfelte fosfatsalter framstilt gjennom et eller flere kjemiske framstillingstrinn der de utfelte fosfatsaltene reagerer med materialene nevnt i nr. 1 bokstav f) som forbrukes ved eller brukes til kjemisk bearbeiding.Derivatene skal framstilles på en slik måte at den kjemiske sammensetningen av de utfelte fosfatsaltene endres med hensikt.
+   - de som er nevnt i bokstav a)-e),
+   - avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098),
+   - stoffer og stoffblandinger som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098),
+   - stoffer som er dannet av utgangsstoffer som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098), eller stoffblandinger som inneholder slike stoffer,
+   - ikke-biologisk nedbrytbare polymerer,
+   - animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+
+Utfelte fosfatsalter skal dessuten framstilles ved utfelling fra innsatsmaterialene nevnt i bokstav a)-f), eller en kombinasjon av dette, som er bearbeidet ved manuell, mekanisk eller tyngdemessig påvirkning, fast-flytende fraksjonering ved bruk av biologisk nedbrytbare polymerer, oppløsning i vann, flotasjon, ekstraksjon med vann, dampdestillasjon eller oppvarming utelukkende for å fjerne vann, termisk hydrolyse, anaerob nedbryting eller kompostering. Temperaturen under slike prosesser skal ikke overstige 275 °C.
+
+2\. Utfellingsprosessen skal skje under kontrollerte forhold i en reaktor. I tillegg skal det bare brukes innsatsmaterialer som ikke er forurenset med andre materialstrømmer eller innsatsmaterialer, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069), og som utilsiktet er blitt forurenset med andre materialstrømmer under en enkeltstående hendelse, og som bare fører til spormengder av eksogene forbindelser.
+
+På anlegget der utfellingen finner sted, skal fysisk kontakt mellom innsatsmaterialet og produsert materiale unngås etter utfellingsprosessen, også under oppbevaring.
+
+3\. De utfelte fosfatsaltene skal inneholde
+
+1. et minsteinnhold av fosforpentoksid (P2O5) på 16 % av tørrstoffinnholdet,
+2. et høyeste innhold av organisk karbon (Corg) på 3 % av tørrstoffinnholdet,
+3. høyst 3 g/kg tørrstoff av makroskopiske urenheter på over 2 mm i en av følgende former: organisk materiale, glass, stein, metall og plast,
+4. høyst 5 g/kg tørrstoff av summen av de makroskopiske urenhetene nevnt i bokstav c).
+
+4\. En EU-gjødselvare kan inneholde derivater av utfelte fosfatsalter framstilt gjennom et eller flere kjemiske framstillingstrinn der de utfelte fosfatsaltene reagerer med materialene nevnt i nr. 1 bokstav f) som forbrukes ved eller brukes til kjemisk bearbeiding.
+
+Derivatene skal framstilles på en slik måte at den kjemiske sammensetningen av de utfelte fosfatsaltene endres med hensikt.
 
 5\. De utfelte fosfatsaltene som brukes til derivatene, skal oppfylle kravene i nr. 1, 2 og 3.
 
-6\. Uten hensyn til nr. 1 kan en EU-gjødselvare inneholde utfelte fosfatsalter framstilt ved utfelling fra materialer i kategori 2 eller 3 eller avledede produkter av disse i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og tiltakene nevnt i artikkel 32 nr. 3 i samme forordning, alene eller blandet med innsatsmaterialer nevnt i nr. 1, forutsatt at begge av følgende vilkår er oppfylt:Sluttpunktet i produksjonskjeden er fastsatt i samsvar med artikkel 5 nr. 2 tredje ledd i [forordning (EF) nr. 1069/2009](eu/32009r1069).Vilkårene i nr. 2 og 3 er oppfylt.En EU-gjødselvare kan også inneholde derivater av slike utfelte fosfatsalter framstilt i samsvar med vilkårene fastsatt i nr. 4.
+6\. Uten hensyn til nr. 1 kan en EU-gjødselvare inneholde utfelte fosfatsalter framstilt ved utfelling fra materialer i kategori 2 eller 3 eller avledede produkter av disse i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og tiltakene nevnt i artikkel 32 nr. 3 i samme forordning, alene eller blandet med innsatsmaterialer nevnt i nr. 1, forutsatt at begge av følgende vilkår er oppfylt:
+
+1. Sluttpunktet i produksjonskjeden er fastsatt i samsvar med artikkel 5 nr. 2 tredje ledd i [forordning (EF) nr. 1069/2009](eu/32009r1069).
+2. Vilkårene i nr. 2 og 3 er oppfylt.
+
+En EU-gjødselvare kan også inneholde derivater av slike utfelte fosfatsalter framstilt i samsvar med vilkårene fastsatt i nr. 4.
 
 7\. På anlegget der utfellingen finner sted, skal produksjonslinjene for bearbeiding av innsatsmaterialer som er tillatt for de utfelte fosfatsaltene og derivater av disse nevnt i nr. 1, 4 og 6, være tydelig atskilt fra produksjonslinjene for bearbeiding av andre innsatsmaterialer.
 
@@ -1484,7 +2485,12 @@ Kriterier for biologisk nedbrytbarhet for polymerer i markdekningsfilmer nevnt i
 | *Salmonella* spp. | 5 | 0 | 0 | Ingen i 25 g eller 25 ml |
 | ►**M10** *Escherichia coli* eller enterokokker ◄**M10** | 5 | 5 | 0 | 1 000 i 1 g eller 1 ml |
 
-dern = antall prøver som skal testes,c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,M = grenseverdien for antall bakterier uttrykt i KDE.
+der
+
+- n = antall prøver som skal testes,
+- c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,
+- m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,
+- M = grenseverdien for antall bakterier uttrykt i KDE.
 
 9\. Patogener i en EU-gjødselvare som inneholder eller består av utfelte fosfatsalter framstilt av materialer nevnt i nr. 1 bokstav a) eller derivater av slike utfelte fosfatsalter eller begge deler, skal ikke overskride grenseverdiene i følgende tabell:
 
@@ -1494,9 +2500,17 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 | *Clostridium perfringens* | 5 | 5 | 0 | 100 KDE i 1 g eller 1 ml |
 | Levedyktige egg av*Ascaris sp.* | 5 | 0 | 0 | Ingen i 25 g eller 25 ml |
 
-dern = antall prøver som skal testes,c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,M = grenseverdien for antall bakterier uttrykt i KDE.
+der
 
-10\. Kravene i nr. 8 og 9 og kravene som gjelder *Salmonella* spp*., Escherichia coli* eller ►**M10** enterokokker ◄**M10** angitt i den tilsvarende produktfunksjonskategorien for en EU-gjødselvare som utelukkende består av utfelte fosfatsalter eller deri-vater av disse eller begge deler, får ikke anvendelse når disse utfelte fosfatsaltene eller alle de biogene innsatsmaterialene som brukes i utfellingsprosessen, har gjennomgått en av følgende prosesser:Trykksterilisering ved oppvarming til en kjernetemperatur på over 133 °C i minst 20 minutter ved et absolutt trykk på minst 3 bar, der trykket skal dannes ved at all luft i steriliseringskammeret fjernes og erstattes med damp («mettet damp»).Behandling i en pasteuriserings- eller hygieniseringsenhet som når en temperatur på 70 °C i minst en time.
+- n = antall prøver som skal testes,
+- c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,
+- m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,
+- M = grenseverdien for antall bakterier uttrykt i KDE.
+
+10\. Kravene i nr. 8 og 9 og kravene som gjelder *Salmonella* spp*., Escherichia coli* eller ►**M10** enterokokker ◄**M10** angitt i den tilsvarende produktfunksjonskategorien for en EU-gjødselvare som utelukkende består av utfelte fosfatsalter eller deri-vater av disse eller begge deler, får ikke anvendelse når disse utfelte fosfatsaltene eller alle de biogene innsatsmaterialene som brukes i utfellingsprosessen, har gjennomgått en av følgende prosesser:
+
+1. Trykksterilisering ved oppvarming til en kjernetemperatur på over 133 °C i minst 20 minutter ved et absolutt trykk på minst 3 bar, der trykket skal dannes ved at all luft i steriliseringskammeret fjernes og erstattes med damp («mettet damp»).
+2. Behandling i en pasteuriserings- eller hygieniseringsenhet som når en temperatur på 70 °C i minst en time.
 
 11\. Utfelte fosfatsalter framstilt av materialer nevnt i nr. 1 bokstav a) og derivater av slike utfelte fosfatsalter skal inneholde høyst 6 mg PAH16 per kg tørrstoff\*\*\*\*.
 
@@ -1514,7 +2528,15 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 15\. Dersom det med sikkerhet og ubestridelig følger av arten av eller gjenvinningsprosessen for den utfelte fosfatsalten eller derivater av den eller framstillingsprosessen for EU-gjødselvaren at et av kravene i nr. 11 og 12 er oppfylt, kan dette formodes i framgangsmåten for samsvarsvurdering uten verifisering (for eksempel testing) på produsentens ansvar.
 
-◄**M10** \* Europaparlaments- og rådsforordning [(EU) nr. 528/2012](eu/32012r0528) av 22. mai 2012 om tilgjengeliggjøring på markedet og bruk av biocidprodukter (EUT L 167 av 27.6.2012, s. 1).\*\* Europaparlaments- og rådsdirektiv [2009/28/EF](eu/32009l0028) av 23. april 2009 om å fremme bruk av energi fra fornybare kilder, og om endring og senere oppheving av direktiv [2001/77/EF](eu/32001l0077) og [2003/30/EF](eu/32003l0030) (EUT L 140 av 5.6.2009, s. 16).\*\*\* Utelukkelse av et innsatsmateriale fra et underpunkt hindrer ikke at det kan være et tillatt innsatsmateriale i henhold til et annet underpunkt.\*\*\*\* Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.
+◄**M10**
+
+\* Europaparlaments- og rådsforordning [(EU) nr. 528/2012](eu/32012r0528) av 22. mai 2012 om tilgjengeliggjøring på markedet og bruk av biocidprodukter (EUT L 167 av 27.6.2012, s. 1).
+
+\*\* Europaparlaments- og rådsdirektiv [2009/28/EF](eu/32009l0028) av 23. april 2009 om å fremme bruk av energi fra fornybare kilder, og om endring og senere oppheving av direktiv [2001/77/EF](eu/32001l0077) og [2003/30/EF](eu/32003l0030) (EUT L 140 av 5.6.2009, s. 16).
+
+\*\*\* Utelukkelse av et innsatsmateriale fra et underpunkt hindrer ikke at det kan være et tillatt innsatsmateriale i henhold til et annet underpunkt.
+
+\*\*\*\* Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.
 
 ◄**M2**
 
@@ -1522,19 +2544,77 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 ###### Komponentmaterialkategori 13: MATERIALER FRA TERMISK OKSIDASJON OG DERIVATER AV DISSE
 
-1\. En EU-gjødselvare kan inneholde materialer fra termisk oksidasjon framstilt ved termokjemisk omdanning under ikke-oksygenbegrensende forhold av utelukkende et eller flere av følgende innsatsmaterialer:Levende eller døde organismer eller deler av dette som ikke er bearbeidet, eller som bare er bearbeidet ved manuell, mekanisk eller tyngdemessig påvirkning, oppløsning i vann, flotasjon, ekstraksjon med vann, damp-destillasjon eller oppvarming utelukkende for å fjerne vann, eller som er utvunnet fra luft på en hvilken som helst måte, bortsett fra\*materialer som stammer fra blandet kommunalt avfall,avløpsslam, industrislam eller oppmudringsslam oganimalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Vegetabilsk avfall fra næringsmiddelindustrien og fiberholdig vegetabilsk avfall fra produksjon av ny papirmasse og fra produksjon av papir fra ny papirmasse, dersom det ikke er kjemisk modifisert.Den fraksjonen av bioavfall som stammer fra etterbehandling av bioavfall som er samlet inn separat til gjenvinning i henhold til direktiv [2008/98/EF](eu/32008l0098), og som forbrenning gir det beste miljøresultatet for i samsvar med artikkel 4 i det direktivet, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Materialer som stammer fra en kontrollert mikrobiologisk eller termokjemisk omdanningsprosess der utelukkende innsatsmaterialene nevnt i bokstav a), b) og c) brukes.Avløpsslam fra kommunale renseanlegg, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Materialer fra uavhengig drevet rensing av spillvann som ikke omfattes av rådsdirektiv [91/271/EØF](eu/31991l0271)\*\*, fra næringsmiddel-, kjæledyrfôr- og melk- og drikkeindustrien, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Avfall som definert i direktiv [2008/98/EF](eu/32008l0098), bortsett fra\*innsatsmaterialene nevnt i bokstav a)-f),farlig avfall som definert i artikkel 3 nr. 2 i [direktiv 2008/98/EF](eu/32008l0098),materialer som stammer fra blandet kommunalt avfall,bioavfall som definert i artikkel 3 nr. 4 i [direktiv 2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden, oganimalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Hjelpebrensler (naturgass, flytende gass, naturgasskondensat, prosessgasser og komponenter av disse, råolje, kull, koks og derivater av dette) når de brukes for å bearbeide innsatsmaterialene nevnt i bokstav a)-g).Stoffer som brukes i produksjonsprosesser i jern- og stålindustrien.Stoffer og stoffblandinger, bortsett fra\*innsatsmaterialene nevnt i bokstav a)-i),avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098),stoffer og stoffblandinger som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098),stoffer som er dannet av utgangsstoffer som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098), eller stoffblandinger som inneholder slike stoffer, oganimalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+1\. En EU-gjødselvare kan inneholde materialer fra termisk oksidasjon framstilt ved termokjemisk omdanning under ikke-oksygenbegrensende forhold av utelukkende et eller flere av følgende innsatsmaterialer:
 
-2\. Uten hensyn til nr. 1 kan en EU-gjødselvare inneholde materialer fra termisk oksidasjon framstilt ved termokjemisk omdanning under ikke-oksygenbegrensende forhold av materialer i kategori 2 eller 3 eller avledede produkter av disse i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og tiltakene nevnt i artikkel 32 nr. 3 i samme forordning, alene eller blandet med innsatsmaterialer nevnt i nr. 1, forutsatt at begge av følgende vilkår er oppfylt:Sluttpunktet i produksjonskjeden er fastsatt i samsvar med artikkel 5 nr. 2 tredje ledd i [forordning (EF) nr. 1069/2009](eu/32009r1069).Vilkårene i nr. 3, 4 og 5 er oppfylt.
+1. Levende eller døde organismer eller deler av dette som ikke er bearbeidet, eller som bare er bearbeidet ved manuell, mekanisk eller tyngdemessig påvirkning, oppløsning i vann, flotasjon, ekstraksjon med vann, damp-destillasjon eller oppvarming utelukkende for å fjerne vann, eller som er utvunnet fra luft på en hvilken som helst måte, bortsett fra\*
 
-3\. Den termiske oksidasjonen skal skje under ikke-oksygenbegrensende forhold på en slik måte at temperaturen på gassene som oppstår ved den termokjemiske omdanningsprosessen, etter siste tilførsel av forbrenningsluft, økes på en kontrollert og homogen måte til minst 850 °C i minst to sekunder, selv under de mest ugunstige forhold. Disse vilkårene skal gjelde for alle innsatsmaterialer, bortsett frainnsatsmaterialene nevnt i nr. 1 bokstav a), b) og h) eller innsatsmaterialer som stammer fra en kontrollert mikrobiell eller termokjemisk omdanningsprosess der bare disse materialene brukes, oginnsatsmaterialene nevnt i nr. 2, der det skal anvendes en temperatur på minst 450 °C i minst 0,2 sekunder.
+   - materialer som stammer fra blandet kommunalt avfall,
+   - avløpsslam, industrislam eller oppmudringsslam og
+   - animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+2. Vegetabilsk avfall fra næringsmiddelindustrien og fiberholdig vegetabilsk avfall fra produksjon av ny papirmasse og fra produksjon av papir fra ny papirmasse, dersom det ikke er kjemisk modifisert.
+3. Den fraksjonen av bioavfall som stammer fra etterbehandling av bioavfall som er samlet inn separat til gjenvinning i henhold til direktiv [2008/98/EF](eu/32008l0098), og som forbrenning gir det beste miljøresultatet for i samsvar med artikkel 4 i det direktivet, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+4. Materialer som stammer fra en kontrollert mikrobiologisk eller termokjemisk omdanningsprosess der utelukkende innsatsmaterialene nevnt i bokstav a), b) og c) brukes.
+5. Avløpsslam fra kommunale renseanlegg, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+6. Materialer fra uavhengig drevet rensing av spillvann som ikke omfattes av rådsdirektiv [91/271/EØF](eu/31991l0271)\*\*, fra næringsmiddel-, kjæledyrfôr- og melk- og drikkeindustrien, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+7. Avfall som definert i direktiv [2008/98/EF](eu/32008l0098), bortsett fra\*
 
-4\. Den termiske oksidasjonen skal finne sted i et forbrenningskammer. I kammeret skal det bare behandles innsatsmaterialer som ikke er forurenset med andre materialstrømmer, eller innsatsmaterialer, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069), som utilsiktet er blitt forurenset med andre materialstrømmer under en enkeltstående hendelse, og som bare fører til spormengder av eksogene forbindelser.Alle følgende vilkår skal være oppfylt på anlegget der den termiske oksidasjonen finner sted:Produksjonslinjene for bearbeiding av innsatsmaterialene nevnt i nr. 1 og 2 skal være tydelig atskilt fra produksjonslinjene for bearbeiding av andre innsatsmaterialer.Innsatsmaterialene skal oksideres på en slik måte at innholdet av totalt organisk karbon (Corg) i slagget og bunnasken som dannes, utgjør mindre enn 3 % av tørrstoffet.Fysisk kontakt mellom innsatsmaterialet og produsert materiale skal unngås etter den termokjemiske omdanningsprosessen, også under oppbevaring
+   - innsatsmaterialene nevnt i bokstav a)-f),
+   - farlig avfall som definert i artikkel 3 nr. 2 i [direktiv 2008/98/EF](eu/32008l0098),
+   - materialer som stammer fra blandet kommunalt avfall,
+   - bioavfall som definert i artikkel 3 nr. 4 i [direktiv 2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden, og
+   - animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+8. Hjelpebrensler (naturgass, flytende gass, naturgasskondensat, prosessgasser og komponenter av disse, råolje, kull, koks og derivater av dette) når de brukes for å bearbeide innsatsmaterialene nevnt i bokstav a)-g).
+9. Stoffer som brukes i produksjonsprosesser i jern- og stålindustrien.
+10. Stoffer og stoffblandinger, bortsett fra\*
 
-5\. Materialene fra termisk oksidasjon skal være aske eller slagg og skal inneholde høyst6 mg PAH16\*\*\* per kg tørrstoff,20 ng WHO-toksisitetsekvivalenter\*\*\*\* av PCDD/F\*\*\*\*\* per kg tørrstoff.
+    - innsatsmaterialene nevnt i bokstav a)-i),
+    - avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098),
+    - stoffer og stoffblandinger som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098),
+    - stoffer som er dannet av utgangsstoffer som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098), eller stoffblandinger som inneholder slike stoffer, og
+    - animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
-6\. En EU-gjødselvare kan inneholde derivater av materialer fra termisk oksidasjon som er blitt framstilt fra innsatsmaterialene nevnt i nr. 1 og 2 og oppfyller vilkårene i nr. 5, og som er blitt framstilt ved en termokjemisk omdanningsprosess i samsvar med nr. 3 og 4.Derivatene skal framstilles på en slik måte at den kjemiske sammensetningen av materialet fra termisk oksidasjon endres med hensikt.Derivatene skal framstilles på følgende måte:Kjemisk framstilling: Derivatene framstilles ved hjelp av et eller flere kjemiske framstillingstrinn der materialer fra termisk oksidasjon reagerer med innsatsmaterialene nevnt i nr. 1 bokstav j) som forbrukes ved eller brukes til kjemisk bearbeiding, men det må ikke brukes ikke-biologisk nedbrytbare polymerer.Termokjemisk framstilling: Derivatene framstilles ved hjelp av et eller flere framstillingstrinn der materialer fra termisk oksidasjon reagerer termokjemisk med reaktantene nevnt i nr. 1 og 2 som forbrukes ved eller brukes til kjemisk bearbeiding.Materialer fra termisk oksidasjon som viser en eller flere av de farlige egenskapene angitt i vedlegg III til [direktiv 2008/98/EF](eu/32008l0098), skal ikke blandes eller brukes i reaksjoner med avfall, stoffer eller materialer med det formål å redusere farlige stoffer til nivåer under grenseverdiene for den farlige egenskapen fastsatt i vedlegg III til det direktivet. Produsenter som bruker materialer fra termisk oksidasjon med farlige egenskaper, skal ved hjelp av en masse-balansemetode vise at de forurensende stoffene er blitt fjernet eller omdannet til nivåer som ligger under grenseverdiene fastsatt i vedlegg III til [direktiv 2008/98/EF](eu/32008l0098).
+2\. Uten hensyn til nr. 1 kan en EU-gjødselvare inneholde materialer fra termisk oksidasjon framstilt ved termokjemisk omdanning under ikke-oksygenbegrensende forhold av materialer i kategori 2 eller 3 eller avledede produkter av disse i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og tiltakene nevnt i artikkel 32 nr. 3 i samme forordning, alene eller blandet med innsatsmaterialer nevnt i nr. 1, forutsatt at begge av følgende vilkår er oppfylt:
 
-7\. Forurensende stoffer i en EU-gjødselvare som inneholder eller består av materialer fra termisk oksidasjon eller derivater av disse, må ikke overskride følgende grenseverdier:Totalkrom (Cr): 400 mg/kg tørrstoff dersom materialene fra termisk oksidasjon eller derivater av disse stammer fra innsatsmaterialene nevnt i nr. 1 bokstav e), g) eller i).Thallium (Tl): 2 mg/kg tørrstoff dersom materialene fra termisk oksidasjon eller derivater av disse stammer fra innsatsmaterialene nevnt i nr. 1 bokstav e), g), h) eller i).Innholdet av klor (Cl-) skal ikke være høyere enn 30 g/kg tørrstoff. Denne grenseverdien gjelder imidlertid ikke for EU-gjødselvarer framstilt ved en prosess der en forbindelse som inneholder Cl-, er blitt tilsatt med det formålet å produsere alkalimetallsalter eller jordalkalimetallsalter og er deklarert i samsvar med vedlegg III.Innholdet av vanadium (V) skal ikke være høyere enn 600 mg/kg tørrstoff dersom materialene fra termisk oksidasjon eller derivater av disse stammer fra innsatsmaterialene nevnt i nr. 1 bokstav g) eller i).
+1. Sluttpunktet i produksjonskjeden er fastsatt i samsvar med artikkel 5 nr. 2 tredje ledd i [forordning (EF) nr. 1069/2009](eu/32009r1069).
+2. Vilkårene i nr. 3, 4 og 5 er oppfylt.
+
+3\. Den termiske oksidasjonen skal skje under ikke-oksygenbegrensende forhold på en slik måte at temperaturen på gassene som oppstår ved den termokjemiske omdanningsprosessen, etter siste tilførsel av forbrenningsluft, økes på en kontrollert og homogen måte til minst 850 °C i minst to sekunder, selv under de mest ugunstige forhold. Disse vilkårene skal gjelde for alle innsatsmaterialer, bortsett fra
+
+1. innsatsmaterialene nevnt i nr. 1 bokstav a), b) og h) eller innsatsmaterialer som stammer fra en kontrollert mikrobiell eller termokjemisk omdanningsprosess der bare disse materialene brukes, og
+2. innsatsmaterialene nevnt i nr. 2, der det skal anvendes en temperatur på minst 450 °C i minst 0,2 sekunder.
+
+4\. Den termiske oksidasjonen skal finne sted i et forbrenningskammer. I kammeret skal det bare behandles innsatsmaterialer som ikke er forurenset med andre materialstrømmer, eller innsatsmaterialer, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069), som utilsiktet er blitt forurenset med andre materialstrømmer under en enkeltstående hendelse, og som bare fører til spormengder av eksogene forbindelser.
+
+Alle følgende vilkår skal være oppfylt på anlegget der den termiske oksidasjonen finner sted:
+
+1. Produksjonslinjene for bearbeiding av innsatsmaterialene nevnt i nr. 1 og 2 skal være tydelig atskilt fra produksjonslinjene for bearbeiding av andre innsatsmaterialer.
+2. Innsatsmaterialene skal oksideres på en slik måte at innholdet av totalt organisk karbon (Corg) i slagget og bunnasken som dannes, utgjør mindre enn 3 % av tørrstoffet.
+3. Fysisk kontakt mellom innsatsmaterialet og produsert materiale skal unngås etter den termokjemiske omdanningsprosessen, også under oppbevaring
+
+5\. Materialene fra termisk oksidasjon skal være aske eller slagg og skal inneholde høyst
+
+1. 6 mg PAH16\*\*\* per kg tørrstoff,
+2. 20 ng WHO-toksisitetsekvivalenter\*\*\*\* av PCDD/F\*\*\*\*\* per kg tørrstoff.
+
+6\. En EU-gjødselvare kan inneholde derivater av materialer fra termisk oksidasjon som er blitt framstilt fra innsatsmaterialene nevnt i nr. 1 og 2 og oppfyller vilkårene i nr. 5, og som er blitt framstilt ved en termokjemisk omdanningsprosess i samsvar med nr. 3 og 4.
+
+Derivatene skal framstilles på en slik måte at den kjemiske sammensetningen av materialet fra termisk oksidasjon endres med hensikt.
+
+Derivatene skal framstilles på følgende måte:
+
+1. Kjemisk framstilling: Derivatene framstilles ved hjelp av et eller flere kjemiske framstillingstrinn der materialer fra termisk oksidasjon reagerer med innsatsmaterialene nevnt i nr. 1 bokstav j) som forbrukes ved eller brukes til kjemisk bearbeiding, men det må ikke brukes ikke-biologisk nedbrytbare polymerer.
+2. Termokjemisk framstilling: Derivatene framstilles ved hjelp av et eller flere framstillingstrinn der materialer fra termisk oksidasjon reagerer termokjemisk med reaktantene nevnt i nr. 1 og 2 som forbrukes ved eller brukes til kjemisk bearbeiding.
+
+Materialer fra termisk oksidasjon som viser en eller flere av de farlige egenskapene angitt i vedlegg III til [direktiv 2008/98/EF](eu/32008l0098), skal ikke blandes eller brukes i reaksjoner med avfall, stoffer eller materialer med det formål å redusere farlige stoffer til nivåer under grenseverdiene for den farlige egenskapen fastsatt i vedlegg III til det direktivet. Produsenter som bruker materialer fra termisk oksidasjon med farlige egenskaper, skal ved hjelp av en masse-balansemetode vise at de forurensende stoffene er blitt fjernet eller omdannet til nivåer som ligger under grenseverdiene fastsatt i vedlegg III til [direktiv 2008/98/EF](eu/32008l0098).
+
+7\. Forurensende stoffer i en EU-gjødselvare som inneholder eller består av materialer fra termisk oksidasjon eller derivater av disse, må ikke overskride følgende grenseverdier:
+
+1. Totalkrom (Cr): 400 mg/kg tørrstoff dersom materialene fra termisk oksidasjon eller derivater av disse stammer fra innsatsmaterialene nevnt i nr. 1 bokstav e), g) eller i).
+2. Thallium (Tl): 2 mg/kg tørrstoff dersom materialene fra termisk oksidasjon eller derivater av disse stammer fra innsatsmaterialene nevnt i nr. 1 bokstav e), g), h) eller i).
+
+Innholdet av klor (Cl-) skal ikke være høyere enn 30 g/kg tørrstoff. Denne grenseverdien gjelder imidlertid ikke for EU-gjødselvarer framstilt ved en prosess der en forbindelse som inneholder Cl-, er blitt tilsatt med det formålet å produsere alkalimetallsalter eller jordalkalimetallsalter og er deklarert i samsvar med vedlegg III.
+
+Innholdet av vanadium (V) skal ikke være høyere enn 600 mg/kg tørrstoff dersom materialene fra termisk oksidasjon eller derivater av disse stammer fra innsatsmaterialene nevnt i nr. 1 bokstav g) eller i).
 
 ►**M6**
 
@@ -1546,7 +2626,17 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 9\. Dersom det med sikkerhet og ubestridelig følger av arten av eller gjenvinningsprosessen for materialet fra termisk oksidasjon eller derivater av det eller framstillingsprosessen for EU-gjødselvaren at et av kravene i nr. 5 og 7 er oppfylt, kan dette formodes i framgangsmåten for samsvarsvurdering uten verifisering (for eksempel testing) på produsentens ansvar.
 
-◄**M10** \* Utelukkelse av et innsatsmateriale fra et underpunkt hindrer ikke at det kan være et tillatt innsatsmateriale i henhold til et annet underpunkt.\*\* Rådsdirektiv [91/271/EØF](eu/31991l0271) av 21. mai 1991 om rensing av avløpsvann fra byområder (EFT L 135 av 30.5.1991, s. 40).\*\*\* Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.\*\*\*\* van den Berg M., L.S. Birnbaum, M. Denison, M. De Vito, W. Farland, et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences: an official journal of the Society of Toxicology 93:223-241. doi:10.1093/toxsci/kfl055.\*\*\*\*\* Polyklorerte dibenzo-p-dioksiner og dibenzofuraner.
+◄**M10**
+
+\* Utelukkelse av et innsatsmateriale fra et underpunkt hindrer ikke at det kan være et tillatt innsatsmateriale i henhold til et annet underpunkt.
+
+\*\* Rådsdirektiv [91/271/EØF](eu/31991l0271) av 21. mai 1991 om rensing av avløpsvann fra byområder (EFT L 135 av 30.5.1991, s. 40).
+
+\*\*\* Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.
+
+\*\*\*\* van den Berg M., L.S. Birnbaum, M. Denison, M. De Vito, W. Farland, et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences: an official journal of the Society of Toxicology 93:223-241. doi:10.1093/toxsci/kfl055.
+
+\*\*\*\*\* Polyklorerte dibenzo-p-dioksiner og dibenzofuraner.
 
 ◄**M3**
 
@@ -1554,11 +2644,37 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 ###### Komponentmaterialkategori 14: PYROLYSE- OG GASSIFISERINGSMATERIALER
 
-1\. En EU-gjødselvare kan inneholde pyrolyse- og gassifiseringsmaterialer framstilt ved termokjemisk omdanning under ikke-oksygenbegrensende forhold av utelukkende et eller flere av følgende innsatsmaterialer:Levende eller døde organismer eller deler av dette som ikke er bearbeidet, eller som bare er bearbeidet ved manuell, mekanisk eller tyngdemessig påvirkning, oppløsning i vann, flotasjon, ekstraksjon med vann, dampdestillasjon eller oppvarming utelukkende for å fjerne vann, eller som er utvunnet fra luft på en hvilken som helst måte, bortsett fra\*materialer som stammer fra blandet kommunalt avfall,avløpsslam, industrislam eller oppmudringsslam oganimalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Vegetabilsk avfall fra næringsmiddelindustrien og fiberholdig vegetabilsk avfall fra produksjon av ny papirmasse og fra produksjon av papir fra ny papirmasse, dersom det ikke er kjemisk modifisert.Rester fra produksjonsprosessen som definert i artikkel 2 bokstav t) i [direktiv 2009/28/EF](eu/32009l0028)\*\* fra produksjon av bioetanol og biodiesel avledet av materialer nevnt i bokstav a), b) og c).Bioavfall som definert i artikkel 3 nr. 4 i [direktiv 2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).Pyrolyse- eller gassifiseringspreparater som er nødvendige for å forbedre pyrolyse- eller gassifiseringsprosessens prosessytelse eller miljøprestasjon, forutsatt at disse preparatene forbrukes ved kjemisk bearbeiding eller brukes til slik bearbeiding, og at den samlede konsentrasjonen av alle preparater ikke overstiger 25 % av det ferske materialet i det samlede innsatsmaterialet, med unntak av\*innsatsmaterialene nevnt i bokstav a)-d),avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098),stoffer og stoffblandinger som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098),stoffer som er dannet av utgangsstoffer som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098), eller stoffblandinger som inneholder slike stoffer,ikke-biologisk nedbrytbare polymerer oganimalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).En EU-gjødselvare kan inneholde pyrolyse- og gassifiseringsmaterialer framstilt ved termokjemisk omdanning under oksygenbegrensende forhold av innsatsmaterialene nevnt i bokstav a)-e), eller en kombinasjon av dette, som er bearbeidet ved manuell, mekanisk eller tyngdemessig påvirkning, fast-flytende fraksjonering ved hjelp av biologisk nedbrytbare polymerer, oppløsning i vann, flotasjon, ekstraksjon med vann, dampdestillasjon eller oppvarming utelukkende for å fjerne vann, kompostering eller anaerob nedbryting.
+1\. En EU-gjødselvare kan inneholde pyrolyse- og gassifiseringsmaterialer framstilt ved termokjemisk omdanning under ikke-oksygenbegrensende forhold av utelukkende et eller flere av følgende innsatsmaterialer:
 
-2\. Den termokjemiske omdanningsprosessen skal skje under oksygenbegrensende forhold på en slik måte at det oppnås en temperatur på minst 180 °C i minst to sekunder i reaktoren.I pyrolyse- eller gassifiseringsreaktoren skal det bare behandles innsatsmaterialer som ikke er forurenset med andre materialstrømmer, eller innsatsmaterialer, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069), som utilsiktet er blitt forurenset med andre materialstrømmer under en enkeltstående hendelse, og som bare fører til spormengder av eksogene forbindelser.På anlegget der pyrolyse og gassifisering finner sted, skal fysisk kontakt mellom innsatsmaterialet og produsert mate-riale unngås etter den termokjemiske prosessen, også under oppbevaring.
+1. Levende eller døde organismer eller deler av dette som ikke er bearbeidet, eller som bare er bearbeidet ved manuell, mekanisk eller tyngdemessig påvirkning, oppløsning i vann, flotasjon, ekstraksjon med vann, dampdestillasjon eller oppvarming utelukkende for å fjerne vann, eller som er utvunnet fra luft på en hvilken som helst måte, bortsett fra\*
 
-3\. Pyrolyse- og gassifiseringsmaterialene skal ha et molforhold mellom hydrogen (H) og organisk karbon (H/Corg) på mindre enn 0,7, og testing skal gjennomføres på den tørre og askefrie delen av materialer som har et innhold av organisk karbon (Corg) på mindre enn 50 %. De skal ikke inneholde mer enn6 mg PAH16\*\* per kg tørrstoff,20 ng WHO-toksisitetsekvivalenter\*\*\* av PCDD/F\*\*\*\* per kg tørrstoff,
+   - materialer som stammer fra blandet kommunalt avfall,
+   - avløpsslam, industrislam eller oppmudringsslam og
+   - animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+2. Vegetabilsk avfall fra næringsmiddelindustrien og fiberholdig vegetabilsk avfall fra produksjon av ny papirmasse og fra produksjon av papir fra ny papirmasse, dersom det ikke er kjemisk modifisert.
+3. Rester fra produksjonsprosessen som definert i artikkel 2 bokstav t) i [direktiv 2009/28/EF](eu/32009l0028)\*\* fra produksjon av bioetanol og biodiesel avledet av materialer nevnt i bokstav a), b) og c).
+4. Bioavfall som definert i artikkel 3 nr. 4 i [direktiv 2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+5. Pyrolyse- eller gassifiseringspreparater som er nødvendige for å forbedre pyrolyse- eller gassifiseringsprosessens prosessytelse eller miljøprestasjon, forutsatt at disse preparatene forbrukes ved kjemisk bearbeiding eller brukes til slik bearbeiding, og at den samlede konsentrasjonen av alle preparater ikke overstiger 25 % av det ferske materialet i det samlede innsatsmaterialet, med unntak av\*
+
+   - innsatsmaterialene nevnt i bokstav a)-d),
+   - avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098),
+   - stoffer og stoffblandinger som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098),
+   - stoffer som er dannet av utgangsstoffer som har opphørt å være avfall i en eller flere medlemsstater som følge av de nasjonale tiltakene som innarbeider artikkel 6 i [direktiv 2008/98/EF](eu/32008l0098), eller stoffblandinger som inneholder slike stoffer,
+   - ikke-biologisk nedbrytbare polymerer og
+   - animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+
+En EU-gjødselvare kan inneholde pyrolyse- og gassifiseringsmaterialer framstilt ved termokjemisk omdanning under oksygenbegrensende forhold av innsatsmaterialene nevnt i bokstav a)-e), eller en kombinasjon av dette, som er bearbeidet ved manuell, mekanisk eller tyngdemessig påvirkning, fast-flytende fraksjonering ved hjelp av biologisk nedbrytbare polymerer, oppløsning i vann, flotasjon, ekstraksjon med vann, dampdestillasjon eller oppvarming utelukkende for å fjerne vann, kompostering eller anaerob nedbryting.
+
+2\. Den termokjemiske omdanningsprosessen skal skje under oksygenbegrensende forhold på en slik måte at det oppnås en temperatur på minst 180 °C i minst to sekunder i reaktoren.
+
+I pyrolyse- eller gassifiseringsreaktoren skal det bare behandles innsatsmaterialer som ikke er forurenset med andre materialstrømmer, eller innsatsmaterialer, bortsett fra animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069), som utilsiktet er blitt forurenset med andre materialstrømmer under en enkeltstående hendelse, og som bare fører til spormengder av eksogene forbindelser.
+
+På anlegget der pyrolyse og gassifisering finner sted, skal fysisk kontakt mellom innsatsmaterialet og produsert mate-riale unngås etter den termokjemiske prosessen, også under oppbevaring.
+
+3\. Pyrolyse- og gassifiseringsmaterialene skal ha et molforhold mellom hydrogen (H) og organisk karbon (H/Corg) på mindre enn 0,7, og testing skal gjennomføres på den tørre og askefrie delen av materialer som har et innhold av organisk karbon (Corg) på mindre enn 50 %. De skal ikke inneholde mer enn
+
+1. 6 mg PAH16\*\* per kg tørrstoff,
+2. 20 ng WHO-toksisitetsekvivalenter\*\*\* av PCDD/F\*\*\*\* per kg tørrstoff,
 
 ►**M6**
 
@@ -1566,11 +2682,17 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 ◄**M6**
 
-4\. Uten hensyn til nr. 1 kan en EU-gjødselvare inneholde pyrolyse- eller gassifiseringsmaterialer framstilt ved termokjemisk omdanning under oksygenbegrensende forhold av materialer i kategori 2 eller 3 eller avledede produkter av disse i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og tiltakene nevnt i artikkel 32 nr. 3 i samme forordning, alene eller blandet med innsatsmaterialer nevnt i nr. 1, forutsatt at begge av følgende vilkår er oppfylt:Sluttpunktet i produksjonskjeden er fastsatt i samsvar med artikkel 5 nr. 2 tredje ledd i [forordning (EF) nr. 1069/2009](eu/32009r1069).Vilkårene i nr. 2 og 3 er oppfylt.
+4\. Uten hensyn til nr. 1 kan en EU-gjødselvare inneholde pyrolyse- eller gassifiseringsmaterialer framstilt ved termokjemisk omdanning under oksygenbegrensende forhold av materialer i kategori 2 eller 3 eller avledede produkter av disse i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069) og tiltakene nevnt i artikkel 32 nr. 3 i samme forordning, alene eller blandet med innsatsmaterialer nevnt i nr. 1, forutsatt at begge av følgende vilkår er oppfylt:
+
+1. Sluttpunktet i produksjonskjeden er fastsatt i samsvar med artikkel 5 nr. 2 tredje ledd i [forordning (EF) nr. 1069/2009](eu/32009r1069).
+2. Vilkårene i nr. 2 og 3 er oppfylt.
 
 5\. På anlegget der pyrolyse eller gassifisering finner sted, skal produksjonslinjene for bearbeiding av innsatsmaterialene nevnt i nr. 1 og 4 være tydelig atskilt fra produksjonslinjene for bearbeiding av andre innsatsmaterialer.
 
-6\. I en EU-gjødselvare som inneholder eller består av pyrolyse- og gassifiseringsmaterialer,skal innholdet av klor (Cl-) ikke overstige 30 g/kg tørrstoff, oginnholdet av thallium (Tl) skal ikke overstige 2 mg/kg tørrstoff dersom det er brukt mer enn 5 % pyrolyse- eller gassifiseringspreparater i forhold til råvekten av de samlede innsatsmaterialene.
+6\. I en EU-gjødselvare som inneholder eller består av pyrolyse- og gassifiseringsmaterialer,
+
+1. skal innholdet av klor (Cl-) ikke overstige 30 g/kg tørrstoff, og
+2. innholdet av thallium (Tl) skal ikke overstige 2 mg/kg tørrstoff dersom det er brukt mer enn 5 % pyrolyse- eller gassifiseringspreparater i forhold til råvekten av de samlede innsatsmaterialene.
 
 ►**M6**
 
@@ -1582,7 +2704,15 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 8\. Dersom det med sikkerhet og ubestridelig følger av arten av eller gjenvinningsprosessen for pyrolyse- og gassifiseringsmaterialet eller framstillingsprosessen for EU-gjødselvaren at et av kravene i nr. 3 og 6 er oppfylt, kan dette formodes i framgangsmåten for samsvarsvurdering uten verifisering (for eksempel testing) på produsentens ansvar.
 
-◄**M10** \* Utelukkelse av et innsatsmateriale fra et underpunkt hindrer ikke at det kan være et tillatt innsatsmateriale i henhold til et annet underpunkt.\*\* Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.\*\*\* van den Berg M., L.S. Birnbaum, M. Denison, M. De Vito, W. Farland, et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences: an official journal of the Society of Toxicology 93:223-241. doi:10.1093/toxsci/kfl055.\*\*\*\* Polyklorerte dibenzo-p-dioksiner og dibenzofuraner.
+◄**M10**
+
+\* Utelukkelse av et innsatsmateriale fra et underpunkt hindrer ikke at det kan være et tillatt innsatsmateriale i henhold til et annet underpunkt.
+
+\*\* Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.
+
+\*\*\* van den Berg M., L.S. Birnbaum, M. Denison, M. De Vito, W. Farland, et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences: an official journal of the Society of Toxicology 93:223-241. doi:10.1093/toxsci/kfl055.
+
+\*\*\*\* Polyklorerte dibenzo-p-dioksiner og dibenzofuraner.
 
 ◄**M4**
 
@@ -1592,13 +2722,34 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 1\. En EU-gjødselvare kan inneholde et gjenvunnet materiale med høy renhet, det vil si ammoniumsalt, sulfatsalt, fosfatsalt, elementær svovel, kalsiumkarbonat eller kalsiumoksid, eller blandinger av dette, med en renhetsgrad på minst 95 % tørrstoff.
 
-2\. Materialet med høy renhet skal gjenvinnes fra avfall fraen produksjonsprosess der det som innsatsmaterialer brukes stoffer og stoffblandinger som ikke er animalske biprodukter eller avledede produkter, som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069)1, elleren gassrensings- eller utslippskontrollprosess utformet for å fjerne næringsstoffer fra avgasser som stammer fra et eller flere av følgende innsatsmaterialer og anlegg:Stoffer og stoffblandinger, bortsett fra avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098).Planter eller plantedeler.Bioavfall som definert i artikkel 3 nr. 4 i [direktiv 2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden,Avløpsvann fra byområder og spillvann fra husholdninger i henhold til artikkel 2 nr. 1 og 2 i direktiv [91/271/EØF](eu/31991l0271)2.Slam i henhold til artikkel 2 bokstav a) i [direktiv 86/278/EØF](eu/31986l0278)3 som ikke har noen av de farlige egenskapene oppført i vedlegg III til [direktiv 2008/98/EF](eu/32008l0098).Avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098) og brensel som tilføres et samforbrenningsanlegg som definert i europaparlaments- og rådsdirektiv [2010/75/EU](eu/32010l0075)4, og som drives i henhold til vilkårene i det direktivet, forutsatt at brenselet ikke har noen av de farlige egenskapene oppført i vedlegg III til [direktiv 2008/98/EF](eu/32008l0098).Materialer i kategori 2 eller 3 eller avledede produkter av dette, i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 og tiltakene nevnt i artikkel 32 nr. 3 i [forordning (EF) nr. 1069/2009](eu/32009r1069), forutsatt at avgassene stammer fra en komposterings- eller nedbrytingsprosess i samsvar med henholdsvis komponentmaterialkategori 3 og 5 i vedlegg II til denne forordningen.Husdyrgjødsel som definert i artikkel 3 nr. 20 i forordning [(EF) nr. 1069/2009](eu/32009r1069) eller avledede produkter av dette.Oppstallingsfasiliteter for husdyr.Innsatsmaterialene nevnt i punkt i)-vi) skal ikke inneholde animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
+2\. Materialet med høy renhet skal gjenvinnes fra avfall fra
+
+1. en produksjonsprosess der det som innsatsmaterialer brukes stoffer og stoffblandinger som ikke er animalske biprodukter eller avledede produkter, som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069)1, eller
+2. en gassrensings- eller utslippskontrollprosess utformet for å fjerne næringsstoffer fra avgasser som stammer fra et eller flere av følgende innsatsmaterialer og anlegg:
+
+   1. Stoffer og stoffblandinger, bortsett fra avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098).
+   2. Planter eller plantedeler.
+   3. Bioavfall som definert i artikkel 3 nr. 4 i [direktiv 2008/98/EF](eu/32008l0098) som er separat innsamlet ved kilden,
+   4. Avløpsvann fra byområder og spillvann fra husholdninger i henhold til artikkel 2 nr. 1 og 2 i direktiv [91/271/EØF](eu/31991l0271)2.
+   5. Slam i henhold til artikkel 2 bokstav a) i [direktiv 86/278/EØF](eu/31986l0278)3 som ikke har noen av de farlige egenskapene oppført i vedlegg III til [direktiv 2008/98/EF](eu/32008l0098).
+   6. Avfall som definert i artikkel 3 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098) og brensel som tilføres et samforbrenningsanlegg som definert i europaparlaments- og rådsdirektiv [2010/75/EU](eu/32010l0075)4, og som drives i henhold til vilkårene i det direktivet, forutsatt at brenselet ikke har noen av de farlige egenskapene oppført i vedlegg III til [direktiv 2008/98/EF](eu/32008l0098).
+   7. Materialer i kategori 2 eller 3 eller avledede produkter av dette, i samsvar med vilkårene fastsatt i artikkel 32 nr. 1 og 2 og tiltakene nevnt i artikkel 32 nr. 3 i [forordning (EF) nr. 1069/2009](eu/32009r1069), forutsatt at avgassene stammer fra en komposterings- eller nedbrytingsprosess i samsvar med henholdsvis komponentmaterialkategori 3 og 5 i vedlegg II til denne forordningen.
+   8. Husdyrgjødsel som definert i artikkel 3 nr. 20 i forordning [(EF) nr. 1069/2009](eu/32009r1069) eller avledede produkter av dette.
+   9. Oppstallingsfasiliteter for husdyr.
+
+Innsatsmaterialene nevnt i punkt i)-vi) skal ikke inneholde animalske biprodukter eller avledede produkter som omfattes av forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 3\. Materialet med høy renhet skal ha et innhold av organisk karbon (Corg) på høyst 0,5 % tørrstoff.
 
-4\. Materialet med høy renhet skal inneholde høyst6 mg polysykliske aromatiske hydrokarboner (PAH16) per kg tørrstoff5,20 ng WHO-toksisitetsekvivalenter6 av polyklorerte dibenzo-para-dioksiner og dibenzofuraner (PCDD/PCDF) per kg tørrstoff7.
+4\. Materialet med høy renhet skal inneholde høyst
 
-5\. En EU-gjødselvare som inneholder eller består av materialer med høy renhet, skal inneholde høyst400 mg totalkrom (Cr) per kg tørrstoff og2 mg thallium (Tl) per kg tørrstoff.
+1. 6 mg polysykliske aromatiske hydrokarboner (PAH16) per kg tørrstoff5,
+2. 20 ng WHO-toksisitetsekvivalenter6 av polyklorerte dibenzo-para-dioksiner og dibenzofuraner (PCDD/PCDF) per kg tørrstoff7.
+
+5\. En EU-gjødselvare som inneholder eller består av materialer med høy renhet, skal inneholde høyst
+
+1. 400 mg totalkrom (Cr) per kg tørrstoff og
+2. 2 mg thallium (Tl) per kg tørrstoff.
 
 6\. Dersom det med sikkerhet og ubestridelig følger av arten av eller gjenvinningsprosessen for materialet med høy renhet eller framstillingsprosessen for EU-gjødselvaren at et bestemt krav fastsatt i nr. 4 og 5 (for eksempel fravær av et bestemt forurensende stoff) er oppfylt, kan dette formodes i framgangsmåten for samsvarsvurdering uten verifisering (for eksempel testing) på produsentens ansvar.
 
@@ -1610,9 +2761,21 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 | *Salmonella* spp. | 5 | 0 | 0 | Ingen i 25 g eller 25 ml |
 | ►**M10** *Escherichia coli* eller enterokokker ◄**M10** | 5 | 5 | 0 | 1 000 i 1 g eller 1 ml |
 
-dern = antall prøver som skal testes,c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,M = grenseverdien for antall bakterier uttrykt i KDE.
+der
 
-8\. I samsvar med nr. 5.1.3.1. i modul D1 (kvalitetssikring av produksjonsprosessen) i vedlegg IV del II skal det kontrolleres ved hjelp av testing om en EU-gjødselvare som inneholder eller består av materialer med høy renhet nevnt i nr. 2 bokstav b), oppfyller kravene i nr. 7 eller kravene som gjelder Salmonella spp., Escherichia coli eller ►**M10** enterokokker ◄**M10** fastsatt i vedlegg I for den tilsvarende produktfunksjonskategorien for EU-gjødselvaren.Kravene i nr. 7 og kravene som gjelder Salmonella spp., Escherichia coli eller ►**M10** enterokokker ◄**M10** fastsatt i vedlegg I for den tilsvarende produktfunksjonskategorien for en EU-gjødselvare som bare består av materialene med høy renhet nevnt i nr. 2 bokstav b), får ikke anvendelse når materialene med høy renhet eller alle de biogene innsatsmaterialene har gjennomgått en av følgende prosesser:Trykksterilisering ved oppvarming til en kjernetemperatur på over 133 °C i minst 20 minutter ved et absolutt trykk på minst 3 bar, der trykket skal dannes ved at all luft i steriliseringskammeret fjernes og erstattes med damp («mettet damp»).Behandling i en pasteuriserings- eller hygieniseringsenhet som når en temperatur på 70 °C i minst en time.Kravene i nr. 7 og kravene som gjelder Salmonella spp., Escherichia coli eller ►**M10** enterokokker ◄**M10** fastsatt i vedlegg I for den tilsvarende produktfunksjonskategorien for en EU-gjødselvare som bare består av materialene med høy renhet nevnt i nr. 2 bokstav b), får ikke anvendelse dersom avgassene stammer fra en forbrenningsprosess som definert i direktiv [2010/75/EU](eu/32010l0075).
+- n = antall prøver som skal testes,
+- c = antall prøver der antall bakterier uttrykt i kolonidannende enheter (KDE) er mellom m og M,
+- m = terskelverdien for antall bakterier uttrykt i KDE som anses som tilfredsstillende,
+- M = grenseverdien for antall bakterier uttrykt i KDE.
+
+8\. I samsvar med nr. 5.1.3.1. i modul D1 (kvalitetssikring av produksjonsprosessen) i vedlegg IV del II skal det kontrolleres ved hjelp av testing om en EU-gjødselvare som inneholder eller består av materialer med høy renhet nevnt i nr. 2 bokstav b), oppfyller kravene i nr. 7 eller kravene som gjelder Salmonella spp., Escherichia coli eller ►**M10** enterokokker ◄**M10** fastsatt i vedlegg I for den tilsvarende produktfunksjonskategorien for EU-gjødselvaren.
+
+Kravene i nr. 7 og kravene som gjelder Salmonella spp., Escherichia coli eller ►**M10** enterokokker ◄**M10** fastsatt i vedlegg I for den tilsvarende produktfunksjonskategorien for en EU-gjødselvare som bare består av materialene med høy renhet nevnt i nr. 2 bokstav b), får ikke anvendelse når materialene med høy renhet eller alle de biogene innsatsmaterialene har gjennomgått en av følgende prosesser:
+
+1. Trykksterilisering ved oppvarming til en kjernetemperatur på over 133 °C i minst 20 minutter ved et absolutt trykk på minst 3 bar, der trykket skal dannes ved at all luft i steriliseringskammeret fjernes og erstattes med damp («mettet damp»).
+2. Behandling i en pasteuriserings- eller hygieniseringsenhet som når en temperatur på 70 °C i minst en time.
+
+Kravene i nr. 7 og kravene som gjelder Salmonella spp., Escherichia coli eller ►**M10** enterokokker ◄**M10** fastsatt i vedlegg I for den tilsvarende produktfunksjonskategorien for en EU-gjødselvare som bare består av materialene med høy renhet nevnt i nr. 2 bokstav b), får ikke anvendelse dersom avgassene stammer fra en forbrenningsprosess som definert i direktiv [2010/75/EU](eu/32010l0075).
 
 9\. Materialer med høy renhet som oppbevares på en slik måte at de ikke beskyttes mot utfelling og direkte sollys, kan bare tilsettes en EU-gjødselvare dersom de er framstilt høyst 36 måneder før EU-samsvarserklæringen for den aktuelle EU-gjødselvaren underskrives.
 
@@ -1620,7 +2783,21 @@ dern = antall prøver som skal testes,c = antall prøver der antall bakterier ut
 
 10\. Materialet med høy renhetsgrad skal oppfylle kravet fastsatt i nr. 2 komponentmaterialkategori 1.
 
-◄**M6** 1 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).2 Rådsdirektiv [91/271/EØF](eu/31991l0271) av 21. mai 1991 om rensing av avløpsvann fra byområder (EFT L 135 av 30.5.1991, s. 40).3 Rådsdirektiv [86/278/EØF](eu/31986l0278) av 12. juni 1986 om vern av miljøet, særlig jord, ved bruk av slam fra renseanlegg i landbruket (EFT L 181 av 4.7.1986, s. 6).4 Europaparlaments- og rådsdirektiv [2010/75/EU](eu/32010l0075) av 24. november 2010 om industriutslipp (integrert forebygging og begrensning av forurensning) (EUT L 334 av 17.12.2010, s. 17).5 Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.6 van den Berg M., L.S. Birnbaum, M. Denison, M. De Vito, W. Farland, et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences: an official journal of the Society of Toxicology 93:223-241. doi:10.1093/toxsci/kfl055.7 Summen av 2,3,7,8-TCDD, 1,2,3,7,8-PeCDD, 1,2,3,4,7,8-HxCDD, 1,2,3,6,7,8-HxCDD, 1,2,3,7,8,9-HxCDD, 1,2,3,4,6,7,8-HpCDD, OCDD, 2,3,7,8-TCDF, 1,2,3,7,8-PeCDF, 2,3,4,7,8-PeCDF, 1,2,3,4,7,8-HxCDF, 1,2,3,6,7,8-HxCDF, 1,2,3,7,8,9-HxCDF, 2,3,4,6,7,8-HxCDF, 1,2,3,4,6,7,8-HpCDF, 1,2,3,4,7,8,9-HpCDF og OCDF.
+◄**M6**
+
+1 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
+
+2 Rådsdirektiv [91/271/EØF](eu/31991l0271) av 21. mai 1991 om rensing av avløpsvann fra byområder (EFT L 135 av 30.5.1991, s. 40).
+
+3 Rådsdirektiv [86/278/EØF](eu/31986l0278) av 12. juni 1986 om vern av miljøet, særlig jord, ved bruk av slam fra renseanlegg i landbruket (EFT L 181 av 4.7.1986, s. 6).
+
+4 Europaparlaments- og rådsdirektiv [2010/75/EU](eu/32010l0075) av 24. november 2010 om industriutslipp (integrert forebygging og begrensning av forurensning) (EUT L 334 av 17.12.2010, s. 17).
+
+5 Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.
+
+6 van den Berg M., L.S. Birnbaum, M. Denison, M. De Vito, W. Farland, et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences: an official journal of the Society of Toxicology 93:223-241. doi:10.1093/toxsci/kfl055.
+
+7 Summen av 2,3,7,8-TCDD, 1,2,3,7,8-PeCDD, 1,2,3,4,7,8-HxCDD, 1,2,3,6,7,8-HxCDD, 1,2,3,7,8,9-HxCDD, 1,2,3,4,6,7,8-HpCDD, OCDD, 2,3,7,8-TCDF, 1,2,3,7,8-PeCDF, 2,3,4,7,8-PeCDF, 1,2,3,4,7,8-HxCDF, 1,2,3,6,7,8-HxCDF, 1,2,3,7,8,9-HxCDF, 2,3,4,6,7,8-HxCDF, 1,2,3,4,6,7,8-HpCDF, 1,2,3,4,7,8,9-HpCDF og OCDF.
 
 ◄**M5**
 
@@ -1632,13 +2809,43 @@ I dette vedlegget fastsettes det krav til merking av EU-gjødselvarer. Kravene f
 ### DEL I
 **GENERELLE KRAV TIL MERKING**
 
-1\. Følgende informasjon skal gis:For EU-gjødselvarer i produktfunksjonskategori 1-6: Betegnelsen angitt i vedlegg I del I for den produktfunksjonskategorien som svarer til den funksjonen som det er angitt at produktet har.For EU-gjødselvarer i produktfunksjonskategori 7: Betegnelsene angitt i vedlegg I del I for alle produktfunksjonskategoriene som svarer til de funksjonene som det er angitt at EU-gjødselvarekomponentene har.Mengden av EU-gjødselvaren angitt i masse eller volum.Bruksanvisning for tiltenkt bruk, herunder bruksmengde, -tidspunkt og -frekvens, samt informasjon om hvilke planter eller sopp produktet er beregnet på.Anbefalte oppbevaringsforhold.For produkter som inneholder en polymer som tilhører komponentmaterialkategori 9 i vedlegg II del II, det tidsrommet etter bruk der frigivelsen av næringsstoffer er styrt, eller vannretensjonsevnen er økt («funksjonsperioden»), som ikke skal være lengre enn tidsrommet mellom to anvendelser i samsvar med anvisningene nevnt i bokstav d).►**M11**For produkter som tilhører produktfunksjonskategori 3, og som inneholder en polymer nevnt i nr. 1a i avsnittet Komponentmaterialkategori 9 i del II i vedlegg II:Tidsrommet etter bruk der jordforbedringsmiddelet vil oppfylle sin funksjon («funksjonsperioden»), som ikke skal være lengre enn tidsrommet mellom to anvendelser i samsvar med bruksanvisningen nevnt i bokstav d) i dette nummeret.En anvisning om å anvende produktet i samsvar med buffersonene som kreves for gjødselvarer i samsvar med relevante nasjonale regler, eller, dersom slike regler ikke finnes, å anvende produktet minst tre meter fra alle overflatevannforekomster.En anvisning om å følge nasjonale tiltak for hvordan markdekningsfilmer skal håndteres etter endt funksjonsperiode, eller, dersom det ikke finnes slike tiltak, om å blande ned produktet i jorden etter funksjonsperioden og sørge for at det holdes nedgravd.◄**M11**Eventuelle relevant informasjon om anbefalte tiltak for å håndtere risikoer for menneskers, dyrs eller planters helse, for sikkerheten eller for miljøet.►**M1**En liste over alle bestanddeler som utgjør over 5 % av produktvekten eller -volumet, eller når det gjelder produkter i flytende form etter tørrvekt, i fallende rekkefølge, herunder betegnelsene for de relevante komponentmaterialkategoriene nevnt i del I i vedlegg II til denne forordningen. Dersom bestanddelen er et stoff eller en stoffblanding, skal den identifiseres i samsvar med artikkel 18 i [forordning (EF) nr. 1272/2008](eu/32008r1272). Naturlig forekommende stoffer kan identifiseres ved hjelp av stoffenes mineralnavn.◄**M1**
+1\. Følgende informasjon skal gis:
+
+1. For EU-gjødselvarer i produktfunksjonskategori 1-6: Betegnelsen angitt i vedlegg I del I for den produktfunksjonskategorien som svarer til den funksjonen som det er angitt at produktet har.
+2. For EU-gjødselvarer i produktfunksjonskategori 7: Betegnelsene angitt i vedlegg I del I for alle produktfunksjonskategoriene som svarer til de funksjonene som det er angitt at EU-gjødselvarekomponentene har.
+3. Mengden av EU-gjødselvaren angitt i masse eller volum.
+4. Bruksanvisning for tiltenkt bruk, herunder bruksmengde, -tidspunkt og -frekvens, samt informasjon om hvilke planter eller sopp produktet er beregnet på.
+5. Anbefalte oppbevaringsforhold.
+6. For produkter som inneholder en polymer som tilhører komponentmaterialkategori 9 i vedlegg II del II, det tidsrommet etter bruk der frigivelsen av næringsstoffer er styrt, eller vannretensjonsevnen er økt («funksjonsperioden»), som ikke skal være lengre enn tidsrommet mellom to anvendelser i samsvar med anvisningene nevnt i bokstav d).
+
+   ►**M11**
+7. For produkter som tilhører produktfunksjonskategori 3, og som inneholder en polymer nevnt i nr. 1a i avsnittet Komponentmaterialkategori 9 i del II i vedlegg II:
+
+   1. Tidsrommet etter bruk der jordforbedringsmiddelet vil oppfylle sin funksjon («funksjonsperioden»), som ikke skal være lengre enn tidsrommet mellom to anvendelser i samsvar med bruksanvisningen nevnt i bokstav d) i dette nummeret.
+   2. En anvisning om å anvende produktet i samsvar med buffersonene som kreves for gjødselvarer i samsvar med relevante nasjonale regler, eller, dersom slike regler ikke finnes, å anvende produktet minst tre meter fra alle overflatevannforekomster.
+   3. En anvisning om å følge nasjonale tiltak for hvordan markdekningsfilmer skal håndteres etter endt funksjonsperiode, eller, dersom det ikke finnes slike tiltak, om å blande ned produktet i jorden etter funksjonsperioden og sørge for at det holdes nedgravd.
+
+   ◄**M11**
+8. Eventuelle relevant informasjon om anbefalte tiltak for å håndtere risikoer for menneskers, dyrs eller planters helse, for sikkerheten eller for miljøet.
+
+   ►**M1**
+9. En liste over alle bestanddeler som utgjør over 5 % av produktvekten eller -volumet, eller når det gjelder produkter i flytende form etter tørrvekt, i fallende rekkefølge, herunder betegnelsene for de relevante komponentmaterialkategoriene nevnt i del I i vedlegg II til denne forordningen. Dersom bestanddelen er et stoff eller en stoffblanding, skal den identifiseres i samsvar med artikkel 18 i [forordning (EF) nr. 1272/2008](eu/32008r1272). Naturlig forekommende stoffer kan identifiseres ved hjelp av stoffenes mineralnavn.
+
+   ◄**M1**
 
 2\. Dersom EU-gjødselvaren har funksjoner som beskrives i to eller flere av produktfunksjonskategoriene fastsatt i vedlegg I, er det bare de funksjonene for hvilke EU-gjødselvaren har gjennomgått en positiv samsvarsvurdering i samsvar med denne forordningen, som kan angis ved bruk av de tilsvarende produktfunksjonskategoribetegnelsene angitt i vedlegg I del I.
 
 ►**M1**
 
-3\. Dersom EU-gjødselvaren inneholder et komponentmateriale som, dersom det bringes i omsetning som næringsmiddel eller fôr, ville ha vært omfattet av øvre grenseverdier for restmengder fastsatt i henhold til europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) eller europaparlaments- og rådsforordning [(EU) nr. 1831/2003](eu/32003r1831)\*, øvre grense-verdier for restmengder fastsatt i samsvar med europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396)\*\* eller øvre grenseverdier fastsatt i henhold til rådsforordning [(EØF) nr. 315/93](eu/31993r0315)\*\*\* eller europaparlaments- eller rådsdirektiv [2002/32/EF](eu/32002l0032)\*\*\*\* og komponentmaterialet inneholder et stoff som overskrider (en av) de tilsvarende grenseverdiene, skal den høyeste konsentrasjonen av det stoffet i EU-gjødselvaren angis sammen med en advarsel om at EU-gjødselvaren ikke må brukes på en måte som kan føre til at grenseverdien overskrides i næringsmidler eller fôr.\* Europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer (EUT L 268 av 18.10.2003, s. 29).\*\* Europaparlaments- og rådsforordning [(EF) nr. 396/2005/EF](eu/32005r0396) av 23. februar 2005 om grenseverdier for rester av pesticider i eller på næringsmidler og fôrvarer av vegetabilsk og animalsk opprinnelse, og om endring av rådsdirektiv [91/414/EØF](eu/31991l0414) (EUT L 70 av 16.3.2005, s. 1).\*\*\* Rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av fremgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler (EFT L 37 av 13.2.1993, s. 1).\*\*\*\* Europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032) av 7. mai 2002 om uønskede stoffer i fôrvarer (EFT L 140 av 30.5.2002, s. 10).
+3\. Dersom EU-gjødselvaren inneholder et komponentmateriale som, dersom det bringes i omsetning som næringsmiddel eller fôr, ville ha vært omfattet av øvre grenseverdier for restmengder fastsatt i henhold til europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) eller europaparlaments- og rådsforordning [(EU) nr. 1831/2003](eu/32003r1831)\*, øvre grense-verdier for restmengder fastsatt i samsvar med europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396)\*\* eller øvre grenseverdier fastsatt i henhold til rådsforordning [(EØF) nr. 315/93](eu/31993r0315)\*\*\* eller europaparlaments- eller rådsdirektiv [2002/32/EF](eu/32002l0032)\*\*\*\* og komponentmaterialet inneholder et stoff som overskrider (en av) de tilsvarende grenseverdiene, skal den høyeste konsentrasjonen av det stoffet i EU-gjødselvaren angis sammen med en advarsel om at EU-gjødselvaren ikke må brukes på en måte som kan føre til at grenseverdien overskrides i næringsmidler eller fôr.
+
+\* Europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer (EUT L 268 av 18.10.2003, s. 29).
+
+\*\* Europaparlaments- og rådsforordning [(EF) nr. 396/2005/EF](eu/32005r0396) av 23. februar 2005 om grenseverdier for rester av pesticider i eller på næringsmidler og fôrvarer av vegetabilsk og animalsk opprinnelse, og om endring av rådsdirektiv [91/414/EØF](eu/31991l0414) (EUT L 70 av 16.3.2005, s. 1).
+
+\*\*\* Rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av fremgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler (EFT L 37 av 13.2.1993, s. 1).
+
+\*\*\*\* Europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032) av 7. mai 2002 om uønskede stoffer i fôrvarer (EFT L 140 av 30.5.2002, s. 10).
 
 ◄**M1**
 
@@ -1650,7 +2857,10 @@ I dette vedlegget fastsettes det krav til merking av EU-gjødselvarer. Kravene f
 
 ►**M9**
 
-7\. Sluttbrukeren skal instrueres om å ikke bruke produktet i kontakt med jord og, i samarbeid med produsenten, sørge for forsvarlig disponering av produktet etter endt bruk dersom EU-gjødselvarener et dyrkingsmedium som omhandlet i vedlegg I del II produktfunksjonskategori 4 nr. 2a, ellerinneholder en polymer som bindemiddel i produktet som nevnt i vedlegg II del II komponentmaterialkategori 9 nr. 1 bokstav c) som ikke oppfyller noen av kravene i del II komponentmaterialkategori 1 nr. 1 bokstav f) punkt i), ii), iii) eller iv) i det vedlegget.
+7\. Sluttbrukeren skal instrueres om å ikke bruke produktet i kontakt med jord og, i samarbeid med produsenten, sørge for forsvarlig disponering av produktet etter endt bruk dersom EU-gjødselvaren
+
+1. er et dyrkingsmedium som omhandlet i vedlegg I del II produktfunksjonskategori 4 nr. 2a, eller
+2. inneholder en polymer som bindemiddel i produktet som nevnt i vedlegg II del II komponentmaterialkategori 9 nr. 1 bokstav c) som ikke oppfyller noen av kravene i del II komponentmaterialkategori 1 nr. 1 bokstav f) punkt i), ii), iii) eller iv) i det vedlegget.
 
 ◄**M9**
 
@@ -1662,25 +2872,48 @@ I dette vedlegget fastsettes det krav til merking av EU-gjødselvarer. Kravene f
 
 ►**M5**
 
-7b. Dersom EU-gjødselvaren inneholder eller består av materialene med høy renhet nevnt i komponentmaterialkategori 15 i vedlegg II del II oghar et innhold av selen (Se) som overstiger 10 mg/kg tørrstoff, skal seleninnholdet angis,har et innhold av klorid (Cl-) som overstiger 30 g/kg tørrstoff, skal kloridinnholdet angis, med mindre EU-gjødselvaren framstilles i en framstillingsprosess der stoffer eller stoffblandinger som inneholder klorid, er brukt med henblikk på å framstille eller inkludere alkalimetallsalter eller jordalkalimetaller, og det gis informasjon om disse saltene i samsvar med vedlegg III.Dersom innholdet av selen eller klorid angis i samsvar med bokstav a) og b), skal denne informasjonen være tydelig atskilt fra næringsstoffdeklarasjonen og kan uttrykkes som et verdiintervall.Dersom innholdet av selen eller klorid i en EU-gjødselvare er lavere enn grenseverdiene i bokstav a) og b), og dette med sikkerhet og ubestridelig følger av arten av eller gjenvinningsprosessen for materialet med høy renhet eller produksjonsprosessen for EU-gjødselvaren som inneholder et slikt materiale, alt etter hva som er relevant, kan informasjon om disse parametrene utelates fra etiketten uten verifisering (for eksempel testing) på produsentens ansvar.
+7b. Dersom EU-gjødselvaren inneholder eller består av materialene med høy renhet nevnt i komponentmaterialkategori 15 i vedlegg II del II og
+
+1. har et innhold av selen (Se) som overstiger 10 mg/kg tørrstoff, skal seleninnholdet angis,
+2. har et innhold av klorid (Cl-) som overstiger 30 g/kg tørrstoff, skal kloridinnholdet angis, med mindre EU-gjødselvaren framstilles i en framstillingsprosess der stoffer eller stoffblandinger som inneholder klorid, er brukt med henblikk på å framstille eller inkludere alkalimetallsalter eller jordalkalimetaller, og det gis informasjon om disse saltene i samsvar med vedlegg III.
+
+Dersom innholdet av selen eller klorid angis i samsvar med bokstav a) og b), skal denne informasjonen være tydelig atskilt fra næringsstoffdeklarasjonen og kan uttrykkes som et verdiintervall.
+
+Dersom innholdet av selen eller klorid i en EU-gjødselvare er lavere enn grenseverdiene i bokstav a) og b), og dette med sikkerhet og ubestridelig følger av arten av eller gjenvinningsprosessen for materialet med høy renhet eller produksjonsprosessen for EU-gjødselvaren som inneholder et slikt materiale, alt etter hva som er relevant, kan informasjon om disse parametrene utelates fra etiketten uten verifisering (for eksempel testing) på produsentens ansvar.
 
 ◄**M5**
 
 ►**M8**
 
-7c. Dersom en EU-gjødselvare inneholder bearbeidet husdyrgjødsel som nevnt i del II, komponentmaterialekategori 10, i vedlegg II, skal informasjon om hvilke virkninger frigivelse av ammoniakk som følge av bruk av varen kan ha på luftkvaliteten, og en oppfordring til brukerne om å treffe egnede avhjelpende tiltak, framgå av etiketten.Dersom en EU-gjødselvare inneholder bearbeidet husdyrgjødsel som nevnt i del II, komponentmaterialekategori 10, i vedlegg II, skal følgende eller en lignende advarsel stå på etiketten: «Denne varen kan inneholde aminopyralid eller klopyralid og må ikke brukes til produksjon av planter som er sensitive for disse stoffene, for eksempel bønner, kløver, linser, erter, salat, solsikker og tomater. Denne varen må brukes på en slik måte at det ikke fører til overskridelse av grenseverdiene for rester for næringsmidler eller fôrvarer fastsatt i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396).» En slik advarsel er ikke nødvendig for EU-gjødselvarer som inneholder bearbeidet husdyrgjødsel med høyst 50 μg aminopyralid eller klopyralid per kg tørrstoff.
+7c. Dersom en EU-gjødselvare inneholder bearbeidet husdyrgjødsel som nevnt i del II, komponentmaterialekategori 10, i vedlegg II, skal informasjon om hvilke virkninger frigivelse av ammoniakk som følge av bruk av varen kan ha på luftkvaliteten, og en oppfordring til brukerne om å treffe egnede avhjelpende tiltak, framgå av etiketten.
+
+Dersom en EU-gjødselvare inneholder bearbeidet husdyrgjødsel som nevnt i del II, komponentmaterialekategori 10, i vedlegg II, skal følgende eller en lignende advarsel stå på etiketten: «Denne varen kan inneholde aminopyralid eller klopyralid og må ikke brukes til produksjon av planter som er sensitive for disse stoffene, for eksempel bønner, kløver, linser, erter, salat, solsikker og tomater. Denne varen må brukes på en slik måte at det ikke fører til overskridelse av grenseverdiene for rester for næringsmidler eller fôrvarer fastsatt i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396).» En slik advarsel er ikke nødvendig for EU-gjødselvarer som inneholder bearbeidet husdyrgjødsel med høyst 50 μg aminopyralid eller klopyralid per kg tørrstoff.
 
 7d. Dersom en EU-gjødselvare inneholder et komponentmateriale fra husdyrgjødsel, skal det totale nitrogeninnholdet fra husdyrgjødsel angis.
 
 ◄**M8**
 
-8\. Annen informasjon enn den som kreves i henhold til nr. 1-6,skal ikke villede brukeren, for eksempel ved å tillegge produktet egenskaper som det ikke har, eller ved å gi inntrykk av at produktet har unike egenskaper som lignende produkter også har,skal omfatte verifiserbare faktorer,skal ikke inneholde påstander som «bærekraftig» eller «miljøvennlig», med mindre disse påstandene viser til regelverk eller tydelig identifiserte retningslinjer, standarder eller ordninger som EU-gjødselvaren er i samsvar med, ogskal ikke inneholde påstander i form av uttalelser eller visuelle framstillinger om at EU-gjødselvaren forebygger eller behandler plantesykdommer eller beskytter planter mot skadelige organismer.
+8\. Annen informasjon enn den som kreves i henhold til nr. 1-6,
+
+1. skal ikke villede brukeren, for eksempel ved å tillegge produktet egenskaper som det ikke har, eller ved å gi inntrykk av at produktet har unike egenskaper som lignende produkter også har,
+2. skal omfatte verifiserbare faktorer,
+3. skal ikke inneholde påstander som «bærekraftig» eller «miljøvennlig», med mindre disse påstandene viser til regelverk eller tydelig identifiserte retningslinjer, standarder eller ordninger som EU-gjødselvaren er i samsvar med, og
+4. skal ikke inneholde påstander i form av uttalelser eller visuelle framstillinger om at EU-gjødselvaren forebygger eller behandler plantesykdommer eller beskytter planter mot skadelige organismer.
 
 9\. Teksten «lavt kloridinnhold» eller lignende kan bare brukes dersom innholdet av klorid (Cl-) er under 30 g/kg tørrstoff.
 
-10\. Dersom informasjonskravene til innholdet av næringsstoffer i dette vedlegget uttrykkes i oksidert form, kan næringsstoffinnholdet uttrykkes i elementær form i stedet for eller i tillegg til den oksiderte formen i samsvar med følgende omregningsfaktorer:Fosfor (P) = fosforpentoksid (P2O5) × 0,436Kalium (K) = kaliumoksid (K2O) × 0,830Kalsium (Ca) = kalsiumoksid (CaO) × 0,715Magnesium (Mg) = magnesiumoksid (MgO) × 0,603Natrium (Na) = natriumoksid (Na2O) × 0,742Svovel (S) = svoveltrioksid (SO3) × 0,400
+10\. Dersom informasjonskravene til innholdet av næringsstoffer i dette vedlegget uttrykkes i oksidert form, kan næringsstoffinnholdet uttrykkes i elementær form i stedet for eller i tillegg til den oksiderte formen i samsvar med følgende omregningsfaktorer:
 
-11\. Dersom informasjonskravene i dette vedlegget gjelder organisk karbon (Corg), kan informasjonen vise til organisk materiale i stedet for eller i tillegg til organisk karbon (Corg) i samsvar med følgende omregningsfaktor:Organisk karbon (Corg) = organisk materiale × 0,56
+- Fosfor (P) = fosforpentoksid (P2O5) × 0,436
+- Kalium (K) = kaliumoksid (K2O) × 0,830
+- Kalsium (Ca) = kalsiumoksid (CaO) × 0,715
+- Magnesium (Mg) = magnesiumoksid (MgO) × 0,603
+- Natrium (Na) = natriumoksid (Na2O) × 0,742
+- Svovel (S) = svoveltrioksid (SO3) × 0,400
+
+11\. Dersom informasjonskravene i dette vedlegget gjelder organisk karbon (Corg), kan informasjonen vise til organisk materiale i stedet for eller i tillegg til organisk karbon (Corg) i samsvar med følgende omregningsfaktor:
+
+- Organisk karbon (Corg) = organisk materiale × 0,56
 
 ### DEL II
 **PRODUKTSPESIFIKKE KRAV TIL MERKING**
@@ -1693,21 +2926,111 @@ I dette vedlegget fastsettes det krav til merking av EU-gjødselvarer. Kravene f
 
 ►**M6**
 
-3\. Følgende regler gjelder for gjødsel som inneholder hemmende forbindelser som angitt i komponentmaterialkategori 1 i vedlegg II del II:Etiketten skal inneholde ordene «nitrifikasjonshemmer», «denitrifikasjonshemmer» eller «ureasehemmer», alt etter hva som er relevant.Innholdet av den nitrifikasjonshemmende forbindelsen skal uttrykkes som en masseprosent av totalnitrogen (N) som forekommer som ammoniumnitrogen (NH4+) og ureanitrogen (CH4N2O).Innholdet av den denitrifikasjonshemmende forbindelsen skal uttrykkes som en masseprosent av nitratet (NO3–) som forekommer.Innholdet av den ureasehemmende forbindelsen skal uttrykkes som en masseprosent av totalnitrogen (N) som forekommer som ureanitrogen (CH4N2O).
+3\. Følgende regler gjelder for gjødsel som inneholder hemmende forbindelser som angitt i komponentmaterialkategori 1 i vedlegg II del II:
+
+1. Etiketten skal inneholde ordene «nitrifikasjonshemmer», «denitrifikasjonshemmer» eller «ureasehemmer», alt etter hva som er relevant.
+2. Innholdet av den nitrifikasjonshemmende forbindelsen skal uttrykkes som en masseprosent av totalnitrogen (N) som forekommer som ammoniumnitrogen (NH4+) og ureanitrogen (CH4N2O).
+3. Innholdet av den denitrifikasjonshemmende forbindelsen skal uttrykkes som en masseprosent av nitratet (NO3–) som forekommer.
+4. Innholdet av den ureasehemmende forbindelsen skal uttrykkes som en masseprosent av totalnitrogen (N) som forekommer som ureanitrogen (CH4N2O).
 
 ◄**M6**
 
-4\. Betegnelsen «mineralgjødsel» kan bare brukes dersom gjødselen tilhører produktfunksjonskategori 1.C og oppfyller følgende tilleggskrav:Mineralgjødselen må ikke inneholde mer enn 1 masseprosent organisk karbon (Corg), bortsett fra organisk karbon frakelat- eller kompleksdannere nevnt i nr. 3 i komponentmaterialkategori 1 i vedlegg II del II,►**M6**nitrifikasjons-, denitrifikasjons- eller ureasehemmende forbindelser nevnt i nr. 4 i komponentmaterialkategori 1 i vedlegg II del II,◄**M6**overflatebehandlingsmidler nevnt i nr. 1 bokstav a) i komponentmaterialkategori 9 i vedlegg II del II,urea (CH4N2O) ellerkalsiumcyanamid (CaCN2).Dersom fosfor (P) er et deklarert næringsstoff, skal det deklarerte fosforinnholdet bare bestå av fosfor i fosfatisk form, og mineralgjødselen skal oppfylle minst ett av følgende løselighetskriterier:Vannløselighet: minstenivå 40 % av totalfosfor (P).Løselighet i nøytralt ammoniumsitrat: minstenivå 75 % av totalfosfor (P).Løselighet i maursyre (bare for bløte råfosfater): minstenivå 55 % av totalfosfor (P).Dersom nitrogen (N) er et deklarert næringsstoff, skal det deklarerte nitrogeninnholdet bare bestå av summen av nitratnitrogen, ammoniumnitrogen, ureanitrogen og nitrogen fra metylenurea, isobutylidendiurea og krotonylidendiurea.
+4\. Betegnelsen «mineralgjødsel» kan bare brukes dersom gjødselen tilhører produktfunksjonskategori 1.C og oppfyller følgende tilleggskrav:
+
+1. Mineralgjødselen må ikke inneholde mer enn 1 masseprosent organisk karbon (Corg), bortsett fra organisk karbon fra
+
+   1. kelat- eller kompleksdannere nevnt i nr. 3 i komponentmaterialkategori 1 i vedlegg II del II,
+
+      ►**M6**
+   2. nitrifikasjons-, denitrifikasjons- eller ureasehemmende forbindelser nevnt i nr. 4 i komponentmaterialkategori 1 i vedlegg II del II,
+
+      ◄**M6**
+   3. overflatebehandlingsmidler nevnt i nr. 1 bokstav a) i komponentmaterialkategori 9 i vedlegg II del II,
+   4. urea (CH4N2O) eller
+   5. kalsiumcyanamid (CaCN2).
+2. Dersom fosfor (P) er et deklarert næringsstoff, skal det deklarerte fosforinnholdet bare bestå av fosfor i fosfatisk form, og mineralgjødselen skal oppfylle minst ett av følgende løselighetskriterier:
+
+   1. Vannløselighet: minstenivå 40 % av totalfosfor (P).
+   2. Løselighet i nøytralt ammoniumsitrat: minstenivå 75 % av totalfosfor (P).
+   3. Løselighet i maursyre (bare for bløte råfosfater): minstenivå 55 % av totalfosfor (P).
+3. Dersom nitrogen (N) er et deklarert næringsstoff, skal det deklarerte nitrogeninnholdet bare bestå av summen av nitratnitrogen, ammoniumnitrogen, ureanitrogen og nitrogen fra metylenurea, isobutylidendiurea og krotonylidendiurea.
 
 *Produktfunksjonskategori 1.A: ORGANISK GJØDSEL*
 
-Følgende informasjon skal gis:De deklarerte primære næringsstoffene nitrogen (N), fosfor (P) eller kalium (K) etter kjemisk symbol i rekkefølgen N-P-K.De deklarerte sekundære næringsstoffene kalsium (Ca), magnesium (Mg), natrium (Na) eller svovel (S) etter kjemisk symbol i rekkefølgen Ca-Mg-Na-S.Tall som angir innholdet av de deklarerte næringsstoffene totalnitrogen (N), totalfosfor i form av fosforpentoksid (P2O5) eller totalkalium i form av kaliumoksid (K2O), etterfulgt av tall i parentes som angir det samlede innholdet av kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) eller svoveltrioksid (SO3).Innholdet av følgende deklarerte næringsstoffer og andre parametrer i følgende rekkefølge og angitt i masseprosent:Nitrogen (N):totalnitrogen (N),minste mengde organisk nitrogen (Norg) etterfulgt av en beskrivelse av opprinnelsen til det organiske materialet som er brukt,nitrogen i form av ammoniumnitrogen.Totalt fosforpentoksid (P2O5).Totalt kaliumoksid (K2O).Kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) og svoveltrioksid (SO3) uttryktdersom disse næringsstoffene er fullstendig vannløselige, bare som det vannløselige innholdet,dersom det løselige innholdet av disse næringsstoffene utgjør minst en firedel av det samlede innholdet av disse næringsstoffene, som det samlede innholdet og det vannløselige innholdet,som det samlede innholdet i andre tilfeller.Organisk karbon (Corg).Tørrstoff.Forholdet mellom organisk karbon og totalnitrogen (Corg/N).Produksjonsdato.Formen på produktets fysiske enhet, for eksempel pulver eller pelleter, dersom det er relevant.
+Følgende informasjon skal gis:
+
+1. De deklarerte primære næringsstoffene nitrogen (N), fosfor (P) eller kalium (K) etter kjemisk symbol i rekkefølgen N-P-K.
+2. De deklarerte sekundære næringsstoffene kalsium (Ca), magnesium (Mg), natrium (Na) eller svovel (S) etter kjemisk symbol i rekkefølgen Ca-Mg-Na-S.
+3. Tall som angir innholdet av de deklarerte næringsstoffene totalnitrogen (N), totalfosfor i form av fosforpentoksid (P2O5) eller totalkalium i form av kaliumoksid (K2O), etterfulgt av tall i parentes som angir det samlede innholdet av kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) eller svoveltrioksid (SO3).
+4. Innholdet av følgende deklarerte næringsstoffer og andre parametrer i følgende rekkefølge og angitt i masseprosent:
+
+   1. Nitrogen (N):
+
+      - totalnitrogen (N),
+      - minste mengde organisk nitrogen (Norg) etterfulgt av en beskrivelse av opprinnelsen til det organiske materialet som er brukt,
+      - nitrogen i form av ammoniumnitrogen.
+   2. Totalt fosforpentoksid (P2O5).
+   3. Totalt kaliumoksid (K2O).
+   4. Kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) og svoveltrioksid (SO3) uttrykt
+
+      - dersom disse næringsstoffene er fullstendig vannløselige, bare som det vannløselige innholdet,
+      - dersom det løselige innholdet av disse næringsstoffene utgjør minst en firedel av det samlede innholdet av disse næringsstoffene, som det samlede innholdet og det vannløselige innholdet,
+      - som det samlede innholdet i andre tilfeller.
+   5. Organisk karbon (Corg).
+   6. Tørrstoff.
+5. Forholdet mellom organisk karbon og totalnitrogen (Corg/N).
+6. Produksjonsdato.
+7. Formen på produktets fysiske enhet, for eksempel pulver eller pelleter, dersom det er relevant.
 
 *Produktfunksjonskategori 1.B: ORGANISK-MINERALSK GJØDSEL*
 
-1\. Følgende informasjon skal gis:De deklarerte primære næringsstoffene nitrogen (N), fosfor (P) eller kalium (K) etter kjemisk symbol i rekkefølgen N-P-K.Dersom det er relevant, de deklarerte sekundære næringsstoffene kalsium (Ca), magnesium (Mg), natrium (Na) eller svovel (S) etter kjemisk symbol i rekkefølgen Ca-Mg-Na-S.Tall som angir innholdet av de deklarerte næringsstoffene totalnitrogen (N), totalfosfor i form av fosforpentoksid (P2O5) eller totalkalium i form av kaliumoksid (K2O), etterfulgt av tall i parentes som angir det samlede innholdet av kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) eller svoveltrioksid (SO3).Innholdet av følgende deklarerte næringsstoffer og andre parametrer i følgende rekkefølge og angitt i masseprosent:Nitrogen (N):totalnitrogen (N),minste mengde organisk nitrogen (Norg) etterfulgt av en beskrivelse av opprinnelsen til det organiske materialet som er brukt,nitrogen i form av nitratnitrogen,nitrogen i form av ammoniumnitrogen.nitrogen i form av ureanitrogen.Fosforpentoksid (P2O5):totalt fosforpentoksid (P2O5),vannløselig fosforpentoksid (P2O5),fosforpentoksid (P2O5) løselig i nøytralt ammoniumsitrat,dersom det forekommer bløtt råfosfat, fosforpentoksid (P2O5) løselig i maursyre.Kaliumoksid (K2O):totalt kaliumoksid (K2O),vannløselig kaliumoksid (K2O).Kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) og svoveltrioksid (SO3) uttryktdersom disse næringsstoffene er fullstendig vannløselige, bare som det vannløselige innholdet,dersom det løselige innholdet av disse næringsstoffene utgjør minst en firedel av det samlede innholdet av disse næringsstoffene, som det samlede innholdet og det vannløselige innholdet,som det samlede innholdet i andre tilfeller.Organisk karbon (Corg).Tørrstoff.Dersom det forekommer urea (CH4N2O), informasjon om hvilke virkninger frigivelse av ammoniakk som følge av bruken av gjødselen, kan ha på luftkvaliteten, og en oppfordring til brukerne om å treffe egnede avhjelpende tiltak.
+1\. Følgende informasjon skal gis:
 
-2\. Dersom et eller flere av mikronæringsstoffene bor (B), kobolt (Co), jern (Fe), mangan (Mn) og molybden (Mo) forekommer i minsteinnholdet angitt i masseprosent i følgende tabell,skal de deklareres dersom de bevisst er tilsatt en organisk-mineralsk gjødsel, ogkan de deklareres i andre tilfeller:*Mikronæringsstoff**Innhold av mikronæringsstoff (i masseprosent)*MikronæringsstoffFast organisk-mineralsk gjødselFlytende organisk-mineralsk gjødselMikronæringsstoffBeregnet på bruk på vekster eller gressmarkerBeregnet på hagebrukFlytende organisk-mineralsk gjødselBor (B)0,010,010,01Kobolt (Co)0,002Ikke relevant0,002Jern (Fe)0,50,020,02Mangan (Mn)0,10,010,01Molybden (Mo)0,0010,0010,001
+1. De deklarerte primære næringsstoffene nitrogen (N), fosfor (P) eller kalium (K) etter kjemisk symbol i rekkefølgen N-P-K.
+2. Dersom det er relevant, de deklarerte sekundære næringsstoffene kalsium (Ca), magnesium (Mg), natrium (Na) eller svovel (S) etter kjemisk symbol i rekkefølgen Ca-Mg-Na-S.
+3. Tall som angir innholdet av de deklarerte næringsstoffene totalnitrogen (N), totalfosfor i form av fosforpentoksid (P2O5) eller totalkalium i form av kaliumoksid (K2O), etterfulgt av tall i parentes som angir det samlede innholdet av kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) eller svoveltrioksid (SO3).
+4. Innholdet av følgende deklarerte næringsstoffer og andre parametrer i følgende rekkefølge og angitt i masseprosent:
+
+   1. Nitrogen (N):
+
+      - totalnitrogen (N),
+      - minste mengde organisk nitrogen (Norg) etterfulgt av en beskrivelse av opprinnelsen til det organiske materialet som er brukt,
+      - nitrogen i form av nitratnitrogen,
+      - nitrogen i form av ammoniumnitrogen.
+      - nitrogen i form av ureanitrogen.
+   2. Fosforpentoksid (P2O5):
+
+      - totalt fosforpentoksid (P2O5),
+      - vannløselig fosforpentoksid (P2O5),
+      - fosforpentoksid (P2O5) løselig i nøytralt ammoniumsitrat,
+      - dersom det forekommer bløtt råfosfat, fosforpentoksid (P2O5) løselig i maursyre.
+   3. Kaliumoksid (K2O):
+
+      - totalt kaliumoksid (K2O),
+      - vannløselig kaliumoksid (K2O).
+   4. Kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) og svoveltrioksid (SO3) uttrykt
+
+      - dersom disse næringsstoffene er fullstendig vannløselige, bare som det vannløselige innholdet,
+      - dersom det løselige innholdet av disse næringsstoffene utgjør minst en firedel av det samlede innholdet av disse næringsstoffene, som det samlede innholdet og det vannløselige innholdet,
+      - som det samlede innholdet i andre tilfeller.
+   5. Organisk karbon (Corg).
+   6. Tørrstoff.
+5. Dersom det forekommer urea (CH4N2O), informasjon om hvilke virkninger frigivelse av ammoniakk som følge av bruken av gjødselen, kan ha på luftkvaliteten, og en oppfordring til brukerne om å treffe egnede avhjelpende tiltak.
+
+2\. Dersom et eller flere av mikronæringsstoffene bor (B), kobolt (Co), jern (Fe), mangan (Mn) og molybden (Mo) forekommer i minsteinnholdet angitt i masseprosent i følgende tabell,
+
+- skal de deklareres dersom de bevisst er tilsatt en organisk-mineralsk gjødsel, og
+- kan de deklareres i andre tilfeller:
+
+  | *Mikronæringsstoff* | *Innhold av mikronæringsstoff (i masseprosent)* |  |  |
+  | --- | --- | --- | --- |
+  | Mikronæringsstoff | Fast organisk-mineralsk gjødsel |  | Flytende organisk-mineralsk gjødsel |
+  | Mikronæringsstoff | Beregnet på bruk på vekster eller gressmarker | Beregnet på hagebruk | Flytende organisk-mineralsk gjødsel |
+  | Bor (B) | 0,01 | 0,01 | 0,01 |
+  | Kobolt (Co) | 0,002 | Ikke relevant | 0,002 |
+  | Jern (Fe) | 0,5 | 0,02 | 0,02 |
+  | Mangan (Mn) | 0,1 | 0,01 | 0,01 |
+  | Molybden (Mo) | 0,001 | 0,001 | 0,001 |
 
 3\. Dersom et av eller begge mikronæringsstoffene kobber (Cu) og sink (Zn) forekommer, uten å være bevisst tilsatt, i minsteinnholdet angitt i masseprosent i følgende tabell, kan de deklareres:
 
@@ -1728,9 +3051,28 @@ Følgende informasjon skal gis:De deklarerte primære næringsstoffene nitrogen 
 
 ◄**M1**
 
-1. Det samlede innholdet av mikronæringsstoffer uttrykt som masseprosentbare som det vannløselige innholdet dersom disse mikronæringsstoffene er fullstendig vannløselige,dersom det løselige innholdet av disse mikronæringsstoffene utgjør minst en firedel av det samlede innholdet av disse mikronæringsstoffene, som det samlede innholdet og det vannløselige innholdet,som det samlede innholdet i andre tilfeller.►**M1**
-2. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere eller kompleksbundet med en eller flere kompleksdannere,skal følgende opplysninger, alt etter hva som er relevant, angis etter mikronæringsstoffets navn og kjemiske identifikator:«kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det]» / «kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det]» / «kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det] og kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det],mengden kelaterte/kompleksbundne mikronæringsstoffer uttrykt som masseprosent.
-3. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere, angis det pH-området som garanterer akseptabel stabilitet.◄**M1**►**M1**(opphevet)◄**M1**
+1. Det samlede innholdet av mikronæringsstoffer uttrykt som masseprosent
+
+   - bare som det vannløselige innholdet dersom disse mikronæringsstoffene er fullstendig vannløselige,
+   - dersom det løselige innholdet av disse mikronæringsstoffene utgjør minst en firedel av det samlede innholdet av disse mikronæringsstoffene, som det samlede innholdet og det vannløselige innholdet,
+   - som det samlede innholdet i andre tilfeller.
+
+   ►**M1**
+2. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere eller kompleksbundet med en eller flere kompleksdannere,
+
+   - skal følgende opplysninger, alt etter hva som er relevant, angis etter mikronæringsstoffets navn og kjemiske identifikator:
+
+     «kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det]» / «kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det]» / «kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det] og kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det],
+   - mengden kelaterte/kompleksbundne mikronæringsstoffer uttrykt som masseprosent.
+3. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere, angis det pH-området som garanterer akseptabel stabilitet.
+
+   ◄**M1**
+
+   ►**M1**
+
+   (opphevet)
+
+   ◄**M1**
 4. Dersom mikronæringsstoffene er tilsatt bevisst, skal det følgende angis: «Benyttes bare ved reelt behov. Doseringen må ikke overskrides.»
 
 6\. Dersom en organisk-mineral gjødsel har et innhold av kadmium (Cd) som er lik eller lavere enn 20 mg/kg fosforpentoksid (P2O5), kan teksten «Lavt innhold av kadmium (Cd)» eller lignende eller en visuell framstilling av dette legges til.
@@ -1739,7 +3081,34 @@ Følgende informasjon skal gis:De deklarerte primære næringsstoffene nitrogen 
 
 *Produktfunksjonskategori 1.C.I: UORGANISK MAKRONÆRINGSGJØDSEL*
 
-1\. Følgende informasjon skal gis:Dersom det er relevant, de deklarerte primære næringsstoffene nitrogen (N), fosfor (P) eller kalium (K) etter kjemisk symbol i rekkefølgen N-P-K.Dersom det er relevant, de deklarerte sekundære næringsstoffene kalsium (Ca), magnesium (Mg), natrium (Na) eller svovel (S) etter kjemisk symbol i rekkefølgen Ca-Mg-Na-S.Tall som angir innholdet av de deklarerte næringsstoffene totalnitrogen (N), totalfosfor i form av fosforpentoksid (P2O5) eller totalkalium i form av kaliumoksid (K2O), etterfulgt av tall i parentes som angir det samlede innholdet av kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) eller svoveltrioksid (SO3).Innholdet av følgende deklarerte næringsstoffer i følgende rekkefølge og angitt i masseprosent:Nitrogen (N):totalnitrogen (N),nitrogen i form av nitratnitrogen,nitrogen i form av ammoniumnitrogen.nitrogen i form av ureanitrogen.nitrogen fra ureaformaldehyd, isobutylidendiurea, krotonylidendiurea,nitrogen fra cyanamidnitrogen.Fosforpentoksid (P2O5):totalt fosforpentoksid (P2O5),vannløselig fosforpentoksid (P2O5),fosforpentoksid (P2O5) løselig i nøytralt ammoniumsitrat,dersom det forekommer bløtt råfosfat, fosforpentoksid (P2O5) løselig i maursyre.Vannløselig kaliumoksid (K2O).Kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) og svoveltrioksid (SO3) uttryktdersom disse næringsstoffene er fullstendig vannløselige, bare som det vannløselige innholdet,dersom det løselige innholdet av disse næringsstoffene utgjør minst en firedel av det samlede innholdet av disse næringsstoffene, som det samlede innholdet og det vannløselige innholdet,som det samlede innholdet i andre tilfeller.Dersom det forekommer urea (CH4N2O), informasjon om hvilke virkninger frigivelse av ammoniakk som følge av bruken av gjødselen, kan ha på luftkvaliteten, og en oppfordring til brukerne om å treffe egnede avhjelpende tiltak.
+1\. Følgende informasjon skal gis:
+
+1. Dersom det er relevant, de deklarerte primære næringsstoffene nitrogen (N), fosfor (P) eller kalium (K) etter kjemisk symbol i rekkefølgen N-P-K.
+2. Dersom det er relevant, de deklarerte sekundære næringsstoffene kalsium (Ca), magnesium (Mg), natrium (Na) eller svovel (S) etter kjemisk symbol i rekkefølgen Ca-Mg-Na-S.
+3. Tall som angir innholdet av de deklarerte næringsstoffene totalnitrogen (N), totalfosfor i form av fosforpentoksid (P2O5) eller totalkalium i form av kaliumoksid (K2O), etterfulgt av tall i parentes som angir det samlede innholdet av kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) eller svoveltrioksid (SO3).
+4. Innholdet av følgende deklarerte næringsstoffer i følgende rekkefølge og angitt i masseprosent:
+
+   1. Nitrogen (N):
+
+      - totalnitrogen (N),
+      - nitrogen i form av nitratnitrogen,
+      - nitrogen i form av ammoniumnitrogen.
+      - nitrogen i form av ureanitrogen.
+      - nitrogen fra ureaformaldehyd, isobutylidendiurea, krotonylidendiurea,
+      - nitrogen fra cyanamidnitrogen.
+   2. Fosforpentoksid (P2O5):
+
+      - totalt fosforpentoksid (P2O5),
+      - vannløselig fosforpentoksid (P2O5),
+      - fosforpentoksid (P2O5) løselig i nøytralt ammoniumsitrat,
+      - dersom det forekommer bløtt råfosfat, fosforpentoksid (P2O5) løselig i maursyre.
+   3. Vannløselig kaliumoksid (K2O).
+   4. Kalsiumoksid (CaO), magnesiumoksid (MgO), natriumoksid (Na2O) og svoveltrioksid (SO3) uttrykt
+
+      - dersom disse næringsstoffene er fullstendig vannløselige, bare som det vannløselige innholdet,
+      - dersom det løselige innholdet av disse næringsstoffene utgjør minst en firedel av det samlede innholdet av disse næringsstoffene, som det samlede innholdet og det vannløselige innholdet,
+      - som det samlede innholdet i andre tilfeller.
+5. Dersom det forekommer urea (CH4N2O), informasjon om hvilke virkninger frigivelse av ammoniakk som følge av bruken av gjødselen, kan ha på luftkvaliteten, og en oppfordring til brukerne om å treffe egnede avhjelpende tiltak.
 
 2\. Dersom en uorganisk makronæringsgjødsel har et innhold av kadmium (Cd) som er lik eller lavere enn 20 mg/kg fosforpentoksid (P2O5), kan teksten «Lavt innhold av kadmium (Cd)» eller lignende eller en visuell framstilling av dette legges til.
 
@@ -1751,13 +3120,33 @@ Følgende informasjon skal gis:De deklarerte primære næringsstoffene nitrogen 
 
 ►**M1**
 
-3\. Formen på produktets fysiske enhet skal angis på en eller en kombinasjon av to eller flere av følgende måter:Granulater.Pelleter.Pulver dersom minst 90 masseprosent av produktet kan passere gjennom en sikt med en maskevidde på 1 mm.Priller.
+3\. Formen på produktets fysiske enhet skal angis på en eller en kombinasjon av to eller flere av følgende måter:
+
+1. Granulater.
+2. Pelleter.
+3. Pulver dersom minst 90 masseprosent av produktet kan passere gjennom en sikt med en maskevidde på 1 mm.
+4. Priller.
 
 ◄**M1**
 
-4\. For overflatebehandlet fast uorganisk makronæringsgjødsel skal navnet på overflatebehandlingsmidlene og prosentdelen av gjødselen som er belagt med hvert overflatebehandlingsmiddel, angis sammen med det følgende:Når det gjelder polymerbelagt fast uorganisk makronæringsgjødsel, følgende angivelse: «Hastigheten næringsstoffene frigis med, kan variere avhengig av substratets temperatur. Det kan være nødvendig å tilpasse gjødslingen.»Når det gjelder fast uorganisk makronæringsgjødsel belagt med svovel (S) og svovel/polymer-belagt fast uorganisk makronæringsgjødsel, følgende angivelse: «Hastigheten næringsstoffene frigis med, kan variere avhengig av substratets temperatur og den biologiske aktiviteten. Det kan være nødvendig å tilpasse gjødslingen.»
+4\. For overflatebehandlet fast uorganisk makronæringsgjødsel skal navnet på overflatebehandlingsmidlene og prosentdelen av gjødselen som er belagt med hvert overflatebehandlingsmiddel, angis sammen med det følgende:
 
-5\. Dersom et eller flere av mikronæringsstoffene bor (B), kobolt (Co), jern (Fe), mangan (Mn) og molybden (Mo) forekommer i minsteinnholdet angitt i følgende tabell i masseprosent,skal de deklareres dersom de bevisst er tilsatt den faste uorganiske makronæringsgjødselen, ogkan de deklareres i andre tilfeller:*Mikronæringsstoff**Innhold av mikronæringsstoff (i masseprosent)*MikronæringsstoffBeregnet på bruk på vekster eller gressmarkerBeregnet på hagebrukBor (B)0,010,01Kobolt (Co)0,002Ikke relevantJern (Fe)0,50,02Mangan (Mn)0,10,01Molybden (Mo)0,0010,001
+1. Når det gjelder polymerbelagt fast uorganisk makronæringsgjødsel, følgende angivelse: «Hastigheten næringsstoffene frigis med, kan variere avhengig av substratets temperatur. Det kan være nødvendig å tilpasse gjødslingen.»
+2. Når det gjelder fast uorganisk makronæringsgjødsel belagt med svovel (S) og svovel/polymer-belagt fast uorganisk makronæringsgjødsel, følgende angivelse: «Hastigheten næringsstoffene frigis med, kan variere avhengig av substratets temperatur og den biologiske aktiviteten. Det kan være nødvendig å tilpasse gjødslingen.»
+
+5\. Dersom et eller flere av mikronæringsstoffene bor (B), kobolt (Co), jern (Fe), mangan (Mn) og molybden (Mo) forekommer i minsteinnholdet angitt i følgende tabell i masseprosent,
+
+- skal de deklareres dersom de bevisst er tilsatt den faste uorganiske makronæringsgjødselen, og
+- kan de deklareres i andre tilfeller:
+
+  | *Mikronæringsstoff* | *Innhold av mikronæringsstoff (i masseprosent)* |  |
+  | --- | --- | --- |
+  | Mikronæringsstoff | Beregnet på bruk på vekster eller gressmarker | Beregnet på hagebruk |
+  | Bor (B) | 0,01 | 0,01 |
+  | Kobolt (Co) | 0,002 | Ikke relevant |
+  | Jern (Fe) | 0,5 | 0,02 |
+  | Mangan (Mn) | 0,1 | 0,01 |
+  | Molybden (Mo) | 0,001 | 0,001 |
 
 6\. Dersom et av eller begge mikronæringsstoffene kobber (Cu) og sink (Zn) forekommer, uten å være bevisst tilsatt, i minsteinnholdet angitt i masseprosent i følgende tabell, kan de deklareres:
 
@@ -1777,11 +3166,20 @@ Følgende informasjon skal gis:De deklarerte primære næringsstoffene nitrogen 
 
 ◄**M1**
 
-1. Det samlede innholdet av mikronæringsstoffer uttrykt som masseprosentbare som det vannløselige innholdet dersom disse mikronæringsstoffene er fullstendig vannløselige,dersom det løselige innholdet av disse mikronæringsstoffene utgjør minst en firedel av det samlede innholdet av disse mikronæringsstoffene, som det samlede innholdet og det vannløselige innholdet,som det samlede innholdet i andre tilfeller.
+1. Det samlede innholdet av mikronæringsstoffer uttrykt som masseprosent
+
+   - bare som det vannløselige innholdet dersom disse mikronæringsstoffene er fullstendig vannløselige,
+   - dersom det løselige innholdet av disse mikronæringsstoffene utgjør minst en firedel av det samlede innholdet av disse mikronæringsstoffene, som det samlede innholdet og det vannløselige innholdet,
+   - som det samlede innholdet i andre tilfeller.
 
 ►**M1**
 
-1. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere eller kompleksbundet med en eller flere kompleksdannere,skal følgende opplysninger, alt etter hva som er relevant, angis etter mikronæringsstoffets navn og kjemiske identifikator:«kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det]» / «kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det]» / «kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det] og kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det],mengden kelaterte/kompleksbundne mikronæringsstoffer uttrykt som masseprosent.
+1. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere eller kompleksbundet med en eller flere kompleksdannere,
+
+   - skal følgende opplysninger, alt etter hva som er relevant, angis etter mikronæringsstoffets navn og kjemiske identifikator:
+
+     «kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det]» / «kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det]» / «kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det] og kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det],
+   - mengden kelaterte/kompleksbundne mikronæringsstoffer uttrykt som masseprosent.
 2. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere, angis det pH-området som garanterer akseptabel stabilitet.
 
 ◄**M1**
@@ -1800,7 +3198,18 @@ Følgende informasjon skal gis:De deklarerte primære næringsstoffene nitrogen 
 
 2\. Næringsstoffinnholdet kan angis i masseprosent eller i volumprosent.
 
-3\. Dersom et eller flere av mikronæringsstoffene bor (B), kobolt (Co), jern (Fe), mangan (Mn) og molybden (Mo) forekommer i minsteinnholdet angitt i følgende tabell i masseprosent,skal de deklareres dersom de bevisst er tilsatt den flytende uorganiske makronæringsgjødselen, ogkan de deklareres i andre tilfeller:*Mikronæringsstoff**Innhold av mikronæringsstoff (i masseprosent)*Bor (B)0,01Kobolt (Co)0,002Jern (Fe)0,02Mangan (Mn)0,01Molybden (Mo)0,001
+3\. Dersom et eller flere av mikronæringsstoffene bor (B), kobolt (Co), jern (Fe), mangan (Mn) og molybden (Mo) forekommer i minsteinnholdet angitt i følgende tabell i masseprosent,
+
+- skal de deklareres dersom de bevisst er tilsatt den flytende uorganiske makronæringsgjødselen, og
+- kan de deklareres i andre tilfeller:
+
+  | *Mikronæringsstoff* | *Innhold av mikronæringsstoff (i masseprosent)* |
+  | --- | --- |
+  | Bor (B) | 0,01 |
+  | Kobolt (Co) | 0,002 |
+  | Jern (Fe) | 0,02 |
+  | Mangan (Mn) | 0,01 |
+  | Molybden (Mo) | 0,001 |
 
 4\. Dersom et av eller begge mikronæringsstoffene kobber (Cu) og sink (Zn) forekommer, uten å være bevisst tilsatt, med minst 0,002 masseprosent, kan de deklareres.
 
@@ -1814,9 +3223,28 @@ Følgende informasjon skal gis:De deklarerte primære næringsstoffene nitrogen 
 
 ◄**M1**
 
-1. Det samlede innholdet av mikronæringsstoffer uttrykt som masseprosent eller volumprosentbare som det vannløselige innholdet dersom disse mikronæringsstoffene er fullstendig vannløselige,dersom det løselige innholdet av disse mikronæringsstoffene utgjør minst en firedel av det samlede innholdet av disse mikronæringsstoffene, som det samlede innholdet og det vannløselige innholdet,som det samlede innholdet i andre tilfeller.►**M1**
-2. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere eller kompleksbundet med en eller flere kompleksdannere,skal følgende opplysninger, alt etter hva som er relevant, angis etter mikronæringsstoffets navn og kjemiske identifikator:«kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det]» / «kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det]» / «kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det] og kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det],mengden kelaterte/kompleksbundne mikronæringsstoffer uttrykt som masseprosent.
-3. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere, angis det pH-området som garanterer akseptabel stabilitet.◄**M1**►**M1**(Opphevet)◄**M1**
+1. Det samlede innholdet av mikronæringsstoffer uttrykt som masseprosent eller volumprosent
+
+   - bare som det vannløselige innholdet dersom disse mikronæringsstoffene er fullstendig vannløselige,
+   - dersom det løselige innholdet av disse mikronæringsstoffene utgjør minst en firedel av det samlede innholdet av disse mikronæringsstoffene, som det samlede innholdet og det vannløselige innholdet,
+   - som det samlede innholdet i andre tilfeller.
+
+   ►**M1**
+2. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere eller kompleksbundet med en eller flere kompleksdannere,
+
+   - skal følgende opplysninger, alt etter hva som er relevant, angis etter mikronæringsstoffets navn og kjemiske identifikator:
+
+     «kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det]» / «kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det]» / «kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det] og kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det],
+   - mengden kelaterte/kompleksbundne mikronæringsstoffer uttrykt som masseprosent.
+3. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere, angis det pH-området som garanterer akseptabel stabilitet.
+
+   ◄**M1**
+
+   ►**M1**
+
+   (Opphevet)
+
+   ◄**M1**
 4. Dersom mikronæringsstoffene er tilsatt bevisst, skal det følgende angis: «Benyttes bare ved reelt behov. Doseringen må ikke overskrides.»
 
 *Produktfunksjonskategori 1.C.II: UORGANISK MIKRONÆRINGSGJØDSEL*
@@ -1825,7 +3253,10 @@ Følgende informasjon skal gis:De deklarerte primære næringsstoffene nitrogen 
 
 1\. De deklarerte mikronæringsstoffene i den uorganiske mikronæringsgjødselen skal angis etter navn og kjemiske symboler i følgende rekkefølge: bor (B), kobolt (Co), kobber (Cu), jern (Fe), mangan (Mn), molybden (Mo) og sink (Zn) etterfulgt av navnene på deres mot-ioner, dersom de deklarerte mikronæringsstoffene er tilsatt bevisst.
 
-2\. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere, og hver kelatdanner kan identifiseres og kvantifiseres og kelaterer minst 1 % vannløselige mikronæringsstoffer, eller de deklarerte mikronæringsstoffene er kompleksbundet med en eller flere kompleksdannere, skal følgende opplysninger, alt etter hva som er relevant, angis etter mikronæringsstoffets navn og kjemiske identifikator:«kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det]» / «kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det]» / «kelatert med [navnet på kelat-danneren/-dannerne eller en forkortelse for det] og kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det],mengden kelaterte/kompleksbundne mikronæringsstoffer uttrykt som masseprosent.
+2\. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere, og hver kelatdanner kan identifiseres og kvantifiseres og kelaterer minst 1 % vannløselige mikronæringsstoffer, eller de deklarerte mikronæringsstoffene er kompleksbundet med en eller flere kompleksdannere, skal følgende opplysninger, alt etter hva som er relevant, angis etter mikronæringsstoffets navn og kjemiske identifikator:
+
+- «kelatert med [navnet på kelatdanneren/-dannerne eller en forkortelse for det]» / «kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det]» / «kelatert med [navnet på kelat-danneren/-dannerne eller en forkortelse for det] og kompleksbundet med [navnet på kompleksdanneren/-dannerne eller en forkortelse for det],
+- mengden kelaterte/kompleksbundne mikronæringsstoffer uttrykt som masseprosent.
 
 2a. Dersom de deklarerte mikronæringsstoffene er kelatert med en eller flere kelatdannere, angis det pH-området som garanterer akseptabel stabilitet.
 
@@ -1843,7 +3274,11 @@ P*roduktfunksjonskategori 1.C.II a): REN UORGANISK MIKRONÆRINGSGJØDSEL*
 
 1\. På etiketten skal den relevante produkttypen angis i henhold til tabellen under produktfunksjonskategori 1.C.II a) i vedlegg I del II.
 
-2\. Det samlede innholdet av mikronæringsstoffer skal uttrykkes som masseprosent:dersom mikronæringsstoffet er fullstendig vannløselig, bare som det vannløselige innholdet,dersom det løselige innholdet av mikronæringsstoffet utgjør minst en firedel av det samlede innholdet av dette mikronæringsstoffet, som det samlede innholdet og det vannløselige innholdet,det samlede innholdet i andre tilfeller.
+2\. Det samlede innholdet av mikronæringsstoffer skal uttrykkes som masseprosent:
+
+- dersom mikronæringsstoffet er fullstendig vannløselig, bare som det vannløselige innholdet,
+- dersom det løselige innholdet av mikronæringsstoffet utgjør minst en firedel av det samlede innholdet av dette mikronæringsstoffet, som det samlede innholdet og det vannløselige innholdet,
+- det samlede innholdet i andre tilfeller.
 
 *Produktfunksjonskategori 1.C.II b): SAMMENSATT UORGANISK MIKRONÆRINGSGJØDSEL*
 
@@ -1862,11 +3297,21 @@ P*roduktfunksjonskategori 1.C.II a): REN UORGANISK MIKRONÆRINGSGJØDSEL*
 
 2\. Dersom den sammensatte uorganiske mikronæringsgjødselen er i suspendert eller oppløst form, skal det på etiketten angis «i suspensjon» eller «i løsning», alt etter hva som er relevant.
 
-3\. Det samlede innholdet av mikronæringsstoffer skal uttrykkes som masseprosent:dersom mikronæringsstoffene er fullstendig vannløselige, bare som det vannløselige innholdet,dersom det løselige innholdet av mikronæringsstoffene utgjør minst halvparten av det samlede innholdet av disse mikronæringsstoffene, det samlede innholdet og det vannløselige innholdet,det samlede innholdet i andre tilfeller.
+3\. Det samlede innholdet av mikronæringsstoffer skal uttrykkes som masseprosent:
+
+- dersom mikronæringsstoffene er fullstendig vannløselige, bare som det vannløselige innholdet,
+- dersom det løselige innholdet av mikronæringsstoffene utgjør minst halvparten av det samlede innholdet av disse mikronæringsstoffene, det samlede innholdet og det vannløselige innholdet,
+- det samlede innholdet i andre tilfeller.
 
 ###### Produktfunksjonskategori 2: KALKINGSMIDDEL
 
-Følgende parametrer skal deklareres i følgende rekkefølge:Nøytraliserende verdi.Kornstørrelse uttrykt som masseprosent av produktet som passerer gjennom en sikt med en maskevidde på 1,0 mm.Totalt kalsiumoksid (CaO) uttrykt som masseprosent.Totalt magnesiumoksid (MgO) uttrykt som masseprosent.Reaktivitet og metode for å bestemme reaktivitet, unntatt for kalk i form av oksider eller hydroksider.
+Følgende parametrer skal deklareres i følgende rekkefølge:
+
+- Nøytraliserende verdi.
+- Kornstørrelse uttrykt som masseprosent av produktet som passerer gjennom en sikt med en maskevidde på 1,0 mm.
+- Totalt kalsiumoksid (CaO) uttrykt som masseprosent.
+- Totalt magnesiumoksid (MgO) uttrykt som masseprosent.
+- Reaktivitet og metode for å bestemme reaktivitet, unntatt for kalk i form av oksider eller hydroksider.
 
 ###### Produktfunksjonskategori 3: JORDFORBEDRINGSMIDDEL
 
@@ -1876,11 +3321,30 @@ Følgende parametrer skal deklareres i følgende rekkefølge:Nøytraliserende ve
 
 *Produktfunksjonskategori 3.A: ORGANISK JORDFORBEDRINGSMIDDEL*
 
-Følgende parametrer skal deklareres:pH.Elektrisk ledningsevne angitt som mS/m.Innhold av organisk karbon (Corg) uttrykt som masseprosent.Den minste mengden av organisk nitrogen (Norg) uttrykt som masseprosent etterfulgt av en beskrivelse av opprinnelsen til det organiske materialet som er brukt.Forholdet mellom organisk karbon og totalnitrogen (Corg/N).
+Følgende parametrer skal deklareres:
+
+- pH.
+- Elektrisk ledningsevne angitt som mS/m.
+- Innhold av organisk karbon (Corg) uttrykt som masseprosent.
+- Den minste mengden av organisk nitrogen (Norg) uttrykt som masseprosent etterfulgt av en beskrivelse av opprinnelsen til det organiske materialet som er brukt.
+- Forholdet mellom organisk karbon og totalnitrogen (Corg/N).
 
 ###### Produktfunksjonskategori 4: DYRKINGSMEDIUM
 
-Følgende parametrer skal deklareres i følgende rekkefølge:Elektrisk ledningsevne angitt som mS/m, unntatt for mineralull.pH.Mengde:For mineralull: uttrykt som antall deler og de tre dimensjonene lengde, høyde og bredde.For andre ferdigformede dyrkingsmedier: uttrykt som størrelse i minst to dimensjoner.For andre dyrkingsmedier: uttrykt som totalt volum.Unntatt for ferdigformede dyrkingsmedier: Mengde uttrykt som volum av materialer med en partikkelstørrelse på over 60 mm, dersom det forekommer.Nitrogen (N) som kan ekstraheres ved hjelp av CaCl2/DTPA (kalsiumklorid/ dietylentriaminpentaeddiksyre, «CAT-løselig»), dersom innholdet er over 150 mg/l.Fosforpentoksid (P2O5) som kan ekstraheres ved hjelp av CaCl2/DTPA (kalsiumklorid/dietylentriaminpentaeddiksyre, «CAT-løselig»), dersom innholdet er over 20 mg/l.Kaliumoksid (K2O) som kan ekstraheres ved hjelp av CaCl2/DTPA (kalsiumklorid/ dietylentriaminpentaeddiksyre, «CAT-løselig»), dersom innholdet er over 150 mg/l.Produksjonsdato.
+Følgende parametrer skal deklareres i følgende rekkefølge:
+
+- Elektrisk ledningsevne angitt som mS/m, unntatt for mineralull.
+- pH.
+- Mengde:
+
+  - For mineralull: uttrykt som antall deler og de tre dimensjonene lengde, høyde og bredde.
+  - For andre ferdigformede dyrkingsmedier: uttrykt som størrelse i minst to dimensjoner.
+  - For andre dyrkingsmedier: uttrykt som totalt volum.
+  - Unntatt for ferdigformede dyrkingsmedier: Mengde uttrykt som volum av materialer med en partikkelstørrelse på over 60 mm, dersom det forekommer.
+- Nitrogen (N) som kan ekstraheres ved hjelp av CaCl2/DTPA (kalsiumklorid/ dietylentriaminpentaeddiksyre, «CAT-løselig»), dersom innholdet er over 150 mg/l.
+- Fosforpentoksid (P2O5) som kan ekstraheres ved hjelp av CaCl2/DTPA (kalsiumklorid/dietylentriaminpentaeddiksyre, «CAT-løselig»), dersom innholdet er over 20 mg/l.
+- Kaliumoksid (K2O) som kan ekstraheres ved hjelp av CaCl2/DTPA (kalsiumklorid/ dietylentriaminpentaeddiksyre, «CAT-løselig»), dersom innholdet er over 150 mg/l.
+- Produksjonsdato.
 
 ►**M6**
 
@@ -1890,13 +3354,29 @@ Følgende parametrer skal deklareres i følgende rekkefølge:Elektrisk ledningse
 
 2\. Innholdet av den eller de hemmende forbindelsene i masse- eller volumprosent skal deklareres.
 
-3\. Bruksanvisningen nevnt i nr. 1 bokstav d) i del I i dette vedlegget skal inneholde opplysninger omhvilke typer EU-gjødselvarer som hemmeren kan blandes med, særlig:for nitrifikasjonshemmeren nevnt i produktfunksjonskategori 5A) i del II i vedlegg I, en EU-gjødselvare der minst 50 % av det totale nitrogeninnholdet (N) består av nitrogen (N), danner ammonium (NH4+) og urea (CH4N2O),for ureasehemmeren nevnt i produktfunksjonskategori 5C) i del II i vedlegg I, en EU-gjødselvare der minst 50 % av det samlede nitrogeninnholdet (N) består av nitrogenformen (N) urea (CH4N2O).anbefalt laveste og høyeste konsentrasjon av hemmende forbindelse(r) når de(n) blandes med en gjødselvare før bruk:for nitrifikasjonshemmeren nevnt i produktfunksjonskategori 5 A) i del II i vedlegg I, som en masseprosent av totalnitrogen (N) som forekommer som ammoniumnitrogen (NH4+) og ureanitrogen (CH4N2O),for denitrifikasjonshemmeren nevnt i produktfunksjonskategori 5 B) i del II i vedlegg I, som en masseprosent av nitratet (NO3-) som forekommer,for ureasehemmeren nevnt i produktfunksjonskategori 5) i del II i vedlegg I, som en masseprosent av totalnitrogen (N) som forekommer som ureanitrogen (CH4N2O).
+3\. Bruksanvisningen nevnt i nr. 1 bokstav d) i del I i dette vedlegget skal inneholde opplysninger om
+
+1. hvilke typer EU-gjødselvarer som hemmeren kan blandes med, særlig:
+
+   1. for nitrifikasjonshemmeren nevnt i produktfunksjonskategori 5A) i del II i vedlegg I, en EU-gjødselvare der minst 50 % av det totale nitrogeninnholdet (N) består av nitrogen (N), danner ammonium (NH4+) og urea (CH4N2O),
+   2. for ureasehemmeren nevnt i produktfunksjonskategori 5C) i del II i vedlegg I, en EU-gjødselvare der minst 50 % av det samlede nitrogeninnholdet (N) består av nitrogenformen (N) urea (CH4N2O).
+2. anbefalt laveste og høyeste konsentrasjon av hemmende forbindelse(r) når de(n) blandes med en gjødselvare før bruk:
+
+   1. for nitrifikasjonshemmeren nevnt i produktfunksjonskategori 5 A) i del II i vedlegg I, som en masseprosent av totalnitrogen (N) som forekommer som ammoniumnitrogen (NH4+) og ureanitrogen (CH4N2O),
+   2. for denitrifikasjonshemmeren nevnt i produktfunksjonskategori 5 B) i del II i vedlegg I, som en masseprosent av nitratet (NO3-) som forekommer,
+   3. for ureasehemmeren nevnt i produktfunksjonskategori 5) i del II i vedlegg I, som en masseprosent av totalnitrogen (N) som forekommer som ureanitrogen (CH4N2O).
 
 ◄**M6**
 
 ###### Produktfunksjonskategori 6: BIOSTIMULANT
 
-Følgende informasjon skal gis:Fysisk form.Produksjons- og utløpsdato.Bruksmåte(r).Angitt effekt for hver målplante.Alle relevante anvisninger som gjelder produktets effektivitet, herunder jordforvaltningspraksis, kunstgjødsling, uforenlighet med plantevernmidler, anbefalt størrelse på sprøytemunnstykker, sprøytetrykk og andre tiltak for å hindre avdrift.
+Følgende informasjon skal gis:
+
+1. Fysisk form.
+2. Produksjons- og utløpsdato.
+3. Bruksmåte(r).
+4. Angitt effekt for hver målplante.
+5. Alle relevante anvisninger som gjelder produktets effektivitet, herunder jordforvaltningspraksis, kunstgjødsling, uforenlighet med plantevernmidler, anbefalt størrelse på sprøytemunnstykker, sprøytetrykk og andre tiltak for å hindre avdrift.
 
 *Produktfunksjonskategori 6.A: MIKROBIELL BIOSTIMULANT*
 
@@ -2109,7 +3589,11 @@ Modul A kan også brukes på en mekanisk gjødselvareblanding som angitt i produ
 
 1.3.
 
-Som unntak fra nr. 1.1 og 1.2 må modul A ikke brukes på følgende:En ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold som angitt i produktfunksjonskategori 1.C.I a) i–ii) A) eller en mekanisk gjødselvareblanding som angitt i produktfunksjonskategori 7 som inneholder minst 28 % masseprosent nitrogen (N) fra en EU-gjødselvare som tilhører produktfunksjonskategori 1.C.I a) i–ii) A).En hemmer som angitt i produktfunksjonskategori 5.En biostimulant som angitt i produktfunksjonskategori 6.
+Som unntak fra nr. 1.1 og 1.2 må modul A ikke brukes på følgende:
+
+1. En ren eller sammensatt fast uorganisk ammoniumnitratgjødsel med makronæringsstoffer og høyt nitrogeninnhold som angitt i produktfunksjonskategori 1.C.I a) i–ii) A) eller en mekanisk gjødselvareblanding som angitt i produktfunksjonskategori 7 som inneholder minst 28 % masseprosent nitrogen (N) fra en EU-gjødselvare som tilhører produktfunksjonskategori 1.C.I a) i–ii) A).
+2. En hemmer som angitt i produktfunksjonskategori 5.
+3. En biostimulant som angitt i produktfunksjonskategori 6.
 
 2\.
 
@@ -2182,7 +3666,14 @@ Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gj
 
 2.2.
 
-Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og, i den grad det er relevant for vurderingen, en beskrivelse av utformingen og produksjonen av EU-gjødselvaren og den tiltenkte bruken av den. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende:En generell beskrivelse av EU-gjødselvaren og produktfunksjonskategorien som svarer til den funksjonen som det er angitt at EU-gjødselvaren har, samt en beskrivelse av den tiltenkte bruken.En liste over komponentmaterialer som er brukt, komponentmaterialkategoriene nevnt i vedlegg II som de tilhører, og informasjon om deres opprinnelse eller produksjonsprosess.EU-samsvarserklæringene for EU-gjødselvarekomponentene i den mekaniske gjødselvareblandingen.Tegninger, skjemaer, beskrivelser og forklaringer som er nødvendige for å forstå produksjonsprosessen for EU-gjødselvaren.Et prøveeksemplar av etiketten eller informasjonsbladet eller begge nevnt i artikkel 6 nr. 7 som inneholder informasjonen som er nødvendig i samsvar med vedlegg III.En liste over de harmoniserte standardene nevnt i artikkel 13, de felles spesifikasjonene nevnt i artikkel 14 og/eller andre relevante tekniske spesifikasjoner som er brukt. Dersom deler av harmoniserte standarder eller felles spesifikasjoner er brukt, skal det i den tekniske dokumentasjonen angis hvilke deler som er brukt.
+Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og, i den grad det er relevant for vurderingen, en beskrivelse av utformingen og produksjonen av EU-gjødselvaren og den tiltenkte bruken av den. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende:
+
+1. En generell beskrivelse av EU-gjødselvaren og produktfunksjonskategorien som svarer til den funksjonen som det er angitt at EU-gjødselvaren har, samt en beskrivelse av den tiltenkte bruken.
+2. En liste over komponentmaterialer som er brukt, komponentmaterialkategoriene nevnt i vedlegg II som de tilhører, og informasjon om deres opprinnelse eller produksjonsprosess.
+3. EU-samsvarserklæringene for EU-gjødselvarekomponentene i den mekaniske gjødselvareblandingen.
+4. Tegninger, skjemaer, beskrivelser og forklaringer som er nødvendige for å forstå produksjonsprosessen for EU-gjødselvaren.
+5. Et prøveeksemplar av etiketten eller informasjonsbladet eller begge nevnt i artikkel 6 nr. 7 som inneholder informasjonen som er nødvendig i samsvar med vedlegg III.
+6. En liste over de harmoniserte standardene nevnt i artikkel 13, de felles spesifikasjonene nevnt i artikkel 14 og/eller andre relevante tekniske spesifikasjoner som er brukt. Dersom deler av harmoniserte standarder eller felles spesifikasjoner er brukt, skal det i den tekniske dokumentasjonen angis hvilke deler som er brukt.
 
 ►**M1**
 
@@ -2245,7 +3736,15 @@ Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gj
 
 2.2.
 
-Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og, i den grad det er relevant for vurderingen, en beskrivelse av utformingen og produksjonen av EU-gjødselvaren og den tiltenkte bruken av den. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende:En generell beskrivelse av EU-gjødselvaren og produktfunksjonskategorien som svarer til den funksjonen som det er angitt at EU-gjødselvaren har, samt en beskrivelse av den tiltenkte bruken.En liste over komponentmaterialer som er brukt, komponentmaterialkategoriene nevnt i vedlegg II som de tilhører, og informasjon om deres opprinnelse eller produksjonsprosess.EU-samsvarserklæringene for EU-gjødselvarekomponentene i den mekaniske gjødselvareblandingen.Tegninger, skjemaer, beskrivelser og forklaringer som er nødvendige for å forstå produksjonsprosessen for EU-gjødselvaren.Et prøveeksemplar av etiketten eller informasjonsbladet eller begge nevnt i artikkel 6 nr. 7 som inneholder informasjonen som er nødvendig i samsvar med vedlegg III.Navn på og adresse til anleggene, og anleggenes driftsansvarlige, der produktet og dets hovedkomponenter er produsert.En liste over de harmoniserte standardene nevnt i artikkel 13, de felles spesifikasjonene nevnt i artikkel 14 og/eller andre relevante tekniske spesifikasjoner som er brukt. Dersom deler av harmoniserte standarder eller felles spesifikasjoner er brukt, skal det i den tekniske dokumentasjonen angis hvilke deler som er brukt.
+Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og, i den grad det er relevant for vurderingen, en beskrivelse av utformingen og produksjonen av EU-gjødselvaren og den tiltenkte bruken av den. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende:
+
+1. En generell beskrivelse av EU-gjødselvaren og produktfunksjonskategorien som svarer til den funksjonen som det er angitt at EU-gjødselvaren har, samt en beskrivelse av den tiltenkte bruken.
+2. En liste over komponentmaterialer som er brukt, komponentmaterialkategoriene nevnt i vedlegg II som de tilhører, og informasjon om deres opprinnelse eller produksjonsprosess.
+3. EU-samsvarserklæringene for EU-gjødselvarekomponentene i den mekaniske gjødselvareblandingen.
+4. Tegninger, skjemaer, beskrivelser og forklaringer som er nødvendige for å forstå produksjonsprosessen for EU-gjødselvaren.
+5. Et prøveeksemplar av etiketten eller informasjonsbladet eller begge nevnt i artikkel 6 nr. 7 som inneholder informasjonen som er nødvendig i samsvar med vedlegg III.
+6. Navn på og adresse til anleggene, og anleggenes driftsansvarlige, der produktet og dets hovedkomponenter er produsert.
+7. En liste over de harmoniserte standardene nevnt i artikkel 13, de felles spesifikasjonene nevnt i artikkel 14 og/eller andre relevante tekniske spesifikasjoner som er brukt. Dersom deler av harmoniserte standarder eller felles spesifikasjoner er brukt, skal det i den tekniske dokumentasjonen angis hvilke deler som er brukt.
 
 ►**M1**
 
@@ -2266,7 +3765,10 @@ Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og 
 
 Produktkontroller av oljeabsorpsjon og detonerbarhet
 
-Varmesyklusene og testene nevnt i nr. 4.1-4.4 skal utføres på en representativ prøve av EU-gjødselvaren hver tredje måned på produsentens vegne for å kontrollere samsvar medkravene som gjelder oljeabsorpsjon, nevnt i nr. 4 i produktfunksjonskategori 1.C.I a) i–ii) A) i vedlegg I, ogkravene som gjelder detonerbarhet, nevnt i nr. 5 i produktfunksjonskategori 1.C.I a) i–ii) A) i vedlegg I.
+Varmesyklusene og testene nevnt i nr. 4.1-4.4 skal utføres på en representativ prøve av EU-gjødselvaren hver tredje måned på produsentens vegne for å kontrollere samsvar med
+
+1. kravene som gjelder oljeabsorpsjon, nevnt i nr. 4 i produktfunksjonskategori 1.C.I a) i–ii) A) i vedlegg I, og
+2. kravene som gjelder detonerbarhet, nevnt i nr. 5 i produktfunksjonskategori 1.C.I a) i–ii) A) i vedlegg I.
 
 Varmesyklusene og testene skal utføres på ansvaret til et meldt organ som produsenten har valgt.
 
@@ -2284,7 +3786,10 @@ Prøven varmes opp i en egnet lukket laboratoriekolbe fra omgivelsestemperatur t
 
 Utstyr
 
-Vanlig laboratorieutstyr, særligvannbad eller ovner som med termostat holdes ved henholdsvis 25 ± 1 °C og 50 ± 1 °C,egnede laboratoriekolber på 150 ml.
+Vanlig laboratorieutstyr, særlig
+
+1. vannbad eller ovner som med termostat holdes ved henholdsvis 25 ± 1 °C og 50 ± 1 °C,
+2. egnede laboratoriekolber på 150 ml.
 
 4.1.3.
 
@@ -2326,13 +3831,27 @@ Fullstendig nedsenking av prøven i gassolje i et gitt tidsrom, deretter fjernes
 
 Reagenser
 
-Gassolje med følgende egenskaper:Viskositet høyst: 5 mPas ved 40 °C.Densitet: 0,8 g/ml til 0,85 g/ml ved 20 °C.Svovelinnhold: ≤ 1,0 % (m/m).Aske: ≤ 0,1 % (m/m).
+Gassolje med følgende egenskaper:
+
+1. Viskositet høyst: 5 mPas ved 40 °C.
+2. Densitet: 0,8 g/ml til 0,85 g/ml ved 20 °C.
+3. Svovelinnhold: ≤ 1,0 % (m/m).
+4. Aske: ≤ 0,1 % (m/m).
 
 4.2.4.
 
 Utstyr
 
-Vanlig laboratorieutstyr ogvekt som kan veie med en nøyaktighet på 0,01 g,begerglass på 500 ml,trakt av plast, helst med sylinderformet overdel, diameter ca. 200 mm,sikt, maskevidde 0,5 mm, som passer i trakten,Merk: Størrelsen på trakten og sikten skal være slik at bare et fåtall granulater ligger oppå hverandre, og slik at oljen lett kan renne av.filterpapir, hurtigfiltrerende, kreppet, mykt, masse 150 g/m2,absorberende papir (laboratoriekvalitet).
+Vanlig laboratorieutstyr og
+
+1. vekt som kan veie med en nøyaktighet på 0,01 g,
+2. begerglass på 500 ml,
+3. trakt av plast, helst med sylinderformet overdel, diameter ca. 200 mm,
+4. sikt, maskevidde 0,5 mm, som passer i trakten,
+
+   Merk: Størrelsen på trakten og sikten skal være slik at bare et fåtall granulater ligger oppå hverandre, og slik at oljen lett kan renne av.
+5. filterpapir, hurtigfiltrerende, kreppet, mykt, masse 150 g/m2,
+6. absorberende papir (laboratoriekvalitet).
 
 4.2.5.
 
@@ -2380,7 +3899,10 @@ Oljeabsorpsjonen for hver enkelt bestemmelse (nr. 4.2.5.1), uttrykt som massepro
 
 $$\\text{Oljeabsorpsjon}=\\frac{m_2-m_1}{m_1} \\times 100$$
 
-derm1 = den siktede prøvens masse i gram (nr. 4.2.5.2),m2 = prøvens masse i gram i henhold til henholdsvis nr. 4.2.5.4 og nr. 4.2.5.5 som følge av den siste veiingen.
+der
+
+- m1 = den siktede prøvens masse i gram (nr. 4.2.5.2),
+- m2 = prøvens masse i gram i henhold til henholdsvis nr. 4.2.5.4 og nr. 4.2.5.5 som følge av den siste veiingen.
 
 4.2.6.1.2.
 
@@ -2402,13 +3924,29 @@ Prøven varmes opp i en tett beholder fra omgivelsestemperatur til 50 °C og hol
 
 4.3.2.
 
-UtstyrMetode 1Et vannbad termostatert mellom 20 og 51 °C og med en minste oppvarmings- og avkjølingshastighet på 10 °C/t, eller to vannbad der det ene er termostatert ved 20 °C og det andre ved 51 °C. Vannet i badet/badene omrøres kontinuerlig, og badet skal ha et volum som er stort nok til å sikre god sirkulasjon av vannet.En helt vanntett beholder av rustfritt stål utstyrt med en anordning for temperaturregistrering midt i. Beholderens utvendige bredde er 45 ± 2 mm og veggtykkelsen er 1,5 mm (se eksempel i figur 1). Beholderens høyde og lengde kan velges i samsvar med vannbadets mål, for eksempel lengde 600 mm og høyde 400 mm.Metode 2Egnet ovn termostatert mellom 20 °C og 51 °C med en minste oppvarmings- og avkjølingshastighet på 10 °C/t.Egnede lufttette plastbeholdere eller -poser med en egnet anordning for temperaturregistrering midt i prøven eller en beholder av rustfritt stål som beskrevet i metode 1 i nr. 4.3.2 bokstav b). Når beholderen eller posen er fylt, skal den ytre tykkelsen være høyst 45 mm.
+Utstyr
+
+- Metode 1
+
+  1. Et vannbad termostatert mellom 20 og 51 °C og med en minste oppvarmings- og avkjølingshastighet på 10 °C/t, eller to vannbad der det ene er termostatert ved 20 °C og det andre ved 51 °C. Vannet i badet/badene omrøres kontinuerlig, og badet skal ha et volum som er stort nok til å sikre god sirkulasjon av vannet.
+  2. En helt vanntett beholder av rustfritt stål utstyrt med en anordning for temperaturregistrering midt i. Beholderens utvendige bredde er 45 ± 2 mm og veggtykkelsen er 1,5 mm (se eksempel i figur 1). Beholderens høyde og lengde kan velges i samsvar med vannbadets mål, for eksempel lengde 600 mm og høyde 400 mm.
+- Metode 2
+
+  1. Egnet ovn termostatert mellom 20 °C og 51 °C med en minste oppvarmings- og avkjølingshastighet på 10 °C/t.
+  2. Egnede lufttette plastbeholdere eller -poser med en egnet anordning for temperaturregistrering midt i prøven eller en beholder av rustfritt stål som beskrevet i metode 1 i nr. 4.3.2 bokstav b). Når beholderen eller posen er fylt, skal den ytre tykkelsen være høyst 45 mm.
 
 4.3.3.
 
 Framgangsmåte
 
-Plasser så mye gjødsel som trengs til detonerbarhetstesten, i beholderne eller posene, og lukk dem. Plasser boksene av rustfritt stål i vannbadet (metode 1) eller boksene eller posene i ovnen (metode 2). Varm opp vannet eller ovnen til 51 °C og mål temperaturen i midten av gjødselen. En time etter at temperaturen i midten har nådd 50 °C, startes avkjølingen. En time etter at temperaturen i midten har nådd 25 °C, startes oppvarmingen for neste syklus. Dersom det brukes to vannbad eller ovner, overføres beholderne eller posene til det andre badet eller den andre ovnen etter hver oppvarmings-/avkjølingsperiode.Figur 1A: O-ringB: LokkC: BoltD: Beholder
+Plasser så mye gjødsel som trengs til detonerbarhetstesten, i beholderne eller posene, og lukk dem. Plasser boksene av rustfritt stål i vannbadet (metode 1) eller boksene eller posene i ovnen (metode 2). Varm opp vannet eller ovnen til 51 °C og mål temperaturen i midten av gjødselen. En time etter at temperaturen i midten har nådd 50 °C, startes avkjølingen. En time etter at temperaturen i midten har nådd 25 °C, startes oppvarmingen for neste syklus. Dersom det brukes to vannbad eller ovner, overføres beholderne eller posene til det andre badet eller den andre ovnen etter hver oppvarmings-/avkjølingsperiode.
+
+Figur 1
+
+- A: O-ring
+- B: Lokk
+- C: Bolt
+- D: Beholder
 
 4.4.
 
@@ -2424,7 +3962,17 @@ Testen skal utføres på en representativ prøve av EU-gjødselvaren. Før deton
 
 4.4.1.2.
 
-EU-gjødselvaren skal gjennomgå detonerbarhetstesten i et horisontalt stålrør under følgende forhold (nærmere opplysninger om materialene er angitt i nr. 4.4.3):Heltrukket stålrør:Rørlengde: minst 1 000 mm,Nominell utvendig diameter: minst 114 mm.Nominell veggtykkelse: minst 5 mm.Initialladning: Initialladningens type og masse skal være slik at prøven utsettes for høyest mulig detonasjonstrykk, slik at prøvens følsomhet for overføring av detonasjoner kan fastsettes.Prøvens temperatur: 15–25 °C.Referansesylindre av bly for å detektere detonasjon: diameter 50 mm, høyde 100 mm.Plasseres med 150 mm mellomrom, slik at de støtter opp røret horisontalt.
+EU-gjødselvaren skal gjennomgå detonerbarhetstesten i et horisontalt stålrør under følgende forhold (nærmere opplysninger om materialene er angitt i nr. 4.4.3):
+
+1. Heltrukket stålrør:
+
+   1. Rørlengde: minst 1 000 mm,
+   2. Nominell utvendig diameter: minst 114 mm.
+   3. Nominell veggtykkelse: minst 5 mm.
+2. Initialladning: Initialladningens type og masse skal være slik at prøven utsettes for høyest mulig detonasjonstrykk, slik at prøvens følsomhet for overføring av detonasjoner kan fastsettes.
+3. Prøvens temperatur: 15–25 °C.
+4. Referansesylindre av bly for å detektere detonasjon: diameter 50 mm, høyde 100 mm.
+5. Plasseres med 150 mm mellomrom, slik at de støtter opp røret horisontalt.
 
 MERK: Testen utføres to ganger. Testen anses som avgjørende dersom en eller flere av de understøttende blysylindrene deformeres mindre enn 5 % i begge testene.
 
@@ -2436,7 +3984,61 @@ Prøven innesluttes i et stålrør og utsettes for et detonasjonssjokk fra en ek
 
 4.4.3.
 
-MaterialerPlastisk sprengstoff med 83–86 % pentrittDensitet: 1 500–1 600 kg/m3Detonasjonshastighet: 7 300–7 700 m/sMasse: (500 ± 1) geller ethvert annet plastisk sprengstoff med lignende detonasjonsegenskaper.Sju lengder med bøyelig detonerende lunte med ikke-metallisk hylsePåfyllingsmasse: 11–13 g/mLengde på hver lunte: (400 ± 2) mmKomprimert pellet av sekundært sprengstoff med fordypning til detonatorSprengstoff: heksogen/voks 95/5 eller lignende sekundært sprengstoff med eller uten tilsetning av grafittDensitet: 1 500–1 600 kg/m3Diameter: 19–21 mmHøyde: 19–23 mmDen komprimerte pelletens masse: høyst 10 gSentral fordypning til detonator: maksimal diameter 7,0–7,3 mm, dybde cirka 12 mm. Ved detonatorer med stor diameter skal fordypningens diameter være noe større (for eksempel 0,5 mm) enn detonatorens diameter.Heltrukket stålrør i henhold til ISO-standard 65-1981, tykk serie, nominell dimensjon DN 100 (4'')Utvendig diameter: 113,1–115,0 mmVeggtykkelse: 5,0–6,5 mmLengde: 1 005 ± 2 mmBunnplateMateriale: stål av god sveisbar kvalitetDimensjon: 160 mm x 160 mmTykkelse: 5–6 mmSeks sylindre av blyDiameter: 50 ± 1 mmHøyde: 100-101 mmMateriale: bløtt bly som inneholder minst 99,5 % blyStålblokkLengde: minst 1 000 mmBredde: minst 150 mmHøyde: minst 150 mm (alternativt kan en stabel med flere ståldeler brukes for å oppnå denne høyden)Masse: minst 300 kg, såfremt stålblokken ikke ligger på et fast underlagPlast- eller papphylse for tennladningenVeggtykkelse: 1,5–2,5 mmDiameter: 92–96 mmHøyde: 64–67 mmDetonator (elektrisk eller ikke-elektrisk) med styrke 8-10Tre- eller plastskiveDiameter: 92-96 mm. Diameteren skal tilsvare plast- eller papphylsens innvendige diameter (bokstav h))Tykkelse: 20 mmTre- eller plastpinne med samme dimensjoner som detonatoren (bokstav i))Små sikringssplinter (maksimal lengde 20 mm)Sikringssplinter (lengde cirka 20 mm)
+Materialer
+
+1. Plastisk sprengstoff med 83–86 % pentritt
+
+   - Densitet: 1 500–1 600 kg/m3
+   - Detonasjonshastighet: 7 300–7 700 m/s
+   - Masse: (500 ± 1) g
+
+   eller ethvert annet plastisk sprengstoff med lignende detonasjonsegenskaper.
+2. Sju lengder med bøyelig detonerende lunte med ikke-metallisk hylse
+
+   - Påfyllingsmasse: 11–13 g/m
+   - Lengde på hver lunte: (400 ± 2) mm
+3. Komprimert pellet av sekundært sprengstoff med fordypning til detonator
+
+   - Sprengstoff: heksogen/voks 95/5 eller lignende sekundært sprengstoff med eller uten tilsetning av grafitt
+   - Densitet: 1 500–1 600 kg/m3
+   - Diameter: 19–21 mm
+   - Høyde: 19–23 mm
+   - Den komprimerte pelletens masse: høyst 10 g
+   - Sentral fordypning til detonator: maksimal diameter 7,0–7,3 mm, dybde cirka 12 mm. Ved detonatorer med stor diameter skal fordypningens diameter være noe større (for eksempel 0,5 mm) enn detonatorens diameter.
+4. Heltrukket stålrør i henhold til ISO-standard 65-1981, tykk serie, nominell dimensjon DN 100 (4'')
+
+   - Utvendig diameter: 113,1–115,0 mm
+   - Veggtykkelse: 5,0–6,5 mm
+   - Lengde: 1 005 ± 2 mm
+5. Bunnplate
+
+   - Materiale: stål av god sveisbar kvalitet
+   - Dimensjon: 160 mm x 160 mm
+   - Tykkelse: 5–6 mm
+6. Seks sylindre av bly
+
+   - Diameter: 50 ± 1 mm
+   - Høyde: 100-101 mm
+   - Materiale: bløtt bly som inneholder minst 99,5 % bly
+7. Stålblokk
+
+   - Lengde: minst 1 000 mm
+   - Bredde: minst 150 mm
+   - Høyde: minst 150 mm (alternativt kan en stabel med flere ståldeler brukes for å oppnå denne høyden)
+   - Masse: minst 300 kg, såfremt stålblokken ikke ligger på et fast underlag
+8. Plast- eller papphylse for tennladningen
+
+   - Veggtykkelse: 1,5–2,5 mm
+   - Diameter: 92–96 mm
+   - Høyde: 64–67 mm
+9. Detonator (elektrisk eller ikke-elektrisk) med styrke 8-10
+10. Tre- eller plastskive
+
+    - Diameter: 92-96 mm. Diameteren skal tilsvare plast- eller papphylsens innvendige diameter (bokstav h))
+    - Tykkelse: 20 mm
+11. Tre- eller plastpinne med samme dimensjoner som detonatoren (bokstav i))
+12. Små sikringssplinter (maksimal lengde 20 mm)
+13. Sikringssplinter (lengde cirka 20 mm)
 
 4.4.4.
 
@@ -2446,7 +4048,10 @@ Framgangsmåte
 
 Klargjøring av tennladningen som skal settes inn i stålrøret
 
-Avhengig av hvilket utstyr som er tilgjengelig, kan sprengstoffet initieres i tennladningen entenved samtidig initiering på sju punkter som nevnt i nr. 4.4.4.1.1 ellerved sentral initiering ved hjelp av en komprimert pellet som nevnt i nr. 4.4.4.1.2.
+Avhengig av hvilket utstyr som er tilgjengelig, kan sprengstoffet initieres i tennladningen enten
+
+- ved samtidig initiering på sju punkter som nevnt i nr. 4.4.4.1.1 eller
+- ved sentral initiering ved hjelp av en komprimert pellet som nevnt i nr. 4.4.4.1.2.
 
 4.4.4.1.1.
 
@@ -2576,7 +4181,14 @@ Det skal utføres to detonasjonstester per prøve.
 
 Testrapport
 
-I testrapporten skal verdier for følgende parametrer angis for hver av detonerbarhetstestene:De faktisk målte verdiene for stålrørets utvendige diameter og veggtykkelse.Stålrørets brinellhardhet.Rørets og prøvematerialets temperatur like før sprengningen.Prøvematerialets tilsynelatende densitet i røret (kg/m3).Høyden på hver enkelt blysylinder etter sprengningen med angivelse av sylinderens nummer.Initieringsmetoden som er brukt for tennladningen.
+I testrapporten skal verdier for følgende parametrer angis for hver av detonerbarhetstestene:
+
+- De faktisk målte verdiene for stålrørets utvendige diameter og veggtykkelse.
+- Stålrørets brinellhardhet.
+- Rørets og prøvematerialets temperatur like før sprengningen.
+- Prøvematerialets tilsynelatende densitet i røret (kg/m3).
+- Høyden på hver enkelt blysylinder etter sprengningen med angivelse av sylinderens nummer.
+- Initieringsmetoden som er brukt for tennladningen.
 
 4.4.6.
 
@@ -2586,11 +4198,47 @@ Dersom minst én blysylinder viser en sammentrykning som er mindre enn 5 % for 
 
 4.4.7.
 
-Testrapporten skal være en del av den tekniske dokumentasjonen.Figur 2
+Testrapporten skal være en del av den tekniske dokumentasjonen.
 
-Tennladning med sjupunktsinitiering1: Stålrør2: Tre- eller plastskive med sju hull3: Plast- eller papphylse4: Lunter5: Plastisk sprengstoff6: Prøve7: 4 mm hull til sikringssplint8: Sikringssplint9: Tre- eller plastpinne omgitt av 410: Limbånd til festing av 4 rundt 9Figur 31: Stålrør2: Tre- eller plastskive3: Plast- eller papphylse4: Tre- eller plastpinne5: Plastisk sprengstoff6: Komprimert pellet7: Prøve8: 4 mm hull til sikringssplint9: Sikringssplint10: Tre- eller plaststempel for 5Figur 4
+Figur 2
 
-Tall i sirkler:1: Stålrør2: Blysylindre3: Stålblokk eller stabel av ståldeler4: Bunnplate5: Tennladningi firkanter:Blysylindre 1–6
+Tennladning med sjupunktsinitiering
+
+-
+- 1: Stålrør
+- 2: Tre- eller plastskive med sju hull
+- 3: Plast- eller papphylse
+- 4: Lunter
+- 5: Plastisk sprengstoff
+- 6: Prøve
+- 7: 4 mm hull til sikringssplint
+- 8: Sikringssplint
+- 9: Tre- eller plastpinne omgitt av 4
+- 10: Limbånd til festing av 4 rundt 9
+
+  Figur 3
+- 1: Stålrør
+- 2: Tre- eller plastskive
+- 3: Plast- eller papphylse
+- 4: Tre- eller plastpinne
+- 5: Plastisk sprengstoff
+- 6: Komprimert pellet
+- 7: Prøve
+- 8: 4 mm hull til sikringssplint
+- 9: Sikringssplint
+- 10: Tre- eller plaststempel for 5
+
+  Figur 4
+
+Tall i sirkler:
+
+- 1: Stålrør
+- 2: Blysylindre
+- 3: Stålblokk eller stabel av ståldeler
+- 4: Bunnplate
+- 5: Tennladning
+- i firkanter:
+- Blysylindre 1–6
 
 5\.
 
@@ -2614,7 +4262,10 @@ Meldte organers informasjonsplikt og driftsmessige forpliktelser
 
 6.1.
 
-Hvert meldte organ skal uten unødig opphold underrette sin meldermyndighet og andre organer som er meldt i henhold til denne forordningen, og som utfører lignende samsvarsvurderingsaktiviteter som omfatter de samme EU-gjødselvarene, om følgende:Tilfeller der produsenten ikke har overholdt tremånedersperioden for å utføre testene som kreves i henhold til nr. 4.Testresultater som viser at kravene som gjelder detonerbarhet, nevnt i nr. 5 i produktfunksjonskategori 1.C.I a) i–ii) A) i vedlegg I, ikke er oppfylt.
+Hvert meldte organ skal uten unødig opphold underrette sin meldermyndighet og andre organer som er meldt i henhold til denne forordningen, og som utfører lignende samsvarsvurderingsaktiviteter som omfatter de samme EU-gjødselvarene, om følgende:
+
+1. Tilfeller der produsenten ikke har overholdt tremånedersperioden for å utføre testene som kreves i henhold til nr. 4.
+2. Testresultater som viser at kravene som gjelder detonerbarhet, nevnt i nr. 5 i produktfunksjonskategori 1.C.I a) i–ii) A) i vedlegg I, ikke er oppfylt.
 
 6.2.
 
@@ -2650,7 +4301,27 @@ Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gj
 
 2.2.
 
-Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og, i den grad det er relevant for vurderingen, en beskrivelse av utformingen og produksjonen av EU-gjødselvaren og den tiltenkte bruken av den. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende:En generell beskrivelse av EU-gjødselvaren og produktfunksjonskategorien som svarer til den funksjonen som det er angitt at EU-gjødselvaren har, samt en beskrivelse av den tiltenkte bruken.En liste over komponentmaterialer som er brukt, komponentmaterialkategoriene nevnt i vedlegg II som de tilhører, og informasjon om deres opprinnelse eller produksjonsprosess.EU-samsvarserklæringene for EU-gjødselvarekomponentene i den mekaniske gjødselvareblandingen.Tegninger, skjemaer, beskrivelser og forklaringer som er nødvendige for å forstå produksjonsprosessen for EU-gjødselvaren.Et prøveeksemplar av etiketten eller informasjonsbladet eller begge nevnt i artikkel 6 nr. 7 som inneholder informasjonen som er nødvendig i samsvar med vedlegg III.En liste over de harmoniserte standardene nevnt i artikkel 13, de felles spesifikasjonene nevnt i artikkel 14 og/eller andre relevante tekniske spesifikasjoner som er brukt. Dersom deler av harmoniserte standarder eller felles spesifikasjoner er brukt, skal det i den tekniske dokumentasjonen angis hvilke deler som er brukt.►**M1**Resultater av gjennomførte beregninger, undersøkelser osv.◄**M1**Testrapporter.Dersom EU-gjødselvaren inneholder eller består av avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) – handelsdokumentene eller hygienesertifikatene som kreves i henhold til den forordningen, og dokumentasjon på at de avledede produktene har nådd sluttpunktet i produksjonskjeden i henhold til den forordningen.Dersom EU-gjødselvaren inneholder eller består av biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098) – teknisk og administrativ dokumentasjon på at biproduktene overholder kriteriene fastsatt ved delegerte rettsakter nevnt i artikkel 42 nr. 7 i denne forordningen og de nasjonale tiltakene som innarbeider artikkel 5 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098), og, dersom det er relevant, gjennomføringsrettsakter nevnt i artikkel 5 nr. 2 eller nasjonale tiltak vedtatt i henhold til artikkel 5 nr. 3 i det direktivet.►**M1**Dersom EU-gjødselvaren inneholder mer totalkrom (Cr) enn 200 mg/kg tørrstoff – informasjon om den største mengden og den nøyaktige kilden til totalkrom (Cr).◄**M1**
+Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og, i den grad det er relevant for vurderingen, en beskrivelse av utformingen og produksjonen av EU-gjødselvaren og den tiltenkte bruken av den. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende:
+
+1. En generell beskrivelse av EU-gjødselvaren og produktfunksjonskategorien som svarer til den funksjonen som det er angitt at EU-gjødselvaren har, samt en beskrivelse av den tiltenkte bruken.
+2. En liste over komponentmaterialer som er brukt, komponentmaterialkategoriene nevnt i vedlegg II som de tilhører, og informasjon om deres opprinnelse eller produksjonsprosess.
+3. EU-samsvarserklæringene for EU-gjødselvarekomponentene i den mekaniske gjødselvareblandingen.
+4. Tegninger, skjemaer, beskrivelser og forklaringer som er nødvendige for å forstå produksjonsprosessen for EU-gjødselvaren.
+5. Et prøveeksemplar av etiketten eller informasjonsbladet eller begge nevnt i artikkel 6 nr. 7 som inneholder informasjonen som er nødvendig i samsvar med vedlegg III.
+6. En liste over de harmoniserte standardene nevnt i artikkel 13, de felles spesifikasjonene nevnt i artikkel 14 og/eller andre relevante tekniske spesifikasjoner som er brukt. Dersom deler av harmoniserte standarder eller felles spesifikasjoner er brukt, skal det i den tekniske dokumentasjonen angis hvilke deler som er brukt.
+
+   ►**M1**
+7. Resultater av gjennomførte beregninger, undersøkelser osv.
+
+   ◄**M1**
+8. Testrapporter.
+9. Dersom EU-gjødselvaren inneholder eller består av avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) – handelsdokumentene eller hygienesertifikatene som kreves i henhold til den forordningen, og dokumentasjon på at de avledede produktene har nådd sluttpunktet i produksjonskjeden i henhold til den forordningen.
+10. Dersom EU-gjødselvaren inneholder eller består av biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098) – teknisk og administrativ dokumentasjon på at biproduktene overholder kriteriene fastsatt ved delegerte rettsakter nevnt i artikkel 42 nr. 7 i denne forordningen og de nasjonale tiltakene som innarbeider artikkel 5 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098), og, dersom det er relevant, gjennomføringsrettsakter nevnt i artikkel 5 nr. 2 eller nasjonale tiltak vedtatt i henhold til artikkel 5 nr. 3 i det direktivet.
+
+    ►**M1**
+11. Dersom EU-gjødselvaren inneholder mer totalkrom (Cr) enn 200 mg/kg tørrstoff – informasjon om den største mengden og den nøyaktige kilden til totalkrom (Cr).
+
+    ◄**M1**
 
 3\.
 
@@ -2662,13 +4333,25 @@ Produsenten skal inngi en søknad om EU-typeprøving til ett meldt organ etter e
 
 3.2.
 
-Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,den tekniske dokumentasjonen nevnt i nr. 2,prøvene som er representative for den planlagte produksjonen. Det meldte organet kan anmode om flere prøver dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at løsningen som er valgt for den tekniske utformingen, er egnet. I underlagsdokumentasjonen skal alle dokumenter som er brukt, angis, særlig dersom de relevante harmoniserte standardene eller felles spesifikasjonene ikke er blitt brukt i sin helhet. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av tester utført i samsvar med andre relevante tekniske spesifikasjoner av et egnet laboratorium hos produsenten eller av et annet testlaboratorium på produsentens vegne og ansvar.
+Søknaden skal inneholde
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+3. den tekniske dokumentasjonen nevnt i nr. 2,
+4. prøvene som er representative for den planlagte produksjonen. Det meldte organet kan anmode om flere prøver dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,
+5. underlagsdokumentasjon som viser at løsningen som er valgt for den tekniske utformingen, er egnet. I underlagsdokumentasjonen skal alle dokumenter som er brukt, angis, særlig dersom de relevante harmoniserte standardene eller felles spesifikasjonene ikke er blitt brukt i sin helhet. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av tester utført i samsvar med andre relevante tekniske spesifikasjoner av et egnet laboratorium hos produsenten eller av et annet testlaboratorium på produsentens vegne og ansvar.
 
 4\.
 
 Vurdering av om den tekniske utformingen er egnet
 
-Det meldte organet skalgjennomgå den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om EU-gjødselvarens tekniske utforming er egnet,verifisere at prøven/prøvene er produsert i samsvar med den tekniske dokumentasjonen, og identifisere de elementene som er utformet i samsvar med de gjeldende bestemmelsene i de relevante harmoniserte standardene eller felles spesifikasjonene, samt de elementene som er utformet i samsvar med andre relevante tekniske spesifikasjoner,utføre eller få utført egnede undersøkelser og tester av prøven/prøvene for, i de tilfeller der produsenten har valgt å bruke løsningene i de relevante harmoniserte standardene eller felles spesifikasjonene, å kontrollere om disse løsningene er brukt på riktig måte,utføre eller få utført egnede undersøkelser og tester av prøven/prøvene for, i de tilfeller der løsningene i de relevante harmoniserte standardene eller felles spesifikasjonene ikke er brukt, eller dersom relevante harmoniserte standarder eller felles spesifikasjoner ikke finnes, å kontrollere om løsningene som produsenten har valgt, oppfyller de relevante kravene i denne forordningen,bli enig med produsenten hvor undersøkelsene og testene skal utføres,
+Det meldte organet skal
+
+1. gjennomgå den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om EU-gjødselvarens tekniske utforming er egnet,
+2. verifisere at prøven/prøvene er produsert i samsvar med den tekniske dokumentasjonen, og identifisere de elementene som er utformet i samsvar med de gjeldende bestemmelsene i de relevante harmoniserte standardene eller felles spesifikasjonene, samt de elementene som er utformet i samsvar med andre relevante tekniske spesifikasjoner,
+3. utføre eller få utført egnede undersøkelser og tester av prøven/prøvene for, i de tilfeller der produsenten har valgt å bruke løsningene i de relevante harmoniserte standardene eller felles spesifikasjonene, å kontrollere om disse løsningene er brukt på riktig måte,
+4. utføre eller få utført egnede undersøkelser og tester av prøven/prøvene for, i de tilfeller der løsningene i de relevante harmoniserte standardene eller felles spesifikasjonene ikke er brukt, eller dersom relevante harmoniserte standarder eller felles spesifikasjoner ikke finnes, å kontrollere om løsningene som produsenten har valgt, oppfyller de relevante kravene i denne forordningen,
+5. bli enig med produsenten hvor undersøkelsene og testene skal utføres,
 
 5\.
 
@@ -2792,8 +4475,43 @@ Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gj
 
 2.2.
 
-Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og, i den grad det er relevant for vurderingen, en beskrivelse av utformingen og produksjonen av EU-gjødselvaren og den tiltenkte bruken av den. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende:En generell beskrivelse av EU-gjødselvaren og produktfunksjonskategorien som svarer til den funksjonen som det er angitt at EU-gjødselvaren har, samt en beskrivelse av den tiltenkte bruken.En liste over komponentmaterialer som er brukt, komponentmaterialkategoriene nevnt i vedlegg II som de tilhører, og informasjon om deres opprinnelse eller produksjonsprosess.EU-samsvarserklæringene for EU-gjødselvarekomponentene i den mekaniske gjødselvareblandingen.►**M5**Tegninger, skjemaer, beskrivelser og forklaringer som er nødvendige for å forstå framstillingsprosessen for EU-gjødselvaren, og når det gjelder materialer som tilhører komponentmaterialkategori 3, 5, 12, 13, 14 og 15, som definert i vedlegg II, en skriftlig beskrivelse av og et diagram over produksjons- eller gjenvinningsprosessen der hver behandling, hver oppbevaringsbeholder og hvert område er tydelig identifisert.◄**M5**Et prøveeksemplar av etiketten eller informasjonsbladet eller begge nevnt i artikkel 6 nr. 7 som inneholder informasjonen som er nødvendig i samsvar med vedlegg III.En liste over de harmoniserte standardene nevnt i artikkel 13, de felles spesifikasjonene nevnt i artikkel 14 og/eller andre relevante tekniske spesifikasjoner som er brukt. Dersom deler av harmoniserte standarder eller felles spesifikasjoner er brukt, skal det i den tekniske dokumentasjonen angis hvilke deler som er brukt.►**M1**Resultater av gjennomførte beregninger, undersøkelser osv.◄**M1**►**M3**Beregninger av farlig avfall for EU-gjødselvarer som inneholder eller består av komponentmaterialkategori 13: Testingen nevnt i nr. 6 i komponentmaterialkategori 13 i vedlegg II del II skal utføres minst en gang i året eller tidligere enn planlagt ved vesentlige endringer som kan påvirke EU-gjødselvarens sikkerhet eller kvalitet (for eksempel bearbeiding av partier av innsatsmaterialer med forskjellig sammensetning, endrede prosessforhold). For et representativt parti av innsatsmaterialer som bearbeides på anlegget, skal den farlige egenskapen som identifiseres (i samsvar med nr. 5.1.3.1.), og den samlede massen måles for de forskjellige innsatsmaterialene (1, ..., n) og for det produserte materialet som skal inngå i EU-gjødselvaren. Den farlige egenskapens iblandingsforhold i det produserte materialet skal deretter beregnes på følgende måte: \\(\\text{incorporation rate }(\\%)=\\frac{HPC_{\\text{output material}}\\times M_{\\text{output material}}}{\\sum_{i = 1}^n (HPC_{\\text{input material,i}} \\times M_{\\text{input material,i}})}\\)
-derHPC = konsentrasjonen av den farlige egenskapen (mg/kg),M = den samlede massen (kg) ogi (1-n) = de forskjellige innsatsmaterialene som er brukt i produksjonsprosessen.Fjerningen av den farlige egenskapen under produksjonsprosessen skal skje på en slik måte at iblandingsforhol-det multiplisert med konsentrasjonen av den farlige egenskapen for hvert enkelt innsatsmateriale er lavere enn grenseverdiene fastsatt i vedlegg III til [direktiv 2008/98/EF](eu/32008l0098) for den aktuelle farlige egenskapen.◄**M3**Testrapporter.Dersom EU-gjødselvaren inneholder eller består av avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) – handelsdokumentene eller hygienesertifikatene som kreves i henhold til den forordningen, og dokumentasjon på at de avledede produktene har nådd sluttpunktet i produksjonskjeden i henhold til den forordningen.Dersom EU-gjødselvaren inneholder eller består av biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098) – teknisk og administrativ dokumentasjon på at biproduktene overholder kriteriene fastsatt ved delegerte rettsakter nevnt i artikkel 42 nr. 7 i denne forordningen og de nasjonale tiltakene som innarbeider artikkel 5 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098), og, dersom det er relevant, gjennomføringsrettsakter nevnt i artikkel 5 nr. 2 eller nasjonale tiltak vedtatt i henhold til artikkel 5 nr. 3 i det direktivet.►**M1**Dersom EU-gjødselvaren inneholder mer totalkrom (Cr) enn 200 mg/kg tørrstoff – informasjon om den største mengden og den nøyaktige kilden til totalkrom (Cr).◄**M1**
+Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og, i den grad det er relevant for vurderingen, en beskrivelse av utformingen og produksjonen av EU-gjødselvaren og den tiltenkte bruken av den. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende:
+
+1. En generell beskrivelse av EU-gjødselvaren og produktfunksjonskategorien som svarer til den funksjonen som det er angitt at EU-gjødselvaren har, samt en beskrivelse av den tiltenkte bruken.
+2. En liste over komponentmaterialer som er brukt, komponentmaterialkategoriene nevnt i vedlegg II som de tilhører, og informasjon om deres opprinnelse eller produksjonsprosess.
+3. EU-samsvarserklæringene for EU-gjødselvarekomponentene i den mekaniske gjødselvareblandingen.
+
+   ►**M5**
+4. Tegninger, skjemaer, beskrivelser og forklaringer som er nødvendige for å forstå framstillingsprosessen for EU-gjødselvaren, og når det gjelder materialer som tilhører komponentmaterialkategori 3, 5, 12, 13, 14 og 15, som definert i vedlegg II, en skriftlig beskrivelse av og et diagram over produksjons- eller gjenvinningsprosessen der hver behandling, hver oppbevaringsbeholder og hvert område er tydelig identifisert.
+
+   ◄**M5**
+5. Et prøveeksemplar av etiketten eller informasjonsbladet eller begge nevnt i artikkel 6 nr. 7 som inneholder informasjonen som er nødvendig i samsvar med vedlegg III.
+6. En liste over de harmoniserte standardene nevnt i artikkel 13, de felles spesifikasjonene nevnt i artikkel 14 og/eller andre relevante tekniske spesifikasjoner som er brukt. Dersom deler av harmoniserte standarder eller felles spesifikasjoner er brukt, skal det i den tekniske dokumentasjonen angis hvilke deler som er brukt.
+
+   ►**M1**
+7. Resultater av gjennomførte beregninger, undersøkelser osv.
+
+   ◄**M1**
+
+   ►**M3**
+8. Beregninger av farlig avfall for EU-gjødselvarer som inneholder eller består av komponentmaterialkategori 13: Testingen nevnt i nr. 6 i komponentmaterialkategori 13 i vedlegg II del II skal utføres minst en gang i året eller tidligere enn planlagt ved vesentlige endringer som kan påvirke EU-gjødselvarens sikkerhet eller kvalitet (for eksempel bearbeiding av partier av innsatsmaterialer med forskjellig sammensetning, endrede prosessforhold). For et representativt parti av innsatsmaterialer som bearbeides på anlegget, skal den farlige egenskapen som identifiseres (i samsvar med nr. 5.1.3.1.), og den samlede massen måles for de forskjellige innsatsmaterialene (1, ..., n) og for det produserte materialet som skal inngå i EU-gjødselvaren. Den farlige egenskapens iblandingsforhold i det produserte materialet skal deretter beregnes på følgende måte: \\(\\text{incorporation rate }(\\%)=\\frac{HPC_{\\text{output material}}\\times M_{\\text{output material}}}{\\sum_{i = 1}^n (HPC_{\\text{input material,i}} \\times M_{\\text{input material,i}})}\\)
+   der
+
+   - HPC = konsentrasjonen av den farlige egenskapen (mg/kg),
+   - M = den samlede massen (kg) og
+   - i (1-n) = de forskjellige innsatsmaterialene som er brukt i produksjonsprosessen.
+
+   Fjerningen av den farlige egenskapen under produksjonsprosessen skal skje på en slik måte at iblandingsforhol-det multiplisert med konsentrasjonen av den farlige egenskapen for hvert enkelt innsatsmateriale er lavere enn grenseverdiene fastsatt i vedlegg III til [direktiv 2008/98/EF](eu/32008l0098) for den aktuelle farlige egenskapen.
+
+   ◄**M3**
+9. Testrapporter.
+10. Dersom EU-gjødselvaren inneholder eller består av avledede produkter i henhold til forordning [(EF) nr. 1069/2009](eu/32009r1069) – handelsdokumentene eller hygienesertifikatene som kreves i henhold til den forordningen, og dokumentasjon på at de avledede produktene har nådd sluttpunktet i produksjonskjeden i henhold til den forordningen.
+11. Dersom EU-gjødselvaren inneholder eller består av biprodukter i henhold til direktiv [2008/98/EF](eu/32008l0098) – teknisk og administrativ dokumentasjon på at biproduktene overholder kriteriene fastsatt ved delegerte rettsakter nevnt i artikkel 42 nr. 7 i denne forordningen og de nasjonale tiltakene som innarbeider artikkel 5 nr. 1 i [direktiv 2008/98/EF](eu/32008l0098), og, dersom det er relevant, gjennomføringsrettsakter nevnt i artikkel 5 nr. 2 eller nasjonale tiltak vedtatt i henhold til artikkel 5 nr. 3 i det direktivet.
+
+    ►**M1**
+12. Dersom EU-gjødselvaren inneholder mer totalkrom (Cr) enn 200 mg/kg tørrstoff – informasjon om den største mengden og den nøyaktige kilden til totalkrom (Cr).
+
+    ◄**M1**
 
 3\.
 
@@ -2828,7 +4546,13 @@ Når det gjelder materialer som tilhører komponentmaterialkategori 3, 5, 12, 13
 ◄**M5**
 
 1. sikre at tilstrekkelige ressurser (folk, infrastruktur, utstyr) er tilgjengelige for å opprette og gjennomføre kvalitetssystemet,
-2. utpeke et medlem av organisasjonens ledelse som skal ha ansvar for åsikre at det opprettes kvalitetsstyringsprosesser, og at de godkjennes, implementeres og vedlikeholdes,rapportere til den øverste ledelsen hos produsenten om resultatene av kvalitetsstyringsprosessene og eventuelle behov for forbedring,sikre økt bevissthet om kunders behov og rettslige krav i hele produsentens organisasjon, og gjøre personalet bevisste på hvor relevante og viktige kvalitetsstyringskravene er for å oppfylle de rettslige kravene i denne forordningen,sikre at hver person som utfører arbeidsoppgaver som påvirker produktkvaliteten, har fått tilstrekkelig opplæring og veiledning, ogsikre at kvalitetsstyringsdokumentene nevnt i nr. 5.1.4 klassifiseres,
+2. utpeke et medlem av organisasjonens ledelse som skal ha ansvar for å
+
+   - sikre at det opprettes kvalitetsstyringsprosesser, og at de godkjennes, implementeres og vedlikeholdes,
+   - rapportere til den øverste ledelsen hos produsenten om resultatene av kvalitetsstyringsprosessene og eventuelle behov for forbedring,
+   - sikre økt bevissthet om kunders behov og rettslige krav i hele produsentens organisasjon, og gjøre personalet bevisste på hvor relevante og viktige kvalitetsstyringskravene er for å oppfylle de rettslige kravene i denne forordningen,
+   - sikre at hver person som utfører arbeidsoppgaver som påvirker produktkvaliteten, har fått tilstrekkelig opplæring og veiledning, og
+   - sikre at kvalitetsstyringsdokumentene nevnt i nr. 5.1.4 klassifiseres,
 3. gjennomføre en internrevisjon hvert år, eller tidligere enn planlagt, ved betydelige endringer som kan påvirke EU-gjødselvarens kvalitet, og
 4. sikre at det opprettes egnede kommunikasjonsprosesser i og utenfor organisasjonen, og at det kommuniseres om kvalitetsstyringens effektivitet
 
@@ -2856,16 +4580,97 @@ Når det gjelder materialer som tilhører komponentmaterialkategori 3, 5, 12, 13
 
 ◄**M5**
 
-1. Følgende informasjon skal registreres for hvert parti av innsatsmaterialer:Leveringsdato.Mengde angitt i vekt (eller anslag basert på volum og densitet).Identiteten til leverandøren av innsatsmaterialet.Type innsatsmateriale.Identifisering av hvert parti og leveringssted på anlegget. Det skal tildeles en entydig identifikasjonskode i hele produksjonsprosessen for kvalitetsstyringsformål.Dersom partiet er avvist, begrunnelsen for å avvise det og informasjon om hvor det er sendt.►**M5**
+1. Følgende informasjon skal registreres for hvert parti av innsatsmaterialer:
+
+   1. Leveringsdato.
+   2. Mengde angitt i vekt (eller anslag basert på volum og densitet).
+   3. Identiteten til leverandøren av innsatsmaterialet.
+   4. Type innsatsmateriale.
+   5. Identifisering av hvert parti og leveringssted på anlegget. Det skal tildeles en entydig identifikasjonskode i hele produksjonsprosessen for kvalitetsstyringsformål.
+   6. Dersom partiet er avvist, begrunnelsen for å avvise det og informasjon om hvor det er sendt.
+
+      ►**M5**
 2. Kvalifisert personale skal foreta en visuell inspeksjon av hver forsendelse av innsatsmaterialer og kontrollere at de oppfyller spesifikasjonene for innsatsmaterialer i komponentmaterialkategori 3, 5, 12, 13, 14 og 15 i vedlegg II [ELLER: som definert i vedlegg II].
-3. Produsenten skal avvise enhver forsendelse av et gitt innsatsmateriale dersom den visuelle inspeksjonen gir mis-tanke om noe av det følgende:Forekomst av stoffer som er farlige eller skadelige for prosessen eller for den endelige EU-gjødselvarens kvalitet.Manglende oppfyllelse av spesifikasjonene i komponentmaterialkategori 3, 5, 12, 13, 14 og 15 i vedlegg II [ELLER: som definert i vedlegg II], særlig når det gjelder forekomst av plast som fører til at grenseverdien for makroskopiske urenheter overskrides.◄**M5**
-4. Personalet skal få opplæring ompotensielle farlige egenskaper som kan være forbundet med innsatsmaterialer, ogkjennetegn som gjør det mulig å oppdage farlige egenskaper og forekomst av plast.►**M5**
-5. Det skal tas prøver av produsert materiale for å kontrollere at det oppfyller spesifikasjonene i komponentmaterialkategori 3, 5, 12, 13, 14 og 15, som definert i vedlegg II, og at det produserte materialets egenskaper ikke gjør at EU-gjødselvaren ikke lenger oppfyller de relevante kravene i vedlegg I.◄**M5**►**M2**
-6. Når det gjelder materialer som tilhører komponentmaterialkategori 3 og 5, skal prøvene av produsert materiale tas regelmessig med minst følgende frekvens:◄**M2**Årlig innsatsmateriale
-(tonn)Prøver/år≤ 3 00013 001–10 000210 001–20 000320 001–40 000440 001–60 000560 001–80 000680 001–100 0007100 001–120 0008120 001–140 0009140 001–160 00010160 001–180 00011> 180 00012►**M5**
-7. For materialer som tilhører komponentmaterialkategori 12, 13, 14 og 15, skal prøvene av produsert materiale tas med minst følgende standardfrekvens eller tidligere enn planlagt ved vesentlige endringer som kan påvirke EU-gjødselvarens kvalitet:◄**M5**►**M2**Årlig produksjon (tonn)Prøver/år≤ 3 00043 001–10 000810 001–20 0001220 001–40 0001640 001–60 0002060 001–80 0002480 001–100 00028100 001–120 00032120 001–140 00036140 001–160 00040160 001–180 00044> 180 00048Produsentene kan redusere standardfrekvensen for testing av forurensende stoffer som angitt over ved å ta hensyn til for-delingen av tidligere prøver. Etter en overvåkingsperiode på minst et år og minst ti prøver som viser at kravene i vedlegg I og II er oppfylt, kan produsenten redusere standardfrekvensen for prøvetaking for den parameteren med en faktor på 2 dersom det høyeste forurensningsnivået som er registrert fra de siste ti prøvene, er lavere enn halvparten av grenseverdien for den parameteren angitt i vedlegg I og II.◄**M2**►**M5**
-8. Når det gjelder materialer som tilhører komponentmaterialkategori 12, 13, 14 og 15, skal hvert parti eller del av produksjonen tildeles en unik kode for kvalitetsstyringsformål. Minst én prøve per 3 000 tonn av disse materialene eller en prøve annenhver måned, alt etter hva som kommer først, skal oppbevares i god stand i minst to år.◄**M5**
-9. Dersom en prøve av produsert materiale ikke overholder en eller flere av de gjeldende grenseverdiene angitt i de relevante avsnittene i vedlegg I og II, skal personen med ansvar for kvalitetsstyring nevnt i nr. 5.1.1.1 bokstav b)tydelig identifisere de produserte materialene som ikke oppfyller kravene, og hvor de oppbevares,analysere årsakene til at de ikke oppfyller kravene, og treffe nødvendige tiltak for å unngå at dette gjentar seg,►**M2**registrere, i kvalitetsregistrene nevnt i nr. 5.1.4, om reprosessering finner sted, eller om det produserte materialet elimineres,◄**M2**►**M5**når det gjelder materialer som tilhører komponentmaterialkategori 12, 13, 14 og 15, måle prøvene nevnt i bokstav fb) som skal oppbevares, og treffe nødvendige korrigerende tiltak for å hindre en mulig ytterligere transport og bruk av det aktuelle materialet.◄**M5**
+3. Produsenten skal avvise enhver forsendelse av et gitt innsatsmateriale dersom den visuelle inspeksjonen gir mis-tanke om noe av det følgende:
+
+   - Forekomst av stoffer som er farlige eller skadelige for prosessen eller for den endelige EU-gjødselvarens kvalitet.
+   - Manglende oppfyllelse av spesifikasjonene i komponentmaterialkategori 3, 5, 12, 13, 14 og 15 i vedlegg II [ELLER: som definert i vedlegg II], særlig når det gjelder forekomst av plast som fører til at grenseverdien for makroskopiske urenheter overskrides.
+
+     ◄**M5**
+4. Personalet skal få opplæring om
+
+   - potensielle farlige egenskaper som kan være forbundet med innsatsmaterialer, og
+   - kjennetegn som gjør det mulig å oppdage farlige egenskaper og forekomst av plast.
+
+     ►**M5**
+5. Det skal tas prøver av produsert materiale for å kontrollere at det oppfyller spesifikasjonene i komponentmaterialkategori 3, 5, 12, 13, 14 og 15, som definert i vedlegg II, og at det produserte materialets egenskaper ikke gjør at EU-gjødselvaren ikke lenger oppfyller de relevante kravene i vedlegg I.
+
+   ◄**M5**
+
+   ►**M2**
+6. Når det gjelder materialer som tilhører komponentmaterialkategori 3 og 5, skal prøvene av produsert materiale tas regelmessig med minst følgende frekvens:
+
+   ◄**M2**
+
+   | Årlig innsatsmateriale<br>(tonn) | Prøver/år |
+   | --- | --- |
+   | ≤ 3 000 | 1 |
+   | 3 001–10 000 | 2 |
+   | 10 001–20 000 | 3 |
+   | 20 001–40 000 | 4 |
+   | 40 001–60 000 | 5 |
+   | 60 001–80 000 | 6 |
+   | 80 001–100 000 | 7 |
+   | 100 001–120 000 | 8 |
+   | 120 001–140 000 | 9 |
+   | 140 001–160 000 | 10 |
+   | 160 001–180 000 | 11 |
+   | > 180 000 | 12 |
+
+   ►**M5**
+7. For materialer som tilhører komponentmaterialkategori 12, 13, 14 og 15, skal prøvene av produsert materiale tas med minst følgende standardfrekvens eller tidligere enn planlagt ved vesentlige endringer som kan påvirke EU-gjødselvarens kvalitet:
+
+   ◄**M5**
+
+   ►**M2**
+
+   | Årlig produksjon (tonn) | Prøver/år |
+   | --- | --- |
+   | ≤ 3 000 | 4 |
+   | 3 001–10 000 | 8 |
+   | 10 001–20 000 | 12 |
+   | 20 001–40 000 | 16 |
+   | 40 001–60 000 | 20 |
+   | 60 001–80 000 | 24 |
+   | 80 001–100 000 | 28 |
+   | 100 001–120 000 | 32 |
+   | 120 001–140 000 | 36 |
+   | 140 001–160 000 | 40 |
+   | 160 001–180 000 | 44 |
+   | > 180 000 | 48 |
+
+   Produsentene kan redusere standardfrekvensen for testing av forurensende stoffer som angitt over ved å ta hensyn til for-delingen av tidligere prøver. Etter en overvåkingsperiode på minst et år og minst ti prøver som viser at kravene i vedlegg I og II er oppfylt, kan produsenten redusere standardfrekvensen for prøvetaking for den parameteren med en faktor på 2 dersom det høyeste forurensningsnivået som er registrert fra de siste ti prøvene, er lavere enn halvparten av grenseverdien for den parameteren angitt i vedlegg I og II.
+
+   ◄**M2**
+
+   ►**M5**
+8. Når det gjelder materialer som tilhører komponentmaterialkategori 12, 13, 14 og 15, skal hvert parti eller del av produksjonen tildeles en unik kode for kvalitetsstyringsformål. Minst én prøve per 3 000 tonn av disse materialene eller en prøve annenhver måned, alt etter hva som kommer først, skal oppbevares i god stand i minst to år.
+
+   ◄**M5**
+9. Dersom en prøve av produsert materiale ikke overholder en eller flere av de gjeldende grenseverdiene angitt i de relevante avsnittene i vedlegg I og II, skal personen med ansvar for kvalitetsstyring nevnt i nr. 5.1.1.1 bokstav b)
+
+   1. tydelig identifisere de produserte materialene som ikke oppfyller kravene, og hvor de oppbevares,
+   2. analysere årsakene til at de ikke oppfyller kravene, og treffe nødvendige tiltak for å unngå at dette gjentar seg,
+
+      ►**M2**
+   3. registrere, i kvalitetsregistrene nevnt i nr. 5.1.4, om reprosessering finner sted, eller om det produserte materialet elimineres,
+
+      ◄**M2**
+
+      ►**M5**
+   4. når det gjelder materialer som tilhører komponentmaterialkategori 12, 13, 14 og 15, måle prøvene nevnt i bokstav fb) som skal oppbevares, og treffe nødvendige korrigerende tiltak for å hindre en mulig ytterligere transport og bruk av det aktuelle materialet.
+
+      ◄**M5**
 
 5.1.4.
 
@@ -2917,7 +4722,13 @@ Alle elementer, krav og bestemmelser som produsenten har fulgt, skal dokumentere
 
 5.2.
 
-Produsenten skal inngi en søknad om vurdering av sitt kvalitetssystem for de aktuelle EU-gjødselvarene til et meldt organ etter eget valg. Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,all relevant informasjon om den aktuelle EU-gjødselvarekategorien,dokumentasjonen om kvalitetssystemet med alle elementene nevnt i nr. 5.1,den tekniske dokumentasjonen nevnt i nr. 2.
+Produsenten skal inngi en søknad om vurdering av sitt kvalitetssystem for de aktuelle EU-gjødselvarene til et meldt organ etter eget valg. Søknaden skal inneholde
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,
+- all relevant informasjon om den aktuelle EU-gjødselvarekategorien,
+- dokumentasjonen om kvalitetssystemet med alle elementene nevnt i nr. 5.1,
+- den tekniske dokumentasjonen nevnt i nr. 2.
 
 5.3.1.
 
@@ -2961,7 +4772,11 @@ Formålet med tilsynet er å sikre at produsenten oppfyller forpliktelsene som f
 
 6.2.
 
-Produsenten skal for vurderingsformål gi det meldte organet adgang til produksjons-, inspeksjons-, test- og lagerlokalene og gi det all nødvendig informasjon, særligkvalitetssystemdokumentasjonen,den tekniske dokumentasjonen nevnt i nr. 2,kvalitetsregistrene, for eksempel inspeksjonsrapporter, test- og kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner.
+Produsenten skal for vurderingsformål gi det meldte organet adgang til produksjons-, inspeksjons-, test- og lagerlokalene og gi det all nødvendig informasjon, særlig
+
+- kvalitetssystemdokumentasjonen,
+- den tekniske dokumentasjonen nevnt i nr. 2,
+- kvalitetsregistrene, for eksempel inspeksjonsrapporter, test- og kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner.
 
 6.3.1.
 
@@ -3006,7 +4821,11 @@ En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for r
 
 Kvalitetssystemdokumentasjonens tilgjengelighet
 
-Produsenten skal i fem år etter at EU-gjødselvaren er brakt i omsetning, kunne stille følgende til rådighet for nasjonale myndigheter:Dokumentasjonen nevnt i nr. 5.1.6.Informasjonen om endringene nevnt i nr. 5.5.1 og 5.5.2 som godkjent.Beslutningene og rapportene fra det meldte organet nevnt i nr. 5.5.3, 6.3.1 og 6.4.
+Produsenten skal i fem år etter at EU-gjødselvaren er brakt i omsetning, kunne stille følgende til rådighet for nasjonale myndigheter:
+
+- Dokumentasjonen nevnt i nr. 5.1.6.
+- Informasjonen om endringene nevnt i nr. 5.5.1 og 5.5.2 som godkjent.
+- Beslutningene og rapportene fra det meldte organet nevnt i nr. 5.5.3, 6.3.1 og 6.4.
 
 9\.
 
@@ -3033,7 +4852,10 @@ Produsentens forpliktelser angitt i nr. 3, 5.2, 5.5.1, 7 og 8 kan på dennes veg
 2. Navn og adresse til produsenten og eventuelt dennes representant:
 3. Denne EU-samsvarserklæringen utstedes på produsentens eneansvar.
 4. Erklæringens gjenstand (identifisering av EU-gjødselvaren som gjør det mulig å spore den; dette kan, dersom det er nødvendig for å identifisere EU-gjødselvaren, omfatte et bilde):
-5. Erklæringens gjenstand beskrevet over er i samsvar medforordning [(EU) 2019/1009](eu/32019r1009)11,annet EU-harmoniseringsregelverk, dersom det er relevant:
+5. Erklæringens gjenstand beskrevet over er i samsvar med
+
+   - forordning [(EU) 2019/1009](eu/32019r1009)11,
+   - annet EU-harmoniseringsregelverk, dersom det er relevant:
 6. Henvisninger til de relevante harmoniserte standardene eller til de felles spesifikasjonene som er brukt, eller henvisninger til andre tekniske spesifikasjoner det erklæres samsvar med:
 7. Dersom det er relevant: Det meldte organet ... (navn, nummer) har utført ... (beskrivelse av aktiviteten) og utstedt sertifikatet eller truffet beslutning om godkjenning ... (nummer):
 8. Dersom det er relevant, vedlegges EU-samsvarserklæringene for EU-gjødselvarekomponentene i den mekaniske gjødselvareblandingen til denne EU-samsvarserklæringen.
@@ -3116,17 +4938,45 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1
 
-1\. Biprodukter som tilhører komponentmaterialekategori (CMC) 11, nevnt i del II i vedlegg II til forordning [(EU) 2019/1009](eu/32019r1009), og som tilfører planter eller sopp næringsstoffer eller forbedrer deres ernæringseffektivitet, skal oppfylle følgende kriterier for agronomisk effektivitet og sikkerhet:Inneholde minst 95 % tørrstoff av ammoniumsalter, sulfatsalter, fosfatsalter, elementært svovel, kalsiumkarbonat eller kalsiumoksid eller blandinger av disse.Produseres som en integrert del av en produksjonsprosess som benytter som innsatsmaterialer andre stoffer og stoffblandinger enn animalske biprodukter eller avledede produkter i henhold til europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)8.Ha et innhold av organisk karbon (Corg) på høyst 0,5 % tørrstoff av biproduktet.Inneholde høyst 6 mg polysykliske aromatiske hydrokarboner (PAH)16 per kg tørrstoff9.Inneholde høyst 20 ng WHO-toksisitetsekvivalenter10 polyklorerte dibenzo-para-dioksiner og dibenzofuraner (PCDD/PCDF) per kg tørrstoff11.En EU-gjødselvare som inneholder eller består av biprodukter som tilfører planter eller sopp næringsstoffer, eller som forbedrer deres ernæringseffektivitet, skal ikke inneholde mer enn400 mg totalkrom (Cr) per kg tørrstoff,2 mg thallium (Tl) per kg tørrstoff.
+1\. Biprodukter som tilhører komponentmaterialekategori (CMC) 11, nevnt i del II i vedlegg II til forordning [(EU) 2019/1009](eu/32019r1009), og som tilfører planter eller sopp næringsstoffer eller forbedrer deres ernæringseffektivitet, skal oppfylle følgende kriterier for agronomisk effektivitet og sikkerhet:
 
-2\. Biprodukter som tilhører CMC 11, nevnt i del II i vedlegg II til forordning [(EU) 2019/1009](eu/32019r1009), som brukes som tekniske tilsetningsstoffer, skal oppfylle følgende kriterier for agronomisk effektivitet og sikkerhet:Forbedre EU-gjødselvarens sikkerhet eller agronomiske effektivitet.Forekomme i EU-gjødselvaren i en samlet konsentrasjon på høyst 5 masseprosent.Inneholde høyst 6 mg polysykliske aromatiske hydrokarboner (PAH16) per kg tørrstoff.Inneholde høyst 20 ng WHO-toksisitetsekvivalenter12 polyklorerte dibenzo-para-dioksiner og dibenzofuraner (PCDD/PCDF) per kg tørrstoff.
+1. Inneholde minst 95 % tørrstoff av ammoniumsalter, sulfatsalter, fosfatsalter, elementært svovel, kalsiumkarbonat eller kalsiumoksid eller blandinger av disse.
+2. Produseres som en integrert del av en produksjonsprosess som benytter som innsatsmaterialer andre stoffer og stoffblandinger enn animalske biprodukter eller avledede produkter i henhold til europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)8.
+3. Ha et innhold av organisk karbon (Corg) på høyst 0,5 % tørrstoff av biproduktet.
+4. Inneholde høyst 6 mg polysykliske aromatiske hydrokarboner (PAH)16 per kg tørrstoff9.
+5. Inneholde høyst 20 ng WHO-toksisitetsekvivalenter10 polyklorerte dibenzo-para-dioksiner og dibenzofuraner (PCDD/PCDF) per kg tørrstoff11.
+
+En EU-gjødselvare som inneholder eller består av biprodukter som tilfører planter eller sopp næringsstoffer, eller som forbedrer deres ernæringseffektivitet, skal ikke inneholde mer enn
+
+1. 400 mg totalkrom (Cr) per kg tørrstoff,
+2. 2 mg thallium (Tl) per kg tørrstoff.
+
+2\. Biprodukter som tilhører CMC 11, nevnt i del II i vedlegg II til forordning [(EU) 2019/1009](eu/32019r1009), som brukes som tekniske tilsetningsstoffer, skal oppfylle følgende kriterier for agronomisk effektivitet og sikkerhet:
+
+1. Forbedre EU-gjødselvarens sikkerhet eller agronomiske effektivitet.
+2. Forekomme i EU-gjødselvaren i en samlet konsentrasjon på høyst 5 masseprosent.
+3. Inneholde høyst 6 mg polysykliske aromatiske hydrokarboner (PAH16) per kg tørrstoff.
+4. Inneholde høyst 20 ng WHO-toksisitetsekvivalenter12 polyklorerte dibenzo-para-dioksiner og dibenzofuraner (PCDD/PCDF) per kg tørrstoff.
 
 ### Artikkel 2
 
-1\. Kriteriene fastsatt i får ikke anvendelse på noen av følgende biprodukter som tilhører CMC 11, nevnt i del II i vedlegg II til forordning [(EU) 2019/1009](eu/32019r1009):Moderlut fra reaksjonen av 5(β-metyl-tioetyl)-hydantoin med kaliumkarbonat ved produksjonen av metionin.Rester fra bearbeiding og rensing av mineraler og malm dersom de inneholder kalsiumkarbonater, magnesiumkarbonater, kalsiumsulfater, magnesiumoksid, fosfatsalter og/eller vannløselige salter av kalium, magnesium eller natrium i et samlet innhold på mer enn 60 % tørrstoff av restmengdene.Væske fra solvayprosessen etter destillering.Karbidkalk fra acetylenproduksjon.Jernholdig slagg.Stoffer som stammer fra bearbeiding av malmkonsentrat og overflatebehandling av metall som inneholder minst 2 masseprosent di- eller trivalente overgangsmetallkationer (sink (Zn), kobber (Cu), jern (Fe), mangan (Mn) eller kobolt (Co)) i løsning,Humus- og fulvosyrer fra misfarging av drikkevann.
+1\. Kriteriene fastsatt i får ikke anvendelse på noen av følgende biprodukter som tilhører CMC 11, nevnt i del II i vedlegg II til forordning [(EU) 2019/1009](eu/32019r1009):
+
+1. Moderlut fra reaksjonen av 5(β-metyl-tioetyl)-hydantoin med kaliumkarbonat ved produksjonen av metionin.
+2. Rester fra bearbeiding og rensing av mineraler og malm dersom de inneholder kalsiumkarbonater, magnesiumkarbonater, kalsiumsulfater, magnesiumoksid, fosfatsalter og/eller vannløselige salter av kalium, magnesium eller natrium i et samlet innhold på mer enn 60 % tørrstoff av restmengdene.
+3. Væske fra solvayprosessen etter destillering.
+4. Karbidkalk fra acetylenproduksjon.
+5. Jernholdig slagg.
+6. Stoffer som stammer fra bearbeiding av malmkonsentrat og overflatebehandling av metall som inneholder minst 2 masseprosent di- eller trivalente overgangsmetallkationer (sink (Zn), kobber (Cu), jern (Fe), mangan (Mn) eller kobolt (Co)) i løsning,
+7. Humus- og fulvosyrer fra misfarging av drikkevann.
 
 2\. Verdiene for aktivitetskonsentrasjon av radionuklider fra U-238- og Th-232-serien i en EU-gjødselvare som inneholder eller består av restmengder fra bearbeiding eller rensing av sedimentær fosfatmalm i samsvar med nr. 1 bokstav b), skal ikke overstige 1 kBq/kg av varen.
 
-3\. En EU-gjødselvare som inneholder eller består av biprodukter nevnt i første ledd bokstav e) og f), skal inneholde høyst400 mg totalkrom (Cr) per kg tørrstoff,2 mg thallium (Tl) per kg tørrstoff,600 mg vanadium (V) per kg tørrstoff.
+3\. En EU-gjødselvare som inneholder eller består av biprodukter nevnt i første ledd bokstav e) og f), skal inneholde høyst
+
+1. 400 mg totalkrom (Cr) per kg tørrstoff,
+2. 2 mg thallium (Tl) per kg tørrstoff,
+3. 600 mg vanadium (V) per kg tørrstoff.
 
 ### Artikkel 3
 
@@ -3148,6 +4998,20 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Denne forordningen får anvendelse fra 16. juli 2022.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 14. mars 2022.*For Kommisjonen*
-Ursula von der Leyen
-*President*8 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).9 Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.10 van den Berg M., L.S. Birnbaum, M. Denison, M. De Vito, W. Farland, et The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences: an official journal of the Society of Toxicology 93:223-241. doi:10.1093/toxsci/kfl055.11 Summen av 2,3,7,8-TCDD, 1,2,3,7,8-PeCDD, 1,2,3,4,7,8-HxCDD, 1,2,3,6,7,8-HxCDD, 1,2,3,7,8,9-HxCDD, 1,2,3,4,6,7,8-HpCDD, OCDD, 2,3,7,8-TCDF, 1,2,3,7,8-PeCDF, 2,3,4,7,8-PeCDF, 1,2,3,4,7,8-HxCDF, 1,2,3,6,7,8-HxCDF, 1,2,3,7,8,9-HxCDF, 2,3,4,6,7,8-HxCDF, 1,2,3,4,6,7,8-HpCDF, 1,2,3,4,7,8,9-HpCDF og OCDF.12 van den Berg M., L.S. Birnbaum, M. Denison, M. De Vito, W. Farland, et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences: an official journal of the Society of Toxicology 93:223-241. doi:10.1093/toxsci/kfl055.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 14. mars 2022.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen*<br>Ursula von der Leyen<br>*President* |
+
+8 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
+
+9 Summen av naftalen, acenaftylen, acenaften, fluoren, fenantren, antracen, fluoranten, pyren, benzo[a]antracen, krysen, benzo[b]fluoranten, benzo[k]fluoranten, benzo[a]pyren, indeno[1,2,3-cd]pyren, dibenzo[a,h]antracen og benzo[ghi]perylen.
+
+10 van den Berg M., L.S. Birnbaum, M. Denison, M. De Vito, W. Farland, et The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences: an official journal of the Society of Toxicology 93:223-241. doi:10.1093/toxsci/kfl055.
+
+11 Summen av 2,3,7,8-TCDD, 1,2,3,7,8-PeCDD, 1,2,3,4,7,8-HxCDD, 1,2,3,6,7,8-HxCDD, 1,2,3,7,8,9-HxCDD, 1,2,3,4,6,7,8-HpCDD, OCDD, 2,3,7,8-TCDF, 1,2,3,7,8-PeCDF, 2,3,4,7,8-PeCDF, 1,2,3,4,7,8-HxCDF, 1,2,3,6,7,8-HxCDF, 1,2,3,7,8,9-HxCDF, 2,3,4,6,7,8-HxCDF, 1,2,3,4,6,7,8-HpCDF, 1,2,3,4,7,8,9-HpCDF og OCDF.
+
+12 van den Berg M., L.S. Birnbaum, M. Denison, M. De Vito, W. Farland, et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences: an official journal of the Society of Toxicology 93:223-241. doi:10.1093/toxsci/kfl055.

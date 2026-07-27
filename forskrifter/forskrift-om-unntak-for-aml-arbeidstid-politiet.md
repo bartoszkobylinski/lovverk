@@ -15,7 +15,7 @@ xml_hash: "6cbba7d38417a4de7ef378e6323dbdcffe4a030b871d44ffc102ffeedd277254"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,11 @@ Forkortet arbeidsfri etter denne paragraf kan ikke benyttes i mer enn to påføl
 
 ## § 3. Daglig arbeidsfri periode kortere enn 8 timer
 
-I tilknytning til overtidsarbeid kan den arbeidsfrie perioden være kortere enn 8 timer i løpet av 24 timer dersom det ikke har vært mulig å skaffe annet mannskap i tide og dersom:arbeidet må utføres for å verne liv, helse eller vesentlige samfunnsverdier,arbeidet må utføres for å unngå fare for bevisforspillelse i alvorlige saker, elleroppdraget vil kunne avsluttes innen en time.
+I tilknytning til overtidsarbeid kan den arbeidsfrie perioden være kortere enn 8 timer i løpet av 24 timer dersom det ikke har vært mulig å skaffe annet mannskap i tide og dersom:
+
+1. arbeidet må utføres for å verne liv, helse eller vesentlige samfunnsverdier,
+2. arbeidet må utføres for å unngå fare for bevisforspillelse i alvorlige saker, eller
+3. oppdraget vil kunne avsluttes innen en time.
 
 ## § 4. Kompenserende hvile og annet passende vern
 

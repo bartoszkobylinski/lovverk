@@ -15,7 +15,7 @@ xml_hash: "4dec82ba818016210b758a377dbcf8e4b31af2d21fae9d995169e6accad37fc1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1.
 
-Som dopingmidler etter forskriften regnesstoffer som er oppført på særskilt liste (dopinglisten)salter av disse stoffer og mulige stereoisomere, estere og etere av stoffene og deres salterblandinger som inneholder stoffer nevnt i bokstav a og b.
+Som dopingmidler etter forskriften regnes
+
+1. stoffer som er oppført på særskilt liste (dopinglisten)
+2. salter av disse stoffer og mulige stereoisomere, estere og etere av stoffene og deres salter
+3. blandinger som inneholder stoffer nevnt i bokstav a og b.
 
 Med blandinger menes blandinger av enhver art i fast form, flytende form eller gassfase, oppløsninger, fortynninger, ekstrakter, konsentrater, farmasøytiske preparater og bearbeidede former av stoffene når bearbeidelsen ikke fører til en kjemisk endring av stoffene.
 
@@ -38,7 +42,11 @@ Direktoratet for medisinske produkter kan i vedlegg til forskriften fastsette og
 
 ## § 3.
 
-Legemidler med innhold av dopingmidler kan, til eget personlig, medisinsk bruk, medbringes ved inn- eller utreise nårlegemidlene er rekvirert av lege eller tannlege,den reisende kan dokumentere, for eksempel ved hjelp av pakningens etikett, resept eller legeerklæring, at legemidlene er rekvirert til eget personlig, medisinsk bruk, ogmengden medbrakt legemiddel ikke overstiger 30 dagers forbruk i henhold til angitt dosering.
+Legemidler med innhold av dopingmidler kan, til eget personlig, medisinsk bruk, medbringes ved inn- eller utreise når
+
+1. legemidlene er rekvirert av lege eller tannlege,
+2. den reisende kan dokumentere, for eksempel ved hjelp av pakningens etikett, resept eller legeerklæring, at legemidlene er rekvirert til eget personlig, medisinsk bruk, og
+3. mengden medbrakt legemiddel ikke overstiger 30 dagers forbruk i henhold til angitt dosering.
 
 Tolletaten kan kreve at den reisende legger fram dokumentasjon etter denne bestemmelsen. Dokumentasjonen må fremlegges på tidspunktet for inn- eller utreise.
 

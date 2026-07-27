@@ -22,4 +22,10 @@ eu_basis: []
 
 # Forskrift om delegering til fylkesmennene av Sosialdepartementets myndighet som klageinstans for helserådenes vedtak.
 
-Sosialdepartementet har gjort følgende vedtak:Departementets myndighet som klageinstans for helserådsvedtak delegeres til fylkesmannen.Fylkesmannen skal innhente uttalelse fra fylkeslegen før han treffer avgjørelse.Fylkesmannen i Oslo og Akershus skal innhente uttalelse fra Statens Institutt for Folkehelse når det gjelder saker fra Oslo helseråd.Overføring av myndigheten til fylkesmannen skjer med virkning fra 1. mars 1982. Klager over vedtak fattet av helseråd etter denne dato behandles av fylkesmannen. Det samme gjelder eventuell omgjøring av vedtak uten klage.
+Sosialdepartementet har gjort følgende vedtak:
+
+1. Departementets myndighet som klageinstans for helserådsvedtak delegeres til fylkesmannen.
+2. Fylkesmannen skal innhente uttalelse fra fylkeslegen før han treffer avgjørelse.
+
+   Fylkesmannen i Oslo og Akershus skal innhente uttalelse fra Statens Institutt for Folkehelse når det gjelder saker fra Oslo helseråd.
+3. Overføring av myndigheten til fylkesmannen skjer med virkning fra 1. mars 1982. Klager over vedtak fattet av helseråd etter denne dato behandles av fylkesmannen. Det samme gjelder eventuell omgjøring av vedtak uten klage.

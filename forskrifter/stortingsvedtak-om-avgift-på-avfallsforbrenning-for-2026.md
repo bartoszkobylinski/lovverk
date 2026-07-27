@@ -15,7 +15,7 @@ xml_hash: "4c6cdd1bdfd723065fbe059f9c3ce506b31b51eac4e5331d1001f845f324012d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,11 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunn
 
 ### § 2
 
-Det gis fritak for avgift ved forbrenning avfarlig avfallavfall dersom CO2 fanges og lagresavfall som gir kvotepliktig utslipp.
+Det gis fritak for avgift ved forbrenning av
+
+1. farlig avfall
+2. avfall dersom CO2 fanges og lagres
+3. avfall som gir kvotepliktig utslipp.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

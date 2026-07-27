@@ -15,7 +15,7 @@ xml_hash: "bcd4df75c7a340610822541f89e942a552dedcb3bba778961dd669fd63b3c786"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,10 @@ Det er et vilkår for rett til stønad at medlemmet er henvist fra lege som er s
 
 ## § 3.
 
-Stønad ytes bare dersom behandlingen er utført avautorisert ortoptist, jf. [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. [§ 48](lov/1999-07-02-64/§48) ellerortoptist fra et annet EØS-land og som yter midlertidige tjenester i Norge, jf. [forskrift 8. oktober 2008 nr. 1130](forskrift/2008-10-08-1130) om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land.
+Stønad ytes bare dersom behandlingen er utført av
+
+1. autorisert ortoptist, jf. [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. [§ 48](lov/1999-07-02-64/§48) eller
+2. ortoptist fra et annet EØS-land og som yter midlertidige tjenester i Norge, jf. [forskrift 8. oktober 2008 nr. 1130](forskrift/2008-10-08-1130) om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land.
 
 > Endret ved [forskrift 8 okt 2008 nr. 1131](forskrift/2008-10-08-1131) (i kraft 1 nov 2008).
 

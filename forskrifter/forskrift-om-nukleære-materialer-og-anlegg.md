@@ -15,7 +15,7 @@ xml_hash: "7d2c7411fb8a13af38ebc6d39c370154ac898e66f9cdd928cad304d6426f4b5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -136,7 +136,10 @@ Justis- og beredskapsdepartementet og Utenriksdepartementet skal på sin side va
 - Nukleært materiale i klasse II kan anvendes eller lagres innenfor vitalt eller beskyttet område.
 - Nukleært materiale i klasse III kan anvendes eller lagres innenfor vitalt, beskyttet eller kontrollert område.
 
-Dersom Direktoratet for strålevern og atomsikkerhet ikke bestemmer noe annet, gjelder følgende:En reaktor med en effekt på 50 MW(t) eller over klassifiseres som vitalt område.En reaktor med en effekt opp til 50 MW(t) klassifiseres som beskyttet område.
+Dersom Direktoratet for strålevern og atomsikkerhet ikke bestemmer noe annet, gjelder følgende:
+
+- En reaktor med en effekt på 50 MW(t) eller over klassifiseres som vitalt område.
+- En reaktor med en effekt opp til 50 MW(t) klassifiseres som beskyttet område.
 
 > Endret ved [forskrifter 29 juni 2007 nr. 902](forskrift/2007-06-29-902) (i kraft 1 jan 2008), [20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
 
@@ -204,20 +207,89 @@ I tillegg til kravene under beskyttet område gjelder: Beskyttelses- og alarmsys
 
 ### § 17. Grunnleggende regler for transport av nukleært materiale i klasse I, II og III.
 
-Disse regler gjelder veitransport, men gjelder så langt det passer også for andre transportmåter.Generelle tiltakFor å redusere risikoen i forbindelse med transport av nukleært materiale skal anleggsinnehaveren sørge for:kortest mulig transporttid,færrest mulig transporter og anvendelse av færrest mulig omlastninger og midlertidige lagringer underveis,at transporter ikke gjennomføres på faste, forutkjente tidspunkter, ogat personer som er direkte involvert i gjennomføringen av transporten er autoriserte.Anleggsinnehaveren, samt berørte myndigheter skal utvise varsomhet ved håndtering av opplysninger som kan føre til svekkelse av den fysiske beskyttelse. Transporter skal gjennomføres så diskret som mulig. Når det gjelder opplysninger vedrørende transporter av nukleært materiale i klasse I skal disse graderes etter sitt innhold, men minimum KONFIDENSIELT i henhold til [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 5-3 første ledd bokstav c](lov/2018-06-01-24/§5-3/ledd/1/bokstav/c).AnsvarAnleggsinnehaveren skal gjennomføre nødvendige tiltak for fysisk beskyttelse i forbindelse med transport av nukleært materiale. Anleggsinnehaveren skal for hver enkel transport oppnevne en transportkoordinator som er ansvarlig for forberedelse av transporten til den ytre transportledelse (se [§ 17](forskrift/1984-11-02-1809/§17) e) overtar ansvaret.Forhåndsgodkjennelse av den fysiske beskyttelse ved transporterDen fysiske beskyttelse av alle transporter som kommer inn under disse forskrifter, skal godkjennes av Direktoratet for strålevern og atomsikkerhet.En forhåndsgodkjennelse vil inneholde de betingelser og krav som skal gjelde for transporten. For transport av materiale i klasse II og III kan Direktoratet gi en generell tillatelse som ikke medfører ytterligere meldeplikt med hensyn til den enkelte transport. For transport av materiale i klasse I skal Direktoratet gi tillatelse i hvert enkelt tilfelle.Transport- og eskortekjøretøyKolli som veier mindre enn 2.000 kg, skal transporteres i tildekket kjøretøy. Der det er mulig, skal også tyngre kolli transporteres i tildekket kjøretøy.Transportkjøretøyet skal være ledsaget av eskortekjøretøy som skal være utstyrt med et toveis kommunikasjonssystem. Kommunikasjonssystemet skal testes før hver transport.Før hver transport skal transport- og eskortekjøretøy undersøkes for å sikre at sabotasje ikke er utført eller forberedt.Ytre transportledelseAnleggsinnehaveren skal opprette en ytre transportledelse i forbindelse med gjennomføringen av transporter, og informere alle parter som deltar i transporten hvem dette er. Den ytre transportledelse skal holde telefon- eller radiokontakt med transportkjøretøy og/eller eskorte, og mottaker, og skal på bakgrunn av mottatte rapporter gi instruksjoner til transportpersonale, politi eller veimyndigheter vedrørende uregelmessigheter under transporten.For materiale i klasse II og III kan autoriserte personer hos anleggsinnehaveren fungere som ytre transportledelse. For materialer i klasse I skal anleggsinnehaveren samarbeide med politiet om den ytre transportledelse. Nærmere detaljer skal fremgå av beredskapsplanen.Forhåndsavtaler og instruksjonerDet skal på forhånd inngås skriftlig avtale mellom avsenderen og mottakeren samt mellom avsender og transportfirma om gjennomføringen av transporten.Anleggsinnehaveren er ansvarlig for at alle parter som deltar i transporten, tildeles skriftlige instruksjoner. Det personell som deltar i transporten, og den ytre transportledelse skal ha instruksjoner som dekker de sikkerhetsmessige sider ved transporten, inklusive uforutsette avbrudd (f.eks. trafikkulykker, skader på kjøretøy og overfall).PlomberingAnleggsinnehaveren er ansvarlig for at alle kolli som transporteres plomberes med segl. Mottakeren skal kontrollere seglet ved mottaking og umiddelbart rapportere uregelmessigheter til den ytre transportledelse.Kommunikasjon før og under transportAvsenderen skal senest innen 24 timer før gjennomføring av transporten underrette mottakeren om denne. Transporten skal ikke gjennomføres uten at mottakeren har erklært seg beredt til å motta den. Kjøretøyets posisjon langs transportruten skal periodisk meddeles den ytre transportledelse i kodeform. Tidsintervallene for kommunikasjon skal tilpasses transportert materialklasse. Avsenderen skal holde mottakeren informert om antatt ankomsttid. Dersom forsendelsen ikke er mottatt til avtalt tidspunkt, skal mottakeren snarest gi beskjed til den ytre transportledelse.VeivalgVed transport på vei skal reiseruten være bestemt på forhånd. Et alternativt veivalg skal være planlagt. Ved valg av alternativ vei eller ved vesentlig omkjøring på grunn av trafikkhindringer eller lignende, skal den ytre transportledelse konsulteres.Avbrudd av transportTransport skal gjennomføres uten unødvendig avbrudd. Ved avbrudd av transport i klasse I eller II, skal eskorten til enhver tid overvåke transportkjøretøyet. Avbrudd som ikke er planlagt, skal umiddelbart meddeles den ytre transportledelse.Internasjonale transporterVed eksport skal anleggsinnehaveren på forhånd, i samarbeide med Direktoratet for strålevern og atomsikkerhet og mottaker, forsikre seg om at det nukleære materiale under transport i import- og transittland minst vil bli underlagt det nivå for fysisk beskyttelse som fremgår av vedlegg I til Konvensjonen. (Vedlegg 2 til disse forskrifter).Ved import skal anleggsinnehaveren på forhånd, i samarbeide med Direktoratet for strålevern og atomsikkerhet og avsender, forsikre seg om at det nukleære materiale under transport i eksport- og transittland minst vil bli underlagt det nivå for fysisk beskyttelse som fremgår av vedlegg 2 til disse forskrifter.Ved eksport og import av nukleært materiale skal anleggsinnehaveren i samarbeide med Direktoratet for strålevern og atomsikkerhet treffe avtale med eksport-, import- eller transittland om på hvilket sted ansvaret for fysisk beskyttelse går over fra det ene lands myndighet til det andre.Dersom kontrakt eller avtale om en internasjonal transport forutsetter levering i et kjøretøy fra utlandet, skal anleggsinnehaveren sørge for at kontrakten eller avtalen inneholder bestemmelser som skal sikre at anleggsinnehaveren i tide får de opplysninger som er av betydning for de tiltak for fysisk beskyttelse som skal treffes i Norge.Anleggsinnehaverens plikter med hensyn til fysisk beskyttelse under internasjonale transporter skal spesifiseres i Direktoratet for strålevern og atomsikkerhets forhåndsgodkjennelse (ref. § 17c). I forbindelse med fysisk beskyttelse under transport i de nordiske land kan Direktoratet kreve at anleggsinnehaveren gjennomfører tiltak som avviker fra dem som er spesifisert i disse forskrifter.
+Disse regler gjelder veitransport, men gjelder så langt det passer også for andre transportmåter.
+
+1. Generelle tiltak
+
+   For å redusere risikoen i forbindelse med transport av nukleært materiale skal anleggsinnehaveren sørge for:
+
+   - kortest mulig transporttid,
+   - færrest mulig transporter og anvendelse av færrest mulig omlastninger og midlertidige lagringer underveis,
+   - at transporter ikke gjennomføres på faste, forutkjente tidspunkter, og
+   - at personer som er direkte involvert i gjennomføringen av transporten er autoriserte.
+
+   Anleggsinnehaveren, samt berørte myndigheter skal utvise varsomhet ved håndtering av opplysninger som kan føre til svekkelse av den fysiske beskyttelse. Transporter skal gjennomføres så diskret som mulig. Når det gjelder opplysninger vedrørende transporter av nukleært materiale i klasse I skal disse graderes etter sitt innhold, men minimum KONFIDENSIELT i henhold til [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 5-3 første ledd bokstav c](lov/2018-06-01-24/§5-3/ledd/1/bokstav/c).
+2. Ansvar
+
+   Anleggsinnehaveren skal gjennomføre nødvendige tiltak for fysisk beskyttelse i forbindelse med transport av nukleært materiale. Anleggsinnehaveren skal for hver enkel transport oppnevne en transportkoordinator som er ansvarlig for forberedelse av transporten til den ytre transportledelse (se [§ 17](forskrift/1984-11-02-1809/§17) e) overtar ansvaret.
+3. Forhåndsgodkjennelse av den fysiske beskyttelse ved transporter
+
+   Den fysiske beskyttelse av alle transporter som kommer inn under disse forskrifter, skal godkjennes av Direktoratet for strålevern og atomsikkerhet.
+
+   En forhåndsgodkjennelse vil inneholde de betingelser og krav som skal gjelde for transporten. For transport av materiale i klasse II og III kan Direktoratet gi en generell tillatelse som ikke medfører ytterligere meldeplikt med hensyn til den enkelte transport. For transport av materiale i klasse I skal Direktoratet gi tillatelse i hvert enkelt tilfelle.
+4. Transport- og eskortekjøretøy
+
+   Kolli som veier mindre enn 2.000 kg, skal transporteres i tildekket kjøretøy. Der det er mulig, skal også tyngre kolli transporteres i tildekket kjøretøy.
+
+   Transportkjøretøyet skal være ledsaget av eskortekjøretøy som skal være utstyrt med et toveis kommunikasjonssystem. Kommunikasjonssystemet skal testes før hver transport.
+
+   Før hver transport skal transport- og eskortekjøretøy undersøkes for å sikre at sabotasje ikke er utført eller forberedt.
+5. Ytre transportledelse
+
+   Anleggsinnehaveren skal opprette en ytre transportledelse i forbindelse med gjennomføringen av transporter, og informere alle parter som deltar i transporten hvem dette er. Den ytre transportledelse skal holde telefon- eller radiokontakt med transportkjøretøy og/eller eskorte, og mottaker, og skal på bakgrunn av mottatte rapporter gi instruksjoner til transportpersonale, politi eller veimyndigheter vedrørende uregelmessigheter under transporten.
+
+   For materiale i klasse II og III kan autoriserte personer hos anleggsinnehaveren fungere som ytre transportledelse. For materialer i klasse I skal anleggsinnehaveren samarbeide med politiet om den ytre transportledelse. Nærmere detaljer skal fremgå av beredskapsplanen.
+6. Forhåndsavtaler og instruksjoner
+
+   Det skal på forhånd inngås skriftlig avtale mellom avsenderen og mottakeren samt mellom avsender og transportfirma om gjennomføringen av transporten.
+
+   Anleggsinnehaveren er ansvarlig for at alle parter som deltar i transporten, tildeles skriftlige instruksjoner. Det personell som deltar i transporten, og den ytre transportledelse skal ha instruksjoner som dekker de sikkerhetsmessige sider ved transporten, inklusive uforutsette avbrudd (f.eks. trafikkulykker, skader på kjøretøy og overfall).
+7. Plombering
+
+   Anleggsinnehaveren er ansvarlig for at alle kolli som transporteres plomberes med segl. Mottakeren skal kontrollere seglet ved mottaking og umiddelbart rapportere uregelmessigheter til den ytre transportledelse.
+8. Kommunikasjon før og under transport
+
+   Avsenderen skal senest innen 24 timer før gjennomføring av transporten underrette mottakeren om denne. Transporten skal ikke gjennomføres uten at mottakeren har erklært seg beredt til å motta den. Kjøretøyets posisjon langs transportruten skal periodisk meddeles den ytre transportledelse i kodeform. Tidsintervallene for kommunikasjon skal tilpasses transportert materialklasse. Avsenderen skal holde mottakeren informert om antatt ankomsttid. Dersom forsendelsen ikke er mottatt til avtalt tidspunkt, skal mottakeren snarest gi beskjed til den ytre transportledelse.
+9. Veivalg
+
+   Ved transport på vei skal reiseruten være bestemt på forhånd. Et alternativt veivalg skal være planlagt. Ved valg av alternativ vei eller ved vesentlig omkjøring på grunn av trafikkhindringer eller lignende, skal den ytre transportledelse konsulteres.
+10. Avbrudd av transport
+
+    Transport skal gjennomføres uten unødvendig avbrudd. Ved avbrudd av transport i klasse I eller II, skal eskorten til enhver tid overvåke transportkjøretøyet. Avbrudd som ikke er planlagt, skal umiddelbart meddeles den ytre transportledelse.
+11. Internasjonale transporter
+
+    Ved eksport skal anleggsinnehaveren på forhånd, i samarbeide med Direktoratet for strålevern og atomsikkerhet og mottaker, forsikre seg om at det nukleære materiale under transport i import- og transittland minst vil bli underlagt det nivå for fysisk beskyttelse som fremgår av vedlegg I til Konvensjonen. (Vedlegg 2 til disse forskrifter).
+
+    Ved import skal anleggsinnehaveren på forhånd, i samarbeide med Direktoratet for strålevern og atomsikkerhet og avsender, forsikre seg om at det nukleære materiale under transport i eksport- og transittland minst vil bli underlagt det nivå for fysisk beskyttelse som fremgår av vedlegg 2 til disse forskrifter.
+
+    Ved eksport og import av nukleært materiale skal anleggsinnehaveren i samarbeide med Direktoratet for strålevern og atomsikkerhet treffe avtale med eksport-, import- eller transittland om på hvilket sted ansvaret for fysisk beskyttelse går over fra det ene lands myndighet til det andre.
+
+    Dersom kontrakt eller avtale om en internasjonal transport forutsetter levering i et kjøretøy fra utlandet, skal anleggsinnehaveren sørge for at kontrakten eller avtalen inneholder bestemmelser som skal sikre at anleggsinnehaveren i tide får de opplysninger som er av betydning for de tiltak for fysisk beskyttelse som skal treffes i Norge.
+
+    Anleggsinnehaverens plikter med hensyn til fysisk beskyttelse under internasjonale transporter skal spesifiseres i Direktoratet for strålevern og atomsikkerhets forhåndsgodkjennelse (ref. § 17c). I forbindelse med fysisk beskyttelse under transport i de nordiske land kan Direktoratet kreve at anleggsinnehaveren gjennomfører tiltak som avviker fra dem som er spesifisert i disse forskrifter.
 
 > Endret ved [forskrifter 9 mai 2003 nr. 569](forskrift/2003-05-09-569), [29 juni 2007 nr. 902](forskrift/2007-06-29-902) (i kraft 1 jan 2008), [20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019), [21 nov 2025 nr. 2307](forskrift/2025-11-21-2307) (i kraft 1 jan 2026).
 
 ### § 18. Særlige bestemmelser i forbindelse med transport av nukleært materiale i klasse I.
 
-1. Krav til transportkjøretøy og eskorteTransportkjøretøyet skal være konstruert og utstyrt med henblikk på å motstå angrep og skal være forsynt med to uavhengige, toveis kommunikasjonssystemer. Det skal være bemannet med minst 2 personer og være utstyrt slik at det ikke kan benyttes av uvedkommende. Transporten skal ha politieskorte hvis styrke skal avgjøres av politiet i samarbeid med Direktoratet for strålevern og atomsikkerhet for den enkelte transport. Kjøretøyets posisjon skal meddeles den ytre transportledelse flere ganger i timen.
-2. Jernbane-, skips- og lufttransportVed jernbanetransport skal forsendelsen foregå i godstog eller i separat vogn i persontog. Forsendelsen skal ha politieskorte hvis styrke skal avgjøres av politiet i samarbeid med Direktoratet for strålevern og atomsikkerhet for den enkelte transport. Den ledsagende vakt skal være utstyrt med et toveis kommunikasjonssystem for kontakt med den ytre transportledelse.Ved skipstransport skal forsendelsen ha politieskorte hvis styrke skal avgjøres av politiet i samarbeid med Direktoratet for strålevern og atomsikkerhet for den enkelte transport. Forsendelsen skal foregå i et avlåst og forseglet rom eller i en låst og forseglet container. Lås og segl skal kontrolleres regelmessig under transporten av ledsagende politieskorte.Flytransport skal foregå med spesielt chartrede lastefly eller spesielt valgte lasterutefly. Forsendelsen skal ha politieskorte hvis styrke skal avgjøres av politiet i samarbeide med Direktoratet for strålevern og atomsikkerhet for den enkelte transport.
+1. Krav til transportkjøretøy og eskorte
+
+   Transportkjøretøyet skal være konstruert og utstyrt med henblikk på å motstå angrep og skal være forsynt med to uavhengige, toveis kommunikasjonssystemer. Det skal være bemannet med minst 2 personer og være utstyrt slik at det ikke kan benyttes av uvedkommende. Transporten skal ha politieskorte hvis styrke skal avgjøres av politiet i samarbeid med Direktoratet for strålevern og atomsikkerhet for den enkelte transport. Kjøretøyets posisjon skal meddeles den ytre transportledelse flere ganger i timen.
+2. Jernbane-, skips- og lufttransport
+
+   Ved jernbanetransport skal forsendelsen foregå i godstog eller i separat vogn i persontog. Forsendelsen skal ha politieskorte hvis styrke skal avgjøres av politiet i samarbeid med Direktoratet for strålevern og atomsikkerhet for den enkelte transport. Den ledsagende vakt skal være utstyrt med et toveis kommunikasjonssystem for kontakt med den ytre transportledelse.
+
+   Ved skipstransport skal forsendelsen ha politieskorte hvis styrke skal avgjøres av politiet i samarbeid med Direktoratet for strålevern og atomsikkerhet for den enkelte transport. Forsendelsen skal foregå i et avlåst og forseglet rom eller i en låst og forseglet container. Lås og segl skal kontrolleres regelmessig under transporten av ledsagende politieskorte.
+
+   Flytransport skal foregå med spesielt chartrede lastefly eller spesielt valgte lasterutefly. Forsendelsen skal ha politieskorte hvis styrke skal avgjøres av politiet i samarbeide med Direktoratet for strålevern og atomsikkerhet for den enkelte transport.
 
 > Endret ved [forskrifter 9 mai 2003 nr. 569](forskrift/2003-05-09-569), [29 juni 2007 nr. 902](forskrift/2007-06-29-902) (i kraft 1 jan 2008), [20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
 
 ### § 19. Forholdet til andre forskrifter
 
-Disse forskrifter kommer i tillegg til gjeldende forskrifter vedrørende lagring og transport av radioaktive stoffer eller farlig gods:[Forskrift 1. desember 2006 nr. 1331 om transport av farlig gods på veg og jernbane](forskrift/2006-12-01-1331), [forskrift 1. juli 2014 nr. 944 om farlig last på norske skip](forskrift/2014-07-01-944) og [forskrift 11. januar 2003 nr. 41 om transport av gods i luftfartøy (BSL D 1-7) § 8](forskrift/2003-01-11-41/§8) og [forskrift 16. desember 2016 nr. 1659 om strålevern og bruk av stråling](forskrift/2016-12-16-1659).
+Disse forskrifter kommer i tillegg til gjeldende forskrifter vedrørende lagring og transport av radioaktive stoffer eller farlig gods:
+
+- [Forskrift 1. desember 2006 nr. 1331 om transport av farlig gods på veg og jernbane](forskrift/2006-12-01-1331), [forskrift 1. juli 2014 nr. 944 om farlig last på norske skip](forskrift/2014-07-01-944) og [forskrift 11. januar 2003 nr. 41 om transport av gods i luftfartøy (BSL D 1-7) § 8](forskrift/2003-01-11-41/§8) og [forskrift 16. desember 2016 nr. 1659 om strålevern og bruk av stråling](forskrift/2016-12-16-1659).
 
 > Tilføyd ved [forskrift 29 juni 2007 nr. 902](forskrift/2007-06-29-902) (i kraft 1 jan 2008), endret ved forskrifter [20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019), [21 nov 2025 nr. 2307](forskrift/2025-11-21-2307) (i kraft 1 jan 2026).
 
@@ -260,7 +332,15 @@ e Annet brensel som i kraft av sitt opprinnelige, spaltbare materialinnhold klas
 
 ## VEDLEGG 2. Nivåer for fysisk beskyttelse som skal anvendes ved internasjonal transport av nukleært materiale
 
-1. Nivåer for fysisk beskyttelse av nukleært materiale under lagring i forbindelse med internasjonal nukleær transport omfatter,for klasse III materialer: Lagring innenfor et område hvor adgangen er kontrollert;for klasse II materialer: Lagring innenfor et område under konstant overvåking av vakter eller elektroniske innretninger, omgitt av en fysisk barriere med et begrenset antall innganger under hensiktsmessig kontroll eller ethvert område med et tilsvarende nivå for fysisk beskyttelse;for klasse I materiale: Lagring innenfor et beskyttet område som definert for klasse II ovenfor, hvor adgangen dessuten er begrenset til personer hvis pålitelighet er kontrollert. Området skal dessuten overvåkes av vakter som står i nær forbindelse med hensiktsmessige sikkerhetsstyrker. Bestemte tiltak som er truffet i denne sammenheng, skal ha som sitt formål å oppdage og forebygge ethvert angrep på, ikke-autorisert adgang til eller ikke-autorisert fjerning av materiale.
-2. Nivåer for fysisk beskyttelse av nukleært materiale under internasjonal transport omfatter:For materialer i klasse II og III skal det ved transport treffes særlige tiltak, herunder forhåndsordninger mellom sender, mottaker og fraktfører, og forhåndsavtale mellom fysiske eller juridiske personer underlagt eksport- og importstatenes jurisdiksjon og bestemmelser, som fastsetter tid, sted og fremgangsmåter for overdragelse av transportansvaret;For materialer i klasse I skal det ved transport treffes slike særlige tiltak som spesifisert ovenfor for transport av klasse II og III materialer, og i tillegg skal slike materialer være kontinuerlig overvåket av eskortepersonell under betingelser som sikrer god forbindelse med hensiktsmessige sikkerhetsstyrker;For naturlig uran unntatt i form av malm eller malmresiduum, skal transportsikringen for mengder som overstiger 500 kilogram uran omfatte forhåndsmelding om forsendelsen som spesifiserer transportmiddel og ventet ankomsttid samt bekreftelse på mottakelse av forsendelsen.
+1. Nivåer for fysisk beskyttelse av nukleært materiale under lagring i forbindelse med internasjonal nukleær transport omfatter,
+
+   1. for klasse III materialer: Lagring innenfor et område hvor adgangen er kontrollert;
+   2. for klasse II materialer: Lagring innenfor et område under konstant overvåking av vakter eller elektroniske innretninger, omgitt av en fysisk barriere med et begrenset antall innganger under hensiktsmessig kontroll eller ethvert område med et tilsvarende nivå for fysisk beskyttelse;
+   3. for klasse I materiale: Lagring innenfor et beskyttet område som definert for klasse II ovenfor, hvor adgangen dessuten er begrenset til personer hvis pålitelighet er kontrollert. Området skal dessuten overvåkes av vakter som står i nær forbindelse med hensiktsmessige sikkerhetsstyrker. Bestemte tiltak som er truffet i denne sammenheng, skal ha som sitt formål å oppdage og forebygge ethvert angrep på, ikke-autorisert adgang til eller ikke-autorisert fjerning av materiale.
+2. Nivåer for fysisk beskyttelse av nukleært materiale under internasjonal transport omfatter:
+
+   1. For materialer i klasse II og III skal det ved transport treffes særlige tiltak, herunder forhåndsordninger mellom sender, mottaker og fraktfører, og forhåndsavtale mellom fysiske eller juridiske personer underlagt eksport- og importstatenes jurisdiksjon og bestemmelser, som fastsetter tid, sted og fremgangsmåter for overdragelse av transportansvaret;
+   2. For materialer i klasse I skal det ved transport treffes slike særlige tiltak som spesifisert ovenfor for transport av klasse II og III materialer, og i tillegg skal slike materialer være kontinuerlig overvåket av eskortepersonell under betingelser som sikrer god forbindelse med hensiktsmessige sikkerhetsstyrker;
+   3. For naturlig uran unntatt i form av malm eller malmresiduum, skal transportsikringen for mengder som overstiger 500 kilogram uran omfatte forhåndsmelding om forsendelsen som spesifiserer transportmiddel og ventet ankomsttid samt bekreftelse på mottakelse av forsendelsen.
 
 > Endret ved [forskrift 29 juni 2007 nr. 902](forskrift/2007-06-29-902) (i kraft 1 jan 2008, tidligere vedlegg 3).

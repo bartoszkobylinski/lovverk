@@ -15,7 +15,7 @@ xml_hash: "6d1307d405ee01a4a4fcabe49bcddc016a295e8f6eb843257c667a7dd5a19890"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32005L0036"
@@ -60,7 +60,21 @@ Loven [kapittel 3](lov/2017-06-16-69/kap3), [kapittel 4](lov/2017-06-16-69/kap4)
 
 ### § 3. Definisjoner
 
-I denne loven betyr*lovregulert yrke:* en eller flere former for yrkesvirksomhet som er underlagt lov- eller forskriftsfestede krav om bestemte yrkeskvalifikasjoner, eller hvor bruken av en yrkestittel ved lov eller forskrift er begrenset til innehavere av en gitt yrkeskvalifikasjon*yrkeskvalifikasjoner:* kvalifikasjoner bekreftet ved et kvalifikasjonsbevis, et kursbevis eller yrkeserfaring*kvalifikasjonsbevis:* vitnemål, attester og annen dokumentasjon utstedt av en myndighet utpekt i henhold til lover eller forskrifter i vedkommende medlemsstat, og som dokumenterer en bestått yrkesrettet opplæring som i hovedsak er ervervet i en EØS-stat eller Sveits*ansvarlig myndighet:* myndighet eller organ som er særlig bemyndiget til å utstede eller motta kvalifikasjonsbevis og andre dokumenter eller opplysninger, og til å motta søknader og treffe beslutninger som nevnt i denne loven*lovregulert utdanning:* utdanning som er særlig rettet mot utøvelsen av et bestemt yrke og som omfatter ett eller flere kurs, eventuelt supplert med yrkesrettet opplæring, en praktisk prøveperiode eller yrkespraksis hvis nivå og struktur er fastsatt ved lov eller forskrift*yrkeserfaring:* faktisk og lovlig utøvelse av det aktuelle yrket i annen EØS-stat eller Sveits*prøveperiode:* utøvelse av et lovregulert yrke under tilsyn av en kvalifisert utøver av dette yrket og eventuelt etterfulgt av videreutdanning*egnethetsprøve:* en prøve avgrenset til søkerens faglige kunnskaper som gjennomføres av ansvarlig myndighet i vertsstaten med sikte på å vurdere søkerens evne til å utøve et lovregulert yrke i nevnte EØS-stat eller Sveitsetableringsstat: den staten hvor yrkesutøveren utøver eller har utøvd sitt yrke, eller er lovlig etablert med det formål å utøve et yrke*vertsstat:* den staten hvor yrkesutøveren har søkt om å utøve sitt yrke enten ved midlertidig tjenesteytelse eller ved etablering*hjemstat:* den staten hvor yrkesutøveren har ervervet sine yrkeskvalifikasjoner*europeisk profesjonskort:* et elektronisk sertifikat som dokumenterer at yrkesutøveren enten oppfyller alle nødvendige betingelser for midlertidig tjenesteytelse i vertsstaten, eller godkjenning av yrkeskvalifikasjoner for etablering i vertsstaten*Det indre markeds informasjonssystem (IMI):* EUs database til informasjonsutveksling mellom ansvarlige myndigheter i EØS-statene.
+I denne loven betyr
+
+1. *lovregulert yrke:* en eller flere former for yrkesvirksomhet som er underlagt lov- eller forskriftsfestede krav om bestemte yrkeskvalifikasjoner, eller hvor bruken av en yrkestittel ved lov eller forskrift er begrenset til innehavere av en gitt yrkeskvalifikasjon
+2. *yrkeskvalifikasjoner:* kvalifikasjoner bekreftet ved et kvalifikasjonsbevis, et kursbevis eller yrkeserfaring
+3. *kvalifikasjonsbevis:* vitnemål, attester og annen dokumentasjon utstedt av en myndighet utpekt i henhold til lover eller forskrifter i vedkommende medlemsstat, og som dokumenterer en bestått yrkesrettet opplæring som i hovedsak er ervervet i en EØS-stat eller Sveits
+4. *ansvarlig myndighet:* myndighet eller organ som er særlig bemyndiget til å utstede eller motta kvalifikasjonsbevis og andre dokumenter eller opplysninger, og til å motta søknader og treffe beslutninger som nevnt i denne loven
+5. *lovregulert utdanning:* utdanning som er særlig rettet mot utøvelsen av et bestemt yrke og som omfatter ett eller flere kurs, eventuelt supplert med yrkesrettet opplæring, en praktisk prøveperiode eller yrkespraksis hvis nivå og struktur er fastsatt ved lov eller forskrift
+6. *yrkeserfaring:* faktisk og lovlig utøvelse av det aktuelle yrket i annen EØS-stat eller Sveits
+7. *prøveperiode:* utøvelse av et lovregulert yrke under tilsyn av en kvalifisert utøver av dette yrket og eventuelt etterfulgt av videreutdanning
+8. *egnethetsprøve:* en prøve avgrenset til søkerens faglige kunnskaper som gjennomføres av ansvarlig myndighet i vertsstaten med sikte på å vurdere søkerens evne til å utøve et lovregulert yrke i nevnte EØS-stat eller Sveits
+9. etableringsstat: den staten hvor yrkesutøveren utøver eller har utøvd sitt yrke, eller er lovlig etablert med det formål å utøve et yrke
+10. *vertsstat:* den staten hvor yrkesutøveren har søkt om å utøve sitt yrke enten ved midlertidig tjenesteytelse eller ved etablering
+11. *hjemstat:* den staten hvor yrkesutøveren har ervervet sine yrkeskvalifikasjoner
+12. *europeisk profesjonskort:* et elektronisk sertifikat som dokumenterer at yrkesutøveren enten oppfyller alle nødvendige betingelser for midlertidig tjenesteytelse i vertsstaten, eller godkjenning av yrkeskvalifikasjoner for etablering i vertsstaten
+13. *Det indre markeds informasjonssystem (IMI):* EUs database til informasjonsutveksling mellom ansvarlige myndigheter i EØS-statene.
 
 > Endret ved lov [11 juni 2021 nr. 81](lov/2021-06-11-81) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1972](forskrift/2021-06-18-1972)).
 
@@ -202,7 +216,14 @@ Departementet kan i forskrift bestemme hvilke yrker som omfattes av varslingspli
 
 ### § 21. Elektronisk informasjon
 
-Kontaktpunktet etter tjenesteloven skal ha følgende opplysninger tilgjengelig elektronisk:liste over lovregulerte yrker i Norge med ansvarlige myndigheterliste over yrker hvor det kan utstedes europeisk profesjonskortliste over yrker hvor det kreves forhåndsgodkjenning for å yte tjenesten midlertidigliste over lovregulerte utdanningerkrav og prosedyrer i forbindelse med godkjenning av yrkeskvalifikasjoner herunder oversikt over gebyropplysninger om klageadgang.
+Kontaktpunktet etter tjenesteloven skal ha følgende opplysninger tilgjengelig elektronisk:
+
+1. liste over lovregulerte yrker i Norge med ansvarlige myndigheter
+2. liste over yrker hvor det kan utstedes europeisk profesjonskort
+3. liste over yrker hvor det kreves forhåndsgodkjenning for å yte tjenesten midlertidig
+4. liste over lovregulerte utdanninger
+5. krav og prosedyrer i forbindelse med godkjenning av yrkeskvalifikasjoner herunder oversikt over gebyr
+6. opplysninger om klageadgang.
 
 Departementet kan gi forskrift om elektronisk informasjon.
 

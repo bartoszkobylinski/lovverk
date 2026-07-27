@@ -15,7 +15,7 @@ xml_hash: "33d69446f7bd7f2a75fe5db1c05b279105345b6d621ed55f478fdd51f8e8c2f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,15 @@ Politiet skal gjennom forebyggende, håndhevende og hjelpende virksomhet være e
 
 ### § 2. Politiets oppgaver
 
-Politiet skalbeskytte person, eiendom og fellesgoder og verne om all lovlig virksomhet, opprettholde den offentlige orden og sikkerhet og enten alene eller sammen med andre myndigheter verne mot alt som truer den alminnelige tryggheten i samfunnetforebygge kriminalitet og andre krenkelser av den offentlige orden og sikkerhetavdekke og stanse kriminell virksomhet og forfølge straffbare forhold i samsvar med regler gitt i eller i medhold av lovyte borgerne hjelp og tjenester i faresituasjoner, i lovbestemte tilfeller og ellers når forholdene tilsier at bistand er påkrevet og naturligpå anmodning yte andre offentlige myndigheter vern og bistand under deres tjenesteutøvelse når dette følger av lov eller sedvanesamarbeide med andre myndigheter og organisasjoner tillagt oppgaver som berører politiets virkefelt så langt regler gitt i eller i medhold av lov ikke er til hinder for detteutføre andre oppgaver som er fastsatt i lov eller som følger av sedvane, herunder oppgaver som i lov er lagt til namsfogden.
+Politiet skal
+
+1. beskytte person, eiendom og fellesgoder og verne om all lovlig virksomhet, opprettholde den offentlige orden og sikkerhet og enten alene eller sammen med andre myndigheter verne mot alt som truer den alminnelige tryggheten i samfunnet
+2. forebygge kriminalitet og andre krenkelser av den offentlige orden og sikkerhet
+3. avdekke og stanse kriminell virksomhet og forfølge straffbare forhold i samsvar med regler gitt i eller i medhold av lov
+4. yte borgerne hjelp og tjenester i faresituasjoner, i lovbestemte tilfeller og ellers når forholdene tilsier at bistand er påkrevet og naturlig
+5. på anmodning yte andre offentlige myndigheter vern og bistand under deres tjenesteutøvelse når dette følger av lov eller sedvane
+6. samarbeide med andre myndigheter og organisasjoner tillagt oppgaver som berører politiets virkefelt så langt regler gitt i eller i medhold av lov ikke er til hinder for dette
+7. utføre andre oppgaver som er fastsatt i lov eller som følger av sedvane, herunder oppgaver som i lov er lagt til namsfogden.
 
 > Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
@@ -82,7 +90,10 @@ Kongen kan gi forskrifter med nærmere bestemmelser om behandling av opplysninge
 
 ### § 6 b. Vilkår for bruk av skytevåpen
 
-Skytevåpen kan bare brukes når det er absolutt nødvendig og hvor lempeligere midler forgjeves har vært forsøkt eller åpenbart ikke vil føre frem, i situasjoner hvortjenestepersonen selv eller andre trues med eller utsettes for en grov voldshandling eller annen grov integritetskrenkelse, og bruk av våpen fremstår som nødvendig for å hindre tap av menneskeliv eller alvorlig personskade, ellerdet anses påkrevd å pågripe eller stanse person som er domfelt eller med stor grad av sikkerhet mistenkes for drap, andre grove voldshandlinger eller forsøk på slike voldsforbrytelser, eller av personer som av andre grunner anses som særlig farlige for menneskers liv eller helse, Norges selvstendighet, eller som alvorlig truer grunnleggende nasjonale interesser.
+Skytevåpen kan bare brukes når det er absolutt nødvendig og hvor lempeligere midler forgjeves har vært forsøkt eller åpenbart ikke vil føre frem, i situasjoner hvor
+
+1. tjenestepersonen selv eller andre trues med eller utsettes for en grov voldshandling eller annen grov integritetskrenkelse, og bruk av våpen fremstår som nødvendig for å hindre tap av menneskeliv eller alvorlig personskade, eller
+2. det anses påkrevd å pågripe eller stanse person som er domfelt eller med stor grad av sikkerhet mistenkes for drap, andre grove voldshandlinger eller forsøk på slike voldsforbrytelser, eller av personer som av andre grunner anses som særlig farlige for menneskers liv eller helse, Norges selvstendighet, eller som alvorlig truer grunnleggende nasjonale interesser.
 
 I situasjoner som nevnt i første ledd kan skytevåpen etter beslutning fra innsatsleder også brukes til å beskadige eller gjøre en gjenstand ubrukelig eller forstyrre eller avlede gjerningspersonen.
 
@@ -90,7 +101,11 @@ I situasjoner som nevnt i første ledd kan skytevåpen etter beslutning fra inns
 
 ### § 7. Håndhevelse av den offentlige ro og orden m.v.
 
-Politiet kan gripe innfor å stanse forstyrrelser av den offentlige ro og orden eller når omstendighetene gir grunn til frykt for slike forstyrrelserfor å ivareta enkeltpersoners eller allmennhetens sikkerhetfor å avverge eller stanse lovbrudd.
+Politiet kan gripe inn
+
+1. for å stanse forstyrrelser av den offentlige ro og orden eller når omstendighetene gir grunn til frykt for slike forstyrrelser
+2. for å ivareta enkeltpersoners eller allmennhetens sikkerhet
+3. for å avverge eller stanse lovbrudd.
 
 Politiet kan i slike tilfeller blant annet regulere ferdselen, forby opphold i bestemte områder, visitere person eller kjøretøy, uskadeliggjøre eller ta farlige gjenstander i forvaring, avvise, bortvise, fjerne eller anholde personer, påby virksomhet stanset eller endret, ta seg inn på privat eiendom eller område eller påby områder evakuert.
 
@@ -102,7 +117,10 @@ På andre offentlige myndigheters ansvarsområder kan politiet gripe inn umiddel
 
 ### § 7 a. Visitasjon for å avdekke våpen
 
-Politiet kan på offentlig sted visitere person eller kjøretøy når det er grunn til å undersøke om noen er i besittelse av eller oppbevarer våpen. Slik visitasjon kan bare foretas for å hindre straffbare handlinger som krenker noens liv, helse eller frihet, og barei situasjoner eller på steder hvor slike straffbare handlinger erfaringsmessig finner sted, elleri situasjoner eller på steder hvor det er grunn til å anta at noen planlegger eller forbereder slike straffbare handlinger.
+Politiet kan på offentlig sted visitere person eller kjøretøy når det er grunn til å undersøke om noen er i besittelse av eller oppbevarer våpen. Slik visitasjon kan bare foretas for å hindre straffbare handlinger som krenker noens liv, helse eller frihet, og bare
+
+1. i situasjoner eller på steder hvor slike straffbare handlinger erfaringsmessig finner sted, eller
+2. i situasjoner eller på steder hvor det er grunn til å anta at noen planlegger eller forbereder slike straffbare handlinger.
 
 Visitasjonen skal gjennomføres så hensynfullt og skånsomt som mulig.
 
@@ -114,7 +132,12 @@ Beslutningen om visitasjon i medhold av paragrafen her treffes av politimesteren
 
 ### § 8. Innbringelse
 
-Politiet kan innbringe til politistasjon eller annet lokale som benyttes under polititjenestenden som på offentlig sted forstyrrer ro og orden eller den lovlige ferdselden som ikke etterkommer pålegg fra politiet om å fjerne seg fra offentlig sted når omstendighetene gir skjellig grunn til å frykte for forstyrrelse av den alminnelige ro og orden eller den lovlige ferdselden som ikke oppgir navn, fødselsdato, fødselsår, stilling og bopel når politiet forlanger det, eller som gir opplysninger herom som det er grunn til å tvile på riktigheten avden som treffes på eller ved et sted der det må antas å være begått en forbrytelse umiddelbart forut.
+Politiet kan innbringe til politistasjon eller annet lokale som benyttes under polititjenesten
+
+1. den som på offentlig sted forstyrrer ro og orden eller den lovlige ferdsel
+2. den som ikke etterkommer pålegg fra politiet om å fjerne seg fra offentlig sted når omstendighetene gir skjellig grunn til å frykte for forstyrrelse av den alminnelige ro og orden eller den lovlige ferdsel
+3. den som ikke oppgir navn, fødselsdato, fødselsår, stilling og bopel når politiet forlanger det, eller som gir opplysninger herom som det er grunn til å tvile på riktigheten av
+4. den som treffes på eller ved et sted der det må antas å være begått en forbrytelse umiddelbart forut.
 
 Ingen må holdes tilbake lenger enn nødvendig etter denne bestemmelsen og ikke ut over 4 timer.
 
@@ -206,7 +229,16 @@ Innkallingen skal være skriftlig og angi formålet med samtalen, møtested og m
 
 ### § 14. Politivedtekter
 
-I vedtekter som fastsettes av kommunen og godkjennes av departementet eller den instans departementet fastsetter, kan det gis bestemmelserom å opprettholde ro og orden, sikre ferdselen og for å hindre tilgrising, herunder klistring og maling på vegger, murer o l., på steder som er alminnelig beferdet eller bestemt for alminnelig ferdsel. Bestemmelser om hunder og hundehold fastsettes etter hundeloven.i samsvar med lokale sedvaner, om hus- eller grunneiers plikt til på de steder som er nevnt i nr. 1, å holde det rent og ryddig på fortau eller tilsvarende område i umiddelbar tilknytning til eiendommen, rydde for snø og strø når det er glattom meldeplikt for den som vil holde et arrangement som er allment tilgjengelig, selv om arrangementet ikke skjer på offentlig sted, når arrangementets art eller størrelse gjør det sannsynlig at politioppsyn blir nødvendig av hensyn til ro og orden eller avvikling av trafikken. Meldeplikten kan også omfatte sammenkomst med dans eller annen tilstelning av overveiende selskapelig eller underholdende art for medlemmer av forening eller lignende sammenslutningom at det for arrangement på offentlig sted som overveiende er av underholdningsmessig, kunstnerisk, selskapelig eller kommersiell art, og som har et omfang som åpenbart vil medføre behov for betydelige ferdselsreguleringer eller vakthold, må leveres inn søknad i stedet for melding etter [§ 11](lov/1995-08-04-53/§11). Nærmere frist for innlevering av slik søknad kan fastsettesom at barn under 15 år ikke har adgang til offentlig dans eller lignende allment tilgjengelig tilstelning uten i følge med foreldre eller andre foresatteom regulering av ervervsvirksomhet på offentlig sted som ikke faller inn under regulering i andre loverom politiets kontroll med pantelånervirksomhet.om forbud mot eller nærmere vilkår for tigging på offentlig sted eller fra hus til hus. Det kan fastsettes at den som vil tigge, må melde seg for politiet på forhånd.
+I vedtekter som fastsettes av kommunen og godkjennes av departementet eller den instans departementet fastsetter, kan det gis bestemmelser
+
+1. om å opprettholde ro og orden, sikre ferdselen og for å hindre tilgrising, herunder klistring og maling på vegger, murer o l., på steder som er alminnelig beferdet eller bestemt for alminnelig ferdsel. Bestemmelser om hunder og hundehold fastsettes etter hundeloven.
+2. i samsvar med lokale sedvaner, om hus- eller grunneiers plikt til på de steder som er nevnt i nr. 1, å holde det rent og ryddig på fortau eller tilsvarende område i umiddelbar tilknytning til eiendommen, rydde for snø og strø når det er glatt
+3. om meldeplikt for den som vil holde et arrangement som er allment tilgjengelig, selv om arrangementet ikke skjer på offentlig sted, når arrangementets art eller størrelse gjør det sannsynlig at politioppsyn blir nødvendig av hensyn til ro og orden eller avvikling av trafikken. Meldeplikten kan også omfatte sammenkomst med dans eller annen tilstelning av overveiende selskapelig eller underholdende art for medlemmer av forening eller lignende sammenslutning
+4. om at det for arrangement på offentlig sted som overveiende er av underholdningsmessig, kunstnerisk, selskapelig eller kommersiell art, og som har et omfang som åpenbart vil medføre behov for betydelige ferdselsreguleringer eller vakthold, må leveres inn søknad i stedet for melding etter [§ 11](lov/1995-08-04-53/§11). Nærmere frist for innlevering av slik søknad kan fastsettes
+5. om at barn under 15 år ikke har adgang til offentlig dans eller lignende allment tilgjengelig tilstelning uten i følge med foreldre eller andre foresatte
+6. om regulering av ervervsvirksomhet på offentlig sted som ikke faller inn under regulering i andre lover
+7. om politiets kontroll med pantelånervirksomhet.
+8. om forbud mot eller nærmere vilkår for tigging på offentlig sted eller fra hus til hus. Det kan fastsettes at den som vil tigge, må melde seg for politiet på forhånd.
 
 Kommunale vedtekter som nevnt i første ledd håndheves av politiet. Unnlater noen å utføre det som de har plikt til etter slike vedtekter eller pålegg gitt med hjemmel i vedtektene, kan politiet la det utføre på vedkommendes bekostning. Ved arrangementer som nevnt i nr. 3 og 4 får reglene i [lovens § 11](lov/1995-08-04-53/§11) tilsvarende anvendelse.
 
@@ -314,7 +346,11 @@ Riket inndeles i politidistrikter med en politimester som sjef for hvert distrik
 
 Politidistriktene inndeles i politistasjonsdistrikter. Inndelingen fastsettes av Kongen.
 
-Kongen kan bestemmeat det for ett eller flere bestemte politigjøremål skal opprettes egne politiorganer,at visse politigjøremål skal utføres under en samlet ledelse i flere politidistrikter,at en politimester, som en varig ordning, helt eller delvis skal fritas for bestemte gjøremål, og at de legges til en annen politimester eller til et annet politiorgan,
+Kongen kan bestemme
+
+1. at det for ett eller flere bestemte politigjøremål skal opprettes egne politiorganer,
+2. at visse politigjøremål skal utføres under en samlet ledelse i flere politidistrikter,
+3. at en politimester, som en varig ordning, helt eller delvis skal fritas for bestemte gjøremål, og at de legges til en annen politimester eller til et annet politiorgan,
 
 For øvrig gir departementet organisatoriske bestemmelser. Departementet kan herunder fastsette samarbeidsordninger mellom distrikter, gi bestemmelser om bruk av politistyrker ut over distriktsgrenser og om ordninger som nevnt i tredje ledd nr. 3 når dette skjer for en bestemt anledning eller for et avgrenset tidsrom.
 
@@ -342,7 +378,13 @@ Politiets sikkerhetstjeneste skal utarbeide analyser og etterretningsvurderinger
 
 ### § 17 b. Oppgavene til Politiets sikkerhetstjeneste som politiorgan
 
-Politiets sikkerhetstjeneste skal forebygge og etterforskeovertredelser av [straffeloven kapittel 17](lov/2005-05-20-28/kap17) og [§ 184](lov/2005-05-20-28/§184) og [sikkerhetsloven](lov/2018-06-01-24),ulovlig etterretningsvirksomhet,spredning av masseødeleggelsesvåpen og av utstyr, materiale og teknologi for produksjon eller bruk av slike våpen,overtredelser av bestemmelser i eller i medhold av [lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v.](lov/1987-12-18-93) og [sanksjonsloven](lov/2021-04-16-18) ogsabotasje og politisk motivert vold eller tvang, eller overtredelser av [straffeloven §§ 131](lov/2005-05-20-28/§131) til [136 b](lov/2005-05-20-28/§136b), [145](lov/2005-05-20-28/§145) eller [146](lov/2005-05-20-28/§146). Åpen etterforsking i slike saker foretas likevel av det øvrige politi, med mindre annet bestemmes av overordnet påtalemyndighet.
+Politiets sikkerhetstjeneste skal forebygge og etterforske
+
+1. overtredelser av [straffeloven kapittel 17](lov/2005-05-20-28/kap17) og [§ 184](lov/2005-05-20-28/§184) og [sikkerhetsloven](lov/2018-06-01-24),
+2. ulovlig etterretningsvirksomhet,
+3. spredning av masseødeleggelsesvåpen og av utstyr, materiale og teknologi for produksjon eller bruk av slike våpen,
+4. overtredelser av bestemmelser i eller i medhold av [lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v.](lov/1987-12-18-93) og [sanksjonsloven](lov/2021-04-16-18) og
+5. sabotasje og politisk motivert vold eller tvang, eller overtredelser av [straffeloven §§ 131](lov/2005-05-20-28/§131) til [136 b](lov/2005-05-20-28/§136b), [145](lov/2005-05-20-28/§145) eller [146](lov/2005-05-20-28/§146). Åpen etterforsking i slike saker foretas likevel av det øvrige politi, med mindre annet bestemmes av overordnet påtalemyndighet.
 
 Politiets sikkerhetstjeneste kan etter anmodning bistå det øvrige politi i saker som nevnt i første ledd nr. 5 annet punktum.
 
@@ -352,13 +394,22 @@ Departementet kan bestemme at Politiets sikkerhetstjeneste skal tillegges et ans
 
 ### § 17 c. Særlige oppgaver for den sentrale enhet i Politiets sikkerhetstjeneste
 
-Den sentrale enhet i Politiets sikkerhetstjeneste skalutarbeide trusselvurderinger til bruk for politiske myndigheter,samarbeide med andre lands politimyndigheter og sikkerhets- og etterretningstjenester,foreta personkontroll til bruk ved sikkerhetsundersøkelser.
+Den sentrale enhet i Politiets sikkerhetstjeneste skal
+
+1. utarbeide trusselvurderinger til bruk for politiske myndigheter,
+2. samarbeide med andre lands politimyndigheter og sikkerhets- og etterretningstjenester,
+3. foreta personkontroll til bruk ved sikkerhetsundersøkelser.
 
 > Tilføyd ved lov [15 juni 2001 nr. 54](lov/2001-06-15-54) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 670](forskrift/2001-06-15-670)).
 
 ### § 17 d. Vilkår for bruk av tvangsmidler i forebyggende øyemed
 
-Retten kan ved kjennelse gi Politiets sikkerhetstjeneste tillatelse til som ledd i sin forebyggende virksomhet å nytte tvangsmidler som nevnt i [straffeprosessloven §§ 200 a](lov/1981-05-22-25/§200a), [202 a](lov/1981-05-22-25/§202a), [202 c](lov/1981-05-22-25/§202c), [208 a](lov/1981-05-22-25/§208a), [210 a](lov/1981-05-22-25/§210a), [§ 210 c](lov/1981-05-22-25/§210c), [216 a](lov/1981-05-22-25/§216a), [216 b](lov/1981-05-22-25/§216b), [216 m](lov/1981-05-22-25/§216m) eller [216 o](lov/1981-05-22-25/§216o) dersom det er grunn til å undersøke om noen forbereder en handling som rammes av[straffeloven §§ 131](lov/2005-05-20-28/§131), [133](lov/2005-05-20-28/§133) og [134](lov/2005-05-20-28/§134),[straffeloven §§ 121](lov/2005-05-20-28/§121) til [126](lov/2005-05-20-28/§126) eller [§ 130 a](lov/2005-05-20-28/§130a),[straffeloven § 142](lov/2005-05-20-28/§142),[straffeloven §§ 251](lov/2005-05-20-28/§251), [254](lov/2005-05-20-28/§254), [256](lov/2005-05-20-28/§256), [263](lov/2005-05-20-28/§263), [273](lov/2005-05-20-28/§273) eller [275](lov/2005-05-20-28/§275) og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.
+Retten kan ved kjennelse gi Politiets sikkerhetstjeneste tillatelse til som ledd i sin forebyggende virksomhet å nytte tvangsmidler som nevnt i [straffeprosessloven §§ 200 a](lov/1981-05-22-25/§200a), [202 a](lov/1981-05-22-25/§202a), [202 c](lov/1981-05-22-25/§202c), [208 a](lov/1981-05-22-25/§208a), [210 a](lov/1981-05-22-25/§210a), [§ 210 c](lov/1981-05-22-25/§210c), [216 a](lov/1981-05-22-25/§216a), [216 b](lov/1981-05-22-25/§216b), [216 m](lov/1981-05-22-25/§216m) eller [216 o](lov/1981-05-22-25/§216o) dersom det er grunn til å undersøke om noen forbereder en handling som rammes av
+
+1. [straffeloven §§ 131](lov/2005-05-20-28/§131), [133](lov/2005-05-20-28/§133) og [134](lov/2005-05-20-28/§134),
+2. [straffeloven §§ 121](lov/2005-05-20-28/§121) til [126](lov/2005-05-20-28/§126) eller [§ 130 a](lov/2005-05-20-28/§130a),
+3. [straffeloven § 142](lov/2005-05-20-28/§142),
+4. [straffeloven §§ 251](lov/2005-05-20-28/§251), [254](lov/2005-05-20-28/§254), [256](lov/2005-05-20-28/§256), [263](lov/2005-05-20-28/§263), [273](lov/2005-05-20-28/§273) eller [275](lov/2005-05-20-28/§275) og som retter seg mot medlemmer av Kongehuset, Stortinget, regjeringen, Høyesterett eller representanter for tilsvarende organer i andre stater.
 
 Tillatelsen kan bare gis dersom det er grunn til å tro at inngrepet vil gi opplysninger av vesentlig betydning for å kunne forebygge handlingen, at forebygging ellers i vesentlig grad vil bli vanskeliggjort og inngrepet etter sakens art og forholdene ellers ikke fremstår som uforholdsmessig. Tillatelse til å nytte tvangsmidler som nevnt i [straffeprosessloven §§ 200 a](lov/1981-05-22-25/§200a), [202 a](lov/1981-05-22-25/§202a) annet ledd, [202 c](lov/1981-05-22-25/§202c), [216 a](lov/1981-05-22-25/§216a), [216 m](lov/1981-05-22-25/§216m) og [216 o](lov/1981-05-22-25/§216o) kan bare gis når særlige grunner tilsier det. Det kan ikke gis tillatelse til å romavlytte noens private hjem etter bestemmelsen her. Det kan bare gis tillatelse til å ransake eller ved dataavlesing å gjøre innbrudd i noens private hjem etter bestemmelsen her når det er grunn til å undersøke om noen forbereder en handling som nevnt i første ledd bokstav a.
 
@@ -384,7 +435,14 @@ Kongen kan gi forskrifter til utfylling og gjennomføring av bestemmelsene i kap
 
 Alle skal bevare taushet om at det er begjært eller besluttet bruk av tvangsmidler etter [§ 17 d](lov/1995-08-04-53/§17d), og om opplysninger som fremkommer ved bruk av tvangsmidlet. Det samme gjelder andre opplysninger som er av betydning for forebygging eller etterforsking, og som man blir kjent med i forbindelse med bruken av tvangsmidlet eller saken.
 
-Taushetsplikten er ikke til hinder for at opplysningene brukessom ledd i å forebygge et straffbart forhold som nevnt i [§ 17 b](lov/1995-08-04-53/§17b) første ledd,som ledd i etterforsking av et straffbart forhold som nevnt i [§ 17 d](lov/1995-08-04-53/§17d) første ledd, herunder som ledd i avhør av de mistenkte,som bevis for en terrorhandling, jf. [straffeloven §§ 131](lov/2005-05-20-28/§131), [133](lov/2005-05-20-28/§133) og [134](lov/2005-05-20-28/§134),for å forebygge at noen uskyldig blir straffet,for å forhindre en alvorlig straffbar handling som kan krenke andres liv, helse eller frihet, ellerfor at Politiets sikkerhetstjeneste kan utlevere opplysninger til Etterretningstjenesten dersom det er nødvendig for forebyggelses- og sikkerhetsmessige formål.
+Taushetsplikten er ikke til hinder for at opplysningene brukes
+
+1. som ledd i å forebygge et straffbart forhold som nevnt i [§ 17 b](lov/1995-08-04-53/§17b) første ledd,
+2. som ledd i etterforsking av et straffbart forhold som nevnt i [§ 17 d](lov/1995-08-04-53/§17d) første ledd, herunder som ledd i avhør av de mistenkte,
+3. som bevis for en terrorhandling, jf. [straffeloven §§ 131](lov/2005-05-20-28/§131), [133](lov/2005-05-20-28/§133) og [134](lov/2005-05-20-28/§134),
+4. for å forebygge at noen uskyldig blir straffet,
+5. for å forhindre en alvorlig straffbar handling som kan krenke andres liv, helse eller frihet, eller
+6. for at Politiets sikkerhetstjeneste kan utlevere opplysninger til Etterretningstjenesten dersom det er nødvendig for forebyggelses- og sikkerhetsmessige formål.
 
 Alle skal bevare taushet overfor uvedkommende om opplysninger om noens private forhold som de blir kjent med i forbindelse med bruken av tvangsmidler.
 
@@ -392,7 +450,11 @@ Alle skal bevare taushet overfor uvedkommende om opplysninger om noens private f
 
 ### § 17 g. Beslutning om båndlegging
 
-Når noen med god grunn antas å ha begått en handling som rammes av [straffeloven §§ 131](lov/2005-05-20-28/§131) første ledd, [133](lov/2005-05-20-28/§133), [134](lov/2005-05-20-28/§134), [135](lov/2005-05-20-28/§135), [136](lov/2005-05-20-28/§136) eller [136 a](lov/2005-05-20-28/§136a), eller forsøk på dette, kan sjefen eller den stedfortredende sjefen for Politiets sikkerhetstjeneste beslutte å båndlegge samtlige formuesgoder som tilhører, eies, innehas eller kontrolleres avvedkommende,et foretak som vedkommende eier eller har kontroll over, elleret foretak eller en person som handler på vegne av eller på instruks fra noen som nevnt i bokstav a eller b.
+Når noen med god grunn antas å ha begått en handling som rammes av [straffeloven §§ 131](lov/2005-05-20-28/§131) første ledd, [133](lov/2005-05-20-28/§133), [134](lov/2005-05-20-28/§134), [135](lov/2005-05-20-28/§135), [136](lov/2005-05-20-28/§136) eller [136 a](lov/2005-05-20-28/§136a), eller forsøk på dette, kan sjefen eller den stedfortredende sjefen for Politiets sikkerhetstjeneste beslutte å båndlegge samtlige formuesgoder som tilhører, eies, innehas eller kontrolleres av
+
+1. vedkommende,
+2. et foretak som vedkommende eier eller har kontroll over, eller
+3. et foretak eller en person som handler på vegne av eller på instruks fra noen som nevnt i bokstav a eller b.
 
 Formuesgoder som er nødvendige til underhold av den beslutningen retter seg mot, hans eller hennes husstand eller noen han eller hun forsørger, kan ikke båndlegges.
 
@@ -530,7 +592,11 @@ Departementet kan gi nærmere regler som gjør unntak fra totalforbudet mot å i
 
 ### § 23 a. Erstatning for skader som skyldes pålagt trening
 
-Den som gjør arbeid eller utfører verv i politiets tjeneste, kan kreve erstatning av arbeidsgiver for skader som ikke dekkes etter [yrkesskadeforsikringsloven § 11](lov/1989-06-16-65/§11), og som skyldespålagt organisert trening og testing som inngår i sertifiserings- og vedlikeholdsprogram for innsatspersonellpålagt organisert trening, kursing eller øvelse på operative politioppgaver som omfatter elementer av maktbruk eller redningstjenesteopptaksprøver for innsatspersonell.
+Den som gjør arbeid eller utfører verv i politiets tjeneste, kan kreve erstatning av arbeidsgiver for skader som ikke dekkes etter [yrkesskadeforsikringsloven § 11](lov/1989-06-16-65/§11), og som skyldes
+
+1. pålagt organisert trening og testing som inngår i sertifiserings- og vedlikeholdsprogram for innsatspersonell
+2. pålagt organisert trening, kursing eller øvelse på operative politioppgaver som omfatter elementer av maktbruk eller redningstjeneste
+3. opptaksprøver for innsatspersonell.
 
 Lidelser som nevnt i [folketrygdloven § 13-3](lov/1997-02-28-19/§13-3) tredje ledd dekkes ikke.
 
@@ -618,7 +684,11 @@ I ulykkes- og katastrofesituasjoner tilligger det politiet å iverksette de tilt
 
 ### § 27 a. Bistand fra Forsvaret
 
-Etter anmodning kan Forsvaret bistå politiet vedforebygging og bekjempelse av anslag av særlig skadevoldende eller omfattende karakter, herunder vakthold og sikring av objekter og infrastruktur,ettersøking og pågripelse av personer som kan sette menneskers liv og helse eller vesentlige samfunnsinteresser i alvorlig fare, ogulykker, naturkatastrofer og lignende for å verne menneskers liv og helse, eiendom og for å opprettholde ro og orden.
+Etter anmodning kan Forsvaret bistå politiet ved
+
+1. forebygging og bekjempelse av anslag av særlig skadevoldende eller omfattende karakter, herunder vakthold og sikring av objekter og infrastruktur,
+2. ettersøking og pågripelse av personer som kan sette menneskers liv og helse eller vesentlige samfunnsinteresser i alvorlig fare, og
+3. ulykker, naturkatastrofer og lignende for å verne menneskers liv og helse, eiendom og for å opprettholde ro og orden.
 
 Ved bistand som nevnt i første ledd kan Forsvaret utøve makt innenfor de rammer som følger av [§ 6](lov/1995-08-04-53/§6). Det samme gjelder når Kystvakten yter bistand etter [kystvaktloven § 17](lov/1997-06-13-42/§17) første ledd.
 
@@ -648,7 +718,15 @@ Politiet kan, uten hinder av taushetsplikt, innhente fra folkeregistermyndighete
 
 ### § 30. Straff
 
-Med bøter eller med fengsel i inntil 3 måneder straffes den som forsettlig eller uaktsomtunnlater å etterkomme politiets pålegg, tegn eller signaler, jf. [§ 5](lov/1995-08-04-53/§5)nekter politiet tilgang til materiale som nevnt i [§ 12](lov/1995-08-04-53/§12) femte ledd annet punktumunnlater å overholde meldingsplikten etter [§ 11](lov/1995-08-04-53/§11) første ledd, bryter forbudet i [§ 11](lov/1995-08-04-53/§11) femte ledd eller vilkår satt i medhold av [§ 11](lov/1995-08-04-53/§11) fjerde eller sjuende leddovertrer bestemmelser gitt i medhold av [§ 14](lov/1995-08-04-53/§14)overtrer [§ 26](lov/1995-08-04-53/§26)hvis ikke forholdet går inn under en strengere straffebestemmelse.
+Med bøter eller med fengsel i inntil 3 måneder straffes den som forsettlig eller uaktsomt
+
+1. unnlater å etterkomme politiets pålegg, tegn eller signaler, jf. [§ 5](lov/1995-08-04-53/§5)
+2. nekter politiet tilgang til materiale som nevnt i [§ 12](lov/1995-08-04-53/§12) femte ledd annet punktum
+3. unnlater å overholde meldingsplikten etter [§ 11](lov/1995-08-04-53/§11) første ledd, bryter forbudet i [§ 11](lov/1995-08-04-53/§11) femte ledd eller vilkår satt i medhold av [§ 11](lov/1995-08-04-53/§11) fjerde eller sjuende ledd
+4. overtrer bestemmelser gitt i medhold av [§ 14](lov/1995-08-04-53/§14)
+5. overtrer [§ 26](lov/1995-08-04-53/§26)
+
+hvis ikke forholdet går inn under en strengere straffebestemmelse.
 
 > Endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 

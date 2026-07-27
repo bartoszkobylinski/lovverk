@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Formål
 
-Tilskudd som er hjemlet i denne forskriften skal bidra til å styrke norsk og samisk språk, identitet og kultur, og oppfylle gjeldende mål på det audiovisuelle området. Tilskuddene skal bidra tilet bredt og variert tilbud av audiovisuelle produksjoner av høy kulturell verdi og kunstnerisk kvalitet,at audiovisuelle verk når et stort publikum i Norge og utlandet,god formidling av norske og utenlandske audiovisuelle verk, filmkunst og filmkultur, samten profesjonell, likestilt og mangfoldig audiovisuell bransje med sunn økonomi.
+Tilskudd som er hjemlet i denne forskriften skal bidra til å styrke norsk og samisk språk, identitet og kultur, og oppfylle gjeldende mål på det audiovisuelle området. Tilskuddene skal bidra til
+
+1. et bredt og variert tilbud av audiovisuelle produksjoner av høy kulturell verdi og kunstnerisk kvalitet,
+2. at audiovisuelle verk når et stort publikum i Norge og utlandet,
+3. god formidling av norske og utenlandske audiovisuelle verk, filmkunst og filmkultur, samt
+4. en profesjonell, likestilt og mangfoldig audiovisuell bransje med sunn økonomi.
 
 > Endret ved forskrift [18 des 2020 nr. 3029](forskrift/2020-12-18-3029) (i kraft 1 jan 2021).
 

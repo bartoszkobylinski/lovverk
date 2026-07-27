@@ -36,13 +36,22 @@ Formålet med tilskuddet er å skape tidsbegrensede aspirantstillinger som skal 
 
 ## § 3. Kriterier for tildelingen av tilskudd
 
-Norsk kulturråd prioriterer og tildeler ledige midler etter en faglig kunstnerisk vurdering av de innkomne søknadene. Det skal vurderes i hvilken grad en aspirantstilling hos virksomheten kan bidra til å fremme formålet med ordningen. Kulturrådet foretar en vurdering særlig basert på følgende kriterier:hvilke arbeidsoppgaver virksomheten kan tilby aspirantenden kunstneriske kvaliteten på virksomhetens arbeidarbeidsmarkedet for den aktuelle kunstartgeografisk fordelingkvalifikasjonene til den eller de aspiranter det søkes tilskudd for.
+Norsk kulturråd prioriterer og tildeler ledige midler etter en faglig kunstnerisk vurdering av de innkomne søknadene. Det skal vurderes i hvilken grad en aspirantstilling hos virksomheten kan bidra til å fremme formålet med ordningen. Kulturrådet foretar en vurdering særlig basert på følgende kriterier:
+
+1. hvilke arbeidsoppgaver virksomheten kan tilby aspiranten
+2. den kunstneriske kvaliteten på virksomhetens arbeid
+3. arbeidsmarkedet for den aktuelle kunstart
+4. geografisk fordeling
+5. kvalifikasjonene til den eller de aspiranter det søkes tilskudd for.
 
 ## § 4. Tilsetting av aspirant
 
 En virksomhet som har fått tilsagn om tilskudd, skal selv tilsette en aspirant i samsvar med disse forskriftene. Virksomheten har selv arbeidsgiveransvaret for den aspiranten som tilsettes. Ved tilsettingen av aspirant skal det inngås skriftlig arbeidsavtale som tilfredsstiller kravene i arbeidsmiljøloven § 55A. Om det er mulig, bør avtalen utarbeides i samarbeid med den aktuelle arbeidstaker- eller kunstnerorganisasjon. Virksomheten har ansvar for at aspiranten får nødvendig faglig veiledning.
 
-Tilskuddet skal brukes til nytilsetting i full stilling. For at en tilsetting skal regnes som ny, må det ikke på forhånd eksistere et arbeidsforhold mellom kunstneren og virksomheten. Kunstneren regnes likevel som nytilsatt når:kunstneren har hatt en arbeidstid som ikke er over 50 prosent av normal arbeidstidkunstneren i en midlertidig stilling ikke har vært ansatt i mer enn et halvt år.
+Tilskuddet skal brukes til nytilsetting i full stilling. For at en tilsetting skal regnes som ny, må det ikke på forhånd eksistere et arbeidsforhold mellom kunstneren og virksomheten. Kunstneren regnes likevel som nytilsatt når:
+
+1. kunstneren har hatt en arbeidstid som ikke er over 50 prosent av normal arbeidstid
+2. kunstneren i en midlertidig stilling ikke har vært ansatt i mer enn et halvt år.
 
 ## § 5. Vilkår for å bli tilsatt som aspirant
 
@@ -54,13 +63,26 @@ I særlige tilfeller kan det gjøres unntak fra kravet til utdanning, for eksemp
 
 ## § 6. Kunngjøring av aspirantordningen
 
-Norsk kulturråd kunngjør aspirantordningen en gang i året i Norsk lysningsblad og et utvalg av landets aviser. Kunngjøringen skal rette seg mot profesjonelle kunstneriske virksomheter og mot kunstnere i etableringsfasen, og den skal inneholde opplysninger om:formålet med ordningenhvilke virksomheter som kan søke om tilskuddhvordan man søker om tilskuddhvilke opplysninger virksomheten må gi i søknadensøknadsfrist.
+Norsk kulturråd kunngjør aspirantordningen en gang i året i Norsk lysningsblad og et utvalg av landets aviser. Kunngjøringen skal rette seg mot profesjonelle kunstneriske virksomheter og mot kunstnere i etableringsfasen, og den skal inneholde opplysninger om:
+
+1. formålet med ordningen
+2. hvilke virksomheter som kan søke om tilskudd
+3. hvordan man søker om tilskudd
+4. hvilke opplysninger virksomheten må gi i søknaden
+5. søknadsfrist.
 
 Kunngjøringen må også gi informasjon om at det kan bli stilt vilkår overfor virksomheten, og iverksatt tiltak for å kontrollere om tilskuddet er brukt i samsvar med formålet.
 
 ## § 7. Søknad om tilskudd
 
-Søknader om tilskudd for tilsetting av aspirant sendes Norsk kulturråd. Søknaden skal være undertegnet og inneholde:presentasjon av virksomhetenstillingsbeskrivelse og arbeidsoppgaver for aspirantstillingennavnet og kvalifikasjonene til den kunstneren virksomheten søker om tilskudd forårsrapport for virksomheten fra siste årorganisasjonsnummer, dersom det foreliggerbankkontonummer for utbetaling av tilskudd.
+Søknader om tilskudd for tilsetting av aspirant sendes Norsk kulturråd. Søknaden skal være undertegnet og inneholde:
+
+1. presentasjon av virksomheten
+2. stillingsbeskrivelse og arbeidsoppgaver for aspirantstillingen
+3. navnet og kvalifikasjonene til den kunstneren virksomheten søker om tilskudd for
+4. årsrapport for virksomheten fra siste år
+5. organisasjonsnummer, dersom det foreligger
+6. bankkontonummer for utbetaling av tilskudd.
 
 En virksomhet kan også søke om tilskudd til å ansette en kunstner som ikke er navngitt på søknadstidspunktet. I stedet for navnet og kvalifikasjonene på en bestemt kunstner må virksomheten da oppgi hvilke kvalifikasjoner kunstneren skal ha, og den må redegjøre for hvordan den vil gå fram for å få tilsatt en kunstner med disse kvalifikasjonene.
 

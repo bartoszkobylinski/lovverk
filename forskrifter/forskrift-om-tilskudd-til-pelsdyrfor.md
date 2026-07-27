@@ -48,13 +48,55 @@ Produkter som generelt sett omfattes av ordningen, men som sedvanemessig leveres
 
 ## § 4. Tilskudd
 
-1. *Innfrakt:*Fraktutjevningsbeløpene beregnes etter tonn-/km-prinsippet, dvs. av avstand fra leverandør (siste omsetningsledd) til forbrukeren regnet en veg multiplisert med kjøpt kvantum pr. år.Ved leveranse av fiskeråstoff til mottaker som får alt eller deler av sitt fiskeråstoff levert med båt til nærmeste havn, dekkes båtfrakten med en prosentsats av den tariff som hvert år avtales med hovedleverandørene for den aktuelle strekningen.For beregning av frakttilskudd for transport av fiskeråstoff over lengre avstander der båttransport er det mest aktuelle transportmiddel, beregnes frakttilskudd på grunnlag av båtfraktkostnader.Lokale leveranser av fiskeråstoff regnes etter den aktuelle avstand innenfor et naturlig avgrenset område.Fraktutjevningen for biproduktene fra slakteriindustrien baseres utelukkende på tonn-/km-prinsippet under forutsetningen av at varen kjøpes innenfor et naturlig avgrenset forsyningsområde.
-2. *Utfrakt:*Tilskuddet til utfrakt fordeles etter følgende prinsipp:Fast avskrivning pr. bil pr. år i transportrute fordeles etter utkjørt tonnasje pr. år på følgende måte.Under 500 tonn pr. bil i gjennomsnitt kr 15.000,-500 – 1000 tonn pr. bil i gjennomsnitt kr 20.000,-Over 1000 tonn pr. bil i gjennomsnitt kr 25.000,-Over 2000 tonn pr. bil i gjennomsnitt kr 30.000,-Antallet biler som inngår i avskrivningsgrunnlaget bestemmes av det som er nødvendig for å klare utkjøringen med 1 sjåfør pr. bil innenfor normal arbeidstid pluss tillatt overtid.Restbeløpet etter innfrakt, offentlig transport, hentegodtgjørelse og avskriving på biler, fordeles etter gjennomsnitts kjørte km pr. rute 1. mai og 1. september søkeråret og beregnes etter følgende formel:x kr--------- = tilskott pr. kmy km x 52(x = sum som skal fordeles. y = sum av gjennomsnitt rutelengde for fôrkjøkken.)Rutelengde registreres pr. 1. mai og 1. september søkeråret.Gjennomsnittet av de to registreringer gir antall km som skal benyttes ved utregningen. (Med rutelengde forstås den avstand det må kjøres for å distribuere fôret til alle fôrkjøkkenets oppdrettere en gang.)
-3. *Andre tilskudd:*For transport med offentlige transportmidler utenom fergebilletter for godkjente fôrruter, dekkes 80% av faktiske utgifter og med en maksimalsats som fastsettes av Landbruksdepartementet etter samråd med avtalepartene. Slike utgifter dekkes bare hvis fôret ikke kan leveres fra ei godkjent fôrrute.Til mottakere som må frakte fôret mer enn 2 km regnet en veg, kan det ytes tilskudd (hentegodtgjørelse) etter satser som fastsettes av Landbruksdepartementet etter samråd med avtalepartene.For områder som ikke kan betjenes med tankbil, gis det mulighet for å etablere særordninger som kan gjøre det mulig å levere ferdigfôr inntil det eventuelt kan opprettes fast fôrrute eller anlegges fôrkjøkken. Disse særordningene må i hvert tilfelle godkjennes av Landbruksdepartementet.Et fôrlag kan i en tidsbestemt periode tildeles ekstraordinære midler til dekning av ekstra transportkostnader i etableringsfasen. Dette under forutsetning av at bruken av disse midlene vil gi klare forbedringer av fôrforsyningsopplegg og bruk av ordinære tilskuddsmidler på lengre sikt.
+1. *Innfrakt:*
+
+   1. Fraktutjevningsbeløpene beregnes etter tonn-/km-prinsippet, dvs. av avstand fra leverandør (siste omsetningsledd) til forbrukeren regnet en veg multiplisert med kjøpt kvantum pr. år.
+   2. Ved leveranse av fiskeråstoff til mottaker som får alt eller deler av sitt fiskeråstoff levert med båt til nærmeste havn, dekkes båtfrakten med en prosentsats av den tariff som hvert år avtales med hovedleverandørene for den aktuelle strekningen.
+
+      For beregning av frakttilskudd for transport av fiskeråstoff over lengre avstander der båttransport er det mest aktuelle transportmiddel, beregnes frakttilskudd på grunnlag av båtfraktkostnader.
+
+      Lokale leveranser av fiskeråstoff regnes etter den aktuelle avstand innenfor et naturlig avgrenset område.
+   3. Fraktutjevningen for biproduktene fra slakteriindustrien baseres utelukkende på tonn-/km-prinsippet under forutsetningen av at varen kjøpes innenfor et naturlig avgrenset forsyningsområde.
+2. *Utfrakt:*
+
+   Tilskuddet til utfrakt fordeles etter følgende prinsipp:
+
+   1. Fast avskrivning pr. bil pr. år i transportrute fordeles etter utkjørt tonnasje pr. år på følgende måte.
+
+      1. Under 500 tonn pr. bil i gjennomsnitt kr 15.000,-
+      2. 500 – 1000 tonn pr. bil i gjennomsnitt kr 20.000,-
+      3. Over 1000 tonn pr. bil i gjennomsnitt kr 25.000,-
+      4. Over 2000 tonn pr. bil i gjennomsnitt kr 30.000,-
+   2. Antallet biler som inngår i avskrivningsgrunnlaget bestemmes av det som er nødvendig for å klare utkjøringen med 1 sjåfør pr. bil innenfor normal arbeidstid pluss tillatt overtid.
+   3. Restbeløpet etter innfrakt, offentlig transport, hentegodtgjørelse og avskriving på biler, fordeles etter gjennomsnitts kjørte km pr. rute 1. mai og 1. september søkeråret og beregnes etter følgende formel:
+
+      - x kr
+      - --------- = tilskott pr. km
+      - y km x 52
+
+      (x = sum som skal fordeles. y = sum av gjennomsnitt rutelengde for fôrkjøkken.)
+   4. Rutelengde registreres pr. 1. mai og 1. september søkeråret.
+
+      Gjennomsnittet av de to registreringer gir antall km som skal benyttes ved utregningen. (Med rutelengde forstås den avstand det må kjøres for å distribuere fôret til alle fôrkjøkkenets oppdrettere en gang.)
+3. *Andre tilskudd:*
+
+   For transport med offentlige transportmidler utenom fergebilletter for godkjente fôrruter, dekkes 80% av faktiske utgifter og med en maksimalsats som fastsettes av Landbruksdepartementet etter samråd med avtalepartene. Slike utgifter dekkes bare hvis fôret ikke kan leveres fra ei godkjent fôrrute.
+
+   Til mottakere som må frakte fôret mer enn 2 km regnet en veg, kan det ytes tilskudd (hentegodtgjørelse) etter satser som fastsettes av Landbruksdepartementet etter samråd med avtalepartene.
+
+   For områder som ikke kan betjenes med tankbil, gis det mulighet for å etablere særordninger som kan gjøre det mulig å levere ferdigfôr inntil det eventuelt kan opprettes fast fôrrute eller anlegges fôrkjøkken. Disse særordningene må i hvert tilfelle godkjennes av Landbruksdepartementet.
+
+   Et fôrlag kan i en tidsbestemt periode tildeles ekstraordinære midler til dekning av ekstra transportkostnader i etableringsfasen. Dette under forutsetning av at bruken av disse midlene vil gi klare forbedringer av fôrforsyningsopplegg og bruk av ordinære tilskuddsmidler på lengre sikt.
 
 ## § 5. Søknad, saksbehandling
 
-Søknad om tilskuddsmidler skjer pr. kalenderår og sendes Landbruksdirektoratet innen 1. mars påfølgende år. Søknaden skal skrives på skjema fastsatt av Landbruksdirektoratet og være underskrevet av søkeren. Ved sin underskrift erkjenner søkeren at:opplysningene i søknaden er fullstendige og korrekteopplysningene i søknaden skal registreres, jf. [personregisterloven av 9. juni 1978 nr. 48](lov/1978-06-09-48)kontroll kan foretas på driftsenhetenutbetalt tilskudd kan kreves tilbakebetalt eller trekk kan foretas dersom det blir utbetalt for stort beløpLandbruksdirektoratet kan innhente nødvendige opplysninger for kontroll fra ligningskontor og kommunekasse.
+Søknad om tilskuddsmidler skjer pr. kalenderår og sendes Landbruksdirektoratet innen 1. mars påfølgende år. Søknaden skal skrives på skjema fastsatt av Landbruksdirektoratet og være underskrevet av søkeren. Ved sin underskrift erkjenner søkeren at:
+
+- opplysningene i søknaden er fullstendige og korrekte
+- opplysningene i søknaden skal registreres, jf. [personregisterloven av 9. juni 1978 nr. 48](lov/1978-06-09-48)
+- kontroll kan foretas på driftsenheten
+- utbetalt tilskudd kan kreves tilbakebetalt eller trekk kan foretas dersom det blir utbetalt for stort beløp
+- Landbruksdirektoratet kan innhente nødvendige opplysninger for kontroll fra ligningskontor og kommunekasse.
 
 Talloppgavene i søknaden må være bekreftet av revisor. Oppgavene fra enkeltoppdrettere må bekreftes av kommunen. Av beregnings- og kontrollhensyn skal videre oppgis antall tisper 1. mai – antall dyr 1. september, rutelengde pr. fôrrute og fôrmengder pr. rute.
 

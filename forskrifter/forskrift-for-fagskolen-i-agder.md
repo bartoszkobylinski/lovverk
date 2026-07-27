@@ -15,7 +15,7 @@ xml_hash: "b978c2f7f73472ada3d594a7d79a3b068486c7cfb4dc30e8617b271a63463cd9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ eu_basis: []
 
 (1) Forskriften gjelder for høyere yrkesfaglig utdanning ved Fagskolen i Agder.
 
-(2) Forskriften gjelder for personer som:søker opptak til studieprogram ved Fagskolen i Agderhar studierett og status som student ved Fagskolen i Agder.
+(2) Forskriften gjelder for personer som:
+
+- søker opptak til studieprogram ved Fagskolen i Agder
+- har studierett og status som student ved Fagskolen i Agder.
 
 (3) Forskriften har kortnavnet *Forskrift for Fagskolen i Agder*.
 
@@ -120,9 +123,18 @@ Jf. [§ 7 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-100
 
 Jf. [§ 10](forskrift/2019-07-11-1005/§10)–[§ 12](forskrift/2019-07-11-1005/§12) i [forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005).
 
-(1) Opptakskrav til Fagskolen i Agder er enten:Fullført og bestått videregående opplæring med fagbrev, svennebrev eller vitnemål fra relevant yrkesutdanning. Informasjon om hvilke fagbrev eller svennebrev og spesielle bestemmelser som gir rett til opptak er beskrevet i studieplanene.Søkere som er 23 år eller eldre i opptaksåret, har krav på å få vurdert om de er kvalifisert for en bestemt studie på grunnlag av realkompetanse.
+(1) Opptakskrav til Fagskolen i Agder er enten:
 
-(2) Opptak på visse vilkår ved sen fag- eller svenneprøve (betinget opptak)Søkere som ikke har dokumentert fullført og bestått fag- eller svenneprøve innen fristen for å sende inn dokumentasjon, og som derfor ikke er kvalifisert for opptak, kan få opptak til fagskoleutdanning dersom de kan dokumentere at de skal gjennomføre fag- eller svenneprøven i løpet av første semesteret.Søkere som har fått opptak uten bestått fag- eller svenneprøve, kan ikke reservere studieplassen jf. [fagskoleforskriften](forskrift/2019-07-11-1005).Studenter med opptak på visse vilkår som ikke oppfyller opptakskravene i løpet av første semester etter opptak, mister studieplassen og studieretten.Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamenen godkjent som bestått uten at opptakskravet er oppfylt.Ved betinget opptak, skal det så langt det er mulig og rimelig, legges til rette for at studenten både kan gå opp til fag- eller svenneprøven i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til.
+1. Fullført og bestått videregående opplæring med fagbrev, svennebrev eller vitnemål fra relevant yrkesutdanning. Informasjon om hvilke fagbrev eller svennebrev og spesielle bestemmelser som gir rett til opptak er beskrevet i studieplanene.
+2. Søkere som er 23 år eller eldre i opptaksåret, har krav på å få vurdert om de er kvalifisert for en bestemt studie på grunnlag av realkompetanse.
+
+(2) Opptak på visse vilkår ved sen fag- eller svenneprøve (betinget opptak)
+
+1. Søkere som ikke har dokumentert fullført og bestått fag- eller svenneprøve innen fristen for å sende inn dokumentasjon, og som derfor ikke er kvalifisert for opptak, kan få opptak til fagskoleutdanning dersom de kan dokumentere at de skal gjennomføre fag- eller svenneprøven i løpet av første semesteret.
+2. Søkere som har fått opptak uten bestått fag- eller svenneprøve, kan ikke reservere studieplassen jf. [fagskoleforskriften](forskrift/2019-07-11-1005).
+3. Studenter med opptak på visse vilkår som ikke oppfyller opptakskravene i løpet av første semester etter opptak, mister studieplassen og studieretten.
+4. Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamenen godkjent som bestått uten at opptakskravet er oppfylt.
+5. Ved betinget opptak, skal det så langt det er mulig og rimelig, legges til rette for at studenten både kan gå opp til fag- eller svenneprøven i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til.
 
 ### § 2-4. Reservasjon av studieplass
 
@@ -136,7 +148,10 @@ Jf. [§ 13 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-10
 
 (1) Ved utdanninger der studentene kan komme i kontakt med mindreårige eller andre sårbare grupper, er det krav om at det legges frem politiattest, jf. [§ 7-1](forskrift/2024-04-30-783/§7-1) i denne forskrift.
 
-(2) Det kreves dokumentert gjennomført grunnleggende sikkerhetskurs for sjøfolk jf. STCW regel VI/1 avsnitt A-VI/1 for de maritime utdanningene:DekksoffiserMaskinoffiser.
+(2) Det kreves dokumentert gjennomført grunnleggende sikkerhetskurs for sjøfolk jf. STCW regel VI/1 avsnitt A-VI/1 for de maritime utdanningene:
+
+- Dekksoffiser
+- Maskinoffiser.
 
 ### § 2-6. Utfyllende regler om språkkrav for søkere med utenlandsk utdanning
 
@@ -144,7 +159,13 @@ Jf. [§ 9 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-100
 
 (1) Søkere med bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifiserte for opptak uten tilleggskrav i norsk.
 
-(2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden, må dokumentere kunnskaper i norsk. Kunnskaper i norsk dokumenteres med én av følgende prøver:Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid](lov/2020-11-06-127).
+(2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden, må dokumentere kunnskaper i norsk. Kunnskaper i norsk dokumenteres med én av følgende prøver:
+
+1. Bestått norsk med 393 timer fra videregående opplæring
+2. Bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. Bestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. Skriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009
+5. Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid](lov/2020-11-06-127).
 
 (3) Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til fremmedspråklige utdanningsprogram og studenter som deltar i internasjonale utvekslingsprogram.
 
@@ -229,7 +250,12 @@ Jf. [§ 8 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§8) og [§ 
 
 (5) Fritak skal bygge på en faglig vurdering fra fagskolen. Fritak på bakgrunn av realkompetanse må baseres på en faglig vurdering av om søkerens bakgrunn.
 
-(6) Søknad om godskriving og fritak må leveres skriftlig til fagskolen innen en måned etter oppstart av emnet og inneholde følgende dokumentasjon:Vitnemål/karakterutskrift/realkompetansevurderingOversikt over hvilke temaer som inngår i emnetOversikt over læringsutbyttebeskrivelsen av emnet eller studieplanEventuelt annen relevant dokumentasjon.
+(6) Søknad om godskriving og fritak må leveres skriftlig til fagskolen innen en måned etter oppstart av emnet og inneholde følgende dokumentasjon:
+
+1. Vitnemål/karakterutskrift/realkompetansevurdering
+2. Oversikt over hvilke temaer som inngår i emnet
+3. Oversikt over læringsutbyttebeskrivelsen av emnet eller studieplan
+4. Eventuelt annen relevant dokumentasjon.
 
 (7) Dersom en student får godkjent søknad om fritak av et emne, skal dette framkomme på vitnemålet med referanse til bestått emne ved samme eller annen institusjon. Vitnemålet er bare gyldig sammen med dokumentasjonen som det blir referert til.
 
@@ -245,7 +271,13 @@ Jf. [§ 8 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§8) og [§ 
 
 (2) Studieretten er knyttet til utdanningen eller emnet på det studiestedet studenten har fått opptak til.
 
-(3) Studierettens varighet:Ved opptak til en utdanning er studenten tildelt studierett lik normert studietid.En student som er tatt opp til en utdanning, kan etter avtale om endring få utvidet studieretten i inntil ett år ut over normert studietid.Når studieretten ved en utdanning er brukt opp etter bokstav a eller b, mister studenten automatisk alle rettigheter knyttet til det å være tatt opp som student. Studenten må søke nytt opptak for eventuelt å fullføre utdanningen.En student taper studieretten dersom vedkommende ikke betaler semesteravgift innen frist, ikke oppfyller vilkår for godkjenning av arbeidskrav/studiekrav/emnevurdering innen gitt frist, ikke møter til obligatorisk undervisning, har brukt opp alle forsøkene i en eksamen, eller har hatt praksisperiode uten godkjent resultat, og dermed blir stoppet av progresjonskrav. For å kunne fortsette utdanningen må en student som har tapt studieretten, søke opptak på ordinært vis via Samordna opptak.Vedtak om tap av studierett skal varsles, jf. [forvaltningsloven](lov/1967-02-10). Ved tap av rettigheter har studenten klagerett. Bestemmelser om klage på vedtak om tap av rettigheter, er gitt i [kapittel 10](forskrift/2024-04-30-783/kap10) i denne forskriften.
+(3) Studierettens varighet:
+
+1. Ved opptak til en utdanning er studenten tildelt studierett lik normert studietid.
+2. En student som er tatt opp til en utdanning, kan etter avtale om endring få utvidet studieretten i inntil ett år ut over normert studietid.
+3. Når studieretten ved en utdanning er brukt opp etter bokstav a eller b, mister studenten automatisk alle rettigheter knyttet til det å være tatt opp som student. Studenten må søke nytt opptak for eventuelt å fullføre utdanningen.
+4. En student taper studieretten dersom vedkommende ikke betaler semesteravgift innen frist, ikke oppfyller vilkår for godkjenning av arbeidskrav/studiekrav/emnevurdering innen gitt frist, ikke møter til obligatorisk undervisning, har brukt opp alle forsøkene i en eksamen, eller har hatt praksisperiode uten godkjent resultat, og dermed blir stoppet av progresjonskrav. For å kunne fortsette utdanningen må en student som har tapt studieretten, søke opptak på ordinært vis via Samordna opptak.
+5. Vedtak om tap av studierett skal varsles, jf. [forvaltningsloven](lov/1967-02-10). Ved tap av rettigheter har studenten klagerett. Bestemmelser om klage på vedtak om tap av rettigheter, er gitt i [kapittel 10](forskrift/2024-04-30-783/kap10) i denne forskriften.
 
 ### § 2-15. Studieprogresjon
 
@@ -323,7 +355,11 @@ Det foretas sluttvurdering i emner, kalt emnevurdering, og sluttvurdering av pra
 
 ### § 4-2. Ekstern evaluering av vurdering og vurderingsordningene
 
-Fagskolen i Agder har ekstern evaluering av vurdering og vurderingsordningene. Evalueringen innebærer:Ekstern deltagelse ved utforming av eksamensoppgaver og sensorveiledningEkstern kontroll av intern sensors (faglærer på skolen i faget) vurdering av et tilfeldig utvalg kandidaterEkstern evaluering av alle vurderingsordningene som inngår i fag- eller studieplanen.
+Fagskolen i Agder har ekstern evaluering av vurdering og vurderingsordningene. Evalueringen innebærer:
+
+1. Ekstern deltagelse ved utforming av eksamensoppgaver og sensorveiledning
+2. Ekstern kontroll av intern sensors (faglærer på skolen i faget) vurdering av et tilfeldig utvalg kandidater
+3. Ekstern evaluering av alle vurderingsordningene som inngår i fag- eller studieplanen.
 
 ### § 4-3. Vurderingsuttrykk
 
@@ -416,7 +452,11 @@ Jf. [§ 40 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-10
 
 (3) Sensur av eksamen fastsettes i fellesskap av intern og ekstern sensor. Dersom det ikke er enighet om karakter, skal ekstern sensors vurdering vektlegges.
 
-(4) Sensurformene kan være:Full sensur: Intern og ekstern sensor vurderer alle besvarelsene på det enkelte emne.Begrenset sensur: Ekstern sensor godkjenner eksamensoppgavene og sensorveiledningene. Intern sensor gjør all sensurering. Dokumentasjon på at ekstern sensor har godkjent eksamensoppgavene og sensorveiledningen skal være skriftlig fra ekstern sensor. Dokumentasjon skal vedlegges eksamensoppgavene når de leveres til eksamensadministrasjonen.Utvalg av kandidater: Ekstern sensor sensurerer utvalgte kandidaters besvarelser. Ekstern sensors vurdering brukes som kalibrering av intern sensors vurdering.
+(4) Sensurformene kan være:
+
+1. Full sensur: Intern og ekstern sensor vurderer alle besvarelsene på det enkelte emne.
+2. Begrenset sensur: Ekstern sensor godkjenner eksamensoppgavene og sensorveiledningene. Intern sensor gjør all sensurering. Dokumentasjon på at ekstern sensor har godkjent eksamensoppgavene og sensorveiledningen skal være skriftlig fra ekstern sensor. Dokumentasjon skal vedlegges eksamensoppgavene når de leveres til eksamensadministrasjonen.
+3. Utvalg av kandidater: Ekstern sensor sensurerer utvalgte kandidaters besvarelser. Ekstern sensors vurdering brukes som kalibrering av intern sensors vurdering.
 
 (5) Sensur skal foreligge innen tre uker etter eksamen. Styret kan gjøre unntak for enkelteksamener og kan fastsette en lengre frist når det ikke er mulig å skaffe det antall kvalifiserte sensorer som er nødvendig for å avvikle sensuren innen fristen. Ved utsatt sensur skal studentene informeres.
 
@@ -428,7 +468,13 @@ Jf. [§ 40 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-10
 
 (1) Det blir vurdert som fusk dersom en student forsettlig eller grovt uaktsomt handler i strid med forskrifter og retningslinjer for eksamen og vurdering eller regler om kildebruk bestemt av Fagskolen i Agder.
 
-(2) Fusk kan være:Bruk av hjelpemidler som ikke er tillat på eksamenÅ utgi andres arbeid som egetÅ sitere kilder uten å benytte kildehenvisningIkke tillatt kommunikasjonBesvarelse ved hjelp av verktøy drevet av kunstig intelligens og levere denne helt eller delvis som egen besvarelse.
+(2) Fusk kan være:
+
+1. Bruk av hjelpemidler som ikke er tillat på eksamen
+2. Å utgi andres arbeid som eget
+3. Å sitere kilder uten å benytte kildehenvisning
+4. Ikke tillatt kommunikasjon
+5. Besvarelse ved hjelp av verktøy drevet av kunstig intelligens og levere denne helt eller delvis som egen besvarelse.
 
 (3) Dersom det under eksamen eller andre vurderingssituasjoner oppstår mistanke om fusk, skal studenten straks gjøres oppmerksom på at hendelsen vil bli rapportert til administrasjonen ved fagskolen for videre behandling. Dette gjelder også for studenten som eventuelt yter hjelp. Studenten kan da velge å fortsette eller avbryte eksamen.
 
@@ -450,7 +496,16 @@ Jf. [§ 41 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-10
 
 (2) Skolen utsteder kun ett vitnemål pr. kandidat. Studenter kan få duplikat dersom vitnemålet er tapt. En avgift påløper ved bestilling av duplikat. Dersom kandidaten forbedrer karakterer som inngår i vitnemålet, dokumenteres dette gjennom karakterutskrift.
 
-(3) Vitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:Gradsbetegnelse: Fagskolegrad (60–90 studiepoeng) eller Høyere fagskolegrad (120 studiepoeng),Det overordnede læringsutbyttetEmner og eventuell praksisTittel og omtale av hovedprosjektKvalifikasjonsnivået som oppnås (nivå 5 i NKR og fagskole 1 eller fagskole 2)Karaktersystemet som benyttes (A–F eller bestått / ikke bestått)Antall studiepoengKarakterer.
+(3) Vitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:
+
+1. Gradsbetegnelse: Fagskolegrad (60–90 studiepoeng) eller Høyere fagskolegrad (120 studiepoeng),
+2. Det overordnede læringsutbyttet
+3. Emner og eventuell praksis
+4. Tittel og omtale av hovedprosjekt
+5. Kvalifikasjonsnivået som oppnås (nivå 5 i NKR og fagskole 1 eller fagskole 2)
+6. Karaktersystemet som benyttes (A–F eller bestått / ikke bestått)
+7. Antall studiepoeng
+8. Karakterer.
 
 (4) Ved de maritime fagskoleutdanningene skal vitnemål skrives på engelsk.
 
@@ -546,7 +601,12 @@ Jf. [§ 28 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-10
 
 Jf. [§ 29 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§29).
 
-(1) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerstudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningstudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helsestudenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+(1) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
+
+1. studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+2. studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+3. studenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse
+4. studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
 (2) Departementet kan fastsette tilleggskriterier for enkeltutdanninger i særskilte tilfeller.
 
@@ -614,9 +674,21 @@ Jf. [§ 20](lov/2018-06-08-28/§20)–[§ 27](lov/2018-06-08-28/§27) i [lov om 
 
 (2) Den lokale klagenemnda har fem medlemmer. Leder og varamedlemmet for leder skal fylle de lovbestemte kravene for lagdommere, og ikke være tilsatt ved fagskolen. To av medlemmene skal være studenter og to av medlemmene skal være ansatte ved fagskolen. Den lokale klagenemndas medlemmer utenom studentrepresentantene med vara velges for fire år av gangen. Studentrepresentanten med vara velges for ett år av gangen.
 
-(3) Lokal klagenemnd er vedtaksfør når leder eller varamedlem for leder og to andre medlemmer er til stede. Enkeltvedtak fattet av den lokale klagenemda på klager etter [§ 24](lov/2018-06-08-28/§24), [§ 25](lov/2018-06-08-28/§25), [§ 26](lov/2018-06-08-28/§26) og [§ 27 i fagskoleloven](lov/2018-06-08-28/§27), kan påklages til Nasjonal klagenemd for fagskoleutdanning. Øvrige enkeltvedtak kan ikke påklages. Klager som blir behandlet av den lokale klagenemnden, er som følger:formelle feil ved eksamen som for eksempel feil ved oppgaveteksten, eksamensavvikling eller ved gjennomføring av sensureksamen under særskilte vilkåropptakfritak eller godskriving av emnetap av rettigheterklagesaker ved annullering, bortvisning og utestenging, skikkethet og politiattest.
+(3) Lokal klagenemnd er vedtaksfør når leder eller varamedlem for leder og to andre medlemmer er til stede. Enkeltvedtak fattet av den lokale klagenemda på klager etter [§ 24](lov/2018-06-08-28/§24), [§ 25](lov/2018-06-08-28/§25), [§ 26](lov/2018-06-08-28/§26) og [§ 27 i fagskoleloven](lov/2018-06-08-28/§27), kan påklages til Nasjonal klagenemd for fagskoleutdanning. Øvrige enkeltvedtak kan ikke påklages. Klager som blir behandlet av den lokale klagenemnden, er som følger:
 
-(4) Klager som blir behandlet av Nasjonal klagenemd for fagskoleutdanning er som følger:klager på vedtak om annullering av eksamenutestengning eller bortvisning på bakgrunn av atferdutestenging på bakgrunn av skikkethetutestenging på bakgrunn av politiattest med merknad.
+1. formelle feil ved eksamen som for eksempel feil ved oppgaveteksten, eksamensavvikling eller ved gjennomføring av sensur
+2. eksamen under særskilte vilkår
+3. opptak
+4. fritak eller godskriving av emne
+5. tap av rettigheter
+6. klagesaker ved annullering, bortvisning og utestenging, skikkethet og politiattest.
+
+(4) Klager som blir behandlet av Nasjonal klagenemd for fagskoleutdanning er som følger:
+
+1. klager på vedtak om annullering av eksamen
+2. utestengning eller bortvisning på bakgrunn av atferd
+3. utestenging på bakgrunn av skikkethet
+4. utestenging på bakgrunn av politiattest med merknad.
 
 (5) Fagskolen i Agder har egen instruks for klagebehandling i kvalitetssystemet.
 
@@ -626,7 +698,13 @@ Jf. [§ 20](lov/2018-06-08-28/§20)–[§ 27](lov/2018-06-08-28/§27) i [lov om 
 
 (2) Skriftlig klage må fremsettes senest tre uker etter at vedtaket er gjort kjent for studenten, eller studenten har hatt rimelig anledning til å gjøre seg kjent med vedtaket.
 
-(3) Den skriftlige klagen må inneholde:klagers navn og adresseangivelse av hvilket vedtak det klages overhva klagen gjelder og begrunnelse for denneved klage på karakter må denne begrunnes i forhold til omtale av læringsutbyttedato og underskrift.
+(3) Den skriftlige klagen må inneholde:
+
+1. klagers navn og adresse
+2. angivelse av hvilket vedtak det klages over
+3. hva klagen gjelder og begrunnelse for denne
+4. ved klage på karakter må denne begrunnes i forhold til omtale av læringsutbytte
+5. dato og underskrift.
 
 ### § 10-3. Klage på formelle feil ved eksamen
 

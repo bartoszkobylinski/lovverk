@@ -153,9 +153,18 @@ Vedtak om opptak er et enkeltvedtak og kan påklages. Dersom klagen ikke tas til
 
 (1) Den som har akseptert et tilbud om studieplass etter vilkårene i studiekontrakten og/eller studiebetingelser, har studierett i henhold til normert studietid for det studieprogrammet eller enkeltemnet vedkommende er tatt opp til.
 
-(2) Studieretten opphører i disse tilfellene:Studenten har oppnådd grad, fullført studieprogrammet eller bestått enkeltemnet, og studieretten er ikke forlenget.Studenten har overskredet fullføringsfristen. For studieprogrammer med fast progresjon er fristen to år etter normert slutt. For studier med fri progresjon, og for enkeltemner, fremgår fullføringsfristen av studiekontrakten og studiebetingelser.Fagskolen Kristiania mottar melding om at studenten trekker seg fra studiet eller enkeltemnet.
+(2) Studieretten opphører i disse tilfellene:
 
-(3) Studenten kan permanent eller midlertidig miste studieretten i disse tilfellene:Studenten oppfyller ikke forpliktelsene i studiebetingelser eller studiekontrakten.Studenten oppnår ikke tilstrekkelig studieprogresjon i henhold til gjeldende retningslinjer.Studenten har brukt opp sine forsøk til eksamen.Studenten har brutt bestemmelser om bortvisning og utestenging i [fagskoleloven § 25](lov/2018-06-08-28/§25).
+1. Studenten har oppnådd grad, fullført studieprogrammet eller bestått enkeltemnet, og studieretten er ikke forlenget.
+2. Studenten har overskredet fullføringsfristen. For studieprogrammer med fast progresjon er fristen to år etter normert slutt. For studier med fri progresjon, og for enkeltemner, fremgår fullføringsfristen av studiekontrakten og studiebetingelser.
+3. Fagskolen Kristiania mottar melding om at studenten trekker seg fra studiet eller enkeltemnet.
+
+(3) Studenten kan permanent eller midlertidig miste studieretten i disse tilfellene:
+
+1. Studenten oppfyller ikke forpliktelsene i studiebetingelser eller studiekontrakten.
+2. Studenten oppnår ikke tilstrekkelig studieprogresjon i henhold til gjeldende retningslinjer.
+3. Studenten har brukt opp sine forsøk til eksamen.
+4. Studenten har brutt bestemmelser om bortvisning og utestenging i [fagskoleloven § 25](lov/2018-06-08-28/§25).
 
 (4) En student som ikke har opprettholdt sin studentstatus eller har mistet studieretten, må søke om nytt opptak, med mindre annet er avtalt med Fagskolen Kristiania.
 
@@ -211,7 +220,37 @@ Vedtak om opptak er et enkeltvedtak og kan påklages. Dersom klagen ikke tas til
 
 ### § 3-6. Skikkethetsvurdering
 
-(1) Følgende utdanninger ved Fagskolen Kristiania er underlagt skikkethetsvurdering:Arbeid med de yngste barna (0–3 år) i barnehagenArbeid med de yngste barna (0–6 år)Arbeid med livsmestring og helse i barnehagenArbeid med ungdomBarn med behov for særskilt tilretteleggingBarn med behov for særskilt tilrettelegging – grunnleggendeBarn med særskilte behovBærekraftig utvikling i barnehagenDemensomsorg og alderspsykiatriDemensomsorg og alderspsykiatri – grunnleggendeEldre og livsmestringEldre og livsmestring – grunnleggendeHverdagsrehabiliteringKreativ og leken bruk av digitale verktøy i barnehagenKreftomsorg og lindrende pleieKreftomsorg og lindrende pleie – grunnleggendeKvalitetsarbeid i SFOKvalitetsarbeid i SFO – grunnleggendeLek og læring med digitale verktøy i barnehagenMatomsorg og ernæringMigrasjonshelseMålrettet miljøarbeid i tjenester til personer med utviklingshemmingMålrettet miljøarbeid i tjenester til personer med utviklingshemming – grunnleggendePositiv atferdsstøtte (PAS)Psykisk helsearbeidPsykisk helsearbeid – grunnleggendeSpråklig og kulturelt mangfold i oppvekstsektorTraumeforståelse og kommunikasjon i yrkesutøvelsenVelferdsteknologi.
+(1) Følgende utdanninger ved Fagskolen Kristiania er underlagt skikkethetsvurdering:
+
+- Arbeid med de yngste barna (0–3 år) i barnehagen
+- Arbeid med de yngste barna (0–6 år)
+- Arbeid med livsmestring og helse i barnehagen
+- Arbeid med ungdom
+- Barn med behov for særskilt tilrettelegging
+- Barn med behov for særskilt tilrettelegging – grunnleggende
+- Barn med særskilte behov
+- Bærekraftig utvikling i barnehagen
+- Demensomsorg og alderspsykiatri
+- Demensomsorg og alderspsykiatri – grunnleggende
+- Eldre og livsmestring
+- Eldre og livsmestring – grunnleggende
+- Hverdagsrehabilitering
+- Kreativ og leken bruk av digitale verktøy i barnehagen
+- Kreftomsorg og lindrende pleie
+- Kreftomsorg og lindrende pleie – grunnleggende
+- Kvalitetsarbeid i SFO
+- Kvalitetsarbeid i SFO – grunnleggende
+- Lek og læring med digitale verktøy i barnehagen
+- Matomsorg og ernæring
+- Migrasjonshelse
+- Målrettet miljøarbeid i tjenester til personer med utviklingshemming
+- Målrettet miljøarbeid i tjenester til personer med utviklingshemming – grunnleggende
+- Positiv atferdsstøtte (PAS)
+- Psykisk helsearbeid
+- Psykisk helsearbeid – grunnleggende
+- Språklig og kulturelt mangfold i oppvekstsektor
+- Traumeforståelse og kommunikasjon i yrkesutøvelsen
+- Velferdsteknologi.
 
 (2) Skikkethetsvurdering gjennomføres løpende gjennom hele studiet, og i tråd med [forskrift om høyere yrkesfaglig utdanning kapittel 5](forskrift/2019-07-11-1005/kap5). Formålet med vurderingen er å sikre at studenten har de nødvendige forutsetningene for å kunne utøve yrket.
 
@@ -241,7 +280,14 @@ Eksamen gjennomføres i henhold til de eksamens- og vurderingsformer som er fast
 
 (2) Vurderingsuttrykket «bestått» eller «ikke bestått» er en separat vurderingsskala og skal ikke kobles til et trinn i vurderingsuttrykket A–F. For å oppnå «bestått» skal kandidaten ha oppnådd kravene til læringsutbytte og vise nødvendig kunnskap, ferdighet og kompetanse.
 
-(3) Fagskolen Kristiania benytter følgende generelle beskrivelser for den graderte karakterskalaen:A Fremragende Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.B Meget god Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.C God Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.D Nokså god En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.E Tilstrekkelig Prestasjon som bare tilfredsstiller minimumskravene. Kandidaten viser liten vurderingsevne og selvstendighet.F Ikke bestått Prestasjon som ikke tilfredsstiller minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(3) Fagskolen Kristiania benytter følgende generelle beskrivelser for den graderte karakterskalaen:
+
+- A Fremragende Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.
+- B Meget god Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.
+- C God Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.
+- D Nokså god En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.
+- E Tilstrekkelig Prestasjon som bare tilfredsstiller minimumskravene. Kandidaten viser liten vurderingsevne og selvstendighet.
+- F Ikke bestått Prestasjon som ikke tilfredsstiller minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
 
 (4) Hvilket vurderingsuttrykk som benyttes i et emne, skal fremgå av emnebeskrivelsen.
 

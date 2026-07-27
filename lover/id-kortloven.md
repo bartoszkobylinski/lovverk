@@ -15,7 +15,7 @@ xml_hash: "e109d0d7ce4148678f593d267680c7334978bd55b85bcdfb190e09f004219e5d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,11 +58,25 @@ Nasjonalt ID-kort med reiserett kan i særlige tilfeller utstedes til person som
 
 ## § 5. Hindringer for å få nasjonalt ID-kort med reiserett
 
-Nasjonalt ID-kort med reiserett skal ikke utstedesnår søkeren er etterlyst med henblikk på pågripelse, er besluttet pågrepet eller varetektsfengslet eller har samtykket i innlevering av pass etter [straffeprosessloven kapittel 14](lov/1981-05-22-25/kap14)når utreiseforbud følger av [tvisteloven § 33-11](lov/2005-06-17-90/§33-11), [konkursloven § 102](lov/1984-06-08-58/§102) eller [barnevernsloven §§ 4-6](lov/2021-06-18-97/§4-6) eller [5-13](lov/2021-06-18-97/§5-13)når det foreligger lovhjemlet beslutning av offentlig myndighet som innebærer at utreise vil være ulovligdersom søkeren ikke kan reise ut av landet fordi det følger av innskrenkninger pålagt i henhold til [straffeloven §§ 45](lov/2005-05-20-28/§45) og [46](lov/2005-05-20-28/§46) eller [straffegjennomføringsloven § 43](lov/2001-05-18-21/§43).
+Nasjonalt ID-kort med reiserett skal ikke utstedes
 
-Nasjonalt ID-kort med reiserett kan nektes utstedt når søkeren ikke kan reise ut av riket fordi det følger avdom, kjennelse eller annen lovhjemlet beslutning av offentlig myndighet som pålegger frihetsberøvelseinnskrenkninger pålagt i henhold til [straffeloven §§ 34](lov/2005-05-20-28/§34), [39](lov/2005-05-20-28/§39), [48](lov/2005-05-20-28/§48), [52](lov/2005-05-20-28/§52) og [62](lov/2005-05-20-28/§62) (jf. psykisk [helsevernloven § 5-3](lov/1999-07-02-62/§5-3)) eller [straffeprosessloven § 69](lov/1981-05-22-25/§69) tredje ledd.
+1. når søkeren er etterlyst med henblikk på pågripelse, er besluttet pågrepet eller varetektsfengslet eller har samtykket i innlevering av pass etter [straffeprosessloven kapittel 14](lov/1981-05-22-25/kap14)
+2. når utreiseforbud følger av [tvisteloven § 33-11](lov/2005-06-17-90/§33-11), [konkursloven § 102](lov/1984-06-08-58/§102) eller [barnevernsloven §§ 4-6](lov/2021-06-18-97/§4-6) eller [5-13](lov/2021-06-18-97/§5-13)
+3. når det foreligger lovhjemlet beslutning av offentlig myndighet som innebærer at utreise vil være ulovlig
+4. dersom søkeren ikke kan reise ut av landet fordi det følger av innskrenkninger pålagt i henhold til [straffeloven §§ 45](lov/2005-05-20-28/§45) og [46](lov/2005-05-20-28/§46) eller [straffegjennomføringsloven § 43](lov/2001-05-18-21/§43).
 
-Nasjonalt ID-kort med reiserett kan også nektes utstedt nårdet foreligger vedtak om passnektelse eller tilbakekall av pass etter [passloven § 5](lov/1997-06-19-82/§5) tredje ledd, jf. [§ 7](lov/1997-06-19-82/§7) første ledd bokstav bomstendighetene gir skjellig grunn til å tro at formålet med reisen er ulovlig virksomhetsøkeren tidligere har forfalsket eller brukt falskt nasjonalt ID-kort med reiserett, rettsstridig har overlatt kortet til tredjemann eller på annen måte har misbrukt detdet er grunn til å tro at formålet med reisen er å begå en handling som rammes av bestemmelsene i [straffeloven §§ 101](lov/2005-05-20-28/§101) til [107](lov/2005-05-20-28/§107) om folkemord, forbrytelser mot menneskeheten og krigsforbrytelser eller [straffeloven §§ 131](lov/2005-05-20-28/§131) til [145](lov/2005-05-20-28/§145) om terrorhandlinger og terrorrelaterte handlingersøkeren er mindreårig, og det er grunn til å tro at søkeren vil bli utsatt for straffbare forhold i utlandet eller forhold der som kan medføre fare for liv eller helse.
+Nasjonalt ID-kort med reiserett kan nektes utstedt når søkeren ikke kan reise ut av riket fordi det følger av
+
+1. dom, kjennelse eller annen lovhjemlet beslutning av offentlig myndighet som pålegger frihetsberøvelse
+2. innskrenkninger pålagt i henhold til [straffeloven §§ 34](lov/2005-05-20-28/§34), [39](lov/2005-05-20-28/§39), [48](lov/2005-05-20-28/§48), [52](lov/2005-05-20-28/§52) og [62](lov/2005-05-20-28/§62) (jf. psykisk [helsevernloven § 5-3](lov/1999-07-02-62/§5-3)) eller [straffeprosessloven § 69](lov/1981-05-22-25/§69) tredje ledd.
+
+Nasjonalt ID-kort med reiserett kan også nektes utstedt når
+
+1. det foreligger vedtak om passnektelse eller tilbakekall av pass etter [passloven § 5](lov/1997-06-19-82/§5) tredje ledd, jf. [§ 7](lov/1997-06-19-82/§7) første ledd bokstav b
+2. omstendighetene gir skjellig grunn til å tro at formålet med reisen er ulovlig virksomhet
+3. søkeren tidligere har forfalsket eller brukt falskt nasjonalt ID-kort med reiserett, rettsstridig har overlatt kortet til tredjemann eller på annen måte har misbrukt det
+4. det er grunn til å tro at formålet med reisen er å begå en handling som rammes av bestemmelsene i [straffeloven §§ 101](lov/2005-05-20-28/§101) til [107](lov/2005-05-20-28/§107) om folkemord, forbrytelser mot menneskeheten og krigsforbrytelser eller [straffeloven §§ 131](lov/2005-05-20-28/§131) til [145](lov/2005-05-20-28/§145) om terrorhandlinger og terrorrelaterte handlinger
+5. søkeren er mindreårig, og det er grunn til å tro at søkeren vil bli utsatt for straffbare forhold i utlandet eller forhold der som kan medføre fare for liv eller helse.
 
 Nasjonalt ID-kort med reiserett må ikke nektes uten at tungtveiende hensyn taler for det. Ved avgjørelsen skal det tas i betraktning hvilken betydning kortet vil ha for søkeren. Etter annet ledd skal det vurderes om søkeren vil unndra seg iverksettelse av den lovhjemlede forpliktelsen.
 
@@ -84,7 +98,13 @@ Kort som er meldt tapt kan ikke tas i bruk på nytt.
 
 ## § 8. Tilbakekall, innlevering og beslag
 
-Nasjonalt ID-kort med reiserett kan tilbakekalles nårdet foreligger hindring som nevnt i [§ 5](lov/2015-06-05-39/§5)kortet er utstedt med, eller på bakgrunn av, informasjon som ikke var, eller lenger er, riktigkortets utseende eller innhold er endretkortet er skadet eller slitt eller av andre årsaker ikke er tjenlig som identitetsbeviskortet finnes i uvedkommendes besittelse.
+Nasjonalt ID-kort med reiserett kan tilbakekalles når
+
+1. det foreligger hindring som nevnt i [§ 5](lov/2015-06-05-39/§5)
+2. kortet er utstedt med, eller på bakgrunn av, informasjon som ikke var, eller lenger er, riktig
+3. kortets utseende eller innhold er endret
+4. kortet er skadet eller slitt eller av andre årsaker ikke er tjenlig som identitetsbevis
+5. kortet finnes i uvedkommendes besittelse.
 
 Første ledd bokstavene b, c, d og e gjelder for alle nasjonale ID-kort.
 
@@ -104,7 +124,11 @@ Det skal opprettes et nasjonalt ID-kortregister. Registeret kan kobles mot passr
 
 Nasjonalt ID-kortregister kan inneholde opplysninger som er nødvendige for forvaltning av registeret og utstedelse av nasjonalt ID-kort, blant annet søkers navn, signatur, fødselsnummer, biometrisk ansiktsfoto, høyde, øyenfarge, hårfarge, serienummer eller annen entydig referanse for tilknyttet eID, og opplysninger om tap og tilbakekall av kortet. Ved endring av navn eller andre opplysninger, og ved utstedelse av nytt nasjonalt ID-kort kan også tidligere data beholdes i registeret. Ved søknad om nasjonalt ID-kort til mindreårige og personer uten rettslig handleevne kan biometrisk ansiktsfoto av foresatte eller verge inntas i registeret.
 
-Kongen gir forskrift med nærmere regler omhvilke opplysninger som kan registrereshvem som er behandlingsansvarliginnsyn, begrensning av behandling, retting og sletting av opplysninger.
+Kongen gir forskrift med nærmere regler om
+
+1. hvilke opplysninger som kan registreres
+2. hvem som er behandlingsansvarlig
+3. innsyn, begrensning av behandling, retting og sletting av opplysninger.
 
 > Endret ved [lover 21 juni 2017 nr. 93](lov/2017-06-21-93) (ikr. 19 okt 2020 iflg. [res. 9 okt 2020 nr. 2008](forskrift/2020-10-09-2008)), [12 juni 2020 nr. 65](lov/2020-06-12-65) (ikr. 19 okt 2020 iflg. [res. 16 okt 2020 nr. 2062](forskrift/2020-10-16-2062)).
 
@@ -124,7 +148,15 @@ Utlevering av opplysninger etter første ledd kan skje ved direkte søk som går
 
 ## § 12. Utlevering av opplysninger til andre formål
 
-Opplysninger fra nasjonalt ID-kortregister kan utleveres til politiet til bruki arbeid med å finne savnet person eller med å identifisere en død person eller en person som det hører under politiets oppgaver å hjelpei arbeid med å identifisere en person som kan innbringes eller skal pågripes eller anbringes i politiarrestved forebygging eller etterforskning av en handling som etter loven kan medføre høyere straff enn fengsel i seks månederi arbeid etter utlendingsloven med å avklare identiteten til en person som har plikt til å gi opplysninger om egen identitetved kontroll av opplysninger som skal føres inn i det sentrale registeret over strafferettslige reaksjonernår den opplysningene gjelder har gitt et uttrykkelig samtykke som er basert på frivillighet og informasjonfor utførelse av oppgaver etter passloven.
+Opplysninger fra nasjonalt ID-kortregister kan utleveres til politiet til bruk
+
+1. i arbeid med å finne savnet person eller med å identifisere en død person eller en person som det hører under politiets oppgaver å hjelpe
+2. i arbeid med å identifisere en person som kan innbringes eller skal pågripes eller anbringes i politiarrest
+3. ved forebygging eller etterforskning av en handling som etter loven kan medføre høyere straff enn fengsel i seks måneder
+4. i arbeid etter utlendingsloven med å avklare identiteten til en person som har plikt til å gi opplysninger om egen identitet
+5. ved kontroll av opplysninger som skal føres inn i det sentrale registeret over strafferettslige reaksjoner
+6. når den opplysningene gjelder har gitt et uttrykkelig samtykke som er basert på frivillighet og informasjon
+7. for utførelse av oppgaver etter passloven.
 
 Utlevering av opplysninger etter første ledd kan skje ved direkte søk.
 
@@ -140,9 +172,19 @@ Avgjørelser om nasjonalt ID-kort etter denne loven kan påklages til Politidire
 
 ## § 14. Forskrifter
 
-Kongen gir forskrifter med nærmere regler omgyldighetstiden for nasjonalt ID-kort, blant annet om begrenset eller forlenget gyldighetstidfastsetting og betaling av gebyr for søknad om nasjonalt ID-kort.
+Kongen gir forskrifter med nærmere regler om
 
-Kongen kan gi forskrifter med nærmere regler omtildeling og bruk av tilknyttet eID ved utstedelse av nasjonalt ID-kort, blant annet om aldersgrenser, gyldighet, sertifikatutsteder, sikkerhetsnivå, tilbakekall og klageutenlandske statsborgeres rett til å få nasjonalt ID-kort, blant annet om særlige vilkår om tilknytning til Norgehvem som kan få utlevert opplysninger fra nasjonalt ID-kortregistergjennomføring av loven, blant annet om søknads- og klagesaksbehandlingadgang til å få nasjonalt ID-kort ved norsk fagutenriksstasjonadgang til å få midlertidig ID-dokument ved tap av nasjonalt ID-kort med reiserett.
+1. gyldighetstiden for nasjonalt ID-kort, blant annet om begrenset eller forlenget gyldighetstid
+2. fastsetting og betaling av gebyr for søknad om nasjonalt ID-kort.
+
+Kongen kan gi forskrifter med nærmere regler om
+
+1. tildeling og bruk av tilknyttet eID ved utstedelse av nasjonalt ID-kort, blant annet om aldersgrenser, gyldighet, sertifikatutsteder, sikkerhetsnivå, tilbakekall og klage
+2. utenlandske statsborgeres rett til å få nasjonalt ID-kort, blant annet om særlige vilkår om tilknytning til Norge
+3. hvem som kan få utlevert opplysninger fra nasjonalt ID-kortregister
+4. gjennomføring av loven, blant annet om søknads- og klagesaksbehandling
+5. adgang til å få nasjonalt ID-kort ved norsk fagutenriksstasjon
+6. adgang til å få midlertidig ID-dokument ved tap av nasjonalt ID-kort med reiserett.
 
 ## § 15. Forholdet til folkeretten
 

@@ -34,7 +34,14 @@ Forsøket skal etableres ved utvalgte Nav-kontor i utvalgte fylker. Arbeids- og 
 
 ### § 3. Vilkår for tildeling av ungdomsprogrammet
 
-Ungdomsprogrammet kan tildeles personer somhar fylt 18 år og ikke har fylt 29 år,har fått fastslått at de har behov for bistand fra Arbeids- og velferdsetaten for å komme i ordinært arbeid,ikke tidligere har deltatt i programmet,ønsker å delta i programmet,vurderes å være i stand til å delta i programmet på fulltid ogsom gjennom deltakelse i programmet vurderes å kunne bli i stand til å komme i ordinært arbeid eller ordinær utdanning.
+Ungdomsprogrammet kan tildeles personer som
+
+1. har fylt 18 år og ikke har fylt 29 år,
+2. har fått fastslått at de har behov for bistand fra Arbeids- og velferdsetaten for å komme i ordinært arbeid,
+3. ikke tidligere har deltatt i programmet,
+4. ønsker å delta i programmet,
+5. vurderes å være i stand til å delta i programmet på fulltid og
+6. som gjennom deltakelse i programmet vurderes å kunne bli i stand til å komme i ordinært arbeid eller ordinær utdanning.
 
 Deltakelse i programmet skal være nødvendig og hensiktsmessig for at deltakeren skal komme i ordinært arbeid eller ordinær utdanning. Arbeids- og velferdsetaten avgjør hvem som skal tildeles ungdomsprogrammet.
 

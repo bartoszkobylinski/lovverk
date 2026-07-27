@@ -15,7 +15,7 @@ xml_hash: "a2cf03a92e9f4ad2ac96c86fb910c63ef27057c04fd584483bccbd8179af760c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,9 +70,15 @@ I tilfelle som går inn under andre leddet andre punktumet kan ytingar bli gitt 
 
 ### § 5. Full supplerande stønad
 
-Full supplerande stønad til personar som har fylt 67 år, skal svare tilgarantipensjonsnivå med høg sats for einslege stønadstakarar og for stønadstakarar med ektemake som ikkje har fylt 67 år, og som ikkje er ufør flyktning,garantipensjonsnivå med ordinær sats for stønadstakarar med ektemake som har fylt 67 år, eller som er ufør flyktning, og for stønadstakarar som deler bustad med sine vaksne barn eller andre vaksne, utan at forholdet mellom dei vert definert som ekteskapsliknande (bufellesskap).
+Full supplerande stønad til personar som har fylt 67 år, skal svare til
 
-Full supplerande stønad til uføre flyktningar skal svare tilminste årlege yting for uføretrygd med høg sats for einslege stønadstakarar og for stønadstakarar med ektemake som ikkje har fylt 67 år, og som ikkje er ufør flyktning,minste årlege yting for uføretrygd med ordinær sats for stønadstakarar med ektemake som har fylt 67 år eller som er ufør flyktning. Det same gjeld for stønadstakarar som deler bustad med sine vaksne barn eller andre vaksne, utan at forholdet mellom dei vert definert som ekteskapsliknande (bufellesskap).
+1. garantipensjonsnivå med høg sats for einslege stønadstakarar og for stønadstakarar med ektemake som ikkje har fylt 67 år, og som ikkje er ufør flyktning,
+2. garantipensjonsnivå med ordinær sats for stønadstakarar med ektemake som har fylt 67 år, eller som er ufør flyktning, og for stønadstakarar som deler bustad med sine vaksne barn eller andre vaksne, utan at forholdet mellom dei vert definert som ekteskapsliknande (bufellesskap).
+
+Full supplerande stønad til uføre flyktningar skal svare til
+
+1. minste årlege yting for uføretrygd med høg sats for einslege stønadstakarar og for stønadstakarar med ektemake som ikkje har fylt 67 år, og som ikkje er ufør flyktning,
+2. minste årlege yting for uføretrygd med ordinær sats for stønadstakarar med ektemake som har fylt 67 år eller som er ufør flyktning. Det same gjeld for stønadstakarar som deler bustad med sine vaksne barn eller andre vaksne, utan at forholdet mellom dei vert definert som ekteskapsliknande (bufellesskap).
 
 > Endra med lover [12 des 2008 nr. 83](lov/2008-12-12-83) (ikr. 1 mai 2008), [19 juni 2009 nr. 40](lov/2009-06-19-40) (ikr. 1 mai 2009), [25 juni 2010 nr. 30](lov/2010-06-25-30) (ikr. 1 mai 2010), [17 des 2010 nr. 77](lov/2010-12-17-77) (ikr. 1 mai 2011), [19 des 2014 nr. 74](lov/2014-12-19-74) (ikr. 1 jan 2015), [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 jan 2016), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. [res. 18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for bestemmingar sjå loven del V), [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021).
 
@@ -82,7 +88,14 @@ Full supplerande stønad skal setjast ned med inntekt hos stønadstakaren sjølv
 
 Dersom ektemaken har fylt 67 år, skal ektemaken si inntekt likevel berre inngå ved prøvinga av ytingane til stønadstakaren med den delen som overstig full supplerande stønad etter [§ 5](lov/2005-04-29-21/§5) første leddet bokstav b. Dersom ektemaken er ufør flyktning, skal ektemaken si inntekt berre inngå ved prøvinga av ytingane til stønadstakaren med den delen som overstig full supplerande stønad etter [§ 5](lov/2005-04-29-21/§5) andre leddet bokstav b.
 
-Som inntekt vert reknaarbeidsinntektpensjon, uføretrygd og andre ytingar frå folketrygda til livsopphald, inkludert forsørgingstilleggintroduksjonsstønad for nykomne innvandrarar, kvalifiseringsstønad, kontantstøtte og bidrag etter ekteskapslovaandre norske offentlege eller private pensjonar, uføreytingar og andre ytingar til livsopphald, inkludert forsørgingstilleggkapitalinntektertilsvarande inntekter eller ytingar som nemnde i bokstavane a til e frå utlandet.
+Som inntekt vert rekna
+
+1. arbeidsinntekt
+2. pensjon, uføretrygd og andre ytingar frå folketrygda til livsopphald, inkludert forsørgingstillegg
+3. introduksjonsstønad for nykomne innvandrarar, kvalifiseringsstønad, kontantstøtte og bidrag etter ekteskapslova
+4. andre norske offentlege eller private pensjonar, uføreytingar og andre ytingar til livsopphald, inkludert forsørgingstillegg
+5. kapitalinntekter
+6. tilsvarande inntekter eller ytingar som nemnde i bokstavane a til e frå utlandet.
 
 For uføre flyktningar skal arbeidsinntekt ikkje setjast lågare enn forventa inntekt etter uførheit, sjå [folketrygdlova § 12-9](lov/1997-02-28-19/§12-9) tredje leddet.
 

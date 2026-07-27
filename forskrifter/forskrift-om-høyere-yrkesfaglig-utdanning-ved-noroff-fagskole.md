@@ -15,7 +15,7 @@ xml_hash: "d06738a18f5cd6fc67957a737e7588b84f4792495838eb2921cf4a300c568bd7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -128,7 +128,12 @@ Søker som ikke har bestått fag- eller svenneprøve ved opptak, og dermed ikke 
 
 ### § 2-3-2. Betinget opptak ved andre vilkår
 
-Søker som på grunn av spesielle omstendigheter, som sykdom, ulykker eller dødsfall i nær familie, ikke har kunnet avlegge eksamen i videregående opplæring og dermed ikke oppfyller opptakskravene, kan gis betinget opptak dersom følgende vilkår er oppfylt:søker består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptaksøker har standpunktkarakteren 2 eller bedre i fagetikke allerede har avsluttende vurdering i faget, ogoppfyller fastsatte karakterkrav når eksamen er avlagt.
+Søker som på grunn av spesielle omstendigheter, som sykdom, ulykker eller dødsfall i nær familie, ikke har kunnet avlegge eksamen i videregående opplæring og dermed ikke oppfyller opptakskravene, kan gis betinget opptak dersom følgende vilkår er oppfylt:
+
+1. søker består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptak
+2. søker har standpunktkarakteren 2 eller bedre i faget
+3. ikke allerede har avsluttende vurdering i faget, og
+4. oppfyller fastsatte karakterkrav når eksamen er avlagt.
 
 ### § 2-3-3. Betinget tilbud om studieplass
 
@@ -182,7 +187,12 @@ Studenter som ikke fullfører innen fristen for gammel plan, vil normalt overfø
 
 Ved tapt eller utgått studierett må studenten søke om nytt opptak med mindre det foreligger en individuell avtale med fagskolen. Studenten gis et forhåndsvarsel før studieadministrasjonen fatter vedtak om tap av studierett.
 
-Studenten kan midlertidig eller permanent tape studieretten dersom:studenten ikke har oppfylt betalingsforpliktelser til fagskolen.studenten ikke har bestått noen emner etter første studieår.studenten ikke har bestått emnet etter å ha brukt alle emnets forsøk til vurdering.studenten ikke har overholdt bestemmelser om bortvisning eller utestenging.
+Studenten kan midlertidig eller permanent tape studieretten dersom:
+
+1. studenten ikke har oppfylt betalingsforpliktelser til fagskolen.
+2. studenten ikke har bestått noen emner etter første studieår.
+3. studenten ikke har bestått emnet etter å ha brukt alle emnets forsøk til vurdering.
+4. studenten ikke har overholdt bestemmelser om bortvisning eller utestenging.
 
 Vedtak om tap av studierett er et enkeltvedtak og kan påklages etter [kapittel 6](forskrift/2025-08-06-1713/kap6) om klage på enkeltvedtak.
 
@@ -192,7 +202,14 @@ Dersom en student ønsker å avslutte kontraktsforholdet med fagskolen skal det 
 
 ### § 3-7. Permisjon fra utdanning
 
-Studenten har rett til permisjon fra utdanningen i forbindelse med fødsel og omsorg for barn eller i forbindelse med pliktig militærtjeneste, verv i studentpolitiske eller folkevalgte organer, og andre tungtveiende årsaker som umuliggjør gjennomføring av utdanning for en periode.søknad om permisjon sendes når behovet er oppstått.studenten skal legge ved relevant dokumentasjon fra sakkyndig instans som underbygger behovet for permisjon.ufullstendige søknader vil ikke bli behandlet før nødvending dokumentasjon er mottatt.foreldre kan gis permisjon i inntil 52 uker sammenhengende for hvert barn.permisjon innvilges normalt for en periode på inntil to semestre.studieadministrasjonen fatter vedtak om permisjon fra utdanning.
+Studenten har rett til permisjon fra utdanningen i forbindelse med fødsel og omsorg for barn eller i forbindelse med pliktig militærtjeneste, verv i studentpolitiske eller folkevalgte organer, og andre tungtveiende årsaker som umuliggjør gjennomføring av utdanning for en periode.
+
+1. søknad om permisjon sendes når behovet er oppstått.
+2. studenten skal legge ved relevant dokumentasjon fra sakkyndig instans som underbygger behovet for permisjon.
+3. ufullstendige søknader vil ikke bli behandlet før nødvending dokumentasjon er mottatt.
+4. foreldre kan gis permisjon i inntil 52 uker sammenhengende for hvert barn.
+5. permisjon innvilges normalt for en periode på inntil to semestre.
+6. studieadministrasjonen fatter vedtak om permisjon fra utdanning.
 
 Dersom studenten innvilges permisjon etter at studieavgiften er fakturert, regnes betalingen som gjeldende for den fakturerte perioden. Studieavgiften gjenopptas ved tilbakekomst til studiet og faktureres i henhold til avtalte terminer. Studenten skal ikke belastes ut over den totale studieavgiften som er fastsatt for hele utdanningsløpet.
 
@@ -206,13 +223,23 @@ En student som på grunn av funksjonsnedsettelse, helsetilstand eller særskilte
 
 Retten gjelder tilrettelegging som ikke fører til en reduksjon av de faglige kravene som stilles i utdanningen og ikke innebærer en uforholdsmessig byrde for fagskolen.
 
-En student som av medisinske eller andre årsaker mener seg berettiget til utvidet tid ved gjennomføring av eksamen, og/eller har behov for spesielle hjelpemidler/hjelpetiltak, må søke om dette.søknad om tilrettelegging ved permanente behov må sendes innen gjeldene frister.ved akutte skader eller sykdommer sendes søknad uten opphold etter at behovet er oppstått.søknaden må dokumenteres med legeerklæring eller annen relevant sakkyndig.studieadministrasjonen fatter vedtak om individuell tilrettelegging.
+En student som av medisinske eller andre årsaker mener seg berettiget til utvidet tid ved gjennomføring av eksamen, og/eller har behov for spesielle hjelpemidler/hjelpetiltak, må søke om dette.
+
+1. søknad om tilrettelegging ved permanente behov må sendes innen gjeldene frister.
+2. ved akutte skader eller sykdommer sendes søknad uten opphold etter at behovet er oppstått.
+3. søknaden må dokumenteres med legeerklæring eller annen relevant sakkyndig.
+4. studieadministrasjonen fatter vedtak om individuell tilrettelegging.
 
 Vedtak om individuell tilrettelegging er et enkeltvedtak og kan påklages etter [kapittel 6](forskrift/2025-08-06-1713/kap6) om klage på enkeltvedtak.
 
 ### § 3-9. Tilrettelegging av eksamen
 
-Student som dokumenterer sykdom i løpet av de to siste ukene før eksamensinnleveringsfrist, kan innvilges tilsvarende forlengelse i frist for innleveringen av eksamen.dokumentert søknad om forlenget innleveringsfrist sendes uten opphold når behovet er oppstått.det gis ikke forlengelse utover 2 uker.dersom studenten ikke leverer innen ny utsatt frist gjelder bestemmelsene for kontinuasjonseksamen eller utsatt eksamen.studieadministrasjonen fatter vedtak om tilrettelegging av eksamen etter innstilling fra utdanningsleder.
+Student som dokumenterer sykdom i løpet av de to siste ukene før eksamensinnleveringsfrist, kan innvilges tilsvarende forlengelse i frist for innleveringen av eksamen.
+
+1. dokumentert søknad om forlenget innleveringsfrist sendes uten opphold når behovet er oppstått.
+2. det gis ikke forlengelse utover 2 uker.
+3. dersom studenten ikke leverer innen ny utsatt frist gjelder bestemmelsene for kontinuasjonseksamen eller utsatt eksamen.
+4. studieadministrasjonen fatter vedtak om tilrettelegging av eksamen etter innstilling fra utdanningsleder.
 
 Vedtak om tilrettelegging av eksamen er et enkeltvedtak og kan påklages etter [kapittel 6](forskrift/2025-08-06-1713/kap6) om klage på enkeltvedtak.
 
@@ -222,7 +249,11 @@ En student kan søke om å få godskrevet tidligere bestått akkreditert fagskol
 
 En student kan søke om å få fritak for deler av utdanningen. Fritaket gis på grunnlag av dokumentert oppnådd likeverdig realkompetanse som er oppnådd på andre måter enn gjennom akkreditert fagskoleutdanning.
 
-Søknad om godskriving eller fritak må inneholde nødvendig dokumentasjon som studenten ønsker godskrevet eller fritatt innen gjeldende frister.utdanningsleder ved det aktuelle utdanningstilbudet foretar en faglig vurdering av innsendt dokumentasjon.utgangspunktet for vurderinger om godskriving og fritak er læringsutbyttet for den aktuelle utdanningen eller det aktuelle emnet, studiepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning. Dersom utdanningen eller emnet ikke inneholder læringsutbyttebeskrivelser, må studenten dokumentere læringsutbyttet ved tilgjengeliggjøring av studieplan.studieadministrasjonen fatter vedtak om godskriving eller fritak etter innstilling fra utdanningsleder.
+Søknad om godskriving eller fritak må inneholde nødvendig dokumentasjon som studenten ønsker godskrevet eller fritatt innen gjeldende frister.
+
+1. utdanningsleder ved det aktuelle utdanningstilbudet foretar en faglig vurdering av innsendt dokumentasjon.
+2. utgangspunktet for vurderinger om godskriving og fritak er læringsutbyttet for den aktuelle utdanningen eller det aktuelle emnet, studiepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning. Dersom utdanningen eller emnet ikke inneholder læringsutbyttebeskrivelser, må studenten dokumentere læringsutbyttet ved tilgjengeliggjøring av studieplan.
+3. studieadministrasjonen fatter vedtak om godskriving eller fritak etter innstilling fra utdanningsleder.
 
 Vedtak om godskriving eller fritak er et enkeltvedtak og kan påklages etter [kapittel 6](forskrift/2025-08-06-1713/kap6) om klage på enkeltvedtak.
 
@@ -290,7 +321,10 @@ Obligatorisk aktivitet er definert til å regulere adgang til eksamen i emnet. A
 
 Obligatorisk aktivitet kan gjennomføres i gruppe, men bedømmelsen skal være individuell. Aktiviteten må være formativ og kan ikke telle med i bedømmelse av en eksamen.
 
-Obligatorisk aktivitet må være vurdert som «godkjent» eller «ikke godkjent» innen eksamen skal avholdes eller leveres. I fagskolen deles obligatorisk aktivitet inn i to kategorier:obligatorisk deltagelse fastsetter et oppmøtekrav i emnebeskrivelsen som er absolutt og som må godkjennes for å få adgang til eksamen.obligatorisk arbeidskrav fastsetter et arbeidskrav i emnebeskrivelsen som innehar én eller flere aktiviteter som samlet sett må godkjennes for å få adgang til eksamen.
+Obligatorisk aktivitet må være vurdert som «godkjent» eller «ikke godkjent» innen eksamen skal avholdes eller leveres. I fagskolen deles obligatorisk aktivitet inn i to kategorier:
+
+1. obligatorisk deltagelse fastsetter et oppmøtekrav i emnebeskrivelsen som er absolutt og som må godkjennes for å få adgang til eksamen.
+2. obligatorisk arbeidskrav fastsetter et arbeidskrav i emnebeskrivelsen som innehar én eller flere aktiviteter som samlet sett må godkjennes for å få adgang til eksamen.
 
 En student med vektig grunn kan tilbys alternativ obligatorisk aktivitet, dersom dette er angitt som en mulighet i emnebeskrivelsen og det er faglig mulig innenfor tidsrammen for ordinær gjennomføring. Målet er å dokumentere tilsvarende læringsutbytte.
 
@@ -318,17 +352,30 @@ Dersom studenten ikke har fått bestått resultat på obligatorisk aktivitet ell
 
 Studenten har rett til to muligheter for gjennomføring av obligatorisk aktivitet ved gjentak dersom den ikke blir godkjent, med mindre annet er oppgitt i studieplan.
 
-Forsøk på obligatorisk aktivitet regnes som tellende når det er registrert som:«godkjent».«ikke godkjent» uavhengig av årsak.«annullert» grunnet falske vitnemål eller annen uskikket opptreden.
+Forsøk på obligatorisk aktivitet regnes som tellende når det er registrert som:
+
+1. «godkjent».
+2. «ikke godkjent» uavhengig av årsak.
+3. «annullert» grunnet falske vitnemål eller annen uskikket opptreden.
 
 Studenten har rett til å fremstille seg til eksamen i samme emne inntil tre ganger. Ved dokumentert gyldig fravær, regnes eksamensforsøket ikke som brukt. Fagskolen kan i særlige tilfeller innvilge et fjerde eksamensforsøk etter skriftlig søknad fra studenten.
 
-Forsøk på eksamen regnes som tellende når det er registrert som:«A–F».«bestått» eller «ikke bestått».«ikke møtt» grunnet manglende oppmøte eller leveranse, eller trukket seg under gjennomføring.«annullert» grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden.
+Forsøk på eksamen regnes som tellende når det er registrert som:
+
+1. «A–F».
+2. «bestått» eller «ikke bestått».
+3. «ikke møtt» grunnet manglende oppmøte eller leveranse, eller trukket seg under gjennomføring.
+4. «annullert» grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden.
 
 En student som ikke får godkjent obligatorisk aktivitet eller ikke består eksamen innen antall tillatte forsøk, mister studieretten til emnet.
 
 ### § 4-9. Eksamensrett
 
-Eksamensrett gis studenten som oppfyller alle vilkårene nedenfor:student har studierett.student har vurderingsmelding i emnet.student har, der det er aktuelt, godkjent alle obligatoriske aktiviteter i emnet.
+Eksamensrett gis studenten som oppfyller alle vilkårene nedenfor:
+
+1. student har studierett.
+2. student har vurderingsmelding i emnet.
+3. student har, der det er aktuelt, godkjent alle obligatoriske aktiviteter i emnet.
 
 Innhold, form og vurderingskriterier for obligatorisk aktiviteter skal kunngjøres for studenten ved oppstart av emnet.
 
@@ -338,7 +385,12 @@ En komplett eksamensoppgavetekst skal fremlegges skriftlig for studenten ved opp
 
 Kontinuasjonseksamen er en ny eksamen som gis studenter som har strøket, har et ugyldig resultat eller har ønske om å forberede karakter. Det påløper et gebyr for kontinuasjonseksamen i henhold til gjeldende satser.
 
-Utsatt eksamen er en ny kostnadsfri eksamen som gis studenter som har gyldig fravær ved eksamen. Dekker dokumentasjon eksamensdagen(e) gis gyldig fravær ved:legeerklæring der det stadfestes at studenten ikke kunne fremstille seg til eksamen på grunn av sykdomplutselig alvorlig sykdom eller dødsfall i nær familieuforutsett ulykke eller akutt krisesituasjoninnkalling til pliktig oppmøte, som rettssak eller militærtjeneste.
+Utsatt eksamen er en ny kostnadsfri eksamen som gis studenter som har gyldig fravær ved eksamen. Dekker dokumentasjon eksamensdagen(e) gis gyldig fravær ved:
+
+1. legeerklæring der det stadfestes at studenten ikke kunne fremstille seg til eksamen på grunn av sykdom
+2. plutselig alvorlig sykdom eller dødsfall i nær familie
+3. uforutsett ulykke eller akutt krisesituasjon
+4. innkalling til pliktig oppmøte, som rettssak eller militærtjeneste.
 
 Dokumentasjon må leveres til studieadministrasjonen senest innen én uke etter eksamensdato.
 
@@ -378,7 +430,16 @@ Fusk omfatter handlinger eller forhold som tar sikte på å gi en student, eller
 
 Forsøk på fusk foreligger når en student forsettlig eller grovt uaktsomt handler i strid med fagskolens forskrift eller retningslinjer for eksamen, der prestasjonen vurderes med bokstavkarakter «A–F» eller «bestått» «ikke bestått». Dette innebærer at handlingen var tilsiktet eller klart klanderverdig.
 
-Listen er ikke uttømmende. Eksempler på fusk er:tilgjengelige eller bruk av ikke-tillatte hjelpemidler under eksamenå få andre eller «hjelpere» til å utføre oppgaver på egne vegnepresentere andres tekster, ideer eller arbeid som sitt eget uten å oppgi korrekt kildeulovlig bruk av innhold skapt av kunstig intelligensgjenbruk av eget arbeid (selvplagiering) som tidligere har gitt uttelling i et bestått resultat uten kildehenvisninggjenbruk av materiale fra medstudenter uten kildehenvisningforfalskning eller fabrikkering av datasamarbeid med andre der dette ikke er tillatt.
+Listen er ikke uttømmende. Eksempler på fusk er:
+
+1. tilgjengelige eller bruk av ikke-tillatte hjelpemidler under eksamen
+2. å få andre eller «hjelpere» til å utføre oppgaver på egne vegne
+3. presentere andres tekster, ideer eller arbeid som sitt eget uten å oppgi korrekt kilde
+4. ulovlig bruk av innhold skapt av kunstig intelligens
+5. gjenbruk av eget arbeid (selvplagiering) som tidligere har gitt uttelling i et bestått resultat uten kildehenvisning
+6. gjenbruk av materiale fra medstudenter uten kildehenvisning
+7. forfalskning eller fabrikkering av data
+8. samarbeid med andre der dette ikke er tillatt.
 
 ### § 5-1-1. Plagiatkontroll
 
@@ -440,7 +501,12 @@ Fagskolens lokale klagenemnd kan med minst to tredels flertall fatte vedtak om b
 
 ### § 5-4-3. Utestenging
 
-Fagskolens lokale klagenemnd kan med minst to tredels flertall fatte vedtak om utestenging fra all utdanning ved fagskolen i inntil ett år dersom:en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med eksamensgjennomføring.en student med forsett har medvirket til fusk.en student har benyttet et falskt vitnemål, andre falske dokumenter eller dokumenter utstedt av falsk institusjon eller på andre måter har handlet uredelig.en student, til tross for en skriftlig advarsel ikke retter seg etter vedtak om bortvisning.
+Fagskolens lokale klagenemnd kan med minst to tredels flertall fatte vedtak om utestenging fra all utdanning ved fagskolen i inntil ett år dersom:
+
+1. en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med eksamensgjennomføring.
+2. en student med forsett har medvirket til fusk.
+3. en student har benyttet et falskt vitnemål, andre falske dokumenter eller dokumenter utstedt av falsk institusjon eller på andre måter har handlet uredelig.
+4. en student, til tross for en skriftlig advarsel ikke retter seg etter vedtak om bortvisning.
 
 Utestenging innebærer at studenten mister retten til å delta i eksamen og andre aktiviteter ved fagskolen for en angitt periode. Utestengning benyttes som sanksjon ved alvorlige eller gjentatte brudd på fagskolens regelverk.
 

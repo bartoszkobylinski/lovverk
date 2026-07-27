@@ -15,7 +15,7 @@ xml_hash: "44e109c9b0fd0492ad7a1382147962901f2d1801fa078d30e4ea6ed5096fa1c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,11 +32,18 @@ Denne forskriften gir hjemmelsgrunnlag for et landsomfattende avidentifisert reg
 
 ### § 1-2. Definisjoner
 
-I forskriften forstås med:*avidentifiserte helseopplysninger:* helseopplysninger der navn, fødselsnummer og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson, og hvor identitet bare kan tilbakeføres ved sammenstilling med de samme opplysninger som tidligere er fjernet,*anonyme helseopplysninger:* opplysninger der navn, fødselsnummer og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson.
+I forskriften forstås med:
+
+1. *avidentifiserte helseopplysninger:* helseopplysninger der navn, fødselsnummer og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson, og hvor identitet bare kan tilbakeføres ved sammenstilling med de samme opplysninger som tidligere er fjernet,
+2. *anonyme helseopplysninger:* opplysninger der navn, fødselsnummer og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson.
 
 ### § 1-3. Abortregisterets formål
 
-Formålet med Abortregisteret er å samle inn og behandle opplysninger tilknyttet krav om abort for å:gi grunnlag for utarbeidelse av statistikk om praktisering av [lov om abort](lov/2024-12-20-96),bidra til å evaluere tiltak mot uønskede svangerskap og abort,bidra til god ressursutnyttelse og kvalitet i behandlingen av kvinners reproduktive helse.
+Formålet med Abortregisteret er å samle inn og behandle opplysninger tilknyttet krav om abort for å:
+
+1. gi grunnlag for utarbeidelse av statistikk om praktisering av [lov om abort](lov/2024-12-20-96),
+2. bidra til å evaluere tiltak mot uønskede svangerskap og abort,
+3. bidra til god ressursutnyttelse og kvalitet i behandlingen av kvinners reproduktive helse.
 
 Opplysninger i Abortregisteret kan foruten til formål som nevnt i første ledd, behandles og brukes til styring, planlegging og kvalitetssikring av helse- og omsorgstjenesten og helseforvaltning, utarbeiding av statistikk og forskning.
 
@@ -62,7 +69,32 @@ Folkehelseinstituttet kan inngå skriftlig avtale med en databehandler om innsam
 
 Abortregisteret inneholder opplysninger fra sykehus, offentlige og private helseinstitusjoner, og andre virksomheter som utfører abort eller nemndbehandling etter [abortloven](lov/2024-12-20-96).
 
-Abortregisteret kan uten samtykke fra den registrerte inneholde følgende opplysninger i den utstrekning det er relevant og nødvendig for å oppnå formålet med registeret:avidentifiserte personopplysninger;fødselsdato,bostedskommune,sivilstatus ogarbeid/skolegang,administrative opplysninger;navn og organisasjonsnummer på virksomhet etter [§ 1-7 første ledd](forskrift/2007-12-14-1418/§1-7/ledd/1) hvor krav om abort er behandlet,saksnummer,dato for krav,journalopptaksdato,tilbud om individuell og tilpasset informasjon og veiledning, jf. [abortloven §§ 6](lov/2024-12-20-96/§6) og [23](lov/2024-12-20-96/§23), ogom informasjon om aborten og mulige komplikasjoner er gitt kvinnen, jf. [abortloven §§ 6](lov/2024-12-20-96/§6) og [23](lov/2024-12-20-96/§23),hvem kravet er fremsatt av etter [abortloven §§ 7](lov/2024-12-20-96/§7), [8](lov/2024-12-20-96/§8) eller [9](lov/2024-12-20-96/§9),medisinske opplysninger;tidligere svangerskap,svangerskapets lengde og andre opplysninger om svangerskapets varighet,tidligere sykdommer/sykdomshistorie ogprevensjonsbruk,opplysninger om nemndbehandling,opplysninger om fosterdiagnostikk,opplysninger om inngrep/behandling.
+Abortregisteret kan uten samtykke fra den registrerte inneholde følgende opplysninger i den utstrekning det er relevant og nødvendig for å oppnå formålet med registeret:
+
+1. avidentifiserte personopplysninger;
+
+   1. fødselsdato,
+   2. bostedskommune,
+   3. sivilstatus og
+   4. arbeid/skolegang,
+2. administrative opplysninger;
+
+   1. navn og organisasjonsnummer på virksomhet etter [§ 1-7 første ledd](forskrift/2007-12-14-1418/§1-7/ledd/1) hvor krav om abort er behandlet,
+   2. saksnummer,
+   3. dato for krav,
+   4. journalopptaksdato,
+   5. tilbud om individuell og tilpasset informasjon og veiledning, jf. [abortloven §§ 6](lov/2024-12-20-96/§6) og [23](lov/2024-12-20-96/§23), og
+   6. om informasjon om aborten og mulige komplikasjoner er gitt kvinnen, jf. [abortloven §§ 6](lov/2024-12-20-96/§6) og [23](lov/2024-12-20-96/§23),
+3. hvem kravet er fremsatt av etter [abortloven §§ 7](lov/2024-12-20-96/§7), [8](lov/2024-12-20-96/§8) eller [9](lov/2024-12-20-96/§9),
+4. medisinske opplysninger;
+
+   1. tidligere svangerskap,
+   2. svangerskapets lengde og andre opplysninger om svangerskapets varighet,
+   3. tidligere sykdommer/sykdomshistorie og
+   4. prevensjonsbruk,
+5. opplysninger om nemndbehandling,
+6. opplysninger om fosterdiagnostikk,
+7. opplysninger om inngrep/behandling.
 
 Abortregisteret kan, hvis kvinnen ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Abortregisteret, inneholde opplysninger om kvinnens røykevaner.
 
@@ -162,7 +194,16 @@ Folkehelseinstituttet skal gjennomføre tekniske og organisatoriske tiltak for �
 
 Internkontrollen innebærer at Folkehelseinstituttet skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, og ha denne dokumentasjonen tilgjengelig for dem den måtte angå.
 
-Dokumentasjonen av internkontrollen skal minst inneholdeoversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre at kravene blir overholdt,rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det systemet virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Dokumentasjonen av internkontrollen skal minst inneholde
+
+1. oversikt over hvordan virksomheten er organisert,
+2. oversikt over ansvars- og myndighetsforhold,
+3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,
+4. rutiner virksomheten følger for å sikre at kravene blir overholdt,
+5. rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det systemet virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven, og
+8. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i andre ledd nr. 1 til 8. Datatilsynet kan gi pålegg om skriftlig dokumentasjon ut over dette, dersom det anses påkrevd.
 
@@ -294,7 +335,12 @@ Helsepersonell skal informere den registrerte om innsending av opplysninger til 
 
 ### Til § 4-2 Informasjonssikkerhet
 
-Bestemmelsen pålegger Nasjonalt folkehelseinstitutt å sørge for tilfredsstillende informasjonssikkerhet ved behandling av helseopplysninger. Dette omfatter blant annet et ansvar for at tilstrekkelig sikkerhetsfaglig kompetanse er tilgjengelig. I tillegg til ansvar for sikkerheten i egen organisasjon, må Nasjonalt folkehelseinstitutt også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører. Begrepet informasjonssikkerhet omfatter blant annet:sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes, jf. blant annet [helseregisterloven § 13](lov/2014-06-20-43/§13),sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,sikring av tilgjengelighet, dvs. å sørge for at tilstrekkelige og relevante opplysninger er til stede,sikring av kvalitet, dvs. å sørge for at opplysningene er riktige.
+Bestemmelsen pålegger Nasjonalt folkehelseinstitutt å sørge for tilfredsstillende informasjonssikkerhet ved behandling av helseopplysninger. Dette omfatter blant annet et ansvar for at tilstrekkelig sikkerhetsfaglig kompetanse er tilgjengelig. I tillegg til ansvar for sikkerheten i egen organisasjon, må Nasjonalt folkehelseinstitutt også forsikre seg om at informasjonssikkerheten er tilfredsstillende hos kommunikasjonspartnere og leverandører. Begrepet informasjonssikkerhet omfatter blant annet:
+
+- sikring av konfidensialitet, dvs. beskyttelse mot at uvedkommende får innsyn i opplysningene, herunder sikkerhet for at reglene om taushetsplikt overholdes, jf. blant annet [helseregisterloven § 13](lov/2014-06-20-43/§13),
+- sikring av integritet, dvs. beskyttelse mot utilsiktet endring av opplysningene,
+- sikring av tilgjengelighet, dvs. å sørge for at tilstrekkelige og relevante opplysninger er til stede,
+- sikring av kvalitet, dvs. å sørge for at opplysningene er riktige.
 
 Tilfredsstillende informasjonssikkerhet skal oppnås ved hjelp av planlagte og systematiske tiltak. Dette innebærer at anerkjente teknikker og standarder for kvalitetsstyring, internkontroll og informasjonssikkerhet skal legges til grunn ved sikkerhetsarbeidet. De tiltak som etableres, skal være både organisatoriske og tekniske. Sikkerhetstiltakene og selve informasjonssystemet skal kunne dokumenteres. Personopplysningsforskriften § 2-1 til § 2-16 om informasjonssikkerhet gjelder også for Abortregisteret.
 

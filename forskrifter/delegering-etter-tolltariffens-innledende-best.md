@@ -26,4 +26,9 @@ Med virkning fra og med 31. desember 1966 bestemmes:
 
 Hvor det i den fra 31. desember 1966 gjeldende tollavgiftsbeslutning (tolltariffens innledende bestemmelser) er lagt myndighet til Kongen, overføres denne myndighet til Finans- og tolldepartementet eller den det bemyndiger.
 
-Unntatt er bemyndigelsene i henhold til følgende bestemmelser:Innledende bestemmelser § 2, pkt. 6, 2. ledd.Innledende bestemmelser § 3, pkt. 2, 4 og 5.Innledende bestemmelser § 26.Innledende bestemmelser § 28.
+Unntatt er bemyndigelsene i henhold til følgende bestemmelser:
+
+- Innledende bestemmelser § 2, pkt. 6, 2. ledd.
+- Innledende bestemmelser § 3, pkt. 2, 4 og 5.
+- Innledende bestemmelser § 26.
+- Innledende bestemmelser § 28.

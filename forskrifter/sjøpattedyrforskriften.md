@@ -36,7 +36,13 @@ Forskriften omfatter ikke kjøtt og spekk fra kystsel som stammer fra ikke-komme
 
 ## § 3. Definisjoner
 
-I denne forskrift forstås med:*sjøpattedyr:* vannlevende pattedyr av ulike arter av hval og sel*hvalkjøtt:* alle spiselige deler av hval, herunder spekk og andre produkter som skal omsettes til menneskemat*selkjøtt:* alle spiselige deler av sel, herunder spekk og andre produkter som skal omsettes til menneskemat*produksjon:* all håndtering på fartøy og landbasert virksomhet, herunder slaktebehandling, frysing, mottak, nedskjæring og emballering mv. av kjøtt fra sjøpattedyr*hygieneansvarlig:* person med kunnskap om sjøpattedyrs anatomi, fysiologi, atferd, relevante sykdomsforandringer samt internkontrollsystemet om bord, som skal sikre at produksjonen skjer på en hygienisk betryggende måte.
+I denne forskrift forstås med:
+
+1. *sjøpattedyr:* vannlevende pattedyr av ulike arter av hval og sel
+2. *hvalkjøtt:* alle spiselige deler av hval, herunder spekk og andre produkter som skal omsettes til menneskemat
+3. *selkjøtt:* alle spiselige deler av sel, herunder spekk og andre produkter som skal omsettes til menneskemat
+4. *produksjon:* all håndtering på fartøy og landbasert virksomhet, herunder slaktebehandling, frysing, mottak, nedskjæring og emballering mv. av kjøtt fra sjøpattedyr
+5. *hygieneansvarlig:* person med kunnskap om sjøpattedyrs anatomi, fysiologi, atferd, relevante sykdomsforandringer samt internkontrollsystemet om bord, som skal sikre at produksjonen skjer på en hygienisk betryggende måte.
 
 ## § 4. Hygienekrav ved produksjon av næringsmidler fra sjøpattedyr
 
@@ -70,7 +76,11 @@ Mottakssted skal senest 14 dager før fangstsesongen tar til melde fra til Matti
 
 Mottakssted og virksomhet med produksjon av kjøtt fra sjøpattedyr skal etter mottak merke emballasjen med et identifikasjonsmerke. Identifikasjonsmerket skal plasseres slik at merket ødelegges ved åpning av emballasjen.
 
-Identifikasjonsmerket for kjøtt fra sjøpattedyr skal være kvadratisk med 5 cm lange sider. Bokstavene skal være minst 0,8 cm høye og tallene minst 1,0 cm høye. Identifikasjonsmerket skal inneholde følgende informasjon:Øverst i firkanten skal «NORGE» angis med store bokstaver.I midten skal virksomhetens godkjenningsnummer framgå.Nederst i firkanten skal «N» angis med stor bokstav.
+Identifikasjonsmerket for kjøtt fra sjøpattedyr skal være kvadratisk med 5 cm lange sider. Bokstavene skal være minst 0,8 cm høye og tallene minst 1,0 cm høye. Identifikasjonsmerket skal inneholde følgende informasjon:
+
+1. Øverst i firkanten skal «NORGE» angis med store bokstaver.
+2. I midten skal virksomhetens godkjenningsnummer framgå.
+3. Nederst i firkanten skal «N» angis med stor bokstav.
 
 Kravet til størrelsen på identifikasjonsmerket kan fravikes ved merking av forbrukerpakning.
 

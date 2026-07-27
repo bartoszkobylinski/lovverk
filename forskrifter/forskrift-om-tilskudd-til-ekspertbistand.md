@@ -32,7 +32,12 @@ Ekspertbistand kan gis til en arbeidsgiver i enkeltsaker der en arbeidstaker har
 
 ## § 3. Innhold
 
-Eksperten skal komme inn og se på situasjonen og prøve å forstå bakgrunnen for sykefraværet. Innholdet i bistanden kan bl.a. være åbistå arbeidstaker og arbeidsgiver i en uhensiktsmessig arbeidssituasjon som kan medføre sykefravær, med å se nye muligheter,gjennomføre en arbeidsplassvurdering,bistå i saker hvor det kan ligge en konflikt eller opplevelse av konflikt til grunn,bistå når arbeidstaker og arbeidsgiver er rådville, og ikke vet hva mer som kan gjøres.
+Eksperten skal komme inn og se på situasjonen og prøve å forstå bakgrunnen for sykefraværet. Innholdet i bistanden kan bl.a. være å
+
+- bistå arbeidstaker og arbeidsgiver i en uhensiktsmessig arbeidssituasjon som kan medføre sykefravær, med å se nye muligheter,
+- gjennomføre en arbeidsplassvurdering,
+- bistå i saker hvor det kan ligge en konflikt eller opplevelse av konflikt til grunn,
+- bistå når arbeidstaker og arbeidsgiver er rådville, og ikke vet hva mer som kan gjøres.
 
 Eksperten skal avgi en rapport som beskriver årsaken til sykefraværet, og foreslå tiltak for tilbakeføring til samme arbeid eller til annet arbeid hos samme, eller annen, arbeidsgiver. Opplysninger som eksperten, arbeidsgiver, arbeidstaker og Arbeids- og velferdsetaten blir kjent med i forbindelse med ekspertbistanden, må behandles fortrolig også når opplysningene ikke omfattes av lovbestemte taushetsplikt. Plikten til fortrolighet er ikke tidsbegrenset.
 
@@ -40,7 +45,14 @@ Eksperten skal avgi en rapport som beskriver årsaken til sykefraværet, og fore
 
 Det er et vilkår for å kunne få tilskudd til ekspertbistand at bedriftsinterne tiltak og relevante offentlige støtteordninger er utprøvd eller vurdert. Arbeidsgiveren, Arbeids- og velferdsetaten og den enkelte arbeidstakeren må være enige om at det er hensiktsmessig med ekstern ekspertbistand.
 
-Tilskuddet til ekspertbistand kan ikke ytes til:tilrettelegging eller hjelpemidler som kan dekkes etter [folketrygdloven § 10-5](lov/1997-02-28-19/§10-5), jf. [§ 10-7](lov/1997-02-28-19/§10-7),lese- og sekretærhjelp for blinde og svaksynte og tolkehjelp for hørselshemmede, jf. [folketrygdloven § 10-7](lov/1997-02-28-19/§10-7),bruk av bedriftshelsetjeneste, jf. [arbeidsmiljøloven § 3-3](lov/2005-06-17-62/§3-3),helsetjenester fra spesialisthelsetjenesten og kommunehelsetjenesten,arbeidsmarkedstiltak, ellerbistand fra Arbeids- og velferdsetaten.
+Tilskuddet til ekspertbistand kan ikke ytes til:
+
+- tilrettelegging eller hjelpemidler som kan dekkes etter [folketrygdloven § 10-5](lov/1997-02-28-19/§10-5), jf. [§ 10-7](lov/1997-02-28-19/§10-7),
+- lese- og sekretærhjelp for blinde og svaksynte og tolkehjelp for hørselshemmede, jf. [folketrygdloven § 10-7](lov/1997-02-28-19/§10-7),
+- bruk av bedriftshelsetjeneste, jf. [arbeidsmiljøloven § 3-3](lov/2005-06-17-62/§3-3),
+- helsetjenester fra spesialisthelsetjenesten og kommunehelsetjenesten,
+- arbeidsmarkedstiltak, eller
+- bistand fra Arbeids- og velferdsetaten.
 
 ## § 5. Tilskudd
 

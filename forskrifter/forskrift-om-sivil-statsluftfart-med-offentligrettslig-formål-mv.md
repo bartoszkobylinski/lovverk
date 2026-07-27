@@ -50,7 +50,15 @@ Luftfartstilsynet kan gi godkjenning dersom virksomheten anses egnet for å driv
 
 Endringer i sikkerhetssystemet skal godkjennes av Luftfartstilsynet.
 
-Sikkerhetssystemet skal utarbeides etter en anerkjent standard for kvalitetssystemer. Sikkerhetssystemet skal minst omfatte:et treningskonsept for helhetlig opplæring av involvert personell, inkludert system for godkjenning av flygere,sikkerhetsbestemmelser og operative instrukser for de typer oppdrag organisasjonen kan utføre,en liste over luftfartøyer som kan benyttes til flyging etter sikkerhetssystemet,krav til vedlikehold av luftfartøy, samt krav til konstruksjon og vedlikehold av særlig utstyr som benyttes og som ikke kommer inn under krav for luftdyktighet, jf. [§ 13](forskrift/2020-05-26-1076/§13) og [§ 15](forskrift/2020-05-26-1076/§15),prosedyre for bruk av landingsplass, jf. [§ 10](forskrift/2020-05-26-1076/§10),prosedyre for rapportering og håndtering av avvik fra sikkerhetssystemet,et system som sikrer etterlevelse av sikkerhetssystemet og nødvendig etterfølgende utvikling av sikkerhetssystemet.
+Sikkerhetssystemet skal utarbeides etter en anerkjent standard for kvalitetssystemer. Sikkerhetssystemet skal minst omfatte:
+
+1. et treningskonsept for helhetlig opplæring av involvert personell, inkludert system for godkjenning av flygere,
+2. sikkerhetsbestemmelser og operative instrukser for de typer oppdrag organisasjonen kan utføre,
+3. en liste over luftfartøyer som kan benyttes til flyging etter sikkerhetssystemet,
+4. krav til vedlikehold av luftfartøy, samt krav til konstruksjon og vedlikehold av særlig utstyr som benyttes og som ikke kommer inn under krav for luftdyktighet, jf. [§ 13](forskrift/2020-05-26-1076/§13) og [§ 15](forskrift/2020-05-26-1076/§15),
+5. prosedyre for bruk av landingsplass, jf. [§ 10](forskrift/2020-05-26-1076/§10),
+6. prosedyre for rapportering og håndtering av avvik fra sikkerhetssystemet,
+7. et system som sikrer etterlevelse av sikkerhetssystemet og nødvendig etterfølgende utvikling av sikkerhetssystemet.
 
 ## § 5. Driftstillatelse for foretak som driver statsluftfart
 
@@ -90,7 +98,10 @@ Foretak med driftstillatelse skal ha prosedyre for bruk av landingsplass etter d
 
 ## § 11. Utstyrskrav
 
-Helikopter over 3 175 kg (MCTOM) som brukes til sivil statsluftfart av foretak med driftstillatelse skal være utstyrt med:airborne collision avoidance system klasse II (ACAS II) versjon 7.1 eller bedre, oghelicopter terrain awareness warning system (HTAWS).
+Helikopter over 3 175 kg (MCTOM) som brukes til sivil statsluftfart av foretak med driftstillatelse skal være utstyrt med:
+
+1. airborne collision avoidance system klasse II (ACAS II) versjon 7.1 eller bedre, og
+2. helicopter terrain awareness warning system (HTAWS).
 
 Bestemmelsens første ledd gjelder ikke for helikoptre som benyttes til brannbekjemping.
 

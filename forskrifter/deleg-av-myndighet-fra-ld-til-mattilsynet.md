@@ -26,6 +26,14 @@ Departementets myndighet etter [lov av 20. desember 1974 nr. 73](lov/1974-12-20-
 
 Departementets myndighet etter [lov av 20. desember 1974 nr. 73](lov/1974-12-20-73) om dyrevern [§ 24](lov/1974-12-20-73/§24) første ledd delegeres til Mattilsynet.
 
-Mattilsynet får fullmakt til å fatte enkeltvedtak etter følgende bestemmelser i [lov av 20. desember 1974 nr. 73](lov/1974-12-20-73) om dyrevern:§ 15; unntak fra forbudet mot fremvisning av dyr,§ 20; nektelse av bruk av levende dyr i undervisning,§ 22; klagebehandling for vedtak fattet av forsøksdyrutvalget og§ 29; stadfeste kommunale vedtekter om forbud mot piggtråd i gjerde.
+Mattilsynet får fullmakt til å fatte enkeltvedtak etter følgende bestemmelser i [lov av 20. desember 1974 nr. 73](lov/1974-12-20-73) om dyrevern:
+
+§ 15; unntak fra forbudet mot fremvisning av dyr,
+
+§ 20; nektelse av bruk av levende dyr i undervisning,
+
+§ 22; klagebehandling for vedtak fattet av forsøksdyrutvalget og
+
+§ 29; stadfeste kommunale vedtekter om forbud mot piggtråd i gjerde.
 
 Delegeringen trer i kraft straks.

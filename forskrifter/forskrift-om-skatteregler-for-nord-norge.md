@@ -48,7 +48,10 @@ Det skal stilles sikkerhet for mulige skatter til stat og kommune vedkommende be
 
 ## § 6.
 
-Fradrag i inntekten for avsetning etter [lovens § 1](forskrift/1954-10-15-9888/§1), ledd 1, første punktum, skal nektes med mindre kravet om fradrag er ledsaget avbevitnelse fra bank eller sparebank for at det til sikkerhet for skatter på særskilt konto som bare kan disponeres med samtykke av vedkommende ligningssjef er innsatt et beløp som svarer til 50 % av avsetningen, ellerubetinget og ikke tidsbegrenset bankgaranti (selvskyldnergaranti) for et beløp som svarer til 50 % av avsetningen.
+Fradrag i inntekten for avsetning etter [lovens § 1](forskrift/1954-10-15-9888/§1), ledd 1, første punktum, skal nektes med mindre kravet om fradrag er ledsaget av
+
+1. bevitnelse fra bank eller sparebank for at det til sikkerhet for skatter på særskilt konto som bare kan disponeres med samtykke av vedkommende ligningssjef er innsatt et beløp som svarer til 50 % av avsetningen, eller
+2. ubetinget og ikke tidsbegrenset bankgaranti (selvskyldnergaranti) for et beløp som svarer til 50 % av avsetningen.
 
 Når det gis samtykke til avsetning i henhold til [lovens § 1](forskrift/1954-10-15-9888/§1), ledd 1, annet punktum, skal vedkommende departement fastsette det beløp det skal stilles sikkerhet for. Departementet kan også i slike tilfelle godta også annen sikkerhet enn nevnt ovenfor.
 

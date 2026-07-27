@@ -38,7 +38,14 @@ Fondet ledes av et styre på 6 medlemmer, som oppnevnes av Fiskeridepartementet.
 
 Oppnevningen gjelder for 3 år om gangen.
 
-Styrets sammensetning skal være:1 representant fra Fiskeridepartementet1 representant fra Fiskeridirektoratet1 representant fra Fiskeridirektoratets havforskningsinstitutt1 representant fra Fiskeridirektoratets havforskningsinstitutt1 representant fra Fiskeriteknologisk Forskningsinstitutt2 representanter fra Norges Fiskarlag.
+Styrets sammensetning skal være:
+
+- 1 representant fra Fiskeridepartementet
+- 1 representant fra Fiskeridirektoratet
+- 1 representant fra Fiskeridirektoratets havforskningsinstitutt
+- 1 representant fra Fiskeridirektoratets havforskningsinstitutt
+- 1 representant fra Fiskeriteknologisk Forskningsinstitutt
+- 2 representanter fra Norges Fiskarlag.
 
 ## § 4.
 

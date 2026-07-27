@@ -35,7 +35,12 @@ Denne forskriften gjelder for innkreving av sektoravgift og for tilsyn med ressu
 
 ## § 3. Tilsyn med ressursforvaltning
 
-For tilsyn med ressursforvaltning kan det kreves refusjon i følgende tilfeller:deltagelse som observatør på komitémøter i tillatelser som nevnt i [lov 29. november 1996 nr. 72 om petroleumsvirksomhet](lov/1996-11-29-72),øvrige nødvendige møter i forbindelse med tilsyn med tillatelser mv.,måleteknisk tilsyn,registrering av nye brønner.
+For tilsyn med ressursforvaltning kan det kreves refusjon i følgende tilfeller:
+
+- deltagelse som observatør på komitémøter i tillatelser som nevnt i [lov 29. november 1996 nr. 72 om petroleumsvirksomhet](lov/1996-11-29-72),
+- øvrige nødvendige møter i forbindelse med tilsyn med tillatelser mv.,
+- måleteknisk tilsyn,
+- registrering av nye brønner.
 
 Energidepartementet kan bestemme at det også i andre tilfeller skal kreves refusjon for tilsyn med ressursforvaltning.
 

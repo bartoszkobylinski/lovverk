@@ -16,7 +16,7 @@ xml_hash: "621ef88179a23ec149bf2b69ce57bd257ca1b1bf9863dab6dc6cbca554c9cd6d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -91,21 +91,43 @@ Kravet om bedøving før avliving i [dyrevelferdsloven § 12](lov/2009-06-19-97/
 
 ### § 10. Bedøving med boltpistol og skytevåpen
 
-Ved bedøving med boltpistol eller skytevåpen gjelder følgende krav i tillegg til forordning [(EF) nr. 1099/2009](eu/32009r1099) vedlegg I kapittel I tabell 1 nr. 1, 2 og 3 og [kapittel II](forskrift/2013-01-13-60/kapii) punkt 1:Pattedyr skal skytes i pannen. Sau og geit kan skytes bak hornanlegget dersom horn gjør plassering av skuddet i pannen umulig. Skuddet skal da plasseres like bak hornanlegget med retning mot munnen. Store reinbukker med gevir kan skytes i tinningen. Skuddet skal uansett plasseres slik at det gir umiddelbar bedøving, tilpasset den aktuelle dyrearten.Den som foretar bedøving med boltpistol, skal sikre at bolten er gått helt tilbake til utgangsstillingen før hvert skudd. Hvis bolten ikke lar seg føre helt tilbake, skal feilen utbedres før pistolen tas i bruk på nytt.
+Ved bedøving med boltpistol eller skytevåpen gjelder følgende krav i tillegg til forordning [(EF) nr. 1099/2009](eu/32009r1099) vedlegg I kapittel I tabell 1 nr. 1, 2 og 3 og [kapittel II](forskrift/2013-01-13-60/kapii) punkt 1:
+
+1. Pattedyr skal skytes i pannen. Sau og geit kan skytes bak hornanlegget dersom horn gjør plassering av skuddet i pannen umulig. Skuddet skal da plasseres like bak hornanlegget med retning mot munnen. Store reinbukker med gevir kan skytes i tinningen. Skuddet skal uansett plasseres slik at det gir umiddelbar bedøving, tilpasset den aktuelle dyrearten.
+2. Den som foretar bedøving med boltpistol, skal sikre at bolten er gått helt tilbake til utgangsstillingen før hvert skudd. Hvis bolten ikke lar seg føre helt tilbake, skal feilen utbedres før pistolen tas i bruk på nytt.
 
 ### § 11. Elektrisk bedøving
 
-Ved bedøving med elektrisk strøm gjelder følgende krav i tillegg til forordning [(EF) nr. 1099/2009](eu/32009r1099) vedlegg I kapittel I tabell 2, og [kapittel II](forskrift/2013-01-13-60/kapii) punktene 4, 5 og 6:Hvis dyr bedøves enkeltvis, skal det elektriske apparatet gi et lyssignal i den tiden strømmen går gjennom hjernen på dyret.Strømstyrken mellom elektroder skal minst være 2,5 ampere for storfe eldre enn seks måneder, og 0,3 ampere for kaniner.Den korrekte strømstyrken skal oppnås så raskt som mulig og innen ½ sekund etter påsetting av elektrodene, og opprettholdes i minst 3 sekunder.Det skal gjennomføres målinger som viser hvilken strømstyrke det enkelte dyr eksponeres for når det er behov for dette, men minimum 2 ganger i året og ved endring av bedøvelsesutstyret på slaktelinjen.
+Ved bedøving med elektrisk strøm gjelder følgende krav i tillegg til forordning [(EF) nr. 1099/2009](eu/32009r1099) vedlegg I kapittel I tabell 2, og [kapittel II](forskrift/2013-01-13-60/kapii) punktene 4, 5 og 6:
+
+1. Hvis dyr bedøves enkeltvis, skal det elektriske apparatet gi et lyssignal i den tiden strømmen går gjennom hjernen på dyret.
+2. Strømstyrken mellom elektroder skal minst være 2,5 ampere for storfe eldre enn seks måneder, og 0,3 ampere for kaniner.
+3. Den korrekte strømstyrken skal oppnås så raskt som mulig og innen ½ sekund etter påsetting av elektrodene, og opprettholdes i minst 3 sekunder.
+4. Det skal gjennomføres målinger som viser hvilken strømstyrke det enkelte dyr eksponeres for når det er behov for dette, men minimum 2 ganger i året og ved endring av bedøvelsesutstyret på slaktelinjen.
 
 Personell som under slakting kontrollerer elektrisk bedøving av fjørfe, jf. forordning [(EF) nr. 1099/2009](eu/32009r1099) artikkel 5, skal ikke samtidig ha andre arbeidsoppgaver.
 
 ### § 12. Bedøving av gris med gass
 
-Ved bedøving av gris med gass gjelder følgende krav i tillegg til forordning [(EF) nr. 1099/2009](eu/32009r1099) vedlegg I kapittel I tabell 3, punktene 7, 8 og 9 og vedlegg II punkt 6:Det skal foretas gruppevis bedøvelse, med minimum to dyr i gruppen.Når grisene er ført inn i kammeret for å bli bedøvd, skal de bedøves så raskt som mulig.Det skal være tilstrekkelig belysning slik at grisene kan se hverandre og omgivelsene til de er bedøvd.Kammeret skal være utformet slik at gassnivået er mest mulig stabilt, og være utstyrt med instrumenter som måler gasskonsentrasjonen på nivå med grisenes hoder.Ved bruk av karbondioksid til bedøving skal grisene plasseres i bokser med bunn og transporteres direkte til stedet hvor gasskonsentrasjonen er minst 80 volumprosent.Dyrene skal være i kontakt med gassen i tilstrekkelig lang tid til å sikre at de er døde eller forblir bevisstløse til de er avlivet ved avblødning.
+Ved bedøving av gris med gass gjelder følgende krav i tillegg til forordning [(EF) nr. 1099/2009](eu/32009r1099) vedlegg I kapittel I tabell 3, punktene 7, 8 og 9 og vedlegg II punkt 6:
+
+1. Det skal foretas gruppevis bedøvelse, med minimum to dyr i gruppen.
+2. Når grisene er ført inn i kammeret for å bli bedøvd, skal de bedøves så raskt som mulig.
+3. Det skal være tilstrekkelig belysning slik at grisene kan se hverandre og omgivelsene til de er bedøvd.
+4. Kammeret skal være utformet slik at gassnivået er mest mulig stabilt, og være utstyrt med instrumenter som måler gasskonsentrasjonen på nivå med grisenes hoder.
+5. Ved bruk av karbondioksid til bedøving skal grisene plasseres i bokser med bunn og transporteres direkte til stedet hvor gasskonsentrasjonen er minst 80 volumprosent.
+6. Dyrene skal være i kontakt med gassen i tilstrekkelig lang tid til å sikre at de er døde eller forblir bevisstløse til de er avlivet ved avblødning.
 
 ### § 13. Avblødning
 
-Ved avblødning av dyr gjelder følgende krav i tillegg til forordning [(EF) nr. 1099/2009](eu/32009r1099) artikkel 4 nr. 1 og vedlegg III punkt 3:Ingen dyr skal bedøves med mindre avblødning kan finne sted umiddelbart etterpå.Bedøvde dyr kan heises opp i slaktelinjen før avblødning.Avblødning skal skje så snart at dyrene ikke kommer til bevissthet etter bedøvingen.Avblødning skal foregå ved å skjære gjennom begge halspulsårer eller de hovedblodkar som disse utløper fra.Avblødning av fjørfe skal sikres ved å kappe hodet av dyrene ved hjelp av skarpt verktøy.Når fjørfe avbløs med automatisk utstyr, skal personellet som kontrollerer bedøvelsen, jf. forordning [(EF) nr. 1099/2009](eu/32009r1099) artikkel 5, sørge for at dyrene blir avlivet umiddelbart dersom det automatiske utstyret svikter. Avlivingen skal skje ved å skjære av hodet.
+Ved avblødning av dyr gjelder følgende krav i tillegg til forordning [(EF) nr. 1099/2009](eu/32009r1099) artikkel 4 nr. 1 og vedlegg III punkt 3:
+
+1. Ingen dyr skal bedøves med mindre avblødning kan finne sted umiddelbart etterpå.
+2. Bedøvde dyr kan heises opp i slaktelinjen før avblødning.
+3. Avblødning skal skje så snart at dyrene ikke kommer til bevissthet etter bedøvingen.
+4. Avblødning skal foregå ved å skjære gjennom begge halspulsårer eller de hovedblodkar som disse utløper fra.
+5. Avblødning av fjørfe skal sikres ved å kappe hodet av dyrene ved hjelp av skarpt verktøy.
+6. Når fjørfe avbløs med automatisk utstyr, skal personellet som kontrollerer bedøvelsen, jf. forordning [(EF) nr. 1099/2009](eu/32009r1099) artikkel 5, sørge for at dyrene blir avlivet umiddelbart dersom det automatiske utstyret svikter. Avlivingen skal skje ved å skjære av hodet.
 
 ## Kapittel IV. Tilleggsbestemmelser om avliving utenfor slakteri
 
@@ -213,7 +235,70 @@ under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité
 
 etter samråd med Regionkomiteen,
 
-og ut fra følgende betraktninger:Ved rådsdirektiv [93/119/EF](eu/31993l0119) av 22. desember 1993 om vern av dyr på tidspunktet for slakting eller avliving3 er det fastsatt felles minstekrav for vern av dyr på tidspunktet for slakting eller avliving i Fellesskapet. Direktivet er ikke blitt vesentlig endret siden det ble vedtatt.Avliving av dyr kan påføre dyr smerte, plage, frykt eller andre former for lidelse, selv under de best mulige tekniske forhold. Visse oppgaver i forbindelse med avliving kan være stressende og alle bedøvingsteknikker har visse ulemper. De driftsansvarlige eller alle som er involvert i avliving av dyr, bør treffe nødvendige tiltak for å unngå smerte og minimere plage og lidelse hos dyr som slaktes eller avlives, idet det tas hensyn til beste praksis på området og tillatte metoder i henhold til denne forordning. Derfor bør smerte, plage og lidelse anses som unngåelig dersom de driftsansvarlige og alle som er involvert i avliving av dyr, bryter med noen av kravene i denne forordning eller benytter tillatte metoder uten å utnytte det nåværende utviklingsstadier i teknikken og dermed uaktsomt eller forsettelig påfører dyrene smerte, plage eller lidelse.Vern av dyr på tidspunktet for slakting eller avliving har vært omfattet av fellesskapsretten siden 1974, og ble styrket vesentlig ved direktiv [93/119/EF](eu/31993l0119). Det er imidlertid fastslått store forskjeller med hensyn til medlemsstatenes gjennomføring av direktivet, og det er pekt på alvorlige dyrevelferdsproblemer og forskjeller som kan påvirke konkurranseevnen mellom de forskjellige driftsansvarlige.Dyrs velferd er en fellesskapsverdi som er nedfelt i protokollen (nr. 33) om dyrevern og dyrs velferd som er vedlagt traktaten om opprettelse av Det europeiske fellesskap (heretter kalt protokoll nr. 33). Vern av dyr på tidspunktet for slakting eller avliving er en sak av offentlig interesse som påvirker forbrukernes holdning til landbruksvarer. Dessuten bidrar bedre vern av dyr på tidspunktet for slakting til bedre kjøttkvalitet og har indirekte en positiv virkning på arbeidssikkerheten på slakterier.Nasjonal lovgivning om vern av dyr på tidspunktet for slakting eller avliving påvirker konkurransen og dermed hvordan det indre marked for produkter av animalsk opprinnelse som omfattes av vedlegg I til traktaten om opprettelse av Det europeiske fellesskap, virker. Det er nødvendig å innføre felles regler for å sikre en rasjonell utvikling av det indre marked for disse produktene.Den europeiske myndighet for næringsmiddeltrygghet (EFSA), opprettet ved europaparlaments- og europarådsforordning (EF) [nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,4 har vedtatt to uttalelser om sider ved dyrs velferd som gjelder de viktigste systemene for bedøving og avliving av visse dyrearter, nemlig en uttalelse i 2004 om sider ved dyrs velferd som gjelder de mest utbredte metodene for bedøving og avliving av de viktigste kommersielle dyreartene, og en uttalelse i 2006 om sider ved dyrs velferd som gjelder de mest utbredte metodene for bedøving og avliving av kommersielt oppdrettede dyr av hjortefamilien, geit, kanin, struts, and, gås og vaktel. Fellesskapsretten på dette området bør ajourføres for å ta hensyn til de nevnte vitenskapelige uttalelsene. Anbefalinger om å fase ut bruken av karbondioksid til avliving av gris og bruken av vannbad til bedøving av fjørfe, omfattes ikke av denne forordning fordi konsekvensanalysen viste at slike anbefalinger for øyeblikket ikke er økonomisk gjennomførbare. Det er imidlertid viktig å fortsette denne diskusjonen i framtiden. Kommisjonen bør derfor utarbeide en rapport om de forskjellige bedøvingsmetodene for fjørfe, særlig bedøving av grupper i vannbad, og framlegge den for Europaparlamentet og Rådet. Andre anbefalinger bør heller ikke være omfattet av denne forordning fordi de viser til tekniske parametrer som bør være en del av gjennomføringstiltakene eller fellesskapsretningslinjene. Anbefalinger om oppdrettsfisk omfattes ikke av denne forordning fordi det er behov for ytterligere vitenskapelige uttalelser og en økonomisk vurdering på dette området.I 2007 vedtok Verdens dyrehelseorganisasjon (OIE) helseregelverket for landdyr som omfatter retningslinjer for slakting av dyr og for avliving av dyr med henblikk på sykdomsbekjempelse. De nevnte internasjonale retningslinjene inneholder anbefalinger om håndtering, immobilisering, bedøving og avbløding av dyr på slakterier og avliving av dyr ved utbrudd av smittsomme sykdommer. Det bør i denne forordning også tas hensyn til nevnte internasjonale standarder.Etter at direktiv [93/119/EF](eu/31993l0119) ble vedtatt, har Fellesskapets regelverk innen næringsmiddeltrygghet som gjelder for slakterier, gjennomgått en gjennomgripende endring ved vedtakelsen av europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene5 og europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse.6 I nevnte forordninger understrekes de driftsansvarliges ansvar for næringsmiddeltryggheten. Slakteriene skal også gjennomgå en framgangsmåte for forhåndsgodkjenning der vedkommende myndighet undersøker konstruksjon, utforming og utstyr for å sikre at det er i samsvar med de relevante tekniske reglene om næringsmiddeltrygghet. Sider ved dyrs velferd bør integreres bedre på slakterier; i deres konstruksjon og utforming så vel som utstyr som benyttes der.Offentlige kontroller i næringsmiddelkjeden er også blitt omorganisert ved vedtakelsen av europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsen om dyrs helse og velferd overholdes7 og europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) av 29. april 2004 om fastsettelse av særlige regler for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum.8De forholdene som dyr som holdes for landbruksformål, avlives under, har en direkte eller indirekte virkning på markedet for næringsmidler, fôr eller andre produkter, og på de berørte virksomhetenes konkurranseevne. Derfor bør slik avliving omfattes av fellesskapsretten. Imidlertid kan tradisjonelle landbruksdyr som hest, esel, storfe, sau, geit eller svin også holdes for andre formål, for eksempel som kjæledyr, utstillingsdyr, dyr for arbeidsformål eller sport. Dersom avlivingen av dyr av disse artene fører til produksjon av næringsmidler eller andre produkter, bør denne virksomheten omfattes av denne forordnings virkeområde. Viltlevende eller eierløse dyr som avlives for å regulere bestanden, bør derfor ikke omfattes av denne forordnings virkeområde.Fisk og landdyr er fysiologisk sett svært ulike og slakting og avliving av oppdrettsfisk foregår under helt andre forhold, særlig når det gjelder tilsyn. Dessuten er det ikke forsket på langt nær så mye på bedøving av fisk som på bedøving av andre landbruksdyr. Det bør fastsettes særlige standarder for vern av fisk i forbindelse med avliving. Bestemmelser som får anvendelse på fisk, bør derfor for tiden begrenses til hovedprinsippene. Ytterligere initiativ fra Fellesskapets side bør bygge på en vitenskapelig risikovurdering for slakting og avliving av fisk, som foretas av EFSA, idet det tas hensyn til sosiale, økonomiske og administrative følger.Det er en etisk plikt å avlive produksjonsdyr som har store lidelser, dersom det ikke er mulig å lindre disse smertene på en økonomisk gjennomførbar måte. I de fleste tilfellene kan dyr avlives under forsvarlige velferdsforhold. Ved særlige omstendigheter, som for eksempel ved ulykker på fjerntliggende steder, der kompetent personale og utstyr ikke kan nå fram til dyrene, kan imidlertid en overholdelse av best mulige velferdsbestemmelser forlenge deres lidelser. Av hensyn til dyrene er det derfor hensiktsmessig å utelukke nødavliving fra anvendelsen av visse bestemmelser i denne forordning.Det forekommer at dyr kan være farlige for mennesker og bringe menneskeliv i fare, påføre alvorlige skader eller overføre dødelige sykdommer. Slike risikoer forebygges vanligvis ved at dyrene immobiliseres på en ordentlig måte, men det kan også under visse omstendigheter være nødvendig å avlive farlige dyr for å fjerne slike risikoer. Under slike omstendigheter er det ikke alltid mulig å avlive dyrene under best mulige velferdsforhold på grunn av nødssituasjonen. Det er derfor nødvendig å fravike plikten til å bedøve eller straks avlive dyrene i disse tilfellene.Forholdene ved avliving i forbindelse med jakt eller sportsfiske er svært forskjellige fra dem som gjelder for produksjonsdyr, og jakt er underlagt særlig lovgivning. Det er derfor mest passende å utelukke avliving i forbindelse med jakt og fiske fra denne forordningen.I protokoll nr. 33 understrekes også behovet for å overholde medlemsstatenes lover og forskrifter samt deres skikker, særlig med hensyn til religiøse ritualer, kulturelle tradisjoner og regional arv, ved utformingen og gjennomføringen av fellesskapspolitikk innen blant annet landbruk og det indre marked. Kulturarrangementer hvor overholdelse av krav til dyrevelferd vil ha en negativ virkning på selve kjernen i de berørte arrangementene, bør derfor utelukkes fra denne forordningens virkeområde.I tillegg dreier kulturelle tradisjoner seg om nedarvede, fastlagte eller sedvanlige mønstre for tenkemåte, handling eller atferd som overføres fra generasjon til generasjon. De bidrar til å fremme langvarige sosiale bånd mellom generasjonene. Forutsatt at denne virksomheten ikke påvirker markedet for produkter av animalsk opprinnelse og ikke er begrunnet i produksjonsformål, er det derfor hensiktsmessig at avliving av dyr som skjer under disse arrangementene, utelukkes fra denne forordningens virkeområde.Slakting av fjørfe, kanin og hare til forbruk i privat husholdning foregår ikke i et slikt omfang at det vil kunne påvirke konkurranseevnen til de kommersielle slakteriene. Dessuten står den innsatsen som er nødvendig for at offentlige myndigheter kan oppdage og kontrollere slik virksomhet, ikke i rimelig forhold til eventuelle problemer som må løses. Det er derfor hensiktsmessig å utelukke nevnte virksomhet fra denne forordningens virkeområde.Ved direktiv [93/119/EF](eu/31993l0119) ble det gitt unntak fra kravet til bedøving ved religiøs slakting som finner sted på slakterier. Siden fellesskapsbestemmelsene som gjelder religiøs slakting er blitt innarbeidet på forskjellig måte avhengig av nasjonal bakgrunn, og i betraktning av at det i nasjonale regler tas hensyn til forhold som går ut over formålet med denne forordning, er det viktig å opprettholde unntaket fra kravet om at dyr skal bedøves før slakting, samtidig som en viss grad av subsidaritet overlates til hver medlemsstat. Denne forordningen overholder derfor religionsfriheten og retten til å utøve sin religion eller tro gjennom gudstjeneste, undervisning, sedvaner og ritualer som omhandlet i artikkel 10 i Den europeiske unions pakt om grunnleggende rettigheter.Det finnes tilstrekkelig vitenskapelig bevis på at virveldyr er følende vesener som derfor bør omfattes av denne forordnings virkeområde. Krypdyr og amfibier er likevel ikke dyr som normalt er produksjonsdyr i Fellesskapet, og det vil derfor ikke være hensiktsmessig eller rimelig at de omfattes av forordningen.Mange avlivingsmetoder er smertefulle for dyr. Det er derfor nødvendig å bedøve dyrene slik at de mister bevissthet og følesans før eller samtidig som de avlives. Det er komplisert å måle manglende bevissthet og følesans hos et dyr, og det må bare skje med en vitenskapelig godkjent metodikk. Det bør likevel foretas overvåking ved hjelp av indikatorer for å vurdere hvor effektiv framgangsmåten er i praksis.Overvåking av hvor effektiv bedøvingen er, bygger hovedsakelig på en vurdering av dyrenes bevissthet og følesans. Et dyrs bevissthet er først og fremst dets evne til å føle og kontrollere sine frivillige bevegelser. Selv om det finnes visse unntak, som for eksempel elektroimmobilisering eller andre bevisst framkalte lammelser, kan et dyr antas å være bevisstløst når det ikke kan stå oppreist i en naturlig stilling, ikke er våkent eller ikke viser tegn på positive eller negative følelser som frykt eller opphisselse. Et dyrs følesans uttrykkes først og fremst gjennom dets evne til å føle smerte. Generelt kan et dyr antas ikke å oppfatte følelser når det ikke viser noen reflekser eller reaksjoner på stimuli som for eksempel lyd, lukt, lys eller fysisk kontakt.Nye bedøvingsmetoder utvikles stadig og tilbys på markedet som svar på nye utfordringer innen husdyrproduksjon og kjøttindustrien. Det er derfor viktig å gi Kommisjonen myndighet til å godkjenne nye bedøvingsmetoder samtidig som det sikres et ensartet og høyt nivå for dyrevelferd.Fellesskapsretningslinjer er nyttige verktøy for å gi de driftsansvarlige og vedkommende myndigheter spesifikke opplysninger om parametrene de skal benytte for å sikre et høyt vernenivå for dyrene samtidig som virksomhetene sikres like vilkår. Det er derfor nødvendig å gi Kommisjonen myndighet til å utarbeide slike retningslinjer.Avhengig av hvordan visse bedøvingsmetoder benyttes under slakting eller avliving, kan de føre til døden samtidig som smerte unngås, og med minst mulig plage og lidelse for dyret. Andre bedøvingsmetoder fører ikke nødvendigvis til døden, og dyrene kan komme til bevissthet eller få tilbake følesansen under fortsettelsen av en smertefull prosess. Slike metoder bør derfor suppleres med andre teknikker som sikrer at dyret dør før det kommer til bevissthet. Det er derfor helt avgjørende å angi hvilke bedøvingsmetoder som skal suppleres med en avlivingsmetode.Mange faktorer medvirker til at forholdene ved bedøving av dyr og resultatene av denne bedøvingen varierer i praksis. Det bør derfor foretas en regelmessig vurdering av resultatene av bedøving. Med henblikk på dette bør de driftsansvarlige fastsette en representativ prøve for å kontrollere effekten av bedøvingsmetodene, idet det tas hensyn til hvor homogen gruppen av dyr er, og andre avgjørende faktorer som for eksempel benyttet utstyr og involvert personale.Noen av bedøvingsmetodene kan dokumenteres å være tilstrekkelig pålitelige til at dyrene ugjenkallelig avlives under alle omstendigheter, dersom spesifikke nøkkelparametre er benyttet. I slike tilfeller vil behovet for å kontrollere bedøvingen virke unødvendig og urimelig. Det er derfor hensiktsmessig å gi mulighet for unntak fra plikten til kontroll av bedøvingen der det finnes tilstrekkelig vitenskapelig bevis på at en gitt bedøvingsmetode framkaller ugjenkallelig død for alle dyr under visse kommersielle forhold.Dyrs velferd er i stor grad påvirket av de daglige rutinene, og det kan bare oppnås pålitelige resultater dersom de driftsansvarlige utvikler overvåkingsverktøy for å vurdere virkningene av dem. Det bør derfor i alle ledd i produksjonen utarbeides standardiserte framgangsmåter som bør være risikobaserte. De bør omfatte tydelige mål, ansvarlige personer, virkemåte, målbare kriterier samt framgangsmåter for overvåking og registrering. Nøkkelparametrene for hver bedøvingsmetode bør defineres på en måte som sikrer tilstrekkelig bedøving av alle dyr som gjennomgår prosessen.Dyrene behandles bedre når personalet er velutdannet og faglært. Kompetanse når det gjelder dyrs velferd, innebærer kunnskap om artenes grunnleggende atferdsmønstre og behov, samt tegn på bevissthet og følesans. Det innebærer også teknisk sakkunnskap om det bedøvingsutstyret som benyttes. Personalet som utfører visse slakteoppgaver, og folk som har tilsyn med sesongbestemt avliving av pelsdyr, bør derfor ha et kompetansebevis som er relevant for de oppgavene de utfører. Et krav om kompetansebevis for annet personale som avliver dyr, ville imidlertid ikke stå i rimelig forhold til de tilsiktede målene.Personale med flere års erfaring kan forventes å ha et visst nivå av sakkunnskap. Det bør derfor i denne forordning fastsettes en overgangsbestemmelse om kravene til kompetansebeviset når det gjelder slikt personale.Bedøvingsutstyr utvikles og utformes for å være effektivt i en spesifikk sammenheng. Produsenter bør derfor gi brukerne detaljerte anvisninger om vilkårene for bruk og vedlikehold av utstyret for å sikre dyrs velferd på best mulig måte.Bedøvings- og fikseringsutstyr bør vedlikeholdes ordentlig slik at det kan fungere effektivt. Det kan være nødvendig å skifte ut visse deler på utstyr som benyttes intensivt, og selv effektiviteten av utstyr som bare benyttes av og til, kan bli forringet som en følge av korrosjon eller andre miljøfaktorer. Noe utstyr skal også kalibreres nøyaktig. De driftsansvarlige eller alle som er involvert i avliving av dyr, bør derfor innføre vedlikeholdsprosedyrer for det nevnte utstyret.Det er nødvendig å fiksere dyr av hensyn til personalet sikkerhet og riktig bruk av visse bedøvingsteknikker. Fiksering vil imidlertid som regel være en plage for dyrene og bør derfor benyttes i så kort tid som mulig.Dyr kan utsettelse for lidelse dersom noe går feil under bedøvingen. Denne forordning bør derfor inneholde bestemmelser om at det skal finnes passende reserveutstyr for bedøving for å minimere smerte, plage eller lidelse hos dyrene.Omfanget av slakting av fjørfe, kanin og hare for direkte levering av små mengder kjøtt til sluttforbruker eller til lokale detaljister som leverer slikt kjøtt direkte til sluttforbruker som ferskt kjøtt, varierer fra medlemsstat til medlemsstat på grunn av nasjonale regler som gjelder for denne virksomheten i samsvar med artikkel 1 nr. 3 bokstav d) og artikkel 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*). Det er imidlertid viktig å sikre at visse minstekrav til dyrs velferd også får anvendelse på denne virksomheten.Med hensyn til slakting av visse andre kategorier av dyr enn fjørfe, kanin og hare, til forbruk i privat husholdning, finnes det allerede visse minstekrav i Fellesskapet, som for eksempel forutgående bedøving samt nasjonale regler. Det er derfor hensiktsmessig å sikre at minstekrav til dyrs velferd også fastsettes i denne forordning.I henhold til forordning [(EF) nr. 854/2004](eu/32004r0854*) skal det utarbeides en liste over virksomheter fra hvilke det er tillatt å importere visse produkter av animalsk opprinnelse til Fellesskapet. Det bør ved utarbeidingen av denne listen tas hensyn til de allmenne kravene og tillegskravene til slakterier som er fastsatt i denne forordning.Fellesskapet tilstreber å fremme høye velferdsstandarder i dyrebesetninger i hele verden, særlig i forbindelse med handel. Det støtter særlige standarder og rekommandasjoner om dyrs velferd fra OIE, herunder om slakting av dyr. Slike standarder og rekommandasjoner bør tas i betraktning når det skal sikres samsvar med fellesskapskrav i henhold til denne forordning med henblikk på import.Retningslinjer for god praksis som er utarbeidet av de driftsansvarliges organisasjoner, er verdifulle instruksjoner for å hjelpe de driftsansvarlige å oppfylle visse krav i denne forordning, for eksempel når det gjelder utarbeiding og gjennomføring av standardiserte framgangsmåter.Slakterier og det utstyret som benyttes der, er utformet for bestemte kategorier av dyr og for en bestemt kapasitet. Dersom kapasiteten overskrides eller utstyret benyttes til andre formål enn det som var tiltenkt, får det en negativ virkning på dyrs velferd. Opplysninger om disse sidene ved saken bør derfor meddeles vedkommende myndigheter og bør inngå i prosedyren for godkjenning for slakterier.Mobile slakterier reduseres behovet for å transportere dyr over lange avstander, og de kan derfor bidra til å sikre bedre dyrevelferd. De tekniske forholdene for mobile slakterier er likevel annerledes enn dem som gjelder for stasjonære slakterier, og det kan være nødvendig å tilpasse de tekniske reglene. Denne forordning bør derfor åpne for muligheten til å gi unntak slik at mobile slakterier fritas for kravene til slakteriers utforming, konstruksjon og utstyr. Inntil slike unntak vedtas, er det hensiktsmessig å gi medlemsstatene mulighet til å fastsette eller opprettholde nasjonale regler for mobile slakterier.Det skjer en løpende vitenskapelig og teknisk utvikling med hensyn til slakteriers konstruksjon, utforming og utstyr. Det er derfor viktig å gi Kommisjonen myndighet til å endre kravene til slakteriers konstruksjon, utforming og utstyr, samtidig som man opprettholder et ensartet og høyt nivå for dyrevelferd.Fellesskapsretningslinjer er nyttige verktøy for å gi de driftsansvarlige og vedkommende myndigheter spesifikke opplysninger om slakteriers konstruksjon, utforming og utstyr for å sikre et høyt nivå for dyrevelferd samtidig som virksomhetene sikres like vilkår. Det er derfor nødvendig å gi Kommisjonen myndighet til å vedta slike retningslinjer.For å minimere lidelsene ved slakting uten bedøving kreves et nøyaktig halssnitt med en skarp kniv. Dessuten er det en risiko for at dyr som ikke fikseres mekanisk, avblør langsommere etter halssnittet er utført og at dyrenes lidelser dermed forlenges unødig. Storfe, sau og geit er de mest vanlige artene som slaktes etter denne framgangsmåten. Drøvtyggere som slaktes uten bedøving, bør derfor fikseres individuelt og mekanisk.Det skjer løpende vitenskapelige og tekniske framskritt med hensyn til håndtering og immobilisering av dyr på slakterier. Det er derfor viktig å gi Kommisjonen myndighet til å endre kravene til håndtering og immobilisering av dyr før slakting, samtidig som man opprettholder et ensartet og høyt nivå for dyrevelferd.Fellesskapsretningslinjer er nyttige verktøy for å gi de driftsansvarlige og vedkommende myndigheter spesifikke opplysninger om håndtering om immobilisering av dyr før slakting for å sikre et høyt nivå for dyrevelferd samtidig som virksomhetene sikres like vilkår. Det er derfor nødvendig å gi Kommisjonen myndighet til å vedta slike retningslinjer.Erfaringer fra visse medlemsstater viser at utnevnelsen av en særlig kvalifisert person som dyrevelferdsansvarlig for å samordne og følge opp gjennomføringen av framgangsmåter for dyrs velferd på slakterier, har vært positive for dyrevelferden. Dette tiltaket bør derfor få anvendelse i hele Fellesskapet. Den dyrevelferdsansvarlige bør ha tilstekkelig myndighet og teknisk kompetanse til å kunne gi personalet i slaktelinjen relevant veiledning.Små slakterier som først og fremst er involvert i direkte salg av næringsmidler til sluttforbrukere, trenger ikke et komplisert administrativt system for å gjennomføre denne forordnings allmenne prinsipper. I disse tilfellene ville kravet om å ha en dyrevelferdsansvarlig på stedet derfor ikke stå i rimelig forhold til de tilsiktede målene, og ved denne forordning bør det gis et unntak fra dette kravet for slike slakterier.Nedslakting innebærer ofte en krisehåndtering med parallelle prioriteringer, som for eksempel dyrehelsen, folkehelsen, miljøet eller dyrs velferd. Det er viktig at bestemmelsene om dyrs helse og velferd overholdes i alle ledd i nedslaktingsprosessen, men det kan forekomme at overholdelsen av disse bestemmelsene under særlige omstendigheter kan innebære en fare for menneskers helse eller forsinke utryddelsen av en sykdom betraktelig og dermed medvirke til at flere dyr blir syke og dør.Derfor bør vedkommende myndigheter kunne gi unntak fra visse bestemmelser i denne forordning i enkelttilfeller, dersom dyrehelseforholdene nødvendiggjør nødavliving av dyr, og/eller dersom det ikke finnes egnede alternativer som kan sikre dyrene best mulig velferd. Slike unntak bør likevel ikke være en erstatning for ordentlig planlegging. Således bør planleggingen forbedres og dyrs velferd bør integreres på en hensiktsmessig måte i beredskapsplanene for smittsomme sykdommer.Når det gjelder framgangsmåtene for melding av dyresykdommer, skal opplysninger om utbrudd av sykdom i samsvar med direktiv [82/894/EØF](eu/31982l0894) av 21. desember 1982 om melding av dyresykdom i Fellesskapet9 meldes gjennom systemet for melding av dyresykdommer (ADNS). For tiden gir ADNS ikke spesifikke opplysninger om dyrevelferd, men systemet vil kunne videreutvikles til å gjøre det i framtiden. Med henblikk på videreutvikling av ADNS bør det derfor gis mulighet for unntak fra rapporteringsplikten som gjelder dyrs velferd ved nedslakting.Moderne bedøvings- og immobiliseringsutstyr blir stadig mer komplisert og sofistikert og krever særlig sakkunnskap og analyse. Medlemsstatene bør derfor sikre at vedkommende myndighet har adgang til tilstrekkelig vitenskapelig støtte som tjenestemenn kan henvende seg til, dersom det er behov for å vurdere utstyr og metoder for bedøving av dyr.Effektiviteten ved de enkelte bedøvingsmetoder vurderes ut fra kontroll av nøkkelparametrer og regelmessig vurdering. Utarbeiding av retningslinjer for god praksis for framgangsmåter og overvåkingsordninger til bruk ved avliving av dyr er derfor viktig for at de driftsansvarlige skal få en hensiktsmessig veiledning om dyrs velferd. Utarbeiding av slike retningslinjer forutsetter vitenskapelig kunnskap, praktisk erfaring og kompromisser mellom berørte parter. Et referansesenter eller -nettverk i hver medlemsstat bør derfor utføre denne oppgaven i samarbeid med relevante berørte parter.Utstedelse av kompetansebevis bør skje på en ensartet måte. Organer eller enheter som utsteder kompetansebevis, bør derfor akkrediteres i henhold til ensartede standarder som bør vurderes vitenskapelig. Den enheten som yter vitenskapelig støtte i samsvar med artikkel 20, bør derfor, når det er nødvendig, avgi uttalelse om evnen og egnetheten til de organene eller enhetene som utsteder kompetansebevis.I henhold til forordning [(EF) nr. 882/2004](eu/32004r0882*) skal vedkommende myndighet treffe visse tiltak i tilfelle av manglende overholdelse, særlig med hensyn til bestemmelsene om dyrevelferd. Det er derfor bare nødvendig å fastsette det ytterlige tiltak som skal treffes særlig med henblikk på anvendelse av denne forordning.I henhold til forordning [(EF) nr. 178/2002](eu/32002r0178) skal EFSA fremme nettverkssamarbeid mellom de organisasjonene som arbeider på det samme området som omfattes av myndighetens oppdrag, for å fremme vitenskapelig samarbeid, utveksling av opplysninger, utvikling og gjennomføring av felles prosjekter samt utveksling av sakkunnskap og beste praksis innen næringsmiddelregelverket.Utstedelse av kompetansebevis og avvikling av opplæringskurs bør skje på en ensartet måte. I denne forordning bør derfor medlemsstatenes forpliktelser i forbindelse med dette fastsettes, samt de nærmere reglene for tildeling, midlertidig oppheving og tilbakekalling av kompetansebevis.Europeiske borgere forventer at minsteregler for dyrevelferd overholdes ved slakting av dyr. I visse områder er holdningen til dyr også avhengig av nasjonale oppfatninger og det er et krav i noen medlemsstater om å opprettholde eller vedta mer omfattende bestemmelser om dyrs velferd enn dem som er vedtatt på fellesskapsplan. I dyrenes interesse og forutsatt at det ikke berører det indre markeds virkemåte, er det hensiktsmessig å gi medlemsstatene en viss fleksibilitet for å kunne opprettholde eller, på visse særlige områder, vedta mer omfattende nasjonale regler. Det er viktig å sikre at slike nasjonale regler ikke anvendes av medlemsstatene på en måte som hindrer at det indre marked virker etter hensikten.På noen områder som omfattes av denne forordning, har Rådet behov for ytterligere vitenskapelige, samfunnsmessige og økonomiske opplysninger, før det kan fastsettes nærmere regler, særlig for oppdrettsfisk og når det gjelder immobilisering av storfe ved at de vendes opp ned. Det er derfor nødvendig at Kommisjonen framlegger disse opplysningene for Rådet før den framlegger forslag om endringer av forordningen når det gjelder disse områdene.Slakteriers utforming, konstruksjon og utstyr krever langsiktig planlegging og investering. Ved denne forordning bør det derfor fastsettes en passende overgangsperiode slik at industrien får tilstrekkelig tid til å tilpasse seg gjeldende krav i henhold til denne forordning. I denne perioden bør de kravene i direktiv [93/119/EF](eu/31993l0119) som gjelder for slakteriers utforming, konstruksjon og utstyr, fortsatt få anvendelse.Medlemsstatene bør fastsette regler om sanksjoner som får anvendelse ved overtredelse av bestemmelsene i denne forordning, og sikre at de håndheves. Disse sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende.Ettersom målet for denne forordning, som er å sikre en harmonisert metode med hensyn til standarder for dyrevelferd ved avliving, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor på grunn av forordningens omfang og virkninger bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. For å nå nevnte mål og i samsvar med forholdsmessighetsprinsippet som fastsatt i nevnte artikkel, er det nødvendig og hensiktsmessig å fastsette regler om avliving av dyr med sikte på produksjon av næringsmidler, ull, hud, pels eller andre produkter og tilknyttet virksomhet. Denne forordning går ikke lenger enn det som er nødvendig for å nå nevnte mål.De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.10
+og ut fra følgende betraktninger:
+
+1. Ved rådsdirektiv [93/119/EF](eu/31993l0119) av 22. desember 1993 om vern av dyr på tidspunktet for slakting eller avliving3 er det fastsatt felles minstekrav for vern av dyr på tidspunktet for slakting eller avliving i Fellesskapet. Direktivet er ikke blitt vesentlig endret siden det ble vedtatt.
+2. Avliving av dyr kan påføre dyr smerte, plage, frykt eller andre former for lidelse, selv under de best mulige tekniske forhold. Visse oppgaver i forbindelse med avliving kan være stressende og alle bedøvingsteknikker har visse ulemper. De driftsansvarlige eller alle som er involvert i avliving av dyr, bør treffe nødvendige tiltak for å unngå smerte og minimere plage og lidelse hos dyr som slaktes eller avlives, idet det tas hensyn til beste praksis på området og tillatte metoder i henhold til denne forordning. Derfor bør smerte, plage og lidelse anses som unngåelig dersom de driftsansvarlige og alle som er involvert i avliving av dyr, bryter med noen av kravene i denne forordning eller benytter tillatte metoder uten å utnytte det nåværende utviklingsstadier i teknikken og dermed uaktsomt eller forsettelig påfører dyrene smerte, plage eller lidelse.
+3. Vern av dyr på tidspunktet for slakting eller avliving har vært omfattet av fellesskapsretten siden 1974, og ble styrket vesentlig ved direktiv [93/119/EF](eu/31993l0119). Det er imidlertid fastslått store forskjeller med hensyn til medlemsstatenes gjennomføring av direktivet, og det er pekt på alvorlige dyrevelferdsproblemer og forskjeller som kan påvirke konkurranseevnen mellom de forskjellige driftsansvarlige.
+4. Dyrs velferd er en fellesskapsverdi som er nedfelt i protokollen (nr. 33) om dyrevern og dyrs velferd som er vedlagt traktaten om opprettelse av Det europeiske fellesskap (heretter kalt protokoll nr. 33). Vern av dyr på tidspunktet for slakting eller avliving er en sak av offentlig interesse som påvirker forbrukernes holdning til landbruksvarer. Dessuten bidrar bedre vern av dyr på tidspunktet for slakting til bedre kjøttkvalitet og har indirekte en positiv virkning på arbeidssikkerheten på slakterier.
+5. Nasjonal lovgivning om vern av dyr på tidspunktet for slakting eller avliving påvirker konkurransen og dermed hvordan det indre marked for produkter av animalsk opprinnelse som omfattes av vedlegg I til traktaten om opprettelse av Det europeiske fellesskap, virker. Det er nødvendig å innføre felles regler for å sikre en rasjonell utvikling av det indre marked for disse produktene.
+6. Den europeiske myndighet for næringsmiddeltrygghet (EFSA), opprettet ved europaparlaments- og europarådsforordning (EF) [nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,4 har vedtatt to uttalelser om sider ved dyrs velferd som gjelder de viktigste systemene for bedøving og avliving av visse dyrearter, nemlig en uttalelse i 2004 om sider ved dyrs velferd som gjelder de mest utbredte metodene for bedøving og avliving av de viktigste kommersielle dyreartene, og en uttalelse i 2006 om sider ved dyrs velferd som gjelder de mest utbredte metodene for bedøving og avliving av kommersielt oppdrettede dyr av hjortefamilien, geit, kanin, struts, and, gås og vaktel. Fellesskapsretten på dette området bør ajourføres for å ta hensyn til de nevnte vitenskapelige uttalelsene. Anbefalinger om å fase ut bruken av karbondioksid til avliving av gris og bruken av vannbad til bedøving av fjørfe, omfattes ikke av denne forordning fordi konsekvensanalysen viste at slike anbefalinger for øyeblikket ikke er økonomisk gjennomførbare. Det er imidlertid viktig å fortsette denne diskusjonen i framtiden. Kommisjonen bør derfor utarbeide en rapport om de forskjellige bedøvingsmetodene for fjørfe, særlig bedøving av grupper i vannbad, og framlegge den for Europaparlamentet og Rådet. Andre anbefalinger bør heller ikke være omfattet av denne forordning fordi de viser til tekniske parametrer som bør være en del av gjennomføringstiltakene eller fellesskapsretningslinjene. Anbefalinger om oppdrettsfisk omfattes ikke av denne forordning fordi det er behov for ytterligere vitenskapelige uttalelser og en økonomisk vurdering på dette området.
+7. I 2007 vedtok Verdens dyrehelseorganisasjon (OIE) helseregelverket for landdyr som omfatter retningslinjer for slakting av dyr og for avliving av dyr med henblikk på sykdomsbekjempelse. De nevnte internasjonale retningslinjene inneholder anbefalinger om håndtering, immobilisering, bedøving og avbløding av dyr på slakterier og avliving av dyr ved utbrudd av smittsomme sykdommer. Det bør i denne forordning også tas hensyn til nevnte internasjonale standarder.
+8. Etter at direktiv [93/119/EF](eu/31993l0119) ble vedtatt, har Fellesskapets regelverk innen næringsmiddeltrygghet som gjelder for slakterier, gjennomgått en gjennomgripende endring ved vedtakelsen av europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene5 og europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse.6 I nevnte forordninger understrekes de driftsansvarliges ansvar for næringsmiddeltryggheten. Slakteriene skal også gjennomgå en framgangsmåte for forhåndsgodkjenning der vedkommende myndighet undersøker konstruksjon, utforming og utstyr for å sikre at det er i samsvar med de relevante tekniske reglene om næringsmiddeltrygghet. Sider ved dyrs velferd bør integreres bedre på slakterier; i deres konstruksjon og utforming så vel som utstyr som benyttes der.
+9. Offentlige kontroller i næringsmiddelkjeden er også blitt omorganisert ved vedtakelsen av europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsen om dyrs helse og velferd overholdes7 og europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) av 29. april 2004 om fastsettelse av særlige regler for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum.8
+10. De forholdene som dyr som holdes for landbruksformål, avlives under, har en direkte eller indirekte virkning på markedet for næringsmidler, fôr eller andre produkter, og på de berørte virksomhetenes konkurranseevne. Derfor bør slik avliving omfattes av fellesskapsretten. Imidlertid kan tradisjonelle landbruksdyr som hest, esel, storfe, sau, geit eller svin også holdes for andre formål, for eksempel som kjæledyr, utstillingsdyr, dyr for arbeidsformål eller sport. Dersom avlivingen av dyr av disse artene fører til produksjon av næringsmidler eller andre produkter, bør denne virksomheten omfattes av denne forordnings virkeområde. Viltlevende eller eierløse dyr som avlives for å regulere bestanden, bør derfor ikke omfattes av denne forordnings virkeområde.
+11. Fisk og landdyr er fysiologisk sett svært ulike og slakting og avliving av oppdrettsfisk foregår under helt andre forhold, særlig når det gjelder tilsyn. Dessuten er det ikke forsket på langt nær så mye på bedøving av fisk som på bedøving av andre landbruksdyr. Det bør fastsettes særlige standarder for vern av fisk i forbindelse med avliving. Bestemmelser som får anvendelse på fisk, bør derfor for tiden begrenses til hovedprinsippene. Ytterligere initiativ fra Fellesskapets side bør bygge på en vitenskapelig risikovurdering for slakting og avliving av fisk, som foretas av EFSA, idet det tas hensyn til sosiale, økonomiske og administrative følger.
+12. Det er en etisk plikt å avlive produksjonsdyr som har store lidelser, dersom det ikke er mulig å lindre disse smertene på en økonomisk gjennomførbar måte. I de fleste tilfellene kan dyr avlives under forsvarlige velferdsforhold. Ved særlige omstendigheter, som for eksempel ved ulykker på fjerntliggende steder, der kompetent personale og utstyr ikke kan nå fram til dyrene, kan imidlertid en overholdelse av best mulige velferdsbestemmelser forlenge deres lidelser. Av hensyn til dyrene er det derfor hensiktsmessig å utelukke nødavliving fra anvendelsen av visse bestemmelser i denne forordning.
+13. Det forekommer at dyr kan være farlige for mennesker og bringe menneskeliv i fare, påføre alvorlige skader eller overføre dødelige sykdommer. Slike risikoer forebygges vanligvis ved at dyrene immobiliseres på en ordentlig måte, men det kan også under visse omstendigheter være nødvendig å avlive farlige dyr for å fjerne slike risikoer. Under slike omstendigheter er det ikke alltid mulig å avlive dyrene under best mulige velferdsforhold på grunn av nødssituasjonen. Det er derfor nødvendig å fravike plikten til å bedøve eller straks avlive dyrene i disse tilfellene.
+14. Forholdene ved avliving i forbindelse med jakt eller sportsfiske er svært forskjellige fra dem som gjelder for produksjonsdyr, og jakt er underlagt særlig lovgivning. Det er derfor mest passende å utelukke avliving i forbindelse med jakt og fiske fra denne forordningen.
+15. I protokoll nr. 33 understrekes også behovet for å overholde medlemsstatenes lover og forskrifter samt deres skikker, særlig med hensyn til religiøse ritualer, kulturelle tradisjoner og regional arv, ved utformingen og gjennomføringen av fellesskapspolitikk innen blant annet landbruk og det indre marked. Kulturarrangementer hvor overholdelse av krav til dyrevelferd vil ha en negativ virkning på selve kjernen i de berørte arrangementene, bør derfor utelukkes fra denne forordningens virkeområde.
+16. I tillegg dreier kulturelle tradisjoner seg om nedarvede, fastlagte eller sedvanlige mønstre for tenkemåte, handling eller atferd som overføres fra generasjon til generasjon. De bidrar til å fremme langvarige sosiale bånd mellom generasjonene. Forutsatt at denne virksomheten ikke påvirker markedet for produkter av animalsk opprinnelse og ikke er begrunnet i produksjonsformål, er det derfor hensiktsmessig at avliving av dyr som skjer under disse arrangementene, utelukkes fra denne forordningens virkeområde.
+17. Slakting av fjørfe, kanin og hare til forbruk i privat husholdning foregår ikke i et slikt omfang at det vil kunne påvirke konkurranseevnen til de kommersielle slakteriene. Dessuten står den innsatsen som er nødvendig for at offentlige myndigheter kan oppdage og kontrollere slik virksomhet, ikke i rimelig forhold til eventuelle problemer som må løses. Det er derfor hensiktsmessig å utelukke nevnte virksomhet fra denne forordningens virkeområde.
+18. Ved direktiv [93/119/EF](eu/31993l0119) ble det gitt unntak fra kravet til bedøving ved religiøs slakting som finner sted på slakterier. Siden fellesskapsbestemmelsene som gjelder religiøs slakting er blitt innarbeidet på forskjellig måte avhengig av nasjonal bakgrunn, og i betraktning av at det i nasjonale regler tas hensyn til forhold som går ut over formålet med denne forordning, er det viktig å opprettholde unntaket fra kravet om at dyr skal bedøves før slakting, samtidig som en viss grad av subsidaritet overlates til hver medlemsstat. Denne forordningen overholder derfor religionsfriheten og retten til å utøve sin religion eller tro gjennom gudstjeneste, undervisning, sedvaner og ritualer som omhandlet i artikkel 10 i Den europeiske unions pakt om grunnleggende rettigheter.
+19. Det finnes tilstrekkelig vitenskapelig bevis på at virveldyr er følende vesener som derfor bør omfattes av denne forordnings virkeområde. Krypdyr og amfibier er likevel ikke dyr som normalt er produksjonsdyr i Fellesskapet, og det vil derfor ikke være hensiktsmessig eller rimelig at de omfattes av forordningen.
+20. Mange avlivingsmetoder er smertefulle for dyr. Det er derfor nødvendig å bedøve dyrene slik at de mister bevissthet og følesans før eller samtidig som de avlives. Det er komplisert å måle manglende bevissthet og følesans hos et dyr, og det må bare skje med en vitenskapelig godkjent metodikk. Det bør likevel foretas overvåking ved hjelp av indikatorer for å vurdere hvor effektiv framgangsmåten er i praksis.
+21. Overvåking av hvor effektiv bedøvingen er, bygger hovedsakelig på en vurdering av dyrenes bevissthet og følesans. Et dyrs bevissthet er først og fremst dets evne til å føle og kontrollere sine frivillige bevegelser. Selv om det finnes visse unntak, som for eksempel elektroimmobilisering eller andre bevisst framkalte lammelser, kan et dyr antas å være bevisstløst når det ikke kan stå oppreist i en naturlig stilling, ikke er våkent eller ikke viser tegn på positive eller negative følelser som frykt eller opphisselse. Et dyrs følesans uttrykkes først og fremst gjennom dets evne til å føle smerte. Generelt kan et dyr antas ikke å oppfatte følelser når det ikke viser noen reflekser eller reaksjoner på stimuli som for eksempel lyd, lukt, lys eller fysisk kontakt.
+22. Nye bedøvingsmetoder utvikles stadig og tilbys på markedet som svar på nye utfordringer innen husdyrproduksjon og kjøttindustrien. Det er derfor viktig å gi Kommisjonen myndighet til å godkjenne nye bedøvingsmetoder samtidig som det sikres et ensartet og høyt nivå for dyrevelferd.
+23. Fellesskapsretningslinjer er nyttige verktøy for å gi de driftsansvarlige og vedkommende myndigheter spesifikke opplysninger om parametrene de skal benytte for å sikre et høyt vernenivå for dyrene samtidig som virksomhetene sikres like vilkår. Det er derfor nødvendig å gi Kommisjonen myndighet til å utarbeide slike retningslinjer.
+24. Avhengig av hvordan visse bedøvingsmetoder benyttes under slakting eller avliving, kan de føre til døden samtidig som smerte unngås, og med minst mulig plage og lidelse for dyret. Andre bedøvingsmetoder fører ikke nødvendigvis til døden, og dyrene kan komme til bevissthet eller få tilbake følesansen under fortsettelsen av en smertefull prosess. Slike metoder bør derfor suppleres med andre teknikker som sikrer at dyret dør før det kommer til bevissthet. Det er derfor helt avgjørende å angi hvilke bedøvingsmetoder som skal suppleres med en avlivingsmetode.
+25. Mange faktorer medvirker til at forholdene ved bedøving av dyr og resultatene av denne bedøvingen varierer i praksis. Det bør derfor foretas en regelmessig vurdering av resultatene av bedøving. Med henblikk på dette bør de driftsansvarlige fastsette en representativ prøve for å kontrollere effekten av bedøvingsmetodene, idet det tas hensyn til hvor homogen gruppen av dyr er, og andre avgjørende faktorer som for eksempel benyttet utstyr og involvert personale.
+26. Noen av bedøvingsmetodene kan dokumenteres å være tilstrekkelig pålitelige til at dyrene ugjenkallelig avlives under alle omstendigheter, dersom spesifikke nøkkelparametre er benyttet. I slike tilfeller vil behovet for å kontrollere bedøvingen virke unødvendig og urimelig. Det er derfor hensiktsmessig å gi mulighet for unntak fra plikten til kontroll av bedøvingen der det finnes tilstrekkelig vitenskapelig bevis på at en gitt bedøvingsmetode framkaller ugjenkallelig død for alle dyr under visse kommersielle forhold.
+27. Dyrs velferd er i stor grad påvirket av de daglige rutinene, og det kan bare oppnås pålitelige resultater dersom de driftsansvarlige utvikler overvåkingsverktøy for å vurdere virkningene av dem. Det bør derfor i alle ledd i produksjonen utarbeides standardiserte framgangsmåter som bør være risikobaserte. De bør omfatte tydelige mål, ansvarlige personer, virkemåte, målbare kriterier samt framgangsmåter for overvåking og registrering. Nøkkelparametrene for hver bedøvingsmetode bør defineres på en måte som sikrer tilstrekkelig bedøving av alle dyr som gjennomgår prosessen.
+28. Dyrene behandles bedre når personalet er velutdannet og faglært. Kompetanse når det gjelder dyrs velferd, innebærer kunnskap om artenes grunnleggende atferdsmønstre og behov, samt tegn på bevissthet og følesans. Det innebærer også teknisk sakkunnskap om det bedøvingsutstyret som benyttes. Personalet som utfører visse slakteoppgaver, og folk som har tilsyn med sesongbestemt avliving av pelsdyr, bør derfor ha et kompetansebevis som er relevant for de oppgavene de utfører. Et krav om kompetansebevis for annet personale som avliver dyr, ville imidlertid ikke stå i rimelig forhold til de tilsiktede målene.
+29. Personale med flere års erfaring kan forventes å ha et visst nivå av sakkunnskap. Det bør derfor i denne forordning fastsettes en overgangsbestemmelse om kravene til kompetansebeviset når det gjelder slikt personale.
+30. Bedøvingsutstyr utvikles og utformes for å være effektivt i en spesifikk sammenheng. Produsenter bør derfor gi brukerne detaljerte anvisninger om vilkårene for bruk og vedlikehold av utstyret for å sikre dyrs velferd på best mulig måte.
+31. Bedøvings- og fikseringsutstyr bør vedlikeholdes ordentlig slik at det kan fungere effektivt. Det kan være nødvendig å skifte ut visse deler på utstyr som benyttes intensivt, og selv effektiviteten av utstyr som bare benyttes av og til, kan bli forringet som en følge av korrosjon eller andre miljøfaktorer. Noe utstyr skal også kalibreres nøyaktig. De driftsansvarlige eller alle som er involvert i avliving av dyr, bør derfor innføre vedlikeholdsprosedyrer for det nevnte utstyret.
+32. Det er nødvendig å fiksere dyr av hensyn til personalet sikkerhet og riktig bruk av visse bedøvingsteknikker. Fiksering vil imidlertid som regel være en plage for dyrene og bør derfor benyttes i så kort tid som mulig.
+33. Dyr kan utsettelse for lidelse dersom noe går feil under bedøvingen. Denne forordning bør derfor inneholde bestemmelser om at det skal finnes passende reserveutstyr for bedøving for å minimere smerte, plage eller lidelse hos dyrene.
+34. Omfanget av slakting av fjørfe, kanin og hare for direkte levering av små mengder kjøtt til sluttforbruker eller til lokale detaljister som leverer slikt kjøtt direkte til sluttforbruker som ferskt kjøtt, varierer fra medlemsstat til medlemsstat på grunn av nasjonale regler som gjelder for denne virksomheten i samsvar med artikkel 1 nr. 3 bokstav d) og artikkel 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*). Det er imidlertid viktig å sikre at visse minstekrav til dyrs velferd også får anvendelse på denne virksomheten.
+35. Med hensyn til slakting av visse andre kategorier av dyr enn fjørfe, kanin og hare, til forbruk i privat husholdning, finnes det allerede visse minstekrav i Fellesskapet, som for eksempel forutgående bedøving samt nasjonale regler. Det er derfor hensiktsmessig å sikre at minstekrav til dyrs velferd også fastsettes i denne forordning.
+36. I henhold til forordning [(EF) nr. 854/2004](eu/32004r0854*) skal det utarbeides en liste over virksomheter fra hvilke det er tillatt å importere visse produkter av animalsk opprinnelse til Fellesskapet. Det bør ved utarbeidingen av denne listen tas hensyn til de allmenne kravene og tillegskravene til slakterier som er fastsatt i denne forordning.
+37. Fellesskapet tilstreber å fremme høye velferdsstandarder i dyrebesetninger i hele verden, særlig i forbindelse med handel. Det støtter særlige standarder og rekommandasjoner om dyrs velferd fra OIE, herunder om slakting av dyr. Slike standarder og rekommandasjoner bør tas i betraktning når det skal sikres samsvar med fellesskapskrav i henhold til denne forordning med henblikk på import.
+38. Retningslinjer for god praksis som er utarbeidet av de driftsansvarliges organisasjoner, er verdifulle instruksjoner for å hjelpe de driftsansvarlige å oppfylle visse krav i denne forordning, for eksempel når det gjelder utarbeiding og gjennomføring av standardiserte framgangsmåter.
+39. Slakterier og det utstyret som benyttes der, er utformet for bestemte kategorier av dyr og for en bestemt kapasitet. Dersom kapasiteten overskrides eller utstyret benyttes til andre formål enn det som var tiltenkt, får det en negativ virkning på dyrs velferd. Opplysninger om disse sidene ved saken bør derfor meddeles vedkommende myndigheter og bør inngå i prosedyren for godkjenning for slakterier.
+40. Mobile slakterier reduseres behovet for å transportere dyr over lange avstander, og de kan derfor bidra til å sikre bedre dyrevelferd. De tekniske forholdene for mobile slakterier er likevel annerledes enn dem som gjelder for stasjonære slakterier, og det kan være nødvendig å tilpasse de tekniske reglene. Denne forordning bør derfor åpne for muligheten til å gi unntak slik at mobile slakterier fritas for kravene til slakteriers utforming, konstruksjon og utstyr. Inntil slike unntak vedtas, er det hensiktsmessig å gi medlemsstatene mulighet til å fastsette eller opprettholde nasjonale regler for mobile slakterier.
+41. Det skjer en løpende vitenskapelig og teknisk utvikling med hensyn til slakteriers konstruksjon, utforming og utstyr. Det er derfor viktig å gi Kommisjonen myndighet til å endre kravene til slakteriers konstruksjon, utforming og utstyr, samtidig som man opprettholder et ensartet og høyt nivå for dyrevelferd.
+42. Fellesskapsretningslinjer er nyttige verktøy for å gi de driftsansvarlige og vedkommende myndigheter spesifikke opplysninger om slakteriers konstruksjon, utforming og utstyr for å sikre et høyt nivå for dyrevelferd samtidig som virksomhetene sikres like vilkår. Det er derfor nødvendig å gi Kommisjonen myndighet til å vedta slike retningslinjer.
+43. For å minimere lidelsene ved slakting uten bedøving kreves et nøyaktig halssnitt med en skarp kniv. Dessuten er det en risiko for at dyr som ikke fikseres mekanisk, avblør langsommere etter halssnittet er utført og at dyrenes lidelser dermed forlenges unødig. Storfe, sau og geit er de mest vanlige artene som slaktes etter denne framgangsmåten. Drøvtyggere som slaktes uten bedøving, bør derfor fikseres individuelt og mekanisk.
+44. Det skjer løpende vitenskapelige og tekniske framskritt med hensyn til håndtering og immobilisering av dyr på slakterier. Det er derfor viktig å gi Kommisjonen myndighet til å endre kravene til håndtering og immobilisering av dyr før slakting, samtidig som man opprettholder et ensartet og høyt nivå for dyrevelferd.
+45. Fellesskapsretningslinjer er nyttige verktøy for å gi de driftsansvarlige og vedkommende myndigheter spesifikke opplysninger om håndtering om immobilisering av dyr før slakting for å sikre et høyt nivå for dyrevelferd samtidig som virksomhetene sikres like vilkår. Det er derfor nødvendig å gi Kommisjonen myndighet til å vedta slike retningslinjer.
+46. Erfaringer fra visse medlemsstater viser at utnevnelsen av en særlig kvalifisert person som dyrevelferdsansvarlig for å samordne og følge opp gjennomføringen av framgangsmåter for dyrs velferd på slakterier, har vært positive for dyrevelferden. Dette tiltaket bør derfor få anvendelse i hele Fellesskapet. Den dyrevelferdsansvarlige bør ha tilstekkelig myndighet og teknisk kompetanse til å kunne gi personalet i slaktelinjen relevant veiledning.
+47. Små slakterier som først og fremst er involvert i direkte salg av næringsmidler til sluttforbrukere, trenger ikke et komplisert administrativt system for å gjennomføre denne forordnings allmenne prinsipper. I disse tilfellene ville kravet om å ha en dyrevelferdsansvarlig på stedet derfor ikke stå i rimelig forhold til de tilsiktede målene, og ved denne forordning bør det gis et unntak fra dette kravet for slike slakterier.
+48. Nedslakting innebærer ofte en krisehåndtering med parallelle prioriteringer, som for eksempel dyrehelsen, folkehelsen, miljøet eller dyrs velferd. Det er viktig at bestemmelsene om dyrs helse og velferd overholdes i alle ledd i nedslaktingsprosessen, men det kan forekomme at overholdelsen av disse bestemmelsene under særlige omstendigheter kan innebære en fare for menneskers helse eller forsinke utryddelsen av en sykdom betraktelig og dermed medvirke til at flere dyr blir syke og dør.
+49. Derfor bør vedkommende myndigheter kunne gi unntak fra visse bestemmelser i denne forordning i enkelttilfeller, dersom dyrehelseforholdene nødvendiggjør nødavliving av dyr, og/eller dersom det ikke finnes egnede alternativer som kan sikre dyrene best mulig velferd. Slike unntak bør likevel ikke være en erstatning for ordentlig planlegging. Således bør planleggingen forbedres og dyrs velferd bør integreres på en hensiktsmessig måte i beredskapsplanene for smittsomme sykdommer.
+50. Når det gjelder framgangsmåtene for melding av dyresykdommer, skal opplysninger om utbrudd av sykdom i samsvar med direktiv [82/894/EØF](eu/31982l0894) av 21. desember 1982 om melding av dyresykdom i Fellesskapet9 meldes gjennom systemet for melding av dyresykdommer (ADNS). For tiden gir ADNS ikke spesifikke opplysninger om dyrevelferd, men systemet vil kunne videreutvikles til å gjøre det i framtiden. Med henblikk på videreutvikling av ADNS bør det derfor gis mulighet for unntak fra rapporteringsplikten som gjelder dyrs velferd ved nedslakting.
+51. Moderne bedøvings- og immobiliseringsutstyr blir stadig mer komplisert og sofistikert og krever særlig sakkunnskap og analyse. Medlemsstatene bør derfor sikre at vedkommende myndighet har adgang til tilstrekkelig vitenskapelig støtte som tjenestemenn kan henvende seg til, dersom det er behov for å vurdere utstyr og metoder for bedøving av dyr.
+52. Effektiviteten ved de enkelte bedøvingsmetoder vurderes ut fra kontroll av nøkkelparametrer og regelmessig vurdering. Utarbeiding av retningslinjer for god praksis for framgangsmåter og overvåkingsordninger til bruk ved avliving av dyr er derfor viktig for at de driftsansvarlige skal få en hensiktsmessig veiledning om dyrs velferd. Utarbeiding av slike retningslinjer forutsetter vitenskapelig kunnskap, praktisk erfaring og kompromisser mellom berørte parter. Et referansesenter eller -nettverk i hver medlemsstat bør derfor utføre denne oppgaven i samarbeid med relevante berørte parter.
+53. Utstedelse av kompetansebevis bør skje på en ensartet måte. Organer eller enheter som utsteder kompetansebevis, bør derfor akkrediteres i henhold til ensartede standarder som bør vurderes vitenskapelig. Den enheten som yter vitenskapelig støtte i samsvar med artikkel 20, bør derfor, når det er nødvendig, avgi uttalelse om evnen og egnetheten til de organene eller enhetene som utsteder kompetansebevis.
+54. I henhold til forordning [(EF) nr. 882/2004](eu/32004r0882*) skal vedkommende myndighet treffe visse tiltak i tilfelle av manglende overholdelse, særlig med hensyn til bestemmelsene om dyrevelferd. Det er derfor bare nødvendig å fastsette det ytterlige tiltak som skal treffes særlig med henblikk på anvendelse av denne forordning.
+55. I henhold til forordning [(EF) nr. 178/2002](eu/32002r0178) skal EFSA fremme nettverkssamarbeid mellom de organisasjonene som arbeider på det samme området som omfattes av myndighetens oppdrag, for å fremme vitenskapelig samarbeid, utveksling av opplysninger, utvikling og gjennomføring av felles prosjekter samt utveksling av sakkunnskap og beste praksis innen næringsmiddelregelverket.
+56. Utstedelse av kompetansebevis og avvikling av opplæringskurs bør skje på en ensartet måte. I denne forordning bør derfor medlemsstatenes forpliktelser i forbindelse med dette fastsettes, samt de nærmere reglene for tildeling, midlertidig oppheving og tilbakekalling av kompetansebevis.
+57. Europeiske borgere forventer at minsteregler for dyrevelferd overholdes ved slakting av dyr. I visse områder er holdningen til dyr også avhengig av nasjonale oppfatninger og det er et krav i noen medlemsstater om å opprettholde eller vedta mer omfattende bestemmelser om dyrs velferd enn dem som er vedtatt på fellesskapsplan. I dyrenes interesse og forutsatt at det ikke berører det indre markeds virkemåte, er det hensiktsmessig å gi medlemsstatene en viss fleksibilitet for å kunne opprettholde eller, på visse særlige områder, vedta mer omfattende nasjonale regler. Det er viktig å sikre at slike nasjonale regler ikke anvendes av medlemsstatene på en måte som hindrer at det indre marked virker etter hensikten.
+58. På noen områder som omfattes av denne forordning, har Rådet behov for ytterligere vitenskapelige, samfunnsmessige og økonomiske opplysninger, før det kan fastsettes nærmere regler, særlig for oppdrettsfisk og når det gjelder immobilisering av storfe ved at de vendes opp ned. Det er derfor nødvendig at Kommisjonen framlegger disse opplysningene for Rådet før den framlegger forslag om endringer av forordningen når det gjelder disse områdene.
+59. Slakteriers utforming, konstruksjon og utstyr krever langsiktig planlegging og investering. Ved denne forordning bør det derfor fastsettes en passende overgangsperiode slik at industrien får tilstrekkelig tid til å tilpasse seg gjeldende krav i henhold til denne forordning. I denne perioden bør de kravene i direktiv [93/119/EF](eu/31993l0119) som gjelder for slakteriers utforming, konstruksjon og utstyr, fortsatt få anvendelse.
+60. Medlemsstatene bør fastsette regler om sanksjoner som får anvendelse ved overtredelse av bestemmelsene i denne forordning, og sikre at de håndheves. Disse sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende.
+61. Ettersom målet for denne forordning, som er å sikre en harmonisert metode med hensyn til standarder for dyrevelferd ved avliving, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor på grunn av forordningens omfang og virkninger bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. For å nå nevnte mål og i samsvar med forholdsmessighetsprinsippet som fastsatt i nevnte artikkel, er det nødvendig og hensiktsmessig å fastsette regler om avliving av dyr med sikte på produksjon av næringsmidler, ull, hud, pels eller andre produkter og tilknyttet virksomhet. Denne forordning går ikke lenger enn det som er nødvendig for å nå nevnte mål.
+62. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.10
 
 1 Uttalelse avgitt 6. mai 2009 (ennå ikke offentliggjort i EUT).
 
@@ -248,13 +333,47 @@ Når det gjelder fisk, får imidlertid bare kravene fastsatt i artikkel 3 nr. 1 
 
 2\. Kapittel II, unntatt artikkel 3 nr. 1 og 2, [kapittel III](forskrift/2013-01-13-60/kapiii) og kapittel IV, unntatt [artikkel 19](forskrift/2013-01-13-60/a19), får ikke anvendelse ved nødavliving utenfor et slakteri eller der overholdelse av disse bestemmelsene vil utgjøre en umiddelbar og alvorlig risiko for menneskers helse eller sikkerhet.
 
-3\. Denne forordning får ikke anvendelse på:dyr som avlives:under vitenskapelige eksperimenter som utføres under tilsyn av en vedkommende myndighet,under jakt eller sportsfiske,under kultur- eller sportsarrangementer,fjørfe, kanin og hare som slaktes utenfor et slakteri av eieren, til hans/hennes private forbruk.
+3\. Denne forordning får ikke anvendelse på:
+
+1. dyr som avlives:
+
+   1. under vitenskapelige eksperimenter som utføres under tilsyn av en vedkommende myndighet,
+   2. under jakt eller sportsfiske,
+   3. under kultur- eller sportsarrangementer,
+2. fjørfe, kanin og hare som slaktes utenfor et slakteri av eieren, til hans/hennes private forbruk.
 
 ### Artikkel 2. Definisjoner
 
-I denne forordning menes med:«avliving» enhver bevisst framkalt handling som medfører at et dyr dør,«tilhørende handlinger» virksomhet som håndtering, oppstalling, immobilisering, bedøving og avbløding av dyr som finner sted i forbindelse med og på det stedet de skal avlives,«dyr» ethvert virveldyr med unntak av krypdyr og amfibier,«nødavliving» avliving av dyr som er skadet, eller dyr som lider av sykdom som er forbundet med store smerter eller lidelser, og der det ikke er noen annen praktisk mulighet for å lindre disse smertene eller lidelsene,«oppstalling» å holde dyr i båser, innhegninger eller på overdekkede områder eller felter i forbindelse med eller som en del av et slakteriets virksomhet,«bedøving» enhver bevisst framkalt metode som fører til at dyret, uten at det påføres smerte mister bevissthet og følesans, herunder enhver metode som medfører øyeblikkelig død,«religiøst rituale» en rekke handlinger i forbindelse med slakting av dyr og som er foreskrevet av en religion,«kultur- eller sportsarrangementer» arrangementer som hovedsakelig og særlig har tilknytning til veletablerte kulturelle tradisjoner eller sportsvirksomhet, herunder veddeløp eller andre former for konkurranser, der det ikke finner sted produksjon av kjøtt eller andre animalske produkter, eller der denne produksjonen er marginal i forhold til arrangementet som sådan og uten økonomisk betydning,«standardiserte framgangsmåter» skriftlige instruksjoner som har som formål at en bestemt funksjon eller standard utføres enhetlig,«slakting» avliving av dyr beregnet på humant konsum,«slakteri» enhver virksomhet som brukes til slakting av landdyr, som omfattes av virkeområdet for forordning [(EF) nr. 853/2004](eu/32004r0853*),«driftsansvarlig» enhver fysisk eller juridisk person som er ansvarlig for et foretak som foretar avliving av dyr, eller enhver annen tilknyttet virksomhet som omfattes av denne forordnings virkeområde,«pelsdyr» pattedyr av arter som hovedsakelig oppdrettes til produksjon av pels, for eksempel mink, ilder, rev, vaskebjørn, beverrotte og chinchilla,«nedslakting» avliving av dyr av hensyn til folkehelsen, dyrehelsen og dyrs velferd eller miljøet, under tilsyn av vedkommende myndighet,«fjørfe» oppdrettsfugler, herunder fugler som ikke regnes som husdyr, men som oppdrettes som husdyr, med unntak av strutsefugler,«fiksering» anvendelse av enhver metode som er beregnet på å begrense et dyrs bevegelsesfrihet, for å gjøre bedøving og avliving lettere samtidig som dyret skånes for enhver unngåelig smerte, frykt eller opphisselse,►**M2**«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*).\*◄**M2**«sondeinnføring i ryggmargen» ødeleggelse av sentralnervevevet og ryggmargen ved hjelp av et avlangt stavformet instrument som føres inn i kraniet.►**M2**
+I denne forordning menes med:
 
-\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).◄**M2**
+1. «avliving» enhver bevisst framkalt handling som medfører at et dyr dør,
+2. «tilhørende handlinger» virksomhet som håndtering, oppstalling, immobilisering, bedøving og avbløding av dyr som finner sted i forbindelse med og på det stedet de skal avlives,
+3. «dyr» ethvert virveldyr med unntak av krypdyr og amfibier,
+4. «nødavliving» avliving av dyr som er skadet, eller dyr som lider av sykdom som er forbundet med store smerter eller lidelser, og der det ikke er noen annen praktisk mulighet for å lindre disse smertene eller lidelsene,
+5. «oppstalling» å holde dyr i båser, innhegninger eller på overdekkede områder eller felter i forbindelse med eller som en del av et slakteriets virksomhet,
+6. «bedøving» enhver bevisst framkalt metode som fører til at dyret, uten at det påføres smerte mister bevissthet og følesans, herunder enhver metode som medfører øyeblikkelig død,
+7. «religiøst rituale» en rekke handlinger i forbindelse med slakting av dyr og som er foreskrevet av en religion,
+8. «kultur- eller sportsarrangementer» arrangementer som hovedsakelig og særlig har tilknytning til veletablerte kulturelle tradisjoner eller sportsvirksomhet, herunder veddeløp eller andre former for konkurranser, der det ikke finner sted produksjon av kjøtt eller andre animalske produkter, eller der denne produksjonen er marginal i forhold til arrangementet som sådan og uten økonomisk betydning,
+9. «standardiserte framgangsmåter» skriftlige instruksjoner som har som formål at en bestemt funksjon eller standard utføres enhetlig,
+10. «slakting» avliving av dyr beregnet på humant konsum,
+11. «slakteri» enhver virksomhet som brukes til slakting av landdyr, som omfattes av virkeområdet for forordning [(EF) nr. 853/2004](eu/32004r0853*),
+12. «driftsansvarlig» enhver fysisk eller juridisk person som er ansvarlig for et foretak som foretar avliving av dyr, eller enhver annen tilknyttet virksomhet som omfattes av denne forordnings virkeområde,
+13. «pelsdyr» pattedyr av arter som hovedsakelig oppdrettes til produksjon av pels, for eksempel mink, ilder, rev, vaskebjørn, beverrotte og chinchilla,
+14. «nedslakting» avliving av dyr av hensyn til folkehelsen, dyrehelsen og dyrs velferd eller miljøet, under tilsyn av vedkommende myndighet,
+15. «fjørfe» oppdrettsfugler, herunder fugler som ikke regnes som husdyr, men som oppdrettes som husdyr, med unntak av strutsefugler,
+16. «fiksering» anvendelse av enhver metode som er beregnet på å begrense et dyrs bevegelsesfrihet, for å gjøre bedøving og avliving lettere samtidig som dyret skånes for enhver unngåelig smerte, frykt eller opphisselse,
+
+    ►**M2**
+17. «vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*).\*
+
+    ◄**M2**
+18. «sondeinnføring i ryggmargen» ødeleggelse av sentralnervevevet og ryggmargen ved hjelp av et avlangt stavformet instrument som føres inn i kraniet.
+
+    ►**M2**
+
+\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).
+
+◄**M2**
 
 ### KAPITTEL II
 GENERELLE KRAV
@@ -263,7 +382,14 @@ GENERELLE KRAV
 
 1\. Dyr skal skånes for enhver unngåelig smerte, plage eller lidelse under avliving og tilknyttet virksomhet.
 
-2\. Ved anvendelse av nr. 1 skal de driftsansvarlige særlig treffe alle nødvendige tiltak for å sikre at dyr:får fysisk komfort og vern, særlig ved at de holdes rene, at de har det passe varmt og at de hindres i å falle eller skli,beskyttes mot skader,håndteres og oppstalles idet det tas hensyn til deres normale atferd,ikke viser tegn til unngåelig smerte eller frykt og ikke utviser unormal atferd,ikke lider under langvarig mangel på fôr eller vann,ikke utsettes for kontakt med andre dyr som kunne skade deres velferd.
+2\. Ved anvendelse av nr. 1 skal de driftsansvarlige særlig treffe alle nødvendige tiltak for å sikre at dyr:
+
+1. får fysisk komfort og vern, særlig ved at de holdes rene, at de har det passe varmt og at de hindres i å falle eller skli,
+2. beskyttes mot skader,
+3. håndteres og oppstalles idet det tas hensyn til deres normale atferd,
+4. ikke viser tegn til unngåelig smerte eller frykt og ikke utviser unormal atferd,
+5. ikke lider under langvarig mangel på fôr eller vann,
+6. ikke utsettes for kontakt med andre dyr som kunne skade deres velferd.
 
 3\. Anlegg som brukes til avliving og tilknyttet virksomhet, skal være utformet og bygd samt vedlikeholdes og drives slik at kravene i nr. 1 og 2 kan oppfylles under forventede driftsforhold for anleggets virksomhet hele året.
 
@@ -315,7 +441,15 @@ Når det gjelder bedøving, skal de standardiserte framgangsmåtene:
 
 1\. Avliving og tilknyttet virksomhet skal bare utføres av personer med det nødvendige kompetansenivået og uten at dyrene påføres unngåelig smerte, plage eller lidelse.
 
-2\. De driftsansvarlige skal sikre at følgende oppgaver under slaktingen bare utføres av personer med et kompetansebevis til slike oppgaver, som fastsatt i artikkel 21, og som viser deres evne til å utføre oppgavene i samsvar med reglene i denne forordning:håndtering og stell av dyr før immobilisering,fiksering av dyr med henblikk på bedøving eller avliving,bedøving av dyr,vurdering av om bedøvingen er effektiv,sjakling eller oppheising av levende dyr,avbløding av levende dyr,slakting i samsvar med artikkel 4 nr. 4.
+2\. De driftsansvarlige skal sikre at følgende oppgaver under slaktingen bare utføres av personer med et kompetansebevis til slike oppgaver, som fastsatt i artikkel 21, og som viser deres evne til å utføre oppgavene i samsvar med reglene i denne forordning:
+
+1. håndtering og stell av dyr før immobilisering,
+2. fiksering av dyr med henblikk på bedøving eller avliving,
+3. bedøving av dyr,
+4. vurdering av om bedøvingen er effektiv,
+5. sjakling eller oppheising av levende dyr,
+6. avbløding av levende dyr,
+7. slakting i samsvar med artikkel 4 nr. 4.
 
 3\. Med forbehold for kravet i nr. 1 i denne artikkel, skal avliving av pelsdyr foregå i nærvær av og under direkte tilsyn av en person med et kompetansebevis som nevnt i artikkel 21, og som er utstedt for alle de oppgavene som utføres under denne personens tilsyn. De driftsansvarlige på pelsdyranlegg skal på forhånd underrette vedkommende myndighet når dyr skal avlives.
 
@@ -323,7 +457,12 @@ Når det gjelder bedøving, skal de standardiserte framgangsmåtene:
 
 Produkter som i forbindelse med markedsføring og reklame presenteres som fikserings- eller bedøvingsutstyr, skal bare kunne selges dersom de ledsages av egnede bruksanvisninger, slik at det sikres best mulige forhold for dyrs velferd. Produsentene skal også gjøre de nevnte anvisningene offentlig tilgjengelig på Internett.
 
-Disse anvisningene skal særlig angi:art, kategori, mengde og/eller vekt av de dyrene som utstyret er beregnet på,de anbefalte parametrene som svarer til de forskjellige bruksvilkårene, herunder de nøkkelparametrene som er fastsatt i vedlegg I kapittel I,for bedøvingsutstyr, en metode for å overvåke hvor effektivt utstyret er med henblikk på overholdelse av denne forordnings regler,anbefalinger om vedlikehold og, om nødvendig, kalibrering av bedøvingsutstyret.
+Disse anvisningene skal særlig angi:
+
+1. art, kategori, mengde og/eller vekt av de dyrene som utstyret er beregnet på,
+2. de anbefalte parametrene som svarer til de forskjellige bruksvilkårene, herunder de nøkkelparametrene som er fastsatt i vedlegg I kapittel I,
+3. for bedøvingsutstyr, en metode for å overvåke hvor effektivt utstyret er med henblikk på overholdelse av denne forordnings regler,
+4. anbefalinger om vedlikehold og, om nødvendig, kalibrering av bedøvingsutstyret.
 
 ### Artikkel 9. Bruk av fikserings- og bedøvingsutstyr
 
@@ -357,7 +496,10 @@ Det hygienesertifikatet som ledsager kjøtt importert fra tredjestater, skal sup
 
 1\. Medlemsstatene skal oppmuntre til at det utarbeides og spres retningslinjer for god praksis for å lette gjennomføringen av denne forordning.
 
-2\. Når slike retningslinjer for god praksis opprettes, skal de utarbeides og spres av de driftsansvarliges organisasjoner:i samråd med representanter for ikke-statlige organisasjoner, vedkommende myndigheter og andre berørte parter,under henvisning til vitenskapelige uttalelser som nevnt i artikkel 20 nr. 1 bokstav c).
+2\. Når slike retningslinjer for god praksis opprettes, skal de utarbeides og spres av de driftsansvarliges organisasjoner:
+
+1. i samråd med representanter for ikke-statlige organisasjoner, vedkommende myndigheter og andre berørte parter,
+2. under henvisning til vitenskapelige uttalelser som nevnt i artikkel 20 nr. 1 bokstav c).
 
 3\. Vedkommende myndighet skal vurdere retningslinjene for god praksis for å sikre at de er utarbeidet i samsvar med nr. 2, og at de er i samsvar med eksisterende fellesskapsretningslinjer.
 
@@ -372,11 +514,18 @@ TILLEGGSKRAV FOR SLAKTERIER
 
 1\. De driftsansvarlige skal sikre at slakteriets utforming og konstruksjon samt utstyret som inngår i slakteriet, er i samsvar med reglene fastsatt i vedlegg II.
 
-2\. Ved anvendelse av denne forordning skal de driftsansvarlige på anmodning for hvert slakteri framlegge minst følgende opplysninger til vedkommende myndighet nevnt i artikkel 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*):høyeste antall dyr per time for hver slaktelinje,kategori og vekt av de dyrene som det tilgjengelige fikserings- eller bedøvingsutstyret kan brukes til,høyeste kapasitet for hvert oppstallingsområde.
+2\. Ved anvendelse av denne forordning skal de driftsansvarlige på anmodning for hvert slakteri framlegge minst følgende opplysninger til vedkommende myndighet nevnt i artikkel 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*):
+
+1. høyeste antall dyr per time for hver slaktelinje,
+2. kategori og vekt av de dyrene som det tilgjengelige fikserings- eller bedøvingsutstyret kan brukes til,
+3. høyeste kapasitet for hvert oppstallingsområde.
 
 Vedkommende myndighet skal ved godkjenningen av slakteriet vurdere de opplysningene som den driftsansvarlige har framlagt, i samsvar med første ledd.
 
-3\. Følgende kan vedtas etter framgangsmåten fastsatt i artikkel 25 nr. 2:unntak fra reglene fastsatt i vedlegg II for mobile slakterier,endringer som er nødvendige for å tilpasse vedlegg II til den vitenskapelige og tekniske utvikling.
+3\. Følgende kan vedtas etter framgangsmåten fastsatt i artikkel 25 nr. 2:
+
+1. unntak fra reglene fastsatt i vedlegg II for mobile slakterier,
+2. endringer som er nødvendige for å tilpasse vedlegg II til den vitenskapelige og tekniske utvikling.
 
 Inntil unntakene nevnt i første ledd bokstav a) vedtas, kan medlemsstatene innføre eller opprettholde nasjonale regler for mobile slakterier.
 
@@ -390,7 +539,12 @@ Inntil unntakene nevnt i første ledd bokstav a) vedtas, kan medlemsstatene innf
 
 Det skal ikke benyttes systemer til fiksering av storfe slik at dyrene vendes opp ned eller tvinges til unaturlige stillinger, unntatt dersom dyrene slaktes i samsvar med artikkel 4 nr. 4 og forutsatt at dyrene utstyres med en innretning som hindrer dem i å bevege hodet i side- og høyderetning og kan tilpasses dyrets størrelse.
 
-3\. Følgende fikseringsmetoder er forbudt:opphenging eller oppheising av dyr som er ved bevissthet,mekanisk fastspenning eller sammenbinding av dyrenes bein eller føtter,overskjæring av ryggmargen ved hjelp av for eksempel en puntilla eller dolk,bruk av elektrisk strøm for å immobilisere dyr, som ikke bedøver eller avliver dyrene under kontrollerte forhold, særlig enhver bruk av elektrisk strøm som ikke spenner om hjernen.
+3\. Følgende fikseringsmetoder er forbudt:
+
+1. opphenging eller oppheising av dyr som er ved bevissthet,
+2. mekanisk fastspenning eller sammenbinding av dyrenes bein eller føtter,
+3. overskjæring av ryggmargen ved hjelp av for eksempel en puntilla eller dolk,
+4. bruk av elektrisk strøm for å immobilisere dyr, som ikke bedøver eller avliver dyrene under kontrollerte forhold, særlig enhver bruk av elektrisk strøm som ikke spenner om hjernen.
 
 Bokstav a) og b) får likevel ikke anvendelse på sjakler som brukes til fjørfe.
 
@@ -402,7 +556,14 @@ Bokstav a) og b) får likevel ikke anvendelse på sjakler som brukes til fjørfe
 
 1\. Ved anvendelse av artikkel 5 skal de driftsansvarlige innføre og gjennomføre hensiktsmessige kontrollordninger på slakterier.
 
-2\. Kontrollordningene nevnt i nr. 1 i denne artikkel, skal beskrive hvordan kontrollene nevnt i artikkel 5 skal utføres, og skal minst omfatte følgende:navnet på de personene som er ansvarlige for kontrollordningen,indikatorer som kan påvise tegn til bevisstløshet og bevissthet eller følesans hos dyrene, samt indikatorer som kan påvise manglende livstegn hos dyr som slaktes i samsvar med artikkel 4 nr. 4,kriterier for å fastsette om de resultatene som påvises av indikatorene nevnt i bokstav b), er tilfredsstillende,forholdene og/eller tidspunktet for når kontroll skal finne sted,antall dyr i hver prøve som skal kontrolleres i forbindelse med kontrollen,egnede framgangsmåter for å sikre at oppgavene i forbindelse med bedøving eller avliving gjennomgås på nytt dersom kriteriene nevnt i bokstav c) ikke oppfylles, for å klarlegge årsakene til manglene og de nødvendige endringene som skal foretas i forbindelse med de nevnte oppgavene.
+2\. Kontrollordningene nevnt i nr. 1 i denne artikkel, skal beskrive hvordan kontrollene nevnt i artikkel 5 skal utføres, og skal minst omfatte følgende:
+
+1. navnet på de personene som er ansvarlige for kontrollordningen,
+2. indikatorer som kan påvise tegn til bevisstløshet og bevissthet eller følesans hos dyrene, samt indikatorer som kan påvise manglende livstegn hos dyr som slaktes i samsvar med artikkel 4 nr. 4,
+3. kriterier for å fastsette om de resultatene som påvises av indikatorene nevnt i bokstav b), er tilfredsstillende,
+4. forholdene og/eller tidspunktet for når kontroll skal finne sted,
+5. antall dyr i hver prøve som skal kontrolleres i forbindelse med kontrollen,
+6. egnede framgangsmåter for å sikre at oppgavene i forbindelse med bedøving eller avliving gjennomgås på nytt dersom kriteriene nevnt i bokstav c) ikke oppfylles, for å klarlegge årsakene til manglene og de nødvendige endringene som skal foretas i forbindelse med de nevnte oppgavene.
 
 3\. De driftsansvarlige skal innføre en spesifikk kontrollordning for hver slaktelinje.
 
@@ -448,7 +609,10 @@ NEDSLAKTING OG NØDAVLIVING
 
 Særlig skal de planlagte bedøvings- og avlivingsmetodene og tilhørende standardiserte framgangsmåter for å sikre at reglene i denne forordning overholdes, inngå i de beredskapsplanene som fellesskapsretten om dyrehelsen fastsetter, på grunnlag av de antakelsene som er gjort i beredskapsplanen om omfanget av og stedet der det er mistanke om sykdomsutbrudd.
 
-2\. Vedkommende myndighet skal:sikre at nedslaktingen gjennomføres i samsvar med handlingsplanen nevnt i nr. 1,treffe alle nødvendige tiltak for å sikre dyrs velferd under best mulige forhold.
+2\. Vedkommende myndighet skal:
+
+1. sikre at nedslaktingen gjennomføres i samsvar med handlingsplanen nevnt i nr. 1,
+2. treffe alle nødvendige tiltak for å sikre dyrs velferd under best mulige forhold.
 
 3\. Ved anvendelse av denne artikkel og i særlige tilfeller kan vedkommende myndighet gi unntak fra én eller flere av denne forordnings bestemmelser, dersom den finner at overholdelse av bestemmelsene kan påvirke menneskers helse eller forsinke vesentlig utryddelsen av en sykdom.
 
@@ -475,7 +639,13 @@ VEDKOMMENDE MYNDIGHET
 
 ### Artikkel 20. Vitenskapelig støtte
 
-1\. Hver medlemsstat skal sørge for at tilstrekkelig uavhengig vitenskapelig støtte er tilgjengelig for å bistå vedkommende myndigheter på deres anmodning, ved å tilby følgende:vitenskapelig og teknisk sakkunnskap i forbindelse med godkjenning av slakterier som nevnt i artikkel 14 nr. 2, og utvikling av nye bedøvingsmetoder,vitenskapelige uttalelser om produsentenes anvisninger om bruk og vedlikehold av immobiliserings- og bedøvingsutstyr,vitenskapelige uttalelser om retningslinjer for god praksis som er utarbeidet på territoriet med hensyn til denne forordning,anbefalinger med hensyn til denne forordning, særlig når det gjelder inspeksjoner og revisjon,uttalelser om selvstendige organers og enheters evne og egnethet til å oppfylle kravene fastsatt i artikkel 21 nr. 2.
+1\. Hver medlemsstat skal sørge for at tilstrekkelig uavhengig vitenskapelig støtte er tilgjengelig for å bistå vedkommende myndigheter på deres anmodning, ved å tilby følgende:
+
+1. vitenskapelig og teknisk sakkunnskap i forbindelse med godkjenning av slakterier som nevnt i artikkel 14 nr. 2, og utvikling av nye bedøvingsmetoder,
+2. vitenskapelige uttalelser om produsentenes anvisninger om bruk og vedlikehold av immobiliserings- og bedøvingsutstyr,
+3. vitenskapelige uttalelser om retningslinjer for god praksis som er utarbeidet på territoriet med hensyn til denne forordning,
+4. anbefalinger med hensyn til denne forordning, særlig når det gjelder inspeksjoner og revisjon,
+5. uttalelser om selvstendige organers og enheters evne og egnethet til å oppfylle kravene fastsatt i artikkel 21 nr. 2.
 
 2\. Vitenskapelige støtte kan ytes via et nettverk, forutsatt at alle de oppgavene som er nevnt i nr. 1, utføres for all relevant virksomhet som finner sted i de berørte medlemsstatene.
 
@@ -483,9 +653,16 @@ Med henblikk på dette skal hver medlemsstat utpeke ett kontaktpunkt og gjøre d
 
 ### Artikkel 21. Kompetansebevis
 
-1\. Ved anvendelse av artikkel 7 skal medlemsstatene utpeke vedkommende myndighet som skal være ansvarlig for å:sørge for at det tilbys opplæringskurs til personalet som deltar i avliving og tilknyttet virksomhet,utstede kompetansebevis der det attesteres at innehaveren har bestått en uavhengig, avsluttende prøve, og emnene for denne prøven skal være relevante for de berørte dyrekategoriene og svare til de oppgavene som er nevnt i artikkel 7 nr. 2 og 3, og til de emnene som er angitt i vedlegg IV,godkjenne opplæringsprogrammene nevnt i bokstav a), samt innholdet av og formen på prøven nevnt i bokstav b).
+1\. Ved anvendelse av artikkel 7 skal medlemsstatene utpeke vedkommende myndighet som skal være ansvarlig for å:
 
-2\. Vedkommende myndighet kan delegere den avsluttende prøven og utstedelsen av kompetansebeviset til et selvstendig organ eller en selvstendig enhet som:har den sakkunnskapen og det personalet og utstyret som behøves,er uavhengig og ikke har noen interessekonflikter når det gjelder den avsluttende prøven og utstedelsen av kompetansebevis.
+1. sørge for at det tilbys opplæringskurs til personalet som deltar i avliving og tilknyttet virksomhet,
+2. utstede kompetansebevis der det attesteres at innehaveren har bestått en uavhengig, avsluttende prøve, og emnene for denne prøven skal være relevante for de berørte dyrekategoriene og svare til de oppgavene som er nevnt i artikkel 7 nr. 2 og 3, og til de emnene som er angitt i vedlegg IV,
+3. godkjenne opplæringsprogrammene nevnt i bokstav a), samt innholdet av og formen på prøven nevnt i bokstav b).
+
+2\. Vedkommende myndighet kan delegere den avsluttende prøven og utstedelsen av kompetansebeviset til et selvstendig organ eller en selvstendig enhet som:
+
+1. har den sakkunnskapen og det personalet og utstyret som behøves,
+2. er uavhengig og ikke har noen interessekonflikter når det gjelder den avsluttende prøven og utstedelsen av kompetansebevis.
 
 Vedkommende myndighet kan også delegere tilretteleggingen av opplæringskursene til et selvstendig organ eller en selvstendig enhet som har den sakkunnskap og det personalet og utstyret som behøves.
 
@@ -495,7 +672,12 @@ Vedkommende myndighet skal gjøre tilgjengelig på Internett nærmere opplysning
 
 4\. Medlemsstatene skal anerkjenne kompetansebevis utstedt i en annen medlemsstat.
 
-5\. Vedkommende myndighet kan utstede midlertidige kompetansebevis, forutsatt at:søkeren er registrert på ett av opplæringskursene nevnt i nr. 1 bokstav a),søkeren skal arbeide i nærvær av og under direkte tilsyn av en annen person med et kompetansebevis som er utstedt for den spesifikke oppgaven som skal utføres,gyldigheten av det midlertidige beviset ikke overstiger tre måneder, ogsøkeren framlegger en skriftlig erklæring om at det ikke tidligere er utstedt et annet midlertidig kompetansebevis med samme anvendelsesområde, eller viser til vedkommende myndighets tilfredshet at han eller hun ikke var i stand til å gjennomføre den avsluttende prøven.
+5\. Vedkommende myndighet kan utstede midlertidige kompetansebevis, forutsatt at:
+
+1. søkeren er registrert på ett av opplæringskursene nevnt i nr. 1 bokstav a),
+2. søkeren skal arbeide i nærvær av og under direkte tilsyn av en annen person med et kompetansebevis som er utstedt for den spesifikke oppgaven som skal utføres,
+3. gyldigheten av det midlertidige beviset ikke overstiger tre måneder, og
+4. søkeren framlegger en skriftlig erklæring om at det ikke tidligere er utstedt et annet midlertidig kompetansebevis med samme anvendelsesområde, eller viser til vedkommende myndighets tilfredshet at han eller hun ikke var i stand til å gjennomføre den avsluttende prøven.
 
 6\. Med forbehold for en rettsmyndighets eller vedkommende myndighets avgjørelse om forbud mot håndtering av dyr, skal det bare utstedes kompetansebevis, herunder et midlertidig kompetansebevis, dersom søkeren framlegger en skriftlig erklæring om at vedkommende ikke har begått alvorlig brudd på fellesskapsretten og/eller nasjonal lovgivning om vern av dyr i de tre årene før datoen for søknaden om et slikt bevis.
 
@@ -539,7 +721,11 @@ SLUTTBESTEMMELSER
 
 Medlemsstatene skal innen 1. januar 2013 underrette Kommisjonen om slike nasjonale regler. Kommisjonen skal gjøre de andre medlemsstatene oppmerksom på reglene.
 
-2\. Medlemsstatene kan vedta nasjonale regler som har som formål å sikre et mer omfattende vern av dyr på tidspunktet for avliving enn det som følger av reglene i denne forordning, på følgende områder:avliving av dyr og tilknyttet virksomhet utenfor slakteriet,slakting og tilknyttet virksomhet når det gjelder produkter som definert i nr. 1.6 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), herunder reinsdyr,slakting og tilknyttet virksomhet når det gjelder dyr i samsvar med artikkel 4 nr. 4.
+2\. Medlemsstatene kan vedta nasjonale regler som har som formål å sikre et mer omfattende vern av dyr på tidspunktet for avliving enn det som følger av reglene i denne forordning, på følgende områder:
+
+1. avliving av dyr og tilknyttet virksomhet utenfor slakteriet,
+2. slakting og tilknyttet virksomhet når det gjelder produkter som definert i nr. 1.6 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), herunder reinsdyr,
+3. slakting og tilknyttet virksomhet når det gjelder dyr i samsvar med artikkel 4 nr. 4.
 
 Medlemsstatene skal underrette Kommisjonen om slike nasjonale regler. Kommisjonen skal gjøre de andre medlemsstatene oppmerksom på reglene.
 
@@ -567,7 +753,10 @@ Inntil disse tiltakene er vedtatt, kan medlemsstatene opprettholde eller vedta n
 
 Ved anvendelse av artikkel 29 nr. 1 i denne forordning får likevel følgende bestemmelser i direktiv [93/119/EØF](eu/31993l0119) fortsatt anvendelse:
 
-1. Vedlegg A:del I nr. 1,del II nr. 1 og andre setning i nr. 3, nr. 6, 7 og 8 og den første setningen i nr. 9,
+1. Vedlegg A:
+
+   1. del I nr. 1,
+   2. del II nr. 1 og andre setning i nr. 3, nr. 6, 7 og 8 og den første setningen i nr. 9,
 2. vedlegg C del II nr. 3.A.2, nr. 3.B.1 første ledd, nr. 3.B.2, 3.B.4 og nr. 4.2 og 4.3.
 
 2\. Henvisninger til det opphevede direktivet skal forstås som henvisninger til denne forordning.
@@ -702,7 +891,17 @@ Sjaklene skal være våte før de levende fuglene henges opp og utsettes for str
 
 6.3.
 
-For dyrene nevnt i tabell 2, skal strømstyrken ved bedøving med vannbad være minst det som er angitt i tabellen, og dyrene skal utsettes for den aktuelle strømstyrken i minst fire sekunder.*Tabell 2 – Elektriske krav til bedøving i vannbad* (gjennomsnittlige verdier per dyr)*Frekvens (Hz)**Kylling**Kalkun**And og gås**Vaktel*< 200 Hz100 mA250 mA130 mA45 mAFra 200 til 400 Hz150 mA400 mAIkke tillattIkke tillattFra 400 til 1500 Hz200 mA400 mAIkke tillattIkke tillatt
+For dyrene nevnt i tabell 2, skal strømstyrken ved bedøving med vannbad være minst det som er angitt i tabellen, og dyrene skal utsettes for den aktuelle strømstyrken i minst fire sekunder.
+
+*Tabell 2 – Elektriske krav til bedøving i vannbad*
+
+(gjennomsnittlige verdier per dyr)
+
+| *Frekvens (Hz)* | *Kylling* | *Kalkun* | *And og gås* | *Vaktel* |
+| --- | --- | --- | --- | --- |
+| < 200 Hz | 100 mA | 250 mA | 130 mA | 45 mA |
+| Fra 200 til 400 Hz | 150 mA | 400 mA | Ikke tillatt | Ikke tillatt |
+| Fra 400 til 1500 Hz | 200 mA | 400 mA | Ikke tillatt | Ikke tillatt |
 
 7.*Karbondioksid i høye konsentrasjoner*
 
@@ -728,13 +927,19 @@ Dyrene skal forbli i kammeret inntil døden inntrer.
 
 9.4.
 
-Det kan benyttes gass produsert av en motor som er særlig beregnet på avliving av dyr, forutsatt at den personen som er ansvarlig for avlivingen, i forkant har kontrollert at gassen som benyttes:er tilstrekkelig avkjølt,er tilstrekkelig filtrert,er fri for alle irriterende bestanddeler eller gasser.
+Det kan benyttes gass produsert av en motor som er særlig beregnet på avliving av dyr, forutsatt at den personen som er ansvarlig for avlivingen, i forkant har kontrollert at gassen som benyttes:
+
+1. er tilstrekkelig avkjølt,
+2. er tilstrekkelig filtrert,
+3. er fri for alle irriterende bestanddeler eller gasser.
 
 Motoren skal prøves hvert år før avlivingen av dyr finner sted.
 
 9.5.
 
-Dyrene skal ikke plasseres i kammeret før minste konsentrasjonen av karbonmonoksid er nådd.► **M1**
+Dyrene skal ikke plasseres i kammeret før minste konsentrasjonen av karbonmonoksid er nådd.
+
+► **M1**
 
 10.*Bedøving med lavt atmosfærisk trykk*
 
@@ -756,7 +961,9 @@ Kammeret skal tetthetsprøves og trykkmålerne kalibreres før hver bruk og mins
 
 10.5.
 
-Registreringene av absolutt vakuumtrykk, eksponeringstid, temperatur og luftfuktighet skal oppbevares i minst ett år.◄ **M1**
+Registreringene av absolutt vakuumtrykk, eksponeringstid, temperatur og luftfuktighet skal oppbevares i minst ett år.
+
+◄ **M1**
 
 ### VEDLEGG II
 SLAKTERIETS UTFORMING, KONSTRUKSJON OG UTSTYR
@@ -785,7 +992,10 @@ Oppstallingslokalene skal utformes og konstrueres med henblikk på å lette insp
 
 2.1.
 
-Innhegninger, ganger og drivganger skal utformes og konstrueres slik at:dyrene kan bevege seg fritt i den ønskede retningen i henhold til sin naturlige atferd og uten forstyrrelser,svin og sau kan gå ved siden av hverandre, unntatt når det dreier seg om drivganger som fører til fikseringsutstyret.
+Innhegninger, ganger og drivganger skal utformes og konstrueres slik at:
+
+1. dyrene kan bevege seg fritt i den ønskede retningen i henhold til sin naturlige atferd og uten forstyrrelser,
+2. svin og sau kan gå ved siden av hverandre, unntatt når det dreier seg om drivganger som fører til fikseringsutstyret.
 
 2.2.
 
@@ -811,7 +1021,12 @@ Dersom slakteriet har utendørs oppstalling uten naturlig ly eller skygge, skal 
 
 3.1.
 
-Fikseringsutstyr og -anlegg skal utformes, konstrueres og vedlikeholdes slik at de:gjør bruken av bedøvings- eller avlivingsmetoden best mulig,dyrene unngår skader eller kvestelser,motstanden og vokaliseringen fra dyrene blir minst mulig når de fikseres,fikseringstiden blir minst mulig.
+Fikseringsutstyr og -anlegg skal utformes, konstrueres og vedlikeholdes slik at de:
+
+1. gjør bruken av bedøvings- eller avlivingsmetoden best mulig,
+2. dyrene unngår skader eller kvestelser,
+3. motstanden og vokaliseringen fra dyrene blir minst mulig når de fikseres,
+4. fikseringstiden blir minst mulig.
 
 3.2.
 
@@ -873,7 +1088,11 @@ Utstyret til bedøving i vannbad skal være utstyrt med en innretning som viser 
 
 6.1.
 
-Utstyr til bedøving med gass, herunder transportbånd, skal utformes og konstrueres slik at:bruken av gass til bedøving blir best mulig,dyrene unngår skader eller kvestelser,motstanden og vokaliseringen fra dyrene blir minst mulig når de fikseres.
+Utstyr til bedøving med gass, herunder transportbånd, skal utformes og konstrueres slik at:
+
+1. bruken av gass til bedøving blir best mulig,
+2. dyrene unngår skader eller kvestelser,
+3. motstanden og vokaliseringen fra dyrene blir minst mulig når de fikseres.
 
 6.2.
 
@@ -881,7 +1100,9 @@ Utstyret til bedøving med gass skal være utstyrt slik at det hele tiden kan m�
 
 6.3.
 
-Utstyret til bedøving med gass skal utformes slik at dyrene, selv med høyeste tillatte kapasitet, kan legge seg ned uten å måtte ligge oppå hverandre.► **M1**
+Utstyret til bedøving med gass skal utformes slik at dyrene, selv med høyeste tillatte kapasitet, kan legge seg ned uten å måtte ligge oppå hverandre.
+
+► **M1**
 
 7.*Bedøving med lavt atmosfærisk trykk*
 
@@ -891,7 +1112,9 @@ Utstyr til bedøving med lavt atmosfærisk trykk skal være konstruert og bygd p
 
 7.2.
 
-Systemet skal være utstyrt slik at det kontinuerlig kan måle, vise og registrere det absolutte vakuumtrykket, eksponeringstiden, temperaturen og luftfuktigheten samt gi en advarsel som tydelig kan ses og høres, dersom trykket avviker fra de påkrevde nivåene. Innretningen skal være klart synlig for personalet.◄ **M1**
+Systemet skal være utstyrt slik at det kontinuerlig kan måle, vise og registrere det absolutte vakuumtrykket, eksponeringstiden, temperaturen og luftfuktigheten samt gi en advarsel som tydelig kan ses og høres, dersom trykket avviker fra de påkrevde nivåene. Innretningen skal være klart synlig for personalet.
+
+◄ **M1**
 
 ### VEDLEGG III
 DRIFTSREGLER FOR SLAKTERIER
@@ -916,17 +1139,28 @@ Dette materialet skal sikre en effektiv drenering eller i tilstrekkelig grad abs
 
 1.3.
 
-Containere (inkludert kasser) som det transporteres dyr i, skal holdes i god stand, behandles varsomt, særlig dersom de har perforert eller fleksibel bunn, og:skal ikke kastes, mistes eller veltes,om mulig lastes og losses vannrett og mekanisk.
+Containere (inkludert kasser) som det transporteres dyr i, skal holdes i god stand, behandles varsomt, særlig dersom de har perforert eller fleksibel bunn, og:
+
+1. skal ikke kastes, mistes eller veltes,
+2. om mulig lastes og losses vannrett og mekanisk.
 
 Når det er mulig, skal dyrene losses enkeltvis.
 
 1.4.
 
-Når containere stables, skal det treffes nødvendige forholdsregler for å:unngå at urin og avføring treffer dyrene som er plassert under,sikre at containerne står støtt,sikre at ventilasjonen ikke hindres.
+Når containere stables, skal det treffes nødvendige forholdsregler for å:
+
+1. unngå at urin og avføring treffer dyrene som er plassert under,
+2. sikre at containerne står støtt,
+3. sikre at ventilasjonen ikke hindres.
 
 1.5.
 
-Med henblikk på slakting skal dyr som ikke er avvent, melkeproduserende dyr i laktasjon, hunndyr som har født under transporten, eller dyr som leveres i containere, ha forrang foran andre typer dyr. Dersom dette ikke er mulig, skal det treffes tiltak for å lindre dyrenes lidelser, særlig ved å:melke melkeproduserende dyr med høyst tolv timers mellomrom,sørge for hensiktsmessige forhold for diegivning og det nyfødte dyrs velferd dersom et hunndyr har født,sørge for å gi vann til dyr som leveres i containere.
+Med henblikk på slakting skal dyr som ikke er avvent, melkeproduserende dyr i laktasjon, hunndyr som har født under transporten, eller dyr som leveres i containere, ha forrang foran andre typer dyr. Dersom dette ikke er mulig, skal det treffes tiltak for å lindre dyrenes lidelser, særlig ved å:
+
+1. melke melkeproduserende dyr med høyst tolv timers mellomrom,
+2. sørge for hensiktsmessige forhold for diegivning og det nyfødte dyrs velferd dersom et hunndyr har født,
+3. sørge for å gi vann til dyr som leveres i containere.
 
 1.6.
 
@@ -938,9 +1172,16 @@ Det skal sikres en jevn tilgang av dyr som skal bedøves og avlives, for å unng
 
 1.8.
 
-Det er forbudt å:slå eller sparke dyr,utsette særlig følsomme deler av dyrenes kropp for press på en slik måte at de påføres unødig smerte eller lidelse,løfte eller dra dyrene etter hode, ører, horn, bein, hale eller pels, eller håndtere dem på en slik måte at de påføres unødig smerte eller lidelse,
+Det er forbudt å:
 
-Forbudet mot å løfte dyr etter beina gjelder likevel ikke for fjørfe, kanin og hare.bruke piggstav eller andre spisse gjenstander,vri, knuse eller brekke dyrenes haler eller gripe fatt i et dyrs øyne.
+1. slå eller sparke dyr,
+2. utsette særlig følsomme deler av dyrenes kropp for press på en slik måte at de påføres unødig smerte eller lidelse,
+3. løfte eller dra dyrene etter hode, ører, horn, bein, hale eller pels, eller håndtere dem på en slik måte at de påføres unødig smerte eller lidelse,
+
+Forbudet mot å løfte dyr etter beina gjelder likevel ikke for fjørfe, kanin og hare.
+
+1. bruke piggstav eller andre spisse gjenstander,
+2. vri, knuse eller brekke dyrenes haler eller gripe fatt i et dyrs øyne.
 
 1.9.
 
@@ -948,7 +1189,11 @@ Bruk av instrumenter som gir elektrisk støt, skal så vidt mulig unngås. I all
 
 1.10.
 
-Dyr skal ikke bindes fast ved horn, gevir eller nesering, og beina skal ikke bindes sammen. Når dyr må bindes, skal tau, tjor eller andre festeinnretninger være:så sterke at de ikke går i stykker,slik at dyrene om nødvendig kan legge seg ned, spise og drikke,slik utformet at det ikke oppstår fare for kvelning eller skade, og slik at dyrene raskt kan frigjøres.
+Dyr skal ikke bindes fast ved horn, gevir eller nesering, og beina skal ikke bindes sammen. Når dyr må bindes, skal tau, tjor eller andre festeinnretninger være:
+
+1. så sterke at de ikke går i stykker,
+2. slik at dyrene om nødvendig kan legge seg ned, spise og drikke,
+3. slik utformet at det ikke oppstår fare for kvelning eller skade, og slik at dyrene raskt kan frigjøres.
 
 1.11.
 

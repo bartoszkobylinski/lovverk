@@ -15,7 +15,7 @@ xml_hash: "4ec187326eddba3e946325e8a0949693416261907736794885764c3210c1cbe6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,12 @@ Blir behandlingen av en konkursbegjæring utsatt i henhold til [lov om gjeldsfor
 
 Fristdagen ved konkurs er dagen da den begjæring om åpning av konkurs som ble tatt til følge, kom inn til tingretten.
 
-Fristdagen er likevel dagen da begjæring om åpning av gjeldsforhandling kom inn til retten, såfremtkonkurs er åpnet på grunnlag av en begjæring som kom inn til retten senest tre uker etter at en tidligere begjæring om gjeldsforhandling ble tilbakekalt eller rettskraftig avvist eller forkastet,gjeldsforhandlingen er gått over til konkurs i samsvar med [lov om gjeldsforhandling og konkurs § 57](lov/1984-06-08-58/§57),konkurs er åpnet på grunnlag av en begjæring som kom inn til retten senest tre uker etter at gjeldsforhandlingen ble rettskraftig innstilt eller avsluttet,skyldneren dør under gjeldsforhandlingen.
+Fristdagen er likevel dagen da begjæring om åpning av gjeldsforhandling kom inn til retten, såfremt
+
+1. konkurs er åpnet på grunnlag av en begjæring som kom inn til retten senest tre uker etter at en tidligere begjæring om gjeldsforhandling ble tilbakekalt eller rettskraftig avvist eller forkastet,
+2. gjeldsforhandlingen er gått over til konkurs i samsvar med [lov om gjeldsforhandling og konkurs § 57](lov/1984-06-08-58/§57),
+3. konkurs er åpnet på grunnlag av en begjæring som kom inn til retten senest tre uker etter at gjeldsforhandlingen ble rettskraftig innstilt eller avsluttet,
+4. skyldneren dør under gjeldsforhandlingen.
 
 Dagen for skyldnerens død er fristdagen når konkurs er åpnet i skyldnerens dødsbo, og det ikke er på det rene at skyldneren var solvent da han døde, med mindre reglene i annet eller fjerde ledd fører til at fristdagen kommer tidligere.
 
@@ -72,7 +77,11 @@ Med en umiddelbart forutgående gjeldsforhandling forstås en gjeldsforhandling 
 
 ### § 1-5. Skyldnerens nærstående.
 
-Som innbyrdes nærstående anses i denne lov:ektefeller, ugifte samboende, forlovede, slektninger i opp- og nedstigende linje, søsken, de nevnte personers ektefeller og andre som står hverandre personlig særlig nær (personlig nærstående),en virksomhet og en person, dersom personen eller noen av vedkommendes personlig nærstående alene eller sammen med andre nærstående eier en vesentlig del av virksomheten eller oppebærer en betydelig del av dens inntekter eller i kraft av sin stilling som leder har vesentlig innflytelse på den, ogto virksomheter, dersom den ene virksomhet alene eller sammen med andre nærstående eier en vesentlig del av den andre virksomheten eller oppebærer en betydelig del av dens inntekter eller i kraft av sin stilling som leder har vesentlig innflytelse på den, eller dersom begge er nærstående til samme person eller virksomhet.
+Som innbyrdes nærstående anses i denne lov:
+
+1. ektefeller, ugifte samboende, forlovede, slektninger i opp- og nedstigende linje, søsken, de nevnte personers ektefeller og andre som står hverandre personlig særlig nær (personlig nærstående),
+2. en virksomhet og en person, dersom personen eller noen av vedkommendes personlig nærstående alene eller sammen med andre nærstående eier en vesentlig del av virksomheten eller oppebærer en betydelig del av dens inntekter eller i kraft av sin stilling som leder har vesentlig innflytelse på den, og
+3. to virksomheter, dersom den ene virksomhet alene eller sammen med andre nærstående eier en vesentlig del av den andre virksomheten eller oppebærer en betydelig del av dens inntekter eller i kraft av sin stilling som leder har vesentlig innflytelse på den, eller dersom begge er nærstående til samme person eller virksomhet.
 
 ### § 1-6. Lovens virkeområde.
 
@@ -108,7 +117,11 @@ Når ikke annet er fastsatt ved lov eller annen gyldig bestemmelse, har fordring
 
 ### § 2-3. Beslagsfrihet for personlige eiendeler.
 
-Fordringshaverne har ikke rett til dekning i følgende eiendeler:klær og andre ting til personlig bruk for skyldneren eller dennes husstand samt innbo, utstyr og lignende løsøre som skyldneren trenger i sitt hjem, alt for så vidt verdien av tingene ikke er større enn at det etter forholdene er rimelig å unnta dem;redskaper, transportmidler og lignende hjelpemidler som skyldneren eller noen av dennes husstand trenger for sitt yrke eller til sin utdanning, likevel ikke utover en samlet verdi som svarer til to tredeler av folketrygdens grunnbeløp (avrundet til nærmeste hundre kroner). Varer eller materialer beregnet på salg eller bearbeidelse omfattes ikke av disse regler;ting som har en særlig personlig verdi for skyldneren eller noen av dennes husstand, dersom verdien ikke er større enn at det ville være åpenbart urimelig om tingene ble tvangssolgt.
+Fordringshaverne har ikke rett til dekning i følgende eiendeler:
+
+1. klær og andre ting til personlig bruk for skyldneren eller dennes husstand samt innbo, utstyr og lignende løsøre som skyldneren trenger i sitt hjem, alt for så vidt verdien av tingene ikke er større enn at det etter forholdene er rimelig å unnta dem;
+2. redskaper, transportmidler og lignende hjelpemidler som skyldneren eller noen av dennes husstand trenger for sitt yrke eller til sin utdanning, likevel ikke utover en samlet verdi som svarer til to tredeler av folketrygdens grunnbeløp (avrundet til nærmeste hundre kroner). Varer eller materialer beregnet på salg eller bearbeidelse omfattes ikke av disse regler;
+3. ting som har en særlig personlig verdi for skyldneren eller noen av dennes husstand, dersom verdien ikke er større enn at det ville være åpenbart urimelig om tingene ble tvangssolgt.
 
 Dersom skyldneren eller noen som hører til dennes husstand lider av sykdom eller er ufør, skal det tas rimelig hensyn til det. I særlige tilfeller kan da ting som er nevnt under første ledd bokstav b, unntas selv om den samlede verdi overstiger to tredeler av folketrygdens grunnbeløp (avrundet til nærmeste hundre kroner).
 
@@ -120,7 +133,10 @@ Er det ikke adgang til å gjøre gjeldende beslagsfrihet for en ting etter førs
 
 ### § 2-4. Beslagsfrihet for stipendier, offentlige bidrag o l.
 
-Fordringshaverne har ikke rett til dekning istipend eller lignende bidrag til fremme av kulturelt, vitenskapelig eller humanitært formål,bidrag som offentlig organ eller institusjon med allmennyttig formål har gitt skyldneren til fremme av et særskilt formål.
+Fordringshaverne har ikke rett til dekning i
+
+1. stipend eller lignende bidrag til fremme av kulturelt, vitenskapelig eller humanitært formål,
+2. bidrag som offentlig organ eller institusjon med allmennyttig formål har gitt skyldneren til fremme av et særskilt formål.
 
 Reglene gjelder ikke bidrag som har karakter av personlig lønn.
 
@@ -138,7 +154,11 @@ Ved konkurs og offentlig skifte av insolvent dødsbo treffes avgjørelsen om bes
 
 ### § 2-6. Utvidet adgang til utlegg i særlige tilfeller.
 
-Reglene i [§§ 2-3](lov/1984-06-08-59/§2-3) til [2-5](lov/1984-06-08-59/§2-5) kan fravikes i den utstrekning det finnes rimelig, når utlegg søkes for:krav på erstatning eller oppreising for skade som skyldneren har voldt forsettlig eller grovt uaktsomt, eller regresskrav på grunn av slik skade;krav som grunner seg på lovbestemt forsørgelsesplikt;krav på skatt og offentlig avgift, samt ansvar for slike krav eller tilsvarende trekk.
+Reglene i [§§ 2-3](lov/1984-06-08-59/§2-3) til [2-5](lov/1984-06-08-59/§2-5) kan fravikes i den utstrekning det finnes rimelig, når utlegg søkes for:
+
+1. krav på erstatning eller oppreising for skade som skyldneren har voldt forsettlig eller grovt uaktsomt, eller regresskrav på grunn av slik skade;
+2. krav som grunner seg på lovbestemt forsørgelsesplikt;
+3. krav på skatt og offentlig avgift, samt ansvar for slike krav eller tilsvarende trekk.
 
 For krav på kjøpesummen for en ting eller for krav som er sikret ved pant eller tilbakeholdsrett i tingen, kan utlegg tas i tingen uten hinder av bestemmelsene i [§ 2-3](lov/1984-06-08-59/§2-3).
 
@@ -152,7 +172,16 @@ Utlegg i henhold til reglene i denne paragraf kan tas selv om det er åpnet gjel
 
 Utlegg kan tas i form av utleggstrekk i skyldnerens krav på forfalt eller uforfalt lønn etter fradrag av forskuddstrekk i den utstrekning lønnen overstiger det som med rimelighet trengs til underhold av skyldneren og skyldnerens husstand. Kongen kan i forskrift fastsette satser for beregningen av det som med rimelighet trengs til underhold av skyldneren og skyldnerens husstand. Kongen kan i forskrift dessuten angi hvordan utleggstrekk kan fastsettes. Videre kan Kongen i forskrift gi regler om beregning og gjennomføring av utleggstrekk i lotter og parter.
 
-Første ledd gjelder tilsvarende for:annet vederlag for personlig arbeid, herunder tilsvarende arbeidsgodtgjørelse for utnytting av skyldnerens åndsverk, oppfinnelser m.m.,pensjon eller vartpenger som en arbeidsgiver betaler eller har sikret sine ansatte eller deres etterlatte ved eller uten fradrag i lønnen,annen pensjon, stønad, livrente eller føderåd,underholdsbidrag som skyldneren har krav på til seg selv,pensjon eller annen ytelse etter lovgivningen om offentlig trygd eller lignende;erstatning eller oppreisning for skade på legeme eller helse eller for tap av forsørger,midler innsamlet offentlig til skyldneren,æresgaver som består i penger.
+Første ledd gjelder tilsvarende for:
+
+1. annet vederlag for personlig arbeid, herunder tilsvarende arbeidsgodtgjørelse for utnytting av skyldnerens åndsverk, oppfinnelser m.m.,
+2. pensjon eller vartpenger som en arbeidsgiver betaler eller har sikret sine ansatte eller deres etterlatte ved eller uten fradrag i lønnen,
+3. annen pensjon, stønad, livrente eller føderåd,
+4. underholdsbidrag som skyldneren har krav på til seg selv,
+5. pensjon eller annen ytelse etter lovgivningen om offentlig trygd eller lignende;
+6. erstatning eller oppreisning for skade på legeme eller helse eller for tap av forsørger,
+7. midler innsamlet offentlig til skyldneren,
+8. æresgaver som består i penger.
 
 Ved utleggstrekk i godtgjørelse for arbeid eller oppdrag utført som ledd i selvstendig næringsvirksomhet kan trekk tas i inntil 20 prosent av bruttogodtgjørelsen. Skyldneren kan samtykke til en høyere trekkprosent.
 
@@ -164,7 +193,13 @@ Bortsett fra ved innfordring av krav som nevnt i [§ 2-8 første ledd bokstav a]
 
 ### § 2-8. Prioriteten for krav i utleggstrekk
 
-Dersom flere krav mot samme skyldner skal dekkes ved utleggstrekk, deltar alle kravene i det samme trekket. Dersom trekket ikke er tilstrekkelig til å dekke alle kravene, har kravene prioritet som følger:krav fra den bidragsberettigede som grunner seg på lovbestemt forsørgelsesplikt,krav på erstatning eller oppreisning for skade voldt ved en straffbar handling,krav på bøter,krav på skatt, offentlig avgift, statens regresskrav etter [voldserstatningsloven § 11](lov/2022-06-17-57/§11) og folketrygdens regresskrav etter [forskotteringsloven § 10](lov/1989-02-17-2/§10),andre krav.
+Dersom flere krav mot samme skyldner skal dekkes ved utleggstrekk, deltar alle kravene i det samme trekket. Dersom trekket ikke er tilstrekkelig til å dekke alle kravene, har kravene prioritet som følger:
+
+1. krav fra den bidragsberettigede som grunner seg på lovbestemt forsørgelsesplikt,
+2. krav på erstatning eller oppreisning for skade voldt ved en straffbar handling,
+3. krav på bøter,
+4. krav på skatt, offentlig avgift, statens regresskrav etter [voldserstatningsloven § 11](lov/2022-06-17-57/§11) og folketrygdens regresskrav etter [forskotteringsloven § 10](lov/1989-02-17-2/§10),
+5. andre krav.
 
 Fortrinnsretten etter første ledd bokstav a til d gjelder tilsvarende for krav som bygger på ansvar for slike krav samt for renter, kostnader og gebyrer som angitt i trekkbeslutningen. Er det besluttet dekning ved trekk for krav som bygger på ansvar for trekk, har kravet prioritet etter arten av det kravet som har best prioritet i det opprinnelige trekket så lenge dette ikke er dekket.
 
@@ -366,7 +401,10 @@ Vedtak i foretaksorganer om ansvarsfrihet eller om at erstatningskrav ikke skal 
 
 ### § 5-4. Urimelig lønnsutbetaling m.m. til nærstående.
 
-Reglene i [§ 5-2](lov/1984-06-08-59/§5-2) om omstøtelse av gaver gjelder tilsvarende forutbetalinger til nærstående av lønn, annet arbeidsvederlag eller pensjon, for så vidt angår beløp som åpenbart overstiger det som må anses rimelig under hensyn til det utførte arbeid, virksomhetens inntekter eller forholdene ellers;vederlag til nærstående for kjøp, leie eller tjenester, for så vidt angår beløp som åpenbart overstiger det som uavhengige avtaleparter ville ha avtalt.
+Reglene i [§ 5-2](lov/1984-06-08-59/§5-2) om omstøtelse av gaver gjelder tilsvarende for
+
+1. utbetalinger til nærstående av lønn, annet arbeidsvederlag eller pensjon, for så vidt angår beløp som åpenbart overstiger det som må anses rimelig under hensyn til det utførte arbeid, virksomhetens inntekter eller forholdene ellers;
+2. vederlag til nærstående for kjøp, leie eller tjenester, for så vidt angår beløp som åpenbart overstiger det som uavhengige avtaleparter ville ha avtalt.
 
 > Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
 
@@ -390,7 +428,10 @@ Motregning med en fordring på skyldneren kan omstøtes når den er skjedd sener
 
 ### § 5-7. Sikkerhetsstillelse for eldre gjeld.
 
-Pantsettelse eller annen sikkerhetsstillelse som skyldneren har foretatt senere enn tre måneder før fristdagen, kan omstøtes dersom:pantet eller sikkerheten er stilt for gjeld som skyldneren har pådratt seg før sikkerhetsretten ble avtalt, ellerrettsvernet ikke ble brakt i orden uten unødig opphold etter at gjelden ble pådratt.
+Pantsettelse eller annen sikkerhetsstillelse som skyldneren har foretatt senere enn tre måneder før fristdagen, kan omstøtes dersom:
+
+1. pantet eller sikkerheten er stilt for gjeld som skyldneren har pådratt seg før sikkerhetsretten ble avtalt, eller
+2. rettsvernet ikke ble brakt i orden uten unødig opphold etter at gjelden ble pådratt.
 
 Første ledd gjelder tilsvarende når sikkerhet til skyldnerens nærstående er stilt tidligere, men senere enn to år før fristdagen, dersom det ikke bevises at skyldneren fortsatt var utvilsomt solvent da sikkerhet ble stilt.
 
@@ -436,7 +477,10 @@ Har den annen part overdratt det mottatte til en tredjeperson som kjente eller b
 
 ### § 5-13. Virkningen av omstøtelse for skyldnerens medansvarlige.
 
-Når tredjeperson har kausjonert eller stilt sikkerhet for gjeld som skyldneren har betalt, kan fordringshaveren eller boet kreve kausjonsansvaret eller sikkerhetsretten gjenopprettet, dersom:skyldnerens betaling er omstøtelig etter reglene foran i dette kapittel, ogtredjeperson, da denne fikk vite om betalingen, visste eller burde vite at skyldneren var insolvent.
+Når tredjeperson har kausjonert eller stilt sikkerhet for gjeld som skyldneren har betalt, kan fordringshaveren eller boet kreve kausjonsansvaret eller sikkerhetsretten gjenopprettet, dersom:
+
+1. skyldnerens betaling er omstøtelig etter reglene foran i dette kapittel, og
+2. tredjeperson, da denne fikk vite om betalingen, visste eller burde vite at skyldneren var insolvent.
 
 Kan sikkerheten ikke skaffes, skal tredjeperson erstatte det beløp som sikkerheten må antas å ville ha innbrakt.
 
@@ -678,7 +722,11 @@ Overdrar boet en fordring slik at en fordringshaver mister retten til å motregn
 
 ### § 8-7. Dividenderetten ved solidaransvar.
 
-Dersom flere skyldnere hefter solidarisk, nedsettes fordringshaverens rett til dividende i en skyldners bo ikke ved:avdrag fra en medskyldner som hadde rett til å søke det betalte tilbake fra skyldneren,avdrag ved dividende fra en medskyldners bo,avdrag som fordringshaveren har mottatt fra en medskyldner senere enn tre måneder før fristdagen.
+Dersom flere skyldnere hefter solidarisk, nedsettes fordringshaverens rett til dividende i en skyldners bo ikke ved:
+
+1. avdrag fra en medskyldner som hadde rett til å søke det betalte tilbake fra skyldneren,
+2. avdrag ved dividende fra en medskyldners bo,
+3. avdrag som fordringshaveren har mottatt fra en medskyldner senere enn tre måneder før fristdagen.
 
 Avdraget nedsetter likevel fordringshaverens rett til dividende i det omfang medskyldneren har fått dekket sin regressfordring hos skyldneren, forutsatt at dekningen ikke blir omstøtt.
 
@@ -750,17 +798,47 @@ Reglene i dette kapittel gjelder under konkurs og ved offentlig skifte av insolv
 
 Foran all annen gjeld skal dekkes rimelige omkostninger ved skyldnerens begravelse. Ved konkurs gjelder dette når dødsfallet har funnet sted før konkursåpningen.
 
-Etter fordringer som nevnt i første ledd skal følgende fordringer dekkes foran annen gjeld:omkostningene ved bobehandlingen, derunder rimelige omkostninger påført en rekvirent i forbindelse med begjæring om rådighetsforbud før konkurs dersom begjæringen er tatt til følge, og rimelige omkostninger i forbindelse med begjæring om åpning av konkurs, når ikke begjæringen er avgjort eller tilbakekalt før konkursåpningen,andre forpliktelser påført skyldnerens bo under bobehandlingen.
+Etter fordringer som nevnt i første ledd skal følgende fordringer dekkes foran annen gjeld:
 
-I den utstrekning det er midler til det, dekkes dessuten:omkostningene ved en umiddelbart forutgående gjeldsforhandling eller et offentlig skifte av skyldnerens dødsbo;andre forpliktelser påført skyldnerens bo med gjeldsnemndas tillatelse under en umiddelbart forutgående gjeldsforhandling eller med rettens samtykke under offentlig dødsboskifte;fordringer som nevnt i [§ 9-4](lov/1984-06-08-59/§9-4) påført skyldnerens bo under en umiddelbart forutgående gjeldsforhandling eller under offentlig dødsboskifte, og fordringer som til slik tid er oppstått ved forbrukerkjøp eller andre avtaler med forbruker under fortsatt drift av skyldnerens forretning.
+1. omkostningene ved bobehandlingen, derunder rimelige omkostninger påført en rekvirent i forbindelse med begjæring om rådighetsforbud før konkurs dersom begjæringen er tatt til følge, og rimelige omkostninger i forbindelse med begjæring om åpning av konkurs, når ikke begjæringen er avgjort eller tilbakekalt før konkursåpningen,
+2. andre forpliktelser påført skyldnerens bo under bobehandlingen.
+
+I den utstrekning det er midler til det, dekkes dessuten:
+
+1. omkostningene ved en umiddelbart forutgående gjeldsforhandling eller et offentlig skifte av skyldnerens dødsbo;
+2. andre forpliktelser påført skyldnerens bo med gjeldsnemndas tillatelse under en umiddelbart forutgående gjeldsforhandling eller med rettens samtykke under offentlig dødsboskifte;
+3. fordringer som nevnt i [§ 9-4](lov/1984-06-08-59/§9-4) påført skyldnerens bo under en umiddelbart forutgående gjeldsforhandling eller under offentlig dødsboskifte, og fordringer som til slik tid er oppstått ved forbrukerkjøp eller andre avtaler med forbruker under fortsatt drift av skyldnerens forretning.
 
 > Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9-3. Fortrinnsberettigede fordringer av første klasse.
 
-Etter de fordringer som er nevnt i [§ 9-2](lov/1984-06-08-59/§9-2), skal følgende fordringer dekkes:Fordring på lønn eller annet arbeidsvederlag i skyldnerens tjeneste, unntatt:vederlag som tillitsmann når skyldneren er en sammenslutning eller en stiftelse,vederlag til arbeidstaker som har hatt eierandel i virksomheten på minst 20 prosent,vederlag til arbeidstaker som har vært daglig leder,vederlag til arbeidstaker som har vært styremedlem, unntatt arbeidstakernes valgte representanter.Unntakene etter bokstavene b-d omfatter vederlag som er opptjent mens arbeidstakeren var i slik posisjon. Vederlag etter bokstav b og d kan likevel gis fortrinnsrett dersom arbeidstakeren sannsynliggjør at han ikke har hatt vesentlig innflytelse over driften i virksomheten. Når staten har dekket krav på vederlag som nevnt i bokstav c og d etter den statlige lønnsgarantiordningen, jf. [lønnsgarantiloven § 1](lov/1973-12-14-61/§1) fjerde ledd nr. 1, eller krav som nevnt i [lønnsgarantiloven § 1](lov/1973-12-14-61/§1) fjerde ledd nr. 2, har statens regresskrav mot boet fortrinnsrett.Fordringens forfallstid må ikke ligge lenger tilbake enn fire måneder før fristdagen. Fortrinnsretten er begrenset til lønn i seks måneder. For fordring på annet vederlag enn fast lønn er fortrinnsretten begrenset til det seksdobbelte av det arbeidstakeren gjennomsnittlig har opptjent pr. måned i det siste året før fristdagen eller i den del av dette som arbeidstakeren har vært i skyldnerens tjeneste. Reglene i annet og tredje punktum gjelder likevel ikke for opptjent sluttoppgjør for akkordarbeid.Fortrinnsretten omfatter ikke lønn og annet arbeidsvederlag for oppsigelsestid utover de oppsigelsesfrister som følger av [arbeidsmiljøloven § 15-3](lov/2005-06-17-62/§15-3) første til fjerde ledd, med mindre lengre oppsigelsesfrist følger av tariffavtale som er inngått tidligere enn seks måneder før fristdagen.Fortrinnsretten omfatter bare det som overstiger annen inntekt som fordringshaveren har hatt i samme tidsrom, i den utstrekning den kommer istedenfor inntekt i skyldnerens tjeneste. Utbetalte dagpenger under arbeidsløyse etter [folketrygdloven kapittel 4](lov/1997-02-28-19/kap4) regnes i denne forbindelse ikke som annen inntekt. Offentlig myndighet kan kreve utbetalte dagpenger tilbakebetalt av boet med samme fortrinnsrett som kravet de trer i stedet for.Fordring på opptjent feriegodtgjøring for inntil 30 måneder som tilkommer arbeidstaker som ikke omfattes av nr 1 a-d. Fordringen må ikke være opptjent lenger tilbake enn 24 måneder før fristdagen, med mindre fordringens forfallstid ikke ligger lenger tilbake enn fire måneder før fristdagen. Feriegodtgjøring av fordring på lønn eller annet arbeidsvederlag dekkes bare i den utstrekning fordringen har prioritet etter nr. 1 annet, fjerde og femte ledd. For feriegodtgjøring av fordring på lønn og annet arbeidsvederlag opptjent etter fristdagen, må fordringen også ha prioritet etter nr. 1 tredje ledd annet punktum.Fordring på arbeidsgiver på pensjon og på erstatning for tap av arbeidsvederlag. Bestemmelsene i nr. 1 gjelder tilsvarende likevel slik at det til sammen bare kan dekkes fordringer etter nr. 1 og 3 for inntil seks måneder.Fordring på underholdsbidrag til ektefelle eller barn som gjelder de siste seks måneder før fristdagen.Fordring etter lovgivningens bestemmelser om ansvar for trekk av underholdsbidrag til ektefelle eller barn, når forfallstiden for innbetaling av beløpet ikke ligger lenger tilbake enn seks måneder før fristdagen.Renter inntil fristdagen og inndrivelsesomkostninger vedrørende krav som har fortrinnsrett etter nr. 1 til 5.
+Etter de fordringer som er nevnt i [§ 9-2](lov/1984-06-08-59/§9-2), skal følgende fordringer dekkes:
 
-Fordringer som nevnt i første ledd, har fortrinnsrett selv om forfallstiden ligger lenger tilbake enn fire måneder før fristdagen dersom fordringshaveren uten ugrunnet opphold:har søkt fordringen inndrevet, men ikke har nådd å skaffe seg utlegg som boet må respektere, ellerhar tatt skritt som nevnt i [konkursloven § 63](lov/1984-06-08-58/§63) for å få åpnet konkurs i skyldnerens virksomhet, men ikke innen fire måneder etter forfallstid har nådd å fremsette konkursbegjæring som blir tatt til følge.
+1. Fordring på lønn eller annet arbeidsvederlag i skyldnerens tjeneste, unntatt:
+
+   1. vederlag som tillitsmann når skyldneren er en sammenslutning eller en stiftelse,
+   2. vederlag til arbeidstaker som har hatt eierandel i virksomheten på minst 20 prosent,
+   3. vederlag til arbeidstaker som har vært daglig leder,
+   4. vederlag til arbeidstaker som har vært styremedlem, unntatt arbeidstakernes valgte representanter.
+
+   Unntakene etter bokstavene b-d omfatter vederlag som er opptjent mens arbeidstakeren var i slik posisjon. Vederlag etter bokstav b og d kan likevel gis fortrinnsrett dersom arbeidstakeren sannsynliggjør at han ikke har hatt vesentlig innflytelse over driften i virksomheten. Når staten har dekket krav på vederlag som nevnt i bokstav c og d etter den statlige lønnsgarantiordningen, jf. [lønnsgarantiloven § 1](lov/1973-12-14-61/§1) fjerde ledd nr. 1, eller krav som nevnt i [lønnsgarantiloven § 1](lov/1973-12-14-61/§1) fjerde ledd nr. 2, har statens regresskrav mot boet fortrinnsrett.
+
+   Fordringens forfallstid må ikke ligge lenger tilbake enn fire måneder før fristdagen. Fortrinnsretten er begrenset til lønn i seks måneder. For fordring på annet vederlag enn fast lønn er fortrinnsretten begrenset til det seksdobbelte av det arbeidstakeren gjennomsnittlig har opptjent pr. måned i det siste året før fristdagen eller i den del av dette som arbeidstakeren har vært i skyldnerens tjeneste. Reglene i annet og tredje punktum gjelder likevel ikke for opptjent sluttoppgjør for akkordarbeid.
+
+   Fortrinnsretten omfatter ikke lønn og annet arbeidsvederlag for oppsigelsestid utover de oppsigelsesfrister som følger av [arbeidsmiljøloven § 15-3](lov/2005-06-17-62/§15-3) første til fjerde ledd, med mindre lengre oppsigelsesfrist følger av tariffavtale som er inngått tidligere enn seks måneder før fristdagen.
+
+   Fortrinnsretten omfatter bare det som overstiger annen inntekt som fordringshaveren har hatt i samme tidsrom, i den utstrekning den kommer istedenfor inntekt i skyldnerens tjeneste. Utbetalte dagpenger under arbeidsløyse etter [folketrygdloven kapittel 4](lov/1997-02-28-19/kap4) regnes i denne forbindelse ikke som annen inntekt. Offentlig myndighet kan kreve utbetalte dagpenger tilbakebetalt av boet med samme fortrinnsrett som kravet de trer i stedet for.
+2. Fordring på opptjent feriegodtgjøring for inntil 30 måneder som tilkommer arbeidstaker som ikke omfattes av nr 1 a-d. Fordringen må ikke være opptjent lenger tilbake enn 24 måneder før fristdagen, med mindre fordringens forfallstid ikke ligger lenger tilbake enn fire måneder før fristdagen. Feriegodtgjøring av fordring på lønn eller annet arbeidsvederlag dekkes bare i den utstrekning fordringen har prioritet etter nr. 1 annet, fjerde og femte ledd. For feriegodtgjøring av fordring på lønn og annet arbeidsvederlag opptjent etter fristdagen, må fordringen også ha prioritet etter nr. 1 tredje ledd annet punktum.
+3. Fordring på arbeidsgiver på pensjon og på erstatning for tap av arbeidsvederlag. Bestemmelsene i nr. 1 gjelder tilsvarende likevel slik at det til sammen bare kan dekkes fordringer etter nr. 1 og 3 for inntil seks måneder.
+4. Fordring på underholdsbidrag til ektefelle eller barn som gjelder de siste seks måneder før fristdagen.
+5. Fordring etter lovgivningens bestemmelser om ansvar for trekk av underholdsbidrag til ektefelle eller barn, når forfallstiden for innbetaling av beløpet ikke ligger lenger tilbake enn seks måneder før fristdagen.
+6. Renter inntil fristdagen og inndrivelsesomkostninger vedrørende krav som har fortrinnsrett etter nr. 1 til 5.
+
+Fordringer som nevnt i første ledd, har fortrinnsrett selv om forfallstiden ligger lenger tilbake enn fire måneder før fristdagen dersom fordringshaveren uten ugrunnet opphold:
+
+1. har søkt fordringen inndrevet, men ikke har nådd å skaffe seg utlegg som boet må respektere, eller
+2. har tatt skritt som nevnt i [konkursloven § 63](lov/1984-06-08-58/§63) for å få åpnet konkurs i skyldnerens virksomhet, men ikke innen fire måneder etter forfallstid har nådd å fremsette konkursbegjæring som blir tatt til følge.
 
 De fordringer som har fortrinnsrett etter denne paragraf, har innbyrdes lik rett.
 
@@ -768,7 +846,12 @@ De fordringer som har fortrinnsrett etter denne paragraf, har innbyrdes lik rett
 
 ### § 9-4. Fortrinnsberettigede fordringer av annen klasse.
 
-Etter de fordringer som er nevnt i [§§ 9-2](lov/1984-06-08-59/§9-2) og [9-3](lov/1984-06-08-59/§9-3) skal følgende fordringer dekkes:fordring på skatt til stat eller kommune av formue eller inntekt;fordring etter lovgivningens bestemmelser om ansvar for skattetrekk;fordring på merverdiavgift;fordring på trygdeavgift til folketrygden.
+Etter de fordringer som er nevnt i [§§ 9-2](lov/1984-06-08-59/§9-2) og [9-3](lov/1984-06-08-59/§9-3) skal følgende fordringer dekkes:
+
+1. fordring på skatt til stat eller kommune av formue eller inntekt;
+2. fordring etter lovgivningens bestemmelser om ansvar for skattetrekk;
+3. fordring på merverdiavgift;
+4. fordring på trygdeavgift til folketrygden.
 
 Fordringenes ordinære forfallstid må likevel ikke ligge lenger tilbake enn seks måneder før fristdagen. For forskuddsskatt for personlige skattytere, jf. [skattebetalingsloven kapitlene 5](lov/2005-06-17-67/kap5) og 6, er fristen to år. For forskuddsskatt for upersonlige skattytere, jf. [skattebetalingsloven kapittel 6](lov/2005-06-17-67/kap6), er fristen ett år. Fortrinnsretten omfatter ikke skatt som er eller kunne vært fastsatt ved endring av skattefastsetting etter [skatteforvaltningsloven kapittel 12](lov/2016-05-27-14/kap12).
 
@@ -790,6 +873,15 @@ Etter at fordringer som nevnt i [§§ 9-2](lov/1984-06-08-59/§9-2) til [9-4](lo
 
 ### § 9-7. Etterprioriterte fordringer.
 
-Etter alle andre fordringer skal følgende fordringer dekkes i nedennevnte rekkefølge, idet fordringer nevnt under samme nummer har innbyrdes lik rett:Rente som etter åpning av bobehandlingen påløper på fordring som nevnt i [§§ 9-3](lov/1984-06-08-59/§9-3), [9-4](lov/1984-06-08-59/§9-4) og [9-6](lov/1984-06-08-59/§9-6). Utregningen skjer etter samme rentefot for alle krav. Renten fastsettes av Kongen.Fordringer som nevnt i [§ 6-2](lov/1984-06-08-59/§6-2) annet ledd.Den del av en fordring som tilsvarer en tilsagt rabatt i tilfelle hvor vilkårene for å oppnå rabatt ikke er oppfylt. For kontantrabatt gjelder dette bare den del av rabatten som overstiger 2 pst. av fordringens beløp.Fordring som etter avtale skal stå tilbake for de øvrige fordringshaverne, når ikke annet følger av avtalen.Fordring som av annen grunn enn nevnt i denne paragraf skal stå tilbake for de øvrige fordringshavere.Fordring på tilleggsskatt pålagt som følge av uriktige eller ufullstendige opplysninger til skattemyndighetene, og annen skatte- eller avgiftsfordring av tilsvarende art.Tvangsmulkt fastsatt med hjemmel i lov, straffebot, disiplinærbot, konvensjonalbot i den utstrekning den ikke er erstatning for lidt tap, samt inndragning.Fordring ifølge gaveløfte.
+Etter alle andre fordringer skal følgende fordringer dekkes i nedennevnte rekkefølge, idet fordringer nevnt under samme nummer har innbyrdes lik rett:
+
+1. 1. Rente som etter åpning av bobehandlingen påløper på fordring som nevnt i [§§ 9-3](lov/1984-06-08-59/§9-3), [9-4](lov/1984-06-08-59/§9-4) og [9-6](lov/1984-06-08-59/§9-6). Utregningen skjer etter samme rentefot for alle krav. Renten fastsettes av Kongen.
+   2. Fordringer som nevnt i [§ 6-2](lov/1984-06-08-59/§6-2) annet ledd.
+   3. Den del av en fordring som tilsvarer en tilsagt rabatt i tilfelle hvor vilkårene for å oppnå rabatt ikke er oppfylt. For kontantrabatt gjelder dette bare den del av rabatten som overstiger 2 pst. av fordringens beløp.
+2. Fordring som etter avtale skal stå tilbake for de øvrige fordringshaverne, når ikke annet følger av avtalen.
+3. Fordring som av annen grunn enn nevnt i denne paragraf skal stå tilbake for de øvrige fordringshavere.
+4. 1. Fordring på tilleggsskatt pålagt som følge av uriktige eller ufullstendige opplysninger til skattemyndighetene, og annen skatte- eller avgiftsfordring av tilsvarende art.
+   2. Tvangsmulkt fastsatt med hjemmel i lov, straffebot, disiplinærbot, konvensjonalbot i den utstrekning den ikke er erstatning for lidt tap, samt inndragning.
+5. Fordring ifølge gaveløfte.
 
 > Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).

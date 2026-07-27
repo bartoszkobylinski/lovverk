@@ -15,7 +15,7 @@ xml_hash: "aa940a46ececc9a43bcc9c4527e09b15f43b49ce6326f1c8f9d0bcb9d594028b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -102,19 +102,81 @@ Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ve
 
 Fagskoleutdanningene bygger på fullført og bestått videregående opplæring, eller tilsvarende realkompetanse, det vil si nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR). Fullført og bestått yrkesrettet utdanninger som frisør, hudpleier, fotterapeut, helse, omsorg og oppvekst, design og håndverksfag i minimum 1 år.
 
-Formelt opptakskrav er:Fullført og bestått videregående opplæring i ett av utdanningsprogrammene nedenunder:Tegning, form og fargeMedier og kommunikasjonDramaHudpleieInteriørdesign/utstillingsdesignKunst, design og arkitekturHelsefagFotterapieller ett av svennebrevene under:FrisørfagetFotograffagetMaskør- og parykkmakerfagetKostymesyerfaget.
+Formelt opptakskrav er:
+
+- Fullført og bestått videregående opplæring i ett av utdanningsprogrammene nedenunder:
+
+  - Tegning, form og farge
+  - Medier og kommunikasjon
+  - Drama
+  - Hudpleie
+  - Interiørdesign/utstillingsdesign
+  - Kunst, design og arkitektur
+  - Helsefag
+  - Fotterapi
+- eller ett av svennebrevene under:
+
+  - Frisørfaget
+  - Fotograffaget
+  - Maskør- og parykkmakerfaget
+  - Kostymesyerfaget.
 
 > Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662).
 
 ### § 2-3. Opptak på bakgrunn av realkompetanse
 
-Søkere som ikke tilfredsstiller opptakskravet for formell kompetanse, kan søke om opptak på grunnlag av realkompetanse. Minimumsalder for opptak på bakgrunn av realkompetanse er at søker fyller 19 år i løpet av året det søkes opptak. Opptakskomite som består av rektor og studieleder foretar realkompetansevurdering. Rektor fatter vedtak om opptak på bakgrunn av realkompetanse. Realkompetansen vurderes opp mot læringsutbytte på nivå 4A i Nasjonalt kvalifikasjonsrammeverk for livslang læring. Realkompetansevurdering skjer etter følgende retningslinjer:Søkere:Må levere dokumentasjon på realkompetanse som tilsvarer fullført og bestått videregående opplæring i det oppgitte svennebrev eller vitnemål fra utdanningsprogram som gjelder for formelt opptakskravMå levere dokumentasjon for fellesfag som tilsvarer læreplanene i vg1 og vg2 i yrkesfaglige programområder.Dokumentasjon:Må være utformet slik at den kan vurderes mot læringsutbyttebeskrivelsene/kompetansemålene i det oppgitte svennebrev for formell kompetanse og for fellesfagene på vg1 og vg2 i yrkesfaglige programområder.Realkompetansen kan være oppnådd både gjennom utdanning og praktisk relevant yrkeserfaring over 3 år.
+Søkere som ikke tilfredsstiller opptakskravet for formell kompetanse, kan søke om opptak på grunnlag av realkompetanse. Minimumsalder for opptak på bakgrunn av realkompetanse er at søker fyller 19 år i løpet av året det søkes opptak. Opptakskomite som består av rektor og studieleder foretar realkompetansevurdering. Rektor fatter vedtak om opptak på bakgrunn av realkompetanse. Realkompetansen vurderes opp mot læringsutbytte på nivå 4A i Nasjonalt kvalifikasjonsrammeverk for livslang læring. Realkompetansevurdering skjer etter følgende retningslinjer:
+
+- Søkere:
+
+  - Må levere dokumentasjon på realkompetanse som tilsvarer fullført og bestått videregående opplæring i det oppgitte svennebrev eller vitnemål fra utdanningsprogram som gjelder for formelt opptakskrav
+  - Må levere dokumentasjon for fellesfag som tilsvarer læreplanene i vg1 og vg2 i yrkesfaglige programområder.
+- Dokumentasjon:
+
+  - Må være utformet slik at den kan vurderes mot læringsutbyttebeskrivelsene/kompetansemålene i det oppgitte svennebrev for formell kompetanse og for fellesfagene på vg1 og vg2 i yrkesfaglige programområder.
+  - Realkompetansen kan være oppnådd både gjennom utdanning og praktisk relevant yrkeserfaring over 3 år.
 
 Oversikt som viser hva som godkjennes av realkompetanse:
 
-- Et av følgende fagbrev + 1 års relevant yrkeserfaring:Negletekniker/makeupartist som vurderes mot utdanningsprogrammet hudpleiefagAktivitør som vurderes mot utdanningsprogrammet formgivingsfagBlomsterdekoratør som vurderes mot utdanningsprogrammet formgivingsfag.
-- Et av følgende svennebrev + 1 års relevant yrkeserfaring:GullsmedSølvsmedHåndveverKjole- og draktsyerModistBunadtilvirkerHerreskredderMediedesignerMediegrafiker.
-- Relevant yrkeserfaring som godkjennes er medarbeider på en eller flere av følgende arbeidsplasser:HudpleieklinikkApotekButikker innen klær, mote og accessoirerTeater og sceneTv, film og reklamebyråFrisørsalongHudpleiesalong/spaNegleklinikkModellbyråParfymeriBedrifter innen tekstilbransjenBrudesalongBedrifter som jobber med:mediedesignblogging/videoblogging (vloggere) innen skjønnhet og velværefotterapidesignstyling av moteinteriørutstillingsdesign.
+- Et av følgende fagbrev + 1 års relevant yrkeserfaring:
+
+  - Negletekniker/makeupartist som vurderes mot utdanningsprogrammet hudpleiefag
+  - Aktivitør som vurderes mot utdanningsprogrammet formgivingsfag
+  - Blomsterdekoratør som vurderes mot utdanningsprogrammet formgivingsfag.
+- Et av følgende svennebrev + 1 års relevant yrkeserfaring:
+
+  - Gullsmed
+  - Sølvsmed
+  - Håndvever
+  - Kjole- og draktsyer
+  - Modist
+  - Bunadtilvirker
+  - Herreskredder
+  - Mediedesigner
+  - Mediegrafiker.
+- Relevant yrkeserfaring som godkjennes er medarbeider på en eller flere av følgende arbeidsplasser:
+
+  - Hudpleieklinikk
+  - Apotek
+  - Butikker innen klær, mote og accessoirer
+  - Teater og scene
+  - Tv, film og reklamebyrå
+  - Frisørsalong
+  - Hudpleiesalong/spa
+  - Negleklinikk
+  - Modellbyrå
+  - Parfymeri
+  - Bedrifter innen tekstilbransjen
+  - Brudesalong
+  - Bedrifter som jobber med:
+
+    - mediedesign
+    - blogging/videoblogging (vloggere) innen skjønnhet og velvære
+    - fotterapi
+    - design
+    - styling av mote
+    - interiør
+    - utstillingsdesign.
 
 Søker må også dokumentere tilstrekkelige ferdigheter i norsk til å kunne gjennomføre studiet. Ferdighetene skal ligge på et nivå som tilsvarer B2 norskprøve eller den kompetansen som oppnås ved Norsk Vg1 studieforberedende eller Norsk Vg2 yrkesfaglige utdanningsprogram.
 
@@ -381,9 +443,21 @@ Studenten har rett på å få hjelp og støtte fra fagskolens administrasjon til
 
 Studieadministrasjonen oppretter klagenemnd på vegne av styret ved Fagskolen TLA AS. Klagenemnden skal ha en sammensetning som oppfyller kravene i universitets- og [høyskoleloven § 5-1](lov/2005-04-01-15/§5-1) (1) og [fagskoleloven § 13](lov/2018-06-08-28/§13).
 
-Klagenemnden behandler saker innen fagskolelovenInnpassing og fritak ([fagskoleloven § 1](lov/2018-06-08-28/§1)b annet ledd)Klage over formelle feil ved eksamen ([fagskoleloven § 7](lov/2018-06-08-28/§7))Annullering av eksamen ([fagskoleloven § 9](lov/2018-06-08-28/§9))Utestenging og bortvisning ([fagskoleloven § 10](lov/2018-06-08-28/§10))Vurdering av skikkethet ([fagskoleloven § 11](lov/2018-06-08-28/§11))Krav til politiattest ([fagskoleloven § 12](lov/2018-06-08-28/§12)).
+Klagenemnden behandler saker innen fagskoleloven
 
-Klagenemnda ved Fagskolen TLA AS har fem medlemmer med personlige varamedlemmer:Leder og varamedlem for leder skal fylle de lovbestemte krav for lagdommere.Leder og varamedlem for leder skal ikke være ansatt ved institusjonen.To av medlemmene skal være ansatte: Prosjektleder og faglærer.To av medlemmene skal være studenter
+- Innpassing og fritak ([fagskoleloven § 1](lov/2018-06-08-28/§1)b annet ledd)
+- Klage over formelle feil ved eksamen ([fagskoleloven § 7](lov/2018-06-08-28/§7))
+- Annullering av eksamen ([fagskoleloven § 9](lov/2018-06-08-28/§9))
+- Utestenging og bortvisning ([fagskoleloven § 10](lov/2018-06-08-28/§10))
+- Vurdering av skikkethet ([fagskoleloven § 11](lov/2018-06-08-28/§11))
+- Krav til politiattest ([fagskoleloven § 12](lov/2018-06-08-28/§12)).
+
+Klagenemnda ved Fagskolen TLA AS har fem medlemmer med personlige varamedlemmer:
+
+- Leder og varamedlem for leder skal fylle de lovbestemte krav for lagdommere.
+- Leder og varamedlem for leder skal ikke være ansatt ved institusjonen.
+- To av medlemmene skal være ansatte: Prosjektleder og faglærer.
+- To av medlemmene skal være studenter
 
 Ved klage på karakterfastsetting oppnevnes nye sensorer. Slike klager skal ikke behandles av klageinstansen. Se [§ 4-10](forskrift/2017-09-01-1416/§4-10) for mer informasjon.
 

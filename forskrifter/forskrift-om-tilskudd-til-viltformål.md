@@ -28,7 +28,15 @@ Tilskuddsordningen skal bidra til en forvaltning som fremmer et høstingsverdig 
 
 ## § 2. Tildelingskriterier
 
-Frivillige organisasjoner, institusjoner, kommuner og enkeltpersoner kan få tilskudd tiltilrettelegging for verdiskaping og rekruttering til jakt og fangstinformasjon om jakt og jaktmuligheterkartlegging av viltressursene og viltets leveområder, samt viltinteresser i kommuner og regionerinnarbeiding av viltets leveområde og viltinteresser i kommunale planer etter [plan- og bygningsloven](lov/2008-06-27-71)oppretting og drift av lokale samarbeidsråddeltakelse i rettighetshavernes driftsplanarbeidforvaltningsrettet forskning og overvåking.
+Frivillige organisasjoner, institusjoner, kommuner og enkeltpersoner kan få tilskudd til
+
+1. tilrettelegging for verdiskaping og rekruttering til jakt og fangst
+2. informasjon om jakt og jaktmuligheter
+3. kartlegging av viltressursene og viltets leveområder, samt viltinteresser i kommuner og regioner
+4. innarbeiding av viltets leveområde og viltinteresser i kommunale planer etter [plan- og bygningsloven](lov/2008-06-27-71)
+5. oppretting og drift av lokale samarbeidsråd
+6. deltakelse i rettighetshavernes driftsplanarbeid
+7. forvaltningsrettet forskning og overvåking.
 
 Søknader om tilskudd til tiltak som inngår som en del av et planmessig arbeid vil bli prioriterte.
 

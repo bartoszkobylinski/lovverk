@@ -15,7 +15,7 @@ xml_hash: "f44b17036c27ae976330a4ad4bcd33b8ec53f2f3bc3a31e28488a5ea35a3552d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,10 @@ Unnlatt oppmelding til eksamen i rett tid, unnlatt frammøte og trekk under eksa
 
 ## § 5.
 
-Fagstyret for medisin kan etter innstilling fra studiestyret for medisin, frita for eksamen eller prøve:Når tilsvarende krav er oppfylt ved annen institusjonPå bakgrunn av eksamen eller prøve i et velegnet fag utenfor fagkretsen avlagt ved universitetet eller annen institusjon.
+Fagstyret for medisin kan etter innstilling fra studiestyret for medisin, frita for eksamen eller prøve:
+
+1. Når tilsvarende krav er oppfylt ved annen institusjon
+2. På bakgrunn av eksamen eller prøve i et velegnet fag utenfor fagkretsen avlagt ved universitetet eller annen institusjon.
 
 Universitetsstyret er klageinstans.
 

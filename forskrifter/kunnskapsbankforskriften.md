@@ -15,7 +15,7 @@ xml_hash: "8f95b662f363bc24cd50a1316dda27a889cf6e111a7fb6fa44f8ff7adf119b62"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,13 +26,20 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Forskriften gjelderbehandling av personopplysninger og andre opplysninger i Kunnskapsbanken,innhenting av personopplysninger og andre opplysninger fra forsikringsselskaper til bruk i Kunnskapsbanken,tilgjengeliggjøring av personopplysninger og andre opplysninger i Kunnskapsbanken.
+Forskriften gjelder
+
+1. behandling av personopplysninger og andre opplysninger i Kunnskapsbanken,
+2. innhenting av personopplysninger og andre opplysninger fra forsikringsselskaper til bruk i Kunnskapsbanken,
+3. tilgjengeliggjøring av personopplysninger og andre opplysninger i Kunnskapsbanken.
 
 Forskriften gjelder også for Svalbard.
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med*Kunnskapsbanken:* Direktoratet for samfunnssikkerhet og beredskap sitt datasystem for innhenting, sammenstilling og tilgjengeliggjøring av data om risiko og sårbarhet.*API (Application Programming Interface):* et verktøy som gjør det mulig å overføre opplysninger fra et datasystem til et annet.
+I denne forskriften menes med
+
+1. *Kunnskapsbanken:* Direktoratet for samfunnssikkerhet og beredskap sitt datasystem for innhenting, sammenstilling og tilgjengeliggjøring av data om risiko og sårbarhet.
+2. *API (Application Programming Interface):* et verktøy som gjør det mulig å overføre opplysninger fra et datasystem til et annet.
 
 ## Kapittel 2. Behandling av opplysninger i Kunnskapsbanken
 
@@ -90,7 +97,14 @@ Forsikringsselskapene skal sørge for en hensiktsmessig ordning for fordeling av
 
 ### § 7. Offentlige organer som gis tilgang til opplysninger i Kunnskapsbanken
 
-Følgende offentlige organer gis tilgang til og kan behandle personopplysninger i Kunnskapsbanken, når dette er nødvendig for å forebygge og redusere konsekvensene av natur- og vannskader, herunder for å understøtte arbeidet med risiko- og sårbarhetsanalyser etter [sivilbeskyttelsesloven § 14](lov/2010-06-25-45/§14):kommunene,Longyearbyen lokalstyre,statsforvalterne,Sysselmesteren på Svalbard,fylkeskommunene ogNorges vassdrags- og energidirektorat (NVE).
+Følgende offentlige organer gis tilgang til og kan behandle personopplysninger i Kunnskapsbanken, når dette er nødvendig for å forebygge og redusere konsekvensene av natur- og vannskader, herunder for å understøtte arbeidet med risiko- og sårbarhetsanalyser etter [sivilbeskyttelsesloven § 14](lov/2010-06-25-45/§14):
+
+1. kommunene,
+2. Longyearbyen lokalstyre,
+3. statsforvalterne,
+4. Sysselmesteren på Svalbard,
+5. fylkeskommunene og
+6. Norges vassdrags- og energidirektorat (NVE).
 
 ## Kapittel 5. Ikraftsetting
 

@@ -15,7 +15,7 @@ xml_hash: "3d7b79304fbd40c7f65a2aec88b8b63532e146e99ee3eaeae0395390c50fbefa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -31,13 +31,31 @@ eu_basis:
 
 (1) Loven gjelder tjenestepensjonsordninger etter loven her og foretak som har eller oppretter slik pensjonsordning.
 
-(2) Pensjonsordning etter loven her kan opprettes ved avtale med følgende pensjonsinnretninger:selskap som har tillatelse fra norske myndigheter til å drive livsforsikringsvirksomhet her i riket,pensjonskasse som har tillatelse fra norske myndigheter til her i riket å overta kollektive pensjonsordninger som regnes som livsforsikring,selskap som er etablert i en annen stat innenfor EØS-området og som her i riket har adgang til å drive livsforsikringsvirksomhet,pensjonskasse som er etablert i annen stat innenfor EØS-området, og som har adgang til her i riket å overta kollektive pensjonsordninger som regnes som livsforsikring.
+(2) Pensjonsordning etter loven her kan opprettes ved avtale med følgende pensjonsinnretninger:
+
+1. selskap som har tillatelse fra norske myndigheter til å drive livsforsikringsvirksomhet her i riket,
+2. pensjonskasse som har tillatelse fra norske myndigheter til her i riket å overta kollektive pensjonsordninger som regnes som livsforsikring,
+3. selskap som er etablert i en annen stat innenfor EØS-området og som her i riket har adgang til å drive livsforsikringsvirksomhet,
+4. pensjonskasse som er etablert i annen stat innenfor EØS-området, og som har adgang til her i riket å overta kollektive pensjonsordninger som regnes som livsforsikring.
 
 (3) Loven gjelder også for Svalbard.
 
 ### § 1-2. Definisjoner
 
-I loven betyr:barn: medlemmets barn, herunder stebarn og fosterbarn.beregningsgrunnlag: det forsikringstekniske beregningsgrunnlaget for pensjonsordningen.foretak: aksjeselskap, allmennaksjeselskap, ansvarlig selskap, enkeltpersonforetak og ethvert annet rettssubjekt som har arbeidstaker i sin tjeneste.forsikrede: pensjonsordningens medlemmer, deres ektefelle, barn, registrert partner og samboer når de er sikret eller mottar pensjon etter regelverket.konsern: konsern som nevnt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3), likevel slik at morselskapet ikke må være aksjeselskap eller allmennaksjeselskap.medlemmer: arbeidsgiveren og de arbeidstakere som oppfyller opptaksvilkårene i regelverket for pensjonsordningen. Som medlem regnes også alderspensjonist som har tatt ut alderspensjon fra ordningen rett etter avsluttet arbeidsforhold, samt arbeidstaker som er blitt ufør mens han var i foretakets tjeneste, og som det betales årlig premie for i henhold til forsikring av premiefritak ved uførhet.pensjonsbeholdning: kapitalbeholdning bestående av summen til enhver tid av tilførte innskudd og premier, dødelighetsarv og avkastning.pensjonsordning: tjenestepensjonsordning som nevnt i [§ 1-1](lov/2013-12-13-106/§1-1).pensjonsplan: den del av regelverket som gjelder beregning og innbetaling av årlige innskudd og premier og oppbygging av pensjonsbeholdning for de enkelte medlemmer, samt beregning og utbetaling av årlige pensjonsytelser.pensjonsreguleringsfond: pensjonsordningens fond for premie til dekning av årlig regulering av pensjoner under utbetaling.regelverket: pensjonsforsikringsavtalen med tilhørende vilkår og pensjonsplan.reguleringsfond: pensjonsordningens fond for midler til dekning av årlig regulering av medlemmenes pensjonsbeholdninger.
+I loven betyr:
+
+1. barn: medlemmets barn, herunder stebarn og fosterbarn.
+2. beregningsgrunnlag: det forsikringstekniske beregningsgrunnlaget for pensjonsordningen.
+3. foretak: aksjeselskap, allmennaksjeselskap, ansvarlig selskap, enkeltpersonforetak og ethvert annet rettssubjekt som har arbeidstaker i sin tjeneste.
+4. forsikrede: pensjonsordningens medlemmer, deres ektefelle, barn, registrert partner og samboer når de er sikret eller mottar pensjon etter regelverket.
+5. konsern: konsern som nevnt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) og [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3), likevel slik at morselskapet ikke må være aksjeselskap eller allmennaksjeselskap.
+6. medlemmer: arbeidsgiveren og de arbeidstakere som oppfyller opptaksvilkårene i regelverket for pensjonsordningen. Som medlem regnes også alderspensjonist som har tatt ut alderspensjon fra ordningen rett etter avsluttet arbeidsforhold, samt arbeidstaker som er blitt ufør mens han var i foretakets tjeneste, og som det betales årlig premie for i henhold til forsikring av premiefritak ved uførhet.
+7. pensjonsbeholdning: kapitalbeholdning bestående av summen til enhver tid av tilførte innskudd og premier, dødelighetsarv og avkastning.
+8. pensjonsordning: tjenestepensjonsordning som nevnt i [§ 1-1](lov/2013-12-13-106/§1-1).
+9. pensjonsplan: den del av regelverket som gjelder beregning og innbetaling av årlige innskudd og premier og oppbygging av pensjonsbeholdning for de enkelte medlemmer, samt beregning og utbetaling av årlige pensjonsytelser.
+10. pensjonsreguleringsfond: pensjonsordningens fond for premie til dekning av årlig regulering av pensjoner under utbetaling.
+11. regelverket: pensjonsforsikringsavtalen med tilhørende vilkår og pensjonsplan.
+12. reguleringsfond: pensjonsordningens fond for midler til dekning av årlig regulering av medlemmenes pensjonsbeholdninger.
 
 ### § 1-3. Forskrifter
 
@@ -57,7 +75,11 @@ Kongen kan fastsette nærmere regler til utfylling og gjennomføring av bestemme
 
 ### § 2-2. Minstekrav
 
-(1) Et foretak kan opprette pensjonsordning i henhold til loven her dersom foretaket har:minst to personer i foretaket som begge har en arbeidstid og lønn som utgjør 75 prosent eller mer av full stilling,minst én arbeidstaker uten eierinteresse i foretaket som har en arbeidstid og lønn i foretaket som utgjør 75 prosent eller mer av full stilling, ellerpersoner i foretaket som hver har en arbeidstid og lønn som utgjør 20 prosent eller mer av full stilling, og som til sammen utfører arbeid som tilsvarer minst to årsverk.
+(1) Et foretak kan opprette pensjonsordning i henhold til loven her dersom foretaket har:
+
+1. minst to personer i foretaket som begge har en arbeidstid og lønn som utgjør 75 prosent eller mer av full stilling,
+2. minst én arbeidstaker uten eierinteresse i foretaket som har en arbeidstid og lønn i foretaket som utgjør 75 prosent eller mer av full stilling, eller
+3. personer i foretaket som hver har en arbeidstid og lønn som utgjør 20 prosent eller mer av full stilling, og som til sammen utfører arbeid som tilsvarer minst to årsverk.
 
 (2) Pensjonsordning kan også opprettes i pensjonskasse som er i samsvar med bestemmelser gitt i eller i medhold av forsikringsvirksomhetsloven. Har pensjonskassen mindre enn 50 medlemmer, skal vedtektene for pensjonskassen inneholde særlige bestemmelser om gjenforsikring av forsikringsrisiko og begrensning av risiko knyttet til kapitalforvaltningen slik at medlemmenes rett til pensjon er betryggende sikret. Finanstilsynet kan gi forskrift om dette.
 
@@ -117,7 +139,12 @@ Det skal fastsettes en pensjonsplan for pensjonsordningen. Planen skal angi regl
 
 (1) Et foretak som har pensjonsordning for alderspensjon etter loven her, kan supplere denne med en pensjonsordning etter innskuddspensjonsloven eller foretakspensjonsloven (kombinerte pensjonsordninger).
 
-(2) For kombinerte pensjonsordninger etter første ledd gjelder følgende:samtlige ansatte som omfattes av regelverkets bestemmelser om medlemskap i pensjonsordningen etter loven her, skal være medlem av begge pensjonsordningene,innskuddspensjonen skal utgjøre et tillegg til alderspensjon etter loven her,regelverket i pensjonsordningene skal utformes med sikte på at forskjellsbehandling mellom arbeidstakere unngås så langt det er mulig når det gjelder samlet pensjon sett i forhold til lønn og tjenestetid i foretaket,et foretak kan ikke samtidig ha kombinerte pensjonsordninger og parallelle pensjonsordninger etter [§ 2-10](lov/2013-12-13-106/§2-10), [foretakspensjonsloven § 2-9](lov/2000-03-24-16/§2-9) eller [innskuddspensjonsloven § 2-10](lov/2000-11-24-81/§2-10).
+(2) For kombinerte pensjonsordninger etter første ledd gjelder følgende:
+
+1. samtlige ansatte som omfattes av regelverkets bestemmelser om medlemskap i pensjonsordningen etter loven her, skal være medlem av begge pensjonsordningene,
+2. innskuddspensjonen skal utgjøre et tillegg til alderspensjon etter loven her,
+3. regelverket i pensjonsordningene skal utformes med sikte på at forskjellsbehandling mellom arbeidstakere unngås så langt det er mulig når det gjelder samlet pensjon sett i forhold til lønn og tjenestetid i foretaket,
+4. et foretak kan ikke samtidig ha kombinerte pensjonsordninger og parallelle pensjonsordninger etter [§ 2-10](lov/2013-12-13-106/§2-10), [foretakspensjonsloven § 2-9](lov/2000-03-24-16/§2-9) eller [innskuddspensjonsloven § 2-10](lov/2000-11-24-81/§2-10).
 
 (3) Kongen kan gi forskrift om utformingen av kombinerte pensjonsordninger. Innskudd i det enkelte år til sikring av innskuddspensjon skal medregnes ved anvendelsen av grensene i [§ 4-7](lov/2013-12-13-106/§4-7).
 
@@ -135,7 +162,11 @@ Det skal fastsettes en pensjonsplan for pensjonsordningen. Planen skal angi regl
 
 (1) Et foretak med pensjonsordning etter loven her kan samtidig ha en ytelsesbasert eller engangsbetalt foretakspensjonsordning og en innskuddspensjonsordning (parallelle pensjonsordninger).
 
-(2) For et foretak som har parallelle pensjonsordninger gjelder følgende:ingen arbeidstaker kan på samme tid være medlem av mer enn en av ordningene,regelverket for ordningene skal utformes slik at alderspensjonsytelsene står i et rimelig forhold til hverandre og slik at urimelig forskjellsbehandling av grupper av arbeidstakere unngås,rett til ytelser ved uførhet og til etterlatte skal være utformet på samme måte i ordningene.
+(2) For et foretak som har parallelle pensjonsordninger gjelder følgende:
+
+1. ingen arbeidstaker kan på samme tid være medlem av mer enn en av ordningene,
+2. regelverket for ordningene skal utformes slik at alderspensjonsytelsene står i et rimelig forhold til hverandre og slik at urimelig forskjellsbehandling av grupper av arbeidstakere unngås,
+3. rett til ytelser ved uførhet og til etterlatte skal være utformet på samme måte i ordningene.
 
 (3) Bestemmelsene i annet ledd gjelder tilsvarende ved endring av regelverket for en eller flere av pensjonsordningene.
 
@@ -193,7 +224,12 @@ Pensjonsopptjeningen for arbeidstaker i deltidsstilling skal utgjøre en forhold
 
 (1) Arbeidstaker som har permisjon for et fastsatt tidsrom og som forutsettes å gjenoppta arbeid i foretaket etter endt permisjon, skal være medlem av pensjonsordningen i permisjonstiden.
 
-(2) Bestemmelsene i første ledd kan fravikes for permisjon i henhold til avtale ved at det i regelverket fastsettes:særlige regler om opptjening av pensjon mens permisjonen varer, ellerat medlemskapet skal opphøre fra permisjonstidspunktet.Det samme gjelder for permisjon i henhold til lov dersom arbeidstakeren er medlem av en annen pensjonsordning i permisjonstiden.
+(2) Bestemmelsene i første ledd kan fravikes for permisjon i henhold til avtale ved at det i regelverket fastsettes:
+
+1. særlige regler om opptjening av pensjon mens permisjonen varer, eller
+2. at medlemskapet skal opphøre fra permisjonstidspunktet.
+
+Det samme gjelder for permisjon i henhold til lov dersom arbeidstakeren er medlem av en annen pensjonsordning i permisjonstiden.
 
 (3) Regelverket kan fastsette at arbeidstakere som er permitterte som følge av driftsinnskrenkninger mv., skal være medlemmer av pensjonsordningen.
 
@@ -285,7 +321,10 @@ Betaling for administrasjon og forvaltning av pensjonsordningen, årlig premie f
 
 ### § 4-9. Alder ved uttak av alderspensjon
 
-(1) En arbeidstaker kan tidligst ta ut alderspensjon ved fylte 62 år. Kongen kan gi forskrift om adgang til uttak av alderspensjon før fylte 62 år for stillinger som:medfører uvanlig fysisk eller psykisk belastning for de ansatte, ellerkrever at de ansatte har særlige fysiske eller psykiske egenskaper for at arbeidet skal bli tilfredsstillende utført på forsvarlig måte.
+(1) En arbeidstaker kan tidligst ta ut alderspensjon ved fylte 62 år. Kongen kan gi forskrift om adgang til uttak av alderspensjon før fylte 62 år for stillinger som:
+
+1. medfører uvanlig fysisk eller psykisk belastning for de ansatte, eller
+2. krever at de ansatte har særlige fysiske eller psykiske egenskaper for at arbeidet skal bli tilfredsstillende utført på forsvarlig måte.
 
 (2) Det kan ikke stilles som vilkår i regelverket at alderspensjon bare kan eller må tas ut samtidig med uttak av alderspensjon fra folketrygden. Det kan heller ikke stilles som vilkår at arbeidstakeren ikke har heltids- eller deltidsstilling i foretaket eller hos annen arbeidsgiver.
 
@@ -421,7 +460,11 @@ Pensjonsordningens midler skal forvaltes på forsvarlig måte i samsvar med de r
 
 ### § 5-6. Sammensetning og registrering av investeringsportefølje
 
-(1) En investeringsportefølje sammensettes i samsvar med retningslinjer for kapitalforvaltningen i pensjonsinnretningen og kan bestå av:andeler i verdipapirfond,andeler i en særskilt investeringsportefølje, ogkontanter og tilsvarende likvider.
+(1) En investeringsportefølje sammensettes i samsvar med retningslinjer for kapitalforvaltningen i pensjonsinnretningen og kan bestå av:
+
+1. andeler i verdipapirfond,
+2. andeler i en særskilt investeringsportefølje, og
+3. kontanter og tilsvarende likvider.
 
 (2) Eiendeler tilordnet den enkelte investeringsportefølje skal registreres slik at det til enhver tid er klart hvilke eiendeler som inngår i porteføljen.
 
@@ -439,7 +482,13 @@ Pensjonsordningens midler skal forvaltes på forsvarlig måte i samsvar med de r
 
 ### § 5-8. Kontoinformasjon
 
-(1) Pensjonsinnretningen skal hvert år gi de enkelte medlemmer opplysning om:pensjonsbeholdningen ved årets utgang, samt midler tilført pensjonsbeholdningen som innskudd og premie, dødelighetsarv og avkastning i løpet av året,årets regulering av pensjonsbeholdning eller pensjonsytelser, herunder reguleringspremie som er dekket av avkastning av pensjonsbeholdningen,pensjonsytelse utbetalt i løpet av året,risikopremier og andre kostnader belastet avkastningen, ogtap som er belastet investeringsporteføljen ved forvaltning av pensjonsordningens midler eller pensjonsbeholdningen i egen investeringsportefølje.
+(1) Pensjonsinnretningen skal hvert år gi de enkelte medlemmer opplysning om:
+
+1. pensjonsbeholdningen ved årets utgang, samt midler tilført pensjonsbeholdningen som innskudd og premie, dødelighetsarv og avkastning i løpet av året,
+2. årets regulering av pensjonsbeholdning eller pensjonsytelser, herunder reguleringspremie som er dekket av avkastning av pensjonsbeholdningen,
+3. pensjonsytelse utbetalt i løpet av året,
+4. risikopremier og andre kostnader belastet avkastningen, og
+5. tap som er belastet investeringsporteføljen ved forvaltning av pensjonsordningens midler eller pensjonsbeholdningen i egen investeringsportefølje.
 
 (2) Kongen kan gi forskrift om hvilken informasjon som skal gis fra pensjonsinnretningen.
 
@@ -459,11 +508,23 @@ Pensjonsordningens midler skal forvaltes på forsvarlig måte i samsvar med de r
 
 ### § 5-10. Premiefondets midler
 
-Premiefondet skal tilføres:alle tilskudd til premiefondet som omfattes av [skatteloven § 6-46](lov/1999-03-26-14/§6-46) tredje ledd bokstav b,avkastningen av midlene i premiefondet etter [§ 5-9](lov/2013-12-13-106/§5-9) annet ledd,avkastning som tilordnes premiefondet etter [§ 4-7](lov/2013-12-13-106/§4-7) tredje ledd,midler knyttet til pensjoner som ikke kommer til utbetaling,for mye betalt innskudd for medlemmer som slutter i foretaket i løpet av året, ogpensjonsbeholdning for medlem som ved fratredelse fra foretaket har kortere tjenestetid enn 12 måneder, jf. [§ 6-1](lov/2013-12-13-106/§6-1) annet ledd annet punktum.
+Premiefondet skal tilføres:
+
+1. alle tilskudd til premiefondet som omfattes av [skatteloven § 6-46](lov/1999-03-26-14/§6-46) tredje ledd bokstav b,
+2. avkastningen av midlene i premiefondet etter [§ 5-9](lov/2013-12-13-106/§5-9) annet ledd,
+3. avkastning som tilordnes premiefondet etter [§ 4-7](lov/2013-12-13-106/§4-7) tredje ledd,
+4. midler knyttet til pensjoner som ikke kommer til utbetaling,
+5. for mye betalt innskudd for medlemmer som slutter i foretaket i løpet av året, og
+6. pensjonsbeholdning for medlem som ved fratredelse fra foretaket har kortere tjenestetid enn 12 måneder, jf. [§ 6-1](lov/2013-12-13-106/§6-1) annet ledd annet punktum.
 
 ### § 5-11. Bruk av premiefondet
 
-(1) Premiefondet kan bare brukes til dekning av:årets innskudd og premier, samt kostnader som skal dekkes av foretaket etter reglene i [kapittel 4](lov/2013-12-13-106/kap4),kostnader i henhold til [§ 2-9](lov/2013-12-13-106/§2-9) fjerde ledd,midler til sikring av arbeidstakernes pensjonsrettigheter i henhold til [§ 5-5](lov/2013-12-13-106/§5-5) fjerde ledd, ogkostnader i henhold til [§ 7-7](lov/2013-12-13-106/§7-7) fjerde ledd.
+(1) Premiefondet kan bare brukes til dekning av:
+
+1. årets innskudd og premier, samt kostnader som skal dekkes av foretaket etter reglene i [kapittel 4](lov/2013-12-13-106/kap4),
+2. kostnader i henhold til [§ 2-9](lov/2013-12-13-106/§2-9) fjerde ledd,
+3. midler til sikring av arbeidstakernes pensjonsrettigheter i henhold til [§ 5-5](lov/2013-12-13-106/§5-5) fjerde ledd, og
+4. kostnader i henhold til [§ 7-7](lov/2013-12-13-106/§7-7) fjerde ledd.
 
 (2) Foretaket kan ikke bruke midler i premiefondet til formål som nevnt i første ledd bokstav b, med mindre premiefondet fortsatt vil være tilstrekkelig til å sikre at årets og neste års innskudd og premier mv. etter første ledd bokstav a blir betalt.
 
@@ -507,7 +568,12 @@ Premiefondet skal tilføres:alle tilskudd til premiefondet som omfattes av [skat
 
 (2) Fortsettelsesforsikring som nevnt i [forsikringsavtaleloven § 19-7](lov/1989-06-16-69/§19-7) skal tegnes på samme vilkår som pensjonsbeviset. Årlig premie kan likevel ikke overstige det beløp som ble innbetalt til pensjonsbeholdningen siste år arbeidstakeren var medlem av pensjonsordningen, justert etter den alminnelige lønnsvekst.
 
-(3) Pensjonsinnretningen skal hvert år gi innehavere av pensjonsbevis opplysning om pensjonsbeholdningen som minst angir:pensjonsbeholdningen ved årets utgang, samt midler tilført pensjonsbeholdningen i løpet av året som avkastning, dødelighetsarv og premie etter annet ledd,pensjonsytelse utbetalt i løpet av året,risikopremie belastet årets avkastning,kostnader og tap som er belastet investeringsporteføljen ved forvaltning av pensjonsbeholdningen i egen investeringsportefølje.
+(3) Pensjonsinnretningen skal hvert år gi innehavere av pensjonsbevis opplysning om pensjonsbeholdningen som minst angir:
+
+1. pensjonsbeholdningen ved årets utgang, samt midler tilført pensjonsbeholdningen i løpet av året som avkastning, dødelighetsarv og premie etter annet ledd,
+2. pensjonsytelse utbetalt i løpet av året,
+3. risikopremie belastet årets avkastning,
+4. kostnader og tap som er belastet investeringsporteføljen ved forvaltning av pensjonsbeholdningen i egen investeringsportefølje.
 
 (4) Kongen kan gi forskrift om hvilken informasjon som skal gis fra pensjonsinnretningen etter tredje ledd.
 
@@ -559,7 +625,14 @@ Kongen kan gi forskrift om registrering av pensjonsbevis.
 
 (4) Ved uttak av alderspensjon gjelder reglene i [§ 4-9](lov/2013-12-13-106/§4-9) til [§ 4-13](lov/2013-12-13-106/§4-13), [§ 4-14](lov/2013-12-13-106/§4-14) annet og tredje ledd og [§ 4-15](lov/2013-12-13-106/§4-15) tilsvarende. Årlig alderspensjon beregnes med utgangspunkt i investeringsporteføljens verdi og forventet gjenstående levetid på uttakstidspunktet. Midlene knyttet til pensjonsbeviset skal på uttakstidspunktet overføres til alminnelig forvaltning i kollektivporteføljen, med mindre innehaveren krever at midlene knyttet til pensjonsbeviset fortsatt skal forvaltes som egen investeringsportefølje. Hvis pensjonsbeviset fortsatt skal forvaltes som egen investeringsportefølje, skal årlig alderspensjon beregnes ut fra investeringsporteføljens verdi og forventet gjenstående levetid ved hver utbetaling. Kongen kan gi forskrift om beregningen og utbetalingen av årlig alderspensjon fra pensjonsbeviset.
 
-(5) Før det inngås avtale om utstedelse av pensjonsbevis tilordnet egen investeringsportefølje, skal pensjonsinnretningen skriftlig opplyse innehaveren om at:investeringsporteføljen tilordnet pensjonsbeviset vil bli forvaltet for innehaverens regning og risiko,pensjonsytelsene bestemmes ut fra verdien av porteføljen på tidspunktet for uttak av pensjon,pensjonsinnretningens ansvar for avkastningsresultatet og verdiutviklingen over tid bortfaller, med mindre annet er avtalt, og atpensjonsinnretningen har rett til årlig vederlag som nevnt i tredje ledd.For hvert forhold det opplyses om etter bokstav a til d, skal det samtidig opplyses skriftlig om hvilke vilkår som gjelder for et pensjonsbevis som undergis alminnelig forvaltning.
+(5) Før det inngås avtale om utstedelse av pensjonsbevis tilordnet egen investeringsportefølje, skal pensjonsinnretningen skriftlig opplyse innehaveren om at:
+
+1. investeringsporteføljen tilordnet pensjonsbeviset vil bli forvaltet for innehaverens regning og risiko,
+2. pensjonsytelsene bestemmes ut fra verdien av porteføljen på tidspunktet for uttak av pensjon,
+3. pensjonsinnretningens ansvar for avkastningsresultatet og verdiutviklingen over tid bortfaller, med mindre annet er avtalt, og at
+4. pensjonsinnretningen har rett til årlig vederlag som nevnt i tredje ledd.
+
+For hvert forhold det opplyses om etter bokstav a til d, skal det samtidig opplyses skriftlig om hvilke vilkår som gjelder for et pensjonsbevis som undergis alminnelig forvaltning.
 
 (6) Pensjonsinnretningen har plikt til å kartlegge innehaverens behov og ønske om risiko og til å opplyse om eventuelle forhold som tilsier at en avtale om forvaltning av pensjonsbeviset i egen investeringsportefølje ikke vil være i innehaverens interesse. Før det inngås avtale om utstedelse av pensjonsbevis tilordnet egen investeringsportefølje, skal pensjonsinnretningen i alle tilfelle gi innehaveren råd om sammensetningen av investeringsporteføljen tilpasset blant annet gjenstående tid til uttak av alderspensjon og størrelsen av midlene knyttet til pensjonsbeviset. Når innehaveren har nådd en alder med få år igjen til rett til uttak av pensjon, skal pensjonsinnretningen gi råd om risikoreduserende tiltak. En skriftlig sammenfatning av de råd som pensjonsinnretningen gir etter leddet her, skal sendes innehaveren. Kongen kan gi forskrift om pliktig informasjon og rådgivning.
 
@@ -631,7 +704,10 @@ Bestemmelsene i [foretakspensjonsloven kapittel 14](lov/2000-03-24-16/kap14) om 
 
 (1) Det er et vilkår for rett til uførepensjon etter reglene i kapitlet her at medlemmets evne til å utføre inntektsgivende arbeid er varig nedsatt og oppfyller det minstekrav til nedsatt inntektsevne som regelverket fastsetter. Det kan ytes midlertidig uførepensjon når det ikke er avklart om inntektsevnen er varig nedsatt.
 
-(2) I regelverket kan minstekravet til nedsatt inntektsevne ikke settes lavere enn 20 prosent. Minstekravet kan ikke i noe tilfelle settes høyere enn 50 prosent. Det kan dessuten ikke settes høyere enn:40 prosent for medlem som mottar arbeidsavklaringspenger når krav om uførepensjon fremsettes, jf. [folketrygdloven § 12-7](lov/1997-02-28-19/§12-7) annet ledd, eller30 prosent dersom medlemmets inntektsevne er nedsatt som følge av yrkesskade eller yrkessykdom, jf. [folketrygdloven § 12-17](lov/1997-02-28-19/§12-17) første ledd bokstav c.
+(2) I regelverket kan minstekravet til nedsatt inntektsevne ikke settes lavere enn 20 prosent. Minstekravet kan ikke i noe tilfelle settes høyere enn 50 prosent. Det kan dessuten ikke settes høyere enn:
+
+1. 40 prosent for medlem som mottar arbeidsavklaringspenger når krav om uførepensjon fremsettes, jf. [folketrygdloven § 12-7](lov/1997-02-28-19/§12-7) annet ledd, eller
+2. 30 prosent dersom medlemmets inntektsevne er nedsatt som følge av yrkesskade eller yrkessykdom, jf. [folketrygdloven § 12-17](lov/1997-02-28-19/§12-17) første ledd bokstav c.
 
 (3) Et medlem har bare rett til uførepensjon etter reglene i kapitlet her dersom det i samsvar med reglene i [folketrygdloven § 12-5](lov/1997-02-28-19/§12-5) har gjennomgått, eller forsøkt å gjennomgå hensiktsmessig behandling og hensiktsmessige tiltak for å bedre arbeidsevnen.
 
@@ -675,7 +751,10 @@ Bestemmelsene i [foretakspensjonsloven kapittel 14](lov/2000-03-24-16/kap14) om 
 
 ### § 8-6. Grenser for uførepensjon i tillegg til uføretrygd
 
-(1) Uførepensjonen skal i pensjonsplanen fastsettes som en prosent av det enkelte medlemmets lønnsgrunnlag etter [§ 8-5](lov/2013-12-13-106/§8-5), som et fastsatt kronebeløp, eller som en kombinasjon av disse. Uførepensjonen kan ikke overstige summen av25 prosent av G, likevel ikke mer enn 6 prosent av det enkelte medlemmets lønnsgrunnlag etter [§ 8-5](lov/2013-12-13-106/§8-5) og3 prosent av det enkelte medlemmets lønnsgrunnlag etter [§ 8-5](lov/2013-12-13-106/§8-5).
+(1) Uførepensjonen skal i pensjonsplanen fastsettes som en prosent av det enkelte medlemmets lønnsgrunnlag etter [§ 8-5](lov/2013-12-13-106/§8-5), som et fastsatt kronebeløp, eller som en kombinasjon av disse. Uførepensjonen kan ikke overstige summen av
+
+1. 25 prosent av G, likevel ikke mer enn 6 prosent av det enkelte medlemmets lønnsgrunnlag etter [§ 8-5](lov/2013-12-13-106/§8-5) og
+2. 3 prosent av det enkelte medlemmets lønnsgrunnlag etter [§ 8-5](lov/2013-12-13-106/§8-5).
 
 (2) I pensjonsplanen kan det også fastsettes at uførepensjonen skal omfatte et tillegg på inntil 66 prosent av den del av medlemmets lønnsgrunnlag som ligger mellom 6 og 12 G. I så fall skal uførepensjon etter første ledd fastsettes på et nivå som ikke er uforholdsmessig lavt sammenlignet med uførepensjonen for lønn mellom 6 og 12 G fra pensjonsordningen.
 

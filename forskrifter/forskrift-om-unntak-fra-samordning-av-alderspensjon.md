@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften kommer til anvendelse når det samtidig utbetalesdelvis alderspensjon før fylte 67 år og delvis uførepensjon fra tjenestepensjonsordning eller delvis avtalefestet pensjon fra 65 år som er beregnet som alderspensjon og delvis uførepensjon fra tjenestepensjonsordning oguføretrygd eller arbeidsavklaringspenger fra folketrygden.
+Forskriften kommer til anvendelse når det samtidig utbetales
+
+1. delvis alderspensjon før fylte 67 år og delvis uførepensjon fra tjenestepensjonsordning eller delvis avtalefestet pensjon fra 65 år som er beregnet som alderspensjon og delvis uførepensjon fra tjenestepensjonsordning og
+2. uføretrygd eller arbeidsavklaringspenger fra folketrygden.
 
 > Endret ved forskrifter [21 des 2015 nr. 1788](forskrift/2015-12-21-1788) (i kraft 1 jan 2015), [23 feb 2026 nr. 263](forskrift/2026-02-23-263).
 

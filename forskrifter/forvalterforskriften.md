@@ -32,7 +32,10 @@ Denne forskrift gir nærmere regler om forvalter etter [konkurranseloven § 12](
 
 ### § 2. Definisjoner
 
-I forskriften menes med*vedtak:* vedtak etter [konkurranseloven § 12](lov/2004-03-05-12/§12) tredje ledd, [§ 16](lov/2004-03-05-12/§16) første og annet ledd, [§ 16a](lov/2004-03-05-12/§16a) og [§ 21](lov/2004-03-05-12/§21).*part:* den som et vedtak retter seg mot.
+I forskriften menes med
+
+1. *vedtak:* vedtak etter [konkurranseloven § 12](lov/2004-03-05-12/§12) tredje ledd, [§ 16](lov/2004-03-05-12/§16) første og annet ledd, [§ 16a](lov/2004-03-05-12/§16a) og [§ 21](lov/2004-03-05-12/§21).
+2. *part:* den som et vedtak retter seg mot.
 
 > Endret ved [forskrift 11 des 2013 nr. 1467](forskrift/2013-12-11-1467) (i kraft 1 jan 2014).
 
@@ -42,7 +45,11 @@ I forskriften menes med*vedtak:* vedtak etter [konkurranseloven § 12](lov/2004-
 
 I vedtak etter [konkurranseloven § 12](lov/2004-03-05-12/§12) tredje ledd, [§ 16](lov/2004-03-05-12/§16) annet ledd og [§ 16a](lov/2004-03-05-12/§16a) kan Konkurransetilsynet, etter forslag fra partene, fastsette at en eller flere forvaltere oppnevnes, eller kan oppnevnes, til å bistå ved gjennomføringen av vedtaket. Partene skal legge fram forslag til forvalter og mandat for oppdraget innen de frister tilsynet fastsetter. Partenes forslag til forvalter og utforming av mandat må godkjennes av tilsynet. Konkurransetilsynet kan i vedtaket fastsette at det skal gjelde et gjennomføringsforbud frem til forvalter er oppnevnt.
 
-Konkurransetilsynet kan, dersom det finnes nødvendig, av eget tiltak oppnevne en eller flere forvalteretil å bistå ved gjennomføringen av vedtak etter [konkurranseloven § 16](lov/2004-03-05-12/§16) første ledd jf. [§ 16](lov/2004-03-05-12/§16) tredje ledd,til å bistå ved gjennomføringen av vedtak etter [konkurranseloven § 21](lov/2004-03-05-12/§21), jf. [§ 16](lov/2004-03-05-12/§16), ogtil å bistå ved gjennomføringen av vedtak etter [konkurranseloven § 16a](lov/2004-03-05-12/§16a) jf. [§ 16](lov/2004-03-05-12/§16).
+Konkurransetilsynet kan, dersom det finnes nødvendig, av eget tiltak oppnevne en eller flere forvaltere
+
+1. til å bistå ved gjennomføringen av vedtak etter [konkurranseloven § 16](lov/2004-03-05-12/§16) første ledd jf. [§ 16](lov/2004-03-05-12/§16) tredje ledd,
+2. til å bistå ved gjennomføringen av vedtak etter [konkurranseloven § 21](lov/2004-03-05-12/§21), jf. [§ 16](lov/2004-03-05-12/§16), og
+3. til å bistå ved gjennomføringen av vedtak etter [konkurranseloven § 16a](lov/2004-03-05-12/§16a) jf. [§ 16](lov/2004-03-05-12/§16).
 
 Ved oppnevning etter annet ledd skal partene innen en frist Konkurransetilsynet fastsetter, få anledning til å uttale seg om utforming av mandat og valg av forvalter. Partene skal uten ugrunnet opphold etter oppnevningen underrettes om valg av forvalter og forvalteroppdragets innhold ved kopi av endelig mandat.
 
@@ -78,7 +85,20 @@ Ved oppnevning av forvalter etter [§ 3](forskrift/2008-09-15-1021/§3) annet le
 
 Forvalteroppdraget fastsettes i et mandat.
 
-Mandatet skal inneholde bestemmelser om:hvem som skal utføre forvalteroppdraget,hva forvalteroppdraget omfatter,hvordan forvalteroppdraget skal utføres,forvalteroppdragets varighet,prosedyrer for forvalters samarbeid med partene, inngåelse av avtaler eller gjennomføring av andre disposisjoner, herunder Konkurransetilsynets godkjennelse av kjøper ved avhending av eierandeler eller aktiva,forvalters plikt til å rapportere og utarbeide arbeids- og tidsplaner for gjennomføring av oppdraget,forvalters vederlag, dekning av utgifter og hvordan oppgjør mellom partene og forvalter skal skje,forvalters bruk av eksterne medhjelpere,misligholdssanksjoner og oppsigelse,interessekonflikter og karantene,taushetsplikt,forsikringsdekning og sikkerhetsstillelse.
+Mandatet skal inneholde bestemmelser om:
+
+1. hvem som skal utføre forvalteroppdraget,
+2. hva forvalteroppdraget omfatter,
+3. hvordan forvalteroppdraget skal utføres,
+4. forvalteroppdragets varighet,
+5. prosedyrer for forvalters samarbeid med partene, inngåelse av avtaler eller gjennomføring av andre disposisjoner, herunder Konkurransetilsynets godkjennelse av kjøper ved avhending av eierandeler eller aktiva,
+6. forvalters plikt til å rapportere og utarbeide arbeids- og tidsplaner for gjennomføring av oppdraget,
+7. forvalters vederlag, dekning av utgifter og hvordan oppgjør mellom partene og forvalter skal skje,
+8. forvalters bruk av eksterne medhjelpere,
+9. misligholdssanksjoner og oppsigelse,
+10. interessekonflikter og karantene,
+11. taushetsplikt,
+12. forsikringsdekning og sikkerhetsstillelse.
 
 > Endret ved [forskrift 11 des 2013 nr. 1467](forskrift/2013-12-11-1467) (i kraft 1 jan 2014).
 

@@ -28,11 +28,25 @@ eu_basis: []
 
 (2) Forskriften skal sikre effektiv og forsvarlig saksbehandling av søknader om tilskudd nevnt i første ledd, samt god kvalitet på det ferdige produktet. Forskriften skal gi grunnlag for godt forberedte søknader og en effektiv kontroll av bruken av tilskudd og måloppnåelse.
 
-(3) Forskriften gjelderkrav til søknadenutbetaling av rater og krav til dokumentasjon før utbetaling av raterrapportering om bruken av tilskuddkreditering av Norsk filminstitutt.
+(3) Forskriften gjelder
+
+1. krav til søknaden
+2. utbetaling av rater og krav til dokumentasjon før utbetaling av rater
+3. rapportering om bruken av tilskudd
+4. kreditering av Norsk filminstitutt.
 
 ## § 2. Krav til søknad om tilskudd til manuskriptutvikling
 
-Søknad fremmes på elektronisk skjema innen arbeidets oppstart og skal inneholdemanuskriptforfatterens CVsynopsis, handlingsbeskrivelse eller prosjektbeskrivelseredegjørelse for prosjektets filmatiske intensjoner såfremt et litterært verk ligger til grunn for utviklingsprosjektetfremdriftsplanprosjektets opphavsrettslige historikk, samt dokumentasjon på at forfatteren har rettighetene til å utvikle manuskriptet såfremt det tidligere har vært utviklet av flere forfatterekopi av opsjonsavtale dersom søknaden bygger på et opphavsrettslig beskyttet verkopplysninger om hvorvidt prosjektet eller ideen tidligere har vært utviklet med offentlig støtteopplysninger om eventuelle andre offentlige instanser det er søkt eller mottatt tilskudd fra.
+Søknad fremmes på elektronisk skjema innen arbeidets oppstart og skal inneholde
+
+1. manuskriptforfatterens CV
+2. synopsis, handlingsbeskrivelse eller prosjektbeskrivelse
+3. redegjørelse for prosjektets filmatiske intensjoner såfremt et litterært verk ligger til grunn for utviklingsprosjektet
+4. fremdriftsplan
+5. prosjektets opphavsrettslige historikk, samt dokumentasjon på at forfatteren har rettighetene til å utvikle manuskriptet såfremt det tidligere har vært utviklet av flere forfattere
+6. kopi av opsjonsavtale dersom søknaden bygger på et opphavsrettslig beskyttet verk
+7. opplysninger om hvorvidt prosjektet eller ideen tidligere har vært utviklet med offentlig støtte
+8. opplysninger om eventuelle andre offentlige instanser det er søkt eller mottatt tilskudd fra.
 
 ## § 3. Utbetaling av tilskudd til manuskriptutvikling
 
@@ -46,7 +60,15 @@ Søknad fremmes på elektronisk skjema innen arbeidets oppstart og skal innehold
 
 ## § 4. Krav til søknad om tilskudd til deltakelse på kurs i utlandet mv.
 
-Søknad fremmes på elektronisk skjema innen eventuelle søknadsfrister fastsatt av Norsk filminstitutt og før arrangementet begynner. Søknaden skal inneholdesøkerens CVbeskrivelse av tiltaket det søkes tilskudd tilsøkerens motivasjon og faglige begrunnelse for søknadenbeskrivelse av arrangementet fra arrangør av kurset, programmet eller forumet som det søkes om tilskudd tildokumentasjon på at søkeren har fått plass på det aktuelle kursetdokumentasjon på hvilke kostnader som dekkes av arrangøropplysninger om eventuelle andre offentlige instanser det er søkt eller mottatt tilskudd fra.
+Søknad fremmes på elektronisk skjema innen eventuelle søknadsfrister fastsatt av Norsk filminstitutt og før arrangementet begynner. Søknaden skal inneholde
+
+1. søkerens CV
+2. beskrivelse av tiltaket det søkes tilskudd til
+3. søkerens motivasjon og faglige begrunnelse for søknaden
+4. beskrivelse av arrangementet fra arrangør av kurset, programmet eller forumet som det søkes om tilskudd til
+5. dokumentasjon på at søkeren har fått plass på det aktuelle kurset
+6. dokumentasjon på hvilke kostnader som dekkes av arrangør
+7. opplysninger om eventuelle andre offentlige instanser det er søkt eller mottatt tilskudd fra.
 
 ## § 5. Utbetaling av tilskudd til deltakelse på kurs i utlandet mv.
 
@@ -56,7 +78,14 @@ Søknad fremmes på elektronisk skjema innen eventuelle søknadsfrister fastsatt
 
 ## § 6. Krav til søknad om tilskudd til arbeidsstipender
 
-(1) Søknad fremmes på elektronisk skjema før tiltaket, arbeidet eller hospiteringen iverksettes og skal inneholdesøkerens CVbeskrivelse av tiltaket det søkes tilskudd tilsøkerens motivasjon og faglige begrunnelse for søknadenbudsjettfremdriftsplanopplysninger om eventuelle andre offentlige instanser det er søkt eller mottatt tilskudd fra.
+(1) Søknad fremmes på elektronisk skjema før tiltaket, arbeidet eller hospiteringen iverksettes og skal inneholde
+
+1. søkerens CV
+2. beskrivelse av tiltaket det søkes tilskudd til
+3. søkerens motivasjon og faglige begrunnelse for søknaden
+4. budsjett
+5. fremdriftsplan
+6. opplysninger om eventuelle andre offentlige instanser det er søkt eller mottatt tilskudd fra.
 
 (2) Søknad om tilskudd til hospitering skal i tillegg inneholde erklæring fra relevant virksomhet om at virksomheten er villig til å ta inn søkeren som hospitant på heltid.
 

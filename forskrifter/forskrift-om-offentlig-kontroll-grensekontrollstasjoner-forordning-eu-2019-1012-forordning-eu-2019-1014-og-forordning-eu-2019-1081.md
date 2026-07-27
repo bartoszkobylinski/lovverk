@@ -17,7 +17,7 @@ xml_hash: "b5f79cfd1d98d6bba354260ac706896ef4196094a6824da8a1db9366f86deabe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -125,7 +125,12 @@ VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Formål
 
-1\. Denne forordning fastsetter regler for gjennomføring av forordning [(EF) nr. 2017/625](eu/32017r0625*) med hensyn til følgende:Felles nærmere regler for minstekrav til infrastruktur, utstyr og dokumentasjon på grensekontrollstasjoner og andre kontrollsteder enn grensekontrollstasjoner.Særlige nærmere regler for minstekrav til grensekontrollstasjoner som er utpekt for kategoriene av dyr og varer nevnt i artikkel 47 nr. 1 bokstav a) og b) i forordning [(EU) 2017/625](eu/32017r0625*).Nærmere regler for minstekrav til kontrollsentre.Format, kategorier, forkortelser og andre opplysninger som brukes i listene over grensekontrollstasjoner og andre kontrollsteder enn grensekontrollstasjoner.
+1\. Denne forordning fastsetter regler for gjennomføring av forordning [(EF) nr. 2017/625](eu/32017r0625*) med hensyn til følgende:
+
+1. Felles nærmere regler for minstekrav til infrastruktur, utstyr og dokumentasjon på grensekontrollstasjoner og andre kontrollsteder enn grensekontrollstasjoner.
+2. Særlige nærmere regler for minstekrav til grensekontrollstasjoner som er utpekt for kategoriene av dyr og varer nevnt i artikkel 47 nr. 1 bokstav a) og b) i forordning [(EU) 2017/625](eu/32017r0625*).
+3. Nærmere regler for minstekrav til kontrollsentre.
+4. Format, kategorier, forkortelser og andre opplysninger som brukes i listene over grensekontrollstasjoner og andre kontrollsteder enn grensekontrollstasjoner.
 
 ### Artikkel 2. Definisjoner
 
@@ -139,14 +144,21 @@ I denne forordning menes med
 
 4\. «registrerte dyr av hestefamilien» registrerte dyr av hestefamilien som definert i artikkel 2 bokstav c) i direktiv [2009/156/EF](eu/32009l0156).8
 
-7 Rådsdirektiv [2004/68/EF](eu/32004l0068*) av 26. april om fastsettelse av dyrehelseregler for import til og transitt gjennom Fellesskapet av visse arter levende hovdyr, om endring av direktiv [90/426/EØF](eu/31990l0426*) og [92/65/EØF](eu/31992l0065*), og om oppheving av direktiv [72/462/EØF](eu/31972l0462*) (EUT L 139 av 30.4.2004, s. 321).8 Rådsdirektiv [2009/156/EF](eu/32009l0156) av 30. november 2009 om krav til dyrehelse ved forflytning av dyr av hestefamilien og import av slike dyr fra tredjestater (EUT L 192 av 23.7.2010, s. 1).
+7 Rådsdirektiv [2004/68/EF](eu/32004l0068*) av 26. april om fastsettelse av dyrehelseregler for import til og transitt gjennom Fellesskapet av visse arter levende hovdyr, om endring av direktiv [90/426/EØF](eu/31990l0426*) og [92/65/EØF](eu/31992l0065*), og om oppheving av direktiv [72/462/EØF](eu/31972l0462*) (EUT L 139 av 30.4.2004, s. 321).
+
+8 Rådsdirektiv [2009/156/EF](eu/32009l0156) av 30. november 2009 om krav til dyrehelse ved forflytning av dyr av hestefamilien og import av slike dyr fra tredjestater (EUT L 192 av 23.7.2010, s. 1).
 
 ### KAPITTEL I
 Felles minstekrav til grensekontrollstasjoner
 
 ### Artikkel 3. Infrastruktur på grensekontrollstasjoner
 
-1\. Grensekontrollstasjoner som er utpekt for kategoriene av dyr og varer nevnt i artikkel 47 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*), skal ha følgende anlegg:Områder eller rom der dyr og varer skal losses. Slike områder skal være dekket av et tak, unntatt i tilfellene nevnt i nr. 4.Inspeksjonslokaler eller inspeksjonsområder med tilgang til rennende varmt og kaldt vann samt muligheter for å vaske og tørke hendene.Områder eller lokaler for oppstalling av dyr og lagringsområder eller lagerrom, herunder kjølerom dersom dette er hensiktsmessig for den varekategorien som grensekontrollstasjonen er utpekt for.Tilgang til toaletter med muligheter for å vaske og tørke hendene.
+1\. Grensekontrollstasjoner som er utpekt for kategoriene av dyr og varer nevnt i artikkel 47 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*), skal ha følgende anlegg:
+
+1. Områder eller rom der dyr og varer skal losses. Slike områder skal være dekket av et tak, unntatt i tilfellene nevnt i nr. 4.
+2. Inspeksjonslokaler eller inspeksjonsområder med tilgang til rennende varmt og kaldt vann samt muligheter for å vaske og tørke hendene.
+3. Områder eller lokaler for oppstalling av dyr og lagringsområder eller lagerrom, herunder kjølerom dersom dette er hensiktsmessig for den varekategorien som grensekontrollstasjonen er utpekt for.
+4. Tilgang til toaletter med muligheter for å vaske og tørke hendene.
 
 2\. Rommene nevnt i nr. 1 skal være utstyrt med vegger, gulv og tak som er lette å rengjøre og desinfisere, har tilstrekkelig drenering og tilstrekkelig naturlig eller kunstig belysning.
 
@@ -156,11 +168,21 @@ Felles minstekrav til grensekontrollstasjoner
 
 3a. Dreneringen nevnt i nr. 2 og 3 skal være egnet til å eliminere enhver risiko for kontaminering og tillate oppbevaring, lagring, rengjøring og desinfisering under forhold som er hensiktsmessige for kategoriene av dyr eller varer som håndteres i områdene eller rommene nevnt i de nevnte nummere.
 
-4\. Kravene til at losseområdene skal være dekket av et tak som fastsatt i nr. 1 bokstav a), skal ikke gjelde i følgende tilfeller:Forsendelser av akvatiske dyr og fiskerivarer som ikke transporteres i containere.Forsendelser av animalske biprodukter som består av ull, bearbeidet animalsk protein i bulk, husdyrgjødsel i bulk eller guano.Forsendelser av store mengder bulkvarer og brukte landbruks- og skogbruksmaskiner nevnt i artikkel 47 nr. 1 bokstav c), d) og e) i forordning [(EU) 2017/625](eu/32017r0625).
+4\. Kravene til at losseområdene skal være dekket av et tak som fastsatt i nr. 1 bokstav a), skal ikke gjelde i følgende tilfeller:
 
-5\. Anleggene nevnt i nr. 1 bokstav a) og b) er ikke påkrevd for gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med følgende:Bulkvæsker av animalsk og ikke-animalsk opprinnelse.Bulkvarer i store mengder av ikke-animalsk opprinnelse losset med bruk av spesialutstyr direkte til lagringsanlegg.
+1. Forsendelser av akvatiske dyr og fiskerivarer som ikke transporteres i containere.
+2. Forsendelser av animalske biprodukter som består av ull, bearbeidet animalsk protein i bulk, husdyrgjødsel i bulk eller guano.
+3. Forsendelser av store mengder bulkvarer og brukte landbruks- og skogbruksmaskiner nevnt i artikkel 47 nr. 1 bokstav c), d) og e) i forordning [(EU) 2017/625](eu/32017r0625).
 
-6\. Medlemsstatene kan unnta grensekontrollstasjoner som er utpekt for kategoriene av planter, planteprodukter og andre gjenstander omhandlet i artikkel 47 nr. 1 bokstav c)–f) i forordning [(EU) 2017/625](eu/32017r0625), fra følgende krav:Tilgang til rennende varmt og kaldt vann samt muligheter for å vaske og tørke hendene som nevnt i nr. 1 bokstav b).Tilgang til rom med tak som er lette å desinfisere som nevnt i nr. 2.
+5\. Anleggene nevnt i nr. 1 bokstav a) og b) er ikke påkrevd for gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med følgende:
+
+1. Bulkvæsker av animalsk og ikke-animalsk opprinnelse.
+2. Bulkvarer i store mengder av ikke-animalsk opprinnelse losset med bruk av spesialutstyr direkte til lagringsanlegg.
+
+6\. Medlemsstatene kan unnta grensekontrollstasjoner som er utpekt for kategoriene av planter, planteprodukter og andre gjenstander omhandlet i artikkel 47 nr. 1 bokstav c)–f) i forordning [(EU) 2017/625](eu/32017r0625), fra følgende krav:
+
+1. Tilgang til rennende varmt og kaldt vann samt muligheter for å vaske og tørke hendene som nevnt i nr. 1 bokstav b).
+2. Tilgang til rom med tak som er lette å desinfisere som nevnt i nr. 2.
 
 ◄**M1**
 
@@ -168,13 +190,21 @@ Felles minstekrav til grensekontrollstasjoner
 
 8\. Anleggene nevnt i nr. 1 bokstav a), b) og c) skal ikke deles med næringsmidler av ikke-animalsk opprinnelse når de brukes til formeringsmateriale og animalske biprodukter.
 
-9\. Som unntak fra kravene i nr. 7 og 8 kan grensekontrollstasjoner dele anleggene nevnt i nr. 1 bokstav a), b) og c) i følgende tilfeller:Grensekontrollstasjoner som er utpekt bare for kategorier av emballerte varer.Grensekontrollstasjoner som er utpekt for kategorier av emballerte varer og uemballerte varer, forutsatt at følgende vilkår er oppfylt:Vedkommende myndigheter gjennomfører en risikovurdering av grensekontrollstasjonene som viser hvordan krysskontaminering kan unngås, og de gjennomfører tiltak som er identifisert i risikovurderingen for forebygging av slik krysskontaminering.Vedkommende myndigheter sikrer at håndteringen av ulike forsendelser med uemballerte varer skjer på andre tidspunkter enn håndteringen av forsendelser med uemballerte og emballerte varer. I perioden mellom de ulike tidspunktene skal anleggene nevnt i nr. 1 bokstav a), b) og c) rengjøres og desinfiseres.
+9\. Som unntak fra kravene i nr. 7 og 8 kan grensekontrollstasjoner dele anleggene nevnt i nr. 1 bokstav a), b) og c) i følgende tilfeller:
+
+1. Grensekontrollstasjoner som er utpekt bare for kategorier av emballerte varer.
+2. Grensekontrollstasjoner som er utpekt for kategorier av emballerte varer og uemballerte varer, forutsatt at følgende vilkår er oppfylt:
+
+   1. Vedkommende myndigheter gjennomfører en risikovurdering av grensekontrollstasjonene som viser hvordan krysskontaminering kan unngås, og de gjennomfører tiltak som er identifisert i risikovurderingen for forebygging av slik krysskontaminering.
+   2. Vedkommende myndigheter sikrer at håndteringen av ulike forsendelser med uemballerte varer skjer på andre tidspunkter enn håndteringen av forsendelser med uemballerte og emballerte varer. I perioden mellom de ulike tidspunktene skal anleggene nevnt i nr. 1 bokstav a), b) og c) rengjøres og desinfiseres.
 
 10\. Nr. 9 skal ikke gjelde anlegg nevnt i nr. 1 bokstav c) dersom disse anleggene brukes til lagring av animalske biprodukter i bulk.
 
 ►**M1**
 
-11\. Vedkommende myndigheter på grensekontrollstasjonen kan under sin kontroll tillate bruken av kommersielle lagringsanlegg for varer nevnt i artikkel 47 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625), forutsatt at disse anleggene ligger i umiddelbar nærhet av grensekontrollstasjonen, og hører inn under samme tollmyndighets ansvarsområde.Slike kommersielle lagringsanlegg kan brukes til gjennomføring av identitetskontroller og fysiske kontroller av planter, planteprodukter og andre gjenstander, og på produkter av ikke-animalsk opprinnelse, nevnt i artikkel 47 nr. 1 bokstav c)–f) i forordning [(EU) 2017/625](eu/32017r0625), forutsatt at disse anleggene oppfyller minstekravene i denne forordningen.
+11\. Vedkommende myndigheter på grensekontrollstasjonen kan under sin kontroll tillate bruken av kommersielle lagringsanlegg for varer nevnt i artikkel 47 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625), forutsatt at disse anleggene ligger i umiddelbar nærhet av grensekontrollstasjonen, og hører inn under samme tollmyndighets ansvarsområde.
+
+Slike kommersielle lagringsanlegg kan brukes til gjennomføring av identitetskontroller og fysiske kontroller av planter, planteprodukter og andre gjenstander, og på produkter av ikke-animalsk opprinnelse, nevnt i artikkel 47 nr. 1 bokstav c)–f) i forordning [(EU) 2017/625](eu/32017r0625), forutsatt at disse anleggene oppfyller minstekravene i denne forordningen.
 
 ◄**M1**
 
@@ -188,9 +218,20 @@ Slike kommersielle lagringsanlegg kan brukes til gjennomføring av identitetskon
 
 ### Artikkel 4. Utstyr og dokumentasjon på grensekontrollstasjoner
 
-1\. Grensekontrollstasjoner skal ha tilgang tilutstyr til veiing av forsendelser dersom bruken av det er relevant for de kategoriene av dyr og varer som grensekontrollstasjonen er blitt utpekt for,utstyr til å losse, åpne og undersøke forsendelser,utstyr til rengjøring og desinfisering med bruksanvisninger eller et dokumentert system for rengjøring og desinfisering dersom rengjøringen og desinfiseringen utføres av representanter som er uavhengige av grensekontrollstasjonen, ogtilstrekkelig utstyr for midlertidig lagring av prøver under regulert temperatur, i påvente av at de skal sendes til laboratoriet, og egnede beholdere for transport av prøvene.
+1\. Grensekontrollstasjoner skal ha tilgang til
 
-2\. Inspeksjonslokaler eller inspeksjonsområder skal, dersom det er relevant for de kategoriene av dyr og varer som grensekontrollstasjonen er blitt utpekt for, være utstyrt med følgende:Et bord med en glatt, vaskbar overflate som er lett å rengjøre og desinfisere.Et termometer for å måle varenes overflate- og kjernetemperatur.Tineutstyr.Prøvetakingsutstyr.Teip for forsegling og nummererte forseglinger eller tydelig merkede etiketter for å sikre sporbarhet.
+1. utstyr til veiing av forsendelser dersom bruken av det er relevant for de kategoriene av dyr og varer som grensekontrollstasjonen er blitt utpekt for,
+2. utstyr til å losse, åpne og undersøke forsendelser,
+3. utstyr til rengjøring og desinfisering med bruksanvisninger eller et dokumentert system for rengjøring og desinfisering dersom rengjøringen og desinfiseringen utføres av representanter som er uavhengige av grensekontrollstasjonen, og
+4. tilstrekkelig utstyr for midlertidig lagring av prøver under regulert temperatur, i påvente av at de skal sendes til laboratoriet, og egnede beholdere for transport av prøvene.
+
+2\. Inspeksjonslokaler eller inspeksjonsområder skal, dersom det er relevant for de kategoriene av dyr og varer som grensekontrollstasjonen er blitt utpekt for, være utstyrt med følgende:
+
+1. Et bord med en glatt, vaskbar overflate som er lett å rengjøre og desinfisere.
+2. Et termometer for å måle varenes overflate- og kjernetemperatur.
+3. Tineutstyr.
+4. Prøvetakingsutstyr.
+5. Teip for forsegling og nummererte forseglinger eller tydelig merkede etiketter for å sikre sporbarhet.
 
 3\. Dersom det er nødvendig for å sikre at de prøvene som er tatt som del av offentlig kontroll, er intakte, skal nærmere anvisninger om prøvetaking med sikte på analyse og transport av disse prøvene til det utpekte offentlige laboratoriet, være tilgjengelig.
 
@@ -199,13 +240,30 @@ Særlige minstekrav til grensekontrollstasjoner
 
 ### Artikkel 5. Grensekontrollstasjoner utpekt for kategorier av dyr
 
-1\. I tillegg til kravene i artikkel 3 og 4 skal grensekontrollstasjoner som er utpekt for kategorier av dyr nevnt i artikkel 47 nr. 1 bokstav a) i forordning [(EF) 2017/625](eu/32017r0625*), ha følgende:Garderobe med dusjmuligheter.Områder eller rom for lossing av dyr nevnt i artikkel 3 nr. 1 bokstav a), med tilstrekkelig plass, belysning og ventilasjon.Utstyr for fôring og vanning.lagringsanlegg for fôr, strø og husdyrgjødsel og for ordninger med en ekstern leverandør som stiller samme anlegg til rådighet.►**M1**Områder eller lokaler for oppstalling av de kategorier av dyr som grensekontrollstasjonen er utpekt for.◄**M1**Inspeksjonslokaler eller inspeksjonsområder utstyrt med fikseringsutstyr og nødvendig utstyr for å utføre klinisk undersøkelse.Et eget innkjøringsfelt og andre ordninger for å spare dyrene for unødig ventetid før de ankommer losseområdet.
+1\. I tillegg til kravene i artikkel 3 og 4 skal grensekontrollstasjoner som er utpekt for kategorier av dyr nevnt i artikkel 47 nr. 1 bokstav a) i forordning [(EF) 2017/625](eu/32017r0625*), ha følgende:
+
+1. Garderobe med dusjmuligheter.
+2. Områder eller rom for lossing av dyr nevnt i artikkel 3 nr. 1 bokstav a), med tilstrekkelig plass, belysning og ventilasjon.
+3. Utstyr for fôring og vanning.
+4. lagringsanlegg for fôr, strø og husdyrgjødsel og for ordninger med en ekstern leverandør som stiller samme anlegg til rådighet.
+
+   ►**M1**
+5. Områder eller lokaler for oppstalling av de kategorier av dyr som grensekontrollstasjonen er utpekt for.
+
+   ◄**M1**
+6. Inspeksjonslokaler eller inspeksjonsområder utstyrt med fikseringsutstyr og nødvendig utstyr for å utføre klinisk undersøkelse.
+7. Et eget innkjøringsfelt og andre ordninger for å spare dyrene for unødig ventetid før de ankommer losseområdet.
 
 2\. Anleggene nevnt i nr. 1 bokstav b), c), e), f) og g) skal utformes, konstrueres, vedlikeholdes og drives på en slik måte at dyrene ikke utsettes for skade og unødig lidelse, og deres sikkerhet ivaretas.
 
 3\. Anleggene nevnt i nr. 1 bokstav a), b), c), e) og f) skal utgjøre en integrert og fullstendig driftsenhet.
 
-4\. Anleggene nevnt i nr. 1 skal ikke brukes til gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med forsendelser med dyr beregnet på handel innenfor Unionen.Anleggene nevnt i nr. 1 skal brukes til gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med forsendelser med dyr beregnet på eksport fra Unionen, som forflyttes fra ett av territoriene oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*) til et annet territorium oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*), etter passering gjennom territoriet til en tredjestat, forutsatt at følgende vilkår er oppfylt:Vedkommende myndigheter gjennomfører en risikovurdering av grensekontrollstasjonene som viser hvordan krysskontaminering kan unngås, og de gjennomfører tiltak som er identifisert i risikovurderingen for forebygging av slik krysskontaminering.Vedkommende myndigheter sikrer at håndteringen av forsendelser med dyr beregnet på eksport fra Unionen, eller som forflyttes fra ett av territoriene oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*) til et annet territorium oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*), etter passering gjennom territoriet til en tredjestat, skjer på andre tidspunkter enn alle andre forsendelser med dyr som innføres til Unionen. I perioden mellom de ulike tidspunktene skal anleggene som brukes til håndtering av forsendelser med dyr, rengjøres og desinfiseres.
+4\. Anleggene nevnt i nr. 1 skal ikke brukes til gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med forsendelser med dyr beregnet på handel innenfor Unionen.
+
+Anleggene nevnt i nr. 1 skal brukes til gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med forsendelser med dyr beregnet på eksport fra Unionen, som forflyttes fra ett av territoriene oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*) til et annet territorium oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*), etter passering gjennom territoriet til en tredjestat, forutsatt at følgende vilkår er oppfylt:
+
+1. Vedkommende myndigheter gjennomfører en risikovurdering av grensekontrollstasjonene som viser hvordan krysskontaminering kan unngås, og de gjennomfører tiltak som er identifisert i risikovurderingen for forebygging av slik krysskontaminering.
+2. Vedkommende myndigheter sikrer at håndteringen av forsendelser med dyr beregnet på eksport fra Unionen, eller som forflyttes fra ett av territoriene oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*) til et annet territorium oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*), etter passering gjennom territoriet til en tredjestat, skjer på andre tidspunkter enn alle andre forsendelser med dyr som innføres til Unionen. I perioden mellom de ulike tidspunktene skal anleggene som brukes til håndtering av forsendelser med dyr, rengjøres og desinfiseres.
 
 5\. Anleggene nevnt i nr. 1 bokstav b), c), e) og f) skal ikke deles med andre kategorier av varer som er nevnt i artikkel 47 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*).
 
@@ -217,11 +275,20 @@ Særlige minstekrav til grensekontrollstasjoner
 
 ### Artikkel 6. Grensekontrollstasjoner utpekt for kategorier av produkter av animalsk opprinnelse, animalske biprodukter, formeringsmateriale, sammensatte produkter og høy og halm
 
-1\. I tillegg til kravene i artikkel 3 og 4 skal grensekontrollstasjoner som er utpekt for kategoriene av varer som er nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*),ha inspeksjonslokaler som nevnt i artikkel 3 nr. 1 bokstav b), utstyrt med anlegg for å opprettholde et temperaturregulert miljø,dersom de er blitt utpekt for kategorier av kjølte, fryste og omgivelsestempererte varer, samtidig kunne lagre disse varene under passende temperaturforhold, i påvente av resultatene av laboratorieanalyser, tester eller diagnoser, eller i påvente av resultatene fra vedkommende myndighets kontroller, ogha garderober.
+1\. I tillegg til kravene i artikkel 3 og 4 skal grensekontrollstasjoner som er utpekt for kategoriene av varer som er nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*),
+
+1. ha inspeksjonslokaler som nevnt i artikkel 3 nr. 1 bokstav b), utstyrt med anlegg for å opprettholde et temperaturregulert miljø,
+2. dersom de er blitt utpekt for kategorier av kjølte, fryste og omgivelsestempererte varer, samtidig kunne lagre disse varene under passende temperaturforhold, i påvente av resultatene av laboratorieanalyser, tester eller diagnoser, eller i påvente av resultatene fra vedkommende myndighets kontroller, og
+3. ha garderober.
 
 2\. Anleggene nevnt i nr. 1 bokstav skal utgjøre en integrert og fullstendig driftsenhet.
 
-3\. Anleggene nevnt i nr. 1 skal ikke brukes til gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med forsendelser med varer beregnet på handel innenfor Unionen.Anleggene nevnt i nr. 1 skal brukes til gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med forsendelser med varer beregnet på eksport fra Unionen, og som forflyttes fra ett av territoriene oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*) til et annet territorium oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*), etter passering gjennom territoriet til en tredjestat, forutsatt at følgende vilkår er oppfylt:Vedkommende myndigheter gjennomfører en risikovurdering av grensekontrollstasjonene som viser hvordan krysskontaminering kan unngås, og de gjennomfører tiltak som er identifisert i risikovurderingen for forebygging av slik krysskontaminering.Vedkommende myndigheter sikrer at håndteringen av forsendelser med varer beregnet på eksport fra Unionen, eller som forflyttes fra ett av territoriene oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*) til et annet territorium oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*), etter passering gjennom territoriet til en tredjestat, skjer på andre tidspunkter enn alle andre forsendelser med varer som innføres til Unionen. I perioden mellom de ulike tidspunktene skal anleggene som brukes til håndtering av forsendelser med varer, rengjøres og desinfiseres.
+3\. Anleggene nevnt i nr. 1 skal ikke brukes til gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med forsendelser med varer beregnet på handel innenfor Unionen.
+
+Anleggene nevnt i nr. 1 skal brukes til gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med forsendelser med varer beregnet på eksport fra Unionen, og som forflyttes fra ett av territoriene oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*) til et annet territorium oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*), etter passering gjennom territoriet til en tredjestat, forutsatt at følgende vilkår er oppfylt:
+
+1. Vedkommende myndigheter gjennomfører en risikovurdering av grensekontrollstasjonene som viser hvordan krysskontaminering kan unngås, og de gjennomfører tiltak som er identifisert i risikovurderingen for forebygging av slik krysskontaminering.
+2. Vedkommende myndigheter sikrer at håndteringen av forsendelser med varer beregnet på eksport fra Unionen, eller som forflyttes fra ett av territoriene oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*) til et annet territorium oppført i vedlegg I til forordning [(EU) 2017/625](eu/32017r0625*), etter passering gjennom territoriet til en tredjestat, skjer på andre tidspunkter enn alle andre forsendelser med varer som innføres til Unionen. I perioden mellom de ulike tidspunktene skal anleggene som brukes til håndtering av forsendelser med varer, rengjøres og desinfiseres.
 
 4\. Kravene nevnt i nr. 1, 2 og 3 skal ikke gjelde for gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med bulkvæsker av animalsk og ikke-animalsk opprinnelse.
 
@@ -249,9 +316,14 @@ Kontrollsentre
 
 1\. Grensekontrollstasjoner kan omfatte ett eller flere kontrollsentre for å gjennomføre, etter behov, offentlig kontroll og annen offentlig virksomhet av den type dyr og varer grensekontrollstasjonen er godkjent for.
 
-2\. Kontrollsentrene skal oppfylle minstekravene til grensekontrollstasjoner fastsatt i artikkel 64 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*) og de nærmere reglene om minstekrav i denne forordning.Kravene i artikkel 64 nr. 3 bokstav f) i forordning [(EU) 2017/625](eu/32017r0625*) får ikke anvendelse på kontrollsentre som har tilgang til teknologien og utstyret for drift av informasjonsstyringssystemet for offentlig kontroll (IMSOC) nevnt i artikkel 131 i denne forordning, og på andre databaserte informasjonsstyringssystemer som er tilgjengelige i et annet anlegg på samme grensekontrollstasjon.
+2\. Kontrollsentrene skal oppfylle minstekravene til grensekontrollstasjoner fastsatt i artikkel 64 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*) og de nærmere reglene om minstekrav i denne forordning.
 
-3\. Kontrollsentre skalhøre inn under den samme tollmyndighets ansvarsområde på grensekontrollstasjonen, oghøre inn under vedkommende myndighets kontroll på grensekontrollstasjonen.
+Kravene i artikkel 64 nr. 3 bokstav f) i forordning [(EU) 2017/625](eu/32017r0625*) får ikke anvendelse på kontrollsentre som har tilgang til teknologien og utstyret for drift av informasjonsstyringssystemet for offentlig kontroll (IMSOC) nevnt i artikkel 131 i denne forordning, og på andre databaserte informasjonsstyringssystemer som er tilgjengelige i et annet anlegg på samme grensekontrollstasjon.
+
+3\. Kontrollsentre skal
+
+1. høre inn under den samme tollmyndighets ansvarsområde på grensekontrollstasjonen, og
+2. høre inn under vedkommende myndighets kontroll på grensekontrollstasjonen.
 
 4\. Dersom medlemsstater underretter Kommisjonen om utpekingen av en grensekontrollstasjon i samsvar med artikkel 59 i forordning [(EU) 2017/625](eu/32017r0625*), skal de også framlegge alle relevante opplysninger om eventuelle kontrollsentre som er opprettet innenfor slike grensekontrollstasjoner.
 
@@ -331,7 +403,11 @@ R = Vei
 
 **Felt 5: Kontrollsentre**
 
-(Bemerk at det kan være flere kontrollsentre underlagt en grensekontrollstasjon)Kontrollsenterets navnAdresse og kontaktopplysninger
+(Bemerk at det kan være flere kontrollsentre underlagt en grensekontrollstasjon)
+
+Kontrollsenterets navn
+
+Adresse og kontaktopplysninger
 
 **Felt 6: Grensekontrollstasjon og kontrollsted**
 
@@ -458,7 +534,11 @@ VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Formål
 
-Denne forordningen fastsetter regler forutpeking på nytt av en grensekontrollstasjon eller et annet kontrollsted enn en grensekontrollstasjon der utpekingen er blitt delvis tilbakekalt,grensekontrollstasjoner som ligger i en annen avstand enn i umiddelbar nærhet av innførselsstedet til Union, på grunn av særlige geografiske begrensninger,utpeking av grensekontrollstasjoner for import av ubearbeidet tømmer, saget tre eller treflis for å ta hensyn til særlige geografiske begrensninger.
+Denne forordningen fastsetter regler for
+
+1. utpeking på nytt av en grensekontrollstasjon eller et annet kontrollsted enn en grensekontrollstasjon der utpekingen er blitt delvis tilbakekalt,
+2. grensekontrollstasjoner som ligger i en annen avstand enn i umiddelbar nærhet av innførselsstedet til Union, på grunn av særlige geografiske begrensninger,
+3. utpeking av grensekontrollstasjoner for import av ubearbeidet tømmer, saget tre eller treflis for å ta hensyn til særlige geografiske begrensninger.
 
 ### Artikkel 2. Utpeking på nytt av en grensekontrollstasjon eller et annet kontrollsted enn en grensekontrollstasjon etter delvis tilbakekalling av utpekingen
 
@@ -470,15 +550,32 @@ Denne forordningen fastsetter regler forutpeking på nytt av en grensekontrollst
 
 4\. Medlemsstaten skal gå videre med utpekingen på nytt bare dersom den er blitt underrettet av Kommisjonen, i samsvar med nr. 3, om at tiltakene truffet av medlemsstaten er tilstrekkelige til å sikre at minstekravene er oppfylt.
 
-5\. Utpekingen på nytt i samsvar med nr. 4 kan bare finne sted innen to år fra datoen for den delvise tilbakekallingen av utpekingen nevnt i nr. 1.Etter denne perioden på to år kan utpekingen på nytt bare skje i samsvar med artikkel 59 i forordning [(EF) nr. 2017/625](eu/32017r0625*).
+5\. Utpekingen på nytt i samsvar med nr. 4 kan bare finne sted innen to år fra datoen for den delvise tilbakekallingen av utpekingen nevnt i nr. 1.
+
+Etter denne perioden på to år kan utpekingen på nytt bare skje i samsvar med artikkel 59 i forordning [(EF) nr. 2017/625](eu/32017r0625*).
 
 ### Artikkel 3. Grensekontrollstasjoner som ligger i en annen avstand enn i umiddelbar nærhet av innførselsstedet til Union
 
-1\. Som unntak fra artikkel 64 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*) kan grensekontrollstasjoner ligge i en annen avstand enn i umiddelbar nærhet av innførselsstedet til Unionen, forutsatt atdet er nødvendig på grunn av særlige geografiske begrensninger i samsvar med nr. 2, ogvilkårene fastsatt i nr. 3 er oppfylt.
+1\. Som unntak fra artikkel 64 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*) kan grensekontrollstasjoner ligge i en annen avstand enn i umiddelbar nærhet av innførselsstedet til Unionen, forutsatt at
 
-2\. De geografiske begrensningene nevnt i nr. 1 skal være av slik art at de hindrer eller begrenser en effektiv gjennomføring av offentlig kontroll og annen offentlig virksomhet.Disse geografiske begrensningene skal bestå av ett eller flere av følgende elementer:Innførselssteder med geografiske forhold som fører til betydelige begrensninger på transportsystemet.Innførselssteder som er utsatt for tilbakevendende flom på visse tider av året.Kaianlegg omgitt av klipper.Grenseveier som krysser en høy fjellovergang.Jernbanetransport av dyr og varer som gjør det nødvendig å plassere grensekontrollstasjonen på den første stasjonen.Innførselssteder uten egnet areal som gjør det mulig å plassere grensekontrollstasjonen og dens anlegg i deres umiddelbare nærhet.
+1. det er nødvendig på grunn av særlige geografiske begrensninger i samsvar med nr. 2, og
+2. vilkårene fastsatt i nr. 3 er oppfylt.
 
-3\. Når en medlemsstat beslutter å utpeke én eller flere grensekontrollstasjoner nevnt i nr. 1, skal utpekingen oppfylle følgende vilkår:Grensekontrollstasjonens avstand fra innførselsstedet til Unionen er tilpasset behovet for å overvinne de geografiske begrensningene og er ikke større enn hva dette behovet tilsier.Grensekontrollstasjonen og innførselsstedet hører inn under samme tollmyndighets ansvarsområde, slik at forsendelser kan flyttes fra innførselsstedet til grensekontrollstasjonene uten at de underlegges og håndteres under en tollprosedyre.
+2\. De geografiske begrensningene nevnt i nr. 1 skal være av slik art at de hindrer eller begrenser en effektiv gjennomføring av offentlig kontroll og annen offentlig virksomhet.
+
+Disse geografiske begrensningene skal bestå av ett eller flere av følgende elementer:
+
+1. Innførselssteder med geografiske forhold som fører til betydelige begrensninger på transportsystemet.
+2. Innførselssteder som er utsatt for tilbakevendende flom på visse tider av året.
+3. Kaianlegg omgitt av klipper.
+4. Grenseveier som krysser en høy fjellovergang.
+5. Jernbanetransport av dyr og varer som gjør det nødvendig å plassere grensekontrollstasjonen på den første stasjonen.
+6. Innførselssteder uten egnet areal som gjør det mulig å plassere grensekontrollstasjonen og dens anlegg i deres umiddelbare nærhet.
+
+3\. Når en medlemsstat beslutter å utpeke én eller flere grensekontrollstasjoner nevnt i nr. 1, skal utpekingen oppfylle følgende vilkår:
+
+1. Grensekontrollstasjonens avstand fra innførselsstedet til Unionen er tilpasset behovet for å overvinne de geografiske begrensningene og er ikke større enn hva dette behovet tilsier.
+2. Grensekontrollstasjonen og innførselsstedet hører inn under samme tollmyndighets ansvarsområde, slik at forsendelser kan flyttes fra innførselsstedet til grensekontrollstasjonene uten at de underlegges og håndteres under en tollprosedyre.
 
 4\. Grensekontrollstasjonen skal ligge i tilstrekkelig avstand fra virksomheter eller steder der dyr, planter, planteprodukter eller andre gjenstander som kan bli smittet av smittsomme sykdommer eller skadelige organismer, holdes eller dyrkes.
 
@@ -486,7 +583,14 @@ Denne forordningen fastsetter regler forutpeking på nytt av en grensekontrollst
 
 1\. Unntaket fastsatt i nr. 2 skal gjelde for grensekontrollstasjoner som på grunn av den berørte medlemsstatens lange kystlinje eller lange grenser, bare drives når det gjennomføres kontroll av forsendelser med ubearbeidet tømmer, saget tre eller treflis (heretter kalt de «berørte grensekontrollstasjonene»).
 
-2\. Medlemsstatene kan utpeke de berørte grensekontrollstasjonene og unnta dem fra de pliktene som er nevnt i artikkel 64 nr. 3 bokstav a), c) og f) i forordning [(EU) 2017/625](eu/32017r0625*), forutsatt at følgende vilkår er oppfylt:Det er innført egnede ordninger for til enhver tid å hindre uoppdaget innførsel til Unionen av forsendelser med ubearbeidet tømmer, saget tre eller treflis.Den berørte grensekontrollstasjonen har tilgang til et tilstrekkelig stort personale med egnede kvalifikasjoner i form av en mobil offentlig kontrollgruppe under vedkommende myndigheter, som er i stand til å nå den berørte grensekontrollstasjonen før ankomsten av forsendelsene, for å gjennomføre offentlig kontroll av ubearbeidet tømmer, saget tre eller treflis.Vedkommende myndigheters mobile offentlige kontrollgruppe gir eller har umiddelbar tilgang tilutstyr, lokaler og andre anlegg som nevnt i artikkel 64 nr. 3 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625*), ogteknologien og IT-utstyret nevnt i artikkel 64 nr. 3 bokstav f) i denne forordning.
+2\. Medlemsstatene kan utpeke de berørte grensekontrollstasjonene og unnta dem fra de pliktene som er nevnt i artikkel 64 nr. 3 bokstav a), c) og f) i forordning [(EU) 2017/625](eu/32017r0625*), forutsatt at følgende vilkår er oppfylt:
+
+1. Det er innført egnede ordninger for til enhver tid å hindre uoppdaget innførsel til Unionen av forsendelser med ubearbeidet tømmer, saget tre eller treflis.
+2. Den berørte grensekontrollstasjonen har tilgang til et tilstrekkelig stort personale med egnede kvalifikasjoner i form av en mobil offentlig kontrollgruppe under vedkommende myndigheter, som er i stand til å nå den berørte grensekontrollstasjonen før ankomsten av forsendelsene, for å gjennomføre offentlig kontroll av ubearbeidet tømmer, saget tre eller treflis.
+3. Vedkommende myndigheters mobile offentlige kontrollgruppe gir eller har umiddelbar tilgang til
+
+   1. utstyr, lokaler og andre anlegg som nevnt i artikkel 64 nr. 3 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625*), og
+   2. teknologien og IT-utstyret nevnt i artikkel 64 nr. 3 bokstav f) i denne forordning.
 
 ### Artikkel 5. Ikrafttredelse og anvendelse
 
@@ -544,7 +648,10 @@ VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Formål og virkeområde
 
-1\. Denne forordning fastsetter regler om særlige krav til opplæring av følgende personale som nevnt i artikkel 49 nr. 2 bokstav a) og b) i forordning [(EU) 2017/625](eu/32017r0625*), som gjennomfører fysisk kontroll på grensekontrollstasjoner:Personale som bistår en offentlig veterinær med gjennomføringen av fysisk kontroll av dyr, med unntak av akvatiske dyr, eller av kjøtt og spiselig slakteavfall.Personale som gjennomfører fysisk kontroll av akvatiske dyr, av andre produkter av animalsk opprinnelse enn dem som er nevnt i bokstav a), av formeringsmateriale eller animalske biprodukter.
+1\. Denne forordning fastsetter regler om særlige krav til opplæring av følgende personale som nevnt i artikkel 49 nr. 2 bokstav a) og b) i forordning [(EU) 2017/625](eu/32017r0625*), som gjennomfører fysisk kontroll på grensekontrollstasjoner:
+
+1. Personale som bistår en offentlig veterinær med gjennomføringen av fysisk kontroll av dyr, med unntak av akvatiske dyr, eller av kjøtt og spiselig slakteavfall.
+2. Personale som gjennomfører fysisk kontroll av akvatiske dyr, av andre produkter av animalsk opprinnelse enn dem som er nevnt i bokstav a), av formeringsmateriale eller animalske biprodukter.
 
 2\. Denne forordning gjelder ikke for offentlige veterinærer og offentlig plantehelseinspektører.
 
@@ -560,7 +667,25 @@ VEDTATT DENNE FORORDNING:
 
 1\. Innholdet i opplæringsprogrammet skal fastsettes med hensyn til hvilke dyr og varer grensekontrollstasjonene er utpekt for, og hvilke oppgaver og ansvarsområder personalet har fått tildelt.
 
-2\. Opplæringsprogrammet skal dekke følgende emner:Gjeldende EU-regelverk om innførsel av dyr og varer til Unionen, herunder prosedyrer som skal følges og virksomhet som skal gjennomføres under og etter fysisk kontroll.Allmenne prinsipper for undersøkelse av dyr.Undersøkelse av dyrs egnethet for transport.Praktiske aspekter av håndteringen av dyr i samsvar med Unionens regelverk, herunder ordninger for å hindre eller redusere forsinkelser ved grensekontrollstasjoner, og om nødvendig for å fôre, vanne, losse av og oppstalle dyrene.Sensorisk undersøkelse av varer.Undersøkelse av transportmidlene og transportvilkårene, herunder håndtering av temperaturfølsomme varer (kjølekjede) og transport av dyr.Identifikasjon av dyrearter, herunder når det er relevant, identifikasjon av invaderende fremmede arter som definert i artikkel 3 nr. 2 i europaparlaments- og rådsforordning [(EU) nr. 1143/2014](eu/32014r1143)4 som innføres via dyr og varer.Kontrollprosedyrer som gjelderbruk av utstyr,gjennomføring av overvåkingsplaner,prøvetakingsprosedyrer og laboratorieanalyser med hensyn til dyr og til aspekter som gjelder dyrs og menneskers helse.Metoder for fortolkning av resultatene av laboratorieundersøkelser og tilhørende beslutninger i samsvar med gjeldende krav i Unionens regelverk.Risikovurdering, herunder innsamling av data med hensyn til dyrs og menneskers helse med henblikk på gjennomføring av korrekt målrettet fysisk kontroll.Forebygging av krysskontaminering og overholdelse av de relevante standardene for biosikkerhet.Krav til merking av varer nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*).Undersøkelses- og kontrollteknikker rettet mot å avsløre bedrageri eller villedende praksis i handelen.
+2\. Opplæringsprogrammet skal dekke følgende emner:
+
+1. Gjeldende EU-regelverk om innførsel av dyr og varer til Unionen, herunder prosedyrer som skal følges og virksomhet som skal gjennomføres under og etter fysisk kontroll.
+2. Allmenne prinsipper for undersøkelse av dyr.
+3. Undersøkelse av dyrs egnethet for transport.
+4. Praktiske aspekter av håndteringen av dyr i samsvar med Unionens regelverk, herunder ordninger for å hindre eller redusere forsinkelser ved grensekontrollstasjoner, og om nødvendig for å fôre, vanne, losse av og oppstalle dyrene.
+5. Sensorisk undersøkelse av varer.
+6. Undersøkelse av transportmidlene og transportvilkårene, herunder håndtering av temperaturfølsomme varer (kjølekjede) og transport av dyr.
+7. Identifikasjon av dyrearter, herunder når det er relevant, identifikasjon av invaderende fremmede arter som definert i artikkel 3 nr. 2 i europaparlaments- og rådsforordning [(EU) nr. 1143/2014](eu/32014r1143)4 som innføres via dyr og varer.
+8. Kontrollprosedyrer som gjelder
+
+   1. bruk av utstyr,
+   2. gjennomføring av overvåkingsplaner,
+   3. prøvetakingsprosedyrer og laboratorieanalyser med hensyn til dyr og til aspekter som gjelder dyrs og menneskers helse.
+9. Metoder for fortolkning av resultatene av laboratorieundersøkelser og tilhørende beslutninger i samsvar med gjeldende krav i Unionens regelverk.
+10. Risikovurdering, herunder innsamling av data med hensyn til dyrs og menneskers helse med henblikk på gjennomføring av korrekt målrettet fysisk kontroll.
+11. Forebygging av krysskontaminering og overholdelse av de relevante standardene for biosikkerhet.
+12. Krav til merking av varer nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*).
+13. Undersøkelses- og kontrollteknikker rettet mot å avsløre bedrageri eller villedende praksis i handelen.
 
 4 Europaparlaments- og rådsforordning [(EU) nr. 1143/2014](eu/32014r1143) av 22. oktober 2014 om forebygging og håndtering av innføring og spredning av invaderende fremmede arter (EUT L 317 av 4.11.2014, s. 35).
 

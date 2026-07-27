@@ -15,7 +15,7 @@ xml_hash: "b511f33c9b1b0a1de1ae4875d344512a600081ebdf61187de786be003f39e971"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,9 +72,20 @@ eu_basis: []
 
 (1) Søkjarar som ikkje har fullført og bestått fag- eller sveineprøve innan fristen for å sende inn dokumentasjon, og som derfor ikkje er kvalifisert for opptak, kan likevel tildelast plass ved Fagskulen Vestland dersom dei kan dokumentere at dei skal gjennomføre fag- eller sveineprøven i løpet av første semester etter opptak, jf. [fagskoleforskriften § 10](forskrift/2019-07-11-1005/§10) (1).
 
-(2) Søkjarar som søkjer opptak på grunnlag av treårig yrkesfagleg opplæring eller generell studiekompetanse, og som ikkje kan gjennomføre eksamen i vidaregåande opplæring på grunn av spesielle tilhøve, kan likevel tildelast plass ved Fagskulen Vestland etter [fagskoleforskriften § 11](forskrift/2019-07-11-1005/§11) (1) dersom følgjande vilkår er oppfylt:søkjaren består eksamen i eitt eller fleire fag i vidaregåande opplæring i løpet av første semester etter opptaksøkjaren har standpunktkarakteren 2 eller betre i fagetsøkjaren har ikkje allereie avsluttande vurdering i faget, ogsøkjaren oppfyller fastsette karakterkrav når eksamen er avlagt.Spesielle tilhøve er her sjukdom, ulykker eller dødsfall i nær familie. Fagskulen Vestland kan gi opptak på visse vilkår knytt til andre spesielle tilhøve enn dei som er nemnt her, jf. [fagskoleforskriften § 11](forskrift/2019-07-11-1005/§11) (2).
+(2) Søkjarar som søkjer opptak på grunnlag av treårig yrkesfagleg opplæring eller generell studiekompetanse, og som ikkje kan gjennomføre eksamen i vidaregåande opplæring på grunn av spesielle tilhøve, kan likevel tildelast plass ved Fagskulen Vestland etter [fagskoleforskriften § 11](forskrift/2019-07-11-1005/§11) (1) dersom følgjande vilkår er oppfylt:
 
-(3) Etter [fagskoleforskriften § 10](forskrift/2019-07-11-1005/§10) og [§ 11](forskrift/2019-07-11-1005/§11) gjeld følgjande for alle som har fått opptak på visse vilkår etter første og andre ledd:søkjaren kan ikkje reservere studieplassen til seinare opptakstudenten misser studieplassen og studieretten dersom opptakskrava ikkje blir oppfylt innan fristenstudentar som går opp til eksamen får ikkje denne eksamen godkjent som bestått utan at opptakskravet er oppfylt.
+1. søkjaren består eksamen i eitt eller fleire fag i vidaregåande opplæring i løpet av første semester etter opptak
+2. søkjaren har standpunktkarakteren 2 eller betre i faget
+3. søkjaren har ikkje allereie avsluttande vurdering i faget, og
+4. søkjaren oppfyller fastsette karakterkrav når eksamen er avlagt.
+
+Spesielle tilhøve er her sjukdom, ulykker eller dødsfall i nær familie. Fagskulen Vestland kan gi opptak på visse vilkår knytt til andre spesielle tilhøve enn dei som er nemnt her, jf. [fagskoleforskriften § 11](forskrift/2019-07-11-1005/§11) (2).
+
+(3) Etter [fagskoleforskriften § 10](forskrift/2019-07-11-1005/§10) og [§ 11](forskrift/2019-07-11-1005/§11) gjeld følgjande for alle som har fått opptak på visse vilkår etter første og andre ledd:
+
+1. søkjaren kan ikkje reservere studieplassen til seinare opptak
+2. studenten misser studieplassen og studieretten dersom opptakskrava ikkje blir oppfylt innan fristen
+3. studentar som går opp til eksamen får ikkje denne eksamen godkjent som bestått utan at opptakskravet er oppfylt.
 
 (4) Fagskulen Vestland skal så langt det er mogleg og rimeleg legge til rette for at studentar med opptak på visse vilkår kan gå opp til fag- eller sveineprøven eller utsett eksamen i vidaregåande opplæring, og samtidig gjennomføre utdanninga det er gitt vilkårsbunden opptak til. Dersom Fagskulen Vestland ikkje finn å kunne legge til rette på denne måten, skal studenten få forlenga opptaket på visse vilkår til neste gong det blir arrangert utsett eksamen i det aktuelle faget i vidaregåande opplæring, jf. [fagskoleforskriften § 10](forskrift/2019-07-11-1005/§10) (5) og [§ 11](forskrift/2019-07-11-1005/§11) (6).
 
@@ -141,7 +152,11 @@ eu_basis: []
 
 (3) Kompetansen til søkjaren blir vurdert opp mot læreplanmål i vidaregåande opplæring innan relevante programområde. Informasjon om kva som er relevant yrkesutdanning er nedfelt i studieplanane. Søkjaren må dokumentere kompetanse i felles allmenne fag som svarer til nivå 4 i Nasjonalt kvalifikasjonsrammeverk (NKR), jf. [fagskoleforskriften § 7](forskrift/2019-07-11-1005/§7) (1).
 
-(4) Søkjarar som søkjer studieplass ved Fagskulen Vestland på bakgrunn av realkompetanse kan vere:søkjarar som har fullført vidaregåande opplæring, men i eit anna utdanningsprogram enn det som er det formelle opptakskravetsøkjarar som ikkje har fullført vidaregåande opplæringsøkjarar med utanlandsk utdanning.
+(4) Søkjarar som søkjer studieplass ved Fagskulen Vestland på bakgrunn av realkompetanse kan vere:
+
+1. søkjarar som har fullført vidaregåande opplæring, men i eit anna utdanningsprogram enn det som er det formelle opptakskravet
+2. søkjarar som ikkje har fullført vidaregåande opplæring
+3. søkjarar med utanlandsk utdanning.
 
 (5) Rektor er ansvarleg for å fatte vedtak om opptak på bakgrunn av realkompetanse etter innstilling frå opptakskomiteen, jf. [§ 1-3](forskrift/2021-09-17-2913/§1-3) i denne forskrifta.
 

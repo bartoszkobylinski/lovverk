@@ -34,7 +34,11 @@ Forskriften gjelder ikke for kantiner, matservering på institusjoner, bensinsta
 
 ## § 3. Smilefjesrapporten
 
-Smilefjesrapporten er en standardisert skriftlig rapport som skal gi forbrukerne tilrettelagt informasjon, der resultatet av det gjennomførte tilsynet er uttrykt ved ett av tre mulige smilefjessymboler.(smilefjes): Mattilsynet har ikke funnet brudd på regelverket eller har bare funnet bagatellmessige brudd på regelverket og påpekt dette.(strekmunn): Mattilsynet har funnet brudd på regelverket og gitt forhåndsvarsel eller fattet nødvendige vedtak.(sur munn): Mattilsynet har funnet alvorlige eller gjentatte brudd på regelverket og gitt forhåndsvarsel eller fattet nødvendige vedtak.
+Smilefjesrapporten er en standardisert skriftlig rapport som skal gi forbrukerne tilrettelagt informasjon, der resultatet av det gjennomførte tilsynet er uttrykt ved ett av tre mulige smilefjessymboler.
+
+1. (smilefjes): Mattilsynet har ikke funnet brudd på regelverket eller har bare funnet bagatellmessige brudd på regelverket og påpekt dette.
+2. (strekmunn): Mattilsynet har funnet brudd på regelverket og gitt forhåndsvarsel eller fattet nødvendige vedtak.
+3. (sur munn): Mattilsynet har funnet alvorlige eller gjentatte brudd på regelverket og gitt forhåndsvarsel eller fattet nødvendige vedtak.
 
 Smilefjesrapporten inneholder i tillegg informasjon om hva som er kontrollert og hvilke funn som er gjort samt smilefjessymbolene fra inntil tre tidligere tilsyn.
 

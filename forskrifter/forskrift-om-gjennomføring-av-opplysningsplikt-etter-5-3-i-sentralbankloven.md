@@ -32,9 +32,28 @@ Med rapportør menes i denne forskriften institusjoner, foretak eller privatpers
 
 Norges Bank kan pålegge institusjoner og foretak i finansiell sektor plikt til å gi opplysninger som nevnt i [§ 1](forskrift/2020-01-16-53/§1). Samme pålegg om opplysningsplikt kan gis institusjoner, foretak og privatpersoner som er aktører i verdipapirmarkedet, driver betalingsformidling eller yter tjenester til finansiell sektor. Norges Bank kan også pålegge andre virksomheter registrert i Foretaksregisteret slik opplysningsplikt.
 
-Med institusjoner og foretak innenfor finansiell sektor menes bl.a.:finansforetak etter [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3),betalingsforetak etter [finansforetaksloven § 2-10](lov/2015-04-10-17/§2-10),opplysningsfullmektiger etter [finansforetaksloven § 2-10a](lov/2015-04-10-17/§2-10a),e-pengeforetak etter [finansforetaksloven § 2-11](lov/2015-04-10-17/§2-11),andre selskaper, foreninger og stiftelser som har til formål å yte eller formidle kreditt,statlige låneinstitutter,verdipapirregistre,fondsforvaltningsselskaper etter [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) (1) nr. 2,verdipapirforetak,sentrale motparter,deltakere etter [betalingssystemloven § 1-3](lov/1999-12-17-95/§1-3),regulerte markedsplasser mv. ogfilialer i Norge av utenlandske institusjoner og foretak mv. som nevnt i bokstavene a til l.
+Med institusjoner og foretak innenfor finansiell sektor menes bl.a.:
 
-Norges Bank kan også kreve opplysninger som nevnt i [§ 1](forskrift/2020-01-16-53/§1) fraSkatteetatenRegnskapsregisteret og KonkursregisteretArbeids- og velferdsetaten (NAV)Folkeregisteret.
+1. finansforetak etter [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3),
+2. betalingsforetak etter [finansforetaksloven § 2-10](lov/2015-04-10-17/§2-10),
+3. opplysningsfullmektiger etter [finansforetaksloven § 2-10a](lov/2015-04-10-17/§2-10a),
+4. e-pengeforetak etter [finansforetaksloven § 2-11](lov/2015-04-10-17/§2-11),
+5. andre selskaper, foreninger og stiftelser som har til formål å yte eller formidle kreditt,
+6. statlige låneinstitutter,
+7. verdipapirregistre,
+8. fondsforvaltningsselskaper etter [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) (1) nr. 2,
+9. verdipapirforetak,
+10. sentrale motparter,
+11. deltakere etter [betalingssystemloven § 1-3](lov/1999-12-17-95/§1-3),
+12. regulerte markedsplasser mv. og
+13. filialer i Norge av utenlandske institusjoner og foretak mv. som nevnt i bokstavene a til l.
+
+Norges Bank kan også kreve opplysninger som nevnt i [§ 1](forskrift/2020-01-16-53/§1) fra
+
+1. Skatteetaten
+2. Regnskapsregisteret og Konkursregisteret
+3. Arbeids- og velferdsetaten (NAV)
+4. Folkeregisteret.
 
 Opplysninger fra Arbeids- og velferdsetaten er begrenset til opplysninger fra arbeidsgiver- og arbeidstakerregisteret og opplysninger om registrert arbeidsledighet.
 

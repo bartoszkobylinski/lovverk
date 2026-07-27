@@ -15,7 +15,7 @@ xml_hash: "a074188ea83e8561c68d97d48f4978ea840f4292fa808cae2dedaa046de895f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,18 @@ Største lengde er lengden av skipet eller den flyttbare innretningen målt fra 
 
 Konstruksjoner som utgjør en del av skipet eller den flyttbare innretningen, og som påvirker dets design, kapasiteter eller egenskaper, skal inngå som en del av skroget.
 
-Uavhengig av materialbruk og innfestingsmetode skal følgende regnes med:dekkskansekledningbaugportlasterampehekkrulldekkshus/overbyggfast fenderlistkonstruksjoner for oppbevaring av redskap og/eller verktøykonstruksjoner som fungerer som hydrostatisk eller dynamisk støtte når skipet eller den flyttbare innretningen ligger i ro eller er underveis, med unntak av bevegelige «trimflaps»volumer tilknyttet skrog, dekk, skansekledning eller dekkshus/overbygning som for eksempel bulb, påhengt «kasse» for montering av styremaskineri.
+Uavhengig av materialbruk og innfestingsmetode skal følgende regnes med:
+
+1. dekk
+2. skansekledning
+3. baugport
+4. lasterampe
+5. hekkrull
+6. dekkshus/overbygg
+7. fast fenderlist
+8. konstruksjoner for oppbevaring av redskap og/eller verktøy
+9. konstruksjoner som fungerer som hydrostatisk eller dynamisk støtte når skipet eller den flyttbare innretningen ligger i ro eller er underveis, med unntak av bevegelige «trimflaps»
+10. volumer tilknyttet skrog, dekk, skansekledning eller dekkshus/overbygning som for eksempel bulb, påhengt «kasse» for montering av styremaskineri.
 
 > Endret ved [forskrift 25 mai 2022 nr. 944](forskrift/2022-05-25-944) (i kraft 1 juli 2022).
 
@@ -76,7 +87,10 @@ Sikkerhetstonnasjen skal være fastsatt etter 1947-konvensjonen eller etter mål
 
 ## § 7. Beregning og bruk av redusert bruttotonnasje for tonnasjebaserte avgifter
 
-For oljetankskip kan rederiet etter IMO-resolusjon A.747(18) kreve at følgende føres inn i anmerkningsrubrikken i internasjonalt målebrev (1969):tonnasjen av segregerte vannballasttanker ogskipets bruttotonnasje fratrukket tonnasjen etter bokstav a.
+For oljetankskip kan rederiet etter IMO-resolusjon A.747(18) kreve at følgende føres inn i anmerkningsrubrikken i internasjonalt målebrev (1969):
+
+1. tonnasjen av segregerte vannballasttanker og
+2. skipets bruttotonnasje fratrukket tonnasjen etter bokstav a.
 
 For lukeløse containerskip kan rederiet etter IMO-resolusjon MSC.234(82) kreve at en redusert bruttotonnasje føres inn i anmerkningsrubrikken i internasjonalt målebrev (1969).
 
@@ -110,7 +124,13 @@ Ved endring eller ombygging skal rederiet søke om å få utstedt nytt målebrev
 
 ## § 10. Dokumentasjon som skal legges ved søknad om målebrev
 
-Følgende dokumentasjon skal legges ved søknaden om målebrev:beregninger etter [§ 4](forskrift/2015-06-30-823/§4)generalarrangementprofil- og dekksplanspanteriss eller linjetegningtankplan.
+Følgende dokumentasjon skal legges ved søknaden om målebrev:
+
+1. beregninger etter [§ 4](forskrift/2015-06-30-823/§4)
+2. generalarrangement
+3. profil- og dekksplan
+4. spanteriss eller linjetegning
+5. tankplan.
 
 Ved innflagging skal kopi av det utenlandske målebrevet legges ved søknad om målebrev.
 
@@ -124,9 +144,18 @@ Før målebrevet kan utstedes, skal skipet eller den flyttbare innretningen vær
 
 ## § 12. Utstedelse av målebrev
 
-Det utstedes følgende målebrev:internasjonalt målebrev (1969) til målepliktige skip med lengde (L) 24 meter eller mer og flyttbare innretningernorsk innenriks målebrev (1982) til målepliktige skip med lengde (L) under 24 meter.
+Det utstedes følgende målebrev:
 
-Det skal utstedes nytt målebrev nåret skip eller en flyttbar innretning endres eller bygges om slik at brutto- eller nettotonnasjen øker med én enhet eller meret skip eller en flyttbar innretning overføres mellom norsk ordinært skipsregister (NOR) og norsk internasjonalt skipsregister (NIS)et skip med målebrev etter 1947-konvensjonen endres eller bygges om som nevnt i [§ 5](forskrift/2015-06-30-823/§5)det originale målebrevet er tapt, med unntak av målebrev som nevnt i tredje leddnavn, hjemsted, dypgang eller største lengde endres, med unntak av målebrev utstedt etter [§ 5](forskrift/2015-06-30-823/§5).
+1. internasjonalt målebrev (1969) til målepliktige skip med lengde (L) 24 meter eller mer og flyttbare innretninger
+2. norsk innenriks målebrev (1982) til målepliktige skip med lengde (L) under 24 meter.
+
+Det skal utstedes nytt målebrev når
+
+1. et skip eller en flyttbar innretning endres eller bygges om slik at brutto- eller nettotonnasjen øker med én enhet eller mer
+2. et skip eller en flyttbar innretning overføres mellom norsk ordinært skipsregister (NOR) og norsk internasjonalt skipsregister (NIS)
+3. et skip med målebrev etter 1947-konvensjonen endres eller bygges om som nevnt i [§ 5](forskrift/2015-06-30-823/§5)
+4. det originale målebrevet er tapt, med unntak av målebrev som nevnt i tredje ledd
+5. navn, hjemsted, dypgang eller største lengde endres, med unntak av målebrev utstedt etter [§ 5](forskrift/2015-06-30-823/§5).
 
 Som erstatning for et tapt målebrev som er utstedt etter 1947-konvensjonen, kan rederiet be om kopi av målingsbevis i stedet for norsk innenriks målebrev (1982).
 
@@ -174,18 +203,44 @@ De kontraherende regjeringer forplikter seg til å sette i verk bestemmelsene i 
 
 ### Artikkel 2. Definisjoner
 
-Hvor annet ikke er uttrykkelig bestemt i denne konvensjonen, gjelder følgende:*Regler* betyr de regler som er vedlagt denne konvensjonen.*Administrasjon* betyr regjeringen i den staten hvis flagg fartøyet fører.*Utenriksfart* betyr en sjøreise fra et land som denne konvensjonen får anvendelse på, til en havn utenfor dette landet eller omvendt. I denne henseende skal ethvert territorium betraktes som et særskilt land når en kontraherende regjering er ansvarlig for dets internasjonale forhold, eller når De forente nasjoner er dets administrerende myndighet.*Bruttotonnasje* betyr målet for et fartøys totale størrelse fastsatt i samsvar med bestemmelsene i denne konvensjonen.*Nettotonnasje* betyr målet for et fartøys nyttekapasitet fastsatt i samsvar med bestemmelsene i denne konvensjonen.*Nytt fartøy* betyr et fartøy hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn på eller etter ikrafttredelsesdatoen for denne konvensjonen.*Eksisterende fartøy* betyr et fartøy som ikke er et nytt fartøy.*Lengde* betyr 96 prosent av hele lengden på en vannlinje ved en dybde tilsvarende 85 prosent av den minste dybden i risset målt fra overkanten av kjølen, eller lengden fra forkant av forstevnen til rorstammens akse på samme vannlinje, hvis denne lengden er større. På fartøyer konstruert med styrlast skal vannlinjen som denne lengden blir målt på, være parallell med konstruksjonsvannlinjen.*Organisasjonen* betyr Den mellomstatlige rådgivende skipsfartsorganisasjon. Tidligere «lnter-governmental Maritime Consultative Organization (IMCO)», nå «International Maritime Organization (IMO)».
+Hvor annet ikke er uttrykkelig bestemt i denne konvensjonen, gjelder følgende:
+
+1. *Regler* betyr de regler som er vedlagt denne konvensjonen.
+2. *Administrasjon* betyr regjeringen i den staten hvis flagg fartøyet fører.
+3. *Utenriksfart* betyr en sjøreise fra et land som denne konvensjonen får anvendelse på, til en havn utenfor dette landet eller omvendt. I denne henseende skal ethvert territorium betraktes som et særskilt land når en kontraherende regjering er ansvarlig for dets internasjonale forhold, eller når De forente nasjoner er dets administrerende myndighet.
+4. *Bruttotonnasje* betyr målet for et fartøys totale størrelse fastsatt i samsvar med bestemmelsene i denne konvensjonen.
+5. *Nettotonnasje* betyr målet for et fartøys nyttekapasitet fastsatt i samsvar med bestemmelsene i denne konvensjonen.
+6. *Nytt fartøy* betyr et fartøy hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn på eller etter ikrafttredelsesdatoen for denne konvensjonen.
+7. *Eksisterende fartøy* betyr et fartøy som ikke er et nytt fartøy.
+8. *Lengde* betyr 96 prosent av hele lengden på en vannlinje ved en dybde tilsvarende 85 prosent av den minste dybden i risset målt fra overkanten av kjølen, eller lengden fra forkant av forstevnen til rorstammens akse på samme vannlinje, hvis denne lengden er større. På fartøyer konstruert med styrlast skal vannlinjen som denne lengden blir målt på, være parallell med konstruksjonsvannlinjen.
+9. *Organisasjonen* betyr Den mellomstatlige rådgivende skipsfartsorganisasjon. Tidligere «lnter-governmental Maritime Consultative Organization (IMCO)», nå «International Maritime Organization (IMO)».
 
 ### Artikkel 3. Anvendelse
 
-1. Denne konvensjonen gjelder for følgende fartøyer som går i utenriksfart:fartøyer registrert i land hvis regjeringer er kontraherende regjeringer;fartøyer registrert i territorier som denne konvensjonen er utvidet til under artikkel 20; oguregistrerte fartøyer som fører flagget til en stat hvis regjering er en kontraherende regjering.
-2. Denne konvensjonen gjelder for:nye fartøyer;eksisterende fartøyer som undergår endringer eller ombygninger som Administrasjonen mener vil forårsake en vesentlig endring i fartøyets hittil gjeldende bruttotonnasje;eksisterende fartøyer på eiers anmodning; ogalle eksisterende fartøyer tolv år etter ikrafttredelsesdatoen til konvensjonen, bortsett fra at slike fartøyer, unntatt de fartøyer som er nevnt under (b) og (c) i dette punktet, skal beholde sine da gjeldende tonnasjer når relevante bestemmelser etter andre eksisterende internasjonale konvensjoner anvendes på dem.
+1. Denne konvensjonen gjelder for følgende fartøyer som går i utenriksfart:
+
+   1. fartøyer registrert i land hvis regjeringer er kontraherende regjeringer;
+   2. fartøyer registrert i territorier som denne konvensjonen er utvidet til under artikkel 20; og
+   3. uregistrerte fartøyer som fører flagget til en stat hvis regjering er en kontraherende regjering.
+2. Denne konvensjonen gjelder for:
+
+   1. nye fartøyer;
+   2. eksisterende fartøyer som undergår endringer eller ombygninger som Administrasjonen mener vil forårsake en vesentlig endring i fartøyets hittil gjeldende bruttotonnasje;
+   3. eksisterende fartøyer på eiers anmodning; og
+   4. alle eksisterende fartøyer tolv år etter ikrafttredelsesdatoen til konvensjonen, bortsett fra at slike fartøyer, unntatt de fartøyer som er nevnt under (b) og (c) i dette punktet, skal beholde sine da gjeldende tonnasjer når relevante bestemmelser etter andre eksisterende internasjonale konvensjoner anvendes på dem.
 3. Eksisterende fartøyer for hvilke denne konvensjonen har kommet til anvendelse i samsvar med punkt 2(c) i denne artikkel, skal senere ikke kunne få sine tonnasjer omregnet i samsvar med de bestemmelser som Administrasjonen anvendte for fartøyer i utenriksfart før denne konvensjonen trådte i kraft.
 
 ### Artikkel 4. Unntak
 
-1. Denne konvensjonen gjelder ikke for:krigsfartøyer; ogfartøyer med lengde under 24 meter (79 fot).
-2. Intet i denne konvensjonen gjelder for fartøyer som utelukkende seiler på:de store nordamerikanske innsjøer og St. Lawrence-elven så langt øst som til en rett linje trukket fra Cap des Rosiers til West Point, Anticosti, og på nordsiden av Anticosti til meridianen for 63° V;Det kaspiske hav; ellerelvene La Plata, Parana og elvene i Uruguay så langt øst som til en rett linje trukket mellom Punta Rasa (Cabo San Antonio), Argentina og Punta del Este, Uruguay.
+1. Denne konvensjonen gjelder ikke for:
+
+   1. krigsfartøyer; og
+   2. fartøyer med lengde under 24 meter (79 fot).
+2. Intet i denne konvensjonen gjelder for fartøyer som utelukkende seiler på:
+
+   1. de store nordamerikanske innsjøer og St. Lawrence-elven så langt øst som til en rett linje trukket fra Cap des Rosiers til West Point, Anticosti, og på nordsiden av Anticosti til meridianen for 63° V;
+   2. Det kaspiske hav; eller
+   3. elvene La Plata, Parana og elvene i Uruguay så langt øst som til en rett linje trukket mellom Punta Rasa (Cabo San Antonio), Argentina og Punta del Este, Uruguay.
 
 ### Artikkel 5. Force Majeure
 
@@ -225,7 +280,10 @@ Målebrev som er utstedt på vegne av en kontraherende regjering i samsvar med d
 
 ### Artikkel 12. Inspeksjon
 
-1. Et fartøy som fører flagg tilhørende en stat hvis regjering er en kontraherende regjering, skal, når det befinner seg i havner tilhørende andre kontraherende regjeringer, være underlagt inspeksjon av tjenestepersoner som er behørig bemyndiget av disse regjeringer. Slik inspeksjon skal være begrenset til å bekrefte følgende:at fartøyet er i besittelse av et gyldig internasjonalt målebrev (1969), ogat fartøyets viktigste data tilsvarer det som er angitt i målebrevet.
+1. Et fartøy som fører flagg tilhørende en stat hvis regjering er en kontraherende regjering, skal, når det befinner seg i havner tilhørende andre kontraherende regjeringer, være underlagt inspeksjon av tjenestepersoner som er behørig bemyndiget av disse regjeringer. Slik inspeksjon skal være begrenset til å bekrefte følgende:
+
+   1. at fartøyet er i besittelse av et gyldig internasjonalt målebrev (1969), og
+   2. at fartøyets viktigste data tilsvarer det som er angitt i målebrevet.
 2. Ikke i noe tilfelle skal utførelsen av en slik inspeksjon forårsake noen forsinkelse for fartøyet.
 3. Hvis inspeksjonen skulle avsløre at fartøyets viktigste data avviker fra de som er angitt i dets internasjonale målebrev (1969) på en sådan måte at det fører til en økning av dets bruttotonnasje eller nettotonnasje, skal regjeringen i den staten hvis flagg fartøyet fører, underrettes uten opphold.
 
@@ -235,16 +293,27 @@ Særrettighetene etter denne konvensjonen kan ikke kreves for et fartøy med min
 
 ### Artikkel 14. Tidligere traktater, konvensjoner og avtaler
 
-1. Alle andre traktater, konvensjoner og avtaler om skipsmålingssaker som for tiden er i kraft mellom regjeringer som er medlemmer av denne konvensjonen, skal fortsatt ha full gyldighet i den tid som de er fastsatt for, hva angår:fartøyer som denne konvensjonen ikke gjelder for,fartøyer som denne konvensjonen gjelder for med hensyn til forhold som det ikke uttrykkelig er gitt bestemmelser om i konvensjonen.
+1. Alle andre traktater, konvensjoner og avtaler om skipsmålingssaker som for tiden er i kraft mellom regjeringer som er medlemmer av denne konvensjonen, skal fortsatt ha full gyldighet i den tid som de er fastsatt for, hva angår:
+
+   1. fartøyer som denne konvensjonen ikke gjelder for,
+   2. fartøyer som denne konvensjonen gjelder for med hensyn til forhold som det ikke uttrykkelig er gitt bestemmelser om i konvensjonen.
 2. I den utstrekning slike traktater, konvensjoner eller avtaler strider mot bestemmelsene i denne konvensjonen, er det imidlertid bestemmelsene i denne siste som skal gjelde.
 
 ### Artikkel 15. Meddelelse av opplysninger
 
-De kontraherende regjeringer forplikter seg til å meddele til og deponere hos Organisasjonen:et tilstrekkelig antall eksemplarer av sine målebrevs formularer utarbeidet til bruk i henhold til bestemmelsene i denne konvensjonen, for sirkulasjon til de kontraherende regjeringer,teksten av de lover, resolusjoner, forskrifter, regler og andre bestemmelser som måtte være utferdiget om de forskjellige emner innenfor rammen av denne konvensjonen,en oppgave over ikke-statlige institusjoner som er bemyndiget til å opptre på deres vegne vedrørende skipsmålingssaker, for sirkulasjon til de kontraherende regjeringer.
+De kontraherende regjeringer forplikter seg til å meddele til og deponere hos Organisasjonen:
+
+1. et tilstrekkelig antall eksemplarer av sine målebrevs formularer utarbeidet til bruk i henhold til bestemmelsene i denne konvensjonen, for sirkulasjon til de kontraherende regjeringer,
+2. teksten av de lover, resolusjoner, forskrifter, regler og andre bestemmelser som måtte være utferdiget om de forskjellige emner innenfor rammen av denne konvensjonen,
+3. en oppgave over ikke-statlige institusjoner som er bemyndiget til å opptre på deres vegne vedrørende skipsmålingssaker, for sirkulasjon til de kontraherende regjeringer.
 
 ### Artikkel 16. Underskrift, godtagelse og tiltredelse
 
-1. Denne konvensjonen skal være åpen for underskrift i seks måneder fra 23. juni 1969, og skal deretter være åpen for tiltredelse. Regjeringer for stater som er medlemmer av De forente nasjoner, eller av en hvilken som helst av denne organisasjons særorganisasjoner, eller av Det internasjonale atomenergibyrå, eller parter til statuttene til Den mellomfolkelige domstol, kan bli deltakere av konvensjonen ved:å underskrive uten forbehold om godtakelse,å underskrive med forbehold om godtakelse etterfulgt av godtakelse, ellerå tiltre.
+1. Denne konvensjonen skal være åpen for underskrift i seks måneder fra 23. juni 1969, og skal deretter være åpen for tiltredelse. Regjeringer for stater som er medlemmer av De forente nasjoner, eller av en hvilken som helst av denne organisasjons særorganisasjoner, eller av Det internasjonale atomenergibyrå, eller parter til statuttene til Den mellomfolkelige domstol, kan bli deltakere av konvensjonen ved:
+
+   1. å underskrive uten forbehold om godtakelse,
+   2. å underskrive med forbehold om godtakelse etterfulgt av godtakelse, eller
+   3. å tiltre.
 2. Godtakelse eller tiltredelse skal skje ved deponering av et dokument om godtakelse eller tiltredelse hos organisasjonen. Organisasjonen skal underrette alle regjeringer som har undertegnet eller tiltrådt konvensjonen, om hver ny godtakelse eller tiltredelse og om datoen for deponeringen. Organisasjonen skal også underrette alle regjeringer som allerede har undertegnet konvensjonen, om enhver undertegnelse som har funnet sted i løpet av de seks månedene regnet fra 23. juni 1969.
 
 ### Artikkel 17. Ikrafttredelse
@@ -257,9 +326,23 @@ De kontraherende regjeringer forplikter seg til å meddele til og deponere hos O
 ### Artikkel 18. Endringer
 
 1. Denne konvensjonen kan endres etter forslag fra en kontraherende regjering på en hvilken som helst av de måter som er angitt i denne artikkelen.
-2. Endring ved enstemmig godtakelse:På anmodning av en kontraherende regjering skal enhver endring som den har foreslått i denne konvensjonen, gjøres kjent av Organisasjonen for alle kontraherende regjeringer til overveielse med henblikk på enstemmig godtakelse.Enhver slik endring skal tre i kraft tolv måneder etter den dato da alle kontraherende regjeringer har godtatt den, med mindre en tidligere dato blir avtalt. En kontraherende regjering som ikke underretter Organisasjonen om sin godtakelse eller forkastelse av endringen innen tjuefire måneder fra den dag da Organisasjonen først gjorde den kjent, skal anses for å ha godtatt endringen.
-3. Endring etter behandling i Organisasjonen:På anmodning av en kontraherende regjering vil enhver endring som den har foreslått i denne konvensjonen, bli behandlet i Organisasjonen. Hvis den vedtas av et flertall på to tredjedeler av dem som er til stede og stemmer i Organisasjonens sjøsikkerhetskomité, skal denne endringen bli gjort kjent for alle medlemmer av Organisasjonen og alle kontraherende regjeringer minst seks måneder før den blir tatt opp til behandling i Organisasjonens generalforsamling.Hvis endringen vedtas av et flertall på to tredjedeler av dem som er til stede og stemmer i Generalforsamlingen, skal Organisasjonen gjøre endringen kjent for alle kontraherende regjeringer for deres godtakelse.En slik endring skal tre i kraft tolv måneder etter den dato da den er godtatt av to tredjedeler av de kontraherende regjeringer. Endringen skal tre i kraft for alle kontraherende regjeringer, unntatt for dem som før den trer i kraft, avgir en erklæring om at de ikke godtar endringen.Generalforsamlingen kan, ved to tredjedels flertall av dem som er til stede og stemmer, innbefattet to tredjedeler av de regjeringer som er representert i Sjøsikkerhetskomiteen og som er til stede og stemmer i Generalforsamlingen, bestemme på det tidspunktet da en endring vedtas, at den er så viktig at enhver kontraherende regjering som avgir en erklæring i henhold til punkt 3 (c) og som ikke godtar endringen innen tolv måneder etter at den trer i kraft, skal opphøre å være medlem av denne konvensjonen ved utløpet av dette tidsrom. Denne bestemmelse tas med forbehold av forutgående godtakelse fra to tredjedeler av de kontraherende regjeringer.Intet i dette punkt skal hindre den kontraherende regjering som først foreslo handling i henhold til dette punkt om en endring i denne konvensjonen, når som helst å bruke slike alternative fremgangsmåter som den anser for ønskelige i samsvar med punktene 2 eller 4 i denne artikkel.
-4. Endring ved en konferanse:På anmodning av en kontraherende regjering og med tilslutning fra minst en tredjedel av de kontraherende regjeringer vil en konferanse av regjeringer bli kalt sammen av Organisasjonen for å behandle endringer i denne konvensjonen.Hver endring som er vedtatt av en slik konferanse ved to tredjedels flertall av de kontraherende regjeringer som er til stede og stemmer, skal gjøres kjent av Organisasjonen for alle kontraherende regjeringer for deres godtakelse.En slik endring skal tre i kraft tolv måneder etter den dag da den er godtatt av to tredjedeler av de kontraherende regjeringer. Endringen skal tre i kraft for alle kontraherende regjeringer, unntatt for dem som før den trer i kraft, avgir en erklæring om at de ikke godtar endringen.Ved to tredjedels flertall av dem som er til stede og stemmer, kan en konferanse som er sammenkalt i henhold til punkt 4 (a) bestemme på det tidspunktet da en endring vedtas, at den er så viktig at enhver kontraherende regjering som avgir en erklæring i henhold til punkt 4 (c) og som ikke godtar endringen innen tolv måneder etter at den trer i kraft, skal opphøre å være medlem av denne konvensjonen ved utløpet av dette tidsrom.
+2. Endring ved enstemmig godtakelse:
+
+   1. På anmodning av en kontraherende regjering skal enhver endring som den har foreslått i denne konvensjonen, gjøres kjent av Organisasjonen for alle kontraherende regjeringer til overveielse med henblikk på enstemmig godtakelse.
+   2. Enhver slik endring skal tre i kraft tolv måneder etter den dato da alle kontraherende regjeringer har godtatt den, med mindre en tidligere dato blir avtalt. En kontraherende regjering som ikke underretter Organisasjonen om sin godtakelse eller forkastelse av endringen innen tjuefire måneder fra den dag da Organisasjonen først gjorde den kjent, skal anses for å ha godtatt endringen.
+3. Endring etter behandling i Organisasjonen:
+
+   1. På anmodning av en kontraherende regjering vil enhver endring som den har foreslått i denne konvensjonen, bli behandlet i Organisasjonen. Hvis den vedtas av et flertall på to tredjedeler av dem som er til stede og stemmer i Organisasjonens sjøsikkerhetskomité, skal denne endringen bli gjort kjent for alle medlemmer av Organisasjonen og alle kontraherende regjeringer minst seks måneder før den blir tatt opp til behandling i Organisasjonens generalforsamling.
+   2. Hvis endringen vedtas av et flertall på to tredjedeler av dem som er til stede og stemmer i Generalforsamlingen, skal Organisasjonen gjøre endringen kjent for alle kontraherende regjeringer for deres godtakelse.
+   3. En slik endring skal tre i kraft tolv måneder etter den dato da den er godtatt av to tredjedeler av de kontraherende regjeringer. Endringen skal tre i kraft for alle kontraherende regjeringer, unntatt for dem som før den trer i kraft, avgir en erklæring om at de ikke godtar endringen.
+   4. Generalforsamlingen kan, ved to tredjedels flertall av dem som er til stede og stemmer, innbefattet to tredjedeler av de regjeringer som er representert i Sjøsikkerhetskomiteen og som er til stede og stemmer i Generalforsamlingen, bestemme på det tidspunktet da en endring vedtas, at den er så viktig at enhver kontraherende regjering som avgir en erklæring i henhold til punkt 3 (c) og som ikke godtar endringen innen tolv måneder etter at den trer i kraft, skal opphøre å være medlem av denne konvensjonen ved utløpet av dette tidsrom. Denne bestemmelse tas med forbehold av forutgående godtakelse fra to tredjedeler av de kontraherende regjeringer.
+   5. Intet i dette punkt skal hindre den kontraherende regjering som først foreslo handling i henhold til dette punkt om en endring i denne konvensjonen, når som helst å bruke slike alternative fremgangsmåter som den anser for ønskelige i samsvar med punktene 2 eller 4 i denne artikkel.
+4. Endring ved en konferanse:
+
+   1. På anmodning av en kontraherende regjering og med tilslutning fra minst en tredjedel av de kontraherende regjeringer vil en konferanse av regjeringer bli kalt sammen av Organisasjonen for å behandle endringer i denne konvensjonen.
+   2. Hver endring som er vedtatt av en slik konferanse ved to tredjedels flertall av de kontraherende regjeringer som er til stede og stemmer, skal gjøres kjent av Organisasjonen for alle kontraherende regjeringer for deres godtakelse.
+   3. En slik endring skal tre i kraft tolv måneder etter den dag da den er godtatt av to tredjedeler av de kontraherende regjeringer. Endringen skal tre i kraft for alle kontraherende regjeringer, unntatt for dem som før den trer i kraft, avgir en erklæring om at de ikke godtar endringen.
+   4. Ved to tredjedels flertall av dem som er til stede og stemmer, kan en konferanse som er sammenkalt i henhold til punkt 4 (a) bestemme på det tidspunktet da en endring vedtas, at den er så viktig at enhver kontraherende regjering som avgir en erklæring i henhold til punkt 4 (c) og som ikke godtar endringen innen tolv måneder etter at den trer i kraft, skal opphøre å være medlem av denne konvensjonen ved utløpet av dette tidsrom.
 5. Organisasjonen skal underrette alle kontraherende regjeringer om enhver endring som kan tre i kraft i henhold til denne artikkel og om den dag da endringen trer i kraft.
 6. Enhver godtakelse eller erklæring i henhold til denne artikkelen skal avgis ved deponering av et dokument hos Organisasjonen, som skal underrette alle kontraherende regjeringer om at godtakelsen eller erklæringen er mottatt.
 
@@ -271,8 +354,10 @@ De kontraherende regjeringer forplikter seg til å meddele til og deponere hos O
 
 ### Artikkel 20. Territorier
 
-1. De forente nasjoner i de tilfeller de er den administrerende myndighet for et territorium, eller enhver kontraherende regjering som er ansvarlig for et territoriums internasjonale forbindelser, skal så snart som mulig rådføre seg med et slikt territorium eller ta slike forholdsregler som finnes formålstjenlig i et forsøk på å utvide denne konvensjonen til vedkommende territorium, og kan når som helst ved skriftlig melding til Organisasjonen erklære at denne konvensjonen skal gjøres gjeldende for et slikt territorium.Denne konvensjonen skal fra den dato meldingen er mottatt, eller fra enhver annen dato som måtte være angitt i meldingen, gjøres gjeldende for det territorium som er nevnt i den.
-2. De forente nasjoner eller enhver kontraherende regjering som har avgitt en erklæring i henhold til punkt 1 (a) i denne artikkel, kan når som helst etter utløpet av et tidsrom på fem år fra den dato da konvensjonen på denne måte er blitt gjort gjeldende for et territorium, ved skriftlig melding til Organisasjonen, erklære at denne konvensjonen ikke lenger skal gjelde for det territorium som er nevnt i meldingen.Denne konvensjonen skal ikke lenger gjelde for et territorium som er nevnt i en slik melding etter ett år, eller et slikt lengre tidsrom som måtte være angitt i meldingen, regnet fra den dato da Organisasjonen mottok meldingen.
+1. 1. De forente nasjoner i de tilfeller de er den administrerende myndighet for et territorium, eller enhver kontraherende regjering som er ansvarlig for et territoriums internasjonale forbindelser, skal så snart som mulig rådføre seg med et slikt territorium eller ta slike forholdsregler som finnes formålstjenlig i et forsøk på å utvide denne konvensjonen til vedkommende territorium, og kan når som helst ved skriftlig melding til Organisasjonen erklære at denne konvensjonen skal gjøres gjeldende for et slikt territorium.
+   2. Denne konvensjonen skal fra den dato meldingen er mottatt, eller fra enhver annen dato som måtte være angitt i meldingen, gjøres gjeldende for det territorium som er nevnt i den.
+2. 1. De forente nasjoner eller enhver kontraherende regjering som har avgitt en erklæring i henhold til punkt 1 (a) i denne artikkel, kan når som helst etter utløpet av et tidsrom på fem år fra den dato da konvensjonen på denne måte er blitt gjort gjeldende for et territorium, ved skriftlig melding til Organisasjonen, erklære at denne konvensjonen ikke lenger skal gjelde for det territorium som er nevnt i meldingen.
+   2. Denne konvensjonen skal ikke lenger gjelde for et territorium som er nevnt i en slik melding etter ett år, eller et slikt lengre tidsrom som måtte være angitt i meldingen, regnet fra den dato da Organisasjonen mottok meldingen.
 3. Organisasjonen skal underrette alle kontraherende regjeringer når denne konvensjonen er blitt gjort gjeldende for et territorium i henhold til punkt 1 i denne artikkel og når den ikke lenger gjelder i henhold til bestemmelsene i punkt 2 med underretning i hvert enkelt tilfelle om den dato da denne konvensjonen ble gjort gjeldende eller ikke lenger vil gjelde.
 
 ### Artikkel 21. Deponering og registrering
@@ -321,11 +406,26 @@ Lukkede rom er alle rom som er avgrenset av fartøyets skrog, av faste eller fly
 
 *5. Utelatte rom*
 
-Uten hensyn til bestemmelsene i punkt 4 i denne regelen, skal rom nevnt i punktene 5 (a) til og med 5 (e) benevnes utelatte rom og skal ikke tas med i volumet av lukkede rom. Dog skal ethvert slikt rom behandles som et lukket rom når det oppfyller minst én av følgende tre betingelser:rommet er utstyrt med hyller eller andre arrangementer for sikring av last eller forråd,åpningen er forsynt med et hvilket som helst slags lukningsmiddel,konstruksjonen muliggjør en hvilken som helst slags lukning av slike åpninger:Et rom i en oppbygning innenfor en endeåpning som strekker seg fra dekk til dekk, bortsett fra en øvre karmplate som ikke må være mer enn 25 millimeter (én tomme) dypere enn de tilstøtende dekksbjelker, der slik åpning skal ha en bredde lik eller større enn 90 prosent av dekksbredden ved endeåpningen. Denne bestemmelsen skal anvendes således at det fra lukkede rom bare utelates rommet mellom den faktiske endeåpningen og en linje trukket parallell med denne i en avstand lik halvparten av dekksbredden ved åpningen (fig. 1 i Appendiks 1).Skulle vidden av rommet på grunn av ett eller annet arrangement, bortsett fra en konvergering av den ytre platekledning, bli mindre enn 90 prosent av dekksbredden ved åpningen, skal bare rommet mellom endeåpningen og en linje trukket parallell med denne gjennom punktet der tverrskipsvidden av rommet blir lik eller mindre enn 90 prosent av dekksbredden, utelates fra volumet av lukkede rom (fig. 2, 3 og 4 i Appendiks 1).Når et mellomrom som er fullstendig åpent, bortsett fra skansekledning eller åpent rekkverk, skiller to rom der det ene eller begge er tillatt utelatt i henhold til punktene 5 (a) (i) og/eller 5 (a) (ii) i denne regelen, skal slik utelatelse være betinget av at avstanden mellom de to rommene ikke er mindre enn den minste halve dekksbredde i mellomrommet (fig. 5 og 6 i Appendiks 1).Et rom under et tak/dekk åpent for sjø og vær som på de værutsatte sider ikke har annen forbindelse med skroget enn nødvendige bærestøtter. Et slikt rom kan være forsynt med åpent rekkverk, skansekledning og en øvre karmplate eller ste festet ved skipssiden såfremt avstanden mellom toppen av rekkverket eller skansekledningen og karmplaten ikke er mindre enn 0,75 meter (2,5 fot) eller en tredjedel av rommets høyde, eller hva som er størst (fig. 7 i Appendiks 1).Et, i en oppbygning som strekker seg fra borde til borde, beliggende rom like inn for sideåpninger, anbrakt like overfor hverandre, med høyde ikke mindre enn 0,75 meter (2,5 fot) eller en tredjedel av oppbygningens høyde, etter hva som er størst. Hvis åpningen i en slik oppbygning kun er anbrakt i en side, skal den utelatte del av det lukkede roms volum være begrenset innover fra åpningen til høyst halvdelen av dekksbredden på stedet (fig. 8 i Appendiks 1),Et rom i en oppbygning like under en udekket åpning i dekket over, såfremt åpningen er utsatt for været. Den utelatte delen av det lukkede rommet skal være begrenset til åpningens areal (fig. 9 i Appendiks 1).En recess i det ytre skottet av en oppbygning som er utsatt for været, og der åpningen strekker seg fra dekk til dekk uten lukningsmidler, såfremt den indre vidden ikke overstiger vidden ved åpningen og recessens utstrekning inn i oppbygningen ikke er større enn to ganger åpningens vidde (fig. 10 i Appendiks 1).
+Uten hensyn til bestemmelsene i punkt 4 i denne regelen, skal rom nevnt i punktene 5 (a) til og med 5 (e) benevnes utelatte rom og skal ikke tas med i volumet av lukkede rom. Dog skal ethvert slikt rom behandles som et lukket rom når det oppfyller minst én av følgende tre betingelser:
+
+- rommet er utstyrt med hyller eller andre arrangementer for sikring av last eller forråd,
+- åpningen er forsynt med et hvilket som helst slags lukningsmiddel,
+- konstruksjonen muliggjør en hvilken som helst slags lukning av slike åpninger:
+
+  1. 1. Et rom i en oppbygning innenfor en endeåpning som strekker seg fra dekk til dekk, bortsett fra en øvre karmplate som ikke må være mer enn 25 millimeter (én tomme) dypere enn de tilstøtende dekksbjelker, der slik åpning skal ha en bredde lik eller større enn 90 prosent av dekksbredden ved endeåpningen. Denne bestemmelsen skal anvendes således at det fra lukkede rom bare utelates rommet mellom den faktiske endeåpningen og en linje trukket parallell med denne i en avstand lik halvparten av dekksbredden ved åpningen (fig. 1 i Appendiks 1).
+     2. Skulle vidden av rommet på grunn av ett eller annet arrangement, bortsett fra en konvergering av den ytre platekledning, bli mindre enn 90 prosent av dekksbredden ved åpningen, skal bare rommet mellom endeåpningen og en linje trukket parallell med denne gjennom punktet der tverrskipsvidden av rommet blir lik eller mindre enn 90 prosent av dekksbredden, utelates fra volumet av lukkede rom (fig. 2, 3 og 4 i Appendiks 1).
+     3. Når et mellomrom som er fullstendig åpent, bortsett fra skansekledning eller åpent rekkverk, skiller to rom der det ene eller begge er tillatt utelatt i henhold til punktene 5 (a) (i) og/eller 5 (a) (ii) i denne regelen, skal slik utelatelse være betinget av at avstanden mellom de to rommene ikke er mindre enn den minste halve dekksbredde i mellomrommet (fig. 5 og 6 i Appendiks 1).
+  2. Et rom under et tak/dekk åpent for sjø og vær som på de værutsatte sider ikke har annen forbindelse med skroget enn nødvendige bærestøtter. Et slikt rom kan være forsynt med åpent rekkverk, skansekledning og en øvre karmplate eller ste festet ved skipssiden såfremt avstanden mellom toppen av rekkverket eller skansekledningen og karmplaten ikke er mindre enn 0,75 meter (2,5 fot) eller en tredjedel av rommets høyde, eller hva som er størst (fig. 7 i Appendiks 1).
+  3. Et, i en oppbygning som strekker seg fra borde til borde, beliggende rom like inn for sideåpninger, anbrakt like overfor hverandre, med høyde ikke mindre enn 0,75 meter (2,5 fot) eller en tredjedel av oppbygningens høyde, etter hva som er størst. Hvis åpningen i en slik oppbygning kun er anbrakt i en side, skal den utelatte del av det lukkede roms volum være begrenset innover fra åpningen til høyst halvdelen av dekksbredden på stedet (fig. 8 i Appendiks 1),
+  4. Et rom i en oppbygning like under en udekket åpning i dekket over, såfremt åpningen er utsatt for været. Den utelatte delen av det lukkede rommet skal være begrenset til åpningens areal (fig. 9 i Appendiks 1).
+  5. En recess i det ytre skottet av en oppbygning som er utsatt for været, og der åpningen strekker seg fra dekk til dekk uten lukningsmidler, såfremt den indre vidden ikke overstiger vidden ved åpningen og recessens utstrekning inn i oppbygningen ikke er større enn to ganger åpningens vidde (fig. 10 i Appendiks 1).
 
 *6. Passasjerer*
 
-En passasjer er enhver person med unntak av:skipsføreren og medlemmer av besetningen eller andre personer ansatt eller beskjeftiget i fartøyets tjeneste i en hvilken som helst stilling om bord, oget barn under ett år.
+En passasjer er enhver person med unntak av:
+
+1. skipsføreren og medlemmer av besetningen eller andre personer ansatt eller beskjeftiget i fartøyets tjeneste i en hvilken som helst stilling om bord, og
+2. et barn under ett år.
 
 *7. Lasterom*
 
@@ -338,13 +438,43 @@ Værtett betyr at det under hvilke som helst forhold på sjøen ikke vil trenge 
 ### Regel 3
 Bruttotonnasje
 
-Et fartøys bruttotonnasje (GT) skal beregnes og fastsettes etter følgende formel:GT = K1 Vder:V = det totale volum av alle fartøyets lukkede rom målt i kubikkmeter,K1 = 0,2 + 0,02 log10 V (eller som angitt i tabellen i Appendiks 2).
+Et fartøys bruttotonnasje (GT) skal beregnes og fastsettes etter følgende formel:
+
+- GT = K1 V
+
+  der:
+- V = det totale volum av alle fartøyets lukkede rom målt i kubikkmeter,
+- K1 = 0,2 + 0,02 log10 V (eller som angitt i tabellen i Appendiks 2).
 
 ### Regel 4
 Nettotonnasje
 
-1. Et fartøys nettotonnasje (NT) skal beregnes og fastsettes etter følgende formel: $$NT \\qquad = \\qquad K_2 V_c \\left( \\frac{4d}{3D} \\right)^2 + K_3 \\left( N_1 + \\frac{N_2}{10}\\right)$$der:faktoren \\(\\left( \\frac{4d}{3D} \\right)^2\\) ikke skal være større enn 1,uttrykket \\(K_2 V_c \\left( \\frac{4d}{3D} \\right)^2\\) ikke skal være mindre enn 0,25GT, ogNT ikke skal være mindre enn 0,30 GT, og der:Vc = lasterommets totale volum målt i kubikkmeter,K2 = 0,2 + 0,02 log10 Vc (eller som angitt i tabellen i Appendiks 2),\\(K_3=1,25\\frac{GT+10000}{10000}\\)D = dybde i risset midtskips som definert i regel 2 (2) og målt i meter,d = dypgående midtskips som definert i punkt 2 i denne regelen, og målt i meter,N1 = antall passasjerer i lugarer med ikke flere enn 8 køyer,N2 = antall øvrige passasjerer,N1 + N2 = største antall passasjerer fartøyet har tillatelse til å føre i henhold til dets passasjersertifikat. Når N1 + N2 er mindre enn 13, skal N1 og N2 settes til ,GT = fartøyets bruttotonnasje beregnet og fastsatt i samsvar med bestemmelsene i regel 3.
-2. Det dypgående (d) som er nevnt i punkt 1 i denne regelen, skal være ett av følgende:for fartøyer for hvilke den gjeldende internasjonale konvensjon om lastelinjer skal anvendes, det dypgående som svarer til sommerlastelinjen (ikke trelastelinjer) fastsatt i samsvar med nevnte konvensjon,for passasjerfartøyer, det dypgående som svarer til den dypeste oppdelingslastelinje fastsatt i samsvar med den gjeldende internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs,](traktat/1974-11-01-1) eller annen internasjonal avtale når anvendelig,for fartøyer for hvilke Den internasjonale konvensjon om lastelinjer ikke gjelder, men som har fått fastsatt en lastelinje ifølge nasjonale regler, det dypgående som svarer til den etter slike regler fastsatte sommerlastelinje,for fartøyer som ikke har fått fastsatt noen lastelinje, men hvis dypgående er begrenset ifølge nasjonale regler, det største tillatte dypgående,for andre fartøyer, 75 prosent av dybden i risset midtskips som definert i regel 2 (2).
+1. Et fartøys nettotonnasje (NT) skal beregnes og fastsettes etter følgende formel:
+
+   $$NT \\qquad = \\qquad K_2 V_c \\left( \\frac{4d}{3D} \\right)^2 + K_3 \\left( N_1 + \\frac{N_2}{10}\\right)$$
+
+   der:
+
+   1. faktoren \\(\\left( \\frac{4d}{3D} \\right)^2\\) ikke skal være større enn 1,
+   2. uttrykket \\(K_2 V_c \\left( \\frac{4d}{3D} \\right)^2\\) ikke skal være mindre enn 0,25GT, og
+   3. NT ikke skal være mindre enn 0,30 GT, og der:
+
+      - Vc = lasterommets totale volum målt i kubikkmeter,
+      - K2 = 0,2 + 0,02 log10 Vc (eller som angitt i tabellen i Appendiks 2),
+      - \\(K_3=1,25\\frac{GT+10000}{10000}\\)
+      - D = dybde i risset midtskips som definert i regel 2 (2) og målt i meter,
+      - d = dypgående midtskips som definert i punkt 2 i denne regelen, og målt i meter,
+      - N1 = antall passasjerer i lugarer med ikke flere enn 8 køyer,
+      - N2 = antall øvrige passasjerer,
+      - N1 + N2 = største antall passasjerer fartøyet har tillatelse til å føre i henhold til dets passasjersertifikat. Når N1 + N2 er mindre enn 13, skal N1 og N2 settes til ,
+      - GT = fartøyets bruttotonnasje beregnet og fastsatt i samsvar med bestemmelsene i regel 3.
+2. Det dypgående (d) som er nevnt i punkt 1 i denne regelen, skal være ett av følgende:
+
+   1. for fartøyer for hvilke den gjeldende internasjonale konvensjon om lastelinjer skal anvendes, det dypgående som svarer til sommerlastelinjen (ikke trelastelinjer) fastsatt i samsvar med nevnte konvensjon,
+   2. for passasjerfartøyer, det dypgående som svarer til den dypeste oppdelingslastelinje fastsatt i samsvar med den gjeldende internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs,](traktat/1974-11-01-1) eller annen internasjonal avtale når anvendelig,
+   3. for fartøyer for hvilke Den internasjonale konvensjon om lastelinjer ikke gjelder, men som har fått fastsatt en lastelinje ifølge nasjonale regler, det dypgående som svarer til den etter slike regler fastsatte sommerlastelinje,
+   4. for fartøyer som ikke har fått fastsatt noen lastelinje, men hvis dypgående er begrenset ifølge nasjonale regler, det største tillatte dypgående,
+   5. for andre fartøyer, 75 prosent av dybden i risset midtskips som definert i regel 2 (2).
 
 > Endret ved [forskrift 25 mai 2022 nr. 944](forskrift/2022-05-25-944) (i kraft 1 juli 2022).
 
@@ -353,7 +483,11 @@ Forandring av nettotonnasje
 
 1. Når et fartøys karakteristika, slik som størrelsene V, Vc , d, N1 eller N2 som definert i reglene 3 og 4, endres, og der en slik endring medfører en økning av fartøyets nettotonnasje slik den er beregnet og fastsatt i samsvar med bestemmelsene i regel 4, skal fartøyets nettotonnasje som svarer til de nye størrelser uten opphold beregnes og komme til anvendelse.
 2. Et fartøy som samtidig har fått fastsatt lastelinjer som nevnt både i punktene 2 (a) og 2 (b) i regel 4, skal bare bli gitt en nettotonnasje beregnet i samsvar med bestemmelsene i regel 4, og denne tonnasjen skal være den som tilsvarer den fastsatte lastelinjen for den fart som fartøyet er anvendt i.
-3. Når et fartøys karakteristika, slik som størrelsene V, Vc , d, N1 eller N2 som definert i reglene 3 og 4, er endret, eller når den fastsatte lastelinjen nevnt i punkt 2 i denne regelen er endret som følge av skifting i fartøyets beskjeftigelse, og der en slik endring resulterer i en minskning i dets nettotonnasje beregnet og fastsatt i samsvar med bestemmelsene i regel 4, skal et nytt internasjonalt målebrev (1969) inneholdende den således beregnede nettotonnasje ikke utstedes før tolv måneder er forløpt fra den dato det gjeldende målebrev ble utstedt, dog skal dette ikke gjelde:hvis fartøyet blir overført til en annen stats flagg, ellerhvis fartøyet gjennomgår endringer eller ombygninger som av Administrasjonen anses å være vesentlige, for eksempel fjerning av en overbygning som vil medføre en endring av den fastsatte lastelinje, ellerfor passasjerfartøyer som fører et stort antall dekkspassasjerer i spesiell fart, som for eksempel transport av pilgrimmer.
+3. Når et fartøys karakteristika, slik som størrelsene V, Vc , d, N1 eller N2 som definert i reglene 3 og 4, er endret, eller når den fastsatte lastelinjen nevnt i punkt 2 i denne regelen er endret som følge av skifting i fartøyets beskjeftigelse, og der en slik endring resulterer i en minskning i dets nettotonnasje beregnet og fastsatt i samsvar med bestemmelsene i regel 4, skal et nytt internasjonalt målebrev (1969) inneholdende den således beregnede nettotonnasje ikke utstedes før tolv måneder er forløpt fra den dato det gjeldende målebrev ble utstedt, dog skal dette ikke gjelde:
+
+   1. hvis fartøyet blir overført til en annen stats flagg, eller
+   2. hvis fartøyet gjennomgår endringer eller ombygninger som av Administrasjonen anses å være vesentlige, for eksempel fjerning av en overbygning som vil medføre en endring av den fastsatte lastelinje, eller
+   3. for passasjerfartøyer som fører et stort antall dekkspassasjerer i spesiell fart, som for eksempel transport av pilgrimmer.
 
 ### Regel 6
 Beregning av volum
@@ -372,7 +506,11 @@ Måling og beregning
 ### Appendiks 1.
 Figurer nevnt i regel 2(5)
 
-I de følgende figurer er:O = utelatte romC = lukkede romI = rom som skal betraktes som lukket
+I de følgende figurer er:
+
+- O = utelatte rom
+- C = lukkede rom
+- I = rom som skal betraktes som lukket
 
 De skraverte områdene tas med som lukkede rom.
 

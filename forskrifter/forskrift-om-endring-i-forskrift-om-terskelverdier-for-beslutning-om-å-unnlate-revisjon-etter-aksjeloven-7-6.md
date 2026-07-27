@@ -15,7 +15,7 @@ xml_hash: "ac6ea6de691ba04b019a9ddfe13802f7078c59c64444ab2c30f2671ae9bade59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,16 @@ I [forskrift 3. januar 2018 nr. 7 om terskelverdier for beslutning om å unnlate
 
 [§ 1](forskrift/2018-01-03-7/§1) første ledd skal lyde:
 
-For beslutning om å unnlate revisjon etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) gjelder følgende terskelverdier for driftsinntekter og balansesum etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) første ledd første punktum nr. 1 og 2:Driftsinntektene av den samlede virksomheten må være mindre enn 7 millioner kroner.Selskapets balansesum må være mindre enn 27 millioner kroner.
+For beslutning om å unnlate revisjon etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) gjelder følgende terskelverdier for driftsinntekter og balansesum etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) første ledd første punktum nr. 1 og 2:
+
+1. Driftsinntektene av den samlede virksomheten må være mindre enn 7 millioner kroner.
+2. Selskapets balansesum må være mindre enn 27 millioner kroner.
 
 [§ 2](forskrift/2018-01-03-7/§2) første ledd skal lyde:
 
-Har selskapet ikke fastsatt sitt første årsregnskap, gjelder følgende terskelverdi for aksjeinnskudd etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) annet ledd annet punktum:Aksjeinnskuddene i forbindelse med stiftelsen må være mindre enn 27 millioner kroner.
+Har selskapet ikke fastsatt sitt første årsregnskap, gjelder følgende terskelverdi for aksjeinnskudd etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) annet ledd annet punktum:
+
+- Aksjeinnskuddene i forbindelse med stiftelsen må være mindre enn 27 millioner kroner.
 
 ## II
 

@@ -38,7 +38,12 @@ Plikten til å avgi opplysninger etter denne forskrift påhviler eiendommens eie
 
 Opplysninger etter denne forskrift kan innhentes ved skjema som fastsettes av kommunen.
 
-Skjemaet skal inneholdekommunens retningslinjer for avgrensning av selvstendige boenheter,felt for angivelse av antall selvstendige boenheter i eiendommen i henhold til kommunens retningslinjer,felt for angivelse av hvilke selvstendige boenheter i eiendommen som benyttes i forbindelse med næringsvirksomhet,opplysning om hvor skjemaet skal leveres.
+Skjemaet skal inneholde
+
+- kommunens retningslinjer for avgrensning av selvstendige boenheter,
+- felt for angivelse av antall selvstendige boenheter i eiendommen i henhold til kommunens retningslinjer,
+- felt for angivelse av hvilke selvstendige boenheter i eiendommen som benyttes i forbindelse med næringsvirksomhet,
+- opplysning om hvor skjemaet skal leveres.
 
 Skjemaet skal også tydelig gi opplysning om forhold som nevnt i [§ 4](forskrift/1993-02-11-107/§4) vedrørende tilfredsstillende utfylling og innsendelsesfrist.
 

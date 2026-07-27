@@ -36,7 +36,14 @@ Sentralen skal ha etablert et internkontrollsystem innen tre måneder etter at s
 
 Internkontrollen skal tilpasses virksomhetens størrelse, egenart, aktiviteter og risikoforhold og ha det omfang som er nødvendig. Den skal også bidra til at aktørene ikke deler forretningshemmeligheter eller på andre måter opptrer på en konkurransebegrensende måte.
 
-Internkontroll innebærer at sentralen skal:sørge for å ha oversikt over relevant regelverk som gjelder for virksomheten, jf. [§ 1](forskrift/2026-05-04-715/§1). Oversikten skal være tilgjengelig for løyvehavere, sjåfører og sentralens egne ansatte,fastsette hvordan funksjonskrav i lov og forskrift skal forstås og anvendes i virksomheten,sørge for at løyvehavere, sjåfører og sentralens egen ansatte har tilstrekkelig kunnskaper og ferdigheter til å forstå og etterleve kravene,sørge for at arbeidstakerne medvirker slik at samlet kunnskap og erfaring utnyttes,iverksette rutiner for å avdekke, rette opp og forebygge overtredelser av krav fastsatt i relevant regelverk, jf. [§ 1](forskrift/2026-05-04-715/§1), ogforeta systematisk overvåkning og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
+Internkontroll innebærer at sentralen skal:
+
+1. sørge for å ha oversikt over relevant regelverk som gjelder for virksomheten, jf. [§ 1](forskrift/2026-05-04-715/§1). Oversikten skal være tilgjengelig for løyvehavere, sjåfører og sentralens egne ansatte,
+2. fastsette hvordan funksjonskrav i lov og forskrift skal forstås og anvendes i virksomheten,
+3. sørge for at løyvehavere, sjåfører og sentralens egen ansatte har tilstrekkelig kunnskaper og ferdigheter til å forstå og etterleve kravene,
+4. sørge for at arbeidstakerne medvirker slik at samlet kunnskap og erfaring utnyttes,
+5. iverksette rutiner for å avdekke, rette opp og forebygge overtredelser av krav fastsatt i relevant regelverk, jf. [§ 1](forskrift/2026-05-04-715/§1), og
+6. foreta systematisk overvåkning og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
 
 Internkontrollen skal dokumenteres skriftlig i det omfang som er nødvendig.
 

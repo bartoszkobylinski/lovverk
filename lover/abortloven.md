@@ -15,7 +15,7 @@ xml_hash: "328f78eb86c449fbb16130a84ed360c0368e42ed50f575171f3ab2eba693ad3b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,12 @@ Kongen kan gi forskrift om at loven helt eller delvis skal gjelde for Svalbard.
 
 Gravide har rett til å få utført selvbestemt abort som avbryter hele svangerskapet, frem til utgangen av 18. svangerskapsuke.
 
-Etter utgangen av 18. svangerskapsuke kreves tillatelse fra en abortnemnd for å utføre en abort som avbryter hele svangerskapet. Abortnemnda skal gi tillatelse dersom:svangerskapet, fødselen eller omsorgen for barnet medfører fare for den gravides fysiske eller psykiske helse,graviditeten er et resultat av at den gravide har vært utsatt for voldtekt, incest eller andre seksuallovbrudd,det er sannsynlig at fosteret har en alvorlig tilstand, eller at fosteret vil dø under svangerskapet eller kort tid etter fødsel, ellermedisinske forhold ved fosteret, forhold ved den gravide, den gravides livssituasjon eller en kombinasjon av disse gjør svangerskap, fødsel, barnets oppvekst eller fremtidig omsorg for barnet særlig krevende.
+Etter utgangen av 18. svangerskapsuke kreves tillatelse fra en abortnemnd for å utføre en abort som avbryter hele svangerskapet. Abortnemnda skal gi tillatelse dersom:
+
+1. svangerskapet, fødselen eller omsorgen for barnet medfører fare for den gravides fysiske eller psykiske helse,
+2. graviditeten er et resultat av at den gravide har vært utsatt for voldtekt, incest eller andre seksuallovbrudd,
+3. det er sannsynlig at fosteret har en alvorlig tilstand, eller at fosteret vil dø under svangerskapet eller kort tid etter fødsel, eller
+4. medisinske forhold ved fosteret, forhold ved den gravide, den gravides livssituasjon eller en kombinasjon av disse gjør svangerskap, fødsel, barnets oppvekst eller fremtidig omsorg for barnet særlig krevende.
 
 Abortnemnda skal legge betydelig vekt på den gravides oppfatning av situasjonen.
 
@@ -52,7 +57,12 @@ Etter utgangen av 22. svangerskapsuke kan abort bare utføres dersom det er klar
 
 Gravide har rett til å få utført selvbestemt abort der antallet fostre reduseres (fosterantallsreduksjon), frem til utgangen av 18. svangerskapsuke.
 
-Etter utgangen av 18. svangerskapsuke kreves tillatelse fra en abortnemnd for å utføre fosterantallsreduksjon. Abortnemnda skal gi tillatelse dersom:svangerskapet, fødselen eller omsorgen for barnet medfører fare for den gravides fysiske eller psykiske helse,det er høy risiko for spontanabort eller for tidlig fødsel dersom svangerskapet videreføres for alle fostre,det er sannsynlig at fosteret har en alvorlig tilstand, eller at fosteret vil dø under svangerskapet eller kort tid etter fødsel, ellermedisinske forhold ved fosteret, forhold ved den gravide, den gravides livssituasjon eller en kombinasjon av disse gjør svangerskap, fødsel, barnets oppvekst eller fremtidig omsorg for barnet særlig krevende.
+Etter utgangen av 18. svangerskapsuke kreves tillatelse fra en abortnemnd for å utføre fosterantallsreduksjon. Abortnemnda skal gi tillatelse dersom:
+
+1. svangerskapet, fødselen eller omsorgen for barnet medfører fare for den gravides fysiske eller psykiske helse,
+2. det er høy risiko for spontanabort eller for tidlig fødsel dersom svangerskapet videreføres for alle fostre,
+3. det er sannsynlig at fosteret har en alvorlig tilstand, eller at fosteret vil dø under svangerskapet eller kort tid etter fødsel, eller
+4. medisinske forhold ved fosteret, forhold ved den gravide, den gravides livssituasjon eller en kombinasjon av disse gjør svangerskap, fødsel, barnets oppvekst eller fremtidig omsorg for barnet særlig krevende.
 
 Tillatelse etter andre ledd bokstav d kan bare gis dersom begrunnelsen for fosterantallsreduksjon veier tyngre enn risikoen for skade, for tidlig fødsel eller død for gjenværende foster.
 
@@ -178,7 +188,11 @@ De regionale helseforetakene skal sørge for tilbud om abort til personer som op
 
 ### § 23. Tilbud om informasjon, veiledning og oppfølgingssamtaler
 
-Kommunene og de regionale helseforetakene skal sørge for tilbud om:individuell og tilpasset informasjon og veiledning til gravide som vurderer abort, jf. [§ 6 første ledd](lov/2024-12-20-96/§6/ledd/1)informasjon om aborten og mulige komplikasjoner, jf. [§ 6 andre ledd](lov/2024-12-20-96/§6/ledd/2)oppfølgingssamtaler for personer som har gjennomgått abort, jf. [§ 6 tredje ledd](lov/2024-12-20-96/§6/ledd/3).
+Kommunene og de regionale helseforetakene skal sørge for tilbud om:
+
+1. individuell og tilpasset informasjon og veiledning til gravide som vurderer abort, jf. [§ 6 første ledd](lov/2024-12-20-96/§6/ledd/1)
+2. informasjon om aborten og mulige komplikasjoner, jf. [§ 6 andre ledd](lov/2024-12-20-96/§6/ledd/2)
+3. oppfølgingssamtaler for personer som har gjennomgått abort, jf. [§ 6 tredje ledd](lov/2024-12-20-96/§6/ledd/3).
 
 All informasjon og veiledning i forbindelse med abort skal være objektiv og nøytral.
 

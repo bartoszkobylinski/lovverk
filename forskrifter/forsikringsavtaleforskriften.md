@@ -26,7 +26,15 @@ eu_basis: []
 
 ### § 1. Store risikoer
 
-Med «store risikoer» menes risikoer i tilknytning til næringsvirksomhet i følgende forsikringsklasser etter [finansforetaksforskriften § 2-12](forskrift/2016-12-09-1502/§2-12):forsikringsklasse 4, 5, 6, 7, 11 og 12forsikringsklasse 14 og 15 når forsikringstakeren utøver handels- eller industrivirksomhet eller et fritt yrke og risikoen gjelder denne virksomhetenforsikringsklasse 3, 8, 9, 10, 13 og 16 når forsikringstakeren oppfyller minst to av følgende vilkår:eiendeler ifølge siste balanse på et beløp i norske kroner som svarer til mer enn 6 600 000 eurosalgsinntekter ifølge siste årsregnskap på et beløp i norske kroner som svarer til mer enn 13 600 000 euroet gjennomsnittlig antall ansatte i løpet av regnskapsåret på mer enn 250.
+Med «store risikoer» menes risikoer i tilknytning til næringsvirksomhet i følgende forsikringsklasser etter [finansforetaksforskriften § 2-12](forskrift/2016-12-09-1502/§2-12):
+
+1. forsikringsklasse 4, 5, 6, 7, 11 og 12
+2. forsikringsklasse 14 og 15 når forsikringstakeren utøver handels- eller industrivirksomhet eller et fritt yrke og risikoen gjelder denne virksomheten
+3. forsikringsklasse 3, 8, 9, 10, 13 og 16 når forsikringstakeren oppfyller minst to av følgende vilkår:
+
+   - eiendeler ifølge siste balanse på et beløp i norske kroner som svarer til mer enn 6 600 000 euro
+   - salgsinntekter ifølge siste årsregnskap på et beløp i norske kroner som svarer til mer enn 13 600 000 euro
+   - et gjennomsnittlig antall ansatte i løpet av regnskapsåret på mer enn 250.
 
 For forsikring tegnet av foretak som inngår i konsern (foretaksgruppe) som det utarbeides konsolidert regnskap for etter direktiv [2013/34/EU](eu/32013l0034), skal vilkårene i første ledd bokstav c anvendes på grunnlag av det konsoliderte regnskapet.
 
@@ -64,7 +72,18 @@ Avtalen eller andre dokumenter som opplyser om forsikringsdekningen, samt forsik
 
 ### § 6. Alminnelig informasjonsplikt
 
-For avtaler om livsforsikring skal opplysninger til kunden som nevnt i [forsikringsavtaleloven § 1C-9](lov/1989-06-16-69/§1c-9) også omfatte følgende opplysninger:hvilke ytelser avtalen omfatter, vilkårene som må være oppfylt for at ytelsene skal komme til utbetaling, samt i hvilket omfang og på hvilken måte størrelsen eller reglene for fastsettelse av størrelsen av ytelsene eller avkastning mv. er kontraktsfestethvilke rettigheter forsikringstakeren har til å endre avtalens innhold i forsikringstiden, herunder når og hvordan forsikringstakeren kan bruke rettighetenbetingelser for innbetaling av premier, herunder spesielt årlige premiebeløp, hvor lenge premien skal betales, antall innbetalinger, hvordan en eventuell avtalt indeksregulering av premien eller ytelsen påvirker premiens og ytelsens størrelse, og opplysninger om følgene av at premieinnbetalingen misligholdespremiens størrelse for de enkelte ytelser, både for hovedytelser og tilleggsytelserde forutsetninger om omkostninger og renteinntekter som er lagt til grunn i det beregningsgrunnlaget som anvendes for vedkommende forsikringsavtale når avtalen inneholder en sparedelstørrelsen på det samlede kontraktsgebyret som er knyttet til inngåelsen av forsikringsavtalen, både som det samlede nominelle beløpet og det neddiskonterte beløpetbetingelsene for oppsigelse av avtalen og bruk av oppsigelsesrett, herunder betingelser for oppsigelse med sikte på overføring av midler til et annet forsikringsselskap eller en pensjonskassede nærmere vilkårene for beregning og tildeling av overskudd eller opplysninger om at forsikringen ikke gir rett til andel av selskapets overskuddhvordan gjenkjøpsverdien og fripoliseverdien beregnes, herunder i hvilken utstrekning de er garantert, betingelser for utbetaling av gjenkjøpsverdi, samt en orientering om nivået gjenkjøpsverdien og fripoliseverdien vil ha de første årenehvilke begrensninger som gjelder for innbetalinger til og bruk av premiefond og pensjonsreguleringsfond, og om regler om beregning av avkastningen på slike fond.
+For avtaler om livsforsikring skal opplysninger til kunden som nevnt i [forsikringsavtaleloven § 1C-9](lov/1989-06-16-69/§1c-9) også omfatte følgende opplysninger:
+
+1. hvilke ytelser avtalen omfatter, vilkårene som må være oppfylt for at ytelsene skal komme til utbetaling, samt i hvilket omfang og på hvilken måte størrelsen eller reglene for fastsettelse av størrelsen av ytelsene eller avkastning mv. er kontraktsfestet
+2. hvilke rettigheter forsikringstakeren har til å endre avtalens innhold i forsikringstiden, herunder når og hvordan forsikringstakeren kan bruke rettigheten
+3. betingelser for innbetaling av premier, herunder spesielt årlige premiebeløp, hvor lenge premien skal betales, antall innbetalinger, hvordan en eventuell avtalt indeksregulering av premien eller ytelsen påvirker premiens og ytelsens størrelse, og opplysninger om følgene av at premieinnbetalingen misligholdes
+4. premiens størrelse for de enkelte ytelser, både for hovedytelser og tilleggsytelser
+5. de forutsetninger om omkostninger og renteinntekter som er lagt til grunn i det beregningsgrunnlaget som anvendes for vedkommende forsikringsavtale når avtalen inneholder en sparedel
+6. størrelsen på det samlede kontraktsgebyret som er knyttet til inngåelsen av forsikringsavtalen, både som det samlede nominelle beløpet og det neddiskonterte beløpet
+7. betingelsene for oppsigelse av avtalen og bruk av oppsigelsesrett, herunder betingelser for oppsigelse med sikte på overføring av midler til et annet forsikringsselskap eller en pensjonskasse
+8. de nærmere vilkårene for beregning og tildeling av overskudd eller opplysninger om at forsikringen ikke gir rett til andel av selskapets overskudd
+9. hvordan gjenkjøpsverdien og fripoliseverdien beregnes, herunder i hvilken utstrekning de er garantert, betingelser for utbetaling av gjenkjøpsverdi, samt en orientering om nivået gjenkjøpsverdien og fripoliseverdien vil ha de første årene
+10. hvilke begrensninger som gjelder for innbetalinger til og bruk av premiefond og pensjonsreguleringsfond, og om regler om beregning av avkastningen på slike fond.
 
 I tillegg til opplysningene i første ledd skal det gis generelle opplysninger om skatteregler som gjelder for den aktuelle typen forsikringsavtale. I avtaler om kollektiv forsikring kan forsikringsselskapet unnlate å gi separate opplysninger om premiens størrelse for tilleggsytelser, med mindre forsikringstakeren ber om det.
 
@@ -88,13 +107,22 @@ Paragrafen her utfylles av forordning [(EU) 2017/2359](eu/32017r2359), jf. [§ 1
 
 ### § 9. Særlige informasjonsplikter for forsikringsbaserte investeringsprodukter
 
-Når det inngås avtale om et forsikringsbasert investeringsprodukt, skal opplysninger til kunden som nevnt i [forsikringsavtaleloven § 1C-9](lov/1989-06-16-69/§1c-9) også omfatte følgende opplysninger:om det vil bli gitt en periodisk egnethetsvurdering av de produktene som er anbefaltrelevant veiledning og advarsler om risiko som er forbundet med investeringen eller de foreslåtte investeringsstrategienealle omkostninger og gebyrer som ikke skyldes underliggende markedsrisiko, herunder alle kostnader knyttet til salget, rådgivningen og eventuelle senere periodiske egnethetsvurderingerhvordan kunden skal betale kostnadene som nevnt i bokstav c, herunder eventuelle tredjepartsbetalinger.
+Når det inngås avtale om et forsikringsbasert investeringsprodukt, skal opplysninger til kunden som nevnt i [forsikringsavtaleloven § 1C-9](lov/1989-06-16-69/§1c-9) også omfatte følgende opplysninger:
+
+1. om det vil bli gitt en periodisk egnethetsvurdering av de produktene som er anbefalt
+2. relevant veiledning og advarsler om risiko som er forbundet med investeringen eller de foreslåtte investeringsstrategiene
+3. alle omkostninger og gebyrer som ikke skyldes underliggende markedsrisiko, herunder alle kostnader knyttet til salget, rådgivningen og eventuelle senere periodiske egnethetsvurderinger
+4. hvordan kunden skal betale kostnadene som nevnt i bokstav c, herunder eventuelle tredjepartsbetalinger.
 
 Opplysningene som nevnt i første ledd bokstav c og d skal sammenstilles på en slik måte at kunden kan forstå de totale kostnadene og den samlede effekten på investeringens avkastning. Opplysningene skal gis regelmessig og minimum årlig gjennom investeringens løpetid. Foretaket skal på kundens forespørsel spesifisere hver enkelt kostnad.
 
 ### § 10. Særlige informasjonsplikter for avtaler knyttet til investeringsfond
 
-Når det inngås avtale om livsforsikring med investeringsvalg som det er knyttet investeringsfond til, skal opplysninger til kunden som nevnt i [forsikringsavtaleloven § 1C-9](lov/1989-06-16-69/§1c-9) også omfatte følgende opplysninger:arten av de eiendeler (de aktuelle investeringsfond) forsikringsavtalen er basert påde fondsandeler (units) som forsikringsavtalen er knyttet tilnår og på hvilken måte forsikringstakeren vil bli holdt orientert om fondsandelenes verdiutvikling.
+Når det inngås avtale om livsforsikring med investeringsvalg som det er knyttet investeringsfond til, skal opplysninger til kunden som nevnt i [forsikringsavtaleloven § 1C-9](lov/1989-06-16-69/§1c-9) også omfatte følgende opplysninger:
+
+1. arten av de eiendeler (de aktuelle investeringsfond) forsikringsavtalen er basert på
+2. de fondsandeler (units) som forsikringsavtalen er knyttet til
+3. når og på hvilken måte forsikringstakeren vil bli holdt orientert om fondsandelenes verdiutvikling.
 
 ### § 11. Gjennomføring av forordning
 
@@ -120,13 +148,20 @@ Foretak som er etablert i Norge, skal i avtalen gi den forsikrede rett til å ov
 
 Hvis det oppstår en interessekonflikt mellom forsikringstakeren og forsikringsgiveren, eller det er uenighet om hvordan tvisten skal bilegges, skal rettshjelpsforsikreren, eller eventuelt kontoret som behandler skadeoppgjør, underrette den forsikrede om retten til å bruke egen advokat, jf. annet ledd, og om retten til nemndbehandling etter [forsikringsavtaleloven § 22-2](lov/1989-06-16-69/§22-2).
 
-Med rettshjelpsforsikring menes en forsikring som består i, mot betaling av en premie, å bære kostnadene ved rettergang og yte andre tjenester som er direkte knyttet til forsikringsdekningen, særlig med henblikk påå sikre erstatning for skade påført den forsikrede, ved forlik eller ved sivil sak eller straffesakå forsvare eller representere den forsikrede i en sivil sak, straffesak, forvaltningssak eller annen saksbehandling eller ved eventuelle erstatningskrav som blir reist mot den forsikrede.
+Med rettshjelpsforsikring menes en forsikring som består i, mot betaling av en premie, å bære kostnadene ved rettergang og yte andre tjenester som er direkte knyttet til forsikringsdekningen, særlig med henblikk på
+
+1. å sikre erstatning for skade påført den forsikrede, ved forlik eller ved sivil sak eller straffesak
+2. å forsvare eller representere den forsikrede i en sivil sak, straffesak, forvaltningssak eller annen saksbehandling eller ved eventuelle erstatningskrav som blir reist mot den forsikrede.
 
 > Tilføyd ved forskrift [10 juni 2022 nr. 1002](forskrift/2022-06-10-1002), endret ved forskrift [11 okt 2024 nr. 2452](forskrift/2024-10-11-2452) (i kraft 1 jan 2025).
 
 ### § 14. Unntak
 
-§ 13 får likevel ikke anvendelsepå rettshjelpsforsikring når forsikringen gjelder tvister eller risikoer i forbindelse med eller i tilknytning til bruk av havgående fartøypå virksomhet som utøves av forsikringsgiveren og som dekker erstatningsansvar i forbindelse med den forsikredes forsvar eller representasjon i en eventuell forvaltningssak eller rettergang, i den utstrekning denne virksomheten samtidig utøves i forsikringsgiverens egen interesse i forbindelse med denne dekningnår rettshjelpsvirksomhet utøves av en assistanseforsikrer i en annen EØS-stat enn den staten der den forsikrede vanligvis bor, når den er en del av en avtale som dekker bare den bistand som ytes til personer som kommer i vansker på reise, ved fravær fra sin bopel eller fra sitt faste oppholdssted. I dette tilfellet skal det fremgå tydelig av avtalen at den aktuelle dekningen er begrenset til omstendighetene nevnt i foregående punktum, og at den er underordnet assistansen.
+§ 13 får likevel ikke anvendelse
+
+1. på rettshjelpsforsikring når forsikringen gjelder tvister eller risikoer i forbindelse med eller i tilknytning til bruk av havgående fartøy
+2. på virksomhet som utøves av forsikringsgiveren og som dekker erstatningsansvar i forbindelse med den forsikredes forsvar eller representasjon i en eventuell forvaltningssak eller rettergang, i den utstrekning denne virksomheten samtidig utøves i forsikringsgiverens egen interesse i forbindelse med denne dekning
+3. når rettshjelpsvirksomhet utøves av en assistanseforsikrer i en annen EØS-stat enn den staten der den forsikrede vanligvis bor, når den er en del av en avtale som dekker bare den bistand som ytes til personer som kommer i vansker på reise, ved fravær fra sin bopel eller fra sitt faste oppholdssted. I dette tilfellet skal det fremgå tydelig av avtalen at den aktuelle dekningen er begrenset til omstendighetene nevnt i foregående punktum, og at den er underordnet assistansen.
 
 > Tilføyd ved forskrift [10 juni 2022 nr. 1002](forskrift/2022-06-10-1002).
 
@@ -140,7 +175,10 @@ Når forsikringssummen i en avtale er uttrykt i en bestemt valuta, skal forsikri
 
 Når forsikringssummen i en avtale ikke er uttrykt i en valuta, skal forsikringsgiveren innfri sine forpliktelser i valutaen i den staten der risikoen består. Forsikringsgiveren kan likevel velge den valutaen som premien er uttrykt i, dersom det finnes en rimelig begrunnelse for et slikt valg. Dette kan være tilfelle dersom det allerede når avtalen inngås, virker sannsynlig at en skade vil bli betalt i premievalutaen og ikke i valutaen i den staten der risikoen består.
 
-Forsikringsgiveren kan gå ut fra at den valutaen som forsikringssummen skal betales i, vil være enten den som erfaringsmessig brukes, eller, i mangel av slik erfaring, valutaen i den staten der vedkommende er etablert:for avtaler som dekker risikoer i klasse 4, 5, 6, 7, 11, 12 og 13 (bare produktansvar) i vedlegg I til direktiv [2009/138/EF](eu/32009l0138)for avtaler som dekker risikoer i andre klasser når forsikringssummen etter risikoens art skal betales i en annen valuta enn den som ville følge av ovennevnte regler.
+Forsikringsgiveren kan gå ut fra at den valutaen som forsikringssummen skal betales i, vil være enten den som erfaringsmessig brukes, eller, i mangel av slik erfaring, valutaen i den staten der vedkommende er etablert:
+
+1. for avtaler som dekker risikoer i klasse 4, 5, 6, 7, 11, 12 og 13 (bare produktansvar) i vedlegg I til direktiv [2009/138/EF](eu/32009l0138)
+2. for avtaler som dekker risikoer i andre klasser når forsikringssummen etter risikoens art skal betales i en annen valuta enn den som ville følge av ovennevnte regler.
 
 Når en skade er meldt til forsikringsgiveren og skal dekkes i en bestemt valuta som ikke er den som følger av første til tredje ledd, skal forsikringsgiverens forpliktelser dekkes i denne valutaen, særlig når den valutaen som erstatningen skal utbetales i, er fastsatt ved rettsavgjørelse eller ved avtale mellom forsikringsgiveren og den sikrede.
 
@@ -174,7 +212,10 @@ Bestemmelsene gitt i eller i medhold av [finanstilsynsloven § 7](lov/1956-12-07
 
 [Finanstilsynsloven § 7](lov/1956-12-07-1/§7) fjerde til syvende ledd gjelder for ansatte i Forbrukertilsynet og medlemmer av Markedsrådet så langt disse kan føre tilsyn med virksomhet som nevnt i [finanstilsynsloven § 1](lov/1956-12-07-1/§1) første ledd.
 
-Kompetansen som ellers tilhører Finanstilsynsdirektøren i [forskrift 15. september 2006 nr. 1067 om forbud mot handel i aksjer mv. og rapporteringsplikt for handel i finansielle instrumenter for tjenestemenn i Finanstilsynet § 2](forskrift/2006-09-15-1067/§2) til [§ 4](forskrift/2006-09-15-1067/§4),utøves av Forbrukertilsynets direktør for ansatte i Forbrukertilsynet som fører tilsyn som nevnt i første leddutøves av Markedsrådets leder for medlemmer av Markedsrådet som fører tilsyn som nevnt i første ledd.
+Kompetansen som ellers tilhører Finanstilsynsdirektøren i [forskrift 15. september 2006 nr. 1067 om forbud mot handel i aksjer mv. og rapporteringsplikt for handel i finansielle instrumenter for tjenestemenn i Finanstilsynet § 2](forskrift/2006-09-15-1067/§2) til [§ 4](forskrift/2006-09-15-1067/§4),
+
+1. utøves av Forbrukertilsynets direktør for ansatte i Forbrukertilsynet som fører tilsyn som nevnt i første ledd
+2. utøves av Markedsrådets leder for medlemmer av Markedsrådet som fører tilsyn som nevnt i første ledd.
 
 [Finanstilsynsloven § 7](lov/1956-12-07-1/§7) åttende ledd gjelder ikke for Forbrukertilsynet eller Markedsrådet.
 

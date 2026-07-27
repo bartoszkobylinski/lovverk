@@ -46,7 +46,15 @@ Rederiet skal registrere opplysninger om virksomheten hos Sjøfartsdirektoratet 
 
 ## § 6. Sikkerhetsstyringssystem
 
-Rederiet skal etablere, gjennomføre og videreutvikle et dokumenterbart sikkerhetsstyringssystem som minimum inneholder:beskrivelse av virksomheten og operasjonsområdet med eventuelle beskyttede områder der fartøy kan søke ly (nødhavner).beskrivelse av det enkelte fartøy, herunder tekniske spesifikasjoner, operasjonelle begrensninger som følge av fartøyets konstruksjon og utrustning, og antall personer fartøyet er konstruert for.rutiner for seilasplanlegging.rutiner ved bruk av følgefartøy, herunder kommunikasjon mellom fartøyenebeskrivelse av risikofaktorer for besetning og passasjerer når fartøyet er underveis eller ved bruk av redskaper eller utstyr om bord, og tiltak for å unngå uønskede hendelserrutiner for vedlikehold av fartøy og utstyr.beredskapsplan til bruk i ulike nødssituasjoner og rutiner for øvelser.
+Rederiet skal etablere, gjennomføre og videreutvikle et dokumenterbart sikkerhetsstyringssystem som minimum inneholder:
+
+1. beskrivelse av virksomheten og operasjonsområdet med eventuelle beskyttede områder der fartøy kan søke ly (nødhavner).
+2. beskrivelse av det enkelte fartøy, herunder tekniske spesifikasjoner, operasjonelle begrensninger som følge av fartøyets konstruksjon og utrustning, og antall personer fartøyet er konstruert for.
+3. rutiner for seilasplanlegging.
+4. rutiner ved bruk av følgefartøy, herunder kommunikasjon mellom fartøyene
+5. beskrivelse av risikofaktorer for besetning og passasjerer når fartøyet er underveis eller ved bruk av redskaper eller utstyr om bord, og tiltak for å unngå uønskede hendelser
+6. rutiner for vedlikehold av fartøy og utstyr.
+7. beredskapsplan til bruk i ulike nødssituasjoner og rutiner for øvelser.
 
 Rederiet skal ha en årlig, verifiserbar gjennomgang av sikkerhetsstyringssystemet for å vurdere om det fungerer i tråd med formålet og om det er behov for forbedringer.
 
@@ -92,7 +100,13 @@ Alle rom skal ha tilstrekkelig ventilering.
 
 ## § 11. Brannsikringskrav
 
-Treskipet skal være sikret mot brann slik atbrann eller eksplosjon ikke oppstårrisikoen for tap av liv som følge av brann reduseresrisikoen for skade på treskipet og miljøet som følge av brann reduseresbrann eller eksplosjon begrenses, kontrolleres og bekjempes der den oppstårevakueringen av passasjerer og besetning er lett gjennomførbar og tilstrekkelig.
+Treskipet skal være sikret mot brann slik at
+
+1. brann eller eksplosjon ikke oppstår
+2. risikoen for tap av liv som følge av brann reduseres
+3. risikoen for skade på treskipet og miljøet som følge av brann reduseres
+4. brann eller eksplosjon begrenses, kontrolleres og bekjempes der den oppstår
+5. evakueringen av passasjerer og besetning er lett gjennomførbar og tilstrekkelig.
 
 Rederiet skal kartlegge mulige tennkilder, risiko for brannutvikling og risiko for utvikling av røyk og giftige stoffer. På bakgrunn av kartleggingen skal rederiet iverksette nødvendige tiltak slik at branntilløp kan oppdages og bekjempes så tidlig som mulig.
 
@@ -104,7 +118,12 @@ Treskipet skal ha redningsflåter med en samlet kapasitet tilstrekkelig for det 
 
 Treskipet skal ha flyteplagg i passende størrelse til alle om bord. Dersom flyteplaggene ikke gir termisk beskyttelse skal treskipet ha termiske beskyttelsesdrakter (TPA) til alle om bord. Flyteplagg og termiske beskyttelsesdrakter skal oppbevares lett tilgjengelig om bord.
 
-For å håndtere en situasjon med menneske over bord skal treskipet, eller eventuell følgebåt, haen innretning som gjør det mulig å plukke opp en hjelpeløs person fra vanneten livbøye med flytende redningsline og en livbøye med selvtennende lysmanøvreringsegenskaper til å gå nær opp til og ta om bord personer på en sikker måte fra sjøen under alle forhold, ogen løfteinnretning som er plassert lett tilgjengelig, klar for øyeblikkelig bruk og dimensjonert for en statisk belastning på minimum 200 kg dersom fribordet er over 1 meter.
+For å håndtere en situasjon med menneske over bord skal treskipet, eller eventuell følgebåt, ha
+
+1. en innretning som gjør det mulig å plukke opp en hjelpeløs person fra vannet
+2. en livbøye med flytende redningsline og en livbøye med selvtennende lys
+3. manøvreringsegenskaper til å gå nær opp til og ta om bord personer på en sikker måte fra sjøen under alle forhold, og
+4. en løfteinnretning som er plassert lett tilgjengelig, klar for øyeblikkelig bruk og dimensjonert for en statisk belastning på minimum 200 kg dersom fribordet er over 1 meter.
 
 Redningsmidler skal vedlikeholdes i samsvar med produsentens anvisning. Redningsflåter skal vedlikeholdes av godkjent servicestasjon. Utstyret skal så langt mulig funksjonsprøves etter vedlikehold.
 
@@ -112,7 +131,11 @@ Redningsmidler skal vedlikeholdes i samsvar med produsentens anvisning. Rednings
 
 ## § 13. Kommunikasjonsutstyr
 
-Treskipet skal ha om bord følgende CE-merket utstyr:VHF-radioutstyr med DSC. Håndholdt radioutstyr kan brukes i fartsområde 3 og mindre.søk og redningstransponder (SARD)minst tre fallskjermlys (nødraketter).
+Treskipet skal ha om bord følgende CE-merket utstyr:
+
+1. VHF-radioutstyr med DSC. Håndholdt radioutstyr kan brukes i fartsområde 3 og mindre.
+2. søk og redningstransponder (SARD)
+3. minst tre fallskjermlys (nødraketter).
 
 Elektriske kraftkilder som driver utstyr nevnt i første ledd skal ha kapasitet til å drive utstyret under hele reisen pluss minst 6 timer.
 
@@ -132,7 +155,13 @@ Skipsfører skal overvåke treskipets kurs og posisjon for å sikre at treskipet
 
 ## § 15. Føring av dagbok
 
-Skipsfører skal føre dagbok med opplysninger om hver reise og om hendelser underveis som kan være til nytte for myndigheter eller andre med rettslig interesse i reisen, herunder om:avgangs- og ankomsttidvær- og bølgeforholdøvelserhendelsesforløp ved ulykker og personskadernavn på skipsfører og besetningsmedlemmer.
+Skipsfører skal føre dagbok med opplysninger om hver reise og om hendelser underveis som kan være til nytte for myndigheter eller andre med rettslig interesse i reisen, herunder om:
+
+1. avgangs- og ankomsttid
+2. vær- og bølgeforhold
+3. øvelser
+4. hendelsesforløp ved ulykker og personskader
+5. navn på skipsfører og besetningsmedlemmer.
 
 ## § 16. Førstehjelpsutstyr
 
@@ -140,7 +169,10 @@ Treskip skal ha nødvendig førstehjelpsutstyr om bord.
 
 ## § 17. Alarminstruks og øvelser
 
-Det skal finnes klare instruksjoner for besetningen som skal følges dersom en nødssituasjon oppstår. Hvert besetningsmedlem skal delta i øvelser ibruk av redningsmidler og brannslukningsutstyr hver månedførstehjelp hver sesong.
+Det skal finnes klare instruksjoner for besetningen som skal følges dersom en nødssituasjon oppstår. Hvert besetningsmedlem skal delta i øvelser i
+
+1. bruk av redningsmidler og brannslukningsutstyr hver måned
+2. førstehjelp hver sesong.
 
 Rederiet skal utarbeide en opplæringshåndbok som på en lett forståelig måte gir instrukser og informasjon om redningsredskapene som finnes om bord, og om de beste overlevelsesmetodene.
 
@@ -152,11 +184,22 @@ Opplysningene som kreves etter første ledd skal gjøres tilgjengelig for rednin
 
 ## § 19. Sikkerhetsorientering
 
-Før avgang skal de ombordværende få en sikkerhetsorientering tilpasset turens formål på et språk de forstår. Orienteringen som skal som minimum gi informasjon om:hvordan passasjerene skal forholde seg i en nødssituasjonplassering og bruk av sikkerhetsutstyrsærskilte risikoer.
+Før avgang skal de ombordværende få en sikkerhetsorientering tilpasset turens formål på et språk de forstår. Orienteringen som skal som minimum gi informasjon om:
+
+1. hvordan passasjerene skal forholde seg i en nødssituasjon
+2. plassering og bruk av sikkerhetsutstyr
+3. særskilte risikoer.
 
 ## § 20. Kvalifikasjonskrav og bemanning
 
-Skipsfører skal være minst 20 år og hafritidsskippersertifikat (D5L)helseerklæring for fritidsskipper som skal fornyes hvert tredje årSRC-sertifikatminst 150 timer dokumentert fartstid på tilsvarende skipstypebegrenset sikkerhetskursgjennomgått sikkerhetsfamiliarisering og intern sikkerhetsopplæring som sikrer forsvarlig håndtering av passasjerer i nødssituasjoner.
+Skipsfører skal være minst 20 år og ha
+
+1. fritidsskippersertifikat (D5L)
+2. helseerklæring for fritidsskipper som skal fornyes hvert tredje år
+3. SRC-sertifikat
+4. minst 150 timer dokumentert fartstid på tilsvarende skipstype
+5. begrenset sikkerhetskurs
+6. gjennomgått sikkerhetsfamiliarisering og intern sikkerhetsopplæring som sikrer forsvarlig håndtering av passasjerer i nødssituasjoner.
 
 Øvrige besetningsmedlemmer skal oppfylle kravene i første ledd bokstav f.
 
@@ -168,7 +211,10 @@ Rederiet skal fastsette en bemanning som er tilstrekkelig til å ivareta forsvar
 
 ## § 21. Dispensasjon
 
-Sjøfartsdirektoratet kan unnta et treskip fra ett eller flere av kravene i forskriften dersom rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan unnta et treskip fra ett eller flere av kravene i forskriften dersom rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 ## § 22. Ikrafttredelse
 

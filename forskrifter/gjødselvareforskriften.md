@@ -16,7 +16,7 @@ xml_hash: "dd5847ee2b138ab734406be1cd6b2e99c54d5a2c85db6a4db48f53bb4e28bf9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,13 +31,58 @@ Formålet med forskriften er å sikre kvalitet og tilrettelegge for bruk av sirk
 
 ### § 2. Virkeområde
 
-Forskriften gjelder for virksomheter som produserer, importerer, omsetter eller på annen måte mottar råvarer og gjødselvarer for videre omsetning eller til bruk i egen virksomhet. Følgende råvarer og gjødselvarer omfattes:gjødselvarer av organisk opphavuorganiske dyrkingsmedieruorganiske jordforbedringsmidlerbiostimulantergjødselvaretilsetning til bruk i gjødselvarer nevnt i bokstav a til dråvarer til produksjon av gjødselvarer nevnt i bokstav a til d.
+Forskriften gjelder for virksomheter som produserer, importerer, omsetter eller på annen måte mottar råvarer og gjødselvarer for videre omsetning eller til bruk i egen virksomhet. Følgende råvarer og gjødselvarer omfattes:
 
-Følgende råvarer og gjødselvarer omfattes ikke av forskriften:ubehandlet husdyrgjødsel fra dyreholdubehandlet husdyrgjødsel fra små slakterianlegg og gårdsslakterier som kun mottar husdyr fra samme fylkeubehandlet husdyrgjødsel fra hestearrangement uten internasjonal deltagelsehusdyrgjødsel nevnt i bokstav a og b som er behandlet i biogass-, komposterings-, tørkeprosess eller lignende fra jordbruksforetak som behandler egen husdyrgjødsel til bruk i egen planteproduksjonkjøkken- og matavfall, landbruksavfall og plantemateriale med opprinnelse i egen virksomhet for bruk til egen plantedyrking både når det er ubehandlet og når det er behandlet med andre metoder enn forbrenning og pyrolyseublandet jordfolier og matter, som for eksempel biofolier, fibermatter og erosjonsmatterferdige gjødselvarer som blandes med hverandre eller med gjødselvarer som ikke er omfattet av forskriften når blandingen er til bruk i egen virksomhetEU-gjødselvarer som omfattes av [forskrift 6. mars 2024 nr. 538 om EU-gjødselvarer](forskrift/2024-03-06-538)gjødselvarer brukt i forsøk som skjer ved forskningsinstitusjoner som ledd i forskning.
+1. gjødselvarer av organisk opphav
+2. uorganiske dyrkingsmedier
+3. uorganiske jordforbedringsmidler
+4. biostimulanter
+5. gjødselvaretilsetning til bruk i gjødselvarer nevnt i bokstav a til d
+6. råvarer til produksjon av gjødselvarer nevnt i bokstav a til d.
+
+Følgende råvarer og gjødselvarer omfattes ikke av forskriften:
+
+1. ubehandlet husdyrgjødsel fra dyrehold
+2. ubehandlet husdyrgjødsel fra små slakterianlegg og gårdsslakterier som kun mottar husdyr fra samme fylke
+3. ubehandlet husdyrgjødsel fra hestearrangement uten internasjonal deltagelse
+4. husdyrgjødsel nevnt i bokstav a og b som er behandlet i biogass-, komposterings-, tørkeprosess eller lignende fra jordbruksforetak som behandler egen husdyrgjødsel til bruk i egen planteproduksjon
+5. kjøkken- og matavfall, landbruksavfall og plantemateriale med opprinnelse i egen virksomhet for bruk til egen plantedyrking både når det er ubehandlet og når det er behandlet med andre metoder enn forbrenning og pyrolyse
+6. ublandet jord
+7. folier og matter, som for eksempel biofolier, fibermatter og erosjonsmatter
+8. ferdige gjødselvarer som blandes med hverandre eller med gjødselvarer som ikke er omfattet av forskriften når blandingen er til bruk i egen virksomhet
+9. EU-gjødselvarer som omfattes av [forskrift 6. mars 2024 nr. 538 om EU-gjødselvarer](forskrift/2024-03-06-538)
+10. gjødselvarer brukt i forsøk som skjer ved forskningsinstitusjoner som ledd i forskning.
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med*animalsk biprodukt:* animalske biprodukter slik dette er definert i forordning om animalske biprodukter artikkel 3 nr. 1, jf. [animaliebiproduktforskriften § 2 første ledd](forskrift/2016-09-14-1064/§2/ledd/1)*anleggsjord:* dyrkingsmedium som brukes ved anlegging av hager, parker, grøntarealer og lignende arealer*avløpsslam:* slam, filtermedium og lignende materialer fra rensing av sanitært og kommunalt avløpsvann, unntatt ristgods*biokull:* et karbonrikt produkt framstilt ved termokjemisk behandling av biomasse under oksygenbegrensede forhold*biorest/råtnerest:* restprodukt fra anaerob nedbryting av organisk materiale*biostimulant:* produkt som har som funksjon å stimulere naturlige prosesser slik at planters næringsopptak, næringseffektivitet, toleranse for abiotiske faktorer eller kvaliteten av avlingen blir bedret uavhengig av et eventuelt næringsinnhold i materialet. Materialet kan tilføres planten eller rhizosfæren*dyrkingsmedium:* grunnsubstanser av naturlige eller kunstige råvarer som enkeltvis eller i blanding, uten eller med tilsatte næringsstoffer eller annen tilsetning, brukes som et voksested for planter og matsopp*fiskeslam:* slam fra akvakulturanlegg som består av fôrrester og avføring, uten innhold av død fisk*gjødsel:* produkt som har som hovedoppgave å tilføre næringsstoffer til planter og matsopp og som i bruksmengde og mengde næringsstoff egner seg for årlig tilførsel*gjødselvare:* en samlebetegnelse for ferdige produkt som uten å behandles eller blandes videre, kan brukes til å tilføre næring, til dyrking, som dekkingsmateriale eller på annen måte for å påvirke planters eller matsopps vekstvilkår, og gjødselvaretilsetninger som selges som egne produkter*gjødselvarekategori:* en av følgende kategorier: Organisk gjødsel*,* organisk-mineralsk gjødsel, organisk jordforbedringsmiddel, uorganiske jordforbedringsmiddel, organisk dyrkingsmedium, uorganisk dyrkingsmedium, organisk jorddekkingsmiddel, biostimulant og gjødselvaretilsetning*gjødselvaretilsetninger:* stoffer og organismer som brukes for å forbedre produktegenskaper og produksjonsprosesser. Dette omfatter stoffer og organismer som brukes i mindre mengder, for eksempel for å endre frigivelsesmønstre av næringsstoffer, som overflatebehandlingsmidler, for å regulere vannhusholdningen, for å redusere lukt eller for å forbedre prosessen i komposterings- og biogassprosesser*hygienisering:* behandling som har som hovedmål å redusere faren for overføring av smittestoffer til mennesker, dyr eller planter ved bruk eller annen håndtering av det organiske materialet*husdyrgjødsel:* husdyrgjødsel som definert i forordning om animalske biprodukter artikkel 3 nr. 20 og artikkel 3 nr. 6, jf. [animaliebiproduktforskriften § 2 første ledd](forskrift/2016-09-14-1064/§2/ledd/1). Husdyrgjødsel kan også være iblandet rimelige mengder fôr, strø og vaskevann som naturlig hører med i husdyrholdet eller gjødselhåndteringa*jord:* naturlige løsavleiringer av uorganisk og/eller organisk materiale som har vært utsatt for flere års biologisk aktivitet*jorddekkingsmiddel:* næringsfattig produkt som legges i et lag oppå jord eller dyrkingsmedium for å bedre dens kjemiske, fysiske eller biologiske tilstand, hindre vekst av ugress eller gi prydverdi*jordforbedringsmiddel:* produkt som har som hovedoppgave å påvirke jordas eller dyrkingsmediets kjemiske, fysiske eller biologiske tilstand og som dermed også virker indirekte på planteveksten*landbruksavfall:* fôr- og planterester, rester av dyrkingsmedier og avfall fra matsopproduksjon som oppstår i forbindelse med landbruksvirksomhet.Definisjonen omfatter ikke forbrenningsprodukter.*organisk gjødsel:* gjødsel som utelukkende er av animalsk eller vegetabilsk opprinnelse eller en blanding av disse*organisk-mineralsk gjødsel:* gjødsel som består av produkter av animalsk eller vegetabilsk opprinnelse, eller en blanding av disse, og mineralgjødsel*produsere:* å behandle eller foredle gjennom kompostering, utråtning, maling, fresing, oppvarming, tørking, granulering, blanding med andre materialer, pakking, pyrolyse, forbrenning og annen lignende behandling eller foredling*produsent:* enhver fysisk eller juridisk person som produserer en gjødselvare eller har en gjødselvare designet eller produsert, og markedsfører denne gjødselvaren under sitt navn eller varemerke*råslam:* avløpsslam som ikke er hygienisert eller stabilisert*uorganisk dyrkingsmedium:* dyrkingsmedium fremstilt av uorganiske materialer som for eksempel sand, steinull og ekspanderte bergartsmineraler.
+I denne forskriften menes med
+
+1. *animalsk biprodukt:* animalske biprodukter slik dette er definert i forordning om animalske biprodukter artikkel 3 nr. 1, jf. [animaliebiproduktforskriften § 2 første ledd](forskrift/2016-09-14-1064/§2/ledd/1)
+2. *anleggsjord:* dyrkingsmedium som brukes ved anlegging av hager, parker, grøntarealer og lignende arealer
+3. *avløpsslam:* slam, filtermedium og lignende materialer fra rensing av sanitært og kommunalt avløpsvann, unntatt ristgods
+4. *biokull:* et karbonrikt produkt framstilt ved termokjemisk behandling av biomasse under oksygenbegrensede forhold
+5. *biorest/råtnerest:* restprodukt fra anaerob nedbryting av organisk materiale
+6. *biostimulant:* produkt som har som funksjon å stimulere naturlige prosesser slik at planters næringsopptak, næringseffektivitet, toleranse for abiotiske faktorer eller kvaliteten av avlingen blir bedret uavhengig av et eventuelt næringsinnhold i materialet. Materialet kan tilføres planten eller rhizosfæren
+7. *dyrkingsmedium:* grunnsubstanser av naturlige eller kunstige råvarer som enkeltvis eller i blanding, uten eller med tilsatte næringsstoffer eller annen tilsetning, brukes som et voksested for planter og matsopp
+8. *fiskeslam:* slam fra akvakulturanlegg som består av fôrrester og avføring, uten innhold av død fisk
+9. *gjødsel:* produkt som har som hovedoppgave å tilføre næringsstoffer til planter og matsopp og som i bruksmengde og mengde næringsstoff egner seg for årlig tilførsel
+10. *gjødselvare:* en samlebetegnelse for ferdige produkt som uten å behandles eller blandes videre, kan brukes til å tilføre næring, til dyrking, som dekkingsmateriale eller på annen måte for å påvirke planters eller matsopps vekstvilkår, og gjødselvaretilsetninger som selges som egne produkter
+11. *gjødselvarekategori:* en av følgende kategorier: Organisk gjødsel*,* organisk-mineralsk gjødsel, organisk jordforbedringsmiddel, uorganiske jordforbedringsmiddel, organisk dyrkingsmedium, uorganisk dyrkingsmedium, organisk jorddekkingsmiddel, biostimulant og gjødselvaretilsetning
+12. *gjødselvaretilsetninger:* stoffer og organismer som brukes for å forbedre produktegenskaper og produksjonsprosesser. Dette omfatter stoffer og organismer som brukes i mindre mengder, for eksempel for å endre frigivelsesmønstre av næringsstoffer, som overflatebehandlingsmidler, for å regulere vannhusholdningen, for å redusere lukt eller for å forbedre prosessen i komposterings- og biogassprosesser
+13. *hygienisering:* behandling som har som hovedmål å redusere faren for overføring av smittestoffer til mennesker, dyr eller planter ved bruk eller annen håndtering av det organiske materialet
+14. *husdyrgjødsel:* husdyrgjødsel som definert i forordning om animalske biprodukter artikkel 3 nr. 20 og artikkel 3 nr. 6, jf. [animaliebiproduktforskriften § 2 første ledd](forskrift/2016-09-14-1064/§2/ledd/1). Husdyrgjødsel kan også være iblandet rimelige mengder fôr, strø og vaskevann som naturlig hører med i husdyrholdet eller gjødselhåndteringa
+15. *jord:* naturlige løsavleiringer av uorganisk og/eller organisk materiale som har vært utsatt for flere års biologisk aktivitet
+16. *jorddekkingsmiddel:* næringsfattig produkt som legges i et lag oppå jord eller dyrkingsmedium for å bedre dens kjemiske, fysiske eller biologiske tilstand, hindre vekst av ugress eller gi prydverdi
+17. *jordforbedringsmiddel:* produkt som har som hovedoppgave å påvirke jordas eller dyrkingsmediets kjemiske, fysiske eller biologiske tilstand og som dermed også virker indirekte på planteveksten
+18. *landbruksavfall:* fôr- og planterester, rester av dyrkingsmedier og avfall fra matsopproduksjon som oppstår i forbindelse med landbruksvirksomhet.
+
+    Definisjonen omfatter ikke forbrenningsprodukter.
+19. *organisk gjødsel:* gjødsel som utelukkende er av animalsk eller vegetabilsk opprinnelse eller en blanding av disse
+20. *organisk-mineralsk gjødsel:* gjødsel som består av produkter av animalsk eller vegetabilsk opprinnelse, eller en blanding av disse, og mineralgjødsel
+21. *produsere:* å behandle eller foredle gjennom kompostering, utråtning, maling, fresing, oppvarming, tørking, granulering, blanding med andre materialer, pakking, pyrolyse, forbrenning og annen lignende behandling eller foredling
+22. *produsent:* enhver fysisk eller juridisk person som produserer en gjødselvare eller har en gjødselvare designet eller produsert, og markedsfører denne gjødselvaren under sitt navn eller varemerke
+23. *råslam:* avløpsslam som ikke er hygienisert eller stabilisert
+24. *uorganisk dyrkingsmedium:* dyrkingsmedium fremstilt av uorganiske materialer som for eksempel sand, steinull og ekspanderte bergartsmineraler.
 
 ## Kapittel II. Generelle krav til virksomhetene
 
@@ -47,13 +92,25 @@ Produsenter og de som omsetter eller importerer gjødselvarer skal registreres f
 
 Dersom en virksomhet har flere underenheter med eget organisasjonsnummer i Enhetsregisteret, skal hver underenhet som driver aktiviteter etter første ledd registreres.
 
-Virksomheter som bare driver følgende aktiviteter, er unntatt fra registreringsplikten:omsetning i forhandlerledd av ferdig emballerte og merkede produkterproduksjon, omsetning eller import av produkter som bare inneholder halm, bark, kokosfiber, treflis og torv, når disse ikke er behandlet med forbrenning eller pyrolyseoppsamling av råslam som leveres til andre virksomheter for hygienisering og stabilisering.
+Virksomheter som bare driver følgende aktiviteter, er unntatt fra registreringsplikten:
+
+1. omsetning i forhandlerledd av ferdig emballerte og merkede produkter
+2. produksjon, omsetning eller import av produkter som bare inneholder halm, bark, kokosfiber, treflis og torv, når disse ikke er behandlet med forbrenning eller pyrolyse
+3. oppsamling av råslam som leveres til andre virksomheter for hygienisering og stabilisering.
 
 > Endret ved forskrift [11 feb 2026 nr. 233](forskrift/2026-02-11-233) (i kraft 19 feb 2026).
 
 ### § 5. Innholdet i registeringen
 
-Registreringen skal gjøres på den måten Mattilsynet bestemmer og skal inneholde minst følgende opplysninger:virksomhetens navn, adresse og organisasjonsnummerkontaktperson i virksomhetenvirksomhetens aktiviteter og omfanggjødselvarekategoriene eller råvarene virksomheten produserer, omsetter eller importererråvarene som inngår i produktenehygieniseringsmetodene som benyttesdatoen for oppstart, endring og opphør av virksomheten.
+Registreringen skal gjøres på den måten Mattilsynet bestemmer og skal inneholde minst følgende opplysninger:
+
+1. virksomhetens navn, adresse og organisasjonsnummer
+2. kontaktperson i virksomheten
+3. virksomhetens aktiviteter og omfang
+4. gjødselvarekategoriene eller råvarene virksomheten produserer, omsetter eller importerer
+5. råvarene som inngår i produktene
+6. hygieniseringsmetodene som benyttes
+7. datoen for oppstart, endring og opphør av virksomheten.
 
 Mattilsynet kan kreve at registrerte opplysninger dokumenteres. Vesentlige endringer i virksomheten, herunder opphør av virksomheten, eller i registrerte opplysninger skal registreres senest en måned etter at endringene har funnet sted.
 
@@ -61,13 +118,24 @@ Mattilsynet kan kreve at registrerte opplysninger dokumenteres. Vesentlige endri
 
 Registreringspliktige virksomheter skal innføre og utøve internkontroll.
 
-Internkontrollplikten innebærer at virksomhetene skal:ha oversikt over krav i [matloven](lov/2003-12-19-124) og forskriften som gjelder for virksomhetenha oversikt over organisering og ansvarsforholdkartlegge risiko for overtredelse av regelverket ut fra virksomhetens aktiviteter og iverksette tiltak for å redusere risikoenha rutiner for å avdekke, rette opp og hindre gjentakelser av overtredelserregelmessig foreta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
+Internkontrollplikten innebærer at virksomhetene skal:
+
+1. ha oversikt over krav i [matloven](lov/2003-12-19-124) og forskriften som gjelder for virksomheten
+2. ha oversikt over organisering og ansvarsforhold
+3. kartlegge risiko for overtredelse av regelverket ut fra virksomhetens aktiviteter og iverksette tiltak for å redusere risikoen
+4. ha rutiner for å avdekke, rette opp og hindre gjentakelser av overtredelser
+5. regelmessig foreta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
 
 Tiltakene etter andre ledd skal dokumenteres skriftlig i den form og det omfang som er nødvendig på bakgrunn av virksomhetens art, omfang, aktiviteter, risikoforhold og størrelse. Dokumentasjonen skal være tilgjengelig for Mattilsynet.
 
 ### § 7. Prøvetaking
 
-Følgende generelle krav gjelder ved prøvetaking:Det skal tas ut representative prøver av produkter og råvarer.Prøvene skal tas av enheter som vurderes å være ensartede.Prøvetakingshyppigheten skal gjenspeile risikoen for overtredelser av grenseverdier og risikoen for avvik fra deklarerte verdier.Virksomheter som tar ut prøver av behandlet avløpsslam kan ikke ta ut prøver sjeldnere enn hver sjette måned.
+Følgende generelle krav gjelder ved prøvetaking:
+
+1. Det skal tas ut representative prøver av produkter og råvarer.
+2. Prøvene skal tas av enheter som vurderes å være ensartede.
+3. Prøvetakingshyppigheten skal gjenspeile risikoen for overtredelser av grenseverdier og risikoen for avvik fra deklarerte verdier.
+4. Virksomheter som tar ut prøver av behandlet avløpsslam kan ikke ta ut prøver sjeldnere enn hver sjette måned.
 
 ### § 8. Analysemetoder
 
@@ -77,15 +145,28 @@ Der det ikke er angitt særskilte analysemetoder i kravene til merking i [§§ 3
 
 ### § 9. Lagring av gjødselvarer
 
-Virksomheter som produserer, omsetter eller importerer gjødselvarer skal lagre produktene på en slik måte at:det ikke skjer en kontaminering med eller oppblomstring av sykdomsframkallende organismer som kan være en risiko for dyre- eller folkehelsendet ikke skjer en kontaminering av produktene med tungmetaller, organiske miljøgifter eller planteskadegjørerekvaliteten ikke reduseres på grunn av fukt eller mikrobiologisk påvirkningsammensetningen ikke forandres slik at produktene ikke lenger er i samsvar med opplysninger gitt i varedeklarasjonen.
+Virksomheter som produserer, omsetter eller importerer gjødselvarer skal lagre produktene på en slik måte at:
+
+1. det ikke skjer en kontaminering med eller oppblomstring av sykdomsframkallende organismer som kan være en risiko for dyre- eller folkehelsen
+2. det ikke skjer en kontaminering av produktene med tungmetaller, organiske miljøgifter eller planteskadegjørere
+3. kvaliteten ikke reduseres på grunn av fukt eller mikrobiologisk påvirkning
+4. sammensetningen ikke forandres slik at produktene ikke lenger er i samsvar med opplysninger gitt i varedeklarasjonen.
 
 ### § 10. Sporbarhet
 
 Virksomheter som produserer, omsetter eller importerer gjødselvarer skal føre journal over hvilke virksomheter gjødselvarene, råvarene og tilsetningene er mottatt fra og hvilke virksomheter de er omsatt videre til.
 
-Journalen skal inneholde følgende opplysninger:navn og adresse til leverandøren, dato for leveransen og mottatt mengdenavn og adresse til mottakeren, dato for leveransen og omsatt mengdefor ferdige gjødselvarer; tørrstoffprosent.
+Journalen skal inneholde følgende opplysninger:
 
-Plikten til å journalføre opplysninger gjelder ikke opplysninger om omsetning til brukere av gjødselvarer, med unntak av følgende tilfeller:omsetning av avløpsslam, herunder avløpsslambasert gjødsel med særskilte bruksvilkår til jordbruksforetakomsetning av biorest og fiskeslam i bulkformomsetning av andre gjødselvarer i bulkform i tilfeller der fosformengden utgjør 75 kg eller mer per mottaker og år.
+1. navn og adresse til leverandøren, dato for leveransen og mottatt mengde
+2. navn og adresse til mottakeren, dato for leveransen og omsatt mengde
+3. for ferdige gjødselvarer; tørrstoffprosent.
+
+Plikten til å journalføre opplysninger gjelder ikke opplysninger om omsetning til brukere av gjødselvarer, med unntak av følgende tilfeller:
+
+1. omsetning av avløpsslam, herunder avløpsslambasert gjødsel med særskilte bruksvilkår til jordbruksforetak
+2. omsetning av biorest og fiskeslam i bulkform
+3. omsetning av andre gjødselvarer i bulkform i tilfeller der fosformengden utgjør 75 kg eller mer per mottaker og år.
 
 Opplysningene i journalen skal oppbevares i minst ti år.
 
@@ -95,11 +176,20 @@ Mattilsynet skal etter søknad gi virksomheter godkjenning for bruk av varebeteg
 
 Varebetegnelsen «sterilisert avløpsslam» kan bare brukes på gjødselvarer med avløpsslam som er behandlet med termisk hydrolyse eller andre hygieniseringsmetoder som innebærer at materialet blir sterilisert.
 
-Varebetegnelsen «avløpsslambasert gjødsel med særskilte bruksvilkår» kan bare brukes på avløpsslamprodukter som:er egnet for årlig gjødsling der årlig bruksmengde av avløpsslamkomponenten er mindre enn 100 kg tørrstoff per dekarhar et innhold av tilgjengelig nitrogen, fosfor og kalium som er balansert og tilpasset vekstenes årlige agronomiske behover i fast form og er egnet for jevn spredning på arealet som skal gjødsleser behandlet med metoder der temperaturen er minst 55 grader celsius i hygieniseringsperioden.
+Varebetegnelsen «avløpsslambasert gjødsel med særskilte bruksvilkår» kan bare brukes på avløpsslamprodukter som:
+
+1. er egnet for årlig gjødsling der årlig bruksmengde av avløpsslamkomponenten er mindre enn 100 kg tørrstoff per dekar
+2. har et innhold av tilgjengelig nitrogen, fosfor og kalium som er balansert og tilpasset vekstenes årlige agronomiske behov
+3. er i fast form og er egnet for jevn spredning på arealet som skal gjødsles
+4. er behandlet med metoder der temperaturen er minst 55 grader celsius i hygieniseringsperioden.
 
 ### § 12. Søknader om godkjenning for bruk av varebetegnelse etter § 11
 
-Søknader om godkjenning for bruk av varebetegnelsen etter [§ 11](forskrift/2025-01-29-116/§11) skal leveres på den måten Mattilsynet bestemmer og skal minst inneholde følgende opplysninger:virksomhetens navn og adressekontaktperson i virksomhetenopplysninger som er nødvendige for å dokumentere at avløpsslamproduktet oppfyller de aktuelle vilkårene i [§ 11](forskrift/2025-01-29-116/§11).
+Søknader om godkjenning for bruk av varebetegnelsen etter [§ 11](forskrift/2025-01-29-116/§11) skal leveres på den måten Mattilsynet bestemmer og skal minst inneholde følgende opplysninger:
+
+1. virksomhetens navn og adresse
+2. kontaktperson i virksomheten
+3. opplysninger som er nødvendige for å dokumentere at avløpsslamproduktet oppfyller de aktuelle vilkårene i [§ 11](forskrift/2025-01-29-116/§11).
 
 ### § 13. Rapportering om avløpsslam m.m.
 
@@ -127,7 +217,13 @@ Mattilsynet kan fastsette endringer i [vedlegg 1](forskrift/2025-01-29-116/vedle
 
 ### § 16. Søknader om tillatelse til bruk av råvarer
 
-Søknader om tillatelse til bruk av råvarer skal leveres på den måten Mattilsynet bestemmer og skal minst inneholde følgende opplysninger:opplysninger om søkeren med kontaktinformasjonopplysninger om produsenten av råvarenopplysninger om tiltenkt bruk av råvarendokumentasjon av råvarens nytteverdi og en risikovurdering av råvarenrelevante analyseresultater.
+Søknader om tillatelse til bruk av råvarer skal leveres på den måten Mattilsynet bestemmer og skal minst inneholde følgende opplysninger:
+
+1. opplysninger om søkeren med kontaktinformasjon
+2. opplysninger om produsenten av råvaren
+3. opplysninger om tiltenkt bruk av råvaren
+4. dokumentasjon av råvarens nytteverdi og en risikovurdering av råvaren
+5. relevante analyseresultater.
 
 ### § 17. Gjødselvaretilsetninger
 
@@ -143,13 +239,26 @@ Gjødselvarer som kan medføre risiko for overføring av sykdommer til dyr eller
 
 For animalske biprodukter gjelder kravene i denne paragrafen bare i de tilfeller kravene har som formål å forebygge spredning av planteskadegjørere.
 
-Gjødselvarene skal oppfylle følgende krav:det skal ikke være funn av *Salmonella* i prøve av 25 gramumiddelbart etter hygienisering skal det være et lavere innhold av *E. coli* enn 1000 koloniformende enheter per gram våtvektdet skal være mindre enn to spiredyktige frø eller andre plantedeler som kan gi opphav til nye planter per liter ferdig vare.
+Gjødselvarene skal oppfylle følgende krav:
+
+1. det skal ikke være funn av *Salmonella* i prøve av 25 gram
+2. umiddelbart etter hygienisering skal det være et lavere innhold av *E. coli* enn 1000 koloniformende enheter per gram våtvekt
+3. det skal være mindre enn to spiredyktige frø eller andre plantedeler som kan gi opphav til nye planter per liter ferdig vare.
 
 Husdyrgjødsel behandlet i et biogassanlegg som er unntatt fra kravene til hygieniseringsenhet etter [animaliebiproduktforskriften](forskrift/2016-09-14-1064), er omfattet av denne paragrafen bare dersom husdyrgjødselen har opphav fra hestearrangement med internasjonal deltagelse eller har opphav fra andre slakterier enn gårdsslakterier og små slakterianlegg som kun mottar dyr fra samme fylke.
 
 ### § 19. Validering av hygieniseringsmetoder
 
-Valideringen av nye hygieniseringsmetoder skal:gjennom vitenskapelig dokumentasjon under relevante forsøksbetingelser vise at faren for overføring av smittestoffer til mennesker, dyr eller planter ved bruk eller annen håndtering av det organiske materialet er redusert til et akseptabelt nivåvise ved poding at innholdet av indikatororganisme *Ascaris suum* er redusert til nullvise ved poding at metoden gir minimum 99,9 prosent (5 log10) inaktivering av *Salmonella Senftenberg* (775W, H2S-negative)vise at innholdet av *E. coli* er redusert til 1000 CFU per gram våtvekt for gjødselvarer der det er relevantvise ved poding at antallet infektive cyster av potetcystenematode er redusert til null for gjødselvarer der dette er relevantidentifisere hvor i behandlingsprosessen hygieniseringen skjeridentifisere hvilke prosessparametere som er kritiske for hygieniseringenbestemme kritiske grenser for aktuelle prosessparametere i hygieniserende behandlingstrinn.
+Valideringen av nye hygieniseringsmetoder skal:
+
+1. gjennom vitenskapelig dokumentasjon under relevante forsøksbetingelser vise at faren for overføring av smittestoffer til mennesker, dyr eller planter ved bruk eller annen håndtering av det organiske materialet er redusert til et akseptabelt nivå
+2. vise ved poding at innholdet av indikatororganisme *Ascaris suum* er redusert til null
+3. vise ved poding at metoden gir minimum 99,9 prosent (5 log10) inaktivering av *Salmonella Senftenberg* (775W, H2S-negative)
+4. vise at innholdet av *E. coli* er redusert til 1000 CFU per gram våtvekt for gjødselvarer der det er relevant
+5. vise ved poding at antallet infektive cyster av potetcystenematode er redusert til null for gjødselvarer der dette er relevant
+6. identifisere hvor i behandlingsprosessen hygieniseringen skjer
+7. identifisere hvilke prosessparametere som er kritiske for hygieniseringen
+8. bestemme kritiske grenser for aktuelle prosessparametere i hygieniserende behandlingstrinn.
 
 I tilfeller hvor kravene i bokstav b, c, d og e ikke er relevante, kan det identifiseres andre egnende indikatororganismer. Hygieniseringsmetoden må redusere disse til et akseptabelt nivå.
 
@@ -173,7 +282,11 @@ Gjødselvarer skal klassifiseres i tungmetallklasser. Følgende grenseverdier gj
 | Kobber | 50 | 150 | 650 | 1000 |
 | Krom | 50 | 70 | 100 | 150 |
 
-Første ledd gjelder tilsvarende for klassifisering av råvarene som inngår i produktene. Følgende krav gjelder for tungmetallinnholdet i råvarene:Råvarer som inngår i gjødselvarer i tungmetallklasse 0 kan ikke ha et tungmetallinnhold som overskrider grenseverdiene for klasse I.Råvarer som inngår i gjødselvarer i tungmetallklasse I og II kan ikke ha et tungmetallinnhold som overskrider grenseverdien for klasse II.Råvarer som inngår i gjødselvarer i tungmetallklasse III kan ikke ha et tungmetallinnhold som overskrider grenseverdien for klasse III.
+Første ledd gjelder tilsvarende for klassifisering av råvarene som inngår i produktene. Følgende krav gjelder for tungmetallinnholdet i råvarene:
+
+1. Råvarer som inngår i gjødselvarer i tungmetallklasse 0 kan ikke ha et tungmetallinnhold som overskrider grenseverdiene for klasse I.
+2. Råvarer som inngår i gjødselvarer i tungmetallklasse I og II kan ikke ha et tungmetallinnhold som overskrider grenseverdien for klasse II.
+3. Råvarer som inngår i gjødselvarer i tungmetallklasse III kan ikke ha et tungmetallinnhold som overskrider grenseverdien for klasse III.
 
 Husdyrgjødsel og aske i tungmetallklasse III kan likevel inngå i gjødselvarer i klasse I eller II.
 
@@ -216,7 +329,10 @@ Der jord inngår som en av flere råvarer i anleggsjord eller i andre gjødselva
 
 ### § 24. Aktsomhetsplikt for innhold av uønskede stoffer
 
-Virksomhetene skal vise aktsomhet og treffe rimelige tiltak for åsikre at de har tilstrekkelig kunnskap om innholdet av organiske miljøgifter, plantevernmiddelrester, legemiddelrester og andre helse- eller miljøskadelige stoffer i råvarer og gjødselvarerforebygge, begrense eller forhindre at råvarer og gjødselvarer har et slikt innhold av stoffer som er nevnt i bokstav a at dette kan medføre skade på helse eller miljø ved bruk.
+Virksomhetene skal vise aktsomhet og treffe rimelige tiltak for å
+
+1. sikre at de har tilstrekkelig kunnskap om innholdet av organiske miljøgifter, plantevernmiddelrester, legemiddelrester og andre helse- eller miljøskadelige stoffer i råvarer og gjødselvarer
+2. forebygge, begrense eller forhindre at råvarer og gjødselvarer har et slikt innhold av stoffer som er nevnt i bokstav a at dette kan medføre skade på helse eller miljø ved bruk.
 
 For kadmium, bly, kvikksølv, nikkel, sink, kobber og krom anses plikten i første ledd for å være oppfylt når gjødselvarene oppfyller de aktuelle kravene i [§§ 21](forskrift/2025-01-29-116/§21), [22](forskrift/2025-01-29-116/§22) og [23](forskrift/2025-01-29-116/§23). For råslam, aske og biokull anses plikten i første ledd i tillegg å være oppfylt for miljøgiftene det er gitt grenseverdier for i [§§ 25](forskrift/2025-01-29-116/§25), [26](forskrift/2025-01-29-116/§26) og [27](forskrift/2025-01-29-116/§27).
 
@@ -282,7 +398,26 @@ Andre gjødselvarer enn jorddekkingsmidler skal ikke ha spirehemmende eller anne
 
 ### § 31. Generelle merkekrav
 
-Gjødselvarer skal før de omsettes til brukere være merket med en varedeklarasjon som skal inneholde opplysninger om:produsentens og importørens navn og adressegjødselvarekategorieventuell varebetegnelse som angitt i [§ 11](forskrift/2025-01-29-116/§11)produktets form, for gjødselvarer som ikke har fast forminnhold i vekt eller volum for emballert gjødselvaretørrstofforganisk karbon eller organisk innhold i masseprosent for gjødselvarer med organisk innholdalle bestanddeler som utgjør over fem prosent av produktvekten eller produktvolumet, eller når det gjelder produkter i flytende form etter tørrvekt, i fallende rekkefølgetilsatte organismerbehandlingsprosessen for organiske råvarernæringsinnhold angitt i elementform og andre egenskaper der dette er angitt for ulike gjødselvarekategorier i [§§ 33](forskrift/2025-01-29-116/§33) til [39](forskrift/2025-01-29-116/§39)egenskaper og andre forhold som angitt for gjødselvarer som inneholder visse råvarer i [§§ 38](forskrift/2025-01-29-116/§38) til [43](forskrift/2025-01-29-116/§43)anbefalte forholdsregler for å sikre at bruken ikke medfører sikkerhetsrisiko, miljørisiko eller risiko for menneskers, dyrs eller planters helseanbefalt bruksområde, herunder anbefalt mengde og anbefalte målveksterproduktets tungmetallklasse for gjødselvarer omfattet av [§ 21](forskrift/2025-01-29-116/§21) og bruksbegrensninger, jf. [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv.](forskrift/2025-01-29-115)produktets tungmetallinnhold i milligram per kilogram tørrstoff og følgende angivelse «fosforbaserte grenseverdier for tungmetallinnhold» for gjødselvarer omfattet av [§ 22](forskrift/2025-01-29-116/§22) og bruksbegrensninger, jf. [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv.](forskrift/2025-01-29-115)produktets tungmetallinnhold i milligram per kilogram tørrstoff for gjødselvarer omfattet av [§ 23](forskrift/2025-01-29-116/§23) og bruksbegrensninger, jf. [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv.](forskrift/2025-01-29-115)produktets produksjonsnummer eller batchnummer.
+Gjødselvarer skal før de omsettes til brukere være merket med en varedeklarasjon som skal inneholde opplysninger om:
+
+1. produsentens og importørens navn og adresse
+2. gjødselvarekategori
+3. eventuell varebetegnelse som angitt i [§ 11](forskrift/2025-01-29-116/§11)
+4. produktets form, for gjødselvarer som ikke har fast form
+5. innhold i vekt eller volum for emballert gjødselvare
+6. tørrstoff
+7. organisk karbon eller organisk innhold i masseprosent for gjødselvarer med organisk innhold
+8. alle bestanddeler som utgjør over fem prosent av produktvekten eller produktvolumet, eller når det gjelder produkter i flytende form etter tørrvekt, i fallende rekkefølge
+9. tilsatte organismer
+10. behandlingsprosessen for organiske råvarer
+11. næringsinnhold angitt i elementform og andre egenskaper der dette er angitt for ulike gjødselvarekategorier i [§§ 33](forskrift/2025-01-29-116/§33) til [39](forskrift/2025-01-29-116/§39)
+12. egenskaper og andre forhold som angitt for gjødselvarer som inneholder visse råvarer i [§§ 38](forskrift/2025-01-29-116/§38) til [43](forskrift/2025-01-29-116/§43)
+13. anbefalte forholdsregler for å sikre at bruken ikke medfører sikkerhetsrisiko, miljørisiko eller risiko for menneskers, dyrs eller planters helse
+14. anbefalt bruksområde, herunder anbefalt mengde og anbefalte målvekster
+15. produktets tungmetallklasse for gjødselvarer omfattet av [§ 21](forskrift/2025-01-29-116/§21) og bruksbegrensninger, jf. [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv.](forskrift/2025-01-29-115)
+16. produktets tungmetallinnhold i milligram per kilogram tørrstoff og følgende angivelse «fosforbaserte grenseverdier for tungmetallinnhold» for gjødselvarer omfattet av [§ 22](forskrift/2025-01-29-116/§22) og bruksbegrensninger, jf. [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv.](forskrift/2025-01-29-115)
+17. produktets tungmetallinnhold i milligram per kilogram tørrstoff for gjødselvarer omfattet av [§ 23](forskrift/2025-01-29-116/§23) og bruksbegrensninger, jf. [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv.](forskrift/2025-01-29-115)
+18. produktets produksjonsnummer eller batchnummer.
 
 Merkingen kan inneholde andre opplysninger enn det som er påkrevd etter første ledd. Varedeklarasjonen skal være adskilt fra andre opplysninger i merkingen og skal ikke inneholde andre opplysninger enn dem som følger av første ledd. Opplysninger i form av en nærmere beskrivelse av gjødselvarekategori og analyser av andre kjemiske og fysiske parametere enn dem som er angitt i første ledd kan likevel inngå som del av varedeklarasjonen.
 
@@ -300,7 +435,16 @@ Dersom innholdet oppgis i et intervall, skal analyseverdien være innenfor inter
 
 ### § 33. Deklarering av organisk gjødsel og organisk-mineralsk gjødsel
 
-Varedeklarasjonen skal, ved deklarering av organisk gjødsel og organisk-mineralsk gjødsel, inneholde følgende opplysninger oppgitt i masseprosent:totalt nitrogeninnholdnitrogen i form av nitratnitrogen i form av ammoniumnitrogen i form av urea for organisk-mineralsk gjødseltotalt fosforinnholdplantetilgjengelig fosfortotalt kaliuminnholdplantetilgjengelig kaliuminnhold.
+Varedeklarasjonen skal, ved deklarering av organisk gjødsel og organisk-mineralsk gjødsel, inneholde følgende opplysninger oppgitt i masseprosent:
+
+1. totalt nitrogeninnhold
+2. nitrogen i form av nitrat
+3. nitrogen i form av ammonium
+4. nitrogen i form av urea for organisk-mineralsk gjødsel
+5. totalt fosforinnhold
+6. plantetilgjengelig fosfor
+7. totalt kaliuminnhold
+8. plantetilgjengelig kaliuminnhold.
 
 Opplysninger om plantetilgjengelig fosfor i varedeklarasjonen etter første ledd bokstav f skal være basert på analyser etter Olsen P-metoden.
 
@@ -320,15 +464,32 @@ Plantetilgjengelig innhold av kalsium, magnesium og natrium og totalt innhold av
 | Molybden | 0,001 | 0,001 |
 | Sink | 0,01 | 0,002 |
 
-I tillegg skal følgende opplysninger deklareres:beskrivelse av forventet kalkingseffekt skal deklareres for gjødselvarer som inneholder aske, benmel, betongslam eller som er tilsatt kalkinnholdet av vannløselig klorid i produktet skal deklareres i masseprosent dersom det overskrider 0,3 vektprosenttotalinnholdet av natrium i produktet skal deklareres i masseprosent dersom det overskrider 0,2 vektprosent.
+I tillegg skal følgende opplysninger deklareres:
+
+1. beskrivelse av forventet kalkingseffekt skal deklareres for gjødselvarer som inneholder aske, benmel, betongslam eller som er tilsatt kalk
+2. innholdet av vannløselig klorid i produktet skal deklareres i masseprosent dersom det overskrider 0,3 vektprosent
+3. totalinnholdet av natrium i produktet skal deklareres i masseprosent dersom det overskrider 0,2 vektprosent.
 
 Opplysningene om næringsinnhold angitt i første ledd bokstav a til g skal oppgis i masseprosent.
 
 ### § 34. Deklarering av jordforbedringsmidler
 
-Varedeklarasjonen for jordforbedringsmidler skal inneholde følgende opplysninger:totalt nitrogeninnholdnitratinnholdammoniuminnholdtotalt fosforinnholdplantetilgjengelig fosfortotalt kaliuminnhold for jordforbedringsmidler markedsført mot jordbruksmarkedetplantetilgjengelig innhold av andre næringsstofferpH.
+Varedeklarasjonen for jordforbedringsmidler skal inneholde følgende opplysninger:
 
-I tillegg skal følgende opplysninger deklareres:Beskrivelse av forventet kalkingseffekt skal deklareres for produkter som inneholder aske, benmel eller betongslam, eller som er tilsatt kalk.Innholdet av vannløselig klorid i produktet skal deklareres i masseprosent dersom det overskrider 0,3 vektprosent.Totalinnholdet av natrium i produktet skal deklareres i masseprosent dersom det overskrider 0,2 vektprosent.
+1. totalt nitrogeninnhold
+2. nitratinnhold
+3. ammoniuminnhold
+4. totalt fosforinnhold
+5. plantetilgjengelig fosfor
+6. totalt kaliuminnhold for jordforbedringsmidler markedsført mot jordbruksmarkedet
+7. plantetilgjengelig innhold av andre næringsstoffer
+8. pH.
+
+I tillegg skal følgende opplysninger deklareres:
+
+1. Beskrivelse av forventet kalkingseffekt skal deklareres for produkter som inneholder aske, benmel eller betongslam, eller som er tilsatt kalk.
+2. Innholdet av vannløselig klorid i produktet skal deklareres i masseprosent dersom det overskrider 0,3 vektprosent.
+3. Totalinnholdet av natrium i produktet skal deklareres i masseprosent dersom det overskrider 0,2 vektprosent.
 
 Opplysningene om næringsinnhold angitt i første ledd bokstav a til g skal oppgis i masseprosent. Opplysninger om plantetilgjengelig fosfor i varedeklarasjonen angitt i første ledd bokstav e skal være basert på analyser etter Olsen P-metoden, med unntak av ikke-kalkbehandlet, kjemisk felt avløpsslam. Ved varedeklarering av uorganiske jordforbedringsmidler gjelder kravene i første ledd om opplysninger om innholdet av hovednæringsstoffer bare dersom dette er av betydning for planteveksten.
 
@@ -336,9 +497,22 @@ Opplysningene om næringsinnhold angitt i første ledd bokstav a til g skal oppg
 
 ### § 35. Deklarering av andre dyrkingsmedier enn anleggsjord
 
-Varedeklarasjonen for andre dyrkingsmedier enn anleggsjord skal inneholde følgende opplysninger:totalt nitrogeninnholdtotalt fosforinnholdplantetilgjengelig fosfortotalt kaliuminnhold for dyrkingsmedier markedsført mot jordbruksmarkedetplantetilgjengelig kaliuminnholdandre næringsstoffer av betydning for plantevekstenpHelektrisk konduktivitetangivelse av kornfordeling, teksturklasse eller annen angivelse av findelingsgrad.
+Varedeklarasjonen for andre dyrkingsmedier enn anleggsjord skal inneholde følgende opplysninger:
 
-I tillegg skal følgende opplysninger deklareres:innholdet av vannløselig klorid i produktet skal deklareres i masseprosent dersom det overskrider overskrider 0,3 vektprosenttotalinnholdet av natrium i produktet skal deklareres i masseprosent dersom det overskrider 0,2 vektprosent.
+1. totalt nitrogeninnhold
+2. totalt fosforinnhold
+3. plantetilgjengelig fosfor
+4. totalt kaliuminnhold for dyrkingsmedier markedsført mot jordbruksmarkedet
+5. plantetilgjengelig kaliuminnhold
+6. andre næringsstoffer av betydning for planteveksten
+7. pH
+8. elektrisk konduktivitet
+9. angivelse av kornfordeling, teksturklasse eller annen angivelse av findelingsgrad.
+
+I tillegg skal følgende opplysninger deklareres:
+
+1. innholdet av vannløselig klorid i produktet skal deklareres i masseprosent dersom det overskrider overskrider 0,3 vektprosent
+2. totalinnholdet av natrium i produktet skal deklareres i masseprosent dersom det overskrider 0,2 vektprosent.
 
 Opplysningene om næringsinnhold angitt i første ledd bokstav a og b kan oppgis som masseprosent eller som milligram per liter. Opplysningene om næringsinnhold angitt i første ledd bokstav c til e skal også omfatte måleenhet og analysemetode. Ved varedeklarering av uorganiske dyrkingsmedier gjelder kravene i første ledd om opplysninger om innholdet av hovednæringsstoffer bare dersom dette er av betydning for planteveksten.
 
@@ -348,9 +522,23 @@ Kravet i første ledd bokstav f om deklarering av opplysninger om andre nærings
 
 ### § 36. Deklarering av anleggsjord
 
-Varedeklarasjonen for anleggsjord skal inneholde følgende opplysninger:totalt nitrogeninnholdnitratinnholdammoniuminnholdtotalt fosforinnholdplantetilgjengelig fosforplantetilgjengelig kaliuminnholdandre næringsstoffer av betydning for plantevekstenpHelektrisk konduktivitetkornfordeling eller teksturklasse.
+Varedeklarasjonen for anleggsjord skal inneholde følgende opplysninger:
 
-I tillegg skal følgende opplysninger deklareres:innholdet av vannløselig klorid i produktet skal deklareres i masseprosent dersom det overskrider 0,3 vektprosenttotalinnholdet av natrium i produktet skal deklareres i masseprosent dersom det overskrider 0,2 vektprosent.
+1. totalt nitrogeninnhold
+2. nitratinnhold
+3. ammoniuminnhold
+4. totalt fosforinnhold
+5. plantetilgjengelig fosfor
+6. plantetilgjengelig kaliuminnhold
+7. andre næringsstoffer av betydning for planteveksten
+8. pH
+9. elektrisk konduktivitet
+10. kornfordeling eller teksturklasse.
+
+I tillegg skal følgende opplysninger deklareres:
+
+1. innholdet av vannløselig klorid i produktet skal deklareres i masseprosent dersom det overskrider 0,3 vektprosent
+2. totalinnholdet av natrium i produktet skal deklareres i masseprosent dersom det overskrider 0,2 vektprosent.
 
 Opplysningene om næringsinnhold angitt i første ledd bokstav a til d skal oppgis i masseprosent. Opplysninger om plantetilgjengelig fosfor i varedeklarasjonen etter første ledd bokstav e skal være basert på analyser etter AL-metoden og oppgis i milligram per 100 gram jord. Opplysningene om næringsinnhold angitt i første ledd bokstav f og g skal omfatte målenhet og analysemetode.
 
@@ -360,11 +548,19 @@ Kravet i første ledd bokstav g om deklarering av opplysninger om andre nærings
 
 ### § 37. Deklarering av jorddekkingsmidler
 
-Varedeklarasjonen for jorddekkingsmidler skal inneholde følgende opplysninger:partikkelstørrelseinnhold av finstoff.
+Varedeklarasjonen for jorddekkingsmidler skal inneholde følgende opplysninger:
+
+1. partikkelstørrelse
+2. innhold av finstoff.
 
 ### § 38. Deklarering av biostimulanter
 
-Varedeklarasjonen for biostimulanter skal inneholde følgende opplysninger:beskrivelse av virkninginnhold av næringsstoffer av betydning for plantevekstenbruksperiode gitt som planteutviklingsstadie eller lignendeanbefalt anvendelseshyppighet.
+Varedeklarasjonen for biostimulanter skal inneholde følgende opplysninger:
+
+1. beskrivelse av virkning
+2. innhold av næringsstoffer av betydning for planteveksten
+3. bruksperiode gitt som planteutviklingsstadie eller lignende
+4. anbefalt anvendelseshyppighet.
 
 Dersom biostimulanten inneholder et stoff eller en organisme som det er etablert grenseverdier for i regelverk om mat og fôr, skal det sikres at anbefalt bruk ikke fører til overskridelser av den aktuelle grenseverdien.
 
@@ -378,11 +574,20 @@ I varedeklarasjonen av gjødselvarer som er tilsatt nitrifikasjonshemmere, kjela
 
 ### § 41. Særlige krav til deklarering av gjødselvarer med mikro- og makroorganismer
 
-Varedeklarasjon for gjødselvarer som markedsføres med innhold av bestemte mikro- og makroorganismer skal inneholde følgende opplysninger:organismens vitenskapelige navn og eventuelle norske eller engelske navnantall eller annen angivelse av mengden av hver organismebeskrivelse av organismens virkemåtebeskrivelse av makroorganismens biologi og utseende.
+Varedeklarasjon for gjødselvarer som markedsføres med innhold av bestemte mikro- og makroorganismer skal inneholde følgende opplysninger:
+
+1. organismens vitenskapelige navn og eventuelle norske eller engelske navn
+2. antall eller annen angivelse av mengden av hver organisme
+3. beskrivelse av organismens virkemåte
+4. beskrivelse av makroorganismens biologi og utseende.
 
 ### § 42. Særlige krav til deklarering av gjødselvarer som inneholder avløpsslam
 
-Varedeklarasjonen for gjødselvarer som inneholder avløpsslam skal inneholde følgende opplysninger:bruksbegrensningene som følger av [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv. § 22](forskrift/2025-01-29-115/§22) og [§ 23](forskrift/2025-01-29-115/§23)analyseverdier for kadmium, bly, kvikksølv, nikkel, kobber, sink og krom i slamandelen av produktettotalt innhold av aluminium og jern i produktet angitt i milligram per kilogram tørrstoff.
+Varedeklarasjonen for gjødselvarer som inneholder avløpsslam skal inneholde følgende opplysninger:
+
+1. bruksbegrensningene som følger av [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv. § 22](forskrift/2025-01-29-115/§22) og [§ 23](forskrift/2025-01-29-115/§23)
+2. analyseverdier for kadmium, bly, kvikksølv, nikkel, kobber, sink og krom i slamandelen av produktet
+3. totalt innhold av aluminium og jern i produktet angitt i milligram per kilogram tørrstoff.
 
 ### § 43. Særlige krav til deklarering av gjødselvarer som ikke er egnet til bruk i private hager
 
@@ -437,7 +642,9 @@ Forskriften trer i kraft 1. februar 2025. Fra samme tidspunkt oppheves [forskrif
 5. Hygieniseringsmetoder som har vært validert i samsvar med kravene i [forskrift 4. juli 2003 nr. 951](forskrift/2003-07-04-951) om gjødselvarer mv. uten at det er tatt hensyn til plantehelserisiko, der dette er relevant, kan benyttes inntil 1. januar 2028.
 6. [§ 18 tredje ledd bokstav c](forskrift/2025-01-29-116/§18/ledd/3/bokstav/c) trer i kraft 1. februar 2026.
 7. For husdyrgjødsel, der det foreligger tillatelse for bruk i annet fylke etter [§ 12 andre ledd](forskrift/2016-09-14-1064/§12/ledd/2) i [forskrift 14. september 2016 nr. 1064 om animalske biprodukter som ikke er beregnet på konsum (animaliebiproduktforskriften)](forskrift/2016-09-14-1064). og for husdyrgjødsel fra hestearrangement med internasjonale deltagelse, trer kravene i denne forskriften først i kraft 1. februar 2027.
-8. For fiskeslam fra ferskvannanlegg, der det per 1. oktober 2024 forelå dispensasjon fra hygieniseringskrav etter [forskrift 4. juli 2003 nr. 951 om gjødselvarer mv. av organisk opphav](forskrift/2003-07-04-951), trer kravene i [§ 18](forskrift/2025-01-29-116/§18) først i kraft 1. juli 2027, forutsatt at fiskeslammet omsettes i tråd med vilkårene i dispensasjonen.Fiskeslam fra ferskvannsanlegg som har blitt hygienisert med metoder som frem til 1. februar 2025 ble brukt til å oppfylle hygieniseringskrav etter [forskrift 4. juli 2003 nr. 951 om gjødselvarer mv. av organisk opphav](forskrift/2003-07-04-951), kan hygieniseres med samme metoder fremfor kravene i [§ 18 første ledd](forskrift/2025-01-29-116/§18/ledd/1) og [§ 19](forskrift/2025-01-29-116/§19) frem til 1. juli 2027.
+8. For fiskeslam fra ferskvannanlegg, der det per 1. oktober 2024 forelå dispensasjon fra hygieniseringskrav etter [forskrift 4. juli 2003 nr. 951 om gjødselvarer mv. av organisk opphav](forskrift/2003-07-04-951), trer kravene i [§ 18](forskrift/2025-01-29-116/§18) først i kraft 1. juli 2027, forutsatt at fiskeslammet omsettes i tråd med vilkårene i dispensasjonen.
+
+   Fiskeslam fra ferskvannsanlegg som har blitt hygienisert med metoder som frem til 1. februar 2025 ble brukt til å oppfylle hygieniseringskrav etter [forskrift 4. juli 2003 nr. 951 om gjødselvarer mv. av organisk opphav](forskrift/2003-07-04-951), kan hygieniseres med samme metoder fremfor kravene i [§ 18 første ledd](forskrift/2025-01-29-116/§18/ledd/1) og [§ 19](forskrift/2025-01-29-116/§19) frem til 1. juli 2027.
 9. Grenseverdiene for råslam i [§ 25](forskrift/2025-01-29-116/§25) gjelder fra 1. januar 2028.
 10. Annen angivelse av tilgjengelig fosfor kan erstatte Olsen P-metoden frem til 1. januar 2026. Analysemetode skal oppgis i merkingen.
 11. For husdyrgjødsel fra slakterier som per 1. oktober 2024 oppfylte kravene til spredning i [§ 12](forskrift/2016-09-14-1064/§12) i [forskrift 14. september 2016 nr. 1064 om animalske biprodukter som ikke er beregnet på konsum (animaliebiproduktforskriften)](forskrift/2016-09-14-1064) trer kravene i [§§ 18](forskrift/2025-01-29-116/§18) og [20](forskrift/2025-01-29-116/§20) først i kraft 1. januar 2030 forutsatt at vilkårene i [animaliebiproduktforskriften § 12](forskrift/2016-09-14-1064/§12) fortsatt oppfylles.

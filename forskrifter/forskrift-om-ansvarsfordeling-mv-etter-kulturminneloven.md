@@ -24,9 +24,13 @@ eu_basis: []
 
 ## I. Rette myndighet, faglig ansvarsområde og samarbeidsplikt
 
-Sametinget er vedkommende myndighet etter følgende bestemmelser i [forskrift 9. februar 1979 nr. 8785](forskrift/1979-02-09-8785), med senere endringer:Kap. 1 § 1 nr. 2 og § 3.
+Sametinget er vedkommende myndighet etter følgende bestemmelser i [forskrift 9. februar 1979 nr. 8785](forskrift/1979-02-09-8785), med senere endringer:
 
-Klima- og miljødepartementet delegerer myndighet etter kulturminneloven til Sametinget etter følgende bestemmelse i ovennevnte forskrift:Kap. 3 § 12 nr. 2.
+- Kap. 1 § 1 nr. 2 og § 3.
+
+Klima- og miljødepartementet delegerer myndighet etter kulturminneloven til Sametinget etter følgende bestemmelse i ovennevnte forskrift:
+
+- Kap. 3 § 12 nr. 2.
 
 > Endret ved [forskrift 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
 
@@ -41,5 +45,8 @@ Sametinget er sektormyndighet for samisk kulturminnevern i plan- og byggesaker e
 ## IV. Retningslinjer for Sametinget:
 
 1. Sametinget er et organ for samisk kulturminnevern
-2. Sametinget skal ha følgende oppgaverforestå forvaltningen av samisk kulturminnevern i henhold til lov om kulturminner med tilhørende forskriftervære et fagpolitisk råd for andre offentlige organ i samiske kulturminnevernspørsmål.
+2. Sametinget skal ha følgende oppgaver
+
+   1. forestå forvaltningen av samisk kulturminnevern i henhold til lov om kulturminner med tilhørende forskrifter
+   2. være et fagpolitisk råd for andre offentlige organ i samiske kulturminnevernspørsmål.
 3. Sametinget utarbeider en årlig rapport om situasjonen for samisk kulturminnevern i Norge. Denne oversendes Riksantikvaren og vedlegges Sametingets årlige melding til Kongen.

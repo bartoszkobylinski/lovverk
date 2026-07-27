@@ -15,7 +15,7 @@ xml_hash: "2f6d7472afebb930f144e1e5fe0e5df929203de8343c9753a0c41f25e1673407"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32004R0883"
@@ -61,7 +61,13 @@ Bestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den 
 
 ### § 1-3 b. Andre folkerettslige bestemmelser om trygdekoordinering
 
-Følgende folkerettslige bestemmelser gjelder som lov:nordisk konvensjon om trygd av 12. juni 2012EFTA-konvensjonen av 4. januar 1960 artikkel 21 og tillegg 2 til vedlegg K med endringer vedtatt 21. juni 2001, 13. juli 2004, 27. november 2007 og 12. november 2015artikkel 29 til 34 i avtale om ordninger mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongerike Storbritannia og Nord-Irland som følge av Det forente kongerikes uttreden fra Den europeiske union, [EØS-avtalen](lov/1992-11-27-109/eøsl) og andre avtaler som gjelder mellom Det forente kongerike og EØS/EFTA-statene i kraft av Det forente kongerikes medlemskap i Den europeiske union av 28. januar 2020[EØS-avtalen vedlegg VI](avtale/avt-1992-05-02-1-v6) kapittel III (avtale mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere).konvensjon om trygdekoordinering mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongeriket Storbritannia og Nord-Irland av 30. juni 2023.
+Følgende folkerettslige bestemmelser gjelder som lov:
+
+1. nordisk konvensjon om trygd av 12. juni 2012
+2. EFTA-konvensjonen av 4. januar 1960 artikkel 21 og tillegg 2 til vedlegg K med endringer vedtatt 21. juni 2001, 13. juli 2004, 27. november 2007 og 12. november 2015
+3. artikkel 29 til 34 i avtale om ordninger mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongerike Storbritannia og Nord-Irland som følge av Det forente kongerikes uttreden fra Den europeiske union, [EØS-avtalen](lov/1992-11-27-109/eøsl) og andre avtaler som gjelder mellom Det forente kongerike og EØS/EFTA-statene i kraft av Det forente kongerikes medlemskap i Den europeiske union av 28. januar 2020
+4. [EØS-avtalen vedlegg VI](avtale/avt-1992-05-02-1-v6) kapittel III (avtale mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere).
+5. konvensjon om trygdekoordinering mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongeriket Storbritannia og Nord-Irland av 30. juni 2023.
 
 Kongen kan i forskrift gjennomføre bilaterale avtaler med andre land om trygdekoordinering.
 
@@ -89,7 +95,10 @@ Når en persons rettsstilling etter denne loven er avhengig av om vedkommende er
 
 Registrert partnerskap er likestilt med ekteskap.
 
-Bestemmelsene for ektefeller i denne loven skal også gjelde for to ugifte personer som lever sammen (samboerpar), dersom parethar eller har hatt felles barn, ellertidligere har vært gift med hverandre.
+Bestemmelsene for ektefeller i denne loven skal også gjelde for to ugifte personer som lever sammen (samboerpar), dersom paret
+
+1. har eller har hatt felles barn, eller
+2. tidligere har vært gift med hverandre.
 
 To personer som bor i samme hus, regnes som samboerpar selv om de bor i hver sin del av huset. Det kan gjøres unntak for personer som bor i hver sin boenhet i et hus med mer enn fire selvstendige og klart atskilte boenheter. To personer som vanligvis har felles bolig, regnes som samboerpar selv om de midlertidig bor atskilt.
 
@@ -115,7 +124,14 @@ Med frilanser menes i denne loven enhver som utfører arbeid eller oppdrag utenf
 
 Med selvstendig næringsdrivende menes i denne loven enhver som for egen regning og risiko driver en vedvarende virksomhet som er egnet til å gi nettoinntekt.
 
-Ved avgjørelsen av om en person skal regnes som selvstendig næringsdrivende, legges det blant annet vekt påom virksomheten har et visst omfang,om vedkommende har ansvaret for resultatet av virksomheten,om vedkommende har arbeidstakere i sin tjeneste eller nytter frilansere,om vedkommende driver virksomheten fra et fast forretningssted (kontor, verksted e.l.),om vedkommende har den økonomiske risikoen for virksomheten,om vedkommende bruker egne driftsmidler.
+Ved avgjørelsen av om en person skal regnes som selvstendig næringsdrivende, legges det blant annet vekt på
+
+- om virksomheten har et visst omfang,
+- om vedkommende har ansvaret for resultatet av virksomheten,
+- om vedkommende har arbeidstakere i sin tjeneste eller nytter frilansere,
+- om vedkommende driver virksomheten fra et fast forretningssted (kontor, verksted e.l.),
+- om vedkommende har den økonomiske risikoen for virksomheten,
+- om vedkommende bruker egne driftsmidler.
 
 ### Kapittel 2. Medlemskap
 
@@ -157,7 +173,16 @@ Bestemmelsene i trygdeforordningen og gjennomføringsforordningen får tilsvaren
 
 ### § 2-5. Pliktig medlemskap for personer utenfor Norge
 
-Selv om en person oppholder seg utenfor Norge, er vedkommende pliktig medlem i trygden dersom han eller hun ernorsk statsborger og arbeidstaker i den norske stats tjeneste,norsk statsborger og arbeidstaker hos en person som nevnt i bokstav a,i Forsvarets tjeneste i utlandet, herunder militært tilsatte som deltar i internasjonale operasjoner,utsendt av den norske stat som fredskorpsdeltaker eller som ekspert for tjenestegjøring i et utviklingsland,i tjeneste som forhåndsutskrevet av den norske stat til NATOs sivile krigstidsorganer,norsk statsborger og arbeidstaker på et norskregistrert skip, se likevel [§ 2-12](lov/1997-02-28-19/§2-12),norsk statsborger og arbeidstaker i et norsk sivilt luftfartsselskap, ellernorsk statsborger og studerer i utlandet med lån eller stipend fra Statens lånekasse for utdanning.
+Selv om en person oppholder seg utenfor Norge, er vedkommende pliktig medlem i trygden dersom han eller hun er
+
+1. norsk statsborger og arbeidstaker i den norske stats tjeneste,
+2. norsk statsborger og arbeidstaker hos en person som nevnt i bokstav a,
+3. i Forsvarets tjeneste i utlandet, herunder militært tilsatte som deltar i internasjonale operasjoner,
+4. utsendt av den norske stat som fredskorpsdeltaker eller som ekspert for tjenestegjøring i et utviklingsland,
+5. i tjeneste som forhåndsutskrevet av den norske stat til NATOs sivile krigstidsorganer,
+6. norsk statsborger og arbeidstaker på et norskregistrert skip, se likevel [§ 2-12](lov/1997-02-28-19/§2-12),
+7. norsk statsborger og arbeidstaker i et norsk sivilt luftfartsselskap, eller
+8. norsk statsborger og studerer i utlandet med lån eller stipend fra Statens lånekasse for utdanning.
 
 Ektefelle og barn som forsørges av og oppholder seg i utlandet sammen med en person nevnt i første ledd bokstavene a til e er pliktige medlemmer i trygden. Ektefellen til en person som nevnt i første ledd bokstav a eller b, må være norsk statsborger. Ektefellen til en person som nevnt i første ledd bokstav c til e, må ha vært medlem i trygden i minst tre av de siste fem kalenderårene.
 
@@ -165,7 +190,11 @@ Ektefelle og barn som forsørges av og oppholder seg i utlandet sammen med en pe
 
 ### § 2-6. Medlemskap som gir trygdedekning bare ved yrkesskade og dødsfall
 
-En utenlandsk statsborger som ikke er bosatt i Norge, er pliktig medlem i trygden med rett til ytelser ved yrkesskade og dødsfall dersom han eller huner arbeidstaker på et norsk skip i utenriksfart som er registrert i det ordinære norske skipsregisteret, unntatt når vedkommende er arbeidstaker hos en utenlandsk arbeidsgiver som driver næringsvirksomhet om bordarbeider på et norsk fiskefartøy, ellerer arbeidstaker i et norsk sivilt luftfartsselskap.
+En utenlandsk statsborger som ikke er bosatt i Norge, er pliktig medlem i trygden med rett til ytelser ved yrkesskade og dødsfall dersom han eller hun
+
+1. er arbeidstaker på et norsk skip i utenriksfart som er registrert i det ordinære norske skipsregisteret, unntatt når vedkommende er arbeidstaker hos en utenlandsk arbeidsgiver som driver næringsvirksomhet om bord
+2. arbeider på et norsk fiskefartøy, eller
+3. er arbeidstaker i et norsk sivilt luftfartsselskap.
 
 Ved yrkesskade ([kapittel 13](lov/1997-02-28-19/kap13)) har et medlem som nevnt i første ledd rett til stønad ved helsetjenester etter [kapittel 5](lov/1997-02-28-19/kap5), sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8), arbeidsavklaringspenger etter [kapittel 11](lov/1997-02-28-19/kap11), tilleggsstønader etter [kapittel 11 A](lov/1997-02-28-19/kap11a) og uføretrygd etter [kapittel 12](lov/1997-02-28-19/kap12). Ved dødsfall ytes det gravferdsstønad etter [kapittel 7](lov/1997-02-28-19/kap7) og omstillingsstønad til gjenlevende ektefelle etter [kapittel 17](lov/1997-02-28-19/kap17) eller etterlattepensjon etter [kapittel 17 A](lov/1997-02-28-19/kap17A).
 
@@ -177,9 +206,19 @@ En utenlandsk statsborger som nevnt i første ledd er medlem i trygden under hje
 
 En person som oppholder seg i Norge, men som ikke er pliktig medlem i trygden, kan etter søknad bli tatt opp som frivillig medlem dersom dette etter en samlet vurdering er rimelig.
 
-Ved vurderingen av spørsmålet om en person kan tas opp som frivillig medlem, legges det vekt påom søkeren tidligere har vært medlem i trygden,om søkeren er medlem i en utenlandsk trygdeordning,om ektefellen er medlem i trygden,hvor lenge søkeren har oppholdt seg i Norge,hvor lenge søkeren skal oppholde seg i Norge,hvor sterk tilknytning søkeren ellers har til det norske samfunnet.
+Ved vurderingen av spørsmålet om en person kan tas opp som frivillig medlem, legges det vekt på
 
-Medlemskapet kangi full trygdedekning etter loven, elleromfatte stønad ved helsetjenester etter [kapittel 5](lov/1997-02-28-19/kap5), sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8), stønad ved barns og andre nærståendes sykdom etter [kapittel 9](lov/1997-02-28-19/kap9), og ytelser ved fødsel og adopsjon etter [kapittel 14](lov/1997-02-28-19/kap14).
+- om søkeren tidligere har vært medlem i trygden,
+- om søkeren er medlem i en utenlandsk trygdeordning,
+- om ektefellen er medlem i trygden,
+- hvor lenge søkeren har oppholdt seg i Norge,
+- hvor lenge søkeren skal oppholde seg i Norge,
+- hvor sterk tilknytning søkeren ellers har til det norske samfunnet.
+
+Medlemskapet kan
+
+1. gi full trygdedekning etter loven, eller
+2. omfatte stønad ved helsetjenester etter [kapittel 5](lov/1997-02-28-19/kap5), sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8), stønad ved barns og andre nærståendes sykdom etter [kapittel 9](lov/1997-02-28-19/kap9), og ytelser ved fødsel og adopsjon etter [kapittel 14](lov/1997-02-28-19/kap14).
 
 Forsørget ektefelle og barn til en person som er tatt opp som medlem etter første ledd, og som oppholder seg i Norge sammen med forsørgeren, skal etter søknad tas opp som medlem med samme trygdedekning som forsørgeren med mindre særlige grunner taler imot.
 
@@ -191,7 +230,10 @@ Frivillig medlemskap gjelder tidligst fra det tidspunkt da Arbeids- og velferdse
 
 En person som er bosatt i Norge, og som er i arbeid på et skip registrert i en stat utenfor EØS-området, har etter søknad rett til å bli tatt opp som frivillig medlem i trygden.
 
-Medlemskapet kangi full trygdedekning etter loven, elleromfatte stønad ved helsetjenester etter [kapittel 5](lov/1997-02-28-19/kap5), sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8), stønad ved barns og andre nære pårørendes sykdom etter [kapittel 9](lov/1997-02-28-19/kap9) og ytelser ved svangerskap, fødsel og adopsjon etter [kapittel 14](lov/1997-02-28-19/kap14).
+Medlemskapet kan
+
+1. gi full trygdedekning etter loven, eller
+2. omfatte stønad ved helsetjenester etter [kapittel 5](lov/1997-02-28-19/kap5), sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8), stønad ved barns og andre nære pårørendes sykdom etter [kapittel 9](lov/1997-02-28-19/kap9) og ytelser ved svangerskap, fødsel og adopsjon etter [kapittel 14](lov/1997-02-28-19/kap14).
 
 Frivillig medlemskap gjelder tidligst fra det tidspunkt Arbeids- og velferdsetaten mottok søknaden. Vedkommende kan likevel tas opp som medlem fra et tidligere tidspunkt, dersom de øvrige vilkårene for rett til en ytelse fra folketrygden ennå ikke er oppfylt, og det anses rimelig.
 
@@ -199,7 +241,12 @@ Frivillig medlemskap gjelder tidligst fra det tidspunkt Arbeids- og velferdsetat
 
 ### § 2-8. Frivillig medlemskap for personer utenfor Norge
 
-En person som oppholder seg utenfor Norge, og som ikke er pliktig medlem i trygden etter bestemmelsene i dette kapitlet, har etter søknad rett til å bli medlem dersom han eller huner arbeidstaker i utlandet og er ansatt i en virksomhet med hovedsete i Norge,studerer ved universitet eller høgskole i utlandet,har et offentlig oppdrag eller stipend i utlandet, ellermottar pensjon i utlandet etter denne loven og har minst 30 års medlemskap i trygden etter fylte 16 år. Pensjonisten må ha minst 10 års medlemskap umiddelbart før søknaden om opptak. Tidsrom mellom 1. januar 1937 og 1. januar 1967 regnes med dersom vedkommende da ville ha fylt vilkårene for medlemskap.
+En person som oppholder seg utenfor Norge, og som ikke er pliktig medlem i trygden etter bestemmelsene i dette kapitlet, har etter søknad rett til å bli medlem dersom han eller hun
+
+1. er arbeidstaker i utlandet og er ansatt i en virksomhet med hovedsete i Norge,
+2. studerer ved universitet eller høgskole i utlandet,
+3. har et offentlig oppdrag eller stipend i utlandet, eller
+4. mottar pensjon i utlandet etter denne loven og har minst 30 års medlemskap i trygden etter fylte 16 år. Pensjonisten må ha minst 10 års medlemskap umiddelbart før søknaden om opptak. Tidsrom mellom 1. januar 1937 og 1. januar 1967 regnes med dersom vedkommende da ville ha fylt vilkårene for medlemskap.
 
 Også andre personer enn de som går inn under første ledd, kan tas opp som medlemmer når særlige grunner gjør det rimelig.
 
@@ -213,7 +260,11 @@ Frivillig medlemskap gjelder tidligst fra det tidspunkt da Arbeids- og velferdse
 
 ### § 2-9. Trygdedekning ved frivillig medlemskap utenfor Norge
 
-En person som er frivillig medlem etter bestemmelsene i [§ 2-8](lov/1997-02-28-19/§2-8), kan få følgende trygdedekning:stønad etter [kapittel 5](lov/1997-02-28-19/kap5) (helsetjenester), [kapittel 7](lov/1997-02-28-19/kap7) (gravferd), [§ 14-17](lov/1997-02-28-19/§14-17) (engangsstønad ved fødsel og adopsjon),stønad og pensjon etter kapitlene [4](lov/1997-02-28-19/kap4) (arbeidsløshet), [6](lov/1997-02-28-19/kap6) (grunnstønad og hjelpestønad), [7](lov/1997-02-28-19/kap7) (gravferd), [11](lov/1997-02-28-19/kap11) (arbeidsavklaringspenger), [11 A](lov/1997-02-28-19/kap11a) (tilleggsstønader til arbeidsrettede tiltak), [12](lov/1997-02-28-19/kap12) (uføretrygd), [15](lov/1997-02-28-19/kap15) (enslig mor eller far), [17](lov/1997-02-28-19/kap17) (gjenlevende ektefelle og tidligere familiepleier), [17 A](lov/1997-02-28-19/kap17a) (gjenlevende ektefelle og tidligere familiepleier), [18](lov/1997-02-28-19/kap18) (barnepensjon), [19](lov/1997-02-28-19/kap19) (alderspensjon) og [20](lov/1997-02-28-19/kap20) (ny alderspensjon), elleralle ytelsene etter bokstavene a og b.
+En person som er frivillig medlem etter bestemmelsene i [§ 2-8](lov/1997-02-28-19/§2-8), kan få følgende trygdedekning:
+
+1. stønad etter [kapittel 5](lov/1997-02-28-19/kap5) (helsetjenester), [kapittel 7](lov/1997-02-28-19/kap7) (gravferd), [§ 14-17](lov/1997-02-28-19/§14-17) (engangsstønad ved fødsel og adopsjon),
+2. stønad og pensjon etter kapitlene [4](lov/1997-02-28-19/kap4) (arbeidsløshet), [6](lov/1997-02-28-19/kap6) (grunnstønad og hjelpestønad), [7](lov/1997-02-28-19/kap7) (gravferd), [11](lov/1997-02-28-19/kap11) (arbeidsavklaringspenger), [11 A](lov/1997-02-28-19/kap11a) (tilleggsstønader til arbeidsrettede tiltak), [12](lov/1997-02-28-19/kap12) (uføretrygd), [15](lov/1997-02-28-19/kap15) (enslig mor eller far), [17](lov/1997-02-28-19/kap17) (gjenlevende ektefelle og tidligere familiepleier), [17 A](lov/1997-02-28-19/kap17a) (gjenlevende ektefelle og tidligere familiepleier), [18](lov/1997-02-28-19/kap18) (barnepensjon), [19](lov/1997-02-28-19/kap19) (alderspensjon) og [20](lov/1997-02-28-19/kap20) (ny alderspensjon), eller
+3. alle ytelsene etter bokstavene a og b.
 
 Arbeids- og velferdsdirektoratet kan samtykke i at medlemskap med dekning etter bokstavene a og c også skal omfatte sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8) og foreldrepenger etter [kapittel 14](lov/1997-02-28-19/kap14).
 
@@ -259,7 +310,11 @@ Pliktig medlemskap etter [§ 2-1](lov/1997-02-28-19/§2-1) opphører dersom vedk
 
 Den som er medlem i trygden etter [§ 2-2](lov/1997-02-28-19/§2-2) og som fortsatt oppholder seg i Norge, skal være medlem i opptil en måned etter at arbeidsforholdet er slutt. Dette gjelder på tilsvarende måte for en person som er medlem i trygden etter [§ 2-3](lov/1997-02-28-19/§2-3) andre ledd.
 
-En person som nevnt i [§ 2-5](lov/1997-02-28-19/§2-5) skal være medlem i trygden i opptil tre måneder etter at tjenesten eller studiene er slutt. Medlemskapet varer likevel så lenge han eller hunmottar sykepenger eller foreldrepenger eller er under behandling i sykehuser godtatt som arbeidssøkende hos Arbeids- og velferdsetaten eller norsk mønstringsmyndighet, ellerer ansatt i ny tjeneste som nevnt i [§ 2-5](lov/1997-02-28-19/§2-5) uten å ha begynt i tjenesten.
+En person som nevnt i [§ 2-5](lov/1997-02-28-19/§2-5) skal være medlem i trygden i opptil tre måneder etter at tjenesten eller studiene er slutt. Medlemskapet varer likevel så lenge han eller hun
+
+1. mottar sykepenger eller foreldrepenger eller er under behandling i sykehus
+2. er godtatt som arbeidssøkende hos Arbeids- og velferdsetaten eller norsk mønstringsmyndighet, eller
+3. er ansatt i ny tjeneste som nevnt i [§ 2-5](lov/1997-02-28-19/§2-5) uten å ha begynt i tjenesten.
 
 Pliktig medlemskap i trygden opphører straks når medlemmet kommer i arbeid i utlandet eller på et skip som er registrert i utlandet. Dette gjelder ikke når vedkommende midlertidig arbeider i utlandet for lønn eller annen godtgjørelse som arbeidsgiveren plikter å betale arbeidsgiveravgift av etter [§ 23-2](lov/1997-02-28-19/§23-2).
 
@@ -313,7 +368,11 @@ Det er et vilkår for rett til grunnpensjon at vedkommende har minst fem års tr
 
 Full grunnpensjon utgjør 100 prosent av grunnbeløpet.
 
-Full grunnpensjon utgjør likevel 90 prosent av grunnbeløpet dersom pensjonisten lever sammen med en ektefellesom får uføretrygd eller alderspensjon,som får avtalefestet pensjon som det godskrives pensjonspoeng for, se [§ 3-19](lov/1997-02-28-19/§3-19), ellersom har en årlig inntekt, inkludert kapitalinntekt, som er større enn to ganger grunnbeløpet.
+Full grunnpensjon utgjør likevel 90 prosent av grunnbeløpet dersom pensjonisten lever sammen med en ektefelle
+
+1. som får uføretrygd eller alderspensjon,
+2. som får avtalefestet pensjon som det godskrives pensjonspoeng for, se [§ 3-19](lov/1997-02-28-19/§3-19), eller
+3. som har en årlig inntekt, inkludert kapitalinntekt, som er større enn to ganger grunnbeløpet.
 
 I tillegg til de personene som er likestilt med ektefeller etter [§ 1-5](lov/1997-02-28-19/§1-5) skal bestemmelsene i fjerde ledd også gjelde for samboerpar som har levd sammen i 12 av de siste 18 månedene. Full grunnpensjon utgjør 90 prosent av grunnbeløpet også når pensjonistens samboer får omstillingsstønad etter [kapittel 17](lov/1997-02-28-19/kap17), pensjon eller overgangsstønad etter [kapittel 17 A](lov/1997-02-28-19/kap17A) eller overgangsstønad etter [§§ 16-7](lov/1997-02-28-19/§16-7) og [17-6](lov/1997-02-28-19/§17-6) slik bestemmelsene lød før 1. januar 2024.
 
@@ -349,7 +408,10 @@ I tillegg regnes som trygdetid kalenderår da medlemmet fyller 67 til og med 75 
 
 Et kalenderår som medlemmet har opptjent pensjonspoeng i, regnes som et helt års trygdetid.
 
-Som trygdetid regnes ogsåframtidig trygdetid for den avdøde ved beregning av omstillingsstønad, pensjon eller overgangsstønad til gjenlevende ektefelle, se [§ 3-7](lov/1997-02-28-19/§3-7)framtidig trygdetid for en tidligere familiepleier i tidsrommet fra pleieforholdet opphørte, til og med det året vedkommende fyller 66 år. Bestemmelsene i [§ 12-12](lov/1997-02-28-19/§12-12) tredje ledd andre punktum gjelder tilsvarende.
+Som trygdetid regnes også
+
+1. framtidig trygdetid for den avdøde ved beregning av omstillingsstønad, pensjon eller overgangsstønad til gjenlevende ektefelle, se [§ 3-7](lov/1997-02-28-19/§3-7)
+2. framtidig trygdetid for en tidligere familiepleier i tidsrommet fra pleieforholdet opphørte, til og med det året vedkommende fyller 66 år. Bestemmelsene i [§ 12-12](lov/1997-02-28-19/§12-12) tredje ledd andre punktum gjelder tilsvarende.
 
 Når samlet trygdetid utgjør minst fem år, avrundes trygdetiden til nærmeste hele år.
 
@@ -367,7 +429,11 @@ Trygdetid etter første ledd regnes som botid, se [§§ 17-3](lov/1997-02-28-19/
 
 ### § 3-7. Trygdetid ved beregning av omstillingsstønad, pensjon og overgangsstønad til gjenlevende ektefelle
 
-Grunnpensjonen fastsettes ut fra den avdødes trygdetid etter følgende regler:Dersom avdøde var under 67 år, fastsettes trygdetiden etter [§ 3-5](lov/1997-02-28-19/§3-5) tillagt framtidig trygdetid regnet fra tidspunktet for dødsfallet til og med det året vedkommende ville ha fylt 66 år. Reglene i [§ 12-12](lov/1997-02-28-19/§12-12) tredje og fjerde ledd gjelder ved fastsettelsen av framtidig trygdetid.Dersom avdøde har uføretrygd, benyttes den trygdetiden som er lagt til grunn ved beregning av uføretrygden. Dersom avdødes trygdetid var fastsatt etter [§ 12-12](lov/1997-02-28-19/§12-12) tredje ledd, skal den fastsettes på nytt dersom dette vil gi en lengre trygdetid. Opptjeningstiden regnes da fram til dødsfallstidspunktet.Dersom avdøde var 67 år eller eldre, skal trygdetiden fastsettes som om den avdøde på dødsfallstidspunktet hadde fått rett til alderspensjon. Trygdetid på grunnlag av opptjente pensjonspoeng tas med, se [§ 3-5](lov/1997-02-28-19/§3-5) tredje ledd.
+Grunnpensjonen fastsettes ut fra den avdødes trygdetid etter følgende regler:
+
+1. Dersom avdøde var under 67 år, fastsettes trygdetiden etter [§ 3-5](lov/1997-02-28-19/§3-5) tillagt framtidig trygdetid regnet fra tidspunktet for dødsfallet til og med det året vedkommende ville ha fylt 66 år. Reglene i [§ 12-12](lov/1997-02-28-19/§12-12) tredje og fjerde ledd gjelder ved fastsettelsen av framtidig trygdetid.
+2. Dersom avdøde har uføretrygd, benyttes den trygdetiden som er lagt til grunn ved beregning av uføretrygden. Dersom avdødes trygdetid var fastsatt etter [§ 12-12](lov/1997-02-28-19/§12-12) tredje ledd, skal den fastsettes på nytt dersom dette vil gi en lengre trygdetid. Opptjeningstiden regnes da fram til dødsfallstidspunktet.
+3. Dersom avdøde var 67 år eller eldre, skal trygdetiden fastsettes som om den avdøde på dødsfallstidspunktet hadde fått rett til alderspensjon. Trygdetid på grunnlag av opptjente pensjonspoeng tas med, se [§ 3-5](lov/1997-02-28-19/§3-5) tredje ledd.
 
 Ved beregning av omstillingsstønad etter [§ 17-6](lov/1997-02-28-19/§17-6) fastsettes trygdetiden etter reglene i første ledd.
 
@@ -381,7 +447,10 @@ Tilleggspensjonen beregnes på grunnlag av tidligere pensjonsgivende inntekt utt
 
 Det er et vilkår for rett til tilleggspensjon at vedkommende har minst fem poengår. Full tilleggspensjon ytes til den som har minst 40 poengår. Har vedkommende færre poengår, blir tilleggspensjonen tilsvarende mindre, se likevel [§ 3-9](lov/1997-02-28-19/§3-9).
 
-Tilleggspensjonen beregnes på følgende måte:For poengår før 1992 skal 45 prosent av grunnbeløpet multipliseres med sluttpoengtallet. Resultatet multipliseres med antall poengår før 1992 og deles med 40.For poengår etter 1991 skal 42 prosent av grunnbeløpet multipliseres med sluttpoengtallet. Resultatet multipliseres med antall poengår etter 1991 og deles med 40.
+Tilleggspensjonen beregnes på følgende måte:
+
+1. For poengår før 1992 skal 45 prosent av grunnbeløpet multipliseres med sluttpoengtallet. Resultatet multipliseres med antall poengår før 1992 og deles med 40.
+2. For poengår etter 1991 skal 42 prosent av grunnbeløpet multipliseres med sluttpoengtallet. Resultatet multipliseres med antall poengår etter 1991 og deles med 40.
 
 Antall poengår etter 1991 reduseres dersom samlet antall poengår overstiger 40. Alle poengår før 1992 tas med.
 
@@ -391,7 +460,10 @@ Til medlemmer som er født i årene 1923–1940, og som har tapt minst halvparte
 
 ### § 3-9. Særregler om tilleggspensjon for personer født før 1937
 
-For personer som er født før 1937, gjelder følgende særbestemmelser for beregning av tilleggspensjon:For dem som er født i et av årene 1898–1917, skal 40 poengår i [§ 3-8](lov/1997-02-28-19/§3-8) som krav for full tilleggspensjon erstattes med 20 poengår. Det vil si at resultatet av multiplikasjonen med antall poengår i [§ 3-8](lov/1997-02-28-19/§3-8) tredje ledd bokstavene a og b skal deles med 20, ikke med 40.For dem som er født i et av årene 1918–1936, skal 40 poengår i [§ 3-8](lov/1997-02-28-19/§3-8) som krav for full tilleggspensjon erstattes med 20 poengår pluss 1 poengår for hvert år vedkommende er født senere enn 1917. Det vil si at resultatet av multiplikasjonen med antall poengår i [§ 3-8](lov/1997-02-28-19/§3-8) tredje ledd bokstavene a og b skal deles med 20+1 for dem som er født i 1918, med 20+2 for dem som er født i 1919, osv.
+For personer som er født før 1937, gjelder følgende særbestemmelser for beregning av tilleggspensjon:
+
+1. For dem som er født i et av årene 1898–1917, skal 40 poengår i [§ 3-8](lov/1997-02-28-19/§3-8) som krav for full tilleggspensjon erstattes med 20 poengår. Det vil si at resultatet av multiplikasjonen med antall poengår i [§ 3-8](lov/1997-02-28-19/§3-8) tredje ledd bokstavene a og b skal deles med 20, ikke med 40.
+2. For dem som er født i et av årene 1918–1936, skal 40 poengår i [§ 3-8](lov/1997-02-28-19/§3-8) som krav for full tilleggspensjon erstattes med 20 poengår pluss 1 poengår for hvert år vedkommende er født senere enn 1917. Det vil si at resultatet av multiplikasjonen med antall poengår i [§ 3-8](lov/1997-02-28-19/§3-8) tredje ledd bokstavene a og b skal deles med 20+1 for dem som er født i 1918, med 20+2 for dem som er født i 1919, osv.
 
 Tilleggspensjon etter særbestemmelsene i første ledd beregnes på grunnlag av opptil 4 pensjonspoeng for det enkelte år. Tilleggspensjon for den del av poengtallet som overstiger 4, beregnes etter de vanlige bestemmelsene i [§ 3-8](lov/1997-02-28-19/§3-8).
 
@@ -411,7 +483,12 @@ Sluttpoengtallet er gjennomsnittet av de 20 høyeste poengtallene, se [§ 3-12](
 
 Pensjonspoeng er en faktor som brukes ved beregning av tilleggspensjon.
 
-Ved beregningen av tilleggspensjonen regnes det medfaktiske pensjonspoeng som er opptjent ved pensjonsgivende inntekt, se [§§ 3-13](lov/1997-02-28-19/§3-13) og [3-14](lov/1997-02-28-19/§3-14),framtidige pensjonspoeng som benyttes ved beregning av pensjon og overgangsstønad til gjenlevende ektefelle, og som gis for hvert år fra og med året for dødsfallet til og med året da den avdøde ville ha fylt 66 år,godskrevne pensjonspoeng som gis for hvert år vedkommende har mottatt uføretrygd, se [§ 3-17](lov/1997-02-28-19/§3-17),godskrevne pensjonspoeng som gis for enkelte år vedkommende har utført omsorgsarbeid, se [§ 3-16](lov/1997-02-28-19/§3-16).
+Ved beregningen av tilleggspensjonen regnes det med
+
+1. faktiske pensjonspoeng som er opptjent ved pensjonsgivende inntekt, se [§§ 3-13](lov/1997-02-28-19/§3-13) og [3-14](lov/1997-02-28-19/§3-14),
+2. framtidige pensjonspoeng som benyttes ved beregning av pensjon og overgangsstønad til gjenlevende ektefelle, og som gis for hvert år fra og med året for dødsfallet til og med året da den avdøde ville ha fylt 66 år,
+3. godskrevne pensjonspoeng som gis for hvert år vedkommende har mottatt uføretrygd, se [§ 3-17](lov/1997-02-28-19/§3-17),
+4. godskrevne pensjonspoeng som gis for enkelte år vedkommende har utført omsorgsarbeid, se [§ 3-16](lov/1997-02-28-19/§3-16).
 
 En person får fastsatt et pensjonspoengtall for hvert år han eller hun har opptjent pensjonspoeng i (§§ 3-13 og 3-14) og/eller er godskrevet pensjonspoeng for (§§ 3-16 og 3-17). Med de begrensninger som følger av [§§ 3-14](lov/1997-02-28-19/§3-14) og [3-16](lov/1997-02-28-19/§3-16), utgjør pensjonspoengtallet summen av opptjente og godskrevne pensjonspoeng. Det regnes bare med pensjonspoengtall opp til 7,00.
 
@@ -449,7 +526,14 @@ Bestemmelsene i denne paragrafen gjelder også for personer som mottar avtalefes
 
 Som pensjonsgivende inntekt regnes personinntekt etter [skatteloven § 12-2](lov/1999-03-26-14/§12-2). Som pensjonsgivende inntekt regnes også inntekt som omfattes av [lov 29. november 1996 nr. 68](lov/1996-11-29-68) om skatt til Svalbard [§ 3-2](lov/1996-11-29-68/§3-2) fjerde ledd b.
 
-Som pensjonsgivende inntekt regnes likevel ikkepensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold og engangs- og avløsningsbeløp for slike ytelser, engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven, engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet og engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning.overgangsstønad etter [folketrygdloven § 16-7](lov/1997-02-28-19/§16-7) og [§ 17-6](lov/1997-02-28-19/§17-6) slik bestemmelsene lød før 1. januar 2024, og [§ 17 A-1](lov/1997-02-28-19/§17A-1) bokstavene b, c og d.barns inntekt som inngår ved beregning av personinntekt hos barnets foreldre, jf. [skatteloven § 2-14](lov/1999-03-26-14/§2-14).introduksjonsstønad beregnet etter [integreringsloven kapittel 5](lov/2020-11-06-127/kap5).støtte etter lov om supplerande stønad til personar med kort butid i Noreg.uføretrygd etter [folketrygdloven kapittel 12](lov/1997-02-28-19/kap12) og uføreytelser fra andre ordninger.
+Som pensjonsgivende inntekt regnes likevel ikke
+
+1. pensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold og engangs- og avløsningsbeløp for slike ytelser, engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven, engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet og engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning.
+2. overgangsstønad etter [folketrygdloven § 16-7](lov/1997-02-28-19/§16-7) og [§ 17-6](lov/1997-02-28-19/§17-6) slik bestemmelsene lød før 1. januar 2024, og [§ 17 A-1](lov/1997-02-28-19/§17A-1) bokstavene b, c og d.
+3. barns inntekt som inngår ved beregning av personinntekt hos barnets foreldre, jf. [skatteloven § 2-14](lov/1999-03-26-14/§2-14).
+4. introduksjonsstønad beregnet etter [integreringsloven kapittel 5](lov/2020-11-06-127/kap5).
+5. støtte etter lov om supplerande stønad til personar med kort butid i Noreg.
+6. uføretrygd etter [folketrygdloven kapittel 12](lov/1997-02-28-19/kap12) og uføreytelser fra andre ordninger.
 
 Pensjonsgivende inntekt fastsettes for hvert kalenderår fra og med det året medlemmet fyller 13 år, til og med det året medlemmet fyller 75 år.
 
@@ -463,7 +547,10 @@ Departementet gir forskrifter om pensjonsgivende inntekt for medlemmer som ikke 
 
 ### § 3-16. Godskriving av pensjonspoeng for omsorgsarbeid
 
-For år da et medlem har utført omsorgsarbeid, godskrives det tre og et halvt pensjonspoeng i følgende tilfeller:Medlemmet har minst halve året hatt den daglige omsorgen for et barn som ikke har fylt seks år innen årets utgang. For barnets fødselsår godskrives tre og et halvt pensjonspoeng selv om omsorgen har vart mindre enn et halvt år. Pensjonspoengene godskrives den som mottar barnetrygd for barnet etter barnetrygdloven, dersom ikke noe annet er bestemt i forskrift.Medlemmet har minst halve året utført omsorgsarbeid for en syk, en funksjonshemmet eller en eldre person som selv er medlem i eller mottar pensjon fra folketrygden. Omsorgsarbeidet må utgjøre minst 22 timer pr. uke. Dersom omsorgsarbeidet tar slutt på grunn av varig institusjonsopphold eller dødsfall, skal det godskrives pensjonspoeng selv om omsorgsarbeidet avsluttes før halve året er gått. Det er forutsatt at det er godskrevet pensjonspoeng for omsorgsarbeidet i de tre umiddelbart foregående årene.
+For år da et medlem har utført omsorgsarbeid, godskrives det tre og et halvt pensjonspoeng i følgende tilfeller:
+
+1. Medlemmet har minst halve året hatt den daglige omsorgen for et barn som ikke har fylt seks år innen årets utgang. For barnets fødselsår godskrives tre og et halvt pensjonspoeng selv om omsorgen har vart mindre enn et halvt år. Pensjonspoengene godskrives den som mottar barnetrygd for barnet etter barnetrygdloven, dersom ikke noe annet er bestemt i forskrift.
+2. Medlemmet har minst halve året utført omsorgsarbeid for en syk, en funksjonshemmet eller en eldre person som selv er medlem i eller mottar pensjon fra folketrygden. Omsorgsarbeidet må utgjøre minst 22 timer pr. uke. Dersom omsorgsarbeidet tar slutt på grunn av varig institusjonsopphold eller dødsfall, skal det godskrives pensjonspoeng selv om omsorgsarbeidet avsluttes før halve året er gått. Det er forutsatt at det er godskrevet pensjonspoeng for omsorgsarbeidet i de tre umiddelbart foregående årene.
 
 Det kan godskrives pensjonspoeng etter første ledd fra og med det året vedkommende fyller 17 år, til og med det året vedkommende fyller 69 år.
 
@@ -481,7 +568,10 @@ Departementet gir forskrifter om gjennomføringen av bestemmelsene i denne parag
 
 Den som mottar uføretrygd, godskrives pensjonspoeng for hvert kalenderår han eller hun har mottatt ytelsen. Dersom uføretrygden er en omregnet uførepensjon, er det et vilkår at vedkommende mottok tilleggspensjon som var beregnet med framtidige pensjonspoeng.
 
-Pensjonspoeng fastsettes etter følgende alternativer:Dersom beregningsgrunnlaget for uføretrygden er fastsatt etter reglene i [§ 12-11](lov/1997-02-28-19/§12-11), skal det fastsettes pensjonspoeng på grunnlag av en antatt inntekt. Den antatte inntekten fastsettes på samme måte som beregningsgrunnlaget for uføretrygden, men slik at det medregnes pensjonsgivende inntekt opp til 12 ganger grunnbeløpet for hvert kalenderår. Antatt inntekt omgjøres til pensjonspoeng slik det framgår av [§ 3-13](lov/1997-02-28-19/§3-13).Dersom uføretrygden er en omregnet uførepensjon, skal pensjonspoengene tilsvare de framtidige pensjonspoengene som var fastsatt for den tidligere uførepensjonen.
+Pensjonspoeng fastsettes etter følgende alternativer:
+
+1. Dersom beregningsgrunnlaget for uføretrygden er fastsatt etter reglene i [§ 12-11](lov/1997-02-28-19/§12-11), skal det fastsettes pensjonspoeng på grunnlag av en antatt inntekt. Den antatte inntekten fastsettes på samme måte som beregningsgrunnlaget for uføretrygden, men slik at det medregnes pensjonsgivende inntekt opp til 12 ganger grunnbeløpet for hvert kalenderår. Antatt inntekt omgjøres til pensjonspoeng slik det framgår av [§ 3-13](lov/1997-02-28-19/§3-13).
+2. Dersom uføretrygden er en omregnet uførepensjon, skal pensjonspoengene tilsvare de framtidige pensjonspoengene som var fastsatt for den tidligere uførepensjonen.
 
 Dersom vilkårene i [§ 12-13](lov/1997-02-28-19/§12-13) tredje ledd er oppfylt, skal pensjonspoengene for år da vedkommende var medlem i folketrygden minst tilsvare 3,50.
 
@@ -495,7 +585,11 @@ Dersom medregning av framtidig trygdetid for uføretrygden er begrenset på grun
 
 ### § 3-18. Beregning av alderspensjon ved yrkesskade
 
-Den som ved fylte 67 år mottok uføretrygd på grunn av yrkesskade, får alderspensjonen etter [kapittel 19](lov/1997-02-28-19/kap19) beregnet med følgende særregler:Grunnpensjonen reduseres ikke selv om vedkommende har mindre enn 40 års trygdetid, se [§ 3-2](lov/1997-02-28-19/§3-2).Tilleggspensjonen reduseres ikke selv om vedkommende har mindre enn 40 poengår, se [§ 3-8](lov/1997-02-28-19/§3-8).Antatt årlig arbeidsinntekt på skadetidspunktet omregnes til pensjonspoeng etter bestemmelsene i [§ 3-13](lov/1997-02-28-19/§3-13). Dette poengtallet legges til grunn ved beregningen av tilleggspensjonen (§ 3-8) dersom sluttpoengtallet (§ 3-11) er mindre.
+Den som ved fylte 67 år mottok uføretrygd på grunn av yrkesskade, får alderspensjonen etter [kapittel 19](lov/1997-02-28-19/kap19) beregnet med følgende særregler:
+
+1. Grunnpensjonen reduseres ikke selv om vedkommende har mindre enn 40 års trygdetid, se [§ 3-2](lov/1997-02-28-19/§3-2).
+2. Tilleggspensjonen reduseres ikke selv om vedkommende har mindre enn 40 poengår, se [§ 3-8](lov/1997-02-28-19/§3-8).
+3. Antatt årlig arbeidsinntekt på skadetidspunktet omregnes til pensjonspoeng etter bestemmelsene i [§ 3-13](lov/1997-02-28-19/§3-13). Dette poengtallet legges til grunn ved beregningen av tilleggspensjonen (§ 3-8) dersom sluttpoengtallet (§ 3-11) er mindre.
 
 Når antatt inntekt etter første ledd bokstav c skal fastsettes, regnes godtgjørelse av midlertidig eller tilfeldig art ikke med. Naturalytelser og overskudd på utgiftsgodtgjørelser regnes med og gis den verdien som legges til grunn ved fastsetting av inntektskatt.
 
@@ -523,7 +617,12 @@ Departementet kan gi forskrift om godskriving av pensjonspoeng for den som motta
 
 Et medlem som er født i et av årene 1931–1940, og som før fylte 26 år har fått sin inntektsevne/arbeidsevne varig nedsatt med minst halvparten på grunn av sykdom, skade eller lyte, har rett til en minste garantert tilleggspensjon basert på full opptjeningstid. Også et medlem som er født i et av årene 1923–1930, har rett til garantert tilleggspensjon dersom vedkommende før fylte 24 år fikk inntektsevnen/arbeidsevnen nedsatt med minst halvparten.
 
-Pensjonen beregnes ettersluttpoengtall 1,60 når medlemmet er født i et av årene 1923 og 1924,sluttpoengtall 2,00 når medlemmet er født i året 1925,sluttpoengtall 3,00 når medlemmet er født i et av årene 1926 – 1930, ogsluttpoengtall 3,30 når medlemmet er født i et av årene 1931 – 1940.
+Pensjonen beregnes etter
+
+1. sluttpoengtall 1,60 når medlemmet er født i et av årene 1923 og 1924,
+2. sluttpoengtall 2,00 når medlemmet er født i året 1925,
+3. sluttpoengtall 3,00 når medlemmet er født i et av årene 1926 – 1930, og
+4. sluttpoengtall 3,30 når medlemmet er født i et av årene 1931 – 1940.
 
 Dersom grunnpensjonen er redusert på grunn av manglende trygdetid, skal den garanterte tilleggspensjonen reduseres tilsvarende.
 
@@ -539,7 +638,10 @@ Tilleggspensjon som er fastsatt etter de vanlige reglene, går til fradrag i den
 
 Til en gjenlevende ektefelle med rett til pensjon etter [kapittel 17 A](lov/1997-02-28-19/kap17A) eller overgangsstønad etter [§ 17-6](lov/1997-02-28-19/§17-6) slik paragrafen lød før 1. januar 2024, ytes tilleggspensjon med 55 prosent av en tilleggspensjon beregnet på grunnlag av den avdødes opptjening etter bestemmelsene i loven her slik de lød før [lov 16. desember 2011 nr. 59 om endringer i folketrygdloven](lov/2011-12-16-59) trådte i kraft.
 
-Tilleggspensjonen til en alderspensjonist som også fyller vilkårene for rett til pensjon i § 19-16 første, andre og tredje ledd, beregnes på grunnlag av det gunstigste alternativet nedenfor og utmåles deretter etter reglene i kapittel 19:pensjonistens egen tilleggspensjon beregnet etter §§ 3-8 til 3-1655 prosent av summen av pensjonistens egen tilleggspensjon etter bokstav a og den avdødes tilleggspensjon beregnet etter første ledd.
+Tilleggspensjonen til en alderspensjonist som også fyller vilkårene for rett til pensjon i § 19-16 første, andre og tredje ledd, beregnes på grunnlag av det gunstigste alternativet nedenfor og utmåles deretter etter reglene i kapittel 19:
+
+1. pensjonistens egen tilleggspensjon beregnet etter §§ 3-8 til 3-16
+2. 55 prosent av summen av pensjonistens egen tilleggspensjon etter bokstav a og den avdødes tilleggspensjon beregnet etter første ledd.
 
 > Endret ved lover [23 juni 2000 nr. 55](lov/2000-06-23-55), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011) som endret ved lov [4 juni 2010 nr. 17](lov/2010-06-04-17), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [17 juni 2016 nr. 25](lov/2016-06-17-25) (med virkning fra 1 jan 2015), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)).
 
@@ -617,7 +719,10 @@ Departementet kan gi forskrifter om fastsetting av vanlig arbeidstid.
 
 ### § 4-4. Krav til minsteinntekt
 
-For å få rett til dagpenger må medlemmeti de siste tolv avsluttede kalendermånedene før det søkes om stønad ha hatt utbetalt en brutto arbeidsinntekt som minst svarer til 1,5 ganger grunnbeløpet på søknadstidspunktet, elleri løpet av de siste 36 avsluttede kalendermånedene før det søkes om stønad ha hatt utbetalt en brutto arbeidsinntekt som minst svarer til 3 ganger grunnbeløpet på søknadstidspunktet.
+For å få rett til dagpenger må medlemmet
+
+1. i de siste tolv avsluttede kalendermånedene før det søkes om stønad ha hatt utbetalt en brutto arbeidsinntekt som minst svarer til 1,5 ganger grunnbeløpet på søknadstidspunktet, eller
+2. i løpet av de siste 36 avsluttede kalendermånedene før det søkes om stønad ha hatt utbetalt en brutto arbeidsinntekt som minst svarer til 3 ganger grunnbeløpet på søknadstidspunktet.
 
 Likestilt med arbeidsinntekt etter denne bestemmelsen er svangerskapsrelaterte sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8) og svangerskapspenger og foreldrepenger etter [kapittel 14](lov/1997-02-28-19/kap14).
 
@@ -631,7 +736,12 @@ Departementet kan i forskrift gi nærmere regler om hva som skal regnes som de s
 
 ### § 4-5. Reelle arbeidssøkere
 
-For å ha rett til dagpenger må medlemmet være reell arbeidssøker. Som reell arbeidssøker regnes den som er arbeidsfør, er registrert som arbeidssøker hos Arbeids- og velferdsetaten og er villig tilå ta ethvert arbeid som er lønnet etter tariff eller sedvane,å ta arbeid hvor som helst i Norge,å ta arbeid uavhengig av om det er på heltid eller deltid, ogå delta på arbeidsmarkedstiltak.
+For å ha rett til dagpenger må medlemmet være reell arbeidssøker. Som reell arbeidssøker regnes den som er arbeidsfør, er registrert som arbeidssøker hos Arbeids- og velferdsetaten og er villig til
+
+1. å ta ethvert arbeid som er lønnet etter tariff eller sedvane,
+2. å ta arbeid hvor som helst i Norge,
+3. å ta arbeid uavhengig av om det er på heltid eller deltid, og
+4. å delta på arbeidsmarkedstiltak.
 
 Dersom alder eller tungtveiende sosiale hensyn knyttet til helse, omsorgsansvar for små barn eller pleietrengende i nær familie tilsier det, kan medlemmet regnes som reell arbeidssøker selv om vedkommende søker deltidsarbeid eller bare søker arbeid innenfor et begrenset geografisk område.
 
@@ -683,9 +793,17 @@ For medlemmer som får dagsatsen redusert etter [§§ 4-25](lov/1997-02-28-19/§
 
 ### § 4-10. Sanksjonsperiode ved selvforskyldt arbeidsløshet
 
-Det ytes dagpenger først etter en sanksjonsperiode når medlemmethar sagt opp sin stilling uten rimelig grunn,har sluttet uten rimelig grunn,er avskjediget eller oppsagt på grunn av forhold som kan bebreides vedkommende, ellerhandler som beskrevet i [§ 4-20 første ledd bokstav a](lov/1997-02-28-19/§4-20/ledd/1/bokstav/a) til [c](lov/1997-02-28-19/§4-20/ledd/1/bokstav/c).
+Det ytes dagpenger først etter en sanksjonsperiode når medlemmet
 
-Sanksjonsperioden løper fra det tidspunktet det er søkt om stønad, og fastsettes til18 uker første gang forhold som nevnt i første ledd inntreffer,26 uker dersom forhold som nevnt i første ledd eller [§ 4-20](lov/1997-02-28-19/§4-20) har inntruffet to eller flere ganger innenfor de siste tolv månedene.
+1. har sagt opp sin stilling uten rimelig grunn,
+2. har sluttet uten rimelig grunn,
+3. er avskjediget eller oppsagt på grunn av forhold som kan bebreides vedkommende, eller
+4. handler som beskrevet i [§ 4-20 første ledd bokstav a](lov/1997-02-28-19/§4-20/ledd/1/bokstav/a) til [c](lov/1997-02-28-19/§4-20/ledd/1/bokstav/c).
+
+Sanksjonsperioden løper fra det tidspunktet det er søkt om stønad, og fastsettes til
+
+1. 18 uker første gang forhold som nevnt i første ledd inntreffer,
+2. 26 uker dersom forhold som nevnt i første ledd eller [§ 4-20](lov/1997-02-28-19/§4-20) har inntruffet to eller flere ganger innenfor de siste tolv månedene.
 
 For at det skal kunne fastsettes sanksjonsperiode etter andre ledd bokstav b, må det som følge av de tidligere forholdene ha blitt fattet vedtak om sanksjonsperiode etter bestemmelsene i denne paragraf eller vedtak om tidsbegrenset bortfall av dagpenger etter bestemmelsene i [§ 4-20](lov/1997-02-28-19/§4-20).
 
@@ -721,7 +839,11 @@ Dagpenger inklusive barnetillegg, men eksklusive ferietillegg, kan ikke utgjøre
 
 ### § 4-13. Graderte dagpenger
 
-Det ytes graderte dagpenger til medlem som erdelvis arbeidsløs og får mindre arbeidsinntekt fordi arbeidstiden per uke er blitt redusert,delvis arbeidsløs fordi vedkommende ikke har fått full sysselsetting,delvis permittert.
+Det ytes graderte dagpenger til medlem som er
+
+1. delvis arbeidsløs og får mindre arbeidsinntekt fordi arbeidstiden per uke er blitt redusert,
+2. delvis arbeidsløs fordi vedkommende ikke har fått full sysselsetting,
+3. delvis permittert.
 
 Graderte dagpenger ytes bare når vanlig arbeidstid i meldeperioden (se [§ 4-8](lov/1997-02-28-19/§4-8)) er redusert med minst 50 prosent i forhold til medlemmets vanlige arbeidstid (se [§ 4-3](lov/1997-02-28-19/§4-3) annet ledd).
 
@@ -783,13 +905,26 @@ Et medlem som samtidig fyller vilkårene for rett til dagpenger etter denne para
 
 ### § 4-20. Tidsbegrenset bortfall av dagpenger
 
-Retten til dagpenger faller bort i et begrenset tidsrom dersom medlemmet uten rimelig grunn nekterå motta tilbud om arbeid som er lønnet etter tariff eller sedvane,å motta tilbud om arbeid hvor som helst i Norge,å motta tilbud om arbeid uavhengig av om det er på heltid eller deltid,å delta på arbeidsmarkedstiltak,å møte til konferanse med Arbeids- og velferdsetaten etter innkalling, eller unnlater å møte etter innkalling til slik konferanse.
+Retten til dagpenger faller bort i et begrenset tidsrom dersom medlemmet uten rimelig grunn nekter
+
+1. å motta tilbud om arbeid som er lønnet etter tariff eller sedvane,
+2. å motta tilbud om arbeid hvor som helst i Norge,
+3. å motta tilbud om arbeid uavhengig av om det er på heltid eller deltid,
+4. å delta på arbeidsmarkedstiltak,
+5. å møte til konferanse med Arbeids- og velferdsetaten etter innkalling, eller unnlater å møte etter innkalling til slik konferanse.
 
 Retten til dagpenger faller også bort i et begrenset tidsrom dersom medlemmet selv uten rimelig grunn unnlater å skaffe seg inntekt som arbeidstaker i stønadsperioden. Det samme gjelder dersom medlemmet har begynt i arbeid, og det deretter inntreffer forhold som nevnt i [§ 4-10](lov/1997-02-28-19/§4-10) første ledd.
 
-Retten til dagpenger faller bort i18 uker første gang et forhold som nevnt i første ledd bokstav a til d eller andre ledd inntreffer,26 uker dersom forhold som nevnt i første ledd bokstav a til d eller andre ledd, eller [§ 4-10 første ledd](lov/1997-02-28-19/§4-10/ledd/1), har inntruffet to eller flere ganger innenfor de siste tolv månedene.
+Retten til dagpenger faller bort i
 
-Retten til dagpenger faller bort ifire uker første gang et forhold som nevnt i første ledd bokstav e inntreffer,åtte uker dersom forhold som nevnt i første ledd bokstav e har inntruffet to ganger innenfor de siste tolv måneder,tolv uker dersom forhold som nevnt i første ledd bokstav e har inntruffet tre ganger innenfor de siste tolv måneder.
+1. 18 uker første gang et forhold som nevnt i første ledd bokstav a til d eller andre ledd inntreffer,
+2. 26 uker dersom forhold som nevnt i første ledd bokstav a til d eller andre ledd, eller [§ 4-10 første ledd](lov/1997-02-28-19/§4-10/ledd/1), har inntruffet to eller flere ganger innenfor de siste tolv månedene.
+
+Retten til dagpenger faller bort i
+
+1. fire uker første gang et forhold som nevnt i første ledd bokstav e inntreffer,
+2. åtte uker dersom forhold som nevnt i første ledd bokstav e har inntruffet to ganger innenfor de siste tolv måneder,
+3. tolv uker dersom forhold som nevnt i første ledd bokstav e har inntruffet tre ganger innenfor de siste tolv måneder.
 
 For at det skal kunne fastsettes tidsbegrenset bortfall av dagpenger etter tredje ledd bokstav b eller etter fjerde ledd bokstav b eller c, må det som følge av de tidligere forholdene ha blitt fattet vedtak om tidsbegrenset bortfall av dagpenger etter denne paragraf eller vedtak om sanksjonsperiode etter [§ 4-10](lov/1997-02-28-19/§4-10).
 
@@ -835,7 +970,12 @@ Retten til dagpenger faller også bort når medlemmet mottar ugradert avtalefest
 
 ### § 4-25. Samordning med reduserte ytelser fra folketrygden, eller redusert avtalefestet pensjon
 
-For medlem som har følgende reduserte ytelser fra folketrygden, reduseres dagpengene:sykepenger etter [lovens kapittel 8](lov/1997-02-28-19/kap8),pleiepenger, omsorgspenger og opplæringspenger etter lovens [kapittel 9](lov/1997-02-28-19/kap9),uføretrygd etter [lovens kapittel 12](lov/1997-02-28-19/kap12), når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste kalenderår før dagpenger tilstås,foreldrepenger eller svangerskapspenger etter [lovens kapittel 14](lov/1997-02-28-19/kap14).
+For medlem som har følgende reduserte ytelser fra folketrygden, reduseres dagpengene:
+
+1. sykepenger etter [lovens kapittel 8](lov/1997-02-28-19/kap8),
+2. pleiepenger, omsorgspenger og opplæringspenger etter lovens [kapittel 9](lov/1997-02-28-19/kap9),
+3. uføretrygd etter [lovens kapittel 12](lov/1997-02-28-19/kap12), når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste kalenderår før dagpenger tilstås,
+4. foreldrepenger eller svangerskapspenger etter [lovens kapittel 14](lov/1997-02-28-19/kap14).
 
 Dagpenger reduseres krone for krone mot ytelsene som er nevnt i første ledd. Summen av dagpenger og den andre ytelsen skal likevel ikke utgjøre mindre enn fulle dagpenger. Barnetillegg etter [§ 4-12](lov/1997-02-28-19/§4-12) andre ledd, skal holdes utenfor når dagpengene reduseres etter første punktum.
 
@@ -845,7 +985,14 @@ Dagpengene reduseres tilsvarende når medlemmet mottar avtalefestet pensjon som 
 
 ### § 4-26. Samordning med ytelser utenfor folketrygden
 
-Når medlemmet mottar følgende ytelser, reduseres dagpengene med tilsvarende beløp:pensjon fra en offentlig tjenestepensjonsordning som ikke er utformet etter prinsippene om nøytralt og fleksibelt uttak, som tidligpensjon fra stillinger med lavere aldersgrense enn den alminnelige, og alderspensjon eller tidsbegrenset avtalefestet pensjon mellom fylte 65 og 67 år,redusert uførepensjon fra offentlig pensjonsordning, når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste avsluttede kalenderår før dagpenger tilstås,vartpenger etter [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse,ventelønn etter lov 4 mars 1983 om statens tjenestemenn m.m., § 13,etterlønn,garantilott fra Garantikassen for fiskere.
+Når medlemmet mottar følgende ytelser, reduseres dagpengene med tilsvarende beløp:
+
+1. pensjon fra en offentlig tjenestepensjonsordning som ikke er utformet etter prinsippene om nøytralt og fleksibelt uttak, som tidligpensjon fra stillinger med lavere aldersgrense enn den alminnelige, og alderspensjon eller tidsbegrenset avtalefestet pensjon mellom fylte 65 og 67 år,
+2. redusert uførepensjon fra offentlig pensjonsordning, når denne er gitt med virkningstidspunkt i inneværende år eller innenfor de to siste avsluttede kalenderår før dagpenger tilstås,
+3. vartpenger etter [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse,
+4. ventelønn etter lov 4 mars 1983 om statens tjenestemenn m.m., § 13,
+5. etterlønn,
+6. garantilott fra Garantikassen for fiskere.
 
 Ved samordning etter foregående ledd skal dagpenger likevel ikke reduseres i større utstrekning enn at summen per uke av dagpenger og de ytelser det samordnes med, minst svarer til 3 prosent av grunnbeløpet.
 
@@ -897,11 +1044,28 @@ Stønad ved helsetjenester er ytelser ved sykdom etter trygdeforordningen. Beste
 
 Det er et vilkår for rett til stønad etter dette kapitlet at vedkommende er medlem i trygden.
 
-Til et medlems forsørgede ektefelle og barn ytes det stønad etter dette kapitlet selv om de forsørgede ikke er medlemmer i trygden, dersom de oppholder segi Norgepå Svalbard, på Jan Mayen eller i norske bilandi utlandet, og forsørgeren er medlem etter bestemmelsene i [§ 2-5](lov/1997-02-28-19/§2-5), elleri utlandet, og forsørgeren er medlem etter bestemmelsene i [§ 2-8](lov/1997-02-28-19/§2-8) med rett til utvidet stønad etter bestemmelser gitt i medhold av [§ 5-24](lov/1997-02-28-19/§5-24) sjuende ledd andre punktum.
+Til et medlems forsørgede ektefelle og barn ytes det stønad etter dette kapitlet selv om de forsørgede ikke er medlemmer i trygden, dersom de oppholder seg
+
+1. i Norge
+2. på Svalbard, på Jan Mayen eller i norske biland
+3. i utlandet, og forsørgeren er medlem etter bestemmelsene i [§ 2-5](lov/1997-02-28-19/§2-5), eller
+4. i utlandet, og forsørgeren er medlem etter bestemmelsene i [§ 2-8](lov/1997-02-28-19/§2-8) med rett til utvidet stønad etter bestemmelser gitt i medhold av [§ 5-24](lov/1997-02-28-19/§5-24) sjuende ledd andre punktum.
 
 ### § 5-3. Utgiftstak for egenandeler
 
-Stortinget fastsetter et egenandelstak, som er det høyeste samlede beløp et medlem skal betale i godkjente egenandeler i løpet av et kalenderår for følgende helsetjenester:legehjelppsykologhjelpviktige legemidler og spesielt medisinsk utstyrreiseutgifter, jf. [spesialisthelsetjenesteloven § 5-5](lov/1999-07-02-61/§5-5) nr. 4radiologisk undersøkelse og behandlinglaboratorieprøverhelsehjelp som utføres poliklinisktannlege- og tannpleierhjelpfysioterapiopphold ved opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetakbehandlingsreiser til utlandet (klimareiser).
+Stortinget fastsetter et egenandelstak, som er det høyeste samlede beløp et medlem skal betale i godkjente egenandeler i løpet av et kalenderår for følgende helsetjenester:
+
+1. legehjelp
+2. psykologhjelp
+3. viktige legemidler og spesielt medisinsk utstyr
+4. reiseutgifter, jf. [spesialisthelsetjenesteloven § 5-5](lov/1999-07-02-61/§5-5) nr. 4
+5. radiologisk undersøkelse og behandling
+6. laboratorieprøver
+7. helsehjelp som utføres poliklinisk
+8. tannlege- og tannpleierhjelp
+9. fysioterapi
+10. opphold ved opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner som har driftsavtale med regionalt helseforetak
+11. behandlingsreiser til utlandet (klimareiser).
 
 Når et medlem i et kalenderår har betalt godkjente egenandeler opp til egenandelstaket, dekker trygden utgiftene til godkjente egenandeler for helsetjenester som nevnt i første ledd i resten av kalenderåret.
 
@@ -923,7 +1087,12 @@ Departementet gir forskrifter om stønad etter denne paragrafen, herunder om til
 
 ### § 5-5. Private laboratorier og røntgeninstitutter
 
-Trygden yter stønad til dekning av et medlems utgifter til:prøver og undersøkelser ved private medisinske laboratorier ogradiologiske undersøkelser og behandling ved private røntgenavdelinger eller røntgeninstituttersom omfattes av avtale mellom virksomheten og regionalt helseforetak, jf. [lov 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseforetak m.m. Avtalte volumbegrensninger har ikke virkning for et medlems rett til refusjon fra trygden.
+Trygden yter stønad til dekning av et medlems utgifter til:
+
+1. prøver og undersøkelser ved private medisinske laboratorier og
+2. radiologiske undersøkelser og behandling ved private røntgenavdelinger eller røntgeninstitutter
+
+som omfattes av avtale mellom virksomheten og regionalt helseforetak, jf. [lov 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseforetak m.m. Avtalte volumbegrensninger har ikke virkning for et medlems rett til refusjon fra trygden.
 
 Det er et vilkår for rett til stønad for prøver og undersøkelser ved private medisinske laboratorier at det foreligger rekvisisjon fra lege, tannlege eller jordmor. Det er et vilkår for rett til stønad for undersøkelser og behandling ved private røntgeninstitutter at det foreligger rekvisisjon fra lege, tannlege, kiropraktor eller manuellterapeut.
 
@@ -1031,7 +1200,10 @@ Stortinget fastsetter stønadens størrelse.
 
 ### § 5-14. Viktige legemidler og spesielt medisinsk utstyr m.m.
 
-Trygden yter stønad til dekning av utgifter tilviktige legemidlerspesielt medisinsk utstyr og forbruksmateriell.
+Trygden yter stønad til dekning av utgifter til
+
+1. viktige legemidler
+2. spesielt medisinsk utstyr og forbruksmateriell.
 
 Det er et vilkår for rett til stønad at medlemmet har behov for langvarig bruk av legemidlet, det medisinske utstyret eller forbruksmateriellet.
 
@@ -1043,7 +1215,10 @@ Departementet gir forskrifter om stønad etter denne paragrafen.
 
 ### § 5-15. Viktige legemidler som også brukes i sykehus
 
-Trygden kan dekke sykehusets utgifter til et bestemt legemiddel hvis:bruken av legemidlet i sykehus innleder eller er alternativ til en medisinsk behandling utenom sykehus med samme eller terapeutisk sammenlignbart legemiddel, ogdet er fastsatt at trygden dekker utgiftene til legemidlet eller det sammenlignbare legemidlet etter [§ 5-14](lov/1997-02-28-19/§5-14) når det anvendes utenom sykehus.
+Trygden kan dekke sykehusets utgifter til et bestemt legemiddel hvis:
+
+1. bruken av legemidlet i sykehus innleder eller er alternativ til en medisinsk behandling utenom sykehus med samme eller terapeutisk sammenlignbart legemiddel, og
+2. det er fastsatt at trygden dekker utgiftene til legemidlet eller det sammenlignbare legemidlet etter [§ 5-14](lov/1997-02-28-19/§5-14) når det anvendes utenom sykehus.
 
 Trygdens maksimale dekning for den enkelte behandling fastsettes særskilt. Medlemmet kan ved behandlingen ikke avkreves egenandel for legemidlet.
 
@@ -1097,7 +1272,11 @@ En menig som kan få helsetjenester i Forsvaret, har ikke rett til stønad etter
 
 ### § 5-24. Stønad til helsetjenester i utlandet
 
-Et medlem gis stønad til nødvendige utgifter til helsetjenester i utlandet etter reglene i denne paragrafen. Utgiftene dekkes etter bestemmelsene i dette kapitlet, likevel slik at trygden også dekker reise- og oppholdsutgifter ved undersøkelse og behandling samt tilsvarende utgifter for behandlingspersonell som på grunn av pasientens helsetilstand må reise til medlemmet. For øvrig gjelder følgende særregler:Utgiftene dekkes etter særskilte satser.Utgiftene til ambulansetransport dekkes fullt ut.Utgiftene til sykehusopphold dekkes med opptil et beløp som fastsettes av Stortinget.
+Et medlem gis stønad til nødvendige utgifter til helsetjenester i utlandet etter reglene i denne paragrafen. Utgiftene dekkes etter bestemmelsene i dette kapitlet, likevel slik at trygden også dekker reise- og oppholdsutgifter ved undersøkelse og behandling samt tilsvarende utgifter for behandlingspersonell som på grunn av pasientens helsetilstand må reise til medlemmet. For øvrig gjelder følgende særregler:
+
+1. Utgiftene dekkes etter særskilte satser.
+2. Utgiftene til ambulansetransport dekkes fullt ut.
+3. Utgiftene til sykehusopphold dekkes med opptil et beløp som fastsettes av Stortinget.
 
 En person som er medlem etter [§§ 2-1](lov/1997-02-28-19/§2-1) eller [2-3](lov/1997-02-28-19/§2-3) har ikke rett til stønad til helsetjenester under midlertidige utenlandsopphold. Personer med vedvarende og regelmessig behov for oksygen- og dialysebehandling får likevel dekket nødvendige utgifter til slik behandling. Videre dekkes utgiftene til helsetjenester når et medlem reiser til utlandet for å føde.
 
@@ -1119,7 +1298,15 @@ Departementet gir forskrifter om at det ikke skal ytes stønad etter denne parag
 
 Det ytes stønad til dekning av utgifter til helsetjenester som medlemmet har hatt i et annet EØS-land etter regler fastsatt av departementet i forskrift.
 
-Forskriften kan ha nærmere bestemmelser om blant annet:hvilke helsetjenester og varer det ytes stønad tilhvem som har rett til stønadvilkår for stønad, herunder forhåndsgodkjenning og krav til tjenesteyterenberegning av stønadendekning av reise- og oppholdsutgifterkrav til dokumentasjon og oversettelse av dokumenterforholdet til andre regler om stønad til helsehjelp mottatt i annet land.
+Forskriften kan ha nærmere bestemmelser om blant annet:
+
+1. hvilke helsetjenester og varer det ytes stønad til
+2. hvem som har rett til stønad
+3. vilkår for stønad, herunder forhåndsgodkjenning og krav til tjenesteyteren
+4. beregning av stønaden
+5. dekning av reise- og oppholdsutgifter
+6. krav til dokumentasjon og oversettelse av dokumenter
+7. forholdet til andre regler om stønad til helsehjelp mottatt i annet land.
 
 > Tilføyd ved lov [19 juni 2009 nr. 72](lov/2009-06-19-72) (ikr. 1 jan 2011 iflg. [res. 3 des 2010 nr. 1508](forskrift/2010-12-03-1508)), endret ved lov [21 juni 2013 nr. 79](lov/2013-06-21-79) (ikr. 1 mars 2015 iflg. [res. 19 des 2014 nr. 1735](forskrift/2014-12-19-1735)).
 
@@ -1157,7 +1344,16 @@ Stønad kan ytes selv om behandlingen ikke er avsluttet, når det er klart at ve
 
 ### § 6-3. Grunnstønad
 
-Grunnstønad ytes til et medlem som på grunn av varig sykdom, skade eller lyte, har nødvendige ekstrautgiftertil drift av tekniske hjelpemidlertil transport, herunder drift av medlemmets biltil hold av førerhund– – –– – –på grunn av fordyret kosthold ved nødvendig spesialdiett som er vitenskapelig dokumentert og alminnelig anerkjent i medisinsk praksis for den aktuelle diagnosensom følge av slitasje på klær og sengetøytil hold av servicehund gitt med hjemmel i forskrift
+Grunnstønad ytes til et medlem som på grunn av varig sykdom, skade eller lyte, har nødvendige ekstrautgifter
+
+1. til drift av tekniske hjelpemidler
+2. til transport, herunder drift av medlemmets bil
+3. til hold av førerhund
+4. – – –
+5. – – –
+6. på grunn av fordyret kosthold ved nødvendig spesialdiett som er vitenskapelig dokumentert og alminnelig anerkjent i medisinsk praksis for den aktuelle diagnosen
+7. som følge av slitasje på klær og sengetøy
+8. til hold av servicehund gitt med hjemmel i forskrift
 
 Stortinget fastsetter satsene for grunnstønad.
 
@@ -1189,7 +1385,12 @@ Forhøyet hjelpestønad ytes til et medlem under 18 år som har vesentlig størr
 
 Forhøyet hjelpestønad utgjør 2, 4 eller 6 ganger ordinær hjelpestønad for tilsyn og pleie.
 
-Ved avgjørelsen av om det skal ytes forhøyet hjelpestønad, og i tilfelle hvilken sats stønaden skal ytes etter, legges det vekt påhvor mye medlemmets fysiske og psykiske funksjonsevne er nedsatt,hvor omfattende pleieoppgaven og tilsynet er,hvor stort behov medlemmet har for stimulering, opplæring og trening,hvor mye pleieoppgaven binder den som gjør arbeidet.
+Ved avgjørelsen av om det skal ytes forhøyet hjelpestønad, og i tilfelle hvilken sats stønaden skal ytes etter, legges det vekt på
+
+- hvor mye medlemmets fysiske og psykiske funksjonsevne er nedsatt,
+- hvor omfattende pleieoppgaven og tilsynet er,
+- hvor stort behov medlemmet har for stimulering, opplæring og trening,
+- hvor mye pleieoppgaven binder den som gjør arbeidet.
 
 Foreldre med ansvar for tilsyn og pleie av barn som har mottatt forhøyet hjelpestønad i minst tre år gis rett til stønad med samme sats i tre måneder etter at behovet for tilsyn og pleie har opphørt fordi barnet dør.
 
@@ -1243,7 +1444,10 @@ Stønad ved gravferd er gravferdshjelp etter trygdeforordningen. Bestemmelsene i
 
 Når et medlem i trygden dør, ytes det behovsprøvd gravferdsstønad med opptil et beløp som fastsettes av Stortinget (full gravferdsstønad). Stønaden kan ikke settes høyere enn de faktiske utgiftene til begravelsen.
 
-Gravferdsstønad etter første ledd gis uten behovsprøving dersom avdøde var under 18 år. For øvrig settes stønaden ned etter følgende regler:Når den avdøde ikke var gift, reduseres stønaden med formue og forsikringsbeløp utbetalt som følge av dødsfallet.Når den avdøde var gift, reduseres stønaden med summen av ektefellenes finansformue og forsikringsbeløp utbetalt som følge av dødsfallet, etter at et fribeløp tilsvarende full gravferdsstønad er trukket fra.
+Gravferdsstønad etter første ledd gis uten behovsprøving dersom avdøde var under 18 år. For øvrig settes stønaden ned etter følgende regler:
+
+1. Når den avdøde ikke var gift, reduseres stønaden med formue og forsikringsbeløp utbetalt som følge av dødsfallet.
+2. Når den avdøde var gift, reduseres stønaden med summen av ektefellenes finansformue og forsikringsbeløp utbetalt som følge av dødsfallet, etter at et fribeløp tilsvarende full gravferdsstønad er trukket fra.
 
 Formue som nevnt i andre ledd bokstav a og b skal være den formue som framgår av siste fastsetting av formues- og inntektsskatt.
 
@@ -1315,7 +1519,18 @@ Det ytes ikke sykepenger fra det tidspunktet det er godtgjort at yrkesaktivitete
 
 Sykepenger ytes til den som er arbeidsufør på grunn av en funksjonsnedsettelse som klart skyldes sykdom eller skade. Arbeidsuførhet som skyldes sosiale eller økonomiske problemer o.l., gir ikke rett til sykepenger.
 
-I de tilfellene der medlemmet må være borte fra arbeidet, ytes sykepenger ogsånår vedkommende er innlagt i en godkjent helseinstitusjon,når vedkommende er under behandling og legen erklærer at behandlingen gjør det nødvendig at vedkommende ikke arbeider,når vedkommende deltar på et arbeidsrettet tiltak,når vedkommende på grunn av sykdom, skade eller lyte får tilskott til opplæringstiltak etter [§ 10-7](lov/1997-02-28-19/§10-7) tredje ledd,når vedkommende er til nødvendig kontrollundersøkelse som krever minst 24 timers fravær, reisetid medregnet,når vedkommende myndighet har nedlagt forbud mot at han eller hun arbeider på grunn av smittefare,når vedkommende er arbeidsufør som følge av svangerskapsavbrudd,når vedkommende er arbeidsufør som følge av behandling for barnløshet,når vedkommende er donor eller er under vurdering som donor,når vedkommende er arbeidsufør som følge av behandling i forbindelse med sterilisering.
+I de tilfellene der medlemmet må være borte fra arbeidet, ytes sykepenger også
+
+1. når vedkommende er innlagt i en godkjent helseinstitusjon,
+2. når vedkommende er under behandling og legen erklærer at behandlingen gjør det nødvendig at vedkommende ikke arbeider,
+3. når vedkommende deltar på et arbeidsrettet tiltak,
+4. når vedkommende på grunn av sykdom, skade eller lyte får tilskott til opplæringstiltak etter [§ 10-7](lov/1997-02-28-19/§10-7) tredje ledd,
+5. når vedkommende er til nødvendig kontrollundersøkelse som krever minst 24 timers fravær, reisetid medregnet,
+6. når vedkommende myndighet har nedlagt forbud mot at han eller hun arbeider på grunn av smittefare,
+7. når vedkommende er arbeidsufør som følge av svangerskapsavbrudd,
+8. når vedkommende er arbeidsufør som følge av behandling for barnløshet,
+9. når vedkommende er donor eller er under vurdering som donor,
+10. når vedkommende er arbeidsufør som følge av behandling i forbindelse med sterilisering.
 
 Ved arbeidsuførhet i forbindelse med et kosmetisk inngrep ytes det sykepenger bare hvis inngrepet er medisinsk begrunnet.
 
@@ -1343,7 +1558,12 @@ Legeerklæring kan ikke godtas for tidsrom før medlemmet ble undersøkt av lege
 
 Legeerklæring utstedes etter at legen har foretatt en fysisk undersøkelse av medlemmet. Dersom fysisk undersøkelse samme dag ikke er mulig, kan legen utstede legeerklæring etter e-konsultasjon. Pasienten skal så raskt som mulig bli fysisk undersøkt av legen.
 
-Legen kan også utstede legeerklæring etter e-konsultasjon uten etterfølgende fysisk undersøkelse dersom alle de følgende vilkårene er oppfylt:pasienten er kjent for legen,pasientens diagnose er kjent for legen,legen kan vurdere pasientens arbeidsevne uten fysisk undersøkelse oglegen anser at det er faglig forsvarlig å gjennomføre konsultasjonen som en e-konsultasjon.
+Legen kan også utstede legeerklæring etter e-konsultasjon uten etterfølgende fysisk undersøkelse dersom alle de følgende vilkårene er oppfylt:
+
+1. pasienten er kjent for legen,
+2. pasientens diagnose er kjent for legen,
+3. legen kan vurdere pasientens arbeidsevne uten fysisk undersøkelse og
+4. legen anser at det er faglig forsvarlig å gjennomføre konsultasjonen som en e-konsultasjon.
 
 Selv om vilkårene i tredje eller fjerde ledd ikke er oppfylt, kan det likevel utstedes sykmelding etter e-konsultasjon dersom legen vurderer at det er overveiende sannsynlig at pasienten har en allmennfarlig smittsom sykdom etter [smittevernloven § 1-3](lov/1994-08-05-55/§1-3) første ledd nr. 3, og at fysisk oppmøte vil innebære risiko for smittespredning.
 
@@ -1351,7 +1571,11 @@ Vurderingen av arbeidsuførheten skal ta utgangspunkt i en funksjonsvurdering. L
 
 Senest når arbeidsuførheten har vart åtte uker uten at medlemmet er i arbeidsrelatert aktivitet, må det legges fram en legeerklæring. For at medlemmet skal få utbetalt sykepenger fra trygden, må legeerklæringen dokumentere at medisinske grunner er til hinder for at arbeidsrelaterte aktiviteter iverksettes. Erklæringen skal inneholde en redegjørelse for det videre behandlingsopplegget og en vurdering av muligheten for at vedkommende kan gjenoppta det tidligere arbeidet eller ta annet arbeid.
 
-Sykepenger kan likevel utbetales uten slik legeerklæring som nevnt i sjuende ledddersom medlemmet er innlagt i helseinstitusjon,dersom lidelsen er så alvorlig at en ikke kan regne med at medlemmet blir arbeidsfør igjen, ellerdersom medlemmet forventes å bli friskmeldt innen kort tid.
+Sykepenger kan likevel utbetales uten slik legeerklæring som nevnt i sjuende ledd
+
+1. dersom medlemmet er innlagt i helseinstitusjon,
+2. dersom lidelsen er så alvorlig at en ikke kan regne med at medlemmet blir arbeidsfør igjen, eller
+3. dersom medlemmet forventes å bli friskmeldt innen kort tid.
 
 Departementet kan gi forskrifter om unntak fra vilkåret om legeerklæring i første og sjuende ledd for et begrenset tidsrom når arbeidsuførheten dokumenteres med erklæring fra annet helsepersonell.
 
@@ -1387,7 +1611,10 @@ Retten til sykepenger faller bort dersom medlemmet uten rimelig grunn nekter å 
 
 Det er et vilkår for rett til sykepenger at medlemmet oppholder seg i Norge, i et annet EØS-land eller i et land eller område der trygdeforordningen er gitt anvendelse for vedkommende ved en bi- eller multilateral trygdeavtale som nevnt i [§ 1-3 b](lov/1997-02-28-19/§1-3b). For et medlem som ikke er EØS-borger, stilles det krav om opphold i Norge, med mindre annet følger av trygdeforordningen, se [§ 1-3 a](lov/1997-02-28-19/§1-3a), eller en bi- eller multilateral trygdeavtale som nevnt i [§ 1-3 b](lov/1997-02-28-19/§1-3b).
 
-Sykepenger ytes uten hinder av første ledd under opphold utenfor Norge tilen person som er medlem etter [§ 2-5](lov/1997-02-28-19/§2-5), [§ 2-6](lov/1997-02-28-19/§2-6) eller [§ 2-8](lov/1997-02-28-19/§2-8),et medlem som er innlagt i helseinstitusjon for norsk offentlig regning, eller som får oppholdet dekket etter avtale med et annet land om trygd.
+Sykepenger ytes uten hinder av første ledd under opphold utenfor Norge til
+
+1. en person som er medlem etter [§ 2-5](lov/1997-02-28-19/§2-5), [§ 2-6](lov/1997-02-28-19/§2-6) eller [§ 2-8](lov/1997-02-28-19/§2-8),
+2. et medlem som er innlagt i helseinstitusjon for norsk offentlig regning, eller som får oppholdet dekket etter avtale med et annet land om trygd.
 
 Et medlem kan også ellers få sykepenger uten hinder av første ledd ved opphold utenfor Norge i inntil fire uker i løpet av en tolvmånedersperiode. Det må være avklart med arbeidsgiver og sykmelder at oppholdet ikke vil være til hinder for planlagt aktivitet og behandling. Det er også et vilkår at oppholdet ikke vil hindre Arbeids- og velferdsetatens kontroll og oppfølging. Medlemmet må søke Arbeids- og velferdsetaten om godkjenning av oppholdet.
 
@@ -1459,7 +1686,13 @@ Det ytes feriepenger av sykepenger fra trygden etter bestemmelsene i [§ 8-33](l
 
 ### § 8-17. Sykepenger fra trygden
 
-Trygden yter sykepengeretter utløpet av arbeidsgiverperioden, se [§ 8-19](lov/1997-02-28-19/§8-19),når arbeidstakeren har rett til sykepenger i de første 16 kalenderdagene av sykefraværet, men arbeidsgiveren ikke er forpliktet til å yte sykepenger etter [§ 8-18](lov/1997-02-28-19/§8-18),under streik eller lockout, etter bestemmelsene i [§ 8-31](lov/1997-02-28-19/§8-31),under nødvendig kontrollundersøkelse som krever minst 24 timers fravær, se [§ 8-4](lov/1997-02-28-19/§8-4) andre ledd bokstav e,når arbeidstakeren er donor, se [§ 8-4](lov/1997-02-28-19/§8-4) andre ledd bokstav i.
+Trygden yter sykepenger
+
+1. etter utløpet av arbeidsgiverperioden, se [§ 8-19](lov/1997-02-28-19/§8-19),
+2. når arbeidstakeren har rett til sykepenger i de første 16 kalenderdagene av sykefraværet, men arbeidsgiveren ikke er forpliktet til å yte sykepenger etter [§ 8-18](lov/1997-02-28-19/§8-18),
+3. under streik eller lockout, etter bestemmelsene i [§ 8-31](lov/1997-02-28-19/§8-31),
+4. under nødvendig kontrollundersøkelse som krever minst 24 timers fravær, se [§ 8-4](lov/1997-02-28-19/§8-4) andre ledd bokstav e,
+5. når arbeidstakeren er donor, se [§ 8-4](lov/1997-02-28-19/§8-4) andre ledd bokstav i.
 
 Det ytes ikke sykepenger fra trygden under lovbestemt ferie etter [lov 29. april 1988 nr. 21](lov/1988-04-29-21) om ferie [§ 5](lov/1988-04-29-21/§5) og permisjon, se også § 8-3 tredje ledd.
 
@@ -1537,7 +1770,12 @@ For å få rett til å nytte egenmelding må arbeidstakeren ha arbeidet hos arbe
 
 Dersom et arbeidsforhold blir avbrutt i mer enn to uker, kan egenmelding først nyttes etter at arbeidstakeren igjen har vært i arbeid i to måneder.
 
-Egenmelding kan likevel nyttes når vedkommende har vært i arbeid i fire uker etter avbruddet, dersom avbruddet skyldtesbedriftspermitteringpermisjon etter [arbeidsmiljøloven §§ 12-2](lov/2005-06-17-62/§12-2), [12-3](lov/2005-06-17-62/§12-3), [12-4](lov/2005-06-17-62/§12-4), [12-5](lov/2005-06-17-62/§12-5), [12-9](lov/2005-06-17-62/§12-9) og [12-10](lov/2005-06-17-62/§12-10).permisjon etter [skipsarbeidsloven §§ 7-2](lov/2013-06-21-102/§7-2) til [7-5](lov/2013-06-21-102/§7-5), [7-8](lov/2013-06-21-102/§7-8) og [7-9](lov/2013-06-21-102/§7-9), ellermilitærtjeneste.
+Egenmelding kan likevel nyttes når vedkommende har vært i arbeid i fire uker etter avbruddet, dersom avbruddet skyldtes
+
+1. bedriftspermittering
+2. permisjon etter [arbeidsmiljøloven §§ 12-2](lov/2005-06-17-62/§12-2), [12-3](lov/2005-06-17-62/§12-3), [12-4](lov/2005-06-17-62/§12-4), [12-5](lov/2005-06-17-62/§12-5), [12-9](lov/2005-06-17-62/§12-9) og [12-10](lov/2005-06-17-62/§12-10).
+3. permisjon etter [skipsarbeidsloven §§ 7-2](lov/2013-06-21-102/§7-2) til [7-5](lov/2013-06-21-102/§7-5), [7-8](lov/2013-06-21-102/§7-8) og [7-9](lov/2013-06-21-102/§7-9), eller
+4. militærtjeneste.
 
 Egenmelding kan nyttes for opptil tre kalenderdager om gangen. Innenfor arbeidsgiverperioden kan arbeidsgiveren likevel gi rett til å bruke egenmelding utover tre kalenderdager. Arbeidsgiveren har plikt til å drøfte med de tillitsvalgte om det skal gis utvidet rett til å bruke egenmelding.
 
@@ -1557,7 +1795,10 @@ Arbeidsgiveren kan kreve at arbeidstakeren skriftlig bekrefter en muntlig egenme
 
 ### § 8-27. Tap av retten til å nytte egenmelding
 
-En arbeidsgiver kan bestemme at en arbeidstaker skal tape retten til å få sykepenger på grunnlag av egenmeldingdersom arbeidstakeren i løpet av 12 måneder har hatt minst fire fravær uten å legge fram legeerklæring,dersom arbeidsgiveren har rimelig grunn til å anta at fraværet ikke skyldes sykdom.
+En arbeidsgiver kan bestemme at en arbeidstaker skal tape retten til å få sykepenger på grunnlag av egenmelding
+
+1. dersom arbeidstakeren i løpet av 12 måneder har hatt minst fire fravær uten å legge fram legeerklæring,
+2. dersom arbeidsgiveren har rimelig grunn til å anta at fraværet ikke skyldes sykdom.
 
 Før arbeidsgiveren treffer sin beslutning, skal arbeidstakeren gis høve til å uttale seg. En beslutning om å ta fra en arbeidstaker retten til å nytte egenmelding skal vurderes på nytt etter seks måneder.
 
@@ -1571,7 +1812,11 @@ Sykepengegrunnlaget som nevnt i [§ 8-10](lov/1997-02-28-19/§8-10) fastsettes i
 
 Den aktuelle månedsinntekten skal beregnes etter den gjennomsnittlige arbeidsinntekten som arbeidstakeren har hatt i arbeidsforholdet og som rapporteres til a-ordningen etter reglene i a-opplysningsloven i en nærmere bestemt periode før han eller hun ble arbeidsufør (beregningsperioden).
 
-Beregningsperioden fastsettes slik:De tre siste kalendermånedene før arbeidstakeren ble arbeidsufør legges til grunn.I et arbeidsforhold som har vart så kort tid at det ikke er rapportert inntekt til a-ordningen for tre hele kalendermåneder, skal dette kortere tidsrommet legges til grunn.I et arbeidsforhold der arbeidstakeren har fått varig lønnsendring i løpet av eller etter beregningsperioden, men før arbeidsuførhetstidspunktet, skal tidsrommet etter lønnsendringen legges til grunn.
+Beregningsperioden fastsettes slik:
+
+1. De tre siste kalendermånedene før arbeidstakeren ble arbeidsufør legges til grunn.
+2. I et arbeidsforhold som har vart så kort tid at det ikke er rapportert inntekt til a-ordningen for tre hele kalendermåneder, skal dette kortere tidsrommet legges til grunn.
+3. I et arbeidsforhold der arbeidstakeren har fått varig lønnsendring i løpet av eller etter beregningsperioden, men før arbeidsuførhetstidspunktet, skal tidsrommet etter lønnsendringen legges til grunn.
 
 Lovlig fravær uten lønn skal holdes utenfor beregningsperioden. Dersom arbeidstakeren har hatt lovlig fravær i beregningsperioden, skal det fastsettes en inntekt i fraværsperioden som tilsvarer den inntekten arbeidstakeren ville ha hatt dersom han eller hun ikke hadde vært borte fra arbeidet.
 
@@ -1659,7 +1904,11 @@ Dersom medlemmets arbeidssituasjon eller virksomhet er varig endret, og denne en
 
 ### § 8-36. Forsikring for tillegg til sykepenger
 
-En selvstendig næringsdrivende kan mot særskilt premie tegne forsikring som kan omfattesykepenger med 80 prosent av sykepengegrunnlaget fra første sykedagsykepenger med 100 prosent av sykepengegrunnlaget fra 17. sykedag, ellersykepenger med 100 prosent av sykepengegrunnlaget fra første sykedag.
+En selvstendig næringsdrivende kan mot særskilt premie tegne forsikring som kan omfatte
+
+1. sykepenger med 80 prosent av sykepengegrunnlaget fra første sykedag
+2. sykepenger med 100 prosent av sykepengegrunnlaget fra 17. sykedag, eller
+3. sykepenger med 100 prosent av sykepengegrunnlaget fra første sykedag.
 
 Medlemmet har ikke rett til sykepenger etter forsikringen når det gjelder arbeidsuførhet som oppstår i de første fire ukene (opptjeningstid), regnet fra den dag Arbeids- og velferdsetaten mottok søknaden om forsikring. Vilkåret om opptjeningstid gjelder ikke dersom søknaden om forsikring blir satt fram innen 16 kalenderdager etter at vedkommende var sykepengedekket som arbeidstaker, som frilanser med forsikring etter [§ 8-39](lov/1997-02-28-19/§8-39) eller som arbeidsløs etter [§ 8-49](lov/1997-02-28-19/§8-49).
 
@@ -1673,7 +1922,12 @@ Departementet gir forskrifter om forsikringsordningen, herunder hvor stor premie
 
 ### § 8-37. Opphør av forsikring for tillegg til sykepenger
 
-Forsikringen opphørerved utgangen av det halvår da Arbeids- og velferdsetaten mottok oppsigelse,ved utgangen av det halvår som det er betalt premie for, hvis premien for neste halvår ikke blir betalt innen to uker etter skriftlig varsel,fra den dag den selvstendige næringsvirksomheten opphører,fra den dag retten til sykepenger faller bort etter [§ 8-12](lov/1997-02-28-19/§8-12).
+Forsikringen opphører
+
+1. ved utgangen av det halvår da Arbeids- og velferdsetaten mottok oppsigelse,
+2. ved utgangen av det halvår som det er betalt premie for, hvis premien for neste halvår ikke blir betalt innen to uker etter skriftlig varsel,
+3. fra den dag den selvstendige næringsvirksomheten opphører,
+4. fra den dag retten til sykepenger faller bort etter [§ 8-12](lov/1997-02-28-19/§8-12).
 
 Et medlem kan ikke si opp forsikringen for en periode da vedkommende er sykmeldt. I en slik periode kan skyldig premie motregnes i vedkommendes krav på sykepenger.
 
@@ -1727,7 +1981,10 @@ Til et medlem som på sykmeldingstidspunktet har inntekt både som arbeidstaker 
 
 Til et medlem som på sykmeldingstidspunktet har inntekt både som arbeidstaker og som selvstendig næringsdrivende, ytes det sykepenger etter bestemmelsene for arbeidstakere. Se [§§ 8-15](lov/1997-02-28-19/§8-15) til [8-33](lov/1997-02-28-19/§8-33).
 
-Sykepengegrunnlaget fastsettes på årsbasis etter følgende alternativer:Sykepengegrunnlaget fastsettes ut fra den aktuelle månedsinntekten, se [§§ 8-28](lov/1997-02-28-19/§8-28) til [8-30](lov/1997-02-28-19/§8-30).Sykepengegrunnlaget fastsettes ut fra den pensjonsgivende årsinntekten, se [§ 8-35](lov/1997-02-28-19/§8-35).
+Sykepengegrunnlaget fastsettes på årsbasis etter følgende alternativer:
+
+1. Sykepengegrunnlaget fastsettes ut fra den aktuelle månedsinntekten, se [§§ 8-28](lov/1997-02-28-19/§8-28) til [8-30](lov/1997-02-28-19/§8-30).
+2. Sykepengegrunnlaget fastsettes ut fra den pensjonsgivende årsinntekten, se [§ 8-35](lov/1997-02-28-19/§8-35).
 
 For differansen mellom inntekt etter alternativ b) og inntekt etter alternativ a) gjelder bestemmelsene for selvstendig næringsdrivende, se [§ 8-34](lov/1997-02-28-19/§8-34).
 
@@ -1751,7 +2008,10 @@ Sykepengegrunnlaget fastsettes etter de bestemmelsene som gjelder for et medlem 
 
 ### § 8-44. Arbeidstaker på skip
 
-Til et medlem som er ansatt på et norsk skip i utenriksfart, ytes det sykepenger etter bestemmelsene om sykepenger til arbeidstakere i [§§ 8-15](lov/1997-02-28-19/§8-15) til [8-33](lov/1997-02-28-19/§8-33), og etter følgende særbestemmelser:Det kan ytes sykepenger til et medlem som er arbeidsufør som arbeidstaker på skip, selv om vedkommende ikke ellers er arbeidsufør.Bestemmelsen om opptjeningstid for rett til sykepenger i [§ 8-2](lov/1997-02-28-19/§8-2) gjelder ikke.
+Til et medlem som er ansatt på et norsk skip i utenriksfart, ytes det sykepenger etter bestemmelsene om sykepenger til arbeidstakere i [§§ 8-15](lov/1997-02-28-19/§8-15) til [8-33](lov/1997-02-28-19/§8-33), og etter følgende særbestemmelser:
+
+1. Det kan ytes sykepenger til et medlem som er arbeidsufør som arbeidstaker på skip, selv om vedkommende ikke ellers er arbeidsufør.
+2. Bestemmelsen om opptjeningstid for rett til sykepenger i [§ 8-2](lov/1997-02-28-19/§8-2) gjelder ikke.
 
 > Endret ved lover [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [21 mai 2021 nr. 38](lov/2021-05-21-38) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1627](forskrift/2021-05-21-1627)).
 
@@ -1765,17 +2025,28 @@ En fisker som er tatt opp på blad B i fiskermanntallet i medhold av [lov 28. ju
 
 Et medlem som har utført militærtjeneste, har rett til sykepenger ved arbeidsuførhet uten hensyn til vilkårene i [§§ 8-2](lov/1997-02-28-19/§8-2) og [8-3](lov/1997-02-28-19/§8-3) dersom arbeidsuførheten oppstår under tjenesten.
 
-Sykepenger ytes etter de samme bestemmelsene som for arbeidstakere, men med følgende særbestemmelser:Sykepenger ytes fra og med dagen etter dimittering.Sykepengegrunnlaget fastsettes etter arbeids- og inntektsforholdene før vedkommende begynte i tjenesten. Dersom tjenesten har vart eller var ment å vare mer enn 28 dager, skal sykepengegrunnlaget minst svare til en årsinntekt på to ganger grunnbeløpet.
+Sykepenger ytes etter de samme bestemmelsene som for arbeidstakere, men med følgende særbestemmelser:
+
+1. Sykepenger ytes fra og med dagen etter dimittering.
+2. Sykepengegrunnlaget fastsettes etter arbeids- og inntektsforholdene før vedkommende begynte i tjenesten. Dersom tjenesten har vart eller var ment å vare mer enn 28 dager, skal sykepengegrunnlaget minst svare til en årsinntekt på to ganger grunnbeløpet.
 
 > Endret ved lover [6 juni 1997 nr. 36](lov/1997-06-06-36) (med virkning fra 1 mai 1997), [15 juni 2001 nr. 90](lov/2001-06-15-90), [12 aug 2016 nr. 77](lov/2016-08-12-77) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](forskrift/2017-06-16-778)).
 
 ### § 8-47. Yrkesaktive medlemmer som midlertidig har vært ute av inntektsgivende arbeid
 
-Denne paragrafen gjelder for yrkesaktive medlemmer som på sykmeldingstidspunktet midlertidig har vært ute av inntektsgivende arbeid i mindre enn en måned, og somfremdeles er ute av inntektsgivende arbeid, ellerer i arbeid uten å fylle vilkåret i [§ 8-2](lov/1997-02-28-19/§8-2) om fire ukers opptjeningstid.
+Denne paragrafen gjelder for yrkesaktive medlemmer som på sykmeldingstidspunktet midlertidig har vært ute av inntektsgivende arbeid i mindre enn en måned, og som
+
+1. fremdeles er ute av inntektsgivende arbeid, eller
+2. er i arbeid uten å fylle vilkåret i [§ 8-2](lov/1997-02-28-19/§8-2) om fire ukers opptjeningstid.
 
 Likestilt med arbeid etter første ledd er tidsrom da medlemmet mottar en ytelse til livsopphold etter [kapitlene 4](lov/1997-02-28-19/kap4), 8, 9 eller 14.
 
-Likestilt med arbeid etter første ledd er også tidsromda medlemmet utfører militærtjeneste,da en arbeidstaker på skip i utenriksfart avspaserer opparbeidet fritid,da medlemmet har lovbestemt ferie,da medlemmet har lovbestemt permisjon etter [arbeidsmiljøloven §§ 12-1](lov/2005-06-17-62/§12-1) til [12-5](lov/2005-06-17-62/§12-5) dersom vedkommende har avtale om å gjenoppta arbeidet etter permisjonen.
+Likestilt med arbeid etter første ledd er også tidsrom
+
+1. da medlemmet utfører militærtjeneste,
+2. da en arbeidstaker på skip i utenriksfart avspaserer opparbeidet fritid,
+3. da medlemmet har lovbestemt ferie,
+4. da medlemmet har lovbestemt permisjon etter [arbeidsmiljøloven §§ 12-1](lov/2005-06-17-62/§12-1) til [12-5](lov/2005-06-17-62/§12-5) dersom vedkommende har avtale om å gjenoppta arbeidet etter permisjonen.
 
 Dersom et medlem mottar eller har mottatt sluttvederlag eller etterlønn i forbindelse med opphør av et arbeidsforhold eller frilansoppdrag, utvides fristen i første ledd til opptil seks måneder. Ved utdanningspermisjon fra et arbeidsforhold i opptil ett år utvides fristen i første ledd til tolv måneder dersom utdanningen må avbrytes på grunn av sykdom.
 
@@ -1865,7 +2136,13 @@ Dersom medlemmet er arbeidsufør ved løslatelsen eller når forvaltningen heves
 
 ### § 8-55. Sykepenger ved yrkesskade
 
-Til den som er arbeidsufør på grunn av en skade eller sykdom som går inn under [kapittel 13](lov/1997-02-28-19/kap13), ytes det sykepenger etter følgende særbestemmelser:Vilkåret i [§§ 8-2](lov/1997-02-28-19/§8-2), [8-18](lov/1997-02-28-19/§8-18), [8-36](lov/1997-02-28-19/§8-36) og [8-39](lov/1997-02-28-19/§8-39) om opptjeningstid gjelder ikke.Sykepenger ytes minst ut fra det sykepengegrunnlaget vedkommende hadde på skadetidspunktet.Ved arbeidsuførhet som skyldes yrkesskade medlemmet er påført som militærperson, ytes det også ved tilbakefall sykepenger etter bestemmelsene i [§ 8-46](lov/1997-02-28-19/§8-46).Sykepenger utbetales under opphold utenfor Norge uten hensyn til bestemmelsene i [§ 8-9](lov/1997-02-28-19/§8-9).Sykepenger fra trygden ytes i opptil 248, 250 eller 260 dager uten hensyn til bestemmelsene i [§ 8-12](lov/1997-02-28-19/§8-12).
+Til den som er arbeidsufør på grunn av en skade eller sykdom som går inn under [kapittel 13](lov/1997-02-28-19/kap13), ytes det sykepenger etter følgende særbestemmelser:
+
+1. Vilkåret i [§§ 8-2](lov/1997-02-28-19/§8-2), [8-18](lov/1997-02-28-19/§8-18), [8-36](lov/1997-02-28-19/§8-36) og [8-39](lov/1997-02-28-19/§8-39) om opptjeningstid gjelder ikke.
+2. Sykepenger ytes minst ut fra det sykepengegrunnlaget vedkommende hadde på skadetidspunktet.
+3. Ved arbeidsuførhet som skyldes yrkesskade medlemmet er påført som militærperson, ytes det også ved tilbakefall sykepenger etter bestemmelsene i [§ 8-46](lov/1997-02-28-19/§8-46).
+4. Sykepenger utbetales under opphold utenfor Norge uten hensyn til bestemmelsene i [§ 8-9](lov/1997-02-28-19/§8-9).
+5. Sykepenger fra trygden ytes i opptil 248, 250 eller 260 dager uten hensyn til bestemmelsene i [§ 8-12](lov/1997-02-28-19/§8-12).
 
 > Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 apr 1998), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), [21 mai 2021 nr. 38](lov/2021-05-21-38) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1627](forskrift/2021-05-21-1627), se endringsloven del II for overgangsregel).
 
@@ -1905,7 +2182,10 @@ Inntektsgrunnlaget for sykepenger (sykepengegrunnlaget, se [§ 8-10](lov/1997-02
 
 Det er et vilkår for rett til ytelser etter dette kapitlet at medlemmet oppholder seg i Norge, i et annet EØS-land eller i et land eller område der trygdeforordningen er gitt anvendelse for vedkommende ved en bi- eller multilateral trygdeavtale som nevnt i [§ 1-3 b](lov/1997-02-28-19/§1-3b). For et medlem som ikke er EØS-borger, stilles det krav om opphold i Norge, med mindre annet følger av trygdeforordningen, se [§ 1-3 a](lov/1997-02-28-19/§1-3a), eller en bi- eller multilateral trygdeavtale som nevnt i [§ 1-3 b](lov/1997-02-28-19/§1-3b).
 
-Ytelser etter dette kapitlet gis uten hinder av første ledd under opphold utenfor Norge tilen person som er medlem etter [§ 2-5](lov/1997-02-28-19/§2-5), [§ 2-6](lov/1997-02-28-19/§2-6) eller [§ 2-8](lov/1997-02-28-19/§2-8),et medlem som har omsorgen for et barn som er innlagt i helseinstitusjon for norsk offentlig regning, eller der barnet får oppholdet dekket etter avtale med et annet land om trygd.
+Ytelser etter dette kapitlet gis uten hinder av første ledd under opphold utenfor Norge til
+
+1. en person som er medlem etter [§ 2-5](lov/1997-02-28-19/§2-5), [§ 2-6](lov/1997-02-28-19/§2-6) eller [§ 2-8](lov/1997-02-28-19/§2-8),
+2. et medlem som har omsorgen for et barn som er innlagt i helseinstitusjon for norsk offentlig regning, eller der barnet får oppholdet dekket etter avtale med et annet land om trygd.
 
 Et medlem kan også ellers få ytelser etter dette kapitlet uten hinder av første ledd ved opphold utenfor Norge i inntil åtte uker i løpet av en tolvmånedersperiode. Medlemmet skal informere Arbeids- og velferdsetaten om oppholdet.
 
@@ -1917,7 +2197,12 @@ Når et medlem som arbeider i utlandet, har rett til ytelser etter [kapittel 9](
 
 ### § 9-5. Stønadssituasjonen for omsorgspenger
 
-Til en arbeidstaker, frilanser eller selvstendig næringsdrivende som har omsorg for barn, ytes det omsorgspenger dersom han eller hun er borte fra arbeidetpå grunn av nødvendig tilsyn med og pleie av et sykt barn i hjemmet eller i helseinstitusjon,fordi den som har det daglige barnetilsynet er syk,fordi den som har det daglige barnetilsynet er forhindret fra å ha tilsyn med barnet fordi vedkommende følger et annet barn til utredning eller til innleggelse i helseinstitusjon, ellerfordi barnet på grunn av sykdom trenger oppfølging i form av legebesøk mv. selv om barnet ikke er sykt eller pleietrengende den aktuelle dagen.
+Til en arbeidstaker, frilanser eller selvstendig næringsdrivende som har omsorg for barn, ytes det omsorgspenger dersom han eller hun er borte fra arbeidet
+
+1. på grunn av nødvendig tilsyn med og pleie av et sykt barn i hjemmet eller i helseinstitusjon,
+2. fordi den som har det daglige barnetilsynet er syk,
+3. fordi den som har det daglige barnetilsynet er forhindret fra å ha tilsyn med barnet fordi vedkommende følger et annet barn til utredning eller til innleggelse i helseinstitusjon, eller
+4. fordi barnet på grunn av sykdom trenger oppfølging i form av legebesøk mv. selv om barnet ikke er sykt eller pleietrengende den aktuelle dagen.
 
 Retten til omsorgspenger etter første ledd gjelder også fosterforeldre.
 
@@ -2109,7 +2394,10 @@ Stønad til anskaffelse av bil i medhold av [§ 10-6](lov/1997-02-28-19/§10-6) 
 
 ### § 10-5. Stønad til bedring av funksjonsevnen i arbeidslivet
 
-Det ytes stønad etter [§ 10-7](lov/1997-02-28-19/§10-7) til et medlem som på grunn av sykdom, skade eller lytehar fått sin evne til å utføre inntektsgivende arbeid varig nedsatt, ellerhar fått sine muligheter til å velge yrke eller arbeidsplass vesentlig innskrenket.
+Det ytes stønad etter [§ 10-7](lov/1997-02-28-19/§10-7) til et medlem som på grunn av sykdom, skade eller lyte
+
+1. har fått sin evne til å utføre inntektsgivende arbeid varig nedsatt, eller
+2. har fått sine muligheter til å velge yrke eller arbeidsplass vesentlig innskrenket.
 
 Når det skal vurderes om vilkåret i første ledd bokstav a eller b er oppfylt, legges det vekt på alder, evner, utdanning, yrkesbakgrunn, arbeidsmuligheter på hjemstedet og arbeidsmuligheter på andre steder der det er rimelig at vedkommende tar arbeid.
 
@@ -2131,7 +2419,17 @@ Departementet gir forskrift om stønad etter denne paragrafen, herunder særregl
 
 ### § 10-7. Stønadsformer
 
-Et medlem som fyller vilkårene i [§ 10-5](lov/1997-02-28-19/§10-5) eller [§ 10-6](lov/1997-02-28-19/§10-6), kan få stønad i form av utlån av, tilskott til eller lån tilhjelpemidler, herunder skolehjelpemidler med unntak av læremidler,høreapparat,grunnmønster til søm av klær,førerhund,lese- og sekretærhjelp for blinde og svaksynte,tolkehjelp for hørselshemmede,tolke- og ledsagerhjelp for døvblinde,motorkjøretøy eller annet transportmiddel,anskaffelse, vedlikehold og fornyelse av nødvendige og hensiktsmessige ortopediske hjelpemidler, brystproteser, ansiktsdefektproteser, øyeproteser og parykker.
+Et medlem som fyller vilkårene i [§ 10-5](lov/1997-02-28-19/§10-5) eller [§ 10-6](lov/1997-02-28-19/§10-6), kan få stønad i form av utlån av, tilskott til eller lån til
+
+1. hjelpemidler, herunder skolehjelpemidler med unntak av læremidler,
+2. høreapparat,
+3. grunnmønster til søm av klær,
+4. førerhund,
+5. lese- og sekretærhjelp for blinde og svaksynte,
+6. tolkehjelp for hørselshemmede,
+7. tolke- og ledsagerhjelp for døvblinde,
+8. motorkjøretøy eller annet transportmiddel,
+9. anskaffelse, vedlikehold og fornyelse av nødvendige og hensiktsmessige ortopediske hjelpemidler, brystproteser, ansiktsdefektproteser, øyeproteser og parykker.
 
 Til et medlem som fyller vilkårene i [§ 10-5](lov/1997-02-28-19/§10-5), kan det også ytes stønad til ombygging av maskiner og tilrettelegging av fysisk miljø på arbeidsplassen.
 
@@ -2201,7 +2499,11 @@ Retten til ytelser etter dette kapitlet faller bort i den utstrekning ytelsene k
 
 ### § 11-1. Formål
 
-Formålet med arbeidsavklaringspenger er å sikre inntekt for et medlem som på grunn av sykdom, skade eller lyte har fått nedsatt arbeidsevne ogfår aktiv behandling, ellerdeltar på et arbeidsrettet tiltak, ellerfår annen oppfølging med sikte på å skaffe seg eller beholde arbeid.
+Formålet med arbeidsavklaringspenger er å sikre inntekt for et medlem som på grunn av sykdom, skade eller lyte har fått nedsatt arbeidsevne og
+
+1. får aktiv behandling, eller
+2. deltar på et arbeidsrettet tiltak, eller
+3. får annen oppfølging med sikte på å skaffe seg eller beholde arbeid.
 
 > Endret ved lover [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018).
 
@@ -2217,7 +2519,10 @@ Departementet kan i forskrift gi bestemmelser som supplerer eller legger til ret
 
 Det er et vilkår for rett til arbeidsavklaringspenger at medlemmet i minst fem år umiddelbart før krav om ytelsen settes fram, har vært medlem i folketrygden. Ved vurderingen av om vilkåret er oppfylt, ses det bort fra perioder med tjeneste i internasjonale organisasjoner eller organer som staten Norge er medlem av, yter økonomisk bidrag til eller har ansvar for å bidra til bemanningen av.
 
-Vilkåret om fem års forutgående medlemskap i første ledd gjelder likevel ikke for den som har vært medlem i folketrygden i minst ett år umiddelbart før krav om ytelsen settes fram, dersomhan eller hun var medlem i trygden da arbeidsevnen ble nedsatt med minst halvparten, se [§ 11-5](lov/1997-02-28-19/§11-5), og etter fylte 16 år har perioder med medlemskap som minst tilsvarer perioder uten medlemskap, ellerhan eller hun etter fylte 16 år har vært medlem i trygden med unntak av maksimum fem år.
+Vilkåret om fem års forutgående medlemskap i første ledd gjelder likevel ikke for den som har vært medlem i folketrygden i minst ett år umiddelbart før krav om ytelsen settes fram, dersom
+
+1. han eller hun var medlem i trygden da arbeidsevnen ble nedsatt med minst halvparten, se [§ 11-5](lov/1997-02-28-19/§11-5), og etter fylte 16 år har perioder med medlemskap som minst tilsvarer perioder uten medlemskap, eller
+2. han eller hun etter fylte 16 år har vært medlem i trygden med unntak av maksimum fem år.
 
 > Endret ved lover [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 juni 2017 nr. 43](lov/2017-06-16-43) (ikr. 1 jan 2018), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [7 mai 2021 nr. 30](lov/2021-05-07-30).
 
@@ -2251,7 +2556,11 @@ Ved vurderingen av om arbeidsevnen er nedsatt, skal det blant annet legges vekt 
 
 ### § 11-6. Behov for bistand til å skaffe seg eller beholde arbeid
 
-Det er et vilkår for rett til arbeidsavklaringspenger at medlemmet for å skaffe seg eller beholde arbeid som han eller hun kan utførehar behov for aktiv behandling, ellerhar behov for arbeidsrettet tiltak, elleretter å ha prøvd tiltakene etter bokstav a eller b fortsatt anses for å ha en viss mulighet for å komme i arbeid, og får annen oppfølging fra Arbeids- og velferdsetaten.
+Det er et vilkår for rett til arbeidsavklaringspenger at medlemmet for å skaffe seg eller beholde arbeid som han eller hun kan utføre
+
+1. har behov for aktiv behandling, eller
+2. har behov for arbeidsrettet tiltak, eller
+3. etter å ha prøvd tiltakene etter bokstav a eller b fortsatt anses for å ha en viss mulighet for å komme i arbeid, og får annen oppfølging fra Arbeids- og velferdsetaten.
 
 Departementet kan i forskrift fastsette nærmere regler om hva som skal godkjennes som et arbeidsrettet tiltak etter denne bestemmelsen.
 
@@ -2339,7 +2648,13 @@ Departementet kan gi forskrift om særlige bestemmelser for medlemmer som før 1
 
 ### § 11-13. Arbeidsavklaringspenger til et medlem som ikke har opparbeidet seg ny rett til sykepenger
 
-Det kan gis arbeidsavklaringspenger i inntil seks måneder til et medlem som ikke har opparbeidet seg ny rett til sykepenger etter kapittel 8. Medlemmet skal oppfylle vilkårene i [§ 11-5](lov/1997-02-28-19/§11-5), men det stilles likevel ikke krav til varigheten av den nedsatte arbeidsevnen. Vilkårene i [§ 11-6](lov/1997-02-28-19/§11-6) gjelder ikke. Ett av følgende vilkår skal i tillegg være oppfylt:Medlemmet har tidligere mottatt arbeidsavklaringspenger og har blitt arbeidsufør som følge av en annen sykdom innen seks måneder etter at arbeidsavklaringspengene opphørte.Medlemmet har tidligere mottatt arbeidsavklaringspenger og har blitt arbeidsufør som følge av samme sykdom innen ett år etter at arbeidsavklaringspengene opphørte.Medlemmet har tidligere mottatt sykepenger etter kapittel 8 i til sammen 248, 250 eller 260 sykepengedager i løpet av de tre siste årene, se [§ 8-12](lov/1997-02-28-19/§8-12), og har igjen blitt arbeidsufør på grunn av sykdom eller skade mens han eller hun er i arbeid.Medlemmet har tidligere mottatt sykepenger etter kapittel 8 i til sammen 248, 250 eller 260 sykepengedager i løpet av de tre siste årene, se [§ 8-12](lov/1997-02-28-19/§8-12), og er fortsatt arbeidsufør på grunn av sykdom eller skade.Medlemmet har mottatt arbeidsavklaringspenger og deretter foreldrepenger og har blitt arbeidsufør på grunn av sykdom eller skade, se [§ 8-2 andre ledd](lov/1997-02-28-19/§8-2/ledd/2), innen seks måneder etter at foreldrepengene opphørte.
+Det kan gis arbeidsavklaringspenger i inntil seks måneder til et medlem som ikke har opparbeidet seg ny rett til sykepenger etter kapittel 8. Medlemmet skal oppfylle vilkårene i [§ 11-5](lov/1997-02-28-19/§11-5), men det stilles likevel ikke krav til varigheten av den nedsatte arbeidsevnen. Vilkårene i [§ 11-6](lov/1997-02-28-19/§11-6) gjelder ikke. Ett av følgende vilkår skal i tillegg være oppfylt:
+
+1. Medlemmet har tidligere mottatt arbeidsavklaringspenger og har blitt arbeidsufør som følge av en annen sykdom innen seks måneder etter at arbeidsavklaringspengene opphørte.
+2. Medlemmet har tidligere mottatt arbeidsavklaringspenger og har blitt arbeidsufør som følge av samme sykdom innen ett år etter at arbeidsavklaringspengene opphørte.
+3. Medlemmet har tidligere mottatt sykepenger etter kapittel 8 i til sammen 248, 250 eller 260 sykepengedager i løpet av de tre siste årene, se [§ 8-12](lov/1997-02-28-19/§8-12), og har igjen blitt arbeidsufør på grunn av sykdom eller skade mens han eller hun er i arbeid.
+4. Medlemmet har tidligere mottatt sykepenger etter kapittel 8 i til sammen 248, 250 eller 260 sykepengedager i løpet av de tre siste årene, se [§ 8-12](lov/1997-02-28-19/§8-12), og er fortsatt arbeidsufør på grunn av sykdom eller skade.
+5. Medlemmet har mottatt arbeidsavklaringspenger og deretter foreldrepenger og har blitt arbeidsufør på grunn av sykdom eller skade, se [§ 8-2 andre ledd](lov/1997-02-28-19/§8-2/ledd/2), innen seks måneder etter at foreldrepengene opphørte.
 
 Det gis ikke arbeidsavklaringspenger i arbeidsgiverperioden for sykepenger, se [§ 8-19](lov/1997-02-28-19/§8-19). Kravene i [§§ 8-7](lov/1997-02-28-19/§8-7) og [8-8](lov/1997-02-28-19/§8-8) gjelder tilsvarende.
 
@@ -2421,7 +2736,10 @@ Departementet kan gi forskrift om barnetilleggets størrelse, retten til å mott
 
 ### § 11-22. Arbeidsavklaringspenger ved yrkesskade
 
-Til et medlem som har nedsatt arbeidsevne på grunn av skade eller sykdom etter [kapittel 13](lov/1997-02-28-19/kap13), gis det arbeidsavklaringspenger, men med følgende særbestemmelser:Vilkåret i [§ 11-2](lov/1997-02-28-19/§11-2) om forutgående medlemskap gjelder ikke.Arbeidsavklaringspenger gis ved reduksjon av arbeidsevnen ned til 30 prosent.
+Til et medlem som har nedsatt arbeidsevne på grunn av skade eller sykdom etter [kapittel 13](lov/1997-02-28-19/kap13), gis det arbeidsavklaringspenger, men med følgende særbestemmelser:
+
+1. Vilkåret i [§ 11-2](lov/1997-02-28-19/§11-2) om forutgående medlemskap gjelder ikke.
+2. Arbeidsavklaringspenger gis ved reduksjon av arbeidsevnen ned til 30 prosent.
 
 Ved beregningen av den delen av nedsettelsen av arbeidsevnen som skyldes yrkesskaden eller yrkessykdommen, skal grunnlaget for arbeidsavklaringspengene, se [§ 11-19](lov/1997-02-28-19/§11-19), ikke settes lavere enn den antatte årlige arbeidsinntekten på skadetidspunktet, justert i samsvar med endringer i grunnbeløpet fram til søknadstidspunktet.
 
@@ -2509,7 +2827,16 @@ Departementet kan i forskrift fastsette nærmere regler om avgrensingen av folke
 
 ### § 11-30. Unntak fra kravet om melding om vedtak og unntak fra kravet om forhåndsvarsel
 
-Melding om vedtak om stans i utbetaling av arbeidsavklaringspenger kan unnlates når grunnen åpenbart er kjent for medlemmet. Det er et vilkår at Arbeids- og velferdsetaten har gitt medlemmet forhåndsvarsel om at retten til ytelsen stanses i slike tilfeller. Unntak fra kravet om melding om vedtak må skyldes ett av følgende forhold:Medlemmet har fravær ut over én dag per meldeperiode som ikke skyldes sykdom eller sterke velferdsgrunner.Medlemmet unnlater å melde seg hos Arbeids- og velferdsetaten, se [§ 11-10](lov/1997-02-28-19/§11-10) andre ledd.Medlemmet er kommet i fullt arbeid.Medlemmet oppholder seg i utlandet ut over fire uker per kalenderår, se [§ 11-3](lov/1997-02-28-19/§11-3) tredje ledd.Medlemmet er i utlandet uten at Arbeids- og velferdsetaten har godkjent oppholdet, se [§ 11-3](lov/1997-02-28-19/§11-3) tredje ledd.Medlemmet avtjener lovbestemt tjenesteplikt (verneplikt).Medlemmet er i fengsel, varetekt eller gjennomfører straff i frihet.Medlemmet får fulle sykepenger eller full uføretrygd fra folketrygden.
+Melding om vedtak om stans i utbetaling av arbeidsavklaringspenger kan unnlates når grunnen åpenbart er kjent for medlemmet. Det er et vilkår at Arbeids- og velferdsetaten har gitt medlemmet forhåndsvarsel om at retten til ytelsen stanses i slike tilfeller. Unntak fra kravet om melding om vedtak må skyldes ett av følgende forhold:
+
+1. Medlemmet har fravær ut over én dag per meldeperiode som ikke skyldes sykdom eller sterke velferdsgrunner.
+2. Medlemmet unnlater å melde seg hos Arbeids- og velferdsetaten, se [§ 11-10](lov/1997-02-28-19/§11-10) andre ledd.
+3. Medlemmet er kommet i fullt arbeid.
+4. Medlemmet oppholder seg i utlandet ut over fire uker per kalenderår, se [§ 11-3](lov/1997-02-28-19/§11-3) tredje ledd.
+5. Medlemmet er i utlandet uten at Arbeids- og velferdsetaten har godkjent oppholdet, se [§ 11-3](lov/1997-02-28-19/§11-3) tredje ledd.
+6. Medlemmet avtjener lovbestemt tjenesteplikt (verneplikt).
+7. Medlemmet er i fengsel, varetekt eller gjennomfører straff i frihet.
+8. Medlemmet får fulle sykepenger eller full uføretrygd fra folketrygden.
 
 Forhåndsvarsling etter [forvaltningsloven § 16](lov/1967-02-10/§16) om reduksjon av arbeidsavklaringspenger ved brudd på nærmere bestemte aktivitetsplikter etter § 11-9 kan unnlates dersom medlemmet på forhånd er orientert om konsekvensene ved eventuell manglende etterlevelse.
 
@@ -2517,7 +2844,11 @@ Forhåndsvarsling etter [forvaltningsloven § 16](lov/1967-02-10/§16) om reduks
 
 ### § 11-31. Nytt krav om arbeidsavklaringspenger
 
-Dersom arbeidsavklaringspengene har vært stanset i mer enn 52 uker, må det settes fram nytt krav om arbeidsavklaringspenger. Det må også settes fram nytt krav om arbeidsavklaringspenger dersommedlemmets sak om arbeidsavklaringspenger har vært opphørt, ellermedlemmets arbeidsevne er ferdig avklart, ellermedlemmet har fått innvilget arbeidsavklaringspenger i perioden som arbeidssøker, se [§ 11-17](lov/1997-02-28-19/§11-17).
+Dersom arbeidsavklaringspengene har vært stanset i mer enn 52 uker, må det settes fram nytt krav om arbeidsavklaringspenger. Det må også settes fram nytt krav om arbeidsavklaringspenger dersom
+
+1. medlemmets sak om arbeidsavklaringspenger har vært opphørt, eller
+2. medlemmets arbeidsevne er ferdig avklart, eller
+3. medlemmet har fått innvilget arbeidsavklaringspenger i perioden som arbeidssøker, se [§ 11-17](lov/1997-02-28-19/§11-17).
 
 Arbeidsavklaringspengene skal ikke anses for å ha vært stanset i perioder der medlemmet mottar foreldrepenger opptjent på grunnlag av arbeidsavklaringspenger.
 
@@ -2559,7 +2890,13 @@ Når det vurderes om arbeidsevnen er nedsatt, skal det blant annet legges vekt p
 
 Til et medlem som gjennomfører et arbeidsrettet tiltak, kan det ytes tilleggsstønad etter fast sats til dekning av dokumenterte utgifter til læremidler.
 
-Et medlem som gjennomfører et arbeidsrettet tiltak, og som verken har ordinær lønn gjennom tiltaksdeltakelsen eller mottar sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8), kan gis tilleggsstønad til dekning avutgifter til daglige reiser i forbindelse med utredning eller gjennomføring av et arbeidsrettet tiltak,utgifter til hjemreiser under gjennomføring av et arbeidsrettet tiltak,nødvendige utgifter til flytting fra hjemstedet i forbindelse med et arbeidsrettet tiltak eller i forbindelse med arbeid etter at tiltaket er gjennomført,nødvendige utgifter til barnetilsyn i forbindelse med utredning eller gjennomføring av et arbeidsrettet tiltak,nødvendige ekstrautgifter til bolig i forbindelse med utredning eller gjennomføring av et arbeidsrettet tiltak.
+Et medlem som gjennomfører et arbeidsrettet tiltak, og som verken har ordinær lønn gjennom tiltaksdeltakelsen eller mottar sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8), kan gis tilleggsstønad til dekning av
+
+1. utgifter til daglige reiser i forbindelse med utredning eller gjennomføring av et arbeidsrettet tiltak,
+2. utgifter til hjemreiser under gjennomføring av et arbeidsrettet tiltak,
+3. nødvendige utgifter til flytting fra hjemstedet i forbindelse med et arbeidsrettet tiltak eller i forbindelse med arbeid etter at tiltaket er gjennomført,
+4. nødvendige utgifter til barnetilsyn i forbindelse med utredning eller gjennomføring av et arbeidsrettet tiltak,
+5. nødvendige ekstrautgifter til bolig i forbindelse med utredning eller gjennomføring av et arbeidsrettet tiltak.
 
 Til et medlem som på grunn av sykdom eller skade midlertidig ikke kan reise på vanlig måte til og fra arbeids- eller undervisningsstedet, kan det i stedet for arbeidsavklaringspenger etter [kapittel 11](lov/1997-02-28-19/kap11) gis tilleggsstønad til dekning av nødvendige ekstra transportutgifter til daglige reiser. Stønaden begrenses til det beløpet som medlemmet ville ha fått utbetalt i arbeidsavklaringspenger for samme tidsrom.
 
@@ -2597,9 +2934,17 @@ Departementet kan i forskrift gi bestemmelser som supplerer eller legger til ret
 
 Det er et vilkår for rett til uføretrygd at vedkommende har vært medlem i folketrygden i de siste fem årene fram til uføretidspunktet, se [§ 12-8](lov/1997-02-28-19/§12-8). Ved vurderingen av om vilkåret er oppfylt, ses det bort fra perioder med tjeneste i internasjonale organisasjoner eller organer som staten Norge er medlem av, yter økonomisk bidrag til eller har ansvar for å bidra til bemanningen av.
 
-Vilkåret om fem års forutgående medlemskap i første ledd gjelder ikke for en person som har vært medlem i trygden i minst ett år umiddelbart før han eller hun setter fram krav om uføretrygd, dersomvedkommende ble ufør før fylte 26 år og da var medlem i trygden, ellervedkommende etter fylte 16 år har vært medlem i trygden med unntak av maksimum fem år.
+Vilkåret om fem års forutgående medlemskap i første ledd gjelder ikke for en person som har vært medlem i trygden i minst ett år umiddelbart før han eller hun setter fram krav om uføretrygd, dersom
 
-Vilkåret i første ledd gjelder ikke dersom vedkommende var medlem i folketrygden på uføretidspunktet og uføretrygd ved 100 prosent uføregrad:beregnet av grunnlaget etter [§ 12-11 første ledd](lov/1997-02-28-19/§12-11/ledd/1) minst vil svare til halvparten av høy sats etter [§ 12-13 andre ledd](lov/1997-02-28-19/§12-13/ledd/2) andre punktum, ellerberegnet på grunnlag av perioder med medlemskap minst vil svare til halvparten av minsteytelsen etter [§ 12-13](lov/1997-02-28-19/§12-13) andre ledd.Framtidig trygdetid skal ikke regnes med, se [§ 12-12](lov/1997-02-28-19/§12-12) femte ledd.
+1. vedkommende ble ufør før fylte 26 år og da var medlem i trygden, eller
+2. vedkommende etter fylte 16 år har vært medlem i trygden med unntak av maksimum fem år.
+
+Vilkåret i første ledd gjelder ikke dersom vedkommende var medlem i folketrygden på uføretidspunktet og uføretrygd ved 100 prosent uføregrad:
+
+1. beregnet av grunnlaget etter [§ 12-11 første ledd](lov/1997-02-28-19/§12-11/ledd/1) minst vil svare til halvparten av høy sats etter [§ 12-13 andre ledd](lov/1997-02-28-19/§12-13/ledd/2) andre punktum, eller
+2. beregnet på grunnlag av perioder med medlemskap minst vil svare til halvparten av minsteytelsen etter [§ 12-13](lov/1997-02-28-19/§12-13) andre ledd.
+
+Framtidig trygdetid skal ikke regnes med, se [§ 12-12](lov/1997-02-28-19/§12-12) femte ledd.
 
 > Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (med virkning fra 1 juli 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [20 des 2016 nr. 105](lov/2016-12-20-105) (ikr. 1 jan 2017), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026). **Endres** ved lov [23 juni 2026 nr. 65](lov/2026-06-23-65) (i kraft 1 okt 2026, med virkning fra 1 juli 2026).
 
@@ -2757,7 +3102,10 @@ Departementet kan i forskrift gi nærmere regler om reduksjon av uføretrygd på
 
 ### § 12-15. Barnetillegg
 
-Til en person som mottar uføretrygd gis det barnetillegg for hvert barn vedkommende forsørger dersomvedkommende er medlem i trygden etter [§ 2-1](lov/1997-02-28-19/§2-1), [§ 2-3](lov/1997-02-28-19/§2-3) første ledd eller [§ 2-5](lov/1997-02-28-19/§2-5) første ledd, ogbarnet er bosatt og oppholder seg lovlig i Norge, herunder Svalbard. Det gis likevel barnetillegg under utenlandsopphold hvis oppholdet eller oppholdene til sammen ikke varer mer enn 90 dager i løpet av en tolvmånedersperiode, eller barnet er medlem i trygden etter [§ 2-5](lov/1997-02-28-19/§2-5) andre ledd.
+Til en person som mottar uføretrygd gis det barnetillegg for hvert barn vedkommende forsørger dersom
+
+1. vedkommende er medlem i trygden etter [§ 2-1](lov/1997-02-28-19/§2-1), [§ 2-3](lov/1997-02-28-19/§2-3) første ledd eller [§ 2-5](lov/1997-02-28-19/§2-5) første ledd, og
+2. barnet er bosatt og oppholder seg lovlig i Norge, herunder Svalbard. Det gis likevel barnetillegg under utenlandsopphold hvis oppholdet eller oppholdene til sammen ikke varer mer enn 90 dager i løpet av en tolvmånedersperiode, eller barnet er medlem i trygden etter [§ 2-5](lov/1997-02-28-19/§2-5) andre ledd.
 
 Barnetillegg utgjør 40 prosent av grunnbeløpet for hvert forsørget barn, men avkortes tilsvarende dersom trygdetiden som legges til grunn for uføretrygden er kortere enn 40 år. Barnetillegg påvirkes ikke av at uføregraden er lavere enn 100 prosent, men prøves mot forsørgerens inntekt, se [§ 12-16](lov/1997-02-28-19/§12-16).
 
@@ -2787,7 +3135,11 @@ Departementet kan i forskrift fastsette nærmere bestemmelser om reduksjon av ba
 
 ### § 12-17. Uføretrygd ved yrkesskade
 
-Til den som er arbeidsufør på grunn av en skade eller sykdom som går inn under [kapittel 13](lov/1997-02-28-19/kap13), ytes det uføretrygd etter følgende særbestemmelser:Vilkåret i [§ 12-2](lov/1997-02-28-19/§12-2) om minst fem års forutgående medlemskap gjelder ikke.Vilkåret i [§ 12-3](lov/1997-02-28-19/§12-3) om fortsatt medlemskap gjelder ikke.Uføretrygd ytes ved uføregrader ned til 30 prosent.
+Til den som er arbeidsufør på grunn av en skade eller sykdom som går inn under [kapittel 13](lov/1997-02-28-19/kap13), ytes det uføretrygd etter følgende særbestemmelser:
+
+1. Vilkåret i [§ 12-2](lov/1997-02-28-19/§12-2) om minst fem års forutgående medlemskap gjelder ikke.
+2. Vilkåret i [§ 12-3](lov/1997-02-28-19/§12-3) om fortsatt medlemskap gjelder ikke.
+3. Uføretrygd ytes ved uføregrader ned til 30 prosent.
 
 Det skal fastsettes en særskilt uføregrad for den delen av uførheten som skyldes yrkesskade eller yrkessykdom. Det ses bort fra uførhet som skyldes andre forhold enn yrkesskaden, når denne delen utgjør under 30 prosent av den totale uførheten.
 
@@ -2821,7 +3173,11 @@ Dersom vedkommende innen tre måneder etter utskrivelsen på nytt kommer i insti
 
 Uføretrygden under opphold i institusjon må ikke overstige den uføretrygden vedkommende har rett til etter lovens vanlige bestemmelser.
 
-Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen, herunder omberegning av redusert ytelse,at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
+Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen, herunder om
+
+1. beregning av redusert ytelse,
+2. at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
+3. at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
 
 > Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105).
 
@@ -2839,7 +3195,12 @@ Departementet kan gi forskrifter om anvendelsen av bestemmelsene i paragrafen he
 
 ### § 12-21. Avkall på uføretrygd
 
-En mottaker av uføretrygd kan gi avkall på retten til uføretrygd dersomektefellen mottar alderspensjon eller avtalefestet pensjon som det godskrives pensjonspoeng for, ogvedkommende enten har kortere trygdetid enn ektefellen eller får uføretrygd etter en uføregrad lavere enn 100 prosent.Ektefellens ytelser fastsettes da etter reglene for pensjonister som forsørger den andre ektefellen.
+En mottaker av uføretrygd kan gi avkall på retten til uføretrygd dersom
+
+1. ektefellen mottar alderspensjon eller avtalefestet pensjon som det godskrives pensjonspoeng for, og
+2. vedkommende enten har kortere trygdetid enn ektefellen eller får uføretrygd etter en uføregrad lavere enn 100 prosent.
+
+Ektefellens ytelser fastsettes da etter reglene for pensjonister som forsørger den andre ektefellen.
 
 > Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (endret paragrafnummer fra § 12-14).
 
@@ -2861,7 +3222,19 @@ Yrkesskadedekning er ytelser ved yrkesskade og yrkessykdom etter trygdeforordnin
 
 Den som blir rammet av en yrkesskade eller likestilt yrkessykdom som går inn under dette kapitlet, har rett til ytelser etter særskilte bestemmelser.
 
-Bestemmelser omstønad ved helsetjenester står i [§ 5-25](lov/1997-02-28-19/§5-25)grunnstønad og hjelpestønad står i [§ 6-9](lov/1997-02-28-19/§6-9)stønad ved gravferd står i [§ 7-5](lov/1997-02-28-19/§7-5)sykepenger står i [§ 8-55](lov/1997-02-28-19/§8-55)arbeidsavklaringspenger står i [§ 11-22](lov/1997-02-28-19/§11-22)uføretrygd står i [§ 12-17](lov/1997-02-28-19/§12-17)menerstatning ved yrkesskade står i [§ 13-17](lov/1997-02-28-19/§13-17)omstillingsstønad til gjenlevende ektefelle står i [§ 17-12](lov/1997-02-28-19/§17-12)barnepensjon står i [§ 18-10](lov/1997-02-28-19/§18-10)alderspensjon står i [§ 19-20](lov/1997-02-28-19/§19-20)ny alderspensjon står i [§ 20-10 fjerde ledd](lov/1997-02-28-19/§20-10/ledd/4) og [20-7 a niende ledd](lov/1997-02-28-19/§20-7a/ledd/9).
+Bestemmelser om
+
+- stønad ved helsetjenester står i [§ 5-25](lov/1997-02-28-19/§5-25)
+- grunnstønad og hjelpestønad står i [§ 6-9](lov/1997-02-28-19/§6-9)
+- stønad ved gravferd står i [§ 7-5](lov/1997-02-28-19/§7-5)
+- sykepenger står i [§ 8-55](lov/1997-02-28-19/§8-55)
+- arbeidsavklaringspenger står i [§ 11-22](lov/1997-02-28-19/§11-22)
+- uføretrygd står i [§ 12-17](lov/1997-02-28-19/§12-17)
+- menerstatning ved yrkesskade står i [§ 13-17](lov/1997-02-28-19/§13-17)
+- omstillingsstønad til gjenlevende ektefelle står i [§ 17-12](lov/1997-02-28-19/§17-12)
+- barnepensjon står i [§ 18-10](lov/1997-02-28-19/§18-10)
+- alderspensjon står i [§ 19-20](lov/1997-02-28-19/§19-20)
+- ny alderspensjon står i [§ 20-10 fjerde ledd](lov/1997-02-28-19/§20-10/ledd/4) og [20-7 a niende ledd](lov/1997-02-28-19/§20-7a/ledd/9).
 
 Et felles lokalt kontor i arbeids- og velferdsforvaltningen kan bare godkjenne en skade eller sykdom som yrkesskade i forhold til de særytelser som kontoret kan innvilge.
 
@@ -2883,7 +3256,12 @@ Som personskade regnes også skade på protese og støttebandasje.
 
 Visse yrkessykdommer som skyldes påvirkning i arbeid, klimasykdommer og epidemiske sykdommer skal likestilles med yrkesskade. Departementet gir forskrifter om hvilke sykdommer som skal likestilles med yrkesskade, og hvilke kriterier som skal være styrende for inkludering av nye sykdommer.
 
-Sykdom som angitt i forskriftene skal godkjennes som yrkesskade dersomsykdomsbildet er karakteristisk og i samsvar med det som den aktuelle påvirkningen kan framkalle,vedkommende i tid og konsentrasjon har vært utsatt for den aktuelle påvirkningen i en slik grad at det er en rimelig sammenheng mellom påvirkningen og det aktuelle sykdomsbildet,symptomene har oppstått i rimelig tid etter påvirkningen, ogdet ikke er mer sannsynlig at en annen sykdom eller påvirkning er årsak til symptomene.
+Sykdom som angitt i forskriftene skal godkjennes som yrkesskade dersom
+
+1. sykdomsbildet er karakteristisk og i samsvar med det som den aktuelle påvirkningen kan framkalle,
+2. vedkommende i tid og konsentrasjon har vært utsatt for den aktuelle påvirkningen i en slik grad at det er en rimelig sammenheng mellom påvirkningen og det aktuelle sykdomsbildet,
+3. symptomene har oppstått i rimelig tid etter påvirkningen, og
+4. det ikke er mer sannsynlig at en annen sykdom eller påvirkning er årsak til symptomene.
 
 Det er et vilkår at påvirkningen som nevnt i bokstav b har skjedd mens vedkommende var yrkesskadedekket, se [§§ 13-6](lov/1997-02-28-19/§13-6) til [13-13](lov/1997-02-28-19/§13-13).
 
@@ -2915,7 +3293,12 @@ På reise til og fra arbeidsstedet gjelder yrkesskadedekningen dersom transporte
 
 ### § 13-7. Fiskere, lottakere, fangstmenn o.a.
 
-Følgende grupper av medlemmer er yrkesskadedekket:Fiskere og fangstmenn som er tatt opp i fiskermanntallet, se [lov 28. juni 1957 nr. 12](lov/1957-06-28-12) om pensjonstrygd for fiskere [§ 4](lov/1957-06-28-12/§4),lottakere som er knyttet til fiske- eller fangstfartøy,selvstendig næringsdrivende i småskipsfart og lektertransport,redere som er knyttet til fiske- eller fangstfartøy.
+Følgende grupper av medlemmer er yrkesskadedekket:
+
+1. Fiskere og fangstmenn som er tatt opp i fiskermanntallet, se [lov 28. juni 1957 nr. 12](lov/1957-06-28-12) om pensjonstrygd for fiskere [§ 4](lov/1957-06-28-12/§4),
+2. lottakere som er knyttet til fiske- eller fangstfartøy,
+3. selvstendig næringsdrivende i småskipsfart og lektertransport,
+4. redere som er knyttet til fiske- eller fangstfartøy.
 
 Yrkesskadedekningen gjelder for yrkesskade som oppstår under utøvelse av næringen. Redere som nevnt i første ledd bokstav d er yrkesskadedekket bare mens de arbeider om bord.
 
@@ -2923,7 +3306,15 @@ Yrkesskadedekningen gjelder for yrkesskade som oppstår under utøvelse av næri
 
 ### § 13-8. Militærpersoner o.a.
 
-Følgende grupper av medlemmer er yrkesskadedekket:vernepliktige og frivillig tjenestegjørende etter [forsvarsloven](lov/2016-08-12-77),tjenestepliktige og frivillig tjenestegjørende etter [lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret](lov/2010-06-25-45),tjenestepliktige og frivillig tjenestegjørende etter [lov 21. november 1952 nr. 3 om tjenesteplikt i politiet](lov/1952-11-21-3),militære studenter etter [forsvarsloven](lov/2016-08-12-77) og andre personer under utdanning i Forsvaret,militært tilsatte etter [forsvarsloven](lov/2016-08-12-77),militære lærlinger,personer som etter avtale deltar i Forsvarets tjeneste som lotter.
+Følgende grupper av medlemmer er yrkesskadedekket:
+
+1. vernepliktige og frivillig tjenestegjørende etter [forsvarsloven](lov/2016-08-12-77),
+2. tjenestepliktige og frivillig tjenestegjørende etter [lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret](lov/2010-06-25-45),
+3. tjenestepliktige og frivillig tjenestegjørende etter [lov 21. november 1952 nr. 3 om tjenesteplikt i politiet](lov/1952-11-21-3),
+4. militære studenter etter [forsvarsloven](lov/2016-08-12-77) og andre personer under utdanning i Forsvaret,
+5. militært tilsatte etter [forsvarsloven](lov/2016-08-12-77),
+6. militære lærlinger,
+7. personer som etter avtale deltar i Forsvarets tjeneste som lotter.
 
 Medlemmer som nevnt i første ledd bokstav a til c er yrkesskadedekket ved enhver skade og sykdom som er påført eller oppstått i tidsrommet fra de møter til tjeneste til de blir dimittert.
 
@@ -2939,7 +3330,12 @@ Medlemmer som nevnt i første ledd bokstav g er yrkesskadedekket under kurs, øv
 
 ### § 13-9. Medlemmer som utfører branntjeneste, redningstjeneste e.l.
 
-Følgende medlemmer er yrkesskadedekket:de som er utskrevet til tjeneste i brannvesenet etter brann- og [eksplosjonsvernloven § 17](lov/2002-06-14-20/§17)de som på forlangende eller tilsigelse yter hjelp etter brann- og [eksplosjonsvernloven § 5](lov/2002-06-14-20/§5)de som er knyttet til en organisasjon, en forening eller lignende som driver redningstjeneste,de som søker å redde andre menneskers liv eller avverge store kulturelle eller materielle tap.
+Følgende medlemmer er yrkesskadedekket:
+
+1. de som er utskrevet til tjeneste i brannvesenet etter brann- og [eksplosjonsvernloven § 17](lov/2002-06-14-20/§17)
+2. de som på forlangende eller tilsigelse yter hjelp etter brann- og [eksplosjonsvernloven § 5](lov/2002-06-14-20/§5)
+3. de som er knyttet til en organisasjon, en forening eller lignende som driver redningstjeneste,
+4. de som søker å redde andre menneskers liv eller avverge store kulturelle eller materielle tap.
 
 Medlemmer som nevnt i første ledd bokstavene a og b er yrkesskadedekket mens de utfører pålagt tjeneste eller hjelp, eller deltar i organiserte øvelser eller vakttjeneste.
 
@@ -2951,7 +3347,13 @@ Medlemmer som nevnt i første ledd bokstav d er yrkesskadedekket mens de deltar 
 
 ### § 13-10. Elever, studenter o.a.
 
-Følgende grupper av medlemmer er yrkesskadedekket:elever ved offentlige skoler eller kurs,elever ved private skoler med eksamensrett eller med statlig driftsbidrag,studenter ved universiteter eller offentlige høyskoler,elever ved skoler eller kurs som ikke er omfattet av bokstavene a til c, såfremt det er tegnet frivillig yrkesskadetrygd for elevene,elever ved statsstøttede kurs på skoleskip eller øvelsesfartøy.
+Følgende grupper av medlemmer er yrkesskadedekket:
+
+1. elever ved offentlige skoler eller kurs,
+2. elever ved private skoler med eksamensrett eller med statlig driftsbidrag,
+3. studenter ved universiteter eller offentlige høyskoler,
+4. elever ved skoler eller kurs som ikke er omfattet av bokstavene a til c, såfremt det er tegnet frivillig yrkesskadetrygd for elevene,
+5. elever ved statsstøttede kurs på skoleskip eller øvelsesfartøy.
 
 Det er et vilkår for yrkesskadedekning etter denne paragrafen at skolen eller kurset har alminnelig undervisning eller høyere utdanning som formål.
 
@@ -2975,7 +3377,15 @@ Yrkesskadedekningen gjelder for yrkesskader som oppstår på arbeidsstedet i arb
 
 ### § 13-12. Medlemmer som oppholder seg i institusjon, utfører samfunnsstraff, ungdomsstraff, ungdomsoppfølging eller oppfølging i konfliktråd
 
-Følgende personer er yrkesskadedekket:medlemmer som er under behandling i en helseinstitusjon som er offentlig godkjent etter lov om spesialisthelsetjenesten m.m.,medlemmer som er under behandling i en rehabiliteringsinstitusjon, når utgiftene til oppholdet dekkes av det offentlige,medlemmer som er under opplæring i en offentlig godkjent attføringsinstitusjon,medlemmer som soner frihetsstraff eller utholder særreaksjon i en av kriminalomsorgens anstalter,medlemmer som utfører samfunnsstraff etter [straffeloven § 48](lov/2005-05-20-28/§48),medlemmer som sitter i varetekt, ogmedlemmer som utfører ungdomsstraff, ungdomsoppfølging eller oppfølging i konfliktråd.
+Følgende personer er yrkesskadedekket:
+
+1. medlemmer som er under behandling i en helseinstitusjon som er offentlig godkjent etter lov om spesialisthelsetjenesten m.m.,
+2. medlemmer som er under behandling i en rehabiliteringsinstitusjon, når utgiftene til oppholdet dekkes av det offentlige,
+3. medlemmer som er under opplæring i en offentlig godkjent attføringsinstitusjon,
+4. medlemmer som soner frihetsstraff eller utholder særreaksjon i en av kriminalomsorgens anstalter,
+5. medlemmer som utfører samfunnsstraff etter [straffeloven § 48](lov/2005-05-20-28/§48),
+6. medlemmer som sitter i varetekt, og
+7. medlemmer som utfører ungdomsstraff, ungdomsoppfølging eller oppfølging i konfliktråd.
 
 Medlemmer som nevnt i første ledd bokstavene a, b og c er yrkesskadedekket mens de får arbeidsterapeutisk behandling eller opplæring.
 
@@ -2985,7 +3395,10 @@ Medlemmer som nevnt i første ledd bokstavene d, e, f og g er yrkesskadedekket f
 
 ### § 13-13. Selvstendig næringsdrivende og frilansere
 
-Følgende grupper av medlemmer under 67 år kan mot særskilt premie (§ 23-6) tegne frivillig yrkesskadetrygd dersom den forventede årsinntekten utenfor tjeneste overstiger grunnbeløpet:selvstendig næringsdrivendefrilansere.
+Følgende grupper av medlemmer under 67 år kan mot særskilt premie (§ 23-6) tegne frivillig yrkesskadetrygd dersom den forventede årsinntekten utenfor tjeneste overstiger grunnbeløpet:
+
+1. selvstendig næringsdrivende
+2. frilansere.
 
 Yrkesskadedekningen gjelder for yrkesskader som oppstår under utøvelse av virksomhet som frilanser eller selvstendig næringsdrivende.
 
@@ -3095,7 +3508,14 @@ Rett til foreldrepenger opptjenes gjennom yrkesaktivitet. Både moren og faren k
 
 Likestilt med yrkesaktivitet er tidsrom da det er gitt en ytelse til livsopphold i form av dagpenger under arbeidsløshet etter [kapittel 4](lov/1997-02-28-19/kap4), sykepenger etter [kapittel 8](lov/1997-02-28-19/kap8), stønad ved barns sykdom m.m. etter [kapittel 9](lov/1997-02-28-19/kap9) eller arbeidsavklaringspenger etter [kapittel 11](lov/1997-02-28-19/kap11), eller enten foreldrepenger eller svangerskapspenger etter kapitlet her.
 
-Likestilt med yrkesaktivitet er også tidsrom medlønn fra arbeidsgiver under permisjon i forbindelse med videre- og etterutdanning,ventelønn etter [lov av 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tjenestemenn m.m. [§ 13](lov/1983-03-04-3/§13) nr. 6,vartpenger etter [lov av 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 24](lov/1949-07-28-26/§24) tredje ledd,etterlønn fra arbeidsgiver,avtjening av militærtjeneste eller obligatorisk sivilforsvarstjeneste,1ytelse i medhold av midlertidig lov om kompensasjonsytelse for selvstendig næringsdrivende og frilansere som har mistet inntekt som følge av utbrudd av covid-19.
+Likestilt med yrkesaktivitet er også tidsrom med
+
+1. lønn fra arbeidsgiver under permisjon i forbindelse med videre- og etterutdanning,
+2. ventelønn etter [lov av 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tjenestemenn m.m. [§ 13](lov/1983-03-04-3/§13) nr. 6,
+3. vartpenger etter [lov av 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 24](lov/1949-07-28-26/§24) tredje ledd,
+4. etterlønn fra arbeidsgiver,
+5. avtjening av militærtjeneste eller obligatorisk sivilforsvarstjeneste,1
+6. ytelse i medhold av midlertidig lov om kompensasjonsytelse for selvstendig næringsdrivende og frilansere som har mistet inntekt som følge av utbrudd av covid-19.
 
 > Endret ved lover [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)), [27 juni 2008 nr. 52](lov/2008-06-27-52), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [12 aug 2016 nr. 77](lov/2016-08-12-77) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](forskrift/2017-06-16-778)), [19 des 2017 nr. 116](lov/2017-12-19-116) (ikr. 1 jan 2019 iflg. [res. 7 des 2018 nr. 1818](forskrift/2018-12-07-1818)), [12 juni 2020 nr. 62](lov/2020-06-12-62).
 
@@ -3179,7 +3599,15 @@ Det kan gjøres unntak fra bestemmelsene i første ledd dersom forelderen som sk
 
 ### § 14-13. Generelle vilkår for farens uttak av foreldrepenger
 
-Faren kan ta ut foreldrepenger bare dersom moren etter fødselen eller omsorgsovertakelsengår ut i arbeid,tar offentlig godkjent utdanning på heltid,tar offentlig godkjent utdanning i kombinasjon med arbeid som i sum gir heltid,på grunn av sykdom eller skade er helt avhengig av hjelp til å ta seg av barnet,er innlagt i helseinstitusjon,deltar på heltid i introduksjonsprogram etter [integreringsloven kapittel 4](lov/2020-11-06-127/kap4),deltar på heltid i kvalifiseringsprogram etter [lov 18. desember 2009 nr. 131](lov/2009-12-18-131) om sosiale tjenester i arbeids- og velferdsforvaltningen,
+Faren kan ta ut foreldrepenger bare dersom moren etter fødselen eller omsorgsovertakelsen
+
+1. går ut i arbeid,
+2. tar offentlig godkjent utdanning på heltid,
+3. tar offentlig godkjent utdanning i kombinasjon med arbeid som i sum gir heltid,
+4. på grunn av sykdom eller skade er helt avhengig av hjelp til å ta seg av barnet,
+5. er innlagt i helseinstitusjon,
+6. deltar på heltid i introduksjonsprogram etter [integreringsloven kapittel 4](lov/2020-11-06-127/kap4),
+7. deltar på heltid i kvalifiseringsprogram etter [lov 18. desember 2009 nr. 131](lov/2009-12-18-131) om sosiale tjenester i arbeids- og velferdsforvaltningen,
 
 Dersom moren arbeider deltid etter fødselen eller omsorgsovertakelsen, blir farens foreldrepenger redusert tilsvarende reduksjonen i morens arbeidstid. Utgjør morens stillingsdel minst 75 pst. av full arbeidstid, får likevel faren foreldrepenger beregnet i samsvar med sin egen stillingsdel.
 
@@ -3283,7 +3711,10 @@ Departementet gir forskrifter om unntak fra bestemmelsen i første ledd.
 
 Det er et vilkår for rett til stønad etter dette kapitlet at medlemmet og barnet oppholder seg i Norge, i et annet EØS-land eller i et land eller område der trygdeforordningen er gitt anvendelse for vedkommende ved en bi- eller multilateral trygdeavtale som nevnt i [§ 1-3 b](lov/1997-02-28-19/§1-3b). For et medlem som ikke er EØS-borger, stilles det krav om opphold i Norge, med mindre annet følger av trygdeforordningen, se [§ 1-3 a](lov/1997-02-28-19/§1-3a), eller en bi- eller multilateral trygdeavtale som nevnt i [§ 1-3 b](lov/1997-02-28-19/§1-3b).
 
-Stønad etter dette kapitlet ytes uten hinder av første ledd under opphold utenfor Norgetil et medlem som oppholder seg i utlandet i mindre enn seks uker i løpet av en tolv måneders periode, ellernår oppholdet skyldes arbeid for en norsk arbeidsgiver.
+Stønad etter dette kapitlet ytes uten hinder av første ledd under opphold utenfor Norge
+
+1. til et medlem som oppholder seg i utlandet i mindre enn seks uker i løpet av en tolv måneders periode, eller
+2. når oppholdet skyldes arbeid for en norsk arbeidsgiver.
 
 > Endret ved lover [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [8 des 2023 nr. 87](lov/2023-12-08-87) (i kraft 12 jan 2024 iflg. [res. 12 jan 2024 nr. 60](forskrift/2024-01-12-60)).
 
@@ -3451,11 +3882,17 @@ Departementet kan i forskrift gi bestemmelser som supplerer eller legger til ret
 
 ### § 17-2. Forutgående medlemskap
 
-Det er et vilkår for rett til ytelser til gjenlevende ektefelle etter dette kapitlet at den avdøde i de siste fem årene før dødsfalletvar medlem i trygden ellermottok pensjon eller uføretrygd etter denne loven.
+Det er et vilkår for rett til ytelser til gjenlevende ektefelle etter dette kapitlet at den avdøde i de siste fem årene før dødsfallet
+
+1. var medlem i trygden eller
+2. mottok pensjon eller uføretrygd etter denne loven.
 
 Ved vurderingen av om vilkåret i første ledd bokstav a er oppfylt, ses det bort fra perioder med tjeneste i internasjonale organisasjoner eller organer som staten Norge er medlem av, yter økonomisk bidrag til eller har ansvar for å bidra til bemanningen av. Vilkåret er ikke oppfylt dersom den avdøde var arbeidsufør, men ikke hadde rett til uføretrygd fordi vilkåret om forutgående medlemskap i [§ 12-2](lov/1997-02-28-19/§12-2) første ledd ikke var oppfylt.
 
-Vilkåret i første ledd gjelder ikke dersom den avdøde var medlem i trygden på dødsfallstidspunktet og daikke hadde fylt 26 år, ellerhadde vært medlem etter fylte 16 år med unntak av maksimum 5 år.
+Vilkåret i første ledd gjelder ikke dersom den avdøde var medlem i trygden på dødsfallstidspunktet og da
+
+1. ikke hadde fylt 26 år, eller
+2. hadde vært medlem etter fylte 16 år med unntak av maksimum 5 år.
 
 Den gjenlevende har rett til ytelser etter tredje ledd tidligst fra det tidspunktet den avdøde ville ha vært medlem i ett år dersom dødsfallet ikke hadde skjedd.
 
@@ -3477,7 +3914,11 @@ Omstillingsstønad etter unntaksbestemmelsene i [§ 17-2](lov/1997-02-28-19/§17
 
 ### § 17-4. Øvrige vilkår for ytelser
 
-Det er et vilkår for rett til ytelser til gjenlevende ektefelle etter dette kapitlet at vedkommende på tidspunktet for dødsfalletvar gift med den avdøde og ekteskapet hadde vart i minst fem år,har eller har hatt barn med den avdøde ellerhar omsorg for barn under 18 år med minst halvparten av full tid.
+Det er et vilkår for rett til ytelser til gjenlevende ektefelle etter dette kapitlet at vedkommende på tidspunktet for dødsfallet
+
+1. var gift med den avdøde og ekteskapet hadde vart i minst fem år,
+2. har eller har hatt barn med den avdøde eller
+3. har omsorg for barn under 18 år med minst halvparten av full tid.
 
 Til en fraskilt person som helt eller i det vesentlige har vært forsørget av bidrag fra den avdøde, kan det ytes stønad etter dette kapitlet dersom ekteskapet varte i minst 25 år, eller minst 15 år hvis ektefellene hadde barn sammen.
 
@@ -3501,7 +3942,12 @@ Full årlig omstillingsstønad utgjør 2,25 ganger grunnbeløpet og gis dersom d
 
 ### § 17-7. Plikt til aktivitet med sikte på å komme i arbeid
 
-Etter en overgangsperiode på seks måneder etter dødsfallet er det et vilkår for rett til omstillingsstønad at den gjenlevendeer i arbeid som utgjør minst halvparten av full tid,har meldt seg til arbeids- og velferdsetaten som reell arbeidssøker,gjennomfører utdanning eller opplæring som utgjør minst halvparten av full tid som arbeids- og velferdsetaten vurderer er nødvendig og hensiktsmessig for at den gjenlevende skal kunne få eller beholde et arbeid, elleretablerer egen virksomhet, se § 4-6 tredje ledd.
+Etter en overgangsperiode på seks måneder etter dødsfallet er det et vilkår for rett til omstillingsstønad at den gjenlevende
+
+1. er i arbeid som utgjør minst halvparten av full tid,
+2. har meldt seg til arbeids- og velferdsetaten som reell arbeidssøker,
+3. gjennomfører utdanning eller opplæring som utgjør minst halvparten av full tid som arbeids- og velferdsetaten vurderer er nødvendig og hensiktsmessig for at den gjenlevende skal kunne få eller beholde et arbeid, eller
+4. etablerer egen virksomhet, se § 4-6 tredje ledd.
 
 Arbeids- og velferdsetaten skal etter behov innkalle til samtaler for å vurdere oppfølging av den gjenlevende og om det skal settes i verk tiltak med sikte på overgang til arbeid.
 
@@ -3555,7 +4001,14 @@ Departementet kan i forskrift fastsette nærmere regler om vilkårene for og ber
 
 ### § 17-10 a. Tilleggsstønader og stønader til skolepenger m.m.
 
-Til en gjenlevende som fyller vilkårene i [§ 17-2](lov/1997-02-28-19/§17-2) til [§ 17-4](lov/1997-02-28-19/§17-4), og som gjennomfører utdanning eller opplæring etter [§ 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), kan det gis tilleggsstønader og stønad til skolepenger m.m. som helt eller delvis dekkerutgifter til daglige reiser i forbindelse med utredning eller gjennomføring av utdanningenutgifter til hjemreiser i forbindelse med utdanningennødvendige utgifter til flytting fra hjemstedet i forbindelse med utdanningen eller i forbindelse med arbeid etter at utdanningen er gjennomførtnødvendige utgifter til barnetilsyn i forbindelse med utredning eller gjennomføring av utdanningennødvendige ekstrautgifter til bolig i forbindelse med utredning eller gjennomføring av utdanningennødvendige utgifter til læremidler.
+Til en gjenlevende som fyller vilkårene i [§ 17-2](lov/1997-02-28-19/§17-2) til [§ 17-4](lov/1997-02-28-19/§17-4), og som gjennomfører utdanning eller opplæring etter [§ 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), kan det gis tilleggsstønader og stønad til skolepenger m.m. som helt eller delvis dekker
+
+1. utgifter til daglige reiser i forbindelse med utredning eller gjennomføring av utdanningen
+2. utgifter til hjemreiser i forbindelse med utdanningen
+3. nødvendige utgifter til flytting fra hjemstedet i forbindelse med utdanningen eller i forbindelse med arbeid etter at utdanningen er gjennomført
+4. nødvendige utgifter til barnetilsyn i forbindelse med utredning eller gjennomføring av utdanningen
+5. nødvendige ekstrautgifter til bolig i forbindelse med utredning eller gjennomføring av utdanningen
+6. nødvendige utgifter til læremidler.
 
 Stønad etter denne bestemmelsen kan bare gis for tidsrom den gjenlevende har rett til omstillingsstønad, jf. [§ 17-5](lov/1997-02-28-19/§17-5).
 
@@ -3573,7 +4026,12 @@ Departementet kan i forskrift fastsette nærmere regler om vilkårene for og ber
 
 ### § 17-11. Bortfall av ytelser
 
-Retten til ytelser etter dette kapitlet faller bort når den gjenlevendefyller 67 år eller tar ut alderspensjon etter loven her,får rett til uføretrygd for full uførhet,mottar tidsbegrenset avtalefestet pensjon i perioden mellom fylte 62 og 67 år fra en offentlig tjenestepensjonsordning ellergifter seg igjen, se [§ 1-5](lov/1997-02-28-19/§1-5).
+Retten til ytelser etter dette kapitlet faller bort når den gjenlevende
+
+1. fyller 67 år eller tar ut alderspensjon etter loven her,
+2. får rett til uføretrygd for full uførhet,
+3. mottar tidsbegrenset avtalefestet pensjon i perioden mellom fylte 62 og 67 år fra en offentlig tjenestepensjonsordning eller
+4. gifter seg igjen, se [§ 1-5](lov/1997-02-28-19/§1-5).
 
 En gjenlevende som er omfattet av unntaket fra tidsbegrensningen etter [§ 17-5](lov/1997-02-28-19/§17-5) tredje ledd, har igjen rett til omstillingsstønad dersom det nye ekteskapet blir oppløst ved skilsmisse før det er gått to år, eller ektefellen dør.
 
@@ -3581,7 +4039,11 @@ En gjenlevende som er omfattet av unntaket fra tidsbegrensningen etter [§ 17-5]
 
 ### § 17-12. Stønad etter dødsfall som skyldes yrkesskade
 
-Ved dødsfall som skyldes en skade eller sykdom som går inn under [kapittel 13](lov/1997-02-28-19/kap13), ytes det omstillingsstønad til gjenlevende ektefelle etter følgende særbestemmelser:Vilkåret i [§ 17-2](lov/1997-02-28-19/§17-2) om forutgående medlemskap gjelder ikke.Vilkåret i [§ 17-3](lov/1997-02-28-19/§17-3) om fortsatt medlemskap gjelder ikke.Vilkåret i [§ 17-4](lov/1997-02-28-19/§17-4) om ekteskapets varighet gjelder ikke.
+Ved dødsfall som skyldes en skade eller sykdom som går inn under [kapittel 13](lov/1997-02-28-19/kap13), ytes det omstillingsstønad til gjenlevende ektefelle etter følgende særbestemmelser:
+
+1. Vilkåret i [§ 17-2](lov/1997-02-28-19/§17-2) om forutgående medlemskap gjelder ikke.
+2. Vilkåret i [§ 17-3](lov/1997-02-28-19/§17-3) om fortsatt medlemskap gjelder ikke.
+3. Vilkåret i [§ 17-4](lov/1997-02-28-19/§17-4) om ekteskapets varighet gjelder ikke.
 
 Omstillingsstønaden avkortes ikke på grunn av redusert trygdetid.
 
@@ -3599,7 +4061,11 @@ Dersom vedkommende innen tre måneder etter utskrivelsen på nytt kommer i insti
 
 Ytelsen etter denne paragrafen må ikke overstige den ytelsen vedkommende har rett til etter lovens vanlige bestemmelser.
 
-Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen. Blant annet kan det gis bestemmelser omberegning av redusert ytelse,at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
+Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen. Blant annet kan det gis bestemmelser om
+
+1. beregning av redusert ytelse,
+2. at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
+3. at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
 
 > Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929)).
 
@@ -3621,7 +4087,13 @@ En person som i minst fem år har hatt nødvendig tilsyn med og pleie av en nær
 
 Det er et vilkår at den tidligere familiepleieren er medlem i trygden og var medlem i trygden i minst fem år fram til pleieforholdet opphørte. Dette vilkåret gjelder ikke dersom vedkommende etter fylte 16 år har vært medlem i trygden med unntak av maksimum fem år, og har vært medlem i minst ett år fram til han eller hun setter fram krav om ytelser.
 
-For rett til ytelser etter dette kapitlet måpleieren ha vært ugift i minst fem år under pleieforholdet, og være ugift når kravet om stønad settes fram,den som ble pleid, ha mottatt pensjon fra folketrygden eller ha vært medlem i trygden med et medlemskap som omfattet [folketrygdlovens](lov/1997-02-28-19) pensjonskapitler i minst fem år fram til pleieforholdet opphørte,pleieforholdet ha medført at pleieren i det vesentlige ikke har vært i stand til å forsørge seg selv ved annet arbeid,pleieforholdet ha medført at pleieren ikke er i stand til å forsørge seg selv ved eget arbeid etter at pleieforholdet har opphørt ogpleieren for øvrig ikke ha tilstrekkelige midler til livsopphold.
+For rett til ytelser etter dette kapitlet må
+
+1. pleieren ha vært ugift i minst fem år under pleieforholdet, og være ugift når kravet om stønad settes fram,
+2. den som ble pleid, ha mottatt pensjon fra folketrygden eller ha vært medlem i trygden med et medlemskap som omfattet [folketrygdlovens](lov/1997-02-28-19) pensjonskapitler i minst fem år fram til pleieforholdet opphørte,
+3. pleieforholdet ha medført at pleieren i det vesentlige ikke har vært i stand til å forsørge seg selv ved annet arbeid,
+4. pleieforholdet ha medført at pleieren ikke er i stand til å forsørge seg selv ved eget arbeid etter at pleieforholdet har opphørt og
+5. pleieren for øvrig ikke ha tilstrekkelige midler til livsopphold.
 
 Full årlig omstillingsstønad utgjør 2,25 ganger grunnbeløpet og gis dersom den tidligere familiepleieren hadde minst 40 års trygdetid etter bestemmelsene i [§ 3-5](lov/1997-02-28-19/§3-5). Dersom trygdetiden er kortere, reduseres omstillingsstønaden forholdsmessig.
 
@@ -3637,7 +4109,12 @@ Bestemmelsene i [§§ 17-5](lov/1997-02-28-19/§17-5), [17-7](lov/1997-02-28-19/
 
 ### § 17 A-1. Hvem kapitlet gjelder for
 
-Reglene i kapitlet her gjelder for personer som med virkning før 1. januar 2024 har rett til følgende ytelser:pensjon etter [kapittel 16](lov/1997-02-28-19/kap16) og [17](lov/1997-02-28-19/kap17),overgangsstønad etter § 17-6 første ledd bokstav a,overgangsstønad etter § 17-6 første ledd bokstav b og den gjenlevende har omsorgen for barn under 18 år ellerovergangsstønad etter § 17-6 andre ledd.
+Reglene i kapitlet her gjelder for personer som med virkning før 1. januar 2024 har rett til følgende ytelser:
+
+1. pensjon etter [kapittel 16](lov/1997-02-28-19/kap16) og [17](lov/1997-02-28-19/kap17),
+2. overgangsstønad etter § 17-6 første ledd bokstav a,
+3. overgangsstønad etter § 17-6 første ledd bokstav b og den gjenlevende har omsorgen for barn under 18 år eller
+4. overgangsstønad etter § 17-6 andre ledd.
 
 > Tilføyd ved lov [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)).
 
@@ -3677,7 +4154,12 @@ Dersom den gjenlevende har rett til ytelse uten tidsbegrensning etter [§ 17 A-3
 
 ### § 17 A-5. Bortfall av pensjon eller overgangsstønad til gjenlevende ektefelle
 
-Retten til ytelser etter dette kapitlet faller bort når den gjenlevendefyller 67 år eller mottar alderspensjon etter loven her,får rett til uføretrygd for full uførhet,mottar tidsbegrenset avtalefestet pensjon i perioden mellom fylte 62 og 67 år fra en offentlig tjenestepensjonsordning ellergifter seg igjen, se også [§ 1-5](lov/1997-02-28-19/§1-5).
+Retten til ytelser etter dette kapitlet faller bort når den gjenlevende
+
+1. fyller 67 år eller mottar alderspensjon etter loven her,
+2. får rett til uføretrygd for full uførhet,
+3. mottar tidsbegrenset avtalefestet pensjon i perioden mellom fylte 62 og 67 år fra en offentlig tjenestepensjonsordning eller
+4. gifter seg igjen, se også [§ 1-5](lov/1997-02-28-19/§1-5).
 
 En gjenlevende som er omfattet av unntaket fra tidsbegrensningen etter § 17 A-3 andre ledd, har rett til pensjon eller overgangsstønad dersom det nye ekteskapet blir oppløst ved skilsmisse før det er gått to år, eller ektefellen dør.
 
@@ -3725,11 +4207,17 @@ Departementet kan i forskrift gi bestemmelser som supplerer eller legger til ret
 
 ### § 18-2. Forutgående medlemskap
 
-Det er et vilkår for rett til barnepensjonat den avdøde faren eller moren var medlem i trygden de siste fem årene fram til dødsfallet, ellerat den avdøde faren eller moren mottok pensjon eller uføretrygd fra folketrygden de siste fem årene fram til dødsfallet.
+Det er et vilkår for rett til barnepensjon
+
+1. at den avdøde faren eller moren var medlem i trygden de siste fem årene fram til dødsfallet, eller
+2. at den avdøde faren eller moren mottok pensjon eller uføretrygd fra folketrygden de siste fem årene fram til dødsfallet.
 
 Ved vurderingen av om vilkåret i første ledd bokstav a er oppfylt, ses det bort fra perioder med tjeneste i internasjonale organisasjoner eller organer som staten Norge er medlem av, yter økonomisk bidrag til eller har ansvar for å bidra til bemanningen av. Vilkåret er ikke oppfylt dersom den avdøde faren eller moren var arbeidsufør, men ikke hadde rett til uføretrygd fordi vilkåret om forutgående medlemskap i [§ 12-2](lov/1997-02-28-19/§12-2) første ledd ikke var oppfylt.
 
-Vilkåret i første ledd gjelder ikke dersom den avdøde ved dødsfallet var medlem i trygden og daikke hadde fylt 26 år, ellerhadde vært medlem etter fylte 16 år med unntak av maksimum 5 år.
+Vilkåret i første ledd gjelder ikke dersom den avdøde ved dødsfallet var medlem i trygden og da
+
+1. ikke hadde fylt 26 år, eller
+2. hadde vært medlem etter fylte 16 år med unntak av maksimum 5 år.
 
 Barnet har rett til barnepensjonen etter tredje ledd tidligst fra det tidspunktet den avdøde ville ha vært medlem i ett år dersom dødsfallet ikke hadde skjedd.
 
@@ -3743,7 +4231,11 @@ Vilkåret i første ledd gjelder ikke når den avdøde faren eller moren var med
 
 Det er et vilkår for at et barn skal ha rett til pensjon, at det er medlem i trygden.
 
-Til et barn som ikke fyller vilkåret i første ledd, ytes det likevel barnepensjon dersomen av foreldrene har minst 20 års samlet botid etter [§ 3-5](lov/1997-02-28-19/§3-5) åttende ledd,den avdøde har mindre enn 20 års botid, men har minimum fem år med pensjonsgivende inntekt som overstiger grunnbeløpet, ellerminst ett av barna i et foreldreløst barnekull er medlem i trygden. Dette gjelder selv om det barnet som er medlem i trygden, har passert aldersgrensen for rett til barnepensjon.
+Til et barn som ikke fyller vilkåret i første ledd, ytes det likevel barnepensjon dersom
+
+1. en av foreldrene har minst 20 års samlet botid etter [§ 3-5](lov/1997-02-28-19/§3-5) åttende ledd,
+2. den avdøde har mindre enn 20 års botid, men har minimum fem år med pensjonsgivende inntekt som overstiger grunnbeløpet, eller
+3. minst ett av barna i et foreldreløst barnekull er medlem i trygden. Dette gjelder selv om det barnet som er medlem i trygden, har passert aldersgrensen for rett til barnepensjon.
 
 Barnepensjon etter unntaksbestemmelsene i [§ 18-2](lov/1997-02-28-19/§18-2) tredje, fjerde og sjette ledd beholdes bare så lenge barnet er medlem i trygden.
 
@@ -3795,7 +4287,11 @@ Dersom barnet innen tre måneder etter utskrivelsen på nytt kommer i institusjo
 
 Barnepensjon under opphold i institusjon må ikke overstige den barnepensjonen vedkommende har rett til etter lovens vanlige bestemmelser.
 
-Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen, herunder omberegning av redusert ytelse,at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
+Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen, herunder om
+
+1. beregning av redusert ytelse,
+2. at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
+3. at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
 
 > Endret ved lover [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417)), [20 juni 2003 nr. 53](lov/2003-06-20-53) (ikr. 1 juli 2003). [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), [20 des 2016 nr. 105](lov/2016-12-20-105), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), se endringsloven for overgangsregler).
 
@@ -3813,7 +4309,11 @@ Departementet kan gi forskrifter om anvendelsen av bestemmelsene i paragrafen he
 
 ### § 18-10. Barnepensjon etter dødsfall som skyldes yrkesskade
 
-Ved dødsfall som skyldes en skade eller sykdom som går inn under [kapittel 13](lov/1997-02-28-19/kap13), ytes det barnepensjon etter følgende særbestemmelser:Vilkåret i [§ 18-2](lov/1997-02-28-19/§18-2) om forutgående medlemskap gjelder ikke.Vilkåret i [§ 18-3](lov/1997-02-28-19/§18-3) om fortsatt medlemskap gjelder ikke.Bestemmelsene i [§ 18-5](lov/1997-02-28-19/§18-5) om reduksjon på grunn av manglende trygdetid gjelder ikke.
+Ved dødsfall som skyldes en skade eller sykdom som går inn under [kapittel 13](lov/1997-02-28-19/kap13), ytes det barnepensjon etter følgende særbestemmelser:
+
+1. Vilkåret i [§ 18-2](lov/1997-02-28-19/§18-2) om forutgående medlemskap gjelder ikke.
+2. Vilkåret i [§ 18-3](lov/1997-02-28-19/§18-3) om fortsatt medlemskap gjelder ikke.
+3. Bestemmelsene i [§ 18-5](lov/1997-02-28-19/§18-5) om reduksjon på grunn av manglende trygdetid gjelder ikke.
 
 > Endret ved lov [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), tidligere § 18-11, se endringsloven som endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36) for overgangsregler).
 
@@ -3841,15 +4341,24 @@ Departementet kan i forskrift gi bestemmelser som supplerer eller legger til ret
 
 Det er et vilkår for rett til alderspensjon at vedkommende har minst fem års trygdetid, se [§ 3-5](lov/1997-02-28-19/§3-5).
 
-Vilkåret om fem års trygdetid i første ledd gjelder ikke forden som ved fylte 67 år hadde rett til uføretrygd ved yrkesskade, ogden som fyller vilkårene i [§§ 19-2 a](lov/1997-02-28-19/§19-2a), [19-3 a](lov/1997-02-28-19/§19-3a) og [19-16](lov/1997-02-28-19/§19-16).
+Vilkåret om fem års trygdetid i første ledd gjelder ikke for
+
+1. den som ved fylte 67 år hadde rett til uføretrygd ved yrkesskade, og
+2. den som fyller vilkårene i [§§ 19-2 a](lov/1997-02-28-19/§19-2a), [19-3 a](lov/1997-02-28-19/§19-3a) og [19-16](lov/1997-02-28-19/§19-16).
 
 > Endret ved lover [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2012, se dens IX), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)).
 
 ### § 19-2 a. Krav til forutgående medlemskap for rett til fastsetting av pensjon etter § 19-16
 
-For å få rett til fastsetting av pensjon etter [§ 19-16](lov/1997-02-28-19/§19-16), må ett av følgende vilkår være oppfylt:Den avdøde må i de siste fem årene fram til dødsfallet ha vært medlem i trygden. Vilkåret er likevel ikke oppfylt dersom avdøde var arbeidsufør, men ikke hadde rett til uføretrygd fordi vilkårene om forutgående medlemskap i [§ 12-2](lov/1997-02-28-19/§12-2) første ledd ikke var oppfylt. Det ses bort fra perioder med tjeneste i internasjonale organisasjoner eller organer som staten Norge er medlem av, yter økonomisk bidrag til eller har ansvar for å bidra til bemanningen av.Den avdøde må i de siste fem årene fram til dødsfallet ha mottatt pensjon eller uføretrygd etter denne loven. Tidsrom da avdøde hadde avtalefestet pensjon med statstilskott skal være likestilt med tidsrom med pensjon fra folketrygden. Det samme gjelder tidsrom med pensjon fra en lovfestet pensjonsordning som er tilpasset folketrygden ved at det ikke gis ordinær pensjon til gjenlevende ektefelle.
+For å få rett til fastsetting av pensjon etter [§ 19-16](lov/1997-02-28-19/§19-16), må ett av følgende vilkår være oppfylt:
 
-Vilkåret i første ledd gjelder ikke dersom den avdøde var medlem i trygden på dødsfallstidspunktet og daikke hadde fylt 26 år, ellerhadde vært medlem etter fylte 16 år med unntak av maksimum 5 år.
+1. Den avdøde må i de siste fem årene fram til dødsfallet ha vært medlem i trygden. Vilkåret er likevel ikke oppfylt dersom avdøde var arbeidsufør, men ikke hadde rett til uføretrygd fordi vilkårene om forutgående medlemskap i [§ 12-2](lov/1997-02-28-19/§12-2) første ledd ikke var oppfylt. Det ses bort fra perioder med tjeneste i internasjonale organisasjoner eller organer som staten Norge er medlem av, yter økonomisk bidrag til eller har ansvar for å bidra til bemanningen av.
+2. Den avdøde må i de siste fem årene fram til dødsfallet ha mottatt pensjon eller uføretrygd etter denne loven. Tidsrom da avdøde hadde avtalefestet pensjon med statstilskott skal være likestilt med tidsrom med pensjon fra folketrygden. Det samme gjelder tidsrom med pensjon fra en lovfestet pensjonsordning som er tilpasset folketrygden ved at det ikke gis ordinær pensjon til gjenlevende ektefelle.
+
+Vilkåret i første ledd gjelder ikke dersom den avdøde var medlem i trygden på dødsfallstidspunktet og da
+
+1. ikke hadde fylt 26 år, eller
+2. hadde vært medlem etter fylte 16 år med unntak av maksimum 5 år.
 
 Retten etter andre ledd inntrer tidligst fra det tidspunktet den avdøde ville ha vært medlem i ett år dersom dødsfallet ikke hadde skjedd.
 
@@ -3861,7 +4370,10 @@ Vilkåret i første ledd gjelder ikke når avdøde var medlem i folketrygden ved
 
 Det er et vilkår for rett til alderspensjon at vedkommende er medlem i trygden.
 
-Den som ikke er medlem i trygden, får likevel alderspensjon dersom vedkommende har minst 20 års samlet botid, se [§ 3-5](lov/1997-02-28-19/§3-5) åttende ledd. Til den som har mindre enn 20 års botid, ytes dettilleggspensjon,grunnpensjon etter en trygdetid som svarer til det antall poengår tilleggspensjonen er beregnet etter.
+Den som ikke er medlem i trygden, får likevel alderspensjon dersom vedkommende har minst 20 års samlet botid, se [§ 3-5](lov/1997-02-28-19/§3-5) åttende ledd. Til den som har mindre enn 20 års botid, ytes det
+
+1. tilleggspensjon,
+2. grunnpensjon etter en trygdetid som svarer til det antall poengår tilleggspensjonen er beregnet etter.
 
 Minste pensjonsnivå etter [§ 19-8](lov/1997-02-28-19/§19-8) og pensjonstillegg etter [§ 19-9](lov/1997-02-28-19/§19-9) beregnes på grunnlag av samme trygdetid som grunnpensjonen ytes etter.
 
@@ -3917,7 +4429,10 @@ Forholdstallene fastsettes endelig det året et årskull fyller 61 år.
 
 Forholdstallene fastsettes på bakgrunn av forventet gjenstående levetid på uttakstidspunktet beregnet ut fra gjennomsnittet av observerte dødelighetsrater for eldre årskull de siste ti årene forut for fastsettingstidspunktet. Ved fastsettingen tas det hensyn til dødelighet mellom 62 år og uttakstidspunktet. Lønnsvekst fastsatt etter [§ 19-14](lov/1997-02-28-19/§19-14) åttende ledd med deretter fratrekk av 0,75 prosent inngår i beregningene. Som diskonteringsrente ved fastsetting av forholdstallene brukes lønnsvekst, se [§ 19-14](lov/1997-02-28-19/§19-14). Forholdstallet normeres til 1 for 1943-kullet ved 67 år.
 
-Dersom endringen i forholdstallet ved 67 år som følger av andre ledd er høyere enn 0,5 prosent fra ett årskull til det neste, skal forholdstall for årskullene 1944–1958 fastsettes slik:For årskullene 1944–1949 skal økningen i forholdstallet ved 67 år fra ett årskull til det neste være 0,5 prosent.For årskullene 1950–1958 skal økningen i forholdstallet ved 67 år fra ett årskull til det neste tilsvare en veid sum av 0,5 prosent og den prosentvise økningen i forholdstallet beregnet etter andre ledd. For 1950-kullet skal 0,5 prosent multipliseres med 0,9 og legges sammen med den prosentvise økningen i forholdstallet beregnet etter andre ledd multiplisert med 0,1. For 1951-kullet skal 0,5 prosent multipliseres med 0,8 og legges sammen med den prosentvise økningen i forholdstallet beregnet etter andre ledd multiplisert med 0,2. Vektingen endres tilsvarende for senere årskull til og med 1958-kullet der 0,5 prosent multipliseres med 0,1 og legges sammen med den prosentvise økningen i forholdstallet beregnet etter andre ledd multiplisert med 0,9.
+Dersom endringen i forholdstallet ved 67 år som følger av andre ledd er høyere enn 0,5 prosent fra ett årskull til det neste, skal forholdstall for årskullene 1944–1958 fastsettes slik:
+
+1. For årskullene 1944–1949 skal økningen i forholdstallet ved 67 år fra ett årskull til det neste være 0,5 prosent.
+2. For årskullene 1950–1958 skal økningen i forholdstallet ved 67 år fra ett årskull til det neste tilsvare en veid sum av 0,5 prosent og den prosentvise økningen i forholdstallet beregnet etter andre ledd. For 1950-kullet skal 0,5 prosent multipliseres med 0,9 og legges sammen med den prosentvise økningen i forholdstallet beregnet etter andre ledd multiplisert med 0,1. For 1951-kullet skal 0,5 prosent multipliseres med 0,8 og legges sammen med den prosentvise økningen i forholdstallet beregnet etter andre ledd multiplisert med 0,2. Vektingen endres tilsvarende for senere årskull til og med 1958-kullet der 0,5 prosent multipliseres med 0,1 og legges sammen med den prosentvise økningen i forholdstallet beregnet etter andre ledd multiplisert med 0,9.
 
 For årskullene 1959–1962 skal endringen i forholdstallene ved 67 år fra ett årskull til det neste tilsvare endringen som følger av beregning av forholdstall i andre ledd.
 
@@ -3941,11 +4456,17 @@ Satsene for minste pensjonsnivå for ugradert pensjon fastsettes i forbindelse m
 
 Lav sats ytes til den som lever sammen med en ektefelle som mottar alderspensjon, eller avtalefestet pensjon som nevnt i [§ 3-19](lov/1997-02-28-19/§3-19).
 
-Ordinær sats ytes til den som lever sammen med ektefelle som har uføretrygd. Ordinær sats ytes også til den som lever sammen med ektefelle som ikke mottar ytelser som nevnt i tredje ledd og ektefellen har en årlig inntekt, inkludert kapitalinntekt, som er større enn to ganger grunnbeløpet. Det ytes også ordinær sats til den som i 12 av de siste 18 månedene har vært samboer med personsom mottar ytelser som nevnt i tredje ledd, uføretrygd, pensjon eller overgangsstønad etter [kapittel 17 A](lov/1997-02-28-19/kap17A), omstillingsstønad etter [kapittel 17](lov/1997-02-28-19/kap17) eller overgangsstønad etter [§§ 16-7](lov/1997-02-28-19/§16-7) og [17-6](lov/1997-02-28-19/§17-6) slik bestemmelsene lød før 1. januar 2024, ellersom har en årlig inntekt, inkludert kapitalinntekt, som er større enn to ganger grunnbeløpet.
+Ordinær sats ytes til den som lever sammen med ektefelle som har uføretrygd. Ordinær sats ytes også til den som lever sammen med ektefelle som ikke mottar ytelser som nevnt i tredje ledd og ektefellen har en årlig inntekt, inkludert kapitalinntekt, som er større enn to ganger grunnbeløpet. Det ytes også ordinær sats til den som i 12 av de siste 18 månedene har vært samboer med person
+
+1. som mottar ytelser som nevnt i tredje ledd, uføretrygd, pensjon eller overgangsstønad etter [kapittel 17 A](lov/1997-02-28-19/kap17A), omstillingsstønad etter [kapittel 17](lov/1997-02-28-19/kap17) eller overgangsstønad etter [§§ 16-7](lov/1997-02-28-19/§16-7) og [17-6](lov/1997-02-28-19/§17-6) slik bestemmelsene lød før 1. januar 2024, eller
+2. som har en årlig inntekt, inkludert kapitalinntekt, som er større enn to ganger grunnbeløpet.
 
 Høy sats ytes til personer som ikke omfattes av tredje, fjerde eller sjette ledd.
 
-Det fastsettes særskilte satser for følgende grupper:Enslige alderspensjonister. Som enslig regnes her også ektefeller som ikke lever sammen.Personer som forsørger ektefelle over 60 år og fyller vilkårene i [§ 3-24 første](lov/1997-02-28-19/§3-24/ledd/1) og [fjerde ledd](lov/1997-02-28-19/§3-24/ledd/4) slik bestemmelsene lød før 1. januar 2025.
+Det fastsettes særskilte satser for følgende grupper:
+
+1. Enslige alderspensjonister. Som enslig regnes her også ektefeller som ikke lever sammen.
+2. Personer som forsørger ektefelle over 60 år og fyller vilkårene i [§ 3-24 første](lov/1997-02-28-19/§3-24/ledd/1) og [fjerde ledd](lov/1997-02-28-19/§3-24/ledd/4) slik bestemmelsene lød før 1. januar 2025.
 
 Dersom summen av grunnpensjon og tilleggspensjon er lavere enn pensjonsnivået vedkommende har rett til i henhold til denne bestemmelsen, skal differansen utbetales som et pensjonstillegg, se [§ 19-9](lov/1997-02-28-19/§19-9).
 
@@ -4061,9 +4582,16 @@ Ved vurdering av vilkår for uttak av alderspensjon før 67 år etter [§ 19-11]
 
 ### § 19-16. Alderspensjon til gjenlevende ektefelle
 
-Alderspensjon til en gjenlevende ektefelle som fyller vilkårene i [§§ 19-2 a](lov/1997-02-28-19/§19-2a) og [19-3 a](lov/1997-02-28-19/§19-3a) fastsettes etter femte til åttende ledd i paragrafen her. Det er et vilkår at den gjenlevendevar gift med den avdøde i minst fem år,har eller har hatt barn med den avdøde, ellerhadde omsorgen for avdødes barn (§ 1-6) på dødsfallstidspunktet. Ekteskapet og omsorgen for barnet etter dødsfallet må til sammen ha vart i minst fem år.
+Alderspensjon til en gjenlevende ektefelle som fyller vilkårene i [§§ 19-2 a](lov/1997-02-28-19/§19-2a) og [19-3 a](lov/1997-02-28-19/§19-3a) fastsettes etter femte til åttende ledd i paragrafen her. Det er et vilkår at den gjenlevende
 
-Alderspensjon til gjenlevende skilt person som fyller vilkårene i §§ 19-2 a og 19-3 a, fastsettes etter fjerde til sjuende ledd i denne paragrafen, dersom den tidligere ektefellen døde innen fem år etter skilsmissen ogekteskapet varte i minst 25 år ellerekteskapet varte i minst 15 år og ektefellene hadde felles barn.
+1. var gift med den avdøde i minst fem år,
+2. har eller har hatt barn med den avdøde, eller
+3. hadde omsorgen for avdødes barn (§ 1-6) på dødsfallstidspunktet. Ekteskapet og omsorgen for barnet etter dødsfallet må til sammen ha vart i minst fem år.
+
+Alderspensjon til gjenlevende skilt person som fyller vilkårene i §§ 19-2 a og 19-3 a, fastsettes etter fjerde til sjuende ledd i denne paragrafen, dersom den tidligere ektefellen døde innen fem år etter skilsmissen og
+
+1. ekteskapet varte i minst 25 år eller
+2. ekteskapet varte i minst 15 år og ektefellene hadde felles barn.
 
 Dersom den skilte personen var helt eller delvis forsørget av bidrag fra den avdøde, kan det gjøres unntak fra vilkåret om at det er gått mindre enn fem år mellom skilsmissen og dødsfallet. Ved avgjørelsen skal det legges vekt på varigheten av ekteskapet, og alderen til den skilte gjenlevende personen.
 
@@ -4083,7 +4611,10 @@ Departementet kan gi forskrifter om pensjonsberegning etter paragrafen her. Det 
 
 ### § 19-17. Avkall på alderspensjon
 
-En alderspensjonist kan gi avkall på sin rett til alderspensjon dersomektefellen mottar alderspensjon, uføretrygd eller avtalefestet pensjon som det godskrives pensjonspoeng for, se [§ 3-19](lov/1997-02-28-19/§3-19) sjette ledd, ogektefellen har lengst trygdetid.
+En alderspensjonist kan gi avkall på sin rett til alderspensjon dersom
+
+1. ektefellen mottar alderspensjon, uføretrygd eller avtalefestet pensjon som det godskrives pensjonspoeng for, se [§ 3-19](lov/1997-02-28-19/§3-19) sjette ledd, og
+2. ektefellen har lengst trygdetid.
 
 Ektefellens ytelser fastsettes da etter reglene for pensjonister som forsørger den andre ektefellen.
 
@@ -4129,7 +4660,11 @@ Dersom vedkommende innen tre måneder etter utskrivelsen på nytt kommer i insti
 
 Alderspensjon under opphold i institusjon må ikke overstige den alderspensjonen vedkommende har rett til etter lovens vanlige bestemmelser.
 
-Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen, herunder omberegning av redusert ytelse,at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
+Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen, herunder om
+
+1. beregning av redusert ytelse,
+2. at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
+3. at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
 
 > Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105).
 
@@ -4179,7 +4714,13 @@ Alderspensjon etter dette kapitlet består av inntektspensjon beregnet ut fra en
 
 ### § 20-4. Pensjonsbeholdning
 
-Pensjonsbeholdningen danner grunnlag for beregning av inntektspensjon, og bygges opp ved summen av årlig pensjonsopptjening. Pensjonsopptjening skjer på grunnlag avpensjonsgivende inntekt (§ 20-5)førstegangstjeneste (§ 20-6)mottak av dagpenger (§ 20-7)antatt inntekt ved mottak av uføretrygd (§ 20-7 a)omsorgsarbeid (§ 20-8).
+Pensjonsbeholdningen danner grunnlag for beregning av inntektspensjon, og bygges opp ved summen av årlig pensjonsopptjening. Pensjonsopptjening skjer på grunnlag av
+
+1. pensjonsgivende inntekt (§ 20-5)
+2. førstegangstjeneste (§ 20-6)
+3. mottak av dagpenger (§ 20-7)
+4. antatt inntekt ved mottak av uføretrygd (§ 20-7 a)
+5. omsorgsarbeid (§ 20-8).
 
 Summen av årlig pensjonsopptjening etter første ledd bokstavene a til d kan ikke overstige 18,1 prosent av et beløp tilsvarende 7,1 ganger grunnbeløpet. Det er det gjennomsnittlige grunnbeløpet for kalenderåret som legges til grunn.
 
@@ -4223,7 +4764,10 @@ Departementet gir forskrifter om beregning av pensjonsopptjening ved mottak av d
 
 Den som mottar uføretrygd får, for hvert kalenderår han eller hun har mottatt slik ytelse, pensjonsopptjening på grunnlag av en antatt inntekt. Pensjonsopptjening etter paragrafen her gis til og med det kalenderåret vedkommende fyller 61 år. Dersom uføretrygden er en omregnet uførepensjon, er det et vilkår at medlemmet mottok tilleggspensjon som var beregnet med framtidige pensjonspoeng.
 
-Antatt inntekt fastsettes slik:Dersom beregningsgrunnlaget for uføretrygden er fastsatt etter reglene i [§ 12-11](lov/1997-02-28-19/§12-11), skal den antatte inntekten fastsettes på samme måte som beregningsgrunnlaget for uføretrygden. Det regnes bare med pensjonsgivende inntekt opp til 7,1 ganger grunnbeløpet for hvert kalenderår.Dersom uføretrygden er en omregnet uførepensjon, skal den antatte inntekten tilsvare den pensjonsgivende inntekten som etter [§ 3-13](lov/1997-02-28-19/§3-13) ville gitt et opptjent pensjonspoeng lik det framtidige pensjonspoenget som var fastsatt i den tidligere tilleggspensjonen. Det regnes bare med pensjonsgivende inntekt opp til 7,1 ganger grunnbeløpet for hvert kalenderår.
+Antatt inntekt fastsettes slik:
+
+1. Dersom beregningsgrunnlaget for uføretrygden er fastsatt etter reglene i [§ 12-11](lov/1997-02-28-19/§12-11), skal den antatte inntekten fastsettes på samme måte som beregningsgrunnlaget for uføretrygden. Det regnes bare med pensjonsgivende inntekt opp til 7,1 ganger grunnbeløpet for hvert kalenderår.
+2. Dersom uføretrygden er en omregnet uførepensjon, skal den antatte inntekten tilsvare den pensjonsgivende inntekten som etter [§ 3-13](lov/1997-02-28-19/§3-13) ville gitt et opptjent pensjonspoeng lik det framtidige pensjonspoenget som var fastsatt i den tidligere tilleggspensjonen. Det regnes bare med pensjonsgivende inntekt opp til 7,1 ganger grunnbeløpet for hvert kalenderår.
 
 Dersom vilkårene i [§ 12-13](lov/1997-02-28-19/§12-13) tredje ledd om minsteytelse for unge uføre er oppfylt, skal antatt inntekt for år da vedkommende var medlem i folketrygden minst tilsvare 4,5 ganger grunnbeløpet.
 
@@ -4243,7 +4787,10 @@ Departementet kan gi forskrifter om fastsetting av antatt inntekt når uførhete
 
 ### § 20-8. Pensjonsopptjening ved omsorgsarbeid
 
-Et medlem som har utført omsorgsarbeid, får hvert kalenderår en pensjonsopptjening tilsvarende 18,1 prosent av et beløp på 4,5 ganger grunnbeløpet i følgende tilfeller:Medlemmet har minst halve året hatt den daglige omsorgen for et barn som ikke har fylt seks år innen årets utgang. For barnets fødselsår opptjenes det samme beløpet selv om omsorgen har vart mindre enn et halvt år. Opptjening gis den som mottar barnetrygd for barnet etter barnetrygdloven, dersom ikke noe annet er bestemt i forskrift.Medlemmet har minst halve året utført omsorgsarbeid for en syk, en funksjonshemmet eller en eldre person som selv er medlem i eller mottar pensjon fra folketrygden. Omsorgsarbeidet må utgjøre minst 22 timer pr. uke. Dersom omsorgsarbeidet tar slutt på grunn av varig institusjonsopphold eller dødsfall, opptjenes det samme beløpet selv om omsorgsarbeidet avsluttes før halve året er gått. Det er forutsatt at det har vært pensjonsopptjening for omsorgsarbeidet i de tre umiddelbart foregående årene.
+Et medlem som har utført omsorgsarbeid, får hvert kalenderår en pensjonsopptjening tilsvarende 18,1 prosent av et beløp på 4,5 ganger grunnbeløpet i følgende tilfeller:
+
+1. Medlemmet har minst halve året hatt den daglige omsorgen for et barn som ikke har fylt seks år innen årets utgang. For barnets fødselsår opptjenes det samme beløpet selv om omsorgen har vart mindre enn et halvt år. Opptjening gis den som mottar barnetrygd for barnet etter barnetrygdloven, dersom ikke noe annet er bestemt i forskrift.
+2. Medlemmet har minst halve året utført omsorgsarbeid for en syk, en funksjonshemmet eller en eldre person som selv er medlem i eller mottar pensjon fra folketrygden. Omsorgsarbeidet må utgjøre minst 22 timer pr. uke. Dersom omsorgsarbeidet tar slutt på grunn av varig institusjonsopphold eller dødsfall, opptjenes det samme beløpet selv om omsorgsarbeidet avsluttes før halve året er gått. Det er forutsatt at det har vært pensjonsopptjening for omsorgsarbeidet i de tre umiddelbart foregående årene.
 
 Det kan gis pensjonsopptjening etter første ledd fra og med det året vedkommende fyller 17 år, til og med det året vedkommende fyller 69 år.
 
@@ -4257,7 +4804,10 @@ Departementet gir forskrifter om gjennomføringen av bestemmelsene i denne parag
 
 Garantipensjonen fastsettes med en ordinær og en høy sats som gjelder ved 67 år for ugradert pensjon med full trygdetid.
 
-Ordinær sats ytes til den som lever sammen med en ektefellesom får uføretrygd, alderspensjon eller avtalefestet pensjon som nevnt i [§ 3-19](lov/1997-02-28-19/§3-19), ellersom har en årlig inntekt, inkludert kapitalinntekt, som er større enn to ganger grunnbeløpet.
+Ordinær sats ytes til den som lever sammen med en ektefelle
+
+1. som får uføretrygd, alderspensjon eller avtalefestet pensjon som nevnt i [§ 3-19](lov/1997-02-28-19/§3-19), eller
+2. som har en årlig inntekt, inkludert kapitalinntekt, som er større enn to ganger grunnbeløpet.
 
 I tillegg til de personene som er likestilt med ektefeller etter [§ 1-5](lov/1997-02-28-19/§1-5), skal bestemmelsen i andre ledd også gjelde for samboere som har levd sammen i 12 av de siste 18 månedene. Garantipensjon ytes også med ordinær sats når samboeren får omstillingsstønad etter [kapittel 17](lov/1997-02-28-19/kap17) eller pensjon eller overgangsstønad etter [kapittel 17 A](lov/1997-02-28-19/kap17A). Det samme gjelder dersom pensjonistens samboer mottar overgangsstønad etter [§§ 16-7](lov/1997-02-28-19/§16-7) og [17-6](lov/1997-02-28-19/§17-6) slik bestemmelsene lød før 1. januar 2024.
 
@@ -4411,7 +4961,10 @@ Ved vurdering av vilkår for uttak av alderspensjon før 67 år etter [§ 20-15]
 
 Personer som er født i 1954–1957 og som fyller vilkårene etter [§ 19-16](lov/1997-02-28-19/§19-16) om alderspensjon til gjenlevende ektefelle, har rett til et gjenlevendetillegg etter paragrafen her når pensjonen tas ut innen utgangen av 2019.
 
-Gjenlevendetillegget beregnes med utgangspunkt i et beløp som utgjør differansen mellomalderspensjon etter [kapittel 19](lov/1997-02-28-19/kap19) medregnet rettigheter som gjenlevende ektefelle etter [§ 19-16](lov/1997-02-28-19/§19-16) ogalderspensjon etter [kapittel 19](lov/1997-02-28-19/kap19) uten rettigheter som gjenlevende ektefelle etter [§ 19-16](lov/1997-02-28-19/§19-16).
+Gjenlevendetillegget beregnes med utgangspunkt i et beløp som utgjør differansen mellom
+
+1. alderspensjon etter [kapittel 19](lov/1997-02-28-19/kap19) medregnet rettigheter som gjenlevende ektefelle etter [§ 19-16](lov/1997-02-28-19/§19-16) og
+2. alderspensjon etter [kapittel 19](lov/1997-02-28-19/kap19) uten rettigheter som gjenlevende ektefelle etter [§ 19-16](lov/1997-02-28-19/§19-16).
 
 For personer født i 1954–1957 utgjør gjenlevendetillegget henholdsvis 1/10, 2/10, 3/10 og 4/10 av beløpet beregnet etter andre ledd.
 
@@ -4465,7 +5018,11 @@ Dersom vedkommende innen tre måneder etter utskrivelsen på nytt kommer i insti
 
 Alderspensjon under opphold i institusjon må ikke overstige den alderspensjonen vedkommende har rett til etter lovens vanlige bestemmelser.
 
-Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen, herunder omberegning av redusert ytelse,at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
+Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen, herunder om
+
+1. beregning av redusert ytelse,
+2. at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
+3. at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
 
 > Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)) som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73), endret ved lover [17 juni 2016 nr. 25](lov/2016-06-17-25), [20 des 2016 nr. 105](lov/2016-12-20-105).
 
@@ -4585,7 +5142,14 @@ Opplysninger, uttalelser og erklæringer etter [§ 21-4](lov/1997-02-28-19/§21-
 
 ### § 21-4 d. Masseinnhenting av opplysninger i kontrolløyemed
 
-Ved Arbeids- og velferdsetatens innhenting av registrerte opplysninger om et større antall navngitte stønadsmottakere i medhold av [§ 21-4](lov/1997-02-28-19/§21-4) første og sjette ledd for elektronisk sammenligning med opplysninger i et annet register (masseinnhenting), gjelder følgende:Masseinnhenting kan skje fra registre hos andre offentlige myndigheter eller fra arbeids- og velferdsetatens egne registre.Masseinnhentingen kan gjelde opplysninger om inntekt eller andre økonomiske forhold, yrkesmessig status, bosted eller adresse, lovlig adgang til opphold eller arbeid i riket og valutatransaksjoner i utlandet. Helseopplysninger og andre opplysninger som omfattes av personvernforordningen artikkel 9 eller 10, kan ikke innhentes ved masseinnhenting.Masseinnhentingen skal foretas av en særskilt utpekt enhet. Enheten kan innhente, registrere, sammenstille og lagre opplysninger så langt det er nødvendig for å avgjøre om en ytelse utbetales eller er utbetalt i strid med vilkårene for å motta ytelsen. Opplysninger om den enkelte stønadsmottaker kan videreformidles med sikte på å korrigere eller stanse feilaktige utbetalinger, kreve tilbakebetaling av for mye utbetalt beløp og straffeforfølgning. For øvrig kan videreformidling skje når dette følger av lov eller bestemmelse gitt i medhold av lov.Opplysninger innhentet ved masseinnhenting skal slettes så snart hensynet til kontroll og oppfølgning tillater det.Dersom det andre offentlige organet også har opplysninger som er uten betydning for retten til vedkommende trygdeytelse, skal masseinnhenting gjennomføres slik at disse opplysningene ikke omfattes eller utleveres. Innhentingen skal heller ikke medføre at det utleveres opplysninger om andre personer enn dem som kontrollen gir grunn til å følge opp. Dersom slike opplysninger likevel skulle bli utlevert, skal de umiddelbart slettes hos arbeids- og velferdsetaten.Offentlige myndigheter skal legge til rette for at opplysningene de besitter, på forespørsel gjøres elektronisk tilgjengelig for særskilt utpekt enhet i arbeids- og velferdsetaten. Det kan ikke kreves godtgjørelse for slik tilgjengeliggjøring og utlevering av opplysninger.
+Ved Arbeids- og velferdsetatens innhenting av registrerte opplysninger om et større antall navngitte stønadsmottakere i medhold av [§ 21-4](lov/1997-02-28-19/§21-4) første og sjette ledd for elektronisk sammenligning med opplysninger i et annet register (masseinnhenting), gjelder følgende:
+
+1. Masseinnhenting kan skje fra registre hos andre offentlige myndigheter eller fra arbeids- og velferdsetatens egne registre.
+2. Masseinnhentingen kan gjelde opplysninger om inntekt eller andre økonomiske forhold, yrkesmessig status, bosted eller adresse, lovlig adgang til opphold eller arbeid i riket og valutatransaksjoner i utlandet. Helseopplysninger og andre opplysninger som omfattes av personvernforordningen artikkel 9 eller 10, kan ikke innhentes ved masseinnhenting.
+3. Masseinnhentingen skal foretas av en særskilt utpekt enhet. Enheten kan innhente, registrere, sammenstille og lagre opplysninger så langt det er nødvendig for å avgjøre om en ytelse utbetales eller er utbetalt i strid med vilkårene for å motta ytelsen. Opplysninger om den enkelte stønadsmottaker kan videreformidles med sikte på å korrigere eller stanse feilaktige utbetalinger, kreve tilbakebetaling av for mye utbetalt beløp og straffeforfølgning. For øvrig kan videreformidling skje når dette følger av lov eller bestemmelse gitt i medhold av lov.
+4. Opplysninger innhentet ved masseinnhenting skal slettes så snart hensynet til kontroll og oppfølgning tillater det.
+5. Dersom det andre offentlige organet også har opplysninger som er uten betydning for retten til vedkommende trygdeytelse, skal masseinnhenting gjennomføres slik at disse opplysningene ikke omfattes eller utleveres. Innhentingen skal heller ikke medføre at det utleveres opplysninger om andre personer enn dem som kontrollen gir grunn til å følge opp. Dersom slike opplysninger likevel skulle bli utlevert, skal de umiddelbart slettes hos arbeids- og velferdsetaten.
+6. Offentlige myndigheter skal legge til rette for at opplysningene de besitter, på forespørsel gjøres elektronisk tilgjengelig for særskilt utpekt enhet i arbeids- og velferdsetaten. Det kan ikke kreves godtgjørelse for slik tilgjengeliggjøring og utlevering av opplysninger.
 
 Departementet kan gi forskrift om gjennomføringen av masseinnhenting, herunder bestemme at masseinnhentingen skal kunne omfatte andre opplysninger enn dem som er nevnt i første ledd bokstav b, forutsatt at opplysningene er av tilsvarende art. Det kan også fastsettes i forskrift hvilke registre opplysninger kan innhentes fra.
 
@@ -4607,7 +5171,11 @@ Det kan fattes nytt vedtak dersom det skjer en endring i forhold som er av betyd
 
 ### § 21-7. Uriktige opplysninger m.m. – følger for ytelser fra trygden
 
-Et krav om en ytelse kan avslås og en innvilget ytelse kan holdes tilbake eller stanses helt eller delvis dersom vedkommendemot bedre vitende gir uriktige opplysninger,holder tilbake opplysninger som er viktige for rettigheter eller plikter etter denne loven, elleruten rimelig grunn unnlater å etterkomme pålegg som er gitt med hjemmel i denne loven.
+Et krav om en ytelse kan avslås og en innvilget ytelse kan holdes tilbake eller stanses helt eller delvis dersom vedkommende
+
+1. mot bedre vitende gir uriktige opplysninger,
+2. holder tilbake opplysninger som er viktige for rettigheter eller plikter etter denne loven, eller
+3. uten rimelig grunn unnlater å etterkomme pålegg som er gitt med hjemmel i denne loven.
 
 ### § 21-8. Bortfall av rett til ytelser når mottakeren er skjødesløs med sin helse m.m.
 
@@ -4831,13 +5399,38 @@ Når det er utbetalt stønad etter [lov 29. april 2005 nr. 21](lov/2005-04-29-21
 
 ### § 22-10. Utbetalingsterminer
 
-Følgende ytelser utbetales som engangsbeløp:stønad ved helsetjenester ([kapittel 5](lov/1997-02-28-19/kap5))gravferdsstønad, stønad til båretransport og stønad ved dødsfall i utlandet ([kapittel 7](lov/1997-02-28-19/kap7))engangsstønad ved fødsel og adopsjon [(§ 14-17)](lov/1997-02-28-19/§14-17)
+Følgende ytelser utbetales som engangsbeløp:
 
-Følgende ytelser gis pr. dag og utbetales vanligvis etterskottsvis hver måned:sykepenger ([kapittel 8](lov/1997-02-28-19/kap8))omsorgspenger ved barns sykdom ([§§ 9-5](lov/1997-02-28-19/§9-5) til [9-9](lov/1997-02-28-19/§9-9))opplæringspenger ved kurs for et medlem med omsorg for et funksjonshemmet barn [(§ 9-14)](lov/1997-02-28-19/§9-14)pleiepenger for pleie av barn og nærstående ([§§ 9-10](lov/1997-02-28-19/§9-10) til [9-13](lov/1997-02-28-19/§9-13))svangerskapspenger ([kapittel 14](lov/1997-02-28-19/kap14))foreldrepenger ([kapittel 14](lov/1997-02-28-19/kap14))
+1. stønad ved helsetjenester ([kapittel 5](lov/1997-02-28-19/kap5))
+2. gravferdsstønad, stønad til båretransport og stønad ved dødsfall i utlandet ([kapittel 7](lov/1997-02-28-19/kap7))
+3. engangsstønad ved fødsel og adopsjon [(§ 14-17)](lov/1997-02-28-19/§14-17)
 
-Følgende ytelser gis pr. måned og utbetales innen utgangen av måneden:grunnstønad og hjelpestønad ([kapittel 6](lov/1997-02-28-19/kap6))uføretrygd ([kapittel 12](lov/1997-02-28-19/kap12))overgangsstønad til enslig mor eller far ([kapittel 15](lov/1997-02-28-19/kap15))stønad til barnetilsyn ([§§ 15-10](lov/1997-02-28-19/§15-10) og [17-10](lov/1997-02-28-19/§17-10))omstillingsstønad til gjenlevende ektefelle og tidligere familiepleier [(kapittel 17)](lov/1997-02-28-19/kap17)pensjon og overgangsstønad til gjenlevende ektefelle og tidligere familiepleier [(kapittel 17 A)](lov/1997-02-28-19/kap17A)barnepensjon ([kapittel 18](lov/1997-02-28-19/kap18))alderspensjon ([kapittel 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20))
+Følgende ytelser gis pr. dag og utbetales vanligvis etterskottsvis hver måned:
 
-Følgende ytelser kan utbetales enten som engangsbeløp eller som løpende ytelser:stønad til bedring av funksjonsevnen ([§§ 10-5](lov/1997-02-28-19/§10-5) til [10-7](lov/1997-02-28-19/§10-7))tilleggsstønader ([kapittel 11 A](lov/1997-02-28-19/kap11a))tilleggsstønader og stønad til skolepenger m.m. ([§§ 17-10 a](lov/1997-02-28-19/§17-10a) og [17-15](lov/1997-02-28-19/§17-15))menerstatning ved yrkesskade (§ 13-17).
+1. sykepenger ([kapittel 8](lov/1997-02-28-19/kap8))
+2. omsorgspenger ved barns sykdom ([§§ 9-5](lov/1997-02-28-19/§9-5) til [9-9](lov/1997-02-28-19/§9-9))
+3. opplæringspenger ved kurs for et medlem med omsorg for et funksjonshemmet barn [(§ 9-14)](lov/1997-02-28-19/§9-14)
+4. pleiepenger for pleie av barn og nærstående ([§§ 9-10](lov/1997-02-28-19/§9-10) til [9-13](lov/1997-02-28-19/§9-13))
+5. svangerskapspenger ([kapittel 14](lov/1997-02-28-19/kap14))
+6. foreldrepenger ([kapittel 14](lov/1997-02-28-19/kap14))
+
+Følgende ytelser gis pr. måned og utbetales innen utgangen av måneden:
+
+1. grunnstønad og hjelpestønad ([kapittel 6](lov/1997-02-28-19/kap6))
+2. uføretrygd ([kapittel 12](lov/1997-02-28-19/kap12))
+3. overgangsstønad til enslig mor eller far ([kapittel 15](lov/1997-02-28-19/kap15))
+4. stønad til barnetilsyn ([§§ 15-10](lov/1997-02-28-19/§15-10) og [17-10](lov/1997-02-28-19/§17-10))
+5. omstillingsstønad til gjenlevende ektefelle og tidligere familiepleier [(kapittel 17)](lov/1997-02-28-19/kap17)
+6. pensjon og overgangsstønad til gjenlevende ektefelle og tidligere familiepleier [(kapittel 17 A)](lov/1997-02-28-19/kap17A)
+7. barnepensjon ([kapittel 18](lov/1997-02-28-19/kap18))
+8. alderspensjon ([kapittel 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20))
+
+Følgende ytelser kan utbetales enten som engangsbeløp eller som løpende ytelser:
+
+1. stønad til bedring av funksjonsevnen ([§§ 10-5](lov/1997-02-28-19/§10-5) til [10-7](lov/1997-02-28-19/§10-7))
+2. tilleggsstønader ([kapittel 11 A](lov/1997-02-28-19/kap11a))
+3. tilleggsstønader og stønad til skolepenger m.m. ([§§ 17-10 a](lov/1997-02-28-19/§17-10a) og [17-15](lov/1997-02-28-19/§17-15))
+4. menerstatning ved yrkesskade (§ 13-17).
 
 Feriepenger av ytelser etter [kapitlene 8](lov/1997-02-28-19/kap8), [9](lov/1997-02-28-19/kap9) og [14](lov/1997-02-28-19/kap14) utbetales i andre halvdel av mai måned året etter opptjeningsåret.
 
@@ -4875,7 +5468,11 @@ Krav om en ytelse som utbetales som et engangsbeløp, se [§ 22-10](lov/1997-02-
 
 En ytelse som gis pr. dag eller pr. måned, se [§ 22-10](lov/1997-02-28-19/§22-10) andre, tredje og fjerde ledd, gis for opptil tre måneder før den måneden da kravet ble satt fram, dersom vilkårene var oppfylt i denne perioden.
 
-Det gjelder følgende unntak fra bestemmelsen i tredje ledd:Barnepensjon etter [kapittel 18](lov/1997-02-28-19/kap18) og menerstatning etter [§ 13-17](lov/1997-02-28-19/§13-17) gis for opptil tre år før den måneden da kravet ble satt fram.Overgangsstønad til enslig mor eller far gis for tidsrommet før fødselen dersom kravet blir satt fram innen tre måneder etter barnets fødsel, se [§ 15-5 andre ledd](lov/1997-02-28-19/§15-5/ledd/2).Alderspensjon etter [kapitlene 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20) gis tidligst fra og med måneden etter den måneden da kravet ble satt fram.
+Det gjelder følgende unntak fra bestemmelsen i tredje ledd:
+
+1. Barnepensjon etter [kapittel 18](lov/1997-02-28-19/kap18) og menerstatning etter [§ 13-17](lov/1997-02-28-19/§13-17) gis for opptil tre år før den måneden da kravet ble satt fram.
+2. Overgangsstønad til enslig mor eller far gis for tidsrommet før fødselen dersom kravet blir satt fram innen tre måneder etter barnets fødsel, se [§ 15-5 andre ledd](lov/1997-02-28-19/§15-5/ledd/2).
+3. Alderspensjon etter [kapitlene 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20) gis tidligst fra og med måneden etter den måneden da kravet ble satt fram.
 
 Dagpenger under arbeidsløshet etter [kapittel 4](lov/1997-02-28-19/kap4) og arbeidsavklaringspenger etter [kapittel 11](lov/1997-02-28-19/kap11) gis tidligst fra det tidspunktet da kravet ble satt fram. Bestemmelsen i syvende ledd gjelder ikke for dagpenger under arbeidsløshet.
 
@@ -4943,7 +5540,12 @@ Vedtak om tilbakekreving etter paragrafen her er tvangsgrunnlag for utlegg. Tilb
 
 Når en ytelse som nevnt i andre ledd utbetales med for høyt beløp fordi mottakerens inntekt er høyere enn forutsatt ved fastsettingen av ytelsen, skal det som etter reglene om inntektsprøving, meldeplikt og nedsetting av ytelser på grunn av endrede forhold er utbetalt for mye, avregnes ved trekk i framtidige ytelser. Dersom feilutbetalingen helt eller delvis kan tilskrives Arbeids- og velferdsetaten, kan kravet settes ned.
 
-Avregningsordningen gjelder ved feilutbetaling avovergangsstønad etter [kapittel 15](lov/1997-02-28-19/kap15)uføretrygd etter [kapittel 12](lov/1997-02-28-19/kap12)omstillingsstønad etter [kapittel 17](lov/1997-02-28-19/kap17) ogpensjon og overgangsstønad etter [kapittel 17 A](lov/1997-02-28-19/kap17A).
+Avregningsordningen gjelder ved feilutbetaling av
+
+1. overgangsstønad etter [kapittel 15](lov/1997-02-28-19/kap15)
+2. uføretrygd etter [kapittel 12](lov/1997-02-28-19/kap12)
+3. omstillingsstønad etter [kapittel 17](lov/1997-02-28-19/kap17) og
+4. pensjon og overgangsstønad etter [kapittel 17 A](lov/1997-02-28-19/kap17A).
 
 Avregning etter første ledd skjer normalt med opptil 10 prosent av samlet månedlig ytelse, men kan settes til et høyere beløp. Trekk kan foretas i ytelser som nevnt i andre ledd, i alderspensjon og i krigspensjon og pensjon etter yrkesskadetrygdloven. Det kan foretas trekk også etter overgang fra en av disse ytelsene til en annen, og feilutbetalte forsørgingstillegg kan avregnes i pensjon mv. etter at tilleggene er falt bort.
 
@@ -5053,7 +5655,25 @@ Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf
 
 Trygdeavgift fastsettes i prosent av personinntekt etter [skatteloven § 12-2](lov/1999-03-26-14/§12-2).
 
-Avgiften betales med:Lav sats av:pensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold og engangs- og avløsningsbeløp for slike ytelser, engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven, engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet, engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning og støtte etter lov om supplerande stønad til personar med kort butid i Noreg til personer som har fylt 67 år.overgangsstønad etter [folketrygdloven kapittel 17 A](lov/1997-02-28-19/kap17A),personinntekt for personer under 17 år eller over 69 år.Mellomsats avlønn og annen godtgjørelse som nevnt i [skatteloven § 12-2](lov/1999-03-26-14/§12-2) bokstav a,arbeidsavklaringspenger etter [folketrygdloven kapittel 11](lov/1997-02-28-19/kap11), ungdomsprogramytelse, aktivitetspenger for unge, uføretrygd etter [kapittel 12](lov/1997-02-28-19/kap12) og uføreytelser fra andre ordninger,personinntekt fastsatt etter [skatteloven § 12-10](lov/1999-03-26-14/§12-10) vunnet i næring der det svares produktavgift som nevnt i § 23-5,personinntekt fastsatt etter [skatteloven § 12-10](lov/1999-03-26-14/§12-10) for pass og stell av barn som ikke har fylt 12 år før utgangen av inntektsåret, eller som har særlig behov for omsorg og pleie, når barnepasset skjer i barnepasserens hjem,kvalifiseringsstønad etter [sosialtjenesteloven](lov/2009-12-18-131),godtgjørelse til deltaker for arbeidsinnsats i selskap med deltakerfastsetting i næring der det svares produktavgift som nevnt i [§ 23-5](lov/1997-02-28-19/§23-5),overgangsstønad etter [folketrygdloven § 15-5](lov/1997-02-28-19/§15-5),omstillingsstønad etter [folketrygdloven kapittel 17](lov/1997-02-28-19/kap17),introduksjonsstønad etter [integreringsloven kapittel 5](lov/2020-11-06-127/kap5).Høy sats av personinntekt som er fastsatt etter [skatteloven § 12-2](lov/1999-03-26-14/§12-2) og som ikke går inn under nr. 1 eller 2.
+Avgiften betales med:
+
+1. Lav sats av:
+
+   1. pensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold og engangs- og avløsningsbeløp for slike ytelser, engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven, engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet, engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning og støtte etter lov om supplerande stønad til personar med kort butid i Noreg til personer som har fylt 67 år.
+   2. overgangsstønad etter [folketrygdloven kapittel 17 A](lov/1997-02-28-19/kap17A),
+   3. personinntekt for personer under 17 år eller over 69 år.
+2. Mellomsats av
+
+   1. lønn og annen godtgjørelse som nevnt i [skatteloven § 12-2](lov/1999-03-26-14/§12-2) bokstav a,
+   2. arbeidsavklaringspenger etter [folketrygdloven kapittel 11](lov/1997-02-28-19/kap11), ungdomsprogramytelse, aktivitetspenger for unge, uføretrygd etter [kapittel 12](lov/1997-02-28-19/kap12) og uføreytelser fra andre ordninger,
+   3. personinntekt fastsatt etter [skatteloven § 12-10](lov/1999-03-26-14/§12-10) vunnet i næring der det svares produktavgift som nevnt i § 23-5,
+   4. personinntekt fastsatt etter [skatteloven § 12-10](lov/1999-03-26-14/§12-10) for pass og stell av barn som ikke har fylt 12 år før utgangen av inntektsåret, eller som har særlig behov for omsorg og pleie, når barnepasset skjer i barnepasserens hjem,
+   5. kvalifiseringsstønad etter [sosialtjenesteloven](lov/2009-12-18-131),
+   6. godtgjørelse til deltaker for arbeidsinnsats i selskap med deltakerfastsetting i næring der det svares produktavgift som nevnt i [§ 23-5](lov/1997-02-28-19/§23-5),
+   7. overgangsstønad etter [folketrygdloven § 15-5](lov/1997-02-28-19/§15-5),
+   8. omstillingsstønad etter [folketrygdloven kapittel 17](lov/1997-02-28-19/kap17),
+   9. introduksjonsstønad etter [integreringsloven kapittel 5](lov/2020-11-06-127/kap5).
+3. Høy sats av personinntekt som er fastsatt etter [skatteloven § 12-2](lov/1999-03-26-14/§12-2) og som ikke går inn under nr. 1 eller 2.
 
 Av ytelser til livsopphold etter [kapitlene 4](lov/1997-02-28-19/kap4), 8, 9 og 14 beregnes det avgift med satsene for den inntekten som ytelsene erstatter.
 
@@ -5087,7 +5707,13 @@ Departementet gir forskrifter om beregning, innkreving og kontroll av produktavg
 
 ### § 23-6. Premie for frivillig forsikring for sykepenger og frivillig yrkesskadetrygd
 
-Departementet gir forskrifter om premie og premiegrunnlag forarbeidsgiverens forsikring mot ansvar for sykepenger i arbeidsgiverperioden etter [§ 8-21](lov/1997-02-28-19/§8-21),frivillig forsikring for tilleggssykepenger for selvstendig næringsdrivende etter [§ 8-36](lov/1997-02-28-19/§8-36),frivillig forsikring for tilleggssykepenger for frilansere etter [§ 8-39](lov/1997-02-28-19/§8-39),frivillig yrkesskadetrygd for elever ved skoler og kurs etter [§ 13-10](lov/1997-02-28-19/§13-10) første ledd bokstav d,frivillig yrkesskadetrygd for selvstendig næringsdrivende og frilansere etter [§ 13-13](lov/1997-02-28-19/§13-13).
+Departementet gir forskrifter om premie og premiegrunnlag for
+
+1. arbeidsgiverens forsikring mot ansvar for sykepenger i arbeidsgiverperioden etter [§ 8-21](lov/1997-02-28-19/§8-21),
+2. frivillig forsikring for tilleggssykepenger for selvstendig næringsdrivende etter [§ 8-36](lov/1997-02-28-19/§8-36),
+3. frivillig forsikring for tilleggssykepenger for frilansere etter [§ 8-39](lov/1997-02-28-19/§8-39),
+4. frivillig yrkesskadetrygd for elever ved skoler og kurs etter [§ 13-10](lov/1997-02-28-19/§13-10) første ledd bokstav d,
+5. frivillig yrkesskadetrygd for selvstendig næringsdrivende og frilansere etter [§ 13-13](lov/1997-02-28-19/§13-13).
 
 ### § 23-7. Refusjon av trygdeutgifter ved trafikkskade
 
@@ -5175,7 +5801,13 @@ Den som er arbeidsgiver eller oppdragsgiver, plikter å registrere seg i Arbeids
 
 Den som er arbeidsgiver eller oppdragsgiver, plikter å sende melding til Arbeidsgiver- og arbeidstakerregisteret om inntak av en arbeidstaker eller frilanser og om opphør av et arbeidsforhold innen fredag i uken etter. Meldingen leveres på det stedet og på den måten som er bestemt i [a-opplysningsloven § 5](lov/2012-06-22-43/§5) med tilhørende forskrifter.
 
-Departementet kan gi forskrift om Arbeidsgiver- og arbeidstakerregisteret. Det kan blant annet gis bestemmelser omat arbeidsgiveren og oppdragsgiveren skal gi andre meldinger og opplysninger enn nevnt i første og andre leddat bestemmelsene i første og andre ledd kan fravikes for bestemte grupper av arbeidsgivere, oppdragsgivere, arbeidstakere og frilanserehvem som kan få tilgang til opplysninger fra registeretvilkår for å få tilgang til opplysninger fra registeret, herunder at det skal kreves søknadat det kan kreves betaling for utlevering av opplysninger fra registeret dersom særlige tilpasninger er nødvendig.
+Departementet kan gi forskrift om Arbeidsgiver- og arbeidstakerregisteret. Det kan blant annet gis bestemmelser om
+
+1. at arbeidsgiveren og oppdragsgiveren skal gi andre meldinger og opplysninger enn nevnt i første og andre ledd
+2. at bestemmelsene i første og andre ledd kan fravikes for bestemte grupper av arbeidsgivere, oppdragsgivere, arbeidstakere og frilansere
+3. hvem som kan få tilgang til opplysninger fra registeret
+4. vilkår for å få tilgang til opplysninger fra registeret, herunder at det skal kreves søknad
+5. at det kan kreves betaling for utlevering av opplysninger fra registeret dersom særlige tilpasninger er nødvendig.
 
 > Endret ved lover [27 nov 1998 nr. 69](lov/1998-11-27-69), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [20 juni 2014 nr. 23](lov/2014-06-20-23) (ikr. 1 jan 2015 iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220)), [20 des 2019 nr. 93](lov/2019-12-20-93) (ikr. 1 nov 2020 iflg. [res. 30 okt 2020 nr. 2181](forskrift/2020-10-30-2181)), [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021).
 
@@ -5207,7 +5839,12 @@ Ilagt overtredelsesgebyr og tvangsmulkt er tvangsgrunnlag for utlegg. Innkreving
 
 Ilagt overtredelsesgebyr eller tvangsmulkt kan helt eller delvis ettergis dersom det blir gjort sannsynlig at forpliktelsen ikke er overholdt som følge av forhold utenfor den opplysningspliktiges kontroll, eller dersom særlige rimelighetsgrunner knyttet til ileggelsen tilsier det.
 
-Departementet kan gi forskrift om overtredelsesgebyr og tvangsmulkt, blant annet kan det gis bestemmelser omhva som skal regnes som en forsømmelseforholdet mellom bruken av overtredelsesgebyr og tvangsmulkt i det enkelte tilfelletettergivelse av ilagt overtredelsesgebyr eller tvangsmulktøkt overtredelsesgebyr eller tvangsmulkt i gjentakelsestilfelle.
+Departementet kan gi forskrift om overtredelsesgebyr og tvangsmulkt, blant annet kan det gis bestemmelser om
+
+1. hva som skal regnes som en forsømmelse
+2. forholdet mellom bruken av overtredelsesgebyr og tvangsmulkt i det enkelte tilfellet
+3. ettergivelse av ilagt overtredelsesgebyr eller tvangsmulkt
+4. økt overtredelsesgebyr eller tvangsmulkt i gjentakelsestilfelle.
 
 > Endret ved lover [23 juni 2000 nr. 55](lov/2000-06-23-55) (ikr. 1 juli 2000), [23 feb 2007 nr. 10](lov/2007-02-23-10) (ikr. 1 mars 2007), [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009, se dens VIII), [24 juni 2011 nr. 18](lov/2011-06-24-18) (ikr. 1 juli 2011), [20 juni 2014 nr. 23](lov/2014-06-20-23) (ikr. 1 jan 2015 iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220)), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
 
@@ -5237,7 +5874,13 @@ En behandler som tross oppfordring unnlater å møte, kan pålegges frammøtepli
 
 ### § 25-6. Tap av retten til å praktisere for trygdens regning (Helsedirektoratets myndighet)
 
-Helsedirektoratet eller det organ Helsedirektoratet bestemmer kan treffe vedtak om at det ikke skal ytes godtgjørelse for behandling eller tjeneste som utføres etter denne loven dersom en behandler eller tjenesteyter forsettlig eller grovt uaktsomtgjør seg skyldig i uberettiget utbetaling fra trygden,ikke oppfyller lovbestemte plikter, ellergir misvisende opplysninger eller erklæringer som kan føre til uberettiget utbetaling av trygdeytelser.Vedtak etter første punktum gis rettsvirkning for alle lovens stønadsområder. Vedtaket kan gis virkning for inntil fem år.
+Helsedirektoratet eller det organ Helsedirektoratet bestemmer kan treffe vedtak om at det ikke skal ytes godtgjørelse for behandling eller tjeneste som utføres etter denne loven dersom en behandler eller tjenesteyter forsettlig eller grovt uaktsomt
+
+1. gjør seg skyldig i uberettiget utbetaling fra trygden,
+2. ikke oppfyller lovbestemte plikter, eller
+3. gir misvisende opplysninger eller erklæringer som kan føre til uberettiget utbetaling av trygdeytelser.
+
+Vedtak etter første punktum gis rettsvirkning for alle lovens stønadsområder. Vedtaket kan gis virkning for inntil fem år.
 
 Helsedirektoratet eller det organ Helsedirektoratet bestemmer kan treffe vedtak om at det ikke skal ytes godtgjørelse for behandling eller tjeneste som utføres i henhold til [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5), dersom en behandler eller tjenesteyter uaktsomt gjør seg skyldig i forhold som nevnt i første ledd. Vedtaket kan gis virkning for inntil tre år.
 
@@ -5261,7 +5904,13 @@ Vedtak fattet etter denne bestemmelsen kan påklages til Nasjonalt klageorgan fo
 
 ### § 25-7. Tap av retten til å praktisere for trygdens regning (Arbeids- og velferdsdirektoratets myndighet)
 
-Arbeids- og velferdsdirektoratet kan treffe vedtak om at det ikke skal ytes godtgjørelse for behandling eller tjeneste som utføres etter denne loven dersom en behandler eller tjenesteyter forsettlig eller grovt uaktsomtgjør seg skyldig i uberettiget utbetaling fra trygden,ikke oppfyller lovbestemte plikter, ellergir misvisende opplysninger eller erklæringer som kan føre til uberettiget utbetaling av trygdeytelser.Vedtak etter første punktum gis rettsvirkning for alle lovens stønadsområder. Vedtaket kan gis virkning for inntil fem år.
+Arbeids- og velferdsdirektoratet kan treffe vedtak om at det ikke skal ytes godtgjørelse for behandling eller tjeneste som utføres etter denne loven dersom en behandler eller tjenesteyter forsettlig eller grovt uaktsomt
+
+1. gjør seg skyldig i uberettiget utbetaling fra trygden,
+2. ikke oppfyller lovbestemte plikter, eller
+3. gir misvisende opplysninger eller erklæringer som kan føre til uberettiget utbetaling av trygdeytelser.
+
+Vedtak etter første punktum gis rettsvirkning for alle lovens stønadsområder. Vedtaket kan gis virkning for inntil fem år.
 
 Arbeids- og velferdsdirektoratet kan treffe vedtak om at det ikke skal ytes godtgjørelse for behandling eller tjeneste som utføres i henhold til [folketrygdloven, med unntak av kapittel 5](lov/1997-02-28-19/kap5), dersom en behandler eller tjenesteyter uaktsomt gjør seg skyldig i forhold som nevnt i første ledd. Vedtaket kan gis virkning for inntil tre år.
 
@@ -5305,7 +5954,13 @@ Departementet kan gi forskrift om at arbeidsgiver eller oppdragsgiver skal opply
 
 Enhver som gjør tjeneste i trygdens organer, skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenesten.
 
-Enhver som gjør tjeneste i trygdens organer, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet oppholdnår det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved andre utpreget skadelige handlinger,når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+Enhver som gjør tjeneste i trygdens organer, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold
+
+1. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,
+2. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,
+3. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,
+4. når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved andre utpreget skadelige handlinger,
+5. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
 
 Enhver som gjør tjeneste i trygdens organer, plikter også å gi opplysninger etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
 
@@ -5343,9 +5998,20 @@ Departementet gir forskrifter om beregning av kapitalverdier.
 
 Ved utbrudd eller fare for utbrudd av allmennfarlig smittsom sykdom kan Kongen i statsråd gi forskrift om utvidelse av trygdens ansvar for å utbetale ytelser etter folketrygdloven.
 
-På tilsvarende vilkår som nevnt i første ledd kan departementet gi forskrift omunntak fra krav til legeerklæring,rett til sykepenger etter [§ 8-4](lov/1997-02-28-19/§8-4) for personer som har eller kan antas å ha smittsom sykdom,rett til omsorgspenger,unntak fra pålagte plikter,plikt for arbeidsgiver til å forskuttere sykepenger fra trygden når en arbeidstaker ikke kan møte på arbeid som følge av innreiserestriksjoner.
+På tilsvarende vilkår som nevnt i første ledd kan departementet gi forskrift om
 
-På tilsvarende vilkår som nevnt i første ledd kan departementet gi forskrift om at Arbeids- og velferdsetaten kan gis adgang til åviderebehandle innhentede personopplysninger når dette er nødvendig for å sikre gode tjenester til brukerne, hensiktsmessige arbeidsprosesser og en effektiv forvaltning av tjenester og ytelser etter folketrygdloven,bruke personopplysninger fra produksjonsdata til utvikling og test ved tilpasning og produksjonssetting av nye tekniske løsninger for tjenester og ytelser etter folketrygdloven,treffe avgjørelser som utelukkende er basert på automatisert behandling av personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 i forbindelse med behandling av krav om ytelser etter folketrygdloven, oginnhente kopier av inntektsopplysninger fra a-ordningen for å understøtte effektiv beregning og utbetaling av ytelser etter folketrygdloven.
+1. unntak fra krav til legeerklæring,
+2. rett til sykepenger etter [§ 8-4](lov/1997-02-28-19/§8-4) for personer som har eller kan antas å ha smittsom sykdom,
+3. rett til omsorgspenger,
+4. unntak fra pålagte plikter,
+5. plikt for arbeidsgiver til å forskuttere sykepenger fra trygden når en arbeidstaker ikke kan møte på arbeid som følge av innreiserestriksjoner.
+
+På tilsvarende vilkår som nevnt i første ledd kan departementet gi forskrift om at Arbeids- og velferdsetaten kan gis adgang til å
+
+1. viderebehandle innhentede personopplysninger når dette er nødvendig for å sikre gode tjenester til brukerne, hensiktsmessige arbeidsprosesser og en effektiv forvaltning av tjenester og ytelser etter folketrygdloven,
+2. bruke personopplysninger fra produksjonsdata til utvikling og test ved tilpasning og produksjonssetting av nye tekniske løsninger for tjenester og ytelser etter folketrygdloven,
+3. treffe avgjørelser som utelukkende er basert på automatisert behandling av personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 i forbindelse med behandling av krav om ytelser etter folketrygdloven, og
+4. innhente kopier av inntektsopplysninger fra a-ordningen for å understøtte effektiv beregning og utbetaling av ytelser etter folketrygdloven.
 
 Forskrift gitt med hjemmel i første, andre eller tredje ledd kan gis virkning så lenge utbruddet eller faren for utbrudd er til stede. Forskrift gitt med hjemmel i tredje ledd kan også gis virkning så lenge Arbeids- og velferdsetaten har uvanlig høy saksinngang eller lang saksbehandlingstid på grunn av utbruddet eller faren for utbrudd.
 
@@ -5383,7 +6049,10 @@ Kongen gir forskrifter om gjennomføringen av bestemmelsene i paragrafen her.
 
 Loven trer i kraft 1. mai 1997.
 
-Fra samme dato blir følgende lover opphevet:[Lov av 17. juni 1966 nr. 12](lov/1966-06-17-12) om folketrygd – – –[Lov av 19. juni 1969 nr. 61](lov/1969-06-19-61) om særtillegg til ytelser fra folketrygden.
+Fra samme dato blir følgende lover opphevet:
+
+1. [Lov av 17. juni 1966 nr. 12](lov/1966-06-17-12) om folketrygd – – –
+2. [Lov av 19. juni 1969 nr. 61](lov/1969-06-19-61) om særtillegg til ytelser fra folketrygden.
 
 ### § 26-2. Overgangsbestemmelser
 

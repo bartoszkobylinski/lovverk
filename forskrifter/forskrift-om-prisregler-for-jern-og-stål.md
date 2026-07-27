@@ -40,21 +40,81 @@ Disse bestemmelser er ikke til hinder for slik pristilpasning som beskrevet i [�
 
 ## § 3. Metoder for prisangivelse
 
-Følgende metoder for prisangivelse kan anvendes:Prisangivelseved listepris fritt verk, ellerved listepris fastsatt på grunnlag av annet basispunkt enn det sted hvor det leverende verk ligger.For salg til avtakere i Norge kan prisangivelse skje etter bestemmelsessted.Tilpasning i nedadgående skala inntil den lavere pris som gjelder for kjøper i henhold til annet foretaks prisliste eller, dersom publiseringsplikten ikke gjelder, til en konkurrents faktisk anvendte priser og salgsvilkår.Den enkelte bedrift kan bare velge et basispunkt for hvert produkt. Finner Konkurransetilsynet at basispunktet er unaturlig, kan foretaket pålegges å endre basispunkt. Det skal gis skriftlig melding til Konkurransetilsynet om det basispunkt prisen er basert på.Priser angitt etter bestemmelsessted må være forenlige med og stå i rimelig forhold til priser som foretaket angir på grunnlag av sitt valgte basispunkt for leveranser til områder hvor Traktaten om opprettelse av Det Europeiske Kull- og Stålfellesskap får anvendelse.Foretak som gjør gjeldende at pristilpasning er foretatt i samsvar med første ledd nr. 3, skal på anmodning fra Konkurransetilsynet kunne godtgjøre at vilkårene for pristilpasning er tilstede, og at forskriftene for øvrig er overholdt.Det er forbudt for fabrikk å anvende lavere priser ved leveranse fra eget lager enn ved direkteleveranser.
+Følgende metoder for prisangivelse kan anvendes:
+
+1. Prisangivelse
+
+   1. ved listepris fritt verk, eller
+   2. ved listepris fastsatt på grunnlag av annet basispunkt enn det sted hvor det leverende verk ligger.
+2. For salg til avtakere i Norge kan prisangivelse skje etter bestemmelsessted.
+3. Tilpasning i nedadgående skala inntil den lavere pris som gjelder for kjøper i henhold til annet foretaks prisliste eller, dersom publiseringsplikten ikke gjelder, til en konkurrents faktisk anvendte priser og salgsvilkår.
+
+   Den enkelte bedrift kan bare velge et basispunkt for hvert produkt. Finner Konkurransetilsynet at basispunktet er unaturlig, kan foretaket pålegges å endre basispunkt. Det skal gis skriftlig melding til Konkurransetilsynet om det basispunkt prisen er basert på.
+
+   Priser angitt etter bestemmelsessted må være forenlige med og stå i rimelig forhold til priser som foretaket angir på grunnlag av sitt valgte basispunkt for leveranser til områder hvor Traktaten om opprettelse av Det Europeiske Kull- og Stålfellesskap får anvendelse.
+
+   Foretak som gjør gjeldende at pristilpasning er foretatt i samsvar med første ledd nr. 3, skal på anmodning fra Konkurransetilsynet kunne godtgjøre at vilkårene for pristilpasning er tilstede, og at forskriftene for øvrig er overholdt.
+
+   Det er forbudt for fabrikk å anvende lavere priser ved leveranse fra eget lager enn ved direkteleveranser.
 
 ## § 4. Utarbeidelse av prislister
 
-Foretak er pliktig til å offentliggjøre sine prislister og salgsvilkår med unntak for følgende produkter:råjern for stålfremstilling,spesialprofiler beregnet bare for et anvendelsesområde,plater med organisk overdrag (plastoverdragne plater og prelakkerte plater),sekunda produkter og deklasserte produkter,stål som ikke er av vanlig kvalitet med et kullstoffinnhold på under 0,6 % og hvis kjemiske og mekaniske egenskaper ikke uten videre er egnet til å gjøre produktene innbyrdes sammenlignbare,stål av samme type, såkalt «fysisk» eller «magnetisk» stål med bestemte elektriske og magnetiske egenskaper.
+Foretak er pliktig til å offentliggjøre sine prislister og salgsvilkår med unntak for følgende produkter:
 
-For produkter som kan henføres til Kull- og Stålfellesskapets harmoniserte tolltariffs posisjon 73.15, omfatter plikten til å offentliggjøre prislister bare følgende produkter:mangan-silisiumholdig stål til fremstilling av fjærer for kjøretøyer,automatstål, svovel-, bly- og svovel-blyholdig,dynamoblikk og transformatorplater uten hensyn til watt-tap,konstruksjonsstål,kulelagerstål,rustfritt eller varmebestandig stål.
+1. råjern for stålfremstilling,
+2. spesialprofiler beregnet bare for et anvendelsesområde,
+3. plater med organisk overdrag (plastoverdragne plater og prelakkerte plater),
+4. sekunda produkter og deklasserte produkter,
+5. stål som ikke er av vanlig kvalitet med et kullstoffinnhold på under 0,6 % og hvis kjemiske og mekaniske egenskaper ikke uten videre er egnet til å gjøre produktene innbyrdes sammenlignbare,
+6. stål av samme type, såkalt «fysisk» eller «magnetisk» stål med bestemte elektriske og magnetiske egenskaper.
+
+For produkter som kan henføres til Kull- og Stålfellesskapets harmoniserte tolltariffs posisjon 73.15, omfatter plikten til å offentliggjøre prislister bare følgende produkter:
+
+1. mangan-silisiumholdig stål til fremstilling av fjærer for kjøretøyer,
+2. automatstål, svovel-, bly- og svovel-blyholdig,
+3. dynamoblikk og transformatorplater uten hensyn til watt-tap,
+4. konstruksjonsstål,
+5. kulelagerstål,
+6. rustfritt eller varmebestandig stål.
 
 Uten særskilt samtykke av Konkurransetilsynet må et foretaks prislister bare omfatte produkter som foretaket faktisk tilbyr på markedet.
 
 ## § 5. Opplysninger prislistene skal inneholde
 
-De i [§ 4](forskrift/1974-12-23-4/§4) angitte prislister skal inneholde følgende opplysninger:grunnpriser for hver produktgruppe eller grunnpriser for hver kvalitet og produktgruppe,tillegg og fradrag som anvendes, og da med følgende opplysninger:– avvik for dimensjon og lengde,– tillegg for kvalitet og finhetsgrad,– tillegg og fradrag i henhold til bestilt kvantum eller spesifisert bestilling,– toleranser som ikke medfører prisforhøyelser,– tillegg for reduserte toleranser,– alle prisforhøyelser og tillegg som normalt anvendes ved levering av ulike produkter,leveringssted,metode for prisangivelse med meddelelse om prisen gjelder på spesifikasjonsdagen, på ordredagen eller på leveringsdagen,kostnader i forbindelse med innlastingen,anvendelse av rabatter o.l.– kvantumsrabatter som gis etterskuddsvis på kvantiteter som faktisk leveres av en selger over en periode på minst ett år,– rabatter og godtgjørelse til mellommann som nevnt i [§ 8](forskrift/1974-12-23-4/§8) annet ledd eller til forbruker,betalingsvilkår,art og beløp av avgift eller andre pålegg som det i henhold til de salgsvilkår kjøperen er tilbudt, skal gjøres tillegg for,om de vilkår som anvendes ved transaksjonen refererer seg til prislisten som gjaldt på ordredagen og om disse vilkår kan endres,– formene for slik endring.
+De i [§ 4](forskrift/1974-12-23-4/§4) angitte prislister skal inneholde følgende opplysninger:
 
-Når det gjelder varer som beskrevet i [§ 4](forskrift/1974-12-23-4/§4) a til f, skal grunnpris angis for hver kvalitet og produktgruppe. I tillegg til de opplysninger som kreves i henhold til [§ 4](forskrift/1974-12-23-4/§4) b til i, skal listeprisene for disse produkter også inneholde følgende opplysninger:varemerke i de tilfelle det gjelder kvalitet som selges under varemerke,de ulike kvaliteters kjemiske sammensetning.
+1. grunnpriser for hver produktgruppe eller grunnpriser for hver kvalitet og produktgruppe,
+2. tillegg og fradrag som anvendes, og da med følgende opplysninger:
+
+   – avvik for dimensjon og lengde,
+
+   – tillegg for kvalitet og finhetsgrad,
+
+   – tillegg og fradrag i henhold til bestilt kvantum eller spesifisert bestilling,
+
+   – toleranser som ikke medfører prisforhøyelser,
+
+   – tillegg for reduserte toleranser,
+
+   – alle prisforhøyelser og tillegg som normalt anvendes ved levering av ulike produkter,
+3. leveringssted,
+4. metode for prisangivelse med meddelelse om prisen gjelder på spesifikasjonsdagen, på ordredagen eller på leveringsdagen,
+5. kostnader i forbindelse med innlastingen,
+6. anvendelse av rabatter o.l.
+
+   – kvantumsrabatter som gis etterskuddsvis på kvantiteter som faktisk leveres av en selger over en periode på minst ett år,
+
+   – rabatter og godtgjørelse til mellommann som nevnt i [§ 8](forskrift/1974-12-23-4/§8) annet ledd eller til forbruker,
+7. betalingsvilkår,
+8. art og beløp av avgift eller andre pålegg som det i henhold til de salgsvilkår kjøperen er tilbudt, skal gjøres tillegg for,
+9. om de vilkår som anvendes ved transaksjonen refererer seg til prislisten som gjaldt på ordredagen og om disse vilkår kan endres,
+
+   – formene for slik endring.
+
+Når det gjelder varer som beskrevet i [§ 4](forskrift/1974-12-23-4/§4) a til f, skal grunnpris angis for hver kvalitet og produktgruppe. I tillegg til de opplysninger som kreves i henhold til [§ 4](forskrift/1974-12-23-4/§4) b til i, skal listeprisene for disse produkter også inneholde følgende opplysninger:
+
+1. varemerke i de tilfelle det gjelder kvalitet som selges under varemerke,
+2. de ulike kvaliteters kjemiske sammensetning.
 
 ## § 6. Transportkostnader
 
@@ -70,7 +130,10 @@ Kjøpere har etter avtale med selgeren rett til selv å besørge transport.
 
 Når kjøper påtar seg transport til oppgitt bestemmelsessted, skal selger pålegge kjøper å fremlegge bevis for gjennomføring av transporten.
 
-Når pris er fastlagt på grunnlag av basispunkt og varen skal hentes ved verket, kan pris beregnes alternativt:som listepris med tillegg av fraktpriser fra basispunkt til verk, elleri samsvar med hovedregelen som listepris med tillegg av offentliggjorte fraktpriser fra basispunkt til bestemmelsessted, men med fradrag av transportkostnader fra verk til bestemmelsessted
+Når pris er fastlagt på grunnlag av basispunkt og varen skal hentes ved verket, kan pris beregnes alternativt:
+
+1. som listepris med tillegg av fraktpriser fra basispunkt til verk, eller
+2. i samsvar med hovedregelen som listepris med tillegg av offentliggjorte fraktpriser fra basispunkt til bestemmelsessted, men med fradrag av transportkostnader fra verk til bestemmelsessted
 
 ## § 7. Offentliggjøring av prislister
 

@@ -15,7 +15,7 @@ xml_hash: "3fc0a3ad24a6bb4c77e097278d8ccf6e594994ea412e529539d9c853ad225e11"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,14 @@ Ved flyging til Svalbard skal første landing skje på Svalbard lufthavn, Longye
 
 ## § 4.
 
-Søknad om tillatelse skal, med unntak av søknad om ekstra ruteflyging, foreligge i Luftfartsverket minst 2 arbeidsdager før landing skal finne sted. Søknaden skal inneholde opplysninger om:Luftfartøyets type og registreringsbetegnelse.Eierens navn og nasjonalitet.Luftfartsselskapets/operatørens navn og nasjonalitet, samt adresse, telefon-, telex- og/eller telefaxnummer.Dato(er) og tidtabell for flygingen(e) samt eventuelt flygingen(e)s nummer.Flygingen(e)s art og formål.Lastens art og mengde.
+Søknad om tillatelse skal, med unntak av søknad om ekstra ruteflyging, foreligge i Luftfartsverket minst 2 arbeidsdager før landing skal finne sted. Søknaden skal inneholde opplysninger om:
+
+1. Luftfartøyets type og registreringsbetegnelse.
+2. Eierens navn og nasjonalitet.
+3. Luftfartsselskapets/operatørens navn og nasjonalitet, samt adresse, telefon-, telex- og/eller telefaxnummer.
+4. Dato(er) og tidtabell for flygingen(e) samt eventuelt flygingen(e)s nummer.
+5. Flygingen(e)s art og formål.
+6. Lastens art og mengde.
 
 – – –
 

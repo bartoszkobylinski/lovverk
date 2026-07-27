@@ -34,9 +34,24 @@ Jegerregisteret skal behandle opplysninger som er nødvendige for at jakt, fangs
 
 ### § 1-3. Hvilke opplysninger registeret skal og kan inneholde
 
-Registeret skal inneholde opplysninger om:personer som har bestått jegerprøvendato for bestått jegerprøveskyteprøver og andre særskilte kompetansekrav, herunder dato for godkjenning og varighetautorisasjon som jegerprøveinstruktørregistrerte lisensjegeretap av eller begrensning i adgangen til å drive jakt, fangst eller fellinginnbetalt jegeravgiftfritak fra jegeravgiftstatus for rapportering av jakt- og fangstutbyttegodkjenning som skyteprøvearrangør for å kontrollere og godkjenne skyteprøve for storviltjegerepersoner bosatt i utlandet som etter søknad har fått tillatelse til å drive med jakt og fangst i Norge, inkludert søknad, dokumentasjon og vedtak i saken.
+Registeret skal inneholde opplysninger om:
 
-Registeret kan inneholde opplysninger om:jegerens jaktvåpen, dersom jegeren registrerer detteandre opplysninger som er nødvendige for at viltmyndighetene skal kunne utføre sine oppgaver, jf. [§ 1-2](forskrift/2026-06-26-1373/§1-2).
+1. personer som har bestått jegerprøven
+2. dato for bestått jegerprøve
+3. skyteprøver og andre særskilte kompetansekrav, herunder dato for godkjenning og varighet
+4. autorisasjon som jegerprøveinstruktør
+5. registrerte lisensjegere
+6. tap av eller begrensning i adgangen til å drive jakt, fangst eller felling
+7. innbetalt jegeravgift
+8. fritak fra jegeravgift
+9. status for rapportering av jakt- og fangstutbytte
+10. godkjenning som skyteprøvearrangør for å kontrollere og godkjenne skyteprøve for storviltjegere
+11. personer bosatt i utlandet som etter søknad har fått tillatelse til å drive med jakt og fangst i Norge, inkludert søknad, dokumentasjon og vedtak i saken.
+
+Registeret kan inneholde opplysninger om:
+
+1. jegerens jaktvåpen, dersom jegeren registrerer dette
+2. andre opplysninger som er nødvendige for at viltmyndighetene skal kunne utføre sine oppgaver, jf. [§ 1-2](forskrift/2026-06-26-1373/§1-2).
 
 ### § 1-4. Datasikkerhet
 
@@ -46,11 +61,23 @@ Registerføreren eller den registerføreren har delegert sin kompetanse til skal
 
 ### § 2-1. Registrering av jeger
 
-Den som har bestått jegerprøven, jf. [viltressursloven § 14](lov/2025-06-20-102/§14), blir registrert i Jegerregisteret. Registreringen gjøres ved at det sendes en automatisk melding til Jegerregisteret etter jegerprøveeksamen er bestått. Ved registrering i Jegerregisteret skal det registreres opplysninger omnavnfødselsnummer eller d-nummeradresse,dato for bestått jegerprøveeksamenregistreringsdato.
+Den som har bestått jegerprøven, jf. [viltressursloven § 14](lov/2025-06-20-102/§14), blir registrert i Jegerregisteret. Registreringen gjøres ved at det sendes en automatisk melding til Jegerregisteret etter jegerprøveeksamen er bestått. Ved registrering i Jegerregisteret skal det registreres opplysninger om
+
+1. navn
+2. fødselsnummer eller d-nummer
+3. adresse,
+4. dato for bestått jegerprøveeksamen
+5. registreringsdato.
 
 ### § 2-2. Utenlandske jegere
 
-Den som har fritak fra kravet om obligatorisk jegerprøve etter [utøvelsesforskriften § 8 fjerde ledd](forskrift/2002-03-22-313/§8/ledd/4), kan registreres i Jegerregisteret. Ved registrering i Jegerregisteret skal det registreres opplysninger omnavnfødselsdatoadressedatoen for vedtak om fritak fra kravet om obligatorisk jegerprøveeventuelle begrensninger i adgangen til jakt og fangst.
+Den som har fritak fra kravet om obligatorisk jegerprøve etter [utøvelsesforskriften § 8 fjerde ledd](forskrift/2002-03-22-313/§8/ledd/4), kan registreres i Jegerregisteret. Ved registrering i Jegerregisteret skal det registreres opplysninger om
+
+1. navn
+2. fødselsdato
+3. adresse
+4. datoen for vedtak om fritak fra kravet om obligatorisk jegerprøve
+5. eventuelle begrensninger i adgangen til jakt og fangst.
 
 ### § 2-3. Lisensjeger
 

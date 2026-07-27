@@ -15,7 +15,7 @@ xml_hash: "4c327a7e6be1605ca9de810f5d2733e8cba5bae3ed042e85823fe13ad33a9904"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,11 @@ eu_basis: []
 
 (1) Som rutetransport reknast regelmessig transport av personar i eit bestemt trafikksamband dersom transporten står open for alle, og på- og avstiging kan skje på stoppestader som er fastsette på førehand.
 
-(2) Følgjande transport skal likevel ikkje reknast som rutetransport:transport av personar frå ein stad og tilbake til denne, når motorvogna eller fartøyet ikkje vert nytta til transport av andre før heile turen er avslutta,transport av personar så framt minst ei overnatting er teken med i den sams prisen og dei påmelde passasjerane følgjer med på heile turen frå utgangspunkt til endepunkt,transport inkludert overnatting som er lagt til rette for regelmessig transport av grupper av personar frå eit avgangsområde til eit bestemmelsesområde, slik at den gruppa som har vore med på turen ut, først returnerer samla til avgangsområdet med ein seinare tur.
+(2) Følgjande transport skal likevel ikkje reknast som rutetransport:
+
+1. transport av personar frå ein stad og tilbake til denne, når motorvogna eller fartøyet ikkje vert nytta til transport av andre før heile turen er avslutta,
+2. transport av personar så framt minst ei overnatting er teken med i den sams prisen og dei påmelde passasjerane følgjer med på heile turen frå utgangspunkt til endepunkt,
+3. transport inkludert overnatting som er lagt til rette for regelmessig transport av grupper av personar frå eit avgangsområde til eit bestemmelsesområde, slik at den gruppa som har vore med på turen ut, først returnerer samla til avgangsområdet med ein seinare tur.
 
 ### § 3. Unntak
 
@@ -48,7 +52,12 @@ Departementet kan i tvilstilfelle i forskrift eller einskildvedtak fastsetje kva
 
 (1) Den som mot vederlag vil drive nasjonal eller internasjonal persontransport med motorvogn registrert for meir enn 9 personar, må ha løyve. Det same gjeld den som utfører persontransport mot vederlag på liknande måte som drosje når tilbod om transport vert retta til ålmenta på offentleg plass eller via digitale plattformer.
 
-(2) Løyve skal tildelast den somdriv ei faktisk og varig verksemd i Noreg,har god vandel,har tilfredsstillande økonomisk evne, oghar tilstrekkeleg fagleg kompetanse.
+(2) Løyve skal tildelast den som
+
+1. driv ei faktisk og varig verksemd i Noreg,
+2. har god vandel,
+3. har tilfredsstillande økonomisk evne, og
+4. har tilstrekkeleg fagleg kompetanse.
 
 > Endra ved lover [21 juni 2013 nr. 104](lov/2013-06-21-104) (ikr. 1 jan 2015 iflg. [res. 21 nov 2014 nr. 1428](forskrift/2014-11-21-1428)), [21 juni 2019 nr. 67](lov/2019-06-21-67) (ikr. 1 juli 2019), [15 mars 2024 nr. 10](lov/2024-03-15-10) (i kraft 1 sep 2024 iflg. [res. 25 juni 2024 nr. 1210](forskrift/2024-06-25-1210)).
 
@@ -76,7 +85,10 @@ Departementet kan i tvilstilfelle i forskrift eller einskildvedtak fastsetje kva
 
 (1) Den som mot vederlag vil drive persontransport i rute med luftputefartøy, eller med anna fartøy over 8 m lengde tilsvarande 4 bruttotonn må ha ruteløyve. [§ 4](lov/2002-06-21-45/§4) andre ledd bokstav b og c og [§ 6](lov/2002-06-21-45/§6) tredje ledd gjeld tilsvarande.
 
-(2) Det trengs likevel ikkje ruteløyve for:Transport mellom Noreg og andre land som tek med personar mellom stader i Noreg.Transport av inntil 12 personar, såframt det ikkje vert krevd passasjersertifikat etter [lov om skipssikkerhet (skipssikkerhetsloven)](lov/2007-02-16-9).
+(2) Det trengs likevel ikkje ruteløyve for:
+
+1. Transport mellom Noreg og andre land som tek med personar mellom stader i Noreg.
+2. Transport av inntil 12 personar, såframt det ikkje vert krevd passasjersertifikat etter [lov om skipssikkerhet (skipssikkerhetsloven)](lov/2007-02-16-9).
 
 > Endra ved lover [16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)), [17 apr 2009 nr. 19](lov/2009-04-17-19) (ikr. 1 jan 2010 iflg. [res. 4 des 2009 nr. 1456](forskrift/2009-12-04-1456)), [23 jan 2015 nr. 6](lov/2015-01-23-6) (ikr. 23 jan 2015 iflg. [res. 23 jan 2015 nr. 56](forskrift/2015-01-23-56)), [21 juni 2019 nr. 70](lov/2019-06-21-70) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 872](forskrift/2019-06-21-872)), [17 juni 2022 nr. 70](lov/2022-06-17-70).
 
@@ -160,7 +172,14 @@ Departementet kan i tvilstilfelle i forskrift eller einskildvedtak fastsetje kva
 
 ### § 9 d. Drosjesentralen sine plikter til å samle inn, lagre og sende inn informasjon
 
-(1) Drosjesentralen skal ha opplysningar om:løyvehavarar som er knytte til sentralen,sjåførar som er tilsette hos tilslutta løyvehavarar,drosjer som er knytte til sentralen og registreringsnummeret på drosjene,taksameter som er installert i drosja, inkludert serienummer,talet på drosjer som til kvar tid er tilgjengelege for sentralen og kva for geografiske område drosjene dekker,dei drosjene dei tilknytte løyvehavarane disponerer som er tilpassa personar med nedsett funksjonsevne.
+(1) Drosjesentralen skal ha opplysningar om:
+
+1. løyvehavarar som er knytte til sentralen,
+2. sjåførar som er tilsette hos tilslutta løyvehavarar,
+3. drosjer som er knytte til sentralen og registreringsnummeret på drosjene,
+4. taksameter som er installert i drosja, inkludert serienummer,
+5. talet på drosjer som til kvar tid er tilgjengelege for sentralen og kva for geografiske område drosjene dekker,
+6. dei drosjene dei tilknytte løyvehavarane disponerer som er tilpassa personar med nedsett funksjonsevne.
 
 (2) Drosjesentralen skal løpande og digitalt samle inn og lagre opplysningar om posisjonsdata for drosjeturar som drosjeløyvehavaren har loggført etter [§ 9 fjerde ledd](lov/2002-06-21-45/§9/ledd/4). Sentralen skal lagre opplysningane i 60 dagar.
 
@@ -420,7 +439,11 @@ Departementet kan gje forskrifter om at motorvogn som vert nytta til løyveplikt
 
 ### § 31. Gebyr
 
-(1) Departementet kan fastsetje i forskrift at det skal betalast gebyr forutferding av løyvedokument, løyveskilt eller annan dokumentasjon etter denne lovaavvikling av løyveeksamen, førareksamen og utferding av kompetansebevisgjennomføring av tilsyn av kontrollutrustningar mv.
+(1) Departementet kan fastsetje i forskrift at det skal betalast gebyr for
+
+1. utferding av løyvedokument, løyveskilt eller annan dokumentasjon etter denne lova
+2. avvikling av løyveeksamen, førareksamen og utferding av kompetansebevis
+3. gjennomføring av tilsyn av kontrollutrustningar mv.
 
 (2) Departementet kan òg fastsetje i forskrift at den som mot vederlag driv persontransport med motorvogn og fartøy i rute, skal betale gebyr for tilknyting til og bruk av elektroniske støttesystem for billettering. Gebyret skal ikkje overstige kostnadene til utvikling og drift av elektroniske støttesystemer for billettering. I forskrifta kan departementet gje nærare føresegner om gebyrordninga, mellom anna om fastsetjing og innkrevjing av gebyr.
 
@@ -520,7 +543,11 @@ Politiet skal gi kjøresetelen påteikning om eventuelle avgrensande vilkår.
 
 Den som skal få kjøresetel, må vere fylt 20 år, ha slik vandel at politiet ikkje finn vedkommande uskikka til å virke som førar og oppfylle dei same krava til helse som for førarkort klasse D og DE. Førar av drosje må i tillegg ha tilstrekkeleg fagleg kompetanse og ha hatt førarkort klasse B utan avbrot i minst to år.
 
-For utlendingar krevst det 4 års butid i Noreg før kjøresetel kan utferdast. Kravet om butid gjeld likevel ikkje forEØS-borgarar som legg fram politiattest frå heimstaten sin,utlendingar frå land utanfor EØS som har opphald i eit EØS-land og som kan leggje fram politiattest og bevis på lovleg opphald frå EØS-landet,utlendingar frå land utanfor EØS med tidlegare opphald i Noreg, der fråveret ikkje er av eit slikt omfang at det ikkje kan gjennomførast tilfredsstillande vandelskontroll.
+For utlendingar krevst det 4 års butid i Noreg før kjøresetel kan utferdast. Kravet om butid gjeld likevel ikkje for
+
+1. EØS-borgarar som legg fram politiattest frå heimstaten sin,
+2. utlendingar frå land utanfor EØS som har opphald i eit EØS-land og som kan leggje fram politiattest og bevis på lovleg opphald frå EØS-landet,
+3. utlendingar frå land utanfor EØS med tidlegare opphald i Noreg, der fråveret ikkje er av eit slikt omfang at det ikkje kan gjennomførast tilfredsstillande vandelskontroll.
 
 For tredjelandsborgarar som ikkje har fått opphaldstillating før innreise til Noreg, skal butida reknast frå den datoen søknaden om opphaldstillating vert registrert hos utlendingsstyresmaktene. For EØS-borgarar, og tredjelandsborgarar som har fått opphaldstillating før innreise til Noreg, vert butida rekna frå det tidspunktet som følgjer av [politiregisterforskrifta § 28-4](forskrift/2013-09-20-1097/§28-4) andre ledd.
 
@@ -628,7 +655,11 @@ Når kontrollmakta ber om det pliktar førar å gje tilgang til varerom, contain
 
 ### § 40 b. Lovbrotsgebyr knytt til tildeling av tenestekonsesjonskontraktar
 
-(1) Departementet kan påleggje oppdragsgjevar eit lovbrotsgebyr dersom oppdragsgjevaren bryt reglar som skal sikre openheit og ikkje-diskriminering i prosessen med å tildele konsesjonskontraktar for transporttenester etter lova her. Lovbrotsgebyret kan verte pålagt dersom eitt av følgjande vilkår er oppfylt:brotet er konstatert ved rettskraftig dom i ein norsk domstol,brotet er konstatert ved dom i EFTA-domstolen, ellernorske styresmakter har innrømt brotet etter at saka er handsama i EFTAs overvakingsorgan. Dersom oppdragsgjevaren ikkje har hatt høve til å uttale seg i saka før innrømminga fann stad, og det er grunn til å rekne med at dette har hatt verknad på innrømminga, kan innrømminga ikkje gje grunnlag for lovbrotsgebyr.
+(1) Departementet kan påleggje oppdragsgjevar eit lovbrotsgebyr dersom oppdragsgjevaren bryt reglar som skal sikre openheit og ikkje-diskriminering i prosessen med å tildele konsesjonskontraktar for transporttenester etter lova her. Lovbrotsgebyret kan verte pålagt dersom eitt av følgjande vilkår er oppfylt:
+
+1. brotet er konstatert ved rettskraftig dom i ein norsk domstol,
+2. brotet er konstatert ved dom i EFTA-domstolen, eller
+3. norske styresmakter har innrømt brotet etter at saka er handsama i EFTAs overvakingsorgan. Dersom oppdragsgjevaren ikkje har hatt høve til å uttale seg i saka før innrømminga fann stad, og det er grunn til å rekne med at dette har hatt verknad på innrømminga, kan innrømminga ikkje gje grunnlag for lovbrotsgebyr.
 
 (2) Lovbrotsgebyret skal ikkje overstige 15 % av kontraktsverdien.
 

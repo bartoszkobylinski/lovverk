@@ -15,7 +15,7 @@ xml_hash: "4e71ca14a38e7512e8bae777d3b267ec0afe01b2606075c47022e39e19282371"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,42 @@ Forskriften gjelder også for utstyrsprodusenter og andre som anmoder om besikte
 
 Definisjoner.
 
-I denne forskrift betyr:*Anerkjente klasseselskaper:* Det norske Veritas (DNV), Lloyd's Register of Shipping (LR), Bureau Veritas (BV), Germanischer Lloyd (GL), American Bureau of Shipping (ABS).*Beredskapsfartøy:* Fartøy som er tillagt oppgaver i forbindelse med fare- og ulykkessituasjoner i petroleumsvirksomheten, samt vakthold rundt innretninger.*BRT/BT:* Bruttotonnasje.*Eier:* Den som er registrert i skipsregisteret som eier.*Fiske- og fangstfartøy:* Fartøy som ervervsmessig benyttes til å fange fisk, hval, sel eller andre levende ressurser i sjøen, herunder tang og tare.*Flyttbare innretninger:* Flyttbare plattformer, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbare plattformer til annet bruk enn boring etter undersjøiske petroleumsforekomster.*Forsyningsskip:* Skip som er bygget og utstyrt for å utføre forsyningstjenester, ankerhåndtering, dykking og andre lignende tjenester i forbindelse med leting etter og produksjon av hydrokarboner, mineraler o.l. på havbunnen, samt skip som skal arbeide nært opp til oljeplattformer og andre offshorekonstruksjoner på åpent hav.*Ikke sertifikatpliktig skip:* Skip som ikke er underlagt sertifikatplikt.*Innkjøpt skip:* Skip som kjøpes inn/innføres fra utlandet og som ikke er nybygg.*Kansellering:* Byggeoppdraget opphører, annen endring i kontraktsforholdet medfører at nybygget ikke lenger vil være under norsk flagg eller at frivillig norsk tilsyn skal bortfalle.*Klassifisert skip/Klasset skip:* Skip som har klasse i anerkjent klasseselskap.*Lasteskip:* Skip som ikke er passasjerskip, fiske- og fangstfartøy, lekter, eller tilhører Det norske Sjøforsvar.*Lekter:* Et skrog eller skip uten fremdriftsmaskineri som slepes eller skyves ved all forflytning, og som anvendes til føring av last.*Letter of Compliance:* Dokument utstedt av Sjøfartsdirektoratet som bekrefter at utenlandsk flyttbar innretning oppfyller alle tekniske krav fastsatt av Sjøfartsdirektoratet.*Liten kystfart:* Fart på den norske kyst, hvor skipet passerer åpne havstrekninger på over 25 nautiske mil, samt alle innenforliggende farvann, dog slik at skipet aldri befinner seg lenger utenfor kysten enn 20 nautiske mil av grunnlinjen (jf. [forskrift 14. juni 2002 nr. 625](forskrift/2002-06-14-625) om grunnlinjene for sjøterritoriet rundt Fastlands-Norge, fastsatt av Kongen). Unntatt er fart fra Norge til Svalbard og Jan Mayen.*[MARPOL:](forskrift/2012-05-30-488)* Den internasjonale konvensjon om hindring av forurensning fra skip 1973, med tilleggsprotokoll av 1978.*NOR:* Norsk ordinært skipsregister.*NRT/NT:* Nettotonnasje.*Norsk skip:* Skip, unntatt flyttbare innretninger, registrert i norsk skipsregister, eller registeret over merkepliktige norske fiskefartøy. Ikke-sertifikatpliktige skip med norsk eier, forutsatt at skipet ikke er registrert i utenlandske registre.*NIS:* Norsk Internasjonalt Skipsregister.*Nybygg:* Skip som overtas direkte av norsk eier fra byggeverksted.*Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.*Segregerte ballasttanker:* Ballasttanker som er fullstendig adskilt fra lasteolje og olje- og brenselssystemer, og som er permanent avsatt til føring av ballast.*Sertifikatpliktige skip:* Skip som i henhold til [lov 16. februar 2007 nr. 9](lov/2007-02-16-9) om skipssikkerhet (skipssikkerhetsloven) skal ha sertifikat i henhold til gjeldende forskrifter.*Undervannsfartøy:* Selvdrevet fartøy eller annen tilsvarende innretning med oppholdsrom for personer som holdes på atmosfæretrykk og som benyttes til bemannede undervannsoperasjoner mellom overflaten og maksimalt operasjonsdyp.*Utenlandsk skip:* Skip som er registrert i utenlandsk skipsregister.*Verneverdig skip:* Skip/fartøy som har fått verneverdig status etter godkjennelse av Riksantikvaren, eller den han bemyndiger.*ISM:* Internasjonal norm for sikkerhetsstyring for drift av skip og hindring av forurensning.*Skrog:* Skip som ikke er ferdig utrustet.*Fartøyinstruks:* Dokument som angir nærmere angitte fartøydata og anbefalte begrensinger for bruk av fartøyet.*SUT:* Samsvarsuttalelse(SUT) er et vedtak fattet av Havindustritilsynet om at en flyttbar innretnings tekniske tilstand, søkerens organisasjon og styringssystem er vurdert å være i samsvar med relevante krav i norsk sokkelregelverk.*Uklassifisert/uklasset skip:* Skip som ikke har klasse i anerkjent klasseinstitusjon.*Bareboatregistrert skip:* Skip som er registrert i utenlandsk skipsregister, og som samtidig er gitt tillatelse til å registreres midlertidig i norsk skipsregister.*Bareboat-utflagget skip:* Skip som er registrert i norsk skipsregister, og som samtidig er gitt tillatelse til å registreres midlertidig i utenlandsk skipsregister.
+I denne forskrift betyr:
+
+1. *Anerkjente klasseselskaper:* Det norske Veritas (DNV), Lloyd's Register of Shipping (LR), Bureau Veritas (BV), Germanischer Lloyd (GL), American Bureau of Shipping (ABS).
+2. *Beredskapsfartøy:* Fartøy som er tillagt oppgaver i forbindelse med fare- og ulykkessituasjoner i petroleumsvirksomheten, samt vakthold rundt innretninger.
+3. *BRT/BT:* Bruttotonnasje.
+4. *Eier:* Den som er registrert i skipsregisteret som eier.
+5. *Fiske- og fangstfartøy:* Fartøy som ervervsmessig benyttes til å fange fisk, hval, sel eller andre levende ressurser i sjøen, herunder tang og tare.
+6. *Flyttbare innretninger:* Flyttbare plattformer, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbare plattformer til annet bruk enn boring etter undersjøiske petroleumsforekomster.
+7. *Forsyningsskip:* Skip som er bygget og utstyrt for å utføre forsyningstjenester, ankerhåndtering, dykking og andre lignende tjenester i forbindelse med leting etter og produksjon av hydrokarboner, mineraler o.l. på havbunnen, samt skip som skal arbeide nært opp til oljeplattformer og andre offshorekonstruksjoner på åpent hav.
+8. *Ikke sertifikatpliktig skip:* Skip som ikke er underlagt sertifikatplikt.
+9. *Innkjøpt skip:* Skip som kjøpes inn/innføres fra utlandet og som ikke er nybygg.
+10. *Kansellering:* Byggeoppdraget opphører, annen endring i kontraktsforholdet medfører at nybygget ikke lenger vil være under norsk flagg eller at frivillig norsk tilsyn skal bortfalle.
+11. *Klassifisert skip/Klasset skip:* Skip som har klasse i anerkjent klasseselskap.
+12. *Lasteskip:* Skip som ikke er passasjerskip, fiske- og fangstfartøy, lekter, eller tilhører Det norske Sjøforsvar.
+13. *Lekter:* Et skrog eller skip uten fremdriftsmaskineri som slepes eller skyves ved all forflytning, og som anvendes til føring av last.
+14. *Letter of Compliance:* Dokument utstedt av Sjøfartsdirektoratet som bekrefter at utenlandsk flyttbar innretning oppfyller alle tekniske krav fastsatt av Sjøfartsdirektoratet.
+15. *Liten kystfart:* Fart på den norske kyst, hvor skipet passerer åpne havstrekninger på over 25 nautiske mil, samt alle innenforliggende farvann, dog slik at skipet aldri befinner seg lenger utenfor kysten enn 20 nautiske mil av grunnlinjen (jf. [forskrift 14. juni 2002 nr. 625](forskrift/2002-06-14-625) om grunnlinjene for sjøterritoriet rundt Fastlands-Norge, fastsatt av Kongen). Unntatt er fart fra Norge til Svalbard og Jan Mayen.
+16. *[MARPOL:](forskrift/2012-05-30-488)* Den internasjonale konvensjon om hindring av forurensning fra skip 1973, med tilleggsprotokoll av 1978.
+17. *NOR:* Norsk ordinært skipsregister.
+18. *NRT/NT:* Nettotonnasje.
+19. *Norsk skip:* Skip, unntatt flyttbare innretninger, registrert i norsk skipsregister, eller registeret over merkepliktige norske fiskefartøy. Ikke-sertifikatpliktige skip med norsk eier, forutsatt at skipet ikke er registrert i utenlandske registre.
+20. *NIS:* Norsk Internasjonalt Skipsregister.
+21. *Nybygg:* Skip som overtas direkte av norsk eier fra byggeverksted.
+22. *Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.
+23. *Segregerte ballasttanker:* Ballasttanker som er fullstendig adskilt fra lasteolje og olje- og brenselssystemer, og som er permanent avsatt til føring av ballast.
+24. *Sertifikatpliktige skip:* Skip som i henhold til [lov 16. februar 2007 nr. 9](lov/2007-02-16-9) om skipssikkerhet (skipssikkerhetsloven) skal ha sertifikat i henhold til gjeldende forskrifter.
+25. *Undervannsfartøy:* Selvdrevet fartøy eller annen tilsvarende innretning med oppholdsrom for personer som holdes på atmosfæretrykk og som benyttes til bemannede undervannsoperasjoner mellom overflaten og maksimalt operasjonsdyp.
+26. *Utenlandsk skip:* Skip som er registrert i utenlandsk skipsregister.
+27. *Verneverdig skip:* Skip/fartøy som har fått verneverdig status etter godkjennelse av Riksantikvaren, eller den han bemyndiger.
+28. *ISM:* Internasjonal norm for sikkerhetsstyring for drift av skip og hindring av forurensning.
+29. *Skrog:* Skip som ikke er ferdig utrustet.
+30. *Fartøyinstruks:* Dokument som angir nærmere angitte fartøydata og anbefalte begrensinger for bruk av fartøyet.
+31. *SUT:* Samsvarsuttalelse(SUT) er et vedtak fattet av Havindustritilsynet om at en flyttbar innretnings tekniske tilstand, søkerens organisasjon og styringssystem er vurdert å være i samsvar med relevante krav i norsk sokkelregelverk.
+32. *Uklassifisert/uklasset skip:* Skip som ikke har klasse i anerkjent klasseinstitusjon.
+33. *Bareboatregistrert skip:* Skip som er registrert i utenlandsk skipsregister, og som samtidig er gitt tillatelse til å registreres midlertidig i norsk skipsregister.
+34. *Bareboat-utflagget skip:* Skip som er registrert i norsk skipsregister, og som samtidig er gitt tillatelse til å registreres midlertidig i utenlandsk skipsregister.
 
 > Endret ved [forskrifter 14 aug 1998 nr. 929](forskrift/1998-08-14-929) (i kraft 30 okt 1998), [28 feb 2001 nr. 263](forskrift/2001-02-28-263) (tidligere § 1), [23 nov 2007 nr. 1320](forskrift/2007-11-23-1320), [25 juni 2010 nr. 1025](forskrift/2010-06-25-1025) (i kraft 1 juli 2010), [26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020), [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 
@@ -128,9 +163,16 @@ Eier må selv søke om å få redusert bruttotonnasje lagt til grunn for gebyrbe
 
 Skip som ikke er målt.
 
-Er skipet ikke målt beregnes bruttotonnasjen etter følgende formel:0,26 (L x B x D)hvor L er fartøyets lengde mellom perpendikulæreneB er fartøyets største bredde ogD er fartøyets dybde i risset
+Er skipet ikke målt beregnes bruttotonnasjen etter følgende formel:
 
-Alle mål angis i meter. Benyttes engelske fot er formelen:0,0075 (L x B x D)
+- 0,26 (L x B x D)
+- hvor L er fartøyets lengde mellom perpendikulærene
+- B er fartøyets største bredde og
+- D er fartøyets dybde i risset
+
+Alle mål angis i meter. Benyttes engelske fot er formelen:
+
+- 0,0075 (L x B x D)
 
 4\.
 
@@ -292,7 +334,13 @@ Eier av skipet pr. 1. mars er ansvarlig for betaling av årsgebyr. Bareboatregis
 
 Førstegangsgebyr er et engangsgebyr som dekker alt arbeid som Sjøfartsdirektoratet utfører i forbindelse med førstegangsutstedelse av nasjonale og internasjonale sertifikater, inklusive førstegangsmåling/kjenningsmåling og sertifikatutstedelse på nybygg samt eksisterende skip som skal ha sertifikat for første gang, blant annet innkjøpte skip.
 
-Førstegangsgebyret dekker ikke:Kostnader som påløper ved at begjærte besiktelser i utlandet ikke kan utføres, blant annet på grunn av mangelfull planlegging fra oppdragsgiver. I disse tilfeller oppkreves reiseutgifter samt nærmere angitte timebaserte tjenester, jf. [§ 6](forskrift/1996-02-02-115/§6). Gebyret oppkreves i henhold til timesatsene i [Sjøfartsdirektoratets gebyrtariff](forskrift/2009-12-21-1738).Behandling av dispensasjonssøknader i forbindelse med arbeidstid og/eller bemanning, jf. [§ 23](forskrift/1996-02-02-115/§23).Revisjon og sertifisering i henhold til Internasjonal norm for sikkerhetsstyring for drift av skip og hindring av forurensning (ISM-koden).Tilsyn og sertifisering for nye og innførte skip som skal ha fortegnelse over farlige materialer (IHM-sertifikat og IIHM-sertifikat).Inspeksjon og sertifisering av MLC.
+Førstegangsgebyret dekker ikke:
+
+- Kostnader som påløper ved at begjærte besiktelser i utlandet ikke kan utføres, blant annet på grunn av mangelfull planlegging fra oppdragsgiver. I disse tilfeller oppkreves reiseutgifter samt nærmere angitte timebaserte tjenester, jf. [§ 6](forskrift/1996-02-02-115/§6). Gebyret oppkreves i henhold til timesatsene i [Sjøfartsdirektoratets gebyrtariff](forskrift/2009-12-21-1738).
+- Behandling av dispensasjonssøknader i forbindelse med arbeidstid og/eller bemanning, jf. [§ 23](forskrift/1996-02-02-115/§23).
+- Revisjon og sertifisering i henhold til Internasjonal norm for sikkerhetsstyring for drift av skip og hindring av forurensning (ISM-koden).
+- Tilsyn og sertifisering for nye og innførte skip som skal ha fortegnelse over farlige materialer (IHM-sertifikat og IIHM-sertifikat).
+- Inspeksjon og sertifisering av MLC.
 
 2\.
 
@@ -348,7 +396,17 @@ Ikke sertifikatpliktige skip og lektere, samt skip som har seilt uten målebrev/
 
 Årsgebyr er et fast årlig gebyr som dekker alt arbeid som Sjøfartsdirektoratet/skipskontrollen utfører i forbindelse med opprettholdelse og fornyelse av nasjonale og internasjonale sertifikater mv. med unntak som gitt i annet ledd.
 
-Gebyret dekker ikke:Sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl etter Ansvarskonvensjonen 1992 (CLC-sertifikat)Sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl etter Ansvarskonvensjonen 1992 (CLC-sertifikat)Sertifikat om forsikring og annen sikkerhet for oljesølansvar for skip etter Bunkerskonvensjonen 2001 (CLB-sertifikat)Sertifikatbesiktelser som utføres utenom ordinær arbeidstid ved stasjoneneSertifikat om forsikring eller annen økonomisk sikkerhet etter Aten-konvensjonen 2002 (PLR-sertifikat)Inspeksjon og sertifisering av MLCTilsyn og sertifisering etter [forskrift 8. september 2017 nr. 1368 om ballastvannbehandling på skip og flyttbare innretninger](forskrift/2017-09-08-1368), jf. [forskrift 22. desember 2014 nr. 1893 om tilsyn og sertifikat for norske skip og flyttbare innretninger § 34b](forskrift/2014-12-22-1893/§34b) og [§ 34c](forskrift/2014-12-22-1893/§34c) (IBWC-sertifikat)Tilsyn og sertifisering etter [forskrift 6. desember 2018 nr. 1813 om gjenvinning av skip og flyttbare innretninger](forskrift/2018-12-06-1813) (IHM-sertifikat, IIHM-sertifikat, RRC-sertifikat og IRRC-sertifikat)Sertifikat om forsikring eller annen sikkerhet for ansvar etter Vrakfjerningskonvensjonen 2007 (WRC-sertifikat).
+Gebyret dekker ikke:
+
+- Sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl etter Ansvarskonvensjonen 1992 (CLC-sertifikat)
+- Sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl etter Ansvarskonvensjonen 1992 (CLC-sertifikat)
+- Sertifikat om forsikring og annen sikkerhet for oljesølansvar for skip etter Bunkerskonvensjonen 2001 (CLB-sertifikat)
+- Sertifikatbesiktelser som utføres utenom ordinær arbeidstid ved stasjonene
+- Sertifikat om forsikring eller annen økonomisk sikkerhet etter Aten-konvensjonen 2002 (PLR-sertifikat)
+- Inspeksjon og sertifisering av MLC
+- Tilsyn og sertifisering etter [forskrift 8. september 2017 nr. 1368 om ballastvannbehandling på skip og flyttbare innretninger](forskrift/2017-09-08-1368), jf. [forskrift 22. desember 2014 nr. 1893 om tilsyn og sertifikat for norske skip og flyttbare innretninger § 34b](forskrift/2014-12-22-1893/§34b) og [§ 34c](forskrift/2014-12-22-1893/§34c) (IBWC-sertifikat)
+- Tilsyn og sertifisering etter [forskrift 6. desember 2018 nr. 1813 om gjenvinning av skip og flyttbare innretninger](forskrift/2018-12-06-1813) (IHM-sertifikat, IIHM-sertifikat, RRC-sertifikat og IRRC-sertifikat)
+- Sertifikat om forsikring eller annen sikkerhet for ansvar etter Vrakfjerningskonvensjonen 2007 (WRC-sertifikat).
 
 Årsgebyret betales hvert år, uavhengig av om skipet mottar tjenester fra Sjøfartsdirektoratet eller ikke.
 
@@ -662,7 +720,13 @@ Unntatt fra bestemmelser i nr. 2, er førstegangs behandling av dispensasjonssø
 
 4\.
 
-Lasteskip med bruttotonnasje 500 eller mer som er registrert klasset i NIS og som ikke er beredskapsfartøy eller forsyningsskip, er unntatt fra bestemmelsene i dette kapittel. Dette gjelder likevel ikke for:Utstedelse av sertifikat om forsikring og annen sikkerhet for oljesølansvar for skip etter Bunkerskonvensjonen 2001, jf. [§ 24 nr. 3](forskrift/1996-02-02-115/§24/nummer/3) (CLB-sertifikat)Utstedelse av sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar etter Aten-konvensjonen 2002 eller Aten-forordningen, jf. § 24 nr. 5 (PLR-sertifikat)Tilsyn og sertifisering etter [forskrift 8. september 2017 nr. 1368 om ballastvannbehandling på skip og flyttbare innretninger](forskrift/2017-09-08-1368), jf. [forskrift 22. desember 2014 nr. 1893 om tilsyn og sertifikat for norske skip og flyttbare innretninger § 34b](forskrift/2014-12-22-1893/§34b) og [§ 34c](forskrift/2014-12-22-1893/§34c) (IBWC-sertifikat)Tilsyn og sertifisering etter [forskrift 6. desember 2018 nr. 1813 om gjenvinning av skip og flyttbare innretninger](forskrift/2018-12-06-1813) (IHM-sertifikat, IIHM-sertifikat, RRC-sertifikat og IRRC-sertifikat)Utstedelse av sertifikat om forsikring eller annen sikkerhet for ansvar etter Vrakfjerningskonvensjonen 2007 (WRC-sertifikat).
+Lasteskip med bruttotonnasje 500 eller mer som er registrert klasset i NIS og som ikke er beredskapsfartøy eller forsyningsskip, er unntatt fra bestemmelsene i dette kapittel. Dette gjelder likevel ikke for:
+
+- Utstedelse av sertifikat om forsikring og annen sikkerhet for oljesølansvar for skip etter Bunkerskonvensjonen 2001, jf. [§ 24 nr. 3](forskrift/1996-02-02-115/§24/nummer/3) (CLB-sertifikat)
+- Utstedelse av sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar etter Aten-konvensjonen 2002 eller Aten-forordningen, jf. § 24 nr. 5 (PLR-sertifikat)
+- Tilsyn og sertifisering etter [forskrift 8. september 2017 nr. 1368 om ballastvannbehandling på skip og flyttbare innretninger](forskrift/2017-09-08-1368), jf. [forskrift 22. desember 2014 nr. 1893 om tilsyn og sertifikat for norske skip og flyttbare innretninger § 34b](forskrift/2014-12-22-1893/§34b) og [§ 34c](forskrift/2014-12-22-1893/§34c) (IBWC-sertifikat)
+- Tilsyn og sertifisering etter [forskrift 6. desember 2018 nr. 1813 om gjenvinning av skip og flyttbare innretninger](forskrift/2018-12-06-1813) (IHM-sertifikat, IIHM-sertifikat, RRC-sertifikat og IRRC-sertifikat)
+- Utstedelse av sertifikat om forsikring eller annen sikkerhet for ansvar etter Vrakfjerningskonvensjonen 2007 (WRC-sertifikat).
 
 5\.
 
@@ -708,7 +772,16 @@ For behandling av søknader om dispensasjon fra lov om arbeidstiden på skip og/
 
 ### § 24. Sertifikater og tillatelser som ikke dekkes av førstegangsgebyr og årsgebyr
 
-Særskilte gebyr i samsvar med [forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet](forskrift/2009-12-21-1738) skal betales for:Utstedelse av sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl (CLC-sertifikat).Timebasert arbeid i forbindelse med lasteromstegninger.Utstedelse av sertifikat om forsikring og annen sikkerhet for oljesølansvar for skip etter Bunkerskonvensjonen 2001.Timebasert arbeid i forbindelse med utstedelse av sertifikat for oljevernberedskap mv.Utstedelse av sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar etter Aten- konvensjonen 2002 og Aten-forordningen.Timebasert arbeid i forbindelse med den foreløpige vurderingen av ny teknologi og design.Timebasert arbeid i forbindelse med tilsyn og sertifisering av skip etter [forskrift 6. desember 2018 nr. 1813 om gjenvinning av skip og flyttbare innretninger](forskrift/2018-12-06-1813) (IHM-sertifikat, IIHM-sertifikat, RRC-sertifikat og IRRC-sertifikat).Utstedelse av sertifikat om forsikring eller annen sikkerhet for ansvar etter Vrakfjerningskonvensjonen 2007 (WRC-sertifikat).
+Særskilte gebyr i samsvar med [forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet](forskrift/2009-12-21-1738) skal betales for:
+
+1. Utstedelse av sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl (CLC-sertifikat).
+2. Timebasert arbeid i forbindelse med lasteromstegninger.
+3. Utstedelse av sertifikat om forsikring og annen sikkerhet for oljesølansvar for skip etter Bunkerskonvensjonen 2001.
+4. Timebasert arbeid i forbindelse med utstedelse av sertifikat for oljevernberedskap mv.
+5. Utstedelse av sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar etter Aten- konvensjonen 2002 og Aten-forordningen.
+6. Timebasert arbeid i forbindelse med den foreløpige vurderingen av ny teknologi og design.
+7. Timebasert arbeid i forbindelse med tilsyn og sertifisering av skip etter [forskrift 6. desember 2018 nr. 1813 om gjenvinning av skip og flyttbare innretninger](forskrift/2018-12-06-1813) (IHM-sertifikat, IIHM-sertifikat, RRC-sertifikat og IRRC-sertifikat).
+8. Utstedelse av sertifikat om forsikring eller annen sikkerhet for ansvar etter Vrakfjerningskonvensjonen 2007 (WRC-sertifikat).
 
 > Endret ved [forskrifter 28 feb 2001 nr. 263](forskrift/2001-02-28-263), [7 mai 2002 nr. 673](forskrift/2002-05-07-673) (i kraft 27 mai 2002), [27 aug 2008 nr. 957](forskrift/2008-08-27-957), [25 sep 2008 nr. 1041](forskrift/2008-09-25-1041), [11 feb 2011 nr. 139](forskrift/2011-02-11-139), [20 des 2013 nr. 1712](forskrift/2013-12-20-1712) (i kraft 1 jan 2014), [20 des 2016 nr. 1754](forskrift/2016-12-20-1754) (i kraft 1 jan 2017), [18 des 2017 nr. 2195](forskrift/2017-12-18-2195) (i kraft 1 jan 2018), [20 des 2018 nr. 2200](forskrift/2018-12-20-2200) (i kraft 1 jan 2019), [15 jan 2025 nr. 35](forskrift/2025-01-15-35) (i kraft 11 feb 2025), [3 juli 2025 nr. 1438](forskrift/2025-07-03-1438).
 
@@ -984,7 +1057,10 @@ Førstegangsgebyr er et engangsgebyr som dekker utgiftene ved gjennomgåelse av 
 
 Hvis det i byggeperioden blir nødvendig å utføre ekstrakontroll på grunn av dårlig planlegging, eller kontrollen blir forsinket grunnet forhold som ikke skyldes Sjøfartsdirektoratets inspektører, kan Sjøfartsdirektoratet beregne tilleggsgebyr etter medgått tid i henhold til de timesatser som er fastsatt i [forskrift 8. januar 2013 nr. 16 om adgang til å kreve gebyr og sektoravgift for tilsyn og annen oppfølging med arbeidsmiljø og sikkerhet i petroleumsvirksomheten](forskrift/2013-01-08-16).
 
-Førstegangsgebyret dekker ikke:Tjenester som omfattes av SUT.Tilsyn og sertifisering for nye og innførte flyttbare innretninger og undervannsfartøy som skal ha fortegnelse over farlige materialer (IHM-sertifikat og IIHM-sertifikat).
+Førstegangsgebyret dekker ikke:
+
+- Tjenester som omfattes av SUT.
+- Tilsyn og sertifisering for nye og innførte flyttbare innretninger og undervannsfartøy som skal ha fortegnelse over farlige materialer (IHM-sertifikat og IIHM-sertifikat).
 
 3\.
 

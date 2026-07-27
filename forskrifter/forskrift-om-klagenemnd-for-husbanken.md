@@ -26,7 +26,10 @@ eu_basis: []
 
 Klagenemnda er klageinstans for enkeltvedtak Husbanken gjer om lån, tilskot og bustøtte.
 
-Klagenemnda skal avgjere klage på enkeltvedtak omtildeling, utmåling, avvisning og avslag på lån, tilskot og bustøttekrav på tilbakebetaling av bustøtte, jf lov om bustøtte § 11.
+Klagenemnda skal avgjere klage på enkeltvedtak om
+
+1. tildeling, utmåling, avvisning og avslag på lån, tilskot og bustøtte
+2. krav på tilbakebetaling av bustøtte, jf lov om bustøtte § 11.
 
 Departementet kan ikkje instruere klagenemnda om verken tolking av regelverket, utøving av skjønn, avgjerd av enkeltsaker eller sakshandsaminga.
 

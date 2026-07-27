@@ -15,7 +15,7 @@ xml_hash: "3de923217d90ee3044552b80ab9de8d9c3a0c866a381c344f188813241271a5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,12 @@ Prosjektene skal utvikle og prøve ut løsninger på boligpolitiske utfordringer
 
 ## § 5. Hva det ikke gis tilskudd til boligtiltak til
 
-Det gis ikke tilskudd til boligtiltak somsannsynligvis kan bli gjennomført uten tilskuddi sin helhet kan forventes å kunne finansieres med andre midlerer gjennomførter pålagt kommunene gjennom lov.
+Det gis ikke tilskudd til boligtiltak som
+
+1. sannsynligvis kan bli gjennomført uten tilskudd
+2. i sin helhet kan forventes å kunne finansieres med andre midler
+3. er gjennomført
+4. er pålagt kommunene gjennom lov.
 
 ## § 6. Tilskudd til leieboerorganisasjoner
 
@@ -64,15 +69,31 @@ Leieboerorganisasjoner som får tilskudd til drift, skal levere en rapport og et
 
 En søknad om tilskudd sendes Husbanken senest 15. mai. Søknader som kommer inn etter søknadsfristen, vil bli avvist.
 
-En søknad om tilskudd til boligtiltak og tilskudd til leieboerorganisasjoner til tiltak for å bedre bosituasjonen for den nasjonale minoriteten romer skalangi søkerens navn, adresse, e-postadresse, organisasjonsnummer og hvem som er kontaktpersonangi hva tilskuddet skal brukes tilinneholde en prosjektbeskrivelse, en aktivitetsplan som beskriver hva som skal gjennomføres og når, og opplyse om eventuelle samarbeidspartnereangi tilskuddsbeløpet det søkes ominneholde en finansieringsplaninneholde en formidlingsplan.
+En søknad om tilskudd til boligtiltak og tilskudd til leieboerorganisasjoner til tiltak for å bedre bosituasjonen for den nasjonale minoriteten romer skal
 
-En søknad om driftstilskudd til en leieboerorganisasjon skalangi søkerens navn, adresse, e-postadresse, organisasjonsnummer og hvem som er kontaktpersonangi antall medlemmer på søknadstidspunktetinneholde en beskrivelse av hvordan søker ivaretar leietakernes interesser på boligmarkedet.
+1. angi søkerens navn, adresse, e-postadresse, organisasjonsnummer og hvem som er kontaktperson
+2. angi hva tilskuddet skal brukes til
+3. inneholde en prosjektbeskrivelse, en aktivitetsplan som beskriver hva som skal gjennomføres og når, og opplyse om eventuelle samarbeidspartnere
+4. angi tilskuddsbeløpet det søkes om
+5. inneholde en finansieringsplan
+6. inneholde en formidlingsplan.
+
+En søknad om driftstilskudd til en leieboerorganisasjon skal
+
+1. angi søkerens navn, adresse, e-postadresse, organisasjonsnummer og hvem som er kontaktperson
+2. angi antall medlemmer på søknadstidspunktet
+3. inneholde en beskrivelse av hvordan søker ivaretar leietakernes interesser på boligmarkedet.
 
 Husbanken kan be om andre opplysninger og dokumentasjon som er nødvendig for å avgjøre søknaden.
 
 ## § 9. Hvordan søknadene blir vurdert
 
-Husbanken avgjør søknadene om tilskudd til boligtiltak etter en skjønnsmessig vurdering der det legges vekt påprosjektets faglige relevanshvor gjennomførbart prosjektet er, blant annet basert på søkers kompetanse og økonomiforankringen av prosjektet, involveringen av relevante aktører eller erfaringer med den aktuelle målgruppenplanen for å formidle resultatene av prosjektet.
+Husbanken avgjør søknadene om tilskudd til boligtiltak etter en skjønnsmessig vurdering der det legges vekt på
+
+1. prosjektets faglige relevans
+2. hvor gjennomførbart prosjektet er, blant annet basert på søkers kompetanse og økonomi
+3. forankringen av prosjektet, involveringen av relevante aktører eller erfaringer med den aktuelle målgruppen
+4. planen for å formidle resultatene av prosjektet.
 
 I vurderingen av kommuners søknader om tilskudd til boligtiltak legges det særlig vekt på om tiltaket er nyskapende og at ulike tiltak kan ha overføringsverdi til kommuner av ulik størrelse og sentralitet.
 
@@ -80,7 +101,10 @@ Prosjekter som gjennomføres i samarbeid mellom flere aktører, for eksempel kom
 
 For tilskudd for å bedre bosituasjonen for den nasjonale minoriteten romer gjelder a–c over.
 
-I Husbankens vurdering av søknader til drift av leieboerorganisasjoner legges det vekt påantall medlemmer på søknadstidspunktethvordan organisasjonen ivaretar leietakeres interesser og sprer kunnskap om leiemarkedet.
+I Husbankens vurdering av søknader til drift av leieboerorganisasjoner legges det vekt på
+
+1. antall medlemmer på søknadstidspunktet
+2. hvordan organisasjonen ivaretar leietakeres interesser og sprer kunnskap om leiemarkedet.
 
 ## § 10. Prioritering mellom tilskuddene
 
@@ -100,7 +124,11 @@ Husbanken lyser ut tilskuddsmidlene på husbanken.no med søknadsfrist 15. mai.
 
 ## § 13. Kontroll med vilkår – rett til opplysninger
 
-Husbanken kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom åkreve de opplysningene og den dokumentasjonen som er nødvendig for kontrolleninnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenebesiktige tiltaket. Tilskuddsmottakeren skal medvirke til besiktigelsen dersom det er nødvendig for kontrollen.
+Husbanken kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom å
+
+1. kreve de opplysningene og den dokumentasjonen som er nødvendig for kontrollen
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. besiktige tiltaket. Tilskuddsmottakeren skal medvirke til besiktigelsen dersom det er nødvendig for kontrollen.
 
 Kontrollen kan enten skje underveis i arbeidet med tiltaket eller etter ferdigstillelse.
 
@@ -110,7 +138,13 @@ Tilskuddet avskrives ved utbetaling.
 
 ## § 15. Tilbakebetalingsplikt
 
-Husbanken kan stanse utbetalingen eller kreve at mottaker helt eller delvis tilbakebetaler tilskuddet dersomtilskuddet ikke er brukt i samsvar med forskriften og vilkårene i tilskuddsvedtakettildelingen bygger på uriktige opplysninger fra søkertilskuddsmottakeren ikke har levert rapporten eller regnskapet innen fristen i tilskuddsvedtaketrapporten eller regnskapet ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsvedtaket er oppfyltikke hele tilskuddsbeløpet er benyttet.
+Husbanken kan stanse utbetalingen eller kreve at mottaker helt eller delvis tilbakebetaler tilskuddet dersom
+
+1. tilskuddet ikke er brukt i samsvar med forskriften og vilkårene i tilskuddsvedtaket
+2. tildelingen bygger på uriktige opplysninger fra søker
+3. tilskuddsmottakeren ikke har levert rapporten eller regnskapet innen fristen i tilskuddsvedtaket
+4. rapporten eller regnskapet ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsvedtaket er oppfylt
+5. ikke hele tilskuddsbeløpet er benyttet.
 
 ## § 16. Ikrafttredelse
 

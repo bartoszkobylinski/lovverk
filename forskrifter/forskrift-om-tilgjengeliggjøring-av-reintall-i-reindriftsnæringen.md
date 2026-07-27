@@ -34,7 +34,10 @@ Med reindriftsutøver menes i denne forskriften en person som har rein i siidaan
 
 En reindriftsutøver har rett til innsyn i siidaandelers reintall i det reinbeitedistriktet vedkommende tilhører.
 
-Retten til innsyn omfatter følgende:siidaandelens samlede reintall i godkjent melding om reindriftsiidaandelens samlede reintall i henhold til telleresultat fra offentlig kontrollert telling.
+Retten til innsyn omfatter følgende:
+
+1. siidaandelens samlede reintall i godkjent melding om reindrift
+2. siidaandelens samlede reintall i henhold til telleresultat fra offentlig kontrollert telling.
 
 ## § 4. Krav om innsyn og Statsforvalterens behandling
 

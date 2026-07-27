@@ -15,7 +15,7 @@ xml_hash: "90bd26f15473d5772011d2a1380978040790e84f25b06fda523b8456a905fcf3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,12 @@ Ph.d.-utdanningen skal kvalifisere for forskningsvirksomhet av høy internasjona
 
 Ph.d.-utdanningen er normert til tre (3) års fulltidsstudier og inkluderer en opplæringsdel av minimum 30 studiepoengs omfang. Ph.d.-utdanningens viktigste komponent er et selvstendig forskningsarbeid som gjennomføres under aktiv veiledning.
 
-Ph.d.-graden tildeles på grunnlag av:Godkjent vitenskapelig avhandlingGodkjent gjennomføring av opplæringsdelenGodkjent prøveforelesning over oppgitt emneGodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av:
+
+- Godkjent vitenskapelig avhandling
+- Godkjent gjennomføring av opplæringsdelen
+- Godkjent prøveforelesning over oppgitt emne
+- Godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 3. Ansvar for ph.d.-utdanningen
 
@@ -82,7 +87,10 @@ Godkjenning av opplæringsdelen innenfor studiet skjer i henhold til retningslin
 
 I vedtaket skal minst én veileder oppnevnes, avtaleperioden fastsettes med start- og sluttdato, og plan for studiet fastsettes. Startdato settes lik startdato for finansiering. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker og avklares spesielt i forhold til kandidatens finansieringsgrunnlag.
 
-Opptaket kan nektes dersom:avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingende immaterialrettslige avtaler som er inngått er så urimelige at høgskolen ikke bør medvirke i prosjektet.
+Opptaket kan nektes dersom:
+
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+- de immaterialrettslige avtaler som er inngått er så urimelige at høgskolen ikke bør medvirke i prosjektet.
 
 ### § 5-5. Avtaleperiode
 
@@ -102,7 +110,11 @@ Ved frivillig avslutning som skyldes kandidatens ønsker om å endre tema eller 
 
 ### § 5-7. Tvungen avslutning ved forsinkelse eller manglende fremdrift
 
-Avdelingen kan vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid. Slik tvungen avslutning kan besluttes hvis en eller flere av følgende forhold foreligger:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.Gjentatte og vesentlige brudd fra kandidatens side av informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsending av fremdriftsrapport jf. [§ 9](forskrift/2026-01-28-149/§9).Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må den vesentlige forsinkelsen skyldes forhold som kandidaten selv rår over.
+Avdelingen kan vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid. Slik tvungen avslutning kan besluttes hvis en eller flere av følgende forhold foreligger:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.
+- Gjentatte og vesentlige brudd fra kandidatens side av informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsending av fremdriftsrapport jf. [§ 9](forskrift/2026-01-28-149/§9).
+- Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må den vesentlige forsinkelsen skyldes forhold som kandidaten selv rår over.
 
 Klage over vedtak om tvungen avslutning ved forsinkelser eller manglende fremdrift behandles av høgskolens nemnd for studentsaker.
 
@@ -238,7 +250,12 @@ For ph.d.-kandidater uten arbeidsgiver, skal tilsvarende meldeplikt nedfelles i 
 
 ### § 12-1. Grunnlag for bedømmelse
 
-Ph.d.-graden tildeles på grunnlag av:godkjent og offentliggjort vitenskapelig avhandlinggodkjent gjennomføring av opplæringsdelengodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av:
+
+- godkjent og offentliggjort vitenskapelig avhandling
+- godkjent gjennomføring av opplæringsdelen
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 12-2. Tidsbruk fra innlevering til disputas
 
@@ -250,7 +267,14 @@ Det skal normalt ikke gå mer enn fem (5) måneder fra innlevering av avhandling
 
 Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent.
 
-Som vedlegg til søknaden skal følge:Avhandlingen i godkjent format og i henhold til den form høgskolen har bestemt.Dokumentasjon for at opplæringsdelen er fullført.Dokumentasjon av nødvendige tillatelser, jf. [§ 5-2](forskrift/2026-01-28-149/§5-2).Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 10-1](forskrift/2026-01-28-149/§10-1).Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
+Som vedlegg til søknaden skal følge:
+
+- Avhandlingen i godkjent format og i henhold til den form høgskolen har bestemt.
+- Dokumentasjon for at opplæringsdelen er fullført.
+- Dokumentasjon av nødvendige tillatelser, jf. [§ 5-2](forskrift/2026-01-28-149/§5-2).
+- Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 10-1](forskrift/2026-01-28-149/§10-1).
+- Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
 
 Avhandlingen skal være offentlig tilgjengelig senest to uker før disputas, jf. [§ 18-2](forskrift/2026-01-28-149/§18-2).
 
@@ -266,7 +290,12 @@ Oppnevning av bedømmelseskomité skjer i henhold til utfyllende retningslinjer 
 
 Når betingelsene for oppnevning av bedømmelseskomité for det enkelte ph.d.-program er oppfylt, oppnevner doktorgradsutvalget, etter forslag fra hovedveileder, en sakkyndig komité på minst tre medlemmer som skal bedømme avhandlingen, disputasen og prøveforelesningen.
 
-Komitéens sammensetning bør være klarlagt ved innleveringstidspunkt. Bedømmelseskomitéen skal normalt settes sammen slik at:begge kjønn er representertminst to av medlemmene er uten tilknytning til høgskolenminst ett av medlemmene har hovedstilling ved en utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Komitéens sammensetning bør være klarlagt ved innleveringstidspunkt. Bedømmelseskomitéen skal normalt settes sammen slik at:
+
+- begge kjønn er representert
+- minst to av medlemmene er uten tilknytning til høgskolen
+- minst ett av medlemmene har hovedstilling ved en utenlandsk institusjon
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Habilitetsreglene i [forvaltningslovens § 6](lov/1967-02-10/§6), jf. [§ 10](lov/1967-02-10/§10), gjelder for komitéens medlemmer.
 
@@ -352,7 +381,10 @@ Ved publisering av avhandlingen skal kandidater følge gjeldende retningslinjer 
 
 ### § 19. Doktorgradsprøve
 
-Dersom arbeidet finnes verdig til forsvar, avsluttes doktorgradsutdanningen medoffentlig prøveforelesning over oppgitt emne ogen disputas.
+Dersom arbeidet finnes verdig til forsvar, avsluttes doktorgradsutdanningen med
+
+1. offentlig prøveforelesning over oppgitt emne og
+2. en disputas.
 
 ### § 19-1. Prøveforelesning
 

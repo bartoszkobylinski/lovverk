@@ -30,7 +30,13 @@ Forskriftens formål er å verne miljøet i Antarktis og dets avhengige og tilkn
 
 ### § 2. Virkeområde
 
-Forskriften gjelder for hele Antarktis for;norske statsborgerenorske juridiske personernorske skip og luftfartøyutlendinger bosatt i Norgeutlendinger som deltar i eller er ansvarlig for aktivitet i Antarktis som er organisert i Norge eller som utgår fra Norge direkte til Antarktis.
+Forskriften gjelder for hele Antarktis for;
+
+1. norske statsborgere
+2. norske juridiske personer
+3. norske skip og luftfartøy
+4. utlendinger bosatt i Norge
+5. utlendinger som deltar i eller er ansvarlig for aktivitet i Antarktis som er organisert i Norge eller som utgår fra Norge direkte til Antarktis.
 
 Forskriften gjelder dessuten i Dronning Maud Land og på Peter I's øy for enhver som oppholder seg der eller er ansvarlig for aktivitet der, jf. [§ 9](forskrift/2013-04-26-412/§9).
 
@@ -40,17 +46,37 @@ Forskriften gjelder ikke for fiskeriaktivitet eller for fartøy i seilas på det
 
 ### § 3. Definisjoner
 
-I denne forskrift forstås med*Antarktis:* området syd for 60° sydlig bredde.*aktivitet:* enhver form for virksomhet som finner sted i Antarktis, herunder turisme og forskning, med unntak av fiskeriaktivitet eller fartøy i seilas på det åpne hav jf. [§ 2](forskrift/2013-04-26-412/§2).*ansvarlig for aktiviteten, aktivitetsansvarlig e.l.:* enhver statlig eller ikke-statlig juridisk eller fysisk person som organiserer aktivitet som skal gjennomføres i Antarktis. Som aktivitetsansvarlig regnes ikke fysiske personer som er ansatt, er leverandør eller underleverandør, agent eller som på annen måte yter tjenester for en fysisk eller juridisk person, som er statlig eller ikke-statlig, og som organiserer aktivitet som skal gjennomføres i Antarktis. Som aktivitetsansvarlig regnes heller ikke juridiske personer som er leverandør eller underleverandør av aktivitet som organiseres på vegne av en statlig aktivitetsansvarlig.*nødssituasjon:* situasjon med akutt fare for en persons liv eller helse eller for betydelig materiell skade.*akutt forurensning:* enhver hendelse som har hatt som resultat eller som innebærer en overhengende fare for betydelig og skadelig innvirkning på miljøet i Antarktis.*mottiltak:* rimelige tiltak som treffes etter at det er oppstått akutt forurensning og som har som mål å hindre, redusere eller begrense virkningen av den akutte forurensningen. Mottiltak omfatter fastsetting av omfanget og virkningen av den akutte forurensningen og kan omfatte opprydning.*skip:* et fartøy av en hvilken som helst art som opererer i et marint miljø.*SDR:* spesielle trekkrettigheter, verdienhet fastsatt av Det internasjonale valutafond.
+I denne forskrift forstås med
+
+1. *Antarktis:* området syd for 60° sydlig bredde.
+2. *aktivitet:* enhver form for virksomhet som finner sted i Antarktis, herunder turisme og forskning, med unntak av fiskeriaktivitet eller fartøy i seilas på det åpne hav jf. [§ 2](forskrift/2013-04-26-412/§2).
+3. *ansvarlig for aktiviteten, aktivitetsansvarlig e.l.:* enhver statlig eller ikke-statlig juridisk eller fysisk person som organiserer aktivitet som skal gjennomføres i Antarktis. Som aktivitetsansvarlig regnes ikke fysiske personer som er ansatt, er leverandør eller underleverandør, agent eller som på annen måte yter tjenester for en fysisk eller juridisk person, som er statlig eller ikke-statlig, og som organiserer aktivitet som skal gjennomføres i Antarktis. Som aktivitetsansvarlig regnes heller ikke juridiske personer som er leverandør eller underleverandør av aktivitet som organiseres på vegne av en statlig aktivitetsansvarlig.
+4. *nødssituasjon:* situasjon med akutt fare for en persons liv eller helse eller for betydelig materiell skade.
+5. *akutt forurensning:* enhver hendelse som har hatt som resultat eller som innebærer en overhengende fare for betydelig og skadelig innvirkning på miljøet i Antarktis.
+6. *mottiltak:* rimelige tiltak som treffes etter at det er oppstått akutt forurensning og som har som mål å hindre, redusere eller begrense virkningen av den akutte forurensningen. Mottiltak omfatter fastsetting av omfanget og virkningen av den akutte forurensningen og kan omfatte opprydning.
+7. *skip:* et fartøy av en hvilken som helst art som opererer i et marint miljø.
+8. *SDR:* spesielle trekkrettigheter, verdienhet fastsatt av Det internasjonale valutafond.
 
 ### § 4. Forholdet til andre staters myndighetsutøvelse
 
-Strafferettslig forfølgning for brudd på denne forskrift kan bare finne sted etter samtykke fra Utenriksdepartementet i tilfeller hvor;handlingen er begått av en person som ikke er norsk statsborger eller bosatt i Norge, ellerhandlingen er begått utenfor Dronning Maud Land eller Peter I's øy.
+Strafferettslig forfølgning for brudd på denne forskrift kan bare finne sted etter samtykke fra Utenriksdepartementet i tilfeller hvor;
+
+1. handlingen er begått av en person som ikke er norsk statsborger eller bosatt i Norge, eller
+2. handlingen er begått utenfor Dronning Maud Land eller Peter I's øy.
 
 ## Kapittel 2. Alminnelige bestemmelser
 
 ### § 5. Generelt om aktivitet i Antarktis
 
-Aktiviteter i Antarktis skal planlegges og gjennomføres slik at virkninger på miljøet i Antarktis og avhengige og tilknyttede økosystemer blir minst mulig, og områdets verdi for forskning bevares. Det skal herunder unngås at aktiviteter medfører:virkning på klima eller værmønster,virkning på luft- eller vannkvalitet,endringer i det atmosfæriske, terrestriske, glasiale, limnistiske eller marine miljø,endringer i utbredelse, forekomst eller produktivitet til arter eller bestander av dyr og planter,risiko for sårbare eller truede arter eller bestander av slike arter, ellerrisiko for skader på områder av biologisk, vitenskapelig, historisk eller estetisk betydning, eller av betydning for villmarkskarakteren,skade eller annen forringelse av historiske steder og kulturminner.
+Aktiviteter i Antarktis skal planlegges og gjennomføres slik at virkninger på miljøet i Antarktis og avhengige og tilknyttede økosystemer blir minst mulig, og områdets verdi for forskning bevares. Det skal herunder unngås at aktiviteter medfører:
+
+1. virkning på klima eller værmønster,
+2. virkning på luft- eller vannkvalitet,
+3. endringer i det atmosfæriske, terrestriske, glasiale, limnistiske eller marine miljø,
+4. endringer i utbredelse, forekomst eller produktivitet til arter eller bestander av dyr og planter,
+5. risiko for sårbare eller truede arter eller bestander av slike arter, eller
+6. risiko for skader på områder av biologisk, vitenskapelig, historisk eller estetisk betydning, eller av betydning for villmarkskarakteren,
+7. skade eller annen forringelse av historiske steder og kulturminner.
 
 Aktiviteter i Antarktis skal videre planlegges og gjennomføres på en sikker og selvforsynt måte. Mulig risiko for skade på liv og helse ved aktiviteten skal identifiseres og i så stor grad som mulig reduseres.
 
@@ -88,7 +114,12 @@ Dersom Norsk Polarinstitutt ikke fatter vedtak på bakgrunn av meldingen senest 
 
 Den ansvarlige for aktiviteten skal treffe forebyggende tiltak for å redusere risikoen for akutt forurensning og potensiell miljøskade forårsaket av slik akutt forurensning dersom den skulle oppstå.
 
-Før aktiviteten igangsettes skal den ansvarlige ha nødvendig utstyr og kompetanse samt beredskapsplaner som er nødvendige for å kunne håndtere akutt forurensning i Antarktis. Beredskapsplanene skal bl.a. inneholde:rutiner for varsling av akutt forurensningrutiner for å vurdere omfanget av akutt forurensning og planer for mottiltakoversikt over tilgjengelige ressurser og hvordan disse kan mobiliseresrutiner for dokumentasjon og opplæring.
+Før aktiviteten igangsettes skal den ansvarlige ha nødvendig utstyr og kompetanse samt beredskapsplaner som er nødvendige for å kunne håndtere akutt forurensning i Antarktis. Beredskapsplanene skal bl.a. inneholde:
+
+1. rutiner for varsling av akutt forurensning
+2. rutiner for å vurdere omfanget av akutt forurensning og planer for mottiltak
+3. oversikt over tilgjengelige ressurser og hvordan disse kan mobiliseres
+4. rutiner for dokumentasjon og opplæring.
 
 Beredskapsplanene skal fremlegges samtidig med melding etter [§ 9](forskrift/2013-04-26-412/§9).
 
@@ -122,7 +153,10 @@ Dersom igangsatt aktivitet viser seg å medføre uforutsette virkninger på milj
 
 ### § 14. Overvåkning og tiltak ved uforutsette virkninger
 
-Den ansvarlige for aktivitet som er underlagt krav om fullstendig konsekvensvurdering i henhold til [§ 17](forskrift/2013-04-26-412/§17) plikter å gjennomføre regelmessig og effektiv overvåkning av miljøet for å:vurdere virkninger av pågående aktivitet, herunder verifisering av forutsette virkninger, oglegge forholdene til rette for tidlig oppdagelse av mulige uforutsette virkninger.
+Den ansvarlige for aktivitet som er underlagt krav om fullstendig konsekvensvurdering i henhold til [§ 17](forskrift/2013-04-26-412/§17) plikter å gjennomføre regelmessig og effektiv overvåkning av miljøet for å:
+
+1. vurdere virkninger av pågående aktivitet, herunder verifisering av forutsette virkninger, og
+2. legge forholdene til rette for tidlig oppdagelse av mulige uforutsette virkninger.
 
 Dersom det under enhver aktivitet avdekkes uforutsette virkninger for miljøet plikter den ansvarlige for aktiviteten uten opphold å varsle Norsk Polarinstitutt, og foreta endringer i aktivitetene som er nødvendig for å motvirke skadene.
 
@@ -136,13 +170,29 @@ Den ansvarlige for aktiviteten plikter å utarbeide rapporter om aktivitet og br
 
 Enhver som ønsker å starte opp planlagt aktivitet i Antarktis skal utarbeide en foreløpig konsekvensvurdering, med mindre en fullstendig konsekvensvurdering blir igangsatt etter [§ 17](forskrift/2013-04-26-412/§17).
 
-En foreløpig konsekvensvurdering skal inneholde;en beskrivelse av den omsøkte aktiviteten, herunder hvor aktiviteten skal foregå, aktivitetens formål, varighet, intensitet, bruk av transportmidler, oppryddingsplaner og eventuelle virkninger på miljøet, samten vurdering av alternativer til den omsøkte aktiviteten og eventuelle virkninger slik aktivitet kan ha, herunder vurdering av den samlede virkning på bakgrunn av eksisterende og kjente planlagte aktiviteter.
+En foreløpig konsekvensvurdering skal inneholde;
+
+1. en beskrivelse av den omsøkte aktiviteten, herunder hvor aktiviteten skal foregå, aktivitetens formål, varighet, intensitet, bruk av transportmidler, oppryddingsplaner og eventuelle virkninger på miljøet, samt
+2. en vurdering av alternativer til den omsøkte aktiviteten og eventuelle virkninger slik aktivitet kan ha, herunder vurdering av den samlede virkning på bakgrunn av eksisterende og kjente planlagte aktiviteter.
 
 ### § 17. Fullstendig konsekvensvurdering
 
 Dersom en foreløpig konsekvensvurdering viser, eller dersom Norsk Polarinstitutt fastslår at en meldt aktivitet sannsynligvis vil ha mer enn en ubetydelig eller kortvarig virkning på miljøet, skal den ansvarlige for aktiviteten utarbeide en fullstendig konsekvensvurdering. Konsekvensvurderingen skal ha en form som gjør den egnet for offentlig behandling.
 
-En fullstendig konsekvensvurdering skal inneholde:en beskrivelse av den meldte aktiviteten, herunder aktivitetens formål, plassering, varighet og intensitet, og eventuelle alternativer til aktiviteten, herunder alternativet å avbryte arbeidet, og konsekvenser av slike alternativer,en beskrivelse av miljøets referansetilstand i utgangspunktet som de forutsette endringene skal sammenlignes med, og en prognose over miljøets fremtidige referansetilstand dersom den meldte aktiviteten ikke gjennomføres,en beskrivelse av de metoder og data som er benyttet for å forutsi virkningene av den meldte aktiviteten,anslag av art, grad, varighet og intensitet av de sannsynlige direkte virkninger av den meldte aktiviteten,vurdering av mulige indirekte eller sekundære virkninger av den meldte aktiviteten,vurdering av den samlede virkning på miljøet, herunder virkningen på de enkelte arter og økosystemet på kort og lang sikt, av den meldte aktiviteten på bakgrunn av eksisterende aktiviteter og andre kjente planlagte aktiviteter,beskrivelse av tiltak, herunder overvåkingsprogrammer, som kan treffes for å begrense eller dempe effektene av den meldte aktiviteten og oppdage uforutsette virkninger, og som kunne sørge for tidlig varsling av eventuelle skadevirkninger av aktiviteten i tillegg til å håndtere ulykker på en rask og effektiv måte,beskrivelse av uunngåelig virkning av den meldte aktiviteten,vurdering av virkningen av den meldte aktiviteten for gjennomføringen av vitenskapelig forskning og andre eksisterende bruksområder og verdier,en beskrivelse av kunnskapshull og usikkerhet knyttet til innsamling av den informasjon som er påkrevd i henhold til denne paragraf,et populært beskrivende sammendrag av den informasjon som er gitt i henhold til denne paragraf, ognavn og adresse til den person eller organisasjon som har utført den fullstendige vurdering av miljøkonsekvensene.
+En fullstendig konsekvensvurdering skal inneholde:
+
+1. en beskrivelse av den meldte aktiviteten, herunder aktivitetens formål, plassering, varighet og intensitet, og eventuelle alternativer til aktiviteten, herunder alternativet å avbryte arbeidet, og konsekvenser av slike alternativer,
+2. en beskrivelse av miljøets referansetilstand i utgangspunktet som de forutsette endringene skal sammenlignes med, og en prognose over miljøets fremtidige referansetilstand dersom den meldte aktiviteten ikke gjennomføres,
+3. en beskrivelse av de metoder og data som er benyttet for å forutsi virkningene av den meldte aktiviteten,
+4. anslag av art, grad, varighet og intensitet av de sannsynlige direkte virkninger av den meldte aktiviteten,
+5. vurdering av mulige indirekte eller sekundære virkninger av den meldte aktiviteten,
+6. vurdering av den samlede virkning på miljøet, herunder virkningen på de enkelte arter og økosystemet på kort og lang sikt, av den meldte aktiviteten på bakgrunn av eksisterende aktiviteter og andre kjente planlagte aktiviteter,
+7. beskrivelse av tiltak, herunder overvåkingsprogrammer, som kan treffes for å begrense eller dempe effektene av den meldte aktiviteten og oppdage uforutsette virkninger, og som kunne sørge for tidlig varsling av eventuelle skadevirkninger av aktiviteten i tillegg til å håndtere ulykker på en rask og effektiv måte,
+8. beskrivelse av uunngåelig virkning av den meldte aktiviteten,
+9. vurdering av virkningen av den meldte aktiviteten for gjennomføringen av vitenskapelig forskning og andre eksisterende bruksområder og verdier,
+10. en beskrivelse av kunnskapshull og usikkerhet knyttet til innsamling av den informasjon som er påkrevd i henhold til denne paragraf,
+11. et populært beskrivende sammendrag av den informasjon som er gitt i henhold til denne paragraf, og
+12. navn og adresse til den person eller organisasjon som har utført den fullstendige vurdering av miljøkonsekvensene.
 
 ## Kapittel 5. Vern av flora og fauna
 
@@ -224,7 +274,13 @@ Dersom to eller flere som er ansvarlige for aktivitet i fellesskap forårsaker a
 
 ### § 30. Unntak fra ansvar
 
-Den ansvarlige for aktiviteten er ikke ansvarlig etter [§ 27](forskrift/2013-04-26-412/§27) eller [§ 28](forskrift/2013-04-26-412/§28) første ledd dersom den akutte forurensningen er forårsaket av:En handling eller unnlatelse som var nødvendig for å beskytte menneskers liv eller sikkerhetEn hendelse som representerer en naturkatastrofe av en ekstraordinær art i Antarktis og som ikke med rimelighet kunne vært forutsett. Dette gjelder bare dersom alle rimelige tiltak er truffet for å redusere risikoen for og potensielle skadevirkninger av den akutte forurensningEn terrorhandlingEn krigshandling rettet mot den ansvarliges aktivitetEt rimelig mottiltak truffet av noen på vegne av Norsk Polarinstitutt for å avhjelpe akutt forurensning.
+Den ansvarlige for aktiviteten er ikke ansvarlig etter [§ 27](forskrift/2013-04-26-412/§27) eller [§ 28](forskrift/2013-04-26-412/§28) første ledd dersom den akutte forurensningen er forårsaket av:
+
+1. En handling eller unnlatelse som var nødvendig for å beskytte menneskers liv eller sikkerhet
+2. En hendelse som representerer en naturkatastrofe av en ekstraordinær art i Antarktis og som ikke med rimelighet kunne vært forutsett. Dette gjelder bare dersom alle rimelige tiltak er truffet for å redusere risikoen for og potensielle skadevirkninger av den akutte forurensning
+3. En terrorhandling
+4. En krigshandling rettet mot den ansvarliges aktivitet
+5. Et rimelig mottiltak truffet av noen på vegne av Norsk Polarinstitutt for å avhjelpe akutt forurensning.
 
 ### § 31. Ansvarsbegrensning
 
@@ -232,7 +288,11 @@ For hendelser som ikke involverer skip, er erstatningsansvaret for den aktivitet
 
 For hendelser som involverer et skip gjelder reglene i [sjøloven kapittel 9](lov/1994-06-24-39/kap9) så langt de passer der den aktivitetsansvarlige er en av personene som etter [sjøloven § 171](lov/1994-06-24-39/§171) kan begrense sitt ansvar etter disse reglene.
 
-For hendelser som involverer et skip der den aktivitetsansvarlige ikke er omfattet av [sjøloven kapittel 9](lov/1994-06-24-39/kap9), er erstatningsansvaret for den aktivitetsansvarlige etter [§ 27](lov/1994-06-24-39/§27) og [§ 28](lov/1994-06-24-39/§28) første ledd oppad begrenset til 1 million SDR for skip med tonnasje opp til 2000 tonn. For skip med tonnasje på mer enn 2000 tonn, forhøyes ansvarsgrensen slik:for hvert tonn fra 2001 til 30 000 tonn, med 400 SDRfor hvert tonn fra 30 000 til 70 000 tonn, med 300 SDR ogfor hvert tonn som overstiger 70 000 tonn, med 200 SDR.
+For hendelser som involverer et skip der den aktivitetsansvarlige ikke er omfattet av [sjøloven kapittel 9](lov/1994-06-24-39/kap9), er erstatningsansvaret for den aktivitetsansvarlige etter [§ 27](lov/1994-06-24-39/§27) og [§ 28](lov/1994-06-24-39/§28) første ledd oppad begrenset til 1 million SDR for skip med tonnasje opp til 2000 tonn. For skip med tonnasje på mer enn 2000 tonn, forhøyes ansvarsgrensen slik:
+
+1. for hvert tonn fra 2001 til 30 000 tonn, med 400 SDR
+2. for hvert tonn fra 30 000 til 70 000 tonn, med 300 SDR og
+3. for hvert tonn som overstiger 70 000 tonn, med 200 SDR.
 
 Ansvarsgrensene i første og tredje ledd gjelder summen av alle krav mot den enkelte aktivitetsansvarlige som oppstår ved en og samme hendelse.
 
@@ -328,7 +388,14 @@ Avfall som ekspedisjonene produserer må bringes ut av Antarktis ved hjemreise. 
 
 Reisende til Antarktis vil i henhold til forskriften ha plikt til å gjøre seg kjent med spesielt verneverdige områder, kulturminner eller historiske steder og å følge de regler som gjelder for det enkelte område.
 
-Forskriften bygger på Protokoll om miljøvern (Miljøprotokollen) og følgende vedlegg:vedlegg I: Miljøkonsekvensvurderingvedlegg II: Bevaring av flora og faunavedlegg III: Disponering og håndtering av avfallvedlegg IV: Bekjempelse av marin forurensningvedlegg V: Verneområder i Antarktisvedlegg VI: Om ansvar i krisesituasjoner der det er akutt fare for skade på miljøet i Antarktis.
+Forskriften bygger på Protokoll om miljøvern (Miljøprotokollen) og følgende vedlegg:
+
+- vedlegg I: Miljøkonsekvensvurdering
+- vedlegg II: Bevaring av flora og fauna
+- vedlegg III: Disponering og håndtering av avfall
+- vedlegg IV: Bekjempelse av marin forurensning
+- vedlegg V: Verneområder i Antarktis
+- vedlegg VI: Om ansvar i krisesituasjoner der det er akutt fare for skade på miljøet i Antarktis.
 
 Kommentarene til de ulike bestemmelsene er i stor grad satt i sammenheng med Miljøprotokollens aktuelle artikler og vedlegg da store deler av forskriftens ordlyd bygger på disse.
 
@@ -502,7 +569,16 @@ Bestemmelsen bygger på artikkel 3 i vedlegg II til Miljøprotokollen. Forskrift
 
 Artikkel 6 i vedlegg II forutsetter at traktatpartene skal informere hverandre om aktiviteter som er rettet mot fauna og flora i Antarktis. Dette forutsetter igjen at aktørene rapporterer etter avsluttet aktivitet i traktatområdet. Krav til rapportering er fastsatt i [§ 15](forskrift/2013-04-26-412/§15).
 
-Innholdet i begrepene «innsamling» og «skadelig påvirkning» presiseres i artikkel 1 i vedlegg II. Det presiseres i forskriften at skadelig ferdsel omfattes av skadelig påvirkning. Definisjonen av begrepet «skadelig påvirkning» i artikkel 1 i vedlegg II inntas her til opplysning:«skadelig påvirkning»:helikoptre eller andre luftfartøyer som flyr eller lander på en måte som forstyrrer konsentrasjoner av fugl og sel;bruk av kjøretøyer eller skip, herunder luftputefartøy og mindre båter, på en slik måte at det forstyrrer konsentrasjoner av fugl og sel;bruk av sprengstoff eller våpen på en slik måte at det forstyrrer fugl og sel;bevisst forstyrrelse av hekkende eller fjærfellende fugler eller konsentrasjoner av fugl og sel av personer som ferdes til fots;vesentlig skade på konsentrasjoner av naturlig forekommende landplanter som følge av landing med luftfartøy, kjøring med kjøretøy eller tråkk, eller på annen måte;enhver virksomhet som resulterer i en vesentlig skadelig endring av habitatene til enhver art eller bestand av naturlig forekommende sjøpattedyr, fugl, plante eller virvelløse dyr.
+Innholdet i begrepene «innsamling» og «skadelig påvirkning» presiseres i artikkel 1 i vedlegg II. Det presiseres i forskriften at skadelig ferdsel omfattes av skadelig påvirkning. Definisjonen av begrepet «skadelig påvirkning» i artikkel 1 i vedlegg II inntas her til opplysning:
+
+1. «skadelig påvirkning»:
+
+   1. helikoptre eller andre luftfartøyer som flyr eller lander på en måte som forstyrrer konsentrasjoner av fugl og sel;
+   2. bruk av kjøretøyer eller skip, herunder luftputefartøy og mindre båter, på en slik måte at det forstyrrer konsentrasjoner av fugl og sel;
+   3. bruk av sprengstoff eller våpen på en slik måte at det forstyrrer fugl og sel;
+   4. bevisst forstyrrelse av hekkende eller fjærfellende fugler eller konsentrasjoner av fugl og sel av personer som ferdes til fots;
+   5. vesentlig skade på konsentrasjoner av naturlig forekommende landplanter som følge av landing med luftfartøy, kjøring med kjøretøy eller tråkk, eller på annen måte;
+   6. enhver virksomhet som resulterer i en vesentlig skadelig endring av habitatene til enhver art eller bestand av naturlig forekommende sjøpattedyr, fugl, plante eller virvelløse dyr.
 
 ### Til § 19. Innførsel av plante- og dyrearter og mikroorganismer
 

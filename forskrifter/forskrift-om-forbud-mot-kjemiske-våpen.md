@@ -34,7 +34,11 @@ Forskriftens formål er bl.a. å angi hvilke plikter som kan pålegges ved inspe
 
 Med anlegg forstås områder, installasjoner og andre innretninger på norsk territorium eller på noe annet sted under norsk jurisdiksjon, som staten ikke eier eller har råderett over, f.eks. private bedrifter og fabrikker, og hvor det utvikles, produseres, lagres eller brukes giftige kjemikalier og deres utgangsstoffer som vil kunne benyttes som kjemiske våpen eller til å produsere slike våpen.
 
-Med kjemiske våpen forstås følgende, sammen eller separat:Giftige kjemikalier og deres utgangsstoffer, unntatt når de skal benyttes til formål som ikke er forbudt i henhold til denne konvensjonen, så fremt typene og mengdene er i overenstemmelse med slike formål.Ammunisjon og innretninger som er spesielt beregnet på å forårsake død eller annen skade gjennom de giftige egenskapene til de giftige kjemikaliene spesifisert i bokstav (a), og som eventuelt vil slippe ut som resultat av anvendelse av slik ammunisjon og innretninger.Ethvert utstyr særskilt beregnet på direkte bruk i forbindelse med anvendelse av ammunisjon og innretninger spesifisert i bokstav (b).
+Med kjemiske våpen forstås følgende, sammen eller separat:
+
+1. Giftige kjemikalier og deres utgangsstoffer, unntatt når de skal benyttes til formål som ikke er forbudt i henhold til denne konvensjonen, så fremt typene og mengdene er i overenstemmelse med slike formål.
+2. Ammunisjon og innretninger som er spesielt beregnet på å forårsake død eller annen skade gjennom de giftige egenskapene til de giftige kjemikaliene spesifisert i bokstav (a), og som eventuelt vil slippe ut som resultat av anvendelse av slik ammunisjon og innretninger.
+3. Ethvert utstyr særskilt beregnet på direkte bruk i forbindelse med anvendelse av ammunisjon og innretninger spesifisert i bokstav (b).
 
 Giftige kjemikalier i konvensjonens forstand er ethvert kjemikalie som kan forårsake død, midlertidig uførhet eller varig skade på mennesker og dyr.
 

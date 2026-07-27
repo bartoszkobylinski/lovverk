@@ -36,7 +36,12 @@ Forskriften gjelder dyr som holdes i den hensikt å produsere pelsskinn.
 
 ### § 3. Tillatte arter
 
-Følgende arter er tillatt holdt som pelsdyr:mink (*Mustela vison*)sølvrevtyper (*Vulpes vulpes*)blårevtyper (*Vulpes lagopus*)krysninger mellom disse revetypene.
+Følgende arter er tillatt holdt som pelsdyr:
+
+1. mink (*Mustela vison*)
+2. sølvrevtyper (*Vulpes vulpes*)
+3. blårevtyper (*Vulpes lagopus*)
+4. krysninger mellom disse revetypene.
 
 Individer som ikke er født i pelsdyrhold, skal ikke holdes som pelsdyr.
 
@@ -66,9 +71,26 @@ Dyreholder skal iverksette tiltak for at dyrene fra tidlig alder skal bli tillit
 
 ### § 8. Rutiner og journal
 
-Dyreholder skal ha skriftlige rutiner som sikrer overholdelse av dyrevelferdslovgivningens krav, herunder forforebygging og avdekking av sykdom og skaderhåndtering og sosialisering av dyrenetesting av avlsdyr for tillitsfullhettilrettelegging for ønsket sosial kontakt mellom dyrbruk av stimulerende aktivitetsobjekter og eventuelt innretningerbruk av fleksible oppstallingssystemerfôring av avlsdyrhygienisk lagring av fôrkontroll med tekniske innretninger og plan for alternative løsningerhåndtering av skrotter.
+Dyreholder skal ha skriftlige rutiner som sikrer overholdelse av dyrevelferdslovgivningens krav, herunder for
 
-Dyreholder skal føre journal overdyrene i anleggettidspunkt for avvenningaggresjon mellom dyr og tiltak for å redusere slik aggresjonsykdom, skader, behandling, kontakt med veterinær, medisinbruk og dødelighet. Kjente eller sannsynlige årsaker til skader og dødelighet skal angisall avliving.
+1. forebygging og avdekking av sykdom og skader
+2. håndtering og sosialisering av dyrene
+3. testing av avlsdyr for tillitsfullhet
+4. tilrettelegging for ønsket sosial kontakt mellom dyr
+5. bruk av stimulerende aktivitetsobjekter og eventuelt innretninger
+6. bruk av fleksible oppstallingssystemer
+7. fôring av avlsdyr
+8. hygienisk lagring av fôr
+9. kontroll med tekniske innretninger og plan for alternative løsninger
+10. håndtering av skrotter.
+
+Dyreholder skal føre journal over
+
+1. dyrene i anlegget
+2. tidspunkt for avvenning
+3. aggresjon mellom dyr og tiltak for å redusere slik aggresjon
+4. sykdom, skader, behandling, kontakt med veterinær, medisinbruk og dødelighet. Kjente eller sannsynlige årsaker til skader og dødelighet skal angis
+5. all avliving.
 
 Opplysningene i journalen skal være tilgjengelige for Mattilsynet i minst tre år.
 
@@ -90,7 +112,14 @@ Pelsdyr skal avlives og pelses i samsvar med [forskrift 13. januar 2013 nr. 60](
 
 ### § 10. Krav til anlegg for hold av pelsdyr
 
-Anlegg for hold av pelsdyr skal:legges til steder uten sjenerende støykilder i nærheten og med liten risiko for akutt støypåvirkningha egnet underlag og utstyr til forsvarlig gjødselhåndteringha egnet sted for hygienisk lagring av fôrha frostfri og automatisk drikkevannsforsyningvære tilrettelagt for å kunne gjennomføre smitteforebyggende tiltak, herunder ha smittesluse og plass til vask og desinfeksjonvære egnet for å kunne gjennomføre godt renhold.
+Anlegg for hold av pelsdyr skal:
+
+1. legges til steder uten sjenerende støykilder i nærheten og med liten risiko for akutt støypåvirkning
+2. ha egnet underlag og utstyr til forsvarlig gjødselhåndtering
+3. ha egnet sted for hygienisk lagring av fôr
+4. ha frostfri og automatisk drikkevannsforsyning
+5. være tilrettelagt for å kunne gjennomføre smitteforebyggende tiltak, herunder ha smittesluse og plass til vask og desinfeksjon
+6. være egnet for å kunne gjennomføre godt renhold.
 
 Anlegg hvor pelsdyrhusene ikke er lukket med tette yttervegger fra gulv til tak, skal ha inngjerding som sikrer mot rømming og inntrenging av fremmede dyr som kan skade eller skremme pelsdyrene.
 
@@ -112,7 +141,11 @@ Pelsdyr skal holdes i fleksible oppstallingssystemer der det kan åpnes mellom o
 
 Underlag, vegger, tak og innredninger der dyrene oppholder seg, skal være utformet og vedlikeholdt slik at god dyrevelferd i størst mulig grad sikres.
 
-Utstyr og innredning som benyttes i forbindelse med fôr- og drikkevannsforsyning, må være utformet og plassert slik at:fôr og vann er lett tilgjengelig for dyrenefôr og vann ikke forurensesskadelig konkurranse mellom dyrene hindres så langt råd er.
+Utstyr og innredning som benyttes i forbindelse med fôr- og drikkevannsforsyning, må være utformet og plassert slik at:
+
+1. fôr og vann er lett tilgjengelig for dyrene
+2. fôr og vann ikke forurenses
+3. skadelig konkurranse mellom dyrene hindres så langt råd er.
 
 Oppholdsenheten skal til enhver tid være beriket med egnede aktivitetsobjekter og eventuelt innretninger som stimulerer dyrene til lek, gnaging, utforsking og variert fysisk aktivitet. Halm alene til mink er ikke tilstrekkelig som aktivitetsobjekt. Aktivitetsobjektene må skiftes tilstrekkelig ofte for å sikre mulighet for variert aktivitet.
 
@@ -260,11 +293,24 @@ Høyden på hvert plan skal være minst 45 cm.
 
 I minkhus bygget før 1. mai 2011 med lav takhøyde kan deler av høyden over et øvre planareal på minst 0,20 m2 være lavere enn 45 cm. Takhøyden i minkhuset skal likevel utnyttes slik at den delen av høyden som er lavere enn 45 cm, blir minst mulig.
 
-Utenom skjul og redekasse skal:voksne mink som er lettere enn 4,2 kg, ha et gulvareal på minst 0,27 m2 per dyrvoksne mink som er 4,2 kg eller tyngre, ha et gulvareal på minst 0,47 m2 per dyr.I tiden mellom pelsing og valping, med unntak av paringstiden, skal dyrene ha adgang til et tilleggsareal på minst 75 % av minste tillatte areal, som kan være i et øvre plan.
+Utenom skjul og redekasse skal:
 
-I følgende tilfeller skal dyrene ha et gulvareal utenom redekasse eller skjul på minst 0,27 m2 :én tispe med valper før avvenningett avvent valpekull yngre enn 11 ukerén tispe med én valp etter avvenning av kulletto valper eldre enn 11 uker.
+1. voksne mink som er lettere enn 4,2 kg, ha et gulvareal på minst 0,27 m2 per dyr
+2. voksne mink som er 4,2 kg eller tyngre, ha et gulvareal på minst 0,47 m2 per dyr.
 
-I følgende tilfeller skal dyrene ha et gulvareal utenom redekasse eller skjul på minst 0,27 m2 pluss minst 0,09 m2 for hvert dyr over to:grupper på tre eller flere valper eldre enn 11 ukergrupper på én tispe med flere enn én valp eldre enn 11 uker.
+I tiden mellom pelsing og valping, med unntak av paringstiden, skal dyrene ha adgang til et tilleggsareal på minst 75 % av minste tillatte areal, som kan være i et øvre plan.
+
+I følgende tilfeller skal dyrene ha et gulvareal utenom redekasse eller skjul på minst 0,27 m2 :
+
+1. én tispe med valper før avvenning
+2. ett avvent valpekull yngre enn 11 uker
+3. én tispe med én valp etter avvenning av kullet
+4. to valper eldre enn 11 uker.
+
+I følgende tilfeller skal dyrene ha et gulvareal utenom redekasse eller skjul på minst 0,27 m2 pluss minst 0,09 m2 for hvert dyr over to:
+
+1. grupper på tre eller flere valper eldre enn 11 uker
+2. grupper på én tispe med flere enn én valp eldre enn 11 uker.
 
 > Endret ved [forskrift 28 april 2011 nr. 431](forskrift/2011-04-28-431) (i kraft 1 mai 2011).
 
@@ -314,13 +360,25 @@ I oppholdsenheter med mer enn ett plan, skal nedre plan ha et gulvareal på mins
 
 Voksne rever som er lettere enn 20 kg, skal ha et gulvareal på minst 1,2 m2 per dyr. Voksne rever som er 20 kg eller mer, skal ha et gulvareal på minst 2,0 m2 per dyr. I tiden mellom pelsing og paring skal dyrene dessuten ha adgang til et tilleggsareal som er minst like stort. For avlshanner gjelder tilleggskravet også etter paring og så lenge som mulig.
 
-I følgende tilfeller skal dyrene ha et gulvareal på minst 1,2 m2 :én paret tispeén tispe med valpekull yngre enn 3 ukerén tispe med én valp etter avvenning av kulletto valper eldre enn 11 ukervalper som oppstalles enkeltvis etter [§ 21](forskrift/2011-03-17-296/§21) annet ledd.
+I følgende tilfeller skal dyrene ha et gulvareal på minst 1,2 m2 :
+
+1. én paret tispe
+2. én tispe med valpekull yngre enn 3 uker
+3. én tispe med én valp etter avvenning av kullet
+4. to valper eldre enn 11 uker
+5. valper som oppstalles enkeltvis etter [§ 21](forskrift/2011-03-17-296/§21) annet ledd.
 
 For a og b kreves redekasse i tillegg til gulvarealet.
 
-I følgende tilfeller skal dyrene ha et gulvareal på minst 2,0 m2 :én tispe med ikke-avvent valpekull eldre enn 3 ukerett avvent valpekull yngre enn 11 uker.
+I følgende tilfeller skal dyrene ha et gulvareal på minst 2,0 m2 :
 
-I følgende tilfeller skal dyrene ha et gulvareal på minst 1,2 m2 pluss minst 0,5 m2 for hvert dyr over to:grupper på tre eller flere valper eldre enn 11 ukergrupper på én tispe med flere enn én valp eldre enn 11 uker.
+1. én tispe med ikke-avvent valpekull eldre enn 3 uker
+2. ett avvent valpekull yngre enn 11 uker.
+
+I følgende tilfeller skal dyrene ha et gulvareal på minst 1,2 m2 pluss minst 0,5 m2 for hvert dyr over to:
+
+1. grupper på tre eller flere valper eldre enn 11 uker
+2. grupper på én tispe med flere enn én valp eldre enn 11 uker.
 
 ### § 30. Bunnetting
 
@@ -386,7 +444,10 @@ Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i 
 
 ### § 36. Overgangsbestemmelser
 
-I revehus som er bygget før 1. mai 2011, skalvoksne rever som er lettere enn 12 kg, ha et gulvareal på minst 0,8 m2 per dyr inntil [§ 29](forskrift/2011-03-17-296/§29), sjette ledd første punktum trer i kraft, jf. [§ 37](forskrift/2011-03-17-296/§37) fjerde ledd bokstav a.valper som oppstalles enkeltvis etter [§ 21](forskrift/2011-03-17-296/§21) annet ledd, ha et gulvareal på minst 0,8 m2 inntil [§ 29](forskrift/2011-03-17-296/§29) sjuende ledd bokstav e trer i kraft, jf. [§ 37](forskrift/2011-03-17-296/§37) fjerde ledd bokstav b.
+I revehus som er bygget før 1. mai 2011, skal
+
+1. voksne rever som er lettere enn 12 kg, ha et gulvareal på minst 0,8 m2 per dyr inntil [§ 29](forskrift/2011-03-17-296/§29), sjette ledd første punktum trer i kraft, jf. [§ 37](forskrift/2011-03-17-296/§37) fjerde ledd bokstav a.
+2. valper som oppstalles enkeltvis etter [§ 21](forskrift/2011-03-17-296/§21) annet ledd, ha et gulvareal på minst 0,8 m2 inntil [§ 29](forskrift/2011-03-17-296/§29) sjuende ledd bokstav e trer i kraft, jf. [§ 37](forskrift/2011-03-17-296/§37) fjerde ledd bokstav b.
 
 > Endret ved [forskrifter 28 april 2011 nr. 431](forskrift/2011-04-28-431) (i kraft 1 mai 2011), [21 jan 2013 nr. 62](forskrift/2013-01-21-62) (i kraft 1 feb 2013, tidligere § 44), [24 jan 2017 nr. 74](forskrift/2017-01-24-74), [3 nov 2017 nr. 1726](forskrift/2017-11-03-1726) (i kraft 1 jan 2018), [17 april 2018 nr. 582](forskrift/2018-04-17-582).
 
@@ -394,10 +455,28 @@ I revehus som er bygget før 1. mai 2011, skalvoksne rever som er lettere enn 12
 
 Denne forskriften trer i kraft 1. mai 2011. Samtidig oppheves [forskrift 20. september 1998 nr. 901](forskrift/1998-09-20-901) om hold av pelsdyr.
 
-Følgende bestemmelser trer ikke i kraft før 1. desember 2012:[§ 5](forskrift/2011-03-17-296/§5) kompetanse om hold[§ 34](forskrift/2011-03-17-296/§34) kompetanse om avliving[§ 37](forskrift/2011-03-17-296/§37) annet ledd andre og tredje punktum og [§ 38](forskrift/2011-03-17-296/§38) tredje ledd annet punktum om at elektrisk utstyr og innretninger med gass til avliving skal være forsynt med instrumenter for kontroll og varsling ved svikt.
+Følgende bestemmelser trer ikke i kraft før 1. desember 2012:
 
-Følgende bestemmelser trer ikke i kraft før 1. januar 2015 for pelsdyrhus og innredning som er bygget før 1. mai 2011:[§ 8](forskrift/2011-03-17-296/§8) første ledd bokstav f om skriftlige rutiner for bruk av fleksible oppstallingssystemer[§ 10](forskrift/2011-03-17-296/§10) første ledd bokstav d om frostfri og automatisk drikkevannsforsyning[§ 11](forskrift/2011-03-17-296/§11) tredje ledd om fleksible oppstallingssystemer[§ 11](forskrift/2011-03-17-296/§11) sjuende ledd om liggehylle til alle avvente dyr, når det gjelder mink[§ 17](forskrift/2011-03-17-296/§17) tredje ledd om tilgang til drikkevann av god kvalitet til enhver tid for samtlige pelsdyr[§ 21](forskrift/2011-03-17-296/§21) annet ledd første punktum om oppstalling av valper to eller flere sammen, når det gjelder for valper av sølvrevtyper eldre enn 4 måneder[§ 25](forskrift/2011-03-17-296/§25) første ledd om adgang til så stor del som mulig av anleggets oppholdsareal og femte ledd siste punktum om tilleggsareal til mink[§ 29](forskrift/2011-03-17-296/§29) sjette ledd første og annet punktum om minste gulvareal for voksen rev som veier 12 kg eller mer[§ 29](forskrift/2011-03-17-296/§29) første ledd om adgang til så stor del som mulig av anleggets oppholdsareal og sjette ledd tredje og fjerde punktum om tilleggsareal til rev[§ 31](forskrift/2011-03-17-296/§31) første til fjerde ledd om utforming av skjul til rev.
+1. [§ 5](forskrift/2011-03-17-296/§5) kompetanse om hold
+2. [§ 34](forskrift/2011-03-17-296/§34) kompetanse om avliving
+3. [§ 37](forskrift/2011-03-17-296/§37) annet ledd andre og tredje punktum og [§ 38](forskrift/2011-03-17-296/§38) tredje ledd annet punktum om at elektrisk utstyr og innretninger med gass til avliving skal være forsynt med instrumenter for kontroll og varsling ved svikt.
 
-Følgende bestemmelser trer ikke i kraft før 1. januar 2018 for pelsdyrhus og innredning som er bygget før 1. mai 2011:[§ 29](forskrift/2011-03-17-296/§29) sjette ledd første punktum om minste gulvareal for voksen rev som er lettere enn 12 kg[§ 29](forskrift/2011-03-17-296/§29) sjuende ledd bokstav e om minste gulvareal til valper som oppstalles enkeltvis.
+Følgende bestemmelser trer ikke i kraft før 1. januar 2015 for pelsdyrhus og innredning som er bygget før 1. mai 2011:
+
+1. [§ 8](forskrift/2011-03-17-296/§8) første ledd bokstav f om skriftlige rutiner for bruk av fleksible oppstallingssystemer
+2. [§ 10](forskrift/2011-03-17-296/§10) første ledd bokstav d om frostfri og automatisk drikkevannsforsyning
+3. [§ 11](forskrift/2011-03-17-296/§11) tredje ledd om fleksible oppstallingssystemer
+4. [§ 11](forskrift/2011-03-17-296/§11) sjuende ledd om liggehylle til alle avvente dyr, når det gjelder mink
+5. [§ 17](forskrift/2011-03-17-296/§17) tredje ledd om tilgang til drikkevann av god kvalitet til enhver tid for samtlige pelsdyr
+6. [§ 21](forskrift/2011-03-17-296/§21) annet ledd første punktum om oppstalling av valper to eller flere sammen, når det gjelder for valper av sølvrevtyper eldre enn 4 måneder
+7. [§ 25](forskrift/2011-03-17-296/§25) første ledd om adgang til så stor del som mulig av anleggets oppholdsareal og femte ledd siste punktum om tilleggsareal til mink
+8. [§ 29](forskrift/2011-03-17-296/§29) sjette ledd første og annet punktum om minste gulvareal for voksen rev som veier 12 kg eller mer
+9. [§ 29](forskrift/2011-03-17-296/§29) første ledd om adgang til så stor del som mulig av anleggets oppholdsareal og sjette ledd tredje og fjerde punktum om tilleggsareal til rev
+10. [§ 31](forskrift/2011-03-17-296/§31) første til fjerde ledd om utforming av skjul til rev.
+
+Følgende bestemmelser trer ikke i kraft før 1. januar 2018 for pelsdyrhus og innredning som er bygget før 1. mai 2011:
+
+1. [§ 29](forskrift/2011-03-17-296/§29) sjette ledd første punktum om minste gulvareal for voksen rev som er lettere enn 12 kg
+2. [§ 29](forskrift/2011-03-17-296/§29) sjuende ledd bokstav e om minste gulvareal til valper som oppstalles enkeltvis.
 
 > Endret ved [forskrifter 28 april 2011 nr. 431](forskrift/2011-04-28-431) (i kraft 1 mai 2011), [21 jan 2013 nr. 62](forskrift/2013-01-21-62) (i kraft 1 feb 2013, tidligere § 45), [3 nov 2017 nr. 1726](forskrift/2017-11-03-1726) (i kraft 1 jan 2018), [17 april 2018 nr. 582](forskrift/2018-04-17-582).

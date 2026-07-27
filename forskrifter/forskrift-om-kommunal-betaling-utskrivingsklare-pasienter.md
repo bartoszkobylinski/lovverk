@@ -52,7 +52,11 @@ Når en pasient legges inn på døgnopphold i helseinstitusjon omfattet av spesi
 
 Viser vurderingen etter [§ 7](forskrift/2011-11-18-1115/§7) at pasienten kan ha behov for hjelp fra den kommunale helse- og omsorgstjenesten etter utskrivning, skal helseinstitusjon omfattet av spesialisthelsetjenesteloven varsle kommunen om dette innen 24 timer etter innleggelsen. Forventer helseinstitusjonen at pasienten vil stå uten egnet bolig etter utskrivningen skal varselet opplyse om dette. Dersom vurderingen tilsier at pasienten ikke har behov for hjelp etter utskrivning, men dette endrer seg i løpet av døgnoppholdet i helseinstitusjonen, skal fristen løpe fra det tidspunktet det blir klart at et slikt behov foreligger.
 
-Varselet etter første ledd skal inneholdepasientens statusantatt forløpforventet utskrivningstidspunkt.
+Varselet etter første ledd skal inneholde
+
+1. pasientens status
+2. antatt forløp
+3. forventet utskrivningstidspunkt.
 
 Dersom det antas å være behov for omfattende eller langvarig behandling i døgnopphold i helseinstitusjon omfattet av spesialisthelsetjenesteloven, eller det på grunn av pasientens helsetilstand ikke er mulig å foreta vurderingene etter andre ledd innen 24 timer etter innleggelsen, skal vurderingene foretas og kommunen varsles så snart det lar seg gjøre.
 
@@ -62,7 +66,13 @@ Helseinstitusjon omfattet av spesialisthelsetjenesteloven skal varsle kommunen d
 
 ### § 9. Vilkår for at en pasient er utskrivningsklar
 
-Pasient i somatisk døgnavdeling er utskrivningsklar når lege ved helseinstitusjon omfattet av spesialisthelsetjenesteloven vurderer at det ikke er behov for ytterligere behandling ved døgnopphold i helseinstitusjonen. Pasient i psykisk helsevern og tverrfaglig spesialisert behandling for rusmiddelavhengighet er utskrivningsklar når lege eller psykolog ved helseinstitusjon omfattet av spesialisthelsetjenesteloven vurderer at det ikke er behov for ytterligere behandling ved døgnopphold i helseinstitusjonen. Vurderingen skal være basert på en individuell helsefaglig og psykososial vurdering, og følgende punkter skal være vurdert og dokumentert i pasientjournalen:problemstillingen(e) ved innleggelse, slik disse var formulert av innleggende lege, skal være avklartøvrige problemstillinger som har fremkommet skal være avklartdersom enkelte spørsmål ikke avklares skal dette redegjøres fordet skal foreligge et klart standpunkt til diagnose(r), og videre plan for oppfølging av pasientenpasientens samlede funksjonsnivå, endring fra forut for innleggelsen, og forventet framtidig utvikling skal være vurdert.
+Pasient i somatisk døgnavdeling er utskrivningsklar når lege ved helseinstitusjon omfattet av spesialisthelsetjenesteloven vurderer at det ikke er behov for ytterligere behandling ved døgnopphold i helseinstitusjonen. Pasient i psykisk helsevern og tverrfaglig spesialisert behandling for rusmiddelavhengighet er utskrivningsklar når lege eller psykolog ved helseinstitusjon omfattet av spesialisthelsetjenesteloven vurderer at det ikke er behov for ytterligere behandling ved døgnopphold i helseinstitusjonen. Vurderingen skal være basert på en individuell helsefaglig og psykososial vurdering, og følgende punkter skal være vurdert og dokumentert i pasientjournalen:
+
+1. problemstillingen(e) ved innleggelse, slik disse var formulert av innleggende lege, skal være avklart
+2. øvrige problemstillinger som har fremkommet skal være avklart
+3. dersom enkelte spørsmål ikke avklares skal dette redegjøres for
+4. det skal foreligge et klart standpunkt til diagnose(r), og videre plan for oppfølging av pasienten
+5. pasientens samlede funksjonsnivå, endring fra forut for innleggelsen, og forventet framtidig utvikling skal være vurdert.
 
 For pasienter i psykisk helsevern skal tvangstiltak og bruk av tvangsmidler som ikke kan videreføres i den kommunale helse- og omsorgstjenesten være avsluttet før pasienten er utskrivningsklar.
 

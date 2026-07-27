@@ -15,7 +15,7 @@ xml_hash: "8121d97bd815957247d8f476fc13e5006925b92aa794373f6e99b3ade16a7634"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,13 +26,24 @@ eu_basis: []
 
 ### § 1. (lovens formål)
 
-Loven har til formål å regulere og kontrollere omsetningen av fast eiendom for å oppnå et effektivt vern om landbrukets produksjonsarealer og slike eier- og bruksforhold som er mest gagnlige for samfunnet, bl.a. for å tilgodese:framtidige generasjoners behov.landbruksnæringen.behovet for utbyggingsgrunn.hensynet til miljøet, allmenne naturverninteresser og friluftsinteresser.hensynet til bosettingen.
+Loven har til formål å regulere og kontrollere omsetningen av fast eiendom for å oppnå et effektivt vern om landbrukets produksjonsarealer og slike eier- og bruksforhold som er mest gagnlige for samfunnet, bl.a. for å tilgodese:
+
+1. framtidige generasjoners behov.
+2. landbruksnæringen.
+3. behovet for utbyggingsgrunn.
+4. hensynet til miljøet, allmenne naturverninteresser og friluftsinteresser.
+5. hensynet til bosettingen.
 
 ### § 2. (virkemiddel)
 
 Med de unntak som følger av loven, kan fast eiendom ikke erverves uten tillatelse av Kongen (konsesjon). Kongen kan gi forskrift om at myndigheten til å treffe avgjørelse i nærmere bestemte saker tildeles kommunen. Statsforvalteren er klageinstans for vedtak truffet av kommunen etter loven. Når vilkårene for omgjøring etter [forvaltningsloven § 35](lov/1967-02-10/§35) er oppfylt, kan vedtaket også omgjøres av departementet.
 
-Loven omfatter ikke ervervsom er konsesjonspliktige eller som krever vedtak etter vannfallrettighetsloven,som er konsesjonspliktige etter [lov 29. juni 1990 nr. 50 kapittel 3](lov/1990-06-29-50/kap3) om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m.,som har sitt grunnlag i ekspropriasjonstillatelse etter [lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven) § 9-1 første ledd bokstav d](lov/2025-06-20-107/§9-1/ledd/1/bokstav/d) og [e](lov/2025-06-20-107/§9-1/ledd/1/bokstav/e).som er nødvendig for drift på mineralsk forekomst når erververen sender søknad om driftskonsesjon etter [lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven) §§ 6-2](lov/2025-06-20-107/§6-2) og [6-3](lov/2025-06-20-107/§6-3) og driftskonsesjon innvilges.
+Loven omfatter ikke erverv
+
+1. som er konsesjonspliktige eller som krever vedtak etter vannfallrettighetsloven,
+2. som er konsesjonspliktige etter [lov 29. juni 1990 nr. 50 kapittel 3](lov/1990-06-29-50/kap3) om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m.,
+3. som har sitt grunnlag i ekspropriasjonstillatelse etter [lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven) § 9-1 første ledd bokstav d](lov/2025-06-20-107/§9-1/ledd/1/bokstav/d) og [e](lov/2025-06-20-107/§9-1/ledd/1/bokstav/e).
+4. som er nødvendig for drift på mineralsk forekomst når erververen sender søknad om driftskonsesjon etter [lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven) §§ 6-2](lov/2025-06-20-107/§6-2) og [6-3](lov/2025-06-20-107/§6-3) og driftskonsesjon innvilges.
 
 Kongen kan ved forskrift gjøre unntak fra konsesjonsplikten utover det som følger av [§§ 4](lov/2003-11-28-98/§4), [5](lov/2003-11-28-98/§5) og [7](lov/2003-11-28-98/§7). Når særlige hensyn foreligger, kan Kongen også i det enkelte tilfelle gjøre unntak fra konsesjonsplikt.
 
@@ -50,7 +61,12 @@ Fast eiendom kan ikke tas til brukelig pant for lengre tid enn 3 år uten konses
 
 ### § 4. (unntak på grunnlag av eiendommens karakter)
 
-Konsesjon er ikke nødvendig ved erverv av:ubebygde enkelttomter for bolig, fritidshus eller naust, dersom tomten ikke er større enn 2 dekar og er godkjent fradelt etter [plan- og bygningsloven](lov/2008-06-27-71) og [jordlova](lov/1995-05-12-23).ubebygde enkelttomter for bolig eller fritidshus som ligger i et område som i kommuneplanens arealdel eller reguleringsplan etter [plan- og bygningsloven](lov/2008-06-27-71) er utlagt til bebyggelse og anlegg, og der tomteinndeling er foretatt eller godkjent av bygningsmyndighetene.andre ubebygde arealer, dersom de ligger i et område som i reguleringsplan er regulert til annet enn landbruks-, natur- og friluftsformål samt reindrift, eller som i kommuneplanens arealdel er lagt ut til bebyggelse og anlegg.bebygd eiendom, ikke over 100 dekar, der fulldyrka og overflatedyrka jord ikke er mer enn 35 dekar.
+Konsesjon er ikke nødvendig ved erverv av:
+
+1. ubebygde enkelttomter for bolig, fritidshus eller naust, dersom tomten ikke er større enn 2 dekar og er godkjent fradelt etter [plan- og bygningsloven](lov/2008-06-27-71) og [jordlova](lov/1995-05-12-23).
+2. ubebygde enkelttomter for bolig eller fritidshus som ligger i et område som i kommuneplanens arealdel eller reguleringsplan etter [plan- og bygningsloven](lov/2008-06-27-71) er utlagt til bebyggelse og anlegg, og der tomteinndeling er foretatt eller godkjent av bygningsmyndighetene.
+3. andre ubebygde arealer, dersom de ligger i et område som i reguleringsplan er regulert til annet enn landbruks-, natur- og friluftsformål samt reindrift, eller som i kommuneplanens arealdel er lagt ut til bebyggelse og anlegg.
+4. bebygd eiendom, ikke over 100 dekar, der fulldyrka og overflatedyrka jord ikke er mer enn 35 dekar.
 
 Konsesjonsfriheten etter første ledd nr. 1 og 2 er betinget av at tomten blir bebygd innen fem år.
 
@@ -62,7 +78,13 @@ I områder som er regulert i reguleringsplan, er konsesjonsfriheten etter først
 
 ### § 5. (unntak på grunnlag av erververens stilling)
 
-Konsesjon er ikke nødvendig når erververen er:eierens ektefelle, eller er i slekt med eieren eller eierens ektefelle i rett oppstigende eller nedstigende linje eller i eierens eller ektefellens første sidelinje til og med barn av søsken, eller er i svogerskap med eieren i rett oppstigende linje, forutsatt at eieren har sitt konsesjonsforhold i orden. Konsesjonsplikt kan likevel følge av [§ 7](lov/2003-11-28-98/§7) andre ledd.odelsberettiget til eiendommen.staten.den fylkeskommune eller kommune der eiendommen ligger, såfremt ervervet gjelder en eiendom i område som omfattes av kommuneplan eller reguleringsplan etter plan- og bygningsloven, og eiendommen i planen er utlagt til annet enn landbruksområde eller ervervet skjer ved ekspropriasjon. Et kommunalt tomteselskap der vedkommende kommune har minst halvparten av kapitalen og flertallet i styret, likestilles med kommunen når det gjelder konsesjonsfrihet etter dette nummer.bank eller annen institusjon som Kongen har godkjent i denne sammenheng, når ervervet skjer gjennom tvangssalg for å redde en fordring som erververen har panterett for i eiendommen. Eiendommen må selges videre innen to år. Fristen regnes fra stadfestingen av auksjonsbudet og kan forlenges av departementet.
+Konsesjon er ikke nødvendig når erververen er:
+
+1. eierens ektefelle, eller er i slekt med eieren eller eierens ektefelle i rett oppstigende eller nedstigende linje eller i eierens eller ektefellens første sidelinje til og med barn av søsken, eller er i svogerskap med eieren i rett oppstigende linje, forutsatt at eieren har sitt konsesjonsforhold i orden. Konsesjonsplikt kan likevel følge av [§ 7](lov/2003-11-28-98/§7) andre ledd.
+2. odelsberettiget til eiendommen.
+3. staten.
+4. den fylkeskommune eller kommune der eiendommen ligger, såfremt ervervet gjelder en eiendom i område som omfattes av kommuneplan eller reguleringsplan etter plan- og bygningsloven, og eiendommen i planen er utlagt til annet enn landbruksområde eller ervervet skjer ved ekspropriasjon. Et kommunalt tomteselskap der vedkommende kommune har minst halvparten av kapitalen og flertallet i styret, likestilles med kommunen når det gjelder konsesjonsfrihet etter dette nummer.
+5. bank eller annen institusjon som Kongen har godkjent i denne sammenheng, når ervervet skjer gjennom tvangssalg for å redde en fordring som erververen har panterett for i eiendommen. Eiendommen må selges videre innen to år. Fristen regnes fra stadfestingen av auksjonsbudet og kan forlenges av departementet.
 
 Ved erverv av bebygd eiendom hvor fulldyrka og overflatedyrka jord er mer enn 35 dekar, eller eiendommen består av mer enn 500 dekar produktiv skog, er konsesjonsfriheten etter første ledd nr. 1 og 2 betinget av at erververen bosetter seg på eiendommen innen ett år og selv bebor den i minst 5 år. Som bebygd eiendom regnes her eiendom med bebyggelse som er eller har vært brukt som helårsbolig. Det samme gjelder eiendom med bebyggelse som ikke er tatt i bruk som helårsbolig, herunder eiendom med bebyggelse under oppføring dersom tillatelse til bebyggelse er gitt med sikte på boligformål. Erverver gjenlevende ektefelle eiendom fra sin avdøde ektefelle som eier eller ved uskifte, skal botiden gjenlevende har gjennomført før overtagelsen regnes mot plikttiden.
 
@@ -78,7 +100,11 @@ Erverver som etter [§ 5](lov/2003-11-28-98/§5) annet ledd har boplikt på en e
 
 ### § 7. (nedsatt konsesjonsgrense for bebygd eiendom)
 
-For eiendom som omfattes av unntaket i [§ 4](lov/2003-11-28-98/§4) første ledd nr. 2 eller 4, kan Kongen ved forskrift sette konsesjonsfriheten etter [§ 4](lov/2003-11-28-98/§4) første ledd nr. 2 eller 4 og [§ 5](lov/2003-11-28-98/§5) første ledd nr. 1 ut av kraft for:bebygd eiendom som er eller har vært i bruk som helårsbolig,eiendom med bebyggelse som ikke er tatt i bruk som helårsbolig, herunder eiendom med bebyggelse under oppføring, i områder som i reguleringsplan etter plan- og bygningsloven er regulert til boligformål,ubebygd tomt som er regulert til boligformål.
+For eiendom som omfattes av unntaket i [§ 4](lov/2003-11-28-98/§4) første ledd nr. 2 eller 4, kan Kongen ved forskrift sette konsesjonsfriheten etter [§ 4](lov/2003-11-28-98/§4) første ledd nr. 2 eller 4 og [§ 5](lov/2003-11-28-98/§5) første ledd nr. 1 ut av kraft for:
+
+1. bebygd eiendom som er eller har vært i bruk som helårsbolig,
+2. eiendom med bebyggelse som ikke er tatt i bruk som helårsbolig, herunder eiendom med bebyggelse under oppføring, i områder som i reguleringsplan etter plan- og bygningsloven er regulert til boligformål,
+3. ubebygd tomt som er regulert til boligformål.
 
 Er det ikke fastsatt i forskrift etter første ledd at konsesjonsfriheten etter [§ 5](lov/2003-11-28-98/§5) første ledd nr. 1 er satt ut av kraft, gjelder konsesjonsfriheten for nærstående etter [§ 5](lov/2003-11-28-98/§5) første ledd nr. 1 bare dersom eieren har hatt tinglyst hjemmel til eiendommen de siste 5 årene forut for overdragelsen. Til denne eiertiden regnes også den tid andre som faller inn under [§ 5](lov/2003-11-28-98/§5) første ledd nr. 1 i forhold til erververen har eid eiendommen. Dør eieren før 5-årsfristen er ute, gjelder konsesjonsfriheten etter [§ 5](lov/2003-11-28-98/§5) første ledd nr. 1 fullt ut.
 
@@ -102,7 +128,12 @@ Departementet kan gi forskrift om hvilke opplysninger som må foreligge for at e
 
 ### § 9. (særlige forhold for landbrukseiendommer)
 
-Ved avgjørelsen av søknad om konsesjon for erverv av eiendom som skal nyttes til landbruksformål skal det legges særlig vekt på:om erververs formål vil ivareta hensynet til bosettingen i området,om ervervet innebærer en driftsmessig god løsning,om erververen anses skikket til å drive eiendommen,om ervervet ivaretar hensynet til helhetlig ressursforvaltning og kulturlandskapet.
+Ved avgjørelsen av søknad om konsesjon for erverv av eiendom som skal nyttes til landbruksformål skal det legges særlig vekt på:
+
+1. om erververs formål vil ivareta hensynet til bosettingen i området,
+2. om ervervet innebærer en driftsmessig god løsning,
+3. om erververen anses skikket til å drive eiendommen,
+4. om ervervet ivaretar hensynet til helhetlig ressursforvaltning og kulturlandskapet.
 
 Konsesjon skal i alminnelighet ikke gis dersom det ved ervervet oppstår sameie i eiendommen, eller antallet sameiere økes.
 
@@ -154,7 +185,14 @@ Søknad etter [§ 12](lov/2003-11-28-98/§12) skal sendes til ordføreren innen 
 
 Overholdes ikke reglene i første ledd, skal Kongen sette en frist for erververen til å søke om konsesjon.
 
-Kongen kan sette en frist for erververen til å søke konsesjon dersom:tidsgrensen for tvangsbruk etter [§ 3](lov/2003-11-28-98/§3) annet ledd overskrides.erververen unnlater å bygge innen 5 år i strid med [§ 4](lov/2003-11-28-98/§4) annet ledd.erververen foretar bruksendring i strid med plan i henhold til [§ 4](lov/2003-11-28-98/§4) tredje eller fjerde ledd.erverver som nevnt i [§ 5](lov/2003-11-28-98/§5) første ledd nr. 1 eller 2 ikke overholder boplikten etter [§ 5](lov/2003-11-28-98/§5) annet ledd.erverver som nevnt i [§ 5](lov/2003-11-28-98/§5) første ledd nr. 5 ikke overholder fristen for videresalg.kravet til bosetting etter [§ 7](lov/2003-11-28-98/§7) tredje ledd jf. [§ 6](lov/2003-11-28-98/§6) ikke overholdes.
+Kongen kan sette en frist for erververen til å søke konsesjon dersom:
+
+1. tidsgrensen for tvangsbruk etter [§ 3](lov/2003-11-28-98/§3) annet ledd overskrides.
+2. erververen unnlater å bygge innen 5 år i strid med [§ 4](lov/2003-11-28-98/§4) annet ledd.
+3. erververen foretar bruksendring i strid med plan i henhold til [§ 4](lov/2003-11-28-98/§4) tredje eller fjerde ledd.
+4. erverver som nevnt i [§ 5](lov/2003-11-28-98/§5) første ledd nr. 1 eller 2 ikke overholder boplikten etter [§ 5](lov/2003-11-28-98/§5) annet ledd.
+5. erverver som nevnt i [§ 5](lov/2003-11-28-98/§5) første ledd nr. 5 ikke overholder fristen for videresalg.
+6. kravet til bosetting etter [§ 7](lov/2003-11-28-98/§7) tredje ledd jf. [§ 6](lov/2003-11-28-98/§6) ikke overholdes.
 
 Oversittes fristen for å søke konsesjon kommer [§ 19](lov/2003-11-28-98/§19) tilsvarende til anvendelse.
 

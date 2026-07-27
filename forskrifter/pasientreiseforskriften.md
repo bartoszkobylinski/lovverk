@@ -28,7 +28,13 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I forskriften her menes med*reisestønad:* stønad til dekning av nødvendige utgifter til reise*bosted:* pasientens folkeregistrerte adresse. Som bosted regnes også nødvendig midlertidig oppholdssted på grunn av arbeid, studier, militærtjeneste og opphold i institusjon.*bostedskommune:* kommunen der pasienten har folkeregistrert adresse.*bostedsregion:* region som nevnt i [spesialisthelsetjenesteloven § 5-1](lov/1999-07-02-61/§5-1).*nære pårørende:* ektefelle, samboer, barn, barnebarn, foreldre, besteforeldre, svigerbarn, svigerforeldre, søsken og personer som tilhører pasientens husstand.
+I forskriften her menes med
+
+1. *reisestønad:* stønad til dekning av nødvendige utgifter til reise
+2. *bosted:* pasientens folkeregistrerte adresse. Som bosted regnes også nødvendig midlertidig oppholdssted på grunn av arbeid, studier, militærtjeneste og opphold i institusjon.
+3. *bostedskommune:* kommunen der pasienten har folkeregistrert adresse.
+4. *bostedsregion:* region som nevnt i [spesialisthelsetjenesteloven § 5-1](lov/1999-07-02-61/§5-1).
+5. *nære pårørende:* ektefelle, samboer, barn, barnebarn, foreldre, besteforeldre, svigerbarn, svigerforeldre, søsken og personer som tilhører pasientens husstand.
 
 > Endret ved [forskrifter 12 sep 2016 nr. 1056](forskrift/2016-09-12-1056) (i kraft 1 okt 2016), [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025).
 
@@ -36,9 +42,15 @@ I forskriften her menes med*reisestønad:* stønad til dekning av nødvendige ut
 
 En pasient har rett til reisestønad ved reise til og fra spesialisthelsetjenester som er finansiert av et regionalt helseforetak.
 
-Retten til reisestønad etter første ledd gjelder alle spesialisthelsetjenester somgis innenfor pasientens bostedsregion, ellersom er det geografisk nærmeste stedet der helsetjenesten kan gis.
+Retten til reisestønad etter første ledd gjelder alle spesialisthelsetjenester som
 
-En pasient har, uavhengig av avstand, rett til reisestønad ved reise til og fra følgende tjenester utenfor bostedsregionen:legespesialister, psykologspesialister, laboratorier og røntgeninstitutter som har avtale med det regionale helseforetaket i pasientens bostedsregion om å tilby helsehjelp, elleren godkjent nasjonal eller flerregional behandlingstjeneste eller en nasjonal kompetansetjeneste for det tilbudet som oppsøkes, jf. [forskrift 17. desember 2010 nr. 1706 om krav til spesialisthelsetjenester, godkjenning av nasjonale tjenester i spesialisthelsetjenesten og bruk av betegnelsen universitetssykehus](forskrift/2010-12-17-1706).
+1. gis innenfor pasientens bostedsregion, eller
+2. som er det geografisk nærmeste stedet der helsetjenesten kan gis.
+
+En pasient har, uavhengig av avstand, rett til reisestønad ved reise til og fra følgende tjenester utenfor bostedsregionen:
+
+1. legespesialister, psykologspesialister, laboratorier og røntgeninstitutter som har avtale med det regionale helseforetaket i pasientens bostedsregion om å tilby helsehjelp, eller
+2. en godkjent nasjonal eller flerregional behandlingstjeneste eller en nasjonal kompetansetjeneste for det tilbudet som oppsøkes, jf. [forskrift 17. desember 2010 nr. 1706 om krav til spesialisthelsetjenester, godkjenning av nasjonale tjenester i spesialisthelsetjenesten og bruk av betegnelsen universitetssykehus](forskrift/2010-12-17-1706).
 
 En pasient har rett til reisestønad ved reise til og fra spesialisthelsetjenester utenfor bostedsregionen som gis av virksomhet som er omfattet av retten til valg av behandlingssted etter [pasient- og brukerrettighetsloven § 2-4](lov/1999-07-02-63/§2-4). Pasienten har likevel bare rett til reisestønad til nærmeste private radiologiske virksomhet.
 
@@ -46,7 +58,12 @@ En pasient har rett til reisestønad ved reise til og fra spesialisthelsetjenest
 
 ### § 2. Reise til og fra helsetjenester etter folketrygdloven kapittel 5
 
-En pasient har rett til *reisestønad ved reise* til og fra helsetjenester som gis av en fastlegei pasientens bostedskommunesom er geografisk nærmest pasientens oppholdsstedi en kommune som samarbeider med bostedskommunen om å tilby fastlege ellernår legen ellers er nærmeste tilgjengelige fastlege der pasienten kan stå på liste.
+En pasient har rett til *reisestønad ved reise* til og fra helsetjenester som gis av en fastlege
+
+1. i pasientens bostedskommune
+2. som er geografisk nærmest pasientens oppholdssted
+3. i en kommune som samarbeider med bostedskommunen om å tilby fastlege eller
+4. når legen ellers er nærmeste tilgjengelige fastlege der pasienten kan stå på liste.
 
 En pasient har rett til reisestønad ved reise til og fra andre helsetjenester som gis i pasientens bostedskommune, eller som er geografisk nærmest pasientens bosted. Stønad ytes bare hvis helsetjenesten gis av kommunalt ansatt helsepersonell som nevnt i [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5) eller helsepersonell som får stønad etter [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5).
 
@@ -56,7 +73,12 @@ Det ytes ikke reisestønad ved reise til helsetjenester som det gis bidrag til e
 
 ### § 3. Reise til og fra familievernkontor, kommunale tilbud mv.
 
-En pasient har rett til *reisestønad ved reise* til og fra følgende tjenester som gis i pasientens bostedskommune, i samarbeidende kommune eller som er geografisk nærmest pasientens bosted:hjelp ved familievernkontor og helsestasjonsykehjem, begrenset til innleggelse og utskrivingkommunalt tilbud om døgnopphold for helse- og omsorgstjenester til pasienter og brukere med behov for øyeblikkelig hjelp, jf. [helse- og omsorgstjenesteloven § 3-5 tredje ledd](lov/2011-06-24-30/§3-5/ledd/3)kommunalt tilbud om dialyse.
+En pasient har rett til *reisestønad ved reise* til og fra følgende tjenester som gis i pasientens bostedskommune, i samarbeidende kommune eller som er geografisk nærmest pasientens bosted:
+
+1. hjelp ved familievernkontor og helsestasjon
+2. sykehjem, begrenset til innleggelse og utskriving
+3. kommunalt tilbud om døgnopphold for helse- og omsorgstjenester til pasienter og brukere med behov for øyeblikkelig hjelp, jf. [helse- og omsorgstjenesteloven § 3-5 tredje ledd](lov/2011-06-24-30/§3-5/ledd/3)
+4. kommunalt tilbud om dialyse.
 
 Ved reise til familievernkontor der det er nødvendig at parter som bor ulike steder i landet møtes samme sted, ytes reisestønad ved reise til og fra det familiekontoret som er nærmest for en av partene, hvis familievernkontorets faglige leder bekrefter at dette er nødvendig av medisinske eller behandlingsmessige grunner.
 
@@ -82,9 +104,18 @@ En pasient som flytter, beholder sine rettigheter etter [§ 1a](forskrift/2015-0
 
 ### § 7. Krav om medisinske eller behandlingsmessige grunner – unntak for reise til visse tjenester
 
-En pasient har rett til reisestønad ved reise:for å motta helsetjenester etter [§ 1a](forskrift/2015-06-25-793/§1a), [§ 2](forskrift/2015-06-25-793/§2) og [§ 3](forskrift/2015-06-25-793/§3) som er nødvendige av medisinske eller behandlingsmessige grunnerfor å delta i forskning som kommer til erstatning for eller i tillegg til ordinær helsehjelp i godkjente kliniske studier som gjennomføres i et helseforetak ogved reise til og fra familievernkontor og sykehjem etter [§ 3](forskrift/2015-06-25-793/§3), selv om hjelpen eller innleggelsen ikke er nødvendig av medisinske eller behandlingsmessige grunner.
+En pasient har rett til reisestønad ved reise:
 
-Retten til reisestønad gjelder ikke ved reise til og fraundersøkelser og behandlinger som er nødvendige av administrative, organisatoriske og lignende grunner,forebyggende helsearbeid, med unntak av helsestasjoner,henting av medisin, ellerevalueringsprosjekter.
+1. for å motta helsetjenester etter [§ 1a](forskrift/2015-06-25-793/§1a), [§ 2](forskrift/2015-06-25-793/§2) og [§ 3](forskrift/2015-06-25-793/§3) som er nødvendige av medisinske eller behandlingsmessige grunner
+2. for å delta i forskning som kommer til erstatning for eller i tillegg til ordinær helsehjelp i godkjente kliniske studier som gjennomføres i et helseforetak og
+3. ved reise til og fra familievernkontor og sykehjem etter [§ 3](forskrift/2015-06-25-793/§3), selv om hjelpen eller innleggelsen ikke er nødvendig av medisinske eller behandlingsmessige grunner.
+
+Retten til reisestønad gjelder ikke ved reise til og fra
+
+1. undersøkelser og behandlinger som er nødvendige av administrative, organisatoriske og lignende grunner,
+2. forebyggende helsearbeid, med unntak av helsestasjoner,
+3. henting av medisin, eller
+4. evalueringsprosjekter.
 
 > Endret ved forskrift [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025).
 
@@ -98,7 +129,10 @@ Unntaket i første ledd gjelder likevel ikke hvis reisen gjelder øyeblikkelig h
 
 ### § 9. Unntak når tilbudt transport ikke benyttes
 
-En pasient har ikke rett til reisestønad hvis pasientenfår tilbud om transport fra et helseforetak, jf. [§ 16](forskrift/2015-06-25-793/§16), elleri et tidligere vedtak om reisestønad fra et helseforetak har fått opplyst at gratis offentlig transport skal benyttes på den aktuelle strekningen.
+En pasient har ikke rett til reisestønad hvis pasienten
+
+1. får tilbud om transport fra et helseforetak, jf. [§ 16](forskrift/2015-06-25-793/§16), eller
+2. i et tidligere vedtak om reisestønad fra et helseforetak har fått opplyst at gratis offentlig transport skal benyttes på den aktuelle strekningen.
 
 > Endret ved [forskrifter 12 sep 2016 nr. 1056](forskrift/2016-09-12-1056) (i kraft 1 okt 2016), [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025).
 
@@ -150,7 +184,10 @@ Uføretrygd som pasienten mottar på grunn av skaden eller sykdommen, skal ikke 
 
 ### § 15. Utgifter til rengjøring og frakt av utstyr
 
-En pasient har rett til å få dekket nødvendige utgifter til:frakt av nødvendig bagasje og utstyrekstra rengjøring av drosje, leiet bil eller egen bil etter endt transport.
+En pasient har rett til å få dekket nødvendige utgifter til:
+
+1. frakt av nødvendig bagasje og utstyr
+2. ekstra rengjøring av drosje, leiet bil eller egen bil etter endt transport.
 
 > Endret ved forskrift [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025).
 
@@ -172,7 +209,10 @@ Helseforetaket eller andre som har fått myndighet til det, kan attestere behov 
 
 ### § 17. Reiseledsagers rett til reisestønad mv.
 
-En reiseledsager har rett til reisestønad ved reise for å følge en pasient med rett til reisestønad etter [kapittel 1](forskrift/2015-06-25-793/kap1) nårpasienten av medisinske eller behandlingsmessige grunner har behov for ledsager på reise, ellerdet er nødvendig for å hindre at pasienten rømmer eller bruker rusmidler under reisen.
+En reiseledsager har rett til reisestønad ved reise for å følge en pasient med rett til reisestønad etter [kapittel 1](forskrift/2015-06-25-793/kap1) når
+
+1. pasienten av medisinske eller behandlingsmessige grunner har behov for ledsager på reise, eller
+2. det er nødvendig for å hindre at pasienten rømmer eller bruker rusmidler under reisen.
 
 Støtteperson til person som skal reise for å delta ved behandling av krav om abort for abortnemnda eller abortklagenemnda, jf. [abortloven §§ 14](lov/2024-12-20-96/§14) og [21](lov/2024-12-20-96/§21), har rett til reisestønad og regnes som ledsager etter forskriften her.
 
@@ -210,9 +250,16 @@ Ansatte i kommunal hjemmetjeneste har ikke krav på dekning av tapt arbeidsinnte
 
 ### § 19. Rett til reisestønad for nære pårørende
 
-Nære pårørende til en pasient, jf. [§ 1 bokstav e](forskrift/2015-06-25-793/§1/bokstav/e), har rett til reisestønad ved reise til og frapsykiatrisk poliklinikk for barn og ungdom og familievernkontor hvis poliklinikkens ansvarlige leder eller familievernkontorets faglige leder attesterer at det er nødvendig at den pårørende kommer,et kompetansesenter for personer med sjeldne og lite kjente diagnoser og funksjonshemninger,kurs eller opplæring i regi av helseinstitusjon, forutsatt at kurset eller opplæringen har et medisinsk eller behandlingsmessig innhold og at kursdeltagelsen er nødvendig for fremtidig oppfølging av pasienten.
+Nære pårørende til en pasient, jf. [§ 1 bokstav e](forskrift/2015-06-25-793/§1/bokstav/e), har rett til reisestønad ved reise til og fra
 
-Barn under 18 år har rett til reisestønad ved reise til og frapasient i helseinstitusjon med livstruende sykdom som har omsorg for barnet og som ikke makter å reise hjem, hvis behandlende lege har gitt en uttalelse om at behandlingen vil vare i minst to uker,helsepersonell som skal ivareta barnets behov for informasjon og nødvendig oppfølging etter [helsepersonelloven § 10a](lov/1999-07-02-64/§10a) eller [§ 10b](lov/1999-07-02-64/§10b).
+1. psykiatrisk poliklinikk for barn og ungdom og familievernkontor hvis poliklinikkens ansvarlige leder eller familievernkontorets faglige leder attesterer at det er nødvendig at den pårørende kommer,
+2. et kompetansesenter for personer med sjeldne og lite kjente diagnoser og funksjonshemninger,
+3. kurs eller opplæring i regi av helseinstitusjon, forutsatt at kurset eller opplæringen har et medisinsk eller behandlingsmessig innhold og at kursdeltagelsen er nødvendig for fremtidig oppfølging av pasienten.
+
+Barn under 18 år har rett til reisestønad ved reise til og fra
+
+1. pasient i helseinstitusjon med livstruende sykdom som har omsorg for barnet og som ikke makter å reise hjem, hvis behandlende lege har gitt en uttalelse om at behandlingen vil vare i minst to uker,
+2. helsepersonell som skal ivareta barnets behov for informasjon og nødvendig oppfølging etter [helsepersonelloven § 10a](lov/1999-07-02-64/§10a) eller [§ 10b](lov/1999-07-02-64/§10b).
 
 Reisen dekkes etter samme regler som for pasienter.
 
@@ -256,7 +303,11 @@ Når pasienten ledsages på reisen etter [§ 17](forskrift/2015-06-25-793/§17),
 
 ### § 22. Dekning av utgifter til bil mv.
 
-En pasient har rett til å få dekket nødvendige utgifter til ferge og nødvendige og dokumenterte utgifter til bomvei og parkering ved bruk av bil hvisreisen gjelder øyeblikkelig hjelp,pasientens behandler, eller andre som er utpekt av helseforetaket har vurdert at pasientens helsetilstand gjør det nødvendig å bruke bil, ellerhelseforetaket eller andre som har fått myndighet til det, attesterer at manglende rutegående tilbud gjør det nødvendig å bruke bil.
+En pasient har rett til å få dekket nødvendige utgifter til ferge og nødvendige og dokumenterte utgifter til bomvei og parkering ved bruk av bil hvis
+
+1. reisen gjelder øyeblikkelig hjelp,
+2. pasientens behandler, eller andre som er utpekt av helseforetaket har vurdert at pasientens helsetilstand gjør det nødvendig å bruke bil, eller
+3. helseforetaket eller andre som har fått myndighet til det, attesterer at manglende rutegående tilbud gjør det nødvendig å bruke bil.
 
 > Endret ved forskrift [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025).
 
@@ -272,7 +323,10 @@ Hvis pasienten selv bestiller og legger ut for reise med drosje, uten at det er 
 
 ### § 23. Dekning av utgifter til flyreiser
 
-Flyreiser skal bestilles av helseforetaket. Hvis pasienten selv bestiller og legger ut for reise med fly, har pasienten rett til følgende dekning av reiseutgifterved reiser som er kortere enn 300 kilometer hver vei, dekkes reiseutgiftene med standardsats per kilometer etter [§ 21 første ledd](forskrift/2015-06-25-793/§21/ledd/1)ved reiser som er lenger enn 300 kilometer hver vei, dekkes reiseutgiftene for den billigste reisemåten med rutegående transportmiddel.
+Flyreiser skal bestilles av helseforetaket. Hvis pasienten selv bestiller og legger ut for reise med fly, har pasienten rett til følgende dekning av reiseutgifter
+
+1. ved reiser som er kortere enn 300 kilometer hver vei, dekkes reiseutgiftene med standardsats per kilometer etter [§ 21 første ledd](forskrift/2015-06-25-793/§21/ledd/1)
+2. ved reiser som er lenger enn 300 kilometer hver vei, dekkes reiseutgiftene for den billigste reisemåten med rutegående transportmiddel.
 
 > Endret ved [forskrifter 12 sep 2016 nr. 1056](forskrift/2016-09-12-1056) (i kraft 1 okt 2016), [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025).
 
@@ -288,7 +342,18 @@ Ved hver enkelt reise skal pasienten betale en egenandel på kr 171 hver vei (kr
 
 Ved reiser til og fra spesialisthelsetjenester utenfor pasientens bostedsregion som gis av virksomhet som er omfattet av retten til valg av behandlingssted etter [pasient- og brukerrettighetsloven § 2-4](lov/1999-07-02-63/§2-4), skal pasienten betale en egenandel på kr 400 hver vei (kr 800 tur/retur). Pasienten skal likevel bare betale egenandel på kr 171 hver vei, hvis helsehjelpen gis på det nærmeste stedet den kan gis, eller det regionale helseforetaket ikke tilbyr helsehjelpen i pasientens bostedsregion.
 
-Det skal ikke betales egenandelfor ledsagerfor barn under 16 årved reise for å undersøke eller behandle yrkesskade eller krigsskadeved reise for å undersøke, behandle og kontrollere en allmennfarlig smittsom sykdomved reise for å legges inn i tvungent psykisk helsevernved reise for tvungent psykisk helsevern uten døgnopphold i institusjonved pårørendes reise til psykiatrisk poliklinikk for barn og ungdom som oppfyller vilkårene i [§ 19 første ledd bokstav a](forskrift/2015-06-25-793/§19/ledd/1/bokstav/a)ved reise for donor ved transplantasjonved overføring mellom institusjoner innad i et helseforetakved reise for å delta ved behandling av krav om abort for abortnemnda eller abortklagenemnda, jf. [abortloven §§ 14](lov/2024-12-20-96/§14) og [21](lov/2024-12-20-96/§21).
+Det skal ikke betales egenandel
+
+1. for ledsager
+2. for barn under 16 år
+3. ved reise for å undersøke eller behandle yrkesskade eller krigsskade
+4. ved reise for å undersøke, behandle og kontrollere en allmennfarlig smittsom sykdom
+5. ved reise for å legges inn i tvungent psykisk helsevern
+6. ved reise for tvungent psykisk helsevern uten døgnopphold i institusjon
+7. ved pårørendes reise til psykiatrisk poliklinikk for barn og ungdom som oppfyller vilkårene i [§ 19 første ledd bokstav a](forskrift/2015-06-25-793/§19/ledd/1/bokstav/a)
+8. ved reise for donor ved transplantasjon
+9. ved overføring mellom institusjoner innad i et helseforetak
+10. ved reise for å delta ved behandling av krav om abort for abortnemnda eller abortklagenemnda, jf. [abortloven §§ 14](lov/2024-12-20-96/§14) og [21](lov/2024-12-20-96/§21).
 
 > Endret ved [forskrifter 12 sep 2016 nr. 1056](forskrift/2016-09-12-1056) (i kraft 1 okt 2016), [16 sep 2016 nr. 1070](forskrift/2016-09-16-1070) (i kraft 1 okt 2016), [25 aug 2017 nr. 1286](forskrift/2017-08-25-1286), [19 des 2017 nr. 2255](forskrift/2017-12-19-2255) (i kraft 1 jan 2018), [9 des 2019 nr. 1706](forskrift/2019-12-09-1706) (i kraft 1 jan 2020), [15 des 2022 nr. 2233](forskrift/2022-12-15-2233) (i kraft 1 jan 2023), [19 des 2023 nr. 2234](forskrift/2023-12-19-2234) (i kraft 1 jan 2024), [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025), [30 april 2025 nr. 772](forskrift/2025-04-30-772) (i kraft 1 juni 2025). **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
@@ -326,6 +391,10 @@ Forskriften trer i kraft 1. oktober 2016. Fra samme tid oppheves [forskrift 4. j
 
 ### § 29. Endringer i andre forskrifter
 
-Følgende endringer gjøres i andre forskrifter:1. [Forskrift 1. desember 2000 nr. 1217](forskrift/2000-12-01-1217) om barns opphold i helseinstitusjon [§ 10](forskrift/2000-12-01-1217/§10) skal lyde: – – –2. [Forskrift 18. april 1997 nr. 334](forskrift/1997-04-18-334) om egenandelstak 1 [§ 3](forskrift/1997-04-18-334/§3) andre ledd skal lyde: – – –
+Følgende endringer gjøres i andre forskrifter:
+
+1\. [Forskrift 1. desember 2000 nr. 1217](forskrift/2000-12-01-1217) om barns opphold i helseinstitusjon [§ 10](forskrift/2000-12-01-1217/§10) skal lyde: – – –
+
+2\. [Forskrift 18. april 1997 nr. 334](forskrift/1997-04-18-334) om egenandelstak 1 [§ 3](forskrift/1997-04-18-334/§3) andre ledd skal lyde: – – –
 
 > Endret ved [forskrift 12 sep 2016 nr. 1056](forskrift/2016-09-12-1056) (i kraft 1 okt 2016).

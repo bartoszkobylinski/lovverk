@@ -15,7 +15,7 @@ xml_hash: "86bfdfccda43cfe67b4348fe1cbc5596a9dd73b4e3a9e84806b2b641c2f21f68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,17 @@ Foretaket kan ikke være organisert slik at en eller flere deltakere har et ubeg
 
 Søknad om tilskudd må leveres til Norsk filminstitutt før produksjonens oppstart i Norge.
 
-Søknaden må inneholde grunnleggende informasjon om produksjonen og de opplysninger som trengs for å kunne behandle søknaden. Som et minimum skal søknaden inneholde følgende informasjon:navn på ansvarlig søker,dokumentasjon på avtale om filmretten,beskrivelse av handling, innhold og sjanger for produksjonen det søkes midler til,totalbudsjett for produksjonen,budsjett for opptakene i Norge,finansieringsplan som spesifiserer alle private og offentlige finansieringskilder,produksjonsplan for opptakene i Norge med dato for opptaksstart og sluttføring,liste over all kunstnerisk og teknisk stab som er tilknyttet produksjonen i Norge, ogegenvurdering av kvalifiseringstest i henhold til [§ 6](forskrift/2015-12-16-1684/§6) andre ledd.
+Søknaden må inneholde grunnleggende informasjon om produksjonen og de opplysninger som trengs for å kunne behandle søknaden. Som et minimum skal søknaden inneholde følgende informasjon:
+
+1. navn på ansvarlig søker,
+2. dokumentasjon på avtale om filmretten,
+3. beskrivelse av handling, innhold og sjanger for produksjonen det søkes midler til,
+4. totalbudsjett for produksjonen,
+5. budsjett for opptakene i Norge,
+6. finansieringsplan som spesifiserer alle private og offentlige finansieringskilder,
+7. produksjonsplan for opptakene i Norge med dato for opptaksstart og sluttføring,
+8. liste over all kunstnerisk og teknisk stab som er tilknyttet produksjonen i Norge, og
+9. egenvurdering av kvalifiseringstest i henhold til [§ 6](forskrift/2015-12-16-1684/§6) andre ledd.
 
 Norsk filminstitutt skal utarbeide utfyllende retningslinjer for krav til søknad.
 
@@ -64,7 +74,13 @@ Norsk filminstitutt skal utarbeide utfyllende retningslinjer for krav til søkna
 
 ## § 6. Vilkår for tilskudd
 
-En produksjon må oppfylle følgende vilkår for å kunne motta tilskudd fra insentivordningen:Produksjonen skal produseres helt eller delvis i Norge.Produksjonen må minimum ha et totalt produksjonsbudsjett på NOK 25 mill. for spillefilm, NOK 10 mill. for dokumentarfilm, NOK 10 mill. per episode for dramaserier og NOK 5 mill. per episode for dokumentarserier.Produksjonen må ha et budsjett som viser et minimumsforbruk av godkjente kostnader i Norge på NOK 4 mill.Produksjonen må dokumentere en finansieringsplan som består av minimum 30 % internasjonal finansiering på søknadstidspunktet.Produksjonen må kunne dokumentere at den har avtale om internasjonal distribusjon. Intensjonsavtale om internasjonal distribusjon kan etter vurdering godtas.
+En produksjon må oppfylle følgende vilkår for å kunne motta tilskudd fra insentivordningen:
+
+1. Produksjonen skal produseres helt eller delvis i Norge.
+2. Produksjonen må minimum ha et totalt produksjonsbudsjett på NOK 25 mill. for spillefilm, NOK 10 mill. for dokumentarfilm, NOK 10 mill. per episode for dramaserier og NOK 5 mill. per episode for dokumentarserier.
+3. Produksjonen må ha et budsjett som viser et minimumsforbruk av godkjente kostnader i Norge på NOK 4 mill.
+4. Produksjonen må dokumentere en finansieringsplan som består av minimum 30 % internasjonal finansiering på søknadstidspunktet.
+5. Produksjonen må kunne dokumentere at den har avtale om internasjonal distribusjon. Intensjonsavtale om internasjonal distribusjon kan etter vurdering godtas.
 
 For å få tilskudd etter insentivordningen må produksjonen oppfylle minimumskravet i kvalifiseringstesten, jf. vedlegg 1 til denne forskriften.
 
@@ -146,7 +162,11 @@ Hovedproduksjonsforetaket plikter å oppbevare regnskapet jf. [§ 8](forskrift/2
 
 ## § 17. Sanksjoner
 
-Norsk filminstitutt kan stanse utbetaling av tilskudd eller kreve tilbakebetaling av utbetalt tilskudd dersomtilskuddsmottaker har brutt opplysningspliktentilskuddet ikke blir benyttet i henhold til forutsetningene fastsatt i vedtaksbrevettilskuddsmottaker på annen vesentlig måte har brutt bestemmelsene i denne forskrift eller bestemmelser/vilkår fastsatt av Norsk filminstitutt med hjemmel i denne forskrift.
+Norsk filminstitutt kan stanse utbetaling av tilskudd eller kreve tilbakebetaling av utbetalt tilskudd dersom
+
+1. tilskuddsmottaker har brutt opplysningsplikten
+2. tilskuddet ikke blir benyttet i henhold til forutsetningene fastsatt i vedtaksbrevet
+3. tilskuddsmottaker på annen vesentlig måte har brutt bestemmelsene i denne forskrift eller bestemmelser/vilkår fastsatt av Norsk filminstitutt med hjemmel i denne forskrift.
 
 Ved krav om tilbakebetaling kan det fastsettes rente etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. for det beløp som kreves tilbakebetalt.
 

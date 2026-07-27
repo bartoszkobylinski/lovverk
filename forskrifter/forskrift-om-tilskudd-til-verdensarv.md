@@ -28,7 +28,11 @@ Tilskuddsordningen skal bidra til å oppfylle Norges forpliktelser etter Unescos
 
 ## § 2. Definisjoner
 
-I forskriften menes med*verdensarv:* et område som er innskrevet på Unescos liste over verdens kultur- og naturarv (verdensarvlisten)*tentativ liste:* en oversikt over områder et land vil vurdere å nominere til oppføring på verdensarvlisten*buffersone:* et område som er opprettet for å gi verdensarvområdet ekstra beskyttelse, og som omgir verdensområdet og skal omfatte verdensarvområdets umiddelbare omgivelser, viktige ut- og innsyn, og andre områder eller kjennetegn som har en viktig funksjon som støtte for og vern av området.
+I forskriften menes med
+
+1. *verdensarv:* et område som er innskrevet på Unescos liste over verdens kultur- og naturarv (verdensarvlisten)
+2. *tentativ liste:* en oversikt over områder et land vil vurdere å nominere til oppføring på verdensarvlisten
+3. *buffersone:* et område som er opprettet for å gi verdensarvområdet ekstra beskyttelse, og som omgir verdensområdet og skal omfatte verdensarvområdets umiddelbare omgivelser, viktige ut- og innsyn, og andre områder eller kjennetegn som har en viktig funksjon som støtte for og vern av området.
 
 ## § 3. Hva det kan gis tilskudd til
 
@@ -40,25 +44,58 @@ Tilskudd kan gis til prosjekter og tiltak som er knyttet til områdene i Norge s
 
 Søknad om tilskudd skal sendes til fylkeskommunen eller Sametinget for samisk kulturarv. Unntak er for verdensarvområdet Urnes, for søknader om tiltak som gjelder flere verdensarvområder eller søknader som gjelder områder som er oppført på tentativ liste, der søknad skal sendes til Riksantikvaren. Søknadsfristen er 1. november hvert år.
 
-Søknaden skal angisøkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktpersoninformasjon om området og prosjektet det søkes tilskudd tilhvilke arbeider som planlegges gjennomført, hvordan de planlegges gjennomført og hvilke hensyn som skal ivaretasplan for gjennomføringen av tiltaket eller aktiviteten med virkemidler, samarbeidspartnere og fremdriftsplankostnadsoverslag og budsjettom og hvor mye støtte som er mottatt fra offentlig instans de siste to årene, og eventuelle søknader til eller tilskudd fra offentlig instans inneværende årom søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
+Søknaden skal angi
+
+1. søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktperson
+2. informasjon om området og prosjektet det søkes tilskudd til
+3. hvilke arbeider som planlegges gjennomført, hvordan de planlegges gjennomført og hvilke hensyn som skal ivaretas
+4. plan for gjennomføringen av tiltaket eller aktiviteten med virkemidler, samarbeidspartnere og fremdriftsplan
+5. kostnadsoverslag og budsjett
+6. om og hvor mye støtte som er mottatt fra offentlig instans de siste to årene, og eventuelle søknader til eller tilskudd fra offentlig instans inneværende år
+7. om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
 
 ## § 5. Rett til å innhente ytterligere opplysninger. Søkers opplysningsplikt
 
-Tilskuddsgiver etter [§ 4](forskrift/2021-08-13-2514/§4) kan, i tillegg til opplysningene i søknadenkreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevereforeta befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Tilskuddsgiver etter [§ 4](forskrift/2021-08-13-2514/§4) kan, i tillegg til opplysningene i søknaden
+
+1. kreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. foreta befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 6. Hvordan tilskudd fastsettes
 
 Tilskuddsgiver etter [§ 4](forskrift/2021-08-13-2514/§4) avgjør om det skal gis tilskudd og fastsetter tilskuddsbeløpet for ett år av gangen, etter en skjønnsmessig vurdering av i hvilken grad tiltaket bidrar til å oppfylle formålet med tilskuddsordningen.
 
-Ved tildelingen skal det legges vekt påmål og prioriteringer i forvaltningsplan for verdensarvområdet med tilhørende handlingsplankapasitet, kompetanse og annen finansering til å gjennomføre tiltakettiltak og prosjekter som bidrar til å bevare de fremstående universelle verdiene som er definert i innskrivingsdokumentet gjennom istandsetting og bærekraftig bruktiltak og prosjekter som bidrar til å styrke forvaltningen av verdensarventiltak og prosjekter som bidrar til å stimulere lokalt engasjement og eierskaptiltak og prosjekter som bidrar til å formidle verdensarvverdiene og kunnskap om verdensarv generelttiltak og prosjekter som bidrar til å fremme kompetanse om håndverksteknikker, istandsetting, skjøtsel, tradisjonell bruk med videretiltak og prosjekter som bidrar til bærekraftig reiseliv og næringsvirksomhet som styrker verdensarvverdienetiltak og prosjekter som bidrar til forskning og ny kunnskap om verdensarventiltak og prosjekter som bidrar til risikohåndtering, slik som brannsikring og beredskap for å sikre verdensarven mot uønskede klima-, natur- og miljøpåvirkninger.
+Ved tildelingen skal det legges vekt på
+
+1. mål og prioriteringer i forvaltningsplan for verdensarvområdet med tilhørende handlingsplan
+2. kapasitet, kompetanse og annen finansering til å gjennomføre tiltaket
+3. tiltak og prosjekter som bidrar til å bevare de fremstående universelle verdiene som er definert i innskrivingsdokumentet gjennom istandsetting og bærekraftig bruk
+4. tiltak og prosjekter som bidrar til å styrke forvaltningen av verdensarven
+5. tiltak og prosjekter som bidrar til å stimulere lokalt engasjement og eierskap
+6. tiltak og prosjekter som bidrar til å formidle verdensarvverdiene og kunnskap om verdensarv generelt
+7. tiltak og prosjekter som bidrar til å fremme kompetanse om håndverksteknikker, istandsetting, skjøtsel, tradisjonell bruk med videre
+8. tiltak og prosjekter som bidrar til bærekraftig reiseliv og næringsvirksomhet som styrker verdensarvverdiene
+9. tiltak og prosjekter som bidrar til forskning og ny kunnskap om verdensarven
+10. tiltak og prosjekter som bidrar til risikohåndtering, slik som brannsikring og beredskap for å sikre verdensarven mot uønskede klima-, natur- og miljøpåvirkninger.
 
 ## § 7. Tilskuddsbrevet
 
-Vedtak om tilskudd skal meddeles søkeren i et tilskuddsbrev. Tilskuddsbrevet skal opplyse omtilskuddsbeløpethva tilskuddet skal brukes til, utbetalingsordningen, og vilkår for tilskuddetkrav til rapportering og dokumentasjon etter [§ 10](forskrift/2021-08-13-2514/§10)tilskuddsmottakerens plikter etter [§ 8](forskrift/2021-08-13-2514/§8)reaksjoner dersom mottakeren ikke opptrer i samsvar med kravene i forskriften eller vilkårene for tilskuddet.
+Vedtak om tilskudd skal meddeles søkeren i et tilskuddsbrev. Tilskuddsbrevet skal opplyse om
+
+1. tilskuddsbeløpet
+2. hva tilskuddet skal brukes til, utbetalingsordningen, og vilkår for tilskuddet
+3. krav til rapportering og dokumentasjon etter [§ 10](forskrift/2021-08-13-2514/§10)
+4. tilskuddsmottakerens plikter etter [§ 8](forskrift/2021-08-13-2514/§8)
+5. reaksjoner dersom mottakeren ikke opptrer i samsvar med kravene i forskriften eller vilkårene for tilskuddet.
 
 ## § 8. Tilskuddsmottakerens plikter
 
-Tilskuddsmottaker skalinformere tilskuddsgiver etter [§ 4](forskrift/2021-08-13-2514/§4) om endrede forhold, som tidsramme eller omfang, som er av betydning for tiltaketgjøre eventuelle samarbeidspartnere kjent med vilkårene for tilskuddet,oppbevare regnskap med bilag i 3 år etter siste utbetaling.
+Tilskuddsmottaker skal
+
+1. informere tilskuddsgiver etter [§ 4](forskrift/2021-08-13-2514/§4) om endrede forhold, som tidsramme eller omfang, som er av betydning for tiltaket
+2. gjøre eventuelle samarbeidspartnere kjent med vilkårene for tilskuddet,
+3. oppbevare regnskap med bilag i 3 år etter siste utbetaling.
 
 Tilskuddsmottakere skal bare bruke tilskuddet til aktiviteter tildelingsvedtaket omfatter. Tilskuddsmottakere som driver økonomisk aktivitet, skal føre separat regnskap for de aktivitetene det ytes tilskudd til.
 
@@ -68,13 +105,22 @@ Tilskudd betales som hovedregel ut etterskuddsvis for dokumenterte utgifter på 
 
 ## § 10. Rapporteringsplikter
 
-Etter at tiltaket er gjennomført, skal tilskuddsmottaker levere en sluttrapport til tilskuddsgiver etter [§ 4](forskrift/2021-08-13-2514/§4), som påser at arbeidene er utført i samsvar med vilkårene for tilskuddet. Sluttrapporten skal foreligge senest tre måneder etter at tiltaket er gjennomført, og skal inneholderegnskapsoversikt over kostnader og finansiering, oppsatt i henhold til omsøkt budsjett, og hvor avvik er forklartorientering om tiltaket er gjennomført i henhold til vilkår for tilskuddetredegjørelse for hele prosjektet og rapport for utført arbeiddokumentasjon av tiltaket fra før, under og etter arbeidet.
+Etter at tiltaket er gjennomført, skal tilskuddsmottaker levere en sluttrapport til tilskuddsgiver etter [§ 4](forskrift/2021-08-13-2514/§4), som påser at arbeidene er utført i samsvar med vilkårene for tilskuddet. Sluttrapporten skal foreligge senest tre måneder etter at tiltaket er gjennomført, og skal inneholde
+
+1. regnskapsoversikt over kostnader og finansiering, oppsatt i henhold til omsøkt budsjett, og hvor avvik er forklart
+2. orientering om tiltaket er gjennomført i henhold til vilkår for tilskuddet
+3. redegjørelse for hele prosjektet og rapport for utført arbeid
+4. dokumentasjon av tiltaket fra før, under og etter arbeidet.
 
 Det kan gjøres unntak fra kravet om frist for sluttrapport dersom særlige grunner taler for det.
 
 ## § 11. Kontroll med betingelser og vilkår – rett til opplysninger
 
-Tilskuddsgiver etter [§ 4](forskrift/2021-08-13-2514/§4) kan kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt gjennom åkreve ytterligere opplysninger og dokumentasjon som er nødvendig for kontrolleninnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenegjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
+Tilskuddsgiver etter [§ 4](forskrift/2021-08-13-2514/§4) kan kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt gjennom å
+
+1. kreve ytterligere opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. gjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
 
 ## § 12. Kontroll med fylkeskommunen og Sametinget som tilskuddsforvalter
 

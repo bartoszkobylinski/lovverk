@@ -15,7 +15,7 @@ xml_hash: "a495b03078c8f3b312cdf23c8b1213d30db2be60592e5f374f7681929d2625db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,11 @@ Badsturøkt kjøtt på namdalsk vis er kjøtt av sau, lam, gris og elg som er sa
 
 *2. Råvare*
 
-Som råvare til Badsturøkt kjøtt på namdalsk vis kan det brukes:lår, bog og sider av sau og lamskinke, kam, side, bog og nakke av grisbog og sider av elg.
+Som råvare til Badsturøkt kjøtt på namdalsk vis kan det brukes:
+
+1. lår, bog og sider av sau og lam
+2. skinke, kam, side, bog og nakke av gris
+3. bog og sider av elg.
 
 Kjøtt av vær og råne, og kjøtt med bloduttredelser skal ikke brukes.
 

@@ -24,7 +24,15 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften inneholder nærmere bestemmelser om beregning av lønnsveksten som skal benyttes ved reguleringen avgrunnbeløpet etter [folketrygdloven § 1-4](lov/1997-02-28-19/§1-4) første ledd,restpensjon etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) første ledd,pensjon under utbetaling etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) andre ledd,satsene for minste pensjonsnivå etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) tredje ledd,pensjonsbeholdning etter [folketrygdloven § 20-18](lov/1997-02-28-19/§20-18) første ledd,pensjon under utbetaling etter [folketrygdloven § 20-18](lov/1997-02-28-19/§20-18) andre ledd ogsatsene for garantipensjon etter [folketrygdloven § 20-18](lov/1997-02-28-19/§20-18) tredje ledd.
+Forskriften inneholder nærmere bestemmelser om beregning av lønnsveksten som skal benyttes ved reguleringen av
+
+1. grunnbeløpet etter [folketrygdloven § 1-4](lov/1997-02-28-19/§1-4) første ledd,
+2. restpensjon etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) første ledd,
+3. pensjon under utbetaling etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) andre ledd,
+4. satsene for minste pensjonsnivå etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) tredje ledd,
+5. pensjonsbeholdning etter [folketrygdloven § 20-18](lov/1997-02-28-19/§20-18) første ledd,
+6. pensjon under utbetaling etter [folketrygdloven § 20-18](lov/1997-02-28-19/§20-18) andre ledd og
+7. satsene for garantipensjon etter [folketrygdloven § 20-18](lov/1997-02-28-19/§20-18) tredje ledd.
 
 ## § 2. Lønnsvekst i reguleringsåret og avvik mellom forventet og faktisk lønnsutvikling siste to år
 

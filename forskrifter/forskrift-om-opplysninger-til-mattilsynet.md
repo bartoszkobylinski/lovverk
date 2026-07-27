@@ -32,9 +32,17 @@ Forskriften gjelder ikke for eier av vannforsyningssystem, jf. [forskrift 4. des
 
 ## § 2. Opplysningsplikt
 
-Virksomheter eller personer som Mattilsynet fører tilsyn med og som har organisasjonsnummer i henhold til [lov 3. juni 1994 nr. 15](lov/1994-06-03-15) om Enhetsregister, skal etter forespørsel fra Mattilsynet oppgi:navn/foretaksnavn,navn på driftsansvarlig person, ogorganisasjonsnummer.
+Virksomheter eller personer som Mattilsynet fører tilsyn med og som har organisasjonsnummer i henhold til [lov 3. juni 1994 nr. 15](lov/1994-06-03-15) om Enhetsregister, skal etter forespørsel fra Mattilsynet oppgi:
 
-Virksomheter eller personer som Mattilsynet fører tilsyn med og som ikke har organisasjonsnummer i henhold til [lov 3. juni 1994 nr. 15](lov/1994-06-03-15) om Enhetsregister, skal etter forespørsel fra Mattilsynet oppgi:navn,adresse, ogfødselsdato.
+1. navn/foretaksnavn,
+2. navn på driftsansvarlig person, og
+3. organisasjonsnummer.
+
+Virksomheter eller personer som Mattilsynet fører tilsyn med og som ikke har organisasjonsnummer i henhold til [lov 3. juni 1994 nr. 15](lov/1994-06-03-15) om Enhetsregister, skal etter forespørsel fra Mattilsynet oppgi:
+
+1. navn,
+2. adresse, og
+3. fødselsdato.
 
 ## § 3. Ikrafttredelse
 

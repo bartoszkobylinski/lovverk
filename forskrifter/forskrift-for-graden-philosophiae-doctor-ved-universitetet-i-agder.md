@@ -15,7 +15,7 @@ xml_hash: "10efabdc89cc3daf823981e6ba0260f78d919e3aeca697113878bd2c970ad84a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,12 @@ Ph.d.-utdanningen ved Universitetet i Agder skal kvalifisere for forskningsvirks
 
 Ph.d.-utdanningens viktigste komponent er et selvstendig forskningsarbeid eller kombinert forsknings- og utviklingsarbeid som gjennomføres under aktiv veiledning.
 
-Ph.d.-utdanningen består av:Opplæringsdelvitenskapelig avhandlingprøveforelesning over oppgitt emneoffentlig forsvar av avhandlingen (disputas).
+Ph.d.-utdanningen består av:
+
+- Opplæringsdel
+- vitenskapelig avhandling
+- prøveforelesning over oppgitt emne
+- offentlig forsvar av avhandlingen (disputas).
 
 ### § 3. Ansvaret for doktorgradsutdanningen
 
@@ -70,7 +75,21 @@ For opptak til ph.d.-utdanningen må søkeren normalt ha utdanning som tilsvarer
 
 Det skal søkes om opptak til ph.d.-utdanningen senest innen tre (3) måneder etter oppstart av det forskningsprosjektet som skal lede frem til ph.d.-graden. Dersom det gjenstår mindre enn ett (1) års fulltidsarbeid med forskningsprosjektet ved søknadstidspunkt, skal søkeren avvises, jf. pkt. 5.3.
 
-Søknaden bør inneholde:Dokumentasjon for den utdanning som skal ligge til grunn for opptaketProsjektbeskrivelse som omfatter:faglig redegjørelse for prosjektet, herunder tema, problemstillinger samt valg av teori og metodefremdriftsplanfinansieringdokumentasjon av spesielle behov for faglige og materielle ressursereventuelle planer for opphold ved annen institusjonfaglig formidlingopplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.Plan for opplæringsdelen, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverket.Forslag på minst én veileder, samt angivelse av tilknytning til aktivt forskningsmiljøRedegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig være innhentet og legges ved søknaden.
+Søknaden bør inneholde:
+
+- Dokumentasjon for den utdanning som skal ligge til grunn for opptaket
+- Prosjektbeskrivelse som omfatter:
+
+  - faglig redegjørelse for prosjektet, herunder tema, problemstillinger samt valg av teori og metode
+  - fremdriftsplan
+  - finansiering
+  - dokumentasjon av spesielle behov for faglige og materielle ressurser
+  - eventuelle planer for opphold ved annen institusjon
+  - faglig formidling
+  - opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
+- Plan for opplæringsdelen, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverket.
+- Forslag på minst én veileder, samt angivelse av tilknytning til aktivt forskningsmiljø
+- Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig være innhentet og legges ved søknaden.
 
 Søknad skal sendes fakultetet på fastsatt skjema.
 
@@ -90,7 +109,13 @@ Vedtak om opptak baseres på en samlet vurdering av søknaden. Universitetet kan
 
 I vedtaket skal minst én veileder oppnevnes, ansvaret for håndtering av andre behov som er skissert i søknaden plasseres, og avtaleperioden fastsettes med startdato og sluttdato.
 
-Opptak kan nektes om:avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingende immaterialrettslige avtaler som er inngått er så urimelige at universitetet ikke bør medvirke i prosjektetsøkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. pkt. 5.1fakultetet ikke har veiledningskapasitet innenfor søkerens fagområdesøkeren ikke har en veldokumentert finansiering, dvs normalt være fullfinansiert i samsvar med kostnadene spesifisert i budsjettdokumentet.
+Opptak kan nektes om:
+
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+- de immaterialrettslige avtaler som er inngått er så urimelige at universitetet ikke bør medvirke i prosjektet
+- søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. pkt. 5.1
+- fakultetet ikke har veiledningskapasitet innenfor søkerens fagområde
+- søkeren ikke har en veldokumentert finansiering, dvs normalt være fullfinansiert i samsvar med kostnadene spesifisert i budsjettdokumentet.
 
 5.4. *Avtaleperiode*
 
@@ -116,7 +141,12 @@ Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt el
 
 *Tvungen avslutning:*
 
-Fakultetsstyret selv kan vedta tvungen avslutning ved vitenskapelig uredelighet eller når en kandidat i vesentlig grad ikke oppfyller sine forpliktelser etter doktorgradsavtalen, jf. [lov om universiteter og høyskoler § 4-13](lov/2005-04-01-15/§4-13). Som vesentlig brudd på forpliktelser etter doktorgradsavtalen regnes blant annet:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 9](forskrift/2022-02-01-1149/§9).Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet.Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen.
+Fakultetsstyret selv kan vedta tvungen avslutning ved vitenskapelig uredelighet eller når en kandidat i vesentlig grad ikke oppfyller sine forpliktelser etter doktorgradsavtalen, jf. [lov om universiteter og høyskoler § 4-13](lov/2005-04-01-15/§4-13). Som vesentlig brudd på forpliktelser etter doktorgradsavtalen regnes blant annet:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 9](forskrift/2022-02-01-1149/§9).
+- Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet.
+- Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen.
 
 ### § 6. Ph.d.-avtalen
 
@@ -220,7 +250,12 @@ For ph.d.-kandidater uten arbeidsgiver, skal tilsvarende meldeplikt nedfelles i 
 
 12.1. *Grunnlag for bedømmelse for avhandling*
 
-Ph.d.-graden tildeles på grunnlag av:godkjent gjennomføring av opplæringsdelengodkjent vitenskapelig avhandlinggodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av:
+
+- godkjent gjennomføring av opplæringsdelen
+- godkjent vitenskapelig avhandling
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas).
 
 12.2. *Tidsbruk fra innlevering til disputas*
 
@@ -234,7 +269,13 @@ Det er hovedveileders ansvar å gjøre ph.d.-administrasjonen ved fakultetet opp
 
 Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent.
 
-Som vedlegg til søknaden skal følge:Avhandlingen i godkjent format og i henhold til fakultetets bestemmelser i den form og det antall eksemplarer fakultetet har bestemt.Dokumentasjon av nødvendige tillatelser, jf. pkt. 5.1.Medforfattererklæringer hvor dette er påkrevd i henhold til pkt. 10.1.Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annet lærested.
+Som vedlegg til søknaden skal følge:
+
+- Avhandlingen i godkjent format og i henhold til fakultetets bestemmelser i den form og det antall eksemplarer fakultetet har bestemt.
+- Dokumentasjon av nødvendige tillatelser, jf. pkt. 5.1.
+- Medforfattererklæringer hvor dette er påkrevd i henhold til pkt. 10.1.
+- Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annet lærested.
 
 13.2. *Behandling av søknaden*
 
@@ -246,7 +287,12 @@ Fakultetet selv oppnevner en sakkyndig komité på minst tre medlemmer som skal 
 
 Habilitetsreglene i [forvaltningsloven § 6](lov/1967-02-10/§6) gjelder for komiteens medlemmer og eventuelt koordinator. Habiliteten skal vurderes i forhold til ph.d.-kandidaten og veilederne.
 
-Bedømmelseskomiteen skal normalt settes sammen slik at:begge kjønn er representertminst ett av medlemmene er uten tilknytning til Universitetet i Agderminst ett av medlemmene ikke har hovedstilling ved norske institusjoneralle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+- begge kjønn er representert
+- minst ett av medlemmene er uten tilknytning til Universitetet i Agder
+- minst ett av medlemmene ikke har hovedstilling ved norske institusjoner
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt. Komiteens sammensetning skal begrunnes. Begrunnelsen skal vise hvordan komiteen samlet dekker avhandlingens fagfelt.
 

@@ -44,7 +44,10 @@ I forbindelse med innvilgelse av unntak etter 1. ledd, underretter Luftfartstils
 
 Norske myndigheter anerkjenner unntak som en annen EU/EØS-stat har gjort for luftfartøy registrert i denne statens register.
 
-Luftfartstilsynet kan, etter søknad, i enkelttilfeller gi tillatelse til at luftfartøy som ikke kan opereres på grunnlag av bestemmelser i denne forskriften, likevel opereres fra norske lufthavner. Slike unntak er begrenset til:luftfartøyer, hvis bruk er så spesiell at det ville være urimelig å nekte et midlertidig unntak.Luftfartøy som utfører ikke-inntektsbringende flyvninger med henblikk på endring, reparasjon eller vedlikehold.
+Luftfartstilsynet kan, etter søknad, i enkelttilfeller gi tillatelse til at luftfartøy som ikke kan opereres på grunnlag av bestemmelser i denne forskriften, likevel opereres fra norske lufthavner. Slike unntak er begrenset til:
+
+1. luftfartøyer, hvis bruk er så spesiell at det ville være urimelig å nekte et midlertidig unntak.
+2. Luftfartøy som utfører ikke-inntektsbringende flyvninger med henblikk på endring, reparasjon eller vedlikehold.
 
 > Endret ved [forskrift 13 okt 2008 nr. 1103](forskrift/2008-10-13-1103).
 

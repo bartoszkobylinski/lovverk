@@ -34,7 +34,16 @@ Som sammenlignende reklame anses enhver reklame som direkte eller indirekte vise
 
 ## § 3.
 
-Sammenlignende reklame er bare tillatt forsåvidt gjelder sammenligningen når følgende vilkår er oppfyltden ikke er villedendeden sammenligner varer eller tjenester som dekker samme behov eller er beregnet på samme formålden sammenligner objektivt én eller flere egenskaper ved disse varene og tjenestene som er konkrete, relevante, dokumenterbare og representative, herunder prisenden bringer ikke i vanry eller taler nedsettende om en konkurrents varemerker, handelsnavn, andre kjennetegn, varer, tjenester, virksomhet eller situasjonvarer med geografisk opprinnelsesbetegnelse kan kun sammenlignes med varer med samme betegnelseden drar ikke urimelig fordel av den anseelse som er knyttet til en konkurrents varemerker, handelsnavn eller andre kjennetegn, eller av konkurrerende varers geografiske opprinnelsesbetegnelse (renommésnylting)den framstiller ikke varer eller tjenester som en etterligning eller kopi av varer eller tjenester med et beskyttet varemerke eller handelsnavnden forårsaker ikke forveksling blant næringsdrivende, mellom annonsøren og en konkurrent eller mellom annonsørens og en konkurrents varemerker, handelsnavn, andre kjennetegn, varer eller tjenester.
+Sammenlignende reklame er bare tillatt forsåvidt gjelder sammenligningen når følgende vilkår er oppfylt
+
+1. den ikke er villedende
+2. den sammenligner varer eller tjenester som dekker samme behov eller er beregnet på samme formål
+3. den sammenligner objektivt én eller flere egenskaper ved disse varene og tjenestene som er konkrete, relevante, dokumenterbare og representative, herunder prisen
+4. den bringer ikke i vanry eller taler nedsettende om en konkurrents varemerker, handelsnavn, andre kjennetegn, varer, tjenester, virksomhet eller situasjon
+5. varer med geografisk opprinnelsesbetegnelse kan kun sammenlignes med varer med samme betegnelse
+6. den drar ikke urimelig fordel av den anseelse som er knyttet til en konkurrents varemerker, handelsnavn eller andre kjennetegn, eller av konkurrerende varers geografiske opprinnelsesbetegnelse (renommésnylting)
+7. den framstiller ikke varer eller tjenester som en etterligning eller kopi av varer eller tjenester med et beskyttet varemerke eller handelsnavn
+8. den forårsaker ikke forveksling blant næringsdrivende, mellom annonsøren og en konkurrent eller mellom annonsørens og en konkurrents varemerker, handelsnavn, andre kjennetegn, varer eller tjenester.
 
 > Endret ved [forskrift 23 okt 2009 nr. 1301](forskrift/2009-10-23-1301).
 

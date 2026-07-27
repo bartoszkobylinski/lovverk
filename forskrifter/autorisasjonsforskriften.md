@@ -62,7 +62,10 @@ Autorisert virksomhet skal kunne dokumentere kompetanse på prosjektering av pri
 
 Autorisert virksomhet skal ha minst en heltidsansatt som oppfyller kravene til kvalifisert person.
 
-Kvalifisert person skal hautdanning tilsvarende eksamen fra 2-årig fagskole innen utdanningsprogram elektro med fordypningsmodul i elektroniske kommunikasjonsfagett års relevant praksis.
+Kvalifisert person skal ha
+
+1. utdanning tilsvarende eksamen fra 2-årig fagskole innen utdanningsprogram elektro med fordypningsmodul i elektroniske kommunikasjonsfag
+2. ett års relevant praksis.
 
 For å hindre at autorisert virksomhet må innstille, kan Nasjonal kommunikasjonsmyndighet gjøre unntak fra krav om kvalifisert person for en avgrenset periode.
 
@@ -86,7 +89,16 @@ Hvis krav som følger av forskrift ikke er oppfylt, skal eier og bruker informer
 
 Det kreves dokumentasjon av nettet, med unntak av nett i bolig som bare omfatter én husstand. Autorisert virksomhet som har utført installasjon eller vedlikehold skal utarbeide dokumentasjon for utført arbeid, eventuelt oppdatere eksisterende dokumentasjon.
 
-Dokumentasjonen skal bekrefte at nettet er bygget på en faglig forsvarlig måte og omfattegeografisk utstrekninggrensesnitt mellom offentlige og private ekomnettethvert nettermineringspunktmerking av kabler og utstyrtiltak for elsikkerhet og jordingtiltak mot atmosfæriske utladninger eller koblede effekter fra nærført elektrisk anleggtiltak for å sikre at nettet oppfyller grunnleggende EMC-kravhvilke standarder som er benyttet ved installasjonen.
+Dokumentasjonen skal bekrefte at nettet er bygget på en faglig forsvarlig måte og omfatte
+
+1. geografisk utstrekning
+2. grensesnitt mellom offentlige og private ekomnett
+3. ethvert nettermineringspunkt
+4. merking av kabler og utstyr
+5. tiltak for elsikkerhet og jording
+6. tiltak mot atmosfæriske utladninger eller koblede effekter fra nærført elektrisk anlegg
+7. tiltak for å sikre at nettet oppfyller grunnleggende EMC-krav
+8. hvilke standarder som er benyttet ved installasjonen.
 
 Autorisert virksomhet skal utstede en samsvarserklæring som gir en beskrivelse av arbeidet som er utført, og hvilke forskrifter, standarder og tekniske spesifikasjoner som er fulgt. Samsvarserklæring skal leveres til netteier sammen med dokumentasjon. Nasjonal kommunikasjonsmyndighet har utarbeidet et skjema for samsvarserklæring.
 
@@ -146,6 +158,10 @@ Det kan innvilges autorisasjon for kabel-TV-installatør i en periode på to år
 
 Det kreves autorisasjon for kabel-TV-installatør for virksomhet som installerer og vedlikeholder kabel-TV-nett bygget med koaksialkabelteknikk eller annen teknologi beregnet for overføring av punkt-til-multipunkt-signaler (kringkasting).
 
-Kvalifisert person skal hatekniske kunnskaper tilsvarende de som kreves ved eksamen fra linje for serviceelektroniker eller linje for telekommunikasjonsmontør ved videregående skoleeksamen fra kurs i kabel-TV-teknikk eller tilsvarende teoretisk kompetanseett års relevant praksis.
+Kvalifisert person skal ha
+
+1. tekniske kunnskaper tilsvarende de som kreves ved eksamen fra linje for serviceelektroniker eller linje for telekommunikasjonsmontør ved videregående skole
+2. eksamen fra kurs i kabel-TV-teknikk eller tilsvarende teoretisk kompetanse
+3. ett års relevant praksis.
 
 Virksomhet som innvilges autorisasjon som kabel-TV-installatør etter denne overgangsbestemmelsen, beholder autorisasjonen uten å oppfylle kravene i [§ 5](forskrift/2011-12-07-1206/§5) annet ledd forutsatt at kvalifisert person eller organisasjonsnummer ikke endres.

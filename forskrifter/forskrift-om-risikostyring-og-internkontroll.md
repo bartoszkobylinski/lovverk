@@ -26,7 +26,21 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Forskriften gjelder forRegulerte markederVerdipapirforetakForvaltningsselskaper for verdipapirfondBetalingsforetak og opplysningsfullmektigerE-pengeforetakForsikringsformidlingsvirksomhetEiendomsmeglingsforetakInkassoforetakRegnskapsforetakGjeldsinformasjonsforetakLåneformidlingsvirksomhet, unntatt aksessorisk låneformidlingRevisjonsforetak.Norsk naturskadepool.
+Forskriften gjelder for
+
+1. Regulerte markeder
+2. Verdipapirforetak
+3. Forvaltningsselskaper for verdipapirfond
+4. Betalingsforetak og opplysningsfullmektiger
+5. E-pengeforetak
+6. Forsikringsformidlingsvirksomhet
+7. Eiendomsmeglingsforetak
+8. Inkassoforetak
+9. Regnskapsforetak
+10. Gjeldsinformasjonsforetak
+11. Låneformidlingsvirksomhet, unntatt aksessorisk låneformidling
+12. Revisjonsforetak.
+13. Norsk naturskadepool.
 
 > Endret ved [forskrifter 9 des 2016 nr. 1528](forskrift/2016-12-09-1528) (i kraft 1 jan 2017), [15 feb 2019 nr. 147](forskrift/2019-02-15-147) (i kraft 1 april 2019), [29 juli 2020 nr. 1602](forskrift/2020-07-29-1602) (i kraft 1 okt 2020), [14 des 2020 nr. 2898](forskrift/2020-12-14-2898) (i kraft 1 jan 2021), [9 feb 2022 nr. 189](forskrift/2022-02-09-189), [18 feb 2022 nr. 315](forskrift/2022-02-18-315) (i kraft 1 mars 2022), [22 juni 2022 nr. 1139](forskrift/2022-06-22-1139) (i kraft 1 jan 2023), [16 des 2022 nr. 2270](forskrift/2022-12-16-2270) (i kraft 1 jan 2023), [28 juni 2023 nr. 1155](forskrift/2023-06-28-1155) (i kraft 1 juli 2023), [8 des 2025 nr. 2555](forskrift/2025-12-08-2555) (i kraft 1 jan 2026).
 
@@ -42,13 +56,28 @@ Der virksomheten drives i et enkeltpersonforetak, er innehaver av foretaket ansv
 
 ### § 3. Styret
 
-Styret skal påse at foretaket har hensiktsmessige systemer for risikostyring og internkontroll, herunder:at det er klar ansvarsdeling mellom styret og daglig ledelse fastsatt i instrukser for styret og daglig leder,at foretaket har en klar organisasjonsstruktur,fastsette mål og strategi for foretaket, samt overordnede retningslinjer for virksomheten. Det skal fremgå hvilken risikoprofil foretaket skal ha, samt hvilke risikorammer som gjelder der hvor dette er relevant,fastsette prinsipper for risikostyring og internkontroll for foretaket som helhet og innenfor hvert enkelt virksomhetsområde,påse at risikostyringen og internkontrollen blir etablert i samsvar med lover og forskrifter, vedtekter, pålegg fra Finanstilsynet og retningslinjer gitt av styret til administrasjonen, blant annet gjennom behandling av rapporter utarbeidet i henhold til [§ 8](forskrift/2008-09-22-1080/§8) og [kapittel 4](forskrift/2008-09-22-1080/kap4),påse at risikostyringen og internkontrollen er gjennomført og overvåket, blant annet gjennom behandling av rapporter utarbeidet i samsvar med [§ 8](forskrift/2008-09-22-1080/§8) og [kapittel 4](forskrift/2008-09-22-1080/kap4),avgjøre om foretaket skal ha internrevisjon i samsvar med [§ 9](forskrift/2008-09-22-1080/§9),evaluere sitt arbeid og sin kompetanse knyttet til foretakets risikostyring og internkontroll minimum årlig.
+Styret skal påse at foretaket har hensiktsmessige systemer for risikostyring og internkontroll, herunder:
+
+1. at det er klar ansvarsdeling mellom styret og daglig ledelse fastsatt i instrukser for styret og daglig leder,
+2. at foretaket har en klar organisasjonsstruktur,
+3. fastsette mål og strategi for foretaket, samt overordnede retningslinjer for virksomheten. Det skal fremgå hvilken risikoprofil foretaket skal ha, samt hvilke risikorammer som gjelder der hvor dette er relevant,
+4. fastsette prinsipper for risikostyring og internkontroll for foretaket som helhet og innenfor hvert enkelt virksomhetsområde,
+5. påse at risikostyringen og internkontrollen blir etablert i samsvar med lover og forskrifter, vedtekter, pålegg fra Finanstilsynet og retningslinjer gitt av styret til administrasjonen, blant annet gjennom behandling av rapporter utarbeidet i henhold til [§ 8](forskrift/2008-09-22-1080/§8) og [kapittel 4](forskrift/2008-09-22-1080/kap4),
+6. påse at risikostyringen og internkontrollen er gjennomført og overvåket, blant annet gjennom behandling av rapporter utarbeidet i samsvar med [§ 8](forskrift/2008-09-22-1080/§8) og [kapittel 4](forskrift/2008-09-22-1080/kap4),
+7. avgjøre om foretaket skal ha internrevisjon i samsvar med [§ 9](forskrift/2008-09-22-1080/§9),
+8. evaluere sitt arbeid og sin kompetanse knyttet til foretakets risikostyring og internkontroll minimum årlig.
 
 > Endret ved [forskrift 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009).
 
 ### § 4. Daglig leder
 
-Daglig leder skal:sørge for å etablere en forsvarlig risikostyring og internkontroll på basis av en vurdering av aktuelle risikoer etter retningslinjer fastsatt av styret,løpende følge opp endringer i foretakets risikoer, og påse at foretakets risikoer er forsvarlig ivaretatt i samsvar med styrets retningslinjer,gi styret relevant og tidsriktig informasjon som er av betydning for foretakets risikostyring og internkontroll, herunder informasjon om nye risikoer,påse at foretakets risikostyring og internkontroll er dokumentert,påse at risikostyringen og internkontrollen blir gjennomført og overvåket på en forsvarlig måte.
+Daglig leder skal:
+
+1. sørge for å etablere en forsvarlig risikostyring og internkontroll på basis av en vurdering av aktuelle risikoer etter retningslinjer fastsatt av styret,
+2. løpende følge opp endringer i foretakets risikoer, og påse at foretakets risikoer er forsvarlig ivaretatt i samsvar med styrets retningslinjer,
+3. gi styret relevant og tidsriktig informasjon som er av betydning for foretakets risikostyring og internkontroll, herunder informasjon om nye risikoer,
+4. påse at foretakets risikostyring og internkontroll er dokumentert,
+5. påse at risikostyringen og internkontrollen blir gjennomført og overvåket på en forsvarlig måte.
 
 ### § 5. Utkontraktering
 
@@ -100,7 +129,12 @@ Internrevisjonen skal gjennomføres i henhold til anerkjente standarder og løpe
 
 ### § 10. Uavhengig bekreftelse
 
-I foretak hvor det ikke er etablert internrevisjon skal styret sørge for at foretakets valgte revisor avgir en årlig bekreftelse til styret omdet er foretatt risikovurderinger i henhold til [§ 6](forskrift/2008-09-22-1080/§6) annet ledddet er foretatt vurderinger i henhold til [§ 7](forskrift/2008-09-22-1080/§7) annet ledddet foreligger dokumentasjon i samsvar med [§ 8](forskrift/2008-09-22-1080/§8)foretakets rutiner sikrer at den samlede vurdering av risikosituasjonen som er forelagt styret, jf. [§ 8](forskrift/2008-09-22-1080/§8) annet ledd, bygger på de risikovurderinger som er foretatt.
+I foretak hvor det ikke er etablert internrevisjon skal styret sørge for at foretakets valgte revisor avgir en årlig bekreftelse til styret om
+
+- det er foretatt risikovurderinger i henhold til [§ 6](forskrift/2008-09-22-1080/§6) annet ledd
+- det er foretatt vurderinger i henhold til [§ 7](forskrift/2008-09-22-1080/§7) annet ledd
+- det foreligger dokumentasjon i samsvar med [§ 8](forskrift/2008-09-22-1080/§8)
+- foretakets rutiner sikrer at den samlede vurdering av risikosituasjonen som er forelagt styret, jf. [§ 8](forskrift/2008-09-22-1080/§8) annet ledd, bygger på de risikovurderinger som er foretatt.
 
 ## Kapittel 5. Unntak
 

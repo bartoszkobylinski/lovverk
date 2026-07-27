@@ -28,7 +28,13 @@ Formålet med tilskuddet etter denne forskriften er å kompensere for bortfall a
 
 ## § 2. Vilkår
 
-Kompensasjonstilskudd kan gis til foretak somhar inngått avtale om deltakelse i Prosjekt «Friskere geiter»,ved siste søknadsomgang før påbegynt saneringsperiode i prosjektet oppfylte vilkårene for å motta tilskudd etter forskrift om produksjonstilskudd i jordbruket,disponerer grunnkvote i hele saneringsperioden på et nivå som minst tilsvarer gjennomsnittlig kvotestørrelse de to siste kvoteårene før saneringsperioden, så fremt foretaket disponerte slik kvote i denne perioden,innen tre år fra påbegynt saneringsperiode bygger opp igjen produksjonsomfanget til et nivå som tilsvarer minst 80 % av gjennomsnittet de fire siste søknadsomganger før saneringsperioden, ogopprettholder produksjonsomfanget som nevnt i bokstav d) i minst tre år etter avsluttet saneringsperiode.
+Kompensasjonstilskudd kan gis til foretak som
+
+1. har inngått avtale om deltakelse i Prosjekt «Friskere geiter»,
+2. ved siste søknadsomgang før påbegynt saneringsperiode i prosjektet oppfylte vilkårene for å motta tilskudd etter forskrift om produksjonstilskudd i jordbruket,
+3. disponerer grunnkvote i hele saneringsperioden på et nivå som minst tilsvarer gjennomsnittlig kvotestørrelse de to siste kvoteårene før saneringsperioden, så fremt foretaket disponerte slik kvote i denne perioden,
+4. innen tre år fra påbegynt saneringsperiode bygger opp igjen produksjonsomfanget til et nivå som tilsvarer minst 80 % av gjennomsnittet de fire siste søknadsomganger før saneringsperioden, og
+5. opprettholder produksjonsomfanget som nevnt i bokstav d) i minst tre år etter avsluttet saneringsperiode.
 
 Som saneringsperiode etter første ledd regnes en periode som varer i maksimalt 3 år fra det tidspunkt foretaket har gjennomført første slakting i samsvar med den veterinærfastsatte saneringsplanen. Dersom saneringen gjennomføres på kortere tid enn tre år, regnes saneringsperioden som avsluttet når foretaket ikke lenger mottar kompensasjonstilskudd etter [§ 3](forskrift/2013-07-01-818/§3).
 

@@ -40,7 +40,13 @@ Godtgjørelse etter første eller tredje ledd gis ikke til personer som beholder
 
 ### § 1-2
 
-Godtgjørelsen settes til kr 1.000 for hver dag som går med til møte på rettsstedet i saken. For halve dager settes godtgjørelsen til kr 600. For særlig lange dager gis en forhøyet godtgjørelse på kr 1.200. Dette gjelder for:skjønnsmedlem,meddommer som oppnevnes fra særskilte arbeidslivskyndige meddommerutvalg,jordskiftemeddommer,meddommer som oppnevnes i henhold til [domstolloven § 85](lov/1915-08-13-5/§85) tredje ledd, jf. [§ 94](lov/1915-08-13-5/§94),sakkyndig rettsvitne ved konsulrett.
+Godtgjørelsen settes til kr 1.000 for hver dag som går med til møte på rettsstedet i saken. For halve dager settes godtgjørelsen til kr 600. For særlig lange dager gis en forhøyet godtgjørelse på kr 1.200. Dette gjelder for:
+
+1. skjønnsmedlem,
+2. meddommer som oppnevnes fra særskilte arbeidslivskyndige meddommerutvalg,
+3. jordskiftemeddommer,
+4. meddommer som oppnevnes i henhold til [domstolloven § 85](lov/1915-08-13-5/§85) tredje ledd, jf. [§ 94](lov/1915-08-13-5/§94),
+5. sakkyndig rettsvitne ved konsulrett.
 
 Hvis samlet tjenestegjøring for en dag inklusive reisetid er mindre enn 2 timer, gis likevel bare godtgjørelse etter [§ 1-1](forskrift/1983-02-15-86/§1-1).
 
@@ -170,4 +176,8 @@ For forretninger som ytes av sender- og mottakerorganer som omhandlet i konvensj
 
 Disse forskrifter trer i kraft 1. mars 1983. Bestemmelsene i kapittel 2 gjelder likevel bare for forretninger hvor gebyr skal betales etter § 14 i lov om rettsgebyr. [§ 3-1](forskrift/1983-02-15-86/§3-1) får likeledes bare anvendelse på sivile saker og skjønn som er begjært etter ikrafttredelsen av lov om rettsgebyr.
 
-Fra lovens ikrafttredelse oppheves følgende forskrifter gitt med hjemmel i sportelloven av 18. desember 1959 nr. 11 §§ 3, 5, 29, 34, 51, 77, 83, 87, 89 og 91:Forskrifter av 12. mars 1960 med senere endringer, senest av 21. februar 1980.Forskrifter av 24. november 1980 om etterskuddsvis betaling av gebyr for registrering ved løsøreregisteret og gebyrfritak for visse registre.Forskrifter av 10. desember 1980 om godtgjøring til lagrettemann, domsmann m.v.
+Fra lovens ikrafttredelse oppheves følgende forskrifter gitt med hjemmel i sportelloven av 18. desember 1959 nr. 11 §§ 3, 5, 29, 34, 51, 77, 83, 87, 89 og 91:
+
+1. Forskrifter av 12. mars 1960 med senere endringer, senest av 21. februar 1980.
+2. Forskrifter av 24. november 1980 om etterskuddsvis betaling av gebyr for registrering ved løsøreregisteret og gebyrfritak for visse registre.
+3. Forskrifter av 10. desember 1980 om godtgjøring til lagrettemann, domsmann m.v.

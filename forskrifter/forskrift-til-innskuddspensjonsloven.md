@@ -15,7 +15,7 @@ xml_hash: "61db73aa7857c2222c9488b3529c3d34d049c1fd27517c624c505a1c8fffa1cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -164,7 +164,11 @@ Ved uttak av pensjon fra egen pensjonskonto skal aktiv og tidligere opptjening b
 
 ### § 4-1. Definisjoner
 
-(1) I denne delen betyr:*Innskudd:* pensjonsinnskudd som foretaket innbetaler for medlem av pensjonsordningen og pensjonsinnskudd som medlemmet selv betaler, jf. [lov om innskuddspensjon § 5-1](lov/2000-11-24-81/§5-1) annet og tredje ledd og [§ 5-6](lov/2000-11-24-81/§5-6).*Lønn:* lønn i henhold til [innskuddspensjonsloven § 5-5](lov/2000-11-24-81/§5-5), eller, dersom dette er angitt i forskriften, [lov om foretakspensjon § 5-4](lov/2000-03-24-16/§5-4).*Folketrygdens grunnbeløp (G):* det til enhver tid gjeldende grunnbeløp i folketrygden.
+(1) I denne delen betyr:
+
+1. *Innskudd:* pensjonsinnskudd som foretaket innbetaler for medlem av pensjonsordningen og pensjonsinnskudd som medlemmet selv betaler, jf. [lov om innskuddspensjon § 5-1](lov/2000-11-24-81/§5-1) annet og tredje ledd og [§ 5-6](lov/2000-11-24-81/§5-6).
+2. *Lønn:* lønn i henhold til [innskuddspensjonsloven § 5-5](lov/2000-11-24-81/§5-5), eller, dersom dette er angitt i forskriften, [lov om foretakspensjon § 5-4](lov/2000-03-24-16/§5-4).
+3. *Folketrygdens grunnbeløp (G):* det til enhver tid gjeldende grunnbeløp i folketrygden.
 
 > Endret ved [forskrifter 29 juni 2001 nr. 801](forskrift/2001-06-29-801) (i kraft 1 juli 2001, tidligere § 4-1), [3 nov 2003 nr. 1294](forskrift/2003-11-03-1294) (i kraft 1 des 2003), [21 des 2005 nr. 1635](forskrift/2005-12-21-1635) (i kraft 1 jan 2006), [6 nov 2020 nr. 2271](forskrift/2020-11-06-2271) (i kraft 1 jan 2021, tidligere § 3-1).
 
@@ -180,7 +184,12 @@ Ved uttak av pensjon fra egen pensjonskonto skal aktiv og tidligere opptjening b
 
 ### § 4-3. Innskuddsgrenser ved kombinerte pensjonsordninger mv.
 
-(1) Kombinerte pensjonsordninger i henhold til [lov om foretakspensjon § 2-12](lov/2000-03-24-16/§2-12), jf. [innskuddspensjonsloven § 2-13](lov/2000-11-24-81/§2-13), kan bare utformes slik at en ytelsesbasert alderspensjon fastsatt i henhold til[lov om foretakspensjon § 5-2](lov/2000-03-24-16/§5-2) første ledd bokstav a, eller[lov om foretakspensjon § 5-2](lov/2000-03-24-16/§5-2) første ledd bokstav csuppleres med en ordning etter innskuddspensjonsloven der innskudd for medlemmene er fastsatt i henhold til [innskuddspensjonsloven § 5-3](lov/2000-11-24-81/§5-3) første ledd bokstav b, c eller d, eller med en tilsvarende ordning med engangsbetalt alderspensjon etter lov om foretakspensjon.
+(1) Kombinerte pensjonsordninger i henhold til [lov om foretakspensjon § 2-12](lov/2000-03-24-16/§2-12), jf. [innskuddspensjonsloven § 2-13](lov/2000-11-24-81/§2-13), kan bare utformes slik at en ytelsesbasert alderspensjon fastsatt i henhold til
+
+1. [lov om foretakspensjon § 5-2](lov/2000-03-24-16/§5-2) første ledd bokstav a, eller
+2. [lov om foretakspensjon § 5-2](lov/2000-03-24-16/§5-2) første ledd bokstav c
+
+suppleres med en ordning etter innskuddspensjonsloven der innskudd for medlemmene er fastsatt i henhold til [innskuddspensjonsloven § 5-3](lov/2000-11-24-81/§5-3) første ledd bokstav b, c eller d, eller med en tilsvarende ordning med engangsbetalt alderspensjon etter lov om foretakspensjon.
 
 (2) Dersom foretaket har kombinerte pensjonsordninger hvor ytelsesbasert alderspensjon er fastsatt etter første ledd bokstav a, skal innskudd for et enkelt medlem et enkelt år i henhold til [innskuddspensjonsloven § 5-3](lov/2000-11-24-81/§5-3) første ledd bokstav b, c eller d ikke overstige en fastsatt prosent av lønn sett i forhold til beregnet folketrygd og pensjonsnivå i henhold til regelverket i den ytelsesbaserte pensjonsordningen som angitt i tabellen under:
 
@@ -235,7 +244,13 @@ Innskuddsgrensene angitt i dette ledd gjelder tilsvarende for innskuddspremie fo
 
 (1) Arbeidstakere skal unntas fra medlemskap i en innskuddspensjonsordning dersom de er medlemmer av en kollektiv pensjonsordning utenfor innskuddspensjonsloven, som foretaket betaler premie eller avgift til og som gir ytelser av minst tilsvarende verdi. Foretakets adgang til å ha parallelle pensjonsordninger reguleres av [innskuddspensjonsloven § 2-10](lov/2000-11-24-81/§2-10) flg.
 
-(2) Med kollektiv pensjonsordning utenfor innskuddspensjonsloven menes:Pensjonsordning i Statens Pensjonskasse,Andre lovbestemte pensjonsordninger,Kommunale pensjonsordninger som omfattes av [lov 10. juni 2005 nr. 44](lov/2005-06-10-44) om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. [kapittel 10](lov/2005-06-10-44/kap10),Annen offentlig pensjonsordning i pensjonskasse eller livsforsikringsselskap hvor ytelsene i hovedsak svarer til ytelsene i Statens Pensjonskasse,Annen privat kollektiv pensjonsordning i pensjonskasse, livsforsikringsselskap, bank eller forvaltningsselskap for verdipapirfond.
+(2) Med kollektiv pensjonsordning utenfor innskuddspensjonsloven menes:
+
+1. Pensjonsordning i Statens Pensjonskasse,
+2. Andre lovbestemte pensjonsordninger,
+3. Kommunale pensjonsordninger som omfattes av [lov 10. juni 2005 nr. 44](lov/2005-06-10-44) om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. [kapittel 10](lov/2005-06-10-44/kap10),
+4. Annen offentlig pensjonsordning i pensjonskasse eller livsforsikringsselskap hvor ytelsene i hovedsak svarer til ytelsene i Statens Pensjonskasse,
+5. Annen privat kollektiv pensjonsordning i pensjonskasse, livsforsikringsselskap, bank eller forvaltningsselskap for verdipapirfond.
 
 (3) Unntak fra medlemskap i innskuddspensjonsordning kan bare gjøres for arbeidstakere som er medlem av pensjonsordning etter annet ledd på tidspunktet for opprettelse av ny innskuddspensjonsordning. Dette gjelder likevel ikke når medlemskapet i pensjonsordning etter annet ledd er lovpålagt.
 

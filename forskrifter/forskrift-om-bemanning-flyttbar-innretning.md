@@ -15,7 +15,7 @@ xml_hash: "f6c6ee99a66d94322fa0367cd4716bc1c80362eb8ef39b1acbfc24c8843b7315"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,7 +49,10 @@ Rederiet, plattformsjef og andre som har sitt arbeid om bord skal utføre sine p
 
 ### § 5. Dispensasjon
 
-(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 (2) Uttalelse fra verneombud skal legges ved dispensasjonssøknaden.
 
@@ -102,7 +105,14 @@ Rederiet skal i samråd med plattformsjef og verneombud foreslå den sikkerhetsb
 
 2\.
 
-Forslaget skal baseres på innretningensrisikoanalyse,beredskapsanalyse,sikkerhetsstyringssystem,organisasjonsplan,stillingsinstruks for hver stilling,fartsområde.
+Forslaget skal baseres på innretningens
+
+1. risikoanalyse,
+2. beredskapsanalyse,
+3. sikkerhetsstyringssystem,
+4. organisasjonsplan,
+5. stillingsinstruks for hver stilling,
+6. fartsområde.
 
 3\.
 
@@ -160,7 +170,10 @@ Plattformsjefen skal ha øverste myndighet om bord og kvalifikasjoner i henhold 
 
 ### § 11. Verkstedopphold og opplag
 
-1\. Bemanning under verkstedsopphold og opplag fastsettes av rederiet i samråd med plattformsjefen og verneombud basert på lister overhvilke sikkerhetsrelaterte oppgaver som opphører under verkstedsopphold eller opplag, jf. [§ 8](forskrift/1996-04-01-319/§8) nr. 3.sikkerhetsrelaterte oppgaver hvor det foreligger ansvarsoverdragelse.
+1\. Bemanning under verkstedsopphold og opplag fastsettes av rederiet i samråd med plattformsjefen og verneombud basert på lister over
+
+1. hvilke sikkerhetsrelaterte oppgaver som opphører under verkstedsopphold eller opplag, jf. [§ 8](forskrift/1996-04-01-319/§8) nr. 3.
+2. sikkerhetsrelaterte oppgaver hvor det foreligger ansvarsoverdragelse.
 
 2\. Sikkerhetsrelaterte oppgaver som er overdratt til andre skal føres i dekksdagbok og signeres av bemyndiget person for ansvarsovertager.
 

@@ -15,7 +15,7 @@ xml_hash: "1a53a1ec24a5eb01bfed16399faf3bd1f42db6c155bf0015fac85c21248dbabb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,19 +36,130 @@ Forskriften skal videre bidra til in-situ bevaring og bærekraftig bruk av plant
 
 Denne forskriften gjelder krav til såvarer av arter oppført i vedlegg A1 som er beregnet til yrkesmessig bruk, med unntak av såvarer til produksjon til prydformål. Kravene er ikke til hinder for ikke-kommersiell utveksling av såvarer.
 
-Bestemmelsen i første ledd gjelder med følgende unntak:bestemmelsene i [§ 3](forskrift/1999-09-13-1052/§3) bokstav aa, [§ 3a](forskrift/1999-09-13-1052/§3a), [§ 28](forskrift/1999-09-13-1052/§28), [§ 29](forskrift/1999-09-13-1052/§29), [§ 35](forskrift/1999-09-13-1052/§35), [§ 37](forskrift/1999-09-13-1052/§37), [§ 38](forskrift/1999-09-13-1052/§38), [§ 39](forskrift/1999-09-13-1052/§39) og [§ 40](forskrift/1999-09-13-1052/§40) gjelder alle såvarer.for genbanker og lignende gjelder bare [§ 3](forskrift/1999-09-13-1052/§3) bokstav z, [§ 4](forskrift/1999-09-13-1052/§4) fjerde ledd og [§ 20](forskrift/1999-09-13-1052/§20) første ledd, i tillegg til bestemmelsene det vises til i bokstav a.for lukkede systemer gjelder bare [§ 3](forskrift/1999-09-13-1052/§3) bokstav n, [§ 21d](forskrift/1999-09-13-1052/§21d), [§ 26](forskrift/1999-09-13-1052/§26) og [§ 27](forskrift/1999-09-13-1052/§27), i tillegg til bestemmelsene det vises til i bokstav a.for leierenserier gjelder bare [§ 3](forskrift/1999-09-13-1052/§3) bokstav m og [§ 5](forskrift/1999-09-13-1052/§5), i tillegg til bestemmelsene det vises til i bokstav a.for såvarer av økologisk heterogent materiale gjelder bare [§ 3](forskrift/1999-09-13-1052/§3) bokstav ab, [§ 4](forskrift/1999-09-13-1052/§4) første ledd og [§ 13](forskrift/1999-09-13-1052/§13) første ledd, i tillegg til bestemmelsene det vises til i bokstav a.
+Bestemmelsen i første ledd gjelder med følgende unntak:
+
+1. bestemmelsene i [§ 3](forskrift/1999-09-13-1052/§3) bokstav aa, [§ 3a](forskrift/1999-09-13-1052/§3a), [§ 28](forskrift/1999-09-13-1052/§28), [§ 29](forskrift/1999-09-13-1052/§29), [§ 35](forskrift/1999-09-13-1052/§35), [§ 37](forskrift/1999-09-13-1052/§37), [§ 38](forskrift/1999-09-13-1052/§38), [§ 39](forskrift/1999-09-13-1052/§39) og [§ 40](forskrift/1999-09-13-1052/§40) gjelder alle såvarer.
+2. for genbanker og lignende gjelder bare [§ 3](forskrift/1999-09-13-1052/§3) bokstav z, [§ 4](forskrift/1999-09-13-1052/§4) fjerde ledd og [§ 20](forskrift/1999-09-13-1052/§20) første ledd, i tillegg til bestemmelsene det vises til i bokstav a.
+3. for lukkede systemer gjelder bare [§ 3](forskrift/1999-09-13-1052/§3) bokstav n, [§ 21d](forskrift/1999-09-13-1052/§21d), [§ 26](forskrift/1999-09-13-1052/§26) og [§ 27](forskrift/1999-09-13-1052/§27), i tillegg til bestemmelsene det vises til i bokstav a.
+4. for leierenserier gjelder bare [§ 3](forskrift/1999-09-13-1052/§3) bokstav m og [§ 5](forskrift/1999-09-13-1052/§5), i tillegg til bestemmelsene det vises til i bokstav a.
+5. for såvarer av økologisk heterogent materiale gjelder bare [§ 3](forskrift/1999-09-13-1052/§3) bokstav ab, [§ 4](forskrift/1999-09-13-1052/§4) første ledd og [§ 13](forskrift/1999-09-13-1052/§13) første ledd, i tillegg til bestemmelsene det vises til i bokstav a.
 
 > Endret ved [forskrifter 9 jan 2004 nr. 137](forskrift/2004-01-09-137), [1 nov 2004 nr. 1412](forskrift/2004-11-01-1412), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [26 juni 2020 nr. 1448](forskrift/2020-06-26-1448) (i kraft 1 juli 2020), [12 april 2022 nr. 747](forskrift/2022-04-12-747), [20 des 2022 nr. 2540](forskrift/2022-12-20-2540) (i kraft 1 jan 2023).
 
 ### § 3. Definisjoner
 
-I denne forskriften betyr:*Sertifisert såvare:*Såvare, som blir avlet under offentlig kontroll, og som på grunnlag av resultater etter denne kontrollen og utsædens klasse, blir klassifisert i henhold til fastsatte kvalitetskrav.*Utsæd:*Såvare som skal brukes til videre avl av sertifisert såvare.*Klasse:*Såvare inndelt etter definerte krav til oppformering og kvalitet. En klasse kan inndeles videre i generasjoner. Generasjonsbetegnelsen er i denne forskriften angitt som et tall bak klassebetegnelsen. For angivelse av klasser av såvare, se vedlegg A9.*Såvareparti:*En mengde såvare av rimelig ensartet kvalitet med følgende maksimalvekt:– Arter med frø mindre enn hvetekorn (småfrøede arter)10 tonn– Følgende arter med frø større eller lik hvetekorn: hvete, durumhvete, spelt, rug, rughvete, havre, bygg, erter, bønner, vikker, lupiner og soya30 tonn– Andre arter med frø større eller lik hvetekorn (storfrøede arter) og frø av beter20 tonn– Mais40 tonnVekten av et parti skal ikke overstiges med mer enn 5 %. Alle partier skal ha eget partinummer.Som unntak fra første ledd, første strekpunkt, kan maksimalvekt for såvarepartier av grasarter være 25 tonn dersom såvareforretningen har fått tillatelse til dette av Mattilsynet. Vilkår for slik tillatelse følger av vedlegg C3.*Kontraktavler:*En person/institusjon som avler såvarer på kontrakt med en såvareforretning.*Avlsgårder for prebasis:*Gårder for avl av klasse prebasis.*(Opphevet)**Vekstkontroll:*Kontroll av kontraktarealene hos kontraktavlerne i veksttida.*Kontrolldyrking:*Kontroll av såvarepartiene som blir foretatt på Mattilsynets kontrollfelt i veksttida for å undersøke sortsekthet, sortsrenhet og smitte av frøoverførte sjukdommer.*Laboratoriekontroll:*Kontroll av ferdig rensede såvarepartier som blir foretatt i laboratorier autorisert av Mattilsynet.*Internkontroll:*Systematiske tiltak som virksomheten iverksetter, utøver og vedlikeholder for å sikre at krav fastsatt i eller i medhold av lov eller forskrift overholdes.*Produksjon:*Avl med sikte på omsetning, inntransport, rensing, beising, pakking, merking m.m.*Leierensing:*Rensing, beising eller annen behandling av såvare på oppdrag fra eier av såvaren.*Omsetning:*Besittelse med tanke på salg, utbud for salg, distribusjon, samt selve salget og enhver form for overdragelse med eller uten vederlag. Levering av en såvare til produksjon av visse landbruksråvarer til industriell bruk, eller oppformering av en såvare til samme formål, der produksjonen skjer som en tjenesteytelse, regnes ikke som omsetning forutsatt at dyrkeren ikke får eiendomsrett til verken den mottatte såvaren eller det høstede produktet (lukket system).– – –*Foredlermateriale:*Såvare som brukes til vedlikehold av en sort.*(Opphevet)**sammensatt sort:*En mekanisk blanding av sertifisert frø av en hunnkomponent, med sertifisert frø av en eller flere hannkomponenter.*hunnkomponent(er):*Den hannsterile komponenten i den sammensatte sorten (morlinje).*hannkomponent(er):*De(n) komponent(er) i den sammensatte sorten som avgir pollen (farlinje).*Beising:*Behandling av såvare med et plantevernmiddel for å bekjempe eller beskytte mot planteskadegjørere.*Landsort:*En samling av populasjoner av en art som er naturlig tilpasset miljøforholdene i regionen der de vokser.*Genetisk erosjon:*Tap av genetisk mangfold mellom og innenfor sorter/populasjoner av en art over tid, eller reduksjon av det genetiske mangfoldet innenfor en art som følge av miljøforandringer eller menneskelig aktivitet.*Bevaringsverdig sort:*En landsort/sort som er naturlig tilpasset til lokale eller regionale forhold og som er truet av genetisk erosjon.*In-situ bevaring:*Bevaring av genetisk materiale i dets naturlige omgivelser og, for kulturplanter, i jordbrukslandskapet hvor de har utviklet sine bestemte egenskaper.*Genbank og lignende:*En virksomhet med en samling av frø eller formeringsmateriale for langtidsbevaring som er tilgjengelig gjennom distribusjon i mindre mengder til foredling, forskning, undervisning og oppformering.*Tradisjonssort av grønnsaker:*En grønnsakssort utviklet for dyrking under særlige klimatiske, jordbunnsmessige eller dyrkingstekniske forhold.*Naturfrøblanding:*En frøblanding med ulike arter produsert for revegeteringsformål, og sammensatt slik at den kan bidra til å bevare plantegenetiske ressurser i naturmiljøer. Blandingen inneholder minst en av artene som står oppført i vedlegg A1, Jordbruksvekster, punkt II Fôrvekster og gras til grøntanlegg, nr. 1 til 3.*Kildeområde:*Et område med en vegetasjonstype av særlig interesse for bevaring av plantegenetiske ressurser og som er utpekt i henhold til nasjonale bestemmelser.*Såvareforretning:*Virksomhet som importerer, produserer eller pakker om såvarer med sikte på omsetning.*Økologisk heterogent materiale*Økologisk heterogent materiale slik dette er definert i [forskrift om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr § 2](forskrift/2022-06-11-1171/§2), jf. forordning [(EU) 2018/848](eu/32018r0848) artikkel 3 nr. 18.
+I denne forskriften betyr:
+
+1. *Sertifisert såvare:*
+
+   Såvare, som blir avlet under offentlig kontroll, og som på grunnlag av resultater etter denne kontrollen og utsædens klasse, blir klassifisert i henhold til fastsatte kvalitetskrav.
+2. *Utsæd:*
+
+   Såvare som skal brukes til videre avl av sertifisert såvare.
+3. *Klasse:*
+
+   Såvare inndelt etter definerte krav til oppformering og kvalitet. En klasse kan inndeles videre i generasjoner. Generasjonsbetegnelsen er i denne forskriften angitt som et tall bak klassebetegnelsen. For angivelse av klasser av såvare, se vedlegg A9.
+4. *Såvareparti:*
+
+   En mengde såvare av rimelig ensartet kvalitet med følgende maksimalvekt:
+
+   |  |  |
+   | --- | --- |
+   | – Arter med frø mindre enn hvetekorn (småfrøede arter) | 10 tonn |
+   | – Følgende arter med frø større eller lik hvetekorn: hvete, durumhvete, spelt, rug, rughvete, havre, bygg, erter, bønner, vikker, lupiner og soya | 30 tonn |
+   | – Andre arter med frø større eller lik hvetekorn (storfrøede arter) og frø av beter | 20 tonn |
+   | – Mais | 40 tonn |
+
+   Vekten av et parti skal ikke overstiges med mer enn 5 %. Alle partier skal ha eget partinummer.
+
+   Som unntak fra første ledd, første strekpunkt, kan maksimalvekt for såvarepartier av grasarter være 25 tonn dersom såvareforretningen har fått tillatelse til dette av Mattilsynet. Vilkår for slik tillatelse følger av vedlegg C3.
+5. *Kontraktavler:*
+
+   En person/institusjon som avler såvarer på kontrakt med en såvareforretning.
+6. *Avlsgårder for prebasis:*
+
+   Gårder for avl av klasse prebasis.
+7. *(Opphevet)*
+8. *Vekstkontroll:*
+
+   Kontroll av kontraktarealene hos kontraktavlerne i veksttida.
+9. *Kontrolldyrking:*
+
+   Kontroll av såvarepartiene som blir foretatt på Mattilsynets kontrollfelt i veksttida for å undersøke sortsekthet, sortsrenhet og smitte av frøoverførte sjukdommer.
+10. *Laboratoriekontroll:*
+
+    Kontroll av ferdig rensede såvarepartier som blir foretatt i laboratorier autorisert av Mattilsynet.
+11. *Internkontroll:*
+
+    Systematiske tiltak som virksomheten iverksetter, utøver og vedlikeholder for å sikre at krav fastsatt i eller i medhold av lov eller forskrift overholdes.
+12. *Produksjon:*
+
+    Avl med sikte på omsetning, inntransport, rensing, beising, pakking, merking m.m.
+13. *Leierensing:*
+
+    Rensing, beising eller annen behandling av såvare på oppdrag fra eier av såvaren.
+14. *Omsetning:*
+
+    Besittelse med tanke på salg, utbud for salg, distribusjon, samt selve salget og enhver form for overdragelse med eller uten vederlag. Levering av en såvare til produksjon av visse landbruksråvarer til industriell bruk, eller oppformering av en såvare til samme formål, der produksjonen skjer som en tjenesteytelse, regnes ikke som omsetning forutsatt at dyrkeren ikke får eiendomsrett til verken den mottatte såvaren eller det høstede produktet (lukket system).
+15. – – –
+16. *Foredlermateriale:*
+
+    Såvare som brukes til vedlikehold av en sort.
+17. *(Opphevet)*
+18. *sammensatt sort:*
+
+    En mekanisk blanding av sertifisert frø av en hunnkomponent, med sertifisert frø av en eller flere hannkomponenter.
+19. *hunnkomponent(er):*
+
+    Den hannsterile komponenten i den sammensatte sorten (morlinje).
+20. *hannkomponent(er):*
+
+    De(n) komponent(er) i den sammensatte sorten som avgir pollen (farlinje).
+21. *Beising:*
+
+    Behandling av såvare med et plantevernmiddel for å bekjempe eller beskytte mot planteskadegjørere.
+22. *Landsort:*
+
+    En samling av populasjoner av en art som er naturlig tilpasset miljøforholdene i regionen der de vokser.
+23. *Genetisk erosjon:*
+
+    Tap av genetisk mangfold mellom og innenfor sorter/populasjoner av en art over tid, eller reduksjon av det genetiske mangfoldet innenfor en art som følge av miljøforandringer eller menneskelig aktivitet.
+24. *Bevaringsverdig sort:*
+
+    En landsort/sort som er naturlig tilpasset til lokale eller regionale forhold og som er truet av genetisk erosjon.
+25. *In-situ bevaring:*
+
+    Bevaring av genetisk materiale i dets naturlige omgivelser og, for kulturplanter, i jordbrukslandskapet hvor de har utviklet sine bestemte egenskaper.
+26. *Genbank og lignende:*
+
+    En virksomhet med en samling av frø eller formeringsmateriale for langtidsbevaring som er tilgjengelig gjennom distribusjon i mindre mengder til foredling, forskning, undervisning og oppformering.
+27. *Tradisjonssort av grønnsaker:*
+
+    En grønnsakssort utviklet for dyrking under særlige klimatiske, jordbunnsmessige eller dyrkingstekniske forhold.
+28. *Naturfrøblanding:*
+
+    En frøblanding med ulike arter produsert for revegeteringsformål, og sammensatt slik at den kan bidra til å bevare plantegenetiske ressurser i naturmiljøer. Blandingen inneholder minst en av artene som står oppført i vedlegg A1, Jordbruksvekster, punkt II Fôrvekster og gras til grøntanlegg, nr. 1 til 3.
+29. *Kildeområde:*
+
+    Et område med en vegetasjonstype av særlig interesse for bevaring av plantegenetiske ressurser og som er utpekt i henhold til nasjonale bestemmelser.
+30. *Såvareforretning:*
+
+    Virksomhet som importerer, produserer eller pakker om såvarer med sikte på omsetning.
+31. *Økologisk heterogent materiale*
+
+    Økologisk heterogent materiale slik dette er definert i [forskrift om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr § 2](forskrift/2022-06-11-1171/§2), jf. forordning [(EU) 2018/848](eu/32018r0848) artikkel 3 nr. 18.
 
 > Endret ved [forskrifter 20 nov 2003 nr. 1378](forskrift/2003-11-20-1378), [9 jan 2004 nr. 137](forskrift/2004-01-09-137), [26 mai 2004 nr. 788](forskrift/2004-05-26-788), [1 nov 2004 nr. 1412](forskrift/2004-11-01-1412), [21 des 2006 nr. 1569](forskrift/2006-12-21-1569), [6 juli 2007 nr. 951](forskrift/2007-07-06-951), [19 feb 2010 nr. 292](forskrift/2010-02-19-292), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [31 mai 2011 nr. 567](forskrift/2011-05-31-567), [6 mars 2014 nr. 253](forskrift/2014-03-06-253), [5 jan 2015 nr. 6](forskrift/2015-01-05-6), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [12 april 2022 nr. 747](forskrift/2022-04-12-747), [20 des 2022 nr. 2540](forskrift/2022-12-20-2540) (i kraft 1 jan 2023), [17 okt 2025 nr. 2124](forskrift/2025-10-17-2124).
 
 ### § 3a. Registrering av virksomheter
 
-Den som vil drive følgende virksomhet skal registrere virksomheten hos Mattilsynet før oppstart:såvareforretningergenbanker og lignendevirksomheter som leverer såvarer i et lukket systemvirksomheter som driver leierensing av såvarergårder for avl av klasse prebasis.
+Den som vil drive følgende virksomhet skal registrere virksomheten hos Mattilsynet før oppstart:
+
+1. såvareforretninger
+2. genbanker og lignende
+3. virksomheter som leverer såvarer i et lukket system
+4. virksomheter som driver leierensing av såvarer
+5. gårder for avl av klasse prebasis.
 
 Registreringen skal gjøres på den måten Mattilsynet bestemmer.
 
@@ -160,7 +271,14 @@ Hvis avlingen ikke kan godkjennes, skal det gis skriftlig melding om årsaken(e)
 
 ### § 13. Kvalitetskrav
 
-Følgende kvalitetskrav skal være oppfylt ved produksjonen:Såkorn som avles, sertifiseres og omsettes i Norge skal tilfredsstille kvalitetskravene i vedlegg B1, del 1 og del 3. Såkorn som produseres for eksport til EØS-området skal tilfredsstille kvalitetskravene i vedlegg B1, del 2 og del 3.Såvarer av fôrvekster, gras til grøntanlegg, beter og olje- og fibervekster skal tilfredsstille kvalitetskravene i vedlegg C1.Grønnsaksfrø skal tilfredsstille kvalitetskravene i vedlegg D1.Såvarer av bevaringsverdige sorter skal tilfredsstille samme kvalitetskrav som til klasse sertifisert i henholdsvis vedlegg B1, C1 og D1 med unntak av kravet til sortsrenhet. Sortsrenheten skal være tilfredsstillende. Unntatt er såvarer av bevaringsverdige sorter av grønnsaker godkjent i kategori b), jf. forskrift om prøving og godkjenning av plantesorter [§ 4](forskrift/1999-09-13-1052/§4) fjerde ledd, og tradisjonssorter av grønnsaker, som skal tilfredsstille samme kvalitetskrav som klasse standard.Naturfrøblandinger skal tilfredsstille kvalitetskravene i vedlegg C4.Såvarer av økologisk heterogent materiale av korn, bete og olje- og fiberplanter skal tilfredsstille kravene til sertifisert såvare i vedlegg B1 og C1 med unntak av kravet til sortsekthet og sortsrenhet. Såvarer av økologisk heterogent materiale av fôrvekster og gras til grøntanlegg skal tilfredsstille kravene til klasse handelsfrø i vedlegg C1. Såvarer av økologisk heterogent materiale av grønnsaker skal tilfredsstille kravene til klasse standard i vedlegg D1 med unntak av kravet til sortsekthet og sortsrenhet. Såvarer av økologisk heterogent materiale trenger ikke oppfylle kravet til spireevne forutsatt at såvareforretningen merker pakningene med konstatert spireevne ved omsetning.
+Følgende kvalitetskrav skal være oppfylt ved produksjonen:
+
+1. Såkorn som avles, sertifiseres og omsettes i Norge skal tilfredsstille kvalitetskravene i vedlegg B1, del 1 og del 3. Såkorn som produseres for eksport til EØS-området skal tilfredsstille kvalitetskravene i vedlegg B1, del 2 og del 3.
+2. Såvarer av fôrvekster, gras til grøntanlegg, beter og olje- og fibervekster skal tilfredsstille kvalitetskravene i vedlegg C1.
+3. Grønnsaksfrø skal tilfredsstille kvalitetskravene i vedlegg D1.
+4. Såvarer av bevaringsverdige sorter skal tilfredsstille samme kvalitetskrav som til klasse sertifisert i henholdsvis vedlegg B1, C1 og D1 med unntak av kravet til sortsrenhet. Sortsrenheten skal være tilfredsstillende. Unntatt er såvarer av bevaringsverdige sorter av grønnsaker godkjent i kategori b), jf. forskrift om prøving og godkjenning av plantesorter [§ 4](forskrift/1999-09-13-1052/§4) fjerde ledd, og tradisjonssorter av grønnsaker, som skal tilfredsstille samme kvalitetskrav som klasse standard.
+5. Naturfrøblandinger skal tilfredsstille kvalitetskravene i vedlegg C4.
+6. Såvarer av økologisk heterogent materiale av korn, bete og olje- og fiberplanter skal tilfredsstille kravene til sertifisert såvare i vedlegg B1 og C1 med unntak av kravet til sortsekthet og sortsrenhet. Såvarer av økologisk heterogent materiale av fôrvekster og gras til grøntanlegg skal tilfredsstille kravene til klasse handelsfrø i vedlegg C1. Såvarer av økologisk heterogent materiale av grønnsaker skal tilfredsstille kravene til klasse standard i vedlegg D1 med unntak av kravet til sortsekthet og sortsrenhet. Såvarer av økologisk heterogent materiale trenger ikke oppfylle kravet til spireevne forutsatt at såvareforretningen merker pakningene med konstatert spireevne ved omsetning.
 
 Mattilsynet kan tillate omsetning av såvarer av klassene prebasis og basis selv om kravet til spireevne ikke er oppfylt. Dette gjelder dersom såvaren skal brukes til videre oppformering og såvareforretningen opplyser om konstatert spireevne ved omsetning.
 
@@ -196,7 +314,11 @@ Mot kjøpsdokumentasjon har enhver kjøper av sertifisert såvare rett til å f�
 
 ### § 17. Offisiell merking
 
-Ved omsetning skal pakninger eller partier være offisielt merket i henhold til kravene ivedlegg B2, del 1 og 2 (såkorn)vedlegg C2, del 1 og 3 (såvarer av fôrvekster og gras til grøntanlegg, beter, olje- og fiberplanter)vedlegg D2, del 1 og 3 (grønnsaksfrø).
+Ved omsetning skal pakninger eller partier være offisielt merket i henhold til kravene i
+
+1. vedlegg B2, del 1 og 2 (såkorn)
+2. vedlegg C2, del 1 og 3 (såvarer av fôrvekster og gras til grøntanlegg, beter, olje- og fiberplanter)
+3. vedlegg D2, del 1 og 3 (grønnsaksfrø).
 
 Offisielt merkede og forseglede pakninger med såvarer av klasse sertifisert og handelsfrø av fôrvekster og gras til grøntanlegg, og klasse sertifisert av beter, som oppdeles i EØS-småpakninger som angitt i vedlegg A10, kan omsettes uten offisiell merking og forsegling.
 
@@ -214,7 +336,12 @@ Den offisielle merkingen skal godkjennes av Mattilsynet, og kan påføres paknin
 
 Ved omsetning skal hver pakning ha en varedeklarasjon på norsk, enten som en etikett eller trykt eller påstemplet utenpå pakningen. Dersom pakningen er gjennomsiktig, kan varedeklarasjonen legges inne i pakningen.
 
-Varedeklarasjonen skal oppfylle kravene ivedlegg B2 del 4 (såkorn)vedlegg C2 del 2 og 3 (såvarer av fôrvekster og gras til grøntanlegg, beter, olje- og fiberplanter)vedlegg D2, del 2 og 3 (grønnsaksfrø inkludert frø av tradisjonssorter)vedlegg E (såvarer av bevaringsverdige sorter og naturfrøblandinger).
+Varedeklarasjonen skal oppfylle kravene i
+
+1. vedlegg B2 del 4 (såkorn)
+2. vedlegg C2 del 2 og 3 (såvarer av fôrvekster og gras til grøntanlegg, beter, olje- og fiberplanter)
+3. vedlegg D2, del 2 og 3 (grønnsaksfrø inkludert frø av tradisjonssorter)
+4. vedlegg E (såvarer av bevaringsverdige sorter og naturfrøblandinger).
 
 > Endret ved [forskrifter 9 jan 2004 nr. 137](forskrift/2004-01-09-137), [26 mai 2004 nr. 788](forskrift/2004-05-26-788), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [31 mai 2011 nr. 567](forskrift/2011-05-31-567), [5 jan 2015 nr. 6](forskrift/2015-01-05-6), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [12 april 2022 nr. 747](forskrift/2022-04-12-747).
 
@@ -230,9 +357,17 @@ Alle dokumenter og etiketter som følger såvarer av genmodifiserte sorter, skal
 
 Såvarer som er godkjent etter [§ 15](forskrift/1999-09-13-1052/§15), 2. ledd skal være merket henholdsvis «Såkorn for eksport», «Jordbruksfrø for eksport» eller «Grønnsaksfrø for eksport».
 
-Såvarer som omsettes til vitenskapelig formål eller til foredlingsformål, skal ha særlig merking som oppfyller kravene ivedlegg B2, del 3 pkt. a (såkorn)vedlegg C2, del 4, pkt. a (jordbruksfrø)vedlegg D2, del 4, pkt. a (grønnsaksfrø).
+Såvarer som omsettes til vitenskapelig formål eller til foredlingsformål, skal ha særlig merking som oppfyller kravene i
 
-Foredlermateriale som skal brukes til utsæd for avl av klasse prebasis, skal ha særlig merking som oppfyller kravene ivedlegg B2, del 3 pkt. b (såkorn)vedlegg C2, del 4, pkt. b (jordbruksfrø)vedlegg D2, del 4, pkt. b (grønnsaksfrø).
+1. vedlegg B2, del 3 pkt. a (såkorn)
+2. vedlegg C2, del 4, pkt. a (jordbruksfrø)
+3. vedlegg D2, del 4, pkt. a (grønnsaksfrø).
+
+Foredlermateriale som skal brukes til utsæd for avl av klasse prebasis, skal ha særlig merking som oppfyller kravene i
+
+1. vedlegg B2, del 3 pkt. b (såkorn)
+2. vedlegg C2, del 4, pkt. b (jordbruksfrø)
+3. vedlegg D2, del 4, pkt. b (grønnsaksfrø).
 
 > Endret ved [forskrifter 9 jan 2004 nr. 137](forskrift/2004-01-09-137), [28 mars 2017 nr. 392](forskrift/2017-03-28-392) (i kraft 1 april 2017), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [12 april 2022 nr. 747](forskrift/2022-04-12-747).
 
@@ -242,7 +377,12 @@ Foredlermateriale som skal brukes til utsæd for avl av klasse prebasis, skal ha
 
 ### § 21. Vilkår for omsetning
 
-Såvarer kan bare omsettes dersom følgende krav er oppfylt:Kravene i denne forskriften som gjelder kvalitet, pakking, merking og forsegling skal være oppfylt.Såvarer skal være av en sort som er opptatt på offisiell norsk sortsliste eller EUs felles sortsliste. Unntatt fra kravet om sort er såvarer som inngår i naturfrøblandinger.Såvarer av arter som står oppført i vedlegg A1, punkt I Kornarter, punkt II Fôrvekster og gras til grøntanlegg, punkt III Beter og punkt IV Olje og fibervekster, skal være sertifisert, med unntak av såvarer av bevaringsverdige sorter. Unntatt fra kravet om sertifisering er også såvarer av tunrapp, kvitsennep, sareptasennep og svartsennep, som enten skal være sertifisert eller kontrollert som klasse handelsfrø.Såvarer av arter som står oppført i vedlegg A1, punkt V Grønnsaker skal enten være sertifisert eller kontrollert som klasse standard av såvareforretningen selv.
+Såvarer kan bare omsettes dersom følgende krav er oppfylt:
+
+1. Kravene i denne forskriften som gjelder kvalitet, pakking, merking og forsegling skal være oppfylt.
+2. Såvarer skal være av en sort som er opptatt på offisiell norsk sortsliste eller EUs felles sortsliste. Unntatt fra kravet om sort er såvarer som inngår i naturfrøblandinger.
+3. Såvarer av arter som står oppført i vedlegg A1, punkt I Kornarter, punkt II Fôrvekster og gras til grøntanlegg, punkt III Beter og punkt IV Olje og fibervekster, skal være sertifisert, med unntak av såvarer av bevaringsverdige sorter. Unntatt fra kravet om sertifisering er også såvarer av tunrapp, kvitsennep, sareptasennep og svartsennep, som enten skal være sertifisert eller kontrollert som klasse handelsfrø.
+4. Såvarer av arter som står oppført i vedlegg A1, punkt V Grønnsaker skal enten være sertifisert eller kontrollert som klasse standard av såvareforretningen selv.
 
 Bevaringsverdige sorter kan bare omsettes i sitt opprinnelsesområde.
 
@@ -250,7 +390,12 @@ Såvarer av tradisjonssorter av grønnsaker kan bare omsettes i pakninger med ma
 
 Såvare kan omsettes til andre land i EØS-området for endelig sertifisering, hvis den etter vekstkontrollen og kontrolldyrkingen oppfyller betingelsene for å kunne bli sertifisert. Varen skal følges av et offisielt dokument som beskrevet i vedlegg A8.
 
-Bestemmelsen i første ledd gjelder ikke for:såvare som omsettes til land utenfor EØS-området, ellersmå mengder såvarer som omsettes til vitenskapelig formål eller til foredlingsformål, ellerforedlermateriale av såvare som omsettes til oppformering under sortseierens ansvar, ellerhagebruksfrø som er avlet i Norge, og som omsettes som såvare til en såvareforretning for rensing.
+Bestemmelsen i første ledd gjelder ikke for:
+
+1. såvare som omsettes til land utenfor EØS-området, eller
+2. små mengder såvarer som omsettes til vitenskapelig formål eller til foredlingsformål, eller
+3. foredlermateriale av såvare som omsettes til oppformering under sortseierens ansvar, eller
+4. hagebruksfrø som er avlet i Norge, og som omsettes som såvare til en såvareforretning for rensing.
 
 > Endret ved [forskrifter 9 jan 2004 nr. 137](forskrift/2004-01-09-137), [6 juli 2007 nr. 951](forskrift/2007-07-06-951), [23 juni 2009 nr. 829](forskrift/2009-06-23-829), [30 april 2010 nr. 635](forskrift/2010-04-30-635), [31 mai 2011 nr. 567](forskrift/2011-05-31-567), [5 jan 2015 nr. 6](forskrift/2015-01-05-6), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [12 april 2022 nr. 747](forskrift/2022-04-12-747), [20 des 2022 nr. 2540](forskrift/2022-12-20-2540) (i kraft 1 jan 2023).
 
@@ -262,7 +407,11 @@ Tillatelse til omsetning kan gis for inntil ett år, men kan forlenges med innti
 
 En tillatelse jf. første ledd opphører dersom søknaden om opptak på sortslisten trekkes tilbake, blir avslått eller sorten tas opp på den offisielle sortslisten.
 
-Mattilsynet kan trekke tilbake tillatelsen eller fastsette særlige vilkår for sorten eller avlingen dersom:det påvises at dyrking av den aktuelle sorten vil kunne ha skadelig innvirkning på dyrkingen av andre sorter eller arter, ellerhvis den offisielle verdiprøvingen viser, eller det er allment kjent, at sorten ikke gir resultater minst på nivå med annen tilsvarende sort på den offisielle sortslisten, ellerhvis det er grunn til å tro at sorten er en risiko for menneskers helse eller for miljøet.
+Mattilsynet kan trekke tilbake tillatelsen eller fastsette særlige vilkår for sorten eller avlingen dersom:
+
+1. det påvises at dyrking av den aktuelle sorten vil kunne ha skadelig innvirkning på dyrkingen av andre sorter eller arter, eller
+2. hvis den offisielle verdiprøvingen viser, eller det er allment kjent, at sorten ikke gir resultater minst på nivå med annen tilsvarende sort på den offisielle sortslisten, eller
+3. hvis det er grunn til å tro at sorten er en risiko for menneskers helse eller for miljøet.
 
 > Tilføyd ved [forskrift 15 mars 2006 nr. 308](forskrift/2006-03-15-308), endret ved [forskrift 31 mai 2011 nr. 567](forskrift/2011-05-31-567).
 
@@ -274,7 +423,15 @@ Mattilsynet kan trekke tilbake tillatelsen eller fastsette særlige vilkår for 
 
 Mattilsynet kan tillate omsetning av naturfrøblandinger i deres opprinnelsesområder dersom vilkårene i vedlegg C4 er oppfylt. Opprinnelsesområdet skal fastsettes i tillatelsen.
 
-Søknaden om tillatelse skal inneholde:produsentens navn og adressehøstemetode (direkte innsamlet eller oppformert)kildeområde og innsamlingsstednaturtype på innsamlingsstedetåret frøet ble samlet inn (gjelder oppformerte naturfrøblandinger) eller skal samles inn (gjelder direkte høstede naturfrøblandinger) i kildeområdetopplysninger om prosentandel i vekt av arter og eventuelt underarter (for direkte innsamlede blandinger oppgis bare arter som er typiske for naturtypen på innsamlingsstedet, og som ved å inngå i blandingen, har betydning for bevaring av plantegenetiske ressurser)lokalitet på planlagt areal for såvareproduksjon (gjelder oppformerte naturfrøblandinger).
+Søknaden om tillatelse skal inneholde:
+
+1. produsentens navn og adresse
+2. høstemetode (direkte innsamlet eller oppformert)
+3. kildeområde og innsamlingssted
+4. naturtype på innsamlingsstedet
+5. året frøet ble samlet inn (gjelder oppformerte naturfrøblandinger) eller skal samles inn (gjelder direkte høstede naturfrøblandinger) i kildeområdet
+6. opplysninger om prosentandel i vekt av arter og eventuelt underarter (for direkte innsamlede blandinger oppgis bare arter som er typiske for naturtypen på innsamlingsstedet, og som ved å inngå i blandingen, har betydning for bevaring av plantegenetiske ressurser)
+7. lokalitet på planlagt areal for såvareproduksjon (gjelder oppformerte naturfrøblandinger).
 
 > Tilføyd ved [forskrift 5 jan 2015 nr. 6](forskrift/2015-01-05-6).
 
@@ -312,13 +469,24 @@ Ved omsetning skal hver pakning være forsvarlig forseglet. Forseglingen skal v�
 
 ### § 24. Innførsel av såvare
 
-Såvare kan innføres dersom:sorten er opptatt på offisiell norsk sortsliste eller på EUs felles sortsliste.partiet er godkjent som såvare av en myndighet i et land i EØS-området, eller i et tredjeland hvor det er truffet beslutning om likestilling med norsk sertifisering, og hvor betingelsene for slik sertifisering er oppfylt.partiet oppfyller kravene i [§ 35](forskrift/1999-09-13-1052/§35).det for partier av såkorn, oljevekster, engsvingel, bladfaks, raigras, strandsvingel og raisvingel foreligger en offisiell erklæring fra eksportlandet om at partiet er avlet på areal hvor det ikke er påvist floghavre i avlingsåret.det for partier av såkorn, oljevekster, engsvingel, bladfaks, raigras, strandsvingel og raisvingel, foreligger en offisiell erklæring fra eksportlandet som bekrefter at det er tatt ut en prøve for floghavreanalyse av partiet. Prøven skal være på 1 kg pr. påbegynt 10 tonn for såkorn og 200 gram pr. parti inntil 10 tonn for de øvrige arter. Prøven skal ikke inneholde floghavre. Hvis prøven inneholder floghavre kan en ny prøve ikke endre resultatet.
+Såvare kan innføres dersom:
+
+1. sorten er opptatt på offisiell norsk sortsliste eller på EUs felles sortsliste.
+2. partiet er godkjent som såvare av en myndighet i et land i EØS-området, eller i et tredjeland hvor det er truffet beslutning om likestilling med norsk sertifisering, og hvor betingelsene for slik sertifisering er oppfylt.
+3. partiet oppfyller kravene i [§ 35](forskrift/1999-09-13-1052/§35).
+4. det for partier av såkorn, oljevekster, engsvingel, bladfaks, raigras, strandsvingel og raisvingel foreligger en offisiell erklæring fra eksportlandet om at partiet er avlet på areal hvor det ikke er påvist floghavre i avlingsåret.
+5. det for partier av såkorn, oljevekster, engsvingel, bladfaks, raigras, strandsvingel og raisvingel, foreligger en offisiell erklæring fra eksportlandet som bekrefter at det er tatt ut en prøve for floghavreanalyse av partiet. Prøven skal være på 1 kg pr. påbegynt 10 tonn for såkorn og 200 gram pr. parti inntil 10 tonn for de øvrige arter. Prøven skal ikke inneholde floghavre. Hvis prøven inneholder floghavre kan en ny prøve ikke endre resultatet.
 
 > Endret ved [forskrifter 18 des 2002 nr. 1787](forskrift/2002-12-18-1787) (i kraft 1 jan 2003), [15 mars 2006 nr. 308](forskrift/2006-03-15-308), [6 april 2016 nr. 356](forskrift/2016-04-06-356) (i kraft 1 mai 2016), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020).
 
 ### § 25. Særlige innførselsbestemmelser
 
-Mattilsynet kan tillate innførsel av et parti såvare som ikke tilfredsstiller kravene under [§ 24](forskrift/1999-09-13-1052/§24) pkt. a-c dersom:partiet innføres for oppformering og avlingen skal eksporteres, ellerpartiet innføres for rensing og ferdigbehandling før eksport, ellerpartiet innføres for endelig sertifisering her i landet, ellerpartiet er avlet som foredlermateriale under sortseierens ansvar og kontroll og innføres til videre oppformering under ansvar av sortseierens norske representant.
+Mattilsynet kan tillate innførsel av et parti såvare som ikke tilfredsstiller kravene under [§ 24](forskrift/1999-09-13-1052/§24) pkt. a-c dersom:
+
+1. partiet innføres for oppformering og avlingen skal eksporteres, eller
+2. partiet innføres for rensing og ferdigbehandling før eksport, eller
+3. partiet innføres for endelig sertifisering her i landet, eller
+4. partiet er avlet som foredlermateriale under sortseierens ansvar og kontroll og innføres til videre oppformering under ansvar av sortseierens norske representant.
 
 Mattilsynet kan tillate innførsel av såvarer til vitenskapelige formål, testing eller foredlingsformål uten hensyn til kravene i [§ 4 første ledd](forskrift/1999-09-13-1052/§4/ledd/1) og [§ 24](forskrift/1999-09-13-1052/§24).
 
@@ -336,7 +504,12 @@ Virksomheter som omfattes av denne forskriften skal innføre og utøve internkon
 
 ### § 27. Innholdet i internkontrollen
 
-Internkontroll innebærer at virksomheten skal:Ha oversikt over organisering og ansvarsforhold.Kartlegge risiko for overtredelse av såvareregelverket ut fra virksomhetens aktiviteter, og iverksette tiltak for å redusere risikoen.Ha rutiner for å avdekke, rette opp og hindre gjentakelse av overtredelser.Foreta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
+Internkontroll innebærer at virksomheten skal:
+
+1. Ha oversikt over organisering og ansvarsforhold.
+2. Kartlegge risiko for overtredelse av såvareregelverket ut fra virksomhetens aktiviteter, og iverksette tiltak for å redusere risikoen.
+3. Ha rutiner for å avdekke, rette opp og hindre gjentakelse av overtredelser.
+4. Foreta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
 
 Punkt a-d skal dokumenteres skriftlig i den form og det omfang som er nødvendig på bakgrunn av virksomhetens art, aktiviteter, risikoforhold og størrelse. Dokumentasjonen skal være tilgjengelig for Mattilsynet.
 
@@ -581,50 +754,129 @@ Samtidig oppheves [forskrift av 23. desember 1993 nr. 1418](forskrift/1993-12-23
 *V. Grønnsaker*1
 
 - *Allium cepa* L.
-Cepa-gruppe (kepaløk)
-Aggregatum-gruppe (sjalottløk)
+  Cepa-gruppe (kepaløk)
+  Aggregatum-gruppe (sjalottløk)
 - *Allium fistulosum* L. (pipeløk)
-Alle sorter
+  Alle sorter
 - *Allium porrum* L. (purre)
-Alle sorter
+  Alle sorter
 - *Allium sativum* L. (hvitløk)
-Alle sorter
+  Alle sorter
 - *Allium schoenoprasum* L. (gressløk)
-Alle sorter
+  Alle sorter
 - *Anthriscus cerefolium* (L.) Hoffm. (kjørvel)
-Alle sorter
-- *Apium graveolens* L. (selleri)Gruppen bladselleriGruppen knollselleri
+  Alle sorter
+- *Apium graveolens* L. (selleri)
+
+  - Gruppen bladselleri
+  - Gruppen knollselleri
 - *Asparagus officinalis* L. (matasparges)
-Alle sorter
-- *Beta vulgaris* L. (bete)Gruppen bladbeteGruppen matbete
+  Alle sorter
+- *Beta vulgaris* L. (bete)
+
+  - Gruppen bladbete
+  - Gruppen matbete
 - *Brassica napus* L. var. *napobrassica* (L.) Rchb. (kålrot)
-- *Brassica oleracea* L.Gruppen grønnkålGruppen blomkålGruppen hodekål (rødkål og hvitkål/spisskål)Gruppen rosenkålGruppen knutekålGruppen savoikålGruppen brokkoliGruppen palmekål/svartkålGruppen tronchuda (portugisisk kål)
-- *Brassica rapa* L.Gruppen kinakålGruppen nepe
-- *Capsicum annuum* L. (Paprika og chilipepper)Alle sorter
-- *Cichorium endivia* L. (Endivie)Alle sorter
-- *Cichorium intybus* L. (Sikori)Gruppen witloof (julesalat)Gruppen salatsikori (bredbladet eller italiensk)Gruppen rotsikori
-- *Citrullus lanatus* (Thunb.) Matsum. et Nakai (Vannmelon)Alle sorter
-- *Cucumis melo* L. (Melon)Alle sorter
-- *Cucumis sativus* L.Gruppen slangeagurk (bredbladet eller italiensk)Gruppen drueagurk (sylteagurk)
-- *Cucurbita maxima* Duchesne (Kjempegresskar)Alle sorter
-- *Cucurbita pepo* L. (Mandelgresskar, herunder squash eller Courgette)Alle sorter
-- *Cynara cardunculus* L.Gruppen artiskokkGruppen kardonskokk
-- *Daucus carota* L. (Gulrot)Alle sorter
-- *Foeniculum vulgare* Mill. (Fennikel)Gruppen Azoricum
-- *Lactuca sativa* L. (Salat)Alle sorter
-- *Solanum lycopersicum* L. (Tomat)Alle sorter
-- *Petroselinum crispum (Mill.) Nyman ex A.W. Hill*Gruppen bladpersilleGruppen rotpersille
-- *Phaseolus coccineus* L. (Prydbønne)Alle sorter
-- *Phaseolus vulgaris* L. (Hagebønne)Gruppen buskbønneGruppen stangbønne
-- *Pisum sativum* L. (Hageert)Gruppen pillertGruppen margertGruppen sukkerert
-- *Raphanus sativus* L. (Hagereddik)Gruppen reddikGruppen vinterreddik
-- *Rheum rhabarbarum* L. (Matrabarbra)Alle sorter
-- *Scorzonera hispanica* L. (Skorsonerrot)Alle sorter
-- *Solanum melongena* L. (Aubergin eller eggplante)Alle sorter
-- *Spinacia oleracea* L. (Spinat)Alle sorter
-- *Valerianella locusta* (L.) Laterr. (Vårsalat)Alle sorter
-- *Vicia faba* L. (Bønnevikke)Alle sorter
-- *Zea mays* L. (Mais)Gruppen sukkermaisGruppen perlemais
+- *Brassica oleracea* L.
+
+  - Gruppen grønnkål
+  - Gruppen blomkål
+  - Gruppen hodekål (rødkål og hvitkål/spisskål)
+  - Gruppen rosenkål
+  - Gruppen knutekål
+  - Gruppen savoikål
+  - Gruppen brokkoli
+  - Gruppen palmekål/svartkål
+  - Gruppen tronchuda (portugisisk kål)
+- *Brassica rapa* L.
+
+  - Gruppen kinakål
+  - Gruppen nepe
+- *Capsicum annuum* L. (Paprika og chilipepper)
+
+  - Alle sorter
+- *Cichorium endivia* L. (Endivie)
+
+  - Alle sorter
+- *Cichorium intybus* L. (Sikori)
+
+  - Gruppen witloof (julesalat)
+  - Gruppen salatsikori (bredbladet eller italiensk)
+  - Gruppen rotsikori
+- *Citrullus lanatus* (Thunb.) Matsum. et Nakai (Vannmelon)
+
+  - Alle sorter
+- *Cucumis melo* L. (Melon)
+
+  - Alle sorter
+- *Cucumis sativus* L.
+
+  - Gruppen slangeagurk (bredbladet eller italiensk)
+  - Gruppen drueagurk (sylteagurk)
+- *Cucurbita maxima* Duchesne (Kjempegresskar)
+
+  - Alle sorter
+- *Cucurbita pepo* L. (Mandelgresskar, herunder squash eller Courgette)
+
+  - Alle sorter
+- *Cynara cardunculus* L.
+
+  - Gruppen artiskokk
+  - Gruppen kardonskokk
+- *Daucus carota* L. (Gulrot)
+
+  - Alle sorter
+- *Foeniculum vulgare* Mill. (Fennikel)
+
+  - Gruppen Azoricum
+- *Lactuca sativa* L. (Salat)
+
+  - Alle sorter
+- *Solanum lycopersicum* L. (Tomat)
+
+  - Alle sorter
+- *Petroselinum crispum (Mill.) Nyman ex A.W. Hill*
+
+  - Gruppen bladpersille
+  - Gruppen rotpersille
+- *Phaseolus coccineus* L. (Prydbønne)
+
+  - Alle sorter
+- *Phaseolus vulgaris* L. (Hagebønne)
+
+  - Gruppen buskbønne
+  - Gruppen stangbønne
+- *Pisum sativum* L. (Hageert)
+
+  - Gruppen pillert
+  - Gruppen margert
+  - Gruppen sukkerert
+- *Raphanus sativus* L. (Hagereddik)
+
+  - Gruppen reddik
+  - Gruppen vinterreddik
+- *Rheum rhabarbarum* L. (Matrabarbra)
+
+  - Alle sorter
+- *Scorzonera hispanica* L. (Skorsonerrot)
+
+  - Alle sorter
+- *Solanum melongena* L. (Aubergin eller eggplante)
+
+  - Alle sorter
+- *Spinacia oleracea* L. (Spinat)
+
+  - Alle sorter
+- *Valerianella locusta* (L.) Laterr. (Vårsalat)
+
+  - Alle sorter
+- *Vicia faba* L. (Bønnevikke)
+
+  - Alle sorter
+- *Zea mays* L. (Mais)
+
+  - Gruppen sukkermais
+  - Gruppen perlemais
 
 1 Inkluderer alle hybrider av disse artene.
 
@@ -756,7 +1008,10 @@ Ved avl av hybridsorter av rug, klasse basis, skal hansteriliteten hos hunkompon
 
 For hybridsorter av bygg, hvete, spelt og durumhvete produsert ved hjelp av CMS-hybrider, kan avlen av såvarer klasse sertifisert skje i en blanding bestående av en hansteril hunkomponent og en hankomponent som gjenoppretter fertiliteten.
 
-Ved avl av hybridsorter, unntatt for rug og CMS-hybrider av bygg, hvete, spelt og durumhvete, gjelder følgende krav dersom utsæden produseres ved bruk av kjemisk hybridiseringsmiddel:Sortsrenheten skal for hver komponent være minst 99,0% for rughvete og minst 99,7% for øvrige arterHybridiseringsgraden skal være minst 95%.
+Ved avl av hybridsorter, unntatt for rug og CMS-hybrider av bygg, hvete, spelt og durumhvete, gjelder følgende krav dersom utsæden produseres ved bruk av kjemisk hybridiseringsmiddel:
+
+- Sortsrenheten skal for hver komponent være minst 99,0% for rughvete og minst 99,7% for øvrige arter
+- Hybridiseringsgraden skal være minst 95%.
 
 *3. Kontraktavlerens generelle plikter*
 
@@ -810,7 +1065,11 @@ For alle klasser skal det gå minimum seks år mellom dyrking av ulike Brassica-
 
 En kontraktavler kan bare avle én sort av samme art i en vekstsesong.
 
-Bestemmelsen i første ledd gjelder med følgende unntak:Ved avl av vår- og høstformer av samme art, men ved overvintringsskader i høstkorn kan det ikke brukes vårkorn av samme art til å reparere skadene.For arealer som avleren dyrker utenom kontrakt, og der vedkommende benytter separat skurtresker, korntørke og -lager. Det er en forutsetning at dette er avklart på forhånd med såvareforretningen, og at opplysningene om areal utenom kontrakt, separat skurtresker, korntørke og -lager er angitt i eiendomsspesifikasjonen.På avlsgårder der det drives foredling og produksjon av såvarer klasse prebasis.
+Bestemmelsen i første ledd gjelder med følgende unntak:
+
+- Ved avl av vår- og høstformer av samme art, men ved overvintringsskader i høstkorn kan det ikke brukes vårkorn av samme art til å reparere skadene.
+- For arealer som avleren dyrker utenom kontrakt, og der vedkommende benytter separat skurtresker, korntørke og -lager. Det er en forutsetning at dette er avklart på forhånd med såvareforretningen, og at opplysningene om areal utenom kontrakt, separat skurtresker, korntørke og -lager er angitt i eiendomsspesifikasjonen.
+- På avlsgårder der det drives foredling og produksjon av såvarer klasse prebasis.
 
 *7. Avl av korn utenom kontrakt og annen frøavl*
 
@@ -878,7 +1137,14 @@ Forretningen skal innen følgende frister sende en liste til Mattilsynet over hv
 
 *2. Innmelding av kontraktarealer*
 
-Ved endelig innmelding av kontraktarealer skal forretningen oppgi følgende:Avlerens navn og adresse, gårdsnavn, kommune og fylkeArt og sort som skal dyrkesKontraktareal i dekarUtsædspartiets nummer og generasjonFor flerårige vekster: Gjenleggsår for kontraktarealetFor grønnsaksvekster: Utsædspartiets avlsår.
+Ved endelig innmelding av kontraktarealer skal forretningen oppgi følgende:
+
+1. Avlerens navn og adresse, gårdsnavn, kommune og fylke
+2. Art og sort som skal dyrkes
+3. Kontraktareal i dekar
+4. Utsædspartiets nummer og generasjon
+5. For flerårige vekster: Gjenleggsår for kontraktarealet
+6. For grønnsaksvekster: Utsædspartiets avlsår.
 
 For innmelding av kontraktarealer gjelder følgende frister:
 
@@ -894,7 +1160,10 @@ For innmelding av kontraktarealer gjelder følgende frister:
 
 Forretningene skal innen 15. april sende melding til Mattilsynet om nye kontraktavlere. Ved såkorndyrking og ved dyrking av storfrøede grasarter skal også nye arealer hos etablerte kontraktavlere meldes inn innen 15. april.
 
-Innmeldingen skal inneholde:Avlerens navn og adresse, gårdsnavn og alle eiendommer med gnr., bnr. og kommune og fylke som kontraktavleren driver.Art og sort som skal dyrkes.
+Innmeldingen skal inneholde:
+
+1. Avlerens navn og adresse, gårdsnavn og alle eiendommer med gnr., bnr. og kommune og fylke som kontraktavleren driver.
+2. Art og sort som skal dyrkes.
 
 Hos nye kontraktavlere skal det i tillegg til vekstkontrollen, utføres en egen floghavrekontroll på alle arealer vedkommende driver, også arealer utenom kontrakt. Det samme gjelder nye arealer hos etablerte kontraktavlere.
 
@@ -924,7 +1193,16 @@ Vekstkontrollen bør ikke utføres under værforhold som gjør observasjonene us
 
 *Gjennomføring av vekstkontrollen:*
 
-Mattilsynet autoriserer vekstkontrollørene før de starter kontrollen. Kontrollørene skal påse at dyrkingsreglene er fulgt. Dersom arealet er delt opp i delareal på grunn av forskjellig forgrøde, noteres dette. Videre skal kontrollen undersøke og gi melding på standardisert vekstkontrollskjema om:forgrødeinnblanding av andre sorter og arterfunn av skadegjørere (sjukdommer og skadedyr)floghavrelegde, store ugrasforekomster eller andre forhold som vanskeliggjør kontrollenom det avles korn eller frø utenom kontraktom det avles andre sorter av samme art utenom kontraktom det foreligger krysningsfare og om avstanden til annen sort holder de fastsatte kravene (jf. dyrkingsreglene).
+Mattilsynet autoriserer vekstkontrollørene før de starter kontrollen. Kontrollørene skal påse at dyrkingsreglene er fulgt. Dersom arealet er delt opp i delareal på grunn av forskjellig forgrøde, noteres dette. Videre skal kontrollen undersøke og gi melding på standardisert vekstkontrollskjema om:
+
+- forgrøde
+- innblanding av andre sorter og arter
+- funn av skadegjørere (sjukdommer og skadedyr)
+- floghavre
+- legde, store ugrasforekomster eller andre forhold som vanskeliggjør kontrollen
+- om det avles korn eller frø utenom kontrakt
+- om det avles andre sorter av samme art utenom kontrakt
+- om det foreligger krysningsfare og om avstanden til annen sort holder de fastsatte kravene (jf. dyrkingsreglene).
 
 Det skal kontrolleres at grensebeltene er tilstrekkelig brede der dette er påkrevet.
 
@@ -1050,9 +1328,18 @@ Grønnsaksfrø som tilfredsstiller de kvalitetskravene som er fastsatt for klass
 
 *Småpakninger – jordbruksfrø:*
 
-1. EØS-småpakning A:En pakning med frøblanding av arter oppført i vedlegg A1 romertall II, til annet enn jordbruksformål, av klasse sertifisert eller handelsfrø, med en nettovekt på maksimalt 2 kg. (F.eks. plenfrø).
-2. EØS-småpakning B:En pakning med renfrø av arter oppført i vedlegg A1 romertall II, av klasse sertifisert eller handelsfrø, eller en blanding av slikt frø unntatt hvis pakningen er en EØS-småpakning A, med en nettovekt på maksimalt 10 kg.
-3. EØS-småpakning beter:En pakning med frø av beter jf. vedlegg A1 romertall III, av klasse sertifisert med:monogermt eller presisjonsfrø, med en nettovekt på maksimalt 2,5 kg eller med inntil 100 000 frøklynger ellerannet frø med en nettovekt på maksimalt 10 kg.
+1. EØS-småpakning A:
+
+   En pakning med frøblanding av arter oppført i vedlegg A1 romertall II, til annet enn jordbruksformål, av klasse sertifisert eller handelsfrø, med en nettovekt på maksimalt 2 kg. (F.eks. plenfrø).
+2. EØS-småpakning B:
+
+   En pakning med renfrø av arter oppført i vedlegg A1 romertall II, av klasse sertifisert eller handelsfrø, eller en blanding av slikt frø unntatt hvis pakningen er en EØS-småpakning A, med en nettovekt på maksimalt 10 kg.
+3. EØS-småpakning beter:
+
+   En pakning med frø av beter jf. vedlegg A1 romertall III, av klasse sertifisert med:
+
+   - monogermt eller presisjonsfrø, med en nettovekt på maksimalt 2,5 kg eller med inntil 100 000 frøklynger eller
+   - annet frø med en nettovekt på maksimalt 10 kg.
 
 De oppgitte vektgrensene for pakninger gjelder rent frø. Vekten av granulerte pesticider, pilleringsmidler eller andre faste tilsetningsstoffer regnes ikke med.
 
@@ -1112,7 +1399,11 @@ Søknad skal fremmes på særskilt skjema hvor det også skal gis opplysninger o
 
 3\. *Mengde*
 
-Mengden frø som tillates omsatt er begrenset av følgende prosentandel av den totale frømengde av respektive art som brukes årlig i den eller de EØS-land frøet av sorten er bestemt til:havre, bygg, hvete, åkerert og bønnevikke: 0,3%durumhvete: 0,05%øvrige arter: 0,1%.
+Mengden frø som tillates omsatt er begrenset av følgende prosentandel av den totale frømengde av respektive art som brukes årlig i den eller de EØS-land frøet av sorten er bestemt til:
+
+- havre, bygg, hvete, åkerert og bønnevikke: 0,3%
+- durumhvete: 0,05%
+- øvrige arter: 0,1%.
 
 Dersom denne mengden ikke er tilstrekkelig til å så 100 daa pr. medlemsstat som frøet er bestemt til, kan det gis tillatelse for en mengde som er nødvendig for et areal på 100 daa.
 
@@ -1122,18 +1413,40 @@ Følgende kvalitetskrav skal være oppfylt:
 
 *Såkorn:*
 
-- Rug, mais og hybrider av havre, bygg, hvete, durumhvete, spelt og rughvete, unntatt selvbestøvende sorter:Vedlegg A5, pkt. 8Vedlegg B1, del 2, klasse C1Vedlegg B1, del 3.
-- Havre, bygg, hvete, durumhvete, spelt, rughvete og selvbestøvende sorter av rug og mais, unntatt hybrider i hvert enkelt tilfelle:Vedlegg A5, pkt. 8Vedlegg B1, del 2, klasse C2Vedlegg B1, del 3.
+- Rug, mais og hybrider av havre, bygg, hvete, durumhvete, spelt og rughvete, unntatt selvbestøvende sorter:
+
+  - Vedlegg A5, pkt. 8
+  - Vedlegg B1, del 2, klasse C1
+  - Vedlegg B1, del 3.
+- Havre, bygg, hvete, durumhvete, spelt, rughvete og selvbestøvende sorter av rug og mais, unntatt hybrider i hvert enkelt tilfelle:
+
+  - Vedlegg A5, pkt. 8
+  - Vedlegg B1, del 2, klasse C2
+  - Vedlegg B1, del 3.
 
 *Jordbruksfrø:*
 
-- Fôrvekster og gras til grøntanlegg:Vedlegg A5, pkt. 8Vedlegg C1, del I, klasse C (klasse C2 for åkerert og bønnevikke)Vedlegg C1, del IV.
-- Beter:Vedlegg A5, pkt. 8Vedlegg C1, del IIVedlegg C1, del IV.
-- Olje- og fiberplanter:Vedlegg A5, pkt. 8Vedlegg C1, del III, klasse C (klasse C1 og C2 for lin)Vedlegg C1, del IV.
+- Fôrvekster og gras til grøntanlegg:
+
+  - Vedlegg A5, pkt. 8
+  - Vedlegg C1, del I, klasse C (klasse C2 for åkerert og bønnevikke)
+  - Vedlegg C1, del IV.
+- Beter:
+
+  - Vedlegg A5, pkt. 8
+  - Vedlegg C1, del II
+  - Vedlegg C1, del IV.
+- Olje- og fiberplanter:
+
+  - Vedlegg A5, pkt. 8
+  - Vedlegg C1, del III, klasse C (klasse C1 og C2 for lin)
+  - Vedlegg C1, del IV.
 
 *Hagebruksfrø:*
 
-- Grønnsaker:Vedlegg D1, del I.
+- Grønnsaker:
+
+  - Vedlegg D1, del I.
 
 > Vedlegget tilføyd ved [forskrift 15 mars 2006 nr. 308](forskrift/2006-03-15-308). Endret ved [forskrift 31 mai 2011 nr. 567](forskrift/2011-05-31-567) (tidligere vedlegg A13).
 
@@ -1270,7 +1583,34 @@ I sortsblandinger skal de enkelte sortene inngå i blandingen etter oppgitt meng
 
 Alt såkorn skal oppfylle følgende krav:
 
-Kravene gjelder for alt såkorn både under del 1 og del 2Ved vekstkontrollen skal plantene være praktisk talt frie for skadegjørere som reduserer bruksverdien og kvaliteten på frøene.De ulike klassene såkorn skal ikke inneholde større mengde avvikende sort og forekomst av naken sot enn det som følger av tabellen:*Klasse**Utsæd**Avvikende type (maks. innhold)**Naken sot*1 *(maks. innhold)**Vekstkontroll, planter/dekar**Kontrolldyrking, % planter**Vekstkontroll, planter/dekar**Kontrolldyrking, % planter*PREBASISForedlermateriale eller prebasis250,11000,05BASIS– Rug2Prebasis330,21000,05– CMS-hybrider av byggPrebasis – Vedlikeholder – Gjenopprettende linje0,1Prebasis – CMS-hunkomponenten0,2– CMS-hybrider av hvete, spelt og durumhvetePrebasis – Vedlikeholder – Gjenopprettende linje0,1Prebasis – CMS-hunkomponenten0,3– Andre sorter/arterPrebasis250,11000,05SERTIFISERTC rug2Minimum basis1000,62000,1C CMS-hybrider av byggMinimum basis– Gjenopprettende linje og CMS-hunkomponenten0,3– CMS-hunkomponenten hos enkelthybrider0,5C CMS-hybrider av hvete, spelt og durumhveteMinimum basis– Gjenopprettende linje0,3– CMS-hunkomponenten0,6– CMS-hunkomponenten hos enkelthybrider1,0C andre hybrider500,32000,1C1Minimum basis500,32000,1C2Minimum C11501,04001,0
+Kravene gjelder for alt såkorn både under del 1 og del 2
+
+1. Ved vekstkontrollen skal plantene være praktisk talt frie for skadegjørere som reduserer bruksverdien og kvaliteten på frøene.
+2. De ulike klassene såkorn skal ikke inneholde større mengde avvikende sort og forekomst av naken sot enn det som følger av tabellen:
+
+   | *Klasse* | *Utsæd* | *Avvikende type (maks. innhold)* |  | *Naken sot*1 *(maks. innhold)* |  |
+   | --- | --- | --- | --- | --- | --- |
+   |  |  | *Vekstkontroll, planter/dekar* | *Kontrolldyrking, % planter* | *Vekstkontroll, planter/dekar* | *Kontrolldyrking, % planter* |
+   | PREBASIS | Foredlermateriale eller prebasis | 25 | 0,1 | 100 | 0,05 |
+   | BASIS |  |  |  |  |  |
+   | – Rug2 | Prebasis | 33 | 0,2 | 100 | 0,05 |
+   | – CMS-hybrider av bygg | Prebasis – Vedlikeholder – Gjenopprettende linje |  | 0,1 |  |  |
+   |  | Prebasis – CMS-hunkomponenten |  | 0,2 |  |  |
+   | – CMS-hybrider av hvete, spelt og durumhvete | Prebasis – Vedlikeholder – Gjenopprettende linje |  | 0,1 |  |  |
+   |  | Prebasis – CMS-hunkomponenten |  | 0,3 |  |  |
+   | – Andre sorter/arter | Prebasis | 25 | 0,1 | 100 | 0,05 |
+   | SERTIFISERT |  |  |  |  |  |
+   | C rug2 | Minimum basis | 100 | 0,6 | 200 | 0,1 |
+   | C CMS-hybrider av bygg | Minimum basis |  |  |  |  |
+   |  | – Gjenopprettende linje og CMS-hunkomponenten |  | 0,3 |  |  |
+   |  | – CMS-hunkomponenten hos enkelthybrider |  | 0,5 |  |  |
+   | C CMS-hybrider av hvete, spelt og durumhvete | Minimum basis |  |  |  |  |
+   |  | – Gjenopprettende linje |  | 0,3 |  |  |
+   |  | – CMS-hunkomponenten |  | 0,6 |  |  |
+   |  | – CMS-hunkomponenten hos enkelthybrider |  | 1,0 |  |  |
+   | C andre hybrider |  | 50 | 0,3 | 200 | 0,1 |
+   | C1 | Minimum basis | 50 | 0,3 | 200 | 0,1 |
+   | C2 | Minimum C1 | 150 | 1,0 | 400 | 1,0 |
 
 1 Innholdet av naken sot kan også etterprøves ved laboratoriekontroll om det anses som nødvendig.
 
@@ -1301,9 +1641,21 @@ a. *Pakninger med såkorn – alle arter og klasser:*
 *Merknader:*
 
 1. Dersom det er brukt granulerte pesticider, pilleringsmidler eller andre tilsetningsstoffer til behandling av såkornet, skal stoffenes navn, og omtrentlig forhold mellom vekt av såkornet og totalvekt, oppgis.
-2. Ved ny prøve og analyse som viser at partiet fortsatt tilfredsstiller kravet til spireevne, skal pakningene tilleggsmerkes med «Ny prøve uttatt måned og år», jf. § 22 tredje og fjerde ledd. Tilleggsmerkingen kan også inneholde siste salgsdato.Dersom såvareforretningen har digital løsning som støtter sporing og oppfølging av nye spireanalyser, er dette tilstrekkelig dokumentasjon.
-3. For sorts- og artsblandinger skal merkingen i tillegg inneholde følgende opplysninger:betegnelsen «sortsblanding» eller «artsblanding»artenes/sortenes vektforhold
-4. Under punkt 6 gjelder for hybridsorter og innavlede linjer:For klasse basis, hvor hybriden eller den innavlede linjen (komponenten) er opptatt på en sortsliste:Komponentens navn, med eller uten henvisning til den endelige sort.For hybrider eller innavlede linjer, som bare brukes som komponenter i endelige sorter: «Komponent».For klasse basis, hvor hybriden eller den innavlede linjen (komponenten) ikke er opptatt på en sortsliste: Navnet på komponenten av klasse basis, som kan angis i kode med referanse til den endelige sorten, med eller uten henvisning til dens funksjon (hanlig eller hunlig), og betegnelsen: «Komponent».For klasse sertifisert: Sortsnavnet og «Hybrid».
+2. Ved ny prøve og analyse som viser at partiet fortsatt tilfredsstiller kravet til spireevne, skal pakningene tilleggsmerkes med «Ny prøve uttatt måned og år», jf. § 22 tredje og fjerde ledd. Tilleggsmerkingen kan også inneholde siste salgsdato.
+
+   Dersom såvareforretningen har digital løsning som støtter sporing og oppfølging av nye spireanalyser, er dette tilstrekkelig dokumentasjon.
+3. For sorts- og artsblandinger skal merkingen i tillegg inneholde følgende opplysninger:
+
+   - betegnelsen «sortsblanding» eller «artsblanding»
+   - artenes/sortenes vektforhold
+4. Under punkt 6 gjelder for hybridsorter og innavlede linjer:
+
+   1. For klasse basis, hvor hybriden eller den innavlede linjen (komponenten) er opptatt på en sortsliste:
+
+      1. Komponentens navn, med eller uten henvisning til den endelige sort.
+      2. For hybrider eller innavlede linjer, som bare brukes som komponenter i endelige sorter: «Komponent».
+   2. For klasse basis, hvor hybriden eller den innavlede linjen (komponenten) ikke er opptatt på en sortsliste: Navnet på komponenten av klasse basis, som kan angis i kode med referanse til den endelige sorten, med eller uten henvisning til dens funksjon (hanlig eller hunlig), og betegnelsen: «Komponent».
+   3. For klasse sertifisert: Sortsnavnet og «Hybrid».
 
 *b. Pakninger med såkorn av ikke endelig godkjent sort:*
 
@@ -1351,7 +1703,13 @@ a. *Pakninger med såkorn – alle arter og klasser:*
 
 *a. Varedeklarasjon på pakninger med såkorn til vitenskapelig formål eller foredlingsformål:*
 
-Leverandør skal ha med følgende opplysninger i merkingen:Firmanavn og adresseArtSort«Bare til vitenskapelig formål eller foredlingsformål»Andre opplysninger.
+Leverandør skal ha med følgende opplysninger i merkingen:
+
+1. Firmanavn og adresse
+2. Art
+3. Sort
+4. «Bare til vitenskapelig formål eller foredlingsformål»
+5. Andre opplysninger.
 
 *b. Varedeklarasjon på pakninger med foredlermateriale av såkorn:*
 
@@ -1397,8 +1755,27 @@ Kravene i del I til III kontrolleres ved laboratorieanalysen hvis ikke annet gå
 
 *A. Klasse sertifisert*
 
-1. Frøet skal være tilstrekkelig sortsekte og sortsrent. Sortsrenheten for følgende arter skal være minst:Engrapp, enklona sorter (*Poa pratensis*),Fôrmargkål *(Brassica oleracea* convar. *acephala)*98 %Kålrot *(Brassica napus* L. var. *napobrassica* (L.) *Rchb*.Åkerert (*Pisum sativum*),Bønnevikke (*Vicia faba*):– sertifisert frø 1. generasjon:99 %– sertifisert frø 2. generasjon:98  %Minstekravene til sortsrenhet kontrolleres ved vekstkontrollen og kontrolldyrkingen.
-2. Frøene skal være praktisk talt frie for skadegjørere som reduserer bruksverdien og kvaliteten på frøene.Maksimalt innhold av skadegjørere:*Skadegjører eller symptom av skadegjører**Art**Maksimalt innhold Klasse P (%)**Maksimalt innhold Klasse B (%)**Maksimalt innhold Klasse C (%)**Clavibacter michiganensis ssp.insidiosus (McCulloch 1925) Davis et al.* [CORBIN]*Medicago sativa* L.000*Ditylenchus dipsaci (Kuehn) Filipjev* [DITYDI]*Medicago sativa* L.000
+1. Frøet skal være tilstrekkelig sortsekte og sortsrent. Sortsrenheten for følgende arter skal være minst:
+
+   |  |  |
+   | --- | --- |
+   | Engrapp, enklona sorter (*Poa pratensis*), |  |
+   | Fôrmargkål *(Brassica oleracea* convar. *acephala)* | 98 % |
+   | Kålrot *(Brassica napus* L. var. *napobrassica* (L.) *Rchb*. |  |
+   | Åkerert (*Pisum sativum*), |  |
+   | Bønnevikke (*Vicia faba*): |  |
+   | – sertifisert frø 1. generasjon: | 99 % |
+   | – sertifisert frø 2. generasjon: | 98  % |
+
+   Minstekravene til sortsrenhet kontrolleres ved vekstkontrollen og kontrolldyrkingen.
+2. Frøene skal være praktisk talt frie for skadegjørere som reduserer bruksverdien og kvaliteten på frøene.
+
+   Maksimalt innhold av skadegjørere:
+
+   | *Skadegjører eller symptom av skadegjører* | *Art* | *Maksimalt innhold Klasse P (%)* | *Maksimalt innhold Klasse B (%)* | *Maksimalt innhold Klasse C (%)* |
+   | --- | --- | --- | --- | --- |
+   | *Clavibacter michiganensis ssp.insidiosus (McCulloch 1925) Davis et al.* [CORBIN] | *Medicago sativa* L. | 0 | 0 | 0 |
+   | *Ditylenchus dipsaci (Kuehn) Filipjev* [DITYDI] | *Medicago sativa* L. | 0 | 0 | 0 |
 3. Frøet skal tilfredsstille de oppførte kravene til renhet, innhold av frø av andre plantearter, innhold av harde frø, vektmengde for antallsbestemmelse av frø av andre plantearter, og minste prøvestørrelse til analyse av et frøparti som er oppført i tabell 1a og 1b.
 
 *Tabell 1a. Klasse sertifisert frø av grasarter. Krav til spireevne, renhet, innhold av frø av andre arter, prøvestørrelse til bestemmelse av frø av andre arter, samt minste prøvestørrelse til analyse av et frøparti.*
@@ -1411,75 +1788,38 @@ For å lese tabellen i pdf, se her: [(pdf)](static/SF/sf-19990913-1052-01-06.pdf
 2. Ett frø av *Cuscuta* spp. i prøven regnes ikke som urenhet dersom en ny prøve av samme størrelse finnes fri for fra av *Cuscuta* spp. For andre enn timotei-artene (Phleum) behøver en ikke å undersøke for frø av *Cuscuta* spp. med mindre en har mistanke om at kravene ikke er tilfredsstilt.
 3. For reverumpe (Alopecurus) gjelder ikke maksimumsgrensen for frø av rapp-artene i kolonne 5.
 4. For en rapp-art (Poa) regnes ikke en andel på 0,8 vektprosent frø av andre rapp-arter som en urenhet, og denne andelen regnes ikke med i innholdet av frø av andre plantearter i kolonne 4 og 5.
-5. For undersøkelse av floghavre i grasfrø tas det ut prøver i engsvingel, strandsvingel, raigras, bladfaks og raisvingel på 200 gram. Tabell 1b. Klasse sertifisert frø av belgvekster og andre arter av fôrvekster. Krav til spireevne, innhold av harde frø, renhet og frø av andre arter, prøvestørrelse til bestemmelse av frø av andre arter, samt minste prøvestørrelse til analyse av et frøparti.*Arter**Minste*
-*spire*
-*evne*
-(Alle
-friske, uspirte frø
-regnes som
-spirte.)*Største*
-*innhold*
-*av harde*
-*frø*
-(merk-
-nad a)*Minste*
-*renhet**Største innhold av*
-*frø av andre arter,*
-*% av vekt**Største innhold av frø av andre arter,*
-*antall i analyseprøven**Prøve-*
-*str. til*
-*best. av*
-*antall frø*
-*av andre*
-*arter**Minste*
-*prøvestr.*
-*til analyse*
-*av et*
-*frøparti**%**% av*
-*ant.**% av*
-*vekt**i alt**en*
-*enkelt*
-*art**Melilotus*
-*spp.*
-*(steinkløver)**Cuscuta spp.*
-(merknad e)*Avena fatua*
-*(floghavre),*
-*Avena sterilis**Rumex spp. (syre)*
-*unntatt R.*
-*acetosella*
-*(småsyre) og*
-*R.maritimus*
-*(fjøre-*
-*høymole)*
-(merknad f)*Echino-*
-*chloa*
-*crus-galli*
-*(hønse-*
-*hirse)**gram**1**2**3**4**5**6**7**8**9**10**11**12**13**Belgvekster:*0*Galega orientalis*
-(Strekbelg)6040972,0c, i1,50,300100200250*Lotus corniculatus*
-(Tiriltunge)7540951,8b1,00,30010030200*Lupinus angustifolius*
-(Kvitlupin)g, h7520980,5c0,30,3005010001000*Lupinus*, øvrige arter
-(Lupin)g, h8020980,5c0,30,3005010001000*Medicago lupulina*
-(Sneglebelg)8020971,51,00,30010050300*Medicago sativa*
-(Blåluserne)8040971,51,00,30010050300*Medicago x varia*
-(Mellomluserne)8040971,51,00,30010050300*Onobrychis viciifolia*
-(Esparsett)7520952,51,00,30050Frukt-600
-Frø-400Frukt-600
-Frø-400*Pisum sativum*
-(Åkerert)80–980,5c0,30,3005010001000*Trifolium alexandrinum*
-(Alexandriner-
-kløver)8020971,51,00,30010060400*Trifolium hybridum*
-(Alsikekløver)8020971,51,00,30010020200*Trifolium incarnatum*
-(Blodkløver)7520971,51,00,30010080500*Trifolium pratense*
-(Rødkløver)8020971,51,00,30010050300*Trifolium repens*
-(Kvitkløver)8040971,51,00,30010020200*Trifolium resupinatum*
-(Perserkløver)8020971,51,00,30010020200*Trifolium subterraneum*
-(Jordkløver)8040970,50010025025*Vicia faba*
-(Bønnevikke)805980,5c0,30,3005010001000*Vicia*, øvrige arter
-(Vikke)8520981,0c0,50,3005010001000*Andre arter:*0*Brassica napus* var. *napobrassica*
-(Kålrot)80–981,0d0,5–0050100200*Brassica oleracea* convar. *acephala* (Fôrmargkål)75–981,0d0,5–00100100200*Phacelia tanacetifolia*
-(Honningurt)80–961,00,5–00–040300*Raphanus sativus* var. *oleiformis*
-(Fôrreddik)80–971,0d0,5–0050300300
+5. For undersøkelse av floghavre i grasfrø tas det ut prøver i engsvingel, strandsvingel, raigras, bladfaks og raisvingel på 200 gram.
+
+   Tabell 1b. Klasse sertifisert frø av belgvekster og andre arter av fôrvekster. Krav til spireevne, innhold av harde frø, renhet og frø av andre arter, prøvestørrelse til bestemmelse av frø av andre arter, samt minste prøvestørrelse til analyse av et frøparti.
+
+   | *Arter* | *Minste*<br>*spire*<br>*evne*<br>(Alle<br>friske, uspirte frø<br>regnes som<br>spirte.) | *Største*<br>*innhold*<br>*av harde*<br>*frø*<br>(merk-<br>nad a) | *Minste*<br>*renhet* | *Største innhold av*<br>*frø av andre arter,*<br>*% av vekt* |  |  | *Største innhold av frø av andre arter,*<br>*antall i analyseprøven* |  |  |  | *Prøve-*<br>*str. til*<br>*best. av*<br>*antall frø*<br>*av andre*<br>*arter* | *Minste*<br>*prøvestr.*<br>*til analyse*<br>*av et*<br>*frøparti* |
+   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+   |  | *%* | *% av*<br>*ant.* | *% av*<br>*vekt* | *i alt* | *en*<br>*enkelt*<br>*art* | *Melilotus*<br>*spp.*<br>*(steinkløver)* | *Cuscuta spp.*<br>(merknad e) | *Avena fatua*<br>*(floghavre),*<br>*Avena sterilis* | *Rumex spp. (syre)*<br>*unntatt R.*<br>*acetosella*<br>*(småsyre) og*<br>*R.maritimus*<br>*(fjøre-*<br>*høymole)*<br>(merknad f) | *Echino-*<br>*chloa*<br>*crus-galli*<br>*(hønse-*<br>*hirse)* | *gram* |  |
+   | *1* | *2* | *3* | *4* | *5* | *6* | *7* | *8* | *9* | *10* | *11* | *12* | *13* |
+   | *Belgvekster:* |  |  |  |  |  |  |  |  |  | 0 |  |  |
+   | *Galega orientalis*<br>(Strekbelg) | 60 | 40 | 97 | 2,0c, i | 1,5 | 0,3 | 0 | 0 | 10 | 0 | 200 | 250 |
+   | *Lotus corniculatus*<br>(Tiriltunge) | 75 | 40 | 95 | 1,8b | 1,0 | 0,3 | 0 | 0 | 10 | 0 | 30 | 200 |
+   | *Lupinus angustifolius*<br>(Kvitlupin)g, h | 75 | 20 | 98 | 0,5c | 0,3 | 0,3 | 0 | 0 | 5 | 0 | 1000 | 1000 |
+   | *Lupinus*, øvrige arter<br>(Lupin)g, h | 80 | 20 | 98 | 0,5c | 0,3 | 0,3 | 0 | 0 | 5 | 0 | 1000 | 1000 |
+   | *Medicago lupulina*<br>(Sneglebelg) | 80 | 20 | 97 | 1,5 | 1,0 | 0,3 | 0 | 0 | 10 | 0 | 50 | 300 |
+   | *Medicago sativa*<br>(Blåluserne) | 80 | 40 | 97 | 1,5 | 1,0 | 0,3 | 0 | 0 | 10 | 0 | 50 | 300 |
+   | *Medicago x varia*<br>(Mellomluserne) | 80 | 40 | 97 | 1,5 | 1,0 | 0,3 | 0 | 0 | 10 | 0 | 50 | 300 |
+   | *Onobrychis viciifolia*<br>(Esparsett) | 75 | 20 | 95 | 2,5 | 1,0 | 0,3 | 0 | 0 | 5 | 0 | Frukt-600<br>Frø-400 | Frukt-600<br>Frø-400 |
+   | *Pisum sativum*<br>(Åkerert) | 80 | – | 98 | 0,5c | 0,3 | 0,3 | 0 | 0 | 5 | 0 | 1000 | 1000 |
+   | *Trifolium alexandrinum*<br>(Alexandriner-<br>kløver) | 80 | 20 | 97 | 1,5 | 1,0 | 0,3 | 0 | 0 | 10 | 0 | 60 | 400 |
+   | *Trifolium hybridum*<br>(Alsikekløver) | 80 | 20 | 97 | 1,5 | 1,0 | 0,3 | 0 | 0 | 10 | 0 | 20 | 200 |
+   | *Trifolium incarnatum*<br>(Blodkløver) | 75 | 20 | 97 | 1,5 | 1,0 | 0,3 | 0 | 0 | 10 | 0 | 80 | 500 |
+   | *Trifolium pratense*<br>(Rødkløver) | 80 | 20 | 97 | 1,5 | 1,0 | 0,3 | 0 | 0 | 10 | 0 | 50 | 300 |
+   | *Trifolium repens*<br>(Kvitkløver) | 80 | 40 | 97 | 1,5 | 1,0 | 0,3 | 0 | 0 | 10 | 0 | 20 | 200 |
+   | *Trifolium resupinatum*<br>(Perserkløver) | 80 | 20 | 97 | 1,5 | 1,0 | 0,3 | 0 | 0 | 10 | 0 | 20 | 200 |
+   | *Trifolium subterraneum*<br>(Jordkløver) | 80 | 40 | 97 | 0,5 |  |  | 0 | 0 | 10 | 0 | 250 | 25 |
+   | *Vicia faba*<br>(Bønnevikke) | 80 | 5 | 98 | 0,5c | 0,3 | 0,3 | 0 | 0 | 5 | 0 | 1000 | 1000 |
+   | *Vicia*, øvrige arter<br>(Vikke) | 85 | 20 | 98 | 1,0c | 0,5 | 0,3 | 0 | 0 | 5 | 0 | 1000 | 1000 |
+   | *Andre arter:* |  |  |  |  |  |  |  |  |  | 0 |  |  |
+   | *Brassica napus* var. *napobrassica*<br>(Kålrot) | 80 | – | 98 | 1,0d | 0,5 | – | 0 | 0 | 5 | 0 | 100 | 200 |
+   | *Brassica oleracea* convar. *acephala* (Fôrmargkål) | 75 | – | 98 | 1,0d | 0,5 | – | 0 | 0 | 10 | 0 | 100 | 200 |
+   | *Phacelia tanacetifolia*<br>(Honningurt) | 80 | – | 96 | 1,0 | 0,5 | – | 0 | 0 | – | 0 | 40 | 300 |
+   | *Raphanus sativus* var. *oleiformis*<br>(Fôrreddik) | 80 | – | 97 | 1,0d | 0,5 | – | 0 | 0 | 5 | 0 | 300 | 300 |
 
 *Merknader til kravene for klasse sertifisert frø av belgvekster og andre arter av fôrvekster:*
 
@@ -1487,8 +1827,14 @@ kløver)8020971,51,00,30010060400*Trifolium hybridum*
 2. For frø av tiriltunge regnes ikke en forekomst på inntil 1 vektprosent av rødkløverfrø som urenhet, og denne andelen legges ikke til summene av kolonne 5 og 6.
 3. Opp til 0,5 vektprosent frø av lupin i lupin, av ert i åkerert, av storfrøede vikker i storfrøede vikkearter og småfrøede vikker i småfrøede vikkearter regnes ikke som urenhet, og denne andelen legges ikke til summene av kolonne 5 og 6.
 4. Vektprosenten av frø av åkerreddik (Raphanus raphanistrum) og åkersennep (Sinapis arvensis) skal ikke overstige 0,3 i fôrmargkål (Brassica oleracea convar. acephala), kålrot (Brassica napus var. napobrassica) og fôrreddik (Raphanus sativus).
-5. Ett frø av *Cuscuta* spp. regnes ikke som en urenhet i fôrmargkål dersom en ny prøve av størrelse som angitt i kolonne 12 er fri for *Cuscuta* spp.For frø av strekbelg, tiriltunge, luserne og kløver regnes ikke forekomst av ett frø av *Cuscuta* spp. som urenhet dersom en ny prøve på dobbel mengde av det som er oppgitt i kolonne 12 finnes fri for *Cuscuta* spp.Undersøkelse for frø av *Cuscuta* spp. i frøpartier av lupiner, åkerert, vikker, fôrmargkål og fôrreddik er ikke nødvendig med mindre det er grunn til å anta at kravet ikke er tilfredsstilt.
-6. Undersøkelse for frø av syrearter, unntatt frø av småsyre (*Rumex acetosella*) og fjørehøymole (*Rumex maritimus*), skal utføres i den prøvestørrelsen som det vises til i kolonne 12.For frø av lupiner, strekbelg, vikker og åkerert er ikke en slik undersøkelse nødvendig med mindre det er grunn til å anta at kravet ikke er tilfredsstilt.
+5. Ett frø av *Cuscuta* spp. regnes ikke som en urenhet i fôrmargkål dersom en ny prøve av størrelse som angitt i kolonne 12 er fri for *Cuscuta* spp.
+
+   For frø av strekbelg, tiriltunge, luserne og kløver regnes ikke forekomst av ett frø av *Cuscuta* spp. som urenhet dersom en ny prøve på dobbel mengde av det som er oppgitt i kolonne 12 finnes fri for *Cuscuta* spp.
+
+   Undersøkelse for frø av *Cuscuta* spp. i frøpartier av lupiner, åkerert, vikker, fôrmargkål og fôrreddik er ikke nødvendig med mindre det er grunn til å anta at kravet ikke er tilfredsstilt.
+6. Undersøkelse for frø av syrearter, unntatt frø av småsyre (*Rumex acetosella*) og fjørehøymole (*Rumex maritimus*), skal utføres i den prøvestørrelsen som det vises til i kolonne 12.
+
+   For frø av lupiner, strekbelg, vikker og åkerert er ikke en slik undersøkelse nødvendig med mindre det er grunn til å anta at kravet ikke er tilfredsstilt.
 7. Prosenten av antall frø med annen farge skal ikke overstige 2 i bitre lupinsorter, og 1 i de andre lupinsortene.
 8. Prosenten av antall frø av bitre lupinsorter skal ikke overstige 2,5 i frø av andre lupinsorter.
 9. Prøven skal ikke innholde frø av åkerreddik (Raphanus raphanistrum) eller åkersennep (Sinapis arvensis).
@@ -1499,7 +1845,16 @@ De kravene som er stilt til klasse sertifisert jordbruksfrø gjelder også for k
 
 For klassene prebasis og basis gjelder ikke bestemmelsene under I, A 3, punkt b og i om at prøven skal anses fri for frø av sniketråd dersom en fornyet prøve er fri.
 
-Følgende krav gjelder for klassene prebasis og basis:Sortsrenheten skal være minimum 99,7% for artene engrapp, enklona sorter, åkerert, fôrmargkål og bønnevikke.Undersøkelse for frø av andre plantearter gjennomføres i den vektmengden som er angitt i tabell 1a og 1b, kolonne 12.Vektprosenten av frø av andre plantearter skal ikke overstige 0,3. For bladfaksfrø er grensen 0,4 vektprosent. Videre kan høyst 20 frø være av en enkelt art i den vektmengden som er angitt under tabell 1a og 1b, kolonne 12 (jf. punkt 4 og 5 nedenfor).I frø av rapp-artene skal det ved undersøkelse av 500 frø av en rapp-art høyst forekomme 1 frø av andre rapparter.I frø av engreverumpe, hundegras, svingel-artene, raigras-artene og hybrider som er et resultat av krysning mellom engsvingel og italiensk raigras (x Festulolium) (raisvingel), betraktes inntil 80 frø av rapp ikke som en urenhet.Det høyste tillatte antall av syre-arter, kveke og åkerreverumpe er oppført i tabell 2.Belgvekstartene skal ikke inneholde frø av steinkløver. Likevel regnes ikke ett frø av steinkløver som urenhet i strekbelg, tiriltunge, sneglebelg, luserne-arter og kløver-arter dersom en ny prøve på dobbelt mengde er fri for frø av steinkløver. Undersøkelse av steinkløverfrø kan utelates i frøpartier av lupiner, åkerert og vikker.For lupiner skal prosenten av antall frø av bitre lupinsorter ikke overstige 1 i andre lupinsorter.
+Følgende krav gjelder for klassene prebasis og basis:
+
+1. Sortsrenheten skal være minimum 99,7% for artene engrapp, enklona sorter, åkerert, fôrmargkål og bønnevikke.
+2. Undersøkelse for frø av andre plantearter gjennomføres i den vektmengden som er angitt i tabell 1a og 1b, kolonne 12.
+3. Vektprosenten av frø av andre plantearter skal ikke overstige 0,3. For bladfaksfrø er grensen 0,4 vektprosent. Videre kan høyst 20 frø være av en enkelt art i den vektmengden som er angitt under tabell 1a og 1b, kolonne 12 (jf. punkt 4 og 5 nedenfor).
+4. I frø av rapp-artene skal det ved undersøkelse av 500 frø av en rapp-art høyst forekomme 1 frø av andre rapparter.
+5. I frø av engreverumpe, hundegras, svingel-artene, raigras-artene og hybrider som er et resultat av krysning mellom engsvingel og italiensk raigras (x Festulolium) (raisvingel), betraktes inntil 80 frø av rapp ikke som en urenhet.
+6. Det høyste tillatte antall av syre-arter, kveke og åkerreverumpe er oppført i tabell 2.
+7. Belgvekstartene skal ikke inneholde frø av steinkløver. Likevel regnes ikke ett frø av steinkløver som urenhet i strekbelg, tiriltunge, sneglebelg, luserne-arter og kløver-arter dersom en ny prøve på dobbelt mengde er fri for frø av steinkløver. Undersøkelse av steinkløverfrø kan utelates i frøpartier av lupiner, åkerert og vikker.
+8. For lupiner skal prosenten av antall frø av bitre lupinsorter ikke overstige 1 i andre lupinsorter.
 
 *Tabell 2. Klassene prebasis og basis*
 
@@ -1535,7 +1890,23 @@ Høyeste tillatte antall frø pr. prøve av *Rumex* (syre), *Elymus repens* (kve
 
 *C. Klasse handelsfrø*
 
-Såvarer av klasse handelsfrø skal være tilstrekkelig artsekte og oppfylle kvalitetskravene i vedlegg C1 punkt I bokstav A nr. 2 og 3 med følgende endringer:I tabell 1a kolonne 4 og 5 og i tabell 1b kolonne 5 og 6 skal vektprosenten forhøyes med én.For tunrapp (*Poa annua*) regnes ikke en andel på opptil 10 vektprosent av frø av andre rapparter som en urenhet.For andre rapparter (*Poa* spp.) enn tunrapp (*Poa annua)* regnes ikke en andel på opptil 3 vektprosent av frø av andre rapparter som en urenhet.For *Hedysarum coronarium* regnes ikke en andel på opptil 1 vektprosent av frø av *Melilotus* spp. som en urenhet.Merknad b under tabell 1b om forekomst av rødkløver (*Trifolium prantese*) i frø av tiriltunge (*Lotus corniculatus*) gjelder ikke.*Lupinus* spp:Minste spesifikke renhet skal være 97 vektprosentAntallet frø av Lupinus spp. med en annen farge skal ikke overstige:for bitterlupin: 4 %for andre *Lipunus* spp.: 2 %For *Vicia* spp. regnes ikke en andel på opptil 6 vektprosent av frø av *Vicia pannonica*, *Vicia villosa, Vicia benghalensis* eller beslektede kulturarter i frø av en annen relevant art som en urenhet.For *Vicia pannonica*, *Vicia sativa*, *Vicia villosa* og*Vicia benghalensis* skal minste spesifikke renhet være 97 vektprosent.For *Lathyrus cicera* skal minste spesifikke renhet være 90 vektprosent. For *Lathyrus cicera* regnes ikke en andel på opptil 5 vektprosent frø av beslektede arter som en urenhet.
+Såvarer av klasse handelsfrø skal være tilstrekkelig artsekte og oppfylle kvalitetskravene i vedlegg C1 punkt I bokstav A nr. 2 og 3 med følgende endringer:
+
+1. I tabell 1a kolonne 4 og 5 og i tabell 1b kolonne 5 og 6 skal vektprosenten forhøyes med én.
+2. For tunrapp (*Poa annua*) regnes ikke en andel på opptil 10 vektprosent av frø av andre rapparter som en urenhet.
+3. For andre rapparter (*Poa* spp.) enn tunrapp (*Poa annua)* regnes ikke en andel på opptil 3 vektprosent av frø av andre rapparter som en urenhet.
+4. For *Hedysarum coronarium* regnes ikke en andel på opptil 1 vektprosent av frø av *Melilotus* spp. som en urenhet.
+5. Merknad b under tabell 1b om forekomst av rødkløver (*Trifolium prantese*) i frø av tiriltunge (*Lotus corniculatus*) gjelder ikke.
+6. *Lupinus* spp:
+
+   1. Minste spesifikke renhet skal være 97 vektprosent
+   2. Antallet frø av Lupinus spp. med en annen farge skal ikke overstige:
+
+      - for bitterlupin: 4 %
+      - for andre *Lipunus* spp.: 2 %
+7. For *Vicia* spp. regnes ikke en andel på opptil 6 vektprosent av frø av *Vicia pannonica*, *Vicia villosa, Vicia benghalensis* eller beslektede kulturarter i frø av en annen relevant art som en urenhet.
+8. For *Vicia pannonica*, *Vicia sativa*, *Vicia villosa* og*Vicia benghalensis* skal minste spesifikke renhet være 97 vektprosent.
+9. For *Lathyrus cicera* skal minste spesifikke renhet være 90 vektprosent. For *Lathyrus cicera* regnes ikke en andel på opptil 5 vektprosent frø av beslektede arter som en urenhet.
 
 > Endret ved [forskrifter 24 juni 2008 nr. 644](forskrift/2008-06-24-644), [19 feb 2010 nr. 292](forskrift/2010-02-19-292), [26 juni 2020 nr. 1447](forskrift/2020-06-26-1447) (i kraft 1 juli 2020), [12 april 2022 nr. 747](forskrift/2022-04-12-747), [20 des 2022 nr. 2540](forskrift/2022-12-20-2540) (i kraft 1 jan 2023), [17 okt 2025 nr. 2124](forskrift/2025-10-17-2124).
 
@@ -1577,8 +1948,16 @@ Antall frøklynger som utvikler tre eller flere kimplanter skal ikke utgjøre me
 
 *b. Teknisk monogermt frø (presisjonsfrø)*
 
-1. SukkerbeteMinst 70% av de spirte frøklyngene skal bare utvikle én kimplante.Antall frøklynger som utvikler tre eller flere kimplanter skal ikke utgjøre mer enn 5% av de spirte frøklyngene.
-2. FôrbeteFor de sortene hvor prosentandelen av diploider er større enn 85, skal minst 58% av de spirte frøklyngene utvikle bare én kimplante. For alt annet frø skal minst 63% av de spirte frøklyngene utvikle bare én kimplante.Antall frøklynger som utvikler tre eller flere kimplanter skal ikke utgjøre mer enn 5% av de spirte frøklyngene.
+1. Sukkerbete
+
+   Minst 70% av de spirte frøklyngene skal bare utvikle én kimplante.
+
+   Antall frøklynger som utvikler tre eller flere kimplanter skal ikke utgjøre mer enn 5% av de spirte frøklyngene.
+2. Fôrbete
+
+   For de sortene hvor prosentandelen av diploider er større enn 85, skal minst 58% av de spirte frøklyngene utvikle bare én kimplante. For alt annet frø skal minst 63% av de spirte frøklyngene utvikle bare én kimplante.
+
+   Antall frøklynger som utvikler tre eller flere kimplanter skal ikke utgjøre mer enn 5% av de spirte frøklyngene.
 
 *c. Monogermt frø (genetisk og teknisk)*
 
@@ -1592,26 +1971,52 @@ For pillert frø skal analysen utføres på en offisielt uttatt prøve av frøet
 
 *A. Klassene prebasis, basis og sertifisert*
 
-1. Frøet skal være tilstrekkelig sortsekte og sortsrentFølgende minimumsverdier gjelder for sortsrenhet:*Art og klasse**Minste sortsrenhet,%**Brassica napus* ssp. *oleifera* (Raps), unntatt hybridsorter, sorter til andre formål enn fôr *Brassica rapa* (Rybs), sorter til andre formål enn fôr– klasse basis99,9– klasse sertifisert99,7*Brassica napus* ssp. *oleifera* (Raps), unntatt hybridsorter, sorter som kun skal brukes til fôr *Brassica rapa* (Rybs), sorter som kun skal brukes til fôr *Helianthus annuus* (Solsikke), unntatt hybridsorter, herunder deres bestanddeler *Sinapis alba* (Kvitsennep)– klasse basis99,7– klasse sertifisert, 1. generasjon99,0*Brassica napus ssp. oleifera* (Raps), hybridsorter, avlet ved hannsterilitet– klasse basis, hannlig komponent99,9– klasse basis, hunnlig komponent99,0– klasse sertifisert, høstraps90,0– klasse sertifisert, vårraps85,0*Linum usitatissimum* (Fiber-/oljelin)– klasse basis99,7– klasse sertifisert, 1. generasjon98,0– klasse sertifisert, 2. generasjon97,5*Glycine max* (Soya)– klasse basis99,5– klasse sertifisert99,0Minimumskravene til sortsrenhet kontrolleres i hovedsak ved vekstkontrollen.
-2. Frøene skal være praktisk talt frie for skadegjørere som reduserer bruksverdien og kvaliteten på frøene.Innhold av skadegjørere:*Skadegjører eller symptom av skadegjører**Art**Maksimalt innhold*
-*Klasse P**Maksimalt innhold*
-*Klasse B**Maksimalt innhold*
-*Klasse C**Sopp og oomycetes**Alternaria linicola* Groves & Skolko [ALTELI]*Linum usitatissimum L.*5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.*Boeremia exigua* var*. linicola* (Naumov & Vassiljevsky) Aveskamp, Gruyter & Verkley [PHOMEL]*Linum usitatissimum L.* – fiberlin1 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.1 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.1 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.*Boeremia exigua* var*. linicola* (Naumov & Vassiljevsky) Aveskamp, Gruyter & Verkley [PHOMEL]*Linum usitatissimum L.* – oljelin5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.*Botrytis cinerea* de Bary [BOTRCI]*Helianthus annuus* L. *Linum usitatissimum* L.5 %5 %5 %*Colletotrichum lini* Westerdijk [COLLLI]*Linum usitatissimum* L*.*5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.*Diaporthe caulivora* (Athow & Caldwell) J.M. Santos, Vrandecic & A.J.L. Phillips [DIAPPC] *Diaporthe phaseolorum* var*. sojae* Lehman [DIAPPS]*Glycine max* (L.) Merr15 %15 %15 %*Fusarium* (ukjønnet stadium) Link [1FUSAG] andre enn *Fusarium oxysporum* f. sp.*albedinis* (Kill. & Maire) W.L. Gordon [FUSAAL] *og – Fusarium circinatum* Nirenberg & O’Donnell [GIBBCI]*Linum usitatissimum* L.5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.5 %
-Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp.*Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA]*Helianthus annuus* L.0 %0 %0 %*Sclerotinia sclerotiorum* (Libert) de Bary [SCLESC]*Brassica rapa* L. var. Silvestris (Lam.) Briggs5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13.5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13.5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13.*Sclerotinia sclerotiorum* (Libert) de Bary [SCLESC]*Brassica napus* L. *(partim) Helianthus annuus* L.10 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13.10 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13.10 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13.*Sclerotinia sclerotiorum* (Libert) de Bary [SCLESC]*Sinapis alba* L.5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13.5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13.5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13.*Virus, viroider, viruslignende sykdommer og fytoplasmaer**Nepovirus nicotianae* [TRSV00]*Glycine max* (L.) Merr0 %0 %0 %
+1. Frøet skal være tilstrekkelig sortsekte og sortsrent
+
+   Følgende minimumsverdier gjelder for sortsrenhet:
+
+   | *Art og klasse* | *Minste sortsrenhet,%* |
+   | --- | --- |
+   | *Brassica napus* ssp. *oleifera* (Raps), unntatt hybridsorter, sorter til andre formål enn fôr *Brassica rapa* (Rybs), sorter til andre formål enn fôr |  |
+   | – klasse basis | 99,9 |
+   | – klasse sertifisert | 99,7 |
+   | *Brassica napus* ssp. *oleifera* (Raps), unntatt hybridsorter, sorter som kun skal brukes til fôr *Brassica rapa* (Rybs), sorter som kun skal brukes til fôr *Helianthus annuus* (Solsikke), unntatt hybridsorter, herunder deres bestanddeler *Sinapis alba* (Kvitsennep) |  |
+   | – klasse basis | 99,7 |
+   | – klasse sertifisert, 1. generasjon | 99,0 |
+   | *Brassica napus ssp. oleifera* (Raps), hybridsorter, avlet ved hannsterilitet |  |
+   | – klasse basis, hannlig komponent | 99,9 |
+   | – klasse basis, hunnlig komponent | 99,0 |
+   | – klasse sertifisert, høstraps | 90,0 |
+   | – klasse sertifisert, vårraps | 85,0 |
+   | *Linum usitatissimum* (Fiber-/oljelin) |  |
+   | – klasse basis | 99,7 |
+   | – klasse sertifisert, 1. generasjon | 98,0 |
+   | – klasse sertifisert, 2. generasjon | 97,5 |
+   | *Glycine max* (Soya) |  |
+   | – klasse basis | 99,5 |
+   | – klasse sertifisert | 99,0 |
+
+   Minimumskravene til sortsrenhet kontrolleres i hovedsak ved vekstkontrollen.
+2. Frøene skal være praktisk talt frie for skadegjørere som reduserer bruksverdien og kvaliteten på frøene.
+
+   Innhold av skadegjørere:
+
+   | *Skadegjører eller symptom av skadegjører* | *Art* | *Maksimalt innhold*<br>*Klasse P* | *Maksimalt innhold*<br>*Klasse B* | *Maksimalt innhold*<br>*Klasse C* |
+   | --- | --- | --- | --- | --- |
+   | *Sopp og oomycetes* |  |  |  |  |
+   | *Alternaria linicola* Groves & Skolko [ALTELI] | *Linum usitatissimum L.* | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. |
+   | *Boeremia exigua* var*. linicola* (Naumov & Vassiljevsky) Aveskamp, Gruyter & Verkley [PHOMEL] | *Linum usitatissimum L.* – fiberlin | 1 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. | 1 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. | 1 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. |
+   | *Boeremia exigua* var*. linicola* (Naumov & Vassiljevsky) Aveskamp, Gruyter & Verkley [PHOMEL] | *Linum usitatissimum L.* – oljelin | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. |
+   | *Botrytis cinerea* de Bary [BOTRCI] | *Helianthus annuus* L. *Linum usitatissimum* L. | 5 % | 5 % | 5 % |
+   | *Colletotrichum lini* Westerdijk [COLLLI] | *Linum usitatissimum* L*.* | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. |
+   | *Diaporthe caulivora* (Athow & Caldwell) J.M. Santos, Vrandecic & A.J.L. Phillips [DIAPPC] *Diaporthe phaseolorum* var*. sojae* Lehman [DIAPPS] | *Glycine max* (L.) Merr | 15 % | 15 % | 15 % |
+   | *Fusarium* (ukjønnet stadium) Link [1FUSAG] andre enn *Fusarium oxysporum* f. sp.*albedinis* (Kill. & Maire) W.L. Gordon [FUSAAL] *og – Fusarium circinatum* Nirenberg & O’Donnell [GIBBCI] | *Linum usitatissimum* L. | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. | 5 %<br>Totalt 5 % av *Alternaria linicola, Boeremia exigua* var. *linicola*, *Colletotrichium lini* og *Fusarium* spp. |
+   | *Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA] | *Helianthus annuus* L. | 0 % | 0 % | 0 % |
+   | *Sclerotinia sclerotiorum* (Libert) de Bary [SCLESC] | *Brassica rapa* L. var. Silvestris (Lam.) Briggs | 5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13. | 5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13. | 5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13. |
+   | *Sclerotinia sclerotiorum* (Libert) de Bary [SCLESC] | *Brassica napus* L. *(partim) Helianthus annuus* L. | 10 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13. | 10 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13. | 10 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13. |
+   | *Sclerotinia sclerotiorum* (Libert) de Bary [SCLESC] | *Sinapis alba* L. | 5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13. | 5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13. | 5 sklerotier eller fragmenter av sklerotier i den analyseprøven som er oppført i tabell 4, kolonne 13. |
+   | *Virus, viroider, viruslignende sykdommer og fytoplasmaer* |  |  |  |  |
+   | *Nepovirus nicotianae* [TRSV00] | *Glycine max* (L.) Merr | 0 % | 0 % | 0 % |
 3. Frøet skal ellers oppfylle kravene i tabell 4.
 
 *Tabell 4. Krav til spireevne, renhet og innhold av frø pr. prøve av andre arter, prøvestørrelse til bestemmelse av frø av andre arter, samt minste prøvestørrelse til analyse av et frøparti.*
@@ -1624,7 +2029,9 @@ For å lese tabellen i pdf, se her: [(pdf)](static/SF/sf-19990913-1052-03-03.pdf
 2. De kravene som det vises til i kolonnene 4–12 og underpunktene c–e nedenfor gjelder for analyse av den vektmengde som er oppgitt i kolonne 13.
 3. Det maksimale innholdet av frø fastsatt i kolonne 4 omfatter også frø av de artene som er nevnt under kolonnene 5–12 i tabellen.
 4. For frøpartier av karve og opiumsvalmue skal det bare gjennomføres bestemmelser av andre plantearter når det er grunn til å tro at kravene ikke er tilfredsstilt.
-5. Undersøkelse for frø av *Cuscuta* spp. skal bare gjennomføres når det er grunn til å tro at kravene ikke er tilfredsstilt.Ett frø av *Cuscuta* spp. i prøvene av kålartene, karve, fiber- og oljelin, opiumsvalmue og kvitsennep regnes ikke som urenhet dersom en ny prøve finnes fri for frø av *Cuscuta* spp.
+5. Undersøkelse for frø av *Cuscuta* spp. skal bare gjennomføres når det er grunn til å tro at kravene ikke er tilfredsstilt.
+
+   Ett frø av *Cuscuta* spp. i prøvene av kålartene, karve, fiber- og oljelin, opiumsvalmue og kvitsennep regnes ikke som urenhet dersom en ny prøve finnes fri for frø av *Cuscuta* spp.
 
 *B. Klasse handelsfrø*
 
@@ -1638,13 +2045,23 @@ Kravene gjelder for alt jordbruksfrø både under del I, II og III.
 
 *Vekstkontroll*
 
-1. De ulike klassene såvarer skal ikke inneholde en større mengde av avvikende sort enn det som følger av tabellen:*Vekst**Klasse P og B**Klasse C*Raigras: Maksimum raigras av annen art – planter pr. dekar20100Hybrider av raps (avlet ved hannsterilitet):– Maksimum%-vis annen sort/avvikende typeInnavlede linjer – 0,1%
-Enkelthybrider:
-Hannkomponent – 0,1%
-Hunnkomponent – 0,2%Hannkomponent –
-0,3% Hunnkomponent – 1,0%– Minimum hannsterilitet99%98%Øvrige arter: Maksimum annen sort/avvikende type – planter pr. dekar33100
+1. De ulike klassene såvarer skal ikke inneholde en større mengde av avvikende sort enn det som følger av tabellen:
+
+   | *Vekst* | *Klasse P og B* | *Klasse C* |
+   | --- | --- | --- |
+   | Raigras: Maksimum raigras av annen art – planter pr. dekar | 20 | 100 |
+   | Hybrider av raps (avlet ved hannsterilitet): |  | – Maksimum%-vis annen sort/avvikende type |
+   |  | Innavlede linjer – 0,1%<br>Enkelthybrider:<br>Hannkomponent – 0,1%<br>Hunnkomponent – 0,2% | Hannkomponent –<br>0,3% Hunnkomponent – 1,0% |
+   | – Minimum hannsterilitet | 99% | 98% |
+   | Øvrige arter: Maksimum annen sort/avvikende type – planter pr. dekar | 33 | 100 |
 2. Ved vekstkontrollen skal plantene være praktisk talt frie for skadegjørere som reduserer bruksverdien og kvaliteten på frøene.
-3. De ulike klassene såvarer skal ikke inneholde en større forekomst av skadegjørere eller symptom på skadegjørere enn det som følger av tabellen:*Skadegjører eller symptom av skadegjører**Art**Maksimalt innhold Klasse P (%)**Maksimalt innhold Klasse B (%)**Maksimalt innhold Klasse C (%)**Clavibacter michiganensis ssp.insidiosus (McCulloch 1925) Davis et al. [CORBIN]**Medicago sativa L.*000*Ditylenchus dipsaci* (Kuehn*) Filipjev* [DITYDI]*Medicago sativa L.*000*Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA]*Helianthus annuus* L.000
+3. De ulike klassene såvarer skal ikke inneholde en større forekomst av skadegjørere eller symptom på skadegjørere enn det som følger av tabellen:
+
+   | *Skadegjører eller symptom av skadegjører* | *Art* | *Maksimalt innhold Klasse P (%)* | *Maksimalt innhold Klasse B (%)* | *Maksimalt innhold Klasse C (%)* |
+   | --- | --- | --- | --- | --- |
+   | *Clavibacter michiganensis ssp.insidiosus (McCulloch 1925) Davis et al. [CORBIN]* | *Medicago sativa L.* | 0 | 0 | 0 |
+   | *Ditylenchus dipsaci* (Kuehn*) Filipjev* [DITYDI] | *Medicago sativa L.* | 0 | 0 | 0 |
+   | *Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA] | *Helianthus annuus* L. | 0 | 0 | 0 |
 
 *Kontrolldyrking*
 
@@ -1674,7 +2091,17 @@ De ulike klassene såvarer skal ikke inneholde en større mengde av avvikende ty
 8. Avlsland
 9. Netto- eller bruttovekt
 10. Andre opplysninger
-11. For hybride sorter eller innavlede linjer skal følgende oppgis:For klasse basis når den hybride eller innavlede linjen som frøet tilhører, er offisielt godkjent:Navnet på denne offisielt godkjente komponenten, med eller uten henvisning til den endelige sort. Hybrider eller innavlede linjer som utelukkende brukes som komponenter i endelige sorter skal betegnes «komponent».For klasse basis i andre tilfeller:Navnet, som kan angis i kode, på den komponent som basisfrøet tilhører, fulgt av en henvisning tilden endelige sort, med eller uten henvisning til den funksjon (hannlig eller hunnlig) komponenten har og fulgt av betegnelsen «komponent».For klasse sertifisert:Navnet på sorten som det sertifiserte frøet tilhører og betegnelsen «hybrid».
+11. For hybride sorter eller innavlede linjer skal følgende oppgis:
+
+    - For klasse basis når den hybride eller innavlede linjen som frøet tilhører, er offisielt godkjent:
+
+      - Navnet på denne offisielt godkjente komponenten, med eller uten henvisning til den endelige sort. Hybrider eller innavlede linjer som utelukkende brukes som komponenter i endelige sorter skal betegnes «komponent».
+    - For klasse basis i andre tilfeller:
+
+      - Navnet, som kan angis i kode, på den komponent som basisfrøet tilhører, fulgt av en henvisning tilden endelige sort, med eller uten henvisning til den funksjon (hannlig eller hunnlig) komponenten har og fulgt av betegnelsen «komponent».
+    - For klasse sertifisert:
+
+      - Navnet på sorten som det sertifiserte frøet tilhører og betegnelsen «hybrid».
 
 *Merknader:*
 
@@ -1683,7 +2110,9 @@ De ulike klassene såvarer skal ikke inneholde en større mengde av avvikende ty
 3. Dersom det er brukt granulerte pesticider, pilleringsmidler eller andre tilsetningsstoffer til behandling av frøet, skal stoffene og tilnærmet vektforhold i forhold til vekten av rent frø oppgis. For betefrø kan antall *frøhoder* oppgis.
 4. For klasse sertifisert oppgis antall generasjoner etter klasse basis under punkt 7.
 5. For en sammensatt sort er det under punkt 6 tilstrekkelig å oppgi betegnelsen «sammensatt sort» foran sortsnavnet dersom vektforholdet er skriftlig meddelt kjøperen og registrert av Mattilsynet.
-6. Ved ny prøve og analyse som viser at partiet fortsatt tilfredsstiller kravet til spireevne, skal pakningene tilleggsmerkes med «Ny prøve uttatt måned og år», jf. § 22 tredje og fjerde ledd. Tilleggsmerkingen kan også inneholde siste salgsdato.Dersom såvareforretningen har digital løsning som støtter sporing og oppfølging av nye spireanalyser er dette tilstrekkelig dokumentasjon.
+6. Ved ny prøve og analyse som viser at partiet fortsatt tilfredsstiller kravet til spireevne, skal pakningene tilleggsmerkes med «Ny prøve uttatt måned og år», jf. § 22 tredje og fjerde ledd. Tilleggsmerkingen kan også inneholde siste salgsdato.
+
+   Dersom såvareforretningen har digital løsning som støtter sporing og oppfølging av nye spireanalyser er dette tilstrekkelig dokumentasjon.
 
 *b. Alle pakningsstørrelser med frøblandinger av klasse prebasis og basis, og pakninger unntatt småpakninger med frøblandinger av klasse sertifisert*
 
@@ -1701,7 +2130,9 @@ De ulike klassene såvarer skal ikke inneholde en større mengde av avvikende ty
 1. Det er tilstrekkelig å oppgi betegnelsen på frøblandingen under punkt 6 dersom vektforholdet er skriftlig meddelt kjøperen og registrert av Mattilsynet.
 2. Dersom det er brukt granulerte pesticider, pilleringsmidler eller andre tilsetningsstoffer til behandling av frøet, skal stoffenes vekt, frøvekt og totalvekt av tilsetningsstoffer og frø, oppgis.
 3. For frø av raisvingel skal det opplyses under punkt 6 om artsnavnene innenfor slektene Festuca og Lolium.
-4. Ved ny prøve og analyse som viser at partiet fortsatt tilfredsstiller kravet til spireevne, skal pakningene tilleggsmerkes med «Ny prøve uttatt måned og år», jf. [§ 22](forskrift/1999-09-13-1052/§22) tredje og fjerde ledd. Tilleggsmerkingen kan også inneholde siste salgsdato.Dersom såvareforretningen har digital løsning som støtter sporing og oppfølging av nye spireanalyser er dette tilstrekkelig dokumentasjon.
+4. Ved ny prøve og analyse som viser at partiet fortsatt tilfredsstiller kravet til spireevne, skal pakningene tilleggsmerkes med «Ny prøve uttatt måned og år», jf. [§ 22](forskrift/1999-09-13-1052/§22) tredje og fjerde ledd. Tilleggsmerkingen kan også inneholde siste salgsdato.
+
+   Dersom såvareforretningen har digital løsning som støtter sporing og oppfølging av nye spireanalyser er dette tilstrekkelig dokumentasjon.
 
 *c. Pakninger, unntatt småpakninger, med handelsfrø:*
 
@@ -1719,7 +2150,9 @@ De ulike klassene såvarer skal ikke inneholde en større mengde av avvikende ty
 *Merknader:*
 
 1. Dersom det er brukt granulerte pesticider, pilleringsmidler eller andre tilsetningsstoffer til behandling av frøet, skal stoffenes vekt, frøvekt og totalvekt av tilsetningsstoffer og frø, oppgis.
-2. Ved ny prøve og analyse som viser at partiet fortsatt tilfredsstiller kravet til spireevne, skal pakningene tilleggsmerkes med «Ny prøve uttatt måned og år», jf. § 22 tredje og fjerde ledd. Tilleggsmerkingen kan også inneholde siste salgsdato.Dersom såvareforretningen har digital løsning som støtter sporing og oppfølging av nye spireanalyser er dette tilstrekkelig dokumentasjon.
+2. Ved ny prøve og analyse som viser at partiet fortsatt tilfredsstiller kravet til spireevne, skal pakningene tilleggsmerkes med «Ny prøve uttatt måned og år», jf. § 22 tredje og fjerde ledd. Tilleggsmerkingen kan også inneholde siste salgsdato.
+
+   Dersom såvareforretningen har digital løsning som støtter sporing og oppfølging av nye spireanalyser er dette tilstrekkelig dokumentasjon.
 
 *d. Partier med ikke endelig sertifisert frø:*
 
@@ -1882,7 +2315,13 @@ De ulike klassene såvarer skal ikke inneholde en større mengde av avvikende ty
 
 *a. Varedeklarasjon på pakninger med jordbruksfrø til vitenskapelig formål eller foredlingsformål:*
 
-Frø som skal brukes til vitenskapelig formål eller til foredlingsformål skal inneholde følgende opplysninger:FirmanavnArtSort«Bare til vitenskapelig formål eller til foredlingsformål»Andre opplysninger
+Frø som skal brukes til vitenskapelig formål eller til foredlingsformål skal inneholde følgende opplysninger:
+
+1. Firmanavn
+2. Art
+3. Sort
+4. «Bare til vitenskapelig formål eller til foredlingsformål»
+5. Andre opplysninger
 
 *b. Varedeklarasjon på pakninger med foredlermateriale av jordbruksfrø:*
 
@@ -1896,18 +2335,29 @@ Foredlermateriale som skal brukes til avl av klasse prebasis merkes «Foredlerma
 
 1. Virksomheter som ønsker å produsere partier opptil 25 tonn av grasarter, jf. [§ 3](forskrift/1999-09-13-1052/§3) d), skal sende søknad til Mattilsynet.
 2. Det skal sendes en søknad pr. produksjonsanlegg med angivelse av de artsgrupper og arter som søknaden gjelder, jf. punkt 3.
-3. Det kan søkes samlet for følgende to artsgrupper:*Festuca arundinacea*, *Festuca pratensis*, x *Festulolium*, *Lolium multiflorum*, *Lolium perenne*, *Lolium* x *hybridum* og *Phleum pratense**Dactylis glomerata*, *Festuca filiformis*, *Festuca ovina*, *Festuca rubra*, *Festuca trachyphylla*, *Poa pratensis* og *Poa trivialis*.
+3. Det kan søkes samlet for følgende to artsgrupper:
+
+   1. *Festuca arundinacea*, *Festuca pratensis*, x *Festulolium*, *Lolium multiflorum*, *Lolium perenne*, *Lolium* x *hybridum* og *Phleum pratense*
+   2. *Dactylis glomerata*, *Festuca filiformis*, *Festuca ovina*, *Festuca rubra*, *Festuca trachyphylla*, *Poa pratensis* og *Poa trivialis*.
 
 Øvrige arter skal søkes om enkeltvis.
 
 ### II. Dokumentasjon for homogenitet
 
-Mattilsynet kan gi virksomheten tillatelse til, for det enkelte produksjonsanlegg, å produsere partier på opptil 25 tonn av grasarter når det kan dokumenteres at produksjonsanlegget kan produsere homogene partier. Følgende krav må være oppfylt for hver artsgruppe eller art under punkt I, nr. 3:det er gjennomført heterogenitetstest på seks partier etter reglene fra International Seed Testing Association (ISTA). Testen skal vise at minst fem av disse partier er homogene,partiene som testes skal være på mellom 10 501 kg og opp til maksimalt 26 250 kg, ogfor arter som ikke er nevnt ovenfor i punkt I, nr. 3, bokstav a) og b), skal dokumentasjonen fremskaffes for hver art.
+Mattilsynet kan gi virksomheten tillatelse til, for det enkelte produksjonsanlegg, å produsere partier på opptil 25 tonn av grasarter når det kan dokumenteres at produksjonsanlegget kan produsere homogene partier. Følgende krav må være oppfylt for hver artsgruppe eller art under punkt I, nr. 3:
+
+1. det er gjennomført heterogenitetstest på seks partier etter reglene fra International Seed Testing Association (ISTA). Testen skal vise at minst fem av disse partier er homogene,
+2. partiene som testes skal være på mellom 10 501 kg og opp til maksimalt 26 250 kg, og
+3. for arter som ikke er nevnt ovenfor i punkt I, nr. 3, bokstav a) og b), skal dokumentasjonen fremskaffes for hver art.
 
 ### III. Stikkprøvebasert heterogenitetstest
 
 1. Når produksjonsanlegget er godkjent for produksjon av større partier, jf. punkt II, kan virksomheten produsere og markedsføre slike partier uten å foreta heterogenitetstest av hvert parti av de arter eller artsgrupper produksjonsanlegget er godkjent for.
-2. Ved produksjonsanlegget skal det på stikkprøvebasis foretas heterogenitetstest av produksjonen innenfor hver artsgruppe eller art, jf. punkt I, nr. 3, etter følgende retningslinjer:av de første 100 større partier av grasarter skal det i tillegg til de seks heterogenitetstester som lå til grunn for godkjenningen, jf. punkt II, nr. 3, bokstav a), plukkes ut ytterligere fire partier til heterogenitetstest (fire prosent stikkprøvekontroll),hvis ingen av de fire kontrollerte partier under a) er heterogene reduseres stikkprøvekontrollen til tre prosent for de neste 100 partier og til to prosent for de påfølgende 100 partier etter der igjen,hvis en stikkprøve viser et heterogent parti, skal stikkprøvekontrollen fortsatt være på fire prosent, øke igjen fra tre til fire prosent, eller øke fra to til tre prosent avhengig av utgangspunktet for stikkprøvefrekvens.
+2. Ved produksjonsanlegget skal det på stikkprøvebasis foretas heterogenitetstest av produksjonen innenfor hver artsgruppe eller art, jf. punkt I, nr. 3, etter følgende retningslinjer:
+
+   1. av de første 100 større partier av grasarter skal det i tillegg til de seks heterogenitetstester som lå til grunn for godkjenningen, jf. punkt II, nr. 3, bokstav a), plukkes ut ytterligere fire partier til heterogenitetstest (fire prosent stikkprøvekontroll),
+   2. hvis ingen av de fire kontrollerte partier under a) er heterogene reduseres stikkprøvekontrollen til tre prosent for de neste 100 partier og til to prosent for de påfølgende 100 partier etter der igjen,
+   3. hvis en stikkprøve viser et heterogent parti, skal stikkprøvekontrollen fortsatt være på fire prosent, øke igjen fra tre til fire prosent, eller øke fra to til tre prosent avhengig av utgangspunktet for stikkprøvefrekvens.
 3. Kun én av seks etterfølgende, heterogenitetstestede partier produsert på et produksjonsanlegg kan være heterogen. Det vil si at en heterogen prøve skal etterfølges av minst fem homogene prøver for at virksomheten kan opprettholde tillatelsen til å produsere og markedsføre større partier av grasarter av den aktuelle artsgruppe eller art ved det aktuelle produksjonsanlegget. Produksjonen av større partier kan kun gjenopptas hvis dokumentasjonen, jf. punkt II, fremskaffes på nytt, og godkjennes av Mattilsynet.
 
 > C3 tilføyd ved [forskrift 6 mars 2014 nr. 253](forskrift/2014-03-06-253), endret ved [forskrift 15 nov 2017 nr. 1784](forskrift/2017-11-15-1784) (i kraft 1 jan 2018).
@@ -1946,24 +2396,74 @@ Mattilsynet kan gi virksomheten tillatelse til, for det enkelte produksjonsanleg
 
 1. Frøet skal være tilstrekkelig sortsekte og sortsrent.
 2. Frøene skal være praktisk talt frie for skadegjørere som reduserer bruksverdien og kvaliteten på frøene.
-3. Frøene som minimum skal sjekkes ved visuell kontroll, skal ikke inneholde større forekomst av skadegjørere eller symptom på skadegjørere enn det som følger av tabellen:*Skadegjører eller symptom av skadegjører**Art grønnsaksvekst**Maksimalt innhold (%)**Bakterier**Clavibacter michiganensis ssp. michiganensis* (Smith) Davis *et al*. [CORBMI]*Solanum lycopersicum* L.0*Xanthomonas axonopodis pv.phaseoli* (Smith) Vauterin *et al*. [XANTPH]*Phaseolus vulgaris* L.0*Xanthomonas euvesicatoria* Jones*et al.* [XANTEU]*Capsicum annuum* L.
-*Solanum lycopersicum* L.0*Xanthomonas fuscans subsp. fuscans* Schaad *et al.* [XANTFF]*Phaseolus vulgaris* L.0*X*anthomonas gardneri (ex Šutič 1957) Jones *et al*. [XANTGA]*Capsicum annuum* L.
-*Solanum lycopersicum* L.0*Xanthomonas perforans* Jones et al. [XANTPF]*Capsicum annuum* L.
-*Solanum lycopersicum* L.0*Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE]*Capsicum annuum* L.
-*Solanum lycopersicum* L.0*Insekter og midd**Acanthoscelides obtectus* (Say) [ACANOB]*Phaseolus coccineus* L., *Phaseolus vulgaris* L.0*Bruchus pisorum* (Linnaeus) [BRCHPI]*Pisum sativum* L.0*Bruchus rufimanus* Boheman [BRCHRU]*Vicia faba* L0*Nematoder**Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI]*Allium cepa* L.,
-*Allium porrum* L.0*Virus, viroider, virus-lignende sykdommer og phytoplasma*Pepino-mosaikkvirus [PEPMV0]*Solanum lycopersicum* L.0Potato spindle tuber viroid [PSTVD0]*Capsicum annuum* L.
-*Solanum lycopersicum* L.0Tomatbrunflekkvirus [ToBRFV]*Capsicum annuum* L. unntatt frø fra sorter som er resistente mot ToBRFV
-*Solanum lycopersicum* L. og hybrider fra *Solanum lycopersicum* L.0
-4. Frøet skal tilfredsstille de krav til spireevne, renhet og innhold av frø av andre plantearter oppført i tabellen nedenfor.*Arter**Minste spireevne,%**Minste renhet, % av vekt**Største innhold av frø av andre plantearter, % av vekt**Prøvestr. til analyse av et frøparti, gram**Allium cepa* L. (Kepaløk)70970,525*Allium fistulosum* L. (Pipeløk)65970,515*Allium porrum* (Purre)65970,520*Allium sativum* (Hvitløk)65970,520*Allium schoenoprasum* (Gressløk)65970,515*Anthriscus cerefolium* (L.) Hoffm. (Kjørvel)70961,020*Apium graveolens* L. (Stilk- og knollselleri)70971,05*Asparagus officinalis* L. (Matasparges)70960,5100*Beta vulgaris*
-\- Gruppen rødbete50970,5100- Gruppen andre enn rødbete70970,5100*Brassica napus* L.
-(Kålrot)80981,0 (0,5 av en enkelt art)200
-100 til antallsanalysen*Brassica oleracea* L.
-\- Gruppen blomkål70971,025*Brassica oleracea* L.
-\- Gruppen andre enn blomkål75971,025*Capsicum annuum* L. (Paprika og chilipepper)65970,540*Cichorium endivia* L.
-(Endivie)65951,015*Cichorium intybus* L.
-\- Gruppen witloof (julesalat)
-\- Gruppen salatsikori (bredbladet eller italiensk)65951,515*Cichorium intybus* L.
-\- Gruppen rotsikori80971,050*Citrullus lanatus* (Thunb.) Matsum & Nakai (Vannmelon)75980,1250*Cucumis melo* L. (Melon)75980,1100*Cucumis sativus* L. (Agurk)80980,125*Cucurbita maxima* Duchesne (Kjempegresskar)80980,1250*Cucurbita pepo* L. (Mandelgresskar)75980,1150*Cynara cardunculus* L. (Kardonskokk)65960,550*Daucus carota* L. (Gulrot)65951,010*Foeniculum vulgare* Mill. (Fennikel)70961,025*Lactuca sativa* L. (Hagesalat)75950,510*Petroselinum crispum* (Mill.) Nyman ex A.W. Hill (Persille)65971,010*Phaseolus coccineus* L. (Prydbønne)80980,11000*Phaseolus vulgaris* L. (Hagebønne)75980,1700*Pisum sativum* L. (Hageert)80980,1500*Raphanus sativus* L. (Hagereddik)70971,050*Rheum rhabarbarum* L. (Matrabrabra)70970,5135*Scorzonera hispanica* L. (Skorsonerrot)70951,030*Solanum lycopersicum* L. (Tomat)75970,520*Solanum melongena* L. (Aubergin)65960,520*Spinacia oleracea* L. (Spinat)75971,075*Valerianella locusta* (L.) Laterr. (Vårsalat)65951,020*Vicia faba* L. (partim) (Bønnevikke)80980,11000*Zea mays* L. (partim) (perlemais)85980,11000*Zea mays* L. (partim) (sukkermais)80980,11000For hybridsorter kan prøvens minstevekt være en fjerdedel av den fastsatte vekten, dog minst 5 gram og innholde minst 400 frø.
+3. Frøene som minimum skal sjekkes ved visuell kontroll, skal ikke inneholde større forekomst av skadegjørere eller symptom på skadegjørere enn det som følger av tabellen:
+
+   | *Skadegjører eller symptom av skadegjører* | *Art grønnsaksvekst* | *Maksimalt innhold (%)* |
+   | --- | --- | --- |
+   | *Bakterier* |  |  |
+   | *Clavibacter michiganensis ssp. michiganensis* (Smith) Davis *et al*. [CORBMI] | *Solanum lycopersicum* L. | 0 |
+   | *Xanthomonas axonopodis pv.phaseoli* (Smith) Vauterin *et al*. [XANTPH] | *Phaseolus vulgaris* L. | 0 |
+   | *Xanthomonas euvesicatoria* Jones*et al.* [XANTEU] | *Capsicum annuum* L.<br>*Solanum lycopersicum* L. | 0 |
+   | *Xanthomonas fuscans subsp. fuscans* Schaad *et al.* [XANTFF] | *Phaseolus vulgaris* L. | 0 |
+   | *X*anthomonas gardneri (ex Šutič 1957) Jones *et al*. [XANTGA] | *Capsicum annuum* L.<br>*Solanum lycopersicum* L. | 0 |
+   | *Xanthomonas perforans* Jones et al. [XANTPF] | *Capsicum annuum* L.<br>*Solanum lycopersicum* L. | 0 |
+   | *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE] | *Capsicum annuum* L.<br>*Solanum lycopersicum* L. | 0 |
+   | *Insekter og midd* |  |  |
+   | *Acanthoscelides obtectus* (Say) [ACANOB] | *Phaseolus coccineus* L., *Phaseolus vulgaris* L. | 0 |
+   | *Bruchus pisorum* (Linnaeus) [BRCHPI] | *Pisum sativum* L. | 0 |
+   | *Bruchus rufimanus* Boheman [BRCHRU] | *Vicia faba* L | 0 |
+   | *Nematoder* |  |  |
+   | *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI] | *Allium cepa* L.,<br>*Allium porrum* L. | 0 |
+   | *Virus, viroider, virus-lignende sykdommer og phytoplasma* |  |  |
+   | Pepino-mosaikkvirus [PEPMV0] | *Solanum lycopersicum* L. | 0 |
+   | Potato spindle tuber viroid [PSTVD0] | *Capsicum annuum* L.<br>*Solanum lycopersicum* L. | 0 |
+   | Tomatbrunflekkvirus [ToBRFV] | *Capsicum annuum* L. unntatt frø fra sorter som er resistente mot ToBRFV<br>*Solanum lycopersicum* L. og hybrider fra *Solanum lycopersicum* L. | 0 |
+4. Frøet skal tilfredsstille de krav til spireevne, renhet og innhold av frø av andre plantearter oppført i tabellen nedenfor.
+
+   | *Arter* | *Minste spireevne,%* | *Minste renhet, % av vekt* | *Største innhold av frø av andre plantearter, % av vekt* | *Prøvestr. til analyse av et frøparti, gram* |
+   | --- | --- | --- | --- | --- |
+   | *Allium cepa* L. (Kepaløk) | 70 | 97 | 0,5 | 25 |
+   | *Allium fistulosum* L. (Pipeløk) | 65 | 97 | 0,5 | 15 |
+   | *Allium porrum* (Purre) | 65 | 97 | 0,5 | 20 |
+   | *Allium sativum* (Hvitløk) | 65 | 97 | 0,5 | 20 |
+   | *Allium schoenoprasum* (Gressløk) | 65 | 97 | 0,5 | 15 |
+   | *Anthriscus cerefolium* (L.) Hoffm. (Kjørvel) | 70 | 96 | 1,0 | 20 |
+   | *Apium graveolens* L. (Stilk- og knollselleri) | 70 | 97 | 1,0 | 5 |
+   | *Asparagus officinalis* L. (Matasparges) | 70 | 96 | 0,5 | 100 |
+   | *Beta vulgaris*<br>- Gruppen rødbete | 50 | 97 | 0,5 | 100 |
+   | - Gruppen andre enn rødbete | 70 | 97 | 0,5 | 100 |
+   | *Brassica napus* L.<br>(Kålrot) | 80 | 98 | 1,0 (0,5 av en enkelt art) | 200<br>100 til antallsanalysen |
+   | *Brassica oleracea* L.<br>- Gruppen blomkål | 70 | 97 | 1,0 | 25 |
+   | *Brassica oleracea* L.<br>- Gruppen andre enn blomkål | 75 | 97 | 1,0 | 25 |
+   | *Capsicum annuum* L. (Paprika og chilipepper) | 65 | 97 | 0,5 | 40 |
+   | *Cichorium endivia* L.<br>(Endivie) | 65 | 95 | 1,0 | 15 |
+   | *Cichorium intybus* L.<br>- Gruppen witloof (julesalat)<br>- Gruppen salatsikori (bredbladet eller italiensk) | 65 | 95 | 1,5 | 15 |
+   | *Cichorium intybus* L.<br>- Gruppen rotsikori | 80 | 97 | 1,0 | 50 |
+   | *Citrullus lanatus* (Thunb.) Matsum & Nakai (Vannmelon) | 75 | 98 | 0,1 | 250 |
+   | *Cucumis melo* L. (Melon) | 75 | 98 | 0,1 | 100 |
+   | *Cucumis sativus* L. (Agurk) | 80 | 98 | 0,1 | 25 |
+   | *Cucurbita maxima* Duchesne (Kjempegresskar) | 80 | 98 | 0,1 | 250 |
+   | *Cucurbita pepo* L. (Mandelgresskar) | 75 | 98 | 0,1 | 150 |
+   | *Cynara cardunculus* L. (Kardonskokk) | 65 | 96 | 0,5 | 50 |
+   | *Daucus carota* L. (Gulrot) | 65 | 95 | 1,0 | 10 |
+   | *Foeniculum vulgare* Mill. (Fennikel) | 70 | 96 | 1,0 | 25 |
+   | *Lactuca sativa* L. (Hagesalat) | 75 | 95 | 0,5 | 10 |
+   | *Petroselinum crispum* (Mill.) Nyman ex A.W. Hill (Persille) | 65 | 97 | 1,0 | 10 |
+   | *Phaseolus coccineus* L. (Prydbønne) | 80 | 98 | 0,1 | 1000 |
+   | *Phaseolus vulgaris* L. (Hagebønne) | 75 | 98 | 0,1 | 700 |
+   | *Pisum sativum* L. (Hageert) | 80 | 98 | 0,1 | 500 |
+   | *Raphanus sativus* L. (Hagereddik) | 70 | 97 | 1,0 | 50 |
+   | *Rheum rhabarbarum* L. (Matrabrabra) | 70 | 97 | 0,5 | 135 |
+   | *Scorzonera hispanica* L. (Skorsonerrot) | 70 | 95 | 1,0 | 30 |
+   | *Solanum lycopersicum* L. (Tomat) | 75 | 97 | 0,5 | 20 |
+   | *Solanum melongena* L. (Aubergin) | 65 | 96 | 0,5 | 20 |
+   | *Spinacia oleracea* L. (Spinat) | 75 | 97 | 1,0 | 75 |
+   | *Valerianella locusta* (L.) Laterr. (Vårsalat) | 65 | 95 | 1,0 | 20 |
+   | *Vicia faba* L. (partim) (Bønnevikke) | 80 | 98 | 0,1 | 1000 |
+   | *Zea mays* L. (partim) (perlemais) | 85 | 98 | 0,1 | 1000 |
+   | *Zea mays* L. (partim) (sukkermais) | 80 | 98 | 0,1 | 1000 |
+
+   For hybridsorter kan prøvens minstevekt være en fjerdedel av den fastsatte vekten, dog minst 5 gram og innholde minst 400 frø.
 
 *Ytterligere krav:*
 
@@ -1977,9 +2477,28 @@ Mattilsynet kan gi virksomheten tillatelse til, for det enkelte produksjonsanleg
 
 1. Bestanden skal være tilstrekkelig sortsekte og sortsren.
 2. Ved vekstkontrollen skal plantene være praktisk talt frie for skadegjørere som reduserer bruksverdien og kvaliteten på frøene
-3. Ved vekstkontrollen skal bestanden ikke inneholde større forekomst av skadegjørere eller symptom på skadegjørere enn det som følger av tabellen:*Skadegjører eller symptom av skadegjører**Art grønnsaksvekst**Maksimalt innhold (%)**Bakterier**Clavibacter michiganensis ssp. michiganensis* (Smith) Davis *et al*. [CORBMI]*Solanum lycopersicum* L.0*Xanthomonas axonopodis pv.phaseoli* (Smith) Vauterin *et al*. [XANTPH]*Phaseolus vulgaris* L.0*Xanthomonas euvesicatoria* Jones *et al.* [XANTEU]*Capsicum annuum* L.
-*Solanum lycopersicum* L.0*Xanthomonas fuscans subsp. fuscans* Schaad *et al.* [XANTFF]*Phaseolus vulgaris* L.0*Xanthomonas gardneri* (ex Šutič 1957) Jones *et al*. [XANTGA]*Capsicum annuum* L. *Solanum lycopersicum* L.0*Xanthomonas perforans* Jones et al. [XANTPF]*Capsicum annuum* L. *Solanum lycopersicum* L.0*Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE]*Capsicum annuum* L. *Solanum lycopersicum* L.0*Insekter og midd**Acanthoscelides obtectus* (Say) [ACANOB]*Phaseolus coccineus* L., *Phaseolus vulgaris* L.0*Bruchus pisorum* (Linnaeus) [BRCHPI]*Pisum sativum* L.0*Bruchus rufimanus* Boheman [BRCHRU]*Vicia faba* L0*Nematoder**Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI]*Allium cepa* L., *Allium porrum* L.0*Virus, viroider, virus-lignende sykdommer og phytoplasma*Pepino-mosaikkvirus [PEPMV0]*Solanum lycopersicum* L.0Potato spindle tuber viroid [PSTVD0]*Capsicum annuum* L. *Solanum lycopersicum* L.0Tomatbrunflekkvirus (ToBRFV)*Solanum lycopersicum* L. og hybrider herfra
-*Capsicum annuum* L. (gjelder ikke sorter som er resistente mot tomatbrunflekkvirus)0
+3. Ved vekstkontrollen skal bestanden ikke inneholde større forekomst av skadegjørere eller symptom på skadegjørere enn det som følger av tabellen:
+
+   | *Skadegjører eller symptom av skadegjører* | *Art grønnsaksvekst* | *Maksimalt innhold (%)* |
+   | --- | --- | --- |
+   | *Bakterier* |  |  |
+   | *Clavibacter michiganensis ssp. michiganensis* (Smith) Davis *et al*. [CORBMI] | *Solanum lycopersicum* L. | 0 |
+   | *Xanthomonas axonopodis pv.phaseoli* (Smith) Vauterin *et al*. [XANTPH] | *Phaseolus vulgaris* L. | 0 |
+   | *Xanthomonas euvesicatoria* Jones *et al.* [XANTEU] | *Capsicum annuum* L.<br>*Solanum lycopersicum* L. | 0 |
+   | *Xanthomonas fuscans subsp. fuscans* Schaad *et al.* [XANTFF] | *Phaseolus vulgaris* L. | 0 |
+   | *Xanthomonas gardneri* (ex Šutič 1957) Jones *et al*. [XANTGA] | *Capsicum annuum* L. *Solanum lycopersicum* L. | 0 |
+   | *Xanthomonas perforans* Jones et al. [XANTPF] | *Capsicum annuum* L. *Solanum lycopersicum* L. | 0 |
+   | *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE] | *Capsicum annuum* L. *Solanum lycopersicum* L. | 0 |
+   | *Insekter og midd* |  |  |
+   | *Acanthoscelides obtectus* (Say) [ACANOB] | *Phaseolus coccineus* L., *Phaseolus vulgaris* L. | 0 |
+   | *Bruchus pisorum* (Linnaeus) [BRCHPI] | *Pisum sativum* L. | 0 |
+   | *Bruchus rufimanus* Boheman [BRCHRU] | *Vicia faba* L | 0 |
+   | *Nematoder* |  |  |
+   | *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI] | *Allium cepa* L., *Allium porrum* L. | 0 |
+   | *Virus, viroider, virus-lignende sykdommer og phytoplasma* |  |  |
+   | Pepino-mosaikkvirus [PEPMV0] | *Solanum lycopersicum* L. | 0 |
+   | Potato spindle tuber viroid [PSTVD0] | *Capsicum annuum* L. *Solanum lycopersicum* L. | 0 |
+   | Tomatbrunflekkvirus (ToBRFV) | *Solanum lycopersicum* L. og hybrider herfra<br>*Capsicum annuum* L. (gjelder ikke sorter som er resistente mot tomatbrunflekkvirus) | 0 |
 
 > Endret ved forskrifter [9 des 2024 nr. 3047](forskrift/2024-12-09-3047) (i kraft 12 des 2024), [17 okt 2025 nr. 2124](forskrift/2025-10-17-2124).
 
@@ -1999,13 +2518,25 @@ Mattilsynet kan gi virksomheten tillatelse til, for det enkelte produksjonsanleg
 8. Avlsland
 9. Nettovekt eller antall frø og eventuelt bruttovekt
 10. Andre opplysninger
-11. For hybride sorter eller innavlede linjer skal følgende oppgis:For klasse basis når den hybride eller innavlede linjen som frøet tilhører, er offisielt godkjent:Navnet på denne offisielt godkjente komponenten, med eller uten henvisning til den endelige sort. Hybrider eller innavlede linjer som utelukkende brukes som komponenter i endelige sorter skal betegnes «komponent».For klasse basis i andre tilfeller:Navnet, som kan angis i kode, på den komponent som basisfrøet tilhører, fulgt av en henvisning til den endelige sort, med eller uten henvisning til den funksjon (hanlig eller hunlig) komponenten har og fulgt av betegnelsen «komponent».For klasse sertifisert:Navnet på sorten som det sertifiserte frøet tilhører og betegnelsen «hybrid».
+11. For hybride sorter eller innavlede linjer skal følgende oppgis:
+
+    - For klasse basis når den hybride eller innavlede linjen som frøet tilhører, er offisielt godkjent:
+
+      - Navnet på denne offisielt godkjente komponenten, med eller uten henvisning til den endelige sort. Hybrider eller innavlede linjer som utelukkende brukes som komponenter i endelige sorter skal betegnes «komponent».
+    - For klasse basis i andre tilfeller:
+
+      - Navnet, som kan angis i kode, på den komponent som basisfrøet tilhører, fulgt av en henvisning til den endelige sort, med eller uten henvisning til den funksjon (hanlig eller hunlig) komponenten har og fulgt av betegnelsen «komponent».
+    - For klasse sertifisert:
+
+      - Navnet på sorten som det sertifiserte frøet tilhører og betegnelsen «hybrid».
 
 *Merknader:*
 
 1. Dersom det er brukt granulerte pesticider, pilleringsmidler eller andre tilsetningsstoffer til behandling av frøet, skal stoffene og tilnærmet vektforhold i forhold til vekten av rent frø oppgis. For pillert frø kan det istedet oppgis antall frø og skrives «Pillert».
 2. For frø av bete skal det opplyses under punkt 6 om frøet er genetisk monogermt eller teknisk monogermt (presisjonsfrø).
-3. Ved ny prøve og analyse som viser at partiet fortsatt tilfredsstiller kravet til spireevne, skal pakningene tilleggsmerkes med «Ny prøve uttatt måned og år», jf. [§ 22](forskrift/1999-09-13-1052/§22) tredje og fjerde ledd. Tilleggsmerkingen kan også inneholde siste salgsdato.Dersom såvareforretningen har digital løsning som støtter sporing og oppfølging av nye spireanalyser er dette tilstrekkelig dokumentasjon.
+3. Ved ny prøve og analyse som viser at partiet fortsatt tilfredsstiller kravet til spireevne, skal pakningene tilleggsmerkes med «Ny prøve uttatt måned og år», jf. [§ 22](forskrift/1999-09-13-1052/§22) tredje og fjerde ledd. Tilleggsmerkingen kan også inneholde siste salgsdato.
+
+   Dersom såvareforretningen har digital løsning som støtter sporing og oppfølging av nye spireanalyser er dette tilstrekkelig dokumentasjon.
 
 *b. Partier med ikke endelig sertifisert frø:*
 
@@ -2088,7 +2619,13 @@ Mattilsynet kan gi virksomheten tillatelse til, for det enkelte produksjonsanleg
 
 *a. Varedeklarasjon på pakninger med grønnsaksfrø til vitenskapelig formål eller foredlingsformål:*
 
-Frø som skal brukes til vitenskapelig formål eller til foredlingsformål skal inneholde følgende opplysninger:FirmanavnArtSort«Bare til vitenskapelig formål eller til foredlingsformål»Andre opplysninger
+Frø som skal brukes til vitenskapelig formål eller til foredlingsformål skal inneholde følgende opplysninger:
+
+1. Firmanavn
+2. Art
+3. Sort
+4. «Bare til vitenskapelig formål eller til foredlingsformål»
+5. Andre opplysninger
 
 *b. Varedeklarasjon på pakninger med foredlermateriale av grønnsaksfrø:*
 
@@ -2098,8 +2635,35 @@ Foredlermateriale som skal brukes til avl av prebasisfrø merkes «Foredlermater
 
 ### E Varedeklarasjon for såvare av bevaringsverdige sorter og naturfrøblandinger (§ 18)
 
-1. Pakninger med bevaringsverdige sorter skal merkes:«EØS-regler og krav»FirmanavnÅret for forsegling eller siste omsetningsdatoArt, botanisk betegnelseSort«Bevaringsverdig sort».For grønnsaksfrø gjelder: «Bevaringsverdig sort – klasse sertifisert» eller «Bevaringsverdig sort – klasse standard».Sortens opprinnelsesområdeRegionen såvaren er produsert i hvis denne ikke er identisk med opprinnelsesområdetPartinummerOppgitt nettovekt eller antall frø, eventuelt bruttovekt.
-2. Naturfrøblandinger skal merkes:«EØS-regler og krav»FirmanavnHøstemetode: direkte innsamlet eller oppformertÅret for forsegling eller siste omsetningsdatoOpprinnelsesområdeKildeområdeInnsamlingsstedNaturtype på innsamlingsstedetOrdene «naturfrøblanding beregnet til bruk i et område med samme naturgitte forhold som på innsamlingsstedet»PartinummerProsentandel i vekt av arter og eventuelt underarter. For direkte høstede blandinger er det tilstrekkelig å oppgi hvilke arter som inngår.Oppgitt nettovekt eller bruttovektSpireevne (gjelder bare for de artene i oppformerte naturfrøblandinger som står oppført i vedlegg C1 tabell 1a) og 1b), og hvor det der oppgitte kravet til spireevne ikke er oppfylt. Hvis dette gjelder mer enn fem arter, er det tilstrekkelig å angi gjennomsnittlig spireevne).
+1. Pakninger med bevaringsverdige sorter skal merkes:
+
+   1. «EØS-regler og krav»
+   2. Firmanavn
+   3. Året for forsegling eller siste omsetningsdato
+   4. Art, botanisk betegnelse
+   5. Sort
+   6. «Bevaringsverdig sort».
+
+      For grønnsaksfrø gjelder: «Bevaringsverdig sort – klasse sertifisert» eller «Bevaringsverdig sort – klasse standard».
+   7. Sortens opprinnelsesområde
+   8. Regionen såvaren er produsert i hvis denne ikke er identisk med opprinnelsesområdet
+   9. Partinummer
+   10. Oppgitt nettovekt eller antall frø, eventuelt bruttovekt.
+2. Naturfrøblandinger skal merkes:
+
+   1. «EØS-regler og krav»
+   2. Firmanavn
+   3. Høstemetode: direkte innsamlet eller oppformert
+   4. Året for forsegling eller siste omsetningsdato
+   5. Opprinnelsesområde
+   6. Kildeområde
+   7. Innsamlingssted
+   8. Naturtype på innsamlingsstedet
+   9. Ordene «naturfrøblanding beregnet til bruk i et område med samme naturgitte forhold som på innsamlingsstedet»
+   10. Partinummer
+   11. Prosentandel i vekt av arter og eventuelt underarter. For direkte høstede blandinger er det tilstrekkelig å oppgi hvilke arter som inngår.
+   12. Oppgitt nettovekt eller bruttovekt
+   13. Spireevne (gjelder bare for de artene i oppformerte naturfrøblandinger som står oppført i vedlegg C1 tabell 1a) og 1b), og hvor det der oppgitte kravet til spireevne ikke er oppfylt. Hvis dette gjelder mer enn fem arter, er det tilstrekkelig å angi gjennomsnittlig spireevne).
 
 *Merknader:*
 

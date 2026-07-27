@@ -15,7 +15,7 @@ xml_hash: "b5224059d2032f257b220b8874128b86a687464d443b9315b572c7c8d4e12c78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,11 +34,22 @@ Med *flokkens størrelse før tap* menes reintall ved siste offentlig kontroller
 
 ## § 3. Vilkår for tilskudd
 
-Tilskudd kan innvilges den enkelte siidaandel/reinlag dersom følgende vilkår er oppfylt:tapet skyldes ulykke, jf. [§ 2](forskrift/2026-06-22-1181/§2),tapet er ikke erstattet over andre ordninger,antall tapte rein i samme ulykke utgjør minst 10 prosent av flokkens størrelse før tapet. Det kan uavhengig av dette innvilges tilskudd når tapet overstiger 150 rein. Det innvilges ikke tilskudd ved tap av under 10 rein,tapte rein etter bokstav c er dokumentert i henhold til [§ 4](forskrift/2026-06-22-1181/§4),siidaandelen/reinlaget har varslet tapet umiddelbart til statsforvalteren. Siidaandelen må i tillegg ha varslet tapet til distriktsstyret,siidaandelen/reinlaget har iverksatt alle nødvendige tiltak for å forebygge/begrense tapet,siidaandelen/reinlaget har mottatt produksjonspremie1 eller etableringstilskudd2 i minst ett av de tre foregående driftsårene, ogsiidaandelens reintall i driftsåret oppfyller vilkår for tilskudd etter [forskrift om tilskudd til siidaandeler og reinlag § 4](forskrift/2019-06-20-865/§4).
+Tilskudd kan innvilges den enkelte siidaandel/reinlag dersom følgende vilkår er oppfylt:
+
+1. tapet skyldes ulykke, jf. [§ 2](forskrift/2026-06-22-1181/§2),
+2. tapet er ikke erstattet over andre ordninger,
+3. antall tapte rein i samme ulykke utgjør minst 10 prosent av flokkens størrelse før tapet. Det kan uavhengig av dette innvilges tilskudd når tapet overstiger 150 rein. Det innvilges ikke tilskudd ved tap av under 10 rein,
+4. tapte rein etter bokstav c er dokumentert i henhold til [§ 4](forskrift/2026-06-22-1181/§4),
+5. siidaandelen/reinlaget har varslet tapet umiddelbart til statsforvalteren. Siidaandelen må i tillegg ha varslet tapet til distriktsstyret,
+6. siidaandelen/reinlaget har iverksatt alle nødvendige tiltak for å forebygge/begrense tapet,
+7. siidaandelen/reinlaget har mottatt produksjonspremie1 eller etableringstilskudd2 i minst ett av de tre foregående driftsårene, og
+8. siidaandelens reintall i driftsåret oppfyller vilkår for tilskudd etter [forskrift om tilskudd til siidaandeler og reinlag § 4](forskrift/2019-06-20-865/§4).
 
 Hvis flere siidaandeler blir berørt av samme ulykke og det ikke er mulig å fastslå hvem som eier reinen, kan tilskudd innvilges til reinbeitedistriktet eller siidaen. I slike tilfeller skal reinbeitedistriktet eller siidaen fordele tilskuddet mellom de berørte siidaandelene som oppfyller vilkår for tilskudd, jf. første ledd.
 
-1 jf. [forskrift om tilskudd til siidaandeler og reinlag § 10](forskrift/2019-06-20-865/§10).2 jf. [forskrift om tilskudd til siidaandeler og reinlag § 9](forskrift/2019-06-20-865/§9).
+1 jf. [forskrift om tilskudd til siidaandeler og reinlag § 10](forskrift/2019-06-20-865/§10).
+
+2 jf. [forskrift om tilskudd til siidaandeler og reinlag § 9](forskrift/2019-06-20-865/§9).
 
 ## § 4. Dokumentasjon
 
@@ -50,7 +61,12 @@ Der full kadaverdokumentasjon er umulig eller svært vanskelig, kan en sannsynli
 
 ## § 5. Beregning av tilskudd
 
-Tilskudd beregnes for hver dyretype som er dokumentert tapt, jf. [§ 4](forskrift/2026-06-22-1181/§4), på følgende måte:tapt simle beregnes ut fra antall tapte simler ganget med summen av grunnsats simle, tapt produksjonspremie og tapt fremtidig produksjon.tapt okse beregnes ut fra antall tapte okser ganget med summen av grunnsats okse og tapt produksjonspremie.tapt kalv beregnes ut fra antall tapte kalver ganget med summen av grunnsats kalv, tapt produksjonspremie og tapt kalveslaktetilskudd.tapt kjørerein beregnes ut fra antall tapte kjørerein ganget med grunnsats kjørerein.
+Tilskudd beregnes for hver dyretype som er dokumentert tapt, jf. [§ 4](forskrift/2026-06-22-1181/§4), på følgende måte:
+
+1. tapt simle beregnes ut fra antall tapte simler ganget med summen av grunnsats simle, tapt produksjonspremie og tapt fremtidig produksjon.
+2. tapt okse beregnes ut fra antall tapte okser ganget med summen av grunnsats okse og tapt produksjonspremie.
+3. tapt kalv beregnes ut fra antall tapte kalver ganget med summen av grunnsats kalv, tapt produksjonspremie og tapt kalveslaktetilskudd.
+4. tapt kjørerein beregnes ut fra antall tapte kjørerein ganget med grunnsats kjørerein.
 
 Grunnsats for den enkelte dyretype tilsvarer sats som følger av distriktsvise satser for tap av rein til rovvilt fastsatt av Klima- og miljødepartementet for hver dyretype, jf. den til enhver tid gjeldende forskrift om grunnsatser for tap av tamrein drept eller skadet av rovvilt.
 
@@ -66,7 +82,12 @@ Det gjøres fratrekk for en egenandel på 10 000 kroner per siidaandel.
 
 Søknad om tilskudd ved omfattende tap av rein i ulykker skal sendes til Landbruksdirektoratet så raskt som mulig, og senest tolv måneder etter at ulykken fant sted.
 
-Søknaden skal minst inneholde:oversikt over antall tapte dyr, fordelt på dyretype (okse, simle, kalv, kjørerein),kadaverdokumentasjon, jf. [§ 4](forskrift/2026-06-22-1181/§4),beskrivelse av hendelsesforløpet fram til tapet,beskrivelse av tiltak som er iverksatt for å forebygge/begrense tapet.
+Søknaden skal minst inneholde:
+
+1. oversikt over antall tapte dyr, fordelt på dyretype (okse, simle, kalv, kjørerein),
+2. kadaverdokumentasjon, jf. [§ 4](forskrift/2026-06-22-1181/§4),
+3. beskrivelse av hendelsesforløpet fram til tapet,
+4. beskrivelse av tiltak som er iverksatt for å forebygge/begrense tapet.
 
 ## § 7. Opplysningsplikt og kontroll
 

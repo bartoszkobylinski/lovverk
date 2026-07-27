@@ -15,7 +15,7 @@ xml_hash: "eead84f435be65237e3070f73de185426f8cfd8e52989bd7caa8743c8c619689"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,4 +50,6 @@ Forskriften trer i kraft straks og gis virkning fra samme tid som [lovendringene
 
 > Endret ved [forskrift 20 des 2019 nr. 2150](forskrift/2019-12-20-2150) (i kraft 1 jan 2020).
 
-1 Med virkning fra 1. juli 1989.2 Med virkning fra 31. desember 1976.
+1 Med virkning fra 1. juli 1989.
+
+2 Med virkning fra 31. desember 1976.

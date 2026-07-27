@@ -26,7 +26,14 @@ eu_basis: []
 
 Forordning [(EU) nr. 321/2013](eu/32013r0321) om tekniske spesifikasjoner for delsystemet «Rullende materiell – godsvogner» (TSI WAG), som inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 37n, gjelder som forskrift.
 
-Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) nr. 1236/2013](eu/32013r1236)forordning [(EU) 2015/924](eu/32015r0924)forordning [(EU) 2019/776](eu/32019r0776)forordning [(EU) 2020/387](eu/32020r0387)forordning [(EU) 2023/1694](eu/32023r1694)forordning [(EU) 2025/2064](eu/32025r2064).
+Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av
+
+- forordning [(EU) nr. 1236/2013](eu/32013r1236)
+- forordning [(EU) 2015/924](eu/32015r0924)
+- forordning [(EU) 2019/776](eu/32019r0776)
+- forordning [(EU) 2020/387](eu/32020r0387)
+- forordning [(EU) 2023/1694](eu/32023r1694)
+- forordning [(EU) 2025/2064](eu/32025r2064).
 
 > Endret ved [forskrifter 19 mai 2014 nr. 660](forskrift/2014-05-19-660), [3 nov 2015 nr. 1275](forskrift/2015-11-03-1275), [8 sep 2021 nr. 2709](forskrift/2021-09-08-2709) (i kraft 1 juni 2022, jf. meddelelse [6 mai 2022 nr. 774](forskrift/2022-05-06-774)), [8 sep 2021 nr. 2719](forskrift/2021-09-08-2719) (i kraft 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 802](forskrift/2022-05-06-802)), [14 mars 2025 nr. 465](forskrift/2025-03-14-465) (i kraft 15 mars 2025), [9 feb 2026 nr. 170](forskrift/2026-02-09-170).
 
@@ -38,7 +45,10 @@ Den Statens jernbanetilsyn utpeker gjennomfører verifisering av samsvar med nas
 
 ## § 3.
 
-Forskriften trer i kraft straks. Fra sammen tidspunkt oppheves følgende forskrifter:[Forskrift 23. mai 2011 nr. 539](forskrift/2011-05-23-539) om gjennomføring av vedtak [2006/861/EF](eu/32006d0861) av 28. juli 2006 om den tekniske spesifikasjonen for samtrafikkevne som gjelder for delsystemet rullende materiell – godsvogner i det transeuropeiske jernbanesystemet for konvensjonelle tog (TSI-rullende materiell – godsvogner).[Forskrift 21. juni 2013 nr. 741](forskrift/2013-06-21-741) om gjennomføring av TSI rullende materiell – godsvogner på det nasjonale jernbanenettet.
+Forskriften trer i kraft straks. Fra sammen tidspunkt oppheves følgende forskrifter:
+
+- [Forskrift 23. mai 2011 nr. 539](forskrift/2011-05-23-539) om gjennomføring av vedtak [2006/861/EF](eu/32006d0861) av 28. juli 2006 om den tekniske spesifikasjonen for samtrafikkevne som gjelder for delsystemet rullende materiell – godsvogner i det transeuropeiske jernbanesystemet for konvensjonelle tog (TSI-rullende materiell – godsvogner).
+- [Forskrift 21. juni 2013 nr. 741](forskrift/2013-06-21-741) om gjennomføring av TSI rullende materiell – godsvogner på det nasjonale jernbanenettet.
 
 > Endret ved forskrift [14 mars 2025 nr. 465](forskrift/2025-03-14-465) (i kraft 15 mars 2025, tidligere § 4).
 

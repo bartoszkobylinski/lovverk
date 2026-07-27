@@ -38,7 +38,10 @@ Arbeidstakere som fratrer sin stilling etter fylte 62 år, har rett til pensjon 
 
 Pensjonen beregnes etter tariffavtale som styret i pensjonsordningen har akseptert, og i samsvar med bestemmelsene i [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse kapittel 1](lov/2010-06-25-28/kap1).
 
-Pensjon kan ikke ytes til personer som mottar eller har mottattavtalefestet pensjon som det gis statstilskott til etter [AFP-tilskottsloven](lov/2010-02-19-5) eller [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse kapittel 2](lov/2010-06-25-28/kap2) eller tilsvarende ordning,betinget tjenestepensjon etter [lov om Statens pensjonskasse § 26 f](lov/1949-07-28-26/§26f) eller tilsvarende ordning.
+Pensjon kan ikke ytes til personer som mottar eller har mottatt
+
+1. avtalefestet pensjon som det gis statstilskott til etter [AFP-tilskottsloven](lov/2010-02-19-5) eller [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse kapittel 2](lov/2010-06-25-28/kap2) eller tilsvarende ordning,
+2. betinget tjenestepensjon etter [lov om Statens pensjonskasse § 26 f](lov/1949-07-28-26/§26f) eller tilsvarende ordning.
 
 Pensjonsordningen administreres av Arbeids- og velferdsetaten for så vidt gjelder innvilgelse, beregning og utbetaling av pensjoner. For øvrig administreres pensjonsordningen av Statens pensjonskasse.
 

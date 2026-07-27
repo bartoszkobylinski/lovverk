@@ -36,7 +36,13 @@ Vilkåret om fem års forutgående medlemskap i [folketrygdloven § 15-2](lov/19
 
 Foreldre som bor i samme hus, og huset har fire eller færre boenheter, har et nært boforhold som innebærer at ingen av dem skal anses å være alene om omsorgen.
 
-Også andre boforhold kan anses å tilsvare det å bo i et hus med fire eller færre boenheter, slik at ingen av foreldrene skal anses å være alene om omsorgen. Dette gjelder når foreldrene bor iselvstendige boliger på samme tomt eller gårdsbruk,selvstendige boliger rundt samme gårdstun,nærmeste boliger eller rekkehus i samme gate,tilstøtende boliger med atkomst mellom boligene, ellersamme boligblokk eller annen bolig som har mer enn fire boenheter.
+Også andre boforhold kan anses å tilsvare det å bo i et hus med fire eller færre boenheter, slik at ingen av foreldrene skal anses å være alene om omsorgen. Dette gjelder når foreldrene bor i
+
+1. selvstendige boliger på samme tomt eller gårdsbruk,
+2. selvstendige boliger rundt samme gårdstun,
+3. nærmeste boliger eller rekkehus i samme gate,
+4. tilstøtende boliger med atkomst mellom boligene, eller
+5. samme boligblokk eller annen bolig som har mer enn fire boenheter.
 
 ## § 4. (Opphevet)
 
@@ -76,6 +82,9 @@ Arbeids- og velferdsetaten kan viderebehandle personopplysninger som nevnt i fø
 
 Forskriften trer i kraft 1. januar 2016.
 
-Fra samme tidspunkt oppheves[forskrift 11. mars 1997 nr. 221](forskrift/1997-03-11-221) om unntak fra vilkåret i [folketrygdloven § 15-2](lov/1997-02-28-19/§15-2) første ledd om forutgående medlemskap for rett til stønad som enslig mor eller far[forskrift 19. desember 1997 nr. 1429](forskrift/1997-12-19-1429) om stønadstid for overgangsstønad til en enslig mor eller far.
+Fra samme tidspunkt oppheves
+
+- [forskrift 11. mars 1997 nr. 221](forskrift/1997-03-11-221) om unntak fra vilkåret i [folketrygdloven § 15-2](lov/1997-02-28-19/§15-2) første ledd om forutgående medlemskap for rett til stønad som enslig mor eller far
+- [forskrift 19. desember 1997 nr. 1429](forskrift/1997-12-19-1429) om stønadstid for overgangsstønad til en enslig mor eller far.
 
 > Endret ved [forskrifter 10 des 2019 nr. 1713](forskrift/2019-12-10-1713) (i kraft 1 mars 2020, tidligere § 8), [21 des 2022 nr. 2414](forskrift/2022-12-21-2414) (tidligere § 9).

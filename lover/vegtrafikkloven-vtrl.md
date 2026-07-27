@@ -15,7 +15,7 @@ xml_hash: "5301e6d9177baa3dfc06cdc6e015e7a9782eff0e3105952a0a8ab4d69f1953b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32019R0621"
@@ -133,7 +133,20 @@ Departementet kan i forskrift gi regler om kjøring på lukket bane eller annet 
 
 ### § 8. Vilkårsparkering til allmennheten mv.
 
-Kongen kan i forskrift gi regler om parkering av kjøretøy som skjer mot betaling, med tidsbegrensning eller på andre vilkår, og som finner sted på veg som er åpen for alminnelig ferdsel (vilkårsparkering). Kongen kan i forskrift også gi regler om håndheving av vilkårsparkering på veg som ikke er åpen for alminnelig ferdsel, og håndheving av parkeringsrestriksjoner på og langs privat veg og utenfor veg. I forskriften kan det også gis regler om:krav til virksomheter som vil tilby vilkårsparkering, herunder krav til meldeplikt før denne kan tilby vilkårsparkering, krav til registrering og forretningssted, krav til dekkende ansvarsforsikring, samt til alder og tilknytning til riket eller annen EØS-stat for innehaver og andre ansvarlige i virksomheten,krav til person som skal håndheve reglene, herunder krav til teoretisk og praktisk opplæring med avsluttende prøve og regelmessig regodkjenningsprøve og krav til godkjenning og regodkjenning av undervisningsplan og gebyr for slike godkjenninger,krav til det enkelte parkeringsområde, herunder krav til skiltplan og bruk av skilt. Bruk av privat skilt kan begrenses og forbys på områder hvor det tilbys vilkårsparkering til allmennheten,tilsyn, herunder opplysnings- og rapporteringsplikt og adgang til å gi pålegg om retting, tvangsmulkt, avskilting av parkeringsområde, samt gebyr og avgift for tilsyn med parkeringsvirksomheter. Gebyrene og avgiften skal dekke kostnadene med tilsyn med parkeringsvirksomhetene,krav til brukervennlige og universelt utformede betalingsløsninger,plikt til å tilby betalingsfritak på avgiftsbelagte kommunale parkeringsplasser for forflytningshemmede med parkeringstillatelse,rett til å tilby betalingsfritak for elektrisk og hydrogendrevet motorvogn på avgiftsbelagte kommunale parkeringsplasser og plikt til å tilby lademulighet for strøm. Det kan også gis regler om at avgift for elektrisk og hydrogendrevet motorvogn på alle eller visse avgiftsbelagte kommunale parkeringsplasser ikke skal overstige halvparten av den laveste taksten på det aktuelle parkeringsområdet for bensin- eller dieseldrevet motorvogn,ileggelse av kontrollsanksjon, herunder størrelse på sanksjon og solidarisk ansvar mellom fører og eier,når kjøretøy kan fjernes og tas i forvaring, herunder krav om at kjøretøyet må stå til hinder eller i strid med vilkårene for parkering, krav om varslings- og opplysningsplikt, samt plikt til å utlevere kjøretøy som er fjernet, og salg av kjøretøy som er fjernet, jf. [§ 37](lov/1965-06-18-4/§37) femte til åttende ledd,universell utforming av parkeringsareal og særskilt tilrettelegging for innehavere av parkeringstillatelse for forflytningshemmede, herunder krav til reservering,kommunenes rettigheter og plikter ved parkeringstilbud på offentlig veg,opprettelse av et sentralt register med oversikt over virksomheter, parkeringsområder, og over parkeringstillatelser til forflytningshemmede og institusjon, krav til bruk av registeret og gebyr for slik bruk. Et slikt register skal være i samsvar med det til enhver tid gjeldende regelverk.
+Kongen kan i forskrift gi regler om parkering av kjøretøy som skjer mot betaling, med tidsbegrensning eller på andre vilkår, og som finner sted på veg som er åpen for alminnelig ferdsel (vilkårsparkering). Kongen kan i forskrift også gi regler om håndheving av vilkårsparkering på veg som ikke er åpen for alminnelig ferdsel, og håndheving av parkeringsrestriksjoner på og langs privat veg og utenfor veg. I forskriften kan det også gis regler om:
+
+1. krav til virksomheter som vil tilby vilkårsparkering, herunder krav til meldeplikt før denne kan tilby vilkårsparkering, krav til registrering og forretningssted, krav til dekkende ansvarsforsikring, samt til alder og tilknytning til riket eller annen EØS-stat for innehaver og andre ansvarlige i virksomheten,
+2. krav til person som skal håndheve reglene, herunder krav til teoretisk og praktisk opplæring med avsluttende prøve og regelmessig regodkjenningsprøve og krav til godkjenning og regodkjenning av undervisningsplan og gebyr for slike godkjenninger,
+3. krav til det enkelte parkeringsområde, herunder krav til skiltplan og bruk av skilt. Bruk av privat skilt kan begrenses og forbys på områder hvor det tilbys vilkårsparkering til allmennheten,
+4. tilsyn, herunder opplysnings- og rapporteringsplikt og adgang til å gi pålegg om retting, tvangsmulkt, avskilting av parkeringsområde, samt gebyr og avgift for tilsyn med parkeringsvirksomheter. Gebyrene og avgiften skal dekke kostnadene med tilsyn med parkeringsvirksomhetene,
+5. krav til brukervennlige og universelt utformede betalingsløsninger,
+6. plikt til å tilby betalingsfritak på avgiftsbelagte kommunale parkeringsplasser for forflytningshemmede med parkeringstillatelse,
+7. rett til å tilby betalingsfritak for elektrisk og hydrogendrevet motorvogn på avgiftsbelagte kommunale parkeringsplasser og plikt til å tilby lademulighet for strøm. Det kan også gis regler om at avgift for elektrisk og hydrogendrevet motorvogn på alle eller visse avgiftsbelagte kommunale parkeringsplasser ikke skal overstige halvparten av den laveste taksten på det aktuelle parkeringsområdet for bensin- eller dieseldrevet motorvogn,
+8. ileggelse av kontrollsanksjon, herunder størrelse på sanksjon og solidarisk ansvar mellom fører og eier,
+9. når kjøretøy kan fjernes og tas i forvaring, herunder krav om at kjøretøyet må stå til hinder eller i strid med vilkårene for parkering, krav om varslings- og opplysningsplikt, samt plikt til å utlevere kjøretøy som er fjernet, og salg av kjøretøy som er fjernet, jf. [§ 37](lov/1965-06-18-4/§37) femte til åttende ledd,
+10. universell utforming av parkeringsareal og særskilt tilrettelegging for innehavere av parkeringstillatelse for forflytningshemmede, herunder krav til reservering,
+11. kommunenes rettigheter og plikter ved parkeringstilbud på offentlig veg,
+12. opprettelse av et sentralt register med oversikt over virksomheter, parkeringsområder, og over parkeringstillatelser til forflytningshemmede og institusjon, krav til bruk av registeret og gebyr for slik bruk. Et slikt register skal være i samsvar med det til enhver tid gjeldende regelverk.
 
 Kongen kan gi forskrift om kommunens adgang til å reservere parkering etter behovsprøving i et nærmere avgrenset område for personer bosatt i området eller andre med særlig behov for slik parkering. Det samme gjelder adgang til å reservere enkelte parkeringsplasser for bestemte kjøretøy, kjøretøygrupper eller personer, eller gi disse adgang til å parkere utover eventuell maksimaltid på stedet.
 
@@ -203,7 +216,10 @@ Med samtykke fra departementet kan en kommune for å begrense miljøulemper fra 
 
 ### § 13 a. Forbud mot varslingsutstyr, manipulasjonsutstyr o.l. i motorvogn.
 
-I motorvogn er det forbudt å besitte eller bruke utstyr som har til formål å:varsle om eller forstyrre trafikkontrolleroverstyre eller manipulere fartsskriver som nevnt i [§ 13](lov/1965-06-18-4/§13) fjerde ledd, speedometer, alkolås, forurensningsbegrensende utstyr eller annet påkrevd teknologisk utstyr slik at bruken av utstyret fører til misvisende eller uriktige opplysninger eller signaler.
+I motorvogn er det forbudt å besitte eller bruke utstyr som har til formål å:
+
+1. varsle om eller forstyrre trafikkontroller
+2. overstyre eller manipulere fartsskriver som nevnt i [§ 13](lov/1965-06-18-4/§13) fjerde ledd, speedometer, alkolås, forurensningsbegrensende utstyr eller annet påkrevd teknologisk utstyr slik at bruken av utstyret fører til misvisende eller uriktige opplysninger eller signaler.
 
 Forbudet etter første ledd omfatter utstyr som blokkerer eller skjuler signaler eller opplysninger fra eller til utstyr for kontroll og overvåkning av trafikk, eller som endrer hvordan påkrevet teknologisk utstyr brukes.
 
@@ -213,7 +229,13 @@ Departementet kan i forskrift gi forbud mot å produsere, distribuere, markedsf�
 
 ### § 13 b. Krav til CO2-utslipp mv. for produsenter av personbiler, varebiler og tunge kjøretøy
 
-For å ivareta Norges forpliktelser etter [EØS-avtalen](lov/1992-11-27-109/eøsl) kan departementet i forskrift fastsette regler om utslippskrav mv. for produsenter av kjøretøy i gruppe M, N og O, herunder regler om:krav til utslipp av CO2,overtredelsesgebyr,overvåkning,rapportering,innovative teknologier, herunder godkjenning.
+For å ivareta Norges forpliktelser etter [EØS-avtalen](lov/1992-11-27-109/eøsl) kan departementet i forskrift fastsette regler om utslippskrav mv. for produsenter av kjøretøy i gruppe M, N og O, herunder regler om:
+
+1. krav til utslipp av CO2,
+2. overtredelsesgebyr,
+3. overvåkning,
+4. rapportering,
+5. innovative teknologier, herunder godkjenning.
 
 > Tilføyd ved [lov 14 des 2018 nr. 96](lov/2018-12-14-96) (ikr. 1 jan 2019 iflg. [res. 14 des 2018 nr. 1921](forskrift/2018-12-14-1921)), endret ved lov [17 juni 2022 nr. 71](lov/2022-06-17-71) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1041](forskrift/2022-06-17-1041)).
 
@@ -335,7 +357,12 @@ Departementet kan gi forskrift om grenser for konsentrasjoner i blodet av annet 
 
 ### § 22 a. Politiets testing av ruspåvirkning
 
-Politiet kan ta alkotest (foreløpig blåseprøve) og foreløpig test av om motorvognfører er påvirket av annet berusende eller bedøvende middel når:det er grunn til å tro at han har overtrådt bestemmelsene i [§ 22](lov/1965-06-18-4/§22) eller [§ 22 b](lov/1965-06-18-4/§22b),det er grunn til å tro at han har overtrådt andre bestemmelser som er gitt i eller i medhold av denne lov, og departementet har bestemt at overtredelsen kan ha slik virkning,han med eller uten egen skyld er innblandet i trafikkuhell, ellerhan er blitt stanset i trafikkontroll.
+Politiet kan ta alkotest (foreløpig blåseprøve) og foreløpig test av om motorvognfører er påvirket av annet berusende eller bedøvende middel når:
+
+1. det er grunn til å tro at han har overtrådt bestemmelsene i [§ 22](lov/1965-06-18-4/§22) eller [§ 22 b](lov/1965-06-18-4/§22b),
+2. det er grunn til å tro at han har overtrådt andre bestemmelser som er gitt i eller i medhold av denne lov, og departementet har bestemt at overtredelsen kan ha slik virkning,
+3. han med eller uten egen skyld er innblandet i trafikkuhell, eller
+4. han er blitt stanset i trafikkontroll.
 
 Dersom testresultatet eller andre forhold gir grunn til å tro at fører av motorvogn har overtrådt bestemmelsene i [§ 22](lov/1965-06-18-4/§22) eller [§ 22 b](lov/1965-06-18-4/§22b), kan politiet foreta særskilt undersøkelse av om det forekommer tegn og symptomer på ruspåvirkning og fremstille ham for utåndingsprøve, blodprøve, spyttprøve og klinisk legeundersøkelse for å søke å fastslå påvirkningen. Slik fremstilling skal i alminnelighet finne sted når føreren nekter å medvirke til alkotest eller foreløpig test av om føreren er påvirket av annet berusende eller bedøvende middel.
 
@@ -443,7 +470,13 @@ Ved øvingskjøring anses lærer eller ledsager som fører av motorvognen. Det s
 
 Førerkortrettet opplæring mot vederlag kan bare gis av offentlig skoleverk og godkjente virksomheter med godkjente trafikklærere og godkjent faglig leder. Den som skal godkjennes som trafikklærer, må fremlegge ordinær politiattest som viser at vedkommende er skikket til oppgaven.
 
-Departementet kan i forskrift:gi regler om godkjenning og drift av virksomheter etter første ledd, gjøre unntak fra kravet om godkjenning etter første ledd og gi nærmere regler om gjennomføringen av førerkortrettet opplæring, herunder sette begrensninger for hvilke klasser og emner det kan gis opplæring innenfor,stille krav til den som skal gi opplæring mot vederlag og faglig ansvarlig, herunder vilkår for godkjenningen, krav til alder, utdanning, førerkort, edruelighet og helse, tilleggskrav for undervisning i visse klasser, emner eller visse oppgaver, krav til regodkjenning og etterutdanning samt fastsette overgangsordninger,gi regler om tilsyn med godkjenningspliktig opplæring, herunder krav til tilsynsmyndigheten og tilsynspersonell samt tilsynssubjektets plikt til å medvirke,gi regler om pålegg om retting og stans av virksomheten, advarsel og tilbakekall av godkjenningen, tvangsmulkt og om avbrytelse og underkjenning av opplæring, herunder at undervisning i offentlig skoleverk kan avbrytes og underkjennes,gi regler om gebyr for godkjenning og tilsyn.
+Departementet kan i forskrift:
+
+1. gi regler om godkjenning og drift av virksomheter etter første ledd, gjøre unntak fra kravet om godkjenning etter første ledd og gi nærmere regler om gjennomføringen av førerkortrettet opplæring, herunder sette begrensninger for hvilke klasser og emner det kan gis opplæring innenfor,
+2. stille krav til den som skal gi opplæring mot vederlag og faglig ansvarlig, herunder vilkår for godkjenningen, krav til alder, utdanning, førerkort, edruelighet og helse, tilleggskrav for undervisning i visse klasser, emner eller visse oppgaver, krav til regodkjenning og etterutdanning samt fastsette overgangsordninger,
+3. gi regler om tilsyn med godkjenningspliktig opplæring, herunder krav til tilsynsmyndigheten og tilsynspersonell samt tilsynssubjektets plikt til å medvirke,
+4. gi regler om pålegg om retting og stans av virksomheten, advarsel og tilbakekall av godkjenningen, tvangsmulkt og om avbrytelse og underkjenning av opplæring, herunder at undervisning i offentlig skoleverk kan avbrytes og underkjennes,
+5. gi regler om gebyr for godkjenning og tilsyn.
 
 > Endret ved lover [10 apr 1981 nr. 8](lov/1981-04-10-8), [12 juni 1987 nr. 64](lov/1987-06-12-64), [19 des 2003 nr. 133](lov/2003-12-19-133) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1764](forskrift/2003-12-19-1764)), [18 juni 2004 nr. 40](lov/2004-06-18-40), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 jan 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [3 april 2020 nr. 18](lov/2020-04-03-18) (i kraft 3 april 2020 iflg. [res. 3 april 2020 nr. 576](forskrift/2020-04-03-576)).
 
@@ -469,7 +502,13 @@ Departementet kan gi forskrift om grunn- og etteropplæring, prøver, gebyr, bev
 
 Opplæring med sikte på å erverve kompetansebevis for utrykningskjøring kan bare gis av Politihøgskolen og godkjente kursarrangører med godkjent utrykningsinstruktør og undervisningsansvarlig.
 
-Departementet kan i forskrift:gi regler for godkjenning og drift av opplæringsinstitusjoner etter første ledd, fastsette begrensninger i retten til drift, gjøre unntak fra kravet til godkjenning etter første ledd samt regulere gjennomføringen av opplæringen,stille krav til utrykningsinstruktøren og undervisningsansvarlig, herunder vilkår for godkjenningen, utdanning, førerett og erfaring for å inneha slik godkjenning, krav om etterutdanning og regodkjenning samt fastsette overgangsordninger,gi regler om tilsyn med godkjenningspliktig opplæring, herunder krav til tilsynsmyndigheten og tilsynspersonell samt tilsynssubjektets plikt til å medvirke,gi regler om pålegg om retting og stans av virksomheten, advarsel og tilbakekall av godkjenningen, tvangsmulkt og om avbrytelse og underkjenning av opplæring, herunder at undervisning i offentlig skoleverk kan avbrytes og underkjennes,gi regler om gebyr for godkjenning og tilsyn.
+Departementet kan i forskrift:
+
+1. gi regler for godkjenning og drift av opplæringsinstitusjoner etter første ledd, fastsette begrensninger i retten til drift, gjøre unntak fra kravet til godkjenning etter første ledd samt regulere gjennomføringen av opplæringen,
+2. stille krav til utrykningsinstruktøren og undervisningsansvarlig, herunder vilkår for godkjenningen, utdanning, førerett og erfaring for å inneha slik godkjenning, krav om etterutdanning og regodkjenning samt fastsette overgangsordninger,
+3. gi regler om tilsyn med godkjenningspliktig opplæring, herunder krav til tilsynsmyndigheten og tilsynspersonell samt tilsynssubjektets plikt til å medvirke,
+4. gi regler om pålegg om retting og stans av virksomheten, advarsel og tilbakekall av godkjenningen, tvangsmulkt og om avbrytelse og underkjenning av opplæring, herunder at undervisning i offentlig skoleverk kan avbrytes og underkjennes,
+5. gi regler om gebyr for godkjenning og tilsyn.
 
 > Tilføyd ved [lov 3 april 2020 nr. 18](lov/2020-04-03-18) (i kraft 3 april 2020 iflg. [res. 3 april 2020 nr. 576](forskrift/2020-04-03-576)).
 
@@ -489,7 +528,11 @@ Departementet gir forskrift om i hvilken utstrekning og på hvilke vilkår inneh
 
 Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, straffes med bøter eller med fengsel inntil ett år, dersom forholdet ikke går inn under strengere straffebud. På samme måte straffes overtredelse av vilkår i enkeltvedtak i medhold av denne lov og brudd på forbud etter [§§ 35](lov/1965-06-18-4/§35) og [36](lov/1965-06-18-4/§36). Forsøk straffes ikke, med unntak for [§ 22](lov/1965-06-18-4/§22) første ledd. Den som ved bruk av motorvogn uaktsomt volder betydelig legemsskade eller en annens død, straffes etter [straffeloven § 280](lov/2005-05-20-28/§280) eller [§ 281](lov/2005-05-20-28/§281).
 
-Den som overtrer [§ 22](lov/1965-06-18-4/§22) første ledd, straffes som regelmed bot ved alkoholkonsentrasjon i blodet til og med 0,5 promille eller alkoholkonsentrasjon i utåndingsluften til og med 0,25 milligram per liter luft, eller ved nærmere bestemt konsentrasjon i blodet av annet berusende eller bedøvende middel,med bot og betinget eller ubetinget fengsel ved alkoholkonsentrasjon i blodet over 0,5 til og med 1,2 promille eller alkoholkonsentrasjon i utåndingsluften over 0,25 til og med 0,6 milligram per liter luft, eller ved nærmere bestemt konsentrasjon i blodet av annet berusende eller bedøvende middel,med bot og ubetinget fengsel ved alkoholkonsentrasjon i blodet over 1,2 promille eller alkoholkonsentrasjon i utåndingsluften over 0,6 milligram per liter luft, eller ved nærmere bestemt konsentrasjon i blodet av annet berusende eller bedøvende middel.
+Den som overtrer [§ 22](lov/1965-06-18-4/§22) første ledd, straffes som regel
+
+1. med bot ved alkoholkonsentrasjon i blodet til og med 0,5 promille eller alkoholkonsentrasjon i utåndingsluften til og med 0,25 milligram per liter luft, eller ved nærmere bestemt konsentrasjon i blodet av annet berusende eller bedøvende middel,
+2. med bot og betinget eller ubetinget fengsel ved alkoholkonsentrasjon i blodet over 0,5 til og med 1,2 promille eller alkoholkonsentrasjon i utåndingsluften over 0,25 til og med 0,6 milligram per liter luft, eller ved nærmere bestemt konsentrasjon i blodet av annet berusende eller bedøvende middel,
+3. med bot og ubetinget fengsel ved alkoholkonsentrasjon i blodet over 1,2 promille eller alkoholkonsentrasjon i utåndingsluften over 0,6 milligram per liter luft, eller ved nærmere bestemt konsentrasjon i blodet av annet berusende eller bedøvende middel.
 
 Påvirkningsgraden hos førere som har inntatt legemiddel i henhold til gjeldende forskrivning fra lege eller tannlege, vurderes konkret.
 
@@ -545,7 +588,17 @@ Departementet kan gi forskrift om at virksomhet og fører som på fremmed stats 
 
 ### § 33. Tap av retten til å føre førerkortpliktig motorvogn mv.
 
-1\. Blir den som har førerett ilagt straff, kan det i samme dom, forelegg eller beslutning om overføring til konfliktrådet fastsettes tap av retten til å føre førerkortpliktig motorvogn for en bestemt tid eller for alltid, dersom hensynet til trafikksikkerheten eller allmenne hensyn ellers krever det.Tapet av førerett fastsettes for minst 1 år dersom rettighetshaveren blir ilagt straff for overtredelse av [§ 22](lov/1965-06-18-4/§22), jf. [§ 31](lov/1965-06-18-4/§31). Dette gjelder ikke for overtredelser som nevnt i [§ 31](lov/1965-06-18-4/§31) annet ledd bokstav a. Ilegges straff som nevnt i [§ 31](lov/1965-06-18-4/§31) annet ledd bokstav a for kjøring i prøveperiode, fastsettes likevel tap av førerett med inntil ett år.Dersom rettighetshaveren tidligere er ilagt straff for overtredelse av [§ 22](lov/1965-06-18-4/§22), jf. [§ 31](lov/1965-06-18-4/§31), og han blir ilagt straff for ny overtredelse av [§ 22](lov/1965-06-18-4/§22), jf. [§ 31](lov/1965-06-18-4/§31) som er begått senest 5 år etter at reaksjonen ble fastsatt for den tidligere overtredelsen, skal retten til å føre førerkortpliktig motorvogn fratas for alltid. Dette gjelder likevel ikke for overtredelser som nevnt i [§ 31](lov/1965-06-18-4/§31) annet ledd bokstav a.Retten til å føre førerkortpliktig motorvogn skal fratas for alltid dersom rettighetshaveren ved bruk av motorvogn har voldt eller medvirket til trafikkuhell og blir ilagt straff for å ha unnlatt å yte hjelp til noen som kom til skade ved uhellet, jf. [§ 12](lov/1965-06-18-4/§12).Kongen gir forskrift med nærmere regler om fastsetting av hvor lenge tap av førerett skal vare og om når det skal kreves ny førerprøve.Tapet av førerett kan settes kortere enn minstetiden i eller i medhold av bestemmelsen her, dersom det ellers vil virke urimelig hardt og det foreligger særdeles formildende omstendigheter ved forholdet som ligger til grunn for tapet av førerett. Det samme gjelder når andre helt spesielle grunner taler for å gå under minstetiden.
+1\. Blir den som har førerett ilagt straff, kan det i samme dom, forelegg eller beslutning om overføring til konfliktrådet fastsettes tap av retten til å føre førerkortpliktig motorvogn for en bestemt tid eller for alltid, dersom hensynet til trafikksikkerheten eller allmenne hensyn ellers krever det.
+
+Tapet av førerett fastsettes for minst 1 år dersom rettighetshaveren blir ilagt straff for overtredelse av [§ 22](lov/1965-06-18-4/§22), jf. [§ 31](lov/1965-06-18-4/§31). Dette gjelder ikke for overtredelser som nevnt i [§ 31](lov/1965-06-18-4/§31) annet ledd bokstav a. Ilegges straff som nevnt i [§ 31](lov/1965-06-18-4/§31) annet ledd bokstav a for kjøring i prøveperiode, fastsettes likevel tap av førerett med inntil ett år.
+
+Dersom rettighetshaveren tidligere er ilagt straff for overtredelse av [§ 22](lov/1965-06-18-4/§22), jf. [§ 31](lov/1965-06-18-4/§31), og han blir ilagt straff for ny overtredelse av [§ 22](lov/1965-06-18-4/§22), jf. [§ 31](lov/1965-06-18-4/§31) som er begått senest 5 år etter at reaksjonen ble fastsatt for den tidligere overtredelsen, skal retten til å føre førerkortpliktig motorvogn fratas for alltid. Dette gjelder likevel ikke for overtredelser som nevnt i [§ 31](lov/1965-06-18-4/§31) annet ledd bokstav a.
+
+Retten til å føre førerkortpliktig motorvogn skal fratas for alltid dersom rettighetshaveren ved bruk av motorvogn har voldt eller medvirket til trafikkuhell og blir ilagt straff for å ha unnlatt å yte hjelp til noen som kom til skade ved uhellet, jf. [§ 12](lov/1965-06-18-4/§12).
+
+Kongen gir forskrift med nærmere regler om fastsetting av hvor lenge tap av førerett skal vare og om når det skal kreves ny førerprøve.
+
+Tapet av førerett kan settes kortere enn minstetiden i eller i medhold av bestemmelsen her, dersom det ellers vil virke urimelig hardt og det foreligger særdeles formildende omstendigheter ved forholdet som ligger til grunn for tapet av førerett. Det samme gjelder når andre helt spesielle grunner taler for å gå under minstetiden.
 
 2\. Kongen kan gi forskrift om at retten til å føre førerkortpliktig motorvogn skal gå tapt for en bestemt tid av hensyn til trafikksikkerheten eller allmenne hensyn, dersom rettighetshaveren har fått nærmere angitte straffbare handlinger registrert et bestemt antall ganger i løpet av en fastsatt tidsperiode. Det kan fastsettes ulik registrering av ulike straffbare handlinger, og avhengig av om vedkommende har førerett med eller uten prøveperiode. Det kan settes vilkår for å få føreretten tilbake.
 
@@ -581,15 +634,31 @@ Politimesteren eller den han gir myndighet kan forby en person for nærmere fast
 
 ### § 36. Forbud mot bruk av kjøretøy, inndragning av kjennemerke og vognkort og pålegg om hvile
 
-1\. Politiet eller Statens vegvesen kan forby bruken av en motorvogn og tilhenger til motorvogn for så lang tid som nødvendig, dersomkjøretøyet ikke blir omregistrert når det er bestemt i medhold av [§ 15](lov/1965-06-18-4/§15),kjøretøyet ikke blir framstilt til kontroll etter [§ 19](lov/1965-06-18-4/§19) eller pålegg om utbedring av mangel ikke er etterkommet innen fastsatt tid,kjøretøyet ikke er i forsvarlig stand eller kjøretøyets last ikke er forsvarlig sikret,kjøretøyets hjul ikke er sikret tilstrekkelig veggrep ved bruk av pigger, kjettinger eller lignende, når føreforholdet gjør det nødvendig,pålegg gitt i medhold av [§ 36 a](lov/1965-06-18-4/§36a) fjerde ledd ikke er etterkommet,regler gitt i medhold av [§ 7](lov/1965-06-18-4/§7) tredje ledd blir vesentlig overtrådt eller pålegg gitt i medhold av disse ikke blir etterkommet,kjøretøyet er endret i strid med [§ 13](lov/1965-06-18-4/§13) femte ledd,fartsskriver ikke er installert, eller der fartsskriveren er manipulert eller på annen måte endret slik at informasjonen fra fartsskriveren ikke samsvarer med faktisk kjøring eller annen regulert bruk.
+1\. Politiet eller Statens vegvesen kan forby bruken av en motorvogn og tilhenger til motorvogn for så lang tid som nødvendig, dersom
 
-2\. Når hensynet til trafikksikkerheten krever det, kan politimesteren eller den han gir myndighet forby bruken av motorvogn og tilhenger til motorvogn for bestemt tid inntil 1 år, dersom eieren eller noen som stadig bruker kjøretøyet med hans samtykke,har kjørt kjøretøy som er endret i strid med [§ 13](lov/1965-06-18-4/§13) femte ledd, ellerhar brukt kjøretøy med vesentlig overlast, eller med farlig gods i strid med bestemmelser gitt i eller i medhold av denne lov, eller med uforsvarlig plassert last, eller på veg der kjøretøyet ikke må kjøre etter gitte bestemmelser om aksel- og boggilast, lengde, bredde, høyde m.m, ellerhar brukt kjøretøyet til kjøring ellers i strid med bestemmelser i eller i medhold av denne lov, og han tidligere er ilagt straff eller domfelt for overtredelser av slik bestemmelse eller for overtredelse av [straffeloven kapittel 25](lov/2005-05-20-28/kap25) under bruk av motorvogn eller tilhenger til motorvogn, ellerhar kjørt med kjøretøyet på uforsvarlig måte.
+1. kjøretøyet ikke blir omregistrert når det er bestemt i medhold av [§ 15](lov/1965-06-18-4/§15),
+2. kjøretøyet ikke blir framstilt til kontroll etter [§ 19](lov/1965-06-18-4/§19) eller pålegg om utbedring av mangel ikke er etterkommet innen fastsatt tid,
+3. kjøretøyet ikke er i forsvarlig stand eller kjøretøyets last ikke er forsvarlig sikret,
+4. kjøretøyets hjul ikke er sikret tilstrekkelig veggrep ved bruk av pigger, kjettinger eller lignende, når føreforholdet gjør det nødvendig,
+5. pålegg gitt i medhold av [§ 36 a](lov/1965-06-18-4/§36a) fjerde ledd ikke er etterkommet,
+6. regler gitt i medhold av [§ 7](lov/1965-06-18-4/§7) tredje ledd blir vesentlig overtrådt eller pålegg gitt i medhold av disse ikke blir etterkommet,
+7. kjøretøyet er endret i strid med [§ 13](lov/1965-06-18-4/§13) femte ledd,
+8. fartsskriver ikke er installert, eller der fartsskriveren er manipulert eller på annen måte endret slik at informasjonen fra fartsskriveren ikke samsvarer med faktisk kjøring eller annen regulert bruk.
+
+2\. Når hensynet til trafikksikkerheten krever det, kan politimesteren eller den han gir myndighet forby bruken av motorvogn og tilhenger til motorvogn for bestemt tid inntil 1 år, dersom eieren eller noen som stadig bruker kjøretøyet med hans samtykke,
+
+1. har kjørt kjøretøy som er endret i strid med [§ 13](lov/1965-06-18-4/§13) femte ledd, eller
+2. har brukt kjøretøy med vesentlig overlast, eller med farlig gods i strid med bestemmelser gitt i eller i medhold av denne lov, eller med uforsvarlig plassert last, eller på veg der kjøretøyet ikke må kjøre etter gitte bestemmelser om aksel- og boggilast, lengde, bredde, høyde m.m, eller
+3. har brukt kjøretøyet til kjøring ellers i strid med bestemmelser i eller i medhold av denne lov, og han tidligere er ilagt straff eller domfelt for overtredelser av slik bestemmelse eller for overtredelse av [straffeloven kapittel 25](lov/2005-05-20-28/kap25) under bruk av motorvogn eller tilhenger til motorvogn, eller
+4. har kjørt med kjøretøyet på uforsvarlig måte.
 
 3\. Når bruken av en motorvogn, eller tilhenger til motorvogn, blir forbudt etter nr. 1, 2 eller 5, kan politiet, Statens vegvesen og Tolletaten inndra kjennemerker og vognkort dersom kjøretøyet er registrert. Det samme gjelder i tilfelle som er nevnt i [skattebetalingsloven § 14-11](lov/2005-06-17-67/§14-11) første ledd, og dersom trafikktrygd ikke blir holdt i kraft, jf. [bilansvarslova § 19](lov/1961-02-03/§19). Bruksforbud som nevnt i første punktum kan om nødvendig sikres ved bruk av mekanisk eller elektronisk innretning. Kjøretøyet kan ved bruk av slik innretning holdes tilbake inntil omkostninger knyttet til bruken av innretningen er betalt.
 
 4\. Når hensynet til trafikksikkerheten krever det, kan politimesteren eller den han gir myndighet, forby bruken av annet kjøretøy enn motorvogn og tilhenger til motorvogn for bestemt tid inntil 6 måneder, dersom kjøretøyet ikke er i forsvarlig stand, eller dersom eieren eller noen som stadig bruker det med hans samtykke, har brukt det til uforsvarlig kjøring i strid med bestemmelser i eller i medhold av denne lov.
 
-5\. Dersom kjøretøyet blir overdratt til andre etter at betingelsene for å forby bruken av det etter nr. 2 og nr. 4 forelå, kan forbud mot bruk også nedlegges mot eller opprettholdes overfor den som får kjøretøyet overdratt til seg.Finner politiet grunn til å anta at bruken av kjøretøyet vil bli forbudt i medhold av nr. 2 eller nr. 4, kan politiet midlertidig forby bruken av kjøretøyet inntil vedtak kan fattes etter nr. 2 eller nr. 4.
+5\. Dersom kjøretøyet blir overdratt til andre etter at betingelsene for å forby bruken av det etter nr. 2 og nr. 4 forelå, kan forbud mot bruk også nedlegges mot eller opprettholdes overfor den som får kjøretøyet overdratt til seg.
+
+Finner politiet grunn til å anta at bruken av kjøretøyet vil bli forbudt i medhold av nr. 2 eller nr. 4, kan politiet midlertidig forby bruken av kjøretøyet inntil vedtak kan fattes etter nr. 2 eller nr. 4.
 
 6\. I tilfelle som nevnt i nr. 3 og 4 kan politiet ta kjøretøyet i forvaring når det finner det nødvendig. Blir det ikke hentet innen tre måneder etter utløpet av forbudstiden, kan det selges etter reglene i [§ 37](lov/1965-06-18-4/§37) femte til åttende ledd.
 
@@ -609,7 +678,15 @@ Ved overtredelse som medfører gebyrplikt etter første ledd, kan politiet eller
 
 Gebyret er tvangsgrunnlag for utlegg også hos motorvogneieren, jfr. [§ 38](lov/1965-06-18-4/§38), annet ledd. Bestemmelsene i annet ledd første punktum kan også gjøres gjeldende for motorvognen, og den hefter til sikkerhet etter bestemmelsene i [§ 38](lov/1965-06-18-4/§38), første ledd.
 
-Departementet kan gi forskrift om:Veiing, måling og relevant dokumentasjon fra avsender og kontrollmyndighetenes tilgang til slik dokumentasjon,plikt til å kjøre til anvist kontrollsted,gebyrsatser, herunder høyere satser ved gjentakelse,ileggelse, betalingsfrist og inndriving av gebyr,klagebehandling og klagefrist,adgang til ettergivelse av gebyr i særlige tilfeller oginndragning av kjennemerker og dokumenter i tilfelle som nevnt i annet ledd.
+Departementet kan gi forskrift om:
+
+1. Veiing, måling og relevant dokumentasjon fra avsender og kontrollmyndighetenes tilgang til slik dokumentasjon,
+2. plikt til å kjøre til anvist kontrollsted,
+3. gebyrsatser, herunder høyere satser ved gjentakelse,
+4. ileggelse, betalingsfrist og inndriving av gebyr,
+5. klagebehandling og klagefrist,
+6. adgang til ettergivelse av gebyr i særlige tilfeller og
+7. inndragning av kjennemerker og dokumenter i tilfelle som nevnt i annet ledd.
 
 > Tilføyd ved [lov 19 juni 1970 nr. 65](lov/1970-06-19-65), endret ved lover [4 juli 1991 nr. 49](lov/1991-07-04-49), [26 juni 1992 nr. 86](lov/1992-06-26-86), [23 juni 1995 nr. 40](lov/1995-06-23-40) (ikr. 1 okt 1995), [21 juni 2002 nr. 39](lov/2002-06-21-39) (ikr. 1 juli 2002 iflg. [res. 21 juni 2002 nr. 576](forskrift/2002-06-21-576)), [17 apr 2015 nr. 19](lov/2015-04-17-19) (ikr. 1 mai 2015 iflg. [res. 17 apr 2015 nr. 378](forskrift/2015-04-17-378)), [21 juni 2017 nr. 102](lov/2017-06-21-102) (ikr. 1 aug 2017 iflg. [res. 21 juni 2017 nr. 825](forskrift/2017-06-21-825)), [21 juni 2019 nr. 68](lov/2019-06-21-68) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 869](forskrift/2019-06-21-869)), [18 des 2020 nr. 160](lov/2020-12-18-160) (ikr. 1 jan 2021 iflg. [res. 18 des 2020 nr. 2875](forskrift/2020-12-18-2875)).
 
@@ -631,7 +708,11 @@ Tilbakeholdte kjøretøy kan selges etter reglene i [§ 37](lov/1965-06-18-4/§3
 
 ### § 37. Fjerning og forvaring av kjøretøy m.m.
 
-Politiet kan kreve fjernet, eller om nødvendig fjerne eller ta i forvaring kjøretøysom er plassert i strid med bestemmelse i eller i medhold av denne lov, ellersom er plassert slik at det ellers er til hinder for trafikken eller for snøbrøyting eller annet arbeid på veg, ellersom er plassert på privat eller offentlig eiendom til skade eller ulempe for eier eller bruker eller mot dennes forbud.
+Politiet kan kreve fjernet, eller om nødvendig fjerne eller ta i forvaring kjøretøy
+
+1. som er plassert i strid med bestemmelse i eller i medhold av denne lov, eller
+2. som er plassert slik at det ellers er til hinder for trafikken eller for snøbrøyting eller annet arbeid på veg, eller
+3. som er plassert på privat eller offentlig eiendom til skade eller ulempe for eier eller bruker eller mot dennes forbud.
 
 Står kjøretøyet på et område som ikke er åpent for alminnelig trafikk, gjelder dette bare dersom eier eller bruker av grunnen krever at kjøretøyet blir fjernet.
 
@@ -715,7 +796,16 @@ Når det gjelder regler om godkjenninger, kompetansebevis m.m. som i medhold av 
 
 Offentlige myndigheter kan behandle personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, når det er nødvendig for å utføre oppgaver etter denne loven med forskrifter. Det kan også behandles personopplysninger som nevnt i forbindelse med trafikksikkerhets- og ulykkesanalysearbeid.
 
-Personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, kan uten hinder av taushetsplikt utleveres fra Statens vegvesens motorvognregister og førerkortregister til politiet når det er nødvendig for politimessige formål eller kvalitetskontroll av opplysninger i politiets registre. Personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9, kan uten hinder av taushetsplikt utleveres fra bilde- og signaturregisteret til politiet når det er nødvendig forå finne en savnet personå identifisere en død person eller en person som det hører under politiets oppgaver å hjelpeå identifisere en person som kan innbringes eller skal pågripes eller anbringes i politiarrestå avklare identiteten til en person som etter utlendingsloven har plikt til å gi opplysninger om egen identitetforebygging eller etterforskning av en handling som etter loven kan medføre høyere straff enn fengsel i seks månederkvalitetskontroll av opplysninger i politiets registre.Utlevering av personopplysninger etter dette ledd kan skje ved direkte søk.
+Personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, kan uten hinder av taushetsplikt utleveres fra Statens vegvesens motorvognregister og førerkortregister til politiet når det er nødvendig for politimessige formål eller kvalitetskontroll av opplysninger i politiets registre. Personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9, kan uten hinder av taushetsplikt utleveres fra bilde- og signaturregisteret til politiet når det er nødvendig for
+
+1. å finne en savnet person
+2. å identifisere en død person eller en person som det hører under politiets oppgaver å hjelpe
+3. å identifisere en person som kan innbringes eller skal pågripes eller anbringes i politiarrest
+4. å avklare identiteten til en person som etter utlendingsloven har plikt til å gi opplysninger om egen identitet
+5. forebygging eller etterforskning av en handling som etter loven kan medføre høyere straff enn fengsel i seks måneder
+6. kvalitetskontroll av opplysninger i politiets registre.
+
+Utlevering av personopplysninger etter dette ledd kan skje ved direkte søk.
 
 Personopplysninger i førerkort- og motorvognregisteret kan utleveres til, eller på annen måte gjøres tilgjengelig for, utenlandske myndigheter når dette er nødvendig for å oppfylle Norges internasjonale forpliktelser.
 

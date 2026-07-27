@@ -15,7 +15,7 @@ xml_hash: "ed62a6105d557bd457f3f97045d6dcd0be0f848de88841a9ffe20b16b1b3deab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,13 +26,21 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med lova er å:bidra til at obduksjonar og anna behandling av lik blir utført på ein verdig måte med respekt for den døde og dei pårørande til den døde,gi kunnskap om dødsprosessar og dødsårsaker, førebygging av skadar og ulykker og bidra til ein påliteleg dødsårsaksstatistikk, oglegge til rette for kvalitetssikring i helse- og omsorgstenesta og for undervisning og tileigning av kunnskap.
+Formålet med lova er å:
+
+1. bidra til at obduksjonar og anna behandling av lik blir utført på ein verdig måte med respekt for den døde og dei pårørande til den døde,
+2. gi kunnskap om dødsprosessar og dødsårsaker, førebygging av skadar og ulykker og bidra til ein påliteleg dødsårsaksstatistikk, og
+3. legge til rette for kvalitetssikring i helse- og omsorgstenesta og for undervisning og tileigning av kunnskap.
 
 > Endra ved lov [6 mars 2020 nr. 2](lov/2020-03-06-2) (ikr. 1 mai 2020 iflg. [res. 6 mars 2020 nr. 244](forskrift/2020-03-06-244)).
 
 ### § 2. Verkeområde
 
-Lova gjeld for medisinsk obduksjon, rettsmedisinsk obduksjon av drepne i vegtrafikken etter [§ 7 a](lov/2015-05-07-26/§7a) første ledd andre punktum og donasjon av lekam til undervisning og forsking og anna behandling av lik:[§§ 4](lov/2015-05-07-26/§4), [5](lov/2015-05-07-26/§5), [6](lov/2015-05-07-26/§6), [7](lov/2015-05-07-26/§7), [8](lov/2015-05-07-26/§8) og [8 a](lov/2015-05-07-26/§8a) gjeld for medisinsk obduksjon.[§§ 7 a](lov/2015-05-07-26/§7a), [8](lov/2015-05-07-26/§8) og [8 a](lov/2015-05-07-26/§8a) gjeld for rettsmedisinsk obduksjon etter [§ 7 a](lov/2015-05-07-26/§7a) første ledd andre punktum.[Kapittel](lov/2015-05-07-26/kap3) 3 gjeld for donasjon av lekam til undervisning og forsking og anna behandling av lik.
+Lova gjeld for medisinsk obduksjon, rettsmedisinsk obduksjon av drepne i vegtrafikken etter [§ 7 a](lov/2015-05-07-26/§7a) første ledd andre punktum og donasjon av lekam til undervisning og forsking og anna behandling av lik:
+
+1. [§§ 4](lov/2015-05-07-26/§4), [5](lov/2015-05-07-26/§5), [6](lov/2015-05-07-26/§6), [7](lov/2015-05-07-26/§7), [8](lov/2015-05-07-26/§8) og [8 a](lov/2015-05-07-26/§8a) gjeld for medisinsk obduksjon.
+2. [§§ 7 a](lov/2015-05-07-26/§7a), [8](lov/2015-05-07-26/§8) og [8 a](lov/2015-05-07-26/§8a) gjeld for rettsmedisinsk obduksjon etter [§ 7 a](lov/2015-05-07-26/§7a) første ledd andre punktum.
+3. [Kapittel](lov/2015-05-07-26/kap3) 3 gjeld for donasjon av lekam til undervisning og forsking og anna behandling av lik.
 
 [§ 7](lov/2015-05-07-26/§7) gjeld tilsvarande for forsking på biologisk materiale som er tatt ut i samband med ein rettsmedisinsk obduksjon.
 
@@ -42,7 +50,12 @@ Kongen kan gi forskrift om at lova og forskrifter med heimel i lova heilt eller 
 
 ### § 3. Definisjonar
 
-I denne lova meines med:obduksjon: ei systematisk utvendig og innvendig medisinsk undersøking av ein død personmedisinsk obduksjon: obduksjon som ein lege har kravd, der formålet er å påvise eller utelukke forandringar som er forårsaka av sjukdom eller skaderettsmedisinsk obduksjon: obduksjon som er kravd etter [straffeprosessloven § 228](lov/1981-05-22-25/§228) om sakkyndig likundersøking og obduksjon etter [§ 7](lov/1981-05-22-25/§7) a første ledd andre punktumnæraste pårørande: næraste pårørande etter [pasient- og brukerrettighetsloven § 1-3](lov/1999-07-02-63/§1-3) bokstav b.
+I denne lova meines med:
+
+1. obduksjon: ei systematisk utvendig og innvendig medisinsk undersøking av ein død person
+2. medisinsk obduksjon: obduksjon som ein lege har kravd, der formålet er å påvise eller utelukke forandringar som er forårsaka av sjukdom eller skade
+3. rettsmedisinsk obduksjon: obduksjon som er kravd etter [straffeprosessloven § 228](lov/1981-05-22-25/§228) om sakkyndig likundersøking og obduksjon etter [§ 7](lov/1981-05-22-25/§7) a første ledd andre punktum
+4. næraste pårørande: næraste pårørande etter [pasient- og brukerrettighetsloven § 1-3](lov/1999-07-02-63/§1-3) bokstav b.
 
 > Endra ved lov [6 mars 2020 nr. 2](lov/2020-03-06-2) (ikr. 1 mai 2020 iflg. [res. 6 mars 2020 nr. 244](forskrift/2020-03-06-244)).
 

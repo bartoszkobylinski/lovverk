@@ -50,9 +50,18 @@ Frist for søknad om tilskudd er innen utgangen av måneden etter at rapporterin
 
 ## § 4. Plikter
 
-Den som rapporterer skal:Rapportere månedlig til Landbruksdirektoratet om slakting av rein i henhold til [§ 5](forskrift/2011-06-21-617/§5) andre ledd, samt rapportere om lagerbeholdning i henhold til [§ 6](forskrift/2011-06-21-617/§6), og senest innen to uker etter utgangen av måneden slakting er gjennomført.Rapportere månedlig til Landbruksdirektoratet i henhold til [§ 5](forskrift/2011-06-21-617/§5) tredje ledd, og senest innen to måneder etter utgangen av måneden slakting er gjennomført. Rapporteringsfrist for slakt gjennomført i mars er likevel 30. april.Legge til rette for stikkprøvekontroll av registrerings- og rapporteringsrutiner.Dokumentere at reinen er klassifisert ved optisk lengdemåling.Gjennomføre slakting på slakteri godkjent av Mattilsynet.
+Den som rapporterer skal:
 
-De som har lagerbeholdning av reinkjøtt skal:På forespørsel fra Landbruksdirektoratet rapportere om lagerbeholdning i henhold til [§ 6](forskrift/2011-06-21-617/§6).Legge til rette for stikkprøvekontroll av registrerings- og rapporteringsrutiner.
+1. Rapportere månedlig til Landbruksdirektoratet om slakting av rein i henhold til [§ 5](forskrift/2011-06-21-617/§5) andre ledd, samt rapportere om lagerbeholdning i henhold til [§ 6](forskrift/2011-06-21-617/§6), og senest innen to uker etter utgangen av måneden slakting er gjennomført.
+2. Rapportere månedlig til Landbruksdirektoratet i henhold til [§ 5](forskrift/2011-06-21-617/§5) tredje ledd, og senest innen to måneder etter utgangen av måneden slakting er gjennomført. Rapporteringsfrist for slakt gjennomført i mars er likevel 30. april.
+3. Legge til rette for stikkprøvekontroll av registrerings- og rapporteringsrutiner.
+4. Dokumentere at reinen er klassifisert ved optisk lengdemåling.
+5. Gjennomføre slakting på slakteri godkjent av Mattilsynet.
+
+De som har lagerbeholdning av reinkjøtt skal:
+
+1. På forespørsel fra Landbruksdirektoratet rapportere om lagerbeholdning i henhold til [§ 6](forskrift/2011-06-21-617/§6).
+2. Legge til rette for stikkprøvekontroll av registrerings- og rapporteringsrutiner.
 
 Det kan ved særlige tilfeller gis dispensasjon fra tidsfristen i første ledd bokstav b, men ikke utover 30. april.
 
@@ -62,9 +71,25 @@ Det kan ved særlige tilfeller gis dispensasjon fra tidsfristen i første ledd b
 
 Den som rapporterer skal føre en slaktejournal med prisrapportering. Opplysningene overføres til Landbruksdirektoratet, i den form som kreves innenfor de rapporteringssystemer som Landbruksdirektoratet benytter.
 
-Slaktejournalen skal inneholde opplysninger omslakteriets EFTA-nummer,slaktedato,slaktenummer,avregningsvekt,klasse,fettgruppe,kasseringstype,dyrekode,bekreftelse på optisk lengdemåling av det enkelte dyret,distriktsnummer.
+Slaktejournalen skal inneholde opplysninger om
 
-Prisrapportering skal inneholde opplysninger omslaktenummer,avregningsnummer,reineiers fødselsnummer,nettopris, jf. [§ 2 andre ledd](forskrift/2011-06-21-617/§2/ledd/2).
+1. slakteriets EFTA-nummer,
+2. slaktedato,
+3. slaktenummer,
+4. avregningsvekt,
+5. klasse,
+6. fettgruppe,
+7. kasseringstype,
+8. dyrekode,
+9. bekreftelse på optisk lengdemåling av det enkelte dyret,
+10. distriktsnummer.
+
+Prisrapportering skal inneholde opplysninger om
+
+1. slaktenummer,
+2. avregningsnummer,
+3. reineiers fødselsnummer,
+4. nettopris, jf. [§ 2 andre ledd](forskrift/2011-06-21-617/§2/ledd/2).
 
 Krav til rapportering av reineierens fødselsnummer gjelder ikke ved slakt av umerket og ufordelt rein.
 
@@ -84,7 +109,12 @@ De etterspurte opplysningene overføres til Landbruksdirektoratet, i den form so
 
 ## § 7. Statsforvalterens oppgaver og kontroll
 
-Kontrollen av den som rapporterer gjennomføres av vedkommende statsforvalter ved at det foretas kontroll, etterkontroll og stikkprøver. Som grunnlag for etterkontroller skal den som rapporterer sørge forunder slakting skille ørene fra skinnet slik at hvert par henger sammen, der hvert par skal merkes med slaktenummer. Alternativt skal man merke reinen med klips,pakke ører fra kalv separat i kolli av inntil 300 enheter etter fortløpende slaktenummer i samsvar med slakteliste. Ørene skal dypfryses og lagres slik at de er lett tilgjengelig for kontroll,ører, alternativt individmerke, samt slaktejournal skal legges fram for kontroll når vedkommende statsforvalter krever det,ha ansvar for egnet lokale til gjennomføring av kontrollen. Lokalet skal være oppvarmet og tilstrekkelig belyst slik at det oppfyller kravene til et tilfredsstillende arbeidsmiljø. Varmt vann skal være tilgjengelig i lokalet.
+Kontrollen av den som rapporterer gjennomføres av vedkommende statsforvalter ved at det foretas kontroll, etterkontroll og stikkprøver. Som grunnlag for etterkontroller skal den som rapporterer sørge for
+
+1. under slakting skille ørene fra skinnet slik at hvert par henger sammen, der hvert par skal merkes med slaktenummer. Alternativt skal man merke reinen med klips,
+2. pakke ører fra kalv separat i kolli av inntil 300 enheter etter fortløpende slaktenummer i samsvar med slakteliste. Ørene skal dypfryses og lagres slik at de er lett tilgjengelig for kontroll,
+3. ører, alternativt individmerke, samt slaktejournal skal legges fram for kontroll når vedkommende statsforvalter krever det,
+4. ha ansvar for egnet lokale til gjennomføring av kontrollen. Lokalet skal være oppvarmet og tilstrekkelig belyst slik at det oppfyller kravene til et tilfredsstillende arbeidsmiljø. Varmt vann skal være tilgjengelig i lokalet.
 
 Etterkontrollen kan avløses av en direkte kontroll på slakteplass/utskillingsplass. Ved slik direkte kontroll kan vedkommende statsforvalter dispensere fra vilkåret i første ledd bokstav d.
 

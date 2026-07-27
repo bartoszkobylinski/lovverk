@@ -78,4 +78,16 @@ Partane skal dekkje kostnadene ved meklingsordninga med halvparten kvar. Statens
 
 Denne forskrifta trer i kraft 1. januar 2014.
 
-Frå same tid vert [forskrift 30. april 2010 nr. 641](forskrift/2010-04-30-641) om omsetning i første hand av viltlevande marine ressursar oppheva, og det vert gjort følgjande endringar i andre forskrifter:1. I [forskrift 18. desember 2009 nr. 1693](forskrift/2009-12-18-1693) om fangstsertifikat mv. skal [§ 2](forskrift/2009-12-18-1693/§2) første ledd andre strekpunkt lyde: ---2. I [forskrift 21. april 2006 nr. 433](forskrift/2006-04-21-433) om transitt av fisk fanget av og brakt i land fra EU-fartøy skal [§ 10](forskrift/2006-04-21-433/§10) lyde: ---3. I [forskrift 13. desember 2000 nr. 1253](forskrift/2000-12-13-1253) om samordnet innkreving av avgift på fiskeeksport skal [§ 3a](forskrift/2000-12-13-1253/§3a) fjerde ledd lyde: ---4. I [forskrift 11. desember 1998 nr. 1390](forskrift/1998-12-11-1390) om beregning og innbetaling av produktavgift skal [§ 1](forskrift/1998-12-11-1390/§1) andre ledd bokstav a lyde: ---5. I [forskrift 19. september 1997 nr. 1019](forskrift/1997-09-19-1019) om registrering som kjøper i første hånd av råfisk m.v. skal [§ 1](forskrift/1997-09-19-1019/§1) første ledd første punktum lyde: ---6. I [forskrift 31. januar 1958 nr. 9412](forskrift/1958-01-31-9412) Regler om beregning og innbetaling av avgiften på omsetning av fisk skal romertal I første ledd lyde: ---
+Frå same tid vert [forskrift 30. april 2010 nr. 641](forskrift/2010-04-30-641) om omsetning i første hand av viltlevande marine ressursar oppheva, og det vert gjort følgjande endringar i andre forskrifter:
+
+1\. I [forskrift 18. desember 2009 nr. 1693](forskrift/2009-12-18-1693) om fangstsertifikat mv. skal [§ 2](forskrift/2009-12-18-1693/§2) første ledd andre strekpunkt lyde: ---
+
+2\. I [forskrift 21. april 2006 nr. 433](forskrift/2006-04-21-433) om transitt av fisk fanget av og brakt i land fra EU-fartøy skal [§ 10](forskrift/2006-04-21-433/§10) lyde: ---
+
+3\. I [forskrift 13. desember 2000 nr. 1253](forskrift/2000-12-13-1253) om samordnet innkreving av avgift på fiskeeksport skal [§ 3a](forskrift/2000-12-13-1253/§3a) fjerde ledd lyde: ---
+
+4\. I [forskrift 11. desember 1998 nr. 1390](forskrift/1998-12-11-1390) om beregning og innbetaling av produktavgift skal [§ 1](forskrift/1998-12-11-1390/§1) andre ledd bokstav a lyde: ---
+
+5\. I [forskrift 19. september 1997 nr. 1019](forskrift/1997-09-19-1019) om registrering som kjøper i første hånd av råfisk m.v. skal [§ 1](forskrift/1997-09-19-1019/§1) første ledd første punktum lyde: ---
+
+6\. I [forskrift 31. januar 1958 nr. 9412](forskrift/1958-01-31-9412) Regler om beregning og innbetaling av avgiften på omsetning av fisk skal romertal I første ledd lyde: ---

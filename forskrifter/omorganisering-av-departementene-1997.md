@@ -26,11 +26,24 @@ eu_basis: []
 
 Planleggings- og samordningsdepartementet (PSD) overtar alle arbeidsoppgavene til det nåværende Administrasjonsdepartementet.
 
-Viktige ansvarsområder for nåværende Administrasjonsdepartementet er:Generelle forvaltningspolitiske spørsmål, herunder tiltak for å sikre effektiv og formålstjenlig drift av statlige virksomheterUtvikling av intern statlig tjenesteyting og fellestjenesterStatlig informasjonspolitikk, statlig innkjøpsstrategi og statlig bygge- og eiendomsforvaltningStatlig arbeidsgiverpolitikk samt inntektspolitikk og levekårsspørsmålKonkurranse- og prispolitikkenEtatstyringsansvaret for fylkesmannsembetene, Statens forvaltningstjeneste, Statens informasjonstjeneste, Statens pensjonskasse, Konkurransetilsynet, Statskonsult og Statsbygg.
+Viktige ansvarsområder for nåværende Administrasjonsdepartementet er:
+
+- Generelle forvaltningspolitiske spørsmål, herunder tiltak for å sikre effektiv og formålstjenlig drift av statlige virksomheter
+- Utvikling av intern statlig tjenesteyting og fellestjenester
+- Statlig informasjonspolitikk, statlig innkjøpsstrategi og statlig bygge- og eiendomsforvaltning
+- Statlig arbeidsgiverpolitikk samt inntektspolitikk og levekårsspørsmål
+- Konkurranse- og prispolitikken
+- Etatstyringsansvaret for fylkesmannsembetene, Statens forvaltningstjeneste, Statens informasjonstjeneste, Statens pensjonskasse, Konkurransetilsynet, Statskonsult og Statsbygg.
 
 I tillegg til dette vil det nye departementet bli gitt arbeidsoppgaver i tilknytning til nasjonal planlegging og samordningsspørsmål, herunder samordning av regjeringens IT-politikk.
 
-Planleggings- og samordningsdepartementet organiseres ved opprettelsen i 5 avdelinger:AdministrasjonsavdelingenInntektsavdelingenArbeidsgiveravdelingenForvaltningspolitisk avdelingKonkurransepolitisk avdeling
+Planleggings- og samordningsdepartementet organiseres ved opprettelsen i 5 avdelinger:
+
+- Administrasjonsavdelingen
+- Inntektsavdelingen
+- Arbeidsgiveravdelingen
+- Forvaltningspolitisk avdeling
+- Konkurransepolitisk avdeling
 
 I tillegg vil det bli opprettet en ny Plan- og samordningsavdeling.
 
@@ -44,7 +57,10 @@ Utenriksdepartementet har det overordnede og koordinerende ansvar for en enhetli
 
 Utenriksministeren har fortsatt ansvaret for utenrikssaker og næringsministeren gis ansvaret for næringslivssamarbeid, eksportfremme og skipsfartssaker, herunder Norges Eksportråd, Garantiinstituttet for eksportkreditt, Sjøfartsdirektoratet og Skipsregistrene.
 
-Ansvaret for handelspolitiske saker deles funksjonelt og globalt slik at:Utenriksministeren gis ansvaret for det handelspolitiske regelverk (WTO, OECD, EU/EØS, EFTA) og forhandlinger og drøftelser av dette, multilateralt og bilateralt.Nærings- og handelsministeren gis ansvaret for tilrettelegging og utvikling – bilateralt og regionalt – av næringslivssamarbeid og eksportfremme, inklusive avtaler, planer, kommisjoner og delegasjonsbesøk.
+Ansvaret for handelspolitiske saker deles funksjonelt og globalt slik at:
+
+- Utenriksministeren gis ansvaret for det handelspolitiske regelverk (WTO, OECD, EU/EØS, EFTA) og forhandlinger og drøftelser av dette, multilateralt og bilateralt.
+- Nærings- og handelsministeren gis ansvaret for tilrettelegging og utvikling – bilateralt og regionalt – av næringslivssamarbeid og eksportfremme, inklusive avtaler, planer, kommisjoner og delegasjonsbesøk.
 
 Ansvaret for virkemiddelapparatet for Øst-Europa, herunder samarbeidsprogrammet, deles slik at næringsministeren gis ansvaret for næringsspørsmålene og utenriksministeren for de øvrige delene. Utenriksministeren gis videre ansvaret for eksport- og importkontrollspørsmål.
 
@@ -52,7 +68,24 @@ Når det gjelder den ansvarsfordelingen mellom nærings- og handelsministeren og
 
 ### 2.2 Nærmere beskrivelse av Nærings- og handelsdepartementets arbeidsområde
 
-Viktige ansvarsområder for Nærings- og handelsdepartementet vil være:næringsjuridiske spørsmål, blant annet ervervssaker og andre saker vedrørende næringslovgivningen og sjøfartindustri-, forsynings- og skipsfartsberedskapnærings- og handelspolitiske spørsmål, bl.a. utrednings- og modellarbeid, struktur- og bransjeanalyser og analyser og vurderinger av miljøtiltakspørsmål om næringslivsfinansiering, inkludert Statens nærings- og distrikstutviklingsfond, Norsk Vekst, Eksportfinans og GIEKgarantier ved investeringer i og eksport til utviklingslandnæringspolitiske saker i forhold til EU, EØS/ESA, WTO og OECD, inkludert spørsmål vedrørende offentlig støtte, standardisering og gjensidig godkjenningbilateralt næringssamarbeid med andre land, herunder avtaler for fremme av økonomisk samarbeid, kommisjoner og besøksutvekslinggenerelle spørsmål overfor små og mellomstore bedrifter, og ellers spørsmål og saker overfor enkeltbransjer, spesielt reiseliv, varehandel, bygg- og anlegg, skipsfart og skipsbyggingsindustrienFoU-spørsmål knyttet til næringsområdet, inkludert bevilgninger til Norges forskningsråd, skipsforskning, Norsk Romsenter og offentlige forsknings- og utviklingskontrakterskipsfartspolitiske spørsmål, herunder Nortraship, Sjømannsfond og Rådet for arbeidstilsynet på skipoffentlige innkjøp, inkludert oppfølgingen av EØS-samarbeidet og WTO-avtalen på dette feltveiledningstjenesten, inkludert Teknologisk Institutt og Veiledningsinstituttet i Nord-Norgede internasjonale aspektene ved den næringspolitiske strategi, eksportfremmende tiltak, bl.a. bevilgninger til Norges eksportråd, NORTRA og Norges Industriattachéer (NIA)næringsutviklingstiltak overfor utsatte regioner nasjonalt og Øst-Europa (Baltikum og Nordvest-Russland)etatsstyreransvar for Patentstyret, Justervesenet, Statens veiledningskontor for oppfinnere, Norges geologiske undersøkelse, Bergvesenet, Bergmesteren for Svalbard, Sjøfartsdirektoratet med Skipskontrollen og Skipsregistreneoppfølgingen av statens eierinteresser i aksjeselskaper som er underlagt departementet.
+Viktige ansvarsområder for Nærings- og handelsdepartementet vil være:
+
+- næringsjuridiske spørsmål, blant annet ervervssaker og andre saker vedrørende næringslovgivningen og sjøfart
+- industri-, forsynings- og skipsfartsberedskap
+- nærings- og handelspolitiske spørsmål, bl.a. utrednings- og modellarbeid, struktur- og bransjeanalyser og analyser og vurderinger av miljøtiltak
+- spørsmål om næringslivsfinansiering, inkludert Statens nærings- og distrikstutviklingsfond, Norsk Vekst, Eksportfinans og GIEK
+- garantier ved investeringer i og eksport til utviklingsland
+- næringspolitiske saker i forhold til EU, EØS/ESA, WTO og OECD, inkludert spørsmål vedrørende offentlig støtte, standardisering og gjensidig godkjenning
+- bilateralt næringssamarbeid med andre land, herunder avtaler for fremme av økonomisk samarbeid, kommisjoner og besøksutveksling
+- generelle spørsmål overfor små og mellomstore bedrifter, og ellers spørsmål og saker overfor enkeltbransjer, spesielt reiseliv, varehandel, bygg- og anlegg, skipsfart og skipsbyggingsindustrien
+- FoU-spørsmål knyttet til næringsområdet, inkludert bevilgninger til Norges forskningsråd, skipsforskning, Norsk Romsenter og offentlige forsknings- og utviklingskontrakter
+- skipsfartspolitiske spørsmål, herunder Nortraship, Sjømannsfond og Rådet for arbeidstilsynet på skip
+- offentlige innkjøp, inkludert oppfølgingen av EØS-samarbeidet og WTO-avtalen på dette felt
+- veiledningstjenesten, inkludert Teknologisk Institutt og Veiledningsinstituttet i Nord-Norge
+- de internasjonale aspektene ved den næringspolitiske strategi, eksportfremmende tiltak, bl.a. bevilgninger til Norges eksportråd, NORTRA og Norges Industriattachéer (NIA)
+- næringsutviklingstiltak overfor utsatte regioner nasjonalt og Øst-Europa (Baltikum og Nordvest-Russland)
+- etatsstyreransvar for Patentstyret, Justervesenet, Statens veiledningskontor for oppfinnere, Norges geologiske undersøkelse, Bergvesenet, Bergmesteren for Svalbard, Sjøfartsdirektoratet med Skipskontrollen og Skipsregistrene
+- oppfølgingen av statens eierinteresser i aksjeselskaper som er underlagt departementet.
 
 ### 2.3 Organisasjon
 
@@ -70,7 +103,12 @@ Næringsavdelingen, Forskningsavdelingen og deler av Administrativ og juridisk a
 
 ### 2.3.3 Ny intern organisering
 
-Nærings- og handelsdepartementet organiseres ved opprettelsen i 4 avdelinger:Administrativ- og juridisk avdelingNæringsavdelingenForskningsavdelingenAvdeling for internasjonalisering og skipsfart
+Nærings- og handelsdepartementet organiseres ved opprettelsen i 4 avdelinger:
+
+- Administrativ- og juridisk avdeling
+- Næringsavdelingen
+- Forskningsavdelingen
+- Avdeling for internasjonalisering og skipsfart
 
 ## 3. Nytt Olje- og energidepartement (OED)
 
@@ -78,7 +116,19 @@ Olje- og energidepartementet overtar de arbeidsområdene fra Nærings- og energi
 
 ### 3.1 Nærmere beskrivelse av Olje- og energidepartementets arbeidsområde
 
-Viktige ansvarsområder for det nye departementet vil være:energi-, vassdrags- og petroleumslovgivningen, økonomiske og organisatoriske spørsmål knyttet til produksjon, omsetning og overføring av kraftenergiøkonomisering, energieffektivisering, fornybare energikilder og miljøspørsmål innenfor petroleums- og energisektorenkonsesjonsbehandling, vannkraftutbygginger, vassdragsreguleringer og andre tiltak i vassdrag, kraftledninger og andre elektriske anleggkonsesjonsbehandling, tildeling av utvinningstillatelser, utbygging, drift av olje- og gassfelt, transportspørsmål, markedsspørsmål og disponeringsspørsmålnorsk industris engasjement i petroleumsvirksomheten, herunder internasjonalisering av industri knyttet til olje- og gassvirksomhetensamfunnsøkonomiske spørsmål knyttet til energisektoren, kraftsystemet og petroleumssektorenenergispørsmål og koordinering av internasjonalt energisamarbeid innenfor Norden, IEA, ECE, OPEC, NATO, EU og EØS, annet multi- og bilateralt samarbeid, samt traktatsforhandlinger m.m.forskning innenfor energi- og petroleumssektorenetatsstyringsansvar for Oljedirektoratet og Norges vassdrags- og energiverkeieroppfølging av Statoil, Statens direkte økonomiske engasjement i petroleumsvirksomheten, Statnett SF og Statkraft SFolje- og kraftforsyningsberedskap.
+Viktige ansvarsområder for det nye departementet vil være:
+
+- energi-, vassdrags- og petroleumslovgivningen, økonomiske og organisatoriske spørsmål knyttet til produksjon, omsetning og overføring av kraft
+- energiøkonomisering, energieffektivisering, fornybare energikilder og miljøspørsmål innenfor petroleums- og energisektoren
+- konsesjonsbehandling, vannkraftutbygginger, vassdragsreguleringer og andre tiltak i vassdrag, kraftledninger og andre elektriske anlegg
+- konsesjonsbehandling, tildeling av utvinningstillatelser, utbygging, drift av olje- og gassfelt, transportspørsmål, markedsspørsmål og disponeringsspørsmål
+- norsk industris engasjement i petroleumsvirksomheten, herunder internasjonalisering av industri knyttet til olje- og gassvirksomheten
+- samfunnsøkonomiske spørsmål knyttet til energisektoren, kraftsystemet og petroleumssektoren
+- energispørsmål og koordinering av internasjonalt energisamarbeid innenfor Norden, IEA, ECE, OPEC, NATO, EU og EØS, annet multi- og bilateralt samarbeid, samt traktatsforhandlinger m.m.
+- forskning innenfor energi- og petroleumssektoren
+- etatsstyringsansvar for Oljedirektoratet og Norges vassdrags- og energiverk
+- eieroppfølging av Statoil, Statens direkte økonomiske engasjement i petroleumsvirksomheten, Statnett SF og Statkraft SF
+- olje- og kraftforsyningsberedskap.
 
 ### 3.2 Organisasjon
 
@@ -88,7 +138,11 @@ Energi- og vassdragsavdelingen, Olje- og gassavdelingen og deler av Administrati
 
 ### 3.2.2 Ny intern organisering
 
-Olje- og energidepartementet organiseres ved opprettelsen i 3 avdelinger:Administrasjons- og økonomiavdelingen.Energi- og vassdragsavdelingen.Olje- og gassavdelingen.
+Olje- og energidepartementet organiseres ved opprettelsen i 3 avdelinger:
+
+- Administrasjons- og økonomiavdelingen.
+- Energi- og vassdragsavdelingen.
+- Olje- og gassavdelingen.
 
 Energi- og vassdragsavdelingen vil ha ansvaret for arbeidet med landbasert energiproduksjon, vassdragsforvaltning og energibruk. Olje- og gassavdelingen vil ha ansvaret for saker som angår olje- og gassvirksomheten på norsk kontinentalsokkel.
 

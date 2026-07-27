@@ -15,7 +15,7 @@ xml_hash: "18468fc487eb83edfff7c2ee9865f0ff7b6a111a08f97e31c24ca9cde9c7ecb9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,12 @@ Forskriften gjelder også radioaktivt avfall jf. [§ 2](forskrift/2010-11-01-139
 
 ## § 2. Definisjoner
 
-I denne forskriften menes med*radioaktivt stoff:* stoff som sender ut alfa-, beta- eller gammastråling,*radioaktiv forurensning:* stråling fra radioaktive stoffer som er eller kan være til skade eller ulempe for miljøet. Dette omfatter også stråling fra naturlig forekommende radioaktive stoffer når menneskelig aktivitet fører til økt stråleeksponering av mennesker eller miljø,*radioaktivt avfall:* løsøregjenstander eller stoffer som regnes som avfall etter [forurensingsloven § 27](lov/1981-03-13-6/§27) første ledd, og inneholder eller er forurenset med radioaktive stoffer med spesifikk aktivitet som er større eller lik verdiene angitt i vedlegg I bokstav a,*deponeringspliktig radioaktivt avfall:* radioaktivt avfall med større eller lik verdier for total aktivitet og spesifikk aktivitet enn angitt i vedlegg I bokstav b.
+I denne forskriften menes med
+
+1. *radioaktivt stoff:* stoff som sender ut alfa-, beta- eller gammastråling,
+2. *radioaktiv forurensning:* stråling fra radioaktive stoffer som er eller kan være til skade eller ulempe for miljøet. Dette omfatter også stråling fra naturlig forekommende radioaktive stoffer når menneskelig aktivitet fører til økt stråleeksponering av mennesker eller miljø,
+3. *radioaktivt avfall:* løsøregjenstander eller stoffer som regnes som avfall etter [forurensingsloven § 27](lov/1981-03-13-6/§27) første ledd, og inneholder eller er forurenset med radioaktive stoffer med spesifikk aktivitet som er større eller lik verdiene angitt i vedlegg I bokstav a,
+4. *deponeringspliktig radioaktivt avfall:* radioaktivt avfall med større eller lik verdier for total aktivitet og spesifikk aktivitet enn angitt i vedlegg I bokstav b.
 
 Direktoratet for strålevern og atomsikkerhet bestemmer i tvilstilfeller hva som anses som radioaktivt avfall, herunder deponeringspliktig radioaktivt avfall.
 
@@ -90,7 +95,9 @@ Vedlegg 1 bokstav a fastsetter nedre grenser for hva som er radioaktivt avfall. 
 
 Verdiene i tabellen nedenfor viser spesifikk aktivitet (Bq/g) for radioaktivt avfall. Avfall med spesifikk aktivitet større eller lik verdiene i tabellen skal regnes som radioaktivt avfall.
 
-Dersom avfallet inneholder ulike radionuklider, er avfallet å betrakte som radioaktivt dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, er større eller lik 1: $$\\sum\\limits_k \\frac{C_k}{C_{e,k}} \\ge 1$$
+Dersom avfallet inneholder ulike radionuklider, er avfallet å betrakte som radioaktivt dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, er større eller lik 1:
+
+$$\\sum\\limits_k \\frac{C_k}{C_{e,k}} \\ge 1$$
 
 der
 
@@ -403,7 +410,9 @@ a Radionuklider i likevekt med datterprodukter som nevnt i tabell etter vedlegg 
 
 *b) Total aktivitet og spesifikk aktivitet for deponeringspliktig radioaktivt avfall*
 
-Verdiene i tabellen viser spesifikk aktivitet (Bq/g), og den totale aktivitet (Bq) pr. år, for hva som anses som deponeringspliktig avfall, jf. § 2 bokstav d. Deponeringsplikten fordrer at både total aktivitet og spesifikk aktivitet er større eller lik verdiene. Det er virksomhetens forventede, totale avfall i løpet av et år som skal legges til grunn ved virksomhetens vurdering av deponeringsplikten. Dersom avfallet inneholder flere radionuklider, er avfallet deponeringspliktig dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, og summen av forholdet mellom aktivitet for hver radionuklide og den tilsvarende verdien i tabellen er større eller lik 1: $$\\sum\\limits_k \\frac{C_k}{C_{e,k}} \\ge 1 \\quad \\text{og} \\quad \\sum\\limits_k \\frac{A_k}{A_{e,k}} \\ge 1$$
+Verdiene i tabellen viser spesifikk aktivitet (Bq/g), og den totale aktivitet (Bq) pr. år, for hva som anses som deponeringspliktig avfall, jf. § 2 bokstav d. Deponeringsplikten fordrer at både total aktivitet og spesifikk aktivitet er større eller lik verdiene. Det er virksomhetens forventede, totale avfall i løpet av et år som skal legges til grunn ved virksomhetens vurdering av deponeringsplikten. Dersom avfallet inneholder flere radionuklider, er avfallet deponeringspliktig dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, og summen av forholdet mellom aktivitet for hver radionuklide og den tilsvarende verdien i tabellen er større eller lik 1:
+
+$$\\sum\\limits_k \\frac{C_k}{C_{e,k}} \\ge 1 \\quad \\text{og} \\quad \\sum\\limits_k \\frac{A_k}{A_{e,k}} \\ge 1$$
 
 der
 
@@ -722,7 +731,9 @@ a Radionuklider i likevekt med datterprodukter som nevnt i tabell etter vedlegg 
 
 Virksomhet som medfører tilførsel av radioaktive stoffer med en total aktivitet (Bq) pr. år, eller spesifikk aktivitet (Bq/g) som er større eller lik verdiene i dette vedlegget, må alltid ha tillatelse jf. § 4 annet ledd.
 
-Dersom tilførselen består av flere ulike radionuklider, kreves tillatelse dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, eller summen av forholdet mellom aktivitet for hver radionuklide og den tilsvarende grenseverdien, er større eller lik 1: $$\\sum\\limits_k \\frac{C_k}{C_{e,k}} \\ge 1 \\quad \\text{eller} \\quad \\sum\\limits_k \\frac{A_k}{A_{e,k}} \\ge 1$$
+Dersom tilførselen består av flere ulike radionuklider, kreves tillatelse dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, eller summen av forholdet mellom aktivitet for hver radionuklide og den tilsvarende grenseverdien, er større eller lik 1:
+
+$$\\sum\\limits_k \\frac{C_k}{C_{e,k}} \\ge 1 \\quad \\text{eller} \\quad \\sum\\limits_k \\frac{A_k}{A_{e,k}} \\ge 1$$
 
 der
 

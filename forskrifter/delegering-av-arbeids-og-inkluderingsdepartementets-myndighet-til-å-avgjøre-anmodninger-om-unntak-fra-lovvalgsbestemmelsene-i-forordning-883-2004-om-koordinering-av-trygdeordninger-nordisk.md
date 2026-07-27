@@ -24,7 +24,13 @@ eu_basis: []
 
 ## I
 
-Arbeids- og inkluderingsdepartementets myndighet til å avgjøre anmodninger om unntak fra lovvalgsbestemmelsene i de følgende folkerettslige bestemmelsene delegeres til Arbeids- og velferdsdirektoratet:[EØS-avtalen vedlegg VI](avtale/avt-1992-05-02-1-v6) nr. 1 (forordning [(EF) nr. 883/2004](eu/32004r0883) om koordinering av trygdeordninger med de tilpasninger og endringer som til enhver tid fremgår av [folketrygdloven § 1-3a](lov/1997-02-28-19/§1-3a)),[nordisk konvensjon om trygd av 12. juni 2012](traktat/2012-06-12-18),[EFTA-konvensjonen av 4. januar 1960 artikkel 21](traktat/1960-01-04-1/a21) og tillegg 2 til vedlegg K med de endringer som til enhver tid fremgår av [folketrygdloven § 1-3b](lov/1997-02-28-19/§1-3b),[artiklene 29](traktat/2020-01-28-2/a29) til [34](traktat/2020-01-28-2/a34) i [avtale om ordninger mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongerike Storbritannia og Nord-Irland som følge av Det forente kongerikes uttreden fra Den europeiske union, EØS-avtalen og andre avtaler som gjelder mellom Det forente kongerike og EØS/EFTA-statene i kraft av Det forente kongerikes medlemskap i Den europeiske union av 28. januar 2020](traktat/2020-01-28-2), og[EØS-avtalen vedlegg VI kapittel III](avtale/avt-1992-05-02-1-v6/kapIII) (avtale mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere).
+Arbeids- og inkluderingsdepartementets myndighet til å avgjøre anmodninger om unntak fra lovvalgsbestemmelsene i de følgende folkerettslige bestemmelsene delegeres til Arbeids- og velferdsdirektoratet:
+
+1. [EØS-avtalen vedlegg VI](avtale/avt-1992-05-02-1-v6) nr. 1 (forordning [(EF) nr. 883/2004](eu/32004r0883) om koordinering av trygdeordninger med de tilpasninger og endringer som til enhver tid fremgår av [folketrygdloven § 1-3a](lov/1997-02-28-19/§1-3a)),
+2. [nordisk konvensjon om trygd av 12. juni 2012](traktat/2012-06-12-18),
+3. [EFTA-konvensjonen av 4. januar 1960 artikkel 21](traktat/1960-01-04-1/a21) og tillegg 2 til vedlegg K med de endringer som til enhver tid fremgår av [folketrygdloven § 1-3b](lov/1997-02-28-19/§1-3b),
+4. [artiklene 29](traktat/2020-01-28-2/a29) til [34](traktat/2020-01-28-2/a34) i [avtale om ordninger mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongerike Storbritannia og Nord-Irland som følge av Det forente kongerikes uttreden fra Den europeiske union, EØS-avtalen og andre avtaler som gjelder mellom Det forente kongerike og EØS/EFTA-statene i kraft av Det forente kongerikes medlemskap i Den europeiske union av 28. januar 2020](traktat/2020-01-28-2), og
+5. [EØS-avtalen vedlegg VI kapittel III](avtale/avt-1992-05-02-1-v6/kapIII) (avtale mellom EU og EØS/EFTA-statene om trygdekoordinering for britiske borgere).
 
 Arbeids- og velferdsdirektoratet kan delegere myndigheten til underliggende organ.
 

@@ -15,7 +15,7 @@ xml_hash: "ff137df06ff8c5531e75aa7a11bb96fd708f6996b82ff5502b8077dd50805ecf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Lovens formål og virkeområde
 
-(1) Lovens formål er:å legge til rette for valg etter [valgloven](lov/2023-06-16-62) gjennom en offentlig registreringsordning for de politiske partiene,å etablere rammer for partienes finansielle forhold som bidrar til å sikre dem et finansielt grunnlag gjennom offentlige tilskudd og ellers bidra til å øke partienes selvfinansieringsevne og uavhengighet ogå sikre offentlighetens rett til innsyn og å motvirke korrupsjon og uønskede bindinger ved at det er åpenhet om finansieringen av de politiske partienes virksomhet.
+(1) Lovens formål er:
+
+- å legge til rette for valg etter [valgloven](lov/2023-06-16-62) gjennom en offentlig registreringsordning for de politiske partiene,
+- å etablere rammer for partienes finansielle forhold som bidrar til å sikre dem et finansielt grunnlag gjennom offentlige tilskudd og ellers bidra til å øke partienes selvfinansieringsevne og uavhengighet og
+- å sikre offentlighetens rett til innsyn og å motvirke korrupsjon og uønskede bindinger ved at det er åpenhet om finansieringen av de politiske partienes virksomhet.
 
 (2) Kongen kan gi forskrift om lovens anvendelse på Svalbard og kan fastsette særlige regler under hensyn til forholdene der.
 
@@ -48,9 +52,19 @@ eu_basis: []
 
 ### § 3. Vilkår for registrering av partinavn i Partiregisteret
 
-(1) For at et partinavn skal kunne bli registrert i Partiregisteret, må det ikke kunne forveksles med navnet påannet parti registrert i Partiregisteret ellersamepolitisk enhet registrert hos SametingetNår særlige grunner foreligger, kan registreringsmyndigheten også ellers nekte å registrere partinavn.
+(1) For at et partinavn skal kunne bli registrert i Partiregisteret, må det ikke kunne forveksles med navnet på
 
-(2) Sammen med søknaden skal partiet legge ved følgende dokumentasjon:stiftelsesprotokoll for partiet,opplysning om hvem som er valgt til medlemmer i partiets utøvende organ, og som har fullmakt til å representere partiet sentralt i saker etter denne loven,vedtekt som fastsetter hvilket organ i partiet som velger partiets utøvende organ, ogerklæring fra minst 5 000 personer med stemmerett ved stortingsvalg, om at de ønsker partinavnet registrert. Den som avgir erklæring, må ha nådd stemmerettsalderen innen utløpet av det kalenderår søknaden fremsettes. Settes søknaden frem mindre enn ett år før et valg, er det tilstrekkelig at stemmerettsalderen er nådd innen utløpet av valgåret. Av erklæringen skal fremgå navnet, fødselsdatoen og adressen til den som har avgitt den. Erklæringen skal være egenhendig underskrevet og datert av den som har avgitt den. Ingen erklæring skal være mer enn ett år eldre enn søknaden.
+1. annet parti registrert i Partiregisteret eller
+2. samepolitisk enhet registrert hos Sametinget
+
+Når særlige grunner foreligger, kan registreringsmyndigheten også ellers nekte å registrere partinavn.
+
+(2) Sammen med søknaden skal partiet legge ved følgende dokumentasjon:
+
+1. stiftelsesprotokoll for partiet,
+2. opplysning om hvem som er valgt til medlemmer i partiets utøvende organ, og som har fullmakt til å representere partiet sentralt i saker etter denne loven,
+3. vedtekt som fastsetter hvilket organ i partiet som velger partiets utøvende organ, og
+4. erklæring fra minst 5 000 personer med stemmerett ved stortingsvalg, om at de ønsker partinavnet registrert. Den som avgir erklæring, må ha nådd stemmerettsalderen innen utløpet av det kalenderår søknaden fremsettes. Settes søknaden frem mindre enn ett år før et valg, er det tilstrekkelig at stemmerettsalderen er nådd innen utløpet av valgåret. Av erklæringen skal fremgå navnet, fødselsdatoen og adressen til den som har avgitt den. Erklæringen skal være egenhendig underskrevet og datert av den som har avgitt den. Ingen erklæring skal være mer enn ett år eldre enn søknaden.
 
 (3) Søknaden må ha blitt journalført hos registreringsmyndigheten innen 2. januar i valgåret, for at registreringen skal kunne få virkning ved valget.
 
@@ -172,9 +186,19 @@ Det er tillatt for alle å gi bidrag til politiske partier og partiledd med de b
 
 ### § 17 a. Forbud mot bidrag fra enkelte bidragsytere. Særskilte plikter i tilknytning til ulovlige bidrag
 
-(1) Politiske partier og partiledd kan ikke motta bidrag fragivere som er ukjente for partiet (anonyme bidrag)juridiske personer som har som formål eller vesentlig del av sin virksomhet å støtte politiske partier eller partiledd økonomiskprivatpersoner som har mottatt bidrag fra andre for å gi disse til politiske partier eller partiledd.Bidrag som nevnt i bokstav b og c i leddet her kan likevel mottas dersom partiet eller partileddet har mottatt dokumentasjon på hvem giveren har mottatt bidrag fra i forrige kalenderår og i inneværende kalenderår frem til tidspunktet bidraget til partiet eller partileddet ble gitt, og på størrelsen på bidragene.
+(1) Politiske partier og partiledd kan ikke motta bidrag fra
 
-(2) Politiske partier og partiledd kan heller ikke motta bidrag frarettssubjekter under statens eller annen offentlig myndighets kontrollutenlandske givere, det vil si privatpersoner som ikke er norske statsborgere eller som ikke oppfyller vilkårene for å ha stemmerett ved kommunestyre- og fylkestingsvalg, jf. [valgloven § 2-2](lov/2023-06-16-62/§2-2), eller juridiske personer som er registrert i utlandetgivere som nevnt i første ledd første punktum bokstav b og c som har mottatt bidrag fra rettssubjekter som nevnt i bokstav a og b i leddet her.
+1. givere som er ukjente for partiet (anonyme bidrag)
+2. juridiske personer som har som formål eller vesentlig del av sin virksomhet å støtte politiske partier eller partiledd økonomisk
+3. privatpersoner som har mottatt bidrag fra andre for å gi disse til politiske partier eller partiledd.
+
+Bidrag som nevnt i bokstav b og c i leddet her kan likevel mottas dersom partiet eller partileddet har mottatt dokumentasjon på hvem giveren har mottatt bidrag fra i forrige kalenderår og i inneværende kalenderår frem til tidspunktet bidraget til partiet eller partileddet ble gitt, og på størrelsen på bidragene.
+
+(2) Politiske partier og partiledd kan heller ikke motta bidrag fra
+
+1. rettssubjekter under statens eller annen offentlig myndighets kontroll
+2. utenlandske givere, det vil si privatpersoner som ikke er norske statsborgere eller som ikke oppfyller vilkårene for å ha stemmerett ved kommunestyre- og fylkestingsvalg, jf. [valgloven § 2-2](lov/2023-06-16-62/§2-2), eller juridiske personer som er registrert i utlandet
+3. givere som nevnt i første ledd første punktum bokstav b og c som har mottatt bidrag fra rettssubjekter som nevnt i bokstav a og b i leddet her.
 
 (3) Med bidrag menes i denne paragraf enhver form for støtte.
 
@@ -220,7 +244,33 @@ Det er tillatt for alle å gi bidrag til politiske partier og partiledd med de b
 
 (1) Innberetningen skal inneholde en fullstendig oversikt over de inntekter partiet eller partileddet har hatt i løpet av perioden.
 
-(2) Inntektene skal kategoriseres på følgende måte:Offentlig støtte:Statlig støtte etter [kapittel 3](lov/2005-06-17-102/kap3)Kommunal/fylkeskommunal partistøtteAnnen offentlig støtteInntekter av egen virksomhet:KontingentinntekterInntekter fra lotterier, innsamlingsaksjoner og lignendeKapitalinntekterInntekter fra forretningsvirksomhetAndre inntekterBidrag fra andre:PrivatpersonerKommersielle foretakOrganisasjoner i arbeidslivetAndre organisasjoner, foreninger og sammenslutninger, institusjoner, stiftelser og fondAndreInterne overføringer:Overføringer fra andre partiledd
+(2) Inntektene skal kategoriseres på følgende måte:
+
+Offentlig støtte:
+
+1. Statlig støtte etter [kapittel 3](lov/2005-06-17-102/kap3)
+2. Kommunal/fylkeskommunal partistøtte
+3. Annen offentlig støtte
+
+Inntekter av egen virksomhet:
+
+1. Kontingentinntekter
+2. Inntekter fra lotterier, innsamlingsaksjoner og lignende
+3. Kapitalinntekter
+4. Inntekter fra forretningsvirksomhet
+5. Andre inntekter
+
+Bidrag fra andre:
+
+1. Privatpersoner
+2. Kommersielle foretak
+3. Organisasjoner i arbeidslivet
+4. Andre organisasjoner, foreninger og sammenslutninger, institusjoner, stiftelser og fond
+5. Andre
+
+Interne overføringer:
+
+1. Overføringer fra andre partiledd
 
 (3) Med bidrag menes pengebidrag og verdien av varer, tjenester og andre tilsvarende ytelser som er mottatt vederlagsfritt eller til underpris. Ytelse fra privatpersoner som består i ordinært dugnadsarbeid som ikke krever særskilte kvalifikasjoner, eller som ikke er en del av bidragsyters inntektsgrunnlag, regnes ikke som bidrag. Det samme gjelder utlån av lokaler og gjenstander fra privatpersoner som ikke har dette som del av sitt inntektsgrunnlag.
 
@@ -252,7 +302,23 @@ Det er tillatt for alle å gi bidrag til politiske partier og partiledd med de b
 
 (1) Innberetningen skal inneholde en fullstendig oversikt over de kostnader partiet eller partileddet har hatt i løpet av perioden.
 
-(2) Kostnadene skal kategoriseres på følgende måte:Kostnader etter artLønnskostnaderVarekostnaderKostnader til anskaffelse av tjenesterFinanskostnaderKostnader etter aktivitetAdministrasjonskostnaderKostnader i forbindelse med partiaktiviteterValgkampkostnadermarkedsføringstiltakandre kostnader
+(2) Kostnadene skal kategoriseres på følgende måte:
+
+Kostnader etter art
+
+1. Lønnskostnader
+2. Varekostnader
+3. Kostnader til anskaffelse av tjenester
+4. Finanskostnader
+
+Kostnader etter aktivitet
+
+1. Administrasjonskostnader
+2. Kostnader i forbindelse med partiaktiviteter
+3. Valgkampkostnader
+
+   1. markedsføringstiltak
+   2. andre kostnader
 
 (3) Overføringer til andre partiledd skal spesifiseres i note.
 
@@ -324,7 +390,13 @@ Det er tillatt for alle å gi bidrag til politiske partier og partiledd med de b
 
 (1) Partilovnemnda er et uavhengig forvaltningsorgan administrativt underordnet Kongen og departementet. Kongen og departementet kan ikke gi instruks om eller omgjøre Partilovnemndas utøving av myndighet i enkelttilfeller etter loven.
 
-(2) Partilovnemnda gis myndighet til å:tolke reglene i denne loven og i forskrift gitt med hjemmel i lovenkontrollere at finansieringsbestemmelsene i loven overholdesfatte vedtak om bruk av administrative sanksjoner og inndragningavgjøre klager over vedtak om registrering, jf. [§ 8](lov/2005-06-17-102/§8)avgjøre klager over vedtak om tildeling av statlig støtte, jf. [§ 15](lov/2005-06-17-102/§15)
+(2) Partilovnemnda gis myndighet til å:
+
+1. tolke reglene i denne loven og i forskrift gitt med hjemmel i loven
+2. kontrollere at finansieringsbestemmelsene i loven overholdes
+3. fatte vedtak om bruk av administrative sanksjoner og inndragning
+4. avgjøre klager over vedtak om registrering, jf. [§ 8](lov/2005-06-17-102/§8)
+5. avgjøre klager over vedtak om tildeling av statlig støtte, jf. [§ 15](lov/2005-06-17-102/§15)
 
 (3) Partilovnemnda kan kreve at partiet eller partileddet legger fram all dokumentasjon av betydning for etterlevelse av plikter i kapittel 4 i denne loven som nemnda finner grunnlag for å vurdere særskilt.
 

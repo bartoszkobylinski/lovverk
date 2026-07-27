@@ -50,7 +50,10 @@ Kjøretiden må ikke overstige 9 timer mellom to arbeidsfrie perioder. For arbei
 
 (1) Arbeidstaker skal ha en sammenhengende arbeidsfri periode på 36 timer (24 timer pluss daglig arbeidsfri 12 timer) i løpet av 7 dager.
 
-(2) Arbeidstaker har hvert år krav på 104 arbeidsfrie perioder på 24 timer, inkludert 24 timers periodene som nevnt i første ledd. De arbeidsfrie periodene skal organiseres slik at det inngår:12 arbeidsfrie perioder som omfatter 60 timer (48 timer pluss daglig arbeidsfri 12 timer) og som skal legges til lørdag og søndag.12 arbeidsfrie perioder som omfatter 60 timer (48 timer pluss daglig arbeidsfri 12 timer) men som ikke gir krav på fri lørdag og søndag.
+(2) Arbeidstaker har hvert år krav på 104 arbeidsfrie perioder på 24 timer, inkludert 24 timers periodene som nevnt i første ledd. De arbeidsfrie periodene skal organiseres slik at det inngår:
+
+1. 12 arbeidsfrie perioder som omfatter 60 timer (48 timer pluss daglig arbeidsfri 12 timer) og som skal legges til lørdag og søndag.
+2. 12 arbeidsfrie perioder som omfatter 60 timer (48 timer pluss daglig arbeidsfri 12 timer) men som ikke gir krav på fri lørdag og søndag.
 
 ## § 6. Pauser
 

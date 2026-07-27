@@ -15,7 +15,7 @@ xml_hash: "8b17a5f76fe00414bd7835e4b6ae87395841f5573b48a56662d753a8084bd9b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,12 @@ Ordningen gjelder imidlertid kun veldedige og allmennyttige organisasjoner som h
 
 Eksempler på organisasjoner som vil falle innenfor ordningen: Humanitære og religiøse organisasjoner og foreninger, idrettslag – herunder bedriftsidrettslag, samt kor og musikkorps.
 
-Eksempler på organisasjoner som vil falle utenfor ordningen:Nærings-, yrkes- og arbeidslivsorganisasjoner, fagforeninger og politiske partier og partitilknyttede organisasjoner som driver politisk virksomhet.Foreninger som ivaretar medlemmenes økonomiske og faglige fellesinteresser (interesseorganisasjoner).Yrkesorganisasjoner og student- og elevorganisasjoner som utfører samme type oppgave som en yrkesorganisasjon.Borettslag og andre sammenslutninger med så snever medlemskrets at virksomheten bare kommer en sterkt avgrenset gruppe til gode.
+Eksempler på organisasjoner som vil falle utenfor ordningen:
+
+- Nærings-, yrkes- og arbeidslivsorganisasjoner, fagforeninger og politiske partier og partitilknyttede organisasjoner som driver politisk virksomhet.
+- Foreninger som ivaretar medlemmenes økonomiske og faglige fellesinteresser (interesseorganisasjoner).
+- Yrkesorganisasjoner og student- og elevorganisasjoner som utfører samme type oppgave som en yrkesorganisasjon.
+- Borettslag og andre sammenslutninger med så snever medlemskrets at virksomheten bare kommer en sterkt avgrenset gruppe til gode.
 
 Det er kun den veldedige og allmennyttige delen av organisasjonens virksomhet som omfattes av refusjonsordningen. For eksempel vil ikke drift av skoler, sykehjem eller behandlingshjem anses som en del av denne virksomheten.
 
@@ -48,7 +53,12 @@ Det er kun den veldedige og allmennyttige delen av organisasjonens virksomhet so
 
 Refusjonsordningen gjelder merutgifter som følge av Merverdiavgiftsreformen 2001. Med merutgifter menes merverdiavgift på tjenester som ble merverdi avgiftsbelagt som følge av Merverdiavgiftsreformen 2001, eksempelvis porto, regnskapstjenester og advokattjenester.
 
-Refusjonsordningen omfatter ikke merverdiavgift knyttet til:Anskaffelser som var merverdiavgiftsbelagt før reformen, for eksempel utgifter til kontorutstyr, telefon- og strømabonnement og annonser.Anskaffelser til en merverdiavgiftspliktig del av virksomheten i organisasjonen, dersom den inngående avgiften er fradragsberettiget. Det samme gjelder ved såkalte fellesanskaffelser, det vil si anskaffelser til bruk i både en merverdiavgiftspliktig del av virksomheten og i den delen av virksomheten som ikke er merverdiavgiftspliktig.Økte utgifter som følge av justeringen av merverdiavgiftssatsen fra 23 prosent til 24 prosent fra 1. januar 2001.Anskaffelser som omfattes av andre offentlige tilskudds- eller kompensasjonsordninger mv.
+Refusjonsordningen omfatter ikke merverdiavgift knyttet til:
+
+- Anskaffelser som var merverdiavgiftsbelagt før reformen, for eksempel utgifter til kontorutstyr, telefon- og strømabonnement og annonser.
+- Anskaffelser til en merverdiavgiftspliktig del av virksomheten i organisasjonen, dersom den inngående avgiften er fradragsberettiget. Det samme gjelder ved såkalte fellesanskaffelser, det vil si anskaffelser til bruk i både en merverdiavgiftspliktig del av virksomheten og i den delen av virksomheten som ikke er merverdiavgiftspliktig.
+- Økte utgifter som følge av justeringen av merverdiavgiftssatsen fra 23 prosent til 24 prosent fra 1. januar 2001.
+- Anskaffelser som omfattes av andre offentlige tilskudds- eller kompensasjonsordninger mv.
 
 *3-2 Minstegrense*
 
@@ -76,13 +86,25 @@ Kompensasjonsordningen skal kunngjøres årlig i god tid før søknadsfristens u
 
 *6-1 Søknad om refusjon*
 
-Søknaden skal:Fremmes av organisasjonens sentrale ledd.Skrives på søknadsskjema som fås ved henvendelse til Hedmark fylkes skattekontor eller som kan lastes ned fra nettstedet *http://www.skatteetaten.no*.Inneholde bekreftelse på at søker har gjort seg kjent med retningslinjene for refusjonsordningen.Underskrives av en person som har fullmakt til å fremsette søknad på vegne av søker og sendes skriftlig til Hedmark fylkesskattekontor.Vedlegges særrapport fra revisor, jf. punkt 6-2.
+Søknaden skal:
+
+- Fremmes av organisasjonens sentrale ledd.
+- Skrives på søknadsskjema som fås ved henvendelse til Hedmark fylkes skattekontor eller som kan lastes ned fra nettstedet *http://www.skatteetaten.no*.
+- Inneholde bekreftelse på at søker har gjort seg kjent med retningslinjene for refusjonsordningen.
+- Underskrives av en person som har fullmakt til å fremsette søknad på vegne av søker og sendes skriftlig til Hedmark fylkesskattekontor.
+- Vedlegges særrapport fra revisor, jf. punkt 6-2.
 
 *6-2 Krav om særrapport fra revisor*
 
 Søknader som overstiger kr 25.000 skal vedlegges særrapport fra registrert eller statsautorisert revisor. Særrapporten avgis, på eget skjema som vedlegg til søknadsskjemaet, jf. punkt 6-1. Revisors uttalelse skal baseres på revisjonsstandard RS 800 Revisors uttalelser ved revisjonsoppdrag med spesielle formål.
 
-I særrapporten skal det bekreftes at:Organisasjonen omfattes av refusjonsordningen, jf. punkt 2.Refusjonskravet utgjør merutgifter som følge av merverdiavgiftsreformen, jf. punkt 3-1.Beløpet ikke er fradragsført som inngående merverdiavgift i en eventuelt avgiftspliktig del av organisasjonens virksomhet, jf. punkt 3-1.Anskaffelsen gjelder den veldedige og allmennyttige delen av organisasjonens virksomhet, jf. punkt 2 siste ledd.Opplysningene er kontrollert i samsvar med god revisjonsskikk.
+I særrapporten skal det bekreftes at:
+
+- Organisasjonen omfattes av refusjonsordningen, jf. punkt 2.
+- Refusjonskravet utgjør merutgifter som følge av merverdiavgiftsreformen, jf. punkt 3-1.
+- Beløpet ikke er fradragsført som inngående merverdiavgift i en eventuelt avgiftspliktig del av organisasjonens virksomhet, jf. punkt 3-1.
+- Anskaffelsen gjelder den veldedige og allmennyttige delen av organisasjonens virksomhet, jf. punkt 2 siste ledd.
+- Opplysningene er kontrollert i samsvar med god revisjonsskikk.
 
 Fylkesskattekontoret kan, dersom de anser det nødvendig i det konkrete tilfellet, stille krav om særrapport fra revisor uavhengig av refusjonskravets størrelse.
 
@@ -94,7 +116,13 @@ Søknader som er innkommet etter fristen kan ikke påregnes behandlet. Det samme
 
 *6-4 Brev om foreløpig tilsagn*
 
-Brev om foreløpig tilsagn skal sendes hver enkelt søker som har fått søknaden innvilget. Brevet utformes i henhold til bestemmelsene i «Funksjonelle krav til økonomiforvaltningen i staten» punkt 11-3.4 og må inneholde:Mottakers navn, adresse, bankkontonummer og organisasjonsnummer.Den totale bevilgningen for året, foreløpig beregnet refusjonsbeløp og prosentvis dekning av refusjonskravet.Forbehold om at refusjonsbeløpet vil kunne avkortes ytterligere dersom summen av refusjonsberettigede krav øker på bakgrunn av klagebehandingen.At refusjonen vil bli utbetalt så snart alle søknader er ferdigbehandlet.Henvisning til Finansdepartementets retningslinjer av 9. juli 2002 nr. 829, som skal vedlegges brevet om foreløpig tilsagn.
+Brev om foreløpig tilsagn skal sendes hver enkelt søker som har fått søknaden innvilget. Brevet utformes i henhold til bestemmelsene i «Funksjonelle krav til økonomiforvaltningen i staten» punkt 11-3.4 og må inneholde:
+
+- Mottakers navn, adresse, bankkontonummer og organisasjonsnummer.
+- Den totale bevilgningen for året, foreløpig beregnet refusjonsbeløp og prosentvis dekning av refusjonskravet.
+- Forbehold om at refusjonsbeløpet vil kunne avkortes ytterligere dersom summen av refusjonsberettigede krav øker på bakgrunn av klagebehandingen.
+- At refusjonen vil bli utbetalt så snart alle søknader er ferdigbehandlet.
+- Henvisning til Finansdepartementets retningslinjer av 9. juli 2002 nr. 829, som skal vedlegges brevet om foreløpig tilsagn.
 
 Foreløpig tilsagn skal også inneholde et forbehold om adgang for kontrollmyndigheten og for Riksrevisjonen, til å iverksette kontroll med refusjonsmottaker, jf. Stortingets bevilgningsreglement § 17 og punkt 10-2 nedenfor.
 
@@ -114,7 +142,12 @@ Avslag på søknad om refusjon og beslutning om å avvise vedtaket anses som enk
 
 *6-7 Tilsagnsbrev*
 
-Etter at alle klagene er behandlet, vil fylkesskattekontoret foreta en endelig fordeling av det beløpet som er bevilget til refusjon for søknadsperioden/-året. Et tilsagnsbrev sendes mottakerne av refusjonen, med:Mottakers navn, adresse, bankkontonummer og organisasjonsnummer.Henvisning til det foreløpige tilsagnsbrevet med vedlegg.Det endelige refusjonsbeløpet og prosentvis dekning av refusjonskravet.Tidspunktet for når utbetalingen vil bli foretatt.
+Etter at alle klagene er behandlet, vil fylkesskattekontoret foreta en endelig fordeling av det beløpet som er bevilget til refusjon for søknadsperioden/-året. Et tilsagnsbrev sendes mottakerne av refusjonen, med:
+
+- Mottakers navn, adresse, bankkontonummer og organisasjonsnummer.
+- Henvisning til det foreløpige tilsagnsbrevet med vedlegg.
+- Det endelige refusjonsbeløpet og prosentvis dekning av refusjonskravet.
+- Tidspunktet for når utbetalingen vil bli foretatt.
 
 Tilsagnsbrevet skal også inneholde et forbehold om adgang for kontrollmyndigheten og for Riksrevisjonen, til å iverksette kontroll med refusjonsmottaker, jf. Stortingets bevilgningsreglement § 17 og punkt 10-2 nedenfor.
 
@@ -144,7 +177,11 @@ Det må være etablert metoder og tiltak hos den som forvalter refusjonsordninge
 
 *10-2 Oppfølging og kontroll med søker/refusjonsmottaker*
 
-Underlagsdokumentasjonen for refusjonskravet må av mottaker:oppbevares i 10 år etter søknadsåret,være ordnet på en måte som muliggjør en hurtig gjennomføring av kontroll ogvære betryggende sikret mot ødeleggelse og tyveri.
+Underlagsdokumentasjonen for refusjonskravet må av mottaker:
+
+- oppbevares i 10 år etter søknadsåret,
+- være ordnet på en måte som muliggjør en hurtig gjennomføring av kontroll og
+- være betryggende sikret mot ødeleggelse og tyveri.
 
 Den som har søkt om eller har mottatt refusjon, må ved forespørsel fra kontrollmyndigheten, herunder Riksrevisjonen, gi innsyn i Underlagsdokumentasjonen for refusjonskravet. Denne skal også gi kontrollmyndigheten nødvendig bistand til innsyn og eventuelt stille til disposisjon utstyr og programvare for dette. Dette gjelder også den som eventuelt registrerer og oppbevarer regnskapsmaterialet på vegne av søkeren/refusjonsmottakeren.
 

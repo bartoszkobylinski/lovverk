@@ -26,9 +26,19 @@ eu_basis: []
 
 ### § 1-1. Tilskuddsperioder og søknadsfrister
 
-(1) Tilskuddsperioder etter denne forskrift er:1. november til 31. desember 20201. januar til 28. februar 20211. mars til 30. april 2021.1. mai til 30. juni 2021.
+(1) Tilskuddsperioder etter denne forskrift er:
 
-(2) Søknader om tilskudd skal for den enkelte tilskuddsperiode, jf. første ledd, sendes inn innenfor følgende tidsrom:10. mai til 30. september 202110. mai til 30. september 202110. mai til 30. september 2021.15. juli til 31. oktober 2021.
+1. 1\. november til 31. desember 2020
+2. 1\. januar til 28. februar 2021
+3. 1\. mars til 30. april 2021.
+4. 1\. mai til 30. juni 2021.
+
+(2) Søknader om tilskudd skal for den enkelte tilskuddsperiode, jf. første ledd, sendes inn innenfor følgende tidsrom:
+
+1. 10\. mai til 30. september 2021
+2. 10\. mai til 30. september 2021
+3. 10\. mai til 30. september 2021.
+4. 15\. juli til 31. oktober 2021.
 
 > Endret ved forskrift [27 juni 2021 nr. 2276](forskrift/2021-06-27-2276).
 
@@ -60,7 +70,11 @@ eu_basis: []
 
 ### § 2-2. Vilkåret om at foretaket har merkostnader knyttet til innreisekarantene
 
-Med merkostnader menes kostnader i tilskuddsperioden etter [§ 1-1](forskrift/2021-05-01-1367/§1-1) første ledd, ekskludert lønnskostnader til arbeids- eller oppdragstakere i innreisekarantene, som:er knyttet til gjennomføringen av innreisekarantene,går utover kostnader foretaket normalt ville hatt som følge av bruk av utenlandsk eller annen tilreisende arbeidskraft, ogfølger direkte av tilpasninger foretaket har gjort for å overholde innreisekarantenebestemmelsene etter [smittevernloven](lov/1994-08-05-55) eller forskrift med hjemmel i [smittevernloven](lov/1994-08-05-55).
+Med merkostnader menes kostnader i tilskuddsperioden etter [§ 1-1](forskrift/2021-05-01-1367/§1-1) første ledd, ekskludert lønnskostnader til arbeids- eller oppdragstakere i innreisekarantene, som:
+
+1. er knyttet til gjennomføringen av innreisekarantene,
+2. går utover kostnader foretaket normalt ville hatt som følge av bruk av utenlandsk eller annen tilreisende arbeidskraft, og
+3. følger direkte av tilpasninger foretaket har gjort for å overholde innreisekarantenebestemmelsene etter [smittevernloven](lov/1994-08-05-55) eller forskrift med hjemmel i [smittevernloven](lov/1994-08-05-55).
 
 ### § 2-3. Vilkår knyttet til avviklingen av innreisekarantene som foretaket må oppfylle
 
@@ -74,7 +88,14 @@ Med merkostnader menes kostnader i tilskuddsperioden etter [§ 1-1](forskrift/20
 
 ### § 2-4. Vilkår knyttet til arbeids- eller oppdragstakerne det søkes om kompensasjon for
 
-Følgende vilkår må være oppfylt for arbeids- og oppdragstakerne etter [§ 3-1](forskrift/2021-05-01-1367/§3-1) første ledd:De gjeldende registrerings- og rapporteringspliktene etter [A-opplysningsloven](lov/2012-06-22-43) som knytter seg til arbeidstakerne etter [§ 1-3](forskrift/2021-05-01-1367/§1-3) skal være overholdt for tilskuddsperioden. Det tilsvarende gjelder for oppdragstakerne etter [§ 1-3](forskrift/2021-05-01-1367/§1-3). Kravet i dette ledd gjelder ikke arbeidstakere og oppdragstakere på skip hvor vilkårene for tilskudd for øvrig er oppfylt.For oppdragstakere som er å anse som arbeidstaker for et utenlandsk foretak som ikke er registrert i Enhetsregisteret, kreves det at oppdraget og oppdragstakeren skal være meldt inn til Oppdrags- og arbeidsforholdsregisteret under Skatteetaten.Oppdragstakere som er selvstendig næringsdrivende etter [§ 1-3](forskrift/2021-05-01-1367/§1-3) andre ledd annet punktum må være registrert i Enhetsregisteret.Arbeid utført av arbeids- eller oppdragstakerne knyttet til innreisekarantenen det søkes om tilskudd for etter denne forskrift, må ha blitt gjennomført på norsk territorium, på norskregistrert skip, i norsk økonomisk sone, eller på norsk sokkel. For skip som frakter gods eller passasjerer til eller fra Norge, eller skal drive fiske eller fangst utenfor norsk økonomisk sone eller norsk sokkel, er det tilstrekkelig at arbeidet påbegynner i nevnte områder.Arbeids- eller oppdragstaker har vært pålagt innreisekarantene av staten i tilskuddsperioden etter [§ 1-1](forskrift/2021-05-01-1367/§1-1) ifb. covid-19-pandemien, jf. [covid-19-forskriften](forskrift/2020-03-27-470) eller annen forskrift med hjemmel i [smittevernloven](lov/1994-08-05-55).Innreisekarantenen for arbeids- eller oppdragstakerne det søkes om kompensasjon for, skal ha blitt gjennomført i fastlands-Norge.
+Følgende vilkår må være oppfylt for arbeids- og oppdragstakerne etter [§ 3-1](forskrift/2021-05-01-1367/§3-1) første ledd:
+
+1. De gjeldende registrerings- og rapporteringspliktene etter [A-opplysningsloven](lov/2012-06-22-43) som knytter seg til arbeidstakerne etter [§ 1-3](forskrift/2021-05-01-1367/§1-3) skal være overholdt for tilskuddsperioden. Det tilsvarende gjelder for oppdragstakerne etter [§ 1-3](forskrift/2021-05-01-1367/§1-3). Kravet i dette ledd gjelder ikke arbeidstakere og oppdragstakere på skip hvor vilkårene for tilskudd for øvrig er oppfylt.
+2. For oppdragstakere som er å anse som arbeidstaker for et utenlandsk foretak som ikke er registrert i Enhetsregisteret, kreves det at oppdraget og oppdragstakeren skal være meldt inn til Oppdrags- og arbeidsforholdsregisteret under Skatteetaten.
+3. Oppdragstakere som er selvstendig næringsdrivende etter [§ 1-3](forskrift/2021-05-01-1367/§1-3) andre ledd annet punktum må være registrert i Enhetsregisteret.
+4. Arbeid utført av arbeids- eller oppdragstakerne knyttet til innreisekarantenen det søkes om tilskudd for etter denne forskrift, må ha blitt gjennomført på norsk territorium, på norskregistrert skip, i norsk økonomisk sone, eller på norsk sokkel. For skip som frakter gods eller passasjerer til eller fra Norge, eller skal drive fiske eller fangst utenfor norsk økonomisk sone eller norsk sokkel, er det tilstrekkelig at arbeidet påbegynner i nevnte områder.
+5. Arbeids- eller oppdragstaker har vært pålagt innreisekarantene av staten i tilskuddsperioden etter [§ 1-1](forskrift/2021-05-01-1367/§1-1) ifb. covid-19-pandemien, jf. [covid-19-forskriften](forskrift/2020-03-27-470) eller annen forskrift med hjemmel i [smittevernloven](lov/1994-08-05-55).
+6. Innreisekarantenen for arbeids- eller oppdragstakerne det søkes om kompensasjon for, skal ha blitt gjennomført i fastlands-Norge.
 
 ### § 2-5. Lovlig aktivitet
 
@@ -88,7 +109,13 @@ Foretak skal ha de tillatelser, godkjenninger eller bevillinger som kreves for d
 
 ### § 2-7. Ytterligere vilkår
 
-(1) Foretak som søker tilskudd, må oppfylle følgende vilkår:Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 skal være betalt.Skattemelding for formues- og inntektsskatt for 2019 og, dersom foretaket er regnskapspliktig, årsregnskap for 2019, må være levert av foretak som ble etablert i 2019 eller tidligere. Skattemelding for merverdiavgift etter [skatteforvaltningsloven § 8-3](lov/2016-05-27-14/§8-3) med leveringsfrist innen utløpet av tilskuddsperioden, må være levert. Skattemelding levert etter skjønnsfastsetting kan godtas når nytt skatteoppgjør bygger på skattemeldingen.Tilskuddsmottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.Foretaket må kunne dokumentere sin fullstendige eierstruktur, herunder både direkte og indirekte reelle eiere.Person med ledende roller knyttet til foretaket kan ikke være ilagt konkurskarantene, jf. [konkursloven kapittel XVIII](lov/1984-06-08-58/kapxviii).
+(1) Foretak som søker tilskudd, må oppfylle følgende vilkår:
+
+1. Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 skal være betalt.
+2. Skattemelding for formues- og inntektsskatt for 2019 og, dersom foretaket er regnskapspliktig, årsregnskap for 2019, må være levert av foretak som ble etablert i 2019 eller tidligere. Skattemelding for merverdiavgift etter [skatteforvaltningsloven § 8-3](lov/2016-05-27-14/§8-3) med leveringsfrist innen utløpet av tilskuddsperioden, må være levert. Skattemelding levert etter skjønnsfastsetting kan godtas når nytt skatteoppgjør bygger på skattemeldingen.
+3. Tilskuddsmottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.
+4. Foretaket må kunne dokumentere sin fullstendige eierstruktur, herunder både direkte og indirekte reelle eiere.
+5. Person med ledende roller knyttet til foretaket kan ikke være ilagt konkurskarantene, jf. [konkursloven kapittel XVIII](lov/1984-06-08-58/kapxviii).
 
 (2) Med person med ledende roller knyttet til foretaket menes daglig leder, styreleder, styremedlem, innehaver av enkeltpersonforetak, deltakere i ansvarlige selskap, hovedaksjonær eller den som kontrollerer selskapet indirekte selv eller gjennom nærstående som definert i [aksjeloven § 1-5](lov/1997-06-13-44/§1-5) første ledd, eller med annen særskilt tilknytning til virksomheten.
 
@@ -148,9 +175,24 @@ I denne forskriften utgjør et morselskap sammen med ett eller flere datterselsk
 
 ### § 5-2. Innhenting av opplysninger fra offentlige myndigheter og private rettssubjekter
 
-(1) Det skal uten hinder av taushetsplikt gis opplysninger til tilskuddsmyndigheten som er nødvendig for fastsetting av tilskudd etter [lov 21. desember 2020 nr. 175 om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet](lov/2020-12-21-175) og kontrollen av dette, fra følgende offentlige myndigheter:folkeregistermyndigheten, herunder opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningendeltakende myndigheter i a-krimsentrene, herunder opplysninger om tipskommuner og lokale helsemyndigheter, herunder opplysninger om brudd på smittevernregleneSkatteetaten, herunder opplysninger som skattemyndighetene har eller mottar, inkludert opplysninger fra Oppdrags- og arbeidsforholdsregisteretArbeidstilsynet, herunder opplysninger om brudd på smitteverns- og karantenereglerNav, herunder opplysninger fra Aa-registeret for informasjon knyttet til ansatte og opplysninger om aktører med risiko for misbruk av tilskuddsordningenFinanstilsynet, herunder opplysninger om autoriserte regnskapsførere og revisorer med merknader knyttet til bevillingen mv.andre offentlige myndigheter som gir tilskudd til foretak som følge av utbrudd av koronapandemienSjøfartsdirektoratet, herunder opplysninger om fartøys seilingsmønstreandre offentlige myndigheter dersom opplysningene har betydning for forvaltningen av tilskuddsordningen.
+(1) Det skal uten hinder av taushetsplikt gis opplysninger til tilskuddsmyndigheten som er nødvendig for fastsetting av tilskudd etter [lov 21. desember 2020 nr. 175 om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet](lov/2020-12-21-175) og kontrollen av dette, fra følgende offentlige myndigheter:
 
-(2) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende private rettssubjekter til tilskuddsmyndigheten:banker og finansforetak, herunder opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av tilskuddsordningen og andre opplysninger av betydning for forvaltningen av tilskuddsordningenforsikringsselskaper og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikringtilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.
+1. folkeregistermyndigheten, herunder opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningen
+2. deltakende myndigheter i a-krimsentrene, herunder opplysninger om tips
+3. kommuner og lokale helsemyndigheter, herunder opplysninger om brudd på smittevernreglene
+4. Skatteetaten, herunder opplysninger som skattemyndighetene har eller mottar, inkludert opplysninger fra Oppdrags- og arbeidsforholdsregisteret
+5. Arbeidstilsynet, herunder opplysninger om brudd på smitteverns- og karanteneregler
+6. Nav, herunder opplysninger fra Aa-registeret for informasjon knyttet til ansatte og opplysninger om aktører med risiko for misbruk av tilskuddsordningen
+7. Finanstilsynet, herunder opplysninger om autoriserte regnskapsførere og revisorer med merknader knyttet til bevillingen mv.
+8. andre offentlige myndigheter som gir tilskudd til foretak som følge av utbrudd av koronapandemien
+9. Sjøfartsdirektoratet, herunder opplysninger om fartøys seilingsmønstre
+10. andre offentlige myndigheter dersom opplysningene har betydning for forvaltningen av tilskuddsordningen.
+
+(2) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende private rettssubjekter til tilskuddsmyndigheten:
+
+1. banker og finansforetak, herunder opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av tilskuddsordningen og andre opplysninger av betydning for forvaltningen av tilskuddsordningen
+2. forsikringsselskaper og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikring
+3. tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.
 
 (3) Opplysningene skal leveres i den formen og innen den fristen tilskuddsmyndigheten bestemmer.
 
@@ -158,21 +200,48 @@ I denne forskriften utgjør et morselskap sammen med ett eller flere datterselsk
 
 (1) Søknad om tilskudd skal leveres elektronisk i den formen tilskuddsmyndigheten bestemmer. Søknadsfrist er angitt i [§ 1-1](forskrift/2021-05-01-1367/§1-1) andre ledd.
 
-(2) Søker skal blant annet gi følgende opplysninger i søknaden:informasjon om arbeids- og/eller oppdragstakere i innreisekarantene i tilskuddsperioden:Identifiserende opplysninger om den enkelte arbeids- eller oppdragstaker; enten fødsels- og personnummer, d-nummer, eller for utenlandske arbeids- eller oppdragstakere som ikke er registrert med slik identifikasjon, internasjonalt identifikasjonsnummer som er benyttet i A-meldingen, samt fullt navn. For arbeids- eller oppdragstakere på skip, som ikke har identifiserende opplysninger som nevnt i første punktum, benyttes nasjonalt identifikasjonsnummer, samt fullt navn.Start- og sluttdato for innreisekaranteneperioden(e).tilskuddsperioden det søkes for, jf. [§ 1-1](forskrift/2021-05-01-1367/§1-1),adresse til samtlige innkvarteringslokaler der arbeids- eller oppdragstakere har gjennomført innreisekarantene,summen av merkostnader i tilskuddsperioden, jf. [lovens § 5](lov/2020-12-21-175/§5) (1) og forskriftens [§ 2-2](forskrift/2021-05-01-1367/§2-2),søkers bankkontonummer slik det fremgår i bankenes felles Konto- og adresseringsregister,om søker er skattepliktig til Norge,om søker har blitt kontrollert av relevante tilsynsmyndigheter, herunder Arbeidstilsynet, i perioden etter 1. november 2020, og om relevant tilsynsmyndighet har fattet vedtak om brudd som en følge av brudd på gjeldende smittevernregler eller brudd på [arbeidsmiljøloven](lov/2005-06-17-62).
+(2) Søker skal blant annet gi følgende opplysninger i søknaden:
+
+1. informasjon om arbeids- og/eller oppdragstakere i innreisekarantene i tilskuddsperioden:
+
+   1. Identifiserende opplysninger om den enkelte arbeids- eller oppdragstaker; enten fødsels- og personnummer, d-nummer, eller for utenlandske arbeids- eller oppdragstakere som ikke er registrert med slik identifikasjon, internasjonalt identifikasjonsnummer som er benyttet i A-meldingen, samt fullt navn. For arbeids- eller oppdragstakere på skip, som ikke har identifiserende opplysninger som nevnt i første punktum, benyttes nasjonalt identifikasjonsnummer, samt fullt navn.
+   2. Start- og sluttdato for innreisekaranteneperioden(e).
+2. tilskuddsperioden det søkes for, jf. [§ 1-1](forskrift/2021-05-01-1367/§1-1),
+3. adresse til samtlige innkvarteringslokaler der arbeids- eller oppdragstakere har gjennomført innreisekarantene,
+4. summen av merkostnader i tilskuddsperioden, jf. [lovens § 5](lov/2020-12-21-175/§5) (1) og forskriftens [§ 2-2](forskrift/2021-05-01-1367/§2-2),
+5. søkers bankkontonummer slik det fremgår i bankenes felles Konto- og adresseringsregister,
+6. om søker er skattepliktig til Norge,
+7. om søker har blitt kontrollert av relevante tilsynsmyndigheter, herunder Arbeidstilsynet, i perioden etter 1. november 2020, og om relevant tilsynsmyndighet har fattet vedtak om brudd som en følge av brudd på gjeldende smittevernregler eller brudd på [arbeidsmiljøloven](lov/2005-06-17-62).
 
 (3) Søker skal erklære at vedkommende har gjort seg kjent med regelverket og at foretaket faller inn under ordningen, herunder blant annet at summen av merkostnadene som føres opp etter andre ledd bokstav d oppfyller kravene i [§ 2-2](forskrift/2021-05-01-1367/§2-2) og er i tråd med dokumentasjonen etter [§ 5-6](forskrift/2021-05-01-1367/§5-6). Søker skal bekrefte at opplysningene er riktige og at de kan dokumenteres, og at en er kjent med plikten til å varsle tilskuddsmyndighet dersom det i ettertid oppdages feil. Søker skal også bekrefte at vedkommende er kjent med at det kan bli ilagt straff eller administrativ sanksjon dersom det er gitt uriktige eller ufullstendige opplysninger, eller det unnlates å gi pliktige opplysninger.
 
 ### § 5-4. Hvem som kan signere søknaden
 
-Personer i virksomheten registrert med nøkkelrolle i Enhetsregisteret kan signere og sende inn søknad. Med nøkkelrolle menes en av følgende roller:norsk representant eller kontaktperson for utenlandsk enhetstyrets lederkomplementarinnehaverdeltaker med fullt ansvardeltaker med delt ansvardaglig leder eller administrerende direktørbestyrende reder.
+Personer i virksomheten registrert med nøkkelrolle i Enhetsregisteret kan signere og sende inn søknad. Med nøkkelrolle menes en av følgende roller:
+
+1. norsk representant eller kontaktperson for utenlandsk enhet
+2. styrets leder
+3. komplementar
+4. innehaver
+5. deltaker med fullt ansvar
+6. deltaker med delt ansvar
+7. daglig leder eller administrerende direktør
+8. bestyrende reder.
 
 ### § 5-5. Bekreftelse fra revisor eller autorisert regnskapsfører, kostnadsdekning
 
 (1) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger bekrefte at det er utarbeidet dokumentasjon i henhold til [§ 5-6](forskrift/2021-05-01-1367/§5-6).
 
-(2) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger og dokumentasjonen etter [§ 5-6](forskrift/2021-05-01-1367/§5-6) bekrefte følgende opplysninger i søknaden:Opplysningene om merkostnader i tilskuddsperioden (jf. [§ 5-3](forskrift/2021-05-01-1367/§5-3) annet ledd bokstav d, herunder at det kun er oppgitt kostnader i henhold til [§ 2-2](forskrift/2021-05-01-1367/§2-2), jf. [§ 4-1](forskrift/2021-05-01-1367/§4-1) annet og tredje ledd når det gjelder konsern som søker samletOpplysningene om arbeids- eller oppdragstakere (jf. [§ 5-3](forskrift/2021-05-01-1367/§5-3) annet ledd bokstav a.
+(2) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger og dokumentasjonen etter [§ 5-6](forskrift/2021-05-01-1367/§5-6) bekrefte følgende opplysninger i søknaden:
 
-(3) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger og dokumentasjonen etter [§ 5-6](forskrift/2021-05-01-1367/§5-6) bekrefte at følgende vilkår for å motta tilskudd er oppfylt:[Loven § 5](lov/2020-12-21-175/§5) første ledd bokstav c, jf. forskriften [§ 2-1](forskrift/2021-05-01-1367/§2-1) – vilkår om at foretaket har ansatteForskriften [§ 2-4](forskrift/2021-05-01-1367/§2-4) bokstav a første punktum og bokstav b – vilkår knyttet til arbeids- og oppdragstakereForskriften [§ 2-7](forskrift/2021-05-01-1367/§2-7) første ledd bokstav a til d, jf. [§ 4-3](forskrift/2021-05-01-1367/§4-3) første ledd når det gjelder konsern som søker samlet – vilkår om overholdelse av frister for skatt og årsregnskap.
+1. Opplysningene om merkostnader i tilskuddsperioden (jf. [§ 5-3](forskrift/2021-05-01-1367/§5-3) annet ledd bokstav d, herunder at det kun er oppgitt kostnader i henhold til [§ 2-2](forskrift/2021-05-01-1367/§2-2), jf. [§ 4-1](forskrift/2021-05-01-1367/§4-1) annet og tredje ledd når det gjelder konsern som søker samlet
+2. Opplysningene om arbeids- eller oppdragstakere (jf. [§ 5-3](forskrift/2021-05-01-1367/§5-3) annet ledd bokstav a.
+
+(3) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger og dokumentasjonen etter [§ 5-6](forskrift/2021-05-01-1367/§5-6) bekrefte at følgende vilkår for å motta tilskudd er oppfylt:
+
+1. [Loven § 5](lov/2020-12-21-175/§5) første ledd bokstav c, jf. forskriften [§ 2-1](forskrift/2021-05-01-1367/§2-1) – vilkår om at foretaket har ansatte
+2. Forskriften [§ 2-4](forskrift/2021-05-01-1367/§2-4) bokstav a første punktum og bokstav b – vilkår knyttet til arbeids- og oppdragstakere
+3. Forskriften [§ 2-7](forskrift/2021-05-01-1367/§2-7) første ledd bokstav a til d, jf. [§ 4-3](forskrift/2021-05-01-1367/§4-3) første ledd når det gjelder konsern som søker samlet – vilkår om overholdelse av frister for skatt og årsregnskap.
 
 (4) Revisor eller autorisert regnskapsfører skal bekrefte at de ikke har kjennskap til at det er gitt uriktige opplysninger i søknaden.
 
@@ -238,7 +307,11 @@ Søker plikter uten opphold å varsle tilskuddsmyndigheten dersom det oppdages f
 
 ### § 7-1. Foretak på Svalbard som kommer inn under ordningen
 
-(1) Foretaket må være entenselskap som er skattemessig hjemmehørende på Svalbard,enkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbard, elleransvarlig selskap hvor deltakerne er skattemessig hjemmehørende på Svalbard.
+(1) Foretaket må være enten
+
+1. selskap som er skattemessig hjemmehørende på Svalbard,
+2. enkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbard, eller
+3. ansvarlig selskap hvor deltakerne er skattemessig hjemmehørende på Svalbard.
 
 (2) Foretaket må følge norske regler om bokføring, regnskap og revisjon. For foretak etablert i 2019 eller tidligere, må dette også være gjort for regnskapsåret 2019.
 

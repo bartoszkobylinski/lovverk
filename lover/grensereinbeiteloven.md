@@ -15,7 +15,7 @@ xml_hash: "9b14cc8b7c6064f95446e2f772eb60d25a5f583a4425d1f7315d4e26da2727c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,10 @@ Svenske samers reinbeiting i Norge kan bare foregå i de beiteområder som er fa
 
 ### § 2
 
-Beiteområdene kan brukes som beite for svensk rein i følgende tidsrom:I Troms fylke: Fra og med 1 mai til og med 14 september.I Nordland og Trøndelag fylker: Fra og med 1. juli til og med 31. august.
+Beiteområdene kan brukes som beite for svensk rein i følgende tidsrom:
+
+1. I Troms fylke: Fra og med 1 mai til og med 14 september.
+2. I Nordland og Trøndelag fylker: Fra og med 1. juli til og med 31. august.
 
 > Endret ved lov [9 juni 2023 nr. 32](lov/2023-06-09-32) (i kraft 9 juni 2023 iflg. [res. 9 juni 2023 nr. 829](forskrift/2023-06-09-829)).
 
@@ -58,7 +61,10 @@ Beiteområdene må ikke brukes som beite for norsk rein i den tid av året svens
 
 ### § 5
 
-Beiteområdene kan brukes for rein fra følgende samebyer:I Troms fylke: Könkämä, Lainiovuoma, Saarivuoma og Talma.I Nordland og Trøndelag fylker: Rautasvuoma, Kaalasvuoma, Norrkaitum, Mellanbyn, Sörkaitum, Sirkas, Tuorpon, Luokta-Mavas, Semisjaur-Njarg, Svaipa, Gran, Ran, Umbyn, Vapsten, Vilhelmina norra, Vilhelmina södra og Frostvikens norra.
+Beiteområdene kan brukes for rein fra følgende samebyer:
+
+1. I Troms fylke: Könkämä, Lainiovuoma, Saarivuoma og Talma.
+2. I Nordland og Trøndelag fylker: Rautasvuoma, Kaalasvuoma, Norrkaitum, Mellanbyn, Sörkaitum, Sirkas, Tuorpon, Luokta-Mavas, Semisjaur-Njarg, Svaipa, Gran, Ran, Umbyn, Vapsten, Vilhelmina norra, Vilhelmina södra og Frostvikens norra.
 
 > Endret ved lov [9 juni 2023 nr. 32](lov/2023-06-09-32) (i kraft 9 juni 2023 iflg. [res. 9 juni 2023 nr. 829](forskrift/2023-06-09-829)).
 
@@ -80,7 +86,10 @@ Ved reinbeiting i henhold til denne lov må beitene ikke utnyttes på en slik m�
 
 ### § 8
 
-Beiteområdene kan brukesfor rein tilhørende reineiere som er av samisk herkomst eller som er eller har vært gift med eller er adoptivbarn til slik reineier, og som etter svensk lov har rett til reindrift, samtfor rein tilhørende uskiftet dødsbo etter reineiere som nevnt under nr. 1.
+Beiteområdene kan brukes
+
+1. for rein tilhørende reineiere som er av samisk herkomst eller som er eller har vært gift med eller er adoptivbarn til slik reineier, og som etter svensk lov har rett til reindrift, samt
+2. for rein tilhørende uskiftet dødsbo etter reineiere som nevnt under nr. 1.
 
 ### Svenske reineieres opphold i Norge.
 
@@ -94,7 +103,12 @@ Reineier som lar sin rein beite i Norge i henhold til denne lov, og som har rein
 
 Lantbruksnämnden skal senest to måneder før beitetiden begynner sende melding til vedkommende statsforvalter om hvordan beiteområdene i Norge vil bli benyttet.
 
-Melding gis for hver sameby og skal inneholde opplysning omreineiernes navn, fødselsår, bopel, reinantall og reinmerker;de beiteområder som vil bli benyttet;navn og fødselsår for de personer som vil overskride riksgrensen og oppholde seg i Norge i henhold til [§ 9](lov/1972-06-09-31/§9), samttillitsmannens navn og hans oppholdssted i beitetiden.
+Melding gis for hver sameby og skal inneholde opplysning om
+
+1. reineiernes navn, fødselsår, bopel, reinantall og reinmerker;
+2. de beiteområder som vil bli benyttet;
+3. navn og fødselsår for de personer som vil overskride riksgrensen og oppholde seg i Norge i henhold til [§ 9](lov/1972-06-09-31/§9), samt
+4. tillitsmannens navn og hans oppholdssted i beitetiden.
 
 Er det tidligere gitt oppgave over reinmerker, skal meldingen bare inneholde oppgave over nye merker eller endringer i merker.
 
@@ -116,7 +130,11 @@ Hver sameby som utnytter adgangen til reinbeiting i Norge skal ha en tillitsmann
 
 Tillitsmannen skal være bindeledd mellom norske myndigheter og reineierne i spørsmål som oppstår i samband med at rein fra Sverige beiter i Norge. Han skal påse at lovens bestemmelser iakttas ved utøvingen av reindriften. Videre kan han gi reineiere som tilhører hans sameby eller reinbeitedistrikt de pålegg og kreve den medvirkning av dem som er nødvendige for at loven skal etterleves.
 
-Særlig påligger det de svenske tillitsmennå oppholde seg på hensiktsmessig sted i eller i nærheten av beiteområdet når reinbeiting er tillatt i Norge;å iverksette de tiltak som er nødvendige om loven blir overtrådt;å søke å bringe på det rene hvem den rein tilhører som har voldt påstått skade.
+Særlig påligger det de svenske tillitsmenn
+
+1. å oppholde seg på hensiktsmessig sted i eller i nærheten av beiteområdet når reinbeiting er tillatt i Norge;
+2. å iverksette de tiltak som er nødvendige om loven blir overtrådt;
+3. å søke å bringe på det rene hvem den rein tilhører som har voldt påstått skade.
 
 Kongen kan gi forskrifter om tillitsmann med stedfortreder for reinbeitedistrikt som vil kunne berøres av svensk reinbeiting i Norge.
 
@@ -180,7 +198,12 @@ Statsforvalteren kan gjøre unntak fra bestemmelsen i første ledd. Han kan best
 
 ### § 19
 
-Statsforvalteren der reinen er kan gi pålegg om samling og skilling nårtillitsmannen, i strid med denne lov, har unnlatt å iverksette samling eller skilling;tillitsmenn i henhold til [§ 15](lov/1972-06-09-31/§15), annet ledd, er blitt enige om å utsette eller unnlate samling eller skilling, men statsforvalteren finner at dette bør skje uten opphold;det er grunn til å tro at sammenblanding har funnet sted, ellerdet ellers er særlig grunn til det.
+Statsforvalteren der reinen er kan gi pålegg om samling og skilling når
+
+1. tillitsmannen, i strid med denne lov, har unnlatt å iverksette samling eller skilling;
+2. tillitsmenn i henhold til [§ 15](lov/1972-06-09-31/§15), annet ledd, er blitt enige om å utsette eller unnlate samling eller skilling, men statsforvalteren finner at dette bør skje uten opphold;
+3. det er grunn til å tro at sammenblanding har funnet sted, eller
+4. det ellers er særlig grunn til det.
 
 Statsforvalteren fastsetter tid og sted for samlingen og skillingen.
 
@@ -226,7 +249,10 @@ Godtas ikke kravet bør statsforvalteren dersom en av partene anmoder om det, me
 
 Rein som ikke er merket innen utgangen av april året etter den er født (umerket rein), og som er her i riket, behandles i samsvar med norsk lov.
 
-For umerket rein som befinner seg i beiteområder som er fastsatt ved forskrift etter [§ 1](lov/1972-06-09-31/§1) til beitetid som bestemt i [§ 2](lov/1972-06-09-31/§2) for vedkommende område, gjelder likevel følgende:Er sammenblanding av norsk og svensk rein ikke skjedd, skal umerket rein behandles i samsvar med svensk lov, med mindre det er sannsynlig at reinen hører hjemme i Norge.Er norsk og svensk rein sammenblandet, skal umerket rein fordeles i forhold til det antall merket rein som er i den sammenblandede flokken.
+For umerket rein som befinner seg i beiteområder som er fastsatt ved forskrift etter [§ 1](lov/1972-06-09-31/§1) til beitetid som bestemt i [§ 2](lov/1972-06-09-31/§2) for vedkommende område, gjelder likevel følgende:
+
+1. Er sammenblanding av norsk og svensk rein ikke skjedd, skal umerket rein behandles i samsvar med svensk lov, med mindre det er sannsynlig at reinen hører hjemme i Norge.
+2. Er norsk og svensk rein sammenblandet, skal umerket rein fordeles i forhold til det antall merket rein som er i den sammenblandede flokken.
 
 Bestemmelsene i denne paragraf får tilsvarende anvendelse på rein med ødelagt eller ukjent merke.
 
@@ -444,7 +470,12 @@ For hvert reinbeitedistrikt som vil nytte adgangen til reinbeite i Sverige skal 
 
 Reineier som vil nytte adgangen til reinbeiting i Sverige, skal senest tre måneder før beitetiden begynner underrette tillitsmannen om dette.
 
-Senest 10 uker etter fristens utløp sender tillitsmannen melding for reinbeitedistriktet til vedkommende statsforvalter inneholdende opplysninger om:reineierens navn, fødselsår, bopel og reinmerker;det beiteområde som vil bli benyttet;navn og fødselsår for de personer som vil overskride riksgrensen og oppholde seg i Sverige i forbindelse med reindriften, samttillitsmannens navn og hans oppholdssted i beitetiden.
+Senest 10 uker etter fristens utløp sender tillitsmannen melding for reinbeitedistriktet til vedkommende statsforvalter inneholdende opplysninger om:
+
+1. reineierens navn, fødselsår, bopel og reinmerker;
+2. det beiteområde som vil bli benyttet;
+3. navn og fødselsår for de personer som vil overskride riksgrensen og oppholde seg i Sverige i forbindelse med reindriften, samt
+4. tillitsmannens navn og hans oppholdssted i beitetiden.
 
 > Endret ved lover [29 mars 1985 nr. 17](lov/1985-03-29-17), [14 juni 2013 nr. 45](lov/2013-06-14-45) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 646](forskrift/2013-06-14-646)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
@@ -484,7 +515,15 @@ Norsk rein som ulovlig befinner seg i Sverige, må ikke uten lantbruksnämndens 
 
 ### § 54
 
-Med bøter straffes den som forsettlig eller uaktsomt:foretar samling for kalvmerking eller slakting, eller skilling, uten at det er sendt melding som nevnt i [§ 14](lov/1972-06-09-31/§14);fører rein tilbake fra beiteområdene i Norge eller tilstøtende svensk område uten at det er foretatt samling og skilling som bestemt i [§ 17](lov/1972-06-09-31/§17), første ledd, og uten samtykke som bestemt i [§ 17](lov/1972-06-09-31/§17), annet eller tredje ledd;fører rein til Sverige uten at det er foretatt skilling som bestemt i [§ 18](lov/1972-06-09-31/§18), første ledd, og uten at det er gjort unntak som nevnt i [§ 18](lov/1972-06-09-31/§18), tredje ledd;unnlater å etterkomme pålegg gitt av statsforvalteren i medhold av [§ 18](lov/1972-06-09-31/§18), annet ledd, annet punktum eller [§ 19](lov/1972-06-09-31/§19);slakter rein i strid med [§ 24](lov/1972-06-09-31/§24), annet ledd;bruker terrenggående motorkjøretøy utenfor tillatt beitetid uten at det er sendt melding som nevnt i [§ 34](lov/1972-06-09-31/§34), tredje ledd;fører rein tilbake til Norge uten at det er foretatt samling og skilling som bestemt i §§ 52-53, og uten at lantbruksnämnden har samtykket i at skilling unnlates.
+Med bøter straffes den som forsettlig eller uaktsomt:
+
+1. foretar samling for kalvmerking eller slakting, eller skilling, uten at det er sendt melding som nevnt i [§ 14](lov/1972-06-09-31/§14);
+2. fører rein tilbake fra beiteområdene i Norge eller tilstøtende svensk område uten at det er foretatt samling og skilling som bestemt i [§ 17](lov/1972-06-09-31/§17), første ledd, og uten samtykke som bestemt i [§ 17](lov/1972-06-09-31/§17), annet eller tredje ledd;
+3. fører rein til Sverige uten at det er foretatt skilling som bestemt i [§ 18](lov/1972-06-09-31/§18), første ledd, og uten at det er gjort unntak som nevnt i [§ 18](lov/1972-06-09-31/§18), tredje ledd;
+4. unnlater å etterkomme pålegg gitt av statsforvalteren i medhold av [§ 18](lov/1972-06-09-31/§18), annet ledd, annet punktum eller [§ 19](lov/1972-06-09-31/§19);
+5. slakter rein i strid med [§ 24](lov/1972-06-09-31/§24), annet ledd;
+6. bruker terrenggående motorkjøretøy utenfor tillatt beitetid uten at det er sendt melding som nevnt i [§ 34](lov/1972-06-09-31/§34), tredje ledd;
+7. fører rein tilbake til Norge uten at det er foretatt samling og skilling som bestemt i §§ 52-53, og uten at lantbruksnämnden har samtykket i at skilling unnlates.
 
 Straff etter denne bestemmelse kommer ikke til anvendelse dersom forholdet rammes av noen bestemmelser i den alminnelige straffelovgivning.
 
@@ -527,6 +566,9 @@ Kongen kan gi nærmere forskrifter til gjennomføring av loven.
 ### § 61
 
 1. Denne lov trer i kraft fra 1 mai 1972.1
-2. Fra 1. mai 1972 oppheves eller endres følgende lover og lovbestemmelser:Lov av 18. juli 1919 nr. 7 om flyttlappenes adgang til reinbeiting i henhold til konvensjon mellom Norge og Sverige av 5. februar 1919 med endringer av 14. desember 1949. Oppheves.– – –
+2. Fra 1. mai 1972 oppheves eller endres følgende lover og lovbestemmelser:
+
+   1. Lov av 18. juli 1919 nr. 7 om flyttlappenes adgang til reinbeiting i henhold til konvensjon mellom Norge og Sverige av 5. februar 1919 med endringer av 14. desember 1949. Oppheves.
+   2. – – –
 
 1 Se note til lovens tittel.

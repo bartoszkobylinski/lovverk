@@ -92,7 +92,18 @@ Bestemmelsene i [kapittel 1](forskrift/2022-12-21-2468/kap1) gjelder for alle ti
 
 ### § 1-10. Unntak for tilskuddsåret 2025/2026 for reinbeitedistrikt 16 og reinbeitedistrikter som tidligere har vært del av reinbeitedistrikt 16
 
-For tilskuddsåret 2025/2026 kan tilskudd etter [kapittel 2](forskrift/2022-12-21-2468/kap2) og [kapittel 3](forskrift/2022-12-21-2468/kap3) ikke innvilges til følgende reinbeitedistrikt:Reinbeitedistrikt 16,Jáhkenjárga,Láhtin,MarBolon,Máhkarávju,Njeaiddán,Rávdol,Skáiddeduottar,Skuohtanjárga, ogVuorji.
+For tilskuddsåret 2025/2026 kan tilskudd etter [kapittel 2](forskrift/2022-12-21-2468/kap2) og [kapittel 3](forskrift/2022-12-21-2468/kap3) ikke innvilges til følgende reinbeitedistrikt:
+
+1. Reinbeitedistrikt 16,
+2. Jáhkenjárga,
+3. Láhtin,
+4. MarBolon,
+5. Máhkarávju,
+6. Njeaiddán,
+7. Rávdol,
+8. Skáiddeduottar,
+9. Skuohtanjárga, og
+10. Vuorji.
 
 > Tilføyd ved forskrift [8 mai 2026 nr. 768](forskrift/2026-05-08-768). **Oppheves** ved forskrift [8 mai 2026 nr. 768](forskrift/2026-05-08-768) (i kraft 31 mars 2027).
 
@@ -100,7 +111,14 @@ For tilskuddsåret 2025/2026 kan tilskudd etter [kapittel 2](forskrift/2022-12-2
 
 ### § 2-1. Vilkår for distriktstilskudd
 
-Tilskudd kan innvilges reinbeitedistrikter og reinlag etter dette kapittelet dersom:reinbeitedistriktet og reinlaget er i drift,reinbeitedistriktet har vedtatt en distriktsplan, som er oppdatert i løpet av de siste fire årene, og sendt denne til statsforvalteren,reinlaget har vedtatt en reindriftsplan og sendt denne til statsforvalteren,reinbeitedistriktet/reinlaget har vedtatt en beredskapsplan,statsforvalteren har fått oversendt revisorgodkjent regnskap for foregående år,reinbeitedistriktet og reinlaget, som har mottatt tilskudd etter denne forskriften siste driftsår, har rapportert om avsetning og bruk av midler mv. på særskilt rapporteringsskjema fastsatt av Landbruksdirektoratet.
+Tilskudd kan innvilges reinbeitedistrikter og reinlag etter dette kapittelet dersom:
+
+1. reinbeitedistriktet og reinlaget er i drift,
+2. reinbeitedistriktet har vedtatt en distriktsplan, som er oppdatert i løpet av de siste fire årene, og sendt denne til statsforvalteren,
+3. reinlaget har vedtatt en reindriftsplan og sendt denne til statsforvalteren,
+4. reinbeitedistriktet/reinlaget har vedtatt en beredskapsplan,
+5. statsforvalteren har fått oversendt revisorgodkjent regnskap for foregående år,
+6. reinbeitedistriktet og reinlaget, som har mottatt tilskudd etter denne forskriften siste driftsår, har rapportert om avsetning og bruk av midler mv. på særskilt rapporteringsskjema fastsatt av Landbruksdirektoratet.
 
 I særlige tilfeller kan Landbruksdirektoratet dispensere fra vilkåret i bokstav e.
 
@@ -110,7 +128,13 @@ I særlige tilfeller kan Landbruksdirektoratet dispensere fra vilkåret i boksta
 
 Tilskudd til reinbeitedistriktene, herunder Trollheimen, ytes med et fast grunnbeløp på inntil 264 000 kroner per distrikt. Ved sammenslåing av distrikter mottar distriktet de to første årene grunnbeløp for det antall distrikt som er sammenslått.
 
-Tilskuddet utgjørinntil 385 500 kroner til distrikt 17 i Øst-Finnmark reinbeiteområde,inntil 385 500 kroner til fellesbeiteområde distrikt 16 i Øst-Finnmark reinbeiteområde,inntil 457 000 kroner til hvert av distriktene 30A, 30B og 30C i Vest-Finnmark reinbeiteområde,inntil 148 500 kroner til Femund reinbeitedistrikt i Sør-Trøndelag/Hedmark reinbeiteområde, oginntil 251 000 kroner til hvert av reinlagene.
+Tilskuddet utgjør
+
+1. inntil 385 500 kroner til distrikt 17 i Øst-Finnmark reinbeiteområde,
+2. inntil 385 500 kroner til fellesbeiteområde distrikt 16 i Øst-Finnmark reinbeiteområde,
+3. inntil 457 000 kroner til hvert av distriktene 30A, 30B og 30C i Vest-Finnmark reinbeiteområde,
+4. inntil 148 500 kroner til Femund reinbeitedistrikt i Sør-Trøndelag/Hedmark reinbeiteområde, og
+5. inntil 251 000 kroner til hvert av reinlagene.
 
 I tillegg ytes et beløp per siidaandel på inntil 22 500 kroner. Det variable tilskuddet skal kun ytes for det antall siidaandeler som er innvilget produksjonspremie minst et av de tre foregående driftsårene. Det variable tilskuddet gjelder ikke distriktene 16, 17, 30A, 30B, 30C, og Femund.
 
@@ -120,7 +144,14 @@ Distrikter som har vedtatt en siidainndeling gjennom årsmøtevedtak kan fordele
 
 ### § 2-3. Bruk av distriktstilskudd
 
-Tilskudd etter dette kapittelet gir grunnlag for tiltak som er i samsvar med forskriftens formål i [§ 1-1](forskrift/2022-12-21-2468/§1-1) første ledd, herunder:administrasjon og ressursforvaltning,avsetning til beredskapsfond,kjøp av utstyr til krisefôring som framgår av distriktets beredskapsplan,arbeid med helse, miljø og sikkerhet,avløsning ved ferie og fritid,felles investeringer i utstyr som kan bidra til klimatilpasning.
+Tilskudd etter dette kapittelet gir grunnlag for tiltak som er i samsvar med forskriftens formål i [§ 1-1](forskrift/2022-12-21-2468/§1-1) første ledd, herunder:
+
+1. administrasjon og ressursforvaltning,
+2. avsetning til beredskapsfond,
+3. kjøp av utstyr til krisefôring som framgår av distriktets beredskapsplan,
+4. arbeid med helse, miljø og sikkerhet,
+5. avløsning ved ferie og fritid,
+6. felles investeringer i utstyr som kan bidra til klimatilpasning.
 
 > Endret ved forskrifter [20 juni 2024 nr. 1065](forskrift/2024-06-20-1065) (i kraft 1 juli 2024), [22 juni 2026 nr. 1178](forskrift/2026-06-22-1178) (i kraft 1 juli 2026).
 
@@ -158,7 +189,11 @@ Reinbeitedistrikt og reinlag plikter å ha en egen bankkonto for beredskapsfonde
 
 Beredskapsfondet etter [§ 3-1](forskrift/2022-12-21-2468/§3-1) skal dekke kostnader etter [§ 3-3](forskrift/2022-12-21-2468/§3-3) i tilfeller der beredskapsutvalget har fastslått at det foreligger en beitekrise.
 
-Reinbeitedistrikt og reinlag kan vedta å ta i bruk eget beredskapsfond, dersom:distriktsstyret eller reinlaget vurderer at det er beitekrise i hele eller deler av distriktet i henhold til definisjonen i [§ 1-2](forskrift/2022-12-21-2468/§1-2) annet ledd, ogdet er behov for å iverksette tiltak raskt, ogdistriktsstyret eller reinlaget har varslet beredskapsutvalget om at det er nødvendig å foreta befaring i distriktet.
+Reinbeitedistrikt og reinlag kan vedta å ta i bruk eget beredskapsfond, dersom:
+
+1. distriktsstyret eller reinlaget vurderer at det er beitekrise i hele eller deler av distriktet i henhold til definisjonen i [§ 1-2](forskrift/2022-12-21-2468/§1-2) annet ledd, og
+2. det er behov for å iverksette tiltak raskt, og
+3. distriktsstyret eller reinlaget har varslet beredskapsutvalget om at det er nødvendig å foreta befaring i distriktet.
 
 ### § 3-3. Kostnader og satser
 
@@ -180,7 +215,10 @@ Statsforvalteren kan kreve hele eller deler av de brukte midlene tilbakeført ti
 
 ### § 4-1. Vilkår for tilskudd
 
-Ekstraordinært tilskudd til beredskap kan ytes til reinbeitedistrikter og reinlag dersom:beredskapsutvalget har fastslått at det foreligger en beitekrise i det aktuelle reinbeitedistrikt og reinlag, ogdet har gått minst 45 døgn siden beredskapsutvalget har fastslått at det foreligger en beitekrise i reinbeitedistriktet eller reinlaget.
+Ekstraordinært tilskudd til beredskap kan ytes til reinbeitedistrikter og reinlag dersom:
+
+1. beredskapsutvalget har fastslått at det foreligger en beitekrise i det aktuelle reinbeitedistrikt og reinlag, og
+2. det har gått minst 45 døgn siden beredskapsutvalget har fastslått at det foreligger en beitekrise i reinbeitedistriktet eller reinlaget.
 
 Ekstraordinært tilskudd til beredskap ytes ikke til distriktene 16, 17, 30A, 30B, 30C, og Femund.
 

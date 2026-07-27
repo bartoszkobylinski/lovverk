@@ -15,7 +15,7 @@ xml_hash: "100ddfc902456b3f9725fe75234c0cc03dfc39d73fa8e16188321050c93c6983"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,12 @@ Som arbeidsulykke regnes en plutselig ytre hending som medlemmet har vært utsat
 
 [§ 13-4 andre ledd](lov/1997-02-28-19/§13-4/ledd/2) skal lyde:
 
-Sykdom som angitt i forskriftene skal godkjennes som yrkesskade, med mindre Arbeids- og velferdsetaten sannsynliggjør atsykdomsbildet ikke er karakteristisk og i samsvar med det som den aktuelle påvirkningen kan framkalle,vedkommende i tid og konsentrasjon ikke har vært utsatt for den aktuelle påvirkningen i en slik grad at det er en rimelig sammenheng mellom påvirkningen og det aktuelle sykdomsbildet,symptomene ikke har oppstått i rimelig tid etter påvirkningen, ellerdet er mer sannsynlig at en annen sykdom eller påvirkning er årsak til symptomene.
+Sykdom som angitt i forskriftene skal godkjennes som yrkesskade, med mindre Arbeids- og velferdsetaten sannsynliggjør at
+
+1. sykdomsbildet ikke er karakteristisk og i samsvar med det som den aktuelle påvirkningen kan framkalle,
+2. vedkommende i tid og konsentrasjon ikke har vært utsatt for den aktuelle påvirkningen i en slik grad at det er en rimelig sammenheng mellom påvirkningen og det aktuelle sykdomsbildet,
+3. symptomene ikke har oppstått i rimelig tid etter påvirkningen, eller
+4. det er mer sannsynlig at en annen sykdom eller påvirkning er årsak til symptomene.
 
 ## II
 

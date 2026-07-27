@@ -15,7 +15,7 @@ xml_hash: "25b8c61d09c4e8511645f4acb7d053c8c834b00bcca9b4345bb3302609ebe3c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,18 @@ Forskriften omfatter alle ledd i produksjonskjeden, fra og med fangst og oppdret
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*Buktært fisk*: fisk hvor nedbrytingsaktivitet i mage/tarm har pågått så lenge etter død/avliving at fiskemuskel/-filet er blitt skadet,*Fisk*: enhver art av fisk, krepsdyr, bløtdyr og pigghuder eller deler av disse,*Fiskevarer*: produkter som hovedsakelig består av fisk,*Fullsaltet fisk*: fisk som etter salteprosessen er saltmettet, dvs. at vannfasen i muskelen er mettet med salt (26,4 g salt/100 g vannfase),*Klippfisk*: saltfisk som er tørket,*Krepsdyr*: krabbe, kreps, reker, hummer og andre akvatiske dyr som tilhører underrekken *Crustacea*,*Saltfilet*: fullsaltet fisk av arter omtalt i [§ 20](forskrift/2013-06-28-844/§20) hvor fiskesidene er fraskåret ryggbeinet, og hvor finner med bein er fjernet,*Saltfisk*: fullsaltet fisk av arter omtalt i [§ 20](forskrift/2013-06-28-844/§20) som er blodtømt, sløyd, hodekappet, vasket og flekket (slik at ca. to tredjedeler av ryggbeinet er fjernet),*Selvdød fisk*: fisk som er død i sjø eller i ferskvann, men ikke fisk som dør som direkte konsekvens av fangstmetoden,*Tørrfisk*: fisk (rund, rotskjær eller filet) av arter omtalt i [§ 25](forskrift/2013-06-28-844/§25) som er framstilt ved naturtørking eller industriell tørking, uten tilsetning av salt eller andre tilsetningsstoffer.
+I denne forskriften menes med:
+
+1. *Buktært fisk*: fisk hvor nedbrytingsaktivitet i mage/tarm har pågått så lenge etter død/avliving at fiskemuskel/-filet er blitt skadet,
+2. *Fisk*: enhver art av fisk, krepsdyr, bløtdyr og pigghuder eller deler av disse,
+3. *Fiskevarer*: produkter som hovedsakelig består av fisk,
+4. *Fullsaltet fisk*: fisk som etter salteprosessen er saltmettet, dvs. at vannfasen i muskelen er mettet med salt (26,4 g salt/100 g vannfase),
+5. *Klippfisk*: saltfisk som er tørket,
+6. *Krepsdyr*: krabbe, kreps, reker, hummer og andre akvatiske dyr som tilhører underrekken *Crustacea*,
+7. *Saltfilet*: fullsaltet fisk av arter omtalt i [§ 20](forskrift/2013-06-28-844/§20) hvor fiskesidene er fraskåret ryggbeinet, og hvor finner med bein er fjernet,
+8. *Saltfisk*: fullsaltet fisk av arter omtalt i [§ 20](forskrift/2013-06-28-844/§20) som er blodtømt, sløyd, hodekappet, vasket og flekket (slik at ca. to tredjedeler av ryggbeinet er fjernet),
+9. *Selvdød fisk*: fisk som er død i sjø eller i ferskvann, men ikke fisk som dør som direkte konsekvens av fangstmetoden,
+10. *Tørrfisk*: fisk (rund, rotskjær eller filet) av arter omtalt i [§ 25](forskrift/2013-06-28-844/§25) som er framstilt ved naturtørking eller industriell tørking, uten tilsetning av salt eller andre tilsetningsstoffer.
 
 > Endret ved [forskrift 6 okt 2017 nr. 1630](forskrift/2017-10-06-1630).
 
@@ -70,7 +81,12 @@ Fisk som er død på redskap, skal også bløgges og holdes adskilt fra levendef
 
 Følgende arter er unntatt fra krav om bløgging: Brisling, hestmakrell, kolmule, lodde, makrell, polartorsk, sil, sild, strømsild, vassild, øyepål, pigghå, skate, breiflabb, uer, skolest og ål.
 
-Unntatt fra krav om bløgging er også:direktehåvet, notfanget sei under 58 cm for salting eller hengingdirektehåvet, notfanget sei under 58 cm for frysing til filet eller for frysing som sløyd hodekappet. Dette råstoffet skal oppfylle kvalitetskravene i [§ 13](forskrift/2013-06-28-844/§13)fisk bestemt til tradisjonelle produksjoner, hvor det er dokumentert at unnlatelse av bløgging av fisken er en del av en kontrollert prosess som bidrar til produktets særegenhet og kvalitetblåkveite under 2 kg som fryses inn umiddelbart, og senest fire timer etter opptak.
+Unntatt fra krav om bløgging er også:
+
+1. direktehåvet, notfanget sei under 58 cm for salting eller henging
+2. direktehåvet, notfanget sei under 58 cm for frysing til filet eller for frysing som sløyd hodekappet. Dette råstoffet skal oppfylle kvalitetskravene i [§ 13](forskrift/2013-06-28-844/§13)
+3. fisk bestemt til tradisjonelle produksjoner, hvor det er dokumentert at unnlatelse av bløgging av fisken er en del av en kontrollert prosess som bidrar til produktets særegenhet og kvalitet
+4. blåkveite under 2 kg som fryses inn umiddelbart, og senest fire timer etter opptak.
 
 I tillegg til unntakene i tredje og fjerde ledd, kan Mattilsynet gi fritak for bløgging for oppdrettet fisk som slaktes på grunn av uforutsette hendelser, herunder tiltak knyttet til sykdomsutbrudd og algeforekomst.
 
@@ -98,7 +114,10 @@ Dersom fisken hodekappes, skal dette skje med et rent snitt som ikke skader fisk
 
 Fisk med mye åte skal sløyes før tegn til buktæring oppstår.
 
-Unntatt fra kravet om sløying er:fisk som skal brukes i produksjon av fiskemel, fiskeolje, fiskeproteinhydrolysat, tran og andre marine ingredienser,oppdrettet laksefisk, forutsatt at det foretas en prøvesløying av et representativt utvalg fra det aktuelle partiet for å sikre at fisken ikke har indre kvalitetsfeil.
+Unntatt fra kravet om sløying er:
+
+1. fisk som skal brukes i produksjon av fiskemel, fiskeolje, fiskeproteinhydrolysat, tran og andre marine ingredienser,
+2. oppdrettet laksefisk, forutsatt at det foretas en prøvesløying av et representativt utvalg fra det aktuelle partiet for å sikre at fisken ikke har indre kvalitetsfeil.
 
 Fisk som er unntatt fra krav om sløying, kan innfryses rund på landanlegg og på fartøy som har fryseutstyr om bord. Pigghå og skate tillates likevel ikke fryst usløyd.
 
@@ -110,11 +129,27 @@ Ved føring av råstoff fra fangstfartøy til annet fartøy skal det tas hensyn 
 
 ### § 10. Fersk fisk og ferske fiskevarer
 
-Råstoffet skal oppfylle følgende krav:fisken skal være i tiltakende eller fast dødsstivhet. Konsistensen skal være bøyelig, elastisk eller fast og hard. Laksefisk kan være i avtagende dødsstivhet såfremt den oppfyller kravene i bokstavene b) til f),lukt og smak skal være frisk og karakteristisk som for nyfanget eller nyslaktet fisk av arten, uten avvikende lukt eller smak eller spor av lukt eller smak fra nedbrytningsprodukter,tegn på mangelfull utblødning som røde nakker eller blodfylte årer eller tegn på sein sløying med påvisning av tærte eller gallefargede buker skal ikke forekomme,overflater, snittflater og fiskekjøtt skal ha sin naturlige farge og glans som for nyfanget eller nyslaktet fisk av arten uten spor av misfarge,slimhuden skal være klar, gjennomskinnelig. Gjeller skal være røde (friske), øynene klare og utstående. Fisk med grå øyne pga. katarakt er å anse som fersk dersom de øvrige kravene er oppfylt,i magre fiskearter, silde- eller makrellarter skal 100 gram kjøtt, i gjennomsnitt av undersøkte prøver, ikke inneholde mer enn 3 milligram trimetylamin-nitrogen, og ingen enkeltprøve over 5 milligram,rogn og melke skal ikke være misfarget,rå rogn som skal omsettes til forbruker som kjølt vare, skal ha hel rognsekk. Rogn, lever og melke må ikke komme i direkte kontakt med isen under kjøling/lagring.
+Råstoffet skal oppfylle følgende krav:
+
+1. fisken skal være i tiltakende eller fast dødsstivhet. Konsistensen skal være bøyelig, elastisk eller fast og hard. Laksefisk kan være i avtagende dødsstivhet såfremt den oppfyller kravene i bokstavene b) til f),
+2. lukt og smak skal være frisk og karakteristisk som for nyfanget eller nyslaktet fisk av arten, uten avvikende lukt eller smak eller spor av lukt eller smak fra nedbrytningsprodukter,
+3. tegn på mangelfull utblødning som røde nakker eller blodfylte årer eller tegn på sein sløying med påvisning av tærte eller gallefargede buker skal ikke forekomme,
+4. overflater, snittflater og fiskekjøtt skal ha sin naturlige farge og glans som for nyfanget eller nyslaktet fisk av arten uten spor av misfarge,
+5. slimhuden skal være klar, gjennomskinnelig. Gjeller skal være røde (friske), øynene klare og utstående. Fisk med grå øyne pga. katarakt er å anse som fersk dersom de øvrige kravene er oppfylt,
+6. i magre fiskearter, silde- eller makrellarter skal 100 gram kjøtt, i gjennomsnitt av undersøkte prøver, ikke inneholde mer enn 3 milligram trimetylamin-nitrogen, og ingen enkeltprøve over 5 milligram,
+7. rogn og melke skal ikke være misfarget,
+8. rå rogn som skal omsettes til forbruker som kjølt vare, skal ha hel rognsekk. Rogn, lever og melke må ikke komme i direkte kontakt med isen under kjøling/lagring.
 
 ### § 11. Tørrfisk og fullsaltet fisk
 
-Råstoffet skal oppfylle følgende krav:fisken skal ikke være bløt og deformert,lukten av nedbrytningsprodukter kan være moderat,slimhuden skal ikke være misfarget gul,fisken skal ikke være buktært,kjøtt langs ryggbein skal ikke ha rosa eller rød misfarge,100 gram fiskekjøtt skal i gjennomsnitt av undersøkte prøver ikke inneholde mer enn 10 milligram trimetylamin-nitrogen og ingen enkeltprøve over 15 milligram.
+Råstoffet skal oppfylle følgende krav:
+
+1. fisken skal ikke være bløt og deformert,
+2. lukten av nedbrytningsprodukter kan være moderat,
+3. slimhuden skal ikke være misfarget gul,
+4. fisken skal ikke være buktært,
+5. kjøtt langs ryggbein skal ikke ha rosa eller rød misfarge,
+6. 100 gram fiskekjøtt skal i gjennomsnitt av undersøkte prøver ikke inneholde mer enn 10 milligram trimetylamin-nitrogen og ingen enkeltprøve over 15 milligram.
 
 For lange og brosme oppbevart om bord før produksjon av tørrfisk til framstilling av lutefisk, gjelder ikke kravene i første ledd bokstavene e) og f).
 
@@ -134,11 +169,31 @@ For råstoff som er forurenset som beskrevet i [§ 14](forskrift/2013-06-28-844/
 
 ### § 13. Råstoff til annen anvendelse, herunder frysing
 
-Råstoff til andre anvendelser enn angitt i [§ 10](forskrift/2013-06-28-844/§10), [§ 11](forskrift/2013-06-28-844/§11) og [§ 12](forskrift/2013-06-28-844/§12) skal oppfylle følgende krav:fiskekjøttet skal være fast og elastisk uten tegn til varig merke etter fingeravtrykk,lukt og smak skal være frisk og karakteristisk for arten uten spor av fremmed lukt eller smak som følge av nedbrytningsprosesser eller harskning,overflater og snittflater skal ikke være misfarget, gule eller brune. Bukene skal ikke være gallefarget, tærte pga. oppløste innvoller eller ha blodfylte årer. Slimhuden kan være matt eller sammenklumpet, men ikke misfarget gul eller brun. Kjøttfargen skal være karakteristisk for arten uten misfarge,råstoff skal oppfylle samme krav til innhold av trimetylamin-nitrogen som ferske varer, jf. [§ 10](forskrift/2013-06-28-844/§10) første ledd bokstav f,sild, makrell og brisling skal være buksterk. Sild til særskilte produksjoner kan ha åte dersom denne ikke forringer kvaliteten på produktet,råstoff til dobbelfrysing skal oppfylle de samme kravene som råstoff til fersk anvendelse, og være innfrosset innen akseptabel tid etter opptak slik at kvaliteten ikke er forringet.
+Råstoff til andre anvendelser enn angitt i [§ 10](forskrift/2013-06-28-844/§10), [§ 11](forskrift/2013-06-28-844/§11) og [§ 12](forskrift/2013-06-28-844/§12) skal oppfylle følgende krav:
+
+1. fiskekjøttet skal være fast og elastisk uten tegn til varig merke etter fingeravtrykk,
+2. lukt og smak skal være frisk og karakteristisk for arten uten spor av fremmed lukt eller smak som følge av nedbrytningsprosesser eller harskning,
+3. overflater og snittflater skal ikke være misfarget, gule eller brune. Bukene skal ikke være gallefarget, tærte pga. oppløste innvoller eller ha blodfylte årer. Slimhuden kan være matt eller sammenklumpet, men ikke misfarget gul eller brun. Kjøttfargen skal være karakteristisk for arten uten misfarge,
+4. råstoff skal oppfylle samme krav til innhold av trimetylamin-nitrogen som ferske varer, jf. [§ 10](forskrift/2013-06-28-844/§10) første ledd bokstav f,
+5. sild, makrell og brisling skal være buksterk. Sild til særskilte produksjoner kan ha åte dersom denne ikke forringer kvaliteten på produktet,
+6. råstoff til dobbelfrysing skal oppfylle de samme kravene som råstoff til fersk anvendelse, og være innfrosset innen akseptabel tid etter opptak slik at kvaliteten ikke er forringet.
 
 ### § 14. Fisk og fiskevarer som ikke kan omsettes til humant konsum
 
-Fisk og fiskevarer skal ikke omsettes til humant konsum hvis de:er selvdøde,er harske,er fryse- eller tørkebrent, dvs. fisk og fiskevarer som har uopprettelige merker etter frysing eller tørking,er buktært eller har betydelige lever- og/eller galleflekker,er oppdrettet og hvor feil nevnt i [§ 17](forskrift/2013-06-28-844/§17) første ledd ikke kan rettes,er oppdrettet og har tydelig kjønnsdrakt,er blodsprengt eller oppløst i fiskekjøttet eller har avvikende lukt,har påviselig rødmidd, svartmidd eller brunmidd eller er betydelig jordslått,er forurenset av stoffer i konsentrasjoner som gir fisk og fiskevaren unormale sensoriske egenskaper,har høyere verdier av trimetylamin-nitrogen enn angitt i [§ 11](forskrift/2013-06-28-844/§11) første ledd bokstav f. Unntatt er ferdigvarer som har gjennomgått en modningsprosess (er fermenterte), er fullsaltet eller tørket (raket fisk, saltfisk, saltsild, klippfisk og tørrfisk mv.),har indre organer med tydelige tegn på sykdomsforandringer som kan ses med det blotte øyet, herunder indre blødninger, granulomer (utvekst/arrdannelse som følge av immunsykdom/infeksjon) eller byller,har omfattende ytre sykdomsforandringer, herunder store sår eller byller.
+Fisk og fiskevarer skal ikke omsettes til humant konsum hvis de:
+
+1. er selvdøde,
+2. er harske,
+3. er fryse- eller tørkebrent, dvs. fisk og fiskevarer som har uopprettelige merker etter frysing eller tørking,
+4. er buktært eller har betydelige lever- og/eller galleflekker,
+5. er oppdrettet og hvor feil nevnt i [§ 17](forskrift/2013-06-28-844/§17) første ledd ikke kan rettes,
+6. er oppdrettet og har tydelig kjønnsdrakt,
+7. er blodsprengt eller oppløst i fiskekjøttet eller har avvikende lukt,
+8. har påviselig rødmidd, svartmidd eller brunmidd eller er betydelig jordslått,
+9. er forurenset av stoffer i konsentrasjoner som gir fisk og fiskevaren unormale sensoriske egenskaper,
+10. har høyere verdier av trimetylamin-nitrogen enn angitt i [§ 11](forskrift/2013-06-28-844/§11) første ledd bokstav f. Unntatt er ferdigvarer som har gjennomgått en modningsprosess (er fermenterte), er fullsaltet eller tørket (raket fisk, saltfisk, saltsild, klippfisk og tørrfisk mv.),
+11. har indre organer med tydelige tegn på sykdomsforandringer som kan ses med det blotte øyet, herunder indre blødninger, granulomer (utvekst/arrdannelse som følge av immunsykdom/infeksjon) eller byller,
+12. har omfattende ytre sykdomsforandringer, herunder store sår eller byller.
 
 ## Kapittel V. Særlige bestemmelser om fisk og fiskevarer til forbruker i Norge
 
@@ -229,7 +284,11 @@ Før pakking skal fisk være saltmoden med karakteristisk utseende, konsistens o
 
 ### § 24. Krav til salt
 
-Salt til produksjon av fisk og fiskevarer skal oppfylle følgende krav:saltet skal ha et rent utseende og ikke inneholde tydelige, fargede partikler eller fremmede krystaller. Det skal være fritt for avvikende lukt og ha en tydelig ren saltsmak,jerninnholdet skal ikke overstige 10 mg/kg salt,kopperinnholdet skal ikke overstige 0,1 mg/kg salt.
+Salt til produksjon av fisk og fiskevarer skal oppfylle følgende krav:
+
+1. saltet skal ha et rent utseende og ikke inneholde tydelige, fargede partikler eller fremmede krystaller. Det skal være fritt for avvikende lukt og ha en tydelig ren saltsmak,
+2. jerninnholdet skal ikke overstige 10 mg/kg salt,
+3. kopperinnholdet skal ikke overstige 0,1 mg/kg salt.
 
 > Endret ved [forskrift 6 okt 2017 nr. 1630](forskrift/2017-10-06-1630).
 
@@ -281,7 +340,12 @@ Ved salg til sluttforbruker skal opplysningene i [§ 32](forskrift/2013-06-28-84
 
 ### § 31. Merking av engrosemballert råstoff og halvfabrikata
 
-Fisk og fiskevarer skal merkes med:Varebetegnelse, som skal inneholde fiskeartNettovektTemperaturkrav under transport og lagring. Merking med temperaturkrav gjelder ikke helkonservesDypfryste varer skal merkes med dato for første gangs innfrysing angitt som dag, måned og år. Slik merking vil dekke opplysningsplikten med hensyn på holdbarhet.
+Fisk og fiskevarer skal merkes med:
+
+1. Varebetegnelse, som skal inneholde fiskeart
+2. Nettovekt
+3. Temperaturkrav under transport og lagring. Merking med temperaturkrav gjelder ikke helkonserves
+4. Dypfryste varer skal merkes med dato for første gangs innfrysing angitt som dag, måned og år. Slik merking vil dekke opplysningsplikten med hensyn på holdbarhet.
 
 Engrosemballasjen for hel og sløyd oppdrettsfisk skal også merkes med lokalitetsnummeret hvor oppdrettsfisken er produsert.
 
@@ -299,7 +363,11 @@ Mattilsynet kan gi tillatelse til midlertidig bruk av betegnelser for fiskearter
 
 ### § 33. Produksjonsmetode
 
-Fisk og fiskevarer som er omfattet av vedlegg I del A, skal merkes med en av de følgende beskrivelsene av type produksjon:fisket i havet, ellerfisket i ferskvann, elleroppdrettet.
+Fisk og fiskevarer som er omfattet av vedlegg I del A, skal merkes med en av de følgende beskrivelsene av type produksjon:
+
+1. fisket i havet, eller
+2. fisket i ferskvann, eller
+3. oppdrettet.
 
 For arter som er fisket i havet, kan beskrivelse av produksjonsmetode utelates, dersom det er åpenbart ut fra angivelsen av betegnelse og fangstområde, at arten er fisket i havet. Beskrivelsen skal ikke utelates dersom det er tvil om produksjonsmetoden.
 
@@ -315,7 +383,11 @@ Fersk fisk og ferske fiskevarer som er omfattet av vedlegg I del A, og som stamm
 
 ### § 35. Fangstområde eller opprinnelsesland
 
-Fisk og fiskevarer som er omfattet av vedlegg I del A, skal merkes med en av følgende beskrivelser:fisk og fiskevarer fisket i havet, skal merkes med fangstområde i henhold til vedlegg I del B,fisk og fiskevarer fisket i ferskvann, skal merkes med det landet hvor produktet er fisket,fisk og fiskevarer fra oppdrett, skal merkes med det landet hvor fisken gjennomgikk det siste utviklingsstadiet.
+Fisk og fiskevarer som er omfattet av vedlegg I del A, skal merkes med en av følgende beskrivelser:
+
+1. fisk og fiskevarer fisket i havet, skal merkes med fangstområde i henhold til vedlegg I del B,
+2. fisk og fiskevarer fisket i ferskvann, skal merkes med det landet hvor produktet er fisket,
+3. fisk og fiskevarer fra oppdrett, skal merkes med det landet hvor fisken gjennomgikk det siste utviklingsstadiet.
 
 Dersom en blanding av arter omsettes, skal opplysningene om fangstområde eller opprinnelsesland oppgis for hver art.
 

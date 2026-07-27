@@ -38,7 +38,16 @@ Forskriften retter seg mot enhver som har eller plikter å ha akvakulturtillatel
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med*akvakulturdyr:* alle livsstadier, inklusiv kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg, herunder alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg.*akvakulturanlegg:* enhver lokalitet, fysisk avgrenset område eller installasjon som drives av et akvakulturforetak der akvakulturdyr oppdrettes, med unntak av de lokaliteter, områder eller installasjoner der ville akvatiske dyr er høstet eller fanget med tanke på konsum, holdes midlertidig uten å fôres i påvente av å bli slaktet. Med akvakulturforetak menes her ethvert privat eller offentlig foretak, ideelt eller ikke, som utøver en hvilken som helst virksomhet i forbindelse med oppdrett, hold eller dyrking av akvakulturdyr*biomasse:* den til enhver tid stående mengde av levende fisk i sjø (målt i kg eller tonn).*fangstbasert akvakultur:* villfanget fisk som skal holdes levende i sjø i mer enn 12 uker og fôres før den slaktes.*forøket dødelighet:* dødelighet som er signifikant høyere enn hva som anses normalt for akvakulturanlegget under rådende forhold.*installasjon:* innretning der akvakulturdyr kan fôres, behandles, eller oppbevares, inkludert fortøyninger. En installasjon kan bestå av flere produksjonsenheter.*lokalitet:* geografisk avgrenset område for akvakultur enten på land eller i vann.*vannkvalitet:* vannmiljøets egnethet ut fra fiskenes behov, herunder vannets kjemiske (oksygen, karbondioksid, totalammonium nitrogen, jern, aluminium m.m.), fysikalske (temperatur, turbiditet, salinitet og strømsetting) og hygieniske (forurensende stoffer som fôrrester, avføring og begroing) kvalitet.
+I denne forskriften menes med
+
+1. *akvakulturdyr:* alle livsstadier, inklusiv kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg, herunder alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg.
+2. *akvakulturanlegg:* enhver lokalitet, fysisk avgrenset område eller installasjon som drives av et akvakulturforetak der akvakulturdyr oppdrettes, med unntak av de lokaliteter, områder eller installasjoner der ville akvatiske dyr er høstet eller fanget med tanke på konsum, holdes midlertidig uten å fôres i påvente av å bli slaktet. Med akvakulturforetak menes her ethvert privat eller offentlig foretak, ideelt eller ikke, som utøver en hvilken som helst virksomhet i forbindelse med oppdrett, hold eller dyrking av akvakulturdyr
+3. *biomasse:* den til enhver tid stående mengde av levende fisk i sjø (målt i kg eller tonn).
+4. *fangstbasert akvakultur:* villfanget fisk som skal holdes levende i sjø i mer enn 12 uker og fôres før den slaktes.
+5. *forøket dødelighet:* dødelighet som er signifikant høyere enn hva som anses normalt for akvakulturanlegget under rådende forhold.
+6. *installasjon:* innretning der akvakulturdyr kan fôres, behandles, eller oppbevares, inkludert fortøyninger. En installasjon kan bestå av flere produksjonsenheter.
+7. *lokalitet:* geografisk avgrenset område for akvakultur enten på land eller i vann.
+8. *vannkvalitet:* vannmiljøets egnethet ut fra fiskenes behov, herunder vannets kjemiske (oksygen, karbondioksid, totalammonium nitrogen, jern, aluminium m.m.), fysikalske (temperatur, turbiditet, salinitet og strømsetting) og hygieniske (forurensende stoffer som fôrrester, avføring og begroing) kvalitet.
 
 ## Kapittel 2. Krav om tillatelse til fangstbasert akvakultur
 
@@ -58,7 +67,25 @@ Departementet kan stanse tildeling av tillatelse til fangstbasert akvakultur hel
 
 ### § 5. Klarering av lokalitet
 
-Lokalitet for fangstbasert akvakultur kan klareres dersom det er:miljømessig forsvarlig. Lokalitet for fangstbasert akvakultur skal ikkje etableres i gyteområde eller gytefelt for same art som er angitt i tillatelsen.det er foretatt en avveining av arealinteresser, med særlig vekt påsøkers behov for areal til planlagt virksomhetalternativ bruk av området til annen virksomhet, herunder akvakulturverneinteresser som ikke omfattes av bokstav d, herunder vedtak om vern etter [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) jakt og fangst av vilt.det er gitt tillatelser som kreves etter[lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet,[lov 19. juni 2009 nr. 97](lov/2009-06-19-97) om dyrevelferd[lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensning og om avfall,[lov 21. juni 2019 nr. 70 om havner og farvann](lov/2019-06-21-70)det ikke er i strid medvedtatte arealplaner etter plan- og bygningsloven,vedtatte vernetiltak etter kapittel V i [lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold,vedtatte vernetiltak etter [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner.
+Lokalitet for fangstbasert akvakultur kan klareres dersom det er:
+
+1. miljømessig forsvarlig. Lokalitet for fangstbasert akvakultur skal ikkje etableres i gyteområde eller gytefelt for same art som er angitt i tillatelsen.
+2. det er foretatt en avveining av arealinteresser, med særlig vekt på
+
+   1. søkers behov for areal til planlagt virksomhet
+   2. alternativ bruk av området til annen virksomhet, herunder akvakultur
+   3. verneinteresser som ikke omfattes av bokstav d, herunder vedtak om vern etter [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) jakt og fangst av vilt.
+3. det er gitt tillatelser som kreves etter
+
+   1. [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet,
+   2. [lov 19. juni 2009 nr. 97](lov/2009-06-19-97) om dyrevelferd
+   3. [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensning og om avfall,
+   4. [lov 21. juni 2019 nr. 70 om havner og farvann](lov/2019-06-21-70)
+4. det ikke er i strid med
+
+   1. vedtatte arealplaner etter plan- og bygningsloven,
+   2. vedtatte vernetiltak etter kapittel V i [lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold,
+   3. vedtatte vernetiltak etter [lov 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner.
 
 Selv om klarering kan være i strid med bokstav d, kan klarering gis dersom det foreligger samtykke fra vedkommende plan- eller vernemyndighet.
 
@@ -76,7 +103,16 @@ Søknad om dispensasjon fra denne forskriften etter [§ 43](forskrift/2014-12-15
 
 ### § 7. Minstekrav til søknad
 
-Søknaden skal inneholde:navn på eier av anlegg til fangstbasert akvakultur, adresse, kontaktopplysninger som e-postadresse, telefonnummer og mobilnummer,opplysninger om søknaden gjelder nyetablering eller endring av gitt godkjenning,art, driftsform og omfang,beredskapsplan, herunder plan for smittehygieniske og velferdsmessige tiltak for å hindre og håndtere utbrudd av smittsom sykdom, massedød og andre kritiske situasjoner,dokumentasjon på lokalitetens egnethet til å sikre god fiskevelferd, herunder data på vannkvalitet, mengde vann og naturgitte forhold av vesentlig betydning for fiskevelferden,opplysninger om strømmålinger på lokaliteten,kartdokumentasjon som angitt i NS 9410:2016 Miljøovervåkning av bunnpåvirkning fra marine akvakulturanlegg eller tilsvarende internasjonal standard eller anerkjent norm,rapport fra B-undersøkelse i henhold til NS 9410:2016 eller tilsvarende internasjonal standard eller anerkjent norm. På lokaliteter hvor slik undersøkelse vanskelig lar seg gjennomføre, kan fylkeskommunen i samråd med Fiskeridirektoratet kreve alternativ miljøundersøkelse.
+Søknaden skal inneholde:
+
+1. navn på eier av anlegg til fangstbasert akvakultur, adresse, kontaktopplysninger som e-postadresse, telefonnummer og mobilnummer,
+2. opplysninger om søknaden gjelder nyetablering eller endring av gitt godkjenning,
+3. art, driftsform og omfang,
+4. beredskapsplan, herunder plan for smittehygieniske og velferdsmessige tiltak for å hindre og håndtere utbrudd av smittsom sykdom, massedød og andre kritiske situasjoner,
+5. dokumentasjon på lokalitetens egnethet til å sikre god fiskevelferd, herunder data på vannkvalitet, mengde vann og naturgitte forhold av vesentlig betydning for fiskevelferden,
+6. opplysninger om strømmålinger på lokaliteten,
+7. kartdokumentasjon som angitt i NS 9410:2016 Miljøovervåkning av bunnpåvirkning fra marine akvakulturanlegg eller tilsvarende internasjonal standard eller anerkjent norm,
+8. rapport fra B-undersøkelse i henhold til NS 9410:2016 eller tilsvarende internasjonal standard eller anerkjent norm. På lokaliteter hvor slik undersøkelse vanskelig lar seg gjennomføre, kan fylkeskommunen i samråd med Fiskeridirektoratet kreve alternativ miljøundersøkelse.
 
 Undersøkelse etter bokstav h skal utføres av et organ som kan dokumentere relevant faglig kompetanse og er uavhengig av oppdragsgiver.
 
@@ -212,7 +248,11 @@ Ved forøket dødelighet, unntatt når dødeligheten åpenbart ikke er forårsak
 
 ### § 25. Varsling
 
-Mattilsynet skal varsles umiddelbart veduavklart forøket dødelighet,grunn til mistanke om sykdom på liste 1, 2 eller 3andre forhold som har medført vesentlig velferdsmessige konsekvenser for fisken, herunder om sykdom, skade eller svikt.
+Mattilsynet skal varsles umiddelbart ved
+
+1. uavklart forøket dødelighet,
+2. grunn til mistanke om sykdom på liste 1, 2 eller 3
+3. andre forhold som har medført vesentlig velferdsmessige konsekvenser for fisken, herunder om sykdom, skade eller svikt.
 
 ### § 26. Bruk av legemidler og kjemikalier
 
@@ -254,19 +294,46 @@ Det er ikke tillatt å avlive store mengder fisk i anlegg for fangstbasert akvak
 
 ### § 31. Journalføring på lokalitetsnivå
 
-Driftsjournalen skal minst inneholde oppdaterte opplysninger om:nummer på produksjonsenhet knyttet til akvakulturtillatelsens nummer og innehaver av tillatelsen,tidspunkt for brakklegging,kjemikalieforbruk: kjemikalietype, produktnavn, mengde og forbruksperiode,legemiddelforbruk: legemiddeltype, produktnavn, mengde og forbruksperiode,resultater av gjennomførte helsekontroller: antall gjennomførte helsekontroller, prøveuttak, foretatte undersøkelser, diagnoser og gjennomførte behandlingervanntemperatur på 3 meters dyp.behandling og levering av død fisk: behandlingsmåte, mengde, leveringstidspunkt og mottaker,angrep av predatorer, alger eller maneter og eventuelt gjennomførte tiltak.relevante parametere for vannkvalitet og vannkvalitetstiltak,resultater etter foretatte miljøundersøkelser: kart (1:5000), det topografiske bunnkartet, lokalitetskartet der prøvetakingsstedene er avmerket og skjema for oppsummering av undersøkelsen
+Driftsjournalen skal minst inneholde oppdaterte opplysninger om:
+
+1. nummer på produksjonsenhet knyttet til akvakulturtillatelsens nummer og innehaver av tillatelsen,
+2. tidspunkt for brakklegging,
+3. kjemikalieforbruk: kjemikalietype, produktnavn, mengde og forbruksperiode,
+4. legemiddelforbruk: legemiddeltype, produktnavn, mengde og forbruksperiode,
+5. resultater av gjennomførte helsekontroller: antall gjennomførte helsekontroller, prøveuttak, foretatte undersøkelser, diagnoser og gjennomførte behandlinger
+6. vanntemperatur på 3 meters dyp.
+7. behandling og levering av død fisk: behandlingsmåte, mengde, leveringstidspunkt og mottaker,
+8. angrep av predatorer, alger eller maneter og eventuelt gjennomførte tiltak.
+9. relevante parametere for vannkvalitet og vannkvalitetstiltak,
+10. resultater etter foretatte miljøundersøkelser: kart (1:5000), det topografiske bunnkartet, lokalitetskartet der prøvetakingsstedene er avmerket og skjema for oppsummering av undersøkelsen
 
 ### § 32. Journalføring på produksjonsenhetsnivå
 
-Driftsjournalen skal på produksjonsenhetsnivå minst inneholde oppdatert opplysninger om:mottak, levering og beholdning av fisk: antall mottatt, opprinnelse og fangstområde, antall levert, mottaker og beholdning,uttak eller utslaktingskvantum og sted for slakting: slakteri/mottak, dato, art, antall fisk, slaktevekt og slaktetilstand,flytting av fisk: antall og hvilket anlegg fisken er flyttet til,rømmingstilfeller: rømmingsårsak, rømmingstidspunkt, antall rømte individer, størrelse, helsestatus og at rømmingen er meldt Fiskeridirektoratet og tidspunktet for dette,fiskens helse- og velferdsstatus: antall helsekontroller, antall obduserte fisk, prøveuttak, undersøkelser, diagnoser, skader, behandlinger, samt kjente eller sannsynlige årsaker til skader og produksjonssykdommer.
+Driftsjournalen skal på produksjonsenhetsnivå minst inneholde oppdatert opplysninger om:
 
-Følgende opplysninger skal journalføres daglig på produksjonsenhetsnivå:beholdning av antall fisk,biomasse og grunnlaget for beregningen av biomasse, tilvekst og tetthet,dødelighet og annen årsak til tap, antall fisk og kvantum ogFôrforbruk i kilogram og fôrtype.
+1. mottak, levering og beholdning av fisk: antall mottatt, opprinnelse og fangstområde, antall levert, mottaker og beholdning,
+2. uttak eller utslaktingskvantum og sted for slakting: slakteri/mottak, dato, art, antall fisk, slaktevekt og slaktetilstand,
+3. flytting av fisk: antall og hvilket anlegg fisken er flyttet til,
+4. rømmingstilfeller: rømmingsårsak, rømmingstidspunkt, antall rømte individer, størrelse, helsestatus og at rømmingen er meldt Fiskeridirektoratet og tidspunktet for dette,
+5. fiskens helse- og velferdsstatus: antall helsekontroller, antall obduserte fisk, prøveuttak, undersøkelser, diagnoser, skader, behandlinger, samt kjente eller sannsynlige årsaker til skader og produksjonssykdommer.
+
+Følgende opplysninger skal journalføres daglig på produksjonsenhetsnivå:
+
+1. beholdning av antall fisk,
+2. biomasse og grunnlaget for beregningen av biomasse, tilvekst og tetthet,
+3. dødelighet og annen årsak til tap, antall fisk og kvantum og
+4. Fôrforbruk i kilogram og fôrtype.
 
 > Endret ved forskrifter [24 aug 2022 nr. 1487](forskrift/2022-08-24-1487), [7 feb 2024 nr. 226](forskrift/2024-02-07-226).
 
 ### § 33. Rapportering og melding
 
-Det skal månedlig innrapporteres opplysninger omantall fisk, snittvekt og dødelighet for hver produksjonsenhet som er i drift,slaktevekt,biomasse ogfôrforbruk i kilogram.
+Det skal månedlig innrapporteres opplysninger om
+
+- antall fisk, snittvekt og dødelighet for hver produksjonsenhet som er i drift,
+- slaktevekt,
+- biomasse og
+- fôrforbruk i kilogram.
 
 Det skal innrapporteres til Fiskeridirektoratet når akvakulturanlegget tas i bruk og når anlegget er tømt for fisk.
 
@@ -332,9 +399,17 @@ Fisk som er levert til slaktemerd, skal gå direkte til slakting ved tilhørende
 
 Fisk som skal transporteres til og fra anlegg for fangstbasert akvakultur kan transporteres med fartøy som er godkjent i henhold til [forskrift 22. desember 2005 nr. 1682](forskrift/2005-12-22-1682) om krav til fartøy som skal fiske og føre fangsten levende, eller brønnbåt som er godkjent i henhold til [forskrift 17. juni 2008 nr. 820](forskrift/2008-06-17-820) om transport av akvakulturdyr.
 
-Transporten og eventuelt vannskifte skal gjennomføres på en måte som reduserer risikoen for spredning av sykdommer, og sikrer helsen til:fisken som transporteres,fisken på bestemmelsesstedet, ogakvatiske dyr som passeres under transporten.
+Transporten og eventuelt vannskifte skal gjennomføres på en måte som reduserer risikoen for spredning av sykdommer, og sikrer helsen til:
 
-For hvert transportoppdrag skal følgende opplysninger journalføres:dødelighet under transport,reiserute, inkludert akvakulturanlegg, mottaksanlegg og slakterier som besøkes, ogtid og sted for eventuelt vannskifte, lukking og åpning av ventiler under transport.
+1. fisken som transporteres,
+2. fisken på bestemmelsesstedet, og
+3. akvatiske dyr som passeres under transporten.
+
+For hvert transportoppdrag skal følgende opplysninger journalføres:
+
+1. dødelighet under transport,
+2. reiserute, inkludert akvakulturanlegg, mottaksanlegg og slakterier som besøkes, og
+3. tid og sted for eventuelt vannskifte, lukking og åpning av ventiler under transport.
 
 Første ledd gjelder i tillegg til forordning [(EF) nr. 1/2005](eu/32005r0001*) om vern av dyr under transport og andre tilknyttede aktiviteter som er vedtatt som norsk [forskrift i forskrift 8. februar 2012 nr. 139](forskrift/2012-02-08-139) om næringsmessig transport av dyr.
 
@@ -372,4 +447,14 @@ Den som forsettlig eller grovt uaktsomt overtrer bestemmelser gitt i denne forsk
 
 Forskriften trer i kraft 1. januar 2015, unntatt [§ 13](forskrift/2014-12-15-1831/§13) fjerde ledd og [§ 33](forskrift/2014-12-15-1831/§33) første ledd, som trer i kraft 1. juli 2015.
 
-Fra 1. januar 2015 endret denne forskriften følgende forskrifter:[forskrift 22. desember 2004 nr. 1799](forskrift/2004-12-22-1799) om tillatelse til akvakultur av andre arter enn laks, ørret og regnbueørret[forskrift 17. juni 2008 nr. 822](forskrift/2008-06-17-822) om drift av akvakulturanlegg (akvakulturdriftsforskriften)[forskrift 16. august 2011 nr. 849](forskrift/2011-08-16-849) om teknisk standard for flytende akvakulturanlegg (NYTEK-forskriften)[forskrift 19. mars 2004 nr. 537](forskrift/2004-03-19-537) om internkontroll for å oppfylle akvakulturlovgivningen (IK-Akvakultur)[forskrift 30. oktober 2006 nr. 1250](forskrift/2006-10-30-1250) om slakterier og tilvirkingsanlegg for akvakulturdyr[forskrift 21. desember 2001 nr. 1597](forskrift/2001-12-21-1597) om gebyr og avgift i forbindelse med akvakulturvirksomhet[forskrift 17. juni 2008 nr. 823](forskrift/2008-06-17-823) om etablering og utvidelse av akvakulturanlegg, zoobutikker m.m.[forskrift 20. desember 2013 nr. 1675](forskrift/2013-12-20-1675) om reaksjoner, sanksjoner med mer ved overtredelse av akvakulturloven[forskrift 17. juni 2008 nr. 820](forskrift/2008-06-17-820) om transport av akvakulturdyr
+Fra 1. januar 2015 endret denne forskriften følgende forskrifter:
+
+- [forskrift 22. desember 2004 nr. 1799](forskrift/2004-12-22-1799) om tillatelse til akvakultur av andre arter enn laks, ørret og regnbueørret
+- [forskrift 17. juni 2008 nr. 822](forskrift/2008-06-17-822) om drift av akvakulturanlegg (akvakulturdriftsforskriften)
+- [forskrift 16. august 2011 nr. 849](forskrift/2011-08-16-849) om teknisk standard for flytende akvakulturanlegg (NYTEK-forskriften)
+- [forskrift 19. mars 2004 nr. 537](forskrift/2004-03-19-537) om internkontroll for å oppfylle akvakulturlovgivningen (IK-Akvakultur)
+- [forskrift 30. oktober 2006 nr. 1250](forskrift/2006-10-30-1250) om slakterier og tilvirkingsanlegg for akvakulturdyr
+- [forskrift 21. desember 2001 nr. 1597](forskrift/2001-12-21-1597) om gebyr og avgift i forbindelse med akvakulturvirksomhet
+- [forskrift 17. juni 2008 nr. 823](forskrift/2008-06-17-823) om etablering og utvidelse av akvakulturanlegg, zoobutikker m.m.
+- [forskrift 20. desember 2013 nr. 1675](forskrift/2013-12-20-1675) om reaksjoner, sanksjoner med mer ved overtredelse av akvakulturloven
+- [forskrift 17. juni 2008 nr. 820](forskrift/2008-06-17-820) om transport av akvakulturdyr

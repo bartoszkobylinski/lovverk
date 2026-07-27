@@ -26,7 +26,14 @@ eu_basis: []
 
 For kjøretøy med tillatt totalvekt over 3 500 kg som på offentlig veg har vært brukt til overtredelse av bestemmelser om last av aksel/akselkombinasjon eller totalvekt, skal det betales gebyr etter reglene i [§ 2](forskrift/1971-12-17-1/§2). Hvem som ilegges gebyr reguleres i [§ 4](forskrift/1971-12-17-1/§4).
 
-Tillatt belastning for aksel/akselkombinasjon eller totalvekt etter denne forskriften erdet som kjøretøyet er tillatt for etter vognkortet. For uregistrerte kjøretøy gjelder fabrikantgaranti.det som vegen er tillatt for etter gjeldende veglister, jf. [forskrift om bruk av kjøretøy § 5-3](forskrift/1990-01-25-92/§5-3) nr. 2, jf. likevel nærmere bestemmelser om tillatt belastning fra aksel/akselkombinasjon og totalvekt i [forskrift om bruk av kjøretøy § 5-4](forskrift/1990-01-25-92/§5-4) nr. 1, 2 og 3, [§ 5-5](forskrift/1990-01-25-92/§5-5) og [§ 5-13](forskrift/1990-01-25-92/§5-13).det som vegen er tillatt for etter oppsatt forbudsskilt.det som vegen er tillatt for etter forskrift eller dispensasjon gitt med hjemmel i [forskrift om bruk av kjøretøy § 5-14](forskrift/1990-01-25-92/§5-14).det som fremgår av dispensasjon gitt med hjemmel i [forskrift om bruk av kjøretøy § 5-8](forskrift/1990-01-25-92/§5-8) til [§ 5-10](forskrift/1990-01-25-92/§5-10), unntak i enkelttilfelle gitt med hjemmel i [§ 5-15](forskrift/1990-01-25-92/§5-15) nr. 4 eller generelt unntak gitt med hjemmel i [§ 6-2](forskrift/1990-01-25-92/§6-2).som tillatt totalvekt regnes også summen av tillatt last av aksel/akselkombinasjon for kjøretøy/vogntog.
+Tillatt belastning for aksel/akselkombinasjon eller totalvekt etter denne forskriften er
+
+1. det som kjøretøyet er tillatt for etter vognkortet. For uregistrerte kjøretøy gjelder fabrikantgaranti.
+2. det som vegen er tillatt for etter gjeldende veglister, jf. [forskrift om bruk av kjøretøy § 5-3](forskrift/1990-01-25-92/§5-3) nr. 2, jf. likevel nærmere bestemmelser om tillatt belastning fra aksel/akselkombinasjon og totalvekt i [forskrift om bruk av kjøretøy § 5-4](forskrift/1990-01-25-92/§5-4) nr. 1, 2 og 3, [§ 5-5](forskrift/1990-01-25-92/§5-5) og [§ 5-13](forskrift/1990-01-25-92/§5-13).
+3. det som vegen er tillatt for etter oppsatt forbudsskilt.
+4. det som vegen er tillatt for etter forskrift eller dispensasjon gitt med hjemmel i [forskrift om bruk av kjøretøy § 5-14](forskrift/1990-01-25-92/§5-14).
+5. det som fremgår av dispensasjon gitt med hjemmel i [forskrift om bruk av kjøretøy § 5-8](forskrift/1990-01-25-92/§5-8) til [§ 5-10](forskrift/1990-01-25-92/§5-10), unntak i enkelttilfelle gitt med hjemmel i [§ 5-15](forskrift/1990-01-25-92/§5-15) nr. 4 eller generelt unntak gitt med hjemmel i [§ 6-2](forskrift/1990-01-25-92/§6-2).
+6. som tillatt totalvekt regnes også summen av tillatt last av aksel/akselkombinasjon for kjøretøy/vogntog.
 
 De laveste tillatte vekter som forekommer av punktene 1-6 legges til grunn ved gebyrberegningen. Der det er gitt dispensasjon med hjemmel i [forskrift om bruk av kjøretøy § 5-8](forskrift/1990-01-25-92/§5-8) til [§ 5-10](forskrift/1990-01-25-92/§5-10), [§ 5-14](forskrift/1990-01-25-92/§5-14) eller unntak med hjemmel i [§ 5-15](forskrift/1990-01-25-92/§5-15) nr. 4 eller [§ 6-2](forskrift/1990-01-25-92/§6-2) annet ledd, skal disse vektene legges til grunn.
 
@@ -42,7 +49,23 @@ Med transportør menes i denne forskriften en fysisk eller juridisk person som b
 
 ## § 2. Gebyrberegningen.
 
-For hver enkelt aksel/akselkombinasjonslast som er konstatert ved veiing, avrundes overlasten til nærmeste 100 kg.Aksellastgebyr:For 11,5 tonns drivaksellast fratrekkes 200 kg. For hver foraksellast på motorvogn fratrekkes 500 kg. For last av andre aksel/akselkombinasjoner fratrekkes 1000 kg. Av den gjenstående overlast beregnes gebyr særskilt for hver aksellast/akselkombinasjonslast etter gebyrsatser fastsatt av Samferdselsdepartementet.Totalvektgebyr:For vogntog og enkeltkjøretøyer der vekten overskrider den tillatte totalvekt som er angitt i [§ 1](forskrift/1971-12-17-1/§1). pkt. 1-6, summeres de avrundede veieresultatene for hver enkelt aksel/akselkombinasjon, jf. [§ 2](forskrift/1971-12-17-1/§2) første ledd. For enkeltkjøretøy brukes totalvekttabellen bare når kjøretøyet skal ha brukstillatelse.Fra summen av de avrundede veieresultatene fratrekkes følgende:- Enkeltkjøretøy (også som del av vogntog) med tillatt totalvekt til og med 7.500 kg:500 kg- Enkeltkjøretøy (også som del av vogntog) med tillatt totalvekt over 7.500 kg:1.000 kg- Vogntog med samlet tillatt totalvekt til og med 15.000 kg:1.000 kg- Vogntog med samlet tillatt totalvekt over 15.000 kg:2.000 kg
+For hver enkelt aksel/akselkombinasjonslast som er konstatert ved veiing, avrundes overlasten til nærmeste 100 kg.
+
+1. Aksellastgebyr:
+
+   For 11,5 tonns drivaksellast fratrekkes 200 kg. For hver foraksellast på motorvogn fratrekkes 500 kg. For last av andre aksel/akselkombinasjoner fratrekkes 1000 kg. Av den gjenstående overlast beregnes gebyr særskilt for hver aksellast/akselkombinasjonslast etter gebyrsatser fastsatt av Samferdselsdepartementet.
+2. Totalvektgebyr:
+
+   For vogntog og enkeltkjøretøyer der vekten overskrider den tillatte totalvekt som er angitt i [§ 1](forskrift/1971-12-17-1/§1). pkt. 1-6, summeres de avrundede veieresultatene for hver enkelt aksel/akselkombinasjon, jf. [§ 2](forskrift/1971-12-17-1/§2) første ledd. For enkeltkjøretøy brukes totalvekttabellen bare når kjøretøyet skal ha brukstillatelse.
+
+   Fra summen av de avrundede veieresultatene fratrekkes følgende:
+
+   |  |  |
+   | --- | --- |
+   | - Enkeltkjøretøy (også som del av vogntog) med tillatt totalvekt til og med 7.500 kg: | 500 kg |
+   | - Enkeltkjøretøy (også som del av vogntog) med tillatt totalvekt over 7.500 kg: | 1.000 kg |
+   | - Vogntog med samlet tillatt totalvekt til og med 15.000 kg: | 1.000 kg |
+   | - Vogntog med samlet tillatt totalvekt over 15.000 kg: | 2.000 kg |
 
 Av den gjenstående overlast beregnes gebyr etter satser fastsatt av Samferdselsdepartementet.
 
@@ -68,7 +91,10 @@ For utenlandsk kjøretøy skal overlastgebyret være betalt eller garantert for 
 
 ## § 4a. Erklæring om vekt ved transport av containere
 
-Avsenderen av en container skal utstede en erklæring til transportøren som tydelig angir følgende:Avsenderens navn, adresse og signaturContainerens vekt inkludert last.
+Avsenderen av en container skal utstede en erklæring til transportøren som tydelig angir følgende:
+
+1. Avsenderens navn, adresse og signatur
+2. Containerens vekt inkludert last.
 
 Erklæringen skal følge containeren og kan fremgå av fraktbrev eller annen dokumentasjon som følger transporten. Elektronisk versjon av erklæringen, utformet på en måte som er likeverdig med papirdokumentasjon, godtas.
 

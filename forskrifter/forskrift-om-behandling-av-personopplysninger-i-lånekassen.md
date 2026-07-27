@@ -26,7 +26,13 @@ eu_basis: []
 
 Dersom det er nødvendig for å forvalte søkerens eller låntakerens rettigheter eller plikter fastsatt i eller i medhold av [utdanningsstøtteloven](lov/2005-06-03-37), kan Lånekassen uten hinder av lovbestemt taushetsplikt hente inn personopplysninger fra andre enn søkeren eller låntakeren etter denne bestemmelsen, se [utdanningsstøtteloven § 21](lov/2005-06-03-37/§21). Opplysningene kan innhentes elektronisk.
 
-Lånekassen kan hente inn opplysninger om følgende personer:søkeren og søkerens søsken, forsørgere, foreldre, fosterforeldre eller personer med foreldreansvar for søkeren, søkerens barn, ektefelle, samboer og barn av ektefelle eller samboerektefelle eller samboer til noen av søkerens forsørgere eller foreldrereferansepersoner eller familiemedlemmer som søkeren har familieinnvandring med etter [utlendingsloven](lov/2008-05-15-35)andre familiemedlemmer som etter [EØS-avtalen](lov/1992-11-27-109/eøsl) kan gi en søker rett til utdanningsstøtte, eller som kan ha betydning for en søkers tilknytning til Norge ved utdanning i utlandet eller ved nettutdanninglåntakere, låntakeres barn, ektefelle eller samboer og barn av ektefelle eller samboer.
+Lånekassen kan hente inn opplysninger om følgende personer:
+
+1. søkeren og søkerens søsken, forsørgere, foreldre, fosterforeldre eller personer med foreldreansvar for søkeren, søkerens barn, ektefelle, samboer og barn av ektefelle eller samboer
+2. ektefelle eller samboer til noen av søkerens forsørgere eller foreldre
+3. referansepersoner eller familiemedlemmer som søkeren har familieinnvandring med etter [utlendingsloven](lov/2008-05-15-35)
+4. andre familiemedlemmer som etter [EØS-avtalen](lov/1992-11-27-109/eøsl) kan gi en søker rett til utdanningsstøtte, eller som kan ha betydning for en søkers tilknytning til Norge ved utdanning i utlandet eller ved nettutdanning
+5. låntakere, låntakeres barn, ektefelle eller samboer og barn av ektefelle eller samboer.
 
 Lånekassen kan i tillegg hente inn opplysninger om foreldreansvar, vergemål og representant etter [utlendingsloven](lov/2008-05-15-35) for søkere eller låntakere.
 

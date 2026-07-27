@@ -15,7 +15,7 @@ xml_hash: "f422e1de0eb9c6acd0c2f1e76f688783ca903a2c229ce469b01d4720c9aca514"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,9 +30,29 @@ Denne forskrift får anvendelse på petroleumsvirksomhet som nevnt i [lov 29. no
 
 ### § 2. Definisjoner
 
-I denne forskrift forstås med:*departementet,* Det kongelige energidepartement,*loven,* [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet,*offentlig enhet,* enhver juridisk person som de offentlige myndigheter direkte eller indirekte kan utøve avgjørende innflytelse over i kraft av eierforhold, kapitalinteresser eller reglene for den juridiske person. Avgjørende innflytelse skal antas å foreligge når offentlige myndigheter i forhold til en juridisk person enten direkte eller indirekte:eier størstedelen av den juridiske persons tegnede kapital, ellerkontrollerer flertallet av stemmene knyttet til andeler utstedt av den juridiske person, ellerkan utpeke mer enn halvparten av medlemmene i den juridiske persons administrasjons-, ledelses- eller kontrollorgan,*prøveutvinning,* utvinning av petroleum i et begrenset tidsrom før ordinær utvinning. Prøveutvinning er utvinning i den hensikt å fremskaffe kunnskap om en petroleumsforekomsts drivverdighet, produksjonsegenskap eller anvendbar utvinningsteknologi.
+I denne forskrift forstås med:
 
-For avgiftsformål forstås i denne forskrift med:*avskipningspunkt:*ved skipning med skip, skipssiden,ved transport gjennom rørledning, inngangsflensen for ilandføringsrørledning, eller hvis det er installert pumpeanlegg som har til formål å drive petroleum gjennom ilandføringsrørledning, inngangsflensen til slikt pumpeanlegg,*olje,* petroleum som er flytende ved avskipningspunktet,*utvinningsområde,* det området som omfatter de petroleumsforekomster som utvinnes gjennom samme utvinningsopplegg, og som ligger i blokker som er tildelt samme rettighetshaver. Samme utvinningsopplegg kan bestå av en eller flere produksjonsinnretninger som enten har felles eller atskilte prosesserings- eller avskipningsanlegg.*CO2 -strømmer*, massestrømmen av CO2 og eventuelle tilfeldig medfølgende stoffer fra CO2 -fangstprosesser,*Lagringskompleks*, lagringslokalitet og de geologiske omgivelser som kan ha betydning for sikkerheten ved lagringen,*Lagringslokalitet*, et bestemt område innenfor en geologisk formasjon som anvendes til geologisk lagring av CO2 , og tilhørende overflate- og injeksjonsinnretninger,*Undersjøisk reservoar*, en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller stratigrafiske grenser, som har inneholdt petroleum og/eller vann i formasjonen, eller en kombinasjon av disse. Departementet bestemmer i tvilstilfelle hva som skal anses å være et undersjøisk reservoar.
+1. *departementet,* Det kongelige energidepartement,
+2. *loven,* [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet,
+3. *offentlig enhet,* enhver juridisk person som de offentlige myndigheter direkte eller indirekte kan utøve avgjørende innflytelse over i kraft av eierforhold, kapitalinteresser eller reglene for den juridiske person. Avgjørende innflytelse skal antas å foreligge når offentlige myndigheter i forhold til en juridisk person enten direkte eller indirekte:
+
+   - eier størstedelen av den juridiske persons tegnede kapital, eller
+   - kontrollerer flertallet av stemmene knyttet til andeler utstedt av den juridiske person, eller
+   - kan utpeke mer enn halvparten av medlemmene i den juridiske persons administrasjons-, ledelses- eller kontrollorgan,
+4. *prøveutvinning,* utvinning av petroleum i et begrenset tidsrom før ordinær utvinning. Prøveutvinning er utvinning i den hensikt å fremskaffe kunnskap om en petroleumsforekomsts drivverdighet, produksjonsegenskap eller anvendbar utvinningsteknologi.
+
+For avgiftsformål forstås i denne forskrift med:
+
+1. *avskipningspunkt:*
+
+   - ved skipning med skip, skipssiden,
+   - ved transport gjennom rørledning, inngangsflensen for ilandføringsrørledning, eller hvis det er installert pumpeanlegg som har til formål å drive petroleum gjennom ilandføringsrørledning, inngangsflensen til slikt pumpeanlegg,
+2. *olje,* petroleum som er flytende ved avskipningspunktet,
+3. *utvinningsområde,* det området som omfatter de petroleumsforekomster som utvinnes gjennom samme utvinningsopplegg, og som ligger i blokker som er tildelt samme rettighetshaver. Samme utvinningsopplegg kan bestå av en eller flere produksjonsinnretninger som enten har felles eller atskilte prosesserings- eller avskipningsanlegg.
+4. *CO2 -strømmer*, massestrømmen av CO2 og eventuelle tilfeldig medfølgende stoffer fra CO2 -fangstprosesser,
+5. *Lagringskompleks*, lagringslokalitet og de geologiske omgivelser som kan ha betydning for sikkerheten ved lagringen,
+6. *Lagringslokalitet*, et bestemt område innenfor en geologisk formasjon som anvendes til geologisk lagring av CO2 , og tilhørende overflate- og injeksjonsinnretninger,
+7. *Undersjøisk reservoar*, en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller stratigrafiske grenser, som har inneholdt petroleum og/eller vann i formasjonen, eller en kombinasjon av disse. Departementet bestemmer i tvilstilfelle hva som skal anses å være et undersjøisk reservoar.
 
 Lovens definisjoner gjelder for forskriften.
 
@@ -42,7 +62,12 @@ Lovens definisjoner gjelder for forskriften.
 
 ### § 3. Søknad om undersøkelsestillatelse
 
-Søknad om undersøkelsestillatelse etter loven § 2-1 sendes Oljedirektoratet og skal inneholde opplysninger om:søkers navn, adresse og nasjonalitet. Dersom søknaden omfatter flere søkere, skal samtlige navn, adresser og nasjonaliteter oppgis,hvem i Norge som skal være representant overfor myndighetene,hvilket område søknaden omfatter,formålet med og arten av undersøkelsen.
+Søknad om undersøkelsestillatelse etter loven § 2-1 sendes Oljedirektoratet og skal inneholde opplysninger om:
+
+1. søkers navn, adresse og nasjonalitet. Dersom søknaden omfatter flere søkere, skal samtlige navn, adresser og nasjonaliteter oppgis,
+2. hvem i Norge som skal være representant overfor myndighetene,
+3. hvilket område søknaden omfatter,
+4. formålet med og arten av undersøkelsen.
 
 Oljedirektoratet kan kreve tilleggsopplysninger.
 
@@ -70,7 +95,11 @@ Departementet kan endre gebyr i denne bestemmelsen i samsvar med endringer i pen
 
 ### § 6. Meddelelse av opplysninger i forbindelse med undersøkelser mv.
 
-Rettighetshaver skal senest fem uker før aktiviteten etter en undersøkelsestillatelse påbegynnes sende opplysninger til Oljedirektoratet, Fiskeridirektoratet, Havforskningsinstituttet og Forsvaret om:tid, varighet og nøyaktige opplysninger om området for undersøkelsen,undersøkelsesmetoder som skal anvendes,hvilket fartøy som skal benyttes.
+Rettighetshaver skal senest fem uker før aktiviteten etter en undersøkelsestillatelse påbegynnes sende opplysninger til Oljedirektoratet, Fiskeridirektoratet, Havforskningsinstituttet og Forsvaret om:
+
+1. tid, varighet og nøyaktige opplysninger om området for undersøkelsen,
+2. undersøkelsesmetoder som skal anvendes,
+3. hvilket fartøy som skal benyttes.
 
 Oljedirektoratet fastsetter nærmere bestemmelser om innsending av opplysninger i forbindelse med undersøkelser, blant annet om unntak fra fristen i første ledd.
 
@@ -110,7 +139,18 @@ Departementet sender forslag til program på høring til berørte myndigheter og
 
 ### § 6c. Konsekvensutredningen
 
-Konsekvensutredningen skal utarbeides på bakgrunn av fastsatt program, jf. [§ 6b](forskrift/1997-06-27-653/§6b) annet ledd, og skal i innhold, omfang og detaljgrad tilpasses den konkrete saken og, så langt som mulig, basere seg på foreliggende kunnskap og nødvendig oppdatering av denne. Konsekvensutredningen skal beskrive antatte virkninger av åpning av området for petroleumsvirksomhet, forskjellige mulige alternativer for fremtidig petroleumsvirksomhet i området og virkningen av disse og i nødvendig grad inneholde blant annet følgende:beskrivelse av de områder som planlegges åpnet for petroleumsvirksomhet.redegjørelse for forholdet til nasjonale planer som er relevante i forhold til området som planlegges åpnet for petroleumsvirksomhet, samt for relevante miljømål fastsatt gjennom rikspolitiske retningslinjer, nasjonale miljømål, stortingsmeldinger eller lignende, og hvordan disse er tatt hensyn til.beskrivelse av antatte virkninger for sysselsetting og næringsvirksomhet, samt antatte økonomiske og sosiale virkninger av petroleumsvirksomheten.beskrivelse av viktige miljøforhold og naturressurser, herunder en oversikt over gjennomførte kartleggingstiltak.beskrivelse av virkningene av åpning av området for petroleumsvirksomhet for bl.a. dyre- og planteliv, havbunn, vann, luft, klima, landskap, beredskap og ulykkesrisiko og samvirket mellom disse.kort redegjørelse for datagrunnlaget og metoder som er brukt for å beskrive virkningene, og eventuelle faglige eller tekniske problemer ved innsamling og bruk av dataene og metodene.beskrivelse i samsvar med bokstav d) ovenfor av konsekvenser for annen stat som kan bli berørt av tiltaket.vurdering av behovet for, og eventuelt forslag til, nærmere undersøkelser før gjennomføring av planen.vurdering av behovet for, og eventuelt forslag til, undersøkelser og tiltak med sikte på å overvåke og klargjøre de faktiske virkningene av planen og eventuelle tiltak for å begrense og avbøte negative virkninger av vesentlig betydning.en redegjørelse for hva som kan gjøres for å forhindre eller avbøte eventuelle skader og ulemper.
+Konsekvensutredningen skal utarbeides på bakgrunn av fastsatt program, jf. [§ 6b](forskrift/1997-06-27-653/§6b) annet ledd, og skal i innhold, omfang og detaljgrad tilpasses den konkrete saken og, så langt som mulig, basere seg på foreliggende kunnskap og nødvendig oppdatering av denne. Konsekvensutredningen skal beskrive antatte virkninger av åpning av området for petroleumsvirksomhet, forskjellige mulige alternativer for fremtidig petroleumsvirksomhet i området og virkningen av disse og i nødvendig grad inneholde blant annet følgende:
+
+1. beskrivelse av de områder som planlegges åpnet for petroleumsvirksomhet.
+2. redegjørelse for forholdet til nasjonale planer som er relevante i forhold til området som planlegges åpnet for petroleumsvirksomhet, samt for relevante miljømål fastsatt gjennom rikspolitiske retningslinjer, nasjonale miljømål, stortingsmeldinger eller lignende, og hvordan disse er tatt hensyn til.
+3. beskrivelse av antatte virkninger for sysselsetting og næringsvirksomhet, samt antatte økonomiske og sosiale virkninger av petroleumsvirksomheten.
+4. beskrivelse av viktige miljøforhold og naturressurser, herunder en oversikt over gjennomførte kartleggingstiltak.
+5. beskrivelse av virkningene av åpning av området for petroleumsvirksomhet for bl.a. dyre- og planteliv, havbunn, vann, luft, klima, landskap, beredskap og ulykkesrisiko og samvirket mellom disse.
+6. kort redegjørelse for datagrunnlaget og metoder som er brukt for å beskrive virkningene, og eventuelle faglige eller tekniske problemer ved innsamling og bruk av dataene og metodene.
+7. beskrivelse i samsvar med bokstav d) ovenfor av konsekvenser for annen stat som kan bli berørt av tiltaket.
+8. vurdering av behovet for, og eventuelt forslag til, nærmere undersøkelser før gjennomføring av planen.
+9. vurdering av behovet for, og eventuelt forslag til, undersøkelser og tiltak med sikte på å overvåke og klargjøre de faktiske virkningene av planen og eventuelle tiltak for å begrense og avbøte negative virkninger av vesentlig betydning.
+10. en redegjørelse for hva som kan gjøres for å forhindre eller avbøte eventuelle skader og ulemper.
 
 Konsekvensutredningen skal inneholde nødvendige illustrasjoner og kartmateriale, samt et sammendrag.
 
@@ -140,7 +180,18 @@ Tildelingskriteriene nevnt i denne forskriften [§ 10](forskrift/1997-06-27-653/
 
 ### § 8. Søknad om utvinningstillatelse
 
-Søknad om utvinningstillatelse sendes departementet med kopi til Sokkeldirektoratet. Søknaden skal inneholde:søkerens navn, adresse og nasjonalitet samt angivelse av om søkeren er en fysisk eller juridisk person,angivelse av hvem i Norge som skal være representant overfor myndighetene,angivelse av det eller de områder det søkes om utvinningstillatelse for,angivelse av søkerens prioritering av områdene, såfremt det søkes om tillatelse for flere områder,opplysninger om søkerens virksomhet, herunder finansiell kapasitet,en geologisk evaluering av det eller de områder det søkes om utvinningstillatelse for, og hvordan en effektiv petroleumsvirksomhet planlegges her,en økonomisk evaluering av det eller de områder det søkes om utvinningstillatelse for,opplysninger om erfaring og teknisk kompetanse av betydning for det eller de områder det søkes om utvinningstillatelse for,beskrivelse av den organisasjon og kompetanse søkeren vil ha til rådighet i Norge og andre steder for aktivitet i forbindelse med det eller de områder det søkes om utvinningstillatelse for,kvittering for innbetalt behandlingsgebyr.
+Søknad om utvinningstillatelse sendes departementet med kopi til Sokkeldirektoratet. Søknaden skal inneholde:
+
+1. søkerens navn, adresse og nasjonalitet samt angivelse av om søkeren er en fysisk eller juridisk person,
+2. angivelse av hvem i Norge som skal være representant overfor myndighetene,
+3. angivelse av det eller de områder det søkes om utvinningstillatelse for,
+4. angivelse av søkerens prioritering av områdene, såfremt det søkes om tillatelse for flere områder,
+5. opplysninger om søkerens virksomhet, herunder finansiell kapasitet,
+6. en geologisk evaluering av det eller de områder det søkes om utvinningstillatelse for, og hvordan en effektiv petroleumsvirksomhet planlegges her,
+7. en økonomisk evaluering av det eller de områder det søkes om utvinningstillatelse for,
+8. opplysninger om erfaring og teknisk kompetanse av betydning for det eller de områder det søkes om utvinningstillatelse for,
+9. beskrivelse av den organisasjon og kompetanse søkeren vil ha til rådighet i Norge og andre steder for aktivitet i forbindelse med det eller de områder det søkes om utvinningstillatelse for,
+10. kvittering for innbetalt behandlingsgebyr.
 
 Departementet kan fravike kravet til innhold i søknaden etter første ledd, herunder kreve ytterligere opplysninger.
 
@@ -186,7 +237,10 @@ Denne paragraf får bare anvendelse for utvinningstillatelser som er tildelt ett
 
 Kongen kan utpeke en juridisk person som forretningsfører for den direkte statlige deltakelse som nevnt i loven § 3-6.
 
-Følgende prinsipper skal gjelde for beslutningsprosessen i utvinningstillatelsen:den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse skal utøve sin stemmerett på grunnlag av synlige, objektive og ikke-diskriminerende kriterier. Stemmerettsutøvelsen skal ikke være til hinder for at avgjørelser kan fattes på grunnlag av alminnelige forretningsmessige prinsipper.den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse kan stemme fullt ut for sin andel i alle saker med følgende unntak: den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse skal ikke få opplysninger om eller ha stemmerett ved avgjørelser om leverandører til virksomheten som er omfattet av denne forskriften. Den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse skal ikke sammen med en eller flere offentlige enheter utgjøre stemmerettsflertall i andre avgjørelser.
+Følgende prinsipper skal gjelde for beslutningsprosessen i utvinningstillatelsen:
+
+1. den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse skal utøve sin stemmerett på grunnlag av synlige, objektive og ikke-diskriminerende kriterier. Stemmerettsutøvelsen skal ikke være til hinder for at avgjørelser kan fattes på grunnlag av alminnelige forretningsmessige prinsipper.
+2. den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse kan stemme fullt ut for sin andel i alle saker med følgende unntak: den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse skal ikke få opplysninger om eller ha stemmerett ved avgjørelser om leverandører til virksomheten som er omfattet av denne forskriften. Den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse skal ikke sammen med en eller flere offentlige enheter utgjøre stemmerettsflertall i andre avgjørelser.
 
 Bestemmelsen i annet ledd bokstav b) er ikke til hinder for at den statlige deltaker eller forretningsføreren for den direkte statlige deltakelse motsetter seg vedtak fattet av rettighetshaver som ikke ville overholde de vilkår og krav som er angitt i utvinningstillatelsen når det gjelder statens utvinningspolitikk eller statens finansielle interesser.
 
@@ -240,7 +294,16 @@ Rettighetshaver skal skriftlig underrette departementet senest to år etter at s
 
 ### § 18. Prøveutvinning
 
-Søknad om prøveutvinning jf. loven § 4-4 femte ledd, skal som hovedregel inneholde:beskrivelse av formålet med prøveutvinningen,beskrivelse av geologiske og reservoartekniske forhold,prøveutvinningsprogram,beskrivelse av innretninger som skal benyttes,beskrivelse av utstyr for måling av petroleum, herunder fiskal kvantumsmåling,oversikt over kostnader,beskrivelse av overordnede sikkerhetsmessige forhold,beskrivelse av miljømessige konsekvenser.
+Søknad om prøveutvinning jf. loven § 4-4 femte ledd, skal som hovedregel inneholde:
+
+1. beskrivelse av formålet med prøveutvinningen,
+2. beskrivelse av geologiske og reservoartekniske forhold,
+3. prøveutvinningsprogram,
+4. beskrivelse av innretninger som skal benyttes,
+5. beskrivelse av utstyr for måling av petroleum, herunder fiskal kvantumsmåling,
+6. oversikt over kostnader,
+7. beskrivelse av overordnede sikkerhetsmessige forhold,
+8. beskrivelse av miljømessige konsekvenser.
 
 Søknaden sendes departementet med kopi til Sokkeldirektoratet. Dersom innretning skal plasseres på land eller sjøgrunn undergitt privat eiendomsrett sendes også kopi til Havindustritilsynet.
 
@@ -272,7 +335,27 @@ Ved vesentlige endringer i eller avvik fra planen skal det gis melding til depar
 
 Beskrivelsen av utbyggingen med tilhørende dokumentasjon skal tilpasses utbyggingens omfang. Beskrivelsen skal redegjøre for økonomiske, ressursmessige, tekniske og miljø- og sikkerhetsmessige forhold ved utbyggingen.
 
-Beskrivelsen av utbyggingen skal i nødvendig utstrekning inneholde:beskrivelse av utvinningsstrategi og utbyggingsløsning, samt kriterier for de valg som er gjort, eventuell beskrivelse av påfølgende utbyggingstrinn, tilknytning til andre felt, og eventuell samordning av petroleumsvirksomhet,beskrivelse av geofaglige og reservoartekniske forhold, samt produksjonsforløp,beskrivelse av tekniske løsninger, herunder løsninger for å forebygge og minimalisere miljøskadelige utslipp,opplysninger om styringssystemer, herunder opplysninger om planlegging, organisering og gjennomføring av utbyggingen,opplysninger om drift og vedlikehold,opplysninger om økonomiske forhold,opplysninger om hvilke tillatelser, godkjennelser eller samtykker det er søkt om eller det planlegges søkt om etter ellers gjeldende lovgivning, dersom innretning skal plasseres på landterritoriet eller sjøgrunn undergitt privat eiendomsrett,opplysninger om hvordan innretningene vil kunne disponeres ved avslutning av petroleumsvirksomheten,opplysninger om innretninger for transport eller utnyttelse som omfattes av loven § 4-3,opplysninger om avsetningsløsning for gass,beskrivelse av tekniske tiltak for beredskap,opplysninger om andre forhold som er av betydning for ressursforvaltningen,andre opplysninger som kreves etter de til enhver tid gjeldende sikkerhetsforskrifter.Hvis utbyggingen omfatter fangst, transport og lagring av CO2 :en karakterisering av lagringslokaliteten og lagringskomplekset og en vurdering av forventet sikkerhet for lagring,forslag til overvåkningsplan, jf. vedlegg II til denne forskrift,forslag til plan for utbedrende tiltak ved vesentlige uregelmessigheter, jf. [§ 30g](forskrift/1997-06-27-653/§30g) første ledd b),forslag til foreløpig plan for etterdrift, jf. [§ 30j](forskrift/1997-06-27-653/§30j) og vedlegg II til denne forskrift.
+Beskrivelsen av utbyggingen skal i nødvendig utstrekning inneholde:
+
+1. beskrivelse av utvinningsstrategi og utbyggingsløsning, samt kriterier for de valg som er gjort, eventuell beskrivelse av påfølgende utbyggingstrinn, tilknytning til andre felt, og eventuell samordning av petroleumsvirksomhet,
+2. beskrivelse av geofaglige og reservoartekniske forhold, samt produksjonsforløp,
+3. beskrivelse av tekniske løsninger, herunder løsninger for å forebygge og minimalisere miljøskadelige utslipp,
+4. opplysninger om styringssystemer, herunder opplysninger om planlegging, organisering og gjennomføring av utbyggingen,
+5. opplysninger om drift og vedlikehold,
+6. opplysninger om økonomiske forhold,
+7. opplysninger om hvilke tillatelser, godkjennelser eller samtykker det er søkt om eller det planlegges søkt om etter ellers gjeldende lovgivning, dersom innretning skal plasseres på landterritoriet eller sjøgrunn undergitt privat eiendomsrett,
+8. opplysninger om hvordan innretningene vil kunne disponeres ved avslutning av petroleumsvirksomheten,
+9. opplysninger om innretninger for transport eller utnyttelse som omfattes av loven § 4-3,
+10. opplysninger om avsetningsløsning for gass,
+11. beskrivelse av tekniske tiltak for beredskap,
+12. opplysninger om andre forhold som er av betydning for ressursforvaltningen,
+13. andre opplysninger som kreves etter de til enhver tid gjeldende sikkerhetsforskrifter.
+14. Hvis utbyggingen omfatter fangst, transport og lagring av CO2 :
+
+    - en karakterisering av lagringslokaliteten og lagringskomplekset og en vurdering av forventet sikkerhet for lagring,
+    - forslag til overvåkningsplan, jf. vedlegg II til denne forskrift,
+    - forslag til plan for utbedrende tiltak ved vesentlige uregelmessigheter, jf. [§ 30g](forskrift/1997-06-27-653/§30g) første ledd b),
+    - forslag til foreløpig plan for etterdrift, jf. [§ 30j](forskrift/1997-06-27-653/§30j) og vedlegg II til denne forskrift.
 
 Departementet kan kreve alternative løsninger utredet.
 
@@ -290,7 +373,22 @@ Rettighetshaver sender forslaget til utredningsprogram til uttalelse til berørt
 
 ### § 22a. Konsekvensutredning i plan for utbygging og drift av en petroleumsforekomst
 
-En konsekvensutredning i en plan for utbygging og drift av en petroleumsforekomst skal redegjøre for virkningene utbyggingen kan ha for næringsmessige forhold og miljømessige forhold, herunder forebyggende og avbøtende tiltak. Konsekvensutredningen skal blant annet:beskrive alternative utbyggingsløsninger som rettighetshaver har undersøkt og begrunne valg av utbyggingsløsning og utvinningsstrategi, redegjøre for kriteriene for det valg som er gjort, samt beskrive eventuelle påfølgende utbyggingstrinn, tilknytning til andre felt og landanlegg og eventuell samordning av petroleumsvirksomhet,beskrive det miljø som i vesentlig grad kan bli berørt, og vurdere og avveie miljøkonsekvenser av utbyggingen, herunder:beskrive utslipp til sjø, luft og jord,beskrive eventuelle materielle verdier og kulturminner som kan bli berørt som følge av utbyggingen,vurdere konsekvensene av de tekniske løsninger som er valgt,klargjøre hvordan miljøkriterier og -konsekvenser har vært lagt til grunn for de tekniske løsninger som er valgt,beskrive mulige og planlagte tiltak for å hindre, redusere og om mulig oppveie betydelige negative miljøvirkninger,vurdere hvilke tillatelser, godkjennelser eller samtykker det skal søkes om etter ellers gjeldende lovgivning, dersom innretning skal plasseres på landterritoriet, sjøgrunn undergitt privat eiendomsrett, indre farvann eller sjøterritoriet,vurdere hvordan innretningene vil kunne disponeres ved avslutning av petroleumsvirksomheten,vurdere innretninger for transport eller utnyttelse som omfattes av loven § 4-3,vurdere tekniske tiltak for beredskap,vurdere hvordan miljøovervåkning i området kan gjennomføres,ha et sammendrag av ovennevnte punkter.
+En konsekvensutredning i en plan for utbygging og drift av en petroleumsforekomst skal redegjøre for virkningene utbyggingen kan ha for næringsmessige forhold og miljømessige forhold, herunder forebyggende og avbøtende tiltak. Konsekvensutredningen skal blant annet:
+
+1. beskrive alternative utbyggingsløsninger som rettighetshaver har undersøkt og begrunne valg av utbyggingsløsning og utvinningsstrategi, redegjøre for kriteriene for det valg som er gjort, samt beskrive eventuelle påfølgende utbyggingstrinn, tilknytning til andre felt og landanlegg og eventuell samordning av petroleumsvirksomhet,
+2. beskrive det miljø som i vesentlig grad kan bli berørt, og vurdere og avveie miljøkonsekvenser av utbyggingen, herunder:
+
+   - beskrive utslipp til sjø, luft og jord,
+   - beskrive eventuelle materielle verdier og kulturminner som kan bli berørt som følge av utbyggingen,
+   - vurdere konsekvensene av de tekniske løsninger som er valgt,
+   - klargjøre hvordan miljøkriterier og -konsekvenser har vært lagt til grunn for de tekniske løsninger som er valgt,
+   - beskrive mulige og planlagte tiltak for å hindre, redusere og om mulig oppveie betydelige negative miljøvirkninger,
+3. vurdere hvilke tillatelser, godkjennelser eller samtykker det skal søkes om etter ellers gjeldende lovgivning, dersom innretning skal plasseres på landterritoriet, sjøgrunn undergitt privat eiendomsrett, indre farvann eller sjøterritoriet,
+4. vurdere hvordan innretningene vil kunne disponeres ved avslutning av petroleumsvirksomheten,
+5. vurdere innretninger for transport eller utnyttelse som omfattes av loven § 4-3,
+6. vurdere tekniske tiltak for beredskap,
+7. vurdere hvordan miljøovervåkning i området kan gjennomføres,
+8. ha et sammendrag av ovennevnte punkter.
 
 Konsekvensutredningen skal utarbeides på grunnlag av utredningsprogrammet som er fastsatt i medhold av [§ 22](forskrift/1997-06-27-653/§22) og tilpasses utbyggingens omfang og i hvilken grad utbyggingen anses omfattet av en konsekvensutredning for et større samlet område. Konsekvensutredningen skal sendes departementet senest samtidig med en beskrivelse av utbyggingen. I områder der flere felt skal bygges ut, vil rettighetshaver i samsvar med loven § 4-2 tredje ledd kunne utarbeide en konsekvensutredning for et større samlet område. For utbygginger som også skal konsekvensutredes etter annen lovgivning, kan det utarbeides en felles konsekvensutredning.
 
@@ -368,9 +466,17 @@ Prosessanleggene skal overvåkes på en slik måte at en optimal drift av anlegg
 
 Søknad om tillatelse til anlegg og drift av innretninger som nevnt i [loven § 4-3](lov/1996-11-29-72/§4-3) første ledd skal omfatte en plan som skal inneholde beskrivelse av prosjektet og en konsekvensutredning. Uttalelser til konsekvensutredningen tas med i vurderingen ved godkjennelse av plan for anlegg og drift. Søknaden skal sendes departementet med kopi til Sokkeldirektoratet og Havindustritilsynet. Dersom en søknad fremmes av andre enn rettighetshaver etter en utvinningstillatelse, kommer bestemmelsene i § 8 til anvendelse så langt de passer.
 
-For tillatelse til anlegg og drift av innretninger som nevnt i loven § 4-3 første ledd kan departementet sette vilkår, bl.a. vedrørende:eierforholdet til innretningen,rørledningens bestemmelsessted,rørledningens trasé, dimensjon og transportkapasitet.
+For tillatelse til anlegg og drift av innretninger som nevnt i loven § 4-3 første ledd kan departementet sette vilkår, bl.a. vedrørende:
 
-Departementet kan ved tildeling av tillatelse til anlegg og drift av innretninger som nevnt i loven § 4-3 første ledd og senere:fastsette tariffer for bruk av innretningen for eierens egen og for annen petroleum,gi pålegg om at innretningen skal tilknyttes andre innretninger, at kapasiteten skal økes og at innretningen skal ombygges for å kunne benyttes for andre typer petroleum enn den opprinnelig er bygget for. Pålegg som nevnt må ikke fordyre eller i urimelig grad vanskeliggjøre bruk av innretningen som er sikret etter godkjennelse av departementet. Kostnadene ved gjennomføring av pålegg som nevnt, skal etter departementets nærmere bestemmelse dekkes av den eller de som pålegg er gitt til fordel for eller tas i betraktning ved fastsettelse av tariff,bestemme hvilken petroleum som skal transporteres i rørledning, dog kan det ikke bestemmes at petroleum skal transporteres til fortrengsel for petroleum som er sikret transport i rørledning etter godkjennelse av departementet.
+1. eierforholdet til innretningen,
+2. rørledningens bestemmelsessted,
+3. rørledningens trasé, dimensjon og transportkapasitet.
+
+Departementet kan ved tildeling av tillatelse til anlegg og drift av innretninger som nevnt i loven § 4-3 første ledd og senere:
+
+1. fastsette tariffer for bruk av innretningen for eierens egen og for annen petroleum,
+2. gi pålegg om at innretningen skal tilknyttes andre innretninger, at kapasiteten skal økes og at innretningen skal ombygges for å kunne benyttes for andre typer petroleum enn den opprinnelig er bygget for. Pålegg som nevnt må ikke fordyre eller i urimelig grad vanskeliggjøre bruk av innretningen som er sikret etter godkjennelse av departementet. Kostnadene ved gjennomføring av pålegg som nevnt, skal etter departementets nærmere bestemmelse dekkes av den eller de som pålegg er gitt til fordel for eller tas i betraktning ved fastsettelse av tariff,
+3. bestemme hvilken petroleum som skal transporteres i rørledning, dog kan det ikke bestemmes at petroleum skal transporteres til fortrengsel for petroleum som er sikret transport i rørledning etter godkjennelse av departementet.
 
 > Endret ved forskrifter [4 juni 1999 nr. 571](forskrift/1999-06-04-571), [20 jan 2006 nr. 49](forskrift/2006-01-20-49), [9 jan 2020 nr. 28](forskrift/2020-01-09-28) (i kraft 1 feb 2020), [23 des 2022 nr. 2503](forskrift/2022-12-23-2503) (i kraft 1 jan 2023), [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 
@@ -378,7 +484,19 @@ Departementet kan ved tildeling av tillatelse til anlegg og drift av innretninge
 
 Plan for anlegg og drift av innretninger som nevnt i loven § 4-3 første ledd skal redegjøre for økonomiske, ressursmessige, tekniske og miljø- og sikkerhetsmessige forhold ved prosjektet. Dokumentasjon skal tilpasses prosjektets omfang.
 
-Plan for anlegg og drift av innretninger som nevnt i loven § 4-3 første ledd skal i nødvendig utstrekning inneholde:opplysninger om rørledningens bestemmelsessted, trasé, dimensjon og transportkapasitet, samt kriterier for de valg som er gjort,opplysninger om eierforholdet til innretningen,beskrivelse av tekniske løsninger, herunder løsninger for å forebygge og minimalisere miljøskadelige utslipp,opplysninger om styringssystemer, herunder opplysninger om planlegging, organisering og gjennomføring av utbyggingen,opplysninger om drift og vedlikehold,opplysninger om økonomiske forhold,opplysninger om hvilke tillatelser, godkjennelser eller samtykker det er søkt om eller det planlegges søkt om etter ellers gjeldende lovgivning, dersom en innretning skal plasseres på landterritoriet eller sjøgrunn undergitt privat eiendomsrett,opplysninger om hvordan innretningene vil kunne disponeres ved avslutning av petroleumsvirksomheten,beskrivelse av tekniske tiltak for beredskap,opplysninger om andre forhold som er av betydning for ressursforvaltningen,andre opplysninger som kreves etter de til enhver tid gjeldende sikkerhetsforskrifter.
+Plan for anlegg og drift av innretninger som nevnt i loven § 4-3 første ledd skal i nødvendig utstrekning inneholde:
+
+1. opplysninger om rørledningens bestemmelsessted, trasé, dimensjon og transportkapasitet, samt kriterier for de valg som er gjort,
+2. opplysninger om eierforholdet til innretningen,
+3. beskrivelse av tekniske løsninger, herunder løsninger for å forebygge og minimalisere miljøskadelige utslipp,
+4. opplysninger om styringssystemer, herunder opplysninger om planlegging, organisering og gjennomføring av utbyggingen,
+5. opplysninger om drift og vedlikehold,
+6. opplysninger om økonomiske forhold,
+7. opplysninger om hvilke tillatelser, godkjennelser eller samtykker det er søkt om eller det planlegges søkt om etter ellers gjeldende lovgivning, dersom en innretning skal plasseres på landterritoriet eller sjøgrunn undergitt privat eiendomsrett,
+8. opplysninger om hvordan innretningene vil kunne disponeres ved avslutning av petroleumsvirksomheten,
+9. beskrivelse av tekniske tiltak for beredskap,
+10. opplysninger om andre forhold som er av betydning for ressursforvaltningen,
+11. andre opplysninger som kreves etter de til enhver tid gjeldende sikkerhetsforskrifter.
 
 Departementet kan fravike kravet til dokumentasjon etter første ledd, herunder kreve alternative løsninger utredet.
 
@@ -390,7 +508,13 @@ Loven § 4-2, tredje, fjerde, sjette og syvende ledd gjelder tilsvarende for pla
 
 ### § 30. Traséundersøkelser og andre grunnundersøkelser
 
-Rettighetshaver skal senest fem uker før traséundersøkelser og andre grunnundersøkelser påbegynnes sende opplysninger til Sokkeldirektoratet, Fiskeridirektoratet, Havforskningsinstituttet og Forsvaret om:formålet med undersøkelsene,tid, varighet og sted for undersøkelsene,undersøkelsesmetoder,hvilket fartøy som skal benyttes,hvor dypt det eventuelt skal bores.
+Rettighetshaver skal senest fem uker før traséundersøkelser og andre grunnundersøkelser påbegynnes sende opplysninger til Sokkeldirektoratet, Fiskeridirektoratet, Havforskningsinstituttet og Forsvaret om:
+
+1. formålet med undersøkelsene,
+2. tid, varighet og sted for undersøkelsene,
+3. undersøkelsesmetoder,
+4. hvilket fartøy som skal benyttes,
+5. hvor dypt det eventuelt skal bores.
 
 Sokkeldirektoratet fastsetter nærmere bestemmelser om innsending av opplysninger i forbindelse med traséundersøkelser og andre grunnundersøkelser, blant annet om unntak fra fristen i første ledd.
 
@@ -404,7 +528,11 @@ Ved traséundersøkelser og andre grunnundersøkelser kan det ikke bores dypere 
 
 Før rettighetshaver kan utøve petroleumsvirksomhet som nevnt i punkt a) til c) nedenfor, kreves samtykke til oppstart eller videreføring fra Energidepartementet eller den det bemyndiger.
 
-Samtykke som nevnt i første ledd må være innhentet:før en innretning eller deler av den tas i bruk første gang,før en innretning eller deler av den tas i bruk etter gjennomføring av større ombygginger eller modifikasjoner, eller før endring av bruksformål som ikke er omfattet av godkjent plan for utbygging og drift eller tillatelse til anlegg og drift av innretninger eller vedtak om disponering, jf. loven § 4-2 og § 4-3,før bruk av innretning utover den levetiden og de forutsetningene som er lagt til grunn for godkjennelse av plan for utbygging og drift eller tillatelse til anlegg og drift av innretninger eller vedtak om disponering, jf. loven § 4-2, § 4-3 og § 5-3.
+Samtykke som nevnt i første ledd må være innhentet:
+
+1. før en innretning eller deler av den tas i bruk første gang,
+2. før en innretning eller deler av den tas i bruk etter gjennomføring av større ombygginger eller modifikasjoner, eller før endring av bruksformål som ikke er omfattet av godkjent plan for utbygging og drift eller tillatelse til anlegg og drift av innretninger eller vedtak om disponering, jf. loven § 4-2 og § 4-3,
+3. før bruk av innretning utover den levetiden og de forutsetningene som er lagt til grunn for godkjennelse av plan for utbygging og drift eller tillatelse til anlegg og drift av innretninger eller vedtak om disponering, jf. loven § 4-2, § 4-3 og § 5-3.
 
 > Tilføyd ved [forskrift 20 jan 2006 nr. 49](forskrift/2006-01-20-49).
 
@@ -442,7 +570,15 @@ Før oppstart av injeksjon og lagring av CO2 i undersjøisk reservoar, må retti
 
 Samtykket til injeksjon og lagring av CO2 skal være kompatibelt med lagringstillatelse gitt av forurensningsmyndigheten i medhold av forskrift [1. juni 2004 nr. 931](forskrift/2004-06-01-931) om begrensning av forurensning (forurensningsforskriften) [kapittel 35](forskrift/2004-06-01-931/kap35). Det samme gjelder enhver senere endring av, unntak fra eller tillegg til slikt samtykke.
 
-Søknad om samtykke til injeksjon og lagring av CO2 skal inneholde:lagringslokalitetens og lagringskompleksets område og avgrensning, samt informasjon om det undersjøiske geologiske reservoar, herunder den hydrauliske enhet som samtykket til injeksjon og lagring skal gjelde for,injeksjonsoperasjonen, den mengde CO2 som kan injiseres, grenseverdier for reservoartrykket og grenseverdier for injeksjonsrater og -trykk,volumer og grenseverdier for trykkoppbygging,operatørens overvåkningsplan jf. vedlegg II til denne forskrift,måling av CO2 -injeksjonsrater,planer for eventuelle korrigerende tiltak,plan for nedstenging og etterdrift.
+Søknad om samtykke til injeksjon og lagring av CO2 skal inneholde:
+
+1. lagringslokalitetens og lagringskompleksets område og avgrensning, samt informasjon om det undersjøiske geologiske reservoar, herunder den hydrauliske enhet som samtykket til injeksjon og lagring skal gjelde for,
+2. injeksjonsoperasjonen, den mengde CO2 som kan injiseres, grenseverdier for reservoartrykket og grenseverdier for injeksjonsrater og -trykk,
+3. volumer og grenseverdier for trykkoppbygging,
+4. operatørens overvåkningsplan jf. vedlegg II til denne forskrift,
+5. måling av CO2 -injeksjonsrater,
+6. planer for eventuelle korrigerende tiltak,
+7. plan for nedstenging og etterdrift.
 
 Energidepartementet eller den det bemyndiger skal underrettes ved lekkasje eller vesentlige uregelmessigheter.
 
@@ -450,13 +586,23 @@ Energidepartementet eller den det bemyndiger skal underrettes ved lekkasje eller
 
 ### § 30f. Vilkår for samtykke til injeksjon og lagring av CO2
 
-Et samtykke til injeksjon og lagring av CO2 er betinget av at følgende vilkår er oppfylt:alle relevante krav i denne forskrift er oppfylt,rettighetshaver har den finansielle styrke, tekniske kompetanse og pålitelighet som anses påkrevet for å operere og kontrollere lagringslokaliteten, og alle kvalitetskrav til rettighetshaver og hans organisasjon er oppfylt,potensielle gjensidige trykkpåvirkninger mellom lagringslokaliteter i samme hydrauliske enhet er av en slik karakter at denne forskriftens krav kan oppfylles for begge lokaliteter samtidig.
+Et samtykke til injeksjon og lagring av CO2 er betinget av at følgende vilkår er oppfylt:
+
+1. alle relevante krav i denne forskrift er oppfylt,
+2. rettighetshaver har den finansielle styrke, tekniske kompetanse og pålitelighet som anses påkrevet for å operere og kontrollere lagringslokaliteten, og alle kvalitetskrav til rettighetshaver og hans organisasjon er oppfylt,
+3. potensielle gjensidige trykkpåvirkninger mellom lagringslokaliteter i samme hydrauliske enhet er av en slik karakter at denne forskriftens krav kan oppfylles for begge lokaliteter samtidig.
 
 > Tilføyd ved [forskrift 5 des 2014 nr. 1518](forskrift/2014-12-05-1518).
 
 ### § 30g. Overvåkning
 
-Operatøren skal overvåke injeksjonsanleggene og lagringskomplekset, inklusive CO2 -utbredelsen for å:sammenligne den faktiske og modellerte oppførselen til CO2 og formasjonsvannet i lagringslokaliteten,identifisere vesentlige uregelmessigheter,følge migrasjon av CO2 ,oppdage lekkasje av CO2 fra lagringskomplekset,oppdatere vurderingen av lagringskompleksets sikkerhet og integritet på kort og lang sikt, herunder om den lagrede CO2 vil forblir sikkert lagret.
+Operatøren skal overvåke injeksjonsanleggene og lagringskomplekset, inklusive CO2 -utbredelsen for å:
+
+1. sammenligne den faktiske og modellerte oppførselen til CO2 og formasjonsvannet i lagringslokaliteten,
+2. identifisere vesentlige uregelmessigheter,
+3. følge migrasjon av CO2 ,
+4. oppdage lekkasje av CO2 fra lagringskomplekset,
+5. oppdatere vurderingen av lagringskompleksets sikkerhet og integritet på kort og lang sikt, herunder om den lagrede CO2 vil forblir sikkert lagret.
 
 Overvåkningen skal foretas på grunnlag av en overvåkningsplan utarbeidet av operatøren i samsvar med kravene i vedlegg II til denne forskrift, og som departementet har samtykket til i medhold av [§ 30e](forskrift/1997-06-27-653/§30e).
 
@@ -484,7 +630,10 @@ Hvis operatøren ikke iverksetter de nødvendige utbedrende tiltak, skal departe
 
 ### § 30j. Nedstengning og etterdrift
 
-En lagringslokalitet skal nedstenges dersom:betingelsene som oppstilles for nedstengning i lagringstillatelsen gitt av forurensningsmyndigheten i medhold av forskrift [1. juni 2004 nr. 931](forskrift/2004-06-01-931) om begrensning av forurensning (forurensningsforskriften) [kapittel 35](forskrift/2004-06-01-931/kap35) og i samtykket til injeksjon og lagring er oppfylt,Kongen samtykker i nedstengning på grunnlag av søknad fra operatøren.
+En lagringslokalitet skal nedstenges dersom:
+
+1. betingelsene som oppstilles for nedstengning i lagringstillatelsen gitt av forurensningsmyndigheten i medhold av forskrift [1. juni 2004 nr. 931](forskrift/2004-06-01-931) om begrensning av forurensning (forurensningsforskriften) [kapittel 35](forskrift/2004-06-01-931/kap35) og i samtykket til injeksjon og lagring er oppfylt,
+2. Kongen samtykker i nedstengning på grunnlag av søknad fra operatøren.
 
 Etter nedstengning av en lagringslokalitet i medhold av første ledd bokstav a) eller b) og frem til ansvaret for lagringslokaliteten overdras til staten v/Energidepartementet i medhold av [§ 30k](forskrift/1997-06-27-653/§30k) første og sjette ledd, er operatøren fortsatt ansvarlig for overvåkning, rapportering og iverksettelse av utbedrende tiltak i samsvar med bestemmelsene i denne forskrift. Operatøren er også ansvarlig for å forsegle lagringslokaliteten og fjerne injeksjonsanleggene.
 
@@ -496,9 +645,18 @@ Før nedstengning av en lagringslokalitet i medhold av første ledd bokstav a) o
 
 ### § 30k. Ansvarsoverføring
 
-Etter nedstengning av en lagringslokalitet i medhold av [§ 30 j](forskrift/1997-06-27-653/§30j) første ledd bokstav a) eller b), skal alle forpliktelser vedrørende overvåkning og utbedrende tiltak i medhold av denne forskrift overføres til staten v/Energidepartementet eller den det bemyndiger, enten på eget initiativ eller etter søknad fra operatøren, såfremt følgende vilkår er oppfylt:alle tilgjengelige opplysninger peker i retning av at den lagrede CO2 vil forbli fullstendig og permanent innesluttet. Operatøren må blant annet kunne dokumentere at den faktiske oppførsel av injisert CO2 stemmer overens med den modellerte oppførsel, at det ikke kan påvises lekkasje og at lagringslokaliteten utvikler seg mot en tilstand av varig stabilitet,en minimumsperiode fastsatt av departementet eller den det bemyndiger er utløpt. Denne minimumsperioden skal ikke være kortere enn 20 år, med mindre departementet eller den det bemyndiger etter søknad fra operatøren før eller på dette tidspunkt er overbevist om at kravet i bokstav a) er oppfylt før utløpet av denne perioden,de finansielle krav nevnt i [§ 30 m](forskrift/1997-06-27-653/§30m) er oppfylt,lagringslokaliteten er forsvarlig forlatt og injeksjonsanleggene fjernet.
+Etter nedstengning av en lagringslokalitet i medhold av [§ 30 j](forskrift/1997-06-27-653/§30j) første ledd bokstav a) eller b), skal alle forpliktelser vedrørende overvåkning og utbedrende tiltak i medhold av denne forskrift overføres til staten v/Energidepartementet eller den det bemyndiger, enten på eget initiativ eller etter søknad fra operatøren, såfremt følgende vilkår er oppfylt:
 
-Operatøren skal utarbeide en rapport som dokumenterer at vilkåret i første ledd bokstav a) er oppfylt og fremlegge denne for departementet eller den det bemyndiger. Rapporten skal minst viseat den injiserte CO2 faktisk oppfører seg i samsvar med den modellerte oppførselen,at ingen lekkasje kan påvises,at lagringsstedet utvikles i retning av en tilstand av langsiktig stabilitet.
+1. alle tilgjengelige opplysninger peker i retning av at den lagrede CO2 vil forbli fullstendig og permanent innesluttet. Operatøren må blant annet kunne dokumentere at den faktiske oppførsel av injisert CO2 stemmer overens med den modellerte oppførsel, at det ikke kan påvises lekkasje og at lagringslokaliteten utvikler seg mot en tilstand av varig stabilitet,
+2. en minimumsperiode fastsatt av departementet eller den det bemyndiger er utløpt. Denne minimumsperioden skal ikke være kortere enn 20 år, med mindre departementet eller den det bemyndiger etter søknad fra operatøren før eller på dette tidspunkt er overbevist om at kravet i bokstav a) er oppfylt før utløpet av denne perioden,
+3. de finansielle krav nevnt i [§ 30 m](forskrift/1997-06-27-653/§30m) er oppfylt,
+4. lagringslokaliteten er forsvarlig forlatt og injeksjonsanleggene fjernet.
+
+Operatøren skal utarbeide en rapport som dokumenterer at vilkåret i første ledd bokstav a) er oppfylt og fremlegge denne for departementet eller den det bemyndiger. Rapporten skal minst vise
+
+1. at den injiserte CO2 faktisk oppfører seg i samsvar med den modellerte oppførselen,
+2. at ingen lekkasje kan påvises,
+3. at lagringsstedet utvikles i retning av en tilstand av langsiktig stabilitet.
 
 Senest en måned etter at operatørens rapport er mottatt, skal departementet eller den det bemyndiger sende rapporten til EFTAs overvåkningsorgan.
 
@@ -532,7 +690,12 @@ Før ansvarsoverføring finner sted i medhold av [§ 30i](forskrift/1997-06-27-6
 
 Rettighetshaver skal ikke betale produksjonsavgift for petroleum produsert fra forekomster hvor plan for utbygging og drift godkjennes eller krav om slik plan frafalles etter 1. januar 1986.
 
-For petroleum produsert fra forekomster hvor plan for utbygging og drift er godkjent 1. januar 1986 eller tidligere, skal rettighetshaver betale en produksjonsavgift på 8% av verdien av produsert mengde olje. Fra det tidspunkt produsert mengde olje fra et utvinningsområde over en 30 dagers periode gjennomsnittlig når følgende kvanta, skal det av verdien av hele mengden betales en produksjonsavgift på:6.500 Sm3 pr. døgn 10%16.000 Sm3 pr. døgn 12%35.000 Sm3 pr. døgn 14%55.000 Sm3 pr. døgn 16%
+For petroleum produsert fra forekomster hvor plan for utbygging og drift er godkjent 1. januar 1986 eller tidligere, skal rettighetshaver betale en produksjonsavgift på 8% av verdien av produsert mengde olje. Fra det tidspunkt produsert mengde olje fra et utvinningsområde over en 30 dagers periode gjennomsnittlig når følgende kvanta, skal det av verdien av hele mengden betales en produksjonsavgift på:
+
+- 6.500 Sm3 pr. døgn 10%
+- 16.000 Sm3 pr. døgn 12%
+- 35.000 Sm3 pr. døgn 14%
+- 55.000 Sm3 pr. døgn 16%
 
 Dersom dagsgjennomsnittet for de første 30 dagene det produseres fra et utvinningsområde overstiger det trinn hvor avgiften er 8%, skal produksjonsavgiften forhøyes fra den dag produksjonen første gang overskred det aktuelle trinn.
 
@@ -658,9 +821,21 @@ Avslutningsplan skal sendes departementet med kopi til Sokkeldirektoratet og Hav
 
 ### § 44. Disponeringsdel av avslutningsplan
 
-Disponeringsdelen av avslutningsplan skal inneholde en beskrivelse av:feltets historie,innretningen, herunder beliggenhet, dybde, materialtype m.v.,forekomst og produksjon,muligheten for fortsatt produksjon,aktuelle disponeringsalternativ,andre forhold av betydning for valg av disponeringsløsning,anbefalt disponeringløsning, herunder tidsplan for gjennomføring av disponeringen,andre opplysninger som kreves etter de til enhver tid gjeldende sikkerhetsforskrifter.
+Disponeringsdelen av avslutningsplan skal inneholde en beskrivelse av:
 
-For hvert av de aktuelle disponeringsalternativ skal følgende forhold omtales:tekniske, sikkerhetsmessige, miljømessige og økonomiske forhold,forholdet til andre brukere av havet, herunder opplysninger og vurderinger om virkningen for fiskeri og skipsfart.
+1. feltets historie,
+2. innretningen, herunder beliggenhet, dybde, materialtype m.v.,
+3. forekomst og produksjon,
+4. muligheten for fortsatt produksjon,
+5. aktuelle disponeringsalternativ,
+6. andre forhold av betydning for valg av disponeringsløsning,
+7. anbefalt disponeringløsning, herunder tidsplan for gjennomføring av disponeringen,
+8. andre opplysninger som kreves etter de til enhver tid gjeldende sikkerhetsforskrifter.
+
+For hvert av de aktuelle disponeringsalternativ skal følgende forhold omtales:
+
+1. tekniske, sikkerhetsmessige, miljømessige og økonomiske forhold,
+2. forholdet til andre brukere av havet, herunder opplysninger og vurderinger om virkningen for fiskeri og skipsfart.
 
 Departementet kan fravike kravet til innhold i disponeringsdelen, herunder kreve ytterligere opplysninger og vurderinger.
 
@@ -744,7 +919,12 @@ Rapportering til nasjonalbudsjettprosessen skal sendes departementet og Sokkeldi
 
 ### § 50b. Rapportering av betalinger
 
-Skatteetaten og Sokkeldirektoratet skal innen 1. august hvert år rapportere til departementet alle innbetalinger de har mottatt fra og utbetalinger til rettighetshaver i foregående kalenderår på grunnlag av de betalingsplikter som fremgår av:[lov 13. juni 1975 nr. 35](lov/1975-06-13-35) om skattlegging av undersjøiske petroleumsforekomster mv.,[lov 21. desember 1990 nr. 72](lov/1990-12-21-72) om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen,forskrift [11. desember 2001 nr. 1451](forskrift/2001-12-11-1451) om særavgifter [kapittel 3](forskrift/2001-12-11-1451/kap3)–19 om avgift på utslipp av NOx ,loven § 4-10.
+Skatteetaten og Sokkeldirektoratet skal innen 1. august hvert år rapportere til departementet alle innbetalinger de har mottatt fra og utbetalinger til rettighetshaver i foregående kalenderår på grunnlag av de betalingsplikter som fremgår av:
+
+- [lov 13. juni 1975 nr. 35](lov/1975-06-13-35) om skattlegging av undersjøiske petroleumsforekomster mv.,
+- [lov 21. desember 1990 nr. 72](lov/1990-12-21-72) om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen,
+- forskrift [11. desember 2001 nr. 1451](forskrift/2001-12-11-1451) om særavgifter [kapittel 3](forskrift/2001-12-11-1451/kap3)–19 om avgift på utslipp av NOx ,
+- loven § 4-10.
 
 Departementet kan fastsette skjema for rapportering av betalinger i henhold til denne bestemmelsen.
 
@@ -986,7 +1166,12 @@ Ved søknad om samtykke til overdragelse av tillatelse etter loven § 10-12 før
 
 ### § 73. Forsikring
 
-Den virksomhet rettighetshaver driver etter loven [kapittel 3](forskrift/1997-06-27-653/kap3) og [4](forskrift/1997-06-27-653/kap4) skal til enhver tid være forsikret. I det minste må forsikringen omfatte:skade på innretninger,forurensningsskade og annet ansvar overfor tredjemann,fjerning av vrak og opprydding som følge av uhell,forsikring av egne arbeidstakere som er engasjert i virksomheten.
+Den virksomhet rettighetshaver driver etter loven [kapittel 3](forskrift/1997-06-27-653/kap3) og [4](forskrift/1997-06-27-653/kap4) skal til enhver tid være forsikret. I det minste må forsikringen omfatte:
+
+1. skade på innretninger,
+2. forurensningsskade og annet ansvar overfor tredjemann,
+3. fjerning av vrak og opprydding som følge av uhell,
+4. forsikring av egne arbeidstakere som er engasjert i virksomheten.
 
 Rettighetshaver skal påse at entreprenører og underentreprenører engasjert i virksomheten forsikrer sine arbeidstakere i samme utstrekning som operatøren forsikrer sine arbeidstakere.
 
@@ -1086,7 +1271,11 @@ Reglene i [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forval
 
 Opplysninger av enhver art som meddeles myndighetene i forbindelse med søknad om utvinningstillatelse, skal være underlagt taushetsplikt inntil utvinningstillatelsene til de aktuelle områder er tildelt. Deretter skal opplysningene være underlagt taushetsplikt i den utstrekning dette følger av [forvaltningsloven](lov/1967-02-10) i et tidsrom av 20 år, jf. [forvaltningsloven § 13c](lov/1967-02-10/§13c) tredje ledd.
 
-Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at uvedkommende får adgang til eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om geologiske, reservoartekniske og produksjonstekniske forhold i rapporter eller annet materiale som sendes offentlige myndigheter. For data som er underlagt taushetsplikt etter første punktum, skal taushetsplikten ha følgende varighet regnet fra det tidspunkt dataene ble tilgjengelig for eier av dataene:5 år for tolkede data,10 år for data som har vært omsettelige fra det tidspunkt de ble tilgjengelig for eieren,2 år for øvrige data.
+Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, plikter å hindre at uvedkommende får adgang til eller kjennskap til det han i forbindelse med tjenesten eller arbeidet får vite om geologiske, reservoartekniske og produksjonstekniske forhold i rapporter eller annet materiale som sendes offentlige myndigheter. For data som er underlagt taushetsplikt etter første punktum, skal taushetsplikten ha følgende varighet regnet fra det tidspunkt dataene ble tilgjengelig for eier av dataene:
+
+1. 5 år for tolkede data,
+2. 10 år for data som har vært omsettelige fra det tidspunkt de ble tilgjengelig for eieren,
+3. 2 år for øvrige data.
 
 For data som nevnt i tredje ledd bokstav b og c og for tolkede data i statusrapporter, jf. [ressursforskriften § 27](forskrift/2017-12-13-2004/§27), som er felles eie for rettighetshaverne i en utvinningstillatelse, faller taushetsplikten bort fra det tidspunkt tillatelsen oppgis, bortfaller, utløper eller området hvor dataene stammer fra tilbakeleveres. For øvrige tolkede data som nevnt i tredje ledd bokstav a, som er felles eie for rettighetshaverne i en utvinningstillatelse, faller taushetsplikten bort ett år etter at tillatelsen oppgis, bortfaller, utløper eller området hvor dataene stammer fra tilbakeleveres. Opplysning om hvorvidt data skal være omsettelige meddeles Sokkeldirektoratet etter [§ 6](forskrift/1997-06-27-653/§6) femte ledd. Sokkeldirektoratet kan fastsette hva som anses som omsettelige data. Sokkeldirektoratet kan etter søknad forlenge eller forkorte taushetsplikten for data som angitt i tredje ledd.
 
@@ -1120,7 +1309,10 @@ Overtredelse av forskriften eller av vedtak truffet med hjemmel i den straffes s
 
 ### § 88. Ikrafttredelse m.v.
 
-Denne forskrift trer i kraft 1. juli 1997. Fra samme tid oppheves:[Forskrift 14. juni 1985 nr. 1158](forskrift/1985-06-14-1158) til lov om petroleumsvirksomhet.[Forskrift 1. april 1980 nr. 9464](forskrift/1980-04-01-9464) om innkreving av produksjonsavgift på utvinning av petroleumsforekomster i indre norsk farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet.
+Denne forskrift trer i kraft 1. juli 1997. Fra samme tid oppheves:
+
+1. [Forskrift 14. juni 1985 nr. 1158](forskrift/1985-06-14-1158) til lov om petroleumsvirksomhet.
+2. [Forskrift 1. april 1980 nr. 9464](forskrift/1980-04-01-9464) om innkreving av produksjonsavgift på utvinning av petroleumsforekomster i indre norsk farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet.
 
 > Endret ved [kgl.res. 18. juli 1997 nr. 802](forskrift/1997-07-18-802), [20 des 2002 nr. 1618](forskrift/2002-12-20-1618) (i kraft 1 jan 2003, tidligere § 76).
 
@@ -1133,15 +1325,35 @@ Trinn 1: *Datainnsamling*
 
 Tilstrekkelige data skal samles inn for å etablere en volumetrisk og tredimensjonal statisk (3D) geologisk modell av lagringslokaliteten og lagringskomplekset, inkludert takbergarter og de omkringliggende områder – også hydraulisk tilknyttede områder.
 
-Disse data skal omfatte minst følgende iboende karakteristikker av lagringskomplekset:Geologiske og geofysiske data,Reservoarberegninger (herunder volumetriske beregninger av porevolum for CO2 -injeksjon og maksimal lagringskapasitet),Geokjemiske data (oppløsningshastighet, mineraliseringshastighet).Geomekaniske data (permeabilitet, oppsprekkingstrykk),Jordskjelvhyppighet,Nærvær og tilstand av naturlige og menneskeskapte strømningsveier for CO2 , herunder brønner og borehull som kan danne lekkasjeveier.
+Disse data skal omfatte minst følgende iboende karakteristikker av lagringskomplekset:
 
-Følgende karakteristikker av lagringskompleksets omgivelser skal være dokumentert:Områder som omgir lagringskomplekset og som kan bli påvirket av lagringen av CO2 – på lagringslokaliteten,Nærhet til verdifulle naturressurser,Aktiviteter rundt lagringskomplekset og mulige interaksjoner med disse aktivitetene (for eksempel undersøkelse etter, produksjon og lagring av hydrokarboner, geotermisk bruk av akviferer og bruk av undergrunnsvannreservoarer),Nærhet til den potensielle CO2 -kilden eller CO2 -kildene (herunder estimater av den totale mengde CO2 som er økonomisk tilgjengelig for lagring) samt egnede transportmuligheter,
+- Geologiske og geofysiske data,
+- Reservoarberegninger (herunder volumetriske beregninger av porevolum for CO2 -injeksjon og maksimal lagringskapasitet),
+- Geokjemiske data (oppløsningshastighet, mineraliseringshastighet).
+- Geomekaniske data (permeabilitet, oppsprekkingstrykk),
+- Jordskjelvhyppighet,
+- Nærvær og tilstand av naturlige og menneskeskapte strømningsveier for CO2 , herunder brønner og borehull som kan danne lekkasjeveier.
+
+Følgende karakteristikker av lagringskompleksets omgivelser skal være dokumentert:
+
+- Områder som omgir lagringskomplekset og som kan bli påvirket av lagringen av CO2 – på lagringslokaliteten,
+- Nærhet til verdifulle naturressurser,
+- Aktiviteter rundt lagringskomplekset og mulige interaksjoner med disse aktivitetene (for eksempel undersøkelse etter, produksjon og lagring av hydrokarboner, geotermisk bruk av akviferer og bruk av undergrunnsvannreservoarer),
+- Nærhet til den potensielle CO2 -kilden eller CO2 -kildene (herunder estimater av den totale mengde CO2 som er økonomisk tilgjengelig for lagring) samt egnede transportmuligheter,
 
 Trinn 2: *Etablering av tredimensjonal geologisk modell (for injeksjon)*
 
 - Ved å bruke dataene samlet inn i trinn 1 skal det ved hjelp av reservoarsimuleringsverktøy etableres en tredimensjonal geologisk modell, eller et sett av slike modeller av det foreslåtte lagringskomplekset, herunder takbergarter og hydraulisk tilknyttede områder og væsker.
 
-Den statiske geologiske modellen eller modellene skal karakterisere komplekset med hensyn til:Geologisk struktur av den fysiske fellen,Geomekaniske, geokjemiske og strømningsegenskaper av reservoarets overliggende lag (takbergarter, forseglinger, porøse og permeable lag) og omliggende formasjoner,Karakterisering av sprekker og forkastninger og nærvær av naturlige og menneskeskapte strømningsveier,Lagringskompleksets areal og vertikale utstrekning,Porevolum (herunder fordeling av porøsitet),Opprinnelig væskefordeling,Andre relevante karakteristikker.
+Den statiske geologiske modellen eller modellene skal karakterisere komplekset med hensyn til:
+
+- Geologisk struktur av den fysiske fellen,
+- Geomekaniske, geokjemiske og strømningsegenskaper av reservoarets overliggende lag (takbergarter, forseglinger, porøse og permeable lag) og omliggende formasjoner,
+- Karakterisering av sprekker og forkastninger og nærvær av naturlige og menneskeskapte strømningsveier,
+- Lagringskompleksets areal og vertikale utstrekning,
+- Porevolum (herunder fordeling av porøsitet),
+- Opprinnelig væskefordeling,
+- Andre relevante karakteristikker.
 
 Usikkerheten forbundet med hver av parametrene som er brukt til å bygge modellen skal være vurdert ved å utvikle en rekke scenarier for hver parameter og beregne tilhørende konfidensgrenser. Enhver usikkerhet forbundet med modellen i seg selv skal også vurderes.
 
@@ -1151,9 +1363,30 @@ Karakteriseringene og vurderingene skal være basert på dynamiske modeller som 
 
 Trinn 3.1: *Karakterisering av dynamiske forhold i lagringslokaliteten*
 
-Som et minimum skal følgende faktorer vurderes:Mulige injeksjonsrater og CO2 -strømmens egenskaper,Effekten av koplede prosessmodelleringer (dvs. hvordan forskjellige enkeltvise effekter i regnemodellen virker sammen),Reaktive prosesser (dvs. hvordan reaksjoner mellom injisert CO2 og de tilstedeværende komponentene (substansene) gir tilbakekopling i modellen),Reservoarsimuleringsmodellen som er benyttet (flere simuleringer kan være påkrevet for å validere visse funn),Kort- og langtidssimuleringer (for å etablere hva som skjer med den injiserte CO2 og utvikling over årtier og årtusener, herunder oppløsningshastighet av CO2 i vann),
+Som et minimum skal følgende faktorer vurderes:
 
-Den dynamiske modelleringen skal gi innsikt i:Trykk og temperatur i lagringsformasjonen som en funksjon av injeksjonshastighet og akkumulert injisert mengde over tid,Areal og vertikal utbredelse av CO2 over tid,CO2 -strømmen i reservoaret, herunder fasene den opptrer i,CO2 -felle mekanismer og hastigheter (herunder overfyllingspunktet) og laterale og vertikale forseglinger,Sekundære innesluttingssystemer for hele lagringskomplekset,Lagringskapasitet og trykkgradienter for lagringslokaliteten,Risiko for sprekkdannelser i lagringsformasjonene og takbergartene,Risiko for CO2 -inntrengning i takbergartene,Risiko for lekkasje fra lagringslokaliteten (f.eks. gjennom forlatte eller utilstrekkelig forseglede brønner),Migrasjonshastighet (i ikke-innelukkede reservoarer),Sprekkforseglingshastighet,Forandringer i formasjonenes væskekjemi og påfølgende reaksjoner (f.eks. pH-endringer, mineraldannelse) og anvendelse av modellering av reaksjoner for å vurdere konsekvensene,Erstatning av formasjonsvæsker,Økt seismisitet og overflateheving.
+1. Mulige injeksjonsrater og CO2 -strømmens egenskaper,
+2. Effekten av koplede prosessmodelleringer (dvs. hvordan forskjellige enkeltvise effekter i regnemodellen virker sammen),
+3. Reaktive prosesser (dvs. hvordan reaksjoner mellom injisert CO2 og de tilstedeværende komponentene (substansene) gir tilbakekopling i modellen),
+4. Reservoarsimuleringsmodellen som er benyttet (flere simuleringer kan være påkrevet for å validere visse funn),
+5. Kort- og langtidssimuleringer (for å etablere hva som skjer med den injiserte CO2 og utvikling over årtier og årtusener, herunder oppløsningshastighet av CO2 i vann),
+
+Den dynamiske modelleringen skal gi innsikt i:
+
+1. Trykk og temperatur i lagringsformasjonen som en funksjon av injeksjonshastighet og akkumulert injisert mengde over tid,
+2. Areal og vertikal utbredelse av CO2 over tid,
+3. CO2 -strømmen i reservoaret, herunder fasene den opptrer i,
+4. CO2 -felle mekanismer og hastigheter (herunder overfyllingspunktet) og laterale og vertikale forseglinger,
+5. Sekundære innesluttingssystemer for hele lagringskomplekset,
+6. Lagringskapasitet og trykkgradienter for lagringslokaliteten,
+7. Risiko for sprekkdannelser i lagringsformasjonene og takbergartene,
+8. Risiko for CO2 -inntrengning i takbergartene,
+9. Risiko for lekkasje fra lagringslokaliteten (f.eks. gjennom forlatte eller utilstrekkelig forseglede brønner),
+10. Migrasjonshastighet (i ikke-innelukkede reservoarer),
+11. Sprekkforseglingshastighet,
+12. Forandringer i formasjonenes væskekjemi og påfølgende reaksjoner (f.eks. pH-endringer, mineraldannelse) og anvendelse av modellering av reaksjoner for å vurdere konsekvensene,
+13. Erstatning av formasjonsvæsker,
+14. Økt seismisitet og overflateheving.
 
 Trinn 3.2: *Følsomhetskarakteristikk*
 
@@ -1165,7 +1398,13 @@ Risikovurderingen skal blant annet omfatte følgende:
 
 3.3.1. *Farekarakteristikk*
 
-Farekarakteristikk skal gjennomføres ved karakterisering av potensialet for lekkasje fra lagringskomplekset, som etablert gjennom dynamisk modellering og sikkerhetskarakteristikk som beskrevet over. Dette skal omfatte betraktninger som blant annet:Potensielle lekkasjeveier,Potensiell størrelse på lekkasje fra identifiserte lekkasjeveier (flukshastigheter),Kritiske parametre som påvirker potensiell lekkasje (f.eks. maksimum reservoartrykk, maksimum injeksjonsrate, temperatur, sensitivitet for varierende antakelser i den eller de geologiske modellene etc.),Sekundæreffekter av lagringen, herunder fortrengt formasjonsvæske og nye substanser dannet ved lagring av CO2 ,Enhver annen faktor som kan innebære risiko for helse eller miljø (f.eks. fysiske strukturer assosiert med prosjektet).
+Farekarakteristikk skal gjennomføres ved karakterisering av potensialet for lekkasje fra lagringskomplekset, som etablert gjennom dynamisk modellering og sikkerhetskarakteristikk som beskrevet over. Dette skal omfatte betraktninger som blant annet:
+
+1. Potensielle lekkasjeveier,
+2. Potensiell størrelse på lekkasje fra identifiserte lekkasjeveier (flukshastigheter),
+3. Kritiske parametre som påvirker potensiell lekkasje (f.eks. maksimum reservoartrykk, maksimum injeksjonsrate, temperatur, sensitivitet for varierende antakelser i den eller de geologiske modellene etc.),
+4. Sekundæreffekter av lagringen, herunder fortrengt formasjonsvæske og nye substanser dannet ved lagring av CO2 ,
+5. Enhver annen faktor som kan innebære risiko for helse eller miljø (f.eks. fysiske strukturer assosiert med prosjektet).
 
 Farekarakteristikken skal omfatte hele spekteret av potensielle operasjonsbetingelser for å teste lagringskompleksets sikkerhet.
 
@@ -1198,11 +1437,26 @@ Overvåkingsplanen nevnt i [§ 30g](forskrift/1997-06-27-653/§30g) annet ledd s
 
 Overvåkingsplanen skal inneholde detaljer om overvåkingsprogrammet som vil bli gjennomført på alle hovedtrinn i prosjektet, herunder grunnlagsdata, operasjonell fase og i etterdriftsfasen.
 
-Følgende skal spesifiseres for hver fase:De parametre som skal overvåkes,De overvåkingsteknikker som skal anvendes og begrunnelse for valg av overvåkningsteknikker,Overvåkingslokasjoner og begrunnelse for valgte prøvetakingssteder,Prøvetakingsfrekvens og begrunnelse for denne.
+Følgende skal spesifiseres for hver fase:
 
-De parametre som skal overvåkes skal være utvalgt slik at de kan oppfylle formålet med overvåkingen. Planen skal likevel i ethvert tilfelle omfatte kontinuerlig eller periodisk overvåking av følgende forhold:Diffuse utslipp av CO2 -utslipp ved injeksjonsinnretningen,CO2 volumstrøm ved injeksjonsbrønnhodene,CO2 -trykk og -temperatur ved injeksjonsbrønnhodene (for å bestemme massestrøm),Kjemisk analyse av injeksjonsstrømmen,Reservoartemperatur og -trykk (for å bestemme CO2 -fasenes oppførsel og tilstand).
+1. De parametre som skal overvåkes,
+2. De overvåkingsteknikker som skal anvendes og begrunnelse for valg av overvåkningsteknikker,
+3. Overvåkingslokasjoner og begrunnelse for valgte prøvetakingssteder,
+4. Prøvetakingsfrekvens og begrunnelse for denne.
 
-Valget av overvåkingsteknikker skal baseres på beste praksis som er tilgjengelig på designtidspunktet. Følgende alternativer skal vurderes og anvendes om mulig:Teknologier som kan detektere nærvær, sted og migreringsvei for CO2 i undergrunnen og på overflaten,Teknologier som kan gi informasjon om utviklingen av trykk og volum og areal/vertikal metning av CO2 -skyen (plumen) for å forbedre numeriske 3D-simuleringer relatert til 3D geologiske modeller av lagringsformasjonen etablert i henhold til denne forskriftens [§ 30d](forskrift/1997-06-27-653/§30d) og vedlegg I,Teknologier som kan dekke et vidt areal for å hente informasjon om tidligere uoppdagede potensielle lekkasjeveier over arealdimensjonene av hele lagringskomplekset og over, i tilfelle vesentlige irregulariteter eller migrering av CO2 ut av lagringskomplekset.
+De parametre som skal overvåkes skal være utvalgt slik at de kan oppfylle formålet med overvåkingen. Planen skal likevel i ethvert tilfelle omfatte kontinuerlig eller periodisk overvåking av følgende forhold:
+
+1. Diffuse utslipp av CO2 -utslipp ved injeksjonsinnretningen,
+2. CO2 volumstrøm ved injeksjonsbrønnhodene,
+3. CO2 -trykk og -temperatur ved injeksjonsbrønnhodene (for å bestemme massestrøm),
+4. Kjemisk analyse av injeksjonsstrømmen,
+5. Reservoartemperatur og -trykk (for å bestemme CO2 -fasenes oppførsel og tilstand).
+
+Valget av overvåkingsteknikker skal baseres på beste praksis som er tilgjengelig på designtidspunktet. Følgende alternativer skal vurderes og anvendes om mulig:
+
+1. Teknologier som kan detektere nærvær, sted og migreringsvei for CO2 i undergrunnen og på overflaten,
+2. Teknologier som kan gi informasjon om utviklingen av trykk og volum og areal/vertikal metning av CO2 -skyen (plumen) for å forbedre numeriske 3D-simuleringer relatert til 3D geologiske modeller av lagringsformasjonen etablert i henhold til denne forskriftens [§ 30d](forskrift/1997-06-27-653/§30d) og vedlegg I,
+3. Teknologier som kan dekke et vidt areal for å hente informasjon om tidligere uoppdagede potensielle lekkasjeveier over arealdimensjonene av hele lagringskomplekset og over, i tilfelle vesentlige irregulariteter eller migrering av CO2 ut av lagringskomplekset.
 
 1.2. *Oppdatering av planen*
 
@@ -1732,7 +1986,11 @@ For så vidt gjelder Gasscos utførelse av operatøroppgavene er det fastslått 
 
 [Forvaltningsloven § 1](lov/1967-02-10/§1) første punktum fastsetter at loven får anvendelse på virksomhet som drives av et forvaltningsorgan. Gassco er organisert som et aksjeselskap. Selskapet ivaretar et bredt spekter av oppgaver, hovedsakelig av privatrettslig art. Gasscos virksomhet er regulert både i petroleumsloven og -forskriften, samt i operatøravtaler med rettighetshaverne. Departementet er av den oppfatning at selskapet er å anse som et privat rettssubjekt og ikke et forvaltningsorgan. Forvaltningsloven vil således ikke få anvendelse på selskapets virksomhet generelt.
 
-Det følger av [forvaltningsloven § 1](lov/1967-02-10/§1) tredje punktum at private rettsubjekter regnes som forvaltningsorganer i saker hvor det treffer enkeltvedtak eller utferdiger forskrift. Gassco er ikke gitt fullmakt til å utferdige forskrifter. Selskapet er derimot på enkelte områder, under det særlige operatøransvaret etter [petroleumsloven § 4-9](lov/1996-11-29-72/§4-9), tildelt oppgaver som innebærer at det treffer enkeltvedtak. Departementet legger til grunn at Gassco har kompetanse til å fatte enkeltvedtak etter følgende bestemmelser i petroleumsforskriften:[§ 59](forskrift/1997-06-27-653/§59) fjerde ledd siste punktum og [§ 64](forskrift/1997-06-27-653/§64) første ledd, som fastsetter at Gassco kan nekte adgang når vilkårene for adgang ikke er oppfylt;[§ 61](forskrift/1997-06-27-653/§61), herunder også [§ 62](forskrift/1997-06-27-653/§62), om fordeling av ledig kapasitet;[§ 66](forskrift/1997-06-27-653/§66) tredje ledd pålegg til en bruker, i den grad dette ikke er regulert i transportavtalen, eller til en rettighetshaver om å tilpasse sin virksomhet.
+Det følger av [forvaltningsloven § 1](lov/1967-02-10/§1) tredje punktum at private rettsubjekter regnes som forvaltningsorganer i saker hvor det treffer enkeltvedtak eller utferdiger forskrift. Gassco er ikke gitt fullmakt til å utferdige forskrifter. Selskapet er derimot på enkelte områder, under det særlige operatøransvaret etter [petroleumsloven § 4-9](lov/1996-11-29-72/§4-9), tildelt oppgaver som innebærer at det treffer enkeltvedtak. Departementet legger til grunn at Gassco har kompetanse til å fatte enkeltvedtak etter følgende bestemmelser i petroleumsforskriften:
+
+- [§ 59](forskrift/1997-06-27-653/§59) fjerde ledd siste punktum og [§ 64](forskrift/1997-06-27-653/§64) første ledd, som fastsetter at Gassco kan nekte adgang når vilkårene for adgang ikke er oppfylt;
+- [§ 61](forskrift/1997-06-27-653/§61), herunder også [§ 62](forskrift/1997-06-27-653/§62), om fordeling av ledig kapasitet;
+- [§ 66](forskrift/1997-06-27-653/§66) tredje ledd pålegg til en bruker, i den grad dette ikke er regulert i transportavtalen, eller til en rettighetshaver om å tilpasse sin virksomhet.
 
 Forvaltningsloven vil få anvendelse for Gasscos virksomhet i de ovenfor nevnte saker.
 

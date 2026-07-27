@@ -15,7 +15,7 @@ xml_hash: "b7febd0b8f6dd82caf8597fcdd8681c997fdac6d4521d47343dcd5b266cac5e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,12 @@ Ph.d.-utdanningen skal gi kandidaten kunnskap, ferdigheter og kompetanse i tråd
 
 Ph.d.-utdanningen er normert til tre (3) års fulltidsstudier og inkluderer en opplæringsdel av minimum 30 studiepoengs omfang.
 
-Ph.d.-utdanningens viktigste komponent er et selvstendig forskningsarbeid som gjennomføres under aktiv veiledning. Ph.d.-graden tildeles på grunnlag avgodkjent vitenskapelig avhandlinggodkjent gjennomføring av opplæringsdelengodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-utdanningens viktigste komponent er et selvstendig forskningsarbeid som gjennomføres under aktiv veiledning. Ph.d.-graden tildeles på grunnlag av
+
+- godkjent vitenskapelig avhandling
+- godkjent gjennomføring av opplæringsdelen
+- godkjent prøveforelesning over oppgitt emne
+- godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 4. Ansvar for doktorgradsutdanningen
 
@@ -68,7 +73,12 @@ For opptak til ph.d.-utdanningen må søkeren normalt minimum ha en femårig utd
 
 Programutvalget kan stille ytterligere krav til kvalifikasjoner etter kriterier som er åpent tilgjengelige og i tråd med NMHs rekrutteringspolitikk og faglige profil. Programutvalget kan stille krav om at søkere gjennomgår særskilte kurs og/eller består særskilt prøve før opptak. Programutvalget kan fastsette krav til ytterligere dokumentasjon.
 
-Søknaden skal minimum inneholdeTilfredsstillende utfylt søknadsskjemaProsjektbeskrivelse med eventuelle vedlegg som prosjektbeskrivelsen forutsetterDokumentasjon på den utdanning som skal ligge til grunn for opptaketRedegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig være innhentet og legges ved søknaden.
+Søknaden skal minimum inneholde
+
+- Tilfredsstillende utfylt søknadsskjema
+- Prosjektbeskrivelse med eventuelle vedlegg som prosjektbeskrivelsen forutsetter
+- Dokumentasjon på den utdanning som skal ligge til grunn for opptaket
+- Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig være innhentet og legges ved søknaden.
 
 Programutvalget utarbeider søknadsskjema og retningslinjer for søknad og prosjektbeskrivelse.
 
@@ -106,7 +116,12 @@ Dersom ph.d.-opptaket er knyttet til utlysning av stipendiatstillinger, skal Ans
 
 I vedtak om opptak/tilsetting som stipendiat skal avtaleperioden fastsettes med startdato og sluttdato. Startdato settes lik startdato for finansiering/tilsetting i stipendiatstilling. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker eller avklares spesielt i forhold til kandidatens finansieringsgrunnlag.
 
-Opptak til ph.d.-programmet skal nektes dersomavtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingende immaterialrettslige avtaler som er inngått er så urimelige at NMH ikke bør medvirke i prosjektetsøker har forpliktelser som er til hinder for normert progresjon og tilstedeværelsesøkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp på programmet, jf. [§ 6-1](forskrift/2024-06-06-969/§6-1).
+Opptak til ph.d.-programmet skal nektes dersom
+
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+- de immaterialrettslige avtaler som er inngått er så urimelige at NMH ikke bør medvirke i prosjektet
+- søker har forpliktelser som er til hinder for normert progresjon og tilstedeværelse
+- søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp på programmet, jf. [§ 6-1](forskrift/2024-06-06-969/§6-1).
 
 ### § 7. Ph.d.-avtalen
 
@@ -262,7 +277,12 @@ For ph.d.-kandidater med ekstern arbeidsgiver skal tilsvarende meldeplikt nedfel
 
 ### § 13-1. Grunnlag for bedømmelse
 
-Ph.d.-graden tildeles på grunnlag av:godkjent vitenskapelig avhandling med eventuelle vedlegg (jf. [§ 11-1](forskrift/2024-06-06-969/§11-1))godkjent gjennomføring av opplæringsdelengodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av:
+
+1. godkjent vitenskapelig avhandling med eventuelle vedlegg (jf. [§ 11-1](forskrift/2024-06-06-969/§11-1))
+2. godkjent gjennomføring av opplæringsdelen
+3. godkjent prøveforelesning over oppgitt emne
+4. godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 13-2. Innlevering av avhandlingen
 
@@ -270,7 +290,12 @@ Det er hovedveileders ansvar å gjøre programutvalget oppmerksom på at innleve
 
 Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent av programutvalget.
 
-Som vedlegg til søknad om bedømmelse skal følge:Avhandlingen i godkjent format og i henhold til NMHs bestemmelser og i den form og det antall eksemplarer NMH har bestemtDokumentasjon av nødvendige tillatelser, jf. [§ 6-1](forskrift/2024-06-06-969/§6-1)Medforfattererklæringer der hvor dette er påkrevd i henhold til [§ 11-2](forskrift/2024-06-06-969/§11-2)Egenerklæring der kandidaten bekrefter om avhandlingen leveres til bedømmelse for første eller andre gang, at avhandlingen ikke er levert til bedømmelse ved annen institusjon, dato for godkjenning av opplæringsdelen og at forskningsetiske retningslinjer er fulgt.
+Som vedlegg til søknad om bedømmelse skal følge:
+
+1. Avhandlingen i godkjent format og i henhold til NMHs bestemmelser og i den form og det antall eksemplarer NMH har bestemt
+2. Dokumentasjon av nødvendige tillatelser, jf. [§ 6-1](forskrift/2024-06-06-969/§6-1)
+3. Medforfattererklæringer der hvor dette er påkrevd i henhold til [§ 11-2](forskrift/2024-06-06-969/§11-2)
+4. Egenerklæring der kandidaten bekrefter om avhandlingen leveres til bedømmelse for første eller andre gang, at avhandlingen ikke er levert til bedømmelse ved annen institusjon, dato for godkjenning av opplæringsdelen og at forskningsetiske retningslinjer er fulgt.
 
 NMH kan på selvstendig grunnlag avvise søknad om å få avhandlingen bedømt dersom det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité.
 
@@ -282,7 +307,12 @@ Programutvalget behandler søknad om å få avhandlingen bedømt. Søknad som ik
 
 Bedømmelseskomiteen skal bestå av minst tre medlemmer. Habilitetsreglene i [forvaltningslovens § 6](lov/1967-02-10/§6) gjelder for komiteens medlemmer. Komiteens sammensetning bør så sant mulig være klarlagt ved innleveringstidspunktet.
 
-Bedømmelseskomiteen skal normalt settes sammen slik atflere kjønn er representertminst ett av medlemmene er uten tilknytning til NMHminst ett av medlemmene ikke har hovedstilling ved norske institusjoneralle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Bedømmelseskomiteen skal normalt settes sammen slik at
+
+- flere kjønn er representert
+- minst ett av medlemmene er uten tilknytning til NMH
+- minst ett av medlemmene ikke har hovedstilling ved norske institusjoner
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 

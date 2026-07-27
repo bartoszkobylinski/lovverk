@@ -15,7 +15,7 @@ xml_hash: "686dfaf56dc072ed1d887557e499d6c427c3f943d0e8c742f03a5cadcde19d5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32007L0002"
@@ -39,7 +39,11 @@ En nasjonal geodatakoordinator skal koordinere arbeidet med landets infrastruktu
 
 ## § 4. Deltakende virksomheter
 
-Følgende virksomheter skal, så langt disse produserer, bruker eller forvalter spesifiserte geodata, delta i infrastruktur for geografisk informasjon etter loven her:statlige, kommunale og fylkeskommunale organandre forvaltningsorgan og offentlige rådgivende organandre rettssubjekter som utfører offentlige forvaltningsoppgaver i henhold til lov.
+Følgende virksomheter skal, så langt disse produserer, bruker eller forvalter spesifiserte geodata, delta i infrastruktur for geografisk informasjon etter loven her:
+
+1. statlige, kommunale og fylkeskommunale organ
+2. andre forvaltningsorgan og offentlige rådgivende organ
+3. andre rettssubjekter som utfører offentlige forvaltningsoppgaver i henhold til lov.
 
 Departementet kan i forskrift gi nærmere regler om deltakende virksomheter, herunder bestemme at andre virksomheter som utfører forvaltningsoppgaver, eller har geodata eller geodatatjenester som kan forbedre samfunnets tilgang til geografisk informasjon, skal omfattes av bestemmelsene i loven her.
 

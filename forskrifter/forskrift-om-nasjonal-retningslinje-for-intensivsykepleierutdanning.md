@@ -15,7 +15,7 @@ xml_hash: "ea5bbaca93d93511748f27bfeb64e00a496d8a3c42a42cce7e4aa5ce17225255"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,99 +62,196 @@ Utdanningen skal sikre kompetanse og holdninger som danner grunnlag for likeverd
 
 ### § 4. Intensivsykepleie som fag og profesjon – kunnskap
 
-Kandidatenkan analysere faglige problemstillinger med utgangspunkt i intensivsykepleiens historie, tradisjoner, egenart og plass i samfunnethar inngående kunnskap om helsetjenestens organisering og intensivsykepleierens funksjons- og ansvarsområder i tråd med nasjonale standarder og samfunnets utviklinghar inngående kunnskap om forhold som fremmer og hemmer mestring og egenomsorg i sin utøvelse av intensivsykepleiehar inngående kunnskap om bruk av aktuelt lovverk, forskrifter og retningslinjer som regulerer intensivsykepleierens arbeid.
+Kandidaten
+
+1. kan analysere faglige problemstillinger med utgangspunkt i intensivsykepleiens historie, tradisjoner, egenart og plass i samfunnet
+2. har inngående kunnskap om helsetjenestens organisering og intensivsykepleierens funksjons- og ansvarsområder i tråd med nasjonale standarder og samfunnets utvikling
+3. har inngående kunnskap om forhold som fremmer og hemmer mestring og egenomsorg i sin utøvelse av intensivsykepleie
+4. har inngående kunnskap om bruk av aktuelt lovverk, forskrifter og retningslinjer som regulerer intensivsykepleierens arbeid.
 
 ### § 5. Intensivsykepleie som fag og profesjon – ferdigheter
 
-Kandidatenkan bruke effektive mestringsstrategier i en utfordrende arbeidshverdag for å fremme faglig identitet og integritet og forebygge utbrenthetkan bruke kunnskaper og ferdigheter for å selvstendig planlegge og utøve intensivsykepleie i samsvar med lover, forskrifter, retningslinjer og rammebetingelser.
+Kandidaten
+
+1. kan bruke effektive mestringsstrategier i en utfordrende arbeidshverdag for å fremme faglig identitet og integritet og forebygge utbrenthet
+2. kan bruke kunnskaper og ferdigheter for å selvstendig planlegge og utøve intensivsykepleie i samsvar med lover, forskrifter, retningslinjer og rammebetingelser.
 
 ### § 6. Intensivsykepleie som fag og profesjon – generell kompetanse
 
-Kandidatenkan analysere faglige problemstillinger og innta en aktiv rolle i diskusjon om utvikling av profesjonen og dens plass i helsetjenestenkan kommunisere og fremme intensivsykepleierens funksjon og ansvar i profesjonelle sammenhenger og til allmenhetenkan analysere, vurdere og håndtere komplekse situasjoner i samsvar med helselovgivning og profesjonsetikkkan analysere og anvende kunnskaper og ferdigheter som bidrar til mestring og arbeidsglede i et miljø med høye krav om kvalitet og omstilling.
+Kandidaten
+
+1. kan analysere faglige problemstillinger og innta en aktiv rolle i diskusjon om utvikling av profesjonen og dens plass i helsetjenesten
+2. kan kommunisere og fremme intensivsykepleierens funksjon og ansvar i profesjonelle sammenhenger og til allmenheten
+3. kan analysere, vurdere og håndtere komplekse situasjoner i samsvar med helselovgivning og profesjonsetikk
+4. kan analysere og anvende kunnskaper og ferdigheter som bidrar til mestring og arbeidsglede i et miljø med høye krav om kvalitet og omstilling.
 
 ## Kapittel 3. Kompetanseområdet for klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse
 
 ### § 7. Klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse – kunnskap
 
-Kandidatenhar inngående kunnskap om organsystemers fysiologi, og patofysiologi med særlig relevans for akutt og/eller kritisk sykdomhar inngående kunnskap om farmakologi og legemiddelhåndtering, antibiotikabruk og resistensutvikling ved akutt og/eller kritisk sykdom som er relevant for utøvelse av intensivsykepleiehar inngående kunnskaper om kirurgisk stressrespons, postoperative komplikasjoner og ettervirkning av ulike anestesiformerhar inngående kunnskap om smittevern og infeksjonsforebyggende tiltakhar inngående kunnskap om smertelindring, palliasjon, behandlingsbegrensninger og organdonasjonhar avansert kunnskap om organsvikt, akutte sykdommer og behandling hos aktuelle pasientgrupperhar avansert kunnskap om kliniske undersøkelsesmetoder og vurderingsverktøy for å utøve intensivsykepleiehar avansert kunnskap om fysiske og psykiske langtidsvirkninger etter intensivoppholdhar avansert kunnskap om pasientens og pårørendes opplevelser, reaksjoner og behov ved akutt og/eller kritisk sykdom i et alders- og/eller språklig og flerkulturelt perspektivhar avansert kunnskap om kommunikasjon, helsepedagogikk og tilpasset informasjon til kritisk syke pasienter og deres pårørende i alle aldrehar avansert kunnskap om barn som pasienter og pårørende med deres særegne behov og rettigheterhar inngående kunnskap om intensivsykepleierens rolle ved beredskap- og krisehåndteringhar inngående kunnskap om etisk refleksjon og kan analysere faglig etiske problemstillinger.
+Kandidaten
+
+1. har inngående kunnskap om organsystemers fysiologi, og patofysiologi med særlig relevans for akutt og/eller kritisk sykdom
+2. har inngående kunnskap om farmakologi og legemiddelhåndtering, antibiotikabruk og resistensutvikling ved akutt og/eller kritisk sykdom som er relevant for utøvelse av intensivsykepleie
+3. har inngående kunnskaper om kirurgisk stressrespons, postoperative komplikasjoner og ettervirkning av ulike anestesiformer
+4. har inngående kunnskap om smittevern og infeksjonsforebyggende tiltak
+5. har inngående kunnskap om smertelindring, palliasjon, behandlingsbegrensninger og organdonasjon
+6. har avansert kunnskap om organsvikt, akutte sykdommer og behandling hos aktuelle pasientgrupper
+7. har avansert kunnskap om kliniske undersøkelsesmetoder og vurderingsverktøy for å utøve intensivsykepleie
+8. har avansert kunnskap om fysiske og psykiske langtidsvirkninger etter intensivopphold
+9. har avansert kunnskap om pasientens og pårørendes opplevelser, reaksjoner og behov ved akutt og/eller kritisk sykdom i et alders- og/eller språklig og flerkulturelt perspektiv
+10. har avansert kunnskap om kommunikasjon, helsepedagogikk og tilpasset informasjon til kritisk syke pasienter og deres pårørende i alle aldre
+11. har avansert kunnskap om barn som pasienter og pårørende med deres særegne behov og rettigheter
+12. har inngående kunnskap om intensivsykepleierens rolle ved beredskap- og krisehåndtering
+13. har inngående kunnskap om etisk refleksjon og kan analysere faglig etiske problemstillinger.
 
 ### § 8. Klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse – ferdigheter
 
-Kandidatenkan analysere pasientens og pårørendes helsekompetanse og benytte dette som virkemiddel i kommunikasjon for å fremme brukermedvirkning og tilpassede tjenesterkan selvstendig gjennomføre systematisk overvåkning av pasientenkan analysere tegn og symptomer på endring i akutte, komplekse pasientsituasjonerkan bruke helsepedagogiske prinsipper i informasjon, undervisning og veiledning til pasienter og pårørende for å fremme mestring og læringkan bruke prinsipper for smittevern og iverksette infeksjonsforebyggende tiltak i intensivavdelinger.
+Kandidaten
+
+1. kan analysere pasientens og pårørendes helsekompetanse og benytte dette som virkemiddel i kommunikasjon for å fremme brukermedvirkning og tilpassede tjenester
+2. kan selvstendig gjennomføre systematisk overvåkning av pasienten
+3. kan analysere tegn og symptomer på endring i akutte, komplekse pasientsituasjoner
+4. kan bruke helsepedagogiske prinsipper i informasjon, undervisning og veiledning til pasienter og pårørende for å fremme mestring og læring
+5. kan bruke prinsipper for smittevern og iverksette infeksjonsforebyggende tiltak i intensivavdelinger.
 
 ### § 9. Klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse – generell kompetanse
 
-Kandidatenkan anvende kunnskaper og ferdigheter for å ha handlingsberedskap og handlingskompetanse i akutte og kritiske situasjonerkan analysere etiske problemstillinger og anvende etisk refleksjon for å ivareta intensivpasienten og pårørendekan anvende kunnskaper og ferdigheter til kritisk refleksjon, for å søke, vurdere, og anvende ny kunnskapkan bruke spesialiserte kunnskaper og ferdigheter for å utføre kliniske vurderinger, prioriteringer og beslutninger for å gjennomføre helt eller delvis kompenserende intensivbehandling og omsorg.
+Kandidaten
+
+1. kan anvende kunnskaper og ferdigheter for å ha handlingsberedskap og handlingskompetanse i akutte og kritiske situasjoner
+2. kan analysere etiske problemstillinger og anvende etisk refleksjon for å ivareta intensivpasienten og pårørende
+3. kan anvende kunnskaper og ferdigheter til kritisk refleksjon, for å søke, vurdere, og anvende ny kunnskap
+4. kan bruke spesialiserte kunnskaper og ferdigheter for å utføre kliniske vurderinger, prioriteringer og beslutninger for å gjennomføre helt eller delvis kompenserende intensivbehandling og omsorg.
 
 ## Kapittel 4. Kompetanseområdet for faglig ledelse, samhandling og kommunikasjon
 
 ### § 10. Faglig ledelse, samhandling og kommunikasjon – Kunnskap
 
-Kandidatenhar inngående kunnskap om ledelse, organisering og endringsprosesser av tverrprofesjonelle tjenester som er relevant for intensivsykepleiehar inngående kunnskap om ikke-tekniske ferdigheter; situasjonsbevissthet, beslutningstaking, oppgaveløsning og teamarbeidhar inngående kunnskaper om kommunikasjonsverktøy og hva som fremmer og hemmer tverrprofesjonell samhandlinghar avansert kunnskap om pedagogiske prinsipper i undervisning og veiledning til kollegaer og studenter.
+Kandidaten
+
+1. har inngående kunnskap om ledelse, organisering og endringsprosesser av tverrprofesjonelle tjenester som er relevant for intensivsykepleie
+2. har inngående kunnskap om ikke-tekniske ferdigheter; situasjonsbevissthet, beslutningstaking, oppgaveløsning og teamarbeid
+3. har inngående kunnskaper om kommunikasjonsverktøy og hva som fremmer og hemmer tverrprofesjonell samhandling
+4. har avansert kunnskap om pedagogiske prinsipper i undervisning og veiledning til kollegaer og studenter.
 
 ### § 11. Faglig ledelse, samhandling og kommunikasjon – ferdigheter
 
-Kandidatenkan analysere og vurdere tilgjengelige ressurser og prioritere tiltak for å optimalisere kvaliteten i pasientbehandlingen og drift av intensivavdelingenkan bruke pedagogiske prinsipper og metoder til å veilede og undervise studenter og kollegaer.
+Kandidaten
+
+1. kan analysere og vurdere tilgjengelige ressurser og prioritere tiltak for å optimalisere kvaliteten i pasientbehandlingen og drift av intensivavdelingen
+2. kan bruke pedagogiske prinsipper og metoder til å veilede og undervise studenter og kollegaer.
 
 ### § 12. Faglig ledelse, samhandling og kommunikasjon – generell kompetanse
 
-Kandidatenkan anvende kunnskaper og ferdigheter for å kunne lede, koordinere og samhandle tverrprofesjonelt i behandlingen av intensivpasientenkan analysere, kritisk vurdere og reflektere over samhandling og kommunikasjon som kan påvirke pasientforløpet og/eller arbeidsmiljøet, samt iverksette tiltak som stimulerer samhandlingkan selvstendig dokumentere, kvalitetssikre og formidle faglig informasjon om intensivpasienten.
+Kandidaten
+
+1. kan anvende kunnskaper og ferdigheter for å kunne lede, koordinere og samhandle tverrprofesjonelt i behandlingen av intensivpasienten
+2. kan analysere, kritisk vurdere og reflektere over samhandling og kommunikasjon som kan påvirke pasientforløpet og/eller arbeidsmiljøet, samt iverksette tiltak som stimulerer samhandling
+3. kan selvstendig dokumentere, kvalitetssikre og formidle faglig informasjon om intensivpasienten.
 
 ## Kapittel 5. Kompetanseområdet for kvalitet, pasientsikkerhet og innovasjon
 
 ### § 13. Kvalitet, pasientsikkerhet og innovasjon – kunnskap
 
-Kandidatenhar inngående kunnskaper om systematisk kvalitetsarbeid for å forbedre helsetjenesten og forutsetninger for vellykkede endringsprosesserhar inngående kunnskap om pasientsikkerhetskultur i helsetjenesten, prinsipper og tiltak for å øke robusthet og pasientsikkerhet i intensivavdelingerhar inngående kunnskap om viktigheten av språk- og kulturkompetanse, for å bidra til økt kvalitet og pasientsikkerhet, i utøvelsen av intensivsykepleie.
+Kandidaten
+
+1. har inngående kunnskaper om systematisk kvalitetsarbeid for å forbedre helsetjenesten og forutsetninger for vellykkede endringsprosesser
+2. har inngående kunnskap om pasientsikkerhetskultur i helsetjenesten, prinsipper og tiltak for å øke robusthet og pasientsikkerhet i intensivavdelinger
+3. har inngående kunnskap om viktigheten av språk- og kulturkompetanse, for å bidra til økt kvalitet og pasientsikkerhet, i utøvelsen av intensivsykepleie.
 
 ### § 14. Kvalitet, pasientsikkerhet og innovasjon – ferdigheter
 
-Kandidatenkan bruke relevante metoder for å innhente, systematisk vurdere og anvende kunnskap i fagutvikling og forbedringsarbeidkan analysere risikofaktorer relatert til intensivbehandling, samt iverksette tiltak for å forebygge komplikasjoner og uønskede hendelserkan analysere uønskede hendelser og bidra til systematisk læringkan bruke og forholde seg kritisk til ulike i kartleggings-, vurderings- og dokumentasjons- verktøy i utøvelsen av intensivsykepleie.
+Kandidaten
+
+1. kan bruke relevante metoder for å innhente, systematisk vurdere og anvende kunnskap i fagutvikling og forbedringsarbeid
+2. kan analysere risikofaktorer relatert til intensivbehandling, samt iverksette tiltak for å forebygge komplikasjoner og uønskede hendelser
+3. kan analysere uønskede hendelser og bidra til systematisk læring
+4. kan bruke og forholde seg kritisk til ulike i kartleggings-, vurderings- og dokumentasjons- verktøy i utøvelsen av intensivsykepleie.
 
 ### § 15. Kvalitet, pasientsikkerhet og innovasjon – generell kompetanse
 
-Kandidatenkan anvende og formidle kunnskapsbasert praksis for å ivareta pasientsikkerhet og kvalitetsforbedring/tjenesteforbedringkan bidra til nytenkning og innovasjonsprosesser for å forbedre tjenestetilbudet generelt og sykepleietilbudet spesielt.
+Kandidaten
+
+1. kan anvende og formidle kunnskapsbasert praksis for å ivareta pasientsikkerhet og kvalitetsforbedring/tjenesteforbedring
+2. kan bidra til nytenkning og innovasjonsprosesser for å forbedre tjenestetilbudet generelt og sykepleietilbudet spesielt.
 
 ## Kapittel 6. Kompetanseområdet for teknologi og digital kompetanse
 
 ### § 16. Teknologi og digital kompetanse – kunnskap
 
-Kandidatenhar avansert kunnskap om indikasjoner i bruk av og prinsipper for relevant medisinsk utstyr i intensivmedisinsk behandlinghar avansert kunnskap om digitale verktøy, herunder personvern, som er relevant for intensivmedisinsk behandlinghar avansert kunnskap om lover og forskrifter knyttet til bruk av medisinsk utstyr og digitale verktøy som er relevant for yrkesutøvelsen.
+Kandidaten
+
+1. har avansert kunnskap om indikasjoner i bruk av og prinsipper for relevant medisinsk utstyr i intensivmedisinsk behandling
+2. har avansert kunnskap om digitale verktøy, herunder personvern, som er relevant for intensivmedisinsk behandling
+3. har avansert kunnskap om lover og forskrifter knyttet til bruk av medisinsk utstyr og digitale verktøy som er relevant for yrkesutøvelsen.
 
 ### § 17. Teknologi og digital kompetanse – ferdigheter
 
-Kandidatenkan selvstendig administrere relevant monitoreringsutstyrkan administrere relevant utstyr for organstøttende behandlingkan selvstendig administrere utstyr for non-invasiv og invasiv respirasjonsstøttende behandlingkan bruke og kontrollere relevant medisinsk utstyr, og har et reflektert forhold til denne teknologiens muligheter og begrensningerkan bruke digital kompetanse, bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivå.
+Kandidaten
+
+1. kan selvstendig administrere relevant monitoreringsutstyr
+2. kan administrere relevant utstyr for organstøttende behandling
+3. kan selvstendig administrere utstyr for non-invasiv og invasiv respirasjonsstøttende behandling
+4. kan bruke og kontrollere relevant medisinsk utstyr, og har et reflektert forhold til denne teknologiens muligheter og begrensninger
+5. kan bruke digital kompetanse, bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivå.
 
 ### § 18. Teknologi og digital kompetanse – generell kompetanse
 
-Kandidatenkan bidra til at implementering og bruk av digitale verktøy og medisinsk utstyr er faglig forsvarligkan analysere etiske og juridiske utfordringer ved bruk av teknologi og digitale løsninger som er relevante for intensivsykepleie.
+Kandidaten
+
+1. kan bidra til at implementering og bruk av digitale verktøy og medisinsk utstyr er faglig forsvarlig
+2. kan analysere etiske og juridiske utfordringer ved bruk av teknologi og digitale løsninger som er relevante for intensivsykepleie.
 
 ## Kapittel 7. Kompetanseområde for vitenskapsteori, forskningsmetode og kunnskapsbasert praksis
 
 ### § 19. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – kunnskap
 
-Kandidatenhar inngående kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, ulike trinn i forskningsprosessen og forskningsetikk som er relevant for intensivsykepleie.har inngående kunnskap om kunnskapsbasert praksis og kvalitetsarbeid innen intensivsykepleie.
+Kandidaten
+
+1. har inngående kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, ulike trinn i forskningsprosessen og forskningsetikk som er relevant for intensivsykepleie.
+2. har inngående kunnskap om kunnskapsbasert praksis og kvalitetsarbeid innen intensivsykepleie.
 
 ### § 20. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til teori og ulike informasjonskilder, og anvende disse til å strukturere og formulere faglige resonnementer innen intensivsykepleiekan bruke metoder for å planlegge et avgrenset forsknings- eller kvalitetsarbeid ved bruk av relevante teorier og metoder i tråd med forskningsetiske normerkan identifisere faglige problemstillinger og avklare behov for forskning og kvalitetsarbeid.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til teori og ulike informasjonskilder, og anvende disse til å strukturere og formulere faglige resonnementer innen intensivsykepleie
+2. kan bruke metoder for å planlegge et avgrenset forsknings- eller kvalitetsarbeid ved bruk av relevante teorier og metoder i tråd med forskningsetiske normer
+3. kan identifisere faglige problemstillinger og avklare behov for forskning og kvalitetsarbeid.
 
 ### § 21. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – generell kompetanse
 
-Kandidatenkan analysere og forholde seg kritisk til kunnskapsbasert praksis for å kunne medvirke til utvikling av tjenestenkan formidle og kommunisere om forskningsbasert kunnskap i møte med pasient, pårørende, helsepersonell og allmennheten.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til kunnskapsbasert praksis for å kunne medvirke til utvikling av tjenesten
+2. kan formidle og kommunisere om forskningsbasert kunnskap i møte med pasient, pårørende, helsepersonell og allmennheten.
 
 ## Kapittel 8. Kompetanseområdet for forskning, kvalitetsarbeid og formidling
 
 ### § 22. Forskning, kvalitetsarbeid og formidling – kunnskap
 
-Kandidatenhar avansert kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, forskningsprosessen, vitenskapelig arbeid, kvalitetsarbeid og forskningsetikk, herunder personvernreguleringer og krav til innsamling og håndtering av data, som er relevant for intensivsykepleiehar spesialisert innsikt i de valgte metodiske tilnærmingene i det aktuelle forsknings- eller kvalitetsarbeidethar avansert kunnskap og spesialisert innsikt i et avgrenset område relevant for utøvelse av intensivsykepleie.
+Kandidaten
+
+1. har avansert kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, forskningsprosessen, vitenskapelig arbeid, kvalitetsarbeid og forskningsetikk, herunder personvernreguleringer og krav til innsamling og håndtering av data, som er relevant for intensivsykepleie
+2. har spesialisert innsikt i de valgte metodiske tilnærmingene i det aktuelle forsknings- eller kvalitetsarbeidet
+3. har avansert kunnskap og spesialisert innsikt i et avgrenset område relevant for utøvelse av intensivsykepleie.
 
 ### § 23. Forskning, kvalitetsarbeid og formidling – ferdigheter
 
-Kandidatenkan analysere og anvende teori og metoder til å formulere og strukturere faglige og teoretiske problemstillinger innen intensivsykepleiekan analysere og forholde seg kritisk til forsknings-, bruker- og erfaringskunnskap for å medvirke til utvikling av tjenestenkan gjennomføre et selvstendig avgrenset intensivsykepleiefaglig forsknings- eller kvalitetsarbeid under veiledning og i tråd med forskningsetiske prinsipper.
+Kandidaten
+
+1. kan analysere og anvende teori og metoder til å formulere og strukturere faglige og teoretiske problemstillinger innen intensivsykepleie
+2. kan analysere og forholde seg kritisk til forsknings-, bruker- og erfaringskunnskap for å medvirke til utvikling av tjenesten
+3. kan gjennomføre et selvstendig avgrenset intensivsykepleiefaglig forsknings- eller kvalitetsarbeid under veiledning og i tråd med forskningsetiske prinsipper.
 
 ### § 24. Forskning, kvalitetsarbeid og formidling – generell kompetanse
 
-Kandidatenkan anvende og formidle forsknings- eller kvalitetsarbeid for å bidra til utvikling av intensivsykepleiefaget og helsetjenestenkan analysere, konkludere og formidle faglige problemstillinger innenfor intensivsykepleiekan analysere relevante forskningsetiske problemstillinger innen intensivsykepleie.
+Kandidaten
+
+1. kan anvende og formidle forsknings- eller kvalitetsarbeid for å bidra til utvikling av intensivsykepleiefaget og helsetjenesten
+2. kan analysere, konkludere og formidle faglige problemstillinger innenfor intensivsykepleie
+3. kan analysere relevante forskningsetiske problemstillinger innen intensivsykepleie.
 
 ## Kapittel 9. Studiets oppbygning og praksisstudier
 

@@ -15,7 +15,7 @@ xml_hash: "e1948767fb2015ab6bc8cfc3258b718fa35ec921150e9c73a356c75c5d863064"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,20 @@ Eiendomsrett til bolig i bygning med flere bruksenheter kan bare stiftes, avhend
 
 ### § 4. Definisjoner
 
-I denne loven menes medeierseksjon: eierandel i en bebygd eller planlagt bebygd og seksjonert eiendom, med enerett for eieren til å bruke en bestemt bruksenhet i eiendommen.bruksenhet: et avgrenset areal av en seksjonert eiendom som en seksjonseier har enerett til å bruke til bolig eller annet formål. En bruksenhet består av en hoveddel og kan også ha tilleggsdeler. Bruksenheten må ha innvendige arealer og kan også ha utvendige arealer.bruksenhetens hoveddel: en sammenhengende og klart avgrenset del av en bygning, med egen inngang.bruksenhetens tilleggsdel: de delene av bruksenheten som ikke er hoveddel.fellesareal: de delene av eiendommen som ikke inngår i bruksenhetene.boligseksjon: en seksjon som skal brukes til helårsbolig eller fritidsbolig.næringsseksjon: en seksjon som skal brukes til annet enn bolig.samleseksjon: en seksjon som omfatter alle bruksenheter med samme formål.sameiebrøk: seksjonseierens forholdsmessige eierandel i sameiet.seksjonering: å dele en eiendom i flere bruksenheter etter reglene i loven her.reseksjonering: en ny seksjonering av en eller flere seksjoner i en allerede seksjonert eiendom.sameiet (eierseksjonssameiet): fellesskapet av alle seksjonseierne.
+I denne loven menes med
+
+1. eierseksjon: eierandel i en bebygd eller planlagt bebygd og seksjonert eiendom, med enerett for eieren til å bruke en bestemt bruksenhet i eiendommen.
+2. bruksenhet: et avgrenset areal av en seksjonert eiendom som en seksjonseier har enerett til å bruke til bolig eller annet formål. En bruksenhet består av en hoveddel og kan også ha tilleggsdeler. Bruksenheten må ha innvendige arealer og kan også ha utvendige arealer.
+3. bruksenhetens hoveddel: en sammenhengende og klart avgrenset del av en bygning, med egen inngang.
+4. bruksenhetens tilleggsdel: de delene av bruksenheten som ikke er hoveddel.
+5. fellesareal: de delene av eiendommen som ikke inngår i bruksenhetene.
+6. boligseksjon: en seksjon som skal brukes til helårsbolig eller fritidsbolig.
+7. næringsseksjon: en seksjon som skal brukes til annet enn bolig.
+8. samleseksjon: en seksjon som omfatter alle bruksenheter med samme formål.
+9. sameiebrøk: seksjonseierens forholdsmessige eierandel i sameiet.
+10. seksjonering: å dele en eiendom i flere bruksenheter etter reglene i loven her.
+11. reseksjonering: en ny seksjonering av en eller flere seksjoner i en allerede seksjonert eiendom.
+12. sameiet (eierseksjonssameiet): fellesskapet av alle seksjonseierne.
 
 ### § 5. Fravikelighet
 
@@ -90,7 +103,15 @@ Departementet kan i forskrift gi bestemmelser om oppbevaringstid for bestemte do
 
 ### § 7. Vilkår for seksjonering
 
-En søker har krav på tillatelse til å seksjonere en eiendom dersomhver seksjon har enerett til å bruke en bruksenhethver seksjon har en fast sameiebrøkbruksenhetens hoveddel er en klart avgrenset og sammenhengende del av en bygning og har egen inngangdet er avsatt tilstrekkelig parkeringsareal til å sikre det antallet parkeringsplasser som følger av byggetillatelsenalle bruksenhetene omfattes av seksjoneringenseksjoneringen bare omfatter én grunneiendom, festegrunn eller anleggseiendomdet er fastsatt om den enkelte seksjon skal brukes til bolig eller næring og bruksformålet er i samsvar med arealplanformålet eller annen bruk det er gitt tillatelse til.
+En søker har krav på tillatelse til å seksjonere en eiendom dersom
+
+1. hver seksjon har enerett til å bruke en bruksenhet
+2. hver seksjon har en fast sameiebrøk
+3. bruksenhetens hoveddel er en klart avgrenset og sammenhengende del av en bygning og har egen inngang
+4. det er avsatt tilstrekkelig parkeringsareal til å sikre det antallet parkeringsplasser som følger av byggetillatelsen
+5. alle bruksenhetene omfattes av seksjoneringen
+6. seksjoneringen bare omfatter én grunneiendom, festegrunn eller anleggseiendom
+7. det er fastsatt om den enkelte seksjon skal brukes til bolig eller næring og bruksformålet er i samsvar med arealplanformålet eller annen bruk det er gitt tillatelse til.
 
 I tillegg til vilkårene i første ledd må arealer som andre seksjonseiere trenger tilgang til, og arealer som etter plan- og bygningsloven er avsatt til felles uteoppholdsareal, seksjoneres til fellesareal.
 
@@ -124,9 +145,18 @@ Eierseksjoner opprettes ved tinglysing av vedtak om seksjonering fra kommunen.
 
 ### § 11. Krav til søknaden om seksjonering
 
-Hjemmelshaver til eiendommen kan søke om seksjonering. Søknaden skal inneholde:opplysninger om betegnelsen på eiendommenopplysninger om formålet med de enkelte seksjonene (bolig eller næring)opplysninger om sameiebrøken for de enkelte seksjonene.
+Hjemmelshaver til eiendommen kan søke om seksjonering. Søknaden skal inneholde:
 
-Søknaden om seksjonering skal minst ha følgende vedlegg:vedtekter for sameietsituasjonsplan over eiendommen som tydelig angir eiendommens grenser, omrisset av bebyggelsen og grensene for eventuelle utendørs tilleggsdeler som skal inngå i bruksenheteneplantegninger over etasjene i bygningen, inkludert kjeller og loft, som tydelig angir grensene for bruksenhetene, forslag til seksjonsnumrene og bruken av de enkelte rommenerekvisisjon av oppmålingsforretning dersom bruksenheten har utendørs tilleggsdeler.
+1. opplysninger om betegnelsen på eiendommen
+2. opplysninger om formålet med de enkelte seksjonene (bolig eller næring)
+3. opplysninger om sameiebrøken for de enkelte seksjonene.
+
+Søknaden om seksjonering skal minst ha følgende vedlegg:
+
+1. vedtekter for sameiet
+2. situasjonsplan over eiendommen som tydelig angir eiendommens grenser, omrisset av bebyggelsen og grensene for eventuelle utendørs tilleggsdeler som skal inngå i bruksenhetene
+3. plantegninger over etasjene i bygningen, inkludert kjeller og loft, som tydelig angir grensene for bruksenhetene, forslag til seksjonsnumrene og bruken av de enkelte rommene
+4. rekvisisjon av oppmålingsforretning dersom bruksenheten har utendørs tilleggsdeler.
 
 Søknaden skal inneholde en egenerklæring om at vilkårene for seksjonering i [§ 7](lov/2017-06-16-65/§7) er oppfylt.
 
@@ -232,7 +262,12 @@ Departementet kan i forskrift gi nærmere regler om hvordan sammenslåing av eie
 
 ### § 22 b. Plan for sammenslåing
 
-Styret skal senest i innkallingen til årsmøtet legge frem en plan for sammenslåingen som minst viseren angivelse av sameiene med gårds-, bruks- og seksjonsnummeret forslag til nye vedtekter for det utvidede sameieten utregning av sameiebrøker i det utvidede sameietdet siste årsregnskapet, den siste årsmeldingen og revisjonsmeldingen hvis det foreligger for de sameiene som skal slås sammen.
+Styret skal senest i innkallingen til årsmøtet legge frem en plan for sammenslåingen som minst viser
+
+1. en angivelse av sameiene med gårds-, bruks- og seksjonsnummer
+2. et forslag til nye vedtekter for det utvidede sameiet
+3. en utregning av sameiebrøker i det utvidede sameiet
+4. det siste årsregnskapet, den siste årsmeldingen og revisjonsmeldingen hvis det foreligger for de sameiene som skal slås sammen.
 
 Departementet kan i forskrift fastsette at søknad om sammenslåing og vedleggene til denne skal fremsettes på fastsatte blanketter.
 
@@ -244,7 +279,11 @@ Departementet kan i forskrift fastsette at søknad om sammenslåing og vedleggen
 
 Ingen kan kjøpe eller på annen måte erverve en boligseksjon hvis ervervet fører til at man blir eier av flere enn to boligseksjoner i eierseksjonssameiet.
 
-Første ledd gjelder tilsvarende hvis et erverv av en boligseksjon eller av aksjer eller andeler i et selskap fører til at flere enn to av boligseksjonene eies av noen som har slik tilknytning til hverandre:eierne er nærstående som nevnt i [aksjeloven § 1-5](lov/1997-06-13-44/§1-5) første leddeierne er selskaper i samme konsern. [Aksjeloven § 1-3](lov/1997-06-13-44/§1-3) gjelder tilsvarende, likevel slik at det regnes som konsern også hvis morselskapet har en annen foretaksform enn aksjeselskapeierne er selskaper som en fysisk person alene eller sammen med nærstående har bestemmende innflytelse over. [Aksjeloven §§ 1-5](lov/1997-06-13-44/§1-5) og [1-3](lov/1997-06-13-44/§1-3) gjelder tilsvarende.
+Første ledd gjelder tilsvarende hvis et erverv av en boligseksjon eller av aksjer eller andeler i et selskap fører til at flere enn to av boligseksjonene eies av noen som har slik tilknytning til hverandre:
+
+1. eierne er nærstående som nevnt i [aksjeloven § 1-5](lov/1997-06-13-44/§1-5) første ledd
+2. eierne er selskaper i samme konsern. [Aksjeloven § 1-3](lov/1997-06-13-44/§1-3) gjelder tilsvarende, likevel slik at det regnes som konsern også hvis morselskapet har en annen foretaksform enn aksjeselskap
+3. eierne er selskaper som en fysisk person alene eller sammen med nærstående har bestemmende innflytelse over. [Aksjeloven §§ 1-5](lov/1997-06-13-44/§1-5) og [1-3](lov/1997-06-13-44/§1-3) gjelder tilsvarende.
 
 Annet ledd bokstav a er ikke til hinder for at en nærstående erverver en boligseksjon som den nærstående selv eller dennes nærstående skal bruke som egen bolig.
 
@@ -276,7 +315,14 @@ Seksjonseiernes rettslige disposisjonsrett over seksjonene kan begrenses i vedte
 
 Er det i vedtektene fastsatt at styret skal godkjenne en ny seksjonseier eller leier av en seksjon, kan styret bare nekte godkjenning dersom det foreligger en saklig grunn. Forholdene som er nevnt i [§ 6](lov/2017-06-16-65/§6), er aldri en saklig grunn til å nekte godkjenning.
 
-Selv om det i vedtektene er nedlagt forbud mot at juridiske personer kan erverve seksjoner, kan følgende juridiske personer til sammen erverve inntil ti prosent, men likevel minst én boligseksjon, i eierseksjonssameier som består av fem eller flere seksjoner:statenfylkeskommunerkommunerselskaper som har til formål å skaffe boliger og som ledes og kontrolleres av staten, en fylkeskommune eller en kommunestiftelser som har til formål å skaffe boliger og som er opprettet av staten, en fylkeskommune eller en kommuneselskaper, stiftelser eller andre som har inngått en avtale med staten, en fylkeskommune eller en kommune om å skaffe boliger til vanskeligstilte.
+Selv om det i vedtektene er nedlagt forbud mot at juridiske personer kan erverve seksjoner, kan følgende juridiske personer til sammen erverve inntil ti prosent, men likevel minst én boligseksjon, i eierseksjonssameier som består av fem eller flere seksjoner:
+
+1. staten
+2. fylkeskommuner
+3. kommuner
+4. selskaper som har til formål å skaffe boliger og som ledes og kontrolleres av staten, en fylkeskommune eller en kommune
+5. stiftelser som har til formål å skaffe boliger og som er opprettet av staten, en fylkeskommune eller en kommune
+6. selskaper, stiftelser eller andre som har inngått en avtale med staten, en fylkeskommune eller en kommune om å skaffe boliger til vanskeligstilte.
 
 Fjerde ledd gjelder tilsvarende når det er fastsatt en begrensning på hvor mange seksjoner noen kan eie.
 
@@ -368,7 +414,17 @@ Panterett etter denne paragrafen kan gjøres gjeldende av styret og seksjonseier
 
 Seksjonseieren skal vedlikeholde bruksenheten slik at skader på fellesarealene og andre bruksenheter forebygges, og slik at de øvrige seksjonseierne slipper ulemper. Vedlikeholdsplikten omfatter også eventuelle tilleggsdeler til bruksenheten.
 
-Seksjonseierens vedlikeholdsplikt omfatter slikt sominventarutstyr, som vannklosett, varmtvannsbereder, badekar og vaskerapparater, for eksempel brannslukningsapparatskap, benker, innvendige dører med karmerlistverk, skillevegger, tapetgulvbelegg, varmekabler, membran og slukvegg-, gulv- og himlingsplaterrør, ledninger, sikringsskap fra og med første hovedsikring eller inntakssikringvinduer og ytterdører.
+Seksjonseierens vedlikeholdsplikt omfatter slikt som
+
+1. inventar
+2. utstyr, som vannklosett, varmtvannsbereder, badekar og vasker
+3. apparater, for eksempel brannslukningsapparat
+4. skap, benker, innvendige dører med karmer
+5. listverk, skillevegger, tapet
+6. gulvbelegg, varmekabler, membran og sluk
+7. vegg-, gulv- og himlingsplater
+8. rør, ledninger, sikringsskap fra og med første hovedsikring eller inntakssikring
+9. vinduer og ytterdører.
 
 Seksjonseieren skal vedlikeholde våtrom slik at lekkasjer unngås.
 
@@ -490,7 +546,11 @@ Saker som en seksjonseier ønsker behandlet i det ordinære årsmøtet, skal nev
 
 Årsmøtet skal behandle de sakene som er angitt i innkallingen til møtet.
 
-Uten hensyn til om sakene er nevnt i innkallingen, skal det ordinære årsmøtetbehandle styrets eventuelle årsberetningbehandle og eventuelt godkjenne styrets regnskap for foregående kalenderårvelge styremedlemmer.
+Uten hensyn til om sakene er nevnt i innkallingen, skal det ordinære årsmøtet
+
+1. behandle styrets eventuelle årsberetning
+2. behandle og eventuelt godkjenne styrets regnskap for foregående kalenderår
+3. velge styremedlemmer.
 
 Årsberetning, regnskap og eventuell revisjonsberetning skal senest en uke før ordinært årsmøte sendes ut til alle seksjonseiere med kjent adresse. Dokumentene skal dessuten være tilgjengelige i årsmøtet.
 
@@ -514,7 +574,12 @@ Styrelederen leder årsmøtet med mindre årsmøtet velger en annen møteleder. 
 
 ### § 48. Inhabilitet
 
-Ingen kan delta i en avstemning omet søksmål mot en selv eller ens nærståendeens eget eller ens nærståendes ansvar overfor sameietet søksmål mot andre eller andres ansvar overfor sameiet dersom egen interesse i saken er vesentlig og kan stride mot sameiets interesserpålegg eller krav etter [§§ 38](lov/2017-06-16-65/§38) og [39](lov/2017-06-16-65/§39) som er rettet mot en selv eller ens nærstående.
+Ingen kan delta i en avstemning om
+
+1. et søksmål mot en selv eller ens nærstående
+2. ens eget eller ens nærståendes ansvar overfor sameiet
+3. et søksmål mot andre eller andres ansvar overfor sameiet dersom egen interesse i saken er vesentlig og kan stride mot sameiets interesser
+4. pålegg eller krav etter [§§ 38](lov/2017-06-16-65/§38) og [39](lov/2017-06-16-65/§39) som er rettet mot en selv eller ens nærstående.
 
 Første ledd gjelder også for den som opptrer ved eller som fullmektig.
 
@@ -522,7 +587,15 @@ Første ledd gjelder også for den som opptrer ved eller som fullmektig.
 
 Beslutninger på årsmøtet tas med vanlig flertall av de avgitte stemmene hvis ikke andre flertallskrav er fastsatt i loven eller vedtektene. Vedtektene kan ikke fastsette strengere flertallskrav enn det som er fastsatt i loven.
 
-Det kreves et flertall på minst to tredjedeler av de avgitte stemmene på årsmøtet for å ta beslutning omombygging, påbygging eller andre endringer av bebyggelsen eller tomten som går ut over vanlig forvaltning og vedlikehold i det aktuelle sameietomgjøring av fellesarealer til nye bruksenheter eller utvidelse av eksisterende bruksenhetersalg, kjøp, utleie eller leie av fast eiendom, inkludert seksjoner i sameiet som tilhører eller skal tilhøre seksjonseierne i fellesskap, eller andre rettslige disposisjoner over fast eiendom som går ut over vanlig forvaltningsamtykke til at formålet for én eller flere bruksenheter endres fra boligformål til annet formål eller omvendtsamtykke til reseksjonering som nevnt i [§ 20](lov/2017-06-16-65/§20) annet ledd annet punktumsamtykke til sammenslåing av eierseksjonssameier som nevnt i [§ 22 a](lov/2017-06-16-65/§22a)ombygging eller annen tilrettelegging som fører til at bruksenheten kan brukes som bolig for flere personer enn det som er vanlig for bruksenheter med tilsvarende størrelse og romløsning.
+Det kreves et flertall på minst to tredjedeler av de avgitte stemmene på årsmøtet for å ta beslutning om
+
+1. ombygging, påbygging eller andre endringer av bebyggelsen eller tomten som går ut over vanlig forvaltning og vedlikehold i det aktuelle sameiet
+2. omgjøring av fellesarealer til nye bruksenheter eller utvidelse av eksisterende bruksenheter
+3. salg, kjøp, utleie eller leie av fast eiendom, inkludert seksjoner i sameiet som tilhører eller skal tilhøre seksjonseierne i fellesskap, eller andre rettslige disposisjoner over fast eiendom som går ut over vanlig forvaltning
+4. samtykke til at formålet for én eller flere bruksenheter endres fra boligformål til annet formål eller omvendt
+5. samtykke til reseksjonering som nevnt i [§ 20](lov/2017-06-16-65/§20) annet ledd annet punktum
+6. samtykke til sammenslåing av eierseksjonssameier som nevnt i [§ 22 a](lov/2017-06-16-65/§22a)
+7. ombygging eller annen tilrettelegging som fører til at bruksenheten kan brukes som bolig for flere personer enn det som er vanlig for bruksenheter med tilsvarende størrelse og romløsning.
 
 > Endret ved lover [4 des 2020 nr. 137](lov/2020-12-04-137) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2591](forskrift/2020-12-04-2591)), [11 mai 2021 nr. 37](lov/2021-05-11-37) (ikr. 1 juli 2021 iflg. [res. 11 mai 2021 nr. 1542](forskrift/2021-05-11-1542)).
 
@@ -534,7 +607,12 @@ Hvis tiltak etter første ledd fører med seg et samlet økonomisk ansvar eller 
 
 ### § 51. Beslutninger som krever enighet fra alle seksjonseiere
 
-Alle seksjonseiere må, enten på årsmøtet eller på et annet tidspunkt, uttrykkelig si seg enige hvis sameiet skal kunne ta beslutning omsalg eller bortfeste av hele eller vesentlige deler av eiendommenoppløsning av sameiettiltak som medfører en vesentlig endring av sameiets karaktertiltak som går ut over seksjonseiernes bo- eller bruksinteresser, uavhengig av størrelsen på kostnaden som tiltaket medfører, og uavhengig av hvor stort økonomisk ansvar eller utlegg tiltaket medfører for de enkelte seksjonseierne.
+Alle seksjonseiere må, enten på årsmøtet eller på et annet tidspunkt, uttrykkelig si seg enige hvis sameiet skal kunne ta beslutning om
+
+1. salg eller bortfeste av hele eller vesentlige deler av eiendommen
+2. oppløsning av sameiet
+3. tiltak som medfører en vesentlig endring av sameiets karakter
+4. tiltak som går ut over seksjonseiernes bo- eller bruksinteresser, uavhengig av størrelsen på kostnaden som tiltaket medfører, og uavhengig av hvor stort økonomisk ansvar eller utlegg tiltaket medfører for de enkelte seksjonseierne.
 
 ### § 52. Beregning av flertall og opptelling av stemmer på årsmøtet
 

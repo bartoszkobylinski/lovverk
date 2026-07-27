@@ -15,7 +15,7 @@ xml_hash: "9ddcde60d5c1dd36122f8ba24e6e98253c78f6eea1ab2c9cd832e6ca4a24460a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,12 @@ eu_basis: []
 
 (2) Ph.d.-utdanningen skal gi ph.d.-kandidaten kunnskaper, ferdigheter og kompetanse i tråd med det nasjonale kvalifikasjonsrammeverket. Ph.d.-utdanningen organiseres i programmer normert til tre års fulltidsstudier som inkluderer en opplæringsdel på minimum 30 studiepoeng. Ph.d.-utdanningens viktigste komponent er et selvstendig forskningsarbeid eller kombinert forsknings- og utviklingsarbeid som gjennomføres under aktiv veiledning.
 
-(3) Graden philosophiae doctor (ph.d.) tildeles på grunnlag av:Godkjent opplæringsdelGodkjent vitenskapelig avhandlingGodkjent prøveforelesning over oppgitt emneGodkjent offentlig forsvar av avhandlingen (disputas).
+(3) Graden philosophiae doctor (ph.d.) tildeles på grunnlag av:
+
+1. Godkjent opplæringsdel
+2. Godkjent vitenskapelig avhandling
+3. Godkjent prøveforelesning over oppgitt emne
+4. Godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 3. Ansvar for ph.d.-utdanningen
 
@@ -72,7 +77,18 @@ Alle aktuelle nivå ved NMBU har ansvar for at kvalitetssystemet for utdanningsv
 
 (2) Søkeren skal ha en dokumentert sterk faglig bakgrunn fra sitt tidligere studium. Fakultetet kan fastsette ytterligere opptakskrav, etter kriterier som er åpent tilgjengelige. Fakultetet det søkes opptak ved kan stille krav om at søker gjennomgår særskilte kurs og/eller består særskilt prøve før opptak.
 
-(3) Det kreves dokumenterte kunnskaper i engelsk, skriftlig og muntlig. Kravet kan dekkes på én av følgende måter:Engelsk fra Vg1 i norsk videregående skole (140 årstimer) med karakteren 4 eller bedre, eventuelt engelsk tatt som programfag med minimum 140 timers omfang.Engelsk språktest:TOEFL-test med minst 580 poeng for Paper-based test (PBT), eller 92 poeng for Internet-based test (IBT), ellerIELTS Academic test med minst 7.0 poeng, ellerCambridge Certificate, C1 Advanced eller C2 Proficiency, med karakteren C eller bedre, ellerPearson Test of English (PTE Academic) med minst 65 poeng.Minimum ett fullført år av universitetsstudier i Storbritannia, Irland, USA, Canada, New Zealand eller Australia. En fullført bachelorgrad, eller minimum ett fullført år av masterstudier, med engelsk som undervisningsspråk, i et nordisk land.Engelskferdigheter på tilsvarende nivå som beskrevet i punktene a.–c., men dokumentert på andre måter, kan i særskilte tilfeller godkjennes av fakultetet etter en individuell vurdering av søkers dokumentasjon.
+(3) Det kreves dokumenterte kunnskaper i engelsk, skriftlig og muntlig. Kravet kan dekkes på én av følgende måter:
+
+1. Engelsk fra Vg1 i norsk videregående skole (140 årstimer) med karakteren 4 eller bedre, eventuelt engelsk tatt som programfag med minimum 140 timers omfang.
+2. Engelsk språktest:
+
+   1. TOEFL-test med minst 580 poeng for Paper-based test (PBT), eller 92 poeng for Internet-based test (IBT), eller
+   2. IELTS Academic test med minst 7.0 poeng, eller
+   3. Cambridge Certificate, C1 Advanced eller C2 Proficiency, med karakteren C eller bedre, eller
+   4. Pearson Test of English (PTE Academic) med minst 65 poeng.
+3. Minimum ett fullført år av universitetsstudier i Storbritannia, Irland, USA, Canada, New Zealand eller Australia. En fullført bachelorgrad, eller minimum ett fullført år av masterstudier, med engelsk som undervisningsspråk, i et nordisk land.
+
+Engelskferdigheter på tilsvarende nivå som beskrevet i punktene a.–c., men dokumentert på andre måter, kan i særskilte tilfeller godkjennes av fakultetet etter en individuell vurdering av søkers dokumentasjon.
 
 ### § 5-3. Opptakskrav – krav til finansiering
 
@@ -82,7 +98,18 @@ Finansiering for hele ph.d.-utdanningen må dokumenteres. Dersom finansiering er
 
 (1) En søknad om stipendiatstilling ved NMBU er samtidig en søknad om opptak til et ph.d.-program. Opptakssøknaden skal ha den form og det innhold, og følges av den dokumentasjon, som NMBU fastsetter.
 
-(2) Søkere med annen finansiering enn via stipendiatstilling ved NMBU, skal sende søknad til fakultetet, i den form NMBU fastsetter, innen to måneder etter startdato for finansiering av ph.d.-utdanningen. Søknaden skal minimum inneholde:Dokumentasjon av den utdanningen som skal ligge til grunn for opptaket og av engelskkunnskaper, jf. § 5-2.Statsborgerskap dokumentert vha. pass dersom søker ikke er norsk statsborger.Dokumentasjon på fullfinansiering av hele opptaksperioden, jf. § 5-3; finansieringsplan og avtale(r) om ekstern finansiering.Prosjektskisse med faglig redegjørelse for prosjektet og fremdriftsplan.Beskrivelse av eventuelle spesielle behov for faglige og materielle ressurser, som tilgang til nødvendig infrastruktur for å gjennomføre ph.d.-prosjektet, og eventuell avtale om dette med ekstern part.Forslag om veiledere og tilknytning til fagmiljø.Opplysninger om planlagt hovedarbeidssted.Opplysninger om eventuelle immateriellrettslige forhold.Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser.Informasjon om hvorvidt prosjektet er avhengig av tillatelse fra forskningsetiske komiteer, tillatelse til behandling av personopplysninger eller andre tillatelser. Slike tillatelser bør om mulig legges ved søknaden.
+(2) Søkere med annen finansiering enn via stipendiatstilling ved NMBU, skal sende søknad til fakultetet, i den form NMBU fastsetter, innen to måneder etter startdato for finansiering av ph.d.-utdanningen. Søknaden skal minimum inneholde:
+
+1. Dokumentasjon av den utdanningen som skal ligge til grunn for opptaket og av engelskkunnskaper, jf. § 5-2.
+2. Statsborgerskap dokumentert vha. pass dersom søker ikke er norsk statsborger.
+3. Dokumentasjon på fullfinansiering av hele opptaksperioden, jf. § 5-3; finansieringsplan og avtale(r) om ekstern finansiering.
+4. Prosjektskisse med faglig redegjørelse for prosjektet og fremdriftsplan.
+5. Beskrivelse av eventuelle spesielle behov for faglige og materielle ressurser, som tilgang til nødvendig infrastruktur for å gjennomføre ph.d.-prosjektet, og eventuell avtale om dette med ekstern part.
+6. Forslag om veiledere og tilknytning til fagmiljø.
+7. Opplysninger om planlagt hovedarbeidssted.
+8. Opplysninger om eventuelle immateriellrettslige forhold.
+9. Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser.
+10. Informasjon om hvorvidt prosjektet er avhengig av tillatelse fra forskningsetiske komiteer, tillatelse til behandling av personopplysninger eller andre tillatelser. Slike tillatelser bør om mulig legges ved søknaden.
 
 ### § 5-5. Søknadsbehandling og opptaksvedtak
 
@@ -92,7 +119,11 @@ Finansiering for hele ph.d.-utdanningen må dokumenteres. Dersom finansiering er
 
 (3) Vedtak om opptak skal slå fast hvordan finansieringskravet oppfylles jf. § 5-3, inneholde oppnevning av veiledere, eventuelt krav om residensplikt, plassering av ansvaret for håndtering av særskilte behov som er skissert i søknaden, og avtaleperioden skal fastsettes med oppstartdato og sluttdato. Oppstartdato skal settes lik startdato for finansiering. Eventuelle forbehold som tas og frist for innfrielse av disse skal gå tydelig frem av opptaksvedtaket.
 
-(4) Søknad om opptak skal avvises dersom:Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen.Avtaler med ekstern tredjepart er i strid med NMBUs Retningslinjer for forvaltning av immaterielle rettigheter og fysisk materiale i eksterne relasjoner.Det ved søknadstidspunktet gjenstår mindre enn ett års fulltidsarbeid med prosjektet som er tenkt å lede frem til ph.d.-graden. Unntak fra dette kan kun gjøres for søkere fra forskerlinjer.
+(4) Søknad om opptak skal avvises dersom:
+
+1. Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen.
+2. Avtaler med ekstern tredjepart er i strid med NMBUs Retningslinjer for forvaltning av immaterielle rettigheter og fysisk materiale i eksterne relasjoner.
+3. Det ved søknadstidspunktet gjenstår mindre enn ett års fulltidsarbeid med prosjektet som er tenkt å lede frem til ph.d.-graden. Unntak fra dette kan kun gjøres for søkere fra forskerlinjer.
 
 ### § 6. Ph.d.-avtale, utdanningsplan, datahåndteringsplan, avtaleperiode, og avslutning før avtalt tid
 
@@ -123,7 +154,16 @@ Finansiering for hele ph.d.-utdanningen må dokumenteres. Dersom finansiering er
 (1) *Frivillig avslutning*
 Ph.d.-kandidaten og fakultetet kan avtale at ph.d.-utdanningen avsluttes før avtalt tid. Ved slik frivillig avslutning av ph.d.-utdanningen skal det fastsettes skriftlig hvordan partene ordner spørsmål om eventuelle tilsettingsforhold, finansiering, rettigheter til resultater mv. Ved frivillig avslutning som skyldes at ph.d.-kandidaten ønsker å skifte prosjekt og/eller ph.d.-program, skal ph.d.-kandidaten søke relevant fakultet om nytt opptak på grunnlag av det nye prosjektet eller ønsket om overgang. I denne sammenhengen er overgang til fri grad (dr.philos.) det samme som frivillig avslutning.
 
-(2) *Tvungen avslutning*Dekan kan med hjemmel i [UH-loven § 13-2](lov/2024-03-08-9/§13-2) vedta tvungen avslutning av ph.d.-utdanningen dersom en ph.d.-kandidat har opptrådt vitenskapelig uredelig etter [forskningsetikkloven § 8 andre ledd](lov/2017-04-28-23/§8/ledd/2). Retningslinjer for behandling av saker om vitenskapelig uredelighet ved NMBU skal følges. Departementet er klageinstans for vedtak om tvungen avslutning jf. [UH-loven § 13-2 første ledd](lov/2024-03-08-9/§13-2/ledd/1).Dekan kan med hjemmel i [UH-loven § 13-2 annet ledd](lov/2024-03-08-9/§13-2/ledd/2) vedta tvungen avslutning av ph.d.-utdanningen når en ph.d.-kandidat i vesentlig grad ikke oppfyller sine forpliktelser etter ph.d.-avtalen. NMBUs nemnd for studentsaker er klageinstans for vedtak om tvungen avslutning etter [UH-loven § 13-2 annet ledd](lov/2024-03-08-9/§13-2/ledd/2) jf. [§ 14-1 annet ledd](lov/2024-03-08-9/§14-1/ledd/2). Før vedtak om tvungen avslutning treffes, skal kandidaten forhåndsvarsles jf. [forvaltningsloven § 16](lov/1967-02-10/§16). Tvungen avslutning kan besluttes hvis ett eller flere av følgende forhold foreligger:Vesentlig forsinkelse i gjennomføring av opplæringsdelen grunnet forhold som ph.d.-kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt.Forsinkelse i fremdriften av ph.d.-prosjektet som er av en slik art at det skaper begrunnet tvil om ph.d.-kandidaten vil kunne fullføre til avtalt tid. For å danne grunnlag for tvungen avslutning, må forsinkelsen skyldes forhold som ph.d.-kandidaten selv rår over.Opptreden fra en ph.d.-kandidat bryter med den tillit som må foreligge mellom NMBU og ph.d.-kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen som for eksempel fusk i emne i opplæringsdelen.Ph.d.-kandidaten skal få mulighet til å uttale seg før det blir fattet vedtak om tvungen avslutning.
+(2) *Tvungen avslutning*
+
+1. Dekan kan med hjemmel i [UH-loven § 13-2](lov/2024-03-08-9/§13-2) vedta tvungen avslutning av ph.d.-utdanningen dersom en ph.d.-kandidat har opptrådt vitenskapelig uredelig etter [forskningsetikkloven § 8 andre ledd](lov/2017-04-28-23/§8/ledd/2). Retningslinjer for behandling av saker om vitenskapelig uredelighet ved NMBU skal følges. Departementet er klageinstans for vedtak om tvungen avslutning jf. [UH-loven § 13-2 første ledd](lov/2024-03-08-9/§13-2/ledd/1).
+2. Dekan kan med hjemmel i [UH-loven § 13-2 annet ledd](lov/2024-03-08-9/§13-2/ledd/2) vedta tvungen avslutning av ph.d.-utdanningen når en ph.d.-kandidat i vesentlig grad ikke oppfyller sine forpliktelser etter ph.d.-avtalen. NMBUs nemnd for studentsaker er klageinstans for vedtak om tvungen avslutning etter [UH-loven § 13-2 annet ledd](lov/2024-03-08-9/§13-2/ledd/2) jf. [§ 14-1 annet ledd](lov/2024-03-08-9/§14-1/ledd/2). Før vedtak om tvungen avslutning treffes, skal kandidaten forhåndsvarsles jf. [forvaltningsloven § 16](lov/1967-02-10/§16). Tvungen avslutning kan besluttes hvis ett eller flere av følgende forhold foreligger:
+
+   1. Vesentlig forsinkelse i gjennomføring av opplæringsdelen grunnet forhold som ph.d.-kandidaten selv rår over.
+   2. Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt.
+   3. Forsinkelse i fremdriften av ph.d.-prosjektet som er av en slik art at det skaper begrunnet tvil om ph.d.-kandidaten vil kunne fullføre til avtalt tid. For å danne grunnlag for tvungen avslutning, må forsinkelsen skyldes forhold som ph.d.-kandidaten selv rår over.
+   4. Opptreden fra en ph.d.-kandidat bryter med den tillit som må foreligge mellom NMBU og ph.d.-kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen som for eksempel fusk i emne i opplæringsdelen.
+3. Ph.d.-kandidaten skal få mulighet til å uttale seg før det blir fattet vedtak om tvungen avslutning.
 
 ### § 6-4. Oppsigelse og avskjed
 
@@ -205,7 +245,12 @@ Gravide ph.d.-kandidater har rett til utsatt eksamen i emner og kurs som skal in
 
 (1) En del av kvalitetssikringen av ph.d.-utdanningen skal være minimum tre faste seminarer i avtaleperioden: Et startseminar, en midtveisevaluering og et sluttseminar.
 
-(2) Det skal legges særlig vekt på midtveisevalueringen.Midtveisevaluering skal gjennomføres når kandidaten har fullført maksimum to studieår av utdanningstiden.Kandidaten skal presentere sitt arbeid og bli evaluert av en gruppe på minst to personer som er oppnevnt av fakultetet; én av kandidatens veiledere og ett annet medlem med vitenskapelig kompetanse innen kandidatens fagområde som kommer fra kandidatens fakultet eller utenfra.Evalueringsgruppen skal ta stilling til faglig status og fremdrift, og skal gi tilbakemelding slik NMBU fastsetter, til både kandidaten, veilederne og fakultetet.Dersom evalueringsgruppen rapporterer om vesentlige svakheter ved doktorgradsarbeidet, slik at det er fare for at utdanningen ikke kan gjennomføres på normert tid, skal fakultetet i samarbeid med veilederne og kandidaten, iverksette tiltak for å legge til rette for fullføring.
+(2) Det skal legges særlig vekt på midtveisevalueringen.
+
+1. Midtveisevaluering skal gjennomføres når kandidaten har fullført maksimum to studieår av utdanningstiden.
+2. Kandidaten skal presentere sitt arbeid og bli evaluert av en gruppe på minst to personer som er oppnevnt av fakultetet; én av kandidatens veiledere og ett annet medlem med vitenskapelig kompetanse innen kandidatens fagområde som kommer fra kandidatens fakultet eller utenfra.
+3. Evalueringsgruppen skal ta stilling til faglig status og fremdrift, og skal gi tilbakemelding slik NMBU fastsetter, til både kandidaten, veilederne og fakultetet.
+4. Dersom evalueringsgruppen rapporterer om vesentlige svakheter ved doktorgradsarbeidet, slik at det er fare for at utdanningen ikke kan gjennomføres på normert tid, skal fakultetet i samarbeid med veilederne og kandidaten, iverksette tiltak for å legge til rette for fullføring.
 
 ### § 10. Avhandlingen
 
@@ -261,7 +306,14 @@ Forskningsdata som ligger til grunn for den vitenskapelige avhandlingen skal opp
 
 (1) Innlevering av avhandlingen skal være anbefalt av hovedveileder, eller eventuelt av fakultetet. Ph.d.-kandidaten kan søke fakultetet om å få avhandlingen bedømt først etter at opplæringsdelen er godkjent, jf. § 8-3 første ledd.
 
-(2) Søknad om å få avhandlingen bedømt leveres til fakultetet. Søknaden skal inneholde:Avhandlingen i elektronisk (PDF-) format.Bekreftelse på at fakultetet har godkjent opplæringsdelen.Medforfattererklæringer der dette er påkrevd, jf. § 10-1 femte ledd.Erklæring fra hovedveileder.Dokumentasjon av nødvendige tillatelser der dette er påkrevd, jf. § 5-4 andre ledd.Bekreftelse på at avhandlingen ikke er levert inn til bedømmelse ved annen institusjon.
+(2) Søknad om å få avhandlingen bedømt leveres til fakultetet. Søknaden skal inneholde:
+
+1. Avhandlingen i elektronisk (PDF-) format.
+2. Bekreftelse på at fakultetet har godkjent opplæringsdelen.
+3. Medforfattererklæringer der dette er påkrevd, jf. § 10-1 femte ledd.
+4. Erklæring fra hovedveileder.
+5. Dokumentasjon av nødvendige tillatelser der dette er påkrevd, jf. § 5-4 andre ledd.
+6. Bekreftelse på at avhandlingen ikke er levert inn til bedømmelse ved annen institusjon.
 
 ### § 12-2. Behandling av søknaden
 
@@ -273,7 +325,12 @@ Fakultetet behandler søknad om å få avhandlingen bedømt. Søknad som ikke fy
 
 (2) Veilederne, ved hovedveileder, foreslår bedømmelseskomité. Forslaget skal begrunnes og vise hvordan komiteen samlet dekker doktorgradsarbeidets fagfelt. Dersom noen av kriteriene i § 13 tredje ledd fravikes skal dette begrunnes særskilt.
 
-(3) Komiteen skal settes sammen slik at:Alle medlemmene har doktorgrad, eller bedømt førsteamanuensis eller professorkompetanse (jf. [universitets- og høyskoleforskriften § 3-6](forskrift/2024-06-28-1392/§3-6) og [§ 3-7](forskrift/2024-06-28-1392/§3-7)), innen relevant fagområde.To av medlemmene er uten tilknytning til NMBU, og minst ett medlem bør ha hovedstilling ved en anerkjent utenlandsk forskningsinstitusjon.Forskjellige kjønn er representert, såfremt mulig.Ett av medlemmene er fast ansatt ved NMBU, og er også komiteens leder og koordinator.
+(3) Komiteen skal settes sammen slik at:
+
+1. Alle medlemmene har doktorgrad, eller bedømt førsteamanuensis eller professorkompetanse (jf. [universitets- og høyskoleforskriften § 3-6](forskrift/2024-06-28-1392/§3-6) og [§ 3-7](forskrift/2024-06-28-1392/§3-7)), innen relevant fagområde.
+2. To av medlemmene er uten tilknytning til NMBU, og minst ett medlem bør ha hovedstilling ved en anerkjent utenlandsk forskningsinstitusjon.
+3. Forskjellige kjønn er representert, såfremt mulig.
+4. Ett av medlemmene er fast ansatt ved NMBU, og er også komiteens leder og koordinator.
 
 (4) Oppnevnte veiledere og andre som har bidratt til arbeidet med ph.d.-prosjektet eller avhandlingen kan ikke være medlemmer av bedømmelseskomiteen.
 
@@ -299,7 +356,11 @@ Komiteens koordinator skal gjøre de eksterne medlemmene av bedømmelseskomiteen
 
 ### § 14-3. Bedømmelseskomiteens innstilling
 
-(1) komiteen leverer en felles, grunngitt innstilling til fakultetet om hvorvidt avhandlingen er verdig til å forsvares for doktorgraden. Alle deler av den innleverte eller fremviste dokumentasjonen skal omtales ut fra kriteriene i § 10. Innstillingen bør ha en drøftende form og avsluttes med en klar konklusjon om at komiteen:Tilrår at avhandlingen godkjennes for disputas, ellerTilrår at fakultetet tillater en mindre omarbeiding av avhandlingen før endelig innstilling foreligger, jf. § 14-2 tredje ledd, ellerTilrår at avhandlingen ikke godkjennes for disputas (underkjennes), jf. § 14-2 fjerde ledd.
+(1) komiteen leverer en felles, grunngitt innstilling til fakultetet om hvorvidt avhandlingen er verdig til å forsvares for doktorgraden. Alle deler av den innleverte eller fremviste dokumentasjonen skal omtales ut fra kriteriene i § 10. Innstillingen bør ha en drøftende form og avsluttes med en klar konklusjon om at komiteen:
+
+1. Tilrår at avhandlingen godkjennes for disputas, eller
+2. Tilrår at fakultetet tillater en mindre omarbeiding av avhandlingen før endelig innstilling foreligger, jf. § 14-2 tredje ledd, eller
+3. Tilrår at avhandlingen ikke godkjennes for disputas (underkjennes), jf. § 14-2 fjerde ledd.
 
 (2) Bedømmelseskomiteen skal i innstillingen vurdere avhandlingens nivå i forhold til internasjonal standard i fagområdet.
 

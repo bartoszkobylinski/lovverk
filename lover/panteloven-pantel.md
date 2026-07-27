@@ -15,7 +15,7 @@ xml_hash: "e39807518da1af0c09552b3844488605751b7254565ac30e53a11e959ebb31a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,13 @@ eu_basis: []
 
 ### § 1-5. Panterett for tilleggskrav.
 
-Når ikke annet følger av stiftelsesgrunnlaget for panteretten, omfatter panteretten også følgende tilleggskrav:omkostninger ved inndrivelse av pantekravet,renter som er opptjent senere enn to år før en panthaver begjærer tvangsdekning, forutsatt at dekning gjennomføres, eller senere enn to år før det åpnes gjeldsforhandling etter konkursloven eller gjeldsordningsloven, eller konkurs hos eieren.grunnbyrdeytelse som er forfalt senere enn to år før tidspunkt som angitt under bokstav b,premie for brannforsikring og annen vanlig tingsskadeforsikring for senere enn ett år før det tidspunkt som er angitt under bokstav b, når panthaveren har betalt premien for eieren, ognødvendige utgifter til bevaring av og tilsyn med pantet, når panthaver har dekket slike utgifter under en konkurs etter avtale med bostyreren.
+Når ikke annet følger av stiftelsesgrunnlaget for panteretten, omfatter panteretten også følgende tilleggskrav:
+
+1. omkostninger ved inndrivelse av pantekravet,
+2. renter som er opptjent senere enn to år før en panthaver begjærer tvangsdekning, forutsatt at dekning gjennomføres, eller senere enn to år før det åpnes gjeldsforhandling etter konkursloven eller gjeldsordningsloven, eller konkurs hos eieren.
+3. grunnbyrdeytelse som er forfalt senere enn to år før tidspunkt som angitt under bokstav b,
+4. premie for brannforsikring og annen vanlig tingsskadeforsikring for senere enn ett år før det tidspunkt som er angitt under bokstav b, når panthaveren har betalt premien for eieren, og
+5. nødvendige utgifter til bevaring av og tilsyn med pantet, når panthaver har dekket slike utgifter under en konkurs etter avtale med bostyreren.
 
 Panteretten etter første ledd bokstav b for renter opptjent senere enn to år før det er åpnet gjeldsforhandling etter gjeldsordningsloven hos eieren består inntil to år etter at gjeldsordningsperioden er utløpt. Dersom panthaver begjærer tvangsdekning i gjeldsordningsperioden, eller etter opphevelse av en gjeldsordning, omfatter panteretten både renter opptjent senere enn to år før det ble åpnet gjeldsforhandling, og renter opptjent senere enn to år før begjæringen om tvangsdekning, forutsatt at dekning gjennomføres.
 
@@ -106,7 +112,13 @@ Panteretten etter første ledd bokstav b for renter opptjent senere enn to år f
 
 ### § 1-9. Forfall.
 
-(1) Foruten til vanlig forfallstid kan panthaveren kreve at pantekravet blir innfriddnår plikten til å betale renter og avdrag blir vesentlig misligholdt,når pantet blir tvangssolgt,når det blir åpnet gjeldsforhandling eller konkurs hos skyldneren eller hos pantets eier,når eieren eller pantsetteren vesentlig misbruker sin råderett over pantet eller forøvrig vesentlig forsømmer sine plikter etter [§ 1-7](lov/1980-02-08-2/§1-7),når pantet går tapt eller blir skadet ved en tilfeldig begivenhet, og dette medfører at pantesikkerheten blir vesentlig forminsket.
+(1) Foruten til vanlig forfallstid kan panthaveren kreve at pantekravet blir innfridd
+
+1. når plikten til å betale renter og avdrag blir vesentlig misligholdt,
+2. når pantet blir tvangssolgt,
+3. når det blir åpnet gjeldsforhandling eller konkurs hos skyldneren eller hos pantets eier,
+4. når eieren eller pantsetteren vesentlig misbruker sin råderett over pantet eller forøvrig vesentlig forsømmer sine plikter etter [§ 1-7](lov/1980-02-08-2/§1-7),
+5. når pantet går tapt eller blir skadet ved en tilfeldig begivenhet, og dette medfører at pantesikkerheten blir vesentlig forminsket.
 
 (2) Krav om innfrielse etter første ledd bokstav c gir ikke rett til å kreve forsinkelsesrente.
 
@@ -190,7 +202,11 @@ Krav i eller i medhold av loven her om at varsel, melding, bekreftelse, samtykke
 
 ### § 2-2. Hva panterett i fast eiendom omfatter.
 
-(1) Når ikke annet er avtalt, omfatter pantsettelse av fast eiendomgrunnen,hus og andre byggverk og anlegg på grunnen som pantsetteren eier eller som han selv eller senere eier lar oppføre der, ogtilbehør og rettigheter som nevnt i [avhendingslova §§ 3-4](lov/1992-07-03-93/§3-4) til [3-6](lov/1992-07-03-93/§3-6).
+(1) Når ikke annet er avtalt, omfatter pantsettelse av fast eiendom
+
+1. grunnen,
+2. hus og andre byggverk og anlegg på grunnen som pantsetteren eier eller som han selv eller senere eier lar oppføre der, og
+3. tilbehør og rettigheter som nevnt i [avhendingslova §§ 3-4](lov/1992-07-03-93/§3-4) til [3-6](lov/1992-07-03-93/§3-6).
 
 (2) – – –
 
@@ -198,7 +214,10 @@ Krav i eller i medhold av loven her om at varsel, melding, bekreftelse, samtykke
 
 ### § 2-3. Hva panterett i festerett til grunn og hus m.m. på grunnen omfatter.
 
-(1) Pantsettelse av festerett til grunn og hus m.m. på grunnen skal omfattealle rettigheter som pantsetteren har etter festeavtalen, oghus og andre byggverk og anlegg på grunnen som pantsetteren eier eller som han eller senere fester lar oppføre der.
+(1) Pantsettelse av festerett til grunn og hus m.m. på grunnen skal omfatte
+
+1. alle rettigheter som pantsetteren har etter festeavtalen, og
+2. hus og andre byggverk og anlegg på grunnen som pantsetteren eier eller som han eller senere fester lar oppføre der.
 
 (2) [§ 2-2](lov/1980-02-08-2/§2-2) første ledd bokstav c gjelder tilsvarende.
 
@@ -208,7 +227,10 @@ Krav i eller i medhold av loven her om at varsel, melding, bekreftelse, samtykke
 
 ### § 2-4. Pantsettelse av eierseksjon.
 
-(1) Pantsettelse av eierseksjon skal omfatte:den bruksenhet i bygning som pantsetteren har eiendomsrett eller eksklusiv bruksrett til, ogden tilhørende sameieandel i eiendomen.
+(1) Pantsettelse av eierseksjon skal omfatte:
+
+1. den bruksenhet i bygning som pantsetteren har eiendomsrett eller eksklusiv bruksrett til, og
+2. den tilhørende sameieandel i eiendomen.
 
 (2) [§ 2-2](lov/1980-02-08-2/§2-2) første ledd bokstav c gjelder tilsvarende.
 
@@ -282,7 +304,13 @@ Panterett etter [§ 3-4](lov/1980-02-08-2/§3-4), [§§ 3-8](lov/1980-02-08-2/§
 
 (1) Næringsdrivende kan underpantsette driftstilbehør som brukes i eller er bestemt for hans næringsvirksomhet.
 
-(2) Som driftstilbehør anseesmaskiner, redskaper, innbo og annet utstyr,rett til varemerke, patent, design og planteforedlerrett, herunder rett til søknad om slike rettigheter, rett til supplerende beskyttelsessertifikat, sekundært forretningskjennetegn, kretsmønster for integrerte kretser, rettigheter til produsenter av lydopptak og film etter [åndsverkloven § 20](lov/2018-06-15-40/§20), databaser som er vernet etter [åndsverkloven § 24](lov/2018-06-15-40/§24), ervervet opphavsrett, herunder rett til utøvende kunstneres fremføring av et verk, og ervervet rett til fotografiske bilder, ogundersøkelsesrett etter [lov 19. juni 2009 nr. 101](lov/2009-06-19-101) om erverv og utvinning av mineralressurser.Rettigheter som nevnt i bokstav b regnes ikke som driftstilbehør dersom de utelukkende utnyttes eller er bestemt for å utnyttes gjennom overdragelse eller utstedelse av lisenser.
+(2) Som driftstilbehør ansees
+
+1. maskiner, redskaper, innbo og annet utstyr,
+2. rett til varemerke, patent, design og planteforedlerrett, herunder rett til søknad om slike rettigheter, rett til supplerende beskyttelsessertifikat, sekundært forretningskjennetegn, kretsmønster for integrerte kretser, rettigheter til produsenter av lydopptak og film etter [åndsverkloven § 20](lov/2018-06-15-40/§20), databaser som er vernet etter [åndsverkloven § 24](lov/2018-06-15-40/§24), ervervet opphavsrett, herunder rett til utøvende kunstneres fremføring av et verk, og ervervet rett til fotografiske bilder, og
+3. undersøkelsesrett etter [lov 19. juni 2009 nr. 101](lov/2009-06-19-101) om erverv og utvinning av mineralressurser.
+
+Rettigheter som nevnt i bokstav b regnes ikke som driftstilbehør dersom de utelukkende utnyttes eller er bestemt for å utnyttes gjennom overdragelse eller utstedelse av lisenser.
 
 (3) Panterett i driftstilbehør som er beheftet med salgspant, eller som pantsetteren bare har en overførbar bruksrett til, omfatter den rett som pantsetteren til enhver tid har i vedkommende ting.
 
@@ -294,7 +322,10 @@ Panterett etter [§ 3-4](lov/1980-02-08-2/§3-4), [§§ 3-8](lov/1980-02-08-2/§
 
 ### § 3-5. Næringsdrivende.
 
-Som næringsdrivende anses:foretak registrert i Foretaksregisteretsykehus, pleiehjem, skole, universitet, museum, idretts- eller fritidsinstitusjon og andre institusjoner av sosial, humanitær eller lignende art, selv om de ikke blir drevet med sikte på fortjeneste, i den utstrekning dette bestemmes av Kongen i forskrift.
+Som næringsdrivende anses:
+
+1. foretak registrert i Foretaksregisteret
+2. sykehus, pleiehjem, skole, universitet, museum, idretts- eller fritidsinstitusjon og andre institusjoner av sosial, humanitær eller lignende art, selv om de ikke blir drevet med sikte på fortjeneste, i den utstrekning dette bestemmes av Kongen i forskrift.
 
 > Endret ved [lov 21 juni 1985 nr. 78](lov/1985-06-21-78).
 
@@ -316,7 +347,13 @@ Panterett i driftstilbehør eller i overførbar bruksrett til driftstilbehør f�
 
 ### § 3-8. Pant i motorvogner, anleggsmaskiner og jernbanemateriell.
 
-(1) Næringsdrivende kan underpantsettemotorvogner som brukes eller er bestemt til bruk i næringsvirksomheten,flyttbare anleggsmaskiner som brukes eller er bestemt til bruk i den næringsdrivendes entreprenørvirksomhet, ogjernbanemateriell bestående av lokomotiver, motorvognsett og vogner, som brukes eller er bestemt til bruk i den næringsdrivendes jernbanetrafikk.Pantsettelsen kan skje enkeltvis eller for motorvogner, anleggsmaskiner eller jernbanemateriell under ett.
+(1) Næringsdrivende kan underpantsette
+
+1. motorvogner som brukes eller er bestemt til bruk i næringsvirksomheten,
+2. flyttbare anleggsmaskiner som brukes eller er bestemt til bruk i den næringsdrivendes entreprenørvirksomhet, og
+3. jernbanemateriell bestående av lokomotiver, motorvognsett og vogner, som brukes eller er bestemt til bruk i den næringsdrivendes jernbanetrafikk.
+
+Pantsettelsen kan skje enkeltvis eller for motorvogner, anleggsmaskiner eller jernbanemateriell under ett.
 
 (2) Panteretten får rettsvern ved tinglysing på eierens eller den bruksberettigedes blad i Løsøreregisteret. Ved enkeltvis pantsettelse av registrert motorvogn blir panteretten da også beskyttet mot rettserverv etter [lov 2. juni 1978 nr. 37](lov/1978-06-02-37) om godtroerverv av løsøre.
 
@@ -332,7 +369,14 @@ Panterett i driftstilbehør eller i overførbar bruksrett til driftstilbehør f�
 
 (1) Løsøre som brukes eller er bestemt til bruk i næringsvirksomhet i landbruket, men som ikke er tilbehør til fast eiendom, og varer som produseres i virksomheten, kan underpantsettes særskilt.
 
-(2) Som slikt løsøre ansees:maskiner, redskaper og annet utstyr, bortsett fra tilbehør som nevnt i [§ 2-2](lov/1980-02-08-2/§2-2) bokstav c, og bortsett fra motorvogner som nevnt i [§ 3-8](lov/1980-02-08-2/§3-8),merder og annet liknende utstyr som brukes eller er bestemt til bruk i akvakultur.avling og annen innhøstet avkastning,dyr, herunder tamrein, pelsdyr, fjærfe, bier, muslinger og akvatiske organismer i akvakultur.såvarer, gjødsel, drivstoff og andre varer som forbrukes under virksomheten,emballasje til virksomhetens produkter.
+(2) Som slikt løsøre ansees:
+
+1. maskiner, redskaper og annet utstyr, bortsett fra tilbehør som nevnt i [§ 2-2](lov/1980-02-08-2/§2-2) bokstav c, og bortsett fra motorvogner som nevnt i [§ 3-8](lov/1980-02-08-2/§3-8),
+2. merder og annet liknende utstyr som brukes eller er bestemt til bruk i akvakultur.
+3. avling og annen innhøstet avkastning,
+4. dyr, herunder tamrein, pelsdyr, fjærfe, bier, muslinger og akvatiske organismer i akvakultur.
+5. såvarer, gjødsel, drivstoff og andre varer som forbrukes under virksomheten,
+6. emballasje til virksomhetens produkter.
 
 (3) Panteretten får rettsvern ved tinglysing på eierens eller den bruksberettigedes blad i Løsøreregisteret.
 
@@ -358,7 +402,11 @@ Panterett i driftstilbehør eller i overførbar bruksrett til driftstilbehør f�
 
 (1) Næringsdrivende kan underpantsette varelager i næringsvirksomhet.
 
-(2) Som varelager regnes virksomhetens beholdninger avråvarer, uferdige og ferdige varer og handelsvarer,drivstoff og andre varer som forbrukes under virksomheten,emballasje til virksomhetens produkter.
+(2) Som varelager regnes virksomhetens beholdninger av
+
+1. råvarer, uferdige og ferdige varer og handelsvarer,
+2. drivstoff og andre varer som forbrukes under virksomheten,
+3. emballasje til virksomhetens produkter.
 
 (3) Panteretten må gjelde pantsetterens varelager i sin helhet eller en nærmere angitt del som driftsmessig er adskilt fra det øvrige og fremtrer som en selvstendig enhet, slik lageret eller vedkommende del av det er til enhver tid. Kongen1 kan gi forskrift om adgang til å pantsette del av varelager.
 
@@ -390,7 +438,10 @@ Panterett i driftstilbehør eller i overførbar bruksrett til driftstilbehør f�
 
 ### § 3-14. Hvilke krav kan sikres.
 
-I forbindelse med salg av løsøre kan det avtales panterett i det solgte (salgspant) til sikkerhet forselgerens krav på kjøpesummen med tillegg av rente og omkostninger, ellerlån som tredjeperson har ydet kjøperen til hel eller delvis betaling av krav som nevnt under bokstav a, og som långiveren utbetaler direkte til selgeren.
+I forbindelse med salg av løsøre kan det avtales panterett i det solgte (salgspant) til sikkerhet for
+
+1. selgerens krav på kjøpesummen med tillegg av rente og omkostninger, eller
+2. lån som tredjeperson har ydet kjøperen til hel eller delvis betaling av krav som nevnt under bokstav a, og som långiveren utbetaler direkte til selgeren.
 
 > Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
 
@@ -574,7 +625,13 @@ Bestemmelsene i [§ 4-6](lov/1980-02-08-2/§4-6) annet ledd, [§ 4-7](lov/1980-0
 
 ### § 4-11. Patent og varemerke m.m.
 
-(1) Rett til patent og rett til registrert varemerke som gjelder her i riket kan pantsettes. Det samme gjelder:nasjonal patentsøknad som er innført i patentregisteret og nasjonal varemerkesøknad som er innført i varemerkeregisteret,internasjonal patentsøknad som er videreført etter [patentloven § 31](lov/1967-12-15-9/§31) eller tatt opp til behandling etter [patentloven § 38](lov/1967-12-15-9/§38), og som er innført i patentregisteret, og internasjonal varemerkeregistrering som er gitt virkning i Norge etter [varemerkeloven § 70](lov/2010-03-26-8/§70), og innført i varemerkeregisteret,europeisk patentsøknad som nevnt i [patentloven § 66 g](lov/1967-12-15-9/§66g) første ledd, og som er innført i Patentstyrets særskilte register over slike søknader,supplerende beskyttelsessertifikat som nevnt i [patentloven §§ 62 a](lov/1967-12-15-9/§62a) og [62 b](lov/1967-12-15-9/§62b), ogoverdragelig avtalelisens som er registrert i patentregisteret, varemerkeregisteret eller i Patentstyrets særskilte register over europeiske patentsøknader.
+(1) Rett til patent og rett til registrert varemerke som gjelder her i riket kan pantsettes. Det samme gjelder:
+
+1. nasjonal patentsøknad som er innført i patentregisteret og nasjonal varemerkesøknad som er innført i varemerkeregisteret,
+2. internasjonal patentsøknad som er videreført etter [patentloven § 31](lov/1967-12-15-9/§31) eller tatt opp til behandling etter [patentloven § 38](lov/1967-12-15-9/§38), og som er innført i patentregisteret, og internasjonal varemerkeregistrering som er gitt virkning i Norge etter [varemerkeloven § 70](lov/2010-03-26-8/§70), og innført i varemerkeregisteret,
+3. europeisk patentsøknad som nevnt i [patentloven § 66 g](lov/1967-12-15-9/§66g) første ledd, og som er innført i Patentstyrets særskilte register over slike søknader,
+4. supplerende beskyttelsessertifikat som nevnt i [patentloven §§ 62 a](lov/1967-12-15-9/§62a) og [62 b](lov/1967-12-15-9/§62b), og
+5. overdragelig avtalelisens som er registrert i patentregisteret, varemerkeregisteret eller i Patentstyrets særskilte register over europeiske patentsøknader.
 
 (2) Hvis en pantsatt patentsøknad, en pantsatt varemerkesøknad eller en pantsatt varemerkeregistrering deles, eller hvis en oppfinnelse eller et varemerke i en pantsatt søknad skilles ut i en ny søknad, omfattes også avdelte eller utskilte søknader eller registreringer av panteretten.
 
@@ -592,7 +649,10 @@ Panterett i patent etter [§ 4-11](lov/1980-02-08-2/§4-11) får rettsvern ved a
 
 ### § 4-13. Planteforedlerrett m.m.
 
-(1) Planteforedlerrett som gjelder her i riket kan pantsettes. Det samme gjelder:søknad om planteforedlerrett som er innført i Plantesortsnemndens journal over innkomne søknader, ogoverdragelig avtalelisens som er anmerket i plantesortsregisteret eller i Plantesortsnemndens journal over innkomne søknader.
+(1) Planteforedlerrett som gjelder her i riket kan pantsettes. Det samme gjelder:
+
+1. søknad om planteforedlerrett som er innført i Plantesortsnemndens journal over innkomne søknader, og
+2. overdragelig avtalelisens som er anmerket i plantesortsregisteret eller i Plantesortsnemndens journal over innkomne søknader.
 
 (2) Når planteforedlerrett blir meddelt på grunnlag av en pantsatt søknad om planteforedlerrett, blir planteforedlerretten omfattet av panteretten i stedet for søknaden.
 
@@ -612,9 +672,20 @@ Panterett etter [§ 4-13](lov/1980-02-08-2/§4-13) får rettsvern ved anmerkning
 
 ### § 4-16. Bortfall av panteretten m.m.
 
-(1) Panteretten faller bort og panthaveren kan kreve at pantekravet blir innfridd når en pantsatt patentsøknad, varemerkesøknad eller søknad om planteforedlerrett:blir overført til en annen fordi pantsetteren ikke har retten til oppfinnelsen, varemerket eller plantesorten, ellerblir endelig henlagt eller avslått.Det samme gjelder når et europeisk patent som er meddelt på grunnlag av en søknad som nevnt i [§ 4-11](lov/1980-02-08-2/§4-11) første ledd bokstav c, ikke blir gjort gjeldende her i riket.
+(1) Panteretten faller bort og panthaveren kan kreve at pantekravet blir innfridd når en pantsatt patentsøknad, varemerkesøknad eller søknad om planteforedlerrett:
 
-(2) Panteretten faller bort og panthaveren kan kreve at pantekravet blir innfridd når et pantsatt patent, en pantsatt varemerkerett, et pantsatt supplerende beskyttelsessertifikat eller en pantsatt planteforedlerrett:blir overført til en annen fordi pantsetteren ikke har retten til oppfinnelsen, varemerket eller plantesorten,blir satt til side som ugyldig,opphører å gjelde fordi innehaveren har unnlatt å betale årsavgift eller fornyelsesavgift uten at panthaveren har gitt samtykke til det,opphører etter [planteforedlerloven § 18](lov/1993-03-12-32/§18), ellerslettes etter [varemerkeloven §§ 36](lov/2010-03-26-8/§36) eller [37](lov/2010-03-26-8/§37).
+1. blir overført til en annen fordi pantsetteren ikke har retten til oppfinnelsen, varemerket eller plantesorten, eller
+2. blir endelig henlagt eller avslått.
+
+Det samme gjelder når et europeisk patent som er meddelt på grunnlag av en søknad som nevnt i [§ 4-11](lov/1980-02-08-2/§4-11) første ledd bokstav c, ikke blir gjort gjeldende her i riket.
+
+(2) Panteretten faller bort og panthaveren kan kreve at pantekravet blir innfridd når et pantsatt patent, en pantsatt varemerkerett, et pantsatt supplerende beskyttelsessertifikat eller en pantsatt planteforedlerrett:
+
+1. blir overført til en annen fordi pantsetteren ikke har retten til oppfinnelsen, varemerket eller plantesorten,
+2. blir satt til side som ugyldig,
+3. opphører å gjelde fordi innehaveren har unnlatt å betale årsavgift eller fornyelsesavgift uten at panthaveren har gitt samtykke til det,
+4. opphører etter [planteforedlerloven § 18](lov/1993-03-12-32/§18), eller
+5. slettes etter [varemerkeloven §§ 36](lov/2010-03-26-8/§36) eller [37](lov/2010-03-26-8/§37).
 
 (3) Panthaveren kan kreve at pantekravet blir innfridd når innehaveren gir avkall på et pantsatt patent, et pantsatt supplerende beskyttelsessertifikat eller en pantsatt planteforedlerrett uten at panthaveren har samtykket til det.
 
@@ -638,7 +709,10 @@ Panterett etter [§ 4-13](lov/1980-02-08-2/§4-13) får rettsvern ved anmerkning
 
 ### § 5-1. Hva kapitlet gjelder.
 
-Reglene i dette kapittel gjelderpanterett stiftet av namsmyndighetene ved utlegg (namsutlegg),panterett stiftet av tingretten i midler som er under skiftebehandling, til sikkerhet for ektefelles, arvings eller kreditors krav ifølge skiftet (skifteutlegg).
+Reglene i dette kapittel gjelder
+
+1. panterett stiftet av namsmyndighetene ved utlegg (namsutlegg),
+2. panterett stiftet av tingretten i midler som er under skiftebehandling, til sikkerhet for ektefelles, arvings eller kreditors krav ifølge skiftet (skifteutlegg).
 
 > Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
 
@@ -752,7 +826,11 @@ Dersom en offentlig myndighet er fordringshaver for et krav som det er tatt utle
 
 (1) For skattekrav etter [lov av 6. juni 1975 nr. 29](lov/1975-06-06-29) om eigedomsskatt til kommunane har vedkommende kommune panterett foran alle andre heftelser i den eiendom skattekravet gjelder.
 
-(2) Samme panterett har en kommune og kommunale etater for følgende særlige eiendomsavgifter:avfallsgebyr etter [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall,feieavgift etter brann- og [eksplosjonsvernloven § 28](lov/2002-06-14-20/§28) annet leddårsgebyr for vann og avløp etter [lov om kommunale vass- og avløpsanlegg](lov/2025-06-06-26)
+(2) Samme panterett har en kommune og kommunale etater for følgende særlige eiendomsavgifter:
+
+1. avfallsgebyr etter [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall,
+2. feieavgift etter brann- og [eksplosjonsvernloven § 28](lov/2002-06-14-20/§28) annet ledd
+3. årsgebyr for vann og avløp etter [lov om kommunale vass- og avløpsanlegg](lov/2025-06-06-26)
 
 (3) I eierseksjoner har seksjonseierne panterett etter panterett som nevnt i første og annet ledd, men foran alle andre heftelser, for krav på dekning av deres forpliktelser overfor sameiet, i samsvar med [eierseksjonsloven § 31](lov/2017-06-16-65/§31) første ledd.
 

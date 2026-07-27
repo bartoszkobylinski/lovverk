@@ -15,7 +15,7 @@ xml_hash: "b4df0dd290ad90a1c7e78daa5b19c4ba5a7eb16186eea0408c7d52287ee49ea1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,12 @@ Nedsettelse av tollavgiftssatser gis på de vilkår som følger av denne forskri
 
 Nedsettelse av tollavgiftssatser skal ikke gis dersom det ved utførselen er eller vil bli tilbakebetalt tollavgift for den utførte varen, med mindre refusjonsbeløpet innbetales til tollmyndighetene eller krav om refusjon frafalles.
 
-Nedsettelse av tollavgiftssatser er betinget av atinnførsel foretas av den samme som utførte varen,innførsel finner sted innen ett år etter utførselen,de utførte varene inngår i den innførte varen, ogden innførte varen inneholder mer enn en ubetydelig andel utførte landbruksvarer.
+Nedsettelse av tollavgiftssatser er betinget av at
+
+1. innførsel foretas av den samme som utførte varen,
+2. innførsel finner sted innen ett år etter utførselen,
+3. de utførte varene inngår i den innførte varen, og
+4. den innførte varen inneholder mer enn en ubetydelig andel utførte landbruksvarer.
 
 Tollmyndighetene påser at vilkårene i annet ledd og tredje ledd bokstav a–c er oppfylt.
 

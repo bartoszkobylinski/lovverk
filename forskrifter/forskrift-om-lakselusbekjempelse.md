@@ -36,7 +36,15 @@ Forskriften retter seg mot enhver som har eller plikter å ha godkjenning etter 
 
 ## § 3. Definisjoner
 
-I forskriften menes med:*Behandling*: Medikamentell avlusning ved bad eller gjennom fôret, eller andre metoder som fjerner lakselus, herunder mekanisk fjerning. Bruk av rensefisk regnes ikke som behandling.*Bevegelige stadier*: Voksne hannlus og halvvoksne (preadulte) stadier av lakselus.*Fastsittende stadier*: Copepoditt- og chalimusstadier av lakselus.*Lakselus*: Hoppekreps av arten *Lepeophtheirus salmonis*.*Resistens*: Mangelfull behandlingseffekt som skyldes at deler av eller hele den aktuelle lakselusepopulasjonen har arvbar nedsatt følsomhet for det farmasøytiske virkestoff som benyttes, slik at deler av eller hele populasjonen kan overleve en dose legemiddel som er dødelig for majoriteten av individene i en normalt følsom populasjon.*Rensefisk*: Fisk som er ment for eller brukes til å redusere antall parasitter på fisk i akvakulturanlegg.*Voksen hunnlus*: Kjønnsmoden hunnlus med eller uten eggstrenger.
+I forskriften menes med:
+
+1. *Behandling*: Medikamentell avlusning ved bad eller gjennom fôret, eller andre metoder som fjerner lakselus, herunder mekanisk fjerning. Bruk av rensefisk regnes ikke som behandling.
+2. *Bevegelige stadier*: Voksne hannlus og halvvoksne (preadulte) stadier av lakselus.
+3. *Fastsittende stadier*: Copepoditt- og chalimusstadier av lakselus.
+4. *Lakselus*: Hoppekreps av arten *Lepeophtheirus salmonis*.
+5. *Resistens*: Mangelfull behandlingseffekt som skyldes at deler av eller hele den aktuelle lakselusepopulasjonen har arvbar nedsatt følsomhet for det farmasøytiske virkestoff som benyttes, slik at deler av eller hele populasjonen kan overleve en dose legemiddel som er dødelig for majoriteten av individene i en normalt følsom populasjon.
+6. *Rensefisk*: Fisk som er ment for eller brukes til å redusere antall parasitter på fisk i akvakulturanlegg.
+7. *Voksen hunnlus*: Kjønnsmoden hunnlus med eller uten eggstrenger.
 
 > Endret ved [forskrift 19 april 2018 nr. 674](forskrift/2018-04-19-674).
 
@@ -44,13 +52,26 @@ I forskriften menes med:*Behandling*: Medikamentell avlusning ved bad eller gjen
 
 Akvakulturanleggene skal ha en plan for effektiv kontroll og bekjempelse av lakselus. Planen skal være samordnet med andre akvakulturanlegg innenfor et nærmere bestemt geografisk område. Omfanget på det geografiske området skal bestemmes ut fra hydrografiske forhold og plasseringen av akvakulturanlegg, slik at området er egnet for å få til en effektiv kontroll og bekjempelse.
 
-Planen skal beskrive samordnede tiltak som gjennomføres for å ivareta hensyn til ville bestander, og skal spesielt omfatte tiltak som sikrer lavest mulig forekomst av infektive stadier av lakselus i sjøen i perioder som er kritiske for ville bestander av laks og sjøørret. Planen skal minst inneholde følgende:navn, lokalitetsnummer og kontaktdetaljer for akvakulturanlegg som er omfattet av det geografiske området med samordnet plan,begrunnelse for valg av områdets omfang,tiltak som gjennomføres i akvakulturanlegg i området for å begrense forekomsten av lakselus og utviklingen av resistens, herunder rutiner for samordnet utsett i og brakklegging av akvakulturanlegg,rutiner for samordning av behandlinger gjennom året med tidsrom og tiltaksgrense for disse behandlingene. Dette gjelder også samordnede behandlinger om våren, jf. [§ 7](forskrift/2012-12-05-1140/§7),rutiner for utveksling av informasjon mellom akvakulturanlegg innenfor området som er nødvendig for å gjennomføre samordnet kontroll og bekjempelse. Informasjonsutvekslingen skal minst inneholde opplysninger om gjennomførte behandlinger, resultater fra følsomhetsundersøkelser og tellinger av lakselus.
+Planen skal beskrive samordnede tiltak som gjennomføres for å ivareta hensyn til ville bestander, og skal spesielt omfatte tiltak som sikrer lavest mulig forekomst av infektive stadier av lakselus i sjøen i perioder som er kritiske for ville bestander av laks og sjøørret. Planen skal minst inneholde følgende:
+
+1. navn, lokalitetsnummer og kontaktdetaljer for akvakulturanlegg som er omfattet av det geografiske området med samordnet plan,
+2. begrunnelse for valg av områdets omfang,
+3. tiltak som gjennomføres i akvakulturanlegg i området for å begrense forekomsten av lakselus og utviklingen av resistens, herunder rutiner for samordnet utsett i og brakklegging av akvakulturanlegg,
+4. rutiner for samordning av behandlinger gjennom året med tidsrom og tiltaksgrense for disse behandlingene. Dette gjelder også samordnede behandlinger om våren, jf. [§ 7](forskrift/2012-12-05-1140/§7),
+5. rutiner for utveksling av informasjon mellom akvakulturanlegg innenfor området som er nødvendig for å gjennomføre samordnet kontroll og bekjempelse. Informasjonsutvekslingen skal minst inneholde opplysninger om gjennomførte behandlinger, resultater fra følsomhetsundersøkelser og tellinger av lakselus.
 
 Planen skal til enhver tid være oppdatert, og tiltak skal gjennomføres i samsvar med planen. Planen skal være tilgjengelig på akvakulturanlegget og oversendes årlig til Mattilsynet innen 1. oktober. Endringer av planen skal umiddelbart varsles inn til Mattilsynet.
 
 ## § 5. Soner for kontroll og bekjempelse av lakselus
 
-Dersom planen etter [§ 4](forskrift/2012-12-05-1140/§4) ikke anses tilstrekkelig til å oppfylle forskriftens formål, kan Mattilsynet fastsette forskrift om sone for å sikre gjennomføring av nødvendige tiltak. Slik forskrift kan blant annet omfatte krav om:tidspunkt og grenseverdier for gjennomføring av samordnede behandlinger,egne grenser for lakselus,reduksjon av biomasse,bruk av slaktemerder,godkjenning av planer for forebygging og bekjempelse av lakselus, ogytterligere krav til telling av lakselus i akvakulturanlegg.
+Dersom planen etter [§ 4](forskrift/2012-12-05-1140/§4) ikke anses tilstrekkelig til å oppfylle forskriftens formål, kan Mattilsynet fastsette forskrift om sone for å sikre gjennomføring av nødvendige tiltak. Slik forskrift kan blant annet omfatte krav om:
+
+1. tidspunkt og grenseverdier for gjennomføring av samordnede behandlinger,
+2. egne grenser for lakselus,
+3. reduksjon av biomasse,
+4. bruk av slaktemerder,
+5. godkjenning av planer for forebygging og bekjempelse av lakselus, og
+6. ytterligere krav til telling av lakselus i akvakulturanlegg.
 
 ## § 6. Måling av sjøtemperatur og telling av lakselus
 
@@ -88,7 +109,14 @@ Det skal iverksettes tiltak for å bekjempe resistente lakseluspopulasjoner, her
 
 ## § 10. Rapportering
 
-For hver uke skal følgende opplysninger rapporteres til Mattilsynet senest i løpet av tirsdag i nærmeste påfølgende uke. Rapportering skjer i henhold til fastsatt skjema og skal angi:sjøtemperatur,behandling mot lakselus,hvilke virkestoff og mengde virkestoff som er benyttet ved behandling mot lakselus,resultater av følsomhetsundersøkelser,mistanke om resistens, ogantallet lakselus av voksen hunnlus, bevegelige og fastsittende stadier.
+For hver uke skal følgende opplysninger rapporteres til Mattilsynet senest i løpet av tirsdag i nærmeste påfølgende uke. Rapportering skjer i henhold til fastsatt skjema og skal angi:
+
+1. sjøtemperatur,
+2. behandling mot lakselus,
+3. hvilke virkestoff og mengde virkestoff som er benyttet ved behandling mot lakselus,
+4. resultater av følsomhetsundersøkelser,
+5. mistanke om resistens, og
+6. antallet lakselus av voksen hunnlus, bevegelige og fastsittende stadier.
 
 > Endret ved [forskrift 19 april 2018 nr. 674](forskrift/2018-04-19-674).
 
@@ -120,7 +148,11 @@ Planer for gjennomføring av samordnede behandlinger våren 2013 i henhold til [
 
 ## Vedlegg 1. Krav til rutinemessig telling av lakselus
 
-1. Det skal telles lakselus i følgende tre stadiegrupper:voksen hunnlus,bevegelige stadier, ogfastsittende stadier.
+1. Det skal telles lakselus i følgende tre stadiegrupper:
+
+   1. voksen hunnlus,
+   2. bevegelige stadier, og
+   3. fastsittende stadier.
 2. I Nord-Trøndelag og sørover skal det fra og med mandag i uke 14 til og med søndag i uke 21 telles lakselus på minst 20 tilfeldige fisk fra alle merdene i akvakulturanlegget ved hver telling. Fra og med mandag i uke 22 til og med søndag i uke 13 skal det telles lakselus på minst 10 tilfeldige fisk fra alle merdene i akvakulturanlegget ved hver telling. Snitt fra telling i alle merder legges til grunn ved innrapportering av lus.
 3. I Nordland, Troms og Finnmark skal det fra og med mandag i uke 19 til og med søndag i uke 26 telles lakselus på minst 20 tilfeldige fisk fra alle merdene i akvakulturanlegget ved hver telling. Fra og med mandag i uke 27 til og med søndag i uke 18 skal det telles lakselus på minst 10 tilfeldige fisk fra alle merdene i akvakulturanlegget ved hver telling. Snitt fra telling i alle merder legges til grunn ved innrapportering av lus.
 4. Fisken skal fanges inn med orkastnot eller annen metode som sikrer et representativt utvalg av fisk. Fisken skal bedøves før telling. En og en fisk tas opp og undersøkes nøye. Lus som detter av i bedøvelseskaret skal også telles med.

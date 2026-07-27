@@ -30,7 +30,12 @@ Føremålet er å sikre innbyggjarar i distrikta tilgang til ein daglegvarebutik
 
 ### § 2. Kva forskrifta gjeld
 
-Forskrifta gjeld desse tilskotsordningane:Investeringstilskot til daglegvarebutikkar [(kapittel 2)](forskrift/2024-11-21-2989/kap2)Servicetilskot [(kapittel 3)](forskrift/2024-11-21-2989/kap3)Investeringstilskot til drivstoffanlegg ved daglegvarebutikkar [(kapittel 4)](forskrift/2024-11-21-2989/kap4)Utviklingstilskot til bokhandlar [(kapittel 5)](forskrift/2024-11-21-2989/kap5).
+Forskrifta gjeld desse tilskotsordningane:
+
+1. Investeringstilskot til daglegvarebutikkar [(kapittel 2)](forskrift/2024-11-21-2989/kap2)
+2. Servicetilskot [(kapittel 3)](forskrift/2024-11-21-2989/kap3)
+3. Investeringstilskot til drivstoffanlegg ved daglegvarebutikkar [(kapittel 4)](forskrift/2024-11-21-2989/kap4)
+4. Utviklingstilskot til bokhandlar [(kapittel 5)](forskrift/2024-11-21-2989/kap5).
 
 Ein søkjar kan berre få tilskot til tiltak som ikkje er starta før søknaden er ferdig handsama.
 
@@ -46,7 +51,15 @@ Tilskot kan også bli gitt til bokhandlar i distrikta, sjå [kapittel 5](forskri
 
 ### § 4. Krav til søknad om tilskot
 
-Ein søknad skal innehalde desse opplysningane:Organisasjonsnummer og namn på ansvarleg prosjekteigar.Avstand til næraste innkjøpsalternativ, og omsetnad (sjå tildelingsreglar under kvar ordning).Ein omtale av tiltaket og forventa effekt av tiltaket.Ein framdriftsplan for gjennomføringa av aktivitetane i tiltaket.Årsrekneskap og driftsbudsjett for søkaren.Ein kostnads- og finansieringsplan for tiltaket.Ei stadfesting av at søkjaren på søknadstidspunktet ikkje har fått anna bagatellmessig støtte til same tiltak.
+Ein søknad skal innehalde desse opplysningane:
+
+1. Organisasjonsnummer og namn på ansvarleg prosjekteigar.
+2. Avstand til næraste innkjøpsalternativ, og omsetnad (sjå tildelingsreglar under kvar ordning).
+3. Ein omtale av tiltaket og forventa effekt av tiltaket.
+4. Ein framdriftsplan for gjennomføringa av aktivitetane i tiltaket.
+5. Årsrekneskap og driftsbudsjett for søkaren.
+6. Ein kostnads- og finansieringsplan for tiltaket.
+7. Ei stadfesting av at søkjaren på søknadstidspunktet ikkje har fått anna bagatellmessig støtte til same tiltak.
 
 For støtte til bokhandlarar er det mindre avvik frå desse krava.
 
@@ -80,7 +93,13 @@ Krev prosjektet mindre kapital enn budsjettet tilskotet byggjer på, kan Distrik
 
 ### § 9. Stans av utbetalinga. Tilbakebetaling av tilskot
 
-Distriktssenteret kan stanse utbetalinga av heile eller delar av tilskotet, eller krevje tilbakebetaling, dersommottakaren har gitt urette, misvisande eller mangelfulle opplysningar og tildelinga byggjer på slike opplysningarmottakaren utan førehandsgodkjenning frå Distriktssenteret har endra prosjektet slik at det ikkje oppfyller krava i forskrifta og vedtaket om tilskot.mottakaren planlegg å avvikle verksemda, søkjer gjeldsforhandlingar, går konkurs eller avviklar verksemdamottakaren gjennomfører vesentlege endringar som avgrensar butikktilbodet.mottakaren ikkje rapporterer før sluttdatoen eller rapporteringsfristen som er sett i tildelingsvedtaket
+Distriktssenteret kan stanse utbetalinga av heile eller delar av tilskotet, eller krevje tilbakebetaling, dersom
+
+1. mottakaren har gitt urette, misvisande eller mangelfulle opplysningar og tildelinga byggjer på slike opplysningar
+2. mottakaren utan førehandsgodkjenning frå Distriktssenteret har endra prosjektet slik at det ikkje oppfyller krava i forskrifta og vedtaket om tilskot.
+3. mottakaren planlegg å avvikle verksemda, søkjer gjeldsforhandlingar, går konkurs eller avviklar verksemda
+4. mottakaren gjennomfører vesentlege endringar som avgrensar butikktilbodet.
+5. mottakaren ikkje rapporterer før sluttdatoen eller rapporteringsfristen som er sett i tildelingsvedtaket
 
 ## Kapittel 2 – Investeringsstøtte til daglegvarebutikkar
 
@@ -90,7 +109,11 @@ Investeringsstøtta skal bidra til at daglegvarebutikkar blir moderniserte, meir
 
 ### § 11. Tildelingsreglar
 
-Ein daglegvarebutikk kan søkje om investeringstilskot til fysiske investeringar viss den oppfyller krava i [§ 3, 1. ledd](forskrift/2024-11-21-2989/§3/ledd/1) og [i](forskrift/2024-11-21-2989/§3/ledd/i) tillegghar ein avstand på minst 10 kilometer til næraste alternative innkjøpsstad, eller ligg på stader utan fast vegsamband eller er einaste daglegvarebutikk på ei øy. Det kan gjerast særskilte vurderingar for butikkar som har mellom 5 og 10 kilometer avstand til næraste alternative innkjøpsstader open heile årethar inntil 15 millionar kroner i årsomsetning eksklusiv meirverdiavgift, drivstoff, kraftfôr og gjødsel.
+Ein daglegvarebutikk kan søkje om investeringstilskot til fysiske investeringar viss den oppfyller krava i [§ 3, 1. ledd](forskrift/2024-11-21-2989/§3/ledd/1) og [i](forskrift/2024-11-21-2989/§3/ledd/i) tillegg
+
+1. har ein avstand på minst 10 kilometer til næraste alternative innkjøpsstad, eller ligg på stader utan fast vegsamband eller er einaste daglegvarebutikk på ei øy. Det kan gjerast særskilte vurderingar for butikkar som har mellom 5 og 10 kilometer avstand til næraste alternative innkjøpsstad
+2. er open heile året
+3. har inntil 15 millionar kroner i årsomsetning eksklusiv meirverdiavgift, drivstoff, kraftfôr og gjødsel.
 
 Søknaden må vere på minimum 25 000 kroner for å bli handsama.
 
@@ -108,7 +131,18 @@ Ein butikk som har mellom 8 og 15 millionar kroner i omsetning kan få tilskot m
 
 ### § 13. Rapporteringsplikt
 
-Mottakaren av tilskotet skal rapportere om:tilskotet som blei tildeltfakturainformasjon medfakturanummerfakturadatoleverandørtype investeringbrutto kostnadnetto kostnad.eventuelle avvik i høve til søknaden.
+Mottakaren av tilskotet skal rapportere om:
+
+1. tilskotet som blei tildelt
+2. fakturainformasjon med
+
+   1. fakturanummer
+   2. fakturadato
+   3. leverandør
+   4. type investering
+   5. brutto kostnad
+   6. netto kostnad.
+3. eventuelle avvik i høve til søknaden.
 
 ### § 14. Utbetaling
 
@@ -132,7 +166,12 @@ Servicestøtta skal bidra til å oppretthalde dei aller minste daglegvarebutikka
 
 ### § 16. Tildelingsreglar
 
-Tilskotet kan bli gitt til daglegvarebutikkar som oppfyller alle krava [§ 3, 1. ledd](forskrift/2024-11-21-2989/§3/ledd/1) og [i](forskrift/2024-11-21-2989/§3/ledd/i) tillegghar minst tre tilleggstenester i tillegg til sal av daglegvarer, til dømes post og bank i butikk, tipping, kaffikrok, kommunalt servicekontor, sal av drivstoff, kafé/pubhar under 5 millionar kroner i årsomsetning eksklusiv meirverdiavgift, drivstoff, kraftfôr og gjødselhar minimum 20 kilometer til næraste alternative innkjøpsstad, eller er lokalisert til stader utan fast vegsamband eller er einaste daglegvarebutikk på ei øyvere open heile året, og ha ope minst 3 kvardagar per veke i lågsesongen.
+Tilskotet kan bli gitt til daglegvarebutikkar som oppfyller alle krava [§ 3, 1. ledd](forskrift/2024-11-21-2989/§3/ledd/1) og [i](forskrift/2024-11-21-2989/§3/ledd/i) tillegg
+
+1. har minst tre tilleggstenester i tillegg til sal av daglegvarer, til dømes post og bank i butikk, tipping, kaffikrok, kommunalt servicekontor, sal av drivstoff, kafé/pub
+2. har under 5 millionar kroner i årsomsetning eksklusiv meirverdiavgift, drivstoff, kraftfôr og gjødsel
+3. har minimum 20 kilometer til næraste alternative innkjøpsstad, eller er lokalisert til stader utan fast vegsamband eller er einaste daglegvarebutikk på ei øy
+4. vere open heile året, og ha ope minst 3 kvardagar per veke i lågsesongen.
 
 ### § 17. Bruken av servicestøtta
 
@@ -174,9 +213,14 @@ Anlegg som i hovudsak forsyner eigne køyretøy, fartøy og landbruksmaskiner, e
 
 ### § 23. Reglar for tildeling og utrekning
 
-Desse kriteria skal vere oppfylte:Anlegget skal vere avgjerande for å sikre lokalbefolkninga tilgang på drivstoff.Salsvolumet kan ikkje overstige 500 000 liter drivstoff kvart år. Anlegg som omset under 300 000 liter blir prioritert.
+Desse kriteria skal vere oppfylte:
 
-Drivstoffanlegg som ikkje er knytte til ein Merkur-butikk, skal i tilleggha ein avstand på minimum 20 kilometer til næraste drivstoffanlegg eller vere lokalisert på stader utan fast vegsamband eller er einaste drivstoffanlegg på ei øy.
+1. Anlegget skal vere avgjerande for å sikre lokalbefolkninga tilgang på drivstoff.
+2. Salsvolumet kan ikkje overstige 500 000 liter drivstoff kvart år. Anlegg som omset under 300 000 liter blir prioritert.
+
+Drivstoffanlegg som ikkje er knytte til ein Merkur-butikk, skal i tillegg
+
+1. ha ein avstand på minimum 20 kilometer til næraste drivstoffanlegg eller vere lokalisert på stader utan fast vegsamband eller er einaste drivstoffanlegg på ei øy.
 
 Maksimalt støttebeløp er 800 000 kroner eksklusiv meirverdiavgift kvart år. Investeringsstøtta til drivstoffanlegg kan dekkje inntil 50 prosent av investeringsbehovet.
 
@@ -206,7 +250,11 @@ Utviklingstilskotet skal bidra til å styrkje grunnlaget for lønnsam bokhandeld
 
 ### § 27. Tildelingsreglar
 
-Det kan gis tilskot til bokhandlar somer lokaliserte i ein tettstad i distriktaer den einaste bokhandelen i tettstaden eller handelsområdethar ei total omsetning på mindre enn 7 millionar kroner eksklusiv meirverdiavgift.
+Det kan gis tilskot til bokhandlar som
+
+1. er lokaliserte i ein tettstad i distrikta
+2. er den einaste bokhandelen i tettstaden eller handelsområdet
+3. har ei total omsetning på mindre enn 7 millionar kroner eksklusiv meirverdiavgift.
 
 Distriktssenteret vil prioritere dei søknadane som best støttar opp om måla for ordninga.
 

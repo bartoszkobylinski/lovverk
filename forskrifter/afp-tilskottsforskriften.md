@@ -15,7 +15,7 @@ xml_hash: "2787e02faf2905f9fa36be25843bb5981bb4a1097819f05f73a67a0120a5b5ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -90,7 +90,10 @@ Justeringsbeløpene fastsettes av Arbeids- og velferdsdirektoratet.
 
 Justeringsbeløpene etter § 3-2 beregnes på grunnlag av kronetillegget etter § 3-1, omregnet til årlig beløp, og dødelighetsrater og overlevelsessannsynligheter som angitt i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810) om alderspensjon fra folketrygden [§ 4-3](forskrift/2009-12-22-1810/§4-3) med vedlegg.
 
-Justeringsbeløpene fastsettes med utgangspunkt i forventede nåverdier ved 62 år for ulike uttaksaldre i hele år fra og med 62 til og med 66 år aven livsvarig avtalefestet pensjon, se vedlegg formel (1), ogen livsvarig avtalefestet pensjon med kronetillegg fram til 67 år, se vedlegg formel (2).
+Justeringsbeløpene fastsettes med utgangspunkt i forventede nåverdier ved 62 år for ulike uttaksaldre i hele år fra og med 62 til og med 66 år av
+
+1. en livsvarig avtalefestet pensjon, se vedlegg formel (1), og
+2. en livsvarig avtalefestet pensjon med kronetillegg fram til 67 år, se vedlegg formel (2).
 
 Ved beregningen etter andre ledd tas det hensyn til reguleringen av pensjon under utbetaling og overlevelsessannsynligheter ved ulike aldre. Nominell lønnsvekst settes til 4 prosent. Diskonteringsrenten skal være lik nominell lønnsvekst.
 
@@ -116,7 +119,10 @@ Forholdstallene fastsettes av Arbeids- og velferdsdirektoratet.
 
 Forholdstallene etter § 4-1 beregnes på grunnlag av dødelighetsrater og overlevelsessannsynligheter som angitt i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810) om alderspensjon fra folketrygden [§ 4-3](forskrift/2009-12-22-1810/§4-3) med vedlegg.
 
-Forholdstallene beregnes som en brøk, se vedlegg formel (3), dertelleren skal være forventet nåverdi ved 62 år av kompensasjonstillegget fra uttaksalderen, se vedlegg formel (1), ognevneren skal være lik forventet nåverdi av kompensasjonstillegget ved 62 år, slik at forholdstallet ved 62 år normeres til 1 for hvert enkelt årskull, se vedlegg formel (2).
+Forholdstallene beregnes som en brøk, se vedlegg formel (3), der
+
+1. telleren skal være forventet nåverdi ved 62 år av kompensasjonstillegget fra uttaksalderen, se vedlegg formel (1), og
+2. nevneren skal være lik forventet nåverdi av kompensasjonstillegget ved 62 år, slik at forholdstallet ved 62 år normeres til 1 for hvert enkelt årskull, se vedlegg formel (2).
 
 Ved beregningen etter andre ledd tas det hensyn til at kompensasjonstillegg under utbetaling ikke reguleres og overlevelsessannsynligheter ved ulike aldre. Nominell lønnsvekst settes til 4 prosent. Diskonteringsrenten skal være lik nominell lønnsvekst.
 
@@ -138,9 +144,13 @@ Fristene i [§ 2-3](forskrift/2010-11-30-1496/§2-3) tredje ledd og [§ 2-4](for
 
 pK,A,x betegner gjennomsnittlig levetid innenfor det året vedkommende er x år for de i årskull K som overlever fram til uttaksalder A år, se vedlegg til kapittel 4 i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810). pK,A,x er dermed mellom 0 og 1.
 
-Forventet nåverdi ved 62 år av en livsvarig avtalefestet pensjon som utgjør y1 kroner ved uttaksalder A år, er: $$\\textbf{(1)} \\: PV1_{K,A} = \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=A} p_{K,A,x} \\frac{y_1 [(1+w)(1-0{,}0075)]^{x-A}}{(1+w)^{x-A}}$$
+Forventet nåverdi ved 62 år av en livsvarig avtalefestet pensjon som utgjør y1 kroner ved uttaksalder A år, er:
 
-Samlet forventet nåverdi ved 62 år av en livsvarig avtalefestet pensjon som utgjør y2 kroner ved uttaksalder A år, og kronetillegg på 19 200 kroner årlig fram til 67 år, er: $$\\textbf{(2)} \\: PV2_{K,A} = \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=A} p_{K,A,x} \\frac{y_2 [(1+w)(1-0{,}0075)]^{x-A}}{(1+w)^{x-A}} + \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{66}_{x=A} p_{K,A,x} \\frac{19200}{(1+w)^{x-A}}$$
+$$\\textbf{(1)} \\: PV1_{K,A} = \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=A} p_{K,A,x} \\frac{y_1 [(1+w)(1-0{,}0075)]^{x-A}}{(1+w)^{x-A}}$$
+
+Samlet forventet nåverdi ved 62 år av en livsvarig avtalefestet pensjon som utgjør y2 kroner ved uttaksalder A år, og kronetillegg på 19 200 kroner årlig fram til 67 år, er:
+
+$$\\textbf{(2)} \\: PV2_{K,A} = \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=A} p_{K,A,x} \\frac{y_2 [(1+w)(1-0{,}0075)]^{x-A}}{(1+w)^{x-A}} + \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{66}_{x=A} p_{K,A,x} \\frac{19200}{(1+w)^{x-A}}$$
 
 Justeringsbeløpet JK,A bestemmes slik at nåverdiene PV1 og PV2 blir like. Ved å løse for y2 som en funksjon av y1 finner man at:
 
@@ -152,8 +162,14 @@ Justeringsbeløpet JK,A bestemmes slik at nåverdiene PV1 og PV2 blir like. Ved 
 
 lK,x er sannsynligheten for at en person i årskull K overlever fra fylte 27 år til fylte x år. pK,A,x betegner gjennomsnittlig levetid innenfor det året vedkommende er x år for de i årskull K som overlever fram til uttaksalder A år. Se vedlegg til kapittel 4 i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810). lK,A,x og pK,A,x er dermed mellom 0 og 1.
 
-Forventet nåverdi ved 62 år av et kompensasjonstillegg som utgjør 1 krone ved uttaksalder A år, er: $$\\textbf{(1)} \\: T_{K,A} = \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=A} p_{K,A,x} \\frac{1}{(1+w)^{x-A}}$$
+Forventet nåverdi ved 62 år av et kompensasjonstillegg som utgjør 1 krone ved uttaksalder A år, er:
 
-Forventet nåverdi ved 62 år av et kompensasjonstillegg som utgjør 1 krone ved uttaksalder 62 år, er: $$\\textbf{(2)} \\: N_K = T_{K,62} = \\frac{l_{K,62}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=62} p_{K,62,x} \\frac{1}{(1+w)^{x-62}}$$
+$$\\textbf{(1)} \\: T_{K,A} = \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=A} p_{K,A,x} \\frac{1}{(1+w)^{x-A}}$$
 
-Forholdstallet FTKK,A for kompensasjonstillegget beregnes som: $$\\textbf{(3)} \\: FTK_{K,A} = \\frac{T_{K,A}}{N_K}$$
+Forventet nåverdi ved 62 år av et kompensasjonstillegg som utgjør 1 krone ved uttaksalder 62 år, er:
+
+$$\\textbf{(2)} \\: N_K = T_{K,62} = \\frac{l_{K,62}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=62} p_{K,62,x} \\frac{1}{(1+w)^{x-62}}$$
+
+Forholdstallet FTKK,A for kompensasjonstillegget beregnes som:
+
+$$\\textbf{(3)} \\: FTK_{K,A} = \\frac{T_{K,A}}{N_K}$$

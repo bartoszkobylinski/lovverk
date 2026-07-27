@@ -46,9 +46,20 @@ eu_basis: []
 
 ### § 2-2. Oppretting, endring og nedlegging av utdanningar og emne
 
-(1) Ved Fagskulen Vestland skal saker om oppretting, endring og nedlegging av utdanningar og emne behandlast slik:Dersom fagskulen har akkreditering for fagområde, har styret fullmakt til sjølv å akkreditere nye fagskuleutdanningar og godkjenne vesentlege endringar i fagskuleutdanningane innan det akkrediterte fagområdet, jf. [fagskoleforskriften § 48 tredje ledd](forskrift/2019-07-11-1005/§48/ledd/3).Dersom fagskulen ikkje har akkreditering for fagområde, skal styret søke NOKUT om akkreditering av nye fagskuleutdanningar og godkjenning av vesentlege endringar i allereie akkrediterte tilbod, jf. [fagskoleforskriften § 47 første ledd](forskrift/2019-07-11-1005/§47/ledd/1).Styret skal informere NOKUT om nedlegging av utdanningar.
+(1) Ved Fagskulen Vestland skal saker om oppretting, endring og nedlegging av utdanningar og emne behandlast slik:
 
-(2) I medhald av [fagskoletilsynsforskriften § 5-1 første ledd](forskrift/2020-04-23-853/§5-1/ledd/1) skal styret melde NOKUT omnye utdanningar innanfor eit akkreditert fagområdenye studiestader for ei utdanningendring av studiestad for ei utdanningendring av namnet på ei utdanningendring av det samla læringsutbyttet for ei utdanningendring av utdanningsform for ei utdanning.
+1. Dersom fagskulen har akkreditering for fagområde, har styret fullmakt til sjølv å akkreditere nye fagskuleutdanningar og godkjenne vesentlege endringar i fagskuleutdanningane innan det akkrediterte fagområdet, jf. [fagskoleforskriften § 48 tredje ledd](forskrift/2019-07-11-1005/§48/ledd/3).
+2. Dersom fagskulen ikkje har akkreditering for fagområde, skal styret søke NOKUT om akkreditering av nye fagskuleutdanningar og godkjenning av vesentlege endringar i allereie akkrediterte tilbod, jf. [fagskoleforskriften § 47 første ledd](forskrift/2019-07-11-1005/§47/ledd/1).
+3. Styret skal informere NOKUT om nedlegging av utdanningar.
+
+(2) I medhald av [fagskoletilsynsforskriften § 5-1 første ledd](forskrift/2020-04-23-853/§5-1/ledd/1) skal styret melde NOKUT om
+
+1. nye utdanningar innanfor eit akkreditert fagområde
+2. nye studiestader for ei utdanning
+3. endring av studiestad for ei utdanning
+4. endring av namnet på ei utdanning
+5. endring av det samla læringsutbyttet for ei utdanning
+6. endring av utdanningsform for ei utdanning.
 
 (3) For endringar etter andre ledd bokstav b til f i utdanningar som ikkje inngår i eit akkreditert fagområde, vil NOKUT vurdere om endringane gjer det nødvendig å søke om ny akkreditering, jf. [fagskoletilsynsforskriften § 5-1](forskrift/2020-04-23-853/§5-1) siste ledd. Endring i totalt antal studiepoeng for ei utdanning vil alltid krevje ny akkreditering.
 
@@ -80,9 +91,16 @@ For opptak til utdanningar ved Fagskulen Vestland gjeld [lov om høyere yrkesfag
 
 ### § 3-3. Krav til studentane
 
-(1) Studentane plikter åsette seg inn og halde seg oppdatert på fagskulen sine reglar og retningslinjersette seg inn og halde seg oppdatert på organiseringa av studiet, obligatoriske læringsaktivitetar, vurdering, tidsfristar og anna relevant informasjonhalde seg oppdatert på informasjon og kunngjeringar frå fagskulen.
+(1) Studentane plikter å
 
-(2) Studentane plikter åbetale semesteravgift innan fristen der dette er påkravdbetale anna fastsett avgift innan fristen der dette er påkravd.
+1. sette seg inn og halde seg oppdatert på fagskulen sine reglar og retningslinjer
+2. sette seg inn og halde seg oppdatert på organiseringa av studiet, obligatoriske læringsaktivitetar, vurdering, tidsfristar og anna relevant informasjon
+3. halde seg oppdatert på informasjon og kunngjeringar frå fagskulen.
+
+(2) Studentane plikter å
+
+1. betale semesteravgift innan fristen der dette er påkravd
+2. betale anna fastsett avgift innan fristen der dette er påkravd.
 
 (3) Studentar i permisjon skal som hovudregel ikkje betale eventuell(e) påkravd(e) avgift(er). Eventuell betaling etter andre ledd gjeld likevel for studentar i permisjon som ønsker å følge undervisning, framstille seg for vurdering eller nytte seg av velferdstenester.
 
@@ -98,7 +116,16 @@ For opptak til utdanningar ved Fagskulen Vestland gjeld [lov om høyere yrkesfag
 
 ### § 3-5. Tap av studierett
 
-(1) Fagskulen kan trekke tilbake studieretten dersomstudenten melder at hen ønsker å avslutte utdanningastudenten ikkje oppfyller krava i [§ 3-3 andre ledd](forskrift/2025-03-07-529/§3-3/ledd/2) der dette er påkravdstudenten byter til ei anna utdanning ved Fagskulen Vestland, jf. [§ 3-2](forskrift/2025-03-07-529/§3-2) siste leddstudenten ikkje oppfyller krava til studieprogresjon i [§ 3-4](forskrift/2025-03-07-529/§3-4)studenten har brukt maksimalt antal vurderingsforsøk utan å ha bestått eit emne som er obligatorisk for utdanninga, jf. [§ 6-14](forskrift/2025-03-07-529/§6-14)den maksimale gyldigheitsperioden for studieretten er over, jf. [§ 3-2 sjette ledd](forskrift/2025-03-07-529/§3-2/ledd/6)studenten blir utestengd frå utdanninga etter [fagskoleloven § 26 tredje ledd](lov/2018-06-08-28/§26/ledd/3)studenten har fullført og bestått utdanninga.
+(1) Fagskulen kan trekke tilbake studieretten dersom
+
+1. studenten melder at hen ønsker å avslutte utdanninga
+2. studenten ikkje oppfyller krava i [§ 3-3 andre ledd](forskrift/2025-03-07-529/§3-3/ledd/2) der dette er påkravd
+3. studenten byter til ei anna utdanning ved Fagskulen Vestland, jf. [§ 3-2](forskrift/2025-03-07-529/§3-2) siste ledd
+4. studenten ikkje oppfyller krava til studieprogresjon i [§ 3-4](forskrift/2025-03-07-529/§3-4)
+5. studenten har brukt maksimalt antal vurderingsforsøk utan å ha bestått eit emne som er obligatorisk for utdanninga, jf. [§ 6-14](forskrift/2025-03-07-529/§6-14)
+6. den maksimale gyldigheitsperioden for studieretten er over, jf. [§ 3-2 sjette ledd](forskrift/2025-03-07-529/§3-2/ledd/6)
+7. studenten blir utestengd frå utdanninga etter [fagskoleloven § 26 tredje ledd](lov/2018-06-08-28/§26/ledd/3)
+8. studenten har fullført og bestått utdanninga.
 
 (2) Vedtak etter første ledd bokstav d og f skal ta omsyn til innvilga permisjon, vedtak om tilrettelagd studieløp, gyldig fråvær ved obligatoriske læringsaktivitetar og vurdering, samt vedtak om bortvising og utestenging.
 
@@ -134,7 +161,14 @@ For opptak til utdanningar ved Fagskulen Vestland gjeld [lov om høyere yrkesfag
 
 ### § 4-3. Gyldig fråvær
 
-(1) Følgande blir rekna som gyldig fråvær:eigen sjukdom som gjer gjennomføringa av undervisning eller vurdering umogleg eller urimeleg å krevjesjukdom hos barn som studenten har omsorg for, med dei avgrensingar som går fram av [arbeidsmiljøloven § 12-9](lov/2005-06-17-62/§12-9)dødsfall i nær familie eller andre nærståande til studenten, for ein periode på inntil to veker frå dødsfalletgravferd og liknande til personar i nær familie eller andre nærståande til studentenlovpålagt oppmøte annan stadandre forhold som gjer det sterkt urimeleg å krevje at studenten gjennomfører.
+(1) Følgande blir rekna som gyldig fråvær:
+
+1. eigen sjukdom som gjer gjennomføringa av undervisning eller vurdering umogleg eller urimeleg å krevje
+2. sjukdom hos barn som studenten har omsorg for, med dei avgrensingar som går fram av [arbeidsmiljøloven § 12-9](lov/2005-06-17-62/§12-9)
+3. dødsfall i nær familie eller andre nærståande til studenten, for ein periode på inntil to veker frå dødsfallet
+4. gravferd og liknande til personar i nær familie eller andre nærståande til studenten
+5. lovpålagt oppmøte annan stad
+6. andre forhold som gjer det sterkt urimeleg å krevje at studenten gjennomfører.
 
 (2) Gyldig fråvær på grunn av sjukdom eller liknande skal dokumenterast med attest frå lege, psykolog eller annan sakkunnig. Attesten skal vere utforma i tråd med [helsepersonelloven § 15](lov/1999-07-02-64/§15). Attesten må dokumentere at studenten av helsemessige årsaker som nemnt i bokstav a eller b ikkje kunne gjennomføre den obligatoriske læringsaktiviteten eller vurderinga, og spesifisere kva dagar fråværet gjeld. Ved dødsfall, gravferd eller liknande må studenten oppgi kven som har gått bort og kva for relasjon studenten hadde til avdøde. Studentar som viser til andre forhold som gyldig fråvær må dokumentere desse på eigna måte.
 
@@ -164,7 +198,12 @@ For opptak til utdanningar ved Fagskulen Vestland gjeld [lov om høyere yrkesfag
 
 (6) Frist for søknad om godskriving av eller fritak for emne er 1. oktober for emna i haustsemesteret og 1. februar for emna i vårsemesteret.
 
-(7) Søknad etter andre og tredje ledd må innehalde følgande dokumentasjon:vitnemål/karakterutskriftstudieplan/emneplan frå det semesteret vurdering i emnet blei avlagtpensumliste frå det semesteret vurdering i emnet blei avlagteventuelle andre relevante dokument.
+(7) Søknad etter andre og tredje ledd må innehalde følgande dokumentasjon:
+
+1. vitnemål/karakterutskrift
+2. studieplan/emneplan frå det semesteret vurdering i emnet blei avlagt
+3. pensumliste frå det semesteret vurdering i emnet blei avlagt
+4. eventuelle andre relevante dokument.
 
 (8) For at Fagskulen Vestland skal kunne skrive ut vitnemål eller annan dokumentasjon for fullført utdanning, må studenten avlegge studiepoeng ved fagskulen tilsvarande minste resultatberande eining i fagskuleutdanninga studenten ønsker vitnemål eller annan dokumentasjon for, jf. [fagskoleforskriften § 38](forskrift/2019-07-11-1005/§38).
 
@@ -172,7 +211,11 @@ For opptak til utdanningar ved Fagskulen Vestland gjeld [lov om høyere yrkesfag
 
 ### § 5-1. Studieåret
 
-(1) Det er undervisnings- og vurderingsfri på følgande dagar:frå 24. desember til 1. januarpå heilagdagarmellom semestera.
+(1) Det er undervisnings- og vurderingsfri på følgande dagar:
+
+1. frå 24. desember til 1. januar
+2. på heilagdagar
+3. mellom semestera.
 
 (2) Det kan gjerast unntak frå første ledd for praksis og liknande, inkludert førebuingar, samt for studentar med rett til ny obligatorisk læringsaktivitet eller ny vurdering etter [§ 4-4](forskrift/2025-03-07-529/§4-4).
 
@@ -262,7 +305,15 @@ Undervisning skal finne stad i fagskulen sine lokale, andre stader som er tilkny
 
 ### § 6-5. Gjennomføring av vurdering
 
-(1) Så langt reglane her samsvarer med vurderingsforma, pliktar studentane åsvare i samsvar med dei formelle krava til vurderinga (ordgrense m.m.)følge fagskulen sine reglementikkje bruke anna enn lovlege hjelpemiddellegitimere seg på gyldig måtelevere oppgåvesvaret innanfor fristenikkje forstyrre andre i arbeidet, ogrette seg etter meldingar frå fagskulen og eksamensvaktene.
+(1) Så langt reglane her samsvarer med vurderingsforma, pliktar studentane å
+
+1. svare i samsvar med dei formelle krava til vurderinga (ordgrense m.m.)
+2. følge fagskulen sine reglement
+3. ikkje bruke anna enn lovlege hjelpemiddel
+4. legitimere seg på gyldig måte
+5. levere oppgåvesvaret innanfor fristen
+6. ikkje forstyrre andre i arbeidet, og
+7. rette seg etter meldingar frå fagskulen og eksamensvaktene.
 
 (2) Emneplanen fastset kva hjelpemiddel som er tillate i ein vurderingssituasjon, og reglane for eventuell kontroll av desse.
 
@@ -336,7 +387,16 @@ Ved sensur av skriftlege vurderingar kan det bli gjennomført ei justerande munn
 
 ### § 6-15. Teljande vurderingsforsøk
 
-(1) Studenten bruker eit vurderingsforsøk dersom hengjennomfører vurdering, uavhengig av resultatetikkje møter til vurderingikkje leverer / avbryt vurderingtrekker seg etter fristenikkje dokumenterer gyldig fråvær innan fristen, ellerfår vurderinga annullert etter [fagskoleloven § 24](lov/2018-06-08-28/§24).Studenten blir likevel ikkje rekna for å ha brukt eit vurderingsforsøk dersom studenten ikkje oppfyller vilkåra for vurdering, jf. [§ 6-4 første ledd](forskrift/2025-03-07-529/§6-4/ledd/1).
+(1) Studenten bruker eit vurderingsforsøk dersom hen
+
+1. gjennomfører vurdering, uavhengig av resultatet
+2. ikkje møter til vurdering
+3. ikkje leverer / avbryt vurdering
+4. trekker seg etter fristen
+5. ikkje dokumenterer gyldig fråvær innan fristen, eller
+6. får vurderinga annullert etter [fagskoleloven § 24](lov/2018-06-08-28/§24).
+
+Studenten blir likevel ikkje rekna for å ha brukt eit vurderingsforsøk dersom studenten ikkje oppfyller vilkåra for vurdering, jf. [§ 6-4 første ledd](forskrift/2025-03-07-529/§6-4/ledd/1).
 
 (2) Studentar med gyldig fråvær brukar ikkje eit vurderingsforsøk, jf. [§ 4-4](forskrift/2025-03-07-529/§4-4) siste ledd.
 
@@ -348,7 +408,15 @@ Ved sensur av skriftlege vurderingar kan det bli gjennomført ei justerande munn
 
 (2) Brot på dei formelle krava til vurdering (ordgrense m.m.) skal reknast som ikkje levert.
 
-(3) Ei vurdering blir rekna som påbyrjaved skriftleg skuleeksamen: straks oppgåva er utlevert eller ved førehandskontroll av hjelpemiddel.ved heimeeksamen: straks oppgåva er tilgjengeleg for studentane.ved mappevurdering: ved innleveringsfristen for det første av arbeida som går inn i vurderinga.ved munnleg eller praktisk eksamen: straks studenten tar til med eventuell førebuing, elles når eksaminasjonen startar.ved praksis: frå første praksisdag.Om vurderinga består av fleire vurderingsdelar, blir vurderinga rekna som påbyrja når den første vurderingsdelen startar.
+(3) Ei vurdering blir rekna som påbyrja
+
+1. ved skriftleg skuleeksamen: straks oppgåva er utlevert eller ved førehandskontroll av hjelpemiddel.
+2. ved heimeeksamen: straks oppgåva er tilgjengeleg for studentane.
+3. ved mappevurdering: ved innleveringsfristen for det første av arbeida som går inn i vurderinga.
+4. ved munnleg eller praktisk eksamen: straks studenten tar til med eventuell førebuing, elles når eksaminasjonen startar.
+5. ved praksis: frå første praksisdag.
+
+Om vurderinga består av fleire vurderingsdelar, blir vurderinga rekna som påbyrja når den første vurderingsdelen startar.
 
 (4) For andre vurderingsformer startar vurderinga på det tidspunktet som er bestemt i emneplanen.
 
@@ -358,7 +426,15 @@ Ved sensur av skriftlege vurderingar kan det bli gjennomført ei justerande munn
 
 (1) Studentar som har gyldig fråvær til eller har stroke på ordinær vurdering, har rett på kontinuasjonsvurdering. Retten gjeld med dei avgrensingar som følger av [§ 6-4](forskrift/2025-03-07-529/§6-4) og føresegnene i kapittelet her. Kontinuasjonsvurdering tel som eit vurderingsforsøk, jf. [§ 6-15](forskrift/2025-03-07-529/§6-15).
 
-(2) Rett til kontinuasjonsvurdering gjeld ikkje for studentar somhar gjennomført vurdering med bestått resultattrekker seg frå ordinær vurderingikkje møter / ikkje leverer / avbryt ordinær vurdering utan gyldig fråværikkje dokumenterer gyldig fråvær innan fristenfår vurderinga annullert etter [fagskoleloven § 24](lov/2018-06-08-28/§24).Fagskulen kan likevel etter søknad gi studenten høve til å avlegge kontinuasjonsvurdering når det blir arrangert kontinuasjonsvurdering for studentar etter første ledd.
+(2) Rett til kontinuasjonsvurdering gjeld ikkje for studentar som
+
+1. har gjennomført vurdering med bestått resultat
+2. trekker seg frå ordinær vurdering
+3. ikkje møter / ikkje leverer / avbryt ordinær vurdering utan gyldig fråvær
+4. ikkje dokumenterer gyldig fråvær innan fristen
+5. får vurderinga annullert etter [fagskoleloven § 24](lov/2018-06-08-28/§24).
+
+Fagskulen kan likevel etter søknad gi studenten høve til å avlegge kontinuasjonsvurdering når det blir arrangert kontinuasjonsvurdering for studentar etter første ledd.
 
 (3) Ved kontinuasjonsvurdering skal vurderinga gjennomførast med same pensum som ved siste ordinære vurdering, og med same vurderingsform.
 
@@ -378,7 +454,40 @@ Studentar som har fullført og bestått eit emne kan forbetre karakterar i innti
 
 (3) Bestått resultat med gradert vurderingsuttrykk blir uttrykt med karakterane A til E. Ikkje bestått resultat med gradert vurderingsuttrykk blir uttrykt med bokstaven F, jf. [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40).
 
-(4) Karakterskalaen A–F blir gitt etter følgande allmenne, kvalitative kriterium:*Nynorsk:**Symbol**Nemning**Generell, ikkje fagspesifikk beskriving av vurderingskriterium*AFramifråFramifrå prestasjon som skil seg klart ut. Studenten syner særs god vurderingsevne og stor grad av sjølvstende.BMykje godMykje god prestasjon. Studenten syner mykje god vurderingsevne og sjølvstende.CGodJamt god prestasjon som er tilfredsstillande på dei fleste områda. Studenten syner god vurderingsevne og sjølvstende på dei viktigaste områda.DNokså godAkseptabel prestasjon med nokre vesentlege manglar. Studenten syner ein viss grad av vurderingsevne og sjølvstende.ETilstrekkelegPrestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Studenten syner lita vurderingsevne og lite sjølvstende.FIkkje greiddPrestasjon som ikkje tilfredsstiller dei faglege minimumskrava. Studenten syner både manglande vurderingsevne og sjølvstende.*Bokmål:**Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet.*Engelsk:**Symbol**Description**General, quantitative description*AExcellentAn excellent performance, clearly outstanding. The candidate demonstrates excellent judgement and independent skills and/or understanding.BVery GoodA very good performance. The candidate demonstrates very good judgement and independent skills and/or understanding.CGoodA good performance in most areas. The candidate demonstrates good judgement and independent skills and/or understanding.DSatisfactoryA satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of judgement and independent skills and/or understanding.ESufficientA performance that meets the minimum criteria, but no more. The candidate meets the minimum criteria and demonstrates a very limited judgement and independent skills and/or understanding.FFailedA performance that does not meet the minimum criteria. The candidate has failed because of an absence of judgement and independent skills and/or understanding of the subject.
+(4) Karakterskalaen A–F blir gitt etter følgande allmenne, kvalitative kriterium:
+
+- *Nynorsk:*
+
+  | *Symbol* | *Nemning* | *Generell, ikkje fagspesifikk beskriving av vurderingskriterium* |
+  | --- | --- | --- |
+  | A | Framifrå | Framifrå prestasjon som skil seg klart ut. Studenten syner særs god vurderingsevne og stor grad av sjølvstende. |
+  | B | Mykje god | Mykje god prestasjon. Studenten syner mykje god vurderingsevne og sjølvstende. |
+  | C | God | Jamt god prestasjon som er tilfredsstillande på dei fleste områda. Studenten syner god vurderingsevne og sjølvstende på dei viktigaste områda. |
+  | D | Nokså god | Akseptabel prestasjon med nokre vesentlege manglar. Studenten syner ein viss grad av vurderingsevne og sjølvstende. |
+  | E | Tilstrekkeleg | Prestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Studenten syner lita vurderingsevne og lite sjølvstende. |
+  | F | Ikkje greidd | Prestasjon som ikkje tilfredsstiller dei faglege minimumskrava. Studenten syner både manglande vurderingsevne og sjølvstende. |
+
+  - *Bokmål:*
+
+    | *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+    | --- | --- | --- |
+    | A | Fremragende | Fremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+    | B | Meget god | Meget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet. |
+    | C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+    | D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+    | E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet. |
+    | F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet. |
+
+  - *Engelsk:*
+
+    | *Symbol* | *Description* | *General, quantitative description* |
+    | --- | --- | --- |
+    | A | Excellent | An excellent performance, clearly outstanding. The candidate demonstrates excellent judgement and independent skills and/or understanding. |
+    | B | Very Good | A very good performance. The candidate demonstrates very good judgement and independent skills and/or understanding. |
+    | C | Good | A good performance in most areas. The candidate demonstrates good judgement and independent skills and/or understanding. |
+    | D | Satisfactory | A satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of judgement and independent skills and/or understanding. |
+    | E | Sufficient | A performance that meets the minimum criteria, but no more. The candidate meets the minimum criteria and demonstrates a very limited judgement and independent skills and/or understanding. |
+    | F | Failed | A performance that does not meet the minimum criteria. The candidate has failed because of an absence of judgement and independent skills and/or understanding of the subject. |
 
 ### § 7-2. Sensur
 
@@ -458,11 +567,28 @@ Studentar som har fullført og bestått eit emne kan forbetre karakterar i innti
 
 (1) Fagskulen Vestland skal med heimel i [fagskoleloven § 20 første ledd](lov/2018-06-08-28/§20/ledd/1) opprette ei lokal klagenemnd. Fagskulen kan samarbeide med andre fagskular om felles klagenemnd.
 
-(2) Den lokale klagenemnda skal som klageinstans behandle klager på fagskulen sine enkeltvedtak, for eksempel avgjersler omgodskriving og fritak etter [fagskoleloven § 8](lov/2018-06-08-28/§8)opptak på grunnlag av realkompetanse eller spesielle opptakskrav etter [fagskoleforskriften § 7 første](forskrift/2019-07-11-1005/§7/ledd/1) og [fjerde ledd](forskrift/2019-07-11-1005/§7/ledd/4)formelle feil etter [fagskoleloven § 23](lov/2018-06-08-28/§23)tilrettelegging etter [fagskoleloven § 15 femte ledd](lov/2018-06-08-28/§15/ledd/5)tap av rettarbortvising etter [fagskoleloven § 43](lov/2018-06-08-28/§43)permisjon etter [fagskoleloven §§ 28](lov/2018-06-08-28/§28) og [28a](lov/2018-06-08-28/§28a).
+(2) Den lokale klagenemnda skal som klageinstans behandle klager på fagskulen sine enkeltvedtak, for eksempel avgjersler om
+
+1. godskriving og fritak etter [fagskoleloven § 8](lov/2018-06-08-28/§8)
+2. opptak på grunnlag av realkompetanse eller spesielle opptakskrav etter [fagskoleforskriften § 7 første](forskrift/2019-07-11-1005/§7/ledd/1) og [fjerde ledd](forskrift/2019-07-11-1005/§7/ledd/4)
+3. formelle feil etter [fagskoleloven § 23](lov/2018-06-08-28/§23)
+4. tilrettelegging etter [fagskoleloven § 15 femte ledd](lov/2018-06-08-28/§15/ledd/5)
+5. tap av rettar
+6. bortvising etter [fagskoleloven § 43](lov/2018-06-08-28/§43)
+7. permisjon etter [fagskoleloven §§ 28](lov/2018-06-08-28/§28) og [28a](lov/2018-06-08-28/§28a).
 
 (3) Når den lokale klagenemnda behandlar klager på fagskulen sine enkeltvedtak, kan klagenemnda sine vedtak ikkje påklagast, jf. [fagskoleloven § 20 fjerde ledd](lov/2018-06-08-28/§20/ledd/4).
 
-(4) Den lokale klagenemnda skal som underinstans behandle følgande saker:annullering etter [fagskoleloven § 24](lov/2018-06-08-28/§24)bortvising og utestenging etter [fagskoleloven § 25](lov/2018-06-08-28/§25)skikkaheit etter [fagskoleloven § 26](lov/2018-06-08-28/§26)politiattest etter [fagskoleloven § 27](lov/2018-06-08-28/§27)utestenging etter [fagskoleloven § 43](lov/2018-06-08-28/§43)inndraging og karantenetid etter [fagskoleloven § 16 a](lov/2018-06-08-28/§16a).Vedtak i saker etter [fagskoleloven §§ 16 a](lov/2018-06-08-28/§16a) og [25](lov/2018-06-08-28/§25)–[27](lov/2018-06-08-28/§27) skal treffast med minst to tredels fleirtal.
+(4) Den lokale klagenemnda skal som underinstans behandle følgande saker:
+
+1. annullering etter [fagskoleloven § 24](lov/2018-06-08-28/§24)
+2. bortvising og utestenging etter [fagskoleloven § 25](lov/2018-06-08-28/§25)
+3. skikkaheit etter [fagskoleloven § 26](lov/2018-06-08-28/§26)
+4. politiattest etter [fagskoleloven § 27](lov/2018-06-08-28/§27)
+5. utestenging etter [fagskoleloven § 43](lov/2018-06-08-28/§43)
+6. inndraging og karantenetid etter [fagskoleloven § 16 a](lov/2018-06-08-28/§16a).
+
+Vedtak i saker etter [fagskoleloven §§ 16 a](lov/2018-06-08-28/§16a) og [25](lov/2018-06-08-28/§25)–[27](lov/2018-06-08-28/§27) skal treffast med minst to tredels fleirtal.
 
 (5) Når den lokale klagenemnda behandlar saker etter fjerde ledd, kan klagenemnda sine vedtak påklagast til Nasjonal klagenemnd for høyere yrkesfaglig utdanning, jf. [fagskoleloven § 20](lov/2018-06-08-28/§20) siste ledd. Den nasjonale klagenemnda behandlar også klager over enkeltvedtak treft med heimel i [fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom Samordna opptak. Den nasjonale klagenemnda sine vedtak kan ikkje påklagast, jf. [fagskoleforskriften § 45](forskrift/2019-07-11-1005/§45) siste ledd.
 
@@ -472,7 +598,14 @@ Studentar som har fullført og bestått eit emne kan forbetre karakterar i innti
 
 (1) Forbodet mot fusk, forsøk på fusk og medverknad til fusk gjeld både i forbindelse med eksamen, prøve eller liknande, og elles under gjennomføringa av emnet.
 
-(2) Som fusk reknar ein mellom annaå bruke eller ha ulovlege hjelpemiddel tilgjengelegå sitere kjelder eller på annan måte bruke kjelder i skriftlege arbeid utan tilstrekkelege og korrekte kjeldetilvisingarulovleg kommunikasjon og samarbeid mellom enkeltpersonar og grupperå la ein annan gjennomføre vurderinga, den obligatoriske læringsaktiviteten eller liknande for segå tileigne seg fordelar ein ikkje har rett tilå handle på andre måtar i strid med retningslinjer bestemt av fagskulen.
+(2) Som fusk reknar ein mellom anna
+
+1. å bruke eller ha ulovlege hjelpemiddel tilgjengeleg
+2. å sitere kjelder eller på annan måte bruke kjelder i skriftlege arbeid utan tilstrekkelege og korrekte kjeldetilvisingar
+3. ulovleg kommunikasjon og samarbeid mellom enkeltpersonar og grupper
+4. å la ein annan gjennomføre vurderinga, den obligatoriske læringsaktiviteten eller liknande for seg
+5. å tileigne seg fordelar ein ikkje har rett til
+6. å handle på andre måtar i strid med retningslinjer bestemt av fagskulen.
 
 ### § 9-2. Mistanke om fusk
 
@@ -528,7 +661,14 @@ Studentar som har fullført og bestått eit emne kan forbetre karakterar i innti
 
 (2) Ein student som i utdanninga eller i framtidig yrkesutøving kan utgjere fare for liv, fysisk og/eller psykisk helse, rettar og sikkerheit til barn, unge eller vaksne i sårbare situasjonar, er ikkje skikka for yrket, jf. [fagskoleforskriften § 26](forskrift/2019-07-11-1005/§26).
 
-(3) Ved Fagskulen Vestland er følgande utdanningar underlagt skikkavurdering:Demensomsorg og psykisk helsearbeid til eldrePsykisk helsearbeid og rusarbeidRehabilitering, kvardagsmeistring og velferdsteknologiSterilforsyning og smittevern i helsetenesta.Andre utdanningar kan også vere underlagt skikkavurdering.
+(3) Ved Fagskulen Vestland er følgande utdanningar underlagt skikkavurdering:
+
+1. Demensomsorg og psykisk helsearbeid til eldre
+2. Psykisk helsearbeid og rusarbeid
+3. Rehabilitering, kvardagsmeistring og velferdsteknologi
+4. Sterilforsyning og smittevern i helsetenesta.
+
+Andre utdanningar kan også vere underlagt skikkavurdering.
 
 (4) For utdanningar underlagt skikkavurdering skal rektor utnemne skikkaansvarleg(e) for skikkavurdering, jf. [fagskoleforskriften 32 første ledd](forskrift/2019-07-11-1005/§32/ledd/1). Styret sjølv oppretter ei skikkanemnd i tråd med [fagskoleforskriften § 31](forskrift/2019-07-11-1005/§31).
 
@@ -576,7 +716,20 @@ For å få tildelt vitnemål eller annan dokumentasjon for fullført utdanning v
 
 (2) For at Fagskulen Vestland skal kunne skrive ut vitnemål eller annan dokumentasjon for fullført utdanning, må studenten avlegge studiepoeng ved fagskulen tilsvarande minste resultatberande eining i fagskuleutdanninga studenten ønsker vitnemål eller annan dokumentasjon for. Det er normalt den siste fagskulen som har ein student før fullført utdanningsløp, som har ansvaret for å skrive ut vitnemålet, jf. [fagskoleforskriften § 38](forskrift/2019-07-11-1005/§38).
 
-(3) Vitnemålet skal visenamnet på fagskulen og utdanninganamnet og fødselsnummeret til studentenei beskriving av karaktersystemetkarakterane til studentendet overordna læringsutbyttet for utdanningaemne og eventuell praksis i utdanningatittel og beskriving av hovudprosjekt eller fordjupingsemne, om utdanninga har dettenivå i Nasjonal kvalifikasjonsrammeverk for livslang læringantal studiepoeng og eventuell gradsnemningdatoen for når vitnemålet er skrive ut.For dei maritime utdanningane skal vitnemålet vise sertifikatnummeret til fagskulen.
+(3) Vitnemålet skal vise
+
+1. namnet på fagskulen og utdanninga
+2. namnet og fødselsnummeret til studenten
+3. ei beskriving av karaktersystemet
+4. karakterane til studenten
+5. det overordna læringsutbyttet for utdanninga
+6. emne og eventuell praksis i utdanninga
+7. tittel og beskriving av hovudprosjekt eller fordjupingsemne, om utdanninga har dette
+8. nivå i Nasjonal kvalifikasjonsrammeverk for livslang læring
+9. antal studiepoeng og eventuell gradsnemning
+10. datoen for når vitnemålet er skrive ut.
+
+For dei maritime utdanningane skal vitnemålet vise sertifikatnummeret til fagskulen.
 
 (4) Dersom utdanninga har krav om skikkavurdering, skal vitnemålet vise dette, jf. [fagskoletilsynsforskriften § 2-7](forskrift/2020-04-23-853/§2-7) siste ledd.
 

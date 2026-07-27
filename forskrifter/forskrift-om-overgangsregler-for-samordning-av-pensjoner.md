@@ -28,13 +28,27 @@ Forskriften gir overgangsregler om fastsetting av samordningsfradrag når det er
 
 ## § 2. Definisjoner
 
-I forskriften her forstås«[samordningsloven» som lov 6. juli 1957 nr. 26](lov/1957-07-06-26) om samordning av pensjons- og trygdeytelser,«samordningsfradrag» som fradrag i pensjon med hjemmel i samordningsloven,«forskrift om omregning av uførepensjon til uføretrygd» som [forskrift 3. juli 2014 nr. 947](forskrift/2014-07-03-947) om omregning av uførepensjon til uføretrygd,«forskrift om overgangsregler for uførepensjon fra tjenestepensjonsordning» som [forskrift 3. juli 2014 nr. 949](forskrift/2014-07-03-949) om overgangsregler for uførepensjon fra lovfestet offentlig tjenestepensjonsordning som er innvilget med virkningstidspunkt før 1. januar 2015,«brutto tjenestepensjon» som alderspensjon fra tjenestepensjonsordning som omfattes av samordningsloven og enke- og enkemannspensjon som omfattes av [samordningsloven § 3](lov/1957-07-06-26/§3) første ledd første og tredje punktum når pensjonene gis før fylte 67 år,«netto tjenestepensjon» som uførepensjon fra tjenestepensjonsordning som omfattes av [samordningsloven § 3](lov/1957-07-06-26/§3) andre ledd første og tredje punktum,«personskadetrygd» som uførepensjon, enkepensjon, enkemannspensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav b og [§ 4](lov/1957-07-06-26/§4) andre ledd når pensjonene gis før fylte 67 år og«ytelser fra folketrygden» som uførepensjon (før 1. januar 2015) og uføretrygd (fra og med 1. januar 2015) etter folketrygdloven.
+I forskriften her forstås
+
+1. «[samordningsloven» som lov 6. juli 1957 nr. 26](lov/1957-07-06-26) om samordning av pensjons- og trygdeytelser,
+2. «samordningsfradrag» som fradrag i pensjon med hjemmel i samordningsloven,
+3. «forskrift om omregning av uførepensjon til uføretrygd» som [forskrift 3. juli 2014 nr. 947](forskrift/2014-07-03-947) om omregning av uførepensjon til uføretrygd,
+4. «forskrift om overgangsregler for uførepensjon fra tjenestepensjonsordning» som [forskrift 3. juli 2014 nr. 949](forskrift/2014-07-03-949) om overgangsregler for uførepensjon fra lovfestet offentlig tjenestepensjonsordning som er innvilget med virkningstidspunkt før 1. januar 2015,
+5. «brutto tjenestepensjon» som alderspensjon fra tjenestepensjonsordning som omfattes av samordningsloven og enke- og enkemannspensjon som omfattes av [samordningsloven § 3](lov/1957-07-06-26/§3) første ledd første og tredje punktum når pensjonene gis før fylte 67 år,
+6. «netto tjenestepensjon» som uførepensjon fra tjenestepensjonsordning som omfattes av [samordningsloven § 3](lov/1957-07-06-26/§3) andre ledd første og tredje punktum,
+7. «personskadetrygd» som uførepensjon, enkepensjon, enkemannspensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav b og [§ 4](lov/1957-07-06-26/§4) andre ledd når pensjonene gis før fylte 67 år og
+8. «ytelser fra folketrygden» som uførepensjon (før 1. januar 2015) og uføretrygd (fra og med 1. januar 2015) etter folketrygdloven.
 
 ## § 3. Fastsetting av samordningsfradrag
 
 Folketrygden omregnes etter forskrift om omregning av uførepensjon til uføretrygd.
 
-Når det ytesbrutto tjenestepensjon og folketrygd ellerpersonskadetrygd og folketrygd,skal samordningsfradraget for folketrygden fastsettes til det samme beløpet som det utgjorde umiddelbart før 1. januar 2015.
+Når det ytes
+
+1. brutto tjenestepensjon og folketrygd eller
+2. personskadetrygd og folketrygd,
+
+skal samordningsfradraget for folketrygden fastsettes til det samme beløpet som det utgjorde umiddelbart før 1. januar 2015.
 
 Samordningsfradraget for folketrygden endres forholdsmessig ut fra endringer i uføregrad.
 

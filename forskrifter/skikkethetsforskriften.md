@@ -15,7 +15,7 @@ xml_hash: "17c0d353e0dfdd8e69c764479fdc8c4a51e3f470371bb4472fd2caf955e74867"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,12 @@ Ved studiestart skal Politihøgskolen sørge for at studentene får informasjon 
 
 ### § 3. Reaksjoner som kan ilegges
 
-Politihøgskolen kan ilegge følgende reaksjoner:UtvisningUtestengingBortvisningSkriftlig advarsel.
+Politihøgskolen kan ilegge følgende reaksjoner:
+
+1. Utvisning
+2. Utestenging
+3. Bortvisning
+4. Skriftlig advarsel.
 
 Utvisning innebærer at studenten mister sin studieplass og ikke kan avlegge eksamen. Etter utløp av utvisningsperioden kan studenten søke opptak på nytt på de vilkår som gjelder da. Hvorvidt studenten skal godskrives tidligere gjennomført utdanning ved Politihøgskolen avgjøres etter de vanlige regler for godkjenning av tidligere utdanning. En student kan utvises i inntil fem år eller varig.
 
@@ -60,11 +65,20 @@ Kravet til skikkethet innebærer at studenten må være egnet og ha den nødvend
 
 Politihøgskolen kan sette faste tidspunkter for vurdering av skikkethet.
 
-Dersom det i løpet av studiet oppstår begrunnet tvil om en student er skikket, skal det foretas en særskilt skikkethetsvurdering. Følgende forhold skal alltid medføre at det foretas en særskilt skikkethetsvurdering:fusk eller forsøk på fuskunnlatt medvirkning til dopingkontroll, jf. [politiloven § 24c](lov/1995-08-04-53/§24c)grove brudd på politiets regler om edruelighet, jf. [politiloven § 24d](lov/1995-08-04-53/§24d).
+Dersom det i løpet av studiet oppstår begrunnet tvil om en student er skikket, skal det foretas en særskilt skikkethetsvurdering. Følgende forhold skal alltid medføre at det foretas en særskilt skikkethetsvurdering:
+
+1. fusk eller forsøk på fusk
+2. unnlatt medvirkning til dopingkontroll, jf. [politiloven § 24c](lov/1995-08-04-53/§24c)
+3. grove brudd på politiets regler om edruelighet, jf. [politiloven § 24d](lov/1995-08-04-53/§24d).
 
 ### § 7. Bruk av opplysninger fra politiets registre
 
-Politihøgskolen kan i skikkethetsvurderingen legge vekt på opplysninger som den får utlevert fra den behandlingsansvarlige fra straffesaker og følgende registre:reaksjonsregisteret ([politiregisterforskriften kap. 44](forskrift/2013-09-20-1097/kap44))kriminaletterretningsregisteret ([politiregisterforskriften kap. 47](forskrift/2013-09-20-1097/kap47))straffesaksregisteret ([politiregisterforskriften kap. 48](forskrift/2013-09-20-1097/kap48))politioperativt register ([politiregisterforskriften kap. 53](forskrift/2013-09-20-1097/kap53)).
+Politihøgskolen kan i skikkethetsvurderingen legge vekt på opplysninger som den får utlevert fra den behandlingsansvarlige fra straffesaker og følgende registre:
+
+1. reaksjonsregisteret ([politiregisterforskriften kap. 44](forskrift/2013-09-20-1097/kap44))
+2. kriminaletterretningsregisteret ([politiregisterforskriften kap. 47](forskrift/2013-09-20-1097/kap47))
+3. straffesaksregisteret ([politiregisterforskriften kap. 48](forskrift/2013-09-20-1097/kap48))
+4. politioperativt register ([politiregisterforskriften kap. 53](forskrift/2013-09-20-1097/kap53)).
 
 Politihøgskolen kan i skikkethetsvurderingen legge vekt på opplysninger som mottas fra Politiets sikkerhetstjeneste.
 
@@ -88,7 +102,14 @@ Hvis skikkethetsoppfølging ikke er aktuelt eller ikke leder til nødvendige end
 
 ### § 10. Skikkethetsnemnda
 
-Styret skal oppnevne en skikkethetsnemnd for bachelorutdanningen. Nemnda skal bestå av følgende medlemmer:rektor ved Politihøgskolenleder av bachelorutdanningenen representant fra utdanningslederne eller de praksisansvarligeen representant fra undervisningspersonaleten studentrepresentanten representant fra annen høyskole eller universitet.
+Styret skal oppnevne en skikkethetsnemnd for bachelorutdanningen. Nemnda skal bestå av følgende medlemmer:
+
+1. rektor ved Politihøgskolen
+2. leder av bachelorutdanningen
+3. en representant fra utdanningslederne eller de praksisansvarlige
+4. en representant fra undervisningspersonalet
+5. en studentrepresentant
+6. en representant fra annen høyskole eller universitet.
 
 Leder av bachelorutdanningen, representanten fra undervisningspersonalet og studentrepresentanten skal tilhøre den avdelingen studenten studerer ved. Studenter på andre studieår (B2) hører under avdeling Oslo.
 
@@ -120,7 +141,13 @@ Avgjørelser i skikkethetsnemnda treffes ved alminnelig flertall. Ved stemmelikh
 
 ### § 12. Styrets vedtakskompetanse
 
-Styret kan på bakgrunn av innstilling fra skikkethetsnemnda fatte vedtak om følgende reaksjoner:utvise student som anses uskikket for tjeneste i politiet, jf. [politiloven § 24c første ledd](lov/1995-08-04-53/§24c/ledd/1). Styret kan etter en konkret vurdering likevel gi en studenten anledning til å fullføre studieåret. Det skal da gis karakterutskrift av avlagte og beståtte eksamener som bekrefter oppnådde studiepoeng, men det skal ikke utstedes vitnemål.utvise eller bortvise student som gjør seg skyldig i fusk eller forsøk på fusk, jf. [politiloven § 24c tredje ledd](lov/1995-08-04-53/§24c/ledd/3)utvise eller utestenge student som nekter å medvirke til dopingkontroll, jf. [politiloven § 24c fjerde ledd](lov/1995-08-04-53/§24c/ledd/4)utvise eller utestenge student som ved grovt klanderverdig adferd som skaper fare for liv eller helse for personer som studenten kommer i kontakt med i undervisningen, jf. [politiloven § 24c andre ledd](lov/1995-08-04-53/§24c/ledd/2)bortvise student som etter forutgående advarsel på ny har opptrådt grovt forstyrrende for medstudenters arbeid eller for virksomheten for øvrig, jf. [politiloven § 24c annet ledd](lov/1995-08-04-53/§24c/ledd/2).
+Styret kan på bakgrunn av innstilling fra skikkethetsnemnda fatte vedtak om følgende reaksjoner:
+
+1. utvise student som anses uskikket for tjeneste i politiet, jf. [politiloven § 24c første ledd](lov/1995-08-04-53/§24c/ledd/1). Styret kan etter en konkret vurdering likevel gi en studenten anledning til å fullføre studieåret. Det skal da gis karakterutskrift av avlagte og beståtte eksamener som bekrefter oppnådde studiepoeng, men det skal ikke utstedes vitnemål.
+2. utvise eller bortvise student som gjør seg skyldig i fusk eller forsøk på fusk, jf. [politiloven § 24c tredje ledd](lov/1995-08-04-53/§24c/ledd/3)
+3. utvise eller utestenge student som nekter å medvirke til dopingkontroll, jf. [politiloven § 24c fjerde ledd](lov/1995-08-04-53/§24c/ledd/4)
+4. utvise eller utestenge student som ved grovt klanderverdig adferd som skaper fare for liv eller helse for personer som studenten kommer i kontakt med i undervisningen, jf. [politiloven § 24c andre ledd](lov/1995-08-04-53/§24c/ledd/2)
+5. bortvise student som etter forutgående advarsel på ny har opptrådt grovt forstyrrende for medstudenters arbeid eller for virksomheten for øvrig, jf. [politiloven § 24c annet ledd](lov/1995-08-04-53/§24c/ledd/2).
 
 Studenten skal gis anledning til å forklare seg muntlig for styret før vedtak fattes.
 
@@ -150,7 +177,12 @@ Når det er besluttet skikkethetsoppfølging eller saken er fremmet for skikketh
 
 ### § 15. Styrets vedtakskompetanse
 
-Styret kan på bakgrunn av innstilling fra rektor ved Politihøgskolen fatte vedtak om følgende reaksjoner:bortvise student som etter forutgående advarsel, på ny har opptrådt grovt forstyrrende for medstudenters arbeid eller for virksomheten for øvrig, jf. [politiloven § 24c andre ledd](lov/1995-08-04-53/§24c/ledd/2),utestenge student som opptrer med grov klanderverdig adferd som skaper fare for liv eller helse for personer som studenten kommer i kontakt med i undervisningen, jf. [politiloven § 24c andre ledd](lov/1995-08-04-53/§24c/ledd/2)utvise eller bortvise student ved fusk eller forsøk på fusk, jf. [politiloven § 24c tredje ledd](lov/1995-08-04-53/§24c/ledd/3)utvise eller utestenge student som nekter å medvirke til dopingkontroll, jf. [politiloven § 24c fjerde ledd](lov/1995-08-04-53/§24c/ledd/4).
+Styret kan på bakgrunn av innstilling fra rektor ved Politihøgskolen fatte vedtak om følgende reaksjoner:
+
+1. bortvise student som etter forutgående advarsel, på ny har opptrådt grovt forstyrrende for medstudenters arbeid eller for virksomheten for øvrig, jf. [politiloven § 24c andre ledd](lov/1995-08-04-53/§24c/ledd/2),
+2. utestenge student som opptrer med grov klanderverdig adferd som skaper fare for liv eller helse for personer som studenten kommer i kontakt med i undervisningen, jf. [politiloven § 24c andre ledd](lov/1995-08-04-53/§24c/ledd/2)
+3. utvise eller bortvise student ved fusk eller forsøk på fusk, jf. [politiloven § 24c tredje ledd](lov/1995-08-04-53/§24c/ledd/3)
+4. utvise eller utestenge student som nekter å medvirke til dopingkontroll, jf. [politiloven § 24c fjerde ledd](lov/1995-08-04-53/§24c/ledd/4).
 
 Styret kan delegere vedtakskompetansen og ansvaret for forberedende saksbehandling til et arbeidsutvalg bestående av styremedlemmer og andre ved Politihøgskolen, jf. [forskrift om Politihøgskolens styre, oppgaver og virksomhet § 2 nr. 6](forskrift/2005-11-25-1330/§2/nummer/6).
 

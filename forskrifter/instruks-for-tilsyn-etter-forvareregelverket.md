@@ -15,7 +15,7 @@ xml_hash: "e3ceea37bc6eaf44578a859ff5638141b6d7c7048e2b506d2245e0d2ee59269b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,11 @@ Betegnelsen «*virksomhet*» brukes som en samlebetegnelse for de to definerte b
 
 3\. *Kontroll*
 
-Generelt skal kontroll av fôrvarer foretas:regelmessig,ved mistanke om brudd på regelverket (manglende samsvar),i et omfang som står i forhold til formålet (den fastsatte målsetting), særlig med henblikk på farene og på erfaringene som gjøres.
+Generelt skal kontroll av fôrvarer foretas:
+
+- regelmessig,
+- ved mistanke om brudd på regelverket (manglende samsvar),
+- i et omfang som står i forhold til formålet (den fastsatte målsetting), særlig med henblikk på farene og på erfaringene som gjøres.
 
 Kontrollene skal omfatte alle produksjons- og framstillingstrinn, mellomtrinn før omsetning og selve omsetningen, herunder innførsel og bruk av produktene. Landbrukstilsynet skal velge ut det eller de trinn som er best egnet til den påtenkte kontrollen.
 
@@ -68,13 +72,19 @@ Landbrukstilsynet skal sørge for at kontrollene utføres på en måte som sikre
 
 4\. *Analyser*
 
-Dersom det tas prøver av produktene med henblikk på analyse, skal Landbrukstilsynet treffe nødvendige tiltak for å sikre atde som kontrolleres, har rett til å få utført en ny vurdering,offentlig forseglede referanseprøver blir oppbevart.
+Dersom det tas prøver av produktene med henblikk på analyse, skal Landbrukstilsynet treffe nødvendige tiltak for å sikre at
+
+- de som kontrolleres, har rett til å få utført en ny vurdering,
+- offentlig forseglede referanseprøver blir oppbevart.
 
 Landbrukstilsynet skal utarbeide en liste over laboratorier som har ansvar for å utføre analysene. Laboratoriene skal være utpekt på grunnlag av sine kvalifikasjoner.
 
 Landbrukstilsynet skal påse at prøvetakingen og analysene utføres i samsvar med reglene i EØS.
 
-Dersom det i EØS-reglene ikke finnes bestemmelser om prøvetakings- og analysemetoder, skal Landbrukstilsynet treffe nødvendige tiltak for å sikre at kontrollen foretas:i samsvar med standarder godkjent av internasjonale organisasjoner,i samsvar med vitenskapelig anerkjente nasjonale regler som oppfyller EØS-avtalens generelle prinsipper, dersom nevnte standarder ikke finnes.
+Dersom det i EØS-reglene ikke finnes bestemmelser om prøvetakings- og analysemetoder, skal Landbrukstilsynet treffe nødvendige tiltak for å sikre at kontrollen foretas:
+
+- i samsvar med standarder godkjent av internasjonale organisasjoner,
+- i samsvar med vitenskapelig anerkjente nasjonale regler som oppfyller EØS-avtalens generelle prinsipper, dersom nevnte standarder ikke finnes.
 
 5\. *Programmer*
 
@@ -82,13 +92,24 @@ Landbrukstilsynet skal utarbeide programmer som fastsetter de nasjonale tiltak s
 
 Programmene skal ta hensyn til norske forhold og spesifisere arten og hyppigheten av kontrollene, som skal foretas regelmessig.
 
-Innen 1. april hvert år skal Landbrukstilsynet oversende ESA alle relevante opplysninger om gjennomføringen av programmene i løpet av det foregående år, og særlig presiserekriteriene som er brukt ved utarbeidingen av programmene,antallet og arten av kontroller som er foretatt,resultatene av kontrollene, særlig antallet og arten av overtredelser som er fastslått,tiltakene som er truffet i de tilfeller der overtredelser er fastslått.
+Innen 1. april hvert år skal Landbrukstilsynet oversende ESA alle relevante opplysninger om gjennomføringen av programmene i løpet av det foregående år, og særlig presisere
+
+- kriteriene som er brukt ved utarbeidingen av programmene,
+- antallet og arten av kontroller som er foretatt,
+- resultatene av kontrollene, særlig antallet og arten av overtredelser som er fastslått,
+- tiltakene som er truffet i de tilfeller der overtredelser er fastslått.
 
 ### § 2. Innførsel fra tredjeland
 
 1\. *Dokument- og identitetskontroll*
 
-Landbrukstilsynet skal i samarbeid med tollmyndighetene sørge for at det blir foretatt dokumentkontroll av hvert parti og identitetskontroll ved stikkprøver av produkter som innføres til EØS sitt tollområde, for å fastslå produktenesart,opprinnelse,geografiske bestemmelsessted,for å avgjøre hvilken tollprosedyre som skal anvendes på dem.
+Landbrukstilsynet skal i samarbeid med tollmyndighetene sørge for at det blir foretatt dokumentkontroll av hvert parti og identitetskontroll ved stikkprøver av produkter som innføres til EØS sitt tollområde, for å fastslå produktenes
+
+- art,
+- opprinnelse,
+- geografiske bestemmelsessted,
+
+for å avgjøre hvilken tollprosedyre som skal anvendes på dem.
 
 2\. *Kontrolldokument*
 
@@ -102,7 +123,13 @@ Landbrukstilsynet kan ved fysisk stikkprøvekontroll undersøke om produktene er
 
 Dersom kontrollen viser at produktene ikke er i samsvar med lov- og forskriftskrav, skal Landbrukstilsynet forby at de innføres eller frigis til fri omsetning, og påby at de sendes ut igjen av EØS-området. Landbrukstilsynet skal straks underrette ESA og EØS-landene om at Norge har avvist produktene, og angi hvilke overtredelser som er fastslått.
 
-Som unntak kan Landbrukstilsynet på vilkår gi tillatelse til at produktene entenbringes i samsvar med kravene innen en fastsatt frist,dekontamineres dersom det er hensiktsmessig,behandles på annen passende måte,brukes til andre formål ellerdestrueres.
+Som unntak kan Landbrukstilsynet på vilkår gi tillatelse til at produktene enten
+
+- bringes i samsvar med kravene innen en fastsatt frist,
+- dekontamineres dersom det er hensiktsmessig,
+- behandles på annen passende måte,
+- brukes til andre formål eller
+- destrueres.
 
 Landbrukstilsynet skal påse at nevnte tiltak ikke fører til negative virkninger på folkehelsen, dyrehelsen eller miljøet. Kostnadene i forbindelse med tiltakene skal dekkes av den som har fått tillatelsen til ovennevnte tiltak, eller dennes representant.
 
@@ -126,7 +153,14 @@ Landbrukstilsynet kan uten å forskjellsbehandle foreta stikkprøvekontroll på 
 
 Dersom den vedkommende myndigheten i transittlandet innen EØS eller Landbrukstilsynet har opplysninger som gir grunn til å anta at det foreligger en overtredelse, kan det dessuten foretas kontroll under transporten av produktene.
 
-Dersom Landbrukstilsynet ved kontroll i henhold til § 28 i fôrvareforskriften fastslår at produktene ikke er i samsvar med forskriften, skal det treffes egnede tiltak og på vilkår, formelt oppfordre avsenderen, mottakeren eller annen bemyndiget person til å sørge for at produktene enten:bringes i samsvar med kravene innen en fastsatt frist,dekontamineres dersom det er hensiktsmessig,behandles på annen passende måte,brukes til andre formål,tilbakesendes til opprinnelseslandet etter at vedkommende myndighet i landet der opprinnelsesvirksomheten ligger, er blitt underrettet, ellerdestrueres.
+Dersom Landbrukstilsynet ved kontroll i henhold til § 28 i fôrvareforskriften fastslår at produktene ikke er i samsvar med forskriften, skal det treffes egnede tiltak og på vilkår, formelt oppfordre avsenderen, mottakeren eller annen bemyndiget person til å sørge for at produktene enten:
+
+- bringes i samsvar med kravene innen en fastsatt frist,
+- dekontamineres dersom det er hensiktsmessig,
+- behandles på annen passende måte,
+- brukes til andre formål,
+- tilbakesendes til opprinnelseslandet etter at vedkommende myndighet i landet der opprinnelsesvirksomheten ligger, er blitt underrettet, eller
+- destrueres.
 
 Kostnadene i forbindelse med nevnte tiltak skal dekkes av avsenderen eller annen berettiget person, herunder eventuelt mottakeren.
 
@@ -138,7 +172,10 @@ Dersom Landbrukstilsynet frykter for at disse tiltakene ikke er tilstrekkelige, 
 
 Dersom kontrollene avslører gjentatte uregelmessigheter, skal Landbrukstilsynet underrette ESA og de andre EØS-landene.
 
-Hvis Landbrukstilsynet informerer ESA om at det er nødvendig å sette i verk tiltak ovenfor innførte fôrvarer fra tredjeland i en situasjonen der et problem kan medføre en alvorlig risiko for menneskers eller dyrs helse eller miljøet, og ESA ikke allerede har satt i verk tiltak, kan Landbrukstilsynet sette i verk beskyttelsestiltak. Tiltakene kan bestå i å forby innførsel, eller sette bestemte krav. På anmodning fra mottakslandet i EØS eller på eget initiativ kan ESA alt etter arten av overtredelser som er fastslått,sende representanter til den berørte virksomhet i samarbeid med vedkommende medlemsland,oppfordre avsenderlandet i EØS til å skjerpe kontrollen av produktene fra den berørte virksomhet.
+Hvis Landbrukstilsynet informerer ESA om at det er nødvendig å sette i verk tiltak ovenfor innførte fôrvarer fra tredjeland i en situasjonen der et problem kan medføre en alvorlig risiko for menneskers eller dyrs helse eller miljøet, og ESA ikke allerede har satt i verk tiltak, kan Landbrukstilsynet sette i verk beskyttelsestiltak. Tiltakene kan bestå i å forby innførsel, eller sette bestemte krav. På anmodning fra mottakslandet i EØS eller på eget initiativ kan ESA alt etter arten av overtredelser som er fastslått,
+
+- sende representanter til den berørte virksomhet i samarbeid med vedkommende medlemsland,
+- oppfordre avsenderlandet i EØS til å skjerpe kontrollen av produktene fra den berørte virksomhet.
 
 I påvente av ESAs konklusjoner skal avsenderlandet i EØS på anmodning fra mottakslandet i EØS skjerpe kontrollen av produktene fra den berørte virksomhet.
 
@@ -154,13 +191,22 @@ Godkjenning av antibiotika, koksidiostatika og vekstfremmende stoffer skal knytt
 
 2\. *Forpliktelser som rapportør*
 
-Hvis Landbrukstilsynet opptrer som rapportør, skal det kontrolleres atsaksmappen er utarbeidet i samsvar med direktiv [87/153/EØF](eu/31987l0153),stoffet eller preparatet ifølge de framlagte opplysninger synes å oppfylle godkjenningsvilkårene (fastsatt i artikkel 3a, i direktiv [70/524/EØF](eu/31970l0524*)).
+Hvis Landbrukstilsynet opptrer som rapportør, skal det kontrolleres at
+
+- saksmappen er utarbeidet i samsvar med direktiv [87/153/EØF](eu/31987l0153),
+- stoffet eller preparatet ifølge de framlagte opplysninger synes å oppfylle godkjenningsvilkårene (fastsatt i artikkel 3a, i direktiv [70/524/EØF](eu/31970l0524*)).
 
 Landbrukstilsynet skal som rapportør, på anmodning fra ESA, sørge for at hele eller en del av saksmappen med dokumentasjon oversendes offisielt til medlemmene av Vitenskapskomiteen for fôrvarer (SCAN).
 
 Landbrukstilsynet skal sørge for at opplysninger som kan krenke den industrielle og kommersielle eiendomsrett behandles fortrolig.
 
-Følgende skal ikke behandles fortrolig:tilsetningsstoffets betegnelse og sammensetning,tilsetningsstoffets fysisk-kjemiske og biologiske egenskaper,tolkning av farmakologiske, toksikologiske og økotoksikologiske data om tilsetningsstoffet,analysemetodene for kontroll av selve tilsetningsstoffet og tilsetningsstoffet i premikser, i fôrblandinger og i fôrvarer,metodene for kontroll av restmengder av tilsetningsstoffet eller metabolitter av det i animalske produkter (dette strekpunktet gjelder bare for tilsetningsstoffer).
+Følgende skal ikke behandles fortrolig:
+
+- tilsetningsstoffets betegnelse og sammensetning,
+- tilsetningsstoffets fysisk-kjemiske og biologiske egenskaper,
+- tolkning av farmakologiske, toksikologiske og økotoksikologiske data om tilsetningsstoffet,
+- analysemetodene for kontroll av selve tilsetningsstoffet og tilsetningsstoffet i premikser, i fôrblandinger og i fôrvarer,
+- metodene for kontroll av restmengder av tilsetningsstoffet eller metabolitter av det i animalske produkter (dette strekpunktet gjelder bare for tilsetningsstoffer).
 
 3\. *Søknad om godkjenning*
 
@@ -172,7 +218,10 @@ EØS-landene skal ha en frist på 60 dager fra datoen da saksmappen ble oversend
 
 4\. *Genmodifiserte organismer*
 
-Når et tilsetningsstoff inneholder eller består av genmodifiserte organismer som definert i artikkel 2 nr. 1 og 2 i direktiv [90/220/EØF](eu/31990l0220*) av 23. april 1990 om utsetting i miljøet av genetisk modifiserte organismer (sist endret ved direktiv [94/15/EF](eu/31994l0015)), skal det foretas en særskilt vurdering av miljørisikoen som fastsatt i nevnte direktiv; følgende dokumenter skal med henblikk på dette inngå i saksmappen som skal framlegges i samsvar med artikkel 4 i direktiv [70/524/EØF](eu/31970l0524*) for å sikre at prinsippene fastsatt i artikkel 3a overholdes:en kopi av ethvert skriftlig samtykke fra kompetente myndigheter til å sette ut i miljøet genmodifiserte organismer til forsknings- og utviklingsformål i henhold til artikkel 6 nr. 4 i direktiv [90/220/EØF](eu/31990l0220*), samt resultatene av utsettingen idet det tas hensyn til en eventuell fare for menneskers og dyrs helse og miljøet,fullstendig teknisk dokumentasjon med de opplysningene som kreves i henhold til vedlegg II og III til direktiv [90/220/EØF](eu/31990l0220*), og en vurdering av miljørisikoen på grunnlag av disse opplysningene; resultatene av samtlige undersøkelser som er foretatt til forsknings- eller utviklingsformål.
+Når et tilsetningsstoff inneholder eller består av genmodifiserte organismer som definert i artikkel 2 nr. 1 og 2 i direktiv [90/220/EØF](eu/31990l0220*) av 23. april 1990 om utsetting i miljøet av genetisk modifiserte organismer (sist endret ved direktiv [94/15/EF](eu/31994l0015)), skal det foretas en særskilt vurdering av miljørisikoen som fastsatt i nevnte direktiv; følgende dokumenter skal med henblikk på dette inngå i saksmappen som skal framlegges i samsvar med artikkel 4 i direktiv [70/524/EØF](eu/31970l0524*) for å sikre at prinsippene fastsatt i artikkel 3a overholdes:
+
+- en kopi av ethvert skriftlig samtykke fra kompetente myndigheter til å sette ut i miljøet genmodifiserte organismer til forsknings- og utviklingsformål i henhold til artikkel 6 nr. 4 i direktiv [90/220/EØF](eu/31990l0220*), samt resultatene av utsettingen idet det tas hensyn til en eventuell fare for menneskers og dyrs helse og miljøet,
+- fullstendig teknisk dokumentasjon med de opplysningene som kreves i henhold til vedlegg II og III til direktiv [90/220/EØF](eu/31990l0220*), og en vurdering av miljørisikoen på grunnlag av disse opplysningene; resultatene av samtlige undersøkelser som er foretatt til forsknings- eller utviklingsformål.
 
 Artikkel 11-18 i direktiv [90/220/EØF](eu/31990l0220*) får ikke anvendelse for tilsetningsstoffer som består av eller inneholder genmodifiserte organismer.
 
@@ -278,7 +327,10 @@ En medlemsstat kan imidlertid bruke faste satser ved vurderingen av enkelttilfel
 
 3\. *Rapportering*
 
-Landbrukstilsynet skal utarbeide rapporter om gjennomføringen av gebyrinnkrevingen med opplysning om:størrelsen på gebyrene eller de faste satsene som innkreves i hvert tilfelle, iht. for å opptre som rapportør, eller for godkjenning;beregningsmetoden for gebyrene i forhold til faktorene oppført på listen i vedlegg til kap. 4 om innkreving av gebyrer.
+Landbrukstilsynet skal utarbeide rapporter om gjennomføringen av gebyrinnkrevingen med opplysning om:
+
+- størrelsen på gebyrene eller de faste satsene som innkreves i hvert tilfelle, iht. for å opptre som rapportør, eller for godkjenning;
+- beregningsmetoden for gebyrene i forhold til faktorene oppført på listen i vedlegg til kap. 4 om innkreving av gebyrer.
 
 ### § 9. Ikrafttredelse
 
@@ -358,7 +410,11 @@ I = forhandler nevnt i artikkel 8 nr. 1 i direktiv [95/69/EF](eu/31995l0069).
 
 *Forklaring til godkjennings- og registreringsnummer (Kapittel II)*
 
-Godkjenningsnummeret nevnt i artikkel 5 nr. 1 og registreringsnummeret nevnt i artikkel 10 nr. 1 i direktiv [95/69/EF](eu/31995l0069) skal ha følgende form:Tegnet «α» dersom produsenten eller forhandleren er godkjent.ISO-koden for medlemslandet eller tredjelandet der produsenten eller forhandleren har sin beliggenhet.Det nasjonale referansenummeret med høyst åtte alfanumeriske tegn.
+Godkjenningsnummeret nevnt i artikkel 5 nr. 1 og registreringsnummeret nevnt i artikkel 10 nr. 1 i direktiv [95/69/EF](eu/31995l0069) skal ha følgende form:
+
+1. Tegnet «α» dersom produsenten eller forhandleren er godkjent.
+2. ISO-koden for medlemslandet eller tredjelandet der produsenten eller forhandleren har sin beliggenhet.
+3. Det nasjonale referansenummeret med høyst åtte alfanumeriske tegn.
 
 ## Vedlegg til kap. 4
 

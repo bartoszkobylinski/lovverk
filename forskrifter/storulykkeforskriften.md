@@ -15,7 +15,7 @@ xml_hash: "be0d2349b539f52b87b9c12ac857286ed30c99c670b46185db43660cdc000f6d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,9 +30,22 @@ Formålet med forskriften er å forebygge storulykker der farlige kjemikalier in
 
 Forskriften gjelder for storulykkevirksomhet som definert i [§ 3](forskrift/2016-06-03-569/§3).
 
-Forskriften gjelder ikke for:militære virksomheter, herunder anlegg eller lagre,radioaktive stoffer og andre kilder til ioniserende stråling,transport av farlige kjemikalier utenfor storulykkevirksomhet på vei, jernbane, innlands vannveier, sjøveier eller i luften og mellomlagring i tilknytning til transporten, herunder lasting, lossing og transport til eller fra andre transportmidler i dokkanlegg, kaier eller omlastingsplasser,transport av farlige kjemikalier i rørledninger med tilhørende pumpestasjoner utenfor storulykkevirksomhet,leting etter, utvinning av og bearbeiding av mineraler i gruver og steinbrudd, også ved boring,aktiviteter som foregår i sjøområder i forbindelse med undersøkelser etter, utvinning og utnyttelse av naturforekomster på havbunnen eller i dens undergrunn i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk lovgivning,lagring av gass under bakken i indre norske farvann, norsk sjøterritorium eller den del av kontinentalsokkelen som er undergitt norsk lovgivning. Dette omfatter både separate lagringssteder og lagringssteder i tilknytning til utnytting og utvinning av mineraler og hydrokarboner, ogfyllplasser, herunder lagring av avfall under bakken.
+Forskriften gjelder ikke for:
 
-Uavhengig av unntakene i bokstav e) og h) gjelder forskriften likevel for:lagring av gass under bakken på land i naturlige lag, vannførende sjikt, salthuler og nedlagte gruver,avfallsdeponier, avgangsdammer og andre anlegg for håndtering av avfall som inneholder farlige kjemikalier, ogkjemiske eller termiske behandlingsprosesser som inkluderer farlige kjemikalier og lagring av farlige kjemikalier knyttet til slike behandlingsprosesser.
+1. militære virksomheter, herunder anlegg eller lagre,
+2. radioaktive stoffer og andre kilder til ioniserende stråling,
+3. transport av farlige kjemikalier utenfor storulykkevirksomhet på vei, jernbane, innlands vannveier, sjøveier eller i luften og mellomlagring i tilknytning til transporten, herunder lasting, lossing og transport til eller fra andre transportmidler i dokkanlegg, kaier eller omlastingsplasser,
+4. transport av farlige kjemikalier i rørledninger med tilhørende pumpestasjoner utenfor storulykkevirksomhet,
+5. leting etter, utvinning av og bearbeiding av mineraler i gruver og steinbrudd, også ved boring,
+6. aktiviteter som foregår i sjøområder i forbindelse med undersøkelser etter, utvinning og utnyttelse av naturforekomster på havbunnen eller i dens undergrunn i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk lovgivning,
+7. lagring av gass under bakken i indre norske farvann, norsk sjøterritorium eller den del av kontinentalsokkelen som er undergitt norsk lovgivning. Dette omfatter både separate lagringssteder og lagringssteder i tilknytning til utnytting og utvinning av mineraler og hydrokarboner, og
+8. fyllplasser, herunder lagring av avfall under bakken.
+
+Uavhengig av unntakene i bokstav e) og h) gjelder forskriften likevel for:
+
+1. lagring av gass under bakken på land i naturlige lag, vannførende sjikt, salthuler og nedlagte gruver,
+2. avfallsdeponier, avgangsdammer og andre anlegg for håndtering av avfall som inneholder farlige kjemikalier, og
+3. kjemiske eller termiske behandlingsprosesser som inkluderer farlige kjemikalier og lagring av farlige kjemikalier knyttet til slike behandlingsprosesser.
 
 Forskriften gjelder ikke for Svalbard, Jan Mayen og bilandene.
 
@@ -72,9 +85,22 @@ Direktoratet for samfunnssikkerhet og beredskap har ansvar for den praktiske koo
 
 ## § 6. Melding
 
-Den ansvarlige for storulykkevirksomheten skal sende melding til Direktoratet for samfunnssikkerhet og beredskap. Meldingen skal inneholde følgende opplysninger:virksomhetens navn, besøksadresse, postadresse og e-postadresse,den lokale virksomhetens navn, besøksadresse, postadresse og e-postadresse, hvis forskjellig fra bokstav a,stillingsbetegnelse for personer som har ansvar for virksomhetene nevnt under bokstavene a og b,oversikt over farlige kjemikalier som forekommer eller kan forekomme i virksomheten og i hvilken tilstand de forekommer. Kjemikaliene og deres aktuelle fareklasser og farekategorier skal identifiseres. Hvert av kjemikaliene skal dokumenteres med sikkerhetsdatablad eller annen beskrivelse med tilsvarende opplysninger,mengde farlige kjemikalier,virksomhetens nåværende og planlagte aktiviteter, ogdetaljert beskrivelse av virksomheten og dens nærmeste omgivelser, herunder forhold som kan forårsake storulykke eller forverre konsekvensene av en slik ulykke. Beskrivelsen skal inkludere kart over området, bilder, kartreferanse og situasjonsplan som viser hvor de farlige kjemikaliene forekommer. Dersom det finnes nærliggende virksomheter, anlegg eller andre aktiviteter som kan påvirke risikoen for storulykke, skal beskrivelsen inneholde opplysninger om disse.
+Den ansvarlige for storulykkevirksomheten skal sende melding til Direktoratet for samfunnssikkerhet og beredskap. Meldingen skal inneholde følgende opplysninger:
 
-Meldingen skal sendes innen følgende frister:for nyetablerte virksomheter, i rimelig tid før de farlige kjemikaliene tas inn på anlegget, ogfor eksisterende virksomheter, i rimelig tid før en endring i mengde eller type farlige kjemikalier som medfører at virksomheten blir omfattet av forskriften.Oppdatering av melding skal sendes inn minst hvert femte år heretter.
+1. virksomhetens navn, besøksadresse, postadresse og e-postadresse,
+2. den lokale virksomhetens navn, besøksadresse, postadresse og e-postadresse, hvis forskjellig fra bokstav a,
+3. stillingsbetegnelse for personer som har ansvar for virksomhetene nevnt under bokstavene a og b,
+4. oversikt over farlige kjemikalier som forekommer eller kan forekomme i virksomheten og i hvilken tilstand de forekommer. Kjemikaliene og deres aktuelle fareklasser og farekategorier skal identifiseres. Hvert av kjemikaliene skal dokumenteres med sikkerhetsdatablad eller annen beskrivelse med tilsvarende opplysninger,
+5. mengde farlige kjemikalier,
+6. virksomhetens nåværende og planlagte aktiviteter, og
+7. detaljert beskrivelse av virksomheten og dens nærmeste omgivelser, herunder forhold som kan forårsake storulykke eller forverre konsekvensene av en slik ulykke. Beskrivelsen skal inkludere kart over området, bilder, kartreferanse og situasjonsplan som viser hvor de farlige kjemikaliene forekommer. Dersom det finnes nærliggende virksomheter, anlegg eller andre aktiviteter som kan påvirke risikoen for storulykke, skal beskrivelsen inneholde opplysninger om disse.
+
+Meldingen skal sendes innen følgende frister:
+
+1. for nyetablerte virksomheter, i rimelig tid før de farlige kjemikaliene tas inn på anlegget, og
+2. for eksisterende virksomheter, i rimelig tid før en endring i mengde eller type farlige kjemikalier som medfører at virksomheten blir omfattet av forskriften.
+
+Oppdatering av melding skal sendes inn minst hvert femte år heretter.
 
 Den ansvarlige for virksomheten skal på anmodning fra arealplanmyndigheten gi tilstrekkelige opplysninger om risikoene forbundet med virksomheten.
 
@@ -82,7 +108,10 @@ Den ansvarlige for virksomheten skal på anmodning fra arealplanmyndigheten gi t
 
 Den ansvarlige for storulykkevirksomheten skal utarbeide et dokument som beskriver virksomhetens strategi for å forebygge og begrense storulykker. Strategien skal tilpasses virksomhetens art, risiko, størrelse og kompleksitet. Den skal beskrive virksomhetens overordnede mål og handlingsprinsipper, ledelsens rolle og ansvar samt arbeidet for systematisk og kontinuerlig å redusere storulykkerisikoen, jf. vedlegg III. Den ansvarlige skal sikre at strategien gjennomføres.
 
-Strategien skal utarbeides innen følgende frister:for nye virksomheter, i rimelig tid før de farlige kjemikaliene tas inn på anlegget, ogfor virksomheter som endrer sine farlige kjemikalier eller øker sine mengder av farlige kjemikalier slik at virksomheten omfattes av forskriften, i rimelig tid før endringen skjer.
+Strategien skal utarbeides innen følgende frister:
+
+1. for nye virksomheter, i rimelig tid før de farlige kjemikaliene tas inn på anlegget, og
+2. for virksomheter som endrer sine farlige kjemikalier eller øker sine mengder av farlige kjemikalier slik at virksomheten omfattes av forskriften, i rimelig tid før endringen skjer.
 
 Strategidokumentet skal legges fram for tilsynsmyndighetene på forespørsel.
 
@@ -94,17 +123,35 @@ Den ansvarlige for storulykkevirksomheten skal i melding eller sikkerhetsrapport
 
 Når fare for dominoeffekt mellom storulykkevirksomheter er identifisert, fatter Direktoratet for samfunnssikkerhet og beredskap vedtak om at de berørte virksomhetene er identifisert som dominovirksomheter.
 
-Storulykkevirksomheter som har mottatt vedtak i henhold til andre ledd, skal utveksle relevante opplysninger slik at de kan ta hensyn til den samlede risiko for storulykke i sitt systematiske arbeid for å:forebygge og begrense konsekvensene av storulykker,samarbeide om å informere allmennheten og nærliggende virksomheter, jf. [§ 12](forskrift/2016-06-03-569/§12), ogsamarbeide om å formidle tilstrekkelige opplysninger til relevante nød- og beredskapsetater og kommunen til bruk for eksterne beredskapsplaner.
+Storulykkevirksomheter som har mottatt vedtak i henhold til andre ledd, skal utveksle relevante opplysninger slik at de kan ta hensyn til den samlede risiko for storulykke i sitt systematiske arbeid for å:
+
+1. forebygge og begrense konsekvensene av storulykker,
+2. samarbeide om å informere allmennheten og nærliggende virksomheter, jf. [§ 12](forskrift/2016-06-03-569/§12), og
+3. samarbeide om å formidle tilstrekkelige opplysninger til relevante nød- og beredskapsetater og kommunen til bruk for eksterne beredskapsplaner.
 
 ## § 9. Sikkerhetsrapport
 
-Den ansvarlige for sikkerhetsrapportpliktig storulykkevirksomhet skal utarbeide sikkerhetsrapport for å dokumentere at:bestemmelsene i [§ 4](forskrift/2016-06-03-569/§4) er oppfylt,mulige scenarioer og risiko for storulykke er identifisert,nødvendige tiltak er gjennomført for å redusere sannsynligheten for at storulykker inntreffer og for å begrense konsekvensene for mennesker, miljø og materielle verdier,tilstrekkelig sikkerhet og pålitelighet er innarbeidet i planlegging, bygging, drift og vedlikehold av anlegg og infrastruktur som kan ha betydning for risikoen for storulykke,det er utarbeidet intern beredskapsplan,tilstrekkelige opplysninger er sendt relevante nød- og beredskapsetater og kommunen som grunnlag for å utforme eksterne beredskapsplaner, ogarealplanmyndighetene er meddelt tilstrekkelige opplysninger for å kunne ta beslutning om plassering av nye eller utvikling av eksisterende aktiviteter nær virksomheten.
+Den ansvarlige for sikkerhetsrapportpliktig storulykkevirksomhet skal utarbeide sikkerhetsrapport for å dokumentere at:
+
+1. bestemmelsene i [§ 4](forskrift/2016-06-03-569/§4) er oppfylt,
+2. mulige scenarioer og risiko for storulykke er identifisert,
+3. nødvendige tiltak er gjennomført for å redusere sannsynligheten for at storulykker inntreffer og for å begrense konsekvensene for mennesker, miljø og materielle verdier,
+4. tilstrekkelig sikkerhet og pålitelighet er innarbeidet i planlegging, bygging, drift og vedlikehold av anlegg og infrastruktur som kan ha betydning for risikoen for storulykke,
+5. det er utarbeidet intern beredskapsplan,
+6. tilstrekkelige opplysninger er sendt relevante nød- og beredskapsetater og kommunen som grunnlag for å utforme eksterne beredskapsplaner, og
+7. arealplanmyndighetene er meddelt tilstrekkelige opplysninger for å kunne ta beslutning om plassering av nye eller utvikling av eksisterende aktiviteter nær virksomheten.
 
 Sikkerhetsrapporten skal minst inneholde alle opplysningene angitt i [§ 6](forskrift/2016-06-03-569/§6) første ledd, vedlegg II og vedlegg III. Den skal navngi eventuelle eksterne bidragsytere som har vært med på å utarbeide rapporten.
 
 Sikkerhetsrapporten skal sendes Direktoratet for samfunnssikkerhet og beredskap i rimelig tid før det tas farlige kjemikalier inn på anlegget, eller type eller mengde farlige kjemikalier endres slik at virksomheten blir sikkerhetsrapportpliktig.
 
-Sikkerhetsrapporten skal gjennomgås og om nødvendig oppdateres:minst hvert femte år,på virksomhetens initiativ, eller etter krav fra tilsynsmyndighetene dersom det er fremkommet nye opplysninger eller ny kunnskap om risiko og risikostyring, ogsnarest etter en storulykke eller tilløp til en storulykke.Sikkerhetsrapporten skal sendes Direktoratet for samfunnssikkerhet og beredskap så snart den er oppdatert, og uansett hvert femte år.
+Sikkerhetsrapporten skal gjennomgås og om nødvendig oppdateres:
+
+1. minst hvert femte år,
+2. på virksomhetens initiativ, eller etter krav fra tilsynsmyndighetene dersom det er fremkommet nye opplysninger eller ny kunnskap om risiko og risikostyring, og
+3. snarest etter en storulykke eller tilløp til en storulykke.
+
+Sikkerhetsrapporten skal sendes Direktoratet for samfunnssikkerhet og beredskap så snart den er oppdatert, og uansett hvert femte år.
 
 ## § 10. Endring av storulykkevirksomhet
 
@@ -114,13 +161,20 @@ Den ansvarlige for virksomheten skal informere Direktoratet for samfunnssikkerhe
 
 ## § 11. Beredskapsplaner
 
-Den ansvarlige for storulykkevirksomheten skal sørge for at:det blir utarbeidet en intern beredskapsplan som beskriver de tiltakene som skal iverksettes for å begrense konsekvensene av hendelser som kan føre til en storulykke,relevante nød- og beredskapsetater og kommunen får tilstrekkelige opplysninger slik at disse kan utarbeide eksterne beredskapsplaner, og atberedskapsplanen tilpasses virksomhetens art, risiko, størrelse og kompleksitet.
+Den ansvarlige for storulykkevirksomheten skal sørge for at:
+
+1. det blir utarbeidet en intern beredskapsplan som beskriver de tiltakene som skal iverksettes for å begrense konsekvensene av hendelser som kan føre til en storulykke,
+2. relevante nød- og beredskapsetater og kommunen får tilstrekkelige opplysninger slik at disse kan utarbeide eksterne beredskapsplaner, og at
+3. beredskapsplanen tilpasses virksomhetens art, risiko, størrelse og kompleksitet.
 
 Den ansvarlige for ny storulykkevirksomhet skal innfri forpliktelsene beskrevet i første ledd bokstav a og b i rimelig tid, og senest én måned før driften påbegynnes eller det gjøres endringer i type eller mengde farlige kjemikalier.
 
 Beredskapsplanen skal inneholde opplysningene angitt i vedlegg IV. Den interne beredskapsplanen skal utarbeides i samråd med ansatte i virksomheten og annet personell som er relevant i beredskapssammenheng.
 
-Den ansvarlige for virksomheten skal sørge for at beredskapsplanen blir:øvd og testet årlig. Alle elementer i planen skal være øvd og testet i løpet av en periode på tre år, oggjennomgått årlig og oppdatert ved endringer som har betydning for beredskapen, og uansett oppdatert minimum hvert tredje år. Ved gjennomgangen skal det tas hensyn til relevante endringer i virksomheten eller i berørt beredskapsetat, ny teknisk kunnskap og ny kunnskap om tiltak som må treffes i tilfelle av storulykker.
+Den ansvarlige for virksomheten skal sørge for at beredskapsplanen blir:
+
+1. øvd og testet årlig. Alle elementer i planen skal være øvd og testet i løpet av en periode på tre år, og
+2. gjennomgått årlig og oppdatert ved endringer som har betydning for beredskapen, og uansett oppdatert minimum hvert tredje år. Ved gjennomgangen skal det tas hensyn til relevante endringer i virksomheten eller i berørt beredskapsetat, ny teknisk kunnskap og ny kunnskap om tiltak som må treffes i tilfelle av storulykker.
 
 Den ansvarlige for virksomheten skal umiddelbart iverksette den interne beredskapsplanen dersom det oppstår en storulykke eller en ukontrollert hendelse som med rimelighet kan forventes å føre til en storulykke.
 
@@ -128,7 +182,13 @@ Den ansvarlige for virksomheten skal umiddelbart iverksette den interne beredska
 
 Den ansvarlige for storulykkevirksomheten skal sikre at de opplysningene som er angitt i vedlegg V til enhver tid er oppdaterte og tilgjengelige for allmennheten, også elektronisk.
 
-Den ansvarlige for en sikkerhetsrapportpliktig virksomhet skal i tillegg:regelmessig informere alle personer som kan bli berørt av en storulykke. Informasjonen skal gi tydelige og forståelige opplysninger om sikkerhetstiltak og hensiktsmessig atferd i tilfelle av en storulykke. Informasjonen skal gis uoppfordret og i best egnet form, og skal minst inneholde det som er angitt i vedlegg V. Informasjonen skal også gis til alle nærliggende virksomheter, de ansvarlige for alle nærliggende bygninger og områder med offentlig ferdsel, herunder barnehager, skoler og sykehus. Det skal sikres at informasjonen gjennomgås periodevis og oppdateres om nødvendig. Informasjonen skal gis minst én gang hvert femte år.på forespørsel, gjøre sikkerhetsrapporten tilgjengelig for allmennheten. Dette gjelder ikke for informasjon i sikkerhetsrapporten:som det er påkrevd å hemmeligholde fordi offentlighet vil lette gjennomføringen av straffbare handlinger, utsette enkeltpersoner for fare eller lette gjennomføring av handlinger som kan skade deler av miljøet som er særlig utsatt eller som er truet av utryddelsesom angår tekniske innretninger og fremgangsmåter, samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde.
+Den ansvarlige for en sikkerhetsrapportpliktig virksomhet skal i tillegg:
+
+1. regelmessig informere alle personer som kan bli berørt av en storulykke. Informasjonen skal gi tydelige og forståelige opplysninger om sikkerhetstiltak og hensiktsmessig atferd i tilfelle av en storulykke. Informasjonen skal gis uoppfordret og i best egnet form, og skal minst inneholde det som er angitt i vedlegg V. Informasjonen skal også gis til alle nærliggende virksomheter, de ansvarlige for alle nærliggende bygninger og områder med offentlig ferdsel, herunder barnehager, skoler og sykehus. Det skal sikres at informasjonen gjennomgås periodevis og oppdateres om nødvendig. Informasjonen skal gis minst én gang hvert femte år.
+2. på forespørsel, gjøre sikkerhetsrapporten tilgjengelig for allmennheten. Dette gjelder ikke for informasjon i sikkerhetsrapporten:
+
+   1. som det er påkrevd å hemmeligholde fordi offentlighet vil lette gjennomføringen av straffbare handlinger, utsette enkeltpersoner for fare eller lette gjennomføring av handlinger som kan skade deler av miljøet som er særlig utsatt eller som er truet av utryddelse
+   2. som angår tekniske innretninger og fremgangsmåter, samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde.
 
 Dersom sikkerhetsrapporten inneholder informasjon som kan unntas i henhold til andre ledd bokstav b, skal den øvrige informasjonen gjøres tilgjengelig i en endret sikkerhetsrapport. En slik endret sikkerhetsrapport skal sendes Direktoratet for samfunnssikkerhet og beredskap.
 
@@ -136,9 +196,18 @@ Dersom sikkerhetsrapporten inneholder informasjon som kan unntas i henhold til a
 
 Den ansvarlige for storulykkevirksomheten skal så snart som praktisk mulig etter at en storulykke har inntruffet, underrette tilsynsmyndighetene. Den ansvarlige skal også underrette tilsynsmyndighetene om ulykkeshendelser og tilløp til ulykkeshendelser som under ubetydelig endrede omstendigheter kunne ha ført til storulykke. Underretningen skal skje i overensstemmelse med de krav som er stilt av de enkelte tilsynsmyndigheter.
 
-Den ansvarlige skal, så snart som mulig etter at underretning om storulykken er gitt, gi supplerende informasjon til tilsynsmyndighetene om:omstendighetene ved ulykken,farlige kjemikalier som er involvert,opplysninger om ulykkens konsekvenser for mennesker, miljø og materielle verdier, og omberedskapstiltak som er iverksatt.
+Den ansvarlige skal, så snart som mulig etter at underretning om storulykken er gitt, gi supplerende informasjon til tilsynsmyndighetene om:
 
-Den ansvarlige for virksomheten skal snarest mulig etter en storulykke utarbeide en rapport til tilsynsmyndighetene som beskriver:direkte og bakenforliggende årsaker til storulykken,tiltak som er iverksatt for å redusere konsekvensene av ulykken på kort og lang sikt, ogtiltak som er iverksatt for å unngå at en slik ulykke oppstår igjen.
+1. omstendighetene ved ulykken,
+2. farlige kjemikalier som er involvert,
+3. opplysninger om ulykkens konsekvenser for mennesker, miljø og materielle verdier, og om
+4. beredskapstiltak som er iverksatt.
+
+Den ansvarlige for virksomheten skal snarest mulig etter en storulykke utarbeide en rapport til tilsynsmyndighetene som beskriver:
+
+1. direkte og bakenforliggende årsaker til storulykken,
+2. tiltak som er iverksatt for å redusere konsekvensene av ulykken på kort og lang sikt, og
+3. tiltak som er iverksatt for å unngå at en slik ulykke oppstår igjen.
 
 Dersom videre undersøkelser avdekker forhold som endrer opplysninger og konklusjoner i rapporten, plikter den ansvarlige for virksomheten å oppdatere rapporten.
 
@@ -152,7 +221,11 @@ Forskriften trer i kraft 1. juli 2016. Fra samme tidspunkt oppheves [forskrift 1
 
 Fristen for å møte nye krav i forskriften er 1. juni 2017 for alle virksomheter som har vært underlagt [forskrift 17. juni 2005 nr. 672](forskrift/2005-06-17-672).
 
-Virksomheter som ved ikrafttredelsen av forskriften blir storulykkevirksomhet, skal innen 1. juni 2017:levere melding etter [§ 6](forskrift/2016-06-03-569/§6) eller sikkerhetsrapport etter [§ 9](forskrift/2016-06-03-569/§9) til Direktoratet for samfunnssikkerhet og beredskap,utarbeide strategi etter [§ 7](forskrift/2016-06-03-569/§7), ogutarbeide intern beredskapsplan etter [§ 11](forskrift/2016-06-03-569/§11).
+Virksomheter som ved ikrafttredelsen av forskriften blir storulykkevirksomhet, skal innen 1. juni 2017:
+
+1. levere melding etter [§ 6](forskrift/2016-06-03-569/§6) eller sikkerhetsrapport etter [§ 9](forskrift/2016-06-03-569/§9) til Direktoratet for samfunnssikkerhet og beredskap,
+2. utarbeide strategi etter [§ 7](forskrift/2016-06-03-569/§7), og
+3. utarbeide intern beredskapsplan etter [§ 11](forskrift/2016-06-03-569/§11).
 
 ## Vedlegg I
 Farlige kjemikalier
@@ -264,14 +337,30 @@ Denne del omfatter navngitte farlige kjemikalier oppført i kolonne 1:
 
 - Kjemikalier og stoffblandinger er klassifisert i samsvar med [forskrift 16. juni 2012 nr 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP).
 - Stoffblandinger skal behandles på samme måte som rene stoffer forutsatt at de er innenfor konsentrasjonsgrensene fastsatt i henhold til deres egenskaper i henhold til forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP) eller dens siste tilpasning til den tekniske utvikling, med mindre en prosentvis sammensetning eller andre beskrivelser er særskilt oppgitt.
-- Mengdegrensene oppført ovenfor skal forstås som mengdegrenser per virksomhet.Mengdene som skal tas i betraktning ved anvendelsen av de relevante paragrafer, er de maksimumsmengder som forekommer eller kan forekomme på et hvilket som helst tidspunkt. Farlige kjemikalier som forekommer i en virksomhet bare i mengder tilsvarende eller mindre enn 2 % av den relevante mengdegrense, skal ikke tas i betraktning ved beregningen av samlet tilstedeværende mengde dersom de er plassert på en slik måte innenfor virksomheten at de ikke kan utløse en storulykke andre steder på virksomhetens område.
-- Følgende regler om summering av farlige kjemikalier eller grupper av farlige kjemikalier får anvendelse der de har relevans:Dersom det ved en virksomhet ikke finnes ett enkelt kjemikalie i en mengde større enn eller lik de relevante mengdegrensene, gjelder følgende beregningsmåte for å avgjøre om virksomheten omfattes av de relevante kravene i forskriften.Forskriften gjelder for sikkerhetsrapportpliktige virksomheter dersom summen av
+- Mengdegrensene oppført ovenfor skal forstås som mengdegrenser per virksomhet.
+
+  Mengdene som skal tas i betraktning ved anvendelsen av de relevante paragrafer, er de maksimumsmengder som forekommer eller kan forekomme på et hvilket som helst tidspunkt. Farlige kjemikalier som forekommer i en virksomhet bare i mengder tilsvarende eller mindre enn 2 % av den relevante mengdegrense, skal ikke tas i betraktning ved beregningen av samlet tilstedeværende mengde dersom de er plassert på en slik måte innenfor virksomheten at de ikke kan utløse en storulykke andre steder på virksomhetens område.
+- Følgende regler om summering av farlige kjemikalier eller grupper av farlige kjemikalier får anvendelse der de har relevans:
+
+  Dersom det ved en virksomhet ikke finnes ett enkelt kjemikalie i en mengde større enn eller lik de relevante mengdegrensene, gjelder følgende beregningsmåte for å avgjøre om virksomheten omfattes av de relevante kravene i forskriften.
+
+  Forskriften gjelder for sikkerhetsrapportpliktige virksomheter dersom summen av
 - q1 /QU1 + q2 /QU2 + q3 /QU3 + q4 /QU4 + q5 /QU5 + ... er større enn eller lik 1,
 - der qx = den tilstedeværende mengden av farlig kjemikalie x (eller fareklasse av farlige kjemikalier) som faller inn under del 1 eller 2 i dette vedlegg,
-- og QUX = den relevante mengdegrensen for farlig kjemikalie eller fareklasse x fra kolonne 3 i del 1 eller fra kolonne 3 i del 2 i dette vedlegg.Forskriften gjelder for meldepliktige virksomheter dersom summen av
+- og QUX = den relevante mengdegrensen for farlig kjemikalie eller fareklasse x fra kolonne 3 i del 1 eller fra kolonne 3 i del 2 i dette vedlegg.
+
+  Forskriften gjelder for meldepliktige virksomheter dersom summen av
 - q1 /QL1 + q2 /QL2 + q3 /QL3 + q4 /QL4 + q5 /QL5 + ... er større enn eller lik 1,
 - der qx = den tilstedeværende mengden av farlig kjemikalie x (eller fareklasse av farlige kjemikalier) som faller inn under del 1 eller 2 i dette vedlegg,
-- og QLX = den relevante mengdegrensen for farlig kjemikalie eller fareklasse x fra kolonne 2 i del 1 eller fra kolonne 2 i del 2 i dette vedlegg.Denne regelen skal brukes for å vurdere helsefare, fysisk fare og miljøfare. Den må derfor anvendes tre ganger:til summering av farlige kjemikalier nevnt i del 2 og klassifisert som akutt giftige, kategori 1, 2 eller 3 (ved innånding) eller STOT SE kategori 1, sammen med farlige kjemikalier som faller inn under avsnitt H, nr. H1–H3 i del 1,til summering av farlige kjemikalier nevnt i del 2 og klassifisert som eksplosive, brannfarlige gasser, brannfarlige aerosoler, oksiderende gasser, brannfarlige væsker, selvreaktive kjemikalier og stoffblandinger, organiske peroksider, pyrofore væsker og faste stoffer, oksiderende væsker og faste stoffer, sammen med farlige kjemikalier som faller inn under avsnitt P, nr. P1–P8 i del 1, ogtil summering av farlige stoffer nevnt i del 2 og klassifisert som farlige for vannmiljøet, akutt kategori 1, kronisk kategori 1 eller kronisk kategori 2, sammen med farlige kjemikalier som faller inn under avsnitt E, nr. E1 og E2 i del 1.De relevante bestemmelsene i forskriften får anvendelse dersom en av summene oppnådd ved bokstav a), b) eller c) er større enn eller lik 1.
+- og QLX = den relevante mengdegrensen for farlig kjemikalie eller fareklasse x fra kolonne 2 i del 1 eller fra kolonne 2 i del 2 i dette vedlegg.
+
+  Denne regelen skal brukes for å vurdere helsefare, fysisk fare og miljøfare. Den må derfor anvendes tre ganger:
+
+  1. til summering av farlige kjemikalier nevnt i del 2 og klassifisert som akutt giftige, kategori 1, 2 eller 3 (ved innånding) eller STOT SE kategori 1, sammen med farlige kjemikalier som faller inn under avsnitt H, nr. H1–H3 i del 1,
+  2. til summering av farlige kjemikalier nevnt i del 2 og klassifisert som eksplosive, brannfarlige gasser, brannfarlige aerosoler, oksiderende gasser, brannfarlige væsker, selvreaktive kjemikalier og stoffblandinger, organiske peroksider, pyrofore væsker og faste stoffer, oksiderende væsker og faste stoffer, sammen med farlige kjemikalier som faller inn under avsnitt P, nr. P1–P8 i del 1, og
+  3. til summering av farlige stoffer nevnt i del 2 og klassifisert som farlige for vannmiljøet, akutt kategori 1, kronisk kategori 1 eller kronisk kategori 2, sammen med farlige kjemikalier som faller inn under avsnitt E, nr. E1 og E2 i del 1.
+
+  De relevante bestemmelsene i forskriften får anvendelse dersom en av summene oppnådd ved bokstav a), b) eller c) er større enn eller lik 1.
 - Dersom det i en virksomhet forekommer, eller kan forekomme, farlige kjemikalier som ikke omfattes av forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), herunder avfall, og det er en mulighet for at disse kjemikaliene kan forårsake storulykker på grunn av særskilte forhold i virksomheten, skal disse kjemikaliene foreløpig klassifiseres i den mest analoge kategorien eller som det mest analoge navngitte farlige kjemikaliet som omfattes av denne forskrift.
 - For farlige kjemikalier med egenskaper som innebærer klassifisering i mer enn én kategori, skal kategorien med lavest mengdegrense benyttes. Ved anvendelsen av regelen i merknad 4 skal imidlertid den laveste mengdegrensen for hver gruppe av kategorier i merknad 4a), 4b) og 4c) for den aktuelle klassifiseringen benyttes.
 - Farlige kjemikalier som inngår i fareklassen Akutt giftighet, kategori 3, gjennom munnen (H 301) skal falle inn under nr. H2 AKUTT GIFTIGHET i de tilfeller der de ikke kan klassifiseres verken ut fra akutt giftighet ved innånding eller akutt giftighet ved hudkontakt, eksempelvis fordi det mangler entydige data om giftighet ved innånding eller hudkontakt.
@@ -281,14 +370,65 @@ Denne del omfatter navngitte farlige kjemikalier oppført i kolonne 1:
 - Brannfarlige aerosoler klassifiseres i samsvar med [forskrift 1. mars 1996 nr. 229](forskrift/1996-03-01-229) om aerosolbeholdere.2 «Ekstremt brannfarlige» og «brannfarlige» aerosoler i henhold til direktiv [75/324/EØF](eu/31975l0324) tilsvarer brannfarlige aerosoler i kategori 1 og 2 i forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP).
 - For å kunne benytte denne må det dokumenteres at aerosolbeholderen ikke inneholder brannfarlige gasser i kategori 1 eller 2 eller brannfarlige væsker i kategori 1.
 - I henhold til nr. 2.6.4.5 i vedlegg I til [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP) behøver væsker med et flammepunkt over 35 °C ikke å klassifiseres i kategori 3 dersom det er oppnådd negative resultater i L.2-forsøket med vedvarende forbrenning, beskrevet i del III, avsnitt 32 i FNs forsøkshåndbøker og kriterier. Dette gjelder imidlertid ikke ved endrede forhold slik som høy temperatur eller høyt trykk, og slike væsker inngår derfor i denne.
-- Ammoniumnitrat (5 000/10 000): gjødsel som er i stand til selvoppholdende nedbryting.Dette gjelder blandet/sammensatt gjødsel basert på ammoniumnitrat (blandet/sammensatt gjødsel inneholder ammoniumnitrat med fosfat og/eller kalium) som er i stand til selvoppholdende nedbryting i henhold til FNs trau-test (FNs forsøkshåndbøker og kriterier, del III punkt 38.2), og der nitrogeninnholdet som følge av ammoniumnitrat ermellom 15,753 og 24,54 vektprosent, og et samlet innhold stoffer som kan forbrennes/organiske stoffer som enten ikke overstiger 0,4 %, eller som oppfyller kravene i vedlegg III-2 til europaparlaments- og rådsdirektiv (EF) [nr. 2003/2003](eu/32003r2003) av 13. oktober 2003 om gjødsel,515,75 vektprosent eller mindre, og ingen begrensning av brannfarlige materialer.
-- Ammoniumnitrat (1 250/5 000): gjødselkvalitetDette gjelder for enkel ammoniumnitratbasert gjødsel og ammoniumnitratbasert blandet/sammensatt gjødsel som oppfyller kravene i [forskrift 4. juli 2003 nr. 1063](forskrift/2003-07-04-1063) om handel med gjødsel og kalkingsmidler og der nitrogeninnholdet som følge av ammoniumnitrat erhøyere enn 24,5 vektprosent, bortsett fra blandinger av enkel ammoniumnitratbasert gjødsel med dolomitt, kalkstein og/eller kalsiumkarbonat med en renhet på minst 90 %,høyere enn 15,75 vektprosent for blandinger av ammoniumnitrat og ammoniumsulfat,høyere enn 286 vektprosent for blandinger av enkel ammoniumnitratbasert gjødsel med dolomitt, kalkstein og/eller kalsiumkarbonat med en renhet på minst 90 %.
-- Ammoniumnitrat (350/2 500): teknisk kvalitetDette gjelder ammoniumnitrat og blandinger av ammoniumnitrat der innholdet av nitrogen som følge av ammoniumnitrat ermellom 24,5 og 28 vektprosent, og der innholdet av brennbare stoffer ikke overstiger 0,4 %,over 28 vektprosent, og der innholdet av brennbare stoffer ikke overstiger 0,2 %.Det gjelder også vannholdige ammoniumnitratløsninger der konsentrasjonen av ammoniumnitrat utgjør mer enn 80 vektprosent.
-- Ammoniumnitrat (10/50): materiale som ikke oppfyller spesifikasjonene (vrak-vare) og gjødsel som ikke oppfyller kravene i detonasjonstesten.Dette gjeldermateriale som er vraket under produksjonsprosessen og som ikke oppfyller kravene i merknad 14 og 15ammoniumnitrat og blandinger av ammoniumnitrat, enkel ammoniumnitratbasert gjødsel og ammoniumnitratbasert blandet/sammensatt gjødsel som er eller har blitt returnert:fra sluttbrukeren til en produsent, fordi de ikke lenger oppfyller kravene i merknad 14 og 15, ellertil et anlegg for midlertidig lagring eller bearbeiding for å omarbeides, resirkuleres eller behandles for sikker bruk, fordi de ikke lenger oppfyller kravene i merknad 14 og 15.gjødsel nevnt i første strekpunkt i merknad 13 og i merknad 14 til dette vedlegg som ikke oppfyller kravene i vedlegg III-2 til [forskrift 4. juli 2003 nr. 1063](forskrift/2003-07-04-1063) om handel med gjødsel og kalkingsmidler.
-- Kaliumnitrat (5 000/10 000)Dette gjelder kompositt kaliumnitratbasert gjødsel (i pellets- eller granulatform) som har de samme farlige egenskaper som rent kaliumnitrat.
-- Kaliumnitrat (1 250/5 000)Dette gjelder kompositt kaliumnitratbasert gjødsel (i krystallform) som har de samme farlige egenskaper som rent kaliumnitrat.
-- Oppgradert biogassKlassifiseres under nr. 18 i del 2 av vedlegg I dersom den er bearbeidet i samsvar med gjeldende standarder for renset og oppgradert biogass som sikrer en kvalitet som er likeverdig med kvaliteten på naturgass, herunder når det gjelder metaninnhold, og inneholder maksimalt 1 % oksygen.
-- Polyklordibenzofuraner og polyklordibenzodioksinerMengdene av polyklordibenzofuraner og polyklordibenzodioksiner beregnes ved hjelp av følgende vektfaktorer:*WHO 2005 TEF*2,3,7,8-TCDD12,3,7,8-TCDF0,11,2,3,7,8-PeCDD12,3,4,7,8-PeCDF0,31,2,3,7,8-PeCDF0,031,2,3,4,7,8-HxCDD0,11,2,3,6,7,8-HxCDD0,11,2,3,4,7,8-HxCDF0,11,2,3,7,8,9-HxCDD0,11,2,3,7,8,9-HxCDF0,11,2,3,6,7,8-HxCDF0,11,2,3,4,6,7,8-HpCDD0,012,3,4,6,7,8-HxCDF0,1OCDD0,00031,2,3,4,6,7,8-HpCDF0,011,2,3,4,7,8,9-HpCDF0,01OCDF0,0003(T = tetra, Pe = penta, Hx = heksa, Hp = hepta, O = okta)Referanse: Van den Berg et al: The 2005 World Health Organisation Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds
+- Ammoniumnitrat (5 000/10 000): gjødsel som er i stand til selvoppholdende nedbryting.
+
+  Dette gjelder blandet/sammensatt gjødsel basert på ammoniumnitrat (blandet/sammensatt gjødsel inneholder ammoniumnitrat med fosfat og/eller kalium) som er i stand til selvoppholdende nedbryting i henhold til FNs trau-test (FNs forsøkshåndbøker og kriterier, del III punkt 38.2), og der nitrogeninnholdet som følge av ammoniumnitrat er
+
+  - mellom 15,753 og 24,54 vektprosent, og et samlet innhold stoffer som kan forbrennes/organiske stoffer som enten ikke overstiger 0,4 %, eller som oppfyller kravene i vedlegg III-2 til europaparlaments- og rådsdirektiv (EF) [nr. 2003/2003](eu/32003r2003) av 13. oktober 2003 om gjødsel,5
+  - 15,75 vektprosent eller mindre, og ingen begrensning av brannfarlige materialer.
+- Ammoniumnitrat (1 250/5 000): gjødselkvalitet
+
+  Dette gjelder for enkel ammoniumnitratbasert gjødsel og ammoniumnitratbasert blandet/sammensatt gjødsel som oppfyller kravene i [forskrift 4. juli 2003 nr. 1063](forskrift/2003-07-04-1063) om handel med gjødsel og kalkingsmidler og der nitrogeninnholdet som følge av ammoniumnitrat er
+
+  - høyere enn 24,5 vektprosent, bortsett fra blandinger av enkel ammoniumnitratbasert gjødsel med dolomitt, kalkstein og/eller kalsiumkarbonat med en renhet på minst 90 %,
+  - høyere enn 15,75 vektprosent for blandinger av ammoniumnitrat og ammoniumsulfat,
+  - høyere enn 286 vektprosent for blandinger av enkel ammoniumnitratbasert gjødsel med dolomitt, kalkstein og/eller kalsiumkarbonat med en renhet på minst 90 %.
+- Ammoniumnitrat (350/2 500): teknisk kvalitet
+
+  Dette gjelder ammoniumnitrat og blandinger av ammoniumnitrat der innholdet av nitrogen som følge av ammoniumnitrat er
+
+  - mellom 24,5 og 28 vektprosent, og der innholdet av brennbare stoffer ikke overstiger 0,4 %,
+  - over 28 vektprosent, og der innholdet av brennbare stoffer ikke overstiger 0,2 %.
+
+  Det gjelder også vannholdige ammoniumnitratløsninger der konsentrasjonen av ammoniumnitrat utgjør mer enn 80 vektprosent.
+- Ammoniumnitrat (10/50): materiale som ikke oppfyller spesifikasjonene (vrak-vare) og gjødsel som ikke oppfyller kravene i detonasjonstesten.
+
+  Dette gjelder
+
+  - materiale som er vraket under produksjonsprosessen og som ikke oppfyller kravene i merknad 14 og 15
+  - ammoniumnitrat og blandinger av ammoniumnitrat, enkel ammoniumnitratbasert gjødsel og ammoniumnitratbasert blandet/sammensatt gjødsel som er eller har blitt returnert:
+
+    - fra sluttbrukeren til en produsent, fordi de ikke lenger oppfyller kravene i merknad 14 og 15, eller
+    - til et anlegg for midlertidig lagring eller bearbeiding for å omarbeides, resirkuleres eller behandles for sikker bruk, fordi de ikke lenger oppfyller kravene i merknad 14 og 15.
+    - gjødsel nevnt i første strekpunkt i merknad 13 og i merknad 14 til dette vedlegg som ikke oppfyller kravene i vedlegg III-2 til [forskrift 4. juli 2003 nr. 1063](forskrift/2003-07-04-1063) om handel med gjødsel og kalkingsmidler.
+- Kaliumnitrat (5 000/10 000)
+
+  Dette gjelder kompositt kaliumnitratbasert gjødsel (i pellets- eller granulatform) som har de samme farlige egenskaper som rent kaliumnitrat.
+- Kaliumnitrat (1 250/5 000)
+
+  Dette gjelder kompositt kaliumnitratbasert gjødsel (i krystallform) som har de samme farlige egenskaper som rent kaliumnitrat.
+- Oppgradert biogass
+
+  Klassifiseres under nr. 18 i del 2 av vedlegg I dersom den er bearbeidet i samsvar med gjeldende standarder for renset og oppgradert biogass som sikrer en kvalitet som er likeverdig med kvaliteten på naturgass, herunder når det gjelder metaninnhold, og inneholder maksimalt 1 % oksygen.
+- Polyklordibenzofuraner og polyklordibenzodioksiner
+
+  Mengdene av polyklordibenzofuraner og polyklordibenzodioksiner beregnes ved hjelp av følgende vektfaktorer:
+
+  | *WHO 2005 TEF* |  |  |  |
+  | --- | --- | --- | --- |
+  | 2,3,7,8-TCDD | 1 | 2,3,7,8-TCDF | 0,1 |
+  | 1,2,3,7,8-PeCDD | 1 | 2,3,4,7,8-PeCDF | 0,3 |
+  |  |  | 1,2,3,7,8-PeCDF | 0,03 |
+  | 1,2,3,4,7,8-HxCDD | 0,1 |  |  |
+  | 1,2,3,6,7,8-HxCDD | 0,1 | 1,2,3,4,7,8-HxCDF | 0,1 |
+  | 1,2,3,7,8,9-HxCDD | 0,1 | 1,2,3,7,8,9-HxCDF | 0,1 |
+  |  |  | 1,2,3,6,7,8-HxCDF | 0,1 |
+  | 1,2,3,4,6,7,8-HpCDD | 0,01 | 2,3,4,6,7,8-HxCDF | 0,1 |
+  | OCDD | 0,0003 | 1,2,3,4,6,7,8-HpCDF | 0,01 |
+  |  |  | 1,2,3,4,7,8,9-HpCDF | 0,01 |
+  |  |  | OCDF | 0,0003 |
+  | (T = tetra, Pe = penta, Hx = heksa, Hp = hepta, O = okta) |  |  |  |
+  | Referanse: Van den Berg et al: The 2005 World Health Organisation Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds |  |  |  |
 - Dersom dette farlige kjemikaliet faller inn under kategori P5a Brannfarlige væsker eller P5b Brannfarlige væsker benyttes forskriftens laveste mengdegrense.
 
 1 Nærmere opplysninger om når testing ikke er nødvendig finnes i beskrivelsen av framgangsmåte A.14, se kommisjonsforordning [(EF) nr. 440/2008](eu/32008r0440*) av 30. mai 2008 om fastsettelse av forsøksmetoder i henhold til europaparlaments- og rådsforordning [(EF) nr. 1907/2006](eu/32006r1907*) om registrering, vurdering og godkjenning av samt begrensninger for kjemikalier (REACH) (EUT L 142 av 31.5.2008, s. 1).
@@ -402,12 +542,54 @@ Krav til storulykkevirksomhetens styringssystem og organisering for å forebygge
 
 Den ansvarlige for virksomheten skal etablere et styringssystem som skal være tilpasset virksomhetens identifiserte risiko for storulykker, organisasjonens kompleksitet og virksomhetens aktiviteter. Det skal omfatte organisasjonsstruktur, ansvarsforhold, prosedyrer, praksis, prosesser og ressurser for å etablere, gjennomføre og vedlikeholde strategien for forebygging og begrensing av storulykker, jf. [§ 7](forskrift/2016-06-03-569/§7).
 
-Virksomhetens styringssystem skal omfatte:*Organisasjon og personell:* 1.1oversikt over organisasjonen, oppgaver og ansvarsområder for det personellet – både egne ansatte, innleide og underleverandører – som skal forebygge og begrense storulykker på alle nivåer i organisasjonen,1.2identifikasjon av dette personellets opplæringsbehov og gjennomføring av nødvendig opplæring,1.3tiltak for å øke bevisstheten om betydningen av kontinuerlige forbedringer, og1.4hvordan personellet involveres i nr. 1.1 til 1.3 ovenfor.*Identifikasjon og vurdering av risiko for storulykke:* prosedyre for å identifisere, vurdere sannsynlighet for og konsekvens av mulige storulykker ved normal og unormal drift. Prosedyren skal beskrive planlegging, gjennomføring og hvordan resultatene fra risikovurderingene brukes i storulykkearbeidet.*Driftskontroll:* prosedyrer og instrukser for sikker drift, herunder tilstandskontroll og vedlikehold av anlegg, prosesser og utstyr samt håndtering av alarmer og midlertidig driftsstans.Det skal tas hensyn til beste praksis for å:3.1overvåke og kontrollere driften og anleggets tilstand for å unngå systemsvikt,3.2håndtere risiko forbundet med økende alder på utstyret i virksomheten,3.3forebygge og redusere korrosjon, og3.4iverksette egnede oppfølgingstiltak og eventuelle nødvendige mottiltak.*Styring av endringer:* prosedyrer og instrukser for å planlegge, gjennomføre og dokumentere alle typer endringer i storulykkevirksomheten, både endringer i organisasjon og bemanning, eksisterende anlegg og prosesser, og utforming av nye anlegg og prosesser.*Beredskapsplanlegging:* prosedyrer og instrukser for å redusere konsekvensene av mulige storulykker, og for å utarbeide, vedlikeholde, øve og teste beredskapsplanen for å møte slike hendelser.*Evaluering:* jevnlig tilsyn med iverksetting og bruk av styringssystemets krav, målsetninger, prosedyrer og instrukser samt strategi for å forebygge og begrense storulykker. Evalueringen skal inkludere rutiner for å iverksette korrigerende tiltak ved avdekking av avvik. Prosedyrer og instrukser skal omfatte virksomhetens system for:6.1intern og ekstern rapportering av storulykker eller nestenulykker, og6.2gransking og oppfølging av hendelser, også med bakgrunn i erfaringer fra tidligere hendelser.*Ledelsens gjennomgåelse:* systematisk overvåking av styringssystemet og strategi for å forebygge og begrense storulykker for å sikre at disse er egnet og fungerer som forutsatt og at de oppdateres ved behov. Ledelsens gjennomgåelse, med analyser og vurdering av tiltak, skal dokumenteres.
+Virksomhetens styringssystem skal omfatte:
+
+1. *Organisasjon og personell:*
+
+   |  |  |
+   | --- | --- |
+   | 1.1 | oversikt over organisasjonen, oppgaver og ansvarsområder for det personellet – både egne ansatte, innleide og underleverandører – som skal forebygge og begrense storulykker på alle nivåer i organisasjonen, |
+   | 1.2 | identifikasjon av dette personellets opplæringsbehov og gjennomføring av nødvendig opplæring, |
+   | 1.3 | tiltak for å øke bevisstheten om betydningen av kontinuerlige forbedringer, og |
+   | 1.4 | hvordan personellet involveres i nr. 1.1 til 1.3 ovenfor. |
+2. *Identifikasjon og vurdering av risiko for storulykke:* prosedyre for å identifisere, vurdere sannsynlighet for og konsekvens av mulige storulykker ved normal og unormal drift. Prosedyren skal beskrive planlegging, gjennomføring og hvordan resultatene fra risikovurderingene brukes i storulykkearbeidet.
+3. *Driftskontroll:* prosedyrer og instrukser for sikker drift, herunder tilstandskontroll og vedlikehold av anlegg, prosesser og utstyr samt håndtering av alarmer og midlertidig driftsstans.
+
+   Det skal tas hensyn til beste praksis for å:
+
+   |  |  |
+   | --- | --- |
+   | 3.1 | overvåke og kontrollere driften og anleggets tilstand for å unngå systemsvikt, |
+   | 3.2 | håndtere risiko forbundet med økende alder på utstyret i virksomheten, |
+   | 3.3 | forebygge og redusere korrosjon, og |
+   | 3.4 | iverksette egnede oppfølgingstiltak og eventuelle nødvendige mottiltak. |
+4. *Styring av endringer:* prosedyrer og instrukser for å planlegge, gjennomføre og dokumentere alle typer endringer i storulykkevirksomheten, både endringer i organisasjon og bemanning, eksisterende anlegg og prosesser, og utforming av nye anlegg og prosesser.
+5. *Beredskapsplanlegging:* prosedyrer og instrukser for å redusere konsekvensene av mulige storulykker, og for å utarbeide, vedlikeholde, øve og teste beredskapsplanen for å møte slike hendelser.
+6. *Evaluering:* jevnlig tilsyn med iverksetting og bruk av styringssystemets krav, målsetninger, prosedyrer og instrukser samt strategi for å forebygge og begrense storulykker. Evalueringen skal inkludere rutiner for å iverksette korrigerende tiltak ved avdekking av avvik. Prosedyrer og instrukser skal omfatte virksomhetens system for:
+
+   |  |  |
+   | --- | --- |
+   | 6.1 | intern og ekstern rapportering av storulykker eller nestenulykker, og |
+   | 6.2 | gransking og oppfølging av hendelser, også med bakgrunn i erfaringer fra tidligere hendelser. |
+7. *Ledelsens gjennomgåelse:* systematisk overvåking av styringssystemet og strategi for å forebygge og begrense storulykker for å sikre at disse er egnet og fungerer som forutsatt og at de oppdateres ved behov. Ledelsens gjennomgåelse, med analyser og vurdering av tiltak, skal dokumenteres.
 
 ## Vedlegg IV
 Innhold i beredskapsplanen
 
-Beredskapsplanen skal minst inneholde:Navn eller stillingsbetegnelse på de personer som har fullmakt til å iverksette umiddelbare tiltak og den som har ansvar for samordning av den konsekvensreduserende innsatsen ved virksomheten.Navn eller stillingsbetegnelse på den som har ansvar for kontakt med relevante nød- og beredskapsetater.Beskrivelse av:3.1tiltak som skal treffes for å få kontroll over identifiserte storulykkescenarioer og begrense konsekvensene av disse,3.2personell, materiell og utstyr som er tilgjengelig, herunder også personlig verneutstyr,3.3hvordan personer som kan bli berørt vil bli varslet, og hvordan disse skal forholde seg ved varsling,3.4varsling til eksterne nød- og beredskapsetater. Beskrivelsen skal angi de opplysningene som skal tas med i den første meldingen og rutiner for formidling av mer detaljerte opplysninger etter hvert som de foreligger. Varslingen skal angi hvordan de som kan bli berørt av hendelsen skal forholde seg og hvordan de vil bli holdt informert. Varslingen skal også angi relevant informasjon for nød- og beredskapsetatenes innsats herunder hvilke kjemikalier og mengder som er involvert, deres farlige egenskaper, verneutstyr, tiltak virksomheten har iverksatt, behov for bistand og hvordan situasjonen antas å utvikle seg,3.5hvordan miljøet blir renset og rehabilitert etter en storulykke, og3.6rutiner for bistand til eksterne nød- og beredskapsetater når hendelsen får konsekvenser utenfor egen virksomhet.
+Beredskapsplanen skal minst inneholde:
+
+1. Navn eller stillingsbetegnelse på de personer som har fullmakt til å iverksette umiddelbare tiltak og den som har ansvar for samordning av den konsekvensreduserende innsatsen ved virksomheten.
+2. Navn eller stillingsbetegnelse på den som har ansvar for kontakt med relevante nød- og beredskapsetater.
+3. Beskrivelse av:
+
+   |  |  |
+   | --- | --- |
+   | 3.1 | tiltak som skal treffes for å få kontroll over identifiserte storulykkescenarioer og begrense konsekvensene av disse, |
+   | 3.2 | personell, materiell og utstyr som er tilgjengelig, herunder også personlig verneutstyr, |
+   | 3.3 | hvordan personer som kan bli berørt vil bli varslet, og hvordan disse skal forholde seg ved varsling, |
+   | 3.4 | varsling til eksterne nød- og beredskapsetater. Beskrivelsen skal angi de opplysningene som skal tas med i den første meldingen og rutiner for formidling av mer detaljerte opplysninger etter hvert som de foreligger. Varslingen skal angi hvordan de som kan bli berørt av hendelsen skal forholde seg og hvordan de vil bli holdt informert. Varslingen skal også angi relevant informasjon for nød- og beredskapsetatenes innsats herunder hvilke kjemikalier og mengder som er involvert, deres farlige egenskaper, verneutstyr, tiltak virksomheten har iverksatt, behov for bistand og hvordan situasjonen antas å utvikle seg, |
+   | 3.5 | hvordan miljøet blir renset og rehabilitert etter en storulykke, og |
+   | 3.6 | rutiner for bistand til eksterne nød- og beredskapsetater når hendelsen får konsekvenser utenfor egen virksomhet. |
 
 ## Vedlegg V
 Opplysninger som skal meddeles allmennheten i henhold til § 12 første ledd og andre ledd bokstav a

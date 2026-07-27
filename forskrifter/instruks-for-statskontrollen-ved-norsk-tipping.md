@@ -15,7 +15,7 @@ xml_hash: "d95e88ec0a94448b873e946ed6fa0385b075b5ccbd3cf868377f8d9823536346"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,7 +78,12 @@ Statskontrollen kan be Norsk Tipping AS om å få utlevert tilstrekkelig informa
 
 5.3
 
-Statskontrollen skal ha eget EDB-basert kontrollsystem. Systemet skal være helt uavhengig av selskapets EDB-system ved at:systemet utvikles av Statskontrollen selv, eventuelt med bistand fra sikkerhetsklarert personell som er uavhengig av Norsk Tipping ASsystemet behandles på Statskontrollens egne dedikerte maskiner i Statskontrollens egne lokalersystemet kun betjenes av Statskontrollens eget personellbrukerstøtte og vedlikehold utføres av firmaer som er uavhengig av Norsk Tipping AS.
+Statskontrollen skal ha eget EDB-basert kontrollsystem. Systemet skal være helt uavhengig av selskapets EDB-system ved at:
+
+- systemet utvikles av Statskontrollen selv, eventuelt med bistand fra sikkerhetsklarert personell som er uavhengig av Norsk Tipping AS
+- systemet behandles på Statskontrollens egne dedikerte maskiner i Statskontrollens egne lokaler
+- systemet kun betjenes av Statskontrollens eget personell
+- brukerstøtte og vedlikehold utføres av firmaer som er uavhengig av Norsk Tipping AS.
 
 5.4
 
@@ -144,15 +149,29 @@ Spillesystemer som er beskrevet i foregående avsnitt skal være godkjent av Sta
 
 8.3
 
-Innføring av nye spill og vesentlige endringer i eksisterende spillved utvikling av nye spill eller ved endringer i eksisterende spill skal Norsk Tipping AS på et tidlig tidspunkt informere om hvilke sikkerhets- og kontrollmekanismer som er lagt inn i spillet, jf. pkt. 8.2, 2. avsnittStatskontrollen skal vurdere de kontroll- og sikkerhetsmessige konsekvensene i henhold til pkt. 2.1. Eventuelle kommentarer til det systemet som velges, skal oversendes Norsk Tipping AS for innarbeidelse før nytt spill eller endringer i eksisterende spill lanseresStatskontrollen skal vurdere behovet for endringer i egne kontrollsystemer og se til at nødvendige endringer blir etablert så tidlig at Statskontrollen kan delta i systemtester før nytt spill eller endringer i eksisterende spill innføres.
+Innføring av nye spill og vesentlige endringer i eksisterende spill
+
+- ved utvikling av nye spill eller ved endringer i eksisterende spill skal Norsk Tipping AS på et tidlig tidspunkt informere om hvilke sikkerhets- og kontrollmekanismer som er lagt inn i spillet, jf. pkt. 8.2, 2. avsnitt
+- Statskontrollen skal vurdere de kontroll- og sikkerhetsmessige konsekvensene i henhold til pkt. 2.1. Eventuelle kommentarer til det systemet som velges, skal oversendes Norsk Tipping AS for innarbeidelse før nytt spill eller endringer i eksisterende spill lanseres
+- Statskontrollen skal vurdere behovet for endringer i egne kontrollsystemer og se til at nødvendige endringer blir etablert så tidlig at Statskontrollen kan delta i systemtester før nytt spill eller endringer i eksisterende spill innføres.
 
 8.4
 
-Statskontrollen som ankeinstansmottatte protester behandles av Norsk Tipping AShvis Norsk Tipping AS' avgjørelse ikke tas til følge av spilleren, skal saken forelegges Statskontrollen for avgjørelse.
+Statskontrollen som ankeinstans
+
+- mottatte protester behandles av Norsk Tipping AS
+- hvis Norsk Tipping AS' avgjørelse ikke tas til følge av spilleren, skal saken forelegges Statskontrollen for avgjørelse.
 
 8.5
 
-I sitt kontrollarbeid skal Statskontrollen iaktta følgende:Statskontrollens arbeidslokaler skal bare disponeres av Statskontrollens personale og medlemmeralt sensitivt materiale skal så lenge det er i Statskontrollens besittelse, oppbevares på betryggende måteStatskontrollen skal hindre at uvedkommende får adgang til spilledata som Statskontrollen har i sin besittelse. Datamateriale skal oppbevares på en sikkerhetsmessig forsvarlig måte etter nærmere retningslinjer fra Statskontrollenkontrollarbeidet skal innrettes med sikte på å oppnå størst mulig sikkerhetminst to av Statskontrollens medlemmer skal foreta de viktigste kontrollene, samt behandle saker hvor det må tas avgjørelser av prinsippiell karakter. Statskontrollen skal kontrollere at alle trekninger foregår på en sikkerhetsmessig forsvarlig måte, og at de er korrektedata, informasjon, materiell og annen dokumentasjon som er en forutsetning for gjennomføring av trekninger, skal oppbevares på en slik måte at verken Statskontrollens medlemmer eller ansatte ved Norsk Tipping AS på egenhånd behandler dette.
+I sitt kontrollarbeid skal Statskontrollen iaktta følgende:
+
+- Statskontrollens arbeidslokaler skal bare disponeres av Statskontrollens personale og medlemmer
+- alt sensitivt materiale skal så lenge det er i Statskontrollens besittelse, oppbevares på betryggende måte
+- Statskontrollen skal hindre at uvedkommende får adgang til spilledata som Statskontrollen har i sin besittelse. Datamateriale skal oppbevares på en sikkerhetsmessig forsvarlig måte etter nærmere retningslinjer fra Statskontrollen
+- kontrollarbeidet skal innrettes med sikte på å oppnå størst mulig sikkerhet
+- minst to av Statskontrollens medlemmer skal foreta de viktigste kontrollene, samt behandle saker hvor det må tas avgjørelser av prinsippiell karakter. Statskontrollen skal kontrollere at alle trekninger foregår på en sikkerhetsmessig forsvarlig måte, og at de er korrekte
+- data, informasjon, materiell og annen dokumentasjon som er en forutsetning for gjennomføring av trekninger, skal oppbevares på en slik måte at verken Statskontrollens medlemmer eller ansatte ved Norsk Tipping AS på egenhånd behandler dette.
 
 **9.***Statskontrollens hvelv*
 

@@ -28,9 +28,15 @@ eu_basis: []
 
 Kommunen kan kreve egenandel for opphold i institusjon som nevnt i helse- og [omsorgstjenesteloven § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav c når kommunen helt eller delvis dekker utgiftene til opphold i slik institusjon, eller har stillet garanti for oppholdet.
 
-Det kan likevel ikke kreves egenandel for:korttidsopphold som primært ytes for å avlaste pårørende i deres omsorgsoppgaverdøgnplasser som kommunen oppretter for å sørge for tilbud om døgnopphold for øyeblikkelig hjelp.
+Det kan likevel ikke kreves egenandel for:
 
-I forskriften her menes med*korttidsopphold:* Tidsavgrenset opphold i institusjon gitt som døgnopphold, dagopphold eller nattopphold.*langtidsopphold:* Opphold i institusjon på ubestemt tid eller tidsavgrenset opphold når vedkommende har vært på institusjon i minst 60 døgn pr. kalenderår.
+1. korttidsopphold som primært ytes for å avlaste pårørende i deres omsorgsoppgaver
+2. døgnplasser som kommunen oppretter for å sørge for tilbud om døgnopphold for øyeblikkelig hjelp.
+
+I forskriften her menes med
+
+1. *korttidsopphold:* Tidsavgrenset opphold i institusjon gitt som døgnopphold, dagopphold eller nattopphold.
+2. *langtidsopphold:* Opphold i institusjon på ubestemt tid eller tidsavgrenset opphold når vedkommende har vært på institusjon i minst 60 døgn pr. kalenderår.
 
 ### § 2. Om vedtaket
 

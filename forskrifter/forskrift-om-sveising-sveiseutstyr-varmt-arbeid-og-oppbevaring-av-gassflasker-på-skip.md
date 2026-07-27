@@ -15,7 +15,7 @@ xml_hash: "b66fed20fa85598dd5193b6e38f32b9797429179105e55bbf154628d12f87ee4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,37 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*Acetylen:* C2 H2 for lagring på spesialflasker (15 – 19 bar ved 15 °C).*Anerkjent klasseinstitusjon:*American Bureau of Shipping (ABS)Bureau Veritas (BV)DNV GLLloyd's Register of Shipping (LRS)Rina Services S.p.A (RINA)Nippon Kaiji Kyokai (Class NK).*Eksisterende sentralanlegg:* Sentralanlegg installert før 1. juli 2000.*Flytende kjemikalier:* Laster med et absolutt damptrykk lavere enn 2,8 bar ved 37,8 °C som representerer en brannrisiko og helsefare.*Kondenserte gasser:* Laster med et absolutt damptrykk på 2,8 bar eller høyere ved 37,8 °C som representerer en brannrisiko og helsefare.*Kvalifisert person:* Person med kvalifikasjoner til å foreta installasjon, prøving og kontroll av sentralanlegg, samt utstedelse av installasjonsbevis.*Nye sentralanlegg:* Sentralanlegg installert 1. juli 2000 eller senere.*Nøytral atmosfære:* Atmosfære som er oppblandet ved nøytralgass slik at oksygeninnholdet ikke overstiger 8 volumprosent.*Oksygen:* O2 for lagring på spesialgassflasker (150 eller 200 bar ved 15 °C).*Olje:* Med olje forstås:Mineralske oljer med flammepunkt på 60 °C eller derover, som f.eks. dieseloljer, solarolje, fyringsolje, smøreolje o.l. som avgir brennbare gasser ved oppvarming.Mineralske oljer med flammepunkt under 60 °C som f.eks. bensin, petroleum, benzene og råolje, eller andre brennbare væsker med flammepunkt under nevnte grense.Oljer og fett av animalsk eller vegetabilsk opprinnelse som f.eks. hvalolje, jordnøttolje, linolje og liknende som avgir brennbare gasser ved oppvarming.*Råolje:* Enhver olje som forekommer naturlig i jorden, enten den er behandlet for å kunne transporteres eller ikke, og omfatter:Råolje hvor visse destillatbestanddeler kan ha blitt fjernet, ogRåolje hvor visse destillatbestanddeler kan ha blitt tilsatt.*Slop:* Ved slop forstås oljeblandet vann etter tankrengjøring.*Tankskip i drift*: Tankskip som ikke ligger ved verksted for å utføre reparasjonsarbeid eller annet arbeid.*Tankskip*: Et lasteskip som er bygget eller innredet for transport av flytende brannfarlig last i bulk.*Varmt arbeid:* Arbeid som medfører bruk av åpen flamme i forbindelse med sveising, høy temperatur eller bruk av gnistfremkallende verktøy.
+I denne forskrift betyr:
+
+1. *Acetylen:* C2 H2 for lagring på spesialflasker (15 – 19 bar ved 15 °C).
+2. *Anerkjent klasseinstitusjon:*
+
+   1. American Bureau of Shipping (ABS)
+   2. Bureau Veritas (BV)
+   3. DNV GL
+   4. Lloyd's Register of Shipping (LRS)
+   5. Rina Services S.p.A (RINA)
+   6. Nippon Kaiji Kyokai (Class NK).
+3. *Eksisterende sentralanlegg:* Sentralanlegg installert før 1. juli 2000.
+4. *Flytende kjemikalier:* Laster med et absolutt damptrykk lavere enn 2,8 bar ved 37,8 °C som representerer en brannrisiko og helsefare.
+5. *Kondenserte gasser:* Laster med et absolutt damptrykk på 2,8 bar eller høyere ved 37,8 °C som representerer en brannrisiko og helsefare.
+6. *Kvalifisert person:* Person med kvalifikasjoner til å foreta installasjon, prøving og kontroll av sentralanlegg, samt utstedelse av installasjonsbevis.
+7. *Nye sentralanlegg:* Sentralanlegg installert 1. juli 2000 eller senere.
+8. *Nøytral atmosfære:* Atmosfære som er oppblandet ved nøytralgass slik at oksygeninnholdet ikke overstiger 8 volumprosent.
+9. *Oksygen:* O2 for lagring på spesialgassflasker (150 eller 200 bar ved 15 °C).
+10. *Olje:* Med olje forstås:
+
+    1. Mineralske oljer med flammepunkt på 60 °C eller derover, som f.eks. dieseloljer, solarolje, fyringsolje, smøreolje o.l. som avgir brennbare gasser ved oppvarming.
+    2. Mineralske oljer med flammepunkt under 60 °C som f.eks. bensin, petroleum, benzene og råolje, eller andre brennbare væsker med flammepunkt under nevnte grense.
+    3. Oljer og fett av animalsk eller vegetabilsk opprinnelse som f.eks. hvalolje, jordnøttolje, linolje og liknende som avgir brennbare gasser ved oppvarming.
+11. *Råolje:* Enhver olje som forekommer naturlig i jorden, enten den er behandlet for å kunne transporteres eller ikke, og omfatter:
+
+    1. Råolje hvor visse destillatbestanddeler kan ha blitt fjernet, og
+    2. Råolje hvor visse destillatbestanddeler kan ha blitt tilsatt.
+12. *Slop:* Ved slop forstås oljeblandet vann etter tankrengjøring.
+13. *Tankskip i drift*: Tankskip som ikke ligger ved verksted for å utføre reparasjonsarbeid eller annet arbeid.
+14. *Tankskip*: Et lasteskip som er bygget eller innredet for transport av flytende brannfarlig last i bulk.
+15. *Varmt arbeid:* Arbeid som medfører bruk av åpen flamme i forbindelse med sveising, høy temperatur eller bruk av gnistfremkallende verktøy.
 
 > Endret ved [forskrifter 17 des 2004 nr. 1857](forskrift/2004-12-17-1857) (i kraft 1 jan 2005), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018).
 
@@ -60,7 +90,14 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (1) Gassflasker og annet utstyr skal være godkjent av anerkjent klasseinstitusjon eller offentlig myndighet. Det tillates ikke flasker med større volum enn 50 liter.
 
-(2) Kravene i [kapittel III](forskrift/2002-04-25-422/kapiii) skal ikke gjelde for produkter med opprinnelse i EØS-land, når slike produkter er i samsvar med:en standard eller regler for god praksis som er utgitt av et nasjonalt standardiseringsorgan eller et tilsvarende organ i et EØS-land, og som det er påkrevd å følge i vedkommende land, elleren relevant internasjonal standard som er godkjent for anvendelse i ett av landene, elleren teknisk forskrift som regulerer produksjon, markedsføring eller bruk i ett av landene, ellerkonvensjonelle eller innovative produksjonsprosesser som er i overensstemmelse med lovgivningen i et EØS-land, og der det finnes tilstrekkelig detaljert teknisk dokumentasjon for å sikre at produktene det gjelder kan bedømmes i lys av den oppgitte anvendelsen, om nødvendig på grunnlag av tilleggstester,forutsatt at standarden, reglene for god praksis, den tekniske forskriften eller prosessen det gjelder kan sikre et beskyttelsesnivå som er likeverdig med nivået fastlagt i denne forskriften. Det skal om nødvendig gis særskilte opplysninger om sikkerhet og beskyttelse av liv og helse m.m.
+(2) Kravene i [kapittel III](forskrift/2002-04-25-422/kapiii) skal ikke gjelde for produkter med opprinnelse i EØS-land, når slike produkter er i samsvar med:
+
+1. en standard eller regler for god praksis som er utgitt av et nasjonalt standardiseringsorgan eller et tilsvarende organ i et EØS-land, og som det er påkrevd å følge i vedkommende land, eller
+2. en relevant internasjonal standard som er godkjent for anvendelse i ett av landene, eller
+3. en teknisk forskrift som regulerer produksjon, markedsføring eller bruk i ett av landene, eller
+4. konvensjonelle eller innovative produksjonsprosesser som er i overensstemmelse med lovgivningen i et EØS-land, og der det finnes tilstrekkelig detaljert teknisk dokumentasjon for å sikre at produktene det gjelder kan bedømmes i lys av den oppgitte anvendelsen, om nødvendig på grunnlag av tilleggstester,
+
+forutsatt at standarden, reglene for god praksis, den tekniske forskriften eller prosessen det gjelder kan sikre et beskyttelsesnivå som er likeverdig med nivået fastlagt i denne forskriften. Det skal om nødvendig gis særskilte opplysninger om sikkerhet og beskyttelse av liv og helse m.m.
 
 > Endret ved [forskrift 17 des 2004 nr. 1857](forskrift/2004-12-17-1857) (i kraft 1 jan 2005).
 
@@ -74,7 +111,12 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 ### § 7. Kvalifisert person
 
-Kvalifisert person skal oppfylle følgende krav:ha alle nødvendige kvalifikasjoner for å kunne foreta rør- og utstyrsmontasje på skip,ha spesielle kunnskaper om de problemer og sikkerhetsforanstaltninger som knytter seg til installasjon, utprøving, kontroll og bruk av sentralanlegg og som har praktisk erfaring på dette området,under installasjon benytte utstyrsleverandørens armatur, tegninger og anvisninger, oginneha godkjenning fra et anerkjent klasseselskap.
+Kvalifisert person skal oppfylle følgende krav:
+
+1. ha alle nødvendige kvalifikasjoner for å kunne foreta rør- og utstyrsmontasje på skip,
+2. ha spesielle kunnskaper om de problemer og sikkerhetsforanstaltninger som knytter seg til installasjon, utprøving, kontroll og bruk av sentralanlegg og som har praktisk erfaring på dette området,
+3. under installasjon benytte utstyrsleverandørens armatur, tegninger og anvisninger, og
+4. inneha godkjenning fra et anerkjent klasseselskap.
 
 > Endret ved [forskrift 17 des 2004 nr. 1857](forskrift/2004-12-17-1857) (i kraft 1 jan 2005).
 
@@ -96,7 +138,22 @@ Kvalifisert person skal oppfylle følgende krav:ha alle nødvendige kvalifikasjo
 
 ### § 9. Spyling og gassfriing
 
-(1) Skip som har ført last med flammepunkt under 60 °C.Før sveise- og brennearbeider eller annen bruk av åpen flamme eller annet gnistgivende arbeid settes i gang skal følgende utføres:Skip utstyrt med nøytralgassanlegg og anlegg for råoljevasking (COW).Ved siste lossing av råolje skal tanker som det skal arbeides i, og tilstøtende tanker råoljevaskes.Tank eller rom som det skal arbeides i samt alle tilstøtende tanker eller rom skal deretter spyles med vann til en tilfredsstillende renhet er oppnådd. Spylingen skal foregå i nøytral atmosfære. Rørsystem, ventiler, filter og pumper skal rengjøres. Etter utlufting skal rengjøring i henhold til [§ 10](forskrift/2002-04-25-422/§10) første ledd, utføres. Pumperom og kofferdammer skal være rengjort og utluftet.Sloptanker skal så vidt mulig være tomme og rengjort. Dersom sloptank støter direkte mot den tank eller det rom det skal arbeides i, skal sloptanken være tom og rengjort. Dersom sloptank ikke støter direkte mot den tank eller det rom det skal arbeides i, kan sloptanken inneholde slop. Tanken skal da ha nøytral atmosfære, og nøytralgasstrykket skal ikke være lavere enn 500 mmVS.Tanker som støter direkte mot den tank det skal arbeides i, skal være tomme og rengjort i henhold til [§ 10](forskrift/2002-04-25-422/§10), første ledd. Skipets øvrige tanker eller rom skal ha nøytral atmosfære, oksygeninnholdet skal ikke overstige 8%, og nøytralgasstrykket skal ikke være lavere enn 500 mmVS.Skip som ikke er utstyrt med nøytralgassanlegg og COW.Det skal spyles med vann (maks. 60 °C) med etterfølgende utlufting av alle tanker og rom inklusive ventiler, filter, pumper mv. Pumperom og kofferdammer skal være rengjort og utluftet. Sloptank skal være tom og rengjort dersom den ikke er fylt med CO2 eller annen form for nøytralgass. Oksygeninnholdet skal ikke overstige 8% og nøytralgasstrykket skal ikke være lavere enn 500 mmVS.For skip uten nøytralgassanlegg skal alle tomme lastetanker rengjøres. Slop skal pumpes til den tank med størst mulig avstand til arbeidsområdet. Tanken skal holdes lukket.Skipets øvrige lastetanker og rom skal være rengjort og gassfrie i henhold til [§ 10](forskrift/2002-04-25-422/§10) første ledd.Alle lastetanker, pumperom og kofferdammer skal være kontrollert med 2 stk. eksplosimetere som skal være typegodkjente.
+(1) Skip som har ført last med flammepunkt under 60 °C.
+
+1. Før sveise- og brennearbeider eller annen bruk av åpen flamme eller annet gnistgivende arbeid settes i gang skal følgende utføres:
+
+   1. Skip utstyrt med nøytralgassanlegg og anlegg for råoljevasking (COW).
+
+      - Ved siste lossing av råolje skal tanker som det skal arbeides i, og tilstøtende tanker råoljevaskes.
+      - Tank eller rom som det skal arbeides i samt alle tilstøtende tanker eller rom skal deretter spyles med vann til en tilfredsstillende renhet er oppnådd. Spylingen skal foregå i nøytral atmosfære. Rørsystem, ventiler, filter og pumper skal rengjøres. Etter utlufting skal rengjøring i henhold til [§ 10](forskrift/2002-04-25-422/§10) første ledd, utføres. Pumperom og kofferdammer skal være rengjort og utluftet.
+      - Sloptanker skal så vidt mulig være tomme og rengjort. Dersom sloptank støter direkte mot den tank eller det rom det skal arbeides i, skal sloptanken være tom og rengjort. Dersom sloptank ikke støter direkte mot den tank eller det rom det skal arbeides i, kan sloptanken inneholde slop. Tanken skal da ha nøytral atmosfære, og nøytralgasstrykket skal ikke være lavere enn 500 mmVS.
+      - Tanker som støter direkte mot den tank det skal arbeides i, skal være tomme og rengjort i henhold til [§ 10](forskrift/2002-04-25-422/§10), første ledd. Skipets øvrige tanker eller rom skal ha nøytral atmosfære, oksygeninnholdet skal ikke overstige 8%, og nøytralgasstrykket skal ikke være lavere enn 500 mmVS.
+   2. Skip som ikke er utstyrt med nøytralgassanlegg og COW.
+
+      - Det skal spyles med vann (maks. 60 °C) med etterfølgende utlufting av alle tanker og rom inklusive ventiler, filter, pumper mv. Pumperom og kofferdammer skal være rengjort og utluftet. Sloptank skal være tom og rengjort dersom den ikke er fylt med CO2 eller annen form for nøytralgass. Oksygeninnholdet skal ikke overstige 8% og nøytralgasstrykket skal ikke være lavere enn 500 mmVS.
+      - For skip uten nøytralgassanlegg skal alle tomme lastetanker rengjøres. Slop skal pumpes til den tank med størst mulig avstand til arbeidsområdet. Tanken skal holdes lukket.
+      - Skipets øvrige lastetanker og rom skal være rengjort og gassfrie i henhold til [§ 10](forskrift/2002-04-25-422/§10) første ledd.
+      - Alle lastetanker, pumperom og kofferdammer skal være kontrollert med 2 stk. eksplosimetere som skal være typegodkjente.
 
 (2) På skip som har ført lastolje eller bunkers med flammepunkt på 60 °C eller derover eller olje og fett som definert i [§ 2](forskrift/2002-04-25-422/§2) bokstav j nr. 3, kan spyling og utlufting og kontroll som nevnt i første ledd ovenfor, innskrenkes til de tanker og rom hvor det skal arbeides, samt til rengjøring av tilstøtende tanker eller rom. Imidlertid skal luker og åpninger til ikke-rengjorte tanker og rom holdes lukket.
 
@@ -152,7 +209,16 @@ Kvalifisert person skal oppfylle følgende krav:ha alle nødvendige kvalifikasjo
 
 (2) Resultatet av slike undersøkelser skal innføres i skipets dekksdagbok.
 
-(3) Under forberedelser til sveise- og brennearbeider eller annen bruk av åpen flamme eller annet gnistgivende arbeid, skal følgende forhold alltid kontrolleres:Type olje som har vært ført i den tank eller de tanker hvor sveisearbeid eller arbeid med bruk av åpen flamme skal utføres. Oljetyper som har vært ført i tilstøtende tanker.Type kondenserte gasser eller flytende kjemikalier som har vært ført i de tanker eller i nærheten av det sted sveising skal utføres.Utstrekning av utført rengjøringsarbeid i tanker eller rom.Utstrekning av utført rengjøringsarbeid i tilstøtende tanker eller rom.Tiltak for ventilasjon for arbeid.Utført gassmålinger i tanker og rom hvor arbeid skal utføres og i tilstøtende tanker og rom.Resultat av gassmålinger før og under arbeidet.Klargjøring av brannslokningsutstyr og annet sikkerhetsutstyr.
+(3) Under forberedelser til sveise- og brennearbeider eller annen bruk av åpen flamme eller annet gnistgivende arbeid, skal følgende forhold alltid kontrolleres:
+
+1. Type olje som har vært ført i den tank eller de tanker hvor sveisearbeid eller arbeid med bruk av åpen flamme skal utføres. Oljetyper som har vært ført i tilstøtende tanker.
+2. Type kondenserte gasser eller flytende kjemikalier som har vært ført i de tanker eller i nærheten av det sted sveising skal utføres.
+3. Utstrekning av utført rengjøringsarbeid i tanker eller rom.
+4. Utstrekning av utført rengjøringsarbeid i tilstøtende tanker eller rom.
+5. Tiltak for ventilasjon for arbeid.
+6. Utført gassmålinger i tanker og rom hvor arbeid skal utføres og i tilstøtende tanker og rom.
+7. Resultat av gassmålinger før og under arbeidet.
+8. Klargjøring av brannslokningsutstyr og annet sikkerhetsutstyr.
 
 > Endret ved [forskrift 17 des 2004 nr. 1857](forskrift/2004-12-17-1857) (i kraft 1 jan 2005).
 
@@ -196,23 +262,77 @@ Kvalifisert person skal oppfylle følgende krav:ha alle nødvendige kvalifikasjo
 
 ### § 16. Rørinstallasjoner m.m.
 
-(1) *Høytrykkside. Rør og armatur mellom gassflasker og regulator*Rør for acetylen.Rør skal være rustfrie stålrør. Alle rør skal være sømløse. Rør og armatur skal være sertifisert for 300 bar.Kopper eller kopperlegeringer med mer enn 65% kopper skal ikke benyttes i forbindelse med acetylen.I sentralanlegg hvor to eller flere flasker acetylen er forbundet med samlerør, skal tilførselsrørene mellom flasker og samlerør være utstyrt med tilbakeslagsventil som tilfredsstiller relevante standarder, jf. [§ 17](forskrift/2002-04-25-422/§17).Rør for oksygen.Rør skal være rustfrie stålrør eller kopperrør. Alle rør skal være sømløse. Rør og armatur skal være sertifisert for 300 bar.I sentralanlegg hvor to eller flere flasker oksygen er forbundet med samlerør, skal tilførselsrørene mellom flasker og samlerør være utstyrt med tilbakeslagsventil som tilfredsstiller relevante standarder, jf. [§ 17](forskrift/2002-04-25-422/§17).Trykkprøvingen skal utføres av kvalifisert person.Sikkerhetsventiler o.l. som er plassert i gassflaskesentral skal ha avlufting til åpent dekk. Utløpet skal legges til et sikkert sted og i en høyde av minst 3 m over dekk. Avluftingsstedet skal være merket som forlangt i [§ 22](forskrift/2002-04-25-422/§22), femte ledd.
+(1) *Høytrykkside. Rør og armatur mellom gassflasker og regulator*
 
-(2) *Lavtrykkside*Rør skal være sømløse med materiale ST 35 med minimum godstykkelse 2,0 mm eller tilsvarende og/eller etter anerkjent klasseinstitusjons krav. Rørledninger på åpent dekk skal ha en godstykkelse på minst 2,5 mm.Rørledninger skal legges fritt og slik at de er beskyttet mot skader. Rørledninger skal ikke trekkes gjennom uventilerte rom, skap mv. eller legges i innredning for mannskap eller passasjerer.Ekspansjonssløyfer skal legges hvor det er nødvendig, og ved føring gjennom dekk eller skott skal rørledningen legges i beskyttelsesrør av hard plast eller fibermateriale. Alle rør skal festes forsvarlig slik at de er beskyttet mot skader. Avstanden mellom festeklemmer bør ikke overskride 2,5 m.Rørledninger skal legges med færrest mulig skjøter. For nye anlegg skal skjøter være fagmessig sveiset med TIG- eller acetylen-/oksygenapparat. For eksisterende anlegg skal skjøter være fagmessig sveiset ende mot ende. Skjøter skal anbringes på steder som er lett tilgjengelig for inspeksjon.Demonterbare koblinger godtas ikke som erstatning for sveising.
+1. Rør for acetylen.
 
-(3) *Uttaksposter*Uttakspost er brakett med avstengningsventiler, regulatorer, manometer og tilbakeslagssikringer for acetylen og oksygen plassert i skap eller beskyttet på annen tilfredsstillende måte.Det tillates 2 uttaksposter på hvert røropplegg fra gassflaskesentral.Uttaksposter tillates kun plassert i maskinrom og/eller verksted. De skal være plassert på et godt ventilert sted, og slik at de er beskyttet mot mekanisk belastning.Avstengningsventiler på uttaksposter skal være stengt når anlegget ikke er i bruk.
+   Rør skal være rustfrie stålrør. Alle rør skal være sømløse. Rør og armatur skal være sertifisert for 300 bar.
+
+   Kopper eller kopperlegeringer med mer enn 65% kopper skal ikke benyttes i forbindelse med acetylen.
+
+   I sentralanlegg hvor to eller flere flasker acetylen er forbundet med samlerør, skal tilførselsrørene mellom flasker og samlerør være utstyrt med tilbakeslagsventil som tilfredsstiller relevante standarder, jf. [§ 17](forskrift/2002-04-25-422/§17).
+2. Rør for oksygen.
+
+   Rør skal være rustfrie stålrør eller kopperrør. Alle rør skal være sømløse. Rør og armatur skal være sertifisert for 300 bar.
+
+   I sentralanlegg hvor to eller flere flasker oksygen er forbundet med samlerør, skal tilførselsrørene mellom flasker og samlerør være utstyrt med tilbakeslagsventil som tilfredsstiller relevante standarder, jf. [§ 17](forskrift/2002-04-25-422/§17).
+3. Trykkprøvingen skal utføres av kvalifisert person.
+4. Sikkerhetsventiler o.l. som er plassert i gassflaskesentral skal ha avlufting til åpent dekk. Utløpet skal legges til et sikkert sted og i en høyde av minst 3 m over dekk. Avluftingsstedet skal være merket som forlangt i [§ 22](forskrift/2002-04-25-422/§22), femte ledd.
+
+(2) *Lavtrykkside*
+
+1. Rør skal være sømløse med materiale ST 35 med minimum godstykkelse 2,0 mm eller tilsvarende og/eller etter anerkjent klasseinstitusjons krav. Rørledninger på åpent dekk skal ha en godstykkelse på minst 2,5 mm.
+2. Rørledninger skal legges fritt og slik at de er beskyttet mot skader. Rørledninger skal ikke trekkes gjennom uventilerte rom, skap mv. eller legges i innredning for mannskap eller passasjerer.
+3. Ekspansjonssløyfer skal legges hvor det er nødvendig, og ved føring gjennom dekk eller skott skal rørledningen legges i beskyttelsesrør av hard plast eller fibermateriale. Alle rør skal festes forsvarlig slik at de er beskyttet mot skader. Avstanden mellom festeklemmer bør ikke overskride 2,5 m.
+4. Rørledninger skal legges med færrest mulig skjøter. For nye anlegg skal skjøter være fagmessig sveiset med TIG- eller acetylen-/oksygenapparat. For eksisterende anlegg skal skjøter være fagmessig sveiset ende mot ende. Skjøter skal anbringes på steder som er lett tilgjengelig for inspeksjon.
+5. Demonterbare koblinger godtas ikke som erstatning for sveising.
+
+(3) *Uttaksposter*
+
+1. Uttakspost er brakett med avstengningsventiler, regulatorer, manometer og tilbakeslagssikringer for acetylen og oksygen plassert i skap eller beskyttet på annen tilfredsstillende måte.
+2. Det tillates 2 uttaksposter på hvert røropplegg fra gassflaskesentral.
+3. Uttaksposter tillates kun plassert i maskinrom og/eller verksted. De skal være plassert på et godt ventilert sted, og slik at de er beskyttet mot mekanisk belastning.
+4. Avstengningsventiler på uttaksposter skal være stengt når anlegget ikke er i bruk.
 
 ### § 17. Krav til utstyr og installasjoner
 
-Utstyr og installasjoner på nye sentralanlegg skal være i samsvar med følgende standarder:NS-EN-730 Utstyr for gassveising. Utstyr benyttet for gassveising, skjæring og tilhørende metoder, sikkerhetsinnretninger for brenngasser og oksygen eller komprimert luft. Generelle spesifikasjoner, krav og prøving.NS-EN-961 Gassveiseutstyr. Forgreningsrørregulator brukt for sveising, skjæring og tilhørende metoder opptil 200 bar.NS-EN-ISO-14113 Gas welding equipment. Rubber and plastic hoses assemblied for compressed or liquefied gases up to a maximum design pressure of 450 bar.NS-EN-ISO-2503 Utstyr for gassveising. Trykkregulatorer for gassflasker benyttet ved sveising, skjæring og tilhørende metoder opptil 300 bar.NS-ISO-9090 Gasstetthet for utstyr til gassveising og lignende metoder.NS-ISO-9539 Materialer for utstyr benyttet til gassveising, kutting og lignende metoder.EN ISO 14114 Gas welding equipment – Acetylene manifold systems for welding, cutting and allied processes – General requirements.
+Utstyr og installasjoner på nye sentralanlegg skal være i samsvar med følgende standarder:
+
+1. NS-EN-730 Utstyr for gassveising. Utstyr benyttet for gassveising, skjæring og tilhørende metoder, sikkerhetsinnretninger for brenngasser og oksygen eller komprimert luft. Generelle spesifikasjoner, krav og prøving.
+2. NS-EN-961 Gassveiseutstyr. Forgreningsrørregulator brukt for sveising, skjæring og tilhørende metoder opptil 200 bar.
+3. NS-EN-ISO-14113 Gas welding equipment. Rubber and plastic hoses assemblied for compressed or liquefied gases up to a maximum design pressure of 450 bar.
+4. NS-EN-ISO-2503 Utstyr for gassveising. Trykkregulatorer for gassflasker benyttet ved sveising, skjæring og tilhørende metoder opptil 300 bar.
+5. NS-ISO-9090 Gasstetthet for utstyr til gassveising og lignende metoder.
+6. NS-ISO-9539 Materialer for utstyr benyttet til gassveising, kutting og lignende metoder.
+7. EN ISO 14114 Gas welding equipment – Acetylene manifold systems for welding, cutting and allied processes – General requirements.
 
 ### § 18. Installasjon, prøving og kontroll av sentralanlegg
 
-(1) Installasjon av sentralanleggFør rørledninger for acetylen og oksygen monteres skal alle rørledninger og koblinger nøye skylles rene for fett, olje og andre brennbare stoffer. Til avfettingen skal ikke brennbare eller organiske løsemidler benyttes. Rørledninger og koblinger renblåses deretter med fettfritt nitrogen, både før og etter montering.Trykkluft fra oljesmurt kompressor eller oksygen skal ikke benyttes.
+(1) Installasjon av sentralanlegg
 
-(2) Gjennomblåsning og tetthetsprøving etter installasjon mv.Etter endt installasjon eller reparasjon av sentralanlegg og ellers med 5 års mellomrom, jf. [§ 19](forskrift/2002-04-25-422/§19), skal det foretas en gjennomblåsning og tetthetsprøving av alle rørledninger.Gjennomblåsning av rørledninger for acetylen og oksygen skal foretas med fettfritt nitrogen. Nitrogenet skal blåses inn etter høytrykkssiden og ledes ut ved uttakspost. Uttaksposten(e) skal være fjernet mens gjennomblåsningen pågår. Ved gjennomblåsningen økes trykket gradvis til ca 12 bar og gjennomblåsningen skal pågå til det ikke lenger kommer smuss ut av røret. Høytrykksrør gjennomblåses separat.LavtrykksidenRørledninger for acetylen og oksygen på lavtrykksiden skal tetthetsprøves med fettfritt nitrogen, og prøvetrykket skal være 12 bar. Etter 8 timer skal trykkfallet ikke overstige 0,4 bar.HøytrykksidenRørledninger for acetylen på høytrykksiden skal tetthetsprøves med fettfritt nitrogen ved 25 bar.Rørledninger for oksygen på høytrykksiden skal tetthetsprøves med 200 bar oksygen eller fettfritt nitrogen.FellesbestemmelseAlle ventiler, skjøter og andre forbindelser skal kontrolleres for lekkasje ved hjelp av egnede midler.
+1. Før rørledninger for acetylen og oksygen monteres skal alle rørledninger og koblinger nøye skylles rene for fett, olje og andre brennbare stoffer. Til avfettingen skal ikke brennbare eller organiske løsemidler benyttes. Rørledninger og koblinger renblåses deretter med fettfritt nitrogen, både før og etter montering.
+2. Trykkluft fra oljesmurt kompressor eller oksygen skal ikke benyttes.
 
-(3) KontrollGjennomblåsning og tetthetsprøving som nevnt i andre ledd skal foretas av kvalifisert person.Tetthetskontroll av rørledninger skal foretas av maskinsjefen eller den maskinsjefen bemyndiger minst en gang hvert år med vanlig driftstrykk for henholdsvis oksygen og acetylen. Gasstilførselen til ledningene stoppes ved at sentralregulatoren stenges, og trykket i ledningene skal da kunne holde seg konstant i minst 8 timer. Forekommer det trykkfall i ledninger for oksygen og/eller acetylen skal sentralanlegget kontrolleres og utbedres av kvalifisert person og nytt installasjonsbevis utstedes. Den årlige kontroll skal påføres installasjonsbeviset i gassflaskesentralen.
+(2) Gjennomblåsning og tetthetsprøving etter installasjon mv.
+
+1. Etter endt installasjon eller reparasjon av sentralanlegg og ellers med 5 års mellomrom, jf. [§ 19](forskrift/2002-04-25-422/§19), skal det foretas en gjennomblåsning og tetthetsprøving av alle rørledninger.
+2. Gjennomblåsning av rørledninger for acetylen og oksygen skal foretas med fettfritt nitrogen. Nitrogenet skal blåses inn etter høytrykkssiden og ledes ut ved uttakspost. Uttaksposten(e) skal være fjernet mens gjennomblåsningen pågår. Ved gjennomblåsningen økes trykket gradvis til ca 12 bar og gjennomblåsningen skal pågå til det ikke lenger kommer smuss ut av røret. Høytrykksrør gjennomblåses separat.
+
+   1. Lavtrykksiden
+
+      - Rørledninger for acetylen og oksygen på lavtrykksiden skal tetthetsprøves med fettfritt nitrogen, og prøvetrykket skal være 12 bar. Etter 8 timer skal trykkfallet ikke overstige 0,4 bar.
+   2. Høytrykksiden
+
+      - Rørledninger for acetylen på høytrykksiden skal tetthetsprøves med fettfritt nitrogen ved 25 bar.
+      - Rørledninger for oksygen på høytrykksiden skal tetthetsprøves med 200 bar oksygen eller fettfritt nitrogen.
+   3. Fellesbestemmelse
+
+      - Alle ventiler, skjøter og andre forbindelser skal kontrolleres for lekkasje ved hjelp av egnede midler.
+
+(3) Kontroll
+
+1. Gjennomblåsning og tetthetsprøving som nevnt i andre ledd skal foretas av kvalifisert person.
+2. Tetthetskontroll av rørledninger skal foretas av maskinsjefen eller den maskinsjefen bemyndiger minst en gang hvert år med vanlig driftstrykk for henholdsvis oksygen og acetylen. Gasstilførselen til ledningene stoppes ved at sentralregulatoren stenges, og trykket i ledningene skal da kunne holde seg konstant i minst 8 timer. Forekommer det trykkfall i ledninger for oksygen og/eller acetylen skal sentralanlegget kontrolleres og utbedres av kvalifisert person og nytt installasjonsbevis utstedes. Den årlige kontroll skal påføres installasjonsbeviset i gassflaskesentralen.
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -248,7 +368,13 @@ Utstyr og installasjoner på nye sentralanlegg skal være i samsvar med følgend
 
 (3) Spesialanlegg kan kun anvendes i forbindelse med tjenesteyting til andre.
 
-(4) For spesialanlegg gjelder denne forskriften med følgende modifikasjoner:Gassflaskesentralen kan plasseres på åpent dekk. Gassflaskene i sentralen skal da være plassert i solide stativer og de skal være effektivt beskyttet mot mekaniske skader, direkte solvarme, vær og vind. Over sentralen skal det være et tett tak eller deksel av stål. Armatur, rørledninger mv. i sentralen skal være beskyttet med f.eks. deksel av stål, solid netting/gitter e.l. som lett kan åpnes eller fjernes mens utskiftning av flasker mv. i sentralen pågår.Hvor gassflaskesentralen er plassert på åpent dekk, skal det være et markert skille mellom acetylen- og oksygenflaskene i gassflaskesentralen.Rørledninger på åpent dekk skal ha en godstykkelse på minst 2,5 mm.Flere uttaksposter enn 2 godtas.Uttaksposter på åpent dekk tillates. Uttaksposter på åpent dekk skal være i skap som kan lukkes.
+(4) For spesialanlegg gjelder denne forskriften med følgende modifikasjoner:
+
+1. Gassflaskesentralen kan plasseres på åpent dekk. Gassflaskene i sentralen skal da være plassert i solide stativer og de skal være effektivt beskyttet mot mekaniske skader, direkte solvarme, vær og vind. Over sentralen skal det være et tett tak eller deksel av stål. Armatur, rørledninger mv. i sentralen skal være beskyttet med f.eks. deksel av stål, solid netting/gitter e.l. som lett kan åpnes eller fjernes mens utskiftning av flasker mv. i sentralen pågår.
+2. Hvor gassflaskesentralen er plassert på åpent dekk, skal det være et markert skille mellom acetylen- og oksygenflaskene i gassflaskesentralen.
+3. Rørledninger på åpent dekk skal ha en godstykkelse på minst 2,5 mm.
+4. Flere uttaksposter enn 2 godtas.
+5. Uttaksposter på åpent dekk tillates. Uttaksposter på åpent dekk skal være i skap som kan lukkes.
 
 (5) Denne bestemmelsen kommer ikke til anvendelse på skipets ordinære sentralanlegg. For ordinære sentralanlegg gjelder forskriftens øvrige bestemmelser.
 
@@ -284,7 +410,10 @@ Utstyr og installasjoner på nye sentralanlegg skal være i samsvar med følgend
 
 (6) På uttakspostene skal det være slått opp skilt som antyder arbeidstrykket. Det skal også være slått opp skilt som klart uttrykker at ventilene skal være stengt når anlegget ikke er i bruk.
 
-(7) Lavtrykksrør mellom regulatorer og uttaksposter skal males eller merkes slik at det ikke på noe sted er tvil om hvilke gasser rørene fører:Rør for acetylen males/merkes: Rød.Rør for oksygen males/merkes: Blå.
+(7) Lavtrykksrør mellom regulatorer og uttaksposter skal males eller merkes slik at det ikke på noe sted er tvil om hvilke gasser rørene fører:
+
+1. Rør for acetylen males/merkes: Rød.
+2. Rør for oksygen males/merkes: Blå.
 
 (8) Bruksanvisning for sentralanlegg og transportabelt sveiseutstyr skal leveres av utstyrsleverandøren.
 
@@ -318,6 +447,12 @@ Anbefalingene i teknisk spesifikasjon CEI/IEC 62081 (Arc welding equipment – I
 
 (1) Denne forskrift trer i kraft 1. juli 2002.
 
-(2) Fra samme tid oppheves[forskrift av 9. februar 1976 nr. 3801](forskrift/1976-02-09-3801) om elektrisk sveising om bord på skip,[forskrift av 21. mars 1977 nr. 2](forskrift/1977-03-21-2) om sveiseutstyr m.v. for sveisegassene acetylen og oxygen på skip og spesialskip,[forskrift av 17. juni 1986 nr. 1294](forskrift/1986-06-17-1294) om forholdsregler ved sveising eller annen bruk av åpen flamme m.v. om bord i tankskip i drift,[forskrift av 5. mai 2000 nr. 618](forskrift/2000-05-05-618) om sveiseutstyr mv. for sveisegassene acetylen og oksygen på skip, oginstruks av [17. juni 1986 nr. 3015](forskrift/1986-06-17-3015) for forberedelser til sveising eller varmt arbeid i lastetank.
+(2) Fra samme tid oppheves
+
+1. [forskrift av 9. februar 1976 nr. 3801](forskrift/1976-02-09-3801) om elektrisk sveising om bord på skip,
+2. [forskrift av 21. mars 1977 nr. 2](forskrift/1977-03-21-2) om sveiseutstyr m.v. for sveisegassene acetylen og oxygen på skip og spesialskip,
+3. [forskrift av 17. juni 1986 nr. 1294](forskrift/1986-06-17-1294) om forholdsregler ved sveising eller annen bruk av åpen flamme m.v. om bord i tankskip i drift,
+4. [forskrift av 5. mai 2000 nr. 618](forskrift/2000-05-05-618) om sveiseutstyr mv. for sveisegassene acetylen og oksygen på skip, og
+5. instruks av [17. juni 1986 nr. 3015](forskrift/1986-06-17-3015) for forberedelser til sveising eller varmt arbeid i lastetank.
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007, tidligere § 27).

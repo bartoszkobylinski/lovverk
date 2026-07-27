@@ -15,7 +15,7 @@ xml_hash: "97c52deec7584bbd9d6b02bc4d1483a0331fc3354a52fe13cb8e15b4ef98ba68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,11 +36,29 @@ I [§ 5-5 nr. 1](forskrift/1990-01-25-92/§5-5/nummer/1) gjøres følgende endri
 
 [§ 5-5 nr. 1 bokstav f](forskrift/1990-01-25-92/§5-5/nummer/1/bokstav/f) pkt. 4 skal lyde:
 
-- For tømmervogntog med lengde over 19,50 meter og totalvekt over 50 tonn, kan tømmeret maksimalt stikke ut 1,00 meter bak vogntoget.
+- 1. For tømmervogntog med lengde over 19,50 meter og totalvekt over 50 tonn, kan tømmeret maksimalt stikke ut 1,00 meter bak vogntoget.
 
 I [§ 5-5 nr. 3](forskrift/1990-01-25-92/§5-5/nummer/3) gjøres følgende endringer:
 
-1. I tillegg til de vekter som følger av [§ 5-4 nr. 2](forskrift/1990-01-25-92/§5-4/nummer/2) og [3](forskrift/1990-01-25-92/§5-4/nummer/3), gjelder følgende for vogntog med tillatt totalvekt over 50 tonn etter denne paragraf:Tillatt totalvekt for vogntog som angitt i denne paragraf nr. 1, 2, 7 og 10.*Minsteavstand**Avstand fra første til siste aksel i meter**Totalvekt i tonn*3,00–3,69 mMindre enn 16,00Som for Bk10/5016,00 eller større50Vogntog bestående av lastebil med slepvogn og modulvogntog bestående av motorvogn med dolly og semitrailer, og øvrige modulvogntog uavhengig av minsteavstander15,60 eller mindre5015,61–16,005116,01–16,205216,21–16,605316,61–17,005417,01–17,405517,41–17,805617,81–18,205718,21–18,605818,61–18,995919,00 eller større60
+1. I tillegg til de vekter som følger av [§ 5-4 nr. 2](forskrift/1990-01-25-92/§5-4/nummer/2) og [3](forskrift/1990-01-25-92/§5-4/nummer/3), gjelder følgende for vogntog med tillatt totalvekt over 50 tonn etter denne paragraf:
+
+   1. Tillatt totalvekt for vogntog som angitt i denne paragraf nr. 1, 2, 7 og 10.
+
+      | *Minsteavstand* | *Avstand fra første til siste aksel i meter* | *Totalvekt i tonn* |
+      | --- | --- | --- |
+      | 3,00–3,69 m | Mindre enn 16,00 | Som for Bk10/50 |
+      | 16,00 eller større | 50 |  |
+      | Vogntog bestående av lastebil med slepvogn og modulvogntog bestående av motorvogn med dolly og semitrailer, og øvrige modulvogntog uavhengig av minsteavstander | 15,60 eller mindre | 50 |
+      | 15,61–16,00 | 51 |  |
+      | 16,01–16,20 | 52 |  |
+      | 16,21–16,60 | 53 |  |
+      | 16,61–17,00 | 54 |  |
+      | 17,01–17,40 | 55 |  |
+      | 17,41–17,80 | 56 |  |
+      | 17,81–18,20 | 57 |  |
+      | 18,21–18,60 | 58 |  |
+      | 18,61–18,99 | 59 |  |
+      | 19,00 eller større | 60 |  |
 
 Bokstav b overskrift skal lyde:
 
@@ -56,7 +74,23 @@ Nr. 7 bokstav e oppheves.
 
 [§ 5-5](forskrift/1990-01-25-92/§5-5) ny nr. 10 skal lyde:
 
-1. Særlige bestemmelse om totalvekt over 50 tonn for vogntog med lengder i henhold til [§ 5-4 nr. 4](forskrift/1990-01-25-92/§5-4/nummer/4)På veg som i vegliste for tømmertransport er angitt som Bk10/60 med tillatt vogntoglengde 19,50, 22,00 eller 24,00 meter, tillates totalvekt over 50 tonn for vogntog bestående av motorvogn N2 N3 og slepvogn O3 og O4 med lengder i henhold til [§ 5-4 nr. 4](forskrift/1990-01-25-92/§5-4/nummer/4).Totalvekt som angitt i nr. 3 bokstav a tillates inntil følgende grenser:Vogntog med 6 aksler, 54 tonnVogntog med 7 aksler, 55 tonnFor vogntog hvor motorvognen er et biogassdrevet kjøretøy, tillates totalvekt som angitt i nr. 3 bokstav a inntil følgende grenser:Vogntog med 6 aksler, 55 tonnVogntog med 7 aksler, 56 tonnFor vogntog med 6 eller 7 aksler hvor motorvognen er et nullutslippskjøretøy som definert i [§ 5-2 bokstav l](forskrift/1990-01-25-92/§5-2/bokstav/l), tillates totalvekt som angitt i nr. 3 bokstav a inntil 56 tonnTillatt totalvekt for motorvogn som inngår i vogntog med tillatt totalvekt over 50 tonn:Biogassdrevet motorvogn med 3 aksler, 27 tonnNullutslippskjøretøy som definert i [§ 5-2 bokstav l](forskrift/1990-01-25-92/§5-2/bokstav/l) med 3 aksler, 28 tonnVogntoget skal i alle henseender samsvare med tillatte kjøretøy- og vogntoglengder i [§ 5-4 nr. 4 bokstav a](forskrift/1990-01-25-92/§5-4/nummer/4/bokstav/a) tabell 4, sporingskrav i [§ 5-4 nr. 4 bokstav b](forskrift/1990-01-25-92/§5-4/nummer/4/bokstav/b) pkt. 1 første ledd og lastlengder i [§ 5-4 nr. 4 bokstav b](forskrift/1990-01-25-92/§5-4/nummer/4/bokstav/b) pkt. 4 og 5.
+1. Særlige bestemmelse om totalvekt over 50 tonn for vogntog med lengder i henhold til [§ 5-4 nr. 4](forskrift/1990-01-25-92/§5-4/nummer/4)
+
+   1. På veg som i vegliste for tømmertransport er angitt som Bk10/60 med tillatt vogntoglengde 19,50, 22,00 eller 24,00 meter, tillates totalvekt over 50 tonn for vogntog bestående av motorvogn N2 N3 og slepvogn O3 og O4 med lengder i henhold til [§ 5-4 nr. 4](forskrift/1990-01-25-92/§5-4/nummer/4).
+   2. Totalvekt som angitt i nr. 3 bokstav a tillates inntil følgende grenser:
+
+      1. Vogntog med 6 aksler, 54 tonn
+      2. Vogntog med 7 aksler, 55 tonn
+   3. For vogntog hvor motorvognen er et biogassdrevet kjøretøy, tillates totalvekt som angitt i nr. 3 bokstav a inntil følgende grenser:
+
+      1. Vogntog med 6 aksler, 55 tonn
+      2. Vogntog med 7 aksler, 56 tonn
+   4. For vogntog med 6 eller 7 aksler hvor motorvognen er et nullutslippskjøretøy som definert i [§ 5-2 bokstav l](forskrift/1990-01-25-92/§5-2/bokstav/l), tillates totalvekt som angitt i nr. 3 bokstav a inntil 56 tonn
+   5. Tillatt totalvekt for motorvogn som inngår i vogntog med tillatt totalvekt over 50 tonn:
+
+      1. Biogassdrevet motorvogn med 3 aksler, 27 tonn
+      2. Nullutslippskjøretøy som definert i [§ 5-2 bokstav l](forskrift/1990-01-25-92/§5-2/bokstav/l) med 3 aksler, 28 tonn
+   6. Vogntoget skal i alle henseender samsvare med tillatte kjøretøy- og vogntoglengder i [§ 5-4 nr. 4 bokstav a](forskrift/1990-01-25-92/§5-4/nummer/4/bokstav/a) tabell 4, sporingskrav i [§ 5-4 nr. 4 bokstav b](forskrift/1990-01-25-92/§5-4/nummer/4/bokstav/b) pkt. 1 første ledd og lastlengder i [§ 5-4 nr. 4 bokstav b](forskrift/1990-01-25-92/§5-4/nummer/4/bokstav/b) pkt. 4 og 5.
 
 ## II
 

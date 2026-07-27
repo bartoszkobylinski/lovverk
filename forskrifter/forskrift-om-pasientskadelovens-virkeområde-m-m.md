@@ -15,7 +15,7 @@ xml_hash: "d656b1c4933b9c8e5239aff48169e0b01d8c487f4976dff2806df8d44cc97383"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,13 @@ Bestemmelsene gjelder ikke for helsepersonell med utenlandsk autorisasjon eller 
 
 ## § 3. Definisjoner
 
-Med offentlig helse- og omsorgstjeneste menes i denne forskriften:statlig, fylkeskommunal, kommunal helse- og omsorgstjeneste, herunder helsehjelp som ytes på offentlige utdanningsinstitusjonerden del av privat tjenesteyters virksomhet som finansieres gjennom avtale med staten, regionale helseforetak, helseforetak, fylkeskommune eller kommune om driftstilskudd eller kjøp av helse- og omsorgstjenesterhelse- og omsorgstjenester som mottas i utlandet i medhold av pasient- og [brukerrettighetsloven § 2-1](lov/1999-07-02-63/§2-1) fjerde eller femte ledd eller etter annet oppdrag fra norske myndigheter, og som det offentlige helt eller delvis bekoster, herunder behandlingsreiserøyeblikkelig hjelp som ytes utenfor virksomhet dersom det foreligger plikt til å yte helsehjelpen etter [helsepersonelloven § 7](lov/1999-07-02-64/§7)helsetjeneste som omfattes av fritt behandlingsvalg etter [spesialisthelsetjenesteloven § 4-3](lov/1999-07-02-61/§4-3).
+Med offentlig helse- og omsorgstjeneste menes i denne forskriften:
+
+1. statlig, fylkeskommunal, kommunal helse- og omsorgstjeneste, herunder helsehjelp som ytes på offentlige utdanningsinstitusjoner
+2. den del av privat tjenesteyters virksomhet som finansieres gjennom avtale med staten, regionale helseforetak, helseforetak, fylkeskommune eller kommune om driftstilskudd eller kjøp av helse- og omsorgstjenester
+3. helse- og omsorgstjenester som mottas i utlandet i medhold av pasient- og [brukerrettighetsloven § 2-1](lov/1999-07-02-63/§2-1) fjerde eller femte ledd eller etter annet oppdrag fra norske myndigheter, og som det offentlige helt eller delvis bekoster, herunder behandlingsreiser
+4. øyeblikkelig hjelp som ytes utenfor virksomhet dersom det foreligger plikt til å yte helsehjelpen etter [helsepersonelloven § 7](lov/1999-07-02-64/§7)
+5. helsetjeneste som omfattes av fritt behandlingsvalg etter [spesialisthelsetjenesteloven § 4-3](lov/1999-07-02-61/§4-3).
 
 Med virksomhet som yter helsehjelp utenfor den offentlige helse- og omsorgstjenesten, menes enhver privat virksomhet der det ytes helsehjelp som omtalt i [pasientskadeloven § 1](lov/2001-06-15-53/§1) annet ledd, uansett hvordan virksomheten er organisert og uansett ansvars- og eierform.
 

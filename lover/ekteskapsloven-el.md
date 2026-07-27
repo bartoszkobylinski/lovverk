@@ -16,7 +16,7 @@ xml_hash: "8a02db518f9cbe2b1ddf1b02b469f36a2b96f144e89a37b99c234d68f6fdff7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -91,7 +91,26 @@ Prøvingen foretas av folkeregistermyndigheten eller av norsk utenrikstjenestean
 
 ### § 7. Bevis for at ekteskapsvilkårene er oppfylt.
 
-Til bruk for prøvingen av om ekteskapvilkårene er oppfylt, skal brudefolkene skaffe følgende bevis:Hver av dem skal legge fram fødselsattest fra folkeregistermyndigheten når prøvingen ikke foretas av folkeregistermyndigheten. Er det vanskelig å skaffe slik attest innen rimelig tid, kan annet tilfredsstillende bevis for navn og alder godtas.(Opphevet)Er noen av brudefolkene satt under vergemål og det faller innenfor vergens oppdrag å samtykke til ekteskap, skal det godtgjøres at det er gitt samtykke eller tillatelse til ekteskapet etter [§ 2](lov/1991-07-04-47/§2) første punktum, jf. andre punktum.Brudefolkene skal begge erklære skriftlig på ære og samvittighet at de ikke er så nær beslektet som nevnt i [§ 3](lov/1991-07-04-47/§3). Ved ekteskap mellom personer nevnt i [§ 3 første ledd andre punktum](lov/1991-07-04-47/§3/ledd/1/setning/2) eller mellom adoptivbarn og en av de opprinnelige adoptivforeldrene eller dennes slektning, skal brudefolkene i tilfelle legge fram tillatelse av statsforvalteren som nevnt i [§ 3 første ledd tredje punktum](lov/1991-07-04-47/§3/ledd/1/setning/3) eller andre ledd andre punktum.Hver av brudefolkene skal erklære skriftlig på ære og samvittighet om han eller hun har inngått ekteskap eller registrert partnerskap tidligere, eller om han eller hun sitter i uskiftet bo etter en tidligere samboer etter [arveloven § 32](lov/2019-06-14-21/§32). I tilfelle skal det legges fram bevis for at det tidligere ekteskapet eller det registrerte partnerskapet er opphørt ved død eller ved skilsmisse, eller oppløst etter [§ 24](lov/1991-07-04-47/§24).Bevis for at den tidligere ektefellen eller den registrerte partneren er død, føres som regel ved attest fra en innenlandsk eller utenlandsk offentlig myndighet. Kan slik attest ikke skaffes, kan partene legge sine opplysninger og bevis fram for vedkommende tingrettsdommer, jf. [arveloven § 84](lov/2019-06-14-21/§84) første ledd. Hører skiftet ikke under norsk tingrett, kan spørsmålet bringes inn for tingrettsdommeren på det stedet der ekteskapsvilkårene prøves. Retten avgjør ved kjennelse om bevisene skal godtas. Kjennelsen kan ankes av den som avgjørelsen går mot. Er bevisene godtatt, skal retten gi melding til statsforvalteren, som kan anke kjennelsen.Bevis for at ekteskapet eller det registrerte partnerskapet er opphørt ved skilsmisse eller oppløst etter [§ 24](lov/1991-07-04-47/§24), føres ved å legge fram bevillingen eller dommen med attest for at den er endelig. Hvorvidt en utenlandsk skilsmisse skal legges til grunn ved inngåelse av ekteskap her i landet, avgjøres av departementet etter reglene i [lov 2. juni 1978 nr. 38 § 4](lov/1978-06-02-38/§4).Hver av brudefolkene skal erklære skriftlig på ære og samvittighet om han eller hun lider av en smittefarlig sykdom som kan overføres ved seksuell omgang. I tilfelle skal det godtgjøres at den andre parten er gjort kjent med sykdommen, og at begge parter har fått veiledning av lege om farene ved sykdommen.Hver av brudefolkene skal erklære skriftlig på ære og samvittighet om han eller hun har eller venter barn med noen annen eller har adoptivbarn. Opplysningsplikten gjelder ikke barn som er adoptert bort.En utenlandsk statsborger som ikke er fast bosatt i Norge, skal legge fram dokumentasjon fra myndighetene i sitt hjemland om at det ikke er noe til hinder for at han eller hun inngår ekteskap i Norge, eller dersom slik dokumentasjon ikke kan legges fram, dokumentasjon som viser at han eller hun ikke er registrert som gift eller registrert partner i sitt hjemland. Folkeregistermyndigheten eller norsk utenrikstjenesteansatt kan gjøre unntak fra kravet i første punktum når særlige grunner taler for det. Departementet gir forskrift om når en utenlandsk statsborger skal anses for å være fast bosatt i Norge.Har noen av brudefolkene svart bekreftende på spørsmål som nevnt i bokstav e, f eller g, skal det godtgjøres at den andre av brudefolkene er gjort kjent med dette.Hver av brudefolkene skal stille en forlover som skal erklære på ære og samvittighet at han eller hun kjenner parten, og opplyse om parten tidligere har inngått ekteskap eller registrert partnerskap og om brudefolkene er beslektet slik som nevnt i [§ 3](lov/1991-07-04-47/§3).Forloverne må være myndige. I særlige tilfeller kan statsforvalteren gi samtykke til at ekteskap blir inngått uten forlovere, eller at det bare er én forlover for begge partene.Utenlandsk statsborger som skal inngå ekteskap i Norge, må legge fram dokumentasjon som viser at vedkommende har lovlig opphold i riket.Hver av brudefolkene skal hver for seg erklære på ære og samvittighet at ekteskapet blir inngått av egen fri vilje, og at de anerkjenner hverandres like rett til skilsmisse.
+Til bruk for prøvingen av om ekteskapvilkårene er oppfylt, skal brudefolkene skaffe følgende bevis:
+
+1. Hver av dem skal legge fram fødselsattest fra folkeregistermyndigheten når prøvingen ikke foretas av folkeregistermyndigheten. Er det vanskelig å skaffe slik attest innen rimelig tid, kan annet tilfredsstillende bevis for navn og alder godtas.
+2. (Opphevet)
+3. Er noen av brudefolkene satt under vergemål og det faller innenfor vergens oppdrag å samtykke til ekteskap, skal det godtgjøres at det er gitt samtykke eller tillatelse til ekteskapet etter [§ 2](lov/1991-07-04-47/§2) første punktum, jf. andre punktum.
+4. Brudefolkene skal begge erklære skriftlig på ære og samvittighet at de ikke er så nær beslektet som nevnt i [§ 3](lov/1991-07-04-47/§3). Ved ekteskap mellom personer nevnt i [§ 3 første ledd andre punktum](lov/1991-07-04-47/§3/ledd/1/setning/2) eller mellom adoptivbarn og en av de opprinnelige adoptivforeldrene eller dennes slektning, skal brudefolkene i tilfelle legge fram tillatelse av statsforvalteren som nevnt i [§ 3 første ledd tredje punktum](lov/1991-07-04-47/§3/ledd/1/setning/3) eller andre ledd andre punktum.
+5. Hver av brudefolkene skal erklære skriftlig på ære og samvittighet om han eller hun har inngått ekteskap eller registrert partnerskap tidligere, eller om han eller hun sitter i uskiftet bo etter en tidligere samboer etter [arveloven § 32](lov/2019-06-14-21/§32). I tilfelle skal det legges fram bevis for at det tidligere ekteskapet eller det registrerte partnerskapet er opphørt ved død eller ved skilsmisse, eller oppløst etter [§ 24](lov/1991-07-04-47/§24).
+
+   Bevis for at den tidligere ektefellen eller den registrerte partneren er død, føres som regel ved attest fra en innenlandsk eller utenlandsk offentlig myndighet. Kan slik attest ikke skaffes, kan partene legge sine opplysninger og bevis fram for vedkommende tingrettsdommer, jf. [arveloven § 84](lov/2019-06-14-21/§84) første ledd. Hører skiftet ikke under norsk tingrett, kan spørsmålet bringes inn for tingrettsdommeren på det stedet der ekteskapsvilkårene prøves. Retten avgjør ved kjennelse om bevisene skal godtas. Kjennelsen kan ankes av den som avgjørelsen går mot. Er bevisene godtatt, skal retten gi melding til statsforvalteren, som kan anke kjennelsen.
+
+   Bevis for at ekteskapet eller det registrerte partnerskapet er opphørt ved skilsmisse eller oppløst etter [§ 24](lov/1991-07-04-47/§24), føres ved å legge fram bevillingen eller dommen med attest for at den er endelig. Hvorvidt en utenlandsk skilsmisse skal legges til grunn ved inngåelse av ekteskap her i landet, avgjøres av departementet etter reglene i [lov 2. juni 1978 nr. 38 § 4](lov/1978-06-02-38/§4).
+6. Hver av brudefolkene skal erklære skriftlig på ære og samvittighet om han eller hun lider av en smittefarlig sykdom som kan overføres ved seksuell omgang. I tilfelle skal det godtgjøres at den andre parten er gjort kjent med sykdommen, og at begge parter har fått veiledning av lege om farene ved sykdommen.
+7. Hver av brudefolkene skal erklære skriftlig på ære og samvittighet om han eller hun har eller venter barn med noen annen eller har adoptivbarn. Opplysningsplikten gjelder ikke barn som er adoptert bort.
+8. En utenlandsk statsborger som ikke er fast bosatt i Norge, skal legge fram dokumentasjon fra myndighetene i sitt hjemland om at det ikke er noe til hinder for at han eller hun inngår ekteskap i Norge, eller dersom slik dokumentasjon ikke kan legges fram, dokumentasjon som viser at han eller hun ikke er registrert som gift eller registrert partner i sitt hjemland. Folkeregistermyndigheten eller norsk utenrikstjenesteansatt kan gjøre unntak fra kravet i første punktum når særlige grunner taler for det. Departementet gir forskrift om når en utenlandsk statsborger skal anses for å være fast bosatt i Norge.
+9. Har noen av brudefolkene svart bekreftende på spørsmål som nevnt i bokstav e, f eller g, skal det godtgjøres at den andre av brudefolkene er gjort kjent med dette.
+10. Hver av brudefolkene skal stille en forlover som skal erklære på ære og samvittighet at han eller hun kjenner parten, og opplyse om parten tidligere har inngått ekteskap eller registrert partnerskap og om brudefolkene er beslektet slik som nevnt i [§ 3](lov/1991-07-04-47/§3).
+
+    Forloverne må være myndige. I særlige tilfeller kan statsforvalteren gi samtykke til at ekteskap blir inngått uten forlovere, eller at det bare er én forlover for begge partene.
+11. Utenlandsk statsborger som skal inngå ekteskap i Norge, må legge fram dokumentasjon som viser at vedkommende har lovlig opphold i riket.
+12. Hver av brudefolkene skal hver for seg erklære på ære og samvittighet at ekteskapet blir inngått av egen fri vilje, og at de anerkjenner hverandres like rett til skilsmisse.
 
 > Endret ved [lover 30 apr 1993 nr. 40](lov/1993-04-30-40), [24 juni 1994 nr. 24](lov/1994-06-24-24) (ikr. 1 jan 1995), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [4 juli 2003 nr. 72](lov/2003-07-04-72), [19 des 2003 nr. 119](lov/2003-12-19-119) (ikr. 1 okt 2004 iflg. [res. 19 des 2003 nr. 1762](forskrift/2003-12-19-1762)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [29 juni 2007 nr. 56](lov/2007-06-29-56) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1370](forskrift/2007-12-07-1370)), [27 juni 2008 nr. 53](lov/2008-06-27-53) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 745](forskrift/2008-06-27-745)), [19 des 2008 nr. 112](lov/2008-12-19-112) (ikr. 1 juli 2009 iflg. [res. 19 des 2008 nr. 1528](forskrift/2008-12-19-1528)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12), [18 sep 2015 nr. 92](lov/2015-09-18-92) (ikr. 1 jan 2016 iflg. [res. 18 sep 2015 nr. 1057](forskrift/2015-09-18-1057)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [11 juni 2021 nr. 63](lov/2021-06-11-63) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1867](forskrift/2021-06-11-1867)), [16 juni 2023 nr. 34](lov/2023-06-16-34) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 944](forskrift/2023-06-16-944)), [25 juni 2024 nr. 57](lov/2024-06-25-57) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3302](forskrift/2024-12-20-3302)).
 
@@ -135,7 +154,13 @@ Minst to vitner skal være til stede under vigselen.
 
 ### § 12. Vigslere
 
-Vigslere er:prester i Den norske kirke og personer som i medhold av trossamfunnsloven er tildelt vigselsrett, når Kongen har godkjent formen for inngåelse av ekteskap.ordførere, varaordførere og kommunalt ansatte eller folkevalgte som kommunestyret selv gir slik myndighet.utsendt utenrikstjenesteansatt, jf. [utenrikstjenesteloven § 14](lov/2015-02-13-9/§14).sysselmesteren på Svalbard. Sysselmesteren kan delegere vigselsmyndigheten til ansatte hos Sysselmesteren.særskilt vigsler oppnevnt av departementet i tilfeller der det er behov for det på grunn av lange avstander eller av andre grunner. Oppnevningen gjelder for fire år.
+Vigslere er:
+
+1. prester i Den norske kirke og personer som i medhold av trossamfunnsloven er tildelt vigselsrett, når Kongen har godkjent formen for inngåelse av ekteskap.
+2. ordførere, varaordførere og kommunalt ansatte eller folkevalgte som kommunestyret selv gir slik myndighet.
+3. utsendt utenrikstjenesteansatt, jf. [utenrikstjenesteloven § 14](lov/2015-02-13-9/§14).
+4. sysselmesteren på Svalbard. Sysselmesteren kan delegere vigselsmyndigheten til ansatte hos Sysselmesteren.
+5. særskilt vigsler oppnevnt av departementet i tilfeller der det er behov for det på grunn av lange avstander eller av andre grunner. Oppnevningen gjelder for fire år.
 
 > Endret ved lover [3 mai 2002 nr. 13](lov/2002-05-03-13) (ikr. 1 sep 2002 iflg. res. 3 mai 2002), [19 des 2003 nr. 119](lov/2003-12-19-119) (ikr. 1 okt 2004 iflg. [res. 19 des 2003 nr. 1762](forskrift/2003-12-19-1762)), [17 juni 2016 nr. 27](lov/2016-06-17-27), [16 juni 2017 nr. 66](lov/2017-06-16-66) (ikr. 1 jan 2018 iflg. [res. 1 sep 2017 nr. 1328](forskrift/2017-09-01-1328)), [24 april 2020 nr. 31](lov/2020-04-24-31) (ikr. 1 jan 2021 iflg. [res. 24 april 2020 nr. 855](forskrift/2020-04-24-855)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021), [16 juni 2023 nr. 34](lov/2023-06-16-34) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 944](forskrift/2023-06-16-944)).
 
@@ -213,7 +238,12 @@ Et ekteskap anerkjennes likevel ikke dersom dette åpenbart ville virke støtend
 
 ### § 18 b. Anerkjennelse av visse ekteskap for parter med tilknytning til Norge på vigselstidspunktet
 
-Et ekteskap som er gyldig inngått etter utenlandsk rett, anerkjennes ikke her i riket dersom minst en av partene var norsk statsborger eller fast bosatt her i riket på vigselstidspunktet, og et eller flere av følgende forhold foreligger:ekteskapet ble inngått uten at begge parter var til stede under vigselen,en av partene var under 18 år,en av partene allerede var gift,partene er søskenbarn eller nærmere slektninger enn søskenbarn.
+Et ekteskap som er gyldig inngått etter utenlandsk rett, anerkjennes ikke her i riket dersom minst en av partene var norsk statsborger eller fast bosatt her i riket på vigselstidspunktet, og et eller flere av følgende forhold foreligger:
+
+1. ekteskapet ble inngått uten at begge parter var til stede under vigselen,
+2. en av partene var under 18 år,
+3. en av partene allerede var gift,
+4. partene er søskenbarn eller nærmere slektninger enn søskenbarn.
 
 Ekteskap etter første ledd bokstav d skal likevel anerkjennes der dette er påkrevd etter [EØS-avtalen](lov/1992-11-27-109/eøsl). Departementet kan gi forskrift om anerkjennelse etter første punktum.
 
@@ -285,7 +315,10 @@ Har bevillingsvedtaket vært gjenstand for klage, regnes ikke vedtaket som endel
 
 ### § 25 a. Virkeområde
 
-Reglene i dette kapitlet kommer til anvendelse i saker:om separasjon og skilsmisse som reises for statsforvalteren, ellerom et ekteskap består eller ikke består, om oppløsning av ekteskap og om separasjon som reises for domstolene (ekteskapssak).
+Reglene i dette kapitlet kommer til anvendelse i saker:
+
+1. om separasjon og skilsmisse som reises for statsforvalteren, eller
+2. om et ekteskap består eller ikke består, om oppløsning av ekteskap og om separasjon som reises for domstolene (ekteskapssak).
 
 > Tilføyd ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), endret ved [lov 4 sep 2015 nr. 85](lov/2015-09-04-85) (ikr. 1 juli 2016 iflg. [res. 4 mars 2016 nr. 217](forskrift/2016-03-04-217)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
@@ -309,7 +342,13 @@ Departementet kan gi nærmere regler om meklingens innhold, og om innkallingen o
 
 Meklere som arbeider innenfor rammen av denne loven skal i sitt arbeid være oppmerksomme på forhold som kan føre til tiltak fra barnevernstjenesten.
 
-Meklere som arbeider innenfor rammen av denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet oppholdnår det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved andre utpreget skadelige handlinger,når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+Meklere som arbeider innenfor rammen av denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold
+
+1. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,
+2. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,
+3. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,
+4. når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved andre utpreget skadelige handlinger,
+5. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
 
 Meklere som arbeider innenfor rammen av denne loven, plikter også å gi opplysninger etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
 
@@ -319,7 +358,11 @@ Meklere som arbeider innenfor rammen av denne loven, plikter også å gi opplysn
 
 Separasjon og skilsmisse gis av statsforvalteren når ikke annet følger av andre eller tredje ledd.
 
-Avgjørelsen treffes av en domstol:når saken gjelder oppløsning av ekteskap etter [§ 23](lov/1991-07-04-47/§23) eller [§ 24](lov/1991-07-04-47/§24)når saken gjelder skilsmisse etter [§ 22](lov/1991-07-04-47/§22), og partene ikke er enige om at vilkårene er oppfyltnår sak om separasjon eller skilsmisse blir reist av vergen etter [§ 28](lov/1991-07-04-47/§28).
+Avgjørelsen treffes av en domstol:
+
+1. når saken gjelder oppløsning av ekteskap etter [§ 23](lov/1991-07-04-47/§23) eller [§ 24](lov/1991-07-04-47/§24)
+2. når saken gjelder skilsmisse etter [§ 22](lov/1991-07-04-47/§22), og partene ikke er enige om at vilkårene er oppfylt
+3. når sak om separasjon eller skilsmisse blir reist av vergen etter [§ 28](lov/1991-07-04-47/§28).
 
 Separasjon etter [§ 20](lov/1991-07-04-47/§20) og skilsmisse etter [§ 22](lov/1991-07-04-47/§22) avgjøres også av en domstol når kravet blir reist i en sak om skilsmisse som er brakt inn for retten på et annet grunnlag, eller i forbindelse med en sak om spørsmål etter loven her eller spørsmål etter barneloven om felles barn, som har sammenheng med kravet om separasjon eller skilsmisse.
 
@@ -371,7 +414,14 @@ I saker som anlegges for å få dom for at et ekteskap består eller ikke bestå
 
 ### § 30 b. Når ekteskapssak kan anlegges i Norge
 
-Dersom ikke annet er fastsatt ved overenskomst med fremmed stat, kan ekteskapssak reises ved norsk domstol:når saksøkte har bopel i riket, ellernår saksøkeren har bopel i riket og enten har bodd her de siste to år eller tidligere har hatt bopel her, ellernår saksøkeren er norsk statsborger og det godtgjøres at hun eller han på grunn av sitt statsborgerskap ikke vil kunne reise sak i det land hvor vedkommende har bopel, ellernår begge ektefeller er norske statsborgere og saksøkte ikke motsetter seg at saken reises for norsk domstol, ellernår det blir søkt om skilsmisse på grunnlag av separasjon som er meddelt her i riket, i løpet av de fem foregående år, ellernår ekteskap er inngått her i landet, og det godtgjøres at saksøkeren ikke vil kunne reise sak i det landet han eller hun er statsborger eller har bopel.
+Dersom ikke annet er fastsatt ved overenskomst med fremmed stat, kan ekteskapssak reises ved norsk domstol:
+
+1. når saksøkte har bopel i riket, eller
+2. når saksøkeren har bopel i riket og enten har bodd her de siste to år eller tidligere har hatt bopel her, eller
+3. når saksøkeren er norsk statsborger og det godtgjøres at hun eller han på grunn av sitt statsborgerskap ikke vil kunne reise sak i det land hvor vedkommende har bopel, eller
+4. når begge ektefeller er norske statsborgere og saksøkte ikke motsetter seg at saken reises for norsk domstol, eller
+5. når det blir søkt om skilsmisse på grunnlag av separasjon som er meddelt her i riket, i løpet av de fem foregående år, eller
+6. når ekteskap er inngått her i landet, og det godtgjøres at saksøkeren ikke vil kunne reise sak i det landet han eller hun er statsborger eller har bopel.
 
 > Tilføyd ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), endret ved [lov 27 juni 2008 nr. 53](lov/2008-06-27-53) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 745](forskrift/2008-06-27-745)).
 
@@ -387,7 +437,12 @@ Blir saken reist av statsforvalteren, kan den anlegges i den rettskretsen hvor e
 
 ### § 30 d. Inndragning av andre krav i en ekteskapssak
 
-I ekteskapssak kan også behandles:spørsmål om bidrag,spørsmål etter barnelova om felles barn,spørsmål etter ekteskapslovens øvrige bestemmelser med mindre det er begjært offentlig skifte, ogkrav som er en følge av søksmålet.
+I ekteskapssak kan også behandles:
+
+1. spørsmål om bidrag,
+2. spørsmål etter barnelova om felles barn,
+3. spørsmål etter ekteskapslovens øvrige bestemmelser med mindre det er begjært offentlig skifte, og
+4. krav som er en følge av søksmålet.
 
 Hvis ikke spørsmål som nevnt i første ledd bokstav a og b er trukket inn i saken, skal retten av eget tiltak undersøke om partene er uenige om slike spørsmål, og i tilfelle treffe avgjørelse i saken. Det gjelder likevel ikke hvis partene er enige om å holde spørsmålet utenfor, eller den ene parten uteblir, og den møtende ønsker å holde spørsmålet utenfor, eller hvis en av partene er bosatt utenfor riket.
 
@@ -395,7 +450,11 @@ Når spørsmål etter barnelova om felles barn trekkes inn i saken etter første
 
 Ellers kan en ekteskapssak bare forenes med sivile tvister om andre rettsforhold så langt vilkårene i [tvisteloven § 15-1](lov/2005-06-17-90/§15-1) er til stede, og kun i den utstrekning retten tillater det.
 
-For spørsmål som bringes inn i saken etter første ledd bokstav a og c, gjelder [§ 30 b](lov/1991-07-04-47/§30b) om norske domstolers kompetanse og [§ 30 c](lov/1991-07-04-47/§30c) om verneting tilsvarende. For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder [§ 30 c](lov/1991-07-04-47/§30c) om verneting tilsvarende. For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder [barnelova § 82](lov/1981-04-08-7/§82) om norske domstolers kompetanse tilsvarende, med mindre noe annet følger av overenskomst med annen stat. Med mindre noe annet følger av overenskomst med annen stat, har norske domstoler også kompetanse til å behandle spørsmål etter første ledd bokstav b dersom:en av barnets foreldre har vanlig bosted her i landet,en av dem har foreldreansvar for barnet ogdet er til barnets beste at spørsmål etter barnelova behandles.
+For spørsmål som bringes inn i saken etter første ledd bokstav a og c, gjelder [§ 30 b](lov/1991-07-04-47/§30b) om norske domstolers kompetanse og [§ 30 c](lov/1991-07-04-47/§30c) om verneting tilsvarende. For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder [§ 30 c](lov/1991-07-04-47/§30c) om verneting tilsvarende. For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder [barnelova § 82](lov/1981-04-08-7/§82) om norske domstolers kompetanse tilsvarende, med mindre noe annet følger av overenskomst med annen stat. Med mindre noe annet følger av overenskomst med annen stat, har norske domstoler også kompetanse til å behandle spørsmål etter første ledd bokstav b dersom:
+
+1. en av barnets foreldre har vanlig bosted her i landet,
+2. en av dem har foreldreansvar for barnet og
+3. det er til barnets beste at spørsmål etter barnelova behandles.
 
 > Tilføyd ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), endret ved [lov 4 sep 2015 nr. 85](lov/2015-09-04-85) (ikr. 1 juli 2016 iflg. [res. 4 mars 2016 nr. 217](forskrift/2016-03-04-217)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
 
@@ -431,7 +490,10 @@ Ved vurderingen av hvem som har ervervet eiendeler som har tjent til ektefellene
 
 ### § 32. Råderetten over felles bolig.
 
-En ektefelle kan ikke uten skriftlig samtykke fra den andre ektefellen:Overdra, pantsette, forpakte bort, eller inngå eller si opp en leie- eller framleieavtale for en eiendom som brukes som felles bolig.Overdra, pantsette en andel, aksje eller obligasjon som leieretten til felles bolig er knyttet til.
+En ektefelle kan ikke uten skriftlig samtykke fra den andre ektefellen:
+
+1. Overdra, pantsette, forpakte bort, eller inngå eller si opp en leie- eller framleieavtale for en eiendom som brukes som felles bolig.
+2. Overdra, pantsette en andel, aksje eller obligasjon som leieretten til felles bolig er knyttet til.
 
 Dersom samtykke blir nektet eller ikke kan skaffes innen rimelig tid, kan ektefellen eller den andre parten i avtalen kreve at tingretten avgjør spørsmålet om disposisjonen skal tillates. Tillatelse skal gis hvis retten finner at det ikke foreligger rimelig grunn for den andre ektefellen til å nekte samtykke. Avgjørelsen treffes ved kjennelse. Bestemmelsene i [arveloven kapittel 17](lov/2019-06-14-21/kap17) avsnitt V får tilsvarende anvendelse.
 
@@ -601,7 +663,13 @@ Er ektefellene i en situasjon som nevnt i [§ 57](lov/1991-07-04-47/§57), deles
 
 ### § 57. Når deling skal skje.
 
-En ektefelle kan kreve deling av ektefellenes samlede formue som er felleseie i følgende tilfeller:Når det er gitt bevilling til eller avsagt dom for separasjon eller skilsmisse.Når ektefellene har avtalt ved ektepakt at deling skal skje.Dersom den andre ektefellen har vanskjøttet sine økonomiske forhold slik at det har ført til alvorlig fare for at familien vil miste det felles hjemmet. Dersom ektefellen er mindreårig eller fratatt rettslig handleevne på det økonomiske området, må vergen samtykke. Kravet avgjøres ved dom av den tingretten som delingen hører under. Reglene om behandling av skiftetvister gjelder så langt de passer. En dom om deling skal tinglyses etter reglene for ektepakter.Når det foreligger endelig dom for at ekteskapet er ugyldig.Når det foreligger endelig dom for at ekteskapet skal oppløses i medhold av [§ 24](lov/1991-07-04-47/§24) første eller andre ledd.
+En ektefelle kan kreve deling av ektefellenes samlede formue som er felleseie i følgende tilfeller:
+
+1. Når det er gitt bevilling til eller avsagt dom for separasjon eller skilsmisse.
+2. Når ektefellene har avtalt ved ektepakt at deling skal skje.
+3. Dersom den andre ektefellen har vanskjøttet sine økonomiske forhold slik at det har ført til alvorlig fare for at familien vil miste det felles hjemmet. Dersom ektefellen er mindreårig eller fratatt rettslig handleevne på det økonomiske området, må vergen samtykke. Kravet avgjøres ved dom av den tingretten som delingen hører under. Reglene om behandling av skiftetvister gjelder så langt de passer. En dom om deling skal tinglyses etter reglene for ektepakter.
+4. Når det foreligger endelig dom for at ekteskapet er ugyldig.
+5. Når det foreligger endelig dom for at ekteskapet skal oppløses i medhold av [§ 24](lov/1991-07-04-47/§24) første eller andre ledd.
 
 Er en ektefelle død etter at vilkårene for å kreve deling etter bokstav a eller b foreligger, eller etter at det foreligger endelig avgjørelse etter bokstav c, d eller e, kan ektefellens arvinger kreve delingen gjennomført. I slike tilfeller kan også en ektefelles kreditor kreve delingen gjennomført dersom det er nødvendig for at han eller hun skal få dekning.
 
@@ -613,7 +681,11 @@ Ektefellenes samlede formuer skal som utgangspunkt deles likt etter at det er gj
 
 En ektefelle som bare har formue som er felleseie, og som ikke holder midler utenfor delingen etter [§ 59](lov/1991-07-04-47/§59), kan i sin del fullt ut gjøre fradrag for den gjelden han eller hun har.
 
-En ektefelle som har særeie, eller som holder midler utenfor delingen etter [§ 59](lov/1991-07-04-47/§59), kan gjøre følgende fradrag for gjeld i formue som er felleseie:Gjeld som ektefellen har pådratt seg ved erverv eller påkostninger av eiendeler som er felleseie, kan det kreves fullt fradrag for hvis ikke noe annet følger av bokstav b.Gjeld som ektefellen har pådratt seg ved erverv eller påkostninger av eiendeler som er særeie eller verdier som holdes utenfor delingen etter [§ 59](lov/1991-07-04-47/§59), kan det bare kreves fradrag for når den totale verdien av særeie og skjevdelingsmidlene ikke er stor nok til å dekke gjelden. Tilsvarende gjelder gjeld som ektefellen har pådratt seg ved erverv eller påkostninger av eiendeler som er unntatt fra deling etter [§ 61](lov/1991-07-04-47/§61) bokstav b eller c, eller ved utilbørlig atferd i forhold til den andre ektefellen.For annen gjeld kan det kreves fradrag for en forholdsmessig del.
+En ektefelle som har særeie, eller som holder midler utenfor delingen etter [§ 59](lov/1991-07-04-47/§59), kan gjøre følgende fradrag for gjeld i formue som er felleseie:
+
+1. Gjeld som ektefellen har pådratt seg ved erverv eller påkostninger av eiendeler som er felleseie, kan det kreves fullt fradrag for hvis ikke noe annet følger av bokstav b.
+2. Gjeld som ektefellen har pådratt seg ved erverv eller påkostninger av eiendeler som er særeie eller verdier som holdes utenfor delingen etter [§ 59](lov/1991-07-04-47/§59), kan det bare kreves fradrag for når den totale verdien av særeie og skjevdelingsmidlene ikke er stor nok til å dekke gjelden. Tilsvarende gjelder gjeld som ektefellen har pådratt seg ved erverv eller påkostninger av eiendeler som er unntatt fra deling etter [§ 61](lov/1991-07-04-47/§61) bokstav b eller c, eller ved utilbørlig atferd i forhold til den andre ektefellen.
+3. For annen gjeld kan det kreves fradrag for en forholdsmessig del.
 
 ### § 59. Skjevdeling.
 
@@ -627,7 +699,12 @@ Er samlivet gjenopptatt etter separasjon, og deling har funnet sted, skal formue
 
 ### § 60. Skjæringstidspunktet for erverv, avkastning og gjeld som omfattes av oppgjøret.
 
-Det som skal deles, er den formuen hver ektefelle haddeda begjæring om separasjon eller skilsmisse kom inn til statsforvalteren eller stevning med krav om separasjon eller skilsmisse kom inn til retten, eller da samlivet ble brutt dersom dette skjedde først,da ektefellene avtalte deling etter [§ 57](lov/1991-07-04-47/§57) bokstav b,da krav om deling etter [§ 57](lov/1991-07-04-47/§57) bokstav c kom inn til retten, ellerda stevning med krav som nevnt i [§ 57](lov/1991-07-04-47/§57) første ledd bokstav d eller e kom inn til retten.
+Det som skal deles, er den formuen hver ektefelle hadde
+
+1. da begjæring om separasjon eller skilsmisse kom inn til statsforvalteren eller stevning med krav om separasjon eller skilsmisse kom inn til retten, eller da samlivet ble brutt dersom dette skjedde først,
+2. da ektefellene avtalte deling etter [§ 57](lov/1991-07-04-47/§57) bokstav b,
+3. da krav om deling etter [§ 57](lov/1991-07-04-47/§57) bokstav c kom inn til retten, eller
+4. da stevning med krav som nevnt i [§ 57](lov/1991-07-04-47/§57) første ledd bokstav d eller e kom inn til retten.
 
 Avkastning av midler som en ektefelle helt eller delvis var eier av, og som blir opptjent etter de tidspunktene som er nevnt i bokstavene a til d, skal ikke deles.
 
@@ -637,7 +714,13 @@ En ektefelle kan ikke kreve fradrag for gjeld ektefellen har pådratt seg etter 
 
 ### § 61. Særskilte unntak fra delingen.
 
-Følgende eiendeler kan en ektefelle holde utenfor delingen:Eiendeler som utelukkende tjener til ektefellens personlige bruk, hvis det ikke vil være åpenbart urimelig å holde eiendelene utenfor delingen. På samme vilkår kan en ektefelle ta ut familiebilder og familiepapirer som kommer fra hans eller hennes slekt.Rettigheter i offentlige trygdeordninger, offentlige eller private pensjonsordninger, og krav etter en livrente eller livsforsikring som ikke har gjenkjøpsverdi som ektefellen eller ektefellene i fellesskap kan realisere. Hvis en ektefelles uttak fører til at den andre ektefellen blir urimelig dårlig stilt, kan han eller hun tilkjennes et beløp for å hindre dette. Ved vurderingen av om det skal tilkjennes kompensasjon, skal det blant annet legges vekt på om ekteskapet har vært langvarig. Det kan bestemmes at beløpet skal betales i avdrag.Andre eiendeler og rettigheter som ikke kan overdras eller som er av personlig karakter. Hvis en ektefelles uttak fører til at den andre ektefellen blir urimelig dårlig stilt, kan han eller hun tilkjennes et beløp for å hindre dette. Ved vurderingen av om det skal tilkjennes kompensasjon, skal det blant annet legges vekt på om ekteskapet har vært langvarig. Det kan bestemmes at beløpet skal betales i avdrag.Den beholdne verdien av erstatning, trygd eller forsikring som dekker tap i fremtidig erverv og utgifter som en personskade antas å påføre skadelidte i fremtiden, samt den beholdne verdien av ménerstatning, yrkesskadeerstatning og oppreisning. Utbetaling fra arbeidsgiveren i forbindelse med oppsigelse eller førtidspensjonering kan holdes utenfor på samme vilkår. Skyldes det den andre ektefellens innsats at ytelsene ikke er forbrukt, skal det beløpet som kan holdes utenfor delingen, settes ned i den utstrekning det er rimelig på grunn av verdien av den andre ektefellens innsats.Eiendeler som er ervervet til særskilt bruk for barna. Slike eiendeler kan kreves uttatt av den ektefellen som får omsorgen for barna.
+Følgende eiendeler kan en ektefelle holde utenfor delingen:
+
+1. Eiendeler som utelukkende tjener til ektefellens personlige bruk, hvis det ikke vil være åpenbart urimelig å holde eiendelene utenfor delingen. På samme vilkår kan en ektefelle ta ut familiebilder og familiepapirer som kommer fra hans eller hennes slekt.
+2. Rettigheter i offentlige trygdeordninger, offentlige eller private pensjonsordninger, og krav etter en livrente eller livsforsikring som ikke har gjenkjøpsverdi som ektefellen eller ektefellene i fellesskap kan realisere. Hvis en ektefelles uttak fører til at den andre ektefellen blir urimelig dårlig stilt, kan han eller hun tilkjennes et beløp for å hindre dette. Ved vurderingen av om det skal tilkjennes kompensasjon, skal det blant annet legges vekt på om ekteskapet har vært langvarig. Det kan bestemmes at beløpet skal betales i avdrag.
+3. Andre eiendeler og rettigheter som ikke kan overdras eller som er av personlig karakter. Hvis en ektefelles uttak fører til at den andre ektefellen blir urimelig dårlig stilt, kan han eller hun tilkjennes et beløp for å hindre dette. Ved vurderingen av om det skal tilkjennes kompensasjon, skal det blant annet legges vekt på om ekteskapet har vært langvarig. Det kan bestemmes at beløpet skal betales i avdrag.
+4. Den beholdne verdien av erstatning, trygd eller forsikring som dekker tap i fremtidig erverv og utgifter som en personskade antas å påføre skadelidte i fremtiden, samt den beholdne verdien av ménerstatning, yrkesskadeerstatning og oppreisning. Utbetaling fra arbeidsgiveren i forbindelse med oppsigelse eller førtidspensjonering kan holdes utenfor på samme vilkår. Skyldes det den andre ektefellens innsats at ytelsene ikke er forbrukt, skal det beløpet som kan holdes utenfor delingen, settes ned i den utstrekning det er rimelig på grunn av verdien av den andre ektefellens innsats.
+5. Eiendeler som er ervervet til særskilt bruk for barna. Slike eiendeler kan kreves uttatt av den ektefellen som får omsorgen for barna.
 
 > Endret ved [lov 5 juni 1998 nr. 34](lov/1998-06-05-34) (ikr. 1 juli 1998 iflg. [res. 5 juni 1998 nr. 570](forskrift/1998-06-05-570), slik at regelen om kompensasjon i bokstav b annet til fjerde punktum ikke gjelder når skjæringstidspunktet etter [§ 60](lov/1991-07-04-47/§60) er før endringsloven trer ikr.).
 
@@ -677,7 +760,12 @@ En ektefelle kan alltid kreve å overta eiendom som han eller hun vil kunne løs
 
 ### § 67. Særregler om felles bolig og innbo.
 
-Når særlige grunner taler for det, kan en ektefelle uten hensyn til tidligere eierforhold kreve å overta:fast eiendom eller andel av fast eiendom som utelukkende eller hovedsakelig har tjent til felles bolig, hvis ikke den andre har odelsrett til eiendommen, eller den er ervervet fra hans eller hennes slekt ved arv eller gave,andel eller aksje i boligselskap eller obligasjon som ektefellenes rett til leie av felles bolig har vært knyttet til,leiekontrakt om retten til den felles bolig, ellervanlig innbo i det felles hjemmet.
+Når særlige grunner taler for det, kan en ektefelle uten hensyn til tidligere eierforhold kreve å overta:
+
+1. fast eiendom eller andel av fast eiendom som utelukkende eller hovedsakelig har tjent til felles bolig, hvis ikke den andre har odelsrett til eiendommen, eller den er ervervet fra hans eller hennes slekt ved arv eller gave,
+2. andel eller aksje i boligselskap eller obligasjon som ektefellenes rett til leie av felles bolig har vært knyttet til,
+3. leiekontrakt om retten til den felles bolig, eller
+4. vanlig innbo i det felles hjemmet.
 
 Ved vurderingen skal det legges vekt på ektefellenes og barnas behov.
 
@@ -751,7 +839,11 @@ Når den ene ektefellen er død, deles ektefellenes formue mellom lengstlevende 
 
 Når ektefellenes formue skal deles mellom den gjenlevende ektefellen og avdødes arvinger, gjelder reglene i [kapittel 12](lov/1991-07-04-47/kap12) og [§§ 46](lov/1991-07-04-47/§46) andre ledd og [72](lov/1991-07-04-47/§72) tilsvarende. Skjevdeling etter [§ 59](lov/1991-07-04-47/§59) kan likevel ikke kreves ved skifte av et uskiftet bo.
 
-Arvingene etter den førstavdøde kan heller ikke kreve:forlodds uttak etter [§ 61](lov/1991-07-04-47/§61) bokstavene a, c og d,vederlag etter [§ 63](lov/1991-07-04-47/§63) ellerlempning etter [§§ 46](lov/1991-07-04-47/§46) andre ledd eller [65](lov/1991-07-04-47/§65).
+Arvingene etter den førstavdøde kan heller ikke kreve:
+
+1. forlodds uttak etter [§ 61](lov/1991-07-04-47/§61) bokstavene a, c og d,
+2. vederlag etter [§ 63](lov/1991-07-04-47/§63) eller
+3. lempning etter [§§ 46](lov/1991-07-04-47/§46) andre ledd eller [65](lov/1991-07-04-47/§65).
 
 Om forholdet ellers mellom den gjenlevende ektefellen og avdødes arvinger, herunder om retten til å overta eiendeler ved delingen, gjelder reglene i [arveloven](lov/2019-06-14-21).
 
@@ -901,7 +993,14 @@ Hvis det ikke åpnes offentlig skifte etter [§ 96](lov/1991-07-04-47/§96), gje
 
 ### § 96. Åpning av offentlig skifte
 
-Har ektefellene formue som er felleseie, skal det åpnes offentlig skiftehvis en ektefelle krever det,hvis det kreves av en arving eller kreditor som har rett til å kreve deling etter [§ 57](lov/1991-07-04-47/§57),hvis en ektefelle er fratatt rettslig handleevne, med mindre vergen skriftlig samtykker i at boet skiftes privat,hvis en ektefelle er fraværende utenfor riket eller hans eller hennes oppholdssted ikke er kjent.Krav etter første punktum bokstav a og b kan fremmes inntil bindende avtale om oppgjøret er inngått mellom ektefellene.
+Har ektefellene formue som er felleseie, skal det åpnes offentlig skifte
+
+1. hvis en ektefelle krever det,
+2. hvis det kreves av en arving eller kreditor som har rett til å kreve deling etter [§ 57](lov/1991-07-04-47/§57),
+3. hvis en ektefelle er fratatt rettslig handleevne, med mindre vergen skriftlig samtykker i at boet skiftes privat,
+4. hvis en ektefelle er fraværende utenfor riket eller hans eller hennes oppholdssted ikke er kjent.
+
+Krav etter første punktum bokstav a og b kan fremmes inntil bindende avtale om oppgjøret er inngått mellom ektefellene.
 
 Har ektefellene fullstendig særeie, skal det åpnes offentlig skifte hvis begge ektefellene krever det. Ektefellene må kreve offentlig skifte innen to år etter at ekteskapet ble oppløst, jf. [§ 25](lov/1991-07-04-47/§25).
 
@@ -913,7 +1012,13 @@ Det kan ikke åpnes offentlig skifte hvis det ikke stilles fullgod sikkerhet for
 
 Hvis ikke noe annet er fastsatt ved overenskomst med fremmed stat, kan det kreves skiftebehandling i Norge når en av ektefellene har sitt vanlige bosted her. Hvis ingen av ektefellene har sitt vanlige bosted her, men minst en av dem har en annen klar tilknytning til Norge, kan det skiftes her hvis ektefellene i fellesskap begjærer det og skiftemyndigheten finner det hensiktsmessig. Skiftebehandling for norsk skiftemyndighet gjennomføres etter norsk lov.
 
-Skiftebehandling foretas ved norsk domstol i den rettskretsender ektefellene hadde sitt siste felles bosted hvis noen av dem ved skiftets åpning bor i rettskretsen,der en av dem bor, hvis de ikke har hatt felles bosted i riket, eller ingen av dem bor i den rettskretsen der de hadde sitt siste felles bosted,der en av dem oppholder seg, hvis ingen av dem har bosted i riket,der en fast eiendom som omfattes av skiftet, ligger, og ektefellene ikke har hatt felles bosted i riket,der ektefellene har avtalt at skiftet skal behandles, forutsatt at avtalen er inngått etter at tvisten har oppstått.
+Skiftebehandling foretas ved norsk domstol i den rettskretsen
+
+1. der ektefellene hadde sitt siste felles bosted hvis noen av dem ved skiftets åpning bor i rettskretsen,
+2. der en av dem bor, hvis de ikke har hatt felles bosted i riket, eller ingen av dem bor i den rettskretsen der de hadde sitt siste felles bosted,
+3. der en av dem oppholder seg, hvis ingen av dem har bosted i riket,
+4. der en fast eiendom som omfattes av skiftet, ligger, og ektefellene ikke har hatt felles bosted i riket,
+5. der ektefellene har avtalt at skiftet skal behandles, forutsatt at avtalen er inngått etter at tvisten har oppstått.
 
 Er mer enn én tingrett kompetent til å gjennomføre skiftet, foretas det ved den tingretten som først mottar skiftebegjæring.
 
@@ -951,7 +1056,12 @@ Offentlig skifte etter [§ 96](lov/1991-07-04-47/§96) første ledd omfatter eie
 
 Offentlig skifte etter [§ 96](lov/1991-07-04-47/§96) annet ledd omfatter begge ektefellenes særeiemidler.
 
-Under offentlig skifte kan tingretten, hvis en av ektefellene krever det, også behandle:rett til bidrag etter [kapittel 16](lov/1991-07-04-47/kap16),spørsmål om gyldigheten av en ektepakt og hva som hører til en ektefelles særeie, og spørsmål om tolkingen av ektepakten og om den helt eller delvis skal settes til side, jf. [§ 46](lov/1991-07-04-47/§46) annet ledd,spørsmål om bruksrett til felles bolig og leien for slik bruksrett etter [§ 68](lov/1991-07-04-47/§68),andre krav som er nødvendige for gjennomføringen av skiftet.
+Under offentlig skifte kan tingretten, hvis en av ektefellene krever det, også behandle:
+
+1. rett til bidrag etter [kapittel 16](lov/1991-07-04-47/kap16),
+2. spørsmål om gyldigheten av en ektepakt og hva som hører til en ektefelles særeie, og spørsmål om tolkingen av ektepakten og om den helt eller delvis skal settes til side, jf. [§ 46](lov/1991-07-04-47/§46) annet ledd,
+3. spørsmål om bruksrett til felles bolig og leien for slik bruksrett etter [§ 68](lov/1991-07-04-47/§68),
+4. andre krav som er nødvendige for gjennomføringen av skiftet.
 
 > Tilføyd ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
 

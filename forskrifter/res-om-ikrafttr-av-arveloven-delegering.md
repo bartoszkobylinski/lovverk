@@ -28,7 +28,10 @@ I henhold til [lov 3. mars 1972 nr. 5](lov/1972-03-03-5) om arv m.m. [§ 77](lov
 
 ## II.
 
-Kongens myndighet etter loven delegeres til Justis- og politidepartementet for så vidt angår:Kongens myndighet etter § 4 første ledds annet punktum, jfr. tredje punktum, til å bestemme i det enkelte tilfelle at farskap til barn født utenom ekteskap som er fastslått eller vedgått i samsvar med utenlandsk lov, skal gi grunnlag for arverett etter norsk lov.Kongens myndighet til å konfirmere testamenter og arvepakter og tilbakekall av testamenter etter lovens § 32 første ledd, jfr. § tredje ledd, § 33 første ledd, § 34 første ledd, § 38 annet ledd, jfr. § 56 annet ledd, § 57 første ledd og § 73 femte ledd. Det samme gjelder Kongens myndighet til å oppheve påbud i testament etter § 32 femte ledd.
+Kongens myndighet etter loven delegeres til Justis- og politidepartementet for så vidt angår:
+
+1. Kongens myndighet etter § 4 første ledds annet punktum, jfr. tredje punktum, til å bestemme i det enkelte tilfelle at farskap til barn født utenom ekteskap som er fastslått eller vedgått i samsvar med utenlandsk lov, skal gi grunnlag for arverett etter norsk lov.
+2. Kongens myndighet til å konfirmere testamenter og arvepakter og tilbakekall av testamenter etter lovens § 32 første ledd, jfr. § tredje ledd, § 33 første ledd, § 34 første ledd, § 38 annet ledd, jfr. § 56 annet ledd, § 57 første ledd og § 73 femte ledd. Det samme gjelder Kongens myndighet til å oppheve påbud i testament etter § 32 femte ledd.
 
 ## III.
 

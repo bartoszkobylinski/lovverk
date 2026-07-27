@@ -15,7 +15,7 @@ xml_hash: "81192194248c6bdedc7d428a50a64f22f6cfee8d0433771f21366b2bc071ce81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,12 @@ Med norske rettshåndhevende myndigheter forstås i denne forskriften domstolene
 
 ### § 3. Oversendelse mv.
 
-Rettsanmodninger fra utlandet kan bare etterkommes etter direkte fremsendelse til norske rettshåndhevende myndigheter i den grad det er adgang til dette i medhold av overenskomst med vedkommende stat, herunder i den utstrekning det følger av:Den europeiske konvensjon om gjensidig hjelp i straffesaker 20. april 1959 nr. 1 artikkel 15,Annen tilleggsprotokoll til Den europeiske konvensjon om gjensidig hjelp i straffesaker artikkel 4,Konvensjon av 29. mai 2000 om gjensidig hjelp i straffesaker mellom Den europeiske unions medlemsstater artikkel 6 ellerNordisk overenskomst 26. april 1974 nr. 1 artikkel 1.
+Rettsanmodninger fra utlandet kan bare etterkommes etter direkte fremsendelse til norske rettshåndhevende myndigheter i den grad det er adgang til dette i medhold av overenskomst med vedkommende stat, herunder i den utstrekning det følger av:
+
+1. Den europeiske konvensjon om gjensidig hjelp i straffesaker 20. april 1959 nr. 1 artikkel 15,
+2. Annen tilleggsprotokoll til Den europeiske konvensjon om gjensidig hjelp i straffesaker artikkel 4,
+3. Konvensjon av 29. mai 2000 om gjensidig hjelp i straffesaker mellom Den europeiske unions medlemsstater artikkel 6 eller
+4. Nordisk overenskomst 26. april 1974 nr. 1 artikkel 1.
 
 I andre tilfeller kan rettsanmodninger bare etterkommes når de er fremsendt via Justis- og beredskapsdepartementet.
 
@@ -88,7 +93,12 @@ Dersom anmodningen helt eller delvis ikke etterkommes skal anmodende myndighet u
 
 ### § 10. Oversendelse
 
-Rettsanmodninger skal oversendes direkte til kompetent myndighet i utlandet i den grad det er adgang til dette etter overenskomst med vedkommende stat, herunder i den utstrekning det følger av:Den europeiske konvensjon om gjensidig hjelp i straffesaker 20. april 1959 nr. 1 artikkel 15,Annen tilleggsprotokoll til Den europeiske konvensjon om gjensidig hjelp i straffesaker artikkel 4,Konvensjon av 29. mai 2000 om gjensidig hjelp i straffesaker mellom Den europeiske unions medlemsstater artikkel 6, ellerNordisk overenskomst 26. april 1974 nr. 1 artikkel 1.
+Rettsanmodninger skal oversendes direkte til kompetent myndighet i utlandet i den grad det er adgang til dette etter overenskomst med vedkommende stat, herunder i den utstrekning det følger av:
+
+1. Den europeiske konvensjon om gjensidig hjelp i straffesaker 20. april 1959 nr. 1 artikkel 15,
+2. Annen tilleggsprotokoll til Den europeiske konvensjon om gjensidig hjelp i straffesaker artikkel 4,
+3. Konvensjon av 29. mai 2000 om gjensidig hjelp i straffesaker mellom Den europeiske unions medlemsstater artikkel 6, eller
+4. Nordisk overenskomst 26. april 1974 nr. 1 artikkel 1.
 
 Hastesaker som etter overenskomst med fremmed stat kan fremsendes via Interpol, sendes via Kripos.
 
@@ -108,9 +118,22 @@ Rettsanmodninger til fremmed stat som fremmes av påtalemyndigheten utferdiges a
 
 ### § 13. Utforming av rettsanmodninger
 
-Rettsanmodning til fremmed stat om forkynning av dokumenter skal så vidt mulig inneholde opplysninger om:hvilken myndighet som fremsetter anmodningen,den bistand som ønskes,eventuelle konvensjoner eller avtaler som regulerer forholdet, med en angivelse av de bestemmelser som eventuelt forplikter mottaker til å gjennomføre anmodningen,hva dokumentene som skal forkynnes gjelder, samtnavn og fullstendig adresse til personen dokumentene skal forkynnes for.
+Rettsanmodning til fremmed stat om forkynning av dokumenter skal så vidt mulig inneholde opplysninger om:
 
-Rettsanmodning om bevisopptak skal i tillegg til opplysningene i bokstavene a) til c) så vidt mulig inneholde informasjon om:personalia, statsborgerskap og adresse på den person som straffesaken i Norge gjelder,bakgrunnen for anmodningen,det straffbare forholdet og grunnlaget for dette,ved bistand til avhør: personalia, statsborgerskap og adresse til personen som skal avhøres, samt en nærmere beskrivelse av hva vedkommende ønskes avhørt om,relevante straffe- og straffeprosessuelle bestemmelser ogkontaktperson i Norge, med kontaktopplysninger.
+1. hvilken myndighet som fremsetter anmodningen,
+2. den bistand som ønskes,
+3. eventuelle konvensjoner eller avtaler som regulerer forholdet, med en angivelse av de bestemmelser som eventuelt forplikter mottaker til å gjennomføre anmodningen,
+4. hva dokumentene som skal forkynnes gjelder, samt
+5. navn og fullstendig adresse til personen dokumentene skal forkynnes for.
+
+Rettsanmodning om bevisopptak skal i tillegg til opplysningene i bokstavene a) til c) så vidt mulig inneholde informasjon om:
+
+1. personalia, statsborgerskap og adresse på den person som straffesaken i Norge gjelder,
+2. bakgrunnen for anmodningen,
+3. det straffbare forholdet og grunnlaget for dette,
+4. ved bistand til avhør: personalia, statsborgerskap og adresse til personen som skal avhøres, samt en nærmere beskrivelse av hva vedkommende ønskes avhørt om,
+5. relevante straffe- og straffeprosessuelle bestemmelser og
+6. kontaktperson i Norge, med kontaktopplysninger.
 
 For anmodninger som involverer bruk av tvangsmidler skal det vedlegges beslutning om bruk av slikt tvangsmiddel fra kompetent norsk myndighet.
 
@@ -152,7 +175,16 @@ Tingretten innkaller den person som skal avgi forklaring i samsvar med reglene i
 
 Dommeren som er til stede under avhøret skal sørge for å kontrollere identiteten til den som skal avhøres. Dommeren skal videre sørge for at [straffeprosessloven § 117](lov/1981-05-22-25/§117) – [§ 127](lov/1981-05-22-25/§127) blir overholdt.
 
-Det skal føres rettsbok som skal inneholde opplysninger om:tid og sted for avhøret,den avhørte persons identitet,identiteten til alle de øvrige personer som har deltatt i avhøret i Norge og den egenskap de har deltatt i,eventuelle avgitte forsikringer eller tilsvarende,de tekniske omstendigheter avhøret fant sted under, ogeventuelle andre opplysninger som det særskilt anmodes om at protokolleres.De forklaringer som avgis protokolleres ikke med mindre den anmodende myndighet begjærer dette eller det foreligger andre særlige grunner. Utskrift av rettsboken oversendes anmodende myndighet så snart som mulig etter at avhøret er gjennomført.
+Det skal føres rettsbok som skal inneholde opplysninger om:
+
+1. tid og sted for avhøret,
+2. den avhørte persons identitet,
+3. identiteten til alle de øvrige personer som har deltatt i avhøret i Norge og den egenskap de har deltatt i,
+4. eventuelle avgitte forsikringer eller tilsvarende,
+5. de tekniske omstendigheter avhøret fant sted under, og
+6. eventuelle andre opplysninger som det særskilt anmodes om at protokolleres.
+
+De forklaringer som avgis protokolleres ikke med mindre den anmodende myndighet begjærer dette eller det foreligger andre særlige grunner. Utskrift av rettsboken oversendes anmodende myndighet så snart som mulig etter at avhøret er gjennomført.
 
 ### § 19. Tolk
 
@@ -182,7 +214,15 @@ Rettslig hjelp til kommunikasjonskontroll skjer ved umiddelbar overføring. Ved 
 
 Dersom umiddelbar overføring ikke er mulig og dette ikke skyldes forhold hos den anmodende stat, skal anmodningen gjennomføres ved opptak og påfølgende overføring fra tilbyder til den anmodende stat.
 
-Anmodning om rettslig hjelp til kommunikasjonskontroll som nevnt i første ledd skal inneholde følgende:opplysning om hvilken myndighet som fremsetter anmodningen,bekreftelse på at det foreligger en lovmessig beslutning om kommunikasjonskontroll i forbindelse med etterforskningen av en straffesak,opplysninger som gjør det mulig å identifisere den som skal kontrolleres,angivelse av den straffbare handling som er under etterforskning,den ønskede varigheten av kommunikasjonskontrollen,om mulig, tekniske data, især det relevante nummeret for tilslutning til nettet, ogen kortfattet redegjørelse for sakens omstendigheter.
+Anmodning om rettslig hjelp til kommunikasjonskontroll som nevnt i første ledd skal inneholde følgende:
+
+1. opplysning om hvilken myndighet som fremsetter anmodningen,
+2. bekreftelse på at det foreligger en lovmessig beslutning om kommunikasjonskontroll i forbindelse med etterforskningen av en straffesak,
+3. opplysninger som gjør det mulig å identifisere den som skal kontrolleres,
+4. angivelse av den straffbare handling som er under etterforskning,
+5. den ønskede varigheten av kommunikasjonskontrollen,
+6. om mulig, tekniske data, især det relevante nummeret for tilslutning til nettet, og
+7. en kortfattet redegjørelse for sakens omstendigheter.
 
 [§ 7](forskrift/2012-12-14-1227/§7) og [§ 8](forskrift/2012-12-14-1227/§8) første og annet ledd gjelder tilsvarende.
 
@@ -210,7 +250,10 @@ Dersom politiet har tillatelse til å foreta kommunikasjonskontroll i Norge, kan
 
 Ved kommunikasjonskontroll uten teknisk bistand av personer som har en elektronisk kommunikasjonsadresse som benyttes i Norge, skal vedkommende stat varsle norske myndigheter.
 
-Varsel skal gisforut for kommunikasjonskontrollen i tilfeller der den som foretar kontrollen er kjent med at den som kontrollen er rettet mot befinner seg i Norge ellerumiddelbart etter at den som foretar kontrollen er kjent med at den kontrollen gjelder befinner seg i Norge.
+Varsel skal gis
+
+1. forut for kommunikasjonskontrollen i tilfeller der den som foretar kontrollen er kjent med at den som kontrollen er rettet mot befinner seg i Norge eller
+2. umiddelbart etter at den som foretar kontrollen er kjent med at den kontrollen gjelder befinner seg i Norge.
 
 Varsel om kommunikasjonskontroll etter denne bestemmelsen skal inneholde de opplysninger som følger av [§ 23](forskrift/2012-12-14-1227/§23) tredje ledd bokstav a, b og c. I tillegg skal varsel angi den forventede varigheten av kommunikasjonskontrollen og den straffbare handling som er under etterforskning.
 
@@ -236,7 +279,10 @@ For øvrig gjelder [forskrift 31. mars 1995 nr. 281](forskrift/1995-03-31-281) o
 
 ### § 30. Anmodning fra fremmed stat om informasjon om bankkonti og transaksjoner samt overvåkning av transaksjoner
 
-Utenlandsk myndighet kan anmode om bistand til innhenting av bankopplysninger vedrørende en person som er under etterforskning i en straffesak i vedkommende stat, herunderinformasjon om hvorvidt vedkommende er innehaver av, kontrollerer eller disponerer en eller flere bankkonti i Norge,nærmere opplysninger om spesifiserte bankkonti samt banktransaksjoner som er foretatt i et bestemt tidsrom, herunder utførlige opplysninger om avsender- eller mottakerkonti.
+Utenlandsk myndighet kan anmode om bistand til innhenting av bankopplysninger vedrørende en person som er under etterforskning i en straffesak i vedkommende stat, herunder
+
+1. informasjon om hvorvidt vedkommende er innehaver av, kontrollerer eller disponerer en eller flere bankkonti i Norge,
+2. nærmere opplysninger om spesifiserte bankkonti samt banktransaksjoner som er foretatt i et bestemt tidsrom, herunder utførlige opplysninger om avsender- eller mottakerkonti.
 
 En anmodning i medhold av protokoll av 16. oktober 2001 til konvensjonen om gjensidig hjelp i straffesaker mellom Den europeiske unions medlemsstater, skal angi hvorfor den anmodende myndighet mener det er sannsynlig at den informasjonen det er anmodet om har betydning for straffeforfølgningen av den straffbare handlingen. En slik anmodning skal også oppgi hvorfor det antas at banken i Norge har de relevante konti samt angi all tilgjengelig informasjon som kan forenkle behandlingen av anmodningen.
 

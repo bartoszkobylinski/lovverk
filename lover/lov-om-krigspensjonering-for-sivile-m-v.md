@@ -15,7 +15,7 @@ xml_hash: "2c3446ef064596f460acf6be893ae7019ef455ff0337e954481cbaf1b141bc90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,9 +26,17 @@ eu_basis: []
 
 ### § 1
 
-1\. Norsk statsborger som ikke kommer inn under loven om krigspensjonering for militærpersoner og er påført skade ved krigsulykke i riket eller er påført slik skade på et tidspunkt da han var forhyrt eller i tjeneste på norsk skip eller i fiendtlig politisk fangenskap, har rett til ytelser etter denne lov. Det samme gjelder etterlatte etter person som nevnt, som er død som følge av slik skade.Arbeids- og velferdsdirektoratet kan i særlige tilfelle tilstå ytelser helt eller delvis etter denne lov også til norske statsborgere i utlandet eller på utenlandske skip og til personer her i riket eller på norsk skip, selv om de ikke har norsk statsborgerrett.
+1\. Norsk statsborger som ikke kommer inn under loven om krigspensjonering for militærpersoner og er påført skade ved krigsulykke i riket eller er påført slik skade på et tidspunkt da han var forhyrt eller i tjeneste på norsk skip eller i fiendtlig politisk fangenskap, har rett til ytelser etter denne lov. Det samme gjelder etterlatte etter person som nevnt, som er død som følge av slik skade.
 
-2\. Den som antas å ha gjort seg skyldig i forhold som rammes av bestemmelsene i [straffeloven kapittel 17](lov/2005-05-20-28/kap17), [§ 184](lov/2005-05-20-28/§184) eller av krigsartiklene i den [militære straffelov,](lov/1902-05-22-13) skal nektes ytelser etter denne lov for seg og sine etterlatte. Det samme gjelder den som antas å ha gjort seg skyldig i forhold som rammes av de gjeldende straffebestemmelser for landssvik.Arbeids- og velferdsdirektoratet kan helt eller delvis gjøre unntak fra regelen i første ledd når særlige grunner foreligger.Arbeids- og velferdsdirektoratet kan også bestemme at ytelser etter denne lov helt eller delvis skal nektes den som på annen måte antas å ha gjort seg skyldig i grovt uverdig forhold, og hans etterlatte.Reglene i denne paragraf om nekting av ytelser gjelder tilsvarende for ektefelle, barn eller forsørget som ville vært berettiget til ytelse etter denne lov.
+Arbeids- og velferdsdirektoratet kan i særlige tilfelle tilstå ytelser helt eller delvis etter denne lov også til norske statsborgere i utlandet eller på utenlandske skip og til personer her i riket eller på norsk skip, selv om de ikke har norsk statsborgerrett.
+
+2\. Den som antas å ha gjort seg skyldig i forhold som rammes av bestemmelsene i [straffeloven kapittel 17](lov/2005-05-20-28/kap17), [§ 184](lov/2005-05-20-28/§184) eller av krigsartiklene i den [militære straffelov,](lov/1902-05-22-13) skal nektes ytelser etter denne lov for seg og sine etterlatte. Det samme gjelder den som antas å ha gjort seg skyldig i forhold som rammes av de gjeldende straffebestemmelser for landssvik.
+
+Arbeids- og velferdsdirektoratet kan helt eller delvis gjøre unntak fra regelen i første ledd når særlige grunner foreligger.
+
+Arbeids- og velferdsdirektoratet kan også bestemme at ytelser etter denne lov helt eller delvis skal nektes den som på annen måte antas å ha gjort seg skyldig i grovt uverdig forhold, og hans etterlatte.
+
+Reglene i denne paragraf om nekting av ytelser gjelder tilsvarende for ektefelle, barn eller forsørget som ville vært berettiget til ytelse etter denne lov.
 
 3\. Vedtak som Arbeids- og velferdsdirektoratet treffer etter denne paragraf, kan påklages til departementet.
 
@@ -42,7 +50,18 @@ Når det finnes rimelig kan det også for andre skader som er påført en person
 
 ### § 3
 
-De personer denne lov gjelder inndeles i tre grupper:Gruppe 1.Personer som har stått i hjemmestyrkene eller for øvrig tatt aktiv del i patriotisk arbeid eller som har vært antatt til tjeneste av norsk eller alliert militærmakt, eller tvangsmessig tatt til tjeneste av annen militærmakt, det sivile luftverns personale og sanitetspersonell som har stått i godkjente frivillige hjelpeforeningers tjeneste og under tjenesten vært særlig utsatt for krigsulykker.Sjømenn, kystloser, statsloser, losgutter og postfunksjonærer på skip.Gruppe 2.Fiskere og andre sivilpersoner i yrke eller bedrift som antas å ha vært særlig utsatt for krigsulykker.Gruppe 3.Andre sivilpersoner og personer som hører under foran nevnte grupper, når ulykken er uten sammenheng med de nevnte tjeneste- eller arbeidsforhold.
+De personer denne lov gjelder inndeles i tre grupper:
+
+- Gruppe 1.
+
+  1. Personer som har stått i hjemmestyrkene eller for øvrig tatt aktiv del i patriotisk arbeid eller som har vært antatt til tjeneste av norsk eller alliert militærmakt, eller tvangsmessig tatt til tjeneste av annen militærmakt, det sivile luftverns personale og sanitetspersonell som har stått i godkjente frivillige hjelpeforeningers tjeneste og under tjenesten vært særlig utsatt for krigsulykker.
+  2. Sjømenn, kystloser, statsloser, losgutter og postfunksjonærer på skip.
+- Gruppe 2.
+
+  Fiskere og andre sivilpersoner i yrke eller bedrift som antas å ha vært særlig utsatt for krigsulykker.
+- Gruppe 3.
+
+  Andre sivilpersoner og personer som hører under foran nevnte grupper, når ulykken er uten sammenheng med de nevnte tjeneste- eller arbeidsforhold.
 
 > Endret ved [lov 16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 
@@ -64,13 +83,25 @@ For politiske fanger tilståes hjelp etter første ledd fra det tidspunkt de sla
 
 ### § 6
 
-1\. Til person som har fylt 18 år ytes sykepenger i form av invalidepensjon beregnet pr. dag etter nr. 3. Ved delvis sykmelding avkortes sykepengene forholdsmessig.Får den skadede full lønn under sykdom, har arbeidsgiveren rett til å kreve sykepengene utbetalt, begrenset til lønnens størrelse, eller til å gjøre et tilsvarende fradrag i lønnen.
+1\. Til person som har fylt 18 år ytes sykepenger i form av invalidepensjon beregnet pr. dag etter nr. 3. Ved delvis sykmelding avkortes sykepengene forholdsmessig.
+
+Får den skadede full lønn under sykdom, har arbeidsgiveren rett til å kreve sykepengene utbetalt, begrenset til lønnens størrelse, eller til å gjøre et tilsvarende fradrag i lønnen.
 
 2\. Når det finnes rimelig, kan det tilstås sykepenger til person under 18 år. Ved fastsetting av sykepenger skal det tas hensyn til vedkommendes alder og til om vedkommende får tillegg etter [§§ 7](lov/1946-12-13-22/§7) og [11](lov/1946-12-13-22/§11) eller pensjon etter [§ 19](lov/1946-12-13-22/§19).
 
 3\. Sykepenger etter nr. 1 beregnes ved at årspensjonen divideres med 312. Ytelsen gis for alle dager unntatt søndager.
 
-4\. Får den skadede fri kur og pleie i institusjon under statlig ansvar, eller i anstalt under kriminalomsorgen, ytes stønad med uforandret beløp til og med den tredje kalendermåneden etter den måneden forpleiningen tok til. Dersom innlegging er for skade eller sykdom som går inn under loven her, ytes full invalidepensjon med eventuelle forsørgingstillegg.Ved forpleining ut over nevnte tidsrom skal det til enslig person utbetales så stor del av nevnte ytelse at denne sammen med eventuelle andre pensjons- og trygdeytelser, svarer til 37 prosent av den fulle invalidepensjon, dog ikke mer enn nevnt i første ledd. For den som forsørger ektefelle og barn, skal slik stønad ut over nevnte tidsrom svare til en fjerdedel av folketrygdens grunnbeløp tillagt familiestønad etter reglene i [§§ 17](lov/1946-12-13-22/§17) og [19](lov/1946-12-13-22/§19), dog ikke mer enn nevnt i første ledd.Bestemmelsene i første og andre ledd gjelder ikke for opphold i somatiske sykehusavdelinger.Kongen kan gi nærmere regler om ytelser under fri kur og pleie etter denne lov.Bestemmelsen i nr. 1 annet ledd gjelder på tilsvarende måte.Bestemmelsen etter annet ledd om full minsteytelse på 37 prosent skal også gjelde ved innleggelse i sykehjem m.v.
+4\. Får den skadede fri kur og pleie i institusjon under statlig ansvar, eller i anstalt under kriminalomsorgen, ytes stønad med uforandret beløp til og med den tredje kalendermåneden etter den måneden forpleiningen tok til. Dersom innlegging er for skade eller sykdom som går inn under loven her, ytes full invalidepensjon med eventuelle forsørgingstillegg.
+
+Ved forpleining ut over nevnte tidsrom skal det til enslig person utbetales så stor del av nevnte ytelse at denne sammen med eventuelle andre pensjons- og trygdeytelser, svarer til 37 prosent av den fulle invalidepensjon, dog ikke mer enn nevnt i første ledd. For den som forsørger ektefelle og barn, skal slik stønad ut over nevnte tidsrom svare til en fjerdedel av folketrygdens grunnbeløp tillagt familiestønad etter reglene i [§§ 17](lov/1946-12-13-22/§17) og [19](lov/1946-12-13-22/§19), dog ikke mer enn nevnt i første ledd.
+
+Bestemmelsene i første og andre ledd gjelder ikke for opphold i somatiske sykehusavdelinger.
+
+Kongen kan gi nærmere regler om ytelser under fri kur og pleie etter denne lov.
+
+Bestemmelsen i nr. 1 annet ledd gjelder på tilsvarende måte.
+
+Bestemmelsen etter annet ledd om full minsteytelse på 37 prosent skal også gjelde ved innleggelse i sykehjem m.v.
 
 > Endret ved lover 12 juni 1959 nr. 4, 18 des 1964 nr. 12, 16 des 1966 nr. 12, 17 apr 1970 nr. 20, [13 juni 1980 nr. 45](lov/1980-06-13-45), [18 des 1981 nr. 94](lov/1981-12-18-94), [11 juli 1986 nr. 55](lov/1986-07-11-55), [26 mai 1989 nr. 24](lov/1989-05-26-24), [21 des 1990 nr. 80](lov/1990-12-21-80), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)).
 
@@ -154,11 +185,33 @@ Til flytting av grav kan ytes bidrag med inntil 15 prosent av folketrygdens grun
 
 ### § 17
 
-1\. Til etterlevende enke ytes pensjon etter følgende regler:Full pensjon for enke utgjør 2/3 av den fulle invalidepensjon som svarer til mannens pensjonsgrunnlag.Oppebar avdøde ved dødsfallet invalidepensjon regnet etter en uføregrad på minst 20 prosent, ytes pensjon til enken med så stor del av full enkepensjon som svarer til den uføregrad som er lagt til grunn for invalidepensjonen. Har uføregraden variert i løpet av de siste 24 måneder, legges til grunn den høyeste uføregrad i nevnte tidrom. Enkepensjonen skal likevel utgjøre minst 2/3 av full enkepensjon, dog ikke mer enn den invalidepensjon mannen oppebar etter høyeste uføregrad som nevnt ovenfor.Er dødsfallet forårsaket av krigsskade, ytes dog enkepensjon med 2/3 av full pensjon selv om uføregraden var lavere enn 20 prosent eller selv om avdøde ikke oppebar invalidepensjon ved dødsfallet.Var avdøde skilt, får tidligere hustru rett til pensjon etter reglene i [ekteskapsloven §§ 86](lov/1991-07-04-47/§86) til [89](lov/1991-07-04-47/§89). En fraskilt hustru som hadde rett til enkepensjon etter de regler som gjaldt før disse reglene trådte i kraft, kan kreve sin pensjon regulert etter de nye regler. Dette berører ikke pensjonsretten for gjenlevende enke eller annen fraskilt hustru.
+1\. Til etterlevende enke ytes pensjon etter følgende regler:
+
+Full pensjon for enke utgjør 2/3 av den fulle invalidepensjon som svarer til mannens pensjonsgrunnlag.
+
+Oppebar avdøde ved dødsfallet invalidepensjon regnet etter en uføregrad på minst 20 prosent, ytes pensjon til enken med så stor del av full enkepensjon som svarer til den uføregrad som er lagt til grunn for invalidepensjonen. Har uføregraden variert i løpet av de siste 24 måneder, legges til grunn den høyeste uføregrad i nevnte tidrom. Enkepensjonen skal likevel utgjøre minst 2/3 av full enkepensjon, dog ikke mer enn den invalidepensjon mannen oppebar etter høyeste uføregrad som nevnt ovenfor.
+
+Er dødsfallet forårsaket av krigsskade, ytes dog enkepensjon med 2/3 av full pensjon selv om uføregraden var lavere enn 20 prosent eller selv om avdøde ikke oppebar invalidepensjon ved dødsfallet.
+
+Var avdøde skilt, får tidligere hustru rett til pensjon etter reglene i [ekteskapsloven §§ 86](lov/1991-07-04-47/§86) til [89](lov/1991-07-04-47/§89). En fraskilt hustru som hadde rett til enkepensjon etter de regler som gjaldt før disse reglene trådte i kraft, kan kreve sin pensjon regulert etter de nye regler. Dette berører ikke pensjonsretten for gjenlevende enke eller annen fraskilt hustru.
 
 2\. Til etterlevende enkemann kan det ytes pensjon etter reglene i nr. 1, når mannen har vært forsørget av hustruen og han på grunn av alder eller helbred ikke med rimelighet kan ventes å forsørge seg selv. Pensjonen kan gjøres tidsbegrenset og settes lavere enn bestemt i nr. 1.
 
-3\. Rett til enke- eller enkemannspensjon inntrer ikke hvis ekteskapet er inngått etter at avdøde ble skadet, og ekteskapet ikke har vart i minst fem år. Når særlige grunner taler for det, kan det tilstås hel eller delvis pensjon selv om ekteskapet ikke har vart i fem år.Enkepensjonen faller bort hvis enken gifter seg igjen.Blir hun igjen enke eller blir det nye ekteskap oppløst ved skilsmisse, og gjør hennes økonomiske forhold det rimelig, kan hun tilstås pensjon med inntil forskjellen mellom enkepensjonen etter bestemmelsene i denne lov og underhold eller pensjon hun måtte være sikret gjennom seinere ekteskap.Bestemmelsene gjelder tilsvarende for enkemannspensjon.I særlige tilfelle kan det ytes enkepensjon helt eller delvis til kvinne som før skaden inntraff har levd sammen med avdøde og har barn med ham.Enkepensjonen løper fra og med den måned da mannen dør og til og med måneden etter den måned hvori enken dør.Gifter enken seg igjen, løper pensjonen til og med den måned da det nye ekteskap inngås.Får enken fri kur og pleie i institusjon under statlig ansvar, eller i anstalt under kriminalomsorgen, ytes stønad med uforandret beløp til og med den tredje kalendermåneden etter den måneden da forpleiningen tok til. Ved forpleining ut over dette tidsrom skal det til enslig person utbetales så stor del av nevnte ytelse at denne sammen med eventuelle andre pensjons- og trygdeytelser, svarer til 37 prosent av full enkepensjon, dog ikke mer enn nevnt i første punktum. For den som forsørger barn, skal slik stønad ut over nevnte tidsrom svare til en fjerdedel av folketrygdens grunnbeløp tillagt barnepensjon etter denne lovs [§ 19](lov/1946-12-13-22/§19) annet ledd, dog ikke mer enn nevnt i første punktum. For øvrig gjelder bestemmelsene i [§ 6](lov/1946-12-13-22/§6) nr. 4 fjerde og sjette ledd tilsvarende. Bestemmelsene i leddet her gjelder ikke for opphold i somatiske sykehusavdelinger.
+3\. Rett til enke- eller enkemannspensjon inntrer ikke hvis ekteskapet er inngått etter at avdøde ble skadet, og ekteskapet ikke har vart i minst fem år. Når særlige grunner taler for det, kan det tilstås hel eller delvis pensjon selv om ekteskapet ikke har vart i fem år.
+
+Enkepensjonen faller bort hvis enken gifter seg igjen.
+
+Blir hun igjen enke eller blir det nye ekteskap oppløst ved skilsmisse, og gjør hennes økonomiske forhold det rimelig, kan hun tilstås pensjon med inntil forskjellen mellom enkepensjonen etter bestemmelsene i denne lov og underhold eller pensjon hun måtte være sikret gjennom seinere ekteskap.
+
+Bestemmelsene gjelder tilsvarende for enkemannspensjon.
+
+I særlige tilfelle kan det ytes enkepensjon helt eller delvis til kvinne som før skaden inntraff har levd sammen med avdøde og har barn med ham.
+
+Enkepensjonen løper fra og med den måned da mannen dør og til og med måneden etter den måned hvori enken dør.
+
+Gifter enken seg igjen, løper pensjonen til og med den måned da det nye ekteskap inngås.
+
+Får enken fri kur og pleie i institusjon under statlig ansvar, eller i anstalt under kriminalomsorgen, ytes stønad med uforandret beløp til og med den tredje kalendermåneden etter den måneden da forpleiningen tok til. Ved forpleining ut over dette tidsrom skal det til enslig person utbetales så stor del av nevnte ytelse at denne sammen med eventuelle andre pensjons- og trygdeytelser, svarer til 37 prosent av full enkepensjon, dog ikke mer enn nevnt i første punktum. For den som forsørger barn, skal slik stønad ut over nevnte tidsrom svare til en fjerdedel av folketrygdens grunnbeløp tillagt barnepensjon etter denne lovs [§ 19](lov/1946-12-13-22/§19) annet ledd, dog ikke mer enn nevnt i første punktum. For øvrig gjelder bestemmelsene i [§ 6](lov/1946-12-13-22/§6) nr. 4 fjerde og sjette ledd tilsvarende. Bestemmelsene i leddet her gjelder ikke for opphold i somatiske sykehusavdelinger.
 
 > Endret ved lover 30 nov 1956 nr. 3, 19 des 1958 nr. 20, 6 apr 1962 nr. 16, [1 feb 1963 nr. 3](lov/1963-02-01-3), 18 des 1964 nr. 12, 16 des 1966 nr. 12, 22 mars 1968 nr. 4, [18 mai 1973 nr. 23](lov/1973-05-18-23), [13 juni 1980 nr. 45](lov/1980-06-13-45), [18 des 1981 nr. 94](lov/1981-12-18-94), [11 juli 1986 nr. 55](lov/1986-07-11-55), [26 mai 1989 nr. 24](lov/1989-05-26-24), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)).
 
@@ -212,9 +265,23 @@ For personer i gruppe 2 er pensjonsgrunnlaget kr 4.000 og for personer i gruppe 
 
 ### § 23
 
-1\. Dersom det ytes invalidepensjon etter denne lov og pensjon fra folketrygden som inneholder tilleggspensjon, skal den delen av tilleggspensjon som svarer til uføregraden på grunn av krigsskade, gå til fradrag i invalidepensjon etter nærværende lov. Er pensjonsgivende inntekt i folketrygden større enn invalidens fulle krigspensjon tillagt 50 prosent, skal fradragsbeløpet svare til tilleggspensjon beregnet på grunnlag av fullpensjonen tillagt 50 prosent. For øvrig gjelder [samordningsloven § 24](lov/1957-07-06-26/§24).Dersom det ytes invalidepensjon etter denne lov og arbeidsavklaringspenger eller uføretrygd fra folketrygden, gjelder første ledd første punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller uføretrygden er gradert eller redusert for trygdetid, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.Hvis noen som har rett til enkepensjon etter denne lov, også har rett til pensjon etter lov om folketrygd eller til avtalefestet pensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav d, skal tilleggspensjonen fra folketrygden og avtalefestet pensjon gå til fradrag i enkepensjonen etter nærværende lov. Er pensjonen fra krigspensjoneringen ikke beregnet på grunnlag av full uførhet, skal fradragsbeløpet avkortes forholdsmessig. Bestemmelsene i første ledd annet punktum gjelder tilsvarende. For øvrig gjelder [samordningsloven § 24](lov/1957-07-06-26/§24) og [§ 24 d](lov/1957-07-06-26/§24d).Bestemmelsene i fjerde ledd gjelder tilsvarende når barnepensjon er gitt etter [§ 19](lov/1946-12-13-22/§19) annet ledd.Dersom det ytes enkepensjon etter denne lov og arbeidsavklaringspenger eller uføretrygd fra folketrygden, gjelder tredje ledd første og andre punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller uføretrygden er gradert eller redusert for trygdetid, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.Bestemmelsene i de foregående leddene gjelder tilsvarende for ventetillegg og særtillegg fra folketrygden, herunder også særtillegg til overgangsstønad eller pensjon til tidligere familiepleier etter [folketrygdloven § 16-7](lov/1997-02-28-19/§16-7) slik paragrafen lød før 1. januar 2024.
+1\. Dersom det ytes invalidepensjon etter denne lov og pensjon fra folketrygden som inneholder tilleggspensjon, skal den delen av tilleggspensjon som svarer til uføregraden på grunn av krigsskade, gå til fradrag i invalidepensjon etter nærværende lov. Er pensjonsgivende inntekt i folketrygden større enn invalidens fulle krigspensjon tillagt 50 prosent, skal fradragsbeløpet svare til tilleggspensjon beregnet på grunnlag av fullpensjonen tillagt 50 prosent. For øvrig gjelder [samordningsloven § 24](lov/1957-07-06-26/§24).
 
-2\. Pensjon etter denne lov settes ned med uføre-, alders- og etterlattepensjon som vedkommende har rett til i medhold av utenlandsk lov. Er pensjonen etter loven her gitt etter en lavere uføregrad enn 100 prosent, skal fradragsbeløpet avkortes forholdsmessig.I tillegg til den resterende pensjon gis et beløp som svarer til 1/4 av folketrygdens grunnbeløp eller en forholdsmessig del av dette beløp dersom pensjonen etter loven her er gitt etter en lavere uføregrad enn 100 prosent. Tillegget skal likevel ikke overstige fradraget i henhold til første ledd. Tillegg gis ikke til barnepensjon som er gitt etter [§ 19](lov/1946-12-13-22/§19) første ledd.Departementet kan gi regler om gjennomføringen av bestemmelsene i første og annet ledd, herunder regler om eventuell begrensning av fradraget og i hvilken rekkefølge samordning og begrensning skal foretas når vedkommende også har rett til annen norsk pensjon ved siden av utenlandsk pensjon.
+Dersom det ytes invalidepensjon etter denne lov og arbeidsavklaringspenger eller uføretrygd fra folketrygden, gjelder første ledd første punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller uføretrygden er gradert eller redusert for trygdetid, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.
+
+Hvis noen som har rett til enkepensjon etter denne lov, også har rett til pensjon etter lov om folketrygd eller til avtalefestet pensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav d, skal tilleggspensjonen fra folketrygden og avtalefestet pensjon gå til fradrag i enkepensjonen etter nærværende lov. Er pensjonen fra krigspensjoneringen ikke beregnet på grunnlag av full uførhet, skal fradragsbeløpet avkortes forholdsmessig. Bestemmelsene i første ledd annet punktum gjelder tilsvarende. For øvrig gjelder [samordningsloven § 24](lov/1957-07-06-26/§24) og [§ 24 d](lov/1957-07-06-26/§24d).
+
+Bestemmelsene i fjerde ledd gjelder tilsvarende når barnepensjon er gitt etter [§ 19](lov/1946-12-13-22/§19) annet ledd.
+
+Dersom det ytes enkepensjon etter denne lov og arbeidsavklaringspenger eller uføretrygd fra folketrygden, gjelder tredje ledd første og andre punktum for den delen av ytelsen som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller uføretrygden er gradert eller redusert for trygdetid, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.
+
+Bestemmelsene i de foregående leddene gjelder tilsvarende for ventetillegg og særtillegg fra folketrygden, herunder også særtillegg til overgangsstønad eller pensjon til tidligere familiepleier etter [folketrygdloven § 16-7](lov/1997-02-28-19/§16-7) slik paragrafen lød før 1. januar 2024.
+
+2\. Pensjon etter denne lov settes ned med uføre-, alders- og etterlattepensjon som vedkommende har rett til i medhold av utenlandsk lov. Er pensjonen etter loven her gitt etter en lavere uføregrad enn 100 prosent, skal fradragsbeløpet avkortes forholdsmessig.
+
+I tillegg til den resterende pensjon gis et beløp som svarer til 1/4 av folketrygdens grunnbeløp eller en forholdsmessig del av dette beløp dersom pensjonen etter loven her er gitt etter en lavere uføregrad enn 100 prosent. Tillegget skal likevel ikke overstige fradraget i henhold til første ledd. Tillegg gis ikke til barnepensjon som er gitt etter [§ 19](lov/1946-12-13-22/§19) første ledd.
+
+Departementet kan gi regler om gjennomføringen av bestemmelsene i første og annet ledd, herunder regler om eventuell begrensning av fradraget og i hvilken rekkefølge samordning og begrensning skal foretas når vedkommende også har rett til annen norsk pensjon ved siden av utenlandsk pensjon.
 
 > Opphevet ved lover 19 juni 1953 nr. 2, 6 juli 1957 nr. 36. Tilføyd ved lov 16 des 1966 nr. 12, endret ved lover 29 mars 1968 nr. 3, 19 des 1969 nr. 92, 17 mars 1972 nr. 10, 15 des 1972 nr. 86, [13 juni 1980 nr. 45](lov/1980-06-13-45), [23 des 1988 nr. 110](lov/1988-12-23-110), [26 mai 1989 nr. 24](lov/1989-05-26-24), [16 juni 1994 nr. 22](lov/1994-06-16-22), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [6 juni 1997 nr. 36](lov/1997-06-06-36) (ikr. 1 jan 1998), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)).
 
@@ -286,7 +353,9 @@ Ved egenandelsdekning etter første ledd beregnes pensjonen etter [§ 6](lov/194
 
 ### § 33
 
-1\. Krav om ytelser etter denne lov kan avslås og tilkjente ytelser kan tilbakeholdes helt eller delvis dersom vedkommende mot bedre vitende gir uriktige opplysninger eller fortier vesentlige opplysninger av betydning for rettigheter og plikter etter denne lov, eller uten rimelig grunn unnlater å etterkomme påbud som er gitt i eller med hjemmel i denne lov.Det samme gjelder hvis en trygdet som oppebærer stønad etter loven uten rimelig grunn unnlater å etterkomme legens råd, nekter å gjennomgå arbeidsrettede tiltak eller gjør seg skyldig i grov skjødesløshet med hensyn til sin helse.
+1\. Krav om ytelser etter denne lov kan avslås og tilkjente ytelser kan tilbakeholdes helt eller delvis dersom vedkommende mot bedre vitende gir uriktige opplysninger eller fortier vesentlige opplysninger av betydning for rettigheter og plikter etter denne lov, eller uten rimelig grunn unnlater å etterkomme påbud som er gitt i eller med hjemmel i denne lov.
+
+Det samme gjelder hvis en trygdet som oppebærer stønad etter loven uten rimelig grunn unnlater å etterkomme legens råd, nekter å gjennomgå arbeidsrettede tiltak eller gjør seg skyldig i grov skjødesløshet med hensyn til sin helse.
 
 2\. [Folketrygdloven § 22-15](lov/1997-02-28-19/§22-15) gjelder tilsvarende for ytelser etter loven her.
 
@@ -324,7 +393,9 @@ Midlertidig utbetaling av hel eller delvis pensjon kan settes i verk før pensjo
 
 3\. Skjer det en vesentlig endring i de forhold som har vært avgjørende for fastsettelsen av den endelige invalidepensjon, kan den prøves på nytt, endres etter forholdene og slik at den enten fastsettes foreløpig for bestemte tidsrom eller endelig.
 
-4\. Blir ytelsen forhøyet, gjelder bestemmelsen i nr. 1 tilsvarende.Vedtak om å nedsette eller oppheve pensjonen kan tidligst settes i verk fra den første dag i måneden etter at pensjonisten får melding om det.
+4\. Blir ytelsen forhøyet, gjelder bestemmelsen i nr. 1 tilsvarende.
+
+Vedtak om å nedsette eller oppheve pensjonen kan tidligst settes i verk fra den første dag i måneden etter at pensjonisten får melding om det.
 
 > Endret ved lover 19 des 1958 nr. 20, 17 apr 1970 nr. 20, [13 juni 1980 nr. 45](lov/1980-06-13-45), [14 des 1984 nr. 79](lov/1984-12-14-79).
 
@@ -376,17 +447,33 @@ Bestemmelsene i denne lov kan endres med virkning for enhver som har krav på yt
 
 ### § 44
 
-1\. Følgende lover får ikke anvendelse på skader som kommer inn under denne lov:– – –– – –– – –– – –
+1\. Følgende lover får ikke anvendelse på skader som kommer inn under denne lov:
+
+1. – – –
+2. – – –
+3. – – –
+4. – – –
 
 2\. – – –
 
-3\. Følgende lover og bestemmelser oppheves eller faller bort for så vidt angår skade som skyldes krigsulykke:Kongelig resolusjon av 22 desember 1939 om krigsforsikring for fiskeflåten, for så vidt angår regelen om erstatning for liv og invaliditet.Bestemmelser av 12 mars 1941 om ulykkestrygd for kystloser i løsfart, statsloser og losgutter.
+3\. Følgende lover og bestemmelser oppheves eller faller bort for så vidt angår skade som skyldes krigsulykke:
+
+1. Kongelig resolusjon av 22 desember 1939 om krigsforsikring for fiskeflåten, for så vidt angår regelen om erstatning for liv og invaliditet.
+2. Bestemmelser av 12 mars 1941 om ulykkestrygd for kystloser i løsfart, statsloser og losgutter.
 
 ### § 45
 
-1\. Loven trer i kraft straks.Den omfatter krigsulykker som er inntruffet under og som følge av krigen 1939–1945.Når særlige grunner gjør det rimelig, kan Kongen bestemme at loven også skal omfatte krigsulykker som er inntruffet før 2 september 1939. Loven får med hensyn til ytelser virkning fra 1 juli 1946.
+1\. Loven trer i kraft straks.
 
-2\. Denne lov gjør ingen endring i den rett som noen har ved lovens ikrafttreden til ekstraerstatning etter lov om ulykkestrygd for sjømenn § 11 nr. 2.Slik ekstraerstatning eller ekstraerstatning etter avtale med rederne eller Nortraship kommer ikke til fradrag etter [lovens § 23](lov/1946-12-13-22/§23).Ekstraerstatning etter bestemmelsene i første og annet ledd tilstås også krigsseilere på fartøy under 50 brutto registertonn.
+Den omfatter krigsulykker som er inntruffet under og som følge av krigen 1939–1945.
+
+Når særlige grunner gjør det rimelig, kan Kongen bestemme at loven også skal omfatte krigsulykker som er inntruffet før 2 september 1939. Loven får med hensyn til ytelser virkning fra 1 juli 1946.
+
+2\. Denne lov gjør ingen endring i den rett som noen har ved lovens ikrafttreden til ekstraerstatning etter lov om ulykkestrygd for sjømenn § 11 nr. 2.
+
+Slik ekstraerstatning eller ekstraerstatning etter avtale med rederne eller Nortraship kommer ikke til fradrag etter [lovens § 23](lov/1946-12-13-22/§23).
+
+Ekstraerstatning etter bestemmelsene i første og annet ledd tilstås også krigsseilere på fartøy under 50 brutto registertonn.
 
 5\. De ytelser som utbetales etter denne lov skal ikke i noe tilfelle være mindre enn de ville ha blitt etter provisorisk anordning av 18 mai 1945 om Krigspensjonering for sivilpersoner og Stortingets vedtak av 28 februar 1946.
 

@@ -15,7 +15,7 @@ xml_hash: "6ae893426b0f6da1aa70c3957b00855229b1cbfb3ee4aac11f065b39b3c5be25"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,11 @@ Innenfor rammen av denne lov utfører utvalget sitt verv selvstendig og uavhengi
 
 ## § 2. Formål
 
-Formålet med utvalgets kontroll er:å klarlegge om og forebygge at noens rettigheter krenkes, herunder påse at det ikke nyttes mer inngripende midler enn det som er nødvendig etter forholdene, og at tjenestene respekterer menneskerettighetene.å påse at virksomheten ikke utilbørlig skader samfunnets interesser.å påse at virksomheten holdes innen rammen av lov, administrative eller militære direktiver og ulovfestet rett.
+Formålet med utvalgets kontroll er:
+
+1. å klarlegge om og forebygge at noens rettigheter krenkes, herunder påse at det ikke nyttes mer inngripende midler enn det som er nødvendig etter forholdene, og at tjenestene respekterer menneskerettighetene.
+2. å påse at virksomheten ikke utilbørlig skader samfunnets interesser.
+3. å påse at virksomheten holdes innen rammen av lov, administrative eller militære direktiver og ulovfestet rett.
 
 Utvalget skal iaktta hensynet til rikets sikkerhet og forholdet til fremmede makter. Kontrollen bør innrettes slik at den er til minst mulig ulempe for tjenestenes løpende virksomhet.
 
@@ -86,7 +90,12 @@ Videre skal kontrollen omfatte tjenestenes tekniske virksomhet, herunder overvå
 
 Utvalget skal påse at samarbeidet og informasjonsutvekslingen mellom tjenestene og med innenlandske og utenlandske samarbeidspartnere holdes innenfor rammen av de tjenstlige behov og gjeldende regelverk.
 
-Utvalget skal:for Politiets sikkerhetstjeneste: sikre at virksomheten holdes innenfor rammen av tjenestens fastlagte oppgaver og føre kontroll med tjenestens behandling av forebyggende saker og etterforskningssaker, dens bruk av skjulte tvangsmidler og andre skjulte metoder for informasjonsinnhenting.for Etterretningstjenesten: sikre at virksomheten holdes innenfor rammen av tjenestens fastlagte oppgaver.for Nasjonal sikkerhetsmyndighet: sikre at virksomheten holdes innenfor rammen av direktoratets fastlagte oppgaver, å føre kontroll med klareringssaker for personer og bedrifter hvor klarering er nektet, tilbakekalt, nedsatt eller suspendert av klareringsmyndighetene.for Forsvarets sikkerhetsavdeling: føre kontroll med at avdelingens utøvelse av personellsikkerhetstjeneste og annen sikkerhetstjeneste holdes innenfor rammen av lov og forskriftsverk og avdelingens fastlagte oppgaver og påse at ingens rettigheter krenkes.
+Utvalget skal:
+
+1. for Politiets sikkerhetstjeneste: sikre at virksomheten holdes innenfor rammen av tjenestens fastlagte oppgaver og føre kontroll med tjenestens behandling av forebyggende saker og etterforskningssaker, dens bruk av skjulte tvangsmidler og andre skjulte metoder for informasjonsinnhenting.
+2. for Etterretningstjenesten: sikre at virksomheten holdes innenfor rammen av tjenestens fastlagte oppgaver.
+3. for Nasjonal sikkerhetsmyndighet: sikre at virksomheten holdes innenfor rammen av direktoratets fastlagte oppgaver, å føre kontroll med klareringssaker for personer og bedrifter hvor klarering er nektet, tilbakekalt, nedsatt eller suspendert av klareringsmyndighetene.
+4. for Forsvarets sikkerhetsavdeling: føre kontroll med at avdelingens utøvelse av personellsikkerhetstjeneste og annen sikkerhetstjeneste holdes innenfor rammen av lov og forskriftsverk og avdelingens fastlagte oppgaver og påse at ingens rettigheter krenkes.
 
 Kontrollen skal skje med innføring i den løpende virksomheten og slik besiktigelse som finnes nødvendig.
 
@@ -96,7 +105,17 @@ Kontrollen skal skje med innføring i den løpende virksomheten og slik besiktig
 
 Inspeksjonsvirksomheten skal skje i samsvar med formålet i [lovens § 2](lov/1995-02-03-7/§2).
 
-Inspeksjonene skal gjennomføres ut fra behov og minst omfatte:flere inspeksjoner årlig av Etterretningstjenesten sentralt.flere inspeksjoner årlig av Nasjonal sikkerhetsmyndighet.flere inspeksjoner årlig av Den sentrale enhet i Politiets sikkerhetstjeneste.flere inspeksjoner årlig av Forsvarets sikkerhetsavdeling.en årlig inspeksjon av Etterretningsbataljonen.en årlig inspeksjon av Forsvarets spesialstyrker.en årlig inspeksjon av PST-enhetene i minst to politidistrikter og av minst én av Etterretningstjenestens stasjoner eller etterretnings-/sikkerhetstjeneste ved militære staber og avdelinger.inspeksjon av eget tiltak av det øvrige politi og andre organer eller institusjoner som bistår Politiets sikkerhetstjeneste.for øvrig slik inspeksjon som lovens formål tilsier.
+Inspeksjonene skal gjennomføres ut fra behov og minst omfatte:
+
+1. flere inspeksjoner årlig av Etterretningstjenesten sentralt.
+2. flere inspeksjoner årlig av Nasjonal sikkerhetsmyndighet.
+3. flere inspeksjoner årlig av Den sentrale enhet i Politiets sikkerhetstjeneste.
+4. flere inspeksjoner årlig av Forsvarets sikkerhetsavdeling.
+5. en årlig inspeksjon av Etterretningsbataljonen.
+6. en årlig inspeksjon av Forsvarets spesialstyrker.
+7. en årlig inspeksjon av PST-enhetene i minst to politidistrikter og av minst én av Etterretningstjenestens stasjoner eller etterretnings-/sikkerhetstjeneste ved militære staber og avdelinger.
+8. inspeksjon av eget tiltak av det øvrige politi og andre organer eller institusjoner som bistår Politiets sikkerhetstjeneste.
+9. for øvrig slik inspeksjon som lovens formål tilsier.
 
 > Opphevet ved [lov 3 des 1999 nr. 82](lov/1999-12-03-82), tilføyd ved [lov 21 juni 2017 nr. 95](lov/2017-06-21-95) (se noten til [§ 1](lov/1995-02-03-7/§1)).
 
@@ -216,7 +235,16 @@ Hvis utvalget anser at hensynet til Stortingets kontroll med forvaltningen tilsi
 
 Utvalget avgir årlig melding til Stortinget om sin virksomhet. Melding kan også gis hvis det er avdekket forhold som Stortinget straks bør kjenne til. Meldingene og deres vedlegg skal være ugraderte. Årsmeldingen avgis innen 1. april hvert år.
 
-Årsmeldingen bør omfatte:en oversikt over utvalgets sammensetning, møtevirksomhet og utgifter.en redegjørelse for utførte inspeksjoner og resultatene av disse.en oversikt over klagesaker fordelt etter art og tjenestegren og med angivelse av hva klagene har resultert i.en redegjørelse for saker og forhold tatt opp av eget tiltak.en angivelse av eventuelle tiltak som er bedt iverksatt og hva det har ført til, jf. [§ 14](lov/1995-02-03-7/§14) sjette ledd.en angivelse av eventuelle protester etter [§ 8](lov/1995-02-03-7/§8) fjerde ledd.en omtale av saker eller forhold som bør behandles av Stortinget.utvalgets alminnelige erfaringer med kontrollen og regelverket og mulige behov for endringer.
+Årsmeldingen bør omfatte:
+
+1. en oversikt over utvalgets sammensetning, møtevirksomhet og utgifter.
+2. en redegjørelse for utførte inspeksjoner og resultatene av disse.
+3. en oversikt over klagesaker fordelt etter art og tjenestegren og med angivelse av hva klagene har resultert i.
+4. en redegjørelse for saker og forhold tatt opp av eget tiltak.
+5. en angivelse av eventuelle tiltak som er bedt iverksatt og hva det har ført til, jf. [§ 14](lov/1995-02-03-7/§14) sjette ledd.
+6. en angivelse av eventuelle protester etter [§ 8](lov/1995-02-03-7/§8) fjerde ledd.
+7. en omtale av saker eller forhold som bør behandles av Stortinget.
+8. utvalgets alminnelige erfaringer med kontrollen og regelverket og mulige behov for endringer.
 
 > Tilføyd ved [lov 21 juni 2017 nr. 95](lov/2017-06-21-95) (se noten til [§ 1](lov/1995-02-03-7/§1)).
 

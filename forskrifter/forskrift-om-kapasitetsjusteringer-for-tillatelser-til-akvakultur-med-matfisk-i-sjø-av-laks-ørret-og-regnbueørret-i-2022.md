@@ -15,7 +15,7 @@ xml_hash: "879cd3212cfe56b443ce656e4039587db72d7df635445da7df1455c257b3160c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,16 @@ Forskriften gjelder kun tillatelser registrert i akvakulturregisteret per 31. de
 
 Kapitlene 1, 2, 4 og 5 gjelder tillatelser hjemmehørende i alle produksjonsområder.
 
-[Kapittel 3](forskrift/2022-06-07-972/kap3) gjelder for følgende (grønne) produksjonsområder:Område 1: Svenskegrensen til JærenOmråde 6: Nordmøre og Sør-TrøndelagOmråde 8: Helgeland til BodøOmråde 9: Vestfjorden og VesterålenOmråde 10: Andøya til SenjaOmråde 11: Kvaløya til LoppaOmråde 12: Vest-FinnmarkOmråde 13: Øst-Finnmark.
+[Kapittel 3](forskrift/2022-06-07-972/kap3) gjelder for følgende (grønne) produksjonsområder:
+
+1. Område 1: Svenskegrensen til Jæren
+2. Område 6: Nordmøre og Sør-Trøndelag
+3. Område 8: Helgeland til Bodø
+4. Område 9: Vestfjorden og Vesterålen
+5. Område 10: Andøya til Senja
+6. Område 11: Kvaløya til Loppa
+7. Område 12: Vest-Finnmark
+8. Område 13: Øst-Finnmark.
 
 ## Kapittel 2: Utnyttelse av tillatelser, justering av kapasitet og registrering
 
@@ -80,7 +89,12 @@ Dette kapitlet gjelder tilbud om å øke tillatelseskapasiteten (maksimalt tilla
 
 Tilbudet skal offentliggjøres på fylkeskommunenes og Fiskeridirektoratets internettsider minimum 2 uker før fristen for å søke om kapasitetsøkning går ut. Fiskeridirektoratet utarbeider kunngjøringstekst og annen dokumentasjon til bruk for søknad og forvaltning av ordningen.
 
-Kunngjøringen skal minimum inneholde følgende:Krav til søknad og frist for innsending,informasjon om vederlag og innbetaling av dette,at det ikke er mulig å søke om kapasitetsøkning etter denne forskriften etter at søknadsfristen har gått ut, ogat det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut.
+Kunngjøringen skal minimum inneholde følgende:
+
+1. Krav til søknad og frist for innsending,
+2. informasjon om vederlag og innbetaling av dette,
+3. at det ikke er mulig å søke om kapasitetsøkning etter denne forskriften etter at søknadsfristen har gått ut, og
+4. at det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut.
 
 ### § 9. Økt tillatelseskapasitet på eksisterende tillatelser
 
@@ -128,11 +142,20 @@ Tilbud om økt tillatelseskapasitet avregnes til nærmeste hele tonn.
 
 Tilbudet skal offentliggjøres på fylkeskommunenes og Fiskeridirektoratets internettsider minimum 2 uker før fristen går ut. Fiskeridirektoratet utarbeider kunngjøringstekst og annen dokumentasjon til bruk for søknad og forvaltning av ordningen.
 
-Kunngjøringen skal minimum inneholde følgende:Krav til søknaden og frist for innsending,informasjon om vederlag og innbetaling av dette,at det ikke er mulig å søke om kapasitetsøkning eller fastsettelse av kapasitet som unntas fra nedjustering etter denne forskriften etter at søknadsfristen har gått ut,at det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut, ogopplysninger om saksbehandlingsgebyr.
+Kunngjøringen skal minimum inneholde følgende:
+
+1. Krav til søknaden og frist for innsending,
+2. informasjon om vederlag og innbetaling av dette,
+3. at det ikke er mulig å søke om kapasitetsøkning eller fastsettelse av kapasitet som unntas fra nedjustering etter denne forskriften etter at søknadsfristen har gått ut,
+4. at det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut, og
+5. opplysninger om saksbehandlingsgebyr.
 
 ### § 15. Tilbud om økt tillatelseskapasitet uavhengig av miljøstatus i produksjonsområdet
 
-Innehaver av tillatelse som har mottatt et positivt vedtak fra Mattilsynet om at en eller flere lokaliteter knyttet til tillatelsen har oppfylt kriteriene for unntak etter [produksjonsområdeforskriften § 12](forskrift/2017-01-16-61/§12), kan søke omfastsettelse av tillatelseskapasitet som skal unntas fra nedjustering i produksjonsområder som har uakseptabel miljøtilstand.økning i kapasitet på eksisterende tillatelser.
+Innehaver av tillatelse som har mottatt et positivt vedtak fra Mattilsynet om at en eller flere lokaliteter knyttet til tillatelsen har oppfylt kriteriene for unntak etter [produksjonsområdeforskriften § 12](forskrift/2017-01-16-61/§12), kan søke om
+
+1. fastsettelse av tillatelseskapasitet som skal unntas fra nedjustering i produksjonsområder som har uakseptabel miljøtilstand.
+2. økning i kapasitet på eksisterende tillatelser.
 
 ### § 16. Krav til sending og søknad
 
@@ -140,7 +163,14 @@ Søknad skal sendes senest 28. juni 2022. Det skal kun sendes en søknad per org
 
 Søknaden skal merkes med: «Søknad om kapasitetsøkning – unntak 2021–2022», eventuelt «søknad om unntak fra nedjustering 2022».
 
-Søknaden skal føres på fastsatt skjema og minimum inneholde informasjon omhvilken tillatelse og lokalitet søknaden gjelder,søkers redegjørelse og dokumentasjon for månedlig vektøkning for hver fiskegruppe på aktuelle lokaliteter, i henhold til kriteriene i [produksjonsområdeforskriften § 12](forskrift/2017-01-16-61/§12), ogved eventuell samdrift må ideell eierandel fremgå,ved eventuell samlokalisering må eierskap for hver fiskegruppe fremgå,dersom det på lokaliteten er benyttet tillatelser som forskriften ikke omfatter, må det fremgå hvilke fiskegrupper dette gjelder.kvittering for innbetalt saksbehandlingsgebyr (gjelder ikke for søknad etter [§ 15](forskrift/2022-06-07-972/§15) første ledd bokstav a.
+Søknaden skal føres på fastsatt skjema og minimum inneholde informasjon om
+
+1. hvilken tillatelse og lokalitet søknaden gjelder,
+2. søkers redegjørelse og dokumentasjon for månedlig vektøkning for hver fiskegruppe på aktuelle lokaliteter, i henhold til kriteriene i [produksjonsområdeforskriften § 12](forskrift/2017-01-16-61/§12), og
+3. ved eventuell samdrift må ideell eierandel fremgå,
+4. ved eventuell samlokalisering må eierskap for hver fiskegruppe fremgå,
+5. dersom det på lokaliteten er benyttet tillatelser som forskriften ikke omfatter, må det fremgå hvilke fiskegrupper dette gjelder.
+6. kvittering for innbetalt saksbehandlingsgebyr (gjelder ikke for søknad etter [§ 15](forskrift/2022-06-07-972/§15) første ledd bokstav a.
 
 Søknaden kan inneholde dokumentasjon på innehaverens MTB-utnyttelse innenfor dokumentasjonsperioden og innenfor produksjonsområdet som den aktuelle lokaliteten er hjemmehørende. Ved mangelfull eller manglende dokumentasjon på MTB-utnyttelse, kommer [§ 20](forskrift/2022-06-07-972/§20) tredje ledd til anvendelse, jf. [produksjonsområdeforskriften § 12](forskrift/2017-01-16-61/§12) tredje ledd nr. 5.
 
@@ -214,11 +244,23 @@ Vedtaket kan påklages etter reglene i [forvaltningsloven](lov/1967-02-10).
 
 Innehaver av tillatelse som har søkt om og fått tildelt økt tillatelseskapasitet etter denne forskrift kan ved innsending av melding på fastsatt skjema frasi seg tildelt kapasitetsøkning. Melding om fraskrivelse av kapasitetsøkning skal både sendes inn digitalt og skrives ut, signeres og sendes fysisk til Fiskeridirektoratet. Meldingen skal være underskrevet av person(er) som etter firmaattesten kan binde innehaveren. Digital melding skal sendes til Fiskeridirektoratet innen 6. oktober.
 
-Signert, fysisk melding om frasigelse av kapasitetsøkning må enten være sendt med rekommandert brev til:FiskeridirektoratetPb. 185 Sentrum5804 Bergen,eller leveres ved oppmøte, enten personlig eller med sendemann, hos Fiskeridirektoratets besøksadresse:Strandgaten 2295004 Bergen
+Signert, fysisk melding om frasigelse av kapasitetsøkning må enten være sendt med rekommandert brev til:
+
+- Fiskeridirektoratet
+- Pb. 185 Sentrum
+- 5804 Bergen,
+
+eller leveres ved oppmøte, enten personlig eller med sendemann, hos Fiskeridirektoratets besøksadresse:
+
+- Strandgaten 229
+- 5004 Bergen
 
 Fysisk melding som ikke er Fiskeridirektoratet i hende innen 11. oktober kl. 15.00 vil avvises.
 
-Dersom vilkårene i første ledd er oppfylt, skal Fiskeridirektoratet så snart som mulig:treffe vedtak om tilbaketrekking av den tildelte kapasitetsøkningen, ogrefundere innbetalt vederlag for kapasitetsøkningen. Det tilståes ikke renter.
+Dersom vilkårene i første ledd er oppfylt, skal Fiskeridirektoratet så snart som mulig:
+
+1. treffe vedtak om tilbaketrekking av den tildelte kapasitetsøkningen, og
+2. refundere innbetalt vederlag for kapasitetsøkningen. Det tilståes ikke renter.
 
 Med mindre noe annet er særskilt bestemt i vedtaket, skal tilbaketrekking av tildelt tillatelseskapasitet etter denne bestemmelsen gjelde fra 25. oktober. Melding om frasigelse av kapasitetsøkning er bindende for innehaver av tillatelsen når Fiskeridirektoratet har mottatt signert, fysisk melding om frasigelse av kapasitetsøkning.
 
@@ -228,7 +270,10 @@ Med mindre noe annet er særskilt bestemt i vedtaket, skal tilbaketrekking av ti
 
 Vederlag for tildelt økt tillatelseskapasitet uavhengig av miljøstatus i produksjonsområder etter reglene i [kapittel 4](forskrift/2022-06-07-972/kap4) i denne forskrift fastsettes endelig etter at produksjonskapasitet til akvakultur med matfisk i sjø av laks, ørret og regnbueørret er tildelt gjennom auksjon.
 
-Vederlaget fastsettes, uten hensyn til [§ 10](forskrift/2022-06-07-972/§10), til det største av følgende alternativer:100 000 kroner per tonn tillatelsen blir økt med, ellerden laveste oppnådde klokkeprisen i auksjonen som klarerer et produksjonsområde.
+Vederlaget fastsettes, uten hensyn til [§ 10](forskrift/2022-06-07-972/§10), til det største av følgende alternativer:
+
+1. 100 000 kroner per tonn tillatelsen blir økt med, eller
+2. den laveste oppnådde klokkeprisen i auksjonen som klarerer et produksjonsområde.
 
 Dersom den laveste klokkeprisen som klarerer et område overstiger 200 000 kroner per tonn, fastsettes prisen på unntaksvekst i det aktuelle produksjonsområdet til 200 000 kroner per tonn.
 

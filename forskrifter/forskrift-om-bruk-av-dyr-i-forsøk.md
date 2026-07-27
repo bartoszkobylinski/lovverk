@@ -15,7 +15,7 @@ xml_hash: "02371989001738f2ff9fbe66c085419c463a8fa1cf184a529392a6c93ee763e1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ Forskriften skal bidra til å begrense bruken av dyr til vitenskapelige og utdan
 
 ### § 2. Saklig og personelt virkeområde
 
-Forskriften gjelder når dyrblir brukt eller er ment å bli brukt i forsøk ellerblir oppdrettet spesielt for at deres organer eller vev kan bli brukt til vitenskapelige formål.
+Forskriften gjelder når dyr
+
+1. blir brukt eller er ment å bli brukt i forsøk eller
+2. blir oppdrettet spesielt for at deres organer eller vev kan bli brukt til vitenskapelige formål.
 
 Forskriften gjelder levende virveldyr, tifotkreps og blekksprut. Dette omfatter også tidlige utviklingsstadier av disse dyrene hvis sanseapparatet er på et tilsvarende nivå som hos ferdig utviklede dyr, herunder fostre av pattedyr i siste tredjedel av normal utvikling og larver av virveldyr som ernærer seg selv. I tillegg gjelder forskriften når dyr på enda tidligere utviklingsstadier blir brukt i forsøk og får leve videre og sannsynligvis vil oppleve smerte, frykt, varig skade eller annen belastning etter å ha nådd utviklingsstadier som nevnt i annet punktum.
 
@@ -38,7 +41,14 @@ Forskriften gjelder selv om det brukes beroligende, bedøvende eller smertestill
 
 Forskriften gjelder inntil dyr som nevnt i første ledd er avlivet, omplassert eller tilbakeført til et dyrehold.
 
-Forskriften gjelder ikkeikke-eksperimentell landbruks- og akvakulturvirksomhetikke-eksperimentell klinisk veterinærvirksomhetklinisk utprøving av legemidler til dyr når dette er nødvendig for å få eller beholde markedsføringstillatelseprosedyrer i forbindelse med alminnelig avl og hold av dyrenkel identitetsmerking av dyrhandlinger som det ikke er grunn til å tro vil påføre dyret smerte, frykt, varig skade eller annen belastning tilsvarende eller større enn ved å føre inn en nål etter god veterinær praksis.
+Forskriften gjelder ikke
+
+1. ikke-eksperimentell landbruks- og akvakulturvirksomhet
+2. ikke-eksperimentell klinisk veterinærvirksomhet
+3. klinisk utprøving av legemidler til dyr når dette er nødvendig for å få eller beholde markedsføringstillatelse
+4. prosedyrer i forbindelse med alminnelig avl og hold av dyr
+5. enkel identitetsmerking av dyr
+6. handlinger som det ikke er grunn til å tro vil påføre dyret smerte, frykt, varig skade eller annen belastning tilsvarende eller større enn ved å føre inn en nål etter god veterinær praksis.
 
 Kravene i forskriften er rettet mot oppdrettere, formidlere og brukere.
 
@@ -64,7 +74,11 @@ Oppdrettere, formidlere og brukere, og lokalene de bruker, skal være godkjent a
 
 Lokalene og driften kan ikke endres vesentlig uten ny godkjenning hvis endringen kan svekke dyrevelferden.
 
-Oppdretteren, formidleren eller brukeren skal i søknaden oppgi hvilke dyrearter som skal brukes og spesifisere hvem somhar det nærmeste lederansvaret for å sikre etterlevelse av denne forskriftenskal ha særskilt kontrollansvar etter [§ 25](forskrift/2015-06-18-761/§25)er navngitt veterinær eller fiskehelsebiolog.
+Oppdretteren, formidleren eller brukeren skal i søknaden oppgi hvilke dyrearter som skal brukes og spesifisere hvem som
+
+1. har det nærmeste lederansvaret for å sikre etterlevelse av denne forskriften
+2. skal ha særskilt kontrollansvar etter [§ 25](forskrift/2015-06-18-761/§25)
+3. er navngitt veterinær eller fiskehelsebiolog.
 
 Hvis nye personer overtar oppgavene som nevnt i bokstavene a–c, skal dette meldes til Mattilsynet.
 
@@ -90,11 +104,21 @@ Mattilsynet kan inndra eller suspendere godkjenningen hvis forsøket ikke gjenno
 
 Søknad om godkjenning av forsøk eller endring av forsøk skal sendes inn av brukeren eller den forsøksansvarlige, og skal inneholde en beskrivelse av forsøket og et forsøkssammendrag. Søknaden skal videre inneholde nødvendige opplysninger slik det fremgår av vedlegg A og B.
 
-I tillegg skal søknaden inneholde opplysninger ombrukerenden eller de ansvarlige for forsøketlokalene eller annet sted hvor forsøket skal gjennomføres.
+I tillegg skal søknaden inneholde opplysninger om
+
+1. brukeren
+2. den eller de ansvarlige for forsøket
+3. lokalene eller annet sted hvor forsøket skal gjennomføres.
 
 ### § 8. Forsøkssammendrag
 
-Forsøkssammendraget skal være lett forståelig for allmennheten og skal beskriveforsøkets formålforventede skadevirkninger på dyreneforventet vitenskapelig eller samfunnsmessig nytteverdihvor mange og hva slags dyr som skal brukeshvordan kravene om erstatning, reduksjon og forbedring skal etterleves.
+Forsøkssammendraget skal være lett forståelig for allmennheten og skal beskrive
+
+1. forsøkets formål
+2. forventede skadevirkninger på dyrene
+3. forventet vitenskapelig eller samfunnsmessig nytteverdi
+4. hvor mange og hva slags dyr som skal brukes
+5. hvordan kravene om erstatning, reduksjon og forbedring skal etterleves.
 
 Forsøkssammendraget skal være anonymt og ikke inneholde navn og adresser til brukeren eller involverte personer. Forsøkssammendraget skal heller ikke inneholde opplysninger som er underlagt taushetsplikt etter forvaltningsloven.
 
@@ -110,15 +134,36 @@ Forsøksmetodene skal stadig forbedres for å unngå, forebygge, fjerne eller mi
 
 ### § 10. Formål med forsøket
 
-Dyr kan bare brukes i forsøk til følgende formål:grunnforskninganvendt forskning for åunngå, forebygge, diagnostisere eller behandle sykdom, dårlig helse eller andre unormale tilstander, eller deres virkninger, hos mennesker, dyr eller plantervurdere, påvise, justere eller endre fysiologiske tilstander hos mennesker, dyr eller planter ellerbedre velferden for dyr, herunder produksjonsforholdene for produksjonsdyrutvikling, tilvirkning eller kvalitets-, effekt- og sikkerhetstesting av legemidler, næringsmidler, fôr eller andre stoffer eller produkter, hvis formålet er omfattet av bokstav bforskning for vern av miljøet av hensyn til helse eller velferd for mennesker eller dyrforskning for å bevare dyreartenyrkesutdanning eller høyere utdanning med sikte på tilegnelse, vedlikehold eller forbedring av faglige kvalifikasjoner ellerrettsmedisinske undersøkelser.
+Dyr kan bare brukes i forsøk til følgende formål:
+
+1. grunnforskning
+2. anvendt forskning for å
+
+   1. unngå, forebygge, diagnostisere eller behandle sykdom, dårlig helse eller andre unormale tilstander, eller deres virkninger, hos mennesker, dyr eller planter
+   2. vurdere, påvise, justere eller endre fysiologiske tilstander hos mennesker, dyr eller planter eller
+   3. bedre velferden for dyr, herunder produksjonsforholdene for produksjonsdyr
+3. utvikling, tilvirkning eller kvalitets-, effekt- og sikkerhetstesting av legemidler, næringsmidler, fôr eller andre stoffer eller produkter, hvis formålet er omfattet av bokstav b
+4. forskning for vern av miljøet av hensyn til helse eller velferd for mennesker eller dyr
+5. forskning for å bevare dyrearten
+6. yrkesutdanning eller høyere utdanning med sikte på tilegnelse, vedlikehold eller forbedring av faglige kvalifikasjoner eller
+7. rettsmedisinske undersøkelser.
 
 ### § 11. Metoder, teststrategier og endepunkter
 
 Levende dyr skal ikke brukes i forsøk hvis det er påbudt eller tillatt etter annet regelverk å benytte en annen metode eller teststrategi for å oppnå formålet.
 
-Forsøksmetodene og teststrategiene skal innebærebruk av så få dyr som muligbruk av dyr med minst mulig evne til å oppleve smerte, frykt og annen belastning, og til å få varig skadeat dyrene påføres minst mulig smerte, frykt, varig skade og annen belastning ogstørst mulig sannsynlighet for pålitelige resultater.
+Forsøksmetodene og teststrategiene skal innebære
 
-Døden skal så langt det er mulig ikke være endepunkt for forsøket. Det skal i stedet benyttes tidlige og humane endepunkter. Hvis døden er uunngåelig som endepunkt, skal forsøket være utformet slik atså få dyr som mulig dørvarigheten og intensiteten av belastningen reduseres mest mulig ogen smertefri død sikres så langt det er mulig.
+1. bruk av så få dyr som mulig
+2. bruk av dyr med minst mulig evne til å oppleve smerte, frykt og annen belastning, og til å få varig skade
+3. at dyrene påføres minst mulig smerte, frykt, varig skade og annen belastning og
+4. størst mulig sannsynlighet for pålitelige resultater.
+
+Døden skal så langt det er mulig ikke være endepunkt for forsøket. Det skal i stedet benyttes tidlige og humane endepunkter. Hvis døden er uunngåelig som endepunkt, skal forsøket være utformet slik at
+
+1. så få dyr som mulig dør
+2. varigheten og intensiteten av belastningen reduseres mest mulig og
+3. en smertefri død sikres så langt det er mulig.
 
 ### § 12. Lokalisering
 
@@ -132,7 +177,10 @@ Det er forbudt å bruke dyr i forsøk med kosmetikk etter [forskrift 8. april 20
 
 ### § 14. Bedøvelse og smertebehandling
 
-Forsøk som påfører dyr store skader som kan medføre alvorlig smerte, skal utføres under total eller lokal bedøvelse. Hvis det ikke er uhensiktsmessig, skal også dyr som påføres mindre belastning bedøves. Ved vurderingen av om bedøvelse er uhensiktsmessig, skal det tas hensyn til ombedøvelsen vil påføre dyret en større belastning enn selve forsøket ogbedøvelse er uforenlig med forsøkets formål.
+Forsøk som påfører dyr store skader som kan medføre alvorlig smerte, skal utføres under total eller lokal bedøvelse. Hvis det ikke er uhensiktsmessig, skal også dyr som påføres mindre belastning bedøves. Ved vurderingen av om bedøvelse er uhensiktsmessig, skal det tas hensyn til om
+
+1. bedøvelsen vil påføre dyret en større belastning enn selve forsøket og
+2. bedøvelse er uforenlig med forsøkets formål.
 
 Hvis det er nødvendig, skal det brukes smertestillende midler eller andre egnede metoder for å sikre at dyrets smerte, frykt og annen belastning begrenses mest mulig. Hvis uforutsett alvorlig smerte ikke kan lindres, skal dyret avlives umiddelbart.
 
@@ -166,13 +214,22 @@ Avliving skal skje i oppdretterens, formidlerens eller brukerens lokaler. Ved fe
 
 Et dyr som allerede har vært brukt i ett eller flere forsøk, kan ikke brukes i et nytt forsøk hvis det er mulig å bruke et annet dyr som ikke har vært brukt tidligere.
 
-Dette gjelder ikke hvisden faktiske belastningsgraden i de foregående forsøkene var lett eller moderatdyrets helse og velferd er fullt gjenopprettetdet nye forsøket er foreslått klassifisert som lett belastende, moderat belastende eller terminalt ogbruken er i samsvar med råd fra veterinær eller fiskehelsebiolog basert på en vurdering av den totale belastningen i dyrets levetid.
+Dette gjelder ikke hvis
+
+1. den faktiske belastningsgraden i de foregående forsøkene var lett eller moderat
+2. dyrets helse og velferd er fullt gjenopprettet
+3. det nye forsøket er foreslått klassifisert som lett belastende, moderat belastende eller terminalt og
+4. bruken er i samsvar med råd fra veterinær eller fiskehelsebiolog basert på en vurdering av den totale belastningen i dyrets levetid.
 
 I særlige tilfeller kan Mattilsynet tillate gjenbruk av dyr som har vært brukt én gang i et betydelig belastende forsøk. Tillatelse kan gis bare hvis vilkårene i første ledd bokstavene b, c og d er oppfylt, og dyret har vært undersøkt av veterinær eller fiskehelsebiolog.
 
 ### § 18. Omplassering og tilbakeføring av dyr
 
-Dyr som har vært brukt eller har vært tiltenkt brukt i forsøk, kan omplasseres til et egnet dyrehold eller føres tilbake til et naturlig levemiljø hvis deter forsvarlig ut fra dyrets helsetilstander gjennomført hensiktsmessige tiltak for å sikre dyrets velferd ogikke er fare for folkehelse, dyrehelse eller miljøet.
+Dyr som har vært brukt eller har vært tiltenkt brukt i forsøk, kan omplasseres til et egnet dyrehold eller føres tilbake til et naturlig levemiljø hvis det
+
+1. er forsvarlig ut fra dyrets helsetilstand
+2. er gjennomført hensiktsmessige tiltak for å sikre dyrets velferd og
+3. ikke er fare for folkehelse, dyrehelse eller miljøet.
 
 > Endret ved [forskrift 5 april 2017 nr. 451](forskrift/2017-04-05-451).
 
@@ -234,7 +291,11 @@ Oppdrettere, formidlere og brukere skal ha skriftlige rutiner for å sikre at kr
 
 ### § 25. Personell med særskilt kontrollansvar
 
-Hver oppdretter, formidler og bruker skal peke ut én eller flere personer som skalkontrollere dyrevelferden og stell av dyrsikre at personer som arbeider med dyrene har tilgang til relevant informasjon om dyreartenesikre at personer som arbeider med dyrene oppfyller kravene til nødvendig kompetanse.
+Hver oppdretter, formidler og bruker skal peke ut én eller flere personer som skal
+
+1. kontrollere dyrevelferden og stell av dyr
+2. sikre at personer som arbeider med dyrene har tilgang til relevant informasjon om dyreartene
+3. sikre at personer som arbeider med dyrene oppfyller kravene til nødvendig kompetanse.
 
 ### § 26. Dyrevelferdsenhet
 
@@ -244,9 +305,18 @@ Dyrevelferdsenheten skal som et minimum bestå av den eller de personene som har
 
 Dyrevelferdsenheten hos brukere skal ha minst ett medlem med relevant vitenskapelig kompetanse.
 
-Dyrevelferdsenheten skal gi personer som arbeider med dyrene,råd om dyrevelferd knyttet til anskaffelse, oppstalling, stell og brukråd om etterlevelse av kravet om erstatning, reduksjon og forbedringinformasjon om den tekniske og vitenskapelige utviklingen innen erstatning, reduksjon og forbedring.
+Dyrevelferdsenheten skal gi personer som arbeider med dyrene,
 
-Dyrevelferdsenheten skal ogsåutarbeide og revidere interne driftsrutiner for å overvåke, rapportere og følge opp velferden for dyrenefølge utviklingen og resultatene av forsøk når det gjelder forsøkenes virkning på dyreneidentifisere og gi råd om faktorer som bidrar ytterligere til erstatning, reduksjon og forbedringgi råd om planer for omplassering, herunder egnet sosialisering av de dyrene som skal omplasseres, og tilbakeføring av dyr etter [§ 18](forskrift/2015-06-18-761/§18).
+1. råd om dyrevelferd knyttet til anskaffelse, oppstalling, stell og bruk
+2. råd om etterlevelse av kravet om erstatning, reduksjon og forbedring
+3. informasjon om den tekniske og vitenskapelige utviklingen innen erstatning, reduksjon og forbedring.
+
+Dyrevelferdsenheten skal også
+
+1. utarbeide og revidere interne driftsrutiner for å overvåke, rapportere og følge opp velferden for dyrene
+2. følge utviklingen og resultatene av forsøk når det gjelder forsøkenes virkning på dyrene
+3. identifisere og gi råd om faktorer som bidrar ytterligere til erstatning, reduksjon og forbedring
+4. gi råd om planer for omplassering, herunder egnet sosialisering av de dyrene som skal omplasseres, og tilbakeføring av dyr etter [§ 18](forskrift/2015-06-18-761/§18).
 
 Mattilsynet kan tillate at små oppdrettere, formidlere og brukere utfører oppgavene i fjerde og femte ledd på andre måter.
 
@@ -260,7 +330,12 @@ Fiskehelsebiologer kan bare ha denne funksjonen der det utelukkende holdes akvat
 
 ### § 28. Forsøksansvarlig
 
-Den eller de ansvarlige for forsøket skal sørge for atårsaken til enhver unødig smerte, frykt, varig skade eller annen belastning som påføres dyr under et forsøk, blir fjernet så snart som muligforsøkene utføres i samsvar med godkjenningen og enhver beslutning som Mattilsynet har fattetmanglende samsvar med godkjenningen blir rettet opp med nødvendige tiltakavviket og tiltaket blir protokollført.
+Den eller de ansvarlige for forsøket skal sørge for at
+
+1. årsaken til enhver unødig smerte, frykt, varig skade eller annen belastning som påføres dyr under et forsøk, blir fjernet så snart som mulig
+2. forsøkene utføres i samsvar med godkjenningen og enhver beslutning som Mattilsynet har fattet
+3. manglende samsvar med godkjenningen blir rettet opp med nødvendige tiltak
+4. avviket og tiltaket blir protokollført.
 
 ## Kapittel VI. Krav til hold av dyr
 
@@ -284,7 +359,16 @@ Nærmere krav til innredning og utstyr er gitt i vedlegg F.
 
 ### § 31. Dyrejournal
 
-Oppdrettere, formidlere og brukere skal føre journal med opplysninger omhvor mange dyr og hvilke dyrearter som oppdrettes, anskaffes, formidles, brukes, omplasseres eller tilbakeføresdyrenes opprinnelse, herunder om de er oppdrettet for å bli brukt i forsøkdatoen da dyrene ble anskaffet, formidlet, avlivet, omplassert eller tilbakeførthvem dyrene er anskaffet franavn og adresse på mottaker av dyrhvor mange dyr og hvilke dyrearter som har dødd eller blitt avlivetkjente dødsårsakerhva slags forsøk dyrene har vært brukt i.
+Oppdrettere, formidlere og brukere skal føre journal med opplysninger om
+
+1. hvor mange dyr og hvilke dyrearter som oppdrettes, anskaffes, formidles, brukes, omplasseres eller tilbakeføres
+2. dyrenes opprinnelse, herunder om de er oppdrettet for å bli brukt i forsøk
+3. datoen da dyrene ble anskaffet, formidlet, avlivet, omplassert eller tilbakeført
+4. hvem dyrene er anskaffet fra
+5. navn og adresse på mottaker av dyr
+6. hvor mange dyr og hvilke dyrearter som har dødd eller blitt avlivet
+7. kjente dødsårsaker
+8. hva slags forsøk dyrene har vært brukt i.
 
 Opplysningene i dyrejournalen skal oppbevares i minst fem år og på anmodning være tilgjengelig for Mattilsynet.
 
@@ -292,7 +376,14 @@ Det skal føres kort for hvert bur eller annen oppholdsenhet med dyr som brukes 
 
 ### § 32. Journal for hunder, katter og primater
 
-Oppdrettere, formidlere og brukere skal føre journal for hver hund, katt og primat med nødvendige opplysninger omidentitetfødested og fødselsdato, hvis dette er kjentdyret er avlet og holdt for å bli brukt i forsøkprimaten nedstammer fra dyr som er oppdrettet i fangenskapavlsmessige, veterinærmedisinske og sosiale forhold, herunder om dyrets trivsel og om atferd overfor andre dyr og menneskerde forsøkene dyret har vært brukt i.
+Oppdrettere, formidlere og brukere skal føre journal for hver hund, katt og primat med nødvendige opplysninger om
+
+1. identitet
+2. fødested og fødselsdato, hvis dette er kjent
+3. dyret er avlet og holdt for å bli brukt i forsøk
+4. primaten nedstammer fra dyr som er oppdrettet i fangenskap
+5. avlsmessige, veterinærmedisinske og sosiale forhold, herunder om dyrets trivsel og om atferd overfor andre dyr og mennesker
+6. de forsøkene dyret har vært brukt i.
 
 Dyret skal følges av den individuelle journalen så lenge det holdes for formål som omfattes av denne forskriften. Journalen skal opprettes ved, eller snarest mulig etter, dyrets fødsel.
 
@@ -354,7 +445,23 @@ Plasskravene som framgår av tabellene i vedlegg F, unntatt tabell 8.5, trer i k
 
 ## Vedlegg A. Faktorer som det skal gis opplysninger om i søknaden, jf. § 7 første ledd
 
-I tillegg til en beskrivelse av forsøket og et forsøkssammendrag skal søknad om godkjenning av forsøk eller endring av forsøk inneholde nødvendige opplysninger omrelevansen og berettigelsen avbruk av dyr, inkludert deres opprinnelse, anslåtte antall, art og livsstadierforsøkenebruk av metoder for å erstatte, redusere og forbedre bruken av dyr i forsøkeneplanlagt bruk av bedøvelse, smertestillende midler og andre former for smertelindringtiltak for å begrense, unngå og lindre enhver form for belastning for dyrene, fra fødsel til død, når det er relevantbruk av humane endepunkterforsøks- eller observasjonsstrategi, statistisk design for å minimalisere antallet dyr, smerte, frykt og annen belastning, der det er relevantgjentatt bruk av dyr og den samlede virkning av dette på dyretden foreslåtte klassifiseringen av forsøkene etter forventet belastningsgrad, jf. vedlegg Btiltak for å unngå unødvendig gjentagelse av forsøk, når det er relevantde forholdene som dyrene oppstalles, holdes og stelles underavlivingsmetoderkompetanse hos de personene som deltar i forsøket.
+I tillegg til en beskrivelse av forsøket og et forsøkssammendrag skal søknad om godkjenning av forsøk eller endring av forsøk inneholde nødvendige opplysninger om
+
+1. relevansen og berettigelsen av
+
+   1. bruk av dyr, inkludert deres opprinnelse, anslåtte antall, art og livsstadier
+   2. forsøkene
+2. bruk av metoder for å erstatte, redusere og forbedre bruken av dyr i forsøkene
+3. planlagt bruk av bedøvelse, smertestillende midler og andre former for smertelindring
+4. tiltak for å begrense, unngå og lindre enhver form for belastning for dyrene, fra fødsel til død, når det er relevant
+5. bruk av humane endepunkter
+6. forsøks- eller observasjonsstrategi, statistisk design for å minimalisere antallet dyr, smerte, frykt og annen belastning, der det er relevant
+7. gjentatt bruk av dyr og den samlede virkning av dette på dyret
+8. den foreslåtte klassifiseringen av forsøkene etter forventet belastningsgrad, jf. vedlegg B
+9. tiltak for å unngå unødvendig gjentagelse av forsøk, når det er relevant
+10. de forholdene som dyrene oppstalles, holdes og stelles under
+11. avlivingsmetoder
+12. kompetanse hos de personene som deltar i forsøket.
 
 ## Vedlegg B. Klassifisering av forsøk etter forventet belastningsgrad, jf. § 7 første ledd
 
@@ -382,21 +489,115 @@ Forsøk som medfører at dyrene sannsynligvis vil oppleve alvorlig smerte, frykt
 
 Ved klassifisering skal ethvert inngrep på eller manipulering av et dyr innenfor et definert forsøk tas i betraktning. Klassifiseringen skal være basert på de mest belastende virkningene det enkelte dyret forventes å oppleve etter at alle relevante forbedringsteknikker er tatt i bruk. Type forsøk og flere andre faktorer relatert til forsøket skal tas i betraktning. Alle faktorene skal vurderes i hvert enkelt tilfelle.
 
-Følgende faktorer relatert til forsøket skal tas i betraktning:type manipulasjon eller håndteringtype smerte, frykt eller varig skade eller annen belastning forårsaket av (alle elementer av) forsøket, og belastningens intensitet, varighet og frekvens og de ulike teknikker som benytteskumulativ belastning gjennom hele forsøkethvorvidt dyrene hindres i å uttrykke naturlig atferd, herunder restriksjoner i standarden for oppstalling, hold og stell av dyrene.
+Følgende faktorer relatert til forsøket skal tas i betraktning:
+
+- type manipulasjon eller håndtering
+- type smerte, frykt eller varig skade eller annen belastning forårsaket av (alle elementer av) forsøket, og belastningens intensitet, varighet og frekvens og de ulike teknikker som benyttes
+- kumulativ belastning gjennom hele forsøket
+- hvorvidt dyrene hindres i å uttrykke naturlig atferd, herunder restriksjoner i standarden for oppstalling, hold og stell av dyrene.
 
 I del III gis eksempler på forsøk som er klassifisert på bakgrunn av faktorer relatert til selve forsøkstypen. Eksemplene skal gi den første indikasjonen på hvilken klasse som passer best for en bestemt type forsøk.
 
-For endelig klassifisering etter belastningsgrad skal likevel følgende tilleggsfaktorer vurderes i hvert enkelt tilfelle:dyreart og genotypedyrets utviklingsgrad, alder og kjønndyrets trening og erfaring med forsøketved gjentatt bruk av dyr i forsøk, den faktiske belastningsgraden i forrige forsøkmetoder som er brukt for å redusere eller eliminere smerte, frykt og annen belastning, herunder forbedring av oppstalling, hold og stellhumane endepunkter.
+For endelig klassifisering etter belastningsgrad skal likevel følgende tilleggsfaktorer vurderes i hvert enkelt tilfelle:
+
+- dyreart og genotype
+- dyrets utviklingsgrad, alder og kjønn
+- dyrets trening og erfaring med forsøket
+- ved gjentatt bruk av dyr i forsøk, den faktiske belastningsgraden i forrige forsøk
+- metoder som er brukt for å redusere eller eliminere smerte, frykt og annen belastning, herunder forbedring av oppstalling, hold og stell
+- humane endepunkter.
 
 ### Del III. Eksempler
 
-Eksempler på ulike typer forsøk som er klassifisert på bakgrunn av faktorer relatert til type forsøk:Lett belastende forsøk:administrering av bedøvelsesmiddel, unntatt for avliving som eneste formålfarmakokinetiske studier hvor det gis en enkelt dose av en substans og tas et begrenset antall blodprøver (totalt < 10 % av sirkulerende blodvolum), og substansen ikke forventes å gi noen påvisbar skadelig virkningikke-invasiv billeddiagnostikk (f.eks. MRI) med egnet behandling med beroligende eller bedøvende legemidleroverfladiske inngrep, eks. øre- og halebiopsier, ikke-kirurgisk subkutan implantasjon av minipumper og transponderebruk av utvendig telemetrisk utstyr som kun forårsaker mindre svekkelse av dyrene eller mindre forstyrrelse av normal aktivitet og atferdadministrering av stoffer subkutant, intramuskulært, intraperitonealt, intravenøst via overfladiske blodkar og via sonde, hvor stoffet kun har en mild innvirkning på dyret, og volumene er innenfor passende grenser med hensyn til dyrets størrelse og artmodeller med fremkalling av tumorer, eller med spontane tumorer, som ikke forårsaker noen påvisbar klinisk skadelig effekt (f.eks. små subcutane, ikke-invasive knuter)avl av genetisk modifiserte dyr hvor effekten på fenotypen forventes å være mildfôring med modifiserte dietter som ikke tilfredsstiller alle dyrets næringsmessige behov og forventes å gi mild klinisk abnormalitet i løpet av studienkortvarig opphold (< 24 timer) i metabolismeburstudier som innebærer kortvarig sosial isolasjon og kortvarig enkeltoppstalling av voksne rotter og mus tilhørende sosiale stammermodeller som eksponerer dyr for skadelige stimuli som gir kortvarig mild smerte, frykt eller annen belastning og som dyrene lett kan unngåen kombinasjon eller gjentakelse av følgende eksempler kan klassifiseres som «lett belastende»:vurdering av kroppssammensetning ved hjelp av ikke-invasive metoder med minimal fengslingmonitorering av EKG med ikke-invasive metoder med minimal eller ingen fengsling av tilvente dyrbruk av utvendig telemetriutstyr som ikke forventes å ha noen påvirkning på sosialt tilpassede dyr, og som ikke påvirker normal aktivitet og atferdavl av genetisk modifiserte dyr som ikke forventes å gi klinisk påvisbar skadelig fenotypetilsetting av inerte markører i dietten for å følge tarmpassasjentilbakeholdelse av fôr til voksne rotter i < 24 timer«open field testing», dvs. vitenskapelige forsøk for å undersøke bevegelse, undersøkende atferd og fryktlignende atferd hos laboratoriedyr (rotter/mus).Moderat belastende forsøk:hyppig bruk av testsubstanser som gir moderate kliniske effekter, og uttak av blodprøver (> 10 % av sirkulerende blodvolum) på bevisste dyr i løpet av få dager uten at volumtapet erstattesstudier for fastsettelse av akuttoksiske doser, tester for kronisk toksisitet/carsinogenitet med ikke-dødelige endepunkterkirurgiske inngrep under generell anestesi og egnet smertelindring assosiert med postoperativ smerte, annen belastning eller svekkelse av allmenntilstanden. Dette omfatter for eksempel thorakotomi, craniotomi, laparatomi, orchidektomi, lymfadenektomi, thyroidektomi, ortopedisk kirurgi med effektiv stabilisering og sårbehandling, organtransplantasjon med effektiv avstøtningsbehandling, og kirurgisk implantasjon av katetre eller biomedisinsk utstyr (f.eks. telemetriske sendere, minipumper osv.)modeller med fremkalling av tumorer, eller med spontane tumorer, som forventes å gi moderat smerte eller frykt eller moderat påvirkning av normal atferdstråling eller kjemoterapi med subletal dose, eller med en ellers letal dose, men med gjenoppbygging av immunsystemet. Skadelige bivirkninger forventes å være milde eller moderate og kortvarige (< 5 dager)avl av genetisk modifiserte dyr, som forventes å resultere i en moderat skadelig fenotypeetablering av genetisk modifiserte dyr gjennom kirurgiske inngrepbruk av metabolismebur som innebærer moderat bevegelsesbegrensning over en periode på opp til 5 dagerstudier med modifiserte dietter som ikke tilfredsstiller alle dyrets næringsbehov, og som forventes å gi moderat klinisk abnormalitet i løpet av studientilbakeholdelse av fôr til voksne rotter i 48 timerfremkalling av flukt- og tilbaketrekkingsreaksjoner hvor dyret ikke er i stand til å flykte eller unngå påvirkningen, og som forventes å resultere i moderat frykt.Betydelig belastende forsøk:toksisitetstesting med døden som endepunkt eller hvor dødsfall må forventes og det fremkalles alvorlige patofysiologiske tilstander (f.eks. akuttoksisitetstesting av en enkelt dose (se OECDs retningslinjer for testing))testing av utstyr som ved svikt kan forårsake alvorlig smerte, frykt eller død (f.eks. hjerteassisterende utstyr)utprøving av vaksine karakterisert med vedvarende svekkelse av dyrets tilstand, progressiv sykdom som fører til døden, forbundet med langvarig moderat smerte, frykt eller annen belastningstråling eller kjemoterapi med dødelig dose uten gjenoppbygging av immunsystemet, eller gjenoppbygging med produksjon av transplantat-kontra-vertsreaksjon (GVDH = graft versus host disease)modeller med fremkalling av tumorer, eller med spontane tumorer, som forventes å gi progressiv dødelig sykdom forbundet med langvarig moderat smerte, frykt eller annen belastning (f.eks. tumorer som forårsaker avmagring, invasive bentumorer, tumorer som fører til metastatisk spredning, og tumorer som får utvikle sår)ethvert inngrep på dyr under generell anestesi, som forventes å resultere i alvorlig eller vedvarende moderat postoperativ smerte, frykt eller annen belastning eller alvorlig og vedvarende svekkelse av dyrets allmenntilstand (f.eks. fremkalling av ustabile benbrudd, thoracotomi uten adekvat smertelindring og trauma for å produsere multippel organsvikt)organtransplantasjon hvor organfrastøting sannsynligvis vil medføre alvorlig ubehag, annen belastning eller svekkelse av dyrets allmenntilstand (f.eks. xenotransplantasjon)avl av dyr med genetiske sykdommer, som forventes å oppleve alvorlig og vedvarende svekkelse av allmenntilstanden (f.eks. Huntingtons sykdom, muskeldystrofi og modeller for kronisk tilbakevendende nevritt)bruk av metabolismebur med betydelig bevegelsesbegrensning over en lengre periodeelektrisk sjokk som dyret ikke kan unnvike (f.eks. for å produsere tillært hjelpeløshet)fullstendig isolasjon av sosiale arter over lengre perioder (f.eks. hunder og primater)immobiliseringsstress for å fremkalle magesår eller hjertesvikt hos rottertvunget svømming eller annen fysisk trening med utmattelse som endepunkt.
+Eksempler på ulike typer forsøk som er klassifisert på bakgrunn av faktorer relatert til type forsøk:
+
+1. Lett belastende forsøk:
+
+   1. administrering av bedøvelsesmiddel, unntatt for avliving som eneste formål
+   2. farmakokinetiske studier hvor det gis en enkelt dose av en substans og tas et begrenset antall blodprøver (totalt < 10 % av sirkulerende blodvolum), og substansen ikke forventes å gi noen påvisbar skadelig virkning
+   3. ikke-invasiv billeddiagnostikk (f.eks. MRI) med egnet behandling med beroligende eller bedøvende legemidler
+   4. overfladiske inngrep, eks. øre- og halebiopsier, ikke-kirurgisk subkutan implantasjon av minipumper og transpondere
+   5. bruk av utvendig telemetrisk utstyr som kun forårsaker mindre svekkelse av dyrene eller mindre forstyrrelse av normal aktivitet og atferd
+   6. administrering av stoffer subkutant, intramuskulært, intraperitonealt, intravenøst via overfladiske blodkar og via sonde, hvor stoffet kun har en mild innvirkning på dyret, og volumene er innenfor passende grenser med hensyn til dyrets størrelse og art
+   7. modeller med fremkalling av tumorer, eller med spontane tumorer, som ikke forårsaker noen påvisbar klinisk skadelig effekt (f.eks. små subcutane, ikke-invasive knuter)
+   8. avl av genetisk modifiserte dyr hvor effekten på fenotypen forventes å være mild
+   9. fôring med modifiserte dietter som ikke tilfredsstiller alle dyrets næringsmessige behov og forventes å gi mild klinisk abnormalitet i løpet av studien
+   10. kortvarig opphold (< 24 timer) i metabolismebur
+   11. studier som innebærer kortvarig sosial isolasjon og kortvarig enkeltoppstalling av voksne rotter og mus tilhørende sosiale stammer
+   12. modeller som eksponerer dyr for skadelige stimuli som gir kortvarig mild smerte, frykt eller annen belastning og som dyrene lett kan unngå
+   13. en kombinasjon eller gjentakelse av følgende eksempler kan klassifiseres som «lett belastende»:
+
+       1. vurdering av kroppssammensetning ved hjelp av ikke-invasive metoder med minimal fengsling
+       2. monitorering av EKG med ikke-invasive metoder med minimal eller ingen fengsling av tilvente dyr
+       3. bruk av utvendig telemetriutstyr som ikke forventes å ha noen påvirkning på sosialt tilpassede dyr, og som ikke påvirker normal aktivitet og atferd
+       4. avl av genetisk modifiserte dyr som ikke forventes å gi klinisk påvisbar skadelig fenotype
+       5. tilsetting av inerte markører i dietten for å følge tarmpassasjen
+       6. tilbakeholdelse av fôr til voksne rotter i < 24 timer
+   14. «open field testing», dvs. vitenskapelige forsøk for å undersøke bevegelse, undersøkende atferd og fryktlignende atferd hos laboratoriedyr (rotter/mus).
+2. Moderat belastende forsøk:
+
+   1. hyppig bruk av testsubstanser som gir moderate kliniske effekter, og uttak av blodprøver (> 10 % av sirkulerende blodvolum) på bevisste dyr i løpet av få dager uten at volumtapet erstattes
+   2. studier for fastsettelse av akuttoksiske doser, tester for kronisk toksisitet/carsinogenitet med ikke-dødelige endepunkter
+   3. kirurgiske inngrep under generell anestesi og egnet smertelindring assosiert med postoperativ smerte, annen belastning eller svekkelse av allmenntilstanden. Dette omfatter for eksempel thorakotomi, craniotomi, laparatomi, orchidektomi, lymfadenektomi, thyroidektomi, ortopedisk kirurgi med effektiv stabilisering og sårbehandling, organtransplantasjon med effektiv avstøtningsbehandling, og kirurgisk implantasjon av katetre eller biomedisinsk utstyr (f.eks. telemetriske sendere, minipumper osv.)
+   4. modeller med fremkalling av tumorer, eller med spontane tumorer, som forventes å gi moderat smerte eller frykt eller moderat påvirkning av normal atferd
+   5. stråling eller kjemoterapi med subletal dose, eller med en ellers letal dose, men med gjenoppbygging av immunsystemet. Skadelige bivirkninger forventes å være milde eller moderate og kortvarige (< 5 dager)
+   6. avl av genetisk modifiserte dyr, som forventes å resultere i en moderat skadelig fenotype
+   7. etablering av genetisk modifiserte dyr gjennom kirurgiske inngrep
+   8. bruk av metabolismebur som innebærer moderat bevegelsesbegrensning over en periode på opp til 5 dager
+   9. studier med modifiserte dietter som ikke tilfredsstiller alle dyrets næringsbehov, og som forventes å gi moderat klinisk abnormalitet i løpet av studien
+   10. tilbakeholdelse av fôr til voksne rotter i 48 timer
+   11. fremkalling av flukt- og tilbaketrekkingsreaksjoner hvor dyret ikke er i stand til å flykte eller unngå påvirkningen, og som forventes å resultere i moderat frykt.
+3. Betydelig belastende forsøk:
+
+   1. toksisitetstesting med døden som endepunkt eller hvor dødsfall må forventes og det fremkalles alvorlige patofysiologiske tilstander (f.eks. akuttoksisitetstesting av en enkelt dose (se OECDs retningslinjer for testing))
+   2. testing av utstyr som ved svikt kan forårsake alvorlig smerte, frykt eller død (f.eks. hjerteassisterende utstyr)
+   3. utprøving av vaksine karakterisert med vedvarende svekkelse av dyrets tilstand, progressiv sykdom som fører til døden, forbundet med langvarig moderat smerte, frykt eller annen belastning
+   4. stråling eller kjemoterapi med dødelig dose uten gjenoppbygging av immunsystemet, eller gjenoppbygging med produksjon av transplantat-kontra-vertsreaksjon (GVDH = graft versus host disease)
+   5. modeller med fremkalling av tumorer, eller med spontane tumorer, som forventes å gi progressiv dødelig sykdom forbundet med langvarig moderat smerte, frykt eller annen belastning (f.eks. tumorer som forårsaker avmagring, invasive bentumorer, tumorer som fører til metastatisk spredning, og tumorer som får utvikle sår)
+   6. ethvert inngrep på dyr under generell anestesi, som forventes å resultere i alvorlig eller vedvarende moderat postoperativ smerte, frykt eller annen belastning eller alvorlig og vedvarende svekkelse av dyrets allmenntilstand (f.eks. fremkalling av ustabile benbrudd, thoracotomi uten adekvat smertelindring og trauma for å produsere multippel organsvikt)
+   7. organtransplantasjon hvor organfrastøting sannsynligvis vil medføre alvorlig ubehag, annen belastning eller svekkelse av dyrets allmenntilstand (f.eks. xenotransplantasjon)
+   8. avl av dyr med genetiske sykdommer, som forventes å oppleve alvorlig og vedvarende svekkelse av allmenntilstanden (f.eks. Huntingtons sykdom, muskeldystrofi og modeller for kronisk tilbakevendende nevritt)
+   9. bruk av metabolismebur med betydelig bevegelsesbegrensning over en lengre periode
+   10. elektrisk sjokk som dyret ikke kan unnvike (f.eks. for å produsere tillært hjelpeløshet)
+   11. fullstendig isolasjon av sosiale arter over lengre perioder (f.eks. hunder og primater)
+   12. immobiliseringsstress for å fremkalle magesår eller hjertesvikt hos rotter
+   13. tvunget svømming eller annen fysisk trening med utmattelse som endepunkt.
 
 ## Vedlegg C. Tillatte avlivingsmetoder, jf. § 16 annet ledd
 
-1. Ved avliving av dyr skal én av de metodene som er oppført i tabellen under benyttes.Andre metoder enn de som er oppført i tabellen, kan bare benyttespå bevisstløse dyr, forutsatt at dyret ikke gjenvinner bevisstheten før døden inntrerpå dyr som brukes i landbruksforskning, når formålet med forsøket krever at dyret holdes på lignende måte som produksjonsdyr. Disse dyrene skal avlives i samsvar med [forskrift 13. januar 2013 nr. 60](forskrift/2013-01-13-60) om avliving av dyr, herunder vedlegg I i forordning [1099/2009/EU](eu/32009r1099) om beskyttelse av dyr på avlivingstidspunktet.
-2. Det skal sikres at døden er inntrådt ved én av følgende metoder:å konstatere permanent opphørt sirkulasjonå destruere hjernenå dislokere nakkenå foreta avblødningå konstatere at rigor mortis har inntrådt.
-3. Tabell over tillatte avlivingsmetoder. Åpne felt, med eller uten merknad, indikerer at metoden er tillatt.Vilkår med referanse til tabellen:skal brukes med forutgående sedering der det er hensiktsmessigskal bare brukes på store krypdyrskal bare brukes med gradvis påfylling. Metoden skal ikke brukes på fostre og nyfødte gnagere.skal bare brukes på fugler under 1 kg. Fugler over 250 g skal sederes.skal bare brukes på gnagere under 1 kg. Gnagere over 150 g skal sederes.skal bare brukes på kaniner under 1 kg. Kaniner over 150 g skal sederes.skal bare brukes på fugler under 5 kgskal bare brukes på gnagere under 1 kgskal bare brukes på kaniner under 5 kgskal bare brukes på nyfødteskal bare brukes på fugler under 250 gskal bare brukes hvis andre metoder ikke er muligeSpesialutstyr er påkrevet.skal bare brukes på griserskal bare brukes ved feltforsøk av erfarne skyttereskal bare brukes ved feltforsøk av erfarne skyttere når andre metoder ikke er mulige.
+1. Ved avliving av dyr skal én av de metodene som er oppført i tabellen under benyttes.
+
+   Andre metoder enn de som er oppført i tabellen, kan bare benyttes
+
+   1. på bevisstløse dyr, forutsatt at dyret ikke gjenvinner bevisstheten før døden inntrer
+   2. på dyr som brukes i landbruksforskning, når formålet med forsøket krever at dyret holdes på lignende måte som produksjonsdyr. Disse dyrene skal avlives i samsvar med [forskrift 13. januar 2013 nr. 60](forskrift/2013-01-13-60) om avliving av dyr, herunder vedlegg I i forordning [1099/2009/EU](eu/32009r1099) om beskyttelse av dyr på avlivingstidspunktet.
+2. Det skal sikres at døden er inntrådt ved én av følgende metoder:
+
+   1. å konstatere permanent opphørt sirkulasjon
+   2. å destruere hjernen
+   3. å dislokere nakken
+   4. å foreta avblødning
+   5. å konstatere at rigor mortis har inntrådt.
+3. Tabell over tillatte avlivingsmetoder. Åpne felt, med eller uten merknad, indikerer at metoden er tillatt.
+
+   Vilkår med referanse til tabellen:
+
+   1. skal brukes med forutgående sedering der det er hensiktsmessig
+   2. skal bare brukes på store krypdyr
+   3. skal bare brukes med gradvis påfylling. Metoden skal ikke brukes på fostre og nyfødte gnagere.
+   4. skal bare brukes på fugler under 1 kg. Fugler over 250 g skal sederes.
+   5. skal bare brukes på gnagere under 1 kg. Gnagere over 150 g skal sederes.
+   6. skal bare brukes på kaniner under 1 kg. Kaniner over 150 g skal sederes.
+   7. skal bare brukes på fugler under 5 kg
+   8. skal bare brukes på gnagere under 1 kg
+   9. skal bare brukes på kaniner under 5 kg
+   10. skal bare brukes på nyfødte
+   11. skal bare brukes på fugler under 250 g
+   12. skal bare brukes hvis andre metoder ikke er mulige
+   13. Spesialutstyr er påkrevet.
+   14. skal bare brukes på griser
+   15. skal bare brukes ved feltforsøk av erfarne skyttere
+   16. skal bare brukes ved feltforsøk av erfarne skyttere når andre metoder ikke er mulige.
 
 ## Vedlegg D. Dyrearter som skal være avlet for forsøk, jf. § 22 første ledd første punktum
 
@@ -415,7 +616,19 @@ Eksempler på ulike typer forsøk som er klassifisert på bakgrunn av faktorer r
 
 ## Vedlegg E. Utdanning og praksis, jf. § 24 annet ledd
 
-Utdannings- og praksisopplegget skal minst omfattebestemmelsene i denne forskriftenetikk relatert til forholdet mellom mennesker og dyr, livets egenverdi og argumenter for og imot bruk av dyr til vitenskapelige formålgrunnleggende og relevant artsspesifikk biologi relatert til anatomi, fysiologi, avl, genetikk og genetiske endringerdyreatferd, dyrehold og miljøberikningartsspesifikke håndteringsmetoder og forsøkdyrehelsearbeid og hygienegjenkjennelse av artsspesifikk frykt, smerte og annen belastning for de mest vanlige forsøksdyrenebedøvelse, smertelindring og avlivingbruk av humane endepunkterkrav om erstatning, reduksjon og forbedringdesign av forsøk, hvis relevant.
+Utdannings- og praksisopplegget skal minst omfatte
+
+1. bestemmelsene i denne forskriften
+2. etikk relatert til forholdet mellom mennesker og dyr, livets egenverdi og argumenter for og imot bruk av dyr til vitenskapelige formål
+3. grunnleggende og relevant artsspesifikk biologi relatert til anatomi, fysiologi, avl, genetikk og genetiske endringer
+4. dyreatferd, dyrehold og miljøberikning
+5. artsspesifikke håndteringsmetoder og forsøk
+6. dyrehelsearbeid og hygiene
+7. gjenkjennelse av artsspesifikk frykt, smerte og annen belastning for de mest vanlige forsøksdyrene
+8. bedøvelse, smertelindring og avliving
+9. bruk av humane endepunkter
+10. krav om erstatning, reduksjon og forbedring
+11. design av forsøk, hvis relevant.
 
 ## Vedlegg F. Hold av dyr, jf. § 29 tredje ledd og § 30 siste ledd
 
@@ -487,9 +700,15 @@ Utdannings- og praksisopplegget skal minst omfattebestemmelsene i denne forskrif
 
 3.3*Oppstalling og beriking*
 
-1. *Oppstalling*Dyr som ikke er naturlig solitære, skal holdes i stabile sosiale grupper av individer som går godt sammen. Hvis Mattilsynet har tillatt individuell oppstalling, skal varigheten begrenses til det absolutt nødvendige. Dyrene skal hele tiden kunne se, høre, lukte og berøre hverandre. Introduksjon eller re-introduksjon av dyr i etablerte grupper skal overvåkes nøye for å unngå konflikt og oppløste sosiale relasjoner.
-2. *Beriking*Alle dyr skal ha tilgang til arealer med tilstrekkelig kompleksitet for å kunne utøve et bredt spekter av normal atferd. For å redusere stressindusert atferd, skal dyrene gis mulighet til å kontrollere og velge sitt miljø. Oppdrettere, formidlere og brukere skal ta i bruk egnede berikingsmetoder som øker antallet aktiviteter dyrene har tilgang til, og som gir dem større mulighet til å mestre sin situasjon. Beriking kan oppnås gjennom fysisk trening, fødesøk og finmotoriske og kognitive aktiviteter som er egnet for arten. I dyreinnhegninger skal miljøberikingen tilpasses dyrearten og dyrenes individuelle behov. Berikingsprogram skal revideres og oppdateres regelmessig.
-3. *Dyreinnhegninger*Dyreinnhegninger skal være laget av materialer som ikke er helseskadelige for dyrene, og utformet og konstruert slik at dyrene ikke påføres skader. De skal være laget av engangssartikler eller av materialer som tåler rengjøring og desinfeksjon. Underlaget i innhegningen skal være tilpasset dyrenes art og alder, og utformet for enkel fjerning av urin og avføring.
+1. *Oppstalling*
+
+   Dyr som ikke er naturlig solitære, skal holdes i stabile sosiale grupper av individer som går godt sammen. Hvis Mattilsynet har tillatt individuell oppstalling, skal varigheten begrenses til det absolutt nødvendige. Dyrene skal hele tiden kunne se, høre, lukte og berøre hverandre. Introduksjon eller re-introduksjon av dyr i etablerte grupper skal overvåkes nøye for å unngå konflikt og oppløste sosiale relasjoner.
+2. *Beriking*
+
+   Alle dyr skal ha tilgang til arealer med tilstrekkelig kompleksitet for å kunne utøve et bredt spekter av normal atferd. For å redusere stressindusert atferd, skal dyrene gis mulighet til å kontrollere og velge sitt miljø. Oppdrettere, formidlere og brukere skal ta i bruk egnede berikingsmetoder som øker antallet aktiviteter dyrene har tilgang til, og som gir dem større mulighet til å mestre sin situasjon. Beriking kan oppnås gjennom fysisk trening, fødesøk og finmotoriske og kognitive aktiviteter som er egnet for arten. I dyreinnhegninger skal miljøberikingen tilpasses dyrearten og dyrenes individuelle behov. Berikingsprogram skal revideres og oppdateres regelmessig.
+3. *Dyreinnhegninger*
+
+   Dyreinnhegninger skal være laget av materialer som ikke er helseskadelige for dyrene, og utformet og konstruert slik at dyrene ikke påføres skader. De skal være laget av engangssartikler eller av materialer som tåler rengjøring og desinfeksjon. Underlaget i innhegningen skal være tilpasset dyrenes art og alder, og utformet for enkel fjerning av urin og avføring.
 
 3.4*Fôring*
 

@@ -36,7 +36,11 @@ Forskriften skal bidra til en rasjonell utvikling innen hesteoppdrett og sikre s
 
 ### § 2. Hvilke dyr og aktiviteter forskriften gjelder og hvem den gjelder for
 
-Forskriften gjelderbruk av hester og hunder i konkurransertrening av hester og hunder til konkurranserbehandling av hester og hunder før og under trening og konkurranser.
+Forskriften gjelder
+
+1. bruk av hester og hunder i konkurranser
+2. trening av hester og hunder til konkurranser
+3. behandling av hester og hunder før og under trening og konkurranser.
 
 Forskriften gjelder for dyreholdere, kusker, jockeyer, ryttere, hundekjørere, trenere, arrangører, arrangørorganisasjoner og andre som bidrar til at hester og hunder trenes til og brukes i konkurranser. Forskriften gjelder også for veterinærer, dyrepleiere og andre som behandler hester og hunder.
 
@@ -44,7 +48,17 @@ Forskriften gjelder på norsk landterritorium, Svalbard, Jan Mayen og bilandene 
 
 ### § 3. Definisjoner
 
-I forskriften gjelder de følgende definisjonene:*konkurranse:* løp, prøver og andre aktiviteter som arrangeres for å få vurdert, rangert eller kvalifisert deltakerne etter prestasjoner eller egenskaper. Oppvarming og andre aktiviteter med dyrene i konkurranseområdet rett før og etter selve konkurransen regnes som en del av konkurransen*trening til konkurranse:* aktiviteter som utføres for å forbedre, utvikle eller teste dyrenes prestasjonsevner, ferdigheter eller egenskaper med tanke på at dyrene skal brukes i konkurranser. Nødvendig fysisk aktivitet for å rehabilitere dyret under og etter behandling regnes uansett ikke som trening til konkurranse*arrangør:* fysisk eller juridisk person som har ansvaret for å organisere og gjennomføre konkurranser*arrangørorganisasjon:* organisasjon som organiserer eller legger til rette for arrangører av konkurranser*behandling:* all bruk av legemidler og bruk av inngrep, substanser eller metoder som kan påvirke dyrs prestasjonsevne eller egenskaper. Bruk av mekaniske hjelpemidler skal regnes som behandling dersom hensikten bare er å endre virkningene av sjukdom eller skade*konkurranseområde:* geografisk område som omfatter bane, løype eller annet sted der konkurransen gjennomføres, og steder der dyrene oppstalles i regi av arrangøren i forbindelse med konkurransen*stevne:* et tidsavgrenset arrangement som omfatter én eller flere konkurranser under samme arrangør*høyintensive konkurranser for hester:* trav- og galoppløp, distanseritt lengre enn 40 km, terrengprøven i feltritt, maratonprøven i kjøring, og internasjonale konkurranser og norgesmesterskap i dressurridning og sprangridning*høyintensive konkurranser for hunder:* hundeløp som er lengre enn 320 km eller der det er flere enn 6 hunder i spannet og flere enn 20 spann som konkurrerer.
+I forskriften gjelder de følgende definisjonene:
+
+1. *konkurranse:* løp, prøver og andre aktiviteter som arrangeres for å få vurdert, rangert eller kvalifisert deltakerne etter prestasjoner eller egenskaper. Oppvarming og andre aktiviteter med dyrene i konkurranseområdet rett før og etter selve konkurransen regnes som en del av konkurransen
+2. *trening til konkurranse:* aktiviteter som utføres for å forbedre, utvikle eller teste dyrenes prestasjonsevner, ferdigheter eller egenskaper med tanke på at dyrene skal brukes i konkurranser. Nødvendig fysisk aktivitet for å rehabilitere dyret under og etter behandling regnes uansett ikke som trening til konkurranse
+3. *arrangør:* fysisk eller juridisk person som har ansvaret for å organisere og gjennomføre konkurranser
+4. *arrangørorganisasjon:* organisasjon som organiserer eller legger til rette for arrangører av konkurranser
+5. *behandling:* all bruk av legemidler og bruk av inngrep, substanser eller metoder som kan påvirke dyrs prestasjonsevne eller egenskaper. Bruk av mekaniske hjelpemidler skal regnes som behandling dersom hensikten bare er å endre virkningene av sjukdom eller skade
+6. *konkurranseområde:* geografisk område som omfatter bane, løype eller annet sted der konkurransen gjennomføres, og steder der dyrene oppstalles i regi av arrangøren i forbindelse med konkurransen
+7. *stevne:* et tidsavgrenset arrangement som omfatter én eller flere konkurranser under samme arrangør
+8. *høyintensive konkurranser for hester:* trav- og galoppløp, distanseritt lengre enn 40 km, terrengprøven i feltritt, maratonprøven i kjøring, og internasjonale konkurranser og norgesmesterskap i dressurridning og sprangridning
+9. *høyintensive konkurranser for hunder:* hundeløp som er lengre enn 320 km eller der det er flere enn 6 hunder i spannet og flere enn 20 spann som konkurrerer.
 
 ## Kapittel 2. Bestemmelser om dyrevelferd
 
@@ -92,7 +106,12 @@ Påbudte dokumenter om identiteten til dyret og om dyrets helse og behandlinger 
 
 ### § 10. Hvordan arrangørene skal sikre dyrene mot unødvendige belastninger
 
-Arrangørene skal sikre attravbaner og andre konstruerte konkurranseområder er godt utformet og vedlikeholdtløyper og traseer er egnet og om nødvendig lagt til rette for aktivitetenalle dyrene kan få nødvendig ly, hvile, stell, fôr og vann i konkurranseområdet før, under og etter konkurransendyr som skades innenfor det tidsrommet som omfattes av stevnet etter [§ 11](forskrift/2020-12-09-2647/§11) tredje ledd bokstav m, får nødvendig førstehjelp.
+Arrangørene skal sikre at
+
+1. travbaner og andre konstruerte konkurranseområder er godt utformet og vedlikeholdt
+2. løyper og traseer er egnet og om nødvendig lagt til rette for aktiviteten
+3. alle dyrene kan få nødvendig ly, hvile, stell, fôr og vann i konkurranseområdet før, under og etter konkurransen
+4. dyr som skades innenfor det tidsrommet som omfattes av stevnet etter [§ 11](forskrift/2020-12-09-2647/§11) tredje ledd bokstav m, får nødvendig førstehjelp.
 
 Arrangøren skal avbryte, utsette, endre eller avlyse konkurransen dersom været, føret, temperaturen, konkurranseområdet eller andre ytre forhold kan utsette dyrene for alvorlige skader eller belastninger. Deltakere i konkurranser skal la være å delta med dyrene under slike forhold dersom arrangøren ikke gjør noe med konkurransen.
 
@@ -104,7 +123,28 @@ Arrangører av konkurranser skal ha og håndheve et reglement som utfyller eller
 
 Arrangørorganisasjonene skal påse at arrangørene oppfyller reglementsplikten etter første ledd. Arrangørorganisasjonene kan utarbeide og håndheve reglementene på vegne av arrangørene.
 
-Reglementet skal inneholde nødvendige bestemmelser omhvem som regnes som ansvarlig person for dyret under trening og konkurranserhva slags håndtering av dyrene og bruk av utstyr som er tillatt eller forbudt før, under og etter konkurranserhvilke forhold hos dyrene som gjør at de ikke kan brukes i konkurranserhvilke behandlinger som medfører forbud mot bruk av dyr i konkurranser resten av dyrets levetidhvilke behandlinger som medfører forbud mot bruk av dyr i konkurranser i et begrenset tidsromhvor lenge det er forbudt å bruke dyr i konkurranser etter ulike behandlinger, såkalte «karenstider»hvor store mengder av legemidler og andre stoffer som skal regnes som virksomme rester og føre til at dyr ikke kan brukes i konkurranserhvordan legemidler og behandlingsutstyr skal oppbevares på konkurranseområdetnår det skal tas dopingprøver fra dyrene, hvem som avgjør hvilke dyr som skal tas prøve av, og hvem som tar ut og analyserer prøvenehvordan dyr skal kunne identifiseres med merking og identifikasjonsdokumenterhvilket innhold og omfang konkurransene kan hahva et konkurranseområde omfatter, og hvordan konkurranseområdene skal være utformet og vedlikeholdthvilke tidsrom konkurranser og stevner omfatterhvilke ytre forhold som skal føre til at konkurransen avbrytes, utsettes, endres eller avlyses av hensyn til dyrevelferdenhvordan arrangøren skal sikre at dyrene får nødvendig førstehjelp under konkurransen eller stevnethvilken kompetanse og hvilke oppgaver dyrevelferdskontrollørene etter [§ 12](forskrift/2020-12-09-2647/§12) første ledd skal hahvor uavhengig stevneveterinæren etter [§ 12](forskrift/2020-12-09-2647/§12) tredje ledd skal være, og hvilke oppgaver og hvilken myndighet stevneveterinæren skal hahvilken selvdømmerett arrangørene og arrangørorganisasjonene skal ha for å kunne utrede og pådømme brudd på reglementenehvordan sakene skal utredes på forsvarlig måte ved mistanke om brudd på reglementene, blant annet bestemmelser om bruk av sakkyndigehvilke sanksjoner som kan ilegges for brudd på reglementene.
+Reglementet skal inneholde nødvendige bestemmelser om
+
+1. hvem som regnes som ansvarlig person for dyret under trening og konkurranser
+2. hva slags håndtering av dyrene og bruk av utstyr som er tillatt eller forbudt før, under og etter konkurranser
+3. hvilke forhold hos dyrene som gjør at de ikke kan brukes i konkurranser
+4. hvilke behandlinger som medfører forbud mot bruk av dyr i konkurranser resten av dyrets levetid
+5. hvilke behandlinger som medfører forbud mot bruk av dyr i konkurranser i et begrenset tidsrom
+6. hvor lenge det er forbudt å bruke dyr i konkurranser etter ulike behandlinger, såkalte «karenstider»
+7. hvor store mengder av legemidler og andre stoffer som skal regnes som virksomme rester og føre til at dyr ikke kan brukes i konkurranser
+8. hvordan legemidler og behandlingsutstyr skal oppbevares på konkurranseområdet
+9. når det skal tas dopingprøver fra dyrene, hvem som avgjør hvilke dyr som skal tas prøve av, og hvem som tar ut og analyserer prøvene
+10. hvordan dyr skal kunne identifiseres med merking og identifikasjonsdokumenter
+11. hvilket innhold og omfang konkurransene kan ha
+12. hva et konkurranseområde omfatter, og hvordan konkurranseområdene skal være utformet og vedlikeholdt
+13. hvilke tidsrom konkurranser og stevner omfatter
+14. hvilke ytre forhold som skal føre til at konkurransen avbrytes, utsettes, endres eller avlyses av hensyn til dyrevelferden
+15. hvordan arrangøren skal sikre at dyrene får nødvendig førstehjelp under konkurransen eller stevnet
+16. hvilken kompetanse og hvilke oppgaver dyrevelferdskontrollørene etter [§ 12](forskrift/2020-12-09-2647/§12) første ledd skal ha
+17. hvor uavhengig stevneveterinæren etter [§ 12](forskrift/2020-12-09-2647/§12) tredje ledd skal være, og hvilke oppgaver og hvilken myndighet stevneveterinæren skal ha
+18. hvilken selvdømmerett arrangørene og arrangørorganisasjonene skal ha for å kunne utrede og pådømme brudd på reglementene
+19. hvordan sakene skal utredes på forsvarlig måte ved mistanke om brudd på reglementene, blant annet bestemmelser om bruk av sakkyndige
+20. hvilke sanksjoner som kan ilegges for brudd på reglementene.
 
 > Endret ved forskrift [19 feb 2021 nr. 567](forskrift/2021-02-19-567).
 
@@ -114,7 +154,11 @@ For alle konkurranser skal arrangøren eller arrangørorganisasjonen utnevne en 
 
 Ved hesteløp arrangert av selskap med totalisatorbevilling, skal stevneveterinærene være ansatt i Mattilsynet.
 
-Ved andre høyintensive konkurranser skal stevneveterinærene være utnevnt av arrangørene eller arrangørorganisasjonen. En slik stevneveterinær skal være tilstrekkelig uavhengig av og ha tilstrekkelig myndighet over deltakerne, arrangøren og arrangørorganisasjonen. Arrangører, ansvarlige personer etter reglementet og andre som kan påvirke dyrevelferden under konkurransen, skal følge stevneveterinærens instruksjoner og beslutninger om dyrevelferden. Videre skal denne stevneveterinærenkontrollere at alle dyrene er friske og egnet til å brukes før stevnet eller konkurransen starterbeslutte om nødvendig at dyr ikke skal brukes i konkurransenbeslutte om nødvendig at konkurransen skal avbrytes, utsettes, endres eller avlyses.
+Ved andre høyintensive konkurranser skal stevneveterinærene være utnevnt av arrangørene eller arrangørorganisasjonen. En slik stevneveterinær skal være tilstrekkelig uavhengig av og ha tilstrekkelig myndighet over deltakerne, arrangøren og arrangørorganisasjonen. Arrangører, ansvarlige personer etter reglementet og andre som kan påvirke dyrevelferden under konkurransen, skal følge stevneveterinærens instruksjoner og beslutninger om dyrevelferden. Videre skal denne stevneveterinæren
+
+1. kontrollere at alle dyrene er friske og egnet til å brukes før stevnet eller konkurransen starter
+2. beslutte om nødvendig at dyr ikke skal brukes i konkurransen
+3. beslutte om nødvendig at konkurransen skal avbrytes, utsettes, endres eller avlyses.
 
 Arrangøren skal sørge for at dyrevelferdskontrollørene og stevneveterinæren får nødvendig hjelp av annet personell.
 
@@ -126,13 +170,20 @@ Arrangøren skal sørge for at dyrevelferdskontrollørene og stevneveterinæren 
 
 ### § 13. Forbud mot forskjellsbehandling
 
-I reglene om deltakelse, bedømmelse, premiering, fortjeneste og andre forhold i reglementer for konkurranser skal det ikke gjøres forskjell påhester som er registrerte i Norge, og hester som er registrerte i andre EØS-landhester som er født i Norge, og hester som er født i andre EØS-land.
+I reglene om deltakelse, bedømmelse, premiering, fortjeneste og andre forhold i reglementer for konkurranser skal det ikke gjøres forskjell på
+
+1. hester som er registrerte i Norge, og hester som er registrerte i andre EØS-land
+2. hester som er født i Norge, og hester som er født i andre EØS-land.
 
 > Tilføyd ved forskrift [13 sep 2021 nr. 2760](forskrift/2021-09-13-2760).
 
 ### § 14. Adgang til forskjellsbehandling
 
-[§ 13](forskrift/2020-12-09-2647/§13) gjelder ikkekonkurranser forbeholdt hester som er registrerte i en stambok, og der formålet med konkurransen er å forbedre rasenregionale konkurranser med sikte på utvelgelse av hesterhistoriske og tradisjonelle konkurranser.
+[§ 13](forskrift/2020-12-09-2647/§13) gjelder ikke
+
+1. konkurranser forbeholdt hester som er registrerte i en stambok, og der formålet med konkurransen er å forbedre rasen
+2. regionale konkurranser med sikte på utvelgelse av hester
+3. historiske og tradisjonelle konkurranser.
 
 [§ 13](forskrift/2020-12-09-2647/§13) er ikke til hinder for at arrangører av konkurranser kan holde tilbake inntil 20 % av premiepengene eller fortjenesten fra konkurranser for å beskytte, fremme og forbedre norsk hesteoppdrett.
 

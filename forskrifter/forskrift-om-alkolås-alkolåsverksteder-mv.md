@@ -38,7 +38,21 @@ Dersom et kjøretøy som nevnt i første ledd er registrert i utlandet, er kjør
 
 ### § 3. Definisjoner
 
-Følgende definisjoner legges til grunn i denne forskriften:*alkolås:* en teknisk innretning som skal hindre at kjøretøyet kan startes eller settes i bevegelse når føreren har ulovlige verdier av alkohol i luften føreren puster ut, jf. [vegtrafikkloven § 22](lov/1965-06-18-4/§22)*arbeid på alkolås:* installasjon, avinstallasjon, reparasjon og service på alkolås som ikke foretas hos kjøretøyfabrikant*alkolåsverksted:* virksomhet som har fått godkjenning av Statens vegvesen til å utføre arbeid på alkolås*installatør:* person som fyller vilkårene for å arbeide med alkolås og som er ansatt i et godkjent alkolåsverksted*service:* kalibrering og vedlikehold av alkolåsen i henhold til produsentens anvisning*pusteprøve:* prøve føreren må avgi ved å puste i alkolåsen for at kjøretøyet skal kunne starte eller settes i bevegelse*monteringsinstruksjon:* en kjøretøyspesifikk instruksjon på hvordan alkolåsen skal monteres i kjøretøyet*installasjonsbekreftelse:* dokumentasjon på hvordan alkolåsen er installert i det aktuelle kjøretøyet*kvalitetsstyringssystem:* systematiske tiltak som dokumenterer at arbeidet utøves i samsvar med krav fastsatt i lov og forskrift*nødfunksjon:* mulighet for overstyring av alkolåsen gjennom blant annet nødnummer eller tildeling av kode*forbikoplingsfunksjon:* en bryter eller annen innretning som kan sette alkolåsen ut av funksjon*fristarttid:* tid fra godkjent pusteprøve er avlagt til det må avlegges ny pusteprøve ved stans av kjøretøyet*transportvirksomhet:* den som driver persontransport mot vederlag på veg i Norge i henhold til forskriftens [§ 2](forskrift/2018-05-30-777/§2).
+Følgende definisjoner legges til grunn i denne forskriften:
+
+1. *alkolås:* en teknisk innretning som skal hindre at kjøretøyet kan startes eller settes i bevegelse når føreren har ulovlige verdier av alkohol i luften føreren puster ut, jf. [vegtrafikkloven § 22](lov/1965-06-18-4/§22)
+2. *arbeid på alkolås:* installasjon, avinstallasjon, reparasjon og service på alkolås som ikke foretas hos kjøretøyfabrikant
+3. *alkolåsverksted:* virksomhet som har fått godkjenning av Statens vegvesen til å utføre arbeid på alkolås
+4. *installatør:* person som fyller vilkårene for å arbeide med alkolås og som er ansatt i et godkjent alkolåsverksted
+5. *service:* kalibrering og vedlikehold av alkolåsen i henhold til produsentens anvisning
+6. *pusteprøve:* prøve føreren må avgi ved å puste i alkolåsen for at kjøretøyet skal kunne starte eller settes i bevegelse
+7. *monteringsinstruksjon:* en kjøretøyspesifikk instruksjon på hvordan alkolåsen skal monteres i kjøretøyet
+8. *installasjonsbekreftelse:* dokumentasjon på hvordan alkolåsen er installert i det aktuelle kjøretøyet
+9. *kvalitetsstyringssystem:* systematiske tiltak som dokumenterer at arbeidet utøves i samsvar med krav fastsatt i lov og forskrift
+10. *nødfunksjon:* mulighet for overstyring av alkolåsen gjennom blant annet nødnummer eller tildeling av kode
+11. *forbikoplingsfunksjon:* en bryter eller annen innretning som kan sette alkolåsen ut av funksjon
+12. *fristarttid:* tid fra godkjent pusteprøve er avlagt til det må avlegges ny pusteprøve ved stans av kjøretøyet
+13. *transportvirksomhet:* den som driver persontransport mot vederlag på veg i Norge i henhold til forskriftens [§ 2](forskrift/2018-05-30-777/§2).
 
 > Endret ved forskrifter [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [19 feb 2024 nr. 288](forskrift/2024-02-19-288) (i kraft 1 mars 2024).
 
@@ -88,13 +102,24 @@ Alle alkolåser skal ha en monteringsinstruksjon.
 
 For kjøretøy der det ikke er nok å bryte strømmen til startmotoren, skal alkolåsen ha en monteringsinstruksjon for den aktuelle typen kjøretøy fra alkolåsprodusenten eller kjøretøyfabrikanten.
 
-Monteringsinstruksjonen etter annet ledd skal inneholde;opplysninger om hvilken kjøretøymodell og type som instruksjonen gjelder for,beskrivelse av hvilke kretser i kjøretøyet som må brytes, hvordan tilkoblingspunktene identifiseres og hvilke tilleggskomponenter som skal brukes,opplysninger om hvem som har utarbeidet instruksjonen,bekreftelse fra kjøretøyprodusenten eller kjøretøyimportøren på at tilkoblingen til bilens system ikke kan påvirke andre systemer i bilen under kjøring, ved feil eller strømbrudd i alkolåsen.
+Monteringsinstruksjonen etter annet ledd skal inneholde;
+
+1. opplysninger om hvilken kjøretøymodell og type som instruksjonen gjelder for,
+2. beskrivelse av hvilke kretser i kjøretøyet som må brytes, hvordan tilkoblingspunktene identifiseres og hvilke tilleggskomponenter som skal brukes,
+3. opplysninger om hvem som har utarbeidet instruksjonen,
+4. bekreftelse fra kjøretøyprodusenten eller kjøretøyimportøren på at tilkoblingen til bilens system ikke kan påvirke andre systemer i bilen under kjøring, ved feil eller strømbrudd i alkolåsen.
 
 ### § 12. Installasjonsbekreftelse ved ettermontering
 
 Installasjon av en alkolås i kjøretøyet etter denne forskriften skal dokumenteres med en installasjonsbekreftelse fra den personen som har utført installasjonen.
 
-Installasjonsbekreftelsen skal inneholde opplysninger om;kjøretøyets registreringsnummer,alkolåsens fabrikant og serienummer,referanse til anvendt monteringsinstruksjon,navn på alkolåsverkstedet og installatøren,dato for installasjonen og neste service.
+Installasjonsbekreftelsen skal inneholde opplysninger om;
+
+1. kjøretøyets registreringsnummer,
+2. alkolåsens fabrikant og serienummer,
+3. referanse til anvendt monteringsinstruksjon,
+4. navn på alkolåsverkstedet og installatøren,
+5. dato for installasjonen og neste service.
 
 Alkolåsverkstedet skal sørge for at installasjonsbekreftelsen lagres i 5 år og er tilgjengelig for tilsyn.
 
@@ -142,7 +167,13 @@ Ansvarlig leder skal til enhver tid besitte de kunnskaper og ferdigheter som er 
 
 Ansvarlig leder skal bruke monteringsinstruksjonen ved installasjon av alkolåsen og fylle ut en installasjonsbekreftelse, jf. [§ 11](forskrift/2018-05-30-777/§11) og [§ 12](forskrift/2018-05-30-777/§12).
 
-Ansvarlig leder skal;påse at alt arbeid på alkolås utføres etter kravene i denne forskrift og etter gjeldende regelverk,samordne arbeidet ved alkolåsverkstedet,veilede installatørene i alkolåsverkstedet,sørge for at etterutdanning av installatørene gjennomføres ved behov,påse at alkolåsverkstedet dokumenterer gjennomført opplæring.
+Ansvarlig leder skal;
+
+1. påse at alt arbeid på alkolås utføres etter kravene i denne forskrift og etter gjeldende regelverk,
+2. samordne arbeidet ved alkolåsverkstedet,
+3. veilede installatørene i alkolåsverkstedet,
+4. sørge for at etterutdanning av installatørene gjennomføres ved behov,
+5. påse at alkolåsverkstedet dokumenterer gjennomført opplæring.
 
 Dersom ansvarlig leder skal føre kjøretøyet som arbeidet på alkolåsen utføres på, må vedkommende ha førerkort for aktuell kjøretøyklasse, jf. [forskrift 19. januar 2004 nr. 298 om førerkort m.m](forskrift/2004-01-19-298). Unntak i [førerkortforskriften § 12-2 første ledd](forskrift/2004-01-19-298/§12-2/ledd/1) gjelder.
 
@@ -154,7 +185,14 @@ Ved ansvarlig leder sitt fravær skal det utpekes en stedfortreder. Stedfortrede
 
 Installatøren skal til enhver tid besitte de kunnskaper og ferdigheter som er nødvendige for å utføre arbeid etter denne forskriften.
 
-Installatøren skal ha gjennomgått relevant opplæring om alkolås. Opplæringen skal minst omfatte;gjeldende regler for utføring av arbeid på alkolås,alkolåsens funksjon,arbeidsmetoder og utstyr ved installasjon, avinstallasjon, service og reparasjon,metoder og utstyr for gjennomføring av arbeid på alkolås,dokumentasjon for utført installasjon,datasikkerhet og datahåndtering for alkolåsen.
+Installatøren skal ha gjennomgått relevant opplæring om alkolås. Opplæringen skal minst omfatte;
+
+1. gjeldende regler for utføring av arbeid på alkolås,
+2. alkolåsens funksjon,
+3. arbeidsmetoder og utstyr ved installasjon, avinstallasjon, service og reparasjon,
+4. metoder og utstyr for gjennomføring av arbeid på alkolås,
+5. dokumentasjon for utført installasjon,
+6. datasikkerhet og datahåndtering for alkolåsen.
 
 Installatør skal benytte monteringsinstruksjon ved installasjon av alkolåsen og fylle ut en installasjonsbekreftelse, jf. [§ 11](forskrift/2018-05-30-777/§11) og [§ 12](forskrift/2018-05-30-777/§12).
 
@@ -168,7 +206,16 @@ Formålet med kvalitetsstyringssystemet er å sikre riktig kvalitet på arbeidet
 
 Kvalitetsstyringssystemet skal inneholde nødvendige beskrivelser, prosedyrebeskrivelser og krav til registreringer for å sikre formålet. Med prosedyrebeskrivelse menes et dokument som angir fremgangsmåten for å utføre en aktivitet eller arbeidsprosess. Med registreringer menes et dokument som beviser oppnådd resultat eller gjennomførte aktiviteter.
 
-Kvalitetsstyringssystemet skal som minimum inneholde følgende:Beskrivelse av hvordan arbeidet på alkolås er organisert; hvilke roller som inngår, hvilke oppgaver (arbeidsinstruks) som er knyttet til de ulike rollene og hvem som til enhver tid innehar de ulike rolleneBeskrivelse av hvilke krav til kompetanse som gjelder ved tilsetting i de ulike rollene, virksomhetens plan for vedlikehold av kompetanse samt registreringer av de ansattes faktiske kompetanse.Prosedyrebeskrivelse for og registreringer av kalibrering og periodisk vedlikehold av utstyr, herunder registreringer av nødvendige sertifikater og godkjenningsattester for teknisk utstyr.Beskrivelse av hvilke tjenester virksomheten tilbyr, registreringer av eventuelle samarbeidsavtaler (utstyr og kjøp av tjenester).Prosedyrebeskrivelse for gjennomføring av arbeid på med alkolås, herunder dokumentasjon på monteringsinstruksjon, installasjonsbekreftelse, navn på installatøren som utfører arbeid med alkolåsen og hvilket kjøretøy arbeidet ble utført på.Prosedyrebeskrivelse for og registreringer av kontroll med kvaliteten på utført arbeid.Prosedyrebeskrivelse for behandling av elektroniske data tilknyttet alkolåsen.Prosedyrebeskrivelse for og registeringer av avvikshåndtering.
+Kvalitetsstyringssystemet skal som minimum inneholde følgende:
+
+1. Beskrivelse av hvordan arbeidet på alkolås er organisert; hvilke roller som inngår, hvilke oppgaver (arbeidsinstruks) som er knyttet til de ulike rollene og hvem som til enhver tid innehar de ulike rollene
+2. Beskrivelse av hvilke krav til kompetanse som gjelder ved tilsetting i de ulike rollene, virksomhetens plan for vedlikehold av kompetanse samt registreringer av de ansattes faktiske kompetanse.
+3. Prosedyrebeskrivelse for og registreringer av kalibrering og periodisk vedlikehold av utstyr, herunder registreringer av nødvendige sertifikater og godkjenningsattester for teknisk utstyr.
+4. Beskrivelse av hvilke tjenester virksomheten tilbyr, registreringer av eventuelle samarbeidsavtaler (utstyr og kjøp av tjenester).
+5. Prosedyrebeskrivelse for gjennomføring av arbeid på med alkolås, herunder dokumentasjon på monteringsinstruksjon, installasjonsbekreftelse, navn på installatøren som utfører arbeid med alkolåsen og hvilket kjøretøy arbeidet ble utført på.
+6. Prosedyrebeskrivelse for og registreringer av kontroll med kvaliteten på utført arbeid.
+7. Prosedyrebeskrivelse for behandling av elektroniske data tilknyttet alkolåsen.
+8. Prosedyrebeskrivelse for og registeringer av avvikshåndtering.
 
 Ansvarlig leder plikter å føre tilsyn med at arbeidet organiseres og gjennomføres slik dette er fastsatt i kvalitetsstyringssystemet.
 
@@ -206,7 +253,12 @@ Dersom pålegg om retting ikke er foretatt innen gitt frist, kan Statens vegvese
 
 For mindre vesentlige forhold kan det gis advarsel.
 
-Statens vegvesen kan midlertidig eller permanent tilbakekalle alkolåsverkstedets godkjenning dersom det avdekkes:vesentlige eller gjentatte avvik fra kravene til lokaler, utstyr, kompetanse, kvalitetsstyring og datahåndtering,vesentlige eller gjentatte avvik fra kravene til installasjon og dokumentasjon,at pålegg ikke etterkommes eller at skriftlig advarsel ikke tas til følge,at alkolåsverkstedet unndrar seg tilsyn.
+Statens vegvesen kan midlertidig eller permanent tilbakekalle alkolåsverkstedets godkjenning dersom det avdekkes:
+
+1. vesentlige eller gjentatte avvik fra kravene til lokaler, utstyr, kompetanse, kvalitetsstyring og datahåndtering,
+2. vesentlige eller gjentatte avvik fra kravene til installasjon og dokumentasjon,
+3. at pålegg ikke etterkommes eller at skriftlig advarsel ikke tas til følge,
+4. at alkolåsverkstedet unndrar seg tilsyn.
 
 I vurderingen av om godkjenningen skal tilbakekalles skal det tas hensyn til i hvilken grad verkstedets administrative ledelse kan bebreides for overtredelsen.
 

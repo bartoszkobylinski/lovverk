@@ -36,7 +36,21 @@ Forskriften gjelder ikke arbeidsforhold hvor arbeidstakers fastsatte og faktiske
 
 Det skal inngås skriftlig arbeidsavtale. Avtalen skal foreligge senest samtidig med at arbeidsforholdet starter.
 
-Arbeidsavtalen skal inneholde opplysninger om forhold av vesentlig betydning i arbeidsforholdet, herunder:hvem som er parter i avtalen,tidspunktet for arbeidsforholdets begynnelse, og forventet varighet dersom arbeidsforholdet er midlertidig,opplysninger om hvor arbeidet skal utføres, herunder hvilke deler av arbeidsgivers hjem arbeidstaker kan disponere, eventuelt benytte utenfor arbeidstid,beskrivelse av arbeidet som skal utføres,lengde og plassering av den daglige og ukentlige arbeidstid. Dersom arbeidet skal utføres periodevis eller den daglige og ukentlige arbeidstiden vil variere, skal arbeidsavtalen opplyse om dette og fastsette eller gi grunnlag for å beregne når arbeidet skal utføres,avtale om særlig arbeidstidsordning, jf. [§ 17](forskrift/2022-06-03-969/§17), jf. [arbeidsmiljøloven § 10-2 andre](lov/2005-06-17-62/§10-2/ledd/2), [tredje](lov/2005-06-17-62/§10-2/ledd/3) og [fjerde ledd](lov/2005-06-17-62/§10-2/ledd/4),ordninger for vaktendringer, jf. [§ 17a](forskrift/2022-06-03-969/§17a), samt ordninger for arbeid utover avtalt arbeidstid, herunder betaling for slikt arbeid,arbeidstakerens rett til ferie og feriepenger, reglene for fastsettelse av ferietidspunktet og eventuell rett til annet fravær betalt av arbeidsgiver,lønn, overtidsgodtgjøring, godtgjøring for eventuell omsorgsvakt, utbetalingsmåte og tidspunkt for lønnsutbetaling, eventuelle tillegg som ikke inngår i lønnen, for eksempel kost, losji, bruk av telefon, utgifter til hjemreise mv. De ulike elementene skal angis særskilt,arbeidstakerens og arbeidsgiverens oppsigelsesfrister og fremgangsmåte ved opphør av arbeidsforholdet,rett til kompetanseutvikling som arbeidsgiver eventuelt tilbyr,ytelser i regi av arbeidsgiver til sosial trygghet samt navn på institusjoner som mottar innbetalinger fra arbeidsgiver i denne forbindelse,opplysninger om eventuelle tariffavtaler som regulerer arbeidsforholdet.
+Arbeidsavtalen skal inneholde opplysninger om forhold av vesentlig betydning i arbeidsforholdet, herunder:
+
+1. hvem som er parter i avtalen,
+2. tidspunktet for arbeidsforholdets begynnelse, og forventet varighet dersom arbeidsforholdet er midlertidig,
+3. opplysninger om hvor arbeidet skal utføres, herunder hvilke deler av arbeidsgivers hjem arbeidstaker kan disponere, eventuelt benytte utenfor arbeidstid,
+4. beskrivelse av arbeidet som skal utføres,
+5. lengde og plassering av den daglige og ukentlige arbeidstid. Dersom arbeidet skal utføres periodevis eller den daglige og ukentlige arbeidstiden vil variere, skal arbeidsavtalen opplyse om dette og fastsette eller gi grunnlag for å beregne når arbeidet skal utføres,
+6. avtale om særlig arbeidstidsordning, jf. [§ 17](forskrift/2022-06-03-969/§17), jf. [arbeidsmiljøloven § 10-2 andre](lov/2005-06-17-62/§10-2/ledd/2), [tredje](lov/2005-06-17-62/§10-2/ledd/3) og [fjerde ledd](lov/2005-06-17-62/§10-2/ledd/4),
+7. ordninger for vaktendringer, jf. [§ 17a](forskrift/2022-06-03-969/§17a), samt ordninger for arbeid utover avtalt arbeidstid, herunder betaling for slikt arbeid,
+8. arbeidstakerens rett til ferie og feriepenger, reglene for fastsettelse av ferietidspunktet og eventuell rett til annet fravær betalt av arbeidsgiver,
+9. lønn, overtidsgodtgjøring, godtgjøring for eventuell omsorgsvakt, utbetalingsmåte og tidspunkt for lønnsutbetaling, eventuelle tillegg som ikke inngår i lønnen, for eksempel kost, losji, bruk av telefon, utgifter til hjemreise mv. De ulike elementene skal angis særskilt,
+10. arbeidstakerens og arbeidsgiverens oppsigelsesfrister og fremgangsmåte ved opphør av arbeidsforholdet,
+11. rett til kompetanseutvikling som arbeidsgiver eventuelt tilbyr,
+12. ytelser i regi av arbeidsgiver til sosial trygghet samt navn på institusjoner som mottar innbetalinger fra arbeidsgiver i denne forbindelse,
+13. opplysninger om eventuelle tariffavtaler som regulerer arbeidsforholdet.
 
 Informasjon nevnt i andre ledd bokstavene e og g til l kan gis ved å henvise til lover, forskrifter eller tariffavtaler som regulerer disse forholdene.
 
@@ -52,7 +66,12 @@ Dersom arbeidsgiver ikke har opplyst om stillingens omfang, jf. andre ledd bokst
 
 ### § 2a. Arbeidstaker som sendes til utlandet
 
-Dersom arbeidstaker skal arbeide i utlandet i mer enn fire sammenhengende uker, skal skriftlig arbeidsavtale inngås før avreise. I tillegg til informasjon som nevnt i [§ 2](forskrift/2022-06-03-969/§2) skal avtalen minst regulere følgende:hvilke land arbeidet skal utføres i, og varigheten av arbeidet som skal utføres i utlandet,valutaen vederlaget skal utbetales i,eventuelle kontant- og naturalytelser som er knyttet til utenlandsarbeidet,vilkårene for arbeidstakerens hjemreise, herunder utgiftsdekning.
+Dersom arbeidstaker skal arbeide i utlandet i mer enn fire sammenhengende uker, skal skriftlig arbeidsavtale inngås før avreise. I tillegg til informasjon som nevnt i [§ 2](forskrift/2022-06-03-969/§2) skal avtalen minst regulere følgende:
+
+1. hvilke land arbeidet skal utføres i, og varigheten av arbeidet som skal utføres i utlandet,
+2. valutaen vederlaget skal utbetales i,
+3. eventuelle kontant- og naturalytelser som er knyttet til utenlandsarbeidet,
+4. vilkårene for arbeidstakerens hjemreise, herunder utgiftsdekning.
 
 Informasjon som nevnt i første ledd bokstav b kan gis i form av en henvisning til lover, forskrifter eller tariffavtaler som regulerer disse forholdene.
 
@@ -62,7 +81,11 @@ Informasjon som nevnt i første ledd bokstav b kan gis i form av en henvisning t
 
 Arbeidstaker skal ansettes fast. Med fast ansettelse menes at ansettelsen er løpende og tidsubegrenset, at reglene om opphør av arbeidsforhold gjelder, og at arbeidstaker sikres forutsigbarhet for arbeid i form av et reelt stillingsomfang.
 
-Avtale om midlertidig ansettelse kan likevel inngås:når arbeidet er av midlertidig karakter,for arbeid i stedet for en annen eller andre (vikariat) ellerfor praksisarbeid.
+Avtale om midlertidig ansettelse kan likevel inngås:
+
+1. når arbeidet er av midlertidig karakter,
+2. for arbeid i stedet for en annen eller andre (vikariat) eller
+3. for praksisarbeid.
 
 Arbeidstaker som har vært sammenhengende midlertidig ansatt i mer enn tre år etter andre ledd bokstav a og b, skal anses som fast ansatt slik at reglene om oppsigelse av arbeidsforhold kommer til anvendelse. Ved beregning av ansettelsestid skal det ikke gjøres fradrag for arbeidstakers fravær.
 
@@ -82,7 +105,17 @@ Trekk i lønn og feriepenger kan kun gjøres i tråd med [arbeidsmiljøloven § 
 
 ### § 6. Arbeidsgivers plikter
 
-For å sikre at arbeidstakers sikkerhet, helse og velferd ivaretas skal arbeidsgiver sørge for at arbeidsforholdene er fullt forsvarlige. For å sikre dette skal arbeidsgiver særlig sørge for:at arbeidsstedet, arbeidsutstyr og innemiljø ikke medfører uheldige fysiske belastninger,at arbeidet søkes utformet slik at det gir muligheter for variasjon,at arbeidet blir organisert og tilrettelagt under hensyn til den enkelte arbeidstakers alder, kyndighet, arbeidsevne og øvrige forutsetninger,at arbeidstaker gis nødvendig opplæring, øvelse og instruksjon,at det, så langt det er mulig, legges vekt på å gi arbeidstaker mulighet til selvbestemmelse, innflytelse og faglig ansvar,at arbeidstaker, så langt det er mulig, beskyttes mot vold og trusler,at arbeidstaker ikke utsettes for trakassering eller annen utilbørlig opptreden, og at hans eller hennes integritet og verdighet ikke krenkes,at innkvartering som stilles til arbeidstakers disposisjon er forsvarlig utstyrt, innredet og vedlikeholdt,at arbeidstakers rett til privatliv respekteres. Arbeidstaker som bor i arbeidsgivers hjem skal ha eget, separat rom.
+For å sikre at arbeidstakers sikkerhet, helse og velferd ivaretas skal arbeidsgiver sørge for at arbeidsforholdene er fullt forsvarlige. For å sikre dette skal arbeidsgiver særlig sørge for:
+
+1. at arbeidsstedet, arbeidsutstyr og innemiljø ikke medfører uheldige fysiske belastninger,
+2. at arbeidet søkes utformet slik at det gir muligheter for variasjon,
+3. at arbeidet blir organisert og tilrettelagt under hensyn til den enkelte arbeidstakers alder, kyndighet, arbeidsevne og øvrige forutsetninger,
+4. at arbeidstaker gis nødvendig opplæring, øvelse og instruksjon,
+5. at det, så langt det er mulig, legges vekt på å gi arbeidstaker mulighet til selvbestemmelse, innflytelse og faglig ansvar,
+6. at arbeidstaker, så langt det er mulig, beskyttes mot vold og trusler,
+7. at arbeidstaker ikke utsettes for trakassering eller annen utilbørlig opptreden, og at hans eller hennes integritet og verdighet ikke krenkes,
+8. at innkvartering som stilles til arbeidstakers disposisjon er forsvarlig utstyrt, innredet og vedlikeholdt,
+9. at arbeidstakers rett til privatliv respekteres. Arbeidstaker som bor i arbeidsgivers hjem skal ha eget, separat rom.
 
 ### § 7. Arbeidstakers plikter
 
@@ -150,7 +183,13 @@ Arbeidstaker som hovedsakelig utfører arbeid om natten, skal gis tilbud om hels
 
 ### § 15. Unntak etter samtykke fra Arbeidstilsynet
 
-Følgende regler i [arbeidsmiljøloven](lov/2005-06-17-62) gjelder:[§ 10-4](lov/2005-06-17-62/§10-4) andre ledd om Arbeidstilsynets samtykke til forlenging av arbeidstiden ved særlig passivt arbeid,[§ 10-4](lov/2005-06-17-62/§10-4) tredje ledd om Arbeidstilsynets fastsetting av beregningsmåte for beredskapsvakt, men slik at krav om dette også kan komme fra arbeidstaker,[§ 10-5](lov/2005-06-17-62/§10-5) tredje ledd første og andre punktum om Arbeidstilsynets samtykke til gjennomsnittsberegning,[§ 10-6](lov/2005-06-17-62/§10-6) sjette ledd første punktum om Arbeidstilsynets samtykke til overtid og[§ 10-12](lov/2005-06-17-62/§10-12) sjette og syvende ledd om Arbeidstilsynets samtykke til forkorting av den daglige og ukentlige arbeidsfrie perioden og fravik fra grensen på 13 timer i [§ 10-5](lov/2005-06-17-62/§10-5) tredje ledd.
+Følgende regler i [arbeidsmiljøloven](lov/2005-06-17-62) gjelder:
+
+1. [§ 10-4](lov/2005-06-17-62/§10-4) andre ledd om Arbeidstilsynets samtykke til forlenging av arbeidstiden ved særlig passivt arbeid,
+2. [§ 10-4](lov/2005-06-17-62/§10-4) tredje ledd om Arbeidstilsynets fastsetting av beregningsmåte for beredskapsvakt, men slik at krav om dette også kan komme fra arbeidstaker,
+3. [§ 10-5](lov/2005-06-17-62/§10-5) tredje ledd første og andre punktum om Arbeidstilsynets samtykke til gjennomsnittsberegning,
+4. [§ 10-6](lov/2005-06-17-62/§10-6) sjette ledd første punktum om Arbeidstilsynets samtykke til overtid og
+5. [§ 10-12](lov/2005-06-17-62/§10-12) sjette og syvende ledd om Arbeidstilsynets samtykke til forkorting av den daglige og ukentlige arbeidsfrie perioden og fravik fra grensen på 13 timer i [§ 10-5](lov/2005-06-17-62/§10-5) tredje ledd.
 
 ### § 16. Oversikt over arbeidstiden
 

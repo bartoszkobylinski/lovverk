@@ -15,7 +15,7 @@ xml_hash: "201d2afd38d9b428c3fc109ad63665189fa913f0929605e31e41720364a2f37e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1. Formål
 
-Loven skalsikre Forsvarets operative evne gjennom allmenn verneplikt og tjenestepliktsikre Forsvaret egnet bemanninglegge til rette for at bemanningen kan brukes slik at Forsvarets nasjonale og internasjonale oppgaver blir gjennomførtivareta de vernepliktige og de tjenestepliktige.
+Loven skal
+
+1. sikre Forsvarets operative evne gjennom allmenn verneplikt og tjenesteplikt
+2. sikre Forsvaret egnet bemanning
+3. legge til rette for at bemanningen kan brukes slik at Forsvarets nasjonale og internasjonale oppgaver blir gjennomført
+4. ivareta de vernepliktige og de tjenestepliktige.
 
 ### § 2. Hva og hvem loven gjelder
 
@@ -42,7 +47,12 @@ Loven gjelder sivilt tilsatte i Forsvarsdepartementet og underliggende etater de
 
 ### § 3. Definisjoner
 
-I denne loven menes medstyrkeoppbygging: klargjøring og aktivering av militære styrkermilitært tilsatte: offiserer, befal, grenaderer og konstabler som har inngått kontrakt om tilsetting i Forsvaretinternasjonale operasjoner: bruk av militære styrker i utlandet for å skape, bevare eller gjenopprette fred og stabilitet.militære studenter: personer som tar utdanning på bachelornivå i Forsvaret.
+I denne loven menes med
+
+1. styrkeoppbygging: klargjøring og aktivering av militære styrker
+2. militært tilsatte: offiserer, befal, grenaderer og konstabler som har inngått kontrakt om tilsetting i Forsvaret
+3. internasjonale operasjoner: bruk av militære styrker i utlandet for å skape, bevare eller gjenopprette fred og stabilitet.
+4. militære studenter: personer som tar utdanning på bachelornivå i Forsvaret.
 
 > Endret ved lov [16 juni 2023 nr. 55](lov/2023-06-16-55) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 877](forskrift/2024-05-31-877)).
 
@@ -136,7 +146,13 @@ Kongen kan gi forskrift om overføringen til Sivilforsvaret og politiet, men ikk
 
 ### § 16. Verneplikt i krig eller når krig truer
 
-I krig eller når krig truer, kan Kongen gi forskrift om atverneplikten inntrer fra fylte 18 år og varer til fylte 55 årvurderingen av hvem som er skikket til tjeneste, skal gjøres på andre måter enn det som følger av [§§ 9](lov/2016-08-12-77/§9) og [10](lov/2016-08-12-77/§10)de som tidligere ikke er funnet skikket til tjeneste, kan vurderes på nyttnorske statsborgere som ikke oppholder seg i Norge, kan kalles inn til sesjonalle som kan kalles inn til tjeneste i Forsvaret, kan bli ilagt reiseforbud.
+I krig eller når krig truer, kan Kongen gi forskrift om at
+
+1. verneplikten inntrer fra fylte 18 år og varer til fylte 55 år
+2. vurderingen av hvem som er skikket til tjeneste, skal gjøres på andre måter enn det som følger av [§§ 9](lov/2016-08-12-77/§9) og [10](lov/2016-08-12-77/§10)
+3. de som tidligere ikke er funnet skikket til tjeneste, kan vurderes på nytt
+4. norske statsborgere som ikke oppholder seg i Norge, kan kalles inn til sesjon
+5. alle som kan kalles inn til tjeneste i Forsvaret, kan bli ilagt reiseforbud.
 
 ## Kapittel 3 Tjenesteplikten for vernepliktige og personer med kontrakt om tjeneste
 
@@ -144,9 +160,20 @@ I krig eller når krig truer, kan Kongen gi forskrift om atverneplikten inntrer 
 
 Tjenesteplikten for vernepliktige og personer som har inngått kontrakt om tjenesteplikt i medhold av [§ 25](lov/2016-08-12-77/§25), omfatter ordinær tjeneste og ekstraordinær tjeneste. Denne tjenesteplikten går foran annen lovpålagt tjenesteplikt.
 
-Ordinær tjeneste erførstegangstjenesterepetisjonstjenesteårlig heimevernstjenesteoffisers-, befals- og spesialistopplæring.
+Ordinær tjeneste er
 
-Ekstraordinær tjeneste ertjeneste for å avverge og begrense naturkatastrofer eller alvorlige ulykkervakthold og sikring av objekter og infrastrukturtjeneste for å ivareta andre vesentlige samfunnsinteressersærlige øvelser som skal styrke Forsvaretberedskapstjeneste ved styrkeoppbygging.
+1. førstegangstjeneste
+2. repetisjonstjeneste
+3. årlig heimevernstjeneste
+4. offisers-, befals- og spesialistopplæring.
+
+Ekstraordinær tjeneste er
+
+1. tjeneste for å avverge og begrense naturkatastrofer eller alvorlige ulykker
+2. vakthold og sikring av objekter og infrastruktur
+3. tjeneste for å ivareta andre vesentlige samfunnsinteresser
+4. særlige øvelser som skal styrke Forsvaret
+5. beredskapstjeneste ved styrkeoppbygging.
 
 Kongen i statsråd bestemmer om vernepliktige og personer som har inngått kontrakt om tjenesteplikt i medhold av [§ 25](lov/2016-08-12-77/§25), kan kalles inn til ekstraordinær tjeneste. Kongen kan gi forskrift om gjennomføringen av ekstraordinær tjeneste, om at Heimevernet kan kalle inn vernepliktige og personer som har inngått kontrakt om tjenesteplikt i medhold av [§ 25](lov/2016-08-12-77/§25), til ekstraordinær tjeneste etter tredje ledd bokstav a til c, og om hvem som skal kunne be om bistand fra Heimevernet.
 
@@ -312,7 +339,12 @@ Kongen kan gi forskrift om når sykdom eller skade er oppstått under tjenesten 
 
 Vernepliktige inne til førstegangstjeneste kan kreve erstatning fra Forsvaret for skade de blir påført under tjenesten dersom skaden har sammenheng med tjenesten og ikke dekkes etter [yrkesskadeforsikringsloven](lov/1989-06-16-65).
 
-En skade anses som påført under tjenesten når den har oppstått underaktiviteter innenfor forlegning, leirområde og tilsvarendetjenestereiserreiser i forbindelse med velferdspermisjon klasse A, frie permisjonsreiser og innkallings- og dimisjonsreiserfrivillige kurs, opplæring og aktiviteter som arrangeres eller betales av Forsvaret.
+En skade anses som påført under tjenesten når den har oppstått under
+
+1. aktiviteter innenfor forlegning, leirområde og tilsvarende
+2. tjenestereiser
+3. reiser i forbindelse med velferdspermisjon klasse A, frie permisjonsreiser og innkallings- og dimisjonsreiser
+4. frivillige kurs, opplæring og aktiviteter som arrangeres eller betales av Forsvaret.
 
 Erstatningen skal utmåles som om skaden var en yrkesskade etter [yrkesskadeforsikringsloven](lov/1989-06-16-65). [Yrkesskadeforsikringsloven §§ 14](lov/1989-06-16-65/§14) og [15](lov/1989-06-16-65/§15) gjelder tilsvarende.
 
@@ -538,7 +570,12 @@ Departementet kan i forskrift gi nærmere bestemmelser om behandlingen av person
 
 ### § 58. Forsvarets rett til å innhente personopplysninger og andre aktørers plikt til å gi opplysninger til Forsvaret
 
-Forsvaret kan innhente personopplysninger om norske statsborgere og personer som oppholder seg i Norge uten å være norske statsborgere, når det er nødvendig for åavgjøre hvem som anses skikket til tjenesteinnkalle tjenestepliktige til tjenesteholde verneplikts- og tjenesteregisteret oppdatertutbetale godtgjøring til tjenestepliktige.
+Forsvaret kan innhente personopplysninger om norske statsborgere og personer som oppholder seg i Norge uten å være norske statsborgere, når det er nødvendig for å
+
+1. avgjøre hvem som anses skikket til tjeneste
+2. innkalle tjenestepliktige til tjeneste
+3. holde verneplikts- og tjenesteregisteret oppdatert
+4. utbetale godtgjøring til tjenestepliktige.
 
 Opplysningene i første ledd bokstav a til c kan innhentes fra offentlige og private registre fra det året personer fyller 17 år. Opplysningene registreres i Forsvarets verneplikts- og tjenesteregister.
 
@@ -550,7 +587,10 @@ Offentlige myndigheter, arbeidsgivere, utdannings- og helseinstitusjoner, preste
 
 Forsvaret skal kreve vandelsvurdering etter [politiregisterloven § 45](lov/2010-05-28-16/§45) av personer som kalles inn til tjeneste i Forsvaret, og av personer som søker om fritak for tjeneste i Forsvaret etter [kapittel 4](lov/2016-08-12-77/kap4). Vandelsvurderingen inkluderer saker som er under behandling, jf. [politiregisterloven § 41](lov/2010-05-28-16/§41) nr. 2.
 
-Forsvaret skal også kreve vandelsvurdering av militært tilsatte, sivilt tilsatte og vernepliktige etter [politiregisterloven § 45](lov/2010-05-28-16/§45) hvisdet er nødvendig for å vurdere om de er skikket til en bestemt tjeneste i Forsvaretdet er nødvendig for å vurdere om det skal gis disiplinær refselse eller reises straffesak.
+Forsvaret skal også kreve vandelsvurdering av militært tilsatte, sivilt tilsatte og vernepliktige etter [politiregisterloven § 45](lov/2010-05-28-16/§45) hvis
+
+1. det er nødvendig for å vurdere om de er skikket til en bestemt tjeneste i Forsvaret
+2. det er nødvendig for å vurdere om det skal gis disiplinær refselse eller reises straffesak.
 
 Forsvaret skal kreve at de som skal gjøre tjeneste i internasjonale operasjoner, skal legge frem en uttømmende og utvidet politiattest, jf. [politiregisterloven § 41](lov/2010-05-28-16/§41).
 
@@ -566,7 +606,11 @@ Politiet og norske utenriksstasjoner skal på forespørsel fra Forsvaret gi nød
 
 ### § 60 a. Bistand fra Forsvaret for å ivareta samfunnssikkerhet
 
-Forsvaret kan etter anmodning bistå offentlige myndigheter og andre beredskapsaktører med ansvar for samfunnssikkerhet, kritiske samfunnsfunksjoner eller kritisk infrastruktur dersom følgende vilkår er oppfylt:Det oppstår en uønsket hendelse som har medført eller kan medføre tap av liv eller skade på helse, miljø, materielle eller immaterielle verdier, eller som har medført eller kan medføre redusert funksjonalitet for kritiske samfunnsfunksjoner eller kritisk infrastruktur.Det sivile samfunnet har ikke evne eller kapasitet til å håndtere hendelsen.Bistanden er forenlig med utførelsen av Forsvarets primæroppgaver.
+Forsvaret kan etter anmodning bistå offentlige myndigheter og andre beredskapsaktører med ansvar for samfunnssikkerhet, kritiske samfunnsfunksjoner eller kritisk infrastruktur dersom følgende vilkår er oppfylt:
+
+1. Det oppstår en uønsket hendelse som har medført eller kan medføre tap av liv eller skade på helse, miljø, materielle eller immaterielle verdier, eller som har medført eller kan medføre redusert funksjonalitet for kritiske samfunnsfunksjoner eller kritisk infrastruktur.
+2. Det sivile samfunnet har ikke evne eller kapasitet til å håndtere hendelsen.
+3. Bistanden er forenlig med utførelsen av Forsvarets primæroppgaver.
 
 Forsvarets bistand etter første ledd kan ikke innebære myndighetsutøvelse ut over de rammene som ellers gjelder for den som ber om bistand. Bistanden etter første ledd skal ikke innebære noen form for maktanvendelse.
 
@@ -578,7 +622,12 @@ Kongen kan gi forskrift om hva bistanden til offentlige myndigheter og andre ber
 
 ### § 61. Adgang til å ta oppdrag utenfor Forsvarsdepartementet og underliggende etater
 
-Tjenestepliktige i Forsvaret og sivilt tilsatte i Forsvarsdepartementet og underliggende etater skal på eget initiativ opplyse sine hovedarbeidsgivere om lønnede og ulønnede oppdrag som kan være uforenlige med hovedarbeidsgiverens interesser. Det skal opplyses om oppdragsgivers navn og oppdragets karakter og omfang. Oppdrag det skal opplyses om, kan blant annet være oppdrag somutad fremstår som en naturlig del av hovedarbeidsgiverens tjenesteoppgaverkrever opplæring i militære ferdigheter eller i å bruke militært utstyrer egnet til å skade tjenestestillingens eller arbeidsgiverens anseelsekan hemme eller sinke arbeidet for hovedarbeidsgiveren.
+Tjenestepliktige i Forsvaret og sivilt tilsatte i Forsvarsdepartementet og underliggende etater skal på eget initiativ opplyse sine hovedarbeidsgivere om lønnede og ulønnede oppdrag som kan være uforenlige med hovedarbeidsgiverens interesser. Det skal opplyses om oppdragsgivers navn og oppdragets karakter og omfang. Oppdrag det skal opplyses om, kan blant annet være oppdrag som
+
+1. utad fremstår som en naturlig del av hovedarbeidsgiverens tjenesteoppgaver
+2. krever opplæring i militære ferdigheter eller i å bruke militært utstyr
+3. er egnet til å skade tjenestestillingens eller arbeidsgiverens anseelse
+4. kan hemme eller sinke arbeidet for hovedarbeidsgiveren.
 
 Departementet kan kreve at tilsatte i enkelte stillinger og avdelinger skal ha arbeidsgivers samtykke til å ta lønnede og ulønnede oppdrag utenfor Forsvarsdepartementet og underliggende etater.
 
@@ -592,7 +641,12 @@ Hvis testresultatet eller andre forhold gir grunn til å tro at en tjenesteplikt
 
 Den som har militær politimyndighet gis samme myndighet som politiet.
 
-Departementet kan gi forskrift omgjennomføringen av avholdspliktenat avholdsplikten skal gjelde under permisjon og i fritidenat avholdsplikten skal gjelde for sivilt tilsatte i Forsvarsdepartementet og underliggende etaterunntak fra avholdsplikten.
+Departementet kan gi forskrift om
+
+1. gjennomføringen av avholdsplikten
+2. at avholdsplikten skal gjelde under permisjon og i fritiden
+3. at avholdsplikten skal gjelde for sivilt tilsatte i Forsvarsdepartementet og underliggende etater
+4. unntak fra avholdsplikten.
 
 ### § 63. Oppbevaring og vedlikehold av våpen
 
@@ -620,7 +674,11 @@ Den som overtrer eller forsømmer militære tjenesteplikter som følger av lov, 
 
 Det samme gjelder den som overtrer eller forsømmer seg mot militær skikk og orden.
 
-Refselse kan også ilegges den som gjør seg skyldig i andre straffbare forholdpå militært område, jf. [militærpolitiloven § 5](lov/2023-11-24-85/§5)overfor tjenestepliktige, jf. [§ 2](lov/2016-08-12-77/§2) første leddmot eller ved bruk av militært materiell.
+Refselse kan også ilegges den som gjør seg skyldig i andre straffbare forhold
+
+1. på militært område, jf. [militærpolitiloven § 5](lov/2023-11-24-85/§5)
+2. overfor tjenestepliktige, jf. [§ 2](lov/2016-08-12-77/§2) første ledd
+3. mot eller ved bruk av militært materiell.
 
 > Endret ved lover [24 nov 2023 nr. 84](lov/2023-11-24-84) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 875](forskrift/2024-05-31-875)), [24 nov 2023 nr. 85](lov/2023-11-24-85) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 876](forskrift/2024-05-31-876)).
 
@@ -648,7 +706,13 @@ Med unntak av det som gjelder i krig eller når krig truer, jf. [§ 82](lov/2016
 
 Refselse kan ilegges for forhold som finner sted i tjenestetiden.
 
-Utenfor tjenestetiden kan refselse brukes når det gjelderforhold som kan straffes etter [§ 84](lov/2016-08-12-77/§84)overtredelse av [militær straffelov § 34](lov/1902-05-22-13/§34)forhold utvist mens vedkommende på offentlig sted eller militært område lovlig var iført militær uniformunnlatelse av å besvare tjenstlige henvendelser om forhold oppstått i tjenestetidenbruk av utlevert militær bekledning, effekter eller utstyr i strid med militære bestemmelser.
+Utenfor tjenestetiden kan refselse brukes når det gjelder
+
+1. forhold som kan straffes etter [§ 84](lov/2016-08-12-77/§84)
+2. overtredelse av [militær straffelov § 34](lov/1902-05-22-13/§34)
+3. forhold utvist mens vedkommende på offentlig sted eller militært område lovlig var iført militær uniform
+4. unnlatelse av å besvare tjenstlige henvendelser om forhold oppstått i tjenestetiden
+5. bruk av utlevert militær bekledning, effekter eller utstyr i strid med militære bestemmelser.
 
 Adgangen til å ilegge refselse faller bort to år etter det refsbare forholdet.
 
@@ -656,13 +720,20 @@ Adgangen til å ilegge refselse faller bort to år etter det refsbare forholdet.
 
 ### § 69. Refselsesmidlene
 
-Som refselsesmiddel kan brukesirettesettelseovertredelsesgebyrfrihetsinnskrenkning.
+Som refselsesmiddel kan brukes
+
+1. irettesettelse
+2. overtredelsesgebyr
+3. frihetsinnskrenkning.
 
 Overtredelsesgebyret fastsettes på grunnlag av tjenestetillegget som gjelder for menig inne til førstegangstjeneste. Overtredelsesgebyret kan kreves inn ved trekk i tjenestetillegg, dimisjonsgodtgjørelse eller lønn.
 
 Refselsesvedtak som går ut på overtredelsesgebyr og som ikke blir brakt inn for domstolene ved søksmål, jf. [§ 77](lov/2016-08-12-77/§77), har samme virkning som en rettskraftig dom og kan fullbyrdes etter reglene for dommer.
 
-Frihetsinnskrenkning består i forbud mot til visse tider av døgnet eller hele døgn ågå utenfor leiren eller annet nærmere avgrenset område eller fartøy for et tidsrom av inntil 30 dagerforlate et fartøy for bestemte landgangsturer innen samme tidsrom.
+Frihetsinnskrenkning består i forbud mot til visse tider av døgnet eller hele døgn å
+
+1. gå utenfor leiren eller annet nærmere avgrenset område eller fartøy for et tidsrom av inntil 30 dager
+2. forlate et fartøy for bestemte landgangsturer innen samme tidsrom.
 
 Departementet kan i forskrift gi nærmere bestemmelser om refselsesmidlene, blant annet om gjennomføringen av frihetsinnskrenkningen, de maksimale grensene for overtredelsesgebyr, utmålingen og trekk i tjenestetillegg, dimisjonsgodtgjørelse eller lønn ved innkreving av overtredelsesgebyr.
 
@@ -814,13 +885,27 @@ Kongen kan i forskrift gi nærmere bestemmelser om gjennomføring av [kapittel 8
 
 ### § 84. Straff
 
-Med bot straffes den som forsettlig eller uaktsomtbryter opplysnings- eller meldeplikten etter [§§ 8](lov/2016-08-12-77/§8) og [58](lov/2016-08-12-77/§58)lar være å møte til sesjon etter [§ 9](lov/2016-08-12-77/§9)lar være å møte til tjeneste etter [§ 19](lov/2016-08-12-77/§19).
+Med bot straffes den som forsettlig eller uaktsomt
 
-Med bot straffes den som forsettligunndrar seg undersøkelser etter [§ 10](lov/2016-08-12-77/§10)unndrar seg vaksinering eller andre tiltak for å forebygge smittsomme sykdommer etter [§ 20](lov/2016-08-12-77/§20)bryter oppbevarings- eller vedlikeholdsplikten etter [§ 63](lov/2016-08-12-77/§63).
+1. bryter opplysnings- eller meldeplikten etter [§§ 8](lov/2016-08-12-77/§8) og [58](lov/2016-08-12-77/§58)
+2. lar være å møte til sesjon etter [§ 9](lov/2016-08-12-77/§9)
+3. lar være å møte til tjeneste etter [§ 19](lov/2016-08-12-77/§19).
+
+Med bot straffes den som forsettlig
+
+1. unndrar seg undersøkelser etter [§ 10](lov/2016-08-12-77/§10)
+2. unndrar seg vaksinering eller andre tiltak for å forebygge smittsomme sykdommer etter [§ 20](lov/2016-08-12-77/§20)
+3. bryter oppbevarings- eller vedlikeholdsplikten etter [§ 63](lov/2016-08-12-77/§63).
 
 Medvirkning straffes ikke etter første og andre ledd.
 
-Med fengsel inntil 2 år straffes den som med hensikt unndrar seg tjeneste i Forsvaret vedå bryte opplysnings- eller meldeplikten etter [§§ 8](lov/2016-08-12-77/§8) og [58](lov/2016-08-12-77/§58)å la være å møte til sesjon etter [§ 9](lov/2016-08-12-77/§9)å unndra seg undersøkelser etter [§ 10](lov/2016-08-12-77/§10)å bryte reiseforbud etter [§ 16](lov/2016-08-12-77/§16) bokstav eå unndra seg vaksinering eller andre tiltak for å forebygge smittsomme sykdommer etter [§ 20](lov/2016-08-12-77/§20).
+Med fengsel inntil 2 år straffes den som med hensikt unndrar seg tjeneste i Forsvaret ved
+
+1. å bryte opplysnings- eller meldeplikten etter [§§ 8](lov/2016-08-12-77/§8) og [58](lov/2016-08-12-77/§58)
+2. å la være å møte til sesjon etter [§ 9](lov/2016-08-12-77/§9)
+3. å unndra seg undersøkelser etter [§ 10](lov/2016-08-12-77/§10)
+4. å bryte reiseforbud etter [§ 16](lov/2016-08-12-77/§16) bokstav e
+5. å unndra seg vaksinering eller andre tiltak for å forebygge smittsomme sykdommer etter [§ 20](lov/2016-08-12-77/§20).
 
 Med fengsel inntil 2 år straffes den som gjør tjeneste i Forsvaret på grunnlag av opplysninger den vet er uriktige eller ufullstendige.
 
@@ -850,7 +935,12 @@ Tidligere yrkesbefal som er tilsatt før 1. januar 2005, kan sies opp bare etter
 
 ### § 87. Oppheving av og endring i andre lover
 
-Fra det tidspunkt loven trer i kraft oppheves:[lov 17. juli 1953 nr. 28 om Heimevernet](lov/1953-07-17-28)[lov 17. juli 1953 nr. 29 om verneplikt](lov/1953-07-17-29)[lov 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner](lov/1965-03-19-3)[lov 2. juli 2004 nr. 59 om forsvarspersonell](lov/2004-07-02-59).
+Fra det tidspunkt loven trer i kraft oppheves:
+
+1. [lov 17. juli 1953 nr. 28 om Heimevernet](lov/1953-07-17-28)
+2. [lov 17. juli 1953 nr. 29 om verneplikt](lov/1953-07-17-29)
+3. [lov 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner](lov/1965-03-19-3)
+4. [lov 2. juli 2004 nr. 59 om forsvarspersonell](lov/2004-07-02-59).
 
 > Endret ved lov [24 nov 2023 nr. 84](lov/2023-11-24-84) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 875](forskrift/2024-05-31-875), tidligere § 69).
 

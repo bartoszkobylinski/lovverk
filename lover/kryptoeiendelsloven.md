@@ -15,7 +15,7 @@ xml_hash: "ed724ed428cbb322bddce1e029fc17097974fbb4c2e1f57aa7a778b96c4befbe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32023R1114"
@@ -87,7 +87,11 @@ Finanstilsynet fører tilsyn med foretak som har tillatelse til å drive virksom
 
 ## § 8. Pålegg knyttet til informasjon på nett
 
-(1) Dersom Finanstilsynet finner at reglene i forordningen er overtrådt, og ingen andre effektive virkemidler kan benyttes for å bringe overtredelsen til opphør, kan Finanstilsynet pålegge:tilbydere eller personer som søker opptak til handel av kryptoeiendeler, utstedere av kryptoeiendeler eller kryptoeiendelstjenesteytere å fjerne innhold i eller begrense tilgang til en internettside eller å innta en uttrykkelig advarsel til kunder og innehavere av kryptoeiendeler når de besøker internettsiden,tilbydere av vertstjenester å fjerne, hindre eller begrense tilgang til en internettside,domeneregistre eller domeneregisterførere å slette et fullt kvalifisert domenenavn og å tillate Finanstilsynet å registrere det.
+(1) Dersom Finanstilsynet finner at reglene i forordningen er overtrådt, og ingen andre effektive virkemidler kan benyttes for å bringe overtredelsen til opphør, kan Finanstilsynet pålegge:
+
+1. tilbydere eller personer som søker opptak til handel av kryptoeiendeler, utstedere av kryptoeiendeler eller kryptoeiendelstjenesteytere å fjerne innhold i eller begrense tilgang til en internettside eller å innta en uttrykkelig advarsel til kunder og innehavere av kryptoeiendeler når de besøker internettsiden,
+2. tilbydere av vertstjenester å fjerne, hindre eller begrense tilgang til en internettside,
+3. domeneregistre eller domeneregisterførere å slette et fullt kvalifisert domenenavn og å tillate Finanstilsynet å registrere det.
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -151,7 +155,13 @@ Ved tvangsfullbyrdelse etter kryptoeiendelsforordningen artikkel 133 nr. 3 føre
 
 (3) Fysiske personer kan ilegges overtredelsesgebyr etter første ledd for forsettlige eller uaktsomme overtredelser. [Forvaltningsloven § 46 første ledd](lov/1967-02-10/§46/ledd/1) gjelder for foretak.
 
-(4) For foretak kan det fastsettes overtredelsesgebyr på inntil60 millioner kroner eller 3 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap for overtredelse av bestemmelsene angitt i krypto-eiendelsforordningen artikkel 111 nr. 1 første ledd bokstav a),60 millioner kroner eller 5 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap for overtredelse av bestemmelsene angitt i krypto-eiendelsforordningen artikkel 111 nr. 1 første ledd bokstav d),60 millioner kroner eller 12,5 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap for overtredelse av bestemmelsene angitt i kryptoeiendelsforordningen artikkel 111 nr. 1 første ledd bokstav b) og c),30 millioner kroner eller 2 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap for overtredelse av kryptoeiendelsforordningen artikkel 88,180 millioner kroner eller 15 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap for overtredelse av kryptoeiendelsforordningen artikkel 90, artikkel 91 og artikkel 92.
+(4) For foretak kan det fastsettes overtredelsesgebyr på inntil
+
+1. 60 millioner kroner eller 3 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap for overtredelse av bestemmelsene angitt i krypto-eiendelsforordningen artikkel 111 nr. 1 første ledd bokstav a),
+2. 60 millioner kroner eller 5 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap for overtredelse av bestemmelsene angitt i krypto-eiendelsforordningen artikkel 111 nr. 1 første ledd bokstav d),
+3. 60 millioner kroner eller 12,5 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap for overtredelse av bestemmelsene angitt i kryptoeiendelsforordningen artikkel 111 nr. 1 første ledd bokstav b) og c),
+4. 30 millioner kroner eller 2 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap for overtredelse av kryptoeiendelsforordningen artikkel 88,
+5. 180 millioner kroner eller 15 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap for overtredelse av kryptoeiendelsforordningen artikkel 90, artikkel 91 og artikkel 92.
 
 (5) Når bestemmelser om overtredelsesgebyr knytter beregning av satser for overtredelsesgebyret til den samlede årsomsetningen etter siste godkjente årsregnskap, skal den samlede omsetningen for et morselskap eller et datterselskap av et morselskap som skal utarbeide konsernregnskap etter direktiv [2013/34 EU](eu/32013l0034), være den totale årsomsetningen, eller tilsvarende inntekt etter relevante regnskapsdirektiver, etter siste tilgjengelige konsoliderte årsregnskap godkjent av ledelsen i det overordnede morforetaket.
 

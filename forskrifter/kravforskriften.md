@@ -38,7 +38,33 @@ Forskriften gjelder for drift av sporvei, tunnelbane, forstadsbane m.m.
 
 ### § 1-3. Definisjoner
 
-I forskriften her forstås med:*alvorlig jernbanehendelse:* en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke,*automatisk hastighetsovervåkning:* den del av signalanlegget som overvåker togets hastighet og aktiverer togets bremser dersom hastigheten overstiges,*barrierer:* tekniske, operasjonelle, organisatoriske eller andre planlagte og iverksatte tiltak som har til hensikt å bryte en identifisert uønsket hendelseskjede,*infrastruktur:* trasé, over- og underbygning, strømforsyningsanlegg, signalanlegg og kommunikasjonssystem,*infrastrukturforvalter:* den som har tillatelse til å drive infrastruktur,*jernbanehendelse:* enhver annen uønsket hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på sikkerheten,*jernbaneulykke:* en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på infrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker,*jernbanevirksomhet:* drift av infrastruktur, trafikkstyring og/eller trafikkvirksomhet eller den som driver infrastruktur, trafikkstyring og/eller trafikkvirksomhet,*kjøretøy:* et kjøretøy som kjører på egne hjul på jernbane, herunder sporvei, tunnelbane og forstadsbane, med eller uten egen trekkraft,*kompetanse:* kunnskaper, ferdigheter og holdninger,*risikoakseptkriterier:* kriterier som legges til grunn for beslutning om akseptabel risiko,*risikoanalyse:* systematisk bruk av all tilgjengelig informasjon for å identifisere farer og estimere risiko,*risikoevaluering:* prosess for å sammenligne beskrevet eller beregnet risiko med gitte risikoakseptkriterier,*risikovurdering:* den samlede prosessen som omfatter en risikoanalyse og en risikoevaluering,*sikkerhetsstyring:* systematiske tiltak en organisasjon iverksetter for å oppnå, opprettholde og videreutvikle sikkerhetsnivå i overensstemmelse med fastlagte mål,*sikkerhetsstyringssystem:* organisasjon og systemer opprettet av en jernbanevirksomhet med henblikk på sikker forvaltning av deres virksomhet,*signal:* de fastsatte lyssignal, skilt, stolper, flagg, tegn og lyder som brukes ved togframføring og ved skifting,*signalanlegg:* teknisk anlegg som blant annet kan inkludere sikringsanlegg, optiske signaler, linjeblokk, fjernstyring og automatisk hastighetsovervåkning,*sikringsanlegg:* den del av signalanlegget som sikrer at kjørsignal bare gis dersom bestemte betingelser er oppfylt,*skift:* kjøretøy som flyttes under skifting,*skifting:* flytting av kjøretøy som ikke er tog,*tog:* ett eller flere sammenkoblede kjøretøy som skal framføres fra et bestemt utgangssted til et bestemt ankomststed,*trafikkstyring:* togledelse og andre funksjoner som koordinerer og ivaretar sikkerheten for framføringen,*trafikkutøver:* den som har tillatelse til å drive trafikkvirksomhet,*universell utforming:* utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig.
+I forskriften her forstås med:
+
+1. *alvorlig jernbanehendelse:* en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke,
+2. *automatisk hastighetsovervåkning:* den del av signalanlegget som overvåker togets hastighet og aktiverer togets bremser dersom hastigheten overstiges,
+3. *barrierer:* tekniske, operasjonelle, organisatoriske eller andre planlagte og iverksatte tiltak som har til hensikt å bryte en identifisert uønsket hendelseskjede,
+4. *infrastruktur:* trasé, over- og underbygning, strømforsyningsanlegg, signalanlegg og kommunikasjonssystem,
+5. *infrastrukturforvalter:* den som har tillatelse til å drive infrastruktur,
+6. *jernbanehendelse:* enhver annen uønsket hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på sikkerheten,
+7. *jernbaneulykke:* en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på infrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker,
+8. *jernbanevirksomhet:* drift av infrastruktur, trafikkstyring og/eller trafikkvirksomhet eller den som driver infrastruktur, trafikkstyring og/eller trafikkvirksomhet,
+9. *kjøretøy:* et kjøretøy som kjører på egne hjul på jernbane, herunder sporvei, tunnelbane og forstadsbane, med eller uten egen trekkraft,
+10. *kompetanse:* kunnskaper, ferdigheter og holdninger,
+11. *risikoakseptkriterier:* kriterier som legges til grunn for beslutning om akseptabel risiko,
+12. *risikoanalyse:* systematisk bruk av all tilgjengelig informasjon for å identifisere farer og estimere risiko,
+13. *risikoevaluering:* prosess for å sammenligne beskrevet eller beregnet risiko med gitte risikoakseptkriterier,
+14. *risikovurdering:* den samlede prosessen som omfatter en risikoanalyse og en risikoevaluering,
+15. *sikkerhetsstyring:* systematiske tiltak en organisasjon iverksetter for å oppnå, opprettholde og videreutvikle sikkerhetsnivå i overensstemmelse med fastlagte mål,
+16. *sikkerhetsstyringssystem:* organisasjon og systemer opprettet av en jernbanevirksomhet med henblikk på sikker forvaltning av deres virksomhet,
+17. *signal:* de fastsatte lyssignal, skilt, stolper, flagg, tegn og lyder som brukes ved togframføring og ved skifting,
+18. *signalanlegg:* teknisk anlegg som blant annet kan inkludere sikringsanlegg, optiske signaler, linjeblokk, fjernstyring og automatisk hastighetsovervåkning,
+19. *sikringsanlegg:* den del av signalanlegget som sikrer at kjørsignal bare gis dersom bestemte betingelser er oppfylt,
+20. *skift:* kjøretøy som flyttes under skifting,
+21. *skifting:* flytting av kjøretøy som ikke er tog,
+22. *tog:* ett eller flere sammenkoblede kjøretøy som skal framføres fra et bestemt utgangssted til et bestemt ankomststed,
+23. *trafikkstyring:* togledelse og andre funksjoner som koordinerer og ivaretar sikkerheten for framføringen,
+24. *trafikkutøver:* den som har tillatelse til å drive trafikkvirksomhet,
+25. *universell utforming:* utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig.
 
 > Endret ved [forskrift 4 juni 2015 nr. 591](forskrift/2015-06-04-591) (i kraft 1 juli 2015).
 
@@ -88,7 +114,11 @@ Dokumentasjonen skal være styrt og sporbar. Jernbanevirksomheten skal ha bestem
 
 Jernbanevirksomheten skal utarbeide prosedyrer og/eller bestemmelser som dekker alle relevante forhold av betydning for sikkerheten.
 
-Prosedyrene og/eller bestemmelsene skal sikre overholdelse av gjeldende, nye og endrede tekniske og operasjonelle standarder og andre krav fastsatt i:jernbanelovgivningen,andre relevante regler ogenkeltvedtak truffet av myndighetene.
+Prosedyrene og/eller bestemmelsene skal sikre overholdelse av gjeldende, nye og endrede tekniske og operasjonelle standarder og andre krav fastsatt i:
+
+1. jernbanelovgivningen,
+2. andre relevante regler og
+3. enkeltvedtak truffet av myndighetene.
 
 ## Kapittel 4. Ledelsens ansvar
 
@@ -98,7 +128,12 @@ Den øverste ledelsen har ansvaret for at sikkerhetsstyringssystemet er vedtatt,
 
 ### § 4-2. Sikkerhetspolitikk
 
-Jernbanevirksomhetens øverste ledelse skal utarbeide en dokumentert sikkerhetspolitikk. Sikkerhetspolitikken skal:angi prinsipper for arbeidet med sikkerheten,være formålstjenlig som et rammeverk for etablering og gjennomgåelse av sikkerhetsmål,være innarbeidet på alle nivåer i jernbanevirksomheten ogvære formidlet til alle som arbeider for eller på vegne av jernbanevirksomheten.
+Jernbanevirksomhetens øverste ledelse skal utarbeide en dokumentert sikkerhetspolitikk. Sikkerhetspolitikken skal:
+
+1. angi prinsipper for arbeidet med sikkerheten,
+2. være formålstjenlig som et rammeverk for etablering og gjennomgåelse av sikkerhetsmål,
+3. være innarbeidet på alle nivåer i jernbanevirksomheten og
+4. være formidlet til alle som arbeider for eller på vegne av jernbanevirksomheten.
 
 ### § 4-3. Sikkerhetsmål
 
@@ -134,7 +169,13 @@ Den øverste ledelsen har ansvaret for at jernbanevirksomheten har beredskap for
 
 Jernbanevirksomheten skal sikre at nødvendige tiltak blir satt i verk raskest mulig slik at faresituasjoner ikke utvikler seg til ulykkessituasjoner og personer kan evakueres effektivt og trygt.
 
-Beredskapen skal omfatte blant annet:kompetent og øvet personell,organisering, utstyr og materiell for effektiv beredskapsinnsats,oversikt over grensesnitt mot andre relevante virksomheter som har beredskapsressurser,et dokumentert beredskapsplanverk, med tydelig rollefordeling, varslingslister og innsatsplaner oginformasjonsberedskap i krisesituasjoner som sikrer at reisende og publikum får informasjon om hvordan de skal forholde seg.
+Beredskapen skal omfatte blant annet:
+
+1. kompetent og øvet personell,
+2. organisering, utstyr og materiell for effektiv beredskapsinnsats,
+3. oversikt over grensesnitt mot andre relevante virksomheter som har beredskapsressurser,
+4. et dokumentert beredskapsplanverk, med tydelig rollefordeling, varslingslister og innsatsplaner og
+5. informasjonsberedskap i krisesituasjoner som sikrer at reisende og publikum får informasjon om hvordan de skal forholde seg.
 
 Beredskapen skal være samordnet med relevante offentlig myndigheter.
 
@@ -144,7 +185,15 @@ Den som driver trafikkstyring skal fastsette og formidle bestemmelser som er nø
 
 ### § 4-8. Ledelsens gjennomgåelse
 
-Jernbanevirksomhetens øverste ledelse skal ved behov og minst en gang per år, gjennomgå sikkerhetsstyringssystemet og resultater fra virksomhetens sikkerhetsarbeid for å sikre at sikkerhetsstyringssystemet fortsatt er hensiktsmessig og oppdatert. Ved gjennomgåelsen skal det tas hensyn til blant annet:resultater og gjennomføring av tiltak etter interne revisjoner og revisjoner av leverandører, samt vurdering av samsvar med lovgivningens krav og interne krav,i hvilken grad sikkerhetsmål er oppnådd,nye og oppdaterte risikovurderinger,endrede forutsetninger, herunder endringer i lover og/eller forskrifter,analyser av jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser,avvik og oppfølging av disse ogoppfølgingstiltak etter ledelsens tidligere gjennomgåelser.
+Jernbanevirksomhetens øverste ledelse skal ved behov og minst en gang per år, gjennomgå sikkerhetsstyringssystemet og resultater fra virksomhetens sikkerhetsarbeid for å sikre at sikkerhetsstyringssystemet fortsatt er hensiktsmessig og oppdatert. Ved gjennomgåelsen skal det tas hensyn til blant annet:
+
+1. resultater og gjennomføring av tiltak etter interne revisjoner og revisjoner av leverandører, samt vurdering av samsvar med lovgivningens krav og interne krav,
+2. i hvilken grad sikkerhetsmål er oppnådd,
+3. nye og oppdaterte risikovurderinger,
+4. endrede forutsetninger, herunder endringer i lover og/eller forskrifter,
+5. analyser av jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser,
+6. avvik og oppfølging av disse og
+7. oppfølgingstiltak etter ledelsens tidligere gjennomgåelser.
 
 Ledelsens gjennomgåelse skal avdekke eventuelle behov for endring i sikkerhetspolitikk, sikkerhetsmål og handlingsplaner og andre deler av sikkerhetsstyringssystemet.
 
@@ -302,7 +351,11 @@ Det skal til enhver tid være en oversikt over alle som har fått tillatelse til
 
 ### § 9-11. Bestemmelser for sikring av arbeid i spor
 
-Infrastrukturforvalter skal utarbeide bestemmelser for arbeid i spor som minimum skal inneholde:retningslinjer for oppstart av arbeid,hvordan man sikrer arbeidsstedet slik at tog ikke kommer utilsiktet inn på det angitte området ogretningslinjer for å sikre at personell og utstyr ikke kommer i konflikt med tog som kjøres på nabospor.
+Infrastrukturforvalter skal utarbeide bestemmelser for arbeid i spor som minimum skal inneholde:
+
+1. retningslinjer for oppstart av arbeid,
+2. hvordan man sikrer arbeidsstedet slik at tog ikke kommer utilsiktet inn på det angitte området og
+3. retningslinjer for å sikre at personell og utstyr ikke kommer i konflikt med tog som kjøres på nabospor.
 
 ## Kapittel 10. Krav til trafikkutøvelse
 
@@ -338,7 +391,12 @@ Trafikkutøver skal ha utarbeidet nødvendige bestemmelser for togframføring. B
 
 Trafikkutøver skal sikre at personell som har tilknytning til framføringen, har den nødvendige dokumentasjon som kreves for å utføre sine arbeidsoppgaver. Dokumentasjonen må omfatte alle bestemmelser og prosedyrer som er nødvendig for drift under normale forhold, ved uregelmessigheter og i nødsituasjoner.
 
-Trafikkutøver skal på grunnlag av beskrivelsen av infrastrukturen utarbeide en strekningsbeskrivelse. Trafikkutøver skal sørge for at personellet til enhver tid har oppdatert dokumentasjon om strekningen som er relevant for den enkelte. Strekningsbeskrivelsen skal minst omfatte:generelle driftsegenskaper,detaljert strekningsinformasjon,nødutganger for evakuering ogsærskilte forhold med betydning for sikker framføring.
+Trafikkutøver skal på grunnlag av beskrivelsen av infrastrukturen utarbeide en strekningsbeskrivelse. Trafikkutøver skal sørge for at personellet til enhver tid har oppdatert dokumentasjon om strekningen som er relevant for den enkelte. Strekningsbeskrivelsen skal minst omfatte:
+
+1. generelle driftsegenskaper,
+2. detaljert strekningsinformasjon,
+3. nødutganger for evakuering og
+4. særskilte forhold med betydning for sikker framføring.
 
 ### § 10-6. Bestemmelser om kommunikasjon
 
@@ -476,11 +534,25 @@ Før infrastruktur settes i drift skal Statens jernbanetilsyn gi tillatelse til 
 
 Det skal sendes melding til Statens jernbanetilsyn om ny eller endret infrastruktur så tidlig som mulig.
 
-Meldingen skal minst inneholde:navn på og kontaktopplysninger til kontaktperson,planlagt fremdrift i prosjektet,systembeskrivelse,sikkerhetsplan,oversikt over planlagt anvendte standarder ogrisikovurdering.
+Meldingen skal minst inneholde:
+
+1. navn på og kontaktopplysninger til kontaktperson,
+2. planlagt fremdrift i prosjektet,
+3. systembeskrivelse,
+4. sikkerhetsplan,
+5. oversikt over planlagt anvendte standarder og
+6. risikovurdering.
 
 ### § 11-10. Søknad om tillatelse til å ta infrastruktur i bruk
 
-Søknad om tillatelse til å ta infrastruktur i bruk skal minst inneholde:beskrivelse av ferdig infrastruktur,oversikt over verifikasjoner,sikkerhetsrapport,oppdatert liste over anvendte standarder med oversikt over avvik fra standarder og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp ogsikkerhetsoppfølgingsplan (SOP).
+Søknad om tillatelse til å ta infrastruktur i bruk skal minst inneholde:
+
+1. beskrivelse av ferdig infrastruktur,
+2. oversikt over verifikasjoner,
+3. sikkerhetsrapport,
+4. oppdatert liste over anvendte standarder med oversikt over avvik fra standarder og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,
+5. oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp og
+6. sikkerhetsoppfølgingsplan (SOP).
 
 Er assessor eller andre uavhengige parter benyttet, skal utarbeidete rapporter og oppfølgningen av disse, vedlegges.
 
@@ -504,7 +576,18 @@ Kjøretøy skal være identitetsmerket samt teknisk og bruksmessig merket.
 
 ### § 12-1a. Universell utforming
 
-Nytt eller vesentlig oppgradert kjøretøy beregnet for persontransport skal være universelt utformet. Som minimumskrav gjelder:Innganger skal så langt det er mulig være trinnfrie og tilpasset plattformen slik at på- og avstigning kan skje uten hjelp. Dører som skal betjenes av passasjerer skal være automatiske eller skal kunne betjenes enkelt.Håndtak og holdestenger skal være plassert slik at både sittende, stående og gående personer alle steder kan ha nødvendig støtte.Kjøretøy skal ha et hensiktsmessig antall prioriterte seter for personer med nedsatt funksjonsevne. Slike seter skal være plassert i nærheten av dør som er egnet til på- og avstigning.Kjøretøy skal ha et hensiktsmessig antall rullestolplasser.Der passasjerer skal forflytte seg, skal det så langt det er mulig ikke være noen hindringer. Det skal være mulig å forflytte seg uhindret med rullestol mellom inngang og rullestolplass.Døråpner/-lukker, signalknapp for stopp, hindre, herunder trappetrinn og skråplan, og andre viktige funksjoner skal være visuelt og følbart merket.Kjøretøy skal være utstyrt med et kommunikasjonssystem for kunngjøringer. Dersom systemet er automatisk eller forhåndsprogrammert, skal det kunne overstyres manuelt. Visuell informasjon skal kunne leses under alle lysforhold og skal stå i tilfredsstillende kontrast til bakgrunnen.Kjøretøy skal være utstyrt med nødanropsinnretning som skal være visuelt og følbart merket og gi et synlig og hørbart tegn på at innretningen er i bruk.Overflater på gulv og i trapper skal være sklisikre.Belysning og kontraster skal være slik at sentrale elementer, som for eksempel passasjer, dører, seter, holdestenger, betjeningselementer, informasjon, hindre og merking, framstår tydelig.
+Nytt eller vesentlig oppgradert kjøretøy beregnet for persontransport skal være universelt utformet. Som minimumskrav gjelder:
+
+1. Innganger skal så langt det er mulig være trinnfrie og tilpasset plattformen slik at på- og avstigning kan skje uten hjelp. Dører som skal betjenes av passasjerer skal være automatiske eller skal kunne betjenes enkelt.
+2. Håndtak og holdestenger skal være plassert slik at både sittende, stående og gående personer alle steder kan ha nødvendig støtte.
+3. Kjøretøy skal ha et hensiktsmessig antall prioriterte seter for personer med nedsatt funksjonsevne. Slike seter skal være plassert i nærheten av dør som er egnet til på- og avstigning.
+4. Kjøretøy skal ha et hensiktsmessig antall rullestolplasser.
+5. Der passasjerer skal forflytte seg, skal det så langt det er mulig ikke være noen hindringer. Det skal være mulig å forflytte seg uhindret med rullestol mellom inngang og rullestolplass.
+6. Døråpner/-lukker, signalknapp for stopp, hindre, herunder trappetrinn og skråplan, og andre viktige funksjoner skal være visuelt og følbart merket.
+7. Kjøretøy skal være utstyrt med et kommunikasjonssystem for kunngjøringer. Dersom systemet er automatisk eller forhåndsprogrammert, skal det kunne overstyres manuelt. Visuell informasjon skal kunne leses under alle lysforhold og skal stå i tilfredsstillende kontrast til bakgrunnen.
+8. Kjøretøy skal være utstyrt med nødanropsinnretning som skal være visuelt og følbart merket og gi et synlig og hørbart tegn på at innretningen er i bruk.
+9. Overflater på gulv og i trapper skal være sklisikre.
+10. Belysning og kontraster skal være slik at sentrale elementer, som for eksempel passasjer, dører, seter, holdestenger, betjeningselementer, informasjon, hindre og merking, framstår tydelig.
 
 > Tilføyd ved [forskrift 4 juni 2015 nr. 591](forskrift/2015-06-04-591) (i kraft 1 juli 2015).
 
@@ -558,11 +641,27 @@ Før kjøretøy tas i bruk på infrastrukturen, skal Statens jernbanetilsyn gi t
 
 Det skal sendes melding til Statens jernbanetilsyn om nytt eller endret kjøretøy så tidlig som mulig.
 
-Meldingen skal minst inneholde:navn på og kontaktopplysninger til kontaktperson,planlagt fremdrift i prosjektet,systembeskrivelse,sikkerhetsplan,oversikt over planlagt anvendte standarder ogrisikovurdering.
+Meldingen skal minst inneholde:
+
+1. navn på og kontaktopplysninger til kontaktperson,
+2. planlagt fremdrift i prosjektet,
+3. systembeskrivelse,
+4. sikkerhetsplan,
+5. oversikt over planlagt anvendte standarder og
+6. risikovurdering.
 
 ### § 12-10. Søknad om tillatelse til å ta i bruk kjøretøy
 
-Søknad om tillatelse til å ta kjøretøy i bruk skal minst inneholde:oversiktstegninger og beskrivelser av kjøretøytypen,oversikt over verifikasjoner,sikkerhetsrapport,oppdatert liste over anvendte standarder med oversikt over avvik og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene, samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp,sikkerhetsoppfølgingsplan (SOP),kompatibilitetserklæring ogeventuell godkjenning fra andre land.
+Søknad om tillatelse til å ta kjøretøy i bruk skal minst inneholde:
+
+1. oversiktstegninger og beskrivelser av kjøretøytypen,
+2. oversikt over verifikasjoner,
+3. sikkerhetsrapport,
+4. oppdatert liste over anvendte standarder med oversikt over avvik og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,
+5. oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene, samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp,
+6. sikkerhetsoppfølgingsplan (SOP),
+7. kompatibilitetserklæring og
+8. eventuell godkjenning fra andre land.
 
 Er assessor eller andre uavhengige parter benyttet, skal utarbeidete rapporter og oppfølgningen av disse, vedlegges.
 
@@ -618,7 +717,14 @@ Førere skal være godt kjent på strekningen de kjører på.
 
 Førere skal ha autorisasjon gitt av jernbanevirksomheten. Autorisasjon kan bare gis til personell som gjennom teoretiske og praktiske prøver har vist at de tilfredsstiller de kompetansekrav som stilles i forskriften her, tilfredsstiller krav til fysisk og psykisk helse og for øvrig er skikket til å utføre arbeidsoppgaver som er tillagt førere på en sikker måte. For førere som kjører i blandet trafikk er det krav om førerkort klasse B.
 
-Det skal utstedes et autorisasjonsbevis som minst skal inneholde:navn og adresse på jernbanevirksomheten som har gitt autorisasjonen,navn på føreren,utstedelsesdato og gyldighetstid,hvilke typer kjøretøy føreren kan kjøre,hvilke strekninger føreren kan kjøre ogeventuelle begrensninger i autorisasjonen.
+Det skal utstedes et autorisasjonsbevis som minst skal inneholde:
+
+1. navn og adresse på jernbanevirksomheten som har gitt autorisasjonen,
+2. navn på føreren,
+3. utstedelsesdato og gyldighetstid,
+4. hvilke typer kjøretøy føreren kan kjøre,
+5. hvilke strekninger føreren kan kjøre og
+6. eventuelle begrensninger i autorisasjonen.
 
 ### § 13-9. Tilbaketrekking av autorisasjon
 
@@ -652,15 +758,27 @@ Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i 
 
 ### § 14-3. Første gangs helseundersøkelse
 
-Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i [§ 14-1](forskrift/2014-12-10-1572/§14-1) skal gjennomgå en helseundersøkelse som minst skal omfatte:en generell undersøkelse,undersøkelser av sansefunksjoner (syn, hørsel, fargesans),en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i [§ 14-1](forskrift/2014-12-10-1572/§14-1) skal gjennomgå en helseundersøkelse som minst skal omfatte:
 
-Det skal også gjennomføres en psykologisk undersøkelse som skal omfatte:kognitive egenskaper,psykomotoriske egenskaper,atferdsmessige og personlige egenskaper.
+1. en generell undersøkelse,
+2. undersøkelser av sansefunksjoner (syn, hørsel, fargesans),
+3. en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+
+Det skal også gjennomføres en psykologisk undersøkelse som skal omfatte:
+
+1. kognitive egenskaper,
+2. psykomotoriske egenskaper,
+3. atferdsmessige og personlige egenskaper.
 
 > Tilføyd ved [forskrift 19 des 2016 nr. 1736](forskrift/2016-12-19-1736) (i kraft 1 jan 2017).
 
 ### § 14-4. Periodiske undersøkelser
 
-Det skal gjennomføres minst en helseundersøkelse:hvert femte år for personale opp til 40 år,hvert tredje år for personale mellom 41 og 62 år,hvert år for personale over 62 år.
+Det skal gjennomføres minst en helseundersøkelse:
+
+1. hvert femte år for personale opp til 40 år,
+2. hvert tredje år for personale mellom 41 og 62 år,
+3. hvert år for personale over 62 år.
 
 Legen skal gjennomføre hyppigere helseundersøkelser dersom helsetilstanden til den ansatte krever det.
 
@@ -668,7 +786,11 @@ Legen skal gjennomføre hyppigere helseundersøkelser dersom helsetilstanden til
 
 ### § 14-5. Minstekrav til den periodiske helseundersøkelsen
 
-Periodisk helseundersøkelse skal minst inneholde:en generell undersøkelse,undersøkelser av sansefunksjoner (syn, hørsel og fargesans),en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+Periodisk helseundersøkelse skal minst inneholde:
+
+1. en generell undersøkelse,
+2. undersøkelser av sansefunksjoner (syn, hørsel og fargesans),
+3. en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
 
 > Tilføyd ved [forskrift 19 des 2016 nr. 1736](forskrift/2016-12-19-1736) (i kraft 1 jan 2017).
 
@@ -684,7 +806,13 @@ Jernbanevirksomheten skal ha systemer for å sikre at slike supplerende undersø
 
 Det skal foreligge fysisk og psykisk skikkethet til å utføre arbeidsoppgavene på en slik måte at det ikke innebærer en fare for trafikksikkerheten.
 
-Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre til:plutselig bevisstløshet,nedsatt oppmerksomhet eller konsentrasjon,plutselig arbeidsudyktighet,nedsatt balanse- eller koordineringsevne,betydelig begrenset bevegelsesevne.
+Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre til:
+
+1. plutselig bevisstløshet,
+2. nedsatt oppmerksomhet eller konsentrasjon,
+3. plutselig arbeidsudyktighet,
+4. nedsatt balanse- eller koordineringsevne,
+5. betydelig begrenset bevegelsesevne.
 
 > Tilføyd ved [forskrift 19 des 2016 nr. 1736](forskrift/2016-12-19-1736) (i kraft 1 jan 2017).
 
@@ -692,7 +820,19 @@ Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre ti
 
 Synsfunksjonen skal være så god at trafikksikkerhetsmessig informasjon kan oppfattes uten vanskelighet.
 
-Følgende krav gjelder:synsstyrke på avstand med eller uten korreksjon: 0,8 (høyre øye + venstre øye – målt hver for seg), minst 0,3 for det svakeste øyet,største tillatte korreksjon: langsynthet +5/nærsynthet –8,syn på kort og mellomlang avstand: tilstrekkelig med eller uten korreksjon,kontaktlinser er tillatt,normalt fargesyn: påvist gjennom bruk av en godkjent prøve, som f.eks. Ishihara, supplert ved en annen godkjent prøve dersom det er nødvendig,synsfelt: normalt (ikke noe avvik som påvirker den oppgaven som skal utføres),syn på begge øyne: effektivt,binokulært syn: effektivt,kontrastfølsomhet: god,ingen progressiv øyensykdom,øyeimplantater, keratotomi og keratektomi er bare tillatt dersom de kontrolleres årlig eller med en hyppighet som legen fastsetter.
+Følgende krav gjelder:
+
+1. synsstyrke på avstand med eller uten korreksjon: 0,8 (høyre øye + venstre øye – målt hver for seg), minst 0,3 for det svakeste øyet,
+2. største tillatte korreksjon: langsynthet +5/nærsynthet –8,
+3. syn på kort og mellomlang avstand: tilstrekkelig med eller uten korreksjon,
+4. kontaktlinser er tillatt,
+5. normalt fargesyn: påvist gjennom bruk av en godkjent prøve, som f.eks. Ishihara, supplert ved en annen godkjent prøve dersom det er nødvendig,
+6. synsfelt: normalt (ikke noe avvik som påvirker den oppgaven som skal utføres),
+7. syn på begge øyne: effektivt,
+8. binokulært syn: effektivt,
+9. kontrastfølsomhet: god,
+10. ingen progressiv øyensykdom,
+11. øyeimplantater, keratotomi og keratektomi er bare tillatt dersom de kontrolleres årlig eller med en hyppighet som legen fastsetter.
 
 Legen kan i særlige tilfeller tillate verdier som ligger utenfor ovennevnte krav etter å ha innhentet uttalelse fra en øyelege.
 

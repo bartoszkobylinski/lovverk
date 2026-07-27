@@ -15,7 +15,7 @@ xml_hash: "a274b98d485b8ac30d5dc0607d7a78ec137aa89d9befd3e84c8f2f051c15cb96"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,10 @@ Barnehagen skal sørge for at saker av viktighet forelegges foreldrerådet og sa
 
 [§ 7 a tredje ledd](lov/2005-06-17-64/§7a/ledd/3) skal lyde:
 
-Første ledd gjelder ikke for åpne barnehager og ikke for eiere som alene, sammen med nærstående eller selskap i samme konsern eierordinære barnehager med til sammen færre enn tretti barn, ellerfamiliebarnehager med til sammen færre enn ti barn.
+Første ledd gjelder ikke for åpne barnehager og ikke for eiere som alene, sammen med nærstående eller selskap i samme konsern eier
+
+1. ordinære barnehager med til sammen færre enn tretti barn, eller
+2. familiebarnehager med til sammen færre enn ti barn.
 
 [§ 8](lov/2005-06-17-64/§8) skal lyde:
 
@@ -60,7 +63,13 @@ Barnehagen skal ha internkontroll for å sikre at kravene i denne loven med fors
 
 [§ 9 tredje ledd](lov/2005-06-17-64/§9/ledd/3) skal lyde:
 
-Ved internkontroll etter denne paragrafen skal barnehagenutarbeide en beskrivelse av barnehagens hovedoppgaver, mål og organiseringha nødvendige rutiner og prosedyreravdekke og følge opp avvik og risiko for avvikdokumentere internkontrollen i den formen og det omfanget som er nødvendigevaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
+Ved internkontroll etter denne paragrafen skal barnehagen
+
+1. utarbeide en beskrivelse av barnehagens hovedoppgaver, mål og organisering
+2. ha nødvendige rutiner og prosedyrer
+3. avdekke og følge opp avvik og risiko for avvik
+4. dokumentere internkontrollen i den formen og det omfanget som er nødvendig
+5. evaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
 
 [§ 12](lov/2005-06-17-64/§12) skal lyde:
 

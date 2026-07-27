@@ -15,7 +15,7 @@ xml_hash: "399c0c65c59f292f965a5c40edbbafb296f42f07c22f0c1a763c48ec269fc97e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,10 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og
 
 ## § 5. Opphevelse av forskrifter
 
-Følgende forskrifter oppheves:[forskrift 21. desember 1993 nr. 1382](forskrift/1993-12-21-1382) om næringsmidler til bruk ved spesielle ernæringsmessige behov og[forskrift 10. juli 2009 nr. 999](forskrift/2009-07-10-999) om sammensetning og merking av næringsmidler til personer med glutenintoleranse.
+Følgende forskrifter oppheves:
+
+- [forskrift 21. desember 1993 nr. 1382](forskrift/1993-12-21-1382) om næringsmidler til bruk ved spesielle ernæringsmessige behov og
+- [forskrift 10. juli 2009 nr. 999](forskrift/2009-07-10-999) om sammensetning og merking av næringsmidler til personer med glutenintoleranse.
 
 > Endret ved [forskrift 15 juni 2016 nr. 659](forskrift/2016-06-15-659).
 
@@ -82,7 +85,12 @@ For å gjøre det lettere å finne frem til ordlyden i de forordningene som blir
 
 > Endret ved [forskrifter 21 juli 2016 nr. 941](forskrift/2016-07-21-941), [25 sep 2017 nr. 1526](forskrift/2017-09-25-1526), [12 juli 2021 nr. 2413](forskrift/2021-07-12-2413), [23 sep 2023 nr. 1586](forskrift/2023-09-23-1586), [9 feb 2026 nr. 193](forskrift/2026-02-09-193).
 
-Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 609/2013](eu/32013r0609). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2017/1091](eu/32017r1091), forordning [(EU) 2021/571](eu/32021r0571), forordning [(EU) 2023/439](eu/32023r0439) og forordning [(EU) 2025/1735](eu/32025r1735). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kapittel XII nr. 77, er innarbeidet nedenfor.►**M1** Forordning [(EU) 2017/1091](eu/32017r1091)►**M2** Forordning [(EU) 2021/571](eu/32021r0571)►**M3** Forordning [(EU) 2023/439](eu/32023r0439)►**M5** Forordning [(EU) 2025/1735](eu/32025r1735)
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 609/2013](eu/32013r0609). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2017/1091](eu/32017r1091), forordning [(EU) 2021/571](eu/32021r0571), forordning [(EU) 2023/439](eu/32023r0439) og forordning [(EU) 2025/1735](eu/32025r1735). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kapittel XII nr. 77, er innarbeidet nedenfor.
+
+- ►**M1** Forordning [(EU) 2017/1091](eu/32017r1091)
+- ►**M2** Forordning [(EU) 2021/571](eu/32021r0571)
+- ►**M3** Forordning [(EU) 2023/439](eu/32023r0439)
+- ►**M5** Forordning [(EU) 2025/1735](eu/32025r1735)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) nr. 609/2013](eu/32013r0609)
 av 12. juni 2013
@@ -198,19 +206,51 @@ ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål
 
-1\. I denne forordning fastsettes krav til sammensetning og informasjon for følgende kategorier av næringsmidler:morsmelkerstatninger og tilskuddsblandinger,bearbeidede kornbaserte næringsmidler og barnemat,næringsmidler til spesielle medisinske formål,total kosterstatning for vektkontroll.
+1\. I denne forordning fastsettes krav til sammensetning og informasjon for følgende kategorier av næringsmidler:
+
+1. morsmelkerstatninger og tilskuddsblandinger,
+2. bearbeidede kornbaserte næringsmidler og barnemat,
+3. næringsmidler til spesielle medisinske formål,
+4. total kosterstatning for vektkontroll.
 
 2\. I denne forordning fastsettes en unionsliste over stoffer som kan tilsettes i én eller flere kategorier av næringsmidler nevnt i nr. 1, og regler for ajourføring av denne listen.
 
 ### Artikkel 2. Definisjoner
 
-1\. I denne forordning gjelder følgende definisjoner:definisjonene av «næringsmidler», «driftsansvarlig for et næringsmiddelforetak», «detaljhandel» og «omsetning» i henholdsvis artikkel 2 og artikkel 3 nr. 3, 7 og 8 i forordning [(EF) nr. 178/2002](eu/32002r0178),definisjonene av «ferdigpakket næringsmiddel», «merking» og «industrielt framstilt nanomateriale» i henholdsvis bokstav e), j) og t) i artikkel 2 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*),definisjonene av «ernæringspåstand» og «helsepåstand» i henholdsvis nr. 4 og 5 i artikkel 2 nr. 2 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. I denne forordning gjelder følgende definisjoner:
 
-2\. Videre menes med«spedbarn», barn under tolv måneder,«småbarn», barn fra ett til tre år,«morsmelkerstatning», et næringsmiddel som er beregnet på ernæring av spedbarn i løpet av deres første levemåneder, og som i seg selv dekker spedbarnets ernæringsbehov før det begynner å få egnet tilleggskost,«tilskuddsblanding», et næringsmiddel som er beregnet å inntas av spedbarn når det begynner å få egnet tilleggskost, og som utgjør den vesentligste flytende del av det etter hvert mer varierte kostholdet til denne aldersgruppen,«bearbeidede kornbaserte næringsmidler», næringsmidler somer beregnet å dekke de særlige behovene til spedbarn ved god helse mens de avvennes, og til småbarn ved god helse som tillegg til kosten og/eller ved gradvis overgang til vanlig kosthold, ogsom gjelder en av følgende kategorier:enkle kornprodukter som er rekonstituert eller skal rekonstitueres med melk eller andre egnede, næringsrike væsker,korn tilsatt et næringsmiddel med høyt proteininnhold som er rekonstituert eller skal rekonstitueres med vann eller annen proteinfri væske,pasta som før bruk skal kokes i vann eller andre egnede væsker,kavring og kjeks som enten skal brukes direkte eller, etter knusing, med tilsetting av vann, melk eller andre egnede væsker.«barnemat», et næringsmiddel som er beregnet å dekke de særlige behovene til spedbarn ved god helse mens de avvennes, og til småbarn ved god helse som tillegg til kosten og/eller ved gradvis overgang til vanlig kosthold, med unntak avbearbeidede kornbaserte næringsmidler, ogmelkbaserte drikker og lignende produkter spesielt beregnet på småbarn,«næringsmidler til spesielle medisinske formål», næringsmidler som er spesielt bearbeidet eller sammensatt med tanke på kostbehandling av pasienter, herunder spedbarn, og som skal brukes under medisinsk tilsyn; de er beregnet å utgjøre hele eller deler av kosten for pasienter med begrenset, nedsatt eller forstyrret evne til å innta, fordøye, oppta, omdanne eller utskille vanlige næringsmidler eller enkelte av de næringsstoffene de inneholder, eller deres stoffskifteprodukter, eller for pasienter med andre medisinsk betingede ernæringsbehov som ikke kan dekkes ved en endring av det normale kostholdet alene,«total kosterstatning for vektkontroll», næringsmidler som er spesielt sammensatt til bruk i energifattige dietter for vektreduksjon, og som når de inntas som angitt av driftsansvarlig for næringsmiddelforetaket, erstatter hele den daglige kosten.
+1. definisjonene av «næringsmidler», «driftsansvarlig for et næringsmiddelforetak», «detaljhandel» og «omsetning» i henholdsvis artikkel 2 og artikkel 3 nr. 3, 7 og 8 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+2. definisjonene av «ferdigpakket næringsmiddel», «merking» og «industrielt framstilt nanomateriale» i henholdsvis bokstav e), j) og t) i artikkel 2 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*),
+3. definisjonene av «ernæringspåstand» og «helsepåstand» i henholdsvis nr. 4 og 5 i artikkel 2 nr. 2 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+
+2\. Videre menes med
+
+1. «spedbarn», barn under tolv måneder,
+2. «småbarn», barn fra ett til tre år,
+3. «morsmelkerstatning», et næringsmiddel som er beregnet på ernæring av spedbarn i løpet av deres første levemåneder, og som i seg selv dekker spedbarnets ernæringsbehov før det begynner å få egnet tilleggskost,
+4. «tilskuddsblanding», et næringsmiddel som er beregnet å inntas av spedbarn når det begynner å få egnet tilleggskost, og som utgjør den vesentligste flytende del av det etter hvert mer varierte kostholdet til denne aldersgruppen,
+5. «bearbeidede kornbaserte næringsmidler», næringsmidler som
+
+   1. er beregnet å dekke de særlige behovene til spedbarn ved god helse mens de avvennes, og til småbarn ved god helse som tillegg til kosten og/eller ved gradvis overgang til vanlig kosthold, og
+   2. som gjelder en av følgende kategorier:
+
+      - enkle kornprodukter som er rekonstituert eller skal rekonstitueres med melk eller andre egnede, næringsrike væsker,
+      - korn tilsatt et næringsmiddel med høyt proteininnhold som er rekonstituert eller skal rekonstitueres med vann eller annen proteinfri væske,
+      - pasta som før bruk skal kokes i vann eller andre egnede væsker,
+      - kavring og kjeks som enten skal brukes direkte eller, etter knusing, med tilsetting av vann, melk eller andre egnede væsker.
+6. «barnemat», et næringsmiddel som er beregnet å dekke de særlige behovene til spedbarn ved god helse mens de avvennes, og til småbarn ved god helse som tillegg til kosten og/eller ved gradvis overgang til vanlig kosthold, med unntak av
+
+   1. bearbeidede kornbaserte næringsmidler, og
+   2. melkbaserte drikker og lignende produkter spesielt beregnet på småbarn,
+7. «næringsmidler til spesielle medisinske formål», næringsmidler som er spesielt bearbeidet eller sammensatt med tanke på kostbehandling av pasienter, herunder spedbarn, og som skal brukes under medisinsk tilsyn; de er beregnet å utgjøre hele eller deler av kosten for pasienter med begrenset, nedsatt eller forstyrret evne til å innta, fordøye, oppta, omdanne eller utskille vanlige næringsmidler eller enkelte av de næringsstoffene de inneholder, eller deres stoffskifteprodukter, eller for pasienter med andre medisinsk betingede ernæringsbehov som ikke kan dekkes ved en endring av det normale kostholdet alene,
+8. «total kosterstatning for vektkontroll», næringsmidler som er spesielt sammensatt til bruk i energifattige dietter for vektreduksjon, og som når de inntas som angitt av driftsansvarlig for næringsmiddelforetaket, erstatter hele den daglige kosten.
 
 ### Artikkel 3. Fortolkningsbeslutninger
 
-For å sikre enhetlig gjennomføring av denne forordning kan Kommisjonen ved hjelp av gjennomføringsrettsakter besluttehvorvidt et næringsmiddel er innenfor denne forordnings virkeområde,hvilken bestemt næringsmiddelkategori nevnt i artikkel 1 nr. 1 et gitt næringsmiddel tilhører.
+For å sikre enhetlig gjennomføring av denne forordning kan Kommisjonen ved hjelp av gjennomføringsrettsakter beslutte
+
+1. hvorvidt et næringsmiddel er innenfor denne forordnings virkeområde,
+2. hvilken bestemt næringsmiddelkategori nevnt i artikkel 1 nr. 1 et gitt næringsmiddel tilhører.
 
 Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 17 nr. 2.
 
@@ -258,7 +298,9 @@ Alminnelige krav til sammensetning og informasjon
 
 1\. Næringsmidlene nevnt i artikkel 1 nr. 1 skal ha en sammensetning som er slik at de er egnet til å dekke de ernæringsmessige behovene til, og egner seg for, de personene de er beregnet på, i samsvar med allment anerkjente vitenskapelige data.
 
-2\. Næringsmidlene nevnt i artikkel 1 nr. 1 skal ikke inneholde noe stoff i en slik mengde at det utgjør en helsefare for de personene de er beregnet på.For stoffer som er industrielt framstilte nanomaterialer, skal overholdelse av kravet nevnt i første ledd eventuelt dokumenteres på grunnlag av tilstrekkelige prøvingsmetoder.
+2\. Næringsmidlene nevnt i artikkel 1 nr. 1 skal ikke inneholde noe stoff i en slik mengde at det utgjør en helsefare for de personene de er beregnet på.
+
+For stoffer som er industrielt framstilte nanomaterialer, skal overholdelse av kravet nevnt i første ledd eventuelt dokumenteres på grunnlag av tilstrekkelige prøvingsmetoder.
 
 3\. På grunnlag av allment anerkjente vitenskapelige data skal stoffer som tilsettes til næringsmidlene nevnt i artikkel 1 nr. 1 for formålene nevnt i nr. 1 i denne artikkel, være biologisk tilgjengelige i en form som menneskekroppen kan utnytte, ha en ernæringsmessig eller fysiologisk virkning og være egnet for de personene næringsmiddelet er beregnet på.
 
@@ -274,7 +316,9 @@ Tilleggskrav for morsmelkerstatninger og tilskuddsblandinger
 
 1\. Merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger skal være slik at amming ikke motvirkes.
 
-2\. Merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger skal ikke inneholde bilder av spedbarn eller andre bilder eller tekst som kan idealisere bruken av slike blandinger.Med forbehold for første ledd er det tillatt med grafiske framstillinger for å lette identifikasjonen av morsmelkerstatninger og tilskuddsblandinger og for å illustrere tilberedningsmetodene.
+2\. Merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger skal ikke inneholde bilder av spedbarn eller andre bilder eller tekst som kan idealisere bruken av slike blandinger.
+
+Med forbehold for første ledd er det tillatt med grafiske framstillinger for å lette identifikasjonen av morsmelkerstatninger og tilskuddsblandinger og for å illustrere tilberedningsmetodene.
 
 ### AVSNITT 2
 Særlige krav
@@ -283,9 +327,21 @@ Særlige krav
 
 Særlige krav til sammensetning og informasjon
 
-1\. Kommisjonen skal, med forbehold for de alminnelige kravene i artikkel 6 og 9 og tilleggskravene i artikkel 10 og idet det tas hensyn til relevant teknisk og vitenskapelig utvikling, ha myndighet til å vedta delegerte rettsakter i samsvar med artikkel 18 med hensyn til følgende:de særlige kravene til sammensetning som gjelder for næringsmidlene nevnt i artikkel 1 nr. 1, med unntak av kravene i dette vedlegg,de særlige kravene til bruk av plantevernmidler beregnet på produksjon av næringsmidlene nevnt i artikkel 1 nr. 1 og rester av plantevernmidler i slike næringsmidler. De særlige kravene for næringsmiddelkategoriene nevnt i bokstav a) og b) i artikkel 1 nr. 1 og næringsmidler til spesielle medisinske formål utviklet for å dekke spedbarns og småbarns ernæringsmessige behov skal ajourføres regelmessig og blant annet omfatte bestemmelser for å begrense bruk av plantevernmidler i størst mulig grad,de særlige kravene til merking og presentasjon av og reklame for næringsmidlene nevnt i artikkel 1 nr. 1, herunder godkjenning av ernærings- og helsepåstander i den forbindelse,meldingskravene for omsetning av næringsmidlene nevnt i artikkel 1 nr. 1 for å lette effektivt offisielt tilsyn med slike næringsmidler, og som driftsansvarlige for næringsmiddelforetak skal underrette vedkommende myndigheter i medlemsstatene der næringsmidlene omsettes, på grunnlag av,krav med hensyn til reklame og handelspraksis knyttet til morsmelkerstatninger,krav med hensyn til opplysninger som skal oppgis i forbindelse med spedbarns- og småbarnskost for å sikre tilstrekkelige opplysninger om hensiktsmessige kostvaner,særlige krav til næringsmidler til spesielle medisinske formål som er utviklet for å dekke spedbarns ernæringsbehov, herunder krav til sammensetning og krav i forbindelse med bruk av plantevernmidler i produkter beregnet på framstilling av slike næringsmidler, rester av plantevernmidler, merking, presentasjon, reklame og salgsfremmende tiltak samt handelspraksis, alt etter relevans.Disse delegerte rettsaktene skal vedtas innen 20. juli 2015.
+1\. Kommisjonen skal, med forbehold for de alminnelige kravene i artikkel 6 og 9 og tilleggskravene i artikkel 10 og idet det tas hensyn til relevant teknisk og vitenskapelig utvikling, ha myndighet til å vedta delegerte rettsakter i samsvar med artikkel 18 med hensyn til følgende:
 
-2\. Kommisjonen skal, med forbehold for de alminnelige kravene i artikkel 6 og 9 og tilleggskravene i artikkel 10 og idet det tas hensyn til relevant teknisk og vitenskapelig utvikling, herunder data framlagt av de berørte parter knyttet til innovative produkter, ha myndighet til å vedta delegerte rettsakter i samsvar med artikkel 18 for å ajourføre rettsaktene nevnt i nr. 1 i denne artikkel.Dersom det foreligger tvingende hasteårsaker som skyldes en oppstått helsefare for forbrukerne, skal framgangsmåten fastsatt i artikkel 19 få anvendelse på delegerte rettsakter vedtatt i henhold til dette nummer.
+1. de særlige kravene til sammensetning som gjelder for næringsmidlene nevnt i artikkel 1 nr. 1, med unntak av kravene i dette vedlegg,
+2. de særlige kravene til bruk av plantevernmidler beregnet på produksjon av næringsmidlene nevnt i artikkel 1 nr. 1 og rester av plantevernmidler i slike næringsmidler. De særlige kravene for næringsmiddelkategoriene nevnt i bokstav a) og b) i artikkel 1 nr. 1 og næringsmidler til spesielle medisinske formål utviklet for å dekke spedbarns og småbarns ernæringsmessige behov skal ajourføres regelmessig og blant annet omfatte bestemmelser for å begrense bruk av plantevernmidler i størst mulig grad,
+3. de særlige kravene til merking og presentasjon av og reklame for næringsmidlene nevnt i artikkel 1 nr. 1, herunder godkjenning av ernærings- og helsepåstander i den forbindelse,
+4. meldingskravene for omsetning av næringsmidlene nevnt i artikkel 1 nr. 1 for å lette effektivt offisielt tilsyn med slike næringsmidler, og som driftsansvarlige for næringsmiddelforetak skal underrette vedkommende myndigheter i medlemsstatene der næringsmidlene omsettes, på grunnlag av,
+5. krav med hensyn til reklame og handelspraksis knyttet til morsmelkerstatninger,
+6. krav med hensyn til opplysninger som skal oppgis i forbindelse med spedbarns- og småbarnskost for å sikre tilstrekkelige opplysninger om hensiktsmessige kostvaner,
+7. særlige krav til næringsmidler til spesielle medisinske formål som er utviklet for å dekke spedbarns ernæringsbehov, herunder krav til sammensetning og krav i forbindelse med bruk av plantevernmidler i produkter beregnet på framstilling av slike næringsmidler, rester av plantevernmidler, merking, presentasjon, reklame og salgsfremmende tiltak samt handelspraksis, alt etter relevans.
+
+Disse delegerte rettsaktene skal vedtas innen 20. juli 2015.
+
+2\. Kommisjonen skal, med forbehold for de alminnelige kravene i artikkel 6 og 9 og tilleggskravene i artikkel 10 og idet det tas hensyn til relevant teknisk og vitenskapelig utvikling, herunder data framlagt av de berørte parter knyttet til innovative produkter, ha myndighet til å vedta delegerte rettsakter i samsvar med artikkel 18 for å ajourføre rettsaktene nevnt i nr. 1 i denne artikkel.
+
+Dersom det foreligger tvingende hasteårsaker som skyldes en oppstått helsefare for forbrukerne, skal framgangsmåten fastsatt i artikkel 19 få anvendelse på delegerte rettsakter vedtatt i henhold til dette nummer.
 
 ###### Artikkel 12
 
@@ -310,23 +366,44 @@ UNIONSLISTE
 
 ### Artikkel 15. Unionsliste
 
-1\. Stoffer som tilhører følgende stoffkategorier, kan tilsettes i én eller flere av næringsmiddelkategoriene nevnt i artikkel 1 nr. 1, forutsatt at disse stoffene er tatt med på unionslisten gjengitt i vedlegget og overholder opplysningene på unionslisten i samsvar med nr. 3 i denne artikkel:vitaminer,mineraler,aminosyrer,karnitin og taurin,nukleotider,kolin og inostol.
+1\. Stoffer som tilhører følgende stoffkategorier, kan tilsettes i én eller flere av næringsmiddelkategoriene nevnt i artikkel 1 nr. 1, forutsatt at disse stoffene er tatt med på unionslisten gjengitt i vedlegget og overholder opplysningene på unionslisten i samsvar med nr. 3 i denne artikkel:
+
+1. vitaminer,
+2. mineraler,
+3. aminosyrer,
+4. karnitin og taurin,
+5. nukleotider,
+6. kolin og inostol.
 
 2\. Stoffer som er oppført på unionslisten, skal oppfylle de alminnelige kravene fastsatt i artikkel 6 og 9 og eventuelt de særlige kravene vedtatt i henhold til artikkel 11.
 
-3\. Unionslisten skal inneholde følgende opplysninger:den næringsmiddelkategorien nevnt i artikkel 1 nr. 1 som stoffene som tilhører stoffkategoriene oppført i nr. 1 i denne artikkel, kan tilsettes til,navn, stoffbeskrivelse og eventuelt spesifikasjon av form,eventuelle vilkår for bruk av stoffet,eventuelle renhetskriterier for stoffet.
+3\. Unionslisten skal inneholde følgende opplysninger:
+
+1. den næringsmiddelkategorien nevnt i artikkel 1 nr. 1 som stoffene som tilhører stoffkategoriene oppført i nr. 1 i denne artikkel, kan tilsettes til,
+2. navn, stoffbeskrivelse og eventuelt spesifikasjon av form,
+3. eventuelle vilkår for bruk av stoffet,
+4. eventuelle renhetskriterier for stoffet.
 
 4\. Renhetskriterier som er fastsatt i Unionens regelverk for næringsmidler, og som gjelder for stoffene som er oppført på unionslisten, når de brukes ved framstilling av næringsmidler til andre formål enn dem som omfattes av denne forordning, skal også gjelde for disse stoffene når de brukes til formål som omfattes av denne forordning, med mindre annet er angitt i denne forordning.
 
-5\. For stoffer som er oppført på unionslisten, og som det ikke er vedtatt renhetskriterier for i Unionens regelverk for næringsmidler, gjelder allment anerkjente renhetskriterier som er anbefalt av internasjonale organer, til det er fastsatt slike kriterier.Medlemsstatene kan opprettholde nasjonale regler med strengere renhetskriterier.
+5\. For stoffer som er oppført på unionslisten, og som det ikke er vedtatt renhetskriterier for i Unionens regelverk for næringsmidler, gjelder allment anerkjente renhetskriterier som er anbefalt av internasjonale organer, til det er fastsatt slike kriterier.
 
-6\. Kommisjonen skal for å ta hensyn til den tekniske utvikling, den vitenskapelige utvikling eller forbrukervern ha myndighet til å vedta delegerte rettsakter i samsvar med artikkel 18 for stoffkategoriene oppført i nr. 1 i denne artikkel for følgende formål:fjerning av en kategori av stoffer,tilføyelse av en kategori av stoffer som har ernæringsmessig eller fysiologisk virkning.
+Medlemsstatene kan opprettholde nasjonale regler med strengere renhetskriterier.
+
+6\. Kommisjonen skal for å ta hensyn til den tekniske utvikling, den vitenskapelige utvikling eller forbrukervern ha myndighet til å vedta delegerte rettsakter i samsvar med artikkel 18 for stoffkategoriene oppført i nr. 1 i denne artikkel for følgende formål:
+
+1. fjerning av en kategori av stoffer,
+2. tilføyelse av en kategori av stoffer som har ernæringsmessig eller fysiologisk virkning.
 
 7\. Stoffer som tilhører kategorier som ikke er oppført i nr. 1 i denne artikkel, kan tilsettes til næringsmidler nevnt i artikkel 1 nr. 1, forutsatt at de oppfyller de alminnelige kravene fastsatt i artikkel 6 og 9 og eventuelt de særlige kravene fastsatt i henhold til artikkel 11.
 
 ### Artikkel 16. Ajourføring av unionslisten
 
-1\. Kommisjonen skal, med forbehold for de alminnelige kravene fastsatt i artikkel 6 og 9 og eventuelt de særlige kravene vedtatt i henhold til artikkel 11, og for å ta hensyn til den tekniske utvikling, den vitenskapelige utvikling og forbrukervern, ha myndighet til å vedta delegerte rettsaker i samsvar med artikkel 18 for å endre vedlegget med hensyn til følgende:tilføyelse av et stoff på unionslisten,fjerning av et stoff fra unionslisten,tilføyelse, fjerning eller endring av opplysningene nevnt i artikkel 15 nr. 3.
+1\. Kommisjonen skal, med forbehold for de alminnelige kravene fastsatt i artikkel 6 og 9 og eventuelt de særlige kravene vedtatt i henhold til artikkel 11, og for å ta hensyn til den tekniske utvikling, den vitenskapelige utvikling og forbrukervern, ha myndighet til å vedta delegerte rettsaker i samsvar med artikkel 18 for å endre vedlegget med hensyn til følgende:
+
+1. tilføyelse av et stoff på unionslisten,
+2. fjerning av et stoff fra unionslisten,
+3. tilføyelse, fjerning eller endring av opplysningene nevnt i artikkel 15 nr. 3.
 
 2\. Dersom det foreligger tvingende hasteårsaker som skyldes en oppstått helsefare, skal framgangsmåten fastsatt i artikkel 19 få anvendelse på delegerte rettsakter vedtatt i henhold til denne artikkel.
 
@@ -369,11 +446,15 @@ SLUTTBESTEMMELSER
 
 3\. Direktiv [96/8/EF](eu/31996l0008) får, med forbehold for nr. 4 første ledd, ikke anvendelse fra 20. juli 2016 på næringsmidler som presenteres som erstatning for ett eller flere måltider i det daglige kosthold.
 
-4\. Forordning [(EF) nr. 953/2009](eu/32009r0953) og direktiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021*), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141) oppheves fra datoen for anvendelse av de delegerte rettsaktene nevnt i artikkel 11 nr. 1.I tilfelle motstrid mellom forordning [(EF) nr. 953/2009](eu/32009r0953), direktiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021*), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141) og denne forordning har denne forordning forrang.
+4\. Forordning [(EF) nr. 953/2009](eu/32009r0953) og direktiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021*), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141) oppheves fra datoen for anvendelse av de delegerte rettsaktene nevnt i artikkel 11 nr. 1.
+
+I tilfelle motstrid mellom forordning [(EF) nr. 953/2009](eu/32009r0953), direktiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021*), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141) og denne forordning har denne forordning forrang.
 
 ### Artikkel 21. Overgangsbestemmelser
 
-1\. Næringsmidler nevnt i artikkel 1 nr. 1 i denne forordning som ikke overholder denne forordning, men som overholder direktiv [2009/39/EF](eu/32009l0039) og eventuelt forordning [(EF) nr. 953/2009](eu/32009r0953) og direktiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021*), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141), og som bringes i omsetning eller merkes før 20. juli 2016, kan fortsatt omsettes etter nevnte dato til lagrene av slike næringsmidler er tømt.Dersom datoen for anvendelse av de delegerte rettsaktene nevnt i artikkel 11 nr. 1 i denne forordning er etter 20. juli 2016, kan næringsmidler nevnt i artikkel 1 nr. 1 som overholder denne forordning og eventuelt forordning [(EF) nr. 953/2009](eu/32009r0953) og direktiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021*), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141), men som ikke overholder de delegerte rettsaktene, og som bringes i omsetning eller merkes før datoen for anvendelse av de delegerte rettsaktene, fortsatt omsettes etter nevnte dato til lagrene av slike næringsmidler er tømt.
+1\. Næringsmidler nevnt i artikkel 1 nr. 1 i denne forordning som ikke overholder denne forordning, men som overholder direktiv [2009/39/EF](eu/32009l0039) og eventuelt forordning [(EF) nr. 953/2009](eu/32009r0953) og direktiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021*), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141), og som bringes i omsetning eller merkes før 20. juli 2016, kan fortsatt omsettes etter nevnte dato til lagrene av slike næringsmidler er tømt.
+
+Dersom datoen for anvendelse av de delegerte rettsaktene nevnt i artikkel 11 nr. 1 i denne forordning er etter 20. juli 2016, kan næringsmidler nevnt i artikkel 1 nr. 1 som overholder denne forordning og eventuelt forordning [(EF) nr. 953/2009](eu/32009r0953) og direktiv [96/8/EF](eu/31996l0008), direktiv [1999/21/EF](eu/31999l0021*), direktiv [2006/125/EF](eu/32006l0125) og direktiv [2006/141/EF](eu/32006l0141), men som ikke overholder de delegerte rettsaktene, og som bringes i omsetning eller merkes før datoen for anvendelse av de delegerte rettsaktene, fortsatt omsettes etter nevnte dato til lagrene av slike næringsmidler er tømt.
 
 2\. Næringsmidler som ikke er nevnt i artikkel 1 nr. 1 i denne forordning, men som bringes i omsetning eller merkes i samsvar med direktiv [2009/39/EF](eu/32009l0039) og forordning [(EF) nr. 953/2009](eu/32009r0953) og eventuelt direktiv [96/8/EF](eu/31996l0008) og forordning [(EF) nr. 41/2009](eu/32009r0041) før 20. juli 2006, kan fortsatt omsettes etter nevnte dato til lagrene av slike næringsmidler er tømt.
 
@@ -381,7 +462,10 @@ SLUTTBESTEMMELSER
 
 Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Den får anvendelse av 20. juli 2016, med følgende unntak:Artikkel 11, 16, 18 og 19 får anvendelse fra 19. juli 2013.Artikkel 15 og vedlegget til denne forordning får anvendelse fra datoen for anvendelse av de delegerte rettsaktene nevnt i artikkel 11 nr. 1.
+Den får anvendelse av 20. juli 2016, med følgende unntak:
+
+- Artikkel 11, 16, 18 og 19 får anvendelse fra 19. juli 2013.
+- Artikkel 15 og vedlegget til denne forordning får anvendelse fra datoen for anvendelse av de delegerte rettsaktene nevnt i artikkel 11 nr. 1.
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
@@ -733,7 +817,10 @@ Utferdiget i Brussel, 13. oktober 2009.
 ### Vedlegg
 Stoffer som for særlige ernæringsformål kan tilsettes næringsmidler til bruk ved spesielle ernæringsmessige behov
 
-I denne tabell menes med:«Næringsmidler til spesielle ernæringsformål» næringsmidler til bruk ved spesielle ernæringsmessige behov, herunder næringsmidler til spesielle medisinske formål, men unntatt morsmelkerstatninger, tilskuddsblandinger, bearbeidede kornbaserte næringsmidler og barnemat til spedbarn og småbarn,«Næringsmidler til spesielle medisinske formål» næringsmidler til spesielle medisinske formål som definert i kommisjonsdirektiv [1999/21/EF](eu/31999l0021*) av 25. mars 1999 om næringsmidler til spesielle medisinske formål.1
+I denne tabell menes med:
+
+- «Næringsmidler til spesielle ernæringsformål» næringsmidler til bruk ved spesielle ernæringsmessige behov, herunder næringsmidler til spesielle medisinske formål, men unntatt morsmelkerstatninger, tilskuddsblandinger, bearbeidede kornbaserte næringsmidler og barnemat til spedbarn og småbarn,
+- «Næringsmidler til spesielle medisinske formål» næringsmidler til spesielle medisinske formål som definert i kommisjonsdirektiv [1999/21/EF](eu/31999l0021*) av 25. mars 1999 om næringsmidler til spesielle medisinske formål.1
 
 1 EFT L 91 av 7.4.1999, s. 29.
 
@@ -1036,11 +1123,19 @@ Næringsmidler til spesielle medisinske formål kan bringes i omsetning bare der
 
 ### Artikkel 2. Krav til sammensetning
 
-1\. Næringsmidler til spesielle medisinske formål klassifiseres i følgende tre kategorier:ernæringsmessig heldekkende næringsmidler med en standardisert næringsstoffsammensetning som når de brukes i samsvar med produsentens anvisninger, kan utgjøre den eneste ernæringskilden for personene de er beregnet på,ernæringsmessig heldekkende næringsmidler med en næringsstoffsammensetning som er særlig tilpasset en sykdom, lidelse eller medisinsk tilstand, og som når de brukes i samsvar med produsentens anvisninger, kan utgjøre den eneste ernæringskilden for personene de er beregnet på,næringsmidler som ikke er ernæringsmessig heldekkende, med en standardisert sammensetning eller en næringsstoffsammensetning som er særlig tilpasset en sykdom, lidelse eller medisinsk tilstand, og som ikke egner seg som eneste ernæringskilde.Næringsmidlene nevnt i første ledd bokstav a) og b) kan også brukes som en delvis erstatning av eller et tilskudd til pasientens kost.
+1\. Næringsmidler til spesielle medisinske formål klassifiseres i følgende tre kategorier:
+
+1. ernæringsmessig heldekkende næringsmidler med en standardisert næringsstoffsammensetning som når de brukes i samsvar med produsentens anvisninger, kan utgjøre den eneste ernæringskilden for personene de er beregnet på,
+2. ernæringsmessig heldekkende næringsmidler med en næringsstoffsammensetning som er særlig tilpasset en sykdom, lidelse eller medisinsk tilstand, og som når de brukes i samsvar med produsentens anvisninger, kan utgjøre den eneste ernæringskilden for personene de er beregnet på,
+3. næringsmidler som ikke er ernæringsmessig heldekkende, med en standardisert sammensetning eller en næringsstoffsammensetning som er særlig tilpasset en sykdom, lidelse eller medisinsk tilstand, og som ikke egner seg som eneste ernæringskilde.
+
+Næringsmidlene nevnt i første ledd bokstav a) og b) kan også brukes som en delvis erstatning av eller et tilskudd til pasientens kost.
 
 2\. Sammensetningen av næringsmidler til spesielle medisinske formål skal bygge på forsvarlige medisinske og ernæringsmessige prinsipper. Bruk av næringsmidlene i samsvar med produsentens anvisninger skal være trygt og fordelaktig og effektivt oppfylle de særlige ernæringsmessige behovene til målgruppen, noe som skal dokumenteres av allment aksepterte vitenskapelige data.
 
-3\. Næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal oppfylle kravene til sammensetning fastsatt i vedlegg I del A.Andre næringsmidler til spesielle medisinske formål enn dem som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal oppfylle kravene til sammensetning fastsatt i vedlegg I del B.
+3\. Næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal oppfylle kravene til sammensetning fastsatt i vedlegg I del A.
+
+Andre næringsmidler til spesielle medisinske formål enn dem som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal oppfylle kravene til sammensetning fastsatt i vedlegg I del B.
 
 4\. Kravene til sammensetning fastsatt i vedlegg I får anvendelse på næringsmidler til spesielle medisinske formål som markedsføres som bruksklare eller bruksklare etter tilberedning i samsvar med produsentens anvisninger.
 
@@ -1048,13 +1143,19 @@ Næringsmidler til spesielle medisinske formål kan bringes i omsetning bare der
 
 ►**M2**
 
-1\. I denne artikkelen menes med «rester» rester av pesticider i henhold til artikkel 3 nr. 2 bokstav c) i forordning [(EF) nr. 396/2005](eu/32005r0396).◄**M2**
+1\. I denne artikkelen menes med «rester» rester av pesticider i henhold til artikkel 3 nr. 2 bokstav c) i forordning [(EF) nr. 396/2005](eu/32005r0396).
 
-2\. Næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns og småbarns ernæringsmessige behov, skal ikke inneholde rester i mengder som overstiger 0,01 mg/kg per aktivt stoff.Disse grenseverdiene skal bestemmes ved hjelp av allment anerkjente standardiserte analysemetoder.
+◄**M2**
+
+2\. Næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns og småbarns ernæringsmessige behov, skal ikke inneholde rester i mengder som overstiger 0,01 mg/kg per aktivt stoff.
+
+Disse grenseverdiene skal bestemmes ved hjelp av allment anerkjente standardiserte analysemetoder.
 
 3\. Som unntak fra nr. 2 får grenseverdiene for rester angitt i vedlegg II anvendelse på de aktive stoffene som er oppført i nevnte vedlegg.
 
-4\. Næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns og småbarns ernæringsmessige behov, skal produseres bare på grunnlag av landbruksprodukter som er produsert uten bruk av plantevernmidler som inneholder aktive stoffer oppført i vedlegg III.Ved kontroll anses plantevernmidler som inneholder aktive stoffer oppført i vedlegg III, for ikke å ha blitt brukt dersom restene av dem ikke overskrider 0,003 mg/kg.
+4\. Næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns og småbarns ernæringsmessige behov, skal produseres bare på grunnlag av landbruksprodukter som er produsert uten bruk av plantevernmidler som inneholder aktive stoffer oppført i vedlegg III.
+
+Ved kontroll anses plantevernmidler som inneholder aktive stoffer oppført i vedlegg III, for ikke å ha blitt brukt dersom restene av dem ikke overskrider 0,003 mg/kg.
 
 5\. Verdiene nevnt i nr. 2, 3 og 4 får anvendelse på næringsmidler til spesielle medisinske formål som markedsføres som bruksklare eller bruksklare etter tilberedning i samsvar med produsentens anvisninger.
 
@@ -1066,13 +1167,30 @@ Næringsmidler til spesielle medisinske formål skal ha betegnelsene fastsatt i 
 
 1\. Med mindre annet er fastsatt i denne forordning, skal næringsmidler til spesielle medisinske formål oppfylle kravene i forordning [(EU) nr. 1169/2011](eu/32011r1169*).
 
-2\. I tillegg til de obligatoriske opplysningene nevnt i artikkel 9 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal følgende være supplerende obligatoriske opplysninger for næringsmidler til spesielle medisinske formål:en merknad om at produktet skal brukes bare under medisinsk tilsyn,en merknad om at produktet er egnet til bruk som eneste kilde til ernæring,ved behov en merknad om at produktet er beregnet på et bestemt aldersgruppe,ved behov en merknad om at inntak av produktet utgjør en helsefare for personer som ikke er rammet av sykdommen, lidelsen eller den medisinsk tilstanden som produktet er beregnet på,angivelsen «Til kostholdsbehandling av» etterfulgt av sykdommen, lidelsen eller den medisinsk tilstanden som produktet er beregnet på,ved behov en merknad om tilstrekkelige forholdsregler og kontraindikasjoner,en beskrivelse av egenskapene og/eller kjennetegnene som gjør produktet nyttig i forbindelse med kostholdsbehandling av sykdommen, lidelsen eller den medisinsk tilstanden som produktet er beregnet på, særlig som kan være knyttet til den spesifikke bearbeidingen og utformingen, næringsstoffer der innholdet er blitt økt, redusert, fjernet eller på annen måte endret, og begrunnelsen for å bruke produktet,ved behov en advarsel om at produktet ikke er til parenteral bruk,ved behov veiledning om riktig tilberedning, bruk og lagring av produktet etter åpning av beholderen.Opplysningene nevnt i bokstav a)–d) skal innledes med ordet «Viktig» eller en tilsvarende formulering.
+2\. I tillegg til de obligatoriske opplysningene nevnt i artikkel 9 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal følgende være supplerende obligatoriske opplysninger for næringsmidler til spesielle medisinske formål:
+
+1. en merknad om at produktet skal brukes bare under medisinsk tilsyn,
+2. en merknad om at produktet er egnet til bruk som eneste kilde til ernæring,
+3. ved behov en merknad om at produktet er beregnet på et bestemt aldersgruppe,
+4. ved behov en merknad om at inntak av produktet utgjør en helsefare for personer som ikke er rammet av sykdommen, lidelsen eller den medisinsk tilstanden som produktet er beregnet på,
+5. angivelsen «Til kostholdsbehandling av» etterfulgt av sykdommen, lidelsen eller den medisinsk tilstanden som produktet er beregnet på,
+6. ved behov en merknad om tilstrekkelige forholdsregler og kontraindikasjoner,
+7. en beskrivelse av egenskapene og/eller kjennetegnene som gjør produktet nyttig i forbindelse med kostholdsbehandling av sykdommen, lidelsen eller den medisinsk tilstanden som produktet er beregnet på, særlig som kan være knyttet til den spesifikke bearbeidingen og utformingen, næringsstoffer der innholdet er blitt økt, redusert, fjernet eller på annen måte endret, og begrunnelsen for å bruke produktet,
+8. ved behov en advarsel om at produktet ikke er til parenteral bruk,
+9. ved behov veiledning om riktig tilberedning, bruk og lagring av produktet etter åpning av beholderen.
+
+Opplysningene nevnt i bokstav a)–d) skal innledes med ordet «Viktig» eller en tilsvarende formulering.
 
 3\. Artikkel 13 nr. 2 og 3 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) får også anvendelse på de supplerende obligatoriske opplysningene nevnt i nr. 2 i denne artikkel.
 
 ### Artikkel 6. Særlige krav til næringsdeklarasjon
 
-1\. I tillegg til informasjonen nevnt i artikkel 30 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal den obligatoriske næringsdeklarasjonen for næringsmidler til spesielle medisinske formål omfatte følgende:mengden av hvert mineral og vitamin som er oppført i vedlegg I til denne forordning, og som produktet inneholder,mengden av bestanddeler av protein, karbohydrat, fett og/eller andre næringsstoffer og deres bestanddeler, dersom informasjon om dette er nødvendig for riktig og tiltenkt bruk av produktet,ved behov informasjon om produktets osmolalitet eller osmolaritet,informasjon om opprinnelsen til og arten av proteinet og/eller proteinhydrolysatene produktet inneholder.
+1\. I tillegg til informasjonen nevnt i artikkel 30 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal den obligatoriske næringsdeklarasjonen for næringsmidler til spesielle medisinske formål omfatte følgende:
+
+1. mengden av hvert mineral og vitamin som er oppført i vedlegg I til denne forordning, og som produktet inneholder,
+2. mengden av bestanddeler av protein, karbohydrat, fett og/eller andre næringsstoffer og deres bestanddeler, dersom informasjon om dette er nødvendig for riktig og tiltenkt bruk av produktet,
+3. ved behov informasjon om produktets osmolalitet eller osmolaritet,
+4. informasjon om opprinnelsen til og arten av proteinet og/eller proteinhydrolysatene produktet inneholder.
 
 2\. Som unntak fra artikkel 30 nr. 3 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal informasjonen som inngår i den obligatoriske næringsdeklarasjonen for næringsmidler til spesielle medisinske formål, ikke gjentas på merkingen.
 
@@ -1084,7 +1202,11 @@ Næringsmidler til spesielle medisinske formål skal ha betegnelsene fastsatt i 
 
 6\. Som unntak fra artikkel 32 nr. 3 og 4 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal energiinnholdet og mengden av næringsstoffer i næringsmidler til spesielle medisinske formål ikke uttrykkes i prosent av referanseinntakene fastsatt i vedlegg XIII til nevnte forordning.
 
-7\. Opplysningene som inngår i næringsdeklarasjonen for næringsmidler til spesielle medisinske formål og ikke er oppført i vedlegg XV til forordning [(EU) nr. 1169/2011](eu/32011r1169*), skal angis etter den mest relevante posten fra vedlegget som de tilhører eller er bestanddeler av.Opplysninger som ikke er oppført i vedlegg XV til forordning [(EU) nr. 1169/2011](eu/32011r1169*) og ikke tilhører eller ikke er bestanddeler av postene i nevnte vedlegg, skal angis i næringsdeklarasjonen etter den siste posten fra vedlegget.Mengden natrium skal angis på samme sted som andre mineraler og kan gjentas ved siden av angivelsen av saltinnholdet som følger: «Salt: X g (herav natrium: Y mg)».
+7\. Opplysningene som inngår i næringsdeklarasjonen for næringsmidler til spesielle medisinske formål og ikke er oppført i vedlegg XV til forordning [(EU) nr. 1169/2011](eu/32011r1169*), skal angis etter den mest relevante posten fra vedlegget som de tilhører eller er bestanddeler av.
+
+Opplysninger som ikke er oppført i vedlegg XV til forordning [(EU) nr. 1169/2011](eu/32011r1169*) og ikke tilhører eller ikke er bestanddeler av postene i nevnte vedlegg, skal angis i næringsdeklarasjonen etter den siste posten fra vedlegget.
+
+Mengden natrium skal angis på samme sted som andre mineraler og kan gjentas ved siden av angivelsen av saltinnholdet som følger: «Salt: X g (herav natrium: Y mg)».
 
 ### Artikkel 7. Ernærings- og helsepåstander
 
@@ -1094,11 +1216,17 @@ Det skal ikke framsettes ernærings- og helsepåstander om næringsmidler til sp
 
 1\. Alle obligatoriske opplysninger om næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal gis på et språk som lett kan forstås av forbrukerne.
 
-2\. Merking og presentasjon av og reklame for næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal ikke inneholde bilder av spedbarn eller andre bilder eller tekst som kan idealisere bruken av produktet.Det skal imidlertid være tillatt å bruke grafiske framstillinger som gjør det lettere å identifisere produktet, og som illustrerer tilberedningsmetodene.
+2\. Merking og presentasjon av og reklame for næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal ikke inneholde bilder av spedbarn eller andre bilder eller tekst som kan idealisere bruken av produktet.
+
+Det skal imidlertid være tillatt å bruke grafiske framstillinger som gjør det lettere å identifisere produktet, og som illustrerer tilberedningsmetodene.
 
 3\. Merking og presentasjon av og reklame for næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal særlig med hensyn til tekst, bilder og farger være utformet slik at forbrukerne lett kan skille mellom slike produkter og morsmelkerstatninger og tilskuddsblandinger, slik at det ikke er noen fare for forveksling.
 
-4\. Reklame for næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal begrenses til spesialpublikasjoner om spedbarnspleie og vitenskapelige publikasjoner.Medlemsstatene kan ytterligere begrense eller forby reklame. Reklamen skal inneholde bare informasjon av vitenskapelig og faktisk karakter.Første og annet ledd skal ikke være til hinder for spredning av informasjon utelukkende beregnet på helsepersonell.
+4\. Reklame for næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns ernæringsmessige behov, skal begrenses til spesialpublikasjoner om spedbarnspleie og vitenskapelige publikasjoner.
+
+Medlemsstatene kan ytterligere begrense eller forby reklame. Reklamen skal inneholde bare informasjon av vitenskapelig og faktisk karakter.
+
+Første og annet ledd skal ikke være til hinder for spredning av informasjon utelukkende beregnet på helsepersonell.
 
 5\. På utsalgssteder skal det ikke reklameres for næringsmidler til spesielle medisinske formål som er utviklet for å oppfylle spedbarns ernæringsmessige behov, og det skal ikke foregå utdeling av prøver eller noen annen form for salgsfremmende tiltak direkte overfor forbrukeren på detaljistnivå, som f.eks. spesialutstillinger, rabattkuponger, premier eller salgskampanjer, tapsgivende tilbud og lokketilbud.
 
@@ -1275,7 +1403,39 @@ Innhold av vitaminer og mineraler i andre næringsmidler til spesielle medisinsk
 ### VEDLEGG IV
 BETEGNELSE NEVNT I ARTIKKEL 4
 
-Næringsmidler til spesielle medisinske formål skal henholdsvis ha følgende betegnelser:på bulgarsk: «Xрани за cпeциални мeдицинcки цeли»,på spansk: «Alimento para usos médicos especiales»,på tsjekkisk: «Potravina pro zvláštní lékařské účely»,på dansk: «Fødevare til særlige medicinske formål»,på tysk: «Lebensmittel für besondere medizinische Zwecke (bilanzierte Diät)»,på estisk: «Meditsiinilisel näidustusel kasutamiseks ettenähtud toit»,på gresk: «Tρóφιμα για ειδικoύς ιατρικoύς σκoπoύς»,på engelsk: «Food for special medical purposes»,på fransk: «Denrée alimentaire destinée à des fins médicales spéciales»,på kroatisk: «Hrana za posebne medicinske potrebe»,på italiensk: «Alimento a fini medici speciali»,på latvisk: «Ípašiem medicīniskiem nolūkiem paredzēta pārtika»,på litauisk: «Specialios medicininės paskirties maisto produktai»,på ungarsk: «Speciális gyógyászati célra szánt élelmiszer»,på maltesisk: «Ikel għal skopijiet mediċi speċjali»,på nederlandsk: «Voeding voor medisch gebruik»,på polsk: «Żywność specjalnego przeznaczenia medycznego»,på portugisisk: «Alimento para fins medicinais específicos»,på rumensk: «Alimente destinate unor scopuri medicale speciale»,på slovakisk: «Potraviny na osobitné lekárske účely»,på slovensk: «Živila za posebne zdravstvene namene»,på finsk: «Erityisiin lääkinnällisiin tarkoituksiin tarkoitettu elintarvike (kliininen ravintovalmiste)»,på svensk: «Livsmedel för speciella medicinska ändamål».► **EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77a**på islandsk: «Matvæli til nota í sérstökum læknisfræðilegum tilgangi»på norsk: «Næringsmiddel til spesielle medisinske formål»► **EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77a**
+Næringsmidler til spesielle medisinske formål skal henholdsvis ha følgende betegnelser:
+
+- på bulgarsk: «Xрани за cпeциални мeдицинcки цeли»,
+- på spansk: «Alimento para usos médicos especiales»,
+- på tsjekkisk: «Potravina pro zvláštní lékařské účely»,
+- på dansk: «Fødevare til særlige medicinske formål»,
+- på tysk: «Lebensmittel für besondere medizinische Zwecke (bilanzierte Diät)»,
+- på estisk: «Meditsiinilisel näidustusel kasutamiseks ettenähtud toit»,
+- på gresk: «Tρóφιμα για ειδικoύς ιατρικoύς σκoπoύς»,
+- på engelsk: «Food for special medical purposes»,
+- på fransk: «Denrée alimentaire destinée à des fins médicales spéciales»,
+- på kroatisk: «Hrana za posebne medicinske potrebe»,
+- på italiensk: «Alimento a fini medici speciali»,
+- på latvisk: «Ípašiem medicīniskiem nolūkiem paredzēta pārtika»,
+- på litauisk: «Specialios medicininės paskirties maisto produktai»,
+- på ungarsk: «Speciális gyógyászati célra szánt élelmiszer»,
+- på maltesisk: «Ikel għal skopijiet mediċi speċjali»,
+- på nederlandsk: «Voeding voor medisch gebruik»,
+- på polsk: «Żywność specjalnego przeznaczenia medycznego»,
+- på portugisisk: «Alimento para fins medicinais específicos»,
+- på rumensk: «Alimente destinate unor scopuri medicale speciale»,
+- på slovakisk: «Potraviny na osobitné lekárske účely»,
+- på slovensk: «Živila za posebne zdravstvene namene»,
+- på finsk: «Erityisiin lääkinnällisiin tarkoituksiin tarkoitettu elintarvike (kliininen ravintovalmiste)»,
+- på svensk: «Livsmedel för speciella medicinska ändamål».
+
+► **EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77a**
+
+på islandsk: «Matvæli til nota í sérstökum læknisfræðilegum tilgangi»
+
+på norsk: «Næringsmiddel til spesielle medisinske formål»
+
+► **EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77a**
 
 ### Forordning (EU) 2016/127
 
@@ -1305,7 +1465,34 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) av 12. juni 2013 om næringsmidler til spedbarn og småbarn, næringsmidler til spesielle medisinske formål og totale kosterstatninger for vektkontroll og om oppheving av rådsdirektiv [92/52/EØF](eu/31992l0052), kommisjonsdirektiv [96/8/EF](eu/31996l0008), [1999/21/EF](eu/31999l0021*), [2006/125/EF](eu/32006l0125) og [2006/141/EF](eu/32006l0141), europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039) og kommisjonsforordning [(EF) nr. 41/2009](eu/32009r0041) og (EF) [nr. 953/2009](eu/32009r0953),1 særlig artikkel 11 nr. 1, og
 
-ut fra følgende betraktninger:I kommisjonsdirektiv [2006/141/EF](eu/32006l0141)2 er det fastsatt harmoniserte regler for morsmelkerstatninger og tilskuddsblandinger innenfor rammen av europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039).3Direktiv [2009/39/EF](eu/32009l0039) og [2006/141/EF](eu/32006l0141) oppheves ved forordning [(EU) nr. 609/2013](eu/32013r0609). Nevnte forordning fastsetter alminnelige sammensetnings- og informasjonskrav til forskjellige typer næringsmidler, herunder morsmelkerstatninger og tilskuddsblandinger. Kommisjonen skal vedta bestemte sammensetnings- og informasjonskrav til morsmelkerstatninger og tilskuddsblandinger, samtidig som det tas hensyn til bestemmelsene i direktiv [2006/141/EF](eu/32006l0141).Morsmelkerstatning er det eneste bearbeidede næringsmiddelet som helt og holdent dekker spedbarnets ernæringsbehov i de første levemånedene før det begynner å få egnet tilleggskost. For å beskytte spedbarns helse må det påses at morsmelkerstatninger er det eneste produktet som markedsføres som egnet for slik bruk i denne perioden.Morsmelkerstatningenes og tilskuddsblandingenes grunnleggende sammensetning må oppfylle de ernæringsmessige behovene hos friske spedbarn, i henhold til allment godtatte vitenskapelige data.Morsmelkerstatninger og tilskuddsblandinger er avanserte produkter som er spesielt sammensatt for en sårbar forbrukergruppe. For å sikre at slike produkter er sikre og egnede, bør det fastsettes detaljerte krav til sammensetningen av morsmelkerstatninger og tilskuddsblandinger, herunder krav til innholdet av energi, makronæringsstoffer og mikronæringsstoffer. Disse kravene bør være basert på de siste vitenskapelige rådene som Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «Myndigheten») har gitt i sin uttalelse om morsmelkerstatningenes og tilskuddsblandingenes grunnleggende sammensetning.4For å sikre nyskaping og produktutvikling bør det være mulig å på frivillig grunnlag legge til ingredienser i morsmelkerstatninger og tilskuddsblandinger som ikke omfattes av spesifikke krav i denne forordning. Alle ingredienser som brukes ved produksjon av morsmelkerstatninger og tilskuddsblandinger, bør være egnede for spedbarn, og deres egnethet bør om nødvendig være dokumentert i relevante undersøkelser. Det er ansvaret til driftsansvarlige for næringsmiddelforetak å dokumentere slik egnethet, og vedkommende nasjonale myndigheter skal i hvert enkelt tilfelle vurdere om dette stemmer. Veiledning om utforming og gjennomføring av hensiktsmessige undersøkelser er offentliggjort av vitenskapelige ekspertgrupper som Vitenskapskomiteen for næringsmidler, Storbritannias Committee on the Medical Aspects of Food and Nutrition Policy og European Society for Paediatric Gastroenterology, Hepatology and Nutrition. Det bør tas hensyn til slike veiledninger ved produksjon av morsmelkerstatninger og tilskuddsblandinger.I henhold til forordning [(EU) nr. 609/2013](eu/32013r0609) skal Kommisjonen vedta bestemmelser om begrensning av eller forbud mot bruk av pesticider og om rester av pesticider i morsmelkerstatninger og tilskuddsblandinger, samtidig som det tas hensyn til bestemmelsene som er fastsatt i vedleggene til direktiv [2006/141/EF](eu/32006l0141). Det er tidkrevende å vedta bestemmelser som er i samsvar med gjeldende vitenskapelig kunnskap, ettersom Myndigheten må foreta en omfattende vurdering av en rekke aspekter, herunder om de toksikologiske referanseverdiene er hensiktsmessige for spedbarn og småbarn. Ettersom denne delegerte forordning i henhold til forordning [(EU) nr. 609/2013](eu/32013r0609) skal vedtas innen 20. juli 2015, bør relevante gjeldende krav i direktiv [2006/141/EF](eu/32006l0141) overføres på dette stadiet. Det er imidlertid hensiktsmessig å bruke terminologien i europaparlaments- og rådsforordning [(EF) nr. 1107/2009](eu/32009r1107).5Ved direktiv [2006/141/EF](eu/32006l0141) er det på grunnlag av to uttalelser fra Vitenskapskomiteen for næringsmidler (SCF) av 19. september 19976 og 4. juni 19987 fastsatt særlige krav til bruk av pesticider i produkter beregnet på produksjon av morsmelkerstatninger og tilskuddsblandinger og om rester av pesticider i slike næringsmidler.I henhold til føre-var-prinsippet er det fastsatt en svært lav grenseverdi for rester på 0,01 mg/kg for alle pesticider. I tillegg er det fastsett strengere begrensninger for et lite antall pesticider eller metabolitter av pesticider der selv en grenseverdi for rester på 0,01 mg/kg i de verst tenkelige tilfeller kan føre til en eksponering som overskrider akseptabelt daglig inntak (ADI) for spedbarn og småbarn.Et forbud mot bruk av visse pesticider vil ikke nødvendigvis sikre at morsmelkerstatninger og tilskuddsblandinger er fri for disse pesticidene, ettersom noen pesticider er persistente i miljøet og næringsmidler kan inneholde rester av dem. Disse pesticidene anses derfor for ikke å ha blitt brukt dersom restene ligger under et visst nivå.Morsmelkerstatninger og tilskuddsblandinger må overholde europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*).8 Av hensyn til de særlige egenskapene hos morsmelkerstatninger og tilskuddsblandinger og for å fremme og verne amming bør tillegg til og unntak fra disse alminnelige reglene fastsettes ved denne forordning.Med tanke på morsmelkerstatningers og tilskuddsblandingers spesielle rolle i spedbarns kosthold er det viktig å sikre at produkter som eksporteres til tredjestater, omfatter næringsmiddelopplysninger på et språk som lett kan forstås av foreldre og omsorgspersoner, dersom importstaten ikke har fastsatt eller inngått avtale om særlige relevante bestemmelser.Ettersom morsmelkerstatninger og tilskuddsblandinger spiller forskjellige roller i spedbarns kosthold, bør det fastsettes bestemmelser med krav om at det tydelig kan skilles mellom dem, slik at det ikke er noen fare for forveksling.Næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger er avgjørende for å sikre riktig bruk, både for foreldre og omsorgspersoner og for helsepersonell som anbefaler bruk av dem. Av den grunn, og for å gi mer informasjon, bør næringsdeklarasjonen omfatte flere opplysninger enn dem som kreves ved forordning [(EU) nr. 1169/2011](eu/32011r1169*). I tillegg bør unntaket fastsatt i nr. 18 i vedlegg V til forordning [(EU) nr. 1169/2011](eu/32011r1169*) ikke få anvendelse, og næringsdeklarasjonen bør være obligatorisk for alle morsmelkerstatninger og tilskuddsblandinger uavhengig av pakningens eller beholderens størrelse.Artikkel 30 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) inneholder en begrenset liste over næringsstoffer som kan angis på frivillig grunnlag i næringsdeklarasjonen for næringsmidler. Nevnte artikkel omfatter ikke alle stoffer som kan tilsettes i morsmelkerstatninger og tilskuddsblandinger. For å sikre juridisk klarhet bør det fastsettes uttrykkelig at næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger kan omfatte slike stoffer. I tillegg kan mer detaljert informasjon om produktets innhold av proteiner, karbohydrater og fett i visse tilfeller gi foreldre, omsorgspersoner og helsepersonell ytterligere nyttig informasjon. Driftsansvarlige for næringsmiddelforetak bør derfor kunne gi slik informasjon på frivillig grunnlag.For å gjøre det lettere å sammenligne produkter bør næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger uttrykkes per 100 ml bruksklart produkt etter tilberedning i samsvar med produsentens anvisninger.Morsmelkerstatning er et næringsmiddel som er beregnet på ernæring av spedbarn i løpet av deres første levemåneder, og som i seg selv dekker spedbarnets ernæringsbehov før det begynner å få egnet tilleggskost. Angivelse av informasjon om energiinnholdet og mengden av næringsstoffer i morsmelkerstatninger som en prosentdel av referanseverdiene for daglig inntak vil kunne villede forbrukerne og bør derfor ikke være tillatt. Tilskuddsblanding er derimot et næringsmiddel som er beregnet å inntas av spedbarn når det begynner å få egnet tilleggskost, og som utgjør den vesentligste flytende del av det etter hvert mer varierte kostholdet til denne aldersgruppen. Av den grunn, og for å gjøre det mulig å sammenligne med andre næringsmidler som kan inngå i kostholdet til spedbarn, bør det være tillatt å angi informasjon om næringsinnhold for tilskuddsblandinger som en prosentdel av referanseverdiene for daglig inntak. Ettersom friske spedbarn har andre ernæringsbehov enn voksne, vil bruk av referanseverdier for daglig inntak som er fastsatt for den voksne befolkningen i forordning [(EU) nr. 1169/2011](eu/32011r1169*), kunne villede forbrukerne og bør derfor ikke være tillatt. For tilskuddsblandinger bør det bare være tillatt å angi informasjon om næringsinnhold som en prosentdel av bestemte referanseinntak som er passende for aldersgruppen.Ernærings- og helsepåstander er markedsføringsverktøy som brukes på frivillig grunnlag av driftsansvarlige for næringsmiddelforetak i kommersiell kommunikasjon, i samsvar med reglene i europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*).9 Med tanke på morsmelkerstatningers spesielle rolle i spedbarns kosthold bør bruk av ernærings- og helsepåstander ikke være tillatt for morsmelkerstatninger.Informasjon om forekomsten eller fraværet av laktose i morsmelkerstatninger og tilskuddsblandinger kan være nyttig for foreldre og omsorgspersoner. Det er derfor hensiktsmessig å fastsette regler om slik informasjon, som kan revideres på bakgrunn av den framtidige utviklingen på markedet.Obligatorisk tilsetting av dokosaheksaensyre (DHA) i morsmelkerstatninger og tilskuddsblandinger er et nytt krav som innføres ved denne forordning i samsvar med Myndighetens anbefaling i sin uttalelse om den grunnleggende sammensetningen av morsmelkerstatninger og tilskuddsblandinger. Ettersom tilsetting av DHA ble tillatt på frivillig grunnlag i henhold til direktiv [2006/141/EF](eu/32006l0141) og foreldre og omsorgspersoner er kjent med ernæringspåstanden om forekomst av DHA i morsmelkerstatninger som ble tillatt i henhold til nevnte direktiv, bør driftsansvarlige for næringsmiddelforetak i en begrenset periode og for å unngå forvirring fortsatt ha tillatelse til å vise til forekomst av DHA i morsmelkerstatninger ved hjelp av en angivelse fastsatt ved denne forordning. Det er imidlertid viktig at angivelsen gir forbrukerne fullstendig informasjon om at forekomst av DHA er obligatorisk for alle morsmelkerstatningsprodukter på markedet.Bruk av proteinhydrolysater som en proteinkilde i morsmelkerstatninger og tilskuddsblandinger har vært tillatt i henhold til direktiv [2006/141/EF i](eu/32006l0141) mange år, og bruken av proteinhydrolysater ved produksjon av disse produktene er utbredt i markedet. Dette skyldes særlig muligheten som nevnte direktiv gir til å på visse vilkår fastsatt i direktivet bruke en helsepåstand om at morsmelkerstatninger som er produsert på grunnlag av proteinhydrolysater, bidrar til å redusere faren for å utvikle allergi mot melkeproteiner. I sin uttalelse om den grunnleggende sammensetningen av morsmelkerstatninger og tilskuddsblandinger påpekte myndigheten at sikkerheten og egnetheten skal fastsettes gjennom en klinisk vurdering for hvert produkt som inneholder proteinhydrolysater, og at det hittil bare har vært ett produkt som inneholder delvis hydrolysert myseprotein som har fått en positiv vurdering. Myndigheten bemerket også at kliniske undersøkelser er nødvendige for å påvise om og i hvilket omfang et bestemt produkt reduserer faren for å utvikle kortsiktige og langsiktige kliniske symptomer på allergi hos spedbarn som er i risikogruppen, og som ikke ammes. På grunnlag av Myndighetens uttalelse bør morsmelkerstatninger og tilskuddsblandinger produsert på grunnlag av proteinhydrolysater kunne bringes i omsetning bare dersom produktets sammensetning oppfyller kravene i denne forordning. Disse kravene kan ajourføres for å gjøre det mulig å bringe i omsetning et produkt produsert på grunnlag av proteinhydrolysater med en annen sammensetning enn den som allerede har fått en positiv vurdering, etter at Myndigheten i hvert enkelt tilfelle har foretatt en vurdering av produktets sikkerhet og egnethet. Etter Myndighetens vurdering vil det i tillegg, på grunnlag av undersøkelser og dersom det dokumenteres at et bestemt produkt produsert på grunnlag av proteinhydrolysater reduserer faren for å utvikle allergi mot melkeproteiner, bli tatt stilling til hvordan foreldre og omsorgspersoner skal bli tilstrekkelige informert om denne egenskapen ved produktet.I henhold til forordning [(EU) nr. 609/2013](eu/32013r0609) skal merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger være slik at amming ikke motvirkes. Det er vitenskapelig enighet om at morsmelk er det beste næringsmiddelet for friske spedbarn, og Unionen og dens medlemsstater er fast bestemt på å fremme amming. I Rådets konklusjoner om kosthold og fysisk aktivitet10 ble medlemsstatene oppfordret til å fremme og støtte tilstrekkelig amming og ble det uttrykt tilfredshet med medlemsstatenes avtale om en EU-handlingsplan for 2014–2020 om overvekt hos barn, som omfatter en rekke tiltak for å øke omfanget av amming i Unionen. I EU-handlingsplanen anerkjennes i denne sammenheng den fortsatte viktigheten av Verdens helseorganisasjons (WHO) internasjonale regelverk om markedsføring av morsmelkerstatninger, som direktiv [2006/141/EF](eu/32006l0141) bygger på. WHO-regelverket, som ble vedtatt på Verdens helseorganisasjons 34. generalforsamling, har som mål å bidra til en sikker og tilstrekkelig ernæringskilde for spedbarn ved å verne og fremme amming, og ved å sikre riktig bruk av morsmelkerstatninger. Det omfatter en rekke prinsipper knyttet til blant annet markedsføring, opplysningsvirksomhet og helsemyndighetenes ansvar.For å beskytte spedbarns helse bør reglene fastsatt i denne forordning, særlig for merking, presentasjon, reklame og salgsfremmende tiltak og handelspraksis, fortsatt være i samsvar med prinsippene i og målsetningen for det internasjonale regelverket for markedsføring av morsmelkerstatninger, samtidig som det tas hensyn til de særlige rettslige og faktiske forholdene i Unionen. Særlig er det dokumentert at reklame rettet direkte til forbrukeren og andre markedsføringsmetoder påvirker foreldrenes og omsorgspersonenes valg av hvordan de mater sine spedbarn. Av denne grunn og samtidig som det tas hensyn til morsmelkerstatningens spesielle rolle i kostholdet til spedbarn, bør det fastsettes spesifikke begrensninger i denne forordning for reklame for og annen markedsføring av denne typen produkt. Denne forordning bør imidlertid ikke berøre vilkår for salg av spesialpublikasjoner om barnepleie og vitenskapelige publikasjoner.Informasjon om spedbarns- og småbarnsernæring påvirker dessuten gravide kvinner, foreldre og omsorgspersoner når de velger hvilken type næring barn skal ha. Det er derfor nødvendig å fastsette krav slik at denne informasjonen sikrer riktig bruk av de berørte produktene og ikke motarbeider arbeidet med å fremme amming i tråd med prinsippene i WHOs regelverk.I henhold til artikkel 17 nr. 2 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)11 skal medlemsstatene håndheve næringsmiddelregelverket og overvåke og kontrollere at de relevante kravene i næringsmiddelregelverket overholdes av driftsansvarlige for næringsmiddel- og fôrforetak i alle ledd av produksjon, bearbeiding og distribusjon. For å gjøre det lettere å føre effektiv offentlig kontroll med morsmelkerstatninger og tilskuddsblandinger bør driftsansvarlige for næringsmiddelforetak som bringer morsmelkerstatning i omsetning, framlegge for vedkommende nasjonale myndigheter en modell av etiketten som brukes og all relevant informasjon som er nødvendig for å dokumentere at bestemmelsene i denne forordning overholdes. En lignende forpliktelse bør gjelde for visse typer tilskuddsblandinger med mindre medlemsstatene har et annet effektivt kontrollsystem.For å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse seg de nye kravene bør denne forordning få anvendelse fire år etter ikrafttredelsen. Med tanke på antallet og betydningen av de nye kravene til morsmelkerstatninger og tilskuddsblandinger produsert på grunnlag av proteinhydrolysater bør denne forordning få anvendelse på slike produkter fem år etter ikrafttredelsen –
+ut fra følgende betraktninger:
+
+1. I kommisjonsdirektiv [2006/141/EF](eu/32006l0141)2 er det fastsatt harmoniserte regler for morsmelkerstatninger og tilskuddsblandinger innenfor rammen av europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039).3
+2. Direktiv [2009/39/EF](eu/32009l0039) og [2006/141/EF](eu/32006l0141) oppheves ved forordning [(EU) nr. 609/2013](eu/32013r0609). Nevnte forordning fastsetter alminnelige sammensetnings- og informasjonskrav til forskjellige typer næringsmidler, herunder morsmelkerstatninger og tilskuddsblandinger. Kommisjonen skal vedta bestemte sammensetnings- og informasjonskrav til morsmelkerstatninger og tilskuddsblandinger, samtidig som det tas hensyn til bestemmelsene i direktiv [2006/141/EF](eu/32006l0141).
+3. Morsmelkerstatning er det eneste bearbeidede næringsmiddelet som helt og holdent dekker spedbarnets ernæringsbehov i de første levemånedene før det begynner å få egnet tilleggskost. For å beskytte spedbarns helse må det påses at morsmelkerstatninger er det eneste produktet som markedsføres som egnet for slik bruk i denne perioden.
+4. Morsmelkerstatningenes og tilskuddsblandingenes grunnleggende sammensetning må oppfylle de ernæringsmessige behovene hos friske spedbarn, i henhold til allment godtatte vitenskapelige data.
+5. Morsmelkerstatninger og tilskuddsblandinger er avanserte produkter som er spesielt sammensatt for en sårbar forbrukergruppe. For å sikre at slike produkter er sikre og egnede, bør det fastsettes detaljerte krav til sammensetningen av morsmelkerstatninger og tilskuddsblandinger, herunder krav til innholdet av energi, makronæringsstoffer og mikronæringsstoffer. Disse kravene bør være basert på de siste vitenskapelige rådene som Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «Myndigheten») har gitt i sin uttalelse om morsmelkerstatningenes og tilskuddsblandingenes grunnleggende sammensetning.4
+6. For å sikre nyskaping og produktutvikling bør det være mulig å på frivillig grunnlag legge til ingredienser i morsmelkerstatninger og tilskuddsblandinger som ikke omfattes av spesifikke krav i denne forordning. Alle ingredienser som brukes ved produksjon av morsmelkerstatninger og tilskuddsblandinger, bør være egnede for spedbarn, og deres egnethet bør om nødvendig være dokumentert i relevante undersøkelser. Det er ansvaret til driftsansvarlige for næringsmiddelforetak å dokumentere slik egnethet, og vedkommende nasjonale myndigheter skal i hvert enkelt tilfelle vurdere om dette stemmer. Veiledning om utforming og gjennomføring av hensiktsmessige undersøkelser er offentliggjort av vitenskapelige ekspertgrupper som Vitenskapskomiteen for næringsmidler, Storbritannias Committee on the Medical Aspects of Food and Nutrition Policy og European Society for Paediatric Gastroenterology, Hepatology and Nutrition. Det bør tas hensyn til slike veiledninger ved produksjon av morsmelkerstatninger og tilskuddsblandinger.
+7. I henhold til forordning [(EU) nr. 609/2013](eu/32013r0609) skal Kommisjonen vedta bestemmelser om begrensning av eller forbud mot bruk av pesticider og om rester av pesticider i morsmelkerstatninger og tilskuddsblandinger, samtidig som det tas hensyn til bestemmelsene som er fastsatt i vedleggene til direktiv [2006/141/EF](eu/32006l0141). Det er tidkrevende å vedta bestemmelser som er i samsvar med gjeldende vitenskapelig kunnskap, ettersom Myndigheten må foreta en omfattende vurdering av en rekke aspekter, herunder om de toksikologiske referanseverdiene er hensiktsmessige for spedbarn og småbarn. Ettersom denne delegerte forordning i henhold til forordning [(EU) nr. 609/2013](eu/32013r0609) skal vedtas innen 20. juli 2015, bør relevante gjeldende krav i direktiv [2006/141/EF](eu/32006l0141) overføres på dette stadiet. Det er imidlertid hensiktsmessig å bruke terminologien i europaparlaments- og rådsforordning [(EF) nr. 1107/2009](eu/32009r1107).5
+8. Ved direktiv [2006/141/EF](eu/32006l0141) er det på grunnlag av to uttalelser fra Vitenskapskomiteen for næringsmidler (SCF) av 19. september 19976 og 4. juni 19987 fastsatt særlige krav til bruk av pesticider i produkter beregnet på produksjon av morsmelkerstatninger og tilskuddsblandinger og om rester av pesticider i slike næringsmidler.
+9. I henhold til føre-var-prinsippet er det fastsatt en svært lav grenseverdi for rester på 0,01 mg/kg for alle pesticider. I tillegg er det fastsett strengere begrensninger for et lite antall pesticider eller metabolitter av pesticider der selv en grenseverdi for rester på 0,01 mg/kg i de verst tenkelige tilfeller kan føre til en eksponering som overskrider akseptabelt daglig inntak (ADI) for spedbarn og småbarn.
+10. Et forbud mot bruk av visse pesticider vil ikke nødvendigvis sikre at morsmelkerstatninger og tilskuddsblandinger er fri for disse pesticidene, ettersom noen pesticider er persistente i miljøet og næringsmidler kan inneholde rester av dem. Disse pesticidene anses derfor for ikke å ha blitt brukt dersom restene ligger under et visst nivå.
+11. Morsmelkerstatninger og tilskuddsblandinger må overholde europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*).8 Av hensyn til de særlige egenskapene hos morsmelkerstatninger og tilskuddsblandinger og for å fremme og verne amming bør tillegg til og unntak fra disse alminnelige reglene fastsettes ved denne forordning.
+12. Med tanke på morsmelkerstatningers og tilskuddsblandingers spesielle rolle i spedbarns kosthold er det viktig å sikre at produkter som eksporteres til tredjestater, omfatter næringsmiddelopplysninger på et språk som lett kan forstås av foreldre og omsorgspersoner, dersom importstaten ikke har fastsatt eller inngått avtale om særlige relevante bestemmelser.
+13. Ettersom morsmelkerstatninger og tilskuddsblandinger spiller forskjellige roller i spedbarns kosthold, bør det fastsettes bestemmelser med krav om at det tydelig kan skilles mellom dem, slik at det ikke er noen fare for forveksling.
+14. Næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger er avgjørende for å sikre riktig bruk, både for foreldre og omsorgspersoner og for helsepersonell som anbefaler bruk av dem. Av den grunn, og for å gi mer informasjon, bør næringsdeklarasjonen omfatte flere opplysninger enn dem som kreves ved forordning [(EU) nr. 1169/2011](eu/32011r1169*). I tillegg bør unntaket fastsatt i nr. 18 i vedlegg V til forordning [(EU) nr. 1169/2011](eu/32011r1169*) ikke få anvendelse, og næringsdeklarasjonen bør være obligatorisk for alle morsmelkerstatninger og tilskuddsblandinger uavhengig av pakningens eller beholderens størrelse.
+15. Artikkel 30 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) inneholder en begrenset liste over næringsstoffer som kan angis på frivillig grunnlag i næringsdeklarasjonen for næringsmidler. Nevnte artikkel omfatter ikke alle stoffer som kan tilsettes i morsmelkerstatninger og tilskuddsblandinger. For å sikre juridisk klarhet bør det fastsettes uttrykkelig at næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger kan omfatte slike stoffer. I tillegg kan mer detaljert informasjon om produktets innhold av proteiner, karbohydrater og fett i visse tilfeller gi foreldre, omsorgspersoner og helsepersonell ytterligere nyttig informasjon. Driftsansvarlige for næringsmiddelforetak bør derfor kunne gi slik informasjon på frivillig grunnlag.
+16. For å gjøre det lettere å sammenligne produkter bør næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger uttrykkes per 100 ml bruksklart produkt etter tilberedning i samsvar med produsentens anvisninger.
+17. Morsmelkerstatning er et næringsmiddel som er beregnet på ernæring av spedbarn i løpet av deres første levemåneder, og som i seg selv dekker spedbarnets ernæringsbehov før det begynner å få egnet tilleggskost. Angivelse av informasjon om energiinnholdet og mengden av næringsstoffer i morsmelkerstatninger som en prosentdel av referanseverdiene for daglig inntak vil kunne villede forbrukerne og bør derfor ikke være tillatt. Tilskuddsblanding er derimot et næringsmiddel som er beregnet å inntas av spedbarn når det begynner å få egnet tilleggskost, og som utgjør den vesentligste flytende del av det etter hvert mer varierte kostholdet til denne aldersgruppen. Av den grunn, og for å gjøre det mulig å sammenligne med andre næringsmidler som kan inngå i kostholdet til spedbarn, bør det være tillatt å angi informasjon om næringsinnhold for tilskuddsblandinger som en prosentdel av referanseverdiene for daglig inntak. Ettersom friske spedbarn har andre ernæringsbehov enn voksne, vil bruk av referanseverdier for daglig inntak som er fastsatt for den voksne befolkningen i forordning [(EU) nr. 1169/2011](eu/32011r1169*), kunne villede forbrukerne og bør derfor ikke være tillatt. For tilskuddsblandinger bør det bare være tillatt å angi informasjon om næringsinnhold som en prosentdel av bestemte referanseinntak som er passende for aldersgruppen.
+18. Ernærings- og helsepåstander er markedsføringsverktøy som brukes på frivillig grunnlag av driftsansvarlige for næringsmiddelforetak i kommersiell kommunikasjon, i samsvar med reglene i europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*).9 Med tanke på morsmelkerstatningers spesielle rolle i spedbarns kosthold bør bruk av ernærings- og helsepåstander ikke være tillatt for morsmelkerstatninger.
+19. Informasjon om forekomsten eller fraværet av laktose i morsmelkerstatninger og tilskuddsblandinger kan være nyttig for foreldre og omsorgspersoner. Det er derfor hensiktsmessig å fastsette regler om slik informasjon, som kan revideres på bakgrunn av den framtidige utviklingen på markedet.
+20. Obligatorisk tilsetting av dokosaheksaensyre (DHA) i morsmelkerstatninger og tilskuddsblandinger er et nytt krav som innføres ved denne forordning i samsvar med Myndighetens anbefaling i sin uttalelse om den grunnleggende sammensetningen av morsmelkerstatninger og tilskuddsblandinger. Ettersom tilsetting av DHA ble tillatt på frivillig grunnlag i henhold til direktiv [2006/141/EF](eu/32006l0141) og foreldre og omsorgspersoner er kjent med ernæringspåstanden om forekomst av DHA i morsmelkerstatninger som ble tillatt i henhold til nevnte direktiv, bør driftsansvarlige for næringsmiddelforetak i en begrenset periode og for å unngå forvirring fortsatt ha tillatelse til å vise til forekomst av DHA i morsmelkerstatninger ved hjelp av en angivelse fastsatt ved denne forordning. Det er imidlertid viktig at angivelsen gir forbrukerne fullstendig informasjon om at forekomst av DHA er obligatorisk for alle morsmelkerstatningsprodukter på markedet.
+21. Bruk av proteinhydrolysater som en proteinkilde i morsmelkerstatninger og tilskuddsblandinger har vært tillatt i henhold til direktiv [2006/141/EF i](eu/32006l0141) mange år, og bruken av proteinhydrolysater ved produksjon av disse produktene er utbredt i markedet. Dette skyldes særlig muligheten som nevnte direktiv gir til å på visse vilkår fastsatt i direktivet bruke en helsepåstand om at morsmelkerstatninger som er produsert på grunnlag av proteinhydrolysater, bidrar til å redusere faren for å utvikle allergi mot melkeproteiner. I sin uttalelse om den grunnleggende sammensetningen av morsmelkerstatninger og tilskuddsblandinger påpekte myndigheten at sikkerheten og egnetheten skal fastsettes gjennom en klinisk vurdering for hvert produkt som inneholder proteinhydrolysater, og at det hittil bare har vært ett produkt som inneholder delvis hydrolysert myseprotein som har fått en positiv vurdering. Myndigheten bemerket også at kliniske undersøkelser er nødvendige for å påvise om og i hvilket omfang et bestemt produkt reduserer faren for å utvikle kortsiktige og langsiktige kliniske symptomer på allergi hos spedbarn som er i risikogruppen, og som ikke ammes. På grunnlag av Myndighetens uttalelse bør morsmelkerstatninger og tilskuddsblandinger produsert på grunnlag av proteinhydrolysater kunne bringes i omsetning bare dersom produktets sammensetning oppfyller kravene i denne forordning. Disse kravene kan ajourføres for å gjøre det mulig å bringe i omsetning et produkt produsert på grunnlag av proteinhydrolysater med en annen sammensetning enn den som allerede har fått en positiv vurdering, etter at Myndigheten i hvert enkelt tilfelle har foretatt en vurdering av produktets sikkerhet og egnethet. Etter Myndighetens vurdering vil det i tillegg, på grunnlag av undersøkelser og dersom det dokumenteres at et bestemt produkt produsert på grunnlag av proteinhydrolysater reduserer faren for å utvikle allergi mot melkeproteiner, bli tatt stilling til hvordan foreldre og omsorgspersoner skal bli tilstrekkelige informert om denne egenskapen ved produktet.
+22. I henhold til forordning [(EU) nr. 609/2013](eu/32013r0609) skal merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger være slik at amming ikke motvirkes. Det er vitenskapelig enighet om at morsmelk er det beste næringsmiddelet for friske spedbarn, og Unionen og dens medlemsstater er fast bestemt på å fremme amming. I Rådets konklusjoner om kosthold og fysisk aktivitet10 ble medlemsstatene oppfordret til å fremme og støtte tilstrekkelig amming og ble det uttrykt tilfredshet med medlemsstatenes avtale om en EU-handlingsplan for 2014–2020 om overvekt hos barn, som omfatter en rekke tiltak for å øke omfanget av amming i Unionen. I EU-handlingsplanen anerkjennes i denne sammenheng den fortsatte viktigheten av Verdens helseorganisasjons (WHO) internasjonale regelverk om markedsføring av morsmelkerstatninger, som direktiv [2006/141/EF](eu/32006l0141) bygger på. WHO-regelverket, som ble vedtatt på Verdens helseorganisasjons 34. generalforsamling, har som mål å bidra til en sikker og tilstrekkelig ernæringskilde for spedbarn ved å verne og fremme amming, og ved å sikre riktig bruk av morsmelkerstatninger. Det omfatter en rekke prinsipper knyttet til blant annet markedsføring, opplysningsvirksomhet og helsemyndighetenes ansvar.
+23. For å beskytte spedbarns helse bør reglene fastsatt i denne forordning, særlig for merking, presentasjon, reklame og salgsfremmende tiltak og handelspraksis, fortsatt være i samsvar med prinsippene i og målsetningen for det internasjonale regelverket for markedsføring av morsmelkerstatninger, samtidig som det tas hensyn til de særlige rettslige og faktiske forholdene i Unionen. Særlig er det dokumentert at reklame rettet direkte til forbrukeren og andre markedsføringsmetoder påvirker foreldrenes og omsorgspersonenes valg av hvordan de mater sine spedbarn. Av denne grunn og samtidig som det tas hensyn til morsmelkerstatningens spesielle rolle i kostholdet til spedbarn, bør det fastsettes spesifikke begrensninger i denne forordning for reklame for og annen markedsføring av denne typen produkt. Denne forordning bør imidlertid ikke berøre vilkår for salg av spesialpublikasjoner om barnepleie og vitenskapelige publikasjoner.
+24. Informasjon om spedbarns- og småbarnsernæring påvirker dessuten gravide kvinner, foreldre og omsorgspersoner når de velger hvilken type næring barn skal ha. Det er derfor nødvendig å fastsette krav slik at denne informasjonen sikrer riktig bruk av de berørte produktene og ikke motarbeider arbeidet med å fremme amming i tråd med prinsippene i WHOs regelverk.
+25. I henhold til artikkel 17 nr. 2 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)11 skal medlemsstatene håndheve næringsmiddelregelverket og overvåke og kontrollere at de relevante kravene i næringsmiddelregelverket overholdes av driftsansvarlige for næringsmiddel- og fôrforetak i alle ledd av produksjon, bearbeiding og distribusjon. For å gjøre det lettere å føre effektiv offentlig kontroll med morsmelkerstatninger og tilskuddsblandinger bør driftsansvarlige for næringsmiddelforetak som bringer morsmelkerstatning i omsetning, framlegge for vedkommende nasjonale myndigheter en modell av etiketten som brukes og all relevant informasjon som er nødvendig for å dokumentere at bestemmelsene i denne forordning overholdes. En lignende forpliktelse bør gjelde for visse typer tilskuddsblandinger med mindre medlemsstatene har et annet effektivt kontrollsystem.
+26. For å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse seg de nye kravene bør denne forordning få anvendelse fire år etter ikrafttredelsen. Med tanke på antallet og betydningen av de nye kravene til morsmelkerstatninger og tilskuddsblandinger produsert på grunnlag av proteinhydrolysater bør denne forordning få anvendelse på slike produkter fem år etter ikrafttredelsen –
 
 1 EUT L 181 av 29.6.2013, s. 35.
 
@@ -1357,13 +1544,19 @@ VEDTATT DENNE FORORDNING:
 
 ►**M4**
 
-1\. I denne artikkelen menes med «rester» rester av pesticider i henhold til artikkel 3 nr. 2 bokstav c) i forordning [(EF) nr. 396/2005](eu/32005r0396).◄**M4**
+1\. I denne artikkelen menes med «rester» rester av pesticider i henhold til artikkel 3 nr. 2 bokstav c) i forordning [(EF) nr. 396/2005](eu/32005r0396).
 
-2\. Morsmelkerstatninger og tilskuddsblandinger skal ikke inneholde rester i mengder som overstiger 0,01 mg/kg per aktivt stoff.Disse grenseverdiene skal bestemmes ved hjelp av allment anerkjente standardiserte analysemetoder.
+◄**M4**
+
+2\. Morsmelkerstatninger og tilskuddsblandinger skal ikke inneholde rester i mengder som overstiger 0,01 mg/kg per aktivt stoff.
+
+Disse grenseverdiene skal bestemmes ved hjelp av allment anerkjente standardiserte analysemetoder.
 
 3\. Som unntak fra nr. 2 får grenseverdiene for rester angitt i vedlegg IV anvendelse på de aktive stoffene som er oppført i nevnte vedlegg.
 
-4\. Morsmelkerstatninger og tilskuddsblandinger skal produseres bare på grunnlag av landbruksprodukter som er produsert uten bruk av plantevernmidler som inneholder aktive stoffer oppført i vedlegg V.Ved kontroll anses plantevernmidler som inneholder aktive stoffer oppført i vedlegg V, for ikke å ha blitt brukt dersom restene av dem ikke overskrider 0,003 mg/kg.
+4\. Morsmelkerstatninger og tilskuddsblandinger skal produseres bare på grunnlag av landbruksprodukter som er produsert uten bruk av plantevernmidler som inneholder aktive stoffer oppført i vedlegg V.
+
+Ved kontroll anses plantevernmidler som inneholder aktive stoffer oppført i vedlegg V, for ikke å ha blitt brukt dersom restene av dem ikke overskrider 0,003 mg/kg.
 
 5\. Verdiene nevnt i nr. 2, 3 og 4 får anvendelse på morsmelkerstatninger og tilskuddsblandinger som markedsføres som bruksklare eller bruksklare etter tilberedning i samsvar med produsentens anvisninger.
 
@@ -1377,21 +1570,41 @@ VEDTATT DENNE FORORDNING:
 
 1\. Med mindre annet er fastsatt i denne forordning, skal morsmelkerstatninger og tilskuddsblandinger oppfylle kravene i forordning [(EU) nr. 1169/2011](eu/32011r1169*).
 
-2\. I tillegg til de obligatoriske opplysningene nevnt i artikkel 9 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal følgende være supplerende obligatoriske opplysninger for morsmelkerstatninger:en merknad om at produktet er egnet for spedbarn fra fødselen av, dersom de ikke ammes,veiledning om riktig tilberedning, oppbevaring og sluttbehandling av produktet, med advarsel om helserisikoer ved uriktig tilberedning og oppbevaring,en merknad om at amming er det beste alternativet, og en anbefaling om å bruke produktet bare etter råd fra uavhengige personer med kompetanse innenfor medisin, ernæring eller farmasi, eller andre fagfolk med ansvar for barsel- og spedbarnspleie. Opplysningene nevnt i dette nummer skal innledes med ordet «Viktig» eller en tilsvarende formulering, og skal også angis i presentasjoner av og reklame for morsmelkerstatninger.
+2\. I tillegg til de obligatoriske opplysningene nevnt i artikkel 9 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal følgende være supplerende obligatoriske opplysninger for morsmelkerstatninger:
 
-3\. I tillegg til de obligatoriske opplysningene nevnt i artikkel 9 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal følgende være supplerende obligatoriske opplysninger for tilskuddsblandinger:en merknad om at produktet egner seg bare for spedbarn som er minst seks måneder gamle, at det bare må utgjøre en del av et variert kosthold, at det ikke skal erstatte morsmelk de første seks levemånedene, og at en beslutning om å begynne med tilleggskost, herunder før seks måneders alder, bør tas bare etter råd fra uavhengige personer med kompetanse innenfor medisin, ernæring eller farmasi, eller andre fagfolk med ansvar for barsel- og spedbarnspleie, med utgangspunkt i det enkelte spedbarns særlige vekst- og utviklingsbehov,veiledning om riktig tilberedning, oppbevaring og sluttbehandling av produktet, med advarsel om helserisikoer ved uriktig tilberedning og oppbevaring.
+1. en merknad om at produktet er egnet for spedbarn fra fødselen av, dersom de ikke ammes,
+2. veiledning om riktig tilberedning, oppbevaring og sluttbehandling av produktet, med advarsel om helserisikoer ved uriktig tilberedning og oppbevaring,
+3. en merknad om at amming er det beste alternativet, og en anbefaling om å bruke produktet bare etter råd fra uavhengige personer med kompetanse innenfor medisin, ernæring eller farmasi, eller andre fagfolk med ansvar for barsel- og spedbarnspleie. Opplysningene nevnt i dette nummer skal innledes med ordet «Viktig» eller en tilsvarende formulering, og skal også angis i presentasjoner av og reklame for morsmelkerstatninger.
+
+3\. I tillegg til de obligatoriske opplysningene nevnt i artikkel 9 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal følgende være supplerende obligatoriske opplysninger for tilskuddsblandinger:
+
+1. en merknad om at produktet egner seg bare for spedbarn som er minst seks måneder gamle, at det bare må utgjøre en del av et variert kosthold, at det ikke skal erstatte morsmelk de første seks levemånedene, og at en beslutning om å begynne med tilleggskost, herunder før seks måneders alder, bør tas bare etter råd fra uavhengige personer med kompetanse innenfor medisin, ernæring eller farmasi, eller andre fagfolk med ansvar for barsel- og spedbarnspleie, med utgangspunkt i det enkelte spedbarns særlige vekst- og utviklingsbehov,
+2. veiledning om riktig tilberedning, oppbevaring og sluttbehandling av produktet, med advarsel om helserisikoer ved uriktig tilberedning og oppbevaring.
 
 4\. Artikkel 13 nr. 2 og 3 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) får også anvendelse på de supplerende obligatoriske opplysningene nevnt i nr. 2 og 3 i denne artikkel.
 
 5\. Alle obligatoriske opplysninger om morsmelkerstatninger og tilskuddsblandinger skal gis på et språk som lett kan forstås av forbrukerne.
 
-6\. Merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger skal gi nødvendig informasjon om riktig bruk av produktene på en slik måte at amming ikke motvirkes.Merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger skal ikke bruke uttrykk som «humanisert», «moderliggjort», «tilpasset» eller lignende.Merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger skal særlig med hensyn til tekst, bilder og farger være utformet slik at det ikke er noen fare for forveksling mellom morsmelkerstatninger og tilskuddsblandinger, og slik at forbrukerne lett kan skille mellom produktene.
+6\. Merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger skal gi nødvendig informasjon om riktig bruk av produktene på en slik måte at amming ikke motvirkes.
+
+Merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger skal ikke bruke uttrykk som «humanisert», «moderliggjort», «tilpasset» eller lignende.
+
+Merking og presentasjon av og reklame for morsmelkerstatninger og tilskuddsblandinger skal særlig med hensyn til tekst, bilder og farger være utformet slik at det ikke er noen fare for forveksling mellom morsmelkerstatninger og tilskuddsblandinger, og slik at forbrukerne lett kan skille mellom produktene.
 
 ### Artikkel 7. Særlige krav til næringsdeklarasjon
 
-1\. I tillegg til informasjonen nevnt i artikkel 30 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal den obligatoriske næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger inneholde informasjon om mengden av hvert mineral og vitamin som er oppført i vedlegg I eller II til denne forordning, og som produktet inneholder, med unntak av molybden.Den obligatoriske næringsdeklarasjonen for morsmelkerstatninger skal også omfatte informasjon om mengden av kolin, inositol og karnitin.Som unntak fra artikkel 30 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal den obligatoriske næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger ikke inneholde informasjon om mengden av salt.
+1\. I tillegg til informasjonen nevnt i artikkel 30 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal den obligatoriske næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger inneholde informasjon om mengden av hvert mineral og vitamin som er oppført i vedlegg I eller II til denne forordning, og som produktet inneholder, med unntak av molybden.
 
-2\. I tillegg til informasjonen nevnt i artikkel 30 nr. 2 bokstav a)–e) i forordning [(EU) nr. 1169/2011](eu/32011r1169*) kan innholdet i den obligatoriske næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger utfylles med én eller flere av følgende opplysninger:mengden av bestanddeler av protein, karbohydrat eller fett,forholdet mellom myseprotein og kasein,mengden av stoffene oppført i vedlegg I eller II til denne forordning eller vedlegget til forordning [(EU) nr. 609/2013](eu/32013r0609), dersom angivelse av disse stoffene ikke omfattes av nr. 1,mengden av eventuelle stoffer som tilsettes produktet i henhold til artikkel 3.
+Den obligatoriske næringsdeklarasjonen for morsmelkerstatninger skal også omfatte informasjon om mengden av kolin, inositol og karnitin.
+
+Som unntak fra artikkel 30 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal den obligatoriske næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger ikke inneholde informasjon om mengden av salt.
+
+2\. I tillegg til informasjonen nevnt i artikkel 30 nr. 2 bokstav a)–e) i forordning [(EU) nr. 1169/2011](eu/32011r1169*) kan innholdet i den obligatoriske næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger utfylles med én eller flere av følgende opplysninger:
+
+1. mengden av bestanddeler av protein, karbohydrat eller fett,
+2. forholdet mellom myseprotein og kasein,
+3. mengden av stoffene oppført i vedlegg I eller II til denne forordning eller vedlegget til forordning [(EU) nr. 609/2013](eu/32013r0609), dersom angivelse av disse stoffene ikke omfattes av nr. 1,
+4. mengden av eventuelle stoffer som tilsettes produktet i henhold til artikkel 3.
 
 3\. Som unntak fra artikkel 30 nr. 3 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal informasjonen som inngår i den obligatoriske næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger, ikke gjentas på merkingen.
 
@@ -1401,9 +1614,13 @@ VEDTATT DENNE FORORDNING:
 
 6\. Som unntak fra artikkel 31 nr. 3, artikkel 32 nr. 2 og artikkel 33 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal energiinnholdet og mengden av næringsstoffer i morsmelkerstatninger og tilskuddsblandinger uttrykkes per 100 ml bruksklart produkt etter tilberedning i samsvar med produsentens anvisninger. Informasjonen kan eventuelt også vise til 100 g av næringsmiddelet slik det selges.
 
-7\. Som unntak fra artikkel 32 nr. 3 og 4 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal energiinnholdet og mengden av næringsstoffer i morsmelkerstatninger og tilskuddsblandinger ikke uttrykkes i prosent av referanseinntakene fastsatt i vedlegg XIII til nevnte forordning.Erklæringen om vitaminer og mineraler oppført i vedlegg VII til denne forordning kan, når det gjelder tilskuddsblandinger, i tillegg til uttrykksformen nevnt i nr. 6 uttrykkes som en prosentdel av referanseinntakene fastsatt i nevnte vedlegg per 100 ml bruksklart produkt etter tilberedning i samsvar med produsentens anvisninger.
+7\. Som unntak fra artikkel 32 nr. 3 og 4 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal energiinnholdet og mengden av næringsstoffer i morsmelkerstatninger og tilskuddsblandinger ikke uttrykkes i prosent av referanseinntakene fastsatt i vedlegg XIII til nevnte forordning.
 
-8\. Opplysningene som inngår i næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger og ikke er oppført i vedlegg XV til forordning [(EU) nr. 1169/2011](eu/32011r1169*), skal angis etter den mest relevante posten fra vedlegget som de tilhører eller er bestanddeler av.Opplysninger som ikke er oppført i vedlegg XV til forordning [(EU) nr. 1169/2011](eu/32011r1169*) og ikke tilhører eller ikke er bestanddeler av postene i nevnte vedlegg, skal angis i næringsdeklarasjonen etter den siste posten fra vedlegget.
+Erklæringen om vitaminer og mineraler oppført i vedlegg VII til denne forordning kan, når det gjelder tilskuddsblandinger, i tillegg til uttrykksformen nevnt i nr. 6 uttrykkes som en prosentdel av referanseinntakene fastsatt i nevnte vedlegg per 100 ml bruksklart produkt etter tilberedning i samsvar med produsentens anvisninger.
+
+8\. Opplysningene som inngår i næringsdeklarasjonen for morsmelkerstatninger og tilskuddsblandinger og ikke er oppført i vedlegg XV til forordning [(EU) nr. 1169/2011](eu/32011r1169*), skal angis etter den mest relevante posten fra vedlegget som de tilhører eller er bestanddeler av.
+
+Opplysninger som ikke er oppført i vedlegg XV til forordning [(EU) nr. 1169/2011](eu/32011r1169*) og ikke tilhører eller ikke er bestanddeler av postene i nevnte vedlegg, skal angis i næringsdeklarasjonen etter den siste posten fra vedlegget.
 
 ### Artikkel 8. Ernærings- og helsepåstander om morsmelkerstatninger
 
@@ -1413,13 +1630,17 @@ Det skal ikke framsettes ernærings- og helsepåstander om morsmelkerstatninger.
 
 1\. Angivelsen «Bare laktose» kan brukes om morsmelkerstatninger og tilskuddsblandinger dersom laktose er eneste karbohydrat i produktet.
 
-2\. Angivelsen «Laktosefri» kan brukes om morsmelkerstatninger og tilskuddsblandinger dersom laktoseinnholdet i produktet er høyst 2,5 mg/100 kJ (10 mg/100 kcal).Når angivelsen «Laktosefri» brukes om morsmelkerstatninger og tilskuddsblandinger produsert på grunnlag av andre proteinkilder enn soyaproteinisolater, skal den følges av angivelsen «Ikke egnet for spedbarn med galaktosemi» som skal angis med samme skriftstørrelse som «Laktosefri» og ha en like framtredende plassering i nærheten av sistnevnte angivelse.
+2\. Angivelsen «Laktosefri» kan brukes om morsmelkerstatninger og tilskuddsblandinger dersom laktoseinnholdet i produktet er høyst 2,5 mg/100 kJ (10 mg/100 kcal).
+
+Når angivelsen «Laktosefri» brukes om morsmelkerstatninger og tilskuddsblandinger produsert på grunnlag av andre proteinkilder enn soyaproteinisolater, skal den følges av angivelsen «Ikke egnet for spedbarn med galaktosemi» som skal angis med samme skriftstørrelse som «Laktosefri» og ha en like framtredende plassering i nærheten av sistnevnte angivelse.
 
 3\. Angivelsen «Inneholder dokosaheksaensyre (obligatorisk for alle morsmelkerstatninger etter regelverket)» eller «Inneholder DHA (obligatorisk for alle morsmelkerstatninger etter regelverket)» kan brukes bare for morsmelkerstatninger som bringes i omsetning før 22. februar 2025.
 
 ### Artikkel 10. Krav til reklame og handelspraksis for morsmelkerstatninger
 
-1\. Reklame for morsmelkerstatninger skal begrenses til spesialpublikasjoner om spedbarnspleie og vitenskapelige publikasjoner.Medlemsstatene kan ytterligere begrense eller forby reklame. Reklamen skal inneholde bare informasjon av vitenskapelig og faktisk karakter. Informasjonen skal ikke gi inntrykk av at flaskeernæring er likeverdig med eller bedre enn amming.
+1\. Reklame for morsmelkerstatninger skal begrenses til spesialpublikasjoner om spedbarnspleie og vitenskapelige publikasjoner.
+
+Medlemsstatene kan ytterligere begrense eller forby reklame. Reklamen skal inneholde bare informasjon av vitenskapelig og faktisk karakter. Informasjonen skal ikke gi inntrykk av at flaskeernæring er likeverdig med eller bedre enn amming.
 
 2\. Det skal ikke reklameres for morsmelkerstatninger på utsalgssteder, og det skal ikke foregå utdeling av prøver eller noen annen form for salgsfremmende tiltak direkte overfor forbrukeren på detaljistnivå, som f.eks. spesialutstillinger, rabattkuponger, premier eller salgskampanjer, tapsgivende tilbud og lokketilbud.
 
@@ -1431,7 +1652,15 @@ Det skal ikke framsettes ernærings- og helsepåstander om morsmelkerstatninger.
 
 1\. Medlemsstatene skal treffe tiltak for å sikre at familien og de personer som befatter seg med spedbarns- og småbarnsernæring, gis objektiv og konsistent informasjon om ernæring av spedbarn og småbarn med hensyn til planlegging, tilveiebringelse, utforming og spredning av informasjon og om kontrollen med den.
 
-2\. Informasjons- og undervisningsmateriell i skriftlig eller audiovisuell form som er beregnet på gravide og spedbarns- og småbarnsmødre, og som gjelder ernæring av spedbarn og småbarn, skal gi klar informasjon omfordelene ved amming som det beste alternativet,morens kosthold samt hvordan hun best forbereder seg på og fortsetter ammingen,de mulige negative følgene det vil få for ammingen å begynne med delvis flaskeernæring,vanskeligheten med å gå tilbake på en avgjørelse om ikke å amme sitt barn,der det er nødvendig, riktig bruk av morsmelkerstatninger.Dersom slikt informasjonsmateriell inneholder informasjon om bruk av morsmelkerstatninger, skal det også gjøres oppmerksom på sosiale og økonomiske konsekvenser av slik bruk og opplyses om helsefarene ved uegnet ernæring eller uegnede ernæringsmetoder, særlig om helsefarene ved feilaktig bruk av morsmelkerstatninger. Informasjonsmateriellet skal ikke inneholde noen bilder som kan idealisere bruk av morsmelkerstatninger.
+2\. Informasjons- og undervisningsmateriell i skriftlig eller audiovisuell form som er beregnet på gravide og spedbarns- og småbarnsmødre, og som gjelder ernæring av spedbarn og småbarn, skal gi klar informasjon om
+
+1. fordelene ved amming som det beste alternativet,
+2. morens kosthold samt hvordan hun best forbereder seg på og fortsetter ammingen,
+3. de mulige negative følgene det vil få for ammingen å begynne med delvis flaskeernæring,
+4. vanskeligheten med å gå tilbake på en avgjørelse om ikke å amme sitt barn,
+5. der det er nødvendig, riktig bruk av morsmelkerstatninger.
+
+Dersom slikt informasjonsmateriell inneholder informasjon om bruk av morsmelkerstatninger, skal det også gjøres oppmerksom på sosiale og økonomiske konsekvenser av slik bruk og opplyses om helsefarene ved uegnet ernæring eller uegnede ernæringsmetoder, særlig om helsefarene ved feilaktig bruk av morsmelkerstatninger. Informasjonsmateriellet skal ikke inneholde noen bilder som kan idealisere bruk av morsmelkerstatninger.
 
 3\. Gratis utdeling av informasjons- og undervisningsutstyr eller materiell av produsenter og forhandlere skal finne sted bare på forespørsel og med vedkommende myndighets skriftlige tillatelse, eller i henhold til myndighetenes retningslinjer på området. Slikt utstyr eller materiell kan være påsatt giverfirmaets navn eller logo, men kan ikke henvise til et bestemt navnebeskyttet produkt, og kan distribueres bare gjennom det offentlige helsevesen.
 
@@ -1542,7 +1771,10 @@ Proteininnhold
 
 Proteinkilde
 
-Avmineralisert protein av søt myse fra kumelk etter enzymatisk utfelling av kaseiner ved bruk av kymosin, bestående av63 % kasein-glykomakropeptidfritt myseproteinisolat med et proteininnhold på minst 95 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3 %, og37 % proteinkonsentrat av søt myse med et proteininnhold på minst 87 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3,5 %.
+Avmineralisert protein av søt myse fra kumelk etter enzymatisk utfelling av kaseiner ved bruk av kymosin, bestående av
+
+1. 63 % kasein-glykomakropeptidfritt myseproteinisolat med et proteininnhold på minst 95 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3 %, og
+2. 37 % proteinkonsentrat av søt myse med et proteininnhold på minst 87 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3,5 %.
 
 2.3.1.3.
 
@@ -1575,7 +1807,10 @@ Proteininnhold
 
 Proteinkilde
 
-Myseprotein fra kumelk, bestående av77 % syrnet myse fra myseproteinkonsentrat med et proteininnhold på 35–80 %, og23 % søt myse fra avmineralisert søt myse med et proteininnhold på minst 12,5 %.
+Myseprotein fra kumelk, bestående av
+
+1. 77 % syrnet myse fra myseproteinkonsentrat med et proteininnhold på 35–80 %, og
+2. 23 % søt myse fra avmineralisert søt myse med et proteininnhold på minst 12,5 %.
 
 2.3.2.3.
 
@@ -1720,15 +1955,22 @@ Ved tilsetting av taurin i morsmelkerstatninger skal taurinmengden være høyst 
 
 5.1.
 
-Det skal være forbudt å bruke følgende stoffer:sesamolje,bomullsolje.
+Det skal være forbudt å bruke følgende stoffer:
+
+- sesamolje,
+- bomullsolje.
 
 5.2.
 
-Innholdet av transfettsyrer skal utgjøre høyst 3 % av det samlede fettinnholdet.► **M2**
+Innholdet av transfettsyrer skal utgjøre høyst 3 % av det samlede fettinnholdet.
+
+► **M2**
 
 5.3.
 
-Innholdet av erukasyre skal utgjøre høyst 0,4 % av det samlede fettinnholdet.◄ **M2**
+Innholdet av erukasyre skal utgjøre høyst 0,4 % av det samlede fettinnholdet.
+
+◄ **M2**
 
 5.4.
 
@@ -1787,7 +2029,16 @@ Mengden fosfolipider i morsmelkerstatninger skal være høyst 2 g/l.
 
 8.1.
 
-Bare følgende karbohydrater kan brukes:laktose,maltose,sukrose,glukose,glukosesirup eller dehydrert glukosesirup,maltdekstriner,prekokt stivelse (naturlig fri for gluten),gelatinert stivelse (naturlig fri for gluten).
+Bare følgende karbohydrater kan brukes:
+
+- laktose,
+- maltose,
+- sukrose,
+- glukose,
+- glukosesirup eller dehydrert glukosesirup,
+- maltdekstriner,
+- prekokt stivelse (naturlig fri for gluten),
+- gelatinert stivelse (naturlig fri for gluten).
 
 8.2.
 
@@ -1798,7 +2049,10 @@ Laktose
 | 1,1 g/100 kJ | – |
 | (4,5 g/100 kcal) | – |
 
-Disse minstenivåene får ikke anvendelse på morsmelkerstatningerder soyaproteinisolater utgjør mer enn 50 % av det samlede proteininnholdet, ellersom er påført angivelsen «laktosefri» i samsvar med artikkel 9 nr. 2.
+Disse minstenivåene får ikke anvendelse på morsmelkerstatninger
+
+- der soyaproteinisolater utgjør mer enn 50 % av det samlede proteininnholdet, eller
+- som er påført angivelsen «laktosefri» i samsvar med artikkel 9 nr. 2.
 
 8.3.
 
@@ -1941,9 +2195,14 @@ KRAV TIL SAMMENSETNING NEVNT I ARTIKKEL 2 NR. 2
 
 2.1.
 
-Tilskuddsblandinger produsert på grunnlag av kumelk- eller geitemelkproteiner► **M1** *Minst**Høyst*0,38 g/100 kJ
-(1,6 g/100 kcal)0,6 g/100 kJ
-(2,5 g/100 kcal)
+Tilskuddsblandinger produsert på grunnlag av kumelk- eller geitemelkproteiner
+
+► **M1**
+
+| *Minst* | *Høyst* |
+| --- | --- |
+| 0,38 g/100 kJ<br>(1,6 g/100 kcal) | 0,6 g/100 kJ<br>(2,5 g/100 kcal) |
+
 ◄ **M1**
 
 Ved samme energiinnhold skal tilskuddsblandinger produsert på grunnlag av kumelk- eller geitemelkproteiner inneholde minst like stor mengde av hver essensielle eller betinget essensielle aminosyre som referanseproteinet fastsatt i vedlegg III avsnitt A. Ved beregningen kan innholdet av metionin og cystein og innholdet av fenylalanin og tyrosin imidlertid legges sammen.
@@ -1986,7 +2245,10 @@ Proteininnhold
 
 Proteinkilde
 
-Avmineralisert protein av søt myse fra kumelk etter enzymatisk utfelling av kaseiner ved bruk av kymosin, bestående av63 % kasein-glykomakropeptidfritt myseproteinisolat med et proteininnhold på minst 95 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3 %, og37 % proteinkonsentrat av søt myse med et proteininnhold på minst 87 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3,5 %.
+Avmineralisert protein av søt myse fra kumelk etter enzymatisk utfelling av kaseiner ved bruk av kymosin, bestående av
+
+1. 63 % kasein-glykomakropeptidfritt myseproteinisolat med et proteininnhold på minst 95 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3 %, og
+2. 37 % proteinkonsentrat av søt myse med et proteininnhold på minst 87 % tørrstoff, en proteindenaturering på mindre enn 70 % og et askeinnhold på høyst 3,5 %.
 
 2.3.1.3.
 
@@ -2017,7 +2279,10 @@ Proteininnhold
 
 Proteinkilde
 
-Myseprotein fra kumelk, bestående av77 % syrnet myse fra myseproteinkonsentrat med et proteininnhold på 35–80 %, og23 % søt myse fra avmineralisert søt myse med et proteininnhold på minst 12,5 %.
+Myseprotein fra kumelk, bestående av
+
+1. 77 % syrnet myse fra myseproteinkonsentrat med et proteininnhold på 35–80 %, og
+2. 23 % søt myse fra avmineralisert søt myse med et proteininnhold på minst 12,5 %.
 
 2.3.2.3.
 
@@ -2145,15 +2410,22 @@ Ved tilsetting av taurin i tilskuddsblandinger skal taurinmengden være høyst 2
 
 4.1.
 
-Det skal være forbudt å bruke følgende stoffer:sesamolje,bomullsolje.
+Det skal være forbudt å bruke følgende stoffer:
+
+- sesamolje,
+- bomullsolje.
 
 4.2.
 
-Innholdet av transfettsyrer skal utgjøre høyst 3 % av det samlede fettinnholdet.► **M2**
+Innholdet av transfettsyrer skal utgjøre høyst 3 % av det samlede fettinnholdet.
+
+► **M2**
 
 4.3.
 
-Innholdet av erukasyre skal utgjøre høyst 0,4 % av det samlede fettinnholdet.◄ **M2**
+Innholdet av erukasyre skal utgjøre høyst 0,4 % av det samlede fettinnholdet.
+
+◄ **M2**
 
 4.4.
 
@@ -2214,7 +2486,10 @@ Laktose
 | 1,1 g/100 kJ | – |
 | (4,5 g/100 kcal) | – |
 
-Disse minstenivåene får ikke anvendelse på tilskuddsblandingerder soyaproteinisolater utgjør mer enn 50 % av det samlede proteininnholdet, ellersom er påført angivelsen «laktosefri» i samsvar med artikkel 9 nr. 2.
+Disse minstenivåene får ikke anvendelse på tilskuddsblandinger
+
+- der soyaproteinisolater utgjør mer enn 50 % av det samlede proteininnholdet, eller
+- som er påført angivelsen «laktosefri» i samsvar med artikkel 9 nr. 2.
 
 6.3.
 
@@ -2312,7 +2587,13 @@ Molarforholdet mellom kalsium og tilgjengelig fosfor skal ikke være mindre enn 
 | Vitamin K (μg) | 0,24 | 6 | 1 | 25 |
 | Vitamin E (mg α-tokoferol)4 | 0,14 | 1,2 | 0,6 | 5 |
 
-1 Preformert vitamin A. RE = alle transretinolekvivalenter.2 Preformert niacin.3 Kostfolatekvivalent: 1 μg DFE = 1 μg kostfolat = 0,6 μg folsyre fra produktet.4 Basert på vitamin E-aktiviteten i RRR-α-tokoferol.
+1 Preformert vitamin A. RE = alle transretinolekvivalenter.
+
+2 Preformert niacin.
+
+3 Kostfolatekvivalent: 1 μg DFE = 1 μg kostfolat = 0,6 μg folsyre fra produktet.
+
+4 Basert på vitamin E-aktiviteten i RRR-α-tokoferol.
 
 10.*NUKLEOTIDER*
 
@@ -2418,12 +2699,76 @@ BETEGNELSER NEVNT I ARTIKKEL 5
 ### DEL A
 Betegnelse nevnt i artikkel 5 nr. 1
 
-Andre morsmelkerstatninger og tilskuddsblandinger enn morsmelkerstatninger og tilskuddsblandinger som er produsert helt og holdent på grunnlag av kumelk- eller geitemelkproteiner, skal henholdsvis ha følgende betegnelser:på bulgarsk: «Xрани за кърмачeта» og «Прexoдни xрани»,på spansk: «Preparado para lactantes» og «Preparado de continuación»,på tsjekkisk: «Počáteční kojenecká výživa» og «Pokračovací kojenecká výživa»,på dansk: «Modermælkserstatning» og «Tilskudsblanding»,på tysk: «Säuglingsanfangsnahrung» og «Folgenahrung»,på estisk: «Imiku piimasegu» og «Jätkupiimasegu»,på gresk: «Φαρασκεύασμα για βρέφη» og «Φαρασκεύασμα δεύτερης βρεφικής ηλικίας»,på engelsk: «Infant formula» og «Follow-on formula»,på fransk: «Préparation pour nourrissons» og «Préparation de suite»,på kroatisk: «Početna hrana za dojenčad» og «Prijelazna hrana za dojenčad»,på italiensk: «Formula per lattanti» og «Formula di proseguimento»,på latvisk: «Maisījums zīdaiņiem» og «Papildu ēdināšanas maisījums zīdaiņiem»,på litauisk: «Pradinio maitinimo kūdikiu mišiniai» og «Tolesnio maitinimo kūdikiu mišiniai»,på ungarsk: «Anyatej-helyettesítő tápszer» og «Anyatej-kiegészítő tápszer»,på maltesisk: «Formula tat-trabi» og «Formula tal-prosegwiment»,på nederlandsk: «Volledige zuigelingenvoeding» og «Opvolgzuigelingenvoeding»,på polsk: «Preparat do początkowego żywienia niemowląt» og «Preparat do dalszego żywienia niemowląt»,på portugisisk: «Fórmula para lactentes» og «Fórmula de transição»,på rumensk: «Formulă de început» og «Formulă de continuare»,på slovakisk: «Počiatočná dojčenská výživa» og «Následná dojčenská výživa».på slovensk: «Začetna formula za dojenčke» og «Nadaljevalna formula»,på finsk: «Äidinmaidonkorvike» og «Vieroitusvalmiste»,på svensk: «Modersmjölksersättning» og «Tillskottsnäring».►**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b**på islandsk: «Ungbarnablanda» og «Stoðblanda»på norsk: «Morsmelkerstatning» og «Tilskuddsblanding»◄**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b**
+Andre morsmelkerstatninger og tilskuddsblandinger enn morsmelkerstatninger og tilskuddsblandinger som er produsert helt og holdent på grunnlag av kumelk- eller geitemelkproteiner, skal henholdsvis ha følgende betegnelser:
+
+- på bulgarsk: «Xрани за кърмачeта» og «Прexoдни xрани»,
+- på spansk: «Preparado para lactantes» og «Preparado de continuación»,
+- på tsjekkisk: «Počáteční kojenecká výživa» og «Pokračovací kojenecká výživa»,
+- på dansk: «Modermælkserstatning» og «Tilskudsblanding»,
+- på tysk: «Säuglingsanfangsnahrung» og «Folgenahrung»,
+- på estisk: «Imiku piimasegu» og «Jätkupiimasegu»,
+- på gresk: «Φαρασκεύασμα για βρέφη» og «Φαρασκεύασμα δεύτερης βρεφικής ηλικίας»,
+- på engelsk: «Infant formula» og «Follow-on formula»,
+- på fransk: «Préparation pour nourrissons» og «Préparation de suite»,
+- på kroatisk: «Početna hrana za dojenčad» og «Prijelazna hrana za dojenčad»,
+- på italiensk: «Formula per lattanti» og «Formula di proseguimento»,
+- på latvisk: «Maisījums zīdaiņiem» og «Papildu ēdināšanas maisījums zīdaiņiem»,
+- på litauisk: «Pradinio maitinimo kūdikiu mišiniai» og «Tolesnio maitinimo kūdikiu mišiniai»,
+- på ungarsk: «Anyatej-helyettesítő tápszer» og «Anyatej-kiegészítő tápszer»,
+- på maltesisk: «Formula tat-trabi» og «Formula tal-prosegwiment»,
+- på nederlandsk: «Volledige zuigelingenvoeding» og «Opvolgzuigelingenvoeding»,
+- på polsk: «Preparat do początkowego żywienia niemowląt» og «Preparat do dalszego żywienia niemowląt»,
+- på portugisisk: «Fórmula para lactentes» og «Fórmula de transição»,
+- på rumensk: «Formulă de început» og «Formulă de continuare»,
+- på slovakisk: «Počiatočná dojčenská výživa» og «Následná dojčenská výživa».
+- på slovensk: «Začetna formula za dojenčke» og «Nadaljevalna formula»,
+- på finsk: «Äidinmaidonkorvike» og «Vieroitusvalmiste»,
+- på svensk: «Modersmjölksersättning» og «Tillskottsnäring».
+
+►**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b**
+
+på islandsk: «Ungbarnablanda» og «Stoðblanda»
+
+på norsk: «Morsmelkerstatning» og «Tilskuddsblanding»
+
+◄**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b**
 
 ### DEL B
 Betegnelse nevnt i artikkel 5 nr. 2
 
-Morsmelkerstatninger og tilskuddsblandinger som er produsert helt og holdent på grunnlag av kumelk- eller geitemelkproteiner, skal henholdsvis ha følgende betegnelser:på bulgarsk: «Mлeка за кърмачeта» og «Прexoдни млeка»,på spansk: «Leche para lactantes» og «Leche de continuación»,på tsjekkisk: «Počáteční mléčná kojenecká výživa» og «Pokračovací mléčná kojenecká výživa»,på dansk: «Modermælkserstatning udelukkende baseret på mælk» og «Tilskudsblanding udelukkende baseret på mælk»,på tysk: «Säuglingsmilchnahrung» og «Folgemilch»,på estisk: «Piimal põhinev imiku piimasegu» og «Piimal põhinev jätkupiimasegu»,på gresk: «Γάλα για βρέφη» og «Γάλα δεύτερης βρεφικής ηλικίας»,på engelsk: «Infant milk» og «Follow-on milk»,på fransk: «Lait pour nourrissons» og «Lait de suite»,på kroatisk: «Početna mliječna hrana za dojenčad» og «Prijelazna mliječna hrana za dojenčad»,på italiensk: «Latte per lattanti» og «Latte di proseguimento»,på latvisk: «Piena maisījums zīdaiņiem» og «Papildu ēdināšanas piena maisījums zīdaiņiem»,på litauisk: «Pradinio maitinimo kūdikiu pieno mišiniai» og «Tolesnio maitinimo kūdikiu pieno mišiniai»,på ungarsk: «Tejalapú anyatej-helyettesítő tápszer» og «Tejalapú anyatej-kiegészítő tápszer»,på maltesisk: «Ħalib tat-trabi» og «Ħalib tal-prosegwiment»,på nederlandsk: «Volledige zuigelingenvoeding op basis van melk» eller «Zuigelingenmelk» og «Opvolgmelk»,på polsk: «Mleko początkowe» og «Mleko następne»,på portugisisk: «Leite para lactentes» og «Leite de transição»,på rumensk: «Lapte de început» og «Lapte de continuare»,på slovakisk: «Počiatočná dojčenská mliečna výživa» og «Následná dojčenská mliečna výživa»,på slovensk: «Začetno mleko za dojenčke» og «Nadaljevalno mleko»,på finsk: «Maitopohjainen äidinmaidonkorvike» og «Maitopohjainen vieroitusvalmiste»,på svensk: «Modersmjölksersättning uteslutande baserad på mjölk» og «Tillskottsnäring uteslutande baserad på mjölk».►**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b**på islandsk: «Ungbarnamjólk» og «Mjólkurstoðblanda»på norsk: «Morsmelkerstatning basert på melk» og «Tilskuddsblanding basert på melk»◄**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b**
+Morsmelkerstatninger og tilskuddsblandinger som er produsert helt og holdent på grunnlag av kumelk- eller geitemelkproteiner, skal henholdsvis ha følgende betegnelser:
+
+- på bulgarsk: «Mлeка за кърмачeта» og «Прexoдни млeка»,
+- på spansk: «Leche para lactantes» og «Leche de continuación»,
+- på tsjekkisk: «Počáteční mléčná kojenecká výživa» og «Pokračovací mléčná kojenecká výživa»,
+- på dansk: «Modermælkserstatning udelukkende baseret på mælk» og «Tilskudsblanding udelukkende baseret på mælk»,
+- på tysk: «Säuglingsmilchnahrung» og «Folgemilch»,
+- på estisk: «Piimal põhinev imiku piimasegu» og «Piimal põhinev jätkupiimasegu»,
+- på gresk: «Γάλα για βρέφη» og «Γάλα δεύτερης βρεφικής ηλικίας»,
+- på engelsk: «Infant milk» og «Follow-on milk»,
+- på fransk: «Lait pour nourrissons» og «Lait de suite»,
+- på kroatisk: «Početna mliječna hrana za dojenčad» og «Prijelazna mliječna hrana za dojenčad»,
+- på italiensk: «Latte per lattanti» og «Latte di proseguimento»,
+- på latvisk: «Piena maisījums zīdaiņiem» og «Papildu ēdināšanas piena maisījums zīdaiņiem»,
+- på litauisk: «Pradinio maitinimo kūdikiu pieno mišiniai» og «Tolesnio maitinimo kūdikiu pieno mišiniai»,
+- på ungarsk: «Tejalapú anyatej-helyettesítő tápszer» og «Tejalapú anyatej-kiegészítő tápszer»,
+- på maltesisk: «Ħalib tat-trabi» og «Ħalib tal-prosegwiment»,
+- på nederlandsk: «Volledige zuigelingenvoeding op basis van melk» eller «Zuigelingenmelk» og «Opvolgmelk»,
+- på polsk: «Mleko początkowe» og «Mleko następne»,
+- på portugisisk: «Leite para lactentes» og «Leite de transição»,
+- på rumensk: «Lapte de început» og «Lapte de continuare»,
+- på slovakisk: «Počiatočná dojčenská mliečna výživa» og «Následná dojčenská mliečna výživa»,
+- på slovensk: «Začetno mleko za dojenčke» og «Nadaljevalno mleko»,
+- på finsk: «Maitopohjainen äidinmaidonkorvike» og «Maitopohjainen vieroitusvalmiste»,
+- på svensk: «Modersmjölksersättning uteslutande baserad på mjölk» og «Tillskottsnäring uteslutande baserad på mjölk».
+
+►**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b**
+
+på islandsk: «Ungbarnamjólk» og «Mjólkurstoðblanda»
+
+på norsk: «Morsmelkerstatning basert på melk» og «Tilskuddsblanding basert på melk»
+
+◄**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII nr. 77b**
 
 ### VEDLEGG VII
 REFERANSEINNTAK NEVNT I ARTIKKEL 7 NR. 7
@@ -2460,7 +2805,10 @@ REFERANSEINNTAK NEVNT I ARTIKKEL 7 NR. 7
 
 > Tilføyd ved [forskrift 10 feb 2018 nr. 190](forskrift/2018-02-10-190), endret ved forskrift [23 sep 2023 nr. 1538](forskrift/2023-09-23-1538).
 
-Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/1798](eu/32017r1798). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2022/2182](eu/32022r2182). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kapittel XII nr. 77c er innarbeidet nedenfor.►**B** Forordning [(EU) 2017/1798](eu/32017r1798)►**M1** Forordning [(EU) 2022/2182](eu/32022r2182)
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/1798](eu/32017r1798). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2022/2182](eu/32022r2182). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kapittel XII nr. 77c er innarbeidet nedenfor.
+
+- ►**B** Forordning [(EU) 2017/1798](eu/32017r1798)
+- ►**M1** Forordning [(EU) 2022/2182](eu/32022r2182)
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2017/1798](eu/32017r1798)
 av 2. juni 2017
@@ -2472,8 +2820,24 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) av 12. juni 2013 om næringsmidler til spedbarn og småbarn, næringsmidler til spesielle medisinske formål og totale kosterstatninger for vektkontroll og om oppheving av rådsdirektiv [92/52/EØF](eu/31992l0052), kommisjonsdirektiv [96/8/EF](eu/31996l0008), [1999/21/EF](eu/31999l0021*), [2006/125/EF](eu/32006l0125) og [2006/141/EF](eu/32006l0141), europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039) og kommisjonsforordning [(EF) nr. 41/2009](eu/32009r0041) og (EF) [nr. 953/2009](eu/32009r0953),1 særlig artikkel 11 nr. 1 bokstav a), c) og d), og
 
-ut fra følgende betraktninger:I kommisjonsdirektiv [96/8/EF](eu/31996l0008),2 er det fastsatt harmoniserte regler for næringsmidler til bruk i kalorifattige dietter med sikte på vekttap, og direktivets virkeområde omfatter produkter som i forordning [(EU) nr. 609/2013](eu/32013r0609) er definert som totale kosterstatninger for vektkontroll.Forordning [(EU) nr. 609/2013](eu/32013r0609) opphever direktiv [96/8/EF](eu/31996l0008) og fastsetter alminnelige sammensetnings- og informasjonskrav til forskjellige næringsmiddelkategorier, herunder produkter definert som totale kosterstatninger for vektkontroll. For at Kommisjonen skal kunne overholde plikten til å vedta bestemte sammensetnings- og informasjonskrav til totale kosterstatninger for vektkontroll, er det hensiktsmessig å bygge på bestemmelsene i direktiv [96/8/EF](eu/31996l0008), ettersom disse bestemmelsene på en tilfredsstillende måte har sikret fritt varebytte for næringsmidler som presenteres som totale kosterstatninger for vektkontroll, og samtidig har sikret et høyt nivå for vern av folkehelsen.En total kosterstatning for vektkontroll er et sammensatt produkt som er spesielt utformet for voksne med overvekt eller fedme som har til hensikt å oppnå vektreduksjon. Grunnsammensetningen av en total kosterstatning for vektkontroll må oppfylle det daglige ernæringsbehovet hos friske voksne med overvekt eller fedme, innenfor rammen av kalorifattige dietter med sikte på vekttap, som fastsatt ved hjelp av allment anerkjente vitenskapelige data.For å sikre at kosterstatninger for vektkontroll er trygge og egnet for formålet, bør det fastsettes detaljerte krav til deres sammensetning, herunder krav med hensyn til energiinnhold og innhold av makro- og mikronæringsstoffer. Disse kravene bør være basert på de seneste vitenskapelige rådene fra Den europeiske myndighet for næringsmiddeltrygghet («Myndigheten»).3For å sikre nyskaping og produktutvikling bør det være tillatt på frivillig grunnlag å tilsette ingredienser som ikke omfattes av særlige krav i denne forordning, i totale kosterstatninger for vektkontroll, med særlig vekt på kostfiber. Alle ingredienser som brukes ved framstilling av totale kosterstatninger for
-vektkontroll, bør være egnet for friske voksne med overvekt eller fedme, og egnetheten bør om nødvendig være dokumentert gjennom relevante studier. Driftsansvarlige for næringsmiddelforetak har ansvar for å dokumentere at en ingrediens er egnet, og vedkommende nasjonale myndigheter har ansvaret for i hvert enkelt tilfelle å vurdere om dette stemmer.Totale kosterstatninger for vektkontroll må være i samsvar med europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*).4 For å ta hensyn til de særlige egenskapene ved totale kosterstatninger for vektkontroll bør det fastsettes tillegg til og unntak fra disse alminnelige reglene dersom det er relevant.Det er avgjørende at totale kosterstatninger for vektkontroll er forsynt med næringsdeklarasjon, for å garantere at de brukes korrekt av både friske voksne med overvekt eller fedme som konsumerer disse næringsmidlene, og av helsepersonell som kan gi råd om deres egnethet i visse tilfeller. For å gi mer fullstendig informasjon bør næringsdeklarasjonen derfor inneholde flere opplysninger enn dem som kreves i henhold til forordning [(EU) nr. 1169/2011](eu/32011r1169*). Dessuten bør det være obligatorisk å forsyne alle totale kosterstatninger for vektkontroll med næringsdeklarasjon, uavhengig av emballasjens eller beholderens størrelse, og unntaket fastsatt i nr. 18 i vedlegg V til forordning [(EU) nr. 1169/2011](eu/32011r1169*) bør derfor ikke gjelde.For å gi egnede opplysninger og gjøre det lettere å sammenligne produkter bør næringsdeklarasjonen for totale kosterstatninger for vektkontroll angis per porsjon og/eller per forbruksenhet samt per hel dagsrasjon. Dessuten bør disse opplysningene vise til det bruksklare produktet etter tilberedning i samsvar med produsentens anvisninger.I artikkel 30 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) er det oppført et begrenset antall næringsstoffer som på frivillig grunnlag kan angis i næringsdeklarasjonen for næringsmidler. I vedlegget til forordning [(EU) nr. 609/2013](eu/32013r0609) er det oppført en rekke stoffer som kan tilsettes i totale kosterstatninger for vektkontroll, hvorav noen ikke omfattes av artikkel 30 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*). For å sikre juridisk klarhet bør det fastsettes uttrykkelig at næringsdeklarasjonen for totale kosterstatninger for vektkontroll kan omfatte slike stoffer. I tillegg kan mer detaljert informasjon om produktets innhold av karbohydrater og fett i visse tilfeller være nyttig for forbrukere og helsepersonell. Driftsansvarlige for næringsmiddelforetak bør derfor kunne gi slik informasjon på frivillig grunnlag.Friske voksne med overvekt eller fedme kan ha andre ernæringsbehov enn den allmenne befolkningen. Dessuten er totale kosterstatninger for vektkontroll næringsmidler som helt erstatter den daglige kosten. På denne bakgrunn vil det være villedende for forbrukerne at energiinnhold og mengde næringsstoffer i totale kosterstatninger for vektkontroll angis som en prosentandel av referanseverdiene for daglig inntak fastsatt i forordning [(EU) nr. 1169/2011](eu/32011r1169*), og slik angivelse bør derfor ikke være tillatt.Opplysninger om «svært lavt» eller «lavt» kaloriinnhold i totale kosterstatninger for vektkontroll kan være nyttige for forbrukerne. Det er derfor hensiktsmessig å fastsette regler om slike frivillige opplysninger.Ernærings- og helsepåstander er markedsføringsverktøy som brukes på frivillig grunnlag av driftsansvarlige for næringsmiddelforetak i kommersiell kommunikasjon, i samsvar med reglene i europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*).5 Med tanke på den særlige rollen som totale kosterstatninger for vektkontroll har i kostholdet til mennesker som konsumerer dem, bør bruk av ernærings- og helsepåstander ikke være tillatt for slike produkter. Tatt i betraktning at informasjon om innhold av kostfiber i totale kosterstatninger for vektkontroll kan være nyttig for forbrukerne, bør ernæringspåstander om tilsatt kostfiber være tillatt på visse vilkår.I henhold til direktiv [96/8/EF](eu/31996l0008) var det påkrevd å tilsette kostfiber i totale kosterstatninger for vektkontroll. På grunn av mangel på vitenskapelig dokumentasjon kunne Myndigheten ikke fastsette et minsteinnhold av kostfiber i sin seneste uttalelse. Derfor er det hensiktsmessig å beholde det minsteinnholdet av kostfiber som kreves i henhold til direktiv [96/8/EF](eu/31996l0008), dersom det tilsettes i totale kosterstatninger for vektkontroll.I henhold til artikkel 17 nr. 2 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)6 skal medlemsstatene håndheve næringsmiddelregelverket og overvåke og kontrollere at driftsansvarlige for næringsmiddel- og fôrforetak oppfyller kravene i alle ledd i produksjon, bearbeiding og distribusjon. I den forbindelse, for å gjøre det lettere å føre effektiv offentlig kontroll med totale kosterstatninger for vektkontroll, bør driftsansvarlige for næringsmiddelforetak som bringer slike produkter i omsetning, framlegge for vedkommende nasjonale myndigheter en modell av etiketten som brukes, samt all relevant informasjon som vedkommende myndigheter finner nødvendig for å verifisere samsvar med denne forordning, med mindre medlemsstatene har et annet effektivt kontrollsystem.For å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse seg de nye kravene, som kan innebære teknisk tilpasning av produksjonsprosessen for de aktuelle produktene, bør denne forordning få anvendelse fem år etter ikrafttredelsen.
+ut fra følgende betraktninger:
+
+1. I kommisjonsdirektiv [96/8/EF](eu/31996l0008),2 er det fastsatt harmoniserte regler for næringsmidler til bruk i kalorifattige dietter med sikte på vekttap, og direktivets virkeområde omfatter produkter som i forordning [(EU) nr. 609/2013](eu/32013r0609) er definert som totale kosterstatninger for vektkontroll.
+2. Forordning [(EU) nr. 609/2013](eu/32013r0609) opphever direktiv [96/8/EF](eu/31996l0008) og fastsetter alminnelige sammensetnings- og informasjonskrav til forskjellige næringsmiddelkategorier, herunder produkter definert som totale kosterstatninger for vektkontroll. For at Kommisjonen skal kunne overholde plikten til å vedta bestemte sammensetnings- og informasjonskrav til totale kosterstatninger for vektkontroll, er det hensiktsmessig å bygge på bestemmelsene i direktiv [96/8/EF](eu/31996l0008), ettersom disse bestemmelsene på en tilfredsstillende måte har sikret fritt varebytte for næringsmidler som presenteres som totale kosterstatninger for vektkontroll, og samtidig har sikret et høyt nivå for vern av folkehelsen.
+3. En total kosterstatning for vektkontroll er et sammensatt produkt som er spesielt utformet for voksne med overvekt eller fedme som har til hensikt å oppnå vektreduksjon. Grunnsammensetningen av en total kosterstatning for vektkontroll må oppfylle det daglige ernæringsbehovet hos friske voksne med overvekt eller fedme, innenfor rammen av kalorifattige dietter med sikte på vekttap, som fastsatt ved hjelp av allment anerkjente vitenskapelige data.
+4. For å sikre at kosterstatninger for vektkontroll er trygge og egnet for formålet, bør det fastsettes detaljerte krav til deres sammensetning, herunder krav med hensyn til energiinnhold og innhold av makro- og mikronæringsstoffer. Disse kravene bør være basert på de seneste vitenskapelige rådene fra Den europeiske myndighet for næringsmiddeltrygghet («Myndigheten»).3
+5. For å sikre nyskaping og produktutvikling bør det være tillatt på frivillig grunnlag å tilsette ingredienser som ikke omfattes av særlige krav i denne forordning, i totale kosterstatninger for vektkontroll, med særlig vekt på kostfiber. Alle ingredienser som brukes ved framstilling av totale kosterstatninger for
+   vektkontroll, bør være egnet for friske voksne med overvekt eller fedme, og egnetheten bør om nødvendig være dokumentert gjennom relevante studier. Driftsansvarlige for næringsmiddelforetak har ansvar for å dokumentere at en ingrediens er egnet, og vedkommende nasjonale myndigheter har ansvaret for i hvert enkelt tilfelle å vurdere om dette stemmer.
+6. Totale kosterstatninger for vektkontroll må være i samsvar med europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*).4 For å ta hensyn til de særlige egenskapene ved totale kosterstatninger for vektkontroll bør det fastsettes tillegg til og unntak fra disse alminnelige reglene dersom det er relevant.
+7. Det er avgjørende at totale kosterstatninger for vektkontroll er forsynt med næringsdeklarasjon, for å garantere at de brukes korrekt av både friske voksne med overvekt eller fedme som konsumerer disse næringsmidlene, og av helsepersonell som kan gi råd om deres egnethet i visse tilfeller. For å gi mer fullstendig informasjon bør næringsdeklarasjonen derfor inneholde flere opplysninger enn dem som kreves i henhold til forordning [(EU) nr. 1169/2011](eu/32011r1169*). Dessuten bør det være obligatorisk å forsyne alle totale kosterstatninger for vektkontroll med næringsdeklarasjon, uavhengig av emballasjens eller beholderens størrelse, og unntaket fastsatt i nr. 18 i vedlegg V til forordning [(EU) nr. 1169/2011](eu/32011r1169*) bør derfor ikke gjelde.
+8. For å gi egnede opplysninger og gjøre det lettere å sammenligne produkter bør næringsdeklarasjonen for totale kosterstatninger for vektkontroll angis per porsjon og/eller per forbruksenhet samt per hel dagsrasjon. Dessuten bør disse opplysningene vise til det bruksklare produktet etter tilberedning i samsvar med produsentens anvisninger.
+9. I artikkel 30 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) er det oppført et begrenset antall næringsstoffer som på frivillig grunnlag kan angis i næringsdeklarasjonen for næringsmidler. I vedlegget til forordning [(EU) nr. 609/2013](eu/32013r0609) er det oppført en rekke stoffer som kan tilsettes i totale kosterstatninger for vektkontroll, hvorav noen ikke omfattes av artikkel 30 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*). For å sikre juridisk klarhet bør det fastsettes uttrykkelig at næringsdeklarasjonen for totale kosterstatninger for vektkontroll kan omfatte slike stoffer. I tillegg kan mer detaljert informasjon om produktets innhold av karbohydrater og fett i visse tilfeller være nyttig for forbrukere og helsepersonell. Driftsansvarlige for næringsmiddelforetak bør derfor kunne gi slik informasjon på frivillig grunnlag.
+10. Friske voksne med overvekt eller fedme kan ha andre ernæringsbehov enn den allmenne befolkningen. Dessuten er totale kosterstatninger for vektkontroll næringsmidler som helt erstatter den daglige kosten. På denne bakgrunn vil det være villedende for forbrukerne at energiinnhold og mengde næringsstoffer i totale kosterstatninger for vektkontroll angis som en prosentandel av referanseverdiene for daglig inntak fastsatt i forordning [(EU) nr. 1169/2011](eu/32011r1169*), og slik angivelse bør derfor ikke være tillatt.
+11. Opplysninger om «svært lavt» eller «lavt» kaloriinnhold i totale kosterstatninger for vektkontroll kan være nyttige for forbrukerne. Det er derfor hensiktsmessig å fastsette regler om slike frivillige opplysninger.
+12. Ernærings- og helsepåstander er markedsføringsverktøy som brukes på frivillig grunnlag av driftsansvarlige for næringsmiddelforetak i kommersiell kommunikasjon, i samsvar med reglene i europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*).5 Med tanke på den særlige rollen som totale kosterstatninger for vektkontroll har i kostholdet til mennesker som konsumerer dem, bør bruk av ernærings- og helsepåstander ikke være tillatt for slike produkter. Tatt i betraktning at informasjon om innhold av kostfiber i totale kosterstatninger for vektkontroll kan være nyttig for forbrukerne, bør ernæringspåstander om tilsatt kostfiber være tillatt på visse vilkår.
+13. I henhold til direktiv [96/8/EF](eu/31996l0008) var det påkrevd å tilsette kostfiber i totale kosterstatninger for vektkontroll. På grunn av mangel på vitenskapelig dokumentasjon kunne Myndigheten ikke fastsette et minsteinnhold av kostfiber i sin seneste uttalelse. Derfor er det hensiktsmessig å beholde det minsteinnholdet av kostfiber som kreves i henhold til direktiv [96/8/EF](eu/31996l0008), dersom det tilsettes i totale kosterstatninger for vektkontroll.
+14. I henhold til artikkel 17 nr. 2 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)6 skal medlemsstatene håndheve næringsmiddelregelverket og overvåke og kontrollere at driftsansvarlige for næringsmiddel- og fôrforetak oppfyller kravene i alle ledd i produksjon, bearbeiding og distribusjon. I den forbindelse, for å gjøre det lettere å føre effektiv offentlig kontroll med totale kosterstatninger for vektkontroll, bør driftsansvarlige for næringsmiddelforetak som bringer slike produkter i omsetning, framlegge for vedkommende nasjonale myndigheter en modell av etiketten som brukes, samt all relevant informasjon som vedkommende myndigheter finner nødvendig for å verifisere samsvar med denne forordning, med mindre medlemsstatene har et annet effektivt kontrollsystem.
+15. For å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse seg de nye kravene, som kan innebære teknisk tilpasning av produksjonsprosessen for de aktuelle produktene, bør denne forordning få anvendelse fem år etter ikrafttredelsen.
 
 1 EUT L 181 av 29.6.2013, s. 35.
 
@@ -2491,7 +2855,11 @@ VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Formål
 
-I denne forordning fastsettes følgende særlige krav med hensyn til totale kosterstatninger for vektkontroll:Krav til sammensetning.Krav til merking, presentasjon og reklame.Krav til underretning når produktet bringes i omsetning.
+I denne forordning fastsettes følgende særlige krav med hensyn til totale kosterstatninger for vektkontroll:
+
+1. Krav til sammensetning.
+2. Krav til merking, presentasjon og reklame.
+3. Krav til underretning når produktet bringes i omsetning.
 
 ### Artikkel 2. Omsetning
 
@@ -2509,7 +2877,16 @@ I denne forordning fastsettes følgende særlige krav med hensyn til totale kost
 
 ### Artikkel 4. Særlige krav med hensyn til næringsmiddelopplysninger
 
-1\. I tillegg til de obligatoriske opplysningene oppført i artikkel 9 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal totale kosterstatninger for vektkontroll ha følgende ytterligere obligatoriske opplysninger:Opplysning om at produktet bare er beregnet på friske voksne med overvekt eller fedme som har til hensikt å oppnå vektreduksjon.Opplysning om at produktet ikke bør brukes av gravide eller ammende kvinner, av ungdom eller av personer med en medisinsk tilstand, uten råd fra helsepersonell.Opplysning om at det er viktig å opprettholde et tilstrekkelig daglig væskeinntak.Opplysning om at produktet gir tilstrekkelige daglige mengder av alle vesentlige næringsstoffer når det brukes i samsvar med bruksanvisningen.Opplysning om at produktet ikke bør brukes i mer enn åtte uker, eller gjentatte ganger i kortere perioder, av friske voksne med overvekt eller fedme uten råd fra en helsepersonell.Dersom det er relevant, anvisninger om riktig tilberedning og opplysning om at det er viktig å følge disse anvisningene.Dersom et produkt gir et daglig inntak av polyoler på over 20 gram når det brukes etter produsentens anvisninger, opplysning om at det kan ha avførende virkning.Dersom produktet ikke er tilsatt kostfiber, opplysning om at det må søkes råd fra helsepersonell når det gjelder muligheten for å ta kostfiber som supplement til produktet.
+1\. I tillegg til de obligatoriske opplysningene oppført i artikkel 9 nr. 1 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal totale kosterstatninger for vektkontroll ha følgende ytterligere obligatoriske opplysninger:
+
+1. Opplysning om at produktet bare er beregnet på friske voksne med overvekt eller fedme som har til hensikt å oppnå vektreduksjon.
+2. Opplysning om at produktet ikke bør brukes av gravide eller ammende kvinner, av ungdom eller av personer med en medisinsk tilstand, uten råd fra helsepersonell.
+3. Opplysning om at det er viktig å opprettholde et tilstrekkelig daglig væskeinntak.
+4. Opplysning om at produktet gir tilstrekkelige daglige mengder av alle vesentlige næringsstoffer når det brukes i samsvar med bruksanvisningen.
+5. Opplysning om at produktet ikke bør brukes i mer enn åtte uker, eller gjentatte ganger i kortere perioder, av friske voksne med overvekt eller fedme uten råd fra en helsepersonell.
+6. Dersom det er relevant, anvisninger om riktig tilberedning og opplysning om at det er viktig å følge disse anvisningene.
+7. Dersom et produkt gir et daglig inntak av polyoler på over 20 gram når det brukes etter produsentens anvisninger, opplysning om at det kan ha avførende virkning.
+8. Dersom produktet ikke er tilsatt kostfiber, opplysning om at det må søkes råd fra helsepersonell når det gjelder muligheten for å ta kostfiber som supplement til produktet.
 
 2\. Når de obligatoriske opplysningene nevnt i nr. 1 angis på emballasjen eller en etikett festet til emballasjen, skal de angis på en slik måte at de oppfyller kravene fastsatt i artikkel 13 nr. 2 og 3 i forordning [(EU) nr. 1169/2011](eu/32011r1169*).
 
@@ -2521,7 +2898,11 @@ I denne forordning fastsettes følgende særlige krav med hensyn til totale kost
 
 Den obligatoriske næringsdeklarasjonen for totale kosterstatninger for vektkontroll skal også angi mengden av kolin og, dersom det er tilsatt, kostfiber.
 
-2\. I tillegg til opplysningene nevnt i artikkel 30 nr. 2 bokstav a)–e) i forordning [(EU) nr. 1169/2011](eu/32011r1169*) kan den obligatoriske næringsdeklarasjonen for totale kosterstatninger for vektkontroll inneholde opplysninger om følgende:Mengden av bestanddeler av fett og karbohydrater.Mengden av ethvert av stoffene oppført i vedlegget til forordning [(EU) nr. 609/2013](eu/32013r0609), dersom en slik betegnelse ikke er omfattet av nr. 1 i denne artikkel.Mengden av eventuelle stoffer som er tilsatt i produktet i samsvar med artikkel 3 nr. 3.
+2\. I tillegg til opplysningene nevnt i artikkel 30 nr. 2 bokstav a)–e) i forordning [(EU) nr. 1169/2011](eu/32011r1169*) kan den obligatoriske næringsdeklarasjonen for totale kosterstatninger for vektkontroll inneholde opplysninger om følgende:
+
+1. Mengden av bestanddeler av fett og karbohydrater.
+2. Mengden av ethvert av stoffene oppført i vedlegget til forordning [(EU) nr. 609/2013](eu/32013r0609), dersom en slik betegnelse ikke er omfattet av nr. 1 i denne artikkel.
+3. Mengden av eventuelle stoffer som er tilsatt i produktet i samsvar med artikkel 3 nr. 3.
 
 3\. Som unntak fra artikkel 30 nr. 3 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) skal opplysningene i den obligatoriske næringsdeklarasjonen for totale kosterstatninger for vektkontroll ikke gjentas på merkingen.
 

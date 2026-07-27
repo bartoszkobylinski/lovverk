@@ -26,7 +26,13 @@ eu_basis: []
 
 Det er forbudt å holde, avle eller innføre farlige hunder, eller å innføre sæd eller embryo fra farlige hunder.
 
-Hunder av følgende typer, og blandinger der en eller flere av disse er med, anses som farlige hunder, uansett blandingsforhold:Pitbullterrier,amerikansk staffordshire terrier,fila brasileiro,toso inu,dogo argentino.
+Hunder av følgende typer, og blandinger der en eller flere av disse er med, anses som farlige hunder, uansett blandingsforhold:
+
+1. Pitbullterrier,
+2. amerikansk staffordshire terrier,
+3. fila brasileiro,
+4. toso inu,
+5. dogo argentino.
 
 Som farlige hunder anses også hunder og hundetyper som er en blanding av hund og ulv, uansett blandingsforhold. For hunderaser med opprinnelig blanding av ulv som er registrert i Norge av Norsk Kennel Klub 1. januar 2003, gjelder første punktum bare for tsjekkoslovakisk ulvehund. Hvis ulv er iblandet rasen etter den internasjonale raseetableringen, gjelder første punktum for hunder som kan være etterkommere etter denne ulven.
 
@@ -44,7 +50,10 @@ Dersom ikke fremlagt bevis fjerner tvilen på stedet, regnes hunden som en farli
 
 Hunder som omfattes av [§ 1](forskrift/2004-08-20-1204/§1) annet ledd og tsjekkoslovakisk ulvehund kan beholdes dersom de var lovlig avlet, innført eller holdt før forskriften her ble vedtatt. Hund som kan beholdes kan også tilbakeføres til landet etter utenlandsreiser.
 
-Det gjelder følgende vilkår for å kunne beholde disse hundene:hundene kan ikke brukes i avl, selges eller omplasseres,hundene skal bære identitetsmerke som knytter hunden til et registreringsbevis som opplyser om eierens navn og adresse og viser at hunden er avlet, innført eller holdt før forskriften her ble vedtatt.
+Det gjelder følgende vilkår for å kunne beholde disse hundene:
+
+1. hundene kan ikke brukes i avl, selges eller omplasseres,
+2. hundene skal bære identitetsmerke som knytter hunden til et registreringsbevis som opplyser om eierens navn og adresse og viser at hunden er avlet, innført eller holdt før forskriften her ble vedtatt.
 
 Blir ett av vilkårene overtrådt eller en slik hund angriper mennesker, gjelder ikke lenger [§ 3](forskrift/2004-08-20-1204/§3) for denne hunden.
 

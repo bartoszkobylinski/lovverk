@@ -15,7 +15,7 @@ xml_hash: "f21325d9e38396fb3a9ee9138f982efce9a0ccd53a74a54c1ba43d4f4bceba51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,15 @@ Med æresmotivert vold menes i denne loven vold i nære relasjoner, frihetsberø
 
 ## § 3. Særskilt innsats mot negativ sosial kontroll og æresmotivert vold
 
-Følgende grupper kan yte en særskilt innsats for å forebygge og hindre negativ sosial kontroll og æresmotivert vold og gi bistand til utsatte personer:et nasjonalt tverretatlig kompetanseteam somgir veiledning til ansatte i tjenesteapparatet, frivillige organisasjoner og andre aktørergir veiledning og annen bistand til personer som er, eller står i fare for å bli, utsatt for negativ sosial kontroll eller æresmotivert voldadministrerer og koordinerer tilskuddsordninger og støttetilbud for personer som nevnt i nr. 2.rådgivere som har særlig kompetanse om negativ sosial kontroll og æresmotivert vold, og som er utplassert ved skoler eller andre opplæringssentre og som gir råd, veiledning og bistand til personer som er, eller står i fare for å bli, utsatt for negativ sosial kontroll eller æresmotivert vold.spesialutsendinger for integreringssaker ved utvalgte norske utenriksstasjoner som gir råd, veiledning og bistand i saker om negativ sosial kontroll eller æresmotivert vold.
+Følgende grupper kan yte en særskilt innsats for å forebygge og hindre negativ sosial kontroll og æresmotivert vold og gi bistand til utsatte personer:
+
+1. et nasjonalt tverretatlig kompetanseteam som
+
+   1. gir veiledning til ansatte i tjenesteapparatet, frivillige organisasjoner og andre aktører
+   2. gir veiledning og annen bistand til personer som er, eller står i fare for å bli, utsatt for negativ sosial kontroll eller æresmotivert vold
+   3. administrerer og koordinerer tilskuddsordninger og støttetilbud for personer som nevnt i nr. 2.
+2. rådgivere som har særlig kompetanse om negativ sosial kontroll og æresmotivert vold, og som er utplassert ved skoler eller andre opplæringssentre og som gir råd, veiledning og bistand til personer som er, eller står i fare for å bli, utsatt for negativ sosial kontroll eller æresmotivert vold.
+3. spesialutsendinger for integreringssaker ved utvalgte norske utenriksstasjoner som gir råd, veiledning og bistand i saker om negativ sosial kontroll eller æresmotivert vold.
 
 Departementet kan gi forskrift om oppgavene som nevnt i første ledd og hvilke offentlige organer som utfører oppgavene, og om tilskuddsordninger, støttetilbud og annen bistand for personer i målgruppen for den særskilte innsatsen.
 

@@ -48,7 +48,22 @@ Forskriften gjelder ikke på Svalbard, på installasjoner og fartøy i virksomhe
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*Universell utforming:* Utforming eller tilrettelegging av hovedløsningen i informasjons- og kommunikasjonsteknologi slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig.*Informasjons- og kommunikasjonsteknologi (IKT):* Teknologi og systemer av teknologi som anvendes til å uttrykke, skape, omdanne, utveksle, lagre, mangfoldiggjøre og publisere informasjon, eller som på annen måte gjør informasjon anvendbar.*Automat:* Maskin eller annen innretning som brukeren opererer alene for å kjøpe en vare eller få utført en tjeneste.*Nettløsning:* Formidling av informasjon eller tjeneste som er tilgjengelig i nettleser eller tilsvarende, tilgjengelig via en URI (Uniform Resource Identifier) og som benytter http-protokollen (Hypertext Transfer Protocol) eller tilsvarende for å tilgjengeliggjøre innhold.*Digitale læremidler:* Nettbaserte redskaper som kan brukes i det pedagogiske arbeidet, og som er utviklet med hensikt å støtte læringsaktiviteter.*Mobilapplikasjon:* Brukerprogramvare som utformes og utvikles for bruk på mobile enheter rettet mot allmennheten, som smarttelefoner og nettbrett. Dette omfatter ikke programvare som styrer enhetene (operativsystem) eller maskinvare.*Hovedløsning:* IKT-løsninger som er en integrert del av den måten virksomheten informerer og tilbyr sine tjenester til allmennheten på og som er knyttet til virksomhetens alminnelige funksjon. Hovedløsning i utdannings- og opplæringssektoren: nettløsninger som er en integrert del av virksomhetens undervisning eller informasjonsformidling, og som virksomheten har innflytelse over.*Tidsbaserte media:* Omfatter media av følgende typer: kun lyd, kun video, lyd-video, lyd og/eller video kombinert med interaksjon.*Gjenstander fra kulturhistoriske samlinger:* Privat eller offentlig eide gjenstander som presenterer en historisk, kunstnerisk, arkeologisk, estetisk, vitenskapelig eller teknisk interesse, og som er en del av samlinger bevart av kulturinstitusjoner som biblioteker, arkiver eller museer.*Intranett og ekstranett:* Nettsteder som er tilgjengelig på et lokalt nettverk eller på det åpne internett til bruk for virksomhetens ansatte (intranett), eller som gir utvalgte tredjeparter adgang til avgrenset innhold (ekstranett).*Måledata:* Resultater fra kontrollaktiviteten som utføres for å kontrollere at kravene i [§ 4b](forskrift/2013-06-21-732/§4b) overholdes. Måledata omfatter både kvantitative opplysninger om nettsteder og mobilapplikasjoner som er testet (antall nettsteder og mobilapplikasjoner eventuelt med antall av besøkende eller brukere, mv.) og kvantitative opplysninger om status for universell utforming.*Ny IKT-løsning:* Total utskifting av en teknisk løsning, versjonsoppgradering, utskifting eller større endring av kildekode og større endring av utseende eller utforming. Gradvise endringer over tid som til sammen utgjør en endring som nevnt i denne bokstav, kan også regnes som ny IKT-løsning.*Brukergrensesnitt:* Møtepunktet mellom menneske og maskin, og den delen av maskinen brukeren kommer i direkte kontakt med, herunder fysisk maskinvare og logiske programvarekomponenter.*Standard:* Normativt dokument, herunder spesifikasjoner, retningslinjer og veiledninger. Med standard menes også standard vedtatt etter forordning [(EU) nr. 1025/2012](eu/32012r1025) [artikkel 2](eu/32012r1025/a2) (1) bokstav b og c.
+I denne forskriften menes med:
+
+1. *Universell utforming:* Utforming eller tilrettelegging av hovedløsningen i informasjons- og kommunikasjonsteknologi slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig.
+2. *Informasjons- og kommunikasjonsteknologi (IKT):* Teknologi og systemer av teknologi som anvendes til å uttrykke, skape, omdanne, utveksle, lagre, mangfoldiggjøre og publisere informasjon, eller som på annen måte gjør informasjon anvendbar.
+3. *Automat:* Maskin eller annen innretning som brukeren opererer alene for å kjøpe en vare eller få utført en tjeneste.
+4. *Nettløsning:* Formidling av informasjon eller tjeneste som er tilgjengelig i nettleser eller tilsvarende, tilgjengelig via en URI (Uniform Resource Identifier) og som benytter http-protokollen (Hypertext Transfer Protocol) eller tilsvarende for å tilgjengeliggjøre innhold.
+5. *Digitale læremidler:* Nettbaserte redskaper som kan brukes i det pedagogiske arbeidet, og som er utviklet med hensikt å støtte læringsaktiviteter.
+6. *Mobilapplikasjon:* Brukerprogramvare som utformes og utvikles for bruk på mobile enheter rettet mot allmennheten, som smarttelefoner og nettbrett. Dette omfatter ikke programvare som styrer enhetene (operativsystem) eller maskinvare.
+7. *Hovedløsning:* IKT-løsninger som er en integrert del av den måten virksomheten informerer og tilbyr sine tjenester til allmennheten på og som er knyttet til virksomhetens alminnelige funksjon. Hovedløsning i utdannings- og opplæringssektoren: nettløsninger som er en integrert del av virksomhetens undervisning eller informasjonsformidling, og som virksomheten har innflytelse over.
+8. *Tidsbaserte media:* Omfatter media av følgende typer: kun lyd, kun video, lyd-video, lyd og/eller video kombinert med interaksjon.
+9. *Gjenstander fra kulturhistoriske samlinger:* Privat eller offentlig eide gjenstander som presenterer en historisk, kunstnerisk, arkeologisk, estetisk, vitenskapelig eller teknisk interesse, og som er en del av samlinger bevart av kulturinstitusjoner som biblioteker, arkiver eller museer.
+10. *Intranett og ekstranett:* Nettsteder som er tilgjengelig på et lokalt nettverk eller på det åpne internett til bruk for virksomhetens ansatte (intranett), eller som gir utvalgte tredjeparter adgang til avgrenset innhold (ekstranett).
+11. *Måledata:* Resultater fra kontrollaktiviteten som utføres for å kontrollere at kravene i [§ 4b](forskrift/2013-06-21-732/§4b) overholdes. Måledata omfatter både kvantitative opplysninger om nettsteder og mobilapplikasjoner som er testet (antall nettsteder og mobilapplikasjoner eventuelt med antall av besøkende eller brukere, mv.) og kvantitative opplysninger om status for universell utforming.
+12. *Ny IKT-løsning:* Total utskifting av en teknisk løsning, versjonsoppgradering, utskifting eller større endring av kildekode og større endring av utseende eller utforming. Gradvise endringer over tid som til sammen utgjør en endring som nevnt i denne bokstav, kan også regnes som ny IKT-løsning.
+13. *Brukergrensesnitt:* Møtepunktet mellom menneske og maskin, og den delen av maskinen brukeren kommer i direkte kontakt med, herunder fysisk maskinvare og logiske programvarekomponenter.
+14. *Standard:* Normativt dokument, herunder spesifikasjoner, retningslinjer og veiledninger. Med standard menes også standard vedtatt etter forordning [(EU) nr. 1025/2012](eu/32012r1025) [artikkel 2](eu/32012r1025/a2) (1) bokstav b og c.
 
 > Endret ved [forskrifter 13 sep 2017 nr. 1417](forskrift/2017-09-13-1417) (i kraft 1 jan 2018), [21 des 2021 nr. 3939](forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).
 
@@ -80,13 +95,34 @@ Offentlige virksomheter skal oppfylle forskriftens krav til tilgjengelighetserkl
 
 ## § 4c. Unntak fra krav til universell utforming av nettløsninger
 
-Kravene til universell utforming gjelder ikke for følgende innhold:dokumentformater publisert før 1. februar 2022. Slike dokumentformater er likevel omfattet dersom dokumentet er nødvendig for en aktiv administrativ prosess som ledd i de oppgaver virksomheten ivaretar.direktesendte tidsbaserte medier.nettbaserte kart og karttjenester, så lenge vesentlig informasjon finnes på en tilgjengelig digital måte, for kart som er ment for navigasjonsformål.tredjepartsinnhold utenfor virksomhetens kontroll.reproduksjoner av kulturhistoriske gjenstander som ikke kan gjøres universelt utformet enten fordi:etterlevelse av kravene er uforenlig med gjenstandens bevaring eller autentisitet, ellerpå grunn av manglende kostnadseffektive automatiserte løsninger, som kan omdanne manuskripter eller annet innhold.innhold på nettsteder eller i mobilapplikasjoner som kvalifiserer som arkiver, det vil si at de bare har innhold som verken er nødvendig for aktive administrative prosesser eller er oppdatert eller redigert etter 1. februar 2022.
+Kravene til universell utforming gjelder ikke for følgende innhold:
+
+1. dokumentformater publisert før 1. februar 2022. Slike dokumentformater er likevel omfattet dersom dokumentet er nødvendig for en aktiv administrativ prosess som ledd i de oppgaver virksomheten ivaretar.
+2. direktesendte tidsbaserte medier.
+3. nettbaserte kart og karttjenester, så lenge vesentlig informasjon finnes på en tilgjengelig digital måte, for kart som er ment for navigasjonsformål.
+4. tredjepartsinnhold utenfor virksomhetens kontroll.
+5. reproduksjoner av kulturhistoriske gjenstander som ikke kan gjøres universelt utformet enten fordi:
+
+   1. etterlevelse av kravene er uforenlig med gjenstandens bevaring eller autentisitet, eller
+   2. på grunn av manglende kostnadseffektive automatiserte løsninger, som kan omdanne manuskripter eller annet innhold.
+6. innhold på nettsteder eller i mobilapplikasjoner som kvalifiserer som arkiver, det vil si at de bare har innhold som verken er nødvendig for aktive administrative prosesser eller er oppdatert eller redigert etter 1. februar 2022.
 
 > Tilføyd ved forskrift [21 des 2021 nr. 3939](forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel), endret ved forskrift [17 jan 2023 nr. 87](forskrift/2023-01-17-87) (i kraft 1 feb 2023, se endringsforskriften del II for overgangsregel).
 
 ## § 4d. Krav til universell utforming av automater i offentlige og private virksomheter
 
-Automater skal minst utformes i samsvar med følgende standarder, eller tilsvarende disse standarder:CEN/TS 15291:2006 – Identification Card Systems – Guidance on design for accessible card-activated devices.NS-EN 1332-1:2009 – Identification Card Systems – Human-machine interface – Part 1: Design principles for the user interface.NS-EN 1332-2:1998 – Identification Card Systems – Man-machine interface – Part 2: Dimensions and location of a tactile identifier for ID-1 cards.NS-EN 1332-3:2008 – Identification Card Systems – Man-machine interface – Part 3: Keypads.NS-EN 1332-4:2007 – Identification Card Systems: – Man-machine interface – Part 4: Coding of user requirements for people with special needs.NS-EN 1332-5:2006 – Identification Card Systems – Man-machine interface – Part 5: Raised tactile symbols for differentiation of application on ID-1 cards.NS-EN ISO 9241-20:2009 – Ergonomics of human-system interaction – Part 20: Accessibility guidelines for information/communication technology (ICT) equipment and services.ISO 20282-1:2006 – Ease of operation of everyday products – Part 1: Design requirements for context of use and user characteristics.ISO/TS 20282-2:2006 – Ease of operation of everyday products – Part 2: Test method for walk-up-and-use products.ISO/TR 22411:2008 – Ergonomics data and guidelines for the application of ISO/IEC Guide 71 to products and services to address the needs of older persons and persons with disabilities.
+Automater skal minst utformes i samsvar med følgende standarder, eller tilsvarende disse standarder:
+
+1. CEN/TS 15291:2006 – Identification Card Systems – Guidance on design for accessible card-activated devices.
+2. NS-EN 1332-1:2009 – Identification Card Systems – Human-machine interface – Part 1: Design principles for the user interface.
+3. NS-EN 1332-2:1998 – Identification Card Systems – Man-machine interface – Part 2: Dimensions and location of a tactile identifier for ID-1 cards.
+4. NS-EN 1332-3:2008 – Identification Card Systems – Man-machine interface – Part 3: Keypads.
+5. NS-EN 1332-4:2007 – Identification Card Systems: – Man-machine interface – Part 4: Coding of user requirements for people with special needs.
+6. NS-EN 1332-5:2006 – Identification Card Systems – Man-machine interface – Part 5: Raised tactile symbols for differentiation of application on ID-1 cards.
+7. NS-EN ISO 9241-20:2009 – Ergonomics of human-system interaction – Part 20: Accessibility guidelines for information/communication technology (ICT) equipment and services.
+8. ISO 20282-1:2006 – Ease of operation of everyday products – Part 1: Design requirements for context of use and user characteristics.
+9. ISO/TS 20282-2:2006 – Ease of operation of everyday products – Part 2: Test method for walk-up-and-use products.
+10. ISO/TR 22411:2008 – Ergonomics data and guidelines for the application of ISO/IEC Guide 71 to products and services to address the needs of older persons and persons with disabilities.
 
 > Tilføyd ved forskrift [21 des 2021 nr. 3939](forskrift/2021-12-21-3939) (i kraft 1 feb 2022, se endringsforskriften del II for overgangsregel).
 
@@ -96,7 +132,11 @@ Offentlige virksomheter skal avgi en tilgjengelighetserklæring om etterlevelse 
 
 Tilgjengelighetserklæringen skal være detaljert, uttømmende og tydelig. Tilgjengelighetserklæringen skal oppdateres regelmessig, og minimum årlig.
 
-Tilgjengelighetserklæringen skal inneholde:En forklaring av innhold som ikke er universelt utformet, og en begrunnelse for hvorfor innholdet ikke kan følge kravene, samt en beskrivelse av universelt utformede alternativer, der det finnes.En beskrivelse av, og lenke til en tilbakemeldingsfunksjon, hvor enhver kan varsle virksomheten om mangelfull etterlevelse av kravene i forskriftens [§ 4b](forskrift/2013-06-21-732/§4b).Lenke til håndhevingsprosedyren og informasjon om klagerett.
+Tilgjengelighetserklæringen skal inneholde:
+
+1. En forklaring av innhold som ikke er universelt utformet, og en begrunnelse for hvorfor innholdet ikke kan følge kravene, samt en beskrivelse av universelt utformede alternativer, der det finnes.
+2. En beskrivelse av, og lenke til en tilbakemeldingsfunksjon, hvor enhver kan varsle virksomheten om mangelfull etterlevelse av kravene i forskriftens [§ 4b](forskrift/2013-06-21-732/§4b).
+3. Lenke til håndhevingsprosedyren og informasjon om klagerett.
 
 For nettsteder skal tilgjengelighetserklæringen publiseres på virksomhetens nettsted.
 
@@ -160,7 +200,14 @@ Digitaliseringsdirektoratet kan etter søknad gi dispensasjon fra krav og friste
 
 Digitaliseringsdirektoratet skal årlig kontrollere at offentlige organers nettsteder og mobilapplikasjoner overholder kravene til universell utforming etter forskriftens [§ 4b](forskrift/2013-06-21-732/§4b).
 
-Kontrollene skal utføres i samsvar med metodikken fastsatt i [(EU) 2018/1524](eu/32018d1524) gjennomføringsbeslutning om kontrollmetode og rapportering. Metodikken omfatter:perioden for målingen og utvalget av nettsteder og mobilapplikasjoner som inngår i målingen,på nettstedsnivå: utvalget av enkeltsider og innholdet på disse sidene,på mobilapplikasjonsnivå: innholdet som skal testes, herunder versjon, tidspunkt for lansering og oppdateringer,en beskrivelse av brudd og samsvar med kravene til universell utforming med henvisning til relevante deler av gjeldende standard,dersom det avdekkes brudd med kravene skal offentlige organer få data og informasjon om etterlevelsen av kravene, i et format som setter de i stand til å rette opp bruddene,hensiktsmessige ordninger, herunder om nødvendig veiledning og eksempler om automatisk testing, manuell testing og brukertesting, som lar seg gjøre innenfor perioden for måling og rapportering.
+Kontrollene skal utføres i samsvar med metodikken fastsatt i [(EU) 2018/1524](eu/32018d1524) gjennomføringsbeslutning om kontrollmetode og rapportering. Metodikken omfatter:
+
+1. perioden for målingen og utvalget av nettsteder og mobilapplikasjoner som inngår i målingen,
+2. på nettstedsnivå: utvalget av enkeltsider og innholdet på disse sidene,
+3. på mobilapplikasjonsnivå: innholdet som skal testes, herunder versjon, tidspunkt for lansering og oppdateringer,
+4. en beskrivelse av brudd og samsvar med kravene til universell utforming med henvisning til relevante deler av gjeldende standard,
+5. dersom det avdekkes brudd med kravene skal offentlige organer få data og informasjon om etterlevelsen av kravene, i et format som setter de i stand til å rette opp bruddene,
+6. hensiktsmessige ordninger, herunder om nødvendig veiledning og eksempler om automatisk testing, manuell testing og brukertesting, som lar seg gjøre innenfor perioden for måling og rapportering.
 
 Det skal rapporteres til ESA hvert tredje år.
 

@@ -15,7 +15,7 @@ xml_hash: "049f4346a4a93af4868996fa231cc8865792dbfaf26dcf02a5e5c6ab169bbd8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,26 +42,47 @@ Fakultetet tildeler grader for de studieprogram fakultetet har det faglige og ad
 
 ### § 2-2. Utdanninger
 
-(1) OsloMet tildeler følgende grader:Høgskolekandidat, normert studietid 2 år.Bachelor, normert studietid 3 år.Master, normert studietid 1 ½–2 år.Master, normert studietid 5 år.Philosophiae doctor (ph.d.), normert studietid 3 år.Grunnskolelærer 1.–7. trinn og 5.–10. trinn, normert studietid 4 år, for studenter med oppstart før 2017.
+(1) OsloMet tildeler følgende grader:
+
+1. Høgskolekandidat, normert studietid 2 år.
+2. Bachelor, normert studietid 3 år.
+3. Master, normert studietid 1 ½–2 år.
+4. Master, normert studietid 5 år.
+5. Philosophiae doctor (ph.d.), normert studietid 3 år.
+6. Grunnskolelærer 1.–7. trinn og 5.–10. trinn, normert studietid 4 år, for studenter med oppstart før 2017.
 
 (2) OsloMet gir videreutdanninger som bygger på fullført høyere utdanning. Universitetet tilbyr også studier av kortere varighet.
 
 ### § 2-3. Bachelorgrad
 
-(1) Graden bachelor oppnås på grunnlag av utdanninger på 180 studiepoeng i ett av følgende studieløp:Studieprogram av 180 studiepoengs omfang i henhold til programplanen for studiet.Integrert utdanning, yrkesrettet utdanning eller annet studieprogram med omfang på minst 120 studiepoeng, med tillegg av emner eller emnegrupper på til sammen 60 studiepoeng, fastsatt i programplan for studiet. For utenlandske utdanninger eller i særlige tilfeller kan fakultetet også godkjenne andre emnekombinasjoner enn formelt fastsatte enheter på 60 studiepoeng. En slik kombinasjon skal i så fall utgjøre en naturlig faglig enhet.Selvvalgt bachelorløp, som skal bestå av en fordypningsenhet på minimum 90 studiepoeng og en breddeenhet på minimum 30. De to enhetene må være formelt fastsatt som avsluttede utdanninger, fag, emnegrupper eller studieprogram. Fordypningsenheten skal være en integrert utdanning eller fag, emnegruppe eller annet studieprogram som tilbys ved universitetet. Breddeenheten skal være fag, emnegruppe eller studieprogram. Inntil 30 studiepoeng av de resterende studiene som skal inngå i grunnlaget for bachelorgraden, kan bestå av frittstående emner eller emner fra andre studieprogram.Fullførte 3 første studieår (180 studiepoeng) av 4-årig grunnskolelærerutdanning etter forskrift om rammeplan. Fullførte 3 første studieår av 4-årig allmennlærerutdanning kan også utgjøre grunnlaget for en bachelorgrad.
+(1) Graden bachelor oppnås på grunnlag av utdanninger på 180 studiepoeng i ett av følgende studieløp:
+
+1. Studieprogram av 180 studiepoengs omfang i henhold til programplanen for studiet.
+2. Integrert utdanning, yrkesrettet utdanning eller annet studieprogram med omfang på minst 120 studiepoeng, med tillegg av emner eller emnegrupper på til sammen 60 studiepoeng, fastsatt i programplan for studiet. For utenlandske utdanninger eller i særlige tilfeller kan fakultetet også godkjenne andre emnekombinasjoner enn formelt fastsatte enheter på 60 studiepoeng. En slik kombinasjon skal i så fall utgjøre en naturlig faglig enhet.
+3. Selvvalgt bachelorløp, som skal bestå av en fordypningsenhet på minimum 90 studiepoeng og en breddeenhet på minimum 30. De to enhetene må være formelt fastsatt som avsluttede utdanninger, fag, emnegrupper eller studieprogram. Fordypningsenheten skal være en integrert utdanning eller fag, emnegruppe eller annet studieprogram som tilbys ved universitetet. Breddeenheten skal være fag, emnegruppe eller studieprogram. Inntil 30 studiepoeng av de resterende studiene som skal inngå i grunnlaget for bachelorgraden, kan bestå av frittstående emner eller emner fra andre studieprogram.
+4. Fullførte 3 første studieår (180 studiepoeng) av 4-årig grunnskolelærerutdanning etter forskrift om rammeplan. Fullførte 3 første studieår av 4-årig allmennlærerutdanning kan også utgjøre grunnlaget for en bachelorgrad.
 
 (2) I grunnlaget for bachelorgraden skal det inngå et selvstendig arbeid av minimum 15 studiepoengs omfang. Arbeidet kan være av teoretisk, praktisk eller kunstnerisk art og kan være utført individuelt eller i gruppe.
 
 ### § 2-4. Tilleggsbetegnelse for graden bachelor
 
-For oppnådd bachelorgrad angis gradens faglige innhold (tilleggsbetegnelsen) på vitnemål som følger:For bachelorgrad etter denne forskrift [§ 2-3](forskrift/2023-06-15-1310/§2-3) første ledd bokstav a: enten:
-«bachelor i \*betegnelse på fagområde eller studieprogram i henhold til programplan\*», eventuelt med ytterligere tilleggsangivelse av linje, studieretning eller liknende, eller «bachelor – \*betegnelse på lærerutdanning i henhold til forskrift om rammeplan for den aktuelle lærerutdanningen\*».For bachelorgrad etter denne forskrift [§ 2-3](forskrift/2023-06-15-1310/§2-3) første ledd bokstav b: «bachelor i \*betegnelse på studieprogram i henhold til programplan\*».For bachelorgrad etter denne forskrift [§ 2-3](forskrift/2023-06-15-1310/§2-3) bokstav c: «bachelor i \*betegnelse på faglig hovedområde som den faglige fordypningen på minimum 90 studiepoeng defineres inn under\*» som følger:
-enten «bachelor i helsefag» eller «bachelor i kultur- og samfunnsfag» eller «bachelor i tekniske fag».For bachelorgrad etter denne forskrift [§ 2-3](forskrift/2023-06-15-1310/§2-3) første ledd bokstav d:
-enten «bachelor i grunnskolefag 1.–7. trinn» eller «bachelor i grunnskolefag 5.–10. trinn» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig grunnskolelærerutdanning på respektive studieretning eller «bachelor i grunnskolens undervisningsfag» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig allmennlærerutdanning.
+For oppnådd bachelorgrad angis gradens faglige innhold (tilleggsbetegnelsen) på vitnemål som følger:
+
+1. For bachelorgrad etter denne forskrift [§ 2-3](forskrift/2023-06-15-1310/§2-3) første ledd bokstav a: enten:
+   «bachelor i \*betegnelse på fagområde eller studieprogram i henhold til programplan\*», eventuelt med ytterligere tilleggsangivelse av linje, studieretning eller liknende, eller «bachelor – \*betegnelse på lærerutdanning i henhold til forskrift om rammeplan for den aktuelle lærerutdanningen\*».
+2. For bachelorgrad etter denne forskrift [§ 2-3](forskrift/2023-06-15-1310/§2-3) første ledd bokstav b: «bachelor i \*betegnelse på studieprogram i henhold til programplan\*».
+3. For bachelorgrad etter denne forskrift [§ 2-3](forskrift/2023-06-15-1310/§2-3) bokstav c: «bachelor i \*betegnelse på faglig hovedområde som den faglige fordypningen på minimum 90 studiepoeng defineres inn under\*» som følger:
+   enten «bachelor i helsefag» eller «bachelor i kultur- og samfunnsfag» eller «bachelor i tekniske fag».
+4. For bachelorgrad etter denne forskrift [§ 2-3](forskrift/2023-06-15-1310/§2-3) første ledd bokstav d:
+   enten «bachelor i grunnskolefag 1.–7. trinn» eller «bachelor i grunnskolefag 5.–10. trinn» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig grunnskolelærerutdanning på respektive studieretning eller «bachelor i grunnskolens undervisningsfag» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig allmennlærerutdanning.
 
 ### § 2-5. Mastergrad
 
-(1) De generelle krav til mastergrad er fastsatt i [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392). Graden tildeles for:mastergrad av 120 studiepoengs omfang.integrert mastergrad av 300 studiepoengs omfang.erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang.
+(1) De generelle krav til mastergrad er fastsatt i [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392). Graden tildeles for:
+
+1. mastergrad av 120 studiepoengs omfang.
+2. integrert mastergrad av 300 studiepoengs omfang.
+3. erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang.
 
 (2) I mastergrad etter bokstav a og c skal det inngå et selvstendig arbeid, masteroppgave, av et omfang på minimum 30 studiepoeng. I mastergrad etter bokstav b skal det inngå et selvstendig arbeid, masteroppgave, av et omfang på minimum 20 studiepoeng.
 
@@ -182,7 +203,10 @@ For oppnådd grad som høgskolekandidat angis graden normalt som «høgskolekand
 
 (1) Studenten har rett til permisjon fra studiene ved svangerskap, adopsjon, omsorg for barn, ved tjeneste etter [forsvarsloven § 17](lov/2016-08-12-77/§17), verv i studentpolitiske organer og når det foreligger andre særlige grunner. Studentene skal innvilges permisjon så lenge behovet tilsier det.
 
-(2) Studenten kan også av øvrige grunner søke om permisjon fra studiene i inntil ett år. Studenten bør da:det siste studieåret ha avlagt minimum 30 studiepoeng.ha avlagt minimum 60 studiepoeng siden forrige permisjon.
+(2) Studenten kan også av øvrige grunner søke om permisjon fra studiene i inntil ett år. Studenten bør da:
+
+1. det siste studieåret ha avlagt minimum 30 studiepoeng.
+2. ha avlagt minimum 60 studiepoeng siden forrige permisjon.
 
 (3) Student med innvilget permisjon har fortsatt studierett og rett til å gå opp til eksamen. For å gå opp til eksamen må studenten være semesterregistrert, ha betalt semesteravgift og oppfylle vilkårene for å gå opp til eksamen etter forskriftens [§ 6-3](forskrift/2023-06-15-1310/§6-3) og [§ 6-4](forskrift/2023-06-15-1310/§6-4).
 
@@ -192,7 +216,16 @@ For oppnådd grad som høgskolekandidat angis graden normalt som «høgskolekand
 
 ### § 4-4. Tap av studierett
 
-(1) Studenten kan miste studieretten på et studium i følgende tilfeller:Studenten har ikke betalt semesteravgift eller annen avgift fastsatt i samsvar med [forskrift om egenbetaling ved universiteter og høyskoler](forskrift/2005-12-15-1506).Studenten gjør ikke de handlinger som er beskrevet i [§ 4-1](forskrift/2023-06-15-1310/§4-1) andre ledd, der det er krav om det.Studenten har overskredet den fastsatte grensen for normert tid med eventuelt tillegg i tid, jf. [§ 4-2](forskrift/2023-06-15-1310/§4-2) 2. ledd.Studenten har ikke avlagt eller bestått eksamen i henhold til utdanningsplan det siste studieåret, uten å ha vært i permisjon.Studenten har brukt opp antall forsøk til eksamen eller praksisstudier i henhold til bestemmelser i programplan og denne forskrift.Studenten har fått opptak på grunnlag av falsk eller forfalsket dokumentasjon.Studenten underveis i studiet mister autorisasjon som var en del av opptakskravene.Studenter med opptak på visse vilkår som ikke fyller opptakskravene innen den fastsette fristen.
+(1) Studenten kan miste studieretten på et studium i følgende tilfeller:
+
+1. Studenten har ikke betalt semesteravgift eller annen avgift fastsatt i samsvar med [forskrift om egenbetaling ved universiteter og høyskoler](forskrift/2005-12-15-1506).
+2. Studenten gjør ikke de handlinger som er beskrevet i [§ 4-1](forskrift/2023-06-15-1310/§4-1) andre ledd, der det er krav om det.
+3. Studenten har overskredet den fastsatte grensen for normert tid med eventuelt tillegg i tid, jf. [§ 4-2](forskrift/2023-06-15-1310/§4-2) 2. ledd.
+4. Studenten har ikke avlagt eller bestått eksamen i henhold til utdanningsplan det siste studieåret, uten å ha vært i permisjon.
+5. Studenten har brukt opp antall forsøk til eksamen eller praksisstudier i henhold til bestemmelser i programplan og denne forskrift.
+6. Studenten har fått opptak på grunnlag av falsk eller forfalsket dokumentasjon.
+7. Studenten underveis i studiet mister autorisasjon som var en del av opptakskravene.
+8. Studenter med opptak på visse vilkår som ikke fyller opptakskravene innen den fastsette fristen.
 
 (2) Fakultetet fatter vedtak om tap av studierett. Avdeling for utdanning kan også fatte vedtak om tap av studierett etter bokstav a.
 
@@ -220,7 +253,12 @@ For oppnådd grad som høgskolekandidat angis graden normalt som «høgskolekand
 
 (1) Studenten kan få resultatet «ikke bestått» etter en faglig vurdering, jf. [§ 5-1](forskrift/2023-06-15-1310/§5-1) (1).
 
-(2) Studenten kan få resultatet «ikke bestått», uten at det er gitt skriftlig varsel på forhånd dersom:studenten ikke oppfyller kravet til tilstedeværelse eller oppmøte.der studenten ikke får mulighet til å fullføre praksisperioden på grunn av forhold som skyldes studenten selv.studenten mot slutten av praksisperioden viser handling eller atferd som utvilsomt gir grunnlag for å ikke bestå praksisstudiet.studentens praksisperiode er av kortere varighet, jf. [§ 5-1](forskrift/2023-06-15-1310/§5-1) (3).
+(2) Studenten kan få resultatet «ikke bestått», uten at det er gitt skriftlig varsel på forhånd dersom:
+
+1. studenten ikke oppfyller kravet til tilstedeværelse eller oppmøte.
+2. der studenten ikke får mulighet til å fullføre praksisperioden på grunn av forhold som skyldes studenten selv.
+3. studenten mot slutten av praksisperioden viser handling eller atferd som utvilsomt gir grunnlag for å ikke bestå praksisstudiet.
+4. studentens praksisperiode er av kortere varighet, jf. [§ 5-1](forskrift/2023-06-15-1310/§5-1) (3).
 
 (3) Dersom det foreligger en faglig vurdering med karakteren «ikke bestått», kan et utvalg oppnevnt av fakultet stadfeste eller annullere karakteren.
 
@@ -406,7 +444,15 @@ Studenten kan klage over formelle feil i samsvar med [universitets- og høyskole
 
 (1) Fusk på eksamen kan medføre utestengelse og annullering av eksamen eller obligatorisk aktivitet.
 
-(2) Som fusk eller forsøk på fusk regnes blant annet:å ha ulovlig hjelpemiddel tilgjengelig under eksamen eller obligatorisk aktivitetå presentere andres arbeid som sitt egetå sitere eller gjenbruke egne tidligere innleverte arbeider som har gitt uttelling uten tilstrekkelig kildehenvisning. Arbeider som har gitt uttelling vil si arbeider som enten har gitt studenten en rett til å gå opp til eksamen eller resultert i studiepoeng. Gjenbruk av egne tidligere arbeider som har gitt uttelling, kan tillates dersom dette følger av programplan eller emneplan.å sitere eller på annen måte benytte kilder uten tilstrekkelig kildehenvisning.ulovlig samarbeid med andreå handle i strid med gjeldende retningslinjer eller regelverk for den enkelte obligatoriske aktivitet eller eksamen.å medvirke til fusk.
+(2) Som fusk eller forsøk på fusk regnes blant annet:
+
+1. å ha ulovlig hjelpemiddel tilgjengelig under eksamen eller obligatorisk aktivitet
+2. å presentere andres arbeid som sitt eget
+3. å sitere eller gjenbruke egne tidligere innleverte arbeider som har gitt uttelling uten tilstrekkelig kildehenvisning. Arbeider som har gitt uttelling vil si arbeider som enten har gitt studenten en rett til å gå opp til eksamen eller resultert i studiepoeng. Gjenbruk av egne tidligere arbeider som har gitt uttelling, kan tillates dersom dette følger av programplan eller emneplan.
+4. å sitere eller på annen måte benytte kilder uten tilstrekkelig kildehenvisning.
+5. ulovlig samarbeid med andre
+6. å handle i strid med gjeldende retningslinjer eller regelverk for den enkelte obligatoriske aktivitet eller eksamen.
+7. å medvirke til fusk.
 
 (3) Ved mistanke om fusk kan fakultetet holde sensuren tilbake til saken er avklart. Studenten har ikke anledning til å gå opp til ny eksamen i emnet før saken er avgjort.
 

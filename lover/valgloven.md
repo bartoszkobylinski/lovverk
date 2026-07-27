@@ -15,7 +15,7 @@ xml_hash: "b11bc3140a0e8d36ba87d7667f0e2bb2e29d80aee657f3e194c5078f5dcad8df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,10 @@ eu_basis: []
 
 (2) [§ 2-1 andre ledd](lov/2023-06-16-62/§2-1/ledd/2) gjelder tilsvarende.
 
-(3) Personer som ikke er norske statsborgere, har stemmerett hvis de har fylt 18 år eller fyller 18 år innen utgangen av valgåret og entenhar vært folkeregistrert som bosatt i Norge de tre siste årene før valgdagen ellerer statsborgere av et annet nordisk land og har blitt folkeregistrert som bosatt i Norge senest 30. juni i valgåret.
+(3) Personer som ikke er norske statsborgere, har stemmerett hvis de har fylt 18 år eller fyller 18 år innen utgangen av valgåret og enten
+
+1. har vært folkeregistrert som bosatt i Norge de tre siste årene før valgdagen eller
+2. er statsborgere av et annet nordisk land og har blitt folkeregistrert som bosatt i Norge senest 30. juni i valgåret.
 
 ### § 2-3. Ansvar for å opprette og oppdatere manntall
 
@@ -94,7 +97,13 @@ Departementet skal sørge for at alle personer med stemmerett og som er folkereg
 
 ### § 2-11. Forskrift
 
-Departementet kan gi forskrift ommanntallsføring, behandling og oppdatering av manntalletmanntallsføring av personer som har sperret adresse i folkeregisteret etter [folkeregisterloven § 10-4](lov/2016-12-09-88/§10-4), jf. [beskyttelsesinstruksen § 2](forskrift/1972-03-17-3352/§2)utleggingsmanntallettilgang til og bruk av manntallseksemplarerformidling av og innhold i informasjon til velgerne.
+Departementet kan gi forskrift om
+
+1. manntallsføring, behandling og oppdatering av manntallet
+2. manntallsføring av personer som har sperret adresse i folkeregisteret etter [folkeregisterloven § 10-4](lov/2016-12-09-88/§10-4), jf. [beskyttelsesinstruksen § 2](forskrift/1972-03-17-3352/§2)
+3. utleggingsmanntallet
+4. tilgang til og bruk av manntallseksemplarer
+5. formidling av og innhold i informasjon til velgerne.
 
 ## Kapittel 3. Valgbarhet og ombudsplikt
 
@@ -104,13 +113,28 @@ Personer som har stemmerett ved stortingsvalg og ikke er utelukket fra valg ette
 
 ### § 3-2. Valgbarhet ved fylkestingsvalg og kommunestyrevalg
 
-Personer som har stemmerett ved fylkestingsvalg og kommunestyrevalg, er valgbare til fylkestinget eller kommunestyret hvis følgende vilkår er oppfylt:Han eller hun er på valgdagen folkeregistrert som bosatt i kommunen ved kommunestyrevalg eller i en av kommunene i fylket ved fylkestingsvalg.Han eller hun er ikke utelukket fra valg etter [§ 3-3](lov/2023-06-16-62/§3-3).
+Personer som har stemmerett ved fylkestingsvalg og kommunestyrevalg, er valgbare til fylkestinget eller kommunestyret hvis følgende vilkår er oppfylt:
+
+1. Han eller hun er på valgdagen folkeregistrert som bosatt i kommunen ved kommunestyrevalg eller i en av kommunene i fylket ved fylkestingsvalg.
+2. Han eller hun er ikke utelukket fra valg etter [§ 3-3](lov/2023-06-16-62/§3-3).
 
 ### § 3-3. Hvem som er utelukket fra valg
 
-(1) Utelukket fra valg til Stortinget erdommere i Høyesterettansatte i departementene, bortsett fra statssekretærer og politiske rådgivereansatte i utenrikstjenesten.
+(1) Utelukket fra valg til Stortinget er
 
-(2) Utelukket fra valg til fylkestinget eller kommunestyret erstatsforvalteren og assisterende statsforvalterkommunedirektøren i fylkeskommunen eller kommunen og hans eller hennes stedfortrederkommunalsjefer, etatssjefer og ledere på tilsvarende nivå i fylkeskommunen eller kommunensekretærer for fylkestinget eller kommunestyretden som har ansvaret for regnskapsfunksjonen i fylkeskommunen eller kommunende som foretar revisjon av fylkeskommunen eller kommunenansatte i fylkesrådets eller kommunerådets sekretariat som har fått myndighet delegert fra rådet.
+1. dommere i Høyesterett
+2. ansatte i departementene, bortsett fra statssekretærer og politiske rådgivere
+3. ansatte i utenrikstjenesten.
+
+(2) Utelukket fra valg til fylkestinget eller kommunestyret er
+
+1. statsforvalteren og assisterende statsforvalter
+2. kommunedirektøren i fylkeskommunen eller kommunen og hans eller hennes stedfortreder
+3. kommunalsjefer, etatssjefer og ledere på tilsvarende nivå i fylkeskommunen eller kommunen
+4. sekretærer for fylkestinget eller kommunestyret
+5. den som har ansvaret for regnskapsfunksjonen i fylkeskommunen eller kommunen
+6. de som foretar revisjon av fylkeskommunen eller kommunen
+7. ansatte i fylkesrådets eller kommunerådets sekretariat som har fått myndighet delegert fra rådet.
 
 (3) De som ellers ville ha vært utelukket fra valg til fylkestinget eller kommunestyret på grunn av sin stilling, er likevel valgbare hvis de fratrer stillingen før fylkestinget eller kommunestyret trer i funksjon.
 
@@ -128,7 +152,12 @@ Personer som har stemmerett ved fylkestingsvalg og kommunestyrevalg, er valgbare
 
 (2) Riksvalgstyret skal ha fem medlemmer. Lederen og to andre medlemmer skal være dommere. Det skal oppnevnes tre felles varamedlemmer for medlemmene som er dommere, og to felles varamedlemmer for de andre medlemmene. Medlemmene og varamedlemmene kan gjenoppnevnes.
 
-(3) Følgende personer kan ikke oppnevnes til riksvalgstyret:medlemmer av regjeringenrepresentanter og vararepresentanter til Stortingetmedlemmer og varamedlemmer av fylkesting og kommunestyrerstatssekretærer og politiske rådgivere i departementene og på Stortinget.
+(3) Følgende personer kan ikke oppnevnes til riksvalgstyret:
+
+1. medlemmer av regjeringen
+2. representanter og vararepresentanter til Stortinget
+3. medlemmer og varamedlemmer av fylkesting og kommunestyrer
+4. statssekretærer og politiske rådgivere i departementene og på Stortinget.
 
 (4) Medlemmer og varamedlemmer av riksvalgstyret som stiller til valg til Stortinget, et fylkesting eller et kommunestyre, skal gå ut av riksvalgstyret.
 
@@ -164,7 +193,11 @@ Hver kommune skal ha et valgstyre med minst tre medlemmer. Kommunestyret velger 
 
 ### § 5-1. Krav til listeforslag
 
-(1) Et listeforslag skal ha en overskrift og må inneholde opplysninger omhvilket valg listeforslaget gjelder forhvilke kandidater som stiller til valg på listeforslagethvem som har skrevet under på listeforslaget.
+(1) Et listeforslag skal ha en overskrift og må inneholde opplysninger om
+
+1. hvilket valg listeforslaget gjelder for
+2. hvilke kandidater som stiller til valg på listeforslaget
+3. hvem som har skrevet under på listeforslaget.
 
 (2) Overskriften på listeforslaget skal angi det partiet eller den gruppen som har satt frem forslaget. Hvis listeforslaget er satt frem av et registrert politisk parti, skal overskriften være partiets registrerte navn. Overskriften må ellers ikke kunne forveksles med navnet på et registrert politisk parti eller en registrert samepolitisk enhet eller med overskriften på andre listeforslag i samme valgdistrikt.
 
@@ -184,7 +217,11 @@ Hver kommune skal ha et valgstyre med minst tre medlemmer. Kommunestyret velger 
 
 ### § 5-3. Stemmetillegg ved kommunestyrevalg
 
-(1) Ved kommunestyrevalg kan et visst antall av de øverste kandidatene på listeforslaget gis et stemmetillegg. Stemmetillegg kan gis tilinntil fire kandidater når kommunestyret har fra 11 til 23 medlemmerinntil seks kandidater når kommunestyret har fra 25 til 53 medlemmerinntil ti kandidater når kommunestyret har 55 eller flere medlemmer.
+(1) Ved kommunestyrevalg kan et visst antall av de øverste kandidatene på listeforslaget gis et stemmetillegg. Stemmetillegg kan gis til
+
+1. inntil fire kandidater når kommunestyret har fra 11 til 23 medlemmer
+2. inntil seks kandidater når kommunestyret har fra 25 til 53 medlemmer
+3. inntil ti kandidater når kommunestyret har 55 eller flere medlemmer.
 
 (2) Kandidater med stemmetillegg får et tillegg i sitt personlige stemmetall som tilsvarer 25 prosent av det antallet stemmer som listen får ved valget.
 
@@ -200,7 +237,12 @@ Hver kommune skal ha et valgstyre med minst tre medlemmer. Kommunestyret velger 
 
 ### § 5-5. Vedlegg til listeforslaget
 
-Følgende opplysninger skal ligge ved listeforslaget:oversikt over fødselsdato og bostedsadresse til personene som har underskrevet på listeforslagetoversikt over kandidatenes fødselsdatoforsikring fra kandidater som ikke er folkeregistrert som bosatt i fylket ved fylkestingsvalg eller i kommunen ved kommunestyrevalg, om at de vil være folkeregistrert der på valgdagenforsikring fra kandidater som på grunn av sin stilling ikke er valgbare ved fylkestingsvalg eller kommunestyrevalg, om at de vil fratre stillingen før fylkestinget eller kommunestyret trer i funksjon.
+Følgende opplysninger skal ligge ved listeforslaget:
+
+1. oversikt over fødselsdato og bostedsadresse til personene som har underskrevet på listeforslaget
+2. oversikt over kandidatenes fødselsdato
+3. forsikring fra kandidater som ikke er folkeregistrert som bosatt i fylket ved fylkestingsvalg eller i kommunen ved kommunestyrevalg, om at de vil være folkeregistrert der på valgdagen
+4. forsikring fra kandidater som på grunn av sin stilling ikke er valgbare ved fylkestingsvalg eller kommunestyrevalg, om at de vil fratre stillingen før fylkestinget eller kommunestyret trer i funksjon.
 
 ### § 5-6. Tillitsvalgte og tillitsutvalg
 
@@ -278,7 +320,12 @@ Når listeforslagene er godkjent, skal valgmyndighetene legge valglistene ut til
 
 ### § 5-14. Forskrift
 
-Departementet kan gi forskrift omkrav til elektroniske underskrifter etter [§ 5-4](lov/2023-06-16-62/§5-4) ved bruk av en godkjent digital løsninginnlevering av listeforslag i en godkjent digital løsning og på papirbehandling av listeforslagutforming, trykking og utsending av stemmesedler.
+Departementet kan gi forskrift om
+
+1. krav til elektroniske underskrifter etter [§ 5-4](lov/2023-06-16-62/§5-4) ved bruk av en godkjent digital løsning
+2. innlevering av listeforslag i en godkjent digital løsning og på papir
+3. behandling av listeforslag
+4. utforming, trykking og utsending av stemmesedler.
 
 ## Kapittel 6. Fellesbestemmelser for stemming innenlands
 
@@ -364,7 +411,16 @@ Valgstyret skal sørge for at valgmateriellet oppbevares og transporteres på si
 
 ### § 6-14. Forskrift
 
-Departementet kan gi forskrift omkunngjøring av tid og sted for stemminguniversell utforming av valglokaler og valgutstyrkunngjøring etter [§ 6-7 andre ledd andre punktum](lov/2023-06-16-62/§6-7/ledd/2/setning/2)organiseringen og gjennomføringen av stemmingenforsendelse av forhåndsstemmeroppbevaring, transport og overlevering av valgmateriellkrav til brevstemmingkrav til legitimasjon.
+Departementet kan gi forskrift om
+
+1. kunngjøring av tid og sted for stemming
+2. universell utforming av valglokaler og valgutstyr
+3. kunngjøring etter [§ 6-7 andre ledd andre punktum](lov/2023-06-16-62/§6-7/ledd/2/setning/2)
+4. organiseringen og gjennomføringen av stemmingen
+5. forsendelse av forhåndsstemmer
+6. oppbevaring, transport og overlevering av valgmateriell
+7. krav til brevstemming
+8. krav til legitimasjon.
 
 ## Kapittel 7. Forhåndsstemming innenlands
 
@@ -416,7 +472,12 @@ Hvis en velger som forhåndsstemmer, ikke er innført i manntallet i kommunen, s
 
 ### § 7-7. Hvordan velgerne kan forhåndsstemme på Svalbard og Jan Mayen
 
-En velger som forhåndsstemmer på Svalbard eller Jan Mayen, skal legge stemmeseddelen i en stemmeseddelkonvolutt og lime den igjen. Stemmemottakeren skal legge stemmeseddelkonvolutten i en omslagskonvolutt, lime omslagskonvolutten igjen og deretter påføre omslagskonvoluttenvalgstyrets navn og adressevelgerens navn og fødselsnummervelgerens folkeregistrerte adresse 30. juni i valgåret, eventuelt siste adresse i Norge hvis velgeren har meldt flytting til utlandettid og sted for stemmingen.
+En velger som forhåndsstemmer på Svalbard eller Jan Mayen, skal legge stemmeseddelen i en stemmeseddelkonvolutt og lime den igjen. Stemmemottakeren skal legge stemmeseddelkonvolutten i en omslagskonvolutt, lime omslagskonvolutten igjen og deretter påføre omslagskonvolutten
+
+1. valgstyrets navn og adresse
+2. velgerens navn og fødselsnummer
+3. velgerens folkeregistrerte adresse 30. juni i valgåret, eventuelt siste adresse i Norge hvis velgeren har meldt flytting til utlandet
+4. tid og sted for stemmingen.
 
 ### § 7-8. Hvordan velgerne kan forhåndsstemme før den ordinære forhåndsstemmingen (tidligstemming)
 
@@ -444,7 +505,12 @@ Velgere i utlandet kan forhåndsstemme i perioden fra 1. juli til og med nest si
 
 (1) [§§ 6-6](lov/2023-06-16-62/§6-6) første ledd, [6-8](lov/2023-06-16-62/§6-8), [6-9](lov/2023-06-16-62/§6-9), [6-10](lov/2023-06-16-62/§6-10), [6-11](lov/2023-06-16-62/§6-11) og [6-13](lov/2023-06-16-62/§6-13) gjelder tilsvarende.
 
-(2) Velgeren skal legge stemmeseddelen i en stemmeseddelkonvolutt og lime den igjen. Stemmemottakeren skal legge stemmeseddelkonvolutten i en omslagskonvolutt, lime omslagskonvolutten igjen og deretter påføre omslagskonvoluttenvalgstyrets navn og adressevelgerens navn og fødselsnummervelgerens folkeregistrerte adresse i Norge 30. juni i valgåret, eventuelt siste adresse hvis velgeren har meldt flytting til utlandettid og sted for stemmingen.
+(2) Velgeren skal legge stemmeseddelen i en stemmeseddelkonvolutt og lime den igjen. Stemmemottakeren skal legge stemmeseddelkonvolutten i en omslagskonvolutt, lime omslagskonvolutten igjen og deretter påføre omslagskonvolutten
+
+1. valgstyrets navn og adresse
+2. velgerens navn og fødselsnummer
+3. velgerens folkeregistrerte adresse i Norge 30. juni i valgåret, eventuelt siste adresse hvis velgeren har meldt flytting til utlandet
+4. tid og sted for stemmingen.
 
 ### § 8-5. Brevstemming
 
@@ -508,7 +574,14 @@ Hvis stemmeseddelen er lagt i en urne uten bruk av stemmeseddelkonvolutt, er ste
 
 ### § 10-2. Godkjenning av stemmegivninger hvis stemmeseddelen er lagt i en stemmeseddelkonvolutt
 
-(1) Hvis stemmeseddelen er lagt i en stemmeseddelkonvolutt, skal stemmegivningen godkjennes av valgstyret, som krysser av ved velgerens navn i manntallet, hvis følgende vilkår er oppfylt:Velgeren er manntallsført i kommunen.Det kan fastslås hvem velgeren er.Stemmegivningen er levert et sted der velgerne kan stemme.Det er ikke sannsynlighetsovervekt for at omslagskonvolutten er åpnet.Velgeren har ikke tidligere fått godkjent en stemmegivning.Stemmegivningen har kommet inn til valgstyret etter at forhåndsstemmingen har startet og innen klokken 17 dagen etter valgdagen.
+(1) Hvis stemmeseddelen er lagt i en stemmeseddelkonvolutt, skal stemmegivningen godkjennes av valgstyret, som krysser av ved velgerens navn i manntallet, hvis følgende vilkår er oppfylt:
+
+1. Velgeren er manntallsført i kommunen.
+2. Det kan fastslås hvem velgeren er.
+3. Stemmegivningen er levert et sted der velgerne kan stemme.
+4. Det er ikke sannsynlighetsovervekt for at omslagskonvolutten er åpnet.
+5. Velgeren har ikke tidligere fått godkjent en stemmegivning.
+6. Stemmegivningen har kommet inn til valgstyret etter at forhåndsstemmingen har startet og innen klokken 17 dagen etter valgdagen.
 
 (2) Første ledd bokstav c gjelder ikke ved brevstemming.
 
@@ -518,7 +591,12 @@ Hvis stemmeseddelen er lagt i en urne uten bruk av stemmeseddelkonvolutt, er ste
 
 ### § 10-3. Godkjenning av stemmesedler
 
-(1) En stemmeseddel skal godkjennes hvisden har offentlig stempeldet fremgår hvilket valg den gjelderdet fremgår hvilket parti eller hvilken gruppe velgeren har stemt påpartiet eller gruppen stiller liste i valgdistriktet.
+(1) En stemmeseddel skal godkjennes hvis
+
+1. den har offentlig stempel
+2. det fremgår hvilket valg den gjelder
+3. det fremgår hvilket parti eller hvilken gruppe velgeren har stemt på
+4. partiet eller gruppen stiller liste i valgdistriktet.
 
 (2) En blank stemmeseddel skal godkjennes hvis vilkårene i første ledd bokstav a og b er oppfylt.
 
@@ -572,7 +650,11 @@ Valgstyret avgjør om stemmesedler fra godkjente stemmegivninger der stemmesedde
 
 ### § 10-9. Overlevering av materiell til valgstyret fra valglokalet på valgtinget
 
-(1) Lederen i valglokalet skal sørge for at valgstyret så snart som mulig får:godkjente stemmesedlerstemmegivninger og stemmesedler som er lagt til sidekopi av protokollen for valgtinget.
+(1) Lederen i valglokalet skal sørge for at valgstyret så snart som mulig får:
+
+1. godkjente stemmesedler
+2. stemmegivninger og stemmesedler som er lagt til side
+3. kopi av protokollen for valgtinget.
 
 (2) Materiellet skal pakkes i god orden i forsvarlig forseglet emballasje og leveres av lederen og nestlederen i valglokalet.
 
@@ -600,7 +682,12 @@ Valgstyret har ansvaret for den andre opptellingen av stemmesedler.
 
 ### § 10-13. Oversending av materiell til distriktsvalgstyret og fylkesvalgstyret
 
-(1) Ved stortingsvalg og fylkestingsvalg skal valgstyret så snart som mulig sende følgende materiell til henholdsvis distriktsvalgstyret og fylkesvalgstyret:godkjente stemmesedlerstemmegivninger og stemmesedler som valgstyret har forkastetkopier av protokollen for valgtinget og valgstyrets protokollkopier av innkomne klager.
+(1) Ved stortingsvalg og fylkestingsvalg skal valgstyret så snart som mulig sende følgende materiell til henholdsvis distriktsvalgstyret og fylkesvalgstyret:
+
+1. godkjente stemmesedler
+2. stemmegivninger og stemmesedler som valgstyret har forkastet
+3. kopier av protokollen for valgtinget og valgstyrets protokoll
+4. kopier av innkomne klager.
 
 (2) Hvis kommunen har brukt papirmanntall på valgtinget, skal valgstyret også sende med en kopi av papirmanntallet.
 
@@ -630,13 +717,39 @@ Valgstyret har ansvaret for den andre opptellingen av stemmesedler.
 
 ### § 10-16. Forskrift
 
-Departementet kan gi forskrift omgodkjenning av stemmegivninger og stemmesedleropptelling av stemmesedlerprotokollering av valgpakking, oppbevaring, transport og overlevering av valgmateriellkunngjøring av valgresultater.
+Departementet kan gi forskrift om
+
+1. godkjenning av stemmegivninger og stemmesedler
+2. opptelling av stemmesedler
+3. protokollering av valg
+4. pakking, oppbevaring, transport og overlevering av valgmateriell
+5. kunngjøring av valgresultater.
 
 ## Kapittel 11. Mandatfordeling og kåring av representanter ved stortingsvalg
 
 ### § 11-1. Valgdistriktene ved stortingsvalg
 
-Ved valg til Stortinget velges representanter med vararepresentanter fra følgende 19 valgdistrikter:Østfold valgdistrikt, som består av kommunene Aremark, Fredrikstad, Halden, Hvaler, Indre Østfold, Marker, Moss, Rakkestad, Råde, Sarpsborg, Skiptvet og Våler (Østfold)Akershus valgdistrikt, som består av kommunene Asker, Aurskog-Høland, Bærum, Eidsvoll, Enebakk, Frogn, Gjerdrum, Hurdal, Jevnaker, Lillestrøm, Lunner, Lørenskog, Nannestad, Nes, Nesodden, Nittedal, Nordre Follo, Rælingen, Ullensaker, Vestby og ÅsOslo valgdistrikt, som består av Oslo kommuneHedmark valgdistrikt, som består av kommunene Alvdal, Eidskog, Elverum, Engerdal, Folldal, Grue, Hamar, Kongsvinger, Løten, Nord-Odal, Os, Rendalen, Ringsaker, Stange, Stor-Elvdal, Sør-Odal, Tolga, Trysil, Tynset, Våler (Innlandet), Åmot og ÅsnesOppland valgdistrikt, som består av kommunene Dovre, Etnedal, Gausdal, Gjøvik, Gran, Lesja, Lillehammer, Lom, Nord-Aurdal, Nord-Fron, Nordre Land, Ringebu, Sel, Skjåk, Søndre Land, Sør-Aurdal, Sør-Fron, Vang, Vestre Slidre, Vestre Toten, Vågå, Østre Toten, Øyer og Øystre SlidreBuskerud valgdistrikt, som består av kommunene Drammen, Flesberg, Flå, Gol, Hemsedal, Hol, Hole, Kongsberg, Krødsherad, Lier, Modum, Nesbyen, Nore og Uvdal, Ringerike, Rollag, Sigdal, Øvre Eiker og ÅlVestfold valgdistrikt, som består av kommunene Færder, Holmestrand, Horten, Larvik, Sandefjord og TønsbergTelemark valgdistrikt, som består av kommunene Bamble, Drangedal, Fyresdal, Hjartdal, Kragerø, Kviteseid, Midt-Telemark, Nissedal, Nome, Notodden, Porsgrunn, Seljord, Siljan, Skien, Tinn, Tokke og VinjeAust-Agder valgdistrikt, som består av kommunene Arendal, Birkenes, Bygland, Bykle, Evje og Hornnes, Froland, Gjerstad, Grimstad, Iveland, Lillesand, Risør, Tvedestrand, Valle, Vegårshei og ÅmliVest-Agder valgdistrikt, som består av kommunene Farsund, Flekkefjord, Hægebostad, Kristiansand, Kvinesdal, Lindesnes, Lyngdal, Sirdal, Vennesla og ÅseralRogaland valgdistrikt, som består av kommunene Bjerkreim, Bokn, Eigersund, Gjesdal, Haugesund, Hjelmeland, Hå, Karmøy, Klepp, Kvitsøy, Lund, Randaberg, Sandnes, Sauda, Sokndal, Sola, Stavanger, Strand, Suldal, Time, Tysvær, Utsira og VindafjordHordaland valgdistrikt, som består av kommunene Alver, Askøy, Austevoll, Austrheim, Bergen, Bjørnafjorden, Bømlo, Eidfjord, Etne, Fedje, Fitjar, Kvam, Kvinnherad, Masfjorden, Modalen, Osterøy, Samnanger, Stord, Sveio, Tysnes, Ullensvang, Ulvik, Vaksdal, Voss og ØygardenSogn og Fjordane valgdistrikt, som består av kommunene Askvoll, Aurland, Bremanger, Fjaler, Gloppen, Gulen, Hyllestad, Høyanger, Kinn, Luster, Lærdal, Sogndal, Solund, Stad, Stryn, Sunnfjord, Vik og ÅrdalMøre og Romsdal valgdistrikt, som består av kommunene Aukra, Aure, Averøy, Fjord, Giske, Gjemnes, Haram, Hareid, Herøy (Møre og Romsdal), Hustadvika, Kristiansund, Molde, Rauma, Sande, Smøla, Stranda, Sula, Sunndal, Surnadal, Sykkylven, Tingvoll, Ulstein, Vanylven, Vestnes, Volda, Ørsta og ÅlesundSør-Trøndelag valgdistrikt, som består av kommunene Frøya, Heim, Hitra, Holtålen, Indre Fosen, Malvik, Melhus, Midtre Gauldal, Oppdal, Orkland, Osen, Rennebu, Rindal, Røros, Selbu, Skaun, Trondheim, Tydal, Ørland og ÅfjordNord-Trøndelag valgdistrikt, som består av kommunene Flatanger, Frosta, Grong, Høylandet, Inderøy, Leka, Levanger, Lierne, Meråker, Namsos, Namsskogan, Nærøysund, Overhalla, Røyrvik, Snåsa, Steinkjer, Stjørdal og VerdalNordland valgdistrikt, som består av kommunene Alstahaug, Andøy, Beiarn, Bindal, Bodø, Brønnøy, Bø, Dønna, Evenes, Fauske, Flakstad, Gildeskål, Grane, Hadsel, Hamarøy, Hattfjelldal, Hemnes, Herøy (Nordland), Leirfjord, Lurøy, Lødingen, Meløy, Moskenes, Narvik, Nesna, Rana, Rødøy, Røst, Saltdal, Sortland, Steigen, Sømna, Sørfold, Træna, Vefsn, Vega, Vestvågøy, Vevelstad, Værøy, Vågan og ØksnesTroms valgdistrikt, som består av kommunene Balsfjord, Bardu, Dyrøy, Gratangen, Harstad, Ibestad, Karlsøy, Kvæfjord, Kvænangen, Kåfjord, Lavangen, Lyngen, Målselv, Nordreisa, Salangen, Senja, Skjervøy, Storfjord, Sørreisa, Tjeldsund og TromsøFinnmark valgdistrikt, som består av kommunene Alta, Berlevåg, Båtsfjord, Gamvik, Hammerfest, Hasvik, Karasjok, Kautokeino, Lebesby, Loppa, Måsøy, Nesseby, Nordkapp, Porsanger, Sør-Varanger, Tana, Vadsø og Vardø.
+Ved valg til Stortinget velges representanter med vararepresentanter fra følgende 19 valgdistrikter:
+
+1. Østfold valgdistrikt, som består av kommunene Aremark, Fredrikstad, Halden, Hvaler, Indre Østfold, Marker, Moss, Rakkestad, Råde, Sarpsborg, Skiptvet og Våler (Østfold)
+2. Akershus valgdistrikt, som består av kommunene Asker, Aurskog-Høland, Bærum, Eidsvoll, Enebakk, Frogn, Gjerdrum, Hurdal, Jevnaker, Lillestrøm, Lunner, Lørenskog, Nannestad, Nes, Nesodden, Nittedal, Nordre Follo, Rælingen, Ullensaker, Vestby og Ås
+3. Oslo valgdistrikt, som består av Oslo kommune
+4. Hedmark valgdistrikt, som består av kommunene Alvdal, Eidskog, Elverum, Engerdal, Folldal, Grue, Hamar, Kongsvinger, Løten, Nord-Odal, Os, Rendalen, Ringsaker, Stange, Stor-Elvdal, Sør-Odal, Tolga, Trysil, Tynset, Våler (Innlandet), Åmot og Åsnes
+5. Oppland valgdistrikt, som består av kommunene Dovre, Etnedal, Gausdal, Gjøvik, Gran, Lesja, Lillehammer, Lom, Nord-Aurdal, Nord-Fron, Nordre Land, Ringebu, Sel, Skjåk, Søndre Land, Sør-Aurdal, Sør-Fron, Vang, Vestre Slidre, Vestre Toten, Vågå, Østre Toten, Øyer og Øystre Slidre
+6. Buskerud valgdistrikt, som består av kommunene Drammen, Flesberg, Flå, Gol, Hemsedal, Hol, Hole, Kongsberg, Krødsherad, Lier, Modum, Nesbyen, Nore og Uvdal, Ringerike, Rollag, Sigdal, Øvre Eiker og Ål
+7. Vestfold valgdistrikt, som består av kommunene Færder, Holmestrand, Horten, Larvik, Sandefjord og Tønsberg
+8. Telemark valgdistrikt, som består av kommunene Bamble, Drangedal, Fyresdal, Hjartdal, Kragerø, Kviteseid, Midt-Telemark, Nissedal, Nome, Notodden, Porsgrunn, Seljord, Siljan, Skien, Tinn, Tokke og Vinje
+9. Aust-Agder valgdistrikt, som består av kommunene Arendal, Birkenes, Bygland, Bykle, Evje og Hornnes, Froland, Gjerstad, Grimstad, Iveland, Lillesand, Risør, Tvedestrand, Valle, Vegårshei og Åmli
+10. Vest-Agder valgdistrikt, som består av kommunene Farsund, Flekkefjord, Hægebostad, Kristiansand, Kvinesdal, Lindesnes, Lyngdal, Sirdal, Vennesla og Åseral
+11. Rogaland valgdistrikt, som består av kommunene Bjerkreim, Bokn, Eigersund, Gjesdal, Haugesund, Hjelmeland, Hå, Karmøy, Klepp, Kvitsøy, Lund, Randaberg, Sandnes, Sauda, Sokndal, Sola, Stavanger, Strand, Suldal, Time, Tysvær, Utsira og Vindafjord
+12. Hordaland valgdistrikt, som består av kommunene Alver, Askøy, Austevoll, Austrheim, Bergen, Bjørnafjorden, Bømlo, Eidfjord, Etne, Fedje, Fitjar, Kvam, Kvinnherad, Masfjorden, Modalen, Osterøy, Samnanger, Stord, Sveio, Tysnes, Ullensvang, Ulvik, Vaksdal, Voss og Øygarden
+13. Sogn og Fjordane valgdistrikt, som består av kommunene Askvoll, Aurland, Bremanger, Fjaler, Gloppen, Gulen, Hyllestad, Høyanger, Kinn, Luster, Lærdal, Sogndal, Solund, Stad, Stryn, Sunnfjord, Vik og Årdal
+14. Møre og Romsdal valgdistrikt, som består av kommunene Aukra, Aure, Averøy, Fjord, Giske, Gjemnes, Haram, Hareid, Herøy (Møre og Romsdal), Hustadvika, Kristiansund, Molde, Rauma, Sande, Smøla, Stranda, Sula, Sunndal, Surnadal, Sykkylven, Tingvoll, Ulstein, Vanylven, Vestnes, Volda, Ørsta og Ålesund
+15. Sør-Trøndelag valgdistrikt, som består av kommunene Frøya, Heim, Hitra, Holtålen, Indre Fosen, Malvik, Melhus, Midtre Gauldal, Oppdal, Orkland, Osen, Rennebu, Rindal, Røros, Selbu, Skaun, Trondheim, Tydal, Ørland og Åfjord
+16. Nord-Trøndelag valgdistrikt, som består av kommunene Flatanger, Frosta, Grong, Høylandet, Inderøy, Leka, Levanger, Lierne, Meråker, Namsos, Namsskogan, Nærøysund, Overhalla, Røyrvik, Snåsa, Steinkjer, Stjørdal og Verdal
+17. Nordland valgdistrikt, som består av kommunene Alstahaug, Andøy, Beiarn, Bindal, Bodø, Brønnøy, Bø, Dønna, Evenes, Fauske, Flakstad, Gildeskål, Grane, Hadsel, Hamarøy, Hattfjelldal, Hemnes, Herøy (Nordland), Leirfjord, Lurøy, Lødingen, Meløy, Moskenes, Narvik, Nesna, Rana, Rødøy, Røst, Saltdal, Sortland, Steigen, Sømna, Sørfold, Træna, Vefsn, Vega, Vestvågøy, Vevelstad, Værøy, Vågan og Øksnes
+18. Troms valgdistrikt, som består av kommunene Balsfjord, Bardu, Dyrøy, Gratangen, Harstad, Ibestad, Karlsøy, Kvæfjord, Kvænangen, Kåfjord, Lavangen, Lyngen, Målselv, Nordreisa, Salangen, Senja, Skjervøy, Storfjord, Sørreisa, Tjeldsund og Tromsø
+19. Finnmark valgdistrikt, som består av kommunene Alta, Berlevåg, Båtsfjord, Gamvik, Hammerfest, Hasvik, Karasjok, Kautokeino, Lebesby, Loppa, Måsøy, Nesseby, Nordkapp, Porsanger, Sør-Varanger, Tana, Vadsø og Vardø.
 
 > **Endres** ved lov [19 juni 2026 nr. 57](lov/2026-06-19-57) (i kraft 1 jan 2028).
 
@@ -694,7 +807,10 @@ Distriktsvalgstyret skal kunngjøre protokollen etter [§ 10-15 tredje ledd](lov
 
 (1) Hvert valgdistrikt skal ha ett utjevningsmandat. Valgdirektoratet skal beregne i hvilke valgdistrikter partiene får utjevningsmandater.
 
-(2) For hvert parti som skal få utjevningsmandat, skal det beregnes en vektet kvotient for hvert valgdistrikt. Den vektede kvotienten beregnes slik:Partiets stemmetall i valgdistriktet skal deles med et tall som er 1 større enn det dobbelte av antallet direktevalgte mandater partiet har fått i valgdistriktet.Disse kvotientene skal vektes ved at de deles på det gjennomsnittlige antallet stemmer per direktevalgte mandat i valgdistriktet.
+(2) For hvert parti som skal få utjevningsmandat, skal det beregnes en vektet kvotient for hvert valgdistrikt. Den vektede kvotienten beregnes slik:
+
+1. Partiets stemmetall i valgdistriktet skal deles med et tall som er 1 større enn det dobbelte av antallet direktevalgte mandater partiet har fått i valgdistriktet.
+2. Disse kvotientene skal vektes ved at de deles på det gjennomsnittlige antallet stemmer per direktevalgte mandat i valgdistriktet.
 
 (3) Det første utjevningsmandatet skal tildeles det partiet og det valgdistriktet som har den største vektede kvotienten. Det neste utjevningsmandatet skal tildeles det partiet og det valgdistriktet som har den nest største vektede kvotienten, osv. Hvis to kvotienter er like store, skal antallet stemmer i valgdistriktet være avgjørende. Hvis partiene også har fått like mange stemmer, skal rekkefølgen avgjøres ved loddtrekning.
 
@@ -814,7 +930,11 @@ Valgstyret skal informere de valgte representantene og vararepresentantene om va
 
 (1) Det nyvalgte Stortinget avgjør om stortingsvalget er gyldig. Stortinget skal kunngjøre vedtaket om gyldigheten av valget så raskt som mulig etter at vedtaket er fattet.
 
-(2) Stortinget skal sørge for at feil blir rettet så langt det er mulig. Hvis retting av feil ikke er mulig, skal valget kjennes ugyldignår bestemmelser i [Grunnloven](lov/1814-05-17), lov eller forskrift om hvordan valg skal forberedes og gjennomføres, er brutt, og det er sannsynlighetsovervekt for at dette har påvirket den samlede fordelingen av mandatene mellom listenenår det har skjedd en handling som oppfyller den objektive gjerningsbeskrivelsen i [straffeloven §§ 151](lov/2005-05-20-28/§151), [152](lov/2005-05-20-28/§152), [153](lov/2005-05-20-28/§153) eller [154](lov/2005-05-20-28/§154), og det er sannsynlighetsovervekt for at dette har påvirket den samlede fordelingen av mandatene mellom listenenår det er sannsynlighetsovervekt for at forhold nevnt i bokstav a og b til sammen har påvirket den samlede fordelingen av mandatene mellom listene.
+(2) Stortinget skal sørge for at feil blir rettet så langt det er mulig. Hvis retting av feil ikke er mulig, skal valget kjennes ugyldig
+
+1. når bestemmelser i [Grunnloven](lov/1814-05-17), lov eller forskrift om hvordan valg skal forberedes og gjennomføres, er brutt, og det er sannsynlighetsovervekt for at dette har påvirket den samlede fordelingen av mandatene mellom listene
+2. når det har skjedd en handling som oppfyller den objektive gjerningsbeskrivelsen i [straffeloven §§ 151](lov/2005-05-20-28/§151), [152](lov/2005-05-20-28/§152), [153](lov/2005-05-20-28/§153) eller [154](lov/2005-05-20-28/§154), og det er sannsynlighetsovervekt for at dette har påvirket den samlede fordelingen av mandatene mellom listene
+3. når det er sannsynlighetsovervekt for at forhold nevnt i bokstav a og b til sammen har påvirket den samlede fordelingen av mandatene mellom listene.
 
 (3) Valget kan bare kjennes ugyldig i de kommunene der det er sannsynlighetsovervekt for at forholdene nevnt i andre ledd har påvirket fordelingen av stemmer til de ulike listene.
 
@@ -828,7 +948,11 @@ Valgstyret skal informere de valgte representantene og vararepresentantene om va
 
 (2) Fylkestinget kan ikke fatte vedtak om hvorvidt valget er gyldig før det er klart at ingen forhold ved valget er påklaget, eller at riksvalgstyret etter ferdig klagebehandling ikke har fattet vedtak om at valget er ugyldig.
 
-(3) Fylkestinget skal sørge for at feil blir rettet så langt det er mulig. Hvis retting av feil ikke er mulig, skal valget kjennes ugyldignår bestemmelser i lov eller forskrift om hvordan valg skal forberedes og gjennomføres, er brutt, og det er sannsynlighetsovervekt for at dette har påvirket fordelingen av mandatene mellom listenenår det har skjedd en handling som oppfyller den objektive gjerningsbeskrivelsen i [straffeloven §§ 151](lov/2005-05-20-28/§151), [152](lov/2005-05-20-28/§152), [153](lov/2005-05-20-28/§153) eller [154](lov/2005-05-20-28/§154), og det er sannsynlighetsovervekt for at dette har påvirket fordelingen av mandatene mellom listenenår det er sannsynlighetsovervekt for at forhold nevnt i bokstav a og b til sammen har påvirket fordelingen av mandatene mellom listene.
+(3) Fylkestinget skal sørge for at feil blir rettet så langt det er mulig. Hvis retting av feil ikke er mulig, skal valget kjennes ugyldig
+
+1. når bestemmelser i lov eller forskrift om hvordan valg skal forberedes og gjennomføres, er brutt, og det er sannsynlighetsovervekt for at dette har påvirket fordelingen av mandatene mellom listene
+2. når det har skjedd en handling som oppfyller den objektive gjerningsbeskrivelsen i [straffeloven §§ 151](lov/2005-05-20-28/§151), [152](lov/2005-05-20-28/§152), [153](lov/2005-05-20-28/§153) eller [154](lov/2005-05-20-28/§154), og det er sannsynlighetsovervekt for at dette har påvirket fordelingen av mandatene mellom listene
+3. når det er sannsynlighetsovervekt for at forhold nevnt i bokstav a og b til sammen har påvirket fordelingen av mandatene mellom listene.
 
 (4) Fylkestinget kan ikke kjenne valget ugyldig på grunnlag av forhold som riksvalgstyret har forkastet som ugyldighetsgrunn.
 
@@ -852,7 +976,16 @@ Valgstyret skal informere de valgte representantene og vararepresentantene om va
 
 ### § 16-1. Hva det kan klages på
 
-Det kan klages påbrudd på bestemmelsene i [Grunnloven](lov/1814-05-17), lov og forskrift om hvordan valg skal forberedes og gjennomføresat det har skjedd en handling som oppfyller den objektive gjerningsbeskrivelsen i [straffeloven §§ 151](lov/2005-05-20-28/§151), [152](lov/2005-05-20-28/§152), [153](lov/2005-05-20-28/§153) eller [154](lov/2005-05-20-28/§154)departementets fordeling av stortingsmandatene på valgdistriktenedistriktsvalgstyrets, fylkesvalgstyrets og valgstyrets valgoppgjørValgdirektoratets beregning av utjevningsmandater på partier og valgdistrikter, og distriktsvalgstyrets kåring av representantene som får utjevningsmandater ved stortingsvalgStortingets vedtak om hvorvidt stortingsvalget er gyldigfylkestingets vedtak om hvorvidt fylkestingsvalget er gyldigkommunestyrets vedtak om hvorvidt kommunestyrevalget er gyldig.
+Det kan klages på
+
+1. brudd på bestemmelsene i [Grunnloven](lov/1814-05-17), lov og forskrift om hvordan valg skal forberedes og gjennomføres
+2. at det har skjedd en handling som oppfyller den objektive gjerningsbeskrivelsen i [straffeloven §§ 151](lov/2005-05-20-28/§151), [152](lov/2005-05-20-28/§152), [153](lov/2005-05-20-28/§153) eller [154](lov/2005-05-20-28/§154)
+3. departementets fordeling av stortingsmandatene på valgdistriktene
+4. distriktsvalgstyrets, fylkesvalgstyrets og valgstyrets valgoppgjør
+5. Valgdirektoratets beregning av utjevningsmandater på partier og valgdistrikter, og distriktsvalgstyrets kåring av representantene som får utjevningsmandater ved stortingsvalg
+6. Stortingets vedtak om hvorvidt stortingsvalget er gyldig
+7. fylkestingets vedtak om hvorvidt fylkestingsvalget er gyldig
+8. kommunestyrets vedtak om hvorvidt kommunestyrevalget er gyldig.
 
 ### § 16-2. Hvem som kan klage på feil ved forberedelsen og gjennomføringen av stortingsvalg m.m.
 
@@ -968,7 +1101,11 @@ Det kan klages påbrudd på bestemmelsene i [Grunnloven](lov/1814-05-17), lov og
 
 ### § 16-11. Riksvalgstyrets adgang til å kjenne valg ugyldig
 
-(1) Hvis retting av feil ikke er mulig, skal riksvalgstyret kjenne valget ugyldignår bestemmelser i [Grunnloven](lov/1814-05-17), lov eller forskrift om hvordan valg skal forberedes og gjennomføres, er brutt, og det er sannsynlighetsovervekt for at dette har påvirket den samlede fordelingen av mandatene mellom listenenår det har skjedd en handling som oppfyller den objektive gjerningsbeskrivelsen i [straffeloven §§ 151](lov/2005-05-20-28/§151), [152](lov/2005-05-20-28/§152), [153](lov/2005-05-20-28/§153) eller [154](lov/2005-05-20-28/§154), og det er sannsynlighetsovervekt for at dette har påvirket den samlede fordelingen av mandatene mellom listenenår det er sannsynlighetsovervekt for at forhold nevnt i bokstav a og b til sammen har påvirket den samlede fordelingen av mandatene mellom listene.
+(1) Hvis retting av feil ikke er mulig, skal riksvalgstyret kjenne valget ugyldig
+
+1. når bestemmelser i [Grunnloven](lov/1814-05-17), lov eller forskrift om hvordan valg skal forberedes og gjennomføres, er brutt, og det er sannsynlighetsovervekt for at dette har påvirket den samlede fordelingen av mandatene mellom listene
+2. når det har skjedd en handling som oppfyller den objektive gjerningsbeskrivelsen i [straffeloven §§ 151](lov/2005-05-20-28/§151), [152](lov/2005-05-20-28/§152), [153](lov/2005-05-20-28/§153) eller [154](lov/2005-05-20-28/§154), og det er sannsynlighetsovervekt for at dette har påvirket den samlede fordelingen av mandatene mellom listene
+3. når det er sannsynlighetsovervekt for at forhold nevnt i bokstav a og b til sammen har påvirket den samlede fordelingen av mandatene mellom listene.
 
 (2) Når riksvalgstyret har behandlet alle klagene, skal det avgjøre om det er sannsynlighetsovervekt for at forhold nevnt i første ledd samlet sett har påvirket den samlede fordelingen av mandatene mellom listene. Riksvalgstyret kan i denne vurderingen også ta hensyn til forhold som det ikke er klaget på.
 
@@ -1100,13 +1237,20 @@ Departementet kan gi forskrift om krav til bruk av det elektroniske valggjennomf
 
 ### § 21-1. Forsøk i forbindelse med valg
 
-(1) Kongen i statsråd kan godkjenne forsøkmed gjennomføring av valg som avviker fra bestemmelsene i loven hermed direkte valg av andre folkevalgte organer enn loven her gjelder for.
+(1) Kongen i statsråd kan godkjenne forsøk
+
+1. med gjennomføring av valg som avviker fra bestemmelsene i loven her
+2. med direkte valg av andre folkevalgte organer enn loven her gjelder for.
 
 (2) Kongen i statsråd fastsetter vilkår for forsøk og bestemmer hvilke bestemmelser som kan fravikes.
 
 ### § 21-2. Tilgang til manntallet og det øvrige materiellet
 
-(1) Tilgang til manntallet kan bare gis tiloffentlig ansatte som har behov for slik tilgang for å kunne utføre sine arbeidsoppgaverforskere i vitenskapelig øyemed etter samtykke fra folkeregistermyndighetenandre når det følger av loven her.
+(1) Tilgang til manntallet kan bare gis til
+
+1. offentlig ansatte som har behov for slik tilgang for å kunne utføre sine arbeidsoppgaver
+2. forskere i vitenskapelig øyemed etter samtykke fra folkeregistermyndigheten
+3. andre når det følger av loven her.
 
 (2) Tilgang til det øvrige valgmateriellet kan bare gis til forskere i vitenskapelig øyemed etter samtykke fra rette myndighet.
 
@@ -1140,7 +1284,10 @@ Distriktsvalgstyrene, fylkesvalgstyrene og valgstyrene plikter å gi departement
 
 ### § 21-8. Offentliggjøring av valgresultater og prognoser på valgdagen
 
-Før klokken 21 på valgdagen er det ikke tillatt ågi ut informasjon om eller offentliggjøre valgresultateroffentliggjøre prognoser laget på grunnlag av undersøkelser på valgdagen eller dagen i forveien.
+Før klokken 21 på valgdagen er det ikke tillatt å
+
+1. gi ut informasjon om eller offentliggjøre valgresultater
+2. offentliggjøre prognoser laget på grunnlag av undersøkelser på valgdagen eller dagen i forveien.
 
 > Endret ved lov [21 juni 2024 nr. 51](lov/2024-06-21-51).
 
@@ -1148,7 +1295,15 @@ Før klokken 21 på valgdagen er det ikke tillatt ågi ut informasjon om eller o
 
 (1) Et foretak eller en enkeltperson som forsettlig eller uaktsomt overtrer [§ 18-5](lov/2023-06-16-62/§18-5) eller [§ 21-8](lov/2023-06-16-62/§21-8), kan av Medietilsynet ilegges et overtredelsesgebyr på inntil 28 ganger grunnbeløpet i folketrygden. Med foretak menes her selskap, samvirkeforetak, forening eller annen sammenslutning, enkeltpersonforetak, stiftelse, bo eller offentlig virksomhet.
 
-(2) Ved utmålingen av gebyret skal det særlig legges vekt påhvor grov overtredelsen erom overtredelsen er begått for å fremme foretakets eller personens interesserom foretaket eller personen har hatt eller kunne ha oppnådd noen fordel ved overtredelsenom foretaket eller personen har brutt forbudet i [§ 18-5](lov/2023-06-16-62/§18-5) eller [§ 21-8](lov/2023-06-16-62/§21-8) tidligereforetakets eller personens økonomiske evne.Dersom overtredelsen er begått av et foretak, skal det også legges vekt på om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen.
+(2) Ved utmålingen av gebyret skal det særlig legges vekt på
+
+1. hvor grov overtredelsen er
+2. om overtredelsen er begått for å fremme foretakets eller personens interesser
+3. om foretaket eller personen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen
+4. om foretaket eller personen har brutt forbudet i [§ 18-5](lov/2023-06-16-62/§18-5) eller [§ 21-8](lov/2023-06-16-62/§21-8) tidligere
+5. foretakets eller personens økonomiske evne.
+
+Dersom overtredelsen er begått av et foretak, skal det også legges vekt på om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen.
 
 (3) Overtredelsesgebyret tilfaller statskassen og er tvangsgrunnlag for utlegg.
 

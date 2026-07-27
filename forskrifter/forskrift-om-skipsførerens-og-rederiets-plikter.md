@@ -90,7 +90,11 @@ Den mistenkte kan forlange en bekreftet utskrift av det som er innført i skipsd
 
 Skipsfører skal, når skipsfører anser det påkrevd og vilkårene i annet ledd er oppfylt, sørge for at mistenkt person blir holdt i fengslig forvaring om bord inntil norsk utenriksstasjon eller norsk politi kan ta seg av saken.
 
-Fengslig forvaring kan bare foretas når det foreligger skjellig grunn til mistanke om en straffbar handling av alvorlig art, og som kan medføre høyere straff enn fengsel i 6 måneder, og det om fengsling ikke finner sted er fare for:unndragelse av straffeforfølging,at bevis forspilles, ellergjentakelse av den straffbare handlingen.
+Fengslig forvaring kan bare foretas når det foreligger skjellig grunn til mistanke om en straffbar handling av alvorlig art, og som kan medføre høyere straff enn fengsel i 6 måneder, og det om fengsling ikke finner sted er fare for:
+
+1. unndragelse av straffeforfølging,
+2. at bevis forspilles, eller
+3. gjentakelse av den straffbare handlingen.
 
 > Endret ved forskrifter [20 jan 2009 nr. 46](forskrift/2009-01-20-46) (tidligere § 9), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 

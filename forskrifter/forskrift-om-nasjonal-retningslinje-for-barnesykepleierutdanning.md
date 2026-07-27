@@ -15,7 +15,7 @@ xml_hash: "f017e7aad490c55241dac7afc69ba50bd45a9b367788770ae8620416fc5325a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,113 +69,226 @@ Utdanningen skal sikre kompetanse og holdninger som danner grunnlag for likeverd
 
 ### § 4. Barnesykepleie som fag og profesjon – kunnskap
 
-Kandidatenhar avansert kunnskap om normal utvikling og grunnleggende behov hos foster, premature, nyfødte, barn og ungdomhar avansert kunnskap om stress, krise, mestringsstrategier og følger av sykdom og sykehusinnleggelse for barn i alle aldre, deres søsken og øvrig familiehar inngående kunnskap om helsefremmende, forebyggende, behandlende, rehabiliterende og lindrende perspektiverkan analysere faglige problemstillinger med utgangspunkt i fagområdets historie, tradisjoner, egenart og plass i samfunnethar avanserte kunnskaper om barn i alle aldre, deres søsken og øvrig families opplevelser, reaksjoner og behov ved langvarig sykdom og funksjonsnedsettelsehar inngående kunnskap om sammenhengen mellom sosiale vilkår, språklig og kulturell bakgrunn, helse, sykdom og behandling hos barn i alle aldrehar avansert kunnskap om kjønnsidentitet, seksualitet, minoriteter, etnisitet og kultur i møte med syke barn i alle aldre og deres familiehar inngående kunnskap om helse- og omsorgstjenestens organisering, rammer og relevant lovverk, herunder også barn som pårørende.
+Kandidaten
+
+1. har avansert kunnskap om normal utvikling og grunnleggende behov hos foster, premature, nyfødte, barn og ungdom
+2. har avansert kunnskap om stress, krise, mestringsstrategier og følger av sykdom og sykehusinnleggelse for barn i alle aldre, deres søsken og øvrig familie
+3. har inngående kunnskap om helsefremmende, forebyggende, behandlende, rehabiliterende og lindrende perspektiver
+4. kan analysere faglige problemstillinger med utgangspunkt i fagområdets historie, tradisjoner, egenart og plass i samfunnet
+5. har avanserte kunnskaper om barn i alle aldre, deres søsken og øvrig families opplevelser, reaksjoner og behov ved langvarig sykdom og funksjonsnedsettelse
+6. har inngående kunnskap om sammenhengen mellom sosiale vilkår, språklig og kulturell bakgrunn, helse, sykdom og behandling hos barn i alle aldre
+7. har avansert kunnskap om kjønnsidentitet, seksualitet, minoriteter, etnisitet og kultur i møte med syke barn i alle aldre og deres familie
+8. har inngående kunnskap om helse- og omsorgstjenestens organisering, rammer og relevant lovverk, herunder også barn som pårørende.
 
 ### § 5. Barnesykepleie som fag og profesjon – ferdigheter
 
-Kandidatenkan bruke relevante metoder i utøvelsen av barnesykepleie med respekt for syke barn i alle aldre og deres familie, og kan ivareta deres integritet, autonomi, medbestemmelse og verdighetkan bruke relevante metoder for å ivareta det friske i barnet og ungdommen, fremme mestring, opprettholde håp, livskvalitet og mening.
+Kandidaten
+
+1. kan bruke relevante metoder i utøvelsen av barnesykepleie med respekt for syke barn i alle aldre og deres familie, og kan ivareta deres integritet, autonomi, medbestemmelse og verdighet
+2. kan bruke relevante metoder for å ivareta det friske i barnet og ungdommen, fremme mestring, opprettholde håp, livskvalitet og mening.
 
 ### § 6. Barnesykepleie som fag og profesjon – generell kompetanse
 
-Kandidatenkan identifisere nye relevante barnesykepleiefaglige yrkes- og forskningsetiske problemstillinger knyttet til målgruppenhar inngående kunnskap om barnesykepleierens funksjon, rolle og ansvarkan analysere, vurdere og håndtere komplekse og kritiske situasjoner i samsvar med helselovgivning og profesjonsetikk.
+Kandidaten
+
+1. kan identifisere nye relevante barnesykepleiefaglige yrkes- og forskningsetiske problemstillinger knyttet til målgruppen
+2. har inngående kunnskap om barnesykepleierens funksjon, rolle og ansvar
+3. kan analysere, vurdere og håndtere komplekse og kritiske situasjoner i samsvar med helselovgivning og profesjonsetikk.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse
 
 ### § 7. Klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse – kunnskap
 
-Kandidatenhar avansert kunnskap om fysiologiske og patofysiologiske prosesser, sykdommer og sykdomslære, skader og kirurgiske problemstillinger, samt behandling av disse hos foster, premature, nyfødte, barn og ungdom som er relevant for profesjonsutøvelsenhar avansert kunnskap om behandling ved svikt eller trussel om svikt i vitale funksjoner hos premature, nyfødte, barn og ungdomhar avansert kunnskap om hvordan observere, identifisere og vurdere generelle og spesielle behov hos syke barn i alle aldrehar avansert kunnskap om konsekvenser som kan oppstå som følge av undersøkelser og behandling i et akutt og kritisk forløp hos barn i alle aldre og hvordan disse kan forebyggeshar inngående kunnskap om forebygging, rehabilitering og habilitering av utviklingsskader, komplikasjoner og ubehag ved skade, sykdom og funksjonsnedsettelsehar inngående kunnskap om ernæringens betydning for vekst, utvikling, sykdom og helbredhar inngående kunnskap om barnepalliasjonhar inngående kunnskap om barnemishandling og omsorgssvikthar bred kunnskap om psykisk helse, psykiske lidelser og relasjonen mellom psykisk helse og sykdom hos barn og ungehar inngående kunnskap om farmakologi i behandlingen av barn i alle aldrehar avansert kunnskap om mikrobiologi, hygiene og smittevern, spesielt relatert til aktuelle nyfødt-, barne- og ungdomsavdelinger.
+Kandidaten
+
+1. har avansert kunnskap om fysiologiske og patofysiologiske prosesser, sykdommer og sykdomslære, skader og kirurgiske problemstillinger, samt behandling av disse hos foster, premature, nyfødte, barn og ungdom som er relevant for profesjonsutøvelsen
+2. har avansert kunnskap om behandling ved svikt eller trussel om svikt i vitale funksjoner hos premature, nyfødte, barn og ungdom
+3. har avansert kunnskap om hvordan observere, identifisere og vurdere generelle og spesielle behov hos syke barn i alle aldre
+4. har avansert kunnskap om konsekvenser som kan oppstå som følge av undersøkelser og behandling i et akutt og kritisk forløp hos barn i alle aldre og hvordan disse kan forebygges
+5. har inngående kunnskap om forebygging, rehabilitering og habilitering av utviklingsskader, komplikasjoner og ubehag ved skade, sykdom og funksjonsnedsettelse
+6. har inngående kunnskap om ernæringens betydning for vekst, utvikling, sykdom og helbred
+7. har inngående kunnskap om barnepalliasjon
+8. har inngående kunnskap om barnemishandling og omsorgssvikt
+9. har bred kunnskap om psykisk helse, psykiske lidelser og relasjonen mellom psykisk helse og sykdom hos barn og unge
+10. har inngående kunnskap om farmakologi i behandlingen av barn i alle aldre
+11. har avansert kunnskap om mikrobiologi, hygiene og smittevern, spesielt relatert til aktuelle nyfødt-, barne- og ungdomsavdelinger.
 
 ### § 8. Klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse – ferdigheter
 
-Kandidatenkan selvstendig utføre kliniske observasjoner, vurderinger og beslutninger samt iverksette relevante barnesykepleiefaglige tiltak, herunder prioritering, evaluering og dokumentasjon av behandlingsforløpet og om nødvendig henvise viderekan selvstendig utføre respirasjons- og sirkulasjonsstøttende behandling til syke barn i alle aldre, herunder non-invasive og invasive behandlingsmetoderkan utføre avansert hjerte-lungeredning til alle aldersgrupperkan bruke relevante metoder og kunnskaper innen habilitering og rehabilitering ved omsorg, pleie og behandling av barn i alle aldre med langvarig sykdom og/eller funksjonsnedsettelsekan bruke relevante metoder for å hjelpe barn i alle aldre og deres familie til å håndtere situasjonen ved langvarig sykdom, funksjonsnedsettelse eller palliative forløpkan selvstendig og i team bruke relevante metoder for å måle, planlegge og iverksette tiltak for å redusere smerte og ubehagkan analysere tegn og symptomer på omsorgssvikt og barnemishandling og iverksette nødvendige tiltakkan analysere og identifisere psykososiale helseutfordringer hos barn i alle aldre og iverksette nødvendige tiltakkan analysere og bruke relevant kunnskap i håndteringen av legemidler til barn i alle aldrekan analysere og bruke relevant kunnskap om antibiotika resistens, smittevern og infeksjonsforebyggende tiltak i behandlingen av barn i alle aldre.
+Kandidaten
+
+1. kan selvstendig utføre kliniske observasjoner, vurderinger og beslutninger samt iverksette relevante barnesykepleiefaglige tiltak, herunder prioritering, evaluering og dokumentasjon av behandlingsforløpet og om nødvendig henvise videre
+2. kan selvstendig utføre respirasjons- og sirkulasjonsstøttende behandling til syke barn i alle aldre, herunder non-invasive og invasive behandlingsmetoder
+3. kan utføre avansert hjerte-lungeredning til alle aldersgrupper
+4. kan bruke relevante metoder og kunnskaper innen habilitering og rehabilitering ved omsorg, pleie og behandling av barn i alle aldre med langvarig sykdom og/eller funksjonsnedsettelse
+5. kan bruke relevante metoder for å hjelpe barn i alle aldre og deres familie til å håndtere situasjonen ved langvarig sykdom, funksjonsnedsettelse eller palliative forløp
+6. kan selvstendig og i team bruke relevante metoder for å måle, planlegge og iverksette tiltak for å redusere smerte og ubehag
+7. kan analysere tegn og symptomer på omsorgssvikt og barnemishandling og iverksette nødvendige tiltak
+8. kan analysere og identifisere psykososiale helseutfordringer hos barn i alle aldre og iverksette nødvendige tiltak
+9. kan analysere og bruke relevant kunnskap i håndteringen av legemidler til barn i alle aldre
+10. kan analysere og bruke relevant kunnskap om antibiotika resistens, smittevern og infeksjonsforebyggende tiltak i behandlingen av barn i alle aldre.
 
 ### § 9. Klinisk observasjons-, vurderings-, beslutnings- og handlingskompetanse – generell kompetanse
 
-Kandidatenkan anvende kunnskaper og ferdigheter for å ha handlingsberedskap og handlingskompetanse i akutte og kritiske situasjonerkan anvende sine kunnskaper og ferdigheter for å forebygge og identifisere komplikasjoner og senskader som følge av behandlingkan analysere, vurdere og håndtere komplekse og kritiske situasjoner i samsvar med helselovgivning og profesjonsetikk.
+Kandidaten
+
+1. kan anvende kunnskaper og ferdigheter for å ha handlingsberedskap og handlingskompetanse i akutte og kritiske situasjoner
+2. kan anvende sine kunnskaper og ferdigheter for å forebygge og identifisere komplikasjoner og senskader som følge av behandling
+3. kan analysere, vurdere og håndtere komplekse og kritiske situasjoner i samsvar med helselovgivning og profesjonsetikk.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet helsekompetanse og kommunikasjon med barn i alle aldre og deres familier
 
 ### § 10. Helsekompetanse og kommunikasjon med barn i alle aldre og deres familier – kunnskap
 
-Kandidatenhar avansert kunnskap om kommunikasjonsteknikker med barn i alle aldrehar avansert kunnskap om konsekvenser av, og alternativer til bruk av tvanghar inngående kunnskap om helsepedagogikk som grunnlag for inkludering, medbestemmelse og samvalg hos målgruppenhar avansert kunnskap om betydningen av helsekompetansen til barn i alle aldre og deres pårørende.
+Kandidaten
+
+1. har avansert kunnskap om kommunikasjonsteknikker med barn i alle aldre
+2. har avansert kunnskap om konsekvenser av, og alternativer til bruk av tvang
+3. har inngående kunnskap om helsepedagogikk som grunnlag for inkludering, medbestemmelse og samvalg hos målgruppen
+4. har avansert kunnskap om betydningen av helsekompetansen til barn i alle aldre og deres pårørende.
 
 ### § 11. Helsekompetanse og kommunikasjon med barn i alle aldre og deres familier – ferdigheter
 
-Kandidatenkan bruke relevante metoder for kommunikasjon, tilrettelegging av samspill, involvering og samhandling med barn og deres familie med utgangspunkt i tilstand, alder og utviklingstrinnkan bruke relevante metoder til å informere, veilede og undervise barn i alle aldre og deres familie i aktuelle problemstillingerkan analysere målgruppens helsekompetanse for å fremme brukermedvirkning og tilpassede tjenesterkan bruke relevante metoder for å bygge tillit og trygghet hos barn i alle aldre og unngå tvang.
+Kandidaten
+
+1. kan bruke relevante metoder for kommunikasjon, tilrettelegging av samspill, involvering og samhandling med barn og deres familie med utgangspunkt i tilstand, alder og utviklingstrinn
+2. kan bruke relevante metoder til å informere, veilede og undervise barn i alle aldre og deres familie i aktuelle problemstillinger
+3. kan analysere målgruppens helsekompetanse for å fremme brukermedvirkning og tilpassede tjenester
+4. kan bruke relevante metoder for å bygge tillit og trygghet hos barn i alle aldre og unngå tvang.
 
 ### § 12. Helsekompetanse og kommunikasjon med barn i alle aldre og deres familier – generell kompetanse
 
-Kandidatenkan kommunisere og samhandle med respekt for målgruppens integritet, ressurser og opplevelser.
+Kandidaten
+
+1. kan kommunisere og samhandle med respekt for målgruppens integritet, ressurser og opplevelser.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet teknologi og digital kompetanse
 
 ### § 13. Teknologi og digital kompetanse – kunnskap
 
-Kandidatenhar inngående kunnskap om digitale helsetjenester, informasjons- og velferdsteknologihar avansert kunnskap om funksjon, kontroll, bruk og vedlikehold av avansert medisinsk teknisk utstyrhar avansert kunnskap om lover og forskrifter knyttet til bruk av medisinsk utstyr og digitale verktøy som er relevant for yrkesutøvelsen.
+Kandidaten
+
+1. har inngående kunnskap om digitale helsetjenester, informasjons- og velferdsteknologi
+2. har avansert kunnskap om funksjon, kontroll, bruk og vedlikehold av avansert medisinsk teknisk utstyr
+3. har avansert kunnskap om lover og forskrifter knyttet til bruk av medisinsk utstyr og digitale verktøy som er relevant for yrkesutøvelsen.
 
 ### § 14. Teknologi og digital kompetanse – ferdigheter
 
-Kandidatenkan selvstendig administrere relevant medisinsk-teknisk utstyr, og kan analysere digitale parametere opp mot kliniske funnkan bruke relevante metoder for å legge til rette for målgruppen i et komplekst høyteknologisk miljøkan bruke relevant medisinsk utstyr og digitale tjenesterkan bruke digital kompetanse, bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivå.
+Kandidaten
+
+1. kan selvstendig administrere relevant medisinsk-teknisk utstyr, og kan analysere digitale parametere opp mot kliniske funn
+2. kan bruke relevante metoder for å legge til rette for målgruppen i et komplekst høyteknologisk miljø
+3. kan bruke relevant medisinsk utstyr og digitale tjenester
+4. kan bruke digital kompetanse, bistå i utviklingen av og bruke egnet teknologi på individ- og systemnivå.
 
 ### § 15. Teknologi og digital kompetanse – generell kompetanse
 
-Kandidatenkan bidra til at implementering og bruk av digitale verktøy og medisinsk utstyr er faglig forsvarligkan anvende kunnskaper og ferdigheter til reflektere kritisk over teknologiens muligheter, begrensninger og juridiske rammer.
+Kandidaten
+
+1. kan bidra til at implementering og bruk av digitale verktøy og medisinsk utstyr er faglig forsvarlig
+2. kan anvende kunnskaper og ferdigheter til reflektere kritisk over teknologiens muligheter, begrensninger og juridiske rammer.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet faglig ledelse og samhandling
 
 ### § 16. Faglig ledelse og samhandling – kunnskap
 
-Kandidatenhar inngående kunnskap om helhetlige pasientforløp som gir trygge, virkningsfulle og samordnede tjenester med god ressursutnyttelse på tvers av tjenestesteder og nivåerhar inngående kunnskap om målgruppens juridiske posisjon, og rettigheter i kontakt med helsetjenesten, herunder kunnskap om samiske barns rettigheter som urfolksbarnhar inngående kunnskap om faglig ledelse, organisering, ressursbruk, prioriteringer og bærekrafthar inngående kunnskap om metoder innen veiledning og undervisning av studenter og kollegaer.
+Kandidaten
+
+1. har inngående kunnskap om helhetlige pasientforløp som gir trygge, virkningsfulle og samordnede tjenester med god ressursutnyttelse på tvers av tjenestesteder og nivåer
+2. har inngående kunnskap om målgruppens juridiske posisjon, og rettigheter i kontakt med helsetjenesten, herunder kunnskap om samiske barns rettigheter som urfolksbarn
+3. har inngående kunnskap om faglig ledelse, organisering, ressursbruk, prioriteringer og bærekraft
+4. har inngående kunnskap om metoder innen veiledning og undervisning av studenter og kollegaer.
 
 ### § 17. Faglig ledelse og samhandling – ferdigheter
 
-Kandidatenkan anvende relevante kunnskaper og ferdigheter for å lede, planlegge og koordinere behandlingsforløp, og kan sikre gode pasientoverganger mellom ulike nivåer og tjenesterkan bruke relevante metoder for å selvstendig vurdere målgruppens behov og iverksette tiltak i forbindelse med sykdomsforløpetkan selvstendig planlegge, administrere, lede og utøve barnesykepleie i samsvar med lover, forskrifter, retningslinjer og rammebetingelserkan bruke pedagogiske prinsipper og metoder til å veilede og undervise studenter og kollegaer.
+Kandidaten
+
+1. kan anvende relevante kunnskaper og ferdigheter for å lede, planlegge og koordinere behandlingsforløp, og kan sikre gode pasientoverganger mellom ulike nivåer og tjenester
+2. kan bruke relevante metoder for å selvstendig vurdere målgruppens behov og iverksette tiltak i forbindelse med sykdomsforløpet
+3. kan selvstendig planlegge, administrere, lede og utøve barnesykepleie i samsvar med lover, forskrifter, retningslinjer og rammebetingelser
+4. kan bruke pedagogiske prinsipper og metoder til å veilede og undervise studenter og kollegaer.
 
 ### § 18. Faglig ledelse og samhandling – generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter på nye områder, kan bruke pedagogiske prinsipper og metoder til å veilede og undervise studenter og kollegaer og lede faglig utvikling av barnesykepleierfagetkan anvende relevant kunnskap for å kommunisere og samhandle i det tverrfaglige teamet ved behandling av akutt og kritisk syke og skadde barn i alle aldrekan anvende relevante kunnskaper og har kompetanse som kan fremme holdninger og danne grunnlag for likeverdige helse- og omsorgstjenester for målgruppen i samfunnet.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter på nye områder, kan bruke pedagogiske prinsipper og metoder til å veilede og undervise studenter og kollegaer og lede faglig utvikling av barnesykepleierfaget
+2. kan anvende relevant kunnskap for å kommunisere og samhandle i det tverrfaglige teamet ved behandling av akutt og kritisk syke og skadde barn i alle aldre
+3. kan anvende relevante kunnskaper og har kompetanse som kan fremme holdninger og danne grunnlag for likeverdige helse- og omsorgstjenester for målgruppen i samfunnet.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet kvalitet og pasientsikkerhet
 
 ### § 19. Kvalitet og pasientsikkerhet – kunnskap
 
-Kandidatenhar inngående kunnskap om modeller, risikovurdering og verktøy for vurdering av pasientsikkerhet og kvalitethar inngående kunnskap om viktigheten av språk- og kulturkompetanse, for å bidra til økt kvalitet og pasientsikkerhet, i utøvelsen av barnesykepleie.
+Kandidaten
+
+1. har inngående kunnskap om modeller, risikovurdering og verktøy for vurdering av pasientsikkerhet og kvalitet
+2. har inngående kunnskap om viktigheten av språk- og kulturkompetanse, for å bidra til økt kvalitet og pasientsikkerhet, i utøvelsen av barnesykepleie.
 
 ### § 20. Kvalitet og pasientsikkerhet – ferdigheter
 
-Kandidatenkan analysere uønskede hendelser og bidra til systematisk læring for å ivareta kvalitet og pasientsikkerhetkan analysere og forholde seg kritisk til nytte og betydning av nytenkning og innovasjonkan analysere og vurdere tilgjengelige ressurser og prioritere tiltak for å optimalisere kvaliteten i pasientbehandlingen.
+Kandidaten
+
+1. kan analysere uønskede hendelser og bidra til systematisk læring for å ivareta kvalitet og pasientsikkerhet
+2. kan analysere og forholde seg kritisk til nytte og betydning av nytenkning og innovasjon
+3. kan analysere og vurdere tilgjengelige ressurser og prioritere tiltak for å optimalisere kvaliteten i pasientbehandlingen.
 
 ### § 21. Kvalitet og pasientsikkerhet – generell kompetanse
 
-Kandidatenkan bidra til faglig forsvarlig helse- og omsorgstjeneste, kvalitetsforbedring og pasientsikkerhetkan bidra til nytenkning og i innovasjonsprosesser i klinisk praksis.
+Kandidaten
+
+1. kan bidra til faglig forsvarlig helse- og omsorgstjeneste, kvalitetsforbedring og pasientsikkerhet
+2. kan bidra til nytenkning og i innovasjonsprosesser i klinisk praksis.
 
 ## Kapittel 8. Læringsutbytte for kompetanseområdet vitenskapsteori, forskningsmetode og kunnskapsbasert praksis
 
 ### § 22. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – kunnskap
 
-Kandidatenhar inngående kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, ulike trinn i forskningsprosessen og forskningsetikk som er relevant for barnesykepleiehar inngående kunnskap om kunnskapsbasert praksis og kvalitetsarbeid innen barnesykepleie.
+Kandidaten
+
+1. har inngående kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, ulike trinn i forskningsprosessen og forskningsetikk som er relevant for barnesykepleie
+2. har inngående kunnskap om kunnskapsbasert praksis og kvalitetsarbeid innen barnesykepleie.
 
 ### § 23. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til teori og ulike informasjonskilder, og anvende disse til å strukturere og formulere faglige resonnementer innen barnesykepleiekan bruke metoder for å planlegge et avgrenset forsknings- eller kvalitetsarbeid ved bruk av relevante teorier og metoder i tråd med forskningsetiske normerkan identifisere faglige problemstillinger og avklare behov for forskning og kvalitetsarbeid.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til teori og ulike informasjonskilder, og anvende disse til å strukturere og formulere faglige resonnementer innen barnesykepleie
+2. kan bruke metoder for å planlegge et avgrenset forsknings- eller kvalitetsarbeid ved bruk av relevante teorier og metoder i tråd med forskningsetiske normer
+3. kan identifisere faglige problemstillinger og avklare behov for forskning og kvalitetsarbeid.
 
 ### § 24. Vitenskapsteori, forskningsmetode og kunnskapsbasert praksis – generell kompetanse
 
-Kandidatenkan analysere og forholde seg kritisk til kunnskapsbasert praksis for å kunne medvirke til utvikling av tjenestenkan formidle og kommunisere om forskningsbasert kunnskap i møte med pasienter, pårørende, helsepersonell og allmennheten.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til kunnskapsbasert praksis for å kunne medvirke til utvikling av tjenesten
+2. kan formidle og kommunisere om forskningsbasert kunnskap i møte med pasienter, pårørende, helsepersonell og allmennheten.
 
 ## Kapittel 9. Læringsutbytte for kompetanseområdet forskning, kvalitetsarbeid og formidling
 
 ### § 25. Forskning, kvalitetsarbeid og formidling – kunnskap
 
-Kandidatenhar avansert kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, forskningsprosessen, vitenskapelig arbeid, kvalitetsarbeid og forskningsetikk, herunder personvernreguleringer og krav til innsamling og håndtering av sensitive data, som er relevant for barnesykepleiehar spesialisert innsikt i de valgte metodiske tilnærmingene i det aktuelle forsknings- eller kvalitetsarbeidethar avansert kunnskap og spesialisert innsikt i et avgrenset område relevant for utøvelse av barnesykepleie.
+Kandidaten
+
+1. har avansert kunnskap om vitenskapsteoretiske perspektiver, forskningsmetoder, forskningsprosessen, vitenskapelig arbeid, kvalitetsarbeid og forskningsetikk, herunder personvernreguleringer og krav til innsamling og håndtering av sensitive data, som er relevant for barnesykepleie
+2. har spesialisert innsikt i de valgte metodiske tilnærmingene i det aktuelle forsknings- eller kvalitetsarbeidet
+3. har avansert kunnskap og spesialisert innsikt i et avgrenset område relevant for utøvelse av barnesykepleie.
 
 ### § 26. Forskning, kvalitetsarbeid og formidling – ferdigheter
 
-Kandidatenkan analysere og anvende teori og metoder til å formulere og strukturere faglige og teoretiske problemstillinger innen barnesykepleiekan analysere og forholde seg kritisk til forsknings-, bruker- og erfaringskunnskap for å medvirke til utvikling av tjenestenkan gjennomføre et selvstendig avgrenset barnesykepleiefaglig forsknings- eller kvalitetsarbeid under veiledning og i tråd med forskningsetiske prinsipper.
+Kandidaten
+
+1. kan analysere og anvende teori og metoder til å formulere og strukturere faglige og teoretiske problemstillinger innen barnesykepleie
+2. kan analysere og forholde seg kritisk til forsknings-, bruker- og erfaringskunnskap for å medvirke til utvikling av tjenesten
+3. kan gjennomføre et selvstendig avgrenset barnesykepleiefaglig forsknings- eller kvalitetsarbeid under veiledning og i tråd med forskningsetiske prinsipper.
 
 ### § 27. Forskning, kvalitetsarbeid og formidling – generell kompetanse
 
-Kandidatenkan anvende og formidle forsknings- eller kvalitetsarbeid for å bidra til utvikling av barnesykepleiefaget og helsetjenestenkan analysere, konkludere og formidle faglige problemstillinger innenfor barnesykepleiekan analysere relevante forskningsetiske problemstillinger innen barnesykepleie.
+Kandidaten
+
+1. kan anvende og formidle forsknings- eller kvalitetsarbeid for å bidra til utvikling av barnesykepleiefaget og helsetjenesten
+2. kan analysere, konkludere og formidle faglige problemstillinger innenfor barnesykepleie
+3. kan analysere relevante forskningsetiske problemstillinger innen barnesykepleie.
 
 ## Kapittel 10. Studiets oppbygning og praksisstudier
 

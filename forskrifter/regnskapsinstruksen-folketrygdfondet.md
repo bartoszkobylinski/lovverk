@@ -64,7 +64,13 @@ Folketrygdfondets selskapsregnskap og konsernregnskap skal utarbeides i samsvar 
 
 (1) Folketrygdfondet skal i årsberetningen redegjøre for miljø, sosiale forhold, arbeidsmiljø, likestilling og ikke-diskriminering, overholdelse av menneskerettigheter og bekjempelse av korrupsjon og bestikkelser. Opplysningene skal gis i det omfang som er nødvendig for å forstå foretakets utvikling, resultat, stilling og konsekvenser av foretakets virksomhet.
 
-(2) Redegjørelsen skal minst inneholde:en beskrivelse av Folketrygdfondets forretningsmodell,en beskrivelse av Folketrygdfondets retningslinjer for håndtering av forhold som nevnt i første ledd første punktum, herunder gjennomførte aktsomhetsvurderinger,virkninger av retningslinjene,de vesentlige risikoene knyttet til Folketrygdfondets virksomhet som omhandler forhold som nevnt i første ledd første punktum. Der det er relevant og vesentlig, skal det opplyses om forretningsforbindelser, produkter eller tjenester som kan forventes å ha negativ påvirkning på forhold som nevnt i første ledd første punktum, samt hvordan Folketrygdfondet håndterer disse risikoene,resultatindikatorer som er relevante for Folketrygdfondets virksomhet.
+(2) Redegjørelsen skal minst inneholde:
+
+1. en beskrivelse av Folketrygdfondets forretningsmodell,
+2. en beskrivelse av Folketrygdfondets retningslinjer for håndtering av forhold som nevnt i første ledd første punktum, herunder gjennomførte aktsomhetsvurderinger,
+3. virkninger av retningslinjene,
+4. de vesentlige risikoene knyttet til Folketrygdfondets virksomhet som omhandler forhold som nevnt i første ledd første punktum. Der det er relevant og vesentlig, skal det opplyses om forretningsforbindelser, produkter eller tjenester som kan forventes å ha negativ påvirkning på forhold som nevnt i første ledd første punktum, samt hvordan Folketrygdfondet håndterer disse risikoene,
+5. resultatindikatorer som er relevante for Folketrygdfondets virksomhet.
 
 (3) Opplysninger om fremtidig utvikling eller forhold som det forhandles om, kan utelates fra redegjørelsen dersom styret mener at offentliggjøring vil være til alvorlig skade for foretakets forretningsmessige situasjon, forutsatt at en slik utelatelse ikke hindrer en rimelig og balansert forståelse av foretakets utvikling, resultat, stilling og konsekvenser av dets virksomhet.
 

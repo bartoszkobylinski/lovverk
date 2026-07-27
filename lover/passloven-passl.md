@@ -64,11 +64,27 @@ Pass kan i særlige tilfeller utstedes til person som nevnt i første og annet l
 
 ## § 5. Passhindring
 
-Pass skal ikke utstedesdersom søkeren er etterlyst, er besluttet pågrepet eller varetektsfengslet eller har samtykket i innlevering av pass etter [straffeprosessloven kapittel 14](lov/1981-05-22-25/kap14);når utreiseforbud følger av [tvisteloven § 33-11](lov/2005-06-17-90/§33-11), [konkursloven § 102](lov/1984-06-08-58/§102) eller [barnevernsloven §§ 4-6](lov/2021-06-18-97/§4-6) eller [5-13](lov/2021-06-18-97/§5-13);når det foreligger lovhjemlet beslutning av offentlig myndighet som innebærer at utreise vil være ulovlig;dersom søkeren ikke kan reise ut av landet fordi det følger av innskrenkninger pålagt i henhold til [straffeloven §§ 45](lov/2005-05-20-28/§45) og [46](lov/2005-05-20-28/§46) eller [straffegjennomføringsloven § 43](lov/2001-05-18-21/§43).
+Pass skal ikke utstedes
 
-Pass kan nektes utstedt dersom søkeren ikke kan reise ut av riket fordi det følger avdom, kjennelse eller annen lovhjemlet beslutning av offentlig myndighet som pålegger frihetsberøvelse;innskrenkninger pålagt i henhold til [straffeloven §§ 34](lov/2005-05-20-28/§34), [39](lov/2005-05-20-28/§39), [48](lov/2005-05-20-28/§48), [52](lov/2005-05-20-28/§52) og [62](lov/2005-05-20-28/§62) (jf. psykisk [helsevernloven § 5-3](lov/1999-07-02-62/§5-3)) eller [straffeprosessloven § 69](lov/1981-05-22-25/§69) tredje ledd.
+1. dersom søkeren er etterlyst, er besluttet pågrepet eller varetektsfengslet eller har samtykket i innlevering av pass etter [straffeprosessloven kapittel 14](lov/1981-05-22-25/kap14);
+2. når utreiseforbud følger av [tvisteloven § 33-11](lov/2005-06-17-90/§33-11), [konkursloven § 102](lov/1984-06-08-58/§102) eller [barnevernsloven §§ 4-6](lov/2021-06-18-97/§4-6) eller [5-13](lov/2021-06-18-97/§5-13);
+3. når det foreligger lovhjemlet beslutning av offentlig myndighet som innebærer at utreise vil være ulovlig;
+4. dersom søkeren ikke kan reise ut av landet fordi det følger av innskrenkninger pålagt i henhold til [straffeloven §§ 45](lov/2005-05-20-28/§45) og [46](lov/2005-05-20-28/§46) eller [straffegjennomføringsloven § 43](lov/2001-05-18-21/§43).
 
-Også ellers kan pass nektes utstedt dersomsøkeren tidligere har forfalsket pass, brukt falsk pass, rettsstridig har overlatt pass til tredjemann eller på annen måte har misbrukt pass;omstendighetene gir skjellig grunn til å tro at formålet med reisen er ulovlig virksomhet. Det samme gjelder dersom det er grunn til å tro at søkeren på grunn av sin vandel og omstendighetene for øvrig vil pådra det offentlige kostnader;søkeren har fått lån til hjemreise fra en norsk representasjon i utlandet mot sikkerhet i søkers pass, og tilbakebetaling av lånet ikke har funnet sted;søkerens psykiske helsetilstand er alvorlig svekket, og det derfor er betydelig fare for at søkeren ikke vil være i stand til å ta vare på seg selv i utlandet;vilkårene for innlevering av tidligere utstedt pass etter [§ 7](lov/1997-06-19-82/§7) første ledd bokstav e første alternativ er til stede;det er grunn til å tro at formålet med reisen er å begå en handling som rammes av bestemmelsene i [straffeloven §§ 101](lov/2005-05-20-28/§101) til [107](lov/2005-05-20-28/§107) om folkemord, forbrytelser mot menneskeheten og krigsforbrytelser eller [straffeloven §§ 131](lov/2005-05-20-28/§131) til [145](lov/2005-05-20-28/§145) om terrorhandlinger og terrorrelaterte handlinger;søkeren er mindreårig, og det er grunn til å tro at søkeren vil bli utsatt for straffbare forhold i utlandet eller forhold der som kan medføre fare for liv eller helse.
+Pass kan nektes utstedt dersom søkeren ikke kan reise ut av riket fordi det følger av
+
+1. dom, kjennelse eller annen lovhjemlet beslutning av offentlig myndighet som pålegger frihetsberøvelse;
+2. innskrenkninger pålagt i henhold til [straffeloven §§ 34](lov/2005-05-20-28/§34), [39](lov/2005-05-20-28/§39), [48](lov/2005-05-20-28/§48), [52](lov/2005-05-20-28/§52) og [62](lov/2005-05-20-28/§62) (jf. psykisk [helsevernloven § 5-3](lov/1999-07-02-62/§5-3)) eller [straffeprosessloven § 69](lov/1981-05-22-25/§69) tredje ledd.
+
+Også ellers kan pass nektes utstedt dersom
+
+1. søkeren tidligere har forfalsket pass, brukt falsk pass, rettsstridig har overlatt pass til tredjemann eller på annen måte har misbrukt pass;
+2. omstendighetene gir skjellig grunn til å tro at formålet med reisen er ulovlig virksomhet. Det samme gjelder dersom det er grunn til å tro at søkeren på grunn av sin vandel og omstendighetene for øvrig vil pådra det offentlige kostnader;
+3. søkeren har fått lån til hjemreise fra en norsk representasjon i utlandet mot sikkerhet i søkers pass, og tilbakebetaling av lånet ikke har funnet sted;
+4. søkerens psykiske helsetilstand er alvorlig svekket, og det derfor er betydelig fare for at søkeren ikke vil være i stand til å ta vare på seg selv i utlandet;
+5. vilkårene for innlevering av tidligere utstedt pass etter [§ 7](lov/1997-06-19-82/§7) første ledd bokstav e første alternativ er til stede;
+6. det er grunn til å tro at formålet med reisen er å begå en handling som rammes av bestemmelsene i [straffeloven §§ 101](lov/2005-05-20-28/§101) til [107](lov/2005-05-20-28/§107) om folkemord, forbrytelser mot menneskeheten og krigsforbrytelser eller [straffeloven §§ 131](lov/2005-05-20-28/§131) til [145](lov/2005-05-20-28/§145) om terrorhandlinger og terrorrelaterte handlinger;
+7. søkeren er mindreårig, og det er grunn til å tro at søkeren vil bli utsatt for straffbare forhold i utlandet eller forhold der som kan medføre fare for liv eller helse.
 
 Pass må ikke nektes uten at tungtveiende hensyn taler for det. Ved avgjørelsen skal det tas i betraktning hvilken betydning pass vil ha for søkeren. Etter annet ledd skal det vurderes om søkeren vil unndra seg iverksettelse av den lovhjemlede forpliktelse.
 
@@ -94,7 +110,13 @@ Passinnehaveren må ikke endre passets utseende eller innhold. Det skal oppbevar
 
 ## § 7. Tilbakekall, innlevering og beslag
 
-Pass kan tilbakekalles nårvilkårene etter [§§ 3](lov/1997-06-19-82/§3) og [4](lov/1997-06-19-82/§4) ikke er til stedevilkårene for nektelse etter [§ 5](lov/1997-06-19-82/§5) er til stedepassets utseende eller innhold er endretpasset er skadet eller slitt eller av andre årsaker ikke er tjenlig som legitimasjonsdokumentpasset ikke oppbevares betryggende av passinnehaveren eller finnes i uvedkommendes besittelse
+Pass kan tilbakekalles når
+
+1. vilkårene etter [§§ 3](lov/1997-06-19-82/§3) og [4](lov/1997-06-19-82/§4) ikke er til stede
+2. vilkårene for nektelse etter [§ 5](lov/1997-06-19-82/§5) er til stede
+3. passets utseende eller innhold er endret
+4. passet er skadet eller slitt eller av andre årsaker ikke er tjenlig som legitimasjonsdokument
+5. passet ikke oppbevares betryggende av passinnehaveren eller finnes i uvedkommendes besittelse
 
 Pass som er tilbakekalt etter første ledd skal innleveres. Hvis passet ikke innleveres frivillig, kan politiet ta det fra besitteren.
 
@@ -116,7 +138,11 @@ Registeret kan inneholde passøkers navn, signatur, fødselsnummer, biometrisk a
 
 I registeret inntas for øvrig slike opplysninger som er nødvendig for forvaltning av registeret og utstedelse av pass.
 
-Kongen gir forskrift omhvilke opplysninger som kan registrereshvem som er behandlingsansvarliginnsyn, begrensning av behandling, retting og sletting av opplysninger
+Kongen gir forskrift om
+
+1. hvilke opplysninger som kan registreres
+2. hvem som er behandlingsansvarlig
+3. innsyn, begrensning av behandling, retting og sletting av opplysninger
 
 > Endret ved [lover 19 juni 2009 nr. 86](lov/2009-06-19-86), [21 juni 2013 nr. 87](lov/2013-06-21-87) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 713](forskrift/2013-06-21-713)), [5 juni 2015 nr. 39](lov/2015-06-05-39) (ikr. 19 okt 2020 iflg. [res. 9 okt 2020 nr. 2008](forskrift/2020-10-09-2008)), [21 juni 2017 nr. 93](lov/2017-06-21-93) som endret ved [lov 12 juni 2020 nr. 65](lov/2020-06-12-65) (ikr. 19 okt 2020 iflg. [res. 9 okt 2020 nr. 2008](forskrift/2020-10-09-2008)).
 
@@ -136,7 +162,14 @@ Utlevering av opplysninger etter første ledd kan skje ved direkte søk som går
 
 ## § 11. Utlevering av opplysninger til andre formål
 
-Opplysninger fra passregisteret kan utleveres til politiet til bruki arbeid med å finne en savnet person eller med å identifisere en død person eller en person som det hører under politiets oppgaver å hjelpei arbeid med å identifisere en person som kan innbringes eller skal pågripes eller anbringes i politiarrestved forebygging eller etterforskning av en handling som etter loven kan medføre høyere straff enn fengsel i seks månederi arbeid etter [utlendingsloven](lov/2008-05-15-35) med å avklare identiteten til en person som har plikt til å gi opplysninger om egen identitetved kontroll av opplysninger som skal føres inn i det sentrale registeret over strafferettslige reaksjonernår den som opplysningene gjelder har gitt et uttrykkelig samtykke som er basert på frivillighet og informasjon.
+Opplysninger fra passregisteret kan utleveres til politiet til bruk
+
+1. i arbeid med å finne en savnet person eller med å identifisere en død person eller en person som det hører under politiets oppgaver å hjelpe
+2. i arbeid med å identifisere en person som kan innbringes eller skal pågripes eller anbringes i politiarrest
+3. ved forebygging eller etterforskning av en handling som etter loven kan medføre høyere straff enn fengsel i seks måneder
+4. i arbeid etter [utlendingsloven](lov/2008-05-15-35) med å avklare identiteten til en person som har plikt til å gi opplysninger om egen identitet
+5. ved kontroll av opplysninger som skal føres inn i det sentrale registeret over strafferettslige reaksjoner
+6. når den som opplysningene gjelder har gitt et uttrykkelig samtykke som er basert på frivillighet og informasjon.
 
 Uthenting etter første ledd kan skje ved direkte tilgang.
 
@@ -148,9 +181,18 @@ Til oppgaver nevnt i første ledd kan opplysninger fra passregisteret utleveres 
 
 ## § 12. Forskrifter
 
-Kongen gir forskrifter omsøknaden og søknadsbehandlingen, blant annet om godtgjøring av identitet, statsborgerskap og avgivelse av biometripassets alminnelige gyldighetstid og om begrenset eller forlenget gyldighetstidfastsetting og betaling av gebyr ved søknad om pass
+Kongen gir forskrifter om
 
-Kongen kan gi forskrift om gjennomføring av denne loven, herunder ompassets form og innholdhvem som kan få utlevert opplysninger fra passregisterethva som kan vektlegges i vurderingen etter [§ 4 tredje ledd](lov/1997-06-19-82/§4/ledd/3) av om pass skal utstedes uten samtykke fra den eller de som har foreldreansvarovergangsbestemmelser
+1. søknaden og søknadsbehandlingen, blant annet om godtgjøring av identitet, statsborgerskap og avgivelse av biometri
+2. passets alminnelige gyldighetstid og om begrenset eller forlenget gyldighetstid
+3. fastsetting og betaling av gebyr ved søknad om pass
+
+Kongen kan gi forskrift om gjennomføring av denne loven, herunder om
+
+1. passets form og innhold
+2. hvem som kan få utlevert opplysninger fra passregisteret
+3. hva som kan vektlegges i vurderingen etter [§ 4 tredje ledd](lov/1997-06-19-82/§4/ledd/3) av om pass skal utstedes uten samtykke fra den eller de som har foreldreansvar
+4. overgangsbestemmelser
 
 > Tilføyd ved [lov 21 juni 2017 nr. 93](lov/2017-06-21-93) (ikr. 19 okt 2020 iflg. [res. 9 okt 2020 nr. 2008](forskrift/2020-10-09-2008)), endret ved lov [22 des 2025 nr. 115](lov/2025-12-22-115) (i kraft 23 jan 2026 iflg. [res. 23 jan 2026 nr. 68](forskrift/2026-01-23-68)).
 

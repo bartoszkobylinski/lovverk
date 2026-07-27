@@ -40,7 +40,12 @@ Ph.d.-utdanningen skal kvalifisere for forskningsvirksomhet av internasjonal sta
 
 ### § 1-4. Ph.d.-graden
 
-Ph.d.-graden tildeles på grunnlag av:Godkjent vitenskapelig avhandling.Godkjent gjennomføring av opplæringsdel.Godkjent prøveforelesning over oppgitt emne.Godkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av:
+
+1. Godkjent vitenskapelig avhandling.
+2. Godkjent gjennomføring av opplæringsdel.
+3. Godkjent prøveforelesning over oppgitt emne.
+4. Godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 1-5. Ansvaret for ph.d.-utdanningen
 
@@ -80,7 +85,24 @@ Ph.d.-utdanningen omfattes av kvalitetssystemet ved Høgskulen på Vestlandet.
 
 ### § 2-2. Søknad
 
-(1) Søknaden skal inneholde:Dokumentasjon for den utdanning som skal ligge til grunn for opptaket.Prosjektbeskrivelse som omfatter:faglig redegjørelse for prosjektetfremdriftsplandokumentasjon på full finansieringdokumentasjon av spesielle behov for faglige og materielle ressursereventuelle planer for opphold ved annen institusjonplan for faglig formidlingopplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.Plan for opplæringsdelen.Liste over relevante publikasjoner.Forslag på hovedveileder, samt angivelse av tilknytning til aktivt forskningsmiljø.Anbefalingsbrev fra foreslått hovedveileder.Søknad om å få benytte annet språk enn engelsk eller norsk i avhandling, prøveforelesning og disputas, der dette er aktuelt.Redegjørelse for eventuelle rettslige og forskningsetiske problemstillinger som prosjektet reiser og hvordan disse kan avklares. Det skal gå frem av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komitéer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig være innhentet og legges ved søknaden.
+(1) Søknaden skal inneholde:
+
+1. Dokumentasjon for den utdanning som skal ligge til grunn for opptaket.
+2. Prosjektbeskrivelse som omfatter:
+
+   1. faglig redegjørelse for prosjektet
+   2. fremdriftsplan
+   3. dokumentasjon på full finansiering
+   4. dokumentasjon av spesielle behov for faglige og materielle ressurser
+   5. eventuelle planer for opphold ved annen institusjon
+   6. plan for faglig formidling
+   7. opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
+3. Plan for opplæringsdelen.
+4. Liste over relevante publikasjoner.
+5. Forslag på hovedveileder, samt angivelse av tilknytning til aktivt forskningsmiljø.
+6. Anbefalingsbrev fra foreslått hovedveileder.
+7. Søknad om å få benytte annet språk enn engelsk eller norsk i avhandling, prøveforelesning og disputas, der dette er aktuelt.
+8. Redegjørelse for eventuelle rettslige og forskningsetiske problemstillinger som prosjektet reiser og hvordan disse kan avklares. Det skal gå frem av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komitéer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig være innhentet og legges ved søknaden.
 
 (2) Programutvalget kan fastsette krav til ytterligere dokumentasjon.
 
@@ -106,7 +128,11 @@ Det skal normalt søkes om opptak til ph.d.-utdanning innen tre (3) måneder ett
 
 (2) I vedtaket skal hovedveileder oppnevnes, ansvaret for håndtering av andre behov som er skissert i søknaden plasseres, og avtaleperioden fastsettes med startdato og sluttdato. Startdato settes lik startdato for finansiering.
 
-(3) Opptak skal nektes dersom:avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen.de immaterialrettslige avtaler som er inngått er så urimelige at Høgskulen på Vestlandet ikke bør medvirke i prosjektet.søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. [§ 2-4](forskrift/2024-06-24-1859/§2-4).
+(3) Opptak skal nektes dersom:
+
+1. avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen.
+2. de immaterialrettslige avtaler som er inngått er så urimelige at Høgskulen på Vestlandet ikke bør medvirke i prosjektet.
+3. søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. [§ 2-4](forskrift/2024-06-24-1859/§2-4).
 
 ### § 2-7. Ph.d.-avtalen
 
@@ -142,7 +168,12 @@ Det skal normalt søkes om opptak til ph.d.-utdanning innen tre (3) måneder ett
 
 ### § 3-2. Tvungen avslutning
 
-(1) Høgskolen kan vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid. Slik avslutning kan besluttes hvis ett eller flere av følgende forhold foreligger:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 4-8](forskrift/2024-06-24-1859/§4-8).Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.Opptreden fra en kandidat bryter med den tillit som må foreligge mellom høgskolen og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen.
+(1) Høgskolen kan vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid. Slik avslutning kan besluttes hvis ett eller flere av følgende forhold foreligger:
+
+1. Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.
+2. Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 4-8](forskrift/2024-06-24-1859/§4-8).
+3. Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.
+4. Opptreden fra en kandidat bryter med den tillit som må foreligge mellom høgskolen og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen.
 
 (2) Vedtak om tvungen avslutning fattes av dekan etter innstilling fra programutvalget. Klageinstans er klagenemnda ved Høgskulen på Vestlandet.
 
@@ -284,7 +315,12 @@ Bestemmelser om eksamen, herunder fusk, i [forskrift om studium og eksamen ved H
 
 ### § 5-1. Grunnlag for bedømmelse
 
-Ph.d.-graden tildeles på grunnlag av følgende elementer, jf. [§ 1-4](forskrift/2024-06-24-1859/§1-4):Godkjent vitenskapelig avhandling.Godkjent gjennomføring av opplæringsdel.Godkjent prøveforelesning over oppgitt emne.Godkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av følgende elementer, jf. [§ 1-4](forskrift/2024-06-24-1859/§1-4):
+
+1. Godkjent vitenskapelig avhandling.
+2. Godkjent gjennomføring av opplæringsdel.
+3. Godkjent prøveforelesning over oppgitt emne.
+4. Godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 5-2. Tidsbruk fra innlevering til disputas
 
@@ -296,7 +332,14 @@ Ph.d.-graden tildeles på grunnlag av følgende elementer, jf. [§ 1-4](forskrif
 
 (1) Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent.
 
-(2) Som vedlegg til søknaden skal følge:Avhandlingen, i godkjent format og i den form og antall som er fastsatt i studieplan for doktorgradsprogrammet.Dokumentasjon på at opplæringsdelen er fullført og godkjent.Dokumentasjon av nødvendige tillatelser, jf. [§ 2-2](forskrift/2024-06-24-1859/§2-2) punkt h.Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 4-10 (4)](forskrift/2024-06-24-1859/§4-10/ledd/4).Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
+(2) Som vedlegg til søknaden skal følge:
+
+1. Avhandlingen, i godkjent format og i den form og antall som er fastsatt i studieplan for doktorgradsprogrammet.
+2. Dokumentasjon på at opplæringsdelen er fullført og godkjent.
+3. Dokumentasjon av nødvendige tillatelser, jf. [§ 2-2](forskrift/2024-06-24-1859/§2-2) punkt h.
+4. Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 4-10 (4)](forskrift/2024-06-24-1859/§4-10/ledd/4).
+5. Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.
+6. Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
 
 (3) Programutvalget kan avvise søknad om å få avhandlingen bedømt dersom det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité.
 
@@ -314,7 +357,14 @@ Programutvalget behandler søknad om å få avhandlingen bedømt. Søknad som ik
 
 (3) Komitéens sammensetning bør være klarlagt ved innleveringstidspunkt.
 
-(4) Bedømmelseskomitéen skal settes sammen slik at:flertallet i bedømmelseskomitéen er eksterne medlemmerbegge kjønn er representertminst ett av medlemmene har hovedstilling ved en utenlandsk institusjonminst ett av medlemmene er uten tilknytning til Høgskulen på Vestlandetett av medlemmene er fast ansatt ved Høgskulen på Vestlandetalle medlemmene har doktorgrad.
+(4) Bedømmelseskomitéen skal settes sammen slik at:
+
+1. flertallet i bedømmelseskomitéen er eksterne medlemmer
+2. begge kjønn er representert
+3. minst ett av medlemmene har hovedstilling ved en utenlandsk institusjon
+4. minst ett av medlemmene er uten tilknytning til Høgskulen på Vestlandet
+5. ett av medlemmene er fast ansatt ved Høgskulen på Vestlandet
+6. alle medlemmene har doktorgrad.
 
 (5) Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 
@@ -488,7 +538,12 @@ Høgskolestyret kan fastsette retningslinjer og utfyllende bestemmelser innenfor
 
 (1) Med fellesgrader menes et samarbeid mellom flere institusjoner, der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet som er beskrevet i denne forskriften. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne.
 
-(2) For fullført fellesgrad utstedes felles vitnemål i form av:et vitnemålsdokument utstedt av alle konsortiemedlemmene,et vitnemål fra hver av konsortiedeltakerne,eller en kombinasjon av a og b.
+(2) For fullført fellesgrad utstedes felles vitnemål i form av:
+
+1. et vitnemålsdokument utstedt av alle konsortiemedlemmene,
+2. et vitnemål fra hver av konsortiedeltakerne,
+
+eller en kombinasjon av a og b.
 
 (3) Fellesgrader skal normalt bare inngås dersom det fra før er et etablert, stabilt faglig samarbeid mellom Høgskulen på Vestlandet og minst en av de andre konsortiedeltakerne.
 

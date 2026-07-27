@@ -15,7 +15,7 @@ xml_hash: "5ca806be3c03f878baee9462a8e40fdb51d1f62952dcfd7b5fcc8461c6f95808"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -83,7 +83,32 @@ eu_basis: []
 - [Lov 1. juli 1994 nr. 49](lov/1994-07-01-49) om avtalefestet pensjon for arbeidstakere med rett til medlemskap i Pensjonsordning for apotekvirksomhet mv.
 - [Lov 23. august 1996 nr. 63](lov/1996-08-23-63) om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v.
 - [Lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet. Bestemmelser som gjelder sikkerhet, hovedsakelig kapittel IX og X.
-- [Lov 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd (folketrygdloven), for så vidt gjelder:Kapittel 1 Formål og definisjoner m.m.Kapittel 2 MedlemskapKapittel 3 Pensjonskomponentene, trygdetid, pensjonspoeng, beregning av pensjoner, forsørgingstillegg, med unntak av § 3-15 Pensjonsgivende inntekt (under Finansdepartementet)Kapittel 4 Dagpenger under arbeidsløshetKapittel 5 Stønad ved helsetjenester, for så vidt gjelder § 5-24 Stønad til helsetjenester i utlandet (kapitlet for øvrig under Helse- og omsorgsdepartementet)Kapittel 6 Grunnstønad og hjelpestønadKapittel 7 Stønad ved gravferdKapittel 8 SykepengerKapittel 9 Stønad ved barns og andre nære pårørendes sykdomKapittel 10 Ytelser under medisinsk rehabiliteringKapittel 11 Ytelser under yrkesrettet attføringKapittel 12 Tidsbegrenset uførestønad og uførepensjonKapittel 13 YrkesskadedekningKapittel 15 Stønad til enslig mor eller farKapittel 16 Ytelser til tidligere familiepleierKapittel 17 Ytelser til gjenlevende ektefelleKapittel 18 BarnepensjonKapittel 19 AlderspensjonKapittel 21 Saksbehandling i trygdesaker. Anke- og klagebehandling m.m.Kapittel 22 Utbetaling, med unntak av § 22-2 Utbetaling ved direkte oppgjør, § 22-4 Disponering av ytelser til langtidspasienter i helseinstitusjon og § 22-5 Felles trivselsordninger for langtidspasienter (under Helse- og omsorgsdepartementet)Kapittel 23 Finansiering, med unntak av § 23-2 Arbeidsgiveravgift, § 23-3 Trygdeavgift, § 23-5 Produktavgift ved fiske m.m., § 23-9 Tilskott fra kommunene og fylkeskommunene, § 23-10 Tilskott fra staten og § 23-11 Folketrygdens midler – folketrygdfondet (under Finansdepartementet)Kapittel 24 Saksbehandling i avgiftssaker m.m., for så vidt gjelder § 24-2 Trygdeetatens oppgaver (kapitlet forøvrig under Finansdepartementet)Kapittel 25 Forskjellige bestemmelser, med unntak av § 25-6 Tap av retten til å praktisere for trygdens regning og § 25-7 Utelukkelse fra å utstede legeerklæringer (under Helse- og omsorgsdepartementet)Kapittel 26 Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover
+- [Lov 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd (folketrygdloven), for så vidt gjelder:
+
+  - Kapittel 1 Formål og definisjoner m.m.
+  - Kapittel 2 Medlemskap
+  - Kapittel 3 Pensjonskomponentene, trygdetid, pensjonspoeng, beregning av pensjoner, forsørgingstillegg, med unntak av § 3-15 Pensjonsgivende inntekt (under Finansdepartementet)
+  - Kapittel 4 Dagpenger under arbeidsløshet
+  - Kapittel 5 Stønad ved helsetjenester, for så vidt gjelder § 5-24 Stønad til helsetjenester i utlandet (kapitlet for øvrig under Helse- og omsorgsdepartementet)
+  - Kapittel 6 Grunnstønad og hjelpestønad
+  - Kapittel 7 Stønad ved gravferd
+  - Kapittel 8 Sykepenger
+  - Kapittel 9 Stønad ved barns og andre nære pårørendes sykdom
+  - Kapittel 10 Ytelser under medisinsk rehabilitering
+  - Kapittel 11 Ytelser under yrkesrettet attføring
+  - Kapittel 12 Tidsbegrenset uførestønad og uførepensjon
+  - Kapittel 13 Yrkesskadedekning
+  - Kapittel 15 Stønad til enslig mor eller far
+  - Kapittel 16 Ytelser til tidligere familiepleier
+  - Kapittel 17 Ytelser til gjenlevende ektefelle
+  - Kapittel 18 Barnepensjon
+  - Kapittel 19 Alderspensjon
+  - Kapittel 21 Saksbehandling i trygdesaker. Anke- og klagebehandling m.m.
+  - Kapittel 22 Utbetaling, med unntak av § 22-2 Utbetaling ved direkte oppgjør, § 22-4 Disponering av ytelser til langtidspasienter i helseinstitusjon og § 22-5 Felles trivselsordninger for langtidspasienter (under Helse- og omsorgsdepartementet)
+  - Kapittel 23 Finansiering, med unntak av § 23-2 Arbeidsgiveravgift, § 23-3 Trygdeavgift, § 23-5 Produktavgift ved fiske m.m., § 23-9 Tilskott fra kommunene og fylkeskommunene, § 23-10 Tilskott fra staten og § 23-11 Folketrygdens midler – folketrygdfondet (under Finansdepartementet)
+  - Kapittel 24 Saksbehandling i avgiftssaker m.m., for så vidt gjelder § 24-2 Trygdeetatens oppgaver (kapitlet forøvrig under Finansdepartementet)
+  - Kapittel 25 Forskjellige bestemmelser, med unntak av § 25-6 Tap av retten til å praktisere for trygdens regning og § 25-7 Utelukkelse fra å utstede legeerklæringer (under Helse- og omsorgsdepartementet)
+  - Kapittel 26 Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover
 - [Lov 13. juni 1997 nr. 44](lov/1997-06-13-44) om aksjeselskaper; [§ 6-4](lov/1997-06-13-44/§6-4), [§ 6-5](lov/1997-06-13-44/§6-5), [§ 6-35](lov/1997-06-13-44/§6-35)
 - [Lov 13. juni 1997 nr. 45](lov/1997-06-13-45) om allmennaksjeselskaper; [§ 6-4](lov/1997-06-13-45/§6-4), [§ 6-5](lov/1997-06-13-45/§6-5), [§ 6-35](lov/1997-06-13-45/§6-35) og [§ 6-37](lov/1997-06-13-45/§6-37)
 - [Lov 21. august 1998 nr. 65](lov/1998-08-21-65) om pensjonsordning for ballettdansere, sangsolister og korsangere ved den Norske Opera
@@ -198,4 +223,7 @@ eu_basis: []
 
 ## Vedlegg 5. Overføring av forvaltningsansvaret for lover til Justis- og politidepartementet ansvaret for
 
-Justis- og politidepartementet (JD) får overført:Forvaltningsansvaret for [lov 15. mai 2008 nr. 35](lov/2008-05-15-35) om utlendingers adgang til riket og deres opphold her: Ansvaret for loven som sådan, forskriftsmyndighet etter loven i den utstrekning myndigheten ligger til departementet, samt annet forvaltningsansvar etter loven, unntatt forvaltningsansvaret etter [kapittel 3](lov/2008-05-15-35/kap3) og [kapittel 13](lov/2008-05-15-35/kap13) som legges til Arbeidsdepartementet.Lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark fylke (finnmarksloven) kap. 1, 2 og 3 samt [§ 49](lov/2005-06-17-85/§49), ansvaret for lovbestemmelsene som sådan. (Øvrig forvaltningsansvar etter bestemmelsene vil ligge i Fornyings-, administrasjons- og kirkedepartementet.)
+Justis- og politidepartementet (JD) får overført:
+
+- Forvaltningsansvaret for [lov 15. mai 2008 nr. 35](lov/2008-05-15-35) om utlendingers adgang til riket og deres opphold her: Ansvaret for loven som sådan, forskriftsmyndighet etter loven i den utstrekning myndigheten ligger til departementet, samt annet forvaltningsansvar etter loven, unntatt forvaltningsansvaret etter [kapittel 3](lov/2008-05-15-35/kap3) og [kapittel 13](lov/2008-05-15-35/kap13) som legges til Arbeidsdepartementet.
+- Lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark fylke (finnmarksloven) kap. 1, 2 og 3 samt [§ 49](lov/2005-06-17-85/§49), ansvaret for lovbestemmelsene som sådan. (Øvrig forvaltningsansvar etter bestemmelsene vil ligge i Fornyings-, administrasjons- og kirkedepartementet.)

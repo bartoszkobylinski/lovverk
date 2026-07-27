@@ -15,7 +15,7 @@ xml_hash: "f78264ee6cc7b4b82c02d506a2dfd6a6b31dee3badd8e6b4572e58e3b8d9e451"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,9 +40,16 @@ Garantien gjelder for lån innvilget av finansforetak innen utgangen av 31. okto
 
 ### § 3. Små og mellomstore bedrifter
 
-Med mellomstore bedrifter som nevnt i loven [§ 3](lov/2020-03-27-14/§3) første ledd, menes virksomheter som har rett eller plikt til registrering i Foretaksregisteret og som på konsolidert nivå:sysselsetter færre enn 250 personer, oghar en årsomsetning som ikke overstiger 50 millioner euro, ellerhar en samlet årsbalanse som ikke overstiger 43 millioner euro.
+Med mellomstore bedrifter som nevnt i loven [§ 3](lov/2020-03-27-14/§3) første ledd, menes virksomheter som har rett eller plikt til registrering i Foretaksregisteret og som på konsolidert nivå:
 
-Med små bedrifter som nevnt i loven [§ 3](lov/2020-03-27-14/§3) første ledd, menes virksomheter som har rett eller plikt til registrering i Foretaksregisteret og som på konsolidert nivå:sysselsetter færre enn 50 personer, oghar en årsomsetning eller en årsbalanse som ikke overstiger 10 millioner euro.
+1. sysselsetter færre enn 250 personer, og
+2. har en årsomsetning som ikke overstiger 50 millioner euro, eller
+3. har en samlet årsbalanse som ikke overstiger 43 millioner euro.
+
+Med små bedrifter som nevnt i loven [§ 3](lov/2020-03-27-14/§3) første ledd, menes virksomheter som har rett eller plikt til registrering i Foretaksregisteret og som på konsolidert nivå:
+
+1. sysselsetter færre enn 50 personer, og
+2. har en årsomsetning eller en årsbalanse som ikke overstiger 10 millioner euro.
 
 Ved beregning av beløpsgrensene i første og annet ledd skal den gjennomsnittlige valutakursen i 2019 legges til grunn, det vil si 9,8511 kroner per euro. Vilkårene i første og annet ledd utfylles og suppleres for øvrig av bestemmelser i Vedlegg 1 til denne forskrift.
 
@@ -56,7 +63,10 @@ Garantiordningen gjelder også lån til større bedrifter som på grunn av Covid
 
 ### § 4. Vilkår om akutt likviditetsmangel og lønnsomhet
 
-Dersom et finansforetak innvilger lån til en bedrift under garantiordningen, er vilkåret i loven [§ 3](lov/2020-03-27-14/§3) første ledd om akutt likviditetsmangel oppfylt når finansforetaket har vurdert det som sannsynlig at:bedriften på konsolidert nivå ellers ikke hadde hatt tilgang til lån fra finansforetak til dekning av utgifter og investeringer som er nødvendige for å sikre videre drift i lånets løpetid, oghovedårsaken til likviditetsmangelen er direkte eller indirekte virkninger av Covid-19-utbruddet.
+Dersom et finansforetak innvilger lån til en bedrift under garantiordningen, er vilkåret i loven [§ 3](lov/2020-03-27-14/§3) første ledd om akutt likviditetsmangel oppfylt når finansforetaket har vurdert det som sannsynlig at:
+
+1. bedriften på konsolidert nivå ellers ikke hadde hatt tilgang til lån fra finansforetak til dekning av utgifter og investeringer som er nødvendige for å sikre videre drift i lånets løpetid, og
+2. hovedårsaken til likviditetsmangelen er direkte eller indirekte virkninger av Covid-19-utbruddet.
 
 Vilkåret om at bedriften forventes å være lønnsom under normale markedsforhold, er oppfylt når et finansforetak innvilger lån til en bedrift under garantiordningen. Herunder kan det antas at lønnsomhetsvilkåret er oppfylt når årsregnskapet for 2019 viser positivt resultat etter skatt.
 
@@ -64,7 +74,16 @@ Vilkåret om at bedriften forventes å være lønnsom under normale markedsforho
 
 ### § 5. Utelukkelse av bedrifter som har vært i vanskeligheter
 
-Ordningen gjelder ikke lån til bedrifter som var i vanskeligheter 31. desember 2019. Med bedrifter som er i vanskeligheter, menes foretak der minst én av følgende hendelser har inntruffet:når det gjelder et foretak med begrenset ansvar, dersom mer enn halvparten av dets tegnede aksjekapital har forsvunnet som følge av akkumulerte tap. Dette er tilfelle når fradrag av akkumulerte tap fra reservene (og alle andre poster som vanligvis anses som en del av selskapets ansvarlige kapital) fører til et negativt kumulativt beløp som overstiger halvparten av den tegnede aksjekapitalen. I denne bestemmelsen menes med «selskap med begrenset ansvar» særlig selskapstyper omhandlet i vedlegg I til direktiv [2013/34/EU(1](eu/32013l0034)), og «aksjekapital» omfatter overkurs når det er relevant,når det gjelder et foretak der minst noen medlemmer har ubegrenset ansvar for foretakets gjeld, dersom mer enn halvparten av kapitalen som er oppført i selskapets regnskap, har forsvunnet som følge av akkumulerte tap. I denne bestemmelsen menes med «et selskap der minst noen medlemmer har ubegrenset ansvar for selskapets gjeld» særlig selskapstyper omhandlet i vedlegg II til direktiv [2013/34/EU](eu/32013l0034),foretaket er gjenstand for kollektiv insolvensbehandling eller oppfyller de fastsatte kriterier i nasjonal lovgivning for å være gjenstand for kollektiv insolvensbehandling etter anmodning fra kreditorene,foretaket har mottatt krisestøtte og har ennå ikke tilbakebetalt lånet eller innløst garantien, eller det har mottatt omstruktureringsstøtte og er fortsatt omfattet av en omstruktureringsplan,når det gjelder et foretak som ikke er en SMB etter [§ 3](forskrift/2020-03-27-490/§3), dersom følgende gjelder for de to foregående årene:foretakets bokførte forhold mellom gjeld og egenkapital har vært større enn 7,5 ogforetakets EBITDA-rentedekningsgrad har vært lavere enn 1,0.
+Ordningen gjelder ikke lån til bedrifter som var i vanskeligheter 31. desember 2019. Med bedrifter som er i vanskeligheter, menes foretak der minst én av følgende hendelser har inntruffet:
+
+1. når det gjelder et foretak med begrenset ansvar, dersom mer enn halvparten av dets tegnede aksjekapital har forsvunnet som følge av akkumulerte tap. Dette er tilfelle når fradrag av akkumulerte tap fra reservene (og alle andre poster som vanligvis anses som en del av selskapets ansvarlige kapital) fører til et negativt kumulativt beløp som overstiger halvparten av den tegnede aksjekapitalen. I denne bestemmelsen menes med «selskap med begrenset ansvar» særlig selskapstyper omhandlet i vedlegg I til direktiv [2013/34/EU(1](eu/32013l0034)), og «aksjekapital» omfatter overkurs når det er relevant,
+2. når det gjelder et foretak der minst noen medlemmer har ubegrenset ansvar for foretakets gjeld, dersom mer enn halvparten av kapitalen som er oppført i selskapets regnskap, har forsvunnet som følge av akkumulerte tap. I denne bestemmelsen menes med «et selskap der minst noen medlemmer har ubegrenset ansvar for selskapets gjeld» særlig selskapstyper omhandlet i vedlegg II til direktiv [2013/34/EU](eu/32013l0034),
+3. foretaket er gjenstand for kollektiv insolvensbehandling eller oppfyller de fastsatte kriterier i nasjonal lovgivning for å være gjenstand for kollektiv insolvensbehandling etter anmodning fra kreditorene,
+4. foretaket har mottatt krisestøtte og har ennå ikke tilbakebetalt lånet eller innløst garantien, eller det har mottatt omstruktureringsstøtte og er fortsatt omfattet av en omstruktureringsplan,
+5. når det gjelder et foretak som ikke er en SMB etter [§ 3](forskrift/2020-03-27-490/§3), dersom følgende gjelder for de to foregående årene:
+
+   1. foretakets bokførte forhold mellom gjeld og egenkapital har vært større enn 7,5 og
+   2. foretakets EBITDA-rentedekningsgrad har vært lavere enn 1,0.
 
 Små og mellomstore foretak som nevnt i [§ 3](forskrift/2020-03-27-490/§3) og som har eksistert i mindre enn tre år regnet fra det tidspunktet foretaket ble registrert i Foretaksregisteret, anses ikke å være i vanskeligheter selv om hendelsene som nevnt i første ledd bokstav a og b har inntruffet.
 
@@ -90,7 +109,10 @@ Det enkelte finansforetaks andel av garantiordningens samlede ramme til og med 2
 
 Foretak kan sende søknad om justering av andel til Eksportfinansiering Norge (Eksfin). Ubenyttede andeler av garantirammen kan fordeles av Eksfin mellom øvrige finansforetak forholdsmessig med fordelingen av andelene nevnt i første ledd, eller til finansforetak som har særlig behov for eller evne til å benytte en større andel av garantirammen. Eksfin kan etter anmodning fra finansforetak inndra andeler når finansforetaket ikke har ønske om eller evne til å benytte sin andel. Departementet kan treffe vedtak om omfordeling av garantirammen som innebærer at tildelte andeler inndras eller reduseres. Før departementet treffer vedtak om omfordeling som innebærer inndragning eller reduksjon av tildelte andeler, skal berørte finansforetak og Finans Norge gis anledning til å uttale seg.
 
-Foretak med hovedsete i en annen EØS-stat som etter [finansforetaksloven § 5-5](lov/2015-04-10-17/§5-5) kan drive grensekryssende utlånsvirksomhet i Norge i henhold til direktiv [2013/36/EU](eu/32013l0036*) (CRD IV) vedlegg I [punkt](lov/2015-04-10-17/kap2) 2, kan etter søknad tildeles en andel av garantiordningens samlede ramme. Eksfin mottar søknader og oversender tilrådning i saken til departementet for avgjørelse. Søknaden skal minst inneholde foretakets navn, kopi av Finanstilsynets melding til foretaket etter [finansforetaksloven § 5-5](lov/2015-04-10-17/§5-5) første ledd fjerde punktum, samt informasjon om foretakets markedsandeler i:markedet for lån til bedrifter i Norge som nevnt i [§ 3](forskrift/2020-03-27-490/§3), der lån til bedrifter innen næringseiendom er holdt utenfor, ogmarkedet for lån til alle bedrifter i Norge.
+Foretak med hovedsete i en annen EØS-stat som etter [finansforetaksloven § 5-5](lov/2015-04-10-17/§5-5) kan drive grensekryssende utlånsvirksomhet i Norge i henhold til direktiv [2013/36/EU](eu/32013l0036*) (CRD IV) vedlegg I [punkt](lov/2015-04-10-17/kap2) 2, kan etter søknad tildeles en andel av garantiordningens samlede ramme. Eksfin mottar søknader og oversender tilrådning i saken til departementet for avgjørelse. Søknaden skal minst inneholde foretakets navn, kopi av Finanstilsynets melding til foretaket etter [finansforetaksloven § 5-5](lov/2015-04-10-17/§5-5) første ledd fjerde punktum, samt informasjon om foretakets markedsandeler i:
+
+1. markedet for lån til bedrifter i Norge som nevnt i [§ 3](forskrift/2020-03-27-490/§3), der lån til bedrifter innen næringseiendom er holdt utenfor, og
+2. markedet for lån til alle bedrifter i Norge.
 
 > Endret ved [forskrifter 22 april 2020 nr. 833](forskrift/2020-04-22-833), [12 mai 2020 nr. 996](forskrift/2020-05-12-996), [16 sep 2020 nr. 1763](forskrift/2020-09-16-1763), [25 sep 2020 nr. 1826](forskrift/2020-09-25-1826), [27 okt 2020 nr. 2143](forskrift/2020-10-27-2143), [16 juni 2021 nr. 1961](forskrift/2021-06-16-1961) (i kraft 1 juli 2021).
 
@@ -184,11 +206,22 @@ For lån opprinnelig innvilget med en maksimal løpetid på inntil tre år, skal
 
 Finansforetaket skal på vegne av staten kreve en årlig garantiprovisjon fra låntaker. Finansforetaket skal betale garantiprovisjonen videre til staten så snart lånet er utbetalt, og deretter årlig for lån som har lengre løpetid enn 1 år. De etterfølgende innbetalingene skal skje på årsdato for første utbetaling av lånet, med mindre Eksfin fastsetter noe annet. Garantiprovisjon skal beregnes på grunnlag av utestående garantert lånebeløp på innbetalingstidspunktet for garantiprovisjonen.
 
-For låntakere som nevnt i [§ 3](forskrift/2020-03-27-490/§3), skal den årlige garantiprovisjonen utgjøre følgende prosentandel av den delen av lånebeløpet som er garantert under ordningen, beregnet fra dato for første utbetaling av lånet:0,25 prosent dersom lånet innvilges med løpetid inntil 1 år,0,50 prosent dersom lånet innvilges med løpetid lengre enn 1 år, og0,50 prosent dersom lånet innvilges med løpetid inntil 1 år med opsjon for forlengelse til inntil tre år.
+For låntakere som nevnt i [§ 3](forskrift/2020-03-27-490/§3), skal den årlige garantiprovisjonen utgjøre følgende prosentandel av den delen av lånebeløpet som er garantert under ordningen, beregnet fra dato for første utbetaling av lånet:
 
-For låntakere som nevnt i [§ 3a](forskrift/2020-03-27-490/§3a), skal den årlige garantiprovisjonen utgjøre følgende prosentandel av den delen av lånebeløpet som er garantert under ordningen, beregnet fra dato for første utbetaling av lånet:0,50 prosent dersom lånet innvilges med løpetid inntil 1 år,1,00 prosent dersom lånet innvilges med løpetid lengre enn 1 år, og1,00 prosent dersom lånet innvilges med løpetid inntil 1 år med opsjon for forlengelse til inntil tre år.
+1. 0,25 prosent dersom lånet innvilges med løpetid inntil 1 år,
+2. 0,50 prosent dersom lånet innvilges med løpetid lengre enn 1 år, og
+3. 0,50 prosent dersom lånet innvilges med løpetid inntil 1 år med opsjon for forlengelse til inntil tre år.
 
-Den årlige garantiprovisjonen for fjerde til sjette år av lånets løpetid skal utgjøre følgende prosentandel for den delen av lånebeløpet som er garantert under ordningen:1 prosent per år for låntakere som nevnt i [§ 3](forskrift/2020-03-27-490/§3), og2 prosent per år for låntakere som nevnt i [§ 3a](forskrift/2020-03-27-490/§3a).
+For låntakere som nevnt i [§ 3a](forskrift/2020-03-27-490/§3a), skal den årlige garantiprovisjonen utgjøre følgende prosentandel av den delen av lånebeløpet som er garantert under ordningen, beregnet fra dato for første utbetaling av lånet:
+
+1. 0,50 prosent dersom lånet innvilges med løpetid inntil 1 år,
+2. 1,00 prosent dersom lånet innvilges med løpetid lengre enn 1 år, og
+3. 1,00 prosent dersom lånet innvilges med løpetid inntil 1 år med opsjon for forlengelse til inntil tre år.
+
+Den årlige garantiprovisjonen for fjerde til sjette år av lånets løpetid skal utgjøre følgende prosentandel for den delen av lånebeløpet som er garantert under ordningen:
+
+1. 1 prosent per år for låntakere som nevnt i [§ 3](forskrift/2020-03-27-490/§3), og
+2. 2 prosent per år for låntakere som nevnt i [§ 3a](forskrift/2020-03-27-490/§3a).
 
 Finansforetaket skal angi garantiprovisjonen i tilbudsbrevet til lånesøker.
 
@@ -252,7 +285,14 @@ Eksfin kan på anmodning fra finansforetak gjøre unntak fra forskriften [§ 15]
 
 Eksfin foretar utbetaling av garantibeløpet etter anmodning fra finansforetaket med dokumentasjon på at lånet anses misligholdt etter [CRR/CRD IV-forskriften](forskrift/2014-08-22-1097).
 
-Anmodning nevnt i første ledd skal inneholde:kopi av låneavtalen,dokumentasjon som viser at bedriften oppfylte vilkårene for å få innvilget lån på innvilgelsestidspunktet,kontoutskrifter for lånet,oversikt over finansforetakets samlede engasjement med låntaker,oversikt over stilte sikkerheter til det garanterte lånet ogandre relevante opplysninger.
+Anmodning nevnt i første ledd skal inneholde:
+
+1. kopi av låneavtalen,
+2. dokumentasjon som viser at bedriften oppfylte vilkårene for å få innvilget lån på innvilgelsestidspunktet,
+3. kontoutskrifter for lånet,
+4. oversikt over finansforetakets samlede engasjement med låntaker,
+5. oversikt over stilte sikkerheter til det garanterte lånet og
+6. andre relevante opplysninger.
 
 Eksfin skal før garantibeløpet utbetales kontrollere at vilkårene i loven og forskriften er oppfylt, og at beløpet som utbetales ikke er høyere enn det som følger av loven [§ 4](lov/2020-03-27-14/§4) første ledd første og annet punktum.
 

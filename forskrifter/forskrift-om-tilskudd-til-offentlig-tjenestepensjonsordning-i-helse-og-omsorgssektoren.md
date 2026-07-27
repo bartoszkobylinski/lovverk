@@ -24,13 +24,20 @@ eu_basis: []
 
 ## § 1. Definisjoner
 
-I forskriften menes med*offentlig tjenestepensjonsordning:* pensjonsordning i samsvar med [forsikringsvirksomhetsloven kapittel 4](lov/2005-06-10-44/kap4)*historiske pensjonskostnader:* kostnader i offentlig tjenestepensjonsordning til tidligere opptjente pensjonsrettigheter som forfaller til betaling etter at opptjeningen er avsluttet*pensjonspremie:* reguleringspremie og særskilte engangspremier for ytelser hvis premie ikke kan fastsettes på forhånd.
+I forskriften menes med
+
+1. *offentlig tjenestepensjonsordning:* pensjonsordning i samsvar med [forsikringsvirksomhetsloven kapittel 4](lov/2005-06-10-44/kap4)
+2. *historiske pensjonskostnader:* kostnader i offentlig tjenestepensjonsordning til tidligere opptjente pensjonsrettigheter som forfaller til betaling etter at opptjeningen er avsluttet
+3. *pensjonspremie:* reguleringspremie og særskilte engangspremier for ytelser hvis premie ikke kan fastsettes på forhånd.
 
 ## § 2. Hvem som har rett til tilskudd
 
 Private virksomheter som betaler årlig pensjonspremie til offentlig tjenestepensjonsordning for opptjeningstid før 1. januar 2019, og som under opptjeningen i samsvar med avtale med fylkeskommune, regionalt helseforetak eller helseforetak leverte sykehustjenester, tverrfaglig spesialisert rusbehandling, rusbehandling på vegne av fylkeskommune før 2004, psykisk helsevern eller spesialisert rehabilitering omfattet av [spesialisthelsetjenesteloven § 2-1](lov/1999-07-02-61/§2-1)a, eller som i samsvar med avtale med staten eller annen fylkeskommune enn Oslo kommune leverte barneverntjenester som staten har finansieringsansvar for etter [barnevernloven § 9-4](lov/1992-07-17-100/§9-4), har rett til tilskudd. Som likestilt med avtale med fylkeskommune, regionalt helseforetak eller helseforetak regnes betaling fra Helfo for helsehjelp som nevnt i første punktum ytet etter [forskrift 29. oktober 2015 nr. 1232](forskrift/2015-10-29-1232) om private virksomheters adgang til å yte spesialisthelsetjenester mot betaling fra staten.
 
-Det kan likevel ikke gis tilskudd tilde private ideelle sykehusene Lovisenberg Diakonale Sykehus, Diakonhjemmet Sykehus, Betanien Hospital Skien, Martina Hansen Hospital, Revmatismesykehuset Lillehammer, Haugesund Sanitetsforeningens Revmatismesykehus, Haraldsplass Diakonale Sykehus og Hospitalet Betanien i Bergen, Jæren DPS, Solli DPS, Olaviken alderspsykiatriske sykehus og Voss DPS N.K.S. BjørkeliOverføringsavtalens Sikringsordning
+Det kan likevel ikke gis tilskudd til
+
+1. de private ideelle sykehusene Lovisenberg Diakonale Sykehus, Diakonhjemmet Sykehus, Betanien Hospital Skien, Martina Hansen Hospital, Revmatismesykehuset Lillehammer, Haugesund Sanitetsforeningens Revmatismesykehus, Haraldsplass Diakonale Sykehus og Hospitalet Betanien i Bergen, Jæren DPS, Solli DPS, Olaviken alderspsykiatriske sykehus og Voss DPS N.K.S. Bjørkeli
+2. Overføringsavtalens Sikringsordning
 
 Etter søknad fastsetter Helsedirektoratet hvem som har rett til tilskudd og størrelsen på tilskuddet. Helsedirektoratet kan fastsette rapporteringskrav i vedtaket.
 
@@ -54,7 +61,19 @@ En tilskuddsmottaker skal uten unødig opphold varsle Helsedirektoratet om endri
 
 ## § 6. Krav til en søknad om tilskudd
 
-En søknad om tilskudd skal sendes Helsedirektoratet på den måten Helsedirektoratet bestemmer og inneholdevirksomhetens kontaktinformasjon og kontonummerdokumentasjon for at kravene i [§ 2](forskrift/2019-03-08-194/§2) første ledd er oppfyltbekreftelse på at virksomheten har en offentlig tjenestepensjonsordning som krevd i [§ 3](forskrift/2019-03-08-194/§3)søkers erklæring om å frafalle rettskrav på å få dekket fra staten, fylkeskommune, regionalt helseforetak eller helseforetak de delene av historiske pensjonskostnader til tjenester som angitt i [§ 2](forskrift/2019-03-08-194/§2) som omfattes av offentlig tjenestepensjonsordning etter [§ 3](forskrift/2019-03-08-194/§3)dokumentasjon for hvor stor andel av opptjeningen som gjelder tjenester etter [§ 2](forskrift/2019-03-08-194/§2) første leddfullmakt til Helsedirektoratet til å innhente opplysninger fra søkerens leverandør av offentlig tjenestepensjon som er nødvendige for å beregne tilskuddetsøkerens vurdering av om tilskuddet vil kunne anses som offentlig støtte etter EØS-avtalen artikkel 61(1), blant annet om virksomheten driver økonomisk aktivitet og om tilskuddet vil kunne påvirke samhandelen innenfor EØS-området. Søkeren skal også opplyse om virksomheten har opprettet separate regnskaper mellom økonomisk og ikke-økonomisk aktivitetopplysninger om historiske pensjonskostnader omfattet av pensjonsavtale etter [§ 3](forskrift/2019-03-08-194/§3) også er dekket av avtale med regionale helseforetak om levering av spesialisthelsetjenester eller avtale med staten om levering av barneverntjenester i det året det søkes tilskudd forvirksomhetens satser for beregning av arbeidsgiveravgift på pensjonspremieopplysninger om omsetning knyttet til virksomhetens avtaler som er nødvendig for å beregne fradrag etter [§ 10](forskrift/2019-03-08-194/§10)bekreftelse på at den offentlige tjenestepensjonsordningen som krevd i [§ 3](forskrift/2019-03-08-194/§3) i det første tilskuddsåret er tilført de midlene som tilføres virksomhetens premiefond i forbindelse med årsoppgjøret i den offentlige tjenestepensjonsordningen som virksomheten hadde per 31. desember i året før det første tilskuddsåret, herunder avkastning på premiereserve og tilleggsavsetning, med unntak av den andelen som skyldes opptjening i særskilte pensjonsordninger for sykehusleger og sykepleiere.
+En søknad om tilskudd skal sendes Helsedirektoratet på den måten Helsedirektoratet bestemmer og inneholde
+
+1. virksomhetens kontaktinformasjon og kontonummer
+2. dokumentasjon for at kravene i [§ 2](forskrift/2019-03-08-194/§2) første ledd er oppfylt
+3. bekreftelse på at virksomheten har en offentlig tjenestepensjonsordning som krevd i [§ 3](forskrift/2019-03-08-194/§3)
+4. søkers erklæring om å frafalle rettskrav på å få dekket fra staten, fylkeskommune, regionalt helseforetak eller helseforetak de delene av historiske pensjonskostnader til tjenester som angitt i [§ 2](forskrift/2019-03-08-194/§2) som omfattes av offentlig tjenestepensjonsordning etter [§ 3](forskrift/2019-03-08-194/§3)
+5. dokumentasjon for hvor stor andel av opptjeningen som gjelder tjenester etter [§ 2](forskrift/2019-03-08-194/§2) første ledd
+6. fullmakt til Helsedirektoratet til å innhente opplysninger fra søkerens leverandør av offentlig tjenestepensjon som er nødvendige for å beregne tilskuddet
+7. søkerens vurdering av om tilskuddet vil kunne anses som offentlig støtte etter EØS-avtalen artikkel 61(1), blant annet om virksomheten driver økonomisk aktivitet og om tilskuddet vil kunne påvirke samhandelen innenfor EØS-området. Søkeren skal også opplyse om virksomheten har opprettet separate regnskaper mellom økonomisk og ikke-økonomisk aktivitet
+8. opplysninger om historiske pensjonskostnader omfattet av pensjonsavtale etter [§ 3](forskrift/2019-03-08-194/§3) også er dekket av avtale med regionale helseforetak om levering av spesialisthelsetjenester eller avtale med staten om levering av barneverntjenester i det året det søkes tilskudd for
+9. virksomhetens satser for beregning av arbeidsgiveravgift på pensjonspremie
+10. opplysninger om omsetning knyttet til virksomhetens avtaler som er nødvendig for å beregne fradrag etter [§ 10](forskrift/2019-03-08-194/§10)
+11. bekreftelse på at den offentlige tjenestepensjonsordningen som krevd i [§ 3](forskrift/2019-03-08-194/§3) i det første tilskuddsåret er tilført de midlene som tilføres virksomhetens premiefond i forbindelse med årsoppgjøret i den offentlige tjenestepensjonsordningen som virksomheten hadde per 31. desember i året før det første tilskuddsåret, herunder avkastning på premiereserve og tilleggsavsetning, med unntak av den andelen som skyldes opptjening i særskilte pensjonsordninger for sykehusleger og sykepleiere.
 
 Har søkeren fått tilskudd før, er det tilstrekkelig at en søknad for et senere år viser til tidligere informasjon etter kravene i første ledd. Er informasjonen etter kravene i første ledd gal eller har endret seg, skal søknaden i tillegg opplyse om det.
 
@@ -62,7 +81,12 @@ Har søkeren fått tilskudd før, er det tilstrekkelig at en søknad for et sene
 
 ## § 7. Beregning av det årlige tilskuddet
 
-Et tilskudd skal dekke pensjonspremien søkeren betaler i søknadsåret for offentlig tjenestepensjonsordning etter [§ 3](forskrift/2019-03-08-194/§3), med fradrag foropptjening som relaterer seg til andre tjenester enn de [§ 2](forskrift/2019-03-08-194/§2) gjelder etter [§ 8](forskrift/2019-03-08-194/§8)midler som tilføres virksomhetens premiefond i forbindelse med årsoppgjøret i tilskuddsåret etter [§ 10](forskrift/2019-03-08-194/§10)kostnader som er dekket gjennom avtale med regionale helseforetak eller staten etter [§ 10](forskrift/2019-03-08-194/§10)kostnader som allerede er dekket ved utbetaling av erstatning eller på annen måte.
+Et tilskudd skal dekke pensjonspremien søkeren betaler i søknadsåret for offentlig tjenestepensjonsordning etter [§ 3](forskrift/2019-03-08-194/§3), med fradrag for
+
+1. opptjening som relaterer seg til andre tjenester enn de [§ 2](forskrift/2019-03-08-194/§2) gjelder etter [§ 8](forskrift/2019-03-08-194/§8)
+2. midler som tilføres virksomhetens premiefond i forbindelse med årsoppgjøret i tilskuddsåret etter [§ 10](forskrift/2019-03-08-194/§10)
+3. kostnader som er dekket gjennom avtale med regionale helseforetak eller staten etter [§ 10](forskrift/2019-03-08-194/§10)
+4. kostnader som allerede er dekket ved utbetaling av erstatning eller på annen måte.
 
 Tilskuddet skal også kompensere for arbeidsgiveravgift etter [§ 11](forskrift/2019-03-08-194/§11).
 
@@ -114,7 +138,11 @@ Helsedirektoratet kan kontrollere at betingelsene for tilskuddet og vilkårene i
 
 ## § 13. Stans i utbetaling av tilskudd og krav om tilbakebetaling
 
-Helsedirektoratet kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottaker tilbakebetaler hele eller deler av utbetalt tilskudd dersomtildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkerentilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtakettilskuddsmottaker ikke har oppfylt øvrige krav i forskriften eller tilskuddsvedtaket.
+Helsedirektoratet kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottaker tilbakebetaler hele eller deler av utbetalt tilskudd dersom
+
+1. tildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkeren
+2. tilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket
+3. tilskuddsmottaker ikke har oppfylt øvrige krav i forskriften eller tilskuddsvedtaket.
 
 > Endret ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268) (tidligere § 12).
 

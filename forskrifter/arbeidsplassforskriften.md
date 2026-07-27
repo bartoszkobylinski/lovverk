@@ -15,7 +15,7 @@ xml_hash: "91b68f94ba46495c7a61647012d997a297fee688192b851c975e5ce2d735846f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1-1. Formål
 
-Forskriftens formål er å sikre at arbeidstakernes sikkerhet, helse og velferd ivaretas ved at:arbeidsplasser og arbeidslokaler tilrettelegges og utformes i forhold til arbeidet som utføres, den enkelte arbeidstaker og til særskilte risikoforhold.innkvartering som arbeidsgiver stiller til rådighet for arbeidstaker er forsvarlig utført, innredet og vedlikeholdt.
+Forskriftens formål er å sikre at arbeidstakernes sikkerhet, helse og velferd ivaretas ved at:
+
+1. arbeidsplasser og arbeidslokaler tilrettelegges og utformes i forhold til arbeidet som utføres, den enkelte arbeidstaker og til særskilte risikoforhold.
+2. innkvartering som arbeidsgiver stiller til rådighet for arbeidstaker er forsvarlig utført, innredet og vedlikeholdt.
 
 > Endret ved forskrift [10 april 2024 nr. 616](forskrift/2024-04-10-616) (i kraft 1 juni 2024).
 
@@ -44,17 +47,54 @@ For Svalbard får denne forskriften anvendelse med mindre annet følger av [fors
 
 Arbeidsgiver skal sørge for at bestemmelsene i denne forskriften blir gjennomført.
 
-For virksomheter som ikke sysselsetter arbeidstakere, gjelder følgende bestemmelser:[kapittel 4](forskrift/2011-12-06-1356/kap4) Sikkerhetsutrustning[kapittel 5](forskrift/2011-12-06-1356/kap5) Skilting og merking[§ 6-5](forskrift/2011-12-06-1356/§6-5) Sikring mot fall[kapittel 7](forskrift/2011-12-06-1356/kap7) Kjemikalier og forurensning i arbeidsatmosfæren og[kapittel 8](forskrift/2011-12-06-1356/kap8) Arbeid i omgivelser som kan medføre eksponering for biologiske faktorer.
+For virksomheter som ikke sysselsetter arbeidstakere, gjelder følgende bestemmelser:
 
-For virksomheter i jordbruk og skogbruk som ikke sysselsetter arbeidstakere gjelder i tillegg til foregående ledd følgende:[§ 2-11](forskrift/2011-12-06-1356/§2-11) Belysning[§ 2-14](forskrift/2011-12-06-1356/§2-14) Klima, ventilasjon, luftkvalitet mv.[§ 2-18](forskrift/2011-12-06-1356/§2-18) Ferdsel og atkomst[§ 2-20](forskrift/2011-12-06-1356/§2-20) Lasteramper, lasteplasser, tippsteder og kaier[§ 2-21](forskrift/2011-12-06-1356/§2-21) Rømningsveier og nødutganger[§ 3-7](forskrift/2011-12-06-1356/§3-7) Toaletter[§ 3-10](forskrift/2011-12-06-1356/§3-10) Førstehjelpsrom og førstehjelpsutstyr.
+- [kapittel 4](forskrift/2011-12-06-1356/kap4) Sikkerhetsutrustning
+- [kapittel 5](forskrift/2011-12-06-1356/kap5) Skilting og merking
+- [§ 6-5](forskrift/2011-12-06-1356/§6-5) Sikring mot fall
+- [kapittel 7](forskrift/2011-12-06-1356/kap7) Kjemikalier og forurensning i arbeidsatmosfæren og
+- [kapittel 8](forskrift/2011-12-06-1356/kap8) Arbeid i omgivelser som kan medføre eksponering for biologiske faktorer.
 
-For utleiere av arbeidslokaler og kaianlegg gjelder følgende:[kapittel 2](forskrift/2011-12-06-1356/kap2) Krav til arbeidsplasser og arbeidslokaler,[kapittel 3](forskrift/2011-12-06-1356/kap3) Krav til personalrom, rom for renholdsutstyr, førstehjelpsrom og førstehjelpsutstyr,[§ 4-2](forskrift/2011-12-06-1356/§4-2) Rømnings- og redningsutstyr, første, andre, fjerde og femte ledd,[§ 4-3](forskrift/2011-12-06-1356/§4-3) Brannforebygging, eksplosjonsforebygging og brannslokkingsutstyr, første ledd,[§ 6-5](forskrift/2011-12-06-1356/§6-5) Sikring mot fall, og[§ 8-1](forskrift/2011-12-06-1356/§8-1) Arbeidsplasser med biologisk helserisiko.
+For virksomheter i jordbruk og skogbruk som ikke sysselsetter arbeidstakere gjelder i tillegg til foregående ledd følgende:
+
+- [§ 2-11](forskrift/2011-12-06-1356/§2-11) Belysning
+- [§ 2-14](forskrift/2011-12-06-1356/§2-14) Klima, ventilasjon, luftkvalitet mv.
+- [§ 2-18](forskrift/2011-12-06-1356/§2-18) Ferdsel og atkomst
+- [§ 2-20](forskrift/2011-12-06-1356/§2-20) Lasteramper, lasteplasser, tippsteder og kaier
+- [§ 2-21](forskrift/2011-12-06-1356/§2-21) Rømningsveier og nødutganger
+- [§ 3-7](forskrift/2011-12-06-1356/§3-7) Toaletter
+- [§ 3-10](forskrift/2011-12-06-1356/§3-10) Førstehjelpsrom og førstehjelpsutstyr.
+
+For utleiere av arbeidslokaler og kaianlegg gjelder følgende:
+
+- [kapittel 2](forskrift/2011-12-06-1356/kap2) Krav til arbeidsplasser og arbeidslokaler,
+- [kapittel 3](forskrift/2011-12-06-1356/kap3) Krav til personalrom, rom for renholdsutstyr, førstehjelpsrom og førstehjelpsutstyr,
+- [§ 4-2](forskrift/2011-12-06-1356/§4-2) Rømnings- og redningsutstyr, første, andre, fjerde og femte ledd,
+- [§ 4-3](forskrift/2011-12-06-1356/§4-3) Brannforebygging, eksplosjonsforebygging og brannslokkingsutstyr, første ledd,
+- [§ 6-5](forskrift/2011-12-06-1356/§6-5) Sikring mot fall, og
+- [§ 8-1](forskrift/2011-12-06-1356/§8-1) Arbeidsplasser med biologisk helserisiko.
 
 > Endret ved forskrift [15 des 2021 nr. 3563](forskrift/2021-12-15-3563) (i kraft 1 jan 2022).
 
 ### § 1-4. Definisjoner
 
-I denne forskriften menes med:*arbeidslokaler:* rom som virksomheten bruker i forbindelse med arbeidet slik som arbeidsrom, personalrom, atkomstarealer med mer*arbeidsplass:* ethvert sted, innendørs, utendørs eller under jord hvor det utføres arbeid av fast eller midlertidig karakter*arbeidsrom:* rom der arbeidstakere skal oppholde seg for å utføre arbeid som inngår i virksomhetens faste aktiviteter*arbeidsutstyr:* tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid*atkomstvei:* atkomstvei omfatter veier, trapper, korridorer, heis mv. som benyttes av arbeidstakere for å komme seg til arbeidsplasser eller mellom arbeidsplasser og personalrom*biologiske faktorer:* levende eller døde mikroorganismer, cellekulturer, endoparasitter og prioner som kan fremkalle infeksjoner, allergi eller giftvirkning hos mennesker*lydsignal:* kodet lydsignal som utløses og overføres ved hjelp av en innretning som er konstruert for dette formålet, uten bruk av en menneskelig eller kunstig stemme*lyssignal:* et signal som utsendes gjennom en innretning som er konstruert for belysning fra innsiden eller baksiden på en måte som gjør at overflaten er opplyst*personalrom:* garderobe, tørkerom, vaskerom, dusjrom, toalett, spiserom, hvilerom, pauserom og soverom*prosessavsug:* innretning som fjerner forurenset luft nær kilden før forurensningen spres til omgivelsene*risiko:* en funksjon av sannsynligheten for at en uønsket hendelse kan inntreffe og konsekvensen for arbeidstakernes liv eller helse*sikkerhetsskilting:* skilt som med form, symboler, farger og eventuelt tekst gir opplysninger og instruksjoner om hvordan man skal forholde seg til forskjellige situasjoner med hensyn til sikkerhet eller helse*stråleinnretning:* et samlebegrep for innretninger som styrer væskestrålens retning. Den omfatter dyse, forlengelsesrør, holde- og støtteanordning og ventilinnretning for å kontrollere gjennomstrømming av væske. Væskestrålens trykk er høyere enn 25 Bar*varmt arbeid:* arbeid hvor det nyttes varme, for eksempel åpen ild, varmeflater, og tenningsdyktige gnister. Varmt arbeid omfatter også arbeidsoperasjoner som sveising, lodding, skjærbrenning og sliping av metall mv. hvor det i tillegg kan utvikles helsefarlig gass*varselfarger:* farger som har en bestemt betydning og som varsler om farlige forhold.
+I denne forskriften menes med:
+
+1. *arbeidslokaler:* rom som virksomheten bruker i forbindelse med arbeidet slik som arbeidsrom, personalrom, atkomstarealer med mer
+2. *arbeidsplass:* ethvert sted, innendørs, utendørs eller under jord hvor det utføres arbeid av fast eller midlertidig karakter
+3. *arbeidsrom:* rom der arbeidstakere skal oppholde seg for å utføre arbeid som inngår i virksomhetens faste aktiviteter
+4. *arbeidsutstyr:* tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid
+5. *atkomstvei:* atkomstvei omfatter veier, trapper, korridorer, heis mv. som benyttes av arbeidstakere for å komme seg til arbeidsplasser eller mellom arbeidsplasser og personalrom
+6. *biologiske faktorer:* levende eller døde mikroorganismer, cellekulturer, endoparasitter og prioner som kan fremkalle infeksjoner, allergi eller giftvirkning hos mennesker
+7. *lydsignal:* kodet lydsignal som utløses og overføres ved hjelp av en innretning som er konstruert for dette formålet, uten bruk av en menneskelig eller kunstig stemme
+8. *lyssignal:* et signal som utsendes gjennom en innretning som er konstruert for belysning fra innsiden eller baksiden på en måte som gjør at overflaten er opplyst
+9. *personalrom:* garderobe, tørkerom, vaskerom, dusjrom, toalett, spiserom, hvilerom, pauserom og soverom
+10. *prosessavsug:* innretning som fjerner forurenset luft nær kilden før forurensningen spres til omgivelsene
+11. *risiko:* en funksjon av sannsynligheten for at en uønsket hendelse kan inntreffe og konsekvensen for arbeidstakernes liv eller helse
+12. *sikkerhetsskilting:* skilt som med form, symboler, farger og eventuelt tekst gir opplysninger og instruksjoner om hvordan man skal forholde seg til forskjellige situasjoner med hensyn til sikkerhet eller helse
+13. *stråleinnretning:* et samlebegrep for innretninger som styrer væskestrålens retning. Den omfatter dyse, forlengelsesrør, holde- og støtteanordning og ventilinnretning for å kontrollere gjennomstrømming av væske. Væskestrålens trykk er høyere enn 25 Bar
+14. *varmt arbeid:* arbeid hvor det nyttes varme, for eksempel åpen ild, varmeflater, og tenningsdyktige gnister. Varmt arbeid omfatter også arbeidsoperasjoner som sveising, lodding, skjærbrenning og sliping av metall mv. hvor det i tillegg kan utvikles helsefarlig gass
+15. *varselfarger:* farger som har en bestemt betydning og som varsler om farlige forhold.
 
 ### § 1-5. Dispensasjon
 
@@ -164,7 +204,12 @@ Skyvedører skal være utstyrt med en sikkerhetsinnretning som hindrer dem i å 
 
 De enkelte arbeidsplasser skal ha dagslys og utsyn.
 
-Lokaler uten dagslys og utsyn kan benyttes som arbeidsplass i følgende tilfeller:når arbeidsplassen av tekniske eller sikkerhetsmessige grunner må ligge under jorda,når arbeidets art tilsier det,når lokalets størrelse eller tiden arbeidstakeren oppholder seg der gjør det forsvarlig,når det for eksisterende arbeidslokaler vil medføre store ulemper og store omkostninger å foreta ombygninger.
+Lokaler uten dagslys og utsyn kan benyttes som arbeidsplass i følgende tilfeller:
+
+1. når arbeidsplassen av tekniske eller sikkerhetsmessige grunner må ligge under jorda,
+2. når arbeidets art tilsier det,
+3. når lokalets størrelse eller tiden arbeidstakeren oppholder seg der gjør det forsvarlig,
+4. når det for eksisterende arbeidslokaler vil medføre store ulemper og store omkostninger å foreta ombygninger.
 
 Spiserom skal om mulig ha dagslys og utsyn.
 
@@ -304,7 +349,13 @@ Når leider har funksjon som redningsvei skal den markeres slik at den er godt s
 
 ### § 2-24. Særskilte vernetiltak for utendørs arbeidsplasser
 
-Utendørs arbeidsplasser skal så langt det er mulig være innrettet slik at arbeidstakerne:er beskyttet mot ugunstige værforhold,er vernet mot fallende gjenstander,ikke blir utsatt for skadelig støy eller for skadelige ytre påvirkninger som f.eks. gass, damp eller støv,raskt kan forlate arbeidsplassen ved fare eller raskt kan reddes,ikke kan gli eller falle.
+Utendørs arbeidsplasser skal så langt det er mulig være innrettet slik at arbeidstakerne:
+
+1. er beskyttet mot ugunstige værforhold,
+2. er vernet mot fallende gjenstander,
+3. ikke blir utsatt for skadelig støy eller for skadelige ytre påvirkninger som f.eks. gass, damp eller støv,
+4. raskt kan forlate arbeidsplassen ved fare eller raskt kan reddes,
+5. ikke kan gli eller falle.
 
 Arbeidstakerne skal ha tilgang til lokale hvor de kan oppholde seg når det er nødvendig av hensyn til arbeidstakernes sikkerhet, helse og arbeidsmiljø.
 
@@ -318,7 +369,12 @@ Personalrom skal være hensiktsmessig plassert i forhold til personalinngang og 
 
 ### § 3-2. Dimensjonering og innredning av personalrom
 
-Ved dimensjonering av personalrom skal det blant annet tas hensyn til:arbeidets art,det største antall arbeidstakere som normalt skal bruke rommet samtidig,at det skal utstyres med et antall bord og stoler med rygg som er tilpasset antallet arbeidstakere,at virksomheten skal kunne sysselsette både kvinner og menn. I personalrom skal det ikke plasseres eller installeres annet utstyr enn det som er knyttet til den naturlige virksomheten i rommet.
+Ved dimensjonering av personalrom skal det blant annet tas hensyn til:
+
+1. arbeidets art,
+2. det største antall arbeidstakere som normalt skal bruke rommet samtidig,
+3. at det skal utstyres med et antall bord og stoler med rygg som er tilpasset antallet arbeidstakere,
+4. at virksomheten skal kunne sysselsette både kvinner og menn. I personalrom skal det ikke plasseres eller installeres annet utstyr enn det som er knyttet til den naturlige virksomheten i rommet.
 
 ### § 3-3. Gravide og ammende
 
@@ -398,7 +454,17 @@ Førstehjelpsrom og oppbevaringssteder for førstehjelpsutstyr skal være hensik
 
 ### § 3A-1. Generelle krav til innkvarteringen
 
-Innkvartering som arbeidsgiver stiller til rådighet for arbeidstaker, skal være forsvarlig utført, innredet og vedlikeholdt. Innkvarteringen skal blant annet være forsvarlig med hensyn tildagslys og utsynvedlikehold og mulighet for tilstrekkelig renhold og hygienisk standardtemperatur, fuktighet, avtrekk og luftkvalitetgiftige og helsefarlige stofferbiologiske faktoreroppbevaring, tilberedelse og inntak av matoppbevaring av klærvask og tørk av klærbrann- og elsikkerhet.
+Innkvartering som arbeidsgiver stiller til rådighet for arbeidstaker, skal være forsvarlig utført, innredet og vedlikeholdt. Innkvarteringen skal blant annet være forsvarlig med hensyn til
+
+1. dagslys og utsyn
+2. vedlikehold og mulighet for tilstrekkelig renhold og hygienisk standard
+3. temperatur, fuktighet, avtrekk og luftkvalitet
+4. giftige og helsefarlige stoffer
+5. biologiske faktorer
+6. oppbevaring, tilberedelse og inntak av mat
+7. oppbevaring av klær
+8. vask og tørk av klær
+9. brann- og elsikkerhet.
 
 Arbeidstakere i innkvarteringen skal ved fare på en rask og sikker måte kunne evakueres fra alle rom. [Arbeidsplassforskriften § 2-21](forskrift/2011-12-06-1356/§2-21) om rømningsveier og nødutganger gjelder tilsvarende for innkvarteringsforhold.
 
@@ -412,7 +478,10 @@ Førstehjelpsutstyr bør være tilgjengelig i umiddelbar nærhet.
 
 Arbeidsgiver skal sørge for at hver arbeidstaker har eget soverom. Soverom skal ha vindu som kan åpnes og som kan benyttes som rømningsvei.
 
-Krav om enkeltrom som soverom gjelder ikkefor sesongarbeid i inntil 12 uker i løpet av kalenderåretved kortvarig arbeid utenfor normalarbeidsstedet der det vanskelig lar seg gjøre å stille enkeltrom til arbeidstakers disposisjon.
+Krav om enkeltrom som soverom gjelder ikke
+
+1. for sesongarbeid i inntil 12 uker i løpet av kalenderåret
+2. ved kortvarig arbeid utenfor normalarbeidsstedet der det vanskelig lar seg gjøre å stille enkeltrom til arbeidstakers disposisjon.
 
 Maksimalt fire arbeidstakere kan dele soverom i slike tilfeller. Det skal uansett være minst 4 kvadratmeter gulvplass per person hvor flere personer sover i samme rom.
 
@@ -506,7 +575,22 @@ Skilter som inneholder en varselfarge skal være i samsvar med følgende tabell:
 
 ### § 5-4. Bestemmelser om bruk av sikkerhetsskilt og signaler
 
-Bruk av sikkerhetsskilt og signaler skal planlegges slik at:Annen skilting eller andre lys- eller lydkilder ikke plasseres slik at det kan påvirke synligheten eller hørbarheten på de skilter eller signaler som kreves etter denne forskriften.Plassering av flere skilt nær hverandre unngås.Lyssignal som kan forveksles ikke brukes samtidig.Et lyssignal ikke brukes i nærheten av en annen lyskilde av lignende type.To eller flere lydsignaler ikke brukes samtidig.Lydsignal ikke brukes dersom bakgrunnsstøy kan hindre oppfattelsen av signalet.Skilter eller signalinnretninger blir lette å forstå og godt synlige i forhold til de farer de skal varsle om.Skilter eller signalinnretninger blir plassert i nødvendig antall i forhold til graden av fare eller risiko eller til sonen som skal dekkes.Skilter og signalinnretninger blir kontrollert før de settes i drift og deretter jevnlig rengjøres, vedlikeholdes, kontrolleres, repareres og, om nødvendig erstattes, for å sikre at de fungerer korrekt og virker etter hensikten.Skilting som krever en energikilde, blir sikret med nødtilførsel i tilfelle strømbrudd, med mindre risikoen forsvinner med strømbruddet.Igangsetting av lys- og lydsignal angir når en påkrevd handling starter. Lys- og lydsignal skal vare så lenge handlingen krever det.Lys- og lydsignalene skal settes i beredskapsstilling umiddelbart etter hver bruk.Dersom berørte arbeidstakeres hørsel eller syn hemmes, f.eks. som følge av bruk av personlig verneutstyr, treffes det tiltak for å utfylle eller erstatte den aktuelle skiltingen.Arealer, rom eller inngjerdede områder for lagring av store mengder helsefarlige, brannfarlige eller eksplosjonsfarlige stoffer eller stoffblandinger skal angis med et passende sikkerhetsskilt valgt blant dem som er oppført i [§ 5-7](forskrift/2011-12-06-1356/§5-7) nr. 2) eller merkes som fastsatt i [§ 5-13](forskrift/2011-12-06-1356/§5-13), med mindre merkingen av de enkelte pakker eller beholdere er tilstrekkelig for dette formålet. Dersom det i [§ 5-7](forskrift/2011-12-06-1356/§5-7) ikke finnes et egnet sikkerhetsskilt for å varsle om farlige kjemiske stoffer eller stoffblandinger, skal det relevante farepiktogrammet brukes som fastsatt i [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger](forskrift/2012-06-16-622) (CLP), jf. forordning [(EF) nr. 1272/2008 vedlegg V](eu/32008r1272/vedleggV).
+Bruk av sikkerhetsskilt og signaler skal planlegges slik at:
+
+1. Annen skilting eller andre lys- eller lydkilder ikke plasseres slik at det kan påvirke synligheten eller hørbarheten på de skilter eller signaler som kreves etter denne forskriften.
+2. Plassering av flere skilt nær hverandre unngås.
+3. Lyssignal som kan forveksles ikke brukes samtidig.
+4. Et lyssignal ikke brukes i nærheten av en annen lyskilde av lignende type.
+5. To eller flere lydsignaler ikke brukes samtidig.
+6. Lydsignal ikke brukes dersom bakgrunnsstøy kan hindre oppfattelsen av signalet.
+7. Skilter eller signalinnretninger blir lette å forstå og godt synlige i forhold til de farer de skal varsle om.
+8. Skilter eller signalinnretninger blir plassert i nødvendig antall i forhold til graden av fare eller risiko eller til sonen som skal dekkes.
+9. Skilter og signalinnretninger blir kontrollert før de settes i drift og deretter jevnlig rengjøres, vedlikeholdes, kontrolleres, repareres og, om nødvendig erstattes, for å sikre at de fungerer korrekt og virker etter hensikten.
+10. Skilting som krever en energikilde, blir sikret med nødtilførsel i tilfelle strømbrudd, med mindre risikoen forsvinner med strømbruddet.
+11. Igangsetting av lys- og lydsignal angir når en påkrevd handling starter. Lys- og lydsignal skal vare så lenge handlingen krever det.
+12. Lys- og lydsignalene skal settes i beredskapsstilling umiddelbart etter hver bruk.
+13. Dersom berørte arbeidstakeres hørsel eller syn hemmes, f.eks. som følge av bruk av personlig verneutstyr, treffes det tiltak for å utfylle eller erstatte den aktuelle skiltingen.
+14. Arealer, rom eller inngjerdede områder for lagring av store mengder helsefarlige, brannfarlige eller eksplosjonsfarlige stoffer eller stoffblandinger skal angis med et passende sikkerhetsskilt valgt blant dem som er oppført i [§ 5-7](forskrift/2011-12-06-1356/§5-7) nr. 2) eller merkes som fastsatt i [§ 5-13](forskrift/2011-12-06-1356/§5-13), med mindre merkingen av de enkelte pakker eller beholdere er tilstrekkelig for dette formålet. Dersom det i [§ 5-7](forskrift/2011-12-06-1356/§5-7) ikke finnes et egnet sikkerhetsskilt for å varsle om farlige kjemiske stoffer eller stoffblandinger, skal det relevante farepiktogrammet brukes som fastsatt i [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger](forskrift/2012-06-16-622) (CLP), jf. forordning [(EF) nr. 1272/2008 vedlegg V](eu/32008r1272/vedleggV).
 
 > Endret ved forskrift [26 juni 2015 nr. 798](forskrift/2015-06-26-798).
 
@@ -534,12 +618,58 @@ Sikkerhetsskiltet skal fjernes når situasjonen det henviser til ikke lenger er 
 
 ### § 5-7. Sikkerhetsskilter som skal brukes
 
-1. Forbudsskilt er skilt som forbyr handling som, direkte eller indirekte, kan forårsake fare.Forbudsskilt skal ha:rund formsort symbol på hvit bakgrunn, kantbord og diagonal linje (skrånende nedover fra venstre til høyre tvers over symbolet i 45 ° vinkel i forhold til vannrett) i rødt (rødfargen skal dekke minst 35 % av skiltflaten).Forbudsskilt skal være som følger:
-2. Fareskilt er skilt som advarer mot risiko og fare.Fareskilt skal ha:trekantformsort symbol på gul bakgrunn med sort kantbord og gulfargen skal oppta minst 50 % av skiltflaten.Fareskilt skal være som følger:Fareskiltet «Generell fare» skal ikke brukes for å varsle om farlige kjemiske stoffer eller stoffblandinger, med unntak av de tilfellene der fareskiltet brukes i samsvar med [§ 5-14](forskrift/2011-12-06-1356/§5-14) for å markere lagringssteder for farlige stoffer eller stoffblandinger.
-3. Påbudsskilt er skilt som pålegger en bestemt handling.Påbudsskilt skal ha:rund formhvitt symbol på blå bakgrunn og blåfargen skal oppta minst 50 % av skiltflaten.Påbudsskilt skal være som følger:
-4. Nødskilt er skilt som gir opplysninger om nødutganger eller førstehjelps- eller redningsutstyr.Nødskilt skal ha:rektangulær form eller kvadratisk formhvitt symbol på grønn bakgrunn og grønnfargen skal oppta minst 50 % av skiltflaten.Nødskilt skal være som følger:Hjertestarter/AED
-5. Alarmskilt er skilt som angir plasseringen av nødstoppinnretninger, alarmknapper, evakueringssignaler og avstengningsmekanismer.Alarmskilt skal ha:kvadratisk formhvitt symbol på rød bakgrunn og rødfargen skal oppta minst 50 % av skiltflaten.Alarmskilt skal være som følger:
-6. Brannvernskilt er skilt som angir plassering av utstyr som skal brukes i forbindelse med brann.Brannvernskilt skal ha:rektangulær eller kvadratisk formhvitt symbol på rød bakgrunn og rødfargen skal oppta minst 50 % av skiltflaten.Brannvernskilt skal være som følger:
+1. Forbudsskilt er skilt som forbyr handling som, direkte eller indirekte, kan forårsake fare.
+
+   Forbudsskilt skal ha:
+
+   - rund form
+   - sort symbol på hvit bakgrunn, kantbord og diagonal linje (skrånende nedover fra venstre til høyre tvers over symbolet i 45 ° vinkel i forhold til vannrett) i rødt (rødfargen skal dekke minst 35 % av skiltflaten).
+
+   Forbudsskilt skal være som følger:
+2. Fareskilt er skilt som advarer mot risiko og fare.
+
+   Fareskilt skal ha:
+
+   - trekantform
+   - sort symbol på gul bakgrunn med sort kantbord og gulfargen skal oppta minst 50 % av skiltflaten.
+
+   Fareskilt skal være som følger:
+
+   Fareskiltet «Generell fare» skal ikke brukes for å varsle om farlige kjemiske stoffer eller stoffblandinger, med unntak av de tilfellene der fareskiltet brukes i samsvar med [§ 5-14](forskrift/2011-12-06-1356/§5-14) for å markere lagringssteder for farlige stoffer eller stoffblandinger.
+3. Påbudsskilt er skilt som pålegger en bestemt handling.
+
+   Påbudsskilt skal ha:
+
+   - rund form
+   - hvitt symbol på blå bakgrunn og blåfargen skal oppta minst 50 % av skiltflaten.
+
+   Påbudsskilt skal være som følger:
+4. Nødskilt er skilt som gir opplysninger om nødutganger eller førstehjelps- eller redningsutstyr.
+
+   Nødskilt skal ha:
+
+   - rektangulær form eller kvadratisk form
+   - hvitt symbol på grønn bakgrunn og grønnfargen skal oppta minst 50 % av skiltflaten.
+
+   Nødskilt skal være som følger:
+
+   Hjertestarter/AED
+5. Alarmskilt er skilt som angir plasseringen av nødstoppinnretninger, alarmknapper, evakueringssignaler og avstengningsmekanismer.
+
+   Alarmskilt skal ha:
+
+   - kvadratisk form
+   - hvitt symbol på rød bakgrunn og rødfargen skal oppta minst 50 % av skiltflaten.
+
+   Alarmskilt skal være som følger:
+6. Brannvernskilt er skilt som angir plassering av utstyr som skal brukes i forbindelse med brann.
+
+   Brannvernskilt skal ha:
+
+   - rektangulær eller kvadratisk form
+   - hvitt symbol på rød bakgrunn og rødfargen skal oppta minst 50 % av skiltflaten.
+
+   Brannvernskilt skal være som følger:
 
 > Endret ved forskrifter [30 des 2013 nr. 1719](forskrift/2013-12-30-1719) (i kraft 1 jan 2014), [26 juni 2015 nr. 798](forskrift/2015-06-26-798), [21 juni 2016 nr. 759](forskrift/2016-06-21-759) (i kraft 1 juli 2016), [19 juni 2020 nr. 1265](forskrift/2020-06-19-1265) (i kraft 1 juli 2020).
 
@@ -565,7 +695,10 @@ Innretninger for utsendelse av blinkende lyssignaler i tilfelle en alvorlig fare
 
 ### § 5-10. Krav til lydsignaler
 
-Lydsignaler skal:ha et lydnivå som er betydelig høyere enn bakgrunnslydnivået og skal kunne høres uten å være unødvendig høye eller smertefulle,være lette å kjenne igjen, særlig med tanke på varigheten av lydimpulsene og tidsintervallet mellom dem eller mellom grupper av lydimpulser, samt klart atskilt fra andre lydsignaler og bakgrunnsstøy fra omgivelsene.
+Lydsignaler skal:
+
+1. ha et lydnivå som er betydelig høyere enn bakgrunnslydnivået og skal kunne høres uten å være unødvendig høye eller smertefulle,
+2. være lette å kjenne igjen, særlig med tanke på varigheten av lydimpulsene og tidsintervallet mellom dem eller mellom grupper av lydimpulser, samt klart atskilt fra andre lydsignaler og bakgrunnsstøy fra omgivelsene.
 
 Dersom en innretning kan sende ut et lydsignal med variable og uavbrutte svingetall, skal det variable svingetallet brukes til å angi en høyere grad av fare e.l. enn det som angis ved et uavbrutte svingetall.
 
@@ -591,7 +724,11 @@ Rørledninger skal i tillegg være merket med pil som viser strømretningen, og 
 
 Merkingen som brukes på rørledninger skal plasseres lett synlig i nærheten av de farligste punktene som ventiler, flenser eller koblinger og med passende avstand.
 
-Første ledd får ikke anvendelse på beholdere som brukes på arbeidsplassen i kortere perioder eller beholdere med innhold som ofte skiftes ut, forutsatt at det treffes alternative tilfredsstillende tiltak, spesielt informasjon og/eller opplæring, som sikrer samme vernenivå. Merkingen nevnt i første ledd kan:erstattes av sikkerhetsskilter fastsatt i [§ 5-7](forskrift/2011-12-06-1356/§5-7) nr. 2, med bruk av samme piktogrammer eller symboler. Dersom det ikke finnes et egnet sikkerhetsskilt i [§ 5-7](forskrift/2011-12-06-1356/§5-7) nr. 2, skal det relevante farepiktogrammet brukes, som fastsatt etter [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger](forskrift/2012-06-16-622) (CLP), jf. forordning [(EF) nr. 1272/2008 vedlegg V](eu/32008r1272/vedleggV).utfylles med tilleggsopplysninger, som navn på og/eller formel for det farlige stoffet eller den farlige stoffblandingen og opplysninger om risikoen.for transport eller flytting av beholdere på arbeidsplassen, utfylles eller erstattes med skilting som brukes i hele EØS-området for transport av farlige stoffer eller stoffblandinger.
+Første ledd får ikke anvendelse på beholdere som brukes på arbeidsplassen i kortere perioder eller beholdere med innhold som ofte skiftes ut, forutsatt at det treffes alternative tilfredsstillende tiltak, spesielt informasjon og/eller opplæring, som sikrer samme vernenivå. Merkingen nevnt i første ledd kan:
+
+- erstattes av sikkerhetsskilter fastsatt i [§ 5-7](forskrift/2011-12-06-1356/§5-7) nr. 2, med bruk av samme piktogrammer eller symboler. Dersom det ikke finnes et egnet sikkerhetsskilt i [§ 5-7](forskrift/2011-12-06-1356/§5-7) nr. 2, skal det relevante farepiktogrammet brukes, som fastsatt etter [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger](forskrift/2012-06-16-622) (CLP), jf. forordning [(EF) nr. 1272/2008 vedlegg V](eu/32008r1272/vedleggV).
+- utfylles med tilleggsopplysninger, som navn på og/eller formel for det farlige stoffet eller den farlige stoffblandingen og opplysninger om risikoen.
+- for transport eller flytting av beholdere på arbeidsplassen, utfylles eller erstattes med skilting som brukes i hele EØS-området for transport av farlige stoffer eller stoffblandinger.
 
 > Endret ved forskrifter [26 juni 2015 nr. 798](forskrift/2015-06-26-798), [23 juni 2023 nr. 1099](forskrift/2023-06-23-1099) (i kraft 1 juli 2023).
 
@@ -663,7 +800,12 @@ Når kjøretøyer må passere under ledninger, skal det være hensiktsmessig far
 
 Arbeidsplasser som er plassert i høyden eller dybden skal til enhver tid være solide og stabile.
 
-Arbeidsplasser, ferdsels- og atkomstveier som kan være utsatt for ras, utrasing, steinfall, innstrømming av vann eller lignende skal være sikret med tiltak som:når det er praktisk mulig og området ikke er kontrollert og sikret, skal førerplassen, manøverplassen eller annen arbeidsplass på kjøretøyer eller utstyr ha beskyttelsesstak,fangdammer eller senkekasser i egnet materiale som har tilstrekkelig styrke og som er innrettet slik at arbeidstakerne kan komme seg i sikkerhet ved innstrømming av vann eller skred,tilstrekkelig solid og stabil utforming eller avstivning av sidevegger i grøfter og sjakter,stabil utførelse av ferdselsveier, lagrings- og oppstillingsplasser, fyllinger, terrasser, brytningsfronter mv. slik at de tåler belastningen av maskiner og utstyr som skal benyttes. Terrasser og ferdselsveier skal være anlagt og vedlikeholdt slik at maskiner kan flyttes sikkert.
+Arbeidsplasser, ferdsels- og atkomstveier som kan være utsatt for ras, utrasing, steinfall, innstrømming av vann eller lignende skal være sikret med tiltak som:
+
+1. når det er praktisk mulig og området ikke er kontrollert og sikret, skal førerplassen, manøverplassen eller annen arbeidsplass på kjøretøyer eller utstyr ha beskyttelsesstak,
+2. fangdammer eller senkekasser i egnet materiale som har tilstrekkelig styrke og som er innrettet slik at arbeidstakerne kan komme seg i sikkerhet ved innstrømming av vann eller skred,
+3. tilstrekkelig solid og stabil utforming eller avstivning av sidevegger i grøfter og sjakter,
+4. stabil utførelse av ferdselsveier, lagrings- og oppstillingsplasser, fyllinger, terrasser, brytningsfronter mv. slik at de tåler belastningen av maskiner og utstyr som skal benyttes. Terrasser og ferdselsveier skal være anlagt og vedlikeholdt slik at maskiner kan flyttes sikkert.
 
 ### § 6-4. Sikring av arbeid på eller nær vei
 
@@ -689,7 +831,11 @@ Landgang for skip og lignende skal ha rekkverk og sikkerhetsnett. Kai skal ha fe
 
 Arbeidslokaler og arbeidsplasser, eller andre områder hvor arbeidstakere har adgang og hvor arbeidet eller prosesser kan medføre forurensing av luften, skal ha mekanisk ventilasjon og prosesstilpasset avsug slik at konsentrasjonen av kjemikalier i arbeidsatmosfæren holdes på et fullt forsvarlig nivå, med hensyn til helse og eksplosjonsfare.
 
-Ventilasjon og prosesstilpasset avsug skal:fjerne forurensningen ved kilden slik at eksponering og behov for å benytte åndedrettsvern reduseres mest mulig,redusere eksponering for forurensing i hele oppholdssonen,hindre spredning av forurensinger til andre lokaler.
+Ventilasjon og prosesstilpasset avsug skal:
+
+1. fjerne forurensningen ved kilden slik at eksponering og behov for å benytte åndedrettsvern reduseres mest mulig,
+2. redusere eksponering for forurensing i hele oppholdssonen,
+3. hindre spredning av forurensinger til andre lokaler.
 
 I trange kummer, tunneler, pumpestasjoner og lignende skal det være ventilasjon som sikrer frisklufttilførsel til alle steder hvor det utføres arbeid.
 
@@ -741,7 +887,11 @@ Innendørs bassenger med lufttilførsel og andre prosesser som kan avgi forurens
 
 ### § 8-4. Inneslutningstiltak i laboratorier og isolasjonsenheter
 
-I laboratorier der arbeidstakerne eksponeres eller kan bli eksponert for biologiske faktorer, eller det håndteres forsøksdyr som med hensikt er blitt smittet med biologiske faktorer i smitterisikogruppe 2, 3 eller 4, jf. [vedlegg 2 i forskrift om tiltaks- og grenseverdier](forskrift/2011-12-06-1358/vedlegg2), eller som er eller mistenkes for å være bærere av slike faktorer, skal det for å begrense infeksjonsrisikoen være iverksatt følgende inneslutningstiltak:minst inneslutningsnivå 2 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 2minst inneslutningsnivå 3 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 3minst inneslutningsnivå 4 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 4.
+I laboratorier der arbeidstakerne eksponeres eller kan bli eksponert for biologiske faktorer, eller det håndteres forsøksdyr som med hensikt er blitt smittet med biologiske faktorer i smitterisikogruppe 2, 3 eller 4, jf. [vedlegg 2 i forskrift om tiltaks- og grenseverdier](forskrift/2011-12-06-1358/vedlegg2), eller som er eller mistenkes for å være bærere av slike faktorer, skal det for å begrense infeksjonsrisikoen være iverksatt følgende inneslutningstiltak:
+
+1. minst inneslutningsnivå 2 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 2
+2. minst inneslutningsnivå 3 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 3
+3. minst inneslutningsnivå 4 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 4.
 
 I laboratorier, hvor det uten at det er laboratoriets hensikt å arbeide med biologiske faktorer, likevel håndteres materiale som kan inneholde biologiske faktorer som kan forårsake sykdommer hos mennesker, skal inneslutningsnivået minst være nivå 2. Inneslutningsnivå 3 eller 4 skal anvendes i de tilfeller hvor dette i følge eksisterende kunnskap eller mistanke må anses som nødvendig, med mindre det ut fra uttalelse fra de ansvarlige myndigheter kan fastslås at et lavere inneslutningsnivå er tilstrekkelig.
 
@@ -776,7 +926,11 @@ I laboratorier skal følgende inneslutningstiltak være iverksatt:
 
 ### § 8-5. Inneslutningstiltak i industriell virksomhet
 
-Ved industrielle prosesser hvor det anvendes biologiske faktorer i smitterisikogruppe 2, 3 og 4 jf. [vedlegg 2 i forskrift om tiltaks- og grenseverdier](forskrift/2011-12-06-1358/vedlegg2), skal følgende tiltak være iverksatt:minst inneslutningsnivå 2 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 2minst inneslutningsnivå 3 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 3minst inneslutningsnivå 4 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 4.
+Ved industrielle prosesser hvor det anvendes biologiske faktorer i smitterisikogruppe 2, 3 og 4 jf. [vedlegg 2 i forskrift om tiltaks- og grenseverdier](forskrift/2011-12-06-1358/vedlegg2), skal følgende tiltak være iverksatt:
+
+1. minst inneslutningsnivå 2 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 2
+2. minst inneslutningsnivå 3 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 3
+3. minst inneslutningsnivå 4 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 4.
 
 Ved industriell bruk av biologiske faktorer i smitterisikogruppe 2, 3 eller 4 kan ansvarlige myndigheter bestemme hvilke tiltak som skal iverksettes.
 

@@ -15,7 +15,7 @@ xml_hash: "042f1c2ef82ed37a40fdac305b888cd339b88835f3976f065ac93cf686492b01"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,10 @@ Formålet med forskriften er å forebygge at lightere medfører helseskade.
 
 Forskriften omfatter produksjon, innførsel og omsetning av lightere som er bestemt for bruk i Norge. Forskriften gjelder også for Svalbard.
 
-Forskriftens krav om barnesikring gjelder ikke etterfyllbare lightere hvor produsent eller importør kan dokumentere at lighteren er utformet, produsert og markedsført på en måte som sikrer en forventet levetid på minst 5 år, og som i tillegg tilfredsstiller følgende krav:Produsent eller importør må utferdige skriftlig garanti for hver lighter for en periode på minst to år.Reservedeler skal være tilgjengelig, og det skal være mulighet for kvalifisert reparasjon og sikker etterfylling i hele lighterens levetid.
+Forskriftens krav om barnesikring gjelder ikke etterfyllbare lightere hvor produsent eller importør kan dokumentere at lighteren er utformet, produsert og markedsført på en måte som sikrer en forventet levetid på minst 5 år, og som i tillegg tilfredsstiller følgende krav:
+
+- Produsent eller importør må utferdige skriftlig garanti for hver lighter for en periode på minst to år.
+- Reservedeler skal være tilgjengelig, og det skal være mulighet for kvalifisert reparasjon og sikker etterfylling i hele lighterens levetid.
 
 ### § 3. Definisjoner
 
@@ -84,11 +87,22 @@ Dersom produsent eller importør ikke kan fremlegge dokumentasjon som nevnt i de
 
 ### § 7. Krav til den som utfører tester
 
-Tester etter denne forskriften skal utføres av:akkreditert testorgan iht. kravene i EN ISO/IEC 17025:2005 eller som ellers er utpekt eller godkjent av tilsynsmyndigheten, ellertestorgan som er akseptert i et land med likeverdige krav som standarden nevnt i foregående punkt.
+Tester etter denne forskriften skal utføres av:
+
+1. akkreditert testorgan iht. kravene i EN ISO/IEC 17025:2005 eller som ellers er utpekt eller godkjent av tilsynsmyndigheten, eller
+2. testorgan som er akseptert i et land med likeverdige krav som standarden nevnt i foregående punkt.
 
 ### § 8. Krav til innhold i testrapport
 
-Testrapport som omhandlet i [§ 6](forskrift/2007-06-21-687/§6) skal minst inneholde:navn og adresse på produsent, og eventuelt på importør, samt produksjonsstedfullstendig beskrivelse av lighteren, inklusiv størrelse, utforming, vekt, brensel, brenselskapasitet, tenningsmekanisme, tekniske løsninger og type barnesikringdetaljert beskrivelse av testen og testresultatenested og tidspunkt for testennavn, kvalifikasjoner og kompetanse på utøvende testinstansreferanse til akkreditering eller tilsvarende ordningoppbevaringssted for dokumentasjon.
+Testrapport som omhandlet i [§ 6](forskrift/2007-06-21-687/§6) skal minst inneholde:
+
+- navn og adresse på produsent, og eventuelt på importør, samt produksjonssted
+- fullstendig beskrivelse av lighteren, inklusiv størrelse, utforming, vekt, brensel, brenselskapasitet, tenningsmekanisme, tekniske løsninger og type barnesikring
+- detaljert beskrivelse av testen og testresultatene
+- sted og tidspunkt for testen
+- navn, kvalifikasjoner og kompetanse på utøvende testinstans
+- referanse til akkreditering eller tilsvarende ordning
+- oppbevaringssted for dokumentasjon.
 
 ### § 9. Tilsyn
 

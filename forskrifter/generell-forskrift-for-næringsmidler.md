@@ -15,7 +15,7 @@ xml_hash: "d9bdd6fe51f717a6dab3291d3018d0ca0fa013ce76de76bdffa58dbb1e899754"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -118,9 +118,15 @@ Mattilsynet kan på hygienisk grunnlag nekte at nye prinsipper, prosesser eller 
 
 ### § 16a
 
-Næringsmidler og næringsmiddelingredienser herunder tilsetningsstoffer og aromastoffer som består av, inneholder eller er fremstilt på grunnlag av genmodifiserte organismer, er ikke tillatt omsatt eller markedsført med mindre Mattilsynet har godkjent dette. Unntak gjelder for:produkter som omfattes av [lov 2. april 1993 nr. 38](lov/1993-04-02-38) (genteknologiloven),produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materiale, herunder genmodifiserte prosesshjelpemidler og næringsmidler som er behandlet med genmodifiserte prosesshjelpemidler.
+Næringsmidler og næringsmiddelingredienser herunder tilsetningsstoffer og aromastoffer som består av, inneholder eller er fremstilt på grunnlag av genmodifiserte organismer, er ikke tillatt omsatt eller markedsført med mindre Mattilsynet har godkjent dette. Unntak gjelder for:
 
-Godkjenningsplikt etter første ledd gjelder ikke ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale forutsatt at virksomheten kan dokumentere dette, samt forutsatt:tilstedeværelse opp til 0,9% dersom det genmodifiserte materialet er godkjent i EU, ellertilstedeværelse opp til 0,5% dersom det genmodifiserte materialet har vært risikovurdert og er funnet helsemessig trygt av enten EFSA/EUs vitenskapskomiteer eller den norske Vitenskapskomiteen for Mattrygghet samt at analysemetodikk er offentlig tilgjengelig.
+1. produkter som omfattes av [lov 2. april 1993 nr. 38](lov/1993-04-02-38) (genteknologiloven),
+2. produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materiale, herunder genmodifiserte prosesshjelpemidler og næringsmidler som er behandlet med genmodifiserte prosesshjelpemidler.
+
+Godkjenningsplikt etter første ledd gjelder ikke ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale forutsatt at virksomheten kan dokumentere dette, samt forutsatt:
+
+1. tilstedeværelse opp til 0,9% dersom det genmodifiserte materialet er godkjent i EU, eller
+2. tilstedeværelse opp til 0,5% dersom det genmodifiserte materialet har vært risikovurdert og er funnet helsemessig trygt av enten EFSA/EUs vitenskapskomiteer eller den norske Vitenskapskomiteen for Mattrygghet samt at analysemetodikk er offentlig tilgjengelig.
 
 I forbindelse med søknad eller godkjenning kan Mattilsynet stille krav om analysemetodikk, prøvemateriale og sporbarhet mv.
 
@@ -222,4 +228,13 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og
 
 Denne forskriften trer i kraft 1. oktober 1983.
 
-Samtidig opphevesAlminnelige forskrifter om tilvirkning og omsetning av næringsmidler av 3. mai 1935, med unntak av [§ 17](forskrift/1983-07-08-1252/§17) som gjelder inntil videre.Forskrifter om hermetiske matvarer m.v. av 3. mai 1935.Forskrifter om omførselshandel med kjøtt m.v. fra vogn av 23. desember 1937.Forskrifter om oppvask av servise m.m. på offentlige spise- og serveringssteder som har godkjent oppvaskmaskin av 29. april 1949.Forskrifter om oppvask av servise m.m. på offentlige spise- og serveringssteder som ikke har oppvaskmaskin av 29. april 1949.Forskrifter om salg av nærings- og nytelsesmidler fra kiosker, disker m.v. og fra automat av 18. juli 1952.Forskrifter om hygienisk kontroll ved fremstilling, lagring og transport av pultost av 31. desember 1969.Forskrifter om tilberedning, oppbevaring og omsetning av ferdigretter av 11. november 1972.
+Samtidig oppheves
+
+- Alminnelige forskrifter om tilvirkning og omsetning av næringsmidler av 3. mai 1935, med unntak av [§ 17](forskrift/1983-07-08-1252/§17) som gjelder inntil videre.
+- Forskrifter om hermetiske matvarer m.v. av 3. mai 1935.
+- Forskrifter om omførselshandel med kjøtt m.v. fra vogn av 23. desember 1937.
+- Forskrifter om oppvask av servise m.m. på offentlige spise- og serveringssteder som har godkjent oppvaskmaskin av 29. april 1949.
+- Forskrifter om oppvask av servise m.m. på offentlige spise- og serveringssteder som ikke har oppvaskmaskin av 29. april 1949.
+- Forskrifter om salg av nærings- og nytelsesmidler fra kiosker, disker m.v. og fra automat av 18. juli 1952.
+- Forskrifter om hygienisk kontroll ved fremstilling, lagring og transport av pultost av 31. desember 1969.
+- Forskrifter om tilberedning, oppbevaring og omsetning av ferdigretter av 11. november 1972.

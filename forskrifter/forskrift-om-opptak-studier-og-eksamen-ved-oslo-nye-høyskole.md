@@ -15,7 +15,7 @@ xml_hash: "b5b041e5ae04d9927e7d91e65a40bf25e15b99c8c7356780def2406eb86555d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,13 @@ Forskriften gjelder for opptak til studier ved Oslo Nye Høyskole («Høyskolen�
 
 (3) For opptak til alle studier ved høyskolen kreves nødvendig språkmestring. For studenter som ikke har norsk videregående skole kan norsk og engelsk dekkes ved at de gjennomfører prøver som til enhver tid er fastsatt i [forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning](forskrift/2017-01-06-13).
 
-(4) Søkere som ikke har generell studiekompetanse, kan bli tatt opp på grunnlag av realkompetanse jf. [forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning § 3-1](forskrift/2017-01-06-13/§3-1). Høyskolen har fastsatt følgende minstekrav til realkompetanse:Arbeids- og/eller utdanningspraksis i minimum 5 årAlder minst 25 årHar ikke generell studiekompetanseNorskkunnskaper tilstrekkelig til å kunne gjennomføre studiene, veiledende på VKII-nivåFor enkeltstudier/programmer kan det fastsettes krav ut over de generelle kravene i gjeldende studieplan.
+(4) Søkere som ikke har generell studiekompetanse, kan bli tatt opp på grunnlag av realkompetanse jf. [forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning § 3-1](forskrift/2017-01-06-13/§3-1). Høyskolen har fastsatt følgende minstekrav til realkompetanse:
+
+1. Arbeids- og/eller utdanningspraksis i minimum 5 år
+2. Alder minst 25 år
+3. Har ikke generell studiekompetanse
+4. Norskkunnskaper tilstrekkelig til å kunne gjennomføre studiene, veiledende på VKII-nivå
+5. For enkeltstudier/programmer kan det fastsettes krav ut over de generelle kravene i gjeldende studieplan.
 
 (5) Hvis minstekravene til realkompetanse er oppfylt, foretas det en individuell faglig vurdering av hver søker i denne kategorien slik at søkerens kompetanse er mål opp mot de faglige kravene til studiet det er søkt opptak til.
 
@@ -114,7 +120,10 @@ Styret kan gi regler om adgang til undervisning eller eksamen uten at personen e
 
 ### § 3-2. Studieplaner
 
-(1) For alle studieprogrammer som tilbys ved høyskolen skal det fastsettes en studieplan. Studieplanen skal inneholde:Programbeskrivelse for programmetEmnebeskrivelser for hvert emne som inngår i programmet.
+(1) For alle studieprogrammer som tilbys ved høyskolen skal det fastsettes en studieplan. Studieplanen skal inneholde:
+
+1. Programbeskrivelse for programmet
+2. Emnebeskrivelser for hvert emne som inngår i programmet.
 
 (2) Studieplanen utarbeides av instituttlederne, og fastsettes endelig av høyskolestyret.
 
@@ -258,7 +267,16 @@ I helsefagene kan det stilles krav om at visse spørsmål i et eksamenssett må 
 
 (1) Med hjemmel i [universitets- og høyskoleloven](lov/2024-03-08-9) kan høyskolens nemnd for studentsaker annullere eksamen eller prøve ved fusk, forsøk på fusk, eller annen uredelig opptreden. På samme grunnlag kan nemnda fatte vedtak om utestenging fra institusjonen, samt frata retten til å gå opp til eksamen ved institusjoner under [universitets- og høyskoleloven](lov/2024-03-08-9) i inntil to år.
 
-(2) Ved mistanke om fusk skal dette meldes til eksamenskontoret. Med fusk menes blant annet:Bruk av hjelpemidler som ikke er tillatt ved eksamen.Plagiat, inkludert selvplagiat.Brudd på avtale om eksamen.Innlevering av andres arbeid som sitt eget.Å sitere eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger.Å oppgi fiktive eller uriktige kilder.Å legge frem et arbeid (eller deler av et arbeid) som er generert av samtaleroboter eller tekstgenererende funksjoner basert på kunstig intelligens, som sitt eget verk.Å gi inntrykk av at besvarelsen er mer selvstendig enn den faktisk er.
+(2) Ved mistanke om fusk skal dette meldes til eksamenskontoret. Med fusk menes blant annet:
+
+1. Bruk av hjelpemidler som ikke er tillatt ved eksamen.
+2. Plagiat, inkludert selvplagiat.
+3. Brudd på avtale om eksamen.
+4. Innlevering av andres arbeid som sitt eget.
+5. Å sitere eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger.
+6. Å oppgi fiktive eller uriktige kilder.
+7. Å legge frem et arbeid (eller deler av et arbeid) som er generert av samtaleroboter eller tekstgenererende funksjoner basert på kunstig intelligens, som sitt eget verk.
+8. Å gi inntrykk av at besvarelsen er mer selvstendig enn den faktisk er.
 
 > Endret ved forskrifter [25 juni 2021 nr. 3078](forskrift/2021-06-25-3078), [1 des 2022 nr. 2188](forskrift/2022-12-01-2188), [31 okt 2025 nr. 2166](forskrift/2025-10-31-2166).
 
@@ -282,7 +300,11 @@ I helsefagene kan det stilles krav om at visse spørsmål i et eksamenssett må 
 
 (4) Ved bedømmelsen av masteroppgaven og ved ny sensurering etter klage på karakterfastsettingen, hvor det etter [universitets- og høyskoleloven](lov/2005-04-01-15) er krav om minst to sensorer, må den eksterne sensoren hentes utenfor institusjonen.
 
-(5) Ekstern sensor og/eller tilsynssensor skal tilfredsstille minst ett av følgende krav:Være ansatt på høyskolelektor-/amanuensisnivå eller høyere ved universitet/høyskole eller annen forskningsinstitusjon.På annen måte ha dokumentert relevant vitenskapelig kompetanse på samme nivå som nevnt under punkt 1.Erfaring som sensor i lignende fag ved universitet eller høyskole.
+(5) Ekstern sensor og/eller tilsynssensor skal tilfredsstille minst ett av følgende krav:
+
+1. Være ansatt på høyskolelektor-/amanuensisnivå eller høyere ved universitet/høyskole eller annen forskningsinstitusjon.
+2. På annen måte ha dokumentert relevant vitenskapelig kompetanse på samme nivå som nevnt under punkt 1.
+3. Erfaring som sensor i lignende fag ved universitet eller høyskole.
 
 (6) Ekstern sensor og tilsynssensor kan ikke være ansatt ved høyskolen eller ha hatt undervisningsoppgaver eller andre oppgaver av vesentlig omfang på det aktuelle emnet, i gjeldende semester.
 
@@ -336,7 +358,11 @@ I helsefagene kan det stilles krav om at visse spørsmål i et eksamenssett må 
 
 ### § 4-13. Individuell tilrettelegging på eksamen
 
-(1) Studenter som har en funksjonsnedsettelse eller andre særskilte behov, kan søke om individuell tilrettelegging på eksamen. Særordningene som høyskolen kan legge til rette for, er for eksempel:Utvidet tidBruk av ordbøkerBruk av PC under tilsyn.
+(1) Studenter som har en funksjonsnedsettelse eller andre særskilte behov, kan søke om individuell tilrettelegging på eksamen. Særordningene som høyskolen kan legge til rette for, er for eksempel:
+
+1. Utvidet tid
+2. Bruk av ordbøker
+3. Bruk av PC under tilsyn.
 
 (2) Studenten søker om individuell tilrettelegging via høyskolens e-læringsplattform. Søknaden må inneholde nødvendig og relevant dokumentasjon fra sakkyndig instans, i henhold til høyskolens retningslinjer om tilrettelegging.
 
@@ -354,11 +380,18 @@ I helsefagene kan det stilles krav om at visse spørsmål i et eksamenssett må 
 
 ### § 4-14. Netteksamensform med overvåkning
 
-(1) Ved avvikling av netteksamen kan høyskolen kreve at studentene blir overvåket for å sikre eksamensintegritet. Overvåkningen omfatter:Videoopptak av studentenes ansikt og rom mens eksamen pågår.Skjermdeling eller -opptak for å følge studentenes aktivitet og inntasting under eksamen.Lydopptak fra studentenes eksamensrom for å sikre at ingen uvedkommende bidrar.
+(1) Ved avvikling av netteksamen kan høyskolen kreve at studentene blir overvåket for å sikre eksamensintegritet. Overvåkningen omfatter:
+
+1. Videoopptak av studentenes ansikt og rom mens eksamen pågår.
+2. Skjermdeling eller -opptak for å følge studentenes aktivitet og inntasting under eksamen.
+3. Lydopptak fra studentenes eksamensrom for å sikre at ingen uvedkommende bidrar.
 
 (2) Studenten plikter å sørge for tilgang til utstyr og tekniske forutsetninger som kreves for overvåkningen, herunder kamera, mikrofon og internettilgang.
 
-(3) Overvåkningsdata behandles i samsvar med gjeldende personvernlovgivning, herunder [personopplysningsloven](lov/2018-06-15-38) og [GDPR](lov/2018-06-15-38/gdpr):Bildet, lyden og skjermopptakene lagres kun i den tiden det er nødvendig for vurdering eller klagebehandling, med maksimum lagringsperiode spesifisert av høyskolens retningslinjer.Opptak slettes automatisk når denne perioden er utløpt, med mindre særskilt grunn (eksempelvis mistanke om fusk) krever videre oppbevaring.
+(3) Overvåkningsdata behandles i samsvar med gjeldende personvernlovgivning, herunder [personopplysningsloven](lov/2018-06-15-38) og [GDPR](lov/2018-06-15-38/gdpr):
+
+1. Bildet, lyden og skjermopptakene lagres kun i den tiden det er nødvendig for vurdering eller klagebehandling, med maksimum lagringsperiode spesifisert av høyskolens retningslinjer.
+2. Opptak slettes automatisk når denne perioden er utløpt, med mindre særskilt grunn (eksempelvis mistanke om fusk) krever videre oppbevaring.
 
 > Tilføyd ved forskrift [31 okt 2025 nr. 2166](forskrift/2025-10-31-2166).
 

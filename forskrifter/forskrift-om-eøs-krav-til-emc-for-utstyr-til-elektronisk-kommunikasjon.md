@@ -28,7 +28,14 @@ Formålet med forskriften er å sikre at det indre marked fungerer og at utstyr 
 
 ## § 2. Virkeområde
 
-Forskriften gjelder krav til utstyr til elektronisk kommunikasjon som definert i [§ 3](forskrift/2016-04-15-378/§3), men likevel ikkeutstyr regulert av [forskrift 29. september 2016 nr. 1161](forskrift/2016-09-29-1161) om EØS-krav til maritimt radioutstyrutstyr regulert av [forskrift 15. juni 1999 nr. 709](forskrift/1999-06-15-709) om EØS-godkjenning av maritimt radioutstyr og forskrift om EØS-krav til maritimt radioutstyr som trer i kraft 18. september 2016 som opphever førstnevnte forskriftutstyr tillatt brukt etter [forskrift 5. november 2009 nr. 1340](forskrift/2009-11-05-1340) om radioamatørlisens med mindre utstyret er gjort tilgjengelig på markedet. Byggesett for radioamatører eller utstyr som er gjort tilgjengelig på markedet og bygges om av radioamatør til bruk for radioamatører regnes ikke som utstyr som er gjort tilgjengelig på markedetutstyr regulert av [forskrift 26. februar 2013 nr. 219](forskrift/2013-02-26-219) om felleseuropeiske sikkerhetsregler for sivil luftfart og om etablering av et europeisk flysikkerhetsbyrå (EASA-forskriften)spesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformålutstyr som på grunn av sine fysiske egenskaper ikke i vesentlig grad kan bli forstyrret av elektromagnetiske signaler og ikke genererer signaler som kan forårsake forstyrrelser.
+Forskriften gjelder krav til utstyr til elektronisk kommunikasjon som definert i [§ 3](forskrift/2016-04-15-378/§3), men likevel ikke
+
+1. utstyr regulert av [forskrift 29. september 2016 nr. 1161](forskrift/2016-09-29-1161) om EØS-krav til maritimt radioutstyr
+2. utstyr regulert av [forskrift 15. juni 1999 nr. 709](forskrift/1999-06-15-709) om EØS-godkjenning av maritimt radioutstyr og forskrift om EØS-krav til maritimt radioutstyr som trer i kraft 18. september 2016 som opphever førstnevnte forskrift
+3. utstyr tillatt brukt etter [forskrift 5. november 2009 nr. 1340](forskrift/2009-11-05-1340) om radioamatørlisens med mindre utstyret er gjort tilgjengelig på markedet. Byggesett for radioamatører eller utstyr som er gjort tilgjengelig på markedet og bygges om av radioamatør til bruk for radioamatører regnes ikke som utstyr som er gjort tilgjengelig på markedet
+4. utstyr regulert av [forskrift 26. februar 2013 nr. 219](forskrift/2013-02-26-219) om felleseuropeiske sikkerhetsregler for sivil luftfart og om etablering av et europeisk flysikkerhetsbyrå (EASA-forskriften)
+5. spesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformål
+6. utstyr som på grunn av sine fysiske egenskaper ikke i vesentlig grad kan bli forstyrret av elektromagnetiske signaler og ikke genererer signaler som kan forårsake forstyrrelser.
 
 Svalbard kan det for utstyr som omfattes av forskriften, alternativt gis tillatelse etter [ekomloven § 13-1 tredje ledd](lov/2024-12-13-76/§13-1/ledd/3).
 
@@ -36,7 +43,35 @@ Svalbard kan det for utstyr som omfattes av forskriften, alternativt gis tillate
 
 ## § 3. Definisjoner
 
-I forskriften menes med*utstyr:* ethvert apparat eller fast installasjon*apparat:* ethvert ferdig produkt eller kombinasjon av slike, som er gjort tilgjengelig på markedet som en enkelt funksjonell enhet, beregnet på sluttbrukeren, og som er i stand til å produsere elektromagnetisk forstyrrelse, eller som under bruk kan påvirkes av slik forstyrrelseSom apparater regnes ogsåKomponenter og sammensatte enheter beregnet for inkorporering i et apparat av sluttbrukerenMobile installasjoner som består av en kombinasjon av apparater og eventuelt andre anordninger beregnet for å kunne flyttes og brukes på ulike lokasjoner*fast installasjon:* en bestemt kombinasjon av flere typer apparater og eventuelt andre innretninger som er satt sammen, installert og beregnet for permanent bruk på et forhåndsbestemt sted*elektromagnetisk kompatibilitet:* den evne et utstyr har til å fungere tilfredsstillende i sitt elektromagnetiske miljø uten å forårsake uakseptabel elektromagnetisk forstyrrelse for annet utstyr i dette miljøet*elektromagnetisk forstyrrelse:* ethvert elektromagnetisk fenomen som kan redusere et utstyrs funksjonalitet. En elektromagnetisk forstyrrelse kan eksempelvis være elektromagnetisk støy, et uønsket signal eller en endring i selve utbredelsesmediet*elektromagnetisk immunitet:* et utstyrs evne til å virke som forutsatt under elektromagnetisk påvirkning*elektromagnetisk miljø:* alle elektromagnetiske fenomener som kan observeres i et nærmere avgrenset område*sikkerhetsformål:* formål som skal sikre menneskeliv og eiendom*gjøre tilgjengelig på markedet:* enhver levering av et apparat for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt*bringe i omsetning:* gjøre et apparat tilgjengelig i EØS for første gang*produsent:* enhver fysisk eller juridisk person som produserer et apparat, eller som får et apparat konstruert eller produsert, og som markedsfører apparatet under sitt navn eller varemerke*autorisert representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver*importør:* enhver fysisk eller juridisk person etablert i EØS som bringer et apparat fra en tredjestat i omsetning i EØS*distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et apparat tilgjengelig på markedet*markedsdeltakere:* produsent, autorisert representant, importør og distributør*teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav et utstyr skal oppfylle*harmonisert standard:* en europeisk standard utarbeidet av de europeiske standardiseringsorganisasjonene, CEN, CENELEC og ETSI, og som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføringen av Unionens harmoniseringsregelverk*samsvarsvurdering:* en prosess for å fastslå om de grunnleggende kravene til apparater i forskriften er oppfylt*teknisk kontrollorgan:* et organ som er utpekt av nasjonale myndigheter for å utøve samsvarsvurderingsvirksomhet*tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av et apparat som allerede er gjort tilgjengelig for sluttbrukeren*tilbaketrekking:* ethvert tiltak med sikte på å hindre at et apparat i omsetningskjeden blir gjort tilgjengelig på markedet*CE-merking:* merking der produsenten angir at apparatet oppfyller gjeldende krav fastsatt i EØS-regelverket.
+I forskriften menes med
+
+1. *utstyr:* ethvert apparat eller fast installasjon
+2. *apparat:* ethvert ferdig produkt eller kombinasjon av slike, som er gjort tilgjengelig på markedet som en enkelt funksjonell enhet, beregnet på sluttbrukeren, og som er i stand til å produsere elektromagnetisk forstyrrelse, eller som under bruk kan påvirkes av slik forstyrrelse
+
+   Som apparater regnes også
+
+   1. Komponenter og sammensatte enheter beregnet for inkorporering i et apparat av sluttbrukeren
+   2. Mobile installasjoner som består av en kombinasjon av apparater og eventuelt andre anordninger beregnet for å kunne flyttes og brukes på ulike lokasjoner
+3. *fast installasjon:* en bestemt kombinasjon av flere typer apparater og eventuelt andre innretninger som er satt sammen, installert og beregnet for permanent bruk på et forhåndsbestemt sted
+4. *elektromagnetisk kompatibilitet:* den evne et utstyr har til å fungere tilfredsstillende i sitt elektromagnetiske miljø uten å forårsake uakseptabel elektromagnetisk forstyrrelse for annet utstyr i dette miljøet
+5. *elektromagnetisk forstyrrelse:* ethvert elektromagnetisk fenomen som kan redusere et utstyrs funksjonalitet. En elektromagnetisk forstyrrelse kan eksempelvis være elektromagnetisk støy, et uønsket signal eller en endring i selve utbredelsesmediet
+6. *elektromagnetisk immunitet:* et utstyrs evne til å virke som forutsatt under elektromagnetisk påvirkning
+7. *elektromagnetisk miljø:* alle elektromagnetiske fenomener som kan observeres i et nærmere avgrenset område
+8. *sikkerhetsformål:* formål som skal sikre menneskeliv og eiendom
+9. *gjøre tilgjengelig på markedet:* enhver levering av et apparat for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt
+10. *bringe i omsetning:* gjøre et apparat tilgjengelig i EØS for første gang
+11. *produsent:* enhver fysisk eller juridisk person som produserer et apparat, eller som får et apparat konstruert eller produsert, og som markedsfører apparatet under sitt navn eller varemerke
+12. *autorisert representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver
+13. *importør:* enhver fysisk eller juridisk person etablert i EØS som bringer et apparat fra en tredjestat i omsetning i EØS
+14. *distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et apparat tilgjengelig på markedet
+15. *markedsdeltakere:* produsent, autorisert representant, importør og distributør
+16. *teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav et utstyr skal oppfylle
+17. *harmonisert standard:* en europeisk standard utarbeidet av de europeiske standardiseringsorganisasjonene, CEN, CENELEC og ETSI, og som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføringen av Unionens harmoniseringsregelverk
+18. *samsvarsvurdering:* en prosess for å fastslå om de grunnleggende kravene til apparater i forskriften er oppfylt
+19. *teknisk kontrollorgan:* et organ som er utpekt av nasjonale myndigheter for å utøve samsvarsvurderingsvirksomhet
+20. *tilbakekalling:* ethvert tiltak med sikte på tilbakelevering av et apparat som allerede er gjort tilgjengelig for sluttbrukeren
+21. *tilbaketrekking:* ethvert tiltak med sikte på å hindre at et apparat i omsetningskjeden blir gjort tilgjengelig på markedet
+22. *CE-merking:* merking der produsenten angir at apparatet oppfyller gjeldende krav fastsatt i EØS-regelverket.
 
 For øvrig gjelder definisjonene i ekomloven.
 
@@ -56,11 +91,17 @@ Demonstrasjon av utstyr er kun tillatt dersom det er truffet tilfredsstillende t
 
 ## § 6. Særlige tiltak
 
-Kravene i forskriften er ikke til hinder for at følgende tiltak iverksettes i forbindelse med at utstyret settes i drift eller ved bruk av utstyr:tiltak som iverksettes for å løse et eksisterende eller forventet problem med hensyn til elektromagnetisk kompatibilitet på et bestemt stedtiltak som iverksettes av sikkerhetsmessige grunner for å beskytte offentlige elektroniske kommunikasjonsnett og mottaker- eller senderstasjoner brukt til sikkerhetsformål.
+Kravene i forskriften er ikke til hinder for at følgende tiltak iverksettes i forbindelse med at utstyret settes i drift eller ved bruk av utstyr:
+
+1. tiltak som iverksettes for å løse et eksisterende eller forventet problem med hensyn til elektromagnetisk kompatibilitet på et bestemt sted
+2. tiltak som iverksettes av sikkerhetsmessige grunner for å beskytte offentlige elektroniske kommunikasjonsnett og mottaker- eller senderstasjoner brukt til sikkerhetsformål.
 
 ## § 7. Grunnleggende krav
 
-Utstyr skal være konstruert og produsert i tråd med den nyeste utvikling slik at detikke forårsaker kraftigere elektromagnetiske forstyrrelser enn at radio- og teleterminalutstyr og annet utstyr kan virke som tilsiktethar en grad av immunitet mot elektromagnetisk forstyrrelse som kan forventes i forbindelse med tilsiktet bruk, som gjør at det fungerer uten at den tilsiktede yteevnen reduseres i uakseptabel grad.
+Utstyr skal være konstruert og produsert i tråd med den nyeste utvikling slik at det
+
+1. ikke forårsaker kraftigere elektromagnetiske forstyrrelser enn at radio- og teleterminalutstyr og annet utstyr kan virke som tilsiktet
+2. har en grad av immunitet mot elektromagnetisk forstyrrelse som kan forventes i forbindelse med tilsiktet bruk, som gjør at det fungerer uten at den tilsiktede yteevnen reduseres i uakseptabel grad.
 
 Faste installasjoner skal i tillegg til kravene i første ledd installeres på en fagmessig god måte og ta hensyn til tilsiktet bruk for apparatene og andre innretninger som utgjør den faste installasjonen for å møte kravene i første ledd.
 
@@ -90,11 +131,20 @@ Dersom apparatet utgjør en risiko, skal produsenten straks melde fra til Nasjon
 
 Produsenten kan ved skriftlig fullmakt gi en autorisert representant i EØS fullmakt til å opptre på vegne av produsenten. Den autoriserte representanten kan ikke gis fullmakt til å påta seg ansvaret for kravene til utarbeidelse av teknisk dokumentasjon i § 19, eller ansvar for å sikre at apparatet er konstruert og produsert i samsvar med de grunnleggende kravene i forskriften [§ 7](forskrift/2016-04-15-378/§7).
 
-Den autoriserte representanten skal utføre de oppgaver som følger av fullmakten fra produsenten. Fullmakten skal som minimum gi den autoriserte representanten mulighet til åstille samsvarserklæring og teknisk dokumentasjon til rådighet for Nasjonal kommunikasjonsmyndighet i ti år etter at utstyret ble bragt i omsetning,på anmodning fra Nasjonal kommunikasjonsmyndighet å legge frem informasjon og dokumentasjon på at apparatet er i samsvar med kravene i forskriften,på anmodning å samarbeide med Nasjonal kommunikasjonsmyndighet om tiltak for å eliminere risiko ved apparatet.
+Den autoriserte representanten skal utføre de oppgaver som følger av fullmakten fra produsenten. Fullmakten skal som minimum gi den autoriserte representanten mulighet til å
+
+1. stille samsvarserklæring og teknisk dokumentasjon til rådighet for Nasjonal kommunikasjonsmyndighet i ti år etter at utstyret ble bragt i omsetning,
+2. på anmodning fra Nasjonal kommunikasjonsmyndighet å legge frem informasjon og dokumentasjon på at apparatet er i samsvar med kravene i forskriften,
+3. på anmodning å samarbeide med Nasjonal kommunikasjonsmyndighet om tiltak for å eliminere risiko ved apparatet.
 
 ## § 10. Krav til importør
 
-Før et apparat bringes i omsetning skal importør sikre atprodusenten har utført samsvarsvurdering i samsvar med [§ 13](forskrift/2016-04-15-378/§13) til [§ 16](forskrift/2016-04-15-378/§16),produsenten har utarbeidet teknisk dokumentasjon i samsvar med [§ 19](forskrift/2016-04-15-378/§19),apparatet er korrekt merket i samsvar med [§ 20](forskrift/2016-04-15-378/§20),apparatet har bruksanvisning og informasjon i samsvar med kravene i [§ 17](forskrift/2016-04-15-378/§17).
+Før et apparat bringes i omsetning skal importør sikre at
+
+1. produsenten har utført samsvarsvurdering i samsvar med [§ 13](forskrift/2016-04-15-378/§13) til [§ 16](forskrift/2016-04-15-378/§16),
+2. produsenten har utarbeidet teknisk dokumentasjon i samsvar med [§ 19](forskrift/2016-04-15-378/§19),
+3. apparatet er korrekt merket i samsvar med [§ 20](forskrift/2016-04-15-378/§20),
+4. apparatet har bruksanvisning og informasjon i samsvar med kravene i [§ 17](forskrift/2016-04-15-378/§17).
 
 Der en importør finner ut eller har grunn til å tro at et apparat ikke oppfyller de grunnleggende kravene i forskriften [§ 7](forskrift/2016-04-15-378/§7), skal han ikke gjøre apparatet tilgjengelig på markedet før det er brakt i samsvar med kravene. Dersom apparatet utgjør en risiko, skal importøren informere produsent og Nasjonal kommunikasjonsmyndighet om dette.
 
@@ -112,7 +162,13 @@ Der importør bringer apparater i omsetning under sitt navn eller varemerke, ell
 
 ## § 11. Krav til distributør
 
-Før et apparat gjøres tilgjengelig på markedet skal distributøren sikre atapparatet er CE-merket i samsvar med [§ 20](forskrift/2016-04-15-378/§20) og at det følger med bruksanvisning og informasjon om bruk slik det fremgår av [§ 17](forskrift/2016-04-15-378/§17)produsent og importør har oppfylt krav omat apparatet som er bragt i omsetning er merket med type-, produksjons- eller serienummer eller tilsvarende i henhold til [§ 20](forskrift/2016-04-15-378/§20) annet ledd som gjør det mulig å identifisere apparatetat apparatet er merket med produsentens og importørens navn, registrert firmanavn eller registrert varemerke og postadresse som angir et bestemt sted som produsenten og importøren kan kontaktes på i henhold til [§ 20](forskrift/2016-04-15-378/§20) første ledd.
+Før et apparat gjøres tilgjengelig på markedet skal distributøren sikre at
+
+1. apparatet er CE-merket i samsvar med [§ 20](forskrift/2016-04-15-378/§20) og at det følger med bruksanvisning og informasjon om bruk slik det fremgår av [§ 17](forskrift/2016-04-15-378/§17)
+2. produsent og importør har oppfylt krav om
+
+   1. at apparatet som er bragt i omsetning er merket med type-, produksjons- eller serienummer eller tilsvarende i henhold til [§ 20](forskrift/2016-04-15-378/§20) annet ledd som gjør det mulig å identifisere apparatet
+   2. at apparatet er merket med produsentens og importørens navn, registrert firmanavn eller registrert varemerke og postadresse som angir et bestemt sted som produsenten og importøren kan kontaktes på i henhold til [§ 20](forskrift/2016-04-15-378/§20) første ledd.
 
 Der en distributør finner ut eller har grunn til å tro at et apparat ikke oppfyller de grunnleggende kravene i forskriften [§ 7](forskrift/2016-04-15-378/§7), skal han ikke gjøre apparatet tilgjengelig på markedet før det er brakt i samsvar med kravene. Dersom apparatet utgjør en risiko, skal distributøren informere produsent og Nasjonal kommunikasjonsmyndighet.
 
@@ -132,13 +188,22 @@ Utstyr som er i samsvar med hele eller deler av harmoniserte standarder som er p
 
 ## § 13. Prosedyrer for samsvarsvurdering
 
-Produsent skal dokumentere at apparater oppfyller de grunnleggende kravene i [§ 7](forskrift/2016-04-15-378/§7) ved samsvarsvurdering på en av følgende måtermodul A – samsvarsprosedyre ved intern produksjonskontroll i samsvar med [§ 14](forskrift/2016-04-15-378/§14)modul B og C – samsvarsprosedyre ved EF-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i samsvar med [§ 15](forskrift/2016-04-15-378/§15) og [§ 16](forskrift/2016-04-15-378/§16).
+Produsent skal dokumentere at apparater oppfyller de grunnleggende kravene i [§ 7](forskrift/2016-04-15-378/§7) ved samsvarsvurdering på en av følgende måter
+
+1. modul A – samsvarsprosedyre ved intern produksjonskontroll i samsvar med [§ 14](forskrift/2016-04-15-378/§14)
+2. modul B og C – samsvarsprosedyre ved EF-typeprøving etterfulgt av typesamsvar på grunnlag av intern produksjonskontroll i samsvar med [§ 15](forskrift/2016-04-15-378/§15) og [§ 16](forskrift/2016-04-15-378/§16).
 
 Ved anvendelse av samsvarsprosedyre i første ledd bokstav b kan produsenten velge å begrense prosedyren til visse deler av de grunnleggende kravene i [§ 7](forskrift/2016-04-15-378/§7), forutsatt at prosedyren i første ledd bokstav a anvendes på de resterende grunnleggende kravene.
 
 ## § 14. Modul A – samsvarsprosedyre ved intern produksjonskontroll
 
-Når produsent anvender samsvarsprosedyre ved intern produksjonskontroll for å erklære at et apparat oppfyller de grunnleggende kravene i forskriften [§ 7](forskrift/2016-04-15-378/§7) skal produsentengjennomføre vurdering av apparatets elektromagnetiske kompatibilitet basert på relevante fenomener. Vurderingen skal ta hensyn til alle tilsiktede driftsforhold. Hvor apparatet kan konfigureres på ulike måter skal samsvarsvurderingen bekrefte at apparatet oppfyller de grunnleggende kravene i [§ 7](forskrift/2016-04-15-378/§7) i alle konfigurasjonerutarbeide teknisk dokumentasjon i henhold til forskriften [§ 19](forskrift/2016-04-15-378/§19)besørge en forsvarlig produksjonsprosess for å sikre at apparatet er i samsvar med grunnleggende krav og i tråd med den tekniske dokumentasjonenprodusent eller dennes autoriserte representant i EØS skal påføre CE-merking i henhold til § 20 på apparater som oppfyller kravene i forskriftenprodusent eller dennes autoriserte representant i EØS skal utstede samsvarserklæring i henhold til [§ 18](forskrift/2016-04-15-378/§18) og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at apparatet ble brakt i omsetning.
+Når produsent anvender samsvarsprosedyre ved intern produksjonskontroll for å erklære at et apparat oppfyller de grunnleggende kravene i forskriften [§ 7](forskrift/2016-04-15-378/§7) skal produsenten
+
+1. gjennomføre vurdering av apparatets elektromagnetiske kompatibilitet basert på relevante fenomener. Vurderingen skal ta hensyn til alle tilsiktede driftsforhold. Hvor apparatet kan konfigureres på ulike måter skal samsvarsvurderingen bekrefte at apparatet oppfyller de grunnleggende kravene i [§ 7](forskrift/2016-04-15-378/§7) i alle konfigurasjoner
+2. utarbeide teknisk dokumentasjon i henhold til forskriften [§ 19](forskrift/2016-04-15-378/§19)
+3. besørge en forsvarlig produksjonsprosess for å sikre at apparatet er i samsvar med grunnleggende krav og i tråd med den tekniske dokumentasjonen
+4. produsent eller dennes autoriserte representant i EØS skal påføre CE-merking i henhold til § 20 på apparater som oppfyller kravene i forskriften
+5. produsent eller dennes autoriserte representant i EØS skal utstede samsvarserklæring i henhold til [§ 18](forskrift/2016-04-15-378/§18) og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at apparatet ble brakt i omsetning.
 
 ## § 15. Modul B – samsvarsprosedyre ved EF-typeprøving
 
@@ -146,7 +211,12 @@ Når produsent anvender samsvarsprosedyre ved EF-typeprøving skal teknisk kontr
 
 Teknisk kontrollorgan skal foreta en vurdering av apparatets tekniske konstruksjon gjennom undersøkelse av teknisk dokumentasjon og dokumentasjon som legges frem i forbindelse med oppdraget. Teknisk kontrollorgan skal ikke foreta vurdering av selve det fysiske apparatet. Teknisk kontrollorgan skal utferdige rapport som viser hvilke vurderinger som er gjort og utfallet av undersøkelsen.
 
-Produsent eller dennes autoriserte representant i EØS skal søke teknisk kontrollorgan om å foreta slik vurdering som nevnt i første og annet ledd. Søknaden skal inneholdehvilke grunnleggende krav som skal vurderes,navn og adresse til produsent og autorisert representant i EØS dersom denne har fremmet søknaden,en skriftlig erklæring om at produsent ikke har søkt andre tekniske kontrollorgan om å foreta samme vurdering,teknisk dokumentasjon, herunder analyse og vurdering av risiko, som gjør det mulig å vurdere om apparatet oppfyller kravene i forskriften. Den tekniske dokumentasjonen skal inneholde en beskrivelse av gjeldende krav og der det er relevant beskrivelse av apparatets konstruksjon og tiltenkt bruk. Der det er relevant skal den tekniske dokumentasjonen inneholde de opplysninger som fremgår av [§ 19](forskrift/2016-04-15-378/§19).
+Produsent eller dennes autoriserte representant i EØS skal søke teknisk kontrollorgan om å foreta slik vurdering som nevnt i første og annet ledd. Søknaden skal inneholde
+
+1. hvilke grunnleggende krav som skal vurderes,
+2. navn og adresse til produsent og autorisert representant i EØS dersom denne har fremmet søknaden,
+3. en skriftlig erklæring om at produsent ikke har søkt andre tekniske kontrollorgan om å foreta samme vurdering,
+4. teknisk dokumentasjon, herunder analyse og vurdering av risiko, som gjør det mulig å vurdere om apparatet oppfyller kravene i forskriften. Den tekniske dokumentasjonen skal inneholde en beskrivelse av gjeldende krav og der det er relevant beskrivelse av apparatets konstruksjon og tiltenkt bruk. Der det er relevant skal den tekniske dokumentasjonen inneholde de opplysninger som fremgår av [§ 19](forskrift/2016-04-15-378/§19).
 
 Der teknisk kontrollorgan finner at apparattypen oppfyller kravene i forskriften skal organet utstede EF-typeprøvingssertifikat som inneholder navn og adresse til produsent, konklusjonene fra undersøkelsen, oppfyllelse av grunnleggende krav, eventuelle betingelser for gyldigheten til sertifikatet og opplysninger som kan identifisere apparattypen som er vurdert.
 
@@ -168,7 +238,11 @@ Produsent eller dennes autoriserte representant i EØS skal oppbevare EU-typeser
 
 ## § 16. Modul C – samsvarsprosedyre ved typesamsvar på grunnlag av intern produksjonskontroll
 
-Når produsent anvender samsvarsprosedyre ved typesamsvar på grunnlag av intern produksjonskontroll for å erklære at apparater er i samsvar med produktmodellen som fremgår av et EF-typeprøvingssertifikat og oppfyller de grunnleggende kravene i forskriften [§ 7](forskrift/2016-04-15-378/§7) skalprodusenten besørge en forsvarlig produksjonsprosess for å sikre at apparatet er i samsvar med den godkjente produkttypen beskrevet i EF-typeprøvingssertifikatet og med relevante krav i forskriften,produsent eller dennes autoriserte representant i EØS påføre CE-merking i henhold til § 20 på apparater som oppfyller kravene i forskriften,produsent eller dennes autoriserte representant i EØS utstede samsvarserklæring i henhold til [§ 18](forskrift/2016-04-15-378/§18) og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at apparatet ble brakt i omsetning. I samsvarserklæringen skal det angis hvilken produkttype den er utarbeidet for.
+Når produsent anvender samsvarsprosedyre ved typesamsvar på grunnlag av intern produksjonskontroll for å erklære at apparater er i samsvar med produktmodellen som fremgår av et EF-typeprøvingssertifikat og oppfyller de grunnleggende kravene i forskriften [§ 7](forskrift/2016-04-15-378/§7) skal
+
+1. produsenten besørge en forsvarlig produksjonsprosess for å sikre at apparatet er i samsvar med den godkjente produkttypen beskrevet i EF-typeprøvingssertifikatet og med relevante krav i forskriften,
+2. produsent eller dennes autoriserte representant i EØS påføre CE-merking i henhold til § 20 på apparater som oppfyller kravene i forskriften,
+3. produsent eller dennes autoriserte representant i EØS utstede samsvarserklæring i henhold til [§ 18](forskrift/2016-04-15-378/§18) og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at apparatet ble brakt i omsetning. I samsvarserklæringen skal det angis hvilken produkttype den er utarbeidet for.
 
 ## § 17. Krav om informasjon til bruker
 
@@ -188,7 +262,14 @@ Samsvarserklæringen skal utferdiges på norsk, svensk, dansk eller engelsk.
 
 Teknisk dokumentasjon skal sikre mulighet for å vurdere om apparatet er i overenstemmelse med de grunnleggende kravene i [§ 7](forskrift/2016-04-15-378/§7) og skal omfatte en analyse og vurdering av risiko ved apparatet.
 
-Teknisk dokumentasjon skal inneholde en beskrivelse av gjeldende krav og i det omfang det er relevant for vurderingen en beskrivelse av apparatets konstruksjon, produksjon og tiltenkt bruk, og skal minst inneholdegenerell beskrivelse av apparatetkonstruksjons- og produksjonstegninger og oversikt over komponenter, delmontasjer, kretsløp og andre relevante liknende elementerbeskrivelser og forklaringer som er nødvendig for å forstå tegninger og oversikter som nevnt i bokstav b og bruk av utstyretliste over harmoniserte standarder som er anvendt med referanser til Den Europeiske Unions Tidende. Der slike standarder ikke er anvendt skal det beskrives de løsninger som er anvendt for å oppfylle grunnleggende krav, herunder liste over andre relevante tekniske spesifikasjoner som er anvendt. I tilfeller hvor kun deler av harmoniserte standarder er anvendt skal dokumentasjonen angi hvilke deler som er anvendtresultater fra konstruksjonsberegninger, undersøkelser og andre relevante elementertestrapporter.
+Teknisk dokumentasjon skal inneholde en beskrivelse av gjeldende krav og i det omfang det er relevant for vurderingen en beskrivelse av apparatets konstruksjon, produksjon og tiltenkt bruk, og skal minst inneholde
+
+1. generell beskrivelse av apparatet
+2. konstruksjons- og produksjonstegninger og oversikt over komponenter, delmontasjer, kretsløp og andre relevante liknende elementer
+3. beskrivelser og forklaringer som er nødvendig for å forstå tegninger og oversikter som nevnt i bokstav b og bruk av utstyret
+4. liste over harmoniserte standarder som er anvendt med referanser til Den Europeiske Unions Tidende. Der slike standarder ikke er anvendt skal det beskrives de løsninger som er anvendt for å oppfylle grunnleggende krav, herunder liste over andre relevante tekniske spesifikasjoner som er anvendt. I tilfeller hvor kun deler av harmoniserte standarder er anvendt skal dokumentasjonen angi hvilke deler som er anvendt
+5. resultater fra konstruksjonsberegninger, undersøkelser og andre relevante elementer
+6. testrapporter.
 
 ## § 20. Krav til merking
 
@@ -264,6 +345,17 @@ Fra den tid forskriften trer i kraft, gjøres følgende endringer i [forskrift 1
 
 ## Vedlegg 1. Samsvarserklæring
 
-Samsvarserklæring (Nr. xxx) (Innsetting av nummer er valgfritt)Produkt (produktnavn, typebetegnelse, parti- eller serienummer):Navn og adresse til produsent eller produsentens autoriserte representant:Denne samsvarserklæringen er utferdiget under eneansvar av produsentenProduktet som samsvarserklæres (identifisering av apparatet slik at det kan spores, for eksempel et fargefoto som i tilstrekkelig grad identifiserer apparatet):Produktet er i samsvar med følgende relevante EU-lovgivning:Referanse til harmoniserte standarder og tekniske spesifikasjoner som er anvendt for dokumentasjon av samsvar med EU-lovgivningen i punkt 5, herunder dato på disse standardene og de tekniske spesifikasjonene:Hvor det er relevant: Teknisk kontrollorgan (navn og nummer), utførte (beskrivelse av samsvarsvurderingsaktivitet) og utstedte EF-typeprøvingssertifikat:Supplerende opplysninger:Underskrevet for og på vegne av:
-(sted og dato for utstedelse):
-(navn, stilling) (underskrift):
+Samsvarserklæring (Nr. xxx) (Innsetting av nummer er valgfritt)
+
+1. Produkt (produktnavn, typebetegnelse, parti- eller serienummer):
+2. Navn og adresse til produsent eller produsentens autoriserte representant:
+3. Denne samsvarserklæringen er utferdiget under eneansvar av produsenten
+4. Produktet som samsvarserklæres (identifisering av apparatet slik at det kan spores, for eksempel et fargefoto som i tilstrekkelig grad identifiserer apparatet):
+5. Produktet er i samsvar med følgende relevante EU-lovgivning:
+6. Referanse til harmoniserte standarder og tekniske spesifikasjoner som er anvendt for dokumentasjon av samsvar med EU-lovgivningen i punkt 5, herunder dato på disse standardene og de tekniske spesifikasjonene:
+7. Hvor det er relevant: Teknisk kontrollorgan (navn og nummer), utførte (beskrivelse av samsvarsvurderingsaktivitet) og utstedte EF-typeprøvingssertifikat:
+8. Supplerende opplysninger:
+
+   Underskrevet for og på vegne av:
+   (sted og dato for utstedelse):
+   (navn, stilling) (underskrift):

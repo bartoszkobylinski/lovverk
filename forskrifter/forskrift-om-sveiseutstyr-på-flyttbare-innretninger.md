@@ -15,7 +15,7 @@ xml_hash: "43e1b2489172945eb6a2a3a788c6bbc87936c84b018874fe90d46e235c66c1d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,27 @@ eu_basis: []
 
 ## § 2. Definisjoner
 
-I denne forskrift betyr:*Acetylen:* C2 H2 for lagring på spesialflasker (15 – 19 bar ved 15 °C).*Anerkjent klasseinstitusjon:* Klasseinstitusjoner som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):American Bureau of Shipping (ABS)Bureau Veritas (BV)DNVLloyd's Register of Shipping (LR)Nippon Kaiji Kyoaki (Class NK)Rina Services S.p.A (RINA).*Anerkjent standard*: Standard som er utgitt av NS/BS/API/DIN/NFPA/ISO/CEN/IEC eller andre standarder, ev. regelverk, som for et bestemt anvendelsesområde er nasjonalt og/eller internasjonalt anerkjent. Sjøfartsdirektoratet vil i hvert enkelt tilfelle kunne bestemme hvilken standard som kan anerkjennes.*Flyttbar innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.*Kvalifisert person:* Person med kvalifikasjoner til å foreta installasjon, prøving og kontroll av sentralanlegg, samt utstedelse av installasjonsbevis, jf. [§ 7](forskrift/2003-04-11-480/§7).*MOU-klasseinstitusjon:* Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktigelse mv. av flyttbare innretninger. Disse institusjonene er:American Bureau of Shipping (ABS)DNVLloyd's Register of Shipping (LR).*Oksygen:* O2 for lagring på spesialgassflasker (150 eller 200 bar ved 15 °C).*Rederiet:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.
+I denne forskrift betyr:
+
+1. *Acetylen:* C2 H2 for lagring på spesialflasker (15 – 19 bar ved 15 °C).
+2. *Anerkjent klasseinstitusjon:* Klasseinstitusjoner som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):
+
+   1. American Bureau of Shipping (ABS)
+   2. Bureau Veritas (BV)
+   3. DNV
+   4. Lloyd's Register of Shipping (LR)
+   5. Nippon Kaiji Kyoaki (Class NK)
+   6. Rina Services S.p.A (RINA).
+3. *Anerkjent standard*: Standard som er utgitt av NS/BS/API/DIN/NFPA/ISO/CEN/IEC eller andre standarder, ev. regelverk, som for et bestemt anvendelsesområde er nasjonalt og/eller internasjonalt anerkjent. Sjøfartsdirektoratet vil i hvert enkelt tilfelle kunne bestemme hvilken standard som kan anerkjennes.
+4. *Flyttbar innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.
+5. *Kvalifisert person:* Person med kvalifikasjoner til å foreta installasjon, prøving og kontroll av sentralanlegg, samt utstedelse av installasjonsbevis, jf. [§ 7](forskrift/2003-04-11-480/§7).
+6. *MOU-klasseinstitusjon:* Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktigelse mv. av flyttbare innretninger. Disse institusjonene er:
+
+   1. American Bureau of Shipping (ABS)
+   2. DNV
+   3. Lloyd's Register of Shipping (LR).
+7. *Oksygen:* O2 for lagring på spesialgassflasker (150 eller 200 bar ved 15 °C).
+8. *Rederiet:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.
 
 > Endret ved [forskrifter 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [18 jan 2011 nr. 56](forskrift/2011-01-18-56), [5 juli 2016 nr. 897](forskrift/2016-07-05-897), [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
 
@@ -60,7 +80,11 @@ Rederiet skal kunne dokumentere at forskriftens krav er oppfylt. På forespørse
 
 ## § 7. Kvalifisert person
 
-Kvalifisert person skal oppfylle følgende krav:ha alle nødvendige kvalifikasjoner for å kunne foreta rør- og utstyrsmontasje på flyttbare innretningerha spesielle kunnskaper om de problemer og sikkerhetsforanstaltninger som knytter seg til installasjon, utprøving, kontroll og bruk av sentralanlegg og som har praktisk erfaring på dette området, ogunder installasjon benytte utstyrsleverandørens armatur, tegninger og anvisninger.
+Kvalifisert person skal oppfylle følgende krav:
+
+1. ha alle nødvendige kvalifikasjoner for å kunne foreta rør- og utstyrsmontasje på flyttbare innretninger
+2. ha spesielle kunnskaper om de problemer og sikkerhetsforanstaltninger som knytter seg til installasjon, utprøving, kontroll og bruk av sentralanlegg og som har praktisk erfaring på dette området, og
+3. under installasjon benytte utstyrsleverandørens armatur, tegninger og anvisninger.
 
 ## § 8. Sentralanlegg
 
@@ -88,7 +112,11 @@ Kvalifisert person skal oppfylle følgende krav:ha alle nødvendige kvalifikasjo
 
 (8) Elektriske anlegg skal tilfredsstille de til enhver tid gjeldende regler for installasjon av elektriske komponenter i eksplosjonsfarlige områder.
 
-(9) På flyttbare innretninger som ikke benyttes til undersøkelse etter, utnyttelse (produksjon) eller lagring av petroleumsprodukter, kan det aksepteres at gassflaskesentralen er åpen dersom det foreligger en formålstjenlig og rimelig begrunnelse for en slik løsning. For slike anlegg gjelder følgende spesielle bestemmelser:Gassflaskene i sentralen skal være plassert i egne solide stativer innenfor et avmerket felt på åpent dekk. Gassflaskene, armatur og rørledninger mv. skal være effektivt beskyttet mot mekaniske skader, direkte solvarme, vær og vind. Over sentralen skal det være et tett og solid tak eller deksel av stål, solid netting/gitter e.l. som lett kan åpnes eller fjernes.Det skal være et markert skille mellom acetylen- og oksygenflaskene i gassflaskesentralen.Rørledninger på åpent dekk skal ha en godstykkelse på minst 2,5 mm.
+(9) På flyttbare innretninger som ikke benyttes til undersøkelse etter, utnyttelse (produksjon) eller lagring av petroleumsprodukter, kan det aksepteres at gassflaskesentralen er åpen dersom det foreligger en formålstjenlig og rimelig begrunnelse for en slik løsning. For slike anlegg gjelder følgende spesielle bestemmelser:
+
+1. Gassflaskene i sentralen skal være plassert i egne solide stativer innenfor et avmerket felt på åpent dekk. Gassflaskene, armatur og rørledninger mv. skal være effektivt beskyttet mot mekaniske skader, direkte solvarme, vær og vind. Over sentralen skal det være et tett og solid tak eller deksel av stål, solid netting/gitter e.l. som lett kan åpnes eller fjernes.
+2. Det skal være et markert skille mellom acetylen- og oksygenflaskene i gassflaskesentralen.
+3. Rørledninger på åpent dekk skal ha en godstykkelse på minst 2,5 mm.
 
 ## § 10. Gassflasker, armatur mv.
 
@@ -104,23 +132,73 @@ Kvalifisert person skal oppfylle følgende krav:ha alle nødvendige kvalifikasjo
 
 ## § 11. Rørinstallasjoner mv.
 
-(1) Høytrykkside. Rør og armatur mellom gassflasker og regulator.Rør for acetylen.Rør skal være rustfrie stålrør. Alle rør skal være sømløse. Rør og armatur skal være sertifisert for 300 bar.Kopper eller kopperlegeringer med mer enn 65% kopper skal ikke benyttes i forbindelse med acetylen.I sentralanlegg hvor to eller flere flasker acetylen er forbundet med samlerør, skal tilførselsrørene mellom flasker og samlerør være utstyrt med tilbakeslagsventil som tilfredsstiller relevante standarder, jf. [§ 12](forskrift/2003-04-11-480/§12).Rør for oksygen.Rør skal være rustfrie stålrør eller kopperrør. Alle rør skal være sømløse. Rør og armatur skal være sertifisert for 300 bar.I sentralanlegg hvor to eller flere flasker oksygen er forbundet med samlerør, skal tilførselsrørene mellom flasker og samlerør være utstyrt med tilbakeslagsventil som tilfredsstiller relevante standarder, jf. [§ 12](forskrift/2003-04-11-480/§12).Sikkerhetsventiler o.l.Sikkerhetsventiler o.l. som er plassert i gassflaskesentral skal ha avlufting til åpent dekk. Utløpet skal legges til et sikkert sted og i en høyde av minst 3 m over dekk. Avluftingsstedet skal være merket som forlangt i [§ 16](forskrift/2003-04-11-480/§16) fjerde ledd.Se også [§ 9](forskrift/2003-04-11-480/§9) tredje ledd.
+(1) Høytrykkside. Rør og armatur mellom gassflasker og regulator.
 
-(2) Lavtrykkside.Rør skal være sømløse med materiale ST 35 eller tilsvarende materiale med minimum godstykkelse 2,0 mm og/eller etter anerkjent klasseinstitusjons krav. Rørledninger på åpent dekk skal ha en godstykkelse på minst 2,5 mm.Rørledninger skal legges fritt og slik at de er beskyttet mot skader. Rørledninger skal ikke trekkes gjennom uventilerte rom, skap mv. eller legges i innredning.Ekspansjonssløyfer skal legges hvor det er nødvendig, og ved føring gjennom dekk eller skott skal rørledningen legges i beskyttelsesrør av hard plast eller fibermateriale. Alle rør skal festes forsvarlig slik at de er beskyttet mot skader. Avstanden mellom festeklemmer bør ikke overskride 2,5 m.Rørledninger skal legges med færrest mulig skjøter. Skjøter skal være fagmessig sveiset med TIG- eller acetylen/oksygenapparat. Skjøter skal anbringes på steder som er lett tilgjengelig for inspeksjon.Demonterbare koblinger kan ikke benyttes som erstatning for sveising.
+1. Rør for acetylen.
 
-(3) Uttaksposter.Uttakspost er brakett med avstengningsventiler, regulatorer, manometer, og tilbakeslagssikringer for acetylen og oksygen plassert i skap eller beskyttet på annen tilfredsstillende måte.Uttaksposter skal være plassert på et sikkert og godt ventilert sted, og slik at de er beskyttet mot mekanisk belastning.Avstengningsventiler på uttaksposter skal være stengt når anlegget ikke er i bruk.
+   1. Rør skal være rustfrie stålrør. Alle rør skal være sømløse. Rør og armatur skal være sertifisert for 300 bar.
+   2. Kopper eller kopperlegeringer med mer enn 65% kopper skal ikke benyttes i forbindelse med acetylen.
+   3. I sentralanlegg hvor to eller flere flasker acetylen er forbundet med samlerør, skal tilførselsrørene mellom flasker og samlerør være utstyrt med tilbakeslagsventil som tilfredsstiller relevante standarder, jf. [§ 12](forskrift/2003-04-11-480/§12).
+2. Rør for oksygen.
+
+   1. Rør skal være rustfrie stålrør eller kopperrør. Alle rør skal være sømløse. Rør og armatur skal være sertifisert for 300 bar.
+   2. I sentralanlegg hvor to eller flere flasker oksygen er forbundet med samlerør, skal tilførselsrørene mellom flasker og samlerør være utstyrt med tilbakeslagsventil som tilfredsstiller relevante standarder, jf. [§ 12](forskrift/2003-04-11-480/§12).
+3. Sikkerhetsventiler o.l.
+
+   Sikkerhetsventiler o.l. som er plassert i gassflaskesentral skal ha avlufting til åpent dekk. Utløpet skal legges til et sikkert sted og i en høyde av minst 3 m over dekk. Avluftingsstedet skal være merket som forlangt i [§ 16](forskrift/2003-04-11-480/§16) fjerde ledd.
+
+   Se også [§ 9](forskrift/2003-04-11-480/§9) tredje ledd.
+
+(2) Lavtrykkside.
+
+1. Rør skal være sømløse med materiale ST 35 eller tilsvarende materiale med minimum godstykkelse 2,0 mm og/eller etter anerkjent klasseinstitusjons krav. Rørledninger på åpent dekk skal ha en godstykkelse på minst 2,5 mm.
+2. Rørledninger skal legges fritt og slik at de er beskyttet mot skader. Rørledninger skal ikke trekkes gjennom uventilerte rom, skap mv. eller legges i innredning.
+3. Ekspansjonssløyfer skal legges hvor det er nødvendig, og ved føring gjennom dekk eller skott skal rørledningen legges i beskyttelsesrør av hard plast eller fibermateriale. Alle rør skal festes forsvarlig slik at de er beskyttet mot skader. Avstanden mellom festeklemmer bør ikke overskride 2,5 m.
+4. Rørledninger skal legges med færrest mulig skjøter. Skjøter skal være fagmessig sveiset med TIG- eller acetylen/oksygenapparat. Skjøter skal anbringes på steder som er lett tilgjengelig for inspeksjon.
+5. Demonterbare koblinger kan ikke benyttes som erstatning for sveising.
+
+(3) Uttaksposter.
+
+1. Uttakspost er brakett med avstengningsventiler, regulatorer, manometer, og tilbakeslagssikringer for acetylen og oksygen plassert i skap eller beskyttet på annen tilfredsstillende måte.
+2. Uttaksposter skal være plassert på et sikkert og godt ventilert sted, og slik at de er beskyttet mot mekanisk belastning.
+3. Avstengningsventiler på uttaksposter skal være stengt når anlegget ikke er i bruk.
 
 ## § 12. Krav til utstyr og installasjoner
 
-Utstyr og installasjoner skal være i samsvar med de nedenfor nevnte standarder eller tilsvarende:NS-EN-730 Utstyr for gassveising. Utstyr benyttet for gassveising, skjæring og tilhørende metoder, sikkerhetsinnretninger for brenngasser og oksygen eller komprimert luft. Generelle spesifikasjoner, krav og prøving.NS-EN-961 Gassveiseutstyr. Forgreningsrørregulator brukt for sveising, skjæring og tilhørende metoder opptil 200 bar.NS-EN-ISO-14113 Gas welding equipment. Rubber and plastic hoses assemblied for compressed or liquefied gases up to a maximum design pressure of 450 bar (ISO-14113:1997).NS-EN-ISO-2503 Utstyr for gass-sveisning. Trykkregulatorer for gassflasker benyttet ved sveising, skjæring og tilhørende metoder opptil 300 bar (ISO-2503:1998).NS-ISO-9090 Gasstetthet for utstyr til gassveising og lignende metoder (=29090:1992).NS-ISO-9539 Materialer for utstyr benyttet til gassveising, kutting og lignende metoder (= EN-29539:1992).NS-EN-ISO-14114 Gas welding equipment – Acetylene manifold systems for welding, cutting and allied processes – General requirements (ISO 14114:1999).
+Utstyr og installasjoner skal være i samsvar med de nedenfor nevnte standarder eller tilsvarende:
+
+1. NS-EN-730 Utstyr for gassveising. Utstyr benyttet for gassveising, skjæring og tilhørende metoder, sikkerhetsinnretninger for brenngasser og oksygen eller komprimert luft. Generelle spesifikasjoner, krav og prøving.
+2. NS-EN-961 Gassveiseutstyr. Forgreningsrørregulator brukt for sveising, skjæring og tilhørende metoder opptil 200 bar.
+3. NS-EN-ISO-14113 Gas welding equipment. Rubber and plastic hoses assemblied for compressed or liquefied gases up to a maximum design pressure of 450 bar (ISO-14113:1997).
+4. NS-EN-ISO-2503 Utstyr for gass-sveisning. Trykkregulatorer for gassflasker benyttet ved sveising, skjæring og tilhørende metoder opptil 300 bar (ISO-2503:1998).
+5. NS-ISO-9090 Gasstetthet for utstyr til gassveising og lignende metoder (=29090:1992).
+6. NS-ISO-9539 Materialer for utstyr benyttet til gassveising, kutting og lignende metoder (= EN-29539:1992).
+7. NS-EN-ISO-14114 Gas welding equipment – Acetylene manifold systems for welding, cutting and allied processes – General requirements (ISO 14114:1999).
 
 ## § 13. Installasjon, prøving og kontroll av sentralanlegg
 
-(1) Installasjon av sentralanlegg.Før rørledninger for acetylen og oksygen monteres skal alle rørledninger og koplinger nøye skylles rene for fett, olje og andre brennbare stoffer. Til avfettingen skal ikke brennbare eller organiske løsemidler benyttes. Rørledninger og koplinger renblåses deretter med fettfritt nitrogen, både før og etter montering. Trykkluft fra oljesmurt kompressor eller oksygen skal ikke benyttes.
+(1) Installasjon av sentralanlegg.
 
-(2) Gjennomblåsning og tetthetsprøving etter installasjon mv.Etter endt installasjon eller reparasjon av sentralanlegg og ellers med 5 års mellomrom, jf. [§ 14](forskrift/2003-04-11-480/§14), skal det foretas en gjennomblåsning og tetthetsprøving av alle rørledninger. Prøvingen skal foretas av kvalifisert person.Gjennomblåsning av rørledninger for acetylen og oksygen skal foretas med fettfritt nitrogen. Nitrogenen skal blåses inn etter høytrykkssiden og ledes ut ved uttakspost. Uttaksposten(e) skal være fjernet mens gjennomblåsningen pågår. Ved gjennomblåsningen økes trykket gradvis til ca. 12 bar og gjennomblåsningen skal pågå til det ikke lenger kommer smuss ut av røret. Høytrykksrør gjennomblåses separat.Lavtrykksiden.Rørledninger for acetylen og oksygen på lavtrykksiden skal tetthetsprøves med fettfritt nitrogen, og prøvetrykket skal være 12 bar. Etter 8 timer skal trykkfallet ikke overstige 0,4 bar.Høytrykksiden.Rørledninger for acetylen skal tetthetsprøves med fettfritt nitrogen ved 25 bar. Rørledninger for oksygen skal tetthetsprøves med 200 bar oksygen eller fettfritt nitrogen.Fellesbestemmelse.Alle ventiler, skjøter og andre forbindelser skal under tetthetsprøvingen kontrolleres for lekkasje ved hjelp av egnede midler.
+Før rørledninger for acetylen og oksygen monteres skal alle rørledninger og koplinger nøye skylles rene for fett, olje og andre brennbare stoffer. Til avfettingen skal ikke brennbare eller organiske løsemidler benyttes. Rørledninger og koplinger renblåses deretter med fettfritt nitrogen, både før og etter montering. Trykkluft fra oljesmurt kompressor eller oksygen skal ikke benyttes.
 
-(3) Årlig kontroll.Tetthetskontroll av rørledninger skal foretas minst en gang hvert år med vanlig driftstrykk for henholdsvis oksygen og acetylen. Gasstilførselen til ledningene stoppes ved at sentralregulatoren stenges, og trykket i ledningene skal da kunne holde seg konstant i minst 8 timer. Forekommer det trykkfall i ledninger for oksygen og/eller acetylen skal sentralanlegget kontrolleres og utbedres av kvalifisert person, og nytt installasjonsbevis utstedes. Den årlige kontroll skal påføres installasjonsbeviset i gassflaskesentralen.
+(2) Gjennomblåsning og tetthetsprøving etter installasjon mv.
+
+1. Etter endt installasjon eller reparasjon av sentralanlegg og ellers med 5 års mellomrom, jf. [§ 14](forskrift/2003-04-11-480/§14), skal det foretas en gjennomblåsning og tetthetsprøving av alle rørledninger. Prøvingen skal foretas av kvalifisert person.
+2. Gjennomblåsning av rørledninger for acetylen og oksygen skal foretas med fettfritt nitrogen. Nitrogenen skal blåses inn etter høytrykkssiden og ledes ut ved uttakspost. Uttaksposten(e) skal være fjernet mens gjennomblåsningen pågår. Ved gjennomblåsningen økes trykket gradvis til ca. 12 bar og gjennomblåsningen skal pågå til det ikke lenger kommer smuss ut av røret. Høytrykksrør gjennomblåses separat.
+
+   1. Lavtrykksiden.
+
+      Rørledninger for acetylen og oksygen på lavtrykksiden skal tetthetsprøves med fettfritt nitrogen, og prøvetrykket skal være 12 bar. Etter 8 timer skal trykkfallet ikke overstige 0,4 bar.
+   2. Høytrykksiden.
+
+      Rørledninger for acetylen skal tetthetsprøves med fettfritt nitrogen ved 25 bar. Rørledninger for oksygen skal tetthetsprøves med 200 bar oksygen eller fettfritt nitrogen.
+   3. Fellesbestemmelse.
+
+      Alle ventiler, skjøter og andre forbindelser skal under tetthetsprøvingen kontrolleres for lekkasje ved hjelp av egnede midler.
+
+(3) Årlig kontroll.
+
+Tetthetskontroll av rørledninger skal foretas minst en gang hvert år med vanlig driftstrykk for henholdsvis oksygen og acetylen. Gasstilførselen til ledningene stoppes ved at sentralregulatoren stenges, og trykket i ledningene skal da kunne holde seg konstant i minst 8 timer. Forekommer det trykkfall i ledninger for oksygen og/eller acetylen skal sentralanlegget kontrolleres og utbedres av kvalifisert person, og nytt installasjonsbevis utstedes. Den årlige kontroll skal påføres installasjonsbeviset i gassflaskesentralen.
 
 ## § 14. Installasjonsbevis
 
@@ -186,7 +264,10 @@ Fire, open light and smoking prohibited
 
 (6) På uttakspostene skal det være slått opp skilt som angir arbeidstrykket. Det skal også være slått opp skilt som klart uttrykker at ventilene skal være stengt når anlegget ikke er i bruk.
 
-(7) Lavtrykksrør mellom regulatorer og uttaksposter skal males eller merkes slik at det ikke på noe sted er tvil om hvilke gasser rørene fører.Rør for acetylen males/merkes: RødRør for oksygen males/merkes: Blå
+(7) Lavtrykksrør mellom regulatorer og uttaksposter skal males eller merkes slik at det ikke på noe sted er tvil om hvilke gasser rørene fører.
+
+1. Rør for acetylen males/merkes: Rød
+2. Rør for oksygen males/merkes: Blå
 
 (8) Bruksanvisning for sentralanlegg som nevnt i annet ledd og for transportabelt sveiseutstyr, skal leveres av utstyrsleverandøren.
 

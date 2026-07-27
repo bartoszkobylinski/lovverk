@@ -15,7 +15,7 @@ xml_hash: "50b000c870ca7411f7cb83d83be116f90bc3013d6781f948510cb047d0c999cf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,15 @@ eu_basis: []
 
 (3) Krava til norskkunnskapar gjeld ikkje for søkjarar som skal takast opp til engelskspråklege studieprogram, og studentar som deltek i internasjonale utvekslingsprogram, jf. [forskrift om opptak til høgare utdanning § 2-2 sjuande ledd](forskrift/2017-01-06-13/§2-2/ledd/7).
 
-(4) Søkjarar til engelskspråklege vidare- eller mastergradsutdanningar som har utdanning frå land utanfor Norden, må dokumentere engelskkunnskap på høgare nivå med eitt av følgjande alternativ:Engelsk frå Vg1 i norsk vidaregåande skule (140 årstimar) med karakteren 4 eller betre.International English Language Testing Service (IELTS) med minst 6.0 poeng.Test of English as a Foreign Language (TOEFL) med minst 550 poeng for Paper-based test (PBT), minst 213 poeng for Computer-based test (CBT), eller minst 80 poeng for Internet-based test (IBT).Pearson PTE Academic med minimum 59 poeng.Cambridge English Examinations med testene B2 First med resultatet B eller bedre, eller C1 Advanced med resultatet C eller bedre, eller C2 Proficiency med resultatet C eller bedre.Annan dokumentasjon kan godkjennast etter individuell vurdering.Unntak frå kravet for enkeltstudium eller emne kan fastsetjast av styret i studieplan eller emneplan.
+(4) Søkjarar til engelskspråklege vidare- eller mastergradsutdanningar som har utdanning frå land utanfor Norden, må dokumentere engelskkunnskap på høgare nivå med eitt av følgjande alternativ:
+
+1. Engelsk frå Vg1 i norsk vidaregåande skule (140 årstimar) med karakteren 4 eller betre.
+2. International English Language Testing Service (IELTS) med minst 6.0 poeng.
+3. Test of English as a Foreign Language (TOEFL) med minst 550 poeng for Paper-based test (PBT), minst 213 poeng for Computer-based test (CBT), eller minst 80 poeng for Internet-based test (IBT).
+4. Pearson PTE Academic med minimum 59 poeng.
+5. Cambridge English Examinations med testene B2 First med resultatet B eller bedre, eller C1 Advanced med resultatet C eller bedre, eller C2 Proficiency med resultatet C eller bedre.
+6. Annan dokumentasjon kan godkjennast etter individuell vurdering.
+7. Unntak frå kravet for enkeltstudium eller emne kan fastsetjast av styret i studieplan eller emneplan.
 
 (5) Styret kan i studieplan eller emneplan fastsetje spesielle opptakskrav til studium som ikkje vert omfatta av [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13).
 
@@ -114,9 +122,18 @@ Opptakskrav til årsstudium, bachelor- og integrert masterutdanning og vidareutd
 
 (3) Det er berre mogleg å få opptak til éin didaktisk fagprofil.
 
-(4) Yrkesfagleg praktisk-pedagogisk utdanning (PPU-Y) har følgjande alternative opptaksgrunnlag:profesjonsretta bachelorgrad og minimum to års relevant yrkespraksis, ellerfag-/sveinebrev eller anna fullført treårig yrkesutdanning på vidaregåande nivå, generell studiekompetanse, minst to års yrkesteoretisk utdanning og fire års relevant yrkespraksis.
+(4) Yrkesfagleg praktisk-pedagogisk utdanning (PPU-Y) har følgjande alternative opptaksgrunnlag:
 
-(5) Allmennfagleg praktisk-pedagogisk utdanning (PPU-A) har følgjande alternative opptaksgrunnlagein mastergrad og minst eitt relevant fag, i eller i tillegg til graden, som gir kompetanse til å undervise, jf. [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa kapittel 12](forskrift/2024-06-03-900/kap12) ellerein bachelorgrad og minst eitt relevant fag, i eller i tillegg til graden, som gir kompetanse til å undervise, jf. [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa kapittel 12](forskrift/2024-06-03-900/kap12), og minst to års relevant arbeidserfaring frå grunnskulen eller den vidaregåande skulen, ellerein bachelorgrad i utøvande eller skapande kunstfag i finansieringskategori A eller B, med minimum 180 studiepoeng i kunstfaget, ellerein bachelorgrad med inntil tre fag som gir kompetanse til å undervise i praktiske og/eller estetiske fag i grunnskulen. Eitt av faga kan bli erstatta av drama/teaterfag. Det må inngå fordjuping på minst 120 studiepoeng i eitt fag. Andre fag må ha eit omfang på minst 30 studiepoeng. Det stilles krav om gjennomsnittskarakter C eller betre frå bachelorgraden, ellerein bachelorgrad i teiknspråk og tolking (døvetolkutdanning), med minst 80 studiepoeng i teiknspråk. Det stilles krav om gjennomsnittskarakter C eller betre frå bachelorgraden.
+1. profesjonsretta bachelorgrad og minimum to års relevant yrkespraksis, eller
+2. fag-/sveinebrev eller anna fullført treårig yrkesutdanning på vidaregåande nivå, generell studiekompetanse, minst to års yrkesteoretisk utdanning og fire års relevant yrkespraksis.
+
+(5) Allmennfagleg praktisk-pedagogisk utdanning (PPU-A) har følgjande alternative opptaksgrunnlag
+
+1. ein mastergrad og minst eitt relevant fag, i eller i tillegg til graden, som gir kompetanse til å undervise, jf. [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa kapittel 12](forskrift/2024-06-03-900/kap12) eller
+2. ein bachelorgrad og minst eitt relevant fag, i eller i tillegg til graden, som gir kompetanse til å undervise, jf. [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa kapittel 12](forskrift/2024-06-03-900/kap12), og minst to års relevant arbeidserfaring frå grunnskulen eller den vidaregåande skulen, eller
+3. ein bachelorgrad i utøvande eller skapande kunstfag i finansieringskategori A eller B, med minimum 180 studiepoeng i kunstfaget, eller
+4. ein bachelorgrad med inntil tre fag som gir kompetanse til å undervise i praktiske og/eller estetiske fag i grunnskulen. Eitt av faga kan bli erstatta av drama/teaterfag. Det må inngå fordjuping på minst 120 studiepoeng i eitt fag. Andre fag må ha eit omfang på minst 30 studiepoeng. Det stilles krav om gjennomsnittskarakter C eller betre frå bachelorgraden, eller
+5. ein bachelorgrad i teiknspråk og tolking (døvetolkutdanning), med minst 80 studiepoeng i teiknspråk. Det stilles krav om gjennomsnittskarakter C eller betre frå bachelorgraden.
 
 (6) Søkjarar som har bachelor grad og arbeidserfaring etter femte ledd, punkt b, eller ein bachelorgrad i praktiske og estetiske fag etter femte ledd, punkt d, kan kvalifisere til opptak til praktisk-pedagogisk utdanning for siste gang til studium med oppstart våren 2030.
 
@@ -140,15 +157,29 @@ For opptak til Y-veg må søkjar ha relevant fagbrev, sveinebrev eller yrkeskomp
 
 ### § 2-9. Opptaksgrunnlag eittårig fagskuleutdanning for yrkesdykkarar
 
-(1) Opptakskrava til dykkarutdanninga er følgjande:generell studiekompetanse, ellerfullført fagopplæring med fag- eller sveinebrev innanfor relevant fagområde ellerfullført treårig yrkesfaglig opplæring innanfor relevant fagområde ellerrealkompetanse.
+(1) Opptakskrava til dykkarutdanninga er følgjande:
 
-(2) I tillegg må søkjaren ha:bestått opptaksprøvegyldig helseerklæring for arbeidsdykkingfylt 18 år ved studiestart.
+1. generell studiekompetanse, eller
+2. fullført fagopplæring med fag- eller sveinebrev innanfor relevant fagområde eller
+3. fullført treårig yrkesfaglig opplæring innanfor relevant fagområde eller
+4. realkompetanse.
+
+(2) I tillegg må søkjaren ha:
+
+1. bestått opptaksprøve
+2. gyldig helseerklæring for arbeidsdykking
+3. fylt 18 år ved studiestart.
 
 ### § 2-10. Opptaksgrunnlag overflyttingsopptak
 
 (1) Før ein søkjar får vurdert om han eller ho tilfredsstiller opptaksgrunnlaget, må fakultetet bestemme om det skal opnast for søknader om overflytting på den aktuelle utdanninga, jf. [§ 7-6 fjerde ledd](forskrift/2024-06-24-1858/§7-6/ledd/4).
 
-(2) Ved overflyttingsopptak må søkjaren oppfylle alle dei følgjande vilkåra:Søkjaren oppfyller dei faglege vilkåra for opptak til studieprogrammet.Søkjaren har tilsvarande fagleg progresjon som det kullet det vert søkt om opptak til.Søkjaren må normalt ha meir enn eitt semester att for å fullføre utdanninga som skal gjennomførast på studieprogrammet studenten søkjer om overflytting til, sjå tilknytingskravet i [universitets- og høyskoleloven § 11-12](lov/2024-03-08-9/§11-12).Søkjaren må på søknadstidspunktet ha aktiv studierett eller gyldig permisjon ved Høgskulen på Vestlandet eller annan lærestad som er omfatta av [universitets- og høyskoleloven](lov/2024-03-08-9). Fakulteta kan opne for søkjarar utan studierett som fyller dei andre kriteria for overflyttingsopptak.
+(2) Ved overflyttingsopptak må søkjaren oppfylle alle dei følgjande vilkåra:
+
+1. Søkjaren oppfyller dei faglege vilkåra for opptak til studieprogrammet.
+2. Søkjaren har tilsvarande fagleg progresjon som det kullet det vert søkt om opptak til.
+3. Søkjaren må normalt ha meir enn eitt semester att for å fullføre utdanninga som skal gjennomførast på studieprogrammet studenten søkjer om overflytting til, sjå tilknytingskravet i [universitets- og høyskoleloven § 11-12](lov/2024-03-08-9/§11-12).
+4. Søkjaren må på søknadstidspunktet ha aktiv studierett eller gyldig permisjon ved Høgskulen på Vestlandet eller annan lærestad som er omfatta av [universitets- og høyskoleloven](lov/2024-03-08-9). Fakulteta kan opne for søkjarar utan studierett som fyller dei andre kriteria for overflyttingsopptak.
 
 > Endra ved forskrift [20 nov 2025 nr. 2990](forskrift/2025-11-20-2990).
 
@@ -178,13 +209,25 @@ For studieprogram og emne som ikkje har nasjonale rammeplanar og føringar, gjel
 
 ### § 3-2. Realkompetanse for opptak til studium som krev generell studiekompetanse
 
-(1) Søkjaren må oppfylle følgjande kriterium for å vere kvalifisert for opptak til studium som har generell studiekompetanse som opptakskrav:Søkjaren har ikkje generell studiekompetanse.Spesielle opptakskrav på studieprogrammet må vere oppfylt.Søkjaren må ha minst fem års fulltids arbeidserfaring, der minst tre er relevante for studiet det vert søkt om opptak til. Deltid vert rekna om til heiltid. Inntil to av dei fem åra kan vere ulønna arbeid, utdanning, organisasjonserfaring og/eller liknande.Søkjarar til emne på inntil 30 studiepoeng eller studieprogram på 30 studiepoeng må ha minst fem års arbeidserfaring i minst 50 %, der minst tre år er relevante for studiet det vert søkt om opptak til. Inntil to av dei fem åra kan vere ulønt arbeid, utdanning, organisasjonserfaring og/eller liknande.Alle søkjarar må ha naudsynte kunnskapar i norsk (eller anna nordisk språk) og engelsk for å kunne gjennomføre studiet. Kunnskapar i faga norsk, matematikk og engelsk vert særskilt vektlagt.Søkjarar med morsmål frå land utanfor Norden må dokumentere at dei fyller krav til norsk tilsvarande kravet til generell studiekompetanse, med grunnlag i krav i [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13). Unntak kan gjerast dersom utdanninga i sin heilheit vert gjennomført på engelsk eller for søkjarar med 3-årig vidaregåande opplæring frå Noreg eller anna nordisk land.Ved opptak til emne på inntil 30 studiepoeng eller studieprogram på 30 studiepoeng, der det ikkje er fagleg nødvendig med engelskkunnskapar, kan studie- eller emneplan fastsetje unntak for dokumentasjon av engelskkunnskapar.Søkjar til studieprogram på 60 studiepoeng eller meir må gjere greie for eigen motivasjon og forventing til studiet, samt ein eigenvurdering av kvifor søkjar meiner å kunne gjennomføre studiet.
+(1) Søkjaren må oppfylle følgjande kriterium for å vere kvalifisert for opptak til studium som har generell studiekompetanse som opptakskrav:
+
+1. Søkjaren har ikkje generell studiekompetanse.
+2. Spesielle opptakskrav på studieprogrammet må vere oppfylt.
+3. 1. Søkjaren må ha minst fem års fulltids arbeidserfaring, der minst tre er relevante for studiet det vert søkt om opptak til. Deltid vert rekna om til heiltid. Inntil to av dei fem åra kan vere ulønna arbeid, utdanning, organisasjonserfaring og/eller liknande.
+   2. Søkjarar til emne på inntil 30 studiepoeng eller studieprogram på 30 studiepoeng må ha minst fem års arbeidserfaring i minst 50 %, der minst tre år er relevante for studiet det vert søkt om opptak til. Inntil to av dei fem åra kan vere ulønt arbeid, utdanning, organisasjonserfaring og/eller liknande.
+4. Alle søkjarar må ha naudsynte kunnskapar i norsk (eller anna nordisk språk) og engelsk for å kunne gjennomføre studiet. Kunnskapar i faga norsk, matematikk og engelsk vert særskilt vektlagt.
+5. 1. Søkjarar med morsmål frå land utanfor Norden må dokumentere at dei fyller krav til norsk tilsvarande kravet til generell studiekompetanse, med grunnlag i krav i [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13). Unntak kan gjerast dersom utdanninga i sin heilheit vert gjennomført på engelsk eller for søkjarar med 3-årig vidaregåande opplæring frå Noreg eller anna nordisk land.
+   2. Ved opptak til emne på inntil 30 studiepoeng eller studieprogram på 30 studiepoeng, der det ikkje er fagleg nødvendig med engelskkunnskapar, kan studie- eller emneplan fastsetje unntak for dokumentasjon av engelskkunnskapar.
+6. Søkjar til studieprogram på 60 studiepoeng eller meir må gjere greie for eigen motivasjon og forventing til studiet, samt ein eigenvurdering av kvifor søkjar meiner å kunne gjennomføre studiet.
 
 (2) Søkjarar kan ikkje bli vurdert for realkompetanse dersom studiet har krav om eit bestemt minimumstal på skulepoeng, slik som til dømes grunnskulelærar- og faglærarutdanningane.
 
 ### § 3-3. Realkompetanse for opptak til yrkesfagleg praktisk-pedagogisk utdanning (PPU-Y)
 
-(1) Realkompetansevurdering av søkjarar til yrkesfagleg PPU kan berre gjerast for eitt av følgjande delkrav:Generell studiekompetanse, ellerEitt år yrkesteoretisk utdanning.
+(1) Realkompetansevurdering av søkjarar til yrkesfagleg PPU kan berre gjerast for eitt av følgjande delkrav:
+
+1. Generell studiekompetanse, eller
+2. Eitt år yrkesteoretisk utdanning.
 
 (2) I særlege tilfelle, til dømes for yrkesfaglege profilar utan tilbod om yrkesteoretisk utdanning, kan søkjarar utan yrkesteoretisk utdanning og generell studiekompetanse realkompetansevurderast.
 
@@ -204,7 +247,10 @@ Realkompetansevurdering ved opptak til studium som krev høgare utdanning er ber
 
 (1) Grunnlaget for rangeringa er den dokumentasjonen som kvalifiserer søkjaren for eit studium, jf. [kapittel 2](forskrift/2024-06-24-1858/kap2) i denne forskrifta. Søkjarane vert rangerte innbyrdes i kvotar på grunnlag av konkurransepoeng.
 
-(2) Ved lik poengsum gjeld følgjande:Ved lik poengsum i ei kvote skal eldre søkjarar rangerast framfor yngre, om ikkje anna er oppgitt i studieplanen.Styret kan fastsetje i studieplanen at det kjønnet som er underrepresentert i ei kvote skal prioriterast.
+(2) Ved lik poengsum gjeld følgjande:
+
+1. Ved lik poengsum i ei kvote skal eldre søkjarar rangerast framfor yngre, om ikkje anna er oppgitt i studieplanen.
+2. Styret kan fastsetje i studieplanen at det kjønnet som er underrepresentert i ei kvote skal prioriterast.
 
 (3) Dersom ein søkjar har fleire gyldige opptaksgrunnlag etter [kapittel 2](forskrift/2024-06-24-1858/kap2), vert grunnlaget som gir best resultat for søkjaren valt.
 
@@ -212,7 +258,22 @@ Realkompetansevurdering ved opptak til studium som krev høgare utdanning er ber
 
 ### § 4-3. Poengutrekning og rangering av søkjarar til mastergrad, praktisk-pedagogisk utdanning og vidareutdanningar på høgare grads nivå
 
-(1) Søkjarar til høgare grads studium vert rangerte innbyrdes på grunnlag av konkurransepoeng. I konkurransepoenga til ein søkjar kan summen av følgjande poeng inngå:KarakterpoengDet vert rekna ut eit vekta karaktergjennomsnitt av opptaksgrunnlaget. Vekta gjennomsnitt er eit gjennomsnitt der kvart emne i grunnlaget er tillagt vekt etter talet på studiepoeng emnet har.Styret kan fastsetje i studieplanen eller emneplanen at berre delar av opptaksgrunnlaget skal inngå i karakterpoengsummen.Utdanningspoeng:Det kan bli gitt utdanningspoeng for greidd høgare utdanning ut over minstekravet for opptak etter [kapittel 2](forskrift/2024-06-24-1858/kap2) i denne forskrifta. Normalt 1 poeng per 30 studiepoeng og maksimalt 4 poeng med mindre anna er fastsett i studieplan eller emneplan.PraksispoengDet blir gitt poeng for relevant arbeidserfaring når studiet har opptakskrav om praksis, eller dersom det er fastsett i studie- eller emneplan. Normalt to poeng per 12 månadar med relevant praksis utover opptaksgrunnlaget, og maksimalt seks poeng, med mindre anna er fastsett i studie- eller emneplan. Deltid vert rekna om til heiltid.Praksis som søkjaren har gjennomført før kvalifiserande utdanning og praksis som inngår i kvalifiseringsgrunnlaget, er ikkje medrekna i grunnlaget for praksispoeng.Andre tilleggspoeng:Med utgangspunkt i særlege omsyn som er knytte til enkelte studium, kan styret fastsetje andre poengtypar i studieplanen eller emneplanen.
+(1) Søkjarar til høgare grads studium vert rangerte innbyrdes på grunnlag av konkurransepoeng. I konkurransepoenga til ein søkjar kan summen av følgjande poeng inngå:
+
+1. Karakterpoeng
+
+   1. Det vert rekna ut eit vekta karaktergjennomsnitt av opptaksgrunnlaget. Vekta gjennomsnitt er eit gjennomsnitt der kvart emne i grunnlaget er tillagt vekt etter talet på studiepoeng emnet har.
+   2. Styret kan fastsetje i studieplanen eller emneplanen at berre delar av opptaksgrunnlaget skal inngå i karakterpoengsummen.
+2. Utdanningspoeng:
+
+   Det kan bli gitt utdanningspoeng for greidd høgare utdanning ut over minstekravet for opptak etter [kapittel 2](forskrift/2024-06-24-1858/kap2) i denne forskrifta. Normalt 1 poeng per 30 studiepoeng og maksimalt 4 poeng med mindre anna er fastsett i studieplan eller emneplan.
+3. Praksispoeng
+
+   1. Det blir gitt poeng for relevant arbeidserfaring når studiet har opptakskrav om praksis, eller dersom det er fastsett i studie- eller emneplan. Normalt to poeng per 12 månadar med relevant praksis utover opptaksgrunnlaget, og maksimalt seks poeng, med mindre anna er fastsett i studie- eller emneplan. Deltid vert rekna om til heiltid.
+   2. Praksis som søkjaren har gjennomført før kvalifiserande utdanning og praksis som inngår i kvalifiseringsgrunnlaget, er ikkje medrekna i grunnlaget for praksispoeng.
+4. Andre tilleggspoeng:
+
+   Med utgangspunkt i særlege omsyn som er knytte til enkelte studium, kan styret fastsetje andre poengtypar i studieplanen eller emneplanen.
 
 (2) For søkjarar med bokstavkarakterar eller talkarakterar vert følgjande omrekningsskala nytta som grunnlag for utrekning av gjennomsnittskarakter som fører fram til ein talverdi:
 
@@ -378,7 +439,11 @@ Oppdragsstudium er ikkje omfatta av [§ 4-1](forskrift/2024-06-24-1858/§4-1) ti
 
 (1) Høgskulen på Vestlandet kan gi førehandsløfte til kvalifiserte søkjarar som med god margin ville ha komme inn ved siste opptak. Vurderinga vert gjort på grunnlag av tilhøva på studiet og søkjartala på det enkelte studium.
 
-(2) I tillegg til krav om god margin etter første ledd, må søkjaren dokumentere gode grunnar for å få førehandsløfte. Gode grunnar kan vere at:Søkjaren er i jobb og har oppseiingstid eller må søkje permisjon. Dette må dokumenterast med attest frå arbeidsgjevar om oppseiingstid eller permisjon, eller arbeidskontrakt og lønsslipp frå den siste månaden.Søkjaren er sjølvstendig næringsdrivande og skal avvikle verksemda i samband med studium. Dette må dokumenterast med attest frå Skatteetaten eller føretaksregister om sjølvstendig næringsverksemd.Søkjaren må flytte med familie på grunn av jobb, barnehageplass eller skulebyte. Dette må dokumenterast med bustadattest frå Skatteetaten for søkjar og borna, eller søkjar og ektefelle/sambuar.
+(2) I tillegg til krav om god margin etter første ledd, må søkjaren dokumentere gode grunnar for å få førehandsløfte. Gode grunnar kan vere at:
+
+1. Søkjaren er i jobb og har oppseiingstid eller må søkje permisjon. Dette må dokumenterast med attest frå arbeidsgjevar om oppseiingstid eller permisjon, eller arbeidskontrakt og lønsslipp frå den siste månaden.
+2. Søkjaren er sjølvstendig næringsdrivande og skal avvikle verksemda i samband med studium. Dette må dokumenterast med attest frå Skatteetaten eller føretaksregister om sjølvstendig næringsverksemd.
+3. Søkjaren må flytte med familie på grunn av jobb, barnehageplass eller skulebyte. Dette må dokumenterast med bustadattest frå Skatteetaten for søkjar og borna, eller søkjar og ektefelle/sambuar.
 
 ### § 7-4. Fristar
 

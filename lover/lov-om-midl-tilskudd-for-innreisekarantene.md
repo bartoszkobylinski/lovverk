@@ -50,7 +50,19 @@ eu_basis: []
 
 ## § 5. Vilkår for tilskudd
 
-(1) Foretak som oppfyller følgende vilkår, kan få tilskudd:Foretaket må være registrert i Foretaksregisteret med hjemmel i [foretaksregisterloven § 2-1](lov/1985-06-21-78/§2-1), og enkeltpersonforetak registrert i Enhetsregisteret.Foretaket må være skattepliktig til Norge, jf. [skatteloven § 2-2](lov/1999-03-26-14/§2-2) første ledd, eller deltakerne i foretaket må være skattepliktig til Norge for selskapets inntekter, jf. [skatteloven § 2-2](lov/1999-03-26-14/§2-2) tredje ledd. Ordningen omfatter også tilfeller der foretaket eller foretakets eier skattlegges i Norge for virksomhet her etter [skatteloven § 2-3](lov/1999-03-26-14/§2-3) første ledd bokstav b.Foretaket har ansatte. Dette vilkåret gjelder ikke for enkeltpersonforetak og ansvarlige selskap der foretakets inntekt er innehavers eller minst en av deltagernes hovedinntekt.Foretaket må oppfylle følgende vilkår i, eller i medhold av, [smittevernloven](lov/1994-08-05-55):Foretaket har i perioden som det søkes tilskudd for, hatt arbeids- eller oppdragstakere som var underlagt krav om innreisekarantene.Arbeids- eller oppdragstaker som nevnt i bokstav d i) gjennomførte ikke karanteneoppholdet på karantenehotell.Foretaket som arbeids- eller oppdragsgiver var ansvarlig for gjennomføringen av karanteneoppholdet på egnet oppholdssted.Foretaket har i perioden det søkes tilskudd for hatt merkostnader knyttet til krav om innreisekarantene i, eller i medhold av, [smittevernloven](lov/1994-08-05-55).Foretaket utøver lovlig aktivitet.Foretaket er ikke under konkursbehandling, besluttet avviklet eller besluttet tvangsoppløst etter reglene i [kapittel 16 i aksjeloven](lov/1997-06-13-44/kap16) eller [allmennaksjeloven](lov/1997-06-13-45).
+(1) Foretak som oppfyller følgende vilkår, kan få tilskudd:
+
+1. Foretaket må være registrert i Foretaksregisteret med hjemmel i [foretaksregisterloven § 2-1](lov/1985-06-21-78/§2-1), og enkeltpersonforetak registrert i Enhetsregisteret.
+2. Foretaket må være skattepliktig til Norge, jf. [skatteloven § 2-2](lov/1999-03-26-14/§2-2) første ledd, eller deltakerne i foretaket må være skattepliktig til Norge for selskapets inntekter, jf. [skatteloven § 2-2](lov/1999-03-26-14/§2-2) tredje ledd. Ordningen omfatter også tilfeller der foretaket eller foretakets eier skattlegges i Norge for virksomhet her etter [skatteloven § 2-3](lov/1999-03-26-14/§2-3) første ledd bokstav b.
+3. Foretaket har ansatte. Dette vilkåret gjelder ikke for enkeltpersonforetak og ansvarlige selskap der foretakets inntekt er innehavers eller minst en av deltagernes hovedinntekt.
+4. Foretaket må oppfylle følgende vilkår i, eller i medhold av, [smittevernloven](lov/1994-08-05-55):
+
+   1. Foretaket har i perioden som det søkes tilskudd for, hatt arbeids- eller oppdragstakere som var underlagt krav om innreisekarantene.
+   2. Arbeids- eller oppdragstaker som nevnt i bokstav d i) gjennomførte ikke karanteneoppholdet på karantenehotell.
+   3. Foretaket som arbeids- eller oppdragsgiver var ansvarlig for gjennomføringen av karanteneoppholdet på egnet oppholdssted.
+5. Foretaket har i perioden det søkes tilskudd for hatt merkostnader knyttet til krav om innreisekarantene i, eller i medhold av, [smittevernloven](lov/1994-08-05-55).
+6. Foretaket utøver lovlig aktivitet.
+7. Foretaket er ikke under konkursbehandling, besluttet avviklet eller besluttet tvangsoppløst etter reglene i [kapittel 16 i aksjeloven](lov/1997-06-13-44/kap16) eller [allmennaksjeloven](lov/1997-06-13-45).
 
 (2) Departementet gir forskrift til utfylling av denne paragrafen og fastsetter nærmere vilkår for tilskudd, herunder krav til innreisekarantene i, eller i medhold av, [smittevernloven](lov/1994-08-05-55), krav til gjennomføring av karanteneoppholdet, definisjon og beregning av merkostnader til innreisekarantene i, eller i medhold av, [smittevernloven](lov/1994-08-05-55).
 

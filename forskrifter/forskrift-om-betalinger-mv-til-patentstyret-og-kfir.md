@@ -15,7 +15,7 @@ xml_hash: "9d9b80c597beabf07e34bb824b230b7cab90471958bdbfdb7c28ef137cc18fe7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,11 @@ Dersom krav om administrativ overprøving eller innsigelse leveres i papirformat
 
 For elektronisk overføring til Patentstyret etter [§ 1](forskrift/2014-03-26-333/§1), kan leveringsdato være en virkedag eller en helligdag. Øvrige leveringer får leveringsdato den virkedag søknaden eller dokumentet anses mottatt.
 
-Leveringsdato etter [§ 1](forskrift/2014-03-26-333/§1) er:Ved elektronisk overføring gjennom Altinn: Datoen overføringen er bekreftet mottatt.Ved elektronisk overføring til Patentstyrets fastsatte e-postadresse: Datoen overføringen er bekreftet mottatt fra Patentstyrets elektroniske postadressesystem.Ved levering i papirformat til Patentstyrets kontor i åpningstiden: Den virkedag søknaden eller dokumentet mottas i Patentstyret.
+Leveringsdato etter [§ 1](forskrift/2014-03-26-333/§1) er:
+
+1. Ved elektronisk overføring gjennom Altinn: Datoen overføringen er bekreftet mottatt.
+2. Ved elektronisk overføring til Patentstyrets fastsatte e-postadresse: Datoen overføringen er bekreftet mottatt fra Patentstyrets elektroniske postadressesystem.
+3. Ved levering i papirformat til Patentstyrets kontor i åpningstiden: Den virkedag søknaden eller dokumentet mottas i Patentstyret.
 
 > Endret ved [forskrift 22 feb 2023 nr. 253](forskrift/2023-02-22-253) (i kraft 1 mars 2023).
 
@@ -94,7 +98,13 @@ Fristen for å rette feil eller mangler i en søknad eller andre dokumenter, kan
 
 ### § 7
 
-Enhver kan be om:bekreftet utskrift av varemerkeregistret, designregistret og patentregistret,kopi av en varemerkesøknad med bilag,kopi av en patentsøknad med beskrivelse, tegninger, sammendrag og krav,kopi av et trykt norsk utlegningsskrift eller patentskrift, ogkopi av en søknad om registrering av design med bilag.
+Enhver kan be om:
+
+1. bekreftet utskrift av varemerkeregistret, designregistret og patentregistret,
+2. kopi av en varemerkesøknad med bilag,
+3. kopi av en patentsøknad med beskrivelse, tegninger, sammendrag og krav,
+4. kopi av et trykt norsk utlegningsskrift eller patentskrift, og
+5. kopi av en søknad om registrering av design med bilag.
 
 Patentstyret kan etter krav utstede og oversende et prioritetsdokument etter regel 17.1 bokstav b i gjennomføringsreglene til patentsamarbeidskonvensjonen.
 
@@ -408,7 +418,11 @@ Rettet oversettelse regnes ikke som levert så lenge gebyret ikke er betalt.
 
 ### § 34
 
-For internasjonal patentsøknad som leveres til Patentstyret som mottakende myndighet, skal søkeren betale følgende til Patentstyret:internasjonalt søknadsgebyr som nevnt i regel 15.1 i gjennomføringsreglene til [Washingtonkonvensjonen](traktat/1973-03-03-1) av 19. juni 1970 nr. 1 om patentsamarbeid (patentsamarbeidskonvensjonen),nyhetsgranskingsgebyr nevnt i regel 16.1 i gjennomføringsreglene til patentsamarbeidskonvensjonen, ogviderebefordringsgebyr på kr 800 for Patentstyrets befatning med søknaden som mottakende myndighet.
+For internasjonal patentsøknad som leveres til Patentstyret som mottakende myndighet, skal søkeren betale følgende til Patentstyret:
+
+1. internasjonalt søknadsgebyr som nevnt i regel 15.1 i gjennomføringsreglene til [Washingtonkonvensjonen](traktat/1973-03-03-1) av 19. juni 1970 nr. 1 om patentsamarbeid (patentsamarbeidskonvensjonen),
+2. nyhetsgranskingsgebyr nevnt i regel 16.1 i gjennomføringsreglene til patentsamarbeidskonvensjonen, og
+3. viderebefordringsgebyr på kr 800 for Patentstyrets befatning med søknaden som mottakende myndighet.
 
 Fristen for betaling av gebyr som nevnt i første ledd er én måned etter at den internasjonale søknaden er mottatt i Patentstyret.
 

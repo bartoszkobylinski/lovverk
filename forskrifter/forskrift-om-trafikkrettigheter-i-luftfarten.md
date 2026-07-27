@@ -42,15 +42,47 @@ Samferdselsdepartementet og Luftfartstilsynet plikter på forespørsel å gi int
 
 Luftfartstilsynet behandler og avgjør søknader om fordeling av trafikkrettigheter i henhold til denne forskriften. Tilsynet skal også sørge for at vedtaket offentliggjøres. Samferdselsdepartementet kan beslutte å overta en sak av politisk karakter i første instans. I så fall avgjøres det i det enkelte tilfelle i hvilken grad det også omfatter prosedyrekravene nedenfor.
 
-Et luftfartsforetak som ønsker å søke om å få utnytte begrensede trafikkrettigheter skal sende en skriftlig søknad til Luftfartstilsynet. Søknaden skal være på norsk (skandinavisk) eller engelsk og inneholde følgende dokumenter og opplysninger:kopi av luftfartsforetakets operative lisens i de tilfeller lisensen ikke er utstedt av norske myndigheter;beskrivelse av den planlagte ruteflygningen (f.eks. type luftfartøy, nasjonalitets- og registreringsbetegnelse, flytider og rutestrekning, ukedager for beflygning);opplysning om eventuell leasing av luftfartøy som planlegges benyttet til flygningene;opplysning om eventuelt samarbeid med annet luftfartsforetak og arten og omfanget av dette;tid for planlagt oppstart;type trafikk (f.eks. passasjerer eller frakt);eventuell tilslutningstrafikk; ogprispolitikk for flyruten.Luftfartstilsynet kan be om at søknaden utfylles med ytterligere opplysninger.
+Et luftfartsforetak som ønsker å søke om å få utnytte begrensede trafikkrettigheter skal sende en skriftlig søknad til Luftfartstilsynet. Søknaden skal være på norsk (skandinavisk) eller engelsk og inneholde følgende dokumenter og opplysninger:
+
+1. kopi av luftfartsforetakets operative lisens i de tilfeller lisensen ikke er utstedt av norske myndigheter;
+2. beskrivelse av den planlagte ruteflygningen (f.eks. type luftfartøy, nasjonalitets- og registreringsbetegnelse, flytider og rutestrekning, ukedager for beflygning);
+3. opplysning om eventuell leasing av luftfartøy som planlegges benyttet til flygningene;
+4. opplysning om eventuelt samarbeid med annet luftfartsforetak og arten og omfanget av dette;
+5. tid for planlagt oppstart;
+6. type trafikk (f.eks. passasjerer eller frakt);
+7. eventuell tilslutningstrafikk; og
+8. prispolitikk for flyruten.
+
+Luftfartstilsynet kan be om at søknaden utfylles med ytterligere opplysninger.
 
 Luftfartstilsynet skal basere sin behandling av saken på prinsippene om ikke-diskriminering og transparens. Søknaden skal sendes på høring til andre luftfartsforetak (jf. [§ 2](forskrift/2009-03-10-293/§2) tredje ledd) som i henhold til gjeldende luftfartsavtaler og internasjonal rett er kvalifisert for å fly de aktuelle rutene på lik linje med søkeren. Andre luftfartsforetak som ønsker å konkurrere om de begrensede trafikkrettighetene, skal gis anledning til det i den videre prosessen.
 
 ## § 5. Vurdering av søknad
 
-(1) Ved vurderingen av en eller flere søknader skal det legges vekt på hvilken løsning som:medfører maksimal nytte for konsumentene;fremmer en så effektiv konkurranse som mulig blant EØS-flyselskapene;gir flyrutetjenester som imøtekommer alle kategorier av allment etterspurt trafikk til laveste fornuftige pris;fremmer en sunn utvikling av luftfartsindustri, handel og turisme innen EØS-området, og/elleroppfyller offentlige transportpolitiske mål, herunder regional utvikling.
+(1) Ved vurderingen av en eller flere søknader skal det legges vekt på hvilken løsning som:
 
-(2) Ved vurdering av søknadene skal det tas hensyn til følgende omstendigheter:hvilke tjenester som vil bli tilbudt;antall frekvenser;type fly og konfigurasjon;direkte eller indirekte flygning;trafikkstart;trafikkens omfang fordelt over året;type trafikk (f.eks. passasjer eller frakt);tilgjengelighet for konsumentene (booking og kjøp av billetter);muligheter for tilslutningstrafikk;prisfastsettelse;miljøpåvirkning; ogkontinuiteten i trafikktilbudet.Luftfartstilsynet kan også ta hensyn til andre omstendigheter om disse gjøres kjent for søkerne innen vedtak fattes.
+1. medfører maksimal nytte for konsumentene;
+2. fremmer en så effektiv konkurranse som mulig blant EØS-flyselskapene;
+3. gir flyrutetjenester som imøtekommer alle kategorier av allment etterspurt trafikk til laveste fornuftige pris;
+4. fremmer en sunn utvikling av luftfartsindustri, handel og turisme innen EØS-området, og/eller
+5. oppfyller offentlige transportpolitiske mål, herunder regional utvikling.
+
+(2) Ved vurdering av søknadene skal det tas hensyn til følgende omstendigheter:
+
+1. hvilke tjenester som vil bli tilbudt;
+2. antall frekvenser;
+3. type fly og konfigurasjon;
+4. direkte eller indirekte flygning;
+5. trafikkstart;
+6. trafikkens omfang fordelt over året;
+7. type trafikk (f.eks. passasjer eller frakt);
+8. tilgjengelighet for konsumentene (booking og kjøp av billetter);
+9. muligheter for tilslutningstrafikk;
+10. prisfastsettelse;
+11. miljøpåvirkning; og
+12. kontinuiteten i trafikktilbudet.
+
+Luftfartstilsynet kan også ta hensyn til andre omstendigheter om disse gjøres kjent for søkerne innen vedtak fattes.
 
 (3) Vedtaket om fordeling av begrensede trafikkrettigheter skal begrunnes.
 
@@ -58,9 +90,16 @@ Luftfartstilsynet skal basere sin behandling av saken på prinsippene om ikke-di
 
 (1) Tildelte trafikkrettigheter kan ikke selges eller på annen må overføres til andre uten særskilt tillatelse fra luftfartsmyndighetene.
 
-(2) Et luftfartsforetak som er tildelt trafikkrettigheter i henhold til denne forskriften må innlede flygninger i løpet av de to første trafikkprogramperiodene etter at tillatelsen er gitt. I motsatt fall bortfaller trafikktillatelsen. En tildeling bortfaller også dersom:trafikken opphører og ikke gjenopptas senest innen seks måneder; ellerinnehaveren av tillatelsen meddeler Luftfartstilsynet at tillatelsen ikke lenger vil bli utnyttet.
+(2) Et luftfartsforetak som er tildelt trafikkrettigheter i henhold til denne forskriften må innlede flygninger i løpet av de to første trafikkprogramperiodene etter at tillatelsen er gitt. I motsatt fall bortfaller trafikktillatelsen. En tildeling bortfaller også dersom:
 
-(3) Luftfartstilsynet kan helt eller delvis tilbakekalle en tillatelse dersom:trafikken ikke bedrives i henhold til vilkårene i tillatelsen eller bestemmelsene i den bilaterale avtalen som ligger til grunn for trafikken;innehaveren av tillatelsen forøvrig ikke følger gjeldende bestemmelser for flytrafikken, ellerdet forøvrig foreligger særlige grunner.
+1. trafikken opphører og ikke gjenopptas senest innen seks måneder; eller
+2. innehaveren av tillatelsen meddeler Luftfartstilsynet at tillatelsen ikke lenger vil bli utnyttet.
+
+(3) Luftfartstilsynet kan helt eller delvis tilbakekalle en tillatelse dersom:
+
+1. trafikken ikke bedrives i henhold til vilkårene i tillatelsen eller bestemmelsene i den bilaterale avtalen som ligger til grunn for trafikken;
+2. innehaveren av tillatelsen forøvrig ikke følger gjeldende bestemmelser for flytrafikken, eller
+3. det forøvrig foreligger særlige grunner.
 
 (4) Når tildelte trafikkrettigheter i henhold til denne forskrift er tilbakekalt eller på annen måte bortfalt, kan Luftfartstilsynet ta opp fordelingen av rettighetene til ny vurdering.
 

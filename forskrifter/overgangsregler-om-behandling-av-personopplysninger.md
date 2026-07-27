@@ -15,7 +15,7 @@ xml_hash: "2877d0146047522c5b456858f1b87536b3eb2659c194fab091f68b8248f72582"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Videreføring av personopplysningsloven av 2000 for enkelte områder
 
-[Lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger og [forskrift 15. desember 2000 nr. 1265](forskrift/2000-12-15-1265) om behandling av personopplysninger fortsetter å gjelde forbehandling av personopplysninger etter straffegjennomføringsloven kapittel 1 A og 1 Bbehandling av personopplysninger i forbindelse med gjennomføring av strafferettslige reaksjoner i konfliktrådene, jf. [konfliktrådsloven § 1](lov/2014-06-20-49/§1) annet ledd
+[Lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger og [forskrift 15. desember 2000 nr. 1265](forskrift/2000-12-15-1265) om behandling av personopplysninger fortsetter å gjelde for
+
+1. behandling av personopplysninger etter straffegjennomføringsloven kapittel 1 A og 1 B
+2. behandling av personopplysninger i forbindelse med gjennomføring av strafferettslige reaksjoner i konfliktrådene, jf. [konfliktrådsloven § 1](lov/2014-06-20-49/§1) annet ledd
 
 > Endret ved [forskrifter 12 mai 2020 nr. 987](forskrift/2020-05-12-987) (i kraft 1 juli 2020), [10 nov 2020 nr. 2297](forskrift/2020-11-10-2297) (i kraft 1 jan 2021).
 
@@ -52,9 +55,16 @@ Rådføringsplikten etter [personopplysningsloven § 9](lov/2018-06-15-38/§9) a
 
 ## § 6. Adgang til fortsatt behandling av personopplysninger nevnt i personvernforordningen artikkel 9 og 10
 
-Den som har fått tillatelse til behandling av sensitive personopplysninger i medhold av [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger [§ 9](lov/2000-04-14-31/§9) tredje ledd, kan behandle personopplysninger som nevnt i personvernforordningen artikkel 9 og 10 i samme utstrekning og på samme vilkår som fastsatt i tillatelsen så langt den åpner for behandling i forbindelse meddopingkontroll i treningssentregjennomføring av bakgrunnsundersøkelser (Integrity Due Diligence-undersøkelser)elektronisk publisering av rettsavgjørelser.
+Den som har fått tillatelse til behandling av sensitive personopplysninger i medhold av [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger [§ 9](lov/2000-04-14-31/§9) tredje ledd, kan behandle personopplysninger som nevnt i personvernforordningen artikkel 9 og 10 i samme utstrekning og på samme vilkår som fastsatt i tillatelsen så langt den åpner for behandling i forbindelse med
 
-Følgende behandlingsansvarlige kan behandle personopplysninger som nevnt i personvernforordningen artikkel 9 og 10 i samme utstrekning og på samme vilkår som fastsatt i de angitte konsesjonene:Stiftelsen Antidoping Norge, jf. konsesjoner 4. desember 2017 om chatte-kanal på nett for bruk til spørsmål relatert til doping, 17. november 2015 om ekstern varslingstjeneste og 14. mars 2016 om dopingkontroll innen den organiserte idrettenLotteri- og stiftelsestilsynet, jf. konsesjon 6. juli 2016 om nasjonal plattform for arbeid mot manipulering av idrettskonkurranser
+1. dopingkontroll i treningssentre
+2. gjennomføring av bakgrunnsundersøkelser (Integrity Due Diligence-undersøkelser)
+3. elektronisk publisering av rettsavgjørelser.
+
+Følgende behandlingsansvarlige kan behandle personopplysninger som nevnt i personvernforordningen artikkel 9 og 10 i samme utstrekning og på samme vilkår som fastsatt i de angitte konsesjonene:
+
+1. Stiftelsen Antidoping Norge, jf. konsesjoner 4. desember 2017 om chatte-kanal på nett for bruk til spørsmål relatert til doping, 17. november 2015 om ekstern varslingstjeneste og 14. mars 2016 om dopingkontroll innen den organiserte idretten
+2. Lotteri- og stiftelsestilsynet, jf. konsesjon 6. juli 2016 om nasjonal plattform for arbeid mot manipulering av idrettskonkurranser
 
 Så fremt tillatelsen gjaldt 24. mai 2018, er det uten betydning for adgangen til behandling etter første og annet ledd at en tillatelse er tidsbegrenset.
 

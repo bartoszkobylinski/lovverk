@@ -15,7 +15,7 @@ xml_hash: "8585b5a83c6346b91ac48cfc7d112ed6b0f42b5e1079a342e0ba5788f7af1c15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,12 @@ Bestemmelsene gjelder ikke for Miljødirektoratets arbeid med kontroll som er om
 
 ## § 2. Definisjoner
 
-I denne forskriften menes med*kontroll:* undersøkelse av virksomhetens status i henhold til krav fastsatt i [produktkontrolloven](lov/1976-06-11-79), [produktforskriften](forskrift/2004-06-01-922), [leketøyforskriften](forskrift/2013-11-18-1403) og [internkontrollforskriften](forskrift/1996-12-06-1127)*stedlig tilsyn:* tilsyn med hjemmel i [produktkontrolloven § 8](lov/1976-06-11-79/§8)*digitalt tilsyn:* tilsyn som i samråd med virksomheten utføres digitalt*dokumenttilsyn:* kontroll av virksomhet gjennom pålegg om opplysninger med hjemmel i [produktkontrolloven § 5](lov/1976-06-11-79/§5).
+I denne forskriften menes med
+
+1. *kontroll:* undersøkelse av virksomhetens status i henhold til krav fastsatt i [produktkontrolloven](lov/1976-06-11-79), [produktforskriften](forskrift/2004-06-01-922), [leketøyforskriften](forskrift/2013-11-18-1403) og [internkontrollforskriften](forskrift/1996-12-06-1127)
+2. *stedlig tilsyn:* tilsyn med hjemmel i [produktkontrolloven § 8](lov/1976-06-11-79/§8)
+3. *digitalt tilsyn:* tilsyn som i samråd med virksomheten utføres digitalt
+4. *dokumenttilsyn:* kontroll av virksomhet gjennom pålegg om opplysninger med hjemmel i [produktkontrolloven § 5](lov/1976-06-11-79/§5).
 
 ## § 3. Generelle bestemmelser om gebyrene
 

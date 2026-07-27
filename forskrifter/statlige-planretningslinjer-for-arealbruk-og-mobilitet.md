@@ -15,7 +15,7 @@ xml_hash: "99e0d8c8af75bd0780d597ddd9208502a42b93425ba33929cbe1a5c2e57501d6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,9 @@ Retningslinjene gjelder for all arealdisponering i hele kommunen og skal bidra t
 
 ## 4. Retningslinjer for regioner med større byer (gjelder kommuner i kategori 1 i vedlegget)
 
-4.1 *Nullvekstmålet:* I byområdene skal klimagassutslipp, kø, luftforurensning og støy reduseres gjennom effektiv arealbruk og ved at veksten i persontransporten tas med kollektivtransport, sykling og gange. Dette skal legges til grunn for planlegging i byområder som har inngått avtale med staten og/eller får statlige tilskudd for å nå målet.I byområdene skal hovedtyngden av vekst i boliger og arbeidsplasser planlegges slik at transport-behovet kan begrenses og det legges godt til rette for kollektivtrafikk, sykling og gange. I byområder med byvekstavtale skal hovedtyngden av veksten komme i eller i nærheten av store kollektivknutepunkter innenfor avtaleområdet.1
+4.1 *Nullvekstmålet:* I byområdene skal klimagassutslipp, kø, luftforurensning og støy reduseres gjennom effektiv arealbruk og ved at veksten i persontransporten tas med kollektivtransport, sykling og gange. Dette skal legges til grunn for planlegging i byområder som har inngått avtale med staten og/eller får statlige tilskudd for å nå målet.
+
+I byområdene skal hovedtyngden av vekst i boliger og arbeidsplasser planlegges slik at transport-behovet kan begrenses og det legges godt til rette for kollektivtrafikk, sykling og gange. I byområder med byvekstavtale skal hovedtyngden av veksten komme i eller i nærheten av store kollektivknutepunkter innenfor avtaleområdet.1
 
 1 Pkt. 4.1 Gjelder de kommunene som også har byvekstavtale, belønningsavtale eller er omfattet av tilskuddsordning for klima- og miljøvennlig byutvikling og god fremkommelighet.
 
@@ -88,7 +90,11 @@ Retningslinjene gjelder for all arealdisponering i hele kommunen og skal bidra t
 
 ## 5. Retningslinjer for regioner med mindre tettsteder og spredtbygde strøk (gjelder kommuner i kategori 2 i vedlegget)
 
-5.1 *Stedsutvikling og boligbygging:* I mindre tettsteder og spredtbygde områder skal det legges til rette for å utvikle gode og attraktive lokalsamfunn med tilgang til boliger og tjenester. Planleggingen bør bidra til effektiv arealbruk, å styrke og utvikle sentrumsområder og fellesarenaer. Det må vurderes hvordan bebyggelsesstruktur, enkeltbygninger, gater, kulturmiljø, grøntområder og møteplasser kan ha betydning for stedets identitet og bidra til attraktivitet og et levedyktig lokalsamfunn. Muligheten for å løse flere funksjoner og formål på samme areal eller i samme bygg bør vurderes.Det skal legges til rette for at handelsvirksomhet og andre publikumsrettede private og offentlige tjenestetilbud lokaliseres slik at de styrker sentrumsområder og sikrer innbyggerne god tilgjengelighet til lokalt handels- og tjenestetilbud.I spredtbygde strøk utenfor tettsteder kan det i kommuneplanens arealdel, innenfor rammene av kapittel 3, legges til rette for spredt boligbygging i områder avsatt til landbruks-, natur- og friluftsformål samt reindrift (LNFR).
+5.1 *Stedsutvikling og boligbygging:* I mindre tettsteder og spredtbygde områder skal det legges til rette for å utvikle gode og attraktive lokalsamfunn med tilgang til boliger og tjenester. Planleggingen bør bidra til effektiv arealbruk, å styrke og utvikle sentrumsområder og fellesarenaer. Det må vurderes hvordan bebyggelsesstruktur, enkeltbygninger, gater, kulturmiljø, grøntområder og møteplasser kan ha betydning for stedets identitet og bidra til attraktivitet og et levedyktig lokalsamfunn. Muligheten for å løse flere funksjoner og formål på samme areal eller i samme bygg bør vurderes.
+
+Det skal legges til rette for at handelsvirksomhet og andre publikumsrettede private og offentlige tjenestetilbud lokaliseres slik at de styrker sentrumsområder og sikrer innbyggerne god tilgjengelighet til lokalt handels- og tjenestetilbud.
+
+I spredtbygde strøk utenfor tettsteder kan det i kommuneplanens arealdel, innenfor rammene av kapittel 3, legges til rette for spredt boligbygging i områder avsatt til landbruks-, natur- og friluftsformål samt reindrift (LNFR).
 
 ## 6. Retningslinjer for beslutningsunderlaget
 

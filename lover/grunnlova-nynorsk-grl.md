@@ -15,7 +15,7 @@ xml_hash: "9ff6b5a30c9cd1805689550a63412e760ba6723ef021f489fb8ae366ad93581f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -560,7 +560,11 @@ Etter kvart stortingsval nemner Stortinget opp eit riksvalstyre med fem medlemme
 
 Riksvalstyret sit i fire år frå 1. januar det andre årsskiftet etter stortingsvalet.
 
-Desse kan ikkje nemnast opp til riksvalstyret:medlemmer av regjeringamedlemmer og varamedlemmer av Stortinget, fylkesting og kommunestyrestatssekretærar og politiske rådgjevarar ved statsrådskontora og på Stortinget.
+Desse kan ikkje nemnast opp til riksvalstyret:
+
+1. medlemmer av regjeringa
+2. medlemmer og varamedlemmer av Stortinget, fylkesting og kommunestyre
+3. statssekretærar og politiske rådgjevarar ved statsrådskontora og på Stortinget.
 
 Medlemmer og varamedlemmer av riksvalstyret som stiller til val til Stortinget, fylkestinget eller kommunestyret, går ut av riksvalstyret.
 
@@ -590,7 +594,20 @@ Når forhandlingane i Stortinget er opna, har statsministeren og statsrådane re
 
 ### § 75
 
-Det høyrer Stortinget tilå gje og oppheve lover; å fastsetje skattar, avgifter, toll og andre offentlege bører, som likevel ikkje gjeld etter 31. desember året etter, om dei ikkje blir uttrykkeleg fornya av eit nytt storting;å opne lån på rikets kreditt;å føre oppsyn med pengestellet i riket;å løyve dei pengesummane som trengst til statsutgiftene;å fastsetje kor mykje kongen skal få utbetalt til hoffstaten sin kvart år, og fastsetje den kongelege familiens apanasje, som ikkje kan vere i fast eigedom;å få seg førelagt protokollane frå statsrådet og alle offentlege meldingar og papir;å få melding om dei folkerettslege avtalene som kongen har gjort med framande makter for staten;å kunne gje kven som helst påbod om å møte for seg i statssaker, så nær som kongen og den kongelege familien; likevel kan dei kongelege prinsessene og prinsane kallast inn dersom dei har embete;å revidere lister over mellombels løner og pensjonar og gjere dei endringane som Stortinget meiner trengst;å utnemne fem revisorar som skal sjå gjennom statsrekneskapane kvart år og kunngjere utdrag av dei på prent; revisorane skal få rekneskapane tilsende innan seks månader etter utgangen av det året som Stortinget har gjeve løyvingar for; og å gje føresegner om ordninga av desisjonsmakta overfor rekneskapstenestemennene til staten;å utnemne ein som ikkje er medlem av Stortinget, som etter nærare føresegner fastsette i lov skal føre kontroll med den offentlege forvaltninga og alle som er i offentleg teneste, for å hindre at det blir gjort urett mot den einskilde borgaren;å gje innføddsrett.
+Det høyrer Stortinget til
+
+1. å gje og oppheve lover; å fastsetje skattar, avgifter, toll og andre offentlege bører, som likevel ikkje gjeld etter 31. desember året etter, om dei ikkje blir uttrykkeleg fornya av eit nytt storting;
+2. å opne lån på rikets kreditt;
+3. å føre oppsyn med pengestellet i riket;
+4. å løyve dei pengesummane som trengst til statsutgiftene;
+5. å fastsetje kor mykje kongen skal få utbetalt til hoffstaten sin kvart år, og fastsetje den kongelege familiens apanasje, som ikkje kan vere i fast eigedom;
+6. å få seg førelagt protokollane frå statsrådet og alle offentlege meldingar og papir;
+7. å få melding om dei folkerettslege avtalene som kongen har gjort med framande makter for staten;
+8. å kunne gje kven som helst påbod om å møte for seg i statssaker, så nær som kongen og den kongelege familien; likevel kan dei kongelege prinsessene og prinsane kallast inn dersom dei har embete;
+9. å revidere lister over mellombels løner og pensjonar og gjere dei endringane som Stortinget meiner trengst;
+10. å utnemne fem revisorar som skal sjå gjennom statsrekneskapane kvart år og kunngjere utdrag av dei på prent; revisorane skal få rekneskapane tilsende innan seks månader etter utgangen av det året som Stortinget har gjeve løyvingar for; og å gje føresegner om ordninga av desisjonsmakta overfor rekneskapstenestemennene til staten;
+11. å utnemne ein som ikkje er medlem av Stortinget, som etter nærare føresegner fastsette i lov skal føre kontroll med den offentlege forvaltninga og alle som er i offentleg teneste, for å hindre at det blir gjort urett mot den einskilde borgaren;
+12. å gje innføddsrett.
 
 > Endra med grunnlovsvedtak 13 aug 1857, 24 apr 1869, 22 juni 1880, 30 juni 1891, 11 juni 1898, vedtak 18 nov 1905, grunnlovsvedtak 8 juni 1907, 24 mars 1911, 8 apr 1916 kunngjort 28 apr 1916, 7 des 1917 kunngjort 14 des 1917, 10 feb 1959 kunngjort 27 feb 1959, 9 feb 1967 kunngjort 23 feb 1967, 29 mai 1990 kunngjort med [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 7 juni 1995 kunngjort med [res. 23 juni 1995 nr. 567](forskrift/1995-06-23-567), 2 feb 2006 kunngjort med [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort med [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), 8 mai 2018 kunngjort med [res. 1 juni 2018 nr. 788](forskrift/2018-06-01-788).
 
@@ -902,7 +919,12 @@ Styresmaktene må ha grunnlag i lov for å gripe inn overfor einskildmennesket.
 
 ### § 114
 
-Til embete i staten kan det berre utnemnast norske borgarar som talar språket i landet oganten er fødde i riket av foreldre som då var norske statsborgarar,eller er fødde i utlandet av norske foreldre som då ikkje var statsborgarar i noko anna land,eller har opphalde seg i riket i 10 år,eller får innføddsrett av Stortinget.
+Til embete i staten kan det berre utnemnast norske borgarar som talar språket i landet og
+
+1. anten er fødde i riket av foreldre som då var norske statsborgarar,
+2. eller er fødde i utlandet av norske foreldre som då ikkje var statsborgarar i noko anna land,
+3. eller har opphalde seg i riket i 10 år,
+4. eller får innføddsrett av Stortinget.
 
 Andre kan likevel utnemnast til lærarar ved universitetet og dei lærde skulane, til lækjarar og til konsular på framande stader.
 

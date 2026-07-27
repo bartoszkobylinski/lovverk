@@ -16,7 +16,7 @@ xml_hash: "a5a74460ca16d488ab46cb122b4eb90b2e9f646b3eb89cbbdd0f0e1290704d19"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -25,19 +25,48 @@ eu_basis: []
 
 ## § 1. Formål
 
-Formålet med denne forskrift erå fremme ansvarsdeling, informasjonsutveksling og samarbeid ved internasjonal handel med visse farlige kjemikalier for å beskytte helse og miljø mot potensiell fare,å bidra til en helse- og miljømessig forsvarlig bruk av visse farlige kjemikalier.
+Formålet med denne forskrift er
+
+1. å fremme ansvarsdeling, informasjonsutveksling og samarbeid ved internasjonal handel med visse farlige kjemikalier for å beskytte helse og miljø mot potensiell fare,
+2. å bidra til en helse- og miljømessig forsvarlig bruk av visse farlige kjemikalier.
 
 Forskriften gjennomfører krav og forpliktelser i Rotterdamkonvensjonen om varsling ved eksport av visse farlige kjemikalier i internasjonal handel.
 
 ## § 2. Virkeområde
 
-Denne forskriften gjelder for:kjemikalier som er oppført i vedlegg 1 og som omfattes av Rotterdamkonvensjonens prosedyre for eksplisitt forhåndssamtykke,kjemikalier som er forbudt eller strengt regulert i henhold til norsk regelverk.
+Denne forskriften gjelder for:
 
-Denne forskriften gjelder ikke for:narkotiske stoffer og psykotrofe stoffer,radioaktivt materiale,avfall,kjemiske våpen,legemidler, herunder human- og dyremedisin,matvarer,kjemikalier brukt som matvaretilsetninger,kjemikalier i kvanta som antas ikke å påvirke menneskets helse eller miljøet dersom de importerestil forsknings- eller analyseformål; ellerav enkeltperson til egen personlig bruk i mengder som er rimelige til slik bruk.
+1. kjemikalier som er oppført i vedlegg 1 og som omfattes av Rotterdamkonvensjonens prosedyre for eksplisitt forhåndssamtykke,
+2. kjemikalier som er forbudt eller strengt regulert i henhold til norsk regelverk.
+
+Denne forskriften gjelder ikke for:
+
+1. narkotiske stoffer og psykotrofe stoffer,
+2. radioaktivt materiale,
+3. avfall,
+4. kjemiske våpen,
+5. legemidler, herunder human- og dyremedisin,
+6. matvarer,
+7. kjemikalier brukt som matvaretilsetninger,
+8. kjemikalier i kvanta som antas ikke å påvirke menneskets helse eller miljøet dersom de importeres
+
+   1. til forsknings- eller analyseformål; eller
+   2. av enkeltperson til egen personlig bruk i mengder som er rimelige til slik bruk.
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med*kjemikalie:* et stoff, alene eller som bestanddel i blanding eller preparat, enten industrielt framstilt eller utvunnet fra naturen, dog ikke levende organismer, som tilhører en av følgende brukskategorier:*pesticider;* plantevernmidler som omfattes av [forskrift 6. mai 2015 nr. 455](forskrift/2015-05-06-455) om plantevernmidler (plantevernmiddelforskriften) og biocidprodukter som omfattes av [forskrift 18. april 2017 nr. 480](forskrift/2017-04-18-480) om biocider,*industrikjemikalier;* kjemikalier til ervervsmessig eller privat bruk,*forbudt kjemikalie:* kjemikalie som gjennom nasjonal regulering er totalforbudt for bruk i en eller flere brukskategorier for å beskytte helse eller miljø. Som forbudt kjemikalie regnes også kjemikalier som er nektet godkjenning for førstegangsbruk eller som industrien har trukket tilbake fra hjemmemarkedet eller fra videre vurdering i nasjonal godkjenningsprosess, når det foreligger klare bevis for at slike tiltak er truffet for å beskytte menneskers helse eller miljøet.*strengt regulert kjemikalie:* kjemikalie som gjennom nasjonal regulering er forbudt for så godt som all bruk i en eller flere brukskategorier for å beskytte helse eller miljø, men som fortsatt er tillatt brukt for visse formål. Som strengt regulert kjemikalie regnes også kjemikalier som er nektet godkjenning for førstegangsbruk for praktisk talt all anvendelse innen en eller flere brukskategorier, eller som industrien har trukket tilbake fra hjemmemarkedet eller fra videre vurdering i nasjonal godkjenningsprosess, når det foreligger klare bevis for at slike tiltak er truffet for å beskytte menneskers helse eller miljøet.*import:* innførsel av et kjemikalie fra en part til Rotterdamkonvensjonen til Norge,*eksport:* utførsel av et kjemikalie fra Norge til en annen part til Rotterdamkonvensjonen, dog ikke rene transittoperasjoner,*part:* en stat eller regional organisasjon for økonomisk integrasjon som har samtykket i å være bundet av de forpliktelser som Rotterdamkonvensjonen pålegger dem,*PIC-sirkulære:* et dokument som sendes ut fra Rotterdamkonvensjonens sekretariat hver sjette måned, i juni og desember. Gjennom PIC-sirkulære utveksler partene informasjon om blant annet hvem som er nasjonal ansvarlig myndighet for varsling av eksport/import, nasjonale forbud og restriksjoner som partslandene har innført, stoffer som er oppført i konvensjonens vedlegg III (gjengitt i vedlegg 1 til denne forskriften) og som er omfattet av Rotterdamkonvensjonens prosedyre om eksplisitt forhåndssamtykke, og importbeslutninger landene har tatt for stoffer som er omfattet av denne prosedyren.
+I denne forskriften menes med
+
+1. *kjemikalie:* et stoff, alene eller som bestanddel i blanding eller preparat, enten industrielt framstilt eller utvunnet fra naturen, dog ikke levende organismer, som tilhører en av følgende brukskategorier:
+
+   1. *pesticider;* plantevernmidler som omfattes av [forskrift 6. mai 2015 nr. 455](forskrift/2015-05-06-455) om plantevernmidler (plantevernmiddelforskriften) og biocidprodukter som omfattes av [forskrift 18. april 2017 nr. 480](forskrift/2017-04-18-480) om biocider,
+   2. *industrikjemikalier;* kjemikalier til ervervsmessig eller privat bruk,
+2. *forbudt kjemikalie:* kjemikalie som gjennom nasjonal regulering er totalforbudt for bruk i en eller flere brukskategorier for å beskytte helse eller miljø. Som forbudt kjemikalie regnes også kjemikalier som er nektet godkjenning for førstegangsbruk eller som industrien har trukket tilbake fra hjemmemarkedet eller fra videre vurdering i nasjonal godkjenningsprosess, når det foreligger klare bevis for at slike tiltak er truffet for å beskytte menneskers helse eller miljøet.
+3. *strengt regulert kjemikalie:* kjemikalie som gjennom nasjonal regulering er forbudt for så godt som all bruk i en eller flere brukskategorier for å beskytte helse eller miljø, men som fortsatt er tillatt brukt for visse formål. Som strengt regulert kjemikalie regnes også kjemikalier som er nektet godkjenning for førstegangsbruk for praktisk talt all anvendelse innen en eller flere brukskategorier, eller som industrien har trukket tilbake fra hjemmemarkedet eller fra videre vurdering i nasjonal godkjenningsprosess, når det foreligger klare bevis for at slike tiltak er truffet for å beskytte menneskers helse eller miljøet.
+4. *import:* innførsel av et kjemikalie fra en part til Rotterdamkonvensjonen til Norge,
+5. *eksport:* utførsel av et kjemikalie fra Norge til en annen part til Rotterdamkonvensjonen, dog ikke rene transittoperasjoner,
+6. *part:* en stat eller regional organisasjon for økonomisk integrasjon som har samtykket i å være bundet av de forpliktelser som Rotterdamkonvensjonen pålegger dem,
+7. *PIC-sirkulære:* et dokument som sendes ut fra Rotterdamkonvensjonens sekretariat hver sjette måned, i juni og desember. Gjennom PIC-sirkulære utveksler partene informasjon om blant annet hvem som er nasjonal ansvarlig myndighet for varsling av eksport/import, nasjonale forbud og restriksjoner som partslandene har innført, stoffer som er oppført i konvensjonens vedlegg III (gjengitt i vedlegg 1 til denne forskriften) og som er omfattet av Rotterdamkonvensjonens prosedyre om eksplisitt forhåndssamtykke, og importbeslutninger landene har tatt for stoffer som er omfattet av denne prosedyren.
 
 ## § 4. Ansvarlig myndighet
 
@@ -47,7 +76,11 @@ Mattilsynet er ansvarlig myndighet i Norge når det gjelder kjemikalier som fall
 
 Det er forbudt å eksportere kjemikalier som er oppført i vedlegg 1 til denne forskriften dersom slik eksport er i strid med begrensninger som en part til Rotterdamkonvensjonen har kunngjort i PIC-sirkulæret. Eksportører skal overholde nye importbeslutninger senest seks måneder etter at Rotterdamkonvensjonens sekretariat har offentliggjort disse gjennom PIC-sirkulæret.
 
-Det er også forbudt å eksportere kjemikalier som er oppført i vedlegg 1 til denne forskriften til en part som ikke har kunngjort sin importbeslutning med mindre:det er et kjemikalie som på importtidspunktet er godkjent for bruk i importlandet,det er et kjemikalie som beviselig har vært i bruk eller har vært importert til den importerende part tidligere, og som det ikke er vedtatt å forby bruken av, ellereksportøren har sendt ansvarlig myndighet i Norge varsel om planlagt eksport og anmodning om eksplisitt forhåndssamtykke til eksport, og har mottatt eksplisitt forhåndssamtykke til slik eksport av ansvarlig myndighet i importlandet.
+Det er også forbudt å eksportere kjemikalier som er oppført i vedlegg 1 til denne forskriften til en part som ikke har kunngjort sin importbeslutning med mindre:
+
+1. det er et kjemikalie som på importtidspunktet er godkjent for bruk i importlandet,
+2. det er et kjemikalie som beviselig har vært i bruk eller har vært importert til den importerende part tidligere, og som det ikke er vedtatt å forby bruken av, eller
+3. eksportøren har sendt ansvarlig myndighet i Norge varsel om planlagt eksport og anmodning om eksplisitt forhåndssamtykke til eksport, og har mottatt eksplisitt forhåndssamtykke til slik eksport av ansvarlig myndighet i importlandet.
 
 Skjema til bruk ved varsling om eksport og anmodning om eksplisitt forhåndssamtykke jf. andre ledd bokstav c, fremgår i vedlegg 2 til denne forskriften. Fullstendig utfylt skjema samt sikkerhetsdatablad utarbeidet i samsvar med kravene i REACH-forordningen artikkel 31 og vedlegg II jf. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften), må sendes til ansvarlig myndighet i Norge innen 60 dager før planlagt eksport hvert kalenderår. Dersom eksportør mener at informasjon som inngår i varsel om eksport er taushetsbelagt, skal eksportøren sammen med eksportvarselet angi sin begrunnelse for dette.
 

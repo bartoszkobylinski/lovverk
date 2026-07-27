@@ -32,7 +32,10 @@ Lovens bestemmelser kan endres ved senere lov for dem som er blitt medlemmer av 
 
 ## § 2.
 
-Den alminnelige aldersgrensen er 72 år. Det kan fastsettes lavere aldersgrense i følgende tilfeller:Tjenesten medfører uvanlig fysisk eller psykisk belastning på de ansatte, slik at de normalt ikke makter å skjøtte arbeidet forsvarlig til fylte 72 år.Tjenesten stiller spesielle krav til fysiske eller psykiske egenskaper, som normalt blir sterkere svekket før fylte 72 år enn det en forsvarlig utføring av tjenesten tilsier.
+Den alminnelige aldersgrensen er 72 år. Det kan fastsettes lavere aldersgrense i følgende tilfeller:
+
+1. Tjenesten medfører uvanlig fysisk eller psykisk belastning på de ansatte, slik at de normalt ikke makter å skjøtte arbeidet forsvarlig til fylte 72 år.
+2. Tjenesten stiller spesielle krav til fysiske eller psykiske egenskaper, som normalt blir sterkere svekket før fylte 72 år enn det en forsvarlig utføring av tjenesten tilsier.
 
 De lavere aldersgrenser kan være 65, 63 og 60 år.
 

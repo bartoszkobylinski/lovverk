@@ -32,9 +32,16 @@ Om medhjelperens habilitet gjelder [tvangsfullbyrdelsesloven § 2-10](lov/1992-0
 
 ### § 1-2. Hvem som kan oppnevnes som medhjelper.
 
-Som medhjelper skal namsmannen oppnevne:advokat som utfører advokatvirksomhet i eget navn ellerstatsautorisert revisor.
+Som medhjelper skal namsmannen oppnevne:
 
-Dersom det er praktiske problemer forbundet med å oppnevne medhjelper etter første ledd, kan namsmannen oppnevne en person med relevant erfaring som enten:driver rettshjelpsvirksomhet i medhold av [domstolloven § 218](lov/1915-08-13-5/§218) annet ledd nr. 1, ellerhar fullført økonomisk utdannelse fra høyskole eller universitet normert til minst fire år, ellerhar tilstrekkelig relevant erfaring på området, slik at det er utvilsomt at vedkommende vil være egnet.
+1. advokat som utfører advokatvirksomhet i eget navn eller
+2. statsautorisert revisor.
+
+Dersom det er praktiske problemer forbundet med å oppnevne medhjelper etter første ledd, kan namsmannen oppnevne en person med relevant erfaring som enten:
+
+1. driver rettshjelpsvirksomhet i medhold av [domstolloven § 218](lov/1915-08-13-5/§218) annet ledd nr. 1, eller
+2. har fullført økonomisk utdannelse fra høyskole eller universitet normert til minst fire år, eller
+3. har tilstrekkelig relevant erfaring på området, slik at det er utvilsomt at vedkommende vil være egnet.
 
 Medhjelper oppnevnt etter annet ledd må ha hederlig vandel og være økonomisk vederheftig. Namsmannen kan kreve at medhjelperen fremlegger politiattest.
 
@@ -94,7 +101,12 @@ Medhjelperen kan ikke disponere over midler som frigjøres ved salg av skyldnere
 
 ### § 3-3. Medhjelperens oppgaver under forberedelsen.
 
-Under forberedelsen etter [gjeldsordningsloven kapittel 2](lov/1992-07-17-99/kap2) skal medhjelperen:påse at saken blir tilstrekkelig opplyst, jf [gjeldsordningsloven § 2-3](lov/1992-07-17-99/§2-3) første ledd,underrette namsmannen dersom namsmannen bør treffe tiltak som nevnt i [gjeldsordningsloven § 2-5](lov/1992-07-17-99/§2-5),underrette namsmannen dersom namsmannen bør avslå søknaden etter [gjeldsordningsloven § 2-6](lov/1992-07-17-99/§2-6),underrette namsmannen når saken er tilstrekkelig opplyst og forberedt til å oversendes tingretten etter [gjeldsordningsloven § 2-7](lov/1992-07-17-99/§2-7).
+Under forberedelsen etter [gjeldsordningsloven kapittel 2](lov/1992-07-17-99/kap2) skal medhjelperen:
+
+1. påse at saken blir tilstrekkelig opplyst, jf [gjeldsordningsloven § 2-3](lov/1992-07-17-99/§2-3) første ledd,
+2. underrette namsmannen dersom namsmannen bør treffe tiltak som nevnt i [gjeldsordningsloven § 2-5](lov/1992-07-17-99/§2-5),
+3. underrette namsmannen dersom namsmannen bør avslå søknaden etter [gjeldsordningsloven § 2-6](lov/1992-07-17-99/§2-6),
+4. underrette namsmannen når saken er tilstrekkelig opplyst og forberedt til å oversendes tingretten etter [gjeldsordningsloven § 2-7](lov/1992-07-17-99/§2-7).
 
 Medhjelperen skal utføre oppgavene slik at saken ikke forsinkes unødig til skade for skyldneren.
 
@@ -102,7 +114,11 @@ Medhjelperen skal utføre oppgavene slik at saken ikke forsinkes unødig til ska
 
 ### § 3-4. Medhjelperens oppgaver under gjeldsforhandlingen.
 
-Under gjeldsforhandlingen skal medhjelperen:gi skyldneren den veiledning vedkommende trenger for å inngi søknad om nedsettelse o l av skatte- og avgiftsgjeld som nevnt i [gjeldsordningsloven § 3-2](lov/1992-07-17-99/§3-2) tredje ledd,informere skyldneren om [gjeldsordningsloven § 3-4](lov/1992-07-17-99/§3-4) og dennes plikter etter [§ 3-5](lov/1992-07-17-99/§3-5),gi skyldneren den veiledning vedkommende trenger for å kunne utforme et utkast til frivillig gjeldsordning.
+Under gjeldsforhandlingen skal medhjelperen:
+
+1. gi skyldneren den veiledning vedkommende trenger for å inngi søknad om nedsettelse o l av skatte- og avgiftsgjeld som nevnt i [gjeldsordningsloven § 3-2](lov/1992-07-17-99/§3-2) tredje ledd,
+2. informere skyldneren om [gjeldsordningsloven § 3-4](lov/1992-07-17-99/§3-4) og dennes plikter etter [§ 3-5](lov/1992-07-17-99/§3-5),
+3. gi skyldneren den veiledning vedkommende trenger for å kunne utforme et utkast til frivillig gjeldsordning.
 
 Medhjelperen skal utføre oppgavene med sikte på at skyldneren skal kunne fremlegge sitt utkast til gjeldsordning for namsmannen innen fem uker etter at gjeldsforhandlingen ble åpnet. Dersom medhjelperen avventer vedtak fra skatte- og avgiftsmyndighetene, jf. [gjeldsordningsloven § 3-2](lov/1992-07-17-99/§3-2) tredje ledd, forlenges medhjelperens frist med to uker.
 

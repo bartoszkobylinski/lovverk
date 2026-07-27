@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Tildeling av myndighet til Nye Veier AS
 
-Nye Veier AS tildeles myndighet som nevnt i plan- og [bygningsloven § 3-7](lov/2008-06-27-71/§3-7) tredje ledd. Det er ikke adgang til å delegere myndigheten videre. Myndigheten omfatter:forslag til reguleringsplaner for den utbyggingsporteføljen som Nye Veier AS til enhver tid er tildelt ansvaret forforslag til kommunedelplaner for prosjektene E18 Dørdal–Tvedestrand og E18 Arendal–Grimstad.
+Nye Veier AS tildeles myndighet som nevnt i plan- og [bygningsloven § 3-7](lov/2008-06-27-71/§3-7) tredje ledd. Det er ikke adgang til å delegere myndigheten videre. Myndigheten omfatter:
+
+1. forslag til reguleringsplaner for den utbyggingsporteføljen som Nye Veier AS til enhver tid er tildelt ansvaret for
+2. forslag til kommunedelplaner for prosjektene E18 Dørdal–Tvedestrand og E18 Arendal–Grimstad.
 
 ## § 2. Ikrafttredelse
 

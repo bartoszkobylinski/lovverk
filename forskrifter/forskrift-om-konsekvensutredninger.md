@@ -16,7 +16,7 @@ xml_hash: "fe59bfec127cd6670adba03aeba026c12a7a4a36d6d23ccde698774236392432"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,7 +59,11 @@ Ansvarlig myndighet skal under behandlingen av saker etter forskriften opptre ob
 
 ### § 6. Planer og tiltak som alltid skal konsekvensutredes og ha planprogram eller melding
 
-Følgende planer og tiltak skal alltid konsekvensutredes og ha planprogram eller melding:kommuneplanens arealdel etter § 11-5 og regionale planer etter plan- og [bygningsloven § 8-1](lov/2008-06-27-71/§8-1), kommunedelplaner etter [§ 11-1](lov/2008-06-27-71/§11-1), og områdereguleringer etter [§ 12-2](lov/2008-06-27-71/§12-2) når planene fastsetter rammer for tiltak i vedlegg I og IIreguleringsplaner etter plan- og bygningsloven for tiltak i vedlegg I. Unntatt fra dette er reguleringsplaner der det konkrete tiltaket er konsekvensutredet i en tidligere plan og der reguleringsplanen er i samsvar med denne tidligere planentiltak i vedlegg I som behandles etter andre lover enn plan- og bygningsloven.
+Følgende planer og tiltak skal alltid konsekvensutredes og ha planprogram eller melding:
+
+1. kommuneplanens arealdel etter § 11-5 og regionale planer etter plan- og [bygningsloven § 8-1](lov/2008-06-27-71/§8-1), kommunedelplaner etter [§ 11-1](lov/2008-06-27-71/§11-1), og områdereguleringer etter [§ 12-2](lov/2008-06-27-71/§12-2) når planene fastsetter rammer for tiltak i vedlegg I og II
+2. reguleringsplaner etter plan- og bygningsloven for tiltak i vedlegg I. Unntatt fra dette er reguleringsplaner der det konkrete tiltaket er konsekvensutredet i en tidligere plan og der reguleringsplanen er i samsvar med denne tidligere planen
+3. tiltak i vedlegg I som behandles etter andre lover enn plan- og bygningsloven.
 
 Fylkeskommunen er ansvarlig myndighet for regionale planer. Kommunen er ansvarlig myndighet for kommunale planer. Ansvarlig myndighet for planer og tiltak etter bokstav b og c fremgår av vedlegg I. For tiltak etter bokstav b der gjennomføring av tiltaket ikke krever ny plan, er forurensningsmyndigheten ansvarlig myndighet hvis tiltaket krever tillatelse etter forurensningsloven.
 
@@ -67,13 +71,19 @@ Hvis en plan etter plan- og bygningsloven endres mellom varsel om oppstart av pl
 
 ### § 7. Planer og tiltak etter andre lover som alltid skal konsekvensutredes, men ikke ha melding
 
-Følgende tiltak og planer etter andre lover skal alltid konsekvensutredes, men ikke ha melding:tiltak i vedlegg II som behandles etter energi-, vannressurs- eller vassdragsreguleringslovenplaner og programmer etter andre lover som fastsetter rammer for tiltak i vedlegg I og II og som vedtas av et departement.
+Følgende tiltak og planer etter andre lover skal alltid konsekvensutredes, men ikke ha melding:
+
+1. tiltak i vedlegg II som behandles etter energi-, vannressurs- eller vassdragsreguleringsloven
+2. planer og programmer etter andre lover som fastsetter rammer for tiltak i vedlegg I og II og som vedtas av et departement.
 
 Ansvarlig myndighet for tiltak etter bokstav a fremgår av vedlegg II. Fagdepartementene er ansvarlig myndighet for planer eller programmer etter bokstav b.
 
 ### § 8. Planer og tiltak som skal konsekvensutredes hvis de kan få vesentlige virkninger for miljø eller samfunn
 
-Følgende planer og tiltak skal konsekvensutredes hvis de kan få vesentlige virkninger etter [§ 10](forskrift/2017-06-21-854/§10), men ikke ha planprogram eller melding:reguleringsplaner for tiltak i vedlegg II. Unntatt fra dette er reguleringsplaner der det konkrete tiltaket er konsekvensutredet i en tidligere plan og der reguleringsplanen er i samsvar med denne tidligere planentiltak i vedlegg II som behandles etter en annen lov enn plan- og bygningsloven.
+Følgende planer og tiltak skal konsekvensutredes hvis de kan få vesentlige virkninger etter [§ 10](forskrift/2017-06-21-854/§10), men ikke ha planprogram eller melding:
+
+1. reguleringsplaner for tiltak i vedlegg II. Unntatt fra dette er reguleringsplaner der det konkrete tiltaket er konsekvensutredet i en tidligere plan og der reguleringsplanen er i samsvar med denne tidligere planen
+2. tiltak i vedlegg II som behandles etter en annen lov enn plan- og bygningsloven.
 
 Ansvarlig myndighet for bokstav a og b fremgår av vedlegg II. For tiltak etter bokstav a der gjennomføring av tiltaket ikke krever ny plan, er forurensningsmyndigheten ansvarlig myndighet hvis tiltaket krever tillatelse etter forurensningsloven.
 
@@ -83,15 +93,34 @@ Hvis det mellom varsel om oppstart av planarbeidet etter plan- og bygningsloven 
 
 ### § 9. Opplysninger som skal legges frem av forslagsstiller som grunnlag for ansvarlig myndighets vurdering etter § 11 eller § 12
 
-For planer etter plan- og bygningsloven skal opplysninger etter denne paragrafen foreligge før oppstartsmøte, jf. plan- og [bygningsloven § 12-8](lov/2008-06-27-71/§12-8). For tiltak etter andre lover skal opplysningene foreligge senest ved søknad om tillatelse. Forslagsstiller skal også selv gjøre en foreløpig vurdering av om planen eller tiltaket kan få vesentlige virkninger for miljø eller samfunn etter [§ 10](forskrift/2017-06-21-854/§10). Basert på kjent kunnskap skal det gis en kortfattet beskrivelse av:planen eller tiltaket, tiltakets fysiske egenskaper og lokalisering og eventuelle rivningsarbeidermiljøverdier som antas å bli vesentlig berørt og som krever særskilte hensynplanens eller tiltakets forventede vesentlige virkninger som følge av reststoffer, utslipp og produksjon av avfallforventede vesentlige virkninger som kan følge av bruken av naturressurser.
+For planer etter plan- og bygningsloven skal opplysninger etter denne paragrafen foreligge før oppstartsmøte, jf. plan- og [bygningsloven § 12-8](lov/2008-06-27-71/§12-8). For tiltak etter andre lover skal opplysningene foreligge senest ved søknad om tillatelse. Forslagsstiller skal også selv gjøre en foreløpig vurdering av om planen eller tiltaket kan få vesentlige virkninger for miljø eller samfunn etter [§ 10](forskrift/2017-06-21-854/§10). Basert på kjent kunnskap skal det gis en kortfattet beskrivelse av:
+
+1. planen eller tiltaket, tiltakets fysiske egenskaper og lokalisering og eventuelle rivningsarbeider
+2. miljøverdier som antas å bli vesentlig berørt og som krever særskilte hensyn
+3. planens eller tiltakets forventede vesentlige virkninger som følge av reststoffer, utslipp og produksjon av avfall
+4. forventede vesentlige virkninger som kan følge av bruken av naturressurser.
 
 ### § 10. Kriterier for vurderingen av om en plan eller et tiltak kan få vesentlige virkninger for miljø eller samfunn
 
 I vurderingen av om en plan eller et tiltak kan få vesentlige virkninger for miljø eller samfunn, skal det ses hen til egenskaper ved planen eller tiltaket, jf. annet ledd og planen eller tiltakets lokalisering og påvirkning på omgivelsene, jf. tredje ledd. Det skal også i nødvendig grad ses hen til egenskaper ved virkninger nevnt i fjerde ledd.
 
-Egenskaper ved planen eller tiltaket omfatter:størrelse, planområde og utformingbruken av naturressurser, særlig arealer, jord, mineralressurser, vann og biologiske ressurseravfallsproduksjon og utslipprisiko for alvorlige ulykker og/eller katastrofer.
+Egenskaper ved planen eller tiltaket omfatter:
 
-Lokalisering og påvirkning på omgivelsene omfatter en vurdering av om planen eller tiltaket kan medføre eller komme i konflikt med:verneområder etter [naturmangfoldloven kapittel V](lov/2009-06-19-100/kapv) eller [markaloven § 11](lov/2009-06-05-35/§11), utvalgte naturtyper ([naturmangfoldloven kapittel VI](lov/2009-06-19-100/kapvi)), prioriterte arter, vernede vassdrag, nasjonale laksefjorder og laksevassdrag, objekter, områder og kulturmiljø fredet etter kulturminneloventruede arter eller naturtyper, verdifulle landskap, verdifulle kulturminner og kulturmiljøer, nasjonalt eller regionalt viktige mineralressurser, områder med stor betydning for samisk utmarksnæring eller reindrift og områder som er særlig viktige for friluftslivstatlige planretningslinjer, statlige planbestemmelser eller regionale planbestemmelser gitt i medhold av plan- og [bygningsloven av 27. juni 2008 nr. 71](lov/2008-06-27-71) eller rikspolitiske bestemmelser eller rikspolitiske retningslinjer gitt i medhold av plan- og [bygningsloven av 14. juni 1985 nr. 77](lov/1985-06-14-77).større omdisponering av områder avsatt til landbruks-, natur- og friluftsformål, samt reindrift eller områder som er regulert til landbruk og som er av stor betydning for landbruksvirksomhetøkt belastning i områder der fastsatte miljøkvalitetsstandarder er overskredetkonsekvenser for befolkningens helse, for eksempel som følge av vann- eller luftforurensningvesentlig forurensning eller klimagassutslipprisiko for alvorlige ulykker som en følge av naturfarer som ras, skred eller flom.
+1. størrelse, planområde og utforming
+2. bruken av naturressurser, særlig arealer, jord, mineralressurser, vann og biologiske ressurser
+3. avfallsproduksjon og utslipp
+4. risiko for alvorlige ulykker og/eller katastrofer.
+
+Lokalisering og påvirkning på omgivelsene omfatter en vurdering av om planen eller tiltaket kan medføre eller komme i konflikt med:
+
+1. verneområder etter [naturmangfoldloven kapittel V](lov/2009-06-19-100/kapv) eller [markaloven § 11](lov/2009-06-05-35/§11), utvalgte naturtyper ([naturmangfoldloven kapittel VI](lov/2009-06-19-100/kapvi)), prioriterte arter, vernede vassdrag, nasjonale laksefjorder og laksevassdrag, objekter, områder og kulturmiljø fredet etter kulturminneloven
+2. truede arter eller naturtyper, verdifulle landskap, verdifulle kulturminner og kulturmiljøer, nasjonalt eller regionalt viktige mineralressurser, områder med stor betydning for samisk utmarksnæring eller reindrift og områder som er særlig viktige for friluftsliv
+3. statlige planretningslinjer, statlige planbestemmelser eller regionale planbestemmelser gitt i medhold av plan- og [bygningsloven av 27. juni 2008 nr. 71](lov/2008-06-27-71) eller rikspolitiske bestemmelser eller rikspolitiske retningslinjer gitt i medhold av plan- og [bygningsloven av 14. juni 1985 nr. 77](lov/1985-06-14-77).
+4. større omdisponering av områder avsatt til landbruks-, natur- og friluftsformål, samt reindrift eller områder som er regulert til landbruk og som er av stor betydning for landbruksvirksomhet
+5. økt belastning i områder der fastsatte miljøkvalitetsstandarder er overskredet
+6. konsekvenser for befolkningens helse, for eksempel som følge av vann- eller luftforurensning
+7. vesentlig forurensning eller klimagassutslipp
+8. risiko for alvorlige ulykker som en følge av naturfarer som ras, skred eller flom.
 
 I vurderingen av om planen eller tiltaket kan få vesentlige virkninger og følgelig skal konsekvensutredes, skal det ses hen til virkningenes intensitet og kompleksitet, sannsynlighet for at virkningene inntreffer og når de inntreffer, varighet, hyppighet og mulighet for å reversere eller begrense dem, om virkningene strekker seg over landegrensene eller til marine områder utenfor nasjonal jurisdiksjon, samt samlede virkninger av forslaget til plan eller tiltak og andre eksisterende, godkjente eller planlagte planer eller tiltak.
 
@@ -127,7 +156,12 @@ For kommuneplanens arealdel skal forslaget til planprogram skille mellom krav ti
 
 ### § 14. Krav til innholdet i planprogram og melding med forslag til utredningsprogram
 
-Et planprogram og en melding med forslag til utredningsprogram skal inneholde en beskrivelse av:planen eller tiltaket, det berørte området og de problemstillingene som i den konkrete saken anses viktige for miljø og samfunnforholdene som etter [kapittel 5](forskrift/2017-06-21-854/kap5) skal utredes, og hvilke metoder som er tenkt benyttet for å skaffe nødvendig kunnskaprelevante og realistiske alternativer og hvordan disse skal vurderes i konsekvensutredningenplan- eller søknadsprosessen, med frister i prosessen, deltakere og plan for medvirkning fra særlig berørte grupper og andre.
+Et planprogram og en melding med forslag til utredningsprogram skal inneholde en beskrivelse av:
+
+1. planen eller tiltaket, det berørte området og de problemstillingene som i den konkrete saken anses viktige for miljø og samfunn
+2. forholdene som etter [kapittel 5](forskrift/2017-06-21-854/kap5) skal utredes, og hvilke metoder som er tenkt benyttet for å skaffe nødvendig kunnskap
+3. relevante og realistiske alternativer og hvordan disse skal vurderes i konsekvensutredningen
+4. plan- eller søknadsprosessen, med frister i prosessen, deltakere og plan for medvirkning fra særlig berørte grupper og andre.
 
 Planprogrammet eller meldingen skal også inneholde kart over det berørte området.
 
@@ -175,7 +209,12 @@ Det skal i konsekvensutredningen av arealdelen også redegjøres for hvilke forh
 
 ### § 19. Beskrivelse av planen eller tiltaket
 
-Beskrivelsen av planen eller tiltaket skal omfatte:tiltakets fysiske egenskaper, lokaliseringen, nødvendige rivningsarbeider og arealbehovet i både bygge- og driftsfasende viktigste trekkene ved tiltakets driftsfase, som tiltakets energibehov, energiforbruk, energiløsninger, transportbehov og typen og mengden naturressurser som vil bli bruktet anslag over typen og mengden avfall, reststoffer, utslipp og forurensning som vil produseres i bygge- og driftsfasenhvor sårbar planen eller tiltaket er for klimaendringer og naturfarer som flom, skred, stormflo og stigning i havnivået.
+Beskrivelsen av planen eller tiltaket skal omfatte:
+
+1. tiltakets fysiske egenskaper, lokaliseringen, nødvendige rivningsarbeider og arealbehovet i både bygge- og driftsfasen
+2. de viktigste trekkene ved tiltakets driftsfase, som tiltakets energibehov, energiforbruk, energiløsninger, transportbehov og typen og mengden naturressurser som vil bli brukt
+3. et anslag over typen og mengden avfall, reststoffer, utslipp og forurensning som vil produseres i bygge- og driftsfasen
+4. hvor sårbar planen eller tiltaket er for klimaendringer og naturfarer som flom, skred, stormflo og stigning i havnivået.
 
 Konsekvensutredningen skal også redegjøre for de alternativene til utforming, teknologi, lokalisering, omfang og målestokk som forslagsstilleren har vurdert, og en utredning av relevante og realistiske alternativer. Valget skal begrunnes mot de ulike alternativene, og sammenligninger av virkningene for miljø og samfunn av de ulike alternativene skal fremgå.
 
@@ -187,7 +226,26 @@ Beskrivelsen skal bygge på tilgjengelig informasjon.
 
 ### § 21. Beskrivelse av faktorer som kan bli påvirket og vurdering av vesentlige virkninger for miljø og samfunn
 
-Konsekvensutredningen skal identifisere og beskrive de faktorer som kan bli påvirket og vurdere vesentlige virkninger for miljø og samfunn, herunder:naturmangfold, jf. naturmangfoldlovenøkosystemtjenesternasjonalt og internasjonalt fastsatte miljømålkulturminner og kulturmiljøfriluftslivlandskapforurensning (utslipp til luft, herunder klimagassutslipp, forurensning av vann og grunn, samt støy)vannmiljø, jf. vannforskriftenjordressurser (jordvern) og viktige mineralressursersamisk natur- og kulturgrunnlagtransportbehov, energiforbruk og energiløsningerberedskap og ulykkesrisikovirkninger som følge av klimaendringer, herunder risiko ved havnivåstigning, stormflo, flom og skredbefolkningens helse og helsens fordeling i befolkningentilgjengelighet for alle til uteområder og gang- og sykkelveinettbarn og unges oppvekstvilkårkriminalitetsforebyggingarkitektonisk og estetisk utforming, uttrykk og kvalitet.
+Konsekvensutredningen skal identifisere og beskrive de faktorer som kan bli påvirket og vurdere vesentlige virkninger for miljø og samfunn, herunder:
+
+- naturmangfold, jf. naturmangfoldloven
+- økosystemtjenester
+- nasjonalt og internasjonalt fastsatte miljømål
+- kulturminner og kulturmiljø
+- friluftsliv
+- landskap
+- forurensning (utslipp til luft, herunder klimagassutslipp, forurensning av vann og grunn, samt støy)
+- vannmiljø, jf. vannforskriften
+- jordressurser (jordvern) og viktige mineralressurser
+- samisk natur- og kulturgrunnlag
+- transportbehov, energiforbruk og energiløsninger
+- beredskap og ulykkesrisiko
+- virkninger som følge av klimaendringer, herunder risiko ved havnivåstigning, stormflo, flom og skred
+- befolkningens helse og helsens fordeling i befolkningen
+- tilgjengelighet for alle til uteområder og gang- og sykkelveinett
+- barn og unges oppvekstvilkår
+- kriminalitetsforebygging
+- arkitektonisk og estetisk utforming, uttrykk og kvalitet.
 
 Beskrivelsen skal omfatte positive, negative, direkte, indirekte, midlertidige, varige, kortsiktige og langsiktige virkninger.
 
@@ -307,7 +365,11 @@ Kravene i denne bestemmelsen gjelder ikke for Forsvarets aktiviteter, herunder F
 
 ### § 36. Overtredelsesgebyr
 
-Overtredelsesgebyr i henhold til plan- og [bygningsloven § 32-8a](lov/2008-06-27-71/§32-8a) kan ilegges den som fremmer forslag til reguleringsplan etter plan- og bygningsloven eller tiltak og planer etter annet lovverk og som forsettlig eller uaktsomt:unnlater å følge saksbehandlingsreglene for konsekvensutredninger der en plan eller et tiltak åpenbart faller inn under forskriftenunnlater å etterkomme pålegg fra ansvarlig myndighet når ansvarlig myndighet har gjort kjent med at overtredelsesgebyr kan ilegges hvis forholdet ikke blir brakt i orden innen en fastsatt frist, og denne fristen er oversittet ellergir uriktige eller villedende opplysninger av betydning for vurdering av saken, herunder opplysninger av betydning for om forskriften får anvendelse eller ikke.
+Overtredelsesgebyr i henhold til plan- og [bygningsloven § 32-8a](lov/2008-06-27-71/§32-8a) kan ilegges den som fremmer forslag til reguleringsplan etter plan- og bygningsloven eller tiltak og planer etter annet lovverk og som forsettlig eller uaktsomt:
+
+1. unnlater å følge saksbehandlingsreglene for konsekvensutredninger der en plan eller et tiltak åpenbart faller inn under forskriften
+2. unnlater å etterkomme pålegg fra ansvarlig myndighet når ansvarlig myndighet har gjort kjent med at overtredelsesgebyr kan ilegges hvis forholdet ikke blir brakt i orden innen en fastsatt frist, og denne fristen er oversittet eller
+3. gir uriktige eller villedende opplysninger av betydning for vurdering av saken, herunder opplysninger av betydning for om forskriften får anvendelse eller ikke.
 
 Ved vurdering av overtredelsesgebyrets størrelse kan det legges vekt på hvor alvorlig overtredelsen er, graden av skyld, skadepotensialet ved overtredelsen og om overtrederen tidligere har vært ilagt overtredelsesgebyr.
 

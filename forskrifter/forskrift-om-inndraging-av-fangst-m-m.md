@@ -32,7 +32,14 @@ Denne forskrifta gjeld for inndraging av ulovleg fangst og fangst utover fastset
 
 Salslaget som har ansvaret for omsetning i første hand av den aktuelle arten i det området der fartøyet er registrert, gjer vedtak om inndraging av fangst utover kvote, jf. [havressurslova § 12](lov/2008-06-06-37/§12), [§ 13](lov/2008-06-06-37/§13) og [§ 14](lov/2008-06-06-37/§14).
 
-Salslaget som førstehandsomsetninga av fangsten som blir inndregen er lagt til, gjer vedtak om inndraging avulovleg bifangst,fangst hausta i fredingstid etter [forskrift 22. desember 2004 nr. 1878 om utøvelse av fisket i sjøen kap. VI](forskrift/2004-12-22-1878/kapVI),fangst hausta i strid med [havressurslova § 23](lov/2008-06-06-37/§23), ogfangst utover turkvote jf. [deltakerloven § 27](lov/1999-03-26-15/§27),fangst som er hausta eller omsett i førstehand i strid med føresegner etter [fiskesalslagslova](lov/2013-06-21-75) jf. [fiskesalslagslova § 21](lov/2013-06-21-75/§21),ulovleg fangst av kveite under minstemål.
+Salslaget som førstehandsomsetninga av fangsten som blir inndregen er lagt til, gjer vedtak om inndraging av
+
+1. ulovleg bifangst,
+2. fangst hausta i fredingstid etter [forskrift 22. desember 2004 nr. 1878 om utøvelse av fisket i sjøen kap. VI](forskrift/2004-12-22-1878/kapVI),
+3. fangst hausta i strid med [havressurslova § 23](lov/2008-06-06-37/§23), og
+4. fangst utover turkvote jf. [deltakerloven § 27](lov/1999-03-26-15/§27),
+5. fangst som er hausta eller omsett i førstehand i strid med føresegner etter [fiskesalslagslova](lov/2013-06-21-75) jf. [fiskesalslagslova § 21](lov/2013-06-21-75/§21),
+6. ulovleg fangst av kveite under minstemål.
 
 Fiskeridirektoratet gjer vedtak om inndraging som følgje av andre brot på [havressurslova](lov/2008-06-06-37) og [deltakerloven](lov/1999-03-26-15) enn dei nemnte i første og andre ledd, og kan i tillegg gjere vedtak om inndraging etter brot som nemnt i andre ledd.
 

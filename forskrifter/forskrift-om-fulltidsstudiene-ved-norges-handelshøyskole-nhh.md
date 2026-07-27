@@ -126,7 +126,15 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 ### § 2-8. Tap av studierett
 
-(1) Studenten kan miste studieretten når studenten:ikke gjennomfører semesterregistrering og betaler semesteravgift innen fastsatt fristhar overskredet normert tid i henhold til aktuell studieplan samt fullføringstid etter [§ 2-6](forskrift/2024-06-18-1108/§2-6)ved utløpet av et semester har et etterslep på 60 studiepoeng eller mer, jf. [§ 2-5](forskrift/2024-06-18-1108/§2-5)har brukt opp sine forsøk på vurdering etter [§ 4-8](forskrift/2024-06-18-1108/§4-8)i forbindelse med kontroll ikke legger frem originaldokumentene som ligger til grunn for opptak eller for utstedelse av vitnemåler utestengt pga. fusk, forsøk på fusk eller medvirkning til fuskikke har betalt krav om eventuell studieavgift (egenbetaling) etter [uh-loven § 2-6](lov/2024-03-08-9/§2-6).
+(1) Studenten kan miste studieretten når studenten:
+
+1. ikke gjennomfører semesterregistrering og betaler semesteravgift innen fastsatt frist
+2. har overskredet normert tid i henhold til aktuell studieplan samt fullføringstid etter [§ 2-6](forskrift/2024-06-18-1108/§2-6)
+3. ved utløpet av et semester har et etterslep på 60 studiepoeng eller mer, jf. [§ 2-5](forskrift/2024-06-18-1108/§2-5)
+4. har brukt opp sine forsøk på vurdering etter [§ 4-8](forskrift/2024-06-18-1108/§4-8)
+5. i forbindelse med kontroll ikke legger frem originaldokumentene som ligger til grunn for opptak eller for utstedelse av vitnemål
+6. er utestengt pga. fusk, forsøk på fusk eller medvirkning til fusk
+7. ikke har betalt krav om eventuell studieavgift (egenbetaling) etter [uh-loven § 2-6](lov/2024-03-08-9/§2-6).
 
 (2) Vedtak om tap av studierett etter bokstavene a) til e) fattes av Prorektor for utdanning. Vedtak om tap av studierett etter bokstav f) fattes av Klagenemnda etter innstilling fra Studieadministrativ avdeling.
 
@@ -156,9 +164,29 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 (3) En emnebeskrivelse utarbeides av den som er ansvarlig for emnet, og fastsettes av den som i henhold til mandat eller utfyllende bestemmelser har myndighet til det.
 
-(4) Studieplanen skal minimum fastsette;forventet læringsutbyttehvilke emner som inngåromfang i studiepoengmulighet for opphold i utlandethvilke emner som til sammen utgjør fordypningen i aktuell gradoppbyggingen av studieprogrammet, hva som er obligatorisk og valgfritt, samt rekkefølgen på emnereventuelle betingelser til studieprogresjon.
+(4) Studieplanen skal minimum fastsette;
 
-(5) Emnebeskrivelsen skal minimum inneholde;forventet læringsutbytteeventuelle krav til forkunnskaper / spesielle opptakskravundervisningssemester og om vurdering tilbys utenfor undervisningssemesteretfaginnholdlæringsformerundervisningsspråkemnets omfang i studiepoengeventuell obligatorisk aktivitet (arbeidskrav).vurderingsordning, karakterskala og intern vekting mellom ulike delvurderinger som inngår i sluttkaraktereneventuell studiepoengsreduksjon ved overlappeventuell plassbegrensning.
+1. forventet læringsutbytte
+2. hvilke emner som inngår
+3. omfang i studiepoeng
+4. mulighet for opphold i utlandet
+5. hvilke emner som til sammen utgjør fordypningen i aktuell grad
+6. oppbyggingen av studieprogrammet, hva som er obligatorisk og valgfritt, samt rekkefølgen på emner
+7. eventuelle betingelser til studieprogresjon.
+
+(5) Emnebeskrivelsen skal minimum inneholde;
+
+1. forventet læringsutbytte
+2. eventuelle krav til forkunnskaper / spesielle opptakskrav
+3. undervisningssemester og om vurdering tilbys utenfor undervisningssemesteret
+4. faginnhold
+5. læringsformer
+6. undervisningsspråk
+7. emnets omfang i studiepoeng
+8. eventuell obligatorisk aktivitet (arbeidskrav).
+9. vurderingsordning, karakterskala og intern vekting mellom ulike delvurderinger som inngår i sluttkarakteren
+10. eventuell studiepoengsreduksjon ved overlapp
+11. eventuell plassbegrensning.
 
 ### § 3-2. Utdanningsplan
 
@@ -266,7 +294,10 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 ### § 4-9. Særlige sensurfrister
 
-(1) Styret ved NHH har i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, hjemmel for å gjøre unntak fra den ordinære sensurfristen på 15 virkedager i to tilfeller. Dette gjeldergenerelt tidsavgrenset unntak fastsatt i midlertidig forskriftunntak for avhandlinger og tilsvarende større skriftlige arbeidet fastsatt i forskrift
+(1) Styret ved NHH har i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, hjemmel for å gjøre unntak fra den ordinære sensurfristen på 15 virkedager i to tilfeller. Dette gjelder
+
+1. generelt tidsavgrenset unntak fastsatt i midlertidig forskrift
+2. unntak for avhandlinger og tilsvarende større skriftlige arbeidet fastsatt i forskrift
 
 (2) Med hjemmel i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, fastsettes en særskilt sensurfrist på seks uker på masteroppgave, avhandlinger eller lignende skriftlige arbeider med et omfang på minimum 10 studiepoeng.
 
@@ -282,7 +313,21 @@ NHH kan gjennomføre plagiatkontroll både av innleverte arbeider underveis i em
 
 (1) Fusk er et alvorlig tillitsbrudd overfor NHH, medstudenter og samfunnet for øvrig. NHH reagerer derfor strengt overfor alle former for fusk under gjennomføring av emner og vurderinger ved NHH.
 
-(2) Som fusk regnes:å ha fått godkjenning for deltakelse i obligatorisk undervisning eller andre obligatoriske aktiviteter på uriktig grunnlagå ha skaffet seg adgang til vurdering ved å ha fusket på prøve eller lignende som er vilkår for å gjennomføre vurderingå ha urettmessig tilgang til en oppgave før obligatorisk aktivitet eller vurdering starterå handle i strid med gjeldende regler for den spesifikke obligatoriske aktiviteten eller vurderingenå bruke eller ha ulovlige hjelpemidler tilgjengelig under obligatorisk aktivitet eller vurderingå presentere eget arbeid, som tidligere har gitt uttelling i form av studiepoeng eller rett til å gjennomføre vurdering, som noe nytt (selvplagiat)å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning og/eller markering av sitatmed mindre det eksplisitt er tillatt; uten markering å presentere KI-generert tekst som sin egenå levere besvarelse som helt eller delvis er utarbeidet av andreureglementert samarbeid eller kontakt med andre under vurderingfabrikkering eller forfalskning av datamanipulering av en besvarelse etter at den er leverturedelige handlinger eller forhold som tar sikte på å gi eller kan gi studenten et uberettiget fortrinn i tilknytning til oppfyllelse av obligatorisk aktivitet (arbeidskrav) eller ved en vurdering.
+(2) Som fusk regnes:
+
+1. å ha fått godkjenning for deltakelse i obligatorisk undervisning eller andre obligatoriske aktiviteter på uriktig grunnlag
+2. å ha skaffet seg adgang til vurdering ved å ha fusket på prøve eller lignende som er vilkår for å gjennomføre vurdering
+3. å ha urettmessig tilgang til en oppgave før obligatorisk aktivitet eller vurdering starter
+4. å handle i strid med gjeldende regler for den spesifikke obligatoriske aktiviteten eller vurderingen
+5. å bruke eller ha ulovlige hjelpemidler tilgjengelig under obligatorisk aktivitet eller vurdering
+6. å presentere eget arbeid, som tidligere har gitt uttelling i form av studiepoeng eller rett til å gjennomføre vurdering, som noe nytt (selvplagiat)
+7. å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning og/eller markering av sitat
+8. med mindre det eksplisitt er tillatt; uten markering å presentere KI-generert tekst som sin egen
+9. å levere besvarelse som helt eller delvis er utarbeidet av andre
+10. ureglementert samarbeid eller kontakt med andre under vurdering
+11. fabrikkering eller forfalskning av data
+12. manipulering av en besvarelse etter at den er levert
+13. uredelige handlinger eller forhold som tar sikte på å gi eller kan gi studenten et uberettiget fortrinn i tilknytning til oppfyllelse av obligatorisk aktivitet (arbeidskrav) eller ved en vurdering.
 
 (3) Forsøk på og medvirkning til fusk kan sanksjoneres på samme måte som fusk.
 

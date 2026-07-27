@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Forskriften gjelder følgende klagenemnder på Kunnskapsdepartementets område:NOKUTs klagenemndKlagenemnd for godkjenning av utenlandsk utdanning og yrkesgodkjenning.
+Forskriften gjelder følgende klagenemnder på Kunnskapsdepartementets område:
+
+1. NOKUTs klagenemnd
+2. Klagenemnd for godkjenning av utenlandsk utdanning og yrkesgodkjenning.
 
 Forskriften gir regler om klagenemndenes oppgaver, organisering og saksbehandling.
 
@@ -36,13 +39,22 @@ Forskriften gir regler om klagenemndenes oppgaver, organisering og saksbehandlin
 
 ### § 2. Klagenemndas oppgaver
 
-Klagenemnda skal avgjøre klager over følgende vedtak fattet av NOKUT:Vedtak om akkrediteringVedtak i forbindelse med tilsyn med oppfyllelsen av de gjeldende standardene og kriteriene for akkrediteringVedtak i forbindelse med tilsyn med institusjonenes systematiske kvalitetsarbeid.
+Klagenemnda skal avgjøre klager over følgende vedtak fattet av NOKUT:
+
+1. Vedtak om akkreditering
+2. Vedtak i forbindelse med tilsyn med oppfyllelsen av de gjeldende standardene og kriteriene for akkreditering
+3. Vedtak i forbindelse med tilsyn med institusjonenes systematiske kvalitetsarbeid.
 
 ### § 3. Klagenemndas oppnevning og sammensetning
 
 Klagenemnda oppnevnes av departementet.
 
-Klagenemnda skal ha seks medlemmer og være sammensatt slik:En leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Leder skal ikke være ansatt eller medlem av styret ved institusjon som går inn under henholdsvis [fagskoleloven](lov/2018-06-08-28) eller [lov om universiteter og høyskoler](lov/2024-03-08-9). Departementet utpeker leder og nestleder. Nestleder er vara for leder.Ett medlem med personlig varamedlem som har bakgrunn fra universitet eller høyskole.Ett medlem med personlig varamedlem som har bakgrunn fra høyere yrkesfaglig utdanningsinstitusjon.To medlemmer med personlige varamedlemmer som representerer studenter i høyere utdanning og i høyere yrkesfaglig utdanning. Medlemmene skal oppnevnes i samsvar med forslag fra representative elev- eller studentorganisasjoner.
+Klagenemnda skal ha seks medlemmer og være sammensatt slik:
+
+1. En leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Leder skal ikke være ansatt eller medlem av styret ved institusjon som går inn under henholdsvis [fagskoleloven](lov/2018-06-08-28) eller [lov om universiteter og høyskoler](lov/2024-03-08-9). Departementet utpeker leder og nestleder. Nestleder er vara for leder.
+2. Ett medlem med personlig varamedlem som har bakgrunn fra universitet eller høyskole.
+3. Ett medlem med personlig varamedlem som har bakgrunn fra høyere yrkesfaglig utdanningsinstitusjon.
+4. To medlemmer med personlige varamedlemmer som representerer studenter i høyere utdanning og i høyere yrkesfaglig utdanning. Medlemmene skal oppnevnes i samsvar med forslag fra representative elev- eller studentorganisasjoner.
 
 Medlemmene oppnevnes for inntil fire år, med unntak av studentrepresentantene som oppnevnes for inntil to år. Medlemmene kan gjenoppnevnes én gang. Personer som har vært varamedlemmer kan oppnevnes i to perioder som fast medlem.
 
@@ -70,7 +82,12 @@ Klagenemnda skal behandle klager over enkeltvedtak om godkjenning av utenlandsk 
 
 Klagenemnda oppnevnes av departementet.
 
-Klagenemnda skal ha fem medlemmer og skal være sammensatt slik:En leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeker leder og nestleder. Nestleder er vara for leder.Ett medlem, med personlig varamedlem, med bakgrunn fra yrkesopplæring eller yrkesfaglig utdanning.Ett medlem, med personlig varamedlem, med bakgrunn fra høyere utdanning.Ett medlem, med personlig varamedlem, som arbeider som styrer eller pedagogisk leder i barnehage eller som lærer.
+Klagenemnda skal ha fem medlemmer og skal være sammensatt slik:
+
+1. En leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeker leder og nestleder. Nestleder er vara for leder.
+2. Ett medlem, med personlig varamedlem, med bakgrunn fra yrkesopplæring eller yrkesfaglig utdanning.
+3. Ett medlem, med personlig varamedlem, med bakgrunn fra høyere utdanning.
+4. Ett medlem, med personlig varamedlem, som arbeider som styrer eller pedagogisk leder i barnehage eller som lærer.
 
 Medlemmene oppnevnes for inntil fire år. Medlemmene kan gjenoppnevnes én gang. Personer som har vært varamedlemmer kan oppnevnes i to perioder som fast medlem.
 

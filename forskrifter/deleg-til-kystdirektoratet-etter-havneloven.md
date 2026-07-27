@@ -152,6 +152,16 @@ Ovennevnte delegeringsvedtak i del I til XI trer i kraft 15. oktober 2002.
 
 ## XIV. Opphevede delegeringsvedtak
 
-Fra 15. oktober 2002 oppheves følgende delegeringsvedtak:[Forskrift av 14. desember 1984 nr. 2057](forskrift/1984-12-14-2057) om bemyndigelse for Kystdirektoratet til å treffe visse avgjørelser i medhold av den nye havneloven.[Forskrift av 29. januar 1985 nr. 164](forskrift/1985-01-29-164) om bemyndigelse for Kystverkets distriktskontorer til å samtykke i kryssing av farvann med kabler og rørledninger samt for Kystdirektoratet til å samtykke i dumping.[Forskrift av 26. juli 1985 nr. 1564](forskrift/1985-07-26-1564) om delegering av myndighet til Kystdirektoratet etter lov om havner og farvann m.v.[Forskrift av 15. oktober 1986 nr. 1992](forskrift/1986-10-15-1992) om delegering til Kystdirektoratet av myndighet utenfor havnedistrikt.[Forskrift av 21. desember 1989 nr. 1341](forskrift/1989-12-21-1341) om bemyndigelse for Kystdirektoratet til å samtykke i kryssing av farvann.[Vedtak av 21. desember 1989 nr. 1440](forskrift/1989-12-21-1440) om bemyndigelse for Kystdirektoratet til å samtykke i kryssing av farvann.[Vedtak av 16. oktober 1990 nr. 806](forskrift/1990-10-16-806) om bemyndigelse for Kystdirektoratet til å godkjenne kommunale forskrifter om orden m.v.[Vedtak av 15. februar 1991 nr. 84](forskrift/1991-02-15-84) om bemyndigelse for Kystdirektoratet til å fastsette forskrifter om fiskefartøyers fortrinnsrett til kaianlegg o.l.[Vedtak av 22. februar 1991 nr. 119](forskrift/1991-02-22-119) om delegering av myndighet til å opprette, endre og oppheve havnedistrikter.
+Fra 15. oktober 2002 oppheves følgende delegeringsvedtak:
+
+- [Forskrift av 14. desember 1984 nr. 2057](forskrift/1984-12-14-2057) om bemyndigelse for Kystdirektoratet til å treffe visse avgjørelser i medhold av den nye havneloven.
+- [Forskrift av 29. januar 1985 nr. 164](forskrift/1985-01-29-164) om bemyndigelse for Kystverkets distriktskontorer til å samtykke i kryssing av farvann med kabler og rørledninger samt for Kystdirektoratet til å samtykke i dumping.
+- [Forskrift av 26. juli 1985 nr. 1564](forskrift/1985-07-26-1564) om delegering av myndighet til Kystdirektoratet etter lov om havner og farvann m.v.
+- [Forskrift av 15. oktober 1986 nr. 1992](forskrift/1986-10-15-1992) om delegering til Kystdirektoratet av myndighet utenfor havnedistrikt.
+- [Forskrift av 21. desember 1989 nr. 1341](forskrift/1989-12-21-1341) om bemyndigelse for Kystdirektoratet til å samtykke i kryssing av farvann.
+- [Vedtak av 21. desember 1989 nr. 1440](forskrift/1989-12-21-1440) om bemyndigelse for Kystdirektoratet til å samtykke i kryssing av farvann.
+- [Vedtak av 16. oktober 1990 nr. 806](forskrift/1990-10-16-806) om bemyndigelse for Kystdirektoratet til å godkjenne kommunale forskrifter om orden m.v.
+- [Vedtak av 15. februar 1991 nr. 84](forskrift/1991-02-15-84) om bemyndigelse for Kystdirektoratet til å fastsette forskrifter om fiskefartøyers fortrinnsrett til kaianlegg o.l.
+- [Vedtak av 22. februar 1991 nr. 119](forskrift/1991-02-22-119) om delegering av myndighet til å opprette, endre og oppheve havnedistrikter.
 
 > Endret ved [vedtak 18 feb 2003 nr. 177](forskrift/2003-02-18-177), tidligere del XIII.

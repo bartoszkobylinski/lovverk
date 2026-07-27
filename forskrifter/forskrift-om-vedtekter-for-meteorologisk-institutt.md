@@ -46,7 +46,13 @@ Styret oppnevner selv nestleder. De ansattes representanter kan ikke oppnevnes s
 
 Styret er Meteorologisk institutts øverste organ og er ansvarlig for instituttets samlede virksomhet.
 
-Styret har følgende hovedoppgaver:ansette direktør for instituttet etter konsultasjon med Klima- og miljødepartementetsikre strategisk utvikling på kort og lang siktpåse økonomisk kontroll og effektiv driftfastsette instituttets organiseringføre kontroll med at instituttet tilfredsstiller fastsatte krav, lover og regler
+Styret har følgende hovedoppgaver:
+
+- ansette direktør for instituttet etter konsultasjon med Klima- og miljødepartementet
+- sikre strategisk utvikling på kort og lang sikt
+- påse økonomisk kontroll og effektiv drift
+- fastsette instituttets organisering
+- føre kontroll med at instituttet tilfredsstiller fastsatte krav, lover og regler
 
 Styret gir selv nærmere retningslinjer for delegering innenfor rammene av vedtektene.
 
@@ -64,7 +70,10 @@ Nærmere instruks for direktøren fastsettes av styret.
 
 ## § 5. Status og fullmakter
 
-Instituttet er et statlig forvaltningsorgan med særskilte fullmakter, administrativt underlagt Klima- og miljødepartementet. Instituttet skal finansieres og organiseres slik at faglig uavhengighet og økonomisk og administrativ fleksibilitet oppnås. Instituttet har følgende fullmakter:det oppretter selv de stillinger og tilsetter det personale som anses nødvendig for å løse de oppgaver det er pålagt, og ut fra hensynet til at bemanning og organisasjon må tilpasses de gitte rammebetingelser. Tilsettingsforholdene reguleres av [lov om statens ansatte](lov/2017-06-16-67) med forskrifter.det får unntak fra bevilgningsreglementets [§ 3 fjerde ledd](forskrift/2005-05-26-876/§3/ledd/4). Instituttet omfattes følgelig ikke av bruttoprinsippet for budsjettering i statlig virksomhet. Regnskapet skal revideres av Riksrevisjonen.
+Instituttet er et statlig forvaltningsorgan med særskilte fullmakter, administrativt underlagt Klima- og miljødepartementet. Instituttet skal finansieres og organiseres slik at faglig uavhengighet og økonomisk og administrativ fleksibilitet oppnås. Instituttet har følgende fullmakter:
+
+- det oppretter selv de stillinger og tilsetter det personale som anses nødvendig for å løse de oppgaver det er pålagt, og ut fra hensynet til at bemanning og organisasjon må tilpasses de gitte rammebetingelser. Tilsettingsforholdene reguleres av [lov om statens ansatte](lov/2017-06-16-67) med forskrifter.
+- det får unntak fra bevilgningsreglementets [§ 3 fjerde ledd](forskrift/2005-05-26-876/§3/ledd/4). Instituttet omfattes følgelig ikke av bruttoprinsippet for budsjettering i statlig virksomhet. Regnskapet skal revideres av Riksrevisjonen.
 
 Økonomiforvaltningen ved instituttet skal følge «Hovedinstruks for Meteorologisk institutt», fastsatt av Klima- og miljødepartementet.
 

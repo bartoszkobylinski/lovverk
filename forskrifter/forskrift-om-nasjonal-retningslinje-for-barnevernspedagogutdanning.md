@@ -15,7 +15,7 @@ xml_hash: "0fe9d229ffd4a368986cda8c26bf052007744aa2d56bbb69abdc7eb47397e0fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,12 @@ Fullført utdanning kvalifiserer til tittelen barnevernspedagog.
 
 ### § 3. Kompetanseområder
 
-Barnevernspedagogutdanningen skal gi læringsutbytte i tråd med kravene i kapittel 2 til følgende fire kompetanseområder:Barnevernsfaglig kompetanseForsvarlig rettsanvendelse og rettssikkerhet i barnevernetYrkesrolle, etikk og samarbeid til barnets besteInnovasjon, kritisk tenkning og kunnskapsbasert praksis.
+Barnevernspedagogutdanningen skal gi læringsutbytte i tråd med kravene i kapittel 2 til følgende fire kompetanseområder:
+
+- Barnevernsfaglig kompetanse
+- Forsvarlig rettsanvendelse og rettssikkerhet i barnevernet
+- Yrkesrolle, etikk og samarbeid til barnets beste
+- Innovasjon, kritisk tenkning og kunnskapsbasert praksis.
 
 Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-09-04-1828/§4) a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, [§ 5](forskrift/2025-09-04-1828/§5) a, b, c, d, e, f, [§ 6](forskrift/2025-09-04-1828/§6) a, [§ 7](forskrift/2025-09-04-1828/§7) a, b, c, d, e, [§ 8](forskrift/2025-09-04-1828/§8) a, b, c, [§ 9](forskrift/2025-09-04-1828/§9) a, b, c, [§ 10](forskrift/2025-09-04-1828/§10) a, b, c, d, e, f, h, [§ 11](forskrift/2025-09-04-1828/§11) a, b, c, d, e, f, g, h, i, [§ 12](forskrift/2025-09-04-1828/§12) a, b, c, d, e, [§ 13](forskrift/2025-09-04-1828/§13) a, b, c, d, e, [§ 14](forskrift/2025-09-04-1828/§14) a, b, c og [§ 15](forskrift/2025-09-04-1828/§15) a, b er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
 
@@ -56,57 +61,134 @@ Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-09-04-1828/§4) a, b, c, d,
 
 ### § 4. Barnevernsfaglig kompetanse – Kunnskap
 
-Kandidatenhar bred kunnskap om barnevernets samfunnsmandat, samarbeidspartnere, ansvars og oppgavefordeling i helse- og velferdstjenestenehar kunnskap om samiske barns rett til oppvekstforhold der deres etniske, språklige og kulturelle tilknytning vektleggeshar bred kunnskap om omsorgssvikt, overgrep og vold; mulige årsaksforhold, uttrykk og konsekvenserkan oppdatere sin organisasjonsteoretiske kunnskapkan oppdatere sin kunnskap om barnevern som fagområdehar kunnskap om ulike pedagogiske metoder og tiltak innenfor miljøterapeutisk og annet barnevernsfaglig arbeidhar bred kunnskap om barns oppvekst, med fokus på utvikling, sosialisering, læring og danninghar bred kunnskap om familie- og nettverksarbeid, og oppmerksomhet om ressurser i den enkelte familie, nettverk og nærmiljøhar bred kunnskap om samspill og utviklingsstøttende omsorghar bred kunnskap om rusmiddelbruk, psykisk helse, og ulike symptomer på rusmiddelproblematikk eller psykiske plager og hvordan dette kan komme til uttrykk på hos både barn og voksne, og hvilke konsekvenser det harhar kunnskap om urfolk, etniske minoriteter og flyktningers livssituasjoner og rettigheterhar kjennskap til ulike former for familieliv og familiepolitiske føringerkan oppdatere sin kunnskap om sammenhenger mellom helse, utdanning, arbeid, sosioøkonomiske faktorer, levekår, både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkluderingkan oppdatere sin kunnskap om helse- og sosialpolitikkkan oppdatere sin kunnskap om barns digitale hverdagsliv.
+Kandidaten
+
+1. har bred kunnskap om barnevernets samfunnsmandat, samarbeidspartnere, ansvars og oppgavefordeling i helse- og velferdstjenestene
+2. har kunnskap om samiske barns rett til oppvekstforhold der deres etniske, språklige og kulturelle tilknytning vektlegges
+3. har bred kunnskap om omsorgssvikt, overgrep og vold; mulige årsaksforhold, uttrykk og konsekvenser
+4. kan oppdatere sin organisasjonsteoretiske kunnskap
+5. kan oppdatere sin kunnskap om barnevern som fagområde
+6. har kunnskap om ulike pedagogiske metoder og tiltak innenfor miljøterapeutisk og annet barnevernsfaglig arbeid
+7. har bred kunnskap om barns oppvekst, med fokus på utvikling, sosialisering, læring og danning
+8. har bred kunnskap om familie- og nettverksarbeid, og oppmerksomhet om ressurser i den enkelte familie, nettverk og nærmiljø
+9. har bred kunnskap om samspill og utviklingsstøttende omsorg
+10. har bred kunnskap om rusmiddelbruk, psykisk helse, og ulike symptomer på rusmiddelproblematikk eller psykiske plager og hvordan dette kan komme til uttrykk på hos både barn og voksne, og hvilke konsekvenser det har
+11. har kunnskap om urfolk, etniske minoriteter og flyktningers livssituasjoner og rettigheter
+12. har kjennskap til ulike former for familieliv og familiepolitiske føringer
+13. kan oppdatere sin kunnskap om sammenhenger mellom helse, utdanning, arbeid, sosioøkonomiske faktorer, levekår, både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering
+14. kan oppdatere sin kunnskap om helse- og sosialpolitikk
+15. kan oppdatere sin kunnskap om barns digitale hverdagsliv.
 
 ### § 5. Barnevernsfaglig kompetanse – Ferdigheter
 
-Kandidatenkan anvende forskningskunnskap, erfaringskunnskap og kunnskap fra barn, unge og foreldre som grunnlag for kunnskapsbasert praksis i møte med barn, unge og familier i egne tjenester, og henvise videre ved behovkan anvende et bredt og flerfaglig kunnskapsgrunnlag for å arbeide systematisk og målrettet med barn, unge og familierkan anvende et bredt og flerfaglig kunnskapsgrunnlag i helsefremmende, forebyggende og miljøterapeutisk arbeidkan anvende aktiviteter for å fremme lek, læring, inkludering, mestring og deltakelsekan anvende forsknings-, praksis- og erfaringsbasert kunnskap til å veilede barn, unge, deres foreldre og foresatte i lærings-, mestrings- og endringsprosesserkan anvende forsknings-, praksis- og erfaringsbasert kunnskap for å utrede barn og unges omsorgssituasjon og atferd og barnevernfaglig kunne vurdere utredningen og tilrettelegge for hensiktsmessige tiltak.
+Kandidaten
+
+1. kan anvende forskningskunnskap, erfaringskunnskap og kunnskap fra barn, unge og foreldre som grunnlag for kunnskapsbasert praksis i møte med barn, unge og familier i egne tjenester, og henvise videre ved behov
+2. kan anvende et bredt og flerfaglig kunnskapsgrunnlag for å arbeide systematisk og målrettet med barn, unge og familier
+3. kan anvende et bredt og flerfaglig kunnskapsgrunnlag i helsefremmende, forebyggende og miljøterapeutisk arbeid
+4. kan anvende aktiviteter for å fremme lek, læring, inkludering, mestring og deltakelse
+5. kan anvende forsknings-, praksis- og erfaringsbasert kunnskap til å veilede barn, unge, deres foreldre og foresatte i lærings-, mestrings- og endringsprosesser
+6. kan anvende forsknings-, praksis- og erfaringsbasert kunnskap for å utrede barn og unges omsorgssituasjon og atferd og barnevernfaglig kunne vurdere utredningen og tilrettelegge for hensiktsmessige tiltak.
 
 ### § 6. Barnevernsfaglig kompetanse – Generell kompetanse
 
-Kandidatenkan bruke kunnskaper og erfaringer til å undersøke, tilrettelegge, gjennomføre, dokumentere, analysere, vurdere og evaluere barnevernsfaglig arbeid på en etisk og faglig forsvarlig måte.
+Kandidaten
+
+1. kan bruke kunnskaper og erfaringer til å undersøke, tilrettelegge, gjennomføre, dokumentere, analysere, vurdere og evaluere barnevernsfaglig arbeid på en etisk og faglig forsvarlig måte.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet forsvarlig rettsanvendelse og rettssikkerhet i barnevernet
 
 ### § 7. Forsvarlig rettsanvendelse og rettssikkerhet i barnevernet – Kunnskap
 
-Kandidatenhar bred kunnskap om sentrale rettskilder på barnevernfeltethar bred kunnskap om barnerettigheter, herunder retten til beskyttelse, omsorg, rett til informasjon og medvirkninghar bred kunnskap om barns rettigheter i institusjon og grensene for bruk av tvanghar bred kunnskap om kravet til forsvarlighet i utrednings- og tiltaksarbeid, og i beslutningsprosesserkjenner til samers rettigheter, og har kunnskap om og forståelse for samenes status som urfolk.
+Kandidaten
+
+1. har bred kunnskap om sentrale rettskilder på barnevernfeltet
+2. har bred kunnskap om barnerettigheter, herunder retten til beskyttelse, omsorg, rett til informasjon og medvirkning
+3. har bred kunnskap om barns rettigheter i institusjon og grensene for bruk av tvang
+4. har bred kunnskap om kravet til forsvarlighet i utrednings- og tiltaksarbeid, og i beslutningsprosesser
+5. kjenner til samers rettigheter, og har kunnskap om og forståelse for samenes status som urfolk.
 
 ### § 8. Forsvarlig rettsanvendelse og rettssikkerhet i barnevernet – Ferdigheter
 
-Kandidatenkan beskrive juridiske problemstillinger, og identifisere rettskilder for å sikre barns og foreldres rettigheterkan redegjøre skriftlig og muntlig for barnevernsfaglige og juridiske vurderinger og beslutningerkan anvende sentrale rettskilder og veiledere, og foreta forsvarlig juridisk og barnevernfaglig skjønnsutøvelse.
+Kandidaten
+
+1. kan beskrive juridiske problemstillinger, og identifisere rettskilder for å sikre barns og foreldres rettigheter
+2. kan redegjøre skriftlig og muntlig for barnevernsfaglige og juridiske vurderinger og beslutninger
+3. kan anvende sentrale rettskilder og veiledere, og foreta forsvarlig juridisk og barnevernfaglig skjønnsutøvelse.
 
 ### § 9. Forsvarlig rettsanvendelse og rettssikkerhet i barnevernet – Generell kompetanse
 
-Kandidatenhar innsikt i relevante juridiske-, yrkes- og forskningsetiske problemstillingerhar innsikt i juridisk metode og sentrale rettskilder på barnevernfeltet, herunder FNs [barnekonvensjon](lov/1999-05-21-30/bkn)kan vurdere barnets beste som rettsprinsipp.
+Kandidaten
+
+1. har innsikt i relevante juridiske-, yrkes- og forskningsetiske problemstillinger
+2. har innsikt i juridisk metode og sentrale rettskilder på barnevernfeltet, herunder FNs [barnekonvensjon](lov/1999-05-21-30/bkn)
+3. kan vurdere barnets beste som rettsprinsipp.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet yrkesrolle, etikk og samarbeid til barnets beste
 
 ### § 10. Yrkesrolle, etikk og samarbeid til barnets beste – Kunnskap
 
-Kandidatenhar bred kunnskap om tverrfaglig, tverretatlig og tverrprofesjonelt samarbeidhar bred kunnskap om vurdering og forståelse av barns beste og barn og familiers rettigheter, deriblant samiske barns rett til eget språk og kulturhar bred kunnskap om kommunikasjon, konflikthåndtering og samarbeid i et samfunn preget av mangfoldhar kunnskap om velferdsstatens strukturer og profesjonerhar kunnskap om inkludering, ikke-diskriminering og likestilling, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnethar kunnskap om profesjonsetikk, etiske verdier, dilemma og problemstillinger i barnevernsfeltethar kunnskap om egen profesjon og barnevernfeltets historiehar kunnskap om og kan vurdere risiko for uønskede hendelser og kjenner til metoder for å følge opp dette systematisk.
+Kandidaten
+
+1. har bred kunnskap om tverrfaglig, tverretatlig og tverrprofesjonelt samarbeid
+2. har bred kunnskap om vurdering og forståelse av barns beste og barn og familiers rettigheter, deriblant samiske barns rett til eget språk og kultur
+3. har bred kunnskap om kommunikasjon, konflikthåndtering og samarbeid i et samfunn preget av mangfold
+4. har kunnskap om velferdsstatens strukturer og profesjoner
+5. har kunnskap om inkludering, ikke-diskriminering og likestilling, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnet
+6. har kunnskap om profesjonsetikk, etiske verdier, dilemma og problemstillinger i barnevernsfeltet
+7. har kunnskap om egen profesjon og barnevernfeltets historie
+8. har kunnskap om og kan vurdere risiko for uønskede hendelser og kjenner til metoder for å følge opp dette systematisk.
 
 ### § 11. Yrkesrolle, etikk og samarbeid til barnets beste – Ferdigheter
 
-Kandidatenkan reflektere over maktforhold, profesjonalitet og egen rolle som yrkesutøver i møte med barn og familierkan anvende faglig kunnskap og kompetanse til å initiere og lede tverrfaglig, tverretatlig og tverrprofesjonelt samarbeidkan anvende faglig kunnskap fra barn og unge som del av grunnlaget for å sikre barn og unges deltakelse og medvirkningkan anvende faglig kunnskap til å kommunisere og samarbeide hensiktsmessig med barn, unge og foresatte, og kan samtale med barn om tema som omsorgssvikt, vold og overgrepkan bruke erfaringer og kunnskap til å bygge relasjoner, samarbeide og kommunisere på en måte som fremmer inklusjon, deltakelse og medvirkningkan vurdere og ivareta barns beste og barn og familiers rettigheterkan anvende kunnskapsbaserte metoder, teorier og faglig skjønn til det beste for barn og familierkan anvende faglig kunnskap om kulturelt mangfold og vise flerkulturell forståelse og kultursensitivitet i tjenesteutøvelsenkan anvende erfaringer og faglig kunnskap til å støtte og veilede medarbeidere, samt reflektere kritisk over egen og tjenestens praksis og justere praksis under veiledning.
+Kandidaten
+
+1. kan reflektere over maktforhold, profesjonalitet og egen rolle som yrkesutøver i møte med barn og familier
+2. kan anvende faglig kunnskap og kompetanse til å initiere og lede tverrfaglig, tverretatlig og tverrprofesjonelt samarbeid
+3. kan anvende faglig kunnskap fra barn og unge som del av grunnlaget for å sikre barn og unges deltakelse og medvirkning
+4. kan anvende faglig kunnskap til å kommunisere og samarbeide hensiktsmessig med barn, unge og foresatte, og kan samtale med barn om tema som omsorgssvikt, vold og overgrep
+5. kan bruke erfaringer og kunnskap til å bygge relasjoner, samarbeide og kommunisere på en måte som fremmer inklusjon, deltakelse og medvirkning
+6. kan vurdere og ivareta barns beste og barn og familiers rettigheter
+7. kan anvende kunnskapsbaserte metoder, teorier og faglig skjønn til det beste for barn og familier
+8. kan anvende faglig kunnskap om kulturelt mangfold og vise flerkulturell forståelse og kultursensitivitet i tjenesteutøvelsen
+9. kan anvende erfaringer og faglig kunnskap til å støtte og veilede medarbeidere, samt reflektere kritisk over egen og tjenestens praksis og justere praksis under veiledning.
 
 ### § 12. Yrkesrolle, etikk og samarbeid til barnets beste – Generell kompetanse
 
-Kandidatenhar innsikt i egen forforståelse, holdninger og verdier og betydningen av relasjonskompetanse i barnevernfaglig arbeidhar innsikt i og kan håndtere etiske problemstillinger innen fagområdet og egen tjenesteutøvelsehar innsikt i og kan ivareta barn, unge og familiers rettigheter og bidra til å sikre likeverdige tjenester i et samfunn preget av mangfoldkan bruke kunnskap, ferdigheter og erfaringer til å møte barn, unge og familier i en utsatt livssituasjon med forståelse, empati og anerkjennelsekan dokumentere og formidle faglige vurderinger, muntlig og skriftlig.
+Kandidaten
+
+1. har innsikt i egen forforståelse, holdninger og verdier og betydningen av relasjonskompetanse i barnevernfaglig arbeid
+2. har innsikt i og kan håndtere etiske problemstillinger innen fagområdet og egen tjenesteutøvelse
+3. har innsikt i og kan ivareta barn, unge og familiers rettigheter og bidra til å sikre likeverdige tjenester i et samfunn preget av mangfold
+4. kan bruke kunnskap, ferdigheter og erfaringer til å møte barn, unge og familier i en utsatt livssituasjon med forståelse, empati og anerkjennelse
+5. kan dokumentere og formidle faglige vurderinger, muntlig og skriftlig.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet innovasjon, kritisk tenkning og kunnskapsbasert praksis
 
 ### § 13. Innovasjon, kritisk tenkning og kunnskapsbasert praksis – Kunnskap
 
-Kandidatenhar kunnskap om vitenskapsteori og hvordan kunnskap utvikles og forståshar kunnskap om samfunnsvitenskapelig metode og dets muligheter og begrensingerhar kjennskap til relevante fagdebatter, forsknings- og utviklingsarbeid, og nasjonale veiledere og retningslinjerhar kjennskap til nytenkning og innovasjonsprosesserhar digital kompetanse, deriblant kunnskap om digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi både på individ- og systemnivå.
+Kandidaten
+
+1. har kunnskap om vitenskapsteori og hvordan kunnskap utvikles og forstås
+2. har kunnskap om samfunnsvitenskapelig metode og dets muligheter og begrensinger
+3. har kjennskap til relevante fagdebatter, forsknings- og utviklingsarbeid, og nasjonale veiledere og retningslinjer
+4. har kjennskap til nytenkning og innovasjonsprosesser
+5. har digital kompetanse, deriblant kunnskap om digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi både på individ- og systemnivå.
 
 ### § 14. Innovasjon, kritisk tenkning og kunnskapsbasert praksis – Ferdigheter
 
-Kandidatenkan anvende faglig kunnskap til fagutvikling, kvalitetsforbedring og tjenesteinnovasjonkan anvende ny faglig kunnskap på en metodisk og vitenskapelig måtekan anvende digitale verktøy og relevant teknologi.
+Kandidaten
+
+1. kan anvende faglig kunnskap til fagutvikling, kvalitetsforbedring og tjenesteinnovasjon
+2. kan anvende ny faglig kunnskap på en metodisk og vitenskapelig måte
+3. kan anvende digitale verktøy og relevant teknologi.
 
 ### § 15. Innovasjon, kritisk tenkning og kunnskapsbasert praksis – Generell kompetanse
 
-Kandidatenkan planlegge, gjennomføre, begrunne, evaluere og dokumentere barnevernfaglig arbeid selvstendig og sammen med andrekan utrede og analysere barnevernfaglig arbeid selvstendig og sammen med andre.
+Kandidaten
+
+1. kan planlegge, gjennomføre, begrunne, evaluere og dokumentere barnevernfaglig arbeid selvstendig og sammen med andre
+2. kan utrede og analysere barnevernfaglig arbeid selvstendig og sammen med andre.
 
 ## Kapittel 6. Studiets oppbygging og praksisstudier
 

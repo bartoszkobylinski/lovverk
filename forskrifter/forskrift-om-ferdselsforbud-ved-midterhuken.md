@@ -36,7 +36,10 @@ Ferdselsforbudet gjelder ikke ambulanse-, politi-, rednings- eller oppsynsvirkso
 
 ## § 4.
 
-Forvaltningsmyndigheten kan gi dispensasjon fra ferdselsforbudet:for vitenskapelige undersøkelsernår andre særlige grunner foreligger
+Forvaltningsmyndigheten kan gi dispensasjon fra ferdselsforbudet:
+
+1. for vitenskapelige undersøkelser
+2. når andre særlige grunner foreligger
 
 Dispensasjon kan bare gis for virksomhet som ikke kommer i strid med forskriftens formål.
 

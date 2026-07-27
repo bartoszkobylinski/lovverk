@@ -15,7 +15,7 @@ xml_hash: "53c46f557b56fdd48a006115a0c27fa9c6b420cfe0e82f78defdffd58e6d0a1d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,17 +32,34 @@ Forskriften har til formål å sikre at det om bord på skip finnes skipsmedisin
 
 Forskriften gjelder for norske skip. Den gjelder også for redningsmidler på norske skip, jf. [§ 13](forskrift/2001-03-09-439/§13).
 
-Med mindre det fremgår noe annet av de enkelte bestemmelser er følgende unntatt fra forskriften:lystfartøy som brukes til ikke-ervervsmessige formål, og som ikke er bemannet med profesjonelt mannskap,slepebåter som opererer i havneområder,flyttbare innretninger i petroleumsvirksomheten på norsk kontinentalsokkel når det kan dokumenteres at disse omfattes av beredskap etablert med hjemmel i § 9-2 i [petroleumsloven1](lov/1996-11-29-72/§9-2) som er minst likeverdig med kravene i denne forskrift,sjøforsvarets fartøyer, dersom de ikke opprettholder sivile sertifikater.
+Med mindre det fremgår noe annet av de enkelte bestemmelser er følgende unntatt fra forskriften:
+
+1. lystfartøy som brukes til ikke-ervervsmessige formål, og som ikke er bemannet med profesjonelt mannskap,
+2. slepebåter som opererer i havneområder,
+3. flyttbare innretninger i petroleumsvirksomheten på norsk kontinentalsokkel når det kan dokumenteres at disse omfattes av beredskap etablert med hjemmel i § 9-2 i [petroleumsloven1](lov/1996-11-29-72/§9-2) som er minst likeverdig med kravene i denne forskrift,
+4. sjøforsvarets fartøyer, dersom de ikke opprettholder sivile sertifikater.
 
 1 [Lov av 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet.
 
 ### § 3. Definisjoner
 
-I forskriften menes med:*passasjerskip:* skip som skal ha passasjersertifikat, sikkerhetssertifikat for passasjerskip, sikkerhetssertifikat for hurtiggående passasjerfartøy eller tillatelse til begrenset passasjerbefordring i henhold til sjødyktighetsloven,1*redningsmiddel:* livbåt, redningsbåt, redningsflåter og lettbåt,*rederi:* et fartøys registrerte eier, bortsett fra når fartøyet er leid til totalbefraktning eller helt eller delvis drives av annen fysisk eller juridisk person enn eieren på grunnlag av en driftsavtale; i slike tilfeller skal totalbefrakteren, eventuelt den fysiske eller juridiske personen som driver fartøyet, anses som rederiet,*skipsfører:* den som har høyeste myndighet om bord,*arbeidstaker:* enhver som tar tjeneste på norsk skip, herunder praktikanter og lærlinger, unntatt havneloser og landbasert personell som utfører arbeid om bord på skip som ligger ved kai,*skipsmedisin:* legemidler, medisinsk utstyr mv., jf. de ikke-uttømmende lister i vedlegg 1 og 2,*narkotika:* legemidler som er oppført i narkotikalisten,2 se vedlegg 3,*utlevering:* utlevering av skipsmedisin fra bemyndiget person til rekvirent og pasient og umiddelbar bruk av skipsmedisin av bemyndiget person på pasient,*farlig last:* last som er omtalt som farlig i IMDG-koden, International Maritime Dangerous Goods Code, utgitt av International Maritime Organization (IMO).
+I forskriften menes med:
+
+1. *passasjerskip:* skip som skal ha passasjersertifikat, sikkerhetssertifikat for passasjerskip, sikkerhetssertifikat for hurtiggående passasjerfartøy eller tillatelse til begrenset passasjerbefordring i henhold til sjødyktighetsloven,1
+2. *redningsmiddel:* livbåt, redningsbåt, redningsflåter og lettbåt,
+3. *rederi:* et fartøys registrerte eier, bortsett fra når fartøyet er leid til totalbefraktning eller helt eller delvis drives av annen fysisk eller juridisk person enn eieren på grunnlag av en driftsavtale; i slike tilfeller skal totalbefrakteren, eventuelt den fysiske eller juridiske personen som driver fartøyet, anses som rederiet,
+4. *skipsfører:* den som har høyeste myndighet om bord,
+5. *arbeidstaker:* enhver som tar tjeneste på norsk skip, herunder praktikanter og lærlinger, unntatt havneloser og landbasert personell som utfører arbeid om bord på skip som ligger ved kai,
+6. *skipsmedisin:* legemidler, medisinsk utstyr mv., jf. de ikke-uttømmende lister i vedlegg 1 og 2,
+7. *narkotika:* legemidler som er oppført i narkotikalisten,2 se vedlegg 3,
+8. *utlevering:* utlevering av skipsmedisin fra bemyndiget person til rekvirent og pasient og umiddelbar bruk av skipsmedisin av bemyndiget person på pasient,
+9. *farlig last:* last som er omtalt som farlig i IMDG-koden, International Maritime Dangerous Goods Code, utgitt av International Maritime Organization (IMO).
 
 > Endret ved forskrifter [14 feb 2013 nr. 199](forskrift/2013-02-14-199), [29 okt 2024 nr. 2589](forskrift/2024-10-29-2589).
 
-1 [Lov av 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v.2 [Forskrift 14. februar 2013 nr. 199 om narkotika (narkotikaforskriften)](forskrift/2013-02-14-199).
+1 [Lov av 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v.
+
+2 [Forskrift 14. februar 2013 nr. 199 om narkotika (narkotikaforskriften)](forskrift/2013-02-14-199).
 
 ### § 4. Fartøygrupper
 
@@ -220,7 +237,11 @@ Ved destruksjon av legemidler om bord skal dette skje på forsvarlig måte.
 
 ### § 23. Dokumentasjon
 
-Dokumentasjon på utført ettersyn skal for den enkelte artikkel skipet, herunder redningsmidlene, er pliktig til å medbringe, angi:fastsatt mengde om bord i henhold til denne forskrift,opptalt mengde ved ettersyn ogmerknader om begrenset holdbarhet mv.
+Dokumentasjon på utført ettersyn skal for den enkelte artikkel skipet, herunder redningsmidlene, er pliktig til å medbringe, angi:
+
+1. fastsatt mengde om bord i henhold til denne forskrift,
+2. opptalt mengde ved ettersyn og
+3. merknader om begrenset holdbarhet mv.
 
 Dokumentasjonen skal være datert og signert, og ved sakkyndig ettersyn også påført vedkommendes persons virksomhets eller myndighets stempel.
 
@@ -242,7 +263,12 @@ Evakuering av pasient med luftambulanse eller redningshelikopter fra skip i omr�
 
 Skipet skal være utstyrt med tilstrekkelig håndbøker mv. til å sikre at førstehjelp og annen medisinsk behandling kan utføres faglig forsvarlig.
 
-Skip skal ha følgende om bord:Et eksemplar av denne forskriften.Innbundet og paginert kontrollbok til innføring av innkjøp, utlevering og innsending for destruksjon av narkotika, jf. [§ 16](forskrift/2001-03-09-439/§16) og [§ 21](forskrift/2001-03-09-439/§21).Egnet førstehjelpshåndbok på norsk og engelsk beregnet til skip. Førstehjelpshåndbok skal oppbevares sammen med utstyret av legemidler mv. Krav om norsk eller engelsk førstehjelpshåndbok kan fravikes, dersom det kan dokumenteres at skipets mannskap er språkkyndig i samsvar med førstehjelpshåndboken som medbringes.Kort rettledning om førstehjelp, som skal oppbevares sammen med skipsmedisinen i det enkelte redningsmiddel. Rettledningen skal være på egnet språk og skal på skip som går i norske farvann være på norsk og engelsk.
+Skip skal ha følgende om bord:
+
+1. Et eksemplar av denne forskriften.
+2. Innbundet og paginert kontrollbok til innføring av innkjøp, utlevering og innsending for destruksjon av narkotika, jf. [§ 16](forskrift/2001-03-09-439/§16) og [§ 21](forskrift/2001-03-09-439/§21).
+3. Egnet førstehjelpshåndbok på norsk og engelsk beregnet til skip. Førstehjelpshåndbok skal oppbevares sammen med utstyret av legemidler mv. Krav om norsk eller engelsk førstehjelpshåndbok kan fravikes, dersom det kan dokumenteres at skipets mannskap er språkkyndig i samsvar med førstehjelpshåndboken som medbringes.
+4. Kort rettledning om førstehjelp, som skal oppbevares sammen med skipsmedisinen i det enkelte redningsmiddel. Rettledningen skal være på egnet språk og skal på skip som går i norske farvann være på norsk og engelsk.
 
 Skip som transporterer farlig last, jf. [§ 12](forskrift/2001-03-09-439/§12), skal i tillegg ha om bord boken «Medical first aid guide for use in accidents involving dangerous goods (MFAG)» eller «Veiledning for medisinsk førstehjelp» utgitt av International Maritime Organization.
 
@@ -648,7 +674,10 @@ De aktuelle legemidler vil falle inn under utleveringsgruppe A eller B i Norge, 
 
 ### Til § 4
 
-Ved vurdering av fartøysgruppe skal følgende legges til grunn:hvilket fartsområde skipet er sertifisert forandre dokumenter som begrenser skipets fartsområde.
+Ved vurdering av fartøysgruppe skal følgende legges til grunn:
+
+- hvilket fartsområde skipet er sertifisert for
+- andre dokumenter som begrenser skipets fartsområde.
 
 Skip sertifisert for fartsområdene liten kystfart, fjordfiske og kystfiske vil høre inn under fartøygruppe C.
 
@@ -738,7 +767,13 @@ Nedtegning av utlevert legemiddel bør inneholde navn på pasient, legemidlets n
 
 Den månedlige kontrollen av skipsmedisin i redningsmidler skal bestå i å kontrollere at de forefinnes og at forseglingen er ubrutt.
 
-Ved ettersyn av legemidler og medisinsk utstyr skal det legges vekt på følgende:at lageret av legemidler og medisinsk utstyr er preget av ordenat beholdningen er i samsvar med innholdslistene i forskriftens vedleggat krav til spesielle oppbevaringsbetingelser overholdesat legemidlene er tydelig merket i henhold til forskriftenat utdaterte legemidler og andre varer med dårlig holdbarhet er eller blir byttet ut.
+Ved ettersyn av legemidler og medisinsk utstyr skal det legges vekt på følgende:
+
+- at lageret av legemidler og medisinsk utstyr er preget av orden
+- at beholdningen er i samsvar med innholdslistene i forskriftens vedlegg
+- at krav til spesielle oppbevaringsbetingelser overholdes
+- at legemidlene er tydelig merket i henhold til forskriften
+- at utdaterte legemidler og andre varer med dårlig holdbarhet er eller blir byttet ut.
 
 Sakkyndig ettersyn skal såvidt mulig skje gjennom norsk apotek. Dersom skipet ikke anløper norsk havn innen de gitte frister, bør ettersynet utføres gjennom utenlandsk apotek eller firma som etter nasjonalt regelverk har tillatelse til å foreta slikt ettersyn eller godkjent sjømannslege på stedet.
 

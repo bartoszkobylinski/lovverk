@@ -15,7 +15,7 @@ xml_hash: "24ce8028aaa950b96ccc78e3e5510585eb01fe667f99cca6062a3721a4ef67ee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,10 @@ Denne forskrift trer i kraft straks.
 - Gul hornvalmue (*Glaucium flavum*)
 - Varangervalmue (*Papaver dahlianum* ssp. *dahlianum*)
 - Kolavalmue (*Papaver lapponicum*)
-- Fjellvalmue (*Papaver radicatum*)Vanlig fjellvalmue (ssp. *radicatum*) også kjent som urvalmue, jotunheimvalmue, dovrefjellvalmue, trollheimvalmue, øksendalvalmue, svartisvalmue, tromsvalmue, avkovalmue og stjernøyvalmueLæstadiusvalmue (ssp. *laestadianum*)
+- Fjellvalmue (*Papaver radicatum*)
+
+  1. Vanlig fjellvalmue (ssp. *radicatum*) også kjent som urvalmue, jotunheimvalmue, dovrefjellvalmue, trollheimvalmue, øksendalvalmue, svartisvalmue, tromsvalmue, avkovalmue og stjernøyvalmue
+  2. Læstadiusvalmue (ssp. *laestadianum*)
 - Bergjunker (*Saxifraga paniculata*)
 - Mosesildre (*Saxifraga hypnoides*)
 - Myrsildre (*Saxifraga hirculus*)
@@ -97,7 +100,16 @@ Denne forskrift trer i kraft straks.
 
 *2. Kryptogamer:*
 
-1. *Moser:*Råtetvebladmose (*Scapania carinthiaca* var. *massalongi*)Sylmose (*Atractylocarpus alpinus*)Grønnsko (*Buxbaumia viridis*)Storskortemose (*Cynodontium suecicum*)Stammesigd (*Dicranum viride*)Alvemose (*Hamatocaulis vernicosus*)Stakesvanemose (*Meesia longiseta*)Sporebustehette (*Orthotrichium rogeri*)
+1. *Moser:*
+
+   - Råtetvebladmose (*Scapania carinthiaca* var. *massalongi*)
+   - Sylmose (*Atractylocarpus alpinus*)
+   - Grønnsko (*Buxbaumia viridis*)
+   - Storskortemose (*Cynodontium suecicum*)
+   - Stammesigd (*Dicranum viride*)
+   - Alvemose (*Hamatocaulis vernicosus*)
+   - Stakesvanemose (*Meesia longiseta*)
+   - Sporebustehette (*Orthotrichium rogeri*)
 2. *Lav:* (ingen)
 3. *Sopp:* (ingen)
 

@@ -26,13 +26,23 @@ eu_basis: []
 
 Kystvakten skal hevde norsk suverenitet og norske suverene rettigheter. Kystvakten skal delta i og gjennomføre søk og redningsaksjoner ved faresituasjoner og ulykker til sjøs, og skal så langt det er mulig yte bistand til person som er alvorlig syk eller skadet eller av andre årsaker er i åpenbar nød.
 
-For øvrig skal Kystvakten, i tråd med gjeldende lovgivning og med de begrensinger som følger av denne instruks:føre kontroll med overholdelsen av de bestemmelser som er gitt i eller i medhold av de lover som er nevnt i [kystvaktloven §§ 9](lov/1997-06-13-42/§9), [10](lov/1997-06-13-42/§10), [11](lov/1997-06-13-42/§11) og [12](lov/1997-06-13-42/§12),utføre kontroll i forbindelse med vitenskapelige undersøkelser,rapportere om og eventuelt uskadeliggjøre drivende gjenstander,bistå politiet og andre statsetater, ogutføre anløpskontroll.
+For øvrig skal Kystvakten, i tråd med gjeldende lovgivning og med de begrensinger som følger av denne instruks:
+
+1. føre kontroll med overholdelsen av de bestemmelser som er gitt i eller i medhold av de lover som er nevnt i [kystvaktloven §§ 9](lov/1997-06-13-42/§9), [10](lov/1997-06-13-42/§10), [11](lov/1997-06-13-42/§11) og [12](lov/1997-06-13-42/§12),
+2. utføre kontroll i forbindelse med vitenskapelige undersøkelser,
+3. rapportere om og eventuelt uskadeliggjøre drivende gjenstander,
+4. bistå politiet og andre statsetater, og
+5. utføre anløpskontroll.
 
 ## § 2. Kystvaktens materiell
 
 Kystvakten består av sjøgående fartøyer og luftfartøyer bestemt til kystvaktoppgaver.
 
-Fartøyene kan være:Forsvarets egne fartøyer, bestemt for kystvaktformål,innleide sivile fartøy, ellersivilt statlig fartøy som benyttes for bestemte oppdrag av Kystvakten.
+Fartøyene kan være:
+
+1. Forsvarets egne fartøyer, bestemt for kystvaktformål,
+2. innleide sivile fartøy, eller
+3. sivilt statlig fartøy som benyttes for bestemte oppdrag av Kystvakten.
 
 ## § 3. Merking
 

@@ -26,10 +26,15 @@ eu_basis: []
 
 Veiledning:
 
-Av retningslinjene, se pkt. 3, fremgår hvilke arbeider som det kreves autorisasjon for å utføre.Autorisasjon av verksteder meddeles av Norges Elektriske Materiellkontroll (NEMKO) etter avtale med Norges vassdrags- og energiverk (NVE).For autorisasjonen gjelder retningslinjer for autorisasjon av verksteder for reparasjon/ombygging m.v. av eksplosjonsbeskyttet elektrisk utstyr. Retningslinjene skal være godkjent av NVE.
+Av retningslinjene, se pkt. 3, fremgår hvilke arbeider som det kreves autorisasjon for å utføre.
+
+1. Autorisasjon av verksteder meddeles av Norges Elektriske Materiellkontroll (NEMKO) etter avtale med Norges vassdrags- og energiverk (NVE).
+2. For autorisasjonen gjelder retningslinjer for autorisasjon av verksteder for reparasjon/ombygging m.v. av eksplosjonsbeskyttet elektrisk utstyr. Retningslinjene skal være godkjent av NVE.
 
 Veiledning:
 
-Retningslinjer kan fås ved henvendelse til NVE, Elsikkerhetsavdelingen.Forskriftene trer i kraft 1. januar 1988.
+Retningslinjer kan fås ved henvendelse til NVE, Elsikkerhetsavdelingen.
+
+1. Forskriftene trer i kraft 1. januar 1988.
 
 Meddelelsen vil inngå i neste nr. av vårt informasjonsblad «Paragrafen» – nr. 34, og vil derfor ikke bli distribuert gjennom NEVF's abonnementsordning som særtrykk.

@@ -15,7 +15,7 @@ xml_hash: "4a84eaeeb3d6b2b64df8f19c3579a1ad1e9224ed18f82c16c204aac08d2baae7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32016L2341"
@@ -66,7 +66,15 @@ Foretak, kommuner og andre arbeidsgivere som har adgang til å opprette felles p
 
 To eller flere kommuner kan avtale å ha sine pensjonsordninger i samme pensjonskasse (interkommunal pensjonskasse). Bestemmelsene i [§ 4-2](lov/2005-06-10-44/§4-2) annet og tredje ledd gjelder tilsvarende.
 
-To eller flere uavhengige foretak kan inngå avtale om å ha sine pensjonsordninger i samme pensjonskasse (fellespensjonskasse). Avtalen skal i samsvar med reglene i [§ 2-9](lov/2005-06-10-44/§2-9) angi:hvilke foretak som omfattes av avtalen,grunnkapitalen i fellespensjonskassen og hvor stor andel hvert foretak skal skyte inn i fellespensjonskassen, og regler om plikt til senere å skyte inn kapital,fellespensjonskassens øverste organ med stemmerettsregler,hvilke former for kollektive pensjonsordninger som fellespensjonskassen skal overta,nærmere bestemmelser om følgene av oppkjøp og sammenslåing av foretak som har pensjonsordning i fellespensjonskassen,oppsigelsesfristen for foretak som vil tre ut av avtalen, og regler om adgangen til å utelukke et foretak fra fellespensjonskassen, samt om oppgjøret i samsvar med [§ 2-9](lov/2005-06-10-44/§2-9) fjerde ledd når et foretak går ut av fellespensjonskassen. Oppsigelse skal uansett kunne skje med tre måneders varsel med virkning fra det førstkommende årsskifte,om det skal benyttes samme premietariff eller ulike premietariffer for de forskjellige pensjonsordningene i fellespensjonskassen.
+To eller flere uavhengige foretak kan inngå avtale om å ha sine pensjonsordninger i samme pensjonskasse (fellespensjonskasse). Avtalen skal i samsvar med reglene i [§ 2-9](lov/2005-06-10-44/§2-9) angi:
+
+1. hvilke foretak som omfattes av avtalen,
+2. grunnkapitalen i fellespensjonskassen og hvor stor andel hvert foretak skal skyte inn i fellespensjonskassen, og regler om plikt til senere å skyte inn kapital,
+3. fellespensjonskassens øverste organ med stemmerettsregler,
+4. hvilke former for kollektive pensjonsordninger som fellespensjonskassen skal overta,
+5. nærmere bestemmelser om følgene av oppkjøp og sammenslåing av foretak som har pensjonsordning i fellespensjonskassen,
+6. oppsigelsesfristen for foretak som vil tre ut av avtalen, og regler om adgangen til å utelukke et foretak fra fellespensjonskassen, samt om oppgjøret i samsvar med [§ 2-9](lov/2005-06-10-44/§2-9) fjerde ledd når et foretak går ut av fellespensjonskassen. Oppsigelse skal uansett kunne skje med tre måneders varsel med virkning fra det førstkommende årsskifte,
+7. om det skal benyttes samme premietariff eller ulike premietariffer for de forskjellige pensjonsordningene i fellespensjonskassen.
 
 Kongen kan gi nærmere regler om pensjonsordninger og pensjonskasser som omfattes av paragrafen her, herunder forskrift om kommuners adgang til å ha pensjonsordning i interkommunal pensjonskasse og foretaks adgang til å ha pensjonsordning i fellespensjonskasse.
 
@@ -194,13 +202,22 @@ Første og annet ledd gjelder tilsvarende for et foretak som bare driver individ
 
 Foretaket skal til enhver tid ha pristariffer for beregning av premie for samtlige av de produkter eller produktkombinasjoner som foretaket tilbyr. Pristariffene skal angi hvilket samlet vederlag foretaket beregner seg for å overta de ulike typer av risiko som er knyttet til, og for å yte de ulike typer av tjenester som inngår i, de forskjellige produktene og produktkombinasjonene.
 
-Foretaket skal ved fastsettelsen av pristariffer skille mellom:pris for dekning av risiko knyttet til person,pris for forvaltning av midler knyttet til forsikringskontraktene, herunder foretakets risiko for avkastningsresultatet,pris for forvaltning av midler i særskilte investeringsporteføljer med investeringsvalg, og i tilfelle vederlag for avkastningsgaranti knyttet til porteføljene, ogpris for administrative tjenester.
+Foretaket skal ved fastsettelsen av pristariffer skille mellom:
+
+1. pris for dekning av risiko knyttet til person,
+2. pris for forvaltning av midler knyttet til forsikringskontraktene, herunder foretakets risiko for avkastningsresultatet,
+3. pris for forvaltning av midler i særskilte investeringsporteføljer med investeringsvalg, og i tilfelle vederlag for avkastningsgaranti knyttet til porteføljene, og
+4. pris for administrative tjenester.
 
 Pristariffene kan fastsette at forsikringstaker, i tillegg til beregnet premie for den enkelte kontrakt, skal betale et kontraktsgebyr ved begynnelsen av forsikringsforholdet, og et avbruddsgebyr dersom forsikringstaker avslutter forsikringsforholdet før forsikringstiden er utløpt. Kongen kan gi nærmere regler om størrelsen på slike gebyrer, og gjøre unntak for regelen i første punktum for kollektive livsforsikringer. Utover dette kan foretaket ikke kreve tillegg til premie beregnet etter gjeldende pristariffer.
 
 For fripoliser, pensjonsbevis og pensjonskapitalbevis som forvaltes med investeringsvalg kan foretaket hvert år kreve vederlag for administrative tjenester etter egen pristariff. For fortsettelsesforsikringer basert på fripoliser, pensjonsbevis eller pensjonskapitalbevis skal pristariffer for personrisiko og for forvaltning svare til de pristariffer som ligger til grunn for den aktuelle fripolisen, pensjonsbeviset eller pensjonskapitalbeviset. Kongen kan gi nærmere regler om pristariffer for fortsettelsesforsikringer, herunder unntak fra regelen i annet punktum.
 
-Ved utformingen av pristariffene skal foretaket sørge for at:foretakets premier vil stå i rimelig forhold til den risiko som overtas og de tjenester som ytes,foretakets premier vil være tilstrekkelige til å gi sikkerhet for at forpliktelsene etter inngåtte kontrakter blir oppfylt, og vil være betryggende ut fra foretakets økonomi, ogdet ikke vil skje urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
+Ved utformingen av pristariffene skal foretaket sørge for at:
+
+1. foretakets premier vil stå i rimelig forhold til den risiko som overtas og de tjenester som ytes,
+2. foretakets premier vil være tilstrekkelige til å gi sikkerhet for at forpliktelsene etter inngåtte kontrakter blir oppfylt, og vil være betryggende ut fra foretakets økonomi, og
+3. det ikke vil skje urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
 
 Kongen kan gi nærmere regler om pristariffer. Kongen kan også gi nærmere regler om rentesatser og andre beregningselementer som foretaket kan benytte ved utformingen av pristariffene.
 
@@ -366,7 +383,10 @@ Er foretakets risikoresultat negativt for en gruppe av kontrakter, kan kontrakte
 
 ### § 3-18. Anvendelse av overskudd tilordnet kontrakten
 
-Når annet ikke følger av [§§ 3-15](lov/2005-06-10-44/§3-15), [3-16](lov/2005-06-10-44/§3-16) eller [3-17](lov/2005-06-10-44/§3-17), gjelder følgende:Overskudd etter [§ 3-13](lov/2005-06-10-44/§3-13) første til tredje ledd og [§ 3-14](lov/2005-06-10-44/§3-14) tilordnet kontrakter som er regulert av foretakspensjonsloven, tjenestepensjonsloven eller innskuddspensjonsloven skal fordeles etter reglene om fordeling av avkastning i disse lovene.Overskudd tilordnet andre kontrakter skal anvendes i samsvar med det som er bestemt i kontrakten mellom foretaket og forsikringstakeren.
+Når annet ikke følger av [§§ 3-15](lov/2005-06-10-44/§3-15), [3-16](lov/2005-06-10-44/§3-16) eller [3-17](lov/2005-06-10-44/§3-17), gjelder følgende:
+
+1. Overskudd etter [§ 3-13](lov/2005-06-10-44/§3-13) første til tredje ledd og [§ 3-14](lov/2005-06-10-44/§3-14) tilordnet kontrakter som er regulert av foretakspensjonsloven, tjenestepensjonsloven eller innskuddspensjonsloven skal fordeles etter reglene om fordeling av avkastning i disse lovene.
+2. Overskudd tilordnet andre kontrakter skal anvendes i samsvar med det som er bestemt i kontrakten mellom foretaket og forsikringstakeren.
 
 > Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-14).
 
@@ -440,7 +460,11 @@ Hvis Norge kommer i krig, kan Kongen bestemme at ytelser etter livsforsikringsav
 
 ### § 4-1. Virkeområde
 
-Bestemmelsene i dette kapittel gjelder:pensjonsordninger med ytelsesbasert pensjon opprettet i livsforsikringsforetak eller i pensjonskasse av kommunal arbeidsgiver som er bundet av hovedtariffavtale inngått mellom arbeidsgiver- og arbeidstakerorganisasjonene i kommunal sektor, eller av tariffavtale med tilsvarende krav til pensjonsordning for kommunal arbeidsgiver,tilsvarende pensjonsordninger for statlige helseforetak og andre statlige foretak,tilsvarende pensjonsordninger for foretak hvor en kommune har den bestemmende innflytelse eller har eller har hatt en kommunal eierandel, eller som har nær tilknytning til en kommune.
+Bestemmelsene i dette kapittel gjelder:
+
+1. pensjonsordninger med ytelsesbasert pensjon opprettet i livsforsikringsforetak eller i pensjonskasse av kommunal arbeidsgiver som er bundet av hovedtariffavtale inngått mellom arbeidsgiver- og arbeidstakerorganisasjonene i kommunal sektor, eller av tariffavtale med tilsvarende krav til pensjonsordning for kommunal arbeidsgiver,
+2. tilsvarende pensjonsordninger for statlige helseforetak og andre statlige foretak,
+3. tilsvarende pensjonsordninger for foretak hvor en kommune har den bestemmende innflytelse eller har eller har hatt en kommunal eierandel, eller som har nær tilknytning til en kommune.
 
 Som kommunal pensjonsordning regnes her pensjonsordning som omfattes av første ledd.
 
@@ -736,7 +760,16 @@ Departementet kan ved forskrift fastsette nærmere regler om innbetaling av prem
 
 ### § 6-1. Virkeområde og flytterett
 
-Bestemmelsene i dette kapittel gjelder flytting mellom pensjonsinnretninger av:pensjonsordninger i henhold til foretakspensjonsloven,pensjonsordninger i henhold til tjenestepensjonslovenpensjonsordninger i henhold til innskuddspensjonsloven,pensjonsordninger som omfattes av [kapittel 4](lov/2005-06-10-44/kap4),andre kollektive pensjonsordninger,fripoliser, pensjonsbevis, pensjonskapitalbevis og tilsvarende individuelle pensjonsrettigheter utgått fra kollektive pensjonsordninger,individuelle pensjonsavtaler (pensjonsforsikrings- og livrentekontrakter, og andre pensjonsavtaler),andre livsforsikringskontrakter.
+Bestemmelsene i dette kapittel gjelder flytting mellom pensjonsinnretninger av:
+
+1. pensjonsordninger i henhold til foretakspensjonsloven,
+2. pensjonsordninger i henhold til tjenestepensjonsloven
+3. pensjonsordninger i henhold til innskuddspensjonsloven,
+4. pensjonsordninger som omfattes av [kapittel 4](lov/2005-06-10-44/kap4),
+5. andre kollektive pensjonsordninger,
+6. fripoliser, pensjonsbevis, pensjonskapitalbevis og tilsvarende individuelle pensjonsrettigheter utgått fra kollektive pensjonsordninger,
+7. individuelle pensjonsavtaler (pensjonsforsikrings- og livrentekontrakter, og andre pensjonsavtaler),
+8. andre livsforsikringskontrakter.
 
 Kontrakt som nevnt i første ledd bokstav a til h kan flyttes til annen pensjonsinnretning. Med flytting menes oppsigelse av kontrakten for overføring av tilhørende midler til en tilsvarende kontrakt opprettet i en annen pensjonsinnretning.
 
@@ -924,7 +957,11 @@ Opplysning om premien på en forsikring skal omfatte det samlede vederlag foreta
 
 Foretaket kan benytte forskjellig premie overfor ulike kundegrupper når aktuarberegninger eller risikostatistikk gir forsvarlig grunnlag for å legge til grunn at den forsikringsrisiko kunder innenfor de ulike gruppene representerer, vil være forskjellig.
 
-Foretaket skal ved utformingen av premietariffene og ved fastsettelse av premien sørge for at:foretakets premier vil stå i rimelig forhold til den risiko som overtas og de tjenester som ytes,foretakets premier vil være tilstrekkelige til å gi sikkerhet for at forpliktelsene etter inngåtte forsikringer blir oppfylt, og vil være betryggende ut fra foretakets økonomi,det ikke vil skje urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
+Foretaket skal ved utformingen av premietariffene og ved fastsettelse av premien sørge for at:
+
+1. foretakets premier vil stå i rimelig forhold til den risiko som overtas og de tjenester som ytes,
+2. foretakets premier vil være tilstrekkelige til å gi sikkerhet for at forpliktelsene etter inngåtte forsikringer blir oppfylt, og vil være betryggende ut fra foretakets økonomi,
+3. det ikke vil skje urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
 
 Foretaket skal gi melding til Finanstilsynet om fastsatte premietariffer for livsforsikringer som nevnt i [finansforetaksloven § 2-14](lov/2015-04-10-17/§2-14) annet ledd og om prinsippene for utformingen av slike premietariffer.
 

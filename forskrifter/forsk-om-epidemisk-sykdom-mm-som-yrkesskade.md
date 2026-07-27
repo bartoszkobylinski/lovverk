@@ -24,7 +24,48 @@ eu_basis: []
 
 ## I.
 
-Følgende klimat-sykdommer og epidemiske sykdommer skal stilles likt med yrkesskade etter nevnt lov:Epidemiske eller smittsomme sykdommer i fordøyelsesorganene:Cholera asiaticaAmoebiasisAndre bakterielle smittsomme sykdommer:PestisSykdommer som skyldes spirocheter:Leptospirosis (smittsom gulsot)Virussykdommer:Variola (kopper)Febris flava (gul feber)Rickettsioser:Febris exanthematica (typhus exanthematicus)Febris exanthematica per pulicem muris (flekktyfus ved rottelopper)Febris exanthematica, Typhus tropicus (herunder Tsutsugamushi eller japansk flodfeber)Malaria og andre protozoinfeksjoner (unntatt amoebiasis):Malaria vivaxMalaria quartanaMalaria tertiana (maligna)Malaria ovalisMalaria mixtaMalaria haemoglobinurica (blackwaterfeber)Malaria alia et non definitaFølger av kulde og lav temperatur under arbeid i ishavsstrøk.Følger av sterk varme og sol under arbeid i tropiske eller subtropiske strøk.
+Følgende klimat-sykdommer og epidemiske sykdommer skal stilles likt med yrkesskade etter nevnt lov:
+
+1. Epidemiske eller smittsomme sykdommer i fordøyelsesorganene:
+
+   Cholera asiatica
+
+   Amoebiasis
+2. Andre bakterielle smittsomme sykdommer:
+
+   Pestis
+3. Sykdommer som skyldes spirocheter:
+
+   Leptospirosis (smittsom gulsot)
+4. Virussykdommer:
+
+   Variola (kopper)
+
+   Febris flava (gul feber)
+5. Rickettsioser:
+
+   Febris exanthematica (typhus exanthematicus)
+
+   Febris exanthematica per pulicem muris (flekktyfus ved rottelopper)
+
+   Febris exanthematica, Typhus tropicus (herunder Tsutsugamushi eller japansk flodfeber)
+6. Malaria og andre protozoinfeksjoner (unntatt amoebiasis):
+
+   Malaria vivax
+
+   Malaria quartana
+
+   Malaria tertiana (maligna)
+
+   Malaria ovalis
+
+   Malaria mixta
+
+   Malaria haemoglobinurica (blackwaterfeber)
+
+   Malaria alia et non definita
+7. Følger av kulde og lav temperatur under arbeid i ishavsstrøk.
+8. Følger av sterk varme og sol under arbeid i tropiske eller subtropiske strøk.
 
 ## II.
 

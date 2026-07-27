@@ -15,7 +15,7 @@ xml_hash: "a91120ad09ddc254955a31ef3af399f0d88fab649dd6b494d7e0cde012dd13ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32014R0596"
@@ -66,7 +66,17 @@ Departementet kan i forskrift gi nærmere bestemmelser om verdipapirforetak, mar
 
 ### § 2-1. Investeringstjenester og investeringsvirksomhet
 
-(1) Med investeringstjenester og investeringsvirksomhet menes:mottak og formidling av ordre knyttet til ett eller flere finansielle instrumenter,utførelse av ordre på vegne av kunde,omsetning av finansielle instrumenter for egen regning,porteføljeforvaltning,investeringsrådgivning,fulltegningsgaranti for finansielle instrumenter eller plassering av finansielle instrumenter med fulltegningsgaranti,plassering av finansielle instrumenter der foretaket ikke avgir fulltegningsgaranti,drift av en multilateral handelsfasilitet,drift av en organisert handelsfasilitet.
+(1) Med investeringstjenester og investeringsvirksomhet menes:
+
+1. mottak og formidling av ordre knyttet til ett eller flere finansielle instrumenter,
+2. utførelse av ordre på vegne av kunde,
+3. omsetning av finansielle instrumenter for egen regning,
+4. porteføljeforvaltning,
+5. investeringsrådgivning,
+6. fulltegningsgaranti for finansielle instrumenter eller plassering av finansielle instrumenter med fulltegningsgaranti,
+7. plassering av finansielle instrumenter der foretaket ikke avgir fulltegningsgaranti,
+8. drift av en multilateral handelsfasilitet,
+9. drift av en organisert handelsfasilitet.
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -74,7 +84,19 @@ Departementet kan i forskrift gi nærmere bestemmelser om verdipapirforetak, mar
 
 ### § 2-2. Finansielle instrumenter
 
-(1) Med finansielle instrumenter menes:omsettelige verdipapirer,pengemarkedsinstrumenter,andeler i innretning for kollektiv investering,opsjoner, terminer, bytteavtaler, fremtidige renteavtaler og alle andre derivatkontrakter som gjelder verdipapirer, valutaer, renter, avkastning eller utslippskvoter, eller andre derivater, finansindekser eller finansielle mål som kan gjøres opp fysisk eller kontant,opsjoner, terminer, bytteavtaler, forwardkontrakter og alle andre derivatkontrakter som gjelder varer og som må gjøres opp kontant, eller som kan gjøres opp kontant dersom en av partene ønsker det av en annen grunn enn mislighold eller annen hendelse som fører til heving av kontrakten,opsjoner, terminer, bytteavtaler og alle andre derivatkontrakter som gjelder varer og som kan gjøres opp fysisk, forutsatt at de omsettes på et regulert marked, en multilateral handelsfasilitet eller en organisert handelsfasilitet, unntatt engroshandlede energiprodukter som handles på en organisert handelsfasilitet og må gjøres opp fysisk,opsjoner, terminer, bytteavtaler, forwardkontrakter og alle andre derivatkontrakter som gjelder varer og har egenskaper som andre finansielle derivater, som kan gjøres opp fysisk dersom ikke annet er nevnt i nr. 6, og som ikke har et kommersielt formål,derivater for overføring av kredittrisiko,finansielle differansekontrakter,opsjoner, terminer, bytteavtaler, fremtidige renteavtaler og alle andre derivatkontrakter som gjelder klimavariasjoner, fraktrater eller inflasjonsrater eller andre offisielle økonomiske statistikker, som må gjøres opp kontant eller kan gjøres opp kontant dersom en av partene ønsker det av en annen grunn enn mislighold eller en annen hendelse som fører til heving av kontrakten, samt alle andre derivatkontrakter som gjelder eiendeler, rettigheter, forpliktelser, indekser og mål som ikke ellers er nevnt i bestemmelsen her, og som har egenskaper som andre finansielle derivater, idet det blant annet tas hensyn til om de omsettes på et regulert marked, på en multilateral handelsfasilitet eller en organisert handelsfasilitet,utslippskvoter etter klimakvoteloven.
+(1) Med finansielle instrumenter menes:
+
+1. omsettelige verdipapirer,
+2. pengemarkedsinstrumenter,
+3. andeler i innretning for kollektiv investering,
+4. opsjoner, terminer, bytteavtaler, fremtidige renteavtaler og alle andre derivatkontrakter som gjelder verdipapirer, valutaer, renter, avkastning eller utslippskvoter, eller andre derivater, finansindekser eller finansielle mål som kan gjøres opp fysisk eller kontant,
+5. opsjoner, terminer, bytteavtaler, forwardkontrakter og alle andre derivatkontrakter som gjelder varer og som må gjøres opp kontant, eller som kan gjøres opp kontant dersom en av partene ønsker det av en annen grunn enn mislighold eller annen hendelse som fører til heving av kontrakten,
+6. opsjoner, terminer, bytteavtaler og alle andre derivatkontrakter som gjelder varer og som kan gjøres opp fysisk, forutsatt at de omsettes på et regulert marked, en multilateral handelsfasilitet eller en organisert handelsfasilitet, unntatt engroshandlede energiprodukter som handles på en organisert handelsfasilitet og må gjøres opp fysisk,
+7. opsjoner, terminer, bytteavtaler, forwardkontrakter og alle andre derivatkontrakter som gjelder varer og har egenskaper som andre finansielle derivater, som kan gjøres opp fysisk dersom ikke annet er nevnt i nr. 6, og som ikke har et kommersielt formål,
+8. derivater for overføring av kredittrisiko,
+9. finansielle differansekontrakter,
+10. opsjoner, terminer, bytteavtaler, fremtidige renteavtaler og alle andre derivatkontrakter som gjelder klimavariasjoner, fraktrater eller inflasjonsrater eller andre offisielle økonomiske statistikker, som må gjøres opp kontant eller kan gjøres opp kontant dersom en av partene ønsker det av en annen grunn enn mislighold eller en annen hendelse som fører til heving av kontrakten, samt alle andre derivatkontrakter som gjelder eiendeler, rettigheter, forpliktelser, indekser og mål som ikke ellers er nevnt i bestemmelsen her, og som har egenskaper som andre finansielle derivater, idet det blant annet tas hensyn til om de omsettes på et regulert marked, på en multilateral handelsfasilitet eller en organisert handelsfasilitet,
+11. utslippskvoter etter klimakvoteloven.
 
 (2) Som finansielle instrumenter etter første ledd regnes også slike instrumenter som er utstedt ved hjelp av desentralisert registerteknologi som nevnt i forordning [(EU) 2022/858](eu/32022r0858) artikkel 2 punkt 1.
 
@@ -98,7 +120,11 @@ Departementet kan i forskrift gi nærmere bestemmelser om verdipapirforetak, mar
 
 ### § 2-4. Definisjoner knyttet til finansielle instrumenter
 
-(1) Med omsettelige verdipapirer menes de klasser av verdipapirer som kan omsettes på kapitalmarkedet, herunder:aksjer og andre verdipapirer som kan sidestilles med aksjer, samt depotbevis for slike,obligasjoner og andre gjeldsinstrumenter, samt depotbevis for slike,alle andre verdipapirer som gir rett til å erverve eller selge slike omsettelige verdipapirer, eller som gir rett til kontant oppgjør avregnet mot omsettelige verdipapirer, valutaer, rentesatser eller renteavkastning, varer eller andre indekser eller andre referanser.
+(1) Med omsettelige verdipapirer menes de klasser av verdipapirer som kan omsettes på kapitalmarkedet, herunder:
+
+1. aksjer og andre verdipapirer som kan sidestilles med aksjer, samt depotbevis for slike,
+2. obligasjoner og andre gjeldsinstrumenter, samt depotbevis for slike,
+3. alle andre verdipapirer som gir rett til å erverve eller selge slike omsettelige verdipapirer, eller som gir rett til kontant oppgjør avregnet mot omsettelige verdipapirer, valutaer, rentesatser eller renteavkastning, varer eller andre indekser eller andre referanser.
 
 (2) Med depotbevis menes verdipapirer som kan omsettes på kapitalmarkedet, som representerer eierskap til verdipapirer utstedt av en utenlandsk utsteder, og som kan tas opp til handel på regulert marked og kan handles på selvstendig grunnlag.
 
@@ -114,7 +140,10 @@ Departementet kan i forskrift gi nærmere bestemmelser om verdipapirforetak, mar
 
 (8) Med varederivater menes finansielle instrumenter som nevnt i første ledd nr. 3 som er knyttet til en vare eller underliggende instrument som nevnt i [§ 2-2](lov/2007-06-29-75/§2-2) første ledd nr. 10, eller finansielle instrumenter som nevnt i [§ 2-2](lov/2007-06-29-75/§2-2) første ledd nr. 5, 6, 7 og 10.
 
-(9) Med landbruksvarederivater menes varederivater som gjelder produkter nevnt i:[artikkel 1](eu/32013r1308/a1) og vedlegg I del I til XX og XXIV/1 til forordning [(EU) nr. 1308/2013](eu/32013r1308), ellervedlegg I til forordning [(EU) nr. 1379/2013](eu/32013r1379).
+(9) Med landbruksvarederivater menes varederivater som gjelder produkter nevnt i:
+
+1. [artikkel 1](eu/32013r1308/a1) og vedlegg I del I til XX og XXIV/1 til forordning [(EU) nr. 1308/2013](eu/32013r1308), eller
+2. vedlegg I til forordning [(EU) nr. 1379/2013](eu/32013r1379).
 
 (10) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -122,13 +151,27 @@ Departementet kan i forskrift gi nærmere bestemmelser om verdipapirforetak, mar
 
 ### § 2-5. Nærstående
 
-Som noens nærstående menes:ektefelle eller en person som vedkommende bor sammen med i ekteskapslignende forhold,mindreårige barn til vedkommende selv, samt mindreårige barn til en person som nevnt i nr. 1 som vedkommende bor sammen med,selskap innen samme konsern som vedkommende,selskap hvor vedkommende selv eller noen som er nevnt i nr. 1, 2 eller 5, har slik innflytelse som nevnt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) annet ledd, [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3) annet ledd eller [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) annet ledd,noen som det må antas at vedkommende har forpliktende samarbeid med når det gjelder å gjøre bruk av rettighetene som eier av et finansielt instrument, herunder samarbeid der et tilbud vanskeliggjøres eller hindres.
+Som noens nærstående menes:
+
+1. ektefelle eller en person som vedkommende bor sammen med i ekteskapslignende forhold,
+2. mindreårige barn til vedkommende selv, samt mindreårige barn til en person som nevnt i nr. 1 som vedkommende bor sammen med,
+3. selskap innen samme konsern som vedkommende,
+4. selskap hvor vedkommende selv eller noen som er nevnt i nr. 1, 2 eller 5, har slik innflytelse som nevnt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) annet ledd, [allmennaksjeloven § 1-3](lov/1997-06-13-45/§1-3) annet ledd eller [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) annet ledd,
+5. noen som det må antas at vedkommende har forpliktende samarbeid med når det gjelder å gjøre bruk av rettighetene som eier av et finansielt instrument, herunder samarbeid der et tilbud vanskeliggjøres eller hindres.
 
 > Endret ved lov [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713)).
 
 ### § 2-6. Tilknyttede tjenester
 
-(1) Med tilknyttede tjenester menes:oppbevaring og administrasjon av finansielle instrumenter på kunders vegne, inkludert forvaltning av kontanter og sikkerhetstillelse, samt andre forvaltningstjenester. Dette omfatter ikke virksomhet som består i levering og vedlikehold av verdipapirkontoer etter avsnitt A punkt 2 i vedlegg til forordning [(EU) nr. 909/2014](eu/32014r0909*),yting av kreditt til en investor som foretar transaksjoner i finansielle instrumenter, når foretaket som yter kreditten er involvert i transaksjonen,rådgivning om foretaks kapitalstruktur, industrielle strategi og beslektede spørsmål, samt rådgivning og tjenester i forbindelse med fusjoner og oppkjøp av foretak,tjenester i tilknytning til valutavirksomhet når dette skjer i forbindelse med ytelse av investeringstjenester,utarbeidelse og formidling av investeringsanbefalinger, finansielle analyser og andre former for generelle anbefalinger vedrørende transaksjoner i finansielle instrumenter,tjenester i tilknytning til fulltegningsgaranti,tjenester i tilknytning til underliggende til derivater og varederivater som definert i [§ 2-4](lov/2007-06-29-75/§2-4) nr. 7 og 8, når disse tjenestene har sammenheng med investeringstjenester eller tilknyttede tjenester.
+(1) Med tilknyttede tjenester menes:
+
+1. oppbevaring og administrasjon av finansielle instrumenter på kunders vegne, inkludert forvaltning av kontanter og sikkerhetstillelse, samt andre forvaltningstjenester. Dette omfatter ikke virksomhet som består i levering og vedlikehold av verdipapirkontoer etter avsnitt A punkt 2 i vedlegg til forordning [(EU) nr. 909/2014](eu/32014r0909*),
+2. yting av kreditt til en investor som foretar transaksjoner i finansielle instrumenter, når foretaket som yter kreditten er involvert i transaksjonen,
+3. rådgivning om foretaks kapitalstruktur, industrielle strategi og beslektede spørsmål, samt rådgivning og tjenester i forbindelse med fusjoner og oppkjøp av foretak,
+4. tjenester i tilknytning til valutavirksomhet når dette skjer i forbindelse med ytelse av investeringstjenester,
+5. utarbeidelse og formidling av investeringsanbefalinger, finansielle analyser og andre former for generelle anbefalinger vedrørende transaksjoner i finansielle instrumenter,
+6. tjenester i tilknytning til fulltegningsgaranti,
+7. tjenester i tilknytning til underliggende til derivater og varederivater som definert i [§ 2-4](lov/2007-06-29-75/§2-4) nr. 7 og 8, når disse tjenestene har sammenheng med investeringstjenester eller tilknyttede tjenester.
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -162,7 +205,12 @@ Som noens nærstående menes:ektefelle eller en person som vedkommende bor samme
 
 ### § 2-8. Andre definisjoner
 
-(1) Med strukturerte innskudd menes innskudd hvor hovedstolen skal tilbakebetales i sin helhet ved forfall og hvor avkastningen kan avhenge av:en indeks eller en kombinasjon av indekser som ikke i sin helhet er knyttet til en renteindeks,et finansielt instrument eller en kombinasjon av finansielle instrumenter,en vare eller en kombinasjon av varer eller andre fysiske eller ikke-fysiske eiendeler, elleren valuta eller en kombinasjon av valutaer.
+(1) Med strukturerte innskudd menes innskudd hvor hovedstolen skal tilbakebetales i sin helhet ved forfall og hvor avkastningen kan avhenge av:
+
+1. en indeks eller en kombinasjon av indekser som ikke i sin helhet er knyttet til en renteindeks,
+2. et finansielt instrument eller en kombinasjon av finansielle instrumenter,
+3. en vare eller en kombinasjon av varer eller andre fysiske eller ikke-fysiske eiendeler, eller
+4. en valuta eller en kombinasjon av valutaer.
 
 (2) Med prisstiller menes person som på kontinuerlig grunnlag tilbyr kjøp eller salg av finansielle instrumenter for egen regning, til priser som personen selv fastsetter.
 
@@ -318,9 +366,20 @@ Bestemmelsene i dette kapittel gjelder for aksjer opptatt til handel på reguler
 
 ### § 4-3. Flagging av andre finansielle instrumenter
 
-(1) Plikten til å sende melding etter [§ 4-2](lov/2007-06-29-75/§4-2) første ledd gjelder tilsvarende for den som direkte eller indirekte innehar, erverver eller avhenderfinansielle instrumenter som ved forfall gir innehaveren en ubetinget rett til eller rett til etter eget skjønn å erverve allerede utstedte aksjer som det er knyttet stemmerett til,finansielle instrumenter som ikke er omfattet av nr. 1, men som er knyttet til aksjer nevnt i nr. 1, og har lignende økonomisk virkning som finansielle instrumenter nevnt i nr. 1, uansett om de gir rett til fysisk eller finansielt oppgjør.
+(1) Plikten til å sende melding etter [§ 4-2](lov/2007-06-29-75/§4-2) første ledd gjelder tilsvarende for den som direkte eller indirekte innehar, erverver eller avhender
 
-(2) Følgende skal anses som finansielle instrumenter etter første ledd:omsettelige verdipapirer,opsjoner,terminkontrakter med løpende avregning,bytteavtaler,framtidige renteavtaler,differansekontrakter,alle andre kontrakter eller avtaler med lignende økonomiske virkninger som kan gjøres opp fysisk eller finansielt.
+1. finansielle instrumenter som ved forfall gir innehaveren en ubetinget rett til eller rett til etter eget skjønn å erverve allerede utstedte aksjer som det er knyttet stemmerett til,
+2. finansielle instrumenter som ikke er omfattet av nr. 1, men som er knyttet til aksjer nevnt i nr. 1, og har lignende økonomisk virkning som finansielle instrumenter nevnt i nr. 1, uansett om de gir rett til fysisk eller finansielt oppgjør.
+
+(2) Følgende skal anses som finansielle instrumenter etter første ledd:
+
+1. omsettelige verdipapirer,
+2. opsjoner,
+3. terminkontrakter med løpende avregning,
+4. bytteavtaler,
+5. framtidige renteavtaler,
+6. differansekontrakter,
+7. alle andre kontrakter eller avtaler med lignende økonomiske virkninger som kan gjøres opp fysisk eller finansielt.
 
 (3) Antallet stemmeretter skal beregnes ut fra det totale nominelle antallet aksjer som er underliggende for det finansielle instrumentet. Dersom det finansielle instrumentet utelukkende gir mulighet for finansielt oppgjør, skal antallet stemmeretter beregnes på deltajustert grunnlag ved å multiplisere det nominelle antallet underliggende aksjer med instrumentets deltaverdi. Alle finansielle instrumenter som er knyttet til samme underliggende utsteder, skal legges sammen og meldes. Bare lange posisjoner skal tas med i beregningen av stemmeretter. Lange posisjoner skal ikke avregnes mot korte posisjoner knyttet til samme underliggende utsteder.
 
@@ -332,11 +391,28 @@ Bestemmelsene i dette kapittel gjelder for aksjer opptatt til handel på reguler
 
 ### § 4-4. Flagging som følge av annen omstendighet
 
-(1) Plikten til å sende melding etter [§ 4-2](lov/2007-06-29-75/§4-2) første ledd gjelder tilsvarende for stemmeretter som den flaggepliktige innehar i følgende situasjoner:stemmeretter som innehas av en tredjeperson og som den flaggepliktige etter avtale har forpliktet seg til å føre en langsiktig, felles strategi med, ved samordnet utøvelse av stemmeretter,midlertidig overdragelse av stemmerett til den flaggepliktige mot vederlag,aksjer med stemmeretter som den flaggepliktige mottar som sikkerhet, og hvor den flaggepliktige kan utøve stemmerett etter eget skjønn og erklærer at vedkommende har til hensikt å stemme for aksjene,aksjer med stemmerett som den flaggepliktige har fått evigvarende rettigheter til,aksjer med stemmerett som den flaggepliktige mottar for deponering, og der den flaggepliktige i mangel av instruks kan stemme for aksjene etter eget skjønn,aksjer med stemmerett som en tredjeperson oppbevarer i eget navn på vegne av den flaggepliktige,tildeling eller tilbakekall av fullmakt uten instruks til den flaggepliktige.Innehav av aksjer skal beregnes ved både inngåelse og opphør av slike avtaler, herunder ved tildeling og tilbakekall av fullmakt.
+(1) Plikten til å sende melding etter [§ 4-2](lov/2007-06-29-75/§4-2) første ledd gjelder tilsvarende for stemmeretter som den flaggepliktige innehar i følgende situasjoner:
+
+1. stemmeretter som innehas av en tredjeperson og som den flaggepliktige etter avtale har forpliktet seg til å føre en langsiktig, felles strategi med, ved samordnet utøvelse av stemmeretter,
+2. midlertidig overdragelse av stemmerett til den flaggepliktige mot vederlag,
+3. aksjer med stemmeretter som den flaggepliktige mottar som sikkerhet, og hvor den flaggepliktige kan utøve stemmerett etter eget skjønn og erklærer at vedkommende har til hensikt å stemme for aksjene,
+4. aksjer med stemmerett som den flaggepliktige har fått evigvarende rettigheter til,
+5. aksjer med stemmerett som den flaggepliktige mottar for deponering, og der den flaggepliktige i mangel av instruks kan stemme for aksjene etter eget skjønn,
+6. aksjer med stemmerett som en tredjeperson oppbevarer i eget navn på vegne av den flaggepliktige,
+7. tildeling eller tilbakekall av fullmakt uten instruks til den flaggepliktige.
+
+Innehav av aksjer skal beregnes ved både inngåelse og opphør av slike avtaler, herunder ved tildeling og tilbakekall av fullmakt.
 
 (2) Plikten til å sende melding etter [§ 4-2](lov/2007-06-29-75/§4-2) første og annet ledd og [§ 4-3](lov/2007-06-29-75/§4-3) første ledd gjelder også for en fysisk eller juridisk person som har rett til å erverve, avhende eller utøve stemmeretter som innehas eller kan utøves etter første ledd nr. 1 til 4, av et kontrollert foretak.
 
-(3) Med kontrollert foretak etter annet ledd menes foretak der den fysiske eller juridiske personeninnehar flertallet av stemmerettene,har rett til å utnevne eller avsette flertallet av medlemmene i administrasjons-, ledelses- eller kontrollorganet og samtidig er aksjeeier eller deltaker i foretaket,er aksjeeier eller deltaker og alene kontrollerer flertallet av aksjeeiernes og deltakernes stemmeretter etter avtale inngått med andre aksjeeiere eller deltakere i foretaket, ellerhar rett til å øve, eller faktisk øver, dominerende innflytelse eller kontroll.Rett til å utnevne og avsette medlemmer til organer som nevnt i nr. 2 omfatter rettigheter som innehas av ethvert annet foretak som kontrolleres av aksjeeieren, og rettigheter som innehas av en fysisk eller juridisk person som opptrer på vegne av aksjeeieren, eller på vegne av annet foretak som kontrolleres av aksjeeieren, selv om vedkommende opptrer i eget navn.
+(3) Med kontrollert foretak etter annet ledd menes foretak der den fysiske eller juridiske personen
+
+1. innehar flertallet av stemmerettene,
+2. har rett til å utnevne eller avsette flertallet av medlemmene i administrasjons-, ledelses- eller kontrollorganet og samtidig er aksjeeier eller deltaker i foretaket,
+3. er aksjeeier eller deltaker og alene kontrollerer flertallet av aksjeeiernes og deltakernes stemmeretter etter avtale inngått med andre aksjeeiere eller deltakere i foretaket, eller
+4. har rett til å øve, eller faktisk øver, dominerende innflytelse eller kontroll.
+
+Rett til å utnevne og avsette medlemmer til organer som nevnt i nr. 2 omfatter rettigheter som innehas av ethvert annet foretak som kontrolleres av aksjeeieren, og rettigheter som innehas av en fysisk eller juridisk person som opptrer på vegne av aksjeeieren, eller på vegne av annet foretak som kontrolleres av aksjeeieren, selv om vedkommende opptrer i eget navn.
 
 (4) Meldeplikten etter [§ 4-2](lov/2007-06-29-75/§4-2) første ledd gjelder også for fysiske eller juridiske personer som direkte eller indirekte innehar aksjer på vegne av andre i eget navn.
 
@@ -348,7 +424,10 @@ Bestemmelsene i dette kapittel gjelder for aksjer opptatt til handel på reguler
 
 ### § 4-5. Unntak fra flaggeplikten
 
-(1) Plikten til å sende melding etter [§§ 4-2](lov/2007-06-29-75/§4-2) og [4-3](lov/2007-06-29-75/§4-3) gjelder ikkeerverv som er foretatt utelukkende for å sikre avvikling av oppgjør innen en periode på to handelsdager etter at handelen er utført,prisstillers erverv eller avhending av en betydelig eierandel som når eller overstiger terskelverdien på 5 prosent, når denne opptrer som prisstiller, forutsatt at prisstilleren ikke påvirker forvaltningen av selskapet eller øver innflytelse på utstederen for at denne skal kjøpe slike aksjer eller rettigheter eller støtte aksjekursen
+(1) Plikten til å sende melding etter [§§ 4-2](lov/2007-06-29-75/§4-2) og [4-3](lov/2007-06-29-75/§4-3) gjelder ikke
+
+1. erverv som er foretatt utelukkende for å sikre avvikling av oppgjør innen en periode på to handelsdager etter at handelen er utført,
+2. prisstillers erverv eller avhending av en betydelig eierandel som når eller overstiger terskelverdien på 5 prosent, når denne opptrer som prisstiller, forutsatt at prisstilleren ikke påvirker forvaltningen av selskapet eller øver innflytelse på utstederen for at denne skal kjøpe slike aksjer eller rettigheter eller støtte aksjekursen
 
 (2) Aksjer eller eksponeringer som nevnt i [§ 4-3](lov/2007-06-29-75/§4-3) første ledd i handelsporteføljen til et verdipapirforetak eller en kredittinstitusjon skal ikke medregnes i institusjonens beholdning dersom denne ikke utøver stemmerettene eller på annen måte benytter disse til å påvirke forvaltningen av selskapet, og aksjene eller eksponeringen i handelsporteføljen hver for seg ikke overstiger terskelverdien på 5 prosent.
 
@@ -406,7 +485,10 @@ Bestemmelsene i dette kapittel gjelder for aksjer opptatt til handel på reguler
 
 (1) [§§ 5-5](lov/2007-06-29-75/§5-5) til [5-10](lov/2007-06-29-75/§5-10) gjelder for utstedere av omsettelige verdipapirer som er opptatt til handel på regulert marked når Norge er hjemstat etter bestemmelsen her.
 
-(2) Norge er hjemstat for utsteder fra EØS som har forretningskontor her, dersom utstederhar utstedt aksjer, ellerhar utstedt gjeldsinstrumenter hvis pålydende verdi per enhet er mindre enn 1 000 euro, eller tilsvarende verdi i annen valuta.
+(2) Norge er hjemstat for utsteder fra EØS som har forretningskontor her, dersom utsteder
+
+1. har utstedt aksjer, eller
+2. har utstedt gjeldsinstrumenter hvis pålydende verdi per enhet er mindre enn 1 000 euro, eller tilsvarende verdi i annen valuta.
 
 (3) Norge er hjemstat for utsteder fra land utenfor EØS som har utstedt omsettelige verdipapirer som nevnt i annet ledd nr. 1 eller 2, dersom verdipapirene er opptatt til handel på norsk regulert marked og utsteder har valgt Norge som hjemstat frem til ny hjemstat er valgt og offentliggjort etter femte og sjette ledd.
 
@@ -432,7 +514,11 @@ Bestemmelsene i dette kapittel gjelder for aksjer opptatt til handel på reguler
 
 (1) Utstederen skal utarbeide årsrapport i henhold til bestemmelser fastsatt i og i medhold av denne lov. Årsrapporten skal offentliggjøres senest fire måneder etter regnskapsårets utgang. Utstederen skal sørge for at årsrapporten forblir offentlig i minst ti år.
 
-(2) Årsrapporten skal omfatte revidert årsregnskap og årsberetning. Årsrapporten skal i tillegg inneholde erklæringer fra de personene som er ansvarlige hos utstederen, med tydelig angivelse av deres navn og rolle, om følgende forhold:at årsregnskapet, etter deres beste overbevisning, er utarbeidet i samsvar med gjeldende regnskapsstandarder og at opplysningene i regnskapet gir et rettvisende bilde av foretakets og konsernets eiendeler, gjeld, finansielle stilling og resultat,at årsberetningen gir en rettvisende oversikt over utviklingen, resultatet og stillingen til foretaket og konsernet, sammen med en beskrivelse av de mest sentrale risiko- og usikkerhetsfaktorer foretakene står overfor, ogat årsberetningen, der dette kreves, er utarbeidet i samsvar med standarder for bærekraftsrapportering som er fastsatt i medhold av [regnskapsloven § 2-6](lov/1998-07-17-56/§2-6), og i samsvar med regler fastsatt i medhold av taksonomiforordningen artikkel 8 nr. 4.
+(2) Årsrapporten skal omfatte revidert årsregnskap og årsberetning. Årsrapporten skal i tillegg inneholde erklæringer fra de personene som er ansvarlige hos utstederen, med tydelig angivelse av deres navn og rolle, om følgende forhold:
+
+1. at årsregnskapet, etter deres beste overbevisning, er utarbeidet i samsvar med gjeldende regnskapsstandarder og at opplysningene i regnskapet gir et rettvisende bilde av foretakets og konsernets eiendeler, gjeld, finansielle stilling og resultat,
+2. at årsberetningen gir en rettvisende oversikt over utviklingen, resultatet og stillingen til foretaket og konsernet, sammen med en beskrivelse av de mest sentrale risiko- og usikkerhetsfaktorer foretakene står overfor, og
+3. at årsberetningen, der dette kreves, er utarbeidet i samsvar med standarder for bærekraftsrapportering som er fastsatt i medhold av [regnskapsloven § 2-6](lov/1998-07-17-56/§2-6), og i samsvar med regler fastsatt i medhold av taksonomiforordningen artikkel 8 nr. 4.
 
 (3) Dersom utstederen skal utarbeide konsernregnskap etter [regnskapsloven § 3-2 tredje ledd](lov/1998-07-17-56/§3-2/ledd/3) eller lovgivningen i en EØS-stat, skal det reviderte årsregnskapet bestå av konsernregnskap utarbeidet i samsvar med forordning [(EF) nr. 1606/2002](eu/32002r1606), jf. [regnskapsloven § 3-9 første](lov/1998-07-17-56/§3-9/ledd/1) og [annet ledd](lov/1998-07-17-56/§3-9/ledd/2). Selskapsregnskapet til morselskapet skal være utarbeidet i samsvar med lovgivningen i den EØS-staten der morselskapet har sitt forretningskontor. Dersom det ikke kreves at utstederen skal utarbeide konsernregnskap, skal det reviderte årsregnskapet bestå av regnskap utarbeidet i samsvar med lovgivningen i den EØS-staten der utstederen har sitt forretningskontor.
 
@@ -466,7 +552,14 @@ Departementet kan i forskrift fastsette at rapporteringsplikten etter første le
 
 (1) Utsteder skal utarbeide halvårsrapport for regnskapsårets første seks måneder i henhold til bestemmelser fastsatt i og i medhold av denne lov. Halvårsrapporten skal offentliggjøres så raskt som mulig og senest to måneder etter regnskapsperiodens utgang. Utsteder skal sørge for at halvårsårsrapport forblir offentlig i minst ti år.
 
-(2) Halvårsrapporten skal inneholde:sammendrag av finansregnskap (halvårsregnskap),halvårsberetning, ogerklæringer fra de personene som er ansvarlige hos utstederen, med tydelig angivelse av navn og stillingsbetegnelse, om athalvårsregnskapet, etter deres beste overbevisning, er utarbeidet i samsvar med gjeldende regnskapsstandarder og at opplysningene i regnskapet gir et rettvisende bilde av foretaket og konsernets eiendeler, gjeld, finansielle stilling og resultat som helhet, samt athalvårsberetningen, etter deres beste overbevisning, gir en rettvisende oversikt over opplysningene nevnt i fjerde ledd.
+(2) Halvårsrapporten skal inneholde:
+
+1. sammendrag av finansregnskap (halvårsregnskap),
+2. halvårsberetning, og
+3. erklæringer fra de personene som er ansvarlige hos utstederen, med tydelig angivelse av navn og stillingsbetegnelse, om at
+
+   1. halvårsregnskapet, etter deres beste overbevisning, er utarbeidet i samsvar med gjeldende regnskapsstandarder og at opplysningene i regnskapet gir et rettvisende bilde av foretaket og konsernets eiendeler, gjeld, finansielle stilling og resultat som helhet, samt at
+   2. halvårsberetningen, etter deres beste overbevisning, gir en rettvisende oversikt over opplysningene nevnt i fjerde ledd.
 
 (3) Utsteder som er pliktig å utarbeide konsernregnskap etter [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9) første og annet ledd, etter nasjonal lovgivning som gjennomfører forordning [(EF) nr. 1606/2002](eu/32002r1606)1 eller tilsvarende regler i land utenfor EØS, skal ved utarbeiding av halvårsregnskapet benytte den internasjonale regnskapsstandard for delårsregnskaper. Dersom utsteder ikke er forpliktet til å utarbeide konsernregnskap, skal halvårsregnskapet minst inneholde sammenfattede balansetall, sammenfattede tall over inntekt og tap og forklarende noter vedrørende disse tallene. Ved utarbeidelsen av halvårsregnskapet skal utsteder benytte samme krav til prinsippanvendelse for innregning og måling som ved utarbeidelse av årsregnskapet.
 
@@ -486,7 +579,9 @@ Departementet fastsetter forskrift til gjennomføring av direktiv [2004/109/EF](
 
 > Endret ved lov [25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)).
 
-1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 29d.2 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10d.
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 29d.
+
+2 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10d.
 
 ### § 5-8. Endringer i aksjekapital, rettigheter, lån og vedtekter
 
@@ -590,19 +685,31 @@ Departementet fastsetter forskrift til gjennomføring av direktiv [2004/109/EF](
 
 (1) Den som gjennom erverv blir eier av aksjer som representerer mer enn 1/3 av stemmene i et norsk selskap hvis aksjer er notert på norsk regulert marked (notert selskap), plikter å gi tilbud om kjøp av de øvrige aksjene i selskapet. Tilbudsplikten bortfaller dersom det foretas salg i samsvar med [§ 6-8](lov/2007-06-29-75/§6-8), jf. [§ 6-9](lov/2007-06-29-75/§6-9).
 
-(2) Som erverv etter første ledd regnes også erverv av:aksjer som representerer mer enn 50 prosent av stemmene i et selskap hvis vesentligste virksomhet består i å eie aksjer i et selskap som nevnt i første ledd,andel i ansvarlig selskap eller kommandittselskap som eier aksjer i selskap som nevnt i første ledd, der andelshaverne bare er nærstående som nevnt i [§ 2-5](lov/2007-06-29-75/§2-5),tilsvarende andel i utenlandsk selskap som svarer til selskapsformer som nevnt i nr. 1 og 2, samt andre utenlandske foretak dersom tilbudsmyndigheten bestemmer dette.
+(2) Som erverv etter første ledd regnes også erverv av:
+
+1. aksjer som representerer mer enn 50 prosent av stemmene i et selskap hvis vesentligste virksomhet består i å eie aksjer i et selskap som nevnt i første ledd,
+2. andel i ansvarlig selskap eller kommandittselskap som eier aksjer i selskap som nevnt i første ledd, der andelshaverne bare er nærstående som nevnt i [§ 2-5](lov/2007-06-29-75/§2-5),
+3. tilsvarende andel i utenlandsk selskap som svarer til selskapsformer som nevnt i nr. 1 og 2, samt andre utenlandske foretak dersom tilbudsmyndigheten bestemmer dette.
 
 (3) [§ 6-5](lov/2007-06-29-75/§6-5) gjelder tilsvarende ved erverv som nevnt i annet ledd nr. 1 og 3.
 
 (4) Departementet kan i forskrift fastsette regler som pålegger tilbudsplikt ved erverv av rettigheter eller andre interesser knyttet til aksjer, herunder nærmere regler om hvilke rettigheter eller interesser som skal kunne utløse tilbudsplikt og nærmere regler om slik tilbudsplikt.
 
-(5) Første til fjerde ledd gjelder også når erververen tidligere har fremsatt frivillig tilbud. Første til fjerde ledd gjelder likevel ikke dersom følgende vilkår er oppfylt:det frivillige tilbudet var fremsatt i samsvar med reglene om pliktige tilbud,tilbudspliktgrensen som nevnt i første ledd passeres som følge av tilbudet, ogdet var opplyst i tilbudsdokumentet at det frivillige tilbudet fremsettes i samsvar med reglene om pliktige tilbud, og at dette medfører at det ikke vil inntre tilbudsplikt selv om tilbudspliktgrensen som nevnt i første ledd passeres som følge av tilbudet.
+(5) Første til fjerde ledd gjelder også når erververen tidligere har fremsatt frivillig tilbud. Første til fjerde ledd gjelder likevel ikke dersom følgende vilkår er oppfylt:
+
+1. det frivillige tilbudet var fremsatt i samsvar med reglene om pliktige tilbud,
+2. tilbudspliktgrensen som nevnt i første ledd passeres som følge av tilbudet, og
+3. det var opplyst i tilbudsdokumentet at det frivillige tilbudet fremsettes i samsvar med reglene om pliktige tilbud, og at dette medfører at det ikke vil inntre tilbudsplikt selv om tilbudspliktgrensen som nevnt i første ledd passeres som følge av tilbudet.
 
 (6) Første ledd gjelder tilsvarende ved erverv fra noen vedkommende er identifisert med etter [§ 6-5](lov/2007-06-29-75/§6-5), når erververen alene eller sammen med en eller flere av de nærstående passerer tilbudspliktgrensen som følge av ervervet.
 
 ### § 6-2. Unntak for visse typer erverv
 
-(1) Tilbudsplikt etter [§ 6-1](lov/2007-06-29-75/§6-1) og [§ 6-6](lov/2007-06-29-75/§6-6) inntrer ikke ved erverv i form avarv eller gave,vederlag ved skifte ellervederlag ved fisjon eller fusjon av aksjeselskap eller allmennaksjeselskap.
+(1) Tilbudsplikt etter [§ 6-1](lov/2007-06-29-75/§6-1) og [§ 6-6](lov/2007-06-29-75/§6-6) inntrer ikke ved erverv i form av
+
+1. arv eller gave,
+2. vederlag ved skifte eller
+3. vederlag ved fisjon eller fusjon av aksjeselskap eller allmennaksjeselskap.
 
 (2) Tilbudsmyndigheten kan i særlige tilfeller pålegge tilbudsplikt ved erverv som nevnt i første ledd.
 
@@ -696,7 +803,24 @@ Hvis et erverv etter selskapets vedtekter er avhengig av styrets samtykke, anses
 
 (1) Den som har tilbudsplikt, skal utarbeide et tilbudsdokument som gjengir tilbudet og gir riktige og fullstendige opplysninger om forhold av betydning ved vurderingen av tilbudet.
 
-(2) I tilbudsdokumentet skal særskilt angis:tilbyders navn og adresse, samt organisasjonsform og organisasjonsnummer dersom tilbyder er et foretak,opplysninger om hvilke aksjer eller aksjeklasser tilbudet gjelder,opplysninger om nærstående som nevnt i [§ 6-5](lov/2007-06-29-75/§6-5), herunder grunnlaget for identifikasjonen og eventuelle aksjeeieravtaler,hvilke aksjer og lån som nevnt i [aksjeloven § 11-1](lov/1997-06-13-44/§11-1) og allmennaksjeloven § 11-1 i det noterte selskapet som eies av tilbyder eller noen som nevnt i [§ 6-5](lov/2007-06-29-75/§6-5),tilbudsprisen og hvilken metode som er brukt for å fastsette tilbudsprisen, oppgjørsfrist og oppgjørsform, samt hvilke garantier som stilles for oppfyllelse av tilbyders forpliktelser,prinsippene som er lagt til grunn for verdsettelsen av formuesgjenstander som tilbys som oppgjør, herunder opplysninger om forhold som må tillegges vekt ved bedømmelsen av spørsmålet om å tegne eller erverve verdipapirer,frist for aksept av tilbudet og hvordan tilbudet skal aksepteres,hvordan kjøpet av aksjene skal finansieres,særlige fordeler som etter avtale tilstås medlemmer av ledelsen eller styrende organer i selskapet eller som noen av disse er stilt i utsikt,hvilken kontakt tilbyderen har hatt med ledelsen eller styrende organer i selskapet før fremsettelsen av tilbudet,formålet med å overta kontrollen i selskapet og planer for videre drift,reorganisering mv. av selskapet og det konsern som selskapet inngår i,den betydning gjennomføringen av tilbudet vil få for de ansatte, herunder de rettslige, økonomiske og arbeidsmessige virkninger, samt juridiske og skattemessige konsekvenser av tilbudet,den største og minste andel av aksjer som tilbyder forplikter seg til å erverve,opplysninger om utbetaling av erstatning som tilbys for rettigheter som kan bli tilsidesatt som følge av vedtak som nevnt i [§ 6-17](lov/2007-06-29-75/§6-17) fjerde ledd,opplysninger om lovvalg og verneting vedrørende tvister som måtte oppstå i forbindelse med inngåtte avtaler mellom tilbyder og aksjeeierne.
+(2) I tilbudsdokumentet skal særskilt angis:
+
+1. tilbyders navn og adresse, samt organisasjonsform og organisasjonsnummer dersom tilbyder er et foretak,
+2. opplysninger om hvilke aksjer eller aksjeklasser tilbudet gjelder,
+3. opplysninger om nærstående som nevnt i [§ 6-5](lov/2007-06-29-75/§6-5), herunder grunnlaget for identifikasjonen og eventuelle aksjeeieravtaler,
+4. hvilke aksjer og lån som nevnt i [aksjeloven § 11-1](lov/1997-06-13-44/§11-1) og allmennaksjeloven § 11-1 i det noterte selskapet som eies av tilbyder eller noen som nevnt i [§ 6-5](lov/2007-06-29-75/§6-5),
+5. tilbudsprisen og hvilken metode som er brukt for å fastsette tilbudsprisen, oppgjørsfrist og oppgjørsform, samt hvilke garantier som stilles for oppfyllelse av tilbyders forpliktelser,
+6. prinsippene som er lagt til grunn for verdsettelsen av formuesgjenstander som tilbys som oppgjør, herunder opplysninger om forhold som må tillegges vekt ved bedømmelsen av spørsmålet om å tegne eller erverve verdipapirer,
+7. frist for aksept av tilbudet og hvordan tilbudet skal aksepteres,
+8. hvordan kjøpet av aksjene skal finansieres,
+9. særlige fordeler som etter avtale tilstås medlemmer av ledelsen eller styrende organer i selskapet eller som noen av disse er stilt i utsikt,
+10. hvilken kontakt tilbyderen har hatt med ledelsen eller styrende organer i selskapet før fremsettelsen av tilbudet,
+11. formålet med å overta kontrollen i selskapet og planer for videre drift,
+12. reorganisering mv. av selskapet og det konsern som selskapet inngår i,
+13. den betydning gjennomføringen av tilbudet vil få for de ansatte, herunder de rettslige, økonomiske og arbeidsmessige virkninger, samt juridiske og skattemessige konsekvenser av tilbudet,
+14. den største og minste andel av aksjer som tilbyder forplikter seg til å erverve,
+15. opplysninger om utbetaling av erstatning som tilbys for rettigheter som kan bli tilsidesatt som følge av vedtak som nevnt i [§ 6-17](lov/2007-06-29-75/§6-17) fjerde ledd,
+16. opplysninger om lovvalg og verneting vedrørende tvister som måtte oppstå i forbindelse med inngåtte avtaler mellom tilbyder og aksjeeierne.
 
 (3) Tilbudsdokumentet skal undertegnes av tilbyder.
 
@@ -728,7 +852,12 @@ Tilbudsmyndigheten kan kreve gebyr av tilbyder til dekning av utgifter ved godkj
 
 ### § 6-17. Begrensning i selskapets handlefrihet
 
-(1) Etter at selskapet er underrettet om at tilbud skal fremsettes etter [§ 6-1](lov/2007-06-29-75/§6-1), [§ 6-2](lov/2007-06-29-75/§6-2) annet ledd eller [§ 6-6](lov/2007-06-29-75/§6-6) og inntil tilbudsperioden er utløpt og resultatet er klart, kan styret eller daglig leder ikke treffe vedtak omutstedelse av aksjer eller andre finansielle instrumenter av selskapet eller av et datterselskap,fusjon av selskapet eller datterselskap,salg eller kjøp av vesentlige virksomhetsområder i selskapet eller dets datterselskaper, eller andre disposisjoner av vesentlig betydning for arten eller omfanget av virksomheten, ellerkjøp eller salg av selskapets aksjer.
+(1) Etter at selskapet er underrettet om at tilbud skal fremsettes etter [§ 6-1](lov/2007-06-29-75/§6-1), [§ 6-2](lov/2007-06-29-75/§6-2) annet ledd eller [§ 6-6](lov/2007-06-29-75/§6-6) og inntil tilbudsperioden er utløpt og resultatet er klart, kan styret eller daglig leder ikke treffe vedtak om
+
+1. utstedelse av aksjer eller andre finansielle instrumenter av selskapet eller av et datterselskap,
+2. fusjon av selskapet eller datterselskap,
+3. salg eller kjøp av vesentlige virksomhetsområder i selskapet eller dets datterselskaper, eller andre disposisjoner av vesentlig betydning for arten eller omfanget av virksomheten, eller
+4. kjøp eller salg av selskapets aksjer.
 
 (2) Denne paragraf gjelder ikke disposisjoner som er en del av selskapets normale løpende forretningsdrift, eller tilfeller der generalforsamlingen har gitt styret eller daglig leder fullmakt til å treffe de aktuelle vedtak med sikte på oppkjøpssituasjoner.
 
@@ -742,7 +871,9 @@ Tilbudsmyndigheten kan kreve gebyr av tilbyder til dekning av utgifter ved godkj
 
 > Endret ved lov [19 juni 2009 nr. 77](lov/2009-06-19-77) (ikr. 3 aug 2009 iflg. [res. 26 juni 2009 nr. 876](forskrift/2009-06-26-876)).
 
-1 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10d.2 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10g (direktiv [2007/36/EF](eu/32007l0036)).
+1 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10d.
+
+2 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10g (direktiv [2007/36/EF](eu/32007l0036)).
 
 ### § 6-18. Offentliggjøring av resultat av fremsatt tilbud
 
@@ -776,11 +907,18 @@ Aksjeeiere som forsømmer sin tilbudsplikt etter [§ 6-1](lov/2007-06-29-75/§6-
 
 (2) Dersom tvungen overføring av aksjer finner sted innen tre måneder etter utløpet av tilbudsfristen etter [§ 6-11](lov/2007-06-29-75/§6-11), skal tilbudsprisen legges til grunn ved fastsettelsen av løsningssummen hvis ikke særlige grunner tilsier en annen pris.
 
-(3) Har tilbyderen etter å ha satt frem frivillig tilbud ervervet eierandel som angitt i første ledd, kan tvungen overføring av aksjer finne sted uten at det først er fremsatt pliktig tilbud dersom følgende vilkår er oppfylt:tvungen overføring iverksettes senest fire uker etter at erverv av aksjer ved frivillig tilbud er gjennomført,løsningssummen tilsvarer minst det laveste beløp tilbudsprisen ville ha vært ved pliktig tilbud, ogdet stilles tilsvarende garanti som ved fremsettelse av pliktig tilbud etter [§ 6-10](lov/2007-06-29-75/§6-10) syvende ledd. [Allmennaksjeloven § 4-25](lov/1997-06-13-45/§4-25) femte ledd gjelder ikke i den utstrekning det er stilt slik garanti.
+(3) Har tilbyderen etter å ha satt frem frivillig tilbud ervervet eierandel som angitt i første ledd, kan tvungen overføring av aksjer finne sted uten at det først er fremsatt pliktig tilbud dersom følgende vilkår er oppfylt:
+
+1. tvungen overføring iverksettes senest fire uker etter at erverv av aksjer ved frivillig tilbud er gjennomført,
+2. løsningssummen tilsvarer minst det laveste beløp tilbudsprisen ville ha vært ved pliktig tilbud, og
+3. det stilles tilsvarende garanti som ved fremsettelse av pliktig tilbud etter [§ 6-10](lov/2007-06-29-75/§6-10) syvende ledd. [Allmennaksjeloven § 4-25](lov/1997-06-13-45/§4-25) femte ledd gjelder ikke i den utstrekning det er stilt slik garanti.
 
 ### § 6-23. Overtakelsestilbud med tilknytning til flere stater
 
-(1) Bestemmelsene i dette kapittel gjelder tilsvarende i forhold tilselskap med forretningskontor i annen stat, hvis aksjer eller andre verdipapirer som kan sidestilles med aksjer, ikke er notert på regulert marked i den stat hvor selskapet har sitt forretningskontor, men på norsk regulert marked, ogselskap med forretningskontor i Norge, hvis aksjer er notert på regulert marked i annen EØS-stat.
+(1) Bestemmelsene i dette kapittel gjelder tilsvarende i forhold til
+
+1. selskap med forretningskontor i annen stat, hvis aksjer eller andre verdipapirer som kan sidestilles med aksjer, ikke er notert på regulert marked i den stat hvor selskapet har sitt forretningskontor, men på norsk regulert marked, og
+2. selskap med forretningskontor i Norge, hvis aksjer er notert på regulert marked i annen EØS-stat.
 
 (2) Departementet kan for tilfeller som nevnt i første ledd, gi nærmere forskrifter om anvendelsen av bestemmelsene i dette kapittel, samt om tilbudsmyndighet og om lovvalg.
 
@@ -906,7 +1044,11 @@ Nasjonale prospekter skal registreres i Foretaksregisteret før offentliggjørin
 
 ### § 7-13. Særlige virkemidler for prospektmyndigheten
 
-(1) Dersom det er grunn til å tro at regler som er gitt i eller i medhold av [kapittel 7](lov/2007-06-29-75/kap7) er overtrådt, kan Finanstilsynet:gi pålegg om at et offentlig tilbud av verdipapirer eller opptak til handel på regulert marked skal suspenderes i inntil ti sammenhengende arbeidsdager,forby annonsering av et offentlig tilbud av verdipapirer eller opptak til handel på regulert marked i inntil ti sammenhengende arbeidsdager,suspendere, eller pålegge relevante handelsplasser å suspendere, handelen i inntil ti sammenhengende arbeidsdager.
+(1) Dersom det er grunn til å tro at regler som er gitt i eller i medhold av [kapittel 7](lov/2007-06-29-75/kap7) er overtrådt, kan Finanstilsynet:
+
+1. gi pålegg om at et offentlig tilbud av verdipapirer eller opptak til handel på regulert marked skal suspenderes i inntil ti sammenhengende arbeidsdager,
+2. forby annonsering av et offentlig tilbud av verdipapirer eller opptak til handel på regulert marked i inntil ti sammenhengende arbeidsdager,
+3. suspendere, eller pålegge relevante handelsplasser å suspendere, handelen i inntil ti sammenhengende arbeidsdager.
 
 (2) Finanstilsynet kan fatte vedtak om å nekte å behandle og godkjenne et prospekt som er utarbeidet av en utsteder, en tilbyder eller en person som søker om opptak til handel på et regulert marked, som har overtrådt bestemmelser gitt i eller i medhold av [kapittel 7](lov/2007-06-29-75/kap7), hvis overtredelsen medfører at det er grunn til å frykte at behandling og godkjenning av prospektet kan svekke investorbeskyttelsen eller tilliten til verdipapirmarkedet.
 
@@ -1034,10 +1176,42 @@ Departementet kan fastsette utfyllende forskrifter til [§§ 7-1](lov/2007-06-29
 
 ### § 9-3. Unntak fra krav om tillatelse
 
-(1) Kravet om tillatelse i [§ 9-1](lov/2007-06-29-75/§9-1) og de øvrige bestemmelsene i [kapittel 9](lov/2007-06-29-75/kap9) og [10](lov/2007-06-29-75/kap10) gjelder ikke for:Norges Bank,Folketrygdfondet,offentlige myndigheter som forvalter offentlig gjeld, samt institusjoner som er opprettet av to eller flere EØS-stater for å yte finansiell bistand til medlemmer med betydelige økonomiske problemer,forvaltningsselskaper for verdipapirfond,forsikringsselskaper,pensjonskasser,depotmottakere for verdipapirfond, pensjonskasser og alternative investeringsfond,verdipapirsentral med unntak av det som fremgår av verdipapirsentralforordningen artikkel 73 jf. [verdipapirsentralloven § 1-1](lov/2019-03-15-6/§1-1),forvaltere av alternative investeringsfond.
+(1) Kravet om tillatelse i [§ 9-1](lov/2007-06-29-75/§9-1) og de øvrige bestemmelsene i [kapittel 9](lov/2007-06-29-75/kap9) og [10](lov/2007-06-29-75/kap10) gjelder ikke for:
 
-(2) Første ledd gjelder tilsvarende for:den som yter investeringstjenester ved enkelte anledninger som ledd i annen lovregulert eller selvregulert yrkesvirksomhet,den som bare yter investeringstjenester overfor selskap innen samme konsern,den som bare yter investeringstjenester som ledd i forvaltning av en ordning for arbeidstakeres eierandeler,den som bare yter investeringstjenester som nevnt i nr. 2 og 3,den som bare driver investeringsrådgivning under utøvelsen av annen yrkesvirksomhet, forutsatt at det ikke ytes særskilt vederlag for investeringsrådgivningen,den som ikke yter andre investeringstjenester eller driver annen investeringsvirksomhet enn handel for egen regning i finansielle instrumenter som ikke er varederivater, utslippskvoter eller derivater på slike. Kravet om tillatelse etter [§ 9-1](lov/2007-06-29-75/§9-1) og de øvrige bestemmelsene i [kapittel 9](lov/2007-06-29-75/kap9) og [10](lov/2007-06-29-75/kap10) gjelder likevel hvis foretaket:er prisstiller,er medlem eller deltaker på et regulert marked eller en multilateral handelsfasilitet, eller har direkte elektronisk tilgang til en handelsplass, jf. [§ 9-22](lov/2007-06-29-75/§9-22), med mindre det dreier seg om et ikke-finansielt foretak som utfører transaksjoner på en handelsplass som på en objektivt målbar måte reduserer risiko direkte relatert til forretningsvirksomheten eller likviditetsfinansieringen til foretaket eller foretak i samme konsern,driver med høyfrekvent algoritmehandel, jf. [§ 9-22](lov/2007-06-29-75/§9-22), ellerhandler for egen regning ved utførelse av kundeordre,den som handler for egen regning, herunder prisstillere, i varederivater eller utslippskvoter eller derivater på slike, unntatt personer som handler for egen regning når de utfører kundeordrer,
-ellerden som yter investeringstjenester, unntatt handel for egen regning, i varederivater eller utslippskvoter eller derivater på slike, til kundene eller leverandørene av sin hovedvirksomhet, forutsatt:at dette for hvert av disse tilfellene, på individuelt nivå og på samlet nivå, er en tilknyttet virksomhet til deres hovedvirksomhet på konsernplan,at disse personene ikke inngår i et konsern som har som hovedvirksomhet å yte investeringstjenester etter direktiv [2014/65/EU](eu/32014l0065), å utføre en aktivitet nevnt i vedlegg I til direktiv [2013/36/EU](eu/32013l0036) eller å opptre som prisstiller for varederivater,at disse personene ikke driver med høyfrekvent algoritmehandel, jf. [§ 9-22](lov/2007-06-29-75/§9-22), ogat disse personene på anmodning opplyser Finanstilsynet om grunnlaget for at de anser at deres virksomhet etter bokstav a og b er en tilknyttet virksomhet til deres hovedvirksomhet,den som er operatør av overføringsnett som definert i artikkel 2 nr. 4 i direktiv [2009/72/EF](eu/32009l0072) eller artikkel 2 nr. 4 i direktiv [2009/73/EF](eu/32009l0073) når operatøren utfører sine oppgaver, og enhver person som opptrer som tjenesteyter på operatørens vegne med sikte på å utføre operatørens oppgaver, etter disse direktivene eller etter forordning [(EF) nr. 714/2009](eu/32009r0714) eller forordning [(EF) nr. 715/2009](eu/32009r0715*), eller etter regler eller retningslinjer vedtatt i henhold til dette regelverket, og enhver operatør eller forvalter av et energibalanseringssystem, et rørledningsnett eller et system for å opprettholde balansen mellom tilbudet av og etterspørselen etter energi. Dette unntaket fra kravet etter [§ 9-1](lov/2007-06-29-75/§9-1) første ledd og de øvrige bestemmelsene i [kapittel 9](lov/2007-06-29-75/kap9) og [10](lov/2007-06-29-75/kap10) får bare anvendelse på personer når de driver investeringsvirksomhet eller yter investeringstjenester i forbindelse med varederivater for å utføre oppgaver som nevnt i første punktum. Kravet om tillatelse i [§ 9-1](lov/2007-06-29-75/§9-1) og de øvrige bestemmelsene i [kapittel 9](lov/2007-06-29-75/kap9) og [10](lov/2007-06-29-75/kap10) gjelder likevel ved drift av et annenhåndsmarked, herunder en plattform for handel med finansielle overføringsrettigheter på annenhåndsmarkeder,den som er kvotepliktig etter klimakvoteloven, og som ikke yter andre investeringstjenester eller driver annen investeringsvirksomhet enn handel for egen regning i utslippskvoter, med mindre den kvotepliktige utfører kundeordre eller driver med høyfrekvent algoritmehandel, jf. [§ 9-22](lov/2007-06-29-75/§9-22),den som bare yter tjenester som nevnt i [§ 9-1](lov/2007-06-29-75/§9-1) tredje ledd overfor kunder som påtar seg et samlet forpliktet investeringsbeløp som minst svarer til 5 000 000 kroner, eller overfor profesjonelle kunder som nevnt i [§ 10-6](lov/2007-06-29-75/§10-6).
+1. Norges Bank,
+2. Folketrygdfondet,
+3. offentlige myndigheter som forvalter offentlig gjeld, samt institusjoner som er opprettet av to eller flere EØS-stater for å yte finansiell bistand til medlemmer med betydelige økonomiske problemer,
+4. forvaltningsselskaper for verdipapirfond,
+5. forsikringsselskaper,
+6. pensjonskasser,
+7. depotmottakere for verdipapirfond, pensjonskasser og alternative investeringsfond,
+8. verdipapirsentral med unntak av det som fremgår av verdipapirsentralforordningen artikkel 73 jf. [verdipapirsentralloven § 1-1](lov/2019-03-15-6/§1-1),
+9. forvaltere av alternative investeringsfond.
+
+(2) Første ledd gjelder tilsvarende for:
+
+1. den som yter investeringstjenester ved enkelte anledninger som ledd i annen lovregulert eller selvregulert yrkesvirksomhet,
+2. den som bare yter investeringstjenester overfor selskap innen samme konsern,
+3. den som bare yter investeringstjenester som ledd i forvaltning av en ordning for arbeidstakeres eierandeler,
+4. den som bare yter investeringstjenester som nevnt i nr. 2 og 3,
+5. den som bare driver investeringsrådgivning under utøvelsen av annen yrkesvirksomhet, forutsatt at det ikke ytes særskilt vederlag for investeringsrådgivningen,
+6. den som ikke yter andre investeringstjenester eller driver annen investeringsvirksomhet enn handel for egen regning i finansielle instrumenter som ikke er varederivater, utslippskvoter eller derivater på slike. Kravet om tillatelse etter [§ 9-1](lov/2007-06-29-75/§9-1) og de øvrige bestemmelsene i [kapittel 9](lov/2007-06-29-75/kap9) og [10](lov/2007-06-29-75/kap10) gjelder likevel hvis foretaket:
+
+   1. er prisstiller,
+   2. er medlem eller deltaker på et regulert marked eller en multilateral handelsfasilitet, eller har direkte elektronisk tilgang til en handelsplass, jf. [§ 9-22](lov/2007-06-29-75/§9-22), med mindre det dreier seg om et ikke-finansielt foretak som utfører transaksjoner på en handelsplass som på en objektivt målbar måte reduserer risiko direkte relatert til forretningsvirksomheten eller likviditetsfinansieringen til foretaket eller foretak i samme konsern,
+   3. driver med høyfrekvent algoritmehandel, jf. [§ 9-22](lov/2007-06-29-75/§9-22), eller
+   4. handler for egen regning ved utførelse av kundeordre,
+7. 1. den som handler for egen regning, herunder prisstillere, i varederivater eller utslippskvoter eller derivater på slike, unntatt personer som handler for egen regning når de utfører kundeordrer,
+      eller
+   2. den som yter investeringstjenester, unntatt handel for egen regning, i varederivater eller utslippskvoter eller derivater på slike, til kundene eller leverandørene av sin hovedvirksomhet, forutsatt:
+
+      1. at dette for hvert av disse tilfellene, på individuelt nivå og på samlet nivå, er en tilknyttet virksomhet til deres hovedvirksomhet på konsernplan,
+      2. at disse personene ikke inngår i et konsern som har som hovedvirksomhet å yte investeringstjenester etter direktiv [2014/65/EU](eu/32014l0065), å utføre en aktivitet nevnt i vedlegg I til direktiv [2013/36/EU](eu/32013l0036) eller å opptre som prisstiller for varederivater,
+      3. at disse personene ikke driver med høyfrekvent algoritmehandel, jf. [§ 9-22](lov/2007-06-29-75/§9-22), og
+      4. at disse personene på anmodning opplyser Finanstilsynet om grunnlaget for at de anser at deres virksomhet etter bokstav a og b er en tilknyttet virksomhet til deres hovedvirksomhet,
+8. den som er operatør av overføringsnett som definert i artikkel 2 nr. 4 i direktiv [2009/72/EF](eu/32009l0072) eller artikkel 2 nr. 4 i direktiv [2009/73/EF](eu/32009l0073) når operatøren utfører sine oppgaver, og enhver person som opptrer som tjenesteyter på operatørens vegne med sikte på å utføre operatørens oppgaver, etter disse direktivene eller etter forordning [(EF) nr. 714/2009](eu/32009r0714) eller forordning [(EF) nr. 715/2009](eu/32009r0715*), eller etter regler eller retningslinjer vedtatt i henhold til dette regelverket, og enhver operatør eller forvalter av et energibalanseringssystem, et rørledningsnett eller et system for å opprettholde balansen mellom tilbudet av og etterspørselen etter energi. Dette unntaket fra kravet etter [§ 9-1](lov/2007-06-29-75/§9-1) første ledd og de øvrige bestemmelsene i [kapittel 9](lov/2007-06-29-75/kap9) og [10](lov/2007-06-29-75/kap10) får bare anvendelse på personer når de driver investeringsvirksomhet eller yter investeringstjenester i forbindelse med varederivater for å utføre oppgaver som nevnt i første punktum. Kravet om tillatelse i [§ 9-1](lov/2007-06-29-75/§9-1) og de øvrige bestemmelsene i [kapittel 9](lov/2007-06-29-75/kap9) og [10](lov/2007-06-29-75/kap10) gjelder likevel ved drift av et annenhåndsmarked, herunder en plattform for handel med finansielle overføringsrettigheter på annenhåndsmarkeder,
+9. den som er kvotepliktig etter klimakvoteloven, og som ikke yter andre investeringstjenester eller driver annen investeringsvirksomhet enn handel for egen regning i utslippskvoter, med mindre den kvotepliktige utfører kundeordre eller driver med høyfrekvent algoritmehandel, jf. [§ 9-22](lov/2007-06-29-75/§9-22),
+10. den som bare yter tjenester som nevnt i [§ 9-1](lov/2007-06-29-75/§9-1) tredje ledd overfor kunder som påtar seg et samlet forpliktet investeringsbeløp som minst svarer til 5 000 000 kroner, eller overfor profesjonelle kunder som nevnt i [§ 10-6](lov/2007-06-29-75/§10-6).
 
 (3) Bestemmelsene i [§ 9-23](lov/2007-06-29-75/§9-23) om algoritmehandel, [§ 9-24](lov/2007-06-29-75/§9-24) om direkte elektronisk tilgang og [§ 9-25](lov/2007-06-29-75/§9-25) om alminnelig clearingmedlem gjelder likevel for medlemmer eller deltakere på et regulert marked eller en multilateral handelsfasilitet som er omfattet av unntakene i første ledd nr. 4, 5, 6 eller 9, eller annet ledd nr. 7 eller 9.
 
@@ -1047,7 +1221,13 @@ ellerden som yter investeringstjenester, unntatt handel for egen regning, i vare
 
 ### § 9-4. Lovens anvendelse for kredittinstitusjoner
 
-(1) Følgende bestemmelser gjelder ikke for kredittinstitusjoner som har tillatelse til å yte en eller flere investeringstjenester eller drive investeringsvirksomhet:[§ 9-6](lov/2007-06-29-75/§9-6), [§ 9-7](lov/2007-06-29-75/§9-7), [§ 9-9](lov/2007-06-29-75/§9-9), [§ 9-10](lov/2007-06-29-75/§9-10), [§ 9-11](lov/2007-06-29-75/§9-11) annet ledd nr. 1 til 5 og [§§ 9-12](lov/2007-06-29-75/§9-12) til [9-15](lov/2007-06-29-75/§9-15),[§ 9-18](lov/2007-06-29-75/§9-18) annet ledd annet punktum,[§ 9-32](lov/2007-06-29-75/§9-32) annet og tredje ledd og [§ 9-33](lov/2007-06-29-75/§9-33) annet og tredje ledd,[§§ 9-39](lov/2007-06-29-75/§9-39) til [9-49](lov/2007-06-29-75/§9-49),[§ 20-2](lov/2007-06-29-75/§20-2).
+(1) Følgende bestemmelser gjelder ikke for kredittinstitusjoner som har tillatelse til å yte en eller flere investeringstjenester eller drive investeringsvirksomhet:
+
+1. [§ 9-6](lov/2007-06-29-75/§9-6), [§ 9-7](lov/2007-06-29-75/§9-7), [§ 9-9](lov/2007-06-29-75/§9-9), [§ 9-10](lov/2007-06-29-75/§9-10), [§ 9-11](lov/2007-06-29-75/§9-11) annet ledd nr. 1 til 5 og [§§ 9-12](lov/2007-06-29-75/§9-12) til [9-15](lov/2007-06-29-75/§9-15),
+2. [§ 9-18](lov/2007-06-29-75/§9-18) annet ledd annet punktum,
+3. [§ 9-32](lov/2007-06-29-75/§9-32) annet og tredje ledd og [§ 9-33](lov/2007-06-29-75/§9-33) annet og tredje ledd,
+4. [§§ 9-39](lov/2007-06-29-75/§9-39) til [9-49](lov/2007-06-29-75/§9-49),
+5. [§ 20-2](lov/2007-06-29-75/§20-2).
 
 (2) [§ 9-38](lov/2007-06-29-75/§9-38) gjelder ikke for kredittinstitusjoner som er bank, og som kun yter investeringstjenester som nevnt i [verdipapirhandelloven § 2-1](lov/2007-06-29-75/§2-1) første ledd nr. 1 og nr. 5, dersom banken er medlem av Bankenes sikringsfond og ikke håndterer kunders finansielle instrumenter eller midler utenom å formidle oppgjør.
 
@@ -1057,7 +1237,11 @@ ellerden som yter investeringstjenester, unntatt handel for egen regning, i vare
 
 ### § 9-5. Lovens anvendelse ved salg og rådgivning knyttet til strukturerte innskudd
 
-(1) Følgende bestemmelser og forskrifter gitt i medhold av disse skal gjelde for verdipapirforetak og kredittinstitusjoner når de selger eller gir råd til kunder om strukturerte innskudd:[§ 9-11](lov/2007-06-29-75/§9-11), [§ 9-16](lov/2007-06-29-75/§9-16) første ledd nr. 1, 2, 6 og 8, [§ 9-19](lov/2007-06-29-75/§9-19) og [§ 9-38](lov/2007-06-29-75/§9-38),[§§ 10-2](lov/2007-06-29-75/§10-2) til [10-18](lov/2007-06-29-75/§10-18) og [§§ 10-21](lov/2007-06-29-75/§10-21) til [10-23](lov/2007-06-29-75/§10-23),[Kapittel](lov/2007-06-29-75/kap19) 19 til 21
+(1) Følgende bestemmelser og forskrifter gitt i medhold av disse skal gjelde for verdipapirforetak og kredittinstitusjoner når de selger eller gir råd til kunder om strukturerte innskudd:
+
+1. [§ 9-11](lov/2007-06-29-75/§9-11), [§ 9-16](lov/2007-06-29-75/§9-16) første ledd nr. 1, 2, 6 og 8, [§ 9-19](lov/2007-06-29-75/§9-19) og [§ 9-38](lov/2007-06-29-75/§9-38),
+2. [§§ 10-2](lov/2007-06-29-75/§10-2) til [10-18](lov/2007-06-29-75/§10-18) og [§§ 10-21](lov/2007-06-29-75/§10-21) til [10-23](lov/2007-06-29-75/§10-23),
+3. [Kapittel](lov/2007-06-29-75/kap19) 19 til 21
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -1069,7 +1253,11 @@ ellerden som yter investeringstjenester, unntatt handel for egen regning, i vare
 
 (2) Foretakets vedtekter, driftsplan og interne rutiner for organisering som nevnt i [§ 9-16](lov/2007-06-29-75/§9-16) til [§ 9-19](lov/2007-06-29-75/§9-19) skal være vedlagt søknaden.
 
-(3) Tillatelse kan bare gis etter samråd med myndighetene i annen EØS-stat dersom søkeren er:datterforetak av et verdipapirforetak, en markedsoperatør eller en kredittinstitusjon med tillatelse i en annen EØS-stat,datterforetak av et hovedforetak for et annet verdipapirforetak eller en kredittinstitusjon med tillatelse i en annen EØS-stat, ellerkontrollert av de samme fysiske eller juridiske personer som kontrollerer et verdipapirforetak eller en kredittinstitusjon med tillatelse i en annen EØS-stat.
+(3) Tillatelse kan bare gis etter samråd med myndighetene i annen EØS-stat dersom søkeren er:
+
+1. datterforetak av et verdipapirforetak, en markedsoperatør eller en kredittinstitusjon med tillatelse i en annen EØS-stat,
+2. datterforetak av et hovedforetak for et annet verdipapirforetak eller en kredittinstitusjon med tillatelse i en annen EØS-stat, eller
+3. kontrollert av de samme fysiske eller juridiske personer som kontrollerer et verdipapirforetak eller en kredittinstitusjon med tillatelse i en annen EØS-stat.
 
 (4) Vedtak om tillatelse skal meddeles søkeren snarest mulig og senest seks måneder etter at søknaden ble mottatt. Dersom søknaden ikke inneholder de opplysninger som er nødvendige for å avgjøre om tillatelse skal gis, regnes fristen fra det tidspunktet slike opplysninger ble mottatt.
 
@@ -1081,7 +1269,13 @@ ellerden som yter investeringstjenester, unntatt handel for egen regning, i vare
 
 ### § 9-7. Endring og tilbakekall av tillatelse
 
-(1) Finanstilsynet kan helt eller delvis endre, herunder sette nye vilkår, eller tilbakekalle tillatelse til å yte investeringstjenester eller drive investeringsvirksomhet dersom verdipapirforetaket:ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på tillatelsen eller har opphørt å yte investeringstjenester eller drive investeringsvirksomhet i mer enn seks måneder,har fått tillatelsen ved bruk av uriktige opplysninger eller andre uregelmessigheter,ikke lenger oppfyller vilkårene for tillatelsen, herunder kravene til ansvarlig kapital,foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, slik at det er grunn til å frykte at fortsettelse av virksomheten kan skade foretakets kunder, tilliten til verdipapirmarkedet eller institusjonene som virker i markedet, ellerikke etterkommer pålegg gitt i medhold av [§ 19-7](lov/2007-06-29-75/§19-7).
+(1) Finanstilsynet kan helt eller delvis endre, herunder sette nye vilkår, eller tilbakekalle tillatelse til å yte investeringstjenester eller drive investeringsvirksomhet dersom verdipapirforetaket:
+
+1. ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på tillatelsen eller har opphørt å yte investeringstjenester eller drive investeringsvirksomhet i mer enn seks måneder,
+2. har fått tillatelsen ved bruk av uriktige opplysninger eller andre uregelmessigheter,
+3. ikke lenger oppfyller vilkårene for tillatelsen, herunder kravene til ansvarlig kapital,
+4. foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, slik at det er grunn til å frykte at fortsettelse av virksomheten kan skade foretakets kunder, tilliten til verdipapirmarkedet eller institusjonene som virker i markedet, eller
+5. ikke etterkommer pålegg gitt i medhold av [§ 19-7](lov/2007-06-29-75/§19-7).
 
 (2) Første ledd gjelder tilsvarende for tillatelse gitt i medhold av [§ 9-8](lov/2007-06-29-75/§9-8).
 
@@ -1131,7 +1325,10 @@ Departementet kan gi markedsoperatør tillatelse til å drive en multilateral ha
 
 (2) Personer som nevnt i første ledd skal sette av tilstrekkelig tid til å utføre sine oppgaver i verdipapirforetaket. Ved vurderingen av hvor mange verv og stillinger en person kan ha i tillegg til vervet eller stillingen i verdipapirforetaket, skal det tas hensyn til individuelle forhold og arten, omfanget og kompleksiteten av verdipapirforetakets virksomhet.
 
-(3) Personer som nevnt i første ledd i et verdipapirforetak som er å anse som vesentlig vurdert ut fra størrelse, intern organisering og virksomhetens art, omfang og kompleksitet, kan kun inneha én av følgende kombinasjoner av stillinger og verv samtidig:én stilling som daglig leder kombinert med to styreverv,fire styreverv.
+(3) Personer som nevnt i første ledd i et verdipapirforetak som er å anse som vesentlig vurdert ut fra størrelse, intern organisering og virksomhetens art, omfang og kompleksitet, kan kun inneha én av følgende kombinasjoner av stillinger og verv samtidig:
+
+1. én stilling som daglig leder kombinert med to styreverv,
+2. fire styreverv.
 
 (4) Stilling eller verv i organisasjoner som ikke hovedsakelig har kommersielle formål, regnes ikke med etter tredje ledd. Stilling som daglig leder eller styreverv i foretak innenfor samme konsern, eller i foretak som er medlemmer av samme sikringsordning, forutsatt at vilkårene i artikkel 113 nr. 7 i forordning [(EU) nr. 575/2013](eu/32013r0575*) er oppfylt, eller foretak hvor verdipapirforetaket eier en kvalifisert eierandel, jf. [§ 9-12](lov/2007-06-29-75/§9-12), regnes som én stilling eller ett verv. Finanstilsynet kan gi tillatelse til at personer som nevnt i tredje ledd kan inneha ytterligere ett styreverv. Tredje ledd gjelder ikke for personer som representerer den norske stat.
 
@@ -1157,7 +1354,15 @@ Departementet kan gi markedsoperatør tillatelse til å drive en multilateral ha
 
 (1) Styret har det overordnede ansvar for forvaltningen av verdipapirforetaket og skal føre tilsyn med foretakets virksomhet. Styret skal sørge for at foretaket organiseres og ledes på en effektiv og fornuftig måte, herunder på en måte som forhindrer interessekonflikter, og som fremmer markedets integritet og kundenes interesser.
 
-(2) Følgende prinsipper skal legges til grunn for styrets forvaltning og tilsyn med verdipapirforetaket:Styret skal fastlegge og føre tilsyn med gjennomføringen av foretakets strategiske mål, risikostrategi og overordnede styrings- og kontrollordninger.Styret skal sikre at systemene for regnskapsføring og finansiell rapportering er robuste, innbyr til tillit og er i samsvar med lov, forskrift og relevante standarder.Styret skal føre tilsyn med offentliggjørings- og kommunikasjonsprosesser.Styret skal føre effektivt tilsyn med foretakets daglige ledelse.Styret skal fastlegge og føre tilsyn med organiseringen av foretakets virksomhet, herunder ressursene, prosedyrene og systemene for foretakets virksomhetsutøvelse og tjenesteyting, samt kompetansekrav for ansatte, sett hen til arten, omfanget og kompleksiteten av foretakets virksomhet og de krav som stilles til foretaket.Styret skal fastlegge og føre tilsyn med strategier for foretakets virksomhetsutøvelse og tjenesteyting, sett hen til foretakets risikotoleranse samt kundene og deres behov, og herunder gjennomføre stresstester ved behov.Styret skal fastlegge og føre tilsyn med en godtgjøringsstrategi for ansatte som deltar i tjenesteyting til kunder, for å fremme ansvarlig forretningsførsel og rettferdig behandling av kunder, samt å unngå interessekonflikter.
+(2) Følgende prinsipper skal legges til grunn for styrets forvaltning og tilsyn med verdipapirforetaket:
+
+1. Styret skal fastlegge og føre tilsyn med gjennomføringen av foretakets strategiske mål, risikostrategi og overordnede styrings- og kontrollordninger.
+2. Styret skal sikre at systemene for regnskapsføring og finansiell rapportering er robuste, innbyr til tillit og er i samsvar med lov, forskrift og relevante standarder.
+3. Styret skal føre tilsyn med offentliggjørings- og kommunikasjonsprosesser.
+4. Styret skal føre effektivt tilsyn med foretakets daglige ledelse.
+5. Styret skal fastlegge og føre tilsyn med organiseringen av foretakets virksomhet, herunder ressursene, prosedyrene og systemene for foretakets virksomhetsutøvelse og tjenesteyting, samt kompetansekrav for ansatte, sett hen til arten, omfanget og kompleksiteten av foretakets virksomhet og de krav som stilles til foretaket.
+6. Styret skal fastlegge og føre tilsyn med strategier for foretakets virksomhetsutøvelse og tjenesteyting, sett hen til foretakets risikotoleranse samt kundene og deres behov, og herunder gjennomføre stresstester ved behov.
+7. Styret skal fastlegge og føre tilsyn med en godtgjøringsstrategi for ansatte som deltar i tjenesteyting til kunder, for å fremme ansvarlig forretningsførsel og rettferdig behandling av kunder, samt å unngå interessekonflikter.
 
 (3) Styret skal overvåke og regelmessig vurdere hvor effektiv verdipapirforetakets organisering og ledelse er, samt vurdere egnetheten og gjennomføringen av foretakets strategiske mål og strategier for utøvelsen av foretakets virksomhet, herunder de tjenestene som ytes til foretakets kunder. Styret skal treffe egnede tiltak for å rette opp eventuelle mangler.
 
@@ -1219,7 +1424,13 @@ Departementet kan gi markedsoperatør tillatelse til å drive en multilateral ha
 
 ### § 9-15. Egnethetsvurdering ved erverv mv.
 
-(1) Ved avgjørelsen av om det skal gis tillatelse etter [§ 9-13](lov/2007-06-29-75/§9-13) annet ledd, skal Finanstilsynet vurdere om erververen er egnet, og om ervervet av eierandelen er finansielt betryggende. Formålet er å sikre at verdipapirforetaket får en forsvarlig og betryggende ledelse, og det skal tas hensyn til erververs sannsynlige innflytelse på verdipapirforetaket. I vurderingen av ervervet skal Finanstilsynet ta i betraktning følgende forhold:erververens omdømme,omdømmet og erfaringen til personer som etter ervervet vil inngå i styret eller øvrig ledelse av verdipapirforetakets virksomhet,erververens økonomiske soliditet, særlig tatt i betraktning de former for virksomhet som foretaket driver eller må antas å involvere seg i etter ervervet,om verdipapirforetaket fortsatt vil være i stand til å oppfylle tilsynskrav som følger av denne loven og øvrig relevant finansregulering, særlig om konsernet foretaket vil inngå i etter ervervet, er organisert på en slik måte at det muliggjør effektivt tilsyn og effektiv utveksling av informasjon og fordeling av tilsynsoppgaver mellom berørte tilsynsmyndigheter, ogom det er grunn til å anta at det i forbindelse med ervervet foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at ervervet vil øke risikoen for dette.
+(1) Ved avgjørelsen av om det skal gis tillatelse etter [§ 9-13](lov/2007-06-29-75/§9-13) annet ledd, skal Finanstilsynet vurdere om erververen er egnet, og om ervervet av eierandelen er finansielt betryggende. Formålet er å sikre at verdipapirforetaket får en forsvarlig og betryggende ledelse, og det skal tas hensyn til erververs sannsynlige innflytelse på verdipapirforetaket. I vurderingen av ervervet skal Finanstilsynet ta i betraktning følgende forhold:
+
+1. erververens omdømme,
+2. omdømmet og erfaringen til personer som etter ervervet vil inngå i styret eller øvrig ledelse av verdipapirforetakets virksomhet,
+3. erververens økonomiske soliditet, særlig tatt i betraktning de former for virksomhet som foretaket driver eller må antas å involvere seg i etter ervervet,
+4. om verdipapirforetaket fortsatt vil være i stand til å oppfylle tilsynskrav som følger av denne loven og øvrig relevant finansregulering, særlig om konsernet foretaket vil inngå i etter ervervet, er organisert på en slik måte at det muliggjør effektivt tilsyn og effektiv utveksling av informasjon og fordeling av tilsynsoppgaver mellom berørte tilsynsmyndigheter, og
+5. om det er grunn til å anta at det i forbindelse med ervervet foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at ervervet vil øke risikoen for dette.
 
 (2) Tillatelse etter [§ 9-13](lov/2007-06-29-75/§9-13) annet ledd kan bare nektes dersom Finanstilsynet finner at det er rimelig grunnlag for tvil om erververens egnethet eller om ervervet av eierandelen er finansielt betryggende, jf. første ledd, eller dersom plikten til å gi melding ikke er oppfylt eller opplysninger fremlagt av erververen er ufullstendige eller uriktige.
 
@@ -1229,9 +1440,23 @@ Departementet kan gi markedsoperatør tillatelse til å drive en multilateral ha
 
 ### § 9-16. Generelle krav til organisering av virksomheten
 
-(1) Verdipapirforetak skal innrette sin virksomhet på følgende måte:Foretaket skal ha tilstrekkelige og betryggende retningslinjer, rutiner og kontrollmetoder som skal sikre at foretaket, dets ledere, ansatte og tilknyttede agenter etterlever sine forpliktelser etter lov og forskrifter.Foretaket skal være oppbygd og organisert på en slik måte at risikoen for interessekonflikter mellom foretaket og dets kunder, eller foretakets kunder seg imellom, begrenses til et minimum, jf. [§ 10-2](lov/2007-06-29-75/§10-2).Foretaket skal treffe rimelige tiltak som skal sikre kontinuitet og regelmessighet i investeringstjenestevirksomheten, herunder ha nødvendige systemer, ressurser og prosedyrer, inkludert IKT-systemer satt opp og håndtert i henhold til forordning [(EU) 2022/2554](eu/32022r2554) artikkel 7, jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1).Foretaket skal treffe betryggende tiltak slik at operasjonell risiko begrenses til et minimum når det benytter seg av en tredjepart til å utføre operasjonelle funksjoner, jf. annet ledd.Foretaket skal ha gode administrasjons- og regnskapsrutiner, tilfredsstillende interne kontrollordninger og effektive prosedyrer for risikovurdering, samt stillingsinstrukser som særskilt regulerer ansvarsfordelingen mellom daglig leder og andre ledere av virksomheten.Foretaket skal ha tilfredsstillende interne retningslinjer, rutiner og kontrollmetoder for personlige transaksjoner som foretas av foretakets ledere, ansatte og tilknyttede agenter.Foretaket skal ha systemer som sikrer pålitelig og korrekt informasjonsoverføring, og som sikrer at opplysningene til enhver tid behandles fortrolig, samt reduserer risikoen for dataforfalskning, informasjonslekkasje og annen ulovlig tilgang til informasjonen i henhold til kravene i forordning [(EU) 2022/2554](eu/32022r2554), jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1).Foretaket skal sørge for dokumentasjon av alle investeringstjenester og all investeringsvirksomhet, herunder alle utførte transaksjoner, som skal være minst så fyllestgjørende at Finanstilsynet kan kontrollere om de regler Finanstilsynet har ansvar for, er overholdt. Slik dokumentasjon skal oppbevares i minst fem år, eller lengre tid dersom Finanstilsynet bestemmer det.Foretaket skal ha interne instrukser for de ansattes adgang til å være medlem av styre, bedriftsforsamling eller foretaksforsamling eller ha slik innflytelse som nevnt i [aksjeloven § 1-3 annet ledd](lov/1997-06-13-44/§1-3/ledd/2) i selskaper. Slike instrukser skal også omfatte styremedlemmer som har slik innflytelse i verdipapirforetaket som nevnt i [aksjeloven § 1-3 annet ledd](lov/1997-06-13-44/§1-3/ledd/2). Tilsvarende instrukser skal utarbeides for tilfeller der det er gitt unntak etter [§ 10-4 annet ledd](lov/2007-06-29-75/§10-4/ledd/2).Foretaket skal ha retningslinjer og rutiner for beregning og utbetaling av resultatavhengig godtgjørelse.
+(1) Verdipapirforetak skal innrette sin virksomhet på følgende måte:
 
-(2) Verdipapirforetak som utkontrakterer funksjoner, kan ikke overlate viktige operasjonelle funksjoner til tredjepart dersom dette fører til at:foretakets internkontroll og evne til å påse etterlevelsen av dets forpliktelser blir merkbart forringet, ellerFinanstilsynets mulighet for å føre tilsyn med virksomheten merkbart forringes eller vanskeliggjøres.
+1. Foretaket skal ha tilstrekkelige og betryggende retningslinjer, rutiner og kontrollmetoder som skal sikre at foretaket, dets ledere, ansatte og tilknyttede agenter etterlever sine forpliktelser etter lov og forskrifter.
+2. Foretaket skal være oppbygd og organisert på en slik måte at risikoen for interessekonflikter mellom foretaket og dets kunder, eller foretakets kunder seg imellom, begrenses til et minimum, jf. [§ 10-2](lov/2007-06-29-75/§10-2).
+3. Foretaket skal treffe rimelige tiltak som skal sikre kontinuitet og regelmessighet i investeringstjenestevirksomheten, herunder ha nødvendige systemer, ressurser og prosedyrer, inkludert IKT-systemer satt opp og håndtert i henhold til forordning [(EU) 2022/2554](eu/32022r2554) artikkel 7, jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1).
+4. Foretaket skal treffe betryggende tiltak slik at operasjonell risiko begrenses til et minimum når det benytter seg av en tredjepart til å utføre operasjonelle funksjoner, jf. annet ledd.
+5. Foretaket skal ha gode administrasjons- og regnskapsrutiner, tilfredsstillende interne kontrollordninger og effektive prosedyrer for risikovurdering, samt stillingsinstrukser som særskilt regulerer ansvarsfordelingen mellom daglig leder og andre ledere av virksomheten.
+6. Foretaket skal ha tilfredsstillende interne retningslinjer, rutiner og kontrollmetoder for personlige transaksjoner som foretas av foretakets ledere, ansatte og tilknyttede agenter.
+7. Foretaket skal ha systemer som sikrer pålitelig og korrekt informasjonsoverføring, og som sikrer at opplysningene til enhver tid behandles fortrolig, samt reduserer risikoen for dataforfalskning, informasjonslekkasje og annen ulovlig tilgang til informasjonen i henhold til kravene i forordning [(EU) 2022/2554](eu/32022r2554), jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1).
+8. Foretaket skal sørge for dokumentasjon av alle investeringstjenester og all investeringsvirksomhet, herunder alle utførte transaksjoner, som skal være minst så fyllestgjørende at Finanstilsynet kan kontrollere om de regler Finanstilsynet har ansvar for, er overholdt. Slik dokumentasjon skal oppbevares i minst fem år, eller lengre tid dersom Finanstilsynet bestemmer det.
+9. Foretaket skal ha interne instrukser for de ansattes adgang til å være medlem av styre, bedriftsforsamling eller foretaksforsamling eller ha slik innflytelse som nevnt i [aksjeloven § 1-3 annet ledd](lov/1997-06-13-44/§1-3/ledd/2) i selskaper. Slike instrukser skal også omfatte styremedlemmer som har slik innflytelse i verdipapirforetaket som nevnt i [aksjeloven § 1-3 annet ledd](lov/1997-06-13-44/§1-3/ledd/2). Tilsvarende instrukser skal utarbeides for tilfeller der det er gitt unntak etter [§ 10-4 annet ledd](lov/2007-06-29-75/§10-4/ledd/2).
+10. Foretaket skal ha retningslinjer og rutiner for beregning og utbetaling av resultatavhengig godtgjørelse.
+
+(2) Verdipapirforetak som utkontrakterer funksjoner, kan ikke overlate viktige operasjonelle funksjoner til tredjepart dersom dette fører til at:
+
+1. foretakets internkontroll og evne til å påse etterlevelsen av dets forpliktelser blir merkbart forringet, eller
+2. Finanstilsynets mulighet for å føre tilsyn med virksomheten merkbart forringes eller vanskeliggjøres.
 
 (3) Styret og daglig leder skal utarbeide interne retningslinjer og instrukser i samsvar med første ledd.
 
@@ -1319,7 +1544,11 @@ Departementet kan i forskrift gi regler om klagebehandling.
 
 (1) Med algoritmehandel menes handel med finansielle instrumenter der en dataalgoritme automatisk, med begrenset eller ingen menneskelig medvirkning, bestemmer individuelle parametere for en ordre, herunder om ordren skal legges inn, tidspunktet, prisen eller størrelsen på ordren, eller hvordan ordren skal håndteres etter at den er lagt inn. Begrepet omfatter ikke systemer som bare anvendes for å videresende ordrer til en eller flere handelsplasser for å behandle ordrer uten fastsettelse av handelsparametere, eller for å bekrefte ordrer eller behandle utførte transaksjoner etter at handelen er gjennomført.
 
-(2) Med høyfrekvent algoritmehandel menes algoritmehandel som kjennetegnes av:en infrastruktur som skal redusere latenstiden, herunder minst ett av følgende systemer for algoritmebasert registrering av ordrer: samlokalisering, nærhetsbaserte vertstjenester eller direkte elektronisk høyhastighetstilgang,at systemet uten menneskelig medvirkning til den enkelte handel eller ordre tar beslutninger om ordren skal legges inn, om generering, videresending eller utførelse av ordren, ogstore mengder ordrer, kvoteringer eller kanselleringer den enkelte handelsdag.
+(2) Med høyfrekvent algoritmehandel menes algoritmehandel som kjennetegnes av:
+
+1. en infrastruktur som skal redusere latenstiden, herunder minst ett av følgende systemer for algoritmebasert registrering av ordrer: samlokalisering, nærhetsbaserte vertstjenester eller direkte elektronisk høyhastighetstilgang,
+2. at systemet uten menneskelig medvirkning til den enkelte handel eller ordre tar beslutninger om ordren skal legges inn, om generering, videresending eller utførelse av ordren, og
+3. store mengder ordrer, kvoteringer eller kanselleringer den enkelte handelsdag.
 
 (3) Med direkte elektronisk tilgang menes en ordning der medlem, deltaker eller kunde på en handelsplass gir en person tillatelse til å bruke sin handelsidentitet slik at personen kan sende elektroniske ordrer knyttet til et finansielt instrument direkte til handelsplassen, herunder ordninger som innebærer at en person bruker medlemmets, deltakerens eller kundens infrastruktur, eller annet tilkoblingssystem stilt til disposisjon fra medlemmet, deltakeren eller kunden, for å overføre ordrene (direkte markedsadgang), og andre ordninger der en slik infrastruktur ikke brukes (sponset tilgang).
 
@@ -1349,7 +1578,12 @@ Departementet kan i forskrift gi regler om klagebehandling.
 
 ### § 9-24. Direkte elektronisk tilgang
 
-(1) Verdipapirforetak som tilbyr direkte elektronisk tilgang til en handelsplass, skal ha effektive systemer og kontroller som sikrer:at egnetheten til kunder som gis tilgang, vurderes og kontrolleres på hensiktsmessig måte,at kunder som gis tilgang, hindres i å overskride egnede forhåndsbestemte handels- og kredittgrenser,at handel utført av kunder som anvender tjenesten, overvåkes på en hensiktsmessig måte, ogat egnede risikokontroller hindrer handel som kan skape risiko for verdipapirforetaket eller uro i markedet eller være i strid med reglene i [kapittel 3](lov/2007-06-29-75/kap3) eller handelsplassens regler.
+(1) Verdipapirforetak som tilbyr direkte elektronisk tilgang til en handelsplass, skal ha effektive systemer og kontroller som sikrer:
+
+1. at egnetheten til kunder som gis tilgang, vurderes og kontrolleres på hensiktsmessig måte,
+2. at kunder som gis tilgang, hindres i å overskride egnede forhåndsbestemte handels- og kredittgrenser,
+3. at handel utført av kunder som anvender tjenesten, overvåkes på en hensiktsmessig måte, og
+4. at egnede risikokontroller hindrer handel som kan skape risiko for verdipapirforetaket eller uro i markedet eller være i strid med reglene i [kapittel 3](lov/2007-06-29-75/kap3) eller handelsplassens regler.
 
 (2) Verdipapirforetak som tilbyr direkte elektronisk tilgang, skal sikre at kunder som gis slik tilgang, oppfyller handelsplassens regler og kravene i loven her med unntak av [kapittel 3](lov/2007-06-29-75/kap3) til 8 og [kapittel 13](lov/2007-06-29-75/kap13). Verdipapirforetaket skal overvåke transaksjonene for å kunne identifisere overtredelse av disse reglene, uordnede handelsforhold eller atferd som kan innebære markedsmisbruk og som skal rapporteres til Finanstilsynet. Verdipapirforetaket skal sikre at det foreligger en skriftlig avtale med kunder som gis direkte elektronisk tilgang. Avtalen skal omfatte de viktigste rettigheter og forpliktelser som følger av tjenesteytelsen, og det skal fremgå at verdipapirforetaket ifølge avtalen forblir ansvarlig etter loven her.
 
@@ -1373,7 +1607,16 @@ Departementet kan i forskrift gi regler om klagebehandling.
 
 ### § 9-26. Handelsprosessen og gjennomføring av transaksjoner på multilaterale handelsfasiliteter og organiserte handelsfasiliteter
 
-(1) Operatøren av en multilateral handelsfasilitet eller en organisert handelsfasilitet skal:ha klare regler og rutiner for rettferdig og ordnet handel, og fastlegge objektive kriterier for effektiv utførelse av ordrer, og ha ordninger for forsvarlig styring av den tekniske driften av fasiliteten, herunder beredskapsplaner og systemer for å håndtere risiko for systemforstyrrelser,ha klare og offentliggjorte regler for hvilke finansielle instrumenter som skal kunne handles i systemet, og påse at det finnes tilstrekkelig offentlig informasjon til at en bruker kan foreta en velfundert investeringsbeslutning, sett hen til type bruker og type finansielt instrument,ha klare og ikke-diskriminerende regler basert på objektive kriterier om tilgang til fasiliteten,ha ordninger for å kunne identifisere og håndtere potensielle negative virkninger for driften av fasiliteten eller for dens deltakere eller brukere, av eventuelle interessekonflikter mellom på den ene side fasiliteten, operatøren eller dens eiere og på den annen side en velfungerende fasilitet,tilfredsstille kravene i [§§ 11-19](lov/2007-06-29-75/§11-19) til [11-24](lov/2007-06-29-75/§11-24) og [§ 11-26](lov/2007-06-29-75/§11-26), og ha alle nødvendige systemer, prosedyrer og ordninger for å gjøre dette,tydelig informere sine deltakere om deres ansvar for oppgjør og sørge for at det legges til rette for effektiv og rettidig gjennomføring av oppgjør av transaksjoner som er utført i handelssystemet på fasiliteten,ha minst tre aktive brukere eller deltakere som kan delta i prisdannelsen,umiddelbart etterkomme pålegg fra Finanstilsynet om å suspendere eller stryke et finansielt instrument fra handel, jf. [§ 9-30](lov/2007-06-29-75/§9-30).
+(1) Operatøren av en multilateral handelsfasilitet eller en organisert handelsfasilitet skal:
+
+1. ha klare regler og rutiner for rettferdig og ordnet handel, og fastlegge objektive kriterier for effektiv utførelse av ordrer, og ha ordninger for forsvarlig styring av den tekniske driften av fasiliteten, herunder beredskapsplaner og systemer for å håndtere risiko for systemforstyrrelser,
+2. ha klare og offentliggjorte regler for hvilke finansielle instrumenter som skal kunne handles i systemet, og påse at det finnes tilstrekkelig offentlig informasjon til at en bruker kan foreta en velfundert investeringsbeslutning, sett hen til type bruker og type finansielt instrument,
+3. ha klare og ikke-diskriminerende regler basert på objektive kriterier om tilgang til fasiliteten,
+4. ha ordninger for å kunne identifisere og håndtere potensielle negative virkninger for driften av fasiliteten eller for dens deltakere eller brukere, av eventuelle interessekonflikter mellom på den ene side fasiliteten, operatøren eller dens eiere og på den annen side en velfungerende fasilitet,
+5. tilfredsstille kravene i [§§ 11-19](lov/2007-06-29-75/§11-19) til [11-24](lov/2007-06-29-75/§11-24) og [§ 11-26](lov/2007-06-29-75/§11-26), og ha alle nødvendige systemer, prosedyrer og ordninger for å gjøre dette,
+6. tydelig informere sine deltakere om deres ansvar for oppgjør og sørge for at det legges til rette for effektiv og rettidig gjennomføring av oppgjør av transaksjoner som er utført i handelssystemet på fasiliteten,
+7. ha minst tre aktive brukere eller deltakere som kan delta i prisdannelsen,
+8. umiddelbart etterkomme pålegg fra Finanstilsynet om å suspendere eller stryke et finansielt instrument fra handel, jf. [§ 9-30](lov/2007-06-29-75/§9-30).
 
 (2) Hvis et omsettelig verdipapir som er opptatt til handel på et regulert marked, omsettes på en multilateral handelsfasilitet eller en organisert handelsfasilitet uten utstederens samtykke, skal utstederen ikke underlegges informasjonsplikter som følge av omsetningen på fasiliteten.
 
@@ -1389,7 +1632,11 @@ Departementet kan i forskrift gi regler om klagebehandling.
 
 (2) Reglene i [§ 9-26](lov/2007-06-29-75/§9-26) første ledd nr. 3 om tilgang til fasiliteten skal være i samsvar med [§ 12-4](lov/2007-06-29-75/§12-4) tredje ledd.
 
-(3) Operatøren av en multilateral handelsfasilitet skal:treffe nødvendige tiltak for å håndtere risikoer fasiliteten er utsatt for, etablere hensiktsmessige ordninger og systemer for å identifisere alle vesentlige risikoer for driften og ha effektive tiltak for å redusere risikoene,sørge for at det legges til rette for effektiv og rettidig gjennomføring av transaksjoner som er utført på fasilitetens systemer,til enhver tid ha tilgang til tilstrekkelige finansielle ressurser for å legge til rette for en velfungerende fasilitet, sett hen til type og omfang av transaksjoner som utføres på fasiliteten, og type og omfang av risikoer fasiliteten er utsatt for.
+(3) Operatøren av en multilateral handelsfasilitet skal:
+
+1. treffe nødvendige tiltak for å håndtere risikoer fasiliteten er utsatt for, etablere hensiktsmessige ordninger og systemer for å identifisere alle vesentlige risikoer for driften og ha effektive tiltak for å redusere risikoene,
+2. sørge for at det legges til rette for effektiv og rettidig gjennomføring av transaksjoner som er utført på fasilitetens systemer,
+3. til enhver tid ha tilgang til tilstrekkelige finansielle ressurser for å legge til rette for en velfungerende fasilitet, sett hen til type og omfang av transaksjoner som utføres på fasiliteten, og type og omfang av risikoer fasiliteten er utsatt for.
 
 (4) Kravene i [§§ 10-9](lov/2007-06-29-75/§10-9) til [10-18](lov/2007-06-29-75/§10-18), [§ 10-19](lov/2007-06-29-75/§10-19), [§ 10-20](lov/2007-06-29-75/§10-20) [første ledd](lov/2007-06-29-75/§10-20/ledd/1) og [§ 10-21](lov/2007-06-29-75/§10-21) gjelder ikke for transaksjoner som inngås mellom deltakerne av den multilaterale handelsfasiliteten, eller mellom fasiliteten og dens deltakere, etter fasilitetens regler og under anvendelse av fasilitetens systemer. Kravene i [§§ 10-9](lov/2007-06-29-75/§10-9) til [10-21](lov/2007-06-29-75/§10-21) gjelder likevel overfor deltakernes kunder når de på vegne av kundene utfører ordre via den multilaterale handelsfasiliteten.
 
@@ -1407,11 +1654,18 @@ Departementet kan i forskrift gi regler om klagebehandling.
 
 (3) Operatøren av en organisert handelsfasilitet kan bare drive egenhandel som ikke er prinsipalmatchingshandel, jf. [§ 9-27](lov/2007-06-29-75/§9-27) femte ledd, i statsobligasjoner som det ikke er et likvid marked for.
 
-(4) Med likvid marked menes et marked for et finansielt instrument eller en klasse av finansielle instrumenter som det til enhver tid finnes klare og villige kjøpere og selgere til. I vurderingen av om markedet har en slik karakter, skal det hensyntas særlige markedsstrukturer for det enkelte finansielle instrumentet eller den enkelte klassen av finansielle instrumenter, og vurderingen skal baseres på følgende kriterier:den gjennomsnittlige transaksjonshyppigheten og -størrelsen under ulike markedsvilkår, hensyntatt produktenes art og livssyklus i den berørte klassen av finansielle instrumenter,antallet og typen markedsdeltakere, herunder forholdet mellom antallet markedsdeltakere og antallet instrumenter som handles når det gjelder et visst produkt, oggjennomsnittlig differanse mellom kjøpskurs og salgskurs dersom slike opplysninger er tilgjengelige.
+(4) Med likvid marked menes et marked for et finansielt instrument eller en klasse av finansielle instrumenter som det til enhver tid finnes klare og villige kjøpere og selgere til. I vurderingen av om markedet har en slik karakter, skal det hensyntas særlige markedsstrukturer for det enkelte finansielle instrumentet eller den enkelte klassen av finansielle instrumenter, og vurderingen skal baseres på følgende kriterier:
+
+1. den gjennomsnittlige transaksjonshyppigheten og -størrelsen under ulike markedsvilkår, hensyntatt produktenes art og livssyklus i den berørte klassen av finansielle instrumenter,
+2. antallet og typen markedsdeltakere, herunder forholdet mellom antallet markedsdeltakere og antallet instrumenter som handles når det gjelder et visst produkt, og
+3. gjennomsnittlig differanse mellom kjøpskurs og salgskurs dersom slike opplysninger er tilgjengelige.
 
 (5) En organisert handelsfasilitet og en systematisk internaliserer kan ikke drives i samme juridiske enhet. En organisert handelsfasilitet kan heller ikke ha tilknytning til en systematisk internaliserer som gjør det mulig å matche ordrer på fasiliteten og ordrer eller prisstillelse i den systematiske internalisereren. En organisert handelsfasilitet kan ikke ha slik tilknytning til en annen organisert handelsfasilitet at det muliggjør matching mellom ordrer i de to fasilitetene.
 
-(6) Utførelse av en ordre på en organisert handelsfasilitet skal skje på diskresjonært grunnlag ved at operatøren kan velge om ordren skal utføres på en eller begge følgende måter:ved beslutning om å plassere eller å trekke ordren på fasiliteten,ved beslutning om ikke å matche en konkret kundeordre med andre ordrer som er tilgjengelige i fasilitetens systemer på et gitt tidspunkt, forutsatt at dette er i henhold til instruksjon mottatt fra kunden og i samsvar med forpliktelsene etter [§§ 10-19](lov/2007-06-29-75/§10-19) og [10-20](lov/2007-06-29-75/§10-20).
+(6) Utførelse av en ordre på en organisert handelsfasilitet skal skje på diskresjonært grunnlag ved at operatøren kan velge om ordren skal utføres på en eller begge følgende måter:
+
+1. ved beslutning om å plassere eller å trekke ordren på fasiliteten,
+2. ved beslutning om ikke å matche en konkret kundeordre med andre ordrer som er tilgjengelige i fasilitetens systemer på et gitt tidspunkt, forutsatt at dette er i henhold til instruksjon mottatt fra kunden og i samsvar med forpliktelsene etter [§§ 10-19](lov/2007-06-29-75/§10-19) og [10-20](lov/2007-06-29-75/§10-20).
 
 (7) Operatøren av en organisert handelsfasilitet kan beslutte om, når og hvor stor del av to eller flere ordrer som skal matches i systemet. Operatøren kan legge til rette for forhandlinger mellom to kunder med sikte på å få i stand en transaksjon.
 
@@ -1463,7 +1717,15 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (2) Med små og mellomstore bedrifter menes i bestemmelsen her bedrifter som har en gjennomsnittlig markedsverdi på mindre enn et beløp i norske kroner som svarer til 200 millioner euro beregnet på grunnlag av sluttkursen for de tre foregående kalenderårene.
 
-(3) Registrering som vekstmarked for små og mellomstore bedrifter kan bare skje dersom:minst 50 prosent av utstederne av de finansielle instrumentene som er opptatt til handel på en multilateral handelsfasilitet, er små og mellomstore bedrifter på det tidspunkt den multilaterale handelsfasiliteten registreres som et vekstmarked for små og mellomstore bedrifter, og i hvert kalenderår deretter,det er fastsatt egnede kriterier for opptak til handel av finansielle instrumenter fra utstedere på markedet og deres løpende forpliktelser,det før opptak til handel er offentliggjort tilstrekkelige opplysninger til at investorer kan ta en velbegrunnet beslutning om hvorvidt de skal investere i de finansielle instrumentene, enten i et egnet opptaksdokument eller et prospekt dersom kravene i [kapittel 7](lov/2007-06-29-75/kap7) får anvendelse på et tilbud til offentligheten,en utsteder på markedet fremlegger, eller det fremlegges på vegne av denne, regelmessige og egnede periodiske finansielle rapporter,utstedere på markedet som definert i forordning [(EU) nr. 596/2014](eu/32014r0596*) artikkel 3 nr. 1 [punkt](lov/2007-06-29-75/kap2) 2, personer med overordnet ansvar som definert i forordningen artikkel 3 nr. 1 punkt 25, og personer med nær forbindelse til slike, som definert i nevnte forordningen artikkel 3 nr. 1 punkt 26, oppfyller relevante krav etter forordningen,påkrevde opplysninger om utstederne på markedet oppbevares og offentliggjøres,det er innført effektive systemer og kontroller for å hindre og avdekke markedsmisbruk på vedkommende marked i samsvar med kravene i [kapittel 3](lov/2007-06-29-75/kap3).
+(3) Registrering som vekstmarked for små og mellomstore bedrifter kan bare skje dersom:
+
+1. minst 50 prosent av utstederne av de finansielle instrumentene som er opptatt til handel på en multilateral handelsfasilitet, er små og mellomstore bedrifter på det tidspunkt den multilaterale handelsfasiliteten registreres som et vekstmarked for små og mellomstore bedrifter, og i hvert kalenderår deretter,
+2. det er fastsatt egnede kriterier for opptak til handel av finansielle instrumenter fra utstedere på markedet og deres løpende forpliktelser,
+3. det før opptak til handel er offentliggjort tilstrekkelige opplysninger til at investorer kan ta en velbegrunnet beslutning om hvorvidt de skal investere i de finansielle instrumentene, enten i et egnet opptaksdokument eller et prospekt dersom kravene i [kapittel 7](lov/2007-06-29-75/kap7) får anvendelse på et tilbud til offentligheten,
+4. en utsteder på markedet fremlegger, eller det fremlegges på vegne av denne, regelmessige og egnede periodiske finansielle rapporter,
+5. utstedere på markedet som definert i forordning [(EU) nr. 596/2014](eu/32014r0596*) artikkel 3 nr. 1 [punkt](lov/2007-06-29-75/kap2) 2, personer med overordnet ansvar som definert i forordningen artikkel 3 nr. 1 punkt 25, og personer med nær forbindelse til slike, som definert i nevnte forordningen artikkel 3 nr. 1 punkt 26, oppfyller relevante krav etter forordningen,
+6. påkrevde opplysninger om utstederne på markedet oppbevares og offentliggjøres,
+7. det er innført effektive systemer og kontroller for å hindre og avdekke markedsmisbruk på vedkommende marked i samsvar med kravene i [kapittel 3](lov/2007-06-29-75/kap3).
 
 (4) Finanstilsynet kan avregistrere en multilateral handelsfasilitet som et vekstmarked for små og mellomstore bedrifter dersom verdipapirforetaket eller markedsoperatøren som driver den multilaterale handelsfasiliteten, søker om avregistrering, eller den multilaterale handelsfasiliteten ikke lenger oppfyller kravene i tredje ledd.
 
@@ -1479,7 +1741,10 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (1) Verdipapirforetak som ønsker å yte investeringstjenester eller drive investeringsvirksomhet samt tilknyttede tjenester direkte fra forretningssted i Norge til annen EØS-stat, skal gi Finanstilsynet melding om dette.
 
-(2) Meldingen skal inneholde følgende opplysninger:i hvilken EØS-stat foretaket har til hensikt å utøve virksomhet (vertsstaten), ogen virksomhetsplan som beskriver hvilke investeringstjenester, investeringsvirksomhet og tilknyttede tjenester som foretaket har til hensikt å utøve. Dersom verdipapirforetaket har til hensikt å benytte tilknyttede agenter etablert i Norge, skal foretaket gi opplysninger om dette, herunder identiteten til de tilknyttede agentene.
+(2) Meldingen skal inneholde følgende opplysninger:
+
+1. i hvilken EØS-stat foretaket har til hensikt å utøve virksomhet (vertsstaten), og
+2. en virksomhetsplan som beskriver hvilke investeringstjenester, investeringsvirksomhet og tilknyttede tjenester som foretaket har til hensikt å utøve. Dersom verdipapirforetaket har til hensikt å benytte tilknyttede agenter etablert i Norge, skal foretaket gi opplysninger om dette, herunder identiteten til de tilknyttede agentene.
 
 (3) Finanstilsynet skal videresende meldingen til tilsynsmyndigheten i vertsstaten innen én måned etter at fullstendig melding som nevnt i første ledd er mottatt, herunder om bruk av tilknyttede agenter og identiteten til disse. Finanstilsynet skal umiddelbart underrette verdipapirforetaket om oversendelsen. Verdipapirforetaket kan starte utøvelsen av sin virksomhet fra det tidspunktet slik underretning er mottatt.
 
@@ -1497,7 +1762,14 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (1) Verdipapirforetak som ønsker å yte investeringstjenester eller drive investeringsvirksomhet samt tilknyttede tjenester i en annen EØS-stat gjennom etablering av en filial, eller ved å benytte en tilknyttet agent etablert i en annen EØS-stat, skal gi Finanstilsynet melding om dette.
 
-(2) Meldingen skal inneholde følgende:opplysning om i hvilken EØS-stat foretaket har til hensikt å etablere filial eller har til hensikt å benytte tilknyttet agent etablert der uten å etablere filial (vertsstaten),en virksomhetsplan som beskriver de tjenester eller den investeringsvirksomhet som skal utøves,en beskrivelse av filialens organisering, herunder om filialen har til hensikt å benytte tilknyttede agenter etablert i vertsstaten, og eventuelt hvilke tilknyttede agenter dette gjelder,en beskrivelse av den planlagte bruken av tilknyttede agenter og organisasjonsstrukturen som viser hvordan agentene inngår i verdipapirforetakets foretaksstruktur, herunder rapporteringslinjer, dersom foretaket bruker tilknyttede agenter etablert i vertsstaten og ikke har opprettet en filial,opplysning om adresse i vertsstaten der dokumenter kan innhentes,navn på personene som utgjør filialens eller den tilknyttede agentens ledelse.
+(2) Meldingen skal inneholde følgende:
+
+1. opplysning om i hvilken EØS-stat foretaket har til hensikt å etablere filial eller har til hensikt å benytte tilknyttet agent etablert der uten å etablere filial (vertsstaten),
+2. en virksomhetsplan som beskriver de tjenester eller den investeringsvirksomhet som skal utøves,
+3. en beskrivelse av filialens organisering, herunder om filialen har til hensikt å benytte tilknyttede agenter etablert i vertsstaten, og eventuelt hvilke tilknyttede agenter dette gjelder,
+4. en beskrivelse av den planlagte bruken av tilknyttede agenter og organisasjonsstrukturen som viser hvordan agentene inngår i verdipapirforetakets foretaksstruktur, herunder rapporteringslinjer, dersom foretaket bruker tilknyttede agenter etablert i vertsstaten og ikke har opprettet en filial,
+5. opplysning om adresse i vertsstaten der dokumenter kan innhentes,
+6. navn på personene som utgjør filialens eller den tilknyttede agentens ledelse.
 
 (3) Finanstilsynet skal oversende meldingen til tilsynsmyndigheten i vertsstaten innen tre måneder etter å ha mottatt den og underrette verdipapirforetaket om dette. Finanstilsynet skal også oversende opplysninger om eventuelle erstatningsordninger som har til formål å verne filialens kunder. Så snart verdipapirforetaket har mottatt melding fra vertsstatens tilsynsmyndighet, kan filialen etableres og starte sin virksomhet. Tilsvarende gjelder dersom verdipapirforetaket ikke har mottatt melding fra vertsstatens tilsynsmyndighet innen to måneder etter at den har mottatt melding fra Finanstilsynet.
 
@@ -1515,7 +1787,10 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 ### § 9-34. Virksomhet i Norge fra foretak med hovedsete i annen EØS-stat
 
-(1) Verdipapirforetak og kredittinstitusjoner med hovedsete i en annen EØS-stat (hjemstaten) kan yte investeringstjenester og drive investeringsvirksomhet i Norge på følgende måter:direkte fra forretningssted i hjemstaten, også gjennom bruk av tilknyttet agent etablert i hjemstaten, ellergjennom etablering av filial eller bruk av tilknyttet agent etablert i Norge.
+(1) Verdipapirforetak og kredittinstitusjoner med hovedsete i en annen EØS-stat (hjemstaten) kan yte investeringstjenester og drive investeringsvirksomhet i Norge på følgende måter:
+
+1. direkte fra forretningssted i hjemstaten, også gjennom bruk av tilknyttet agent etablert i hjemstaten, eller
+2. gjennom etablering av filial eller bruk av tilknyttet agent etablert i Norge.
 
 (2) Foretak etter første ledd må ha tillatelse til å yte slike investeringstjenester og være underlagt tilsyn i hjemstaten. Foretaket kan bare yte tilknyttede tjenester sammen med investeringstjenester eller investeringsvirksomhet.
 
@@ -1545,11 +1820,28 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (1) Tredjestatsforetak kan gis tillatelse av Finanstilsynet til å yte investeringstjenester og drive investeringsvirksomhet i Norge gjennom etablering av norsk filial. Med tredjestatsforetak i bestemmelsen her menes foretak med hovedsete utenfor EØS som ville vært å anse som verdipapirforetak eller kredittinstitusjon som yter investeringstjenester eller driver investeringsvirksomhet om det hadde hatt hovedsete i EØS.
 
-(2) Tillatelse etter første ledd kan gis dersom:foretaket er underlagt betryggende tilsyn i hjemstaten og oppfyller kravene som gjelder for å drive virksomheten i hjemstaten,foretakets hjemstat tar behørig hensyn til anbefalingene fra Financial Action Task Force om bekjempelse av hvitvasking av penger og finansiering av terrorisme,det er etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i foretakets hjemstat og Norge,filialen kan disponere en tilstrekkelig startkapital,personene som utgjør filialens ledelse, tilfredsstiller kravene i [§ 9-10](lov/2007-06-29-75/§9-10),foretakets hjemstat og Norge har undertegnet en avtale som tilfredsstiller standardene fastsatt i artikkel 26 i OECDs mønsteravtale om beskatning av inntekter og kapital, og som sikrer effektiv utveksling av opplysninger i skattesaker, herunder eventuelle multilaterale skatteavtaler, ogforetaket er medlem i en erstatningsordning for investorer som er godkjent eller anerkjent i samsvar med direktiv [97/9/EF](eu/31997l0009).
+(2) Tillatelse etter første ledd kan gis dersom:
 
-(3) Søknad om tillatelse etter første ledd skal inneholde følgende:navnet på myndigheten som er ansvarlig for tilsynet med foretaket i hjemstaten. Dersom flere myndigheter er ansvarlige for tilsynet, skal det gis opplysninger om deres respektive ansvarsområder,alle relevante opplysninger om foretaket, herunder navn, organisasjonsform, forretningskontor og adresse, medlemmer av styre og øvrig ledelse og relevante aksjeeiere,en virksomhetsplan som angir hvilke investeringstjenester som skal ytes, eller hvilken investeringsvirksomhet som skal drives, samt filialens organisasjonsstruktur, herunder en beskrivelse av en eventuell utkontraktering av vesentlige driftsfunksjoner,navnene på personene som utgjør filialens ledelse, og relevante dokumenter som viser at kravene i [§ 9-10](lov/2007-06-29-75/§9-10) er oppfylt,opplysninger om startkapitalen som er fritt disponibelt for filialen.
+1. foretaket er underlagt betryggende tilsyn i hjemstaten og oppfyller kravene som gjelder for å drive virksomheten i hjemstaten,
+2. foretakets hjemstat tar behørig hensyn til anbefalingene fra Financial Action Task Force om bekjempelse av hvitvasking av penger og finansiering av terrorisme,
+3. det er etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i foretakets hjemstat og Norge,
+4. filialen kan disponere en tilstrekkelig startkapital,
+5. personene som utgjør filialens ledelse, tilfredsstiller kravene i [§ 9-10](lov/2007-06-29-75/§9-10),
+6. foretakets hjemstat og Norge har undertegnet en avtale som tilfredsstiller standardene fastsatt i artikkel 26 i OECDs mønsteravtale om beskatning av inntekter og kapital, og som sikrer effektiv utveksling av opplysninger i skattesaker, herunder eventuelle multilaterale skatteavtaler, og
+7. foretaket er medlem i en erstatningsordning for investorer som er godkjent eller anerkjent i samsvar med direktiv [97/9/EF](eu/31997l0009).
 
-(4) Krav om tillatelse etter første ledd gjelder ikke dersom:Finanstilsynet har truffet vedtak om likeverdighet i medhold av syvende ledd og foretaket har tillatelse etter artikkel 46 til 49 i verdipapirmarkedsforordningen, ellerdet ytes tjenester direkte fra forretningssted utenfor EØS utelukkende på kundens eget initiativ. Et slikt initiativ fra en kunde gir ikke rett til å markedsføre nye kategorier av investeringsprodukter eller investeringstjenester overfor den berørte kunden uten tillatelse.
+(3) Søknad om tillatelse etter første ledd skal inneholde følgende:
+
+1. navnet på myndigheten som er ansvarlig for tilsynet med foretaket i hjemstaten. Dersom flere myndigheter er ansvarlige for tilsynet, skal det gis opplysninger om deres respektive ansvarsområder,
+2. alle relevante opplysninger om foretaket, herunder navn, organisasjonsform, forretningskontor og adresse, medlemmer av styre og øvrig ledelse og relevante aksjeeiere,
+3. en virksomhetsplan som angir hvilke investeringstjenester som skal ytes, eller hvilken investeringsvirksomhet som skal drives, samt filialens organisasjonsstruktur, herunder en beskrivelse av en eventuell utkontraktering av vesentlige driftsfunksjoner,
+4. navnene på personene som utgjør filialens ledelse, og relevante dokumenter som viser at kravene i [§ 9-10](lov/2007-06-29-75/§9-10) er oppfylt,
+5. opplysninger om startkapitalen som er fritt disponibelt for filialen.
+
+(4) Krav om tillatelse etter første ledd gjelder ikke dersom:
+
+1. Finanstilsynet har truffet vedtak om likeverdighet i medhold av syvende ledd og foretaket har tillatelse etter artikkel 46 til 49 i verdipapirmarkedsforordningen, eller
+2. det ytes tjenester direkte fra forretningssted utenfor EØS utelukkende på kundens eget initiativ. Et slikt initiativ fra en kunde gir ikke rett til å markedsføre nye kategorier av investeringsprodukter eller investeringstjenester overfor den berørte kunden uten tillatelse.
 
 (5) Tillatelse etter første ledd skal bare gis der Finanstilsynet anser at vilkårene for tillatelse etter annet til tredje ledd er oppfylt. Vedtak om tillatelse skal meddeles søkeren senest seks måneder etter at søknaden ble mottatt. Dersom søknaden ikke inneholder opplysninger som er nødvendige for å avgjøre om tillatelse skal gis, regnes fristen fra tidspunktet slike opplysninger ble mottatt.
 
@@ -1561,7 +1853,13 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 ### § 9-37. Verdipapirhandellovens anvendelse for filial av foretak med hovedsete utenfor EØS
 
-(1) For filialer med tillatelse etter [§ 9-36](lov/2007-06-29-75/§9-36) gjelder følgende av lovens bestemmelser og forskrifter fastsatt i medhold av disse:[§ 9-7](lov/2007-06-29-75/§9-7), [§ 9-10](lov/2007-06-29-75/§9-10), [§§ 9-16](lov/2007-06-29-75/§9-16) til [9-19](lov/2007-06-29-75/§9-19), [§§ 9-22](lov/2007-06-29-75/§9-22) til [9-30](lov/2007-06-29-75/§9-30) og [§ 9-38](lov/2007-06-29-75/§9-38)[§ 10-2](lov/2007-06-29-75/§10-2), [§§ 10-9](lov/2007-06-29-75/§10-9) til [10-17](lov/2007-06-29-75/§10-17), [§ 10-19](lov/2007-06-29-75/§10-19), [§ 10-20](lov/2007-06-29-75/§10-20) og [§ 10-21](lov/2007-06-29-75/§10-21) første ledd,[§ 10-23](lov/2007-06-29-75/§10-23) og [kapittel 20](lov/2007-06-29-75/kap20),[kapittel 19](lov/2007-06-29-75/kap19) dersom dette er bestemt av Finanstilsynet på bakgrunn av tilsynsavtale med hjemstatsmyndigheten,artikkel 3 til 26 i verdipapirmarkedsforordningen.
+(1) For filialer med tillatelse etter [§ 9-36](lov/2007-06-29-75/§9-36) gjelder følgende av lovens bestemmelser og forskrifter fastsatt i medhold av disse:
+
+1. [§ 9-7](lov/2007-06-29-75/§9-7), [§ 9-10](lov/2007-06-29-75/§9-10), [§§ 9-16](lov/2007-06-29-75/§9-16) til [9-19](lov/2007-06-29-75/§9-19), [§§ 9-22](lov/2007-06-29-75/§9-22) til [9-30](lov/2007-06-29-75/§9-30) og [§ 9-38](lov/2007-06-29-75/§9-38)
+2. [§ 10-2](lov/2007-06-29-75/§10-2), [§§ 10-9](lov/2007-06-29-75/§10-9) til [10-17](lov/2007-06-29-75/§10-17), [§ 10-19](lov/2007-06-29-75/§10-19), [§ 10-20](lov/2007-06-29-75/§10-20) og [§ 10-21](lov/2007-06-29-75/§10-21) første ledd,
+3. [§ 10-23](lov/2007-06-29-75/§10-23) og [kapittel 20](lov/2007-06-29-75/kap20),
+4. [kapittel 19](lov/2007-06-29-75/kap19) dersom dette er bestemt av Finanstilsynet på bakgrunn av tilsynsavtale med hjemstatsmyndigheten,
+5. artikkel 3 til 26 i verdipapirmarkedsforordningen.
 
 (2) Departementet kan gi utfyllende forskrifter til bestemmelsen her.
 
@@ -1633,7 +1931,12 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (7) Finanstilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at et verdipapirforetak kan ha lavere kapitaldekning enn det som følger av bestemmelsen her og [§ 9-40](lov/2007-06-29-75/§9-40).
 
-(8) Departementet kan i forskrift fastsette bestemmelser om:beregningsgrunnlaget for kredittrisiko, markedsrisiko og operasjonell risiko, herunder regler som sikrer at beregningsgrunnlaget i tilstrekkelig grad reflekterer risikoen i verdipapirforetakets eiendeler,bruk av interne målemetoder for kredittrisiko, markedsrisiko og operasjonell risiko,hvilke sikkerheter det kan tas hensyn til ved beregningen av minstekrav til kapital,at ren kjernekapital eller kjernekapital minst skal utgjøre en bestemt prosent av verdien av verdipapirforetakets eiendeler og ikke-balanseførte forpliktelser, beregnet uten risikovekting, og regler for slike beregninger om uvektet kjernekapitalandel.
+(8) Departementet kan i forskrift fastsette bestemmelser om:
+
+1. beregningsgrunnlaget for kredittrisiko, markedsrisiko og operasjonell risiko, herunder regler som sikrer at beregningsgrunnlaget i tilstrekkelig grad reflekterer risikoen i verdipapirforetakets eiendeler,
+2. bruk av interne målemetoder for kredittrisiko, markedsrisiko og operasjonell risiko,
+3. hvilke sikkerheter det kan tas hensyn til ved beregningen av minstekrav til kapital,
+4. at ren kjernekapital eller kjernekapital minst skal utgjøre en bestemt prosent av verdien av verdipapirforetakets eiendeler og ikke-balanseførte forpliktelser, beregnet uten risikovekting, og regler for slike beregninger om uvektet kjernekapitalandel.
 
 > Tilføyd ved lov [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), kap endret i sin helhet). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer).
 
@@ -1687,7 +1990,11 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 ### § 9-46. Konsolidering
 
-(1) Kravene i dette kapittelet skal anvendes på konsolidert grunnlag dersom verdipapirforetaket:har en direkte eller indirekte eierandel på 20 prosent eller mer av stemmene eller kapitalen i et annet foretak,har felles ledelse med et annet foretak, ellerhar morselskap, med mindre halvparten eller mer av virksomheten i konsernet er virksomhet som ikke er konsesjonspliktig og underlagt kapitalkrav som i kapittelet her eller tilsvarende kapitalkrav.
+(1) Kravene i dette kapittelet skal anvendes på konsolidert grunnlag dersom verdipapirforetaket:
+
+1. har en direkte eller indirekte eierandel på 20 prosent eller mer av stemmene eller kapitalen i et annet foretak,
+2. har felles ledelse med et annet foretak, eller
+3. har morselskap, med mindre halvparten eller mer av virksomheten i konsernet er virksomhet som ikke er konsesjonspliktig og underlagt kapitalkrav som i kapittelet her eller tilsvarende kapitalkrav.
 
 (2) Finanstilsynet kan i forskrift eller ved enkeltvedtak gjøre unntak fra første ledd nr. 2.
 
@@ -1725,7 +2032,15 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 ### § 9-49. Retting og pålegg
 
-(1) Verdipapirforetak som ikke oppfyller kravene etter [§§ 9-39](lov/2007-06-29-75/§9-39) til [9-48](lov/2007-06-29-75/§9-48) eller forskrifter fastsatt i medhold av disse bestemmelsene, skal straks iverksette nødvendige tiltak for å rette opp dette. Ved manglende etterlevelse av kravene kan Finanstilsynet pålegge foretaket:å endre organiseringen, styringen og kontrollen av virksomheten og de strategier, prosesser, retningslinjer og rutiner som virksomheten drives etter,et høyere kapitalkrav enn minstekrav som følger av [§§ 9-39](lov/2007-06-29-75/§9-39) til [§ 9-42](lov/2007-06-29-75/§9-42),å endre eller begrense virksomheten,å redusere risikoen knyttet til virksomheten, herunder produkter og systemer,å redusere forskjellen i løpetid mellom foretakets forpliktelser og eiendeler,å begrense omfanget av prestasjonsbetinget godtgjørelse,å benytte årets resultat til å øke kjernekapitaldekningen og ikke å utbetale utbytte og rente på kjernekapital.
+(1) Verdipapirforetak som ikke oppfyller kravene etter [§§ 9-39](lov/2007-06-29-75/§9-39) til [9-48](lov/2007-06-29-75/§9-48) eller forskrifter fastsatt i medhold av disse bestemmelsene, skal straks iverksette nødvendige tiltak for å rette opp dette. Ved manglende etterlevelse av kravene kan Finanstilsynet pålegge foretaket:
+
+1. å endre organiseringen, styringen og kontrollen av virksomheten og de strategier, prosesser, retningslinjer og rutiner som virksomheten drives etter,
+2. et høyere kapitalkrav enn minstekrav som følger av [§§ 9-39](lov/2007-06-29-75/§9-39) til [§ 9-42](lov/2007-06-29-75/§9-42),
+3. å endre eller begrense virksomheten,
+4. å redusere risikoen knyttet til virksomheten, herunder produkter og systemer,
+5. å redusere forskjellen i løpetid mellom foretakets forpliktelser og eiendeler,
+6. å begrense omfanget av prestasjonsbetinget godtgjørelse,
+7. å benytte årets resultat til å øke kjernekapitaldekningen og ikke å utbetale utbytte og rente på kjernekapital.
 
 (2) Finanstilsynet kan gi pålegg etter første ledd som felles pålegg for en gruppe av foretak som er utsatt for samme type risiko eller medfører samme type risiko for det finansielle systemet.
 
@@ -1805,7 +2120,11 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (2) Finanstilsynet kan i særlige tilfeller gjøre unntak fra første ledd.
 
-(3) Dersom det svekker verdipapirforetakets uavhengige stilling, kan verdipapirforetaket ikke:ha ubegrenset ansvar i annet foretak,ha eiendeler i og delta i driften av annen næringsvirksomhet, ellerha slik innflytelse som nevnt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) annet ledd i et annet foretak.
+(3) Dersom det svekker verdipapirforetakets uavhengige stilling, kan verdipapirforetaket ikke:
+
+1. ha ubegrenset ansvar i annet foretak,
+2. ha eiendeler i og delta i driften av annen næringsvirksomhet, eller
+3. ha slik innflytelse som nevnt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3) annet ledd i et annet foretak.
 
 (4) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -1835,7 +2154,26 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 ### § 10-6. Profesjonelle kunder
 
-(1) Følgende kunder anses som profesjonelle i relasjon til alle investeringstjenester, all investeringsvirksomhet og alle finansielle instrumenter:foretak som har fått tillatelse til, eller er lovregulert for å utøve virksomhet på, finansmarkedene i EØS eller tredjestat og er å anse som, eller driver tilsvarende virksomhet som:kredittinstitusjoner,verdipapirforetak,forsikringsselskaper,andre godkjente eller lovregulerte finansforetak,innrettinger for kollektiv investering og forvaltningsselskaper for slike innretninger,pensjonsforetak og forvalter for slike foretak,vare- og varederivatforhandlere,lokale foretak,andre institusjonelle investorer,store foretak som oppfyller minst to av følgende krav til størrelse på foretaksnivå:regnskapsmessig balanse på et beløp i norske kroner som minst svarer til 20 000 000 euro,årlig netto omsetning på et beløp i norske kroner som minst svarer til 40 000 000 euro,egenkapital på et beløp i norske kroner som minst svarer til 2 000 000 euro,nasjonale og regionale myndigheter, herunder offentlige organer som forvalter offentlig gjeld på nasjonalt eller regionalt plan, sentralbanker og internasjonale og overnasjonale institusjoner,andre institusjonelle investorer som har som hovedvirksomhet å investere i finansielle instrumenter, herunder enheter som driver med verdipapirisering av eiendeler eller andre finansielle transaksjoner.
+(1) Følgende kunder anses som profesjonelle i relasjon til alle investeringstjenester, all investeringsvirksomhet og alle finansielle instrumenter:
+
+1. foretak som har fått tillatelse til, eller er lovregulert for å utøve virksomhet på, finansmarkedene i EØS eller tredjestat og er å anse som, eller driver tilsvarende virksomhet som:
+
+   1. kredittinstitusjoner,
+   2. verdipapirforetak,
+   3. forsikringsselskaper,
+   4. andre godkjente eller lovregulerte finansforetak,
+   5. innrettinger for kollektiv investering og forvaltningsselskaper for slike innretninger,
+   6. pensjonsforetak og forvalter for slike foretak,
+   7. vare- og varederivatforhandlere,
+   8. lokale foretak,
+   9. andre institusjonelle investorer,
+2. store foretak som oppfyller minst to av følgende krav til størrelse på foretaksnivå:
+
+   1. regnskapsmessig balanse på et beløp i norske kroner som minst svarer til 20 000 000 euro,
+   2. årlig netto omsetning på et beløp i norske kroner som minst svarer til 40 000 000 euro,
+   3. egenkapital på et beløp i norske kroner som minst svarer til 2 000 000 euro,
+3. nasjonale og regionale myndigheter, herunder offentlige organer som forvalter offentlig gjeld på nasjonalt eller regionalt plan, sentralbanker og internasjonale og overnasjonale institusjoner,
+4. andre institusjonelle investorer som har som hovedvirksomhet å investere i finansielle instrumenter, herunder enheter som driver med verdipapirisering av eiendeler eller andre finansielle transaksjoner.
 
 (2) Verdipapirforetak skal informere kunde som nevnt i første ledd skriftlig om at kunden anses for å være profesjonell, om at den har adgang til å be om en annen kategorisering, og om hvilken betydning kategoriseringen har for graden av investorbeskyttelse.
 
@@ -1851,7 +2189,11 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (1) Som ikke-profesjonell kunde regnes enhver kunde som verken anses som profesjonell etter [§ 10-6](lov/2007-06-29-75/§10-6) eller er omklassifisert til profesjonell etter [§ 10-8](lov/2007-06-29-75/§10-8).
 
-(2) En ikke-profesjonell kunde kan be om å bli behandlet som en profesjonell kunde dersom minst to av følgende tre kriterier er oppfylt:kunden har foretatt transaksjoner av betydelig størrelse på det relevante marked gjennomsnittlig ti ganger per kvartal i de foregående fire kvartaler,størrelsen på kundens finansielle portefølje (kontantbeholdning og finansielle instrumenter) overstiger et beløp i norske kroner som svarer til 500 000 euro,kunden arbeider eller har arbeidet innen finansiell sektor i minst ett år i stilling som krever kunnskap om de relevante transaksjoner eller investeringstjenester.
+(2) En ikke-profesjonell kunde kan be om å bli behandlet som en profesjonell kunde dersom minst to av følgende tre kriterier er oppfylt:
+
+1. kunden har foretatt transaksjoner av betydelig størrelse på det relevante marked gjennomsnittlig ti ganger per kvartal i de foregående fire kvartaler,
+2. størrelsen på kundens finansielle portefølje (kontantbeholdning og finansielle instrumenter) overstiger et beløp i norske kroner som svarer til 500 000 euro,
+3. kunden arbeider eller har arbeidet innen finansiell sektor i minst ett år i stilling som krever kunnskap om de relevante transaksjoner eller investeringstjenester.
 
 (3) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -1891,7 +2233,11 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (2) Verdipapirforetak skal i god tid før det yter investeringstjeneste eller tilknyttet tjeneste gi kunder og potensielle kunder relevant informasjon om verdipapirforetaket og de tjenester det yter, finansielle instrumenter og foreslåtte investeringsstrategier, utførelsesplasser og alle kostnader og gebyrer i samsvar med bestemmelsen her.
 
-(3) Verdipapirforetak skal i god tid før det yter investeringsrådgivning informere kunder eller potensielle kunder:om det ytes uavhengig investeringsrådgivning eller investeringsrådgivning som ikke er uavhengig,om rådgivningen er basert på en bred eller mer begrenset analyse av forskjellige typer finansielle instrumenter, og særlig om utvalget er begrenset til finansielle instrumenter som utstedes eller leveres av foretak som verdipapirforetaket har nære forbindelser til etter [§ 9-1](lov/2007-06-29-75/§9-1) annet ledd, eller om andre juridiske eller økonomiske forbindelser er så nære at det kan utgjøre en risiko for at det uavhengige grunnlaget for investeringsrådgivningen svekkes,om verdipapirforetaket vil gi kunden en periodisk egnethetsvurdering.
+(3) Verdipapirforetak skal i god tid før det yter investeringsrådgivning informere kunder eller potensielle kunder:
+
+1. om det ytes uavhengig investeringsrådgivning eller investeringsrådgivning som ikke er uavhengig,
+2. om rådgivningen er basert på en bred eller mer begrenset analyse av forskjellige typer finansielle instrumenter, og særlig om utvalget er begrenset til finansielle instrumenter som utstedes eller leveres av foretak som verdipapirforetaket har nære forbindelser til etter [§ 9-1](lov/2007-06-29-75/§9-1) annet ledd, eller om andre juridiske eller økonomiske forbindelser er så nære at det kan utgjøre en risiko for at det uavhengige grunnlaget for investeringsrådgivningen svekkes,
+3. om verdipapirforetaket vil gi kunden en periodisk egnethetsvurdering.
 
 (4) Informasjonen om finansielle instrumenter og foreslåtte investeringsstrategier etter annet ledd, skal omfatte hensiktsmessig veiledning og advarsel om risiko forbundet med investeringer i de aktuelle instrumentene eller foreslåtte investeringsstrategiene, og informasjon om det finansielle instrumentet er tiltenkt ikke-profesjonelle eller profesjonelle kunder. Ved utformingen av informasjonen skal den identifiserte målgruppen av sluttkunder, jf. [§ 10-9](lov/2007-06-29-75/§10-9) annet ledd, tas i betraktning.
 
@@ -1899,7 +2245,12 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (6) Informasjonen om alle kostnader og gebyrer som ikke skyldes underliggende markedsrisiko, skal sammenstilles på en slik måte at kunden kan forstå den samlede kostnaden og den kumulative effekten på investeringens avkastning. Foretaket skal på kundens forespørsel spesifisere hver enkelt kostnad. Opplysningene skal, dersom det er aktuelt, gis regelmessig og minimum årlig gjennom investeringens løpetid.
 
-(7) Dersom transaksjonsavtalen inngås ved fjernkommunikasjon, kan informasjon om kostnader og gebyrer gis på et varig medium uten ugrunnet opphold etter at det er inngått avtale dersombruken av fjernkommunikasjonsmiddelet forhindret foretaket i å gi informasjonen tidligere,kunden har samtykket til å motta informasjon om kostnader og gebyrer uten ugrunnet opphold etter at transaksjonen er utført,verdipapirforetaket har gitt kunden anledning til å utsette transaksjonen for å motta informasjon om kostnader og gebyrer på et varig medium på forhånd, ogverdipapirforetaket har gitt kunden tilbud om å få informasjonen over telefon på forhånd.
+(7) Dersom transaksjonsavtalen inngås ved fjernkommunikasjon, kan informasjon om kostnader og gebyrer gis på et varig medium uten ugrunnet opphold etter at det er inngått avtale dersom
+
+1. bruken av fjernkommunikasjonsmiddelet forhindret foretaket i å gi informasjonen tidligere,
+2. kunden har samtykket til å motta informasjon om kostnader og gebyrer uten ugrunnet opphold etter at transaksjonen er utført,
+3. verdipapirforetaket har gitt kunden anledning til å utsette transaksjonen for å motta informasjon om kostnader og gebyrer på et varig medium på forhånd, og
+4. verdipapirforetaket har gitt kunden tilbud om å få informasjonen over telefon på forhånd.
 
 (8) Opplysninger etter første til syvende ledd skal gis i forståelig form og på en slik måte at kunder og potensielle kunder har en rimelig mulighet til å forstå arten av og risikoen forbundet med investeringstjenesten og de finansielle instrumentene som tilbys, og på denne bakgrunn være i stand til å fatte en informert investeringsbeslutning. Opplysningene kan gis i et standardisert format.
 
@@ -1923,7 +2274,10 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 ### § 10-11. Særskilte krav for uavhengig investeringsrådgivning
 
-(1) Verdipapirforetak som informerer kunden om at det yter uavhengig investeringsrådgivning etter [§ 10-10](lov/2007-06-29-75/§10-10) tredje ledd nr. 1, skal vurdere et tilstrekkelig utvalg av tilgjengelige finansielle instrumenter. Utvalget må være tilstrekkelig diversifisert ut fra type og utsteder eller produkttilbyder til å sikre at kundens investeringsmål kan oppfylles på egnet måte. Utvalget kan ikke være begrenset til produkter og finansielle instrumenter som utstedes eller tilbys av:foretaket selv eller enheter med nære forbindelser til foretaket etter [§ 9-1](lov/2007-06-29-75/§9-1) annet ledd, ellerandre enheter som foretaket har så nære juridiske eller økonomiske forbindelser med at det kan innebære en risiko for at det uavhengige grunnlaget for investeringsrådgivningen svekkes.
+(1) Verdipapirforetak som informerer kunden om at det yter uavhengig investeringsrådgivning etter [§ 10-10](lov/2007-06-29-75/§10-10) tredje ledd nr. 1, skal vurdere et tilstrekkelig utvalg av tilgjengelige finansielle instrumenter. Utvalget må være tilstrekkelig diversifisert ut fra type og utsteder eller produkttilbyder til å sikre at kundens investeringsmål kan oppfylles på egnet måte. Utvalget kan ikke være begrenset til produkter og finansielle instrumenter som utstedes eller tilbys av:
+
+1. foretaket selv eller enheter med nære forbindelser til foretaket etter [§ 9-1](lov/2007-06-29-75/§9-1) annet ledd, eller
+2. andre enheter som foretaket har så nære juridiske eller økonomiske forbindelser med at det kan innebære en risiko for at det uavhengige grunnlaget for investeringsrådgivningen svekkes.
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -1939,7 +2293,11 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (4) Et verdipapirforetak som yter porteføljeforvaltning eller informerer kunden om at det yter uavhengig investeringsrådgivning, jf. [§ 10-10](lov/2007-06-29-75/§10-10) tredje ledd nr. 1, kan ikke motta og beholde vederlag fra andre enn kunden. Dette gjelder likevel ikke mindre naturalytelser som kan forbedre kvaliteten på tjenesten til kunden og er av slik art og et slikt omfang at foretakets evne til å ivareta kundens beste interesser ikke svekkes. Kunden skal gis skriftlig informasjon om mindre naturalytelser foretaket mottar og beholder.
 
-(5) Første ledd omfatter ikke levering av analyse fra en tredjepart til verdipapirforetak som yter porteføljeforvaltning eller andre investeringstjenester eller tilknyttede tjenester til kunder dersomdet er inngått en avtale mellom verdipapirforetaket og analyseleverandøren før ytelsen av utførelses- eller analysetjenestene, som identifiserer den delen av kombinerte gebyrer eller felles betalinger for utførelsestjenester og analyse som knytter seg til analyse,verdipapirforetaket informerer sine kunder om felles betalinger for utførelsestjenester og analyse foretatt overfor en tredjepart som leverer analyse, oganalysen som de kombinerte gebyrene eller fellesbetalingene knytter seg til, gjelder utstedere med en markedsverdi som i de siste 36 månedene forut for ytelsen av analysetjenesten ikke oversteg et beløp i norske kroner som svarer til 1 milliard euro, uttrykt ved kursverdien ved årets utgang for de årene de er eller var notert, eller ved egenkapital for de regnskapsårene de ikke er eller var notert.
+(5) Første ledd omfatter ikke levering av analyse fra en tredjepart til verdipapirforetak som yter porteføljeforvaltning eller andre investeringstjenester eller tilknyttede tjenester til kunder dersom
+
+1. det er inngått en avtale mellom verdipapirforetaket og analyseleverandøren før ytelsen av utførelses- eller analysetjenestene, som identifiserer den delen av kombinerte gebyrer eller felles betalinger for utførelsestjenester og analyse som knytter seg til analyse,
+2. verdipapirforetaket informerer sine kunder om felles betalinger for utførelsestjenester og analyse foretatt overfor en tredjepart som leverer analyse, og
+3. analysen som de kombinerte gebyrene eller fellesbetalingene knytter seg til, gjelder utstedere med en markedsverdi som i de siste 36 månedene forut for ytelsen av analysetjenesten ikke oversteg et beløp i norske kroner som svarer til 1 milliard euro, uttrykt ved kursverdien ved årets utgang for de årene de er eller var notert, eller ved egenkapital for de regnskapsårene de ikke er eller var notert.
 
 (6) Med analyse etter femte ledd menes analysemateriale eller -tjenester vedrørende ett eller flere finansielle instrumenter eller andre aktiva, eller utstedere eller potensielle utstedere av finansielle instrumenter, eller vedrørende en bestemt næring eller marked slik at det gir uttrykk for synspunkter om finansielle instrumenter, aktiva eller utstedere innenfor vedkommende næring eller marked. Analyse omfatter også materiale eller tjenester som uttrykkelig eller på andre måter anbefaler eller foreslår en investeringsstrategi og gir en begrunnet vurdering av den gjeldende eller fremtidige verdien eller prisen av finansielle instrumenter eller aktiva, eller som på annen måte inneholder analyse og genuin innsikt og trekker konklusjoner basert på ny eller eksisterende informasjon som kan brukes til å informere en investeringsstrategi, og som kan være egnet til å tilføre verdi til avgjørelsene verdipapirforetaket treffer på vegne av kunder som belastes for analysen.
 
@@ -1975,7 +2333,12 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (4) Hvis verdipapirforetaket vurderer at investeringstjenesten eller investeringsproduktet ikke er hensiktsmessig etter tredje ledd, skal kunden eller den potensielle kunden advares om dette. Dersom kunden eller den potensielle kunden velger å ikke gi opplysninger som verdipapirforetaket plikter å innhente, eller gir ufullstendige opplysninger, skal foretaket advare om at dette gjør at foretaket ikke kan vurdere hva som er hensiktsmessig for vedkommende.
 
-(5) Tredje og fjerde ledd gjelder ikke når verdipapirforetaket yter investeringstjenester som utelukkende består av mottak, formidling og utførelse av ordre, med eller uten tilknyttede tjenester, forutsatt at følgende vilkår er oppfylt:tjenestene gjelder finansielle instrumenter som ikke er komplekse,tjenestene ytes på kundens eller den potensielle kundens initiativ,kunden eller den potensielle kunden underrettes klart om at verdipapirforetaket ikke har plikt til å vurdere hensiktsmessigheten av instrumentet eller tjenesten, og at den investorbeskyttelsen som denne plikten medfører dermed ikke er til stede, ogverdipapirforetaket etterlever kravene til håndtering av interessekonflikter etter [§ 10-2](lov/2007-06-29-75/§10-2).
+(5) Tredje og fjerde ledd gjelder ikke når verdipapirforetaket yter investeringstjenester som utelukkende består av mottak, formidling og utførelse av ordre, med eller uten tilknyttede tjenester, forutsatt at følgende vilkår er oppfylt:
+
+1. tjenestene gjelder finansielle instrumenter som ikke er komplekse,
+2. tjenestene ytes på kundens eller den potensielle kundens initiativ,
+3. kunden eller den potensielle kunden underrettes klart om at verdipapirforetaket ikke har plikt til å vurdere hensiktsmessigheten av instrumentet eller tjenesten, og at den investorbeskyttelsen som denne plikten medfører dermed ikke er til stede, og
+4. verdipapirforetaket etterlever kravene til håndtering av interessekonflikter etter [§ 10-2](lov/2007-06-29-75/§10-2).
 
 (6) Unntaket etter femte ledd gjelder ikke når det ytes kreditt etter [§ 2-6](lov/2007-06-29-75/§2-6) nr. 2 som overstiger tidligere innvilget kredittramme.
 
@@ -1989,7 +2352,10 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (1) Instrumenter som inngår i annen godkjent kjernekapital eller tilleggskapital etter [finansforetaksloven](lov/2015-04-10-17), eller som er etterstilte gjeldsinstrumenter etter [finansforetaksloven § 20-32](lov/2015-04-10-17/§20-32) første ledd nr. 4, kan bare selges til ikke-profesjonelle kunder når selgeren finner, etter en egnethetsvurdering i samsvar med [§ 10-15](lov/2007-06-29-75/§10-15) første ledd, at slike instrumenter er egnede for den ikke-profesjonelle kunden, og selgeren dokumenter egnetheten i samsvar med [§ 10-17](lov/2007-06-29-75/§10-17) tredje ledd.
 
-(2) Dersom kundens portefølje av finansielle instrumenter på kjøpstidspunktet ikke overstiger et beløp som svarer til 500 000 euro, skal selgeren i tillegg sørge for at følgende vilkår er oppfylt:kundens investering i instrumenter som nevnt i første ledd overstiger ikke ti prosent av kundens portefølje av finansielle instrumenter.kundens første investering i instrumenter som nevnt i første ledd utgjør et beløp som minst svarer til 10 000 euro.
+(2) Dersom kundens portefølje av finansielle instrumenter på kjøpstidspunktet ikke overstiger et beløp som svarer til 500 000 euro, skal selgeren i tillegg sørge for at følgende vilkår er oppfylt:
+
+1. kundens investering i instrumenter som nevnt i første ledd overstiger ikke ti prosent av kundens portefølje av finansielle instrumenter.
+2. kundens første investering i instrumenter som nevnt i første ledd utgjør et beløp som minst svarer til 10 000 euro.
 
 (3) Kundens portefølje av finansielle instrumenter etter annet ledd omfatter kontanter og finansielle instrumenter, men ikke finansielle instrumenter som er stilt som sikkerhet.
 
@@ -2001,7 +2367,14 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 ### § 10-16. Ikke-komplekse finansielle instrumenter
 
-(1) Følgende finansielle instrumenter regnes ikke som komplekse etter [§ 10-15](lov/2007-06-29-75/§10-15) fjerde ledd nr. 1:aksjer opptatt til handel på et regulert marked eller et likeverdig tredjestatsmarked eller på en multilateral handelsfasilitet, med unntak av aksjer med derivatelement og aksjer i alternative investeringsfond,obligasjoner eller andre gjeldsinstrumenter opptatt til handel på et regulert marked eller et likeverdig tredjestatsmarked eller på en multilateral handelsfasilitet, og som ikke inneholder et derivatelement eller har en struktur som gjør det vanskelig for kunden å forstå risikoen,pengemarkedsinstrumenter som ikke inneholder et derivatelement eller har en struktur som gjør det vanskelig for kunden å forstå risikoen,aksjer eller andeler i UCITS som definert i [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) nr. 4, unntatt strukturerte UCITS som omhandlet i forordning [(EU) nr. 583/2010](eu/32010r0583) artikkel 36 nr. 1 annet avsnitt,strukturerte innskudd som ikke har en oppbygning som gjør det vanskelig for kunden å forstå avkastningsrisikoen eller kostnadene ved førtidig oppsigelse av produktet,andre finansielle instrumenter som ikke er å anse som komplekse sett hen til formålet med [§ 10-15](lov/2007-06-29-75/§10-15) fjerde ledd.
+(1) Følgende finansielle instrumenter regnes ikke som komplekse etter [§ 10-15](lov/2007-06-29-75/§10-15) fjerde ledd nr. 1:
+
+1. aksjer opptatt til handel på et regulert marked eller et likeverdig tredjestatsmarked eller på en multilateral handelsfasilitet, med unntak av aksjer med derivatelement og aksjer i alternative investeringsfond,
+2. obligasjoner eller andre gjeldsinstrumenter opptatt til handel på et regulert marked eller et likeverdig tredjestatsmarked eller på en multilateral handelsfasilitet, og som ikke inneholder et derivatelement eller har en struktur som gjør det vanskelig for kunden å forstå risikoen,
+3. pengemarkedsinstrumenter som ikke inneholder et derivatelement eller har en struktur som gjør det vanskelig for kunden å forstå risikoen,
+4. aksjer eller andeler i UCITS som definert i [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) nr. 4, unntatt strukturerte UCITS som omhandlet i forordning [(EU) nr. 583/2010](eu/32010r0583) artikkel 36 nr. 1 annet avsnitt,
+5. strukturerte innskudd som ikke har en oppbygning som gjør det vanskelig for kunden å forstå avkastningsrisikoen eller kostnadene ved førtidig oppsigelse av produktet,
+6. andre finansielle instrumenter som ikke er å anse som komplekse sett hen til formålet med [§ 10-15](lov/2007-06-29-75/§10-15) fjerde ledd.
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her, herunder bestemmelser om hva som er å anse som likeverdig tredjestatsmarked.
 
@@ -2015,7 +2388,11 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (3) Verdipapirforetak skal når det yter investeringsrådgiving til en ikke-profesjonell kunde, gi kunden en erklæring om egnethet før transaksjonen gjennomføres. Egnethetserklæringen skal spesifisere foretakets råd og begrunne hvordan rådet svarer til kundens preferanse, mål og andre egenskaper.
 
-(4) Dersom transaksjonsavtalen inngås ved fjernkommunikasjon, kan erklæring etter tredje ledd gis umiddelbart etter at det er inngått avtale dersom:bruken av fjernkommunikasjonsmiddelet forhindret foretaket i å gi informasjonen tidligere,kunden har samtykket til å motta egnethetserklæringen umiddelbart etter at transaksjonen er utført, ogverdipapirforetaket har gitt kunden anledning til å utsette transaksjonen for å motta egnethetserklæringen på forhånd.
+(4) Dersom transaksjonsavtalen inngås ved fjernkommunikasjon, kan erklæring etter tredje ledd gis umiddelbart etter at det er inngått avtale dersom:
+
+1. bruken av fjernkommunikasjonsmiddelet forhindret foretaket i å gi informasjonen tidligere,
+2. kunden har samtykket til å motta egnethetserklæringen umiddelbart etter at transaksjonen er utført, og
+3. verdipapirforetaket har gitt kunden anledning til å utsette transaksjonen for å motta egnethetserklæringen på forhånd.
 
 (5) Når et verdipapirforetak yter porteføljeforvaltning til en ikke-profesjonell kunde eller har informert en slik kunde om at foretaket vil gi kunden en periodisk egnethetsvurdering, skal den periodiske informasjonen til kunden omfatte en oppdatert erklæring om hvordan investeringen svarer til kundens preferanse, mål og andre egenskaper.
 
@@ -2109,7 +2486,15 @@ Departementet kan fastsette bestemmelser i forskrift om at [§ 11-13](lov/2007-0
 
 (1) Verdipapirforetak med tillatelse til å yte tjenester som nevnt i [§ 2-1](lov/2007-06-29-75/§2-1) første ledd nr. 1 til 3, kan medvirke til eller gjennomføre transaksjoner med kvalifiserte motparter uten å overholde kravene etter [§ 10-9](lov/2007-06-29-75/§10-9), [§ 10-10](lov/2007-06-29-75/§10-10), [§§ 10-11](lov/2007-06-29-75/§10-11) til [§ 10-17](lov/2007-06-29-75/§10-17), [§ 10-19](lov/2007-06-29-75/§10-19), [§ 10-20](lov/2007-06-29-75/§10-20) og [§ 10-21](lov/2007-06-29-75/§10-21) første ledd i forbindelse med disse transaksjonene eller tilknyttede tjenester som er direkte relatert til disse transaksjonene.
 
-(2) Følgende skal regnes som kvalifiserte motparter i bestemmelsen her:verdipapirforetak,kredittinstitusjoner,forsikringsselskap,innretninger for kollektiv investering og forvaltere for slike innretninger,pensjonsforetak og forvaltningsselskaper for slike foretak,andre godkjente eller lovregulerte finansforetak,offentlige myndigheter på nasjonalt nivå, inkludert sentralbanker og overnasjonale organisasjoner.
+(2) Følgende skal regnes som kvalifiserte motparter i bestemmelsen her:
+
+1. verdipapirforetak,
+2. kredittinstitusjoner,
+3. forsikringsselskap,
+4. innretninger for kollektiv investering og forvaltere for slike innretninger,
+5. pensjonsforetak og forvaltningsselskaper for slike foretak,
+6. andre godkjente eller lovregulerte finansforetak,
+7. offentlige myndigheter på nasjonalt nivå, inkludert sentralbanker og overnasjonale organisasjoner.
 
 (3) Kravene i [§§ 10-9](lov/2007-06-29-75/§10-9) til [10-21](lov/2007-06-29-75/§10-21) skal likevel gjelde dersom en kvalifisert motpart anmoder om dette overfor verdipapirforetaket.
 
@@ -2179,7 +2564,13 @@ Departementet kan i forskrift fastsette en plikt for verdipapirforetak til å le
 
 ### § 11-3. Endring og tilbakekall av tillatelse
 
-(1) Departementet kan helt eller delvis endre, herunder sette nye vilkår, eller tilbakekalle tillatelse til en markedsoperatør dersom:markedsoperatøren ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på tillatelsen eller har opphørt å drive regulert marked i mer enn seks måneder,markedsoperatøren har fått tillatelsen ved bruk av uriktige opplysninger eller andre uregelmessigheter,markedsoperatøren ikke lenger oppfyller vilkårene for tillatelsen, herunder krav til ansvarlig kapital,markedsoperatøren foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, slik at det er grunn til å frykte for at fortsettelse av virksomheten kan skade aktører på det regulerte markedet, tilliten til verdipapirmarkedet eller institusjonene som virker i markedet, ellermarkedsoperatøren ikke etterkommer pålegg gitt i medhold av [§ 19-7](lov/2007-06-29-75/§19-7) eller [finanstilsynsloven § 4-1](lov/2024-06-21-41/§4-1).
+(1) Departementet kan helt eller delvis endre, herunder sette nye vilkår, eller tilbakekalle tillatelse til en markedsoperatør dersom:
+
+1. markedsoperatøren ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på tillatelsen eller har opphørt å drive regulert marked i mer enn seks måneder,
+2. markedsoperatøren har fått tillatelsen ved bruk av uriktige opplysninger eller andre uregelmessigheter,
+3. markedsoperatøren ikke lenger oppfyller vilkårene for tillatelsen, herunder krav til ansvarlig kapital,
+4. markedsoperatøren foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, slik at det er grunn til å frykte for at fortsettelse av virksomheten kan skade aktører på det regulerte markedet, tilliten til verdipapirmarkedet eller institusjonene som virker i markedet, eller
+5. markedsoperatøren ikke etterkommer pålegg gitt i medhold av [§ 19-7](lov/2007-06-29-75/§19-7) eller [finanstilsynsloven § 4-1](lov/2024-06-21-41/§4-1).
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -2325,7 +2716,12 @@ Finanstilsynet kan gi nærmere regler om revisors arbeidsoppgaver i en markedsop
 
 ### § 11-18. Organisatoriske krav
 
-(1) Et regulert marked skal fastsette interne regler og treffe nødvendige tiltak som til enhver tid sikrer:identifisering og håndtering av interessekonflikter mellom det regulerte markedet, dets eiere eller markedsoperatør på den ene siden, og markedets oppgaver og funksjoner på den annen side,identifisering og håndtering av vesentlige risikoer som virksomheten utsettes for, herunder håndtering av risiko knyttet til IKT-systemer i henhold til forordning [(EU) 2022/2554](eu/32022r2554) kapittel II, jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1),transparente og ikke-diskresjonære handelsregler og prosedyrer som sørger for rettferdig og ordnet handel, herunder etablering av objektive kriterier for effektiv gjennomføring av ordrer,at det legges til rette for effektiv og rettidig gjennomføring av transaksjoner i systemet.
+(1) Et regulert marked skal fastsette interne regler og treffe nødvendige tiltak som til enhver tid sikrer:
+
+1. identifisering og håndtering av interessekonflikter mellom det regulerte markedet, dets eiere eller markedsoperatør på den ene siden, og markedets oppgaver og funksjoner på den annen side,
+2. identifisering og håndtering av vesentlige risikoer som virksomheten utsettes for, herunder håndtering av risiko knyttet til IKT-systemer i henhold til forordning [(EU) 2022/2554](eu/32022r2554) kapittel II, jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1),
+3. transparente og ikke-diskresjonære handelsregler og prosedyrer som sørger for rettferdig og ordnet handel, herunder etablering av objektive kriterier for effektiv gjennomføring av ordrer,
+4. at det legges til rette for effektiv og rettidig gjennomføring av transaksjoner i systemet.
 
 (2) Markedsoperatøren kan ikke utføre kundeordrer mot egen beholdning eller ved prinsipalmatchingshandel, jf. [§ 9-27](lov/2007-06-29-75/§9-27) femte ledd, på et regulert marked som det driver.
 
@@ -2335,7 +2731,11 @@ Finanstilsynet kan gi nærmere regler om revisors arbeidsoppgaver i en markedsop
 
 ### § 11-19. Robuste systemer og automatiske handelssperrer på regulert marked
 
-(1) Et regulert marked skal ha effektive systemer, prosedyrer og ordninger for operasjonell motstandsdyktighet i henhold til forordning [(EU) 2022/2554](eu/32022r2554) kapittel II, jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1), som til enhver tid sikrer at handelssystemet:er robust og har tilstrekkelig kapasitet for å kunne håndtere høye ordre- og meldingsvolum,sikrer velordnet handel ved alvorlig markedsuro,er fullt gjennomtestet.
+(1) Et regulert marked skal ha effektive systemer, prosedyrer og ordninger for operasjonell motstandsdyktighet i henhold til forordning [(EU) 2022/2554](eu/32022r2554) kapittel II, jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1), som til enhver tid sikrer at handelssystemet:
+
+1. er robust og har tilstrekkelig kapasitet for å kunne håndtere høye ordre- og meldingsvolum,
+2. sikrer velordnet handel ved alvorlig markedsuro,
+3. er fullt gjennomtestet.
 
 (2) Et regulert marked skal ha beredskapsplaner og systemer i henhold til forordning [(EU) 2022/2554](eu/32022r2554) artikkel 11, jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1), som sikrer kontinuerlig drift ved svikt i handelssystemet.
 
@@ -2383,7 +2783,11 @@ Finanstilsynet kan gi nærmere regler om revisors arbeidsoppgaver i en markedsop
 
 ### § 11-22. Direkte elektronisk tilgang
 
-(1) For et regulert marked som tillater direkte elektronisk tilgang, gjelder følgende:Det regulerte markedet skal ha effektive systemer og prosedyrer og treffe nødvendige tiltak for å sikre at bare medlemmer som har tillatelse som verdipapirforetak etter direktiv [2014/65/EU](eu/32014l0065*) eller som kredittinstitusjon etter direktiv [2013/36/EU](eu/32013l0036*), tilbyr slik tilgang. Tilsvarende gjelder for å sikre at medlemmene har fastsatt hensiktsmessige kriterier om egnethet for brukere av tilgangen, og at medlemmene har ansvaret for ordrer og handler som utføres ved anvendelse av tjenesten i samsvar med loven her, jf. [§ 9-24](lov/2007-06-29-75/§9-24).Det regulerte markedet skal ha hensiktsmessige regler for risikokontroll og terskler for handel gjennom direkte elektronisk tilgang, og skal kunne skille, og ved behov stanse, ordrer og handler utført gjennom slik tilgang uten å stoppe andre ordrer fra samme medlem.Det regulerte markedet skal ha ordninger for suspensjon eller opphør av direkte elektronisk tilgang gitt av et medlem dersom kravene etter bestemmelsen her ikke overholdes.
+(1) For et regulert marked som tillater direkte elektronisk tilgang, gjelder følgende:
+
+1. Det regulerte markedet skal ha effektive systemer og prosedyrer og treffe nødvendige tiltak for å sikre at bare medlemmer som har tillatelse som verdipapirforetak etter direktiv [2014/65/EU](eu/32014l0065*) eller som kredittinstitusjon etter direktiv [2013/36/EU](eu/32013l0036*), tilbyr slik tilgang. Tilsvarende gjelder for å sikre at medlemmene har fastsatt hensiktsmessige kriterier om egnethet for brukere av tilgangen, og at medlemmene har ansvaret for ordrer og handler som utføres ved anvendelse av tjenesten i samsvar med loven her, jf. [§ 9-24](lov/2007-06-29-75/§9-24).
+2. Det regulerte markedet skal ha hensiktsmessige regler for risikokontroll og terskler for handel gjennom direkte elektronisk tilgang, og skal kunne skille, og ved behov stanse, ordrer og handler utført gjennom slik tilgang uten å stoppe andre ordrer fra samme medlem.
+3. Det regulerte markedet skal ha ordninger for suspensjon eller opphør av direkte elektronisk tilgang gitt av et medlem dersom kravene etter bestemmelsen her ikke overholdes.
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -2407,7 +2811,11 @@ Finanstilsynet kan gi nærmere regler om revisors arbeidsoppgaver i en markedsop
 
 (1) Et regulert marked skal ha regler om minste tillatte kursendring for aksjer, depotbevis, børshandlede fond, sertifikater og andre lignende finansielle instrumenter.
 
-(2) Reglene etter første ledd skal:reflektere det aktuelle finansielle instrumentets likviditetsprofil på forskjellige markeder og gjennomsnittlige differanser mellom kjøpskurs og salgskurs,ta i betraktning behovet for stabile kurser uten å begrense ytterligere reduksjon av differansen mellom kjøpskurs og salgskurs mer enn nødvendig,tilpasse minste tillatte kursendring for det enkelte finansielle instrument på en hensiktsmessig måte.
+(2) Reglene etter første ledd skal:
+
+1. reflektere det aktuelle finansielle instrumentets likviditetsprofil på forskjellige markeder og gjennomsnittlige differanser mellom kjøpskurs og salgskurs,
+2. ta i betraktning behovet for stabile kurser uten å begrense ytterligere reduksjon av differansen mellom kjøpskurs og salgskurs mer enn nødvendig,
+3. tilpasse minste tillatte kursendring for det enkelte finansielle instrument på en hensiktsmessig måte.
 
 (3) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -2485,9 +2893,20 @@ Finanstilsynet kan gi nærmere regler om revisors arbeidsoppgaver i en markedsop
 
 (1) Et regulert marked skal ha oversiktlige og ikke-diskriminerende regler basert på objektive kriterier om medlemskap og tilgang til markedet.
 
-(2) Reglene som nevnt i første ledd skal beskrive et medlems forpliktelser som følger av:reguleringen av og virksomheten til det regulerte markedet,markedets handelsregler,profesjonelle standarder for ansatte i verdipapirforetak eller kredittinstitusjoner som deltar på markedet,vilkårene som gjelder for medlemmer som ikke er verdipapirforetak eller kredittinstitusjoner,regler og prosedyrer for oppgjør og clearing av transaksjoner som gjelder på markedet.
+(2) Reglene som nevnt i første ledd skal beskrive et medlems forpliktelser som følger av:
 
-(3) Et regulert marked kan oppta verdipapirforetak og kredittinstitusjoner som medlem. Et regulert marked kan også oppta andre juridiske og fysiske personer som medlem, såfremt disse:har tilstrekkelig godt omdømme,har tilstrekkelig evne, kompetanse og erfaring knyttet til handel og transaksjoner,har, der hvor det er relevant, tilstrekkelige organisatoriske ordninger, oghar nødvendige finansielle ressurser, tatt i betraktning ulike ordninger for å garantere riktig oppgjør av transaksjoner.
+1. reguleringen av og virksomheten til det regulerte markedet,
+2. markedets handelsregler,
+3. profesjonelle standarder for ansatte i verdipapirforetak eller kredittinstitusjoner som deltar på markedet,
+4. vilkårene som gjelder for medlemmer som ikke er verdipapirforetak eller kredittinstitusjoner,
+5. regler og prosedyrer for oppgjør og clearing av transaksjoner som gjelder på markedet.
+
+(3) Et regulert marked kan oppta verdipapirforetak og kredittinstitusjoner som medlem. Et regulert marked kan også oppta andre juridiske og fysiske personer som medlem, såfremt disse:
+
+1. har tilstrekkelig godt omdømme,
+2. har tilstrekkelig evne, kompetanse og erfaring knyttet til handel og transaksjoner,
+3. har, der hvor det er relevant, tilstrekkelige organisatoriske ordninger, og
+4. har nødvendige finansielle ressurser, tatt i betraktning ulike ordninger for å garantere riktig oppgjør av transaksjoner.
 
 (4) Kravene i [§§ 10-9](lov/2007-06-29-75/§10-9) til [10-21](lov/2007-06-29-75/§10-21) gjelder ikke for transaksjoner som sluttes mellom medlemmer på et regulert marked. Kravene i [§§ 10-9](lov/2007-06-29-75/§10-9) til [10-21](lov/2007-06-29-75/§10-21) gjelder likevel overfor medlemmers kunder når de på vegne av kundene utfører ordre på et regulert marked.
 
@@ -2517,7 +2936,10 @@ Finanstilsynet kan gi nærmere regler om revisors arbeidsoppgaver i en markedsop
 
 ### § 12-6. Valg av oppgjørssystem
 
-Medlemmer på et regulert marked skal ha rett til å velge oppgjørssystem for transaksjoner med finansielle instrumenter som er inngått på markedet, dersom følgende vilkår er oppfylt:det foreligger forbindelser og avtaler mellom det valgte oppgjørssystemet og andre systemer eller ordninger som er nødvendige for å sikre et effektivt og økonomisk oppgjør av den aktuelle transaksjonen, ogFinanstilsynet samtykker i at anvendelse av et annet oppgjørssystem enn det som er utpekt av det regulerte markedet, gir tekniske betingelser som er egnet til å sikre at finansmarkedene virker på en smidig og ordnet måte.
+Medlemmer på et regulert marked skal ha rett til å velge oppgjørssystem for transaksjoner med finansielle instrumenter som er inngått på markedet, dersom følgende vilkår er oppfylt:
+
+1. det foreligger forbindelser og avtaler mellom det valgte oppgjørssystemet og andre systemer eller ordninger som er nødvendige for å sikre et effektivt og økonomisk oppgjør av den aktuelle transaksjonen, og
+2. Finanstilsynet samtykker i at anvendelse av et annet oppgjørssystem enn det som er utpekt av det regulerte markedet, gir tekniske betingelser som er egnet til å sikre at finansmarkedene virker på en smidig og ordnet måte.
 
 > Tilføyd ved lov [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713)).
 
@@ -2593,7 +3015,15 @@ Departementet kan i forskrift fastsette bestemmelser om saksbehandlingen og saks
 
 (3) Søknad om tillatelse etter første og annet ledd sendes særskilt for hver aksjeeier som ved ervervet direkte eller indirekte får en eierandel i en børs som utgjør eller overstiger 10, 20, 30 eller 50 prosent.
 
-(4) Tillatelse etter første og annet ledd kan bare gis når erververen anses egnet til å sikre en god og fornuftig forvaltning av foretaket. Ved denne vurderingen skal det særlig legges vekt på:erververens tidligere handlemåte,erververens tilgjengelige økonomiske ressurser og hensynet til forsvarlig virksomhet,om eierskapet vil kunne føre til uønskede virkninger for finansmarkedenes virkemåte, eller børsens evne til å betjene det norske kapitalmarkedet,muligheten for å utøve et effektivt tilsyn, herunder om det er etablert samarbeid med tilsynsmyndighetene i erververens hjemland,om eierskapet vil kunne påvirke rettigheter og plikter for aktørene på vedkommende børs,om den bakenforliggende eierstrukturen hos erververen er i samsvar med de hensyn som ivaretas i denne bestemmelse,om det er grunn til å anta at det i forbindelse med ervervet foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at ervervet vil øke risikoen for dette.
+(4) Tillatelse etter første og annet ledd kan bare gis når erververen anses egnet til å sikre en god og fornuftig forvaltning av foretaket. Ved denne vurderingen skal det særlig legges vekt på:
+
+1. erververens tidligere handlemåte,
+2. erververens tilgjengelige økonomiske ressurser og hensynet til forsvarlig virksomhet,
+3. om eierskapet vil kunne føre til uønskede virkninger for finansmarkedenes virkemåte, eller børsens evne til å betjene det norske kapitalmarkedet,
+4. muligheten for å utøve et effektivt tilsyn, herunder om det er etablert samarbeid med tilsynsmyndighetene i erververens hjemland,
+5. om eierskapet vil kunne påvirke rettigheter og plikter for aktørene på vedkommende børs,
+6. om den bakenforliggende eierstrukturen hos erververen er i samsvar med de hensyn som ivaretas i denne bestemmelse,
+7. om det er grunn til å anta at det i forbindelse med ervervet foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at ervervet vil øke risikoen for dette.
 
 (5) Søknad om tillatelse etter første og annet ledd skal sendes Finanstilsynet med kopi til departementet. Den som erverver en betydelig eierandel, skal fremlegge ordinær politiattest etter [politiregisterloven § 40](lov/2010-05-28-16/§40) dersom Finanstilsynet ber om det.
 
@@ -2637,7 +3067,11 @@ Departementet kan i forskrift fastsette regler om at en markedsoperatør for bø
 
 ### § 14-1. Definisjoner av datarapporteringstjenester
 
-(1) Med datarapporteringstjenester menes:drift av en godkjent offentliggjøringsordning,drift av et konsolidert offentliggjøringssystem,drift av en godkjent rapporteringsordning.
+(1) Med datarapporteringstjenester menes:
+
+1. drift av en godkjent offentliggjøringsordning,
+2. drift av et konsolidert offentliggjøringssystem,
+3. drift av en godkjent rapporteringsordning.
 
 (2) Med en godkjent offentliggjøringsordning menes et foretak med tillatelse til å offentliggjøre handelsrapporter på vegne av et verdipapirforetak etter verdipapirmarkedsforordningen artikkel 20 og 21.
 
@@ -2677,7 +3111,13 @@ Departementet kan i forskrift fastsette regler om at en markedsoperatør for bø
 
 ### § 14-4. Endring og tilbakekall av tillatelser
 
-(1) Finanstilsynet kan helt eller delvis endre, herunder sette nye vilkår, eller tilbakekalle tillatelsen til å yte datarapporteringstjenester dersom foretaket:ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på den eller ikke har ytt noen datarapporteringstjenester i de foregående seks månedene,har fått tillatelsen ved hjelp av uriktige opplysninger eller andre uregelmessigheter,ikke lenger oppfyller vilkårene for tillatelsen,foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, slik at det er grunn til å frykte for at fortsettelse av virksomheten kan skade foretakets kunder, brukerne av rapportert data, tilliten til verdipapirmarkedet eller institusjonene som virker i markedet, ellerforetaket ikke etterkommer pålegg gitt i medhold av [§ 19-7](lov/2007-06-29-75/§19-7) eller [finanstilsynsloven § 4-1](lov/2024-06-21-41/§4-1).
+(1) Finanstilsynet kan helt eller delvis endre, herunder sette nye vilkår, eller tilbakekalle tillatelsen til å yte datarapporteringstjenester dersom foretaket:
+
+1. ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på den eller ikke har ytt noen datarapporteringstjenester i de foregående seks månedene,
+2. har fått tillatelsen ved hjelp av uriktige opplysninger eller andre uregelmessigheter,
+3. ikke lenger oppfyller vilkårene for tillatelsen,
+4. foretar alvorlige eller systematiske overtredelser av bestemmelser gitt i eller i medhold av lov, slik at det er grunn til å frykte for at fortsettelse av virksomheten kan skade foretakets kunder, brukerne av rapportert data, tilliten til verdipapirmarkedet eller institusjonene som virker i markedet, eller
+5. foretaket ikke etterkommer pålegg gitt i medhold av [§ 19-7](lov/2007-06-29-75/§19-7) eller [finanstilsynsloven § 4-1](lov/2024-06-21-41/§4-1).
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -2709,7 +3149,16 @@ Bestemmelsene i [§ 11-8](lov/2007-06-29-75/§11-8) gjelder tilsvarende for styr
 
 (4) Offentliggjøringen skal være ikke-diskriminerende og i et format som legger til rette for konsolidering av opplysningene med tilsvarende opplysninger fra andre kilder.
 
-(5) Opplysningene som offentliggjøres etter første ledd, skal minst omfatte følgende:det finansielle instrumentets identifikasjon,prisen for den gjennomførte transaksjonen,transaksjonsvolumet,transaksjonstidspunktet,tidspunktet da transaksjonen ble rapportert,prisnoteringen for transaksjonen,koden for handelsplassen der transaksjonen ble gjennomført, eller dersom transaksjonen ble gjennomført gjennom en systematisk internaliserer, koden «SI» eller eventuelt «OTC», ogangivelse av at transaksjonen var omfattet av særlige vilkår dersom det er relevant.
+(5) Opplysningene som offentliggjøres etter første ledd, skal minst omfatte følgende:
+
+1. det finansielle instrumentets identifikasjon,
+2. prisen for den gjennomførte transaksjonen,
+3. transaksjonsvolumet,
+4. transaksjonstidspunktet,
+5. tidspunktet da transaksjonen ble rapportert,
+6. prisnoteringen for transaksjonen,
+7. koden for handelsplassen der transaksjonen ble gjennomført, eller dersom transaksjonen ble gjennomført gjennom en systematisk internaliserer, koden «SI» eller eventuelt «OTC», og
+8. angivelse av at transaksjonen var omfattet av særlige vilkår dersom det er relevant.
 
 (6) En godkjent offentliggjøringsordning skal ha effektive administrative ordninger for å hindre interessekonflikter med kundene. En godkjent offentliggjøringsordning som også er en markedsoperatør eller et verdipapirforetak, skal behandle alle innsamlede opplysninger på en ikke-diskriminerende måte og ha egnede ordninger for å skille forskjellige forretningsfunksjoner.
 
@@ -2781,11 +3230,18 @@ Bestemmelsene i [§ 11-8](lov/2007-06-29-75/§11-8) gjelder tilsvarende for styr
 
 (6) Tilsynsmyndighet for handelsplass i annet EØS-land fastsetter posisjonsgrenser for varederivater som handles på handelsplass i vedkommende EØS-land og økonomisk likeverdige OTC-kontrakter.
 
-(7) Når varederivater som er basert på samme underliggende, og som deler de samme egenskapene, er handlet på handelsplasser i flere EØS-land, skal tilsynsmyndigheten for handelsplassen med det største handelsvolumet i disse varederivatene (sentral tilsynsmyndighet) fastsette en felles posisjonsgrense som skal anvendes ved all handel i dem dersom de erlandbruksvarederivater som handles i betydelige volumer på handelsplasser i flere EØS-land, ellerkritiske eller vesentlige varederivater.
+(7) Når varederivater som er basert på samme underliggende, og som deler de samme egenskapene, er handlet på handelsplasser i flere EØS-land, skal tilsynsmyndigheten for handelsplassen med det største handelsvolumet i disse varederivatene (sentral tilsynsmyndighet) fastsette en felles posisjonsgrense som skal anvendes ved all handel i dem dersom de er
+
+1. landbruksvarederivater som handles i betydelige volumer på handelsplasser i flere EØS-land, eller
+2. kritiske eller vesentlige varederivater.
 
 (8) Ingen skal inneha posisjoner i varederivatkontrakter som overstiger posisjonsgrenser etablert av tilsynsmyndigheten etter første, sjette eller syvende ledd og i samsvar med direktiv [2014/65/EU artikkel 57](eu/32014l0065/a57).
 
-(9) Det kan søkes om unntak fra kravet etter åttende ledd i følgende tilfeller:Ikke-finansielle foretak kan søke om unntak for posisjoner som på en objektivt målbar måte reduserer risikoene direkte knyttet til foretakets forretningsvirksomhet.Finansielle foretak som inngår i et overveiende kommersielt konsern og som opptrer på vegne av et ikke-finansielt foretak som er del av det samme konsernet, kan søke om unntak for posisjoner som på en objektivt målbar måte reduserer risikoene direkte knyttet til det ikke-finansielle foretakets forretningsvirksomhet. Med overveiende kommersielt konsern forstås ethvert konsern der hovedvirksomheten verken er å yte investeringstjenester etter direktiv [2014/65/EU](eu/32014l0065), å utføre en aktivitet nevnt i vedlegg I til direktiv [2013/36/EU](eu/32013l0036) eller å opptre som prisstiller for varederivater.Finansielle og ikke-finansielle motparter kan søke om unntak for posisjoner som på en objektivt målbar måte er et resultat av transaksjoner inngått for å oppfylle forpliktelser til å tilføre likviditet på en handelsplass, forutsatt at disse forpliktelsene er satt av myndigheter i samsvar med EU-rett eller med nasjonal rett eller av handelsplasser.
+(9) Det kan søkes om unntak fra kravet etter åttende ledd i følgende tilfeller:
+
+1. Ikke-finansielle foretak kan søke om unntak for posisjoner som på en objektivt målbar måte reduserer risikoene direkte knyttet til foretakets forretningsvirksomhet.
+2. Finansielle foretak som inngår i et overveiende kommersielt konsern og som opptrer på vegne av et ikke-finansielt foretak som er del av det samme konsernet, kan søke om unntak for posisjoner som på en objektivt målbar måte reduserer risikoene direkte knyttet til det ikke-finansielle foretakets forretningsvirksomhet. Med overveiende kommersielt konsern forstås ethvert konsern der hovedvirksomheten verken er å yte investeringstjenester etter direktiv [2014/65/EU](eu/32014l0065), å utføre en aktivitet nevnt i vedlegg I til direktiv [2013/36/EU](eu/32013l0036) eller å opptre som prisstiller for varederivater.
+3. Finansielle og ikke-finansielle motparter kan søke om unntak for posisjoner som på en objektivt målbar måte er et resultat av transaksjoner inngått for å oppfylle forpliktelser til å tilføre likviditet på en handelsplass, forutsatt at disse forpliktelsene er satt av myndigheter i samsvar med EU-rett eller med nasjonal rett eller av handelsplasser.
 
 (10) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
@@ -2793,7 +3249,17 @@ Bestemmelsene i [§ 11-8](lov/2007-06-29-75/§11-8) gjelder tilsvarende for styr
 
 ### § 15-2. Kontroll av posisjonshåndtering
 
-(1) Et verdipapirforetak eller en markedsoperatør som driver en handelsplass der det handles varederivater, skal foreta kontroll av posisjonshåndteringen. Som ledd i denne kontrollen skal handelsplassen ha myndighet til åovervåke personers åpne posisjoner,få opplysninger, herunder all relevant dokumentasjon, fra personer omstørrelsen på og formålet med en inngått posisjon eller eksponering,reelle eller underliggende eiere,eventuelle avtalte ordninger om samhandling, ogeventuelle tilknyttede eiendeler eller forpliktelser i det underliggende markedet,kreve at en person midlertidig eller varig avslutter eller reduserer en posisjon og ensidig treffe egnede tiltak for å sikre at posisjonen avsluttes eller reduseres dersom personen ikke etterkommer kravet, ogkreve at en person midlertidig tilbakefører likviditet til markedet til avtalt pris og i avtalt omfang for å redusere virkningen av en stor eller dominerende posisjon.
+(1) Et verdipapirforetak eller en markedsoperatør som driver en handelsplass der det handles varederivater, skal foreta kontroll av posisjonshåndteringen. Som ledd i denne kontrollen skal handelsplassen ha myndighet til å
+
+1. overvåke personers åpne posisjoner,
+2. få opplysninger, herunder all relevant dokumentasjon, fra personer om
+
+   1. størrelsen på og formålet med en inngått posisjon eller eksponering,
+   2. reelle eller underliggende eiere,
+   3. eventuelle avtalte ordninger om samhandling, og
+   4. eventuelle tilknyttede eiendeler eller forpliktelser i det underliggende markedet,
+3. kreve at en person midlertidig eller varig avslutter eller reduserer en posisjon og ensidig treffe egnede tiltak for å sikre at posisjonen avsluttes eller reduseres dersom personen ikke etterkommer kravet, og
+4. kreve at en person midlertidig tilbakefører likviditet til markedet til avtalt pris og i avtalt omfang for å redusere virkningen av en stor eller dominerende posisjon.
 
 (2) Myndigheten til å få opplysninger, herunder all relevant dokumentasjon, etter første ledd nr. 2 skal også omfatte posisjoner i varederivater som er basert på samme underliggende, og som deler de samme egenskapene på andre handelsplasser og i økonomisk likeverdige OTC-kontrakter dersom de holdes gjennom medlemmer eller deltakere.
 
@@ -2807,15 +3273,38 @@ Bestemmelsene i [§ 11-8](lov/2007-06-29-75/§11-8) gjelder tilsvarende for styr
 
 ### § 15-3. Rapportering av posisjoner
 
-(1) Et verdipapirforetak eller en markedsoperatør som driver en handelsplass der det handles varederivater, utslippskvoter eller derivater med utslippskvoter som underliggende, skal rapportere posisjoner på følgende måte:Dersom antall personer og deres åpne posisjoner overskrider en minstegrense, skal verdipapirforetaket eller markedsoperatøren offentliggjøre en ukentlig rapport om de samlede posisjonene som innehas av de forskjellige kategoriene av personer som nevnt i femte ledd, for de forskjellige varederivatene eller utslippskvotene eller derivater av slike som handles på deres handelsplasser. Rapporten skal angi:antallet lange og korte posisjoner per kategori,endringer i posisjonene siden forrige rapport,prosentandelen av det samlede antallet åpne posisjoner for hver kategori, ogantallet personer som innehar en posisjon i hver kategori.Den ukentlige rapporten skal sendes til Finanstilsynet og Den europeiske verdipapir- og markedstilsynsmyndighet.Verdipapirforetaket eller markedsoperatøren skal minst daglig gi Finanstilsynet en fullstendig oversikt over posisjoner som innehas av alle personer på den berørte handelsplassen, herunder medlemmene og deres kunder.
+(1) Et verdipapirforetak eller en markedsoperatør som driver en handelsplass der det handles varederivater, utslippskvoter eller derivater med utslippskvoter som underliggende, skal rapportere posisjoner på følgende måte:
 
-(2) Et verdipapirforetak som handler varederivater, utslippskvoter eller derivater med utslippskvoter som underliggende utenfor en handelsplass, skal minst daglig gi tilsynsmyndigheten til handelsplassen der varederivatene, utslippskvotene eller derivatene med utslippskvoter som underliggende handles, en fullstendig oversikt over sine posisjoner, herunder posisjoner som innehas av kundene og kundenes kunder igjen ned til sluttkundenivå, inevnte instrumenter som handles på en handelsplass i de tilfeller der dette er relevant, ogi økonomisk likeverdige OTC-kontrakter.For posisjoner i varederivater der det er fastsatt en felles posisjonsgrense etter [§ 15-1](lov/2007-06-29-75/§15-1) syvende ledd, skal oversikten nevnt i første punktum i stedet sendes til den sentrale tilsynsmyndigheten.
+1. Dersom antall personer og deres åpne posisjoner overskrider en minstegrense, skal verdipapirforetaket eller markedsoperatøren offentliggjøre en ukentlig rapport om de samlede posisjonene som innehas av de forskjellige kategoriene av personer som nevnt i femte ledd, for de forskjellige varederivatene eller utslippskvotene eller derivater av slike som handles på deres handelsplasser. Rapporten skal angi:
 
-(3) Medlemmer på regulert marked, deltakere på multilaterale handelsfasiliteter og kunder av organiserte handelsfasiliteter skal minst daglig rapportere følgende til verdipapirforetaket eller markedsoperatøren som driver handelsplassen:opplysninger om sine egne posisjoner som innehas gjennom kontrakter som handles på denne handelsplassen, ogopplysninger om posisjonene som innehas av kundene og kundenes kunder ned til sluttkundenivå.
+   1. antallet lange og korte posisjoner per kategori,
+   2. endringer i posisjonene siden forrige rapport,
+   3. prosentandelen av det samlede antallet åpne posisjoner for hver kategori, og
+   4. antallet personer som innehar en posisjon i hver kategori.
+2. Den ukentlige rapporten skal sendes til Finanstilsynet og Den europeiske verdipapir- og markedstilsynsmyndighet.
+3. Verdipapirforetaket eller markedsoperatøren skal minst daglig gi Finanstilsynet en fullstendig oversikt over posisjoner som innehas av alle personer på den berørte handelsplassen, herunder medlemmene og deres kunder.
+
+(2) Et verdipapirforetak som handler varederivater, utslippskvoter eller derivater med utslippskvoter som underliggende utenfor en handelsplass, skal minst daglig gi tilsynsmyndigheten til handelsplassen der varederivatene, utslippskvotene eller derivatene med utslippskvoter som underliggende handles, en fullstendig oversikt over sine posisjoner, herunder posisjoner som innehas av kundene og kundenes kunder igjen ned til sluttkundenivå, i
+
+1. nevnte instrumenter som handles på en handelsplass i de tilfeller der dette er relevant, og
+2. i økonomisk likeverdige OTC-kontrakter.
+
+For posisjoner i varederivater der det er fastsatt en felles posisjonsgrense etter [§ 15-1](lov/2007-06-29-75/§15-1) syvende ledd, skal oversikten nevnt i første punktum i stedet sendes til den sentrale tilsynsmyndigheten.
+
+(3) Medlemmer på regulert marked, deltakere på multilaterale handelsfasiliteter og kunder av organiserte handelsfasiliteter skal minst daglig rapportere følgende til verdipapirforetaket eller markedsoperatøren som driver handelsplassen:
+
+1. opplysninger om sine egne posisjoner som innehas gjennom kontrakter som handles på denne handelsplassen, og
+2. opplysninger om posisjonene som innehas av kundene og kundenes kunder ned til sluttkundenivå.
 
 (4) Pliktene etter første til tredje ledd gjelder ikke for de varederivatene som er omsettelige verdipapirer som nevnt i [§ 2-4](lov/2007-06-29-75/§2-4) første ledd nr. 3.
 
-(5) Et verdipapirforetak eller en markedsoperatør som driver en handelsplass, skal klassifisere personer som innehar posisjoner i varederivater, utslippskvoter eller derivater med utslippskvoter som underliggende ut fra arten av deres hovedvirksomhet, som enten:verdipapirforetak eller kredittinstitusjon,investeringsfond, enten et foretak for kollektiv investering i omsettelige verdipapirer etter direktiv [2009/65/EF](eu/32009l0065), eller en forvalter av alternative investeringsfond etter direktiv [2011/61/EU](eu/32011l0061),andre finansforetak, herunder forsikringsforetak og gjenforsikringsforetak etter direktiv [2009/138/EF](eu/32009l0138*), og tjenestepensjonsforetak etter direktiv [2003/41/EF](eu/32003l0041),kommersiell aktør, elleroperatører med kvoteplikt etter direktiv [2003/87/EF](eu/32003l0087).
+(5) Et verdipapirforetak eller en markedsoperatør som driver en handelsplass, skal klassifisere personer som innehar posisjoner i varederivater, utslippskvoter eller derivater med utslippskvoter som underliggende ut fra arten av deres hovedvirksomhet, som enten:
+
+1. verdipapirforetak eller kredittinstitusjon,
+2. investeringsfond, enten et foretak for kollektiv investering i omsettelige verdipapirer etter direktiv [2009/65/EF](eu/32009l0065), eller en forvalter av alternative investeringsfond etter direktiv [2011/61/EU](eu/32011l0061),
+3. andre finansforetak, herunder forsikringsforetak og gjenforsikringsforetak etter direktiv [2009/138/EF](eu/32009l0138*), og tjenestepensjonsforetak etter direktiv [2003/41/EF](eu/32003l0041),
+4. kommersiell aktør, eller
+5. operatører med kvoteplikt etter direktiv [2003/87/EF](eu/32003l0087).
 
 (6) I rapportene nevnt i første ledd nr. 1 og oversiktene nevnt i annet ledd skal det skilles mellom posisjoner som på en objektivt målbar måte reduserer risikoene tilknyttet forretningsvirksomheten, og andre posisjoner.
 
@@ -2886,7 +3375,23 @@ Kapitlet endret ved lov [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 201
 
 ### § 17-1. OTC-derivater, sentrale motparter og transaksjonsregistre
 
-(1) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 31bc (forordning [(EU) nr. 648/2012](eu/32012r0648)) om OTC-derivater, sentrale motparter og transaksjonsregistre (EMIR), som endret vedforordning [(EU) nr. 1002/2013](eu/32013r1002)direktiv [2014/59/EU](eu/32014l0059)forordning [(EU) 2015/1515](eu/32015r1515)direktiv [(EU) 2015/849](eu/32015l0849)forordning [(EU) nr. 600/2014](eu/32014r0600)forordning [(EU) nr. 575/2013](eu/32013r0575)forordning [(EU) 2017/610](eu/32017r0610)forordning [(EU) 2017/979](eu/32017r0979)forordning [(EU) 2019/460](eu/32019r0460)forordning [(EU) 2019/834](eu/32019r0834)forordning [(EU) 2019/876](eu/32019r0876)forordning [(EU) 2015/2365](eu/32015r2365)forordning [(EU) 2017/2402](eu/32017r2402)gjelder som lov med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9), [protokoll 1](avtale/avt-1992-05-02-1-p1) til avtalen og avtalen for øvrig.
+(1) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 31bc (forordning [(EU) nr. 648/2012](eu/32012r0648)) om OTC-derivater, sentrale motparter og transaksjonsregistre (EMIR), som endret ved
+
+1. forordning [(EU) nr. 1002/2013](eu/32013r1002)
+2. direktiv [2014/59/EU](eu/32014l0059)
+3. forordning [(EU) 2015/1515](eu/32015r1515)
+4. direktiv [(EU) 2015/849](eu/32015l0849)
+5. forordning [(EU) nr. 600/2014](eu/32014r0600)
+6. forordning [(EU) nr. 575/2013](eu/32013r0575)
+7. forordning [(EU) 2017/610](eu/32017r0610)
+8. forordning [(EU) 2017/979](eu/32017r0979)
+9. forordning [(EU) 2019/460](eu/32019r0460)
+10. forordning [(EU) 2019/834](eu/32019r0834)
+11. forordning [(EU) 2019/876](eu/32019r0876)
+12. forordning [(EU) 2015/2365](eu/32015r2365)
+13. forordning [(EU) 2017/2402](eu/32017r2402)
+
+gjelder som lov med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9), [protokoll 1](avtale/avt-1992-05-02-1-p1) til avtalen og avtalen for øvrig.
 
 (2) Departementet kan i forskrift gi nærmere regler om OTC-derivater, sentrale motparter og transaksjonsregistre.
 
@@ -3058,7 +3563,12 @@ Skriftlig avtale mellom to parter om at partenes forpliktelser etter avtaler som
 
 (2) Ved mistanke om overtredelse av markedsmisbruksforordningen, jf. [§ 3-1](lov/2007-06-29-75/§3-1), i forbindelse med varederivater, kan Finanstilsynet kreve opplysningene utlevert i standardisert format, samt kreve utlevert transaksjonsrapportering fra markedsdeltagerne på de handelsplasser der de underliggende varene handles. I tillegg kan Finanstilsynet kreve direkte tilgang til handelssystemene.
 
-(3) Opplysningsplikten i første og annet ledd gjelder uten hinder av taushetsplikt, med unntak av opplysninger som vedkommende ville vært forhindret fra å gi i straffesak. Opplysningsplikten gjelder uansett uten hinder av:lovbestemt taushetsplikt som ellers påhviler skattemyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet,taushetsplikt etter folkeregisterloven,taushetsplikt etter valutaregisterloven,taushetsplikt som nevnt i [ekomloven § 3-10](lov/2024-12-13-76/§3-10) for så vidt gjelder opplysninger om avtalebasert hemmelig telefonnummer eller andre abonnementsopplysninger og elektronisk kommunikasjonsadresse.
+(3) Opplysningsplikten i første og annet ledd gjelder uten hinder av taushetsplikt, med unntak av opplysninger som vedkommende ville vært forhindret fra å gi i straffesak. Opplysningsplikten gjelder uansett uten hinder av:
+
+1. lovbestemt taushetsplikt som ellers påhviler skattemyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet,
+2. taushetsplikt etter folkeregisterloven,
+3. taushetsplikt etter valutaregisterloven,
+4. taushetsplikt som nevnt i [ekomloven § 3-10](lov/2024-12-13-76/§3-10) for så vidt gjelder opplysninger om avtalebasert hemmelig telefonnummer eller andre abonnementsopplysninger og elektronisk kommunikasjonsadresse.
 
 (4) Ved mistanke om overtredelse av artikkel 14 og 15 i markedsmisbruksforordningen, jf. [§ 3-1](lov/2007-06-29-75/§3-1), gjelder ikke taushetsplikten som nevnt i [ekomloven § 3-10](lov/2024-12-13-76/§3-10) for så vidt gjelder opplysninger om trafikkdata, dersom det er gitt fritak fra slik taushetsplikt etter bestemmelsen her. Begjæring om fritak fra taushetsplikten fremsettes av Finanstilsynet for tingretten på det sted hvor det mest praktisk kan skje. Retten kan ved kjennelse gi slikt fritak. Ved vurderingen av om fritak skal gis, skal det blant annet legges vekt på hensynet til taushetsplikten og sakens opplysning. [Straffeprosessloven § 52](lov/1981-05-22-25/§52) annet ledd og § 170 a gjelder tilsvarende. Etter begjæring fra Finanstilsynet kan retten beslutte å utsette underretning om kjennelsen dersom det er strengt nødvendig for sakens behandling. [Straffeprosessloven § 100 a](lov/1981-05-22-25/§100a) gjelder tilsvarende.
 
@@ -3082,7 +3592,12 @@ Skriftlig avtale mellom to parter om at partenes forpliktelser etter avtaler som
 
 ### § 19-5. Bevissikring
 
-(1) For å søke etter bevis kan Finanstilsynet, når det er rimelig grunn til å anta at bestemmelsene i [kapittel 3](lov/2007-06-29-75/kap3), [kapittel 7](lov/2007-06-29-75/kap7) avsnitt I og II, [§ 9-23](lov/2007-06-29-75/§9-23), [kapittel 15](lov/2007-06-29-75/kap15) eller forskrifter gitt til utfylling av disse bestemmelsene er overtrådt, eller det er nødvendig for å oppfylle Norges avtaleforpliktelser overfor annen stat, kreve:å få adgang til lokaler, eiendommer og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,å få adgang til bolig dersom det er særlig grunn til å anta at bevis oppbevares der,å ta med ting, herunder kopi av dokumenter og annen informasjon og elektronisk lagret informasjon som kan ha betydning som bevis for nærmere granskning,å forsegle forretningslokaler, bøker, forretningspapirer eller elektronisk lagringsmedium så lenge undersøkelsen varer og dette anses nødvendig.
+(1) For å søke etter bevis kan Finanstilsynet, når det er rimelig grunn til å anta at bestemmelsene i [kapittel 3](lov/2007-06-29-75/kap3), [kapittel 7](lov/2007-06-29-75/kap7) avsnitt I og II, [§ 9-23](lov/2007-06-29-75/§9-23), [kapittel 15](lov/2007-06-29-75/kap15) eller forskrifter gitt til utfylling av disse bestemmelsene er overtrådt, eller det er nødvendig for å oppfylle Norges avtaleforpliktelser overfor annen stat, kreve:
+
+1. å få adgang til lokaler, eiendommer og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,
+2. å få adgang til bolig dersom det er særlig grunn til å anta at bevis oppbevares der,
+3. å ta med ting, herunder kopi av dokumenter og annen informasjon og elektronisk lagret informasjon som kan ha betydning som bevis for nærmere granskning,
+4. å forsegle forretningslokaler, bøker, forretningspapirer eller elektronisk lagringsmedium så lenge undersøkelsen varer og dette anses nødvendig.
 
 (2) Begjæring om adgang til bevissikring fremsettes av Finanstilsynet for tingretten på det sted hvor det mest praktisk kan skje. Retten treffer sin avgjørelse ved beslutning før bevissikringen settes i verk. Den begjæringen retter seg mot, skal ikke varsles om begjæringen eller beslutningen. Anke over beslutningen har ikke oppsettende virkning. [Straffeprosessloven § 200](lov/1981-05-22-25/§200), [§ 201](lov/1981-05-22-25/§201) første ledd, §[§ 117](lov/1981-05-22-25/§117) til [120](lov/1981-05-22-25/§120), jf. §[§ 204](lov/1981-05-22-25/§204), [207](lov/1981-05-22-25/§207), [208](lov/1981-05-22-25/§208), [209](lov/1981-05-22-25/§209), [213](lov/1981-05-22-25/§213) og kapittel 26 og [forvaltningsloven § 15](lov/1967-02-10/§15) annet og tredje ledd, gjelder så langt de passer.
 
@@ -3164,7 +3679,12 @@ Skriftlig avtale mellom to parter om at partenes forpliktelser etter avtaler som
 
 ### § 19-11. Administrativ inndragning
 
-(1) Finanstilsynet kan helt eller delvis inndra vinning som er oppnådd ved overtredelse av:markedsmisbruksforordningen, jf. [§ 3-1](lov/2007-06-29-75/§3-1), artikkel 14 om forbud mot innsidehandel og ulovlig spredning av innsideinformasjon, artikkel 15 om forbud mot markedsmanipulasjon, artikkel 16 om forebygging og avdekking av markedsmisbruk, artikkel 17 om offentliggjøring av innsideinformasjon, artikkel 18 om innsidelister, artikkel 19 om transaksjoner utført av personer med ledelsesansvar og artikkel 20 om investeringsanbefalinger og statistikk,shortsalgforordningen, jf. [§ 3-5](lov/2007-06-29-75/§3-5), artikkel 12 til 15 om udekket shortsalg,[§ 3-7](lov/2007-06-29-75/§3-7), [§ 9-1](lov/2007-06-29-75/§9-1), [§§ 10-3](lov/2007-06-29-75/§10-3) til [10-5](lov/2007-06-29-75/§10-5), [§§ 10-9](lov/2007-06-29-75/§10-9) til [10-17](lov/2007-06-29-75/§10-17),forskrifter gitt til utfylling av disse bestemmelsene.
+(1) Finanstilsynet kan helt eller delvis inndra vinning som er oppnådd ved overtredelse av:
+
+1. markedsmisbruksforordningen, jf. [§ 3-1](lov/2007-06-29-75/§3-1), artikkel 14 om forbud mot innsidehandel og ulovlig spredning av innsideinformasjon, artikkel 15 om forbud mot markedsmanipulasjon, artikkel 16 om forebygging og avdekking av markedsmisbruk, artikkel 17 om offentliggjøring av innsideinformasjon, artikkel 18 om innsidelister, artikkel 19 om transaksjoner utført av personer med ledelsesansvar og artikkel 20 om investeringsanbefalinger og statistikk,
+2. shortsalgforordningen, jf. [§ 3-5](lov/2007-06-29-75/§3-5), artikkel 12 til 15 om udekket shortsalg,
+3. [§ 3-7](lov/2007-06-29-75/§3-7), [§ 9-1](lov/2007-06-29-75/§9-1), [§§ 10-3](lov/2007-06-29-75/§10-3) til [10-5](lov/2007-06-29-75/§10-5), [§§ 10-9](lov/2007-06-29-75/§10-9) til [10-17](lov/2007-06-29-75/§10-17),
+4. forskrifter gitt til utfylling av disse bestemmelsene.
 
 (2) Inndragningen foretas overfor den som vinningen er tilfalt, også når den som vinningen tilfaller, er en annen enn lovovertrederen.
 
@@ -3408,7 +3928,17 @@ Medvirkning til overtredelse av bestemmelsene som nevnt i [§§ 21-1](lov/2007-0
 
 ### § 21-14. Momenter ved ileggelse av administrative sanksjoner
 
-Ved avgjørelsen av om en administrativ sanksjon skal ilegges og ved utmåling kan det tas hensyn til:overtredelsens grovhet og varighet,graden av skyld hos overtrederen,overtrederens finansielle styrke, særlig samlet omsetning eller årsinntekt og eiendeler,oppnådd fortjeneste eller unngått tap,tap påført tredjepart som følge av overtredelsen,vilje til å samarbeide med myndighetene,tidligere overtredelser,forhold som nevnt i [forvaltningsloven § 46](lov/1967-02-10/§46) annet ledd,andre relevante forhold.
+Ved avgjørelsen av om en administrativ sanksjon skal ilegges og ved utmåling kan det tas hensyn til:
+
+1. overtredelsens grovhet og varighet,
+2. graden av skyld hos overtrederen,
+3. overtrederens finansielle styrke, særlig samlet omsetning eller årsinntekt og eiendeler,
+4. oppnådd fortjeneste eller unngått tap,
+5. tap påført tredjepart som følge av overtredelsen,
+6. vilje til å samarbeide med myndighetene,
+7. tidligere overtredelser,
+8. forhold som nevnt i [forvaltningsloven § 46](lov/1967-02-10/§46) annet ledd,
+9. andre relevante forhold.
 
 > Tilføyd ved lov [21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 1 mars 2021 iflg. [res. 27 nov 2020 nr. 2488](forskrift/2020-11-27-2488)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer).
 
@@ -3420,7 +3950,16 @@ Ved avgjørelsen av om en administrativ sanksjon skal ilegges og ved utmåling k
 
 (3) Med bøter eller fengsel inntil 3 år straffes den som forsettlig eller uaktsomt overtrer [§ 9-1](lov/2007-06-29-75/§9-1) eller [§§ 10-9](lov/2007-06-29-75/§10-9) til [10-17](lov/2007-06-29-75/§10-17).
 
-(4) Med bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer:markedsmisbruksforordningen, jf. [§ 3-1](lov/2007-06-29-75/§3-1), artikkel 16 om forebygging og avdekking av markedsmisbruk, artikkel 17 om offentliggjøring av innsideinformasjon, artikkel 18 om innsidelister, artikkel 19 om transaksjoner utført av personer med ledelsesansvar, artikkel 20 om investeringsanbefalinger og statistikk eller [§ 3-7](lov/2007-06-29-75/§3-7),shortsalgforordningen, jf. [§ 3-5](lov/2007-06-29-75/§3-5), artikkel 5 til 10 om rapportering eller artikkel 12 til 15 om udekket shortsalg,[§ 4-2](lov/2007-06-29-75/§4-2),prospektforordningen, jf. [§ 7-1](lov/2007-06-29-75/§7-1), artikkel 3 om plikt til å offentliggjøre et prospekt og unntak, artikkel 6 om prospektet, artikkel 23 om tillegg til prospektet, [§ 7-5](lov/2007-06-29-75/§7-5), [§ 7-7](lov/2007-06-29-75/§7-7) nr. 1 eller [§ 7-10](lov/2007-06-29-75/§7-10),[§ 9-16](lov/2007-06-29-75/§9-16) første ledd nr. 8, [§ 9-17](lov/2007-06-29-75/§9-17), [§ 9-18](lov/2007-06-29-75/§9-18) eller [§ 9-23](lov/2007-06-29-75/§9-23),[§§ 10-3](lov/2007-06-29-75/§10-3) til [10-5](lov/2007-06-29-75/§10-5),[§ 15-1](lov/2007-06-29-75/§15-1) åttende ledd, [§ 15-3](lov/2007-06-29-75/§15-3) eller [§ 15-4](lov/2007-06-29-75/§15-4),unnlater å etterkomme pålegg eller krav etter [§ 19-5](lov/2007-06-29-75/§19-5) eller [§ 19-7](lov/2007-06-29-75/§19-7), herunder når myndigheten til å gi pålegg er delegert etter [§ 19-1](lov/2007-06-29-75/§19-1) fjerde ledd.
+(4) Med bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer:
+
+1. markedsmisbruksforordningen, jf. [§ 3-1](lov/2007-06-29-75/§3-1), artikkel 16 om forebygging og avdekking av markedsmisbruk, artikkel 17 om offentliggjøring av innsideinformasjon, artikkel 18 om innsidelister, artikkel 19 om transaksjoner utført av personer med ledelsesansvar, artikkel 20 om investeringsanbefalinger og statistikk eller [§ 3-7](lov/2007-06-29-75/§3-7),
+2. shortsalgforordningen, jf. [§ 3-5](lov/2007-06-29-75/§3-5), artikkel 5 til 10 om rapportering eller artikkel 12 til 15 om udekket shortsalg,
+3. [§ 4-2](lov/2007-06-29-75/§4-2),
+4. prospektforordningen, jf. [§ 7-1](lov/2007-06-29-75/§7-1), artikkel 3 om plikt til å offentliggjøre et prospekt og unntak, artikkel 6 om prospektet, artikkel 23 om tillegg til prospektet, [§ 7-5](lov/2007-06-29-75/§7-5), [§ 7-7](lov/2007-06-29-75/§7-7) nr. 1 eller [§ 7-10](lov/2007-06-29-75/§7-10),
+5. [§ 9-16](lov/2007-06-29-75/§9-16) første ledd nr. 8, [§ 9-17](lov/2007-06-29-75/§9-17), [§ 9-18](lov/2007-06-29-75/§9-18) eller [§ 9-23](lov/2007-06-29-75/§9-23),
+6. [§§ 10-3](lov/2007-06-29-75/§10-3) til [10-5](lov/2007-06-29-75/§10-5),
+7. [§ 15-1](lov/2007-06-29-75/§15-1) åttende ledd, [§ 15-3](lov/2007-06-29-75/§15-3) eller [§ 15-4](lov/2007-06-29-75/§15-4),
+8. unnlater å etterkomme pålegg eller krav etter [§ 19-5](lov/2007-06-29-75/§19-5) eller [§ 19-7](lov/2007-06-29-75/§19-7), herunder når myndigheten til å gi pålegg er delegert etter [§ 19-1](lov/2007-06-29-75/§19-1) fjerde ledd.
 
 (5) Første til fjerde ledd gjelder tilsvarende for utfyllende forskrifter til de enkelte bestemmelsene.
 
@@ -3428,7 +3967,20 @@ Ved avgjørelsen av om en administrativ sanksjon skal ilegges og ved utmåling k
 
 ### § 21-16. Anvendelse på handlinger eller unnlatelser i utlandet
 
-(1) Bestemmelsene i kapittelet her får anvendelse uavhengig av om unnlatelsene eller handlingene har funnet sted i utlandet, og uavhengig av om de er foretatt av norske eller utenlandske statsborgere eller foretak, ved overtredelse av:markedsmisbruksforordningen, jf. [§ 3-1](lov/2007-06-29-75/§3-1), når handlingen eller unnlatelsen gjelder:instrumenter eller produkter nevnt i markedsmisbruksforordningen artikkel 2 nr. 1 og 2 som er tatt opp eller søkt tatt opp til handel på regulert marked, auksjoneres på auksjonsplattform, handles på multilateral handelsfasilitet eller organisert handelsfasilitet eller er søkt tatt opp til handel på multilateral handelsfasilitet som har virksomhet i Norge,instrumenter, produkter eller kontrakter etter markedsmisbruksforordningen artikkel 2 nr. 1 og 2 der verdien avhenger av eller har en effekt på instrumenter som nevnt i bokstav a,referanseverdi som nevnt i markedsmisbruksforordningen artikkel 2 nr. 2 når administrator av, eller bidragsyter til, denne har virksomhet i Norge,shortsalgforordningen, jf. [§ 3-5](lov/2007-06-29-75/§3-5), eller pålegg gitt i medhold av denne, når handlingen eller unnlatelsen har en tilknytning til Norge som nevnt i shortsalgforordningen artikkel 2 nr. 1 bokstav j,[§ 3-7](lov/2007-06-29-75/§3-7) om forbud mot urimelige forretningsmetoder i tilfeller som nevnt i bestemmelsens tredje ledd,[§ 4-2](lov/2007-06-29-75/§4-2) om flaggeplikt i tilfeller som nevnt i [§ 4-1](lov/2007-06-29-75/§4-1),prospektforordningen, jf. [§ 7-1](lov/2007-06-29-75/§7-1), når handlingen eller unnlatelsen har tilknytning til Norge som nevnt i artikkel 2 bokstav m,[§ 15-4](lov/2007-06-29-75/§15-4) om posisjonsrapportering i tilfeller som nevnt i [§ 15-5](lov/2007-06-29-75/§15-5) første ledd,bestemmelser etter loven her som regulerer nærmere angitt virksomhet,andre bestemmelser når det fremstår klart at handlingen eller unnlatelsen omfattes av det stedlige virkeområdet for handlingsnormen.
+(1) Bestemmelsene i kapittelet her får anvendelse uavhengig av om unnlatelsene eller handlingene har funnet sted i utlandet, og uavhengig av om de er foretatt av norske eller utenlandske statsborgere eller foretak, ved overtredelse av:
+
+1. markedsmisbruksforordningen, jf. [§ 3-1](lov/2007-06-29-75/§3-1), når handlingen eller unnlatelsen gjelder:
+
+   1. instrumenter eller produkter nevnt i markedsmisbruksforordningen artikkel 2 nr. 1 og 2 som er tatt opp eller søkt tatt opp til handel på regulert marked, auksjoneres på auksjonsplattform, handles på multilateral handelsfasilitet eller organisert handelsfasilitet eller er søkt tatt opp til handel på multilateral handelsfasilitet som har virksomhet i Norge,
+   2. instrumenter, produkter eller kontrakter etter markedsmisbruksforordningen artikkel 2 nr. 1 og 2 der verdien avhenger av eller har en effekt på instrumenter som nevnt i bokstav a,
+   3. referanseverdi som nevnt i markedsmisbruksforordningen artikkel 2 nr. 2 når administrator av, eller bidragsyter til, denne har virksomhet i Norge,
+2. shortsalgforordningen, jf. [§ 3-5](lov/2007-06-29-75/§3-5), eller pålegg gitt i medhold av denne, når handlingen eller unnlatelsen har en tilknytning til Norge som nevnt i shortsalgforordningen artikkel 2 nr. 1 bokstav j,
+3. [§ 3-7](lov/2007-06-29-75/§3-7) om forbud mot urimelige forretningsmetoder i tilfeller som nevnt i bestemmelsens tredje ledd,
+4. [§ 4-2](lov/2007-06-29-75/§4-2) om flaggeplikt i tilfeller som nevnt i [§ 4-1](lov/2007-06-29-75/§4-1),
+5. prospektforordningen, jf. [§ 7-1](lov/2007-06-29-75/§7-1), når handlingen eller unnlatelsen har tilknytning til Norge som nevnt i artikkel 2 bokstav m,
+6. [§ 15-4](lov/2007-06-29-75/§15-4) om posisjonsrapportering i tilfeller som nevnt i [§ 15-5](lov/2007-06-29-75/§15-5) første ledd,
+7. bestemmelser etter loven her som regulerer nærmere angitt virksomhet,
+8. andre bestemmelser når det fremstår klart at handlingen eller unnlatelsen omfattes av det stedlige virkeområdet for handlingsnormen.
 
 (2) Første ledd gjelder tilsvarende når det for øvrig følger av [straffeloven §§ 4](lov/2005-05-20-28/§4) til [8](lov/2005-05-20-28/§8) eller § 1-2 i loven her at bestemmelsene får anvendelse på forholdet.
 
@@ -3456,7 +4008,11 @@ Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de en
 
 (2) § 6-6 første ledd gjelder ikke for aksjeeier som ved denne lovs ikrafttredelse falt inn under unntaket i [lov 19. juni 1997 nr. 79](lov/1997-06-19-79) om verdipapirhandel [§ 4-6](lov/1997-06-19-79/§4-6) annet ledd nr. 2 og som etter børsnotering uavbrutt har eid aksjer som representerer mer enn 40 prosent av stemmene.
 
-(3) [§ 6-6](lov/2007-06-29-75/§6-6) annet ledd gjelder for aksjeeier som passerer tilbudspliktgrensene etter lovens ikrafttredelse. [§ 6-6](lov/2007-06-29-75/§6-6) annet ledd gjelder likevel forden som eier aksjer som representerer mellom 1/3 og 40 prosent av stemmene i selskapet ved lovens ikrafttredelse,den som før lovens ikrafttredelse har passert tilbudspliktgrensen på 40 prosent på en måte som ikke utløser tilbudsplikt og derfor ikke har fremsatt pliktig tilbud,den som per 1. desember 1997 eide aksjer som representerer mellom 40 og 45 prosent av stemmene, og som uavbrutt har eid aksjer som representerer mer enn 40 prosent av stemmene frem til lovens ikrafttredelse uten å fremme tilbud i samsvar med bestemmelsene om pliktig tilbud.
+(3) [§ 6-6](lov/2007-06-29-75/§6-6) annet ledd gjelder for aksjeeier som passerer tilbudspliktgrensene etter lovens ikrafttredelse. [§ 6-6](lov/2007-06-29-75/§6-6) annet ledd gjelder likevel for
+
+1. den som eier aksjer som representerer mellom 1/3 og 40 prosent av stemmene i selskapet ved lovens ikrafttredelse,
+2. den som før lovens ikrafttredelse har passert tilbudspliktgrensen på 40 prosent på en måte som ikke utløser tilbudsplikt og derfor ikke har fremsatt pliktig tilbud,
+3. den som per 1. desember 1997 eide aksjer som representerer mellom 40 og 45 prosent av stemmene, og som uavbrutt har eid aksjer som representerer mer enn 40 prosent av stemmene frem til lovens ikrafttredelse uten å fremme tilbud i samsvar med bestemmelsene om pliktig tilbud.
 
 (4) Departementet kan i forskrift fastsette ytterligere overgangsregler.
 

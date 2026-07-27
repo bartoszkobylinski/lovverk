@@ -28,7 +28,11 @@ Forskriften gjelder trafikkulykker og trafikkuhell på område som angitt i § 1
 
 ## § 2. Definisjoner
 
-I denne forskrift menes med:*Undersøkelsesmyndigheten:* Statens havarikommisjon.*Alvorlig trafikkulykke:* Ulykke i forbindelse med vegtrafikk som medfører at noen blir drept eller hardt skadd.*Alvorlig trafikkuhell:* Uhell i forbindelse med vegtrafikk der det har vært fare for alvorlig trafikkulykke eller er gjort betydelig skade på materiell, eiendom eller miljø.
+I denne forskrift menes med:
+
+1. *Undersøkelsesmyndigheten:* Statens havarikommisjon.
+2. *Alvorlig trafikkulykke:* Ulykke i forbindelse med vegtrafikk som medfører at noen blir drept eller hardt skadd.
+3. *Alvorlig trafikkuhell:* Uhell i forbindelse med vegtrafikk der det har vært fare for alvorlig trafikkulykke eller er gjort betydelig skade på materiell, eiendom eller miljø.
 
 > Endret ved [forskrift 26 feb 2020 nr. 188](forskrift/2020-02-26-188) (i kraft 1 juli 2020).
 
@@ -40,9 +44,16 @@ Undersøkelsesmyndigheten skal ikke ta stilling til sivilrettslig eller straffer
 
 ## § 4. Umiddelbar varsling om alvorlige trafikkulykker og trafikkuhell
 
-Politiet og Statens vegvesen skal straks varsle undersøkelsesmyndigheten om alvorlige trafikkulykker som enten:har funnet sted i en tunnelinvolverer buss eller kjøretøy med totalvekt over 7,5 tonn,involverer kjøretøy som transporterer farlig gods (ADR).
+Politiet og Statens vegvesen skal straks varsle undersøkelsesmyndigheten om alvorlige trafikkulykker som enten:
 
-Politiet og Statens vegvesen skal også straks varsle om alvorlige trafikkulykker og/eller alvorlige trafikkuhell:som omfattes av nærmere spesifiserte kriterier fastsatt av undersøkelsesmyndigheten, og hvor denne skriftlig har bedt om slik varsling, ellersom de etter en samlet vurdering mener undersøkelsesmyndigheten kan ha interesse av å undersøke, jf. [§ 3](forskrift/2005-06-30-793/§3) første ledd.
+1. har funnet sted i en tunnel
+2. involverer buss eller kjøretøy med totalvekt over 7,5 tonn,
+3. involverer kjøretøy som transporterer farlig gods (ADR).
+
+Politiet og Statens vegvesen skal også straks varsle om alvorlige trafikkulykker og/eller alvorlige trafikkuhell:
+
+1. som omfattes av nærmere spesifiserte kriterier fastsatt av undersøkelsesmyndigheten, og hvor denne skriftlig har bedt om slik varsling, eller
+2. som de etter en samlet vurdering mener undersøkelsesmyndigheten kan ha interesse av å undersøke, jf. [§ 3](forskrift/2005-06-30-793/§3) første ledd.
 
 Varsling skal skje til angitt vakttelefon hos undersøkelsesmyndigheten.
 

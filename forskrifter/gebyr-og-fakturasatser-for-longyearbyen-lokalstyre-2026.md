@@ -22,4 +22,6 @@ eu_basis: []
 
 # Gebyr- og fakturasatser for Longyearbyen lokalstyre 2026
 
-Longyearbyen lokalstyre fastsatte 10. desember 2025 gebyr- og fakturasatser 2026 for Longyearbyen lokalstyre, gjeldende fra 1. januar 2026 til og med 31. desember 2026, eller til nye satser blir fastsatt.[Pdf-fil](static/SF/sf-20251210-3067-01-01.pdf).
+Longyearbyen lokalstyre fastsatte 10. desember 2025 gebyr- og fakturasatser 2026 for Longyearbyen lokalstyre, gjeldende fra 1. januar 2026 til og med 31. desember 2026, eller til nye satser blir fastsatt.
+
+- [Pdf-fil](static/SF/sf-20251210-3067-01-01.pdf).

@@ -28,7 +28,13 @@ Denne forskriften omfatter medlemmer som er hørselshemmede og som fyller vilkå
 
 En hørselshemmet er en person som er døv eller har så sterkt nedsatt hørsel at vedkommende ikke er i stand til å føre en samtale ved hjelp av et egnet hjelpemiddel.
 
-Utgifter til tolkehjelp, herunder skrivetolking, kan dekkes for at den hørselshemmede skal kunnefungere i dagliglivet,fungere i høvelig arbeid,gjennomføre opplæring for å bedre funksjonsevnen i dagliglivet,gjennomføre utdanning, opplæring eller arbeidstrening med sikte på å skaffe seg eller beholde høvelig arbeid,motta helsetjenester som omfattes av [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5) og poliklinisk undersøkelse og behandling gitt av helseforetak.
+Utgifter til tolkehjelp, herunder skrivetolking, kan dekkes for at den hørselshemmede skal kunne
+
+1. fungere i dagliglivet,
+2. fungere i høvelig arbeid,
+3. gjennomføre opplæring for å bedre funksjonsevnen i dagliglivet,
+4. gjennomføre utdanning, opplæring eller arbeidstrening med sikte på å skaffe seg eller beholde høvelig arbeid,
+5. motta helsetjenester som omfattes av [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5) og poliklinisk undersøkelse og behandling gitt av helseforetak.
 
 Utgifter dekkes i den utstrekning de er nødvendige.
 

@@ -15,7 +15,7 @@ xml_hash: "9870bcb4fda0f2a4630f58469bcdad62ffbe25fff47abcd95b37e2d7791cc92a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,13 +24,23 @@ eu_basis: []
 
 ## § 1. Skyteforbudssoner på Svalbard
 
-Det er forbudt å skyte med gevær eller annet skytevåpen og å bære ladd skytevåpen:i Longyeardalen fra foten av Longyearbreen og Larsbreen til Adventfjorden, samt fjellsidene på begge sider av dalen,på Adventfjorden innenfor en rett linje trukket fra Adventpynten til nes vest av Moskushavn, ogi Adventdalen innenfor et område som i nordøst begrenses av Adventdalselvas nordøstlige bredd, i sørøstlig retning strekker seg til tvers av Endalen og i sørvest begrenses av en rett linje trukket fra fjellfoten ved utløpet av Endalen på dennes nordøstlige side til Sukkertoppen (fjelltoppen øst for Funksjonærbyen)i Pyramiden skyteforbudssone slik den er avgrenset på kart, med tilhørende grensebeskrivelse, i vedlegg kart Ai Barentsburg skyteforbudssone slik den er avgrenset på kart, med tilhørende grensebeskrivelse, i vedlegg kart Bi Vannposten skyteforbudssone slik den er avgrenset på kart, med tilhørende grensebeskrivelse, i vedlegg kart C.
+Det er forbudt å skyte med gevær eller annet skytevåpen og å bære ladd skytevåpen:
+
+1. i Longyeardalen fra foten av Longyearbreen og Larsbreen til Adventfjorden, samt fjellsidene på begge sider av dalen,
+2. på Adventfjorden innenfor en rett linje trukket fra Adventpynten til nes vest av Moskushavn, og
+3. i Adventdalen innenfor et område som i nordøst begrenses av Adventdalselvas nordøstlige bredd, i sørøstlig retning strekker seg til tvers av Endalen og i sørvest begrenses av en rett linje trukket fra fjellfoten ved utløpet av Endalen på dennes nordøstlige side til Sukkertoppen (fjelltoppen øst for Funksjonærbyen)
+4. i Pyramiden skyteforbudssone slik den er avgrenset på kart, med tilhørende grensebeskrivelse, i vedlegg kart A
+5. i Barentsburg skyteforbudssone slik den er avgrenset på kart, med tilhørende grensebeskrivelse, i vedlegg kart B
+6. i Vannposten skyteforbudssone slik den er avgrenset på kart, med tilhørende grensebeskrivelse, i vedlegg kart C.
 
 > Endret ved forskrift [13 juli 2021 nr. 2423](forskrift/2021-07-13-2423).
 
 ## § 2. Alminnelig skyteforbud for Longyearbyen og omegn
 
-Utenfor de områdene som er angitt i [§ 1](forskrift/1966-02-11-3449/§1), er det forbudt å skyte med gevær eller annet skytevåpen innenfor en avstand av 500 metertil hus, kaianlegg, gruveanlegg, taubanestasjoner, veger og mellom dette og Longyeardalen samt i Adventdalen, ogtil skip eller andre fartøyer som trafikkerer Adventfjorden eller oppholder seg der.
+Utenfor de områdene som er angitt i [§ 1](forskrift/1966-02-11-3449/§1), er det forbudt å skyte med gevær eller annet skytevåpen innenfor en avstand av 500 meter
+
+1. til hus, kaianlegg, gruveanlegg, taubanestasjoner, veger og mellom dette og Longyeardalen samt i Adventdalen, og
+2. til skip eller andre fartøyer som trafikkerer Adventfjorden eller oppholder seg der.
 
 > Endret ved forskrifter [13 juli 2021 nr. 2423](forskrift/2021-07-13-2423), [26 juli 2021 nr. 2457](forskrift/2021-07-26-2457).
 

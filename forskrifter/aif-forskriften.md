@@ -30,7 +30,10 @@ Forskriften gir utfyllende bestemmelser til [lov 20. juni 2014 nr. 28](lov/2014-
 
 ### § 1-2. Unntak fra anvendelsesområdet til lov om forvaltning av alternative investeringsfond for holdingselskaper
 
-[Lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond og tilhørende forskrifter gjelder ikke for selskaper med eierandeler i ett eller flere andre selskaper, der formålet er å gjennomføre en forretningsstrategi gjennom datterselskaper, tilknyttede selskaper eller kapitalinteresser og som enten er et selskap som:driver virksomhet på grunnlag av egne aktiva og er notert på regulert marked i EØS, ellerhar annet hovedformål enn å skape avkastning gjennom å selge datterselskapene eller tilknyttede selskaper.
+[Lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond og tilhørende forskrifter gjelder ikke for selskaper med eierandeler i ett eller flere andre selskaper, der formålet er å gjennomføre en forretningsstrategi gjennom datterselskaper, tilknyttede selskaper eller kapitalinteresser og som enten er et selskap som:
+
+1. driver virksomhet på grunnlag av egne aktiva og er notert på regulert marked i EØS, eller
+2. har annet hovedformål enn å skape avkastning gjennom å selge datterselskapene eller tilknyttede selskaper.
 
 ### § 1-3. Presisering av unntak fra deler av lov om forvaltning av alternative investeringsfond for forvaltere med samlet forvaltningskapital under visse terskelverdier
 
@@ -50,7 +53,11 @@ For forvaltere av alternative investeringsfond som har tillatelse til å yte tje
 
 (1) Finanstilsynet skal avslå søknad om tillatelse dersom forholdet til forvalterens nærstående, regler eller vanskeligheter med å håndheve regler i et tredjeland som gjelder for forvalters nærstående, hindrer et effektivt og betryggende tilsyn med forvalter.
 
-(2) Finanstilsynet kan bare gi tillatelse til å forvalte alternative investeringsfond etter samråd med kompetent myndighet i vedkommende EØS-stat dersom søkeren er:datterforetak av en annen forvalter, forvaltningsselskap for verdipapirfond, verdipapirforetak, kredittinstitusjon eller forsikringsselskap med tillatelse i en annen EØS-stat,datterforetak av et morselskap for foretak som nevnt i bokstav a med tillatelse i en annen EØS-stat, ellerkontrollert av de samme fysiske eller juridiske personer som kontrollerer et foretak som nevnt i bokstav a, med tillatelse i en annen EØS-stat.
+(2) Finanstilsynet kan bare gi tillatelse til å forvalte alternative investeringsfond etter samråd med kompetent myndighet i vedkommende EØS-stat dersom søkeren er:
+
+1. datterforetak av en annen forvalter, forvaltningsselskap for verdipapirfond, verdipapirforetak, kredittinstitusjon eller forsikringsselskap med tillatelse i en annen EØS-stat,
+2. datterforetak av et morselskap for foretak som nevnt i bokstav a med tillatelse i en annen EØS-stat, eller
+3. kontrollert av de samme fysiske eller juridiske personer som kontrollerer et foretak som nevnt i bokstav a, med tillatelse i en annen EØS-stat.
 
 ### § 2-2. Behandling av søknad om tillatelse
 
@@ -80,7 +87,11 @@ Som startkapital regnes innbetalt aksjekapital, overkursfond og annen egenkapita
 
 (2) Utkontrakteringen må ikke hindre forvalteren fra å handle i samsvar med investorenes interesser, eller fondet fra å bli forvaltet i samsvar med investorenes interesser.
 
-(3) Forvalteren skal løpende kontrollere oppdragstakerens utførelse av tjenestene. Forvalteren skal kunne dokumentere:at oppdragstakeren har tilstrekkelig kompetanse og ressurser til å utføre oppgavene, og at de som faktisk utfører oppgavene har relevante kvalifikasjoner og yrkeserfaring og hederlig vandel,at oppdragstakeren er valgt på en forsvarlig måte,at forvalteren til enhver tid effektivt kan overvåke oppgavene som er utkontraktert, gi instrukser til oppdragstakeren og bringe utkontrakteringen til opphør med umiddelbar virkning, dersom det er i investorenes interesse.
+(3) Forvalteren skal løpende kontrollere oppdragstakerens utførelse av tjenestene. Forvalteren skal kunne dokumentere:
+
+1. at oppdragstakeren har tilstrekkelig kompetanse og ressurser til å utføre oppgavene, og at de som faktisk utfører oppgavene har relevante kvalifikasjoner og yrkeserfaring og hederlig vandel,
+2. at oppdragstakeren er valgt på en forsvarlig måte,
+3. at forvalteren til enhver tid effektivt kan overvåke oppgavene som er utkontraktert, gi instrukser til oppdragstakeren og bringe utkontrakteringen til opphør med umiddelbar virkning, dersom det er i investorenes interesse.
 
 (4) Utkontraktering av porteføljeforvaltning eller risikostyring kan bare skje til oppdragstakere som har tillatelse eller er registrert til å yte slike tjenester og er underlagt betryggende tilsyn, med mindre Finanstilsynet samtykker til utkontrakteringen. Dersom oppdragstakeren er etablert utenfor EØS, må det dessuten være etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i oppdragstakerens hjemstat og Norge.
 
@@ -96,7 +107,11 @@ Som startkapital regnes innbetalt aksjekapital, overkursfond og annen egenkapita
 
 (3) Finanstilsynet kan pålegge forvaltere som selv foretar verdivurdering å få verdivurderingen eller retningslinjene for verdivurdering kontrollert av en enhet som oppfyller vilkårene i fjerde ledd, eller av en revisor.
 
-(4) Dersom forvalteren har gitt en annen enhet i oppdrag å foreta verdivurdering, må oppdragstakeren være uavhengig av forvalteren, fondet og deres nærstående. Forvalteren skal kunne dokumentere:at oppdragstakeren er underlagt pliktig registrering etter lov, annen rettslig regulering eller retningslinjer for yrkesutøvelse,at oppdragstakeren har tilstrekkelige faglige kvalifikasjoner til å gjennomføre verdivurderingen på en effektiv måte og i tråd med gjeldende regler,at de generelle vilkårene for utkontraktering i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 3-5](lov/2014-06-20-28/§3-5) med tilhørende forskrifter er oppfylt.
+(4) Dersom forvalteren har gitt en annen enhet i oppdrag å foreta verdivurdering, må oppdragstakeren være uavhengig av forvalteren, fondet og deres nærstående. Forvalteren skal kunne dokumentere:
+
+1. at oppdragstakeren er underlagt pliktig registrering etter lov, annen rettslig regulering eller retningslinjer for yrkesutøvelse,
+2. at oppdragstakeren har tilstrekkelige faglige kvalifikasjoner til å gjennomføre verdivurderingen på en effektiv måte og i tråd med gjeldende regler,
+3. at de generelle vilkårene for utkontraktering i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 3-5](lov/2014-06-20-28/§3-5) med tilhørende forskrifter er oppfylt.
 
 (5) Fondets depotmottaker kan ikke foreta verdivurdering, med mindre verdivurderingen skjer organisatorisk uavhengig av depotmottakerfunksjonen, potensielle interessekonflikter er korrekt identifisert, håndtert og overvåket, og fondets investorer er underrettet.
 
@@ -118,13 +133,27 @@ Forvaltere av alternative investeringsfond med tillatelse etter [lov 20. juni 20
 
 ### § 3-5. Opplysningsplikt overfor livsforsikringsforetak og pensjonsforetak
 
-Forvalteren skal gi opplysninger til livsforsikringsforetak og pensjonsforetak som nevnt i [lov om forvaltning av alternative investeringsfond § 4-1a](lov/2014-06-20-28/§4-1a) som angir følgende:hvordan forvalterens investeringsstrategi og gjennomføring av den samsvarer med avtalen med livsforsikringsforetaket eller pensjonsforetaket, jf. [finansforetaksloven § 13-23](lov/2015-04-10-17/§13-23) annet ledd,hvordan investeringsstrategien bidrar til resultatet av investors investeringer på mellomlang til lang sikt,de vesentligste risikofaktorer på mellomlang til lang sikt, porteføljesammensetning, omløpshastighet og transaksjonskostnader samt eventuell bruk av rådgivende stedfortreder,praksis for utlån av finansielle instrumenter og hvordan utlån er brukt i forbindelse med utøvelsen av aksjeeierskapet,om og i så fall hvordan forvalteren gjør investeringsbeslutninger basert på vurdering av mellomlange til langsiktige resultater i selskapet det er investert i, oghvordan eventuelle interessekonflikter i forbindelse med utøvelse av aksjeeierskapet er håndtert.
+Forvalteren skal gi opplysninger til livsforsikringsforetak og pensjonsforetak som nevnt i [lov om forvaltning av alternative investeringsfond § 4-1a](lov/2014-06-20-28/§4-1a) som angir følgende:
+
+1. hvordan forvalterens investeringsstrategi og gjennomføring av den samsvarer med avtalen med livsforsikringsforetaket eller pensjonsforetaket, jf. [finansforetaksloven § 13-23](lov/2015-04-10-17/§13-23) annet ledd,
+2. hvordan investeringsstrategien bidrar til resultatet av investors investeringer på mellomlang til lang sikt,
+3. de vesentligste risikofaktorer på mellomlang til lang sikt, porteføljesammensetning, omløpshastighet og transaksjonskostnader samt eventuell bruk av rådgivende stedfortreder,
+4. praksis for utlån av finansielle instrumenter og hvordan utlån er brukt i forbindelse med utøvelsen av aksjeeierskapet,
+5. om og i så fall hvordan forvalteren gjør investeringsbeslutninger basert på vurdering av mellomlange til langsiktige resultater i selskapet det er investert i, og
+6. hvordan eventuelle interessekonflikter i forbindelse med utøvelse av aksjeeierskapet er håndtert.
 
 > Tilføyd ved forskrift [22 juni 2023 nr. 1074](forskrift/2023-06-22-1074) (i kraft 1 juli 2023, hjemmel satt i kraft 11 aug 2023 ved [res. 11 aug 2023 nr. 1319](forskrift/2023-08-11-1319)).
 
 ### § 3-6. Retningslinjer for aktivt aksjeeierskap
 
-(1) Retningslinjer for aktivt aksjeeierskap som nevnt i [lov om forvaltning av alternative investeringsfond § 4-7](lov/2014-06-20-28/§4-7) skal beskrive følgende:hvordan aktivt eierskap integreres i investeringsstrategien,hvordan forvalteren overvåker selskaper det investeres i på relevante områder,hvordan forvalteren fører dialog med selskapene det investeres i,utøvelse av stemmerettigheter og andre rettigheter knyttet til aksjene,samarbeid og kommunikasjon med andre aksjeeiere og interessenter, oghvordan forvalteren håndterer interessekonflikter i relasjon til utøvelsen av eierskap.
+(1) Retningslinjer for aktivt aksjeeierskap som nevnt i [lov om forvaltning av alternative investeringsfond § 4-7](lov/2014-06-20-28/§4-7) skal beskrive følgende:
+
+1. hvordan aktivt eierskap integreres i investeringsstrategien,
+2. hvordan forvalteren overvåker selskaper det investeres i på relevante områder,
+3. hvordan forvalteren fører dialog med selskapene det investeres i,
+4. utøvelse av stemmerettigheter og andre rettigheter knyttet til aksjene,
+5. samarbeid og kommunikasjon med andre aksjeeiere og interessenter, og
+6. hvordan forvalteren håndterer interessekonflikter i relasjon til utøvelsen av eierskap.
 
 (2) Forvalteren skal årlig offentliggjøre hvordan retningslinjene etter første ledd er gjennomført, herunder opplyse om stemmegivning, de viktigste avstemningene og bruken av rådgivende stedfortredere.
 
@@ -138,7 +167,12 @@ Forvalteren skal ha en godtgjørelsesordning som er i samsvar med forvalterens o
 
 ### § 4-2. Etablering av godtgjørelsesordning og krav om godtgjørelsesutvalg mv.
 
-(1) Forvalterens styre skal fastsette og sørge for at foretaket til enhver tid har og praktiserer retningslinjer og rammer for en godtgjørelsesordning. Godtgjørelsesordningen skal inneholde særskilte regler for:ledende ansatte,ansatte og tillitsvalgte med arbeidsoppgaver av vesentlig betydning for risikoeksponeringen til forvalteren eller til fond under forvaltning,ansatte og tillitsvalgte med kontrolloppgaver,ansatte og tillitsvalgte med tilsvarende godtgjørelse som ledende ansatte og risikotakere, som har arbeidsoppgaver av vesentlig betydning for risikoeksponeringen til forvalteren eller til fond under forvaltning.
+(1) Forvalterens styre skal fastsette og sørge for at foretaket til enhver tid har og praktiserer retningslinjer og rammer for en godtgjørelsesordning. Godtgjørelsesordningen skal inneholde særskilte regler for:
+
+1. ledende ansatte,
+2. ansatte og tillitsvalgte med arbeidsoppgaver av vesentlig betydning for risikoeksponeringen til forvalteren eller til fond under forvaltning,
+3. ansatte og tillitsvalgte med kontrolloppgaver,
+4. ansatte og tillitsvalgte med tilsvarende godtgjørelse som ledende ansatte og risikotakere, som har arbeidsoppgaver av vesentlig betydning for risikoeksponeringen til forvalteren eller til fond under forvaltning.
 
 (2) Med godtgjørelse menes det samme som «lønn og annen godtgjørelse» som angitt i [allmennaksjeloven § 6-16a](lov/1997-06-13-45/§6-16a), herunder resultatavhengig vederlag som nevnt i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 1-2](lov/2014-06-20-28/§1-2) bokstav d. Forvalteren må påse at variabel godtgjørelse ikke utbetales gjennom eierandeler i tilknyttede selskaper (indre selskap), eller på annen måte som innebærer en omgåelse av reglene om godtgjørelse.
 
@@ -192,7 +226,10 @@ Bestemmelsene i [§ 4-3](forskrift/2014-06-26-877/§4-3) gjelder tilsvarende for
 
 (1) Forvalteren skal i en periode på 24 måneder etter oppnåelse av kontroll som nevnt i [lov om forvaltning av alternative investeringsfond § 4-4](lov/2014-06-20-28/§4-4) første ledd ikke medvirke til, samt treffe alle rimelige forholdsregler for å forhindre, utdelinger fra målselskapet, kapitalnedsettelser, innløsning av aksjer og erverv av egne aksjer.
 
-(2) Kravet i første ledd gjelder kun dersom:utdelingen eller ervervet av egne aksjer medfører at målselskapets nettoformue ifølge balansen for siste regnskapsår blir lavere enn tegnet selskapskapital med tillegg av beløp som etter gjeldende rett eller vedtektene er avsatt til bundet fond og som ikke kan utdeles. Dersom ikke innbetalt selskapskapital ikke er balanseført, skal dette trekkes fra tegnet selskapskapital.utdelingen overstiger resultatet for siste regnskapsår, med tillegg av etterfølgende resultat og beløp avsatt til fond for dette formål, og med fradrag for tap og beløp som i samsvar med gjeldende rett eller vedtekter er avsatt til bundet fond.
+(2) Kravet i første ledd gjelder kun dersom:
+
+1. utdelingen eller ervervet av egne aksjer medfører at målselskapets nettoformue ifølge balansen for siste regnskapsår blir lavere enn tegnet selskapskapital med tillegg av beløp som etter gjeldende rett eller vedtektene er avsatt til bundet fond og som ikke kan utdeles. Dersom ikke innbetalt selskapskapital ikke er balanseført, skal dette trekkes fra tegnet selskapskapital.
+2. utdelingen overstiger resultatet for siste regnskapsår, med tillegg av etterfølgende resultat og beløp avsatt til fond for dette formål, og med fradrag for tap og beløp som i samsvar med gjeldende rett eller vedtekter er avsatt til bundet fond.
 
 (3) Kravene i første ledd gjelder ikke dersom nedsetting av selskapskapital har som formål å dekke tap eller sette av beløp til bundne fond som ikke kan utdeles, forutsatt at beløpet ikke er høyere enn 10 prosent av selskapskapitalen. Kravet i første ledd første punktum gjelder ikke erverv av aksjer i samsvar med nasjonal lovgivning som gjennomfører direktiv [77/91/EØF](eu/31977l0091) artikkel 20 (1) bokstav b til h.
 
@@ -204,19 +241,45 @@ Dersom opplysninger som nevnt i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om
 
 ### § 6-1. Foretak som kan utpekes som depotmottaker
 
-(1) Finanstilsynet kan ved enkeltvedtak samtykke til at andre foretak enn nevnt i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 5-2](lov/2014-06-20-28/§5-2) første ledd utpekes som depotmottaker for bestemte alternative investeringsfond, dersom:depotmottakeren er underlagt betryggende offentlig regulering eller bransjeregler og kan stille tilstrekkelige økonomiske og yrkesmessige garantier for utførelsen av depotmottakerfunksjonen,det alternative investeringsfondet ikke har innløsningsrett for investorene de første fem år,fondet ikke investerer i aktiva som skal oppbevares av depotmottaker etter [lov om forvaltning av alternative investeringsfond § 5-3](lov/2014-06-20-28/§5-3) tredje ledd og ikke har som investeringsmål å oppnå kontroll som nevnt i [samme lov § 4-4](forskrift/2014-06-26-877/§4-4) første ledd.
+(1) Finanstilsynet kan ved enkeltvedtak samtykke til at andre foretak enn nevnt i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 5-2](lov/2014-06-20-28/§5-2) første ledd utpekes som depotmottaker for bestemte alternative investeringsfond, dersom:
 
-(2) Finanstilsynet kan ved enkeltvedtak samtykke til at forvalteren utpeker en depotmottaker etablert utenfor EØS dersom:det er etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i depotmottakerens hjemstat, forvalterens hjemstat og andre EØS-stater hvor fondsandelene skal markedsføres,depotmottakeren er underlagt effektiv og betryggende regulering og tilsyn, herunder kapitalkrav,depotmottakerens hjemstat ikke står oppført av Financial Action Task Force on Money Laundering (FATF) som ikke-samarbeidende land,myndighetene i forvalterens hjemstat og de EØS-stater hvor det alternative investeringsfondet skal markedsføres har undertegnet en avtale med myndighetene i depotmottakerens hjemstat om beskatning av inntekter og kapital og effektiv utveksling av opplysninger i skattesaker, herunder multilaterale skatteavtaler, og som i sin helhet er i samsvar med standardene fastsatt i art. 26 i OECDs mønsteravtale,depotmottakeren i henhold til avtale er ansvarlig overfor det alternative investeringsfondet og investorene for tap som nevnt i [lov om forvaltning av alternative investeringsfond § 5-4](lov/2014-06-20-28/§5-4),depotmottakeren uttrykkelig har samtykket i å overholde bestemmelsene om utkontraktering i [§ 6-3](forskrift/2014-06-26-877/§6-3).
+1. depotmottakeren er underlagt betryggende offentlig regulering eller bransjeregler og kan stille tilstrekkelige økonomiske og yrkesmessige garantier for utførelsen av depotmottakerfunksjonen,
+2. det alternative investeringsfondet ikke har innløsningsrett for investorene de første fem år,
+3. fondet ikke investerer i aktiva som skal oppbevares av depotmottaker etter [lov om forvaltning av alternative investeringsfond § 5-3](lov/2014-06-20-28/§5-3) tredje ledd og ikke har som investeringsmål å oppnå kontroll som nevnt i [samme lov § 4-4](forskrift/2014-06-26-877/§4-4) første ledd.
+
+(2) Finanstilsynet kan ved enkeltvedtak samtykke til at forvalteren utpeker en depotmottaker etablert utenfor EØS dersom:
+
+1. det er etablert tilfredsstillende samarbeid om tilsyn mellom tilsynsmyndighetene i depotmottakerens hjemstat, forvalterens hjemstat og andre EØS-stater hvor fondsandelene skal markedsføres,
+2. depotmottakeren er underlagt effektiv og betryggende regulering og tilsyn, herunder kapitalkrav,
+3. depotmottakerens hjemstat ikke står oppført av Financial Action Task Force on Money Laundering (FATF) som ikke-samarbeidende land,
+4. myndighetene i forvalterens hjemstat og de EØS-stater hvor det alternative investeringsfondet skal markedsføres har undertegnet en avtale med myndighetene i depotmottakerens hjemstat om beskatning av inntekter og kapital og effektiv utveksling av opplysninger i skattesaker, herunder multilaterale skatteavtaler, og som i sin helhet er i samsvar med standardene fastsatt i art. 26 i OECDs mønsteravtale,
+5. depotmottakeren i henhold til avtale er ansvarlig overfor det alternative investeringsfondet og investorene for tap som nevnt i [lov om forvaltning av alternative investeringsfond § 5-4](lov/2014-06-20-28/§5-4),
+6. depotmottakeren uttrykkelig har samtykket i å overholde bestemmelsene om utkontraktering i [§ 6-3](forskrift/2014-06-26-877/§6-3).
 
 ### § 6-2. Depotmottakerens oppgaver
 
-(1) I tillegg til oppgaver som nevnt i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 5-3](lov/2014-06-20-28/§5-3), skal depotmottakeren:kontrollere at salg, utstedelse, gjenkjøp, innløsning og sletting av andeler eller aksjer i det alternative investeringsfondet utføres i samsvar med gjeldende lovgivning, fondets vedtekter og øvrige stiftelsesdokumenter,kontrollere at verdien av andelene eller aksjene i det alternative investeringsfondet beregnes i samsvar med [§ 3-2](forskrift/2014-06-26-877/§3-2), [lov om forvaltning av alternative investeringsfond § 3-10](lov/2014-06-20-28/§3-10), fondets vedtekter og øvrige stiftelsesdokumenter,kontrollere at det alternative investeringsfondet mottar oppgjør for transaksjoner innenfor vanlige oppgjørsfrister,kontrollere at det alternative investeringsfondets inntekter anvendes i samsvar med gjeldende lovgivning, fondets vedtekter og øvrige stiftelsesdokumenter.
+(1) I tillegg til oppgaver som nevnt i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 5-3](lov/2014-06-20-28/§5-3), skal depotmottakeren:
+
+1. kontrollere at salg, utstedelse, gjenkjøp, innløsning og sletting av andeler eller aksjer i det alternative investeringsfondet utføres i samsvar med gjeldende lovgivning, fondets vedtekter og øvrige stiftelsesdokumenter,
+2. kontrollere at verdien av andelene eller aksjene i det alternative investeringsfondet beregnes i samsvar med [§ 3-2](forskrift/2014-06-26-877/§3-2), [lov om forvaltning av alternative investeringsfond § 3-10](lov/2014-06-20-28/§3-10), fondets vedtekter og øvrige stiftelsesdokumenter,
+3. kontrollere at det alternative investeringsfondet mottar oppgjør for transaksjoner innenfor vanlige oppgjørsfrister,
+4. kontrollere at det alternative investeringsfondets inntekter anvendes i samsvar med gjeldende lovgivning, fondets vedtekter og øvrige stiftelsesdokumenter.
 
 ### § 6-3. Depotmottakerens adgang til å utkontraktere oppgaver
 
-(1) Depotmottakeren kan utkontraktere oppgaver som nevnt i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 5-3](lov/2014-06-20-28/§5-3) tredje ledd dersom:oppgavene ikke utkontrakteres for å unngå kravene i lov om forvaltning av alternative investeringsfond,utkontrakteringen er saklig begrunnet,depotmottakeren utviser tilbørlig aktsomhet ved utvelgelsen og oppfølgningen av oppdragstaker.
+(1) Depotmottakeren kan utkontraktere oppgaver som nevnt i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om forvaltning av alternative investeringsfond [§ 5-3](lov/2014-06-20-28/§5-3) tredje ledd dersom:
 
-(2) Depotmottakeren skal kontrollere at oppdragstakeren til enhver tid:har tilstrekkelige ressurser og kompetanse til å utføre de utkontrakterte oppgavene,er underlagt regulering, herunder kapitalkrav, tilsyn for oppbevaring av finansielle instrumenter og ekstern, regelmessig revisjon for å sikre at oppdragstakeren er i besittelse av de finansielle instrumentene som er mottatt for oppbevaring,oppbevarer det alternative investeringsfondets aktiva atskilt fra oppdragstakers aktiva og depotmottakers aktiva på en slik måte at disse til enhver tid skal kunne identifiseres som tilhørende depotmottakers kunder,ikke bruker det alternative investeringsfondets aktiva uten forhåndssamtykke fra fondet eller forvalter, og ikke uten at depotmottakeren er underrettet på forhånd,overholder bestemmelsene i [lov om forvaltning av alternative investeringsfond § 5-3](lov/2014-06-20-28/§5-3) første og fjerde ledd.
+1. oppgavene ikke utkontrakteres for å unngå kravene i lov om forvaltning av alternative investeringsfond,
+2. utkontrakteringen er saklig begrunnet,
+3. depotmottakeren utviser tilbørlig aktsomhet ved utvelgelsen og oppfølgningen av oppdragstaker.
+
+(2) Depotmottakeren skal kontrollere at oppdragstakeren til enhver tid:
+
+1. har tilstrekkelige ressurser og kompetanse til å utføre de utkontrakterte oppgavene,
+2. er underlagt regulering, herunder kapitalkrav, tilsyn for oppbevaring av finansielle instrumenter og ekstern, regelmessig revisjon for å sikre at oppdragstakeren er i besittelse av de finansielle instrumentene som er mottatt for oppbevaring,
+3. oppbevarer det alternative investeringsfondets aktiva atskilt fra oppdragstakers aktiva og depotmottakers aktiva på en slik måte at disse til enhver tid skal kunne identifiseres som tilhørende depotmottakers kunder,
+4. ikke bruker det alternative investeringsfondets aktiva uten forhåndssamtykke fra fondet eller forvalter, og ikke uten at depotmottakeren er underrettet på forhånd,
+5. overholder bestemmelsene i [lov om forvaltning av alternative investeringsfond § 5-3](lov/2014-06-20-28/§5-3) første og fjerde ledd.
 
 (3) Dersom lovgivningen i en tredjestat krever at visse finansielle instrumenter skal oppbevares i depot hos et lokalt foretak, og ingen lokale foretak oppfyller kravet i annet ledd bokstav b, kan utkontrakteringen likevel skje til slikt lokalt foretak dersom investorene i det alternative investeringsfondet er informert før investeringen i fondet og det alternative investeringsfondet eller forvalteren pålegger depotmottakeren å utkontraktere oppbevaringen til slik oppdragstaker.
 
@@ -224,9 +287,17 @@ Dersom opplysninger som nevnt i [lov 20. juni 2014 nr. 28](lov/2014-06-20-28) om
 
 ### § 6-4. Depotmottakerens adgang til å fraskrive seg ansvar ved utkontraktering
 
-(1) Depotmottakeren kan fraskrive seg ansvaret for tap av finansielle instrumenter som oppbevares av oppdragstakere etter [§ 6-3](forskrift/2014-06-26-877/§6-3) første og annet ledd dersom:depotmottakerens ansvar er overført til oppdragstakeren ved skriftlig avtale, og avtalen gjør det mulig for det alternative investeringsfondet, forvalteren eller depotmottakeren å fremsette krav overfor oppdragstakeren i forbindelse med tap,ansvarsfraskrivelsen er uttrykkelig tillatt og begrunnet i skriftlig avtale mellom depotmottakeren og det alternative investeringsfondet eller forvalteren.
+(1) Depotmottakeren kan fraskrive seg ansvaret for tap av finansielle instrumenter som oppbevares av oppdragstakere etter [§ 6-3](forskrift/2014-06-26-877/§6-3) første og annet ledd dersom:
 
-(2) Depotmottakeren kan fraskrive seg ansvaret for tap av finansielle instrumenter som oppbevares av oppdragstakere etter [§ 6-3](forskrift/2014-06-26-877/§6-3) tredje ledd, dersom:vedtektene eller øvrige stiftelsesdokumenter for det alternative investeringsfondet uttrykkelig tillater slik ansvarsfraskrivelse,investorene i det alternative investeringsfondet er informert om ansvarsfraskrivelsen og begrunnelsen for denne før de foretar investeringen,det alternative investeringsfondet eller forvalteren har pålagt depotmottakeren å utkontraktere oppbevaringen etter [§ 6-3](forskrift/2014-06-26-877/§6-3) tredje ledd,krav som nevnt i første ledd bokstav a og b er oppfylt.
+1. depotmottakerens ansvar er overført til oppdragstakeren ved skriftlig avtale, og avtalen gjør det mulig for det alternative investeringsfondet, forvalteren eller depotmottakeren å fremsette krav overfor oppdragstakeren i forbindelse med tap,
+2. ansvarsfraskrivelsen er uttrykkelig tillatt og begrunnet i skriftlig avtale mellom depotmottakeren og det alternative investeringsfondet eller forvalteren.
+
+(2) Depotmottakeren kan fraskrive seg ansvaret for tap av finansielle instrumenter som oppbevares av oppdragstakere etter [§ 6-3](forskrift/2014-06-26-877/§6-3) tredje ledd, dersom:
+
+1. vedtektene eller øvrige stiftelsesdokumenter for det alternative investeringsfondet uttrykkelig tillater slik ansvarsfraskrivelse,
+2. investorene i det alternative investeringsfondet er informert om ansvarsfraskrivelsen og begrunnelsen for denne før de foretar investeringen,
+3. det alternative investeringsfondet eller forvalteren har pålagt depotmottakeren å utkontraktere oppbevaringen etter [§ 6-3](forskrift/2014-06-26-877/§6-3) tredje ledd,
+4. krav som nevnt i første ledd bokstav a og b er oppfylt.
 
 ### § 6-5. Instruks fra forvaltningsselskapet
 

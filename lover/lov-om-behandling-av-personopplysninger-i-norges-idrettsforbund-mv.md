@@ -15,7 +15,7 @@ xml_hash: "ff4e873d778e7b0eb737d9ec6eb71d9b5865b909349920d6afca631563017664"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,15 +42,35 @@ Med vold mv. menes handlinger som omfattes av [straffeloven §§ 251](lov/2005-0
 
 ## § 4. Behandling av særlige kategorier av personopplysninger
 
-Når det er nødvendig for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten, kan det behandles følgende personopplysninger som nevnt i [personvernforordningen artikkel 9 nr. 1](lov/2018-06-15-38/gdpr/a9/nummer/1):opplysninger om rasemessig eller etnisk opprinnelseopplysninger om politisk oppfatningopplysninger om filosofisk overbevisningopplysninger om religionopplysninger om en persons seksuelle orienteringopplysninger om en persons seksuelle forholdhelseopplysninger
+Når det er nødvendig for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten, kan det behandles følgende personopplysninger som nevnt i [personvernforordningen artikkel 9 nr. 1](lov/2018-06-15-38/gdpr/a9/nummer/1):
+
+1. opplysninger om rasemessig eller etnisk opprinnelse
+2. opplysninger om politisk oppfatning
+3. opplysninger om filosofisk overbevisning
+4. opplysninger om religion
+5. opplysninger om en persons seksuelle orientering
+6. opplysninger om en persons seksuelle forhold
+7. helseopplysninger
 
 ## § 5. Behandling av personopplysninger om straffedommer og lovovertredelser
 
-Når det er nødvendig for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten, kan det behandles personopplysninger om straffedommer og lovovertredelser som nevnt i [personvernforordningen artikkel 10](lov/2018-06-15-38/gdpr/a10), blant annet:opplysninger i barneomsorgsattest, jf. [politiregisterloven § 39](lov/2010-05-28-16/§39)opplysninger som er utlevert fra politiet med hjemmel i [politiregisterloven §§ 27](lov/2010-05-28-16/§27) og [31](lov/2010-05-28-16/§31)opplysninger som gir grunn til å tro at det er behov for å be om fornyet vandelskontroll, jf. [politiregisterloven § 43](lov/2010-05-28-16/§43)opplysninger om dommer om rettighetstap, jf. [straffeloven § 56](lov/2005-05-20-28/§56)opplysninger som gjelder lovbrudd som har forekommet i forbindelse med trening, konkurranse eller annet arrangement organisert av eller i samarbeid med et organisasjonsledd, eller lovbrudd som er utført i en relasjon som innebærer et tillits- eller ansvarsforhold overfor andre i idretten
+Når det er nødvendig for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten, kan det behandles personopplysninger om straffedommer og lovovertredelser som nevnt i [personvernforordningen artikkel 10](lov/2018-06-15-38/gdpr/a10), blant annet:
+
+1. opplysninger i barneomsorgsattest, jf. [politiregisterloven § 39](lov/2010-05-28-16/§39)
+2. opplysninger som er utlevert fra politiet med hjemmel i [politiregisterloven §§ 27](lov/2010-05-28-16/§27) og [31](lov/2010-05-28-16/§31)
+3. opplysninger som gir grunn til å tro at det er behov for å be om fornyet vandelskontroll, jf. [politiregisterloven § 43](lov/2010-05-28-16/§43)
+4. opplysninger om dommer om rettighetstap, jf. [straffeloven § 56](lov/2005-05-20-28/§56)
+5. opplysninger som gjelder lovbrudd som har forekommet i forbindelse med trening, konkurranse eller annet arrangement organisert av eller i samarbeid med et organisasjonsledd, eller lovbrudd som er utført i en relasjon som innebærer et tillits- eller ansvarsforhold overfor andre i idretten
 
 ## § 6. Hvem det kan behandles personopplysninger om
 
-Det kan behandles personopplysninger som nevnt i [§§ 4](lov/2025-06-20-95/§4) og [5](lov/2025-06-20-95/§5) om følgende personer:utøveretreneredommere og funksjonærer som deltar i en idrettskonkurransepersoner som innehar andre verv eller oppgaver i idrettentilskuere
+Det kan behandles personopplysninger som nevnt i [§§ 4](lov/2025-06-20-95/§4) og [5](lov/2025-06-20-95/§5) om følgende personer:
+
+1. utøvere
+2. trenere
+3. dommere og funksjonærer som deltar i en idrettskonkurranse
+4. personer som innehar andre verv eller oppgaver i idretten
+5. tilskuere
 
 Et organisasjonsledd kan bare behandle personopplysninger om personer nevnt i første ledd som har eller skal ha en tilknytning til organisasjonsleddet, eller som har eller skal ha en tilknytning til et underliggende organisasjonsledd.
 

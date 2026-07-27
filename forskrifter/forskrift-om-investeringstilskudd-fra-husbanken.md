@@ -30,7 +30,12 @@ Tilskuddene skal stimulere kommunene til å fornye og øke tilbudet av sykehjems
 
 ## § 2. Hva det kan gis tilskudd til
 
-Tilskuddet kan gis til å fremskaffe:plass i institusjon, herunder sykehjem etter [helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 bokstav c](lov/2011-06-24-30/§3-2/ledd/1/nummer/6/bokstav/c)omsorgsbolig til personer med behov for heldøgns helse- og omsorgstjenester, tilrettelagt for at slike tjenester kan ytes etter [helse- og omsorgstjenestelovens § 3-2 første ledd nr. 6 bokstav c](lov/2011-06-24-30/§3-2/ledd/1/nummer/6/bokstav/c)fellesareal i tilknytning til eksisterende omsorgsboliger for å oppnå heldøgnstjeneste, og lokaler for dagaktivitetstilbuddøgnomsorgsplasser til personer med behov for øyeblikkelig hjelp etter [helse- og omsorgstjenestelovens § 3-2 første ledd nr. 6 bokstav c](lov/2011-06-24-30/§3-2/ledd/1/nummer/6/bokstav/c), jf. også [§ 3-5](lov/2011-06-24-30/§3-5).
+Tilskuddet kan gis til å fremskaffe:
+
+1. plass i institusjon, herunder sykehjem etter [helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 bokstav c](lov/2011-06-24-30/§3-2/ledd/1/nummer/6/bokstav/c)
+2. omsorgsbolig til personer med behov for heldøgns helse- og omsorgstjenester, tilrettelagt for at slike tjenester kan ytes etter [helse- og omsorgstjenestelovens § 3-2 første ledd nr. 6 bokstav c](lov/2011-06-24-30/§3-2/ledd/1/nummer/6/bokstav/c)
+3. fellesareal i tilknytning til eksisterende omsorgsboliger for å oppnå heldøgnstjeneste, og lokaler for dagaktivitetstilbud
+4. døgnomsorgsplasser til personer med behov for øyeblikkelig hjelp etter [helse- og omsorgstjenestelovens § 3-2 første ledd nr. 6 bokstav c](lov/2011-06-24-30/§3-2/ledd/1/nummer/6/bokstav/c), jf. også [§ 3-5](lov/2011-06-24-30/§3-5).
 
 > Endret ved [forskrifter 25 mai 2011 nr. 552](forskrift/2011-05-25-552), [30 mai 2012 nr. 473](forskrift/2012-05-30-473), [5 feb 2024 nr. 188](forskrift/2024-02-05-188).
 

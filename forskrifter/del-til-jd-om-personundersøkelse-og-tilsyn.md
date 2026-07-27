@@ -22,4 +22,7 @@ eu_basis: []
 
 # Delegering av myndighet for Justisdepartementet til å bestemme hvem som skal utføre undersøkelser iht. straffeprosesslovens § 264 annet ledd og organisere det tilsyn som er omhandlet i straffeloven § 52 nr. 7, annet ledd.
 
-Justisdepartementet bemyndiges til å bestemmehvem som skal utføre de undersøkelser om siktedes personlige og sosiale forhold som er omhandlet i [straffeprosesslovens § 264](lov/1887-07-01-5/§264), annet ledd [se nå § 161], og hvordan undersøkelsene skal utføres, oghvordan tilsyn, som omhandlet i [straffelovens § 52](lov/1902-05-22-10/§52), nr. 7, annet ledd [se nå [§ 53](lov/1902-05-22-10/§53) nr. 6], skal organiseres, og hvilke nærmere regler som skal gjelde for tilsynet.
+Justisdepartementet bemyndiges til å bestemme
+
+1. hvem som skal utføre de undersøkelser om siktedes personlige og sosiale forhold som er omhandlet i [straffeprosesslovens § 264](lov/1887-07-01-5/§264), annet ledd [se nå § 161], og hvordan undersøkelsene skal utføres, og
+2. hvordan tilsyn, som omhandlet i [straffelovens § 52](lov/1902-05-22-10/§52), nr. 7, annet ledd [se nå [§ 53](lov/1902-05-22-10/§53) nr. 6], skal organiseres, og hvilke nærmere regler som skal gjelde for tilsynet.

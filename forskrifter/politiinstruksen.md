@@ -15,7 +15,7 @@ xml_hash: "95f9fa1fd6ec220f368a1584aa4d4b7d3554252f072cdc7b5aec1bd761f49f2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,12 @@ Denne instruks gjelder for enhver som har eller som er gitt politimyndighet i el
 
 Med nødvendig tillemping gjelder den også for sysselmesteren, de ansatte hos Sysselmesteren på Svalbard og andre som er gitt politimyndighet på Svalbard.
 
-Så langt den passer gjelder instruksen for øvrig for:Personell som utfører politioppgaver under tjeneste i Kystvakten.Mannskap som tjenestegjør i Politireserven i tilfelle denne er oppsatt og beordret til tjeneste.Elever ved Politiskolen.Militært personell ved den norsk-russiske grensen som er tildelt begrenset politimyndighet under utøvelse av grenseoppsyn.
+Så langt den passer gjelder instruksen for øvrig for:
+
+1. Personell som utfører politioppgaver under tjeneste i Kystvakten.
+2. Mannskap som tjenestegjør i Politireserven i tilfelle denne er oppsatt og beordret til tjeneste.
+3. Elever ved Politiskolen.
+4. Militært personell ved den norsk-russiske grensen som er tildelt begrenset politimyndighet under utøvelse av grenseoppsyn.
 
 > Endret ved [forskrifter 5 nov 1999 nr. 1145](forskrift/1999-11-05-1145) (§ 1-1 tredje ledd nr. 1 i kraft 5 nov 1999), [5 aug 2005 nr. 850](forskrift/2005-08-05-850), [3 des 2021 nr. 3395](forskrift/2021-12-03-3395).
 
@@ -44,7 +49,13 @@ Så langt de passer gjelder bestemmelsene i tredje del også for lensmenn og len
 
 ### § 1-3. Definisjoner.
 
-I denne instruks menes med:Politimann: Enhver som utfører polititjeneste helt eller delvis omfattet av denne instruks.Øvrige tilsatte: Enhver uten politimyndighet som er tilsatt i eller som utfører tjeneste for politiet.Politi: Politietaten, lensmannsetaten, Sysselmesteren på Svalbard og Kystvakten.Overordnet: Enhver med høyere grad, og enhver med samme grad som har lenger ansiennitet.Foresatt: Enhver som er bemyndighet til å gi noen en ordre.
+I denne instruks menes med:
+
+1. Politimann: Enhver som utfører polititjeneste helt eller delvis omfattet av denne instruks.
+2. Øvrige tilsatte: Enhver uten politimyndighet som er tilsatt i eller som utfører tjeneste for politiet.
+3. Politi: Politietaten, lensmannsetaten, Sysselmesteren på Svalbard og Kystvakten.
+4. Overordnet: Enhver med høyere grad, og enhver med samme grad som har lenger ansiennitet.
+5. Foresatt: Enhver som er bemyndighet til å gi noen en ordre.
 
 > Endret ved forskrift [3 des 2021 nr. 3395](forskrift/2021-12-03-3395).
 
@@ -62,7 +73,15 @@ Gjennom sin virksomhet skal politiet være et ledd i samfunnets samlede innsats 
 
 ### § 2-2. Politiets oppgaver.
 
-Politiet skal:Forebygge og motvirke kriminalitet og andre forstyrrelser av den alminnelige orden og sikkerhet.Beskytte person, eiendom og all lovlig virksomhet, opprettholde og gjenopprette den offentlige ro og orden, og enten alene eller sammen med andre offentlige myndigheter verne mot alt som truer den alminnelige sikkerhet og trygghet i samfunnet.Forfølge straffbare forhold i samsvar med reglene gitt i eller i medhold av straffeprosessloven og påtaleinstruksen.Yte publikum hjelp og service i nødstilfelle og andre akutte situasjoner, i lovbestemte tilfelle, og ellers når forholdene for øvrig tilsier at bistand er påkrevet.På anmodning yte andre offentlige myndigheter vern og bistand under deres virksomhet når dette følger lov eller sedvane, og ellers gripe inn av eget initiativ på andre myndighetsområder i tilfelle dette antas nødvendig for å verne liv, helse eller vesentlige samfunnsverdier.Samarbeide med andre offentlige myndigheter og organisasjoner tillagt oppgaver som berører politiets virkefelt så langt lov eller forskrift ikke er til hinder for dette.Utføre andre oppgaver fastsatt i lov eller som følger av sedvane.
+Politiet skal:
+
+1. Forebygge og motvirke kriminalitet og andre forstyrrelser av den alminnelige orden og sikkerhet.
+2. Beskytte person, eiendom og all lovlig virksomhet, opprettholde og gjenopprette den offentlige ro og orden, og enten alene eller sammen med andre offentlige myndigheter verne mot alt som truer den alminnelige sikkerhet og trygghet i samfunnet.
+3. Forfølge straffbare forhold i samsvar med reglene gitt i eller i medhold av straffeprosessloven og påtaleinstruksen.
+4. Yte publikum hjelp og service i nødstilfelle og andre akutte situasjoner, i lovbestemte tilfelle, og ellers når forholdene for øvrig tilsier at bistand er påkrevet.
+5. På anmodning yte andre offentlige myndigheter vern og bistand under deres virksomhet når dette følger lov eller sedvane, og ellers gripe inn av eget initiativ på andre myndighetsområder i tilfelle dette antas nødvendig for å verne liv, helse eller vesentlige samfunnsverdier.
+6. Samarbeide med andre offentlige myndigheter og organisasjoner tillagt oppgaver som berører politiets virkefelt så langt lov eller forskrift ikke er til hinder for dette.
+7. Utføre andre oppgaver fastsatt i lov eller som følger av sedvane.
 
 ### Kap. 3. Politiets virkemidler
 
@@ -172,7 +191,16 @@ I ethvert tilfelle utfører en politimann på eget ansvar de tjenesteoppdrag han
 
 ### § 6-2. Politimannens tjenesteplikt i sin fritid.
 
-En politimann plikter å gjøre tjeneste i sin fritid når:En foresatt beordrer det, med mindre politimannen kan kreve seg fritatt etter arbeidsmiljøloven § 49 nr. 2.Omstendighetene krever at det gripes inn uten opphold for å verne liv, helse eller vesentlige samfunnsverdier.Umiddelbart inngrep anses strengt nødvendig for å:Forebygge eller stanse utførelsen av et grovt lovbrudd, ellerPågripe personer ettersøkt som mistenkt for slike handlinger,sålangt dette ikke strir mot bestemmelser gitt i eller i medhold av lov.
+En politimann plikter å gjøre tjeneste i sin fritid når:
+
+1. En foresatt beordrer det, med mindre politimannen kan kreve seg fritatt etter arbeidsmiljøloven § 49 nr. 2.
+2. Omstendighetene krever at det gripes inn uten opphold for å verne liv, helse eller vesentlige samfunnsverdier.
+3. Umiddelbart inngrep anses strengt nødvendig for å:
+
+   1. Forebygge eller stanse utførelsen av et grovt lovbrudd, eller
+   2. Pågripe personer ettersøkt som mistenkt for slike handlinger,
+
+   sålangt dette ikke strir mot bestemmelser gitt i eller i medhold av lov.
 
 Tjenesteplikt etter første ledd nr. 2 og 3 gjelder bare dersom politimannen er i en slik tilstand at tjenestehandlingen vil kunne utføres på en forsvarlig måte.
 
@@ -288,7 +316,12 @@ Ved møter og forsamlinger som avholdes offentlig, men i privat lokale eller på
 
 ### § 8-7. Politiets adgang til å gå inn på privat grunn.
 
-Under tjenesteutførelsen kan en politimann ikke gå inn på privat grunn eller inn i privat hus eller lokale som ikke står under politiets særlige tilsyn, men mindre:Han skal forkynne stevning eller å avgi annen tjenestlig meddelelse.Han skal foreta pågripelse, ransaking, beslag eller iverksette andre tvangsmidler i samsvar med regler fastsatt i eller i medhold av lov.Han må gå inn for å forebygge, stanse eller etterforske et lovbrudd som er gjenstand for offentlig påtale, eller en straffbar handling betinget av privat påtale når den påtaleberettigede begjærer dette, eller når det er gitt at inngrep ikke er uønsket.Han må gå inn for å opprettholde den offentlige ro, orden og sikkerhet eller avverge fare for almenheten, eller for enkeltpersoner som befinner seg på stedet. Uten stasjonssjefens samtykke kan politiet ikke gå inn på område undergitt diplomatisk ukrenkelighet.
+Under tjenesteutførelsen kan en politimann ikke gå inn på privat grunn eller inn i privat hus eller lokale som ikke står under politiets særlige tilsyn, men mindre:
+
+1. Han skal forkynne stevning eller å avgi annen tjenestlig meddelelse.
+2. Han skal foreta pågripelse, ransaking, beslag eller iverksette andre tvangsmidler i samsvar med regler fastsatt i eller i medhold av lov.
+3. Han må gå inn for å forebygge, stanse eller etterforske et lovbrudd som er gjenstand for offentlig påtale, eller en straffbar handling betinget av privat påtale når den påtaleberettigede begjærer dette, eller når det er gitt at inngrep ikke er uønsket.
+4. Han må gå inn for å opprettholde den offentlige ro, orden og sikkerhet eller avverge fare for almenheten, eller for enkeltpersoner som befinner seg på stedet. Uten stasjonssjefens samtykke kan politiet ikke gå inn på område undergitt diplomatisk ukrenkelighet.
 
 ### § 8-8. Politiets adgang til å fjerne personer fra privat grunn.
 

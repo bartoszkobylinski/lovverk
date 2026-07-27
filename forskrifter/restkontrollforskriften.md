@@ -17,7 +17,7 @@ xml_hash: "be34b13e237a876ed283682e855e88e58326af3def4038847f39392bc1f4b6af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,26 @@ Forskriften omfatter veterinærers og fiskehelsebiologers bruk av legemidler til
 
 ### § 3. Definisjoner
 
-I denne forskrift forstås ved:*Restmengde:* rester av stoffer med farmakologisk virkning, deres omdanningsprodukter, samt andre stoffer som er overført til animalske næringsmidler og som kan være skadelig for menneskers helse.*Grenseverdi:* det maksimale innhold av restmengder som er tillatt i animalske næringsmidler.*Forbudte stoffer:* stilbener, stilbenderivater, herunder deres salter og estere, beta-agonister og stoffer med østrogen, androgen, gestagen og tyreostatisk virkning samt stoffer som er forbudt i henhold til [forskrift 30. mai 2012 nr. 512](forskrift/2012-05-30-512) om grenseverdier for legemiddelrester i næringsmidler fra dyr, jf. forordning [(EF) nr. 470/2009](eu/32009r0470) og forordning [(EU) nr. 37/2010](eu/32010r0037*).*Forurensende stoffer:* tungmetaller, organiske fosforforbindelser, organiske klorforbindelser, mykotoksiner og fargestoffer.*Produksjonsdyr:* storfe, svin, sau, geit, hest, fjørfe, tamrein, vilt og oppdrettsvilt, samt bier, som benyttes til produksjon av næringsmidler.*Fisk:* alle saltvanns- og ferskvannsdyr som benyttes til produksjon av næringsmidler.*Animalske næringsmidler:* animalske råvarer, herunder kjøtt, melk, egg, honning samt fisk og fiskevarer.*Næringsmiddelvirksomhet:* ethvert foretagende som produserer, bearbeider, pakker, omsetter eller importerer animalske næringsmidler, herunder slakteri, nedskjæringsvirksomhet, kjøle- og fryselager, eller et samlet anlegg som omfatter flere av disse virksomhetene; meieri, melkebearbeidingsvirksomhet, eggpakkeri, honningmottak samt virksomhet som tilvirker fisk og fiskevarer.*Virksomhet som driver landbruksmessig primærproduksjon:* produsent av slaktedyr, melkeproduksjonsvirksomhet, virksomhet som produserer egg samt birøktervirksomhet.*Oppdrettsanlegg:* anlegg som oppdretter fisk, jf. [lov 14. juni 1985 nr. 68](lov/1985-06-14-68) om oppdrett av fisk, skalldyr m.v.*Omsetning:* besittelse av produksjonsdyr og næringsmidler med henblikk på salg, herunder utbud for salg eller hver annen form for overdragelse med eller uten vederlag, samt selve salget, distribusjonen og de andre formene for overdragelse.*Tilbakeholdelsestid:* tidsintervall fra siste behandling med et preparat og til dyret kan benyttes til fremstilling av næringsmidler. Fastsatt av Statens legemiddelkontroll, som ledd i godkjennelse av veterinærpreparater til produksjonsdyr og fisk, for å sikre at animalske næringsmidler ikke inneholder restmengder som overskrider fastsatte grenseverdier.*Dokumentasjon:* veterinærsertifikat eller annen pålagt dokumentasjon som følger varen.*Ulovlig behandling:* Bruk av forbudte stoffer eller produkter, eller bruk av stoffer eller produkter som ikke er tillatt til andre formål eller på andre vilkår enn dem som følger av rettsakter omfattet av EØS-avtalen. Dette er ikke ulovlig behandling:Behandling av produksjonsdyr med testosteron, progestoren og de derivater som lett omdannes til den opprinnelige forbindelsen. Tilsvarende gjelder dette når slike preparater gis for synkronisering av brunst, avbrytelse av uønsket drektighet, økning av fruktbarhet og forberedelse av giver og mottaker i forbindelse med embryoimplantasjon.Behandling av hest med allytrenbolon og beta-agonister.Behandling av storfe med beta-agonister i forbindelse med kalving.
+I denne forskrift forstås ved:
+
+1. *Restmengde:* rester av stoffer med farmakologisk virkning, deres omdanningsprodukter, samt andre stoffer som er overført til animalske næringsmidler og som kan være skadelig for menneskers helse.
+2. *Grenseverdi:* det maksimale innhold av restmengder som er tillatt i animalske næringsmidler.
+3. *Forbudte stoffer:* stilbener, stilbenderivater, herunder deres salter og estere, beta-agonister og stoffer med østrogen, androgen, gestagen og tyreostatisk virkning samt stoffer som er forbudt i henhold til [forskrift 30. mai 2012 nr. 512](forskrift/2012-05-30-512) om grenseverdier for legemiddelrester i næringsmidler fra dyr, jf. forordning [(EF) nr. 470/2009](eu/32009r0470) og forordning [(EU) nr. 37/2010](eu/32010r0037*).
+4. *Forurensende stoffer:* tungmetaller, organiske fosforforbindelser, organiske klorforbindelser, mykotoksiner og fargestoffer.
+5. *Produksjonsdyr:* storfe, svin, sau, geit, hest, fjørfe, tamrein, vilt og oppdrettsvilt, samt bier, som benyttes til produksjon av næringsmidler.
+6. *Fisk:* alle saltvanns- og ferskvannsdyr som benyttes til produksjon av næringsmidler.
+7. *Animalske næringsmidler:* animalske råvarer, herunder kjøtt, melk, egg, honning samt fisk og fiskevarer.
+8. *Næringsmiddelvirksomhet:* ethvert foretagende som produserer, bearbeider, pakker, omsetter eller importerer animalske næringsmidler, herunder slakteri, nedskjæringsvirksomhet, kjøle- og fryselager, eller et samlet anlegg som omfatter flere av disse virksomhetene; meieri, melkebearbeidingsvirksomhet, eggpakkeri, honningmottak samt virksomhet som tilvirker fisk og fiskevarer.
+9. *Virksomhet som driver landbruksmessig primærproduksjon:* produsent av slaktedyr, melkeproduksjonsvirksomhet, virksomhet som produserer egg samt birøktervirksomhet.
+10. *Oppdrettsanlegg:* anlegg som oppdretter fisk, jf. [lov 14. juni 1985 nr. 68](lov/1985-06-14-68) om oppdrett av fisk, skalldyr m.v.
+11. *Omsetning:* besittelse av produksjonsdyr og næringsmidler med henblikk på salg, herunder utbud for salg eller hver annen form for overdragelse med eller uten vederlag, samt selve salget, distribusjonen og de andre formene for overdragelse.
+12. *Tilbakeholdelsestid:* tidsintervall fra siste behandling med et preparat og til dyret kan benyttes til fremstilling av næringsmidler. Fastsatt av Statens legemiddelkontroll, som ledd i godkjennelse av veterinærpreparater til produksjonsdyr og fisk, for å sikre at animalske næringsmidler ikke inneholder restmengder som overskrider fastsatte grenseverdier.
+13. *Dokumentasjon:* veterinærsertifikat eller annen pålagt dokumentasjon som følger varen.
+14. *Ulovlig behandling:* Bruk av forbudte stoffer eller produkter, eller bruk av stoffer eller produkter som ikke er tillatt til andre formål eller på andre vilkår enn dem som følger av rettsakter omfattet av EØS-avtalen. Dette er ikke ulovlig behandling:
+
+    1. Behandling av produksjonsdyr med testosteron, progestoren og de derivater som lett omdannes til den opprinnelige forbindelsen. Tilsvarende gjelder dette når slike preparater gis for synkronisering av brunst, avbrytelse av uønsket drektighet, økning av fruktbarhet og forberedelse av giver og mottaker i forbindelse med embryoimplantasjon.
+    2. Behandling av hest med allytrenbolon og beta-agonister.
+    3. Behandling av storfe med beta-agonister i forbindelse med kalving.
 
 > Endret ved [forskrifter 28 mars 2001 nr. 358](forskrift/2001-03-28-358), [15 jan 2004 nr. 211](forskrift/2004-01-15-211), [30 mars 2005 nr. 267](forskrift/2005-03-30-267), [18 nov 2011 nr. 1116](forskrift/2011-11-18-1116), [30 mai 2012 nr. 873](forskrift/2012-05-30-873).
 
@@ -62,7 +81,13 @@ Behandling som omtalt i [§ 3](forskrift/2000-01-27-65/§3) nummer 14, skal utf�
 
 ### § 3-3. Journalføring
 
-Veterinæren skal føre følgende opplysninger om behandling som omtalt i [§ 3](forskrift/2000-01-27-65/§3) nummer 14 i sin journal, jf. [dyrehelsepersonelloven § 24](lov/2001-06-15-75/§24) annet ledd:type produkt som er bruktbehandlingens artdato for behandlingde behandlede dyrs identitetutløpsdatoen for tilbakeholdelsesperioden.
+Veterinæren skal føre følgende opplysninger om behandling som omtalt i [§ 3](forskrift/2000-01-27-65/§3) nummer 14 i sin journal, jf. [dyrehelsepersonelloven § 24](lov/2001-06-15-75/§24) annet ledd:
+
+1. type produkt som er brukt
+2. behandlingens art
+3. dato for behandling
+4. de behandlede dyrs identitet
+5. utløpsdatoen for tilbakeholdelsesperioden.
 
 Journalen skal være tilgjengelig for tilsynsmyndighetene, jf. [dyrehelsepersonelloven § 24](lov/2001-06-15-75/§24) fjerde ledd.
 

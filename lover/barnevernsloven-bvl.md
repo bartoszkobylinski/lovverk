@@ -15,7 +15,7 @@ xml_hash: "8ceef03f1b1932e89d2243f9d759ddcdc8a470199b386af4266db36dac2a6384"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -126,7 +126,12 @@ Når kommunen gir melding om at en gravid rusmiddelavhengig uten eget samtykke e
 
 ### § 2-5. Avslutning av undersøkelser
 
-Barnevernstjenestens undersøkelse er avsluttet når den har foretatt en samlet vurdering av saken og gjort ett av følgende:vedtatt å henlegge sakenvedtatt å henlegge saken med mulighet for ny undersøkelse etter tredje leddvedtatt å iverksette tiltaksendt begjæring om tiltak til barneverns- og helsenemnda.
+Barnevernstjenestens undersøkelse er avsluttet når den har foretatt en samlet vurdering av saken og gjort ett av følgende:
+
+1. vedtatt å henlegge saken
+2. vedtatt å henlegge saken med mulighet for ny undersøkelse etter tredje ledd
+3. vedtatt å iverksette tiltak
+4. sendt begjæring om tiltak til barneverns- og helsenemnda.
 
 Barnevernstjenestens avgjørelse om å henlegge saken etter en undersøkelse skal regnes som enkeltvedtak.
 
@@ -162,17 +167,37 @@ Barnevernstjenesten kan tilby fosterhjem eller institusjon som hjelpetiltak når
 
 ### § 3-3. Frivillig opphold i fosterhjem eller barnevernsinstitusjon i en annen stat enn der barnet har sitt vanlige bosted
 
-Barnevernstjenesten kan tilby et konkret fosterhjem eller en institusjon som hjelpetiltak i en stat som har sluttet seg til konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn dersom følgende vilkår er oppfylt:vilkårene for frivillig hjelpetiltak i fosterhjem eller institusjon etter [§ 3-2](lov/2021-06-18-97/§3-2) er oppfyltoppholdet er forsvarlig og til barnets beste, og barnets tilknytning til den aktuelle staten er tillagt særlig vektbarnets rett til medvirkning er ivaretatt og barnets mening er tillagt stor vektforelder med foreldreansvar og barn over 12 år samtykker til oppholdetstaten som det er ønskelig å tilby opphold i, har en forsvarlig tilsynsordninggjennomføringen av tilsyn, oppfølging av barnet og utgiftsfordeling i forbindelse med oppholdet er avtalt med myndighetene i den aktuelle statenvilkårene etter konvensjonens artikkel 33 er oppfylt.
+Barnevernstjenesten kan tilby et konkret fosterhjem eller en institusjon som hjelpetiltak i en stat som har sluttet seg til konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn dersom følgende vilkår er oppfylt:
+
+1. vilkårene for frivillig hjelpetiltak i fosterhjem eller institusjon etter [§ 3-2](lov/2021-06-18-97/§3-2) er oppfylt
+2. oppholdet er forsvarlig og til barnets beste, og barnets tilknytning til den aktuelle staten er tillagt særlig vekt
+3. barnets rett til medvirkning er ivaretatt og barnets mening er tillagt stor vekt
+4. forelder med foreldreansvar og barn over 12 år samtykker til oppholdet
+5. staten som det er ønskelig å tilby opphold i, har en forsvarlig tilsynsordning
+6. gjennomføringen av tilsyn, oppfølging av barnet og utgiftsfordeling i forbindelse med oppholdet er avtalt med myndighetene i den aktuelle staten
+7. vilkårene etter konvensjonens artikkel 33 er oppfylt.
 
 Barnevernstjenesten kan samtykke til at et barn som har sitt vanlige bosted i en stat som har tiltrådt konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn, kan få opphold i et konkret fosterhjem eller en institusjon i Norge. Samtykke kan gis bare dersom vilkårene i første ledd er oppfylt. Barnevernstjenesten skal søke Utlendingsdirektoratet om oppholdstillatelse for barnet når det er nødvendig. Barnevernstjenesten kan ikke samtykke til oppholdet før barnet har fått oppholdstillatelse.
 
-Når det som følge av krigen i Ukraina er nødvendig å evakuere barn som er under omsorg av ukrainske myndigheter, kan barnevernstjenesten samtykke til at barn gis opphold i et fosterhjem eller en institusjon i Norge etter en anmodning fra ukrainske myndigheter, dersomtiltaket er forsvarlig og til barnets bestedet er inngått en avtale med kompetente ukrainske myndighetervilkår etter artikkel 33 i [konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn](traktat/1996-10-19-26), er oppfylt.Barnevernstjenesten skal sørge for at barnet registreres med søknad om beskyttelse eller søknad om opphold hos utlendingsmyndighetene. Dersom barnet har vanlig bosted i Norge når den ekstraordinære situasjonen opphører, skal barnevernstjenesten vurdere om vilkårene for å anmode om en overføring av jurisdiksjon til barnets tidligere bostedsstat er oppfylt.
+Når det som følge av krigen i Ukraina er nødvendig å evakuere barn som er under omsorg av ukrainske myndigheter, kan barnevernstjenesten samtykke til at barn gis opphold i et fosterhjem eller en institusjon i Norge etter en anmodning fra ukrainske myndigheter, dersom
+
+1. tiltaket er forsvarlig og til barnets beste
+2. det er inngått en avtale med kompetente ukrainske myndigheter
+3. vilkår etter artikkel 33 i [konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn](traktat/1996-10-19-26), er oppfylt.
+
+Barnevernstjenesten skal sørge for at barnet registreres med søknad om beskyttelse eller søknad om opphold hos utlendingsmyndighetene. Dersom barnet har vanlig bosted i Norge når den ekstraordinære situasjonen opphører, skal barnevernstjenesten vurdere om vilkårene for å anmode om en overføring av jurisdiksjon til barnets tidligere bostedsstat er oppfylt.
 
 > Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 3-4. Pålegg om hjelpetiltak
 
-Når vilkårene etter [§ 3-1](lov/2021-06-18-97/§3-1) første ledd er oppfylt, og det er nødvendig for å sikre barnet tilfredsstillende omsorg eller beskyttelse, kan barneverns- og helsenemnda vedta følgende hjelpetiltak uten at de private partene har samtykket til det:omsorgsendrende hjelpetiltak i hjemmetopphold i barnehage eller andre egnede dagtilbud, opphold i besøkshjem eller avlastningstiltak, leksehjelp, fritidsaktiviteter, bruk av støttekontakt eller andre lignende tiltaktilsyn, meldeplikt og rusmiddelprøve av biologisk materiale.Hjelpetiltak etter bokstav a skal bygge på et allment akseptert kunnskapsgrunnlag.
+Når vilkårene etter [§ 3-1](lov/2021-06-18-97/§3-1) første ledd er oppfylt, og det er nødvendig for å sikre barnet tilfredsstillende omsorg eller beskyttelse, kan barneverns- og helsenemnda vedta følgende hjelpetiltak uten at de private partene har samtykket til det:
+
+1. omsorgsendrende hjelpetiltak i hjemmet
+2. opphold i barnehage eller andre egnede dagtilbud, opphold i besøkshjem eller avlastningstiltak, leksehjelp, fritidsaktiviteter, bruk av støttekontakt eller andre lignende tiltak
+3. tilsyn, meldeplikt og rusmiddelprøve av biologisk materiale.
+
+Hjelpetiltak etter bokstav a skal bygge på et allment akseptert kunnskapsgrunnlag.
 
 Når det er nødvendig for å sikre barnet tilfredsstillende omsorg og det er nærliggende fare for at barnet kan komme i en situasjon der vilkårene for omsorgsovertakelse er oppfylt, kan nemnda fatte vedtak om hjelpetiltak i senter for foreldre og barn i alderen 0 til 6 år uten at de private partene har samtykket. Vilkårene etter [§ 3-1](lov/2021-06-18-97/§3-1) første ledd må være oppfylt.
 
@@ -222,7 +247,10 @@ Barnevernstjenestens leder eller lederens stedfortreder kan også treffe vedtak 
 
 Dersom det er behov for videre tiltak, skal barnevernstjenesten snarest følge opp akuttvedtaket med en begjæring til barneverns- og helsenemnda om tiltak. Dersom slik begjæring ikke foreligger innen seks uker fra vedtakstidspunktet, faller akuttvedtaket bort.
 
-Vedtak som gjelder et barn som har sitt vanlige bosted i en annen stat, jf. [§ 1-2 fjerde ledd](lov/2021-06-18-97/§1-2/ledd/4), faller likevel bort først seks måneder etter vedtakstidspunktet dersom norske myndigheter innen samme frist har gjort ett av følgende:har fremmet en begjæring til bostedsstaten om å treffe nødvendige beskyttelsestiltakhar truffet vedtak om å få overført jurisdiksjon etter [lov om gjennomføring av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn § 5](lov/2015-09-04-85/§5).
+Vedtak som gjelder et barn som har sitt vanlige bosted i en annen stat, jf. [§ 1-2 fjerde ledd](lov/2021-06-18-97/§1-2/ledd/4), faller likevel bort først seks måneder etter vedtakstidspunktet dersom norske myndigheter innen samme frist har gjort ett av følgende:
+
+1. har fremmet en begjæring til bostedsstaten om å treffe nødvendige beskyttelsestiltak
+2. har truffet vedtak om å få overført jurisdiksjon etter [lov om gjennomføring av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn § 5](lov/2015-09-04-85/§5).
 
 De alternative tiltakene som fremgår av [§ 5-3](lov/2021-06-18-97/§5-3), gjelder tilsvarende ved akuttvedtak om omsorgsovertakelse.
 
@@ -270,7 +298,15 @@ Dersom det er behov for videre tiltak, skal barnevernstjenesten snarest følge o
 
 ### § 5-1. Vedtak om omsorgsovertakelse
 
-Dersom mindre inngripende tiltak ikke kan skape tilfredsstillende forhold for barnet og det er nødvendig ut fra barnets situasjon, kan barneverns- og helsenemnda treffe vedtak om omsorgsovertakelse for et barn i ett eller flere av følgende tilfeller:det er alvorlige mangler ved den omsorgen barnet får, herunder den personlige kontakt og trygghet, sett hen til det barnet trenger etter sin alder og utviklingforeldrene sørger ikke for at et barn som er sykt, har nedsatt funksjonsevne eller er spesielt hjelpetrengende, får dekket sitt særlige behov for behandling og opplæringbarnet blir mishandlet eller utsatt for andre alvorlige overgrep i hjemmetdet er overveiende sannsynlig at barnets helse eller utvikling kan bli alvorlig skadet fordi foreldrene vil være ute av stand til å ta tilstrekkelig ansvar for barnetdet er overveiende sannsynlig at et barn som var omfattet av et akuttvedtak etter [§ 4-2](lov/2021-06-18-97/§4-2) som nyfødt, vil komme i en situasjon som nevnt i bokstav a, b, c eller d.det er overveiende sannsynlig at flytting av et barn som med foreldrenes samtykke bor utenfor hjemmet, vil føre til en situasjon som nevnt i bokstav a, b, c, eller dbarnet har bodd utenfor hjemmet i mer enn to år med foreldrenes samtykke, og barnet er blitt så knyttet til mennesker og miljøet der det er, at flytting kan føre til alvorlige problemer for barnet.
+Dersom mindre inngripende tiltak ikke kan skape tilfredsstillende forhold for barnet og det er nødvendig ut fra barnets situasjon, kan barneverns- og helsenemnda treffe vedtak om omsorgsovertakelse for et barn i ett eller flere av følgende tilfeller:
+
+1. det er alvorlige mangler ved den omsorgen barnet får, herunder den personlige kontakt og trygghet, sett hen til det barnet trenger etter sin alder og utvikling
+2. foreldrene sørger ikke for at et barn som er sykt, har nedsatt funksjonsevne eller er spesielt hjelpetrengende, får dekket sitt særlige behov for behandling og opplæring
+3. barnet blir mishandlet eller utsatt for andre alvorlige overgrep i hjemmet
+4. det er overveiende sannsynlig at barnets helse eller utvikling kan bli alvorlig skadet fordi foreldrene vil være ute av stand til å ta tilstrekkelig ansvar for barnet
+5. det er overveiende sannsynlig at et barn som var omfattet av et akuttvedtak etter [§ 4-2](lov/2021-06-18-97/§4-2) som nyfødt, vil komme i en situasjon som nevnt i bokstav a, b, c eller d.
+6. det er overveiende sannsynlig at flytting av et barn som med foreldrenes samtykke bor utenfor hjemmet, vil føre til en situasjon som nevnt i bokstav a, b, c, eller d
+7. barnet har bodd utenfor hjemmet i mer enn to år med foreldrenes samtykke, og barnet er blitt så knyttet til mennesker og miljøet der det er, at flytting kan føre til alvorlige problemer for barnet.
 
 > Endret ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
@@ -330,7 +366,12 @@ Sakens parter kan ikke kreve at nemnda behandler en sak om oppheving av et vedta
 
 ### § 5-10. Vedtak om adopsjon
 
-Barneverns- og helsenemnda kan vedta adopsjon uten samtykke fra foreldrene dersom nemnda har truffet vedtak om fratakelse av foreldreansvar, og følgende vilkår er oppfylt:det må regnes som sannsynlig at foreldrene varig ikke vil kunne gi barnet forsvarlig omsorg, eller at barnet er blitt så knyttet til mennesker og miljøet der det er, at flytting kan føre til alvorlige problemer for barnetadopsjonssøkerne har vært fosterforeldre for barnet, har vist seg egnet til å oppdra barnet som sitt eget og har utøvd omsorgen for barnet på en god måtevilkårene for å innvilge adopsjon etter [adopsjonsloven](lov/2017-06-16-48) er oppfyltdet foreligger særlig tungtveiende grunner som tilsier at adopsjon vil være til barnets beste.
+Barneverns- og helsenemnda kan vedta adopsjon uten samtykke fra foreldrene dersom nemnda har truffet vedtak om fratakelse av foreldreansvar, og følgende vilkår er oppfylt:
+
+1. det må regnes som sannsynlig at foreldrene varig ikke vil kunne gi barnet forsvarlig omsorg, eller at barnet er blitt så knyttet til mennesker og miljøet der det er, at flytting kan føre til alvorlige problemer for barnet
+2. adopsjonssøkerne har vært fosterforeldre for barnet, har vist seg egnet til å oppdra barnet som sitt eget og har utøvd omsorgen for barnet på en god måte
+3. vilkårene for å innvilge adopsjon etter [adopsjonsloven](lov/2017-06-16-48) er oppfylt
+4. det foreligger særlig tungtveiende grunner som tilsier at adopsjon vil være til barnets beste.
 
 Barneverns- og helsenemnda kan også treffe vedtak om adopsjon av et barn som barnevernstjenesten har overtatt omsorgen for, når foreldrene samtykker, såfremt vilkårene i første ledd bokstav a til d er oppfylt.
 
@@ -352,7 +393,11 @@ Nemndas vedtak om besøkskontakt etter første ledd kan bringes inn for tingrett
 
 ### § 5-12. Varig opphold i fosterhjem
 
-Barneverns- og helsenemnda kan vedta varig opphold i fosterhjem dersom det er truffet vedtak om omsorgsovertakelse, barnet har bodd minst to år i fosterhjemmet, fosterforeldrene har samtykket og følgende vilkår er oppfylt:det må regnes som sannsynlig at foreldrene varig ikke vil kunne gi barnet forsvarlig omsorg, eller at barnet er blitt så knyttet til mennesker og miljøet der det er, at flytting kan føre til alvorlige problemer for barnetfosterforeldrene har vist seg egnet til å oppdra barnet som sitt eget og har utøvd omsorgen for barnet på en god måtebarnet, når det er over 12 år, har samtykket på vedtakstidspunktet.
+Barneverns- og helsenemnda kan vedta varig opphold i fosterhjem dersom det er truffet vedtak om omsorgsovertakelse, barnet har bodd minst to år i fosterhjemmet, fosterforeldrene har samtykket og følgende vilkår er oppfylt:
+
+1. det må regnes som sannsynlig at foreldrene varig ikke vil kunne gi barnet forsvarlig omsorg, eller at barnet er blitt så knyttet til mennesker og miljøet der det er, at flytting kan føre til alvorlige problemer for barnet
+2. fosterforeldrene har vist seg egnet til å oppdra barnet som sitt eget og har utøvd omsorgen for barnet på en god måte
+3. barnet, når det er over 12 år, har samtykket på vedtakstidspunktet.
 
 Når nemnda vedtar varig opphold i fosterhjem, skal den ta stilling til samvær, jf. [kapittel 7](lov/2021-06-18-97/kap7), og til om foreldrene skal fratas foreldreansvaret, jf. [§ 5-8](lov/2021-06-18-97/§5-8).
 
@@ -392,7 +437,11 @@ Barnet kan bare tilbys plass i institusjon som er godkjent av barne-, ungdoms- o
 
 ### § 6-2. Vedtak om opphold i barnevernsinstitusjon uten samtykke
 
-Dersom mindre inngripende tiltak ikke kan skape tilfredsstillende forhold for barnet og det er nødvendig ut fra barnets situasjon, kan barneverns- og helsenemnda vedta at et barn skal ha opphold i institusjon uten samtykke fra barnet selv eller fra de som har foreldreansvar. Slikt vedtak kan bare treffes dersom barnet utsetter sin utvikling for alvorlig fare på en eller flere av følgende måter:ved å begå alvorlige eller gjentatte lovbruddved vedvarende problematisk bruk av rusmidlerved andre utpreget skadelige handlinger.
+Dersom mindre inngripende tiltak ikke kan skape tilfredsstillende forhold for barnet og det er nødvendig ut fra barnets situasjon, kan barneverns- og helsenemnda vedta at et barn skal ha opphold i institusjon uten samtykke fra barnet selv eller fra de som har foreldreansvar. Slikt vedtak kan bare treffes dersom barnet utsetter sin utvikling for alvorlig fare på en eller flere av følgende måter:
+
+1. ved å begå alvorlige eller gjentatte lovbrudd
+2. ved vedvarende problematisk bruk av rusmidler
+3. ved andre utpreget skadelige handlinger.
 
 Nemnda kan vedta opphold i institusjon i inntil fire uker for observasjon, undersøkelse og korttidsbehandling. Dersom det treffes nytt vedtak, kan oppholdstiden forlenges med inntil fire nye uker.
 
@@ -416,7 +465,11 @@ Vedtak etter [§§ 6-1](lov/2021-06-18-97/§6-1) og [6-2](lov/2021-06-18-97/§6-
 
 ### § 6-4. Vedtak om informasjon til fornærmede eller etterlatte utsatt for et alvorlig lovbrudd
 
-Når barneverns- og helsenemnda treffer vedtak etter [§ 6-2](lov/2021-06-18-97/§6-2), skal nemnda vedta at fornærmede eller etterlatte skal informeres om dette dersom følgende vilkår er oppfylt:begrunnelsen for vedtaket er at barnet har begått et alvorlig lovbruddbarnet hadde ikke fylt 15 år da lovbruddet ble begåttdet antas å ha betydning for fornærmede eller etterlatte å få informasjon om vedtaket.
+Når barneverns- og helsenemnda treffer vedtak etter [§ 6-2](lov/2021-06-18-97/§6-2), skal nemnda vedta at fornærmede eller etterlatte skal informeres om dette dersom følgende vilkår er oppfylt:
+
+1. begrunnelsen for vedtaket er at barnet har begått et alvorlig lovbrudd
+2. barnet hadde ikke fylt 15 år da lovbruddet ble begått
+3. det antas å ha betydning for fornærmede eller etterlatte å få informasjon om vedtaket.
 
 Det skal ikke gis informasjon dersom det kan medføre fare for barnets sikkerhet.
 
@@ -428,7 +481,10 @@ Nemnda kan treffe vedtak som nevnt i første ledd også i tilfeller der barnet a
 
 Er det truffet vedtak om informasjon til fornærmede eller etterlatte etter [§ 6-4](lov/2021-06-18-97/§6-4), skal institusjonen gi informasjon om at barnet oppholder seg i institusjon, og varigheten av oppholdet, institusjonens beliggenhet og annen nødvendig informasjon om institusjonsoppholdet.
 
-Institusjonen skal informere fornærmede eller etterlatte som har fått informasjon etter første ledd om barnets fravær fra institusjonen dersom følgende vilkår er oppfylt:det er sannsynlig at barnet og fornærmede eller etterlatte vil kunne møte hverandredet antas å ha betydning for fornærmede eller etterlatte å få informasjonen.
+Institusjonen skal informere fornærmede eller etterlatte som har fått informasjon etter første ledd om barnets fravær fra institusjonen dersom følgende vilkår er oppfylt:
+
+1. det er sannsynlig at barnet og fornærmede eller etterlatte vil kunne møte hverandre
+2. det antas å ha betydning for fornærmede eller etterlatte å få informasjonen.
 
 Barnets fravær fra institusjonen i forbindelse med skolegang, fritidsaktiviteter og lignende regnes ikke som fravær etter annet ledd.
 
@@ -484,7 +540,10 @@ Den som har forbud mot kontakt med et barn etter [straffeloven § 57](lov/2005-0
 
 Andre som har ivaretatt omsorgen for barnet før omsorgsovertakelsen, kan kreve at barneverns- og helsenemnda avgjør om de skal ha rett til samvær med barnet, og hvor omfattende samværsretten skal være.
 
-Andre som barnet har en nær tilknytning til, kan kreve at nemnda avgjør om de skal ha rett til samvær med barnet, og hvor omfattende samværsretten skal være, dersom ett av følgende vilkår er oppfylt:en av eller begge foreldrene er dødedet er fastsatt at barn og foreldre ikke skal ha samvær eller svært begrenset samvær.
+Andre som barnet har en nær tilknytning til, kan kreve at nemnda avgjør om de skal ha rett til samvær med barnet, og hvor omfattende samværsretten skal være, dersom ett av følgende vilkår er oppfylt:
+
+1. en av eller begge foreldrene er døde
+2. det er fastsatt at barn og foreldre ikke skal ha samvær eller svært begrenset samvær.
 
 ### § 7-4. Begjæring om ny vurdering fra barneverns- og helsenemnda
 
@@ -780,7 +839,11 @@ Departementet kan gi forskrift om gjennomføring av innsyn i barnets elektronisk
 
 ### § 10-11. Bruk av fysisk makt for å avverge skade
 
-Barnevernsinstitusjonen kan, dersom det er strengt nødvendig, benytte fysisk makt for å avvergeakutt fare for skade på barnets liv eller helsenært forestående fare for at barnet utsetter eget liv eller egen helse for alvorlig skadeakutt fare for skade på andre personers liv eller helse eller ved akutt fare for vesentlig skade på eiendom.
+Barnevernsinstitusjonen kan, dersom det er strengt nødvendig, benytte fysisk makt for å avverge
+
+1. akutt fare for skade på barnets liv eller helse
+2. nært forestående fare for at barnet utsetter eget liv eller egen helse for alvorlig skade
+3. akutt fare for skade på andre personers liv eller helse eller ved akutt fare for vesentlig skade på eiendom.
 
 Dersom det er strengt nødvendig å isolere barnet etter første ledd, skal minst én av personalet være til stede i rommet eller i naborom med ulåst dør. Isolasjon av et barn er bare tillatt i rom med vindu og med minst 8 m2 gulvflate. Isolasjon kan bare besluttes av institusjonens leder eller den lederen gir fullmakt.
 
@@ -790,7 +853,13 @@ Departementet kan gi forskrift om gjennomføring av bruk av fysisk makt etter de
 
 ### § 10-12. Utvidet adgang til inngrep i barnets rettigheter
 
-Når barn er i barnevernsinstitusjon etter [§§ 4-4](lov/2021-06-18-97/§4-4), [6-1](lov/2021-06-18-97/§6-1) eller [6-2](lov/2021-06-18-97/§6-2) og det er nødvendig ut fra formålet med oppholdet, kan institusjonen treffe vedtak om inngrepi barnets bevegelsesfrihet innenfor og utenfor institusjonsområdet, herunder nekte barnet å forlate institusjonsområdetom å låse døren til institusjonen for barnet eller kreve at barnet har følge med institusjonsansatte utenfor institusjonen for å gjennomføre vedtak etter bokstav ai barnets rett til besøk, herunder nekte barnet besøki barnets bruk av elektroniske kommunikasjonsmidler og tilgang til internett, herunder nekte brukom å inndra elektroniske kommunikasjonsmidler dersom barnet ikke retter seg etter institusjonens vedtak om å nekte bruk etter bokstav d.
+Når barn er i barnevernsinstitusjon etter [§§ 4-4](lov/2021-06-18-97/§4-4), [6-1](lov/2021-06-18-97/§6-1) eller [6-2](lov/2021-06-18-97/§6-2) og det er nødvendig ut fra formålet med oppholdet, kan institusjonen treffe vedtak om inngrep
+
+1. i barnets bevegelsesfrihet innenfor og utenfor institusjonsområdet, herunder nekte barnet å forlate institusjonsområdet
+2. om å låse døren til institusjonen for barnet eller kreve at barnet har følge med institusjonsansatte utenfor institusjonen for å gjennomføre vedtak etter bokstav a
+3. i barnets rett til besøk, herunder nekte barnet besøk
+4. i barnets bruk av elektroniske kommunikasjonsmidler og tilgang til internett, herunder nekte bruk
+5. om å inndra elektroniske kommunikasjonsmidler dersom barnet ikke retter seg etter institusjonens vedtak om å nekte bruk etter bokstav d.
 
 Vedtak om inngrep i barnets bevegelsesfrihet og besøk etter første ledd kan treffes for inntil 14 dager om gangen. Vedtak om inngrep i bruk av et elektronisk kommunikasjonsmiddel og tilgang til internett etter første ledd bokstav d og e kan treffes for inntil fire uker fra barnet ankommer institusjonen, og deretter for maksimum 14 dager om gangen. Institusjonen må fortløpende vurdere om vedtaket skal opprettholdes.
 
@@ -1106,7 +1175,13 @@ Opplysninger kan gis til andre forvaltningsorganer når det er nødvendig for å
 
 ### § 13-2. Plikt til å melde fra til barnevernstjenesten
 
-Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold i følgende tilfeller:når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller utsatt for annen alvorlig omsorgssviktnår det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandlingnår det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæringnår et barn har utsatt sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved å ha vist annen form for utpreget skadelige handlingernår det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold i følgende tilfeller:
+
+1. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller utsatt for annen alvorlig omsorgssvikt
+2. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling
+3. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring
+4. når et barn har utsatt sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved å ha vist annen form for utpreget skadelige handlinger
+5. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
 
 Også yrkesutøvere som opptrer i medhold av [helsepersonelloven](lov/1999-07-02-64), [psykisk helsevernloven](lov/1999-07-02-62), [helse- og omsorgstjenesteloven](lov/2011-06-24-30), [familievernkontorloven](lov/1997-06-19-62) og [privatskolelova](lov/2003-07-04-84) plikter å gi opplysninger etter denne bestemmelsen. Det samme gjelder meklere i ekteskapssaker og private som utfører oppgaver for staten, fylkeskommuner eller kommuner, og de som utfører slike oppgaver på vegne av organisasjoner.
 
@@ -1120,7 +1195,24 @@ Når barnevernstjenesten mottar en bekymringsmelding fra offentlige meldere og y
 
 ### § 13-4. Pålegg om å gi opplysninger
 
-De organene som er ansvarlige for gjennomføringen av bestemmelser i denne loven, kan gi pålegg til offentlige myndigheter om å gi taushetsbelagte opplysninger når det er nødvendig for å vurdere, forberede og behandle saker omvedtak om medisinsk undersøkelse og behandling, jf. [§ 3-7](lov/2021-06-18-97/§3-7)vedtak om behandling av barn som har særlige behandlings- og opplæringsbehov, jf. [§ 3-8](lov/2021-06-18-97/§3-8)akuttvedtak om omsorgsovertakelse, jf. [§ 4-2](lov/2021-06-18-97/§4-2)vedtak om midlertidig flytteforbud, jf. [§ 4-3](lov/2021-06-18-97/§4-3)akuttvedtak om opphold i barnevernsinstitusjon, jf. [§ 4-4](lov/2021-06-18-97/§4-4)akuttvedtak om opphold i institusjon når det er fare for menneskehandel, jf. [§ 4-5](lov/2021-06-18-97/§4-5)akuttvedtak om utreiseforbud, jf. [§ 4-6](lov/2021-06-18-97/§4-6)vedtak om omsorgsovertakelse, jf. [§ 5-1](lov/2021-06-18-97/§5-1)oppheving av vedtak om omsorgsovertakelse, jf. [§ 5-7](lov/2021-06-18-97/§5-7)vedtak om fratakelse av foreldreansvar, jf. [§ 5-8](lov/2021-06-18-97/§5-8)vedtak om oppheving av vedtak om fratakelse av foreldreansvar, jf. [§ 5-9](lov/2021-06-18-97/§5-9)vedtak om adopsjon, jf. [§ 5-10](lov/2021-06-18-97/§5-10)vedtak om utreiseforbud, jf. [§ 5-13](lov/2021-06-18-97/§5-13)vedtak om opphold i barnevernsinstitusjon uten samtykke, jf. [§ 6-2](lov/2021-06-18-97/§6-2)vedtak om opphold i institusjon ved fare for menneskehandel, jf. [§ 6-6](lov/2021-06-18-97/§6-6)vedtak om samvær, jf. [§§ 7-2](lov/2021-06-18-97/§7-2) og [7-3](lov/2021-06-18-97/§7-3).
+De organene som er ansvarlige for gjennomføringen av bestemmelser i denne loven, kan gi pålegg til offentlige myndigheter om å gi taushetsbelagte opplysninger når det er nødvendig for å vurdere, forberede og behandle saker om
+
+1. vedtak om medisinsk undersøkelse og behandling, jf. [§ 3-7](lov/2021-06-18-97/§3-7)
+2. vedtak om behandling av barn som har særlige behandlings- og opplæringsbehov, jf. [§ 3-8](lov/2021-06-18-97/§3-8)
+3. akuttvedtak om omsorgsovertakelse, jf. [§ 4-2](lov/2021-06-18-97/§4-2)
+4. vedtak om midlertidig flytteforbud, jf. [§ 4-3](lov/2021-06-18-97/§4-3)
+5. akuttvedtak om opphold i barnevernsinstitusjon, jf. [§ 4-4](lov/2021-06-18-97/§4-4)
+6. akuttvedtak om opphold i institusjon når det er fare for menneskehandel, jf. [§ 4-5](lov/2021-06-18-97/§4-5)
+7. akuttvedtak om utreiseforbud, jf. [§ 4-6](lov/2021-06-18-97/§4-6)
+8. vedtak om omsorgsovertakelse, jf. [§ 5-1](lov/2021-06-18-97/§5-1)
+9. oppheving av vedtak om omsorgsovertakelse, jf. [§ 5-7](lov/2021-06-18-97/§5-7)
+10. vedtak om fratakelse av foreldreansvar, jf. [§ 5-8](lov/2021-06-18-97/§5-8)
+11. vedtak om oppheving av vedtak om fratakelse av foreldreansvar, jf. [§ 5-9](lov/2021-06-18-97/§5-9)
+12. vedtak om adopsjon, jf. [§ 5-10](lov/2021-06-18-97/§5-10)
+13. vedtak om utreiseforbud, jf. [§ 5-13](lov/2021-06-18-97/§5-13)
+14. vedtak om opphold i barnevernsinstitusjon uten samtykke, jf. [§ 6-2](lov/2021-06-18-97/§6-2)
+15. vedtak om opphold i institusjon ved fare for menneskehandel, jf. [§ 6-6](lov/2021-06-18-97/§6-6)
+16. vedtak om samvær, jf. [§§ 7-2](lov/2021-06-18-97/§7-2) og [7-3](lov/2021-06-18-97/§7-3).
 
 Ansvarlige organer kan pålegge myndighetene å gi taushetsbelagte opplysninger også i saker etter [§ 3-4](lov/2021-06-18-97/§3-4) om pålegg om hjelpetiltak når det er nødvendig for å unngå at et barn havner i en alvorlig situasjon som beskrevet i [§ 5-1](lov/2021-06-18-97/§5-1) om omsorgsovertakelse.
 
@@ -1172,7 +1264,10 @@ Departementet kan gi forskrift om behandlingen av personopplysninger, blant anne
 
 Departementet kan etablere et nasjonalt register for å utvikle statistikk og analyser om barnevernet. Registeret kan inneholde personopplysninger tilknyttet fødselsnummer eller andre personentydige identifikasjonsnummer.
 
-Formålet med registeret er å behandle personopplysninger som grunnlag for statistikk og analyser for åfrembringe kunnskap om effekten av ulike tiltak i barnevernet og hvordan disse tiltakene påvirker barn og familier som mottar tjenestenefølge med på utviklingen i barnevernstjenesten.
+Formålet med registeret er å behandle personopplysninger som grunnlag for statistikk og analyser for å
+
+1. frembringe kunnskap om effekten av ulike tiltak i barnevernet og hvordan disse tiltakene påvirker barn og familier som mottar tjenestene
+2. følge med på utviklingen i barnevernstjenesten.
 
 Personopplysninger i registeret kan bare brukes som grunnlag for å utvikle statistikk og analyser om barnevernet.
 
@@ -1222,7 +1317,11 @@ Dersom en sak gjelder forlengelse av nemndas vedtak etter [§ 6-6](lov/2021-06-1
 
 ### § 14-5. Hovedprinsippene for saksbehandlingen i nemnda
 
-Saksbehandlingen skal være rettferdig, forsvarlig, rask, effektiv og tillitsskapende. Nemnda skal sørge for at partene i sakenfår argumentere for sin sak og føre bevis, normalt ved muntlige forklaringer direkte for nemndafår mulighet til å imøtegå motpartens argumentasjon og bevisbehandles likeverdig og får nødvendig veiledning.
+Saksbehandlingen skal være rettferdig, forsvarlig, rask, effektiv og tillitsskapende. Nemnda skal sørge for at partene i saken
+
+1. får argumentere for sin sak og føre bevis, normalt ved muntlige forklaringer direkte for nemnda
+2. får mulighet til å imøtegå motpartens argumentasjon og bevis
+3. behandles likeverdig og får nødvendig veiledning.
 
 Nemnda skal sørge for at bevisførselen gir et forsvarlig avgjørelsesgrunnlag, og skal foreta en selvstendig og reell vurdering av sakens bevis. Nemndas vedtak og andre viktige avgjørelser skal begrunnes.
 
@@ -1254,7 +1353,17 @@ Dersom statsforvalteren blir kjent med forhold som tilsier at det bør iverksett
 
 ### § 14-9. Begjæring om tiltak
 
-Kommunens begjæring om tiltak skal minst inneholdenavn på nemndanavn og adresse på parter, stedfortredere og prosessfullmektigeren kort beskrivelse av hvilke tiltak kommunen kreveren redegjørelse for foreldrenes rettslige og faktiske tilknytning til barnet og en begrunnelse for forslaget om hvem som er sakens parterkommunens fremstilling av sakenen oversikt over de bevisene kommunen vil føre, blant annet oversikt over vitner og sakkyndige, med opplysninger om hva vitneforklaringene og de sakkyndiges forklaring gjelderforslag til vedtak med en kort oppsummerende redegjørelse for omstendighetene som begrunner forslaget, og med henvisning til de rettsreglene som gjøres gjeldendeinformasjon om hvorvidt barnet ønsker partsrettigheter etter [§ 12-3](lov/2021-06-18-97/§12-3) annet ledd, og kommunens vurdering av om barnet bør innvilges partsrettigheterinformasjon om barnet ønsker å bli hørt, og eventuelt hvordan.
+Kommunens begjæring om tiltak skal minst inneholde
+
+1. navn på nemnda
+2. navn og adresse på parter, stedfortredere og prosessfullmektiger
+3. en kort beskrivelse av hvilke tiltak kommunen krever
+4. en redegjørelse for foreldrenes rettslige og faktiske tilknytning til barnet og en begrunnelse for forslaget om hvem som er sakens parter
+5. kommunens fremstilling av saken
+6. en oversikt over de bevisene kommunen vil føre, blant annet oversikt over vitner og sakkyndige, med opplysninger om hva vitneforklaringene og de sakkyndiges forklaring gjelder
+7. forslag til vedtak med en kort oppsummerende redegjørelse for omstendighetene som begrunner forslaget, og med henvisning til de rettsreglene som gjøres gjeldende
+8. informasjon om hvorvidt barnet ønsker partsrettigheter etter [§ 12-3](lov/2021-06-18-97/§12-3) annet ledd, og kommunens vurdering av om barnet bør innvilges partsrettigheter
+9. informasjon om barnet ønsker å bli hørt, og eventuelt hvordan.
 
 Begjæringen skal gi grunnlag for en forsvarlig behandling av saken. Begjæringen skal være utformet slik at de private partene kan ta stilling til kommunens krav om tiltak og forberede saken. Kommunens argumentasjon skal ikke gå lenger enn nødvendig. I begjæringen skal kommunen redegjøre for forhold som kan ha betydning for nemndlederens vurdering av den videre saksbehandlingen, nemndas sammensetning og avgjørelsesform.
 
@@ -1262,13 +1371,26 @@ Dersom en begjæring ikke oppfyller vilkårene i første og annet ledd, skal nem
 
 ### § 14-10. Tilsvar fra private parter
 
-Nemnda skal straks varsle private parter om kommunens begjæring om tiltak, og nemnda skal sette en kort frist for tilsvar, normalt ti dager. Tilsvaret skal inneholdeen redegjørelse for partenes syn på begjæringen og kommunens fremstilling av sakenen oversikt over de bevisene de private partene vil føre, blant annet oversikt over vitner og sakkyndige, med opplysninger om hva vitneforklaringene og de sakkyndiges forklaring gjelderen redegjørelse for forhold som kan ha betydning for nemndlederens vurdering av den videre saksbehandlingen, nemndas sammensetning og avgjørelsesform.
+Nemnda skal straks varsle private parter om kommunens begjæring om tiltak, og nemnda skal sette en kort frist for tilsvar, normalt ti dager. Tilsvaret skal inneholde
+
+1. en redegjørelse for partenes syn på begjæringen og kommunens fremstilling av saken
+2. en oversikt over de bevisene de private partene vil føre, blant annet oversikt over vitner og sakkyndige, med opplysninger om hva vitneforklaringene og de sakkyndiges forklaring gjelder
+3. en redegjørelse for forhold som kan ha betydning for nemndlederens vurdering av den videre saksbehandlingen, nemndas sammensetning og avgjørelsesform.
 
 ### § 14-11. Saksforberedelsen i nemnda
 
 Gjennom saksforberedelsen skal rammene for saken i nemnda fastsettes i overensstemmelse med hovedprinsippene for saksbehandlingen etter [§ 14-5](lov/2021-06-18-97/§14-5).
 
-Nemndlederen skal vurdere og om nødvendig ta avgjørelser om den videre behandlingen av begjæringen, blant annet omnemndas sammensetningom saken kan være egnet for samtaleprosessbehovet for møter, herunder saksforberedende møte og forhandlingsmøtetema, tid og sted for møterbehovet for ytterligere bevisførsel, herunder sakkyndige utredningerbevisførselens formhvordan barnet skal bli hørt, jf. [§ 14-13](lov/2021-06-18-97/§14-13)behovet for tolk i møter i nemnda.
+Nemndlederen skal vurdere og om nødvendig ta avgjørelser om den videre behandlingen av begjæringen, blant annet om
+
+1. nemndas sammensetning
+2. om saken kan være egnet for samtaleprosess
+3. behovet for møter, herunder saksforberedende møte og forhandlingsmøte
+4. tema, tid og sted for møter
+5. behovet for ytterligere bevisførsel, herunder sakkyndige utredninger
+6. bevisførselens form
+7. hvordan barnet skal bli hørt, jf. [§ 14-13](lov/2021-06-18-97/§14-13)
+8. behovet for tolk i møter i nemnda.
 
 Dersom de faktiske forholdene i en sak er uoversiktlige, kan nemndlederen pålegge kommunen å gi en kortfattet, systematisert redegjørelse for de faktiske forhold eller deler av dem. Nemndlederen skal gi de private partene en frist til å uttale seg om hvilke deler av redegjørelsen de aksepterer, og hvilke deler de ikke aksepterer. Dersom de private partene ikke aksepterer redegjørelsen, kan nemndlederen anmode dem om kort å redegjøre for sitt syn. Nemndlederen kan oppfordre partene til å samarbeide om redegjørelsen.
 
@@ -1336,7 +1458,14 @@ Personer som får være til stede etter denne bestemmelsen, har taushetsplikt og
 
 ### § 14-18. Bevisføring
 
-For nemnda gjelder følgende regler i [tvisteloven](lov/2005-06-17-90) om bevisføring tilsvarende så langt de passer:[kapittel 21](lov/2005-06-17-90/kap21) om alminnelige regler om bevis, unntatt [§ 21-4](lov/2005-06-17-90/§21-4)[kapittel 22](lov/2005-06-17-90/kap22) om bevisforbud og bevisfritak[kapittel 24](lov/2005-06-17-90/kap24) om vitnebevis[kapittel 25](lov/2005-06-17-90/kap25) om sakkyndigbevis[kapittel 26](lov/2005-06-17-90/kap26) om realbevis[kapittel 27](lov/2005-06-17-90/kap27) om bevisopptak i rettssak.
+For nemnda gjelder følgende regler i [tvisteloven](lov/2005-06-17-90) om bevisføring tilsvarende så langt de passer:
+
+1. [kapittel 21](lov/2005-06-17-90/kap21) om alminnelige regler om bevis, unntatt [§ 21-4](lov/2005-06-17-90/§21-4)
+2. [kapittel 22](lov/2005-06-17-90/kap22) om bevisforbud og bevisfritak
+3. [kapittel 24](lov/2005-06-17-90/kap24) om vitnebevis
+4. [kapittel 25](lov/2005-06-17-90/kap25) om sakkyndigbevis
+5. [kapittel 26](lov/2005-06-17-90/kap26) om realbevis
+6. [kapittel 27](lov/2005-06-17-90/kap27) om bevisopptak i rettssak.
 
 Nemnda kan legge sakkyndigbevis til grunn bare dersom de har vært vurdert av barnesakkyndig kommisjon, jf. [§ 12-8](lov/2021-06-18-97/§12-8). Dette gjelder likevel ikke ved behandling av akuttvedtak.
 
@@ -1442,7 +1571,13 @@ I hver kommune skal det være en barnevernstjeneste som utfører oppgaver etter 
 
 Barnevernstjenesten har ansvar for å gi hjelp, omsorg og beskyttelse når det er nødvendig på grunn av barnets omsorgssituasjon, eller når et barn utsetter sin utvikling for fare. Ansvaret omfatter tiltak rettet mot omsorgssituasjonen eller forhold som setter barnets utvikling i fare.
 
-Barnevernstjenesten skal blant annetgjennomgå og vurdere bekymringsmeldingergjennomføre undersøkelser av barnets omsorgssituasjontreffe vedtak om hjelpetiltakforberede saker for behandling i barneverns- og helsenemndaiverksette og følge opp tiltak.
+Barnevernstjenesten skal blant annet
+
+1. gjennomgå og vurdere bekymringsmeldinger
+2. gjennomføre undersøkelser av barnets omsorgssituasjon
+3. treffe vedtak om hjelpetiltak
+4. forberede saker for behandling i barneverns- og helsenemnda
+5. iverksette og følge opp tiltak.
 
 Barnevernstjenesten skal være tilgjengelig til enhver tid.
 
@@ -1476,7 +1611,11 @@ Kommunen kan avtale med en annen kommune som barnet har tilknytning til, at ansv
 
 ### § 15-6. Krav til kompetanse for barnevernstjenestens ledelse
 
-Barnevernstjenestens leder og lederens stedfortreder skal fra 1. januar 2031 oppfylle ett av følgende vilkår:barnevernsfaglig mastergrad eller annen relevant utdanning på tilsvarende nivårelevant bachelorutdanning dersom det innen 1. januar 2031 kan dokumenteres minst fire års arbeidserfaring fra barnevernetrelevant bachelorutdanning dersom det innen 1. januar 2031 kan dokumenteres minst to års arbeidserfaring fra barnevernet i tillegg til at det er gjennomført en barnevernsfaglig eller annen relevant videreutdanning med minst 30 studiepoeng.
+Barnevernstjenestens leder og lederens stedfortreder skal fra 1. januar 2031 oppfylle ett av følgende vilkår:
+
+1. barnevernsfaglig mastergrad eller annen relevant utdanning på tilsvarende nivå
+2. relevant bachelorutdanning dersom det innen 1. januar 2031 kan dokumenteres minst fire års arbeidserfaring fra barnevernet
+3. relevant bachelorutdanning dersom det innen 1. januar 2031 kan dokumenteres minst to års arbeidserfaring fra barnevernet i tillegg til at det er gjennomført en barnevernsfaglig eller annen relevant videreutdanning med minst 30 studiepoeng.
 
 Kommunen kan gi midlertidig dispensasjon fra kravet om mastergrad i tilfeller der stillingen som barnevernstjenestens leder eller stedfortredende leder har vært offentlig utlyst, og ingen kvalifiserte søkere har meldt seg. Kommunen skal lage en ettårig plan for systematisk veiledning. Kommunen skal informere statsforvalteren om at midlertidig dispensasjon er gitt.
 
@@ -1488,7 +1627,13 @@ Den som er gitt midlertidig dispensasjon, må innen tre år fra tidspunktet for 
 
 Kommunen kan inngå avtale med private tjenesteytere om bistand til å utføre oppgaver og tjenester etter denne loven som innebærer utøvelse av offentlig myndighet. Den private tjenesteyteren kan ikke overdra avtalen til andre.
 
-Kommunen kan ikke inngå avtale med private tjenesteytere om bistand til åfungere som leder og stedfortredende leder av barnevernstjenestentreffe avgjørelser og vedtakrepresentere barnevernstjenesten i barneverns- og helsenemndavelge og godkjenne fosterhjemutarbeide og evaluere planer etter lovens [kapittel 7](lov/2021-06-18-97/kap7) og [8](lov/2021-06-18-97/kap8).
+Kommunen kan ikke inngå avtale med private tjenesteytere om bistand til å
+
+1. fungere som leder og stedfortredende leder av barnevernstjenesten
+2. treffe avgjørelser og vedtak
+3. representere barnevernstjenesten i barneverns- og helsenemnda
+4. velge og godkjenne fosterhjem
+5. utarbeide og evaluere planer etter lovens [kapittel 7](lov/2021-06-18-97/kap7) og [8](lov/2021-06-18-97/kap8).
 
 Barnevernstjenesten kan ikke benytte et fosterhjem som har inngått avtale med en privat tjenesteyter om godtgjøring for eller innholdet i fosterhjemsoppdraget. Dette gjelder ikke fosterhjem barne-, ungdoms- og familieetaten tilbyr etter [§ 16-3](lov/2021-06-18-97/§16-3) annet ledd bokstav a og c.
 
@@ -1574,7 +1719,14 @@ Barnevernsinstitusjonene er statlig barnevernsmyndighet på lokalt nivå.
 
 ### § 16-2. Departementets ansvar og oppgaver
 
-Departementet skalfølge med på at loven og forskriftene og andre bestemmelser som gjelder for tjenester og tiltak etter denne loven, blir anvendt riktig og på en måte som tjener lovens formålsørge for at erfaringene med loven blir vurdert, og at det blir gjennomført nødvendige endringer i regelverketgi nødvendige retningslinjer og tilrettelegge for god saksbehandlingsette i gang forskning som kan få betydning for løsningen av oppgaver etter lovensørge for å utvikle statistikk og analyser om barnevernetsørge for at det finnes et forsvarlig tilbud for utdanning av personell, og for at de som skal anvende loven får forsvarlig veiledning.
+Departementet skal
+
+1. følge med på at loven og forskriftene og andre bestemmelser som gjelder for tjenester og tiltak etter denne loven, blir anvendt riktig og på en måte som tjener lovens formål
+2. sørge for at erfaringene med loven blir vurdert, og at det blir gjennomført nødvendige endringer i regelverket
+3. gi nødvendige retningslinjer og tilrettelegge for god saksbehandling
+4. sette i gang forskning som kan få betydning for løsningen av oppgaver etter loven
+5. sørge for å utvikle statistikk og analyser om barnevernet
+6. sørge for at det finnes et forsvarlig tilbud for utdanning av personell, og for at de som skal anvende loven får forsvarlig veiledning.
 
 Departementet kan kreve at organer som hører inn under loven, uten hinder av taushetsplikt gir opplysninger som er nødvendige for at departementet skal kunne utføre sine oppgaver etter første ledd.
 
@@ -1582,11 +1734,25 @@ Departementet kan kreve at organer som hører inn under loven, uten hinder av ta
 
 Barne-, ungdoms- og familieetaten skal yte tjenester og tilby tiltak etter denne loven til barn og unge som oppholder seg i Norge.
 
-Barne-, ungdoms- og familieetaten skal etter anmodning fra kommunen bistå barnevernstjenesten med å gi barnopphold utenfor hjemmet når det treffes akuttvedtak etter [§§ 4-1](lov/2021-06-18-97/§4-1), [4-2](lov/2021-06-18-97/§4-2), [4-4](lov/2021-06-18-97/§4-4) eller [4-5](lov/2021-06-18-97/§4-5)opphold i fosterhjemopphold i barnevernsinstitusjon. Etaten kan i særlige tilfeller tilby opphold i spesialisert fosterhjem.
+Barne-, ungdoms- og familieetaten skal etter anmodning fra kommunen bistå barnevernstjenesten med å gi barn
 
-Barne-, ungdoms- og familieetaten skal videre blant annetrekruttere og gi grunnleggende opplæring til fosterhjemetablere og drifte barnevernsinstitusjoner etter denne loven, som også kan ha tilknyttede spesialisttjenester for omsorg og behandling av barngodkjenne barnevernsinstitusjoner i samsvar med [§ 10-17](lov/2021-06-18-97/§10-17), sentre for foreldre og barn i samsvar med [§ 10-21](lov/2021-06-18-97/§10-21) og omsorgssentre for enslige mindreårige asylsøkere i samsvar med [§ 11-5](lov/2021-06-18-97/§11-5)tilby veiledet praksis i institusjon når en utdanningsinstitusjon ber om det, og samarbeide med utdanningsinstitusjonen om gjennomføring av veiledet praksis.
+1. opphold utenfor hjemmet når det treffes akuttvedtak etter [§§ 4-1](lov/2021-06-18-97/§4-1), [4-2](lov/2021-06-18-97/§4-2), [4-4](lov/2021-06-18-97/§4-4) eller [4-5](lov/2021-06-18-97/§4-5)
+2. opphold i fosterhjem
+3. opphold i barnevernsinstitusjon. Etaten kan i særlige tilfeller tilby opphold i spesialisert fosterhjem.
 
-Barne-, ungdoms- og familieetaten kan tilby barnevernstjenestenutredning av omsorgssituasjonen til barn i alderen 0–6 år dersom det er stor usikkerhet ved om et barn utsettes for alvorlig omsorgssvikthjelpetiltak i etterkant av utredning etter bokstav a når det er nødvendig for at barnet skal få forsvarlig hjelpspesialiserte hjelpetiltak i hjemmet der dette kan forhindre tiltak utenfor hjemmettverrfaglig helsekartlegging dersom barnevernstjenesten har besluttet å fremme sak for barneverns- og helsenemnda eller nemnda har truffet vedtak om opphold utenfor hjemmet etter [§§ 5-1](lov/2021-06-18-97/§5-1) eller [6-2](lov/2021-06-18-97/§6-2), eller ved vedtak om frivillig opphold etter [§§ 3-2](lov/2021-06-18-97/§3-2) eller [6-1](lov/2021-06-18-97/§6-1).
+Barne-, ungdoms- og familieetaten skal videre blant annet
+
+1. rekruttere og gi grunnleggende opplæring til fosterhjem
+2. etablere og drifte barnevernsinstitusjoner etter denne loven, som også kan ha tilknyttede spesialisttjenester for omsorg og behandling av barn
+3. godkjenne barnevernsinstitusjoner i samsvar med [§ 10-17](lov/2021-06-18-97/§10-17), sentre for foreldre og barn i samsvar med [§ 10-21](lov/2021-06-18-97/§10-21) og omsorgssentre for enslige mindreårige asylsøkere i samsvar med [§ 11-5](lov/2021-06-18-97/§11-5)
+4. tilby veiledet praksis i institusjon når en utdanningsinstitusjon ber om det, og samarbeide med utdanningsinstitusjonen om gjennomføring av veiledet praksis.
+
+Barne-, ungdoms- og familieetaten kan tilby barnevernstjenesten
+
+1. utredning av omsorgssituasjonen til barn i alderen 0–6 år dersom det er stor usikkerhet ved om et barn utsettes for alvorlig omsorgssvikt
+2. hjelpetiltak i etterkant av utredning etter bokstav a når det er nødvendig for at barnet skal få forsvarlig hjelp
+3. spesialiserte hjelpetiltak i hjemmet der dette kan forhindre tiltak utenfor hjemmet
+4. tverrfaglig helsekartlegging dersom barnevernstjenesten har besluttet å fremme sak for barneverns- og helsenemnda eller nemnda har truffet vedtak om opphold utenfor hjemmet etter [§§ 5-1](lov/2021-06-18-97/§5-1) eller [6-2](lov/2021-06-18-97/§6-2), eller ved vedtak om frivillig opphold etter [§§ 3-2](lov/2021-06-18-97/§3-2) eller [6-1](lov/2021-06-18-97/§6-1).
 
 For å oppfylle plikten til å bistå kommunene etter annet ledd skal barne-, ungdoms- og familieetaten ha et tiltaksapparat som er tilgjengelig og tilstrekkelig differensiert.
 
@@ -1622,7 +1788,12 @@ Departementet kan gi forskrift om Oslo kommunes plikter, oppgaver og kompetanse 
 
 ### § 16-7. Statsforvalterens ansvar og oppgaver
 
-Statsforvalteren skalføre tilsyn etter [kapittel 17](lov/2021-06-18-97/kap17)gi kommunene råd og veiledningbehandle klager på barnevernstjenestens og barne-, ungdoms- og familieetatens vedtak i samsvar med [§ 12-9](lov/2021-06-18-97/§12-9) og klager på barnevernsinstitusjoners enkeltvedtak og brudd på [§§ 10-1](lov/2021-06-18-97/§10-1) til [10-15](lov/2021-06-18-97/§10-15) i samsvar med [§ 10-16](lov/2021-06-18-97/§10-16)behandle muntlige og skriftlige henvendelser fra barn og foreldre om forhold i en barnevernssak.
+Statsforvalteren skal
+
+1. føre tilsyn etter [kapittel 17](lov/2021-06-18-97/kap17)
+2. gi kommunene råd og veiledning
+3. behandle klager på barnevernstjenestens og barne-, ungdoms- og familieetatens vedtak i samsvar med [§ 12-9](lov/2021-06-18-97/§12-9) og klager på barnevernsinstitusjoners enkeltvedtak og brudd på [§§ 10-1](lov/2021-06-18-97/§10-1) til [10-15](lov/2021-06-18-97/§10-15) i samsvar med [§ 10-16](lov/2021-06-18-97/§10-16)
+4. behandle muntlige og skriftlige henvendelser fra barn og foreldre om forhold i en barnevernssak.
 
 > Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
 

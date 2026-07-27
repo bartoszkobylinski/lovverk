@@ -15,7 +15,7 @@ xml_hash: "dd11ff8773a84d38ae842c9909194063311914f392cdbe5297929b969bbd1250"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,16 @@ Denne forskriften regulerer fordeling av tollkvoter for landbruksvarer som omfat
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med:*Budgiver:* Virksomhet som er registrert hos Landbruksdirektoratet for å delta på auksjon.*Kvoteandel:* Den andel av en tollkvote som tildeles en virksomhet gjennom auksjon eller annen form for tildeling.*Kvoteeier:* Virksomhet som har fått tildelt kvoteandel fra Landbruksdirektoratet, jf. [§ 23](forskrift/2008-10-10-1132/§23).*Kvoteperiode:* Den periode kvoteandelen skal importeres innenfor (jf. vedlegg 1, kolonne V).*Kvotesøker:* Virksomhet som søker om å få tildelt kvoteandel.*Kvoteår:* Perioden, maksimalt ett år, som tollkvoten gjelder for.*Skriftlig:* Også elektronisk melding dersom ikke Landbruksdirektoratet på grunn av behov for sikker identifisering krever henvendelser per brev eller telefaks.*Driftsoperatør:* Virksomhet som har inngått kontrakt med Landbruksdirektoratet om beredskapslagring av korn.
+I denne forskrift menes med:
+
+1. *Budgiver:* Virksomhet som er registrert hos Landbruksdirektoratet for å delta på auksjon.
+2. *Kvoteandel:* Den andel av en tollkvote som tildeles en virksomhet gjennom auksjon eller annen form for tildeling.
+3. *Kvoteeier:* Virksomhet som har fått tildelt kvoteandel fra Landbruksdirektoratet, jf. [§ 23](forskrift/2008-10-10-1132/§23).
+4. *Kvoteperiode:* Den periode kvoteandelen skal importeres innenfor (jf. vedlegg 1, kolonne V).
+5. *Kvotesøker:* Virksomhet som søker om å få tildelt kvoteandel.
+6. *Kvoteår:* Perioden, maksimalt ett år, som tollkvoten gjelder for.
+7. *Skriftlig:* Også elektronisk melding dersom ikke Landbruksdirektoratet på grunn av behov for sikker identifisering krever henvendelser per brev eller telefaks.
+8. *Driftsoperatør:* Virksomhet som har inngått kontrakt med Landbruksdirektoratet om beredskapslagring av korn.
 
 > Endret ved forskrifter [31 aug 2009 nr. 1123](forskrift/2009-08-31-1123), [25 okt 2010 nr. 1364](forskrift/2010-10-25-1364), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [4 okt 2024 nr. 2392](forskrift/2024-10-04-2392).
 

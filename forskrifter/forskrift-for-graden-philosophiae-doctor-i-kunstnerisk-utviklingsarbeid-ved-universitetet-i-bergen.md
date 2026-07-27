@@ -36,7 +36,15 @@ For andre bestemmelser som regulerer forhold knyttet til ph.d.-graden, se til [l
 
 ### § 1-2. Definisjoner
 
-I denne forskriften menes med*ph.d. i kunstnerisk utviklingsarbeid*, kunstnerisk ph.d.*kunstnerisk utviklingsarbeid*, kunstneriske prosesser som fører fram til et offentlig tilgjengelig kunstnerisk resultat. I denne virksomheten inngår det eksplisitt refleksjon som gjør det mulig for andre å ta del i den arbeidsmåten og innsikten som det kunstneriske utviklingsarbeidet genererer*ph.d.-prosjektet*, det arbeidet som gjøres innenfor avtalt periode mellom oppstart og avslutning, opplæringsdelen ikke medregnet*ph.d.-resultatet*, det utøvende eller skapende kunstneriske resultatet og materialet som dokumenterer refleksjon, som også omtales som refleksjonsdelen, jf. [§ 10-1](forskrift/2025-02-13-283/§10-1).*kunstnerisk resultat*, bare det utøvende eller skapende kunstneriske resultatet*fakultetet selv*, organer på fakultetsnivå*felles- eller dobbelgrader*, et samarbeid mellom institusjoner, der man i fellesskap har ansvar for opptak, veiledning og gradstildeling, jf. [§ 18](forskrift/2025-02-13-283/§18).
+I denne forskriften menes med
+
+1. *ph.d. i kunstnerisk utviklingsarbeid*, kunstnerisk ph.d.
+2. *kunstnerisk utviklingsarbeid*, kunstneriske prosesser som fører fram til et offentlig tilgjengelig kunstnerisk resultat. I denne virksomheten inngår det eksplisitt refleksjon som gjør det mulig for andre å ta del i den arbeidsmåten og innsikten som det kunstneriske utviklingsarbeidet genererer
+3. *ph.d.-prosjektet*, det arbeidet som gjøres innenfor avtalt periode mellom oppstart og avslutning, opplæringsdelen ikke medregnet
+4. *ph.d.-resultatet*, det utøvende eller skapende kunstneriske resultatet og materialet som dokumenterer refleksjon, som også omtales som refleksjonsdelen, jf. [§ 10-1](forskrift/2025-02-13-283/§10-1).
+5. *kunstnerisk resultat*, bare det utøvende eller skapende kunstneriske resultatet
+6. *fakultetet selv*, organer på fakultetsnivå
+7. *felles- eller dobbelgrader*, et samarbeid mellom institusjoner, der man i fellesskap har ansvar for opptak, veiledning og gradstildeling, jf. [§ 18](forskrift/2025-02-13-283/§18).
 
 ### § 2. Målsetting, innhold og omfang for ph.d.-utdanningen i kunstnerisk utviklingsarbeid
 
@@ -54,7 +62,11 @@ Utdanningen omfatter et selvstendig arbeid innen kunstnerisk utviklingsarbeid. P
 
 Utdanningen organiseres som et ph.d.-program i kunstnerisk utviklingsarbeid, normert til tre (3) årsverk.
 
-Den kunstneriske ph.d.-graden tildeles på grunnlag avgodkjent ph.d.-resultatgodkjent gjennomføring av opplæringsdelen, eventuelt annen godkjent faglig skolering eller kompetansegodkjent offentlig forsvar av ph.d.-resultatet (disputas).
+Den kunstneriske ph.d.-graden tildeles på grunnlag av
+
+1. godkjent ph.d.-resultat
+2. godkjent gjennomføring av opplæringsdelen, eventuelt annen godkjent faglig skolering eller kompetanse
+3. godkjent offentlig forsvar av ph.d.-resultatet (disputas).
 
 ### § 3. Ansvaret for ph.d.-utdanningen i kunstnerisk utviklingsarbeid
 
@@ -102,7 +114,12 @@ Vedtak om opptak fattes av fakultetet selv. Vedtak om opptak baseres på en saml
 
 I vedtaket skal minst én veileder oppnevnes, ansvar for håndtering av andre behov som er skissert i søknaden plasseres, og avtaleperioden fastsettes med startdato og sluttdato. Startdato settes lik startdato for finansiering.
 
-Opptak bør nektes dersom ett eller flere av følgende forhold foreligger:Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av ph.d.-resultatet.De immaterialrettslige avtaler som er inngått med tredjepart er så urimelige at Universitetet i Bergen ikke bør medvirke i prosjektet.Søkeren ikke vil kunne oppfylle kravet om at minimum ett (1) år av prosjektet skal gjennomføres etter at vedkommende er tatt opp i programmet.Det er planlagt kunstnerisk utviklingsarbeid eller opplæringsdel som er i strid med regelverket om eksportkontroll.
+Opptak bør nektes dersom ett eller flere av følgende forhold foreligger:
+
+1. Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av ph.d.-resultatet.
+2. De immaterialrettslige avtaler som er inngått med tredjepart er så urimelige at Universitetet i Bergen ikke bør medvirke i prosjektet.
+3. Søkeren ikke vil kunne oppfylle kravet om at minimum ett (1) år av prosjektet skal gjennomføres etter at vedkommende er tatt opp i programmet.
+4. Det er planlagt kunstnerisk utviklingsarbeid eller opplæringsdel som er i strid med regelverket om eksportkontroll.
 
 ### § 5-3. Avtaleperiode
 
@@ -136,7 +153,12 @@ Kandidaten og fakultetet kan avtale at utdanningen avsluttes før avtalt tid. Ve
 
 ### § 5-5-2. Tvungen avslutning ved forsinkelse eller betydelige endringer i ph.d.-prosjektet
 
-Når ett eller flere av de følgende forhold foreligger, kan fakultetet selv vedta tvungen avslutning av utdanningen ved:vesentlig forsinkelse i gjennomføringen av opplæringsdelengjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 8](forskrift/2025-02-13-283/§8).forsinkelse i fremdriften av prosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre til avtalt tidendringer i ph.d.-prosjektet, som fraviker betydelig fra det som fremgår i prosjektbeskrivelsen og som det er inngått ph.d.-avtale om, og som ikke er tilstrekkelig faglig begrunnet.
+Når ett eller flere av de følgende forhold foreligger, kan fakultetet selv vedta tvungen avslutning av utdanningen ved:
+
+1. vesentlig forsinkelse i gjennomføringen av opplæringsdelen
+2. gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 8](forskrift/2025-02-13-283/§8).
+3. forsinkelse i fremdriften av prosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre til avtalt tid
+4. endringer i ph.d.-prosjektet, som fraviker betydelig fra det som fremgår i prosjektbeskrivelsen og som det er inngått ph.d.-avtale om, og som ikke er tilstrekkelig faglig begrunnet.
 
 Tvungen avslutning etter reglene her kan bare vedtas dersom forsinkelsen eller endringene skyldes forhold som kandidaten selv rår over.
 
@@ -268,7 +290,12 @@ Med ph.d.-resultater hvor det inngår bidrag fra flere, skal det følge en under
 
 ### § 10-3. Tidligere arbeider
 
-Kravet om «ny kunnskap, innsikt og erfaring» etter [§ 10-1 (1)](forskrift/2025-02-13-283/§10-1/ledd/1) innebærer atarbeid eller deler av arbeid som er vurdert til ph.d.-graden ved en annen institusjon ikke kan inngå i ph.d.-resultatet, og det samme gjelder arbeid eller deler av arbeid som har blitt underkjent etter omarbeiding (andre gangs underkjenning)arbeid eller deler av arbeid som har vært godtatt som grunnlag for eksamener eller grader på nivå under doktorgrad, ikke kan inngå i ph.d.-resultatet. Data, metoder, analyser eller resultat fra nivå under doktorgrad kan likevel danne grunnlaget for et ph.d.-prosjekt.deler av arbeid som inngår som grunnlaget for andre kandidaters ph.d.-grad som herværende kandidat har samvirket i, likevel kan inngå i ph.d.-resultatetdeler av arbeid som har blitt godkjent som besvarelse eller andre aktiviteter i opplæringsdelen, likevel kan inngå i ph.d.-resultatet.
+Kravet om «ny kunnskap, innsikt og erfaring» etter [§ 10-1 (1)](forskrift/2025-02-13-283/§10-1/ledd/1) innebærer at
+
+1. arbeid eller deler av arbeid som er vurdert til ph.d.-graden ved en annen institusjon ikke kan inngå i ph.d.-resultatet, og det samme gjelder arbeid eller deler av arbeid som har blitt underkjent etter omarbeiding (andre gangs underkjenning)
+2. arbeid eller deler av arbeid som har vært godtatt som grunnlag for eksamener eller grader på nivå under doktorgrad, ikke kan inngå i ph.d.-resultatet. Data, metoder, analyser eller resultat fra nivå under doktorgrad kan likevel danne grunnlaget for et ph.d.-prosjekt.
+3. deler av arbeid som inngår som grunnlaget for andre kandidaters ph.d.-grad som herværende kandidat har samvirket i, likevel kan inngå i ph.d.-resultatet
+4. deler av arbeid som har blitt godkjent som besvarelse eller andre aktiviteter i opplæringsdelen, likevel kan inngå i ph.d.-resultatet.
 
 Det må legges inn henvisning ved bruk av tidligere arbeider. Henvisningene skal være i tråd med vitenskapelige standarder for det aktuelle fagområdet.
 
@@ -306,7 +333,14 @@ Et innlevert eller presentert ph.d.-resultat kan ikke endres eller trekkes tilba
 
 Når fakultetet selv har godkjent søknad om å få ph.d.-resultatet bedømt, oppnevner den en sakkyndig komité på minst tre medlemmer som skal bedømme ph.d.-resultatet og disputasen. Habilitetsreglene i [forvaltningslovens § 6](lov/1967-02-10/§6) gjelder for komiteens medlemmer. Grunnenheten foreslår bedømmelseskomité.
 
-Bedømmelseskomiteen skal normalt settes sammen slik atto kjønn er representertflertallet er uten tilknytning til Universitetet i Bergenett av medlemmene, om mulig, er fra en utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanseminst to av medlemmene har relevant kunstnerisk kompetanse på førsteamanuensisnivåminst ett av medlemmene har erfaring som kandidat, veileder eller fra komitéarbeid i bedømmelseskomité for et av de norske ph.d.-programmene i kunstnerisk utviklingsarbeid.
+Bedømmelseskomiteen skal normalt settes sammen slik at
+
+1. to kjønn er representert
+2. flertallet er uten tilknytning til Universitetet i Bergen
+3. ett av medlemmene, om mulig, er fra en utenlandsk institusjon
+4. alle medlemmene har doktorgrad eller tilsvarende kompetanse
+5. minst to av medlemmene har relevant kunstnerisk kompetanse på førsteamanuensisnivå
+6. minst ett av medlemmene har erfaring som kandidat, veileder eller fra komitéarbeid i bedømmelseskomité for et av de norske ph.d.-programmene i kunstnerisk utviklingsarbeid.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 
@@ -418,7 +452,14 @@ Vitnemålet, vitnemålstillegget og diplomet deles ordinært ut på promosjonen.
 
 ### § 17-1. Klage over avslag på søknad om opptak, tvungen avslutning av avtaleperioden og avslag på søknad om godkjenning av elementer i opplæringsdelen
 
-Vedtak omavslag på søknad om opptaktvungen avslutning av avtaleperioden ved forsinkelsetvungen avslutning av avtaleperioden av hensyn til eksportkontrollavslag på søknad om godkjenning av elementer i opplæringsdelenkan påklages etter reglene i [forvaltningslovens § 28](lov/1967-02-10/§28) følgende.
+Vedtak om
+
+1. avslag på søknad om opptak
+2. tvungen avslutning av avtaleperioden ved forsinkelse
+3. tvungen avslutning av avtaleperioden av hensyn til eksportkontroll
+4. avslag på søknad om godkjenning av elementer i opplæringsdelen
+
+kan påklages etter reglene i [forvaltningslovens § 28](lov/1967-02-10/§28) følgende.
 
 Begrunnet klage sendes til fakultetet selv. Blir avslaget opprettholdt, sendes klagen uten ugrunnet opphold til Den sentrale klagenemnd til avgjørelse.
 

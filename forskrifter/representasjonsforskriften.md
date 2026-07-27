@@ -26,7 +26,13 @@ eu_basis: []
 
 ### § 1. Definisjoner
 
-I denne forskriften menes med*ansatt:* person som arbeider i selskapet eller er i lovfestet permisjon. Ferievikarer anses likevel ikke som ansatt.*hovedstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig minst 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art.*deltidsstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig mindre enn 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art. Når det i denne forskriften kreves et bestemt antall ansatte, telles hver ansatt i deltidsstilling som en halv.*lokal fagforening:* fagforening i selskapet eller avdeling av fagforening i selskapet som utelukkende har ansatte i selskapet som medlemmer, og som er bundet av tariffavtale med selskapet eller arbeidsgiverorganisasjon som selskapet er medlem av (bedriftsklubb e.l.).*kommunalt kontrollert aksjeselskap:* aksjeselskap hvor kommuner og fylkeskommuner til sammen eier minst to tredjedeler av aksjene i selskapet.
+I denne forskriften menes med
+
+1. *ansatt:* person som arbeider i selskapet eller er i lovfestet permisjon. Ferievikarer anses likevel ikke som ansatt.
+2. *hovedstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig minst 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art.
+3. *deltidsstilling:* arbeidsforhold hvor det skal arbeides gjennomsnittlig mindre enn 50 prosent av arbeidstiden for ansatte i heltidsstilling som utfører arbeid av samme art. Når det i denne forskriften kreves et bestemt antall ansatte, telles hver ansatt i deltidsstilling som en halv.
+4. *lokal fagforening:* fagforening i selskapet eller avdeling av fagforening i selskapet som utelukkende har ansatte i selskapet som medlemmer, og som er bundet av tariffavtale med selskapet eller arbeidsgiverorganisasjon som selskapet er medlem av (bedriftsklubb e.l.).
+5. *kommunalt kontrollert aksjeselskap:* aksjeselskap hvor kommuner og fylkeskommuner til sammen eier minst to tredjedeler av aksjene i selskapet.
 
 ### § 2. Næringsmessig avgrensning
 
@@ -148,7 +154,12 @@ Det bør foreslås minst en kvinnelig kandidat dersom det er mer enn en tredjede
 
 Dersom de ansatte i aksjeselskaper med 200 eller færre ansatte skal velge tre eller flere styremedlemmer eller varamedlemmer, skal forslaget inneholde kandidater av flere kjønn. Dette er likevel ikke et krav dersom mer enn 80 prosent av de ansatte i selskapet på valgtidspunktet har samme kjønn.
 
-Fjerde ledd gjelder tilsvarende dersom de ansatte i følgende selskaper med 200 eller færre ansatte skal velge to eller flere styremedlemmer eller varamedlemmer:allmennaksjeselskaperstatsaksjeselskaperkommunalt kontrollerte aksjeselskaperaksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
+Fjerde ledd gjelder tilsvarende dersom de ansatte i følgende selskaper med 200 eller færre ansatte skal velge to eller flere styremedlemmer eller varamedlemmer:
+
+1. allmennaksjeselskaper
+2. statsaksjeselskaper
+3. kommunalt kontrollerte aksjeselskaper
+4. aksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
 
 Når de ansatte i aksjeselskaper og allmennaksjeselskaper med flere enn 200 ansatte skal velge styremedlemmer, skal forslaget inneholde det nødvendige antall kandidater av ulike kjønn for å oppfylle kravet til kjønnssammensetning i [aksjeloven § 6-11b andre ledd](lov/1997-06-13-44/§6-11b/ledd/2) og [allmennaksjeloven § 6-11b andre ledd](lov/1997-06-13-45/§6-11b/ledd/2).
 
@@ -170,7 +181,12 @@ Ved stemmelikhet avgjøres valget ved loddtrekning.
 
 Dersom det skal velges tre eller flere styremedlemmer i et aksjeselskap med 200 eller færre ansatte, og fremgangsmåten for fordeling av verv fører til at kun ett kjønn blir representert, rykker nærmeste kandidat på listen fra et ikke representert kjønn opp i det omfang som er nødvendig for å sikre at flere kjønn blir representert. Det samme gjelder for varamedlemmer. Dette gjelder likevel ikke dersom mer enn 80 prosent av de ansatte i selskapet på valgtidspunktet har samme kjønn.
 
-Tredje ledd gjelder tilsvarende dersom det skal velges to eller flere styremedlemmer eller varamedlemmer i følgende selskaper med 200 eller færre ansatte:allmennaksjeselskaperstatsaksjeselskaperkommunalt kontrollerte aksjeselskaperaksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
+Tredje ledd gjelder tilsvarende dersom det skal velges to eller flere styremedlemmer eller varamedlemmer i følgende selskaper med 200 eller færre ansatte:
+
+1. allmennaksjeselskaper
+2. statsaksjeselskaper
+3. kommunalt kontrollerte aksjeselskaper
+4. aksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
 
 Når det skal velges styremedlemmer i aksjeselskaper og allmennaksjeselskaper med flere enn 200 ansatte, og fremgangsmåten for fordeling av verv fører til at kjønnene ikke blir representert i samsvar med [aksjeloven § 6-11b andre ledd](lov/1997-06-13-44/§6-11b/ledd/2) og [allmennaksjeloven § 6-11b andre ledd](lov/1997-06-13-45/§6-11b/ledd/2), rykker nærmeste kandidat på listen fra et underrepresentert kjønn opp i det omfang som er nødvendig for å oppfylle lovens krav.
 
@@ -188,7 +204,12 @@ Det bør foreslås minst en kvinnelig kandidat på hver liste dersom det er mer 
 
 Dersom de ansatte i aksjeselskaper med 200 eller færre ansatte skal velge tre eller flere styremedlemmer, skal et forslag inneholde kandidater av flere kjønn. Det samme gjelder for varamedlemmer. Dette er likevel ikke et krav dersom mer enn 80 prosent av de ansatte i selskapet på valgtidspunktet har samme kjønn.
 
-Femte ledd gjelder tilsvarende dersom de ansatte i følgende selskaper med 200 eller færre ansatte skal velge to eller flere styremedlemmer eller varamedlemmer:allmennaksjeselskaperstatsaksjeselskaperkommunalt kontrollerte aksjeselskaperaksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
+Femte ledd gjelder tilsvarende dersom de ansatte i følgende selskaper med 200 eller færre ansatte skal velge to eller flere styremedlemmer eller varamedlemmer:
+
+1. allmennaksjeselskaper
+2. statsaksjeselskaper
+3. kommunalt kontrollerte aksjeselskaper
+4. aksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
 
 Når de ansatte i aksjeselskaper og allmennaksjeselskaper med flere enn 200 ansatte skal velge styremedlemmer, skal et forslag inneholde det nødvendige antall kandidater av ulike kjønn for å oppfylle kravet til kjønnssammensetning i [aksjeloven § 6-11b andre ledd](lov/1997-06-13-44/§6-11b/ledd/2) og [allmennaksjeloven § 6-11b andre ledd](lov/1997-06-13-45/§6-11b/ledd/2).
 
@@ -208,7 +229,12 @@ Dersom det bare fremkommer ett forslag til liste, er de som er foreslått på de
 
 Dersom det skal velges tre eller flere styremedlemmer i et aksjeselskap med 200 eller færre ansatte, og fremgangsmåten for fordeling av verv fører til at kun ett kjønn blir representert, rykker nærmeste kandidat på listen fra et ikke representert kjønn opp i det omfang som er nødvendig for å sikre at flere kjønn blir representert. Dersom kandidatene er valgt inn fra forskjellige lister, foretas opprykket på listen med den kandidaten som ble valgt inn med lavest kvotient. Dette gjelder likevel ikke dersom mer enn 80 prosent av de ansatte i selskapet på valgtidspunktet har samme kjønn.
 
-Fjerde ledd gjelder tilsvarende dersom det skal velges to eller flere styremedlemmer i følgende selskaper med 200 eller færre ansatte:allmennaksjeselskaperstatsaksjeselskaperkommunalt kontrollerte aksjeselskaperaksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
+Fjerde ledd gjelder tilsvarende dersom det skal velges to eller flere styremedlemmer i følgende selskaper med 200 eller færre ansatte:
+
+1. allmennaksjeselskaper
+2. statsaksjeselskaper
+3. kommunalt kontrollerte aksjeselskaper
+4. aksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
 
 Når det skal velges styremedlemmer i aksjeselskaper og allmennaksjeselskaper med flere enn 200 ansatte, og fremgangsmåten for fordeling av verv fører til at kjønnene ikke blir representert i samsvar med [aksjeloven § 6-11b andre ledd](lov/1997-06-13-44/§6-11b/ledd/2) og [allmennaksjeloven § 6-11b andre ledd](lov/1997-06-13-45/§6-11b/ledd/2), rykker nærmeste kandidat på listen fra et underrepresentert kjønn opp i det omfang som er nødvendig for å oppfylle lovens krav. Dersom kandidatene er valgt inn fra forskjellige lister, foretas hvert opprykk på den listen med den kandidaten som ble valgt inn med lavest kvotient.
 
@@ -224,7 +250,12 @@ Dersom et styremedlem eller en observatør slutter å ha sitt arbeidssted i den 
 
 Dersom det skal velges tre eller flere styremedlemmer i et aksjeselskap med 200 eller færre ansatte, og valget skal gjennomføres i valgkretser, gjelder følgende ordning dersom resultatet av valget innebærer at alle styremedlemmene har samme kjønn: Kandidaten eller listen som fikk lavest oppslutning målt i antall stemmer i forhold til antallet stemmeberettigete i den enkelte valgkrets erstattes av nærmeste kandidat på listen fra et ikke representert kjønn i det omfang som er nødvendig for at flere kjønn blir representert. Det samme gjelder for varamedlemmene. Dette gjelder likevel ikke dersom mer enn 80 prosent av de ansatte i selskapet på valgtidspunktet har samme kjønn.
 
-Fjerde ledd gjelder tilsvarende dersom det skal velges to eller flere styremedlemmer eller varamedlemmer i følgende selskaper med 200 eller færre ansatte:allmennaksjeselskaperstatsaksjeselskaperkommunalt kontrollerte aksjeselskaperaksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
+Fjerde ledd gjelder tilsvarende dersom det skal velges to eller flere styremedlemmer eller varamedlemmer i følgende selskaper med 200 eller færre ansatte:
+
+1. allmennaksjeselskaper
+2. statsaksjeselskaper
+3. kommunalt kontrollerte aksjeselskaper
+4. aksjeselskaper som er heleide datterselskaper av statsaksjeselskap, statsallmennaksjeselskap, statsforetak eller kommunalt kontrollert aksjeselskap.
 
 Når det skal velges styremedlemmer i et aksjeselskap eller allmennaksjeselskap med flere enn 200 ansatte, og valget skal gjennomføres i valgkretser, gjelder følgende ordning dersom resultatet av valget innebærer at kjønnene ikke blir representert i samsvar med [aksjeloven § 6-11b andre ledd](lov/1997-06-13-44/§6-11b/ledd/2) og [allmennaksjeloven § 6-11b andre ledd](lov/1997-06-13-45/§6-11b/ledd/2): Kandidaten eller listen som fikk lavest oppslutning målt i antall stemmer i forhold til antallet stemmeberettigete i den enkelte valgkrets erstattes av nærmeste kandidat på listen fra et underrepresentert kjønn i det omfang som er nødvendig for å oppfylle lovens krav.
 
@@ -504,7 +535,10 @@ Konsernet og et flertall av de ansatte eller lokale fagforeninger som represente
 
 ### § 43. Avtale om unntak ved felles representasjonsordning
 
-Ved felles representasjonsordning, kan konsernet og et flertall av de ansatte i konsernet eller lokale fagforeninger som representerer et flertall av de ansatte i konsernet, inngå skriftlig avtale omgjennomgående styrerepresentasjon for de ansattevalgte styremedlemmer, observatører og varamedlemmer,valgkretser.
+Ved felles representasjonsordning, kan konsernet og et flertall av de ansatte i konsernet eller lokale fagforeninger som representerer et flertall av de ansatte i konsernet, inngå skriftlig avtale om
+
+1. gjennomgående styrerepresentasjon for de ansattevalgte styremedlemmer, observatører og varamedlemmer,
+2. valgkretser.
 
 Endring av avtale må skje på samme vilkår som etablering av avtale etter første ledd.
 

@@ -86,7 +86,12 @@ Ved avhending gjennom eiendomsmegler kan den fremgangsmåten som er vanlig i bra
 
 Avhending i en institusjons egen regi skal som hovedregel skje etter offentlig kunngjøring og på grunnlag av skriftlige bud.
 
-Kunngjøringen skal gjøres kjent i Norsk Lysingsblad og i minst én avis som er alminnelig lest på stedet og skal inneholde:Navn på institusjonen som foretar avhendingen, samt referanseperson.Beskrivelse av eiendommen og opplysning om eiendommens takstverdi.Tid for besiktigelse av eiendommen.Opplysninger om hvordan budene skal merkes og hvor de skal innleveres.
+Kunngjøringen skal gjøres kjent i Norsk Lysingsblad og i minst én avis som er alminnelig lest på stedet og skal inneholde:
+
+1. Navn på institusjonen som foretar avhendingen, samt referanseperson.
+2. Beskrivelse av eiendommen og opplysning om eiendommens takstverdi.
+3. Tid for besiktigelse av eiendommen.
+4. Opplysninger om hvordan budene skal merkes og hvor de skal innleveres.
 
 Kunngjøringen kan også inneholde opplysninger om rettigheter og forpliktelser knyttet til eiendommen, eventuell frist for innlevering av bud, tidspunkt for åpning av bud ved lukket budrunde, forbehold om rett til å forkaste alle bud dersom de tilbudte priser er uakseptable og opplysning om at bud som inneholder ubestemte bud eller priser vil bli avvist.
 
@@ -104,7 +109,10 @@ Staten kan i kontrakten betinge seg forkjøpsrett/utpekingsrett ved eventuell vi
 
 ### 3.6 Utelukkelse av bud
 
-Et bud skal utelukkes dersom:Budet kommer inn etter utløpet av en fastsatt tilbudsfrist.Budet inneholder ubestemt pris eller på annen måte avviker vesentlig fra avhendingsforutsetningene.
+Et bud skal utelukkes dersom:
+
+- Budet kommer inn etter utløpet av en fastsatt tilbudsfrist.
+- Budet inneholder ubestemt pris eller på annen måte avviker vesentlig fra avhendingsforutsetningene.
 
 Årsaken til at bud utelukkes skal protokolleres, jf. 3.7 annet avsnitt.
 
@@ -112,7 +120,14 @@ Et bud skal utelukkes dersom:Budet kommer inn etter utløpet av en fastsatt tilb
 
 Ved avhending i institusjonens egen regi skal det føres salgsprotokoll eller på annen måte gis betryggende dokumentasjon for avhendingen. Beslutning om direkte salg eller gjennomføring av lukket budrunde skal her begrunnes.
 
-Ved avhending etter offentlig kunngjøring skal det alltid føres salgsprotokoll. Protokollen skal inneholde:Eiendommens gårds- og bruksnummer.Budgivers navn.Tilbudte priser og andre opplysninger av betydning, herunder beslutning om ekstra budrunde.Opplysning om eventuell utelukkelse eller forkasting av bud.Aksept av bud.Ved lukkede budrunder skal i tillegg åpningsdato og klokkeslett samt navn på de som har åpnet budene protokolleres.
+Ved avhending etter offentlig kunngjøring skal det alltid føres salgsprotokoll. Protokollen skal inneholde:
+
+- Eiendommens gårds- og bruksnummer.
+- Budgivers navn.
+- Tilbudte priser og andre opplysninger av betydning, herunder beslutning om ekstra budrunde.
+- Opplysning om eventuell utelukkelse eller forkasting av bud.
+- Aksept av bud.
+- Ved lukkede budrunder skal i tillegg åpningsdato og klokkeslett samt navn på de som har åpnet budene protokolleres.
 
 ### 3.8 Makeskifte
 

@@ -15,7 +15,7 @@ xml_hash: "e8f183257508b167ff8622f180aedca5c26d930318b92518eb263ea4749c68e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -509,22 +509,48 @@ Når besetningen bor eller arbeider om bord, skal det elektriske lysanlegget kun
 ### § 13. Størrelsen av soverommene/lugarene
 
 1. Klosett/baderom bør fortrinnsvis anbringes i tilknytning til hvert enkelt soverom, eller slik at 2 soverom for mannskapet får adgang til ett felles klosett/baderom.
-2. Golvareal for soverom til en person av mannskapet skal være minst:fartøy under 24 m3,50 m2fartøy på 24 m og derover4,00 m2
-3. Golvareal for soverom til 2 personer av mannskapet skal minst være:fartøy under 24 m5,00 m2fartøy på 24 m og derover6,00 m2
-4. Golvareal for soverom til skipsfører og offiserer (enpersonrom) skal være minst:fartøy under 24 m4,50 m2fartøy på 24 m og derover6,50 m2
+2. Golvareal for soverom til en person av mannskapet skal være minst:
+
+   |  |  |
+   | --- | --- |
+   | fartøy under 24 m | 3,50 m2 |
+   | fartøy på 24 m og derover | 4,00 m2 |
+3. Golvareal for soverom til 2 personer av mannskapet skal minst være:
+
+   |  |  |
+   | --- | --- |
+   | fartøy under 24 m | 5,00 m2 |
+   | fartøy på 24 m og derover | 6,00 m2 |
+4. Golvareal for soverom til skipsfører og offiserer (enpersonrom) skal være minst:
+
+   |  |  |
+   | --- | --- |
+   | fartøy under 24 m | 4,50 m2 |
+   | fartøy på 24 m og derover | 6,50 m2 |
 5. Ved måling av gulvflaten skal flate som opptas av køyer, skap, kommoder og sitteplasser regnes med, men ikke små, uregelmessige formede deler av gulvflaten som ikke øker bevegelsesflaten. Deler av skråttliggende skott hvor det er arrangert køyer, skap, kommoder og sitteplasser, skal ikke medtas ved beregning av gulvflaten. Avstanden fra køykant til motstående skott skal være minst 700 mm i gjennomsnitt.
 
 ### § 14. Køyer
 
 1. Enhver av besetningen skal ha egen køy. Køyene skal innvendig måle minst 1.980 mm x 800 m. I soverom for en person på skip på under 45 m tillates køy kombinert med sofa når det under køyen er anbrakt skuff eller lignende til sengetøy.
-2. Dersom en køy er anbrakt over en annen køy i soverom for 2 personer, skal bunnen av overkøyen anbringes midt mellom bunnen av underkøyen og undersiden av takkledningen. Underkøyenes bunn skal ikke være nærmere dørken enn 300 mm.Køy anbrakt over en annen køy skal ha støvtett bunn. Køyer skal ikke anbringes ved siden av hverandre. Køyer skal ikke arrangeres slik at de opptar plass i tilstøtende rom.
+2. Dersom en køy er anbrakt over en annen køy i soverom for 2 personer, skal bunnen av overkøyen anbringes midt mellom bunnen av underkøyen og undersiden av takkledningen. Underkøyenes bunn skal ikke være nærmere dørken enn 300 mm.
+
+   Køy anbrakt over en annen køy skal ha støvtett bunn. Køyer skal ikke anbringes ved siden av hverandre. Køyer skal ikke arrangeres slik at de opptar plass i tilstøtende rom.
 3. Køyene skal være utstyrt med sengetøy og godkjent madrass med vask-/ skiftbart overtrekk av godkjent materiale. Sengetøy skal minst bestå av pute og dyne med heldekkende vaskbare trekk og laken som er så stort at det kan festes under madrassen.
 4. I soverom for to personer skal køyene utstyres med forheng.
 5. Køyene skal om mulig ikke plasseres langs skipsside eller langs dekkshusside når disse befinner seg i borde. I så tilfelle tillates kun en køy i høyden. Plasseres køyer langs ytterskott eller skipsside, skal isolasjonens K-verdi ikke være høyere enn 0,3.
 
 ### § 15. Inventar og annet utstyr til soverom
 
-Soverom skal være utstyrt med følgende:Låsbart klesskap til hver person som rommet er beregnet for. Er rommet beregnet til skiftordning, kan ikke mer enn ett skap trekkes fra gulvarealet.Skapet skal innvendig ha høyde minst 180 mm, arealsnitt minst 35 m2 og volum minst 0,8 m3. Det skal ha hylle og innretninger til å henge klær på. NVS 2761 standard for skap og skuffer kan anvendes.Minst to 0,06 m3, låsbare skufferom for hver person.Et bord og bekvemme sitteplasser for minst en person mer enn rommet er bestemt for.Et bord som kan anvendes til skrivebord.Speil, små skap eller skuffer for toalettsaker, bokhylle og klesknagger. Speil og skap for toalettsaker kan plasseres i baderom i tilknytning til soverommet. Ved speilet skal det være uttak for elektrisk barbermaskin med angivelse av spenningen. Vinduene og lysventilene skal ha gardiner.Et låsbart skap for hver person, med knagger for oppbevaring av arbeidsklær, oljeklær, sjøstøvler og liknende skal være i nærheten, men utenfor soverommet. Skapene kan være i forbindelse med omkledningsrom for besetningen. Skapene skal ha tilstrekkelige ventilasjonsåpninger.
+Soverom skal være utstyrt med følgende:
+
+1. Låsbart klesskap til hver person som rommet er beregnet for. Er rommet beregnet til skiftordning, kan ikke mer enn ett skap trekkes fra gulvarealet.
+
+   Skapet skal innvendig ha høyde minst 180 mm, arealsnitt minst 35 m2 og volum minst 0,8 m3. Det skal ha hylle og innretninger til å henge klær på. NVS 2761 standard for skap og skuffer kan anvendes.
+2. Minst to 0,06 m3, låsbare skufferom for hver person.
+3. Et bord og bekvemme sitteplasser for minst en person mer enn rommet er bestemt for.
+4. Et bord som kan anvendes til skrivebord.
+5. Speil, små skap eller skuffer for toalettsaker, bokhylle og klesknagger. Speil og skap for toalettsaker kan plasseres i baderom i tilknytning til soverommet. Ved speilet skal det være uttak for elektrisk barbermaskin med angivelse av spenningen. Vinduene og lysventilene skal ha gardiner.
+6. Et låsbart skap for hver person, med knagger for oppbevaring av arbeidsklær, oljeklær, sjøstøvler og liknende skal være i nærheten, men utenfor soverommet. Skapene kan være i forbindelse med omkledningsrom for besetningen. Skapene skal ha tilstrekkelige ventilasjonsåpninger.
 
 ### § 16. Spiserom, dagrom og kontorrom m.v.
 
@@ -693,7 +719,11 @@ Det minste antall klosetter skal være:
 
 2\.
 
-Det skal være plassert klosetter lett tilgjengelig fra:bro,maskinrom/kontrollrom,radiorom
+Det skal være plassert klosetter lett tilgjengelig fra:
+
+- bro,
+- maskinrom/kontrollrom,
+- radiorom
 
 3\.
 
@@ -826,7 +856,13 @@ Eventuell avklorering kan skje ved å la vannet passere et filter med aktivt kul
 
 7\.
 
-Til analyse av drikkevannet skal følgende utstyr finnes om bord:pH-meter,utstyr til måling av restklor (fritt og bundet klor),utstyr til måling av saltholdigheten (for evaporert vann),vannmengdemåler,eventuelt annet utstyr etter tilråding fra Statens Institutt for Folkehelse.
+Til analyse av drikkevannet skal følgende utstyr finnes om bord:
+
+- pH-meter,
+- utstyr til måling av restklor (fritt og bundet klor),
+- utstyr til måling av saltholdigheten (for evaporert vann),
+- vannmengdemåler,
+- eventuelt annet utstyr etter tilråding fra Statens Institutt for Folkehelse.
 
 8\.
 
@@ -850,15 +886,23 @@ Skipsføreren skal sende skriftlig rapport til Sjøfartsdirektoratet og Helsedir
 2. I bysse og tilhørende rom må det gjennomføres forsvarlig renhold. Hovedrengjøring skal foretas så ofte det er nødvendig og minst 3 ganger pr. år. Malte deler av byssa og innredningen i denne, skal males når dette er nødvendig og Skipskontrollen kan gi pålegg om dette. Gulv og benker, bord, oppvaskkummer, avfallssjakt og utslagsvasker skal vaskes grundig minst en gang daglig.
 3. Skyller og annet avfall skal fjernes minst to ganger daglig, og oppbevares i lukkede beholdere. Sprøyting med insektmiddel må bare foretas når de lukkede beholdere ikke gir tilstrekkelig vern mot insekter. Dumping av avfall skal skje i samsvar med de til enhver tid gjeldende regler om dumping av avfall m.v. Under land må avfall leveres i samsvar med kravene fra stedlige myndigheter.
 4. Personer som arbeider i byssa skal være iført rent arbeidstøy av vaskbart stoff, samt hvitt hodeplagg. Ved oppvask, rensing av kjøtt, fisk e.l. kan det brukes forklær av vanntett stoff.
-5. Personer som arbeider med tilbereding og servering av mat kan pålegges spesiell helsekontroll. Personer som håndterer næringsmidler eller arbeider innenfor et risikoområde, skal så ofte som nødvendig vaske hendene grundig under rennende, temperert vann og med et egnet håndvaskemiddel.Hendene må alltid vaskes før arbeidet starter, umiddelbart etter bruk av toalett og etter kontakt med forurenset materiale. Det kan påbys at de som utfører arbeidsoppgaver hvor dette er påkrevd, skal desinfisere hendene med et egnet middel etter håndvasken. Eventuelle rifter og sår på hender og underarmer skal straks dekkes av hensiktsmessig, vanntett forbinding. Personer som lider av smittsom sykdom eller som bærer smitte eller annen forurensning som anses å kunne overføres med næringsmidler, eller som har infiserte sår, byller og andre hudinfeksjoner eller diaré, må ikke delta i arbeid hvor de direkte eller indirekte kan forurense næringsmidler med sykdomsfremkallende organismer.
+5. Personer som arbeider med tilbereding og servering av mat kan pålegges spesiell helsekontroll. Personer som håndterer næringsmidler eller arbeider innenfor et risikoområde, skal så ofte som nødvendig vaske hendene grundig under rennende, temperert vann og med et egnet håndvaskemiddel.
+
+   Hendene må alltid vaskes før arbeidet starter, umiddelbart etter bruk av toalett og etter kontakt med forurenset materiale. Det kan påbys at de som utfører arbeidsoppgaver hvor dette er påkrevd, skal desinfisere hendene med et egnet middel etter håndvasken. Eventuelle rifter og sår på hender og underarmer skal straks dekkes av hensiktsmessig, vanntett forbinding. Personer som lider av smittsom sykdom eller som bærer smitte eller annen forurensning som anses å kunne overføres med næringsmidler, eller som har infiserte sår, byller og andre hudinfeksjoner eller diaré, må ikke delta i arbeid hvor de direkte eller indirekte kan forurense næringsmidler med sykdomsfremkallende organismer.
 6. Byssa skal være avlåst når mat ikke tilberedes.
 
 ### § 29. Rengjøring og oppussing av rom for besetningen m.fl.
 
 1. Oppholdsrommene skal daglig rengjøres og luftes.
-2. Hovedrengjøring av alle oppholdsrom og andre rom for besetningen og av ganger og trapper til slike rom skal foretas etter opplag og verkstedopphold, dog minst 3 ganger om året, og ellers når inntrufne omstendigheter så som smittsom sykdom, gjør det påkrevd.Ved hovedrengjøring skal tak, vegger, golv og alle møbler som tåler det, vaskes med varmt vann og vaskemiddel.I soverom foretas hovedrengjøring når disse belegges med nye folk. Sengetøy skiftes og madrasser luftes.
+2. Hovedrengjøring av alle oppholdsrom og andre rom for besetningen og av ganger og trapper til slike rom skal foretas etter opplag og verkstedopphold, dog minst 3 ganger om året, og ellers når inntrufne omstendigheter så som smittsom sykdom, gjør det påkrevd.
+
+   Ved hovedrengjøring skal tak, vegger, golv og alle møbler som tåler det, vaskes med varmt vann og vaskemiddel.
+
+   I soverom foretas hovedrengjøring når disse belegges med nye folk. Sengetøy skiftes og madrasser luftes.
 3. På skip som innkjøpes fra utlandet og som ikke er nybygg, skal alle rom bestemt til bruk for besetningen desinfiseres og rengjøres før de tas i bruk.
-4. Viser det seg veggdyr i oppholdsrom eller andre rom for besetningen, må melding om dette straks gis til skipsføreren. Det må sørges for at veggdyrene blir utryddet så snart som mulig. Inntil dette er skjedd, kan Skipskontrollen forby at rommene blir brukt.Utrydding må foregå på en slik måte at menneskers liv og/eller helse ikke blir utsatt for fare. Blir gass brukt til utrydding, må de bestemmelser som er fastsatt på vedkommende sted for slik utrydding nøye iakttas.
+4. Viser det seg veggdyr i oppholdsrom eller andre rom for besetningen, må melding om dette straks gis til skipsføreren. Det må sørges for at veggdyrene blir utryddet så snart som mulig. Inntil dette er skjedd, kan Skipskontrollen forby at rommene blir brukt.
+
+   Utrydding må foregå på en slik måte at menneskers liv og/eller helse ikke blir utsatt for fare. Blir gass brukt til utrydding, må de bestemmelser som er fastsatt på vedkommende sted for slik utrydding nøye iakttas.
 5. Maling og annen oppussing skal finne sted så ofte det er nødvendig eller når Skipskontrollen finner det påkrevd.
 6. Skipsføreren eller den skipsføreren bemyndiger skal jevnlig føre tilsyn med rengjøringen av bl.a. alle rom for besetningen. I dekksdagboken skal det innføres opplysninger vedrørende drikkevann og proviant slik det fremgår av den til enhver tid gjeldende forskrift om innretning og føring av skipsdagbøker/kontrollbøker.
 
@@ -866,7 +910,9 @@ Skipsføreren skal sende skriftlig rapport til Sjøfartsdirektoratet og Helsedir
 
 ### § 30. Forskjellig utstyr
 
-1. På fartøy som seiler i tropiske farvann eller i andre farvann hvor insekter er en plage, skal det sørges for å beskytte besetningens oppholdsrom ved anbringelse av insektnett for an lysventiler, luftrør, luftinntak til det mekaniske ventilasjonsanlegg og dører til åpent dekk.I luftkondisjonert oppholdsrom er det tilstrekkelig med insektnett ved utgangsdørene i korridorene.
+1. På fartøy som seiler i tropiske farvann eller i andre farvann hvor insekter er en plage, skal det sørges for å beskytte besetningens oppholdsrom ved anbringelse av insektnett for an lysventiler, luftrør, luftinntak til det mekaniske ventilasjonsanlegg og dører til åpent dekk.
+
+   I luftkondisjonert oppholdsrom er det tilstrekkelig med insektnett ved utgangsdørene i korridorene.
 2. Fartøy som fisker i tropiske farvann skal være utstyrt med solseil/soltak over åpne dekk beliggende over oppholdsrom, bysse og over hvileplasser på dekk. Over luftkondisjonerte oppholdsrom kan solseil/soltak sløyfes.
 
 ## Kapittel IX. Avsluttende bestemmelser
@@ -875,7 +921,11 @@ Skipsføreren skal sende skriftlig rapport til Sjøfartsdirektoratet og Helsedir
 
 Denne forskrift trer i kraft 1. januar 1992.
 
-Fra samme dato oppheves følgende forskrifter for nye fartøy:[Forskrift av 22. november 1957 nr. 9173](forskrift/1957-11-22-9173) om lugarer m.v. for besetningen på fiske- og fangstfartøyer.[Forskrift av 9. november 1966 nr. 5](forskrift/1966-11-09-5) om plassering og innredning av bysse m.v. på fiske- og fangstfartøy.[Forskrift av 22. april 1968 nr. 2](forskrift/1968-04-22-2) om kosthold på fartøy som driver fiske og fangst.
+Fra samme dato oppheves følgende forskrifter for nye fartøy:
+
+- [Forskrift av 22. november 1957 nr. 9173](forskrift/1957-11-22-9173) om lugarer m.v. for besetningen på fiske- og fangstfartøyer.
+- [Forskrift av 9. november 1966 nr. 5](forskrift/1966-11-09-5) om plassering og innredning av bysse m.v. på fiske- og fangstfartøy.
+- [Forskrift av 22. april 1968 nr. 2](forskrift/1968-04-22-2) om kosthold på fartøy som driver fiske og fangst.
 
 Ovennevnte forskrifter gjelder fortsatt for eksisterende fartøy, unntatt for forhold som kommer inn under [§ 1](forskrift/1991-10-15-713/§1) nr. 1.
 

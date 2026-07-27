@@ -86,7 +86,11 @@ Med de begrensninger som følger av gjøremål etter forskriftene, skal tjeneste
 
 ## § 9.
 
-Departementet kan trekke tilbake godkjennelse av tiltaket eller virksomheten dersombestemmelser gitt i eller i medhold av disse forskrifter overtres gjentatte ganger eller vedvarendekrav om sikkerhetsstillelse som nevnt i [§ 5](forskrift/1971-05-28-8617/§5) tredje ledd ikke etterkommestjenestemenn med tilsynsmyndighet hindres eller nektes adgang til virksomhetsområdet.
+Departementet kan trekke tilbake godkjennelse av tiltaket eller virksomheten dersom
+
+1. bestemmelser gitt i eller i medhold av disse forskrifter overtres gjentatte ganger eller vedvarende
+2. krav om sikkerhetsstillelse som nevnt i [§ 5](forskrift/1971-05-28-8617/§5) tredje ledd ikke etterkommes
+3. tjenestemenn med tilsynsmyndighet hindres eller nektes adgang til virksomhetsområdet.
 
 Ved tilbaketrekking av godkjennelse skal virksomheten opphøre straks eller innen en av departementet fastsatt frist, jf. for øvrig [§ 5](forskrift/1971-05-28-8617/§5) første ledd og annet ledd.
 

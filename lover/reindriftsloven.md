@@ -15,7 +15,7 @@ xml_hash: "21917fe698d0d96c46b0be74eab663fa2a91bdc6ba3328d23e99bd52f9d7c0f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -154,7 +154,11 @@ Hvis ektefellene er enige om at begge skal stå som ansvarlig leder, må de gi m
 
 Ektefeller som begge oppfyller vilkårene i [§ 9](lov/2007-06-15-40/§9) første ledd for å eie rein, kan være selvstendige ledere for hver sin siidaandel, med de begrensninger som følger av loven for øvrig.
 
-Bestemmelsene i første til tredje ledd gjelder tilsvarende for to ugifte personer som lever sammen (samboere) dersom dehar eller har hatt felles barn,tidligere har vært gift med hverandre, ellerhar levd sammen i ekteskapslignende forhold i to år.
+Bestemmelsene i første til tredje ledd gjelder tilsvarende for to ugifte personer som lever sammen (samboere) dersom de
+
+1. har eller har hatt felles barn,
+2. tidligere har vært gift med hverandre, eller
+3. har levd sammen i ekteskapslignende forhold i to år.
 
 ### § 14. Opphør av ekteskap og samboerskap
 
@@ -262,7 +266,13 @@ Departementet kan gi nærmere bestemmelser om hvordan gjerder og andre anlegg sk
 
 ### § 25. Brensel og trevirke i det samiske reinbeiteområdet
 
-I det samiske reinbeiteområdet gir rett til å utøve reindrift rett til i forbindelse med lovlig utøvelse av reindrift, til eget bruk å ta lauvtrær, busker, einer, vidjer, bjørkeris, selvtørrede bartrær og tørt vindfall, nedfalne greiner og kvister, stubber, never og bark, både på offentlig og privat eiendom når virket skal brukes til:brensel,gammer, koier, buer eller stillinger for oppbevaring av løsøre og matvarer,teltstenger, redskaper og enklere bruksting,arbeidsgjerder (trøer, ringgjerder),garving.
+I det samiske reinbeiteområdet gir rett til å utøve reindrift rett til i forbindelse med lovlig utøvelse av reindrift, til eget bruk å ta lauvtrær, busker, einer, vidjer, bjørkeris, selvtørrede bartrær og tørt vindfall, nedfalne greiner og kvister, stubber, never og bark, både på offentlig og privat eiendom når virket skal brukes til:
+
+1. brensel,
+2. gammer, koier, buer eller stillinger for oppbevaring av løsøre og matvarer,
+3. teltstenger, redskaper og enklere bruksting,
+4. arbeidsgjerder (trøer, ringgjerder),
+5. garving.
 
 Friskt lauvtrevirke og friske busker må ikke tas så fremt det på stedet eller i nærheten finnes annet virke som er tjenlig for formålet.
 
@@ -326,7 +336,11 @@ Nærmere regler om skilling og varsling kan gis i bruksreglene for distriktet.
 
 ### § 32. Rett til reinmerke
 
-Rett til reinmerke har personer av samisk ætt somved lovens ikrafttredelse hadde reindrift som hovednæring i reinbeitedistrikt i samsvar med [lov 9. juni 1978 nr. 49](lov/1978-06-09-49) om reindrift [§ 4](lov/1978-06-09-49/§4), jf. [§ 3](lov/1978-06-09-49/§3), ellerhar foreldre eller besteforeldre som har hatt reindrift som hovednæring, og sominngår i siidaandel eller skal inngå i siidaandel etter beslutning i henhold til [§ 10](lov/2007-06-15-40/§10) annet ledd eller lede siidaandel eller sideordnet rekrutteringsandel i henhold til [§§ 11](lov/2007-06-15-40/§11) til [15](lov/2007-06-15-40/§15).
+Rett til reinmerke har personer av samisk ætt som
+
+1. ved lovens ikrafttredelse hadde reindrift som hovednæring i reinbeitedistrikt i samsvar med [lov 9. juni 1978 nr. 49](lov/1978-06-09-49) om reindrift [§ 4](lov/1978-06-09-49/§4), jf. [§ 3](lov/1978-06-09-49/§3), eller
+2. har foreldre eller besteforeldre som har hatt reindrift som hovednæring, og som
+3. inngår i siidaandel eller skal inngå i siidaandel etter beslutning i henhold til [§ 10](lov/2007-06-15-40/§10) annet ledd eller lede siidaandel eller sideordnet rekrutteringsandel i henhold til [§§ 11](lov/2007-06-15-40/§11) til [15](lov/2007-06-15-40/§15).
 
 Den som blir adoptert, får samme rett til reinmerke som om adoptivbarnet hadde vært adoptivforeldrenes egnefødte barn, selv om vedkommende ikke er av samisk ætt.
 
@@ -460,7 +474,14 @@ Dersom tilskuddet ikke betales, mister siidaandelen sin stemmerett inntil skyldi
 
 ### § 47. Reindriftsfond
 
-I distriktet skal det være et reindriftsfond. Inn i fondet går:erstatning til distriktet ved ekspropriasjon av beiterettigheter o.a.erstatning til distriktet for skade, ulempe mv.konsesjonsavgift til distriktet ved ekspropriasjon,midler fra salg av rein uten lovlig merke,avgift ved brudd på bruksregler, jf. [§ 77](lov/2007-06-15-40/§77),andre midler som tilfaller distriktet.
+I distriktet skal det være et reindriftsfond. Inn i fondet går:
+
+1. erstatning til distriktet ved ekspropriasjon av beiterettigheter o.a.
+2. erstatning til distriktet for skade, ulempe mv.
+3. konsesjonsavgift til distriktet ved ekspropriasjon,
+4. midler fra salg av rein uten lovlig merke,
+5. avgift ved brudd på bruksregler, jf. [§ 77](lov/2007-06-15-40/§77),
+6. andre midler som tilfaller distriktet.
 
 Fondets midler forvaltes og disponeres av distriktsstyret etter vedtekter fastsatt i henhold til [§ 57](lov/2007-06-15-40/§57) annet ledd nr. 5.
 
@@ -490,7 +511,18 @@ For årsmøteforhandlingene og valg skal det føres en protokoll, som oppleses v
 
 ### § 50. Distriktsårsmøtets saker og myndighet
 
-Årsmøtet skal:godkjenne distriktsstyrets årsmelding og vedta årsregnskapvedta forslag til bruksregler, jf. [§ 57](lov/2007-06-15-40/§57)vedta forslag til distriktsplan, jf. [§ 62](lov/2007-06-15-40/§62)velge leder for distriktsstyret, jf. [§ 43](lov/2007-06-15-40/§43)fastsette regler for valg av styremedlemmer, jf. [§ 43 annet ledd](lov/2007-06-15-40/§43/ledd/2)fastsette godtgjørelse til medlemmene av distriktsstyretfastsette tilskuddet pr. rein til distriktskassen, jf. [§ 46](lov/2007-06-15-40/§46)velge revisor, eventuelt revisjonsutvalg, jf. [§ 48](lov/2007-06-15-40/§48)behandle saker som noen med møterett på årsmøtet, senest en uke før årsmøtet ved henvendelse til distriktsstyret, har krevd behandletbehandle andre saker som fremlegges av distriktsstyret.
+Årsmøtet skal:
+
+1. godkjenne distriktsstyrets årsmelding og vedta årsregnskap
+2. vedta forslag til bruksregler, jf. [§ 57](lov/2007-06-15-40/§57)
+3. vedta forslag til distriktsplan, jf. [§ 62](lov/2007-06-15-40/§62)
+4. velge leder for distriktsstyret, jf. [§ 43](lov/2007-06-15-40/§43)
+5. fastsette regler for valg av styremedlemmer, jf. [§ 43 annet ledd](lov/2007-06-15-40/§43/ledd/2)
+6. fastsette godtgjørelse til medlemmene av distriktsstyret
+7. fastsette tilskuddet pr. rein til distriktskassen, jf. [§ 46](lov/2007-06-15-40/§46)
+8. velge revisor, eventuelt revisjonsutvalg, jf. [§ 48](lov/2007-06-15-40/§48)
+9. behandle saker som noen med møterett på årsmøtet, senest en uke før årsmøtet ved henvendelse til distriktsstyret, har krevd behandlet
+10. behandle andre saker som fremlegges av distriktsstyret.
 
 En avgjørelse krever flertall av de avgitte stemmer på årsmøtet, om ikke noe annet er bestemt i loven. Ved stemmelikhet treffes avgjørelsen ved loddtrekning, med mindre noe annet er bestemt i bruksreglene.
 
@@ -518,7 +550,15 @@ Er det ikke eget styre i sommersiidaen, må årsmøtet velge en person som skal 
 
 ### § 54. Siidaårsmøtets saker og myndighet
 
-Årsmøtet skal:velge siidastyre etter [§ 52](lov/2007-06-15-40/§52)velge kandidat til distriktsstyret etter [§ 43](lov/2007-06-15-40/§43)fastsette tilskuddet til siidakassen, jf. [§ 55](lov/2007-06-15-40/§55)fastsette regler for siidakassen, jf. [§ 55](lov/2007-06-15-40/§55)fastsette regler for siidafondet, jf. [§ 56](lov/2007-06-15-40/§56) første leddvelge revisor, jf. [§ 56](lov/2007-06-15-40/§56) annet leddvelge kontaktperson som nevnt i [§ 53](lov/2007-06-15-40/§53) annet ledd.
+Årsmøtet skal:
+
+1. velge siidastyre etter [§ 52](lov/2007-06-15-40/§52)
+2. velge kandidat til distriktsstyret etter [§ 43](lov/2007-06-15-40/§43)
+3. fastsette tilskuddet til siidakassen, jf. [§ 55](lov/2007-06-15-40/§55)
+4. fastsette regler for siidakassen, jf. [§ 55](lov/2007-06-15-40/§55)
+5. fastsette regler for siidafondet, jf. [§ 56](lov/2007-06-15-40/§56) første ledd
+6. velge revisor, jf. [§ 56](lov/2007-06-15-40/§56) annet ledd
+7. velge kontaktperson som nevnt i [§ 53](lov/2007-06-15-40/§53) annet ledd.
 
 Årsmøtet kan gjennom vedtekter bestemme at en eller flere av de bestemmelser som gjelder for årsmøtet i distriktet, jf. [§ 50](lov/2007-06-15-40/§50), også skal gjelde for siidaårsmøtet.
 
@@ -544,9 +584,20 @@ Blir en siida tilkjent midler som nevnt i [§ 47](lov/2007-06-15-40/§47), skal 
 
 Det skal fastsettes bruksregler for forvaltningen og bruken av distriktets ressurser. Bruksreglene skal ikke stride mot loven her.
 
-Bruksreglene skal sikre en økologisk bærekraftig utnytting av distriktets beiteressurser og skal inneholde nærmere regler om:beitebruk, jf. [§ 59](lov/2007-06-15-40/§59)reintall, jf. [§ 60](lov/2007-06-15-40/§60)forvaltning av distriktets midler, herunder disponering av distriktskasse og reindriftsfond, jf. [§§ 46](lov/2007-06-15-40/§46) og [47](lov/2007-06-15-40/§47)bruk av motorisert kjøretøybruk og vedlikehold av gjerder og andre fellesanlegg.
+Bruksreglene skal sikre en økologisk bærekraftig utnytting av distriktets beiteressurser og skal inneholde nærmere regler om:
 
-Bruksreglene kan inneholde nærmere regler om:krav til siidaandelsleders deltakelse i siidaens reindriftfordeling av arbeidsplikter og investeringerslakte- og produksjonskravandre forhold som det anses hensiktsmessig å regulere ved bestemmelser i distriktets bruksregler.
+1. beitebruk, jf. [§ 59](lov/2007-06-15-40/§59)
+2. reintall, jf. [§ 60](lov/2007-06-15-40/§60)
+3. forvaltning av distriktets midler, herunder disponering av distriktskasse og reindriftsfond, jf. [§§ 46](lov/2007-06-15-40/§46) og [47](lov/2007-06-15-40/§47)
+4. bruk av motorisert kjøretøy
+5. bruk og vedlikehold av gjerder og andre fellesanlegg.
+
+Bruksreglene kan inneholde nærmere regler om:
+
+1. krav til siidaandelsleders deltakelse i siidaens reindrift
+2. fordeling av arbeidsplikter og investeringer
+3. slakte- og produksjonskrav
+4. andre forhold som det anses hensiktsmessig å regulere ved bestemmelser i distriktets bruksregler.
 
 Der det er påkrevet, kan statsforvalteren pålegge to eller flere distrikter å utarbeide felles bruksregler for ett eller flere av de forhold som er nevnt i annet og tredje ledd.
 
@@ -626,7 +677,14 @@ Der forholdene gjør det nødvendig, kan beitetidene fravikes etter tillatelse a
 
 Distriktsstyret skal utarbeide forslag til distriktsplan for distriktet som skal inneholde de opplysninger om virksomheten i distriktet som er nødvendig for den offentlige planlegging. Distriktsplanen skal vedtas av årsmøtet, jf. [§ 50 første ledd nr. 3](lov/2007-06-15-40/§50/ledd/1/nummer/3).
 
-Distriktsplanen skal inneholde:angivelse av flyttemønstre til siidaene i distriktetoversikt over siidaenes årstidsbeiter, beitetider, kalvingsland o.l.oversikt over nødvendige fremkomst- og transportmidler, herunder hvilke terrenggående kjøretøy som anvendes i distriktet, samt eventuell tidsbegrenset bruk av helikopter eller annet luftfartøy. Bruksregler for terrenggående barmarkskjøretøy skal også gå frem av planenoversikt over alle gjerder og anlegg av permanent art, og så vidt mulig også gjerder av midlertidig arteventuell inndeling i beitesonerbeliggenheten til gjeterhytter i distriktet, jf. [§ 21](lov/2007-06-15-40/§21).
+Distriktsplanen skal inneholde:
+
+1. angivelse av flyttemønstre til siidaene i distriktet
+2. oversikt over siidaenes årstidsbeiter, beitetider, kalvingsland o.l.
+3. oversikt over nødvendige fremkomst- og transportmidler, herunder hvilke terrenggående kjøretøy som anvendes i distriktet, samt eventuell tidsbegrenset bruk av helikopter eller annet luftfartøy. Bruksregler for terrenggående barmarkskjøretøy skal også gå frem av planen
+4. oversikt over alle gjerder og anlegg av permanent art, og så vidt mulig også gjerder av midlertidig art
+5. eventuell inndeling i beitesoner
+6. beliggenheten til gjeterhytter i distriktet, jf. [§ 21](lov/2007-06-15-40/§21).
 
 Leder for en siidaandel er pliktig til å gi nødvendige opplysninger for utarbeidelse av planen.
 
@@ -800,7 +858,12 @@ Blir pålegg i rettskraftig dom eller dermed likestilt forelegg ikke etterkommet
 
 ### § 79. Tvangstiltak
 
-Reindriftsstyret eller statsforvalteren kan, dersom pålegg etter [§ 75](lov/2007-06-15-40/§75) ikke er etterkommet, og andre tiltak ikke anses formålstjenlige, gjøre vedtak om tvangstiltak. Vedtak om tvangstiltak kan gå ut påat det foretas nødvendig arbeid og kontroll for å få gjennomført pålegg om samling, skilling, merking, utdriving og telling av rein,avliving av rein hvor utdriving ikke har latt seg gjennomføre,reduksjon av antallet rein i en siidaandel,riving av ulovlig oppsatte hytter, gjerder eller anlegg.
+Reindriftsstyret eller statsforvalteren kan, dersom pålegg etter [§ 75](lov/2007-06-15-40/§75) ikke er etterkommet, og andre tiltak ikke anses formålstjenlige, gjøre vedtak om tvangstiltak. Vedtak om tvangstiltak kan gå ut på
+
+1. at det foretas nødvendig arbeid og kontroll for å få gjennomført pålegg om samling, skilling, merking, utdriving og telling av rein,
+2. avliving av rein hvor utdriving ikke har latt seg gjennomføre,
+3. reduksjon av antallet rein i en siidaandel,
+4. riving av ulovlig oppsatte hytter, gjerder eller anlegg.
 
 Reindriftsstyret kan delegere sin myndighet til å treffe vedtak om tvangstiltak etter første ledd nr. 1 og 2 til Landbruksdirektoratet.
 

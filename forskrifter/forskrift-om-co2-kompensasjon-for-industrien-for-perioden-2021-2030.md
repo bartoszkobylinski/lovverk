@@ -42,7 +42,11 @@ Kompensasjon etter forskriften her gjelder produksjon nevnt i [§ 4](forskrift/2
 
 En virksomhet har rett til kompensasjon dersom den har produksjon som faller inn under én eller flere av de næringskoder (NACE-koder) som er oppført i tabellen under.
 
-I tillegg må virksomheter som har et årlig energiforbruk som overstiger 5 GWh minst ett av de siste fire årene oppfylle kravene til energikartlegging i [vedlegg II](forskrift/2024-12-19-3395/vedleggII) og enten:implementere anbefalinger fra kartleggingsrapporten, forutsatt at tilbakebetalingstiden på investeringene ikke overstiger tre år og at kostnadene av investeringene er proporsjonale, ellersørge for at minst 30 prosent av deres kraftforbruk stammer fra fornybare energikilder, ellerbruke minst 50 prosent av kompensasjonen til å investere i prosjekter som vil lede til betydelige utslippsreduksjoner hos installasjonen og godt under utslippsstandarden («benchmarken») for tildeling av vederlagsfrie kvoter i det europeiske kvotesystemet.
+I tillegg må virksomheter som har et årlig energiforbruk som overstiger 5 GWh minst ett av de siste fire årene oppfylle kravene til energikartlegging i [vedlegg II](forskrift/2024-12-19-3395/vedleggII) og enten:
+
+1. implementere anbefalinger fra kartleggingsrapporten, forutsatt at tilbakebetalingstiden på investeringene ikke overstiger tre år og at kostnadene av investeringene er proporsjonale, eller
+2. sørge for at minst 30 prosent av deres kraftforbruk stammer fra fornybare energikilder, eller
+3. bruke minst 50 prosent av kompensasjonen til å investere i prosjekter som vil lede til betydelige utslippsreduksjoner hos installasjonen og godt under utslippsstandarden («benchmarken») for tildeling av vederlagsfrie kvoter i det europeiske kvotesystemet.
 
 *Tabell 1. NACE-koder oppgitt i retningslinjene*
 
@@ -67,7 +71,12 @@ I tillegg må virksomheter som har et årlig energiforbruk som overstiger 5 GWh 
 
 Søknad om kompensasjon må sendes til Miljødirektoratet innen 1. mars året etter støtteåret det søkes kompensasjon for.
 
-Søknaden skal inneholde følgende opplysninger til Miljødirektoratet:produksjon i støtteåret,elektrisitetsforbruk i støtteåret,mottatt offentlig støtte som omfattes av [§ 9](forskrift/2024-12-19-3395/§9),dokumentasjon på at vilkårene i [§ 4](forskrift/2024-12-19-3395/§4) er oppfylt.
+Søknaden skal inneholde følgende opplysninger til Miljødirektoratet:
+
+1. produksjon i støtteåret,
+2. elektrisitetsforbruk i støtteåret,
+3. mottatt offentlig støtte som omfattes av [§ 9](forskrift/2024-12-19-3395/§9),
+4. dokumentasjon på at vilkårene i [§ 4](forskrift/2024-12-19-3395/§4) er oppfylt.
 
 Søker skal benytte søknadsskjema fastsatt av Miljødirektoratet, og levert søknad skal inneholde alle opplysninger som kreves i henhold til dette. Opplysningene skal verifiseres av en uavhengig tredjepart.
 
@@ -115,7 +124,13 @@ Rett til kompensasjon for det aktuelle støtteåret faller bort hvis korrekt sø
 
 Virksomheter som mottar kompensasjon skal bruke minst 40 prosent av den samlede kompensasjonen for perioden 1. januar 2024 til 31. desember 2030 på klima- og energieffektiviseringstiltak.
 
-Kompensasjonen skal brukes på tiltak direkte eller indirekte knyttet til støtteberettiget produksjon, jf. [§ 4](forskrift/2024-12-19-3395/§4), med følgende formål:reduksjon i direkte utslipp av klimagasser per produsert enhet, ellerreduksjon av behovet for kraft, ellergjenvinning av energi til egen virksomhet, til andre virksomheter eller til kraftproduksjon.Kompensasjonen kan også brukes på forsknings- og utviklingsarbeid som skal fremme tiltak som nevnt i bokstav a) til c).
+Kompensasjonen skal brukes på tiltak direkte eller indirekte knyttet til støtteberettiget produksjon, jf. [§ 4](forskrift/2024-12-19-3395/§4), med følgende formål:
+
+1. reduksjon i direkte utslipp av klimagasser per produsert enhet, eller
+2. reduksjon av behovet for kraft, eller
+3. gjenvinning av energi til egen virksomhet, til andre virksomheter eller til kraftproduksjon.
+
+Kompensasjonen kan også brukes på forsknings- og utviklingsarbeid som skal fremme tiltak som nevnt i bokstav a) til c).
 
 Kompensasjonen skal dekke merkostnader knyttet til tiltak som nevnt i andre ledd. Dersom et tiltak er en del av en investering med et annet formål enn nevnt i andre ledd, kan kompensasjonen kun dekke den delen av kostnadene som er knyttet til tiltaket.
 
@@ -125,7 +140,10 @@ Kompensasjonen skal brukes innen 31. desember 2034. Virksomheter i samme konsern
 
 ### § 12. Unntak fra krav om utslippsreduksjon og energieffektivitet
 
-Miljødirektoratet kan gjøre helt eller delvis unntak fra kravet i [§ 11 første ledd](forskrift/2024-12-19-3395/§11/ledd/1) dersomvirksomhetens fossile klimagassutslipp er under 1 000 tonn CO2-ekvivalenter for virksomhetens støtteberettigede produksjon og det ikke finnes relevante energieffektiviseringstiltak, ellerforhold utenfor virksomhetens kontroll gjør oppfyllelse av kravet umulig eller urimelig byrdefullt, for eksempel manglende tilgang på kraft.
+Miljødirektoratet kan gjøre helt eller delvis unntak fra kravet i [§ 11 første ledd](forskrift/2024-12-19-3395/§11/ledd/1) dersom
+
+1. virksomhetens fossile klimagassutslipp er under 1 000 tonn CO2-ekvivalenter for virksomhetens støtteberettigede produksjon og det ikke finnes relevante energieffektiviseringstiltak, eller
+2. forhold utenfor virksomhetens kontroll gjør oppfyllelse av kravet umulig eller urimelig byrdefullt, for eksempel manglende tilgang på kraft.
 
 ### § 13. Krav om tiltaksplan
 
@@ -157,7 +175,12 @@ Miljødirektoratet kan holde tilbake inntil 40 prosent av berettiget kompensasjo
 
 ### § 17. Tilbakebetaling
 
-Miljødirektoratet skal kreve at virksomheten betaler tilbake utbetalt kompensasjon så langtdet er gitt ufullstendige eller ukorrekte opplysninger i søknad om kompensasjon slik at mottaker har fått utbetalt mer kompensasjon enn den er berettiget til i henhold til [§ 6](forskrift/2024-12-19-3395/§6),mottaker har mottatt for mye støtte, i strid med denne forskrift.EFTAs overvåkingsorgan har fattet vedtak om tilbakeføring av ulovlig støtte.forpliktelsene etter [§ 11](forskrift/2024-12-19-3395/§11) ikke er oppfylt.
+Miljødirektoratet skal kreve at virksomheten betaler tilbake utbetalt kompensasjon så langt
+
+1. det er gitt ufullstendige eller ukorrekte opplysninger i søknad om kompensasjon slik at mottaker har fått utbetalt mer kompensasjon enn den er berettiget til i henhold til [§ 6](forskrift/2024-12-19-3395/§6),
+2. mottaker har mottatt for mye støtte, i strid med denne forskrift.
+3. EFTAs overvåkingsorgan har fattet vedtak om tilbakeføring av ulovlig støtte.
+4. forpliktelsene etter [§ 11](forskrift/2024-12-19-3395/§11) ikke er oppfylt.
 
 Ved krav om tilbakebetaling etter første ledd skal renter beregnes fra tidspunktet for utbetaling av kompensasjonen frem til tilbakebetaling skjer. Rentesatsen er den sats EFTAs overvåkingsorgan til enhver tid fastsetter.
 
@@ -189,7 +212,9 @@ Forskriften trer i kraft 1. januar 2025. Fra samme dato oppheves [forskrift 11. 
 
 ### Energieffektivitetsstandarder for støtteberettigede produkter angitt i [§ 4](forskrift/2024-12-19-3395/§4) som har mulighet for veksling mellom brensel og elektrisitet
 
-Forordning [(EU) 2019/331](eu/32019r0331) om tildeling av vederlagsfrie kvoter for perioden 2021–2030 som er tatt inn i [forskrift 23. desember 2004 nr. 1851 om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteforskriften) § 4-1](forskrift/2004-12-23-1851/§4-1) definerer produkter med mulighet for veksling mellom brensel og elektrisitet. For disse produktene skal energieffektivitetsstandarden beregnes ved bruk av følgende formel: $$\\small\\text{Energieffektivitetsstandard} = \\text{US } (\\text{tonn CO}_{2}/\\text{tonn produkt}) \\cdot \\left(\\frac{\\text{utslipp fra elektrisitet}}{\\text{direkte utslipp + utslipp fra elektrisitet}}\\right) \\div 0,376\\:(\\text{tonn CO}_{2}/MWh)$$
+Forordning [(EU) 2019/331](eu/32019r0331) om tildeling av vederlagsfrie kvoter for perioden 2021–2030 som er tatt inn i [forskrift 23. desember 2004 nr. 1851 om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteforskriften) § 4-1](forskrift/2004-12-23-1851/§4-1) definerer produkter med mulighet for veksling mellom brensel og elektrisitet. For disse produktene skal energieffektivitetsstandarden beregnes ved bruk av følgende formel:
+
+$$\\small\\text{Energieffektivitetsstandard} = \\text{US } (\\text{tonn CO}_{2}/\\text{tonn produkt}) \\cdot \\left(\\frac{\\text{utslipp fra elektrisitet}}{\\text{direkte utslipp + utslipp fra elektrisitet}}\\right) \\div 0,376\\:(\\text{tonn CO}_{2}/MWh)$$
 
 US: Utslippsstandard for relevant produkt angitt i [vedlegg I](forskrift/2024-12-19-3395/vedleggI) del 2 i forordning [(EU) 2021/447](eu/32021r0447) om reviderte utslippsstandarder for perioden 2021–2025 som er tatt inn i [klimakvoteforskriften § 4-1 fjerde ledd](forskrift/2004-12-23-1851/§4-1/ledd/4).
 
@@ -199,7 +224,9 @@ Direkte utslipp: Utslipp (angitt i tonn CO2) fra støtteberettiget produksjon i 
 
 ### Energieffektivitetsstandarder for utvalgte støtteberettigede produkter og alternativstandard
 
-Tabell 1 viser standardverdier og årlig reduksjonsrate som skal benyttes ved beregning av energieffektivitetsstandard for det aktuelle støtteåret for et definerte produkter. For støtteberettigede produkter angitt i [§ 4](forskrift/2024-12-19-3395/§4) der det ikke er angitt en standardverdi i tabell 1 skal det benyttes en alternativstandard på 0,8 for 2021 med årlig reduksjonsrate på 1,09. Energieffektivitetsstandardene og alternativstandarden skal reduseres med en årlig reduksjonsrate etter følgende formel: $$\\text{Energieffektivitetsstandard}/\\text{alternativstandard for år x} = \\text{standard i 2021} \\cdot (1 + \\text{årlig reduksjonsrate})^{(år\\:x\\: -\\: 2021)}$$
+Tabell 1 viser standardverdier og årlig reduksjonsrate som skal benyttes ved beregning av energieffektivitetsstandard for det aktuelle støtteåret for et definerte produkter. For støtteberettigede produkter angitt i [§ 4](forskrift/2024-12-19-3395/§4) der det ikke er angitt en standardverdi i tabell 1 skal det benyttes en alternativstandard på 0,8 for 2021 med årlig reduksjonsrate på 1,09. Energieffektivitetsstandardene og alternativstandarden skal reduseres med en årlig reduksjonsrate etter følgende formel:
+
+$$\\text{Energieffektivitetsstandard}/\\text{alternativstandard for år x} = \\text{standard i 2021} \\cdot (1 + \\text{årlig reduksjonsrate})^{(år\\:x\\: -\\: 2021)}$$
 
 *Tabell 1. Energieffektivitetsstandarder for utvalgte støtteberettigede produkter*
 

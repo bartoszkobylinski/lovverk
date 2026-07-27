@@ -28,7 +28,11 @@ Forskriften gjelder for norske skip og lektere som frakter last, unntatt flytend
 
 ## § 2. Krav ved føring av last
 
-For skip i utenriksfart gjelder som forskriftDen internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) konsolidert utgave 2020 kapittel VI.International Maritime Solid Bulk Cargoes Code (IMSBC-koden), jf. MSC.539 (107).The International Code for the Safe Carriage of Grain in Bulk (Korn-koden), jf. MSC.23(59), som endret ved MSC.552(108).
+For skip i utenriksfart gjelder som forskrift
+
+1. Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) konsolidert utgave 2020 kapittel VI.
+2. International Maritime Solid Bulk Cargoes Code (IMSBC-koden), jf. MSC.539 (107).
+3. The International Code for the Safe Carriage of Grain in Bulk (Korn-koden), jf. MSC.23(59), som endret ved MSC.552(108).
 
 Første ledd gjelder tilsvarende for lasteskip og lektere i innenriksfart.
 
@@ -46,7 +50,10 @@ Skip i innenriksfart og lektere kan unnlate å følge kravene etter [SOLAS](trak
 
 Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene er likeverdige med forskriftens krav.
 
-Sjøfartsdirektoratet kan unnta skip i innenriksfart, lektere i innenriks- og utenriksfart og skip som unntaksvis må foreta en enkelt internasjonal sjøreise, fra ett eller flere av kravene i forskriften, når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og unntaket anses sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan unnta skip i innenriksfart, lektere i innenriks- og utenriksfart og skip som unntaksvis må foreta en enkelt internasjonal sjøreise, fra ett eller flere av kravene i forskriften, når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:
+
+1. Det godtgjøres at kravet ikke er vesentlig og unntaket anses sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 ## § 5. Ikrafttredelse
 

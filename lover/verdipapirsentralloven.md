@@ -15,7 +15,7 @@ xml_hash: "0a03dd5eede9d48828e9f274bcfb387c080bfb4bb69d0d8874dcb1fa5f657450"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32014R0909"
@@ -58,7 +58,18 @@ Styremedlemmer, daglig leder og andre som deltar i den faktiske ledelsen i en ve
 
 ### § 2-2. Verdipapirsentralenes utfyllende regelverk mv.
 
-En verdipapirsentral skal fastsette og offentliggjøre et utfyllende regelverk for virksomheten som blant annet kan angi:hvem som skal anses som utsteder av et finansielt instrumentnærmere regler om innføring av finansielle instrumenter i verdipapirsentralen og om fremgangsmåten der et finansielt instrument ikke lenger skal være innførtat det må opprettes egne kontoer for bestemte formålkrav til hvordan den registreringsberettigede skal dokumentere sin identitetkrav til endringsmeldinger og beholdningsoversikterat kontohavere og utstedere selv kan foreta registreringer i registeret og hvilke registreringer de kan utføreat registreringer på en konto kan foretas av andre kontoførere enn kontoføreren for den aktuelle kontoen eller for det finansielle instrumentetnærmere regler om kontoførere og deres plikter, herunder krav til kompetanse, tekniske systemer og kapital, adgang til å utkontraktere oppgaver, hvordan kontoførerne skal oppfylle plikten til å opprette konto etter [§ 4-2](lov/2019-03-15-6/§4-2), at bekreftelser som nevnt i [§ 4-3](lov/2019-03-15-6/§4-3) annet ledd skal innhentes av kontoførerne, tilbakekall av tillatelse til å være kontofører og hvordan kundenes interesser skal ivaretas ved tilbakekallat bestemmelsene i verdipapirsentralforordningen artikkel 37 nr. 2 om avstemming mot andre enheter og artikkel 34 nr. 5 om plikt til å gi opplysninger til kundene om risikoene som er knyttet til tjenestene med videre, skal gjelde tilsvarende for kontoførernehvordan det skal dokumenteres at noen er berettiget til innsyn i opplysninger etter [kapittel 8](lov/2019-03-15-6/kap8).
+En verdipapirsentral skal fastsette og offentliggjøre et utfyllende regelverk for virksomheten som blant annet kan angi:
+
+1. hvem som skal anses som utsteder av et finansielt instrument
+2. nærmere regler om innføring av finansielle instrumenter i verdipapirsentralen og om fremgangsmåten der et finansielt instrument ikke lenger skal være innført
+3. at det må opprettes egne kontoer for bestemte formål
+4. krav til hvordan den registreringsberettigede skal dokumentere sin identitet
+5. krav til endringsmeldinger og beholdningsoversikter
+6. at kontohavere og utstedere selv kan foreta registreringer i registeret og hvilke registreringer de kan utføre
+7. at registreringer på en konto kan foretas av andre kontoførere enn kontoføreren for den aktuelle kontoen eller for det finansielle instrumentet
+8. nærmere regler om kontoførere og deres plikter, herunder krav til kompetanse, tekniske systemer og kapital, adgang til å utkontraktere oppgaver, hvordan kontoførerne skal oppfylle plikten til å opprette konto etter [§ 4-2](lov/2019-03-15-6/§4-2), at bekreftelser som nevnt i [§ 4-3](lov/2019-03-15-6/§4-3) annet ledd skal innhentes av kontoførerne, tilbakekall av tillatelse til å være kontofører og hvordan kundenes interesser skal ivaretas ved tilbakekall
+9. at bestemmelsene i verdipapirsentralforordningen artikkel 37 nr. 2 om avstemming mot andre enheter og artikkel 34 nr. 5 om plikt til å gi opplysninger til kundene om risikoene som er knyttet til tjenestene med videre, skal gjelde tilsvarende for kontoførerne
+10. hvordan det skal dokumenteres at noen er berettiget til innsyn i opplysninger etter [kapittel 8](lov/2019-03-15-6/kap8).
 
 Regelverket og senere endringer i regelverket skal godkjennes av Finanstilsynet. Finanstilsynet skal avgjøre søknader om godkjennelse av endringer i regelverket senest tre måneder etter at fullstendig søknad er mottatt.
 
@@ -182,7 +193,14 @@ Bruk av kontoførere er ikke til hinder for at verdipapirsentralen selv forestå
 
 ### § 6-2. Tillatelse til å være kontofører mv.
 
-En verdipapirsentral kan gi følgende foretak tillatelse til å være kontofører:Norges Bank og andre sentralbankerverdipapirsentraler med tillatelse eller anerkjennelse etter verdipapirsentralforordningensentrale motparter med tillatelse etter forordning [(EU) nr. 648/2012](eu/32012r0648)verdipapirforetak med tillatelse etter direktiv [2014/65/EU](eu/32014l0065*)banker eller kredittforetak med tillatelse etter direktiv [2013/36/EU](eu/32013l0036*)forvaltningsselskap for verdipapirfond med tillatelse etter direktiv [2009/65/EF](eu/32009l0065).
+En verdipapirsentral kan gi følgende foretak tillatelse til å være kontofører:
+
+1. Norges Bank og andre sentralbanker
+2. verdipapirsentraler med tillatelse eller anerkjennelse etter verdipapirsentralforordningen
+3. sentrale motparter med tillatelse etter forordning [(EU) nr. 648/2012](eu/32012r0648)
+4. verdipapirforetak med tillatelse etter direktiv [2014/65/EU](eu/32014l0065*)
+5. banker eller kredittforetak med tillatelse etter direktiv [2013/36/EU](eu/32013l0036*)
+6. forvaltningsselskap for verdipapirfond med tillatelse etter direktiv [2009/65/EF](eu/32009l0065).
 
 Verdipapirsentralen kan bare avslå en søknad om tillatelse til å bli kontofører hvis søkeren ikke oppfyller kravene som stilles i lov, forskrift eller verdipapirsentralens regelverk. Verdipapirsentralen skal gi søkeren en skriftlig begrunnelse for avslaget.
 
@@ -192,7 +210,12 @@ Departementet kan i forskrift gi nærmere regler om kontoførere og deres plikte
 
 Kontoføreren har ansvar for at verdipapirkontoene og de finansielle instrumentene som vedkommende er kontofører for, til enhver tid oppfyller de krav som følger av lov, forskrift og verdipapirsentralens regelverk. Reglene i [§§ 5-1](lov/2019-03-15-6/§5-1) til [5-4](lov/2019-03-15-6/§5-4) om registrering av rettigheter til finansielle instrumenter med videre gjelder tilsvarende for kontoførere som mottar begjæringer om registrering.
 
-Kontoførerne skal oppfylle følgende bestemmelser i verdipapirsentralforordningen for kontoene og de finansielle instrumentene som vedkommende er kontofører for:artikkel 36 om verdipapirutstedelsers integritet med videreartikkel 37 nr. 3 om forbud mot å skape finansielle instrumenter med videreartikkel 38 nr. 5 om plikt til å tilby ulike kontotyperartikkel 38 nr. 6 om plikt til å informere om beskyttelsesnivåene og kostnadene ved ulike kontotyper og til å tilby disse på rimelige forretningsmessige vilkår.
+Kontoførerne skal oppfylle følgende bestemmelser i verdipapirsentralforordningen for kontoene og de finansielle instrumentene som vedkommende er kontofører for:
+
+1. artikkel 36 om verdipapirutstedelsers integritet med videre
+2. artikkel 37 nr. 3 om forbud mot å skape finansielle instrumenter med videre
+3. artikkel 38 nr. 5 om plikt til å tilby ulike kontotyper
+4. artikkel 38 nr. 6 om plikt til å informere om beskyttelsesnivåene og kostnadene ved ulike kontotyper og til å tilby disse på rimelige forretningsmessige vilkår.
 
 Kontoførerne skal oppbevare dokumentasjon om grunnlaget for registreringer i registeret i minimum ti år.
 
@@ -216,7 +239,15 @@ Kontoførerne skal gi verdipapirsentralen de opplysninger som verdipapirsentrale
 
 ### § 6-6. Tilbakekall av tillatelse til å være kontofører
 
-Verdipapirsentralen kan kalle tilbake en kontoførers tillatelse etter [§ 6-2](lov/2019-03-15-6/§6-2) helt eller delvis dersom kontoføreren:ikke lenger oppfyller kravene for å være kontofører som er fastsatt i lov, forskrift, verdipapirsentralens regelverk eller tillatelsenikke tar tillatelsen i bruk innen 12 måneder fra den ble gitt, gir uttrykkelig avkall på tillatelsen eller ikke har drevet virksomhet som kontofører de siste seks månedenehar fått tillatelse til å være kontofører ved hjelp av uriktige eller mangelfulle opplysninger av vesentlig betydningvesentlig eller gjentatte ganger har overtrådt lov, forskrift eller verdipapirsentralens regelverker besluttet oppløst eller avviklet, ikke klarer å oppfylle sine forpliktelser etter hvert som de forfaller, er under gjeldsforhandling, tvangsakkord eller konkursbehandling eller det er fattet vedtak om krisehåndtering av foretaketikke gir verdipapirsentralen de opplysninger den trenger for å utføre sine oppgaver etter lov eller forskriftikke oppfyller opplysningsplikten overfor eller pålegg om retting fra Finanstilsynet.
+Verdipapirsentralen kan kalle tilbake en kontoførers tillatelse etter [§ 6-2](lov/2019-03-15-6/§6-2) helt eller delvis dersom kontoføreren:
+
+1. ikke lenger oppfyller kravene for å være kontofører som er fastsatt i lov, forskrift, verdipapirsentralens regelverk eller tillatelsen
+2. ikke tar tillatelsen i bruk innen 12 måneder fra den ble gitt, gir uttrykkelig avkall på tillatelsen eller ikke har drevet virksomhet som kontofører de siste seks månedene
+3. har fått tillatelse til å være kontofører ved hjelp av uriktige eller mangelfulle opplysninger av vesentlig betydning
+4. vesentlig eller gjentatte ganger har overtrådt lov, forskrift eller verdipapirsentralens regelverk
+5. er besluttet oppløst eller avviklet, ikke klarer å oppfylle sine forpliktelser etter hvert som de forfaller, er under gjeldsforhandling, tvangsakkord eller konkursbehandling eller det er fattet vedtak om krisehåndtering av foretaket
+6. ikke gir verdipapirsentralen de opplysninger den trenger for å utføre sine oppgaver etter lov eller forskrift
+7. ikke oppfyller opplysningsplikten overfor eller pålegg om retting fra Finanstilsynet.
 
 Beslutninger om tilbakekall etter første ledd skal behandles etter reglene om behandling av klager fastsatt i medhold av verdipapirsentralforordningen artikkel 32 nr. 2.
 
@@ -290,7 +321,13 @@ Reglene i første ledd gjelder tilsvarende for kontoførere og andre som utføre
 
 ### § 8-3. Innsynsrett
 
-Uten hinder av taushetsplikten etter [§ 8-1](lov/2019-03-15-6/§8-1) gjelder følgende om rett til å få opplysninger fra en verdipapirsentral:En kontohaver har rett til å få alle opplysninger som er registrert på verdipapirkontoen.En panthaver eller rettighetshaver til en annen begrenset rettighet registrert på en verdipapirkonto har rett til å få alle opplysninger som er registrert på kontoen som kan ha betydning for rettigheten.Tingretten og namsfogden har rett til å få opplyst hvilke registrerte finansielle instrumenter som tilhører en saksøkt, en skyldner eller en person som er fratatt rettslig handleevne, og om det er øvrige begrensede rettigheter i disse. Føreren av Konkursregisteret, retten, bostyrer og leder av gjeldsnemnd som er oppnevnt av retten, har rett til å få alle opplysninger som er registrert om en konkursskyldner eller en skyldner som er under gjeldsforhandling, eller om en avdød ved skifte av insolvent dødsbo, herunder alle opplysninger om finansielle instrumenter som er innført i verdipapirsentralen. Tilsvarende gjelder for leder av administrasjonsstyret for finansforetak oppnevnt av Finansdepartementet eller Finanstilsynet.Enhver har rett til å få opplysninger som er registrert om et finansielt instrument, med mindre noe annet følger av lov eller forskrift.Dersom noen med hjemmel i lov har krav på opplysninger og opplysningene finnes i registeret i en verdipapirsentral, har vedkommende rett til å få disse opplysningene fra verdipapirsentralen.
+Uten hinder av taushetsplikten etter [§ 8-1](lov/2019-03-15-6/§8-1) gjelder følgende om rett til å få opplysninger fra en verdipapirsentral:
+
+1. En kontohaver har rett til å få alle opplysninger som er registrert på verdipapirkontoen.
+2. En panthaver eller rettighetshaver til en annen begrenset rettighet registrert på en verdipapirkonto har rett til å få alle opplysninger som er registrert på kontoen som kan ha betydning for rettigheten.
+3. Tingretten og namsfogden har rett til å få opplyst hvilke registrerte finansielle instrumenter som tilhører en saksøkt, en skyldner eller en person som er fratatt rettslig handleevne, og om det er øvrige begrensede rettigheter i disse. Føreren av Konkursregisteret, retten, bostyrer og leder av gjeldsnemnd som er oppnevnt av retten, har rett til å få alle opplysninger som er registrert om en konkursskyldner eller en skyldner som er under gjeldsforhandling, eller om en avdød ved skifte av insolvent dødsbo, herunder alle opplysninger om finansielle instrumenter som er innført i verdipapirsentralen. Tilsvarende gjelder for leder av administrasjonsstyret for finansforetak oppnevnt av Finansdepartementet eller Finanstilsynet.
+4. Enhver har rett til å få opplysninger som er registrert om et finansielt instrument, med mindre noe annet følger av lov eller forskrift.
+5. Dersom noen med hjemmel i lov har krav på opplysninger og opplysningene finnes i registeret i en verdipapirsentral, har vedkommende rett til å få disse opplysningene fra verdipapirsentralen.
 
 Dersom noen med hjemmel i selskapslovgivning eller tilsvarende lovgivning i en annen EØS-stat har krav på å få opplysninger om eiere og andre rettighetshavere til finansielle instrumenter utstedt etter den aktuelle EØS-statens lovgivning, og opplysningene finnes i en verdipapirsentral, har vedkommende rett til å få disse opplysningene fra verdipapirsentralen. For aksjer og andre finansielle instrumenter som kan sidestilles med aksjer og som er utstedt etter lovgivningen i en stat utenfor EØS-området, har utstederen rett til å få opplysninger om hvem som eier aksjene, dersom utstederen har krav på å få opplysningene etter utstederlandets selskapslovgivning eller tilsvarende lovgivning.
 
@@ -314,7 +351,10 @@ Enhver som utfører tjeneste eller arbeid i forbindelse med forskning som en ver
 
 Opplysningene kan bare brukes til forskning og i samsvar med opplyst formål og de vilkår som måtte være fastsatt etter [§ 8-4](lov/2019-03-15-6/§8-4) annet ledd.
 
-Taushetsplikten er ikke til hinder for:at opplysningene gjøres kjent for dem som opplysningene direkte gjelder, eller for andre i den utstrekning de som har krav på taushet, samtykkerat opplysningene brukes når behovet for beskyttelse må anses ivaretatt ved at de gis i statistisk form, eller ved at individualiserende kjennetegn utelates på annen måte.
+Taushetsplikten er ikke til hinder for:
+
+1. at opplysningene gjøres kjent for dem som opplysningene direkte gjelder, eller for andre i den utstrekning de som har krav på taushet, samtykker
+2. at opplysningene brukes når behovet for beskyttelse må anses ivaretatt ved at de gis i statistisk form, eller ved at individualiserende kjennetegn utelates på annen måte.
 
 Verdipapirsentralen skal før utlevering av opplysningene gjøre mottakerne av opplysningene kjent med taushetsplikten og straffebestemmelsene i [straffeloven §§ 209](lov/2005-05-20-28/§209) og [210](lov/2005-05-20-28/§210). Verdipapirsentralen kan kreve skriftlig erklæring om at mottakerne av opplysningene kjenner til reglene og vil overholde taushetsplikten.
 
@@ -374,7 +414,12 @@ Godkjente vedtak etter første og annet ledd skal offentliggjøres i Brønnøysu
 
 ### § 10-2. Melding til Finanstilsynet
 
-Styret og daglig leder har hver for seg plikt til å melde fra til Finanstilsynet hvis det er grunn til å frykte at verdipapirsentralen i nær fremtid ikke vil kunne:oppfylle krav fastsatt i eller i medhold av loven herutføre sine kjernefunksjoneroppfylle sine forpliktelser etter hvert som de forfaller, elleropprettholde virksomheten, på grunn av alvorlig tillitssvikt, tap som vesentlig kan svekke eller true soliditeten, eller andre inntrådte forhold.
+Styret og daglig leder har hver for seg plikt til å melde fra til Finanstilsynet hvis det er grunn til å frykte at verdipapirsentralen i nær fremtid ikke vil kunne:
+
+1. oppfylle krav fastsatt i eller i medhold av loven her
+2. utføre sine kjernefunksjoner
+3. oppfylle sine forpliktelser etter hvert som de forfaller, eller
+4. opprettholde virksomheten, på grunn av alvorlig tillitssvikt, tap som vesentlig kan svekke eller true soliditeten, eller andre inntrådte forhold.
 
 Hvis verdipapirsentralens revisor blir kjent med forhold nevnt i første ledd, skal denne gi slik melding til Finanstilsynet som nevnt i første ledd, med mindre vedkommende har fått bekreftelse fra Finanstilsynet på at slik melding allerede er gitt.
 
@@ -466,7 +511,15 @@ Departementet kan i forskrift gi nærmere regler om utmåling av overtredelsesge
 
 ### § 11-10. Vurderingsmomenter for forbud mot å ha ledelsesfunksjon og vedtak om overtredelsesgebyr
 
-Ved vurderingen av om det skal nedlegges forbud mot å ha ledelsesfunksjon etter [§ 11-8](lov/2019-03-15-6/§11-8) eller ilegges overtredelsesgebyr etter [§ 11-9](lov/2019-03-15-6/§11-9), kan det blant annet tas hensyn til:overtredelsens grovhet og varighetgraden av skyld hos overtrederenovertrederens økonomiske evne, slik den fremgår av for eksempel et foretaks samlede omsetning eller av en ansvarlig fysisk persons årsinntektfordeler som er oppnådd eller tap som er unngått som følge av overtredelsentredjeparters tapgraden av samarbeid med myndighetenetidligere overtredelser begått av personen som er ansvarlig for overtredelsen.
+Ved vurderingen av om det skal nedlegges forbud mot å ha ledelsesfunksjon etter [§ 11-8](lov/2019-03-15-6/§11-8) eller ilegges overtredelsesgebyr etter [§ 11-9](lov/2019-03-15-6/§11-9), kan det blant annet tas hensyn til:
+
+1. overtredelsens grovhet og varighet
+2. graden av skyld hos overtrederen
+3. overtrederens økonomiske evne, slik den fremgår av for eksempel et foretaks samlede omsetning eller av en ansvarlig fysisk persons årsinntekt
+4. fordeler som er oppnådd eller tap som er unngått som følge av overtredelsen
+5. tredjeparters tap
+6. graden av samarbeid med myndighetene
+7. tidligere overtredelser begått av personen som er ansvarlig for overtredelsen.
 
 De samme momentene kan hensyntas ved utmålingen av overtredelsesgebyr.
 

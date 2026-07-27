@@ -15,7 +15,7 @@ xml_hash: "d653fd3253849c3cfcf89bf8e1216dfe6c32c3e7dd14c8009c091a57e0fa947f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,13 +58,33 @@ Dette gjelder selv om krav på kringkastingsavgiften ikke er mottatt av årsaker
 
 ## § 4. Flere mottakere på ett kringkastingskort
 
-Det må betales kringkastingsavgift for hver enkelt mottaker (herunder avgreninger til separate skjermer). Unntak fra dette gjøres i følgende tilfeller:Mottakere som bare brukes av kortinnehavere/avgiftsbetaleren selv og ektefellen, eller av øvrige husstandsmedlemmer som helt forsørges av han/henne, forutsatt at mottakerne er plassert i boligen (herunder hytte eller landsted o.l.) eller bringes med til midlertidig opphold utenfor hjemmet. Den som har trygd, føderåd eller studielån, regnes ikke som forsørget av andre.Det skal kun betales én kringkastingsavgift pr. institusjon for fjernsynsmottakere på følgende institusjoner:sykehusaldershjem, sykehjem og kombinerte alders-/sykehjem, forutsatt at hjemmet har felles husholdning,barnehjem,asylmottak,andre institusjoner av lignende art når særlige grunner foreligger,fengsler,barnehager, grunnskoler og videregående skoler, såfremt mottakerne bare skal brukes i undervisningen.Unntakene i denne bestemmelsen gjelder ikke for fjernsynsmottakere som brukes av de ansatte.For fjernsynsmottakere ombord i norske skip (også fiskefartøyer) må det betales kringkastingsavgift uansett hvor de befinner seg. Det er tilstrekkelig med ett kort i skipets navn. Samme bestemmelse gjelder for borerigger eller lignende.Hoteller o.l. som har flere enn én fjernsynsmottaker, kan ha inntil 10 mottakere på hvert kringkastingskort for fargefjernsyn, når mottakerne er plassert på hotellrom som bare brukes av tilfeldige gjester. For alle andre mottakere må det for hver løses kringkastingskort for svart/hvitt eller fargefjernsynsmottakere.
+Det må betales kringkastingsavgift for hver enkelt mottaker (herunder avgreninger til separate skjermer). Unntak fra dette gjøres i følgende tilfeller:
+
+1. Mottakere som bare brukes av kortinnehavere/avgiftsbetaleren selv og ektefellen, eller av øvrige husstandsmedlemmer som helt forsørges av han/henne, forutsatt at mottakerne er plassert i boligen (herunder hytte eller landsted o.l.) eller bringes med til midlertidig opphold utenfor hjemmet. Den som har trygd, føderåd eller studielån, regnes ikke som forsørget av andre.
+2. Det skal kun betales én kringkastingsavgift pr. institusjon for fjernsynsmottakere på følgende institusjoner:
+
+   1. sykehus
+   2. aldershjem, sykehjem og kombinerte alders-/sykehjem, forutsatt at hjemmet har felles husholdning,
+   3. barnehjem,
+   4. asylmottak,
+   5. andre institusjoner av lignende art når særlige grunner foreligger,
+   6. fengsler,
+   7. barnehager, grunnskoler og videregående skoler, såfremt mottakerne bare skal brukes i undervisningen.
+
+   Unntakene i denne bestemmelsen gjelder ikke for fjernsynsmottakere som brukes av de ansatte.
+3. For fjernsynsmottakere ombord i norske skip (også fiskefartøyer) må det betales kringkastingsavgift uansett hvor de befinner seg. Det er tilstrekkelig med ett kort i skipets navn. Samme bestemmelse gjelder for borerigger eller lignende.
+4. Hoteller o.l. som har flere enn én fjernsynsmottaker, kan ha inntil 10 mottakere på hvert kringkastingskort for fargefjernsyn, når mottakerne er plassert på hotellrom som bare brukes av tilfeldige gjester. For alle andre mottakere må det for hver løses kringkastingskort for svart/hvitt eller fargefjernsynsmottakere.
 
 > Endret ved [forskrift 22 mai 2009 nr. 626](forskrift/2009-05-22-626) (i kraft 1 jan 2010).
 
 ## § 5. Fritak for kringkastingsavgift (frilisens)
 
-1. Norsk rikskringkasting AS kan gi dispensasjon for kringkastingsavgift for ett år om gangen til:utenlandske diplomatiske tjenestemenn, utsendte konsulære tjenestemenn og utsendte ikke diplomatiske funksjonærer ved utenlandske misjoner,medlemmer av NRKs kringkastingsråd og – på visse vilkår – tjenestemenn i NRK,personer i tilsvarende funksjon som er nevnt under bokstavene a) og b) og som av særlige grunner bør gis dispensasjon,personer som varig er sterkt funksjonshemmet slik at det er vanskelig for dem å bevege seg utenfor boligen eller å få kontakt med andre, og som ikke har økonomisk evne til å betale kringkastingsavgiften selv. Dersom søkeren tilhører en husstand, er det et vilkår at heller ikke andre av husstanden har økonomisk evne til å betale avgiften,
+1. Norsk rikskringkasting AS kan gi dispensasjon for kringkastingsavgift for ett år om gangen til:
+
+   1. utenlandske diplomatiske tjenestemenn, utsendte konsulære tjenestemenn og utsendte ikke diplomatiske funksjonærer ved utenlandske misjoner,
+   2. medlemmer av NRKs kringkastingsråd og – på visse vilkår – tjenestemenn i NRK,
+   3. personer i tilsvarende funksjon som er nevnt under bokstavene a) og b) og som av særlige grunner bør gis dispensasjon,
+   4. personer som varig er sterkt funksjonshemmet slik at det er vanskelig for dem å bevege seg utenfor boligen eller å få kontakt med andre, og som ikke har økonomisk evne til å betale kringkastingsavgiften selv. Dersom søkeren tilhører en husstand, er det et vilkår at heller ikke andre av husstanden har økonomisk evne til å betale avgiften,
 2. Unntatt fra avgiftsplikt er videre personer som er bosatt i utlandet og som besøker Norge og har fjernsynsmottaker med seg eller skaffer seg mottaker, når oppholdet i Norge ikke blir lenger enn 3 måneder.
 3. Sjøfolk i utenriks fart, fredskorpsdeltakere og tilsvarende kan under opphold i Norge i inntil 3 måneder pr. år fritas for å betale kringkastingsavgift for mottaker som ellers ikke er i bruk.
 

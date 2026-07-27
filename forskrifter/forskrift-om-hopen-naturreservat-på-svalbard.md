@@ -15,7 +15,7 @@ xml_hash: "e9de4d6a0aea65f897eb2265331b9780d3c16b61f1fd44ac311d26c76ec69ebd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ eu_basis: []
 
 ## § 2. Avgrensning og omfang
 
-Det fredete området omfatter;hele øya, med unntak av et mindre landareal omkring stasjonen på østsiden av øyatilliggende territorialfarvann.
+Det fredete området omfatter;
+
+- hele øya, med unntak av et mindre landareal omkring stasjonen på østsiden av øya
+- tilliggende territorialfarvann.
 
 Naturreservatet utgjør ca. 46 km2 landareal og ca. 3.208 km2 marint areal og berører gårdsnummer 1.
 
@@ -40,7 +43,13 @@ Fredningsforskriften med kart skal oppbevares hos Sysselmesteren på Svalbard, i
 
 ## § 3. Formål
 
-Formålet med fredningen er å bevare en tilnærmet urørt arktisk øy med tilgrensende sjøområder, inkludert havbunnen, og herunder spesielt sikre:øya som et svært viktig hi-, trekk- og næringsområde for isbjørnøya som et viktig hekkeområde for sjøfuglden nære sammenhengen mellom livet i havet og på landkarakteristiske landformerområdet som et område med vitenskapelig verdi.
+Formålet med fredningen er å bevare en tilnærmet urørt arktisk øy med tilgrensende sjøområder, inkludert havbunnen, og herunder spesielt sikre:
+
+- øya som et svært viktig hi-, trekk- og næringsområde for isbjørn
+- øya som et viktig hekkeområde for sjøfugl
+- den nære sammenhengen mellom livet i havet og på land
+- karakteristiske landformer
+- området som et område med vitenskapelig verdi.
 
 ## § 4. Fredningsbestemmelser
 
@@ -52,7 +61,9 @@ Det må ikke iverksettes virksomhet som kan påvirke landskap eller naturmiljø,
 
 1.2
 
-Bestemmelsen i pkt. 1.1 er ikke til hinder for;bruk av tillatte fiske- og fangstredskaper.
+Bestemmelsen i pkt. 1.1 er ikke til hinder for;
+
+- bruk av tillatte fiske- og fangstredskaper.
 
 2.*Planter og dyr*
 
@@ -66,7 +77,12 @@ Plante- eller dyrearter, herunder genmodifiserte arter og former, må ikke innf�
 
 2.3
 
-Bestemmelsen i pkt. 2.1 er ikke til hinder for;fiske etter saltvannsfisk og krepsdyr, samt fangst av sjøpattedyr som ikke er stedegne på Svalbard i henhold til regler gitt av Fiskeridepartementetsanking av sopp til eget brukinnsamling av flora til forskning eller undervisning dersom det ikke gjør vesentlig inngrep i bestanden på stedetbruk av drivtømmer til brensel på stasjonen og til vedlikehold av og brensel til eksisterende hytter på øya og til mindre bål på stedet.
+Bestemmelsen i pkt. 2.1 er ikke til hinder for;
+
+- fiske etter saltvannsfisk og krepsdyr, samt fangst av sjøpattedyr som ikke er stedegne på Svalbard i henhold til regler gitt av Fiskeridepartementet
+- sanking av sopp til eget bruk
+- innsamling av flora til forskning eller undervisning dersom det ikke gjør vesentlig inngrep i bestanden på stedet
+- bruk av drivtømmer til brensel på stasjonen og til vedlikehold av og brensel til eksisterende hytter på øya og til mindre bål på stedet.
 
 3.*Kulturminner*
 
@@ -78,7 +94,10 @@ Kulturminnene i området reguleres av [svalbardmiljølovens kapittel V](lov/2001
 
 All ferdsel skal foregå på en måte som ikke skader eller på annen måte forringer naturmiljøet eller kulturminner eller fører til unødig forstyrrelse av mennesker eller dyreliv.
 
-Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet. Det skal holdes tilstrekkelig avstand til;dyrelivet for å unngå unødige forstyrrelserfredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
+Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet. Det skal holdes tilstrekkelig avstand til;
+
+- dyrelivet for å unngå unødige forstyrrelser
+- fredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
 
 4.2
 
@@ -122,13 +141,24 @@ Det er forbudt å bruke ubemannede luftfartøy (droner) og andre fjernstyrte ell
 
 ## § 5. Generelt unntak
 
-Bestemmelsene i [§ 4](forskrift/2003-09-26-1185/§4) er ikke til hinder for;utrykning for brann-, politi- eller redningstjeneste og oppsyn eller tilsyn etter [svalbardmiljøloven § 77](lov/2001-06-15-79/§77) og [§ 87](lov/2001-06-15-79/§87)bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2003-09-26-1185/§4) punkt 6 til samme formål som nevnt i strekpunktet over og til bruk i forvaltningsmyndighetens oppgaver.
+Bestemmelsene i [§ 4](forskrift/2003-09-26-1185/§4) er ikke til hinder for;
+
+- utrykning for brann-, politi- eller redningstjeneste og oppsyn eller tilsyn etter [svalbardmiljøloven § 77](lov/2001-06-15-79/§77) og [§ 87](lov/2001-06-15-79/§87)
+- bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2003-09-26-1185/§4) punkt 6 til samme formål som nevnt i strekpunktet over og til bruk i forvaltningsmyndighetens oppgaver.
 
 > Endret ved forskrift [9 feb 2024 nr. 230](forskrift/2024-02-09-230) (i kraft 1 jan 2025).
 
 ## § 6. Dispensasjoner/tillatelser
 
-Forvaltningsmyndigheten kan, innenfor svalbardmiljølovens rammer, gi tillatelse til;ombygging og mindre tilbygg til eksisterende bygningergjenoppbygging av bygninger som er ødelagt ved brann eller naturkatastrofelanding med luftfartøy i forbindelse med tilsyn, vedlikehold og drift av fyrlykter og andre offentlige navigasjonsmidlerferdsel med snøscooter på frossen og snødekt mark for transport av forsyninger til stasjonen, dersom værforholdene medfører at skip må anløpe annet sted ved øya enn ved stasjonennødvendig transport i forbindelse med vedlikehold av eksisterende hytter og frakt av brensel og forsyninger til hytteneetablering av midlertidig kaianlegg utenfor stasjonsområdet i forbindelse med en eventuell letefase knyttet til petroleumsaktivitet i Barentshavet Nordbruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2003-09-26-1185/§4) punkt 6 for andre formål enn fritids- og hobbyformål.
+Forvaltningsmyndigheten kan, innenfor svalbardmiljølovens rammer, gi tillatelse til;
+
+- ombygging og mindre tilbygg til eksisterende bygninger
+- gjenoppbygging av bygninger som er ødelagt ved brann eller naturkatastrofe
+- landing med luftfartøy i forbindelse med tilsyn, vedlikehold og drift av fyrlykter og andre offentlige navigasjonsmidler
+- ferdsel med snøscooter på frossen og snødekt mark for transport av forsyninger til stasjonen, dersom værforholdene medfører at skip må anløpe annet sted ved øya enn ved stasjonen
+- nødvendig transport i forbindelse med vedlikehold av eksisterende hytter og frakt av brensel og forsyninger til hyttene
+- etablering av midlertidig kaianlegg utenfor stasjonsområdet i forbindelse med en eventuell letefase knyttet til petroleumsaktivitet i Barentshavet Nord
+- bruk av ubemannede fartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2003-09-26-1185/§4) punkt 6 for andre formål enn fritids- og hobbyformål.
 
 Utover tiltak som nevnt i første ledd kan forvaltningsmyndigheten dispensere fra fredningsbestemmelsene i [§ 4](forskrift/2003-09-26-1185/§4), når vitenskapelige eller særlige grunner for øvrig taler for det, herunder for å ivareta særskilte behov i forbindelse med rekreasjon hos den fastboende besetning på Hopen meteorologiske stasjon.
 

@@ -15,7 +15,7 @@ xml_hash: "caed46f39c9eefd01224a428d1bad25fddf4a107cd104f0ba573707eb2137080"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,16 @@ Forskriftens formål er å ivareta sikkerhet, helse og arbeidsmiljø på bygge- 
 
 ## § 2. Virkeområde
 
-Forskriften gjelder for virksomhet som utfører arbeid på bygge- og anleggsplasser.1 Med arbeid som utføres på bygge- og anleggsplasser, jf. [byggherreforskriften § 2](forskrift/2009-08-03-1028/§2), jf. [§ 4](forskrift/2009-08-03-1028/§4), menes:oppføring av bygningerinnrednings-, utsmykkings- og installasjonsarbeidmontering og demontering av prefabrikkerte elementerriving, demontering, ombygging og istandsettingsanering og vedlikeholdalminnelig anleggsvirksomhetgraving, sprengning og annet grunnarbeidannet arbeid som utføres i tilknytning til bygge- eller anleggsarbeid.
+Forskriften gjelder for virksomhet som utfører arbeid på bygge- og anleggsplasser.1 Med arbeid som utføres på bygge- og anleggsplasser, jf. [byggherreforskriften § 2](forskrift/2009-08-03-1028/§2), jf. [§ 4](forskrift/2009-08-03-1028/§4), menes:
+
+1. oppføring av bygninger
+2. innrednings-, utsmykkings- og installasjonsarbeid
+3. montering og demontering av prefabrikkerte elementer
+4. riving, demontering, ombygging og istandsetting
+5. sanering og vedlikehold
+6. alminnelig anleggsvirksomhet
+7. graving, sprengning og annet grunnarbeid
+8. annet arbeid som utføres i tilknytning til bygge- eller anleggsarbeid.
 
 > Endret ved [forskrift 3 mai 2011 nr. 438](forskrift/2011-05-03-438) (i kraft 1 juni 2011).
 
@@ -36,7 +45,13 @@ Forskriften gjelder for virksomhet som utfører arbeid på bygge- og anleggsplas
 
 ## § 3. Vilkår for utstedelse av HMS-kort i bygge- og anleggsbransjen
 
-Det er et vilkår for utstedelse av HMS-kort at pålagt registreringsplikt til ett eller flere av følgende offentlige registre er oppfylt:EnhetsregisteretDet sentrale folkeregisterMerverdiavgiftsregisteretArbeidstaker- og arbeidsgiverregisteretOpplysningsplikten til Sentralskattekontoret for utenlandssaker i henhold til [skatteforvaltningsloven § 7-6](lov/2016-05-27-14/§7-6).
+Det er et vilkår for utstedelse av HMS-kort at pålagt registreringsplikt til ett eller flere av følgende offentlige registre er oppfylt:
+
+- Enhetsregisteret
+- Det sentrale folkeregister
+- Merverdiavgiftsregisteret
+- Arbeidstaker- og arbeidsgiverregisteret
+- Opplysningsplikten til Sentralskattekontoret for utenlandssaker i henhold til [skatteforvaltningsloven § 7-6](lov/2016-05-27-14/§7-6).
 
 Bemanningsforetak, jf. [forskrift 4. juni 2008 nr. 541](forskrift/2008-06-04-541) om bemanningsforetak [§ 1](forskrift/2008-06-04-541/§1), som driver utleie av arbeidstakere innenfor denne forskriftens virkeområde, skal i tillegg være registrert i Arbeidstilsynets register over bemanningsforetak.
 
@@ -76,7 +91,16 @@ Kortutsteder skal opprette og føre et register over alle utstedte kort, med til
 
 ## § 7. Krav til opplysninger på HMS-kortet
 
-HMS-kortet skal inneholde følgende opplysninger på norsk og engelsk:navn på arbeidsgiver eller enkeltpersonforetakorganisasjonsnummer for registreringspliktige virksomheternavn på kortinnehaverenbilde av kortinnehaverenkortinnehaverens fødselsdatoutstedelsesdatokortnummernavn på utsteder av kortet.
+HMS-kortet skal inneholde følgende opplysninger på norsk og engelsk:
+
+1. navn på arbeidsgiver eller enkeltpersonforetak
+2. organisasjonsnummer for registreringspliktige virksomheter
+3. navn på kortinnehaveren
+4. bilde av kortinnehaveren
+5. kortinnehaverens fødselsdato
+6. utstedelsesdato
+7. kortnummer
+8. navn på utsteder av kortet.
 
 > Endret ved [forskrifter 3 mai 2011 nr. 438](forskrift/2011-05-03-438) (i kraft 1 juni 2011, tidligere § 4), [1 juli 2015 nr. 852](forskrift/2015-07-01-852), [20 des 2019 nr. 2085](forskrift/2019-12-20-2085) (i kraft 1 jan 2020).
 

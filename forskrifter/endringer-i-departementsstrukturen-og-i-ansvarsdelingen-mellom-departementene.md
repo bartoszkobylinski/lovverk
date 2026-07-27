@@ -23,7 +23,13 @@ eu_basis: []
 # Endringer i departementsstrukturen og i ansvarsdelingen mellom departementene
 
 1. Arbeids- og sosialdepartementet endrer navn til Arbeids- og inkluderingsdepartementet. Forkortelsen er AID. Arbeids- og inkluderingsdepartementet overtar Integreringsavdelingen i Kunnskapsdepartementet.
-2. Nærings- og fiskeridepartementet ledes av to konstitusjonelt ansvarlige statsråder.Nærings- og fiskeridepartementet overtar Kyst- og miljøavdelingen i Samferdselsdepartementet, med unntak av de delene av avdelingen som har ansvaret for koordineringen av Samferdselsdepartementets arbeid med miljø- og klimaspørsmål. Nærings- og fiskeridepartementet overtar også ansvaret for forvaltningen av statens eierskap i Equinor ASA og Petoro AS, oppdragsstyringen av Statens direkte økonomiske engasjement i petroleumssektoren (SDØE) og avsetningsinstruksen for Equinor ASA fra Olje- og energidepartementet.Fiskeri- og havministeren har ansvaret for fiskeri- og havsaker, herunder ansvaret for fiskeri- og havbrukspolitikken, sjømatpolitikken og underliggende etater og tilknyttede virksomheter på fiskeri- og havbruksområdet. Fiskeri- og havministeren har ansvar for den maritime forsknings- og innovasjonspolitikken, prosjektet Ocean Space Centre og styret av Maritim avdeling. Fiskeri- og havministeren har også ansvaret for å koordinere satsingen på grønn skipsfart. Fiskeri- og havministeren har videre ansvaret for arbeidet med kystforvaltningen, herunder oppgaver overført til Nærings- og fiskeridepartementet fra Samferdselsdepartementet.Næringsministeren har ansvaret for alle andre ansvarsområder som hører under Nærings- og fiskeridepartementet. Næringsministeren har også det administrative ansvaret for lønns- og driftsbudsjettet for hele departementet, blant annet ansettelsessaker i departementet og i sektoren departementet har ansvaret for.
+2. Nærings- og fiskeridepartementet ledes av to konstitusjonelt ansvarlige statsråder.
+
+   Nærings- og fiskeridepartementet overtar Kyst- og miljøavdelingen i Samferdselsdepartementet, med unntak av de delene av avdelingen som har ansvaret for koordineringen av Samferdselsdepartementets arbeid med miljø- og klimaspørsmål. Nærings- og fiskeridepartementet overtar også ansvaret for forvaltningen av statens eierskap i Equinor ASA og Petoro AS, oppdragsstyringen av Statens direkte økonomiske engasjement i petroleumssektoren (SDØE) og avsetningsinstruksen for Equinor ASA fra Olje- og energidepartementet.
+
+   Fiskeri- og havministeren har ansvaret for fiskeri- og havsaker, herunder ansvaret for fiskeri- og havbrukspolitikken, sjømatpolitikken og underliggende etater og tilknyttede virksomheter på fiskeri- og havbruksområdet. Fiskeri- og havministeren har ansvar for den maritime forsknings- og innovasjonspolitikken, prosjektet Ocean Space Centre og styret av Maritim avdeling. Fiskeri- og havministeren har også ansvaret for å koordinere satsingen på grønn skipsfart. Fiskeri- og havministeren har videre ansvaret for arbeidet med kystforvaltningen, herunder oppgaver overført til Nærings- og fiskeridepartementet fra Samferdselsdepartementet.
+
+   Næringsministeren har ansvaret for alle andre ansvarsområder som hører under Nærings- og fiskeridepartementet. Næringsministeren har også det administrative ansvaret for lønns- og driftsbudsjettet for hele departementet, blant annet ansettelsessaker i departementet og i sektoren departementet har ansvaret for.
 3. Kommunal- og moderniseringsdepartementet endrer navn til Kommunal- og distriktsdepartementet. Forkortelsen er KDD.
 4. Kulturdepartementet endrer navn til Kultur- og likestillingsdepartementet. Forkortelsen er fortsatt KUD.
 5. Ved endringene har Arbeids- og inkluderingsdepartementet og de to statsrådene i Nærings- og fiskeridepartementet forvaltningsansvar for lover i samsvar med vedlegg til resolusjonen.
@@ -54,44 +60,112 @@ eu_basis: []
 - [Lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven)](lov/1957-07-06-26)
 - [Lov 12. desember 1958 nr. 10 om yrkesskadetrygd](lov/1958-12-12-10)
 - [Lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere](lov/1962-06-22-12)
-- [Lov 21. juni 1963 nr. 12 om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomster](lov/1963-06-21-12) for så vidt gjelder:[§ 2](lov/1963-06-21-12/§2) andre ledd og [§ 3](lov/1963-06-21-12/§3). Gjelder sikkerhet med henblikk på transport og lagring av CO2 i undersjøiske geologiske formasjoner på kontinentalsokkelen.
+- [Lov 21. juni 1963 nr. 12 om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomster](lov/1963-06-21-12) for så vidt gjelder:
+
+  - [§ 2](lov/1963-06-21-12/§2) andre ledd og [§ 3](lov/1963-06-21-12/§3). Gjelder sikkerhet med henblikk på transport og lagring av CO2 i undersjøiske geologiske formasjoner på kontinentalsokkelen.
 - [Lov 6. mai 1966 om pensjonsordning for Stortingets ombudsmann for forvaltningen](lov/1966-05-06)
 - [Lov 16. desember 1966 nr. 9 om anke til Trygderetten (trygderettsloven)](lov/1966-12-16-9)
 - [Lov 22. mars 1968 nr. 2 om tillegg til 1) lov om krigspensjonering for militærpersoner av 13. desember 1946 og 2) lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner av 13. desember 1946](lov/1968-03-22-2)
 - [Lov 14. desember 1973 nr. 61 om statsgaranti for lønnskrav ved konkurs m.v.](lov/1973-12-14-61)
 - [Lov 21. mai 1982 nr. 25 om tillegg til lov 28. juli 1949 om Statens pensjonskasse](lov/1982-05-21-25)
 - [Lov 21. mai 1982 nr. 29 om opphevelse av lov 9. november 1956 om pensjonsordning for åremålstilsatte](lov/1982-05-21-29)
-- [Lov 21. juni 1985 nr. 83 om ansvarlige selskaper og kommandittselskaper (selskapsloven)](lov/1985-06-21-83) for så vidt gjelder:[§ 2-10](lov/1985-06-21-83/§2-10)[§ 2-13](lov/1985-06-21-83/§2-13)
+- [Lov 21. juni 1985 nr. 83 om ansvarlige selskaper og kommandittselskaper (selskapsloven)](lov/1985-06-21-83) for så vidt gjelder:
+
+  - [§ 2-10](lov/1985-06-21-83/§2-10)
+  - [§ 2-13](lov/1985-06-21-83/§2-13)
 - [Lov 29. april 1988 nr. 21 om ferie](lov/1988-04-29-21)
 - [Lov 6. mai 1988 nr. 22 om lønnsplikt under permittering (permitteringslønnsloven)](lov/1988-05-06-22)
 - [Lov 17. februar 1989 nr. 2 om bidragsforskott (forskotteringsloven)](lov/1989-02-17-2)
-- [Lov 30. august 1991 nr. 71 om statsforetak](lov/1991-08-30-71) for så vidt gjelder:[§ 20](lov/1991-08-30-71/§20)[§ 33](lov/1991-08-30-71/§33)
+- [Lov 30. august 1991 nr. 71 om statsforetak](lov/1991-08-30-71) for så vidt gjelder:
+
+  - [§ 20](lov/1991-08-30-71/§20)
+  - [§ 33](lov/1991-08-30-71/§33)
 - [Lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven)](lov/1993-06-04-58)
 - [Lov 1. juli 1994 nr. 49 om avtalefestet pensjon for arbeidstakere med rett til medlemskap i Pensjonsordning for apotekvirksomhet mv.](lov/1994-07-01-49)
 - [Lov 23. august 1996 nr. 63 om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v.](lov/1996-08-23-63)
-- [Lov 29. november 1996 nr. 72 om petroleumsvirksomhet](lov/1996-11-29-72) for så vidt gjelder:[Kapittel 9 Særskilte krav til sikkerhet](lov/1996-11-29-72/kap9)[§ 10-1](lov/1996-11-29-72/§10-1)[§ 10-3](lov/1996-11-29-72/§10-3)[§ 10-4](lov/1996-11-29-72/§10-4)[§ 10-6](lov/1996-11-29-72/§10-6)[§ 10-10](lov/1996-11-29-72/§10-10)[§ 10-18](lov/1996-11-29-72/§10-18)
-- [Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)](lov/1997-02-28-19) for så vidt gjelder:[Kapittel 1. Formål og definisjoner m.m.](lov/1997-02-28-19/kap1)[Kapittel 2. Medlemskap](lov/1997-02-28-19/kap2)[Kapittel 3. Visse beregningsregler, trygdetid, pensjonspoeng og pensjonsgivende inntekt](lov/1997-02-28-19/kap3), med unntak av [§ 3-15](lov/1997-02-28-19/§3-15)[Kapittel 4. Dagpenger under arbeidsløshet](lov/1997-02-28-19/kap4)[Kapittel 6. Grunnstønad og hjelpestønad](lov/1997-02-28-19/kap6)[Kapittel 7. Stønad ved gravferd](lov/1997-02-28-19/kap7)[Kapittel 8. Sykepenger](lov/1997-02-28-19/kap8)[Kapittel 9. Stønad ved barns og andre nærståendes sykdom](lov/1997-02-28-19/kap9)[Kapittel 10. Stønad for å kompensere for utgifter til bedring av arbeidsevnen og funksjonsevnen i dagliglivet](lov/1997-02-28-19/kap10)[Kapittel 11. Arbeidsavklaringspenger](lov/1997-02-28-19/kap11)[Kapittel 11 A. Tilleggsstønader til arbeidsrettede tiltak](lov/1997-02-28-19/kap11a)[Kapittel 12. Uføretrygd](lov/1997-02-28-19/kap12)[Kapittel 13. Yrkesskadedekning](lov/1997-02-28-19/kap13)[Kapittel 15. Stønad til enslig mor eller far](lov/1997-02-28-19/kap15)[Kapittel 16. Ytelser til tidligere familiepleier](lov/1997-02-28-19/kap16)[Kapittel 17. Ytelser til gjenlevende ektefelle](lov/1997-02-28-19/kap17)[Kapittel 17A. Overgangsregler for gjenlevende som er innvilget ytelse før 1. januar 2023](lov/1997-02-28-19/kap17a)[Kapittel 18. Barnepensjon](lov/1997-02-28-19/kap18)[Kapittel 19. Alderspensjon](lov/1997-02-28-19/kap19)[Kapittel 20. Ny alderspensjon](lov/1997-02-28-19/kap20)[Kapittel 21. Saksbehandling i trygdesaker. Anke- og klagebehandling m.m.](lov/1997-02-28-19/kap21), med unntak av [§ 21-11a](lov/1997-02-28-19/§21-11a), [§ 21-15](lov/1997-02-28-19/§21-15) og [§ 21-16](lov/1997-02-28-19/§21-16)[Kapittel 22. Utbetaling](lov/1997-02-28-19/kap22), med unntak av [§ 22-2](lov/1997-02-28-19/§22-2), [§ 22-2a](lov/1997-02-28-19/§22-2a), [§ 22-4](lov/1997-02-28-19/§22-4), [§ 22-5](lov/1997-02-28-19/§22-5) og [§ 22-15a](lov/1997-02-28-19/§22-15a)[Kapittel 23. Finansiering](lov/1997-02-28-19/kap23), med unntak av [§ 23-2](lov/1997-02-28-19/§23-2), [§ 23-2a](lov/1997-02-28-19/§23-2a), [§ 23-3](lov/1997-02-28-19/§23-3), [§ 23-4a](lov/1997-02-28-19/§23-4a), [§ 23-5](lov/1997-02-28-19/§23-5), [§ 23-10](lov/1997-02-28-19/§23-10) og [§ 23-11](lov/1997-02-28-19/§23-11)[Kapittel 25. Forskjellige bestemmelser](lov/1997-02-28-19/kap25), med unntak av [§ 25-6](lov/1997-02-28-19/§25-6) og [§ 25-6a](lov/1997-02-28-19/§25-6a)[Kapittel 26. Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover](lov/1997-02-28-19/kap26)
-- [Lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven)](lov/1997-06-13-44) for så vidt gjelder:[§ 6-4](lov/1997-06-13-44/§6-4)[§ 6-5](lov/1997-06-13-44/§6-5)[§ 6-35](lov/1997-06-13-44/§6-35)
-- [Lov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven)](lov/1997-06-13-45) for så vidt gjelder:[§ 6-4](lov/1997-06-13-45/§6-4)[§ 6-5](lov/1997-06-13-45/§6-5)[§ 6-35](lov/1997-06-13-45/§6-35)[§ 6-37](lov/1997-06-13-45/§6-37)
+- [Lov 29. november 1996 nr. 72 om petroleumsvirksomhet](lov/1996-11-29-72) for så vidt gjelder:
+
+  - [Kapittel 9 Særskilte krav til sikkerhet](lov/1996-11-29-72/kap9)
+  - [§ 10-1](lov/1996-11-29-72/§10-1)
+  - [§ 10-3](lov/1996-11-29-72/§10-3)
+  - [§ 10-4](lov/1996-11-29-72/§10-4)
+  - [§ 10-6](lov/1996-11-29-72/§10-6)
+  - [§ 10-10](lov/1996-11-29-72/§10-10)
+  - [§ 10-18](lov/1996-11-29-72/§10-18)
+- [Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)](lov/1997-02-28-19) for så vidt gjelder:
+
+  - [Kapittel 1. Formål og definisjoner m.m.](lov/1997-02-28-19/kap1)
+  - [Kapittel 2. Medlemskap](lov/1997-02-28-19/kap2)
+  - [Kapittel 3. Visse beregningsregler, trygdetid, pensjonspoeng og pensjonsgivende inntekt](lov/1997-02-28-19/kap3), med unntak av [§ 3-15](lov/1997-02-28-19/§3-15)
+  - [Kapittel 4. Dagpenger under arbeidsløshet](lov/1997-02-28-19/kap4)
+  - [Kapittel 6. Grunnstønad og hjelpestønad](lov/1997-02-28-19/kap6)
+  - [Kapittel 7. Stønad ved gravferd](lov/1997-02-28-19/kap7)
+  - [Kapittel 8. Sykepenger](lov/1997-02-28-19/kap8)
+  - [Kapittel 9. Stønad ved barns og andre nærståendes sykdom](lov/1997-02-28-19/kap9)
+  - [Kapittel 10. Stønad for å kompensere for utgifter til bedring av arbeidsevnen og funksjonsevnen i dagliglivet](lov/1997-02-28-19/kap10)
+  - [Kapittel 11. Arbeidsavklaringspenger](lov/1997-02-28-19/kap11)
+  - [Kapittel 11 A. Tilleggsstønader til arbeidsrettede tiltak](lov/1997-02-28-19/kap11a)
+  - [Kapittel 12. Uføretrygd](lov/1997-02-28-19/kap12)
+  - [Kapittel 13. Yrkesskadedekning](lov/1997-02-28-19/kap13)
+  - [Kapittel 15. Stønad til enslig mor eller far](lov/1997-02-28-19/kap15)
+  - [Kapittel 16. Ytelser til tidligere familiepleier](lov/1997-02-28-19/kap16)
+  - [Kapittel 17. Ytelser til gjenlevende ektefelle](lov/1997-02-28-19/kap17)
+  - [Kapittel 17A. Overgangsregler for gjenlevende som er innvilget ytelse før 1. januar 2023](lov/1997-02-28-19/kap17a)
+  - [Kapittel 18. Barnepensjon](lov/1997-02-28-19/kap18)
+  - [Kapittel 19. Alderspensjon](lov/1997-02-28-19/kap19)
+  - [Kapittel 20. Ny alderspensjon](lov/1997-02-28-19/kap20)
+  - [Kapittel 21. Saksbehandling i trygdesaker. Anke- og klagebehandling m.m.](lov/1997-02-28-19/kap21), med unntak av [§ 21-11a](lov/1997-02-28-19/§21-11a), [§ 21-15](lov/1997-02-28-19/§21-15) og [§ 21-16](lov/1997-02-28-19/§21-16)
+  - [Kapittel 22. Utbetaling](lov/1997-02-28-19/kap22), med unntak av [§ 22-2](lov/1997-02-28-19/§22-2), [§ 22-2a](lov/1997-02-28-19/§22-2a), [§ 22-4](lov/1997-02-28-19/§22-4), [§ 22-5](lov/1997-02-28-19/§22-5) og [§ 22-15a](lov/1997-02-28-19/§22-15a)
+  - [Kapittel 23. Finansiering](lov/1997-02-28-19/kap23), med unntak av [§ 23-2](lov/1997-02-28-19/§23-2), [§ 23-2a](lov/1997-02-28-19/§23-2a), [§ 23-3](lov/1997-02-28-19/§23-3), [§ 23-4a](lov/1997-02-28-19/§23-4a), [§ 23-5](lov/1997-02-28-19/§23-5), [§ 23-10](lov/1997-02-28-19/§23-10) og [§ 23-11](lov/1997-02-28-19/§23-11)
+  - [Kapittel 25. Forskjellige bestemmelser](lov/1997-02-28-19/kap25), med unntak av [§ 25-6](lov/1997-02-28-19/§25-6) og [§ 25-6a](lov/1997-02-28-19/§25-6a)
+  - [Kapittel 26. Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover](lov/1997-02-28-19/kap26)
+- [Lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven)](lov/1997-06-13-44) for så vidt gjelder:
+
+  - [§ 6-4](lov/1997-06-13-44/§6-4)
+  - [§ 6-5](lov/1997-06-13-44/§6-5)
+  - [§ 6-35](lov/1997-06-13-44/§6-35)
+- [Lov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven)](lov/1997-06-13-45) for så vidt gjelder:
+
+  - [§ 6-4](lov/1997-06-13-45/§6-4)
+  - [§ 6-5](lov/1997-06-13-45/§6-5)
+  - [§ 6-35](lov/1997-06-13-45/§6-35)
+  - [§ 6-37](lov/1997-06-13-45/§6-37)
 - [Lov 21. august 1998 nr. 65 om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den Norske Opera & Ballett](lov/1998-08-21-65)
 - [Lov 15. januar 1999 nr. 1 om pensjonsordning for ledsagere i utenrikstjenesten](lov/1999-01-15-1)
-- [Lov 29. januar 1999 nr. 6 om interkommunale selskaper (IKS-loven)](lov/1999-01-29-6) for så vidt gjelder:[§ 10](lov/1999-01-29-6/§10) tolvte ledd
-- [Lov 15. juni 2001 nr. 59 om stiftelser (stiftelsesloven)](lov/2001-06-15-59) for så vidt gjelder:[§ 41](lov/2001-06-15-59/§41)[§ 42](lov/2001-06-15-59/§42)
+- [Lov 29. januar 1999 nr. 6 om interkommunale selskaper (IKS-loven)](lov/1999-01-29-6) for så vidt gjelder:
+
+  - [§ 10](lov/1999-01-29-6/§10) tolvte ledd
+- [Lov 15. juni 2001 nr. 59 om stiftelser (stiftelsesloven)](lov/2001-06-15-59) for så vidt gjelder:
+
+  - [§ 41](lov/2001-06-15-59/§41)
+  - [§ 42](lov/2001-06-15-59/§42)
 - [Lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven)](lov/2002-06-14-20). Gjelder for petroleumsvirksomhet på landanleggene Kårstø, Kollsnes, Sture, Nyhamna inkl. reservegasskraftverket, Tjeldbergodden, Slagentangen, Melkøya og Mongstad og for de planlagte gasskraftverkene i Hammerfest, Skogn og Grenland.
 - [Lov 4. juli 2003 nr. 80 om introduksjonsordning og norskopplæring for nyankomne innvandrere (introduksjonsloven)](lov/2003-07-04-80)
 - [Lov 10. desember 2004 nr. 76 om arbeidsmarkedstjenester (arbeidsmarkedsloven)](lov/2004-12-10-76)
-- [Lov 1. april 2005 nr. 14 om europeiske selskaper ved gjennomføring av EØS-avtalen vedlegg XXII nr. 10a (rådsforordning (EF) nr. 2157/2001) (SE-loven)](lov/2005-04-01-14) for så vidt gjelder:[§ 3](lov/2005-04-01-14/§3)
+- [Lov 1. april 2005 nr. 14 om europeiske selskaper ved gjennomføring av EØS-avtalen vedlegg XXII nr. 10a (rådsforordning (EF) nr. 2157/2001) (SE-loven)](lov/2005-04-01-14) for så vidt gjelder:
+
+  - [§ 3](lov/2005-04-01-14/§3)
 - [Lov 29. april 2005 nr. 21 om supplerande stønad til personar med kort butid i Noreg](lov/2005-04-29-21)
 - [Lov 10. juni 2005 nr. 51 om norsk statsborgerskap (statsborgerloven)](lov/2005-06-10-51)
 - [Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)](lov/2005-06-17-62), med unntak av [kapittel 13](lov/2005-06-17-62/kap13). Vern mot diskriminering
 - [Lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven](lov/2006-06-16-20))
-- [Lov 30. juni 2006 nr. 50 om europeiske samvirkeforetak ved gjennomføring av EØS-avtalen vedlegg XXII nr. 10c (rådsforordning (EF) nr. 1435/2003) (SCE-loven)](lov/2006-06-30-50) for så vidt gjelder:[§ 3](lov/2006-06-30-50/§3)
-- [Lov 29. juni 2007 nr. 81 om samvirkeforetak (samvirkelova)](lov/2007-06-29-81) for så vidt gjelder:[§ 67](lov/2007-06-29-81/§67)[§ 68](lov/2007-06-29-81/§68)
-- [Lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven)](lov/2008-05-15-35) for så vidt gjelder:Forskriftsmyndighet etter loven [§ 5](lov/2008-05-15-35/§5), [kapittel 3](lov/2008-05-15-35/kap3), [§ 56](lov/2008-05-15-35/§56), [kapittel 13](lov/2008-05-15-35/kap13) og [§ 140](lov/2008-05-15-35/§140) for så vidt gjelder arbeidsinnvandring eller innreise og opphold i riket for utlendinger som omfattes av [EØS-avtalen](lov/1992-11-27-109/eøsl) eller EFTA-konvensjonen, i den utstrekning myndigheten ligger til departementet.Forvaltningsansvaret for loven [§ 17](lov/2008-05-15-35/§17) for så vidt gjelder vurdering av grensene for oppholdsrett for utlendinger som omfattes av [EØS-avtalen](lov/1992-11-27-109/eøsl) og EFTA-konvensjonen, og for loven [kapittel 3](lov/2008-05-15-35/kap3) og [13](lov/2008-05-15-35/kap13) med unntak av [§ 121](lov/2008-05-15-35/§121) første ledd bokstav a og c, [§ 122](lov/2008-05-15-35/§122), [§ 123](lov/2008-05-15-35/§123), [§ 124](lov/2008-05-15-35/§124) og [§ 125a](lov/2008-05-15-35/§125a), unntatt ansvaret for lovbestemmelsene som sådanne som er lagt til Justis- og beredskapsdepartementet.
+- [Lov 30. juni 2006 nr. 50 om europeiske samvirkeforetak ved gjennomføring av EØS-avtalen vedlegg XXII nr. 10c (rådsforordning (EF) nr. 1435/2003) (SCE-loven)](lov/2006-06-30-50) for så vidt gjelder:
+
+  - [§ 3](lov/2006-06-30-50/§3)
+- [Lov 29. juni 2007 nr. 81 om samvirkeforetak (samvirkelova)](lov/2007-06-29-81) for så vidt gjelder:
+
+  - [§ 67](lov/2007-06-29-81/§67)
+  - [§ 68](lov/2007-06-29-81/§68)
+- [Lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven)](lov/2008-05-15-35) for så vidt gjelder:
+
+  - Forskriftsmyndighet etter loven [§ 5](lov/2008-05-15-35/§5), [kapittel 3](lov/2008-05-15-35/kap3), [§ 56](lov/2008-05-15-35/§56), [kapittel 13](lov/2008-05-15-35/kap13) og [§ 140](lov/2008-05-15-35/§140) for så vidt gjelder arbeidsinnvandring eller innreise og opphold i riket for utlendinger som omfattes av [EØS-avtalen](lov/1992-11-27-109/eøsl) eller EFTA-konvensjonen, i den utstrekning myndigheten ligger til departementet.
+  - Forvaltningsansvaret for loven [§ 17](lov/2008-05-15-35/§17) for så vidt gjelder vurdering av grensene for oppholdsrett for utlendinger som omfattes av [EØS-avtalen](lov/1992-11-27-109/eøsl) og EFTA-konvensjonen, og for loven [kapittel 3](lov/2008-05-15-35/kap3) og [13](lov/2008-05-15-35/kap13) med unntak av [§ 121](lov/2008-05-15-35/§121) første ledd bokstav a og c, [§ 122](lov/2008-05-15-35/§122), [§ 123](lov/2008-05-15-35/§123), [§ 124](lov/2008-05-15-35/§124) og [§ 125a](lov/2008-05-15-35/§125a), unntatt ansvaret for lovbestemmelsene som sådanne som er lagt til Justis- og beredskapsdepartementet.
 - [Lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven)](lov/2009-12-18-131)
 - [Lov 12. februar 2010 nr. 4 om pensjonsordning for oppdragstaker i statlig beredskaps- eller familiehjem](lov/2010-02-12-4)
 - [Lov 19. februar 2010 nr. 5 om statstilskott til arbeidstakere som tar ut avtalefestet pensjon i privat sektor (AFP-tilskottsloven)](lov/2010-02-19-5)
-- [Lov 4. juni 2010 nr. 21 om fornybar energiproduksjon til havs (havenergilova)](lov/2010-06-04-21) for så vidt gjelder:[§ 5-1](lov/2010-06-04-21/§5-1)
+- [Lov 4. juni 2010 nr. 21 om fornybar energiproduksjon til havs (havenergilova)](lov/2010-06-04-21) for så vidt gjelder:
+
+  - [§ 5-1](lov/2010-06-04-21/§5-1)
 - [Lov 25. juni 2010 nr. 28 om avtalefestet pensjon for medlemmer av Statens pensjonskasse](lov/2010-06-25-28)
 - [Lov 16. desember 2011 nr. 60 om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer (stortings- og regjeringspensjonsloven)](lov/2011-12-16-60)
 - [Lov 27. januar 2012 nr. 9 om arbeidstvister (arbeidstvistloven)](lov/2012-01-27-9)
@@ -115,7 +189,11 @@ eu_basis: []
 - [Lov 16. juni 1967 nr. 3 om fullmakt for Kongen til å forby redere å gi opplysninger m.m. til utenlandske myndigheter (lov om forbud mot at redere gir opplysninger)](lov/1967-06-16-3)
 - [Lov 7. juli 1967 nr. 1 om tiltak mot diskriminering i internasjonal skipsfart](lov/1967-07-07-1)
 - [Lov 17. desember 1976 nr. 91 om Norges økonomiske sone (økonomiske soneloven)](lov/1976-12-17-91)
-- [Lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven)](lov/1981-03-13-6) for så vidt gjelder:[§ 7](lov/1981-03-13-6/§7) fjerde ledd, [§ 48](lov/1981-03-13-6/§48) til og med [§ 51](lov/1981-03-13-6/§51), [§ 73](lov/1981-03-13-6/§73), [§ 74](lov/1981-03-13-6/§74) første, andre, tredje og femte ledd, og [§ 75](lov/1981-03-13-6/§75) til og med [§ 78](lov/1981-03-13-6/§78) i den utstrekning det har oppstått akutt forurensning, jf. [forurensningsloven § 38](lov/1981-03-13-6/§38) eller fare for akutt forurensning. Dette gjelder likevel ikke for virksomhet med særskilt tillatelse i henhold til [forurensningsloven kapittel 3](lov/1981-03-13-6/kap3), særskilte beredskapskrav i henhold til [forurensningsloven § 40](lov/1981-03-13-6/§40) eller virksomhet som er regulert av forskrifter fastsatt i medhold av [forurensningsloven § 9](lov/1981-03-13-6/§9) dersom det verken er nødvendig med statlig aksjon i henhold til [§ 46](lov/1981-03-13-6/§46) eller særskilte vedtak/pålegg.[§ 37](lov/1981-03-13-6/§37) andre ledd for så vidt gjelder skip, samt kompetanse til å begjære påtale i henhold til [§ 79](lov/1981-03-13-6/§79) for så vidt gjelder skip[§ 39](lov/1981-03-13-6/§39) tredje ledd
+- [Lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven)](lov/1981-03-13-6) for så vidt gjelder:
+
+  - [§ 7](lov/1981-03-13-6/§7) fjerde ledd, [§ 48](lov/1981-03-13-6/§48) til og med [§ 51](lov/1981-03-13-6/§51), [§ 73](lov/1981-03-13-6/§73), [§ 74](lov/1981-03-13-6/§74) første, andre, tredje og femte ledd, og [§ 75](lov/1981-03-13-6/§75) til og med [§ 78](lov/1981-03-13-6/§78) i den utstrekning det har oppstått akutt forurensning, jf. [forurensningsloven § 38](lov/1981-03-13-6/§38) eller fare for akutt forurensning. Dette gjelder likevel ikke for virksomhet med særskilt tillatelse i henhold til [forurensningsloven kapittel 3](lov/1981-03-13-6/kap3), særskilte beredskapskrav i henhold til [forurensningsloven § 40](lov/1981-03-13-6/§40) eller virksomhet som er regulert av forskrifter fastsatt i medhold av [forurensningsloven § 9](lov/1981-03-13-6/§9) dersom det verken er nødvendig med statlig aksjon i henhold til [§ 46](lov/1981-03-13-6/§46) eller særskilte vedtak/pålegg.
+  - [§ 37](lov/1981-03-13-6/§37) andre ledd for så vidt gjelder skip, samt kompetanse til å begjære påtale i henhold til [§ 79](lov/1981-03-13-6/§79) for så vidt gjelder skip
+  - [§ 39](lov/1981-03-13-6/§39) tredje ledd
 - [Lov 17. desember 1982 nr. 84 om sikre containere (containerloven)](lov/1982-12-17-84)
 - [Lov 8. juni 1984 nr. 55 om linjekonferanser m.v. (linjekonferanseloven)](lov/1984-06-08-55)
 - [Lov 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister (NIS-loven)](lov/1987-06-12-48)
@@ -125,7 +203,9 @@ eu_basis: []
 - [Lov 26. juni 1998 nr. 47 om fritids- og småbåter (småbåtloven)](lov/1998-06-26-47) med unntak av myndighet delegert til Klima- og miljødepartementet og Justis- og beredskapsdepartementet, jf. [kgl. 27. november 1998](forskrift/1998-11-27-1095) og [kgl. res. 29. juni 2007](forskrift/2007-06-29-849), [23. november 2007](forskrift/2007-11-23-1289), [kgl. res 11. desember 2020](forskrift/2020-12-11-2707)
 - [Lov 26. mars 1999 nr. 15 om retten til å delta i fiske og fangst (deltakerloven)](lov/1999-03-26-15)
 - [Lov 7. juli 2000 nr. 68 om avgift til forskning og utvikling i fiskeri- og havbruksnæringen (lov om eksportavgift på fiskevarer)](lov/2000-07-07-68)
-- [Lov 15. juni 2001 om miljøvern på Svalbard (svalbardmiljøloven)](lov/2001-06-15-79)I den utstrekning det har oppstått akutt forurensning, jf. [lov 15. juni 2001 nr. 79 om miljøvern på Svalbard (svalbardmiljøloven) § 70](lov/2001-06-15-79/§70) fjerde ledd, eller fare for akutt forurensning, er Fiskeridepartementet miljøvernmyndighet på Svalbard i henhold til loven [§ 4](lov/2001-06-15-79/§4) første ledd bokstav b. For virksomhet omfattet av loven [kapittel VII](lov/2001-06-15-79/kapvii), gjelder dette likevel bare dersom det er nødvendig med en statlig aksjon mot akutt forurensning eller pålegg etter [§ 65](lov/2001-06-15-79/§65).
+- [Lov 15. juni 2001 om miljøvern på Svalbard (svalbardmiljøloven)](lov/2001-06-15-79)
+
+  - I den utstrekning det har oppstått akutt forurensning, jf. [lov 15. juni 2001 nr. 79 om miljøvern på Svalbard (svalbardmiljøloven) § 70](lov/2001-06-15-79/§70) fjerde ledd, eller fare for akutt forurensning, er Fiskeridepartementet miljøvernmyndighet på Svalbard i henhold til loven [§ 4](lov/2001-06-15-79/§4) første ledd bokstav b. For virksomhet omfattet av loven [kapittel VII](lov/2001-06-15-79/kapvii), gjelder dette likevel bare dersom det er nødvendig med en statlig aksjon mot akutt forurensning eller pålegg etter [§ 65](lov/2001-06-15-79/§65).
 - [Lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven)](lov/2005-06-17-79)
 - [Lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven)](lov/2007-02-16-9) med unntak av myndighet delegert til Klima- og miljødepartementet knyttet til miljømessig sikkerhet, og Forsvarsdepartementet, jf. [kgl.res. 16. februar 2007](forskrift/2007-02-16-171) og [kgl.res. 23. november 2007](forskrift/2007-11-23-1289).
 - [Lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova)](lov/2008-06-06-37)
@@ -153,7 +233,17 @@ eu_basis: []
 - [Lov 3. juni 1994 nr. 15 om Enhetsregisteret (enhetsregisterloven)](lov/1994-06-03-15)
 - [Lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar (lov om tekniske kontrollorgan)](lov/1994-06-16-20)
 - [Lov 22. desember 1995 nr. 85 om europeiske økonomiske foretaksgrupper ved gjennomføring av EØS-avtalens vedlegg XXII nr. 10 (rådsforordning (EØF) nr. 2137/85) (EØFG-loven)](lov/1995-12-22-85)
-- [Lov 29. november 1996 nr. 72 om petroleumsvirksomhet](lov/1996-11-29-72), for så vidt gjelder:[§ 11-1](lov/1996-11-29-72/§11-1) annet ledd, Statens deltakelse i petroleumsvirksomhet[§ 11-2 Forvalterselskapet](lov/1996-11-29-72/§11-2)[§ 11-3 Statens ansvar for selskapet](lov/1996-11-29-72/§11-3)[§ 11-4 Låneopptak](lov/1996-11-29-72/§11-4)[§ 11-5 Forholdet til aksjelovgivningen](lov/1996-11-29-72/§11-5)[§ 11-6 Styrets oppgaver](lov/1996-11-29-72/§11-6)[§ 11-7 Styrets foreleggelsesplikt](lov/1996-11-29-72/§11-7)[§ 11-8 Årsberetning og årsregnskap](lov/1996-11-29-72/§11-8)[§ 11-10](lov/1996-11-29-72/§11-10) første ledd, Instruks
+- [Lov 29. november 1996 nr. 72 om petroleumsvirksomhet](lov/1996-11-29-72), for så vidt gjelder:
+
+  - [§ 11-1](lov/1996-11-29-72/§11-1) annet ledd, Statens deltakelse i petroleumsvirksomhet
+  - [§ 11-2 Forvalterselskapet](lov/1996-11-29-72/§11-2)
+  - [§ 11-3 Statens ansvar for selskapet](lov/1996-11-29-72/§11-3)
+  - [§ 11-4 Låneopptak](lov/1996-11-29-72/§11-4)
+  - [§ 11-5 Forholdet til aksjelovgivningen](lov/1996-11-29-72/§11-5)
+  - [§ 11-6 Styrets oppgaver](lov/1996-11-29-72/§11-6)
+  - [§ 11-7 Styrets foreleggelsesplikt](lov/1996-11-29-72/§11-7)
+  - [§ 11-8 Årsberetning og årsregnskap](lov/1996-11-29-72/§11-8)
+  - [§ 11-10](lov/1996-11-29-72/§11-10) første ledd, Instruks
 - [Lov 6. juni 1997 nr. 35 om Oppgaveregisteret (oppgaveregisterloven)](lov/1997-06-06-35)
 - [Lov 13. juni 1997 nr. 44 om aksjeselskaper (aksjeloven)](lov/1997-06-13-44)
 - [Lov 13. juni 1997 nr. 45 om allmennaksjeselskaper (allmennaksjeloven)](lov/1997-06-13-45)

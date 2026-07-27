@@ -36,13 +36,20 @@ For arbeidstaker som har ett eller flere arbeidsforhold, skal inntekt før ufør
 
 Dersom sykdommen, skaden eller lytet har redusert inntektsevnen gradvis over flere år, kan det tas utgangspunkt i inntektsevnen før sykdommen, skaden eller lytet oppstod. Lidelsen anses oppstått fra og med det kalenderåret den medførte en inntektsreduksjon. Inntekt før uførhet fastsettes deretter i tråd med [folketrygdloven § 12-9](lov/1997-02-28-19/§12-9) første og andre ledd.
 
-Følgende pensjonsgivende inntekter skal unntas ved fastsetting av inntekt før uførhet:Ekstrainntekter og inntekter fra overtidsarbeid som ikke har vært stabile over tid før uførheten inntrådte.Erstatning for inntektstap ved erstatningsoppgjør som er pensjonsgivende inntekt etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4](lov/2001-06-15-53/§4) første ledd.
+Følgende pensjonsgivende inntekter skal unntas ved fastsetting av inntekt før uførhet:
+
+1. Ekstrainntekter og inntekter fra overtidsarbeid som ikke har vært stabile over tid før uførheten inntrådte.
+2. Erstatning for inntektstap ved erstatningsoppgjør som er pensjonsgivende inntekt etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4](lov/2001-06-15-53/§4) første ledd.
 
 ### § 2-2. Fastsetting av inntekt etter uførhet
 
 Inntekt etter uførhet fastsettes til personens framtidige pensjonsgivende inntekt, inkludert feriepenger og eventuelt andre tillegg som er pensjonsgivende. Har personen inntektsmuligheter som ikke benyttes, skal disse tas med ved fastsettelsen av inntekt etter uførhet.
 
-Følgende pensjonsgivende inntekter skal unntas ved fastsetting av inntekt etter uførhet:Erstatning for inntektstap ved erstatningsoppgjør som er pensjonsgivende inntekt etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4 første ledd](lov/2001-06-15-53/§4/ledd/1).Inntekt, herunder feriepenger, som stammer fra helt avsluttet arbeid eller virksomhet (etterslepsinntekt). Det er et vilkår at inntekten er et engangsoppgjør.Etterbetalinger av trygdeytelser.
+Følgende pensjonsgivende inntekter skal unntas ved fastsetting av inntekt etter uførhet:
+
+1. Erstatning for inntektstap ved erstatningsoppgjør som er pensjonsgivende inntekt etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4 første ledd](lov/2001-06-15-53/§4/ledd/1).
+2. Inntekt, herunder feriepenger, som stammer fra helt avsluttet arbeid eller virksomhet (etterslepsinntekt). Det er et vilkår at inntekten er et engangsoppgjør.
+3. Etterbetalinger av trygdeytelser.
 
 Personen må selv opplyse om og dokumentere slike inntekter.
 
@@ -62,7 +69,11 @@ For personer som mottar uføretrygd i varig tilrettelagt arbeid (VTA) utgjør fr
 
 ### § 3-2. Pensjonsgivende inntekt som ikke skal føre til reduksjon av uføretrygd
 
-Følgende pensjonsgivende inntekter skal ikke føre til reduksjon av uføretrygden:Erstatning for inntektstap ved erstatningsoppgjør som er pensjonsgivende inntekt etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4 første ledd](lov/2001-06-15-53/§4/ledd/1).Inntekt, herunder feriepenger, som stammer fra helt avsluttet arbeid eller virksomhet (etterslepsinntekt). Det er et vilkår at inntekten er et engangsoppgjør.Etterbetalinger av trygdeytelser.
+Følgende pensjonsgivende inntekter skal ikke føre til reduksjon av uføretrygden:
+
+1. Erstatning for inntektstap ved erstatningsoppgjør som er pensjonsgivende inntekt etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4 første ledd](lov/2001-06-15-53/§4/ledd/1).
+2. Inntekt, herunder feriepenger, som stammer fra helt avsluttet arbeid eller virksomhet (etterslepsinntekt). Det er et vilkår at inntekten er et engangsoppgjør.
+3. Etterbetalinger av trygdeytelser.
 
 For en uføretrygdet som har rett til barnetillegg, skal den samme inntekten heller ikke føre til reduksjon av barnetillegget. Det samme gjelder også for inntekt etter første ledd bokstav a som den andre forelderen mottar hvis vedkommende mottar uføretrygd eller alderspensjon.
 
@@ -184,13 +195,20 @@ Den delen som skyldes yrkesskade beregnes etter forholdene på skadetidspunktet,
 
 Når en person som er innvilget uføretrygd uten yrkesskadefordeler får sin inntektsevne ytterligere nedsatt på grunn av yrkesskade, må den antatt årlige arbeidsinntekten oppjusteres til den inntekten vedkommende ville hatt dersom han på forhånd ikke hadde vært delvis arbeidsufør. Dette gjøres ved at inntekten på skadetidspunktet divideres med graden av gjenværende inntektsevne før skaden.
 
-Dersom den opprinnelige uførheten skyldes en yrkesskade, skal uføretrygden beregnes ut fra det beste av følgende alternativer:Den antatt årlige arbeidsinntekten som ble lagt til grunn da uføretrygden etter den første yrkesskaden ble beregnet.Den antatt årlige arbeidsinntekten som er oppjustert etter første ledd.
+Dersom den opprinnelige uførheten skyldes en yrkesskade, skal uføretrygden beregnes ut fra det beste av følgende alternativer:
+
+1. Den antatt årlige arbeidsinntekten som ble lagt til grunn da uføretrygden etter den første yrkesskaden ble beregnet.
+2. Den antatt årlige arbeidsinntekten som er oppjustert etter første ledd.
 
 ### § 6-3. Grunnlaget for beregning av uføretrygd for år da en person har mottatt uføretrygd som helt eller delvis skyldes yrkesskade
 
 For år da en person har mottatt uføretrygd som skyldes yrkesskade, skal pensjonsgivende inntekt, og antatt årlig arbeidsinntekt justert for uføregraden, inngå i grunnlaget.
 
-For år da en person har mottatt uføretrygd og uførheten bare delvis skyldes en yrkesskade, skal følgende inngå i grunnlaget:Pensjonsgivende inntektEn inntekt som svarer til beregningsgrunnlaget for uføretrygden, justert for fastsatt uføregrad som ikke skyldes yrkesskade, ogAntatt årlig arbeidsinntekt fastsatt etter [folketrygdloven § 12-17](lov/1997-02-28-19/§12-17), justert i samsvar med endringer i grunnbeløpet og for fastsatt uføregrad som skyldes yrkesskade.
+For år da en person har mottatt uføretrygd og uførheten bare delvis skyldes en yrkesskade, skal følgende inngå i grunnlaget:
+
+1. Pensjonsgivende inntekt
+2. En inntekt som svarer til beregningsgrunnlaget for uføretrygden, justert for fastsatt uføregrad som ikke skyldes yrkesskade, og
+3. Antatt årlig arbeidsinntekt fastsatt etter [folketrygdloven § 12-17](lov/1997-02-28-19/§12-17), justert i samsvar med endringer i grunnbeløpet og for fastsatt uføregrad som skyldes yrkesskade.
 
 Samlet inntekt for hvert kalenderår fastsatt etter første og andre ledd kan likevel ikke overstige det som er høyest av henholdsvis pensjonsgivende inntekt, den ugraderte inntekten i andre ledd bokstav b og ugradert antatt årlig arbeidsinntekt justert i samsvar med endringer i grunnbeløpet, og heller ikke seks ganger grunnbeløpet.
 
@@ -206,7 +224,10 @@ Samlet inntekt for hvert kalenderår fastsatt etter første og andre ledd kan li
 
 ### § 7-3. Ytterligere reduksjon av personens inntektsevne
 
-Ved ytterligere reduksjon av inntektsevnen, se [folketrygdloven § 12-10](lov/1997-02-28-19/§12-10) fjerde ledd, skal Arbeids- og velferdsetaten ved vurderingen av om det er en fordel for mottakeren å få fastsatt et nytt uføretidspunkt, sammenligne:uføretrygd basert på grunnlaget for beregning av uføretrygd fastsatt etter forskrift om overgangsregler ved innføring av uføretrygd oppjustert til ny uføregrad oguføretrygd beregnet etter [folketrygdloven § 12-13](lov/1997-02-28-19/§12-13), jf. [§ 12-11](lov/1997-02-28-19/§12-11) . For år da en person mottok uførepensjon skal grunnlaget beregnes etter [§ 7-4](forskrift/2014-12-05-1602/§7-4).
+Ved ytterligere reduksjon av inntektsevnen, se [folketrygdloven § 12-10](lov/1997-02-28-19/§12-10) fjerde ledd, skal Arbeids- og velferdsetaten ved vurderingen av om det er en fordel for mottakeren å få fastsatt et nytt uføretidspunkt, sammenligne:
+
+1. uføretrygd basert på grunnlaget for beregning av uføretrygd fastsatt etter forskrift om overgangsregler ved innføring av uføretrygd oppjustert til ny uføregrad og
+2. uføretrygd beregnet etter [folketrygdloven § 12-13](lov/1997-02-28-19/§12-13), jf. [§ 12-11](lov/1997-02-28-19/§12-11) . For år da en person mottok uførepensjon skal grunnlaget beregnes etter [§ 7-4](forskrift/2014-12-05-1602/§7-4).
 
 Tillegg til uføretrygd etter [forskrift 3. juli 2014 nr. 947](forskrift/2014-07-03-947) om omregning av uførepensjon til uføretrygd [§ 7](forskrift/2014-07-03-947/§7) (gjenlevendetillegg) holdes utenom ved sammenligningen og skal heller ikke beregnes på nytt.
 
@@ -214,7 +235,10 @@ Ved fastsetting av nytt uføretidspunkt skal trygdetid etter forrige uføretidsp
 
 ### § 7-4. Grunnlaget for beregning av uføretrygd for år da en person har mottatt uførepensjon
 
-For år da en person har mottatt uførepensjon, skal grunnlaget for uføretrygden tilsvare summen avpensjonsgivende inntekt ogen inntekt som svarer til den pensjonsgivende inntekten som etter [folketrygdloven § 3-13](lov/1997-02-28-19/§3-13) ville gitt et opptjent pensjonspoeng lik det framtidige pensjonspoenget som var fastsatt i den tidligere tilleggspensjonen, justert for fastsatt uføregrad.
+For år da en person har mottatt uførepensjon, skal grunnlaget for uføretrygden tilsvare summen av
+
+1. pensjonsgivende inntekt og
+2. en inntekt som svarer til den pensjonsgivende inntekten som etter [folketrygdloven § 3-13](lov/1997-02-28-19/§3-13) ville gitt et opptjent pensjonspoeng lik det framtidige pensjonspoenget som var fastsatt i den tidligere tilleggspensjonen, justert for fastsatt uføregrad.
 
 Dersom uførheten skyldes yrkesskade og antatt årlig arbeidsinntekt er lagt til grunn for beregningen av uførepensjonen, skal grunnlaget som nevnt i første ledd tilsvare summen av pensjonsgivende inntekt og antatt årlig arbeidsinntekt på skadetidspunktet justert i samsvar med endringer i grunnbeløpet og for fastsatt uføregrad.
 

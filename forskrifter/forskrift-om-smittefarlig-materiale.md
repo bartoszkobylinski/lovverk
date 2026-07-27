@@ -48,8 +48,11 @@ Enhver som transporterer eller på annen måte håndterer, jf [§ 2](forskrift/1
 
 ## § 5. Innførsel
 
-Det er forbudt å innføre smittefarlig materiale, jf [§ 3](forskrift/1996-09-12-903/§3), som;kan inneholde smittestoff som normalt ikke forekommer innenfor landets grenser,
-ellerkan gi årsak til en allmennfarlig smittsom sykdom hos mennesker.
+Det er forbudt å innføre smittefarlig materiale, jf [§ 3](forskrift/1996-09-12-903/§3), som;
+
+- kan inneholde smittestoff som normalt ikke forekommer innenfor landets grenser,
+  eller
+- kan gi årsak til en allmennfarlig smittsom sykdom hos mennesker.
 
 ## § 6. Dispensasjon fra innførselsforbudet
 

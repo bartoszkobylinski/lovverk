@@ -66,11 +66,35 @@ Den bygningssakkyndige skal flytte på tepper, møbler og annet inventar når de
 
 ### § 2-2. Våtrom
 
-På veggenes og himlingens overflater skal den bygningssakkyndigese etter riss og sprekkerse etter sprekker i fugerundersøke skjøter og underkant av platerhøre etter bom (hulrom) under fliserse etter forhold som kan indikere fuktskade, som for eksempel råte, muggvekst, oppsprekking, svelling og fuktkrevende insekterse etter spor etter skadedyrse om det er vindu eller dør i våtsone, og i så fall vurdere om materialet er egnetse om det er ventiler, og om de kan åpnes.
+På veggenes og himlingens overflater skal den bygningssakkyndige
 
-På gulvets overflate skal den bygningssakkyndigese etter riss og sprekkerse etter sprekker i fugerundersøke skjøter og underkant av platerhøre etter bom (hulrom) under fliserse etter spor etter råteskade, muggvekst og skadedyrundersøke om det er tilfredsstillende fall til sluket ved hjelp av vater eller laserse etter om badet har terskel, og se etter flekker og andre skaderhøre etter knirk (hvis gulvet er belagt med annet enn fliser)undersøke om det er tilfredsstillende høydeforskjell fra toppen av sluket til toppen av membranen ved dørterskelen.
+1. se etter riss og sprekker
+2. se etter sprekker i fuger
+3. undersøke skjøter og underkant av plater
+4. høre etter bom (hulrom) under fliser
+5. se etter forhold som kan indikere fuktskade, som for eksempel råte, muggvekst, oppsprekking, svelling og fuktkrevende insekter
+6. se etter spor etter skadedyr
+7. se om det er vindu eller dør i våtsone, og i så fall vurdere om materialet er egnet
+8. se om det er ventiler, og om de kan åpnes.
 
-I membranen, tettesjiktet og sluket i gulvet og på veggene skal den bygningssakkyndigeundersøke sluk og rørgjennomføringer, herunder se om det er mansjett og klemringundersøke om det er mulig å gjøre rentundersøke membranens alderse etter tegn på feil utførelse, feil materialvalg, skadelig fukt og utettheter, og angi risiko i tilfeller der en forsvarlig vurdering ikke er mulig på grunn av at arbeidet ikke er fagmessig utført.
+På gulvets overflate skal den bygningssakkyndige
+
+1. se etter riss og sprekker
+2. se etter sprekker i fuger
+3. undersøke skjøter og underkant av plater
+4. høre etter bom (hulrom) under fliser
+5. se etter spor etter råteskade, muggvekst og skadedyr
+6. undersøke om det er tilfredsstillende fall til sluket ved hjelp av vater eller laser
+7. se etter om badet har terskel, og se etter flekker og andre skader
+8. høre etter knirk (hvis gulvet er belagt med annet enn fliser)
+9. undersøke om det er tilfredsstillende høydeforskjell fra toppen av sluket til toppen av membranen ved dørterskelen.
+
+I membranen, tettesjiktet og sluket i gulvet og på veggene skal den bygningssakkyndige
+
+1. undersøke sluk og rørgjennomføringer, herunder se om det er mansjett og klemring
+2. undersøke om det er mulig å gjøre rent
+3. undersøke membranens alder
+4. se etter tegn på feil utførelse, feil materialvalg, skadelig fukt og utettheter, og angi risiko i tilfeller der en forsvarlig vurdering ikke er mulig på grunn av at arbeidet ikke er fagmessig utført.
 
 For å undersøke om våtrommet har fuktskade skal den bygningssakkyndige bore et hull med diameter på minimum 73 mm fra et tilstøtende rom eller fra undersiden. Den bygningssakkyndige skal måle fukt og undersøke om det er symptomer på fuktskade. Hullet skal tas på et minst mulig synlig sted i et område der det erfaringsmessig forekommer skader, slik som i våtsonen eller ved bunnsvill i vegg. Hullet skal plomberes forsvarlig. Den bygningssakkyndige skal opplyse om og vurdere måleresultater og observasjoner. Hulltaking kan unnlates dersom det ikke er praktisk mulig å gjennomføre, for eksempel fordi det krever tilgang til bygningskonstruksjon som er en del av flere boligers fellesareal eller til en boenhet med en annen eier, eller fordi boligen inngår i bygningskonstruksjoner av mur, betong eller totale prefabrikkerte konstruksjoner slik som baderomskabin. Hulltaking kan også unnlates når den bygningssakkyndige vurderer det som unødvendig. I vurderingen av om hulltaking er unødvendig kan det for eksempel legges vekt på om boligen er nylig oppført, eller våtrommet har et system for fuktovervåkning, eller det er dokumentert at våtrommet nylig er renovert i tråd med Byggebransjens våtromsnorm av en håndverker som er sertifisert etter Byggebransjens våtromsnorm, eller våtrommet har annen tilsvarende dokumentasjon på funksjonstesting. Hulltaking kan videre unnlates dersom avvik med sannsynlighet for fuktskade allerede er påvist på annen måte. Dersom den bygningssakkyndige ikke tar hull, skal det opplyses om årsaken til dette, og våtrommet skal i stedet fuktkontrolleres med egnet fuktmåleverktøy. Den bygningssakkyndige skal vurdere konstruksjonen ut fra målinger, observasjoner, materialvalg, alder og andre opplysninger som foreligger.
 
@@ -98,7 +122,12 @@ Hvis avløpsrørene er synlige og tilgjengelige, skal den bygningssakkyndige und
 
 ### § 2-5. Varmtvannsbereder
 
-Den bygningssakkyndige skal spørre eieren hvilket år varmtvannsberederen var ny, ogse etter avdrypp og fuktskjolderundersøke plasseringundersøke hva slags fundament berederen står på, herunder om sokkelen er understøttet hvis berederen står på skapbunnundersøke om berederen er lekkasjesikret, for eksempel ved at lekkasje føres til avløp eller med automatisk vannstoppeventil der berederen er plassert i tørt rom.
+Den bygningssakkyndige skal spørre eieren hvilket år varmtvannsberederen var ny, og
+
+1. se etter avdrypp og fuktskjolder
+2. undersøke plassering
+3. undersøke hva slags fundament berederen står på, herunder om sokkelen er understøttet hvis berederen står på skapbunn
+4. undersøke om berederen er lekkasjesikret, for eksempel ved at lekkasje føres til avløp eller med automatisk vannstoppeventil der berederen er plassert i tørt rom.
 
 ### § 2-6. Vannbåren varme
 
@@ -124,11 +153,29 @@ Den bygningssakkyndige skal undersøke om de enkelte rommene har mulighet for ti
 
 ### § 2-9. Takkonstruksjon, taktekking og skorstein over tak
 
-På takkonstruksjonen skal den bygningssakkyndige fra utsidense etter svanker eller svai i mønetse etter fuktskjolderse etter råteskade og skadedyrse om det er tett rundt gjennomføringerse om det er ventilering eller lufting.
+På takkonstruksjonen skal den bygningssakkyndige fra utsiden
 
-Undertak, lekter og yttertekking (taktekkingen) skal undersøkes når den bygningssakkyndige finner det sikkerhetsmessig forsvarlig. Den bygningssakkyndige skal i så fallse etter sprekker, mose, pløser og andre symptomer på svekkelserse om taket har tilstrekkelig helningundersøke hvilke materialer som er bruktundersøke innfesting og overgangervurdere vedlikeholdsnivåetvurdere undertakets alder.
+1. se etter svanker eller svai i mønet
+2. se etter fuktskjolder
+3. se etter råteskade og skadedyr
+4. se om det er tett rundt gjennomføringer
+5. se om det er ventilering eller lufting.
 
-På flate tak skal den bygningssakkyndige ogsåregistrere fall på flaterundersøke renner og slukse at det er overløpvurdere detaljer knyttet til oppkanter, beslag, overlys (lysåpninger), skorsteiner og rørgjennomføringer.
+Undertak, lekter og yttertekking (taktekkingen) skal undersøkes når den bygningssakkyndige finner det sikkerhetsmessig forsvarlig. Den bygningssakkyndige skal i så fall
+
+1. se etter sprekker, mose, pløser og andre symptomer på svekkelser
+2. se om taket har tilstrekkelig helning
+3. undersøke hvilke materialer som er brukt
+4. undersøke innfesting og overganger
+5. vurdere vedlikeholdsnivået
+6. vurdere undertakets alder.
+
+På flate tak skal den bygningssakkyndige også
+
+1. registrere fall på flater
+2. undersøke renner og sluk
+3. se at det er overløp
+4. vurdere detaljer knyttet til oppkanter, beslag, overlys (lysåpninger), skorsteiner og rørgjennomføringer.
 
 Skorsteiner over tak skal inspiseres når den bygningssakkyndige mener det er sikkerhetsmessig forsvarlig. Den bygningssakkyndige skal se etter avskalling, vurdere fuger og beslag, stabilitet og om høyden er forskriftsmessig. Hvis skorsteinen må inspiseres fra takfot, luke eller bakkeplan, gjøres det en skjønnsmessig vurdering av forholdene.
 
@@ -154,9 +201,17 @@ Den bygningssakkyndige skal se etter punkterte glass. Videre skal den bygningssa
 
 ### § 2-13. Balkonger, verandaer og lignende
 
-På utkragede eller understøttede konstruksjoner, slik som balkonger og verandaer, og på rekkverk, skal den bygningssakkyndige se etterom konstruksjonen er forsvarlig festetom det er svekkelser i forankring eller understøttingom det er skader, slik som avskalling, deformasjoner, riss, sprekker, råteskader og rust på overflater.
+På utkragede eller understøttede konstruksjoner, slik som balkonger og verandaer, og på rekkverk, skal den bygningssakkyndige se etter
 
-Den bygningssakkyndige skal undersøkeom det er tilstrekkelig vannavrenningom tettesjiktet har tilstrekkelig oppkant mot vegg og dørom tettesjiktet har skader.
+1. om konstruksjonen er forsvarlig festet
+2. om det er svekkelser i forankring eller understøtting
+3. om det er skader, slik som avskalling, deformasjoner, riss, sprekker, råteskader og rust på overflater.
+
+Den bygningssakkyndige skal undersøke
+
+1. om det er tilstrekkelig vannavrenning
+2. om tettesjiktet har tilstrekkelig oppkant mot vegg og dør
+3. om tettesjiktet har skader.
 
 Hvis boligen har terrasse eller inntrukket balkong over innvendige rom, skal den bygningssakkyndige i tillegg undersøke om konstruksjonen har ventilering eller lufting.
 
@@ -166,9 +221,18 @@ Rekkverkshøyde og åpninger undersøkes mot gjeldende [byggteknisk forskrift](f
 
 ### § 2-14. Krypkjeller
 
-Hvis innvendig inspeksjon i krypkjelleren er mulig, skal den bygningssakkyndigese etter råteskader og muggvekst på overflaterutføre stikktaking i treverketse etter råteskader på undersiden av bjelkelaget, bunnsvillen og andre skadeutsatte stederse etter delaminering og avskalling ved betong, gassbetong eller lettbetongvurdere luftgjennomstrømning og luftfuktighet, herunder fuktsperre mot grunn, høyde i rommet og ventiler mot yttervegg.
+Hvis innvendig inspeksjon i krypkjelleren er mulig, skal den bygningssakkyndige
 
-Hvis innvendig inspeksjon ikke er mulig, skal den bygningssakkyndigeundersøke terrengfall og drenering på boligens utsideundersøke om luftgjennomstrømning er mulig mot ventiler.
+1. se etter råteskader og muggvekst på overflater
+2. utføre stikktaking i treverket
+3. se etter råteskader på undersiden av bjelkelaget, bunnsvillen og andre skadeutsatte steder
+4. se etter delaminering og avskalling ved betong, gassbetong eller lettbetong
+5. vurdere luftgjennomstrømning og luftfuktighet, herunder fuktsperre mot grunn, høyde i rommet og ventiler mot yttervegg.
+
+Hvis innvendig inspeksjon ikke er mulig, skal den bygningssakkyndige
+
+1. undersøke terrengfall og drenering på boligens utside
+2. undersøke om luftgjennomstrømning er mulig mot ventiler.
 
 Hvis krypkjelleren ikke er mulig å undersøke innvendig, skal den bygningssakkyndige opplyse om det i rapporten. Den bygningssakkyndige bør i tilfelle også opplyse om skaderisiko og konsekvens av at krypkjelleren ikke er mulig å undersøke.
 
@@ -180,9 +244,19 @@ Denne paragrafen gjelder ikke der en bygnings krypkjeller er en del av flere bol
 
 Før den bygningssakkyndige undersøker konstruksjonene, slik som tilfarergulv, himling og vegger, skal eieren spørres om når huset ble bygget, om det er innredet i ettertid, og i så fall når. Den bygningssakkyndige skal undersøke hvor det kan være risiko for skade, og opplyse om materialbruk.
 
-På veggenes og himlingens overflater skal den bygningssakkyndigese etter riss og sprekkerse etter setninger og jordtrykkse etter fuktskjolder, støvkondens, svertesopp og spor etter sopp, råteskader og skadedyr.
+På veggenes og himlingens overflater skal den bygningssakkyndige
 
-På gulvets overflate i rom under terreng skal den bygningssakkyndigese etter riss, sprekker og fuktskjolderhøre etter knirk i gulvenese etter setningerse etter sprekker i fugerundersøke overganger og skjøter.
+1. se etter riss og sprekker
+2. se etter setninger og jordtrykk
+3. se etter fuktskjolder, støvkondens, svertesopp og spor etter sopp, råteskader og skadedyr.
+
+På gulvets overflate i rom under terreng skal den bygningssakkyndige
+
+1. se etter riss, sprekker og fuktskjolder
+2. høre etter knirk i gulvene
+3. se etter setninger
+4. se etter sprekker i fuger
+5. undersøke overganger og skjøter.
 
 Den bygningssakkyndige skal se etter forhold som kan indikere fuktskade, som for eksempel råte, muggvekst, oppsprekking, svelling og fuktkrevende insekter. Som del av undersøkelsen skal den bygningssakkyndige bore et hull med diameter på minimum 73 mm. Den bygningssakkyndige skal måle fukt og undersøke om det er symptomer på fuktskade. Hullet skal tas i et område der det erfaringsmessig forekommer skader, slik som i nedre del av utlektet vegg mot grunnmur, for eksempel ned mot bunnsvillen, eller i tilfarergulv. Hullet skal plomberes forsvarlig. Den bygningssakkyndige skal opplyse om måleresultatene og om observasjonene, og vurdere disse. Hulltaking kan unnlates dersom det ikke er praktisk mulig å gjennomføre, for eksempel fordi det krever tilgang til bygningskonstruksjon som er en del av flere boligers fellesareal eller til en boenhet med en annen eier, eller fordi boligen inngår i bygningskonstruksjoner av mur eller betong. Hulltaking kan også unnlates når den bygningssakkyndige vurderer det som unødvendig, for eksempel fordi rommet har en inspeksjonsluke. Hulltaking kan videre unnlates fordi avvik med sannsynlighet for fuktskade allerede er påvist på annen måte. Dersom den bygningssakkyndige ikke tar hull, skal det opplyses om årsaken til dette og rommet skal i stedet fuktkontrolleres med egnet fuktmåleverktøy. Den bygningssakkyndige skal vurdere konstruksjonen ut fra målinger, observasjoner, materialvalg, alder og andre opplysninger som foreligger.
 
@@ -214,9 +288,18 @@ Denne paragrafen gjelder ikke der terrenget er en del av flere boligers fellesar
 
 For å avklare om det er behov for at en kvalifisert elektrofaglig person kontrollerer det elektriske anlegget, skal den bygningssakkyndige finne ut når det lokale el-tilsynet sist gjennomførte tilsyn, og hva som var resultatet av tilsynet.
 
-Hvis det er mer enn fem år siden boligen sist hadde tilsyn, skal den bygningssakkyndige foreta en forenklet vurdering av det elektriske anlegget. Den bygningssakkyndige skal i tilfelle spørre eierennår det elektriske anlegget ble installert eller siste gang totalt rehabilitertom sikringene ofte løses utom det har vært brann, branntilløp eller varmgang i anleggetom det finnes kursfortegnelse, og om antallet sikringer er i samsvar med denne.
+Hvis det er mer enn fem år siden boligen sist hadde tilsyn, skal den bygningssakkyndige foreta en forenklet vurdering av det elektriske anlegget. Den bygningssakkyndige skal i tilfelle spørre eieren
 
-Når eieren har besvart spørsmålene i andre ledd andre punktum, skal den bygningssakkyndige se etterom plugg på varmtvannsbereder er brunsviddtegn på termiske skader på kabler, brytere, downlights, stikkontakter og elektrisk utstyr, og sjekke at kabler er tilstrekkelig festettegn på at kabelinnføringer og hull i inntak og sikringsskap ikke er tette, så langt dette er mulig uten å fjerne kapslinger.
+1. når det elektriske anlegget ble installert eller siste gang totalt rehabilitert
+2. om sikringene ofte løses ut
+3. om det har vært brann, branntilløp eller varmgang i anlegget
+4. om det finnes kursfortegnelse, og om antallet sikringer er i samsvar med denne.
+
+Når eieren har besvart spørsmålene i andre ledd andre punktum, skal den bygningssakkyndige se etter
+
+1. om plugg på varmtvannsbereder er brunsvidd
+2. tegn på termiske skader på kabler, brytere, downlights, stikkontakter og elektrisk utstyr, og sjekke at kabler er tilstrekkelig festet
+3. tegn på at kabelinnføringer og hull i inntak og sikringsskap ikke er tette, så langt dette er mulig uten å fjerne kapslinger.
 
 Hvis det elektriske anlegget er montert etter 1999 eller det er gjort endringer på anlegget etter samme tidspunkt, skal den bygningssakkyndige spørre eieren om samsvarserklæring for kontroll av arbeidet.
 

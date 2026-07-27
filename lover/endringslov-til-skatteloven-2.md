@@ -15,7 +15,7 @@ xml_hash: "670ec98ea1aae01e28429f64a989259f9c6765ec1523e710db35ac054dd9137f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,10 @@ Ved ikrafttredelse av endringene under VIII gjelder følgende overgangsregel:
 
 For fastsetting av inngangsverdi i skattemessig åpningsbalanse for driftsmidler som har inngått i virksomheten ved opphevingen av skattefritaket i [§ 2-30](lov/1999-03-26-14/§2-30) første ledd bokstav h gjelder følgende:
 
-Inngangsverdien settes enten tilanskaffelsesverdi, tillagt senere påkostninger, ellerdokumentert markedsverdi.
+Inngangsverdien settes enten til
+
+1. anskaffelsesverdi, tillagt senere påkostninger, eller
+2. dokumentert markedsverdi.
 
 Anskaffelsesverdi etter a reduseres med beregnede avskrivninger etter de avskrivningsregler og avskrivningssatser som gjelder for vedkommende driftsmiddel, for eiertiden frem til og med inntektsåret 2009.
 

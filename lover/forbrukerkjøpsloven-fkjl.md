@@ -39,9 +39,22 @@ Loven gjelder bytte av ting så langt den passer.
 
 ### § 2. Lovens anvendelse i noen særlige forhold
 
-Loven gjelder forbestilling av ting som skal tilvirkes (tilvirkningskjøp)levering av vannkjøp av fordringer eller rettigheteravtale med et nettselskap om overføring av elektrisk energidigitale ytelser som etter kjøpsavtalen skal leveres sammen med en ting, og som er sammenknyttet med tingen på en slik måte at ytelsene er nødvendige for tingens funksjoner. Dette gjelder uavhengig av om de digitale ytelsene skal leveres av selgeren eller en tredjeperson. Er det tvil om levering av de digitale ytelsene omfattes av kjøpsavtalen, legges det til grunn at ytelsene er omfattet av avtalen.
+Loven gjelder for
 
-Loven gjelder ikke forkjøp av fast eiendomavtale om oppføring av bygning eller annet anlegg på fast eiendomavtale med en kraftleverandør om levering av elektrisk energi. [[Kapittel 5](lov/2002-06-21-34/kap5)](lov/2002-06-21-34/kap5) om forsinkelse gjelder likevel ved forsinket oppstart av levering av elektrisk energiavtale som pålegger den part som skal levere tingen, også å utføre et arbeid eller annen tjeneste, dersom dette utgjør den overveiende del av hans eller hennes forpliktelseravtale om levering av digitale ytelser som ikke er omfattet av første ledd bokstav ekjøp av fysiske medier som etter avtalen utelukkende brukes som bærere av digitalt innhold. [§§ 6](lov/2002-06-21-34/§6), [7](lov/2002-06-21-34/§7) og [23](lov/2002-06-21-34/§23) gjelder likevel for levering og forbrukerens krav ved forsinket levering av slike fysiske medier.
+1. bestilling av ting som skal tilvirkes (tilvirkningskjøp)
+2. levering av vann
+3. kjøp av fordringer eller rettigheter
+4. avtale med et nettselskap om overføring av elektrisk energi
+5. digitale ytelser som etter kjøpsavtalen skal leveres sammen med en ting, og som er sammenknyttet med tingen på en slik måte at ytelsene er nødvendige for tingens funksjoner. Dette gjelder uavhengig av om de digitale ytelsene skal leveres av selgeren eller en tredjeperson. Er det tvil om levering av de digitale ytelsene omfattes av kjøpsavtalen, legges det til grunn at ytelsene er omfattet av avtalen.
+
+Loven gjelder ikke for
+
+1. kjøp av fast eiendom
+2. avtale om oppføring av bygning eller annet anlegg på fast eiendom
+3. avtale med en kraftleverandør om levering av elektrisk energi. [[Kapittel 5](lov/2002-06-21-34/kap5)](lov/2002-06-21-34/kap5) om forsinkelse gjelder likevel ved forsinket oppstart av levering av elektrisk energi
+4. avtale som pålegger den part som skal levere tingen, også å utføre et arbeid eller annen tjeneste, dersom dette utgjør den overveiende del av hans eller hennes forpliktelser
+5. avtale om levering av digitale ytelser som ikke er omfattet av første ledd bokstav e
+6. kjøp av fysiske medier som etter avtalen utelukkende brukes som bærere av digitalt innhold. [§§ 6](lov/2002-06-21-34/§6), [7](lov/2002-06-21-34/§7) og [23](lov/2002-06-21-34/§23) gjelder likevel for levering og forbrukerens krav ved forsinket levering av slike fysiske medier.
 
 Med digitale ytelser menes ytelser som nevnt i [digitalytelsesloven § 1](lov/2022-06-17-56/§1) annet ledd.
 
@@ -147,7 +160,13 @@ Tingen skal være i samsvar med de krav til art, mengde, kvalitet, funksjonalite
 
 Tingen skal også være i samsvar med kravene som følger av tredje og fjerde ledd, med mindre forbrukeren ved inngåelsen av avtalen ble spesielt opplyst om at en bestemt egenskap ved tingen ville avvike fra disse kravene, og uttrykkelig og særskilt aksepterte dette avviket.
 
-Hvis det ikke er avtalt noe annet i samsvar med reglene i annet ledd, skal tingenpasse for de formål som tilsvarende ting vanligvis brukes tilsvare til den mengde og ha de egenskaper og andre funksjoner, blant annet med hensyn til holdbarhet, funksjonalitet og sikkerhet, som er vanlige for ting av samme type, og som forbrukeren med rimelighet kan forvente ved kjøp av en slik tingvære av samme kvalitet som og tilsvare beskrivelsen av en prøve eller modell som selgeren har gjort tilgjengelig for forbrukeren før inngåelsen av avtalenleveres med relevant tilbehør, slik som innpakning, installasjonsveiledning, bruksanvisning eller annen veiledning, som forbrukeren med rimelighet kan forvente å fåvære i samsvar med offentligrettslige krav som stilles i lovgivningen eller offentlig vedtak i medhold av lov på den tid kjøpet inngås, hvis ikke forbrukeren har til hensikt å anvende tingen på en slik måte at kravet er uten betydning.
+Hvis det ikke er avtalt noe annet i samsvar med reglene i annet ledd, skal tingen
+
+1. passe for de formål som tilsvarende ting vanligvis brukes til
+2. svare til den mengde og ha de egenskaper og andre funksjoner, blant annet med hensyn til holdbarhet, funksjonalitet og sikkerhet, som er vanlige for ting av samme type, og som forbrukeren med rimelighet kan forvente ved kjøp av en slik ting
+3. være av samme kvalitet som og tilsvare beskrivelsen av en prøve eller modell som selgeren har gjort tilgjengelig for forbrukeren før inngåelsen av avtalen
+4. leveres med relevant tilbehør, slik som innpakning, installasjonsveiledning, bruksanvisning eller annen veiledning, som forbrukeren med rimelighet kan forvente å få
+5. være i samsvar med offentligrettslige krav som stilles i lovgivningen eller offentlig vedtak i medhold av lov på den tid kjøpet inngås, hvis ikke forbrukeren har til hensikt å anvende tingen på en slik måte at kravet er uten betydning.
 
 For ting som i samsvar med [§ 2](lov/2002-06-21-34/§2) første ledd bokstav e skal leveres sammen med en digital ytelse, skal selgeren sikre at forbrukeren får informasjon om og får levert oppdateringer, herunder sikkerhetsoppdateringer, som er nødvendige for at tingen fortsetter å være i samsvar med lovens krav. Gjelder avtalen en enkelt levering av en digital ytelse, gjelder selgerens plikter etter første punktum i den tidsperioden som forbrukeren med rimelighet kan forvente ut fra typen og formålet med tingen og den digitale ytelsen og under hensyn til avtalens omstendigheter og art. Gjelder avtalen en løpende levering av den digitale ytelsen, gjelder selgerens plikter etter første punktum så lenge den digitale ytelsen skal leveres, men likevel i minst to år etter leveringen av tingen.
 
@@ -157,7 +176,12 @@ Selgeren er ikke ansvarlig for mangler som utelukkende skyldes at forbrukeren in
 
 ### § 16. Mangel
 
-Tingen har en mangel dersomden ikke er i samsvar med ett eller flere av kravene i [§ 15](lov/2002-06-21-34/§15), med mindre det er avtalt unntak fra kravene i samsvar med [§ 15](lov/2002-06-21-34/§15) annet leddselgeren ved kjøpet har forsømt å opplyse om forhold ved tingen eller dens bruk som han eller hun burde kjenne til, og som forbrukeren hadde grunn til å regne med å få, dersom unnlatelsen kan antas å ha virket inn på kjøpetden ikke svarer til opplysninger som selgeren i sin markedsføring eller ellers har gitt om tingen eller dens bruk, dersom selgeren ikke viser at opplysningene før kjøpet er rettet på samme eller tilsvarende måte som de ble fremsatt, eller at de ikke kan ha innvirket på kjøpetbruken av tingen hindres eller begrenses som følge av krenkelse av en tredjepersons rett i tingen, for eksempel eiendomsrett, panterett eller immaterialrett, om ikke annet er avtalt.
+Tingen har en mangel dersom
+
+1. den ikke er i samsvar med ett eller flere av kravene i [§ 15](lov/2002-06-21-34/§15), med mindre det er avtalt unntak fra kravene i samsvar med [§ 15](lov/2002-06-21-34/§15) annet ledd
+2. selgeren ved kjøpet har forsømt å opplyse om forhold ved tingen eller dens bruk som han eller hun burde kjenne til, og som forbrukeren hadde grunn til å regne med å få, dersom unnlatelsen kan antas å ha virket inn på kjøpet
+3. den ikke svarer til opplysninger som selgeren i sin markedsføring eller ellers har gitt om tingen eller dens bruk, dersom selgeren ikke viser at opplysningene før kjøpet er rettet på samme eller tilsvarende måte som de ble fremsatt, eller at de ikke kan ha innvirket på kjøpet
+4. bruken av tingen hindres eller begrenses som følge av krenkelse av en tredjepersons rett i tingen, for eksempel eiendomsrett, panterett eller immaterialrett, om ikke annet er avtalt.
 
 Første ledd bokstav c gjelder tilsvarende for opplysninger noen annen enn selgeren har gitt på tingens innpakning, i annonse eller annen markedsføring på vegne av selgeren eller tidligere salgsledd. Dette gjelder likevel ikke hvis selgeren viser at han eller hun verken kjente til eller med rimelighet kunne ha kjent til opplysningene.
 
@@ -167,7 +191,10 @@ Forbrukeren kan ikke gjøre gjeldende som en mangel noe som har sin årsak i mat
 
 ### § 17. Mangel som skyldes uriktig installering
 
-Feil ved tingen som skyldes uriktig installering, anses som en mangel dersominstallering er del av kjøpsavtalen og ble utført av selgeren eller under selgerens ansvar, ellerinstalleringen var ment å utføres av forbrukeren og ble utført av ham eller henne, og den uriktige installeringen skyldes mangler i installasjonsveiledningen som ble levert av selgeren. For ting som i samsvar med [§ 2](lov/2002-06-21-34/§2) første ledd bokstav e skal leveres sammen med en digital ytelse, gjelder dette også der installasjonsveiledningen ble levert av tilbyderen av den digitale ytelsen.
+Feil ved tingen som skyldes uriktig installering, anses som en mangel dersom
+
+1. installering er del av kjøpsavtalen og ble utført av selgeren eller under selgerens ansvar, eller
+2. installeringen var ment å utføres av forbrukeren og ble utført av ham eller henne, og den uriktige installeringen skyldes mangler i installasjonsveiledningen som ble levert av selgeren. For ting som i samsvar med [§ 2](lov/2002-06-21-34/§2) første ledd bokstav e skal leveres sammen med en digital ytelse, gjelder dette også der installasjonsveiledningen ble levert av tilbyderen av den digitale ytelsen.
 
 > Endret ved lov [16 juni 2023 nr. 60](lov/2023-06-16-60) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 909](forskrift/2023-06-16-909)).
 
@@ -197,7 +224,12 @@ En garanti er rettslig bindende for garantigiveren på de vilkår som er fastsat
 
 ### § 19. Forbrukerens krav ved forsinkelse
 
-Dersom tingen ikke blir levert eller blir levert for sent og dette ikke skyldes forbrukeren eller forhold på forbrukerens side (forsinkelse), kan forbrukerenholde kjøpesummen tilbake etter [§ 20](lov/2002-06-21-34/§20)kreve oppfyllelse etter [§ 21](lov/2002-06-21-34/§21)kreve heving etter [§ 23](lov/2002-06-21-34/§23)kreve erstatning etter [§ 24](lov/2002-06-21-34/§24).
+Dersom tingen ikke blir levert eller blir levert for sent og dette ikke skyldes forbrukeren eller forhold på forbrukerens side (forsinkelse), kan forbrukeren
+
+1. holde kjøpesummen tilbake etter [§ 20](lov/2002-06-21-34/§20)
+2. kreve oppfyllelse etter [§ 21](lov/2002-06-21-34/§21)
+3. kreve heving etter [§ 23](lov/2002-06-21-34/§23)
+4. kreve erstatning etter [§ 24](lov/2002-06-21-34/§24).
 
 Forbrukerens rett til erstatning faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.
 
@@ -251,7 +283,13 @@ Hindres selgeren i å oppfylle kjøpet til rett tid, skal forbrukeren gis meldin
 
 ### § 26. Forbrukerens krav ved mangler
 
-Dersom det foreligger en mangel og dette ikke skyldes forbrukeren eller forhold på forbrukerens side, kan forbrukerenholde kjøpesummen tilbake etter [§ 28](lov/2002-06-21-34/§28)velge mellom retting og omlevering i samsvar med [§§ 29](lov/2002-06-21-34/§29) og [30](lov/2002-06-21-34/§30)kreve prisavslag etter [§ 31](lov/2002-06-21-34/§31)kreve heving etter [§ 32](lov/2002-06-21-34/§32)kreve erstatning etter [§ 33](lov/2002-06-21-34/§33).
+Dersom det foreligger en mangel og dette ikke skyldes forbrukeren eller forhold på forbrukerens side, kan forbrukeren
+
+1. holde kjøpesummen tilbake etter [§ 28](lov/2002-06-21-34/§28)
+2. velge mellom retting og omlevering i samsvar med [§§ 29](lov/2002-06-21-34/§29) og [30](lov/2002-06-21-34/§30)
+3. kreve prisavslag etter [§ 31](lov/2002-06-21-34/§31)
+4. kreve heving etter [§ 32](lov/2002-06-21-34/§32)
+5. kreve erstatning etter [§ 33](lov/2002-06-21-34/§33).
 
 Forbrukerens rett til erstatning faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.
 
@@ -377,7 +415,10 @@ Selgeren svarer for økte kostnader i forbindelse med betalingen som skyldes at 
 
 ### § 40. Forbrukerens medvirkning ved oppfyllelse av kjøpet
 
-Forbrukeren skalyte slik medvirkning som det er rimelig å vente av ham eller henne for at selgeren skal kunne oppfylle kjøpet, ogoverta tingen ved å hente eller motta den.
+Forbrukeren skal
+
+1. yte slik medvirkning som det er rimelig å vente av ham eller henne for at selgeren skal kunne oppfylle kjøpet, og
+2. overta tingen ved å hente eller motta den.
 
 ## Kapittel 8. Avbestilling og retur
 
@@ -393,7 +434,11 @@ Hvis det ikke er avtalt avbestillingsgebyr, utmåles erstatningen etter reglene 
 
 Etter at tingen er levert, blir forbrukeren ikke fritatt for å betale kjøpesummen selv om tingen leveres tilbake til selgeren.
 
-Betalingsplikten bortfaller likevelved hevinghvis vilkårene for angrerett etter [angrerettloven](lov/2014-06-20-27) er oppfylt, ellerhvis en rett til tilbakelevering følger av avtalen, for eksempel ved at tingen er kjøpt på prøve (hjemlån, deponering).
+Betalingsplikten bortfaller likevel
+
+1. ved heving
+2. hvis vilkårene for angrerett etter [angrerettloven](lov/2014-06-20-27) er oppfylt, eller
+3. hvis en rett til tilbakelevering følger av avtalen, for eksempel ved at tingen er kjøpt på prøve (hjemlån, deponering).
 
 Forbrukeren kan bytte tingen hvis bytterett må anses avtalt eller følger av alminnelige rettsregler.
 
@@ -401,7 +446,12 @@ Forbrukeren kan bytte tingen hvis bytterett må anses avtalt eller følger av al
 
 ### § 43. Selgerens krav
 
-Dersom forbrukeren ikke betaler eller oppfyller sine øvrige plikter etter avtalen eller loven, og dette ikke skyldes selgeren eller forhold på selgerens side, kan selgerenkreve oppfyllelse etter [§ 44](lov/2002-06-21-34/§44)kreve heving etter [§ 45](lov/2002-06-21-34/§45)kreve erstatning og rente etter [§ 46](lov/2002-06-21-34/§46)holde ytelsen tilbake etter [§ 9](lov/2002-06-21-34/§9).
+Dersom forbrukeren ikke betaler eller oppfyller sine øvrige plikter etter avtalen eller loven, og dette ikke skyldes selgeren eller forhold på selgerens side, kan selgeren
+
+1. kreve oppfyllelse etter [§ 44](lov/2002-06-21-34/§44)
+2. kreve heving etter [§ 45](lov/2002-06-21-34/§45)
+3. kreve erstatning og rente etter [§ 46](lov/2002-06-21-34/§46)
+4. holde ytelsen tilbake etter [§ 9](lov/2002-06-21-34/§9).
 
 Selgerens rett til erstatning og rente faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.
 
@@ -439,9 +489,17 @@ Selgeren må opplyse forbrukeren om de spesifikasjoner han eller hun vil bruke o
 
 ### § 48 a. Stenging på grunn av forbrukerens kontraktsbrudd ved avtaler om overføring av elektrisk energi
 
-Nettselskapet kan avbryte (stenge) overføringen av elektrisk energi dersom det foreligger vesentlig kontraktsbrudd fra forbrukerens side i en avtale som nevnt i [§ 2](lov/2002-06-21-34/§2) første ledd bokstav d. Stenging kan likevel ikke skje hvisdet er fare for liv, helse eller betydelig tingskade, ellerforbrukeren har innsigelser mot grunnlaget for stengingen, som ikke er åpenbart grunnløse.
+Nettselskapet kan avbryte (stenge) overføringen av elektrisk energi dersom det foreligger vesentlig kontraktsbrudd fra forbrukerens side i en avtale som nevnt i [§ 2](lov/2002-06-21-34/§2) første ledd bokstav d. Stenging kan likevel ikke skje hvis
 
-Før stenging kan skje, skal nettselskapet sende forbrukeren et skriftlig varsel om stenging. Varselet skal angiat stenging ikke vil skje dersom forbrukeren betaler innen fire uker regnet fra den dato varselet ble sendt,at forbrukeren bør ta snarlig kontakt med nettselskapet dersom stenging kan medføre fare for liv, helse eller betydelig tingskade, eller dersom forbrukeren har innsigelser mot grunnlaget for stengingen,at forbrukeren kan bli pålagt å dekke nødvendige kostnader i forbindelse med en stenging og eventuell gjenåpning av forbrukerens anlegg,at forbrukeren kan ta kontakt med sosialtjenesten i den kommunen forbrukeren har fast bosted, for å avklare om [lov om sosiale tjenester i arbeids- og velferdsforvaltningen](lov/2009-12-18-131) gir rett til økonomisk stønad for å avhjelpe situasjonen.
+1. det er fare for liv, helse eller betydelig tingskade, eller
+2. forbrukeren har innsigelser mot grunnlaget for stengingen, som ikke er åpenbart grunnløse.
+
+Før stenging kan skje, skal nettselskapet sende forbrukeren et skriftlig varsel om stenging. Varselet skal angi
+
+1. at stenging ikke vil skje dersom forbrukeren betaler innen fire uker regnet fra den dato varselet ble sendt,
+2. at forbrukeren bør ta snarlig kontakt med nettselskapet dersom stenging kan medføre fare for liv, helse eller betydelig tingskade, eller dersom forbrukeren har innsigelser mot grunnlaget for stengingen,
+3. at forbrukeren kan bli pålagt å dekke nødvendige kostnader i forbindelse med en stenging og eventuell gjenåpning av forbrukerens anlegg,
+4. at forbrukeren kan ta kontakt med sosialtjenesten i den kommunen forbrukeren har fast bosted, for å avklare om [lov om sosiale tjenester i arbeids- og velferdsforvaltningen](lov/2009-12-18-131) gir rett til økonomisk stønad for å avhjelpe situasjonen.
 
 Dersom sosialtjenesten innen fristen i annet ledd annet punktum bokstav a har meddelt skriftlig at den tar på seg ansvaret for å oppfylle forbrukerens forpliktelse, kan stenging ikke skje.
 
@@ -477,7 +535,11 @@ Ved forsinkelse skal selgeren betale renter fra den dagen betalingen ble mottatt
 
 ### § 51. Tingens tilstand ved heving og omlevering
 
-Hvis forbrukeren ved heving eller omlevering ikke kan levere tilbake tingen i vesentlig samme stand og mengde som han eller hun mottok den, skal forbrukeren erstatte verdien eller den verdireduksjonen tingen har hatt. Dette gjelder likevel ikke dersomårsaken til at det er umulig å tilbakelevere tingen i vesentlig samme stand og mengde, er tingens egen beskaffenhet eller annet forhold som ikke beror på forbrukerentingen er helt eller delvis gått til grunne eller forringet som følge av en handling som trengs for å undersøke om tingen har en mangel, ellertingen helt eller delvis er forbrukt eller forandret av forbrukeren under forutsatt bruk før hevingen eller omleveringen.
+Hvis forbrukeren ved heving eller omlevering ikke kan levere tilbake tingen i vesentlig samme stand og mengde som han eller hun mottok den, skal forbrukeren erstatte verdien eller den verdireduksjonen tingen har hatt. Dette gjelder likevel ikke dersom
+
+1. årsaken til at det er umulig å tilbakelevere tingen i vesentlig samme stand og mengde, er tingens egen beskaffenhet eller annet forhold som ikke beror på forbrukeren
+2. tingen er helt eller delvis gått til grunne eller forringet som følge av en handling som trengs for å undersøke om tingen har en mangel, eller
+3. tingen helt eller delvis er forbrukt eller forandret av forbrukeren under forutsatt bruk før hevingen eller omleveringen.
 
 > Endret ved lov [16 juni 2023 nr. 60](lov/2023-06-16-60) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 909](forskrift/2023-06-16-909)).
 
@@ -487,7 +549,10 @@ Hvis forbrukeren ved heving eller omlevering ikke kan levere tilbake tingen i ve
 
 Erstatning for kontraktsbrudd fra den ene parts side skal svare til det økonomiske tapet, herunder utlegg, prisforskjell og tapt fortjeneste, som den annen part er påført ved kontraktsbruddet. Dette gjelder likevel bare tap som en med rimelighet kunne ha forutsett som en mulig følge av kontraktsbruddet.
 
-Erstatningen omfatter ikketap som følge av personskadetap i forbrukerens næringsvirksomhet.
+Erstatningen omfatter ikke
+
+1. tap som følge av personskade
+2. tap i forbrukerens næringsvirksomhet.
 
 ### § 53. Beregning av prisforskjell ved heving
 

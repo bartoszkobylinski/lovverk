@@ -29,7 +29,13 @@ Under opphold i utlandet gis det utvidet stønad til helsetjenester etter særre
 
 ## § 2. Personkrets
 
-I tillegg til dem som har rett til utvidet stønad til helsetjenester etter [folketrygdloven § 5-24](lov/1997-02-28-19/§5-24) tredje ledd under opphold i utlandet, gis det utvidet stønad til et medlemsom i utlandet er arbeidstaker eller frilanser på heltid,som er arbeidstaker på et norskregistrert skip, eller som i utlandet er godtatt som hyresøkende av et norsk konsulat,som er i arbeid på et norsk fiskefartøy,som studerer på heltid ved et utenlandsk lærested,som er pensjonist. Det er et vilkår at vedkommende som arbeidstaker har vært medlem i trygden med rett til utvidet stønad til helsetjenester i til sammen minst ti år, inkludert minst fem år umiddelbart før pensjonen ble tatt ut.
+I tillegg til dem som har rett til utvidet stønad til helsetjenester etter [folketrygdloven § 5-24](lov/1997-02-28-19/§5-24) tredje ledd under opphold i utlandet, gis det utvidet stønad til et medlem
+
+1. som i utlandet er arbeidstaker eller frilanser på heltid,
+2. som er arbeidstaker på et norskregistrert skip, eller som i utlandet er godtatt som hyresøkende av et norsk konsulat,
+3. som er i arbeid på et norsk fiskefartøy,
+4. som studerer på heltid ved et utenlandsk lærested,
+5. som er pensjonist. Det er et vilkår at vedkommende som arbeidstaker har vært medlem i trygden med rett til utvidet stønad til helsetjenester i til sammen minst ti år, inkludert minst fem år umiddelbart før pensjonen ble tatt ut.
 
 Det kan gis utvidet stønad til andre medlemmer enn dem som er nevnt i første ledd når særlige grunner gjør det rimelig.
 
@@ -41,7 +47,14 @@ Stønad til helsetjenester gis etter bestemmelsene i [folketrygdloven kapittel 5
 
 Trygden dekker nødvendige utgifter til opphold og behandling i sykehus fullt ut.
 
-Trygden dekker 75 prosent av nødvendige utgifter tillegehjelpradiologisk undersøkelse og behandlingprøver og undersøkelser ved medisinske laboratorierpsykologhjelpfysikalsk behandlingtannlegehjelp for sykdom, unntatt kjeveortopedisk behandling.
+Trygden dekker 75 prosent av nødvendige utgifter til
+
+1. legehjelp
+2. radiologisk undersøkelse og behandling
+3. prøver og undersøkelser ved medisinske laboratorier
+4. psykologhjelp
+5. fysikalsk behandling
+6. tannlegehjelp for sykdom, unntatt kjeveortopedisk behandling.
 
 Trygden gir full dekning for behandling som blir dekket fullt ut i Norge.
 
@@ -73,7 +86,11 @@ Som hjemsted regnes fast eller midlertidig bosted. Det samme gjelder fast eller 
 
 Utvidet stønad til helsetjenester etter [folketrygdloven § 5-24](lov/1997-02-28-19/§5-24) tredje ledd gis for sykdom eller fødsel som inntreffer før kl. 24 den første søndagen i den første måneden etter at arbeidsforholdet eller studiet opphørte.
 
-Til en sjømann som har mer enn to måneders uavbrutt tjeneste som sjømann i samme rederi, ytes det utvidet stønad når sykdommen eller fødselen inntreffer før kl. 24 den første søndageni den andre måneden etter at arbeidsforholdet opphørte dersom tjenesten har vart mindre enn 10 måneder,i den tredje måneden etter at arbeidsforholdet opphørte dersom tjenesten har vart i 10 måneder, men mindre enn 20 måneder,i den fjerde måneden etter at arbeidsforholdet opphørte dersom tjenesten har vart 20 måneder eller mer.
+Til en sjømann som har mer enn to måneders uavbrutt tjeneste som sjømann i samme rederi, ytes det utvidet stønad når sykdommen eller fødselen inntreffer før kl. 24 den første søndagen
+
+1. i den andre måneden etter at arbeidsforholdet opphørte dersom tjenesten har vart mindre enn 10 måneder,
+2. i den tredje måneden etter at arbeidsforholdet opphørte dersom tjenesten har vart i 10 måneder, men mindre enn 20 måneder,
+3. i den fjerde måneden etter at arbeidsforholdet opphørte dersom tjenesten har vart 20 måneder eller mer.
 
 En sjømann har uten hensyn til de fristene som er nevnt i første og andre ledd, rett til utvidet stønad for stønadstilfeller som oppstår i et tidsrom da vedkommende etter sjømannsloven har rett til hyre etter arbeidsforholdets opphør. Det samme gjelder dersom sjømannen har rett til å få hjemreisen betalt av rederen eller staten.
 

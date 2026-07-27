@@ -30,7 +30,11 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunn
 
 ## § 2.
 
-Det skal betales miljøavgift på drikkevareemballasje med følgende beløp per emballasjeenhet:glass og metall: kr 7,06plast: kr 4,27kartong og papp: kr 1,74.
+Det skal betales miljøavgift på drikkevareemballasje med følgende beløp per emballasjeenhet:
+
+1. glass og metall: kr 7,06
+2. plast: kr 4,27
+3. kartong og papp: kr 1,74.
 
 Departementet kan gi forskrift om fritak for miljøavgift dersom emballasjen inngår i et retursystem, herunder fastsette vilkår for fritak.
 
@@ -42,7 +46,13 @@ Som engangsemballasje anses emballasje som ikke kan gjenbrukes i sin opprinnelig
 
 ## § 4.
 
-Emballasje som inneholder følgende drikkevarer, er fritatt for grunnavgift:melk og melkeprodukterdrikkevarer fremstilt av kakao og sjokolade og konsentrater av dettevarer i pulverformkorn- og soyabaserte melkeerstatningsproduktermorsmelkerstatning.
+Emballasje som inneholder følgende drikkevarer, er fritatt for grunnavgift:
+
+1. melk og melkeprodukter
+2. drikkevarer fremstilt av kakao og sjokolade og konsentrater av dette
+3. varer i pulverform
+4. korn- og soyabaserte melkeerstatningsprodukter
+5. morsmelkerstatning.
 
 Drikkevarer som nevnt i første ledd bokstav c og e er også fritatt for miljøavgift.
 
@@ -50,7 +60,25 @@ Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for f
 
 ## § 5.
 
-Det gis fritak for miljø- og grunnavgift på drikkevareemballasje somfra registrert virksomhets og importørs lagerutføres til utlandetleveres som proviantleveres til utsalg på lufthavninnføressom reisegodstil bruk i transportmidler i ervervsmessig virksomhetfra registrert virksomhets eller importørs lager leveres til eller innføres avdiplomaterNATO og styrker fra land som deltar i Partnerskap for fredDen nordiske investeringsbankkommer i retur til produsents eller importørs lagerhar rominnhold på minst fire literleveres vederlagsfritt til mottaker for utdeling på veldedig grunnlag.
+Det gis fritak for miljø- og grunnavgift på drikkevareemballasje som
+
+1. fra registrert virksomhets og importørs lager
+
+   1. utføres til utlandet
+   2. leveres som proviant
+   3. leveres til utsalg på lufthavn
+2. innføres
+
+   1. som reisegods
+   2. til bruk i transportmidler i ervervsmessig virksomhet
+3. fra registrert virksomhets eller importørs lager leveres til eller innføres av
+
+   1. diplomater
+   2. NATO og styrker fra land som deltar i Partnerskap for fred
+   3. Den nordiske investeringsbank
+4. kommer i retur til produsents eller importørs lager
+5. har rominnhold på minst fire liter
+6. leveres vederlagsfritt til mottaker for utdeling på veldedig grunnlag.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

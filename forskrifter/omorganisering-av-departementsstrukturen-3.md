@@ -15,7 +15,7 @@ xml_hash: "b9bf78b9456e5b8a5364a5f10f2684785f168991db3711b0dc5ddb1847b8ab27"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -27,8 +27,12 @@ eu_basis: []
 3. (Gjelder utnevnelser.)
 4. (Gjelder utnevnelser.)
 5. (Gjelder utnevnelser.)
-6. Overføring av ansvaret for lover til de nye departementene i samsvar med et vedlagt forslag.1 1 Se vedlegg 1 til 4.
-7. Ansvaret for eierinteresser i statlige selskaper overføres til Nærings- og handelsdepartementet i samsvar med et vedlagt forslag.1 1 Se vedlegg 5.
+6. Overføring av ansvaret for lover til de nye departementene i samsvar med et vedlagt forslag.1
+
+   1 Se vedlegg 1 til 4.
+7. Ansvaret for eierinteresser i statlige selskaper overføres til Nærings- og handelsdepartementet i samsvar med et vedlagt forslag.1
+
+   1 Se vedlegg 5.
 8. Forvaltningsansvaret for [lov av 29. november 1991 nr. 78](lov/1991-11-29-78) om Statens Bankinvesteringsfond overføres fra Finansdepartementet til Nærings- og handelsdepartementet.
 9. Forvaltningsansvaret for Produktregisteret overføres fra Arbeids- og administrasjonsdepartementet til Miljøverndepartementet.
 10. Delegering til departementene til å foreta de endringer i forskrifter, avtaler, instrukser og bestemmelser som er en nødvendig følge av omorganiseringen.
@@ -111,7 +115,12 @@ Helsedepartementet (HD) overtar forvaltningsansvaret for følgende lovverk:
 - [Lov av 2. april 1993 nr. 38](lov/1993-04-02-38) om framstilling og bruk av genmodifiserte organismer, [kapittel 2](lov/1993-04-02-38/kap2). (Miljøverndepartementet forvalter lovens kapittel 3. Kapittel 1, 4 og 5 er felleskapitler)
 - [Lov av 19. november 1982 nr. 66](lov/1982-11-19-66) om helsetjenesten i kommunene, med unntak av (§ 1-3 første ledd nr. 4 jf. annet ledd nr. 4 (for så vidt gjelder hjemmesykepleie) og nr. 6 (sykehjem eller boform for heldøgns omsorg og pleie) § 1-3 femte ledd (for så vidt gjelder hjemmesykepleie, sykehjem eller boform for heldøgns omsorg og pleie), § 2-3 annet til fjerde ledd, § 5-1 tredje ledd og § 6-8) (under Sosialdepartementet)
 - [Lov av 23. juni 2000 nr. 56](lov/2000-06-23-56) om helsemessig og sosial beredskap
-- [Lov av 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd (folketrygdloven), for så vidt gjelder:Kapittel 5 Stønad ved helsetjenester, med unntak av § 5-10 Behandling for språk- og taledefekter, § 5-15 Ortopediske hjelpemidler m.m., § 5-24 Stønad til helsetjenester i utlandet og § 5-26 Stønad ved sykdom som har oppstått i tidsrom uten stønadsrett.Kapittel 20 Administrative organer, § 20-7 Klagenemnda for bidrag til behandling i utlandetKapittel 22 Utbetaling, § 22-2 Utbetaling ved direkte oppgjør, § 22-4 Disponering av ytelser til langstidspasienter i helseinstitusjon og § 22-5 Felles trivselsordninger for langstidspasienter)Kapittel 25 Forskjellige bestemmelser, § 25-6 Tap av retten til å praktisere for trygdens regning og § 25-7 Utelukkelse fra å utstede legeerklæringer.
+- [Lov av 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd (folketrygdloven), for så vidt gjelder:
+
+  - Kapittel 5 Stønad ved helsetjenester, med unntak av § 5-10 Behandling for språk- og taledefekter, § 5-15 Ortopediske hjelpemidler m.m., § 5-24 Stønad til helsetjenester i utlandet og § 5-26 Stønad ved sykdom som har oppstått i tidsrom uten stønadsrett.
+  - Kapittel 20 Administrative organer, § 20-7 Klagenemnda for bidrag til behandling i utlandet
+  - Kapittel 22 Utbetaling, § 22-2 Utbetaling ved direkte oppgjør, § 22-4 Disponering av ytelser til langstidspasienter i helseinstitusjon og § 22-5 Felles trivselsordninger for langstidspasienter)
+  - Kapittel 25 Forskjellige bestemmelser, § 25-6 Tap av retten til å praktisere for trygdens regning og § 25-7 Utelukkelse fra å utstede legeerklæringer.
 
 ## Vedlegg 4. Oversikt over lover Sosialdepartementet skal ha forvaltningsansvaret for:
 
@@ -129,7 +138,10 @@ Sosialdepartementet (SOS) overtar forvaltningsansvaret for følgende lovverk:
 - Lov av 13. 1946 nr. 22 om krigspensjonering for hjemmestyrkepersonell og sivilpersoner
 - [Lov av 27. juni 1947 nr. 10](lov/1947-06-27-10) om ulykkestrygd for arbeidere ved norske bedrifter på Svalbard
 - [Lov av 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn
-- Midlertidig [lov av 29. juni 1951 nr. 34](lov/1951-06-29-34) om tillegg til lover av 13. desember 1946 omKrigspensjonering for hjemmestyrkepersonell og sivilpersoner ogKrigspensjonering for militærpersoner
+- Midlertidig [lov av 29. juni 1951 nr. 34](lov/1951-06-29-34) om tillegg til lover av 13. desember 1946 om
+
+  1. Krigspensjonering for hjemmestyrkepersonell og sivilpersoner og
+  2. Krigspensjonering for militærpersoner
 - [Lov av 6. juli 1951 nr. 4](lov/1951-07-06-4) om Norges Krigsskaderåd
 - [Lov av 3. desember 1951 nr. 2](lov/1951-12-03-2) om pensjonstrygd for skogsarbeidere
 - [Lov av 17. juli 1953 nr. 2](lov/1953-07-17-2) om erstatning for krigsskade på eiendom og interesse
@@ -145,7 +157,31 @@ Sosialdepartementet (SOS) overtar forvaltningsansvaret for følgende lovverk:
 - [Lov av 23. desember 1988 nr. 110](lov/1988-12-23-110) om statstilskott til ordninger for avtalefestet pensjon
 - [Lov av 17. februar 1989 nr. 2](lov/1989-02-17-2) om bidragsforskott
 - [Lov av 29. januar 1993 nr. 27](lov/1993-01-29-27) om endringer i [lov av 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn
-- [Lov av 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd (folketrygdloven), for så vidt gjelder:Kapittel 1 Formål og definisjoner m.m., med unntak av § 1-4 Grunnbeløpet (under Arbeids- og administrasjonsdepartementet)Kapittel 2 MedlemskapKapittel 3 Pensjonskomponentene, trygdetid, pensjonspoeng, beregning av pensjoner, forsørgingstillegg, med unntak av § 3-15 Pensjonsgivende inntekt (under Finansdepartementet)Kapittel 5 Stønad ved helsetjenester, for så vidt gjelder § 5-10 Behandling for språk- og taledefekter, § 5-15 Ortopediske hjelpemidler m.m. og § 5-24 Stønad til helsetjenester i utlandet (kapitlet for øvrig under Helsedepartementet).Kapittel 6 Grunnstønad og hjelpestønadKapittel 7 Stønad ved gravferdKapittel 8 SykepengerKapittel 9 Stønad ved barns og andre nære pårørendes sykdomKapittel 10 Ytelser under medisinsk rehabiliteringKapittel 12 UførepensjonKapittel 13 YrkesskadedekningKapittel 15 Stønad til enslig mor eller farKapittel 16 Ytelser til tidligere familiepleierKapittel 17 Ytelser til gjenlevende ektefelleKapittel 18 BarnepensjonKapittel 19 AlderspensjonKapittel 20 Administrative organer, med unntak av § 20-5 Arbeidsmarkedsetatens organer (under Arbeids- og administrasjonsdepartementet) og § 20-7 Klagenemnda for bidrag til behandling i utlandet (under Helsedepartementet)Kapittel 21 Saksbehandling i trygdesaker. Anke- og klagebehandling m.m., med unntak av § 21-14 Ytelser ved yrkesrettet attføring og § 21-15 Dagpenger under arbeidsløshet (under Arbeids- og administrasjonsdepartementet)Kapittel 22 Utbetaling, med unntak av § 22-2 Utbetaling ved direkte oppgjør, § 22-4 Disponering av ytelser til langstidspasienter i helseinstitusjon og § 22-5 Felles trivselsordninger for langstidspasienter (under Helsedepartementet)Kapittel 23 Finansiering, med unntak av § 23-2 Arbeidsgiveravgift, § 23-3 Trygdeavgift, § 23-5 Produktavgift ved fiske m.m., § 23-9 Tilskott fra kommunene og fylkeskommunene, § 23-10 Tilskott fra staten og § 23-11 Folketrygdens midler – folketrygdfondet (under Finansdepartementet)Kapittel 24 Saksbehandling i avgiftssaker m.m., for så vidt gjelder § 24-2 Trygdeetatens oppgaver (kapitlet for øvrig under Finansdepartementet)Kapittel 25 Forskjellige bestemmelser, med unntak av § 25-6 Tap av retten til å praktisere for trygdens regning og § 25-7 Utelukkelse fra å utstede legeerklæringer (under Helsedepartementet)Kapittel 26 Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover
+- [Lov av 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd (folketrygdloven), for så vidt gjelder:
+
+  - Kapittel 1 Formål og definisjoner m.m., med unntak av § 1-4 Grunnbeløpet (under Arbeids- og administrasjonsdepartementet)
+  - Kapittel 2 Medlemskap
+  - Kapittel 3 Pensjonskomponentene, trygdetid, pensjonspoeng, beregning av pensjoner, forsørgingstillegg, med unntak av § 3-15 Pensjonsgivende inntekt (under Finansdepartementet)
+  - Kapittel 5 Stønad ved helsetjenester, for så vidt gjelder § 5-10 Behandling for språk- og taledefekter, § 5-15 Ortopediske hjelpemidler m.m. og § 5-24 Stønad til helsetjenester i utlandet (kapitlet for øvrig under Helsedepartementet).
+  - Kapittel 6 Grunnstønad og hjelpestønad
+  - Kapittel 7 Stønad ved gravferd
+  - Kapittel 8 Sykepenger
+  - Kapittel 9 Stønad ved barns og andre nære pårørendes sykdom
+  - Kapittel 10 Ytelser under medisinsk rehabilitering
+  - Kapittel 12 Uførepensjon
+  - Kapittel 13 Yrkesskadedekning
+  - Kapittel 15 Stønad til enslig mor eller far
+  - Kapittel 16 Ytelser til tidligere familiepleier
+  - Kapittel 17 Ytelser til gjenlevende ektefelle
+  - Kapittel 18 Barnepensjon
+  - Kapittel 19 Alderspensjon
+  - Kapittel 20 Administrative organer, med unntak av § 20-5 Arbeidsmarkedsetatens organer (under Arbeids- og administrasjonsdepartementet) og § 20-7 Klagenemnda for bidrag til behandling i utlandet (under Helsedepartementet)
+  - Kapittel 21 Saksbehandling i trygdesaker. Anke- og klagebehandling m.m., med unntak av § 21-14 Ytelser ved yrkesrettet attføring og § 21-15 Dagpenger under arbeidsløshet (under Arbeids- og administrasjonsdepartementet)
+  - Kapittel 22 Utbetaling, med unntak av § 22-2 Utbetaling ved direkte oppgjør, § 22-4 Disponering av ytelser til langstidspasienter i helseinstitusjon og § 22-5 Felles trivselsordninger for langstidspasienter (under Helsedepartementet)
+  - Kapittel 23 Finansiering, med unntak av § 23-2 Arbeidsgiveravgift, § 23-3 Trygdeavgift, § 23-5 Produktavgift ved fiske m.m., § 23-9 Tilskott fra kommunene og fylkeskommunene, § 23-10 Tilskott fra staten og § 23-11 Folketrygdens midler – folketrygdfondet (under Finansdepartementet)
+  - Kapittel 24 Saksbehandling i avgiftssaker m.m., for så vidt gjelder § 24-2 Trygdeetatens oppgaver (kapitlet for øvrig under Finansdepartementet)
+  - Kapittel 25 Forskjellige bestemmelser, med unntak av § 25-6 Tap av retten til å praktisere for trygdens regning og § 25-7 Utelukkelse fra å utstede legeerklæringer (under Helsedepartementet)
+  - Kapittel 26 Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover
 - [Lov av 28. februar 1997 nr. 20](lov/1997-02-28-20) om endringer i lov om folketrygd (folketrygdloven)
 - [Lov av 23. juni 2000 nr. 55](lov/2000-06-23-55) om endringer i folketrygdloven og i enkelte andre lover
 - [Lov av 30. mars 2001 nr. 10](lov/2001-03-30-10) om endringer i folketrygdloven og barnetrygdloven (trygd på kontinentalsokkelen)

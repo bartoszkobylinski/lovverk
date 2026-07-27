@@ -15,7 +15,7 @@ xml_hash: "42ab334678a4c59800af5eb51872968b236a8f79b3ba0c35f2580757967e6042"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,10 @@ Ingen må drive ervervsmessig fiske eller fangst med norsk fartøy i farvann som
 
 Norske fartøy kan etter nærmere bestemmelser i denne forskrift likevel gis adgang til å drive ervervsmessig fiske og fangst i farvann som faller inn under [§ 1](forskrift/2007-03-02-232/§1) og som er regulert av internasjonale fiskeriforvaltningsorgan (fjernfisketillatelse).
 
-Med internasjonale fiskeriforvaltningsorgan i denne forskrift forstås:internasjonale organisasjoner som Norge deltar i og som gir Norge adgang til fiske og fangstavtaler som Norge er part i som gir Norge adgang til fiske og fangst.
+Med internasjonale fiskeriforvaltningsorgan i denne forskrift forstås:
+
+1. internasjonale organisasjoner som Norge deltar i og som gir Norge adgang til fiske og fangst
+2. avtaler som Norge er part i som gir Norge adgang til fiske og fangst.
 
 ## § 3. (fjernfisketillatelse)
 
@@ -52,7 +55,12 @@ Ved første gangs tildeling av fjernfisketillatelser kan det settes vilkår om s
 
 ## § 5. (generelle kriterier for tildeling av fjernfisketillatelse)
 
-Etter at det er tildelt fjernfisketillatelse etter [§ 4](forskrift/2007-03-02-232/§4), kan søknad om spesiell tillatelse til å drive fiske eller fangst i fjerne farvann bare innvilges dersom:søknaden gjelder tillatelser for et brukt fartøy eller nybygg, til utskifting av et fartøy eieren er tildelt fjernfisketillatelse for,søknaden gjelder tillatelser for et fartøy som kjøpes for fortsatt drift,eieren er gitt forhåndstilsagn om utskiftingstillatelse ellerfartøyeier eller eier av et annet fartøy oppgir tilsvarende spesiell tillatelse.
+Etter at det er tildelt fjernfisketillatelse etter [§ 4](forskrift/2007-03-02-232/§4), kan søknad om spesiell tillatelse til å drive fiske eller fangst i fjerne farvann bare innvilges dersom:
+
+1. søknaden gjelder tillatelser for et brukt fartøy eller nybygg, til utskifting av et fartøy eieren er tildelt fjernfisketillatelse for,
+2. søknaden gjelder tillatelser for et fartøy som kjøpes for fortsatt drift,
+3. eieren er gitt forhåndstilsagn om utskiftingstillatelse eller
+4. fartøyeier eller eier av et annet fartøy oppgir tilsvarende spesiell tillatelse.
 
 > Endret ved [forskrift 19 juni 2015 nr. 693](forskrift/2015-06-19-693) (i kraft 1 juli 2015).
 

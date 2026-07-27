@@ -15,7 +15,7 @@ xml_hash: "46072f94cf3d12adabbcca1e05c1fb655e4d6ba8b6cc10e5d2c92168f2a16a89"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -122,7 +122,11 @@ Autorisasjon, lisens og spesialistgodkjenning gitt i medhold av denne loven kan 
 
 ### § 12. Dyrehelsepersonells plikter
 
-Dyrehelsepersonells plikter innen sitt fagområde erå arbeide for velferd og sunnhet hos dyr, herunder viltlevende dyrebestander,å medvirke til etisk og miljømessig forsvarlig dyrehold,å verne samfunnet mot fare og skader forårsaket av dyresjukdommer eller av næringsmidler og produkter av animalsk opprinnelse.
+Dyrehelsepersonells plikter innen sitt fagområde er
+
+1. å arbeide for velferd og sunnhet hos dyr, herunder viltlevende dyrebestander,
+2. å medvirke til etisk og miljømessig forsvarlig dyrehold,
+3. å verne samfunnet mot fare og skader forårsaket av dyresjukdommer eller av næringsmidler og produkter av animalsk opprinnelse.
 
 ### § 13. Utøvelse av virksomhet m.m.
 
@@ -180,7 +184,13 @@ Departementet kan gi nærmere forskrifter om rekvirering forbeholdt dyrehelseper
 
 ### § 18. Om medisinsk behandling av dyr og bruk av bestemte metoder m.m.
 
-Bare den som er veterinær kanbehandle dyr som det er grunn til å tro er angrepet av smittsom sjukdom eller som har sjukdom hvis behandling krever veterinærmedisinsk kyndighet,nytte undersøkelses- og behandlingsmetoder som krever spesiell kyndighet i forbindelse med diagnostisering, forebygging og behandling av sjukdom hos dyr. Til slike metoder regnes operative inngrep, injeksjoner og annen perforering av hud eller slimhinne,iverksette fullstendig eller lokal bedøvelse,bruke reseptpliktige legemidler til behandling av dyr,forestå kjøttkontroll.
+Bare den som er veterinær kan
+
+1. behandle dyr som det er grunn til å tro er angrepet av smittsom sjukdom eller som har sjukdom hvis behandling krever veterinærmedisinsk kyndighet,
+2. nytte undersøkelses- og behandlingsmetoder som krever spesiell kyndighet i forbindelse med diagnostisering, forebygging og behandling av sjukdom hos dyr. Til slike metoder regnes operative inngrep, injeksjoner og annen perforering av hud eller slimhinne,
+3. iverksette fullstendig eller lokal bedøvelse,
+4. bruke reseptpliktige legemidler til behandling av dyr,
+5. forestå kjøttkontroll.
 
 Fiskehelsebiologene kan behandle smittsomme og andre sjukdommer etter bestemmelsene i første ledd, punktene 1-4, men bare hos akvatiske dyr unntatt sjøpattedyr.
 
@@ -198,7 +208,10 @@ Departementet kan ved forskrift fastsette at spesielle hjelpemidler og undersøk
 
 ### § 20. Hovedregel om taushetsplikt
 
-Dyrehelsepersonell og deres medhjelpere skal hindre at andre får adgang eller kjennskap til opplysninger som han eller hun har fått i sin virksomhet omnoens personlige forhold ellerdriftsmessige forhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningene angår.
+Dyrehelsepersonell og deres medhjelpere skal hindre at andre får adgang eller kjennskap til opplysninger som han eller hun har fått i sin virksomhet om
+
+1. noens personlige forhold eller
+2. driftsmessige forhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningene angår.
 
 Vedkommende kan heller ikke utnytte slike opplysninger i egen virksomhet eller i tjeneste eller arbeid for andre.
 
@@ -206,7 +219,14 @@ Også enhver annen som omhandles i denne lov, har taushetsplikt om opplysninger 
 
 ### § 21. Begrensninger i taushetsplikten
 
-Taushetsplikten etter [§ 20](lov/2001-06-15-75/§20) er ikke til hinder forat opplysninger gjøres kjent for den opplysningene direkte gjelder, eller for andre i den grad den som har krav på taushetsplikt, samtykker,at opplysninger gis den som fra før er kjent med opplysningene,at opplysninger gis når ingen berettiget interesse tilsier hemmelighold,at opplysninger gis videre når behovet for beskyttelse må anses ivaretatt ved at individualiserende kjennetegn er utelatt,at opplysninger gis videre når tungtveiende private eller offentlige interesser gjør det rettmessig å gi opplysningene videre, ellerat opplysningene gis videre etter regler fastsatt i lov eller i medhold av lov når det er uttrykkelig fastsatt eller klart forutsatt at taushetsplikt ikke skal gjelde.
+Taushetsplikten etter [§ 20](lov/2001-06-15-75/§20) er ikke til hinder for
+
+1. at opplysninger gjøres kjent for den opplysningene direkte gjelder, eller for andre i den grad den som har krav på taushetsplikt, samtykker,
+2. at opplysninger gis den som fra før er kjent med opplysningene,
+3. at opplysninger gis når ingen berettiget interesse tilsier hemmelighold,
+4. at opplysninger gis videre når behovet for beskyttelse må anses ivaretatt ved at individualiserende kjennetegn er utelatt,
+5. at opplysninger gis videre når tungtveiende private eller offentlige interesser gjør det rettmessig å gi opplysningene videre, eller
+6. at opplysningene gis videre etter regler fastsatt i lov eller i medhold av lov når det er uttrykkelig fastsatt eller klart forutsatt at taushetsplikt ikke skal gjelde.
 
 ### § 22. Opplysninger til dyreeier
 
@@ -214,7 +234,13 @@ Dyrehelsepersonell skal uoppfordret gi dyreeieren eller dennes representant, opp
 
 ### § 23. Forsvarlig virksomhet
 
-Dyrehelsepersonell plikter å utøve sin virksomhet forsvarlig og skal herunderholde sine relevante faglige ferdigheter og kunnskaper ved like,være bevisst egne faglige begrensninger,sikre kvaliteten på sine tjenester og påse at virksomheten og tjenestene planlegges og utføres i samsvar med allment aksepterte faglige og etiske normer og krav fastsatt i medhold av lov eller forskrift,dersom pasientenes tilstand krever spesiell behandling som en ikke behersker selv, henvise dyreeieren til annet dyrehelsepersonell som har nødvendig kyndighet og utstyr oggjøre seg kjent med de reglene som gjelder og følge de bestemmelsene som er gitt for utøvelse av egen virksomhet.
+Dyrehelsepersonell plikter å utøve sin virksomhet forsvarlig og skal herunder
+
+1. holde sine relevante faglige ferdigheter og kunnskaper ved like,
+2. være bevisst egne faglige begrensninger,
+3. sikre kvaliteten på sine tjenester og påse at virksomheten og tjenestene planlegges og utføres i samsvar med allment aksepterte faglige og etiske normer og krav fastsatt i medhold av lov eller forskrift,
+4. dersom pasientenes tilstand krever spesiell behandling som en ikke behersker selv, henvise dyreeieren til annet dyrehelsepersonell som har nødvendig kyndighet og utstyr og
+5. gjøre seg kjent med de reglene som gjelder og følge de bestemmelsene som er gitt for utøvelse av egen virksomhet.
 
 Departementet kan gi forskrifter med nærmere krav til hvordan virksomheter skal drives.
 
@@ -344,7 +370,9 @@ Denne loven trer i kraft fra den tid Kongen bestemmer.1 Samtidig oppheves [lov 1
 
 Bestemmelsene i [§ 17](lov/2001-06-15-75/§17) annet ledd om fiskehelsebiologers rett til rekvirering av legemidler gjelder ikke før det tidspunkt departementet bestemmer.2
 
-1 Fra 1 jan 2002 iflg. [res. 15 juni 2001 nr. 711](forskrift/2001-06-15-711), med unntak av § 17 (2), som trådte ikr. 15 aug 2005 iflg. [vedtak 12 juli 2005 nr. 820](forskrift/2005-07-12-820).2 Fra 15 aug 2005 iflg. [vedtak 12 juli 2005 nr. 820](forskrift/2005-07-12-820).
+1 Fra 1 jan 2002 iflg. [res. 15 juni 2001 nr. 711](forskrift/2001-06-15-711), med unntak av § 17 (2), som trådte ikr. 15 aug 2005 iflg. [vedtak 12 juli 2005 nr. 820](forskrift/2005-07-12-820).
+
+2 Fra 15 aug 2005 iflg. [vedtak 12 juli 2005 nr. 820](forskrift/2005-07-12-820).
 
 ### § 39. Overgangsordninger
 

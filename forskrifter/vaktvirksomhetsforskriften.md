@@ -15,7 +15,7 @@ xml_hash: "30c8e1533cfbebb0a7e40e182e81edc435d7bf4b8dfbdce8658985a199f36825"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,11 @@ Som vakttjeneste regnes ordensvakttjeneste og andre tjenester som er innrettet f
 
 Dersom det kreves tilgang til sensitive opplysninger for å utføre bestemte oppgaver, skal oppgavene regnes som direkte knyttet til vakttjeneste etter [vaktvirksomhetsloven § 8](lov/2001-01-05-1/§8).
 
-Som vakttjeneste regnes ikke:nabohjelp eller lignende vederlagsfritt forebyggende oppsyn med egne verdier,tjenester som utøves på mindre arrangementer der det ikke forventes ordensmessige problemer, ogtjenester som i hovedsak er innrettet for å ivareta servicehensyn, som vaktmestertjeneste, vilkårsparkeringsvakt, resepsjons- og portnertjeneste, bartender- og garderobetjeneste, ryddehjelp, innslippkontroll og annen veiledende vertsfunksjon.
+Som vakttjeneste regnes ikke:
+
+1. nabohjelp eller lignende vederlagsfritt forebyggende oppsyn med egne verdier,
+2. tjenester som utøves på mindre arrangementer der det ikke forventes ordensmessige problemer, og
+3. tjenester som i hovedsak er innrettet for å ivareta servicehensyn, som vaktmestertjeneste, vilkårsparkeringsvakt, resepsjons- og portnertjeneste, bartender- og garderobetjeneste, ryddehjelp, innslippkontroll og annen veiledende vertsfunksjon.
 
 > Endret ved forskrift [9 aug 2023 nr. 1315](forskrift/2023-08-09-1315).
 
@@ -54,7 +58,13 @@ Virksomhet som bare driver opplæring av sikkerhetskontrollør på lufthavn med 
 
 ### § 4. Vandelskravet for vaktvirksomhet
 
-Kravet til tilfredsstillende vandel etter [vaktvirksomhetsloven § 3](lov/2001-01-05-1/§3) omfatter:samtlige medlemmer av styret i et aksjeselskap eller annen sammenslutning med begrenset ansvar og samtlige fullt ansvarlige deltakere i ansvarlig selskap eller kommandittselskap,innehaver av enkeltpersonforetak,daglig leder i foretaket eller enkeltpersonforetaket,personer som eier en vesentlig del av virksomheten eller av foretaket som driver virksomheten eller som oppebærer en vesentlig del av dens avkastning eller innehar en lederfunksjon i den, ogandre personer som har vesentlig innflytelse på virksomheten.
+Kravet til tilfredsstillende vandel etter [vaktvirksomhetsloven § 3](lov/2001-01-05-1/§3) omfatter:
+
+1. samtlige medlemmer av styret i et aksjeselskap eller annen sammenslutning med begrenset ansvar og samtlige fullt ansvarlige deltakere i ansvarlig selskap eller kommandittselskap,
+2. innehaver av enkeltpersonforetak,
+3. daglig leder i foretaket eller enkeltpersonforetaket,
+4. personer som eier en vesentlig del av virksomheten eller av foretaket som driver virksomheten eller som oppebærer en vesentlig del av dens avkastning eller innehar en lederfunksjon i den, og
+5. andre personer som har vesentlig innflytelse på virksomheten.
 
 Kravet til tilfredsstillende vandel gjelder forhold som kan anmerkes på uttømmende og utvidet politiattest.
 
@@ -190,13 +200,32 @@ Godkjenning av yrkeskvalifikasjoner fra annen stat gis av Politidirektoratet, li
 
 ### § 22. Vilkår for godkjenning av yrkeskvalifikasjoner for statsborgere fra EØS
 
-For å få godkjenning må søker fra EØS framlegge kvalifikasjonsbevis som viser et kvalifikasjonsnivå som minst tilsvarer kvalifikasjonsnivået umiddelbart under kvalifikasjonskravene for vektere etter [vaktvirksomhetsloven § 9](lov/2001-01-05-1/§9) bokstav a til d og kvalifikasjonskravet for instruktører etter forskriften [§ 18](forskrift/2011-03-28-337/§18). For vurderingen gjelder følgende kvalifikasjonsnivåer, hvorav kravene etter vaktvirksomhetsloven ligger på nivå a i eller b ii:Et kvalifikasjonsbevis utstedt av myndighet i hjemstaten utpekt etter lov eller forskrift i vedkommende medlemsstat, på grunnlag avet opplæringskurs som ikke utgjør noen del av en attest eller et diplom i betydningen i bokstav b, c, d eller e, eller en særlig eksamen uten forutgående opplæring, eller utøvelse av yrket på heltid i en medlemsstat i tre sammenhengende år eller av tilsvarende varighet på deltid i løpet av de siste ti årene, ellergenerell utdanning fra grunnskole eller videregående skole, med bevitnelse om at innehaveren har ervervet generell kunnskap.En attest som viser fullført og bestått videregående opplæring,enten av generell karakter, supplert av annet studium eller annen yrkeskompetansegivende utdanning enn den det er vist til under bokstav c og/eller av en praktisk eller faglig praksisperiode som krevdes i tillegg til nevnte studium, ellerav teknisk eller faglig karakter, eventuelt supplert av et studium eller en yrkeskompetansegivende utdanning som vist til under punkt i og /eller av en praktisk eller faglig praksisperiode som krevdes i tillegg til nevnte studium.Et diplom som viser at søkerenten har bestått en annen utdanning ut over videregående opplæring enn det som er nevnt i bokstav d eller e, av minst ett års varighet, eller av tilsvarende varighet på deltid, hvor opptakskravet til studiet er normalt avsluttet videregående opplæring som er nødvendig for å få adgang til universitet, annen høyere utdanning på tilsvarende nivå, samt den yrkesrettede opplæring som måtte kreves i tillegg til utdanning ut over videregående opplæring, ellerbestått utdanning av en særskilt struktur for et lovregulert yrke, jf. direktiv [2005/36/EF](eu/32005l0036*) vedlegg 2.Et diplom som viser bestått utdanning ut over videregående opplæring fra universitet, høyskoleinstitusjon eller en annen institusjon med tilsvarende opplæringsnivå. Utdanningen må være av minst tre års og ikke mer enn fire års varighet, eller av tilsvarende varighet på deltid.Et diplom som viser bestått utdanning utover videregående opplæring fra universitet, høyskoleinstitusjon eller en annen institusjon med tilsvarende opplæringsnivå. Utdanningen må være av minst fire års varighet, eller av tilsvarende varighet på deltid.
+For å få godkjenning må søker fra EØS framlegge kvalifikasjonsbevis som viser et kvalifikasjonsnivå som minst tilsvarer kvalifikasjonsnivået umiddelbart under kvalifikasjonskravene for vektere etter [vaktvirksomhetsloven § 9](lov/2001-01-05-1/§9) bokstav a til d og kvalifikasjonskravet for instruktører etter forskriften [§ 18](forskrift/2011-03-28-337/§18). For vurderingen gjelder følgende kvalifikasjonsnivåer, hvorav kravene etter vaktvirksomhetsloven ligger på nivå a i eller b ii:
+
+1. Et kvalifikasjonsbevis utstedt av myndighet i hjemstaten utpekt etter lov eller forskrift i vedkommende medlemsstat, på grunnlag av
+
+   1. et opplæringskurs som ikke utgjør noen del av en attest eller et diplom i betydningen i bokstav b, c, d eller e, eller en særlig eksamen uten forutgående opplæring, eller utøvelse av yrket på heltid i en medlemsstat i tre sammenhengende år eller av tilsvarende varighet på deltid i løpet av de siste ti årene, eller
+   2. generell utdanning fra grunnskole eller videregående skole, med bevitnelse om at innehaveren har ervervet generell kunnskap.
+2. En attest som viser fullført og bestått videregående opplæring,
+
+   1. enten av generell karakter, supplert av annet studium eller annen yrkeskompetansegivende utdanning enn den det er vist til under bokstav c og/eller av en praktisk eller faglig praksisperiode som krevdes i tillegg til nevnte studium, eller
+   2. av teknisk eller faglig karakter, eventuelt supplert av et studium eller en yrkeskompetansegivende utdanning som vist til under punkt i og /eller av en praktisk eller faglig praksisperiode som krevdes i tillegg til nevnte studium.
+3. Et diplom som viser at søker
+
+   1. enten har bestått en annen utdanning ut over videregående opplæring enn det som er nevnt i bokstav d eller e, av minst ett års varighet, eller av tilsvarende varighet på deltid, hvor opptakskravet til studiet er normalt avsluttet videregående opplæring som er nødvendig for å få adgang til universitet, annen høyere utdanning på tilsvarende nivå, samt den yrkesrettede opplæring som måtte kreves i tillegg til utdanning ut over videregående opplæring, eller
+   2. bestått utdanning av en særskilt struktur for et lovregulert yrke, jf. direktiv [2005/36/EF](eu/32005l0036*) vedlegg 2.
+4. Et diplom som viser bestått utdanning ut over videregående opplæring fra universitet, høyskoleinstitusjon eller en annen institusjon med tilsvarende opplæringsnivå. Utdanningen må være av minst tre års og ikke mer enn fire års varighet, eller av tilsvarende varighet på deltid.
+5. Et diplom som viser bestått utdanning utover videregående opplæring fra universitet, høyskoleinstitusjon eller en annen institusjon med tilsvarende opplæringsnivå. Utdanningen må være av minst fire års varighet, eller av tilsvarende varighet på deltid.
 
 Søker som har utøvd yrket i en EØS-stat hvor yrket ikke er lovregulert har rett til godkjenning dersom yrket er utøvd på heltid i minst 2 år i løpet av de siste ti år. Søkeren må framlegge bevis på yrkeskvalifikasjoner som dokumenterer at søker kan utøve yrket. Yrkeserfaring kreves ikke for godkjenning av yrkeskvalifikasjoner på bakgrunn av en lovregulert utdanning som beskrevet i bokstav b.
 
 ### § 23. Utlikningstiltak for statsborgere fra EØS
 
-Selv om kravene i [§ 22](forskrift/2011-03-28-337/§22) er oppfylt kan Politidirektoratet kreve at søkeren gjennomgår og består en prøveperiode på høyst tre år under veiledning, eller består en egnethetsprøve dersom:utdanningen er minst ett år kortere enn utdanningen som kreves i Norge,utdanningens innhold avviker vesentlig fra utdanningen som kreves i Norge, ellersøkers virksomhet i Norge kan omfatte tjenester som ikke inngår i en sammenlignbar form i det tilsvarende yrket i søkers hjemstat, og det i Norge kreves en særskilt utdanning som er vesentlig forskjellig fra søkers utdanning.
+Selv om kravene i [§ 22](forskrift/2011-03-28-337/§22) er oppfylt kan Politidirektoratet kreve at søkeren gjennomgår og består en prøveperiode på høyst tre år under veiledning, eller består en egnethetsprøve dersom:
+
+1. utdanningen er minst ett år kortere enn utdanningen som kreves i Norge,
+2. utdanningens innhold avviker vesentlig fra utdanningen som kreves i Norge, eller
+3. søkers virksomhet i Norge kan omfatte tjenester som ikke inngår i en sammenlignbar form i det tilsvarende yrket i søkers hjemstat, og det i Norge kreves en særskilt utdanning som er vesentlig forskjellig fra søkers utdanning.
 
 Utdanningen er vesentlig forskjellig fra søkerens utdanning når søkeren mangler kunnskap på områder som er avgjørende for utøvelsen av yrket og søkerens utdanning viser viktige forskjeller når det gjelder varighet eller innhold i forhold til den utdanning som kreves i Norge.
 
@@ -232,9 +261,17 @@ Politidirektoratets vedtak eller mangel på vedtak kan påklages til Justis- og 
 
 ### § 27. Utøvelse av vakttjeneste på midlertidig grunnlag
 
-Vakttjeneste kan utføres av personer fra annen medlemsstat som ønsker å utøve, på midlertidig og tilfeldig grunnlag, yrke som vekter i Norge, dersom:yrket er lovregulert eller har vært utøvd i medlemsstaten i minst to år i løpet av de siste ti år før ytelsen av tjenesten, ogdet på forhånd avgis en erklæring som informerer Politidirektoratet om tjenesteutøvelsen, inkludert detaljer vedrørende en eventuell forsikringsdekning eller andre former for personlig eller kollektiv beskyttelse med hensyn til yrkesansvar. Erklæringen skal fornyes hvert år dersom tjenesteyteren har til hensikt å yte midlertidige eller tilfeldige tjenester i den aktuelle medlemsstaten i løpet av året. Tjenesteyteren kan selv velge hvordan erklæringen meddeles.
+Vakttjeneste kan utføres av personer fra annen medlemsstat som ønsker å utøve, på midlertidig og tilfeldig grunnlag, yrke som vekter i Norge, dersom:
 
-Første gang tjenestene ytes, eller dersom det foreligger en vesentlig endring av de forhold som omhandles av dokumentene, skal erklæringen ledsages av:bevis på tjenesteyterens nasjonalitet,bevis på tjenesteyterens yrkeskvalifikasjoner,alle former for dokumentasjon på at tjenesteyteren har utøvd den aktuelle virksomheten i minst to år i løpet av de siste ti årene dersom yrket ikke er lovregulert, ogdokumentasjon på at tjenesteutøveren ikke er dømt for noe straffbart forhold.
+1. yrket er lovregulert eller har vært utøvd i medlemsstaten i minst to år i løpet av de siste ti år før ytelsen av tjenesten, og
+2. det på forhånd avgis en erklæring som informerer Politidirektoratet om tjenesteutøvelsen, inkludert detaljer vedrørende en eventuell forsikringsdekning eller andre former for personlig eller kollektiv beskyttelse med hensyn til yrkesansvar. Erklæringen skal fornyes hvert år dersom tjenesteyteren har til hensikt å yte midlertidige eller tilfeldige tjenester i den aktuelle medlemsstaten i løpet av året. Tjenesteyteren kan selv velge hvordan erklæringen meddeles.
+
+Første gang tjenestene ytes, eller dersom det foreligger en vesentlig endring av de forhold som omhandles av dokumentene, skal erklæringen ledsages av:
+
+1. bevis på tjenesteyterens nasjonalitet,
+2. bevis på tjenesteyterens yrkeskvalifikasjoner,
+3. alle former for dokumentasjon på at tjenesteyteren har utøvd den aktuelle virksomheten i minst to år i løpet av de siste ti årene dersom yrket ikke er lovregulert, og
+4. dokumentasjon på at tjenesteutøveren ikke er dømt for noe straffbart forhold.
 
 Tjenesteytelsens midlertidige og tilfeldige art skal vurderes fra sak til sak, særlig i forhold til ytelsens varighet, hyppighet, regelmessighet og kontinuitet.
 
@@ -254,9 +291,18 @@ Tillatelse skal innhentes på forhånd og gis for en enkelt anledning eller for 
 
 ### § 30. Utforming av legitimasjonskort
 
-Legitimasjonskortet skal være 54 x 85 mm og inneholde på forsiden:virksomhetens navn og organisasjonsnummer,«vekter» eller «vekter under opplæring»,bilde av vekteren,ansettelsesnummer i virksomheten, oggyldighetsdato.
+Legitimasjonskortet skal være 54 x 85 mm og inneholde på forsiden:
 
-På baksiden skal kortet inneholde:dato for bestått eksamen eller siste regodkjenning, ogutstedelsesdato.
+1. virksomhetens navn og organisasjonsnummer,
+2. «vekter» eller «vekter under opplæring»,
+3. bilde av vekteren,
+4. ansettelsesnummer i virksomheten, og
+5. gyldighetsdato.
+
+På baksiden skal kortet inneholde:
+
+1. dato for bestått eksamen eller siste regodkjenning, og
+2. utstedelsesdato.
 
 Kortet skal ha gyldighet på inntil fire år fra bestått eksamen eller siste regodkjenning. Ved endringer i opplysningene på kortet skal det utstedes nytt kort.
 
@@ -310,7 +356,12 @@ Vaktvirksomhetene skal hvert år innen utløpet av mars sende skriftlig rapport 
 
 Virksomhetenes årlige rapport til tillatelses- og kontrollmyndigheten skal redegjøre for virksomheten i perioden siden oppstart eller siste rapportering og følge mal fra Politidirektoratet. Tillatelses- og kontrollmyndigheten kan kreve tilleggsopplysninger om virksomheten dersom det er nødvendig av kontrollhensyn.
 
-Den årlige rapporten skal også inneholde:elektronisk liste over ansatte som utfører vakttjeneste eller har oppgaver direkte knyttet til vakttjeneste, herunder over instruktører som driver opplæring,kopi av nye eller endrede rutiner og handlingsplaner for virksomheten,kopi av logg for bruk av fysisk makt, ogkopi av logg for hendelser ved bruk av hund.
+Den årlige rapporten skal også inneholde:
+
+1. elektronisk liste over ansatte som utfører vakttjeneste eller har oppgaver direkte knyttet til vakttjeneste, herunder over instruktører som driver opplæring,
+2. kopi av nye eller endrede rutiner og handlingsplaner for virksomheten,
+3. kopi av logg for bruk av fysisk makt, og
+4. kopi av logg for hendelser ved bruk av hund.
 
 ### § 39. Loggførings- og rapporteringsplikt ved bruk av fysisk makt
 
@@ -384,6 +435,14 @@ Forskriften trer i kraft 1. april 2011, med unntak av [§ 7](forskrift/2011-03-2
 
 ### § 51. Overgangsregler
 
-Til gjennomføring av vaktvirksomhetsloven og forskriften fastsettes følgende overgangsregler:Inntil [§ 7](forskrift/2011-03-28-337/§7) til [§ 15](forskrift/2011-03-28-337/§15) trer i kraft gjelder [forskrift 25. mai 2004 nr. 787 § 5](forskrift/2004-05-25-787/§5).For vektere som har gjennomført vekterutdanning før 1. januar 2018 gjelder bare krav om regodkjenning etter [§ 11](forskrift/2011-03-28-337/§11) og [§ 12](forskrift/2011-03-28-337/§12).For ordensvakter i egenvakthold som har godkjenning som ordensvakt før 1. oktober 2023 gjelder bare krav om regodkjenning etter [§ 11](forskrift/2011-03-28-337/§11). Regodkjenning må gjennomføres før utløp av godkjenningsperioden, og senest innen 1. oktober 2027.Virksomhet som per 1. april 2011 driver opplæring i vakttjenester med godkjenning fra Politidirektoratet skal søke tillatelse etter vaktvirksomhetsloven før 1. oktober 2011. Virksomheten kan fortsette inntil søknaden er avgjort.Vaktvirksomhetsloven får virkning for egenvakthold fra 1. april 2012. Søknad om tillatelse til å utøve egenvakthold skal fremsettes før 1. oktober 2011.Søknadsgebyr etter [§ 46](forskrift/2011-03-28-337/§46) betales etterskuddsvis når Politidirektoratet har fastsatt gebyrets størrelse etter [§ 48](forskrift/2011-03-28-337/§48).Kravet til legitimasjonskort utformet etter [§ 30](forskrift/2011-03-28-337/§30) gjelder for vektere som utdannes eller regodkjennes etter denne forskriften.
+Til gjennomføring av vaktvirksomhetsloven og forskriften fastsettes følgende overgangsregler:
+
+1. Inntil [§ 7](forskrift/2011-03-28-337/§7) til [§ 15](forskrift/2011-03-28-337/§15) trer i kraft gjelder [forskrift 25. mai 2004 nr. 787 § 5](forskrift/2004-05-25-787/§5).
+2. For vektere som har gjennomført vekterutdanning før 1. januar 2018 gjelder bare krav om regodkjenning etter [§ 11](forskrift/2011-03-28-337/§11) og [§ 12](forskrift/2011-03-28-337/§12).
+3. For ordensvakter i egenvakthold som har godkjenning som ordensvakt før 1. oktober 2023 gjelder bare krav om regodkjenning etter [§ 11](forskrift/2011-03-28-337/§11). Regodkjenning må gjennomføres før utløp av godkjenningsperioden, og senest innen 1. oktober 2027.
+4. Virksomhet som per 1. april 2011 driver opplæring i vakttjenester med godkjenning fra Politidirektoratet skal søke tillatelse etter vaktvirksomhetsloven før 1. oktober 2011. Virksomheten kan fortsette inntil søknaden er avgjort.
+5. Vaktvirksomhetsloven får virkning for egenvakthold fra 1. april 2012. Søknad om tillatelse til å utøve egenvakthold skal fremsettes før 1. oktober 2011.
+6. Søknadsgebyr etter [§ 46](forskrift/2011-03-28-337/§46) betales etterskuddsvis når Politidirektoratet har fastsatt gebyrets størrelse etter [§ 48](forskrift/2011-03-28-337/§48).
+7. Kravet til legitimasjonskort utformet etter [§ 30](forskrift/2011-03-28-337/§30) gjelder for vektere som utdannes eller regodkjennes etter denne forskriften.
 
 > Endret ved forskrift [18 okt 2023 nr. 1648](forskrift/2023-10-18-1648)

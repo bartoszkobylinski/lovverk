@@ -32,7 +32,17 @@ eu_basis: []
 
 ### § 1-2. I hvilke tilfeller manntallet etter valgloven § 2-3 skal oppdateres etter 30. juni i valgåret
 
-Etter 30. juni i valgåret skal manntallet etter [valgloven § 2-3 første ledd](lov/2023-06-16-62/§2-3/ledd/1) bare oppdateres i følgende tilfeller:En person er feilaktig innført i eller utelatt fra manntallet.Flyttemelding er mottatt av folkeregistermyndigheten innen skjæringsdatoen 30. juni, men ikke registrert i folkeregisteret før etter skjæringsdatoen.En person som ikke har vært folkeregistrert som bosatt i Norge i løpet av de siste ti årene før valgdagen, har stemt.En person som bor i utlandet, flytter tilbake til Norge. Vedkommende føres inn i manntallet i den kommunen han eller hun blir folkeregistrert som bosatt.En person blir norsk statsborger. Hvis statsborgerskapet medfører at vedkommende får stemmerett ved valget, føres vedkommende inn i manntallet i den kommunen han eller hun er folkeregistrert som bosatt.En person taper det norske statsborgerskapet. Hvis tap av statsborgerskapet medfører at vedkommende ikke har stemmerett ved valget, strykes vedkommende fra manntallet, med mindre vedkommende allerede har fått godkjent en forhåndsstemmegivning.En person taper statsborgerskapet i et annet nordisk land. Hvis tap av statsborgerskapet medfører at vedkommende ikke har stemmerett ved valget, strykes vedkommende fra manntallet, med mindre vedkommende allerede har fått godkjent en forhåndsstemmegivning.En person dør. Vedkommende strykes fra manntallet, med mindre vedkommende allerede har avgitt en godkjent forhåndsstemmegivning.En utenlandsk statsborger som ved kommunestyre- og fylkestingsvalg ellers ville oppfylt stemmerettsvilkårene på valgdagen, flytter ut av landet etter skjæringsdatoen. Vedkommende strykes fra manntallet, med mindre vedkommende allerede har avgitt en godkjent forhåndsstemmegivning.
+Etter 30. juni i valgåret skal manntallet etter [valgloven § 2-3 første ledd](lov/2023-06-16-62/§2-3/ledd/1) bare oppdateres i følgende tilfeller:
+
+1. En person er feilaktig innført i eller utelatt fra manntallet.
+2. Flyttemelding er mottatt av folkeregistermyndigheten innen skjæringsdatoen 30. juni, men ikke registrert i folkeregisteret før etter skjæringsdatoen.
+3. En person som ikke har vært folkeregistrert som bosatt i Norge i løpet av de siste ti årene før valgdagen, har stemt.
+4. En person som bor i utlandet, flytter tilbake til Norge. Vedkommende føres inn i manntallet i den kommunen han eller hun blir folkeregistrert som bosatt.
+5. En person blir norsk statsborger. Hvis statsborgerskapet medfører at vedkommende får stemmerett ved valget, føres vedkommende inn i manntallet i den kommunen han eller hun er folkeregistrert som bosatt.
+6. En person taper det norske statsborgerskapet. Hvis tap av statsborgerskapet medfører at vedkommende ikke har stemmerett ved valget, strykes vedkommende fra manntallet, med mindre vedkommende allerede har fått godkjent en forhåndsstemmegivning.
+7. En person taper statsborgerskapet i et annet nordisk land. Hvis tap av statsborgerskapet medfører at vedkommende ikke har stemmerett ved valget, strykes vedkommende fra manntallet, med mindre vedkommende allerede har fått godkjent en forhåndsstemmegivning.
+8. En person dør. Vedkommende strykes fra manntallet, med mindre vedkommende allerede har avgitt en godkjent forhåndsstemmegivning.
+9. En utenlandsk statsborger som ved kommunestyre- og fylkestingsvalg ellers ville oppfylt stemmerettsvilkårene på valgdagen, flytter ut av landet etter skjæringsdatoen. Vedkommende strykes fra manntallet, med mindre vedkommende allerede har avgitt en godkjent forhåndsstemmegivning.
 
 ### § 1-3. Hvordan manntallet etter valgloven § 2-3 skal oppdateres etter 30. juni i valgåret
 
@@ -178,9 +188,24 @@ Valglistens tillitsvalgte kan kreve å få det antallet stemmesedler som vedkomm
 
 ### § 4-1. Frist for å legge opplysninger inn i det elektroniske valggjennomføringssystemet
 
-(1) Valgstyret skal innen 31. mai i valgåret registrere følgende opplysninger i det elektroniske valggjennomføringssystemet:målformom det skal brukes elektronisk manntall eller papirmanntall på valgtinget og om papirmanntallet skal deles inn i roderantall kandidater som skal velgeskrav til antall underskrifter på listeforslagom den andre opptellingen skal skje manuelt eller maskinelthvilke opptellingskretser kommunen skal brukevalglokalenes navn og adresseåpningstider til valglokalene på valgtingetvalgstyrets adresse.
+(1) Valgstyret skal innen 31. mai i valgåret registrere følgende opplysninger i det elektroniske valggjennomføringssystemet:
 
-(2) Fylkesvalgstyret og distriktsvalgstyret skal innen 31. mai i valgåret registrere følgende opplysninger i det elektroniske valggjennomføringssystemet:målformantall kandidater som skal velgeskrav til antall underskrifter på listeforslagom opptellingen skal skje manuelt eller maskinelt.
+1. målform
+2. om det skal brukes elektronisk manntall eller papirmanntall på valgtinget og om papirmanntallet skal deles inn i roder
+3. antall kandidater som skal velges
+4. krav til antall underskrifter på listeforslag
+5. om den andre opptellingen skal skje manuelt eller maskinelt
+6. hvilke opptellingskretser kommunen skal bruke
+7. valglokalenes navn og adresse
+8. åpningstider til valglokalene på valgtinget
+9. valgstyrets adresse.
+
+(2) Fylkesvalgstyret og distriktsvalgstyret skal innen 31. mai i valgåret registrere følgende opplysninger i det elektroniske valggjennomføringssystemet:
+
+1. målform
+2. antall kandidater som skal velges
+3. krav til antall underskrifter på listeforslag
+4. om opptellingen skal skje manuelt eller maskinelt.
 
 ### § 4-2. Informasjonssikkerhet ved bruk av det elektroniske valggjennomføringssystemet
 
@@ -198,7 +223,10 @@ Valglistens tillitsvalgte kan kreve å få det antallet stemmesedler som vedkomm
 
 (2) Informasjonen skal gis elektronisk. Informasjonen skal sendes til den stemmeberettigedes digitale postkasse hvis han eller hun har opprettet en slik postkasse.
 
-(3) Informasjonen skal likevel sendes per brevpost hvis den stemmeberettigedestår oppført som reservert i register over digital kontaktinformasjon og reservasjon ellerikke har oppdatert opplysningene i register over digital kontaktinformasjon og reservasjon, eller bekreftet at opplysningene er korrekte, de siste 18 månedene.
+(3) Informasjonen skal likevel sendes per brevpost hvis den stemmeberettigede
+
+1. står oppført som reservert i register over digital kontaktinformasjon og reservasjon eller
+2. ikke har oppdatert opplysningene i register over digital kontaktinformasjon og reservasjon, eller bekreftet at opplysningene er korrekte, de siste 18 månedene.
 
 (4) Informasjonen skal sendes ut til velgerne basert på hvilken kommune de var manntallsført i den 8. juli.
 
@@ -234,7 +262,12 @@ Ved kommunestyrevalg og fylkestingsvalg skal stemmesedlene for begge valgene leg
 
 ### § 6-6. Skjema for informasjon om velgerens identitet
 
-(1) Hvis stemmeseddelen mottas i en stemmeseddelkonvolutt, skal stemmemottakeren legge ved følgende informasjon i en omslagskonvolutt eller beredskapskonvolutt:hvilket valg og år det gjelder for,velgerens navn og fødselsnummer,navn og adresse til valgstyret i den kommunen velgeren er manntallsført,hvilken kommune stemmen er mottatt i.
+(1) Hvis stemmeseddelen mottas i en stemmeseddelkonvolutt, skal stemmemottakeren legge ved følgende informasjon i en omslagskonvolutt eller beredskapskonvolutt:
+
+1. hvilket valg og år det gjelder for,
+2. velgerens navn og fødselsnummer,
+3. navn og adresse til valgstyret i den kommunen velgeren er manntallsført,
+4. hvilken kommune stemmen er mottatt i.
 
 (2) Informasjonen i første ledd bokstav a–c skal være synlig i vinduet på omslagskonvolutten eller beredskapskonvolutten.
 
@@ -300,7 +333,12 @@ Ved kommunestyrevalg og fylkestingsvalg skal stemmesedlene for begge valgene leg
 
 (2) Stemmeseddelkonvolutten skal legges i en omslagskonvolutt som limes igjen.
 
-(3) Velgeren skal påføre omslagskonvoluttenvalgstyrets navn og adressenavn og fødselsnummeradresse på hjemstedet 30. juni i valgåret, eventuelt siste adresse i Norge hvis velgeren har meldt flytting til utlandettid og sted for stemmingen.
+(3) Velgeren skal påføre omslagskonvolutten
+
+1. valgstyrets navn og adresse
+2. navn og fødselsnummer
+3. adresse på hjemstedet 30. juni i valgåret, eventuelt siste adresse i Norge hvis velgeren har meldt flytting til utlandet
+4. tid og sted for stemmingen.
 
 (4) Velgeren skal skrive under på omslagskonvolutten.
 
@@ -362,7 +400,12 @@ En stemmeseddel som lyder på et parti eller en gruppe som inngår i en fellesli
 
 ### § 10-4. Stempling av stemmesedler
 
-Hvis stemmesedler som er lagt i stemmeseddelkonvolutt mangler offentlig stempel, gjelder følgende:Hvis én stemmeseddel for et valg mangler offentlig stempel, skal valgstyret stemple stemmeseddelen.Hvis flere stemmesedler for det samme valget mangler offentlig stempel, skal valgstyret, hvis alle stemmesedlene gjelder den samme valglisten, stemple én av dem. Er én av stemmesedlene endret, stemples denne. Er stemmesedlene endret likt, stemples én av dem. Er stemmesedlene endret ulikt, stemples én av dem, men det skal ses bort fra endringene.Hvis flere stemmesedler for det samme valget mangler offentlig stempel, skal, hvis stemmesedlene gjelder ulike valglister, ingen av dem stemples.Bokstav a og b gjelder ikke hvis stemmeseddelkonvolutten inneholder en annen stemmeseddel med offentlig stempel for det samme valget.
+Hvis stemmesedler som er lagt i stemmeseddelkonvolutt mangler offentlig stempel, gjelder følgende:
+
+1. Hvis én stemmeseddel for et valg mangler offentlig stempel, skal valgstyret stemple stemmeseddelen.
+2. Hvis flere stemmesedler for det samme valget mangler offentlig stempel, skal valgstyret, hvis alle stemmesedlene gjelder den samme valglisten, stemple én av dem. Er én av stemmesedlene endret, stemples denne. Er stemmesedlene endret likt, stemples én av dem. Er stemmesedlene endret ulikt, stemples én av dem, men det skal ses bort fra endringene.
+3. Hvis flere stemmesedler for det samme valget mangler offentlig stempel, skal, hvis stemmesedlene gjelder ulike valglister, ingen av dem stemples.
+4. Bokstav a og b gjelder ikke hvis stemmeseddelkonvolutten inneholder en annen stemmeseddel med offentlig stempel for det samme valget.
 
 ### § 10-5. Godkjenning av brevstemmegivninger
 
@@ -374,9 +417,17 @@ Brevstemmegivninger skal godkjennes etter at andre forhåndsstemmegivninger som 
 
 (1) Før den første opptellingen skal stemmesedlene sorteres i separate bunker for de ulike listene samt blanke og tvilsomme stemmesedler. Bunkene skal deretter kontrolleres for sorteringsfeil.
 
-(2) Den første opptellingen skal gjennomføres slik:De blanke stemmesedlene og stemmesedlene for de ulike listene skal samles i bunker som inneholder et bestemt antall stemmesedler.Bunkene skal kontrolleres for opptellingsfeil, ved å telles på nytt.Bunkene med de blanke stemmesedlene og bunkene med de ulike listene skal summeres to ganger av ulike valgmedarbeidere.
+(2) Den første opptellingen skal gjennomføres slik:
 
-(3) Hvis den andre opptellingen eller distriktsvalgstyrets eller fylkesvalgstyrets opptelling er manuell, skal den gjennomføres slik:Bunkene med stemmesedler skal kontrolleres for sorteringsfeil.Bunkene skal telles to ganger av ulike valgmedarbeidere.Bunkene med de blanke stemmesedlene og bunkene med de ulike listene skal summeres to ganger av ulike valgmedarbeidere.
+1. De blanke stemmesedlene og stemmesedlene for de ulike listene skal samles i bunker som inneholder et bestemt antall stemmesedler.
+2. Bunkene skal kontrolleres for opptellingsfeil, ved å telles på nytt.
+3. Bunkene med de blanke stemmesedlene og bunkene med de ulike listene skal summeres to ganger av ulike valgmedarbeidere.
+
+(3) Hvis den andre opptellingen eller distriktsvalgstyrets eller fylkesvalgstyrets opptelling er manuell, skal den gjennomføres slik:
+
+1. Bunkene med stemmesedler skal kontrolleres for sorteringsfeil.
+2. Bunkene skal telles to ganger av ulike valgmedarbeidere.
+3. Bunkene med de blanke stemmesedlene og bunkene med de ulike listene skal summeres to ganger av ulike valgmedarbeidere.
 
 (4) To valgmedarbeidere skal være til stede når resultatet av den manuelle opptellingen registreres i det elektroniske valggjennomføringssystemet.
 
@@ -390,7 +441,10 @@ To valgmedarbeidere skal være til stede når personstemmer registreres manuelt.
 
 ### § 11-4. Manuell stikkprøvekontroll
 
-(1) Valgmyndighetene skal gjennomføre manuelle stikkprøver hvisopptellingen skjer maskineltregistreringen av personstemmer skjer maskinelt.
+(1) Valgmyndighetene skal gjennomføre manuelle stikkprøver hvis
+
+1. opptellingen skjer maskinelt
+2. registreringen av personstemmer skjer maskinelt.
 
 (2) Manuelle stikkprøver skal gjennomføres i henhold til fremgangsmåten for manuell stikkprøvekontroll som følger av det elektroniske valggjennomføringssystemet.
 
@@ -406,7 +460,11 @@ Alle stemmesedler som på valgtinget ikke telles opp i valglokalet, jf. [valglov
 
 ### § 11-7. Første opptelling av stemmesedler som skal telles opp etter klokken 17 dagen etter valgdagen
 
-Følgende stemmesedler skal telles opp samlet etter klokken 17 dagen etter valgdagen:godkjente stemmesedler fra forhåndsstemmegivninger som legges til side etter [valgloven § 10-8 femte ledd](lov/2023-06-16-62/§10-8/ledd/5)godkjente stemmesedler fra forhåndsstemmegivninger som kommer inn etter at opptellingen etter [§ 10-8 fjerde ledd](lov/2023-06-16-62/§10-8/ledd/4) har begynt.godkjente stemmesedler som er lagt til side etter [§ 11-5 andre ledd](forskrift/2024-11-05-2662/§11-5/ledd/2).
+Følgende stemmesedler skal telles opp samlet etter klokken 17 dagen etter valgdagen:
+
+1. godkjente stemmesedler fra forhåndsstemmegivninger som legges til side etter [valgloven § 10-8 femte ledd](lov/2023-06-16-62/§10-8/ledd/5)
+2. godkjente stemmesedler fra forhåndsstemmegivninger som kommer inn etter at opptellingen etter [§ 10-8 fjerde ledd](lov/2023-06-16-62/§10-8/ledd/4) har begynt.
+3. godkjente stemmesedler som er lagt til side etter [§ 11-5 andre ledd](forskrift/2024-11-05-2662/§11-5/ledd/2).
 
 ## Kapittel 12. Protokollering
 

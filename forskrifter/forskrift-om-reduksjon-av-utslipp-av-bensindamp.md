@@ -16,7 +16,7 @@ xml_hash: "1346d649c95983e9ba01e184f70560398feb8c164b8766f94f7729a6890c3e57"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -33,35 +33,98 @@ For dette formål bestemmer forskriften hvordan anlegg og kjøretøy som brukes 
 
 ## § 2. Definisjoner
 
-I denne forskriften menes med*bensin:* alle petroleumsderivater med eller uten tilsetninger som har et damptrykk etter Reid-metoden på 27,6 kilopascal eller mer og er beregnet på bruk som drivstoff for motorvogner, unntatt flytende petroleumsgass (LPG),*bensindamp:* alle gassformige forbindelser som fordamper fra bensin,*lagringsanlegg:* alle faste tanker som brukes til lagring av bensin på en terminal,*terminal:* alle anlegg som brukes til lagring og lasting av bensin på tankkjøretøyer, transporttanker på jernbane, herunder alle lagringsenheter på anlegget,*transporttank:* alle typer tanker nevnt i [forskrift av 20. desember 1996 nr. 1339](forskrift/1996-12-20-1339) om transport av farlig gods på veg og jernbane og som brukes til transport av bensin fra en terminal til en annen eller fra en terminal til en bensinstasjon,*tankkjøretøy:* kjøretøy for transport av væsker, gasser, pudderformige eller granulerte stoffer i et eller flere faste tanker,*bensinstasjon:* alle anlegg der bensin fylles på motorvogners drivstofftanker fra faste lagringstanker,*eksisterende lagringsanlegg, terminaler, transporttanker:* i drift før 10. februar 1999 eller individuell bygge- eller driftstillatelse etter krav i nasjonal lovgivning gitt før 10. februar 1999,*nye lagringsanlegg, terminaler, transporttanker:* det som ikke omfattes av bokstav h),*eksisterende bensinstasjon:* bygget eller som har individuell bygge- eller driftstillatelse gitt før 1. januar 2012,*ny bensinstasjon:* bygget eller som har individuell bygge- eller driftstillatelse gitt fra og med 1. januar 2012,*gjennomstrømningsmengde:* den største samlede årlige mengde bensin som i de tre foregående år er overført fra et lagringsanlegg på en terminal eller en bensinstasjon til transporttanker. I [§ 7](forskrift/1999-02-10-206/§7) skal gjennomstrømningsmengde regnes som samlet årlig mengde bensin overført fra transporttank til bensinstasjon.*dampgjenvinningsanlegg:* anlegg for gjenvinning av bensin fra damp,*mellomlagring av damp:* mellomlagring av damp i en tank med fast tak ved en terminal for senere overføring til en annen terminal med tanke på gjenvinning. Overføring av damp fra et lagringsanlegg til et annet på samme terminal skal ikke anses som mellomlagring av damp i henhold til dette direktiv,*lasteanlegg:* alle anlegg på en terminal der det kan lastes bensin på transporttanker. Lasteanlegg for tankkjøretøyer omfatter én eller flere lasteinnretninger,*lasteinnretning:* alle innretninger på en terminal der det kan lastes bensin på ett tankkjøretøy av gangen.*fase II-bensindampgjenvinningssystem:* utstyr som gjenvinner bensindamp som fortrenges fra kjøretøyets bensintank under fylling av bensin på bensinstasjon, og som overfører slik bensindamp til en lagringstank på bensinstasjonen eller tilbake til bensinpumpen for videresalg,*bensindampgjenvinningseffektivitet:* mengden av bensindamp, uttrykt i prosent, som blir gjenvunnet av fase II-bensindampgjenvinningssystemet sammenlignet med mengden som ellers ville blitt sluppet ut i atmosfæren,*damp/bensin-forhold:* forholdet mellom bensindamp som går gjennom fase II-bensindampgjenvinningssystemet og volumet av bensin som blir fylt, ved en atmosfæres trykk.
+I denne forskriften menes med
+
+1. *bensin:* alle petroleumsderivater med eller uten tilsetninger som har et damptrykk etter Reid-metoden på 27,6 kilopascal eller mer og er beregnet på bruk som drivstoff for motorvogner, unntatt flytende petroleumsgass (LPG),
+2. *bensindamp:* alle gassformige forbindelser som fordamper fra bensin,
+3. *lagringsanlegg:* alle faste tanker som brukes til lagring av bensin på en terminal,
+4. *terminal:* alle anlegg som brukes til lagring og lasting av bensin på tankkjøretøyer, transporttanker på jernbane, herunder alle lagringsenheter på anlegget,
+5. *transporttank:* alle typer tanker nevnt i [forskrift av 20. desember 1996 nr. 1339](forskrift/1996-12-20-1339) om transport av farlig gods på veg og jernbane og som brukes til transport av bensin fra en terminal til en annen eller fra en terminal til en bensinstasjon,
+6. *tankkjøretøy:* kjøretøy for transport av væsker, gasser, pudderformige eller granulerte stoffer i et eller flere faste tanker,
+7. *bensinstasjon:* alle anlegg der bensin fylles på motorvogners drivstofftanker fra faste lagringstanker,
+8. *eksisterende lagringsanlegg, terminaler, transporttanker:* i drift før 10. februar 1999 eller individuell bygge- eller driftstillatelse etter krav i nasjonal lovgivning gitt før 10. februar 1999,
+9. *nye lagringsanlegg, terminaler, transporttanker:* det som ikke omfattes av bokstav h),
+10. *eksisterende bensinstasjon:* bygget eller som har individuell bygge- eller driftstillatelse gitt før 1. januar 2012,
+11. *ny bensinstasjon:* bygget eller som har individuell bygge- eller driftstillatelse gitt fra og med 1. januar 2012,
+12. *gjennomstrømningsmengde:* den største samlede årlige mengde bensin som i de tre foregående år er overført fra et lagringsanlegg på en terminal eller en bensinstasjon til transporttanker. I [§ 7](forskrift/1999-02-10-206/§7) skal gjennomstrømningsmengde regnes som samlet årlig mengde bensin overført fra transporttank til bensinstasjon.
+13. *dampgjenvinningsanlegg:* anlegg for gjenvinning av bensin fra damp,
+14. *mellomlagring av damp:* mellomlagring av damp i en tank med fast tak ved en terminal for senere overføring til en annen terminal med tanke på gjenvinning. Overføring av damp fra et lagringsanlegg til et annet på samme terminal skal ikke anses som mellomlagring av damp i henhold til dette direktiv,
+15. *lasteanlegg:* alle anlegg på en terminal der det kan lastes bensin på transporttanker. Lasteanlegg for tankkjøretøyer omfatter én eller flere lasteinnretninger,
+16. *lasteinnretning:* alle innretninger på en terminal der det kan lastes bensin på ett tankkjøretøy av gangen.
+17. *fase II-bensindampgjenvinningssystem:* utstyr som gjenvinner bensindamp som fortrenges fra kjøretøyets bensintank under fylling av bensin på bensinstasjon, og som overfører slik bensindamp til en lagringstank på bensinstasjonen eller tilbake til bensinpumpen for videresalg,
+18. *bensindampgjenvinningseffektivitet:* mengden av bensindamp, uttrykt i prosent, som blir gjenvunnet av fase II-bensindampgjenvinningssystemet sammenlignet med mengden som ellers ville blitt sluppet ut i atmosfæren,
+19. *damp/bensin-forhold:* forholdet mellom bensindamp som går gjennom fase II-bensindampgjenvinningssystemet og volumet av bensin som blir fylt, ved en atmosfæres trykk.
 
 > Endret ved [forskrift 27 juli 2011 nr. 804](forskrift/2011-07-27-804) som endret ved [forskrifter 22 nov 2011 nr. 1132](forskrift/2011-11-22-1132), [21 des 2011 nr. 1477](forskrift/2011-12-21-1477) og [27 mars 2012 nr. 268](forskrift/2012-03-27-268) (i kraft 1 april 2012).
 
 ## § 3. Lagringsanlegg på terminaler
 
-1. Lagringsanlegg skal konstrueres og drives i samsvar med bestemmelsene i vedlegg I.Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan opprettholde eller pålegge strengere tiltak der det på grunn av spesielle forhold er nødvendig med slike tiltak for å beskytte menneskers helse, miljøet eller forebygge fare for brann eller eksplosjon.Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan etter søknad godkjenne andre tekniske tiltak for reduksjon av bensindamp enn de som er fastsatt i vedlegg I. Det må da godtgjøres at slike tiltak er egnet til å redusere det samlede årlige tap av bensin i forbindelse med lasting og lagring ved hvert enkelt lagringsanlegg på terminaler til maksimalt 0,01 vektprosent av gjennomstrømningsmengden. Søknad om godkjenning sendes Miljødirektoratet.
-2. Bestemmelsene i nr. 1 får anvendelsestraks for nye anlegg og eksisterende anlegg der gjennomstrømningsmengden som overføres på en terminal er større enn 50.000 tonn per år,innen 31. desember 2001 for eksisterende anlegg der gjennomstrømningsmengden som overføres på en terminal er større enn 25.000 tonn per år,innen 31. desember 2004 for øvrige eksisterende lagringsanlegg på terminaler.
+1. Lagringsanlegg skal konstrueres og drives i samsvar med bestemmelsene i vedlegg I.
+
+   Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan opprettholde eller pålegge strengere tiltak der det på grunn av spesielle forhold er nødvendig med slike tiltak for å beskytte menneskers helse, miljøet eller forebygge fare for brann eller eksplosjon.
+
+   Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan etter søknad godkjenne andre tekniske tiltak for reduksjon av bensindamp enn de som er fastsatt i vedlegg I. Det må da godtgjøres at slike tiltak er egnet til å redusere det samlede årlige tap av bensin i forbindelse med lasting og lagring ved hvert enkelt lagringsanlegg på terminaler til maksimalt 0,01 vektprosent av gjennomstrømningsmengden. Søknad om godkjenning sendes Miljødirektoratet.
+2. Bestemmelsene i nr. 1 får anvendelse
+
+   1. straks for nye anlegg og eksisterende anlegg der gjennomstrømningsmengden som overføres på en terminal er større enn 50.000 tonn per år,
+   2. innen 31. desember 2001 for eksisterende anlegg der gjennomstrømningsmengden som overføres på en terminal er større enn 25.000 tonn per år,
+   3. innen 31. desember 2004 for øvrige eksisterende lagringsanlegg på terminaler.
 
 > Endret ved [forskrifter 20 feb 2004 nr. 584](forskrift/2004-02-20-584), [27 juli 2011 nr. 804](forskrift/2011-07-27-804) som endret ved [forskrifter 22 nov 2011 nr. 1132](forskrift/2011-11-22-1132), [21 des 2011 nr. 1477](forskrift/2011-12-21-1477) og [27 mars 2012 nr. 268](forskrift/2012-03-27-268) (i kraft 1 april 2012), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013).
 
 ## § 4. Lasting og lossing av bensin til transporttanker på terminaler
 
-1. Utstyr for lasting og lossing skal konstrueres og brukes i samsvar med bestemmelsene i vedlegg II.Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan opprettholde eller pålegge strengere tiltak der det på grunn av spesielle forhold er nødvendig med slike tiltak for å beskytte menneskers helse, miljøet eller forebygge fare for brann eller eksplosjon.Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan etter søknad godkjenne andre tekniske tiltak for reduksjon av bensindamp enn dem som er fastsatt i vedlegg II. Det må da godtgjøres at slike alternative tiltak er egnet til å redusere det samlede årlige tap av bensin i forbindelse med lasting og lossing av transporttanker på terminaler til maksimalt 0,005 vektprosent av gjennomstrømningsmengden. Søknad om godkjenning sendes Miljødirektoratet.Alle terminaler med lasteanlegg for tankkjøretøyer skal være utstyrt med minst én lasteinnretning som oppfyller spesifikasjonene for bunnfyllingsutstyr fastsatt i vedlegg IV.1., 2., 3. og 4. ledd gjelder ikke for eksisterende terminaler med en gjennomstrømningsmengde mindre enn 10.000 tonn per år.
-2. Bestemmelsene i nr. 1 får anvendelsestraks for nye terminaler for lasting av tankkjøretøyer og/eller transporttanker på jernbane og/eller for eksisterende terminaler for lasting av tankkjøretøyer og transporttanker på jernbane der gjennomstrømningsmengden er større enn 150.000 tonn per år,innen 31. desember 2001 for eksisterende terminaler for lasting av tankkjøretøyer og/eller transporttanker på jernbane der gjennomstrømningsmengden er større enn 25.000 tonn per år,innen 31. desember 2004 for øvrige eksisterende terminaler for lasting av tankkjøretøyer og/eller transporttanker på jernbane.
+1. Utstyr for lasting og lossing skal konstrueres og brukes i samsvar med bestemmelsene i vedlegg II.
+
+   Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan opprettholde eller pålegge strengere tiltak der det på grunn av spesielle forhold er nødvendig med slike tiltak for å beskytte menneskers helse, miljøet eller forebygge fare for brann eller eksplosjon.
+
+   Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan etter søknad godkjenne andre tekniske tiltak for reduksjon av bensindamp enn dem som er fastsatt i vedlegg II. Det må da godtgjøres at slike alternative tiltak er egnet til å redusere det samlede årlige tap av bensin i forbindelse med lasting og lossing av transporttanker på terminaler til maksimalt 0,005 vektprosent av gjennomstrømningsmengden. Søknad om godkjenning sendes Miljødirektoratet.
+
+   Alle terminaler med lasteanlegg for tankkjøretøyer skal være utstyrt med minst én lasteinnretning som oppfyller spesifikasjonene for bunnfyllingsutstyr fastsatt i vedlegg IV.
+
+   1., 2., 3. og 4. ledd gjelder ikke for eksisterende terminaler med en gjennomstrømningsmengde mindre enn 10.000 tonn per år.
+2. Bestemmelsene i nr. 1 får anvendelse
+
+   1. straks for nye terminaler for lasting av tankkjøretøyer og/eller transporttanker på jernbane og/eller for eksisterende terminaler for lasting av tankkjøretøyer og transporttanker på jernbane der gjennomstrømningsmengden er større enn 150.000 tonn per år,
+   2. innen 31. desember 2001 for eksisterende terminaler for lasting av tankkjøretøyer og/eller transporttanker på jernbane der gjennomstrømningsmengden er større enn 25.000 tonn per år,
+   3. innen 31. desember 2004 for øvrige eksisterende terminaler for lasting av tankkjøretøyer og/eller transporttanker på jernbane.
 3. Innen 31. desember 2004 skal kravene til bunnfyllingsutstyr fastsatt i vedlegg IV gjelde for lasteinnretninger for tankkjøretøyer ved alle terminaler, unntatt terminaler som omfattes av punkt 1, 5. ledd.
 
 > Endret ved [forskrifter 20 feb 2004 nr. 584](forskrift/2004-02-20-584), [27 juli 2011 nr. 804](forskrift/2011-07-27-804) som endret ved [forskrifter 22 nov 2011 nr. 1132](forskrift/2011-11-22-1132), [21 des 2011 nr. 1477](forskrift/2011-12-21-1477) og [27 mars 2012 nr. 268](forskrift/2012-03-27-268) (i kraft 1 april 2012), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013).
 
 ## § 5. Transporttanker
 
-1. Transporttanker skal konstrueres og brukes i samsvar med følgende bestemmelser:Transporttanker skal konstrueres og brukes slik at gjenværende bensindamp beholdes i tanken etter lossing av bensin.Transporttanker som leverer bensin til bensinstasjoner og terminaler, skal konstrueres og brukes slik at de kan motta og oppbevare bensindampen fra disse anleggene. Denne bestemmelsen får anvendelse på transporttanker på jernbane bare dersom de leverer bensin til bensinstasjoner eller terminaler med anlegg for mellomlagring av bensindamp.Bortsett fra utslipp gjennom overtrykksventilene skal bensindampen nevnt i bokstav a) og b) oppbevares i transporttanken til den på nytt lastes på en terminal.Dersom transporttanken brukes til andre produkter enn bensin, og dampgjenvinning eller mellomlagring av bensindamp ikke er mulig, er utslipp tillatt i områder der det er sannsynlig at utslippene ikke bidrar vesentlig til problemer for helse og miljø eller representerer en fare for brann eller eksplosjon.Tankkjøretøy skal gjennomgå en periodisk trykkprøve for å kontrollere at de er tette mot lekkasje av damp. På alle transporttanker skal det foretas periodisk kontroll av trykk-/vakuumventilene.
-2. Bestemmelsene i nr. 1 bokstav a), b) og c) får likevel ikke anvendelse på utslipp som stammer fra måling med peilepinne når det gjeldereksisterende transporttankernye transporttanker som tas i bruk innen 31. desember 1999.
-3. Bestemmelsene i nr. 1 får anvendelsestraks for nye tankkjøretøy og transporttanker på jernbane og for eksisterende transporttanker på jernbaner dersom de lastes ved en terminal der [§ 4](forskrift/1999-02-10-206/§4) nr. 1 får anvendelse. Tankkjøretøyene må være i samsvar med spesifikasjonene i vedlegg IV,for eksisterende tankkjøretøy når de er utstyrt for bunnfylling. Spesifikasjonene i vedlegg IV må følges.
+1. Transporttanker skal konstrueres og brukes i samsvar med følgende bestemmelser:
+
+   1. Transporttanker skal konstrueres og brukes slik at gjenværende bensindamp beholdes i tanken etter lossing av bensin.
+   2. Transporttanker som leverer bensin til bensinstasjoner og terminaler, skal konstrueres og brukes slik at de kan motta og oppbevare bensindampen fra disse anleggene. Denne bestemmelsen får anvendelse på transporttanker på jernbane bare dersom de leverer bensin til bensinstasjoner eller terminaler med anlegg for mellomlagring av bensindamp.
+   3. Bortsett fra utslipp gjennom overtrykksventilene skal bensindampen nevnt i bokstav a) og b) oppbevares i transporttanken til den på nytt lastes på en terminal.
+
+      Dersom transporttanken brukes til andre produkter enn bensin, og dampgjenvinning eller mellomlagring av bensindamp ikke er mulig, er utslipp tillatt i områder der det er sannsynlig at utslippene ikke bidrar vesentlig til problemer for helse og miljø eller representerer en fare for brann eller eksplosjon.
+   4. Tankkjøretøy skal gjennomgå en periodisk trykkprøve for å kontrollere at de er tette mot lekkasje av damp. På alle transporttanker skal det foretas periodisk kontroll av trykk-/vakuumventilene.
+2. Bestemmelsene i nr. 1 bokstav a), b) og c) får likevel ikke anvendelse på utslipp som stammer fra måling med peilepinne når det gjelder
+
+   1. eksisterende transporttanker
+   2. nye transporttanker som tas i bruk innen 31. desember 1999.
+3. Bestemmelsene i nr. 1 får anvendelse
+
+   1. straks for nye tankkjøretøy og transporttanker på jernbane og for eksisterende transporttanker på jernbaner dersom de lastes ved en terminal der [§ 4](forskrift/1999-02-10-206/§4) nr. 1 får anvendelse. Tankkjøretøyene må være i samsvar med spesifikasjonene i vedlegg IV,
+   2. for eksisterende tankkjøretøy når de er utstyrt for bunnfylling. Spesifikasjonene i vedlegg IV må følges.
 
 ## § 6. Lasting av bensin til lagringsanlegg ved bensinstasjoner
 
-1. Lastings- og lagringsutstyr skal konstrueres og brukes i samsvar med bestemmelsene i vedlegg III. Lasting skal ikke igangsettes før kravene i vedlegg III er oppfylt.Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan opprettholde eller pålegge strengere tiltak der det på grunn av spesielle forhold er nødvendig med slike tiltak for å beskytte menneskers helse, miljøet eller forebygge fare for brann eller eksplosjon.Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan etter søknad godkjenne at det iverksettes andre tekniske tiltak for reduksjon av bensindamp enn dem som er fastsatt i første ledd. Det må da godtgjøres at slike tiltak er egnet til å redusere det samlede årlige tap av bensin i forbindelse med lasting av lagringsanlegg på bensinstasjoner til maksimalt 0,01 vektprosent av gjennomstrømningsmengden. Søknad om godkjenning sendes Miljødirektoratet.1. og 2. ledd får ikke anvendelse på bensinstasjoner med en gjennomstrømningsmengde mindre enn 100 m3 per år.
-2. Bestemmelsene i nr. 1 får anvendelsestraks for nye bensinstasjoner, eksisterende bensinstasjoner med en gjennomstrømningsmengde større enn 1000 m3 per år og eksisterende bensinstasjoner uansett gjennomstrømningsmengde som er en del av bygninger brukt som permanent bolig eller arbeidsplass,innen 31. desember 2001 på eksisterende bensinstasjoner med en gjennomstrømningsmengde større enn 500 m3 per år,innen 31. desember 2004 på øvrige bensinstasjoner.
+1. Lastings- og lagringsutstyr skal konstrueres og brukes i samsvar med bestemmelsene i vedlegg III. Lasting skal ikke igangsettes før kravene i vedlegg III er oppfylt.
+
+   Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan opprettholde eller pålegge strengere tiltak der det på grunn av spesielle forhold er nødvendig med slike tiltak for å beskytte menneskers helse, miljøet eller forebygge fare for brann eller eksplosjon.
+
+   Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan etter søknad godkjenne at det iverksettes andre tekniske tiltak for reduksjon av bensindamp enn dem som er fastsatt i første ledd. Det må da godtgjøres at slike tiltak er egnet til å redusere det samlede årlige tap av bensin i forbindelse med lasting av lagringsanlegg på bensinstasjoner til maksimalt 0,01 vektprosent av gjennomstrømningsmengden. Søknad om godkjenning sendes Miljødirektoratet.
+
+   1\. og 2. ledd får ikke anvendelse på bensinstasjoner med en gjennomstrømningsmengde mindre enn 100 m3 per år.
+2. Bestemmelsene i nr. 1 får anvendelse
+
+   1. straks for nye bensinstasjoner, eksisterende bensinstasjoner med en gjennomstrømningsmengde større enn 1000 m3 per år og eksisterende bensinstasjoner uansett gjennomstrømningsmengde som er en del av bygninger brukt som permanent bolig eller arbeidsplass,
+   2. innen 31. desember 2001 på eksisterende bensinstasjoner med en gjennomstrømningsmengde større enn 500 m3 per år,
+   3. innen 31. desember 2004 på øvrige bensinstasjoner.
 3. Miljødirektoratet og Direktoratet for samfunnssikkerhet og beredskap kan ved enkeltvedtak eller forskrift, bestemme at kravene i nr. 1 likevel ikke skal gjelde for bensinstasjoner som har en gjennomstrømningsmengde mindre enn 500 m3 per år, og som er plassert i et område der det er sannsynlig at utslippene ikke bidrar vesentlig til problemer for helse og miljø eller representerer en fare for brann eller eksplosjon.
 
 > Endret ved [forskrifter 20 feb 2004 nr. 584](forskrift/2004-02-20-584), [27 juli 2011 nr. 804](forskrift/2011-07-27-804) som endret ved [forskrifter 22 nov 2011 nr. 1132](forskrift/2011-11-22-1132), [21 des 2011 nr. 1477](forskrift/2011-12-21-1477) og [27 mars 2012 nr. 268](forskrift/2012-03-27-268) (i kraft 1 april 2012), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013).
@@ -69,7 +132,11 @@ I denne forskriften menes med*bensin:* alle petroleumsderivater med eller uten t
 ## § 7. Bensinpumper
 
 1. Bensinpumper på bensinstasjoner skal være utstyrt med fase II bensindampgjenvinningssystem i samsvar med bestemmelsene i vedlegg V.
-2. Bestemmelsene i nr. 1 får anvendelsefor nye bensinstasjoner med faktisk eller planlagt gjennomstrømningsmengde større enn 500 m3 per år eller som er en del av bygninger brukt som permanent bolig eller arbeidsplass og med faktisk eller planlagt gjennomstrømningsmengde større enn 100 m3 per år,for eksisterende bensinstasjoner som gjennomgår vesentlige endring av eller utskiftning av tanker, rørledninger eller pumper og som har faktisk eller planlagt gjennomstrømningsmengde større enn 500 m3 per år eller som er en del av bygninger brukt som permanent bolig eller arbeidsplass og med faktisk eller planlagt gjennomstrømningsmengde større enn 100 m3 per år,innen 31. desember 2018 for eksisterende bensinstasjoner med en gjennomstrømningsmengde større enn 3000 m3 per år.
+2. Bestemmelsene i nr. 1 får anvendelse
+
+   1. for nye bensinstasjoner med faktisk eller planlagt gjennomstrømningsmengde større enn 500 m3 per år eller som er en del av bygninger brukt som permanent bolig eller arbeidsplass og med faktisk eller planlagt gjennomstrømningsmengde større enn 100 m3 per år,
+   2. for eksisterende bensinstasjoner som gjennomgår vesentlige endring av eller utskiftning av tanker, rørledninger eller pumper og som har faktisk eller planlagt gjennomstrømningsmengde større enn 500 m3 per år eller som er en del av bygninger brukt som permanent bolig eller arbeidsplass og med faktisk eller planlagt gjennomstrømningsmengde større enn 100 m3 per år,
+   3. innen 31. desember 2018 for eksisterende bensinstasjoner med en gjennomstrømningsmengde større enn 3000 m3 per år.
 3. Bensinstasjoner som omfattes av kravene i nr. 1 skal informere kundene om bensindampgjenvinningssystemet gjennom bruk av skilt, klistremerke eller lignende på eller ved bensinpumpen.
 
 > Tilføyd ved [forskrift 27 juli 2011 nr. 804](forskrift/2011-07-27-804) som endret ved [forskrifter 22 nov 2011 nr. 1132](forskrift/2011-11-22-1132), [21 des 2011 nr. 1477](forskrift/2011-12-21-1477) og [27 mars 2012 nr. 268](forskrift/2012-03-27-268) (i kraft 1 april 2012).
@@ -112,18 +179,44 @@ Forskriften trer i kraft straks.
 
 ## Vedlegg I. Bestemmelser om lagringsanlegg på terminaler
 
-1. Tankenes yttervegger og tak over bakkenivå skal være malt i en farge eller farger med en gjennomsnittlig strålevarmerefleksjon, vektet etter areal, på 70 % eller høyere. Hvis en tank er malt i mer enn én farge, skal tankens tak være malt i den farge som har den høyeste strålevarmerefleksjon av de fargene som er benyttet. Dette arbeidet må være slik planlagt at det inngår i de alminnelige vedlikeholdsrutinene for tankene over en periode på tre år. Miljødirektoratet kan, i medhold av [§ 7](forskrift/1999-02-10-206/§7), gjøre unntak i det enkelte tilfelle, blant annet når det er påkrevd for beskyttelse av visse naturskjønne områder utpekt av nasjonale myndigheter.Denne bestemmelse får ikke anvendelse på tanker som er tilknyttet et dampgjenvinningsanlegg som er i samsvar med kravene i vedlegg II nr. 2.
+1. Tankenes yttervegger og tak over bakkenivå skal være malt i en farge eller farger med en gjennomsnittlig strålevarmerefleksjon, vektet etter areal, på 70 % eller høyere. Hvis en tank er malt i mer enn én farge, skal tankens tak være malt i den farge som har den høyeste strålevarmerefleksjon av de fargene som er benyttet. Dette arbeidet må være slik planlagt at det inngår i de alminnelige vedlikeholdsrutinene for tankene over en periode på tre år. Miljødirektoratet kan, i medhold av [§ 7](forskrift/1999-02-10-206/§7), gjøre unntak i det enkelte tilfelle, blant annet når det er påkrevd for beskyttelse av visse naturskjønne områder utpekt av nasjonale myndigheter.
+
+   Denne bestemmelse får ikke anvendelse på tanker som er tilknyttet et dampgjenvinningsanlegg som er i samsvar med kravene i vedlegg II nr. 2.
 2. Tanker med utvendige flytetak skal være utstyrt med en primærtetning til å dekke åpningen mellom tankveggen og flytetaket og med en sekundærtetning montert over primærtetningen. Tetningene skal være slik konstruert at de tillater en samlet retur av bensindamp på 95% eller mer i forhold til en sammenlignbar tank med fast tak uten noe dampreturutstyr (dvs. en tank med fast tak utstyrt med bare en overtrykks- og vakuumventil).
-3. Alle nye lagringsanlegg på terminaler der gjenvinning av bensindamp er påkrevd i henhold til [§ 4](forskrift/1999-02-10-206/§4) (se vedlegg II), må være ententanker med fast tak tilknyttet dampgjenvinningsanlegget, i samsvar med bestemmelsene i vedlegg II, ellerkonstruert med et flytetak, utvendig eller innvendig, utstyrt med primær- og sekundærtetninger for å oppfylle driftskravene i nr. 2.
-4. Eksisterende tanker med fast tak skal entenvære tilknyttet et dampgjenvinningsanlegg, i samsvar med bestemmelsene i vedlegg II, ellervære utstyrt med et innvendig flytetak utstyrt med en primærtetning som bør være slik konstruert at de tillater en samlet retur av bensindamp på 90% eller mer i forhold til en sammenlignbar tank med fast tak uten noe dampreturutstyr.
+3. Alle nye lagringsanlegg på terminaler der gjenvinning av bensindamp er påkrevd i henhold til [§ 4](forskrift/1999-02-10-206/§4) (se vedlegg II), må være enten
+
+   1. tanker med fast tak tilknyttet dampgjenvinningsanlegget, i samsvar med bestemmelsene i vedlegg II, eller
+   2. konstruert med et flytetak, utvendig eller innvendig, utstyrt med primær- og sekundærtetninger for å oppfylle driftskravene i nr. 2.
+4. Eksisterende tanker med fast tak skal enten
+
+   1. være tilknyttet et dampgjenvinningsanlegg, i samsvar med bestemmelsene i vedlegg II, eller
+   2. være utstyrt med et innvendig flytetak utstyrt med en primærtetning som bør være slik konstruert at de tillater en samlet retur av bensindamp på 90% eller mer i forhold til en sammenlignbar tank med fast tak uten noe dampreturutstyr.
 5. Bestemmelsene om retur av bensindamp nevnt i nr. 3 og 4 får ikke anvendelse på tanker med fast tak på terminaler der mellomlagring av bensindamp er tillatt i henhold til vedlegg II nr. 1.
 
 > Endret ved [forskrifter 27 juli 2011 nr. 804](forskrift/2011-07-27-804) som endret ved [forskrifter 22 nov 2011 nr. 1132](forskrift/2011-11-22-1132), [21 des 2011 nr. 1477](forskrift/2011-12-21-1477) og [27 mars 2012 nr. 268](forskrift/2012-03-27-268) (i kraft 1 april 2012), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [12 mai 2016 nr. 489](forskrift/2016-05-12-489) (i kraft 13 mai 2016).
 
 ## Vedlegg II. Bestemmelser om laste- og losseanlegg på terminaler
 
-1. Ved lasting av transporttanker, skal bensindamp returneres til et gjenvinningsanlegg for gjenvinning på terminalen via en tett slange.Denne bestemmelse får ikke anvendelse på transporttanker med toppfylling så lenge denne lastemetoden er tillatt.Ved terminaler med en gjennomstrømningsmengde mindre enn 25.000 tonn per år kan umiddelbar gjenvinning av damp på terminalen erstattes av mellomlagring av bensindamp.
-2. Den gjennomsnittlige bensindampkonsentrasjonen i utslippene fra gjenvinningsanlegg, korrigert for fortynning under behandlingen, må ikke overstige 35 g/normalkubikkmeter (Nm3 ) per time over en løpende 12 måneders periode. Gjenvinningsanlegget skal til enhver tid drives slik at utslippet minimaliseres uten urimelige kostnader.Måling av utslippene skal utføres minst én gang årlig.Utslippene skal måles med flammeionisasjonsdetektor eller ved infrarød absorpsjon med normal gjennomstrømningsmengde over minst 7 timer.Målingene kan være kontinuerlige eller stikkprøvemålinger. Dersom det benyttes stikkprøvemålinger, skal det foretas minst fire målinger per time.Måleresultatene skal logges over minimum 7 timer og registreres av skriver.De samlede målefeil som skyldes utstyret, kalibreringsgassen og metoden som er brukt, må ikke overskride 10% av den målte verdi.Utstyret som brukes, må kunne måle konsentrasjoner på minst 3 g/Nm3.Nøyaktigheten skal være på minst 95% av den målte verdi.
+1. Ved lasting av transporttanker, skal bensindamp returneres til et gjenvinningsanlegg for gjenvinning på terminalen via en tett slange.
+
+   Denne bestemmelse får ikke anvendelse på transporttanker med toppfylling så lenge denne lastemetoden er tillatt.
+
+   Ved terminaler med en gjennomstrømningsmengde mindre enn 25.000 tonn per år kan umiddelbar gjenvinning av damp på terminalen erstattes av mellomlagring av bensindamp.
+2. Den gjennomsnittlige bensindampkonsentrasjonen i utslippene fra gjenvinningsanlegg, korrigert for fortynning under behandlingen, må ikke overstige 35 g/normalkubikkmeter (Nm3 ) per time over en løpende 12 måneders periode. Gjenvinningsanlegget skal til enhver tid drives slik at utslippet minimaliseres uten urimelige kostnader.
+
+   Måling av utslippene skal utføres minst én gang årlig.
+
+   Utslippene skal måles med flammeionisasjonsdetektor eller ved infrarød absorpsjon med normal gjennomstrømningsmengde over minst 7 timer.
+
+   Målingene kan være kontinuerlige eller stikkprøvemålinger. Dersom det benyttes stikkprøvemålinger, skal det foretas minst fire målinger per time.
+
+   Måleresultatene skal logges over minimum 7 timer og registreres av skriver.
+
+   De samlede målefeil som skyldes utstyret, kalibreringsgassen og metoden som er brukt, må ikke overskride 10% av den målte verdi.
+
+   Utstyret som brukes, må kunne måle konsentrasjoner på minst 3 g/Nm3.
+
+   Nøyaktigheten skal være på minst 95% av den målte verdi.
 3. Koplingsslanger og rør skal kontrolleres jevnlig for lekkasjer.
 4. Lastingen skal stanses ved lekkasje fra dampreturen på lasteinnretningen eller kjøretøyet. Dette gjelder kun når kjøretøyet er godkjent i samsvar med denne forskrift. Det nødvendige utstyr for slik avstenging skal monteres på lasteinnretningen.
 5. Når toppfylling av transporttanker er tillatt, må lastearmens munning holdes nær bunnen av tanken for å unngå plaskfylling.
@@ -140,13 +233,17 @@ Ved lasting av bensin på bensinstasjoner og i tanker med fast tak for mellomlag
 
 1.1.
 
-Væskekoplingen på lastearmen skal være en hunnkopling som passer til et firetommers (101,6 mm) API-overgangsstykke på kjøretøyet i henhold tilAPI recommended practice 1004 seventh edition, November 1988
+Væskekoplingen på lastearmen skal være en hunnkopling som passer til et firetommers (101,6 mm) API-overgangsstykke på kjøretøyet i henhold til
+
+- API recommended practice 1004 seventh edition, November 1988
 
 Bottom Loading and Vapour Recovery for MC-306 Tank Motor Vehicles (Section 2.1.1.1 – Type of Adapter used for Bottom Loading).
 
 1.2.
 
-Dampreturkoplingen på lasteinnretningens dampreturslange skal være en hunnkopling med kam og not som passer til et firetommers (101,6 mm) API-overgangsstykke på kjøretøyet, i henhold tilAPI recommended practice 1004 seventh edition, November 1988
+Dampreturkoplingen på lasteinnretningens dampreturslange skal være en hunnkopling med kam og not som passer til et firetommers (101,6 mm) API-overgangsstykke på kjøretøyet, i henhold til
+
+- API recommended practice 1004 seventh edition, November 1988
 
 Bottom Loading and Vapour Recovery for MC-306 Tank Motor Vehicles (Section 4.1.1.2 – Vapour Recovery Adapter).
 

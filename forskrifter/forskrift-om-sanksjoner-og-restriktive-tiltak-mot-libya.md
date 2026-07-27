@@ -15,7 +15,7 @@ xml_hash: "056522d73f6d520fc8b5f084aea71d2a9ac733e53690ae8ce4efef095b17f4e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,13 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-(1) Forskriften gjelder:på norsk territorium, inkludert norsk luftromom bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjonfor alle norske statsborgere og personer med bosted i Norgefor alle foretak registrert i Foretaksregisteretfor alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+(1) Forskriften gjelder:
+
+1. på norsk territorium, inkludert norsk luftrom
+2. om bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjon
+3. for alle norske statsborgere og personer med bosted i Norge
+4. for alle foretak registrert i Foretaksregisteret
+5. for alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
 (2) Forskriften gjelder på Svalbard og Jan Mayen.
 
@@ -34,7 +40,10 @@ eu_basis: []
 
 (1) EUs vedlagte forordning [(EU) 2016/44](eu/32016r0044*) om visse spesifikke restriktive tiltak mot visse personer og enheter i lys av situasjonen i Libya gjelder som forskrift i sin vedlagte form, og med de tilpasninger som følger av denne bestemmelsen.
 
-(2) Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge», med følgende unntak.«EUs felles liste over militært materiell» skal forstås som «Liste I – forsvarsrelaterte varer» i vedlegg I i [forskrift 19. juni 2013 nr. 718](forskrift/2013-06-19-718) om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester (forskrift om eksport av forsvarsmateriell mv.)EU og EUs medlemsstater i artikkel 2 (3) og 3 (2) skal forstås som også å omfatte Norge.
+(2) Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge», med følgende unntak.
+
+1. «EUs felles liste over militært materiell» skal forstås som «Liste I – forsvarsrelaterte varer» i vedlegg I i [forskrift 19. juni 2013 nr. 718](forskrift/2013-06-19-718) om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester (forskrift om eksport av forsvarsmateriell mv.)
+2. EU og EUs medlemsstater i artikkel 2 (3) og 3 (2) skal forstås som også å omfatte Norge.
 
 (3) Henvisningene til medlemsstatenes kompetente myndigheter, i enkelte tilfelle med referanser til vedlegg IV, skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
 
@@ -52,7 +61,29 @@ eu_basis: []
 
 Den som et vedtak om frys av penger og formuesgoder i medhold av artikkel 6 nr. 1 i vedlagte forordning retter seg mot, kan anmode FNs kontaktpunkt om å bli fjernet fra listen i samsvar med FNs sikkerhetsrådsresolusjon 1730 (2006).1
 
-1 Resolusjon 1730 (2006)Vedtatt på Sikkerhetsrådets 5599. møte 19. desember 2006Fremgangsmåte ved avlistingSikkerhetsrådet ber Generalsekretæren om at det opprettes et kontaktpunkt i Sekretariatet (del av FN-sekretariatet) som kan ta imot anmodninger om avlisting. Søkere som ønsker å fremsette en anmodning om avlisting, kan gjøre dette som angitt nedenfor gjennom kontaktpunktet, eller via staten de er bosatt i eller er statsborger av.Kontaktpunktet skal ha følgende oppgaver:Motta anmodninger om avlisting fra søkere (enkeltperson eller personer, grupper, foretak og/eller virksomheter som står på Sanksjonskomiteens lister).Kontrollere om det dreier seg om en ny eller en gjentatt anmodning.Dersom det dreier seg om en gjentatt anmodning og den ikke inneholder nye opplysninger, sende anmodningen tilbake til søker.Bekrefte overfor søker at anmodningen er mottatt, og informere søker om ordinær saksgang ved behandling av anmodningen.Sende anmodningen til de utpekende myndigheter og til myndighetene i den eller de stater som søkeren er statsborger av og er bosatt i, til orientering og eventuelt kommentar. Sistnevnte myndigheter oppfordres til å konsultere de utpekende myndigheter før de eventuelt tilrår avlisting. De kan i den anledning henvende seg til kontaktpunktet, som vil sette dem i forbindelse med den eller de utpekende stater dersom disse gir tillatelse til det.Dersom noen av de nevnte myndigheter tilrår avlisting etter en slik konsultasjon, skal vedkommende myndigheter sende sin innstilling, sammen med en redegjørelse, via kontaktpunktet eller direkte til Sanksjonskomiteens leder. Komitélederen sørger deretter for at avlistingsanmodningen blir satt på komiteens saksliste.Dersom noen av myndighetene som ble konsultert i forbindelse med avlistingsanmodningen etter punkt 5 ovenfor, gjør innsigelse mot anmodningen, skal kontaktpunktet underrette komiteen om dette og oversende kopi av anmodningen. Komitémedlemmer som sitter inne med opplysninger til støtte for avlistingsanmodningen, oppfordres til å la myndighetene som har vurdert anmodningen i henhold til punkt 5, få del i disse opplysningene.Dersom ingen av myndighetene som har vurdert avlistingsanmodningen i henhold til punkt 5 ovenfor, etter en rimelig frist (3 måneder) har kommentarer eller tilkjennegir overfor komiteen at de fortsatt arbeider med anmodningen og trenger mer tid, som må fastsettes nærmere, skal kontaktpunktet underrette samtlige komitémedlemmer om dette og oversende kopi av avlistingsanmodningen. Ethvert komitémedlem kan, etter å ha rådført seg med de utpekende myndigheter, tilrå avlisting ved å sende anmodningen sammen med en redegjørelse til Sanksjonskomiteens leder. (For at saken skal bli satt på komiteens saksliste, kreves det bare at ett komitémedlem tilrår avlisting.) Dersom ingen av komitémedlemmene etter én måned har tilrådd avlisting, anses anmodningen for å være avslått, og komiteens leder skal underrette kontaktpunktet om dette.Kontaktpunktet skal oversende samtlige meddelelser som den mottar fra medlemsstatene, til komiteen til orientering.Informere søker omat Sanksjonskomiteen har besluttet å innvilge søknaden om avlisting, ellerat komiteen har ferdigbehandlet avlistingsanmodningen, og at søker blir stående på komiteens liste.
+1 Resolusjon 1730 (2006)
+
+Vedtatt på Sikkerhetsrådets 5599. møte 19. desember 2006
+
+Fremgangsmåte ved avlisting
+
+Sikkerhetsrådet ber Generalsekretæren om at det opprettes et kontaktpunkt i Sekretariatet (del av FN-sekretariatet) som kan ta imot anmodninger om avlisting. Søkere som ønsker å fremsette en anmodning om avlisting, kan gjøre dette som angitt nedenfor gjennom kontaktpunktet, eller via staten de er bosatt i eller er statsborger av.
+
+Kontaktpunktet skal ha følgende oppgaver:
+
+1. Motta anmodninger om avlisting fra søkere (enkeltperson eller personer, grupper, foretak og/eller virksomheter som står på Sanksjonskomiteens lister).
+2. Kontrollere om det dreier seg om en ny eller en gjentatt anmodning.
+3. Dersom det dreier seg om en gjentatt anmodning og den ikke inneholder nye opplysninger, sende anmodningen tilbake til søker.
+4. Bekrefte overfor søker at anmodningen er mottatt, og informere søker om ordinær saksgang ved behandling av anmodningen.
+5. Sende anmodningen til de utpekende myndigheter og til myndighetene i den eller de stater som søkeren er statsborger av og er bosatt i, til orientering og eventuelt kommentar. Sistnevnte myndigheter oppfordres til å konsultere de utpekende myndigheter før de eventuelt tilrår avlisting. De kan i den anledning henvende seg til kontaktpunktet, som vil sette dem i forbindelse med den eller de utpekende stater dersom disse gir tillatelse til det.
+6. 1. Dersom noen av de nevnte myndigheter tilrår avlisting etter en slik konsultasjon, skal vedkommende myndigheter sende sin innstilling, sammen med en redegjørelse, via kontaktpunktet eller direkte til Sanksjonskomiteens leder. Komitélederen sørger deretter for at avlistingsanmodningen blir satt på komiteens saksliste.
+   2. Dersom noen av myndighetene som ble konsultert i forbindelse med avlistingsanmodningen etter punkt 5 ovenfor, gjør innsigelse mot anmodningen, skal kontaktpunktet underrette komiteen om dette og oversende kopi av anmodningen. Komitémedlemmer som sitter inne med opplysninger til støtte for avlistingsanmodningen, oppfordres til å la myndighetene som har vurdert anmodningen i henhold til punkt 5, få del i disse opplysningene.
+   3. Dersom ingen av myndighetene som har vurdert avlistingsanmodningen i henhold til punkt 5 ovenfor, etter en rimelig frist (3 måneder) har kommentarer eller tilkjennegir overfor komiteen at de fortsatt arbeider med anmodningen og trenger mer tid, som må fastsettes nærmere, skal kontaktpunktet underrette samtlige komitémedlemmer om dette og oversende kopi av avlistingsanmodningen. Ethvert komitémedlem kan, etter å ha rådført seg med de utpekende myndigheter, tilrå avlisting ved å sende anmodningen sammen med en redegjørelse til Sanksjonskomiteens leder. (For at saken skal bli satt på komiteens saksliste, kreves det bare at ett komitémedlem tilrår avlisting.) Dersom ingen av komitémedlemmene etter én måned har tilrådd avlisting, anses anmodningen for å være avslått, og komiteens leder skal underrette kontaktpunktet om dette.
+7. Kontaktpunktet skal oversende samtlige meddelelser som den mottar fra medlemsstatene, til komiteen til orientering.
+8. Informere søker om
+
+   1. at Sanksjonskomiteen har besluttet å innvilge søknaden om avlisting, eller
+   2. at komiteen har ferdigbehandlet avlistingsanmodningen, og at søker blir stående på komiteens liste.
 
 > Endret ved [forskrift 25 april 2014 nr. 604](forskrift/2014-04-25-604).
 
@@ -90,11 +121,32 @@ om restriktive tiltak i lys av situasjonen i Libya
 
 ### Artikkel 1
 
-I denne forordning menes med«penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eierandeler i penger eller finansielle ressurser,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål, eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder ved, men ikke begrenset til å selge, leie ut eller pantsette dem,«teknisk bistand»: enhver form for teknisk støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving eller vedlikehold, eller annen form for teknisk tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester, herunder også muntlig bistand,«Sanksjonskomiteen»: komiteen som er opprettet under FNs sikkerhetsråd i henhold til punkt 24 i FNs sikkerhetsråds resolusjon 1970 (2011),«EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkår som er fastsatt i traktaten, herunder også deres luftrom.«listeførte fartøyer»: fartøyer som er listeført av FNs sanksjonskomité i henhold til punkt 11 i FNs sikkerhetsråds resolusjon 2146 (2014), og som er oppført i vedlegg V til denne forordning.«den libyske regjeringens kontaktpunkt»: kontaktpunktet som er utpekt av den libyske regjering i henhold til underretning sendt Sanksjonskomiteen i samsvar med punkt 3 i Sikkerhetsrådets resolusjon 2146 (2014).
+I denne forordning menes med
+
+1. «penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+   2. innestående hos finansinstitusjoner eller andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+   4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+   6. remburser, konnossementer og pantebrev,
+   7. dokumenter som viser eierandeler i penger eller finansielle ressurser,
+2. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål, eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+3. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+4. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder ved, men ikke begrenset til å selge, leie ut eller pantsette dem,
+5. «teknisk bistand»: enhver form for teknisk støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving eller vedlikehold, eller annen form for teknisk tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester, herunder også muntlig bistand,
+6. «Sanksjonskomiteen»: komiteen som er opprettet under FNs sikkerhetsråd i henhold til punkt 24 i FNs sikkerhetsråds resolusjon 1970 (2011),
+7. «EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkår som er fastsatt i traktaten, herunder også deres luftrom.
+8. «listeførte fartøyer»: fartøyer som er listeført av FNs sanksjonskomité i henhold til punkt 11 i FNs sikkerhetsråds resolusjon 2146 (2014), og som er oppført i vedlegg V til denne forordning.
+9. «den libyske regjeringens kontaktpunkt»: kontaktpunktet som er utpekt av den libyske regjering i henhold til underretning sendt Sanksjonskomiteen i samsvar med punkt 3 i Sikkerhetsrådets resolusjon 2146 (2014).
 
 ### Artikkel 2
 
-1\. Det er forbudtå selge, levere, overføre eller eksportere, direkte eller indirekte, utstyr som kan brukes til intern undertrykking, som angitt i vedlegg I, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i Libya eller til bruk i Libya,forsettlig å delta i virksomhet som har som formål eller virkning å omgå forbudene omtalt i bokstav a).
+1\. Det er forbudt
+
+1. å selge, levere, overføre eller eksportere, direkte eller indirekte, utstyr som kan brukes til intern undertrykking, som angitt i vedlegg I, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i Libya eller til bruk i Libya,
+2. forsettlig å delta i virksomhet som har som formål eller virkning å omgå forbudene omtalt i bokstav a).
 
 2\. Det er forbudt å kjøpe, importere eller transportere fra Libya utstyr som kan brukes til intern undertrykking, som angitt i vedlegg I, uavhengig av om produktet har sin opprinnelse i Libya eller ikke.
 
@@ -104,7 +156,11 @@ I denne forordning menes med«penger»: finansielle aktiva og fordeler av enhver
 
 ### Artikkel 2a
 
-1\. Det kreves forhåndstillatelse tildirekte eller indirekte salg, levering, overføring eller eksport av varene oppført i vedlegg VI, enten de har sin opprinnelse i EU eller ikke, til personer, enheter eller organer i Libya eller til bruk i Libya,yting av faglig bistand eller formidlingstjenester i tilknytning til varer oppført i vedlegg VI eller i tilknytning til levering, produksjon, vedlikehold og bruk av slike varer, direkte eller indirekte til personer, enheter eller organer i Libya eller til bruk i Libya,yting av finansiering eller finansiell bistand i tilknytning til varer oppført i vedlegg VI, særlig tilskudd, lån og eksportkredittforsikring i forbindelse med salg, levering, overføring eller eksport av slike produkter eller i forbindelse med yting av tilknyttet faglig bistand eller formidlingstjenester, direkte eller indirekte til personer, enheter eller organer i Libya eller til bruk i Libya.
+1\. Det kreves forhåndstillatelse til
+
+1. direkte eller indirekte salg, levering, overføring eller eksport av varene oppført i vedlegg VI, enten de har sin opprinnelse i EU eller ikke, til personer, enheter eller organer i Libya eller til bruk i Libya,
+2. yting av faglig bistand eller formidlingstjenester i tilknytning til varer oppført i vedlegg VI eller i tilknytning til levering, produksjon, vedlikehold og bruk av slike varer, direkte eller indirekte til personer, enheter eller organer i Libya eller til bruk i Libya,
+3. yting av finansiering eller finansiell bistand i tilknytning til varer oppført i vedlegg VI, særlig tilskudd, lån og eksportkredittforsikring i forbindelse med salg, levering, overføring eller eksport av slike produkter eller i forbindelse med yting av tilknyttet faglig bistand eller formidlingstjenester, direkte eller indirekte til personer, enheter eller organer i Libya eller til bruk i Libya.
 
 2\. Vedlegg VI omfatter produkter som kan benyttes til smugling av migranter og menneskehandel.
 
@@ -116,9 +172,20 @@ I denne forordning menes med«penger»: finansielle aktiva og fordeler av enhver
 
 ### Artikkel 3
 
-1\. Det er forbudtå yte, direkte eller indirekte, teknisk bistand knyttet til varer og teknologi som er oppført på EUs felles liste over militært utstyr, eller til levering, produksjon, vedlikehold og bruk av varer som er oppført på denne listen, til personer, enheter eller organer i Libya eller til bruk i Libya,å yte, direkte eller indirekte, teknisk bistand eller meglertjenester knyttet til utstyr som kan brukes til intern undertrykking, og som er oppført i vedlegg I, til personer, enheter eller organer i Libya eller til bruk i Libya,å yte, direkte eller indirekte, finansiering eller finansiell bistand knyttet til varer og teknologi som er oppført på EUs felles liste over militært utstyr eller i vedlegg I, særlig tilskudd, lån og eksportkredittforsikring, ved salg, levering, overføring eller eksport av slike produkter eller ved levering av tilknyttet teknisk bistand til personer, enheter eller organer i Libya eller til bruk i Libya,å yte, direkte eller indirekte, teknisk bistand, finansiering eller finansiell bistand, meglertjenester eller transporttjenester knyttet til forsyning av leiesoldater i Libya eller til bruk i Libya,forsettlig å delta i virksomhet som har som formål eller virkning å omgå forbudene omtalt i bokstav a) til d).
+1\. Det er forbudt
 
-2\. Som unntak fra bestemmelsene i nr. 1 skal forbudene som der er fastsatt, ikke gjeldelevering av teknisk bistand, finansiering eller finansiell bistand knyttet til ikke-dødbringende militært utstyr som kun er beregnet for humanitære formål eller til beskyttende bruk, godkjent på forhånd av de kompetente myndigheter i medlemsstatene som angitt i vedlegg IV,levering av teknisk bistand, finansiering eller finansiell bistand knyttet til salg og levering av våpen og tilknyttet materiell, godkjent på forhånd av Sanksjonskomiteen,levering av teknisk bistand, finansiering eller finansiell bistand kun beregnet som bistand til den libyske regjeringen for sikkerhets- og nedrustningsformål,vernetøy, herunder skuddsikre vester og hjelmer, som eksporteres midlertidig til Libya av og utelukkende til personlig bruk for personell fra FN, EU eller medlemsstatene, representanter for mediene, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell.
+1. å yte, direkte eller indirekte, teknisk bistand knyttet til varer og teknologi som er oppført på EUs felles liste over militært utstyr, eller til levering, produksjon, vedlikehold og bruk av varer som er oppført på denne listen, til personer, enheter eller organer i Libya eller til bruk i Libya,
+2. å yte, direkte eller indirekte, teknisk bistand eller meglertjenester knyttet til utstyr som kan brukes til intern undertrykking, og som er oppført i vedlegg I, til personer, enheter eller organer i Libya eller til bruk i Libya,
+3. å yte, direkte eller indirekte, finansiering eller finansiell bistand knyttet til varer og teknologi som er oppført på EUs felles liste over militært utstyr eller i vedlegg I, særlig tilskudd, lån og eksportkredittforsikring, ved salg, levering, overføring eller eksport av slike produkter eller ved levering av tilknyttet teknisk bistand til personer, enheter eller organer i Libya eller til bruk i Libya,
+4. å yte, direkte eller indirekte, teknisk bistand, finansiering eller finansiell bistand, meglertjenester eller transporttjenester knyttet til forsyning av leiesoldater i Libya eller til bruk i Libya,
+5. forsettlig å delta i virksomhet som har som formål eller virkning å omgå forbudene omtalt i bokstav a) til d).
+
+2\. Som unntak fra bestemmelsene i nr. 1 skal forbudene som der er fastsatt, ikke gjelde
+
+1. levering av teknisk bistand, finansiering eller finansiell bistand knyttet til ikke-dødbringende militært utstyr som kun er beregnet for humanitære formål eller til beskyttende bruk, godkjent på forhånd av de kompetente myndigheter i medlemsstatene som angitt i vedlegg IV,
+2. levering av teknisk bistand, finansiering eller finansiell bistand knyttet til salg og levering av våpen og tilknyttet materiell, godkjent på forhånd av Sanksjonskomiteen,
+3. levering av teknisk bistand, finansiering eller finansiell bistand kun beregnet som bistand til den libyske regjeringen for sikkerhets- og nedrustningsformål,
+4. vernetøy, herunder skuddsikre vester og hjelmer, som eksporteres midlertidig til Libya av og utelukkende til personlig bruk for personell fra FN, EU eller medlemsstatene, representanter for mediene, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell.
 
 3\. Som unntak fra bestemmelsene i nr. 1 kan de kompetente myndigheter i medlemsstatene, som angitt i vedlegg IV, gi tillatelse, på de vilkår de finner hensiktsmessige, til teknisk bistand, finansiering og finansiell bistand knyttet til utstyr som kan brukes til intern undertrykking, dersom de har fastslått at utstyret kun er beregnet for humanitære formål eller til beskyttende bruk.
 
@@ -126,7 +193,9 @@ I denne forordning menes med«penger»: finansielle aktiva og fordeler av enhver
 
 For å unngå overføring av varer og teknologi som omfattes av EUs felles liste over militært utstyr, eller som denne forordning forbyr levering, salg, overføring, eksport eller import av, skal, i forbindelse med alle varer som føres inn i EUs tollområde fra Libya eller ut av Libya til EU, den personen som er ansvarlig for å overholde plikten til å oppgi informasjon før ankomst eller sending, som fastsatt i de relevante bestemmelsene om summariske deklarasjoner ved inn- og utførsel, samt tolldeklarasjoner, i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av en EF-tollkodeks,1 og i kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*) om fastsettelse av regler for gjennomføringen av den nevnte rådsforordning,2 i tillegg oppgi om varene omfattes av EUs felles liste over militært utstyr eller denne forordning, og, dersom det kreves tillatelse til eksport av varene, gi nærmere opplysninger om den tildelte eksportlisensen. Disse tilleggsopplysningene skal sendes til den berørte medlemsstats kompetente tollmyndigheter, enten i skriftlig form eller ved hjelp av en tolldeklarasjon.
 
-1 EFT L 302 av 19.10.1992, s.1.2 EFT L 253 av 11.10.1993, s. 1.
+1 EFT L 302 av 19.10.1992, s.1.
+
+2 EFT L 253 av 11.10.1993, s. 1.
 
 ### Artikkel 5
 
@@ -136,13 +205,27 @@ For å unngå overføring av varer og teknologi som omfattes av EUs felles liste
 
 3\. Det er forbudt forsettlig å delta i virksomhet som direkte eller indirekte har som formål eller virkning å omgå tiltakene omtalt i nr. 1 og 2.
 
-4\. Alle penger og formuesgoder som per 16. september 2011 tilhørte eller ble eid, innehatt eller kontrollert avDen libyske investeringsmyndigheten, ogDen libyske porteføljen for investeringer i Afrika,og som på nevnte dato var lokalisert utenfor Libyas grenser, skal fortsatt være frosset.
+4\. Alle penger og formuesgoder som per 16. september 2011 tilhørte eller ble eid, innehatt eller kontrollert av
+
+1. Den libyske investeringsmyndigheten, og
+2. Den libyske porteføljen for investeringer i Afrika,
+
+og som på nevnte dato var lokalisert utenfor Libyas grenser, skal fortsatt være frosset.
 
 ### Artikkel 6
 
 1\. Vedlegg II inneholder en henvisning (hyperlenke) til FNs konsoliderte sanksjonsliste over de fysiske og juridiske personene, enhetene og organene som er oppført av FNs sikkerhetsråd eller av Sanksjonskomiteen, i samsvar med punkt 22 i FNs sikkerhetsråds resolusjon 1970 (2011) eller punkt 19, 22 eller 23 i FNs sikkerhetsråds resolusjon 1973 (2011), punkt 4 i FNs sikkerhetsråds resolusjon 2174 (2014), punkt 11 i FNs sikkerhetsråds resolusjon 2213 (2015), punkt 11 i FNs sikkerhetsråds resolusjon 2362 (2017), punkt 11 i FNs sikkerhetsråds resolusjon 2441 (2018) eller punkt 11 i FNs sikkerhetsråds resolusjon 2571 (2021).
 
-2\. Vedlegg III inneholder en henvisning (hyperlenke) til EUs konsoliderte liste over fysiske og juridiske personer, enheter og organer, som i samsvar med artikkel 6 nr. 1 bokstav b) i beslutning 2011/137/FUSP av Rådet er identifisert som personer eller enheter som har vært involvert i eller delaktige i beordring, styring eller på annen måte iscenesetting av alvorlige brudd på menneskerettighetene til personer i Libya, herunder ved at de har vært involvert i eller delaktige i planlegging, beordring eller gjennomføring av angrep, herunder flyangrep, i strid med folkeretten, mot sivilbefolkningen og sivile bygninger, eller som personer, enheter eller organer som er libyske myndigheter, eller som personer, enheter eller organer som har begått eller medvirket til å begå brudd på bestemmelsene i FNs sikkerhetsråds resolusjon 1970 (2011) eller FNs sikkerhetsråds resolusjon 1973 (2011) eller på bestemmelsene i denne forordning, eller som anses å ha vært involvert i den repressive politikken som ble ført av det tidligere regimet til Muammar Gaddafi i Libya, eller som på annet vis har hatt tilknytning til dette regimet, og som fortsatt utgjør en risiko med hensyn til freden, stabiliteten eller sikkerheten i Libya eller en vellykket sluttføring av den politiske overgangsprosessen i landet, eller som er involvert i eller støtter handlinger som truer freden, stabiliteten eller sikkerheten i Libya, eller som hindrer eller undergraver en vellykket sluttføring av den politiske overgangsprosessen i landet, herunder vedå planlegge, iscenesette eller utføre handlinger i Libya som er i strid med gjeldende internasjonale menneskerettigheter eller internasjonal humanitærrett, eller handlinger som innebærer en krenkelse av menneskerettighetene i Libya,å angripe lufthavner, terminaler for landtransport eller sjøhavner i Libya, libyske statlige institusjoner eller installasjoner, eller fremmede staters representasjon i landet,å støtte væpnede grupper eller kriminelle nettverk gjennom ulovlig utnyttelse av råolje eller andre naturressurser i Libya,å true eller øve press på statlige finansinstitusjoner i Libya eller landets statlige oljeselskap (Libyan National Oil Company), eller å ta del i handlinger som kan føre til eller resultere i en urettmessig tilegnelse av libyske offentlige midler,å overtre eller medvirke til å omgå bestemmelsene om våpenembargo i Libya fastsatt i FNs sikkerhetsråds resolusjon 1970 (2011) og i artikkel 1 i denne forordning,å hindre eller undergrave valgene planlagt for i Libyan Political Dialogue Forum roadmap, Vedlegg II Annex II. List of natural and legal persons, entities and bodies referred to in Article 6 (1).eller som er å anse som personer, enheter eller organer som har opptrådt for eller på vegne av eller etter instruks fra noen av de ovenfor nevnte, eller enheter eller organer som er eid eller kontrollert av disse eller av personer, enheter eller organer som står oppført på listen i vedlegg II.
+2\. Vedlegg III inneholder en henvisning (hyperlenke) til EUs konsoliderte liste over fysiske og juridiske personer, enheter og organer, som i samsvar med artikkel 6 nr. 1 bokstav b) i beslutning 2011/137/FUSP av Rådet er identifisert som personer eller enheter som har vært involvert i eller delaktige i beordring, styring eller på annen måte iscenesetting av alvorlige brudd på menneskerettighetene til personer i Libya, herunder ved at de har vært involvert i eller delaktige i planlegging, beordring eller gjennomføring av angrep, herunder flyangrep, i strid med folkeretten, mot sivilbefolkningen og sivile bygninger, eller som personer, enheter eller organer som er libyske myndigheter, eller som personer, enheter eller organer som har begått eller medvirket til å begå brudd på bestemmelsene i FNs sikkerhetsråds resolusjon 1970 (2011) eller FNs sikkerhetsråds resolusjon 1973 (2011) eller på bestemmelsene i denne forordning, eller som anses å ha vært involvert i den repressive politikken som ble ført av det tidligere regimet til Muammar Gaddafi i Libya, eller som på annet vis har hatt tilknytning til dette regimet, og som fortsatt utgjør en risiko med hensyn til freden, stabiliteten eller sikkerheten i Libya eller en vellykket sluttføring av den politiske overgangsprosessen i landet, eller som er involvert i eller støtter handlinger som truer freden, stabiliteten eller sikkerheten i Libya, eller som hindrer eller undergraver en vellykket sluttføring av den politiske overgangsprosessen i landet, herunder ved
+
+1. å planlegge, iscenesette eller utføre handlinger i Libya som er i strid med gjeldende internasjonale menneskerettigheter eller internasjonal humanitærrett, eller handlinger som innebærer en krenkelse av menneskerettighetene i Libya,
+2. å angripe lufthavner, terminaler for landtransport eller sjøhavner i Libya, libyske statlige institusjoner eller installasjoner, eller fremmede staters representasjon i landet,
+3. å støtte væpnede grupper eller kriminelle nettverk gjennom ulovlig utnyttelse av råolje eller andre naturressurser i Libya,
+4. å true eller øve press på statlige finansinstitusjoner i Libya eller landets statlige oljeselskap (Libyan National Oil Company), eller å ta del i handlinger som kan føre til eller resultere i en urettmessig tilegnelse av libyske offentlige midler,
+5. å overtre eller medvirke til å omgå bestemmelsene om våpenembargo i Libya fastsatt i FNs sikkerhetsråds resolusjon 1970 (2011) og i artikkel 1 i denne forordning,
+6. å hindre eller undergrave valgene planlagt for i Libyan Political Dialogue Forum roadmap, Vedlegg II Annex II. List of natural and legal persons, entities and bodies referred to in Article 6 (1).
+
+eller som er å anse som personer, enheter eller organer som har opptrådt for eller på vegne av eller etter instruks fra noen av de ovenfor nevnte, eller enheter eller organer som er eid eller kontrollert av disse eller av personer, enheter eller organer som står oppført på listen i vedlegg II.
 
 3\. FNs konsoliderte sanksjonsliste (se Vedlegg II) og EUs konsoliderte liste (se Vedlegg III) inneholder også eller viser til begrunnelsen for at de oppførte personer, enheter og organer er listeført, som angitt av Sikkerhetsrådet, eller av Sanksjonskomiteen når det gjelder vedlegg II.
 
@@ -154,15 +237,35 @@ Når det gjelder personer, enheter og organer som ikke er oppført i FNs eller E
 
 ### Artikkel 7
 
-1\. Som unntak fra bestemmelsene i artikkel 5 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg IV, gi tillatelse til å frigi visse frosne penger eller formuesgoder, eller stille dem til rådighet, på de vilkår de finner hensiktsmessige, når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke de grunnleggende behov hos personer oppført i FNs eller EUs konsoliderte lister (se vedlegg II og III) eller nevnt i artikkel 5 nr. 4 og familiemedlemmer som disse personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand, ellerutelukkende skal gå til betaling av avgifter eller administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,forutsatt at vedkommende medlemsstat, i de tilfeller der tillatelsen gjelder en person eller enhet, eller et organ, oppført på FNs sanksjonsliste som nevnt i vedlegg II eller nevnt i artikkel 5 nr. 4, har underrettet Sanksjonskomiteen på forhånd om sin konklusjon og at den har til hensikt å gi en slik tillatelse, og Sanksjonskomiteen ikke har kommet med innsigelser innen fem virkedager etter at underretningen ble gitt.
+1\. Som unntak fra bestemmelsene i artikkel 5 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg IV, gi tillatelse til å frigi visse frosne penger eller formuesgoder, eller stille dem til rådighet, på de vilkår de finner hensiktsmessige, når det er fastslått at pengene eller formuesgodene
 
-2\. Som unntak fra bestemmelsene i artikkel 5 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg IV, gi tillatelse til å frigi visse frosne penger eller formuesgoder, eller stille dem til rådighet, når det er fastslått at de frosne pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt atSanksjonskomiteen er blitt underrettet om den berørte medlemsstatens beslutning, og beslutningen er godkjent av komiteen, dersom tillatelsen gjelder en person eller enhet, eller et organ, oppført på FNs sanksjonsliste som nevnt i vedlegg II eller nevnt i artikkel 5 nr. 4, og atden kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstaters kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener en bestemt tillatelse bør gis, dersom tillatelsen gjelder en person eller enhet, eller et organ, oppført på EUs liste som nevnt i vedlegg III.
+1. er nødvendige for å dekke de grunnleggende behov hos personer oppført i FNs eller EUs konsoliderte lister (se vedlegg II og III) eller nevnt i artikkel 5 nr. 4 og familiemedlemmer som disse personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,
+2. utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand, eller
+3. utelukkende skal gå til betaling av avgifter eller administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,
+
+forutsatt at vedkommende medlemsstat, i de tilfeller der tillatelsen gjelder en person eller enhet, eller et organ, oppført på FNs sanksjonsliste som nevnt i vedlegg II eller nevnt i artikkel 5 nr. 4, har underrettet Sanksjonskomiteen på forhånd om sin konklusjon og at den har til hensikt å gi en slik tillatelse, og Sanksjonskomiteen ikke har kommet med innsigelser innen fem virkedager etter at underretningen ble gitt.
+
+2\. Som unntak fra bestemmelsene i artikkel 5 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg IV, gi tillatelse til å frigi visse frosne penger eller formuesgoder, eller stille dem til rådighet, når det er fastslått at de frosne pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt at
+
+1. Sanksjonskomiteen er blitt underrettet om den berørte medlemsstatens beslutning, og beslutningen er godkjent av komiteen, dersom tillatelsen gjelder en person eller enhet, eller et organ, oppført på FNs sanksjonsliste som nevnt i vedlegg II eller nevnt i artikkel 5 nr. 4, og at
+2. den kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstaters kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener en bestemt tillatelse bør gis, dersom tillatelsen gjelder en person eller enhet, eller et organ, oppført på EUs liste som nevnt i vedlegg III.
 
 ### Artikkel 8
 
-1\. Når det gjelder personer, enheter eller organer oppført på FNs sanksjonsliste som nevnt i vedlegg II, kan medlemsstatenes kompetente myndigheter, som angitt i vedlegg IV, gjøre unntak fra bestemmelsene i artikkel 5 og gi tillatelse til å frigi visse frosne penger eller formuesgoder, forutsatt atpengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før den dato personen, enheten eller organet omtalt i artikkel 5 ble ført opp i vedlegg II eller nevnt i artikkel 5 nr. 4, eller for en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol før denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik rettslig beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,tilbakeholdsretten eller den rettslige beslutningen ikke er til fordel for personer, enheter eller organer som er oppført på liste som nevnt i vedlegg II eller III eller nevnt i artikkel 5 nr. 4,anerkjennelse av tilbakeholdsretten eller den rettslige beslutningen ikke er i strid med vedkommende medlemsstats offentlige orden, ogSanksjonskomiteen er blitt underrettet om tilbakeholdsretten eller den rettslige beslutningen av vedkommende medlemsstat.
+1\. Når det gjelder personer, enheter eller organer oppført på FNs sanksjonsliste som nevnt i vedlegg II, kan medlemsstatenes kompetente myndigheter, som angitt i vedlegg IV, gjøre unntak fra bestemmelsene i artikkel 5 og gi tillatelse til å frigi visse frosne penger eller formuesgoder, forutsatt at
 
-2\. Når det gjelder personer, enheter eller organer oppført i vedlegg III, kan medlemsstatenes kompetente myndigheter, som angitt i vedlegg IV, gjøre unntak fra bestemmelsene i artikkel 5 og gi tillatelse til å frigi visse frosne penger eller formuesgoder, forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før den dato den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 5 ble ført opp i vedlegg III, eller for en rettslig eller administrativ beslutning fastsatt i EU, eller en rettslig beslutning som er rettskraftig i vedkommende medlemsstat, før eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,beslutningen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer som er oppført på lister som nevnt i vedlegg II eller III eller nevnt i artikkel 5 nr. 4, oganerkjennelse av beslutningen ikke er i strid med vedkommende medlemsstats offentlige orden.
+1. pengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før den dato personen, enheten eller organet omtalt i artikkel 5 ble ført opp i vedlegg II eller nevnt i artikkel 5 nr. 4, eller for en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol før denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik rettslig beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. tilbakeholdsretten eller den rettslige beslutningen ikke er til fordel for personer, enheter eller organer som er oppført på liste som nevnt i vedlegg II eller III eller nevnt i artikkel 5 nr. 4,
+4. anerkjennelse av tilbakeholdsretten eller den rettslige beslutningen ikke er i strid med vedkommende medlemsstats offentlige orden, og
+5. Sanksjonskomiteen er blitt underrettet om tilbakeholdsretten eller den rettslige beslutningen av vedkommende medlemsstat.
+
+2\. Når det gjelder personer, enheter eller organer oppført i vedlegg III, kan medlemsstatenes kompetente myndigheter, som angitt i vedlegg IV, gjøre unntak fra bestemmelsene i artikkel 5 og gi tillatelse til å frigi visse frosne penger eller formuesgoder, forutsatt at
+
+1. pengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før den dato den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 5 ble ført opp i vedlegg III, eller for en rettslig eller administrativ beslutning fastsatt i EU, eller en rettslig beslutning som er rettskraftig i vedkommende medlemsstat, før eller etter denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. beslutningen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer som er oppført på lister som nevnt i vedlegg II eller III eller nevnt i artikkel 5 nr. 4, og
+4. anerkjennelse av beslutningen ikke er i strid med vedkommende medlemsstats offentlige orden.
 
 3\. Vedkommende medlemsstat skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkel.
 
@@ -172,19 +275,48 @@ Som unntak fra bestemmelsene i artikkel 5 kan medlemsstatenes kompetente myndigh
 
 ### Artikkel 8b
 
-1\. Som unntak fra bestemmelsene i artikkel 5 nr. 4 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg IV, gi tillatelse til å frigi visse frosne penger eller formuesgoder, forutsatt atpengene eller formuesgodene skal brukes til ett eller flere av følgende formål:humanitære behov,brensel, strøm og vann til utelukkende sivil bruk,gjenopptaking av libysk produksjon og salg av hydrokarboner,etablering, drift eller styrking av institusjoner i sivilforvaltningen og sivil offentlig infrastruktur, ellertilrettelegging for gjenopptaking av operasjoner i banksektoren, herunder for å støtte og tilrettelegge for internasjonal handel med Libya,den berørte medlemsstat har underrettet Sanksjonskomiteen om at den har til hensikt å tillate at penger eller formuesgoder blir gjort tilgjengelige, og Sanksjonskomiteen ikke har kommet med innsigelser innen fem virkedager etter at underretningen ble gitt,den berørte medlemsstat har underrettet Sanksjonskomiteen om at disse pengene eller formuesgodene ikke skal stilles til rådighet for eller være til fordel for noen av personene, enhetene eller organene oppført på lister som nevnt i vedlegg II eller III,den berørte medlemsstat har rådført seg på forhånd med de libyske myndigheter om bruken av disse pengene eller formuesgodene, ogden berørte medlemsstat har informert de libyske myndigheter om de underretninger som er gitt i henhold til bokstav b) og c) i dette nummer, og de libyske myndigheter ikke har kommet med innsigelser mot at pengene eller formuesgodene frigis, innen fem virkedager.
+1\. Som unntak fra bestemmelsene i artikkel 5 nr. 4 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg IV, gi tillatelse til å frigi visse frosne penger eller formuesgoder, forutsatt at
 
-2\. Som unntak fra bestemmelsene i artikkel 5 nr. 4 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg IV, i tilfeller der de berørte personer, enheter eller organer skal betale beløp som er forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende personer, enheter eller organer har inngått eller pådratt seg før den dato da de ble listeført av FNs sikkerhetsråd eller Sanksjonskomiteen, gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder, forutsatt atden berørte kompetente myndighet har fastslått at betalingen verken er i strid med artikkel 5 nr. 2 eller går til eller er til fordel for personer, enheter eller organer som er omtalt i artikkel 5 nr. 4,Sanksjonskomiteen er blitt underrettet av den berørte medlemsstat om at denne har til hensikt å gi en slik tillatelse, ti virkedager før tillatelsen skal gis.
+1. pengene eller formuesgodene skal brukes til ett eller flere av følgende formål:
+
+   1. humanitære behov,
+   2. brensel, strøm og vann til utelukkende sivil bruk,
+   3. gjenopptaking av libysk produksjon og salg av hydrokarboner,
+   4. etablering, drift eller styrking av institusjoner i sivilforvaltningen og sivil offentlig infrastruktur, eller
+   5. tilrettelegging for gjenopptaking av operasjoner i banksektoren, herunder for å støtte og tilrettelegge for internasjonal handel med Libya,
+2. den berørte medlemsstat har underrettet Sanksjonskomiteen om at den har til hensikt å tillate at penger eller formuesgoder blir gjort tilgjengelige, og Sanksjonskomiteen ikke har kommet med innsigelser innen fem virkedager etter at underretningen ble gitt,
+3. den berørte medlemsstat har underrettet Sanksjonskomiteen om at disse pengene eller formuesgodene ikke skal stilles til rådighet for eller være til fordel for noen av personene, enhetene eller organene oppført på lister som nevnt i vedlegg II eller III,
+4. den berørte medlemsstat har rådført seg på forhånd med de libyske myndigheter om bruken av disse pengene eller formuesgodene, og
+5. den berørte medlemsstat har informert de libyske myndigheter om de underretninger som er gitt i henhold til bokstav b) og c) i dette nummer, og de libyske myndigheter ikke har kommet med innsigelser mot at pengene eller formuesgodene frigis, innen fem virkedager.
+
+2\. Som unntak fra bestemmelsene i artikkel 5 nr. 4 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg IV, i tilfeller der de berørte personer, enheter eller organer skal betale beløp som er forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende personer, enheter eller organer har inngått eller pådratt seg før den dato da de ble listeført av FNs sikkerhetsråd eller Sanksjonskomiteen, gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder, forutsatt at
+
+1. den berørte kompetente myndighet har fastslått at betalingen verken er i strid med artikkel 5 nr. 2 eller går til eller er til fordel for personer, enheter eller organer som er omtalt i artikkel 5 nr. 4,
+2. Sanksjonskomiteen er blitt underrettet av den berørte medlemsstat om at denne har til hensikt å gi en slik tillatelse, ti virkedager før tillatelsen skal gis.
 
 ### Artikkel 9
 
-1\. Bestemmelsene i artikkel 5 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller andre former for avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 5 ble listeført av Sanksjonskomiteen, FNs sikkerhetsråd eller Rådet,beløp forfalt til betaling i henhold til en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett eller en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol, som nevnt i artikkel 8 nr. 1,beløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er fastsatt i EU, eller som er rettskraftig i vedkommende medlemsstat, som nevnt i artikkel 8 nr. 2,forutsatt at disse rentene, avkastningene og innbetalingene fryses i henhold til artikkel 5 nr. 1.
+1\. Bestemmelsene i artikkel 5 nr. 2 gjelder ikke beløp som tilføres frosne konti i form av
+
+1. renter eller andre former for avkastning på disse kontiene, eller
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 5 ble listeført av Sanksjonskomiteen, FNs sikkerhetsråd eller Rådet,
+3. beløp forfalt til betaling i henhold til en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett eller en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol, som nevnt i artikkel 8 nr. 1,
+4. beløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er fastsatt i EU, eller som er rettskraftig i vedkommende medlemsstat, som nevnt i artikkel 8 nr. 2,
+
+forutsatt at disse rentene, avkastningene og innbetalingene fryses i henhold til artikkel 5 nr. 1.
 
 2\. Bestemmelsene i artikkel 5 nr. 2 skal ikke hindre finans- eller kredittinstitusjoner i EU i å godskrive frosne konti når de får overført penger til konti som tilhører listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
 
 ### Artikkel 10
 
-Som unntak fra bestemmelsene i artikkel 5 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg IV, i tilfeller der personer, enheter eller organer oppført på liste som nevnt i vedlegg II eller III skal betale beløp som er forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende personer, enheter eller organer har inngått eller pådratt seg før datoen for listeføringen av dem, gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder, forutsatt atden berørte kompetente myndighet har fastslått atpengene eller formuesgodene skal anvendes til slik betaling av personer, enheter eller organer oppført på liste som nevnt i vedlegg II eller III, og atbetalingen ikke er i strid med artikkel 5 nr. 2,Sanksjonskomiteen er blitt underrettet av den berørte medlemsstat om at denne har til hensikt å gi en slik tillatelse, ti virkedager før tillatelsen skal gis, dersom tillatelsen gjelder en person eller enhet, eller et organ, som er listeført på liste som nevnt i vedlegg II,den berørte medlemsstat har underrettet de andre medlemsstatene og Kommisjonen om hva den har kommet fram til, og at den har til hensikt å gi tillatelse, minst to uker før tillatelsen skal gis, dersom tillatelsen gjelder en person eller enhet, eller et organ, som er listeført på liste som nevnt i vedlegg III.
+Som unntak fra bestemmelsene i artikkel 5 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg IV, i tilfeller der personer, enheter eller organer oppført på liste som nevnt i vedlegg II eller III skal betale beløp som er forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende personer, enheter eller organer har inngått eller pådratt seg før datoen for listeføringen av dem, gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder, forutsatt at
+
+1. den berørte kompetente myndighet har fastslått at
+
+   1. pengene eller formuesgodene skal anvendes til slik betaling av personer, enheter eller organer oppført på liste som nevnt i vedlegg II eller III, og at
+   2. betalingen ikke er i strid med artikkel 5 nr. 2,
+2. Sanksjonskomiteen er blitt underrettet av den berørte medlemsstat om at denne har til hensikt å gi en slik tillatelse, ti virkedager før tillatelsen skal gis, dersom tillatelsen gjelder en person eller enhet, eller et organ, som er listeført på liste som nevnt i vedlegg II,
+3. den berørte medlemsstat har underrettet de andre medlemsstatene og Kommisjonen om hva den har kommet fram til, og at den har til hensikt å gi tillatelse, minst to uker før tillatelsen skal gis, dersom tillatelsen gjelder en person eller enhet, eller et organ, som er listeført på liste som nevnt i vedlegg III.
 
 ### Artikkel 10a
 
@@ -198,7 +330,11 @@ Som unntak fra bestemmelsene i artikkel 5 nr. 2 kan medlemsstatenes kompetente m
 
 ### Artikkel 12
 
-1\. Ingen krav i forbindelse med kontrakter eller transaksjoner der gjennomføringen er påvirket direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller alle andre krav av denne typen, som kompensasjonskrav eller krav i henhold til en garanti, særlig krav om utvidelse eller betaling av en obligasjon, garanti eller motgaranti, spesielt en finansiell garanti eller motgaranti, uansett form, skal imøtekommes dersom de fremsettes avlisteførte personer, enheter eller organer oppført på lister nevnt i vedlegg II eller III,alle andre libyske personer, enheter eller organer, herunder Libyas regjering,alle personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene nevnt i bokstav a) eller b).
+1\. Ingen krav i forbindelse med kontrakter eller transaksjoner der gjennomføringen er påvirket direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller alle andre krav av denne typen, som kompensasjonskrav eller krav i henhold til en garanti, særlig krav om utvidelse eller betaling av en obligasjon, garanti eller motgaranti, spesielt en finansiell garanti eller motgaranti, uansett form, skal imøtekommes dersom de fremsettes av
+
+1. listeførte personer, enheter eller organer oppført på lister nevnt i vedlegg II eller III,
+2. alle andre libyske personer, enheter eller organer, herunder Libyas regjering,
+3. alle personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene nevnt i bokstav a) eller b).
 
 2\. Ved en eventuell rettssak om tvangsfullbyrdelse av krav skal personen som søker å få tvangsfullbyrdet kravet, bære bevisbyrden for at kravet ikke er forbudt i henhold til nr. 1.
 
@@ -206,7 +342,10 @@ Som unntak fra bestemmelsene i artikkel 5 nr. 2 kan medlemsstatenes kompetente m
 
 ### Artikkel 13
 
-1\. Med forbehold for gjeldende regler om rapportering, konfidensialitet og taushetsplikt skal fysiske og juridiske personer, enheter og organeromgående formidle enhver opplysning som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 5, til den kompetente myndighet i medlemsstaten der de er bosatt eller befinner seg, som angitt på nettsidene oppført i vedlegg IV, og oversende opplysningene, direkte eller gjennom medlemsstatene, til Kommisjonen, ogsamarbeide med denne kompetente myndighet om verifiseringen av opplysningene.
+1\. Med forbehold for gjeldende regler om rapportering, konfidensialitet og taushetsplikt skal fysiske og juridiske personer, enheter og organer
+
+1. omgående formidle enhver opplysning som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 5, til den kompetente myndighet i medlemsstaten der de er bosatt eller befinner seg, som angitt på nettsidene oppført i vedlegg IV, og oversende opplysningene, direkte eller gjennom medlemsstatene, til Kommisjonen, og
+2. samarbeide med denne kompetente myndighet om verifiseringen av opplysningene.
 
 2\. Enhver opplysning som gis eller mottas i henhold til denne artikkel, skal bare brukes til det formål den gis eller mottas for.
 
@@ -256,7 +395,13 @@ Der denne forordning inneholder et pålegg om å underrette, informere eller på
 
 ### Artikkel 19
 
-Denne forordning får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle fartøyer og luftfartøyer som er underlagt en medlemsstats jurisdiksjon,for alle personer som er statsborgere i en medlemsstat, om de befinner seg innenfor eller utenfor EUs territorium,for alle juridiske personer, enheter og organer som er konstituert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter og organer med hensyn til all forretningsvirksomhet som helt eller delvis finner sted i EU.
+Denne forordning får anvendelse
+
+1. på EUs territorium, herunder i EUs luftrom,
+2. om bord i alle fartøyer og luftfartøyer som er underlagt en medlemsstats jurisdiksjon,
+3. for alle personer som er statsborgere i en medlemsstat, om de befinner seg innenfor eller utenfor EUs territorium,
+4. for alle juridiske personer, enheter og organer som er konstituert eller stiftet i henhold til en medlemsstats lovgivning,
+5. for alle juridiske personer, enheter og organer med hensyn til all forretningsvirksomhet som helt eller delvis finner sted i EU.
 
 ### Artikkel 20
 
@@ -317,7 +462,9 @@ Vehicles specially designed to deploy mobile barriers;
 
 3.6
 
-Components for the vehicles specified in items 3.1 to 3.5 specially designed for the purposes of riot control.Note 1: This item does not control vehicles specially designed for the purposes of fire-fighting.
+Components for the vehicles specified in items 3.1 to 3.5 specially designed for the purposes of riot control.
+
+Note 1: This item does not control vehicles specially designed for the purposes of fire-fighting.
 Note 2: For the purposes of item 3.5 the term ‘vehicles' includes trailers.
 
 4\.
@@ -334,7 +481,14 @@ Linear cutting explosive charges not controlled by the Common Military List;
 
 4.3
 
-Other explosives not controlled by the Common Military List and related substances as follows:amatol;nitrocellulose (containing more than 12,5 % nitrogen);nitroglycol;pentaerythritol tetranitrate (PETN);picryl chloride;2,4,6-trinitrotoluene (TNT).
+Other explosives not controlled by the Common Military List and related substances as follows:
+
+1. amatol;
+2. nitrocellulose (containing more than 12,5 % nitrogen);
+3. nitroglycol;
+4. pentaerythritol tetranitrate (PETN);
+5. picryl chloride;
+6. 2,4,6-trinitrotoluene (TNT).
 
 5\.
 
@@ -346,7 +500,12 @@ Body armour providing ballistic and/or stabbing protection;
 
 5.2
 
-Helmets providing ballistic and/or fragmentation protection, anti-riot helmets, antiriot shields and ballistic shields.Note: This item does not control:equipment specially designed for sports activities;equipment specially designed for safety of work requirements.
+Helmets providing ballistic and/or fragmentation protection, anti-riot helmets, antiriot shields and ballistic shields.
+
+Note: This item does not control:
+
+- equipment specially designed for sports activities;
+- equipment specially designed for safety of work requirements.
 
 6\.
 

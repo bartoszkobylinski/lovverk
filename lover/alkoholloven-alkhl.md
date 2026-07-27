@@ -42,7 +42,13 @@ Departementet kan gi forskrifter om lovens anvendelse på Svalbard, Jan Mayen og
 
 I denne lov brukes alkoholholdig drikk som fellesbetegnelse på drikker som inneholder mer enn 2,5 volumprosent alkohol, likevel slik at aldersgrensebestemmelsen i [§ 1-5](lov/1989-06-02-27/§1-5) også får anvendelse på drikk mellom 0,7 og 2,5 volumprosent alkohol.
 
-I denne loven betyr:alkoholfri drikk: drikk som inneholder under 0,7 volumprosent alkoholalkoholsvak drikk: drikk som inneholder fra og med 0,7 til og med 2,5 volumprosent alkoholalkoholholdig drikk gruppe 1: drikk som inneholder over 2,5 og høyst 4,7 volumprosent alkoholalkoholholdig drikk gruppe 2: drikk som inneholder over 4,7 og mindre enn 22 volumprosent alkoholalkoholholdig drikk gruppe 3: drikk som inneholder fra og med 22 til og med 60 volumprosent alkohol
+I denne loven betyr:
+
+- alkoholfri drikk: drikk som inneholder under 0,7 volumprosent alkohol
+- alkoholsvak drikk: drikk som inneholder fra og med 0,7 til og med 2,5 volumprosent alkohol
+- alkoholholdig drikk gruppe 1: drikk som inneholder over 2,5 og høyst 4,7 volumprosent alkohol
+- alkoholholdig drikk gruppe 2: drikk som inneholder over 4,7 og mindre enn 22 volumprosent alkohol
+- alkoholholdig drikk gruppe 3: drikk som inneholder fra og med 22 til og med 60 volumprosent alkohol
 
 Med brennevin forstås drikk som inneholder tilvirket alkohol ublandet eller i blanding med andre produkter. Enhver drikk som inneholder 22 volumprosent alkohol eller mer, regnes som brennevin.
 
@@ -148,7 +154,11 @@ Bevillingshaver og personer som har vesentlig innflytelse på virksomheten, må 
 
 Person som eier en vesentlig del av virksomheten eller av et selskap som driver virksomheten, som oppebærer en vesentlig del av dens avkastning eller som i kraft av sin stilling som leder har vesentlig innflytelse på den, vil alltid anses å ha vesentlig innflytelse på virksomheten.
 
-I vurderingen av om en person har vesentlig innflytelse på virksomheten, kan det også tas hensyn til personens nærståendes innflytelse på virksomheten. Med nærstående menesektefelle eller person som vedkommende bor sammen med i ekteskapslignende forholdslektninger i rett oppstigende eller nedstigende linje, samt søskenektefelle til eller person som bor sammen med person som nevnt i nummer 2 i ekteskapslignende forhold
+I vurderingen av om en person har vesentlig innflytelse på virksomheten, kan det også tas hensyn til personens nærståendes innflytelse på virksomheten. Med nærstående menes
+
+1. ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold
+2. slektninger i rett oppstigende eller nedstigende linje, samt søsken
+3. ektefelle til eller person som bor sammen med person som nevnt i nummer 2 i ekteskapslignende forhold
 
 Ved vurderingen av bevillingshavers og andre personers vandel etter første ledd kan det ikke tas hensyn til forhold som er eldre enn 10 år.
 
@@ -192,7 +202,10 @@ Bevilling etter [§ 4-2](lov/1989-06-02-27/§4-2) tredje ledd kan bare gis hvis 
 
 Bevilling etter [§ 3-1b](lov/1989-06-02-27/§3-1b) kan bare gis hvis tilvirkningen skal skje ved salgsstedet, og tilvirkningen og salget vil utgjøre en del av stedets helhetlige karakter og salgstilbud.
 
-Bevilling etter [§ 3-1b](lov/1989-06-02-27/§3-1b) første ledd annet punktum og annet ledd og bevilling etter [§ 3-1c](lov/1989-06-02-27/§3-1c) første ledd annet punktum for alkoholholdig drikk gruppe 2 kan bare gis for inntil 15 000 liter per år og på følgende vilkår:Den alkoholholdige drikken må være omfattet av produktlisten i kommentar til posisjon 22.06 i Tolltariffen og kan ikke være tilsatt brennevin eller blandet med alkoholholdige produkter utenfor produktlisten i kommentar til posisjon 22.06 i Tolltariffen.Minst en tredjedel av innsatsvarer som gir produktet dets karakter, må være egenprodusert.
+Bevilling etter [§ 3-1b](lov/1989-06-02-27/§3-1b) første ledd annet punktum og annet ledd og bevilling etter [§ 3-1c](lov/1989-06-02-27/§3-1c) første ledd annet punktum for alkoholholdig drikk gruppe 2 kan bare gis for inntil 15 000 liter per år og på følgende vilkår:
+
+1. Den alkoholholdige drikken må være omfattet av produktlisten i kommentar til posisjon 22.06 i Tolltariffen og kan ikke være tilsatt brennevin eller blandet med alkoholholdige produkter utenfor produktlisten i kommentar til posisjon 22.06 i Tolltariffen.
+2. Minst en tredjedel av innsatsvarer som gir produktet dets karakter, må være egenprodusert.
 
 > Tilføyd ved [lov 17 juni 2016 nr. 51](lov/2016-06-17-51) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 708](forskrift/2016-06-17-708)), endret ved [lov 23 juni 2020 nr. 111](lov/2020-06-23-111) (ikr. 1 sep 2020 iflg. [res. 23 juni 2020 nr. 1297](forskrift/2020-06-23-1297)).
 
@@ -390,7 +403,11 @@ Tilvirkning på grunnlag av utvidet bevilling etter første ledd kan ikke skje i
 
 ### § 3-1c. Salgsbevilling for samme lokale som er gitt skjenkebevilling
 
-Det kan gis kommunal salgsbevilling for egenprodusert alkoholholdig drikk gruppe 1 for samme lokale som er gitt skjenkebevilling dersombevillingshaver har rett til tilvirkning,bevillingen skal utøves ved bevillingshavers tilvirkningssted, ogbevillingen skal gjelde for et mindre lokale hvor det ikke er praktisk gjennomførbart med separate lokaler for salg og skjenking.
+Det kan gis kommunal salgsbevilling for egenprodusert alkoholholdig drikk gruppe 1 for samme lokale som er gitt skjenkebevilling dersom
+
+1. bevillingshaver har rett til tilvirkning,
+2. bevillingen skal utøves ved bevillingshavers tilvirkningssted, og
+3. bevillingen skal gjelde for et mindre lokale hvor det ikke er praktisk gjennomførbart med separate lokaler for salg og skjenking.
 
 Dersom kravene i [§ 1-7f](lov/1989-06-02-27/§1-7f) annet ledd er oppfylt, kan bevillingen omfatte salg av egenprodusert alkoholholdig drikk gruppe 2.
 
@@ -550,7 +567,11 @@ Departementet kan gi forskrifter som utfyller og presiserer innholdet i plikten 
 
 ### § 5-2. Skjenkebevilling på tog, fly og skip
 
-Departementet kan etter å ha innhentet nødvendige uttalelser gibevilling til å skjenke alkoholholdig drikk gruppe 1 og 2 på tog som er kollektive transportmidlerbevilling til å skjenke alkoholholdig drikk gruppe 1 og 2 om bord i fly på innenlandske flyvningerbevilling til å skjenke alkoholholdig drikk om bord i skip som er kollektive transportmidler, og om bord i cruiseskip på turer av flere dagers varighet.
+Departementet kan etter å ha innhentet nødvendige uttalelser gi
+
+1. bevilling til å skjenke alkoholholdig drikk gruppe 1 og 2 på tog som er kollektive transportmidler
+2. bevilling til å skjenke alkoholholdig drikk gruppe 1 og 2 om bord i fly på innenlandske flyvninger
+3. bevilling til å skjenke alkoholholdig drikk om bord i skip som er kollektive transportmidler, og om bord i cruiseskip på turer av flere dagers varighet.
 
 Bevilling etter første ledd nr. 3 gir bare rett til å skjenke alkoholholdig drikk til passasjerene og, med førerens samtykke, til mannskapet og andre som følger skipet.
 
@@ -592,7 +613,12 @@ Tilvirkningsanlegget skal være innrettet på tilfredsstillende måte. Departeme
 
 ### § 6-2. Vilkår for tildeling av tilvirkningsbevilling
 
-Tilvirkningsbevilling gis dersom følgende vilkår er oppfylt:Bevillingshaver, og person som eier en vesentlig del av virksomheten eller av selskap som driver virksomheten eller oppebærer en vesentlig del av dens inntekter eller i kraft av sin stilling som leder har vesentlig innflytelse på den, har utvist uklanderlig vandel i forhold til lovgivning av betydning for hvordan virksomheten skal utøves, herunder alkohollovgivningen, tollovgivningen, skatte- og avgiftslovgivningen, regnskaps- og selskapslovgivningen og næringsmiddellovgivningen.Det er stilt tilfredsstillende sikkerhet for oppfyllelse av krav på alkoholavgift.Varelageret er tilfredsstillende sikret.Bevillingshaver ikke driver annen virksomhet som er uforenlig med tilvirkning av alkoholholdig drikk.
+Tilvirkningsbevilling gis dersom følgende vilkår er oppfylt:
+
+1. Bevillingshaver, og person som eier en vesentlig del av virksomheten eller av selskap som driver virksomheten eller oppebærer en vesentlig del av dens inntekter eller i kraft av sin stilling som leder har vesentlig innflytelse på den, har utvist uklanderlig vandel i forhold til lovgivning av betydning for hvordan virksomheten skal utøves, herunder alkohollovgivningen, tollovgivningen, skatte- og avgiftslovgivningen, regnskaps- og selskapslovgivningen og næringsmiddellovgivningen.
+2. Det er stilt tilfredsstillende sikkerhet for oppfyllelse av krav på alkoholavgift.
+3. Varelageret er tilfredsstillende sikret.
+4. Bevillingshaver ikke driver annen virksomhet som er uforenlig med tilvirkning av alkoholholdig drikk.
 
 Departementet kan gi forskrifter til utfylling av denne paragrafen.
 
@@ -706,7 +732,11 @@ Det er forbudt å kjøpe brennevin som er ulovlig tilvirket eller omdestillert.
 
 ### § 8-3. Forbud mot tilvirking, oppbevaring og omsetning av gjærende eller gjæret udestillert væske.
 
-Det er forbudt å tilvirke eller overdra eller ha i sin besittelse en gjærende eller gjæret udestillert væske, med mindre det må antasat væsken er bestemt til framstilling av eller er vare som ikke er brennevinat væsken er bestemt til framstilling av brennevin som lovlig kan tilvirkes, ellerat væsken er bestemt til framstilling av eller er vare som ikke inneholder over 2,50 volumprosent alkohol.
+Det er forbudt å tilvirke eller overdra eller ha i sin besittelse en gjærende eller gjæret udestillert væske, med mindre det må antas
+
+1. at væsken er bestemt til framstilling av eller er vare som ikke er brennevin
+2. at væsken er bestemt til framstilling av brennevin som lovlig kan tilvirkes, eller
+3. at væsken er bestemt til framstilling av eller er vare som ikke inneholder over 2,50 volumprosent alkohol.
 
 Overdragelse mot vederlag av væske som nevnt, er forbudt selv om den er bestemt til framstilling av alkoholholdig drikk som nevnt under nr. 1.
 
@@ -752,7 +782,14 @@ Det er forbudt å kjøpe alkoholholdig drikk gruppe 3 på vegne av noen som er u
 
 ### § 8-9. Serverings- og drikkeforbud
 
-Det er forbudt å drikke eller servere alkohol med mindre det foreligger bevilling til dette, og selv om dette skjer uten vederlag:i lokaler med tilleggelser hvor det drives serveringsvirksomhet,i lokaler som vanligvis er alment tilgjengelig for offentligheten,i forsamlingslokaler eller andre felleslokaler,på annet sted der offentlige møter, fester, utstillinger eller andre tilstelninger finner sted,på gate, torg, vei, i park eller på annen offentlig plass,på skip, fly, tog, buss eller annet innenriks transportmiddel for almenheten.
+Det er forbudt å drikke eller servere alkohol med mindre det foreligger bevilling til dette, og selv om dette skjer uten vederlag:
+
+1. i lokaler med tilleggelser hvor det drives serveringsvirksomhet,
+2. i lokaler som vanligvis er alment tilgjengelig for offentligheten,
+3. i forsamlingslokaler eller andre felleslokaler,
+4. på annet sted der offentlige møter, fester, utstillinger eller andre tilstelninger finner sted,
+5. på gate, torg, vei, i park eller på annen offentlig plass,
+6. på skip, fly, tog, buss eller annet innenriks transportmiddel for almenheten.
 
 På steder som nevnt i første ledd, må heller ikke eier eller annen ansvarlig oppbevare, servere eller tillate servering eller drikking av alkohol.
 
@@ -820,7 +857,12 @@ Finner Helsedirektoratet at reklameforbudet er overtrådt, kan det pålegge rett
 
 Samtidig med at pålegg om retting gis, kan tvangsmulkt fastsettes. Mulkten løper fra oversittelse av fristen for retting, og kan fastsettes i form av engangsmulkt eller dagmulkt. Mulkten tilfaller staten.
 
-Dersom en overtredelse av bestemmelser som Helsedirektoratet fører tilsyn med etter [§ 9-3](lov/1989-06-02-27/§9-3), medfører en risiko for alvorlig skade på forbrukernes interesser, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan retten etter begjæring fra Helsedirektoratet og etter reglene i [markedsføringsloven §§ 43 a](lov/2009-01-09-2/§43a) til [43 c](lov/2009-01-09-2/§43c) påleggeen vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Helsedirektoratet.
+Dersom en overtredelse av bestemmelser som Helsedirektoratet fører tilsyn med etter [§ 9-3](lov/1989-06-02-27/§9-3), medfører en risiko for alvorlig skade på forbrukernes interesser, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan retten etter begjæring fra Helsedirektoratet og etter reglene i [markedsføringsloven §§ 43 a](lov/2009-01-09-2/§43a) til [43 c](lov/2009-01-09-2/§43c) pålegge
+
+1. en vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,
+2. en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,
+3. en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,
+4. en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Helsedirektoratet.
 
 Ved vurderingen av om pålegg etter tredje ledd skal gis, skal det blant annet tas hensyn til informasjons- og ytringsfriheten, forbrukernes interesser, saksøktes interesser samt mulighetene for mindre inngripende tiltak.
 
@@ -882,7 +924,11 @@ Alkoholholdig drikk som antas å ha vært gjenstand for eller antas bestemt for 
 
 ### § 10-5. Overtredelsesgebyr
 
-Helsedirektoratet kan ilegge overtredelsesgebyr overfor virksomheter som forsettlig eller uaktsomt overtrerkravet om registrering i [§ 2-4](lov/1989-06-02-27/§2-4) eller kravene i [§§ 1-5](lov/1989-06-02-27/§1-5), [2-5](lov/1989-06-02-27/§2-5) og [8-11](lov/1989-06-02-27/§8-11) ved utlevering av alkoholholdig drikk ved privat innførsel,kravene til bevillingshaver i [§§ 6-6](lov/1989-06-02-27/§6-6), [6-7](lov/1989-06-02-27/§6-7) og [6-8](lov/1989-06-02-27/§6-8) ellerreklameforbudet i [§§ 9-1](lov/1989-06-02-27/§9-1) og [9-2](lov/1989-06-02-27/§9-2).
+Helsedirektoratet kan ilegge overtredelsesgebyr overfor virksomheter som forsettlig eller uaktsomt overtrer
+
+1. kravet om registrering i [§ 2-4](lov/1989-06-02-27/§2-4) eller kravene i [§§ 1-5](lov/1989-06-02-27/§1-5), [2-5](lov/1989-06-02-27/§2-5) og [8-11](lov/1989-06-02-27/§8-11) ved utlevering av alkoholholdig drikk ved privat innførsel,
+2. kravene til bevillingshaver i [§§ 6-6](lov/1989-06-02-27/§6-6), [6-7](lov/1989-06-02-27/§6-7) og [6-8](lov/1989-06-02-27/§6-8) eller
+3. reklameforbudet i [§§ 9-1](lov/1989-06-02-27/§9-1) og [9-2](lov/1989-06-02-27/§9-2).
 
 Det samme gjelder ved overtredelse av forskrifter gitt i medhold av disse bestemmelsene og forskrifter som skal overholdes i medhold av disse bestemmelsene, dersom det er fastsatt i forskrift at overtredelse kan medføre slik sanksjon.
 

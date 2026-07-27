@@ -24,13 +24,28 @@ eu_basis: []
 
 ## § 1. Rett til nødvendig helsehjelp fra spesialisthelsetjenesten
 
-Pasienten har rett til nødvendig helsehjelp fra spesialisthelsetjenesten etter [pasient- og brukerrettighetsloven § 2-2 andre ledd](lov/1999-07-02-63/§2-2/ledd/2), når:pasienten kan ha forventet nytte av helsehjelpen ogden forventede ressursbruken står i et rimelig forhold til den forventede nytten av helsehjelpen.
+Pasienten har rett til nødvendig helsehjelp fra spesialisthelsetjenesten etter [pasient- og brukerrettighetsloven § 2-2 andre ledd](lov/1999-07-02-63/§2-2/ledd/2), når:
+
+1. pasienten kan ha forventet nytte av helsehjelpen og
+2. den forventede ressursbruken står i et rimelig forhold til den forventede nytten av helsehjelpen.
 
 > Opphevet ved [forskrift 16 des 2011 nr. 1255](forskrift/2011-12-16-1255) (i kraft 1 jan 2012), tilføyd ved forskrift [23 mai 2024 nr. 813](forskrift/2024-05-23-813) (i kraft 1 juni 2024).
 
 ## § 2. Prioritering av pasienter med rett til nødvendig helsehjelp fra spesialisthelsetjenesten
 
-Spesialisthelsetjenesten skal prioritere pasienter med rett til nødvendig helsehjelp fra spesialisthelsetjenesten ut fra følgende kriterier:Et tiltaks prioritet øker i tråd med den forventede nytten av tiltaket. Den forventede nytten av et tiltak vurderes ut fra om kunnskapsbasert praksis tilsier at tiltaket kan øke pasientens livslengde og/eller livskvalitet gjennom å gi økt sannsynlighet for:overlevelseforbedring eller redusert tap av mestring og/eller fysisk eller psykisk funksjonreduksjon av smerter, fysisk eller psykisk ubehagEt tiltaks prioritet øker desto mindre ressurser det legger beslag på.Et tiltaks prioritet øker i tråd med alvorligheten av tilstanden. En tilstands alvorlighet vurderes ut fra:risiko for død eller tap av mestring og/eller funksjongraden av tap av mestring og/eller fysisk eller psykisk funksjonsmerter, fysisk eller psykisk ubehag
+Spesialisthelsetjenesten skal prioritere pasienter med rett til nødvendig helsehjelp fra spesialisthelsetjenesten ut fra følgende kriterier:
+
+1. Et tiltaks prioritet øker i tråd med den forventede nytten av tiltaket. Den forventede nytten av et tiltak vurderes ut fra om kunnskapsbasert praksis tilsier at tiltaket kan øke pasientens livslengde og/eller livskvalitet gjennom å gi økt sannsynlighet for:
+
+   - overlevelse
+   - forbedring eller redusert tap av mestring og/eller fysisk eller psykisk funksjon
+   - reduksjon av smerter, fysisk eller psykisk ubehag
+2. Et tiltaks prioritet øker desto mindre ressurser det legger beslag på.
+3. Et tiltaks prioritet øker i tråd med alvorligheten av tilstanden. En tilstands alvorlighet vurderes ut fra:
+
+   - risiko for død eller tap av mestring og/eller funksjon
+   - graden av tap av mestring og/eller fysisk eller psykisk funksjon
+   - smerter, fysisk eller psykisk ubehag
 
 Både nå-situasjonen, varighet og tap av fremtidige leveår har betydning for graden av alvorlighet. Graden av alvorlighet øker jo mer det haster å komme i gang med tiltaket.
 
@@ -46,7 +61,13 @@ En pasient som har rett til nødvendig helsehjelp, men som ikke kan få helsehje
 
 I spesielle tilfeller kan enkeltpasienter med sjeldne sykdomstilfeller få eksperimentell eller utprøvende behandling i utlandet selv om vilkårene i [§ 2](forskrift/2000-12-01-1208/§2) ikke er oppfylt.
 
-I denne paragrafen menes med:*eksperimentell behandling:* udokumentert behandling som ikke er ledd i kontrollerte undersøkelser, og hvor virkning, risiko og bivirkninger er ukjent eller ufullstendig klarlagt.*utprøvende behandling:* behandling som utprøves som ledd i en vitenskapelig studie, men der kravene til fullverdig dokumentasjon i forhold til etablert behandling ennå ikke er tilfredsstillende.*sjeldne sykdomstilstander:* sykdommer eller sykdomstilstander som forekommer så sjelden og/eller er så spesielle, at det ikke er bygget opp noe nasjonal kompetanse.
+I denne paragrafen menes med:
+
+*eksperimentell behandling:* udokumentert behandling som ikke er ledd i kontrollerte undersøkelser, og hvor virkning, risiko og bivirkninger er ukjent eller ufullstendig klarlagt.
+
+*utprøvende behandling:* behandling som utprøves som ledd i en vitenskapelig studie, men der kravene til fullverdig dokumentasjon i forhold til etablert behandling ennå ikke er tilfredsstillende.
+
+*sjeldne sykdomstilstander:* sykdommer eller sykdomstilstander som forekommer så sjelden og/eller er så spesielle, at det ikke er bygget opp noe nasjonal kompetanse.
 
 Manglende kapasitet i spesialisthelsetjenesten gir ikke rett til behandling i utlandet etter denne bestemmelsen. Rett til behandling omfatter ikke forsendelse av laboratorieprøver for analyse ved utenlandsk tjenesteyter uten som ledd i behandling i utlandet.
 
@@ -68,7 +89,12 @@ Tidsfristen for når helsehjelpen senest skal være påbegynt som nevnt i [§ 4 
 
 Den som har foretatt vurderingen av om pasienten har rett til nødvendig helsehjelp fra spesialisthelsetjenesten, eventuelt om pasienten har rett til helsehjelp i utlandet etter [§ 3](forskrift/2000-12-01-1208/§3), skal skriftlig informere pasienten om resultatet av vurderingene. Det skal også gis informasjon om retten til en ny vurdering etter [pasient- og brukerrettighetsloven § 2-3](lov/1999-07-02-63/§2-3).
 
-Innen 10 virkedager etter at spesialisthelsetjenesten har mottatt henvisningen, har pasienten rett til å få informasjon fra spesialisthelsetjenesten om:Vurderingen av retten til nødvendig helsehjelpdet fastsatte tidspunktet for oppstart av helsehjelpen og informasjon om oppmøtestedden fastsatte tidsfristen for når helsehjelpen senest skal være påbegyntklageadgangen, klagefristen og den nærmere fremgangsmåten ved klage.
+Innen 10 virkedager etter at spesialisthelsetjenesten har mottatt henvisningen, har pasienten rett til å få informasjon fra spesialisthelsetjenesten om:
+
+1. Vurderingen av retten til nødvendig helsehjelp
+2. det fastsatte tidspunktet for oppstart av helsehjelpen og informasjon om oppmøtested
+3. den fastsatte tidsfristen for når helsehjelpen senest skal være påbegynt
+4. klageadgangen, klagefristen og den nærmere fremgangsmåten ved klage.
 
 Dersom pasienten har rett til nødvendig helsehjelp skal pasienten også få informasjon om at spesialisthelsetjenesten skal kontakte HELFO ved fristbrudd eller forventet fristbrudd, jf. [§ 6](forskrift/2000-12-01-1208/§6), og at HELFO i så fall vil kontakte pasienten.
 
@@ -170,7 +196,11 @@ Dersom nasjonalt system for innføring av nye metoder i spesialisthelsetjenesten
 
 Hovedregelen om at eksperimentell og utprøvende behandling faller utenfor videreføres. Enkeltpersoner innen sykdomsgrupper som er så sjeldne, og/eller så vanskelige og ressurskrevende, at det ikke er bygget opp nasjonal kompetanse, kan unntaksvis få eksperimentell behandling i utlandet. Det legges vekt på hvorvidt det er, eller har vært, praktisk mulig eller ønskelig å gjennomføre kontrollerte studier innen en rimelig tidshorisont. Det presiseres at en pasient kun unntaksvis og i spesielle tilfeller vil kunne få slik behandling i utlandet. Det kreves at pasienten har en mer alvorlig tilstand når det gjelder eksperimentell behandling enn utprøvende behandling. Dette skyldes at det er bedre dokumentasjon for utprøvende behandling enn eksperimentell behandling. Ved vurderingen kan kostnadshensyn tillegges vekt.
 
-Til de enkelte definisjonene:Ved eksperimentell behandling er avstanden til tilstrekkelig dokumentasjon relativt stor, og man krever som regel dyreforsøk i første omgang for å avgjøre om man skal gå videre med kliniske forsøk. Samfunnet har ansvar for å tilby etablerte og dokumenterte helsetjenester til befolkningen, og alle andre tjenester bør i første omgang gjøres til gjenstand for forskning på grunnlag av godkjente forskningsprotokoller, normalt som klinisk kontrollerte studier. Dette hensynet gjelder både innenlands og utenlands. Undersøkelsene ved eksperimentell behandling legger spesielt vekt på å avklare bivirkninger, maksimal tolerabel dose og behandlingseffekt. I forbindelse med medikamentell utprøving gjelder dette vanligvis fase I- eller fase II-studier.Ved utprøvende behandling ytes samme behandling som ved eksperimentell behandling, men den utføres som ledd i en vitenskapelig kontrollert studie av en lovende behandlingsmetode. I forbindelse med utprøvende medikamentell behandling gjelder dette vanligvis en fase III-studie.Sjeldne sykdomstilstander omfatter sykdommer som er for sjeldne eller spesielle til at det er ansett hensiktsmessig å bygge opp kompetanse, eller sette i gang forsøksstudier, i Norge. Hvor vanskelig og ressurskrevende tilstanden er, skal tillegges vekt. Det bør tas hensyn til hvorvidt det er praktisk mulig å gjennomføre kontrollerte studier innen en rimelig tidshorisont i Norge. Sykdomstilstanden skal vurderes snevert i den forstand at man ikke skal operere med store og generelle sykdomsgrupper, slik som for eksempel kreftsykdommer eller nevrologiske sykdommer.
+Til de enkelte definisjonene:
+
+1. Ved eksperimentell behandling er avstanden til tilstrekkelig dokumentasjon relativt stor, og man krever som regel dyreforsøk i første omgang for å avgjøre om man skal gå videre med kliniske forsøk. Samfunnet har ansvar for å tilby etablerte og dokumenterte helsetjenester til befolkningen, og alle andre tjenester bør i første omgang gjøres til gjenstand for forskning på grunnlag av godkjente forskningsprotokoller, normalt som klinisk kontrollerte studier. Dette hensynet gjelder både innenlands og utenlands. Undersøkelsene ved eksperimentell behandling legger spesielt vekt på å avklare bivirkninger, maksimal tolerabel dose og behandlingseffekt. I forbindelse med medikamentell utprøving gjelder dette vanligvis fase I- eller fase II-studier.
+2. Ved utprøvende behandling ytes samme behandling som ved eksperimentell behandling, men den utføres som ledd i en vitenskapelig kontrollert studie av en lovende behandlingsmetode. I forbindelse med utprøvende medikamentell behandling gjelder dette vanligvis en fase III-studie.
+3. Sjeldne sykdomstilstander omfatter sykdommer som er for sjeldne eller spesielle til at det er ansett hensiktsmessig å bygge opp kompetanse, eller sette i gang forsøksstudier, i Norge. Hvor vanskelig og ressurskrevende tilstanden er, skal tillegges vekt. Det bør tas hensyn til hvorvidt det er praktisk mulig å gjennomføre kontrollerte studier innen en rimelig tidshorisont i Norge. Sykdomstilstanden skal vurderes snevert i den forstand at man ikke skal operere med store og generelle sykdomsgrupper, slik som for eksempel kreftsykdommer eller nevrologiske sykdommer.
 
 I de tilfeller det foreligger et tilbud om adekvat helsehjelp i Norge, men pasienten ikke mottar helsehjelpen pga. manglende kapasitet i spesialisthelsetjenesten, vil pasienten ikke ha rett til helsehjelp etter [prioriteringsforskriften § 3](forskrift/2000-12-01-1208/§3). Dette er presisert i bestemmelsens siste ledd.
 

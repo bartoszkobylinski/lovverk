@@ -15,7 +15,7 @@ xml_hash: "90b99c95b5b08ad212bd886a3d585f7f9b6b3ba40820618206205d48ea97835a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,10 @@ Forskrift etter første ledd og enkeltvedtak etter andre ledd skal fastsettes in
 
 ### § 2. Telling av barn i kommunale barnehager
 
-Kommunen skal beregne antall heltidsplasser i kommunale barnehager. Kommunen skal gjøre dette på én av følgende måter:De kommunale barnehagenes årsmelding fra året før regnskapsåret og årsmeldingen fra regnskapsåret legges til grunn ved beregningen av heltidsplasser. Årsmeldingen fra året før regnskapsåret vektes med 7/12 og årsmeldingen fra regnskapsåret vektes med 5/12, eller,Kommunen kan beregne heltidsplasser ved bruk av egne tellinger av barn i kommunale barnehager. Kommunens tellinger i regnskapsårets sju første måneder viser antallet heltidsplasser i denne perioden. Kommunens tellinger i regnskapsårets fem siste måneder viser antallet heltidsplasser i denne perioden. Barn som fyller tre år i regnskapsåret, regnes som under tre år i årets sju første måneder og over tre år i årets fem siste måneder.
+Kommunen skal beregne antall heltidsplasser i kommunale barnehager. Kommunen skal gjøre dette på én av følgende måter:
+
+- De kommunale barnehagenes årsmelding fra året før regnskapsåret og årsmeldingen fra regnskapsåret legges til grunn ved beregningen av heltidsplasser. Årsmeldingen fra året før regnskapsåret vektes med 7/12 og årsmeldingen fra regnskapsåret vektes med 5/12, eller,
+- Kommunen kan beregne heltidsplasser ved bruk av egne tellinger av barn i kommunale barnehager. Kommunens tellinger i regnskapsårets sju første måneder viser antallet heltidsplasser i denne perioden. Kommunens tellinger i regnskapsårets fem siste måneder viser antallet heltidsplasser i denne perioden. Barn som fyller tre år i regnskapsåret, regnes som under tre år i årets sju første måneder og over tre år i årets fem siste måneder.
 
 ### § 3. Enkeltvedtak om kommunalt tilskudd
 

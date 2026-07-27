@@ -75,9 +75,20 @@ Statskog SF kan tilby opplæring rettet mot kvinner, ungdom, førstegangsjegere 
 
 ### § 9. Korttyper ved salg av småviltjakt og fiske
 
-For småviltjakt og fiske skal følgende korttyper være tilgjengelig:Dagskort/døgnkort5-dagerskort eller ukekort (7 dager) for småvilt og ukekort for innlandsfiskeSesongkort for eiendommer over 7000 dekar.
+For småviltjakt og fiske skal følgende korttyper være tilgjengelig:
 
-Statskog SF kan dessuten tilby:Det alternativ som Statskog SF under pkt. 2 ovenfor velger ikke å innføre som obligatorisk korttype.Familiekort for fiske (ektepar, samboerpar og enslige) m/barn under 20 år.2- og 3-dagers/døgnkort.Særskilte kortordninger for ungdom mellom 16 og 20 år, personer over 67 år og for grupper på kortere turer hvor jakt og fiske ikke er det primære formålet (ekskursjoner, skoleklasser på tur).Gratis jakt for personer som etter [forskrift 22. mars 2002 nr. 313](forskrift/2002-03-22-313) om utøvelse av jakt, felling og fangst [§ 6](forskrift/2002-03-22-313/§6) (opplæringsjakt) helt eller delvis skal slippe å betale for jaktkortet.Smårovviltkort (jaktbart rovvilt som ikke er storvilt jf. [forskrift 22. mars 2002 nr. 313](forskrift/2002-03-22-313) om utøvelse av jakt, felling og fangst [§ 3](forskrift/2002-03-22-313/§3)).
+1. Dagskort/døgnkort
+2. 5-dagerskort eller ukekort (7 dager) for småvilt og ukekort for innlandsfiske
+3. Sesongkort for eiendommer over 7000 dekar.
+
+Statskog SF kan dessuten tilby:
+
+1. Det alternativ som Statskog SF under pkt. 2 ovenfor velger ikke å innføre som obligatorisk korttype.
+2. Familiekort for fiske (ektepar, samboerpar og enslige) m/barn under 20 år.
+3. 2- og 3-dagers/døgnkort.
+4. Særskilte kortordninger for ungdom mellom 16 og 20 år, personer over 67 år og for grupper på kortere turer hvor jakt og fiske ikke er det primære formålet (ekskursjoner, skoleklasser på tur).
+5. Gratis jakt for personer som etter [forskrift 22. mars 2002 nr. 313](forskrift/2002-03-22-313) om utøvelse av jakt, felling og fangst [§ 6](forskrift/2002-03-22-313/§6) (opplæringsjakt) helt eller delvis skal slippe å betale for jaktkortet.
+6. Smårovviltkort (jaktbart rovvilt som ikke er storvilt jf. [forskrift 22. mars 2002 nr. 313](forskrift/2002-03-22-313) om utøvelse av jakt, felling og fangst [§ 3](forskrift/2002-03-22-313/§3)).
 
 Prisen på jakt og fiske fastsettes av Statskog SF. Dersom det anses nødvendig, kan Landbruksdirektoratet eller Miljødirektoratet fastsette maksimalpriser for henholdsvis jakt og fiske.
 
@@ -97,7 +108,11 @@ Bever skal utbys etter en nærmere fastsatt kortpris. Slik jakt kan også leies 
 
 ### § 11. Elg og hjort
 
-Følgende alternative utbudsmåter skal gjelde:Fast pris pr. kg kjøtt for felt dyr. Det kan betales en fast grunnavgift for hvert enkelt dyr som tildeles. Innbetalt grunnavgift trekkes fra i det endelige oppgjør for felte dyr.I særlige tilfeller kan jaktretten leies ut til fast pris pr. dyr.Jaktkort til fast pris med tillegg pr. kg kjøtt ved felt vilt.
+Følgende alternative utbudsmåter skal gjelde:
+
+1. Fast pris pr. kg kjøtt for felt dyr. Det kan betales en fast grunnavgift for hvert enkelt dyr som tildeles. Innbetalt grunnavgift trekkes fra i det endelige oppgjør for felte dyr.
+2. I særlige tilfeller kan jaktretten leies ut til fast pris pr. dyr.
+3. Jaktkort til fast pris med tillegg pr. kg kjøtt ved felt vilt.
 
 Er det flere søkere skal tildeling skje ved loddtrekning.
 
@@ -107,7 +122,11 @@ Slik jakt kan leies bort ved ett- eller flerårige kontrakter. Likevel ikke for 
 
 ### § 12. Villrein
 
-Følgende alternative utbudsmåter skal gjelde:Pris pr. dyr, fastsatt etter kjønn og alderKiloprisPris basert på vektklasser etter gjennomsnittsvektene i den lokale villreinstammen.
+Følgende alternative utbudsmåter skal gjelde:
+
+1. Pris pr. dyr, fastsatt etter kjønn og alder
+2. Kilopris
+3. Pris basert på vektklasser etter gjennomsnittsvektene i den lokale villreinstammen.
 
 Statskog SF kan bestemme at det skal betales en fast grunnavgift for hvert enkelt dyr som tildeles. Slik innbetalt grunnavgift skal trekkes fra i det endelige oppgjør for felte dyr.
 

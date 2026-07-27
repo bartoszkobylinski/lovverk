@@ -15,7 +15,7 @@ xml_hash: "1b05bc4d37020fd4027adf07ac67cf2fd66bbc09d7118058f10ecb3f58453ced"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,7 +86,9 @@ Loven her trer i kraft fra den tid1 Kongen bestemmer.
 
 Fra samme tid oppheves [lov av 19. juni 1970 nr. 59](lov/1970-06-19-59) om handverksnæring. Kongen kan likevel bestemme at reglene i nevnte lov og forskrifter gitt i medhold av den, skal gjelde inntil videre for enkelte fag eller deler av fag.2
 
-1 Fra 15 jan 1987 iflg. [res. 12 des 1986 nr. 2175](forskrift/1986-12-12-2175).2 Gjelder inntil videre for rørleggerfaget i kommuner hvor loven er innført. Jf. kgl [res. 12 des 1986 nr. 2175](forskrift/1986-12-12-2175).
+1 Fra 15 jan 1987 iflg. [res. 12 des 1986 nr. 2175](forskrift/1986-12-12-2175).
+
+2 Gjelder inntil videre for rørleggerfaget i kommuner hvor loven er innført. Jf. kgl [res. 12 des 1986 nr. 2175](forskrift/1986-12-12-2175).
 
 ## § 9.
 

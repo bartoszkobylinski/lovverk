@@ -15,7 +15,7 @@ xml_hash: "8713ca35487d5f84cd0f5caf600d9f87d404454fc6acf6af5aed9ee741c0153d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,16 @@ Forskriften her setter ikke krav til elektromagnetisk stråling som avgis av må
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med*varmeenergimåler:* et måleredskap som måler den varmeenergien som avgis av en væske i en varmevekslingskrets. En varmeenergimåler er enten et fullstendig måleredskap eller et kombinert måleredskap bestående av underenhetene gjennomstrømningsmåler, temperaturfølerpar og beregningsenhet, eller en kombinasjon av disse*bruker:* den som leverer varme i en varmevekslingskrets til kunder mot betaling, og som eier varmeenergimåleren. I særlige tilfeller kan andre enn eier av varmeenergimåler anses som bruker*målestørrelsen:* den bestemte størrelsen som skal måles*påvirkende størrelse:* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet*angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør varmeenergimålerens normale driftsbetingelser*forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor varmeenergimålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser*kritisk endringsverdi:* den verdien der endringen i måleresultatet anses som uønsket*klimatisk miljø:* de omgivelser der varmeenergimålere kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+I denne forskriften menes med
+
+1. *varmeenergimåler:* et måleredskap som måler den varmeenergien som avgis av en væske i en varmevekslingskrets. En varmeenergimåler er enten et fullstendig måleredskap eller et kombinert måleredskap bestående av underenhetene gjennomstrømningsmåler, temperaturfølerpar og beregningsenhet, eller en kombinasjon av disse
+2. *bruker:* den som leverer varme i en varmevekslingskrets til kunder mot betaling, og som eier varmeenergimåleren. I særlige tilfeller kan andre enn eier av varmeenergimåler anses som bruker
+3. *målestørrelsen:* den bestemte størrelsen som skal måles
+4. *påvirkende størrelse:* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet
+5. *angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør varmeenergimålerens normale driftsbetingelser
+6. *forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor varmeenergimålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser
+7. *kritisk endringsverdi:* den verdien der endringen i måleresultatet anses som uønsket
+8. *klimatisk miljø:* de omgivelser der varmeenergimålere kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
 
 > Endret ved forskrift [16 nov 2022 nr. 2112](forskrift/2022-11-16-2112) (i kraft 1 jan 2023).
 
@@ -99,7 +108,10 @@ Mekanisk miljø klassifiseres som følger:
 | M2 | Denne klassen omfatter varmeenergimålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
 | M3 | Denne klassen omfatter varmeenergimålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med mekanisk miljø:vibrasjonmekanisk sjokk.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med mekanisk miljø:
+
+1. vibrasjon
+2. mekanisk sjokk.
 
 > Endret ved forskrift [16 nov 2022 nr. 2112](forskrift/2022-11-16-2112) (i kraft 1 jan 2023).
 
@@ -115,9 +127,21 @@ Elektromagnetisk miljø klassifiseres i E1, E2 eller E3 som beskrevet nedenfor i
 | E2 | Denne klassen omfatter varmeenergimålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter varmeenergimålere som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:spenningsavbruddkortvarig redusert spenningspenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerhøyfrekvente elektromagnetisk feltoverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningeroverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:spenningsvariasjonvariasjoner i nettfrekvensnettgenererte magnetiske feltandre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
+1. spenningsavbrudd
+2. kortvarig redusert spenning
+3. spenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladninger
+4. høyfrekvente elektromagnetisk felt
+5. overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. overspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. spenningsvariasjon
+2. variasjoner i nettfrekvens
+3. nettgenererte magnetiske felt
+4. andre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad.
 
 > Endret ved forskrift [16 nov 2022 nr. 2112](forskrift/2022-11-16-2112) (i kraft 1 jan 2023).
 
@@ -169,7 +193,12 @@ En varmeenergimåler skal konstrueres slik at virkningen av en funksjonsfeil som
 
 ### § 17. Egnethet
 
-En varmeenergimåler skal væreegnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatrobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserkonstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleren. Testprosedyren skal være beskrevet i bruksanvisningenufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+En varmeenergimåler skal være
+
+1. egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat
+2. robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser
+3. konstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleren. Testprosedyren skal være beskrevet i bruksanvisningen
+4. ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
 
 En varmeenergimåler skal ikke være av en slik art at den lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
 
@@ -195,11 +224,25 @@ Visning av samlet mengde eller visningene som samlet mengde kan utledes fra, og 
 
 ### § 19. Opplysninger som skal påføres eller følge varmeenergimåleren
 
-En varmeenergimåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres varmeenergimåleren:relevante opplysninger om bruksbetingelsermålekapasitetmåleområdeidentitetsmerkenummer på sertifikat for EU-typeprøving eller samsvar basert på full kvalitetssikring og konstruksjonsundersøkelseopplysninger om hvorvidt tilleggsutstyr som gir måleresultater er i samsvar med bestemmelsene i fastsatte forskrifter om lovregulert måleteknisk kontroll.
+En varmeenergimåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres varmeenergimåleren:
+
+1. relevante opplysninger om bruksbetingelser
+2. målekapasitet
+3. måleområde
+4. identitetsmerke
+5. nummer på sertifikat for EU-typeprøving eller samsvar basert på full kvalitetssikring og konstruksjonsundersøkelse
+6. opplysninger om hvorvidt tilleggsutstyr som gir måleresultater er i samsvar med bestemmelsene i fastsatte forskrifter om lovregulert måleteknisk kontroll.
 
 Dersom målerens dimensjoner er for små eller konstruksjonen er for følsom til at de relevante opplysninger kan påføres, skal disse være påført på eventuell emballasje samt i de følgedokumenter som kreves i henhold til denne forskriften.
 
-Opplysninger om betjening skal følge varmeenergimåleren med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:angitte driftsbetingelserelektromagnetisk miljøøvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringanvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingeranvisninger for korrekt betjening og eventuelle særlige bruksvilkårvilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
+Opplysninger om betjening skal følge varmeenergimåleren med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. angitte driftsbetingelser
+2. elektromagnetisk miljø
+3. øvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plassering
+4. anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
 
 Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes. For grupper av identiske varmeenergimålere er det ikke nødvendig med individuelle bruksanvisninger.
 
@@ -262,7 +305,16 @@ En varmeenergimåler skal være konstruert slik at det lett kan vurderes om den 
 
 ### § 24. Angitte driftsbetingelser
 
-Produsenten skal angi driftsbetingelser som følger:for væsketemperaturen: θmax, θmin,for temperaturdifferansene: Δθmax, Δθmin,med følgende begrensninger: Δθmax /Δθmin ≥ 10; Δθmin = 3 K eller 5 K eller 10 K.for væsketrykket: det maksimale, innvendige overtrykk som varmeenergimåleren permanent kan motstå ved øvre temperaturgrensefor væskens strømningsrater: qs, qp, qi, der verdiene qp og qi er underlagt følgende begrensning: qp /qi ≥ 10for den termiske effekt: Ps.
+Produsenten skal angi driftsbetingelser som følger:
+
+1. for væsketemperaturen: θmax, θmin,
+
+   - for temperaturdifferansene: Δθmax, Δθmin,
+
+   med følgende begrensninger: Δθmax /Δθmin ≥ 10; Δθmin = 3 K eller 5 K eller 10 K.
+2. for væsketrykket: det maksimale, innvendige overtrykk som varmeenergimåleren permanent kan motstå ved øvre temperaturgrense
+3. for væskens strømningsrater: qs, qp, qi, der verdiene qp og qi er underlagt følgende begrensning: qp /qi ≥ 10
+4. for den termiske effekt: Ps.
 
 > Endret ved forskrift [16 nov 2022 nr. 2112](forskrift/2022-11-16-2112) (i kraft 1 jan 2023).
 
@@ -300,29 +352,74 @@ Den kritiske endringsverdi for en komplett varmeenergimåler er lik absoluttverd
 
 ### § 28. Holdbarhet
 
-Etter en hensiktsmessig test, der det er tatt hensyn til den tid som produsenten har estimert, skal følgende kriterier være oppfylt:gjennomstrømningsmålere: Variasjonen mellom måleresultatet etter langtidstesten og det opprinnelige måleresultatet skal ikke være større enn den kritiske endringsverdien.temperaturfølere: Variasjonen mellom måleresultatet etter langtidstesten og det opprinnelig måleresultatet skal ikke være større enn 0,1 °C.
+Etter en hensiktsmessig test, der det er tatt hensyn til den tid som produsenten har estimert, skal følgende kriterier være oppfylt:
+
+1. gjennomstrømningsmålere: Variasjonen mellom måleresultatet etter langtidstesten og det opprinnelige måleresultatet skal ikke være større enn den kritiske endringsverdien.
+2. temperaturfølere: Variasjonen mellom måleresultatet etter langtidstesten og det opprinnelig måleresultatet skal ikke være større enn 0,1 °C.
 
 > Endret ved forskrift [16 nov 2022 nr. 2112](forskrift/2022-11-16-2112) (i kraft 1 jan 2023).
 
 ### § 29. Opplysninger som skal påføres varmeenergimålere
 
-Følgende opplysninger skal påføres varmeenergimålere:nøyaktighetsklassegrenser for strømningsratentemperaturgrensergrenser for temperaturdifferanserplassering av gjennomstrømningsmåleren: tur eller returangivelse av strømningsretningen.
+Følgende opplysninger skal påføres varmeenergimålere:
+
+1. nøyaktighetsklasse
+2. grenser for strømningsraten
+3. temperaturgrenser
+4. grenser for temperaturdifferanser
+5. plassering av gjennomstrømningsmåleren: tur eller retur
+6. angivelse av strømningsretningen.
 
 > Endret ved forskrift [16 nov 2022 nr. 2112](forskrift/2022-11-16-2112) (i kraft 1 jan 2023).
 
 ### § 30. Underenheter
 
-Bestemmelser for underenheter kan gjelde uavhengig av om de er fremstilt av samme eller forskjellig fabrikant. Når en varmeenergimåler består av underenheter, vil de vesentlige krav for varmeenergimåleren gjelde for underenhetene såframt de er relevante. I tillegg vil følgende gjelde:maksimal tillatt målefeil for gjennomstrømningsmåleren, uttrykt i %, for nøyaktighetsklasser:Klasse 1: Ef = (1 + 0,01 qp/q ), men ikke over 5 %,Klasse 2: Ef = (2 + 0,02 qp/q ), men ikke over 5 %,Klasse 3: Ef = (3 + 0,05 qp/q ), men ikke over 5 %,der feilen Ef relaterer den angitte verdien til den sanne verdien av forholdet mellom gjennomstrømningsmålerens utgangssignal og massen eller volumetrelativ maksimal tillatt målefeil for temperaturfølerparet uttrykt i %Et = (0,5 + 3 Δθmin / Δθ)der feilen Et relaterer den angitte verdien til den sanne verdien av forholdet mellom temperaturfølerparets utgangssignal og temperaturdifferansen.relativ maksimal tillatt målefeil for beregningsenheten, uttrykt i %:Ec = (0,5 + Δθmin / Δθ),der feilen Ec relaterer den angitte verdien for varmemengde til den sanne verdien for varmemengdenkritisk endringsverdi for en underenhet til en varmeenergimåler skal være lik den respektive absoluttverdien av maksimal tillatt målefeil som gjelder for underenheten i henhold til bokstav a, b eller c.
+Bestemmelser for underenheter kan gjelde uavhengig av om de er fremstilt av samme eller forskjellig fabrikant. Når en varmeenergimåler består av underenheter, vil de vesentlige krav for varmeenergimåleren gjelde for underenhetene såframt de er relevante. I tillegg vil følgende gjelde:
+
+1. maksimal tillatt målefeil for gjennomstrømningsmåleren, uttrykt i %, for nøyaktighetsklasser:
+
+   1. Klasse 1: Ef = (1 + 0,01 qp/q ), men ikke over 5 %,
+   2. Klasse 2: Ef = (2 + 0,02 qp/q ), men ikke over 5 %,
+   3. Klasse 3: Ef = (3 + 0,05 qp/q ), men ikke over 5 %,
+
+   der feilen Ef relaterer den angitte verdien til den sanne verdien av forholdet mellom gjennomstrømningsmålerens utgangssignal og massen eller volumet
+2. relativ maksimal tillatt målefeil for temperaturfølerparet uttrykt i %
+
+   - Et = (0,5 + 3 Δθmin / Δθ)
+
+   der feilen Et relaterer den angitte verdien til den sanne verdien av forholdet mellom temperaturfølerparets utgangssignal og temperaturdifferansen.
+3. relativ maksimal tillatt målefeil for beregningsenheten, uttrykt i %:
+
+   - Ec = (0,5 + Δθmin / Δθ),
+
+   der feilen Ec relaterer den angitte verdien for varmemengde til den sanne verdien for varmemengden
+4. kritisk endringsverdi for en underenhet til en varmeenergimåler skal være lik den respektive absoluttverdien av maksimal tillatt målefeil som gjelder for underenheten i henhold til bokstav a, b eller c.
 
 > Endret ved forskrifter [16 nov 2022 nr. 2112](forskrift/2022-11-16-2112) (i kraft 1 jan 2023), [1 des 2023 nr. 1989](forskrift/2023-12-01-1989) (i kraft 1 jan 2024).
 
 ### § 31. Opplysninger som skal påføres underenheter
 
-Følgende opplysninger skal påføres gjennomstrømningsmålere:nøyaktighetsklassegrenser for strømningsratetemperaturgrensernominell målefaktor, for eksempel liter/puls, eller tilsvarende utgangssignalangivelse av strømningsretningen.
+Følgende opplysninger skal påføres gjennomstrømningsmålere:
 
-Følgende opplysninger skal påføres temperaturfølerpar:typeidentifikasjon, for eksempel Pt 100temperaturgrensergrenser for temperaturdifferanse.
+1. nøyaktighetsklasse
+2. grenser for strømningsrate
+3. temperaturgrenser
+4. nominell målefaktor, for eksempel liter/puls, eller tilsvarende utgangssignal
+5. angivelse av strømningsretningen.
 
-Følgende opplysninger skal påføres beregningsenheter:type temperaturføleretemperaturgrensergrenser for temperaturdifferansepåkrevd nominell målefaktor, for eksempel liter/puls, eller tilsvarende inngangssignal fra gjennomstrømningsmålerengjennomstrømningsmålerens plassering, tur eller retur.
+Følgende opplysninger skal påføres temperaturfølerpar:
+
+1. typeidentifikasjon, for eksempel Pt 100
+2. temperaturgrenser
+3. grenser for temperaturdifferanse.
+
+Følgende opplysninger skal påføres beregningsenheter:
+
+1. type temperaturfølere
+2. temperaturgrenser
+3. grenser for temperaturdifferanse
+4. påkrevd nominell målefaktor, for eksempel liter/puls, eller tilsvarende inngangssignal fra gjennomstrømningsmåleren
+5. gjennomstrømningsmålerens plassering, tur eller retur.
 
 > Endret ved forskrift [16 nov 2022 nr. 2112](forskrift/2022-11-16-2112) (i kraft 1 jan 2023).
 

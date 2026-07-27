@@ -15,7 +15,7 @@ xml_hash: "8fd0465df57dd10b5b12b0718416b361c2a451d55c173432bdb368724cc7fb7d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,12 @@ Ph.d.-utdanningen er normert til tre (3) års fulltidsstudier og inkluderer en o
 
 Ph.d.-utdanningenes viktigste komponent er et selvstendig arbeid innen forskning som gjennomføres under aktiv veiledning.
 
-Doktorgraden tildeles på grunnlag avgodkjent vitenskapelig avhandling, jf. [§ 4-9](forskrift/2025-03-11-440/§4-9),godkjent gjennomføring av opplæringsdelen,godkjent prøveforelesning over oppgitt emne,og godkjent offentlig forsvar av den vitenskapelige avhandlingen (disputas).
+Doktorgraden tildeles på grunnlag av
+
+- godkjent vitenskapelig avhandling, jf. [§ 4-9](forskrift/2025-03-11-440/§4-9),
+- godkjent gjennomføring av opplæringsdelen,
+- godkjent prøveforelesning over oppgitt emne,
+- og godkjent offentlig forsvar av den vitenskapelige avhandlingen (disputas).
 
 ### § 1-4. Ansvaret for ph.d.-utdanningen
 
@@ -72,7 +77,18 @@ Søkeren skal ha en sterk faglig bakgrunn fra sitt tidligere studium, og ha en v
 
 ### § 2-2. Søknad
 
-Høyskolen Kristiania fastsetter søknadsskjema. Dette skal normalt inneholde:Dokumentasjon av den utdanning som skal ligge til grunn for opptaket.En prosjektbeskrivelse, herunder en faglig redegjørelse for prosjektet og en plan for fremdrift.Dokumentasjon av finansiering.Dokumentasjon av spesielle behov for faglige og materielle ressurser.Planer for opphold ved annen institusjon.En plan for faglig formidling.Opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.En plan for opplæringsdelen.Et forslag til hoved- og medveiledere, samt en angivelse av tilknytning til aktivt fagmiljø for forskning.Redegjørelse for hvilke rettslige og etiske problemstillinger prosjektet eventuelt reiser, og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser skal om mulig være innhentet og legges ved søknaden.
+Høyskolen Kristiania fastsetter søknadsskjema. Dette skal normalt inneholde:
+
+- Dokumentasjon av den utdanning som skal ligge til grunn for opptaket.
+- En prosjektbeskrivelse, herunder en faglig redegjørelse for prosjektet og en plan for fremdrift.
+- Dokumentasjon av finansiering.
+- Dokumentasjon av spesielle behov for faglige og materielle ressurser.
+- Planer for opphold ved annen institusjon.
+- En plan for faglig formidling.
+- Opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
+- En plan for opplæringsdelen.
+- Et forslag til hoved- og medveiledere, samt en angivelse av tilknytning til aktivt fagmiljø for forskning.
+- Redegjørelse for hvilke rettslige og etiske problemstillinger prosjektet eventuelt reiser, og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser skal om mulig være innhentet og legges ved søknaden.
 
 School of Doctoral Studies kan fastsette krav til ytterligere dokumentasjon.
 
@@ -96,7 +112,11 @@ Doktorgradsutvalget kan fastsette kriterier for rangering av kvalifiserte søker
 
 I vedtaket skal hoved- og medveiledere oppnevnes, ansvaret for håndtering av andre behov som er skissert i søknaden, plasseres, og avtaleperioden fastsettes med startdato og sluttdato. Startdato settes lik startdato for finansiering. En eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker og avklares spesielt i forhold til kandidatens finansieringsgrunnlag.
 
-Opptak skal nektes dersom dersom ett eller fler av følgende vilkår er oppfylt:Avtaler med eksterne tredjeparter er til hinder for offentliggjøring og offentlig forsvar av doktorgradsarbeidet.De immaterialrettslige avtaler som er inngått, er så urimelige at institusjonen ikke bør medvirke i prosjektet.Søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet normalt skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. [§ 2-2](forskrift/2025-03-11-440/§2-2).
+Opptak skal nektes dersom dersom ett eller fler av følgende vilkår er oppfylt:
+
+- Avtaler med eksterne tredjeparter er til hinder for offentliggjøring og offentlig forsvar av doktorgradsarbeidet.
+- De immaterialrettslige avtaler som er inngått, er så urimelige at institusjonen ikke bør medvirke i prosjektet.
+- Søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet normalt skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. [§ 2-2](forskrift/2025-03-11-440/§2-2).
 
 ## Kapittel 3. Ph.d.-avtalen
 
@@ -272,7 +292,14 @@ Det er hovedveileders ansvar å gjøre ansvarlig enhet oppmerksom på at innleve
 
 ### § 5-2. Søknad om bedømmelse av den vitenskapelige avhandlingen
 
-Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent. Som vedlegg til søknaden skal følgeden vitenskapelige avhandlingen i henhold til høyskolens bestemmelser, i den form og det antall eksemplarer høyskolen har bestemt,dokumentasjon av nødvendige tillatelser, jf. [§ 2-2](forskrift/2025-03-11-440/§2-2),medforfattererklæringer der dette er påkrevd, jf. [§ 4-10](forskrift/2025-03-11-440/§4-10),en erklæring om avhandlingen leveres inn til bedømmelse for første eller andre gang,en erklæring om at avhandlingen ikke er levert inn til bedømmelse ved en annen institusjon,og en uttalelse fra hovedveilederen.
+Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent. Som vedlegg til søknaden skal følge
+
+- den vitenskapelige avhandlingen i henhold til høyskolens bestemmelser, i den form og det antall eksemplarer høyskolen har bestemt,
+- dokumentasjon av nødvendige tillatelser, jf. [§ 2-2](forskrift/2025-03-11-440/§2-2),
+- medforfattererklæringer der dette er påkrevd, jf. [§ 4-10](forskrift/2025-03-11-440/§4-10),
+- en erklæring om avhandlingen leveres inn til bedømmelse for første eller andre gang,
+- en erklæring om at avhandlingen ikke er levert inn til bedømmelse ved en annen institusjon,
+- og en uttalelse fra hovedveilederen.
 
 ### § 5-3. Behandling av søknad om bedømmelse
 
@@ -282,7 +309,14 @@ Høyskolen behandler søknaden om å få den vitenskapelige avhandlingen bedømt
 
 Når institusjonen har godkjent søknaden om å få den vitenskapelige avhandlingen bedømt, oppnevnes det en sakkyndig komité på minst tre medlemmer som skal bedømme avhandlingen, prøven over oppgitt emne og disputasen. Habilitetsreglene i [forvaltningsloven](lov/1967-02-10) gjelder for komiteens medlemmer.
 
-Bedømmelseskomiteen skal normalt settes sammen slik atbegge kjønn er representert,minst ett av medlemmene er uten tilknytning til Høyskolen Kristiania,minst ett av medlemmene har ikke hovedstilling ved norske institusjoner,alle medlemmene har doktorgrad eller tilsvarende kompetanse innen fagområdet,flertallet i bedømmelseskomiteen er eksterne medlemmer,og ett av medlemmene, om mulig, er fra en relevant utenlandsk institusjon.
+Bedømmelseskomiteen skal normalt settes sammen slik at
+
+- begge kjønn er representert,
+- minst ett av medlemmene er uten tilknytning til Høyskolen Kristiania,
+- minst ett av medlemmene har ikke hovedstilling ved norske institusjoner,
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse innen fagområdet,
+- flertallet i bedømmelseskomiteen er eksterne medlemmer,
+- og ett av medlemmene, om mulig, er fra en relevant utenlandsk institusjon.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 

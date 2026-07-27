@@ -15,7 +15,7 @@ xml_hash: "602210733aa848580bd00a5348820092dd05b9aeea8b0a339509aff8a4d8315b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,11 @@ eu_basis: []
 
 (1) Denne forskriften gjelder for opptak, studier, eksamen og klageadgang ved OSM Aviation Academy («OSMAA») og beskriver studentens rettigheter og plikter under det avtalte studieløpet. Forskriften er i sin helhet publisert på OSMAA sin interne læringsplattform og internettsider
 
-(2) Forskriften gjelder for:Søkere til studieprogrammet «Integrert Trafikkflyger CPL/IR ME ATPL(A)» ved OSMAA.Søkere til studieprogrammet «Modulær Trafikkflyger CPL/IR ME ATPL(A)» ved OSMAA.Søkere med studierett og status som fagskolestudent ved OSMAA.
+(2) Forskriften gjelder for:
+
+1. Søkere til studieprogrammet «Integrert Trafikkflyger CPL/IR ME ATPL(A)» ved OSMAA.
+2. Søkere til studieprogrammet «Modulær Trafikkflyger CPL/IR ME ATPL(A)» ved OSMAA.
+3. Søkere med studierett og status som fagskolestudent ved OSMAA.
 
 ### § 1-2. Forholdet til internasjonale og nasjonale lover og regler
 
@@ -74,19 +78,43 @@ Søkere gjøres oppmerksom på at arbeidsgivere innen luftfart kan kreve en utt�
 
 (1) Utdanningsprogrammene ved OSM Aviation Academy bygger på videregående opplæring eller tilsvarende realkompetanse.
 
-(2) Opptakskrav:Fullført og bestått videregående utdanning (generell studiekompetanse), bestått fagbrev eller ha fylt 23 år. Dersom kandidat ikke har bestått videregående opplæring i form av studiekompetanse kan en realkompetansevurdering gjennomføres dersom kandidaten fyller 23 år i opptaksåret.Bestå opptaksprøveHa et gyldig EASA Klasse 1 medisinsk sertifikat innen oppstart av studietFor utdanningen «Modulær Trafikkflyger CPL/IR ME» kreves også et PPL flysertifikat.Gjennomført forberedende kurs i matematikk og fysikk.Det er ikke krav til politiattest for å starte på pilotutdanning, men du må vise politiattest for å få adgang til flyplasser når du søker jobb i flyselskap. Les mer om dette på: [www.luftfartstilsynet.no](https://www.luftfartstilsynet.no).Internasjonale studenter må og sørge for å ha gyldig studentvisum for Norge. Dette kan du lese mer om på [www.UDI.no](https://www.UDI.no).
+(2) Opptakskrav:
+
+1. Fullført og bestått videregående utdanning (generell studiekompetanse), bestått fagbrev eller ha fylt 23 år. Dersom kandidat ikke har bestått videregående opplæring i form av studiekompetanse kan en realkompetansevurdering gjennomføres dersom kandidaten fyller 23 år i opptaksåret.
+2. Bestå opptaksprøve
+3. Ha et gyldig EASA Klasse 1 medisinsk sertifikat innen oppstart av studiet
+4. For utdanningen «Modulær Trafikkflyger CPL/IR ME» kreves også et PPL flysertifikat.
+5. Gjennomført forberedende kurs i matematikk og fysikk.
+
+Det er ikke krav til politiattest for å starte på pilotutdanning, men du må vise politiattest for å få adgang til flyplasser når du søker jobb i flyselskap. Les mer om dette på: [www.luftfartstilsynet.no](https://www.luftfartstilsynet.no).
+
+Internasjonale studenter må og sørge for å ha gyldig studentvisum for Norge. Dette kan du lese mer om på [www.UDI.no](https://www.UDI.no).
 
 ### § 2-3. Opptak på grunnlag av realkompetanse
 
-(1) Søkere som ikke fyller kravene til generelt opptaksgrunnlag/formelle kompetansekravet gitt i [§ 2-2](forskrift/2023-11-13-2011/§2-2) kan søke om opptak på grunnlag av realkompetanse ved OSM Aviation Academy. Dette gjelder søkere som har fylt eller fyller 23 år i opptaksåret og:som har fullført videregående opplæring med et annet utdanningsprogram enn det som følger av det formelle opptakskravet etter punkt [§ 2-2](forskrift/2023-11-13-2011/§2-2) og [§ 2-3](forskrift/2023-11-13-2011/§2-3),som ikke har fullført videregående opplæring, ellermed utdanning fra andre land enn Norge.
+(1) Søkere som ikke fyller kravene til generelt opptaksgrunnlag/formelle kompetansekravet gitt i [§ 2-2](forskrift/2023-11-13-2011/§2-2) kan søke om opptak på grunnlag av realkompetanse ved OSM Aviation Academy. Dette gjelder søkere som har fylt eller fyller 23 år i opptaksåret og:
 
-(2) For søkere som kvalifiserer etter først ledd gjelder følgende opptakskrav:Bestå opptaksprøveHa et gyldig EASA Klasse 1 medisinsk sertifikat innen oppstart av studietFor utdanningen «Modulær Trafikkflyger CPL/IR-ME» kreves også et PPL-flysertifikat.Gjennomført forberedende kurs i matematikk og fysikk.
+1. som har fullført videregående opplæring med et annet utdanningsprogram enn det som følger av det formelle opptakskravet etter punkt [§ 2-2](forskrift/2023-11-13-2011/§2-2) og [§ 2-3](forskrift/2023-11-13-2011/§2-3),
+2. som ikke har fullført videregående opplæring, eller
+3. med utdanning fra andre land enn Norge.
+
+(2) For søkere som kvalifiserer etter først ledd gjelder følgende opptakskrav:
+
+1. Bestå opptaksprøve
+2. Ha et gyldig EASA Klasse 1 medisinsk sertifikat innen oppstart av studiet
+3. For utdanningen «Modulær Trafikkflyger CPL/IR-ME» kreves også et PPL-flysertifikat.
+4. Gjennomført forberedende kurs i matematikk og fysikk.
 
 (3) OSM Aviation Academy vurderer den enkelte søkers realkompetanse i forhold til det formelle kompetansekravet, samt den nødvendige faglige kompetansen som forutsettes for å kunne gjennomføre det aktuelle studieprogrammet. Vurderingen foretas av skolens opptakskomite som består av tre ansatte ved OSMAA.
 
 ### § 2-4. Opptak på grunnlag av utenlandsk utdanning
 
-Søkere med fullført videregående opplæring utenfor Norge er kvalifisert for opptak ved OSMAA hvis den videregående opplæringen i det respektive landet gir et korrekt kvalifiserende opptaksgrunnlag. Søkere fra nordiske land får sin kompetanse vurdert av skolen. For alle andre land må dokumenter relatert til opplæring og praksis oversettes av autorisert translatør og ha kompetanse som er minimum likeverdig med det som er beskrevet i [§ 2-2](forskrift/2023-11-13-2011/§2-2). Studenter med godkjent utenlandsk videregående opplæring må også oppfylle følgende opptakskrav:Bestå opptaksprøveHa et gyldig EASA Klasse 1 medisinsk sertifikat innen oppstart av studietFor utdanningen «Modulær Trafikkflyger CPL/IR-ME» kreves også et PPL-flysertifikat.Gjennomført forberedende kurs i matematikk og fysikk.
+Søkere med fullført videregående opplæring utenfor Norge er kvalifisert for opptak ved OSMAA hvis den videregående opplæringen i det respektive landet gir et korrekt kvalifiserende opptaksgrunnlag. Søkere fra nordiske land får sin kompetanse vurdert av skolen. For alle andre land må dokumenter relatert til opplæring og praksis oversettes av autorisert translatør og ha kompetanse som er minimum likeverdig med det som er beskrevet i [§ 2-2](forskrift/2023-11-13-2011/§2-2). Studenter med godkjent utenlandsk videregående opplæring må også oppfylle følgende opptakskrav:
+
+1. Bestå opptaksprøve
+2. Ha et gyldig EASA Klasse 1 medisinsk sertifikat innen oppstart av studiet
+3. For utdanningen «Modulær Trafikkflyger CPL/IR-ME» kreves også et PPL-flysertifikat.
+4. Gjennomført forberedende kurs i matematikk og fysikk.
 
 ### § 2-5. Utfyllende regler om språkkrav for søkere med utenlandsk utdanning
 
@@ -236,7 +264,13 @@ Klagefrist på alle enkeltvedtak er 3 (tre) uker etter at studenten har mottatt 
 
 (1) Alle klager skal sendes til OSMAA (underinstansen) som kan oppheve eller endre vedtaket dersom en gjennomgang av klagegrunnen viser at det er grunnlag for dette. Underinstansen kan også avvise klagen dersom vilkårene for å ta klagen til behandling ikke er oppfylt.
 
-(2) Den skriftlige klagen må inneholde:Klagers navn og adresse.Angivelse av hvilket vedtak det klages over.Hva klagen gjelder og begrunnelse for denne.Ved klage på karakter må denne begrunnes i forhold til omtale av læringsutbytte.Dato og underskrift.
+(2) Den skriftlige klagen må inneholde:
+
+1. Klagers navn og adresse.
+2. Angivelse av hvilket vedtak det klages over.
+3. Hva klagen gjelder og begrunnelse for denne.
+4. Ved klage på karakter må denne begrunnes i forhold til omtale av læringsutbytte.
+5. Dato og underskrift.
 
 ### § 5-4. Klageordning og klageorgan
 
@@ -262,7 +296,17 @@ Klagefrist på alle enkeltvedtak er 3 (tre) uker etter at studenten har mottatt 
 
 ### § 6-1. Vitnemål
 
-(1) OSMAA utsteder vitnemål ved fullført fagskoleutdanning i tråd med [fagskoletilsynsforskriften § 2-7](forskrift/2020-04-23-853/§2-7) og skal vise:fagskolens og utdanningens navnkandidatens navn og fødselsnummeren beskrivelse av karaktersystemetkandidatens karaktererdet overordnede læringsutbyttet for utdanningenutdanningens emner og eventuell praksisnivå i Nasjonalt kvalifikasjonsrammeverk for livslang læringantall studiepoeng og eventuell gradsbetegnelsedatoen for når vitnemålet er utstedt.
+(1) OSMAA utsteder vitnemål ved fullført fagskoleutdanning i tråd med [fagskoletilsynsforskriften § 2-7](forskrift/2020-04-23-853/§2-7) og skal vise:
+
+1. fagskolens og utdanningens navn
+2. kandidatens navn og fødselsnummer
+3. en beskrivelse av karaktersystemet
+4. kandidatens karakterer
+5. det overordnede læringsutbyttet for utdanningen
+6. utdanningens emner og eventuell praksis
+7. nivå i Nasjonalt kvalifikasjonsrammeverk for livslang læring
+8. antall studiepoeng og eventuell gradsbetegnelse
+9. datoen for når vitnemålet er utstedt.
 
 (2) En student som ikke har fullført fagskoleutdanningen, kan be om karakterutskrift som viser beståtte emner og eksamener.
 

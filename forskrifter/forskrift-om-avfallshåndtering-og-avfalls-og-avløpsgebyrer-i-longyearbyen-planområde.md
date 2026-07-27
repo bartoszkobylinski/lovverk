@@ -30,7 +30,14 @@ Denne forskriften gjelder for Longyearbyen planområde.
 
 ### § 2. Definisjoner
 
-I denne forskrift menes det med:*avfall:* det som er definert som avfall i [svalbardmiljøloven § 3](lov/2001-06-15-79/§3) første ledd bokstav b.*husholdningsavfall:* avfall fra private husholdninger og hytter, herunder større gjenstander som inventar og liknende.*næringsavfall:* avfall fra offentlige og private virksomheter og institusjoner.*farlig avfall:* det som er definert som farlig avfall i [§ 11-2 i forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall](forskrift/2004-06-01-930/§11-2).*boenhet:* Bolig, hytte eller hybel med ett eller flere rom og med separat inngang (inngang kan være utendørs eller innendørs), samt tilgang på bad/wc og kjøkkendel. Ved tvilstilfeller avgjør Longyearbyen lokalstyre hva som regnes som en boenhet.*hybel:* En hybel er en del av en bolig, der beboerne deler kjøkken og/eller bad. Ved tvilstilfeller avgjør Longyearbyen lokalstyre hva som regnes som en hybel.
+I denne forskrift menes det med:
+
+1. *avfall:* det som er definert som avfall i [svalbardmiljøloven § 3](lov/2001-06-15-79/§3) første ledd bokstav b.
+2. *husholdningsavfall:* avfall fra private husholdninger og hytter, herunder større gjenstander som inventar og liknende.
+3. *næringsavfall:* avfall fra offentlige og private virksomheter og institusjoner.
+4. *farlig avfall:* det som er definert som farlig avfall i [§ 11-2 i forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall](forskrift/2004-06-01-930/§11-2).
+5. *boenhet:* Bolig, hytte eller hybel med ett eller flere rom og med separat inngang (inngang kan være utendørs eller innendørs), samt tilgang på bad/wc og kjøkkendel. Ved tvilstilfeller avgjør Longyearbyen lokalstyre hva som regnes som en boenhet.
+6. *hybel:* En hybel er en del av en bolig, der beboerne deler kjøkken og/eller bad. Ved tvilstilfeller avgjør Longyearbyen lokalstyre hva som regnes som en hybel.
 
 ## Kapittel 2. Krav til håndtering av husholdningsavfall og matavfall
 
@@ -60,7 +67,18 @@ For riving og rehabilitering som ikke er søknadspliktige etter [byggeforskrifte
 
 I forbindelse med rehabilitering og riving skal tiltakshaver sørge for kartlegging av bygningsdeler, byggetekniske installasjoner, inventar og lignende som vil utgjøre farlig avfall. Det skal utarbeides en egen miljøsaneringsbeskrivelse. Kartlegging av farlig avfall og miljøsanering skal utføres av personell med relevant utdanning og praksis.
 
-Miljøsaneringsbeskrivelsen skal som et minimum inneholde opplysninger om:hvem kartleggingen er utført avdato for kartleggingenresultatet av representative materialprøver og analyserforekomsten og mengden av farlig avfall fordelt på typeplasseringen av farlig avfall i bygget, angitt med bilde eller tegning der det kan være tvilhvordan farlig avfall gjennom merking, skilting eller andre tiltak er identifiserthvordan det farlige avfallet er planlagt fjernethvor det farlige avfallet er planlagt levertalle funn av farlig avfall, sammenstilt i en tabellbyggeår og tidligere bruk hvis dette er kjent.
+Miljøsaneringsbeskrivelsen skal som et minimum inneholde opplysninger om:
+
+1. hvem kartleggingen er utført av
+2. dato for kartleggingen
+3. resultatet av representative materialprøver og analyser
+4. forekomsten og mengden av farlig avfall fordelt på type
+5. plasseringen av farlig avfall i bygget, angitt med bilde eller tegning der det kan være tvil
+6. hvordan farlig avfall gjennom merking, skilting eller andre tiltak er identifisert
+7. hvordan det farlige avfallet er planlagt fjernet
+8. hvor det farlige avfallet er planlagt levert
+9. alle funn av farlig avfall, sammenstilt i en tabell
+10. byggeår og tidligere bruk hvis dette er kjent.
 
 ### § 7. Opplysninger om faktisk håndtering av byggavfall (sluttrapport)
 
@@ -80,7 +98,11 @@ Avfallsgebyrets størrelse fastsettes av lokalstyret. Gebyret skal fullt ut dekk
 
 Gebyret for deltagelse i innsamlingsordninger for husholdningsavfall skal være et fast beløp.
 
-Gebyret skal fastsettes på grunnlag av størrelsen på boenheten, med følgende tillegg:Det kan fastsettes en egen gebyrsats for hytter, samt for eier av hytte i Longyearbyen planområde hvor eieren også betaler gebyr for eiendom som brukes som bolig.Det kan fastsettes egen gebyrsats for hybler.Det kan fastsettes egne gebyrsatser for enkeltabonnenter dersom kostnadene ved å hente og behandle avfallet hos disse er vesentlig høyere enn ellers i planområdet. Dette kan f.eks. være på grunn av lengere kjøreavstand og/eller hvis boenheten ikke er tilknyttet avløp og leverer matavfall og/eller ekskrementer som avfall.
+Gebyret skal fastsettes på grunnlag av størrelsen på boenheten, med følgende tillegg:
+
+- Det kan fastsettes en egen gebyrsats for hytter, samt for eier av hytte i Longyearbyen planområde hvor eieren også betaler gebyr for eiendom som brukes som bolig.
+- Det kan fastsettes egen gebyrsats for hybler.
+- Det kan fastsettes egne gebyrsatser for enkeltabonnenter dersom kostnadene ved å hente og behandle avfallet hos disse er vesentlig høyere enn ellers i planområdet. Dette kan f.eks. være på grunn av lengere kjøreavstand og/eller hvis boenheten ikke er tilknyttet avløp og leverer matavfall og/eller ekskrementer som avfall.
 
 ### § 10. Beregning av avfallsgebyret for deltagelse i innsamlingsordning for næringsavfall som i art og mengde ligner på husholdningsavfall
 

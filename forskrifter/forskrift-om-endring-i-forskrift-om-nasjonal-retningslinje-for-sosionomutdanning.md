@@ -15,7 +15,7 @@ xml_hash: "6ec9466b63df71ff7f422bb96e8d5609b1b13585d4c55e6b08c8d5a250852bea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,7 +86,24 @@ Læringsutbyttebeskrivelsene i [§ 4 b](forskrift/2025-07-04-1465/§4/bokstav/b)
 
 [§ 8](forskrift/2025-07-04-1465/§8) skal lyde:
 
-Kandidatenkan anvende faglig kunnskap om sosiale problemer, overganger og livskriser for å forebygge utenforskap og fremme mestring og endring i samarbeid med enkeltpersoner, familier, grupper og samarbeidspartnerekan anvende ulike metodiske tilnærminger på individ-, gruppe- og samfunnsnivå innenfor ulike tjenesteområderkan anvende faglig kunnskap om relasjon og kommunikasjon i veiledning, motivasjons- og endringsarbeid og veilede brukere, pasienter, pårørende og fagpersonerkan anvende faglig kunnskap om arbeidsrettet inkludering i møte med arbeidssøkere, arbeidsgivere og samarbeidspartnerekan anvende faglig kunnskap for å identifisere og mobilisere ressurser og, i samarbeid med mennesker i sårbare livssituasjoner bidra til å skape håpkan anvende metoder i familie- og nettverksarbeid og tidlig innsatskan anvende faglig kunnskap og metoder for medvirkning og samarbeid med barn, unge, foreldre, og foresatte om hverdagsliv og om vanskelige tema på en måte som ivaretar deres interesser og rettigheter og sikrer barnets bestekan anvende faglig kunnskap for å vurdere og avklare bekymringsmeldinger og undersøke omsorgssituasjonen til barn og unge og iverksette, følge opp, koordinere og evaluere tiltakkan anvende faglig kunnskap og arbeide tverrfaglig i møte med mennesker som utøver og utsettes for vold og overgrepkan samtale med barn om tema som omsorgssvikt, vold og overgrepkan vurdere og sette inn tiltak som forebygger og reduserer konsekvensene av vold, overgrep og omsorgssvikt, overfor barn og voksne i alle aldrekan beherske digitale verktøy og reflektere over faglige og etiske perspektiver knyttet til anvendelsen av disse i sosialt arbeidkan beherske metoder i samfunnsarbeid som fremmer makt, innflytelse, deltakelse og representasjonkan beherske aktuelle metoder for kartlegging, dokumentasjon, analyse og beslutningstaking, og ta hensyn til ulike språklige barrierer i kommunikasjon og formidlingkan reflektere over, håndtere og redusere uønskede hendelser og konfliktsituasjoner i sitt arbeidkan reflektere over og anvende kunnskap som bidrar til et likeverdig tjenestetilbud for samiske brukere.
+Kandidaten
+
+1. kan anvende faglig kunnskap om sosiale problemer, overganger og livskriser for å forebygge utenforskap og fremme mestring og endring i samarbeid med enkeltpersoner, familier, grupper og samarbeidspartnere
+2. kan anvende ulike metodiske tilnærminger på individ-, gruppe- og samfunnsnivå innenfor ulike tjenesteområder
+3. kan anvende faglig kunnskap om relasjon og kommunikasjon i veiledning, motivasjons- og endringsarbeid og veilede brukere, pasienter, pårørende og fagpersoner
+4. kan anvende faglig kunnskap om arbeidsrettet inkludering i møte med arbeidssøkere, arbeidsgivere og samarbeidspartnere
+5. kan anvende faglig kunnskap for å identifisere og mobilisere ressurser og, i samarbeid med mennesker i sårbare livssituasjoner bidra til å skape håp
+6. kan anvende metoder i familie- og nettverksarbeid og tidlig innsats
+7. kan anvende faglig kunnskap og metoder for medvirkning og samarbeid med barn, unge, foreldre, og foresatte om hverdagsliv og om vanskelige tema på en måte som ivaretar deres interesser og rettigheter og sikrer barnets beste
+8. kan anvende faglig kunnskap for å vurdere og avklare bekymringsmeldinger og undersøke omsorgssituasjonen til barn og unge og iverksette, følge opp, koordinere og evaluere tiltak
+9. kan anvende faglig kunnskap og arbeide tverrfaglig i møte med mennesker som utøver og utsettes for vold og overgrep
+10. kan samtale med barn om tema som omsorgssvikt, vold og overgrep
+11. kan vurdere og sette inn tiltak som forebygger og reduserer konsekvensene av vold, overgrep og omsorgssvikt, overfor barn og voksne i alle aldre
+12. kan beherske digitale verktøy og reflektere over faglige og etiske perspektiver knyttet til anvendelsen av disse i sosialt arbeid
+13. kan beherske metoder i samfunnsarbeid som fremmer makt, innflytelse, deltakelse og representasjon
+14. kan beherske aktuelle metoder for kartlegging, dokumentasjon, analyse og beslutningstaking, og ta hensyn til ulike språklige barrierer i kommunikasjon og formidling
+15. kan reflektere over, håndtere og redusere uønskede hendelser og konfliktsituasjoner i sitt arbeid
+16. kan reflektere over og anvende kunnskap som bidrar til et likeverdig tjenestetilbud for samiske brukere.
 
 [§ 9 bokstav c](forskrift/2025-07-04-1465/§9/bokstav/c) og [d](forskrift/2025-07-04-1465/§9/bokstav/d) skal lyde:
 

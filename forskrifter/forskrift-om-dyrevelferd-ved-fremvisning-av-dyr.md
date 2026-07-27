@@ -57,7 +57,11 @@ Dyreparker kan søke om tillatelse fra Mattilsynet til å fremvise andre arter e
 
 Sirkus som skal vise frem dyr, må søke om tillatelse fra Mattilsynet.
 
-Søknad om tillatelse skal i tillegg til opplysninger som fremgår av [§ 10](forskrift/2016-09-05-1035/§10) andre ledd, inneholde beskrivelser av:dyreart og antall dyrpersonalets kunnskap om og ferdigheter i tilsyn med og håndtering og stell av dyreartennødvendige tiltak for å ivareta god velferd for dyrearten.
+Søknad om tillatelse skal i tillegg til opplysninger som fremgår av [§ 10](forskrift/2016-09-05-1035/§10) andre ledd, inneholde beskrivelser av:
+
+1. dyreart og antall dyr
+2. personalets kunnskap om og ferdigheter i tilsyn med og håndtering og stell av dyrearten
+3. nødvendige tiltak for å ivareta god velferd for dyrearten.
 
 Tillatelse etter denne forskriften fritar ikke for plikt til å påse at fremvisning er tillatt etter annet regelverk.
 
@@ -69,7 +73,11 @@ Den ansvarlige for fremvisningen skal sørge for at dyrene får tilsyn og stell 
 
 ### § 6. Forbud mot visse typer fremvisning
 
-Det er forbudt å fremvise dyr i aktiviteter som innebærer fare for unødige påkjenninger og belastninger for dyrene, herunder:kamper mellom dyr og mellom mennesker og dyrfalkoneringrodeo.
+Det er forbudt å fremvise dyr i aktiviteter som innebærer fare for unødige påkjenninger og belastninger for dyrene, herunder:
+
+1. kamper mellom dyr og mellom mennesker og dyr
+2. falkonering
+3. rodeo.
 
 Det er forbudt å avlive dyr som underholdning.
 
@@ -129,7 +137,16 @@ Det skal være lett synlig informasjon på oppholdssteder for dyr der publikum h
 
 Fremvisning av dyr skal være meldt til Mattilsynet senest 1 uke før fremvisningen starter. Endringer i opplysningene skal meldes til Mattilsynet så snart som mulig.
 
-Meldingen skal inneholde nødvendige og relevante opplysninger om:den ansvarlige for fremvisningennavn på virksomhetenhvor fremvisningen skal skjetype fremvisningdato for oppstartfor midlertidig fremvisning dato og klokkeslett for oppstart og sluttdyrearter og antall dyr som skal fremvisesopprinnelsessted til dyrene.
+Meldingen skal inneholde nødvendige og relevante opplysninger om:
+
+1. den ansvarlige for fremvisningen
+2. navn på virksomheten
+3. hvor fremvisningen skal skje
+4. type fremvisning
+5. dato for oppstart
+6. for midlertidig fremvisning dato og klokkeslett for oppstart og slutt
+7. dyrearter og antall dyr som skal fremvises
+8. opprinnelsessted til dyrene.
 
 Mattilsynet spesifiserer i meldesystemet hva som er nødvendige og relevante opplysninger etter annet ledd.
 
@@ -139,7 +156,13 @@ Midlertidig fremvisning av kjæledyr der eieren ledsager dyret og har ansvaret f
 
 ### § 11. Tilleggskrav ved melding om dyrepark
 
-Melding om fremvisning i dyrepark skal i tillegg til det som er nevnt i [§ 10](forskrift/2016-09-05-1035/§10), inneholde følgende opplysninger:beskrivelse av driftsform og driftsplanbeskrivelse av system for dokumentasjon i henhold til [§ 12](forskrift/2016-09-05-1035/§12)kart som viser fremvisningsstedets geografiske plasseringplantegning over fremvisningsstedetdokumentasjon som viser at virksomhetens økonomi kan sikre god dyrevelferd.
+Melding om fremvisning i dyrepark skal i tillegg til det som er nevnt i [§ 10](forskrift/2016-09-05-1035/§10), inneholde følgende opplysninger:
+
+1. beskrivelse av driftsform og driftsplan
+2. beskrivelse av system for dokumentasjon i henhold til [§ 12](forskrift/2016-09-05-1035/§12)
+3. kart som viser fremvisningsstedets geografiske plassering
+4. plantegning over fremvisningsstedet
+5. dokumentasjon som viser at virksomhetens økonomi kan sikre god dyrevelferd.
 
 Dersom det ansees nødvendig, kan Mattilsynet kreve ytterligere opplysninger.
 
@@ -147,7 +170,13 @@ Dersom det ansees nødvendig, kan Mattilsynet kreve ytterligere opplysninger.
 
 Etterlevelse av forskriftsfestede krav til ivaretakelse av dyrenes velferd skal kunne dokumenteres, herunder personalets kunnskaper og ferdigheter, samt rutiner for fremvisning, fôring og stell.
 
-For fremvisning i dyreparker og sirkus skal det føres løpende journal med nødvendige opplysninger om:dyrearterantall dyr av hver artfødsler, sykdom og skaderdøde dyr med sannsynlig årsaktilsyn og behandling utført eller foreskrevet av veterinær eller fiskehelsebiolog.
+For fremvisning i dyreparker og sirkus skal det føres løpende journal med nødvendige opplysninger om:
+
+1. dyrearter
+2. antall dyr av hver art
+3. fødsler, sykdom og skader
+4. døde dyr med sannsynlig årsak
+5. tilsyn og behandling utført eller foreskrevet av veterinær eller fiskehelsebiolog.
 
 Dokumentasjonen skal oppbevares i minst fem år for dyreparker og hele den aktuelle sesongen for sirkus. Dokumentasjonen skal på forespørsel legges frem for Mattilsynet.
 
@@ -155,7 +184,14 @@ Dokumentasjonen skal oppbevares i minst fem år for dyreparker og hele den aktue
 
 ### § 13. Tilleggskrav for levemiljø og oppholdssted
 
-I tillegg til krav i [§ 8](forskrift/2016-09-05-1035/§8) og [§ 9](forskrift/2016-09-05-1035/§9) gjelder følgende krav:oppholdssteder for dyr skal ha utforming, innredning og materialer som er egnet for rengjøring og desinfeksjonoppholdssteder for dyr og lager for fôr skal være tilstrekkelig sikret mot skadedyr, og om nødvendig skal det foretas skadedyrbekjempelseinnendørs oppholdssteder skal ha lysforhold, temperatur og luftkvalitet tilpasset dyrenes behovfor dyr med naturlig levested under andre klimatiske forhold enn i Norge skal det legges spesielt til rette for å ivareta særlige krav til temperatur og luftfuktighet, om nødvendig med egnet klimareguleringuteområder for landdyr skal ha egnet underlag og om nødvendig være drenert slik at det ikke blir gjørmetedet skal være avsatt egnede oppholdssteder for dyr som er syke eller skadde, for dyr som skal føde eller ruge, og for nyfødte/nyklekte unger. Det skal finnes egnede steder for isolasjon av dyr som mistenkes å ha en smittsom sykdom.
+I tillegg til krav i [§ 8](forskrift/2016-09-05-1035/§8) og [§ 9](forskrift/2016-09-05-1035/§9) gjelder følgende krav:
+
+1. oppholdssteder for dyr skal ha utforming, innredning og materialer som er egnet for rengjøring og desinfeksjon
+2. oppholdssteder for dyr og lager for fôr skal være tilstrekkelig sikret mot skadedyr, og om nødvendig skal det foretas skadedyrbekjempelse
+3. innendørs oppholdssteder skal ha lysforhold, temperatur og luftkvalitet tilpasset dyrenes behov
+4. for dyr med naturlig levested under andre klimatiske forhold enn i Norge skal det legges spesielt til rette for å ivareta særlige krav til temperatur og luftfuktighet, om nødvendig med egnet klimaregulering
+5. uteområder for landdyr skal ha egnet underlag og om nødvendig være drenert slik at det ikke blir gjørmete
+6. det skal være avsatt egnede oppholdssteder for dyr som er syke eller skadde, for dyr som skal føde eller ruge, og for nyfødte/nyklekte unger. Det skal finnes egnede steder for isolasjon av dyr som mistenkes å ha en smittsom sykdom.
 
 ### § 14. Helse
 
@@ -195,6 +231,82 @@ Samtidig oppheves [forskrift 27. mars 2012 nr. 261](forskrift/2012-03-27-261) om
 
 ## Vedlegg 1. Dyrearter som er tillatt i dyreparker og ved midlertidig fremvisning uten særlig tillatelse
 
-1. *Følgende dyrearter er tillatt for fremvisning:**Pattedyr*Dromedar, *Camelus dromedarius*Esel, tamformer av *Equus asinus*Hest, tamformer av *Equus caballus*Hund, tamformer av *Canis familiaris*Kamel, *Camelus bactrianus*Kanin, tamformer av familien *Leporidae*Katt, tamformer av *Felis silvestris catus*Lama, *Lama glama* og alpakka *Vicugna pacos*MuldyrMuleselSau og geit, tamformer av *Ovis aries* og *Capra hircus*Storfe, *Bos taurus* og *Bos indicus*Svin, tamformer av *Sus domestica*Tamrein *Rangifer tarandus tarandus*Chinchilla *Chinchilla laniger* (domestisert form som er i handelen)Degus *Octodon degus*Hamstertyper:Campbells (stripet) dverghamster *Phodopus campbellii*Dverghamster krysning *Phodopus campbellii x sungorus*Gullhamster *Mesocricetus auratus*Kinesisk hamster *Cricetulus griseus*Roborovski dverghamster *Phodopus roborovskii*Russisk (sibirsk) dverghamster *Phodopus sungorus*Ilder, domestiserte krysninger med utgangspunkt i *Mustela putorius*Marsvin *Cavia porcellus*Mus, domestiserte former av *Mus musculus*Rotte, domestiserte former av *Rattus norvegicus*Ørkenrotte *Meriones unquiculatus*.*Fugler*And, rene tamformer av artene stokkand *Anas platyrhynchos* og moskusand *Cairina moschata*Gås, rene tamformer av arten grågås *Anser anser*Høne, rene tamformer av *Gallus gallus*Kalkun *Meleagris gallopavo*Tamdue (artistduer, brevduer) av arten *Colomba livia domestica*Alle fuglearter det er lovlig å holde som husdyr eller hobby/selskapsdyr.*Akvatiske dyr*FiskTifotkrepsBlekksprut.*Reptiler*Reptilarter som er lovlig å holde etter [forskrift 11. mai 2017 nr. 597 om forbud mot å innføre, omsette og holde eksotiske dyr](forskrift/2017-05-11-597).
+1. *Følgende dyrearter er tillatt for fremvisning:*
+
+   1. *Pattedyr*
+
+      Dromedar, *Camelus dromedarius*
+
+      Esel, tamformer av *Equus asinus*
+
+      Hest, tamformer av *Equus caballus*
+
+      Hund, tamformer av *Canis familiaris*
+
+      Kamel, *Camelus bactrianus*
+
+      Kanin, tamformer av familien *Leporidae*
+
+      Katt, tamformer av *Felis silvestris catus*
+
+      Lama, *Lama glama* og alpakka *Vicugna pacos*
+
+      Muldyr
+
+      Mulesel
+
+      Sau og geit, tamformer av *Ovis aries* og *Capra hircus*
+
+      Storfe, *Bos taurus* og *Bos indicus*
+
+      Svin, tamformer av *Sus domestica*
+
+      Tamrein *Rangifer tarandus tarandus*
+
+      Chinchilla *Chinchilla laniger* (domestisert form som er i handelen)
+
+      Degus *Octodon degus*
+
+      Hamstertyper:
+
+      - Campbells (stripet) dverghamster *Phodopus campbellii*
+      - Dverghamster krysning *Phodopus campbellii x sungorus*
+      - Gullhamster *Mesocricetus auratus*
+      - Kinesisk hamster *Cricetulus griseus*
+      - Roborovski dverghamster *Phodopus roborovskii*
+      - Russisk (sibirsk) dverghamster *Phodopus sungorus*
+
+      Ilder, domestiserte krysninger med utgangspunkt i *Mustela putorius*
+
+      Marsvin *Cavia porcellus*
+
+      Mus, domestiserte former av *Mus musculus*
+
+      Rotte, domestiserte former av *Rattus norvegicus*
+
+      Ørkenrotte *Meriones unquiculatus*.
+   2. *Fugler*
+
+      And, rene tamformer av artene stokkand *Anas platyrhynchos* og moskusand *Cairina moschata*
+
+      Gås, rene tamformer av arten grågås *Anser anser*
+
+      Høne, rene tamformer av *Gallus gallus*
+
+      Kalkun *Meleagris gallopavo*
+
+      Tamdue (artistduer, brevduer) av arten *Colomba livia domestica*
+
+      Alle fuglearter det er lovlig å holde som husdyr eller hobby/selskapsdyr.
+   3. *Akvatiske dyr*
+
+      Fisk
+
+      Tifotkreps
+
+      Blekksprut.
+   4. *Reptiler*
+
+      Reptilarter som er lovlig å holde etter [forskrift 11. mai 2017 nr. 597 om forbud mot å innføre, omsette og holde eksotiske dyr](forskrift/2017-05-11-597).
 
 > Endret ved forskrift [19 jan 2021 nr. 133](forskrift/2021-01-19-133).

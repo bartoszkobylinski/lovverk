@@ -38,7 +38,18 @@ De som utøver klareringsmyndighet, skal ha klarering for det høyeste klarering
 
 ### § 2. Definisjoner
 
-I forskriften menes med*nærstående*: personer som er i nær familie eller som har annen nær tilknytning som kan ha betydning for om en person er sikkerhetsmessig skikket*nær familie:*ektefelle, partner eller samboerbarn, stebarn, adoptivbarn og fosterbarnforeldre, steforeldre, adoptivforeldre, fosterforeldresøsken, halvsøsken, stesøsken, adoptivsøsken og fostersøsken*samboere:* personer som lever sammen i et ekteskapslignende forhold*annen nær tilknytning:* tett personlig forhold, regelmessig privat omgang eller annen tilknytning av lignende karakter som personer i nær familie eller samboere*personkontrollopplysninger:* Personopplysninger innhentet i forbindelse med personkontroll etter [sikkerhetsloven § 8-5](lov/2018-06-01-24/§8-5).
+I forskriften menes med
+
+1. *nærstående*: personer som er i nær familie eller som har annen nær tilknytning som kan ha betydning for om en person er sikkerhetsmessig skikket
+2. *nær familie:*
+
+   1. ektefelle, partner eller samboer
+   2. barn, stebarn, adoptivbarn og fosterbarn
+   3. foreldre, steforeldre, adoptivforeldre, fosterforeldre
+   4. søsken, halvsøsken, stesøsken, adoptivsøsken og fostersøsken
+3. *samboere:* personer som lever sammen i et ekteskapslignende forhold
+4. *annen nær tilknytning:* tett personlig forhold, regelmessig privat omgang eller annen tilknytning av lignende karakter som personer i nær familie eller samboere
+5. *personkontrollopplysninger:* Personopplysninger innhentet i forbindelse med personkontroll etter [sikkerhetsloven § 8-5](lov/2018-06-01-24/§8-5).
 
 ### § 3. Hvem som kan be om klarering
 
@@ -54,7 +65,11 @@ Før klareringsmyndigheten kan be Nasjonal sikkerhetsmyndighet om å gjennomfør
 
 ### § 5. Hvilke personer som inngår i personkontrollen
 
-De personkontrollene som skal gjennomføres ved sikkerhetsklarering, omfatterfor KONFIDENSIELT den som skal klareresfor HEMMELIG den som skal klareres og dennes ektefelle, samboer eller partnerfor STRENGT HEMMELIG den som skal klareres og nær familie.
+De personkontrollene som skal gjennomføres ved sikkerhetsklarering, omfatter
+
+1. for KONFIDENSIELT den som skal klareres
+2. for HEMMELIG den som skal klareres og dennes ektefelle, samboer eller partner
+3. for STRENGT HEMMELIG den som skal klareres og nær familie.
 
 Dersom opplysninger fra personkontrollen gir rimelig grunn til å tro at andre nærstående enn de som er fastsatt i første ledd kan påvirke personens pålitelighet, lojalitet eller dømmekraft, kan også disse inngå i personkontrollen.
 
@@ -62,7 +77,25 @@ Personkontrollen ved adgangsklarering omfatter den som skal klareres. Dersom det
 
 ### § 6. Sikkerhetsklarering – krav til egenopplysninger
 
-Den som skal sikkerhetsklareres, skal på skjema fastsatt av Sivil klareringsmyndighet samtykke til personkontrollen. På skjemaet kan Sivil klareringsmyndighet be den som skal klareres, opplyse ompersonalianåværende og tidligere statsborgerskap, eventuelt om pass uten statsborgerskapbostedsadresser og opphold utenfor Norgesivil status og familieforholdutdanning og arbeidsforholdman har vært anmeldt, siktet eller tiltalt for straffbare forhold, eller er blitt ilagt strafferettslige og disiplinære reaksjoner i Norge eller i utlandeteiendom eller andre økonomiske interesser man har eller har hatt i utlandetman selv eller noen i nær familie som man deler bosted med, sender eller mottar penger eller andre ytelser til eller fra utlandettilknytning til andre staterman har vært i kontakt med personer, organisasjoner eller grupper i Norge eller utlandet som kan ha vært involvert i organisert kriminalitet eller i spionasje, sabotasje eller terrorhandlingerforhold som kan føre til at man selv eller nærstående, jf. [§ 2 bokstav a](forskrift/2018-12-20-2054/§2/bokstav/a), utsettes for trusler slik at man kan bli presset til å handle i strid med nasjonale sikkerhetsinteresserøkonomiske forholdforhold til rus- og dopingmidlerhelsetilstand og bruk av medisinerandre forhold som kan gi grunn til å frykte at man selv vil kunne opptre i strid med nasjonale sikkerhetsinteresserreferanserkjennskap om forhold angitt i bokstav f til j om nærstående, jf. [§ 2 bokstav a](forskrift/2018-12-20-2054/§2/bokstav/a).
+Den som skal sikkerhetsklareres, skal på skjema fastsatt av Sivil klareringsmyndighet samtykke til personkontrollen. På skjemaet kan Sivil klareringsmyndighet be den som skal klareres, opplyse om
+
+1. personalia
+2. nåværende og tidligere statsborgerskap, eventuelt om pass uten statsborgerskap
+3. bostedsadresser og opphold utenfor Norge
+4. sivil status og familieforhold
+5. utdanning og arbeidsforhold
+6. man har vært anmeldt, siktet eller tiltalt for straffbare forhold, eller er blitt ilagt strafferettslige og disiplinære reaksjoner i Norge eller i utlandet
+7. eiendom eller andre økonomiske interesser man har eller har hatt i utlandet
+8. man selv eller noen i nær familie som man deler bosted med, sender eller mottar penger eller andre ytelser til eller fra utlandet
+9. tilknytning til andre stater
+10. man har vært i kontakt med personer, organisasjoner eller grupper i Norge eller utlandet som kan ha vært involvert i organisert kriminalitet eller i spionasje, sabotasje eller terrorhandlinger
+11. forhold som kan føre til at man selv eller nærstående, jf. [§ 2 bokstav a](forskrift/2018-12-20-2054/§2/bokstav/a), utsettes for trusler slik at man kan bli presset til å handle i strid med nasjonale sikkerhetsinteresser
+12. økonomiske forhold
+13. forhold til rus- og dopingmidler
+14. helsetilstand og bruk av medisiner
+15. andre forhold som kan gi grunn til å frykte at man selv vil kunne opptre i strid med nasjonale sikkerhetsinteresser
+16. referanser
+17. kjennskap om forhold angitt i bokstav f til j om nærstående, jf. [§ 2 bokstav a](forskrift/2018-12-20-2054/§2/bokstav/a).
 
 Har den som skal klareres, slik kjennskap som angitt i første ledd bokstav q, kan Sivil klareringsmyndighet be om at relasjonen til den nærstående beskrives.
 
@@ -82,15 +115,39 @@ Fra den som skal gis utvidet adgangsklarering, kan Sivil klareringsmyndighet be 
 
 ### § 8. Registeropplysninger til personkontrollen ved sikkerhetsklarering
 
-Som ledd i personkontrollen ved en sikkerhetsklarering, kan Nasjonal sikkerhetsmyndighet innhente og videreformidle til klareringsmyndigheten opplysninger frapolitiets registreregistre hos Politiets sikkerhetstjenesteSkatteetatens registreNasjonal sikkerhetsmyndighets egne registreArbeidsgiver- og arbeidstakerregisteretUtlendingsdirektoratets registreregistre hos namsmyndigheteneKartverkets registreBrønnøysundregistreneregistre med gjeldsinformasjon eller kredittopplysninger hos foretak som regnes som gjeldsinformasjonsforetak eller kredittopplysningsforetak etter gjeldsinformasjonslovenregistre hos private inkassatorer som har bevilgning etter inkassoloven.
+Som ledd i personkontrollen ved en sikkerhetsklarering, kan Nasjonal sikkerhetsmyndighet innhente og videreformidle til klareringsmyndigheten opplysninger fra
+
+1. politiets registre
+2. registre hos Politiets sikkerhetstjeneste
+3. Skatteetatens registre
+4. Nasjonal sikkerhetsmyndighets egne registre
+5. Arbeidsgiver- og arbeidstakerregisteret
+6. Utlendingsdirektoratets registre
+7. registre hos namsmyndighetene
+8. Kartverkets registre
+9. Brønnøysundregistrene
+10. registre med gjeldsinformasjon eller kredittopplysninger hos foretak som regnes som gjeldsinformasjonsforetak eller kredittopplysningsforetak etter gjeldsinformasjonsloven
+11. registre hos private inkassatorer som har bevilgning etter inkassoloven.
 
 Til personkontrollen av nærstående kan Nasjonal sikkerhetsmyndighet innhente og videreformidle til klareringsmyndigheten opplysninger som kreves etter første ledd bokstav a til f.
 
 ### § 9. Registeropplysninger til personkontrollen ved adgangsklarering
 
-Som ledd i personkontrollen ved en adgangsklarering, kan Nasjonal sikkerhetsmyndighet innhente og videreformidle til klareringsmyndigheten opplysninger frapolitiets registreregistre hos Politiets sikkerhetstjenesteSkatteetatens registreNasjonal sikkerhetsmyndighets egne registreArbeidsgiver- og arbeidstakerregisteret.
+Som ledd i personkontrollen ved en adgangsklarering, kan Nasjonal sikkerhetsmyndighet innhente og videreformidle til klareringsmyndigheten opplysninger fra
 
-Til personkontrollen ved en utvidet adgangsklarering kan Nasjonal sikkerhetsmyndighet i tillegg til opplysningene i første ledd innhente og videreformidle til klareringsmyndigheten opplysninger fraUtlendingsdirektoratets registrenamsmyndighetens registreKartverkets registreregistre med gjeldsinformasjon eller kredittopplysninger hos foretak som regnes som gjeldsinformasjonsforetak eller kredittopplysningsforetak etter gjeldsinformasjonslovenregistre hos private inkassatorer som har bevilgning etter inkassoloven.
+1. politiets registre
+2. registre hos Politiets sikkerhetstjeneste
+3. Skatteetatens registre
+4. Nasjonal sikkerhetsmyndighets egne registre
+5. Arbeidsgiver- og arbeidstakerregisteret.
+
+Til personkontrollen ved en utvidet adgangsklarering kan Nasjonal sikkerhetsmyndighet i tillegg til opplysningene i første ledd innhente og videreformidle til klareringsmyndigheten opplysninger fra
+
+1. Utlendingsdirektoratets registre
+2. namsmyndighetens registre
+3. Kartverkets registre
+4. registre med gjeldsinformasjon eller kredittopplysninger hos foretak som regnes som gjeldsinformasjonsforetak eller kredittopplysningsforetak etter gjeldsinformasjonsloven
+5. registre hos private inkassatorer som har bevilgning etter inkassoloven.
 
 Til personkontrollen av nærstående ved en utvidet adgangsklarering kan Nasjonal sikkerhetsmyndighet innhente og videreformidle til klareringsmyndigheten opplysninger innhentet etter første ledd og andre ledd bokstav a.
 
@@ -116,7 +173,13 @@ For at en personkontroll skal kunne brukes i en adgangsklarering, skal alle regi
 
 For at en personkontroll skal kunne brukes i en klarering av en person som har oppholdt seg i utlandet, må Norge ha et sikkerhetssamarbeid med oppholdsstatene som gjør det mulig for Nasjonal sikkerhetsmyndighet å innhente registeropplysningene angitt i [§ 8](forskrift/2018-12-20-2054/§8) og [§ 9](forskrift/2018-12-20-2054/§9) fra disse statenes myndigheter. Dersom Nasjonal sikkerhetsmyndighet ikke kan innhente registeropplysninger fra en annen stat, skal klareringsmyndigheten vurdere om opplysningene som stammer fra andre kilder, og som er mulig å verifisere på en enkel måte, kan kompensere for manglende eller ufullstendige registeropplysninger.
 
-Er det grunn til å tro at mangelen i personhistorikk har liten betydning for vurderingen om personen er sikkerhetsmessig skikket, skal klareringsmyndigheten vurdere om klarering likevel kan gis. I vurderingen skal klareringsmyndigheten ta hensyn til blant annetbakgrunnen for den manglende personhistorikkenhvilken type klarering og hvilket klareringsnivå saken gjelderhvilke stater den manglende personhistorikken er knyttet tilom den manglende personhistorikken gjelder den som skal klareres, eller dennes nærståenderelasjonen mellom den nærstående og den som skal klareres, dersom den manglende personhistorikken gjelder en nærstående.
+Er det grunn til å tro at mangelen i personhistorikk har liten betydning for vurderingen om personen er sikkerhetsmessig skikket, skal klareringsmyndigheten vurdere om klarering likevel kan gis. I vurderingen skal klareringsmyndigheten ta hensyn til blant annet
+
+1. bakgrunnen for den manglende personhistorikken
+2. hvilken type klarering og hvilket klareringsnivå saken gjelder
+3. hvilke stater den manglende personhistorikken er knyttet til
+4. om den manglende personhistorikken gjelder den som skal klareres, eller dennes nærstående
+5. relasjonen mellom den nærstående og den som skal klareres, dersom den manglende personhistorikken gjelder en nærstående.
 
 ### § 14. Personer med tjeneste i utlandet for den norske stat og deres nærstående
 
@@ -206,7 +269,13 @@ I vurderingen av om det foreligger et særlig behov skal det legges vekt på om 
 
 ### § 28. Register over avgjørelser om personklarering
 
-Nasjonal sikkerhetsmyndighet skal ha et register over alle klareringsavgjørelser som skal inneholde informasjon omklareringsstatusvilkår knyttet til klareringenden klarertes tilknytning til andre staterhvilken virksomhet som har bedt om klareringenden klarertes autorisasjonsstatus, når den er tilgjengelig.
+Nasjonal sikkerhetsmyndighet skal ha et register over alle klareringsavgjørelser som skal inneholde informasjon om
+
+1. klareringsstatus
+2. vilkår knyttet til klareringen
+3. den klarertes tilknytning til andre stater
+4. hvilken virksomhet som har bedt om klareringen
+5. den klarertes autorisasjonsstatus, når den er tilgjengelig.
 
 Opplysninger om klareringsstatus kan utleveres til klareringsmyndigheter og autorisasjonsansvarlige.
 
@@ -236,7 +305,12 @@ Nasjonal sikkerhetsmyndighet klarerer norske leverandører i forbindelse med sik
 
 ### § 33. Vurderingsgrunnlaget for leverandørklarering
 
-Før en leverandørklarering kan gis, skal leverandøren oppfylle kravene i sikkerhetsloven og virksomhetsikkerhetsforskriften. I tillegg kan det i vurderingen av om leverandørklareringen skal gis, legges vekt påøkonomiske forhold, også risikoen for insolvensorganisasjonsform og eierstrukturom virksomheten er registrert med straffbare forholdom det foreligger andre forhold som kan gi grunn til å tro at leverandøren vil kunne opptre i strid med nasjonale sikkerhetsinteresser.
+Før en leverandørklarering kan gis, skal leverandøren oppfylle kravene i sikkerhetsloven og virksomhetsikkerhetsforskriften. I tillegg kan det i vurderingen av om leverandørklareringen skal gis, legges vekt på
+
+1. økonomiske forhold, også risikoen for insolvens
+2. organisasjonsform og eierstruktur
+3. om virksomheten er registrert med straffbare forhold
+4. om det foreligger andre forhold som kan gi grunn til å tro at leverandøren vil kunne opptre i strid med nasjonale sikkerhetsinteresser.
 
 Før en leverandørklaring kan gis, skal virksomhetens leder og styremedlemmer klareres for det samme nivå som det er bedt om leverandørklarering for.
 
@@ -244,13 +318,27 @@ En leverandørklarering kan likevel gis dersom det styremedlem eller virksomhete
 
 ### § 34. Egenopplysninger fra leverandøren
 
-En leverandør som skal klareres, skal gi samtykke til å bli kontrollert og i skjema fastsatt av Nasjonal sikkerhetsmyndighet gi opplysninger omleverandørens navn, adresse og eierstrukturutenlandske eierinteresser i leverandørenleverandørens eierinteresser i utlandetnavn, fødselsnummer og statsborgerskap for virksomhetens lederpågående oppdrag for utenlandske oppdragsgivere, med opplysninger om oppdragsgivere og hvilken andel av leverandørens omsetning oppdragene utgjør.
+En leverandør som skal klareres, skal gi samtykke til å bli kontrollert og i skjema fastsatt av Nasjonal sikkerhetsmyndighet gi opplysninger om
+
+1. leverandørens navn, adresse og eierstruktur
+2. utenlandske eierinteresser i leverandøren
+3. leverandørens eierinteresser i utlandet
+4. navn, fødselsnummer og statsborgerskap for virksomhetens leder
+5. pågående oppdrag for utenlandske oppdragsgivere, med opplysninger om oppdragsgivere og hvilken andel av leverandørens omsetning oppdragene utgjør.
 
 Leverandøren skal sammen med skjemaet levere skisser eller tegninger over lokalene som skal brukes til behandling og oppbevaring av sikkerhetsgradert informasjon.
 
 ### § 35. Andre kilder for leverandørklarering
 
-I tillegg til å innhente opplysninger fra leverandøren kan klareringsmyndigheten innhente opplysninger om leverandøren frapolitiets registreregistre hos Politiets sikkerhetstjenesteSkatteetatens registreBrønnøysundregistreneregistre med kredittopplysninger hos foretak som regnes som kredittopplysningsforetakregistre hos private inkassatorer som har bevilling etter inkassolovenklareringsmyndighetens egne registre.
+I tillegg til å innhente opplysninger fra leverandøren kan klareringsmyndigheten innhente opplysninger om leverandøren fra
+
+1. politiets registre
+2. registre hos Politiets sikkerhetstjeneste
+3. Skatteetatens registre
+4. Brønnøysundregistrene
+5. registre med kredittopplysninger hos foretak som regnes som kredittopplysningsforetak
+6. registre hos private inkassatorer som har bevilling etter inkassoloven
+7. klareringsmyndighetens egne registre.
 
 ### § 36. Kontroll av om leverandøren oppfyller sikkerhetskravene
 
@@ -274,7 +362,12 @@ En leverandørklarering kan gis for inntil fem år, med mindre annet følger av 
 
 ### § 39. Register over leverandørklareringer og sikkerhetsgraderte anskaffelser
 
-Nasjonal sikkerhetsmyndighet skal ha et register over alle leverandørklareringer som skal inneholde informasjon omklareringsstatusvilkår knyttet til klareringenleverandørens tilknytning til andre staterhvilken oppdragsgiver som har bedt om klareringen.
+Nasjonal sikkerhetsmyndighet skal ha et register over alle leverandørklareringer som skal inneholde informasjon om
+
+1. klareringsstatus
+2. vilkår knyttet til klareringen
+3. leverandørens tilknytning til andre stater
+4. hvilken oppdragsgiver som har bedt om klareringen.
 
 Nasjonal sikkerhetsmyndighet skal ha et register over alle sikkerhetsgraderte anskaffelser. Registeret skal inneholde opplysningene som oppdragsgiver har innmeldt i samsvar med [virksomhetsikkerhetsforskriften § 86](forskrift/2018-12-20-2053/§86).
 
@@ -290,7 +383,11 @@ Dersom det er av sikkerhetsmessig betydning for det landet eller organisasjonen 
 
 I saker for domstolene hvor det kan bli gitt opplysninger om sikkerhetsgradert informasjon, er høyesterettsjustitiarius klareringsmyndighet og autorisasjonsansvarlig for Høyesterett og førstelagmannen i lagmannsrettene. Justitiarius er også klageinstans for klareringsavgjørelser fattet av lavere rettsinstanser.
 
-Førstelagmannen i hver lagmannsrett erklareringsmyndighet og autorisasjonsansvarlig for sin lagmannsrettklareringsmyndighet og autorisasjonsansvarlig for sorenskriverne og for øverste leder i særdomstolene.klareringsmyndighet for øvrige ansatte i de lavere rettsinstansene.
+Førstelagmannen i hver lagmannsrett er
+
+1. klareringsmyndighet og autorisasjonsansvarlig for sin lagmannsrett
+2. klareringsmyndighet og autorisasjonsansvarlig for sorenskriverne og for øverste leder i særdomstolene.
+3. klareringsmyndighet for øvrige ansatte i de lavere rettsinstansene.
 
 Sorenskriveren og øverste leder i særdomstolene er autorisasjonsansvarlig for egen domstol.
 

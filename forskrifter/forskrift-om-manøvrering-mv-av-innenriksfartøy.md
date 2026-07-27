@@ -15,7 +15,7 @@ xml_hash: "d7e6c9d8f64069643da74eb5692b5123c53e29b5ade9d35ce3562525c7c4a384"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,25 @@ Når denne forskriften inneholder bestemmelser av samme eller tilsvarende art so
 
 ## § 2. Definisjoner
 
-I denne forskrift betyr:*Administrasjon:* Uttrykket «administrasjon» i koden skal forstås som Sjøfartsdirektoratet.*Eksisterende fartøy:* Fartøy som ikke er et nytt fartøy.*Godkjent, typegodkjent og akseptert:*For utstyr som omfattes av skipsutstyrsforskriften: Typegodkjent av teknisk kontrollorgan og merket i henhold til nevnte forskrift.For annet utstyr:Godkjent: Et enkelt utstyr godkjent av Sjøfartsdirektoratet, med unntak av radioutstyr som godkjennes av Post- og teletilsynet.Typegodkjent: Prototype godkjent av Sjøfartsdirektoratet med eller uten stikkprøvekontroll av serieproduksjon.Akseptert: Utstyr akseptert av Sjøfartsdirektoratet på bakgrunn av at det er godkjent eller typegodkjent av anerkjent klasseinstitusjon, annen offentlig eller privat institusjon eller administrasjon i et land som har ratifisert Sjøsikkerhetskonvensjonen.*Hurtiggående fartøy:* Fartøy som definert i SOLAS kapittel X Regel 1.3 og som kan oppnå en hastighet på 20 knop eller mer.*HSC94-koden:* De internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO Res.MSC.36(63) 20. mai 1994 sist endret ved IMO Res.MSC.259(84).*HSC2000-koden:* De internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO Res.MSC.97(73) 5. desember 2000 sist endret ved IMO Res.271(85).*Nytt fartøy:* Skip hvor kjølen strekkes, eller som er på et liknende byggetrinn på eller etter 14. februar 2012.*Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.*Sjøsikkerhetskonvensjonen ([SOLAS):](traktat/1974-11-01-1)* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.*Skipssikkerhetsloven:* [Lov 16. februar 2007 nr. 9](lov/2007-02-16-9) om skipssikkerhet.
+I denne forskrift betyr:
+
+1. *Administrasjon:* Uttrykket «administrasjon» i koden skal forstås som Sjøfartsdirektoratet.
+2. *Eksisterende fartøy:* Fartøy som ikke er et nytt fartøy.
+3. *Godkjent, typegodkjent og akseptert:*
+
+   1. For utstyr som omfattes av skipsutstyrsforskriften: Typegodkjent av teknisk kontrollorgan og merket i henhold til nevnte forskrift.
+   2. For annet utstyr:
+
+      1. Godkjent: Et enkelt utstyr godkjent av Sjøfartsdirektoratet, med unntak av radioutstyr som godkjennes av Post- og teletilsynet.
+      2. Typegodkjent: Prototype godkjent av Sjøfartsdirektoratet med eller uten stikkprøvekontroll av serieproduksjon.
+      3. Akseptert: Utstyr akseptert av Sjøfartsdirektoratet på bakgrunn av at det er godkjent eller typegodkjent av anerkjent klasseinstitusjon, annen offentlig eller privat institusjon eller administrasjon i et land som har ratifisert Sjøsikkerhetskonvensjonen.
+4. *Hurtiggående fartøy:* Fartøy som definert i SOLAS kapittel X Regel 1.3 og som kan oppnå en hastighet på 20 knop eller mer.
+5. *HSC94-koden:* De internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO Res.MSC.36(63) 20. mai 1994 sist endret ved IMO Res.MSC.259(84).
+6. *HSC2000-koden:* De internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO Res.MSC.97(73) 5. desember 2000 sist endret ved IMO Res.271(85).
+7. *Nytt fartøy:* Skip hvor kjølen strekkes, eller som er på et liknende byggetrinn på eller etter 14. februar 2012.
+8. *Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.
+9. *Sjøsikkerhetskonvensjonen ([SOLAS):](traktat/1974-11-01-1)* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.
+10. *Skipssikkerhetsloven:* [Lov 16. februar 2007 nr. 9](lov/2007-02-16-9) om skipssikkerhet.
 
 For øvrig gjelder de definisjoner som er inntatt i Sjøsikkerhetskonvensjonens kapittel X og koden for hurtiggående fartøy.
 
@@ -82,7 +100,9 @@ For hurtiggående fartøy med nye og spesielle konstruksjonsløsninger eller sæ
 
 ## § 9. Opplysninger om styrings- og manøvreringsdyktighet
 
-For eksisterende og nye hurtiggående fartøy, skal opplysningene om styrings- og manøvreringsdyktighet som skal finnes i operasjonshåndboken, jf. HSC94- og HSC2000-kodens nr. 17.2, omfatte forhold som er spesifisert i 17.2 med følgende presisering og tillegg:Kravet til opplysninger vedrørende egenskaper som nevnt i kodenes nr. 17.5 er begrenset til egenskaper avgjørende for sikkerheten for det aktuelle fartøyet. Dessuten skal opplysninger vedrørende sikre maksimumshastigheter, i samsvar med kodenes nr. 17.9, finnes i operasjonshåndboken.
+For eksisterende og nye hurtiggående fartøy, skal opplysningene om styrings- og manøvreringsdyktighet som skal finnes i operasjonshåndboken, jf. HSC94- og HSC2000-kodens nr. 17.2, omfatte forhold som er spesifisert i 17.2 med følgende presisering og tillegg:
+
+- Kravet til opplysninger vedrørende egenskaper som nevnt i kodenes nr. 17.5 er begrenset til egenskaper avgjørende for sikkerheten for det aktuelle fartøyet. Dessuten skal opplysninger vedrørende sikre maksimumshastigheter, i samsvar med kodenes nr. 17.9, finnes i operasjonshåndboken.
 
 > Endret ved [forskrift 14 feb 2012 nr. 236](forskrift/2012-02-14-236).
 
@@ -96,7 +116,17 @@ Istedenfor HSC94- eller HSC2000-kodens nr. 17.5.4.1 gjelder følgende:
 
 Det skal foretas utprøving i operasjonsområdet for å verifisere operasjonsbegrensninger. Utprøving skal skje i henhold til plan avtalt mellom rederi, verksted og Sjøfartsdirektoratet.
 
-Ved verifisering av operasjonsbegrensninger skal man spesielt være oppmerksom på følgende aspekter under normal operasjon og etter feil:giring,svinging,styreegenskaper,stopping i normale situasjoner og nødsituasjoner,stabilitet i ikke-deplasementmodus om tre akser og i hiv,trim,rull,nedpløying ogløftekraftbegrensninger.
+Ved verifisering av operasjonsbegrensninger skal man spesielt være oppmerksom på følgende aspekter under normal operasjon og etter feil:
+
+1. giring,
+2. svinging,
+3. styreegenskaper,
+4. stopping i normale situasjoner og nødsituasjoner,
+5. stabilitet i ikke-deplasementmodus om tre akser og i hiv,
+6. trim,
+7. rull,
+8. nedpløying og
+9. løftekraftbegrensninger.
 
 > Endret ved [forskrift 14 feb 2012 nr. 236](forskrift/2012-02-14-236).
 
@@ -112,13 +142,60 @@ Det må tas inn i operasjonshåndboken beskrivelse av de erfarte og eventuelt ut
 
 ## § 13. Operasjonskrav
 
-Kravene til at fartøyene skal være utstyrt med forskjellige typer tekniske håndbøker, jf. HSC94- eller HSC2000-kodens nr. 18.2, gjelder med følgende presiseringer:De tekniske håndbøkene kan begrenses til en operasjonshåndbok og en farvannsmanual.Operasjonshåndboken skal inneholde opplysninger som kreves i henhold til HSC94- eller HSC2000-kodens nr. 18.2.1 operasjonshåndbok, nr. 18.2.3 opplæringshåndbok og nr. 18.2.4 vedlikeholds- og servicehåndbok.
+Kravene til at fartøyene skal være utstyrt med forskjellige typer tekniske håndbøker, jf. HSC94- eller HSC2000-kodens nr. 18.2, gjelder med følgende presiseringer:
+
+- De tekniske håndbøkene kan begrenses til en operasjonshåndbok og en farvannsmanual.
+- Operasjonshåndboken skal inneholde opplysninger som kreves i henhold til HSC94- eller HSC2000-kodens nr. 18.2.1 operasjonshåndbok, nr. 18.2.3 opplæringshåndbok og nr. 18.2.4 vedlikeholds- og servicehåndbok.
 
 Bestemmelsen i HSC94- eller HSC2000-kodens nr. 18.1.3.6 annen setning, med krav til to offiserer på vakt når fartøyet er underveis, gjelder ikke for hurtiggående passasjerfartøy, med mindre to offiserer kreves i de til enhver tid gjeldende bestemmelser om bemanning av norske skip. På hurtiggående fartøy med to eller flere besetningsmedlemmer hvor bare en av dem er navigasjonsoffiser, skal det så langt som praktisk mulig, lages et arrangement på broen som gjør at en av de andre besetningsmedlemmene også har muligheten for å bidra til at sikker navigasjon finner sted.
 
 Operasjonstillatelse og sikkerhetssertifikat utstedes ikke for hurtiggående passasjerfartøy som omfattes av forskriften her. Operasjonsbegrensninger inntas i fartøyenes passasjersertifikat.
 
-Rederiets system for opplæring og bedømmelse av besetningens fartøyspesifikke kompetansenivå krevd i HSC94- eller HSC2000-kodens nr. 18.3 skal minst tilfredsstille følgende kriterier:AssessorRederiet skal utpeke én eller flere assessorer som er kvalifisert i henhold til [forskrift 22. desember 2011 nr. 1523](forskrift/2011-12-22-1523) om kvalifikasjoner og sertifikater for sjøfolk (kvalifikasjonsforskriften) [§ 13](forskrift/2011-12-22-1523/§13).OpplæringRederiets opplæringsprogram skal spesifisere opplæringens varighet og innhold, slik at kandidaten, i tillegg til å tilegne seg kunnskap, har opparbeidet praktiske ferdigheter til å fylle sine oppgaver så vel i normalsituasjon som i nødssituasjon før tiltredelse i stilling ombord. Relevante deler av opplæringen skal foregå når fartøyet er underveis slik at kandidaten blir kjent med alle aktuelle havner og hele operasjonsområdet under dag- og nattseilas med aktuelt fartøy.KompetanseRederiet skal forvisse seg om at ethvert besetningsmedlem innehar de her spesifiserte kompetansenivå før vedkommende tiltrer i stilling.*A= Ledelsesnivå**Ta komplekse strategiske beslutninger på selvstendig grunnlag**Brobesetning**B= Operere**Bruke prosesser, komponenter og systemer på selvstendig grunnlag**C= Forstå**Forstå hensikt, bruk og effekt av prosesser, systemer og komponenter**Fører og Navigatør**Maskinist**Øvrig besetning*.1Kunnskap om alle framdrifts- og kontrollsystemer om bord, herunder kommunikasjons- og navigasjonsutstyr, styringssystemer, elektriske, hydrauliske og pneumatiske systemer og lense- og brannpumper,ABC.2Feilmodus for kontroll-, styrings- og framdriftssystemene og korrekt reaksjon på slike feil,ABC.3Fartøyets manøvreringsegenskaper og operasjonsbegrensninger,ABC.4Brokommunikasjon- og navigasjonsprosedyrer,ACC.5Intakt stabilitet og skadestabilitet og fartøyets overlevelsesevne i skadetilstand,ABC.6Plassering og bruk av fartøyets redningsredskaper, herunder utstyr i redningsfarkostene,ABB.7Plassering og bruk av rømningsveier i fartøyet og evakuering av passasjerene,ABB.8Plassering og bruk av brannbeskyttelses- og brannoppdagelsesredskaper og -systemer i tilfelle brann om bord,ABB.9Plassering og bruk av skadekontrollredskaper og -systemer, herunder betjening av vanntette dører og lensepumper,ABC.10Sikringssystemer for stuing av last og kjøretøyer,ABC.11Metoder for kontroll og kommunikasjon med passasjerer i en nødssituasjon,ABB.12Alle elementer i opplæringshåndboken. Jf. kodens punkt 18.2.3,ABB.13Havner, ruter og spesielle forhold som vedrører operasjon og evakuering av fartøyet. Jf. kodens punkt 18.2.2 Rutehåndbok,ABC.14Operasjonsbegrensinger og grunnlag for operasjonstillatelsen. Jf. kodens punkt 18.1.3,AAC.15Passasjerhåndtering, passasjerkomfort og informasjon til passasjerene, inkludert bruk av PA anlegg under normaloperasjon,ABB.16Rederiets politikk og prosedyrer for passasjerbehandling i samsvar med STCW kodens regel V3 (V2) sett i sammenheng med kodens punkt 18.2.3.24,ABB.17Rederiets politikk og prosedyrer for sikkerhet (Security),ABB.18Rederiets praksis for å sikre et godt arbeidsmiljø (HMS).ABBUtsjekkBedømmelse av kompetansenivå skal bestå av en praktisk og en teoretisk del. Kandidaten skal ved praktisk bruk vise tilfredsstillende ferdigheter i bruk av instrumenter, utstyr og tekniske hjelpemidler som inngår i arbeidsoppgavene.Relevante deler av utsjekken skal foregå når fartøyet er underveis og bestå av minst én ankomst og én avgang i alle aktuelle havner og seilas i hele operasjonsområdet under dag- og nattseilas med aktuelt fartøy.Den fartøysrelaterte utsjekken skal bedømmes av sertifisert assessor, jf. kvalifikasjonsforskriften [§ 13](forskrift/2000-12-22-1574/§13). Den fartøysrelaterte opplæring skal minst tilfredsstille fartøyets operasjons-, opplærings-, vedlikeholds- og servicemanual.Dokumentasjon av utsjekkAlle besetningsmedlemmer skal ha bestått og dokumentert utsjekk før de tiltrer i tjeneste om bord på et fartøy, eller i et nytt operasjonsområde. Ny utsjekk skal gjennomføres før tiltredelse etter opphold i tjenesten på et fartøy eller i en rute på over 6 md.
+Rederiets system for opplæring og bedømmelse av besetningens fartøyspesifikke kompetansenivå krevd i HSC94- eller HSC2000-kodens nr. 18.3 skal minst tilfredsstille følgende kriterier:
+
+1. Assessor
+
+   Rederiet skal utpeke én eller flere assessorer som er kvalifisert i henhold til [forskrift 22. desember 2011 nr. 1523](forskrift/2011-12-22-1523) om kvalifikasjoner og sertifikater for sjøfolk (kvalifikasjonsforskriften) [§ 13](forskrift/2011-12-22-1523/§13).
+2. Opplæring
+
+   Rederiets opplæringsprogram skal spesifisere opplæringens varighet og innhold, slik at kandidaten, i tillegg til å tilegne seg kunnskap, har opparbeidet praktiske ferdigheter til å fylle sine oppgaver så vel i normalsituasjon som i nødssituasjon før tiltredelse i stilling ombord. Relevante deler av opplæringen skal foregå når fartøyet er underveis slik at kandidaten blir kjent med alle aktuelle havner og hele operasjonsområdet under dag- og nattseilas med aktuelt fartøy.
+3. Kompetanse
+
+   Rederiet skal forvisse seg om at ethvert besetningsmedlem innehar de her spesifiserte kompetansenivå før vedkommende tiltrer i stilling.
+
+   | *A= Ledelsesnivå* | *Ta komplekse strategiske beslutninger på selvstendig grunnlag* | *Brobesetning* |  |  |
+   | --- | --- | --- | --- | --- |
+   | *B= Operere* | *Bruke prosesser, komponenter og systemer på selvstendig grunnlag* |  |  |  |
+   | *C= Forstå* | *Forstå hensikt, bruk og effekt av prosesser, systemer og komponenter* |  |  |  |
+   |  |  | *Fører og Navigatør* | *Maskinist* | *Øvrig besetning* |
+   | .1 | Kunnskap om alle framdrifts- og kontrollsystemer om bord, herunder kommunikasjons- og navigasjonsutstyr, styringssystemer, elektriske, hydrauliske og pneumatiske systemer og lense- og brannpumper, | A | B | C |
+   | .2 | Feilmodus for kontroll-, styrings- og framdriftssystemene og korrekt reaksjon på slike feil, | A | B | C |
+   | .3 | Fartøyets manøvreringsegenskaper og operasjonsbegrensninger, | A | B | C |
+   | .4 | Brokommunikasjon- og navigasjonsprosedyrer, | A | C | C |
+   | .5 | Intakt stabilitet og skadestabilitet og fartøyets overlevelsesevne i skadetilstand, | A | B | C |
+   | .6 | Plassering og bruk av fartøyets redningsredskaper, herunder utstyr i redningsfarkostene, | A | B | B |
+   | .7 | Plassering og bruk av rømningsveier i fartøyet og evakuering av passasjerene, | A | B | B |
+   | .8 | Plassering og bruk av brannbeskyttelses- og brannoppdagelsesredskaper og -systemer i tilfelle brann om bord, | A | B | B |
+   | .9 | Plassering og bruk av skadekontrollredskaper og -systemer, herunder betjening av vanntette dører og lensepumper, | A | B | C |
+   | .10 | Sikringssystemer for stuing av last og kjøretøyer, | A | B | C |
+   | .11 | Metoder for kontroll og kommunikasjon med passasjerer i en nødssituasjon, | A | B | B |
+   | .12 | Alle elementer i opplæringshåndboken. Jf. kodens punkt 18.2.3, | A | B | B |
+   | .13 | Havner, ruter og spesielle forhold som vedrører operasjon og evakuering av fartøyet. Jf. kodens punkt 18.2.2 Rutehåndbok, | A | B | C |
+   | .14 | Operasjonsbegrensinger og grunnlag for operasjonstillatelsen. Jf. kodens punkt 18.1.3, | A | A | C |
+   | .15 | Passasjerhåndtering, passasjerkomfort og informasjon til passasjerene, inkludert bruk av PA anlegg under normaloperasjon, | A | B | B |
+   | .16 | Rederiets politikk og prosedyrer for passasjerbehandling i samsvar med STCW kodens regel V3 (V2) sett i sammenheng med kodens punkt 18.2.3.24, | A | B | B |
+   | .17 | Rederiets politikk og prosedyrer for sikkerhet (Security), | A | B | B |
+   | .18 | Rederiets praksis for å sikre et godt arbeidsmiljø (HMS). | A | B | B |
+4. Utsjekk
+
+   Bedømmelse av kompetansenivå skal bestå av en praktisk og en teoretisk del. Kandidaten skal ved praktisk bruk vise tilfredsstillende ferdigheter i bruk av instrumenter, utstyr og tekniske hjelpemidler som inngår i arbeidsoppgavene.
+
+   Relevante deler av utsjekken skal foregå når fartøyet er underveis og bestå av minst én ankomst og én avgang i alle aktuelle havner og seilas i hele operasjonsområdet under dag- og nattseilas med aktuelt fartøy.
+
+   Den fartøysrelaterte utsjekken skal bedømmes av sertifisert assessor, jf. kvalifikasjonsforskriften [§ 13](forskrift/2000-12-22-1574/§13). Den fartøysrelaterte opplæring skal minst tilfredsstille fartøyets operasjons-, opplærings-, vedlikeholds- og servicemanual.
+5. Dokumentasjon av utsjekk
+
+   Alle besetningsmedlemmer skal ha bestått og dokumentert utsjekk før de tiltrer i tjeneste om bord på et fartøy, eller i et nytt operasjonsområde. Ny utsjekk skal gjennomføres før tiltredelse etter opphold i tjenesten på et fartøy eller i en rute på over 6 md.
 
 > Endret ved [forskrifter 18 okt 2004 nr. 1366](forskrift/2004-10-18-1366) (i kraft 1 jan 2005), [14 feb 2012 nr. 236](forskrift/2012-02-14-236), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018).
 

@@ -28,13 +28,24 @@ Forskriften gir utfyllende regler om reduksjon av midlertidig uførepensjon og u
 
 ## § 2. Definisjoner
 
-I forskriften her forstås«tjenestepensjonslovene» som [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse, [lov 26. juni 1953 nr. 11](lov/1953-06-26-11) om pensjonsordning for apotekvirksomhet mv. og [lov 22. juni 1962 nr. 12](lov/1962-06-22-12) om pensjonsordning for sykepleiere,«pensjon» som midlertidig uførepensjon og uførepensjon som gis med hjemmel i tjenestepensjonslovene,«inntekt» som pensjonsgivende inntekt etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15), se likevel § 3 i forskriften her,«inntektsgrense» som det beløpet årlig inntekt, inkludert feriepenger, kan utgjøre før pensjonen skal reduseres, jf. [lov om Statens pensjonskasse § 29](lov/1949-07-28-26/§29) første og andre ledd og tilsvarende bestemmelser i de øvrige tjenestepensjonslovene. Feriepenger kan fastsettes til et beløp svarende til 1,3 prosent av inntekten.«80 prosent-regelen» som bestemmelsen om at det ikke utbetales uførepensjon når inntekten utgjør mer enn 80 prosent av samlet inntekt før uførhet, jf. [lov om Statens pensjonskasse § 29](lov/1949-07-28-26/§29) femte ledd og tilsvarende bestemmelser i de øvrige tjenestepensjonslovene.
+I forskriften her forstås
+
+1. «tjenestepensjonslovene» som [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse, [lov 26. juni 1953 nr. 11](lov/1953-06-26-11) om pensjonsordning for apotekvirksomhet mv. og [lov 22. juni 1962 nr. 12](lov/1962-06-22-12) om pensjonsordning for sykepleiere,
+2. «pensjon» som midlertidig uførepensjon og uførepensjon som gis med hjemmel i tjenestepensjonslovene,
+3. «inntekt» som pensjonsgivende inntekt etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15), se likevel § 3 i forskriften her,
+4. «inntektsgrense» som det beløpet årlig inntekt, inkludert feriepenger, kan utgjøre før pensjonen skal reduseres, jf. [lov om Statens pensjonskasse § 29](lov/1949-07-28-26/§29) første og andre ledd og tilsvarende bestemmelser i de øvrige tjenestepensjonslovene. Feriepenger kan fastsettes til et beløp svarende til 1,3 prosent av inntekten.
+5. «80 prosent-regelen» som bestemmelsen om at det ikke utbetales uførepensjon når inntekten utgjør mer enn 80 prosent av samlet inntekt før uførhet, jf. [lov om Statens pensjonskasse § 29](lov/1949-07-28-26/§29) femte ledd og tilsvarende bestemmelser i de øvrige tjenestepensjonslovene.
 
 > Endret ved [forskrift 29 juni 2016 nr. 841](forskrift/2016-06-29-841) (med virkning fra 1 jan 2015).
 
 ## § 3. Inntekt som ikke skal føre til reduksjon av pensjonen
 
-Følgende inntekter skal ikke føre til reduksjon i pensjonen, selv om de defineres som pensjonsgivende inntekter i folketrygden:Erstatning for inntektstap ved erstatningsoppgjør etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4 første ledd](lov/2001-06-15-53/§4/ledd/1).Inntekt, herunder feriepenger, som stammer fra helt avsluttet arbeid eller virksomhet før uførepensjonen ble tatt ut (etterslepsinntekt).Etterbetalinger av trygdeytelser.Etterbetalinger av lønn. Det er et vilkår at etterbetalingene ikke er utbetalt i samsvar med ordinære utbetalingsfrister og ikke er utbetalt samme år som lønnen er tjent opp. Det er også et vilkår at forsinkelsen ikke skyldes medlemmet.
+Følgende inntekter skal ikke føre til reduksjon i pensjonen, selv om de defineres som pensjonsgivende inntekter i folketrygden:
+
+1. Erstatning for inntektstap ved erstatningsoppgjør etter [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1), [yrkesskadeforsikringsloven § 13](lov/1989-06-16-65/§13) eller [pasientskadeloven § 4 første ledd](lov/2001-06-15-53/§4/ledd/1).
+2. Inntekt, herunder feriepenger, som stammer fra helt avsluttet arbeid eller virksomhet før uførepensjonen ble tatt ut (etterslepsinntekt).
+3. Etterbetalinger av trygdeytelser.
+4. Etterbetalinger av lønn. Det er et vilkår at etterbetalingene ikke er utbetalt i samsvar med ordinære utbetalingsfrister og ikke er utbetalt samme år som lønnen er tjent opp. Det er også et vilkår at forsinkelsen ikke skyldes medlemmet.
 
 Den enkelte må selv opplyse om og dokumentere slike inntekter.
 

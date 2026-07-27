@@ -15,7 +15,7 @@ xml_hash: "00f2c4081fcbf005703968adf243837b7bd024952f94284dbc6329c235998ab4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,15 @@ Unntatt fra virkeområdet i første ledd er all virksomhet som innebærer innesl
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med:*innesluttet bruk:* enhver arbeidsoperasjon hvor genmodifiserte organismer blir fremstilt, dyrket, lagret, destruert, eller brukt på annen måte i et lukket system hvor det anvendes fysiske inneslutningstiltak, eventuelt i kombinasjon med andre særskilte inneslutningstiltak, for å begrense organismenes kontakt med mennesker og miljø slik at disse sikres et høyt nivå av sikkerhet*genmodifiserte organismer:* mikroorganismer, planter og dyr hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologi*mikroorganisme:* enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale*kombinasjonsbruk:* innesluttet bruk av dyr i kombinasjon med andre genmodifiserte organismer*genteknologi:* teknikker som innebærer at arvestoff isoleres, karakteriseres, modifiseres og innsettes i levende celler eller virus*celleteknologi:* teknikker for fremstilling av levende celler med nye kombinasjoner av genetisk materiale ved fusjon av to eller flere celler*bruker:* enhver fysisk eller juridisk person som er ansvarlig for den innesluttede bruken.
+I denne forskrift menes med:
+
+1. *innesluttet bruk:* enhver arbeidsoperasjon hvor genmodifiserte organismer blir fremstilt, dyrket, lagret, destruert, eller brukt på annen måte i et lukket system hvor det anvendes fysiske inneslutningstiltak, eventuelt i kombinasjon med andre særskilte inneslutningstiltak, for å begrense organismenes kontakt med mennesker og miljø slik at disse sikres et høyt nivå av sikkerhet
+2. *genmodifiserte organismer:* mikroorganismer, planter og dyr hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologi
+3. *mikroorganisme:* enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale
+4. *kombinasjonsbruk:* innesluttet bruk av dyr i kombinasjon med andre genmodifiserte organismer
+5. *genteknologi:* teknikker som innebærer at arvestoff isoleres, karakteriseres, modifiseres og innsettes i levende celler eller virus
+6. *celleteknologi:* teknikker for fremstilling av levende celler med nye kombinasjoner av genetisk materiale ved fusjon av to eller flere celler
+7. *bruker:* enhver fysisk eller juridisk person som er ansvarlig for den innesluttede bruken.
 
 ### § 3. Ansvar for virksomheten
 
@@ -56,7 +64,10 @@ All virksomhet som omfatter innesluttet bruk av genmodifiserte dyr krever meldin
 
 Forsøk med vitenskapelige formål på genmodifiserte dyr, som er godkjent etter [dyrevernloven § 21](lov/1974-12-20-73/§21) krever melding. All annen virksomhet krever godkjenning.
 
-Alle meldinger og søknader om godkjenning skal sendes på fastsatt meldings- og søknadsskjema, jf. vedlegg II. Melding eller søknad om godkjenning skal inneholde:de opplysninger som fremgår av fastsatt meldings-/søknadsskjema,kopi av tidligere godkjenning av laboratorier og anlegg, eller ny søknad om godkjenning.
+Alle meldinger og søknader om godkjenning skal sendes på fastsatt meldings- og søknadsskjema, jf. vedlegg II. Melding eller søknad om godkjenning skal inneholde:
+
+1. de opplysninger som fremgår av fastsatt meldings-/søknadsskjema,
+2. kopi av tidligere godkjenning av laboratorier og anlegg, eller ny søknad om godkjenning.
 
 Godkjenningsmyndighetene kan kreve ytterligere opplysninger dersom de anser det nødvendig. Godkjenning etter [dyrevernloven § 21](lov/1974-12-20-73/§21) skal foreligge før virksomheten igangsettes, og skal kunne fremlegges hvis godkjenningsmyndighetene krever det. Godkjenningsmyndighetene skal innhente uttalelse fra andre berørte myndigheter der den planlagte virksomhetens art krever det.
 
@@ -66,7 +77,11 @@ All virksomhet krever godkjent laboratorium/anlegg.
 
 ### § 6. Samfunnsmessige og etiske vurderinger
 
-Søker skal foreta en særlig vurdering av de samfunnsmessige og etiske aspekter ved virksomheter som omfattergenetisk modifisering av virveldyr som innebærer arvelige endringer med mindre det gjelder forsøk som er godkjent etter [dyrevernloven § 21](lov/1974-12-20-73/§21) første ledd,overføring av humant genmateriale til dyr som ikke skjer i forsknings- eller forsøkssammenheng for å kartlegge arvestoffets oppbygging, egenskaper og funksjon,fremstilling og bruk av genmodifiserte dyr for omsetning eller annen utnytting i næring.
+Søker skal foreta en særlig vurdering av de samfunnsmessige og etiske aspekter ved virksomheter som omfatter
+
+1. genetisk modifisering av virveldyr som innebærer arvelige endringer med mindre det gjelder forsøk som er godkjent etter [dyrevernloven § 21](lov/1974-12-20-73/§21) første ledd,
+2. overføring av humant genmateriale til dyr som ikke skjer i forsknings- eller forsøkssammenheng for å kartlegge arvestoffets oppbygging, egenskaper og funksjon,
+3. fremstilling og bruk av genmodifiserte dyr for omsetning eller annen utnytting i næring.
 
 Ved søknad hvor det ikke foreligger godkjenning etter [dyrevernloven § 21](lov/1974-12-20-73/§21) skal søknaden inneholde en avveining mellom nytteverdi og de belastninger dyret utsettes for, herunder hensynet til dyrenes integritet, instinkter og trivsel.
 
@@ -110,7 +125,11 @@ Dersom endringen er vesentlig og medfører en utvidelse av anlegget, berører in
 
 Krav til inneslutningstiltak for laboratorier og anlegg for innesluttet bruk av genmodifiserte dyr, bestemmes av hvilken gruppe dyret hører inn under.
 
-Dyr som omfattes av forskriften skal klassifiseres somvertebraterinvertebrater ellerakvatiske dyr.
+Dyr som omfattes av forskriften skal klassifiseres som
+
+1. vertebrater
+2. invertebrater eller
+3. akvatiske dyr.
 
 Ved virksomhet der genmodifiserte dyr faller inn under flere av gruppene, må inneslutningstiltak for de enkelte gruppene kombineres.
 
@@ -128,7 +147,12 @@ For genmodifiserte akvatiske dyr skal de spesifikke krav til virksomhet med akva
 
 ### § 13. Sikkerhetstiltak
 
-Ved all innesluttet bruk skal prinsipper for god mikrobiologisk praksis, og følgende rutiner skal følges:det skal treffes tekniske vernetiltak ved kilden, om nødvendig supplert med hensiktsmessig vernetøy og personlig verneutstyr,vernetiltakene og verneutstyret skal etterprøves på passende måte og vedlikeholdes,alle genmodifiserte organismer, herunder egg og andre overlevelsesstrukturer, skal avlives før avhending og det skal om nødvendig undersøkes om det forekommer levedyktige organismer fra prosessen utenfor den primære fysiske inneslutning,det skal sørges for opplæring av personalet.
+Ved all innesluttet bruk skal prinsipper for god mikrobiologisk praksis, og følgende rutiner skal følges:
+
+1. det skal treffes tekniske vernetiltak ved kilden, om nødvendig supplert med hensiktsmessig vernetøy og personlig verneutstyr,
+2. vernetiltakene og verneutstyret skal etterprøves på passende måte og vedlikeholdes,
+3. alle genmodifiserte organismer, herunder egg og andre overlevelsesstrukturer, skal avlives før avhending og det skal om nødvendig undersøkes om det forekommer levedyktige organismer fra prosessen utenfor den primære fysiske inneslutning,
+4. det skal sørges for opplæring av personalet.
 
 ### § 14. Kontroll
 

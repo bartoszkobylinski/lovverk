@@ -28,8 +28,19 @@ eu_basis: []
 
 1. Den som ønsker å tilvirke gassmasker i hensikt å utbre sånne blant almenheten, innføre fra utlandet sånt materiell som er bestemt til å brukes her i landet eller selge eller avhende gassmasker i ervervsøyemed eller til stadighet, skal sende inn søknad til Generalfelttøymesteren om godkjennelse av vedkommende materiell.
 2. Bestemmelsen i punkt 1 gjelder ikke for tilvirkning, innførsel eller salg av gassmasker for militærvesenets behov.
-3. Etter hensikten med bruken deler en gassmaskene i to kvalitetsmessig forskjellige klasser:Gassmasker til bruk for den aktive sivile befolkning.Gassmasker til bruk for den passive sivile befolkning.
-4. Med søknaden om godkjennelse skal en sende inn til undersøkelse og kontroll:3 stk. ansiktsstykker (eventuelt med tilkoblingsslanger).4 stk. filterpatroner eller filterbokser.Prøve av stoffet i ansiktsstykket, ca. 10 x 10 cm.2 sett komplette tegninger av det ferdige ansiktsstykke og filter med påførte mål.2 sett fullstendige beskrivelser av ansiktsstykket med filter, med spesifikasjoner av de brukte materialer og råstoffer.2 sett anvisninger for maskens bruk, oppbevaring og pass. Tekstene på tegninger, i beskrivelser og bruksanvisninger skal være avfattet på norsk, svensk, dansk, tysk, engelsk eller fransk.Avgift for de nødvendige undersøkelser og prøver, kr. 250.
+3. Etter hensikten med bruken deler en gassmaskene i to kvalitetsmessig forskjellige klasser:
+
+   1. Gassmasker til bruk for den aktive sivile befolkning.
+   2. Gassmasker til bruk for den passive sivile befolkning.
+4. Med søknaden om godkjennelse skal en sende inn til undersøkelse og kontroll:
+
+   1. 3 stk. ansiktsstykker (eventuelt med tilkoblingsslanger).
+   2. 4 stk. filterpatroner eller filterbokser.
+   3. Prøve av stoffet i ansiktsstykket, ca. 10 x 10 cm.
+   4. 2 sett komplette tegninger av det ferdige ansiktsstykke og filter med påførte mål.
+   5. 2 sett fullstendige beskrivelser av ansiktsstykket med filter, med spesifikasjoner av de brukte materialer og råstoffer.
+   6. 2 sett anvisninger for maskens bruk, oppbevaring og pass. Tekstene på tegninger, i beskrivelser og bruksanvisninger skal være avfattet på norsk, svensk, dansk, tysk, engelsk eller fransk.
+   7. Avgift for de nødvendige undersøkelser og prøver, kr. 250.
 5. På grunnlag av utført undersøkelse avgjør Generalfelttøymesteren om søknad om godkjennelse skal innvilges eller ikke, og meddeler dette til søkeren.
 6. Godkjennelsen gjelder inntil videre. Dog kan Generalfelttøymesteren når som helst tilbakekalle en gitt godkjennelse, hvis utviklingen av de kjemiske stridsmidler skulle føre med seg at den godkjente gassmaske ikke lenger gir tilstrekkelig beskyttelse.
 7. Konstruksjonsforandringer ved godkjent materiell vil i alminnelighet kreve ny godkjennelse. Gjelder det ubetydelige endringer, kan Generalfelttøymesteren frafalle avgiften eller sette denne ned med et passende beløp.
@@ -56,13 +67,23 @@ eu_basis: []
 1. Ved surstoffapparater forstår disse forskrifter apparater som er beregnet på å isolere bærerens åndedrettsorganer helt fra den atmosfæriske luft, skaffe det for åndedrettet nødvendige surstoff fra en kilde innen apparatet og rense utåndingsluften for kullsyre og vanndamp.
 2. Den som ønsker å tilvirke, innføre for salg eller ervervsmessig selge her i landet surstoffapparater, skal sende inn søknad til Generalfelttøymesteren om godkjennelse av vedkommende materiell.
 3. Bestemmelsen i punkt 2 gjelder ikke for tilvirkning, innførsel eller salg av surstoffapparater til militærvesenet.
-4. Med søknaden om godkjennelse skal søkeren sende inn:2 sett komplette tegninger av apparatet.2 sett fullstendige beskrivelser av apparatet med spesifikasjoner av de brukte materialer og råstoffer.2 sett anvisninger for apparatets bruk, pass og oppbevaring, med illustrasjoner.Tekstene på tegninger, i beskrivelser, bruksanvisninger, m.v. skal være avfattet på norsk, svensk, dansk, engelsk, fransk eller tysk.1 komplett apparat med 2 reservesurstoffkilder og 2 reserverensebeholdere.Avgift for prøvingen kr. 100.
+4. Med søknaden om godkjennelse skal søkeren sende inn:
+
+   1. 2 sett komplette tegninger av apparatet.
+   2. 2 sett fullstendige beskrivelser av apparatet med spesifikasjoner av de brukte materialer og råstoffer.
+   3. 2 sett anvisninger for apparatets bruk, pass og oppbevaring, med illustrasjoner.
+
+      Tekstene på tegninger, i beskrivelser, bruksanvisninger, m.v. skal være avfattet på norsk, svensk, dansk, engelsk, fransk eller tysk.
+   4. 1 komplett apparat med 2 reservesurstoffkilder og 2 reserverensebeholdere.
+   5. Avgift for prøvingen kr. 100.
 5. På grunnlag av utførte undersøkelser avgjør Generalfelttøymesteren om godkjennelse skal gis eller ikke, og meddeler avgjørelsen til søkeren.
 6. Godkjennelsen gjelder inntil videre. Dog kan Generalfelttøymesteren når som helst tilbakekalle en gitt godkjennelse, hvis utviklingen skulle medføre at en ikke lenger kan anse apparatets beskyttende evne for å være tilfredsstillende.
 7. Konstruksjonsendringer ved godkjent materiell vil i alminnelighet betinge ny godkjennelse. Gjelder det ubetydelige endringer, kan Generalfelttøymesteren frafalle avgiften eller sette denne ned med et passende beløp.
 8. I tilfelle Generalfelttøymesteren meddeler godkjennelse av apparatet, vil søkeren få tilbake 1 sett av de i punkt 4 omhandlede tegninger, beskrivelser og bruksanvisninger, påført Generalfelttøymesterens godkjennelsesstempel. Disse dokumenter plikter søkeren å oppbevare og på forlangende vise dem fram til politiet, den eller de personer som Generalfelttøymesteren kommer til å nevne opp for kontroll med gassvernmateriellet.
 9. I tilfelle materiellet tilvirkes her i landet, skal politiet og representanter for Generalfelttøymesteren når som helst ha adgang til å utføre kontroll på et hvilket som helst fabrikasjonstrinn og herunder ta ut de prøver av materialer og fabrikasjonsstadier de måtte finne nødvendig.
-10. På forlangende vil gjeldende forskrifter bli tilstillet fabrikanter, importører og forhandlere.Forskriftene blir å behandle som «fortrolige».
+10. På forlangende vil gjeldende forskrifter bli tilstillet fabrikanter, importører og forhandlere.
+
+    Forskriftene blir å behandle som «fortrolige».
 11. For deler som en forlanger standardisert, vil det på henvendelse herom bli levert ut tegninger.
 12. Surstoffapparater som er innført her i landet før 17. november 1939, behøver ingen godkjennelse.
 13. Departementet forbeholder seg rett til å foreta de endringer og tilføyelser i så vel ovenstående regler som i de spesielle tekniske betingelser, som utviklingen måtte gjøre nødvendige eller ønskelige.

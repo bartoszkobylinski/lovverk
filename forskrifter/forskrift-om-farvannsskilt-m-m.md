@@ -15,7 +15,7 @@ xml_hash: "ec26c8ee41abe9b125f8e2a26f4bc3a407331057c5a7c213433e313304fea8c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,12 @@ Forskriften gjelder tekniske krav til og bruk, utforming og lokalisering av farv
 
 ## § 2. (definisjoner)
 
-I denne forskriften betyr:*farvannsskilt*: tavler med symboler eller tekst om opplysninger eller bestemmelser om regulering av ferdselen*navigasjonsinnretninger*: innretning eller anlegg til veiledning for navigasjon, herunder fyrlys, sjømerker (varder, båker, staker, mv.), lykter, radarsvarere og AIS navigasjonsinnretning*IALA*: International Association of Marine Aids to Navigation and Lighthouse Authorities*IALA-spesialmerke*: gult merke i henhold til IALA Maritime Buoyage System and other Aids to Navigation.
+I denne forskriften betyr:
+
+1. *farvannsskilt*: tavler med symboler eller tekst om opplysninger eller bestemmelser om regulering av ferdselen
+2. *navigasjonsinnretninger*: innretning eller anlegg til veiledning for navigasjon, herunder fyrlys, sjømerker (varder, båker, staker, mv.), lykter, radarsvarere og AIS navigasjonsinnretning
+3. *IALA*: International Association of Marine Aids to Navigation and Lighthouse Authorities
+4. *IALA-spesialmerke*: gult merke i henhold til IALA Maritime Buoyage System and other Aids to Navigation.
 
 ## § 3. (register over farvannsskilt og navigasjonsinnretninger)
 
@@ -40,7 +45,12 @@ Den som etablerer, flytter, fjerner eller endrer et farvannsskilt eller en navig
 
 Søknad om etablering, fjerning, flytting eller endring av farvannsskilt og navigasjonsinnretninger skal sendes til Kystverket.
 
-Søknaden skal inneholde:hvilket farvannsskilt eller navigasjonsinnretning søknaden gjelderstedsangivelse av farvannsskiltet eller navigasjonsinnretningen ved hjelp av kartutsnitt og geografiske koordinater (WGS 84 datum)en vurdering av hvilken betydning etablering, nedlegging eller flytting av vedkommende farvannsskilt eller navigasjonsinnretning vil ha for sjøverts ferdsel og andre opplysninger som er nødvendige for behandling av søknadenhvem som er eier og ev. andre som måtte ha ansvar for vedkommende farvannsskilt eller navigasjonsinnretning.
+Søknaden skal inneholde:
+
+1. hvilket farvannsskilt eller navigasjonsinnretning søknaden gjelder
+2. stedsangivelse av farvannsskiltet eller navigasjonsinnretningen ved hjelp av kartutsnitt og geografiske koordinater (WGS 84 datum)
+3. en vurdering av hvilken betydning etablering, nedlegging eller flytting av vedkommende farvannsskilt eller navigasjonsinnretning vil ha for sjøverts ferdsel og andre opplysninger som er nødvendige for behandling av søknaden
+4. hvem som er eier og ev. andre som måtte ha ansvar for vedkommende farvannsskilt eller navigasjonsinnretning.
 
 ## § 5. (utforming og tekniske spesifikasjoner for farvannsskilt og navigasjonsinnretninger)
 
@@ -100,7 +110,16 @@ Farvannsskilt skal utformes med standardiserte skiltelementer (symboler, tekst o
 
 Varsel, forbuds og opplysningsskilt skal normalt utføres i fire ulike størrelser, liten størrelse 0 (LS 0), liten størrelse 1 (LS 1), middels størrelse (MS) og stor størrelse (SS).
 
-Valg av skiltstørrelse skal gjøres ut fra vurderinger av farvannets beskaffenhet, bruk av farvannet mv., og slik at de er synlige på en avstand hvor sjøfarende kan tilpasse sin ferdsel etter forholdene i rett tid.*Tabell 1. Skiltstørrelse og leseavstand (veiledende)* *Størrelse**Leseavstand*LS 0Kanaler og trange farvannLS 1Opp til 200 meterMSFra 200 til 500 meterSSOver 500 meter
+Valg av skiltstørrelse skal gjøres ut fra vurderinger av farvannets beskaffenhet, bruk av farvannet mv., og slik at de er synlige på en avstand hvor sjøfarende kan tilpasse sin ferdsel etter forholdene i rett tid.
+
+*Tabell 1. Skiltstørrelse og leseavstand (veiledende)*
+
+| *Størrelse* | *Leseavstand* |
+| --- | --- |
+| LS 0 | Kanaler og trange farvann |
+| LS 1 | Opp til 200 meter |
+| MS | Fra 200 til 500 meter |
+| SS | Over 500 meter |
 
 Grafisk utforming av skilt, herunder også tall og bokstaver, skal være i samsvar med det som fremgår under pkt. 5.8 (jf. datafiler for produksjon av skilt som utgis av Kystverket).
 
@@ -239,7 +258,10 @@ Et underskilt skal være vendt samme vei som det skiltet det tilhører, og plass
 
 I noen tilfeller kan det være praktisk, ønskelig eller nødvendig å samle flere skilt på samme skiltoppsett. Informasjonsmengden bør imidlertid ikke bli for stor, og ulike skiltkombinasjoner bør heller ikke være slik at misforståelser kan oppstå.
 
-Skiltkombinasjoner kan maksimalt omfatte:to hovedskilt på samme skiltoppsett, ogett underskilt per hovedskilt i kombinasjonen.
+Skiltkombinasjoner kan maksimalt omfatte:
+
+- to hovedskilt på samme skiltoppsett, og
+- ett underskilt per hovedskilt i kombinasjonen.
 
 To hovedskilt kan settes sammen enten vertikalt eller horisontalt.
 
@@ -361,7 +383,14 @@ For IALA-spesialmerke som anvendes til formål etter dette vedlegget gjelder kra
 
 ### 3.3.1 Overflatefarge
 
-Gul overflatefarge skal være innenfor de verdier som er angitt med hjørnekoordinater i henhold til CIE (International Commission on Illumination) standard kromatiske diagram i tabellen under.*Tabell 5. Fargekoordinater for vanlig overflatefarge i dagslys* 1234xYxyxyxyGul0,5220,4770,4700,4400,4270,4830,4650,534
+Gul overflatefarge skal være innenfor de verdier som er angitt med hjørnekoordinater i henhold til CIE (International Commission on Illumination) standard kromatiske diagram i tabellen under.
+
+*Tabell 5. Fargekoordinater for vanlig overflatefarge i dagslys*
+
+|  | 1 |  | 2 |  | 3 |  | 4 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | x | Y | x | y | x | y | x | y |
+| Gul | 0,522 | 0,477 | 0,470 | 0,440 | 0,427 | 0,483 | 0,465 | 0,534 |
 
 Standardfargene RAL 1023 TRAFIKKGUL og NCS S 1080-Y GUL møter kravet til gul overflatefarge.
 
@@ -373,7 +402,14 @@ Retrorefleksjonskoeffisient, luminansfaktorer og fargekoordinater for dagslysflu
 
 ### 3.3.3 Lyssignal
 
-Spesialmerket skal gi et lyssignal med følgende egenskaper:Farge: GulKarakter (benevnelse): Oc Y 2sPeriode: 2 sekunder med 1,25 sekund lys / 0,75 sekund mørke (arbeidssyklus 62,5 %)Lysvidde: 3 nautiske milTilgjengelighet: 99,8 % beregnet over en kontinuerlig periode på 3 årLyssignal skal være synkronisert.
+Spesialmerket skal gi et lyssignal med følgende egenskaper:
+
+- Farge: Gul
+- Karakter (benevnelse): Oc Y 2s
+- Periode: 2 sekunder med 1,25 sekund lys / 0,75 sekund mørke (arbeidssyklus 62,5 %)
+- Lysvidde: 3 nautiske mil
+- Tilgjengelighet: 99,8 % beregnet over en kontinuerlig periode på 3 år
+- Lyssignal skal være synkronisert.
 
 Ved beregning av lysintensitet for å møte kravet til lysvidde skal IALA anbefalinger følges. Det skal forutsettes at atmosfærisk transmisjonsfaktor, TM = 0,74 (meteorologisk sikt 10 nautiske mil).
 
@@ -423,7 +459,11 @@ Etablering av AIS navigasjonsinnretning krever særskilt tillatelse fra Kystverk
 
 Utstyret bør monteres på en 1,75–2 meter høy mast eller lignende.
 
-Montasjen bør være i følgende rekkefølge ovenfra og ned:lyssignalradarreflektorreflekspanel.
+Montasjen bør være i følgende rekkefølge ovenfra og ned:
+
+- lyssignal
+- radarreflektor
+- reflekspanel.
 
 ### 3.5.2 Bære- og støttekonstruksjoner
 

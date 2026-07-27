@@ -34,7 +34,13 @@ Formålet med denne ordningen er å kompensere tap og merutgifter i forbindelse 
 
 ### § 2. Generelle vilkår
 
-Arrangører som i hovedsak formidler eller gjør kunst og kultur tilgjengelig til allmennheten kan søke om kompensasjon når følgende vilkår er oppfylt:Arrangøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 12. mars 2020.Arrangøren har planlagt å avholde kulturarrangement åpent for allmennheten i Norge i perioden fra og med 1. oktober til og med 31. desember 2020, og kulturarrangementet var planlagt før 5. november 2020.Kulturarrangement som nevnt i bokstav b er avlyst eller stengt som følge av pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddet.Arrangørens tapte billettinntekter og merutgifter etter [§ 3](forskrift/2020-11-04-2245/§3) utgjør, etter eventuelle avkortninger som nevnt i [§ 4](forskrift/2020-11-04-2245/§4) første, til og med fjerde ledd, minimum 12 500 kroner til sammen for kulturarrangement planlagt avholdt i perioden fra og med 1. til og med 31. oktober 2020, eller 25 000 kroner til sammen for kulturarrangement planlagt avholdt i perioden fra og med 1. november til og med 31. desember 2020.Arrangøren er ikke under konkursbehandling.
+Arrangører som i hovedsak formidler eller gjør kunst og kultur tilgjengelig til allmennheten kan søke om kompensasjon når følgende vilkår er oppfylt:
+
+1. Arrangøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 12. mars 2020.
+2. Arrangøren har planlagt å avholde kulturarrangement åpent for allmennheten i Norge i perioden fra og med 1. oktober til og med 31. desember 2020, og kulturarrangementet var planlagt før 5. november 2020.
+3. Kulturarrangement som nevnt i bokstav b er avlyst eller stengt som følge av pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddet.
+4. Arrangørens tapte billettinntekter og merutgifter etter [§ 3](forskrift/2020-11-04-2245/§3) utgjør, etter eventuelle avkortninger som nevnt i [§ 4](forskrift/2020-11-04-2245/§4) første, til og med fjerde ledd, minimum 12 500 kroner til sammen for kulturarrangement planlagt avholdt i perioden fra og med 1. til og med 31. oktober 2020, eller 25 000 kroner til sammen for kulturarrangement planlagt avholdt i perioden fra og med 1. november til og med 31. desember 2020.
+5. Arrangøren er ikke under konkursbehandling.
 
 Arrangører som mottar 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019 eller som er registrert i Frivillighetsregisteret, har ikke rett til kompensasjon etter denne forskriften.
 
@@ -66,7 +72,10 @@ Ved beregning av det faktiske resultatet for avlyste og stengte kulturarrangemen
 
 Kulturrådet kan vurdere kulturarrangementenes budsjetterte resultat opp mot overskudd for kulturarrangementer i tidligere år eller lignende kulturarrangementer. Ved større avvik mellom et arrangements budsjetterte resultat knyttet til billettinntekter og resultat fra billettinntekter for tidligere eller liknende kulturarrangementer, vil det avvikende beløpet trekkes fra ved beregning av kompensasjon eller kreves tilbakebetalt hvis kompensasjon allerede er tildelt, med mindre arrangøren kan dokumentere saklig grunn for avviket.
 
-For avlyst eller stengt kulturarrangement kompenseres arrangør forinntil 70 prosent av netto tapte billettinntekter etter eventuelle avkortninger etter første og andre ledd og inntil 70 prosent av merutgifter, for kulturarrangement planlagt avholdt i perioden fra og med 1. oktober til og med 31. oktober 2020, oginntil 50 prosent av netto tapte billettinntekter etter eventuelle avkortninger etter første og andre ledd og inntil 50 prosent av merutgifter, for kulturarrangement planlagt avholdt i perioden fra og med 1. november til og med 31. desember 2020.
+For avlyst eller stengt kulturarrangement kompenseres arrangør for
+
+1. inntil 70 prosent av netto tapte billettinntekter etter eventuelle avkortninger etter første og andre ledd og inntil 70 prosent av merutgifter, for kulturarrangement planlagt avholdt i perioden fra og med 1. oktober til og med 31. oktober 2020, og
+2. inntil 50 prosent av netto tapte billettinntekter etter eventuelle avkortninger etter første og andre ledd og inntil 50 prosent av merutgifter, for kulturarrangement planlagt avholdt i perioden fra og med 1. november til og med 31. desember 2020.
 
 Maksimal kompensasjon er 3,5 millioner kroner samlet per arrangør for perioden 1. oktober til og med 31. desember 2020.
 
@@ -78,7 +87,14 @@ Det utbetales ikke kompensasjon dersom det innen utbetalingen blir åpnet konkur
 
 ### § 5. Generelle vilkår
 
-Underleverandører til kulturarrangement kan søke om kompensasjon når følgende vilkår er oppfylt:Underleverandøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 12. mars 2020.Underleverandøren skulle levere tjenester/innhold til kulturarrangement åpent for allmennheten i Norge i perioden fra og med 1. oktober til og med 31. desember 2020, og kulturarrangementet var planlagt av arrangør før 5. november 2020.Kulturarrangement som nevnt i bokstav b, er avlyst eller stengt som følge av pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddet.Underleverandøren har hatt et omsetningsfall på minst 30 prosent i kalendermånedene det søkes tilskudd for i perioden fra og med 1. oktober til og med 31. desember 2020, sammenlignet med tilsvarende måned i 2019, forutsatt at underleverandøren var registrert i Enhetsregisteret på det tidspunktet.Underleverandørens tapte inntekter eller merutgifter etter [§ 6](forskrift/2020-11-04-2245/§6) utgjør etter eventuelle avkortninger som nevnt i [§ 6](forskrift/2020-11-04-2245/§6) fjerde ledd og [§ 7](forskrift/2020-11-04-2245/§7) femte og sjette ledd, minimum 12 500 kroner til sammen for kulturarrangement planlagt avholdt i perioden fra og med 1. oktober til og med 31. oktober 2020, eller 25 000 kroner til sammen for kulturarrangement planlagt avholdt i perioden fra og med 1. november til og med 31. desember 2020.Underleverandøren er ikke under konkursbehandling.
+Underleverandører til kulturarrangement kan søke om kompensasjon når følgende vilkår er oppfylt:
+
+1. Underleverandøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 12. mars 2020.
+2. Underleverandøren skulle levere tjenester/innhold til kulturarrangement åpent for allmennheten i Norge i perioden fra og med 1. oktober til og med 31. desember 2020, og kulturarrangementet var planlagt av arrangør før 5. november 2020.
+3. Kulturarrangement som nevnt i bokstav b, er avlyst eller stengt som følge av pålegg gitt av offentlige myndigheter i forbindelse med covid-19-utbruddet.
+4. Underleverandøren har hatt et omsetningsfall på minst 30 prosent i kalendermånedene det søkes tilskudd for i perioden fra og med 1. oktober til og med 31. desember 2020, sammenlignet med tilsvarende måned i 2019, forutsatt at underleverandøren var registrert i Enhetsregisteret på det tidspunktet.
+5. Underleverandørens tapte inntekter eller merutgifter etter [§ 6](forskrift/2020-11-04-2245/§6) utgjør etter eventuelle avkortninger som nevnt i [§ 6](forskrift/2020-11-04-2245/§6) fjerde ledd og [§ 7](forskrift/2020-11-04-2245/§7) femte og sjette ledd, minimum 12 500 kroner til sammen for kulturarrangement planlagt avholdt i perioden fra og med 1. oktober til og med 31. oktober 2020, eller 25 000 kroner til sammen for kulturarrangement planlagt avholdt i perioden fra og med 1. november til og med 31. desember 2020.
+6. Underleverandøren er ikke under konkursbehandling.
 
 Med underleverandør menes aktører innenfor lys, lyd, bilde og rigg, artister, management, booking og filmdistributører som leverer tjenester eller innhold til et kulturarrangement, og aktører som leier ut lokaler der det skal gjennomføres et kulturarrangement.
 
@@ -104,7 +120,10 @@ Med merutgifter menes utgifter som definert i [§ 3](forskrift/2020-11-04-2245/�
 
 ### § 7. Tildelingskriterier for underleverandører
 
-For levering av tjenester eller innhold til avlyst eller stengt kulturarrangement kompenseres underleverandør forinntil 50 prosent av netto tapte inntekter etter eventuell avkortning etter fjerde og femte ledd og [§ 6](forskrift/2020-11-04-2245/§6) fjerde ledd og inntil 70 prosent av merutgifter, for kulturarrangement planlagt avholdt i perioden fra og med 1. til og med 31. oktober 2020, oginntil 50 prosent av netto tapte inntekter etter eventuell avkortning etter fjerde og femte ledd og [§ 6](forskrift/2020-11-04-2245/§6) fjerde ledd og inntil 50 prosent av merutgifter, for kulturarrangement planlagt avholdt i perioden fra og med 1. november til og med 31. desember 2020.
+For levering av tjenester eller innhold til avlyst eller stengt kulturarrangement kompenseres underleverandør for
+
+1. inntil 50 prosent av netto tapte inntekter etter eventuell avkortning etter fjerde og femte ledd og [§ 6](forskrift/2020-11-04-2245/§6) fjerde ledd og inntil 70 prosent av merutgifter, for kulturarrangement planlagt avholdt i perioden fra og med 1. til og med 31. oktober 2020, og
+2. inntil 50 prosent av netto tapte inntekter etter eventuell avkortning etter fjerde og femte ledd og [§ 6](forskrift/2020-11-04-2245/§6) fjerde ledd og inntil 50 prosent av merutgifter, for kulturarrangement planlagt avholdt i perioden fra og med 1. november til og med 31. desember 2020.
 
 Maksimal kompensasjon er 3,5 millioner kroner samlet per underleverandør for perioden 1. oktober til og med 31. desember 2020.
 
@@ -128,11 +147,22 @@ Søknad om kompensasjon skal leveres elektronisk via Norsk kulturråds nettsider
 
 Søknadsfrist vil bli fastsatt av Kulturdepartementet.
 
-Arrangører skal oppgi følgende opplysninger i søknadsskjemaet:Bekreftelse på at vilkårene i [§ 2](forskrift/2020-11-04-2245/§2) er oppfylt.Oversikt over tap og merutgifter som søkes kompensert i henhold til [§ 3](forskrift/2020-11-04-2245/§3).Informasjon om hvorvidt arrangementet er et samarbeid mellom flere arrangører.Bekreftelse på at kompensasjon ikke har blitt dekket eller kan dekkes på annen måte, jf. [§ 3](forskrift/2020-11-04-2245/§3) femte ledd.Opplysninger om netto tapte billettinntekter etter [§ 3](forskrift/2020-11-04-2245/§3) annet ledd sammen med det faktiske resultat for det avlyste og stengte kulturarrangementet, vil overstige arrangørens gjennomsnittlige resultat for tilsvarende eller sammenlignbare arrangement i 2017–2019, jf. [§ 4](forskrift/2020-11-04-2245/§4) første ledd, eller opplysninger om netto tapte billettinntekter etter [§ 3](forskrift/2020-11-04-2245/§3) tredje ledd sammen med det faktiske resultatet for avlyst og stengt kulturarrangement vil overstige arrangementets budsjetterte resultat før avlysning eller stenging, jf. [§ 4](forskrift/2020-11-04-2245/§4) andre ledd.
+Arrangører skal oppgi følgende opplysninger i søknadsskjemaet:
+
+1. Bekreftelse på at vilkårene i [§ 2](forskrift/2020-11-04-2245/§2) er oppfylt.
+2. Oversikt over tap og merutgifter som søkes kompensert i henhold til [§ 3](forskrift/2020-11-04-2245/§3).
+3. Informasjon om hvorvidt arrangementet er et samarbeid mellom flere arrangører.
+4. Bekreftelse på at kompensasjon ikke har blitt dekket eller kan dekkes på annen måte, jf. [§ 3](forskrift/2020-11-04-2245/§3) femte ledd.
+5. Opplysninger om netto tapte billettinntekter etter [§ 3](forskrift/2020-11-04-2245/§3) annet ledd sammen med det faktiske resultat for det avlyste og stengte kulturarrangementet, vil overstige arrangørens gjennomsnittlige resultat for tilsvarende eller sammenlignbare arrangement i 2017–2019, jf. [§ 4](forskrift/2020-11-04-2245/§4) første ledd, eller opplysninger om netto tapte billettinntekter etter [§ 3](forskrift/2020-11-04-2245/§3) tredje ledd sammen med det faktiske resultatet for avlyst og stengt kulturarrangement vil overstige arrangementets budsjetterte resultat før avlysning eller stenging, jf. [§ 4](forskrift/2020-11-04-2245/§4) andre ledd.
 
 Dersom et arrangement er et samarbeid mellom flere arrangører, skal den enkelte arrangøren søke om kompensasjon for sin andel av tapte inntekter og eventuelle merutgifter, jf. [§ 3](forskrift/2020-11-04-2245/§3).
 
-Underleverandører skal oppgi følgende opplysninger i søknadsskjemaet:Bekreftelse på at vilkårene i [§ 5](forskrift/2020-11-04-2245/§5) er oppfylt.Oversikt over tap og merutgifter som søkes kompensert i henhold til [§ 6](forskrift/2020-11-04-2245/§6).Bekreftelse på at kompensasjon ikke har blitt dekket eller kan dekkes på annen måte, jf. [§ 6](forskrift/2020-11-04-2245/§6) fjerde ledd.Opplysninger om netto tapte inntekter etter [§ 6](forskrift/2020-11-04-2245/§6) andre ledd sammen med det faktiske resultatet for det avlyste og stengte kulturarrangementet, vil overstige underleverandørens gjennomsnittlige resultat for tilsvarende eller sammenlignbare arrangement i 2017–2019, jf. [§ 7](forskrift/2020-11-04-2245/§7) fjerde ledd, eller opplysninger om netto tapte inntekter etter [§ 6](forskrift/2020-11-04-2245/§6) tredje ledd sammen med det faktiske resultatet for avlyst og stengt kulturarrangement overstiger underleverandørens budsjetterte resultat før avlysning eller stenging, jf. [§ 7](forskrift/2020-11-04-2245/§7) femte ledd.
+Underleverandører skal oppgi følgende opplysninger i søknadsskjemaet:
+
+1. Bekreftelse på at vilkårene i [§ 5](forskrift/2020-11-04-2245/§5) er oppfylt.
+2. Oversikt over tap og merutgifter som søkes kompensert i henhold til [§ 6](forskrift/2020-11-04-2245/§6).
+3. Bekreftelse på at kompensasjon ikke har blitt dekket eller kan dekkes på annen måte, jf. [§ 6](forskrift/2020-11-04-2245/§6) fjerde ledd.
+4. Opplysninger om netto tapte inntekter etter [§ 6](forskrift/2020-11-04-2245/§6) andre ledd sammen med det faktiske resultatet for det avlyste og stengte kulturarrangementet, vil overstige underleverandørens gjennomsnittlige resultat for tilsvarende eller sammenlignbare arrangement i 2017–2019, jf. [§ 7](forskrift/2020-11-04-2245/§7) fjerde ledd, eller opplysninger om netto tapte inntekter etter [§ 6](forskrift/2020-11-04-2245/§6) tredje ledd sammen med det faktiske resultatet for avlyst og stengt kulturarrangement overstiger underleverandørens budsjetterte resultat før avlysning eller stenging, jf. [§ 7](forskrift/2020-11-04-2245/§7) femte ledd.
 
 Dersom flere underleverandører er part i samme kontrakt eller i underliggende kontrakt, skal hver enkelt underleverandør kun søke om kompensasjon for sin andel av tapte inntekter og merutgifter.
 
@@ -158,7 +188,16 @@ Departementet kan ikke instruere klagenemnda i enkeltsaker eller omgjøre klagen
 
 ### § 10. Dokumentasjon
 
-Søkere må på forespørsel bl.a. kunne dokumentere:Spesifikasjon av hvilke kulturarrangementer som inngår i søknad.Tapet eller merutgiftene som søkes kompensert etter [§ 3](forskrift/2020-11-04-2245/§3) eller [§ 6](forskrift/2020-11-04-2245/§6), for eksempel ved å legge frem regnskap fra tidligere års sammenlignbare kulturarrangementer, avtaler, intensjonsavtaler og/eller annen relevant informasjon som viser kostnader, inntekter og eventuelt overskudd, jf. [§ 4](forskrift/2020-11-04-2245/§4) eller [§ 7](forskrift/2020-11-04-2245/§7).Budsjetterte inntekter og utgifter for arrangementet før beslutning om avlysning eller stenging.Kontrakter på leveranse av tjenester/innhold til kulturarrangement for underleverandører, jf. [§ 6](forskrift/2020-11-04-2245/§6) andre ledd.Faktiske inntekter og utgifter for arrangementet etter beslutning om avlysning eller stenging.At tapet eller merutgiftene ikke er blitt dekket eller kan dekkes på annen måte, jf. [§ 3](forskrift/2020-11-04-2245/§3) femte ledd eller [§ 6](forskrift/2020-11-04-2245/§6) femte ledd.At det ble gitt pålegg fra offentlige myndigheter om avlysning eller stenging av arrangementet, samt datoen arrangementet ble avlyst eller stengt.At kulturarrangement som inngår i søknad var planlagt av arrangør før 5. november 2020, jf. [§ 2](forskrift/2020-11-04-2245/§2) første ledd bokstav b og [§ 5](forskrift/2020-11-04-2245/§5) første ledd bokstav b.
+Søkere må på forespørsel bl.a. kunne dokumentere:
+
+1. Spesifikasjon av hvilke kulturarrangementer som inngår i søknad.
+2. Tapet eller merutgiftene som søkes kompensert etter [§ 3](forskrift/2020-11-04-2245/§3) eller [§ 6](forskrift/2020-11-04-2245/§6), for eksempel ved å legge frem regnskap fra tidligere års sammenlignbare kulturarrangementer, avtaler, intensjonsavtaler og/eller annen relevant informasjon som viser kostnader, inntekter og eventuelt overskudd, jf. [§ 4](forskrift/2020-11-04-2245/§4) eller [§ 7](forskrift/2020-11-04-2245/§7).
+3. Budsjetterte inntekter og utgifter for arrangementet før beslutning om avlysning eller stenging.
+4. Kontrakter på leveranse av tjenester/innhold til kulturarrangement for underleverandører, jf. [§ 6](forskrift/2020-11-04-2245/§6) andre ledd.
+5. Faktiske inntekter og utgifter for arrangementet etter beslutning om avlysning eller stenging.
+6. At tapet eller merutgiftene ikke er blitt dekket eller kan dekkes på annen måte, jf. [§ 3](forskrift/2020-11-04-2245/§3) femte ledd eller [§ 6](forskrift/2020-11-04-2245/§6) femte ledd.
+7. At det ble gitt pålegg fra offentlige myndigheter om avlysning eller stenging av arrangementet, samt datoen arrangementet ble avlyst eller stengt.
+8. At kulturarrangement som inngår i søknad var planlagt av arrangør før 5. november 2020, jf. [§ 2](forskrift/2020-11-04-2245/§2) første ledd bokstav b og [§ 5](forskrift/2020-11-04-2245/§5) første ledd bokstav b.
 
 Budsjett og regnskap skal på forespørsel bekreftes av daglig leder eller styreleder. Søkes det om kompensasjon for tap eller merutgifter over 1 million kroner, skal det på forespørsel kunne fremlegges revisorattestestasjon for beregningen av kompensasjonsbeløpet.
 

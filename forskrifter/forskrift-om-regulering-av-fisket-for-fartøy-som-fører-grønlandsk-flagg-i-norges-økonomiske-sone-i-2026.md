@@ -28,7 +28,12 @@ Det er forbudt å drive fiske og fangst for fartøy som fører grønlandsk flagg
 
 ## § 2. Kvoter i Norges økonomiske sone nord for 62° N
 
-Uten hinder av forbudet i [§ 1](forskrift/2026-01-12-26/§1) har fartøy som fører grønlandsk flagg adgang til å fiske følgende kvanta i Norges økonomiske sone nord for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene:2 920 tonn torsk533 tonn hyse454 tonn sei425 tonn andre arter som bifangst, herunder uer og blåkveite.
+Uten hinder av forbudet i [§ 1](forskrift/2026-01-12-26/§1) har fartøy som fører grønlandsk flagg adgang til å fiske følgende kvanta i Norges økonomiske sone nord for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene:
+
+1. 2 920 tonn torsk
+2. 533 tonn hyse
+3. 454 tonn sei
+4. 425 tonn andre arter som bifangst, herunder uer og blåkveite.
 
 ## § 3. Bifangst av uer
 

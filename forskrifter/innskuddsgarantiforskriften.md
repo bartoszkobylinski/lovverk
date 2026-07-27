@@ -42,19 +42,58 @@ Forskriften gjelder for medlemmer av innskuddsgarantiordningen, i samsvar med [f
 
 ## § 4. Systemkrav. Format
 
-(1) Medlemsforetakene skal ha systemer som:til enhver tid kan produsere elektronisk lesbare datafiler med lister i samsvar med kravene i [§ 4](forskrift/2019-12-02-1640/§4)–§ 8.produserer datafiler i XML, eller i et annet format godkjent av Bankenes sikringsfond. Formatet skal ha en struktur som fastsatt av Bankenes sikringsfond. For XML er dette definert ved en XSD fil.jevnlig oppdaterer opplysninger i listene som angitt i [§ 6](forskrift/2019-12-02-1640/§6) og [§ 7](forskrift/2019-12-02-1640/§7). Oppdatering skal gjennomføres før enhver oversendelse av lister til Bankenes sikringsfond.
+(1) Medlemsforetakene skal ha systemer som:
+
+1. til enhver tid kan produsere elektronisk lesbare datafiler med lister i samsvar med kravene i [§ 4](forskrift/2019-12-02-1640/§4)–§ 8.
+2. produserer datafiler i XML, eller i et annet format godkjent av Bankenes sikringsfond. Formatet skal ha en struktur som fastsatt av Bankenes sikringsfond. For XML er dette definert ved en XSD fil.
+3. jevnlig oppdaterer opplysninger i listene som angitt i [§ 6](forskrift/2019-12-02-1640/§6) og [§ 7](forskrift/2019-12-02-1640/§7). Oppdatering skal gjennomføres før enhver oversendelse av lister til Bankenes sikringsfond.
 
 (2) Datafiler skal oversendes på de måter som til enhver tid er gjort tilgjengelig av Bankenes sikringsfond. Datafiler som oversendes elektronisk skal være beskyttet av en krypteringsløsning godkjent av Bankenes sikringsfond.
 
 ## § 5. Inndeling av kundelister
 
-(1) Medlemsforetakene skal for kunder i virksomheten i Norge, inndele kundeopplysninger som følger:liste med alle kunder definert som ikke–finansielle foretak (sektorkode 11100 t.o.m. sektorkode 25000)liste med alle kunder definert som finansielle foretak (sektorkode 31000 t.o.m. sektorkode 57009)liste med alle kunder definert som stats- og trygdeforvaltningen, kommuneforvaltningen, ideelle organisasjoner, personlig næringsdrivende samt borettslag o.l. (sektorkode 61000 t.o.m. sektorkode 83000)liste med alle kunder definert som lønnstakere, pensjonister, trygdede, studenter o.a. (sektorkode 85000)liste med utenlandske sektorer (sektorkode 91000 t.o.m. sektorkode 98000)liste med alle kunder definert som ufordelt (sektorkode 08000).
+(1) Medlemsforetakene skal for kunder i virksomheten i Norge, inndele kundeopplysninger som følger:
 
-(2) For medlemsforetak som driver virksomhet utenfor Norge, skal det utarbeides lister som følger:Medlemsforetak som tar imot innskudd i annen stat gjennom grensekryssende virksomhet skal utarbeide separate lister med innskudd fordelt pr. stat.Medlemsforetak som driver virksomhet gjennom filial i annen stat skal utarbeide separate lister med innskudd fordelt pr. stat. EØS-stater skal merkes særskilt.Innskytere som har innskudd i to eller flere stater spesifiseres på egen liste, i tillegg til at innskyterne skal fremkomme på lister som nevnt i første ledd bokstav a) til f) og i annet ledd bokstav a) og b).
+1. liste med alle kunder definert som ikke–finansielle foretak (sektorkode 11100 t.o.m. sektorkode 25000)
+2. liste med alle kunder definert som finansielle foretak (sektorkode 31000 t.o.m. sektorkode 57009)
+3. liste med alle kunder definert som stats- og trygdeforvaltningen, kommuneforvaltningen, ideelle organisasjoner, personlig næringsdrivende samt borettslag o.l. (sektorkode 61000 t.o.m. sektorkode 83000)
+4. liste med alle kunder definert som lønnstakere, pensjonister, trygdede, studenter o.a. (sektorkode 85000)
+5. liste med utenlandske sektorer (sektorkode 91000 t.o.m. sektorkode 98000)
+6. liste med alle kunder definert som ufordelt (sektorkode 08000).
+
+(2) For medlemsforetak som driver virksomhet utenfor Norge, skal det utarbeides lister som følger:
+
+1. Medlemsforetak som tar imot innskudd i annen stat gjennom grensekryssende virksomhet skal utarbeide separate lister med innskudd fordelt pr. stat.
+2. Medlemsforetak som driver virksomhet gjennom filial i annen stat skal utarbeide separate lister med innskudd fordelt pr. stat. EØS-stater skal merkes særskilt.
+3. Innskytere som har innskudd i to eller flere stater spesifiseres på egen liste, i tillegg til at innskyterne skal fremkomme på lister som nevnt i første ledd bokstav a) til f) og i annet ledd bokstav a) og b).
 
 ## § 6. Lister med kundeopplysninger
 
-(1) Lister med kundeopplysninger skal inneholde følgende:sektorkodesikker identifikasjon (personnummer, organisasjonsnummer, D-nummer mv.)navnadressepostnummerpoststedlandmobilnummere-postadresseinnskyterens språkpreferansekontonummer (alle kontonummer skal spesifiseres pr kunde og valutakontoer skal inkluderes)kontotype (intern benevnelse)valutakode slik som spesifisert i ISO 4217eierandeldebetsaldo (gjeld)debetrenter (gjeldsrenter)debetsaldo inkludert renter (gjeld inkludert gjeldsrenter)kreditsaldo (innskudd)kreditrenter (innskuddsrenter)kreditsaldo inkludert kreditrenter (innskudd inkludert innskuddsrenter)banken har foretatt motregning, jf. [finansforetaksloven § 19-6](lov/2015-04-10-17/§19-6) (J/N)konto med disposisjonsbegrensning ved vedtak i samsvar med [§ 8](forskrift/2019-12-02-1640/§8) (J/N)konto omfatter kvalifisert innskudd, jf. [finansforetaksloven § 19-3](lov/2015-04-10-17/§19-3) (2) (J/N).
+(1) Lister med kundeopplysninger skal inneholde følgende:
+
+1. sektorkode
+2. sikker identifikasjon (personnummer, organisasjonsnummer, D-nummer mv.)
+3. navn
+4. adresse
+5. postnummer
+6. poststed
+7. land
+8. mobilnummer
+9. e-postadresse
+10. innskyterens språkpreferanse
+11. kontonummer (alle kontonummer skal spesifiseres pr kunde og valutakontoer skal inkluderes)
+12. kontotype (intern benevnelse)
+13. valutakode slik som spesifisert i ISO 4217
+14. eierandel
+15. debetsaldo (gjeld)
+16. debetrenter (gjeldsrenter)
+17. debetsaldo inkludert renter (gjeld inkludert gjeldsrenter)
+18. kreditsaldo (innskudd)
+19. kreditrenter (innskuddsrenter)
+20. kreditsaldo inkludert kreditrenter (innskudd inkludert innskuddsrenter)
+21. banken har foretatt motregning, jf. [finansforetaksloven § 19-6](lov/2015-04-10-17/§19-6) (J/N)
+22. konto med disposisjonsbegrensning ved vedtak i samsvar med [§ 8](forskrift/2019-12-02-1640/§8) (J/N)
+23. konto omfatter kvalifisert innskudd, jf. [finansforetaksloven § 19-3](lov/2015-04-10-17/§19-3) (2) (J/N).
 
 (2) Alle beløp skal angis med den andelen som tilsvarer kundens eierandel av innskudd og gjeld.
 
@@ -64,7 +103,15 @@ Forskriften gjelder for medlemmer av innskuddsgarantiordningen, i samsvar med [f
 
 ## § 7. Særskilt merking av innskudd
 
-Følgende informasjon skal angis særskilt i listene:klientkontoerfelles innskuddskontoerinnskudd som kredittinstitusjon ikke har for egen regning og risikoinnskudd som er knyttet til individuelle pensjonsordninger eller kollektive tjenestepensjonsordninger for små og mellomstore bedrifterkontoer uten kundeinitierte transaksjoner de siste 24 månedene (kontoer som har stått uendret i løpet av de siste 24 månedene)innskudd med ukjent innskyterinformasjon om type disposisjonsbegrensning som angitt i [§ 6](forskrift/2019-12-02-1640/§6) (1) bokstav v).
+Følgende informasjon skal angis særskilt i listene:
+
+1. klientkontoer
+2. felles innskuddskontoer
+3. innskudd som kredittinstitusjon ikke har for egen regning og risiko
+4. innskudd som er knyttet til individuelle pensjonsordninger eller kollektive tjenestepensjonsordninger for små og mellomstore bedrifter
+5. kontoer uten kundeinitierte transaksjoner de siste 24 månedene (kontoer som har stått uendret i løpet av de siste 24 månedene)
+6. innskudd med ukjent innskyter
+7. informasjon om type disposisjonsbegrensning som angitt i [§ 6](forskrift/2019-12-02-1640/§6) (1) bokstav v).
 
 ## § 8. Tilleggskrav ved utilgjengelig innskudd
 

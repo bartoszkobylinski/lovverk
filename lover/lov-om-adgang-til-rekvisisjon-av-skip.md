@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1.
 
-Når riket er i krig eller krig truer eller rikets selvstendighet eller sikkerhet er i fare, kan Kongen i den utstrekning han finner at rikets interesser krever det, rekvirere til bruk skip (med tilbehør) som er registrert i Norge eller som eies avnorske statsborgere,personer som er bosatt i Norge eller driver skipsredervirksomhet fra kontor i Norge,partrederier, aksjeselskaper, allmennaksjeselskaper eller andre selskaper som er registrert eller har sitt sete i Norge, eller som driver skipsredervirksomhet fra kontor i Norge.
+Når riket er i krig eller krig truer eller rikets selvstendighet eller sikkerhet er i fare, kan Kongen i den utstrekning han finner at rikets interesser krever det, rekvirere til bruk skip (med tilbehør) som er registrert i Norge eller som eies av
+
+1. norske statsborgere,
+2. personer som er bosatt i Norge eller driver skipsredervirksomhet fra kontor i Norge,
+3. partrederier, aksjeselskaper, allmennaksjeselskaper eller andre selskaper som er registrert eller har sitt sete i Norge, eller som driver skipsredervirksomhet fra kontor i Norge.
 
 Finner Kongen at forholdet til fremmede land som Norge er alliert med, eller andre særlige grunner gjør det nødvendig, kan rekvisisjon også til eie finne sted.
 
@@ -32,7 +36,10 @@ Finner Kongen at forholdet til fremmede land som Norge er alliert med, eller and
 
 ## § 2.
 
-Under forhold som nevnt i [§ 1](lov/1952-12-19-2/§1), første ledd, kan Kongen rekvirereskip under bygging i Norge uansett for hvis regning skipet bygges,kontrakter om bygging av skip i eller utenfor Norge for regning av personer eller selskaper som nevnt i [§ 1](lov/1952-12-19-2/§1), første ledd nr. 1-3.
+Under forhold som nevnt i [§ 1](lov/1952-12-19-2/§1), første ledd, kan Kongen rekvirere
+
+1. skip under bygging i Norge uansett for hvis regning skipet bygges,
+2. kontrakter om bygging av skip i eller utenfor Norge for regning av personer eller selskaper som nevnt i [§ 1](lov/1952-12-19-2/§1), første ledd nr. 1-3.
 
 ## § 3.
 

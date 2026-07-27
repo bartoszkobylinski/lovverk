@@ -15,7 +15,7 @@ xml_hash: "380953677e7bcf6358cca77086cbdc724744391ab9b43ab7cf4f0162a2d25196"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -156,7 +156,10 @@ Utdanning der en virksomhet inngår avtale med Handelshøyskolen BI om å avhold
 
 (9) Bruk av falske dokumenter reguleres av [universitets- og høyskoleloven § 12-1](lov/2024-03-08-9/§12-1). Den som har søkt opptak ved Handelshøyskolen BI ved bruk av falske dokumenter, kan politianmeldes i tillegg til å få dokumentene inndratt og nektes opptak, eller ikke få godkjent utdanning i inntil ett år. Handelshøyskolen BI politianmelder alle forhold der det er mistanke om dokumentforfalskning. Vedtak om inndragning og karantenetid treffes av nemnd for studentsaker ved Handelshøyskolen BI. Vedtaket kan påklages. Karantenetiden kan også få virkning for andre universiteter og høyskoler som omfattes av [universitets- og høyskoleloven](lov/2024-03-08-9).
 
-(10) Når det foreligger saklige grunner kan Handelshøyskolen BI nekte å tilby studieplass til søkere som ellers oppfyller de faglige vilkårene for opptak. Som saklig grunn regnes blant annet at:Søkeren er eller kunne vært bortvist eller utestengt fra Handelshøyskolen BI eller andre læresteder.Søkeren tidligere har misligholdt betalingsforpliktelser overfor Handelshøyskolen BI eller andre læresteder. I slike tilfeller kan det som vilkår for opptak kreves at alle mellomværende gjøres opp og at studieavgift betales forskuddsvis.
+(10) Når det foreligger saklige grunner kan Handelshøyskolen BI nekte å tilby studieplass til søkere som ellers oppfyller de faglige vilkårene for opptak. Som saklig grunn regnes blant annet at:
+
+1. Søkeren er eller kunne vært bortvist eller utestengt fra Handelshøyskolen BI eller andre læresteder.
+2. Søkeren tidligere har misligholdt betalingsforpliktelser overfor Handelshøyskolen BI eller andre læresteder. I slike tilfeller kan det som vilkår for opptak kreves at alle mellomværende gjøres opp og at studieavgift betales forskuddsvis.
 
 (11) Studiekontrakten kan fra begge sider heves ved vesentlig mislighold av kontrakten. En student kan i slike tilfeller også bli utmeldt og miste studieretten.
 
@@ -168,7 +171,9 @@ Utdanning der en virksomhet inngår avtale med Handelshøyskolen BI om å avhold
 
 ### § 2-3. Studieavgift
 
-(1) Enhver student er forpliktet til å betale studieavgift for normert studietid for det aktuelle studium. Studieavgiften betales ved begynnelsen av hvert semester. Normert studietid for det enkelte studium fremgår av forskriften [kapittel 4](forskrift/2018-06-01-1546/kap4). Studenten må betale studieavgift for normert studietid selv om vedkommende gjennomfører studiet på kortere eller lengre tid. Frist for å melde seg av underveis i studiet er angitt i forskriften [§ 3-5](forskrift/2018-06-01-1546/§3-5).Avgift til studentsamskipnad må betales sammen med studieavgift ved de studiesteder eller for studentgrupper som har obligatorisk medlemskap i en studentsamskipnad.
+(1) Enhver student er forpliktet til å betale studieavgift for normert studietid for det aktuelle studium. Studieavgiften betales ved begynnelsen av hvert semester. Normert studietid for det enkelte studium fremgår av forskriften [kapittel 4](forskrift/2018-06-01-1546/kap4). Studenten må betale studieavgift for normert studietid selv om vedkommende gjennomfører studiet på kortere eller lengre tid. Frist for å melde seg av underveis i studiet er angitt i forskriften [§ 3-5](forskrift/2018-06-01-1546/§3-5).
+
+Avgift til studentsamskipnad må betales sammen med studieavgift ved de studiesteder eller for studentgrupper som har obligatorisk medlemskap i en studentsamskipnad.
 
 (2) Enhver student som følger et program, enkeltkurs eller ikke-studiepoenggivende kurs er forpliktet til å betale studieavgift for den normerte studietiden slik den fremgår av den enkelte studiekontrakt. Frist for å melde seg av slik utdanning fremgår av studiekontrakten dersom ikke annen informasjon er gitt, ellers gjelder [§ 3-5](forskrift/2018-06-01-1546/§3-5).
 
@@ -218,11 +223,27 @@ Opptakskravene i dette kapittel er fastsatt med hjemmel i [universitets- og høy
 
 ### § 2-6. Spesifikke opptakskrav til studier på masternivå
 
-(1)For opptak til toårig fulltids masterstudium gjelder, i tillegg til opptakskravene i [§ 2-4](forskrift/2018-06-01-1546/§2-4), kravene som er spesifisert for hvert masterstudium. Opptakskravene er vedtatt av styret og er tilgjengelig på www.bi.no.Opptakskrav for studenter på femårig kontrakt (opprykk fra bachelornivå til masternivå for studenter på bachelor i økonomi og ledelse):Studentene må ha vist tilfredsstillende studieprogresjon i studiene på bachelornivå. Tilfredsstillende progresjon er definert som å ha fullført 180 studiepoeng på bachelornivå.Studenter med fullført og bestått bachelorgrad i rettsvitenskap fra Handelshøyskolen BI, har etter søknad rett til studieplass ved masterstudiet i rettsvitenskap. Denne retten gjelder i to år etter normert studietid for bachelorstudiet. Etter det gjelder opptakskravene i [§ 2-6 (1) bokstav a](forskrift/2018-06-01-1546/§2-6/ledd/1/bokstav/a).
+(1)
 
-(2) For opptak til Master of Management-program gjelder følgende regler i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4):Det kreves fullført bachelorgrad, tilsvarende 180 studiepoeng fra høyskole, universitet eller tilsvarende. Søkeren må være minst 25 år og det settes i tillegg krav til minimum fire års arbeidserfaring. For søkere som har en fullført mastergrad fra før, kreves det tre års arbeidserfaring.Søkere kan også bli tatt opp på grunnlag av realkompetanse som i noen grad kompenserer for mangelfull formell bachelorgrad. Kriteriene for vurdering av realkompetanse er nærmere beskrevet på [www.bi.no](https://www.bi.no/).Enkelte Master of Management-programmer har visse tilleggskrav som søkerne må oppfylle. Hvilke krav som gjelder for hvilke Master of Management-programmer, er gjengitt på [www.bi.no](https://www.bi.no).
+1. For opptak til toårig fulltids masterstudium gjelder, i tillegg til opptakskravene i [§ 2-4](forskrift/2018-06-01-1546/§2-4), kravene som er spesifisert for hvert masterstudium. Opptakskravene er vedtatt av styret og er tilgjengelig på www.bi.no.
+2. Opptakskrav for studenter på femårig kontrakt (opprykk fra bachelornivå til masternivå for studenter på bachelor i økonomi og ledelse):
 
-(3) For opptak til Master of Business Administration-studier gjelder følgende regler i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4):Det kreves fullført bachelorgrad eller tilsvarende fra en akkreditert/godkjent utdanningsinstitusjon. Kvalifikasjoner avlagt ved utenlandske studiesteder vurderes etter de alminnelige regler som gjelder for opptak til norske universiteter og høyskoler. Søkere må i tillegg dokumentere betydelig relevant arbeidserfaring.I særskilte tilfeller kan søkere som i noen grad ikke møter de formelle kravene i [§ 2-6](forskrift/2018-06-01-1546/§2-6) (3) bokstav a bli gitt en vurdering mht. opptak på bakgrunn av søkerens eksepsjonelle arbeidserfaring. Slik vurdering er individuell og vil kun bli gitt til søkere med omfattende ledererfaring ervervet over en betydelig periode. Det kan gis uttelling for tunge styreverv eller akademiske publikasjoner. Søkeren vil bli vurdert av MBA opptakskomité.Søkere til studiet kan i enkelte tilfeller bli pålagt å fullføre og bestå en skriftlig opptakstest.Søkere plikter å vedlegge to anbefalingsbrev, hvorav ett skal være fra nåværende arbeidsgiver, om mulig.Alle kvalifiserte søkere vil bli intervjuet som en del av opptaksprosessen.
+   - Studentene må ha vist tilfredsstillende studieprogresjon i studiene på bachelornivå. Tilfredsstillende progresjon er definert som å ha fullført 180 studiepoeng på bachelornivå.
+3. Studenter med fullført og bestått bachelorgrad i rettsvitenskap fra Handelshøyskolen BI, har etter søknad rett til studieplass ved masterstudiet i rettsvitenskap. Denne retten gjelder i to år etter normert studietid for bachelorstudiet. Etter det gjelder opptakskravene i [§ 2-6 (1) bokstav a](forskrift/2018-06-01-1546/§2-6/ledd/1/bokstav/a).
+
+(2) For opptak til Master of Management-program gjelder følgende regler i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4):
+
+1. Det kreves fullført bachelorgrad, tilsvarende 180 studiepoeng fra høyskole, universitet eller tilsvarende. Søkeren må være minst 25 år og det settes i tillegg krav til minimum fire års arbeidserfaring. For søkere som har en fullført mastergrad fra før, kreves det tre års arbeidserfaring.
+2. Søkere kan også bli tatt opp på grunnlag av realkompetanse som i noen grad kompenserer for mangelfull formell bachelorgrad. Kriteriene for vurdering av realkompetanse er nærmere beskrevet på [www.bi.no](https://www.bi.no/).
+3. Enkelte Master of Management-programmer har visse tilleggskrav som søkerne må oppfylle. Hvilke krav som gjelder for hvilke Master of Management-programmer, er gjengitt på [www.bi.no](https://www.bi.no).
+
+(3) For opptak til Master of Business Administration-studier gjelder følgende regler i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4):
+
+1. Det kreves fullført bachelorgrad eller tilsvarende fra en akkreditert/godkjent utdanningsinstitusjon. Kvalifikasjoner avlagt ved utenlandske studiesteder vurderes etter de alminnelige regler som gjelder for opptak til norske universiteter og høyskoler. Søkere må i tillegg dokumentere betydelig relevant arbeidserfaring.
+2. I særskilte tilfeller kan søkere som i noen grad ikke møter de formelle kravene i [§ 2-6](forskrift/2018-06-01-1546/§2-6) (3) bokstav a bli gitt en vurdering mht. opptak på bakgrunn av søkerens eksepsjonelle arbeidserfaring. Slik vurdering er individuell og vil kun bli gitt til søkere med omfattende ledererfaring ervervet over en betydelig periode. Det kan gis uttelling for tunge styreverv eller akademiske publikasjoner. Søkeren vil bli vurdert av MBA opptakskomité.
+3. Søkere til studiet kan i enkelte tilfeller bli pålagt å fullføre og bestå en skriftlig opptakstest.
+4. Søkere plikter å vedlegge to anbefalingsbrev, hvorav ett skal være fra nåværende arbeidsgiver, om mulig.
+5. Alle kvalifiserte søkere vil bli intervjuet som en del av opptaksprosessen.
 
 > Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [11 mars 2025 nr. 420](forskrift/2025-03-11-420) (i kraft 15 april 2025). [15 juni 2026 nr. 1110](forskrift/2026-06-15-1110). **Endres** ved [forskrift 28 april 2026 nr. 737](forskrift/2026-04-28-737) (i kraft 1 sep 2026).
 
@@ -286,9 +307,20 @@ En uforutsett, ikke påvirkbar omstendighet som medfører at studenten ikke er i
 
 (2) Studenten må betale studieavgift hvert semester innen gjeldende frister for å beholde studieretten.
 
-(3) Studenter kan midlertidig eller permanent miste studieretten til den utdanningen de er tatt opp til når studenten:Har overskredet den fastsatte grensen for normert studietid inklusive forlenget studietidIkke oppfyller de økonomiske forpliktelsene tilknyttet studiekontrakten med Handelshøyskolen BIIkke oppfyller krav til progresjon jf. [§ 3-4](forskrift/2018-06-01-1546/§3-4)Er utestengt for brudd på ordensbestemmelsene, fusk jf. [§ 1-3](forskrift/2018-06-01-1546/§1-3)Har brukt opp sine forsøk til eksamen jf. [§ 5-7](forskrift/2018-06-01-1546/§5-7)Ikke fremviser forespurte originaldokumenter som er grunnlaget for opptak til studier eller for utstedelse av vitnemål for kontroll, jf. [§ 2-2](forskrift/2018-06-01-1546/§2-2) (8).
+(3) Studenter kan midlertidig eller permanent miste studieretten til den utdanningen de er tatt opp til når studenten:
 
-(4) Studieretten til et studium opphører når studenten:Har oppnådd graden og det ikke er innvilget forlenget studietidOppnår studierett ved et annet studium eller studiested ved Handelshøyskolen BI, med mindre det er forutsatt at også den tidligere studieretten skal beståMelder fra om at han eller hun ønsker å avslutte studiet i henhold til gjeldende frister i studiekontrakten.
+1. Har overskredet den fastsatte grensen for normert studietid inklusive forlenget studietid
+2. Ikke oppfyller de økonomiske forpliktelsene tilknyttet studiekontrakten med Handelshøyskolen BI
+3. Ikke oppfyller krav til progresjon jf. [§ 3-4](forskrift/2018-06-01-1546/§3-4)
+4. Er utestengt for brudd på ordensbestemmelsene, fusk jf. [§ 1-3](forskrift/2018-06-01-1546/§1-3)
+5. Har brukt opp sine forsøk til eksamen jf. [§ 5-7](forskrift/2018-06-01-1546/§5-7)
+6. Ikke fremviser forespurte originaldokumenter som er grunnlaget for opptak til studier eller for utstedelse av vitnemål for kontroll, jf. [§ 2-2](forskrift/2018-06-01-1546/§2-2) (8).
+
+(4) Studieretten til et studium opphører når studenten:
+
+1. Har oppnådd graden og det ikke er innvilget forlenget studietid
+2. Oppnår studierett ved et annet studium eller studiested ved Handelshøyskolen BI, med mindre det er forutsatt at også den tidligere studieretten skal bestå
+3. Melder fra om at han eller hun ønsker å avslutte studiet i henhold til gjeldende frister i studiekontrakten.
 
 ### § 3-3. Fastsetting av studieplan og kursbeskrivelser
 
@@ -306,9 +338,19 @@ Fastsatt med hjemmel i [universitets- og høyskoleloven § 11-1](lov/2024-03-08-
 
 ### § 3-4. Utdanningsplan og studieprogresjon
 
-(1)Mellom Handelshøyskolen BI og studenter som tas opp til studier av 60 studiepoengs omfang eller mer, skal det utarbeides en utdanningsplan, iht. [universitets- og høyskoleloven § 11-3](lov/2024-03-08-9/§11-3). Utdanningsplanen skal inneholde bestemmelser om høyskolens ansvar og forpliktelser overfor studenten, og studentens forpliktelser overfor høyskolen og medstudenter.Utdanningsplanen skal være satt opp slik at studenten skal kunne gjennomføre planlagt studium eller studieløp på normert tid som heltid- eller deltidsstudent. Utdanningsplanen er vanligvis lik normert studieprogresjon for den aktuelle studieplan.Utdanningsplanen kan endres etter avtale mellom Handelshøyskolen BI og studenten.For studenter ved bachelorstudiene gis det anledning til å søke om å skifte bachelorstudium etter første studieår. Utdanningsplanen justeres iht. studieplan på det nye bachelorstudiet og studenten må være forberedt på at det kan bli nødvendig å ta tilleggskurs.
+(1)
 
-(2)Eventuelle spesifikke krav til studieprogresjon er nedfelt i den enkelte students studiekontrakt.Studenter som ikke tilfredsstiller studieprogresjonskrav iht. den enkelte kontrakt, vil ikke kunne fortsette på neste studieår. Studenten tilbys ett års opphold (progresjonspermisjon) i ordinær utdanningsplan for å innhente manglende eksamener. Studenten vil ikke bli belastet med studieavgifter i denne perioden. Dersom progresjonskravet ikke er oppfylt etter oppholdet fra ordinær utdanningsplan, vil studenten bli meldt ut fra Handelshøyskolen BI.For studenter på ph.d.-studiet vises det til egen forskrift om ph.d. ved Handelshøyskolen BI.Det er i utgangspunktet ikke mulig å forsere den oppsatte studieprogresjonen angitt som studentens utdanningsplan. I særskilte tilfeller kan den enkelte student likevel søke om å forsere studieløpet. Studenten må kunne dokumentere tilstrekkelig kunnskap i alle kurs innenfor sin studieplan ift. nivået studenten er på. Det er studieprogramleder for studiet som avgjør om studenten kan forsere oppsatt studieprogresjon.
+1. Mellom Handelshøyskolen BI og studenter som tas opp til studier av 60 studiepoengs omfang eller mer, skal det utarbeides en utdanningsplan, iht. [universitets- og høyskoleloven § 11-3](lov/2024-03-08-9/§11-3). Utdanningsplanen skal inneholde bestemmelser om høyskolens ansvar og forpliktelser overfor studenten, og studentens forpliktelser overfor høyskolen og medstudenter.
+2. Utdanningsplanen skal være satt opp slik at studenten skal kunne gjennomføre planlagt studium eller studieløp på normert tid som heltid- eller deltidsstudent. Utdanningsplanen er vanligvis lik normert studieprogresjon for den aktuelle studieplan.
+3. Utdanningsplanen kan endres etter avtale mellom Handelshøyskolen BI og studenten.
+4. For studenter ved bachelorstudiene gis det anledning til å søke om å skifte bachelorstudium etter første studieår. Utdanningsplanen justeres iht. studieplan på det nye bachelorstudiet og studenten må være forberedt på at det kan bli nødvendig å ta tilleggskurs.
+
+(2)
+
+1. Eventuelle spesifikke krav til studieprogresjon er nedfelt i den enkelte students studiekontrakt.
+2. Studenter som ikke tilfredsstiller studieprogresjonskrav iht. den enkelte kontrakt, vil ikke kunne fortsette på neste studieår. Studenten tilbys ett års opphold (progresjonspermisjon) i ordinær utdanningsplan for å innhente manglende eksamener. Studenten vil ikke bli belastet med studieavgifter i denne perioden. Dersom progresjonskravet ikke er oppfylt etter oppholdet fra ordinær utdanningsplan, vil studenten bli meldt ut fra Handelshøyskolen BI.
+3. For studenter på ph.d.-studiet vises det til egen forskrift om ph.d. ved Handelshøyskolen BI.
+4. Det er i utgangspunktet ikke mulig å forsere den oppsatte studieprogresjonen angitt som studentens utdanningsplan. I særskilte tilfeller kan den enkelte student likevel søke om å forsere studieløpet. Studenten må kunne dokumentere tilstrekkelig kunnskap i alle kurs innenfor sin studieplan ift. nivået studenten er på. Det er studieprogramleder for studiet som avgjør om studenten kan forsere oppsatt studieprogresjon.
 
 > Endret ved forskrifter [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [6 juni 2024 nr. 1515](forskrift/2024-06-06-1515) (i kraft 1 aug 2024), [15 juni 2026 nr. 1110](forskrift/2026-06-15-1110).
 
@@ -320,7 +362,13 @@ Fastsatt med hjemmel i [universitets- og høyskoleloven § 11-1](lov/2024-03-08-
 
 (3) Studenter som har meldt seg ut av et studium/program eller er blitt meldt ut av Handelshøyskolen BI, må søke om opptak på nytt dersom de senere ønsker studieplass. Handelshøyskolen BI vurderer da ut fra gjeldende regelverk og studieplaner om tidligere avlagte eksamener kan inngå i grad/tittel.
 
-(4)Det gis anledning til å søke om ett års permisjon i løpet av normert studietid. Søknad om permisjon skal sendes skriftlig til den studieenheten studenten tilhører. Søknadsfristen er 15. august for permisjoner som skal starte i høstsemesteret og 15. januar for permisjoner som skal starte i vårsemesteret. Permisjonen gis kun for et helt år. Adgang til å søke om permisjon gjelder ikke for studietilbud innen etter- og videreutdanning (deltid) som er av to semesters varighet eller kortere. Permisjon kan innvilges tidligst etter ett semester som aktiv student.Studenter på Master of Business Administration og Master of Management in Energy er unntatt fra søknadsfristen i bokstav a. Studenter på disse programmene kan gis permisjon inntil ett år og må avslutte studiet sammen med det etterfølgende kullet.Unntak fra søknadsfrist og permisjonsoppstart er permisjoner som skyldes foreldrepermisjon, avtjening av førstegangstjeneste eller force majeure. Slik permisjon må dokumenteres med legeerklæring eller annen relevant dokumentasjon. Studenten blir ikke belastet med studieavgift i permisjonstiden.Studenter på femårig integrert studium i bachelor og master i økonomi og ledelse (siviløkonom) kan bli gitt inntil to års permisjon fra studiene mellom bachelornivå og masternivå av programmet, i tillegg til annen permisjon gitt i punkt (4) bokstav a og c over. Studenter som har lengre opphold mellom bachelornivå og masternivå på studiet, mister studieretten etter [§ 3-2](forskrift/2018-06-01-1546/§3-2), og samtidig retten til automatisk å komme inn på masternivå, og må søke om opptak til masternivå på de vilkår som fremkommer under forskriften [§ 2-4](forskrift/2018-06-01-1546/§2-4) og [§ 2-6](forskrift/2018-06-01-1546/§2-6) (1).For studenter på ph.d.-studiet vises det til egen forskrift om ph.d. ved Handelshøyskolen BI.
+(4)
+
+1. Det gis anledning til å søke om ett års permisjon i løpet av normert studietid. Søknad om permisjon skal sendes skriftlig til den studieenheten studenten tilhører. Søknadsfristen er 15. august for permisjoner som skal starte i høstsemesteret og 15. januar for permisjoner som skal starte i vårsemesteret. Permisjonen gis kun for et helt år. Adgang til å søke om permisjon gjelder ikke for studietilbud innen etter- og videreutdanning (deltid) som er av to semesters varighet eller kortere. Permisjon kan innvilges tidligst etter ett semester som aktiv student.
+2. Studenter på Master of Business Administration og Master of Management in Energy er unntatt fra søknadsfristen i bokstav a. Studenter på disse programmene kan gis permisjon inntil ett år og må avslutte studiet sammen med det etterfølgende kullet.
+3. Unntak fra søknadsfrist og permisjonsoppstart er permisjoner som skyldes foreldrepermisjon, avtjening av førstegangstjeneste eller force majeure. Slik permisjon må dokumenteres med legeerklæring eller annen relevant dokumentasjon. Studenten blir ikke belastet med studieavgift i permisjonstiden.
+4. Studenter på femårig integrert studium i bachelor og master i økonomi og ledelse (siviløkonom) kan bli gitt inntil to års permisjon fra studiene mellom bachelornivå og masternivå av programmet, i tillegg til annen permisjon gitt i punkt (4) bokstav a og c over. Studenter som har lengre opphold mellom bachelornivå og masternivå på studiet, mister studieretten etter [§ 3-2](forskrift/2018-06-01-1546/§3-2), og samtidig retten til automatisk å komme inn på masternivå, og må søke om opptak til masternivå på de vilkår som fremkommer under forskriften [§ 2-4](forskrift/2018-06-01-1546/§2-4) og [§ 2-6](forskrift/2018-06-01-1546/§2-6) (1).
+5. For studenter på ph.d.-studiet vises det til egen forskrift om ph.d. ved Handelshøyskolen BI.
 
 (5) En student som søker foreldrepermisjon har i permisjonstiden fortsatt status som student ved Handelshøyskolen BI, og har rett til å gjenoppta sine studier på tilsvarende nivå som før permisjonen.
 
@@ -356,15 +404,28 @@ Skriftlig arbeid av et nærmere angitt omfang som inngår i mastergradseksamen o
 
 ### § 4-2. Grader
 
-Fastsatt med hjemmel i [universitets- og høyskoleloven kapittel 3](lov/2024-03-08-9/kap3), i [forskrift 16. desember 2005 nr. 1574 om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler](forskrift/2005-12-16-1574) og i [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392), har Handelshøyskolen BI rett til å tildele følgende grader som gir rett til tilsvarende tittel og med normert studietid som angitt:Høgskolekandidat, normert studietid 2 årBachelor, normert studietid 3 årMaster, normert studietid 2 år / 1,5–2 år for erfaringsbasert MasterMaster of Business Administration (MBA), normert studietid 1–1 ½ årPhilosophiae doctor (ph.d.), normert studietid 3 år.
+Fastsatt med hjemmel i [universitets- og høyskoleloven kapittel 3](lov/2024-03-08-9/kap3), i [forskrift 16. desember 2005 nr. 1574 om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler](forskrift/2005-12-16-1574) og i [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392), har Handelshøyskolen BI rett til å tildele følgende grader som gir rett til tilsvarende tittel og med normert studietid som angitt:
+
+1. Høgskolekandidat, normert studietid 2 år
+2. Bachelor, normert studietid 3 år
+3. Master, normert studietid 2 år / 1,5–2 år for erfaringsbasert Master
+4. Master of Business Administration (MBA), normert studietid 1–1 ½ år
+5. Philosophiae doctor (ph.d.), normert studietid 3 år.
 
 > Endret ved forskrift [6 juni 2024 nr. 1515](forskrift/2024-06-06-1515) (i kraft 1 aug 2024).
 
 ### § 4-3. Generelle krav til innhold og sammensetning av graden Bachelor
 
-(1)Bachelorstudiene er treårige heltidsstudier, hvor hvert år omfatter 60 studiepoeng. Til sammen utgjør et bachelorstudium 180 studiepoeng. For å oppfylle eksterne rammeplaner eller kvalifisere for fellesgrader med utenlandske universiteter/høyskoler, kan enkelte studier utgjøre mer enn 180 studiepoeng.Enkelte av bachelorstudiene tilbys også på deltid, og kan også bygges opp ved å ta eksamener i enkeltstående høyskolekurs. Studenter som har et tittelstudium som studiemål, men velger å gjennomføre dette ved å ta enkeltstående høyskolekurs, gjøres særlig oppmerksom på at studier må fullføres etter den til enhver tid gjeldende studieplan.
+(1)
 
-(2)Studenter som starter på bachelorstudiet etter høsten 2009, vil etter det første året av et bachelorstudium enten kunne få tittelen bedriftsøkonom BI eller tittelen markedsøkonom BI, avhengig av studium og kurskombinasjon. For studenter som startet før dette, gis utfyllende informasjon på BIs studentportal.Studenter som starter på bachelorstudiet i økonomi og administrasjon etter høsten 2009 vil etter studiets andre år få tittel høyskolekandidat. Tilsvarende vil studenter på bachelorstudiet i markedsføringsledelse få tittelen markedskandidat. For studenter som startet før dette, gis utfyllende informasjon på BIs studentportal.Studenter som har fullført hele bachelorstudiet vil få tittelen bachelor i det studiet de har gjennomført.
+1. Bachelorstudiene er treårige heltidsstudier, hvor hvert år omfatter 60 studiepoeng. Til sammen utgjør et bachelorstudium 180 studiepoeng. For å oppfylle eksterne rammeplaner eller kvalifisere for fellesgrader med utenlandske universiteter/høyskoler, kan enkelte studier utgjøre mer enn 180 studiepoeng.
+2. Enkelte av bachelorstudiene tilbys også på deltid, og kan også bygges opp ved å ta eksamener i enkeltstående høyskolekurs. Studenter som har et tittelstudium som studiemål, men velger å gjennomføre dette ved å ta enkeltstående høyskolekurs, gjøres særlig oppmerksom på at studier må fullføres etter den til enhver tid gjeldende studieplan.
+
+(2)
+
+1. Studenter som starter på bachelorstudiet etter høsten 2009, vil etter det første året av et bachelorstudium enten kunne få tittelen bedriftsøkonom BI eller tittelen markedsøkonom BI, avhengig av studium og kurskombinasjon. For studenter som startet før dette, gis utfyllende informasjon på BIs studentportal.
+2. Studenter som starter på bachelorstudiet i økonomi og administrasjon etter høsten 2009 vil etter studiets andre år få tittel høyskolekandidat. Tilsvarende vil studenter på bachelorstudiet i markedsføringsledelse få tittelen markedskandidat. For studenter som startet før dette, gis utfyllende informasjon på BIs studentportal.
+3. Studenter som har fullført hele bachelorstudiet vil få tittelen bachelor i det studiet de har gjennomført.
 
 > Endret ved forskrift [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021).
 
@@ -374,23 +435,61 @@ Fastsatt med hjemmel i [universitets- og høyskoleloven kapittel 3](lov/2024-03-
 
 (2) (Opphevet)
 
-(3)For graden Bachelor i ledelse stilles følgende krav til fagsammensetning:60 valgfrie studiepoeng30 studiepoeng kjernefagTo fordypninger à 30 studiepoeng30 studiepoeng avsluttende program Leadership in Action.Minimum 30 studiepoeng fordypning og det avsluttende programmet Leadership in Action må tas ved Handelshøyskolen BI.Fagsammensetning i Bachelor i ledelse-graden gjelder innenfor til enhver tid gjeldende studiemodell.
+(3)
+
+1. For graden Bachelor i ledelse stilles følgende krav til fagsammensetning:
+
+   - 60 valgfrie studiepoeng
+   - 30 studiepoeng kjernefag
+   - To fordypninger à 30 studiepoeng
+   - 30 studiepoeng avsluttende program Leadership in Action.
+2. Minimum 30 studiepoeng fordypning og det avsluttende programmet Leadership in Action må tas ved Handelshøyskolen BI.
+3. Fagsammensetning i Bachelor i ledelse-graden gjelder innenfor til enhver tid gjeldende studiemodell.
 
 > Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [24 okt 2023 nr. 1720](forskrift/2023-10-24-1720) (i kraft 1 nov 2023), [23 jan 2024 nr. 205](forskrift/2024-01-23-205) (i kraft 1 mars 2024), [27 mai 2026 nr. 909](forskrift/2026-05-27-909).
 
 ### § 4-5. Særskilte krav til innhold og sammensetning av graden master
 
-Krav til omfang fastsettes med hjemmel i [forskrift 1. desember 2005 nr. 1392](forskrift/2005-12-01-1392) om krav til mastergrad. Ved Handelshøyskolen BI kan graden master oppnås på følgende grunnlag:Graden master oppnås på grunnlag av mastergradseksamen av 120 studiepoengs (toårig) omfang, inkludert selvstendig arbeid på minst 30, maks 60 studiepoeng.Graden master oppnås på grunnlag av mastergradseksamen av 300 studiepoengs (femårig) omfang, inkludert selvstendig arbeid på minst 30, maks 60 studiepoeng.Erfaringsbasert master oppnås på grunnlag av mastergradseksamen av 90 eller 120 studiepoengs omfang, inkludert selvstendig arbeid på minimum 30 og maksimum 60 studiepoeng.Graden Master of Business Administration ved Handelshøyskolen BI oppnås på grunnlag av mastergradseksamen av 1–1 ½ års omfang (fulltid).
+Krav til omfang fastsettes med hjemmel i [forskrift 1. desember 2005 nr. 1392](forskrift/2005-12-01-1392) om krav til mastergrad. Ved Handelshøyskolen BI kan graden master oppnås på følgende grunnlag:
+
+1. Graden master oppnås på grunnlag av mastergradseksamen av 120 studiepoengs (toårig) omfang, inkludert selvstendig arbeid på minst 30, maks 60 studiepoeng.
+2. Graden master oppnås på grunnlag av mastergradseksamen av 300 studiepoengs (femårig) omfang, inkludert selvstendig arbeid på minst 30, maks 60 studiepoeng.
+3. Erfaringsbasert master oppnås på grunnlag av mastergradseksamen av 90 eller 120 studiepoengs omfang, inkludert selvstendig arbeid på minimum 30 og maksimum 60 studiepoeng.
+4. Graden Master of Business Administration ved Handelshøyskolen BI oppnås på grunnlag av mastergradseksamen av 1–1 ½ års omfang (fulltid).
 
 > Endret ved forskrift [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021).
 
 ### § 4-6. Særskilte krav til innhold og sammensetning for enkelte mastergrader
 
-(1) Disiplinbasert master er et toårig heltidsstudium som består av totalt 90 studiepoengs kurs, og masteroppgave på 30 studiepoeng. Til sammen utgjør graden master 120 studiepoeng.Mastergraden tildeles etter fullført og bestått nødvendig kombinasjon av kurs og masteroppgave av totalt 120 studiepoengs omfang. Studenter som har fullført hele masterstudiet vil få tittelen master i det studiet de har gjennomført. Se BIs studentportal for studieplan for hver spesialisering.Graden kan tildeles med «Honours» til studenter som har oppnådd fremragende resultater. Se BIs studentportal for ytterligere informasjon.Studenter som får opptak til et masterstudium som en del av en «double degree»-avtale med en samarbeidsinstitusjon gir overføring av studiepoeng mellom institusjonene og den avtale som foreligger. Se BIs studentportal for ytterligere informasjon.Studenter som har fullført master i økonomi og ledelse kan ha rett til å bruke tittelen «Siviløkonom». Retten til å bruke denne tittelen vil bli tildelt dersom kandidaten kan dokumentere følgende:En fullført mastergrad i økonomi og ledelseEn fullført bachelorgrad som tilfredsstiller kravene til fagområder og studiepoeng fastsatt av Universitets- og høgskolerådet (UHR). Dette inkluderer følgende fagområder:Bedriftsøkonomiske fagAdministrative fagSamfunnsøkonomiske fagMetodefag (inkludert matematikk og økonometri)Etikk, samfunnsansvar og bærekraft.
+(1) Disiplinbasert master er et toårig heltidsstudium som består av totalt 90 studiepoengs kurs, og masteroppgave på 30 studiepoeng. Til sammen utgjør graden master 120 studiepoeng.
 
-(2) Master of Management er et 90 studiepoengs studium. Normert studietid for hele graden Master of Management er tre år på deltid.Graden Master of Management oppnås når studenten har bestått Master of Management kurs og/eller programmer på til sammen 90 studiepoeng.Studenter som har bestått Master of Management kurs og/eller programmer på totalt 90 studiepoeng tilfredsstiller kravet til selvstendig arbeid i høyere grad.(Opphevet)Kombinasjonen av programmer og enkeltkurs en kandidat ønsker å sette sammen, skal ikke ha faglig overlapping med hverandre og skal forhåndsgodkjennes av Handelshøyskolen BI. I graden Master of Management skal ikke andelen enkeltkurs uten selvstendig arbeid overskride 30 studiepoeng for at kravet til selvstendig arbeid skal oppfylles, jf. [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392).
+1. Mastergraden tildeles etter fullført og bestått nødvendig kombinasjon av kurs og masteroppgave av totalt 120 studiepoengs omfang. Studenter som har fullført hele masterstudiet vil få tittelen master i det studiet de har gjennomført. Se BIs studentportal for studieplan for hver spesialisering.
+2. Graden kan tildeles med «Honours» til studenter som har oppnådd fremragende resultater. Se BIs studentportal for ytterligere informasjon.
+3. Studenter som får opptak til et masterstudium som en del av en «double degree»-avtale med en samarbeidsinstitusjon gir overføring av studiepoeng mellom institusjonene og den avtale som foreligger. Se BIs studentportal for ytterligere informasjon.
+4. Studenter som har fullført master i økonomi og ledelse kan ha rett til å bruke tittelen «Siviløkonom». Retten til å bruke denne tittelen vil bli tildelt dersom kandidaten kan dokumentere følgende:
 
-(3)Master of Business Administration er et 90 studiepoengsstudium. Normert studietid er 11 måneder heltid.(Opphevet)Graden Master of Business Administration tildeles etter fullført og bestått nødvendig kombinasjon av kurs, seminarer og consultancy project av totalt 90 studiepoengs omfang.Studenter som avlegger graden Master of Business Administration ved Fudan University i Kina vil bli tildelt graden etter at den nødvendige kombinasjon av kurs og masteroppgave er fullført og bestått der dette er et krav.
+   - En fullført mastergrad i økonomi og ledelse
+   - En fullført bachelorgrad som tilfredsstiller kravene til fagområder og studiepoeng fastsatt av Universitets- og høgskolerådet (UHR). Dette inkluderer følgende fagområder:
+
+     - Bedriftsøkonomiske fag
+     - Administrative fag
+     - Samfunnsøkonomiske fag
+     - Metodefag (inkludert matematikk og økonometri)
+     - Etikk, samfunnsansvar og bærekraft.
+
+(2) Master of Management er et 90 studiepoengs studium. Normert studietid for hele graden Master of Management er tre år på deltid.
+
+1. Graden Master of Management oppnås når studenten har bestått Master of Management kurs og/eller programmer på til sammen 90 studiepoeng.
+2. Studenter som har bestått Master of Management kurs og/eller programmer på totalt 90 studiepoeng tilfredsstiller kravet til selvstendig arbeid i høyere grad.
+3. (Opphevet)
+4. Kombinasjonen av programmer og enkeltkurs en kandidat ønsker å sette sammen, skal ikke ha faglig overlapping med hverandre og skal forhåndsgodkjennes av Handelshøyskolen BI. I graden Master of Management skal ikke andelen enkeltkurs uten selvstendig arbeid overskride 30 studiepoeng for at kravet til selvstendig arbeid skal oppfylles, jf. [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392).
+
+(3)
+
+1. Master of Business Administration er et 90 studiepoengsstudium. Normert studietid er 11 måneder heltid.
+2. (Opphevet)
+3. Graden Master of Business Administration tildeles etter fullført og bestått nødvendig kombinasjon av kurs, seminarer og consultancy project av totalt 90 studiepoengs omfang.
+4. Studenter som avlegger graden Master of Business Administration ved Fudan University i Kina vil bli tildelt graden etter at den nødvendige kombinasjon av kurs og masteroppgave er fullført og bestått der dette er et krav.
 
 > Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [24 jan 2023 nr. 244](forskrift/2023-01-24-244) (i kraft 1 mars 2023), [21 jan 2025 nr. 76](forskrift/2025-01-21-76) (i kraft 1 feb 2025), [27 mai 2026 nr. 909](forskrift/2026-05-27-909), [27 mai 2026 nr. 909](forskrift/2026-05-27-909).
 
@@ -404,7 +503,10 @@ Fastsatt med hjemmel i [universitets- og høyskoleloven § 3-11](lov/2005-04-01-
 
 (1) Vitnemål fra Handelshøyskolen BI utstedes når alle eksamener i en grad er fullført og bestått. Samtidig utstedes det Diploma Supplement for alle grader avlagt ved Handelshøyskolen BI. Det skal fremgå av vitnemålet dersom utdanningen er gitt i samarbeid med andre institusjoner.
 
-(2)Vitnemål for grader utstedes under forutsetning av at minimum 60 nye studiepoeng som skal inngå i beregningsgrunnlaget er tatt ved Handelshøyskolen BI.Unntatt fra dette kravet er grader som gis i samarbeid med andre norske og utenlandske institusjoner.
+(2)
+
+1. Vitnemål for grader utstedes under forutsetning av at minimum 60 nye studiepoeng som skal inngå i beregningsgrunnlaget er tatt ved Handelshøyskolen BI.
+2. Unntatt fra dette kravet er grader som gis i samarbeid med andre norske og utenlandske institusjoner.
 
 (3) Ved faglig godkjenning av utdanning som tidligere har inngått i beregningsgrunnlaget for en grad eller som del av en grad, må en student i tillegg ha avlagt minst 60 nye studiepoeng før det kan utstedes et nytt vitnemål eller tildeles en ny grad.
 
@@ -478,7 +580,12 @@ Sensor som vurderer vurderingsordningene. Kan bare være ekstern.
 
 (2) Kursbeskrivelsen er vedtatt av den aktuelle faglige porteføljelederen. Styret har delegert til den aktuelle faglige porteføljelederen å fatte vedtak om utfyllende regler om kursets eksamen gjengitt i kursbeskrivelsen.
 
-(3) De for tiden gyldige vurderingsformer, eller en kombinasjon av disse, er:Innleveringer, herunder skriftlig oppgavebesvarelse, multimediaproduksjon, bloggproduksjon, medstudentrespons eller strukturert test.Aktiviteter, herunder muntlig utspørring, opponering, presentasjon, spill, simuleringer, eksperiment-lab eller klassediskusjon.Nærmere bestemmelser om vurderingsformer fremgår av særskilte regler for de aktuelle kurs eller studier der slike regler er gitt.
+(3) De for tiden gyldige vurderingsformer, eller en kombinasjon av disse, er:
+
+1. Innleveringer, herunder skriftlig oppgavebesvarelse, multimediaproduksjon, bloggproduksjon, medstudentrespons eller strukturert test.
+2. Aktiviteter, herunder muntlig utspørring, opponering, presentasjon, spill, simuleringer, eksperiment-lab eller klassediskusjon.
+
+Nærmere bestemmelser om vurderingsformer fremgår av særskilte regler for de aktuelle kurs eller studier der slike regler er gitt.
 
 (4) Vurderingsform, tillatte hjelpemidler og eventuelt gruppestørrelse til eksamen fremgår av kursbeskrivelsen.
 
@@ -500,7 +607,13 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 ### § 5-4. Eksamensrett
 
-(1) Kandidater har adgang til å avlegge en eksamen dersom følgende betingelser er tilfredsstilt:Har en studiekontrakt som hjemler adgang til den aktuelle eksamenOppfyller eventuelle, spesielle faglige eller andre krav som gjelder deltagelse i den aktuelle enkelteksamen, herunder obligatoriske arbeidskravEr registrert som eksamensoppmeldt ved fristens utløpHar gjennomført færre eksamensforsøk i den aktuelle enkelteksamen enn det som følger av [§ 5-7](forskrift/2018-06-01-1546/§5-7) (1)Har oppfylt de økonomiske forpliktelsene tilknyttet studiekontrakten.
+(1) Kandidater har adgang til å avlegge en eksamen dersom følgende betingelser er tilfredsstilt:
+
+1. Har en studiekontrakt som hjemler adgang til den aktuelle eksamen
+2. Oppfyller eventuelle, spesielle faglige eller andre krav som gjelder deltagelse i den aktuelle enkelteksamen, herunder obligatoriske arbeidskrav
+3. Er registrert som eksamensoppmeldt ved fristens utløp
+4. Har gjennomført færre eksamensforsøk i den aktuelle enkelteksamen enn det som følger av [§ 5-7](forskrift/2018-06-01-1546/§5-7) (1)
+5. Har oppfylt de økonomiske forpliktelsene tilknyttet studiekontrakten.
 
 (2) Vedtak om å nekte en kandidat å gå opp til eksamen kan påklages til den enhet som har truffet det påklagde vedtak. Fristen for å klage er tre uker fra det tidspunkt vedtaket er gjort kjent for søker. Dersom klagen ikke tas til følge fullt ut i vedtaksenheten, skal vedtaksenheten oversende saken til nemnd for studentsaker ved Handelshøyskolen BI.
 
@@ -524,13 +637,31 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 ### § 5-7. Kontinuasjonseksamen
 
-(1)Kandidaten kan gjennomføre tre eksamensforsøk i samme kurs. Studenter ved Master of Business Administration har tre forsøk på å bestå et kurs, men kan ikke avlegge kontinuasjonseksamen for å forbedre karakteren hvis kurset er bestått. For informasjon om kontinuasjonseksamen henvises det til den enkelte kursbeskrivelse.I særlige tilfeller kan kandidaten søke om et fjerde og siste eksamensforsøk. Det gis normalt ikke ytterligere forsøk. Studenter ved Master of Business Administration kan ikke søke om fjerde gangs eksamensforsøk. Begrunnet søknad sendes studieenheten for vedtak. Søknaden må fremmes innen fristen for oppmelding til eksamen i aktuelt semester. Vedtak om å avvise eller avslå søknad om fjerde gangs eksamensforsøk kan påklages til den enhet som har truffet det påklagde vedtak. Fristen for å klage er tre uker fra det tidspunkt vedtaket er gjort kjent for søker. Dersom klagen ikke tas til følge fullt ut i vedtaksenheten, skal vedtaksenheten oversende saken til nemnd for studentsaker ved Handelshøyskolen BI.
+(1)
 
-(2)For bachelorstudiet avholdes kontinuasjonseksamen normalt ved neste ordinære gjennomføring av kurset. Når et kurs utgår uten å bli erstattet, avholdes normalt ytterligere to eksamener i opprinnelig kurs.For Bachelor i ledelse, toårig master, Master of Management og ph.d.-studiet vil kontinuasjonseksamen normalt finne sted neste gang kurset blir gjennomført. Når et kurs utgår, kontinueres det i erstatningskurs.For Master of Business Administration-studiet kontinuerer kandidaten når kurset arrangeres ifm. ny gjennomføring av studiet. Når et kurs utgår kontinueres det i erstatningskurs. I noen tilfeller kan kursansvarlig, etter samråd med studieprogramleder, gi tillatelse til at kandidaten leverer ytterligere kursarbeider for kunne å fullføre et påbegynt kurs.For ph.d.-studiet; se egen forskrift om ph.d. ved Handelshøyskolen BI.
+1. Kandidaten kan gjennomføre tre eksamensforsøk i samme kurs. Studenter ved Master of Business Administration har tre forsøk på å bestå et kurs, men kan ikke avlegge kontinuasjonseksamen for å forbedre karakteren hvis kurset er bestått. For informasjon om kontinuasjonseksamen henvises det til den enkelte kursbeskrivelse.
+2. I særlige tilfeller kan kandidaten søke om et fjerde og siste eksamensforsøk. Det gis normalt ikke ytterligere forsøk. Studenter ved Master of Business Administration kan ikke søke om fjerde gangs eksamensforsøk. Begrunnet søknad sendes studieenheten for vedtak. Søknaden må fremmes innen fristen for oppmelding til eksamen i aktuelt semester. Vedtak om å avvise eller avslå søknad om fjerde gangs eksamensforsøk kan påklages til den enhet som har truffet det påklagde vedtak. Fristen for å klage er tre uker fra det tidspunkt vedtaket er gjort kjent for søker. Dersom klagen ikke tas til følge fullt ut i vedtaksenheten, skal vedtaksenheten oversende saken til nemnd for studentsaker ved Handelshøyskolen BI.
+
+(2)
+
+1. For bachelorstudiet avholdes kontinuasjonseksamen normalt ved neste ordinære gjennomføring av kurset. Når et kurs utgår uten å bli erstattet, avholdes normalt ytterligere to eksamener i opprinnelig kurs.
+2. For Bachelor i ledelse, toårig master, Master of Management og ph.d.-studiet vil kontinuasjonseksamen normalt finne sted neste gang kurset blir gjennomført. Når et kurs utgår, kontinueres det i erstatningskurs.
+3. For Master of Business Administration-studiet kontinuerer kandidaten når kurset arrangeres ifm. ny gjennomføring av studiet. Når et kurs utgår kontinueres det i erstatningskurs. I noen tilfeller kan kursansvarlig, etter samråd med studieprogramleder, gi tillatelse til at kandidaten leverer ytterligere kursarbeider for kunne å fullføre et påbegynt kurs.
+4. For ph.d.-studiet; se egen forskrift om ph.d. ved Handelshøyskolen BI.
 
 (3) (Opphevet)
 
-(4)For masteroppgaver har kandidater som får karakteren A–E (Bestått) mulighet til å kontinuere ved å skrive en helt ny oppgave. En oppgave som har fått et bestått eksamensresultat, kan ikke leveres på nytt i bearbeidet form.Kandidater som får karakteren F (Ikke bestått) på oppgaven har to valg:Skrive en ny masteroppgaveSøke om å bearbeide tidligere innlevert masteroppgave og oppnå maksimum karakteren EStudenter på master i regnskap og revisjon har tilsvarende rettighet dersom de oppnår karakteren D eller dårligere på sin masteroppgave. En bearbeidet masteroppgave fra kandidater på dette studiet, kan ikke oppnå bedre karakter enn C.Søknad om kontinuasjon av masteroppgave sendes til aktuell studieadministrasjon, som videresender denne til studieprogramleder for studiet for vedtak. Se for øvrig studiumspesifikk informasjon på BIs studentportal.
+(4)
+
+1. For masteroppgaver har kandidater som får karakteren A–E (Bestått) mulighet til å kontinuere ved å skrive en helt ny oppgave. En oppgave som har fått et bestått eksamensresultat, kan ikke leveres på nytt i bearbeidet form.
+
+   Kandidater som får karakteren F (Ikke bestått) på oppgaven har to valg:
+
+   1. Skrive en ny masteroppgave
+   2. Søke om å bearbeide tidligere innlevert masteroppgave og oppnå maksimum karakteren E
+
+   Studenter på master i regnskap og revisjon har tilsvarende rettighet dersom de oppnår karakteren D eller dårligere på sin masteroppgave. En bearbeidet masteroppgave fra kandidater på dette studiet, kan ikke oppnå bedre karakter enn C.
+2. Søknad om kontinuasjon av masteroppgave sendes til aktuell studieadministrasjon, som videresender denne til studieprogramleder for studiet for vedtak. Se for øvrig studiumspesifikk informasjon på BIs studentportal.
 
 (5) Det vil bli fakturert en kontinuasjonsavgift etter gjeldende satser.
 
@@ -584,7 +715,10 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 (5) Innlevering av besvarelsen gjøres innen den oppgitte innleveringsfristen. Besvarelser som forsøkes innlevert etter fristen, vil bli avvist.
 
-(6)Det gis normalt ikke utsettelse på innleveringsfristen. For avsluttende oppgaver på bachelorstudiene og masterstudiene, kan det i særskilte tilfeller søkes om utsatt innleveringsfrist med begrunnelse i personlig force majeure, se nærmere retningslinjer på BIs studentportalStudenter som får utsettelse på innlevering av masteroppgave på toårig master-studium, må betale en utsettelsesavgift, se utfyllende informasjon på BIs studentportal.
+(6)
+
+1. Det gis normalt ikke utsettelse på innleveringsfristen. For avsluttende oppgaver på bachelorstudiene og masterstudiene, kan det i særskilte tilfeller søkes om utsatt innleveringsfrist med begrunnelse i personlig force majeure, se nærmere retningslinjer på BIs studentportal
+2. Studenter som får utsettelse på innlevering av masteroppgave på toårig master-studium, må betale en utsettelsesavgift, se utfyllende informasjon på BIs studentportal.
 
 (7) For ph.d.-avhandling; se egen forskrift om ph.d. ved Handelshøyskolen BI.
 
@@ -596,7 +730,11 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 (2) Det skal være ekstern evaluering av vurderingen eller vurderingsordningene ved alle kurs med eksamen på Handelshøyskolen BI jf. [universitets- og høyskoleloven § 11-6](lov/2024-03-08-9/§11-6). Instituttene skal tilrettelegge for at den eksterne sensuren sikrer lik og upartisk bedømmelse av eksamensbesvarelser, og at den kommer alle kandidatene til gode.
 
-(3) Det skal benyttes to sensorer i følgende tilfeller:Ved bedømmelse av muntlig eksamen og andre eksamensformer som ikke lar seg etterprøve.Ved ny sensur etter klage over karakterfastsetting, jf. [§ 5-13](forskrift/2018-06-01-1546/§5-13) eller klage over formelle feil ved eksamen, jf. [§ 5-14](forskrift/2018-06-01-1546/§5-14). Minst én sensor skal være ekstern. Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve, og karakteren endres etter klage på sensuren over den skriftlige del av eksamenen, holdes ny muntlig prøve til fastsetting av endelig karakter.Ved bedømmelse av kandidatenes avsluttende oppgave og selvstendig arbeid i høyere grad. Minst én sensor skal være ekstern.
+(3) Det skal benyttes to sensorer i følgende tilfeller:
+
+1. Ved bedømmelse av muntlig eksamen og andre eksamensformer som ikke lar seg etterprøve.
+2. Ved ny sensur etter klage over karakterfastsetting, jf. [§ 5-13](forskrift/2018-06-01-1546/§5-13) eller klage over formelle feil ved eksamen, jf. [§ 5-14](forskrift/2018-06-01-1546/§5-14). Minst én sensor skal være ekstern. Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve, og karakteren endres etter klage på sensuren over den skriftlige del av eksamenen, holdes ny muntlig prøve til fastsetting av endelig karakter.
+3. Ved bedømmelse av kandidatenes avsluttende oppgave og selvstendig arbeid i høyere grad. Minst én sensor skal være ekstern.
 
 (4) I studier (fellesgrader) der et eller flere fag undervises av samarbeidende akademiske institusjoner, sensureres kandidaten arbeider i disse fagene iht. denne institusjonens forskrifter.
 
@@ -622,11 +760,22 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 (1) En strukturert test kan være enten skole- eller hjemmeeksamen. Strukturert test kan kun leveres én gang.
 
-(2) En strukturert test kan inneholde:Spørsmålstyper der fasit er definert i eksamensverktøyet på forhånd og sensur derfor utføres automatisk, ellerspørsmålstyper som krever vurdering av sensor.Eksamenen kan bestå av en kombinasjon av disse spørsmålstypene.
+(2) En strukturert test kan inneholde:
 
-(3)Karakterbegrunnelse for automatisk sensurerte spørsmålstyper vil være en gjennomgang av kandidatens svar kontrollert mot fasit.Karakterbegrunnelse for spørsmålstyper som er vurdert av sensor, følger retningslinjer for ordinær karakterbegrunnelse, jf. § 5-13 (1).
+1. Spørsmålstyper der fasit er definert i eksamensverktøyet på forhånd og sensur derfor utføres automatisk, eller
+2. spørsmålstyper som krever vurdering av sensor.
 
-(4)Ved klage på karakterfastsetting (klagesensur) skal kandidatens svar på automatisk sensurerte spørsmålstyper på nytt kontrolleres mot fasitVed klage på karakterfastsetting (klagesensur) for spørsmålstyper som er vurdert av sensor, gjøres en ny vurdering av kandidatens svar.
+Eksamenen kan bestå av en kombinasjon av disse spørsmålstypene.
+
+(3)
+
+1. Karakterbegrunnelse for automatisk sensurerte spørsmålstyper vil være en gjennomgang av kandidatens svar kontrollert mot fasit.
+2. Karakterbegrunnelse for spørsmålstyper som er vurdert av sensor, følger retningslinjer for ordinær karakterbegrunnelse, jf. § 5-13 (1).
+
+(4)
+
+1. Ved klage på karakterfastsetting (klagesensur) skal kandidatens svar på automatisk sensurerte spørsmålstyper på nytt kontrolleres mot fasit
+2. Ved klage på karakterfastsetting (klagesensur) for spørsmålstyper som er vurdert av sensor, gjøres en ny vurdering av kandidatens svar.
 
 (5) Går klagen på sensurvedtaket ut på at det er feil i den utarbeidede fasiten eller i eksamensoppgaven, behandles klagen som klage på formelle feil ved eksamen, jf. § 5-14.
 
@@ -634,9 +783,21 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 ### § 5-13. Begrunnelse for og klage over karakterfastsetting
 
-(1)Kandidaten har rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner i samsvar med [universitets- og høyskoleloven § 11-8](lov/2024-03-08-9/§11-8). Lovbestemmelsen fastsetter tidsfrister og regler for begrunnelsens form og innhold. Kursansvarlig bestemmer om begrunnelsen gis muntlig eller skriftlig.Krav om begrunnelse må fremsettes innen en uke fra karakter er gjort tilgjengelig på BIs studentportal. Ved muntlig eksamen må krav om begrunnelse fremsettes umiddelbart etter at karakter er meddelt.Begrunnelse gis muntlig eller skriftlig av en av sensorene. For de enkelte studier kan det fastsettes at muntlig begrunnelse gis til fastsatte tider, hvor sensor skal være tilgjengelig for kandidatene.I begrunnelsen for karakterfastsettingen skal det gjøres rede for de prinsipper som er lagt til grunn for bedømmelsen generelt, og for bedømmelsen av kandidatens prestasjon individuelt.
+(1)
 
-(2)En kandidat kan klage skriftlig på karakteren for sine egne prestasjoner innen tre uker etter at eksamensresultatet er kunngjort, eller – dersom det er bedt om begrunnelse – fra det tidspunkt begrunnelse er gitt. Dersom kandidaten har fremsatt klage på formelle feil ved eksamen, jf. [§ 5-14](forskrift/2018-06-01-1546/§5-14), løper klagefristen etter denne paragraf først fra det tidspunkt endelig avgjørelse av klagen over formelle feil foreligger.Skriftlig klage sendes den aktuelle studieenhet. Rett til individuell klage ved gruppebesvarelse reguleres av [universitets- og høyskoleloven § 11-10](lov/2024-03-08-9/§11-10). En eventuell endring av karakter etter klage vil kun gjelde for den som har klaget.(Opphevet)Resultater av muntlige eksamener og klassepresentasjoner kan ikke påklages.Ny karakterfastsetting kan skje til gunst eller ugunst for klager, eller opprinnelig karakter opprettholdes. Hvis karakteren ved ny sensur avviker med to eller flere karakterer fra opprinnelig sensur, skal det foretas ytterligere en vurdering før endelig karakter fastsettes.Karakter som fastsettes ved klagesensur kan ikke påklages til ny vurdering, men kan være gjenstand for klage over formelle feil, jf. [§ 5-14](forskrift/2018-06-01-1546/§5-14).
+1. Kandidaten har rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner i samsvar med [universitets- og høyskoleloven § 11-8](lov/2024-03-08-9/§11-8). Lovbestemmelsen fastsetter tidsfrister og regler for begrunnelsens form og innhold. Kursansvarlig bestemmer om begrunnelsen gis muntlig eller skriftlig.
+2. Krav om begrunnelse må fremsettes innen en uke fra karakter er gjort tilgjengelig på BIs studentportal. Ved muntlig eksamen må krav om begrunnelse fremsettes umiddelbart etter at karakter er meddelt.
+3. Begrunnelse gis muntlig eller skriftlig av en av sensorene. For de enkelte studier kan det fastsettes at muntlig begrunnelse gis til fastsatte tider, hvor sensor skal være tilgjengelig for kandidatene.
+4. I begrunnelsen for karakterfastsettingen skal det gjøres rede for de prinsipper som er lagt til grunn for bedømmelsen generelt, og for bedømmelsen av kandidatens prestasjon individuelt.
+
+(2)
+
+1. En kandidat kan klage skriftlig på karakteren for sine egne prestasjoner innen tre uker etter at eksamensresultatet er kunngjort, eller – dersom det er bedt om begrunnelse – fra det tidspunkt begrunnelse er gitt. Dersom kandidaten har fremsatt klage på formelle feil ved eksamen, jf. [§ 5-14](forskrift/2018-06-01-1546/§5-14), løper klagefristen etter denne paragraf først fra det tidspunkt endelig avgjørelse av klagen over formelle feil foreligger.
+2. Skriftlig klage sendes den aktuelle studieenhet. Rett til individuell klage ved gruppebesvarelse reguleres av [universitets- og høyskoleloven § 11-10](lov/2024-03-08-9/§11-10). En eventuell endring av karakter etter klage vil kun gjelde for den som har klaget.
+3. (Opphevet)
+4. Resultater av muntlige eksamener og klassepresentasjoner kan ikke påklages.
+5. Ny karakterfastsetting kan skje til gunst eller ugunst for klager, eller opprinnelig karakter opprettholdes. Hvis karakteren ved ny sensur avviker med to eller flere karakterer fra opprinnelig sensur, skal det foretas ytterligere en vurdering før endelig karakter fastsettes.
+6. Karakter som fastsettes ved klagesensur kan ikke påklages til ny vurdering, men kan være gjenstand for klage over formelle feil, jf. [§ 5-14](forskrift/2018-06-01-1546/§5-14).
 
 (3) For strukturert test, se [§ 5-12](forskrift/2018-06-01-1546/§5-12).
 
@@ -648,7 +809,10 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 (2) Klage over formelle feil ved eksamen må fremsettes skriftlig innen tre uker etter at kandidaten er eller burde være kjent med det forhold som begrunner klagen. Har kandidaten bedt om begrunnelse for karakterfastsettingen, løper fristen likevel ikke før slik begrunnelse er gitt. Har kandidaten fremsatt klage over karakterfastsettingen etter reglene i [§ 5-13](forskrift/2018-06-01-1546/§5-13) (2), løper klagefristen etter denne paragraf først fra det tidspunkt resultatet av klagesensuren er kunngjort.
 
-(3)Klage fremsettes til eksamensadministrasjonen. Dersom det er begått feil som det er rimelig å anta kan ha hatt betydning for kandidatens prestasjon eller bedømmelsen av denne, fatter eksamensadministrasjonen, i samarbeid med kursansvarlig, vedtak om nødvendige tiltak for å kompensere feilen. Slike tiltak kan være ny sensur, ny eksamen eller prøve. Karakterer kan kun endres etter ny sensur.I Master of Business Administration og ph.d.-studiene videresender studieenheten klagen til aktuell kursansvarlig som fatter vedtak sammen med studieprogramleder for studiet.
+(3)
+
+1. Klage fremsettes til eksamensadministrasjonen. Dersom det er begått feil som det er rimelig å anta kan ha hatt betydning for kandidatens prestasjon eller bedømmelsen av denne, fatter eksamensadministrasjonen, i samarbeid med kursansvarlig, vedtak om nødvendige tiltak for å kompensere feilen. Slike tiltak kan være ny sensur, ny eksamen eller prøve. Karakterer kan kun endres etter ny sensur.
+2. I Master of Business Administration og ph.d.-studiene videresender studieenheten klagen til aktuell kursansvarlig som fatter vedtak sammen med studieprogramleder for studiet.
 
 (4) Kandidater har anledning til å klage på vedtaket innen tre uker fra det tidspunkt vedtaket er gjort kjent for kandidaten. Klagen sendes til vedtaksenheten. Dersom klagen ikke tas til følge, oversender vedtaksenheten klagen til nemnd for studentsaker ved Handelshøyskolen BI.
 
@@ -664,7 +828,17 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 ### § 5-15. Fusk
 
-(1) Følgende kan være fusk eller forsøk på fusk ved eksamen eller obligatorisk aktivitet hvis det er egnet til å gi en urettmessig fordel:Å handle i strid med gjeldende regler for den spesifikke eksamenÅ bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamenÅ presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitatÅ levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selvÅ levere besvarelse som er utarbeidet av andre enn studenten(e) selvUreglementert samarbeid mellom studenter eller grupperFabrikkering eller forfalskning av dataUrettmessig å ha skaffet seg adgang til eksamensoppgaven eller sensorveiledning før eksamen starterSkjult gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling.
+(1) Følgende kan være fusk eller forsøk på fusk ved eksamen eller obligatorisk aktivitet hvis det er egnet til å gi en urettmessig fordel:
+
+1. Å handle i strid med gjeldende regler for den spesifikke eksamen
+2. Å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen
+3. Å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat
+4. Å levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selv
+5. Å levere besvarelse som er utarbeidet av andre enn studenten(e) selv
+6. Ureglementert samarbeid mellom studenter eller grupper
+7. Fabrikkering eller forfalskning av data
+8. Urettmessig å ha skaffet seg adgang til eksamensoppgaven eller sensorveiledning før eksamen starter
+9. Skjult gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling.
 
 (2) Konsekvenser av fusk eller forsøk på fusk reguleres av [universitets- og høyskoleloven](lov/2024-03-08-9), og behandles av BIs nemnd for studentsaker. Dersom en kandidat forsettlig eller grovt uaktsomt har fusket eller forsøkt å fuske, kan vurderingen annulleres og kandidaten kan utestenges og fratas retten til å gå opp til eksamen i inntil ett år. I særlig grove tilfeller kan utestengelsen vare i inntil to år.
 
@@ -678,7 +852,14 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 ### § 5-16. Karakterer
 
-Ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal karakterene enten være Bestått/Ikke bestått eller en gradert skala med fem trinn fra A til E for Bestått og F for Ikke bestått. Laveste karakter som godkjennes for Bestått eksamen er E. Vurderingsuttrykkene som benyttes for den graderte skalaen er:A FremragendeB Meget godC GodD Nokså godE TilstrekkeligF Ikke bestått.
+Ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal karakterene enten være Bestått/Ikke bestått eller en gradert skala med fem trinn fra A til E for Bestått og F for Ikke bestått. Laveste karakter som godkjennes for Bestått eksamen er E. Vurderingsuttrykkene som benyttes for den graderte skalaen er:
+
+- A Fremragende
+- B Meget god
+- C God
+- D Nokså god
+- E Tilstrekkelig
+- F Ikke bestått.
 
 > Endret ved forskrift [9 juni 2022 nr. 1218](forskrift/2022-06-09-1218) (i kraft 10 aug 2022).
 

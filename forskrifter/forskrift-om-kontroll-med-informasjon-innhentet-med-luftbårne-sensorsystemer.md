@@ -15,7 +15,7 @@ xml_hash: "e9fa09cc1f01332b359990adbcb2c088a72c0d932ff94f82106efdc6d13dd44d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,19 @@ Forskriften regulerer opptak og annen bruk av informasjon om bestemt angitte omr
 
 Forskriften gjelder over norsk territorium, inkludert Svalbard og Jan Mayen.
 
-Forskriften gjelder ikke forForsvarets eller allierte styrkers bruk av egne sensorplattformer som ledd i deres trening eller oppgaveløsningopptak som skjer i henhold til rustningskontrollavtaler som Norge har ratifisert.
+Forskriften gjelder ikke for
+
+1. Forsvarets eller allierte styrkers bruk av egne sensorplattformer som ledd i deres trening eller oppgaveløsning
+2. opptak som skjer i henhold til rustningskontrollavtaler som Norge har ratifisert.
 
 ## § 2. Definisjoner og forkortelser
 
-I forskriften forstås med*luftbårne sensorsystemer;* alle sensorsystemer som brukes fra innretninger i luften som kan innhente, behandle eller lagre informasjon i alle deler av frekvensspekteret, uavhengig av plattform eller bruksmåte*luftbårne fotosensorer;* sensorsystemer som gjør dagslysbasert monokrom- eller fargeavbildning med inntil fire spektralbånd innenfor bølgelengdeområdet til synlig lys, fra 380 til 750 nanometer*forbudsområde for bruk av luftbårne sensorsystemer (forbudsområder);* bestemt angitte område og skjermingsverdig objekt der det er fastsatt varig eller midlertidig forbud mot bruk av luftbårne sensorsystemer uten særskilt tillatelse*operatørselskap;* virksomhet som innhenter eller behandler informasjon med luftbårne sensorsystemer på egne eller andres vegne.
+I forskriften forstås med
+
+1. *luftbårne sensorsystemer;* alle sensorsystemer som brukes fra innretninger i luften som kan innhente, behandle eller lagre informasjon i alle deler av frekvensspekteret, uavhengig av plattform eller bruksmåte
+2. *luftbårne fotosensorer;* sensorsystemer som gjør dagslysbasert monokrom- eller fargeavbildning med inntil fire spektralbånd innenfor bølgelengdeområdet til synlig lys, fra 380 til 750 nanometer
+3. *forbudsområde for bruk av luftbårne sensorsystemer (forbudsområder);* bestemt angitte område og skjermingsverdig objekt der det er fastsatt varig eller midlertidig forbud mot bruk av luftbårne sensorsystemer uten særskilt tillatelse
+4. *operatørselskap;* virksomhet som innhenter eller behandler informasjon med luftbårne sensorsystemer på egne eller andres vegne.
 
 ## § 3. Fastsettelse av forbudsområder
 
@@ -84,7 +92,17 @@ Denne paragrafen gjelder ikke politiet i den utstrekning politiets bruk av luftb
 
 ## § 7. Vilkår for tillatelse til bruk av luftbårne sensorsystemer
 
-Nasjonal sikkerhetsmyndighet kan sette vilkår for en tillatelse etter [§ 6](forskrift/2018-06-22-951/§6). Det kan blant annet settes vilkår omtillatelsens varighethvilke luftbårne sensorsystemer som kan brukeshvilken oppløsningsgrad og detaljeringsnivå informasjonen kan habehandling og videre distribusjon av innhentet informasjonnasjonal kontroll over innhentet informasjonmuligheten til å føre innhentet informasjon ut av Norgeplikt til rapportering til Nasjonal sikkerhetsmyndighet.Ved brudd på fastsatte vilkår, kan Nasjonal sikkerhetsmyndighet trekke tillatelsen tilbake. Vilkår i en tillatelse kan påklages til Forsvarsdepartementet.
+Nasjonal sikkerhetsmyndighet kan sette vilkår for en tillatelse etter [§ 6](forskrift/2018-06-22-951/§6). Det kan blant annet settes vilkår om
+
+1. tillatelsens varighet
+2. hvilke luftbårne sensorsystemer som kan brukes
+3. hvilken oppløsningsgrad og detaljeringsnivå informasjonen kan ha
+4. behandling og videre distribusjon av innhentet informasjon
+5. nasjonal kontroll over innhentet informasjon
+6. muligheten til å føre innhentet informasjon ut av Norge
+7. plikt til rapportering til Nasjonal sikkerhetsmyndighet.
+
+Ved brudd på fastsatte vilkår, kan Nasjonal sikkerhetsmyndighet trekke tillatelsen tilbake. Vilkår i en tillatelse kan påklages til Forsvarsdepartementet.
 
 ## § 8. Lisens
 
@@ -108,7 +126,13 @@ Sikkerhetsmyndighet fastsetter hvordan informasjon om et forbudsområde kan avgr
 
 ## § 11. Informasjon som skal publiseres av Nasjonal sikkerhetsmyndighet
 
-Nasjonal sikkerhetsmyndighet skal gjøre tilgjengelig nødvendig informasjon om forvaltningen av denne forskrift. Dette gjelder blant annetliste over fastsatte forbudsområder etter [§ 3](forskrift/2018-06-22-951/§3) og [§ 4](forskrift/2018-06-22-951/§4)frist for varsel etter [§ 5](forskrift/2018-06-22-951/§5)eventuelle unntak fra varslingsplikten etter [§ 5](forskrift/2018-06-22-951/§5)krav til innhold i søknad om tillatelse etter [§ 6](forskrift/2018-06-22-951/§6)krav til innhold i søknad om lisens etter [§ 7](forskrift/2018-06-22-951/§7).
+Nasjonal sikkerhetsmyndighet skal gjøre tilgjengelig nødvendig informasjon om forvaltningen av denne forskrift. Dette gjelder blant annet
+
+1. liste over fastsatte forbudsområder etter [§ 3](forskrift/2018-06-22-951/§3) og [§ 4](forskrift/2018-06-22-951/§4)
+2. frist for varsel etter [§ 5](forskrift/2018-06-22-951/§5)
+3. eventuelle unntak fra varslingsplikten etter [§ 5](forskrift/2018-06-22-951/§5)
+4. krav til innhold i søknad om tillatelse etter [§ 6](forskrift/2018-06-22-951/§6)
+5. krav til innhold i søknad om lisens etter [§ 7](forskrift/2018-06-22-951/§7).
 
 ## § 12. Tilsyn og kontroll
 

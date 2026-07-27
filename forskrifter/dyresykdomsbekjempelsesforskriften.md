@@ -16,7 +16,7 @@ xml_hash: "8ce7c92055afbe69b7002c3518baf3fe9c719cbf68bf723a2e1da86865016c68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -63,7 +63,12 @@ Forskriften gjelder for norsk land- og sjøterritorium, på norske luft- og sjø
 
 ### § 7. Bruk av vaksiner for landdyr
 
-Det er kun tillatt å vaksinere landdyr mot nasjonal liste 1- eller 2-sykdom angitt i vedlegget til [dyrehelseforskriften](forskrift/2022-04-06-631) i følgende situasjoner:Vaksinasjon av spesifiserte dyrearter mot angitte sykdommer som følger av vedlegg I til denne forskriften.Vaksinasjon er påbudt etter § 11.Mattilsynet har gitt tillatelse til å bruke vaksinen.Forsøk for å utvikle og teste vaksiner til dyr i virksomheter som har tillatelse til å utføre slike forsøk.
+Det er kun tillatt å vaksinere landdyr mot nasjonal liste 1- eller 2-sykdom angitt i vedlegget til [dyrehelseforskriften](forskrift/2022-04-06-631) i følgende situasjoner:
+
+1. Vaksinasjon av spesifiserte dyrearter mot angitte sykdommer som følger av vedlegg I til denne forskriften.
+2. Vaksinasjon er påbudt etter § 11.
+3. Mattilsynet har gitt tillatelse til å bruke vaksinen.
+4. Forsøk for å utvikle og teste vaksiner til dyr i virksomheter som har tillatelse til å utføre slike forsøk.
 
 Landdyr kan vaksineres mot andre sykdommer enn nasjonal liste 1- eller 2-sykdommer hvis Mattilsynet har gitt tillatelse til å bruke vaksinen. Vilkåret om brukstillatelse gjelder ikke vaksinasjonene i vedlegg II.
 
@@ -73,7 +78,11 @@ Landdyr kan vaksineres mot andre sykdommer enn nasjonal liste 1- eller 2-sykdomm
 
 ### § 8. Bruk av vaksiner for akvatiske dyr
 
-Akvatiske dyr skal ikke vaksineres mot følgende sykdommer:Sykdommer kategorisert som A-sykdom.Sykdommer kategorisert som C-sykdom i områder med sykdomsfri status og med målrettet overvåking med sikte på å oppnå sykdomsfri status.Bakteriell nyresyke (BKD), infeksjon med Gyrodactylus salaris, Viral nervøs nekrose (VNN)/Viral encephalo- og retinopati (VER) og Krepsepest (Aphanomyces astasi).
+Akvatiske dyr skal ikke vaksineres mot følgende sykdommer:
+
+1. Sykdommer kategorisert som A-sykdom.
+2. Sykdommer kategorisert som C-sykdom i områder med sykdomsfri status og med målrettet overvåking med sikte på å oppnå sykdomsfri status.
+3. Bakteriell nyresyke (BKD), infeksjon med Gyrodactylus salaris, Viral nervøs nekrose (VNN)/Viral encephalo- og retinopati (VER) og Krepsepest (Aphanomyces astasi).
 
 Bestemmelsen i første ledd er ikke til hinder for at det kan gjennomføres vitenskapelig studier med formål å utvikle og teste vaksiner til akvatiske dyr under kontrollerte forhold i institusjoner som har tillatelse til slik utprøving.
 
@@ -147,15 +156,64 @@ Denne forskrift trer i kraft fra den dato den blir kunngjort i Norsk Lovtidend.
 
 ## Vedlegg II. Vaksinasjoner unntatt fra kravet om brukstillatelse i [§ 7](forskrift/2022-04-06-634/§7/ledd/2) annet ledd
 
-1. Hest kan vaksineres motHesteinfluensa.Rhinopneumonitt (virusabort).Infeksjoner med *Clostridium* spp.
-2. Storfe kan vaksineres motRotavirusinfeksjon.Smittsom diare (coronavirusinfeksjon).Infeksjon med parainfluensavirus.Infeksjon med bovint RS-virus (BRSV).Infeksjon med *Pasteurella* spp.Infeksjoner med *Clostridium* spp.Infeksjoner med *Escherichia coli*.
-3. Sau og geit kan vaksineres motInfeksjon med *Pasteurella* spp.Infeksjoner med *Clostridium* spp.
-4. Svin kan vaksineres motCircovirusinfeksjon.Parvovirusinfeksjoner.Pasteurellainfeksjon.Mycoplasmainfeksjon.Infeksjon med *Haemophilus parasuis* (Glässers sykdom).Infeksjon med *Erysipelothrix rhusiopathiae* (rødsjuke).Infeksjoner med *Escherichia coli*.Nysesjuke.Infeksjon med *Actinobacillus pleuropneumoniae*.Tarmadenomatose (Lawsonis intracellularis-infeksjon).
-5. Katt kan vaksineres motKlamydiainfeksjoner.Parvovirusinfeksjoner.Infeksjon med calicivirus og rhinotrakeitt (herpesvirus).Infeksjon med feline leukemia virus (FeLV).Infeksiøs peritonitt (coronavirus).
-6. Hund kan vaksineres motParvovirusinfeksjoner.Kennelhoste (infeksjon med parainfluensavirus).Lever- og hjernebetennelse (Hepatitis Contagiosa Canis).valpesjuke
-7. Fjørfe kan vaksineres motAviær infeksiøs anemi (CIA-virus, Blåvingesjuke).Smittsom hønselammelse (Marek's disease).Infeksiøs bursitt (Gumboro).Smittsom hjerne- og ryggmargbetennelse, aviær encefalomyelitt (AE).Koksidiose.Infeksjon med *Erysipelothrix rhusiopathiae* (rødsjukebakterien).
-8. Mink kan vaksineres motClostridieinfeksjoner (botulisme type C).Hemorrhagisk pneumoni (*Pseudomonas aeruginosa*).
-9. Pelsdyr kan vaksineres motValpesjuke
+1. Hest kan vaksineres mot
+
+   1. Hesteinfluensa.
+   2. Rhinopneumonitt (virusabort).
+   3. Infeksjoner med *Clostridium* spp.
+2. Storfe kan vaksineres mot
+
+   1. Rotavirusinfeksjon.
+   2. Smittsom diare (coronavirusinfeksjon).
+   3. Infeksjon med parainfluensavirus.
+   4. Infeksjon med bovint RS-virus (BRSV).
+   5. Infeksjon med *Pasteurella* spp.
+   6. Infeksjoner med *Clostridium* spp.
+   7. Infeksjoner med *Escherichia coli*.
+3. Sau og geit kan vaksineres mot
+
+   1. Infeksjon med *Pasteurella* spp.
+   2. Infeksjoner med *Clostridium* spp.
+4. Svin kan vaksineres mot
+
+   1. Circovirusinfeksjon.
+   2. Parvovirusinfeksjoner.
+   3. Pasteurellainfeksjon.
+   4. Mycoplasmainfeksjon.
+   5. Infeksjon med *Haemophilus parasuis* (Glässers sykdom).
+   6. Infeksjon med *Erysipelothrix rhusiopathiae* (rødsjuke).
+   7. Infeksjoner med *Escherichia coli*.
+   8. Nysesjuke.
+   9. Infeksjon med *Actinobacillus pleuropneumoniae*.
+   10. Tarmadenomatose (Lawsonis intracellularis-infeksjon).
+5. Katt kan vaksineres mot
+
+   1. Klamydiainfeksjoner.
+   2. Parvovirusinfeksjoner.
+   3. Infeksjon med calicivirus og rhinotrakeitt (herpesvirus).
+   4. Infeksjon med feline leukemia virus (FeLV).
+   5. Infeksiøs peritonitt (coronavirus).
+6. Hund kan vaksineres mot
+
+   1. Parvovirusinfeksjoner.
+   2. Kennelhoste (infeksjon med parainfluensavirus).
+   3. Lever- og hjernebetennelse (Hepatitis Contagiosa Canis).
+   4. valpesjuke
+7. Fjørfe kan vaksineres mot
+
+   1. Aviær infeksiøs anemi (CIA-virus, Blåvingesjuke).
+   2. Smittsom hønselammelse (Marek's disease).
+   3. Infeksiøs bursitt (Gumboro).
+   4. Smittsom hjerne- og ryggmargbetennelse, aviær encefalomyelitt (AE).
+   5. Koksidiose.
+   6. Infeksjon med *Erysipelothrix rhusiopathiae* (rødsjukebakterien).
+8. Mink kan vaksineres mot
+
+   1. Clostridieinfeksjoner (botulisme type C).
+   2. Hemorrhagisk pneumoni (*Pseudomonas aeruginosa*).
+9. Pelsdyr kan vaksineres mot
+
+   1. Valpesjuke
 
 > Endret ved forskrift [19 okt 2023 nr. 1675](forskrift/2023-10-19-1675).
 
@@ -265,23 +323,86 @@ ALMINNELIGE BESTEMMELSER
 
 Ved denne forordningen utfylles reglene for bevissthet om, beredskap mot og bekjempelse av sykdom som får anvendelse med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a), b) og c) i forordning [(EU) 2016/429](eu/32016r0429).
 
-Disse reglene omfatter følgende:Del II omfatter holdte og viltlevende landdyr, og særligfastsettes det i kapittel I utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av en kategori A-sykdom hos holdte dyr som nevnt i artikkel 53, 54, 55, 58 og 63 i forordning [(EU) 2016/429](eu/32016r0429),fastsettes det i kapittel II utfyllende regler om opprettelse av restriksjonssoner ved offisiell bekreftelse av en kategori A-sykdom hos holdte dyr som nevnt i artikkel 64 og 67 i forordning [(EU) 2016/429](eu/32016r0429),fastsettes det i kapittel III utfyllende regler om gjeninnsetting av holdte dyr i restriksjonssonen ved offisiell bekreftelse av en kategori A-sykdom som nevnt i artikkel 63 og 68 i forordning [(EU) 2016/429](eu/32016r0429),fastsettes det i kapittel IV utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av en kategori A-sykdom hos viltlevende dyr som nevnt i artikkel 70 i forordning [(EU) 2016/429](eu/32016r0429),fastsettes det i kapittel V utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av kategori B- og C-sykdommer hos landdyr som nevnt i artikkel 74 og 77 i forordning [(EU) 2016/429](eu/32016r0429).Del III omfatter holdte og viltlevende akvatiske dyr, og særligfastsettes det i kapittel I utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av en kategori-A-sykdom hos akvatiske dyr som nevnt i artikkel 53, 54, 55, 58 og 63 i forordning [(EU) 2016/429](eu/32016r0429),fastsettes det i kapittel II utfyllende regler om opprettelse av restriksjonssoner ved offisiell bekreftelse av en kategori A-sykdom hos akvakulturdyr som nevnt i artikkel 64 og 67 i forordning [(EU) 2016/429](eu/32016r0429),fastsettes det i kapittel III utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av en kategori A-sykdom hos viltlevende akvatiske dyr som nevnt i artikkel 70 i forordning [(EU) 2016/429](eu/32016r0429),fastsettes det i kapittel IV utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av kategori B- og C-sykdommer hos akvatiske dyr som nevnt i artikkel 74 og 77 i forordning [(EU) 2016/429](eu/32016r0429).Del IV inneholder sluttbestemmelser.
+Disse reglene omfatter følgende:
+
+1. Del II omfatter holdte og viltlevende landdyr, og særlig
+
+   1. fastsettes det i kapittel I utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av en kategori A-sykdom hos holdte dyr som nevnt i artikkel 53, 54, 55, 58 og 63 i forordning [(EU) 2016/429](eu/32016r0429),
+   2. fastsettes det i kapittel II utfyllende regler om opprettelse av restriksjonssoner ved offisiell bekreftelse av en kategori A-sykdom hos holdte dyr som nevnt i artikkel 64 og 67 i forordning [(EU) 2016/429](eu/32016r0429),
+   3. fastsettes det i kapittel III utfyllende regler om gjeninnsetting av holdte dyr i restriksjonssonen ved offisiell bekreftelse av en kategori A-sykdom som nevnt i artikkel 63 og 68 i forordning [(EU) 2016/429](eu/32016r0429),
+   4. fastsettes det i kapittel IV utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av en kategori A-sykdom hos viltlevende dyr som nevnt i artikkel 70 i forordning [(EU) 2016/429](eu/32016r0429),
+   5. fastsettes det i kapittel V utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av kategori B- og C-sykdommer hos landdyr som nevnt i artikkel 74 og 77 i forordning [(EU) 2016/429](eu/32016r0429).
+2. Del III omfatter holdte og viltlevende akvatiske dyr, og særlig
+
+   1. fastsettes det i kapittel I utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av en kategori-A-sykdom hos akvatiske dyr som nevnt i artikkel 53, 54, 55, 58 og 63 i forordning [(EU) 2016/429](eu/32016r0429),
+   2. fastsettes det i kapittel II utfyllende regler om opprettelse av restriksjonssoner ved offisiell bekreftelse av en kategori A-sykdom hos akvakulturdyr som nevnt i artikkel 64 og 67 i forordning [(EU) 2016/429](eu/32016r0429),
+   3. fastsettes det i kapittel III utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av en kategori A-sykdom hos viltlevende akvatiske dyr som nevnt i artikkel 70 i forordning [(EU) 2016/429](eu/32016r0429),
+   4. fastsettes det i kapittel IV utfyllende regler om tiltak for sykdomsbekjempelse ved mistanke om og offisiell bekreftelse av kategori B- og C-sykdommer hos akvatiske dyr som nevnt i artikkel 74 og 77 i forordning [(EU) 2016/429](eu/32016r0429).
+3. Del IV inneholder sluttbestemmelser.
 
 ### Artikkel 2. Definisjoner
 
 I denne forordningen gjelder definisjonene fastsatt i forordning [(EU) 2018/1882](eu/32018r1882) og vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)12, unntatt dersom disse definisjonene omfatter termer som er definert i andre ledd i denne artikkelen.
 
-Videre menes med«transportmiddel» vei- eller skinnegående kjøretøy, fartøy og luftfartøy,«daggamle kyllinger» fjørfe som er yngre enn 72 timer,«sæd» ejakulatet fra ett eller flere dyr, enten i uendret, behandlet eller fortynnet form,«oocytter» de haploide stadiene av ootidogenesen, herunder sekundære oocytter og egg,«embryo» det første utviklingsstadiet hos et dyr når det kan overføres til et mottakerdyr,«ferskt kjøtt» kjøtt, kvernet kjøtt og tilberedt kjøtt, herunder vakuumpakket eller pakket i en kontrollert atmosfære, som ikke er behandlet på noen annen måte enn kjøling, innfrysing eller hurtiginnfrysing,«skrott av hov- og klovdyr» hele kroppen til et slaktet eller avlivet hov- og klovdyr etteravbløding, når det gjelder slaktede dyr,uttak av indre organer,fjerning av lemmer ved forkneledd og tarsalledd,fjerning av hale, jur, hode og hud, unntatt hos svin,«slaktebiprodukter» annet ferskt kjøtt enn det som tilhører skrotten som definert i nr. 7, selv om det fortsatt er naturlig knyttet til skrotten,«kjøttprodukter» foredlede produkter, herunder behandlede mager, blærer og tarmer, smeltet fett, kjøttekstrakter og blodprodukter som er framstilt ved foredling av kjøtt eller ved videreforedling av slike foredlede produkter, slik at snittflaten viser at produktet ikke lenger har kjennetegnene til ferskt kjøtt,
-►**M2**«dyretarmer» blærer og tarmer som etter å ha blitt rengjort er foredlet ved avskraping av vev, avfetting og vasking, og som er behandlet med salt eller tørket,
-◄**M2**«råmelk» den væsken som skilles ut fra melkekjertlene hos holdte dyr opptil fem dager etter nedkomst, som er rik på antistoffer og mineraler, og som kommer før produksjonen av rå melk,«råmelkbaserte produkter» foredlede produkter som er framstilt ved foredlingen av råmelk eller ved videreforedling av slike foredlede produkter,«sikker vare» en vare som kan flyttes uten behov for risikoreduserende tiltak som særlig er rettet mot en bestemt listeført sykdom, uavhengig av opprinnelsesmedlemsstatens eller opprinnelsessonens status med hensyn til denne sykdommen,«forsyningskjede» en integrert produksjonskjede med en felles helsestatus med hensyn til listeførte sykdommer som består av et samarbeidsnettverk av spesialiserte anlegg som er godkjent av vedkommende myndighet med henblikk på artikkel 45, og mellom hvilke det flyttes dyr for å fullføre produksjonssyklusen,«infisert sone» en sone der det gjelder restriksjoner på forflytninger av holdte eller viltlevende dyr eller produkter og andre sykdomsbekjempelses- og biosikkerhetstiltak for å hindre spredning av en kategori A-sykdom ved offisiell bekreftelse av sykdommen hos viltlevende dyr.
+Videre menes med
+
+1. «transportmiddel» vei- eller skinnegående kjøretøy, fartøy og luftfartøy,
+2. «daggamle kyllinger» fjørfe som er yngre enn 72 timer,
+3. «sæd» ejakulatet fra ett eller flere dyr, enten i uendret, behandlet eller fortynnet form,
+4. «oocytter» de haploide stadiene av ootidogenesen, herunder sekundære oocytter og egg,
+5. «embryo» det første utviklingsstadiet hos et dyr når det kan overføres til et mottakerdyr,
+6. «ferskt kjøtt» kjøtt, kvernet kjøtt og tilberedt kjøtt, herunder vakuumpakket eller pakket i en kontrollert atmosfære, som ikke er behandlet på noen annen måte enn kjøling, innfrysing eller hurtiginnfrysing,
+7. «skrott av hov- og klovdyr» hele kroppen til et slaktet eller avlivet hov- og klovdyr etter
+
+   - avbløding, når det gjelder slaktede dyr,
+   - uttak av indre organer,
+   - fjerning av lemmer ved forkneledd og tarsalledd,
+   - fjerning av hale, jur, hode og hud, unntatt hos svin,
+8. «slaktebiprodukter» annet ferskt kjøtt enn det som tilhører skrotten som definert i nr. 7, selv om det fortsatt er naturlig knyttet til skrotten,
+9. «kjøttprodukter» foredlede produkter, herunder behandlede mager, blærer og tarmer, smeltet fett, kjøttekstrakter og blodprodukter som er framstilt ved foredling av kjøtt eller ved videreforedling av slike foredlede produkter, slik at snittflaten viser at produktet ikke lenger har kjennetegnene til ferskt kjøtt,
+   ►**M2**
+10. «dyretarmer» blærer og tarmer som etter å ha blitt rengjort er foredlet ved avskraping av vev, avfetting og vasking, og som er behandlet med salt eller tørket,
+    ◄**M2**
+11. «råmelk» den væsken som skilles ut fra melkekjertlene hos holdte dyr opptil fem dager etter nedkomst, som er rik på antistoffer og mineraler, og som kommer før produksjonen av rå melk,
+12. «råmelkbaserte produkter» foredlede produkter som er framstilt ved foredlingen av råmelk eller ved videreforedling av slike foredlede produkter,
+13. «sikker vare» en vare som kan flyttes uten behov for risikoreduserende tiltak som særlig er rettet mot en bestemt listeført sykdom, uavhengig av opprinnelsesmedlemsstatens eller opprinnelsessonens status med hensyn til denne sykdommen,
+14. «forsyningskjede» en integrert produksjonskjede med en felles helsestatus med hensyn til listeførte sykdommer som består av et samarbeidsnettverk av spesialiserte anlegg som er godkjent av vedkommende myndighet med henblikk på artikkel 45, og mellom hvilke det flyttes dyr for å fullføre produksjonssyklusen,
+15. «infisert sone» en sone der det gjelder restriksjoner på forflytninger av holdte eller viltlevende dyr eller produkter og andre sykdomsbekjempelses- og biosikkerhetstiltak for å hindre spredning av en kategori A-sykdom ved offisiell bekreftelse av sykdommen hos viltlevende dyr.
 
 12 Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).
 
 ### Artikkel 3. Kliniske undersøkelser, prøvetakingsmetoder og diagnostiske metoder
 
-1\. Dersom det er påkrevd med kliniske undersøkelser av dyr i samsvar med denne forordningen for å bekrefte eller utelukke forekomst av en kategori A-sykdom, skal vedkommende myndighet sikre atprøvetakingen av dyr til klinisk undersøkelse utføres i samsvar medpunkt A.1 i vedlegg I for landdyr ogpunkt 1 i vedlegg XII for akvatiske dyr,den kliniske undersøkelsen omfatteren første generell vurdering av dyrehelsestatusen for anlegget, som omfatter alle dyr av listeførte arter som holdes i anlegget, ogen individuell undersøkelse av dyrene som inngår i prøven nevnt i bokstav a).
+1\. Dersom det er påkrevd med kliniske undersøkelser av dyr i samsvar med denne forordningen for å bekrefte eller utelukke forekomst av en kategori A-sykdom, skal vedkommende myndighet sikre at
 
-2\. Dersom det er påkrevd med laboratorieundersøkelser i samsvar med denne forordningen for å bekrefte eller utelukke forekomst av en kategori A-sykdom, skal vedkommende myndighet sikre atprøvetakingen av dyr for laboratorieundersøkelse utføres i samsvar medpunkt A.2 i vedlegg I for landdyr ognr. 1 bokstav b), c), d) og e) i vedlegg XII for akvatiske dyr,de diagnostiske metodene for laboratorieundersøkelser oppfyller kravene ipunkt B i vedlegg I for landdyr ogpunkt 2 i vedlegg XII for akvatiske dyr,prøvene sendesomgående til et offisielt laboratorium som er utpekt i samsvar med artikkel 37 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)13,i samsvar med punkt C i vedlegg I for landdyr og nr. 1 bokstav f) i vedlegg XII for akvatiske dyr, ogi samsvar med alle andre instruksjoner fra vedkommende myndighet og laboratoriet om biosikkerhetsmessige forhold for å hindre spredning av kategori A-sykdomsagenser,når det gjelder holdte dyrskal det utarbeides en fortegnelse over alle holdte dyr i anlegget, med angivelse av arter og kategorier; for fjørfe og akvakulturdyr kan antallet dyr anslås, ogskal det registreres et identifikasjonsmerke for hvert dyr av listeførte arter som det er tatt prøve av, eller når gjelder fjørfe og akvakulturdyr, registreres partinummeret.
+1. prøvetakingen av dyr til klinisk undersøkelse utføres i samsvar med
+
+   1. punkt A.1 i vedlegg I for landdyr og
+   2. punkt 1 i vedlegg XII for akvatiske dyr,
+2. den kliniske undersøkelsen omfatter
+
+   1. en første generell vurdering av dyrehelsestatusen for anlegget, som omfatter alle dyr av listeførte arter som holdes i anlegget, og
+   2. en individuell undersøkelse av dyrene som inngår i prøven nevnt i bokstav a).
+
+2\. Dersom det er påkrevd med laboratorieundersøkelser i samsvar med denne forordningen for å bekrefte eller utelukke forekomst av en kategori A-sykdom, skal vedkommende myndighet sikre at
+
+1. prøvetakingen av dyr for laboratorieundersøkelse utføres i samsvar med
+
+   1. punkt A.2 i vedlegg I for landdyr og
+   2. nr. 1 bokstav b), c), d) og e) i vedlegg XII for akvatiske dyr,
+2. de diagnostiske metodene for laboratorieundersøkelser oppfyller kravene i
+
+   1. punkt B i vedlegg I for landdyr og
+   2. punkt 2 i vedlegg XII for akvatiske dyr,
+3. prøvene sendes
+
+   1. omgående til et offisielt laboratorium som er utpekt i samsvar med artikkel 37 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)13,
+   2. i samsvar med punkt C i vedlegg I for landdyr og nr. 1 bokstav f) i vedlegg XII for akvatiske dyr, og
+   3. i samsvar med alle andre instruksjoner fra vedkommende myndighet og laboratoriet om biosikkerhetsmessige forhold for å hindre spredning av kategori A-sykdomsagenser,
+4. når det gjelder holdte dyr
+
+   1. skal det utarbeides en fortegnelse over alle holdte dyr i anlegget, med angivelse av arter og kategorier; for fjørfe og akvakulturdyr kan antallet dyr anslås, og
+   2. skal det registreres et identifikasjonsmerke for hvert dyr av listeførte arter som det er tatt prøve av, eller når gjelder fjørfe og akvakulturdyr, registreres partinummeret.
 
 13 Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler (EUT L 95 av 7.4.2017, s. 1).
 
@@ -303,7 +424,16 @@ Foreløpige tiltak for sykdomsbekjempelse ved mistanke om en kategori A-sykdom h
 
 Driftsansvarliges forpliktelser ved mistanke om en kategori A-sykdom hos holdte dyr i et anlegg
 
-Ved mistanke om en kategori A-sykdom hos holdte dyr skal de driftsansvarlige treffe følgende tiltak for sykdomsbekjempelse for å hindre spredning av kategori A-sykdommen fra de rammede dyrene og anleggene som de har ansvar for, til andre dyr som ikke er rammet, eller til mennesker, inntil vedkommende myndighet har utelukket forekomst av kategori A-sykdommen:Isolere alle dyr som er mistenkt for å være smittet med kategori A-sykdommen.Holde husdyrgjødsel, herunder nytt og brukt strø, og alle produkter, materialer eller stoffer som trolig er kontaminert med eller kan overføre kategori A-sykdommer, isolert og beskyttet mot insekter og gnagere, holdte dyr av ikke-listeførte arter og viltlevende dyr i det omfang det er teknisk og praktisk mulig.Iverksette hensiktsmessige utfyllende biosikkerhetstiltak for å unngå all risiko for spredning av kategori A-sykdommen.Innstille all forflytning av holdte dyr av listeførte arter fra eller til anlegget.Forhindre forflytning som ikke er strengt nødvendig av dyr av ikke-listeførte arter, produkter, materialer, stoffer, personer og transportmidler fra eller til anlegget.Sørge for at anleggets journaler over produksjon, helse og sporbarhet ajourføres.På anmodning fra vedkommende myndighet gi den alle relevante opplysninger om kategori A-sykdommen.Følge alle instruksjoner fra vedkommende myndighet om bekjempelse av kategori A-sykdommen i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og denne forordningen.
+Ved mistanke om en kategori A-sykdom hos holdte dyr skal de driftsansvarlige treffe følgende tiltak for sykdomsbekjempelse for å hindre spredning av kategori A-sykdommen fra de rammede dyrene og anleggene som de har ansvar for, til andre dyr som ikke er rammet, eller til mennesker, inntil vedkommende myndighet har utelukket forekomst av kategori A-sykdommen:
+
+1. Isolere alle dyr som er mistenkt for å være smittet med kategori A-sykdommen.
+2. Holde husdyrgjødsel, herunder nytt og brukt strø, og alle produkter, materialer eller stoffer som trolig er kontaminert med eller kan overføre kategori A-sykdommer, isolert og beskyttet mot insekter og gnagere, holdte dyr av ikke-listeførte arter og viltlevende dyr i det omfang det er teknisk og praktisk mulig.
+3. Iverksette hensiktsmessige utfyllende biosikkerhetstiltak for å unngå all risiko for spredning av kategori A-sykdommen.
+4. Innstille all forflytning av holdte dyr av listeførte arter fra eller til anlegget.
+5. Forhindre forflytning som ikke er strengt nødvendig av dyr av ikke-listeførte arter, produkter, materialer, stoffer, personer og transportmidler fra eller til anlegget.
+6. Sørge for at anleggets journaler over produksjon, helse og sporbarhet ajourføres.
+7. På anmodning fra vedkommende myndighet gi den alle relevante opplysninger om kategori A-sykdommen.
+8. Følge alle instruksjoner fra vedkommende myndighet om bekjempelse av kategori A-sykdommen i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og denne forordningen.
 
 ###### Artikkel 6
 
@@ -311,15 +441,29 @@ Vedkommende myndighets undersøkelse ved mistanke om en kategori A-sykdom hos ho
 
 1\. Ved mistanke om en kategori A-sykdom hos holdte dyr i et anlegg i samsvar med artikkel 9 nr. 1, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) skal vedkommende myndighet umiddelbart gjennomføre en undersøkelse for å bekrefte eller utelukke forekomst av den mistenkte listeførte sykdommen.
 
-2\. I forbindelse med undersøkelsen nevnt i nr. 1 skal vedkommende myndighet sikre at offentlige veterinærer minst gjennomførerkliniske undersøkelser av holdte dyr av listeførte arter i anlegget, ogprøvetaking til laboratorieundersøkelser.
+2\. I forbindelse med undersøkelsen nevnt i nr. 1 skal vedkommende myndighet sikre at offentlige veterinærer minst gjennomfører
+
+1. kliniske undersøkelser av holdte dyr av listeførte arter i anlegget, og
+2. prøvetaking til laboratorieundersøkelser.
 
 ###### Artikkel 7
 
 Foreløpige restriksjons- og biosikkerhetstiltak ved mistanke om en kategori A-sykdom hos holdte dyr i et anlegg
 
-1\. Ved mistanke om en kategori A-sykdom i et anlegg skal vedkommende myndighet sette anlegget under offentlig overvåking og umiddelbart pålegge følgende foreløpige restriksjons- og biosikkerhetstiltak for å hindre spredning av kategori A-sykdommen fra de rammede dyrene og anlegget til andre dyr som ikke er rammet, eller til mennesker:Forby forflytning av holdte dyr av listeførte arter til og fra anlegget.Forby forflytning av holdte dyr av ikke-listeførte arter til og fra anlegget.Forby forflytning av alle produkter, materialer eller stoffer som trolig er kontaminert med eller trolig kan overføre kategori A-sykdommer fra anlegget.Isolere holdte dyr av listeførte arter og beskytte dem mot viltlevende dyr, dyr av ikke-listeførte arter og om nødvendig mot insekter og gnagere.Forby avliving av dyr av listeførte arter, med mindre vedkommende myndighet har gitt tillatelse til det.Forby forflytning som ikke er strengt nødvendig av produkter, materialer, stoffer, personer og transportmidler til anleggene.
+1\. Ved mistanke om en kategori A-sykdom i et anlegg skal vedkommende myndighet sette anlegget under offentlig overvåking og umiddelbart pålegge følgende foreløpige restriksjons- og biosikkerhetstiltak for å hindre spredning av kategori A-sykdommen fra de rammede dyrene og anlegget til andre dyr som ikke er rammet, eller til mennesker:
 
-2\. Som unntak fra nr. 1 bokstav a), b) og c) kan vedkommende myndighet tillate forflytning av dyr og produkter fra det anlegget der det er mistanke om en kategori A-sykdom, etter at det er foretatt en risikovurdering og forutsatt atforflytningen av dyr og produkter er i samsvar med alle vilkår og biosikkerhetstiltak som er nødvendige for å unngå spredning av sykdommen,det ikke finnes noen andre holdte dyr av listeførte arter i bestemmelsesanlegget, ogbestemmelsesanlegget ikke er et slakteri.
+1. Forby forflytning av holdte dyr av listeførte arter til og fra anlegget.
+2. Forby forflytning av holdte dyr av ikke-listeførte arter til og fra anlegget.
+3. Forby forflytning av alle produkter, materialer eller stoffer som trolig er kontaminert med eller trolig kan overføre kategori A-sykdommer fra anlegget.
+4. Isolere holdte dyr av listeførte arter og beskytte dem mot viltlevende dyr, dyr av ikke-listeførte arter og om nødvendig mot insekter og gnagere.
+5. Forby avliving av dyr av listeførte arter, med mindre vedkommende myndighet har gitt tillatelse til det.
+6. Forby forflytning som ikke er strengt nødvendig av produkter, materialer, stoffer, personer og transportmidler til anleggene.
+
+2\. Som unntak fra nr. 1 bokstav a), b) og c) kan vedkommende myndighet tillate forflytning av dyr og produkter fra det anlegget der det er mistanke om en kategori A-sykdom, etter at det er foretatt en risikovurdering og forutsatt at
+
+1. forflytningen av dyr og produkter er i samsvar med alle vilkår og biosikkerhetstiltak som er nødvendige for å unngå spredning av sykdommen,
+2. det ikke finnes noen andre holdte dyr av listeførte arter i bestemmelsesanlegget, og
+3. bestemmelsesanlegget ikke er et slakteri.
 
 3\. Dersom det er gitt unntak som fastsatt i nr. 2, kan vedkommende myndighet pålegge tiltakene for sykdomsbekjempelse fastsatt i nr. 1 i bestemmelsesanlegget.
 
@@ -331,11 +475,23 @@ Foreløpige restriksjons- og biosikkerhetstiltak ved mistanke om en kategori A-s
 
 Fortegnelse og analyse av journaler ved mistanke om en kategori A-sykdom hos holdte dyr i et anlegg
 
-1\. Ved mistanke om en kategori A-sykdom skal vedkommende myndighet pålegge og kontrollere at driftsansvarlige i anleggene der det er mistanke om en kategori A-sykdom, omgående utarbeider og opprettholder en ajourført fortegnelse over følgende:Artene, kategoriene og antallet av dyr som holdes i anlegget; når det gjelder fjørfe, kan antallet dyr anslås.Det individuelle identifikasjonsnummeret for alle dyr av arter som må identifiseres individuelt i samsvar med delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035)14.Artene, kategoriene og antallet av holdte dyr av listeførte arter som er født, har dødd, har vist kliniske tegn på eller forventes å bli smittet med kategori A-sykdommen i anlegget.Alle produkter, materialer eller stoffer som trolig er kontaminert med eller trolig kan overføre den aktuelle kategori A-sykdommen i anlegget.Når det er relevant, alle steder som trolig gjør det mulig for vektorer for den aktuelle kategori A-sykdommen å overleve i anlegget.
+1\. Ved mistanke om en kategori A-sykdom skal vedkommende myndighet pålegge og kontrollere at driftsansvarlige i anleggene der det er mistanke om en kategori A-sykdom, omgående utarbeider og opprettholder en ajourført fortegnelse over følgende:
+
+1. Artene, kategoriene og antallet av dyr som holdes i anlegget; når det gjelder fjørfe, kan antallet dyr anslås.
+2. Det individuelle identifikasjonsnummeret for alle dyr av arter som må identifiseres individuelt i samsvar med delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035)14.
+3. Artene, kategoriene og antallet av holdte dyr av listeførte arter som er født, har dødd, har vist kliniske tegn på eller forventes å bli smittet med kategori A-sykdommen i anlegget.
+4. Alle produkter, materialer eller stoffer som trolig er kontaminert med eller trolig kan overføre den aktuelle kategori A-sykdommen i anlegget.
+5. Når det er relevant, alle steder som trolig gjør det mulig for vektorer for den aktuelle kategori A-sykdommen å overleve i anlegget.
 
 2\. Dersom anlegget består av flere epidemiologiske enheter, skal opplysningene i nr. 1 angis for hver epidemiologisk enhet.
 
-3\. Som ledd i den epidemiologiske undersøkelsen nevnt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429) skal vedkommende myndighet analysere minst følgende journaler i anlegget der det er mistanke om en kategori A-sykdom:Fortegnelsen nevnt i nr. 1.Journalene over opprinnelse og ankomst- og avsendelsesdato til eller fra anlegget for holdte dyr av listeførte arter.Journalene over opprinnelse og ankomst- og avsendelsesdato til eller fra anlegget for andre relevante transporter.Produksjonsjournaler.Journaler over besøk i anlegget, dersom de er tilgjengelige.
+3\. Som ledd i den epidemiologiske undersøkelsen nevnt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429) skal vedkommende myndighet analysere minst følgende journaler i anlegget der det er mistanke om en kategori A-sykdom:
+
+1. Fortegnelsen nevnt i nr. 1.
+2. Journalene over opprinnelse og ankomst- og avsendelsesdato til eller fra anlegget for holdte dyr av listeførte arter.
+3. Journalene over opprinnelse og ankomst- og avsendelsesdato til eller fra anlegget for andre relevante transporter.
+4. Produksjonsjournaler.
+5. Journaler over besøk i anlegget, dersom de er tilgjengelige.
 
 4\. Analysen av journalene nevnt i nr. 3 skal minst omfatte overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet bakover fra den datoen da det ble meldt om mistanken.
 
@@ -345,7 +501,13 @@ Fortegnelse og analyse av journaler ved mistanke om en kategori A-sykdom hos hol
 
 Midlertidige restriksjonssoner ved mistanke om en kategori A-sykdom hos holdte landdyr i et anlegg
 
-1\. Ved mistanke om en kategori A-sykdom hos holdte dyr i et anlegg kan vedkommende myndighet opprette en midlertidig restriksjonssone idet det tas hensyn til følgende omstendigheter:Beliggenheten til anlegget i et område med høy tetthet av holdte dyr av listeførte arter som det er mistanke om en kategori A-sykdom hos.Forflytning av dyr eller personer som er i kontakt med holdte dyr av listeførte arter som det er mistanke om en kategori A-sykdom hos.Hvor lang tid det tar før kategori A-sykdommen bekreftes i samsvar med artikkel 11.Utilstrekkelige opplysninger om mulig opprinnelse for den mistenkte kategori A-sykdommen og hvilke måter den kan ha blitt innført på.Sykdomsprofilen, særlig hvordan og hvor raskt sykdommen overføres, og sykdommens persistens i dyrepopulasjonen.
+1\. Ved mistanke om en kategori A-sykdom hos holdte dyr i et anlegg kan vedkommende myndighet opprette en midlertidig restriksjonssone idet det tas hensyn til følgende omstendigheter:
+
+1. Beliggenheten til anlegget i et område med høy tetthet av holdte dyr av listeførte arter som det er mistanke om en kategori A-sykdom hos.
+2. Forflytning av dyr eller personer som er i kontakt med holdte dyr av listeførte arter som det er mistanke om en kategori A-sykdom hos.
+3. Hvor lang tid det tar før kategori A-sykdommen bekreftes i samsvar med artikkel 11.
+4. Utilstrekkelige opplysninger om mulig opprinnelse for den mistenkte kategori A-sykdommen og hvilke måter den kan ha blitt innført på.
+5. Sykdomsprofilen, særlig hvordan og hvor raskt sykdommen overføres, og sykdommens persistens i dyrepopulasjonen.
 
 2\. I anleggene i den midlertidige restriksjonssonen skal vedkommende myndighet minst iverksette tiltakene i artikkel 7.
 
@@ -357,7 +519,10 @@ Midlertidige restriksjonssoner ved mistanke om en kategori A-sykdom hos holdte l
 
 Tiltak som skal iverksettes ved mistanke om en kategori A-sykdom i næringsmiddel- og fôrforetak, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler
 
-1\. Ved mistanke om en kategori A-sykdom i samsvar med artikkel 9 nr. 1, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) i næringsmiddel- og fôrforetak, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet anvendede relevante bestemmelsene fastsatt i artikkel 5–9, ogom nødvendig ytterligere tiltak som er tilpasset den aktuelle situasjonen for å hindre at kategori A-sykdommen spres til dyr som ikke er rammet, eller til mennesker.
+1\. Ved mistanke om en kategori A-sykdom i samsvar med artikkel 9 nr. 1, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) i næringsmiddel- og fôrforetak, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet anvende
+
+1. de relevante bestemmelsene fastsatt i artikkel 5–9, og
+2. om nødvendig ytterligere tiltak som er tilpasset den aktuelle situasjonen for å hindre at kategori A-sykdommen spres til dyr som ikke er rammet, eller til mennesker.
 
 2\. Vedkommende myndighet skal også anvende bestemmelsene fastsatt i artikkel 5–9 i opprinnelsesanlegget for de dyrene eller produktene som befinner seg i anleggene eller stedene nevnt i nr. 1, og som mistenkes å være smittet eller infisert.
 
@@ -375,23 +540,53 @@ Vedkommende myndighet skal offisielt bekrefte et utbrudd av en kategori A-sykdom
 
 Tiltak for sykdomsbekjempelse ved offisiell bekreftelse av et utbrudd av en kategori A-sykdom hos holdte dyr i et anlegg
 
-1\. Etter offisiell bekreftelse av et utbrudd av en kategori A-sykdom i et anlegg i samsvar med artikkel 11, skal vedkommende myndighet pålegge at følgende tiltak for sykdomsbekjempelse, i tillegg til tiltakene i artikkel 7, iverksettes umiddelbart under tilsyn av offentlige veterinærer:Alle dyr av listeførte arter som holdes i det rammede anlegget, skal avlives så snart som mulig på stedet i anlegget på en slik måte at man unngår risiko for spredning av den aktuelle kategori A-sykdomsagensen under og etter avlivingen.Alle hensiktsmessige og nødvendige biosikkerhetstiltak skal treffes for å unngå eventuell spredning av kategori A-sykdommen til holdte eller viltlevende dyr som ikke er rammet, eller til mennesker.Skrotter eller deler av holdte dyr av listeførte arter som har dødd eller er avlivet i samsvar med bokstav a) i dette nummer, skal sluttbehandles i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).Alle potensielt kontaminerte produkter, materialer og stoffer som finnes i anlegget, skal isoleres inntilde sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) når det gjelder animalske biprodukter (herunder de som er en følge av avlivingen, og produkter av animalsk opprinnelse og avlsmateriale),tiltakene for rengjøring og desinfisering er gjennomført i samsvar med artikkel 15 når det gjelder andre materialer og stoffer som er egnet til rengjøring og desinfisering,sluttbehandlingen er gjennomført under tilsyn av offentlige veterinærer når det gjelder fôrvarer og andre materialer som er uegnede til rengjøring og desinfisering.
+1\. Etter offisiell bekreftelse av et utbrudd av en kategori A-sykdom i et anlegg i samsvar med artikkel 11, skal vedkommende myndighet pålegge at følgende tiltak for sykdomsbekjempelse, i tillegg til tiltakene i artikkel 7, iverksettes umiddelbart under tilsyn av offentlige veterinærer:
 
-2\. Vedkommende myndighet skal pålegge og føre tilsyn med attransporten fra det rammede anlegget av animalske biprodukter som nevnt i nr. 1 bokstav c) og nr. 1 bokstav d) i) er i samsvar med bestemmelsene i forordning [(EF) nr. 1069/2009](eu/32009r1069),transporten fra det rammede anlegget av materialer eller stoffer som nevnt i nr. 1 bokstav d) iii) er i samsvar med vedkommende myndighets instruksjoner om biosikkerhetsmessige forhold for å hindre spredning av kategori A-sykdomsagensen.
+1. Alle dyr av listeførte arter som holdes i det rammede anlegget, skal avlives så snart som mulig på stedet i anlegget på en slik måte at man unngår risiko for spredning av den aktuelle kategori A-sykdomsagensen under og etter avlivingen.
+2. Alle hensiktsmessige og nødvendige biosikkerhetstiltak skal treffes for å unngå eventuell spredning av kategori A-sykdommen til holdte eller viltlevende dyr som ikke er rammet, eller til mennesker.
+3. Skrotter eller deler av holdte dyr av listeførte arter som har dødd eller er avlivet i samsvar med bokstav a) i dette nummer, skal sluttbehandles i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
+4. Alle potensielt kontaminerte produkter, materialer og stoffer som finnes i anlegget, skal isoleres inntil
+
+   1. de sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) når det gjelder animalske biprodukter (herunder de som er en følge av avlivingen, og produkter av animalsk opprinnelse og avlsmateriale),
+   2. tiltakene for rengjøring og desinfisering er gjennomført i samsvar med artikkel 15 når det gjelder andre materialer og stoffer som er egnet til rengjøring og desinfisering,
+   3. sluttbehandlingen er gjennomført under tilsyn av offentlige veterinærer når det gjelder fôrvarer og andre materialer som er uegnede til rengjøring og desinfisering.
+
+2\. Vedkommende myndighet skal pålegge og føre tilsyn med at
+
+1. transporten fra det rammede anlegget av animalske biprodukter som nevnt i nr. 1 bokstav c) og nr. 1 bokstav d) i) er i samsvar med bestemmelsene i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+2. transporten fra det rammede anlegget av materialer eller stoffer som nevnt i nr. 1 bokstav d) iii) er i samsvar med vedkommende myndighets instruksjoner om biosikkerhetsmessige forhold for å hindre spredning av kategori A-sykdomsagensen.
 
 3\. Vedkommende myndighet skal ta prøver til laboratorieundersøkelse fra holdte dyr av listeførte arter før eller når de avlives eller er døde, med henblikk på den epidemiologiske undersøkelsen nevnt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429).
 
-4\. Som unntak fra nr. 1 bokstav a) kan vedkommende myndighet etter å ha foretatt en risikovurdering og idet det tas hensyn til muligheten for å iverksette andre risikoreduserende tiltak, beslutteå pålegge avliving av holdte dyr av listeførte arter på det nærmeste egnede stedet på en slik måte at risikoen for å spre kategori A-sykdommen under avliving eller transport, unngås, ellerutsette avlivingen av holdte dyr av listeførte arter forutsatt at disse dyrene gjennomgår nødvaksinasjon som fastsatt i artikkel 69 i forordning [(EU) 2016/429](eu/32016r0429).
+4\. Som unntak fra nr. 1 bokstav a) kan vedkommende myndighet etter å ha foretatt en risikovurdering og idet det tas hensyn til muligheten for å iverksette andre risikoreduserende tiltak, beslutte
+
+1. å pålegge avliving av holdte dyr av listeførte arter på det nærmeste egnede stedet på en slik måte at risikoen for å spre kategori A-sykdommen under avliving eller transport, unngås, eller
+2. utsette avlivingen av holdte dyr av listeførte arter forutsatt at disse dyrene gjennomgår nødvaksinasjon som fastsatt i artikkel 69 i forordning [(EU) 2016/429](eu/32016r0429).
 
 ###### Artikkel 13
 
 Særlige unntak fra artikkel 12 nr. 1 bokstav a)
 
-1\. Ved utbrudd av en kategori A-sykdom i anlegg der det holdes dyr av listeførte arter i to eller flere epidemiologiske enheter, kan vedkommende myndighet gi unntak fra artikkel 12 nr. 1 bokstav a) til de epidemiologiske enhetene der sykdommen ikke er bekreftet, etter å ha foretatt en risikovurdering og om nødvendig etter at laboratorieundersøkelser har gitt tilfredsstillende resultat, og forutsatt atden epidemiologiske undersøkelsen nevnt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429) ikke har vist noen epidemiologisk forbindelse mellom de epidemiologiske enhetene der kategori A-sykdommen er bekreftet og de epidemiologiske enhetene der sykdommen ikke er bekreftet, og dermed ikke gir grunn til mistanke om spredning av kategori A-sykdommen mellom dem, ogvedkommende myndighet har bekreftet at de epidemiologiske enhetene der sykdommen ikke er bekreftet, er blitt holdt fullstendig atskilt og er håndtert av forskjellig personale minst i den overvåkingsperioden som er angitt i vedlegg II for den aktuelle sykdommen, og før kategori A-sykdommen er blitt bekreftet.
+1\. Ved utbrudd av en kategori A-sykdom i anlegg der det holdes dyr av listeførte arter i to eller flere epidemiologiske enheter, kan vedkommende myndighet gi unntak fra artikkel 12 nr. 1 bokstav a) til de epidemiologiske enhetene der sykdommen ikke er bekreftet, etter å ha foretatt en risikovurdering og om nødvendig etter at laboratorieundersøkelser har gitt tilfredsstillende resultat, og forutsatt at
 
-2\. Vedkommende myndighet kan gi unntak fra artikkel 12 nr. 1 bokstav a) for følgende kategorier av dyr, forutsatt at vilkårene i nr. 3 er oppfylt:Dyr som holdes i et avgrenset anlegg.Dyr som holdes for vitenskapelige formål eller i forbindelse med bevaring av vernede eller utryddelsestruede arter.Dyr av offisielt registrerte sjeldne raser.Dyr med en berettiget høy genetisk, kulturell eller utdanningsmessig verdi.
+1. den epidemiologiske undersøkelsen nevnt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429) ikke har vist noen epidemiologisk forbindelse mellom de epidemiologiske enhetene der kategori A-sykdommen er bekreftet og de epidemiologiske enhetene der sykdommen ikke er bekreftet, og dermed ikke gir grunn til mistanke om spredning av kategori A-sykdommen mellom dem, og
+2. vedkommende myndighet har bekreftet at de epidemiologiske enhetene der sykdommen ikke er bekreftet, er blitt holdt fullstendig atskilt og er håndtert av forskjellig personale minst i den overvåkingsperioden som er angitt i vedlegg II for den aktuelle sykdommen, og før kategori A-sykdommen er blitt bekreftet.
 
-3\. Vedkommende myndighet skal sikre at følgende vilkår er oppfylt når den gir unntak som fastsatt i nr. 2:Vedkommende myndighet har foretatt en vurdering av virkningene av å gi et slikt unntak, særlig innvirkningen på dyrehelsestatusen i den berørte medlemsstaten og i tilgrensende land, og resultatet av denne vurderingen viste at dyrehelsestatusen ikke er satt i fare.Det er iverksatt hensiktsmessige biosikkerhetstiltak for å hindre risiko for overføring av kategori A-sykdommen til holdte eller viltlevende dyr som ikke er rammet, eller til mennesker, idet det tas hensyn tilsykdomsprofilen, ogde rammede dyreartene.Dyrene er gjenstand for passende isolasjon og klinisk overvåking, herunder laboratorieundersøkelser, inntil vedkommende myndighet kan sikre at dyrene ikke utgjør noen risiko for overføring av kategori A-sykdommen.
+2\. Vedkommende myndighet kan gi unntak fra artikkel 12 nr. 1 bokstav a) for følgende kategorier av dyr, forutsatt at vilkårene i nr. 3 er oppfylt:
+
+1. Dyr som holdes i et avgrenset anlegg.
+2. Dyr som holdes for vitenskapelige formål eller i forbindelse med bevaring av vernede eller utryddelsestruede arter.
+3. Dyr av offisielt registrerte sjeldne raser.
+4. Dyr med en berettiget høy genetisk, kulturell eller utdanningsmessig verdi.
+
+3\. Vedkommende myndighet skal sikre at følgende vilkår er oppfylt når den gir unntak som fastsatt i nr. 2:
+
+1. Vedkommende myndighet har foretatt en vurdering av virkningene av å gi et slikt unntak, særlig innvirkningen på dyrehelsestatusen i den berørte medlemsstaten og i tilgrensende land, og resultatet av denne vurderingen viste at dyrehelsestatusen ikke er satt i fare.
+2. Det er iverksatt hensiktsmessige biosikkerhetstiltak for å hindre risiko for overføring av kategori A-sykdommen til holdte eller viltlevende dyr som ikke er rammet, eller til mennesker, idet det tas hensyn til
+
+   1. sykdomsprofilen, og
+   2. de rammede dyreartene.
+3. Dyrene er gjenstand for passende isolasjon og klinisk overvåking, herunder laboratorieundersøkelser, inntil vedkommende myndighet kan sikre at dyrene ikke utgjør noen risiko for overføring av kategori A-sykdommen.
 
 4\. Vedkommende myndighet kan gi særlige unntak fra artikkel 12 nr. 1 bokstav a) til hestedyr som holdes i anlegg der det er bekreftet et utbrudd av kategori A-sykdommer nevnt i vedlegg III, på de vilkårene som er angitt i nevnte vedlegg.
 
@@ -409,7 +604,10 @@ Foreløpig rengjøring og desinfisering og bekjempelse av insekter og gnagere i 
 
 1\. Så snart de tiltakene som er fastsatt i artikkel 12, og eventuelt i artikkel 14, er gjennomført, skal vedkommende myndighet pålegge og føre tilsyn med en foreløpig rengjøring og desinfisering og, dersom det er relevant, bekjempelse av insekter og gnagere i det rammede anlegget for å unngå spredning av kategori A-sykdommen.
 
-2\. Den foreløpige rengjøringen, desinfiseringen og bekjempelsen nevnt i nr. 1 skalutføres i samsvar med framgangsmåtene fastsatt i punkt A og B i vedlegg IV ved bruk av passende biocidprodukter for å sikre at den aktuelle kategori A-sykdomsagensen destrueres, ogdokumenteres på tilstrekkelig vis.
+2\. Den foreløpige rengjøringen, desinfiseringen og bekjempelsen nevnt i nr. 1 skal
+
+1. utføres i samsvar med framgangsmåtene fastsatt i punkt A og B i vedlegg IV ved bruk av passende biocidprodukter for å sikre at den aktuelle kategori A-sykdomsagensen destrueres, og
+2. dokumenteres på tilstrekkelig vis.
 
 3\. Når vedkommende myndighet gir ett av unntakene fastsatt i artikkel 13 nr. 2 og 4, skal den pålegge foreløpig rengjøring, desinfisering og bekjempelse nevnt i nr. 1 og tilpasse framgangsmåtene nevnt i nr. 2 bokstav a) til den aktuelle situasjonen uten at det går ut over bekjempelsen av spredning av kategori A-sykdommen fra de rammede dyrene og de rammede anleggene og stedene til andre dyr som ikke er rammet, eller til mennesker.
 
@@ -419,13 +617,19 @@ Foreløpig rengjøring og desinfisering og bekjempelse av insekter og gnagere i 
 
 Unntak fra og særlige regler for den foreløpige rengjøringen og desinfiseringen samt bekjempelsen av vektorer
 
-Vedkommende myndighet kan gi unntak fra kravet om rengjøring og desinfisering samt bekjempelse av insekter og gnagere som fastsatt i artikkel 15 når det gjelderbeitemarker som er epidemiologisk forbundet med det rammede anlegget, innenfor rammen av særlige framgangsmåter for å sikre effektiv inaktivering av den aktuelle kategori A-sykdomsagensen, samtidig som det tas hensyn til sykdomsprofil, type anlegg og klimaforhold, oghusdyrgjødsel, herunder nytt og brukt strø, fra det rammede anlegget, innenfor rammen av særlige framgangsmåter for å sikre effektiv inaktivering av den aktuelle kategori A-sykdomsagensen i samsvar med vitenskapelige bevis.
+Vedkommende myndighet kan gi unntak fra kravet om rengjøring og desinfisering samt bekjempelse av insekter og gnagere som fastsatt i artikkel 15 når det gjelder
+
+1. beitemarker som er epidemiologisk forbundet med det rammede anlegget, innenfor rammen av særlige framgangsmåter for å sikre effektiv inaktivering av den aktuelle kategori A-sykdomsagensen, samtidig som det tas hensyn til sykdomsprofil, type anlegg og klimaforhold, og
+2. husdyrgjødsel, herunder nytt og brukt strø, fra det rammede anlegget, innenfor rammen av særlige framgangsmåter for å sikre effektiv inaktivering av den aktuelle kategori A-sykdomsagensen i samsvar med vitenskapelige bevis.
 
 ###### Artikkel 17
 
 Identifikasjon av epidemiologisk forbundne anlegg og andre relevante steder, inkludert transportmidler
 
-1\. Innenfor rammen av den epidemiologiske undersøkelsen nevnt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429) og for å kunne identifisere alle epidemiologisk forbundne anlegg og andre relevante steder, inkludert transportmidler, skal vedkommende myndighet spore alle holdte dyr i det anlegget der det er bekreftet et utbrudd av en kategori A-sykdom, og alle produkter, materialer, stoffer, transportmidler eller personer som trolig kan spre den aktuelle kategori A-sykdommen, herunderde som sendes til og fra anlegget, ogde som har kommet i kontakt med anlegget.
+1\. Innenfor rammen av den epidemiologiske undersøkelsen nevnt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429) og for å kunne identifisere alle epidemiologisk forbundne anlegg og andre relevante steder, inkludert transportmidler, skal vedkommende myndighet spore alle holdte dyr i det anlegget der det er bekreftet et utbrudd av en kategori A-sykdom, og alle produkter, materialer, stoffer, transportmidler eller personer som trolig kan spre den aktuelle kategori A-sykdommen, herunder
+
+1. de som sendes til og fra anlegget, og
+2. de som har kommet i kontakt med anlegget.
 
 2\. Sporingen nevnt i nr. 1 skal minst omfatte overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet bakover fra den datoen da det ble meldt om mistanken.
 
@@ -435,7 +639,10 @@ Identifikasjon av epidemiologisk forbundne anlegg og andre relevante steder, ink
 
 Tiltak som skal iverksettes i epidemiologisk forbundne anlegg og på andre relevante steder, inkludert transportmidler
 
-1\. Dersom sporingen fastsatt i artikkel 17 nr. 1 viser at dyrene av listeførte arter ble sendt fra eller til det rammede anlegget i den perioden som er nevnt i artikkel 17 nr. 2, skal vedkommende myndighetutføre undersøkelser og pålegge restriksjoner og biosikkerhetstiltak i samsvar med artikkel 6, 7 og 8 i bestemmelses- eller opprinnelsesanleggene for forflytningen, ellerumiddelbart utvide tiltakene i artikkel 12 til opprinnelsesanlegget eller bestemmelsesanlegget for forflytningen dersom det finnes epidemiologiske bevis på spredning av sykdommen til, fra eller gjennom dette anlegget.
+1\. Dersom sporingen fastsatt i artikkel 17 nr. 1 viser at dyrene av listeførte arter ble sendt fra eller til det rammede anlegget i den perioden som er nevnt i artikkel 17 nr. 2, skal vedkommende myndighet
+
+1. utføre undersøkelser og pålegge restriksjoner og biosikkerhetstiltak i samsvar med artikkel 6, 7 og 8 i bestemmelses- eller opprinnelsesanleggene for forflytningen, eller
+2. umiddelbart utvide tiltakene i artikkel 12 til opprinnelsesanlegget eller bestemmelsesanlegget for forflytningen dersom det finnes epidemiologiske bevis på spredning av sykdommen til, fra eller gjennom dette anlegget.
 
 2\. Vedkommende myndighet skal iverksette tiltakene nevnt i nr. 1 i andre anlegg og på relevante steder, inkludert transportmidler, som trolig er kontaminert som følge av kontakt med dyr, produkter, materialer, stoffer, personer eller transportmidler fra det rammede anlegget som er identifisert i forbindelse med sporingen nevnt i artikkel 17, eller på grunnlag av andre relevante opplysninger fra den epidemiologiske undersøkelsen nevnt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429).
 
@@ -445,7 +652,12 @@ Tiltak som skal iverksettes for produkter identifisert gjennom sporing
 
 1\. Vedkommende myndighet skal pålegge og føre tilsyn med at sæd, oocytter og embryoer som er identifisert som kontaminert gjennom sporingen nevnt i artikkel 17, sluttbehandles i samsvar med forordning [(EU) nr. 1069/2009](eu/32009r1069).
 
-2\. Vedkommende myndighet skal pålegge og føre tilsyn med behandlingen, foredlingen eller sluttbehandlingen av produktene identifisert gjennom sporingen nevnt i artikkel 7, minst fram tildet første foredlingsanlegget for næringsmidler når det gjelder produkter av animalsk opprinnelse,rugeriet eller det anlegget det sendes egg til for klekking, når det gjelder rugeegg som ennå ikke er klekket, ogdet første bearbeidingsanlegget når det gjelder animalske biprodukter, unntatt husdyrgjødsel, ellerlagringsstedet når det gjelder husdyrgjødsel, herunder nytt og brukt strø.
+2\. Vedkommende myndighet skal pålegge og føre tilsyn med behandlingen, foredlingen eller sluttbehandlingen av produktene identifisert gjennom sporingen nevnt i artikkel 7, minst fram til
+
+1. det første foredlingsanlegget for næringsmidler når det gjelder produkter av animalsk opprinnelse,
+2. rugeriet eller det anlegget det sendes egg til for klekking, når det gjelder rugeegg som ennå ikke er klekket, og
+3. det første bearbeidingsanlegget når det gjelder animalske biprodukter, unntatt husdyrgjødsel, eller
+4. lagringsstedet når det gjelder husdyrgjødsel, herunder nytt og brukt strø.
 
 3\. Vedkommende myndighet skal innføre offentlig overvåking av fjørfe som er utklekket i sporingsperioden nevnt i artikkel 17 nr. 2, fra rugeegg som kommer fra det rammede anlegget; denne overvåkingen skal innføres i alle bestemmelsesanlegg for rugeeggene og skal opprettholdes i 21 dager etter klekkingen.
 
@@ -457,7 +669,10 @@ Tiltak som skal iverksettes for produkter identifisert gjennom sporing
 
 Tiltak som skal iverksettes ved offisiell bekreftelse av utbrudd av en kategori A-sykdom i næringsmiddel- og fôrforetak, på grensekontrollstasjoner, i anlegg for animalske biprodukter og på andre relevante steder, inkludert transportmidler
 
-1\. Ved offisiell bekreftelse av et utbrudd i samsvar med artikkel 11 i næringsmiddel- og fôrforetak, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet iverksettede relevante bestemmelsene fastsatt i artikkel 12–19, ogom nødvendig ytterligere tiltak som er tilpasset den aktuelle situasjonen for å hindre at kategori A-sykdommen spres fra de rammede dyrene og rammede anleggene og stedene til andre dyr som ikke er rammet, eller til mennesker.
+1\. Ved offisiell bekreftelse av et utbrudd i samsvar med artikkel 11 i næringsmiddel- og fôrforetak, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet iverksette
+
+1. de relevante bestemmelsene fastsatt i artikkel 12–19, og
+2. om nødvendig ytterligere tiltak som er tilpasset den aktuelle situasjonen for å hindre at kategori A-sykdommen spres fra de rammede dyrene og rammede anleggene og stedene til andre dyr som ikke er rammet, eller til mennesker.
 
 2\. Vedkommende myndighet skal anvende bestemmelsene i artikkel 12–19 også i opprinnelsesanlegget for de rammede dyrene eller produktene som befinner seg i anleggene og på stedene nevnt i nr. 1.
 
@@ -472,7 +687,11 @@ Generelle tiltak for sykdomsbekjempelse i restriksjonssonen
 
 Opprettelse av en restriksjonssone
 
-1\. Ved utbrudd av en kategori A-sykdom i et anlegg, et næringsmiddel- og fôrforetak, et anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet umiddelbart opprette en restriksjonssone rundt det rammede anlegget eller stedet, som omfatteren vernesone basert på den minsteradiusen fra utbruddet som er angitt for den aktuelle kategori A-sykdommen i vedlegg V,en overvåkingssone basert på den minsteradiusen fra utbruddet som er angitt for den aktuelle kategori A-sykdommen i vedlegg V, ogom nødvendig på grunnlag av kriteriene i artikkel 64 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), ytterligere restriksjonssoner rundt eller tilgrensende til verne- og overvåkingssonene, der vedkommende myndighet skal iverksette de samme tiltakene som dem som er fastsatt i avsnitt 3 i dette kapittelet med hensyn til overvåkingssonen.
+1\. Ved utbrudd av en kategori A-sykdom i et anlegg, et næringsmiddel- og fôrforetak, et anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet umiddelbart opprette en restriksjonssone rundt det rammede anlegget eller stedet, som omfatter
+
+1. en vernesone basert på den minsteradiusen fra utbruddet som er angitt for den aktuelle kategori A-sykdommen i vedlegg V,
+2. en overvåkingssone basert på den minsteradiusen fra utbruddet som er angitt for den aktuelle kategori A-sykdommen i vedlegg V, og
+3. om nødvendig på grunnlag av kriteriene i artikkel 64 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), ytterligere restriksjonssoner rundt eller tilgrensende til verne- og overvåkingssonene, der vedkommende myndighet skal iverksette de samme tiltakene som dem som er fastsatt i avsnitt 3 i dette kapittelet med hensyn til overvåkingssonen.
 
 2\. Vedkommende myndighet skal tilpasse den opprinnelige restriksjonssonens grenser, herunder vernesonenes, overvåkingssonenes og de ytterligere restriksjonssonenes grenser, ved overlapping mellom to eller flere restriksjonssoner som følge av ytterligere utbrudd av kategori A-sykdommen.
 
@@ -488,9 +707,9 @@ Opprettelse av en restriksjonssone
 4. Transportmidler.
 5. Steder der det foregår oppsamling eller midlertidige utstillinger, eller der dyr får veterinærhjelp.
 6. Alle andre steder som ikke er et anlegg.
-►**M2**
+   ►**M2**
 7. anlegg der det holdes inntil 50 fugler i fangenskap, forutsatt at de ikke har direkte eller indirekte kontakt med fjørfe eller andre anlegg der det holdes fugler i fangenskap.
-◄**M2**
+   ◄**M2**
 
 ###### Artikkel 22
 
@@ -500,9 +719,16 @@ Tiltak som skal iverksettes i restriksjonssonen
 
 2\. Vedkommende myndighet kan for å hindre spredning av sykdommen og på grunnlag av epidemiologiske opplysninger eller andre bevis, gjennomføre forebyggende avliving i samsvar med artikkel 12 nr. 1 og 2 eller slakting av holdte dyr av listeførte arter i anlegg som ligger i restriksjonssonen.
 
-3\. Vedkommende myndighet skal pålegge og føre tilsyn med at alle forflytninger av hele skrotter eller deler av døde viltlevende og holdte dyr av listeførte arter fra restriksjonssonen er beregnet på bearbeiding eller sluttbehandling i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) i et anlegg som er godkjent for disse formåleneinnenfor medlemsstatens territorium, elleri en annen medlemsstat i samsvar med artikkel 48 nr. 1 og 3 i forordning (EF) nr. 1069/2009, dersom det ikke er mulig å bearbeide eller sluttbehandle de hele skrottene eller delene av døde dyr i et godkjent anlegg på territoriet til den medlemsstatens der utbruddet forekom.
+3\. Vedkommende myndighet skal pålegge og føre tilsyn med at alle forflytninger av hele skrotter eller deler av døde viltlevende og holdte dyr av listeførte arter fra restriksjonssonen er beregnet på bearbeiding eller sluttbehandling i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) i et anlegg som er godkjent for disse formålene
 
-4\. Vedkommende myndighet skal pålegge særlige vilkår for transport av dyr og produkter gjennom restriksjonssonen for å sikre at transporten gjennomføresuten opphold eller lossing i restriksjonssonen,fortrinnsvis på større motorveier eller jernbaner, oguten å komme i nærheten av anlegg der det holdes dyr av listeførte arter.
+1. innenfor medlemsstatens territorium, eller
+2. i en annen medlemsstat i samsvar med artikkel 48 nr. 1 og 3 i forordning (EF) nr. 1069/2009, dersom det ikke er mulig å bearbeide eller sluttbehandle de hele skrottene eller delene av døde dyr i et godkjent anlegg på territoriet til den medlemsstatens der utbruddet forekom.
+
+4\. Vedkommende myndighet skal pålegge særlige vilkår for transport av dyr og produkter gjennom restriksjonssonen for å sikre at transporten gjennomføres
+
+1. uten opphold eller lossing i restriksjonssonen,
+2. fortrinnsvis på større motorveier eller jernbaner, og
+3. uten å komme i nærheten av anlegg der det holdes dyr av listeførte arter.
 
 ►**M1**
 
@@ -518,15 +744,27 @@ Tiltak som skal iverksettes i restriksjonssonen
 
 Unntak fra tiltak som skal iverksettes i restriksjonssonen
 
-Vedkommende myndighet kan gi unntak fra bestemmelsene i dette kapittelet om tiltakene som skal iverksettes i restriksjonssoner, i den grad som er nødvendig og etter å ha foretatt en risikovurdering,i de ytterligere restriksjonssonene nevnt i artikkel 21 nr. 1 bokstav c),dersom vedkommende myndighet beslutter å opprette en restriksjonssone når et utbrudd av en kategori A-sykdom forekommer i anlegg og på steder nevnt i artikkel 21 nr. 3,dersom utbruddet forekommer i et anlegg der det holdes inntil 50 fugler i fangenskap, elleri anlegg og på steder nevnt i artikkel 21 nr. 3 som ligger i en restriksjonssone.
+Vedkommende myndighet kan gi unntak fra bestemmelsene i dette kapittelet om tiltakene som skal iverksettes i restriksjonssoner, i den grad som er nødvendig og etter å ha foretatt en risikovurdering,
+
+1. i de ytterligere restriksjonssonene nevnt i artikkel 21 nr. 1 bokstav c),
+2. dersom vedkommende myndighet beslutter å opprette en restriksjonssone når et utbrudd av en kategori A-sykdom forekommer i anlegg og på steder nevnt i artikkel 21 nr. 3,
+3. dersom utbruddet forekommer i et anlegg der det holdes inntil 50 fugler i fangenskap, eller
+4. i anlegg og på steder nevnt i artikkel 21 nr. 3 som ligger i en restriksjonssone.
 
 ###### Artikkel 24
 
 Krav som gjelder transportmidler for holdte dyr av listeførte arter og produkter av disse
 
-1\. Vedkommende myndighet skal sikre at transportmidlene som brukes til forflytning av holdte dyr av listeførte arter og produkter av disse innenfor, fra, til og gjennom restriksjonssonen, erkonstruert og vedlikeholdt på en slik måte at dyr, produkter eller enhver gjenstand som utgjør en helserisiko for dyr, ikke kan lekke ut, falle ut eller slippe ut,rengjort og desinfisert umiddelbart etter hver transport av dyr, produkter eller enhver gjenstand som utgjør en helserisiko for dyr, og om nødvendig er desinfisert igjen og under alle omstendigheter er tørket eller får tørke før de lastes på nytt med dyr eller produkter, ogomfattet av tiltak for bekjempelse av insekter og gnagere før transporten, dersom det er relevant.
+1\. Vedkommende myndighet skal sikre at transportmidlene som brukes til forflytning av holdte dyr av listeførte arter og produkter av disse innenfor, fra, til og gjennom restriksjonssonen, er
 
-2\. Rengjøringen og desinfiseringen av de transportmidlene som er nevnt i nr. 1, skalutføres i samsvar med instruksene eller framgangsmåtene fastsatt av vedkommende myndighet ved bruk av passende biocidprodukter for å sikre at den aktuelle kategori A-sykdomsagensen destrueres, ogdokumenteres på tilstrekkelig vis.
+1. konstruert og vedlikeholdt på en slik måte at dyr, produkter eller enhver gjenstand som utgjør en helserisiko for dyr, ikke kan lekke ut, falle ut eller slippe ut,
+2. rengjort og desinfisert umiddelbart etter hver transport av dyr, produkter eller enhver gjenstand som utgjør en helserisiko for dyr, og om nødvendig er desinfisert igjen og under alle omstendigheter er tørket eller får tørke før de lastes på nytt med dyr eller produkter, og
+3. omfattet av tiltak for bekjempelse av insekter og gnagere før transporten, dersom det er relevant.
+
+2\. Rengjøringen og desinfiseringen av de transportmidlene som er nevnt i nr. 1, skal
+
+1. utføres i samsvar med instruksene eller framgangsmåtene fastsatt av vedkommende myndighet ved bruk av passende biocidprodukter for å sikre at den aktuelle kategori A-sykdomsagensen destrueres, og
+2. dokumenteres på tilstrekkelig vis.
 
 ###### Avsnitt 2
 
@@ -536,7 +774,15 @@ Tiltak for sykdomsbekjempelse i vernesonen
 
 Tiltak som skal iverksettes i anlegg der det holdes dyr av listeførte arter i vernesonen
 
-1\. Vedkommende myndighet skal omgående pålegge at følgende tiltak iverksettes i anlegg i vernesonen der det holdes dyr av listeførte arter, bortsett fra anlegg der kategori A-sykdommen er bekreftet:Holde dyr av listeførte arter atskilt fra viltlevende dyr og dyr av ikke-listeførte arter.Gjennomføre ytterligere overvåking for å identifisere ytterligere spredning av kategori A-sykdommen til anleggene, herunder enhver økning av sykelighet eller dødelighet eller betydelig produksjonsnedgang; all slik økning eller nedgang skal umiddelbart meldes til vedkommende myndighet.Når det er relevant, benytte egnede metoder for å bekjempe insekter og gnagere og andre vektorer for sykdom i og rundt anlegget.Bruke egnede desinfeksjonsmidler ved inn- og utgangene til anlegget.Iverksette hensiktsmessige biosikkerhetstiltak for alle personer som kommer i kontakt med holdte dyr av listeførte arter som kommer inn i eller forlater anlegget, samt for transportmidler, for å unngå all risiko for spredning av den aktuelle kategori A-sykdommen.Føre journaler over alle personer som besøker anleggene, holde dem ajourført for å gjøre det lettere å overvåke og bekjempe sykdom, og gjøre dem tilgjengelige for vedkommende myndighet på anmodning.Sluttbehandle hele skrotter eller deler av døde eller avlivede dyr av listeførte arter i samsvar med artikkel 22 nr. 3.
+1\. Vedkommende myndighet skal omgående pålegge at følgende tiltak iverksettes i anlegg i vernesonen der det holdes dyr av listeførte arter, bortsett fra anlegg der kategori A-sykdommen er bekreftet:
+
+1. Holde dyr av listeførte arter atskilt fra viltlevende dyr og dyr av ikke-listeførte arter.
+2. Gjennomføre ytterligere overvåking for å identifisere ytterligere spredning av kategori A-sykdommen til anleggene, herunder enhver økning av sykelighet eller dødelighet eller betydelig produksjonsnedgang; all slik økning eller nedgang skal umiddelbart meldes til vedkommende myndighet.
+3. Når det er relevant, benytte egnede metoder for å bekjempe insekter og gnagere og andre vektorer for sykdom i og rundt anlegget.
+4. Bruke egnede desinfeksjonsmidler ved inn- og utgangene til anlegget.
+5. Iverksette hensiktsmessige biosikkerhetstiltak for alle personer som kommer i kontakt med holdte dyr av listeførte arter som kommer inn i eller forlater anlegget, samt for transportmidler, for å unngå all risiko for spredning av den aktuelle kategori A-sykdommen.
+6. Føre journaler over alle personer som besøker anleggene, holde dem ajourført for å gjøre det lettere å overvåke og bekjempe sykdom, og gjøre dem tilgjengelige for vedkommende myndighet på anmodning.
+7. Sluttbehandle hele skrotter eller deler av døde eller avlivede dyr av listeførte arter i samsvar med artikkel 22 nr. 3.
 
 2\. Som unntak fra nr. 1 bokstav f) kreves det ikke journaler over besøkende i anlegg der det holdes dyr nevnt i artikkel 13 nr. 2, dersom de besøkende ikke har adgang til de områdene der dyrene holdes.
 
@@ -546,7 +792,12 @@ Besøk av offentlige veterinærer i anlegg som ligger i vernesonen
 
 1\. Vedkommende myndighet skal sikre at de offentlige veterinærene foretar minst ett besøk i alle anleggene nevnt i artikkel 25 så snart som mulig og uten unødig opphold etter offisiell bekreftelse av et utbrudd av en kategori A-sykdom.
 
-2\. Ved besøkene nevnt i nr. 1 skal de offentlige veterinærene minst utføre følgende:Dokumentkontroll, herunder analyse av journaler over produksjon, helse og sporbarhet.Verifisering av gjennomføringen av tiltakene som er truffet for å hindre innføring eller spredning av den aktuelle kategori A-sykdommen i samsvar med artikkel 25.Klinisk undersøkelse av holdte dyr av listeførte arter.Om nødvendig prøvetaking av dyr til laboratorieundersøkelse for å bekrefte eller utelukke forekomst av den aktuelle kategori A-sykdommen.
+2\. Ved besøkene nevnt i nr. 1 skal de offentlige veterinærene minst utføre følgende:
+
+1. Dokumentkontroll, herunder analyse av journaler over produksjon, helse og sporbarhet.
+2. Verifisering av gjennomføringen av tiltakene som er truffet for å hindre innføring eller spredning av den aktuelle kategori A-sykdommen i samsvar med artikkel 25.
+3. Klinisk undersøkelse av holdte dyr av listeførte arter.
+4. Om nødvendig prøvetaking av dyr til laboratorieundersøkelse for å bekrefte eller utelukke forekomst av den aktuelle kategori A-sykdommen.
 
 3\. Vedkommende myndighet kan kreve ytterligere veterinærbesøk i anleggene i vernesonen for å følge opp situasjonen.
 
@@ -560,19 +811,42 @@ Forbud som gjelder aktiviteter, herunder forflytninger, med hensyn til dyr, prod
 
 1\. Vedkommende myndighet skal forby aktiviteter, herunder forflytninger, med hensyn til dyr av listeførte arter og produkter av disse og andre materialer innenfor, fra eller til vernesonen i samsvar med tabellen i vedlegg VI.
 
-2\. Vedkommende myndighet kan utvide forbudene fastsatt i nr. 1 tildyr av ikke-listeførte arter og produkter av disse dyrene, ogandre aktiviteter, herunder forflytninger, enn dem som er angitt i vedlegg VI.
+2\. Vedkommende myndighet kan utvide forbudene fastsatt i nr. 1 til
 
-3\. Følgende produkter er unntatt fra forbudene fastsatt i nr. 1 og 2:Produkter av animalsk opprinnelse som anses som sikre varer i samsvar med vedlegg VII, når det gjelder den aktuelle sykdommen.Produkter av animalsk opprinnelse som har gjennomgått relevant behandling i samsvar med vedlegg VII.Produkter eller andre materialer som trolig kan spre sykdommen, og som er framskaffet eller produsert før overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet bakover fra den datoen da det ble meldt om mistanken.Produkter som er produsert i vernesonen, og som kommer fra holdte dyr av listeførte artersom holdes utenfor vernesonen,som holdes og slaktes utenfor vernesonen, ellersom holdes utenfor vernesonen og slaktes i vernesonen.Avledede produkter.
+1. dyr av ikke-listeførte arter og produkter av disse dyrene, og
+2. andre aktiviteter, herunder forflytninger, enn dem som er angitt i vedlegg VI.
 
-4\. Forbudene fastsatt i nr. 1 og 2 skal gjelde for produkter nevnt i nr. 3 dersomproduktene under produksjonsprosessen, lagringen og transporten ikke ble holdt klart atskilt fra produkter som ikke kan sendes ut av restriksjonssonen i samsvar med denne forordningen, ellervedkommende myndighet har epidemiologiske bevis på spredning av sykdommen til, fra eller gjennom disse produktene.
+3\. Følgende produkter er unntatt fra forbudene fastsatt i nr. 1 og 2:
+
+1. Produkter av animalsk opprinnelse som anses som sikre varer i samsvar med vedlegg VII, når det gjelder den aktuelle sykdommen.
+2. Produkter av animalsk opprinnelse som har gjennomgått relevant behandling i samsvar med vedlegg VII.
+3. Produkter eller andre materialer som trolig kan spre sykdommen, og som er framskaffet eller produsert før overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet bakover fra den datoen da det ble meldt om mistanken.
+4. Produkter som er produsert i vernesonen, og som kommer fra holdte dyr av listeførte arter
+
+   1. som holdes utenfor vernesonen,
+   2. som holdes og slaktes utenfor vernesonen, eller
+   3. som holdes utenfor vernesonen og slaktes i vernesonen.
+5. Avledede produkter.
+
+4\. Forbudene fastsatt i nr. 1 og 2 skal gjelde for produkter nevnt i nr. 3 dersom
+
+1. produktene under produksjonsprosessen, lagringen og transporten ikke ble holdt klart atskilt fra produkter som ikke kan sendes ut av restriksjonssonen i samsvar med denne forordningen, eller
+2. vedkommende myndighet har epidemiologiske bevis på spredning av sykdommen til, fra eller gjennom disse produktene.
 
 ###### Artikkel 28
 
 Alminnelige vilkår for å gi unntak fra forbud i vernesonen
 
-1\. Som unntak fra forbudene fastsatt i artikkel 27 kan vedkommende myndighet tillate forflytning av dyr og produkter i de tilfellene som omfattes av artikkel 29–38, og på de særlige vilkårene fastsatt i nevnte artikler og de alminnelige vilkårene fastsatt i nr. 2–7 i denne artikkelen.Vedkommende myndighet skal før den gir tillatelse, vurdere risikoene som er forbundet med denne tillatelsen, og vurderingen skal vise at risikoen for spredning av kategori A-sykdommen er ubetydelig.
+1\. Som unntak fra forbudene fastsatt i artikkel 27 kan vedkommende myndighet tillate forflytning av dyr og produkter i de tilfellene som omfattes av artikkel 29–38, og på de særlige vilkårene fastsatt i nevnte artikler og de alminnelige vilkårene fastsatt i nr. 2–7 i denne artikkelen.
 
-2\. Alle tillatte forflytninger skal foregåutelukkende via utpekte ruter,fortrinnsvis på større motorveier eller jernbaner,uten å komme i nærheten av anlegg der det holdes dyr av listeførte arter, oguten lossing eller opphold fram til lossingen i bestemmelsesanlegget.
+Vedkommende myndighet skal før den gir tillatelse, vurdere risikoene som er forbundet med denne tillatelsen, og vurderingen skal vise at risikoen for spredning av kategori A-sykdommen er ubetydelig.
+
+2\. Alle tillatte forflytninger skal foregå
+
+1. utelukkende via utpekte ruter,
+2. fortrinnsvis på større motorveier eller jernbaner,
+3. uten å komme i nærheten av anlegg der det holdes dyr av listeførte arter, og
+4. uten lossing eller opphold fram til lossingen i bestemmelsesanlegget.
 
 ►**M2**
 
@@ -582,9 +856,16 @@ Alminnelige vilkår for å gi unntak fra forbud i vernesonen
 
 4\. Vedkommende myndighet for opprinnelsesanlegget skal verifisere at bestemmelsesanlegget samtykker i utpekingen og i å motta hver enkelt forsendelse av dyr eller produkter.
 
-5\. Når vedkommende myndighet gir tillatelse til forflytning av dyr fra vernesonen, skal den sikre at slik forflytning ikke utgjør noen risiko for spredning av kategori A-sykdommen på grunnlag aven klinisk undersøkelse av dyr som holdes i anlegget, herunder de dyrene som skal flyttes, som er utført med tilfredsstillende resultat,om nødvendig en laboratorieundersøkelse av dyr som holdes i anlegget, herunder de dyrene som skal flyttes, som er utført med tilfredsstillende resultat, ogresultatene av besøkene nevnt i artikkel 26.
+5\. Når vedkommende myndighet gir tillatelse til forflytning av dyr fra vernesonen, skal den sikre at slik forflytning ikke utgjør noen risiko for spredning av kategori A-sykdommen på grunnlag av
 
-6\. Når vedkommende myndighet gir tillatelse til transport av produkter fra vernesonen, skal den pålegge og føre tilsyn med atproduktene under hele produksjonsprosessen og under lagringen holdes klart atskilt fra produkter som ikke kan sendes ut av restriksjonssonen i samsvar med denne forordningen, ogproduktene ikke blir transportert sammen med produkter som ikke kan sendes ut av restriksjonssonen i samsvar med denne forordningen.
+1. en klinisk undersøkelse av dyr som holdes i anlegget, herunder de dyrene som skal flyttes, som er utført med tilfredsstillende resultat,
+2. om nødvendig en laboratorieundersøkelse av dyr som holdes i anlegget, herunder de dyrene som skal flyttes, som er utført med tilfredsstillende resultat, og
+3. resultatene av besøkene nevnt i artikkel 26.
+
+6\. Når vedkommende myndighet gir tillatelse til transport av produkter fra vernesonen, skal den pålegge og føre tilsyn med at
+
+1. produktene under hele produksjonsprosessen og under lagringen holdes klart atskilt fra produkter som ikke kan sendes ut av restriksjonssonen i samsvar med denne forordningen, og
+2. produktene ikke blir transportert sammen med produkter som ikke kan sendes ut av restriksjonssonen i samsvar med denne forordningen.
 
 7\. Når vedkommende myndighet gir en tillatelse i samsvar med nr. 1, skal den sikre at utfyllende biosikkerhetstiltak iverksettes fra lastetidspunktet, under hele transporten og fram til lossingen i det utpekte bestemmelsesanlegget i samsvar med instruksjonene.
 
@@ -592,53 +873,117 @@ Alminnelige vilkår for å gi unntak fra forbud i vernesonen
 
 Særlige vilkår for tillatelse til forflytning for slakting av holdte dyr av listeførte arter i vernesonen
 
-1\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter fra anlegg som ligger i vernesonen, til et slakteri som liggerså nær opprinnelsesanlegget som mulig innenfor vernesonen,i overvåkingssonen, dersom det ikke er mulig å slakte dyrene i vernesonen, ellerså nær overvåkingssonen som mulig, dersom det ikke er mulig å slakte dyrene i restriksjonssonen.
+1\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter fra anlegg som ligger i vernesonen, til et slakteri som ligger
 
-2\. Vedkommende myndighet skal bare gi tillatelser som fastsatt i nr. 1 på følgende vilkår:Transportmiddelet skal plomberes på lastetidspunktet av vedkommende avsendermyndighet eller under dens tilsyn.Vedkommende myndighet for slakteriet skalinformeres på forhånd av den driftsansvarlige for slakteriet om at man har til hensikt å motta holdte dyr av listeførte arter,bekrefte at det ved kontroll ante mortem og post mortem ikke ble funnet tegn på kategori A-sykdommen,føre tilsyn med at den driftsansvarlige for slakteriet har effektive framgangsmåter for å sikre at holdte dyr av listeførte arter som kommer fra vernesonen, holdes atskilt og slaktes atskilt fra disse dyrene eller på andre tidspunkter, fortrinnsvis ved arbeidsdagens slutt på ankomstdagen,bekrefte overfor vedkommende myndighet for opprinnelsesanlegget at dyrene er blitt slaktet,føre tilsyn med at den driftsansvarlige for slakteriet rengjør og desinfiserer lokalene der dyrene er blitt holdt og slaktet, og at rengjøringen og desinfiseringen er blitt gjennomført før andre holdte dyr av listeførte arter holdes eller slaktes i disse lokalene, ogføre tilsyn med at kjøttet fra slike dyr oppfyller vilkårene i artikkel 33.
+1. så nær opprinnelsesanlegget som mulig innenfor vernesonen,
+2. i overvåkingssonen, dersom det ikke er mulig å slakte dyrene i vernesonen, eller
+3. så nær overvåkingssonen som mulig, dersom det ikke er mulig å slakte dyrene i restriksjonssonen.
 
-3\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter fra anlegg som ligger utenfor vernesonen, til et slakteri som ligger i vernesonen, dersomdyrene holdes atskilt fra andre dyr som kommer fra vernesonen, og slaktes atskilt fra disse dyrene eller på et annet tidspunkt,det ferske kjøttet som er framskaffet, nedskjæres og lagres atskilt fra ferskt kjøtt fra dyr som kommer fra vernesonen, ogrengjøringen og desinfiseringen av transportmidlene nevnt i nr. 24 skjer under offentlig tilsyn etter at dyrene er losset.
+2\. Vedkommende myndighet skal bare gi tillatelser som fastsatt i nr. 1 på følgende vilkår:
 
-4\. Som unntak fra artikkel 9 i forordning (EF) nr. 1069/2009 kan vedkommende myndighet tillate bearbeiding og bruk av animalske biprodukter som kommer fra dyr som er slaktet i samsvar med nr. 1, 2 og 3 som kategori 3-materiale i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), i et anlegg som er godkjent for bearbeiding eller sluttbehandling av animalske biprodukter, og som ligger på dens territorium eller i en annen medlemsstat, dersom det ikke er mulig å bearbeide eller sluttbehandle dem i et godkjent anlegg på territoriet til medlemsstaten der utbruddet forekom.Dersom de animalske biproduktene nevnt i første ledd flyttes til et anlegg som ligger i en annen medlemsstat, skal bestemmelsesmedlemsstaten og de medlemsstatene som de animalske biproduktene passerer gjennom, tillate slik avsendelse, og vedkommende myndighet på bestemmelsesstedet skal tillate bearbeiding og bruk av disse animalske biproduktene som kategori 3-materiale i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
+1. Transportmiddelet skal plomberes på lastetidspunktet av vedkommende avsendermyndighet eller under dens tilsyn.
+2. Vedkommende myndighet for slakteriet skal
+
+   1. informeres på forhånd av den driftsansvarlige for slakteriet om at man har til hensikt å motta holdte dyr av listeførte arter,
+   2. bekrefte at det ved kontroll ante mortem og post mortem ikke ble funnet tegn på kategori A-sykdommen,
+   3. føre tilsyn med at den driftsansvarlige for slakteriet har effektive framgangsmåter for å sikre at holdte dyr av listeførte arter som kommer fra vernesonen, holdes atskilt og slaktes atskilt fra disse dyrene eller på andre tidspunkter, fortrinnsvis ved arbeidsdagens slutt på ankomstdagen,
+   4. bekrefte overfor vedkommende myndighet for opprinnelsesanlegget at dyrene er blitt slaktet,
+   5. føre tilsyn med at den driftsansvarlige for slakteriet rengjør og desinfiserer lokalene der dyrene er blitt holdt og slaktet, og at rengjøringen og desinfiseringen er blitt gjennomført før andre holdte dyr av listeførte arter holdes eller slaktes i disse lokalene, og
+   6. føre tilsyn med at kjøttet fra slike dyr oppfyller vilkårene i artikkel 33.
+
+3\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter fra anlegg som ligger utenfor vernesonen, til et slakteri som ligger i vernesonen, dersom
+
+1. dyrene holdes atskilt fra andre dyr som kommer fra vernesonen, og slaktes atskilt fra disse dyrene eller på et annet tidspunkt,
+2. det ferske kjøttet som er framskaffet, nedskjæres og lagres atskilt fra ferskt kjøtt fra dyr som kommer fra vernesonen, og
+3. rengjøringen og desinfiseringen av transportmidlene nevnt i nr. 24 skjer under offentlig tilsyn etter at dyrene er losset.
+
+4\. Som unntak fra artikkel 9 i forordning (EF) nr. 1069/2009 kan vedkommende myndighet tillate bearbeiding og bruk av animalske biprodukter som kommer fra dyr som er slaktet i samsvar med nr. 1, 2 og 3 som kategori 3-materiale i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), i et anlegg som er godkjent for bearbeiding eller sluttbehandling av animalske biprodukter, og som ligger på dens territorium eller i en annen medlemsstat, dersom det ikke er mulig å bearbeide eller sluttbehandle dem i et godkjent anlegg på territoriet til medlemsstaten der utbruddet forekom.
+
+Dersom de animalske biproduktene nevnt i første ledd flyttes til et anlegg som ligger i en annen medlemsstat, skal bestemmelsesmedlemsstaten og de medlemsstatene som de animalske biproduktene passerer gjennom, tillate slik avsendelse, og vedkommende myndighet på bestemmelsesstedet skal tillate bearbeiding og bruk av disse animalske biproduktene som kategori 3-materiale i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 ###### Artikkel 30
 
 Særlige vilkår for tillatelse til visse forflytninger av fjørfe fra anlegg som ligger i vernesonen
 
-1\. Vedkommende myndighet kan tillate forflytning av daggamle kyllinger fra et anlegg som ligger i vernesonen, til et anlegg som ligger i den samme medlemsstaten, men om mulig utenfor restriksjonssonen, forutsatt atnår det gjelder daggamle kyllinger utklekket fra egg som kommer fra restriksjonssonen,transportmiddelet plomberes på lastetidspunktet av vedkommende myndighet eller under dennes tilsyn,bestemmelsesanlegget settes under offentlig overvåking av de offentlige veterinærene etter dyrenes ankomst, ogfjørfeet, dersom det flyttes ut av restriksjonssonen, blir i bestemmelsesanlegget i minst 21 dager,når det gjelder daggamle kyllinger som er utklekket fra egg med opprinnelse utenfor restriksjonssonen, at avsenderrugeriet kan sikre at det ikke har vært noen kontakt mellom disse eggene og andre rugeegg eller daggamle kyllinger som kommer fra restriksjonssonen.
+1\. Vedkommende myndighet kan tillate forflytning av daggamle kyllinger fra et anlegg som ligger i vernesonen, til et anlegg som ligger i den samme medlemsstaten, men om mulig utenfor restriksjonssonen, forutsatt at
+
+1. når det gjelder daggamle kyllinger utklekket fra egg som kommer fra restriksjonssonen,
+
+   1. transportmiddelet plomberes på lastetidspunktet av vedkommende myndighet eller under dennes tilsyn,
+   2. bestemmelsesanlegget settes under offentlig overvåking av de offentlige veterinærene etter dyrenes ankomst, og
+   3. fjørfeet, dersom det flyttes ut av restriksjonssonen, blir i bestemmelsesanlegget i minst 21 dager,
+2. når det gjelder daggamle kyllinger som er utklekket fra egg med opprinnelse utenfor restriksjonssonen, at avsenderrugeriet kan sikre at det ikke har vært noen kontakt mellom disse eggene og andre rugeegg eller daggamle kyllinger som kommer fra restriksjonssonen.
 
 2\. Vedkommende myndighet kan tillate forflytning av verpeklare unghøner fra anlegg som ligger i vernesonen, til anlegg som ligger i den samme medlemsstaten, og om mulig innenfor restriksjonssonen, forutsatt at
-►**M2**det ikke finnes noen andre holdt dyr av listeførte arter i bestemmelsesanlegget eller den epidemiologiske enheten,
-◄**M2**transportmiddelet plomberes på lastetidspunktet av vedkommende myndighet eller under dennes tilsyn,bestemmelsesanlegget settes under offentlig overvåking av de offentlige veterinærene etter dyrenes ankomst, ogdyrene, dersom de flyttes ut av restriksjonssonen, blir i bestemmelsesanlegget i minst 21 dager.
+►**M2**
+
+1. det ikke finnes noen andre holdt dyr av listeførte arter i bestemmelsesanlegget eller den epidemiologiske enheten,
+   ◄**M2**
+2. transportmiddelet plomberes på lastetidspunktet av vedkommende myndighet eller under dennes tilsyn,
+3. bestemmelsesanlegget settes under offentlig overvåking av de offentlige veterinærene etter dyrenes ankomst, og
+4. dyrene, dersom de flyttes ut av restriksjonssonen, blir i bestemmelsesanlegget i minst 21 dager.
 
 ###### Artikkel 31
 
 Særlige vilkår for tillatelse til visse forflytninger av rugeegg i vernesonen
 
-1\. Vedkommende myndighet kan tillate forflytning av rugeegg entenfra et anlegg som ligger i vernesonen, til et rugeri som ligger i den samme medlemsstaten, ellerfra et anlegg som ligger i den samme medlemsstaten, til et rugeri som ligger i vernesonen.
+1\. Vedkommende myndighet kan tillate forflytning av rugeegg enten
 
-2\. Tillatelsen fastsatt i nr. 1 bokstav a) skal omfattes av følgende vilkår:Foreldreflokkene som rugeeggene kommer fra, har gjennomgått en klinisk undersøkelse, og det er tatt prøver av dem til laboratorieundersøkelser med tilfredsstillende resultater.Rugeeggene og deres emballasje desinfiseres før avsendelse, og rugeeggene skal kunne spores.Rugeeggene skal transporteres i transportmidler som er plombert av vedkommende myndighet.
+1. fra et anlegg som ligger i vernesonen, til et rugeri som ligger i den samme medlemsstaten, eller
+2. fra et anlegg som ligger i den samme medlemsstaten, til et rugeri som ligger i vernesonen.
 
-3\. Vedkommende myndighet kan tillate forflytning av rugeegg fra et anlegg som ligger i vernesonen, til et anlegg for klekking innomhus som ligger i den samme medlemsstaten, dersomforeldreflokkene som rugeeggene kommer fra, har gjennomgått en klinisk undersøkelse, og det er tatt prøver av dem til laboratorieundersøkelser med tilfredsstillende resultater,bestemmelsesanlegget settes under offentlig overvåking fram til 21 dager etter klekking av eggene,fjørfeet skal bli i bestemmelsesanlegget i det tidsrommet som er nevnt i bokstav b), ogkravene nevnt i nr. 2 bokstav b) og c) er oppfylt.
+2\. Tillatelsen fastsatt i nr. 1 bokstav a) skal omfattes av følgende vilkår:
+
+1. Foreldreflokkene som rugeeggene kommer fra, har gjennomgått en klinisk undersøkelse, og det er tatt prøver av dem til laboratorieundersøkelser med tilfredsstillende resultater.
+2. Rugeeggene og deres emballasje desinfiseres før avsendelse, og rugeeggene skal kunne spores.
+3. Rugeeggene skal transporteres i transportmidler som er plombert av vedkommende myndighet.
+
+3\. Vedkommende myndighet kan tillate forflytning av rugeegg fra et anlegg som ligger i vernesonen, til et anlegg for klekking innomhus som ligger i den samme medlemsstaten, dersom
+
+1. foreldreflokkene som rugeeggene kommer fra, har gjennomgått en klinisk undersøkelse, og det er tatt prøver av dem til laboratorieundersøkelser med tilfredsstillende resultater,
+2. bestemmelsesanlegget settes under offentlig overvåking fram til 21 dager etter klekking av eggene,
+3. fjørfeet skal bli i bestemmelsesanlegget i det tidsrommet som er nevnt i bokstav b), og
+4. kravene nevnt i nr. 2 bokstav b) og c) er oppfylt.
 
 ###### Artikkel 32
 
 Særlige vilkår for tillatelse til forflytning av sæd fra godkjente anlegg for avlsmateriale som ligger i vernesonen
 
-Vedkommende myndighet kan tillate forflytning av sæd tatt ut fra dyr av listeførte arter som holdes i godkjente anlegg for avlsmateriale, unntatt rugerier, som ligger i vernesonen, etter den anslåtte datoen for når det rammede anlegget tidligst kan ha blitt infisert, på følgende vilkår:Alle tiltakene for bekjempelse av kategori A-sykdommen er opphevet i vernesonen i samsvar med artikkel 39.Alle holdte dyr av listeførte arter på sædstasjonen har gjennomgått en klinisk undersøkelse, og det er tatt prøver av dem til laboratorieundersøkelser for å utelukke forekomst av kategori A-sykdommen på sædstasjonen.Donordyret har med tilfredsstillende resultat gjennomgått en laboratorieundersøkelse av en prøve som er tatt tidligst sju dager etter overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet fra den datoen da sæden ble tatt ut.
+Vedkommende myndighet kan tillate forflytning av sæd tatt ut fra dyr av listeførte arter som holdes i godkjente anlegg for avlsmateriale, unntatt rugerier, som ligger i vernesonen, etter den anslåtte datoen for når det rammede anlegget tidligst kan ha blitt infisert, på følgende vilkår:
+
+1. Alle tiltakene for bekjempelse av kategori A-sykdommen er opphevet i vernesonen i samsvar med artikkel 39.
+2. Alle holdte dyr av listeførte arter på sædstasjonen har gjennomgått en klinisk undersøkelse, og det er tatt prøver av dem til laboratorieundersøkelser for å utelukke forekomst av kategori A-sykdommen på sædstasjonen.
+3. Donordyret har med tilfredsstillende resultat gjennomgått en laboratorieundersøkelse av en prøve som er tatt tidligst sju dager etter overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet fra den datoen da sæden ble tatt ut.
 
 ###### Artikkel 33
 
 Særlige vilkår for tillatelse til forflytning av ferskt kjøtt og rå melk fra holdte dyr av listeførte arter fra anlegg som ligger i vernesonen
 
-1\. Vedkommende myndighet kan tillate forflytning av ferskt kjøtt og rå melk fra dyr av listeførte arter som holdes i anlegg som ligger i vernesonen, dersomdet/den flyttes til et foredlingsanlegg for å gjennomgå én av de relevante risikoreduserende behandlingene angitt i vedlegg VII, ellernår det gjelder ferskt kjøtt fra fjørfe,det er merket i samsvar med nr. 1 i vedlegg IX fra det tidspunktet det ble framskaffet på slakteriet, ogdet ikke er beregnet på en annen medlemsstat.
+1\. Vedkommende myndighet kan tillate forflytning av ferskt kjøtt og rå melk fra dyr av listeførte arter som holdes i anlegg som ligger i vernesonen, dersom
 
-2\. Vedkommende myndighet skal sikre at forflytning til et foredlingsanlegg som nevnt i nr. 1 bokstav a), oppfyller følgende vilkår:Ferskt kjøtt skal merkes i samsvar med nr. 2 i vedlegg IX på slakteriet etter kontroll post mortem, og skal ha et slikt merke til det blir behandlet.Forflytningen av ferskt kjøtt og rå melk fra opprinnelsesanlegget til foredlingsanlegget skal skje i plomberte containere.Foredlingsanlegget skal ligge i samme restriksjonssone eller så nær restriksjonssonen som mulig, og skal drives under tilsyn av offentlige veterinærer.
+1. det/den flyttes til et foredlingsanlegg for å gjennomgå én av de relevante risikoreduserende behandlingene angitt i vedlegg VII, eller
+2. når det gjelder ferskt kjøtt fra fjørfe,
+
+   1. det er merket i samsvar med nr. 1 i vedlegg IX fra det tidspunktet det ble framskaffet på slakteriet, og
+   2. det ikke er beregnet på en annen medlemsstat.
+
+2\. Vedkommende myndighet skal sikre at forflytning til et foredlingsanlegg som nevnt i nr. 1 bokstav a), oppfyller følgende vilkår:
+
+1. Ferskt kjøtt skal merkes i samsvar med nr. 2 i vedlegg IX på slakteriet etter kontroll post mortem, og skal ha et slikt merke til det blir behandlet.
+2. Forflytningen av ferskt kjøtt og rå melk fra opprinnelsesanlegget til foredlingsanlegget skal skje i plomberte containere.
+3. Foredlingsanlegget skal ligge i samme restriksjonssone eller så nær restriksjonssonen som mulig, og skal drives under tilsyn av offentlige veterinærer.
 
 ###### Artikkel 34
 
 Særlige vilkår for tillatelse til forflytning av egg beregnet på konsum fra anlegg som ligger i vernesonen
 
-Vedkommende myndighet kan tillate forflytning av egg beregnet på konsum fra anlegg som ligger i vernesonen, til følgende bestemmelsessteder i den samme medlemsstaten:Et pakkeri, forutsatt at de pakkes iengangsemballasje elleremballasje som kan rengjøres og desinfiseres på en slik måte at den aktuelle kategori A-sykdomsagensen destrueres.Et anlegg som framstiller eggprodukter i samsvar med avsnitt X kapittel II i vedlegg III til forordning (EF) nr. 853/2004, for håndtering og behandling i samsvar med kapittel XI i vedlegg II til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)15.
+Vedkommende myndighet kan tillate forflytning av egg beregnet på konsum fra anlegg som ligger i vernesonen, til følgende bestemmelsessteder i den samme medlemsstaten:
+
+1. Et pakkeri, forutsatt at de pakkes i
+
+   1. engangsemballasje eller
+   2. emballasje som kan rengjøres og desinfiseres på en slik måte at den aktuelle kategori A-sykdomsagensen destrueres.
+2. Et anlegg som framstiller eggprodukter i samsvar med avsnitt X kapittel II i vedlegg III til forordning (EF) nr. 853/2004, for håndtering og behandling i samsvar med kapittel XI i vedlegg II til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)15.
 
 15 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).
 
@@ -652,13 +997,24 @@ Vedkommende myndighet kan bare tillate forflytning av husdyrgjødsel, herunder n
 
 Særlige vilkår for tillatelse til forflytning av fôrmidler av vegetabilsk opprinnelse og strå fra vernesonen
 
-Vedkommende myndighet kan tillate forflytning av fôrmidler av vegetabilsk opprinnelse og strå som er produsert i vernesonen, forutsatt atde ble produsert på steder der det ikke holdes dyr av listeførte arter,de ble produsert i fôrforedlingsanlegg der det ikke holdes dyr av listeførte arter, og de vegetabilske råvarene kommer frasteder nevnt i bokstav a), ellersteder utenfor vernesonen,de er beregnet på bruk i vernesonen, ellerde har gjennomgått minst én av de risikoreduserende behandlingene i samsvar med vedlegg VIII.
+Vedkommende myndighet kan tillate forflytning av fôrmidler av vegetabilsk opprinnelse og strå som er produsert i vernesonen, forutsatt at
+
+1. de ble produsert på steder der det ikke holdes dyr av listeførte arter,
+2. de ble produsert i fôrforedlingsanlegg der det ikke holdes dyr av listeførte arter, og de vegetabilske råvarene kommer fra
+
+   1. steder nevnt i bokstav a), eller
+   2. steder utenfor vernesonen,
+3. de er beregnet på bruk i vernesonen, eller
+4. de har gjennomgått minst én av de risikoreduserende behandlingene i samsvar med vedlegg VIII.
 
 ###### Artikkel 37
 
 Særlige vilkår for tillatelse til forflytning av holdte dyr av listeførte arter og produkter til et anlegg som er godkjent for animalske biprodukter
 
-1\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter fra anlegg som ligger i vernesonen, til et anlegg som er godkjent for bearbeiding eller sluttbehandling av animalske biprodukter, derde holdte dyrene umiddelbart avlives, ogde animalske biproduktene som er en følge av dette, sluttbehandles i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
+1\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter fra anlegg som ligger i vernesonen, til et anlegg som er godkjent for bearbeiding eller sluttbehandling av animalske biprodukter, der
+
+1. de holdte dyrene umiddelbart avlives, og
+2. de animalske biproduktene som er en følge av dette, sluttbehandles i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 2\. Vedkommende myndighet kan tillate forflytning av produkter fra anlegg og steder i vernesonen til et anlegg som er godkjent for bearbeiding eller sluttbehandling av animalske biprodukter, der produktene sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
@@ -676,11 +1032,17 @@ Varighet av tiltak for sykdomsbekjempelse i vernesonen
 
 ►**M2**
 
-1\. Vedkommende myndighet kan oppheve tiltakene fastsatt i avsnitt 1 og 2 i dette kapittelet bare dersomden minste varigheten som er fastsatt i vedlegg X er utløpt etter at foreløpig rengjøring og desinfisering og, der det er relevant, bekjempelse av insekter og gnagere, utført i det rammede anlegget i samsvar med artikkel 15, er gjennomført, ogi alle anlegg der det holdes dyr av listeførte arter i vernesonen, har dyrene av listeførte arter, med tilfredsstillende resultater, gjennomgått kliniske undersøkelser og om nødvendig laboratorieundersøkelser i samsvar med artikkel 26.
+1\. Vedkommende myndighet kan oppheve tiltakene fastsatt i avsnitt 1 og 2 i dette kapittelet bare dersom
+
+1. den minste varigheten som er fastsatt i vedlegg X er utløpt etter at foreløpig rengjøring og desinfisering og, der det er relevant, bekjempelse av insekter og gnagere, utført i det rammede anlegget i samsvar med artikkel 15, er gjennomført, og
+2. i alle anlegg der det holdes dyr av listeførte arter i vernesonen, har dyrene av listeførte arter, med tilfredsstillende resultater, gjennomgått kliniske undersøkelser og om nødvendig laboratorieundersøkelser i samsvar med artikkel 26.
 
 ◄**M2**
 
-2\. Dersom den aktuelle kategori A-sykdommen overføres av en listeført vektor som nevnt i forordning [(EU) 2018/1882](eu/32018r1882), kan vedkommende myndighetfastslå varigheten av tiltakene i vernesonen for hvert enkelt tilfelle, idet det tas hensyn til alle faktorer som påvirker risikoen for at sykdommen sprer seg, ogbeslutte at det skal innføres kontrolldyr.
+2\. Dersom den aktuelle kategori A-sykdommen overføres av en listeført vektor som nevnt i forordning [(EU) 2018/1882](eu/32018r1882), kan vedkommende myndighet
+
+1. fastslå varigheten av tiltakene i vernesonen for hvert enkelt tilfelle, idet det tas hensyn til alle faktorer som påvirker risikoen for at sykdommen sprer seg, og
+2. beslutte at det skal innføres kontrolldyr.
 
 3\. Etter at tiltakene nevnt i nr. 1 er opphevet, skal tiltakene fastsatt i avsnitt 3 i dette kapittelet iverksettes i vernesonen i minst den ytterligere perioden som er angitt i vedlegg X.
 
@@ -710,9 +1072,15 @@ Vedkommende myndighet skal gi forbud, fritak og unntak for aktiviteter, herunder
 
 Alminnelige vilkår for å gi unntak fra forbud fastsatt i artikkel 42
 
-1\. Som unntak fra artikkel 42 kan vedkommende myndighet tillate forflytning av dyr og produkter bare i de tilfellene som omfattes av artikkel 44–52, på de særlige vilkårene fastsatt i nevnte artikler og de alminnelige vilkårene fastsatt i nr. 2–7 i denne artikkelen.Vedkommende myndighet skal før den gir tillatelse, vurdere risikoene forbundet med denne tillatelsen. Vurderingen skal vise at risikoen for spredning av kategori A-sykdommen er ubetydelig.
+1\. Som unntak fra artikkel 42 kan vedkommende myndighet tillate forflytning av dyr og produkter bare i de tilfellene som omfattes av artikkel 44–52, på de særlige vilkårene fastsatt i nevnte artikler og de alminnelige vilkårene fastsatt i nr. 2–7 i denne artikkelen.
 
-2\. Alle tillatte forflytninger skal foregåfortrinnsvis på større motorveier eller jernbaner,uten å komme i nærheten av anlegg der det holdes dyr av listeførte arter, oguten lossing eller opphold fram til lossingen i bestemmelsesanlegget.
+Vedkommende myndighet skal før den gir tillatelse, vurdere risikoene forbundet med denne tillatelsen. Vurderingen skal vise at risikoen for spredning av kategori A-sykdommen er ubetydelig.
+
+2\. Alle tillatte forflytninger skal foregå
+
+1. fortrinnsvis på større motorveier eller jernbaner,
+2. uten å komme i nærheten av anlegg der det holdes dyr av listeførte arter, og
+3. uten lossing eller opphold fram til lossingen i bestemmelsesanlegget.
 
 ►**M2**
 
@@ -722,9 +1090,16 @@ Alminnelige vilkår for å gi unntak fra forbud fastsatt i artikkel 42
 
 4\. Vedkommende myndighet for opprinnelsesanlegget skal verifisere at bestemmelsesanlegget samtykker i utpekingen og i å motta hver enkelt forsendelse av dyr eller produkter.
 
-5\. Når vedkommende myndighet gir tillatelse til forflytning av dyr fra overvåkingssonen, skal den sikre at slik forflytning ikke utgjør noen risiko for spredning av kategori A-sykdommen på grunnlag aven klinisk undersøkelse av dyr som holdes i anlegget, herunder de dyrene som skal flyttes, som er utført med tilfredsstillende resultat,om nødvendig en laboratorieundersøkelse av dyr som holdes i anlegget, herunder de dyrene som skal flyttes, som er utført med tilfredsstillende resultat, ogresultatene av besøkene nevnt i artikkel 41, dersom de er tilgjengelige.
+5\. Når vedkommende myndighet gir tillatelse til forflytning av dyr fra overvåkingssonen, skal den sikre at slik forflytning ikke utgjør noen risiko for spredning av kategori A-sykdommen på grunnlag av
 
-6\. Når vedkommende myndighet gir tillatelse til transport av produkter fra overvåkingssonen, skal den sikre atproduktene under hele produksjonsprosessen og under lagringen holdes klart atskilt fra produkter som ikke kan sendes ut av restriksjonssonen i samsvar med denne forordningen,produktene ikke blir transportert sammen med produkter som ikke kan sendes ut av restriksjonssonen i samsvar med denne forordningen.
+1. en klinisk undersøkelse av dyr som holdes i anlegget, herunder de dyrene som skal flyttes, som er utført med tilfredsstillende resultat,
+2. om nødvendig en laboratorieundersøkelse av dyr som holdes i anlegget, herunder de dyrene som skal flyttes, som er utført med tilfredsstillende resultat, og
+3. resultatene av besøkene nevnt i artikkel 41, dersom de er tilgjengelige.
+
+6\. Når vedkommende myndighet gir tillatelse til transport av produkter fra overvåkingssonen, skal den sikre at
+
+1. produktene under hele produksjonsprosessen og under lagringen holdes klart atskilt fra produkter som ikke kan sendes ut av restriksjonssonen i samsvar med denne forordningen,
+2. produktene ikke blir transportert sammen med produkter som ikke kan sendes ut av restriksjonssonen i samsvar med denne forordningen.
 
 7\. Når vedkommende myndighet gir unntak som fastsatt i nr. 1, skal den sikre at utfyllende biosikkerhetstiltak iverksettes fra lastetidspunktet, under hele transporten og fram til lossingen i det utpekte bestemmelsesanlegget i samsvar med instruksjonene.
 
@@ -732,19 +1107,27 @@ Alminnelige vilkår for å gi unntak fra forbud fastsatt i artikkel 42
 
 Særlige vilkår for tillatelse til forflytning for slakting av holdte dyr av listeførte arter innenfor, fra og til overvåkingssonen
 
-1\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter som kommer fra overvåkingssonen, til et slakteri som liggerså nær opprinnelsesanlegget som mulig innenfor restriksjonssonen, ellerutenfor restriksjonssonen, så nær overvåkingssonen som mulig, dersom det ikke er mulig å slakte dyrene i restriksjonssonen, og etter at det er foretatt en risikovurdering.
+1\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter som kommer fra overvåkingssonen, til et slakteri som ligger
+
+1. så nær opprinnelsesanlegget som mulig innenfor restriksjonssonen, eller
+2. utenfor restriksjonssonen, så nær overvåkingssonen som mulig, dersom det ikke er mulig å slakte dyrene i restriksjonssonen, og etter at det er foretatt en risikovurdering.
 
 2\. Kjøttet som kommer fra dyr nevnt i nr. 1, skal omfattes av tiltakene fastsatt i artikkel 49.
 
 3\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter med opprinnelse utenfor overvåkingssonen til et slakteri som ligger i overvåkingssonen.
 
-4\. Vedkommende myndighet kan tillate bearbeiding og bruk av animalske biprodukter som kommer fra dyr som er slaktet i samsvar med nr. 1, 2 og 3 som kategori 3-materiale i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), i et anlegg som er godkjent for bearbeiding eller sluttbehandling av animalske biprodukter, og som ligger på dens territorium eller i en annen medlemsstat, dersom det ikke er mulig å bearbeide eller sluttbehandle dem i et godkjent anlegg på territoriet til medlemsstaten der utbruddet forekom.Dersom de animalske biproduktene nevnt i første ledd flyttes til et anlegg som ligger i en annen medlemsstat, skal bestemmelsesmedlemsstaten og de medlemsstatene som de animalske biproduktene passerer gjennom, tillate slik avsendelse, og vedkommende myndighet på bestemmelsesstedet skal tillate bearbeiding og bruk av disse animalske biproduktene som kategori 3-materiale i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
+4\. Vedkommende myndighet kan tillate bearbeiding og bruk av animalske biprodukter som kommer fra dyr som er slaktet i samsvar med nr. 1, 2 og 3 som kategori 3-materiale i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), i et anlegg som er godkjent for bearbeiding eller sluttbehandling av animalske biprodukter, og som ligger på dens territorium eller i en annen medlemsstat, dersom det ikke er mulig å bearbeide eller sluttbehandle dem i et godkjent anlegg på territoriet til medlemsstaten der utbruddet forekom.
+
+Dersom de animalske biproduktene nevnt i første ledd flyttes til et anlegg som ligger i en annen medlemsstat, skal bestemmelsesmedlemsstaten og de medlemsstatene som de animalske biproduktene passerer gjennom, tillate slik avsendelse, og vedkommende myndighet på bestemmelsesstedet skal tillate bearbeiding og bruk av disse animalske biproduktene som kategori 3-materiale i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 ###### Artikkel 45
 
 Særlige vilkår for tillatelse til visse forflytninger av holdte hov- og klovdyr av listeførte arter fra anlegg som ligger i overvåkingssonen
 
-1\. Vedkommende myndighet kan tillate forflytning av holdte hov- og klovdyr av listeførte arter til beitemarker som ligger i overvåkingssonen, forutsatt atdet har gått 15 dager siden den foreløpige rengjøringen og desinfiseringen nevnt i artikkel 15 ble gjennomført og godkjent, ogdyrene ikke kommer i kontakt med dyr av listeførte arter fra andre anlegg.
+1\. Vedkommende myndighet kan tillate forflytning av holdte hov- og klovdyr av listeførte arter til beitemarker som ligger i overvåkingssonen, forutsatt at
+
+1. det har gått 15 dager siden den foreløpige rengjøringen og desinfiseringen nevnt i artikkel 15 ble gjennomført og godkjent, og
+2. dyrene ikke kommer i kontakt med dyr av listeførte arter fra andre anlegg.
 
 2\. Vedkommende myndighet kan etter å ha foretatt en risikovurdering, tillate forflytning av holdte dyr av listeførte hov- og klovdyrarter til et anlegg som tilhører samme forsyningskjede og ligger i eller utenfor overvåkingssonen, for å fullføre produksjonssyklusen før slakting. Hvis bestemmelsesanlegget ligger utenfor overvåkingssonen, skal vedkommende myndighet iverksette tiltakene fastsatt i artikkel 40, 41 og 42 i dette anlegget så lenge tiltakene for sykdomsbekjempelse i opprinnelsesovervåkingssonen opprettholdes som fastsatt i artikkel 55.
 
@@ -753,20 +1136,34 @@ Særlige vilkår for tillatelse til visse forflytninger av holdte hov- og klovdy
 Særlige vilkår for tillatelse til visse forflytninger av fjørfe fra anlegg som ligger i overvåkingssonen
 
 1\. Vedkommende myndighet kan tillate forflytning av daggamle kyllinger som kommer fra overvåkingssonen,
-►**M2**til anlegg i samme medlemsstat dersom de ble utklekket fra egg som kommer fra anlegg i restriksjonssonen, dersom
-◄**M2**bestemmelsesanlegget settes under offentlig overvåking etter dyrenes ankomst, ogdyrene, dersom de flyttes ut av restriksjonssonen, blir i bestemmelsesanlegget i minst 21 dager,
-►**M2**transportmiddelet plomberes på lastetidspunktet av vedkommende myndighet eller under dennes tilsyn,
-◄**M2**til anlegg i samme medlemsstat dersom de ble utklekket fra egg med opprinnelse utenfor restriksjonssonen, dersom avsenderrugeriet kan sikre at det ikke har vært noen kontakt mellom disse eggene og andre rugeegg eller daggamle kyllinger som kommer fra dyr som holdes i restriksjonssonen.
+►**M2**
+
+1. til anlegg i samme medlemsstat dersom de ble utklekket fra egg som kommer fra anlegg i restriksjonssonen, dersom
+   ◄**M2**
+
+   1. bestemmelsesanlegget settes under offentlig overvåking etter dyrenes ankomst, og
+   2. dyrene, dersom de flyttes ut av restriksjonssonen, blir i bestemmelsesanlegget i minst 21 dager,
+      ►**M2**
+   3. transportmiddelet plomberes på lastetidspunktet av vedkommende myndighet eller under dennes tilsyn,
+      ◄**M2**
+2. til anlegg i samme medlemsstat dersom de ble utklekket fra egg med opprinnelse utenfor restriksjonssonen, dersom avsenderrugeriet kan sikre at det ikke har vært noen kontakt mellom disse eggene og andre rugeegg eller daggamle kyllinger som kommer fra dyr som holdes i restriksjonssonen.
 
 2\. Vedkommende myndighet kan tillate forflytning av verpeklare unghøner fra anlegg i overvåkingssonen til anlegg i den samme medlemsstaten, dersom
-►**M2**det ikke finnes noen andre holdt dyr av listeførte arter i bestemmelsesanlegget eller den epidemiologiske enheten,
-◄**M2**bestemmelsesanlegget settes under offentlig overvåking etter de verpeklare unghønenes ankomst, ogfjørfeet blir i bestemmelsesanlegget i minst 21 dager.
+►**M2**
+
+1. det ikke finnes noen andre holdt dyr av listeførte arter i bestemmelsesanlegget eller den epidemiologiske enheten,
+   ◄**M2**
+2. bestemmelsesanlegget settes under offentlig overvåking etter de verpeklare unghønenes ankomst, og
+3. fjørfeet blir i bestemmelsesanlegget i minst 21 dager.
 
 ###### Artikkel 47
 
 Særlige vilkår for tillatelse til visse forflytninger av rugeegg til og fra anlegg som ligger i overvåkingssonen
 
-1\. Vedkommende myndighet kan tillate forflytning av rugeegg fra et anlegg som ligger i den samme medlemsstaten, tilet rugeri som ligger i overvåkingssonen, elleret anlegg for klekking innomhus som ligger i overvåkingssonen.
+1\. Vedkommende myndighet kan tillate forflytning av rugeegg fra et anlegg som ligger i den samme medlemsstaten, til
+
+1. et rugeri som ligger i overvåkingssonen, eller
+2. et anlegg for klekking innomhus som ligger i overvåkingssonen.
 
 2\. Vedkommende myndighet kan tillate forflytning av rugeegg fra et anlegg som ligger i overvåkingssonen, til et rugeri i den samme medlemsstaten eller til et anlegg for klekking innomhus som ligger i den samme medlemsstaten, bare dersom rugeeggene og deres emballasje desinfiseres før avsendelse, og det kan sikres at eggene kan spores.
 
@@ -774,42 +1171,74 @@ Særlige vilkår for tillatelse til visse forflytninger av rugeegg til og fra an
 
 Særlige vilkår for tillatelse til forflytning av sæd fra godkjente anlegg for avlsmateriale som ligger i overvåkingssonen
 
-Vedkommende myndighet kan tillate forflytning av sæd tatt ut fra dyr av listeførte arter som holdes i godkjente anlegg for avlsmateriale, unntatt rugerier, som ligger i overvåkingssonen, etter den anslåtte datoen for når det rammede anlegget tidligst kan ha blitt infisert, forutsatt atalle tiltakene for bekjempelse av den aktuelle kategori A-sykdommen er opphevet i overvåkingssonen i samsvar med artikkel 55,alle holdte dyr av listeførte arter på sædstasjonen har gjennomgått en klinisk undersøkelse, og det er tatt prøver av dem til laboratorieundersøkelser for å utelukke forekomst av kategori A-sykdommen på sædstasjonen,donordyret har med tilfredsstillende resultat gjennomgått en laboratorieundersøkelse av en prøve som er tatt tidligst sju dager etter overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet fra den datoen da sæden ble tatt ut.
+Vedkommende myndighet kan tillate forflytning av sæd tatt ut fra dyr av listeførte arter som holdes i godkjente anlegg for avlsmateriale, unntatt rugerier, som ligger i overvåkingssonen, etter den anslåtte datoen for når det rammede anlegget tidligst kan ha blitt infisert, forutsatt at
+
+1. alle tiltakene for bekjempelse av den aktuelle kategori A-sykdommen er opphevet i overvåkingssonen i samsvar med artikkel 55,
+2. alle holdte dyr av listeførte arter på sædstasjonen har gjennomgått en klinisk undersøkelse, og det er tatt prøver av dem til laboratorieundersøkelser for å utelukke forekomst av kategori A-sykdommen på sædstasjonen,
+3. donordyret har med tilfredsstillende resultat gjennomgått en laboratorieundersøkelse av en prøve som er tatt tidligst sju dager etter overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet fra den datoen da sæden ble tatt ut.
 
 ###### Artikkel 49
 
 Særlige vilkår for tillatelse til forflytning av ferskt kjøtt og rå melk fra holdte dyr av listeførte arter fra anlegg som ligger i overvåkingssonen
 
-1\. Vedkommende myndighet kan tillate forflytning av ferskt kjøtt og rå melk fra dyr av listeførte arter som holdes i anlegg som ligger i overvåkingssonen, dersomdet ferske kjøttet eller den rå melken flyttes til et foredlingsanlegg for å gjennomgå én av de risikoreduserende behandlingene angitt i vedlegg VII, ellerdet ferske kjøttet kommer fra fjørfe.
+1\. Vedkommende myndighet kan tillate forflytning av ferskt kjøtt og rå melk fra dyr av listeførte arter som holdes i anlegg som ligger i overvåkingssonen, dersom
 
-2\. Vedkommende myndighet skal sikre at ferskt kjøtt og rå melk som flyttes i samsvar med nr. 1 bokstav a), oppfyller følgende vilkår:Ferskt kjøtt merkes i samsvar med vedlegg IX når det blir framskaffet på slakteriet, og skal ha dette merket til det blir behandlet.Behandlingen skal utføres i et anlegg som ligger i samme restriksjonssone eller så nær restriksjonssonen som mulig, og som drives under tilsyn av offentlige veterinærer.
+1. det ferske kjøttet eller den rå melken flyttes til et foredlingsanlegg for å gjennomgå én av de risikoreduserende behandlingene angitt i vedlegg VII, eller
+2. det ferske kjøttet kommer fra fjørfe.
+
+2\. Vedkommende myndighet skal sikre at ferskt kjøtt og rå melk som flyttes i samsvar med nr. 1 bokstav a), oppfyller følgende vilkår:
+
+1. Ferskt kjøtt merkes i samsvar med vedlegg IX når det blir framskaffet på slakteriet, og skal ha dette merket til det blir behandlet.
+2. Behandlingen skal utføres i et anlegg som ligger i samme restriksjonssone eller så nær restriksjonssonen som mulig, og som drives under tilsyn av offentlige veterinærer.
 
 ###### Artikkel 50
 
 Særlige vilkår for tillatelse til forflytning av egg beregnet på konsum fra anlegg som ligger i overvåkingssonen
 
-1\. Vedkommende myndighet kan tillate forflytning av egg beregnet på konsum fra anlegg som ligger i overvåkingssonen, til et pakkeri i den samme medlemsstaten, forutsatt at de er pakket iengangsemballasje elleremballasje som kan rengjøres og desinfiseres på en slik måte at kategori A-sykdomsagensen destrueres.
+1\. Vedkommende myndighet kan tillate forflytning av egg beregnet på konsum fra anlegg som ligger i overvåkingssonen, til et pakkeri i den samme medlemsstaten, forutsatt at de er pakket i
 
-2\. Vedkommende myndighet kan tillate forflytning av egg beregnet på konsum fra anlegg som ligger i overvåkingssonen, til et anlegg for framstilling av eggprodukter som ligger i den samme medlemsstaten, dersomanlegget for framstilling av eggprodukter oppfyller kravene i avsnitt X kapittel II i vedlegg III til forordning (EF) nr. 853/2004, ogeggene flyttes til anlegget for framstilling av eggprodukter med sikte på håndtering og behandling i samsvar med kapittel XI i vedlegg II til forordning [(EF) nr. 852/2004](eu/32004r0852).
+1. engangsemballasje eller
+2. emballasje som kan rengjøres og desinfiseres på en slik måte at kategori A-sykdomsagensen destrueres.
+
+2\. Vedkommende myndighet kan tillate forflytning av egg beregnet på konsum fra anlegg som ligger i overvåkingssonen, til et anlegg for framstilling av eggprodukter som ligger i den samme medlemsstaten, dersom
+
+1. anlegget for framstilling av eggprodukter oppfyller kravene i avsnitt X kapittel II i vedlegg III til forordning (EF) nr. 853/2004, og
+2. eggene flyttes til anlegget for framstilling av eggprodukter med sikte på håndtering og behandling i samsvar med kapittel XI i vedlegg II til forordning [(EF) nr. 852/2004](eu/32004r0852).
 
 ###### Artikkel 51
 
 Særlige vilkår for tillatelse til forflytning av husdyrgjødsel, herunder nytt og brukt strø, fra anlegg som ligger i overvåkingssonen
 
-Vedkommende myndighet kan tillate forflytning av husdyrgjødsel, herunder nytt og brukt strø, fra anlegg som ligger i overvåkingssonenuten bearbeiding, til en fyllplass som vedkommende myndighet tidligere har godkjent for dette formålet, og som ligger i samme overvåkingssone, elleretter bearbeiding, til en fyllplass som vedkommende myndighet tidligere har godkjent for dette formålet, og som ligger på medlemsstatens territorium.
+Vedkommende myndighet kan tillate forflytning av husdyrgjødsel, herunder nytt og brukt strø, fra anlegg som ligger i overvåkingssonen
+
+1. uten bearbeiding, til en fyllplass som vedkommende myndighet tidligere har godkjent for dette formålet, og som ligger i samme overvåkingssone, eller
+2. etter bearbeiding, til en fyllplass som vedkommende myndighet tidligere har godkjent for dette formålet, og som ligger på medlemsstatens territorium.
 
 ###### Artikkel 52
 
 Særlige vilkår for tillatelse til forflytning av fôrmidler av vegetabilsk opprinnelse og strå fra overvåkingssonen
 
-Vedkommende myndighet kan tillate forflytning av fôrmidler av vegetabilsk opprinnelse eller strå som er produsert i overvåkingssonen, forutsatt at fôrmidlene eller stråeter produsert på steder der det ikke holdes dyr av listeførte arter, bortsett fra i fôrforedlingsanlegg,er framstilt i fôrforedlingsanlegg der det ikke holdes dyr av listeførte arter, og de vegetabilske råvarenekommer fra steder nevnt i bokstav a), ellerer produsert utenfor overvåkingssonen,►**M2**er beregnet på bruk i overvåkingssonen, eller
-◄**M2**har gjennomgått minst én av de risikoreduserende behandlingene angitt i vedlegg VIII.
+Vedkommende myndighet kan tillate forflytning av fôrmidler av vegetabilsk opprinnelse eller strå som er produsert i overvåkingssonen, forutsatt at fôrmidlene eller strået
+
+1. er produsert på steder der det ikke holdes dyr av listeførte arter, bortsett fra i fôrforedlingsanlegg,
+2. er framstilt i fôrforedlingsanlegg der det ikke holdes dyr av listeførte arter, og de vegetabilske råvarene
+
+   1. kommer fra steder nevnt i bokstav a), eller
+   2. er produsert utenfor overvåkingssonen,
+
+   ►**M2**
+3. er beregnet på bruk i overvåkingssonen, eller
+   ◄**M2**
+4. har gjennomgått minst én av de risikoreduserende behandlingene angitt i vedlegg VIII.
 
 ###### Artikkel 53
 
 Særlige vilkår for tillatelse til forflytning av holdte dyr av listeførte arter og produkter til et godkjent anlegg
 
-1\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter fra anlegg som ligger i overvåkingssonen, til et anlegg som er godkjent for bearbeiding eller sluttbehandling av animalske biprodukter, derde holdte dyrene umiddelbart avlives, ogde animalske biproduktene som er en følge av dette, sluttbehandles i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
+1\. Vedkommende myndighet kan tillate forflytning av holdte dyr av listeførte arter fra anlegg som ligger i overvåkingssonen, til et anlegg som er godkjent for bearbeiding eller sluttbehandling av animalske biprodukter, der
+
+1. de holdte dyrene umiddelbart avlives, og
+2. de animalske biproduktene som er en følge av dette, sluttbehandles i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 2\. Vedkommende myndighet kan tillate forflytning av produkter fra anlegg og andre steder i overvåkingssonen til et anlegg som er godkjent for bearbeiding eller sluttbehandling av animalske biprodukter, der de sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
@@ -827,11 +1256,18 @@ Varighet av tiltak for sykdomsbekjempelse i overvåkingssonen
 
 ►**M2**
 
-1\. Vedkommende myndighet kan oppheve tiltakene for sykdomsbekjempelse som er innført i overvåkingssonen i samsvar med avsnitt 1 og 3, bare dersomden minste varigheten som er fastsatt i vedlegg XI er utløpt etter at foreløpig rengjøring og desinfisering og, der det er relevant, bekjempelse av insekter og gnagere, utført i det rammede anlegget i samsvar med artikkel 15, er gjennomført,kravene fastsatt i artikkel 39 nr. 1 bokstav b) er oppfylt i vernesonen oget representativt antall anlegg der det holdes dyr av listeførte arter, har med tilfredsstillende resultat vært gjenstand for regelmessige besøk av offentlige veterinærer i samsvar med artikkel 41.
+1\. Vedkommende myndighet kan oppheve tiltakene for sykdomsbekjempelse som er innført i overvåkingssonen i samsvar med avsnitt 1 og 3, bare dersom
+
+1. den minste varigheten som er fastsatt i vedlegg XI er utløpt etter at foreløpig rengjøring og desinfisering og, der det er relevant, bekjempelse av insekter og gnagere, utført i det rammede anlegget i samsvar med artikkel 15, er gjennomført,
+2. kravene fastsatt i artikkel 39 nr. 1 bokstav b) er oppfylt i vernesonen og
+3. et representativt antall anlegg der det holdes dyr av listeførte arter, har med tilfredsstillende resultat vært gjenstand for regelmessige besøk av offentlige veterinærer i samsvar med artikkel 41.
 
 ◄**M2**
 
-2\. Dersom den aktuelle kategori A-sykdommen overføres av en listeført vektor som nevnt i forordning [(EU) 2018/1882](eu/32018r1882), kan vedkommende myndighetfastslå varigheten av tiltakene i overvåkingssonen for hvert enkelt tilfelle, idet det tas hensyn til faktorer som påvirker risikoen for at sykdommen sprer seg, ogbeslutte at det skal innføres kontrolldyr.
+2\. Dersom den aktuelle kategori A-sykdommen overføres av en listeført vektor som nevnt i forordning [(EU) 2018/1882](eu/32018r1882), kan vedkommende myndighet
+
+1. fastslå varigheten av tiltakene i overvåkingssonen for hvert enkelt tilfelle, idet det tas hensyn til faktorer som påvirker risikoen for at sykdommen sprer seg, og
+2. beslutte at det skal innføres kontrolldyr.
 
 ###### Avsnitt 4
 
@@ -841,7 +1277,11 @@ Unntak som gjelder i restriksjonssonen ved ytterligere sykdomsutbrudd
 
 Unntak fra forbud mot forflytning av dyr innenfor restriksjonssoner når restriksjonstiltakene opprettholdes
 
-1\. Når forbudene mot forflytning av dyr fastsatt i artikkel 27 og 42 opprettholdes etter den perioden som er angitt i vedlegg XI, på grunn av at ytterligere utbrudd av kategori A-sykdommen er blitt offisielt bekreftet, kan vedkommende myndighet under ekstraordinære omstendigheter tillate forflytning av holdte dyr av listeførte arter fra et anlegg innenfor restriksjonssonen i tilfeller som ikke omfattes av unntakene i artikkel 27 og 42, dersomden driftsansvarlige har inngitt en begrunnet søknad om slik tillatelse,risikoene forbundet med å tillate slik forflytning er blitt vurdert før tillatelsen gis, og vurderingen viser at risikoen for spredning av kategori A-sykdommen er ubetydelig,offentlige veterinærer har gjennomført kliniske undersøkelser og har tatt prøver til laboratorieundersøkelser fra dyr av listeførte arter, herunder de som skal flyttes, og resultatene har vært tilfredsstillende.
+1\. Når forbudene mot forflytning av dyr fastsatt i artikkel 27 og 42 opprettholdes etter den perioden som er angitt i vedlegg XI, på grunn av at ytterligere utbrudd av kategori A-sykdommen er blitt offisielt bekreftet, kan vedkommende myndighet under ekstraordinære omstendigheter tillate forflytning av holdte dyr av listeførte arter fra et anlegg innenfor restriksjonssonen i tilfeller som ikke omfattes av unntakene i artikkel 27 og 42, dersom
+
+1. den driftsansvarlige har inngitt en begrunnet søknad om slik tillatelse,
+2. risikoene forbundet med å tillate slik forflytning er blitt vurdert før tillatelsen gis, og vurderingen viser at risikoen for spredning av kategori A-sykdommen er ubetydelig,
+3. offentlige veterinærer har gjennomført kliniske undersøkelser og har tatt prøver til laboratorieundersøkelser fra dyr av listeførte arter, herunder de som skal flyttes, og resultatene har vært tilfredsstillende.
 
 2\. Dersom forflytning av dyr tillates i henhold til nr. 1, skal vedkommende myndighet sikre at transporten oppfyller kravene i artikkel 24.
 
@@ -852,19 +1292,31 @@ Gjeninnsetting av landdyr i anlegg som ligger i restriksjonssoner
 
 Vilkår for tillatelse til gjeninnsetting i det rammede anlegget
 
-1\. Vedkommende myndighet skal bare tillate gjeninnsetting i det rammede anlegget dersom følgende krav er oppfylt:Den endelige rengjøringen og desinfiseringen og, dersom det er relevant, bekjempelsen av insekter og gnagere erutført etter framgangsmåtene fastsatt i punkt A og C i vedlegg IV ved bruk av passende biocidprodukter for å sikre at den aktuelle kategori A-sykdomsagensen destrueres, ogdokumentert på tilstrekkelig vis.Overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet fra den datoen da den endelige rengjøringen og desinfiseringen fastsatt i bokstav a) ble utført, er utløpt.
+1\. Vedkommende myndighet skal bare tillate gjeninnsetting i det rammede anlegget dersom følgende krav er oppfylt:
+
+1. Den endelige rengjøringen og desinfiseringen og, dersom det er relevant, bekjempelsen av insekter og gnagere er
+
+   1. utført etter framgangsmåtene fastsatt i punkt A og C i vedlegg IV ved bruk av passende biocidprodukter for å sikre at den aktuelle kategori A-sykdomsagensen destrueres, og
+   2. dokumentert på tilstrekkelig vis.
+2. Overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet fra den datoen da den endelige rengjøringen og desinfiseringen fastsatt i bokstav a) ble utført, er utløpt.
 
 2\. Vedkommende myndighet skal føre tilsyn med at den endelige rengjøringen og desinfiseringen, og, dersom det er relevant, bekjempelsen av insekter og gnagere i det rammede anlegget, utføres i samsvar med kravene i nr. 1 bokstav a).
 
 3\. Vedkommende myndighet skal ikke tillate at holdte dyr av listeførte arter får adgang til en beitemark i den perioden da denne anses som kontaminert; denne perioden skal fastsettes etter at det er foretatt en risikovurdering.
 
-4\. Dersom den endelige rengjøringen og desinfiseringen, og, dersom det er relevant, bekjempelsen av insekter og gnagere nevnt i nr. 1 av behørig begrunnede årsaker ikke er blitt gjennomført i sin helhet i det rammede anlegget, kan vedkommende myndighet som unntak fra nr. 1 tillate gjeninnsetting, forutsatt atdet har gått minst tre måneder siden den foreløpige rengjøringen og desinfiseringen nevnt i artikkel 15 ble utført, ogvedkommende myndighet har før den gir tillatelse, vurdert risikoene forbundet med denne tillatelsen, og vurderingen viser at risikoen for spredning av kategori A-sykdommen er ubetydelig.
+4\. Dersom den endelige rengjøringen og desinfiseringen, og, dersom det er relevant, bekjempelsen av insekter og gnagere nevnt i nr. 1 av behørig begrunnede årsaker ikke er blitt gjennomført i sin helhet i det rammede anlegget, kan vedkommende myndighet som unntak fra nr. 1 tillate gjeninnsetting, forutsatt at
+
+1. det har gått minst tre måneder siden den foreløpige rengjøringen og desinfiseringen nevnt i artikkel 15 ble utført, og
+2. vedkommende myndighet har før den gir tillatelse, vurdert risikoene forbundet med denne tillatelsen, og vurderingen viser at risikoen for spredning av kategori A-sykdommen er ubetydelig.
 
 ###### Artikkel 58
 
 Unntak fra kravet fastsatt i artikkel 55 nr. 1 bokstav b)
 
-Ved offisiell bekreftelse av et utbrudd av en kategori A-sykdom i næringsmiddel- og fôrforetak, på oppsamlingssentraler, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, kan vedkommende myndighet tillate gjeninnsetting av holdte dyr av listeførte arter til slakting, oppsamling, inspeksjon eller transport 24 timer etter gjennomføring avtiltakene nevnt i artikkel 12, 14, 15, 17, 18 og artikkel 57 nr. 1 bokstav a), ogalle ytterligere tiltak tilpasset den aktuelle situasjonen som er iverksatt av vedkommende myndighet.
+Ved offisiell bekreftelse av et utbrudd av en kategori A-sykdom i næringsmiddel- og fôrforetak, på oppsamlingssentraler, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, kan vedkommende myndighet tillate gjeninnsetting av holdte dyr av listeførte arter til slakting, oppsamling, inspeksjon eller transport 24 timer etter gjennomføring av
+
+1. tiltakene nevnt i artikkel 12, 14, 15, 17, 18 og artikkel 57 nr. 1 bokstav a), og
+2. alle ytterligere tiltak tilpasset den aktuelle situasjonen som er iverksatt av vedkommende myndighet.
 
 ###### Artikkel 59
 
@@ -873,20 +1325,39 @@ Krav i forbindelse med gjeninnsetting av holdte dyr av listeførte arter i det r
 1\. Vedkommende myndighet skal føre tilsyn med at gjeninnsettingen av holdte dyr av listeførte arter i det rammede anlegget er i samsvar med bestemmelsene i denne artikkelen.
 
 2\. Holdte dyr av listeførte arter som er beregnet på gjeninnsetting, skal
-►**M2**ikke komme fra et anlegg som omfattes av restriksjonene fastsatt i kapittel II, og
-◄**M2**tas prøver av til laboratorieundersøkelser for å utelukke forekomst av sykdommen, med tilfredsstillende resultater, før de tas inn i anlegget.
+►**M2**
 
-3\. Ved anvendelse av nr. 2 bokstav b) skal det tas prøver avet representativt antall av alle dyr som skal tas inn i anlegget, dersom alle tas inn samtidig og fra det samme opprinnelsesanlegget, elleret representativt antall dyr fra hver forsendelse, dersom dyrene skal tas inn på forskjellige tidspunkter eller fra forskjellige opprinnelsesanlegg.Når det gjelder daggamle kyllinger, kan vedkommende myndighet beslutte å ikke utføre prøvetaking til laboratorieundersøkelse som nevnt i nr. 2 bokstav b).
+1. ikke komme fra et anlegg som omfattes av restriksjonene fastsatt i kapittel II, og
+   ◄**M2**
+2. tas prøver av til laboratorieundersøkelser for å utelukke forekomst av sykdommen, med tilfredsstillende resultater, før de tas inn i anlegget.
 
-4\. Holdte dyr av listeførte arter som er beregnet på gjeninnsetting, skal tas inn i anleggenei alle epidemiologiske enheter og bygninger i det rammede anlegget,fortrinnsvis samtidig eller i løpet av overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet fra den datoen da det første dyret ble tatt inn, ellernår det gjelder anlegg med utedrift, eller dersom kravene i bokstav a) ikke er praktisk gjennomførbare, ved å bruke kontrolldyr som det er tatt prøver av til laboratorieundersøkelser med tilfredsstillende resultater for den aktuelle kategori A-sykdommen, før de tas inn i anlegget.
+3\. Ved anvendelse av nr. 2 bokstav b) skal det tas prøver av
 
-5\. Offentlige veterinærer skal foreta minst ett besøk i det rammede anlegget den siste dagen av den overvåkingsperioden som er fastsatt i vedlegg II for den aktuelle sykdommen, regnet fra den datoen da dyrene ble satt inn i anlegget, og i alle tilfeller før det har gått 30 dager fra denne dagen, og de skal minst utføredokumentkontroll, herunder analyse av journaler over produksjon, helse og sporbarhet,klinisk undersøkelse av holdte dyr av listeførte arter, ogprøvetaking av dyr til laboratorieundersøkelse for å bekrefte eller utelukke forekomst av den aktuelle kategori A-sykdommen.
+1. et representativt antall av alle dyr som skal tas inn i anlegget, dersom alle tas inn samtidig og fra det samme opprinnelsesanlegget, eller
+2. et representativt antall dyr fra hver forsendelse, dersom dyrene skal tas inn på forskjellige tidspunkter eller fra forskjellige opprinnelsesanlegg.
+
+Når det gjelder daggamle kyllinger, kan vedkommende myndighet beslutte å ikke utføre prøvetaking til laboratorieundersøkelse som nevnt i nr. 2 bokstav b).
+
+4\. Holdte dyr av listeførte arter som er beregnet på gjeninnsetting, skal tas inn i anleggene
+
+1. i alle epidemiologiske enheter og bygninger i det rammede anlegget,
+2. fortrinnsvis samtidig eller i løpet av overvåkingsperioden fastsatt i vedlegg II for den aktuelle sykdommen, regnet fra den datoen da det første dyret ble tatt inn, eller
+3. når det gjelder anlegg med utedrift, eller dersom kravene i bokstav a) ikke er praktisk gjennomførbare, ved å bruke kontrolldyr som det er tatt prøver av til laboratorieundersøkelser med tilfredsstillende resultater for den aktuelle kategori A-sykdommen, før de tas inn i anlegget.
+
+5\. Offentlige veterinærer skal foreta minst ett besøk i det rammede anlegget den siste dagen av den overvåkingsperioden som er fastsatt i vedlegg II for den aktuelle sykdommen, regnet fra den datoen da dyrene ble satt inn i anlegget, og i alle tilfeller før det har gått 30 dager fra denne dagen, og de skal minst utføre
+
+1. dokumentkontroll, herunder analyse av journaler over produksjon, helse og sporbarhet,
+2. klinisk undersøkelse av holdte dyr av listeførte arter, og
+3. prøvetaking av dyr til laboratorieundersøkelse for å bekrefte eller utelukke forekomst av den aktuelle kategori A-sykdommen.
 
 6\. Alle personer som ankommer eller forlater anlegget, skal overholde hensiktsmessige biosikkerhetstiltak for å forebygge spredningen av den aktuelle kategori A-sykdommen.
 
 7\. Holdte dyr av listeførte arter kan bare forlate anlegget etter tillatelse fra vedkommende myndighet og bare etter at laboratorieundersøkelsen nevnt i nr. 5 bokstav c) har gitt tilfredsstillende resultater.
 
-8\. Fra den datoen da dyrene ble satt inn i anlegget og til gjeninnsettingen er avsluttet i samsvar med artikkel 61, skal den driftsansvarligeholde journalene over helse- og produksjonsdata for holdte dyr av listeførte arter ajourført, ogomgående melde alle vesentlige endringer i produksjonsdata samt alle andre anomalier til vedkommende myndighet.
+8\. Fra den datoen da dyrene ble satt inn i anlegget og til gjeninnsettingen er avsluttet i samsvar med artikkel 61, skal den driftsansvarlige
+
+1. holde journalene over helse- og produksjonsdata for holdte dyr av listeførte arter ajourført, og
+2. omgående melde alle vesentlige endringer i produksjonsdata samt alle andre anomalier til vedkommende myndighet.
 
 9\. Dersom uvanlig dødelighet eller kliniske tegn på den aktuelle kategori A-sykdommen meldes til vedkommende myndighet i perioden nevnt i nr. 8, skal de offentlige veterinærene omgående ta prøver til laboratorieundersøkelse for å utelukke forekomst av den aktuelle kategori A-sykdommen.
 
@@ -919,17 +1390,32 @@ Tiltak ved mistanke om en kategori A-sykdom hos viltlevende dyr av listeførte a
 
 2\. Under undersøkelsen nevnt i nr. 1 skal vedkommende myndighet minst organisere kontroller post mortem og prøvetaking til laboratorieundersøkelse av viltlevende dyr av listeførte arter som er skutt eller funnet døde, for å bekrefte eller utelukke forekomst av kategori A-sykdommen.
 
-3\. Når det gjelder skrotter av døde viltlevende dyr der det er mistanke om forekomst av den aktuelle kategori A-sykdommen, skal vedkommende myndighet uansett om dyrene er avlivet eller funnet døde, sikre atde hele skrottene av døde viltlevende dyr eller deler av disse sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), ognår det er mulig, alle materialer eller stoffer som trolig er blitt kontaminert gjennom kontakt med skrottene av døde viltlevende dyr eller animalske biprodukter fra disse, rengjøres og desinfiseres eller sluttbehandles i samsvar med de offentlige veterinærenes instruksjoner og under disses tilsyn.
+3\. Når det gjelder skrotter av døde viltlevende dyr der det er mistanke om forekomst av den aktuelle kategori A-sykdommen, skal vedkommende myndighet uansett om dyrene er avlivet eller funnet døde, sikre at
+
+1. de hele skrottene av døde viltlevende dyr eller deler av disse sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), og
+2. når det er mulig, alle materialer eller stoffer som trolig er blitt kontaminert gjennom kontakt med skrottene av døde viltlevende dyr eller animalske biprodukter fra disse, rengjøres og desinfiseres eller sluttbehandles i samsvar med de offentlige veterinærenes instruksjoner og under disses tilsyn.
 
 ###### Artikkel 63
 
 Tiltak ved et utbrudd av en kategori A-sykdom hos viltlevende dyr av listeførte arter
 
-1\. Ved en offisiell bekreftelse av et utbrudd av en kategori A-sykdom hos viltlevende dyr av listeførte arter i samsvar med artikkel 9 nr. 2, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689), kan vedkommende myndighet fastsette en infisert sone for å hindre ytterligere spredning av sykdommen, på grunnlag avsykdomsprofilen,den anslåtte populasjonen av viltlevende dyr av listeførte arter,risikofaktorene som bidrar til spredning av den aktuelle kategori A-sykdommen, særlig risikoen for at en kategori A-sykdom innføres i anlegg der det holdes dyr av listeførte arter,prøvetakingsresultater, ogandre relevante faktorer.
+1\. Ved en offisiell bekreftelse av et utbrudd av en kategori A-sykdom hos viltlevende dyr av listeførte arter i samsvar med artikkel 9 nr. 2, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689), kan vedkommende myndighet fastsette en infisert sone for å hindre ytterligere spredning av sykdommen, på grunnlag av
 
-2\. Når det gjelder skrotter av viltlevende dyr der den aktuelle kategori A-sykdommen er blitt bekreftet, skal vedkommende myndighet uansett om dyrene er avlivet eller funnet døde, sikre atde hele skrottene av døde viltlevende dyr eller deler av disse sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), ognår det er mulig, at alle materialer eller stoffer som trolig er blitt kontaminert gjennom kontakt med skrottene av døde viltlevende dyr eller animalske biprodukter fra disse, rengjøres og desinfiseres eller sluttbehandles i samsvar med de offentlige veterinærenes instruksjoner og under disses tilsyn.
+1. sykdomsprofilen,
+2. den anslåtte populasjonen av viltlevende dyr av listeførte arter,
+3. risikofaktorene som bidrar til spredning av den aktuelle kategori A-sykdommen, særlig risikoen for at en kategori A-sykdom innføres i anlegg der det holdes dyr av listeførte arter,
+4. prøvetakingsresultater, og
+5. andre relevante faktorer.
 
-3\. Vedkommende myndighet kan tilpasse grensene for den opprinnelige infiserte sonenfor å bekjempe ytterligere spredning av den aktuelle kategori A-sykdommen, ogved bekreftelse av ytterligere utbrudd av en kategori A-sykdom hos viltlevende dyr.
+2\. Når det gjelder skrotter av viltlevende dyr der den aktuelle kategori A-sykdommen er blitt bekreftet, skal vedkommende myndighet uansett om dyrene er avlivet eller funnet døde, sikre at
+
+1. de hele skrottene av døde viltlevende dyr eller deler av disse sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), og
+2. når det er mulig, at alle materialer eller stoffer som trolig er blitt kontaminert gjennom kontakt med skrottene av døde viltlevende dyr eller animalske biprodukter fra disse, rengjøres og desinfiseres eller sluttbehandles i samsvar med de offentlige veterinærenes instruksjoner og under disses tilsyn.
+
+3\. Vedkommende myndighet kan tilpasse grensene for den opprinnelige infiserte sonen
+
+1. for å bekjempe ytterligere spredning av den aktuelle kategori A-sykdommen, og
+2. ved bekreftelse av ytterligere utbrudd av en kategori A-sykdom hos viltlevende dyr.
 
 4\. Vedkommende myndighet skal omgående informere driftsansvarlige, kliniske veterinærer, jegere, andre berørte vedkommende myndigheter og alle andre fysiske eller juridiske personer som er berørt, om sykdomsutbruddet og de bekjempelsestiltakene som er truffet.
 
@@ -939,7 +1425,11 @@ Tiltak som skal iverksettes i den infiserte sonen
 
 1\. I den infiserte sonen som fastsatt i artikkel 63 skal vedkommende myndighet organisere kontroller post mortem av viltlevende dyr av listeførte arter som er skutt eller funnet døde, herunder om nødvendig prøvetaking til laboratorieundersøkelse.
 
-2\. I den infiserte sonen skal vedkommende myndighet minstgjennomføre risikoreduserende tiltak og forsterkede biosikkerhetstiltak for å hindre at kategori A-sykdommen spres fra de rammede dyrene og den infiserte sonen til dyr som ikke er rammet, eller til mennesker,forby forflytning av viltlevende dyr av listeførte arter og produkter av animalsk opprinnelse fra disse, i samsvar med delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688)16, ogsikre at alle skrotter av døde viltlevende dyr av listeførte arter, uansett om dyrene ble avlivet eller funnet døde, eller deler av disse, sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
+2\. I den infiserte sonen skal vedkommende myndighet minst
+
+1. gjennomføre risikoreduserende tiltak og forsterkede biosikkerhetstiltak for å hindre at kategori A-sykdommen spres fra de rammede dyrene og den infiserte sonen til dyr som ikke er rammet, eller til mennesker,
+2. forby forflytning av viltlevende dyr av listeførte arter og produkter av animalsk opprinnelse fra disse, i samsvar med delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688)16, og
+3. sikre at alle skrotter av døde viltlevende dyr av listeførte arter, uansett om dyrene ble avlivet eller funnet døde, eller deler av disse, sluttbehandles eller bearbeides i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 16 Delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse ved forflytning av landdyr og rugeegg innenfor Unionen (EUT L 174 av 3.6.2020, s. 140).
 
@@ -947,13 +1437,23 @@ Tiltak som skal iverksettes i den infiserte sonen
 
 Ytterligere tiltak som skal iverksettes i den infiserte sonen
 
-For å unngå spredning av kategori A-sykdommen kan vedkommende myndighet i den infiserte sonenregulere forflytningen av holdte dyr av listeførte arter,regulere jakt og andre utendørsaktiviteter,begrense fôring av viltlevende dyr av listeførte arter, ogutarbeide og gjennomføre en utryddelsesplan for kategori A-sykdommen hos viltlevende dyr av listeførte arter dersom den epidemiologiske situasjonen krever det.
+For å unngå spredning av kategori A-sykdommen kan vedkommende myndighet i den infiserte sonen
+
+1. regulere forflytningen av holdte dyr av listeførte arter,
+2. regulere jakt og andre utendørsaktiviteter,
+3. begrense fôring av viltlevende dyr av listeførte arter, og
+4. utarbeide og gjennomføre en utryddelsesplan for kategori A-sykdommen hos viltlevende dyr av listeførte arter dersom den epidemiologiske situasjonen krever det.
 
 ###### Artikkel 66
 
 Operativ ekspertgruppe
 
-Ved et offisielt bekreftet utbrudd av en kategori A-sykdom hos viltlevende dyr av listeførte arter, og dersom vedkommende myndighet fastsetter en infisert sone i samsvar med artikkel 63, skal vedkommende myndighet opprette en operativ ekspertgruppe som nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429) som skal bistå vedkommende myndighet med åvurdere den epidemiologiske situasjonen og dens utvikling,avgrense den infiserte sonen,fastsette passende tiltak som skal iverksettes i den infiserte sonen i samsvar med dette kapittelet og varigheten av tiltakene, ogutarbeide en utryddelsesplan dersom det er relevant.
+Ved et offisielt bekreftet utbrudd av en kategori A-sykdom hos viltlevende dyr av listeførte arter, og dersom vedkommende myndighet fastsetter en infisert sone i samsvar med artikkel 63, skal vedkommende myndighet opprette en operativ ekspertgruppe som nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429) som skal bistå vedkommende myndighet med å
+
+1. vurdere den epidemiologiske situasjonen og dens utvikling,
+2. avgrense den infiserte sonen,
+3. fastsette passende tiltak som skal iverksettes i den infiserte sonen i samsvar med dette kapittelet og varigheten av tiltakene, og
+4. utarbeide en utryddelsesplan dersom det er relevant.
 
 ###### Artikkel 67
 
@@ -968,13 +1468,21 @@ Tiltak for bekjempelse av kategori B- og C-sykdommer hos landdyr
 
 Foreløpige tiltak for sykdomsbekjempelse som skal iverksettes dersom vedkommende myndighet har mistanke om en kategori B- eller C-sykdom i medlemsstater eller soner som er tildelt sykdomsfri status
 
-Ved mistanke om en kategori B- eller C-sykdom i samsvar med artikkel 9 nr. 1, 3 eller 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) i medlemsstater eller soner som er tildelt sykdomsfri status i henhold til artikkel 36 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429) eller artikkel 84 nr. 1 i delegert forordning [(EU) 2020/689](eu/32020r0689), skal vedkommende myndighet iverksette tiltakene fastsatt iartikkel 21, 22 og 23 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med *Brucella abortus*, *B. melitensis*, *B. suis*, infeksjon med *Mycobacterium tuberculosis*-kompleks, enzootisk bovin leukose, infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, infeksjon med pseudorabiesvirus og bovin virusdiaré,artikkel 35 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med rabiesvirus, ogartikkel 41 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med blåtungevirus (serotype 1–24).
+Ved mistanke om en kategori B- eller C-sykdom i samsvar med artikkel 9 nr. 1, 3 eller 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) i medlemsstater eller soner som er tildelt sykdomsfri status i henhold til artikkel 36 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429) eller artikkel 84 nr. 1 i delegert forordning [(EU) 2020/689](eu/32020r0689), skal vedkommende myndighet iverksette tiltakene fastsatt i
+
+1. artikkel 21, 22 og 23 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med *Brucella abortus*, *B. melitensis*, *B. suis*, infeksjon med *Mycobacterium tuberculosis*-kompleks, enzootisk bovin leukose, infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, infeksjon med pseudorabiesvirus og bovin virusdiaré,
+2. artikkel 35 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med rabiesvirus, og
+3. artikkel 41 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med blåtungevirus (serotype 1–24).
 
 ###### Artikkel 69
 
 Tiltak for sykdomsbekjempelse som skal iverksettes når en kategori B- eller C-sykdom er bekreftet
 
-Ved bekreftelse av en kategori B- eller C-sykdom i samsvar med artikkel 9 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689) i medlemsstater eller soner som er tildelt sykdomsfri status i henhold til artikkel 36 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429) eller artikkel 84 nr. 1 i delegert forordning [(EU) 2020/689](eu/32020r0689), skal vedkommende myndighet iverksette tiltakene fastsatt iartikkel 24–31 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med *Brucella abortus*, *B. melitensis*, *B. suis*, infeksjon med *Mycobacterium tuberculosis*-kompleks, enzootisk bovin leukose, infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, infeksjon med pseudorabiesvirus og bovin virusdiaré,artikkel 36 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med rabiesvirus, ogartikkel 42 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med blåtungevirus (serotype 1–24).
+Ved bekreftelse av en kategori B- eller C-sykdom i samsvar med artikkel 9 nr. 2 i delegert forordning [(EU) 2020/689](eu/32020r0689) i medlemsstater eller soner som er tildelt sykdomsfri status i henhold til artikkel 36 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429) eller artikkel 84 nr. 1 i delegert forordning [(EU) 2020/689](eu/32020r0689), skal vedkommende myndighet iverksette tiltakene fastsatt i
+
+1. artikkel 24–31 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med *Brucella abortus*, *B. melitensis*, *B. suis*, infeksjon med *Mycobacterium tuberculosis*-kompleks, enzootisk bovin leukose, infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, infeksjon med pseudorabiesvirus og bovin virusdiaré,
+2. artikkel 36 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med rabiesvirus, og
+3. artikkel 42 i delegert forordning [(EU) 2020/689](eu/32020r0689) for infeksjon med blåtungevirus (serotype 1–24).
 
 ### DEL III
 AKVATISKE DYR
@@ -990,7 +1498,15 @@ Foreløpige tiltak for sykdomsbekjempelse ved mistanke om en kategori A-sykdom h
 
 Driftsansvarliges forpliktelser ved mistanke om en kategori A-sykdom hos akvakulturdyr i anlegg
 
-Ved mistanke om en kategori A-sykdom hos akvakulturdyr av listeførte arter, skal de driftsansvarlige treffe følgende tiltak for sykdomsbekjempelse for å hindre spredning av kategori A-sykdommen fra de rammede dyrene og akvakulturanleggene som de har ansvar for, til andre akvakulturdyr som ikke er rammet, inntil vedkommende myndighet har utelukket forekomst av kategori A-sykdommen:Dersom det er teknisk mulig, isolere alle akvakulturdyr i det anlegget som er mistenkt for å være smittet med kategori A-sykdommen.Hindre forflytning av akvakulturdyr til og fra anlegget.Føre journaler over alle besøk og forflytninger til og fra anlegget.Holde alle produkter, utstyrsdeler, materialer eller stoffer som trolig er kontaminert med og kan overføre kategori A-sykdommer, isolert, og i den grad det er praktisk mulig, beskyttet mot vektorer og andre akvatiske dyr.Iverksette hensiktsmessige biosikkerhetstiltak for å unngå spredning av kategori A-sykdommen.På anmodning fra vedkommende myndighet gi den alle relevante opplysninger om kategori A-sykdommen.Følge alle instruksjoner fra vedkommende myndighet om bekjempelse av kategori A-sykdommen i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og denne forordningen.
+Ved mistanke om en kategori A-sykdom hos akvakulturdyr av listeførte arter, skal de driftsansvarlige treffe følgende tiltak for sykdomsbekjempelse for å hindre spredning av kategori A-sykdommen fra de rammede dyrene og akvakulturanleggene som de har ansvar for, til andre akvakulturdyr som ikke er rammet, inntil vedkommende myndighet har utelukket forekomst av kategori A-sykdommen:
+
+1. Dersom det er teknisk mulig, isolere alle akvakulturdyr i det anlegget som er mistenkt for å være smittet med kategori A-sykdommen.
+2. Hindre forflytning av akvakulturdyr til og fra anlegget.
+3. Føre journaler over alle besøk og forflytninger til og fra anlegget.
+4. Holde alle produkter, utstyrsdeler, materialer eller stoffer som trolig er kontaminert med og kan overføre kategori A-sykdommer, isolert, og i den grad det er praktisk mulig, beskyttet mot vektorer og andre akvatiske dyr.
+5. Iverksette hensiktsmessige biosikkerhetstiltak for å unngå spredning av kategori A-sykdommen.
+6. På anmodning fra vedkommende myndighet gi den alle relevante opplysninger om kategori A-sykdommen.
+7. Følge alle instruksjoner fra vedkommende myndighet om bekjempelse av kategori A-sykdommen i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og denne forordningen.
 
 ###### Artikkel 71
 
@@ -998,13 +1514,22 @@ Vedkommende myndighets undersøkelse ved mistanke om en kategori A-sykdom hos ak
 
 1\. Ved mistanke om en kategori A-sykdom hos akvakulturdyr i et anlegg i samsvar med artikkel 9 nr. 1, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) skal vedkommende myndighet umiddelbart gjennomføre en undersøkelse for å bekrefte eller utelukke forekomst av den mistenkte listeførte sykdommen.
 
-2\. I forbindelse med undersøkelsen nevnt i nr. 1 skal vedkommende myndighet sikre at de offentlige veterinærene minst gjennomførerkliniske undersøkelser av akvakulturdyr, ogprøvetaking til laboratorieundersøkelser.
+2\. I forbindelse med undersøkelsen nevnt i nr. 1 skal vedkommende myndighet sikre at de offentlige veterinærene minst gjennomfører
+
+1. kliniske undersøkelser av akvakulturdyr, og
+2. prøvetaking til laboratorieundersøkelser.
 
 ###### Artikkel 72
 
 Foreløpige restriksjons- og biosikkerhetstiltak som skal iverksettes ved mistanke om en kategori A-sykdom hos akvakulturdyr
 
-1\. Ved mistanke om en kategori A-sykdom i et anlegg skal vedkommende myndighet sette anlegget under offentlig overvåking og umiddelbart pålegge følgende foreløpige restriksjons- og biosikkerhetstiltak for å hindre spredning av kategori A-sykdommen fra de rammede akvakulturdyrene og anlegget til akvakulturdyr som ikke er rammet:Forbud mot forflytning av akvakulturdyr til og fra anlegget.Forbud mot forflytning som ikke er strengt nødvendig av transportmidler og utstyr fra anlegget.Forbud mot slakting av akvakulturdyr til konsum.Dersom det er teknisk mulig og anses som nødvendig, pålegge at alle akvakulturdyr isoleres.Dersom det er praktisk gjennomførbart, innføre passende midler og tiltak for å holde fugler og andre predatorer under kontroll.
+1\. Ved mistanke om en kategori A-sykdom i et anlegg skal vedkommende myndighet sette anlegget under offentlig overvåking og umiddelbart pålegge følgende foreløpige restriksjons- og biosikkerhetstiltak for å hindre spredning av kategori A-sykdommen fra de rammede akvakulturdyrene og anlegget til akvakulturdyr som ikke er rammet:
+
+1. Forbud mot forflytning av akvakulturdyr til og fra anlegget.
+2. Forbud mot forflytning som ikke er strengt nødvendig av transportmidler og utstyr fra anlegget.
+3. Forbud mot slakting av akvakulturdyr til konsum.
+4. Dersom det er teknisk mulig og anses som nødvendig, pålegge at alle akvakulturdyr isoleres.
+5. Dersom det er praktisk gjennomførbart, innføre passende midler og tiltak for å holde fugler og andre predatorer under kontroll.
 
 2\. Vedkommende myndighet kan pålegge forebyggende avliving av listeførte arter i rammede anlegg der det er mistanke om en kategori A-sykdom, forutsatt at alle nødvendige biosikkerhetstiltak og andre risikoreduserende tiltak er iverksatt for å hindre at kategori A-sykdommen sprer seg fra anlegget.
 
@@ -1016,7 +1541,11 @@ Foreløpige restriksjons- og biosikkerhetstiltak som skal iverksettes ved mistan
 
 Fortegnelse og analyse av journaler ved mistanke om en kategori A-sykdom hos akvakulturdyr
 
-1\. Ved mistanke om en kategori A-sykdom skal vedkommende myndighet pålegge og kontrollere at driftsansvarlige i anleggene der det er mistanke om en kategori A-sykdom, omgående utarbeider og opprettholder en ajourført fortegnelse over følgende:Artene, kategoriene og mengdene (antall, volum eller vekt) av alle akvakulturdyr som holdes i anlegget.Alle produkter, materialer eller stoffer som trolig er kontaminert med eller trolig kan overføre kategori A-sykdommen.Dødeligheten i hver epidemiologiske enhet i anlegget, som registreres daglig.
+1\. Ved mistanke om en kategori A-sykdom skal vedkommende myndighet pålegge og kontrollere at driftsansvarlige i anleggene der det er mistanke om en kategori A-sykdom, omgående utarbeider og opprettholder en ajourført fortegnelse over følgende:
+
+1. Artene, kategoriene og mengdene (antall, volum eller vekt) av alle akvakulturdyr som holdes i anlegget.
+2. Alle produkter, materialer eller stoffer som trolig er kontaminert med eller trolig kan overføre kategori A-sykdommen.
+3. Dødeligheten i hver epidemiologiske enhet i anlegget, som registreres daglig.
 
 2\. Som ledd i den epidemiologiske undersøkelsen nevnt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429) og som utføres i anlegg der det er mistanke om sykdommen, skal de offentlige veterinærene analysere minst de journalene som er oppført i artikkel 186 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429).
 
@@ -1024,19 +1553,31 @@ Fortegnelse og analyse av journaler ved mistanke om en kategori A-sykdom hos akv
 
 Utvidelse av tiltak for sykdomsbekjempelse til andre anlegg ved mistanke om en kategori A-sykdom
 
-For å hindre spredning av en kategori A-sykdom skal vedkommende myndighet gjennomføre en undersøkelse i samsvar med artikkel 71, og skal etter å ha foretatt en risikovurdering utvide de relevante tiltakene fastsatt i artikkel 72 og 73 tilanlegg som ligger i samme segment som anlegget der det er mistanke om sykdommen, eller som på grunn av avstand, hydrodynamiske forhold eller topografiske forhold, har økt risiko for å bli rammet av den aktuelle sykdomsagensen fra anlegget der det er mistanke om sykdommen,alle andre anlegg enn dem som er nevnt i bokstav a), som har en direkte epidemiologisk forbindelse med anlegget der det er mistanke om sykdommen.
+For å hindre spredning av en kategori A-sykdom skal vedkommende myndighet gjennomføre en undersøkelse i samsvar med artikkel 71, og skal etter å ha foretatt en risikovurdering utvide de relevante tiltakene fastsatt i artikkel 72 og 73 til
+
+1. anlegg som ligger i samme segment som anlegget der det er mistanke om sykdommen, eller som på grunn av avstand, hydrodynamiske forhold eller topografiske forhold, har økt risiko for å bli rammet av den aktuelle sykdomsagensen fra anlegget der det er mistanke om sykdommen,
+2. alle andre anlegg enn dem som er nevnt i bokstav a), som har en direkte epidemiologisk forbindelse med anlegget der det er mistanke om sykdommen.
 
 ###### Artikkel 75
 
 Midlertidige restriksjonssoner rundt anlegget
 
-Vedkommende myndighet kan opprette en midlertidig restriksjonssone rundt det anlegget der det er mistanke om en kategori A-sykdom, og der det er iverksatt foreløpige tiltak for sykdomsbekjempelse som nevnt i artikkel 72 og 73, idet det tas hensyn til følgende omstendigheter:Beliggenheten til anlegget i et område med andre anlegg der det holdes akvakulturdyr av listeførte arter som det er mistanke om en kategori A-sykdom hos.Forflytning av dyr i nærheten av det mistenkte anlegget.Hvor lang tid det tar før kategori A-sykdommen bekreftes i samsvar med artikkel 77.Utilstrekkelige opplysninger om mulig opprinnelse for den mistenkte kategori A-sykdommen og hvilke måter den kan ha blitt innført på.Sykdomsprofilen, særlig hvordan og hvor raskt sykdommen overføres, og sykdommens persistens i den aktuelle populasjonen av akvakulturdyr av listeførte arter.
+Vedkommende myndighet kan opprette en midlertidig restriksjonssone rundt det anlegget der det er mistanke om en kategori A-sykdom, og der det er iverksatt foreløpige tiltak for sykdomsbekjempelse som nevnt i artikkel 72 og 73, idet det tas hensyn til følgende omstendigheter:
+
+1. Beliggenheten til anlegget i et område med andre anlegg der det holdes akvakulturdyr av listeførte arter som det er mistanke om en kategori A-sykdom hos.
+2. Forflytning av dyr i nærheten av det mistenkte anlegget.
+3. Hvor lang tid det tar før kategori A-sykdommen bekreftes i samsvar med artikkel 77.
+4. Utilstrekkelige opplysninger om mulig opprinnelse for den mistenkte kategori A-sykdommen og hvilke måter den kan ha blitt innført på.
+5. Sykdomsprofilen, særlig hvordan og hvor raskt sykdommen overføres, og sykdommens persistens i den aktuelle populasjonen av akvakulturdyr av listeførte arter.
 
 ###### Artikkel 76
 
 Tiltak som skal iverksettes ved mistanke om en kategori A-sykdom i næringsmiddel- og fôrforetak, i rensesentraler, i ekspedisjonssentraler, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler
 
-1\. Ved mistanke om en kategori A-sykdom i samsvar med artikkel 9 nr. 1, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) i næringsmiddel- og fôrforetak, i rensesentraler, i ekspedisjonssentraler, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet iverksettetiltakene fastsatt i artikkel 71–75, ogom nødvendig ytterligere tiltak som er tilpasset den aktuelle situasjonen for å hindre at kategori A-sykdommen spres fra de mistenkte dyrene og anleggene eller stedene til dyr som ikke er rammet.
+1\. Ved mistanke om en kategori A-sykdom i samsvar med artikkel 9 nr. 1, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) i næringsmiddel- og fôrforetak, i rensesentraler, i ekspedisjonssentraler, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet iverksette
+
+1. tiltakene fastsatt i artikkel 71–75, og
+2. om nødvendig ytterligere tiltak som er tilpasset den aktuelle situasjonen for å hindre at kategori A-sykdommen spres fra de mistenkte dyrene og anleggene eller stedene til dyr som ikke er rammet.
 
 2\. Vedkommende myndighet skal anvende bestemmelsene i artikkel 71–75 også i opprinnelsesanlegget for de dyrene eller produktene som befinner seg i anleggene og på stedene nevnt i nr. 1.
 
@@ -1054,9 +1595,27 @@ Vedkommende myndighet skal offisielt bekrefte et utbrudd av en kategori A-sykdom
 
 Tiltak for sykdomsbekjempelse ved offisiell bekreftelse av et utbrudd av en kategori A-sykdom i et anlegg
 
-1\. Etter offisiell bekreftelse av et utbrudd av en kategori A-sykdom i samsvar med artikkel 77, skal vedkommende myndighet i tillegg til tiltakene i artikkel 72 og 73 pålegge at følgende tiltak for sykdomsbekjempelse iverksettes umiddelbart under tilsyn av offentlige veterinærer i anlegget der det er et offisielt bekreftet utbrudd av en kategori A-sykdom:Fisk og krepsdyr av listeførte arter skal avlives så snart som mulig, og bløtdyr av listeførte arter skal tas opp av vannet så snart som mulig.De dyrene som er nevnt i bokstav a), skal som unntak fra artikkel 10 bokstav i) i forordning (EF) nr. 1069/2009 sluttbehandles som kategori 1- eller kategori 2-materiale i samsvar med nevnte forordning.Tiltakene fastsatt i bokstav a) og b) skal gjennomføres enteni anlegget der det er et offisielt bekreftet utbrudd av en kategori A-sykdom, med etterfølgende bearbeiding på stedet, elleri et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, eller i et anlegg som er godkjent i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) for bearbeiding eller sluttbehandling på en måte som hindrer risiko for spredning av kategori A-sykdommen.Akvakulturdyr av ikke-listeførte arter skal så snart som mulig avlives eller slaktes for konsum, eller når det gjelder bløtdyr, tas opp av vannet i samsvar med nr. 1 bokstav b).Det skal iverksettes passende tiltak for å begrense mulig spredning av kategori A-sykdommen til og fra viltlevende akvatiske dyr som muligens kan være i epidemiologisk kontakt med anlegget.Alle potensielt kontaminerte produkter, materialer og stoffer skal isoleres inntilde sluttbehandles i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), når det gjelder animalske biprodukter,de som unntak fra artikkel 10 bokstav i) i forordning (EF) nr. 1069/2009 sluttbehandles eller bearbeides som kategori 1- eller kategori 2-materiale i samsvar med nevnte forordning, når det gjelder produkter av animalsk opprinnelse,tiltakene for rengjøring og desinfisering er gjennomført i samsvar med bestemmelsene i artikkel 80, når det gjelder materialer og stoffer som er egnet til rengjøring og desinfisering,de fjernes fra anlegget og sluttbehandles under tilsyn av offentlige veterinærer, når det gjelder fôrvarer og andre materialer som ikke er egnet til rengjøring og desinfisering.
+1\. Etter offisiell bekreftelse av et utbrudd av en kategori A-sykdom i samsvar med artikkel 77, skal vedkommende myndighet i tillegg til tiltakene i artikkel 72 og 73 pålegge at følgende tiltak for sykdomsbekjempelse iverksettes umiddelbart under tilsyn av offentlige veterinærer i anlegget der det er et offisielt bekreftet utbrudd av en kategori A-sykdom:
 
-2\. Vedkommende myndighet skal pålegge og føre tilsyn med attransporten fra det rammede anlegget av animalske biprodukter nevnt i nr. 1 bokstav f) i) og av produkter av animalsk opprinnelse nevnt i nr. 1 bokstav f) ii) er i samsvar med bestemmelsene i forordning [(EF) nr. 1069/2009](eu/32009r1069), ogtransporten fra det rammede anlegget av materialer eller stoffer nevnt i nr. 1 bokstav f) iv) er i samsvar med vedkommende myndighets instruksjoner om biosikkerhetsmessige forhold for å hindre spredning av kategori A-sykdomsagensen.
+1. Fisk og krepsdyr av listeførte arter skal avlives så snart som mulig, og bløtdyr av listeførte arter skal tas opp av vannet så snart som mulig.
+2. De dyrene som er nevnt i bokstav a), skal som unntak fra artikkel 10 bokstav i) i forordning (EF) nr. 1069/2009 sluttbehandles som kategori 1- eller kategori 2-materiale i samsvar med nevnte forordning.
+3. Tiltakene fastsatt i bokstav a) og b) skal gjennomføres enten
+
+   1. i anlegget der det er et offisielt bekreftet utbrudd av en kategori A-sykdom, med etterfølgende bearbeiding på stedet, eller
+   2. i et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, eller i et anlegg som er godkjent i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069) for bearbeiding eller sluttbehandling på en måte som hindrer risiko for spredning av kategori A-sykdommen.
+4. Akvakulturdyr av ikke-listeførte arter skal så snart som mulig avlives eller slaktes for konsum, eller når det gjelder bløtdyr, tas opp av vannet i samsvar med nr. 1 bokstav b).
+5. Det skal iverksettes passende tiltak for å begrense mulig spredning av kategori A-sykdommen til og fra viltlevende akvatiske dyr som muligens kan være i epidemiologisk kontakt med anlegget.
+6. Alle potensielt kontaminerte produkter, materialer og stoffer skal isoleres inntil
+
+   1. de sluttbehandles i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), når det gjelder animalske biprodukter,
+   2. de som unntak fra artikkel 10 bokstav i) i forordning (EF) nr. 1069/2009 sluttbehandles eller bearbeides som kategori 1- eller kategori 2-materiale i samsvar med nevnte forordning, når det gjelder produkter av animalsk opprinnelse,
+   3. tiltakene for rengjøring og desinfisering er gjennomført i samsvar med bestemmelsene i artikkel 80, når det gjelder materialer og stoffer som er egnet til rengjøring og desinfisering,
+   4. de fjernes fra anlegget og sluttbehandles under tilsyn av offentlige veterinærer, når det gjelder fôrvarer og andre materialer som ikke er egnet til rengjøring og desinfisering.
+
+2\. Vedkommende myndighet skal pålegge og føre tilsyn med at
+
+1. transporten fra det rammede anlegget av animalske biprodukter nevnt i nr. 1 bokstav f) i) og av produkter av animalsk opprinnelse nevnt i nr. 1 bokstav f) ii) er i samsvar med bestemmelsene i forordning [(EF) nr. 1069/2009](eu/32009r1069), og
+2. transporten fra det rammede anlegget av materialer eller stoffer nevnt i nr. 1 bokstav f) iv) er i samsvar med vedkommende myndighets instruksjoner om biosikkerhetsmessige forhold for å hindre spredning av kategori A-sykdomsagensen.
 
 3\. Som unntak fra nr. 1 bokstav a) kan vedkommende myndighet etter å ha foretatt en risikovurdering, tillate slakting for konsum av fisk eller krepsdyr, eller når det gjelder bløtdyr, opptak fra vannet, i anlegget eller i et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, forutsatt at det treffes hensiktsmessige biosikkerhetstiltak og andre risikoreduserende tiltak for å hindre spredning av kategori A-sykdommen. Alle animalske biprodukter som er en følge av dette unntaket, skal som unntak fra artikkel 10 bokstav i) i forordning (EF) nr. 1069/2009 bearbeides eller sluttbehandles som kategori 1- eller kategori 2-materiale i samsvar med nevnte forordning.
 
@@ -1068,17 +1627,32 @@ Tiltak for sykdomsbekjempelse ved offisiell bekreftelse av et utbrudd av en kate
 
 Særlige unntak fra bekjempelsestiltak i anlegg der listeførte arter holdes for vitenskapelige formål eller i forbindelse med bevaring av utryddelsestruede arter
 
-1\. Vedkommende myndighet kan gi unntak fra tiltakene fastsatt i artikkel 78 nr. 1 bokstav a) og c) ved offisiell bekreftelse av en kategori A-sykdom i anlegg der listeførte arter holdes for vitenskapelige formål eller i forbindelse med bevaring av utryddelsestruede arter, forutsatt atdyrehelsestatusen i den berørte medlemsstaten, eller i andre medlemsstater, ikke settes i fare, ogalle hensiktsmessige biosikkerhetstiltak oppført i artikkel 78 treffes for å hindre risiko for spredning av kategori A-sykdomsagensen.
+1\. Vedkommende myndighet kan gi unntak fra tiltakene fastsatt i artikkel 78 nr. 1 bokstav a) og c) ved offisiell bekreftelse av en kategori A-sykdom i anlegg der listeførte arter holdes for vitenskapelige formål eller i forbindelse med bevaring av utryddelsestruede arter, forutsatt at
 
-2\. Dersom det gis unntak i samsvar med nr. 1, skal vedkommende myndighet sikre at akvakulturdyr av listeførte arter som omfattes av unntaket,holdes i lokaler der det er iverksatt hensiktsmessige biosikkerhetstiltak for å unngå spredning av den aktuelle kategori A-sykdommen, oger underlagt fortsatt overvåking og laboratorieundersøkelse og ikke flyttes fra anlegget før laboratorietestene viser at de ikke lenger utgjør noen risiko for ytterligere spredning av den aktuelle kategori A-sykdommen.
+1. dyrehelsestatusen i den berørte medlemsstaten, eller i andre medlemsstater, ikke settes i fare, og
+2. alle hensiktsmessige biosikkerhetstiltak oppført i artikkel 78 treffes for å hindre risiko for spredning av kategori A-sykdomsagensen.
+
+2\. Dersom det gis unntak i samsvar med nr. 1, skal vedkommende myndighet sikre at akvakulturdyr av listeførte arter som omfattes av unntaket,
+
+1. holdes i lokaler der det er iverksatt hensiktsmessige biosikkerhetstiltak for å unngå spredning av den aktuelle kategori A-sykdommen, og
+2. er underlagt fortsatt overvåking og laboratorieundersøkelse og ikke flyttes fra anlegget før laboratorietestene viser at de ikke lenger utgjør noen risiko for ytterligere spredning av den aktuelle kategori A-sykdommen.
 
 ###### Artikkel 80
 
 Rengjøring og desinfisering
 
-1\. Umiddelbart etter at tiltakene for sykdomsbekjempelse i artikkel 78 er gjennomført, skal vedkommende myndighet pålegge de driftsansvarlige å rengjøre og desinfisereanlegget, i den grad vedkommende myndighet anser at det er teknisk mulig,alt utstyr knyttet til dyrehold, herunder, men ikke begrenset til utstyr til fôr, sortering, behandling, vaksinasjon, samt arbeidsbåter,alt produksjonsrelatert utstyr, herunder, men ikke begrenset til merder, nett, stativer, notposer og liner,alt vernetøy eller sikkerhetsutstyr som brukes av driftsansvarlige og besøkende, ogalle transportmidler, herunder tanker og annet utstyr som brukes til å flytte smittede dyr eller personale som har vært i kontakt med smittede dyr.
+1\. Umiddelbart etter at tiltakene for sykdomsbekjempelse i artikkel 78 er gjennomført, skal vedkommende myndighet pålegge de driftsansvarlige å rengjøre og desinfisere
 
-2\. Rengjøringen og desinfiseringen fastsatt i artikkel 1 skal utføresi samsvar med en protokoll som vedkommende myndighet og den driftsansvarlige på forhånd er blitt enige om, ogunder tilsyn av offentlige veterinærer.
+1. anlegget, i den grad vedkommende myndighet anser at det er teknisk mulig,
+2. alt utstyr knyttet til dyrehold, herunder, men ikke begrenset til utstyr til fôr, sortering, behandling, vaksinasjon, samt arbeidsbåter,
+3. alt produksjonsrelatert utstyr, herunder, men ikke begrenset til merder, nett, stativer, notposer og liner,
+4. alt vernetøy eller sikkerhetsutstyr som brukes av driftsansvarlige og besøkende, og
+5. alle transportmidler, herunder tanker og annet utstyr som brukes til å flytte smittede dyr eller personale som har vært i kontakt med smittede dyr.
+
+2\. Rengjøringen og desinfiseringen fastsatt i artikkel 1 skal utføres
+
+1. i samsvar med en protokoll som vedkommende myndighet og den driftsansvarlige på forhånd er blitt enige om, og
+2. under tilsyn av offentlige veterinærer.
 
 ###### Artikkel 81
 
@@ -1090,21 +1664,35 @@ Etter at rengjøringen og desinfiseringen fastsatt i artikkel 80 er gjennomført
 
 Utvidelse av tiltak for sykdomsbekjempelse ved bekreftelse av en kategori A-sykdom
 
-For å hindre spredning av en kategori A-sykdom skal vedkommende myndighet gjennomføre en undersøkelse i samsvar med artikkel 71, og skal etter å ha foretatt en risikovurdering utvide noen av eller alle tiltakene fastsatt i artikkel 78, 80 og 81 tilanlegg i samme segment eller som på grunn av avstand, hydrodynamiske forhold eller topografiske forhold, har økt risiko for å bli rammet av den aktuelle sykdomsagensen fra det mistenkte anlegget der sykdommen er bekreftet,alle anlegg som ifølge den undersøkelsen som er fastsatt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429), har vist en direkte epidemiologisk forbindelse med anlegget der sykdommen er bekreftet.
+For å hindre spredning av en kategori A-sykdom skal vedkommende myndighet gjennomføre en undersøkelse i samsvar med artikkel 71, og skal etter å ha foretatt en risikovurdering utvide noen av eller alle tiltakene fastsatt i artikkel 78, 80 og 81 til
+
+1. anlegg i samme segment eller som på grunn av avstand, hydrodynamiske forhold eller topografiske forhold, har økt risiko for å bli rammet av den aktuelle sykdomsagensen fra det mistenkte anlegget der sykdommen er bekreftet,
+2. alle anlegg som ifølge den undersøkelsen som er fastsatt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429), har vist en direkte epidemiologisk forbindelse med anlegget der sykdommen er bekreftet.
 
 ###### Artikkel 83
 
 Bringe i omsetning produkter av animalsk opprinnelse fra akvakulturdyr av listeførte arter som er produsert i infiserte anlegg
 
-1\. Når vedkommende myndighet gir unntak i samsvar med artikkel 78 nr. 5, kan den tillate at produkter av animalsk opprinnelse bringes i omsetning bare dersom følgende vilkår er oppfylt:Fisk skal være slaktet og sløyd før avsendelsen.Bløtdyr og krepsdyr skal være fullt ut sporbare og før avsendelsen være foredlet til ikke-levedyktige produkter som ikke overlever dersom de slippes ut i vann igjen.Når det er nødvendig med rensing før produktene foredles og bringes i omsetning, skal den utføres i et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, eller i en biologisk sikker rensesentral.
+1\. Når vedkommende myndighet gir unntak i samsvar med artikkel 78 nr. 5, kan den tillate at produkter av animalsk opprinnelse bringes i omsetning bare dersom følgende vilkår er oppfylt:
 
-2\. De animalske biproduktene nevnt i nr. 1 skal være beregnet påsluttforbrukeren direkte, ellervidereforedling ved et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
+1. Fisk skal være slaktet og sløyd før avsendelsen.
+2. Bløtdyr og krepsdyr skal være fullt ut sporbare og før avsendelsen være foredlet til ikke-levedyktige produkter som ikke overlever dersom de slippes ut i vann igjen.
+
+Når det er nødvendig med rensing før produktene foredles og bringes i omsetning, skal den utføres i et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, eller i en biologisk sikker rensesentral.
+
+2\. De animalske biproduktene nevnt i nr. 1 skal være beregnet på
+
+1. sluttforbrukeren direkte, eller
+2. videreforedling ved et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
 
 ###### Artikkel 84
 
 Tiltak som skal iverksettes ved bekreftelse av en kategori A-sykdom i næringsmiddel- og fôrforetak, i rensesentraler, i ekspedisjonssentraler, på grensekontrollstasjoner eller på andre relevante steder, inkludert transportmidler
 
-1\. Ved bekreftelse av en kategori A-sykdom i næringsmiddel- og fôrforetak, i rensesentraler, i ekspedisjonssentraler, på grensekontrollstasjoner eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet i samsvar med artikkel 77, iverksettetiltakene fastsatt i artikkel 78, 80 og 81, ogom nødvendig ytterligere tiltak som er tilpasset den aktuelle situasjonen for å hindre at kategori A-sykdommen spres fra de rammede dyrene og anleggene eller stedene til dyr som ikke er rammet.
+1\. Ved bekreftelse av en kategori A-sykdom i næringsmiddel- og fôrforetak, i rensesentraler, i ekspedisjonssentraler, på grensekontrollstasjoner eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet i samsvar med artikkel 77, iverksette
+
+1. tiltakene fastsatt i artikkel 78, 80 og 81, og
+2. om nødvendig ytterligere tiltak som er tilpasset den aktuelle situasjonen for å hindre at kategori A-sykdommen spres fra de rammede dyrene og anleggene eller stedene til dyr som ikke er rammet.
 
 2\. Vedkommende myndighet skal anvende bestemmelsene i artikkel 78, 80 og 81 også i opprinnelsesanleggene for de dyrene eller produktene som befinner seg i anleggene og på stedene nevnt i nr. 1.
 
@@ -1119,15 +1707,31 @@ Generelle tiltak for sykdomsbekjempelse i restriksjonssonen
 
 Opprettelse av en restriksjonssone
 
-1\. Ved offisiell bekreftelse av et utbrudd av en kategori A-sykdom i et anlegg, et næringsmiddel- og fôrforetak, et anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet umiddelbart opprette en restriksjonssone rundt det rammede anlegget eller stedet, som omfatteren vernesone rundt det anlegget eller stedet der kategori A-sykdommen er bekreftet,en overvåkingssone rundt vernesonen, ogom nødvendig på grunnlag av kriteriene i artikkel 64 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), ytterligere restriksjonssoner rundt eller tilgrensende til verne- og overvåkingssonene.
+1\. Ved offisiell bekreftelse av et utbrudd av en kategori A-sykdom i et anlegg, et næringsmiddel- og fôrforetak, et anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler, skal vedkommende myndighet umiddelbart opprette en restriksjonssone rundt det rammede anlegget eller stedet, som omfatter
 
-2\. Sonenes omfang skal fastsettes for hvert enkelt tilfelle, idet det tas hensyn til faktorer som påvirker risikoen for at sykdommen sprer seg. I denne forbindelse skal vedkommende myndighet ta følgende data og kriterier i betraktning:Data fra den epidemiologiske undersøkelsen fastsatt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429).Relevante hydrodynamiske data.Kriterier oppført i artikkel 64 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429).Kriterier fastsatt i vedlegg XIV til denne forordningen.
+1. en vernesone rundt det anlegget eller stedet der kategori A-sykdommen er bekreftet,
+2. en overvåkingssone rundt vernesonen, og
+3. om nødvendig på grunnlag av kriteriene i artikkel 64 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), ytterligere restriksjonssoner rundt eller tilgrensende til verne- og overvåkingssonene.
+
+2\. Sonenes omfang skal fastsettes for hvert enkelt tilfelle, idet det tas hensyn til faktorer som påvirker risikoen for at sykdommen sprer seg. I denne forbindelse skal vedkommende myndighet ta følgende data og kriterier i betraktning:
+
+1. Data fra den epidemiologiske undersøkelsen fastsatt i artikkel 57 i forordning [(EU) 2016/429](eu/32016r0429).
+2. Relevante hydrodynamiske data.
+3. Kriterier oppført i artikkel 64 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429).
+4. Kriterier fastsatt i vedlegg XIV til denne forordningen.
 
 3\. Vedkommende myndighet skal tilpasse den opprinnelige restriksjonssonens grenser, herunder vernesonenes, overvåkingssonenes og de ytterligere restriksjonssonenes grenser, ved overlapping mellom to eller flere restriksjonssoner som følge av ytterligere utbrudd av kategori A-sykdommen.
 
-4\. Som unntak fra nr. 1 kan vedkommende myndighet på grunn av bestemte geografiske, hydrodynamiske og epidemiologiske omstendigheter, og etter å ha foretatt en risikovurdering som tar hensyn til sykdomsprofilen,unnlate å opprette en restriksjonssone som fastsatt i nr. 1 rundt det infiserte anlegget eller stedet,opprette en restriksjonssone som består av en vernesone uten noen tilgrensende overvåkingssone,unnlate å opprette en restriksjonssone når en kategori A-sykdom er bekreftet i næringsmiddel- og fôrforetak, i rensesentraler, i ekspedisjonssentraler, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler.
+4\. Som unntak fra nr. 1 kan vedkommende myndighet på grunn av bestemte geografiske, hydrodynamiske og epidemiologiske omstendigheter, og etter å ha foretatt en risikovurdering som tar hensyn til sykdomsprofilen,
 
-5\. Vedkommende myndighet kan, i den grad det er nødvendig og etter å ha foretatt en risikovurdering som tar hensyn til geografiske, hydrodynamiske og epidemiologiske omstendigheter og sykdomsprofilen, gi unntak fra bestemmelsene i dette kapitteleti de ytterligere restriksjonssonene, ogdersom vedkommende myndighet beslutter å opprette restriksjonssonen når et utbrudd av en kategori A-sykdom forekommer i anlegg eller på andre relevante steder nevnt i artikkel 4 bokstav c).
+1. unnlate å opprette en restriksjonssone som fastsatt i nr. 1 rundt det infiserte anlegget eller stedet,
+2. opprette en restriksjonssone som består av en vernesone uten noen tilgrensende overvåkingssone,
+3. unnlate å opprette en restriksjonssone når en kategori A-sykdom er bekreftet i næringsmiddel- og fôrforetak, i rensesentraler, i ekspedisjonssentraler, på grensekontrollstasjoner, i anlegg for animalske biprodukter eller på andre relevante steder, inkludert transportmidler.
+
+5\. Vedkommende myndighet kan, i den grad det er nødvendig og etter å ha foretatt en risikovurdering som tar hensyn til geografiske, hydrodynamiske og epidemiologiske omstendigheter og sykdomsprofilen, gi unntak fra bestemmelsene i dette kapittelet
+
+1. i de ytterligere restriksjonssonene, og
+2. dersom vedkommende myndighet beslutter å opprette restriksjonssonen når et utbrudd av en kategori A-sykdom forekommer i anlegg eller på andre relevante steder nevnt i artikkel 4 bokstav c).
 
 ###### Artikkel 86
 
@@ -1147,7 +1751,14 @@ Tiltak for sykdomsbekjempelse i vernesonen
 
 Tiltak som skal iverksettes i anlegg der det holdes akvakulturdyr i vernesonen
 
-1\. Vedkommende myndighet skal pålegge driftsansvarlige for anlegg der det holdes akvakulturdyr av alle arter i vernesonen, bortsett fra det anlegget der kategori A-sykdommen er bekreftet, å gjennomføre minst følgende tiltak for å forebygge og bekjempe spredning av sykdommen:Omgående ajourføre opplysningene i fortegnelsen fastsatt i artikkel 73 nr. 1.Om det er praktisk mulig, iverksette passende tiltak for å begrense mulig spredning av kategori A-sykdommen til og fra viltlevende akvatiske dyr som muligens kan være i epidemiologisk kontakt med anlegget.Hindre at akvakulturdyr fjernes fra anlegget der de holdes, med mindre vedkommende myndighet har gitt tillatelse til dette.Iverksette hensiktsmessige biosikkerhetstiltak for alle produkter, utstyrsdeler, materialer eller stoffer som trolig kan spre den aktuelle kategori A-sykdommen.Redusere antallet besøkende til så få som er strengt nødvendig for å drive anlegget på en korrekt måte.Dersom det er praktisk mulig, bruke egnede rengjørings- og desinfeksjonsmidler ved inn- og utgangene til anlegget.
+1\. Vedkommende myndighet skal pålegge driftsansvarlige for anlegg der det holdes akvakulturdyr av alle arter i vernesonen, bortsett fra det anlegget der kategori A-sykdommen er bekreftet, å gjennomføre minst følgende tiltak for å forebygge og bekjempe spredning av sykdommen:
+
+1. Omgående ajourføre opplysningene i fortegnelsen fastsatt i artikkel 73 nr. 1.
+2. Om det er praktisk mulig, iverksette passende tiltak for å begrense mulig spredning av kategori A-sykdommen til og fra viltlevende akvatiske dyr som muligens kan være i epidemiologisk kontakt med anlegget.
+3. Hindre at akvakulturdyr fjernes fra anlegget der de holdes, med mindre vedkommende myndighet har gitt tillatelse til dette.
+4. Iverksette hensiktsmessige biosikkerhetstiltak for alle produkter, utstyrsdeler, materialer eller stoffer som trolig kan spre den aktuelle kategori A-sykdommen.
+5. Redusere antallet besøkende til så få som er strengt nødvendig for å drive anlegget på en korrekt måte.
+6. Dersom det er praktisk mulig, bruke egnede rengjørings- og desinfeksjonsmidler ved inn- og utgangene til anlegget.
 
 2\. Vedkommende myndighet skal pålegge og føre tilsyn med at den driftsansvarlige har bearbeidet eller sluttbehandlet animalske biprodukter fra akvakulturdyr av listeførte arter som har dødd eller er avlivet, herunder bløtdyrskall med kjøtt, som materiale i den aktuelle kategorien i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069), i anlegg der det holdes listeførte arter i vernesonen.
 
@@ -1159,7 +1770,12 @@ Besøk av offentlige veterinærer i anlegg som ligger i vernesonen
 
 1\. Vedkommende myndighet skal sikre at offentlige veterinærer foretar minst ett besøk i alle anleggene nevnt i artikkel 87 så snart som mulig og omgående etter offisiell bekreftelse av et utbrudd av en kategori A-sykdom, idet anlegg som etter vedkommende myndighets vurdering utgjør en høy risiko for å bli rammet av eller spre sykdommen, prioriteres høyest.
 
-2\. Ved besøkene nevnt i nr. 1 skal de offentlige veterinærene minst utføre følgende:Dokumentkontroll og analyse av journaler.Verifisering av gjennomføring av de tiltakene som er ment å hindre innføring eller spredning av den aktuelle kategori A-sykdommen i samsvar med artikkel 87.Klinisk undersøkelse av akvakulturdyr av listeførte arter.Om nødvendig prøvetaking til laboratorieundersøkelse for å bekrefte eller utelukke forekomst av den aktuelle kategori A-sykdommen.
+2\. Ved besøkene nevnt i nr. 1 skal de offentlige veterinærene minst utføre følgende:
+
+1. Dokumentkontroll og analyse av journaler.
+2. Verifisering av gjennomføring av de tiltakene som er ment å hindre innføring eller spredning av den aktuelle kategori A-sykdommen i samsvar med artikkel 87.
+3. Klinisk undersøkelse av akvakulturdyr av listeførte arter.
+4. Om nødvendig prøvetaking til laboratorieundersøkelse for å bekrefte eller utelukke forekomst av den aktuelle kategori A-sykdommen.
 
 3\. Vedkommende myndighet kan kreve ytterligere veterinærbesøk i anlegget for å følge opp situasjonen.
 
@@ -1169,7 +1785,13 @@ Besøk av offentlige veterinærer i anlegg som ligger i vernesonen
 
 Forbud som gjelder forflytninger av akvakulturdyr, produkter fra akvakulturdyr, andre stoffer og materialer innenfor, fra eller til vernesonen
 
-1\. Vedkommende myndighet skal forby følgende forflytninger innenfor vernesonen:Forflytning av akvakulturdyr av listeførte arter mellom anlegg i vernesonen.Forflytning av akvakulturdyr av listeførte arter fra eller til vernesonen.Alle forflytninger fra anlegg i vernesonen av transportmidler og utstyr, produkter, materialer eller stoffer som trolig kan overføre den aktuelle kategori A-sykdommen.Transport av akvakulturdyr med brønnbåter gjennom vernesonen.Avsendelse av ubearbeidede animalske biprodukter fra akvakulturdyr av alle arter fra anlegg i vernesonen.
+1\. Vedkommende myndighet skal forby følgende forflytninger innenfor vernesonen:
+
+1. Forflytning av akvakulturdyr av listeførte arter mellom anlegg i vernesonen.
+2. Forflytning av akvakulturdyr av listeførte arter fra eller til vernesonen.
+3. Alle forflytninger fra anlegg i vernesonen av transportmidler og utstyr, produkter, materialer eller stoffer som trolig kan overføre den aktuelle kategori A-sykdommen.
+4. Transport av akvakulturdyr med brønnbåter gjennom vernesonen.
+5. Avsendelse av ubearbeidede animalske biprodukter fra akvakulturdyr av alle arter fra anlegg i vernesonen.
 
 2\. Vedkommende myndighet kan etter å ha foretatt en risikovurdering, utvide forbudene fastsatt i nr. 1 bokstav a)–d) til dyr av ikke-listeførte arter og produkter fra dem.
 
@@ -1179,25 +1801,53 @@ Alminnelige vilkår for å gi unntak fra forbud mot forflytning og transport av 
 
 1\. Som unntak fra forbudene fastsatt i artikkel 89 nr. 1 kan vedkommende myndighet tillate forflytning og transport av akvatiske dyr og produkter i de tilfellene som omfattes av artikkel 91–94, på de særlige vilkårene fastsatt i nevnte artikler og de alminnelige vilkårene fastsatt i nr. 2 i denne artikkelen.
 
-2\. Når vedkommende myndighet gir tillatelsene fastsatt i nr. 1, skal den sikre at følgende vilkår er oppfylt:Alle forflytninger skal foregå utelukkende via utpekte ruter, som avtalt med vedkommende myndighet, uten lossing eller opphold underveis.Eventuell utskifting og utslipp av vann under transporten skal skje i områder, i anlegg eller på steder for vannutskifting som er godkjent av vedkommende myndighet.Transportmidlene skal være konstruert og vedlikeholdt på en slik måte at de kan rengjøres og desinfiseres på en grundig måte.Transportmiddelet er rengjort og desinfisertfør transporten, ogetter transporten under den offentlig veterinærens tilsyn.Alle andre utfyllende biosikkerhetstiltak som vedkommende myndighet anser som nødvendige, skal iverksettes i forbindelse med transporten.
+2\. Når vedkommende myndighet gir tillatelsene fastsatt i nr. 1, skal den sikre at følgende vilkår er oppfylt:
+
+1. Alle forflytninger skal foregå utelukkende via utpekte ruter, som avtalt med vedkommende myndighet, uten lossing eller opphold underveis.
+2. Eventuell utskifting og utslipp av vann under transporten skal skje i områder, i anlegg eller på steder for vannutskifting som er godkjent av vedkommende myndighet.
+3. Transportmidlene skal være konstruert og vedlikeholdt på en slik måte at de kan rengjøres og desinfiseres på en grundig måte.
+4. Transportmiddelet er rengjort og desinfisert
+
+   1. før transporten, og
+   2. etter transporten under den offentlig veterinærens tilsyn.
+5. Alle andre utfyllende biosikkerhetstiltak som vedkommende myndighet anser som nødvendige, skal iverksettes i forbindelse med transporten.
 
 ###### Artikkel 91
 
 Særlige vilkår for slakting og forflytning for slakting eller foredling av akvakulturdyr av listeførte arter fra anlegg som ligger i vernesonen
 
-1\. Akvakulturdyr fra anlegg der det holdes listeførte arter i vernesonen, kanslaktes i anlegget i samsvar med biosikkerhetstiltak fastsatt av vedkommende myndighet, ellerflyttes for umiddelbar slakting for konsum til et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, ellernår det gjelder bløtdyr, tas opp av vannet og flyttes til et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, for rensing ved behov og videreforedling.
+1\. Akvakulturdyr fra anlegg der det holdes listeførte arter i vernesonen, kan
+
+1. slaktes i anlegget i samsvar med biosikkerhetstiltak fastsatt av vedkommende myndighet, eller
+2. flyttes for umiddelbar slakting for konsum til et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, eller
+3. når det gjelder bløtdyr, tas opp av vannet og flyttes til et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, for rensing ved behov og videreforedling.
 
 2\. Vedkommende myndighet kan etter å ha foretatt en risikovurdering på grunnlag av relevante epidemiologiske data, begrense bruken av tiltakene fastsatt i nr. 1 til anlegg der det utelukkende holdes akvakulturdyr av arter oppført i tredje kolonne i vedlegget til Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882).
 
-3\. Når vedkommende myndighet som er ansvarlig for næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, tillater forflytning av akvakulturdyr nevnt i nr. 1 bokstav b) skal denvære informert om at det er planlagt å sende akvakulturdyr av listeførte arter til næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr,samtykke i å motta de aktuelle akvakulturdyrene,føre tilsyn med og bekrefte overfor vedkommende avsendermyndighet at dyrene er blitt slaktet,sikre at akvakulturdyrene av listeførte arter med opprinnelse i vernesonen, holdes atskilt fra akvakulturdyr av listeførte arter med opprinnelse utenfor vernesonen, og at de slaktes eller foredles atskilt fra disse dyrene,overvåke slaktingen eller foredlingen,sikre at rengjøringen og desinfiseringen av lokalene er gjennomført før akvakulturdyr fra anlegg utenfor vernesonen slaktes eller foredles,sikre at produkter av animalsk opprinnelse fra akvakulturdyr oppfyller de særlige vilkårene for å bringe dem i omsetning som fastsatt i artikkel 92, ogsikre at animalske biprodukter fra slakting eller andre prosesser nevnt i nr. 1 bearbeides eller sluttbehandles i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
+3\. Når vedkommende myndighet som er ansvarlig for næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, tillater forflytning av akvakulturdyr nevnt i nr. 1 bokstav b) skal den
+
+1. være informert om at det er planlagt å sende akvakulturdyr av listeførte arter til næringsmiddelforetaket som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr,
+2. samtykke i å motta de aktuelle akvakulturdyrene,
+3. føre tilsyn med og bekrefte overfor vedkommende avsendermyndighet at dyrene er blitt slaktet,
+4. sikre at akvakulturdyrene av listeførte arter med opprinnelse i vernesonen, holdes atskilt fra akvakulturdyr av listeførte arter med opprinnelse utenfor vernesonen, og at de slaktes eller foredles atskilt fra disse dyrene,
+5. overvåke slaktingen eller foredlingen,
+6. sikre at rengjøringen og desinfiseringen av lokalene er gjennomført før akvakulturdyr fra anlegg utenfor vernesonen slaktes eller foredles,
+7. sikre at produkter av animalsk opprinnelse fra akvakulturdyr oppfyller de særlige vilkårene for å bringe dem i omsetning som fastsatt i artikkel 92, og
+8. sikre at animalske biprodukter fra slakting eller andre prosesser nevnt i nr. 1 bearbeides eller sluttbehandles i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
 ###### Artikkel 92
 
 Særlige vilkår for å bringe i omsetning produkter av animalsk opprinnelse fra akvakulturdyr av listeførte arter som er produsert i anlegg i vernesonen som ikke er rammet
 
-1\. Vedkommende myndighet kan tillate at produkter av animalsk opprinnelse framstilt fra akvakulturdyr av listeførte arter i anlegg i vernesonen som ikke er rammet, bringes i omsetning forutsatt at følgende vilkår er oppfylt:Fisk skal være slaktet og sløyd før avsendelsen.Bløtdyr og krepsdyr skal være fullt ut sporbare og før avsendelsen være foredlet til ikke-levedyktige produkter som ikke overlever dersom de slippes ut i vann igjen.
+1\. Vedkommende myndighet kan tillate at produkter av animalsk opprinnelse framstilt fra akvakulturdyr av listeførte arter i anlegg i vernesonen som ikke er rammet, bringes i omsetning forutsatt at følgende vilkår er oppfylt:
 
-2\. Produktene av animalsk opprinnelse nevnt i nr. 1 skal være beregnet pådirekte levering til sluttforbrukeren, ellervidereforedling ved et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
+1. Fisk skal være slaktet og sløyd før avsendelsen.
+2. Bløtdyr og krepsdyr skal være fullt ut sporbare og før avsendelsen være foredlet til ikke-levedyktige produkter som ikke overlever dersom de slippes ut i vann igjen.
+
+2\. Produktene av animalsk opprinnelse nevnt i nr. 1 skal være beregnet på
+
+1. direkte levering til sluttforbrukeren, eller
+2. videreforedling ved et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
 
 ###### Artikkel 93
 
@@ -1209,7 +1859,11 @@ Vedkommende myndighet kan tillate transport av ubearbeidede animalske biprodukte
 
 Risikoreduserende tiltak med hensyn til visse aktiviteter knyttet til akvatiske dyr i vernesonen
 
-1\. Vedkommende myndighet kan etter å ha foretatt en risikovurdering, iverksette risikoreduserende tiltak når det gjelderkommersielt fiske og sportsfiske i vernesonen,andre aktiviteter knyttet til akvatiske dyr i vernesonen, og som kan utgjøre en risiko for spredning av sykdommen, ogtransport av servicebåter som brukes til vedlikeholdsarbeid og behandling av akvatiske dyr i vernesonen.
+1\. Vedkommende myndighet kan etter å ha foretatt en risikovurdering, iverksette risikoreduserende tiltak når det gjelder
+
+1. kommersielt fiske og sportsfiske i vernesonen,
+2. andre aktiviteter knyttet til akvatiske dyr i vernesonen, og som kan utgjøre en risiko for spredning av sykdommen, og
+3. transport av servicebåter som brukes til vedlikeholdsarbeid og behandling av akvatiske dyr i vernesonen.
 
 2\. Vedkommende myndighet kan innenfor rammen av tiltakene fastsatt i nr. 1, dersom det er relevant, pålegge rengjøring og desinfisering av utstyr som har vært brukt i vannområder som ligger i vernesonen.
 
@@ -1239,9 +1893,15 @@ Fjerning av akvakulturdyr fra rammede anlegg og etterfølgende risikoreduserende
 
 Varighet av tiltak for sykdomsbekjempelse i vernesonen og gjeninnsetting i anlegg som ligger i vernesonen
 
-1\. Vedkommende myndighet skal opprettholde tiltakene for sykdomsbekjempelse i vernesonen som fastsatt i avsnitt 2 i dette kapittelet, tiltiltakene i artikkel 96 er utført og avsluttet, ogvedkommende myndighet på grunnlag av resultatene av de undersøkelsene som er foretatt i samsvar med artikkel 88, har utelukket all forekomst av den aktuelle kategori A-sykdommen i de andre anleggene i vernesonen.
+1\. Vedkommende myndighet skal opprettholde tiltakene for sykdomsbekjempelse i vernesonen som fastsatt i avsnitt 2 i dette kapittelet, til
 
-2\. Når vilkårene fastsatt i nr. 1 er oppfylt,skal vedkommende myndighet iverksette tiltakene fastsatt i avsnitt 3 i dette kapittelet i vernesonen i den perioden som er angitt i artikkel 101,kan det gjeninnsettes dyr i anleggene nevnt i artikkel 96 nr. 1 og 2 og som tidligere inngikk i vernesonen.
+1. tiltakene i artikkel 96 er utført og avsluttet, og
+2. vedkommende myndighet på grunnlag av resultatene av de undersøkelsene som er foretatt i samsvar med artikkel 88, har utelukket all forekomst av den aktuelle kategori A-sykdommen i de andre anleggene i vernesonen.
+
+2\. Når vilkårene fastsatt i nr. 1 er oppfylt,
+
+1. skal vedkommende myndighet iverksette tiltakene fastsatt i avsnitt 3 i dette kapittelet i vernesonen i den perioden som er angitt i artikkel 101,
+2. kan det gjeninnsettes dyr i anleggene nevnt i artikkel 96 nr. 1 og 2 og som tidligere inngikk i vernesonen.
 
 ###### Avsnitt 3
 
@@ -1292,15 +1952,27 @@ Tiltak for sykdomsbekjempelse hos viltlevende akvatiske dyr
 
 Tiltak ved et mistenkt tilfelle av en kategori A-sykdom hos viltlevende akvatiske dyr av listeførte arter
 
-Ved et mistenkt tilfelle av en kategori A-sykdom hos viltlevende akvatiske dyr av listeførte arter i samsvar med artikkel 9 nr. 1, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) skal vedkommende myndighetumiddelbart gjennomføre en undersøkelse av viltlevende akvatiske dyr av listeførte arter som er fisket, fanget, oppsamlet eller funnet døde, for å bekrefte eller utelukke forekomst av kategori A-sykdommen i samsvar med artikkel 71 nr. 2,sikre at alle animalske biprodukter fra viltlevende akvatiske dyr av listeførte arter som mistenkes å være smittet, herunder bløtdyrskall med kjøtt, bearbeides eller sluttbehandles som kategori 1- eller kategori 2-materiale i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069),sikre, om det er praktisk mulig, at alle materialer eller stoffer som trolig er blitt kontaminert av dyr som mistenkes å være rammet, eller av animalske biprodukter fra disse dyrene, rengjøres og desinfiseres eller sluttbehandles i samsvar med de offentlige veterinærenes instruksjoner og under disses tilsyn, ogframlegge relevante opplysninger til de driftsansvarlige eller myndighetene som er ansvarlig for forvaltningen av den aktuelle dyrepopulasjonen.
+Ved et mistenkt tilfelle av en kategori A-sykdom hos viltlevende akvatiske dyr av listeførte arter i samsvar med artikkel 9 nr. 1, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689) skal vedkommende myndighet
+
+1. umiddelbart gjennomføre en undersøkelse av viltlevende akvatiske dyr av listeførte arter som er fisket, fanget, oppsamlet eller funnet døde, for å bekrefte eller utelukke forekomst av kategori A-sykdommen i samsvar med artikkel 71 nr. 2,
+2. sikre at alle animalske biprodukter fra viltlevende akvatiske dyr av listeførte arter som mistenkes å være smittet, herunder bløtdyrskall med kjøtt, bearbeides eller sluttbehandles som kategori 1- eller kategori 2-materiale i samsvar med forordning [(EF) nr. 1069/2009](eu/32009r1069),
+3. sikre, om det er praktisk mulig, at alle materialer eller stoffer som trolig er blitt kontaminert av dyr som mistenkes å være rammet, eller av animalske biprodukter fra disse dyrene, rengjøres og desinfiseres eller sluttbehandles i samsvar med de offentlige veterinærenes instruksjoner og under disses tilsyn, og
+4. framlegge relevante opplysninger til de driftsansvarlige eller myndighetene som er ansvarlig for forvaltningen av den aktuelle dyrepopulasjonen.
 
 ###### Artikkel 103
 
 Tiltak ved et utbrudd av en kategori A-sykdom hos viltlevende akvatiske dyr av listeførte arter
 
-1\. Ved et offisielt bekreftet tilfelle av en kategori A-sykdom hos viltlevende akvatiske dyr av listeførte arter skal vedkommende myndighet fastsette en infisert sone på grunnlag avrelevante hydrodynamiske, topografiske og epidemiologiske forhold,sykdomsprofilen og den anslåtte populasjonen av akvatiske dyr av listeførte arter, ogrisikofaktorene som bidrar til spredning av den aktuelle kategori A-sykdommen, særlig med hensyn til risikoen for at sykdommen innføres i anlegg der det holdes dyr av listeførte arter.
+1\. Ved et offisielt bekreftet tilfelle av en kategori A-sykdom hos viltlevende akvatiske dyr av listeførte arter skal vedkommende myndighet fastsette en infisert sone på grunnlag av
 
-2\. Vedkommende myndighet kan tilpasse grensene for den opprinnelige infiserte sonenfor å bekjempe ytterligere spredning av den aktuelle kategori A-sykdommen, ogved bekreftelse av ytterligere utbrudd av en kategori A-sykdom hos viltlevende dyr.
+1. relevante hydrodynamiske, topografiske og epidemiologiske forhold,
+2. sykdomsprofilen og den anslåtte populasjonen av akvatiske dyr av listeførte arter, og
+3. risikofaktorene som bidrar til spredning av den aktuelle kategori A-sykdommen, særlig med hensyn til risikoen for at sykdommen innføres i anlegg der det holdes dyr av listeførte arter.
+
+2\. Vedkommende myndighet kan tilpasse grensene for den opprinnelige infiserte sonen
+
+1. for å bekjempe ytterligere spredning av den aktuelle kategori A-sykdommen, og
+2. ved bekreftelse av ytterligere utbrudd av en kategori A-sykdom hos viltlevende dyr.
 
 3\. Vedkommende myndighet skal omgående informere driftsansvarlige, andre berørte vedkommende myndigheter, berørte veterinærer og alle andre fysiske eller juridiske personer som er berørt, om sykdomsutbruddet og de bekjempelsestiltakene som er truffet.
 
@@ -1308,7 +1980,13 @@ Tiltak ved et utbrudd av en kategori A-sykdom hos viltlevende akvatiske dyr av l
 
 Tiltak som skal iverksettes i den infiserte sonen
 
-1\. I den infiserte sonen fastsatt i samsvar med artikkel 103 skal vedkommende myndighetgjennomføre risikoreduserende tiltak og forsterkede biosikkerhetstiltak for å hindre at kategori A-sykdommen spres fra de rammede dyrene og den infiserte sonen til dyr og områder som ikke er rammet,forby mennesker å flytte viltlevende akvatiske dyr av listeførte arter og produkter av animalsk opprinnelse fra disse dyrene fra den infiserte sonen,som unntak fra artikkel 10 bokstav i) i forordning (EF) nr. 1069/2009 sikre at alle animalske biprodukter fra viltlevende akvatiske dyr av listeførte arter i den infiserte sonen, herunder bløtdyrskall med kjøtt, bearbeides eller sluttbehandles som kategori 1- eller kategori 2-materiale i samsvar med nevnte forordning,sikre, om det er praktisk mulig, at alle materialer eller stoffer som trolig er blitt kontaminert av viltlevende akvatiske dyr av listeførte arter i den infiserte sonen, eller av animalske biprodukter fra disse dyrene, rengjøres og desinfiseres eller sluttbehandles i samsvar med de offentlige veterinærenes instruksjoner og under disses tilsyn, ogforby at deler av akvatiske dyr av listeførte arter som er fisket, fanget, oppsamlet eller funnet døde i den infiserte sonen, samt produkter, materialer eller stoffer som trolig er blitt kontaminert med en kategori A-sykdom i den infiserte sonen, føres inn i anlegg der det holdes akvakulturdyr av listeførte arter både innenfor og utenfor den infiserte sonen, eller til nedbørfelt eller kystområder utenfor den infiserte sonen.
+1\. I den infiserte sonen fastsatt i samsvar med artikkel 103 skal vedkommende myndighet
+
+1. gjennomføre risikoreduserende tiltak og forsterkede biosikkerhetstiltak for å hindre at kategori A-sykdommen spres fra de rammede dyrene og den infiserte sonen til dyr og områder som ikke er rammet,
+2. forby mennesker å flytte viltlevende akvatiske dyr av listeførte arter og produkter av animalsk opprinnelse fra disse dyrene fra den infiserte sonen,
+3. som unntak fra artikkel 10 bokstav i) i forordning (EF) nr. 1069/2009 sikre at alle animalske biprodukter fra viltlevende akvatiske dyr av listeførte arter i den infiserte sonen, herunder bløtdyrskall med kjøtt, bearbeides eller sluttbehandles som kategori 1- eller kategori 2-materiale i samsvar med nevnte forordning,
+4. sikre, om det er praktisk mulig, at alle materialer eller stoffer som trolig er blitt kontaminert av viltlevende akvatiske dyr av listeførte arter i den infiserte sonen, eller av animalske biprodukter fra disse dyrene, rengjøres og desinfiseres eller sluttbehandles i samsvar med de offentlige veterinærenes instruksjoner og under disses tilsyn, og
+5. forby at deler av akvatiske dyr av listeførte arter som er fisket, fanget, oppsamlet eller funnet døde i den infiserte sonen, samt produkter, materialer eller stoffer som trolig er blitt kontaminert med en kategori A-sykdom i den infiserte sonen, føres inn i anlegg der det holdes akvakulturdyr av listeførte arter både innenfor og utenfor den infiserte sonen, eller til nedbørfelt eller kystområder utenfor den infiserte sonen.
 
 2\. Som unntak fra nr. 1 bokstav b) og for å bevare verdifullt genetisk materiale kan vedkommende myndighet tillate forflytning av viltlevende akvatiske dyr av listeførte arter fra den infiserte sonen til et anlegg som vedkommende myndighet har godkjent for dette formålet, forutsatt at det er iverksatt hensiktsmessige biosikkerhetstiltak for å hindre spredning av kategori A-sykdommen. Bestemmelsesanlegget skal anses som et anlegg som ligger i den infiserte sonen i henhold til artikkel 108.
 
@@ -1318,7 +1996,11 @@ Ytterligere tiltak som skal iverksettes i den infiserte sonen
 
 1\. Vedkommende myndighet skal etter å ha foretatt en risikovurdering, fastsette hvilke ytterligere tiltak som er nødvendige for å bekjempe eller utrydde den aktuelle kategori A-sykdommen.
 
-2\. Som ledd i bekjempelsen eller utryddelsen av den aktuelle kategori A-sykdommen kan vedkommende myndighetsuspendere gjeninnsetting, fiske, oppsamling og fangst,pålegge obligatorisk rengjøring og desinfisering av fiskeutstyr og fiskebåter og annet utstyr som trolig er blitt kontaminert, ogintensivere fiske, oppsamling og fangst eller iverksette andre relevante tiltak for å utrydde sykdommen.
+2\. Som ledd i bekjempelsen eller utryddelsen av den aktuelle kategori A-sykdommen kan vedkommende myndighet
+
+1. suspendere gjeninnsetting, fiske, oppsamling og fangst,
+2. pålegge obligatorisk rengjøring og desinfisering av fiskeutstyr og fiskebåter og annet utstyr som trolig er blitt kontaminert, og
+3. intensivere fiske, oppsamling og fangst eller iverksette andre relevante tiltak for å utrydde sykdommen.
 
 3\. Tiltakene fastsatt i nr. 1 skal iverksettes etter samråd med og i samarbeid med den operative ekspertgruppen nevnt i artikkel 107 samt andre myndigheter og berørte parter.
 
@@ -1334,7 +2016,11 @@ Operativ ekspertgruppe
 
 1\. Ved et bekreftet tilfelle av en kategori A-sykdom hos viltlevende akvatiske dyr av listeførte arter skal vedkommende myndighet opprette en operativ ekspertgruppe som nevnt i artikkel 43 nr. 2 bokstav d) iii) i forordning [(EU) 2016/429](eu/32016r0429).
 
-2\. Den operative ekspertgruppen skal bistå vedkommende myndighet med åvurdere den epidemiologiske situasjonen og dens utvikling,fastsette den infiserte sonen, ogfastslå passende tiltak som skal iverksettes i den infiserte sonen, og varigheten av tiltakene.
+2\. Den operative ekspertgruppen skal bistå vedkommende myndighet med å
+
+1. vurdere den epidemiologiske situasjonen og dens utvikling,
+2. fastsette den infiserte sonen, og
+3. fastslå passende tiltak som skal iverksettes i den infiserte sonen, og varigheten av tiltakene.
 
 ###### Artikkel 108
 
@@ -1342,7 +2028,10 @@ Tiltak i anlegg som ligger i den infiserte sonen
 
 1\. I de anleggene der det holdes akvakulturdyr av listeførte arter i den infiserte sonen, skal vedkommende myndighet iverksette tiltakene fastsatt i artikkel 87.
 
-2\. I tillegg til tiltakene fastsatt i artikkel 87 skal vedkommende myndighet forby forflytning av akvakulturdyr som holdes i anlegg i den infiserte sonen,fra den infiserte sonen, ellertil andre anlegg som ligger i den infiserte sonen.
+2\. I tillegg til tiltakene fastsatt i artikkel 87 skal vedkommende myndighet forby forflytning av akvakulturdyr som holdes i anlegg i den infiserte sonen,
+
+1. fra den infiserte sonen, eller
+2. til andre anlegg som ligger i den infiserte sonen.
 
 3\. Vedkommende myndighet kan etter å ha foretatt en risikovurdering, begrense forbudet i nr. 2 til akvakulturdyr av listeførte arter.
 
@@ -1388,7 +2077,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 21. april 2021.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 17. desember 2019.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 17. desember 2019.
 
 |  |  |
 | --- | --- |
@@ -1407,15 +2098,51 @@ A.**Prøvetakingsmetoder**
 
 A.1
 
-PRØVETAKING AV DYR TIL KLINISKE UNDERSØKELSERKliniske undersøkelser skal om mulig omfattedyr som viser kliniske tegn på kategori A-sykdommer,dyr som nylig har dødd, trolig som følge av den mistenkte/bekreftede sykdommen,dyr med epidemiologisk forbindelse til et mistenkt eller bekreftet tilfelle, ogdyr som med positive eller tvetydige resultater har gjennomgått tidligere laboratorieundersøkelser.Dyrene som skal undersøkes, skal velges ut tilfeldig i et stort nok antall til å gjøre det mulig å påvise sykdommen, dersom den forekommer, om det ikke er noen åpenbare tegn på sykdommen eller skader post mortem som tyder på kategori A-sykdommer.Dyrene som skal undersøkes og prøvetakingsmetoden skal velges i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429). Dyrene som skal undersøkes og prøvetakingsmetoden skal fastsettes med hensyn til sykdomsprofilen ogformålet med prøvetakingen,de listeførte artene som holdes i anlegget,antallet dyr av listeførte arter som holdes i anlegget,kategorien av holdte dyr,de tilgjengelige journalene over produksjon, helse og sporbarhet for de holdte dyrene som er relevante for undersøkelsen,type anlegg og praksis med hensyn til dyrehold,grad av eksponeringsrisiko:sannsynlighet for eksponering for sykdomsagensen eller vektoren,manglende immunisering av dyrene som følge av vaksinasjon eller mordyrets immunitet, oglengden på oppholdet i anlegget,andre relevante epidemiologiske faktorer.Det minste antallet dyr som skal undersøkes, skal være i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429). Det minste antallet dyr som skal undersøkes, skal fastsettes med hensyn til sykdomsprofilen, og særligforventet prevalens i anlegget,ønsket konfidensnivå for undersøkelsesresultatene, som ikke i noe tilfelle skal være under 95 %, oginternasjonale standarder og tilgjengelige vitenskapelige bevis.
+PRØVETAKING AV DYR TIL KLINISKE UNDERSØKELSER
+
+1. Kliniske undersøkelser skal om mulig omfatte
+
+   1. dyr som viser kliniske tegn på kategori A-sykdommer,
+   2. dyr som nylig har dødd, trolig som følge av den mistenkte/bekreftede sykdommen,
+   3. dyr med epidemiologisk forbindelse til et mistenkt eller bekreftet tilfelle, og
+   4. dyr som med positive eller tvetydige resultater har gjennomgått tidligere laboratorieundersøkelser.
+2. Dyrene som skal undersøkes, skal velges ut tilfeldig i et stort nok antall til å gjøre det mulig å påvise sykdommen, dersom den forekommer, om det ikke er noen åpenbare tegn på sykdommen eller skader post mortem som tyder på kategori A-sykdommer.
+3. Dyrene som skal undersøkes og prøvetakingsmetoden skal velges i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429). Dyrene som skal undersøkes og prøvetakingsmetoden skal fastsettes med hensyn til sykdomsprofilen og
+
+   1. formålet med prøvetakingen,
+   2. de listeførte artene som holdes i anlegget,
+   3. antallet dyr av listeførte arter som holdes i anlegget,
+   4. kategorien av holdte dyr,
+   5. de tilgjengelige journalene over produksjon, helse og sporbarhet for de holdte dyrene som er relevante for undersøkelsen,
+   6. type anlegg og praksis med hensyn til dyrehold,
+   7. grad av eksponeringsrisiko:
+
+      1. sannsynlighet for eksponering for sykdomsagensen eller vektoren,
+      2. manglende immunisering av dyrene som følge av vaksinasjon eller mordyrets immunitet, og
+      3. lengden på oppholdet i anlegget,
+   8. andre relevante epidemiologiske faktorer.
+4. Det minste antallet dyr som skal undersøkes, skal være i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429). Det minste antallet dyr som skal undersøkes, skal fastsettes med hensyn til sykdomsprofilen, og særlig
+
+   1. forventet prevalens i anlegget,
+   2. ønsket konfidensnivå for undersøkelsesresultatene, som ikke i noe tilfelle skal være under 95 %, og
+   3. internasjonale standarder og tilgjengelige vitenskapelige bevis.
 
 A.2
 
-PRØVETAKING AV DYR TIL LABORATORIEUNDERSØKELSERDet skal ved prøvetaking til laboratorieundersøkelser tas hensyn til resultatet av de kliniske undersøkelsene nevnt i punkt A.1 og skal om mulig omfatte dyrene som er nevnt i punkt A.1 nr. 1.Dersom det ikke er noen åpenbare tegn på sykdom eller skader post mortem som tyder på kategori A-sykdommer, skal det tas stikkprøver i hver epidemiologiske enhet i anlegget, og prøvene skal gjøre det mulig å påvise sykdommen dersom den forekommer.Dyrene som det skal tas prøver av, arten av de prøvene som skal tas samt prøvetakingsmetoden skal være i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429). Dyrene som det skal tas prøver av, arten av de prøvene som skal tas samt prøvetakingsmetoden skal fastsettes med hensyn til sykdomsprofilen og kriteriene i punkt A.1 nr. 3.Det minste antallet dyr som det skal tas prøver av, skal være i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429). Det minste antallet dyr som det skal tas prøver av, skal fastsettes med hensyn til kriteriene i punkt A.1 nr. 4 og de testmetodene som brukes.Når det gjelder viltlevende dyr, skal prøvene tas fra dyr som er skutt, funnet døde eller bevisst fanget i feller, eller innsamles på grunnlag av ikke-invasive metoder som saltsteiner, tyggetau eller lokkestoff. Det minste antallet og arten av prøvene skal fastsettes med hensyn til den viltlevende populasjonens anslåtte størrelse og de relevante kriteriene i punkt A.1 nr. 3 og 4.
+PRØVETAKING AV DYR TIL LABORATORIEUNDERSØKELSER
+
+1. Det skal ved prøvetaking til laboratorieundersøkelser tas hensyn til resultatet av de kliniske undersøkelsene nevnt i punkt A.1 og skal om mulig omfatte dyrene som er nevnt i punkt A.1 nr. 1.
+2. Dersom det ikke er noen åpenbare tegn på sykdom eller skader post mortem som tyder på kategori A-sykdommer, skal det tas stikkprøver i hver epidemiologiske enhet i anlegget, og prøvene skal gjøre det mulig å påvise sykdommen dersom den forekommer.
+3. Dyrene som det skal tas prøver av, arten av de prøvene som skal tas samt prøvetakingsmetoden skal være i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429). Dyrene som det skal tas prøver av, arten av de prøvene som skal tas samt prøvetakingsmetoden skal fastsettes med hensyn til sykdomsprofilen og kriteriene i punkt A.1 nr. 3.
+4. Det minste antallet dyr som det skal tas prøver av, skal være i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429). Det minste antallet dyr som det skal tas prøver av, skal fastsettes med hensyn til kriteriene i punkt A.1 nr. 4 og de testmetodene som brukes.
+5. Når det gjelder viltlevende dyr, skal prøvene tas fra dyr som er skutt, funnet døde eller bevisst fanget i feller, eller innsamles på grunnlag av ikke-invasive metoder som saltsteiner, tyggetau eller lokkestoff. Det minste antallet og arten av prøvene skal fastsettes med hensyn til den viltlevende populasjonens anslåtte størrelse og de relevante kriteriene i punkt A.1 nr. 3 og 4.
 
 A.3.
 
-PRØVETAKING I ANLEGG SOM SKAL BESØKESValget av anlegg hvor det skal tas prøver og prøvetakingsmetoden skal være i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429). Ved valget av anlegg hvor det skal tas prøver og prøvetakingsmetoden skal det tas hensyn til sykdomsprofilen og kriteriene i punkt A1 nr. 3.Det minste antallet anlegg som skal besøkes, skal være i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429).
+PRØVETAKING I ANLEGG SOM SKAL BESØKES
+
+1. Valget av anlegg hvor det skal tas prøver og prøvetakingsmetoden skal være i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429). Ved valget av anlegg hvor det skal tas prøver og prøvetakingsmetoden skal det tas hensyn til sykdomsprofilen og kriteriene i punkt A1 nr. 3.
+2. Det minste antallet anlegg som skal besøkes, skal være i samsvar med vedkommende myndighets instruksjoner og med den relevante beredskapsplanen nevnt i artikkel 43 i forordning [(EU) 2016/429](eu/32016r0429).
 
 B.**Diagnostiske metoder**
 
@@ -1425,10 +2152,19 @@ De diagnostiske metodene skal ha som mål å sikre høyest mulig følsomhet ved 
 
 C.**Transport av prøver**
 
-1. Alle prøver som er tatt for å bekrefte eller utelukke forekomst av en kategori A-sykdom, skal sendes, med korrekt merking og identifisering, til et offisielt laboratorium som er blitt informert om deres ankomst. Disse prøvene skal ledsages av de riktige skjemaene i samsvar med kravene fastsatt av vedkommende myndighet og laboratoriet som skal motta prøvene. Disse skjemaene skal minst omfatteopprinnelsesanlegg for de dyrene det er tatt prøver av,opplysninger om art, alder og kategori av dyrene det er tatt prøver av,dyrenes kliniske historie, dersom den er tilgjengelig og relevant,kliniske tegn og funn post mortem, ogeventuelle andre relevante opplysninger.
-2. Alle prøver skaloppbevares i vanntette og bruddsikre containere og pakninger og i samsvar med gjeldende internasjonale standarder,oppbevares ved den mest hensiktsmessige temperaturen og under andre hensiktsmessige forhold under transporten, idet det tas hensyn til faktorer som kan påvirke prøvens kvalitet.
+1. Alle prøver som er tatt for å bekrefte eller utelukke forekomst av en kategori A-sykdom, skal sendes, med korrekt merking og identifisering, til et offisielt laboratorium som er blitt informert om deres ankomst. Disse prøvene skal ledsages av de riktige skjemaene i samsvar med kravene fastsatt av vedkommende myndighet og laboratoriet som skal motta prøvene. Disse skjemaene skal minst omfatte
+
+   1. opprinnelsesanlegg for de dyrene det er tatt prøver av,
+   2. opplysninger om art, alder og kategori av dyrene det er tatt prøver av,
+   3. dyrenes kliniske historie, dersom den er tilgjengelig og relevant,
+   4. kliniske tegn og funn post mortem, og
+   5. eventuelle andre relevante opplysninger.
+2. Alle prøver skal
+
+   1. oppbevares i vanntette og bruddsikre containere og pakninger og i samsvar med gjeldende internasjonale standarder,
+   2. oppbevares ved den mest hensiktsmessige temperaturen og under andre hensiktsmessige forhold under transporten, idet det tas hensyn til faktorer som kan påvirke prøvens kvalitet.
 3. Utsiden av pakningen skal være merket med det mottakende laboratoriets adresse, og følgende opplysninger skal være godt synlig:
-*«Patologisk materiale fra dyr. Lett bedervelig. Skjørt. Må ikke åpnes utenfor bestemmelseslaboratoriet.»*
+   *«Patologisk materiale fra dyr. Lett bedervelig. Skjørt. Må ikke åpnes utenfor bestemmelseslaboratoriet.»*
 4. Den ansvarlige personen ved det offisielle laboratoriet som mottar prøvene, skal informeres i god tid om prøvenes ankomst.
 
 ### VEDLEGG II
@@ -1458,8 +2194,15 @@ VILKÅR FOR VISSE UNNTAK FRA ARTIKKEL 12 NR. 1 BOKSTAV A) FOR HESTEDYR
 
 (som nevnt i artikkel 13 nr. 4)
 
-1. Ved et utbrudd av afrikansk hestepest kan vedkommende myndighet gi unntak fra artikkel 12 nr. 1 bokstav a) for rammede og ikke rammede dyr, forutsatt atde rammede dyrene som omfattes av unntaket, isoleres i vektorbeskyttede lokaler som hindrer all overføring av sykdomsagensen fra dyrene til de aktuelle vektorene til det har gått 40 dager, som tilsvarer den smittsomme perioden fastsatt i det relevante kapittelet i Verdens dyrehelseorganisasjons (OIE) helseregelverk for landdyr, etter at dyrene ble satt inn i de vektorbeskyttede lokalene, ogovervåkingen, og om nødvendig laboratorieundersøkelsene som er utført av vedkommende myndighet, viser at ingen av dyrene i de vektorbeskyttede lokalene utgjør noen risiko for overføring av virus.
-2. Ved et utbrudd av infeksjon med *Burkholderia mallei* (snive) kan vedkommende myndighet gi unntak fra artikkel 12 nr. 1 bokstav a) for dyr som ikke er rammet, forutsatt at dyrene som omfattes av unntaket, holdes i karantene tilde rammede dyrene er avlivet og destruert,rengjøringen og desinfiseringen av anlegget etter avlivingen er gjennomført i samsvar med artikkel 15, ogde gjenværende dyrene har gjennomgått en komplementbindingstest, utført med negativt resultat ved en serumfortynning på 1:5 på prøver som er tatt minst seks måneder etter rengjøringen og desinfiseringen nevnt i bokstav b).
+1. Ved et utbrudd av afrikansk hestepest kan vedkommende myndighet gi unntak fra artikkel 12 nr. 1 bokstav a) for rammede og ikke rammede dyr, forutsatt at
+
+   1. de rammede dyrene som omfattes av unntaket, isoleres i vektorbeskyttede lokaler som hindrer all overføring av sykdomsagensen fra dyrene til de aktuelle vektorene til det har gått 40 dager, som tilsvarer den smittsomme perioden fastsatt i det relevante kapittelet i Verdens dyrehelseorganisasjons (OIE) helseregelverk for landdyr, etter at dyrene ble satt inn i de vektorbeskyttede lokalene, og
+   2. overvåkingen, og om nødvendig laboratorieundersøkelsene som er utført av vedkommende myndighet, viser at ingen av dyrene i de vektorbeskyttede lokalene utgjør noen risiko for overføring av virus.
+2. Ved et utbrudd av infeksjon med *Burkholderia mallei* (snive) kan vedkommende myndighet gi unntak fra artikkel 12 nr. 1 bokstav a) for dyr som ikke er rammet, forutsatt at dyrene som omfattes av unntaket, holdes i karantene til
+
+   1. de rammede dyrene er avlivet og destruert,
+   2. rengjøringen og desinfiseringen av anlegget etter avlivingen er gjennomført i samsvar med artikkel 15, og
+   3. de gjenværende dyrene har gjennomgått en komplementbindingstest, utført med negativt resultat ved en serumfortynning på 1:5 på prøver som er tatt minst seks måneder etter rengjøringen og desinfiseringen nevnt i bokstav b).
 
 ### VEDLEGG IV
 FRAMGANGSMÅTER FOR RENGJØRING, DESINFISERING OG OM NØDVENDIG BEKJEMPELSE AV INSEKTER OG GNAGERE
@@ -1468,7 +2211,11 @@ FRAMGANGSMÅTER FOR RENGJØRING, DESINFISERING OG OM NØDVENDIG BEKJEMPELSE AV I
 
 A.**Generelle krav**
 
-1. Ved valg av biocidprodukter og framgangsmåter for rengjøring og desinfisering skal det tas hensyn tilden infeksjonsframkallende agensen,arten av de anleggene, kjøretøyene, gjenstandene og materialene som skal behandles, ogden gjeldende lovgivningen.
+1. Ved valg av biocidprodukter og framgangsmåter for rengjøring og desinfisering skal det tas hensyn til
+
+   1. den infeksjonsframkallende agensen,
+   2. arten av de anleggene, kjøretøyene, gjenstandene og materialene som skal behandles, og
+   3. den gjeldende lovgivningen.
 2. Biocidproduktene skal brukes på en slik måte at deres virkning ikke forringes. Det skal særlig tas hensyn til tekniske parametrer oppgitt av produsenten, som trykk, temperatur, påkrevd kontakttid eller lagring. Desinfeksjonsmiddelets virkning skal ikke svekkes gjennom interaksjon med andre stoffer.
 3. Rekontaminering av allerede rengjorte deler skal unngås, særlig når vaskingen utføres med væsker under trykk.
 4. Vann som brukes til rengjøringen, skal oppsamles og sluttbehandles på en slik måte at risikoen for spredning av kategori A-sykdomsagenser unngås.
@@ -1476,11 +2223,30 @@ A.**Generelle krav**
 
 B.**Foreløpig rengjøring og desinfisering**
 
-Ved foreløpig rengjøring og desinfisering i henhold til artikkel 15 skal det tas hensyn til følgende for å unngå spredning av kategori A-sykdommen:Hele skrotter eller deler av døde holdte dyr av listeførte arter skal sprøytes med desinfeksjonsmiddel og fjernes fra anlegget i lukkede og lekkasjesikre kjøretøyer eller containere med sikte på bearbeiding og sluttbehandling.Alt vev og blod fra avliving, slakting eller kontroll post mortem skal omhyggelig samles opp og sluttbehandles.Så snart de hele skrottene eller delene av døde holdte dyr av listeførte arter er blitt fjernet med sikte på bearbeiding eller sluttbehandling, skal de delene av anleggene der disse dyrene er blitt holdt, samt alle deler av andre bygninger, overflater eller utstyr som er blitt kontaminert under avlivingen eller ved kontrollen post mortem, sprøytes med desinfeksjonsmiddel.Husdyrgjødsel, herunder nytt og brukt strø, skal gjennombløtes grundig med desinfeksjonsmiddel.Desinfeksjonsmiddelet skal virke på den behandlede overflaten i minst 24 timer.Utstyr, containere, fôringsredskaper, overflater eller andre materialer som kan være kontaminert etter vasking og desinfisering, skal destrueres.
+Ved foreløpig rengjøring og desinfisering i henhold til artikkel 15 skal det tas hensyn til følgende for å unngå spredning av kategori A-sykdommen:
+
+1. Hele skrotter eller deler av døde holdte dyr av listeførte arter skal sprøytes med desinfeksjonsmiddel og fjernes fra anlegget i lukkede og lekkasjesikre kjøretøyer eller containere med sikte på bearbeiding og sluttbehandling.
+2. Alt vev og blod fra avliving, slakting eller kontroll post mortem skal omhyggelig samles opp og sluttbehandles.
+3. Så snart de hele skrottene eller delene av døde holdte dyr av listeførte arter er blitt fjernet med sikte på bearbeiding eller sluttbehandling, skal de delene av anleggene der disse dyrene er blitt holdt, samt alle deler av andre bygninger, overflater eller utstyr som er blitt kontaminert under avlivingen eller ved kontrollen post mortem, sprøytes med desinfeksjonsmiddel.
+4. Husdyrgjødsel, herunder nytt og brukt strø, skal gjennombløtes grundig med desinfeksjonsmiddel.
+5. Desinfeksjonsmiddelet skal virke på den behandlede overflaten i minst 24 timer.
+6. Utstyr, containere, fôringsredskaper, overflater eller andre materialer som kan være kontaminert etter vasking og desinfisering, skal destrueres.
 
 C.**Endelig rengjøring og desinfisering**
 
-Ved endelig rengjøring og desinfisering som fastsatt i artikkel 57, gjelder følgende:Husdyrgjødsel, herunder nytt og brukt strø, skal fjernes og behandles som følger:Fast husdyrgjødsel, herunder nytt og brukt strø, skal entengjennomgå en dampbehandling ved en temperatur på minst 70 °C,destrueres ved brenning,graves ned så dypt at dyr ikke kan komme til, ellerstables slik at den varmes opp, sprøytes med desinfeksjonsmiddel og stå slik i minst 42 dager, og i dette tidsrommet skal stabelen enten tildekkes eller stables om for å sikre at alle lag varmebehandles.Flytende husdyrgjødsel skal lagres i minst 42 dager, og i 60 dager når det gjelder høypatogen aviær influensa, etter den siste tilsetningen av infeksiøst materiale.Bygninger, overflater og utstyr skal vaskes og rengjøres grundig ved å fjerne gjenværende fett og skitt, og sprøytes med desinfeksjonsmiddel.Etter sju dager skal anleggene rengjøres og desinfiseres igjen.
+Ved endelig rengjøring og desinfisering som fastsatt i artikkel 57, gjelder følgende:
+
+1. Husdyrgjødsel, herunder nytt og brukt strø, skal fjernes og behandles som følger:
+
+   1. Fast husdyrgjødsel, herunder nytt og brukt strø, skal enten
+
+      1. gjennomgå en dampbehandling ved en temperatur på minst 70 °C,
+      2. destrueres ved brenning,
+      3. graves ned så dypt at dyr ikke kan komme til, eller
+      4. stables slik at den varmes opp, sprøytes med desinfeksjonsmiddel og stå slik i minst 42 dager, og i dette tidsrommet skal stabelen enten tildekkes eller stables om for å sikre at alle lag varmebehandles.
+   2. Flytende husdyrgjødsel skal lagres i minst 42 dager, og i 60 dager når det gjelder høypatogen aviær influensa, etter den siste tilsetningen av infeksiøst materiale.
+2. Bygninger, overflater og utstyr skal vaskes og rengjøres grundig ved å fjerne gjenværende fett og skitt, og sprøytes med desinfeksjonsmiddel.
+3. Etter sju dager skal anleggene rengjøres og desinfiseres igjen.
 
 ### VEDLEGG V
 MINSTERADIUS FOR VERNESONER OG OVERVÅKINGSSONER
@@ -1628,8 +2394,27 @@ MERKING AV FERSKT KJØTT FRA VERNESONEN
 
 (som nevnt i artikkel 33 og 49 i denne forordningen)
 
-1. Merkingen som skal påføres ferskt kjøtt fra fjørfe som kommer fra vernesonen, og som ikke er beregnet på en annen medlemsstat i henhold til artikkel 33 nr. 1 bokstav b), skal oppfylle følgende krav:Form og innhold:«XY» viser til den relevante landkoden fastsatt i avsnitt I del B nr. 6 i vedlegg II til forordning (EF) nr. 853/2004, og «1234» viser til anleggets godkjenningsnummer nevnt i avsnitt I del B nr. 7 i vedlegg II til forordning (EF) nr. 853/2004.Mål:«XY»: bredde 8 mm.«1234»: bredde 11 mm.Ytre diameter minst 30 mm.Kvadratets strektykkelse: 3 mm.
-2. Merkingen som skal påføres ferskt kjøtt beregnet på behandling i et foredlingsanlegg i samsvar med artikkel 33 nr. 2 bokstav a), skal bestå av entenidentifikasjonsmerket fastsatt i forordning [(EF) nr. 853/2004](eu/32004r0853) med et diagonalt kryss i tillegg bestående av to rette linjer som krysser hverandre midt i stempelet, men på en slik måte at opplysningene på dette fortsatt er lett leselige, elleret enkelt ovalt stempel som er 6,5 cm bredt og 4,5 cm høyt, som skal ha følgende opplysninger med lett leselige bokstaver:I den øvre delen, medlemsstatens fulle navn eller ISO-kode med store bokstaver.I midten, slakteriets godkjenningsnummer.Nederst, ett av følgende initialpar: CE, EC, EF, EG, EK, EY, EO, ES, EU, EB, WE eller EZ.To rette linjer som krysser hverandre midt i stempelet på en slik måte at opplysningene ikke blir uleselige.Bokstavene skal være minst 0,8 cm høye og tallene minst 1 cm høye.
+1. Merkingen som skal påføres ferskt kjøtt fra fjørfe som kommer fra vernesonen, og som ikke er beregnet på en annen medlemsstat i henhold til artikkel 33 nr. 1 bokstav b), skal oppfylle følgende krav:
+
+   1. Form og innhold:
+
+      «XY» viser til den relevante landkoden fastsatt i avsnitt I del B nr. 6 i vedlegg II til forordning (EF) nr. 853/2004, og «1234» viser til anleggets godkjenningsnummer nevnt i avsnitt I del B nr. 7 i vedlegg II til forordning (EF) nr. 853/2004.
+   2. Mål:
+
+      - «XY»: bredde 8 mm.
+      - «1234»: bredde 11 mm.
+      - Ytre diameter minst 30 mm.
+      - Kvadratets strektykkelse: 3 mm.
+2. Merkingen som skal påføres ferskt kjøtt beregnet på behandling i et foredlingsanlegg i samsvar med artikkel 33 nr. 2 bokstav a), skal bestå av enten
+
+   1. identifikasjonsmerket fastsatt i forordning [(EF) nr. 853/2004](eu/32004r0853) med et diagonalt kryss i tillegg bestående av to rette linjer som krysser hverandre midt i stempelet, men på en slik måte at opplysningene på dette fortsatt er lett leselige, eller
+   2. et enkelt ovalt stempel som er 6,5 cm bredt og 4,5 cm høyt, som skal ha følgende opplysninger med lett leselige bokstaver:
+
+      - I den øvre delen, medlemsstatens fulle navn eller ISO-kode med store bokstaver.
+      - I midten, slakteriets godkjenningsnummer.
+      - Nederst, ett av følgende initialpar: CE, EC, EF, EG, EK, EY, EO, ES, EU, EB, WE eller EZ.
+      - To rette linjer som krysser hverandre midt i stempelet på en slik måte at opplysningene ikke blir uleselige.
+      - Bokstavene skal være minst 0,8 cm høye og tallene minst 1 cm høye.
 
 ### VEDLEGG X
 VARIGHET AV TILTAKENE I VERNESONEN
@@ -1678,7 +2463,45 @@ VARIGHET AV TILTAKENE I OVERVÅKINGSSONEN
 ### VEDLEGG XII
 PRØVETAKINGSMETODER OG DIAGNOSTISKE METODER FOR KATEGORI A-SYKDOMMER HOS AKVATISKE DYR
 
-1. Følgende gjelder for klinisk undersøkelse og prøvetaking:Den kliniske undersøkelsen og prøvetakingen til laboratorieundersøkelser skal omfatteakvakulturdyr av listeførte arter som viser kliniske tegn på den aktuelle kategori A-sykdommen, ogakvakulturdyr som nylig har dødd, trolig som følge av den mistenkte/bekreftede kategori A-sykdommen, ogakvakulturdyr med epidemiologisk forbindelse til et mistenkt eller bekreftet tilfelle av en kategori A-sykdom.Minste antall prøver som skal tas:*Scenario**Type dyr**Rapportering av økt dødelighet**Innførsel av smittede dyr**Observerte kliniske tegn eller tegn post mortem**Mistanke på grunnlag av andre omstendigheter*Bløtdyr (hele dyret)3030–150Krepsdyr1010150Fisk––1030Følgende ytterligere kriterier gjelder ved prøvetaking av bløtdyr:Dyr som mistenkes å være smittet, skal velges ut for prøvetaking. Dersom det forekommer listeførte arter i den dyrepopulasjonen som berøres av mistanken, skal de velges ut for prøvetaking.Dersom det forekommer svake bløtdyr, bløtdyr med åpne skall eller nylig døde bløtdyr, men som ikke har gått i oppløsning, skal slike bløtdyr velges først. Dersom det ikke forekommer slike bløtdyr, skal de utvalgte bløtdyrene omfatte de eldste friske bløtdyrene.Dersom anlegget benytter mer enn én vannkilde til produksjon av bløtdyr, skal bløtdyr som representerer alle vannkilder, tas med i prøvetakingen for å sikre at alle deler av anlegget er proporsjonalt representert i prøven.Ved prøvetaking fra en gruppe av anlegg for oppdrett av bløtdyr som tilsynelatende har samme epidemiologiske status, skal bløtdyr fra et representativt antall prøvetakingspunkter inngå i prøven.De viktigste faktorene å ta hensyn til ved valg av disse prøvetakingspunktene, er dyretetthet, vannstrømmer, forekomst av listeførte arter, både mottakelige arter og vektorarter, batymetri og driftsrutiner. Naturlige forekomster i eller tilgrensende til anlegget/-ene for oppdrett av bløtdyr skal inngå i prøvetakingen.Følgende ytterligere kriterier gjelder ved prøvetaking av krepsdyr:Dersom det forekommer svake eller døende krepsdyr av listeførte arter i produksjonsenhetene, skal slike krepsdyr velges først. Dersom det ikke forekommer slike dyr, skal de utvalgte krepsdyrene omfatte krepsdyr av forskjellige årsklasser, som skal være proporsjonalt representert i prøven.Dersom det benyttes mer enn én vannkilde til produksjon av krepsdyr, skal krepsdyr av listeførte arter som representerer alle vannkilder, tas med i prøven for å sikre at alle deler av anlegget er proporsjonalt representert i prøven.Dersom det kreves innsamling av prøver fra viltlevende populasjoner av listeførte arter i henhold til artikkel 102 bokstav a) i denne forordningen, skal antallet og den geografiske fordelingen av prøvetakingspunktene fastsettes på en slik måte at det sikres en rimelig dekning av området som mistenkes å være infisert.Prøvetakingspunktene skal være representative for de forskjellige økosystemene der de viltlevende populasjonene av mottakelige arter finnes, som hav-, elvemunnings-, elve- og innsjøsystemer.Følgende ytterligere kriterier gjelder ved prøvetaking av fisk:Dersom det forekommer svimere, fisk med unormal atferd eller fisk som nylig er død, men som ikke har gått i oppløsning, skal slik fisk velges. Dersom det ikke forekommer slike dyr, skal de utvalgte fiskene omfatte fisk av listeførte arter av forskjellige årsklasser, som skal være proporsjonalt representert i prøven.Dersom det benyttes mer enn én vannkilde til produksjon av fisk, skal listeførte arter som representerer alle vannkilder, tas med i prøvetakingen for å sikre at alle deler av anlegget er proporsjonalt representert i prøven.Dersom det forekommer regnbueørret (*Onchorynchus mykiss*) eller abbor (*Perca fluviatilis*), er det bare fisk av disse artene som skal velges for prøvetaking. Dersom det forekommer verken regnbueørret eller abbor, skal prøven være representativ for alle andre listeførte arter som forekommer, i samsvar med kriteriene i bokstav a)–d).Dersom det kreves innsamling av prøver fra viltlevende populasjoner av listeførte arter i henhold til artikkel 102 bokstav a) i denne forordningen, skal antallet og den geografiske fordelingen av prøvetakingspunktene fastsettes på en slik måte at det sikres en rimelig dekning av området som mistenkes å være infisert.Prøvetakingspunktene skal også være representative for de forskjellige økosystemene der de viltlevende populasjonene av mottakelige arter finnes, som hav-, elvemunnings-, elve- og innsjøsystemer.Utvelgingen av organer til prøvetaking, samt forberedelse, lagring og forsendelse av prøvene til laboratoriet skal utføres i samsvar med anbefalingene fra EU-referanselaboratoriet for den aktuelle sykdommen.
+1. Følgende gjelder for klinisk undersøkelse og prøvetaking:
+
+   1. Den kliniske undersøkelsen og prøvetakingen til laboratorieundersøkelser skal omfatte
+
+      1. akvakulturdyr av listeførte arter som viser kliniske tegn på den aktuelle kategori A-sykdommen, og
+      2. akvakulturdyr som nylig har dødd, trolig som følge av den mistenkte/bekreftede kategori A-sykdommen, og
+      3. akvakulturdyr med epidemiologisk forbindelse til et mistenkt eller bekreftet tilfelle av en kategori A-sykdom.
+   2. Minste antall prøver som skal tas:
+
+      |  | *Scenario* |  |  |  |
+      | --- | --- | --- | --- | --- |
+      | *Type dyr* | *Rapportering av økt dødelighet* | *Innførsel av smittede dyr* | *Observerte kliniske tegn eller tegn post mortem* | *Mistanke på grunnlag av andre omstendigheter* |
+      | Bløtdyr (hele dyret) | 30 | 30 | – | 150 |
+      | Krepsdyr | 10 |  | 10 | 150 |
+      | Fisk | – | – | 10 | 30 |
+   3. Følgende ytterligere kriterier gjelder ved prøvetaking av bløtdyr:
+
+      1. Dyr som mistenkes å være smittet, skal velges ut for prøvetaking. Dersom det forekommer listeførte arter i den dyrepopulasjonen som berøres av mistanken, skal de velges ut for prøvetaking.
+      2. Dersom det forekommer svake bløtdyr, bløtdyr med åpne skall eller nylig døde bløtdyr, men som ikke har gått i oppløsning, skal slike bløtdyr velges først. Dersom det ikke forekommer slike bløtdyr, skal de utvalgte bløtdyrene omfatte de eldste friske bløtdyrene.
+      3. Dersom anlegget benytter mer enn én vannkilde til produksjon av bløtdyr, skal bløtdyr som representerer alle vannkilder, tas med i prøvetakingen for å sikre at alle deler av anlegget er proporsjonalt representert i prøven.
+      4. Ved prøvetaking fra en gruppe av anlegg for oppdrett av bløtdyr som tilsynelatende har samme epidemiologiske status, skal bløtdyr fra et representativt antall prøvetakingspunkter inngå i prøven.
+
+      De viktigste faktorene å ta hensyn til ved valg av disse prøvetakingspunktene, er dyretetthet, vannstrømmer, forekomst av listeførte arter, både mottakelige arter og vektorarter, batymetri og driftsrutiner. Naturlige forekomster i eller tilgrensende til anlegget/-ene for oppdrett av bløtdyr skal inngå i prøvetakingen.
+   4. Følgende ytterligere kriterier gjelder ved prøvetaking av krepsdyr:
+
+      1. Dersom det forekommer svake eller døende krepsdyr av listeførte arter i produksjonsenhetene, skal slike krepsdyr velges først. Dersom det ikke forekommer slike dyr, skal de utvalgte krepsdyrene omfatte krepsdyr av forskjellige årsklasser, som skal være proporsjonalt representert i prøven.
+      2. Dersom det benyttes mer enn én vannkilde til produksjon av krepsdyr, skal krepsdyr av listeførte arter som representerer alle vannkilder, tas med i prøven for å sikre at alle deler av anlegget er proporsjonalt representert i prøven.
+      3. Dersom det kreves innsamling av prøver fra viltlevende populasjoner av listeførte arter i henhold til artikkel 102 bokstav a) i denne forordningen, skal antallet og den geografiske fordelingen av prøvetakingspunktene fastsettes på en slik måte at det sikres en rimelig dekning av området som mistenkes å være infisert.
+
+      Prøvetakingspunktene skal være representative for de forskjellige økosystemene der de viltlevende populasjonene av mottakelige arter finnes, som hav-, elvemunnings-, elve- og innsjøsystemer.
+   5. Følgende ytterligere kriterier gjelder ved prøvetaking av fisk:
+
+      1. Dersom det forekommer svimere, fisk med unormal atferd eller fisk som nylig er død, men som ikke har gått i oppløsning, skal slik fisk velges. Dersom det ikke forekommer slike dyr, skal de utvalgte fiskene omfatte fisk av listeførte arter av forskjellige årsklasser, som skal være proporsjonalt representert i prøven.
+      2. Dersom det benyttes mer enn én vannkilde til produksjon av fisk, skal listeførte arter som representerer alle vannkilder, tas med i prøvetakingen for å sikre at alle deler av anlegget er proporsjonalt representert i prøven.
+      3. Dersom det forekommer regnbueørret (*Onchorynchus mykiss*) eller abbor (*Perca fluviatilis*), er det bare fisk av disse artene som skal velges for prøvetaking. Dersom det forekommer verken regnbueørret eller abbor, skal prøven være representativ for alle andre listeførte arter som forekommer, i samsvar med kriteriene i bokstav a)–d).
+      4. Dersom det kreves innsamling av prøver fra viltlevende populasjoner av listeførte arter i henhold til artikkel 102 bokstav a) i denne forordningen, skal antallet og den geografiske fordelingen av prøvetakingspunktene fastsettes på en slik måte at det sikres en rimelig dekning av området som mistenkes å være infisert.
+
+      Prøvetakingspunktene skal også være representative for de forskjellige økosystemene der de viltlevende populasjonene av mottakelige arter finnes, som hav-, elvemunnings-, elve- og innsjøsystemer.
+   6. Utvelgingen av organer til prøvetaking, samt forberedelse, lagring og forsendelse av prøvene til laboratoriet skal utføres i samsvar med anbefalingene fra EU-referanselaboratoriet for den aktuelle sykdommen.
 2. Prøvene skal undersøkes på laboratoriet ved hjelp av de diagnostiske metodene og framgangsmåtene som er godkjent av EU-referanselaboratoriet for den aktuelle sykdommen.
 
 ### VEDLEGG XIII
@@ -1697,9 +2520,30 @@ Varighet av brakkleggingen fastsatt i artikkel 81 og den samtidige brakklegginge
 ### VEDLEGG XIV
 KRITERIER FOR Å OPPRETTE RESTRIKSJONSSONER MED HENSYN TIL KATEGORI A-SYKDOMMER HOS AKVATISKE DYR
 
-1. Restriksjonssoner som nevnt i artikkel 85 skal fastsettes for hvert enkelt tilfelle idet det tas hensyn til minst følgende faktorer:Det sammenlagte antallet, den sammenlagte prosentdelen og fordelingen av døde bløtdyr/krepsdyr/fisk i oppdrettsanlegget eller gruppen av oppdrettsanlegg som er infisert med kategori A-sykdommer.Relevante opplysninger om forflytning til og fra det eller de infiserte anleggene.Avstanden til naboanlegg og deres tetthet.Forekomsten av viltlevende akvatiske dyr.Eventuell kjennskap til dødelighet, mistenkte tilfeller eller utbrudd hos viltlevende akvatiske dyr som er eller kan være knyttet til den bestemte kategori A-sykdommen.Nærheten til foredlingsanlegg, og de artene som finnes i disse anleggene, særlig når det gjelder listeførte arter.Oppdrettsmetodene som brukes i de rammede anleggene og naboanleggene.Hydrodynamiske forhold og andre identifiserte faktorer av epidemiologisk betydning.
-2. For geografisk avgrensning av verne- og overvåkingssonene for kategori A-sykdommer som rammer bløtdyr og krepsdyr, skal følgende minstekrav gjelde:Vernesonen skal opprettes i umiddelbar nærhet av et oppdrettsanlegg eller en gruppe av oppdrettsanlegg som offisielt er erklært som infisert med en kategori A-sykdom, og skal tilsvare et område som fastsettes i henhold til egnede hydrodynamiske og epidemiologiske data.Overvåkingssonen skal opprettes utenfor vernesonen og skal tilsvare et område rundt vernesonen som fastsettes i henhold til egnede hydrodynamiske eller epidemiologiske data.
-3. For geografisk avgrensning av verne- og overvåkingssonene for kategori A-sykdommer som rammer fisk, skal følgende minstekrav gjelde:Vernesonen skal opprettes rundt et anlegg der *epizootisk hematopoietisk nekrose* (EHN) er blitt bekreftet. Denne sonen skal tilsvare følgende:I kystområder: Et område innenfor en sirkel med en radius på minst én tidevannsbevegelse eller minst 5 km, alt etter hva som er størst, med sentrum i det anlegget der EHN er blitt offisielt bekreftet, eller et tilsvarende område fastsatt i henhold til egnede hydrodynamiske eller epidemiologiske data.I områder inne i landet: Hele nedbørfeltet for det anlegget der EHN er blitt offisielt bekreftet. Vedkommende myndighet kan begrense sonens omfang til deler av nedbørfeltet, eller til anleggets område, forutsatt at dette ikke hindrer forebyggingen av spredning av sykdommen.Overvåkingssonen skal opprettes av vedkommende myndighet utenfor vernesonen, og skal tilsvare følgende:I kystområder: Et område rundt vernesonen der tidevannsbevegelsen overlapper vernesonen, eller et område rundt vernesonen innenfor en sirkel med en radius på 10 km fra vernesonens midtpunkt, eller et tilsvarende område fastsatt i henhold til egnede hydrodynamiske eller epidemiologiske data.I områder inne i landet: Et utvidet område utenfor den opprettede vernesonen.
+1. Restriksjonssoner som nevnt i artikkel 85 skal fastsettes for hvert enkelt tilfelle idet det tas hensyn til minst følgende faktorer:
+
+   1. Det sammenlagte antallet, den sammenlagte prosentdelen og fordelingen av døde bløtdyr/krepsdyr/fisk i oppdrettsanlegget eller gruppen av oppdrettsanlegg som er infisert med kategori A-sykdommer.
+   2. Relevante opplysninger om forflytning til og fra det eller de infiserte anleggene.
+   3. Avstanden til naboanlegg og deres tetthet.
+   4. Forekomsten av viltlevende akvatiske dyr.
+   5. Eventuell kjennskap til dødelighet, mistenkte tilfeller eller utbrudd hos viltlevende akvatiske dyr som er eller kan være knyttet til den bestemte kategori A-sykdommen.
+   6. Nærheten til foredlingsanlegg, og de artene som finnes i disse anleggene, særlig når det gjelder listeførte arter.
+   7. Oppdrettsmetodene som brukes i de rammede anleggene og naboanleggene.
+   8. Hydrodynamiske forhold og andre identifiserte faktorer av epidemiologisk betydning.
+2. For geografisk avgrensning av verne- og overvåkingssonene for kategori A-sykdommer som rammer bløtdyr og krepsdyr, skal følgende minstekrav gjelde:
+
+   1. Vernesonen skal opprettes i umiddelbar nærhet av et oppdrettsanlegg eller en gruppe av oppdrettsanlegg som offisielt er erklært som infisert med en kategori A-sykdom, og skal tilsvare et område som fastsettes i henhold til egnede hydrodynamiske og epidemiologiske data.
+   2. Overvåkingssonen skal opprettes utenfor vernesonen og skal tilsvare et område rundt vernesonen som fastsettes i henhold til egnede hydrodynamiske eller epidemiologiske data.
+3. For geografisk avgrensning av verne- og overvåkingssonene for kategori A-sykdommer som rammer fisk, skal følgende minstekrav gjelde:
+
+   1. Vernesonen skal opprettes rundt et anlegg der *epizootisk hematopoietisk nekrose* (EHN) er blitt bekreftet. Denne sonen skal tilsvare følgende:
+
+      1. I kystområder: Et område innenfor en sirkel med en radius på minst én tidevannsbevegelse eller minst 5 km, alt etter hva som er størst, med sentrum i det anlegget der EHN er blitt offisielt bekreftet, eller et tilsvarende område fastsatt i henhold til egnede hydrodynamiske eller epidemiologiske data.
+      2. I områder inne i landet: Hele nedbørfeltet for det anlegget der EHN er blitt offisielt bekreftet. Vedkommende myndighet kan begrense sonens omfang til deler av nedbørfeltet, eller til anleggets område, forutsatt at dette ikke hindrer forebyggingen av spredning av sykdommen.
+   2. Overvåkingssonen skal opprettes av vedkommende myndighet utenfor vernesonen, og skal tilsvare følgende:
+
+      1. I kystområder: Et område rundt vernesonen der tidevannsbevegelsen overlapper vernesonen, eller et område rundt vernesonen innenfor en sirkel med en radius på 10 km fra vernesonens midtpunkt, eller et tilsvarende område fastsatt i henhold til egnede hydrodynamiske eller epidemiologiske data.
+      2. I områder inne i landet: Et utvidet område utenfor den opprettede vernesonen.
 
 ### VEDLEGG XV
 OVERVÅKINGSORDNING OG VARIGHET AV BEKJEMPELSESTILTAK I OVERVÅKINGSSONEN FOR KATEGORI A-SYKDOMMER HOS AKVAKULTURDYR
@@ -1813,19 +2657,47 @@ ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
 
-1\. Denne forordningen utfyller reglene fastsatt i forordning [(EU) 2016/429](eu/32016r0429) for bruk i Unionen av legemidler til dyr for forebygging og bekjempelse av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a) og b) i forordning [(EU) 2016/429](eu/32016r0429) hos holdte og ville landdyr og akvatiske dyr («dyr»). Særlig fastsettesforbud mot og restriksjoner på bruk av visse legemidler til dyr som gis til dyr for å forebygge og bekjempe kategori A- og B-sykdommer,regler for bruk av vaksiner til dyr for å forebygge og bekjempe kategori A- og visse kategori B-sykdommer,risikoreduserende tiltak for å hindre spredning av kategori A-sykdommer via vaksinerte dyr eller produkter av slike dyr,regler for overvåking av kategori A-sykdommer etter bruk av vaksiner til landdyr for å forebygge og bekjempe disse sykdommene.
+1\. Denne forordningen utfyller reglene fastsatt i forordning [(EU) 2016/429](eu/32016r0429) for bruk i Unionen av legemidler til dyr for forebygging og bekjempelse av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a) og b) i forordning [(EU) 2016/429](eu/32016r0429) hos holdte og ville landdyr og akvatiske dyr («dyr»). Særlig fastsettes
+
+1. forbud mot og restriksjoner på bruk av visse legemidler til dyr som gis til dyr for å forebygge og bekjempe kategori A- og B-sykdommer,
+2. regler for bruk av vaksiner til dyr for å forebygge og bekjempe kategori A- og visse kategori B-sykdommer,
+3. risikoreduserende tiltak for å hindre spredning av kategori A-sykdommer via vaksinerte dyr eller produkter av slike dyr,
+4. regler for overvåking av kategori A-sykdommer etter bruk av vaksiner til landdyr for å forebygge og bekjempe disse sykdommene.
 
 2\. Denne forordningen får ikke anvendelse på bruk av legemidler til dyr nevnt i nr. 1 når de brukes i vitenskapelige undersøkelser, eller når de utvikles og prøves, som nevnt i artikkel 46 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429).
 
 ### Artikkel 2. Definisjoner
 
-1\. I denne forordningen menes med«kategori A-sykdom» en listeført sykdom som normalt ikke forekommer i Unionen, og som det må treffes umiddelbare utryddelsestiltak mot så snart den påvises, som nevnt i artikkel 9 nr. 1 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429),«kategori B-sykdom» en listeført sykdom som skal bekjempes i alle medlemsstater, med mål om at den skal utryddes i hele Unionen, som nevnt i artikkel 9 nr. 1 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429),«dempende nødvaksinasjon» en vaksinasjonsstrategi som gjennomføres av vedkommende myndighet for holdte landdyr for å forebygge og bekjempe kategori A-sykdommer i samsvar med artikkel 7 nr. 1 bokstav a) i),«beskyttende nødvaksinasjon» en vaksinasjonsstrategi som gjennomføres av vedkommende myndighet for holdte landdyr for å forebygge og bekjempe kategori A-sykdommer i samsvar med artikkel 7 nr. 1 bokstav a) ii),«nødvaksinasjon av viltlevende landdyr» en vaksinasjonsstrategi som gjennomføres av vedkommende myndighet for viltlevende landdyr for å forebygge og bekjempe kategori A-sykdommer i samsvar med artikkel 7 nr. 1 bokstav a) iii),«forebyggende vaksinasjon» en vaksinasjonsstrategi som gjennomføres av vedkommende myndighet for å forebygge og bekjempe kategori A-sykdommer i samsvar med artikkel 7 nr. 1 bokstav b),«vaksinasjonssone» en sone der en vaksine administreres til listeførte arter for å forebygge og bekjempe kategori A-sykdommer,«randsone» en sone som omgir vaksinasjonssonen, der vaksinasjon for å forebygge og bekjempe kategori A-sykdommer ikke er tillatt, og der det gjennomføres forsterket overvåking for å påvise disse sykdommene,«bekreftet utbrudd» et utbrudd bekreftet i samsvar med artikkel 9 nr. 2, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689),«restitusjonsperiode» den tiden som er nødvendig for at en vaksinasjonssone, ved å dokumentere fravær av kategori A-sykdom etter at det er foretatt nødvaksinasjon mot sykdommen, skal kunne gjenvinne dyrehelsestatusen den hadde før gjennomføringen av vaksinasjonen mot kategori A-sykdommen,«vernesone» en vernesone som er opprettet på grunnlag av artikkel 21 nr. 1 bokstav a) i delegert forordning [(EU) 2020/687](eu/32020r0687),«overvåkingssone» en overvåkingssone som er opprettet på grunnlag av artikkel 21 nr. 1 bokstav b) i delegert forordning [(EU) 2020/687](eu/32020r0687),«storfe» dyr av artene av hov- og klovdyr som tilhører slektene *Bison, Bos*, (herunder underslektene *Bos, Bibos, Novibos, Poephagus)* og *Bubalus* (herunder underslekten *Anoa*) og avkom framkommet ved kryssing av disse,«sau» dyr av artene av hov- og klovdyr som tilhører slekten *Ovis* og avkom framkommet ved kryssing av disse,«geit» dyr av artene av hov- og klovdyr som tilhører slekten *Capra* og avkom framkommet ved kryssing av disse,«dyr av kamelfamilien» dyr av artene av hov- og klovdyr som tilhører familien *Camelidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429),«svin» dyr av artene av hov- og klovdyr som tilhører familien *Suidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429),«hestedyr» dyr av artene av enhovede dyr som tilhører slekten *Equus* (herunder hester, esler og sebraer) og avkom framkommet ved kryssing av disse,«daggamle kyllinger» alt fjørfe som er yngre enn 72 timer.
+1\. I denne forordningen menes med
+
+1. «kategori A-sykdom» en listeført sykdom som normalt ikke forekommer i Unionen, og som det må treffes umiddelbare utryddelsestiltak mot så snart den påvises, som nevnt i artikkel 9 nr. 1 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429),
+2. «kategori B-sykdom» en listeført sykdom som skal bekjempes i alle medlemsstater, med mål om at den skal utryddes i hele Unionen, som nevnt i artikkel 9 nr. 1 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429),
+3. «dempende nødvaksinasjon» en vaksinasjonsstrategi som gjennomføres av vedkommende myndighet for holdte landdyr for å forebygge og bekjempe kategori A-sykdommer i samsvar med artikkel 7 nr. 1 bokstav a) i),
+4. «beskyttende nødvaksinasjon» en vaksinasjonsstrategi som gjennomføres av vedkommende myndighet for holdte landdyr for å forebygge og bekjempe kategori A-sykdommer i samsvar med artikkel 7 nr. 1 bokstav a) ii),
+5. «nødvaksinasjon av viltlevende landdyr» en vaksinasjonsstrategi som gjennomføres av vedkommende myndighet for viltlevende landdyr for å forebygge og bekjempe kategori A-sykdommer i samsvar med artikkel 7 nr. 1 bokstav a) iii),
+6. «forebyggende vaksinasjon» en vaksinasjonsstrategi som gjennomføres av vedkommende myndighet for å forebygge og bekjempe kategori A-sykdommer i samsvar med artikkel 7 nr. 1 bokstav b),
+7. «vaksinasjonssone» en sone der en vaksine administreres til listeførte arter for å forebygge og bekjempe kategori A-sykdommer,
+8. «randsone» en sone som omgir vaksinasjonssonen, der vaksinasjon for å forebygge og bekjempe kategori A-sykdommer ikke er tillatt, og der det gjennomføres forsterket overvåking for å påvise disse sykdommene,
+9. «bekreftet utbrudd» et utbrudd bekreftet i samsvar med artikkel 9 nr. 2, 3 og 4 i delegert forordning [(EU) 2020/689](eu/32020r0689),
+10. «restitusjonsperiode» den tiden som er nødvendig for at en vaksinasjonssone, ved å dokumentere fravær av kategori A-sykdom etter at det er foretatt nødvaksinasjon mot sykdommen, skal kunne gjenvinne dyrehelsestatusen den hadde før gjennomføringen av vaksinasjonen mot kategori A-sykdommen,
+11. «vernesone» en vernesone som er opprettet på grunnlag av artikkel 21 nr. 1 bokstav a) i delegert forordning [(EU) 2020/687](eu/32020r0687),
+12. «overvåkingssone» en overvåkingssone som er opprettet på grunnlag av artikkel 21 nr. 1 bokstav b) i delegert forordning [(EU) 2020/687](eu/32020r0687),
+13. «storfe» dyr av artene av hov- og klovdyr som tilhører slektene *Bison, Bos*, (herunder underslektene *Bos, Bibos, Novibos, Poephagus)* og *Bubalus* (herunder underslekten *Anoa*) og avkom framkommet ved kryssing av disse,
+14. «sau» dyr av artene av hov- og klovdyr som tilhører slekten *Ovis* og avkom framkommet ved kryssing av disse,
+15. «geit» dyr av artene av hov- og klovdyr som tilhører slekten *Capra* og avkom framkommet ved kryssing av disse,
+16. «dyr av kamelfamilien» dyr av artene av hov- og klovdyr som tilhører familien *Camelidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429),
+17. «svin» dyr av artene av hov- og klovdyr som tilhører familien *Suidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429),
+18. «hestedyr» dyr av artene av enhovede dyr som tilhører slekten *Equus* (herunder hester, esler og sebraer) og avkom framkommet ved kryssing av disse,
+19. «daggamle kyllinger» alt fjørfe som er yngre enn 72 timer.
 
 2\. I tillegg til definisjonene fastsatt i nr. 1 får definisjonene av «legemiddel til dyr», «immunologisk legemiddel til dyr» og «antimikrobielt middel», fastsatt i artikkel 4 nr. 1, 5 og 12 i forordning [(EU) 2019/6](eu/32019r0006), anvendelse.
 
 ### Artikkel 3. Forbud mot og restriksjoner på bruk av vaksiner til dyr for å forebygge og bekjempe kategori A- og visse kategori B-sykdommer
 
-1\. Medlemsstatene kan tillate bruk av vaksiner til dyr for å forebygge og bekjempe kategori A-sykdommer, unntatt de sykdommene som er oppført i vedlegg I del 1, bare dersom det skjer under tilsyn av vedkommende myndighet, og dersom de brukessom en del av de offisielle tiltakene som vedkommende myndighet har iverksatt for å forebygge og bekjempe disse sykdommene,i henhold til vilkårene fastsatt i denne forordningen.
+1\. Medlemsstatene kan tillate bruk av vaksiner til dyr for å forebygge og bekjempe kategori A-sykdommer, unntatt de sykdommene som er oppført i vedlegg I del 1, bare dersom det skjer under tilsyn av vedkommende myndighet, og dersom de brukes
+
+1. som en del av de offisielle tiltakene som vedkommende myndighet har iverksatt for å forebygge og bekjempe disse sykdommene,
+2. i henhold til vilkårene fastsatt i denne forordningen.
 
 2\. Vilkårene for bruk av vaksiner mot kategori A-sykdommer som er fastsatt i første ledd, får ikke anvendelse på visse bruk av vaksiner mot infeksjon med Newcastle disease-virus, særlig rutinemessig forebyggende bruk eller bruk i forbindelse med handel, som medlemsstatene kan tillate utenfor de offisielle forebyggings- og bekjempelsestiltakene nevnt i nr. 1 for andre formål enn som en reaksjon på et utbrudd.
 
@@ -1833,7 +2705,12 @@ ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 4. Forbud mot og restriksjoner på bruk av visse legemidler til dyr, bortsett fra vaksiner, som gis til dyr for å forebygge og bekjempe kategori A- og B-sykdommer
 
-Medlemsstatene skal forby bruk av følgende legemidler til dyr som gis til dyr for å forebygge og bekjempe kategori A- og B-sykdommer, med mindre de brukes til å forebygge og bekjempe sykdommene som er oppført i vedlegg I del 3, og bruken av dem er i samsvar med vilkårene som er fastsatt der:Immunologiske legemidler til dyr for å bestemme dyrs immunstatus.Hyperimmunserum.Inaktiverte immunologiske legemidler til dyr, som nevnt i artikkel 2 nr. 3 i forordning [(EU) 2019/6](eu/32019r0006).Antimikrobielle midler.
+Medlemsstatene skal forby bruk av følgende legemidler til dyr som gis til dyr for å forebygge og bekjempe kategori A- og B-sykdommer, med mindre de brukes til å forebygge og bekjempe sykdommene som er oppført i vedlegg I del 3, og bruken av dem er i samsvar med vilkårene som er fastsatt der:
+
+1. Immunologiske legemidler til dyr for å bestemme dyrs immunstatus.
+2. Hyperimmunserum.
+3. Inaktiverte immunologiske legemidler til dyr, som nevnt i artikkel 2 nr. 3 i forordning [(EU) 2019/6](eu/32019r0006).
+4. Antimikrobielle midler.
 
 ### DEL II
 REGLER FOR BRUK AV VAKSINER FOR Å FOREBYGGE OG BEKJEMPE KATEGORI A-SYKDOMMER HOS DYR
@@ -1845,7 +2722,10 @@ Forutsetninger
 
 Forutsetninger for bruk av vaksiner for å forebygge og bekjempe kategori A-sykdommer hos landdyr og akvatiske dyr
 
-1\. Vedkommende myndighet kan treffe beslutning om bruk av vaksiner til dyr for å forebygge og bekjempe kategori A-sykdommer, i samsvar med artikkel 3 nr. 1, forutsatt atden har foretatt en vurdering til støtte for denne beslutningen som minst tar hensyn til kriteriene fastsatt i vedlegg II del 1, i tillegg til kriteriene fastsatt i artikkel 46 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429),vaksinene brukes i samsvar med en offisiell vaksinasjonsplan som oppfyller kravene fastsatt i artikkel 6.
+1\. Vedkommende myndighet kan treffe beslutning om bruk av vaksiner til dyr for å forebygge og bekjempe kategori A-sykdommer, i samsvar med artikkel 3 nr. 1, forutsatt at
+
+1. den har foretatt en vurdering til støtte for denne beslutningen som minst tar hensyn til kriteriene fastsatt i vedlegg II del 1, i tillegg til kriteriene fastsatt i artikkel 46 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429),
+2. vaksinene brukes i samsvar med en offisiell vaksinasjonsplan som oppfyller kravene fastsatt i artikkel 6.
 
 2\. Vedkommende myndighet kan foreta vurderingen nevnt i nr. 1 bokstav a) etter de forenklede reglene fastsatt i vedlegg II del 2 når den gjennomfører vaksinasjonsstrategien nevnt i artikkel 7 nr. 1 bokstav a) i).
 
@@ -1853,13 +2733,19 @@ Forutsetninger for bruk av vaksiner for å forebygge og bekjempe kategori A-sykd
 
 Offisiell vaksinasjonsplan for å forebygge og bekjempe kategori A-sykdommer hos landdyr og akvatisk dyr, og opplysningsplikt for medlemsstatene
 
-1\. Den offisielle vaksinasjonsplanen nevnt i artikkel 5 nr. 1 bokstav b) skalinneholde minst de opplysningene og tiltakene som er angitt i vedlegg III del 1,gjennomføres under tilsyn av vedkommende myndighet og bare i det tidsrommet som er strengt nødvendig.
+1\. Den offisielle vaksinasjonsplanen nevnt i artikkel 5 nr. 1 bokstav b) skal
+
+1. inneholde minst de opplysningene og tiltakene som er angitt i vedlegg III del 1,
+2. gjennomføres under tilsyn av vedkommende myndighet og bare i det tidsrommet som er strengt nødvendig.
 
 2\. Når vedkommende myndighet gjennomfører vaksinasjonsstrategien nevnt i artikkel 7 nr. 1 bokstav a) i), kan den ta med de forenklede opplysningene fastsatt i vedlegg III del 2 i den offisielle vaksinasjonsplanen nevnt i artikkel 5 nr. 1 bokstav b).
 
 3\. Vedkommende myndighet skal ajourføre, endre eller utfylle den offisielle vaksinasjonsplanen nevnt i artikkel 5 nr. 1 bokstav b), idet det tas hensyn til hvordan gjennomføringen av planen og den epidemiologiske situasjonen for sykdommen har utviklet seg.
 
-4\. Medlemsstatene skal framlegge for de andre medlemsstatene og Kommisjonenminst de foreløpige opplysningene fastsatt i vedlegg IV, senest to dager før vaksinasjonen begynner,den offisielle vaksinasjonsplanen med endringer og ajourføringer, så snart som mulig og senest to uker etter at vaksinasjonen er påbegynt eller endringene eller ajourføringene av den offisielle vaksinasjonsplanen er gjennomført.
+4\. Medlemsstatene skal framlegge for de andre medlemsstatene og Kommisjonen
+
+1. minst de foreløpige opplysningene fastsatt i vedlegg IV, senest to dager før vaksinasjonen begynner,
+2. den offisielle vaksinasjonsplanen med endringer og ajourføringer, så snart som mulig og senest to uker etter at vaksinasjonen er påbegynt eller endringene eller ajourføringene av den offisielle vaksinasjonsplanen er gjennomført.
 
 5\. Kommisjonen skal, i samsvar med artikkel 71 i forordning [(EU) 2016/429](eu/32016r0429), gjennomgå de nasjonale tiltakene nevnt i nr. 2 i nevnte artikkel, som fastsatt i den offisielle vaksinasjonsplanen, og handle i samsvar med nevnte artikkel.
 
@@ -1874,7 +2760,18 @@ Vaksinasjonsstrategier og tilhørende sykdomsovervåking
 
 Vaksinasjonsstrategier for å forebygge og bekjempe kategori A-sykdommer hos landdyr
 
-1\. Vedkommende myndighet kan gjennomføre følgende vaksinasjonsstrategier for å forebygge og bekjempe kategori A-sykdommer hos landdyr, i samsvar med artikkel 3 nr. 1:Nødvaksinasjon, som nevnt i artikkel 69 i forordning [(EU) 2016/429](eu/32016r0429), kan være av følgende typer:Dempende nødvaksinasjon, som gjennomføres som følge av et utbrudd av en kategori A-sykdom for å bekjempe spredning av den, og begrenses til holdte landdyr som skal avlives i samsvar med artikkel 12 nr. 1 bokstav a) og artikkel 18 nr. 1 bokstav b) i delegert forordning [(EU) 2020/687](eu/32020r0687), men som er underlagt unntaket fastsatt i artikkel 12 nr. 4 bokstav b) i nevnte forordning.Beskyttende nødvaksinasjon, som gjennomføres som følge av et utbrudd av en kategori A-sykdom, og som utføres i følgende tilfeller:For landdyr med risiko for smitte og som holdes i anlegg i rammede medlemsstater eller soner i medlemsstater der forekomst av kategori A-sykdommer verken er mistenkt eller bekreftet, i samsvar med artikkel 6 nr. 1 og artikkel 11 i delegert forordning [(EU) 2020/687](eu/32020r0687).Som følge av en endring i risikoen for innføring av en kategori A-sykdom i en medlemsstat eller en sone i en medlemsstat som ikke er rammet av sykdommen.For rammede hestedyr som omfattes av unntaket fastsatt i nr. 1 i vedlegg III til delegert forordning [(EU) 2020/687](eu/32020r0687).Nødvaksinasjon av viltlevende landdyr, som gjennomføres som følge av et utbrudd av en kategori A-sykdom.Forebyggende vaksinasjon, når en vaksine mot en kategori A-sykdom administreres til landdyr i geografiske områder som ikke er rammet, for andre forebyggende formål enn de tilfellene som omfattes av beskyttende nødvaksinasjon.
+1\. Vedkommende myndighet kan gjennomføre følgende vaksinasjonsstrategier for å forebygge og bekjempe kategori A-sykdommer hos landdyr, i samsvar med artikkel 3 nr. 1:
+
+1. Nødvaksinasjon, som nevnt i artikkel 69 i forordning [(EU) 2016/429](eu/32016r0429), kan være av følgende typer:
+
+   1. Dempende nødvaksinasjon, som gjennomføres som følge av et utbrudd av en kategori A-sykdom for å bekjempe spredning av den, og begrenses til holdte landdyr som skal avlives i samsvar med artikkel 12 nr. 1 bokstav a) og artikkel 18 nr. 1 bokstav b) i delegert forordning [(EU) 2020/687](eu/32020r0687), men som er underlagt unntaket fastsatt i artikkel 12 nr. 4 bokstav b) i nevnte forordning.
+   2. Beskyttende nødvaksinasjon, som gjennomføres som følge av et utbrudd av en kategori A-sykdom, og som utføres i følgende tilfeller:
+
+      - For landdyr med risiko for smitte og som holdes i anlegg i rammede medlemsstater eller soner i medlemsstater der forekomst av kategori A-sykdommer verken er mistenkt eller bekreftet, i samsvar med artikkel 6 nr. 1 og artikkel 11 i delegert forordning [(EU) 2020/687](eu/32020r0687).
+      - Som følge av en endring i risikoen for innføring av en kategori A-sykdom i en medlemsstat eller en sone i en medlemsstat som ikke er rammet av sykdommen.
+      - For rammede hestedyr som omfattes av unntaket fastsatt i nr. 1 i vedlegg III til delegert forordning [(EU) 2020/687](eu/32020r0687).
+   3. Nødvaksinasjon av viltlevende landdyr, som gjennomføres som følge av et utbrudd av en kategori A-sykdom.
+2. Forebyggende vaksinasjon, når en vaksine mot en kategori A-sykdom administreres til landdyr i geografiske områder som ikke er rammet, for andre forebyggende formål enn de tilfellene som omfattes av beskyttende nødvaksinasjon.
 
 2\. Vedkommende myndighet kan gjennomføre strategiene nevnt i nr. 1 samtidig eller fortløpende i ulike populasjoner av holdte og viltlevende landdyr, i ulike geografiske soner og på ulike tidspunkter i løpet av et utbrudd, og kan variere strategiene som anvendes, avhengig av sone, rammet art eller andre særlige forhold. I slike tilfeller skal vedkommende myndighet ta med alle strategiene som anvendes, samtidig eller fortløpende, i den offisielle vaksinasjonsplanen etter vurderingen nevnt i artikkel 5 nr. 1 bokstav a).
 
@@ -1882,13 +2779,28 @@ Vaksinasjonsstrategier for å forebygge og bekjempe kategori A-sykdommer hos lan
 
 Regler for gjennomføring av dempende nødvaksinasjon
 
-Når vedkommende myndighet gjennomfører dempende nødvaksinasjon, som nevnt i artikkel 7 nr. 1 bokstav a) i), skal denvaksinere dyrene som omfattes av unntaket fastsatt i artikkel 12 nr. 4 bokstav b) i delegert forordning [(EU) 2020/687](eu/32020r0687), umiddelbart etter at det eller de relevante utbruddene er bekreftet,påby og føre tilsyn med avliving av alle vaksinerte dyr så snart som mulig, i samsvar med reglene fastsatt i enten artikkel 12 nr. 1 bokstav a) eller artikkel 12 nr. 4 bokstav a) i delegert forordning [(EU) 2020/687](eu/32020r0687) og i henhold til biosikkerhetstiltakene fastsatt i artikkel 12 nr. 1 bokstav c) og artikkel 12 nr. 2 i den delegerte forordningen.
+Når vedkommende myndighet gjennomfører dempende nødvaksinasjon, som nevnt i artikkel 7 nr. 1 bokstav a) i), skal den
+
+1. vaksinere dyrene som omfattes av unntaket fastsatt i artikkel 12 nr. 4 bokstav b) i delegert forordning [(EU) 2020/687](eu/32020r0687), umiddelbart etter at det eller de relevante utbruddene er bekreftet,
+2. påby og føre tilsyn med avliving av alle vaksinerte dyr så snart som mulig, i samsvar med reglene fastsatt i enten artikkel 12 nr. 1 bokstav a) eller artikkel 12 nr. 4 bokstav a) i delegert forordning [(EU) 2020/687](eu/32020r0687) og i henhold til biosikkerhetstiltakene fastsatt i artikkel 12 nr. 1 bokstav c) og artikkel 12 nr. 2 i den delegerte forordningen.
 
 ###### Artikkel 9
 
 Regler for gjennomføring av beskyttende nødvaksinasjon og nødvaksinasjon av viltlevende dyr
 
-1\. Når vedkommende myndighet gjennomfører beskyttende nødvaksinasjon, som nevnt i artikkel 7 nr. 1 bokstav a) ii), og nødvaksinasjon av viltlevende dyr, som nevnt i artikkel 7 nr. 1 bokstav a) iii), skal denangi hvilken type vaksine som skal brukes eller prioriteres, minste vaksinedekning og måldyr/-arter,opprette en geografiskvaksinasjonssone der vaksinasjonen utføres, for å hindre spredning av kategori A-sykdommen fra rammede områder til områder som ikke er rammet,randsone der vaksinasjon ikke er tillatt, som omgir vaksinasjonssonen og dekker et område av en viss bredde rundt vaksinasjonssonen,gjennomføre forsterket klinisk overvåking og laboratorieovervåking i vaksinasjons- og randsonene nevnt i bokstav b)for å vurdere vaksinasjonens effektivitet i vaksinasjonssonen,for å påvise eventuelle nye utbrudd av sykdommen i vaksinasjons- og randsonene,i samsvar med vedlegg I til delegert forordning [(EU) 2020/687](eu/32020r0687) med hensyn til framgangsmåter for prøvetaking, diagnostiske metoder og transport av prøver,med diagnostisk metode valgt ut fra type vaksine som administreres.
+1\. Når vedkommende myndighet gjennomfører beskyttende nødvaksinasjon, som nevnt i artikkel 7 nr. 1 bokstav a) ii), og nødvaksinasjon av viltlevende dyr, som nevnt i artikkel 7 nr. 1 bokstav a) iii), skal den
+
+1. angi hvilken type vaksine som skal brukes eller prioriteres, minste vaksinedekning og måldyr/-arter,
+2. opprette en geografisk
+
+   1. vaksinasjonssone der vaksinasjonen utføres, for å hindre spredning av kategori A-sykdommen fra rammede områder til områder som ikke er rammet,
+   2. randsone der vaksinasjon ikke er tillatt, som omgir vaksinasjonssonen og dekker et område av en viss bredde rundt vaksinasjonssonen,
+3. gjennomføre forsterket klinisk overvåking og laboratorieovervåking i vaksinasjons- og randsonene nevnt i bokstav b)
+
+   1. for å vurdere vaksinasjonens effektivitet i vaksinasjonssonen,
+   2. for å påvise eventuelle nye utbrudd av sykdommen i vaksinasjons- og randsonene,
+   3. i samsvar med vedlegg I til delegert forordning [(EU) 2020/687](eu/32020r0687) med hensyn til framgangsmåter for prøvetaking, diagnostiske metoder og transport av prøver,
+   4. med diagnostisk metode valgt ut fra type vaksine som administreres.
 
 2\. Som unntak fra nr. 1 bokstav b) ii) kan vedkommende myndighet beslutte ikke å opprette randsonen når den gjennomfører beskyttende nødvaksinasjon i soner der forekomst av den relevante kategori A-sykdommen verken er mistenkt eller bekreftet, og når den gjennomfører beskyttende nødvaksinasjon av viltlevende dyr.
 
@@ -1902,7 +2814,12 @@ Regler for gjennomføring av forebyggende vaksinasjon
 
 1\. Forebyggende vaksinasjon kan bare gjennomføres for å forebygge kategori A-sykdommer som det er fastsatt særlige vilkår for forebyggende vaksinasjon for i del 5 i vedlegg VII–XIV, og skal gjennomføres i samsvar med disse vilkårene.
 
-2\. Når vedkommende myndighet gjennomfører forebyggende vaksinasjon, som nevnt i artikkel 7 nr. 1 bokstav b), skal denangi hvilken type vaksine som skal brukes eller prioriteres,gjennomføre forsterket klinisk overvåking og laboratorieovervåking,i samsvar med de relevante sykdomsspesifikke vilkårene fastsatt i del 5 i vedlegg VII–XIV, dersom disse er fastsatt.
+2\. Når vedkommende myndighet gjennomfører forebyggende vaksinasjon, som nevnt i artikkel 7 nr. 1 bokstav b), skal den
+
+1. angi hvilken type vaksine som skal brukes eller prioriteres,
+2. gjennomføre forsterket klinisk overvåking og laboratorieovervåking,
+
+i samsvar med de relevante sykdomsspesifikke vilkårene fastsatt i del 5 i vedlegg VII–XIV, dersom disse er fastsatt.
 
 ###### Artikkel 11
 
@@ -1920,7 +2837,10 @@ Risikoreduserende tiltak, sertifiseringskrav og restitusjonsperioder
 
 Biosikkerhetsregler ved nødvaksinasjon og forebyggende vaksinasjon
 
-1\. Ved gjennomføring av nødvaksinasjon eller forebyggende vaksinasjon skal vedkommende myndighet sikre at følgende oppgaver er under tilsyn av en offentlig veterinær:Distribusjon og administrering av vaksinen.Tilbakeføring av eventuelle restmengder av vaksinen til distribusjonsstedet eller til et annet utpekt sted, med en oversikt over de vaksinerte anleggene, antall vaksinerte dyr og antall brukte doser.
+1\. Ved gjennomføring av nødvaksinasjon eller forebyggende vaksinasjon skal vedkommende myndighet sikre at følgende oppgaver er under tilsyn av en offentlig veterinær:
+
+1. Distribusjon og administrering av vaksinen.
+2. Tilbakeføring av eventuelle restmengder av vaksinen til distribusjonsstedet eller til et annet utpekt sted, med en oversikt over de vaksinerte anleggene, antall vaksinerte dyr og antall brukte doser.
 
 2\. Når vaksinen administreres og restmengder av produktet returneres, skal vedkommende myndighet treffe alle nødvendige tiltak for å unngå en mulig spredning av sykdomsagenser.
 
@@ -1928,21 +2848,48 @@ Biosikkerhetsregler ved nødvaksinasjon og forebyggende vaksinasjon
 
 Risikoreduserende tiltak i vaksinasjonssonen ved gjennomføring av beskyttende nødvaksinasjon og nødvaksinasjon av viltlevende dyr
 
-1\. Når vedkommende myndighet gjennomfører beskyttende nødvaksinasjon, skal den forbyforflytninger av dyr og produkter av disse fastsatt i del 3 nr. 1 i vedlegg VII–XIV,uttak av følgende avlsmateriale fra dyr av listeførte arter, fastsatt i del 3 nr. 2 i vedlegg VII–XIV:Sæd.Oocytter.Embryoer.dersom de sykdomsspesifikke vilkårene fastsatt i del 3 i vedlegg VII–XIV ikke foreligger, forflytning avvaksinerte dyr fra anlegget der de ble vaksinert,produkter fra vaksinerte dyr fra produksjons- og/eller bearbeidingsanleggene.
+1\. Når vedkommende myndighet gjennomfører beskyttende nødvaksinasjon, skal den forby
 
-2\. Vedkommende myndighet kan som unntak fra nr. 1 bokstav a) tillate forflytning av vaksinerte dyr fra anlegget der de ble vaksinert, dersomde er underlagt obligatorisk avliving etter vaksinasjon, i samsvar med den offisielle vaksinasjonsplanen nevnt i artikkel 5 nr. 1 bokstav b), og flyttes til nærmeste egnede sted for avliving,
-ellerde ikke er underlagt obligatorisk avliving etter vaksinasjon, i samsvar med den offisielle vaksinasjonsplanen nevnt i artikkel 5 nr. 1 bokstav b), og de er entenikke underlagt forbud mot forflytninger,
-ellerde er underlagt forbud mot forflytninger, men de oppfyller de relevante vilkårene, og vedkommende myndighet har godkjent forflytningen i samsvar med vilkårene fastsatt i del 3 nr. 3 i vedlegg VII–XIV.
+1. forflytninger av dyr og produkter av disse fastsatt i del 3 nr. 1 i vedlegg VII–XIV,
+2. uttak av følgende avlsmateriale fra dyr av listeførte arter, fastsatt i del 3 nr. 2 i vedlegg VII–XIV:
 
-3\. Vedkommende myndighet kan som unntak fra nr. 1 bokstav a) tillate forflytning av produkter fra vaksinerte dyr fra produksjons- og/eller bearbeidingsanlegget, dersomde ikke er underlagt forbud mot forflytninger,
-ellervedkommende myndighet har godkjent forflytningen i samsvar med vilkårene fastsatt i del 3 nr. 3 i vedlegg VII–XIV.
+   1. Sæd.
+   2. Oocytter.
+   3. Embryoer.
+3. dersom de sykdomsspesifikke vilkårene fastsatt i del 3 i vedlegg VII–XIV ikke foreligger, forflytning av
 
-4\. Vedkommende myndighet kan som unntak fra nr. 1 bokstav b) tillate uttak av avlsmaterialet som er oppført der, dersomde ikke er underlagt forbud mot uttak,
-ellervedkommende myndighet har godkjent uttaket i samsvar med vilkårene fastsatt i del 3 nr. 3 i vedlegg VII–XIV.
+   1. vaksinerte dyr fra anlegget der de ble vaksinert,
+   2. produkter fra vaksinerte dyr fra produksjons- og/eller bearbeidingsanleggene.
+
+2\. Vedkommende myndighet kan som unntak fra nr. 1 bokstav a) tillate forflytning av vaksinerte dyr fra anlegget der de ble vaksinert, dersom
+
+1. de er underlagt obligatorisk avliving etter vaksinasjon, i samsvar med den offisielle vaksinasjonsplanen nevnt i artikkel 5 nr. 1 bokstav b), og flyttes til nærmeste egnede sted for avliving,
+   eller
+2. de ikke er underlagt obligatorisk avliving etter vaksinasjon, i samsvar med den offisielle vaksinasjonsplanen nevnt i artikkel 5 nr. 1 bokstav b), og de er enten
+
+   1. ikke underlagt forbud mot forflytninger,
+      eller
+   2. de er underlagt forbud mot forflytninger, men de oppfyller de relevante vilkårene, og vedkommende myndighet har godkjent forflytningen i samsvar med vilkårene fastsatt i del 3 nr. 3 i vedlegg VII–XIV.
+
+3\. Vedkommende myndighet kan som unntak fra nr. 1 bokstav a) tillate forflytning av produkter fra vaksinerte dyr fra produksjons- og/eller bearbeidingsanlegget, dersom
+
+1. de ikke er underlagt forbud mot forflytninger,
+   eller
+2. vedkommende myndighet har godkjent forflytningen i samsvar med vilkårene fastsatt i del 3 nr. 3 i vedlegg VII–XIV.
+
+4\. Vedkommende myndighet kan som unntak fra nr. 1 bokstav b) tillate uttak av avlsmaterialet som er oppført der, dersom
+
+1. de ikke er underlagt forbud mot uttak,
+   eller
+2. vedkommende myndighet har godkjent uttaket i samsvar med vilkårene fastsatt i del 3 nr. 3 i vedlegg VII–XIV.
 
 5\. Når vedkommende myndighet gjennomfører nødvaksinasjon av viltlevende dyr, skal den i vaksinasjonssonen anvende de sykdomsspesifikke restriksjonene og andre risikoreduserende tiltak som er fastsatt i del 3 i vedlegg VII–XIV for den relevante sykdommen, når dette er fastsatt særlig for nødvaksinasjon av viltlevende dyr.
 
-6\. Restriksjonene og andre risikoreduserende tiltak fastsatt i nr. 1 og 5 får anvendelse i vaksinasjonssonene i tillegg til de tiltakene som gjelder forverne- og overvåkingssoner og eventuelt ytterligere restriksjonssoner, opprettet i samsvar med artikkel 21 nr. 1 i delegert forordning [(EU) 2020/687](eu/32020r0687) ved utbrudd av en kategori A-sykdom hos holdte landdyr, til de oppheves i samsvar med artikkel 39 og 55 i nevnte forordning,infiserte soner fastsatt i samsvar med artikkel 63 nr. 1 i delegert forordning [(EU) 2020/687](eu/32020r0687) ved utbrudd av en kategori A-sykdom hos viltlevende dyr, til de oppheves i samsvar med artikkel 67 i nevnte forordning,restriksjonssoner opprettet i henhold til nødtiltakene fastsatt i artikkel 71, 257 og 258 i forordning [(EU) 2016/429](eu/32016r0429), og eventuelle regler vedtatt i henhold til artikkel 71 nr. 3 og artikkel 259 i nevnte forordning, til disse tiltakene oppheves.
+6\. Restriksjonene og andre risikoreduserende tiltak fastsatt i nr. 1 og 5 får anvendelse i vaksinasjonssonene i tillegg til de tiltakene som gjelder for
+
+1. verne- og overvåkingssoner og eventuelt ytterligere restriksjonssoner, opprettet i samsvar med artikkel 21 nr. 1 i delegert forordning [(EU) 2020/687](eu/32020r0687) ved utbrudd av en kategori A-sykdom hos holdte landdyr, til de oppheves i samsvar med artikkel 39 og 55 i nevnte forordning,
+2. infiserte soner fastsatt i samsvar med artikkel 63 nr. 1 i delegert forordning [(EU) 2020/687](eu/32020r0687) ved utbrudd av en kategori A-sykdom hos viltlevende dyr, til de oppheves i samsvar med artikkel 67 i nevnte forordning,
+3. restriksjonssoner opprettet i henhold til nødtiltakene fastsatt i artikkel 71, 257 og 258 i forordning [(EU) 2016/429](eu/32016r0429), og eventuelle regler vedtatt i henhold til artikkel 71 nr. 3 og artikkel 259 i nevnte forordning, til disse tiltakene oppheves.
 
 7\. Tiltakene nevnt i nr. 1 og 5 får fortsatt anvendelse etter at tiltakene nevnt i nr. 6 er opphevet.
 
@@ -1952,13 +2899,23 @@ Risikoreduserende tiltak ved gjennomføring av forebyggende vaksinasjon
 
 1\. Når vedkommende myndighet gjennomfører forebyggende vaksinasjon, skal den forby forflytning av vaksinerte dyr fra anlegget der de ble vaksinert, og forflytning av produkter fra vaksinerte dyr fra produksjons- og/eller bearbeidingsanlegget.
 
-2\. Vedkommende myndighet kan som unntak fra nr. 1 tillate forflytning av vaksinerte dyr fra anlegget der de ble vaksinert, og produkter av disse fra produksjons- og/eller bearbeidingsanlegget, dersomde ikke står på listen over dyr og produkter som er underlagt forbud mot forflytninger,de er underlagt forbud mot forflytninger, men de oppfyller de relevante vilkårene, og vedkommende myndighet har godkjent forflytningen,i samsvar med vilkårene fastsatt i del 5 i vedlegg VII–XIV, dersom disse er fastsatt.
+2\. Vedkommende myndighet kan som unntak fra nr. 1 tillate forflytning av vaksinerte dyr fra anlegget der de ble vaksinert, og produkter av disse fra produksjons- og/eller bearbeidingsanlegget, dersom
+
+1. de ikke står på listen over dyr og produkter som er underlagt forbud mot forflytninger,
+2. de er underlagt forbud mot forflytninger, men de oppfyller de relevante vilkårene, og vedkommende myndighet har godkjent forflytningen,
+
+i samsvar med vilkårene fastsatt i del 5 i vedlegg VII–XIV, dersom disse er fastsatt.
 
 ###### Artikkel 15
 
 Sertifiseringskrav for forflytning av holdte dyr og produkter av disse fra vaksinasjonssoner
 
-Driftsansvarlige får bare flytte dyr og produkter som tiltakene fastsatt i artikkel 13 nr. 1 gjelder for, innenfor en medlemsstat eller fra en medlemsstat til en annen medlemsstat, dersom dyrene og produktene som skal flyttes, oppfyller de relevante vilkårene fastsatt i artikkel 13 og er ledsaget av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten i samsvar medartikkel 149 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) for holdte landdyr,artikkel 161 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429) for avlsmateriale,artikkel 167 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429) for produkter av animalsk opprinnelse,artikkel 22 nr. 5 og 6 i delegert forordning [(EU) 2020/687](eu/32020r0687) for animalske biprodukter.
+Driftsansvarlige får bare flytte dyr og produkter som tiltakene fastsatt i artikkel 13 nr. 1 gjelder for, innenfor en medlemsstat eller fra en medlemsstat til en annen medlemsstat, dersom dyrene og produktene som skal flyttes, oppfyller de relevante vilkårene fastsatt i artikkel 13 og er ledsaget av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten i samsvar med
+
+1. artikkel 149 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) for holdte landdyr,
+2. artikkel 161 nr. 4 i forordning [(EU) 2016/429](eu/32016r0429) for avlsmateriale,
+3. artikkel 167 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429) for produkter av animalsk opprinnelse,
+4. artikkel 22 nr. 5 og 6 i delegert forordning [(EU) 2020/687](eu/32020r0687) for animalske biprodukter.
 
 ###### Artikkel 16
 
@@ -1966,7 +2923,13 @@ Restitusjonsperioder etter beskyttende nødvaksinasjon
 
 1\. Etter at den beskyttende nødvaksinasjonen er fullført, skal vedkommende myndighet overholde de relevante sykdomsspesifikke restitusjonsperiodene fastsatt i del 4 i vedlegg VII–XIV, og i disse periodene skal det gjennomføres klinisk overvåking og/eller laboratorieovervåking som dokumenterer fravær av infeksjon med det relevante patogenet i vaksinasjons- og randsonene.
 
-2\. Overvåkingen nevnt i nr. 1 skal gjennomføresi samsvar medde sykdomsspesifikke vilkårene fastsatt i del 4 i vedlegg VII–XIV,vedlegg I til delegert forordning [(EU) 2020/687](eu/32020r0687), med hensyn til framgangsmåter for prøvetaking, diagnostiske metoder og transport av prøver,idet det tas hensyn til type vaksine som er administrert.
+2\. Overvåkingen nevnt i nr. 1 skal gjennomføres
+
+1. i samsvar med
+
+   1. de sykdomsspesifikke vilkårene fastsatt i del 4 i vedlegg VII–XIV,
+   2. vedlegg I til delegert forordning [(EU) 2020/687](eu/32020r0687), med hensyn til framgangsmåter for prøvetaking, diagnostiske metoder og transport av prøver,
+2. idet det tas hensyn til type vaksine som er administrert.
 
 ###### Avsnitt 3
 
@@ -1978,7 +2941,9 @@ Ikrafttredelse
 
 Denne forordningen trer i kraft 20 dager etter at den er kunngjort i *Den europeiske unions tidende.*
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 28. november 2022.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 28. november 2022.
 
 |  |  |
 | --- | --- |
@@ -2055,7 +3020,15 @@ Kriterier for bruk av en vaksine for å forebygge og bekjempe en kategori A-sykd
 
 *2. Vaksinasjon av viltlevende dyr*
 
-I tillegg til kriteriene fastsatt i nr. 1 skal følgende kriterier tas i betraktning:Dødelighet hos viltlevende dyr på grunn av kategori A-sykdom.Kunnskap om populasjonen og den økologiske dynamikken til de rammede viltlevende dyrene.Størrelsen på det rammede området (der det finnes dyr som er rammet).Risikoen for spredning av sykdommen til ytterligere listeførte arter av viltlevende dyr eller til områder utenfor ovennevnte område.Risikoen for spredning av kategori A-sykdommen til holdte dyr eller til mennesker.Tilgjengeligheten av vaksiner og vaksinasjonssystemer for distribusjon av vaksinen i målpopulasjonen.Muligheten til å kontrollere vaksinasjonen og etablere et overvåkingssystem for å påvise den spesifikke sykdomsagensen og vurdere vaksinasjonens effektivitet.
+I tillegg til kriteriene fastsatt i nr. 1 skal følgende kriterier tas i betraktning:
+
+1. Dødelighet hos viltlevende dyr på grunn av kategori A-sykdom.
+2. Kunnskap om populasjonen og den økologiske dynamikken til de rammede viltlevende dyrene.
+3. Størrelsen på det rammede området (der det finnes dyr som er rammet).
+4. Risikoen for spredning av sykdommen til ytterligere listeførte arter av viltlevende dyr eller til områder utenfor ovennevnte område.
+5. Risikoen for spredning av kategori A-sykdommen til holdte dyr eller til mennesker.
+6. Tilgjengeligheten av vaksiner og vaksinasjonssystemer for distribusjon av vaksinen i målpopulasjonen.
+7. Muligheten til å kontrollere vaksinasjonen og etablere et overvåkingssystem for å påvise den spesifikke sykdomsagensen og vurdere vaksinasjonens effektivitet.
 
 ### DEL 2
 FORENKLET VURDERING AV VAKSINASJONSSTRATEGIEN
@@ -2095,7 +3068,13 @@ Opplysninger som skal tas med i den offisielle vaksinasjonsplanen
 
 *2. Viltlevende dyr*
 
-Dersom vaksinasjonen omfatter viltlevende dyr av listeførte arter, skal den offisielle vaksinasjonsplanen inneholde opplysningene nevnt i nr. 1 bokstav a), b), j), k), l), m), n), o), p) og q) samt følgende opplysninger:En detaljert geografisk beskrivelse av vaksinasjonssonen og randsonen, dersom dette er relevant.Anslått antall viltlevende dyr av listeførte arter som skal vaksineres.De tiltak som skal treffes for å unngå et høyt antall forflytninger av viltlevende dyr.Vaksinasjonsperioder eller -sesonger dersom det er relevant.Utleveringssystem for vaksinen.
+Dersom vaksinasjonen omfatter viltlevende dyr av listeførte arter, skal den offisielle vaksinasjonsplanen inneholde opplysningene nevnt i nr. 1 bokstav a), b), j), k), l), m), n), o), p) og q) samt følgende opplysninger:
+
+1. En detaljert geografisk beskrivelse av vaksinasjonssonen og randsonen, dersom dette er relevant.
+2. Anslått antall viltlevende dyr av listeførte arter som skal vaksineres.
+3. De tiltak som skal treffes for å unngå et høyt antall forflytninger av viltlevende dyr.
+4. Vaksinasjonsperioder eller -sesonger dersom det er relevant.
+5. Utleveringssystem for vaksinen.
 
 ### DEL 2
 FORENKLEDE OPPLYSNINGER SOM SKAL TAS MED I DEN OFFISIELLE VAKSINASJONSPLANEN
@@ -2111,7 +3090,15 @@ FORENKLEDE OPPLYSNINGER SOM SKAL TAS MED I DEN OFFISIELLE VAKSINASJONSPLANEN
 ### VEDLEGG IV
 Foreløpige opplysninger som skal framlegges for andre medlemsstater og for Kommisjonen før vaksinasjon
 
-Medlemsstaten som har til hensikt å bruke vaksinasjon mot kategori A-sykdommer, skal gi følgende opplysninger før vaksinasjonen påbegynnes:Kort begrunnelse for å starte vaksinasjonen.Valgt strategi og motivasjon.Dyrearter som skal vaksineres, med angivelse av om viltlevende dyr skal omfattes.Anslått antall dyr som skal vaksineres.Anslått varighet av vaksinasjonen.Vaksinens type og handelsnavn, herunder angivelse av om vaksinen vil bli brukt i samsvar med artikkel 110 nr. 2 i forordning [(EU) 2019/6](eu/32019r0006).Beskrivelse av den antatte vaksinasjonssonen.
+Medlemsstaten som har til hensikt å bruke vaksinasjon mot kategori A-sykdommer, skal gi følgende opplysninger før vaksinasjonen påbegynnes:
+
+1. Kort begrunnelse for å starte vaksinasjonen.
+2. Valgt strategi og motivasjon.
+3. Dyrearter som skal vaksineres, med angivelse av om viltlevende dyr skal omfattes.
+4. Anslått antall dyr som skal vaksineres.
+5. Anslått varighet av vaksinasjonen.
+6. Vaksinens type og handelsnavn, herunder angivelse av om vaksinen vil bli brukt i samsvar med artikkel 110 nr. 2 i forordning [(EU) 2019/6](eu/32019r0006).
+7. Beskrivelse av den antatte vaksinasjonssonen.
 
 ### VEDLEGG V
 Minstekrav til vaksinasjonsregistreringer
@@ -2177,14 +3164,29 @@ SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBY
 ### DEL 2
 SÆRLIGE VILKÅR FOR FORSTERKET KLINISK OVERVÅKING OG LABORATORIEOVERVÅKING SOM SKAL GJENNOMFØRES I VAKSINASJONS- OG RANDSONENE UNDER BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE FMD
 
-Følgende kliniske overvåking og laboratorieovervåking skal gjennomføres i vaksinasjonssonen for å identifisere anlegg som holder dyr av listeførte arter som har hatt kontakt med FMD-viruset, uten å vise kliniske tegn på sykdommen i perioden som begynner tidligst 30 dager etter at beskyttende nødvaksinasjon er fullført. Denne overvåkingen skal omfatteen klinisk undersøkelse av en av følgende typer:Klinisk undersøkelse av alle dyr av listeførte arter som holdes i alle anlegg i vaksinasjonssonen.Klinisk undersøkelse rettet mot bestemte arter som sannsynligvis vil vise tydelige kliniske tegn, dersom vedkommende myndighet beslutter det, på grunnlag av det positive resultatet av en risikovurdering.laboratorieundersøkelse i tråd med følgende vilkår:For antistoffer mot ikke-strukturelle proteiner av FMD-virus som er utført på prøver tatt fra vaksinerte dyr av listeførte arter og deres ikke-vaksinerte avkom i alle anlegg i vaksinasjonssonen.For å påvise infeksjon med FMD-viruset, enten ved en test for antistoffer mot ikke-strukturelle proteiner av FMD-viruset eller ved en annen godkjent metode, i prøver som er tatt i samsvar med vedlegg I til delegert forordning [(EU) 2020/687](eu/32020r0687), fra alle anlegg i vaksinasjonssonen der vaksinasjon ikke er utført.Utført for hvert anlegg som er undersøkt i henhold til bokstav a), i samsvar med en stikkprøvestørrelse som skal beregnes for å påvise en prevalens hos dyrene i anlegget på høyst 5 %, med et konfidensnivå på 95 %, hos både vaksinerte og ikke-vaksinerte dyr.Dersom vedkommende myndighet i tillegg bruker kontrolldyr som er innført i rammede anlegg som en del av gjeninnsettingen, skal det tas hensyn til vilkårene for gjeninnsetting i rammede anlegg fastsatt i delegert forordning [(EU) 2020/687](eu/32020r0687).
+Følgende kliniske overvåking og laboratorieovervåking skal gjennomføres i vaksinasjonssonen for å identifisere anlegg som holder dyr av listeførte arter som har hatt kontakt med FMD-viruset, uten å vise kliniske tegn på sykdommen i perioden som begynner tidligst 30 dager etter at beskyttende nødvaksinasjon er fullført. Denne overvåkingen skal omfatte
+
+1. en klinisk undersøkelse av en av følgende typer:
+
+   1. Klinisk undersøkelse av alle dyr av listeførte arter som holdes i alle anlegg i vaksinasjonssonen.
+   2. Klinisk undersøkelse rettet mot bestemte arter som sannsynligvis vil vise tydelige kliniske tegn, dersom vedkommende myndighet beslutter det, på grunnlag av det positive resultatet av en risikovurdering.
+2. laboratorieundersøkelse i tråd med følgende vilkår:
+
+   1. For antistoffer mot ikke-strukturelle proteiner av FMD-virus som er utført på prøver tatt fra vaksinerte dyr av listeførte arter og deres ikke-vaksinerte avkom i alle anlegg i vaksinasjonssonen.
+   2. For å påvise infeksjon med FMD-viruset, enten ved en test for antistoffer mot ikke-strukturelle proteiner av FMD-viruset eller ved en annen godkjent metode, i prøver som er tatt i samsvar med vedlegg I til delegert forordning [(EU) 2020/687](eu/32020r0687), fra alle anlegg i vaksinasjonssonen der vaksinasjon ikke er utført.
+   3. Utført for hvert anlegg som er undersøkt i henhold til bokstav a), i samsvar med en stikkprøvestørrelse som skal beregnes for å påvise en prevalens hos dyrene i anlegget på høyst 5 %, med et konfidensnivå på 95 %, hos både vaksinerte og ikke-vaksinerte dyr.
+   4. Dersom vedkommende myndighet i tillegg bruker kontrolldyr som er innført i rammede anlegg som en del av gjeninnsettingen, skal det tas hensyn til vilkårene for gjeninnsetting i rammede anlegg fastsatt i delegert forordning [(EU) 2020/687](eu/32020r0687).
 
 ### DEL 3
 SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVILGE UNNTAK I SAMSVAR MED ARTIKKEL 13 I VAKSINASJONSSONER DER DET UTFØRES BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE FMD
 
 1\.
 
-Dyr og produkter som er underlagt forbud mot forflytninger: vaksinerte dyr og produkter av disse som skal flyttes til andre medlemsstater, fram til restitusjonsperioden fastsatt i del 4 er avsluttet:dyr av listeførte arter fra anlegg som ligger i vaksinasjonssonen,ferskt kjøtt, rå melk og råmelk fra vaksinerte dyr,melkeprodukter og råmelkbaserte produkter framstilt av melk og råmelk fra vaksinerte dyr.
+Dyr og produkter som er underlagt forbud mot forflytninger: vaksinerte dyr og produkter av disse som skal flyttes til andre medlemsstater, fram til restitusjonsperioden fastsatt i del 4 er avsluttet:
+
+1. dyr av listeførte arter fra anlegg som ligger i vaksinasjonssonen,
+2. ferskt kjøtt, rå melk og råmelk fra vaksinerte dyr,
+3. melkeprodukter og råmelkbaserte produkter framstilt av melk og råmelk fra vaksinerte dyr.
 
 2\.
 
@@ -2196,15 +3198,56 @@ Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), a
 
 3.1.
 
-Fra den beskyttende nødvaksinasjonen er påbegynt til det har gått minst 30 dager etter at den er fullført, kan følgende godkjennes:Forflytning for slakting av holdte dyr av listeførte arter fra anlegg i vaksinasjonssonen til et slakteri i eller så nær vaksinasjonssonen som mulig, i samme medlemsstat, på samme vilkår som dem som er fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 5 og 7 og artikkel 29 nr. 1 og 2 i delegert forordning [(EU) 2020/687](eu/32020r0687).Forflytning av ferskt kjøtt og rå melk fra vaksinerte dyr på samme vilkår som dem som er fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 6 og 7 og artikkel 33 nr. 1 bokstav a) samt artikkel 33 nr. 2 i delegert forordning [(EU) 2020/687](eu/32020r0687).Forflytning av melkeprodukter framstilt av melk fra vaksinerte dyr dersom de har gjennomgått en effektiv behandling for FMD i samsvar med vedlegg VII til delegert forordning [(EU) 2020/687](eu/32020r0687), og bare dersom de under produksjonsprosessen, lagringen og transporten har vært adskilt fra produkter som ikke kan sendes utenfor vaksinasjonssonen i henhold til denne forordningen.Uttak av sæd til kunstig befruktning fra donordyr av listeførte arter som holdes i godkjente anlegg for avlsmateriale i vaksinasjonssonen for produksjon av frossen sæd, under følgende vilkår:Det sikres at sæden som samles inn i løpet av denne perioden, lagres separat i minst 30 dager.Før sæden sendes, entendonordyret ikke er vaksinert, og de samme vilkårene som dem som er fastsatt i artikkel 32 bokstav b) og c) i delegert forordning [(EU) 2020/687](eu/32020r0687) er oppfylt, ellerdonordyret er vaksinert etter et negativt resultat fra en laboratorieundersøkelse for påvisning av antistoffer mot FMD-viruset utført før vaksinasjon, oget negativt resultat er oppnådd i en laboratorieundersøkelse for påvisning av enten virus eller virusgenom, eller i en godkjent prøve for påvisning av antistoffer mot ikke-strukturelle proteiner av FMD-viruset, utført på slutten av karanteneperioden for sæden på prøver tatt fra alle dyr av listeførte arter som på det tidspunktet befant seg i det godkjente anlegget for avlsmateriale, ogsæden oppfyller vilkårene fastsatt i del 5 kapittel I nr. 3 i vedlegg II til delegert forordning [(EU) 2020/686](eu/32020r0686).
+Fra den beskyttende nødvaksinasjonen er påbegynt til det har gått minst 30 dager etter at den er fullført, kan følgende godkjennes:
+
+1. Forflytning for slakting av holdte dyr av listeførte arter fra anlegg i vaksinasjonssonen til et slakteri i eller så nær vaksinasjonssonen som mulig, i samme medlemsstat, på samme vilkår som dem som er fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 5 og 7 og artikkel 29 nr. 1 og 2 i delegert forordning [(EU) 2020/687](eu/32020r0687).
+2. Forflytning av ferskt kjøtt og rå melk fra vaksinerte dyr på samme vilkår som dem som er fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 6 og 7 og artikkel 33 nr. 1 bokstav a) samt artikkel 33 nr. 2 i delegert forordning [(EU) 2020/687](eu/32020r0687).
+3. Forflytning av melkeprodukter framstilt av melk fra vaksinerte dyr dersom de har gjennomgått en effektiv behandling for FMD i samsvar med vedlegg VII til delegert forordning [(EU) 2020/687](eu/32020r0687), og bare dersom de under produksjonsprosessen, lagringen og transporten har vært adskilt fra produkter som ikke kan sendes utenfor vaksinasjonssonen i henhold til denne forordningen.
+4. Uttak av sæd til kunstig befruktning fra donordyr av listeførte arter som holdes i godkjente anlegg for avlsmateriale i vaksinasjonssonen for produksjon av frossen sæd, under følgende vilkår:
+
+   1. Det sikres at sæden som samles inn i løpet av denne perioden, lagres separat i minst 30 dager.
+   2. Før sæden sendes, enten
+
+      - donordyret ikke er vaksinert, og de samme vilkårene som dem som er fastsatt i artikkel 32 bokstav b) og c) i delegert forordning [(EU) 2020/687](eu/32020r0687) er oppfylt, eller
+      - donordyret er vaksinert etter et negativt resultat fra en laboratorieundersøkelse for påvisning av antistoffer mot FMD-viruset utført før vaksinasjon, og
+      - et negativt resultat er oppnådd i en laboratorieundersøkelse for påvisning av enten virus eller virusgenom, eller i en godkjent prøve for påvisning av antistoffer mot ikke-strukturelle proteiner av FMD-viruset, utført på slutten av karanteneperioden for sæden på prøver tatt fra alle dyr av listeførte arter som på det tidspunktet befant seg i det godkjente anlegget for avlsmateriale, og
+      - sæden oppfyller vilkårene fastsatt i del 5 kapittel I nr. 3 i vedlegg II til delegert forordning [(EU) 2020/686](eu/32020r0686).
 
 3.2.
 
-I perioden som starter tidligst 30 dager etter at den beskyttende nødvaksinasjonen er fullført, til den særlige overvåkingen fastsatt i del 2 i dette vedlegget er fullført, kan følgende godkjennes:Forflytning for slakting av holdte dyr av listeførte arter som holdes i vaksinasjonssonen, til et slakteri i eller utenfor vaksinasjonssonen, men innenfor samme medlemsstat, på samme vilkår som dem som er fastsatt i artikkel 24 og artikkel 28 nr. 5 i delegert forordning [(EU) 2020/687](eu/32020r0687).Forflytning av ferskt kjøtt, unntatt slaktebiprodukt, fra vaksinerte hov- og klovdyr av listeførte arter, unntatt svin, dersom det ferske kjøttetoppfyller de samme kravene som dem som er fastsatt i artikkel 28 nr. 6 i delegert forordning [(EU) 2020/687](eu/32020r0687),er utbeinet og de viktigste tilgjengelige lymfeknutene er fjernet,er, eller er framstilt av, skrotter som har gjennomgått en modningsprosess ved en temperatur på over 2 °C i minst 24 timer, og pH-verdien som er registrert i midten av *Longissimus dorsi*-muskelen, er mindre enn 6,0.Forflytning av ferskt kjøtt fra hov- og klovdyr av listeførte arter, unntatt svin, som holdes og slaktes utenfor vaksinasjonssonen.Forflytning av ferskt kjøtt, unntatt slaktebiprodukt, fra vaksinerte svin slaktet i denne perioden, dersom det ferske kjøttet ble produsert i henhold til vilkårene fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 6 og 7 og artikkel 33 nr. 1 bokstav a) samt artikkel 33 nr. 2 i delegert forordning [(EU) 2020/687](eu/32020r0687).Forflytning av rå melk fra vaksinerte dyr på samme vilkår som dem som er fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 6 og 7 og artikkel 33 nr. 1 bokstav a) samt artikkel 33 nr. 2 bokstav b) i delegert forordning [(EU) 2020/687](eu/32020r0687).Forflytning av melkeprodukter framstilt av melk fra vaksinerte dyr dersom melkeproduktene har gjennomgått en effektiv behandling for FMD i samsvar med vedlegg VII til delegert forordning [(EU) 2020/687](eu/32020r0687), og bare dersom de under produksjonsprosessen, lagringen og transporten har vært adskilt fra produkter som ikke kan sendes utenfor vaksinasjonssonen i henhold til denne forordningen.Uttak av sæd til kunstig befruktning fra donordyr av listeførte arter som holdes i godkjente anlegg for avlsmateriale i vaksinasjonssonen i henhold til vilkårene fastsatt i nr. 3.1 bokstav d).
+I perioden som starter tidligst 30 dager etter at den beskyttende nødvaksinasjonen er fullført, til den særlige overvåkingen fastsatt i del 2 i dette vedlegget er fullført, kan følgende godkjennes:
+
+1. Forflytning for slakting av holdte dyr av listeførte arter som holdes i vaksinasjonssonen, til et slakteri i eller utenfor vaksinasjonssonen, men innenfor samme medlemsstat, på samme vilkår som dem som er fastsatt i artikkel 24 og artikkel 28 nr. 5 i delegert forordning [(EU) 2020/687](eu/32020r0687).
+2. Forflytning av ferskt kjøtt, unntatt slaktebiprodukt, fra vaksinerte hov- og klovdyr av listeførte arter, unntatt svin, dersom det ferske kjøttet
+
+   - oppfyller de samme kravene som dem som er fastsatt i artikkel 28 nr. 6 i delegert forordning [(EU) 2020/687](eu/32020r0687),
+   - er utbeinet og de viktigste tilgjengelige lymfeknutene er fjernet,
+   - er, eller er framstilt av, skrotter som har gjennomgått en modningsprosess ved en temperatur på over 2 °C i minst 24 timer, og pH-verdien som er registrert i midten av *Longissimus dorsi*-muskelen, er mindre enn 6,0.
+3. Forflytning av ferskt kjøtt fra hov- og klovdyr av listeførte arter, unntatt svin, som holdes og slaktes utenfor vaksinasjonssonen.
+4. Forflytning av ferskt kjøtt, unntatt slaktebiprodukt, fra vaksinerte svin slaktet i denne perioden, dersom det ferske kjøttet ble produsert i henhold til vilkårene fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 6 og 7 og artikkel 33 nr. 1 bokstav a) samt artikkel 33 nr. 2 i delegert forordning [(EU) 2020/687](eu/32020r0687).
+5. Forflytning av rå melk fra vaksinerte dyr på samme vilkår som dem som er fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 6 og 7 og artikkel 33 nr. 1 bokstav a) samt artikkel 33 nr. 2 bokstav b) i delegert forordning [(EU) 2020/687](eu/32020r0687).
+6. Forflytning av melkeprodukter framstilt av melk fra vaksinerte dyr dersom melkeproduktene har gjennomgått en effektiv behandling for FMD i samsvar med vedlegg VII til delegert forordning [(EU) 2020/687](eu/32020r0687), og bare dersom de under produksjonsprosessen, lagringen og transporten har vært adskilt fra produkter som ikke kan sendes utenfor vaksinasjonssonen i henhold til denne forordningen.
+7. Uttak av sæd til kunstig befruktning fra donordyr av listeførte arter som holdes i godkjente anlegg for avlsmateriale i vaksinasjonssonen i henhold til vilkårene fastsatt i nr. 3.1 bokstav d).
 
 3.3.
 
-Etter at den særlige overvåkingen fastsatt i del 2 i dette vedlegget er fullført, og fram til restitusjonsperioden fastsatt i del 4 i dette vedlegget er avsluttet, kan følgende godkjennes:Forflytning for slakting av dyr av listeførte arter som er holdt i vaksinasjonssonen til et slakteri i eller utenfor vaksinasjonssonen, men innenfor samme medlemsstat, på samme vilkår som dem som er fastsatt i artikkel 24 og artikkel 28 nr. 5 i delegert forordning [(EU) 2020/687](eu/32020r0687).Forflytning av uvaksinerte dyr av listeførte arter i samsvar med følgende bestemmelser:Alle dyr av listeførte arter i anlegget har innen 24 timer før lasting gjennomgått en klinisk undersøkelse og har ikke vist kliniske tegn på FMD.Dyrene har ikke vært flyttet fra opprinnelsesanlegget i en periode på minst 30 dager, og i denne perioden er ingen dyr av listeførte arter innført i anlegget.Dyrene som er beregnet på transport, ble enten individuelt testet, med negativt resultat, for påvisning av antistoffer mot FMD-viruset ved slutten av isolasjonsperioden, eller det ble gjennomført en serologisk kontroll av dette anlegget, uavhengig av hvilke arter det gjelder.Dyrene har ikke vært utsatt for noen smittekilde under transporten fra opprinnelsesanlegget til bestemmelsesstedet, som skal ligge i samme medlemsstat.Forflytning av ikke-vaksinerte kalver, avkom av vaksinerte kyr tilet anlegg i vaksinasjonssonen med samme helsestatus som opprinnelsesanlegget,et slakteri for umiddelbar slakting,et anlegg som er utpekt av vedkommende myndighet, og som avkommet skal sendes direkte til et slakteri fra,ethvert anlegg, etter å ha oppnådd et negativt resultat i en serologisk test for påvisning av antistoff mot FMD-viruset, utført på en blodprøve tatt før forsendelse fra opprinnelsesanlegget.Forflytning av ferskt kjøtt, kjøttprodukter, rå melk og melkeprodukter i samsvar med nr. 3.2 bokstav b)–f).Uttak av sæd i samsvar med nr. 3.1 bokstav d).
+Etter at den særlige overvåkingen fastsatt i del 2 i dette vedlegget er fullført, og fram til restitusjonsperioden fastsatt i del 4 i dette vedlegget er avsluttet, kan følgende godkjennes:
+
+1. Forflytning for slakting av dyr av listeførte arter som er holdt i vaksinasjonssonen til et slakteri i eller utenfor vaksinasjonssonen, men innenfor samme medlemsstat, på samme vilkår som dem som er fastsatt i artikkel 24 og artikkel 28 nr. 5 i delegert forordning [(EU) 2020/687](eu/32020r0687).
+2. Forflytning av uvaksinerte dyr av listeførte arter i samsvar med følgende bestemmelser:
+
+   1. Alle dyr av listeførte arter i anlegget har innen 24 timer før lasting gjennomgått en klinisk undersøkelse og har ikke vist kliniske tegn på FMD.
+   2. Dyrene har ikke vært flyttet fra opprinnelsesanlegget i en periode på minst 30 dager, og i denne perioden er ingen dyr av listeførte arter innført i anlegget.
+   3. Dyrene som er beregnet på transport, ble enten individuelt testet, med negativt resultat, for påvisning av antistoffer mot FMD-viruset ved slutten av isolasjonsperioden, eller det ble gjennomført en serologisk kontroll av dette anlegget, uavhengig av hvilke arter det gjelder.
+   4. Dyrene har ikke vært utsatt for noen smittekilde under transporten fra opprinnelsesanlegget til bestemmelsesstedet, som skal ligge i samme medlemsstat.
+3. Forflytning av ikke-vaksinerte kalver, avkom av vaksinerte kyr til
+
+   1. et anlegg i vaksinasjonssonen med samme helsestatus som opprinnelsesanlegget,
+   2. et slakteri for umiddelbar slakting,
+   3. et anlegg som er utpekt av vedkommende myndighet, og som avkommet skal sendes direkte til et slakteri fra,
+   4. ethvert anlegg, etter å ha oppnådd et negativt resultat i en serologisk test for påvisning av antistoff mot FMD-viruset, utført på en blodprøve tatt før forsendelse fra opprinnelsesanlegget.
+4. Forflytning av ferskt kjøtt, kjøttprodukter, rå melk og melkeprodukter i samsvar med nr. 3.2 bokstav b)–f).
+5. Uttak av sæd i samsvar med nr. 3.1 bokstav d).
 
 ### DEL 4
 RESTITUSJONSPERIODER FOR FMD ETTER BESKYTTENDE NØDVAKSINASJON
@@ -2236,7 +3279,9 @@ SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVIL
 
 1. Dyr og produkter som er underlagt forbud mot forflytninger: vaksinerte dyr og produkter av disse, herunder sæd, embryoer og oocytter som er beregnet på forflytning til andre medlemsstater.
 2. Avlsmateriale som er underlagt forbud mot uttak: sæd, oocytter og embryoer fra dyr av listeførte arter.
-3. Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), artikkel 13 nr. 3 bokstav b) og artikkel 13 nr. 4 bokstav b). Forflytninger som kan tillates.Forflytning av vaksinerte dyr og produkter av disse, herunder sæd, embryoer og oocytter, til en annen medlemsstat der vedkommende myndighet i bestemmelsesmedlemsstaten gir en særlig tillatelse til innførsel av hver sending vaksinerte dyr eller produkter av disse. Denne tillatelsen kan baseres på resultatene av laboratorieundersøkelser.
+3. Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), artikkel 13 nr. 3 bokstav b) og artikkel 13 nr. 4 bokstav b). Forflytninger som kan tillates.
+
+   Forflytning av vaksinerte dyr og produkter av disse, herunder sæd, embryoer og oocytter, til en annen medlemsstat der vedkommende myndighet i bestemmelsesmedlemsstaten gir en særlig tillatelse til innførsel av hver sending vaksinerte dyr eller produkter av disse. Denne tillatelsen kan baseres på resultatene av laboratorieundersøkelser.
 
 ### DEL 4
 RESTITUSJONSPERIODER FOR RVF
@@ -2291,7 +3336,11 @@ SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVIL
 
 1\.
 
-Dyr og produkter som er underlagt forbud mot forflytning fra anlegg i vaksinasjonssone I og II fram til restitusjonsperioden fastsatt i del 4 er avsluttet:storfe,avlsmateriale fra storfe,ubearbeidede animalske biprodukter fra storfe, unntatt melk, råmelk, melkeprodukter og råmelkbaserte produkter beregnet til fôrvarer.
+Dyr og produkter som er underlagt forbud mot forflytning fra anlegg i vaksinasjonssone I og II fram til restitusjonsperioden fastsatt i del 4 er avsluttet:
+
+1. storfe,
+2. avlsmateriale fra storfe,
+3. ubearbeidede animalske biprodukter fra storfe, unntatt melk, råmelk, melkeprodukter og råmelkbaserte produkter beregnet til fôrvarer.
 
 2\.
 
@@ -2305,13 +3354,48 @@ Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), a
 
 Forflytning av storfe fra vaksinasjonssone I:
 
-Forflytning av forsendelser av storfe kan tillates fra anlegg i vaksinasjonssone I tilvaksinasjonssone I eller II i samme eller en annen medlemsstat, forutsatt at alle følgende vilkår er oppfylt:Storfeene i forsendelsen skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen.Alle andre storfe som holdes i samme opprinnelsesanlegg som storfeene i forsendelsen, skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av tidligere vaksinasjon eller mødreimmunitet på datoen for avsendelse.Storfeene i forsendelsen skal ha vært holdt i opprinnelsesanlegget siden fødselen eller i en sammenhengende periode på minst 28 dager før datoen for avsendelse, ogdet er utført en klinisk undersøkelse med tilfredsstillende resultat av alle storfeene som holdes i opprinnelsesanlegget for slike forsendelser, herunder storfeene i slike forsendelser,om nødvendig er det utført en laboratorieundersøkelse med tilfredsstillende resultat av storfe som holdes i opprinnelsesanlegget for slike forsendelser, herunder storfeene i slike forsendelser.ethvert bestemmelsessted, i samme medlemsstat eller i andre medlemsstater, dersom samtlige av følgende vilkår, i tillegg til vilkårene fastsatt i bokstav a) ii) og iii), er oppfylt:Storfeene i forsendelsen skal være vaksinert mot LSD minst 60 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på datoen for avsendelse.I løpet av et tidsrom på minst tre måneder før datoen for avsendelse har det ikke vært noen utbrudd av LSD innenfor en radius på minst 20 km rundt opprinnelsesanlegget til slike forsendelser.Alle storfe som holdes innenfor 50 km rundt forsendelsens opprinnelsesanlegg, skal være vaksinert eller revaksinert mot LSD minst 60 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av mødreimmunitet.ethvert bestemmelsessted, i andre medlemsstater eller territorier i tredjeland, dersom samtlige av følgende vilkår, i tillegg til vilkårene fastsatt i bokstav a), er oppfylt:Dyrene oppfyller alle dyrehelsegarantier basert på et tilfredsstillende resultat av en risikovurdering av de tiltak mot spredning av LSD som er påkrevd av vedkommende myndighet i opprinnelsesstaten og godkjent av vedkommende myndigheter i transitt- og bestemmelsesstaten, før datoen for avsendelse.Det må ikke ha vært noen bekreftede utbrudd av LSD innenfor en radius på minst 20 km rundt opprinnelsesanlegget til slike forsendelser i et tidsrom på minst tre måneder før datoen for avsendelse.Alle storfe som holdes innenfor 50 km rundt forsendelsens opprinnelsesanlegg, skal være vaksinert eller revaksinert mot LSD minst 60 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av mødreimmunitet.
+Forflytning av forsendelser av storfe kan tillates fra anlegg i vaksinasjonssone I til
+
+1. vaksinasjonssone I eller II i samme eller en annen medlemsstat, forutsatt at alle følgende vilkår er oppfylt:
+
+   1. Storfeene i forsendelsen skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen.
+   2. Alle andre storfe som holdes i samme opprinnelsesanlegg som storfeene i forsendelsen, skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av tidligere vaksinasjon eller mødreimmunitet på datoen for avsendelse.
+   3. Storfeene i forsendelsen skal ha vært holdt i opprinnelsesanlegget siden fødselen eller i en sammenhengende periode på minst 28 dager før datoen for avsendelse, og
+
+      - det er utført en klinisk undersøkelse med tilfredsstillende resultat av alle storfeene som holdes i opprinnelsesanlegget for slike forsendelser, herunder storfeene i slike forsendelser,
+      - om nødvendig er det utført en laboratorieundersøkelse med tilfredsstillende resultat av storfe som holdes i opprinnelsesanlegget for slike forsendelser, herunder storfeene i slike forsendelser.
+2. ethvert bestemmelsessted, i samme medlemsstat eller i andre medlemsstater, dersom samtlige av følgende vilkår, i tillegg til vilkårene fastsatt i bokstav a) ii) og iii), er oppfylt:
+
+   1. Storfeene i forsendelsen skal være vaksinert mot LSD minst 60 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på datoen for avsendelse.
+   2. I løpet av et tidsrom på minst tre måneder før datoen for avsendelse har det ikke vært noen utbrudd av LSD innenfor en radius på minst 20 km rundt opprinnelsesanlegget til slike forsendelser.
+   3. Alle storfe som holdes innenfor 50 km rundt forsendelsens opprinnelsesanlegg, skal være vaksinert eller revaksinert mot LSD minst 60 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av mødreimmunitet.
+3. ethvert bestemmelsessted, i andre medlemsstater eller territorier i tredjeland, dersom samtlige av følgende vilkår, i tillegg til vilkårene fastsatt i bokstav a), er oppfylt:
+
+   1. Dyrene oppfyller alle dyrehelsegarantier basert på et tilfredsstillende resultat av en risikovurdering av de tiltak mot spredning av LSD som er påkrevd av vedkommende myndighet i opprinnelsesstaten og godkjent av vedkommende myndigheter i transitt- og bestemmelsesstaten, før datoen for avsendelse.
+   2. Det må ikke ha vært noen bekreftede utbrudd av LSD innenfor en radius på minst 20 km rundt opprinnelsesanlegget til slike forsendelser i et tidsrom på minst tre måneder før datoen for avsendelse.
+   3. Alle storfe som holdes innenfor 50 km rundt forsendelsens opprinnelsesanlegg, skal være vaksinert eller revaksinert mot LSD minst 60 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av mødreimmunitet.
 
 3.2.
 
 Forflytning av storfe fra vaksinasjonssone II:
 
-Forflytning av forsendelser av storfe kan tillates fra anlegg i vaksinasjonssone II tilethvert bestemmelsessted i samme medlemsstat og i andre medlemsstater, forutsatt at alle følgende vilkår er oppfylt:Storfeene i forsendelsen skal oppfylle alle dyrehelsegarantier basert på et tilfredsstillende resultat av en risikovurdering av de tiltak mot spredning av LSD som er påkrevd av vedkommende myndighet i opprinnelsesstaten og godkjent av vedkommende myndigheter i transitt- og bestemmelsesstaten, før datoen for avsendelse.Storfeene i forsendelsen skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen.Alle andre storfe som holdes i samme opprinnelsesanlegg som storfeene i forsendelsen, skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av tidligere vaksinasjon eller mødreimmunitet på denne datoen.Følgende undersøkelser ble utført:En klinisk undersøkelse, med tilfredsstillende resultat, av alle storfeene som holdes i opprinnelsesanlegget for slike forsendelser, herunder storfeene i slike forsendelser.Om nødvendig, en laboratorieundersøkelse med tilfredsstillende resultat av storfe som holdes i opprinnelsesanlegget for slike forsendelser, herunder storfeene i slike forsendelser.Storfeene skal siden fødselen, eller i en periode på minst 28 dager før forsendelse, ha vært holdt i et anlegg der det innenfor en radius på minst 20 km ikke er bekreftet noe utbrudd av LSD de tre siste månedene før forsendelse.Alle storfe innenfor 50 km rundt forsendelsens opprinnelsesanlegg skal være vaksinert eller revaksinert mot LSD minst 60 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av mødreimmunitet.ethvert bestemmelsessted som ligger innenfor en annen vaksinasjonssone II i samme medlemsstat, forutsatt at alle følgende vilkår er oppfylt:Alle andre storfe som holdes i opprinnelsesanlegget til forsendelsene, skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av tidligere vaksinasjon eller mødreimmunitet på denne datoen.Storfeene skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være uvaksinerte avkom som er mindre enn fire måneder gamle, født av mordyr som var vaksinert minst 28 dager før nedkomst, og som ifølge vaksineprodusenten var innenfor immunitetsperioden på datoen for nedkomst, og kan flyttes til et annet anlegg.
+Forflytning av forsendelser av storfe kan tillates fra anlegg i vaksinasjonssone II til
+
+1. ethvert bestemmelsessted i samme medlemsstat og i andre medlemsstater, forutsatt at alle følgende vilkår er oppfylt:
+
+   1. Storfeene i forsendelsen skal oppfylle alle dyrehelsegarantier basert på et tilfredsstillende resultat av en risikovurdering av de tiltak mot spredning av LSD som er påkrevd av vedkommende myndighet i opprinnelsesstaten og godkjent av vedkommende myndigheter i transitt- og bestemmelsesstaten, før datoen for avsendelse.
+   2. Storfeene i forsendelsen skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen.
+   3. Alle andre storfe som holdes i samme opprinnelsesanlegg som storfeene i forsendelsen, skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av tidligere vaksinasjon eller mødreimmunitet på denne datoen.
+   4. Følgende undersøkelser ble utført:
+
+      - En klinisk undersøkelse, med tilfredsstillende resultat, av alle storfeene som holdes i opprinnelsesanlegget for slike forsendelser, herunder storfeene i slike forsendelser.
+      - Om nødvendig, en laboratorieundersøkelse med tilfredsstillende resultat av storfe som holdes i opprinnelsesanlegget for slike forsendelser, herunder storfeene i slike forsendelser.
+   5. Storfeene skal siden fødselen, eller i en periode på minst 28 dager før forsendelse, ha vært holdt i et anlegg der det innenfor en radius på minst 20 km ikke er bekreftet noe utbrudd av LSD de tre siste månedene før forsendelse.
+   6. Alle storfe innenfor 50 km rundt forsendelsens opprinnelsesanlegg skal være vaksinert eller revaksinert mot LSD minst 60 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av mødreimmunitet.
+2. ethvert bestemmelsessted som ligger innenfor en annen vaksinasjonssone II i samme medlemsstat, forutsatt at alle følgende vilkår er oppfylt:
+
+   1. Alle andre storfe som holdes i opprinnelsesanlegget til forsendelsene, skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være innenfor immunitetsperioden som følge av tidligere vaksinasjon eller mødreimmunitet på denne datoen.
+   2. Storfeene skal være vaksinert mot LSD minst 28 dager før datoen for avsendelse og være innenfor immunitetsperioden i samsvar med vaksineprodusentens instruksjoner på denne datoen, eller være uvaksinerte avkom som er mindre enn fire måneder gamle, født av mordyr som var vaksinert minst 28 dager før nedkomst, og som ifølge vaksineprodusenten var innenfor immunitetsperioden på datoen for nedkomst, og kan flyttes til et annet anlegg.
 
 3.3.
 
@@ -2325,7 +3409,21 @@ Forflytning av forsendelser av sæd, oocytter og embryoer fra storfe fra vaksina
 
 3.4.1.
 
-Forflytning av forsendelser av sæd, oocytter og embryoer fra storfe kan tillates fra godkjente anlegg for avlsmateriale eller andre anlegg i vaksinasjonssone I tilvaksinasjonssone I eller II i samme medlemsstat, forutsatt at alle følgende vilkår er oppfylt:Donordyrene ble entenvaksinert og revaksinert mot LSD i samsvar med produsentens instruksjoner for vaksinen som ble brukt, og den første vaksinasjonen skal være administrert minst 60 dager før datoen for uttaket av sæd, oocytter eller embryoer, ellerunderlagt en serologisk prøve, med negativt resultat, for å påvise bestemte antistoffer mot LSD-virus på uttaksdagen og minst 28 dager etter uttaksperioden med hensyn til sæd, eller på uttaksdagen med hensyn til embryoer og oocytter.Donordyrene har, i 60 dager før datoen for uttak av sæd, oocytter eller embryoer, vært holdt på en sædstasjon eller i et annen egnet anlegg der det innenfor en radius på minst 20 km ikke har vært bekreftet utbrudd av LSD de tre siste månedene før datoen for uttak av sæd, oocytter eller embryoer.Donordyrene er blitt undersøkt klinisk 28 dager før uttaksdatoen og i løpet av hele uttaksperioden, og viste ingen kliniske symptomer på LSD.ethvert bestemmelsessted som ligger i en annen vaksinasjonssone I eller II i en annen medlemsstat, dersom samtlige av følgende vilkår, i tillegg til vilkårene fastsatt i bokstav a), er oppfylt:Donordyrene har med negativt resultat gjennomgått en test for å påvise LSD med polymerasekjedereaksjon (PCR) utført på blodprøver tatt ved starten av uttaksperioden og deretter minst hver 14. dag i uttaksperioden med hensyn til sæd, eller på uttaksdagen med hensyn til embryoer og oocytter.Sæden har med negativt resultat blitt undersøkt med en PCR-test for å påvise LSD.ethvert bestemmelsessted som ligger i den samme eller en annen medlemsstat eller, for vaksinasjonssone I, i et tredjeland, forutsatt at donordyrene oppfyller, i tillegg til vilkårene i bokstav a), alle andre hensiktsmessige dyrehelsegarantier basert på et positivt resultat av en risikovurdering av virkningen av en slik forsendelse, og av tiltakene mot spredning av LSD, som er påkrevd av vedkommende myndighet i opprinnelsesanleggets medlemsstat og godkjent av vedkommende myndigheter i transitt- og bestemmelsesstaten, før sæden, oocyttene eller embryoene sendes.
+Forflytning av forsendelser av sæd, oocytter og embryoer fra storfe kan tillates fra godkjente anlegg for avlsmateriale eller andre anlegg i vaksinasjonssone I til
+
+1. vaksinasjonssone I eller II i samme medlemsstat, forutsatt at alle følgende vilkår er oppfylt:
+
+   1. Donordyrene ble enten
+
+      - vaksinert og revaksinert mot LSD i samsvar med produsentens instruksjoner for vaksinen som ble brukt, og den første vaksinasjonen skal være administrert minst 60 dager før datoen for uttaket av sæd, oocytter eller embryoer, eller
+      - underlagt en serologisk prøve, med negativt resultat, for å påvise bestemte antistoffer mot LSD-virus på uttaksdagen og minst 28 dager etter uttaksperioden med hensyn til sæd, eller på uttaksdagen med hensyn til embryoer og oocytter.
+   2. Donordyrene har, i 60 dager før datoen for uttak av sæd, oocytter eller embryoer, vært holdt på en sædstasjon eller i et annen egnet anlegg der det innenfor en radius på minst 20 km ikke har vært bekreftet utbrudd av LSD de tre siste månedene før datoen for uttak av sæd, oocytter eller embryoer.
+   3. Donordyrene er blitt undersøkt klinisk 28 dager før uttaksdatoen og i løpet av hele uttaksperioden, og viste ingen kliniske symptomer på LSD.
+2. ethvert bestemmelsessted som ligger i en annen vaksinasjonssone I eller II i en annen medlemsstat, dersom samtlige av følgende vilkår, i tillegg til vilkårene fastsatt i bokstav a), er oppfylt:
+
+   1. Donordyrene har med negativt resultat gjennomgått en test for å påvise LSD med polymerasekjedereaksjon (PCR) utført på blodprøver tatt ved starten av uttaksperioden og deretter minst hver 14. dag i uttaksperioden med hensyn til sæd, eller på uttaksdagen med hensyn til embryoer og oocytter.
+   2. Sæden har med negativt resultat blitt undersøkt med en PCR-test for å påvise LSD.
+3. ethvert bestemmelsessted som ligger i den samme eller en annen medlemsstat eller, for vaksinasjonssone I, i et tredjeland, forutsatt at donordyrene oppfyller, i tillegg til vilkårene i bokstav a), alle andre hensiktsmessige dyrehelsegarantier basert på et positivt resultat av en risikovurdering av virkningen av en slik forsendelse, og av tiltakene mot spredning av LSD, som er påkrevd av vedkommende myndighet i opprinnelsesanleggets medlemsstat og godkjent av vedkommende myndigheter i transitt- og bestemmelsesstaten, før sæden, oocyttene eller embryoene sendes.
 
 3.4.2.
 
@@ -2335,17 +3433,36 @@ Forflytning av forsendelser av sæd, oocytter og embryoer fra storfe kan tillate
 
 Forflytning av forsendelser av ubearbeidede animalske biprodukter fra storfe fra vaksinasjonssone I:
 
-Forflytning av forsendelser av ubearbeidede animalske biprodukter fra storfe kan tillates fra anlegg i vaksinasjonssone I tilethvert bestemmelsessted i samme medlemsstat eller enhver destinasjon i vaksinasjonssone I eller II i en annen medlemsstat,når det gjelder forsendelser av huder og skinn, ethvert bestemmelsessted som ligger i et område i den samme eller en annen medlemsstat eller et tredjeland, forutsatt at ett av følgende vilkår er oppfylt:De behandlede huder og skinn har gjennomgått en av behandlingene nevnt i nr. 28 bokstav b)–e) i vedlegg I til kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)7, ellerde behandlede huder og skinn har gjennomgått en av behandlingene nevnt i avsnitt XIV kapittel I nr. 4 bokstav b) ii) i vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)8, og har vært omfattet av alle nødvendige forholdsregler for å unngå rekontaminering med patogener etter behandling.
+Forflytning av forsendelser av ubearbeidede animalske biprodukter fra storfe kan tillates fra anlegg i vaksinasjonssone I til
+
+1. ethvert bestemmelsessted i samme medlemsstat eller enhver destinasjon i vaksinasjonssone I eller II i en annen medlemsstat,
+2. når det gjelder forsendelser av huder og skinn, ethvert bestemmelsessted som ligger i et område i den samme eller en annen medlemsstat eller et tredjeland, forutsatt at ett av følgende vilkår er oppfylt:
+
+   1. De behandlede huder og skinn har gjennomgått en av behandlingene nevnt i nr. 28 bokstav b)–e) i vedlegg I til kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142)7, eller
+   2. de behandlede huder og skinn har gjennomgått en av behandlingene nevnt i avsnitt XIV kapittel I nr. 4 bokstav b) ii) i vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)8, og har vært omfattet av alle nødvendige forholdsregler for å unngå rekontaminering med patogener etter behandling.
 
 3.6.
 
 Forflytning av forsendelser av ubearbeidede animalske biprodukter fra storfe fra vaksinasjonssone II:
 
-Forflytning av forsendelser av ubearbeidede animalske biprodukter fra storfe kan tillates fra anlegg i vaksinasjonssone II tilnår det gjelder andre ubearbeidede animalske biprodukter enn huder og skinn, ethvert bestemmelsessted i samme medlemsstat eller ethvert bestemmelsessted i vaksinasjonssone I eller II i en annen medlemsstat, forutsatt at de ubearbeidede animalske biproduktene sendes under vedkommende myndigheters offentlige tilsyn til bearbeiding eller fjerning i et anlegg som er godkjent i samsvar med artikkel 24 i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)9,når det gjelder huder og skinn av storfeethvert bestemmelsessted i vaksinasjonssone II i samme eller en annen medlemsstat, forutsatt at de er ubehandlede rå huder og skinn beregnet på konsum, eller ubehandlede huder og skinn som ikke er beregnet på konsum, og som sendes under vedkommende myndigheters offentlige tilsyn til bearbeiding eller fjerning i et anlegg som er godkjent i samsvar med artikkel 24 i forordning (EF) nr. 1069/2009,ethvert bestemmelsessted som ligger i samme eller en annen medlemsstat, forutsatt at vilkårene fastsatt i nr. 3.5 bokstav b) er oppfylt,når det gjelder råmelk, melk og melkeprodukter, ethvert bestemmelsessted som ligger i et område i samme eller en annen medlemsstat, forutsatt at de har gjennomgått en risikoreduserende behandling for LSD, som fastsatt i vedlegg VII til delegert forordning [(EU) 2020/687](eu/32020r0687).
+Forflytning av forsendelser av ubearbeidede animalske biprodukter fra storfe kan tillates fra anlegg i vaksinasjonssone II til
+
+1. når det gjelder andre ubearbeidede animalske biprodukter enn huder og skinn, ethvert bestemmelsessted i samme medlemsstat eller ethvert bestemmelsessted i vaksinasjonssone I eller II i en annen medlemsstat, forutsatt at de ubearbeidede animalske biproduktene sendes under vedkommende myndigheters offentlige tilsyn til bearbeiding eller fjerning i et anlegg som er godkjent i samsvar med artikkel 24 i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)9,
+2. når det gjelder huder og skinn av storfe
+
+   1. ethvert bestemmelsessted i vaksinasjonssone II i samme eller en annen medlemsstat, forutsatt at de er ubehandlede rå huder og skinn beregnet på konsum, eller ubehandlede huder og skinn som ikke er beregnet på konsum, og som sendes under vedkommende myndigheters offentlige tilsyn til bearbeiding eller fjerning i et anlegg som er godkjent i samsvar med artikkel 24 i forordning (EF) nr. 1069/2009,
+   2. ethvert bestemmelsessted som ligger i samme eller en annen medlemsstat, forutsatt at vilkårene fastsatt i nr. 3.5 bokstav b) er oppfylt,
+3. når det gjelder råmelk, melk og melkeprodukter, ethvert bestemmelsessted som ligger i et område i samme eller en annen medlemsstat, forutsatt at de har gjennomgått en risikoreduserende behandling for LSD, som fastsatt i vedlegg VII til delegert forordning [(EU) 2020/687](eu/32020r0687).
 
 3.7.
 
-Krav til transportmiddelet som brukes til forflytning av forsendelser av storfe og ubearbeidede animalske biprodukter fra vaksinasjonssone I og II utenfor disse sonene når relevante unntak innvilgesnår det gjelder transport av storfe, skal transportmiddeletoppfylle kravene fastsatt i artikkel 24 nr. 1 i delegert forordning [(EU) 2020/687](eu/32020r0687), ogvære rengjort og desinfisert i samsvar med artikkel 24 nr. 2 i delegert forordning [(EU) 2020/687](eu/32020r0687) under kontroll eller tilsyn av vedkommende myndighet i medlemsstaten,utelukkende omfatte storfe eller ubearbeidede animalske biprodukter eller ubehandlede huder og skinn med samme helsestatus.
+Krav til transportmiddelet som brukes til forflytning av forsendelser av storfe og ubearbeidede animalske biprodukter fra vaksinasjonssone I og II utenfor disse sonene når relevante unntak innvilges
+
+1. når det gjelder transport av storfe, skal transportmiddelet
+
+   1. oppfylle kravene fastsatt i artikkel 24 nr. 1 i delegert forordning [(EU) 2020/687](eu/32020r0687), og
+   2. være rengjort og desinfisert i samsvar med artikkel 24 nr. 2 i delegert forordning [(EU) 2020/687](eu/32020r0687) under kontroll eller tilsyn av vedkommende myndighet i medlemsstaten,
+2. utelukkende omfatte storfe eller ubearbeidede animalske biprodukter eller ubehandlede huder og skinn med samme helsestatus.
 
 7 Kommisjonsforordning [(EU) nr. 142/2011](eu/32011r0142) av 25. februar 2011 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om gjennomføring av rådsdirektiv [97/78/EF](eu/31997l0078) med hensyn til visse prøver og produkter som er unntatt fra veterinærkontroll på grensen i henhold til nevnte direktiv (EUT L 54 av 26.2.2011, s. 1).
 
@@ -2431,14 +3548,29 @@ SÆRLIGE VILKÅR FOR GJENNOMFØRING AV BESKYTTENDE NØDVAKSINASJON FOR Å FOREBY
 ### DEL 2
 SÆRLIGE VILKÅR FOR FORSTERKET KLINISK OVERVÅKING OG LABORATORIEOVERVÅKING SOM SKAL GJENNOMFØRES I VAKSINASJONS- OG RANDSONENE UNDER BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE AHS
 
-Klinisk overvåking og laboratorieovervåking skal utføres i vaksinasjonssonen. Overvåkingen skal minst omfatteen klinisk undersøkelse av hestedyr hver tredje til sjuende dag, eller hver dag i alvorlige kliniske tilfeller, ettersom det i slike tilfeller kan være nødvendig med avlivning av dyrevelferdsårsaker,laboratorieovervåking av hestedyr (det bør utføres undersøkelser av prøver som tas med tre til sju dagers mellomrom som det minste tidsrommet som er påkrevd for å fange opp den minste inkubasjonsperioden for at et smittet dyr kan teste positivt), og den diagnostiske protokollen skal utarbeides i samsvar med den vaksinen som brukes (serologisk overvåking, dersom det brukes en DIVA-vaksine, eller virologisk overvåking). Overvåkingen er nødvendig for å påvise AHS-virustypene som sirkulerer, for å sikre at alle sirkulerende serotyper tas med i den offisielle vaksinasjonsplanen.overvåking av *Culicoides*.
+Klinisk overvåking og laboratorieovervåking skal utføres i vaksinasjonssonen. Overvåkingen skal minst omfatte
+
+1. en klinisk undersøkelse av hestedyr hver tredje til sjuende dag, eller hver dag i alvorlige kliniske tilfeller, ettersom det i slike tilfeller kan være nødvendig med avlivning av dyrevelferdsårsaker,
+2. laboratorieovervåking av hestedyr (det bør utføres undersøkelser av prøver som tas med tre til sju dagers mellomrom som det minste tidsrommet som er påkrevd for å fange opp den minste inkubasjonsperioden for at et smittet dyr kan teste positivt), og den diagnostiske protokollen skal utarbeides i samsvar med den vaksinen som brukes (serologisk overvåking, dersom det brukes en DIVA-vaksine, eller virologisk overvåking). Overvåkingen er nødvendig for å påvise AHS-virustypene som sirkulerer, for å sikre at alle sirkulerende serotyper tas med i den offisielle vaksinasjonsplanen.
+3. overvåking av *Culicoides*.
 
 ### DEL 3
 SÆRLIGE VILKÅR FOR FORBUD MOT FORFLYTNING AV DYR OG PRODUKTER OG FOR Å INNVILGE UNNTAK I SAMSVAR MED ARTIKKEL 13 I VAKSINASJONSSONER DER DET UTFØRES BESKYTTENDE NØDVAKSINASJON FOR Å FOREBYGGE OG BEKJEMPE AHS
 
-1. Dyr og produkter som er underlagt forbud mot forflytninger:hestedyr og avlsmateriale fra disse fra vaksinasjonssonen til restitusjonsperioden er avsluttet.
+1. Dyr og produkter som er underlagt forbud mot forflytninger:
+
+   - hestedyr og avlsmateriale fra disse fra vaksinasjonssonen til restitusjonsperioden er avsluttet.
 2. Avlsmateriale som er underlagt forbud mot uttak: ingen.
-3. Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), artikkel 13 nr. 3 bokstav b) og artikkel 13 nr. 4 bokstav b).Hestedyret som skal flyttes fra anlegget der det ble holdt på tidspunktet for vaksinasjonen, ble vaksinert mer enn 40 dager før forflytning.Dyret nevnt i nr. 1har gjennomgått en forutgående identitetskontroll og klinisk undersøkelse nevnt i artikkel 91 nr. 1 bokstav a) i delegert forordning [(EU) 2020/688](eu/32020r0688),viste ingen kliniske symptomer på AHS på dagen for den kliniske undersøkelsen,er identifisert ved hjelp av en transponder, og vaksinasjon mot AHS er registrert i det enkelte identifikasjonsdokumentet som er gyldig i hele dyrets levetid og i databasen nevnt i artikkel 109 nr. 1 bokstav d) i forordning [(EU) 2016/429](eu/32016r0429),holdes i et vektorbeskyttet anlegg som definert i artikkel 2 nr. 18 i delegert forordning [(EU) 2020/689](eu/32020r0689) i minst 14 dager før forflytning og gjennomgår ved utgangen av denne perioden en test for identifisering av agens for AHS med negativt resultat, eller holdes i et vektorbeskyttet anlegg i minst 40 dager før forflytning,er beskyttet mot angrep fra vektorer.
+3. Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), artikkel 13 nr. 3 bokstav b) og artikkel 13 nr. 4 bokstav b).
+
+   1. Hestedyret som skal flyttes fra anlegget der det ble holdt på tidspunktet for vaksinasjonen, ble vaksinert mer enn 40 dager før forflytning.
+   2. Dyret nevnt i nr. 1
+
+      1. har gjennomgått en forutgående identitetskontroll og klinisk undersøkelse nevnt i artikkel 91 nr. 1 bokstav a) i delegert forordning [(EU) 2020/688](eu/32020r0688),
+      2. viste ingen kliniske symptomer på AHS på dagen for den kliniske undersøkelsen,
+      3. er identifisert ved hjelp av en transponder, og vaksinasjon mot AHS er registrert i det enkelte identifikasjonsdokumentet som er gyldig i hele dyrets levetid og i databasen nevnt i artikkel 109 nr. 1 bokstav d) i forordning [(EU) 2016/429](eu/32016r0429),
+      4. holdes i et vektorbeskyttet anlegg som definert i artikkel 2 nr. 18 i delegert forordning [(EU) 2020/689](eu/32020r0689) i minst 14 dager før forflytning og gjennomgår ved utgangen av denne perioden en test for identifisering av agens for AHS med negativt resultat, eller holdes i et vektorbeskyttet anlegg i minst 40 dager før forflytning,
+      5. er beskyttet mot angrep fra vektorer.
 
 ### DEL 4
 RESTITUSJONSPERIODER FOR AHS ETTER BESKYTTENDE NØDVAKSINASJON
@@ -2470,7 +3602,12 @@ DYR OG PRODUKTER SOM ER UNDERLAGT FORBUD MOT FORFLYTNING OG VILKÅR FOR Å INNVI
 
 *1. Dyr og produkter som er underlagt forbud mot forflytninger*
 
-Følgende dyr, avlsmateriale og produkter av animalsk opprinnelse fra anlegg i vaksinasjonssonen til utenfor vaksinasjonssonen:Vaksinerte svin.Avkom av seropositive purker.Sæd, oocytter og embryoer til kunstig befruktning fra donordyr av svin som holdes i godkjente anlegg for avlsmateriale.Ferskt kjøtt fra vaksinerte svin.
+Følgende dyr, avlsmateriale og produkter av animalsk opprinnelse fra anlegg i vaksinasjonssonen til utenfor vaksinasjonssonen:
+
+1. Vaksinerte svin.
+2. Avkom av seropositive purker.
+3. Sæd, oocytter og embryoer til kunstig befruktning fra donordyr av svin som holdes i godkjente anlegg for avlsmateriale.
+4. Ferskt kjøtt fra vaksinerte svin.
 
 *2. Avlsmateriale som er underlagt forbud mot uttak*
 
@@ -2478,7 +3615,19 @@ Sæd, oocytter og embryoer til kunstig befruktning fra seropositive donordyr av 
 
 *3. Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), artikkel 13 nr. 3 bokstav b) og artikkel 13 nr. 4 bokstav b)*
 
-Forflytning av dyr og produkter av disse som kan tillates:forflytning av vaksinerte svin, direkte fra opprinnelsesanlegget, tilet slakteri som ligger så nær vaksinasjonssonen som mulig, i samme medlemsstat, på samme vilkår som dem som er fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 5 og 7 og artikkel 29 nr. 1 og 2 i delegert forordning [(EU) 2020/687](eu/32020r0687),et anlegg som er godkjent for animalske biprodukter, på samme vilkår som dem som er fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 5 og 7 og artikkel 37 i delegert forordning [(EU) 2020/687](eu/32020r0687),forflytning av ferskt kjøtt fra vaksinerte dyr i samsvar med artikkel 33 nr. 1 bokstav a) i delegert forordning [(EU) 2020/687](eu/32020r0687),alle forflytninger av dyr og produkter av disse fastsatt i nr. 1, forutsatt atalle vaksinerte svin som holdes i vaksinasjonssonen, er slaktet eller avlivet, og det ferske kjøttet fra disse dyrene er fjernet eller bearbeidet i samsvar med artikkel 33 nr. 1 bokstav a) i delegert forordning [(EU) 2020/687](eu/32020r0687),alle anlegg der det ble holdt vaksinerte svin, er rengjort og desinfisert i samsvar med artikkel 57 nr. 1 i delegert forordning [(EU) 2020/687](eu/32020r0687),gjeninnsetting av anlegget nevnt over er ikke gjennomført før minst ti dager etter at rengjørings- og desinfeksjonsprosessene er avsluttet, og etter at alle svin i anlegget der det er foretatt vaksinasjon, er blitt slaktet eller avlivet,etter gjeninnsetting har svin i alle anlegg i vaksinasjonssonen gjennomgått kliniske undersøkelser og laboratorieundersøkelser i samsvar med vedlegg I til delegert forordning [(EU) 2020/687](eu/32020r0687) for å påvise mulig forekomst av CSF-virus, og disse undersøkelsene ble ikke gjennomført før det hadde gått minst 40 dager etter gjeninnsettingen, og i denne perioden er det ikke tillatt å flytte svin fra anlegget.
+Forflytning av dyr og produkter av disse som kan tillates:
+
+1. forflytning av vaksinerte svin, direkte fra opprinnelsesanlegget, til
+
+   1. et slakteri som ligger så nær vaksinasjonssonen som mulig, i samme medlemsstat, på samme vilkår som dem som er fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 5 og 7 og artikkel 29 nr. 1 og 2 i delegert forordning [(EU) 2020/687](eu/32020r0687),
+   2. et anlegg som er godkjent for animalske biprodukter, på samme vilkår som dem som er fastsatt i artikkel 24, artikkel 28 nr. 2, 3, 4, 5 og 7 og artikkel 37 i delegert forordning [(EU) 2020/687](eu/32020r0687),
+2. forflytning av ferskt kjøtt fra vaksinerte dyr i samsvar med artikkel 33 nr. 1 bokstav a) i delegert forordning [(EU) 2020/687](eu/32020r0687),
+3. alle forflytninger av dyr og produkter av disse fastsatt i nr. 1, forutsatt at
+
+   1. alle vaksinerte svin som holdes i vaksinasjonssonen, er slaktet eller avlivet, og det ferske kjøttet fra disse dyrene er fjernet eller bearbeidet i samsvar med artikkel 33 nr. 1 bokstav a) i delegert forordning [(EU) 2020/687](eu/32020r0687),
+   2. alle anlegg der det ble holdt vaksinerte svin, er rengjort og desinfisert i samsvar med artikkel 57 nr. 1 i delegert forordning [(EU) 2020/687](eu/32020r0687),
+   3. gjeninnsetting av anlegget nevnt over er ikke gjennomført før minst ti dager etter at rengjørings- og desinfeksjonsprosessene er avsluttet, og etter at alle svin i anlegget der det er foretatt vaksinasjon, er blitt slaktet eller avlivet,
+   4. etter gjeninnsetting har svin i alle anlegg i vaksinasjonssonen gjennomgått kliniske undersøkelser og laboratorieundersøkelser i samsvar med vedlegg I til delegert forordning [(EU) 2020/687](eu/32020r0687) for å påvise mulig forekomst av CSF-virus, og disse undersøkelsene ble ikke gjennomført før det hadde gått minst 40 dager etter gjeninnsettingen, og i denne perioden er det ikke tillatt å flytte svin fra anlegget.
 
 ### DEL 4
 RESTITUSJONSPERIODER FOR CSF ETTER BESKYTTENDE NØDVAKSINASJON
@@ -2510,7 +3659,11 @@ DYR OG PRODUKTER SOM ER UNDERLAGT FORBUD MOT FORFLYTNING OG VILKÅR FOR Å INNVI
 
 1. Dyr og produkter som er underlagt forbud mot forflytninger: vaksinert fjørfe eller vaksinerte fugler i fangenskap og produkter av disse i og utenfor vaksinasjonssonen.
 2. Avlsmateriale som er underlagt forbud mot uttak: ikke relevant.
-3. Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), artikkel 13 nr. 3 bokstav b) og artikkel 13 nr. 4 bokstav b).Forflytning av vaksinert fjørfe eller vaksinerte fugler i fangenskap og produkter av disse i og utenfor vaksinasjonssonen kan tillates bare i de tilfellene som omfattes av og på de samme alminnelige og særlige vilkårene som dem som er fastsatt i artikkel 28, 29 og 30, artikkel 31 nr. 1 og artikkel 33, 34 og 37 i delegert forordning [(EU) 2020/687](eu/32020r0687).Etter utgangen av restitusjonsperioden skal tiltakene fastsatt i del 5 nr. 2–4 opprettholdes i anlegg som holder vaksinerte dyr, så lenge de holder vaksinerte dyr.
+3. Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), artikkel 13 nr. 3 bokstav b) og artikkel 13 nr. 4 bokstav b).
+
+   Forflytning av vaksinert fjørfe eller vaksinerte fugler i fangenskap og produkter av disse i og utenfor vaksinasjonssonen kan tillates bare i de tilfellene som omfattes av og på de samme alminnelige og særlige vilkårene som dem som er fastsatt i artikkel 28, 29 og 30, artikkel 31 nr. 1 og artikkel 33, 34 og 37 i delegert forordning [(EU) 2020/687](eu/32020r0687).
+
+   Etter utgangen av restitusjonsperioden skal tiltakene fastsatt i del 5 nr. 2–4 opprettholdes i anlegg som holder vaksinerte dyr, så lenge de holder vaksinerte dyr.
 
 ### DEL 4
 RESTITUSJONSPERIODER FOR HPAI ETTER BESKYTTENDE NØDVAKSINASJON
@@ -2528,7 +3681,15 @@ SÆRLIGE VILKÅR FOR FOREBYGGENDE VAKSINASJON MOT HPAI
 
 2\.
 
-Forsterket overvåking som skal gjennomføres ved forebyggende vaksinasjon:Det skal gjennomføres økt passiv overvåking i de vaksinerte anleggene ved ukentlig virologisk undersøkelse av et representativt utvalg av døde fugler som er samlet inn i løpet av én uke.Etter at vaksinasjonen er påbegynt, skal følgende aktive overvåking utføres av en offentlig veterinær i vaksinerte anlegg minst hver 30. dag for å påvise forekomst av infeksjon med HPAI-feltvirus:En klinisk undersøkelse som skal omfatte en kontroll av produksjonsregistrene og helsejournalene til anlegget i hver epidemiologiske enhet, herunder en evaluering av dens kliniske historie og kliniske undersøkelser av fjørfe eller fugler i fangenskap.En samling av representative prøver for laboratorieovervåking ved serologisk eller virologisk undersøkelse for å gjøre det mulig å påvise en prevalens av HPAI-virusinfeksjon i den epidemiologiske enheten på 5 % med et konfidensnivå på 95 %, ved hjelp av egnede metoder og protokoller som gjør det mulig å påvise viruset tidlig, og som tar hensyn til de særlige egenskapene til den vaksinen som brukes.Vaksinerte fugler i fangenskap fra lukkede anlegg er unntatt fra overvåkingen som det anmodes om i nr. 2.2 bokstav b).Tiltakene fastsatt i nr. 2.1 og 2.2 skal opprettholdes i anlegg som holder vaksinerte dyr, så lenge de holder vaksinerte dyr.
+Forsterket overvåking som skal gjennomføres ved forebyggende vaksinasjon:
+
+- Det skal gjennomføres økt passiv overvåking i de vaksinerte anleggene ved ukentlig virologisk undersøkelse av et representativt utvalg av døde fugler som er samlet inn i løpet av én uke.
+- Etter at vaksinasjonen er påbegynt, skal følgende aktive overvåking utføres av en offentlig veterinær i vaksinerte anlegg minst hver 30. dag for å påvise forekomst av infeksjon med HPAI-feltvirus:
+
+  1. En klinisk undersøkelse som skal omfatte en kontroll av produksjonsregistrene og helsejournalene til anlegget i hver epidemiologiske enhet, herunder en evaluering av dens kliniske historie og kliniske undersøkelser av fjørfe eller fugler i fangenskap.
+  2. En samling av representative prøver for laboratorieovervåking ved serologisk eller virologisk undersøkelse for å gjøre det mulig å påvise en prevalens av HPAI-virusinfeksjon i den epidemiologiske enheten på 5 % med et konfidensnivå på 95 %, ved hjelp av egnede metoder og protokoller som gjør det mulig å påvise viruset tidlig, og som tar hensyn til de særlige egenskapene til den vaksinen som brukes.
+- Vaksinerte fugler i fangenskap fra lukkede anlegg er unntatt fra overvåkingen som det anmodes om i nr. 2.2 bokstav b).
+- Tiltakene fastsatt i nr. 2.1 og 2.2 skal opprettholdes i anlegg som holder vaksinerte dyr, så lenge de holder vaksinerte dyr.
 
 3\.
 
@@ -2540,17 +3701,53 @@ Vilkår for å innvilge unntak i samsvar med artikkel 14 nr. 2 bokstav b.
 
 4.1.
 
-Vilkår for å innvilge unntak for forflytning av vaksinert fjørfe eller vaksinerte fugler i fangenskap, herunder daggamle kyllinger og rugeegg fra slikt fjørfe eller slike vaksinerte fugler i fangenskap:de er vaksinert fjørfe eller vaksinerte fugler i fangenskap der resultatene av den forsterkede passive og aktive overvåkingen, gjennomført i samsvar med nr. 2, er negative for påvisning av infeksjon med HPAI-feltvirus, eller daggamle kyllinger og rugeegg fra slikt fjørfe eller slike fugler i fangenskap
-ognår det gjelder fjørfe, flyttes disse til et slakteri for umiddelbar slakting, eller de flyttes fra sine anlegg til andre anleggder det utføres vaksinasjon, ellerder bare vaksinert fjørfe eller vaksinerte fugler i fangenskap holdes, ellerder det kan sørges for fullstendig atskillelse mellom vaksinert og ikke-vaksinert fjørfe eller vaksinerte og ikke-vaksinerte fugler i fangenskap,
-ogflyttet fjørfe eller fugler i fangenskap skal holdes på mottakeranlegget nevnt i punkt ii), iii) eller iv) i minst 21 dager, med mindre det dreier seg om fjørfe som er flyttet fra mottakeranlegget til et slakteri for umiddelbar slakting,fjørfe eller fugler i fangenskap, herunder daggamle kyllinger og rugeegg fra slikt fjørfe eller slike fugler i fangenskap, som nevnt i punkt i), ii), iii) eller iv), flyttes ikke til en annen medlemsstat,
-ellerde er vaksinerte fugler i fangenskap fra lukkede anlegg som flyttes til et lukket anlegg i en annen medlemsstat, forutsatt atgodkjenning for denne typen forflytninger er gitt av vedkommende myndighet i bestemmelsesmedlemsstaten,de har gjennomgått en virologisk prøve med negativt resultat innen 72 timer før forflytning,
-ellerde er vaksinert fjørfe som sendes til umiddelbar slakting til en annen medlemsstat, forutsatt atden overvåkingen som er foretatt i opprinnelsesanlegget i samsvar med nr. 2, har gitt tilfredsstillende resultater,fjørfe fra forsendelsen som skal sendes, er klinisk undersøkt med tilfredsstillende resultat av en offentlig veterinær innen 72 timer før lasting og, når det gjelder fjørfe av ordenen *Anseriformes*, er det oppnådd tilfredsstillende resultat ved virologiske undersøkelser av prøver som er tatt innen 72 timer før avreise fra 20 fugler fra denne forsendelsen,
-ellerde er rugeegg fra vaksinert fjørfe eller vaksinerte fugler i fangenskap somkommer fra en vaksinert flokk av avlsfjørfe der den forsterkede passive og aktive overvåkingen i samsvar med nr. 2 har gitt tilfredsstillende resultater,ble desinfisert før avsendelse i samsvar med en metode som er godkjent av vedkommende myndighet,transporteres direkte til bestemmelsesrugeriet,kan spores på rugeriet,dersom de flyttes til en annen medlemsstat, i tillegg til kravene i punkt i)–iv), har bestemmelsesmedlemsstaten underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt,
-ellerde er daggamle kyllinger fra vaksinert fjørfe somkommer fra en vaksinert flokk av avlsfjørfe der den forsterkede passive og aktive overvåkingen i samsvar med nr. 2 har gitt tilfredsstillende resultater,plasseres i et fjørfehus eller et lokale som ikke allerede rommer fjørfe,blir i bestemmelsesanlegget i minst 21 dager,dersom de flyttes til en annen medlemsstat, i tillegg til kravene i punkt i)–iii), har bestemmelsesmedlemsstaten underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt.
+Vilkår for å innvilge unntak for forflytning av vaksinert fjørfe eller vaksinerte fugler i fangenskap, herunder daggamle kyllinger og rugeegg fra slikt fjørfe eller slike vaksinerte fugler i fangenskap:
+
+1. de er vaksinert fjørfe eller vaksinerte fugler i fangenskap der resultatene av den forsterkede passive og aktive overvåkingen, gjennomført i samsvar med nr. 2, er negative for påvisning av infeksjon med HPAI-feltvirus, eller daggamle kyllinger og rugeegg fra slikt fjørfe eller slike fugler i fangenskap
+   og
+
+   1. når det gjelder fjørfe, flyttes disse til et slakteri for umiddelbar slakting, eller de flyttes fra sine anlegg til andre anlegg
+   2. der det utføres vaksinasjon, eller
+   3. der bare vaksinert fjørfe eller vaksinerte fugler i fangenskap holdes, eller
+   4. der det kan sørges for fullstendig atskillelse mellom vaksinert og ikke-vaksinert fjørfe eller vaksinerte og ikke-vaksinerte fugler i fangenskap,
+      og
+   5. flyttet fjørfe eller fugler i fangenskap skal holdes på mottakeranlegget nevnt i punkt ii), iii) eller iv) i minst 21 dager, med mindre det dreier seg om fjørfe som er flyttet fra mottakeranlegget til et slakteri for umiddelbar slakting,
+   6. fjørfe eller fugler i fangenskap, herunder daggamle kyllinger og rugeegg fra slikt fjørfe eller slike fugler i fangenskap, som nevnt i punkt i), ii), iii) eller iv), flyttes ikke til en annen medlemsstat,
+      eller
+2. de er vaksinerte fugler i fangenskap fra lukkede anlegg som flyttes til et lukket anlegg i en annen medlemsstat, forutsatt at
+
+   1. godkjenning for denne typen forflytninger er gitt av vedkommende myndighet i bestemmelsesmedlemsstaten,
+   2. de har gjennomgått en virologisk prøve med negativt resultat innen 72 timer før forflytning,
+      eller
+3. de er vaksinert fjørfe som sendes til umiddelbar slakting til en annen medlemsstat, forutsatt at
+
+   1. den overvåkingen som er foretatt i opprinnelsesanlegget i samsvar med nr. 2, har gitt tilfredsstillende resultater,
+   2. fjørfe fra forsendelsen som skal sendes, er klinisk undersøkt med tilfredsstillende resultat av en offentlig veterinær innen 72 timer før lasting og, når det gjelder fjørfe av ordenen *Anseriformes*, er det oppnådd tilfredsstillende resultat ved virologiske undersøkelser av prøver som er tatt innen 72 timer før avreise fra 20 fugler fra denne forsendelsen,
+      eller
+4. de er rugeegg fra vaksinert fjørfe eller vaksinerte fugler i fangenskap som
+
+   1. kommer fra en vaksinert flokk av avlsfjørfe der den forsterkede passive og aktive overvåkingen i samsvar med nr. 2 har gitt tilfredsstillende resultater,
+   2. ble desinfisert før avsendelse i samsvar med en metode som er godkjent av vedkommende myndighet,
+   3. transporteres direkte til bestemmelsesrugeriet,
+   4. kan spores på rugeriet,
+   5. dersom de flyttes til en annen medlemsstat, i tillegg til kravene i punkt i)–iv), har bestemmelsesmedlemsstaten underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt,
+      eller
+5. de er daggamle kyllinger fra vaksinert fjørfe som
+
+   1. kommer fra en vaksinert flokk av avlsfjørfe der den forsterkede passive og aktive overvåkingen i samsvar med nr. 2 har gitt tilfredsstillende resultater,
+   2. plasseres i et fjørfehus eller et lokale som ikke allerede rommer fjørfe,
+   3. blir i bestemmelsesanlegget i minst 21 dager,
+   4. dersom de flyttes til en annen medlemsstat, i tillegg til kravene i punkt i)–iii), har bestemmelsesmedlemsstaten underrettet Kommisjonen og de andre medlemsstatene om at slike forflytninger er tillatt.
 
 4.2.
 
-Vilkår for å innvilge unntak for forflytning av egg beregnet på konsum og kjøtt fra vaksinert fjørfeeggene kommer fra en vaksinert flokk der overvåkingen i nr. 2 har gitt tilfredsstillende resultater, og transporteres direkte tilet pakkeri som vedkommende myndighet har utpekt, forutsatt at de pakkes i engangsemballasje eller i en emballasje som kan rengjøres og desinfiseres på en slik måte at HPAI-viruset inaktiveres,et anlegg som framstiller eggprodukter, i samsvar med avsnitt X kapittel II i vedlegg III til forordning (EF) nr. 853/2004, og håndteres og behandles i samsvar med kapittel XI i vedlegg II til forordning (EF) nr. 852/2004,forflytning av kjøtt fra fjørfe i samsvar med vilkårene fastsatt i nr. 4.1 bokstav a) i) og v) og 4.1 bokstav c) kan tillates uten ytterligere vilkår.
+Vilkår for å innvilge unntak for forflytning av egg beregnet på konsum og kjøtt fra vaksinert fjørfe
+
+1. eggene kommer fra en vaksinert flokk der overvåkingen i nr. 2 har gitt tilfredsstillende resultater, og transporteres direkte til
+
+   1. et pakkeri som vedkommende myndighet har utpekt, forutsatt at de pakkes i engangsemballasje eller i en emballasje som kan rengjøres og desinfiseres på en slik måte at HPAI-viruset inaktiveres,
+   2. et anlegg som framstiller eggprodukter, i samsvar med avsnitt X kapittel II i vedlegg III til forordning (EF) nr. 853/2004, og håndteres og behandles i samsvar med kapittel XI i vedlegg II til forordning (EF) nr. 852/2004,
+2. forflytning av kjøtt fra fjørfe i samsvar med vilkårene fastsatt i nr. 4.1 bokstav a) i) og v) og 4.1 bokstav c) kan tillates uten ytterligere vilkår.
 
 ### VEDLEGG XIV
 Infeksjon med Newcastle disease-virus (NCD)
@@ -2574,7 +3771,9 @@ DYR OG PRODUKTER SOM ER UNDERLAGT FORBUD MOT FORFLYTNING OG VILKÅR FOR Å INNVI
 
 1. Dyr og produkter som er underlagt forbud mot forflytninger: vaksinert fjørfe eller vaksinerte fugler i fangenskap og produkter av disse i og utenfor vaksinasjonssonen.
 2. Avlsmateriale som er underlagt forbud mot uttak: ikke relevant.
-3. Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), artikkel 13 nr. 3 bokstav b) og artikkel 13 nr. 4 bokstav b).Forflytning av vaksinerte fjørfe eller vaksinerte fugler i fangenskap og produkter av disse i og utenfor vaksinasjonssonen kan tillates bare i de tilfellene som omfattes av og på de samme alminnelige og særlige vilkårene som dem som er fastsatt i artikkel 28, 29, 30, 31, 33, 34 og 37 i delegert forordning [(EU) 2020/687](eu/32020r0687).
+3. Vilkår for å innvilge unntak i samsvar med artikkel 13 nr. 2 bokstav b) ii), artikkel 13 nr. 3 bokstav b) og artikkel 13 nr. 4 bokstav b).
+
+   Forflytning av vaksinerte fjørfe eller vaksinerte fugler i fangenskap og produkter av disse i og utenfor vaksinasjonssonen kan tillates bare i de tilfellene som omfattes av og på de samme alminnelige og særlige vilkårene som dem som er fastsatt i artikkel 28, 29, 30, 31, 33, 34 og 37 i delegert forordning [(EU) 2020/687](eu/32020r0687).
 
 ### DEL 4
 RESTITUSJONSPERIODER FOR NCD ETTER BESKYTTENDE NØDVAKSINASJON
@@ -2643,19 +3842,53 @@ VEDTATT DENNE FORORDNINGEN:
 
 1\. Denne forordningen utfyller reglene fastsatt i artikkel 48 i forordning [(EU) 2016/429](eu/32016r0429) med hensyn til Unionens antigen-, vaksine- og diagnosereagensbanker for kategori A-sykdommer.
 
-2\. Ved denne forordningen fastsettes følgende:Regler for å forvalte, oppbevare og erstatte beholdninger av antigener, vaksiner og diagnosereagenser i Unionens antigen-, vaksine- og diagnosereagensbanker, særlig med hensyn tilregler for avtaler om og tilskudd til levering og oppbevaring av antigener, vaksiner og diagnosereagenser,vilkår for levering og oppbevaring av antigener, vaksiner og diagnosereagenser,prinsipper for utvelging av stammer og varianter av antigener, vaksiner og diagnosereagenser,destruering og trygg sluttbehandling av antigener, vaksiner og diagnosereagenser etter at deres holdbarhetsperiode har utløpt,muligheter for tilbakekjøp av antigener etter at deres holdbarhetsperiode har utløpt,krav til biosikkerhet, biotrygghet og biologisk inneslutning ved drift av Unionens antigen-, vaksine- og diagnosereagensbanker,overgangsbestemmelser for de av Unionens antigen- og vaksinebanker som er opprettet og vedlikeholdt før denne forordningens anvendelsesdato.
+2\. Ved denne forordningen fastsettes følgende:
+
+1. Regler for å forvalte, oppbevare og erstatte beholdninger av antigener, vaksiner og diagnosereagenser i Unionens antigen-, vaksine- og diagnosereagensbanker, særlig med hensyn til
+
+   1. regler for avtaler om og tilskudd til levering og oppbevaring av antigener, vaksiner og diagnosereagenser,
+   2. vilkår for levering og oppbevaring av antigener, vaksiner og diagnosereagenser,
+   3. prinsipper for utvelging av stammer og varianter av antigener, vaksiner og diagnosereagenser,
+   4. destruering og trygg sluttbehandling av antigener, vaksiner og diagnosereagenser etter at deres holdbarhetsperiode har utløpt,
+   5. muligheter for tilbakekjøp av antigener etter at deres holdbarhetsperiode har utløpt,
+2. krav til biosikkerhet, biotrygghet og biologisk inneslutning ved drift av Unionens antigen-, vaksine- og diagnosereagensbanker,
+3. overgangsbestemmelser for de av Unionens antigen- og vaksinebanker som er opprettet og vedlikeholdt før denne forordningens anvendelsesdato.
 
 ### Artikkel 2. Definisjoner
 
-I denne forordningen menes med«kategori A-sykdom» en listeført sykdom som normalt ikke forekommer i Unionen, og som det må treffes umiddelbare utryddelsestiltak mot så snart den påvises, som nevnt i artikkel 9 nr. 1 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429),«Unionens antigenbank» en reserve av antigene bestanddeler som forvaltes av Kommisjonen, og som raskt kan iblandes et sluttprodukt til bruk i nødssituasjoner eller andre vaksinasjonskampanjer i medlemsstater eller i tredjeland eller territorier som har fått tilgang av Unionen,«Unionens vaksinebank» en reserve av bruksklare vaksiner som forvaltes av Kommisjonen, til bruk i nødssituasjoner eller andre vaksinasjonskampanjer i medlemsstater eller i tredjeland eller territorier som har fått tilgang av Unionen,«Unionens diagnosereagensbank» en reserve av diagnosereagenser eller bestanddeler av disse som forvaltes av Kommisjonen, til rask diagnostisering av kategori A-sykdommer i medlemsstater eller i tredjeland eller territorier som har fått tilgang av Unionen,«EU-referanselaboratorier» laboratorier som er utpekt i samsvar med artikkel 93 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625),«produsent som det er inngått avtale med» en utvalgt produsent som Kommisjonen har inngått en avtale med som nevnt i artikkel 3 nr. 1 og artikkel 4 nr. 1,«storfe» dyr av artene av hov- og klovdyr som tilhører slektene *Bison*, *Bos* (herunder underslektene *Bos*, *Bibos*, *Novibos*, *Poephagus*) og *Bubalus* (herunder underslekten *Anoa*), og avkom framkommet ved krysning av disse,«sau» dyr av artene av hov- og klovdyr som tilhører slekten *Ovis*, og avkom framkommet ved krysning av disse,«geit» dyr av artene av hov- og klovdyr som tilhører slekten *Capra,* og avkom framkommet ved krysning av disse,«svin» dyr av artene av hov- og klovdyr som tilhører familien *Suidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429).
+I denne forordningen menes med
+
+1. «kategori A-sykdom» en listeført sykdom som normalt ikke forekommer i Unionen, og som det må treffes umiddelbare utryddelsestiltak mot så snart den påvises, som nevnt i artikkel 9 nr. 1 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429),
+2. «Unionens antigenbank» en reserve av antigene bestanddeler som forvaltes av Kommisjonen, og som raskt kan iblandes et sluttprodukt til bruk i nødssituasjoner eller andre vaksinasjonskampanjer i medlemsstater eller i tredjeland eller territorier som har fått tilgang av Unionen,
+3. «Unionens vaksinebank» en reserve av bruksklare vaksiner som forvaltes av Kommisjonen, til bruk i nødssituasjoner eller andre vaksinasjonskampanjer i medlemsstater eller i tredjeland eller territorier som har fått tilgang av Unionen,
+4. «Unionens diagnosereagensbank» en reserve av diagnosereagenser eller bestanddeler av disse som forvaltes av Kommisjonen, til rask diagnostisering av kategori A-sykdommer i medlemsstater eller i tredjeland eller territorier som har fått tilgang av Unionen,
+5. «EU-referanselaboratorier» laboratorier som er utpekt i samsvar med artikkel 93 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625),
+6. «produsent som det er inngått avtale med» en utvalgt produsent som Kommisjonen har inngått en avtale med som nevnt i artikkel 3 nr. 1 og artikkel 4 nr. 1,
+7. «storfe» dyr av artene av hov- og klovdyr som tilhører slektene *Bison*, *Bos* (herunder underslektene *Bos*, *Bibos*, *Novibos*, *Poephagus*) og *Bubalus* (herunder underslekten *Anoa*), og avkom framkommet ved krysning av disse,
+8. «sau» dyr av artene av hov- og klovdyr som tilhører slekten *Ovis*, og avkom framkommet ved krysning av disse,
+9. «geit» dyr av artene av hov- og klovdyr som tilhører slekten *Capra,* og avkom framkommet ved krysning av disse,
+10. «svin» dyr av artene av hov- og klovdyr som tilhører familien *Suidae* oppført i vedlegg III til forordning [(EU) 2016/429](eu/32016r0429).
 
 ### Artikkel 3. Regler for avtaler med produsenter som kreves for forvaltning av Unionens antigen-, vaksine- og diagnosereagensbanker
 
-1\. Kommisjonen skal inngå avtaler med utvalgte produsenter for å forvalte følgende banker for kategori A-sykdommer som nevnt i artikkel 3 i Kommisjonens gjennomføringsforordning [(EU) 2022/140](eu/32022r0140):Unionens antigenbanker.Unionens vaksinebanker.Unionens diagnosereagensbanker.
+1\. Kommisjonen skal inngå avtaler med utvalgte produsenter for å forvalte følgende banker for kategori A-sykdommer som nevnt i artikkel 3 i Kommisjonens gjennomføringsforordning [(EU) 2022/140](eu/32022r0140):
+
+1. Unionens antigenbanker.
+2. Unionens vaksinebanker.
+3. Unionens diagnosereagensbanker.
 
 2\. Kommisjonen skal gjennomføre en offentlig anskaffelsesprosedyre, i samsvar med reglene fastsatt i forordning [(EU, Euratom) 2018/1046](eu/32018r1046), for å velge ut produsenter for avtalene nevnt i nr. 1.
 
-3\. Avtalene nevnt i nr. 1 skal minst omfatte følgende:Vilkår for levering av forskjellige mengder og typer antigener, vaksiner eller diagnosereagenser til Unionens antigen-, vaksine- og diagnosereagensbanker.Vilkår for sikker oppbevaring og erstatning av antigener, vaksiner eller diagnosereagenser.Med hensyn til Unionens antigenbanker, garantier og vilkår forrask iblanding av antigener til vaksiner,produksjon, tapping på flasker og etikettmerking av vaksiner som er rekonstituert fra antigenene.Vilkår for frigivelse, frakt og levering av vaksiner eller diagnosereagenser.Vilkår for destruering og trygg sluttbehandling av antigener, vaksiner eller diagnosereagenser, eller for tilbakekjøp av antiginer, etter at deres holdbarhetsperiode har utløpt.
+3\. Avtalene nevnt i nr. 1 skal minst omfatte følgende:
+
+1. Vilkår for levering av forskjellige mengder og typer antigener, vaksiner eller diagnosereagenser til Unionens antigen-, vaksine- og diagnosereagensbanker.
+2. Vilkår for sikker oppbevaring og erstatning av antigener, vaksiner eller diagnosereagenser.
+3. Med hensyn til Unionens antigenbanker, garantier og vilkår for
+
+   1. rask iblanding av antigener til vaksiner,
+   2. produksjon, tapping på flasker og etikettmerking av vaksiner som er rekonstituert fra antigenene.
+4. Vilkår for frigivelse, frakt og levering av vaksiner eller diagnosereagenser.
+5. Vilkår for destruering og trygg sluttbehandling av antigener, vaksiner eller diagnosereagenser, eller for tilbakekjøp av antiginer, etter at deres holdbarhetsperiode har utløpt.
 
 ### Artikkel 4. Rammeavtaler for levering av vaksiner og diagnosereagenser
 
@@ -2671,7 +3904,12 @@ I denne forordningen menes med«kategori A-sykdom» en listeført sykdom som nor
 
 2\. Kommisjonen skal ta med forvaltning og vedlikehold av Unionens diagnosereagensbanker som nevnt i denne artikkelens nr. 1, i de årlige eller flerårige arbeidsprogrammene til EU-referanselaboratoriene nevnt i artikkel 94 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625), som har fått tildelt tilskudd i samsvar med artikkel 180 i forordning [(EU, Euratom) 2018/1046](eu/32018r1046).
 
-3\. Med hensyn til Unionens diagnosereagensbanker skal de årlige eller flerårige arbeidsprogrammene nevnt i nr. 2 minst omfatte følgende:Levering av forskjellige mengder og typer diagnosereagenser til Unionens antigen-, vaksine- og diagnosereagensbanker.Sikker oppbevaring og erstatning av diagnosereagenser.Frigivelse, frakt og levering av diagnosereagenser.Destruering og trygg sluttbehandling av diagnosereagensene etter at deres holdbarhetsperiode har utløpt.
+3\. Med hensyn til Unionens diagnosereagensbanker skal de årlige eller flerårige arbeidsprogrammene nevnt i nr. 2 minst omfatte følgende:
+
+1. Levering av forskjellige mengder og typer diagnosereagenser til Unionens antigen-, vaksine- og diagnosereagensbanker.
+2. Sikker oppbevaring og erstatning av diagnosereagenser.
+3. Frigivelse, frakt og levering av diagnosereagenser.
+4. Destruering og trygg sluttbehandling av diagnosereagensene etter at deres holdbarhetsperiode har utløpt.
 
 ### Artikkel 6. Vilkår for levering og oppbevaring av antigener, vaksiner og diagnosereagenser
 
@@ -2693,11 +3931,25 @@ Som unntak fra artikkel 8 kan Kommisjonen bli enig med produsenter som det er gj
 
 ### Artikkel 10. Krav til biosikkerhet, biotrygghet og biologisk inneslutning ved drift av Unionens antigen-, vaksine- og diagnosereagensbanker
 
-Unionens antigen-, vaksine- og diagnosereagensbanker skal drives minst i samsvar med følgende krav til biosikkerhet, biotrygghet og biologisk inneslutning:Anleggene der antigener, vaksiner og diagnosereagenser oppbevares, skaloppfylle anerkjente kvalitetskrav fastsatt i de internasjonale standardene nevnt i nr. 3 i vedlegg I og nr. 4 i vedlegg II,kontrolleres av Kommisjonen for å sikre løpende samsvar med de anerkjente kvalitetsstandardene nevnt i punkt i), i tillegg til regelmessig og risikobasert kontroll utført av vedkommende myndigheter,være sikre og beskyttet mot utilsiktet eller tilsiktet skade, herunder mikrobiell kontaminering.Dersom en av Unionens antigen-, vaksine- eller diagnosereagensbanker er samlokalisert med et laboratorium eller et annet anlegg der patogener håndteres, skal oppbevaringsanleggene nevnt i bokstav a) beskyttes effektivt fra kontaminering ved prosedyrer for fysisk atskillelse og biotrygghet for personalet.Personale som kan ha blitt eksponert for relevante patogener av kategori A-sykdommene nevnt i artikkel 3 nr. 1 eller artikkel 5 nr. 1, skal gjennomgå en karanteneprosedyre før de får tilgang til Unionens antigen,– vaksine- og diagnosereagensbanker.
+Unionens antigen-, vaksine- og diagnosereagensbanker skal drives minst i samsvar med følgende krav til biosikkerhet, biotrygghet og biologisk inneslutning:
+
+1. Anleggene der antigener, vaksiner og diagnosereagenser oppbevares, skal
+
+   1. oppfylle anerkjente kvalitetskrav fastsatt i de internasjonale standardene nevnt i nr. 3 i vedlegg I og nr. 4 i vedlegg II,
+   2. kontrolleres av Kommisjonen for å sikre løpende samsvar med de anerkjente kvalitetsstandardene nevnt i punkt i), i tillegg til regelmessig og risikobasert kontroll utført av vedkommende myndigheter,
+   3. være sikre og beskyttet mot utilsiktet eller tilsiktet skade, herunder mikrobiell kontaminering.
+2. Dersom en av Unionens antigen-, vaksine- eller diagnosereagensbanker er samlokalisert med et laboratorium eller et annet anlegg der patogener håndteres, skal oppbevaringsanleggene nevnt i bokstav a) beskyttes effektivt fra kontaminering ved prosedyrer for fysisk atskillelse og biotrygghet for personalet.
+3. Personale som kan ha blitt eksponert for relevante patogener av kategori A-sykdommene nevnt i artikkel 3 nr. 1 eller artikkel 5 nr. 1, skal gjennomgå en karanteneprosedyre før de får tilgang til Unionens antigen,– vaksine- og diagnosereagensbanker.
 
 ### Artikkel 11. Overgangsbestemmelser
 
-De av Unionens banker som er opprettet før anvendelsesdatoen for denne forordningen, skal vedlikeholdes inntil utløpsdatoen for de relevante avtalene som disse bankene ble opprettet for, med hensyn til følgende varer:Antigener av munn- og klovsykevirus, opprettet i samsvar med vedtak [91/666/EØF](eu/31991d0666) og med artikkel 80 nr. 1 i direktiv [2003/85/EF](eu/32003l0085).Vaksiner mot klassisk svinepest, opprettet i samsvar med artikkel 18 nr. 2 i direktiv [2001/89/EF](eu/32001l0089) og beslutning [2007/682/EF](eu/32007d0682).Vaksiner mot lumpy skin disease, opprettet i samsvar med artikkel 6 nr. 5 i forordning [(EU) nr. 652/2014](eu/32014r0652).Vaksiner mot småfepest, opprettet i samsvar med artikkel 6 nr. 5 i forordning [(EU) nr. 652/2014](eu/32014r0652).Vaksiner mot lumpy skin disease, opprettet i samsvar med artikkel 6 nr. 5 i forordning [(EU) nr. 652/2014](eu/32014r0652).
+De av Unionens banker som er opprettet før anvendelsesdatoen for denne forordningen, skal vedlikeholdes inntil utløpsdatoen for de relevante avtalene som disse bankene ble opprettet for, med hensyn til følgende varer:
+
+1. Antigener av munn- og klovsykevirus, opprettet i samsvar med vedtak [91/666/EØF](eu/31991d0666) og med artikkel 80 nr. 1 i direktiv [2003/85/EF](eu/32003l0085).
+2. Vaksiner mot klassisk svinepest, opprettet i samsvar med artikkel 18 nr. 2 i direktiv [2001/89/EF](eu/32001l0089) og beslutning [2007/682/EF](eu/32007d0682).
+3. Vaksiner mot lumpy skin disease, opprettet i samsvar med artikkel 6 nr. 5 i forordning [(EU) nr. 652/2014](eu/32014r0652).
+4. Vaksiner mot småfepest, opprettet i samsvar med artikkel 6 nr. 5 i forordning [(EU) nr. 652/2014](eu/32014r0652).
+5. Vaksiner mot lumpy skin disease, opprettet i samsvar med artikkel 6 nr. 5 i forordning [(EU) nr. 652/2014](eu/32014r0652).
 
 ### Artikkel 12. Ikrafttredelse og anvendelse
 
@@ -2705,15 +3957,34 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 1. mai 2022.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 16. november 2021.*For Kommisjonen*Ursula von der Leyen*President*
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 16. november 2021.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Ursula von der Leyen |
+|  |  |
+|  | *President* |
 
 ### VEDLEGG I
 VILKÅR FOR LEVERING OG OPPBEVARING AV ANTIGENER, VAKSINER OG DIAGNOSEREAGENSER SOM NEVNT I ARTIKKEL 6 NR. 1
 
 1. Antigener, vaksiner eller diagnosereagenser skal oppbevares ved anlegget og være underlagt ansvarsområdet til de utvalgte produsentene nevnt i artikkel 3 nr. 1 eller artikkel 4 nr. 1, eller til EU-referanselaboratoriene nevnt i artikkel 5.
-2. Når det gjelder vaksiner som produseres og oppbevares i Unionen, skal prinsippene og retningslinjene for god framstillingspraksis opprettholdes gjennom hele produksjonsprosessen, som omhandlet ikommisjonsdirektiv [91/412/EØF](eu/31991l0412)13, ellergjennomføringsrettsaktene vedtatt i henhold til artikkel 93 nr. 2 i europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006)14, fra og med deres anvendelsesdato.Prinsippene og retningslinjene for god framstillingspraksis skal også opprettholdes under oppbevaring og ferdigstilling, det vil si ved fylling på glass og ferdigstilling av emballeringsprosessen før distribusjon, av den vaksinen som er rekonstituert fra lagrede antigener.
+2. Når det gjelder vaksiner som produseres og oppbevares i Unionen, skal prinsippene og retningslinjene for god framstillingspraksis opprettholdes gjennom hele produksjonsprosessen, som omhandlet i
+
+   1. kommisjonsdirektiv [91/412/EØF](eu/31991l0412)13, eller
+   2. gjennomføringsrettsaktene vedtatt i henhold til artikkel 93 nr. 2 i europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006)14, fra og med deres anvendelsesdato.
+
+   Prinsippene og retningslinjene for god framstillingspraksis skal også opprettholdes under oppbevaring og ferdigstilling, det vil si ved fylling på glass og ferdigstilling av emballeringsprosessen før distribusjon, av den vaksinen som er rekonstituert fra lagrede antigener.
 3. Som minstekrav skal antigenet eller vaksinen framstilles og oppbevares i samsvar med prinsippene i 2021-utgaven av Verdens dyrehelseorganisasjons landdyrhåndbok («OIEs landdyrhåndbok»).
-4. Vaksinen må være omfattet av en markedsføringstillatelse utstedt av Kommisjonen eller av en vedkommende myndighet i minst én medlemsstat, alt etter hva som er relevant, i samsvar med henholdsvisenten kapittel 3 og 4 i avdeling III i direktiv [2001/82/EF](eu/32001l0082), eller kapittel 1 i avdeling III i europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726)15, ellerkapittel III i forordning (EU) 2019/6, fra og med 28. januar 2022.Dersom det skulle oppstå en alvorlig epidemi, særlig som følge av en ny sykdom, og det ikke er utstedt markedsføringstillatelse for en vaksine mot denne i Unionen, skal produsenten imidlertid framlegge for Kommisjonen en markedsføringstillatelse eller et annet tilsvarende dokument som er utstedt i vaksinens produksjonsland.
+4. Vaksinen må være omfattet av en markedsføringstillatelse utstedt av Kommisjonen eller av en vedkommende myndighet i minst én medlemsstat, alt etter hva som er relevant, i samsvar med henholdsvis
+
+   1. enten kapittel 3 og 4 i avdeling III i direktiv [2001/82/EF](eu/32001l0082), eller kapittel 1 i avdeling III i europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726)15, eller
+   2. kapittel III i forordning (EU) 2019/6, fra og med 28. januar 2022.
+
+   Dersom det skulle oppstå en alvorlig epidemi, særlig som følge av en ny sykdom, og det ikke er utstedt markedsføringstillatelse for en vaksine mot denne i Unionen, skal produsenten imidlertid framlegge for Kommisjonen en markedsføringstillatelse eller et annet tilsvarende dokument som er utstedt i vaksinens produksjonsland.
 
 13 Kommisjonsdirektiv [91/412/EF](eu/31991l0412) av 23. juli 1991 om prinsipper og retningslinjer for god framstillingspraksis for legemidler for mennesker og prøvingspreparater for mennesker (EFT L 228 av 14.10.2003, s. 70).
 
@@ -2729,7 +4000,12 @@ TILLEGGSVILKÅR FOR LEVERING OG OPPBEVARING AV KONSENTRERTE INAKTIVERTE ANTIGENE
 3. Vaksinen som framstilles av antigenene som skal leveres, skal oppfylle kravene i posisjonsdokumentet om krav til vaksiner mot munn- og klovsyke fra Det europeiske legemiddelbyrås komité for veterinærpreparater16.
 4. Antigenene skal som minimum oppfylle kravene i Den europeiske farmakopé17 og de relevante bestemmelsene i kapittel 3.1.8 «Foot and mouth disease (infection with foot and mouth disease virus)» i 2021-utgaven av Verdens dyrehelseorganisasjons landdyrhåndbok («OIEs landdyrhåndbok»).
 5. Dersom ikke annet er angitt i dokumentene nevnt i nr. 4, skal antigenet være renset slik at ikke-overflateassosierte proteiner fra munn- og klovsykeviruset er fjernet. Rensingen skal som minimum sikre at restinnholdet av ikke-overflateassosierte proteiner i vaksiner som er rekonstituert fra slike antigener, ikke fører til påviselige nivåer av antistoffer mot ikke-overflateassosierte proteiner i dyr som har fått én første dose og én oppfølgingsdose ved vaksinasjon.
-6. Vaksinen som er rekonstitutert fra antigener som oppbevares i Unionens antigenbank, må være omfattet av en markedsføringstillatelse utstedt av Kommisjonen eller av en vedkommende myndighet i minst én medlemsstat, i samsvar med henholdsvisenten kapittel 3 og 4 i avdeling III i direktiv [2001/82/EF](eu/32001l0082), eller kapittel 1 i avdeling III i europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726), ellerkapittel III i forordning (EU) 2019/6, fra og med 28. januar 2022.Dersom det ikke foreligger passende vaksiner mot nye stammer av munn- og klovsykevirus, kreves det ikke nødvendigvis en markedsføringstillatelse for vaksiner som er rekonstituert fra antigener med høy eller middels høy prioritet eller nye antigener produsert på de samme vilkår og etter de samme kvalitetsstandardene som antigener som det er utstedt en markedsføringstillatelse for.
+6. Vaksinen som er rekonstitutert fra antigener som oppbevares i Unionens antigenbank, må være omfattet av en markedsføringstillatelse utstedt av Kommisjonen eller av en vedkommende myndighet i minst én medlemsstat, i samsvar med henholdsvis
+
+   1. enten kapittel 3 og 4 i avdeling III i direktiv [2001/82/EF](eu/32001l0082), eller kapittel 1 i avdeling III i europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726), eller
+   2. kapittel III i forordning (EU) 2019/6, fra og med 28. januar 2022.
+
+   Dersom det ikke foreligger passende vaksiner mot nye stammer av munn- og klovsykevirus, kreves det ikke nødvendigvis en markedsføringstillatelse for vaksiner som er rekonstituert fra antigener med høy eller middels høy prioritet eller nye antigener produsert på de samme vilkår og etter de samme kvalitetsstandardene som antigener som det er utstedt en markedsføringstillatelse for.
 7. Hver dose av vaksiner framstilt av antigener som oppbevares i Unionens antigenbank, skal ha en styrke på minst 6 PD50 hos storfe, og skal være egnet til nødvaksinasjon av storfe, sauer, geiter og svin*,* avhengig av Kommisjonens anmodning.
 
 16 Det europeiske legemiddelbyrå (2004). Posisjonsdokument om krav til vaksiner mot munn- og klovsyke, EMEA/CVMP/775/02-FINAL 01/12/2004.
@@ -2772,7 +4048,15 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål og virkeområde
 
-Denne forordningen fastsetter regler for Unionens antigen-, vaksine- og diagnosereagensbanker som angir følgende:Hvilke biologiske produkter som skal finnes i Unionens antigen-, vaksine- og diagnosereagensbanker, og hvilke kategori A-sykdommer de kan være bestemt for.Kravene vedrørende hvilke typer, stammer og mengder av de biologiske produktene som skal finnes i Unionens antigen-, vaksine- og diagnosereagensbanker.Tilleggskravene vedrørende levering og oppbevaring av antigener og vaksiner som skal finnes i Unionens antigen-, vaksine- og diagnosereagensbanker.Kravene vedrørende formulering av antigener fra munn- og klovsykevirus som oppbevares i Unionens antigenbanker, til vaksiner, og vedrørende merking av bruksferdige vaksiner.Prosedyrene for frigivelse og levering av vaksiner fra Unionens antigen-, vaksine- og diagnosereagensbanker.Kravene vedrørende erstatning av antigener og vaksiner i Unionens antigen-, vaksine- og diagnosereagensbanker.De prosedyremessige og tekniske kravene ved anmodning om tilgang til Unionens antigen-, vaksine- og diagnosereagensbanker.
+Denne forordningen fastsetter regler for Unionens antigen-, vaksine- og diagnosereagensbanker som angir følgende:
+
+1. Hvilke biologiske produkter som skal finnes i Unionens antigen-, vaksine- og diagnosereagensbanker, og hvilke kategori A-sykdommer de kan være bestemt for.
+2. Kravene vedrørende hvilke typer, stammer og mengder av de biologiske produktene som skal finnes i Unionens antigen-, vaksine- og diagnosereagensbanker.
+3. Tilleggskravene vedrørende levering og oppbevaring av antigener og vaksiner som skal finnes i Unionens antigen-, vaksine- og diagnosereagensbanker.
+4. Kravene vedrørende formulering av antigener fra munn- og klovsykevirus som oppbevares i Unionens antigenbanker, til vaksiner, og vedrørende merking av bruksferdige vaksiner.
+5. Prosedyrene for frigivelse og levering av vaksiner fra Unionens antigen-, vaksine- og diagnosereagensbanker.
+6. Kravene vedrørende erstatning av antigener og vaksiner i Unionens antigen-, vaksine- og diagnosereagensbanker.
+7. De prosedyremessige og tekniske kravene ved anmodning om tilgang til Unionens antigen-, vaksine- og diagnosereagensbanker.
 
 ### Artikkel 2. Definisjoner
 
@@ -2828,7 +4112,17 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 1. mai 2022.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 16. november 2021.*For Kommisjonen*Ursula von der Leyen*President*
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 16. november 2021.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  |  |
+|  | *President* |
 
 ### VEDLEGG I
 Biologiske produkter som skal finnes i Unionens antigen-, vaksine- og diagnosereagensbanker, som nevnt i artikkel 3
@@ -2868,7 +4162,10 @@ Tilleggskrav vedrørende oppbevaring av antigener og vaksiner, som nevnt i artik
 ### VEDLEGG III
 Krav vedrørende formulering av antigener fra munn- og klovsykevirus til vaksiner og vedrørende merking av bruksferdige vaksiner, som nevnt i artikkel 5
 
-1. Formuleringen av antigenet eller antigenene til vaksiner skal utføres på følgende måte:Dersom det gjelder umiddelbar levering: Produsenten som det er inngått avtale med, skal formulere, tappe og merke minst 300 000 doser og høyst 2 000 000 doser ferdig vaksine (Al(OH)3/saponin og/eller DOE) per formuleringssted i løpet av 6 virkedager etter datoen da Kommisjonen varslet om anmodningen om levering.Dersom det gjelder hastende, men ikke umiddelbar levering: Produsenten som det er inngått avtale med, skal formulere, tappe og merke minst 300 000 doser og høyst 2 000 000 doser ferdig vaksine (Al(OH)3/saponin og/eller DOE) per formuleringssted i løpet av 7–15 virkedager etter datoen da Kommisjonen varslet om anmodningen om levering.
+1. Formuleringen av antigenet eller antigenene til vaksiner skal utføres på følgende måte:
+
+   1. Dersom det gjelder umiddelbar levering: Produsenten som det er inngått avtale med, skal formulere, tappe og merke minst 300 000 doser og høyst 2 000 000 doser ferdig vaksine (Al(OH)3/saponin og/eller DOE) per formuleringssted i løpet av 6 virkedager etter datoen da Kommisjonen varslet om anmodningen om levering.
+   2. Dersom det gjelder hastende, men ikke umiddelbar levering: Produsenten som det er inngått avtale med, skal formulere, tappe og merke minst 300 000 doser og høyst 2 000 000 doser ferdig vaksine (Al(OH)3/saponin og/eller DOE) per formuleringssted i løpet av 7–15 virkedager etter datoen da Kommisjonen varslet om anmodningen om levering.
 2. Den største rekvisisjonen kan være på opptil 5 millioner doser av hver av de 4 forskjellige antigenene fra beholdningen av antigener i Unionens antigen-, vaksine- og diagnosereagensbanker som er formulert til 5 millioner doser av en tetravalent vaksine.
 3. Minimumsstyrken på vaksiner som er formulert fra beholdningene av antigener i Unionens antigen-, vaksine- og diagnosereagensbanker, skal være minst 6 PD50.
 4. Tapping, merking og distribusjon av vaksinen skal gjennomføres under hensyn til de særlige behovene i det området der vaksinasjonen skal gjennomføres.
@@ -2878,10 +4175,16 @@ Krav vedrørende formulering av antigener fra munn- og klovsykevirus til vaksine
 ### VEDLEGG IV
 Prosedyrer for frigivelse og levering av vaksiner formulert fra antigenene fra munn- og klovsykeviruset, som nevnt i artikkel 6 nr. 2
 
-1. Etter at Kommisjonen har varslet om anmodningen om levering, skal produsenten som det er inngått avtale med, overholde følgende leveringsfrister:Ved hastende, men ikke umiddelbar levering: en periode på 7–15 virkedager til formulering, tapping og merking, pluss 3 virkedager til levering.Ved umiddelbar levering: en periode på 6 virkedager til formulering, tapping og merking, pluss 3 virkedager til levering.I ekstremt hastende tilfeller: Produsenten som det er inngått avtale med, skal levere raskere enn innen fristene nevnt i bokstav a) og b), med forbehold om nødvendig dokumentasjon, for eksempel et sertifikat for tidlig frigivelse eller en innføringstillatelse utstedt av medlemsstaten, tredjelandet eller territoriet som sendingen skal til, og med forbehold om eventuelle forsinkelser forårsaket eller restriksjoner pålagt av fraktselskapet.Produsenten som det er inngått avtale med, skal treffe de nødvendige tiltakene for å lette innhentingen av en eventuell tillatelse eller lisens som kreves for å oppfylle avtalen i henhold til gjeldende lover og forskrifter på det stedet der avtalen nevnt i artikkel 3 nr. 1 eller artikkel 4 nr. 1 i delegert forordning [(EU) 2022/139](eu/32022r0139) skal gjennomføres.
-Produsenten som det er inngått avtale med, skal imidlertid ikke holdes ansvarlig for å innhente dokumenter som avhenger av andre juridiske enheter og myndigheter som ikke har direkte kontroll over eller innflytelse på produsenten.
+1. Etter at Kommisjonen har varslet om anmodningen om levering, skal produsenten som det er inngått avtale med, overholde følgende leveringsfrister:
+
+   1. Ved hastende, men ikke umiddelbar levering: en periode på 7–15 virkedager til formulering, tapping og merking, pluss 3 virkedager til levering.
+   2. Ved umiddelbar levering: en periode på 6 virkedager til formulering, tapping og merking, pluss 3 virkedager til levering.
+   3. I ekstremt hastende tilfeller: Produsenten som det er inngått avtale med, skal levere raskere enn innen fristene nevnt i bokstav a) og b), med forbehold om nødvendig dokumentasjon, for eksempel et sertifikat for tidlig frigivelse eller en innføringstillatelse utstedt av medlemsstaten, tredjelandet eller territoriet som sendingen skal til, og med forbehold om eventuelle forsinkelser forårsaket eller restriksjoner pålagt av fraktselskapet.
+
+   Produsenten som det er inngått avtale med, skal treffe de nødvendige tiltakene for å lette innhentingen av en eventuell tillatelse eller lisens som kreves for å oppfylle avtalen i henhold til gjeldende lover og forskrifter på det stedet der avtalen nevnt i artikkel 3 nr. 1 eller artikkel 4 nr. 1 i delegert forordning [(EU) 2022/139](eu/32022r0139) skal gjennomføres.
+   Produsenten som det er inngått avtale med, skal imidlertid ikke holdes ansvarlig for å innhente dokumenter som avhenger av andre juridiske enheter og myndigheter som ikke har direkte kontroll over eller innflytelse på produsenten.
 2. Ved sending til bestemmelsesstedet skal vaksinene være pakket i isolerte pappesker som inneholder 6 kjølepakker per eske av standardstørrelse (45 x 42 x 45 cm), eller tilsvarende emballasje. Denne kombinasjonen skal sikre at kjølekjeden holdes ubrutt i opptil 72 timer.
-Dersom Kommisjonen uttrykkelig anmoder om det, skal produsenten som det er inngått avtale med, utstyre hver av standardeskene med vaksiner som inngår i i sendingen, med WHO-godkjente innretninger for overvåking av kjølekjeden6. Kortet for overvåking av kjølekjeden skal ha en tidstemperaturindikator der terskeltemperaturene for utslag er +10 °C og +34 °C. Indikatoren skal vise blå farge dersom temperaturen er blitt overskredet under transport eller oppbevaring.
+   Dersom Kommisjonen uttrykkelig anmoder om det, skal produsenten som det er inngått avtale med, utstyre hver av standardeskene med vaksiner som inngår i i sendingen, med WHO-godkjente innretninger for overvåking av kjølekjeden6. Kortet for overvåking av kjølekjeden skal ha en tidstemperaturindikator der terskeltemperaturene for utslag er +10 °C og +34 °C. Indikatoren skal vise blå farge dersom temperaturen er blitt overskredet under transport eller oppbevaring.
 
 6 WHO, Verdens helseorganisasjon, «Temperature monitors for vaccines and the cold chain», dokument WHO/V&B/99.15 (1999).
 
@@ -2896,4 +4199,7 @@ Prosedyrer for levering av vaksiner som oppbevares i Unionens vaksinebanker, som
 Tilleggskriterier for distribusjon av de nødvendige mengdene og typene av vaksiner, som nevnt i artikkel 8 nr. 2
 
 1. En medlemsstat, et tredjeland eller et territorium som anmoder om et antigen, en vaksine eller en diagnosereagens, kan høyst motta halvparten av de beholdningene som er tilgjengelige i Unionens antigen-, vaksine- og diagnosereagensbank.
-2. I tillegg til at vilkåret i nr. 1 må overholdes, skal det tas hensyn tilden tiden som produsenten som det er inngått avtale med, trenger til å produsere og fylle på Unionens antigen-, vaksine- og diagnosereagensbank med den tilsvarende typen og mengden antigen, vaksine eller diagnosereagens, ogtilgjengeligheten av antigenet, vaksinen eller diagnosereagensen på markedet.
+2. I tillegg til at vilkåret i nr. 1 må overholdes, skal det tas hensyn til
+
+   1. den tiden som produsenten som det er inngått avtale med, trenger til å produsere og fylle på Unionens antigen-, vaksine- og diagnosereagensbank med den tilsvarende typen og mengden antigen, vaksine eller diagnosereagens, og
+   2. tilgjengeligheten av antigenet, vaksinen eller diagnosereagensen på markedet.

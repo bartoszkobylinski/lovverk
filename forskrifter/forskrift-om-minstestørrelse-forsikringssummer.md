@@ -15,7 +15,7 @@ xml_hash: "9720024b502d3f3cff223af8c6d7ae1c69aa4ef91dc49fa53acd55fae6f77136"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -77,6 +77,9 @@ Dersom et norskregistrert luftfartøy ikke er forsikret i henhold til denne fors
 
 Forskriften trer i kraft 1. september 2004.
 
-Fra samme tidspunkt oppheves:Forskrift 11. juli 1973 om minstestørrelsen på forsikringssummene i forbindelse med forsikringsplikten vedrørende tredjemannsansvaret.Bestemmelse 18. november 1961 om forsikringsplikt vedrørende tredjemannsansvaret.
+Fra samme tidspunkt oppheves:
+
+- Forskrift 11. juli 1973 om minstestørrelsen på forsikringssummene i forbindelse med forsikringsplikten vedrørende tredjemannsansvaret.
+- Bestemmelse 18. november 1961 om forsikringsplikt vedrørende tredjemannsansvaret.
 
 > Endret ved [forskrift 11 april 2013 nr. 354](forskrift/2013-04-11-354) (tidligere § 7).

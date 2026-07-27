@@ -32,10 +32,24 @@ Kvitsøy Sau og Geit.
 
 ## § 3. Vilkår for bruk av produktbetegnelsen
 
-1. *Produktbeskrivelse*Kvitsøylam er kjøtt av lam som er født, oppvokst og har beitet i Kvitsøy kommune. Lam defineres her som lam født etter 15. mars samme år som det slaktes.Betegnelsen Kvitsøylam omfatter ferske og fryste skrotter og stykningsdeler. Kvitsøylam skal ha en slaktevekt på minimum 17 kg og maksimum 25 kg. Skrottene skal være klassifisert i slakteklasse R – og bedre, og fettklasse 3 eller lavere. Kun lam slaktet innen utgangen av oktober måned kan bruke betegnelsen Kvitsøylam.Kvitsøylam er mørt, har en lys farge og mild smak.
-2. *Geografisk område*Kvitsøylam skal være produsert i Kvitsøy kommune.
-3. *Produksjonsmetode*Lammene skal slippes på beite innen 15. mai. Etter at de er sluppet på beite er det ikke tillatt å gi tilskuddsfôr direkte til lammene. Kopplam omfattes derfor ikke. Lammene kan beite både på utmarksbeite og kulturbeite. Alle forhold rundt beiting og fôring skal dokumenteres.Plukking og slakting starter i uke 29/30. Lammene skal ved plukking ha en levendevekt på 45–55 kg. Etter plukking skal lammene stå inne over natten uten tilgang på kraftfôr før de sendes til slakting dagen etter. Lammene skal være merket fra produsent som Kvitsøylam. På slakteriet skal disse merkes med skrottlapp Kvitsøylam. Siste slaktedato er 31. oktober.
-4. *Merking av produktet:*Kvitsøylam kan merkes med teksten og figurmerket for Beskyttet geografisk betegnelse.
+1. *Produktbeskrivelse*
+
+   Kvitsøylam er kjøtt av lam som er født, oppvokst og har beitet i Kvitsøy kommune. Lam defineres her som lam født etter 15. mars samme år som det slaktes.
+
+   Betegnelsen Kvitsøylam omfatter ferske og fryste skrotter og stykningsdeler. Kvitsøylam skal ha en slaktevekt på minimum 17 kg og maksimum 25 kg. Skrottene skal være klassifisert i slakteklasse R – og bedre, og fettklasse 3 eller lavere. Kun lam slaktet innen utgangen av oktober måned kan bruke betegnelsen Kvitsøylam.
+
+   Kvitsøylam er mørt, har en lys farge og mild smak.
+2. *Geografisk område*
+
+   Kvitsøylam skal være produsert i Kvitsøy kommune.
+3. *Produksjonsmetode*
+
+   Lammene skal slippes på beite innen 15. mai. Etter at de er sluppet på beite er det ikke tillatt å gi tilskuddsfôr direkte til lammene. Kopplam omfattes derfor ikke. Lammene kan beite både på utmarksbeite og kulturbeite. Alle forhold rundt beiting og fôring skal dokumenteres.
+
+   Plukking og slakting starter i uke 29/30. Lammene skal ved plukking ha en levendevekt på 45–55 kg. Etter plukking skal lammene stå inne over natten uten tilgang på kraftfôr før de sendes til slakting dagen etter. Lammene skal være merket fra produsent som Kvitsøylam. På slakteriet skal disse merkes med skrottlapp Kvitsøylam. Siste slaktedato er 31. oktober.
+4. *Merking av produktet:*
+
+   Kvitsøylam kan merkes med teksten og figurmerket for Beskyttet geografisk betegnelse.
 
 ## § 4. Ikrafttredelse
 

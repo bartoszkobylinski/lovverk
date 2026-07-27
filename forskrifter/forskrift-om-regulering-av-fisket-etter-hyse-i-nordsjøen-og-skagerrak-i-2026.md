@@ -24,11 +24,17 @@ eu_basis: []
 
 ## § 1. Generelt forbud
 
-Det er forbudt for norske fartøy å fiske og lande hyse i følgende områder i 2026:I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje gjennom Hanstholmen fyr og Lindesnes fyr, og i EU-sonen og britisk sone i ICES’ statistikkområde 4.I Skagerrak, det vil si avgrenset mot vest av en rett linje gjennom Hanstholmen fyr til Lindesnes fyr og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor 4 nautiske mil av de svenske og danske grunnlinjene.
+Det er forbudt for norske fartøy å fiske og lande hyse i følgende områder i 2026:
+
+1. I Nordsjøen, det vil si Norges territorialfarvann og økonomiske sone sør for 62° N avgrenset mot øst av en rett linje gjennom Hanstholmen fyr og Lindesnes fyr, og i EU-sonen og britisk sone i ICES’ statistikkområde 4.
+2. I Skagerrak, det vil si avgrenset mot vest av en rett linje gjennom Hanstholmen fyr til Lindesnes fyr og i sør av en rett linje gjennom Skagen fyr til Tistlarna fyr utenfor 4 nautiske mil av de svenske og danske grunnlinjene.
 
 ## § 2. Totalkvoter
 
-Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2813/§1) kan norske fartøy fiske og lande inntil:21 237 tonn hyse i Nordsjøen. Av totalkvoten kan inntil 2 500 tonn fiskes i britisk sone. Av totalkvoten kan inntil 17 671 tonn fiskes i EU-sonen.238 tonn hyse i Skagerrak. I tillegg kan inntil 2 124 tonn av den norske kvoten i Nordsjøen fiskes i Skagerrak.
+Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2813/§1) kan norske fartøy fiske og lande inntil:
+
+1. 21 237 tonn hyse i Nordsjøen. Av totalkvoten kan inntil 2 500 tonn fiskes i britisk sone. Av totalkvoten kan inntil 17 671 tonn fiskes i EU-sonen.
+2. 238 tonn hyse i Skagerrak. I tillegg kan inntil 2 124 tonn av den norske kvoten i Nordsjøen fiskes i Skagerrak.
 
 Alle kvanta i forskriften angis i rund vekt.
 

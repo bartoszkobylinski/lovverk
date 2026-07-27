@@ -15,7 +15,7 @@ xml_hash: "3d59e98092789decd52c24e108662dc00845e43adb2f99beef9317b1ef8620fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,14 @@ Forskriften gjelder kun tillatelser slik disse er registrert i akvakulturregiste
 
 Kapitlene 1, 2, 4 og 5 gjelder tillatelser hjemmehørende i alle produksjonsområder.
 
-[Kapittel 3](forskrift/2024-03-22-515/kap3) gjelder for følgende (grønne) produksjonsområder:Område 1: Svenskegrensen til JærenOmråde 9: Vestfjorden og VesterålenOmråde 10: Andøya til SenjaOmråde 11: Kvaløya til LoppaOmråde 12: Vest-FinnmarkOmråde 13: Øst-Finnmark.
+[Kapittel 3](forskrift/2024-03-22-515/kap3) gjelder for følgende (grønne) produksjonsområder:
+
+1. Område 1: Svenskegrensen til Jæren
+2. Område 9: Vestfjorden og Vesterålen
+3. Område 10: Andøya til Senja
+4. Område 11: Kvaløya til Loppa
+5. Område 12: Vest-Finnmark
+6. Område 13: Øst-Finnmark.
 
 ## Kapittel 2. Utnyttelse av tillatelser og registrering
 
@@ -82,7 +89,12 @@ Dette kapittelet gjelder tilbud om å øke tillatelseskapasiteten (maksimalt til
 
 Tilbudet skal offentliggjøres på fylkeskommunenes og Fiskeridirektoratets internettsider minimum 2 uker før fristen for å søke om kapasitetsøkning går ut. Fiskeridirektoratet utarbeider kunngjøringstekst og annen dokumentasjon til bruk for søknad og forvaltning av ordningen.
 
-Kunngjøringen skal minimum inneholde følgende:Krav til søknad og frist for innsending,informasjon om vederlag og innbetaling av dette,at det ikke er mulig å søke om kapasitetsøkning etter denne forskriften etter at søknadsfristen har gått ut, ogat det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut.
+Kunngjøringen skal minimum inneholde følgende:
+
+1. Krav til søknad og frist for innsending,
+2. informasjon om vederlag og innbetaling av dette,
+3. at det ikke er mulig å søke om kapasitetsøkning etter denne forskriften etter at søknadsfristen har gått ut, og
+4. at det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut.
 
 ### § 9. Økt tillatelseskapasitet på eksisterende tillatelser
 
@@ -130,11 +142,20 @@ Tilbud om økt tillatelseskapasitet avrundes til nærmeste hele tonn.
 
 Tilbudet skal offentliggjøres på fylkeskommunenes og Fiskeridirektoratets internettsider minimum 2 uker før fristen går ut. Fiskeridirektoratet utarbeider kunngjøringstekst og annen dokumentasjon til bruk for søknad og forvaltning av ordningen.
 
-Kunngjøringen skal minimum inneholde følgende:Krav til søknaden og frist for innsending,informasjon om vederlag og innbetaling av dette,at det ikke er mulig å søke om kapasitetsøkning eller fastsettelse av kapasitet som unntas fra nedjustering etter denne forskriften etter at søknadsfristen har gått ut,at det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut, ogopplysninger om saksbehandlingsgebyr.
+Kunngjøringen skal minimum inneholde følgende:
+
+1. Krav til søknaden og frist for innsending,
+2. informasjon om vederlag og innbetaling av dette,
+3. at det ikke er mulig å søke om kapasitetsøkning eller fastsettelse av kapasitet som unntas fra nedjustering etter denne forskriften etter at søknadsfristen har gått ut,
+4. at det er begrensede muligheter til å supplere søknaden etter at søknadsfristen har gått ut, og
+5. opplysninger om saksbehandlingsgebyr.
 
 ### § 15. Tilbud om økt tillatelseskapasitet uavhengig av miljøstatus i produksjonsområdet
 
-Innehaver av tillatelse som har mottatt et positivt vedtak fra Mattilsynet om at en eller flere lokaliteter knyttet til tillatelsen har oppfylt kriteriene for unntak etter [produksjonsområdeforskriften § 12](forskrift/2017-01-16-61/§12), kan søke omfastsettelse av tillatelseskapasitet som skal unntas fra nedjustering i produksjonsområder som har uakseptabel miljøtilstand.økning i kapasitet på eksisterende tillatelser.
+Innehaver av tillatelse som har mottatt et positivt vedtak fra Mattilsynet om at en eller flere lokaliteter knyttet til tillatelsen har oppfylt kriteriene for unntak etter [produksjonsområdeforskriften § 12](forskrift/2017-01-16-61/§12), kan søke om
+
+1. fastsettelse av tillatelseskapasitet som skal unntas fra nedjustering i produksjonsområder som har uakseptabel miljøtilstand.
+2. økning i kapasitet på eksisterende tillatelser.
 
 ### § 16. Krav til sending og søknad
 
@@ -142,7 +163,14 @@ Søknaden skal sendes senest 17. april 2024. Det skal kun sendes én søknad per
 
 Søknaden skal merkes med: «Søknad om kapasitetsøkning – unntak 2023–2024», eventuelt «søknad om unntak fra nedjustering 2024».
 
-Søknaden skal føres på fastsatt skjema og minimum inneholde informasjon omhvilken tillatelse og lokalitet søknaden gjelder,søkers redegjørelse og dokumentasjon for månedlig vektøkning for hver fiskegruppe på aktuelle lokaliteter i perioden 1. februar 2021 til 1. februar 2023, i henhold til kriteriene i [produksjonsområdeforskriften § 12](forskrift/2017-01-16-61/§12) slik bestemmelsen lød før 28. september 2023, ogved eventuell samdrift må ideell eierandel fremgå,ved eventuell samlokalisering må eierskap for hver fiskegruppe fremgå,dersom det på lokaliteten er benyttet tillatelser som forskriften ikke omfatter, må det fremgå hvilke fiskegrupper dette gjelder.kvittering for innbetalt saksbehandlingsgebyr (gjelder ikke for søknad etter [§ 15](forskrift/2024-03-22-515/§15) første ledd bokstav a).
+Søknaden skal føres på fastsatt skjema og minimum inneholde informasjon om
+
+1. hvilken tillatelse og lokalitet søknaden gjelder,
+2. søkers redegjørelse og dokumentasjon for månedlig vektøkning for hver fiskegruppe på aktuelle lokaliteter i perioden 1. februar 2021 til 1. februar 2023, i henhold til kriteriene i [produksjonsområdeforskriften § 12](forskrift/2017-01-16-61/§12) slik bestemmelsen lød før 28. september 2023, og
+3. ved eventuell samdrift må ideell eierandel fremgå,
+4. ved eventuell samlokalisering må eierskap for hver fiskegruppe fremgå,
+5. dersom det på lokaliteten er benyttet tillatelser som forskriften ikke omfatter, må det fremgå hvilke fiskegrupper dette gjelder.
+6. kvittering for innbetalt saksbehandlingsgebyr (gjelder ikke for søknad etter [§ 15](forskrift/2024-03-22-515/§15) første ledd bokstav a).
 
 Søknaden kan inneholde dokumentasjon på innehaverens MTB-utnyttelse innenfor dokumentasjonsperioden og innenfor produksjonsområdet som den aktuelle lokaliteten er hjemmehørende. Ved mangelfull eller manglende dokumentasjon på MTB-utnyttelse, kommer [§ 20](forskrift/2024-03-22-515/§20) tredje ledd til anvendelse, jf. [produksjonsområdeforskriften § 12b](forskrift/2017-01-16-61/§12b) tredje ledd.
 

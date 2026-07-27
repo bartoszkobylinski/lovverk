@@ -15,7 +15,7 @@ xml_hash: "b6e7b4637bfb1aecf869716030542c843b956c95a3dc1c3dd26da05171baa881"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,13 +32,31 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med:«bruttotonnasje»: der bruttotonnasje er parameter skal bruttotonnasje etter den internasjonale konvensjonen om måling av fartøyer (1969-konvensjonen) legges til grunn ved anvendelsen av denne forskriften,«fart nær kystlandet»: fartsområdet Nord- og Østersjøfart,«fiskefartøy»: fartøy som er utrustet og som ervervsmessig benyttes til å fange fisk, herunder hval, sel, tang og tare eller andre levende ressurser i sjøen,«framdriftskraft»: den totale maksimale kontinuerlige merkeytelsen i kilowatt av skipets samlede hovedframdriftsmaskineri som er angitt på skipets registreringsbevis eller annet offisielt dokument, og hvor 1 kW utgjør 1,36 HK,«gasstankskip»: skip som er bygget eller ombygget for og benyttet til å føre i bulk hvilke som helst av de kondenserte gasser eller andre produkter oppført i den internasjonale kode for transport av kondenserte gasser i bulk kapittel 19,«GMDSS»: Global Maritime Distress and Safety System,«hurtiggående fartøy»: fartøy som definert i SOLAS kapittel X regel 1, uansett byggedato i utenriksfart. Slike fartøy i innenriksfart uansett byggedato med bruttotonnasje 50 eller mer, eller som etter sitt sertifikat kan føre mer enn 12 passasjerer, anses som hurtiggående dersom fartøyet kan oppnå 20 knop eller mer,«ikke-sjøgående skip»: skip med fartsområde 1 eller 2, samt elver og innsjøer,«kjemikalietankskip»: skip som er bygget eller ombygget og benyttet til å føre hvilke som helst av de flytende produktene oppført i den internasjonale kode for transport av kjemikalier i bulk kapittel 17,«oljetankskip»: skip som benyttes til å føre petroleum og petroleumsprodukter i bulk,«passasjerskip»: skip som er sertifisert til å føre passasjerer,«radiodekningsområde A1, A2, A3 og A4»: radiodekningsområde som definert i SOLAS kapittel IV regel 2.
+I denne forskrift menes med:
+
+1. «bruttotonnasje»: der bruttotonnasje er parameter skal bruttotonnasje etter den internasjonale konvensjonen om måling av fartøyer (1969-konvensjonen) legges til grunn ved anvendelsen av denne forskriften,
+2. «fart nær kystlandet»: fartsområdet Nord- og Østersjøfart,
+3. «fiskefartøy»: fartøy som er utrustet og som ervervsmessig benyttes til å fange fisk, herunder hval, sel, tang og tare eller andre levende ressurser i sjøen,
+4. «framdriftskraft»: den totale maksimale kontinuerlige merkeytelsen i kilowatt av skipets samlede hovedframdriftsmaskineri som er angitt på skipets registreringsbevis eller annet offisielt dokument, og hvor 1 kW utgjør 1,36 HK,
+5. «gasstankskip»: skip som er bygget eller ombygget for og benyttet til å føre i bulk hvilke som helst av de kondenserte gasser eller andre produkter oppført i den internasjonale kode for transport av kondenserte gasser i bulk kapittel 19,
+6. «GMDSS»: Global Maritime Distress and Safety System,
+7. «hurtiggående fartøy»: fartøy som definert i SOLAS kapittel X regel 1, uansett byggedato i utenriksfart. Slike fartøy i innenriksfart uansett byggedato med bruttotonnasje 50 eller mer, eller som etter sitt sertifikat kan føre mer enn 12 passasjerer, anses som hurtiggående dersom fartøyet kan oppnå 20 knop eller mer,
+8. «ikke-sjøgående skip»: skip med fartsområde 1 eller 2, samt elver og innsjøer,
+9. «kjemikalietankskip»: skip som er bygget eller ombygget og benyttet til å føre hvilke som helst av de flytende produktene oppført i den internasjonale kode for transport av kjemikalier i bulk kapittel 17,
+10. «oljetankskip»: skip som benyttes til å føre petroleum og petroleumsprodukter i bulk,
+11. «passasjerskip»: skip som er sertifisert til å føre passasjerer,
+12. «radiodekningsområde A1, A2, A3 og A4»: radiodekningsområde som definert i SOLAS kapittel IV regel 2.
 
 > Endret ved [forskrifter 27 juni 2013 nr. 803](forskrift/2013-06-27-803) (i kraft 1 juli 2013), [11 juli 2014 nr. 974](forskrift/2014-07-11-974) (i kraft 15 juli 2014).
 
 ### § 3. Stillinger som krever kompetansesertifikat
 
-(1) Skipsfører, dekkssjef og ansvarshavende vaktoffiser på dekk skal ha relevant kompetansesertifikat for dekksoffiser påpassasjerskiplasteskip med største lengde 8 meter eller merfiskefartøy med største lengde 10,67 meter eller merlekter.
+(1) Skipsfører, dekkssjef og ansvarshavende vaktoffiser på dekk skal ha relevant kompetansesertifikat for dekksoffiser på
+
+1. passasjerskip
+2. lasteskip med største lengde 8 meter eller mer
+3. fiskefartøy med største lengde 10,67 meter eller mer
+4. lekter.
 
 (2) Maskinsjef, førstemaskinist og ansvarshavende vaktoffiser i maskin skal ha kompetansesertifikat for maskinoffiser på skip med framdriftskraft på 750 kW eller mer.
 
@@ -70,15 +88,30 @@ Rederiet skal påse og skipsfører skal sørge for at sjøfolk før de tjenesteg
 
 ### § 7. Sikkerhetsopplæring av sjøfolk
 
-Sjøfolk skal ha opplæring eller instruksjon som gjøre dem i stand til åkommunisere med andre om bord om sikkerhetsspørsmål, forstå symboler, skilt og alarmsignaler,vite hva man skal gjøre dersom det begynner å brenne eller brannalarmen eller evakueringsalarmen går, eller en person faller over bord,identifisere nødutganger og områder for mønstring og for entring av redningsfarkost,finne fram til og ta på redningsvest,slå alarm og bruke bærbare brannslukningsapparater,sikre skadestedet og gi førstehjelp,lukke og åpne branndører, værtette og vanntette dører i skipet, unntatt dører som er installert i åpninger i skroget.
+Sjøfolk skal ha opplæring eller instruksjon som gjøre dem i stand til å
+
+1. kommunisere med andre om bord om sikkerhetsspørsmål, forstå symboler, skilt og alarmsignaler,
+2. vite hva man skal gjøre dersom det begynner å brenne eller brannalarmen eller evakueringsalarmen går, eller en person faller over bord,
+3. identifisere nødutganger og områder for mønstring og for entring av redningsfarkost,
+4. finne fram til og ta på redningsvest,
+5. slå alarm og bruke bærbare brannslukningsapparater,
+6. sikre skadestedet og gi førstehjelp,
+7. lukke og åpne branndører, værtette og vanntette dører i skipet, unntatt dører som er installert i åpninger i skroget.
 
 ### § 8. Krav om grunnleggende sikkerhetskurs for sjøfolk i alarminstruksen
 
-(1) Sjøfolk som pålegges oppgaver i skipets alarminstruks skal i tillegg til [§ 7](forskrift/2011-12-22-1523/§7) enten hakompetansesertifikat,ferdighetssertifikat som omfatter krav til grunnleggende sikkerhetskurs, ellerferdighetssertifikater som dokumenterer grunnleggende sikkerhetskurs.
+(1) Sjøfolk som pålegges oppgaver i skipets alarminstruks skal i tillegg til [§ 7](forskrift/2011-12-22-1523/§7) enten ha
+
+1. kompetansesertifikat,
+2. ferdighetssertifikat som omfatter krav til grunnleggende sikkerhetskurs, eller
+3. ferdighetssertifikater som dokumenterer grunnleggende sikkerhetskurs.
 
 (2) Ferdighetssertifikat grunnleggende sikkerhetskurs kan utstedes til den som har gjennomført og bestått grunnleggende sikkerhetskurs som nevnt i [§ 9](forskrift/2011-12-22-1523/§9). Opplæringen skal dokumenteres ved utstedt bevis fra opplæringssenteret.
 
-(3) Som alternativ til grunnleggende sikkerhetskurs kan følgende sjøfolk gjennomføre og bestå godkjent sikkerhetsopplæringskurs for sjøfolk på mindre skipsjøfolk som skal tjenestegjøre på passasjerskip med bruttotonnasje under 300 i fartsområde 1sjøfolk som skal tjenestegjøre på lasteskip med lengde (L) under 24 meter i fartsområde liten kystfart eller mindre.
+(3) Som alternativ til grunnleggende sikkerhetskurs kan følgende sjøfolk gjennomføre og bestå godkjent sikkerhetsopplæringskurs for sjøfolk på mindre skip
+
+1. sjøfolk som skal tjenestegjøre på passasjerskip med bruttotonnasje under 300 i fartsområde 1
+2. sjøfolk som skal tjenestegjøre på lasteskip med lengde (L) under 24 meter i fartsområde liten kystfart eller mindre.
 
 (4) Personer uten sertifikatplikt på fiskefartøy skal ha gjennomført og bestått sikkerhetsopplæring for fiskere.
 
@@ -98,7 +131,12 @@ Sjøfolk skal ha opplæring eller instruksjon som gjøre dem i stand til åkommu
 
 (1) For at godkjent kurs av begrenset omfang etter [§ 9](forskrift/2011-12-22-1523/§9) tredje ledd skal være tilstrekkelig, må ferdigheter dokumenteres vedlikeholdt om bord i samsvar med bestemmelsen her.
 
-(2) Innenfor personlige redningsteknikker skal følgende ferdigheter vedlikeholdes om bord:ta på redningsvest og borde en redningsfarkost iført redningsvest,utføre de første handlingene ved ombordstigning i en livbåt som øker sjansene for å overleve,sette ut drivanker fra livbåten,betjene utstyret om bord i redningsfarkosten, herunder innretninger til å angi posisjon og radioutstyr.
+(2) Innenfor personlige redningsteknikker skal følgende ferdigheter vedlikeholdes om bord:
+
+1. ta på redningsvest og borde en redningsfarkost iført redningsvest,
+2. utføre de første handlingene ved ombordstigning i en livbåt som øker sjansene for å overleve,
+3. sette ut drivanker fra livbåten,
+4. betjene utstyret om bord i redningsfarkosten, herunder innretninger til å angi posisjon og radioutstyr.
 
 (3) Innenfor brannvern og brannslokning skal ferdighetene i å bruke bærbart åndedrettsvern og gjennomføre en redningsaksjon iført åndedrettsapparat i et røykfylt rom vedlikeholdes om bord.
 
@@ -122,11 +160,21 @@ Opplæring om bord for førstegangsutstedelse av kompetansesertifikat skal være
 
 (1) Rederiet skal sørge for at instruktør for opplæring om bord har forståelse for opplæringsprogrammet og målene med opplæringen og har sertifikat minst på nivå med de oppgavene det gis opplæring i.
 
-(2) Rederiet skal sørge for at den som skal bedømme kompetansen etter gjennomført opplæringer sertifisert for funksjonen bedømmelsen gjelderhar fått opplæring og praksis i bedømmelsesmetoderhar kvalifikasjonsbevis for assessor.
+(2) Rederiet skal sørge for at den som skal bedømme kompetansen etter gjennomført opplæring
 
-(3) Rederiet skal sørge for at den som skal bedømme kompetansen til navigatører på hurtiggående fartøyhar tjenestegjort som fører på rederiets hurtiggående fartøy eller tilsvarende fartøyhar kvalifikasjonsbevis for hurtigbåtassessor.
+1. er sertifisert for funksjonen bedømmelsen gjelder
+2. har fått opplæring og praksis i bedømmelsesmetoder
+3. har kvalifikasjonsbevis for assessor.
 
-(4) Kvalifikasjonsbevis for assessor kan utstedes til den som dokumenterergjennomført kurs i bedømmelsesmetoderminst 12 måneders relevant fartstid med gyldig kompetansesertifikat.
+(3) Rederiet skal sørge for at den som skal bedømme kompetansen til navigatører på hurtiggående fartøy
+
+1. har tjenestegjort som fører på rederiets hurtiggående fartøy eller tilsvarende fartøy
+2. har kvalifikasjonsbevis for hurtigbåtassessor.
+
+(4) Kvalifikasjonsbevis for assessor kan utstedes til den som dokumenterer
+
+1. gjennomført kurs i bedømmelsesmetoder
+2. minst 12 måneders relevant fartstid med gyldig kompetansesertifikat.
 
 (5) Kvalifikasjonsbevis for hurtigbåtassessor kan utstedes til den som dokumenterer gjennomført opplæring som assessor for hurtigbåt, og har kompetansesertifikat dekksoffiser klasse 4 eller høyere.
 
@@ -154,15 +202,33 @@ Opplæring om bord for førstegangsutstedelse av kompetansesertifikat skal være
 
 ### § 15. Simulator i opplæring og bedømming
 
-(1) Simulator som brukes i obligatorisk opplæring og bedømmelse av sjøfolks kompetanse skalpasse for opplæringens utvalgte mål og oppgaver,simulere driftsegenskapene til det aktuelle utstyret om bord med fysisk realisme på et nivå om er relevant for opplæringens mål og omfatte utstyrets begrensninger og mulige feil,kunne simulere en rekke ulike forhold, for eksempel nødssituasjoner, farlige eller uvanlige situasjoner som er relevante for opplæringens mål,simulere tilstrekkelig realistisk adferd til at den som gjennomgår opplæringen kan tilegne seg ferdighetene som er relevante for opplæringens mål,ha et grensesnitt som gjør det mulig for den som gjennomgår opplæringen å samhandle med utstyret, det simulerte miljøet og når det er nødvendig også med instruktøren,tillate instruktøren å styre, overvåke og registrere øvelser for å kunne spørre ut den som gjennomgår opplæringen.
+(1) Simulator som brukes i obligatorisk opplæring og bedømmelse av sjøfolks kompetanse skal
 
-(2) Simulator som brukes ved bedømmelse av kompetanse skalpasse for bedømmelsens angitte mål og oppgaver,simulere driftsegenskapene til det aktuelle utstyret om bord med fysisk realisme på et nivå om er relevant for bedømmelsens mål og omfatte utstyrets begrensninger og mulige feil,være tilstrekkelig realistisk til at den som gjennomgår opplæringen kan tilegne seg ferdighetene som er relevante for bedømmelsens mål,kunne simulere en rekke ulike forhold, for eksempel nødssituasjoner, farlige eller uvanlige situasjoner som er relevante for bedømmelsens mål,ha et grensesnitt som gjør det mulig for den som bedømmes å samhandle med utstyret, det simulerte miljøet,tillate assessoren å styre, overvåke og registrere øvelser for å kunne spørre ut den som gjennomgår bedømmelsen.
+1. passe for opplæringens utvalgte mål og oppgaver,
+2. simulere driftsegenskapene til det aktuelle utstyret om bord med fysisk realisme på et nivå om er relevant for opplæringens mål og omfatte utstyrets begrensninger og mulige feil,
+3. kunne simulere en rekke ulike forhold, for eksempel nødssituasjoner, farlige eller uvanlige situasjoner som er relevante for opplæringens mål,
+4. simulere tilstrekkelig realistisk adferd til at den som gjennomgår opplæringen kan tilegne seg ferdighetene som er relevante for opplæringens mål,
+5. ha et grensesnitt som gjør det mulig for den som gjennomgår opplæringen å samhandle med utstyret, det simulerte miljøet og når det er nødvendig også med instruktøren,
+6. tillate instruktøren å styre, overvåke og registrere øvelser for å kunne spørre ut den som gjennomgår opplæringen.
+
+(2) Simulator som brukes ved bedømmelse av kompetanse skal
+
+1. passe for bedømmelsens angitte mål og oppgaver,
+2. simulere driftsegenskapene til det aktuelle utstyret om bord med fysisk realisme på et nivå om er relevant for bedømmelsens mål og omfatte utstyrets begrensninger og mulige feil,
+3. være tilstrekkelig realistisk til at den som gjennomgår opplæringen kan tilegne seg ferdighetene som er relevante for bedømmelsens mål,
+4. kunne simulere en rekke ulike forhold, for eksempel nødssituasjoner, farlige eller uvanlige situasjoner som er relevante for bedømmelsens mål,
+5. ha et grensesnitt som gjør det mulig for den som bedømmes å samhandle med utstyret, det simulerte miljøet,
+6. tillate assessoren å styre, overvåke og registrere øvelser for å kunne spørre ut den som gjennomgår bedømmelsen.
 
 > Endret ved [forskrifter 27 juni 2013 nr. 803](forskrift/2013-06-27-803) (i kraft 1 juli 2013), [7 sep 2023 nr. 1411](forskrift/2023-09-07-1411).
 
 ### § 16. Fartstid, beregning og dokumentasjon
 
-(1) Fartstid er tjeneste om bord som gir sjøfolk relevant kunnskap, innsikt og ferdighet for utstedelse av sertifikat eller vedlikehold av kompetanse. Fartstid regnes som faktisk tjenestetid fra time til time ved normal operasjon av skip, fiskefartøy eller flyttbar innretning. Fartstiden regnes i måneder, enten som kalendermåned eller som 30 enkeltdager. Fartstiden regnes etter følgende formel: $$D = \\frac{x}{1867} \\cdot 365$$D = fartstidsdager, x = antall timer arbeidet, 1867= antall timer i basisårsverk basert på 8 timers dag.
+(1) Fartstid er tjeneste om bord som gir sjøfolk relevant kunnskap, innsikt og ferdighet for utstedelse av sertifikat eller vedlikehold av kompetanse. Fartstid regnes som faktisk tjenestetid fra time til time ved normal operasjon av skip, fiskefartøy eller flyttbar innretning. Fartstiden regnes i måneder, enten som kalendermåned eller som 30 enkeltdager. Fartstiden regnes etter følgende formel:
+
+$$D = \\frac{x}{1867} \\cdot 365$$
+
+D = fartstidsdager, x = antall timer arbeidet, 1867= antall timer i basisårsverk basert på 8 timers dag.
 
 (2) Rederiet skal sørge for at fartstid for sjøfolk på egne fartøy blir registrert. Fartstiden kan registreres i Sjøfartsdirektoratets database eller i form av en annen fartstidsbekreftelse som attesteres av rederiet eller den rederiet bemyndiger. Fartstidsbekreftelsen skal oppbevares av rederiet så lenge den kan ha betydning for sjøfolkenes opparbeidelse eller vedlikehold av sertifikatrettigheter. Sjøfartsbok som er utstedt i henhold til [forskrift 25. november 1988 nr. 940 om kontroll av maritim tjeneste](forskrift/1988-11-25-940), kan brukes til registrering av fartstid så lenge den er gyldig.
 
@@ -212,9 +278,19 @@ Opplæring om bord for førstegangsutstedelse av kompetansesertifikat skal være
 
 (3) Originalt sertifikat skal legges ved dersom søknad om fornyelse av kompetansesertifikat eller ferdighetssertifikat fremmes mer enn seks måneder før sertifikatets utløpsdato.
 
-(4) Alle kompetansesertifikater, unntatt kompetansesertifikat dekksoffiser klasse 6, jf. femte ledd, kan fornyes for sjøfolk som har gyldig helseerklæring for arbeidstakere på skip, har gjennomført godkjent repetisjonskurs i sikkerhetsopplæring, og kan dokumentere vedlikeholdt yrkeskompetanse på en av følgende måter:minst 12 måneders fartstid med gyldig kompetansesertifikat eller utført funksjoner som er likeverdig med slik fartstid i løpet av de siste fem år,minst tre måneders fartstid med gyldig kompetansesertifikat i løpet av de siste seks måneder umiddelbart før fornyelsen,minst tre måneders fartstid i løpet av de siste seks måneder umiddelbart før fornyelsen i overtallig stilling,fullført og bestått godkjent kurs,bestått godkjent sertifikatprøve.
+(4) Alle kompetansesertifikater, unntatt kompetansesertifikat dekksoffiser klasse 6, jf. femte ledd, kan fornyes for sjøfolk som har gyldig helseerklæring for arbeidstakere på skip, har gjennomført godkjent repetisjonskurs i sikkerhetsopplæring, og kan dokumentere vedlikeholdt yrkeskompetanse på en av følgende måter:
 
-(5) Kompetansesertifikat dekksoffiser klasse 6 kan fornyes for sjøfolk som har gyldig helseerklæring for arbeidstakere på skip, har gjennomført godkjent repetisjonskurs i sikkerhetsopplæring for sjøfolk på mindre skip og kan dokumentere vedlikeholdt yrkeskompetanse på en av følgende måterminst 6 måneders fartstid med gyldig kompetansesertifikat på skip med største lengde 8 meter eller mer i løpet av de siste fem årminst en måneds fartstid med gyldig kompetansesertifikat i løpet av de siste seks måneder umiddelbart før fornyelsengjennomført godkjent praktisk prøve.
+1. minst 12 måneders fartstid med gyldig kompetansesertifikat eller utført funksjoner som er likeverdig med slik fartstid i løpet av de siste fem år,
+2. minst tre måneders fartstid med gyldig kompetansesertifikat i løpet av de siste seks måneder umiddelbart før fornyelsen,
+3. minst tre måneders fartstid i løpet av de siste seks måneder umiddelbart før fornyelsen i overtallig stilling,
+4. fullført og bestått godkjent kurs,
+5. bestått godkjent sertifikatprøve.
+
+(5) Kompetansesertifikat dekksoffiser klasse 6 kan fornyes for sjøfolk som har gyldig helseerklæring for arbeidstakere på skip, har gjennomført godkjent repetisjonskurs i sikkerhetsopplæring for sjøfolk på mindre skip og kan dokumentere vedlikeholdt yrkeskompetanse på en av følgende måter
+
+1. minst 6 måneders fartstid med gyldig kompetansesertifikat på skip med største lengde 8 meter eller mer i løpet av de siste fem år
+2. minst en måneds fartstid med gyldig kompetansesertifikat i løpet av de siste seks måneder umiddelbart før fornyelsen
+3. gjennomført godkjent praktisk prøve.
 
 (6) Når ferdighetssertifikat skal fornyes, jf. vedlegg I tabell B-1/2, kreves gyldig helseerklæring for arbeidstakere på skip og gjennomført godkjent repetisjonskurs i sikkerhetsopplæring. Ytterligere vilkår for fornyelse følger av de særlige bestemmelsene om ferdighetssertifikater.
 
@@ -242,7 +318,13 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 23. Felleskrav for kompetansesertifikat dekksoffiser klasse 5 til klasse 1
 
-(1) Kompetansesertifikat for dekksoffiser klasse 5 til klasse 1 kan utstedes til person som er fylt 18 år, og som hardokumentert fartstid og utdanning i henhold til relevant sertifikatklassegyldig helseerklæring for arbeidstakere på skipROC eller høyere sertifikatgrunnleggende og videregående sikkerhetskursopplæring i medisinsk behandling som dekker emnene angitt i vedlegg VI tabell A-VI/4-2.
+(1) Kompetansesertifikat for dekksoffiser klasse 5 til klasse 1 kan utstedes til person som er fylt 18 år, og som har
+
+1. dokumentert fartstid og utdanning i henhold til relevant sertifikatklasse
+2. gyldig helseerklæring for arbeidstakere på skip
+3. ROC eller høyere sertifikat
+4. grunnleggende og videregående sikkerhetskurs
+5. opplæring i medisinsk behandling som dekker emnene angitt i vedlegg VI tabell A-VI/4-2.
 
 (2) Ved førstegangsutstedelse av kompetansesertifikat dekksoffiser skal kompetansen evalueres av assessor. Ved utstedelse av høyere sertifikat skal ny bedømmelse foretas dersom ytterligere utdanning er gjennomført etter førstegangsutstedelsen.
 
@@ -252,23 +334,44 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 23a. Kompetansesertifikat dekksoffiser klasse 6
 
-(1) Kompetansesertifikat dekksoffiser klasse 6 gir rett til å tjenestegjøre på skip med bruttotonnasje under 500 i fartsområde liten kystfart, unntatt passasjerskip og fiskefartøy, somansvarshavende vaktoffiser på skip med lengde (L) under 24 meterdekkssjef på skip med lengde (L) under 24 meterskipsfører på skip med største lengde under 15 meter.
+(1) Kompetansesertifikat dekksoffiser klasse 6 gir rett til å tjenestegjøre på skip med bruttotonnasje under 500 i fartsområde liten kystfart, unntatt passasjerskip og fiskefartøy, som
+
+1. ansvarshavende vaktoffiser på skip med lengde (L) under 24 meter
+2. dekkssjef på skip med lengde (L) under 24 meter
+3. skipsfører på skip med største lengde under 15 meter.
 
 (2) Innehaver av kompetansesertifikat dekksoffiser klasse 6 som er fylt 20 år og har minst 12 måneders fartstid på skip med største lengde 8 meter eller mer som ansvarshavende vaktoffiser kan tjenestegjøre som skipsfører på skip med lengde (L) under 24 meter i fartsområde liten kystfart.
 
-(3) Kompetansesertifikat dekksoffiser klasse 6 kan utstedes til den som er fylt 18 år, og som harbestått eksamen som dekker læreplanen for kompetansesertifikat for dekksoffiser klasse 6gyldig helseerklæring for arbeidstakere på skipminst Short Range Certificate (SRC)minst godkjent sikkerhetsopplæringskurs for sjøfolk på mindre skipett av følgende alternativer:gjennomført godkjent praktisk prøve12 måneders fartstid på skip med største lengde 8 meter eller mer.
+(3) Kompetansesertifikat dekksoffiser klasse 6 kan utstedes til den som er fylt 18 år, og som har
 
-(4) Kompetansesertifikat dekksoffiser klasse 6 kan utstedes til den somer eller har vært innehaver av minst kompetansesertifikat klasse 5 og som oppfyller kravene i tredje ledd bokstavene b til d.
+1. bestått eksamen som dekker læreplanen for kompetansesertifikat for dekksoffiser klasse 6
+2. gyldig helseerklæring for arbeidstakere på skip
+3. minst Short Range Certificate (SRC)
+4. minst godkjent sikkerhetsopplæringskurs for sjøfolk på mindre skip
+5. ett av følgende alternativer:
+
+   1. gjennomført godkjent praktisk prøve
+   2. 12 måneders fartstid på skip med største lengde 8 meter eller mer.
+
+(4) Kompetansesertifikat dekksoffiser klasse 6 kan utstedes til den som
+
+1. er eller har vært innehaver av minst kompetansesertifikat klasse 5 og som oppfyller kravene i tredje ledd bokstavene b til d.
 
 > Tilføyd ved [forskrift 23 juni 2020 nr. 1351](forskrift/2020-06-23-1351) (i kraft 1 juli 2020), endret ved forskrifter [14 feb 2024 nr. 280](forskrift/2024-02-14-280), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### § 24. Kompetansesertifikat dekksoffiser klasse 5
 
-(1) Kompetansesertifikat dekksoffiser klasse 5 gir rett til å tjenestegjøre på skip med bruttotonnasje under 500 i Nord- og Østersjøfart somansvarshavende vaktoffiser,dekkssjef.
+(1) Kompetansesertifikat dekksoffiser klasse 5 gir rett til å tjenestegjøre på skip med bruttotonnasje under 500 i Nord- og Østersjøfart som
+
+1. ansvarshavende vaktoffiser,
+2. dekkssjef.
 
 (2) Innehaver av kompetansesertifikat dekksoffiser klasse 5 som er fylt 20 år og har minst 12 måneders fartstid som ansvarshavende vaktoffiser kan tjenestegjøre som skipsfører på skip med bruttotonnasje under 500 i Nord- og Østersjøfart.
 
-(3) For å få kompetansesertifikat dekksoffiser klasse 5 kreves i tillegg til kravene i [§ 23](forskrift/2011-12-22-1523/§23), fullført utdanning og bestått eksamen som dekker områdene i vedlegg III tabell A-II/3 og følgende alternative fartstidminst 36 måneders fartstid på sjøgående skip med største lengde 15 meter eller mer, hvor minst seks måneder inkluderer brovakttjeneste som dekker områdene i vedlegg III tabell A-II/4 under tilsyn av kvalifisert offiser, og hvor minst en måned er opptjent etter utstedt vitnemål,minst 12 måneders fartstid eller minst seks måneders fartstid med fagbrev som matros eller fisker. Fartstiden må inngå i godkjent opplæringsprogram på sjøgående skip med største lengde 15 meter eller mer, inkludert opplæring i brovakttjeneste som dekker områdene i [vedlegg III tabell A-II/1](forskrift/2011-12-22-1523/KAPITTEL_14-1). Opplæring etter dette alternativet skal dokumenteres i godkjent kadettbok. Utdanning som dekker områdene i vedlegg III tabell A-II/3 skal være fullført og bestått før fartstid etter dette alternativet kan opptjenes.
+(3) For å få kompetansesertifikat dekksoffiser klasse 5 kreves i tillegg til kravene i [§ 23](forskrift/2011-12-22-1523/§23), fullført utdanning og bestått eksamen som dekker områdene i vedlegg III tabell A-II/3 og følgende alternative fartstid
+
+1. minst 36 måneders fartstid på sjøgående skip med største lengde 15 meter eller mer, hvor minst seks måneder inkluderer brovakttjeneste som dekker områdene i vedlegg III tabell A-II/4 under tilsyn av kvalifisert offiser, og hvor minst en måned er opptjent etter utstedt vitnemål,
+2. minst 12 måneders fartstid eller minst seks måneders fartstid med fagbrev som matros eller fisker. Fartstiden må inngå i godkjent opplæringsprogram på sjøgående skip med største lengde 15 meter eller mer, inkludert opplæring i brovakttjeneste som dekker områdene i [vedlegg III tabell A-II/1](forskrift/2011-12-22-1523/KAPITTEL_14-1). Opplæring etter dette alternativet skal dokumenteres i godkjent kadettbok. Utdanning som dekker områdene i vedlegg III tabell A-II/3 skal være fullført og bestått før fartstid etter dette alternativet kan opptjenes.
 
 (4) Utdanning og opplæring for å få kompetansesertifikat dekksoffiser klasse 5 skal være basert på prinsippene for brovakt.
 
@@ -276,7 +379,10 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 25. Kompetansesertifikat dekksoffiser klasse 4
 
-(1) Kompetansesertifikat dekksoffiser klasse 4 gir rett til å tjenestegjøre somansvarshavende vaktoffiser uansett skipsstørrelse og fartsområde,dekkssjef på skip med bruttotonnasje under 500 i Nord- og Østersjøfart.
+(1) Kompetansesertifikat dekksoffiser klasse 4 gir rett til å tjenestegjøre som
+
+1. ansvarshavende vaktoffiser uansett skipsstørrelse og fartsområde,
+2. dekkssjef på skip med bruttotonnasje under 500 i Nord- og Østersjøfart.
 
 (2) Innehaver av kompetansesertifikat dekksoffiser klasse 4 som er fylt 20 år og har minst 12 måneders fartstid som ansvarshavende vaktoffiser kan tjenestegjøre som skipsfører på skip med bruttotonnasje under 500 i Nord- og Østersjøfart.
 
@@ -286,7 +392,10 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 26. Kompetansesertifikat dekksoffiser klasse 3
 
-(1) Kompetansesertifikat dekksoffiser klasse 3 gir rett til å tjenestegjøre somansvarshavende vaktoffiser på skip uavhengig av bruttotonnasje og fartsområde,dekkssjef på skip med bruttotonnasje opp til 3000 i ubegrenset fartsområde.
+(1) Kompetansesertifikat dekksoffiser klasse 3 gir rett til å tjenestegjøre som
+
+1. ansvarshavende vaktoffiser på skip uavhengig av bruttotonnasje og fartsområde,
+2. dekkssjef på skip med bruttotonnasje opp til 3000 i ubegrenset fartsområde.
 
 (2) Innehaver av kompetansesertifikat klasse 3 som er fylt 20 år, og i tillegg har minst 12 måneders fartstid som ansvarshavende vaktoffiser, kan tjenestegjøre som skipsfører på skip med bruttotonnasje under 500 i Nord- og Østersjøfart.
 
@@ -298,7 +407,11 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 27. Kompetansesertifikat dekksoffiser klasse 2
 
-(1) Kompetansesertifikat dekksoffiser klasse 2 gir rett til å tjenestegjøre somansvarshavende vaktoffiser på skip uavhengig av bruttotonnasje og fartsområde,dekkssjef på skip uavhengig av bruttotonnasje og fartsområde,skipsfører på skip med bruttotonnasje opp til 500 i Nord- og Østersjøfart.
+(1) Kompetansesertifikat dekksoffiser klasse 2 gir rett til å tjenestegjøre som
+
+1. ansvarshavende vaktoffiser på skip uavhengig av bruttotonnasje og fartsområde,
+2. dekkssjef på skip uavhengig av bruttotonnasje og fartsområde,
+3. skipsfører på skip med bruttotonnasje opp til 500 i Nord- og Østersjøfart.
 
 (2) Innehaver av kompetansesertifikat dekksoffiser klasse 2 som har minst 36 måneders fartstid som ansvarshavende vaktoffiser på sjøgående skip med bruttotonnasje 500 eller mer, kan tjenestegjøre som skipsfører på skip med bruttotonnasje opp til 3000. Denne fartstiden reduseres til 24 måneder dersom minst 12 måneder opptjenes som dekkssjef på skip med bruttotonnasje 500 eller mer.
 
@@ -308,7 +421,11 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 28. Kompetansesertifikat dekksoffiser klasse 1
 
-(1) Kompetansesertifikat dekksoffiser klasse 1 gir rett til å tjenestegjøre på skip uavhengig av bruttotonnasje og fartsområde somansvarshavende vaktoffiser,dekkssjef,skipsfører.
+(1) Kompetansesertifikat dekksoffiser klasse 1 gir rett til å tjenestegjøre på skip uavhengig av bruttotonnasje og fartsområde som
+
+1. ansvarshavende vaktoffiser,
+2. dekkssjef,
+3. skipsfører.
 
 (2) For å få utstedt kompetansesertifikat dekksoffiser klasse 1 kreves i tillegg til kravene i [§ 23](forskrift/2011-12-22-1523/§23), [§ 24](forskrift/2011-12-22-1523/§24), [§ 25](forskrift/2011-12-22-1523/§25), [§ 26](forskrift/2011-12-22-1523/§26) og [§ 27](forskrift/2011-12-22-1523/§27), minst 36 måneders fartstid som ansvarshavende vaktoffiser på sjøgående skip med bruttotonnasje over 500. Denne fartstiden reduseres til 24 måneder dersom minst 12 måneder opptjenes som dekkssjef på skip med bruttotonnasje 500 eller mer.
 
@@ -322,7 +439,11 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 (2) For fører av fritidsbåt som kan oppnå hastighet på 50 knop eller mer gjelder fra 1. juni 2023, i tillegg krav til høyhastighetsbevis i henhold til [forskrift 3. mars 2009 nr. 259 om krav til minstealder og båtførerbevis mv. for fører av fritidsbåt kapittel IV A](forskrift/2009-03-03-259/KAPITTEL_5).
 
-(3) Fritidsskippersertifikat kan utstedes til den som er fylt 18 år og harbestått eksamen som dekker vedlegg III tabell A-II/3, fritidsskippereksamen avlagt hos kursarrangør godkjent av Sjøfartsdirektoratet eller har vært innehaver av et dekksoffisersertifikat utstedt etter STCW-konvensjonen,minst 12 måneders fartstid som nevnt i [§ 24](forskrift/2011-12-22-1523/§24), disponert og regelmessig brukt et fartøy med største lengde større enn åtte meter i minst tre år eller bestått praktisk utsjekk ved godkjent skole,har erklæring fra lege om tilfredsstillende syn, hørsel og fargesyn etter [§ 30](forskrift/2011-12-22-1523/§30).
+(3) Fritidsskippersertifikat kan utstedes til den som er fylt 18 år og har
+
+1. bestått eksamen som dekker vedlegg III tabell A-II/3, fritidsskippereksamen avlagt hos kursarrangør godkjent av Sjøfartsdirektoratet eller har vært innehaver av et dekksoffisersertifikat utstedt etter STCW-konvensjonen,
+2. minst 12 måneders fartstid som nevnt i [§ 24](forskrift/2011-12-22-1523/§24), disponert og regelmessig brukt et fartøy med største lengde større enn åtte meter i minst tre år eller bestått praktisk utsjekk ved godkjent skole,
+3. har erklæring fra lege om tilfredsstillende syn, hørsel og fargesyn etter [§ 30](forskrift/2011-12-22-1523/§30).
 
 (4) Ved sykdom eller annen helsesvikt kan fritidsskippersertifikat nektes utstedt etter en konkret vurdering i det enkelte tilfelle dersom helsetilstanden medfører økt risiko for egen eller andres sikkerhet.
 
@@ -344,7 +465,10 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 31. Fiskeskippersertifikat klasse C
 
-(1) Fiskeskippersertifikat klasse C gir rett til å tjenestegjøre somansvarshavende vaktoffiser på fiskefartøy bruttotonnasje under 50 og største lengde mellom 10,67 og 24 meter i fartsområdet bankfiske I,skipsfører på fiskefartøy med største lengde mellom 10,67 og 15 meter i fartsområdet bankfiske I.
+(1) Fiskeskippersertifikat klasse C gir rett til å tjenestegjøre som
+
+1. ansvarshavende vaktoffiser på fiskefartøy bruttotonnasje under 50 og største lengde mellom 10,67 og 24 meter i fartsområdet bankfiske I,
+2. skipsfører på fiskefartøy med største lengde mellom 10,67 og 15 meter i fartsområdet bankfiske I.
 
 (2) Fiskeskippersertifikat klasse C kan utstedes til den som er fylt 18 år, har erklæring fra lege om tilfredsstillende syn, fargesans og hørsel etter [§ 30](forskrift/2011-12-22-1523/§30), har bestått eksamen som dekker [vedlegg III](forskrift/2011-12-22-1523/vedleggIII) tabell A-II/3 eller godkjent fritidsskippereksamen, har gyldig Short Range Certificate (SRC), har gyldig sikkerhetsopplæring for fiskere og har minst 12 måneders fartstid på fiskefartøy med største lengde 10,67 meter eller mer.
 
@@ -352,9 +476,18 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 32. Kompetansesertifikat fiskeskipper klasse A
 
-(1) Kompetansesertifikat fiskeskipper klasse A gir rett til å tjenestegjøre på fiskefartøy uavhengig av bruttotonnasje og fartsområde somansvarshavende vaktoffiserdekkssjefskipsfører.
+(1) Kompetansesertifikat fiskeskipper klasse A gir rett til å tjenestegjøre på fiskefartøy uavhengig av bruttotonnasje og fartsområde som
 
-(2) Kompetansesertifikat fiskeskipper klasse A kan utstedes til den som i tillegg til dokumentert fartstid og utdanning etter tredje ledd er fylt 19 år og harhelseerklæring for arbeidstakere på skipROC eller høyere sertifikatgrunnleggende og videregående sikkerhetskursopplæring i medisinsk behandling som dekker emnene angitt i vedlegg VI tabell A-VI/4-2.
+1. ansvarshavende vaktoffiser
+2. dekkssjef
+3. skipsfører.
+
+(2) Kompetansesertifikat fiskeskipper klasse A kan utstedes til den som i tillegg til dokumentert fartstid og utdanning etter tredje ledd er fylt 19 år og har
+
+1. helseerklæring for arbeidstakere på skip
+2. ROC eller høyere sertifikat
+3. grunnleggende og videregående sikkerhetskurs
+4. opplæring i medisinsk behandling som dekker emnene angitt i vedlegg VI tabell A-VI/4-2.
 
 (3) For å få utstedt kompetansesertifikat fiskeskipper klasse A kreves i tillegg til vilkårene i annet ledd fullført utdanning og bestått eksamen som dekker emnene i vedlegg III tabell A-II/2, og minst 12 måneders fartstid som ansvarshavende vaktoffiser på fiskefartøy med bruttotonnasje 500 eller mer.
 
@@ -362,9 +495,18 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 32a. Kompetansesertifikat fiskeskipper klasse AB
 
-(1) Kompetansesertifikat fiskeskipper klasse AB gir rett til å tjenestegjøre i ubegrenset fartsområde somansvarshavende vaktoffiser på fiskefartøy uavhengig av størrelsedekkssjef på fiskefartøy uavhengig av størrelseskipsfører på fiskefartøy med bruttotonnasje opp til 3000.
+(1) Kompetansesertifikat fiskeskipper klasse AB gir rett til å tjenestegjøre i ubegrenset fartsområde som
 
-(2) Kompetansesertifikat fiskeskipper klasse AB kan utstedes til den som i tillegg til dokumentert fartstid og utdanning etter tredje ledd er fylt 19 år og harhelseerklæring for arbeidstakere på skipROC eller høyere sertifikatgrunnleggende og videregående sikkerhetskursopplæring i medisinsk behandling som dekker emnene angitt i vedlegg VI tabell A-VI/4-2.
+1. ansvarshavende vaktoffiser på fiskefartøy uavhengig av størrelse
+2. dekkssjef på fiskefartøy uavhengig av størrelse
+3. skipsfører på fiskefartøy med bruttotonnasje opp til 3000.
+
+(2) Kompetansesertifikat fiskeskipper klasse AB kan utstedes til den som i tillegg til dokumentert fartstid og utdanning etter tredje ledd er fylt 19 år og har
+
+1. helseerklæring for arbeidstakere på skip
+2. ROC eller høyere sertifikat
+3. grunnleggende og videregående sikkerhetskurs
+4. opplæring i medisinsk behandling som dekker emnene angitt i vedlegg VI tabell A-VI/4-2.
 
 (3) For å få utstedt kompetansesertifikat fiskeskipper klasse AB kreves i tillegg til vilkårene i annet ledd fullført utdanning og bestått eksamen som dekker emnene i vedlegg III tabell A-II/1, og minst 24 måneders fartstid på sjøgående skip med største lengde 15 meter eller mer, hvorav minst seks måneders fartstid på fiskefartøy med største lengde 15 meter eller mer.
 
@@ -372,9 +514,18 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 32b. Kompetansesertifikat fiskeskipper klasse B
 
-(1) Kompetansesertifikat fiskeskipper klasse B gir rett til å tjenestegjøre på fiskefartøy med bruttotonnasje under 500 i fartsområde bankfiske II og Nord- og Østersjøfart somansvarshavende vaktoffiserdekkssjefskipsfører.
+(1) Kompetansesertifikat fiskeskipper klasse B gir rett til å tjenestegjøre på fiskefartøy med bruttotonnasje under 500 i fartsområde bankfiske II og Nord- og Østersjøfart som
 
-(2) Kompetansesertifikat fiskeskipper klasse B kan utstedes til den som i tillegg til dokumentert fartstid og utdanning etter tredje ledd er fylt 18 år og harhelseerklæring for arbeidstakere på skipROC eller høyere sertifikatgrunnleggende og videregående sikkerhetskursopplæring i medisinsk behandling som dekker emnene angitt i vedlegg VI tabell A-VI/4-2.
+1. ansvarshavende vaktoffiser
+2. dekkssjef
+3. skipsfører.
+
+(2) Kompetansesertifikat fiskeskipper klasse B kan utstedes til den som i tillegg til dokumentert fartstid og utdanning etter tredje ledd er fylt 18 år og har
+
+1. helseerklæring for arbeidstakere på skip
+2. ROC eller høyere sertifikat
+3. grunnleggende og videregående sikkerhetskurs
+4. opplæring i medisinsk behandling som dekker emnene angitt i vedlegg VI tabell A-VI/4-2.
 
 (3) For å få utstedt kompetansesertifikat fiskeskipper klasse B kreves i tillegg til vilkårene i annet ledd fullført utdanning og bestått eksamen som dekker emnene i vedlegg III tabell A-II/3, og minst 24 måneders fartstid på sjøgående skip med største lengde 15 meter eller mer, hvorav minst seks måneders fartstid på fiskefartøy med største lengde 15 meter eller mer.
 
@@ -420,7 +571,11 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 37. Felleskrav for kompetansesertifikat maskinoffiser og elektrikeroffiser
 
-(1) Kompetansesertifikat maskinoffiser og kompetansesertifikat skipselektrikeroffiser kan utstedes til person er fylt 18 år og som hardokumentert fartstid og utdanning i henhold til relevant sertifikatklasse,gyldig helseerklæring for arbeidstakere på skip,gyldig grunnleggende og videregående sikkerhetskurs.
+(1) Kompetansesertifikat maskinoffiser og kompetansesertifikat skipselektrikeroffiser kan utstedes til person er fylt 18 år og som har
+
+1. dokumentert fartstid og utdanning i henhold til relevant sertifikatklasse,
+2. gyldig helseerklæring for arbeidstakere på skip,
+3. gyldig grunnleggende og videregående sikkerhetskurs.
 
 (2) Ved førstegangsutstedelse av kompetansesertifikat maskinoffiser og elektrikeroffiser skal kompetansen evalueres av assessor. Ved utstedelse av høyere sertifikat skal ny evaluering foretas dersom ytterligere utdanning er gjennomført etter førstegangsutstedelsen.
 
@@ -430,11 +585,19 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 38. Kompetansesertifikat maskinoffiser klasse 4
 
-(1) Kompetansesertifikat maskinoffiser klasse 4 gir rett til å tjenestegjøre i maskinrom somansvarshavende vaktoffiser uavhengig av størrelse på framdriftskraft,førstemaskinist på skip med framdriftskraft opp til 750 kW og fiskefartøy uavhengig av størrelse på framdriftskraft,maskinsjef på skip med framdriftskraft opp til 750 kW og fiskefartøy med framdriftskraft opp til 1000 kW.
+(1) Kompetansesertifikat maskinoffiser klasse 4 gir rett til å tjenestegjøre i maskinrom som
+
+1. ansvarshavende vaktoffiser uavhengig av størrelse på framdriftskraft,
+2. førstemaskinist på skip med framdriftskraft opp til 750 kW og fiskefartøy uavhengig av størrelse på framdriftskraft,
+3. maskinsjef på skip med framdriftskraft opp til 750 kW og fiskefartøy med framdriftskraft opp til 1000 kW.
 
 (2) Innehaver av kompetansesertifikat maskinoffiser klasse 4 som har minst 6 måneders relevant fartstid opptjent etter at sertifikatet er utstedt, kan tjenestegjøre som maskinsjef på fiskefartøy og ikke-sjøgående skip med framdriftskraft opp til 1500 kW dersom utdanning for høyere kompetansesertifikat maskinoffiser er gjennomført og rederiet foretar dokumentert utsjekk på det aktuelle fartøyet.
 
-(3) For å få kompetansesertifikat maskinoffiser klasse 4 kreves i tillegg til kravene i [§ 37](forskrift/2011-12-22-1523/§37) fullført utdanning og bestått eksamen som dekker områdene i vedlegg IV tabell A-III/1,og følgende alternative fartstidminst 36 måneders kombinert verkstedsopplæring og fartstid, hvor minst 30 måneder skal være opptjent i maskinavdeling inkludert minst seks måneder maskinvakttjeneste som dekker områdene i vedlegg IV tabell A-III/4 under tilsyn av kvalifisert offiser, og minst en måned er opptjent etter utstedt vitnemål,minst 12 måneders kombinert verkstedsopplæring og fartstid,minst seks måneders fartstid med fagbrev som skipsmotormekaniker.
+(3) For å få kompetansesertifikat maskinoffiser klasse 4 kreves i tillegg til kravene i [§ 37](forskrift/2011-12-22-1523/§37) fullført utdanning og bestått eksamen som dekker områdene i vedlegg IV tabell A-III/1,og følgende alternative fartstid
+
+1. minst 36 måneders kombinert verkstedsopplæring og fartstid, hvor minst 30 måneder skal være opptjent i maskinavdeling inkludert minst seks måneder maskinvakttjeneste som dekker områdene i vedlegg IV tabell A-III/4 under tilsyn av kvalifisert offiser, og minst en måned er opptjent etter utstedt vitnemål,
+2. minst 12 måneders kombinert verkstedsopplæring og fartstid,
+3. minst seks måneders fartstid med fagbrev som skipsmotormekaniker.
 
 (4) Fartstid etter tredje ledd bokstav b og c må inngå i godkjent opplæringsprogram med opplæring om bord, inkludert opplæring i maskinvakttjeneste som dekker områdene i [vedlegg IV tabell A-III/1](forskrift/2011-12-22-1523/KAPITTEL_15-1). Opplæring etter tredje ledd bokstav b og c skal dokumenteres i godkjent kadettbok. Før fartstid etter tredje ledd bokstav b og c kan opptjenes, skal utdanning som dekker områdene i vedlegg IV tabell A-III/1 skal være fullført og bestått.
 
@@ -442,7 +605,11 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 39. Kompetansesertifikat maskinoffiser klasse 3
 
-(1) Kompetansesertifikat maskinoffiser klasse 3 gir adgang til å tjenestegjøre i maskinrom somansvarshavende vaktoffiser uavhengig av framdriftskraft,førstemaskinist på skip med framdriftskraft opp til 3000 kW og fiskefartøy uavhengig av størrelse på framdriftskraftmaskinsjef på skip med framdriftskraft opp til 750 kW og fiskefartøy med framdriftskraft opp til 3000 kW.
+(1) Kompetansesertifikat maskinoffiser klasse 3 gir adgang til å tjenestegjøre i maskinrom som
+
+1. ansvarshavende vaktoffiser uavhengig av framdriftskraft,
+2. førstemaskinist på skip med framdriftskraft opp til 3000 kW og fiskefartøy uavhengig av størrelse på framdriftskraft
+3. maskinsjef på skip med framdriftskraft opp til 750 kW og fiskefartøy med framdriftskraft opp til 3000 kW.
 
 (2) Innehaver av kompetansesertifikat maskinoffiser klasse 3 som har minst 24 måneders fartstid som maskinoffiser kan tjenestegjøre som maskinsjef på skip med framdriftskraft opp til 3000 kW.
 
@@ -452,7 +619,11 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 40. Kompetansesertifikat maskinoffiser klasse 2
 
-(1) Kompetansesertifikat maskinoffiser klasse 2 gir adgang til å tjenestegjøre i maskinrom somansvarshavende vaktoffiser uavhengig av framdriftskraft,førstemaskinist uavhengig av framdriftskraft,maskinsjef på skip med framdriftskraft opp til 750 kW og fiskefartøy med framdriftskraft opp til 3000 kW.
+(1) Kompetansesertifikat maskinoffiser klasse 2 gir adgang til å tjenestegjøre i maskinrom som
+
+1. ansvarshavende vaktoffiser uavhengig av framdriftskraft,
+2. førstemaskinist uavhengig av framdriftskraft,
+3. maskinsjef på skip med framdriftskraft opp til 750 kW og fiskefartøy med framdriftskraft opp til 3000 kW.
 
 (2) Innehaver av kompetansesertifikat maskinoffiser klasse 2 som har 24 måneders fartstid som maskinoffiser kan tjenestegjøre som maskinsjef på skip med framdriftskraft opp til 3000 kW og på fiskefartøy uavhengig av framdriftskraft.
 
@@ -462,7 +633,11 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 ### § 41. Kompetansesertifikat maskinoffiser klasse 1
 
-(1) Kompetansesertifikat maskinoffiser klasse 1 gir rett til å tjenestegjøre i maskinrom på skip og fiskefartøy uavhengig av framdriftskraft somansvarshavende vaktoffiser,førstemaskinist,maskinsjef.
+(1) Kompetansesertifikat maskinoffiser klasse 1 gir rett til å tjenestegjøre i maskinrom på skip og fiskefartøy uavhengig av framdriftskraft som
+
+1. ansvarshavende vaktoffiser,
+2. førstemaskinist,
+3. maskinsjef.
 
 (2) For å få utstedt kompetansesertifikat maskinoffiser klasse 1 kreves i tillegg til kravene i [§ 37](forskrift/2011-12-22-1523/§37) og [§ 38](forskrift/2011-12-22-1523/§38) fullført og bestått eksamen som dekker områdene i vedlegg IV tabell A-III/2 og minst 36 måneders fartstid som maskinoffiser. Dette kan reduseres til 24 måneder dersom vedkommende har tjenestegjort i sertifikatpliktig stilling som førstemaskinist i minst 12 måneder.
 
@@ -490,7 +665,10 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 (1) Kompetansesertifikat skipselektrikeroffiser gir rett til å tjenestegjøre som elektrikeroffiser på sjøgående skip med framdriftskraft på 750 kW eller mer.
 
-(2) For å få kompetansesertifikat skipselektrikeroffiser kreves i tillegg til [§ 37](forskrift/2011-12-22-1523/§37) fullført utdanning og bestått eksamen som dekker områdene i vedlegg IV tabell A-III/6 og følgende alternative fartstidminst 36 måneders kombinert verkstedsopplæring og fartstid, hvor minst 30 måneder skal være opptjent i maskinavdeling og minst en måned er opptjent etter utstedt vitnemål,minst 12 måneders kombinert verkstedsopplæring og fartstid som del av godkjent opplæringsprogram med opplæring om bord. Opplæring etter dette alternativet skal dokumenteres i godkjent opplæringsbok. Utdanning som dekker områdene i vedlegg IV tabell A-III/7 skal være fullført og bestått før fartstid etter dette alternativet kan opptjenes.
+(2) For å få kompetansesertifikat skipselektrikeroffiser kreves i tillegg til [§ 37](forskrift/2011-12-22-1523/§37) fullført utdanning og bestått eksamen som dekker områdene i vedlegg IV tabell A-III/6 og følgende alternative fartstid
+
+1. minst 36 måneders kombinert verkstedsopplæring og fartstid, hvor minst 30 måneder skal være opptjent i maskinavdeling og minst en måned er opptjent etter utstedt vitnemål,
+2. minst 12 måneders kombinert verkstedsopplæring og fartstid som del av godkjent opplæringsprogram med opplæring om bord. Opplæring etter dette alternativet skal dokumenteres i godkjent opplæringsbok. Utdanning som dekker områdene i vedlegg IV tabell A-III/7 skal være fullført og bestått før fartstid etter dette alternativet kan opptjenes.
 
 (3) Sjøfartsdirektoratet kan i det enkelte tilfelle tillate at tilstrekkelig kvalifisert person kan utføre nærmere angitte funksjoner i vedlegg IV tabell A-III/6.
 
@@ -500,7 +678,11 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 (1) Sjøfolk som skal tjenestegjøre som skipselektriker på sjøgående skip med framdriftskraft 750 kW eller mer skal ha ferdighetssertifikat skipselektriker eller kompetansesertifikat skipselektrikeroffiser.
 
-(2) Ferdighetssertifikat skipselektriker kan utstedes til den er fylt 18 år, har gyldig helseerklæring for arbeidstakere på skip og som har entenminst 12 måneders fartstid som inkluderer opplæring som skipselektriker på skip,fullført godkjent opplæring, herunder minst seks måneders fartstid på skip, ellerkvalifikasjoner som dekker vedlegg IV tabell A-III/7 og minst tre måneders fartstid på skip.
+(2) Ferdighetssertifikat skipselektriker kan utstedes til den er fylt 18 år, har gyldig helseerklæring for arbeidstakere på skip og som har enten
+
+1. minst 12 måneders fartstid som inkluderer opplæring som skipselektriker på skip,
+2. fullført godkjent opplæring, herunder minst seks måneders fartstid på skip, eller
+3. kvalifikasjoner som dekker vedlegg IV tabell A-III/7 og minst tre måneders fartstid på skip.
 
 (3) Sjøfartsdirektoratet kan i det enkelte tilfelle tillate at tilstrekkelig kvalifisert person kan utføre nærmere angitte funksjoner i vedlegg IV tabell A-III/7.
 
@@ -516,7 +698,11 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 (2) Kompetansesertifikat ROC og kompetansesertifikat GOC kan utstedes til person som har fylt 18 år, og som har fullført utdanning og bestått eksamen som dekker områdene i vedlegg XI tabell A-IV/2.
 
-(3) Innehaver av SRC (Short Range Certificate) kan tjenestegjøre som radiooperatør i radiodekningsområde A1 pålasteskip med lengde (L) under 24 meter i fartsområde liten kystfartfartøy som følger forskrift om fartøy under 24 meter som fører 12 eller færre passasjererfiskefartøy med største lengde under 15 meter.
+(3) Innehaver av SRC (Short Range Certificate) kan tjenestegjøre som radiooperatør i radiodekningsområde A1 på
+
+1. lasteskip med lengde (L) under 24 meter i fartsområde liten kystfart
+2. fartøy som følger forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
+3. fiskefartøy med største lengde under 15 meter.
 
 > Endret ved [forskrifter 11 juli 2014 nr. 974](forskrift/2014-07-11-974) (i kraft 15 juli 2014), [23 juni 2020 nr. 1351](forskrift/2020-06-23-1351) (i kraft 1 juli 2020).
 
@@ -528,7 +714,21 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 (3) Kompetansen nevnt i annet ledd demonstreres på den måten som framgår av vedlegg II tabell A-VI/2-1 kolonne 3 av ferdighetene til å påta seg oppgaver og plikter som følger av kolonne 1 etter kriteriene for bedømmelse i kolonne 4.
 
-(4) Ferdigheter på følgende områder angitt i vedlegg II tabell A-VI/2-1 kan vedlikeholdes om bord:ta ansvar for redningsfarkosten eller mob-båten ved og etter låring,forstå merking av redningsfarkost og mob-båt med hensyn til maksimalt antall personer,gi korrekte kommandoer for låring og bording av redningsfarkosten og mob-båten, gå klar av skipet og gå fra borde,forberede og sikkert låre redningsfarkosten og mob-båten raskt klar av skipssiden,sikkert berge redningsfarkost og mob-båt.håndtere overlevende, redningsfarkost og mob-båt etter å ha forlatt skipet,ro og styre redningsfarkosten og mob-båten, og styre etter kompass,bruke hvert enkelt utstyr i redningsfarkosten og mob-båten, unntatt pyroteknisk utstyr,sette opp utstyr for lette lokalisering.bruk av lokaliseringsutstyr, herunder kommunikasjons- og signalutstyr, og bærbart radioutstyr,førstehjelp til overlevende.
+(4) Ferdigheter på følgende områder angitt i vedlegg II tabell A-VI/2-1 kan vedlikeholdes om bord:
+
+1. ta ansvar for redningsfarkosten eller mob-båten ved og etter låring,
+
+   1. forstå merking av redningsfarkost og mob-båt med hensyn til maksimalt antall personer,
+   2. gi korrekte kommandoer for låring og bording av redningsfarkosten og mob-båten, gå klar av skipet og gå fra borde,
+   3. forberede og sikkert låre redningsfarkosten og mob-båten raskt klar av skipssiden,
+   4. sikkert berge redningsfarkost og mob-båt.
+2. håndtere overlevende, redningsfarkost og mob-båt etter å ha forlatt skipet,
+
+   1. ro og styre redningsfarkosten og mob-båten, og styre etter kompass,
+   2. bruke hvert enkelt utstyr i redningsfarkosten og mob-båten, unntatt pyroteknisk utstyr,
+   3. sette opp utstyr for lette lokalisering.
+3. bruk av lokaliseringsutstyr, herunder kommunikasjons- og signalutstyr, og bærbart radioutstyr,
+4. førstehjelp til overlevende.
 
 (5) Innehaver av ferdighetssertifikat etter denne bestemmelsen skal minst hvert femte år dokumentere at ferdighetene for å kunne påta seg oppgaver og ansvar som angitt i vedlegg II tabell A-VI/2-1 kolonne 1 er vedlikeholdt. For sjøfolk som har tjenestegjort minst 12 av de siste 60 måneder på skip som har sikkerhetsstyringssystem som ivaretar krav om sikkerhetskompetanse, er godkjent kurs av begrenset omfang tilstrekkelig.
 
@@ -542,7 +742,13 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 (3) Kompetansen nevnt i annet ledd demonstreres på den måten som framgår av vedlegg VI tabell A-VI/2-2 kolonne 3 av ferdighetene til å påta seg oppgaver og plikter som følger av kolonne 1 etter kriteriene for bedømmelse i kolonne 4.
 
-(4) Ferdigheter på følgende områder angitt i vedlegg VI tabell A-VI/2-2 kan vedlikeholdes om bordta kommando over en hurtiggående mob-båt under og etter låring,håndtere en hurtiggående mob-båt under rådende vær- og sjøforhold,bruke kommunikasjons- og signalutstyr mellom den hurtiggående mob-båten og helikopter og skip,bruke nødutstyret som føres om bord i mob-båten,gjennomføre søk under hensyn til miljøfaktorer.
+(4) Ferdigheter på følgende områder angitt i vedlegg VI tabell A-VI/2-2 kan vedlikeholdes om bord
+
+1. ta kommando over en hurtiggående mob-båt under og etter låring,
+2. håndtere en hurtiggående mob-båt under rådende vær- og sjøforhold,
+3. bruke kommunikasjons- og signalutstyr mellom den hurtiggående mob-båten og helikopter og skip,
+4. bruke nødutstyret som føres om bord i mob-båten,
+5. gjennomføre søk under hensyn til miljøfaktorer.
 
 (5) Innehaver av ferdighetssertifikat etter denne bestemmelsen må hvert femte år dokumentere at ferdighetene for å kunne påta seg oppgaver og ansvar som angitt i vedlegg VI tabell A-VI/2-2 kolonne 1 er vedlikeholdt. For sjøfolk som har tjenestegjort minst 12 av de siste 60 måneder på skip som har sikkerhetsstyringssystem som ivaretar krav om sikkerhetskompetanse, er godkjent kurs av begrenset omfang tilstrekkelig.
 
@@ -562,7 +768,12 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 (3) Kompetansen nevnt i annet ledd demonstreres på den måten som framgår av vedlegg VI tabell A-VI/4-2 kolonne 3 av ferdighetene som framgår av kolonne 1 og bedømmelse etter kriteriene som framgår av kolonne 4.
 
-(4) Innehaver av ferdighetssertifikat medisinsk behandling eller kompetansesertifikat dekksoffiser skal minst hvert femte år gjennomgå opplæring som sikrer vedlikehold avgrunnleggende kjennskap til fysiologi, symptomlære og terapi,utvalgte emner i forebyggende medisin, særlig i individuell og kollektiv hygiene og eventuelle forebyggende tiltak,praktisk ferdighet i grunnleggende behandling av syke og i rutiner for medisinsk begrunnet rømning,god kjennskap til framgangsmåtene ved bruk av telemedisin.
+(4) Innehaver av ferdighetssertifikat medisinsk behandling eller kompetansesertifikat dekksoffiser skal minst hvert femte år gjennomgå opplæring som sikrer vedlikehold av
+
+1. grunnleggende kjennskap til fysiologi, symptomlære og terapi,
+2. utvalgte emner i forebyggende medisin, særlig i individuell og kollektiv hygiene og eventuelle forebyggende tiltak,
+3. praktisk ferdighet i grunnleggende behandling av syke og i rutiner for medisinsk begrunnet rømning,
+4. god kjennskap til framgangsmåtene ved bruk av telemedisin.
 
 ### § 51. Krav til brannslukningsleder
 
@@ -572,7 +783,16 @@ Sjøfartsdirektoratet kan tilbakekalle sertifikater, kvalifikasjonsbevis og påt
 
 (3) Kompetanse som nevnt i annet ledd demonstreres på den måten som framgår av vedlegg II tabell A-VI/3 kolonne 3 av ferdighetene som framgår av kolonne 1 og bedømmelse etter kriteriene som framgår av kolonne 4.
 
-(5) Følgende ferdigheter innenfor ledelse av brannslukningsoperasjoner angitt i vedlegg II tabell A-VI/3 kan vedlikeholdes om bordrutiner for brannslukking til havs og i havn med særlig vekt på organisering, taktikk og kommando,kommunikasjon og samordning under brannslukningsoperasjoner,ventilasjonskontroll, herunder avsugsvifte for røyk,kontroll av drivstoff og elektriske anlegg,faremomenter ved brannslukningsprosessen,brannsikring og brannfarer knyttet til lagring og håndtering av materialer,ansvar for og kontroll av skadde personer,rutiner for samordning med brannslukningsmannskaper på land.
+(5) Følgende ferdigheter innenfor ledelse av brannslukningsoperasjoner angitt i vedlegg II tabell A-VI/3 kan vedlikeholdes om bord
+
+1. rutiner for brannslukking til havs og i havn med særlig vekt på organisering, taktikk og kommando,
+2. kommunikasjon og samordning under brannslukningsoperasjoner,
+3. ventilasjonskontroll, herunder avsugsvifte for røyk,
+4. kontroll av drivstoff og elektriske anlegg,
+5. faremomenter ved brannslukningsprosessen,
+6. brannsikring og brannfarer knyttet til lagring og håndtering av materialer,
+7. ansvar for og kontroll av skadde personer,
+8. rutiner for samordning med brannslukningsmannskaper på land.
 
 (6) Innehaver av ferdighetssertifikat etter denne bestemmelsen må hvert femte år dokumentere at ferdighetene for å kunne påta seg oppgaver og ansvar som angitt i vedlegg II tabell A-VI/3 kolonne 1 er vedlikeholdt. For sjøfolk som har tjenestegjort minst 12 av de siste 60 måneder på skip som har sikkerhetsstyringssystem som ivaretar krav om sikkerhetskompetanse, er godkjent kurs av begrenset omfang tilstrekkelig.
 
@@ -598,7 +818,10 @@ I særlige tilfeller kan Sjøfartsdirektoratet tillate at en person tjenestegjø
 
 (1) Sjøfolk som skal ivareta bestemte plikter og ansvarsområder i tilknytning til last eller lasteutstyr på olje- eller kjemikalietankskip skal ha ferdighetssertifikat for gjennomført grunnleggende opplæring i lasteoperasjoner på oljetankskip og kjemikalietankskip.
 
-(2) Ferdighetssertifikat for gjennomført grunnleggende opplæring i lasteoperasjoner på oljetankskip og kjemikalietankskip kan utstedes til den som i tillegg til gjennomført grunnleggende sikkerhetskurs hargjennomført og bestått godkjent kurs som dekker kompetansene i vedlegg VI tabell A-V/1-1-1, ellerhar minst tre måneders fartstid på olje- eller kjemikalietankskip og dokumenterer opplæring som dekker kompetansene i vedlegg VI tabell A-V/1-1-1.
+(2) Ferdighetssertifikat for gjennomført grunnleggende opplæring i lasteoperasjoner på oljetankskip og kjemikalietankskip kan utstedes til den som i tillegg til gjennomført grunnleggende sikkerhetskurs har
+
+1. gjennomført og bestått godkjent kurs som dekker kompetansene i vedlegg VI tabell A-V/1-1-1, eller
+2. har minst tre måneders fartstid på olje- eller kjemikalietankskip og dokumenterer opplæring som dekker kompetansene i vedlegg VI tabell A-V/1-1-1.
 
 (3) Kompetanse som nevnt i annet ledd skal demonstreres på den måten som framgår av vedlegg VI tabell A-V/1-1-1 kolonne 3 av ferdighetene som framgår av kolonne 2 og bedømmelse etter kriteriene i kolonne 4.
 
@@ -630,7 +853,10 @@ I særlige tilfeller kan Sjøfartsdirektoratet tillate at en person tjenestegjø
 
 (1) Sjøfolk som skal ivareta bestemte plikter og ansvarsområder i tilknytning til last eller lasteutstyr på gasstankskip skal ha ferdighetssertifikat for gjennomført grunnleggende opplæring i lasteoperasjoner på gasstankskip.
 
-(2) Ferdighetssertifikat for gjennomført grunnleggende opplæring i lasteoperasjoner på gasstankskip kan utstedes til den som i tillegg til gjennomført grunnleggende sikkerhetskurs hargjennomført og bestått godkjent kurs som dekker kompetansene i vedlegg VI tabell A-V/1-2-1, ellerhar minst tre måneders fartstid på gasstankskip og dokumenterer opplæring som dekker kompetansene i vedlegg VI tabell A-V/1-2-1.
+(2) Ferdighetssertifikat for gjennomført grunnleggende opplæring i lasteoperasjoner på gasstankskip kan utstedes til den som i tillegg til gjennomført grunnleggende sikkerhetskurs har
+
+1. gjennomført og bestått godkjent kurs som dekker kompetansene i vedlegg VI tabell A-V/1-2-1, eller
+2. har minst tre måneders fartstid på gasstankskip og dokumenterer opplæring som dekker kompetansene i vedlegg VI tabell A-V/1-2-1.
 
 (3) Kompetanse som nevnt i annet ledd skal demonstreres på den måten som framgår av vedlegg VI tabell A-V/1-2-1 kolonne 3 av ferdighetene som framgår av kolonne 2 og bedømmelse etter kriteriene i kolonne 4.
 
@@ -660,13 +886,21 @@ I særlige tilfeller kan Sjøfartsdirektoratet tillate at en person tjenestegjø
 
 (1) Skipsfører og dekkssjef på skip med polarskipsertifikat som opererer i andre polare farvann, skal fra og med 1. juli 2018 ha ferdighetssertifikat Polarkoden – videregående.
 
-(2) Ferdighetssertifikat Polarkoden – videregående kan utstedes til den som, i tillegg til å oppfylle kravene for å kunne få utstedt ferdighetssertifikat Polarkoden – grunnleggende, harminst to måneders fartstid som skipsfører, dekkssjef eller ansvarshavende vaktoffiser på bro på skip som opererer i polare farvann, eller tilsvarende fartstid, ogfullført og bestått godkjent videregående opplæring som dekker områdene i vedlegg XII tabell A-V/4-2.
+(2) Ferdighetssertifikat Polarkoden – videregående kan utstedes til den som, i tillegg til å oppfylle kravene for å kunne få utstedt ferdighetssertifikat Polarkoden – grunnleggende, har
+
+1. minst to måneders fartstid som skipsfører, dekkssjef eller ansvarshavende vaktoffiser på bro på skip som opererer i polare farvann, eller tilsvarende fartstid, og
+2. fullført og bestått godkjent videregående opplæring som dekker områdene i vedlegg XII tabell A-V/4-2.
 
 > Tilføyd ved forskrift [26 juni 2018 nr. 1024](forskrift/2018-06-26-1024) (i kraft 1 juli 2018), endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### § 58c. Fornyelse av ferdighetssertifikat Polarkoden – grunnleggende og videregående
 
-Ferdighetssertifikat Polarkoden – grunnleggende og videregående kan fornyes når innehaver på én av følgende måter dokumentererto måneders fartstid med gyldig ferdighetssertifikat i løpet av de siste fem åreneå ha utført tilsvarende funksjoner som nevnt i bokstav abestått godkjent eksamenfullført og bestått godkjent kurs.
+Ferdighetssertifikat Polarkoden – grunnleggende og videregående kan fornyes når innehaver på én av følgende måter dokumenterer
+
+1. to måneders fartstid med gyldig ferdighetssertifikat i løpet av de siste fem årene
+2. å ha utført tilsvarende funksjoner som nevnt i bokstav a
+3. bestått godkjent eksamen
+4. fullført og bestått godkjent kurs.
 
 > Tilføyd ved [forskrift 26 juni 2018 nr. 1024](forskrift/2018-06-26-1024) (i kraft 1 juli 2018).
 
@@ -696,7 +930,10 @@ Skipsfører og dekksoffiser som skal tjenestegjøre på skip som deltar i ankerh
 
 (3) Sjøfolk som nevnt i første ledd skal minst hvert femte år gjennomføre og bestå godkjent oppdateringskurs eller dokumentere 12 måneders fartstid fra passasjerskip i løpet av de siste fem år. Sjøfolk som ikke tjenestegjør på ro-ro passasjerskip, kan begrense vedlikeholdet til kompetanse som er relevant for skipet sjøfolkene tjenestegjør på.
 
-(4) Sjøfolk som yter tjenester direkte til passasjerer i passasjerområder, men som ikke er omfattet av første ledd, skal hagjennomgått sikkerhetsfamiliarisering i nødssituasjoner på passasjerskipdokumentasjon på gjennomført sikkerhetsopplæring i forsvarlig håndtering av passasjerer i nødssituasjoner.
+(4) Sjøfolk som yter tjenester direkte til passasjerer i passasjerområder, men som ikke er omfattet av første ledd, skal ha
+
+1. gjennomgått sikkerhetsfamiliarisering i nødssituasjoner på passasjerskip
+2. dokumentasjon på gjennomført sikkerhetsopplæring i forsvarlig håndtering av passasjerer i nødssituasjoner.
 
 (5) Sjøfolk på passasjerskip, som verken er omfattet av første eller fjerde ledd, skal ha gjennomgått sikkerhetsfamiliarisering i nødssituasjoner på passasjerskip.
 
@@ -704,7 +941,11 @@ Skipsfører og dekksoffiser som skal tjenestegjøre på skip som deltar i ankerh
 
 ### § 61. Krav om sikringsfamiliarisering for sjøfolk på skip og flyttbare innretninger som skal ha sikkerhets- og terrorberedskapsplan
 
-(1) Rederiet skal sørge for at sjøfolk på skip og flyttbare innretninger som skal ha sikkerhets- og terrorberedskapsplan får instruksjon eller opplæring i sikringsforhold for det aktuelle skipet eller innretningen slik at sjøfolkene er i stand til årapportere hendelser, herunder om pirat- eller væpnet angrep, og trussel om slike,kjenne rutinene som skal følges når en sikringstrussel oppdages,ta del i sikringsrelaterte nød- og beredskapsrutiner.
+(1) Rederiet skal sørge for at sjøfolk på skip og flyttbare innretninger som skal ha sikkerhets- og terrorberedskapsplan får instruksjon eller opplæring i sikringsforhold for det aktuelle skipet eller innretningen slik at sjøfolkene er i stand til å
+
+1. rapportere hendelser, herunder om pirat- eller væpnet angrep, og trussel om slike,
+2. kjenne rutinene som skal følges når en sikringstrussel oppdages,
+3. ta del i sikringsrelaterte nød- og beredskapsrutiner.
 
 (2) For sjøfolk som er tildelt særlig ansvar innenfor sikring skal sikringsfamiliariseringen også omfatte pliktene sjøfolkene er tildelt.
 
@@ -788,11 +1029,26 @@ Skipsfører og dekksoffiser som skal tjenestegjøre på skip som deltar i ankerh
 
 ### § 68. Sjøfolk på skip som fører passasjerer på innsjøer og elver
 
-(1) Skipsfører på passasjerskip med lengde (L) under 24 meter som fører passasjerer i tidsrommet 1. mai til 31. oktober på elver og innsjøer, skal hafritidsskippersertifikatgjennomført og bestått begrenset sikkerhetskurs etter [§ 8](forskrift/2011-12-22-1523/§8) tredje leddgjennomført og bestått kurs i passasjer- og krisehåndtering etter [§ 60](forskrift/2011-12-22-1523/§60) første til tredje leddgyldig helseerklæring etter [§ 30](forskrift/2011-12-22-1523/§30).
+(1) Skipsfører på passasjerskip med lengde (L) under 24 meter som fører passasjerer i tidsrommet 1. mai til 31. oktober på elver og innsjøer, skal ha
 
-(2) Sjøfolk på passasjerskip i fart på innsjøer og elver, som ikke er skipsfører, skal harelevante kvalifikasjoner etter [kapittel 6](forskrift/2011-12-22-1523/kap6) og [8](forskrift/2011-12-22-1523/kap8)gjennomført og bestått begrenset sikkerhetskurs etter [§ 8](forskrift/2011-12-22-1523/§8) tredje leddgjennomgått sikkerhetsfamiliarisering og sikkerhetsopplæring som sikrer forsvarlig håndtering av passasjerer i nødssituasjoner etter [§ 60](forskrift/2011-12-22-1523/§60) fjerde leddgyldig helseerklæring etter [§ 30](forskrift/2011-12-22-1523/§30).
+1. fritidsskippersertifikat
+2. gjennomført og bestått begrenset sikkerhetskurs etter [§ 8](forskrift/2011-12-22-1523/§8) tredje ledd
+3. gjennomført og bestått kurs i passasjer- og krisehåndtering etter [§ 60](forskrift/2011-12-22-1523/§60) første til tredje ledd
+4. gyldig helseerklæring etter [§ 30](forskrift/2011-12-22-1523/§30).
 
-(3) Skipsfører på skip uten passasjersertifikat som kan føre 12 eller færre passasjerer i fart på innsjøer og elver i tidsrommet 1. mai til 31. oktober, skal hafritidsskippersertifikatgjennomført og bestått begrenset sikkerhetskurs etter [§ 8](forskrift/2011-12-22-1523/§8) tredje leddgjennomgått sikkerhetsfamiliarisering og sikkerhetsopplæring som sikrer forsvarlig håndtering av passasjerer i nødssituasjoner etter [§ 60](forskrift/2011-12-22-1523/§60) fjerde leddgyldig helseerklæring etter [§ 30](forskrift/2011-12-22-1523/§30).
+(2) Sjøfolk på passasjerskip i fart på innsjøer og elver, som ikke er skipsfører, skal ha
+
+1. relevante kvalifikasjoner etter [kapittel 6](forskrift/2011-12-22-1523/kap6) og [8](forskrift/2011-12-22-1523/kap8)
+2. gjennomført og bestått begrenset sikkerhetskurs etter [§ 8](forskrift/2011-12-22-1523/§8) tredje ledd
+3. gjennomgått sikkerhetsfamiliarisering og sikkerhetsopplæring som sikrer forsvarlig håndtering av passasjerer i nødssituasjoner etter [§ 60](forskrift/2011-12-22-1523/§60) fjerde ledd
+4. gyldig helseerklæring etter [§ 30](forskrift/2011-12-22-1523/§30).
+
+(3) Skipsfører på skip uten passasjersertifikat som kan føre 12 eller færre passasjerer i fart på innsjøer og elver i tidsrommet 1. mai til 31. oktober, skal ha
+
+1. fritidsskippersertifikat
+2. gjennomført og bestått begrenset sikkerhetskurs etter [§ 8](forskrift/2011-12-22-1523/§8) tredje ledd
+3. gjennomgått sikkerhetsfamiliarisering og sikkerhetsopplæring som sikrer forsvarlig håndtering av passasjerer i nødssituasjoner etter [§ 60](forskrift/2011-12-22-1523/§60) fjerde ledd
+4. gyldig helseerklæring etter [§ 30](forskrift/2011-12-22-1523/§30).
 
 (4) Kvalifikasjonsbevis som dokumenterer kompetanse til å være skipsfører på spesifikt fartøy i angitt fartsområde utstedt etter tidligere regler, kan fornyes og erstatte kravet om fritidsskippersertifikat i denne bestemmelsen.
 
@@ -818,11 +1074,20 @@ Skipsfører og dekksoffiser som skal tjenestegjøre på skip som deltar i ankerh
 
 (1) Skipsfører, maskinoffiserer og personell som har direkte ansvar for behandling og bruk av drivstoff og drivstoffsystemene på skip som bruker drivstoff med flammepunkt under 60 °C, skal ikke senere enn 1. juli 2018 inneha ferdighetssertifikat for videregående opplæring for tjeneste på skip som bruker drivstoff med flammepunkt under 60 °C.
 
-(2) Ferdighetssertifikat for videregående opplæring for tjeneste på skip som bruker drivstoff med flammepunkt under 60 °C, kan utstedes til den som i tillegg til å oppfylle kravene for å kunne få ferdighetssertifikat etter [§ 69](forskrift/2011-12-22-1523/§69), harfullført godkjent videregående opplæring som dekker kompetansene i vedlegg IX tabell A-V/3-2,fullført én måned godkjent fartstid som inkluderer tre bunkringsoperasjoner om bord på skip som bruker drivstoff med flammepunkt under 60 °C. To av de tre bunkringsoperasjonene kan erstattes med godkjent simulatortrening, dersom simulatortreningen inngår i opplæringen etter bokstav a i leddet her.
+(2) Ferdighetssertifikat for videregående opplæring for tjeneste på skip som bruker drivstoff med flammepunkt under 60 °C, kan utstedes til den som i tillegg til å oppfylle kravene for å kunne få ferdighetssertifikat etter [§ 69](forskrift/2011-12-22-1523/§69), har
+
+1. fullført godkjent videregående opplæring som dekker kompetansene i vedlegg IX tabell A-V/3-2,
+2. fullført én måned godkjent fartstid som inkluderer tre bunkringsoperasjoner om bord på skip som bruker drivstoff med flammepunkt under 60 °C. To av de tre bunkringsoperasjonene kan erstattes med godkjent simulatortrening, dersom simulatortreningen inngår i opplæringen etter bokstav a i leddet her.
 
 (3) Kompetanse som nevnt i annet ledd, skal demonstreres på den måten som framgår av vedlegg IX tabell A-V/3-2 kolonne 3 av ferdighetene som framgår av kolonne 2 etter kriteriene for bedømmelse i kolonne 4.
 
-(4) Skipsfører, maskinoffiserer og personell som nevnt i første ledd, og som har ferdighetssertifikat etter [§ 58](forskrift/2011-12-22-1523/§58), oppfyller kravene etter første ledd i denne bestemmelsen når de hartre måneder fartstid i løpet av de siste fem årene om bord på skip som bruker drivstoff med flammepunkt under 60 °C, eller på gasstankskip som fører drivstoff med flammepunkt under 60 °C, ellerdeltatt i tre bunkringsoperasjoner om bord på skip som bruker drivstoff med flammepunkt under 60 °C. To av de tre bunkringsoperasjonene kan erstattes medgodkjent simulatortrening som inngår i opplæringen som kreves etter andre ledd bokstav a, ellertre gjennomførte lasteoperasjoner om bord på et gasstankskip.
+(4) Skipsfører, maskinoffiserer og personell som nevnt i første ledd, og som har ferdighetssertifikat etter [§ 58](forskrift/2011-12-22-1523/§58), oppfyller kravene etter første ledd i denne bestemmelsen når de har
+
+1. tre måneder fartstid i løpet av de siste fem årene om bord på skip som bruker drivstoff med flammepunkt under 60 °C, eller på gasstankskip som fører drivstoff med flammepunkt under 60 °C, eller
+2. deltatt i tre bunkringsoperasjoner om bord på skip som bruker drivstoff med flammepunkt under 60 °C. To av de tre bunkringsoperasjonene kan erstattes med
+
+   1. godkjent simulatortrening som inngår i opplæringen som kreves etter andre ledd bokstav a, eller
+   2. tre gjennomførte lasteoperasjoner om bord på et gasstankskip.
 
 (5) (Opphevet)
 
@@ -840,7 +1105,14 @@ Skipsfører og dekksoffiser som skal tjenestegjøre på skip som deltar i ankerh
 
 ### § 71. Kvalifikasjonskrav for visse stillinger på flyttbare innretninger med egen framdrift
 
-(1) På flyttbare innretninger med egen framdrift kreves i tillegg til kravene i [§ 70](forskrift/2011-12-22-1523/§70) atkontrollromsoperatør minst har kompetansesertifikat dekksoffiser klasse 4 eller kompetansesertifikat maskinoffiser klasse 4,stabilitetssjef minst har kompetansesertifikat dekksoffiser klasse 2 og minst ett års praksis som kontrollromsoperatør på flyttbar innretning,plattformsjef har kompetansesertifikat dekksoffiser klasse 1 og minst to års praksis som stabilitetssjef på flyttbar innretning,maskinromsoperatør har kompetansesertifikat maskinoffiser klasse 4,teknisk assistent minst har kompetansesertifikat maskinoffiser klasse 2 og minst ett års praksis som maskinromsoperatør på flyttbar innretning,teknisk sjef har kompetansesertifikat maskinoffisers klasse 1 og minst ett års praksis som teknisk assistent på flyttbar innretning.
+(1) På flyttbare innretninger med egen framdrift kreves i tillegg til kravene i [§ 70](forskrift/2011-12-22-1523/§70) at
+
+1. kontrollromsoperatør minst har kompetansesertifikat dekksoffiser klasse 4 eller kompetansesertifikat maskinoffiser klasse 4,
+2. stabilitetssjef minst har kompetansesertifikat dekksoffiser klasse 2 og minst ett års praksis som kontrollromsoperatør på flyttbar innretning,
+3. plattformsjef har kompetansesertifikat dekksoffiser klasse 1 og minst to års praksis som stabilitetssjef på flyttbar innretning,
+4. maskinromsoperatør har kompetansesertifikat maskinoffiser klasse 4,
+5. teknisk assistent minst har kompetansesertifikat maskinoffiser klasse 2 og minst ett års praksis som maskinromsoperatør på flyttbar innretning,
+6. teknisk sjef har kompetansesertifikat maskinoffisers klasse 1 og minst ett års praksis som teknisk assistent på flyttbar innretning.
 
 (2) Sjøfolk som skal tjenestegjøre som elektriker skal ha kompetansesertifikat skipselektrikeroffiser eller ferdighetssertifikat skipselektriker.
 
@@ -850,7 +1122,14 @@ Skipsfører og dekksoffiser som skal tjenestegjøre på skip som deltar i ankerh
 
 ### § 72. Kvalifikasjonskrav for visse stillinger på flyttbare innretninger uten egen framdrift
 
-På flyttbare innretninger uten egen framdrift kreves i tillegg til [§ 70](forskrift/2011-12-22-1523/§70) atkontrollromsoperatør har minst teoretisk utdanning som for kompetansesertifikat dekksoffiser klasse 4, kompetansesertifikat maskinoffiser klasse 4 eller annen likeverdig teoretisk og praktisk utdanning,stabilitetssjef har teoretisk utdanning som for kompetansesertifikat dekksoffiser klasse 2 eller annen likeverdig teoretisk og praktisk utdanning, og minst to års praksis som kontrollromsoperatør på flyttbar innretning,plattformsjef har teoretisk utdanning som for kompetansesertifikat dekksoffiser klasse 1 og minst to års praksis som stabilitetssjef på flyttbar innretning,maskinromsoperatør har teoretisk utdanning som for kompetansesertifikat maskinoffiser klasse 4 eller annen likeverdig teoretisk og praktisk utdanning,teknisk assistent har teoretisk utdanning som for kompetansesertifikat maskinoffiser klasse 2 eller annen likeverdig teoretisk og praktisk utdanning, og minst ett års praksis som maskinromsoperatør på flyttbar innretning,teknisk sjef har teoretisk utdanning som for kompetansesertifikat maskinoffiser klasse 1 eller annen likeverdig teoretisk og praktisk utdanning, og minst ett års praksis som teknisk assistent på flyttbar innretning.
+På flyttbare innretninger uten egen framdrift kreves i tillegg til [§ 70](forskrift/2011-12-22-1523/§70) at
+
+1. kontrollromsoperatør har minst teoretisk utdanning som for kompetansesertifikat dekksoffiser klasse 4, kompetansesertifikat maskinoffiser klasse 4 eller annen likeverdig teoretisk og praktisk utdanning,
+2. stabilitetssjef har teoretisk utdanning som for kompetansesertifikat dekksoffiser klasse 2 eller annen likeverdig teoretisk og praktisk utdanning, og minst to års praksis som kontrollromsoperatør på flyttbar innretning,
+3. plattformsjef har teoretisk utdanning som for kompetansesertifikat dekksoffiser klasse 1 og minst to års praksis som stabilitetssjef på flyttbar innretning,
+4. maskinromsoperatør har teoretisk utdanning som for kompetansesertifikat maskinoffiser klasse 4 eller annen likeverdig teoretisk og praktisk utdanning,
+5. teknisk assistent har teoretisk utdanning som for kompetansesertifikat maskinoffiser klasse 2 eller annen likeverdig teoretisk og praktisk utdanning, og minst ett års praksis som maskinromsoperatør på flyttbar innretning,
+6. teknisk sjef har teoretisk utdanning som for kompetansesertifikat maskinoffiser klasse 1 eller annen likeverdig teoretisk og praktisk utdanning, og minst ett års praksis som teknisk assistent på flyttbar innretning.
 
 ### § 73. Kvalifikasjonskrav for sykepleier og sjøfolk i brønnseksjon og boreseksjon på flyttbare innretninger med eller uten egen fremdrift
 
@@ -924,7 +1203,11 @@ Innehaver av utenlandsk sertifikat kan få tillatelse av Sjøfartsdirektoratet t
 
 ### § 85. Søknad om påtegning
 
-(1) Søknad om påtegning sendes Sjøfartsdirektoratet etter fastsatt skjema. Søknaden og dokumentasjon skal være på norsk eller engelsk. Søknaden skal inneholdegyldig sertifikat og dokumentasjon på hvilken klasse og grad av STCW-konvensjonen som er oppfylt med eventuelle begrensninger,dokumentasjon på kjennskap til norsk regelverk og nødvendige språkkrav relevant for stillingens ansvarsområde ved erklæring fra rederiet. For skipsfører og for den som søker utenfor ansettelsesforhold dokumenteres kravet ved gjennomført og bestått godkjent kurs,dokumentasjon på ansettelsesforhold eller tilsagn om ansettelse på norsk skip eller skip som er begjært registrert i et norsk skipsregister, dersom sertifikatinnehaveren er fra en stat utenfor EØS-området.
+(1) Søknad om påtegning sendes Sjøfartsdirektoratet etter fastsatt skjema. Søknaden og dokumentasjon skal være på norsk eller engelsk. Søknaden skal inneholde
+
+1. gyldig sertifikat og dokumentasjon på hvilken klasse og grad av STCW-konvensjonen som er oppfylt med eventuelle begrensninger,
+2. dokumentasjon på kjennskap til norsk regelverk og nødvendige språkkrav relevant for stillingens ansvarsområde ved erklæring fra rederiet. For skipsfører og for den som søker utenfor ansettelsesforhold dokumenteres kravet ved gjennomført og bestått godkjent kurs,
+3. dokumentasjon på ansettelsesforhold eller tilsagn om ansettelse på norsk skip eller skip som er begjært registrert i et norsk skipsregister, dersom sertifikatinnehaveren er fra en stat utenfor EØS-området.
 
 (2) Sjøfartsdirektoratet kan kreve framlagt dokumentasjon på utdanning, praksis og fartstid de siste fem år.
 
@@ -972,9 +1255,19 @@ Sjøfartsdirektoratet kan gi tillatelse til at skipsfører, dekkssjef eller ansv
 
 ### § 91. Dispensasjon
 
-(1) Sjøfartsdirektoratet kan unnta fartøy nevnt i annet ledd fra et eller flere av forskriftens krav dersom rederiet søker skriftlig om unntak og ett av følgende krav er oppfyltdet godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarligdet godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+(1) Sjøfartsdirektoratet kan unnta fartøy nevnt i annet ledd fra et eller flere av forskriftens krav dersom rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt
 
-(2) Dispensasjon etter første ledd kan gis tilfiskefartøyflyttbar innretningikke-sjøgående skiplasteskip med største lengde under 15 meter i fartsområde liten kystfartlasteskip med lengde (L) under 24 meter i Nord- og Østersjøfart som inngår fast i Norges redningstjenestefartøy under 24 meter i liten kystfart som brukes i opplæring.
+1. det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig
+2. det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+
+(2) Dispensasjon etter første ledd kan gis til
+
+1. fiskefartøy
+2. flyttbar innretning
+3. ikke-sjøgående skip
+4. lasteskip med største lengde under 15 meter i fartsområde liten kystfart
+5. lasteskip med lengde (L) under 24 meter i Nord- og Østersjøfart som inngår fast i Norges redningstjeneste
+6. fartøy under 24 meter i liten kystfart som brukes i opplæring.
 
 > Endret ved [forskrift 23 juni 2020 nr. 1351](forskrift/2020-06-23-1351) (i kraft 1 juli 2020).
 
@@ -1830,31 +2123,115 @@ Spesifikasjon av minstenormer for kompetanse i opplæring i ledelse av lasteoper
 
 1
 
-Før personell som tjenestegjør om bord på passasjerskip, settes til å utføre plikter om bord, skal samtlige ha tilegnet seg de evnene som kreves for de pliktene og ansvarsoppgavene de skal ha, som følger:*Bidra til gjennomføring av nødplaner, -instrukser og -prosedyrer*kjennskap tilgenerelle sikkerhetsmekanismer om bord på skipet,plassering av viktig sikkerhets- og nødutstyr, herunder redningsredskaper,betydningen av personlig atferd i en nødssituasjon, ogbegrensninger i bruken av heiser i nødssituasjoner.*Bidra til effektiv kommunikasjon med passasjerer i en nødssituasjon*evne til åkommunisere på skipets arbeidsspråk,formidle sikkerhetsinformasjon ikke-verbalt, ogforstå ett av språkene som vil kunne anvendes i høyttalermeldinger i nødssituasjoner eller under øvelser om bord.
+Før personell som tjenestegjør om bord på passasjerskip, settes til å utføre plikter om bord, skal samtlige ha tilegnet seg de evnene som kreves for de pliktene og ansvarsoppgavene de skal ha, som følger:
+
+*Bidra til gjennomføring av nødplaner, -instrukser og -prosedyrer*
+
+1. kjennskap til
+
+   1. generelle sikkerhetsmekanismer om bord på skipet,
+   2. plassering av viktig sikkerhets- og nødutstyr, herunder redningsredskaper,
+   3. betydningen av personlig atferd i en nødssituasjon, og
+   4. begrensninger i bruken av heiser i nødssituasjoner.
+
+*Bidra til effektiv kommunikasjon med passasjerer i en nødssituasjon*
+
+1. evne til å
+
+   1. kommunisere på skipets arbeidsspråk,
+   2. formidle sikkerhetsinformasjon ikke-verbalt, og
+   3. forstå ett av språkene som vil kunne anvendes i høyttalermeldinger i nødssituasjoner eller under øvelser om bord.
 
 *Sikkerhetsopplæring for personell som yter direkte tjenester til passasjerer i passasjerrom*
 
 2
 
-Før personell som yter direkte tjenester til passasjerer i passasjerrom, settes til å utføre plikter om bord, skal de få den ekstra sikkerhetsopplæringen som kreves etter [§ 60](forskrift/2011-12-22-1523/§60) fjerde ledd, som minst sikrer at følgende evner oppnås:*Kommunikasjon*Evne til å kommunisere med passasjerer i en nødssituasjon, idet det tas hensyn tilspråket eller språkene som snakkes av de nasjonalitetene som er mest representert blant passasjerene på den aktuelle strekningensannsynligheten for at et elementært engelsk ordforråd kan være et middel til å formidle enkle instruksjoner til passasjerer som trenger hjelp, uavhengig av om passasjeren og besetningsmedlemmet snakker et felles språk eller ikkedet mulige behovet for å kommunisere på andre måter i en nødssituasjon, for eksempel ved å demonstrere eller gi tegn med hendene, eller ved å lede oppmerksomheten mot plasseringen av instrukser, mønstringsstasjoner, redningsutstyr eller rømningsveier, når muntlig kommunikasjon ikke er praktiski hvilken grad passasjerene har fått fullstendige sikkerhetsinstrukser på deres eget eller egne språk, ogspråkene som vil kunne anvendes i høyttalermeldinger i nødssituasjoner eller under øvelser for å formidle livsviktig veiledning til passasjerer og gjøre det lettere for besetningsmedlemmer å bistå passasjerer.*Redningsredskaper*Evne til å demonstrere bruken av personlige redningsredskaper for passasjerene.*Ombordstigningsprosedyrer*Ombordstigning eller ilandsetting av passasjerer, der det tas særlig hensyn til funksjonshemmede og personer som trenger bistand.
+Før personell som yter direkte tjenester til passasjerer i passasjerrom, settes til å utføre plikter om bord, skal de få den ekstra sikkerhetsopplæringen som kreves etter [§ 60](forskrift/2011-12-22-1523/§60) fjerde ledd, som minst sikrer at følgende evner oppnås:
+
+*Kommunikasjon*
+
+1. Evne til å kommunisere med passasjerer i en nødssituasjon, idet det tas hensyn til
+
+   1. språket eller språkene som snakkes av de nasjonalitetene som er mest representert blant passasjerene på den aktuelle strekningen
+   2. sannsynligheten for at et elementært engelsk ordforråd kan være et middel til å formidle enkle instruksjoner til passasjerer som trenger hjelp, uavhengig av om passasjeren og besetningsmedlemmet snakker et felles språk eller ikke
+   3. det mulige behovet for å kommunisere på andre måter i en nødssituasjon, for eksempel ved å demonstrere eller gi tegn med hendene, eller ved å lede oppmerksomheten mot plasseringen av instrukser, mønstringsstasjoner, redningsutstyr eller rømningsveier, når muntlig kommunikasjon ikke er praktisk
+   4. i hvilken grad passasjerene har fått fullstendige sikkerhetsinstrukser på deres eget eller egne språk, og
+   5. språkene som vil kunne anvendes i høyttalermeldinger i nødssituasjoner eller under øvelser for å formidle livsviktig veiledning til passasjerer og gjøre det lettere for besetningsmedlemmer å bistå passasjerer.
+
+*Redningsredskaper*
+
+1. Evne til å demonstrere bruken av personlige redningsredskaper for passasjerene.
+
+*Ombordstigningsprosedyrer*
+
+1. Ombordstigning eller ilandsetting av passasjerer, der det tas særlig hensyn til funksjonshemmede og personer som trenger bistand.
 
 *Opplæring i passasjerhåndtering på passasjerskip*
 
 3
 
-Før skipsførere, offiserer, mannskaper og personell som ifølge alarminstruksen har som oppgave å bistå passasjerer i nødssituasjoner, settes til å utføre plikter om bord, skal deha fullført og bestått opplæringen i passasjerhåndtering som kreves etter [§ 60](forskrift/2011-12-22-1523/§60) første ledd, som nærmere angitt i tabell A-V/2-1, ogdokumentere at opplæringen er fullført i samsvar med tabell A-V/2-1.
+Før skipsførere, offiserer, mannskaper og personell som ifølge alarminstruksen har som oppgave å bistå passasjerer i nødssituasjoner, settes til å utføre plikter om bord, skal de
+
+1. ha fullført og bestått opplæringen i passasjerhåndtering som kreves etter [§ 60](forskrift/2011-12-22-1523/§60) første ledd, som nærmere angitt i tabell A-V/2-1, og
+2. dokumentere at opplæringen er fullført i samsvar med tabell A-V/2-1.
 
 *Opplæring i krisehåndtering og menneskelig atferd*
 
 4
 
-Før skipsførere, maskinsjefer, dekksjefer, førstemaskinister og alle personer som ifølge alarminstruksen har ansvar for passasjerenes sikkerhet i nødssituasjoner, settes til å utføre plikter om bord, skal deha fullført og bestått godkjent opplæring i krisehåndtering og menneskelig atferd som kreves etter [§ 60](forskrift/2011-12-22-1523/§60) første ledd, som nærmere angitt i tabell A-V/2-2, ogdokumentere at de påkrevde kompetansenormene er oppnådd i samsvar med metodene og kriteriene for evaluering av kompetanse oppført i kolonne 3 og 4 i tabell A-V/2-2.
+Før skipsførere, maskinsjefer, dekksjefer, førstemaskinister og alle personer som ifølge alarminstruksen har ansvar for passasjerenes sikkerhet i nødssituasjoner, settes til å utføre plikter om bord, skal de
+
+1. ha fullført og bestått godkjent opplæring i krisehåndtering og menneskelig atferd som kreves etter [§ 60](forskrift/2011-12-22-1523/§60) første ledd, som nærmere angitt i tabell A-V/2-2, og
+2. dokumentere at de påkrevde kompetansenormene er oppnådd i samsvar med metodene og kriteriene for evaluering av kompetanse oppført i kolonne 3 og 4 i tabell A-V/2-2.
 
 *Opplæring i sikkerhet for passasjerer og last og i skrogets integritet*
 
 5
 
-Før skipsførere, maskinsjefer, dekksjefer, førstemaskinister og alle som har direkte ansvar for å ta om bord og landsette passasjerer, for lasting, lossing eller sikring av last eller for lukking av åpninger i skroget om bord på roro-passasjerskip, settes til å utføre plikter om bord, skal de få opplæringen i sikkerhet for passasjerer og last og i skrogets integritet som kreves etter [§ 60](forskrift/2011-12-22-1523/§60) første ledd, som minst sikrer oppnåelse av følgende evner som er relevante for deres plikter og ansvar, som følger:*Laste- og ombordstigningsprosedyrer*Evne til å anvende på riktig måte de prosedyrene som er fastsatt for skipet med hensyn tillasting og lossing av kjøretøyer, skinnegående vogner og andre transportenheter, herunder tilknyttede kommunikasjonsmidler,senking og heving av ramper,klargjøring og stuing av bevegelige bildekk, ogombordstigning eller ilandsetting av passasjerer, der det tas særlig hensyn til funksjonshemmede og personer som trenger bistand.*Føring av farlig last*Evne til å anvende enhver særskilt sikkerhetsforanstaltning og prosedyre og ethvert særskilt krav vedrørende føring av farlig gods om bord på roro-passasjerskip.*Sikring av last*Evne til åanvende bestemmelsene i «Code of Safe Practice for Cargo Stowage and Securing» riktig på kjøretøyene, de skinnegående vognene og andre transportenheter som føres, ogbruke på riktig måte utstyret og materialene som finnes for sikring av last, idet det tas hensyn til utstyrets og materialenes begrensninger.*Beregninger av stabilitet, trim og belastning*Evne til ågjøre riktig bruk av de opplysningene om stabilitet og belastning som foreligger,beregne stabilitet og trim for forskjellige lastetilstander ved hjelp av de stabilitetskalkulatorene eller dataprogrammene som foreligger,beregne lastefaktorene for dekk, ogberegne virkningen av ballast og drivstoffoverføringer på stabilitet, trim og belastning.*Åpning, lukking og sikring av åpninger i skroget*Evne til åanvende på riktig måte de prosedyrene som er fastsatt for skipet med hensyn til åpning, lukking og sikring av baugporter, akterporter og sideporter og ramper, og til å betjene de tilknyttede systemene riktig, ogforeta tilsyn for å få visshet om at forseglingen er skikkelig.*Luften på roro-dekk*Evne til åbruke utstyr til å overvåke luften i roro-rom, dersom slikt føres om bord, oganvende på riktig måte de prosedyrene som er fastsatt for skipet for ventilering av roro-rom under lasting og lossing av kjøretøyer, under reisen og i nødssituasjoner.
+Før skipsførere, maskinsjefer, dekksjefer, førstemaskinister og alle som har direkte ansvar for å ta om bord og landsette passasjerer, for lasting, lossing eller sikring av last eller for lukking av åpninger i skroget om bord på roro-passasjerskip, settes til å utføre plikter om bord, skal de få opplæringen i sikkerhet for passasjerer og last og i skrogets integritet som kreves etter [§ 60](forskrift/2011-12-22-1523/§60) første ledd, som minst sikrer oppnåelse av følgende evner som er relevante for deres plikter og ansvar, som følger:
+
+*Laste- og ombordstigningsprosedyrer*
+
+1. Evne til å anvende på riktig måte de prosedyrene som er fastsatt for skipet med hensyn til
+
+   1. lasting og lossing av kjøretøyer, skinnegående vogner og andre transportenheter, herunder tilknyttede kommunikasjonsmidler,
+   2. senking og heving av ramper,
+   3. klargjøring og stuing av bevegelige bildekk, og
+   4. ombordstigning eller ilandsetting av passasjerer, der det tas særlig hensyn til funksjonshemmede og personer som trenger bistand.
+
+*Føring av farlig last*
+
+1. Evne til å anvende enhver særskilt sikkerhetsforanstaltning og prosedyre og ethvert særskilt krav vedrørende føring av farlig gods om bord på roro-passasjerskip.
+
+*Sikring av last*
+
+1. Evne til å
+
+   1. anvende bestemmelsene i «Code of Safe Practice for Cargo Stowage and Securing» riktig på kjøretøyene, de skinnegående vognene og andre transportenheter som føres, og
+   2. bruke på riktig måte utstyret og materialene som finnes for sikring av last, idet det tas hensyn til utstyrets og materialenes begrensninger.
+
+*Beregninger av stabilitet, trim og belastning*
+
+1. Evne til å
+
+   1. gjøre riktig bruk av de opplysningene om stabilitet og belastning som foreligger,
+   2. beregne stabilitet og trim for forskjellige lastetilstander ved hjelp av de stabilitetskalkulatorene eller dataprogrammene som foreligger,
+   3. beregne lastefaktorene for dekk, og
+   4. beregne virkningen av ballast og drivstoffoverføringer på stabilitet, trim og belastning.
+
+*Åpning, lukking og sikring av åpninger i skroget*
+
+1. Evne til å
+
+   1. anvende på riktig måte de prosedyrene som er fastsatt for skipet med hensyn til åpning, lukking og sikring av baugporter, akterporter og sideporter og ramper, og til å betjene de tilknyttede systemene riktig, og
+   2. foreta tilsyn for å få visshet om at forseglingen er skikkelig.
+
+*Luften på roro-dekk*
+
+1. Evne til å
+
+   1. bruke utstyr til å overvåke luften i roro-rom, dersom slikt føres om bord, og
+   2. anvende på riktig måte de prosedyrene som er fastsatt for skipet for ventilering av roro-rom under lasting og lossing av kjøretøyer, under reisen og i nødssituasjoner.
 
 > Endret ved [forskrift 26 juni 2018 nr. 1024](forskrift/2018-06-26-1024) (i kraft 1 juli 2018).
 
@@ -1942,7 +2319,22 @@ Det er viktig at skipsførere og ansvarshavende vaktoffiserer på broen om bord 
 
 2
 
-Før de utfører ankerhåndteringsoperasjoner skal skipsførere og ansvarshavende vaktoffiserer på broen:være godt informert om skipets håndteringsegenskaper i forhold til ankerhåndtering, herunder, men ikke begrenset til:navigasjon og posisjonsholding,håndtering av skipet,grundig kjennskap til stabiliteten og de spesielle stabilitetskriteriene til offshore-forsyningsskip, særlig kombinasjonen av GZmak ved lav krengevinkel, lavt åpent dekk og store ytre krefter. Bruk av lastekalkulatorer og konflikten mellom et rigid og stivt skip og godt arbeidsmiljø på dekk. Potensiell reduksjon av stabiliteten grunnet bruk av rulledempingsanordninger, ogoperasjoner i farlige oljefeltområder, herunder lokalisering av eventuelle rørledninger eller andre strukturer på havbunnen i området der ankre eller annet fortøyningsutstyr sannsynligvis er i bruk, oggjøres grundig kjent med bruken av alle instrumenter og systemer montert på det berørte skipet og involvert i ankerhåndtering, herunder deres evner og begrensninger, herunder, men ikke begrenset til:bruk av forskjellige propeller, konvensjonell eller asimutfremdrift,oppsamling, håndtering, tung løfting, uttauing, ankerhåndtering og legging av ankre for offshore-rigger, lektere og installasjoner,tauing av rigger, lektere og andre fartøyer,betjening av løfte- og slepevinsjer tilpasset fartøyet.detaljert grundig kjennskap til grunnlaget for drift av slepe- og ankerhåndteringsvinsjer, særlig funksjoner av lastbegrensningsanordninger og nødutløsningssystemer samt tilhørende ankerhåndterings- og slepeutstyr, ogforskjellen mellom nødutløsning av slepekroker og slepevinsjer.
+Før de utfører ankerhåndteringsoperasjoner skal skipsførere og ansvarshavende vaktoffiserer på broen:
+
+1. være godt informert om skipets håndteringsegenskaper i forhold til ankerhåndtering, herunder, men ikke begrenset til:
+
+   - navigasjon og posisjonsholding,
+   - håndtering av skipet,
+   - grundig kjennskap til stabiliteten og de spesielle stabilitetskriteriene til offshore-forsyningsskip, særlig kombinasjonen av GZmak ved lav krengevinkel, lavt åpent dekk og store ytre krefter. Bruk av lastekalkulatorer og konflikten mellom et rigid og stivt skip og godt arbeidsmiljø på dekk. Potensiell reduksjon av stabiliteten grunnet bruk av rulledempingsanordninger, og
+   - operasjoner i farlige oljefeltområder, herunder lokalisering av eventuelle rørledninger eller andre strukturer på havbunnen i området der ankre eller annet fortøyningsutstyr sannsynligvis er i bruk, og
+2. gjøres grundig kjent med bruken av alle instrumenter og systemer montert på det berørte skipet og involvert i ankerhåndtering, herunder deres evner og begrensninger, herunder, men ikke begrenset til:
+
+   - bruk av forskjellige propeller, konvensjonell eller asimutfremdrift,
+   - oppsamling, håndtering, tung løfting, uttauing, ankerhåndtering og legging av ankre for offshore-rigger, lektere og installasjoner,
+   - tauing av rigger, lektere og andre fartøyer,
+   - betjening av løfte- og slepevinsjer tilpasset fartøyet.
+   - detaljert grundig kjennskap til grunnlaget for drift av slepe- og ankerhåndteringsvinsjer, særlig funksjoner av lastbegrensningsanordninger og nødutløsningssystemer samt tilhørende ankerhåndterings- og slepeutstyr, og
+   - forskjellen mellom nødutløsning av slepekroker og slepevinsjer.
 
 3
 
@@ -1960,7 +2352,10 @@ Når skipsførere og ansvarshavende vaktoffiserer på broen har ansvar for anker
 
 (3) Kunnskapsnivået for de emnene som er oppført i kolonne 2 i tabell A-IV/2, skal være tilstrekkelig til at radiooperatøren kan utføre sine plikter.
 
-(4) Alle søkere skal dokumentere at de påkrevde kompetansenormene er oppnådd ved:demonstrasjon av kompetanse til å utføre oppgavene og pliktene og ivareta ansvarsområdene som er oppført i kolonne 1 i tabell A-IV/2, i samsvar med metodene for å demonstrere kompetanse og kriteriene for evaluering av kompetanse som er oppført i kolonne 3 og 4 i denne tabellen, ogprøving eller kontinuerlig evaluering som del av et godkjent opplæringskurs basert på emnene angitt i kolonne 2 i tabell A-IV/2.
+(4) Alle søkere skal dokumentere at de påkrevde kompetansenormene er oppnådd ved:
+
+1. demonstrasjon av kompetanse til å utføre oppgavene og pliktene og ivareta ansvarsområdene som er oppført i kolonne 1 i tabell A-IV/2, i samsvar med metodene for å demonstrere kompetanse og kriteriene for evaluering av kompetanse som er oppført i kolonne 3 og 4 i denne tabellen, og
+2. prøving eller kontinuerlig evaluering som del av et godkjent opplæringskurs basert på emnene angitt i kolonne 2 i tabell A-IV/2.
 
 > Tilføyd ved [forskrift 11 juli 2014 nr. 974](forskrift/2014-07-11-974) (i kraft 15 juli 2014).
 
@@ -1983,11 +2378,23 @@ Funksjon: Radiokommunikasjon på det operative nivået
 
 1
 
-Alle som søker om sertifikat for grunnleggende opplæring for skip som opererer i polare farvann, skal være pålagt ådemonstrere sin kompetanse til å utføre oppgavene og pliktene og ivareta ansvarsområdene som er oppført i kolonne 1 i tabell A-V/4-1, ogdokumentere å ha oppnåddminstekravet til kunnskap, forståelse og ferdighet som er oppført i kolonne 2 i tabell A-V/4-1, ogde påkrevde kompetansenormene i samsvar med metodene for å demonstrere kompetanse og kriteriene for evaluering av kompetanse oppført i kolonne 3 og 4 i tabell A-V/4-1.
+Alle som søker om sertifikat for grunnleggende opplæring for skip som opererer i polare farvann, skal være pålagt å
+
+1. demonstrere sin kompetanse til å utføre oppgavene og pliktene og ivareta ansvarsområdene som er oppført i kolonne 1 i tabell A-V/4-1, og
+2. dokumentere å ha oppnådd
+
+   1. minstekravet til kunnskap, forståelse og ferdighet som er oppført i kolonne 2 i tabell A-V/4-1, og
+   2. de påkrevde kompetansenormene i samsvar med metodene for å demonstrere kompetanse og kriteriene for evaluering av kompetanse oppført i kolonne 3 og 4 i tabell A-V/4-1.
 
 2
 
-Alle som søker om sertifikat for videregående opplæring for skip som opererer i polare farvann, skal være pålagt ådemonstrere sin kompetanse til å utføre oppgavene og pliktene og ivareta ansvarsområdene som er oppført i kolonne 1 i tabell A-V/4-2, ogdokumentere og ha oppnåddminstekravet til kunnskap, forståelse og ferdighet som er oppført i kolonne 2 i tabell A-V/4-2, ogde påkrevde kompetansenormene i samsvar med metodene for å demonstrere kompetanse og kriteriene for evaluering av kompetanse oppført i kolonne 3 og 4 i tabell A-V/4-2
+Alle som søker om sertifikat for videregående opplæring for skip som opererer i polare farvann, skal være pålagt å
+
+1. demonstrere sin kompetanse til å utføre oppgavene og pliktene og ivareta ansvarsområdene som er oppført i kolonne 1 i tabell A-V/4-2, og
+2. dokumentere og ha oppnådd
+
+   1. minstekravet til kunnskap, forståelse og ferdighet som er oppført i kolonne 2 i tabell A-V/4-2, og
+   2. de påkrevde kompetansenormene i samsvar med metodene for å demonstrere kompetanse og kriteriene for evaluering av kompetanse oppført i kolonne 3 og 4 i tabell A-V/4-2
 
 > Tilføyd ved [forskrift 26 juni 2018 nr. 1024](forskrift/2018-06-26-1024) (i kraft 1 juli 2018).
 
@@ -2022,7 +2429,10 @@ Spesifikasjon av minstekrav til kompetanse i videregående opplæring for skip s
 
 1
 
-Det er viktig at skipsførere og ansvarshavende vaktoffiserer på bro om bord på skip som opererer i polare farvann, har relevant erfaring og opplæring, som nedenfor:Før de settes til oppgaver om bord på slike skip, bør de ha gjennomgått opplæring som gir grunnleggende kunnskap om minst emnene oppført i [punkt](forskrift/2011-12-22-1523/kap2) 2 til 11 nedenfor.Skipsførere må ha tilstrekkelig og passende erfaring med drift av skip i polare farvann.
+Det er viktig at skipsførere og ansvarshavende vaktoffiserer på bro om bord på skip som opererer i polare farvann, har relevant erfaring og opplæring, som nedenfor:
+
+1. Før de settes til oppgaver om bord på slike skip, bør de ha gjennomgått opplæring som gir grunnleggende kunnskap om minst emnene oppført i [punkt](forskrift/2011-12-22-1523/kap2) 2 til 11 nedenfor.
+2. Skipsførere må ha tilstrekkelig og passende erfaring med drift av skip i polare farvann.
 
 *Isens egenskaper – isdekkede områder*
 

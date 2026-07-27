@@ -15,7 +15,7 @@ xml_hash: "9f8f5e076c2a76ade29bf55c0fdc0e62cc27aa6536927d1e6afa40f233a78eb5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,22 @@ Grunnkvote bortfaller når det er gått 10 år siden utgangen av det siste kvote
 
 ## § 3. Produksjonsregioner
 
-Med produksjonsregion for kumelkkvoter menes i denne forskriften følgende:Oslo og Akershus fylkerØstfold og Vestfold fylkerTidligere Hedmark fylkeTidligere Oppland fylkeBuskerud fylkeTelemark fylkeAgder fylkeRogaland fylkeVestland fylkeMøre og Romsdal fylkeTrøndelag fylkeNordland fylkeTroms fylkeFinnmark fylke.
+Med produksjonsregion for kumelkkvoter menes i denne forskriften følgende:
+
+1. Oslo og Akershus fylker
+2. Østfold og Vestfold fylker
+3. Tidligere Hedmark fylke
+4. Tidligere Oppland fylke
+5. Buskerud fylke
+6. Telemark fylke
+7. Agder fylke
+8. Rogaland fylke
+9. Vestland fylke
+10. Møre og Romsdal fylke
+11. Trøndelag fylke
+12. Nordland fylke
+13. Troms fylke
+14. Finnmark fylke.
 
 Med produksjonsregion for geitemelkkvoter menes i denne forskrift henholdsvis Nord-Norge (fylkene Troms, Finnmark og Nordland) og Sør-Norge.
 
@@ -204,7 +219,15 @@ Denne forskriften trer i kraft 1. januar 2012. Fra samme tid oppheves [forskrift
 
 ## § 15. Endringer i andre forskrifter
 
-Fra det tidspunkt forskriften trer i kraft gjøres følgende endringer i andre forskrifter:1. I [forskrift 22. mars 2002 nr. 283](forskrift/2002-03-22-283) om produksjonstilskudd i jordbruket gjøres følgende endringer: – – –2. I [forskrift 8. november 2006 nr. 1227](forskrift/2006-11-08-1227) om tilskot til avløysing skal [§ 4a](forskrift/2006-11-08-1227/§4a) annet ledd lyde: – – –3. I [forskrift 19. desember 2008 nr. 1490](forskrift/2008-12-19-1490) om pristilskudd i landbrukssektoren skal [§ 5](forskrift/2008-12-19-1490/§5) lyde: – – –4. I [forskrift 29. juni 1999 nr. 763](forskrift/1999-06-29-763) om omsetningsavgift på jordbruksvarer, og om overproduksjonsavgift på mjølk skal [§ 3](forskrift/1999-06-29-763/§3) lyde: – –
+Fra det tidspunkt forskriften trer i kraft gjøres følgende endringer i andre forskrifter:
+
+1\. I [forskrift 22. mars 2002 nr. 283](forskrift/2002-03-22-283) om produksjonstilskudd i jordbruket gjøres følgende endringer: – – –
+
+2\. I [forskrift 8. november 2006 nr. 1227](forskrift/2006-11-08-1227) om tilskot til avløysing skal [§ 4a](forskrift/2006-11-08-1227/§4a) annet ledd lyde: – – –
+
+3\. I [forskrift 19. desember 2008 nr. 1490](forskrift/2008-12-19-1490) om pristilskudd i landbrukssektoren skal [§ 5](forskrift/2008-12-19-1490/§5) lyde: – – –
+
+4\. I [forskrift 29. juni 1999 nr. 763](forskrift/1999-06-29-763) om omsetningsavgift på jordbruksvarer, og om overproduksjonsavgift på mjølk skal [§ 3](forskrift/1999-06-29-763/§3) lyde: – –
 
 ## Vedlegg 1: Omregningsfaktorene ved lokal foredling av melk:
 

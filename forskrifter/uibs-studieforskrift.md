@@ -26,7 +26,13 @@ eu_basis: []
 
 ### § 1-1. Føremål
 
-(1) Studia ved Universitetet i Bergen skal:vere forskingsbaserte og legge til rette for studentaktiv læring,ha møteplassar mellom studentar og fagleg tilsette, og sørge for at studentane blir integrerte i fagmiljøa,gi opplæring i akademisk reielegheit, ytringsfridom og fagkritikk,gi den digitale kompetansen som er relevant for fagområdet oggi eit godt grunnlag for læring heile livet.
+(1) Studia ved Universitetet i Bergen skal:
+
+1. vere forskingsbaserte og legge til rette for studentaktiv læring,
+2. ha møteplassar mellom studentar og fagleg tilsette, og sørge for at studentane blir integrerte i fagmiljøa,
+3. gi opplæring i akademisk reielegheit, ytringsfridom og fagkritikk,
+4. gi den digitale kompetansen som er relevant for fagområdet og
+5. gi eit godt grunnlag for læring heile livet.
 
 (2) Eit klårt og tilgjengeleg regelverk er viktig for at studentane skal verte kjend med dei rettar og pliktar ein har som student ved universitetet, og for å sikre lik praksis på dei ulike fakulteta.
 
@@ -62,13 +68,34 @@ eu_basis: []
 
 (1) Eit studieprogram er ei samling emne som inngår i ein heilskap med eit definert læringsutbyte. Studieprogram som ikkje er årsstudium, skal føre til ei grad.
 
-(2) Kvart studieprogram skal ha ein studieplan som inneheld:namnet på studieprogrammet og eventuelle studieretningar,talet på studiepoeng,opptakskrav,mål og innhald,kva for kunnskap, ferdigheiter og kompetanse studentane skal tileigne seg (læringsutbyteskildring),læringsaktivitetar og undervisingsformer,kva for emne som er obligatoriske og valfrie, med emneskildringar,eventuelle minstekrav til frie studiepoeng, til dømes fagleg nivå, omfang og innhald,høve til og plassering av utveksling ogeventuelle reglar om rekkefølge på emna på programmet.
+(2) Kvart studieprogram skal ha ein studieplan som inneheld:
+
+1. namnet på studieprogrammet og eventuelle studieretningar,
+2. talet på studiepoeng,
+3. opptakskrav,
+4. mål og innhald,
+5. kva for kunnskap, ferdigheiter og kompetanse studentane skal tileigne seg (læringsutbyteskildring),
+6. læringsaktivitetar og undervisingsformer,
+7. kva for emne som er obligatoriske og valfrie, med emneskildringar,
+8. eventuelle minstekrav til frie studiepoeng, til dømes fagleg nivå, omfang og innhald,
+9. høve til og plassering av utveksling og
+10. eventuelle reglar om rekkefølge på emna på programmet.
 
 ### § 2-3. Emne
 
 (1) Eit emne er den grunnleggande studieeininga.
 
-(2) Kvart emne skal ha ei emneskildring som inneheld:namnet til emnet,talet på studiepoeng,eventuelle forkunnskapskrav,mål og innhald,kva for kunnskap, ferdigheiter og kompetanse studenten skal tileigne seg (læringsutbyteskildring),undervisingssemester, -former, -omfang og -språk, og andre læringsaktivitetarobligatorisk oppmøte og obligatoriske aktivitetar,eksamensform og -semester, og vurderingsuttrykk ogandre særskilde reglar for emnet dersom dei finst, til dømes avgrensing i tilgang til undervising, hjelpemiddel og formelle krav til eksamen.
+(2) Kvart emne skal ha ei emneskildring som inneheld:
+
+1. namnet til emnet,
+2. talet på studiepoeng,
+3. eventuelle forkunnskapskrav,
+4. mål og innhald,
+5. kva for kunnskap, ferdigheiter og kompetanse studenten skal tileigne seg (læringsutbyteskildring),
+6. undervisingssemester, -former, -omfang og -språk, og andre læringsaktivitetar
+7. obligatorisk oppmøte og obligatoriske aktivitetar,
+8. eksamensform og -semester, og vurderingsuttrykk og
+9. andre særskilde reglar for emnet dersom dei finst, til dømes avgrensing i tilgang til undervising, hjelpemiddel og formelle krav til eksamen.
 
 (3) Talet på studiepoeng for eit emne skal vere deleleg med fem. Dette gjeld ikkje for integrerte masterprogram eller for profesjonsstudia. Også i andre tilfelle kan det gjerast unntak dersom faglege grunnar talar for det, og verken omsynet til studentane sin valfridom eller ønske om tverrfaglege studium gjer det utilrådeleg.
 
@@ -80,7 +107,11 @@ eu_basis: []
 
 (1) Universitetsstyret sjølv opprettar og legg ned studieprogram på over 60 studiepoeng.
 
-(2) Fakultetet sjølv opprettar og legg ned:årsstudium,studieretningar ogemne.
+(2) Fakultetet sjølv opprettar og legg ned:
+
+1. årsstudium,
+2. studieretningar og
+3. emne.
 
 (3) Vesentlege endringar i studieprogram ved eit fakultet må godkjennast av universitetsstyret. Endringar som i realiteten inneber oppretting eller nedlegging av eit heilt fagområde blir alltid rekna som vesentlege.
 
@@ -94,7 +125,13 @@ eu_basis: []
 
 ### § 3-2. Emnekodar
 
-(1) Alle emne skal ha ein tresifra kode, etter følgjande system:100-emner er begynnaremne,200-emne er fordjupings- eller spesialiseringsemne tilpassa studentar på bachelornivå,300-emne er fordjupings- eller spesialiseringsemne tilpassa studentar på masternivå600-emne er vidareutdanningsemne, medan900-emne er fordjupings- eller spesialiseringsemne tilpassa studentar på ph.d.-nivå.
+(1) Alle emne skal ha ein tresifra kode, etter følgjande system:
+
+1. 100-emner er begynnaremne,
+2. 200-emne er fordjupings- eller spesialiseringsemne tilpassa studentar på bachelornivå,
+3. 300-emne er fordjupings- eller spesialiseringsemne tilpassa studentar på masternivå
+4. 600-emne er vidareutdanningsemne, medan
+5. 900-emne er fordjupings- eller spesialiseringsemne tilpassa studentar på ph.d.-nivå.
 
 (2) Firesifra kodar kan nyttast dersom det ikkje er fleire aktuelle emnekodar att. Systemet i første avsnitt gjeld for dei tre første siffera.
 
@@ -118,15 +155,33 @@ Fakultetet har ansvaret for opptaket. Ansvaret kan delegerast til Studieavdeling
 
 ### § 4-2. Studierett
 
-(1) Studentar som er tatt opp ved Universitetet i Bergen har studierett på det studieprogram eller dei emna som opptaket gjeld. Dette gir rett til:å melde seg til undervising og følge henne, få rettleiing mv., i samsvar med emneskildringa og studieplanen,å nytte andre ressursar, i samsvar med emneskildringa og studieplanen,tilgang til lokale, lesesalar mv., i samsvar med fakulteta sine reglement,eksamen i samsvar med [kapittel 7](forskrift/2023-06-15-1359/kap7) ogindividuell utdanningsplan, jf. [§ 4-6](forskrift/2023-06-15-1359/§4-6).
+(1) Studentar som er tatt opp ved Universitetet i Bergen har studierett på det studieprogram eller dei emna som opptaket gjeld. Dette gir rett til:
+
+1. å melde seg til undervising og følge henne, få rettleiing mv., i samsvar med emneskildringa og studieplanen,
+2. å nytte andre ressursar, i samsvar med emneskildringa og studieplanen,
+3. tilgang til lokale, lesesalar mv., i samsvar med fakulteta sine reglement,
+4. eksamen i samsvar med [kapittel 7](forskrift/2023-06-15-1359/kap7) og
+5. individuell utdanningsplan, jf. [§ 4-6](forskrift/2023-06-15-1359/§4-6).
 
 (2) Kortvarige studierettar som ikkje er knytte til eit studieprogram gir studenten rett til å undervisings- og eksamensmelde seg til utvalde emne i eitt eller to semester.
 
 ### § 4-3. Forventingane og pliktene til studenten
 
-(1) Studenten er forventa å:oppfylle krav til akademisk reielegheit og integritet,delta i undervisinga,aktivt medverke i sin eigen studiekvardag og den akademiske fellesskapen,setje seg inn universitetet sine reglar og retningslinjer,halde seg oppdatert på kunngjeringar på program- og emnesidene på UiB sine digitale læringsplattformer, og på epostar frå universitetet ogaktivt medverke i student- og universitetsdemokratiet.
+(1) Studenten er forventa å:
 
-(2) Studenten pliktar å:delta i eventuelt obligatorisk studiestartsmøte,semesterregistrere seg,betale eventuell studieavgift ogkvart semester oppdatere og stadfeste utdanningsplanen.
+1. oppfylle krav til akademisk reielegheit og integritet,
+2. delta i undervisinga,
+3. aktivt medverke i sin eigen studiekvardag og den akademiske fellesskapen,
+4. setje seg inn universitetet sine reglar og retningslinjer,
+5. halde seg oppdatert på kunngjeringar på program- og emnesidene på UiB sine digitale læringsplattformer, og på epostar frå universitetet og
+6. aktivt medverke i student- og universitetsdemokratiet.
+
+(2) Studenten pliktar å:
+
+1. delta i eventuelt obligatorisk studiestartsmøte,
+2. semesterregistrere seg,
+3. betale eventuell studieavgift og
+4. kvart semester oppdatere og stadfeste utdanningsplanen.
 
 (3) Fristen for andre avsnitt [bokstav b](forskrift/2023-06-15-1359/a2/bokstav/b) og [d](forskrift/2023-06-15-1359/a2/bokstav/d) er høvesvis 1. september og 1. februar.
 
@@ -142,7 +197,11 @@ Fakultetet har ansvaret for opptaket. Ansvaret kan delegerast til Studieavdeling
 
 (2) Alle skal betale semesteravgift i dei semestera dei er eksamensmelde. Det same gjeld studentar som er tekne opp på studieprogram som er normert til 15 studiepoeng eller meir per semester, sjølv om dei ikkje er eksamensmelde.
 
-(3) Første avsnitt gjeld ikkje:for innvekslingsstudentar som etter avtale er fritekne frå semesteravgifta,for tilsette som tar emne med nær tilknyting til stillinga, inkludert pedagogisk opplæring, ellerdersom fritak frå semesteravgift går fram av emneskildringa eller anna regelverk.
+(3) Første avsnitt gjeld ikkje:
+
+1. for innvekslingsstudentar som etter avtale er fritekne frå semesteravgifta,
+2. for tilsette som tar emne med nær tilknyting til stillinga, inkludert pedagogisk opplæring, eller
+3. dersom fritak frå semesteravgift går fram av emneskildringa eller anna regelverk.
 
 (4) Fritak etter tredje avsnitt gjeld berre når det er klarert med samskipnaden.
 
@@ -152,7 +211,16 @@ Fakultetet har ansvaret for opptaket. Ansvaret kan delegerast til Studieavdeling
 
 ### § 4-5. Tap av studierett
 
-(1) Fakultetet kan trekke tilbake studieretten dersom studenten:ikkje oppfyller krava etter [§ 4-3](forskrift/2023-06-15-1359/§4-3) (2) eller [§ 4-4](forskrift/2023-06-15-1359/§4-4),ikkje bidrar til å fastsetje utdanningsplan i samsvar med [§ 4-6](forskrift/2023-06-15-1359/§4-6) (4),gir melding om at hen ønsker å avslutte studiet,får opptak til eit anna studieprogram ved UiB, og det ikkje er gode faglege grunnar til at fleire studierettar finst parallelt,ikkje består noko studiepoenggivande emne i to semester på rad,på slutten av studieåret har eit etterslep på meir enn halvparten av normert progresjon for studieprogrammet,har gjort maksimalt tal eksamensforsøk i obligatoriske emne utan bestått resultat ellerhar fullført studieprogrammet eller emnet som opptaket gjeld.
+(1) Fakultetet kan trekke tilbake studieretten dersom studenten:
+
+1. ikkje oppfyller krava etter [§ 4-3](forskrift/2023-06-15-1359/§4-3) (2) eller [§ 4-4](forskrift/2023-06-15-1359/§4-4),
+2. ikkje bidrar til å fastsetje utdanningsplan i samsvar med [§ 4-6](forskrift/2023-06-15-1359/§4-6) (4),
+3. gir melding om at hen ønsker å avslutte studiet,
+4. får opptak til eit anna studieprogram ved UiB, og det ikkje er gode faglege grunnar til at fleire studierettar finst parallelt,
+5. ikkje består noko studiepoenggivande emne i to semester på rad,
+6. på slutten av studieåret har eit etterslep på meir enn halvparten av normert progresjon for studieprogrammet,
+7. har gjort maksimalt tal eksamensforsøk i obligatoriske emne utan bestått resultat eller
+8. har fullført studieprogrammet eller emnet som opptaket gjeld.
 
 (2) Vedtak etter bokstavane e og f i første avsnitt skal ta omsyn til innvilga permisjonar, pausar, deltidsstudium og gyldig fråvær til eksamen eller obligatoriske aktivitetar, og vedtak om utestenging. Fakultetet kan alltid trekke tilbake studieretten for studentar som ikkje har produsert studiepoeng dei siste seks semestera, med mindre studenten har hatt permisjon i heile perioden, jf. [§ 5-2](forskrift/2023-06-15-1359/§5-2).
 
@@ -168,7 +236,14 @@ Fakultetet har ansvaret for opptaket. Ansvaret kan delegerast til Studieavdeling
 
 (2) Utdanningsplanen er ein avtale mellom studenten og Universitetet i Bergen som regulerer rettar og plikter overfor kvarandre. Utdanningsplanen fastset studieløpet fram til studieprogrammet er fullført.
 
-(3) Utdanningsplanen skal innehalde:namnet på studieprogrammet,kva for emne studenten tar sikte på å fullføre; semester, rekkefølge, orientering om framgangsmåte ved endring av utdanningsplanen og val av ikkje-obligatoriske emne,tidlegare utdanning som skal inngå i graden,eventuell planlagt utveksling,tilvisingar til regelverk som studenten skal kjenne til og følge, inkludert denne forskrifta, fakultetet sine reglar, sørviserklæringar, og studieplanen ogorientering om verknaden av manglande oppfølging av utdanningsplanen, jf. [§ 4-5](forskrift/2023-06-15-1359/§4-5).
+(3) Utdanningsplanen skal innehalde:
+
+1. namnet på studieprogrammet,
+2. kva for emne studenten tar sikte på å fullføre; semester, rekkefølge, orientering om framgangsmåte ved endring av utdanningsplanen og val av ikkje-obligatoriske emne,
+3. tidlegare utdanning som skal inngå i graden,
+4. eventuell planlagt utveksling,
+5. tilvisingar til regelverk som studenten skal kjenne til og følge, inkludert denne forskrifta, fakultetet sine reglar, sørviserklæringar, og studieplanen og
+6. orientering om verknaden av manglande oppfølging av utdanningsplanen, jf. [§ 4-5](forskrift/2023-06-15-1359/§4-5).
 
 (4) Fakultetet skal varsle alle studentar som har eit etterslep på 30 studiepoeng eller meir om at utdanningsplanen må oppdaterast. Varselet skal sendast ut på eit fast tidspunkt kvart år. Fakultetet og studenten skal i fellesskap avgjere kva for endringar som må gjerast.
 
@@ -182,7 +257,16 @@ Universitetsdirektøren vedtar åtvaring om bortvising ved grovt forstyrrande å
 
 ### § 5-1. Søknad
 
-(1) Fakultetet handsamar søknader om:permisjon,pause frå studia,deltidsstudium,utsett studiestart,andre endringar i studieprogresjonen jamført med utdanningsplanen,tilrettelegging av studia,gyldig fråvær oggodkjenning av tidlegare utdanning og realkompetanse.
+(1) Fakultetet handsamar søknader om:
+
+1. permisjon,
+2. pause frå studia,
+3. deltidsstudium,
+4. utsett studiestart,
+5. andre endringar i studieprogresjonen jamført med utdanningsplanen,
+6. tilrettelegging av studia,
+7. gyldig fråvær og
+8. godkjenning av tidlegare utdanning og realkompetanse.
 
 (2) Fakultetet kan vedta utfyllande reglar om deltidsstudium og utsett studiestart.
 
@@ -190,7 +274,14 @@ Universitetsdirektøren vedtar åtvaring om bortvising ved grovt forstyrrande å
 
 ### § 5-2. Permisjon
 
-(1) Studentar har rett til permisjon:i høve svangerskap, fødsel og omsorg til barn i samsvar med [universitets- og høgskulelova § 10-6](lov/2024-03-08-9/§10-6) (2).ved sjukdom som ikkje gjer det mogeleg å halde fram studia,dersom sambuar mv. eller barn er alvorleg sjuke,i høve utføring av tenesteplikt etter [forsvarslova § 17](lov/2016-08-12-77/§17),i høve verv i studentpolitiske organ og andre tyngande politiske verv ellernår andre særskilde forhold talar for, til dømes toppidrett.
+(1) Studentar har rett til permisjon:
+
+1. i høve svangerskap, fødsel og omsorg til barn i samsvar med [universitets- og høgskulelova § 10-6](lov/2024-03-08-9/§10-6) (2).
+2. ved sjukdom som ikkje gjer det mogeleg å halde fram studia,
+3. dersom sambuar mv. eller barn er alvorleg sjuke,
+4. i høve utføring av tenesteplikt etter [forsvarslova § 17](lov/2016-08-12-77/§17),
+5. i høve verv i studentpolitiske organ og andre tyngande politiske verv eller
+6. når andre særskilde forhold talar for, til dømes toppidrett.
 
 (2) Permisjon inneber at den ytre ramma for studieretten blir utvida i tid tilsvarande som permisjon, medan studieretten blir haldt ved like. Permisjonar blir innvilga for eitt eller to semester om gongen.
 
@@ -208,7 +299,10 @@ Universitetsdirektøren vedtar åtvaring om bortvising ved grovt forstyrrande å
 
 (2) Retten etter første avsnitt gjeld frå semester nummer to. Pause inneber at studieretten knytt til det aktuelle studieprogrammet blir suspendert. Pause blir innvilga for eitt eller to semester om gongen og studieretten blir utvida tilsvarande i tid.
 
-(3) Fakultetet kan i utfyllande reglar vedta at:inntil 60 studiepoeng må vere oppnådde før studenten får pause frå studia ogretten til pause frå studia ikkje gjeld dei fire siste semestera på integrert masterprogram
+(3) Fakultetet kan i utfyllande reglar vedta at:
+
+1. inntil 60 studiepoeng må vere oppnådde før studenten får pause frå studia og
+2. retten til pause frå studia ikkje gjeld dei fire siste semestera på integrert masterprogram
 
 (4) Retten til pause frå studia gjeld ikkje for studentar på studieprogram i utøvande og skapande kunst, musikk og design.
 
@@ -234,7 +328,14 @@ Universitetsdirektøren vedtar åtvaring om bortvising ved grovt forstyrrande å
 
 ### § 5-5. Gyldig fråvær
 
-(1) Fråvær som skuldast desse forholda er gyldig:eigen sjukdom som gjer gjennomføringa av undervising eller eksamen umogleg eller urimeleg å krevje,sjukdom hjå barn som studenten har omsorg for, innanfor dei avgrensingane som følger av [arbeidsmiljøloven § 12-9](lov/2005-06-17-62/§12-9),dødsfall i nær familie eller hjå andre studenten har eit nært forhold til, for ein periode på inntil to veker frå dødsfallet,gravferd ol. til personar i nær familie eller som studenten har eit nært forhold til,lovpålagt oppmøte annan stad ogandre forhold som gjer det heilt urimeleg å krevje at studenten gjennomfører.
+(1) Fråvær som skuldast desse forholda er gyldig:
+
+1. eigen sjukdom som gjer gjennomføringa av undervising eller eksamen umogleg eller urimeleg å krevje,
+2. sjukdom hjå barn som studenten har omsorg for, innanfor dei avgrensingane som følger av [arbeidsmiljøloven § 12-9](lov/2005-06-17-62/§12-9),
+3. dødsfall i nær familie eller hjå andre studenten har eit nært forhold til, for ein periode på inntil to veker frå dødsfallet,
+4. gravferd ol. til personar i nær familie eller som studenten har eit nært forhold til,
+5. lovpålagt oppmøte annan stad og
+6. andre forhold som gjer det heilt urimeleg å krevje at studenten gjennomfører.
 
 (2) Grunnlag for gyldig fråvær må dokumenterast på eigna måte. Sjukdom ol. skal dokumenterast med erklæring frå lege, eller anna helsepersonell som nemnd i Forskrift om unntak frå legeerklæringsvilkåret. Dokumentasjonen skal gjere greie for sjukdomen, kva dagar som er vurderte, og stadfeste at gjennomføringa av undervising eller eksamen var umogleg eller urimeleg å vente.
 
@@ -294,13 +395,23 @@ Universitetsdirektøren vedtar åtvaring om bortvising ved grovt forstyrrande å
 
 (2) Undervising og eksamen i eit emne skal gjennomførast innanfor det semesteret det høyrer til. Fakultetet kan gjere unntak i studieplanar for studieprogram der undervisinga er organisert i bolkar.
 
-(3) Det er undervisings- og eksamensfrifrå 23. desember til 2. januarpå heilagdagar.
+(3) Det er undervisings- og eksamensfri
+
+1. frå 23. desember til 2. januar
+2. på heilagdagar.
 
 (4) Det kan gjerast unntak frå tredje avsnitt for konsertar, utstillingar, tokt, feltarbeid, praksis og liknande, inkludert førebuingar.
 
 (5) Heimeeksamen skal normalt ikkje gå over heilagdag. Dersom heimeeksamen går over heilagdag, skal lengda forlengast tilsvarande.
 
-(6) Det er undervisings- og eksamensfri mellom semestera, med mindre faglege omsyn talar for det motsette. Likevel slik at desse aktivitetane kan gjennomførast mellom semestera:undervising og eksamen i samband med forkurs som kvalifiserer for studieprogram,språkkurs,feltarbeid,praksis,vidareutdanning ogkontinuasjonseksamenar, jf. [§ 5-6](forskrift/2023-06-15-1359/§5-6/ledd/2) (2).
+(6) Det er undervisings- og eksamensfri mellom semestera, med mindre faglege omsyn talar for det motsette. Likevel slik at desse aktivitetane kan gjennomførast mellom semestera:
+
+1. undervising og eksamen i samband med forkurs som kvalifiserer for studieprogram,
+2. språkkurs,
+3. feltarbeid,
+4. praksis,
+5. vidareutdanning og
+6. kontinuasjonseksamenar, jf. [§ 5-6](forskrift/2023-06-15-1359/§5-6/ledd/2) (2).
 
 (7) Litteraturlister og timeplanar for emna skal publiserast på universitetet sine nettsider innan 1. juli for haustsemesteret og 1. desember for vårsemesteret. Dette gjeld ikkje for tidspunkt for kontinuasjonseksamen, som blir publisert så snart som råd.
 
@@ -334,7 +445,11 @@ Undervisinga skal som hovudregel vere på norsk. Det kan gjerast unntak av fagle
 
 (4) Fakultetet kan setje tak på talet på studentar på eit emne dersom faglege, pedagogiske eller organisatoriske grunnar tilseier det. Slike avgrensingar skal gå fram i emneskildringa. Fakultetet vedtar utfyllande reglar om rangering av studentar.
 
-(5) Fakultetet kan vedta andre avgrensingar av tilgangen til undervising for studentar som:tidlegare har følgt undervisinga og er innanfor perioden skildra i [§ 6-6](forskrift/2023-06-15-1359/§6-6/ledd/3) (3),har bestått resultat i emnet ellerallereie har fått rettleiing i emne som gjeld bachelor- eller masterprosjekt.
+(5) Fakultetet kan vedta andre avgrensingar av tilgangen til undervising for studentar som:
+
+1. tidlegare har følgt undervisinga og er innanfor perioden skildra i [§ 6-6](forskrift/2023-06-15-1359/§6-6/ledd/3) (3),
+2. har bestått resultat i emnet eller
+3. allereie har fått rettleiing i emne som gjeld bachelor- eller masterprosjekt.
 
 ### § 6-6. Obligatorisk undervisingsaktivitet
 
@@ -348,7 +463,10 @@ Undervisinga skal som hovudregel vere på norsk. Det kan gjerast unntak av fagle
 
 (1) Studenten har rett til rettleiing i samband med bachelor- og masterprosjekt.
 
-(2) Fakultetet regulerer forma og omfanget av rettleiing i samband med bachelor- og masterprosjekt i:eigen kontrakt mellom rettleiar, student og representant for fakultetet, og/ellerstudieplanen og emneskildringa.
+(2) Fakultetet regulerer forma og omfanget av rettleiing i samband med bachelor- og masterprosjekt i:
+
+1. eigen kontrakt mellom rettleiar, student og representant for fakultetet, og/eller
+2. studieplanen og emneskildringa.
 
 ## Kapittel 7. Eksamen
 
@@ -384,7 +502,14 @@ Undervisinga skal som hovudregel vere på norsk. Det kan gjerast unntak av fagle
 
 ### § 7-4. Gjennomføring av eksamen
 
-(1) Så langt reglane høver med eksamensforma pliktar studentane å:svare i samsvar med dei formelle krava til eksamenen som står i eksamensoppgåva og emneskildringa,følge eksamensreglementet til fakultetet,ikkje nytte anna enn lovlege hjelpemiddel,legitimere seg på eigna måte,levere eksamenssvaret innanfor fristen ogikkje forstyrre andre og å rette seg etter meldingar frå eksamensvaktene.
+(1) Så langt reglane høver med eksamensforma pliktar studentane å:
+
+1. svare i samsvar med dei formelle krava til eksamenen som står i eksamensoppgåva og emneskildringa,
+2. følge eksamensreglementet til fakultetet,
+3. ikkje nytte anna enn lovlege hjelpemiddel,
+4. legitimere seg på eigna måte,
+5. levere eksamenssvaret innanfor fristen og
+6. ikkje forstyrre andre og å rette seg etter meldingar frå eksamensvaktene.
 
 (2) Fakultetet sjølv kan vedta utfyllande reglar for gjennomføringa av eksamen («eksamensreglement»). Studentane skal informerast om eksamensreglementa, og desse skal også vere lett tilgjengelege.
 
@@ -420,11 +545,25 @@ Munnlege, praktiske, utøvande og/eller skapande eksamenar skal vere offentlege.
 
 ### § 7-9. Fusk
 
-(1) Studenten fuskar dersom hen på eksamen eller ein obligatorisk undervisingsaktivitet forsettleg eller grovt aktlaust bryt:reglane for gjennomføringa av aktiviteten eller eksamenen, ogmed akademiske forventingar.
+(1) Studenten fuskar dersom hen på eksamen eller ein obligatorisk undervisingsaktivitet forsettleg eller grovt aktlaust bryt:
+
+1. reglane for gjennomføringa av aktiviteten eller eksamenen, og
+2. med akademiske forventingar.
 
 (2) Handlingar som openbart ikkje er eigna til å gi studenten nokon fordel skal ikkje reknast som fusk.
 
-(3) Reglane for gjennomføring, i første avsnitt, kan mellom anna vere:manglande tilvisingarfiktive tilvisingarå presentere tekst som eige arbeid, når ein ikkje sjølv har laga denikkje tillate samarbeid, hjelparar eller hjelpemiddel (inkludert KI-verktøy),jukselappar og liknande,handlingar som verkar inn på sensor eller fagperson si sensurering eller vurderingfabrikkering eller forfalsking av datafalsk oppmøteregistreringå skaffe seg tilgang til eksamensoppgåva før eksamenen startarandre brot på reglane for aktiviteten eller eksamenen.
+(3) Reglane for gjennomføring, i første avsnitt, kan mellom anna vere:
+
+1. manglande tilvisingar
+2. fiktive tilvisingar
+3. å presentere tekst som eige arbeid, når ein ikkje sjølv har laga den
+4. ikkje tillate samarbeid, hjelparar eller hjelpemiddel (inkludert KI-verktøy),
+5. jukselappar og liknande,
+6. handlingar som verkar inn på sensor eller fagperson si sensurering eller vurdering
+7. fabrikkering eller forfalsking av data
+8. falsk oppmøteregistrering
+9. å skaffe seg tilgang til eksamensoppgåva før eksamenen startar
+10. andre brot på reglane for aktiviteten eller eksamenen.
 
 > Tilføyd ved forskrift [27 nov 2025 nr. 2637](forskrift/2025-11-27-2637) (i kraft 17 des 2025).
 
@@ -436,15 +575,31 @@ Munnlege, praktiske, utøvande og/eller skapande eksamenar skal vere offentlege.
 
 (2) Bachelorprosjekt/-oppgåve og masterprosjekt/-oppgåve utan bestått resultat kan leverast på nytt éin gong. Bachelor- og masterprosjekt med bestått resultat kan ikkje leverast på nytt.
 
-(3) Fakultetet kan i emneskildringa eller i utfyllande regelverk vedta at det ikkje er høve til meir enn to eksamensforsøk og/eller gjennomføringar i emne sominneber praksis,inneber feltarbeid,inneber tokt ellerer utøvande eller skapande.
+(3) Fakultetet kan i emneskildringa eller i utfyllande regelverk vedta at det ikkje er høve til meir enn to eksamensforsøk og/eller gjennomføringar i emne som
 
-(4) Fakultetet:kan i utfyllande reglar vedta unntak frå hovudregelen om tre forsøk for studentar som allereie har bestått resultat i emnet,kan gjere unntak frå første til tredje avsnitt i einskildtilfelle etter søknad frå studenten,skal fastsetje innleveringsfrist for ny levering av bachelorprosjekt/-oppgåve og masterprosjekt/-oppgåve utan bestått resultat etter andre avsnitt. Fristen kan ikkje vere kortare enn tre månader frå sensuren er kunngjort og ikkje lengre enn eitt år frå den opphavlege fristen ogskal etter søknad tillate ny levering av bachelor- og masterprosjekt etter utestenging som følge av fusk, med mindre fusket er av ein karakter som gjer det umogleg. Fakultetet skal sjå til at fusket er retta opp. Studenten kan ikkje levere før etter utestengingsperioden er over, jf. [universitets- og høgskulelova § 12-4 (3)](lov/2024-03-08-9/§12-4/ledd/3) og [(4)](lov/2024-03-08-9/§12-4/ledd/4).
+1. inneber praksis,
+2. inneber feltarbeid,
+3. inneber tokt eller
+4. er utøvande eller skapande.
+
+(4) Fakultetet:
+
+1. kan i utfyllande reglar vedta unntak frå hovudregelen om tre forsøk for studentar som allereie har bestått resultat i emnet,
+2. kan gjere unntak frå første til tredje avsnitt i einskildtilfelle etter søknad frå studenten,
+3. skal fastsetje innleveringsfrist for ny levering av bachelorprosjekt/-oppgåve og masterprosjekt/-oppgåve utan bestått resultat etter andre avsnitt. Fristen kan ikkje vere kortare enn tre månader frå sensuren er kunngjort og ikkje lengre enn eitt år frå den opphavlege fristen og
+4. skal etter søknad tillate ny levering av bachelor- og masterprosjekt etter utestenging som følge av fusk, med mindre fusket er av ein karakter som gjer det umogleg. Fakultetet skal sjå til at fusket er retta opp. Studenten kan ikkje levere før etter utestengingsperioden er over, jf. [universitets- og høgskulelova § 12-4 (3)](lov/2024-03-08-9/§12-4/ledd/3) og [(4)](lov/2024-03-08-9/§12-4/ledd/4).
 
 > Endra ved forskrift [13 juni 2024 nr. 1447](forskrift/2024-06-13-1447).
 
 ### § 8-2. Teljande forsøk
 
-(1) Studenten bruker eit eksamensforsøk dersom hen:gjennomfører eksamen, uavhengig av om resultatet blir bestått,avbryt eksamen,ikkje møter til eksamen,trekker seg etter fristen ellerfuskar eller forsøker å fuske
+(1) Studenten bruker eit eksamensforsøk dersom hen:
+
+1. gjennomfører eksamen, uavhengig av om resultatet blir bestått,
+2. avbryt eksamen,
+3. ikkje møter til eksamen,
+4. trekker seg etter fristen eller
+5. fuskar eller forsøker å fuske
 
 (2) Gyldig fråvær tel ikkje som eksamensforsøk, jf. [§ 5-6](forskrift/2023-06-15-1359/§5-6/ledd/5) (5).
 
@@ -456,7 +611,11 @@ Munnlege, praktiske, utøvande og/eller skapande eksamenar skal vere offentlege.
 
 (2) Fakultetet kan i eksamensreglementet og/eller eksamensoppgåva vedta at brot på formelle krav til eksamen (ordgrenser mv.) skal reknast som ikkje levert.
 
-(3) Eksamen startar når:oppgåva er utlevert eller ved førehandskontroll av hjelpemidlar for saleksamen,oppgåva er tilgjengeleg for studentane ved heimeeksamen ellerden første oppgåva er tilgjengeleg for studentane ved mappevurdering
+(3) Eksamen startar når:
+
+1. oppgåva er utlevert eller ved førehandskontroll av hjelpemidlar for saleksamen,
+2. oppgåva er tilgjengeleg for studentane ved heimeeksamen eller
+3. den første oppgåva er tilgjengeleg for studentane ved mappevurdering
 
 (4) For andre eksamensformer startar eksamen på det tidspunkt som er bestemt i emneskildringa eller i studieplanen.
 
@@ -496,7 +655,14 @@ Munnlege, praktiske, utøvande og/eller skapande eksamenar skal vere offentlege.
 
 (3) Ei ugradert vurdering blir markert med «bestått» eller «ikkje bestått». På bokmål «bestått» og «ikke bestått», og engelsk «pass» og «fail».
 
-(4) Bestått resultat etter gradert vurderingsuttrykk blir uttrykt med karakterane A til E. Ikkje bestått blir uttrykt med bokstaven F. Nemning og vurderingskriterier følger Universitets- og høgskulerådet sine kvalitative skildringar.Framifrå prestasjon som skil seg klart ut. Kandidaten syner særs god vurderingsevne og stor av grad av sjølvstende.Mykje god prestasjon. Kandidaten syner mykje god vurderingsevne og sjølvstende.Jamt god prestasjon som er tilfredsstillande på dei fleste områda. Kandidaten syner god vurderingsevne og sjølvstende på dei viktigaste områda.Akseptabel prestasjon med nokre vesentlege manglar. Kandidaten syner ein viss grad av vurderingsevne og sjølvstende.Prestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Kandidaten syner lita vurderingsevne og lite sjølvstendePrestasjon som ikkje tilfredsstiller dei faglege minimumskrava. Kandidaten syner både manglande vurderingsevne og sjølvstende.
+(4) Bestått resultat etter gradert vurderingsuttrykk blir uttrykt med karakterane A til E. Ikkje bestått blir uttrykt med bokstaven F. Nemning og vurderingskriterier følger Universitets- og høgskulerådet sine kvalitative skildringar.
+
+1. Framifrå prestasjon som skil seg klart ut. Kandidaten syner særs god vurderingsevne og stor av grad av sjølvstende.
+2. Mykje god prestasjon. Kandidaten syner mykje god vurderingsevne og sjølvstende.
+3. Jamt god prestasjon som er tilfredsstillande på dei fleste områda. Kandidaten syner god vurderingsevne og sjølvstende på dei viktigaste områda.
+4. Akseptabel prestasjon med nokre vesentlege manglar. Kandidaten syner ein viss grad av vurderingsevne og sjølvstende.
+5. Prestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Kandidaten syner lita vurderingsevne og lite sjølvstende
+6. Prestasjon som ikkje tilfredsstiller dei faglege minimumskrava. Kandidaten syner både manglande vurderingsevne og sjølvstende.
 
 ### § 9-3. Karakterfastsetjing ved eksamen som har fleire delar
 
@@ -542,7 +708,13 @@ Når universitetet knyt rettsverknader til gjennomsnittskarakterar tar ein utgan
 
 (1) Fakultetet utnemner sensorar.
 
-(2) I desse tilfella krevst det minst to sensorar:eksamenar som åleine utgjer 15 studiepoengeksamenar som ikkje lar seg etterprøvesensur av bachelorprosjekt,sensur av masterprosjekt, der minst ein av sensorane må vere ekstern ogklagesensur, der minst ein av sensorane må vere ekstern.
+(2) I desse tilfella krevst det minst to sensorar:
+
+1. eksamenar som åleine utgjer 15 studiepoeng
+2. eksamenar som ikkje lar seg etterprøve
+3. sensur av bachelorprosjekt,
+4. sensur av masterprosjekt, der minst ein av sensorane må vere ekstern og
+5. klagesensur, der minst ein av sensorane må vere ekstern.
 
 (3) Fakultetet kan i utfyllande reglar setje eigne reglar for talet på sensorar, så lenge dei er strengare enn første avsnitt.
 
@@ -574,13 +746,20 @@ All sensur skal protokollførast og sensuren skal bli godkjent av alle sensorane
 
 ### § 10-2. Gjenbruk av studiepoeng i ny grad
 
-(1) Dersom delar av grunnlaget for ei grad allereie inngår i tildelt grad, krevst det:for bachelorgrader minst 90 nye studiepoeng med ny spesialisering,for integrerte mastergrader minst 120 nye studiepoeng, inkludert eit nytt masterprosjekt ogfor andre mastergrader minst nye 60 studiepoeng, inkludert eit nytt masterprosjekt.
+(1) Dersom delar av grunnlaget for ei grad allereie inngår i tildelt grad, krevst det:
+
+1. for bachelorgrader minst 90 nye studiepoeng med ny spesialisering,
+2. for integrerte mastergrader minst 120 nye studiepoeng, inkludert eit nytt masterprosjekt og
+3. for andre mastergrader minst nye 60 studiepoeng, inkludert eit nytt masterprosjekt.
 
 (2) Juridisk fakultet kan gjere unntak frå kravet om nytt masterprosjekt når studenten søker om godkjenning av femte studieår på masterprogrammet i rettsvitskap på grunnlag av ein LLM-grad (Master of Laws) som inneheld eit skriftleg arbeid som fyller dei krav som gjeld for eit masterprosjekt i rettsvitskap.
 
 ### § 10-3. Samansetjing av bachelorgrad
 
-(1) Bachelorgrada blir tildelt på grunnlag av samansetjing vedteken i samsvar med [§§ 2-2](forskrift/2023-06-15-1359/§2-2) og [3-1](forskrift/2023-06-15-1359/§3-1). Ho skal ha 180 studiepoeng og inkludere:examen philosophicum, 10 studiepoeng ogspesialisering, minst 90 studiepoeng, som normalt inkluderer eit sjølvstendig arbeid på minst 10 studiepoeng. Kravet om sjølvstende er ikkje til hinder for at fakultetet kan fastsetje i emneskildringa at to eller fleire studentar kan eller skal samarbeide om eit bachelorprosjekt.
+(1) Bachelorgrada blir tildelt på grunnlag av samansetjing vedteken i samsvar med [§§ 2-2](forskrift/2023-06-15-1359/§2-2) og [3-1](forskrift/2023-06-15-1359/§3-1). Ho skal ha 180 studiepoeng og inkludere:
+
+1. examen philosophicum, 10 studiepoeng og
+2. spesialisering, minst 90 studiepoeng, som normalt inkluderer eit sjølvstendig arbeid på minst 10 studiepoeng. Kravet om sjølvstende er ikkje til hinder for at fakultetet kan fastsetje i emneskildringa at to eller fleire studentar kan eller skal samarbeide om eit bachelorprosjekt.
 
 (2) Bachelorgrader i utøvande og skapande kunst, musikk og design er på 180 eller 240 studiepoeng. Dei blir tildelte på grunnlag av samansetjing vedteken i samsvar med [§§ 2-2](forskrift/2023-06-15-1359/§2-2) og [3-1](forskrift/2023-06-15-1359/§3-1).
 
@@ -624,7 +803,11 @@ All sensur skal protokollførast og sensuren skal bli godkjent av alle sensorane
 
 (2) Mastergrader normert til to år på det medisinske fakultetet får namnet «Master i [fagområde – namn på fag]», engelsk «Master of Science in [discipline – subject]».
 
-(3) Mastergrader på grunnlag av integrert lektorutdanning får namnet «Master i [fag] med lektorkompetanse» engelsk:«Master of Philosophy and Education. [Subject]», dersom det faglege tyngdepunktet er kultur- og samfunnsfag.«Master of Science and Education. [Subject]», dersom det faglege tyngdepunktet er matematisk-naturvitskapleg.
+(3) Mastergrader på grunnlag av integrert lektorutdanning får namnet «Master i [fag] med lektorkompetanse» engelsk:
+
+«Master of Philosophy and Education. [Subject]», dersom det faglege tyngdepunktet er kultur- og samfunnsfag.
+
+«Master of Science and Education. [Subject]», dersom det faglege tyngdepunktet er matematisk-naturvitskapleg.
 
 (4) Mastergrader med matematisk-naturvitskapleg eller teknisk fagleg tyngdepunkt får normalt det engelske namnet «Master of Science in [programme name]».
 
@@ -634,7 +817,13 @@ All sensur skal protokollførast og sensuren skal bli godkjent av alle sensorane
 
 (7) LLM-grad ved det juridiske fakultet har namnet «Master of laws (LLM) in [programme name]».
 
-(8) Følgande grader har særskilde engelsk namn:Master i rettsvitskap: «Master in Law»,Master i farmasi: «Master of Pharmacy»,Master i odontologi: «Master of Dentistry»,Mastergrader frå fakultet for kunst, musikk og design: «Master of/in [programme name]», alternativt «MA Fine Arts» eller «MA Design», dersom slikt namn er vedtatt i studieplanen ogErfaringsbaserte mastergrader: «Master of Arts in [programme name]»
+(8) Følgande grader har særskilde engelsk namn:
+
+1. Master i rettsvitskap: «Master in Law»,
+2. Master i farmasi: «Master of Pharmacy»,
+3. Master i odontologi: «Master of Dentistry»,
+4. Mastergrader frå fakultet for kunst, musikk og design: «Master of/in [programme name]», alternativt «MA Fine Arts» eller «MA Design», dersom slikt namn er vedtatt i studieplanen og
+5. Erfaringsbaserte mastergrader: «Master of Arts in [programme name]»
 
 (9) Fakultetet avgjer i studieplanen om engelskspråklege studieprogram berre skal ha engelsk namn.
 
@@ -652,7 +841,14 @@ All sensur skal protokollførast og sensuren skal bli godkjent av alle sensorane
 
 ### § 12-2. Utforminga av vitnemålet
 
-(1) Vitnemålet skal innehalde:personalia,generell informasjon om studieprogrammet: Læringsutbyteskildring, innhald, organisering og målsetjing,namna, emnekodane, talet på studiepoeng, karakter og karakterfordeling, og når bestått resultat vart oppnådd for alle emne frå UiB som er grunnlag for grada,eventuelle delar som er godkjende i samsvar med [§ 5-7](forskrift/2023-06-15-1359/§5-7) til [§ 5-9](forskrift/2023-06-15-1359/§5-9),skildring av karaktersystemet ogDiploma Supplement, i tråd med retningslinjer frå NOKUT
+(1) Vitnemålet skal innehalde:
+
+1. personalia,
+2. generell informasjon om studieprogrammet: Læringsutbyteskildring, innhald, organisering og målsetjing,
+3. namna, emnekodane, talet på studiepoeng, karakter og karakterfordeling, og når bestått resultat vart oppnådd for alle emne frå UiB som er grunnlag for grada,
+4. eventuelle delar som er godkjende i samsvar med [§ 5-7](forskrift/2023-06-15-1359/§5-7) til [§ 5-9](forskrift/2023-06-15-1359/§5-9),
+5. skildring av karaktersystemet og
+6. Diploma Supplement, i tråd med retningslinjer frå NOKUT
 
 (2) Vitnemålet skal elles utformast i tråd med Universitetsstyret sine retningslinjer.
 
@@ -662,7 +858,11 @@ All sensur skal protokollførast og sensuren skal bli godkjent av alle sensorane
 
 (2) Karakterutskrifta skal innehalde anten alle emne personen har bestått resultat for ved universitetet, eller alle emne i eit einskild studieprogram.
 
-(3) Karakterutskrifta skal innehalde:personalia,namna, emnekodane, talet på studiepoeng, karakter og karakterfordeling, og tidspunktet det bestått resultatet vart oppnådd ogei skildring av karaktersystemet
+(3) Karakterutskrifta skal innehalde:
+
+1. personalia,
+2. namna, emnekodane, talet på studiepoeng, karakter og karakterfordeling, og tidspunktet det bestått resultatet vart oppnådd og
+3. ei skildring av karaktersystemet
 
 (4) Karakterutskrifta blir gjort tilgjengeleg digitalt. Personar med dokumentert behov for karakterutskrift på papir skal få det.
 

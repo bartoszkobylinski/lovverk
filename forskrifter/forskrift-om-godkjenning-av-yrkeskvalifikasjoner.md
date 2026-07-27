@@ -15,7 +15,7 @@ xml_hash: "cf48ab714179b9b55642681c74ccad708c0820fc77c2f2032299ed7dc22ffbf8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,17 @@ For borgere med yrkeskvalifikasjoner fra Storbritannia gjelder kun kapittel 11, 
 
 ### § 1-2. Definisjoner
 
-I forskriften forstås med*foretaksleder:* en person som i et foretak innenfor den aktuelle bransjen har utøvd en virksomhetsom foretaksleder eller leder av en filial av et foretak,som stedfortreder for eieren av et foretak eller en foretaksleder, der stillingen innebærer et ansvar som tilsvarer eierens eller lederens ansvar, elleri en lederstilling med oppgaver av forretningsmessig eller teknisk art samt ansvar for én eller flere av foretakets avdelinger.*livslang læring:* allmenn utdanning, yrkesutdanning, ikke-formell opplæring og uformell læring som en yrkesutøver tilegner seg gjennom livet og som resulterer i økt kunnskap, ferdigheter og kompetanse, herunder faglig etikk.*tvingende allmenne hensyn:* årsaker eller hensyn som er anerkjent som dette i rettspraksis.*beskyttet yrkestittel:* en form for regulering av et yrke, der bruken av tittelen i forbindelse med en eller flere former for yrkesvirksomhet i henhold til lov, forskrift eller administrative bestemmelser, er direkte eller indirekte underlagt krav om en bestemt yrkeskvalifikasjon, og der urettmessig bruk av denne tittelen er underlagt sanksjoner.*reservert yrkesvirksomhet:* en form for regulering av et yrke der adgangen til en eller flere former for yrkesvirksomhet i henhold til lover, forskrifter eller administrative bestemmelser er direkte eller indirekte forbeholdt utøvere av et lovregulert yrke, som har en bestemt yrkeskvalifikasjon, herunder dersom yrkesvirksomheten utøves sammen med andre lovregulerte yrker.
+I forskriften forstås med
+
+1. *foretaksleder:* en person som i et foretak innenfor den aktuelle bransjen har utøvd en virksomhet
+
+   - som foretaksleder eller leder av en filial av et foretak,
+   - som stedfortreder for eieren av et foretak eller en foretaksleder, der stillingen innebærer et ansvar som tilsvarer eierens eller lederens ansvar, eller
+   - i en lederstilling med oppgaver av forretningsmessig eller teknisk art samt ansvar for én eller flere av foretakets avdelinger.
+2. *livslang læring:* allmenn utdanning, yrkesutdanning, ikke-formell opplæring og uformell læring som en yrkesutøver tilegner seg gjennom livet og som resulterer i økt kunnskap, ferdigheter og kompetanse, herunder faglig etikk.
+3. *tvingende allmenne hensyn:* årsaker eller hensyn som er anerkjent som dette i rettspraksis.
+4. *beskyttet yrkestittel:* en form for regulering av et yrke, der bruken av tittelen i forbindelse med en eller flere former for yrkesvirksomhet i henhold til lov, forskrift eller administrative bestemmelser, er direkte eller indirekte underlagt krav om en bestemt yrkeskvalifikasjon, og der urettmessig bruk av denne tittelen er underlagt sanksjoner.
+5. *reservert yrkesvirksomhet:* en form for regulering av et yrke der adgangen til en eller flere former for yrkesvirksomhet i henhold til lover, forskrifter eller administrative bestemmelser er direkte eller indirekte forbeholdt utøvere av et lovregulert yrke, som har en bestemt yrkeskvalifikasjon, herunder dersom yrkesvirksomheten utøves sammen med andre lovregulerte yrker.
 
 > Endret ved forskrift [28 nov 2023 nr. 1934](forskrift/2023-11-28-1934) (i kraft 1 des 2023).
 
@@ -56,13 +66,23 @@ Yrkesutøveren skal følge norske bestemmelser som gjelder for utøvelse av yrke
 
 ### § 2-2. Krav til dokumentasjon ved forhåndsmelding
 
-Dersom yrkesutøveren skal arbeide i Norge for første gang, kan ansvarlig myndighet kreve at yrkesutøveren leverer følgende dokumenter i tillegg til en forhåndsmelding:bevis på identitet og nasjonalitet,bekreftelse på at yrkesutøver er lovlig etablert i en annen EØS-stat eller Sveits og at vedkommende har rett til å arbeide i staten,bevis på yrkeskvalifikasjoner,bekreftelse på at yrkesutøveren har arbeidet i minimum ett år i løpet av de siste ti årene i etableringsstaten, når verken yrket eller utdanningen er lovregulert der,vandelsattest, eller annen bekreftelse på at yrkesutøveren har rett til å arbeide i etableringsstaten, dersom yrkesutøver skal arbeide med yrker som gjelder offentlig sikkerhet eller undervisning av mindreårige, herunder barnehage,for yrker omfattet av automatisk godkjenning av yrkeserfaring, attest utstedt av ansvarlig myndighet som bekrefter innhold og omfang av aktiviteten.
+Dersom yrkesutøveren skal arbeide i Norge for første gang, kan ansvarlig myndighet kreve at yrkesutøveren leverer følgende dokumenter i tillegg til en forhåndsmelding:
+
+1. bevis på identitet og nasjonalitet,
+2. bekreftelse på at yrkesutøver er lovlig etablert i en annen EØS-stat eller Sveits og at vedkommende har rett til å arbeide i staten,
+3. bevis på yrkeskvalifikasjoner,
+4. bekreftelse på at yrkesutøveren har arbeidet i minimum ett år i løpet av de siste ti årene i etableringsstaten, når verken yrket eller utdanningen er lovregulert der,
+5. vandelsattest, eller annen bekreftelse på at yrkesutøveren har rett til å arbeide i etableringsstaten, dersom yrkesutøver skal arbeide med yrker som gjelder offentlig sikkerhet eller undervisning av mindreårige, herunder barnehage,
+6. for yrker omfattet av automatisk godkjenning av yrkeserfaring, attest utstedt av ansvarlig myndighet som bekrefter innhold og omfang av aktiviteten.
 
 Ansvarlig myndighet kan kreve ny dokumentasjon etter første ledd hvis det er vesentlige endringer i yrkesutøverens tidligere innleverte dokumentasjon.
 
 ### § 2-3. Saksbehandling ved midlertidig tjenesteytelse som krever forhåndskontroll
 
-Den ansvarlige myndigheten skal innen en måned etter å ha mottatt forhåndsmelding informere yrkesutøveren om de vil tillate yrkesutøvelse uten videre kontroll, eller foreta kontroll av yrkeskvalifikasjonene herunder åkreve at yrkesutøveren gjennomfører en egnethetsprøve som nevnt i tredje ledd, ellertillate yrkesutøvelse av yrket.
+Den ansvarlige myndigheten skal innen en måned etter å ha mottatt forhåndsmelding informere yrkesutøveren om de vil tillate yrkesutøvelse uten videre kontroll, eller foreta kontroll av yrkeskvalifikasjonene herunder å
+
+1. kreve at yrkesutøveren gjennomfører en egnethetsprøve som nevnt i tredje ledd, eller
+2. tillate yrkesutøvelse av yrket.
 
 Hvis den ansvarlige myndigheten ikke kan overholde fristen som nevnt i første ledd, skal myndigheten innen én måned etter å ha mottatt forhåndsmeldingen, underrette yrkesutøveren om dette og årsaken til forsinkelsen. Årsaken til forsinkelsen skal løses innen én måned etter underrettelsen. Avgjørelse om yrkesutøveren kan utøve yrket skal treffes innen to måneder etter årsaken til forsinkelsen er løst.
 
@@ -80,7 +100,13 @@ Yrkesutøvere som er godkjent for å kunne utøve et yrke hvor det er krav til f
 
 ### § 2-5. Informasjon til tjenestebrukere
 
-I de tilfeller yrkesutøveren bruker yrkestittelen fra en medlemsstat vedkommende er etablert i eller benytter tittelen på sitt kvalifikasjonsbevis, kan den ansvarlige myndigheten kreve at yrkesutøveren gir tjenestemottakerne en eller flere av følgende skriftlige opplysninger:registreringsnummer i offentlig register i etableringsstat eller annen type identifikasjon av yrkesutøver,navn og adresse på tilsynsmyndigheten i etableringsstaten, hvis virksomheten er underlagt en godkjenningsordning,navn på bransjeorganisasjon eller lignende hvor yrkesutøver er registrert,yrkestittel, eller eksamensbevis hvis yrkestittel ikke finnes,forsikringsdekning eller andre former for personlig eller kollektiv beskyttelse med hensyn til yrkesansvar.
+I de tilfeller yrkesutøveren bruker yrkestittelen fra en medlemsstat vedkommende er etablert i eller benytter tittelen på sitt kvalifikasjonsbevis, kan den ansvarlige myndigheten kreve at yrkesutøveren gir tjenestemottakerne en eller flere av følgende skriftlige opplysninger:
+
+1. registreringsnummer i offentlig register i etableringsstat eller annen type identifikasjon av yrkesutøver,
+2. navn og adresse på tilsynsmyndigheten i etableringsstaten, hvis virksomheten er underlagt en godkjenningsordning,
+3. navn på bransjeorganisasjon eller lignende hvor yrkesutøver er registrert,
+4. yrkestittel, eller eksamensbevis hvis yrkestittel ikke finnes,
+5. forsikringsdekning eller andre former for personlig eller kollektiv beskyttelse med hensyn til yrkesansvar.
 
 > Endret ved forskrift [8 sep 2021 nr. 2753](forskrift/2021-09-08-2753) (i kraft 1 jan 2022).
 
@@ -90,7 +116,11 @@ Yrkesutøver som ikke gis rett til å utøve yrket midlertidig, kan gis delvis a
 
 ### § 2-7. Administrativt samarbeid
 
-Den ansvarlige myndigheten i Norge kan ved begrunnet tvil be en ansvarlig myndighet i annen EØS-stat og Sveits om informasjon om yrkesutøverener lovlig etablerthar redelig adferdhar vært ilagt disiplinære eller strafferettslige sanksjoner i forbindelse med utøvelse av yrket.
+Den ansvarlige myndigheten i Norge kan ved begrunnet tvil be en ansvarlig myndighet i annen EØS-stat og Sveits om informasjon om yrkesutøveren
+
+1. er lovlig etablert
+2. har redelig adferd
+3. har vært ilagt disiplinære eller strafferettslige sanksjoner i forbindelse med utøvelse av yrket.
 
 I de tilfeller den ansvarlige myndigheten ønsker å kontrollere yrkesutøverens yrkeskvalifikasjoner, kan de be om informasjon om yrkesutøverens utdanningsløp fra ansvarlig myndighet i etableringsstaten. En slik kontroll kan gjennomføres for å kunne vurdere om det er vesentlige forskjeller i yrkesutøverens utdanning sammenliknet med den utdanningen som kreves i Norge, og hvorvidt de vesentlige forskjellene kan føre til skade på offentlig sikkerhet og helse.
 
@@ -116,7 +146,10 @@ Ved vurdering av vilkår for godkjenning etter dette kapittelet skal yrkeskvalif
 
 ### § 3-2. Likebehandling av kvalifikasjonsbevis
 
-Andre kvalifikasjonsbevis enn de som er nevnt i [§ 3-1](forskrift/2017-12-22-2384/§3-1), skal likestilles med bevis etter den bestemmelsen dersom følgende krav oppfylles:kvalifikasjonsbeviset er utstedt av en ansvarlig myndighet i en EØS-stat og har gitt søker rett til å utøve yrket der, ogopplæringen er på tilsvarende nivå i en annen EØS-stat eller Sveits.
+Andre kvalifikasjonsbevis enn de som er nevnt i [§ 3-1](forskrift/2017-12-22-2384/§3-1), skal likestilles med bevis etter den bestemmelsen dersom følgende krav oppfylles:
+
+1. kvalifikasjonsbeviset er utstedt av en ansvarlig myndighet i en EØS-stat og har gitt søker rett til å utøve yrket der, og
+2. opplæringen er på tilsvarende nivå i en annen EØS-stat eller Sveits.
 
 ### § 3-3. Vilkår for godkjenning
 
@@ -138,7 +171,10 @@ Den ansvarlige myndigheten kan avslå søknad fra yrkesutøver med yrkeskvalifik
 
 ### § 3-4. Utligningstiltak
 
-Den ansvarlige myndigheten kan pålegge yrkesutøveren å fullføre en prøveperiode i inntil tre år eller bestå en egnethetsprøve etter [§ 8-7](forskrift/2017-12-22-2384/§8-7) og [§ 8-8](forskrift/2017-12-22-2384/§8-8), når:innholdet i yrkesutøverens utdanning er vesentlig forskjellig fra innholdet i den norske utdanningen, elleryrket i Norge omfatter regulerte yrkesaktiviteter som ikke inngår i en sammenlignbar form i det tilsvarende yrket i yrkesutøvers hjemstat, og den norske utdanningen omfatter fag som er vesentlig forskjellig fra yrkesutøvers utdanning.
+Den ansvarlige myndigheten kan pålegge yrkesutøveren å fullføre en prøveperiode i inntil tre år eller bestå en egnethetsprøve etter [§ 8-7](forskrift/2017-12-22-2384/§8-7) og [§ 8-8](forskrift/2017-12-22-2384/§8-8), når:
+
+1. innholdet i yrkesutøverens utdanning er vesentlig forskjellig fra innholdet i den norske utdanningen, eller
+2. yrket i Norge omfatter regulerte yrkesaktiviteter som ikke inngår i en sammenlignbar form i det tilsvarende yrket i yrkesutøvers hjemstat, og den norske utdanningen omfatter fag som er vesentlig forskjellig fra yrkesutøvers utdanning.
 
 Med vesentlig forskjell menes forskjeller i kunnskap, ferdigheter og generell kompetanse som er nødvendig for å utøve yrket.
 
@@ -152,7 +188,13 @@ En prøveperiode for yrkesutøver med yrkeskvalifikasjoner fra tredjeland kan ik
 
 ### § 3-5. Unntak fra yrkesutøvers valgfrihet ved utligningstiltak
 
-Yrkesutøveren kan velge mellom en prøveperiode eller en egnethetsprøve. Dersom det er nødvendig, kan det gjøres unntak fra yrkesutøverens valgfrihet i følgende tilfeller:utøvelsen av yrket krever særlig kjennskap til nasjonal rett, og yrket består i vesentlig grad av å gi råd og veiledning om nasjonal rett,yrkesutøver som ikke omfattes av godkjenning av yrkeserfaring, som nevnt i [kapittel 4](forskrift/2017-12-22-2384/kap4), og som ønsker å etablere seg som selvstendig næringsdrivende innenfor et område som krever kunnskap om og anvendelse av nasjonale særregler,yrkesutøver med kvalifikasjoner vist med kursbevis som nevnt i [§ 3-1](forskrift/2017-12-22-2384/§3-1) nivå A, og hvor det i Norge kreves kvalifikasjoner på nivå C,yrkesutøver med kvalifikasjoner vist med attest med fullført videregående opplæring som nevnt i [§ 3-1](forskrift/2017-12-22-2384/§3-1) nivå B, og hvor det i Norge kreves kvalifikasjoner på nivå D, elleryrkesutøver som omfattes av [forskrift om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav kapittel 26](forskrift/2011-12-06-1357/kap26) om sikkerhet og helse ved arbeid under vann eller økt omgivende trykk.
+Yrkesutøveren kan velge mellom en prøveperiode eller en egnethetsprøve. Dersom det er nødvendig, kan det gjøres unntak fra yrkesutøverens valgfrihet i følgende tilfeller:
+
+1. utøvelsen av yrket krever særlig kjennskap til nasjonal rett, og yrket består i vesentlig grad av å gi råd og veiledning om nasjonal rett,
+2. yrkesutøver som ikke omfattes av godkjenning av yrkeserfaring, som nevnt i [kapittel 4](forskrift/2017-12-22-2384/kap4), og som ønsker å etablere seg som selvstendig næringsdrivende innenfor et område som krever kunnskap om og anvendelse av nasjonale særregler,
+3. yrkesutøver med kvalifikasjoner vist med kursbevis som nevnt i [§ 3-1](forskrift/2017-12-22-2384/§3-1) nivå A, og hvor det i Norge kreves kvalifikasjoner på nivå C,
+4. yrkesutøver med kvalifikasjoner vist med attest med fullført videregående opplæring som nevnt i [§ 3-1](forskrift/2017-12-22-2384/§3-1) nivå B, og hvor det i Norge kreves kvalifikasjoner på nivå D, eller
+5. yrkesutøver som omfattes av [forskrift om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav kapittel 26](forskrift/2011-12-06-1357/kap26) om sikkerhet og helse ved arbeid under vann eller økt omgivende trykk.
 
 Dersom yrkesutøveren innehar kursbevis som nevnt i [§ 3-1](forskrift/2017-12-22-2384/§3-1) nivå A, men hvor yrket i Norge krever kvalifikasjoner på nivå D, kan den ansvarlige myndigheten pålegge yrkesutøveren å utføre både prøveperiode og egnethetsprøve.
 
@@ -164,7 +206,10 @@ Adgangen til å velge mellom prøveperiode og egnethetsprøve gjelder ikke for y
 
 Før vedtak om utligningstiltak treffes, skal den ansvarlige myndigheten vurdere om den kunnskap som yrkesutøveren har ervervet ved sin yrkeserfaring eller livslange læring, helt eller delvis utligner den vesentlige forskjellen fra utdanningen som kreves i Norge.
 
-Vedtak om utligningstiltak skal begrunnes og den ansvarlige myndigheten skal informere yrkesutøveren omhvilket kvalifikasjonsnivå som kreves for å utføre yrket og hvilket kvalifikasjonsnivå yrkesutøver har i henhold til [§ 3-1](forskrift/2017-12-22-2384/§3-1), oghvilke vesentlige forskjeller som ble lagt til grunn for vurderingen og begrunnelse for hvorfor forskjellene ikke kan bli avhjulpet av den kunnskapen som yrkesutøveren har ervervet ved sin yrkeserfaring eller livslang læring.
+Vedtak om utligningstiltak skal begrunnes og den ansvarlige myndigheten skal informere yrkesutøveren om
+
+1. hvilket kvalifikasjonsnivå som kreves for å utføre yrket og hvilket kvalifikasjonsnivå yrkesutøver har i henhold til [§ 3-1](forskrift/2017-12-22-2384/§3-1), og
+2. hvilke vesentlige forskjeller som ble lagt til grunn for vurderingen og begrunnelse for hvorfor forskjellene ikke kan bli avhjulpet av den kunnskapen som yrkesutøveren har ervervet ved sin yrkeserfaring eller livslang læring.
 
 Yrkesutøveren skal gis mulighet til å ta egnethetsprøve senest seks måneder etter vedtaket, der det ikke kreves prøveperiode.
 
@@ -172,7 +217,11 @@ Yrkesutøveren skal gis mulighet til å ta egnethetsprøve senest seks måneder 
 
 ### § 3-7. Delvis adgang til et yrke ved etablering
 
-Den ansvarlige myndigheten kan, etter en individuell vurdering, gi yrkesutøveren delvis adgang til et yrke når:yrkesutøveren er fullt ut kvalifisert til å utøve yrket i etableringsstaten,forskjellen mellom yrkesutøverens kvalifikasjoner og de kvalifikasjoner som kreves i Norge er så store at yrkesutøveren må ta hele utdanningen på nytt, ogyrkesaktiviteten kan skilles ut fra annen aktivitet i det lovregulerte yrket i Norge.
+Den ansvarlige myndigheten kan, etter en individuell vurdering, gi yrkesutøveren delvis adgang til et yrke når:
+
+1. yrkesutøveren er fullt ut kvalifisert til å utøve yrket i etableringsstaten,
+2. forskjellen mellom yrkesutøverens kvalifikasjoner og de kvalifikasjoner som kreves i Norge er så store at yrkesutøveren må ta hele utdanningen på nytt, og
+3. yrkesaktiviteten kan skilles ut fra annen aktivitet i det lovregulerte yrket i Norge.
 
 Den ansvarlige myndigheten skal i vurderingen av om yrkesutøveren kan få delvis adgang etter første ledd bokstav c, ta hensyn til om yrkesutøveren kan utøve yrket selvstendig i hjemstaten.
 
@@ -188,15 +237,33 @@ For yrker som omfattes av aktivitet som krever spesifikk yrkeserfaring og opplæ
 
 ### § 4-2. Krav til yrkeserfaringens lengde som omfattes av yrker nevnt i vedlegg 1, liste 1
 
-For å få godkjenning som nevnt i [§ 4-1](forskrift/2017-12-22-2384/§4-1), må yrkesutøveren ha utøvet slike aktiviteter som nevnt i liste 1 i:seks sammenhengende år som selvstendig næringsdrivende eller foretaksleder,tre sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med at vedkommende har minimum tre års opplæring innenfor fagområdet,fire sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med at vedkommende har minimum to års opplæring innenfor fagområdet,tre sammenhengende år som selvstendig næringsdrivende kombinert med at vedkommende har utøvet yrket innenfor fagområdet i minimum fem år som arbeidstaker, ellerfem sammenhengende år i ledende stilling, hvorav minst tre år med tekniske oppgaver og med ansvar for minst en avdeling i foretaket, hvor yrkesutøver kan dokumentere at vedkommende har minimum tre års opplæring innenfor fagområdet.
+For å få godkjenning som nevnt i [§ 4-1](forskrift/2017-12-22-2384/§4-1), må yrkesutøveren ha utøvet slike aktiviteter som nevnt i liste 1 i:
+
+1. seks sammenhengende år som selvstendig næringsdrivende eller foretaksleder,
+2. tre sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med at vedkommende har minimum tre års opplæring innenfor fagområdet,
+3. fire sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med at vedkommende har minimum to års opplæring innenfor fagområdet,
+4. tre sammenhengende år som selvstendig næringsdrivende kombinert med at vedkommende har utøvet yrket innenfor fagområdet i minimum fem år som arbeidstaker, eller
+5. fem sammenhengende år i ledende stilling, hvorav minst tre år med tekniske oppgaver og med ansvar for minst en avdeling i foretaket, hvor yrkesutøver kan dokumentere at vedkommende har minimum tre års opplæring innenfor fagområdet.
 
 ### § 4-3. Krav til yrkeserfaringens lengde som omfattes av yrker nevnt i vedlegg 1, liste 2
 
-For å få godkjenning som nevnt i [§ 4-1](forskrift/2017-12-22-2384/§4-1), må yrkesutøveren ha utøvet slike aktiviteter som nevnt i liste 2 i:fem sammenhengende år som selvstendig næringsdrivende eller foretaksleder,tre sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med at vedkommende har minimum tre års opplæring innenfor fagområdet,fire sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med at vedkommende har minimum to års opplæring innenfor fagområdet,tre sammenhengende år som selvstendig næringsdrivende kombinert med at vedkommende har utøvet yrket innenfor fagområdet i minimum fem år som arbeidstaker,fem sammenhengende år som arbeidstaker kombinert med at vedkommende har minimum tre års opplæring innenfor fagområdet, ellerseks sammenhengende år som arbeidstaker kombinert med minimum to års opplæring innenfor fagområdet.
+For å få godkjenning som nevnt i [§ 4-1](forskrift/2017-12-22-2384/§4-1), må yrkesutøveren ha utøvet slike aktiviteter som nevnt i liste 2 i:
+
+1. fem sammenhengende år som selvstendig næringsdrivende eller foretaksleder,
+2. tre sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med at vedkommende har minimum tre års opplæring innenfor fagområdet,
+3. fire sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med at vedkommende har minimum to års opplæring innenfor fagområdet,
+4. tre sammenhengende år som selvstendig næringsdrivende kombinert med at vedkommende har utøvet yrket innenfor fagområdet i minimum fem år som arbeidstaker,
+5. fem sammenhengende år som arbeidstaker kombinert med at vedkommende har minimum tre års opplæring innenfor fagområdet, eller
+6. seks sammenhengende år som arbeidstaker kombinert med minimum to års opplæring innenfor fagområdet.
 
 ### § 4-4. Krav til yrkeserfaringens lengde som omfattes av yrker nevnt i vedlegg 1, liste 3
 
-For å få godkjenning som nevnt i [§ 4-1](forskrift/2017-12-22-2384/§4-1), må yrkesutøveren ha utøvet slike aktiviteter som nevnt i liste 3 i:tre sammenhengende år som selvstendig næringsdrivende eller foretaksleder,to sammenhengende år som selvstendig næringsdrivende eller foretaksleder og opplæring innenfor fagområdet,to sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med at vedkommende har utøvet yrket innenfor fagområdet i minimum tre år som arbeidstaker, ellertre sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med opplæring innenfor fagområdet.
+For å få godkjenning som nevnt i [§ 4-1](forskrift/2017-12-22-2384/§4-1), må yrkesutøveren ha utøvet slike aktiviteter som nevnt i liste 3 i:
+
+1. tre sammenhengende år som selvstendig næringsdrivende eller foretaksleder,
+2. to sammenhengende år som selvstendig næringsdrivende eller foretaksleder og opplæring innenfor fagområdet,
+3. to sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med at vedkommende har utøvet yrket innenfor fagområdet i minimum tre år som arbeidstaker, eller
+4. tre sammenhengende år som selvstendig næringsdrivende eller foretaksleder kombinert med opplæring innenfor fagområdet.
 
 ### § 4-5. Krav til dokumentasjon av yrkeserfaring og eventuell opplæring
 
@@ -218,7 +285,10 @@ Ikke i kraft, jf. [§ 10-1](forskrift/2017-12-22-2384/§10-1).
 
 ### § 6-1. Yrker regulert av yrkeskvalifikasjonsloven som omfattes av profesjonskort
 
-Yrker som omfattes av ordningen med profesjonskort:eiendomsmeglerfjellfører.
+Yrker som omfattes av ordningen med profesjonskort:
+
+1. eiendomsmegler
+2. fjellfører.
 
 ### § 6-2. Søknad om profesjonskort
 
@@ -284,7 +354,13 @@ Personlige opplysninger i IMI er registrert så lenge yrkesutøveren innehar et 
 
 Varslingsplikten omfatter yrker som gjelder opplæring av mindreårige, inkludert barnehage, og hvor yrkesutøver har fått begrenset retten til å utøve yrket av nasjonal myndigheter eller domstoler, både midlertidig og permanent. Varslingsplikten omfatter også tilfeller der en yrkesutøver er dømt for bruk av falske dokumenter i forbindelse med søknad om godkjenning til et lovregulert yrke som omfattes av loven.
 
-Den ansvarlige myndigheten skal sende varsel til andre ansvarlige myndigheter i EØS via IMI med følgende opplysninger:yrkesutøvers identitet,hvilket yrke det gjelder,opplysninger om den nasjonale myndigheten eller domstolen som har truffet avgjørelsen om begrensning eller forbudet,omfanget av begrensningen eller forbudet, ogtidsrommet som begrensningen eller forbudet gjelder for.
+Den ansvarlige myndigheten skal sende varsel til andre ansvarlige myndigheter i EØS via IMI med følgende opplysninger:
+
+1. yrkesutøvers identitet,
+2. hvilket yrke det gjelder,
+3. opplysninger om den nasjonale myndigheten eller domstolen som har truffet avgjørelsen om begrensning eller forbudet,
+4. omfanget av begrensningen eller forbudet, og
+5. tidsrommet som begrensningen eller forbudet gjelder for.
 
 Opplysningene om varsler kan behandles i IMI så lenge de er gyldige. Dersom vedtaket eller dom opphører, skal varslingen slettes i løpet av tre dager. Den ansvarlige myndigheten som la inn varselet skal via IMI orientere andre ansvarlige myndigheter i EØS uten ugrunnet opphold om når begrensningen eller forbudet mot å utøve yrket opphører for en yrkesutøver.
 
@@ -300,13 +376,25 @@ Den ansvarlige myndigheten kan ved søknad om etablering kreve dokumentasjon som
 
 Dersom det foreligger begrunnet tvil, kan den ansvarlige myndigheten kreve at hjemstatens eller etableringsstatens ansvarlige myndighet bekrefter ektheten av utstedt attest og kvalifikasjonsbevis. Der det er relevant kan den ansvarlige myndigheten kreve en bekreftelse på at yrkesutøveren oppfyller kravene til automatisk godkjenning etter [kapittel 4](forskrift/2017-12-22-2384/kap4).
 
-For kvalifikasjonsbevis som er utstedt av en ansvarlig myndighet i hjemstaten, og som omfatter opplæring helt eller delvis tatt i en annen EØS-stat enn hjemstaten, kan den ansvarlige myndigheten i Norge ved begrunnet tvil, og i samarbeid med hjemstaten, kontrollere:om opplæringen ved den berørte utdanningsinstitusjonen er formelt godkjent av utdanningsinstitusjonen i hjemstaten,om det utstedte kvalifikasjonsbeviset er det samme som ville vært utstedt dersom opplæringen i sin helhet hadde funnet sted i hjemstaten, ogom kvalifikasjonsbeviset gir samme yrkesmessige rettigheter i hjemstaten hvor kvalifikasjonsbeviset er utstedt.
+For kvalifikasjonsbevis som er utstedt av en ansvarlig myndighet i hjemstaten, og som omfatter opplæring helt eller delvis tatt i en annen EØS-stat enn hjemstaten, kan den ansvarlige myndigheten i Norge ved begrunnet tvil, og i samarbeid med hjemstaten, kontrollere:
+
+1. om opplæringen ved den berørte utdanningsinstitusjonen er formelt godkjent av utdanningsinstitusjonen i hjemstaten,
+2. om det utstedte kvalifikasjonsbeviset er det samme som ville vært utstedt dersom opplæringen i sin helhet hadde funnet sted i hjemstaten, og
+3. om kvalifikasjonsbeviset gir samme yrkesmessige rettigheter i hjemstaten hvor kvalifikasjonsbeviset er utstedt.
 
 Dersom det foreligger begrunnet tvil kan den ansvarlige myndigheten be om en bekreftelse fra ansvarlig myndighet i annen EØS-stat om at yrkesutøveren ikke har fått begrenset, eller et forbud mot å utøve yrket, som følge av alvorlig forsømmelse eller dom for et straffbart forhold i forbindelse med utøvelsen av yrket.
 
 Utveksling av opplysninger i henhold til denne bestemmelsen skal foregå via IMI.
 
-For yrkesutøver med yrkeskvalifikasjoner fra tredjeland gjelder de samme kravene til dokumentasjon som for EU/EØS-borgere. Den ansvarlige myndigheten kan kreve at søkeren fremlegger nødvendig dokumentasjon for å få behandlet søknaden, som for eksempel:bevis på statsborgerskap,kopi av kompetanse- eller kvalifikasjonsbevis, og dersom det er hensiktsmessig attest på yrkeserfaring,opplysninger om utdanningen,bevis på god vandel eller hederlighet,bevis på at yrkesutøver ikke er erklært konkurs,bevis for yrkesutøvers finansielle stilling,bevis for at yrkesutøver ikke midlertidig eller endelig er frakjent retten til å utøve yrket eller dømt for noe straffbart forhold.
+For yrkesutøver med yrkeskvalifikasjoner fra tredjeland gjelder de samme kravene til dokumentasjon som for EU/EØS-borgere. Den ansvarlige myndigheten kan kreve at søkeren fremlegger nødvendig dokumentasjon for å få behandlet søknaden, som for eksempel:
+
+1. bevis på statsborgerskap,
+2. kopi av kompetanse- eller kvalifikasjonsbevis, og dersom det er hensiktsmessig attest på yrkeserfaring,
+3. opplysninger om utdanningen,
+4. bevis på god vandel eller hederlighet,
+5. bevis på at yrkesutøver ikke er erklært konkurs,
+6. bevis for yrkesutøvers finansielle stilling,
+7. bevis for at yrkesutøver ikke midlertidig eller endelig er frakjent retten til å utøve yrket eller dømt for noe straffbart forhold.
 
 Den ansvarlige myndigheten kan kreve at søkeren innhenter bekreftelse på ektheten av utstedte attester og kvalifikasjonsbevis.
 
@@ -394,19 +482,40 @@ Den ansvarlige myndigheten skal foreta en forholdsmessighetsvurdering før det v
 
 ### § 10-3. Krav til forholdsmessighetsvurderingen
 
-Forholdsmessighetsvurderingen skalstå i forhold til den foreslåtte regelen og dens karakter, innhold og virkning,følges av en beskrivelse som er tilstrekkelig detaljert til at det kan vurderes om forholdsmessighetsprinsippet er overholdt,understøttes av kvalitative og, når det er mulig og relevant, kvantitative opplysninger ogskje på en objektiv og uavhengig måte.
+Forholdsmessighetsvurderingen skal
+
+1. stå i forhold til den foreslåtte regelen og dens karakter, innhold og virkning,
+2. følges av en beskrivelse som er tilstrekkelig detaljert til at det kan vurderes om forholdsmessighetsprinsippet er overholdt,
+3. understøttes av kvalitative og, når det er mulig og relevant, kvantitative opplysninger og
+4. skje på en objektiv og uavhengig måte.
 
 > Tilføyd ved forskrift [28 nov 2023 nr. 1934](forskrift/2023-11-28-1934) (i kraft 1 des 2023).
 
 ### § 10-4. Krav til regulering
 
-Den ansvarlige myndigheten skal sikre at forslaget er forenlig med følgende prinsipper:kravene må verken direkte eller indirekte være diskriminerende på grunnlag av nasjonalitet eller bosted,kravene må være begrunnet ut fra formål i allmenhetens interesse, jf. § 10-5 ogforholdsmessighetsvurderingen skal vise at de foreslåtte kravene er egnet til å sikre at det fastsatte formålet nås, og at kravene ikke går lenger enn det som er nødvendig.
+Den ansvarlige myndigheten skal sikre at forslaget er forenlig med følgende prinsipper:
+
+1. kravene må verken direkte eller indirekte være diskriminerende på grunnlag av nasjonalitet eller bosted,
+2. kravene må være begrunnet ut fra formål i allmenhetens interesse, jf. § 10-5 og
+3. forholdsmessighetsvurderingen skal vise at de foreslåtte kravene er egnet til å sikre at det fastsatte formålet nås, og at kravene ikke går lenger enn det som er nødvendig.
 
 > Tilføyd ved forskrift [28 nov 2023 nr. 1934](forskrift/2023-11-28-1934) (i kraft 1 des 2023).
 
 ### § 10-5. Formål i allmenhetens interesse
 
-Formål i allmennhetens interesse som kan begrunne et forslag til regler er blant annet:offentlig orden, offentlig sikkerhet eller folkehelsen,bevaring av den økonomiske stabiliteten i trygdeordningen,vern av forbrukere, av tjenestemottakere og av arbeidstakere,sikring av god rettspleie,sikring av rettferdige handelstransaksjoner,bekjempelse av bedrageri og forebygging av skatteunndragelse og skatteflukt, og sikring av effektiv skattekontroll,transportsikkerhet,vern av miljø og bymiljø,dyrehelse,immaterialrettigheter ogsikring og bevaring av den nasjonale historiske og kunstneriske arven, sosialpolitiske mål og kulturpolitiske mål.
+Formål i allmennhetens interesse som kan begrunne et forslag til regler er blant annet:
+
+1. offentlig orden, offentlig sikkerhet eller folkehelsen,
+2. bevaring av den økonomiske stabiliteten i trygdeordningen,
+3. vern av forbrukere, av tjenestemottakere og av arbeidstakere,
+4. sikring av god rettspleie,
+5. sikring av rettferdige handelstransaksjoner,
+6. bekjempelse av bedrageri og forebygging av skatteunndragelse og skatteflukt, og sikring av effektiv skattekontroll,
+7. transportsikkerhet,
+8. vern av miljø og bymiljø,
+9. dyrehelse,
+10. immaterialrettigheter og
+11. sikring og bevaring av den nasjonale historiske og kunstneriske arven, sosialpolitiske mål og kulturpolitiske mål.
 
 Økonomiske eller administrative hensyn kan ikke begrunne en begrensning av adgangen til, eller utøvelsen av, et lovregulert yrke.
 
@@ -414,19 +523,46 @@ Formål i allmennhetens interesse som kan begrunne et forslag til regler er blan
 
 ### § 10-6. Vurdering av forholdsmessighet
 
-I forholdsmessighetsvurderingen etter § 10-4 bokstav c skal myndigheten med utgangspunkt i formål i allmenhetens interesse vurdere:arten av risiko som er knyttet til de ønskede målene, særlig risikoene for mottakerne av tjenestene, herunder forbrukere, yrkesutøvere og tredjeparter,om eksisterende regler av spesifikk eller mer generell art, slik som de i produktsikkerhets- eller forbrukervernlovgivning er utilstrekkelige for å nå det ønskede målet,bestemmelsens egnethet, om den er hensiktsmessig for å nå det ønskede målet og om den faktisk gjenspeiler målet på en konsekvent og systematisk måte, sammenliknet med hvordan lignende risiko i sammenlignbare yrkesvirksomheter blir behandlet,virkningen for fri bevegelse av personer og tjenester, forbrukernes valgmuligheter og tjenestens kvalitet,muligheten for å bruke mindre restriktive midler for å nå målet i allmennhetens interesse, ogom de nye eller endrede reglene hver for seg bidrar til, og er nødvendige for, å nå formålet i allmenhetens interesse når de kombineres med andre krav som begrenser adgangen til yrket.
+I forholdsmessighetsvurderingen etter § 10-4 bokstav c skal myndigheten med utgangspunkt i formål i allmenhetens interesse vurdere:
+
+1. arten av risiko som er knyttet til de ønskede målene, særlig risikoene for mottakerne av tjenestene, herunder forbrukere, yrkesutøvere og tredjeparter,
+2. om eksisterende regler av spesifikk eller mer generell art, slik som de i produktsikkerhets- eller forbrukervernlovgivning er utilstrekkelige for å nå det ønskede målet,
+3. bestemmelsens egnethet, om den er hensiktsmessig for å nå det ønskede målet og om den faktisk gjenspeiler målet på en konsekvent og systematisk måte, sammenliknet med hvordan lignende risiko i sammenlignbare yrkesvirksomheter blir behandlet,
+4. virkningen for fri bevegelse av personer og tjenester, forbrukernes valgmuligheter og tjenestens kvalitet,
+5. muligheten for å bruke mindre restriktive midler for å nå målet i allmennhetens interesse, og
+6. om de nye eller endrede reglene hver for seg bidrar til, og er nødvendige for, å nå formålet i allmenhetens interesse når de kombineres med andre krav som begrenser adgangen til yrket.
 
 > Tilføyd ved forskrift [28 nov 2023 nr. 1934](forskrift/2023-11-28-1934) (i kraft 1 des 2023).
 
 ### § 10-7. Momenter i forholdsmessighetsvurderingen når nye eller endrede regler kombineres med andre krav som begrenser adgangen til yrket
 
-I forholdsmessighetsvurderingen etter § 10-6 bokstav f skal det tas særskilt hensyn til:om yrket reguleres ved en beskyttet yrkestittel, reservert yrkesvirksomhet eller annen måte,om det stilles krav til å gjennomgå løpende faglig utvikling,krav til organisering av yrket, yrkesetikk eller tilsyn,krav til medlemskap i en yrkesorganisasjon eller bransjeorgan, registrerings- eller godkjenningsordning, særlig når kravene forutsetter en bestemt yrkeskvalifikasjon,kvantitative restriksjoner, spesielt krav som begrenser antallet tillatelser til utøvelse av yrket, eller krav til antall ansatte, ledere eller representanter med bestemte yrkeskvalifikasjoner,krav til en bestemt juridisk organisasjonsform eller krav til aksjeinnehav eller ledelsen i et selskap, og som er direkte knyttet til utøvelsen av det lovregulerte yrket,regionale begrensninger,begrensninger i muligheten til å utøve et lovregulert yrke sammen med andre yrkesvirksomheter,krav til forsikringsdekning,språkkrav, i det omfang de er nødvendige for å utøve yrket,krav om faste minstesatser eller minimumssatser ogkrav som gjelder markedsføring.
+I forholdsmessighetsvurderingen etter § 10-6 bokstav f skal det tas særskilt hensyn til:
+
+1. om yrket reguleres ved en beskyttet yrkestittel, reservert yrkesvirksomhet eller annen måte,
+2. om det stilles krav til å gjennomgå løpende faglig utvikling,
+3. krav til organisering av yrket, yrkesetikk eller tilsyn,
+4. krav til medlemskap i en yrkesorganisasjon eller bransjeorgan, registrerings- eller godkjenningsordning, særlig når kravene forutsetter en bestemt yrkeskvalifikasjon,
+5. kvantitative restriksjoner, spesielt krav som begrenser antallet tillatelser til utøvelse av yrket, eller krav til antall ansatte, ledere eller representanter med bestemte yrkeskvalifikasjoner,
+6. krav til en bestemt juridisk organisasjonsform eller krav til aksjeinnehav eller ledelsen i et selskap, og som er direkte knyttet til utøvelsen av det lovregulerte yrket,
+7. regionale begrensninger,
+8. begrensninger i muligheten til å utøve et lovregulert yrke sammen med andre yrkesvirksomheter,
+9. krav til forsikringsdekning,
+10. språkkrav, i det omfang de er nødvendige for å utøve yrket,
+11. krav om faste minstesatser eller minimumssatser og
+12. krav som gjelder markedsføring.
 
 > Tilføyd ved forskrift [28 nov 2023 nr. 1934](forskrift/2023-11-28-1934) (i kraft 1 des 2023).
 
 ### § 10-8. Andre relevante vurderinger av forholdsmessighet
 
-Når det er relevant, skal myndigheten også ta hensyn til følgende i forholdsmessighetsvurderingen:hvordan kravet er knyttet til den yrkesvirksomhet som omfattes av yrket, eller er forbeholdt yrket og den yrkeskvalifikasjonen som kreves,hvordan kravet er knyttet til de aktuelle oppgavenes kompleksitet og de yrkeskvalifikasjonene som kreves, særlig når det gjelder nivået, arten og varigheten til opplæringen eller yrkeserfaringen,muligheten til å tilegne seg yrkeskvalifikasjonen på alternative måter,om yrkesvirksomhet som er forbeholdt visse yrker, kan eller ikke kan utøves sammen med andre yrker,graden av selvstendighet ved utøvelse av yrket ogvitenskapelig og teknisk utvikling som påvirker forbrukernes mulighet til å vurdere kvaliteten på tjenesten som ytes av yrkesutøveren.
+Når det er relevant, skal myndigheten også ta hensyn til følgende i forholdsmessighetsvurderingen:
+
+1. hvordan kravet er knyttet til den yrkesvirksomhet som omfattes av yrket, eller er forbeholdt yrket og den yrkeskvalifikasjonen som kreves,
+2. hvordan kravet er knyttet til de aktuelle oppgavenes kompleksitet og de yrkeskvalifikasjonene som kreves, særlig når det gjelder nivået, arten og varigheten til opplæringen eller yrkeserfaringen,
+3. muligheten til å tilegne seg yrkeskvalifikasjonen på alternative måter,
+4. om yrkesvirksomhet som er forbeholdt visse yrker, kan eller ikke kan utøves sammen med andre yrker,
+5. graden av selvstendighet ved utøvelse av yrket og
+6. vitenskapelig og teknisk utvikling som påvirker forbrukernes mulighet til å vurdere kvaliteten på tjenesten som ytes av yrkesutøveren.
 
 > Tilføyd ved forskrift [28 nov 2023 nr. 1934](forskrift/2023-11-28-1934) (i kraft 1 des 2023).
 
@@ -482,7 +618,10 @@ Den ansvarlige myndigheten skal godkjenne yrkeskvalifikasjonene til en yrkesutø
 
 ### § 11-5. Utlikningstiltak
 
-Den ansvarlige myndigheten kan pålegge yrkesutøveren å fullføre en prøveperiode eller bestå en egnethetsprøve, nårdet er en vesentlig forskjell mellom yrkesutøverens yrkeskvalifikasjoner og de kvalifikasjonene som kreves for å utøve yrket i Norge, elleryrket i Norge omfatter en eller flere former for yrkesvirksomheter som omfatter fagområder som er vesentlig forskjellig fra dem som omfattes av yrkesutøverens yrkeskvalifikasjoner.
+Den ansvarlige myndigheten kan pålegge yrkesutøveren å fullføre en prøveperiode eller bestå en egnethetsprøve, når
+
+1. det er en vesentlig forskjell mellom yrkesutøverens yrkeskvalifikasjoner og de kvalifikasjonene som kreves for å utøve yrket i Norge, eller
+2. yrket i Norge omfatter en eller flere former for yrkesvirksomheter som omfatter fagområder som er vesentlig forskjellig fra dem som omfattes av yrkesutøverens yrkeskvalifikasjoner.
 
 Bestemmelsene i § 3-6 første ledd, § 8-7 og § 8-8 gjelder tilsvarende.
 
@@ -494,7 +633,11 @@ Den ansvarlige myndigheten skal avholde egnethetsprøve med en rimelig hyppighet
 
 ### § 11-6. Unntak fra retten til godkjenning eller autorisasjon
 
-Den ansvarlige myndigheten kan nekte godkjenning av yrkeskvalifikasjoner for samme yrket dersomyrkesutøveren unnlater eller nekter å gjennomføre utlikningstiltak etter § 11-5,utlikningstiltaket etter § 11-5 vil innebære å kreve at yrkesutøveren må gjennomføre en yrkesutdanning som tilsvarer den norske utdanningen for yrket,adgang til, og utøvelse av, et lovregulert yrke i Norge er omfattet av andre vilkår enn besittelse av bestemte yrkeskvalifikasjoner, og yrkesutøveren ikke oppfyller disse vilkårene, for eksempel alderskrav.
+Den ansvarlige myndigheten kan nekte godkjenning av yrkeskvalifikasjoner for samme yrket dersom
+
+1. yrkesutøveren unnlater eller nekter å gjennomføre utlikningstiltak etter § 11-5,
+2. utlikningstiltaket etter § 11-5 vil innebære å kreve at yrkesutøveren må gjennomføre en yrkesutdanning som tilsvarer den norske utdanningen for yrket,
+3. adgang til, og utøvelse av, et lovregulert yrke i Norge er omfattet av andre vilkår enn besittelse av bestemte yrkeskvalifikasjoner, og yrkesutøveren ikke oppfyller disse vilkårene, for eksempel alderskrav.
 
 > Tilføyd ved forskrift [28 nov 2023 nr. 1934](forskrift/2023-11-28-1934) (i kraft 1 des 2023).
 
@@ -720,13 +863,33 @@ ISIC-nomenklatur
 Direktiv 75/369/EØF (artikkel 6: der virksomheten anses for å være industri- eller håndverksvirksomhet)
 ISIC-nomenklatur
 
-Følgende virksomhet utenom fast utsalgssted:Kjøp og salg av varerved omreisende selgere, dørselgere og gateselgere (ex næringsgruppe 612 ISIC),utenom faste anlegg i salgshaller, og på torg;virksomhet som omfattes av overgangstiltak som allerede er vedtatt, og som uttrykkelig utelukker eller unnlater å nevne utøvelse av slik virksomhet utenom fast utsalgssted.
+Følgende virksomhet utenom fast utsalgssted:
+
+1. Kjøp og salg av varer
+
+   - ved omreisende selgere, dørselgere og gateselgere (ex næringsgruppe 612 ISIC),
+   - utenom faste anlegg i salgshaller, og på torg;
+2. virksomhet som omfattes av overgangstiltak som allerede er vedtatt, og som uttrykkelig utelukker eller unnlater å nevne utøvelse av slik virksomhet utenom fast utsalgssted.
 
 ### 3
 Direktiv 82/470/EØF (artikkel 6 nr. 1) og 3))
 Gruppe 718 og 720 i ISIC-nomenklaturen
 
-Virksomheten består særlig iå tilrettelegge, tilby og selge, til fast pris eller mot provisjon, enkeltstående eller samlede arrangementer i forbindelse med en reise eller et opphold (transport, kost, losji, utflukter osv.), uansett formålet med reisen (artikkel 2 avsnitt B bokstav a)),å opptre som mellommann mellom speditører innenfor de forskjellige transportformer og avsendere eller mottakere av gods, samt å utføre forskjellige oppgaver i tilknytning til dette, som for eksempelå inngå kontrakter med speditørene for oppdragsgivernes regning,å velge den transportform, det foretak og den rute som anses mest fordelaktig for oppdragsgiveren,å sørge for den praktiske tilrettelegging av transporten (f.eks. den nødvendige emballasje) og utføre forskjellige tilleggsoppgaver under transporten (f.eks. sørge for isforsyning til kjølevogner),å utføre formalitetene i forbindelse med transporten, f.eks. utstede fraktbrev, og å samle og fordele forsendelser,å samordne de forskjellige transportetapper ved å sørge for transitt, videreforsendelse og omlasting og forskjellige avsluttende oppgaver,å sørge for frakter til transportørene og transportmuligheter for avsendere og mottakere av gods,å beregne transportkostnadene og kontrollere avregningen av disse,å treffe visse midlertidige eller permanente tiltak i en reders eller en sjøtransportvirksomhets navn og for dennes regning (overfor havnemyndigheter, skipsutstyrsfirmaer osv.).De virksomheter som det er vist til i artikkel 2 avsnitt A) bokstav a), b) og d).
+Virksomheten består særlig i
+
+- å tilrettelegge, tilby og selge, til fast pris eller mot provisjon, enkeltstående eller samlede arrangementer i forbindelse med en reise eller et opphold (transport, kost, losji, utflukter osv.), uansett formålet med reisen (artikkel 2 avsnitt B bokstav a)),
+- å opptre som mellommann mellom speditører innenfor de forskjellige transportformer og avsendere eller mottakere av gods, samt å utføre forskjellige oppgaver i tilknytning til dette, som for eksempel
+
+  1. å inngå kontrakter med speditørene for oppdragsgivernes regning,
+  2. å velge den transportform, det foretak og den rute som anses mest fordelaktig for oppdragsgiveren,
+  3. å sørge for den praktiske tilrettelegging av transporten (f.eks. den nødvendige emballasje) og utføre forskjellige tilleggsoppgaver under transporten (f.eks. sørge for isforsyning til kjølevogner),
+  4. å utføre formalitetene i forbindelse med transporten, f.eks. utstede fraktbrev, og å samle og fordele forsendelser,
+  5. å samordne de forskjellige transportetapper ved å sørge for transitt, videreforsendelse og omlasting og forskjellige avsluttende oppgaver,
+  6. å sørge for frakter til transportørene og transportmuligheter for avsendere og mottakere av gods,
+- å beregne transportkostnadene og kontrollere avregningen av disse,
+- å treffe visse midlertidige eller permanente tiltak i en reders eller en sjøtransportvirksomhets navn og for dennes regning (overfor havnemyndigheter, skipsutstyrsfirmaer osv.).
+
+  De virksomheter som det er vist til i artikkel 2 avsnitt A) bokstav a), b) og d).
 
 ### Liste III
 Direktiv 64/222/EØF, 68/364/EØF, 68/368/EØF, 75/368/EØF, 75/369/EØF, 70/523/EØF og 82/470/EØF
@@ -770,7 +933,10 @@ Direktiv 68/368/EØF
 (liberaliseringsdirektiv 68/367/EØF)
 ISIC-nomenklatur
 
-Ex Næringshovedgruppe 85 ISIC:Restauranter og skjenkesteder (næringsgruppe 852 ISIC)Hoteller og andre overnattingssteder og campingplasser (næringsgruppe 853 ISIC)
+Ex Næringshovedgruppe 85 ISIC:
+
+1. Restauranter og skjenkesteder (næringsgruppe 852 ISIC)
+2. Hoteller og andre overnattingssteder og campingplasser (næringsgruppe 853 ISIC)
 
 ### 4
 Direktiv 75/368/EØF (artikkel 7)
@@ -796,7 +962,13 @@ ISIC-nomenklatur
 ### 5
 Direktiv 75/369/EØF (artikkel 5)
 
-Følgende virksomhet utenom fast utsalgssted:Kjøp og salg av varerved omreisende selgere, dørselgere og gateselgere (ex næringsgruppe 612 ISIC),utenom faste anlegg i salgshaller, og på torg;virksomhet som omfattes av overgangstiltak som allerede er vedtatt, og som uttrykkelig utelukker eller unnlater å nevne utøvelse av slik virksomhet utenom fast utsalgssted.
+Følgende virksomhet utenom fast utsalgssted:
+
+1. Kjøp og salg av varer
+
+   - ved omreisende selgere, dørselgere og gateselgere (ex næringsgruppe 612 ISIC),
+   - utenom faste anlegg i salgshaller, og på torg;
+2. virksomhet som omfattes av overgangstiltak som allerede er vedtatt, og som uttrykkelig utelukker eller unnlater å nevne utøvelse av slik virksomhet utenom fast utsalgssted.
 
 ### 6
 Direktiv 70/523/EØF
@@ -808,16 +980,40 @@ Direktiv 82/470/EØF (artikkel 6 nr. 2))
 
 De virksomheter det er vist til i artikkel 2 avsnitt A) bokstav c) og e), avsnitt B) bokstav b), avsnitt C) og avsnitt D).
 
-Disse virksomhetene består særlig iå leie jernbanevogner til person- eller godstransport,å opptre som mellommann ved kjøp, salg eller leie av fartøyer,å utarbeide, forhandle og avslutte kontrakter om transport av emigranter,å motta til oppbevaring for deponentens regning alle slags gjenstander og varer, uansett om disse er undergitt tollbehandling eller ikke, i lager, pakkhus, møbellager, kjølelager, siloer osv.,å utstede til deponenten en kvittering for den gjenstand eller vare som er mottatt til oppbevaring,å skaffe innhegninger, fôr og salgssteder for kveg i midlertidig forvaring, enten i påvente av salg, eller i transitt til eller fra markedet,å foreta kontroll eller teknisk vurdering av motorkjøretøyer,å måle og veie varer.
+Disse virksomhetene består særlig i
+
+- å leie jernbanevogner til person- eller godstransport,
+- å opptre som mellommann ved kjøp, salg eller leie av fartøyer,
+- å utarbeide, forhandle og avslutte kontrakter om transport av emigranter,
+- å motta til oppbevaring for deponentens regning alle slags gjenstander og varer, uansett om disse er undergitt tollbehandling eller ikke, i lager, pakkhus, møbellager, kjølelager, siloer osv.,
+- å utstede til deponenten en kvittering for den gjenstand eller vare som er mottatt til oppbevaring,
+- å skaffe innhegninger, fôr og salgssteder for kveg i midlertidig forvaring, enten i påvente av salg, eller i transitt til eller fra markedet,
+- å foreta kontroll eller teknisk vurdering av motorkjøretøyer,
+- å måle og veie varer.
 
 ## Vedlegg 2: Dokumenter som kan kreves i samsvar med § 8-1 og artikkel 50 nr. 1) i yrkeskvalifikasjonsdirektivet
 
 1. Bevis på vedkommendes statsborgerskap.
-2. Kopier av kompetanse- eller kvalifikasjonsbeviser som gir adgang til det berørte yrket, samt, der det er hensiktsmessig, en attestering av vedkommendes yrkeserfaring.Den ansvarlige myndigheten i vertsstaten kan anmode søkeren om å legge fram opplysninger om utdanning i den utstrekning det er nødvendig for å slå fast om det foreligger mulige vesentlige forskjeller sammenliknet med den utdanningen som kreves i vertsstaten. Har ikke søker mulighet til å legge fram disse opplysningene, skal den ansvarlige myndigheten i vertsstaten henvende seg til assistansesenteret, den ansvarlige myndigheten eller annet relevant organ i hjemstaten.
+2. Kopier av kompetanse- eller kvalifikasjonsbeviser som gir adgang til det berørte yrket, samt, der det er hensiktsmessig, en attestering av vedkommendes yrkeserfaring.
+
+   Den ansvarlige myndigheten i vertsstaten kan anmode søkeren om å legge fram opplysninger om utdanning i den utstrekning det er nødvendig for å slå fast om det foreligger mulige vesentlige forskjeller sammenliknet med den utdanningen som kreves i vertsstaten. Har ikke søker mulighet til å legge fram disse opplysningene, skal den ansvarlige myndigheten i vertsstaten henvende seg til assistansesenteret, den ansvarlige myndigheten eller annet relevant organ i hjemstaten.
 3. Når det gjelder tilfellene i forskriftens [kapittel 4](forskrift/2017-12-22-2384/kap4), en attest på virksomhetens art og varighet utstedt av en ansvarlig myndighet eller et organ i hjemstaten eller i den seneste oppholdsstaten. Den ansvarlige myndigheten skal fremlegge de nødvendige dokumentene innen to måneder.
-4. I enkelte tilfeller kan den ansvarlige myndigheten i vertsstaten gjør adgang til et lovregulert yrke betinget av ett eller flere av følgende:at søkeren legger fram bevis på god vandel eller hederlighet,at søkeren legger frem bevis på at vedkommende ikke er erklært konkurs,utelukker eller forbyr utøvelse av yrket på grunn av alvorlig forsømmelse i utøvelsen eller overtredelse av straffeloven.Da skal denne medlemsstaten godta som tilstrekkelig bevis, når det gjelder borgere i andre medlemsstater som ønsker å utøve dette yrket på denne statens territorium, dokumenter utstedt av en ansvarlig myndighet i hjemstaten eller den seneste oppholdsstaten, som viser at disse kravene er oppfylt.Der den ansvarlige myndigheten i hjemstaten eller den seneste oppholdsstaten ikke utsteder dokumenter nevnt i første ledd, kan dette erstattes av en erklæring under ed, eller i stater der det ikke er anledning til slik edsavleggelse, av en forsikring på ære og samvittighet, avgitt av den berørte personen for vedkommende retts- eller forvaltningsmyndighet, eventuelt for en notarius publicus eller et kvalifisert bransjeorgan i hjemstaten eller seneste oppholdsstat, som utsteder en attest som bekrefter gyldigheten av nevnte erklæring eller forsikring.
+4. I enkelte tilfeller kan den ansvarlige myndigheten i vertsstaten gjør adgang til et lovregulert yrke betinget av ett eller flere av følgende:
+
+   - at søkeren legger fram bevis på god vandel eller hederlighet,
+   - at søkeren legger frem bevis på at vedkommende ikke er erklært konkurs,
+   - utelukker eller forbyr utøvelse av yrket på grunn av alvorlig forsømmelse i utøvelsen eller overtredelse av straffeloven.
+
+   Da skal denne medlemsstaten godta som tilstrekkelig bevis, når det gjelder borgere i andre medlemsstater som ønsker å utøve dette yrket på denne statens territorium, dokumenter utstedt av en ansvarlig myndighet i hjemstaten eller den seneste oppholdsstaten, som viser at disse kravene er oppfylt.
+
+   Der den ansvarlige myndigheten i hjemstaten eller den seneste oppholdsstaten ikke utsteder dokumenter nevnt i første ledd, kan dette erstattes av en erklæring under ed, eller i stater der det ikke er anledning til slik edsavleggelse, av en forsikring på ære og samvittighet, avgitt av den berørte personen for vedkommende retts- eller forvaltningsmyndighet, eventuelt for en notarius publicus eller et kvalifisert bransjeorgan i hjemstaten eller seneste oppholdsstat, som utsteder en attest som bekrefter gyldigheten av nevnte erklæring eller forsikring.
 5. Dersom en vertsstat krever at egne borgere som ønsker å starte en lovregulert virksomhet legger frem attest på vedkommendes fysiske eller psykiske helse, skal denne medlemsstaten godta som tilstrekkelig bevis det dokument som kreves i hjemstaten. I tilfeller der hjemstaten ikke utsteder et slikt dokument, skal vertsstaten godta en attest utstedt av den ansvarlige myndigheten i denne staten. I så fall skal den ansvarlige myndigheten i hjemstaten legge frem de nødvendige dokumentene innen to måneder.
-6. Dersom en vertsstat krever at egne borgere som ønsker å starte i et lovregulert yrke, legger frembevis på søkerens finansielle stilling,bevis på at søker er søkeren er forsikret mot den økonomiske risiko som er forbundet med deres yrkesansvar i samsvar med gjeldende lover og forskrifter i vertsstaten om forsikringens vilkår og dekning,skal denne medlemsstaten godta som tilstrekkelig bevis en attest om dette utstedt av banker eller forsikringsselskaper i en annen medlemsstat.
+6. Dersom en vertsstat krever at egne borgere som ønsker å starte i et lovregulert yrke, legger frem
+
+   - bevis på søkerens finansielle stilling,
+   - bevis på at søker er søkeren er forsikret mot den økonomiske risiko som er forbundet med deres yrkesansvar i samsvar med gjeldende lover og forskrifter i vertsstaten om forsikringens vilkår og dekning,
+
+   skal denne medlemsstaten godta som tilstrekkelig bevis en attest om dette utstedt av banker eller forsikringsselskaper i en annen medlemsstat.
 7. Der medlemsstaten krever dette for egne borgere, bevis for at tjenesteyteren ikke er midlertidig eller endelig frakjent retten til å utøve yrket eller dømt for noe straffbart forhold.
 
 ## Veiledning til forskrift om godkjenning av yrkeskvalifikasjoner

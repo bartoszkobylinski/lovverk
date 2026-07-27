@@ -34,7 +34,17 @@ Denne bestemmelsen gjelder ikke for IKT-tjenesteavtaler som er omfattet av [lov 
 
 ## § 2. Foretak som er unntatt fra meldeplikten etter finanstilsynsloven § 4c
 
-Meldeplikt ved utkontraktering etter [finanstilsynsloven § 4c](lov/1956-12-07-1/§4c) gjelder ikke for:forvaltningsselskap for verdipapirfondforvaltere av alternative investeringsfondregnskapsførerforetakrevisjonsforetakeiendomsmeglingsforetakadvokater som driver eiendomsmeglinginkassoforetaklåneformidlereforsikringsformidlere.
+Meldeplikt ved utkontraktering etter [finanstilsynsloven § 4c](lov/1956-12-07-1/§4c) gjelder ikke for:
+
+1. forvaltningsselskap for verdipapirfond
+2. forvaltere av alternative investeringsfond
+3. regnskapsførerforetak
+4. revisjonsforetak
+5. eiendomsmeglingsforetak
+6. advokater som driver eiendomsmegling
+7. inkassoforetak
+8. låneformidlere
+9. forsikringsformidlere.
 
 Foretak som nevnt i bokstav a og b som yter investeringstjenester, jf. [verdipapirfondloven § 2-1](lov/2011-11-25-44/§2-1) annet og tredje ledd, og [AIF-loven § 2-2](lov/2014-06-20-28/§2-2) tredje og fjerde ledd, skal likevel være omfattet av forskriften for så vidt gjelder disse tjenestene.
 
@@ -46,7 +56,14 @@ Meldeplikten ved utkontraktering etter [finanstilsynsloven § 4-6](lov/2024-06-2
 
 ## § 4. Krav til melding
 
-Melding om utkontraktering av virksomhet skal inneholde opplysninger om:navn og organisasjonsnummer på oppdragstakervirksomheten/oppgavene som utkontrakteresoppdragstaker driver virksomhet i Norge, i norsk selskap, i filial eller som grensekryssende virksomhet. Dersom oppdragstaker er etablert i utlandet skal det også opplyses hvilket land foretakets hovedkontor er etablert inavn og organisasjonsnummer på underleverandører som oppdragstaker bruker ved utførelse av oppgaver på vegne av foretaket. Dersom underleverandør er etablert i utlandet bes det opplyst hvilket landavtalens oppstarts- og opphørsdato, herunder opplysninger om rullerende avtaleperiodehvordan foretaket vil følge opp sitt ansvar for den utkontrakterte virksomheten, samt foretakets risikovurdering av utkontrakteringen.
+Melding om utkontraktering av virksomhet skal inneholde opplysninger om:
+
+1. navn og organisasjonsnummer på oppdragstaker
+2. virksomheten/oppgavene som utkontrakteres
+3. oppdragstaker driver virksomhet i Norge, i norsk selskap, i filial eller som grensekryssende virksomhet. Dersom oppdragstaker er etablert i utlandet skal det også opplyses hvilket land foretakets hovedkontor er etablert i
+4. navn og organisasjonsnummer på underleverandører som oppdragstaker bruker ved utførelse av oppgaver på vegne av foretaket. Dersom underleverandør er etablert i utlandet bes det opplyst hvilket land
+5. avtalens oppstarts- og opphørsdato, herunder opplysninger om rullerende avtaleperiode
+6. hvordan foretaket vil følge opp sitt ansvar for den utkontrakterte virksomheten, samt foretakets risikovurdering av utkontrakteringen.
 
 > Endret ved forskrift [27 juni 2025 nr. 1363](forskrift/2025-06-27-1363) (i kraft 1 juli 2025).
 
@@ -54,4 +71,6 @@ Melding om utkontraktering av virksomhet skal inneholde opplysninger om:navn og 
 
 Forskriften trer i kraft 1. januar 2022.
 
-Følgende forskrift oppheves når forskrift om meldeplikt ved utkontraktering av virksomhet mv. trer i kraft:[Forskrift 5. juni 2015 nr. 613 om unntak fra meldeplikt ved utkontraktering av virksomhet](forskrift/2015-06-05-613).
+Følgende forskrift oppheves når forskrift om meldeplikt ved utkontraktering av virksomhet mv. trer i kraft:
+
+- [Forskrift 5. juni 2015 nr. 613 om unntak fra meldeplikt ved utkontraktering av virksomhet](forskrift/2015-06-05-613).

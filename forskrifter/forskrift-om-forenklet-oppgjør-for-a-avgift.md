@@ -28,7 +28,10 @@ eu_basis: []
 
 Denne forskrift gjelder for beregning av arbeidsgiveravgift fra statens forvaltningsvirksomhet (statsforvaltningen).
 
-Statsforvaltningen omfatter i denne forskrift:forvaltningsorganer som får fastsatt sine driftsbevilgninger over statsbudsjettet, herunder statens forretningsdrift og statsbankene, ogforvaltningsorganer med unntak fra bruttobudsjetteringsprinsippet (såkalte post 50 virksomheter).
+Statsforvaltningen omfatter i denne forskrift:
+
+1. forvaltningsorganer som får fastsatt sine driftsbevilgninger over statsbudsjettet, herunder statens forretningsdrift og statsbankene, og
+2. forvaltningsorganer med unntak fra bruttobudsjetteringsprinsippet (såkalte post 50 virksomheter).
 
 > Endret ved [forskrift 22 des 2008 nr. 1582](forskrift/2008-12-22-1582) (i kraft 1 jan 2009).
 

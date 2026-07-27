@@ -30,11 +30,18 @@ Når eit skip er god prise skal prisedomstolen døma at det er forbrote til stat
 
 Eit skip som er handelsskip og som høyrer heime i fiendestat er god prise kva fart det so gjeng i.
 
-Eit skip som er handelsskip og som høyrer heime i nøytral stat er ikkje god prise utan dethar brote eller freista bryta blokade som er kunngjort av Noreg eller av stat som er i krig på same sida som Noreg,fører krigskontrabande, jfr. [§ 2](lov/1947-05-02-1/§2), likevel so at domstolen kan lata vera prisedøma skipet soframt umstendi i saki er for det.
+Eit skip som er handelsskip og som høyrer heime i nøytral stat er ikkje god prise utan det
+
+1. har brote eller freista bryta blokade som er kunngjort av Noreg eller av stat som er i krig på same sida som Noreg,
+2. fører krigskontrabande, jfr. [§ 2](lov/1947-05-02-1/§2), likevel so at domstolen kan lata vera prisedøma skipet soframt umstendi i saki er for det.
 
 ### § 2
 
-Krigskontrabande er:Våpn, ammunisjon, krigsfly, stridsvogner og anna som etter sitt slag vert nytta til hjelpemiddel i krig eller til å laga slikt hjelpemiddel av, og som er på veg til fiendeland eller til umkverve som fienden har hersett,slike forsyningar og hjelpemiddel av alle slag som det er tanken at fiendekrigsmakt skal nytta,ting elles som vert rekna for krigskontrabande etter millomfolkeleg skikk og bruk.
+Krigskontrabande er:
+
+1. Våpn, ammunisjon, krigsfly, stridsvogner og anna som etter sitt slag vert nytta til hjelpemiddel i krig eller til å laga slikt hjelpemiddel av, og som er på veg til fiendeland eller til umkverve som fienden har hersett,
+2. slike forsyningar og hjelpemiddel av alle slag som det er tanken at fiendekrigsmakt skal nytta,
+3. ting elles som vert rekna for krigskontrabande etter millomfolkeleg skikk og bruk.
 
 ### § 3
 

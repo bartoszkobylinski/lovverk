@@ -38,7 +38,20 @@ Forskriften kommer ikke til anvendelse når pasienten selv har ansvaret for å h
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*Helsehjelp:* Helsehjelp som definert i [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. [§ 3](lov/1999-07-02-64/§3) tredje ledd, jf. [lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter [§ 1-3](lov/1999-07-02-63/§1-3) bokstav c.*Virksomhetsleder:* Den som har det overordnede ansvaret for helsehjelpen som ytes i den enkelte virksomhet.*Helsepersonell:* Personell som definert i [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. [§ 3](lov/1999-07-02-64/§3) første ledd nr. 1 til nr. 3.*Legemiddel:* Legemidler som definert i [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 2](lov/1992-12-04-132/§2).*Legemiddelhåndtering:* Enhver legemiddelrelatert oppgave som utføres fra legemidlet er ordinert eller rekvirert til det er utdelt eller eventuelt kassert.*Rekvirering:* Muntlig, skriftlig eller elektronisk bestilling av legemidler ved resept eller rekvisisjon jf. [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m. § 1-3](forskrift/2022-06-02-977/§1-3) bokstav a.*Ordinering:* Beslutning tatt av helsepersonell, med rekvireringsrett til pasient, om iverksettelse, videreføring eller endring av individuell behandling med legemiddel. Ordinering skal dokumenteres i samsvar med [forskrift 1. mars 2019 nr. 168 om pasientjournal (pasientjournalforskriften)](forskrift/2019-03-01-168).*Ordinering gjennom prosedyre:* Beslutning om iverksettelse av legemiddelbehandling gjennom skriftlig prosedyre som er fastsatt av virksomhetsleder.*Istandgjøring:* Tilberedning eller annen klargjøring av legemiddel for utdeling til pasient.*Tilberedning:* Enkel tilvirkning av legemiddel som på grunn av kort holdbarhet, må gjøres bruksferdig umiddelbart før bruk.*Dobbeltkontroll:* To personer som hver for seg og ved å signere, manuelt eller elektronisk, bekrefter at en oppgave er utført korrekt, og i henhold til eventuelt fastsatt prosedyre. En automatisert elektronisk kontroll kan benyttes dersom den er likeverdig med en manuell kontroll.*Utdeling:* Utdeling av ferdig istandgjort legemiddel til pasient, administrering av legemiddel som pasienten ikke kan administrere selv, overvåkning av legemiddelinntak og observasjon av eventuelle umiddelbare reaksjoner på tilført legemiddel.
+I denne forskriften menes med:
+
+1. *Helsehjelp:* Helsehjelp som definert i [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. [§ 3](lov/1999-07-02-64/§3) tredje ledd, jf. [lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter [§ 1-3](lov/1999-07-02-63/§1-3) bokstav c.
+2. *Virksomhetsleder:* Den som har det overordnede ansvaret for helsehjelpen som ytes i den enkelte virksomhet.
+3. *Helsepersonell:* Personell som definert i [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. [§ 3](lov/1999-07-02-64/§3) første ledd nr. 1 til nr. 3.
+4. *Legemiddel:* Legemidler som definert i [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. [§ 2](lov/1992-12-04-132/§2).
+5. *Legemiddelhåndtering:* Enhver legemiddelrelatert oppgave som utføres fra legemidlet er ordinert eller rekvirert til det er utdelt eller eventuelt kassert.
+6. *Rekvirering:* Muntlig, skriftlig eller elektronisk bestilling av legemidler ved resept eller rekvisisjon jf. [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m. § 1-3](forskrift/2022-06-02-977/§1-3) bokstav a.
+7. *Ordinering:* Beslutning tatt av helsepersonell, med rekvireringsrett til pasient, om iverksettelse, videreføring eller endring av individuell behandling med legemiddel. Ordinering skal dokumenteres i samsvar med [forskrift 1. mars 2019 nr. 168 om pasientjournal (pasientjournalforskriften)](forskrift/2019-03-01-168).
+8. *Ordinering gjennom prosedyre:* Beslutning om iverksettelse av legemiddelbehandling gjennom skriftlig prosedyre som er fastsatt av virksomhetsleder.
+9. *Istandgjøring:* Tilberedning eller annen klargjøring av legemiddel for utdeling til pasient.
+10. *Tilberedning:* Enkel tilvirkning av legemiddel som på grunn av kort holdbarhet, må gjøres bruksferdig umiddelbart før bruk.
+11. *Dobbeltkontroll:* To personer som hver for seg og ved å signere, manuelt eller elektronisk, bekrefter at en oppgave er utført korrekt, og i henhold til eventuelt fastsatt prosedyre. En automatisert elektronisk kontroll kan benyttes dersom den er likeverdig med en manuell kontroll.
+12. *Utdeling:* Utdeling av ferdig istandgjort legemiddel til pasient, administrering av legemiddel som pasienten ikke kan administrere selv, overvåkning av legemiddelinntak og observasjon av eventuelle umiddelbare reaksjoner på tilført legemiddel.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1839](forskrift/2009-12-18-1839) (i kraft 12 jan 2010), [23 nov 2014 nr. 1455](forskrift/2014-11-23-1455) (i kraft 1 jan 2015), [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838), [2 juni 2022 nr. 977](forskrift/2022-06-02-977) (i kraft 16 sep 2022).
 
@@ -54,7 +67,12 @@ Virksomhetsleder skal sørge for at studenter bare gis oppgaver i tråd med [hel
 
 Virksomhetsleder skal sørge for at virksomhetens internkontrollsystem har rutiner som kvalitetssikrer informasjonen om pasientens legemiddelbruk ved innleggelse og utskriving, og ved overføring innen virksomheten.
 
-Virksomhetsleder skal sørge for internkontroll, jf. [lov 15. desember 2017 nr. 107 om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven) § 5](lov/2017-12-15-107/§5), herunder:Etablere og oppdatere skriftlige prosedyrer for legemiddelhåndtering. Dette innebærer, blant annet, prosedyrer for risikovurdering, evaluering, kontroll og avvikshåndtering. Prosedyrene skal gjøres kjent i virksomheten.Gi skriftlige bestemmelser om hvilken kompetanse ansatte skal ha for å utføre oppgaver innen legemiddelhåndtering. Disse bestemmelsene skal gjøres kjent i virksomheten.Sørge for at helsepersonell får nødvendig opplæring og kompetanseutvikling i legemiddelhåndtering.Sørge for at virksomheten har et system for håndtering av legemidler i reseptgruppene A og B.
+Virksomhetsleder skal sørge for internkontroll, jf. [lov 15. desember 2017 nr. 107 om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven) § 5](lov/2017-12-15-107/§5), herunder:
+
+1. Etablere og oppdatere skriftlige prosedyrer for legemiddelhåndtering. Dette innebærer, blant annet, prosedyrer for risikovurdering, evaluering, kontroll og avvikshåndtering. Prosedyrene skal gjøres kjent i virksomheten.
+2. Gi skriftlige bestemmelser om hvilken kompetanse ansatte skal ha for å utføre oppgaver innen legemiddelhåndtering. Disse bestemmelsene skal gjøres kjent i virksomheten.
+3. Sørge for at helsepersonell får nødvendig opplæring og kompetanseutvikling i legemiddelhåndtering.
+4. Sørge for at virksomheten har et system for håndtering av legemidler i reseptgruppene A og B.
 
 > Endret ved [forskrifter 23 nov 2014 nr. 1455](forskrift/2014-11-23-1455) (i kraft 1 jan 2015), [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838).
 
@@ -102,7 +120,10 @@ Virksomhetsleders ansvar for å foreta sårbarhets- og risikovurdering som grunn
 
 ## § 9. Narkotikaregnskap og kontroll med legemidler i reseptgruppene A og B
 
-Virksomheten skal:dokumentere alle mottak og uttak av legemidler i reseptgruppe A, herunder hva den enkelte pasient har fått av slike legemidler. Dokumentasjon skal være oppdatert til enhver tid og oppbevares i minst 5 år.ha oversikt over alle mottak og uttak av legemidler i reseptgruppe B. Mottatt mengde skal sammenholdes med faktisk bruk på enhetsnivå.
+Virksomheten skal:
+
+1. dokumentere alle mottak og uttak av legemidler i reseptgruppe A, herunder hva den enkelte pasient har fått av slike legemidler. Dokumentasjon skal være oppdatert til enhver tid og oppbevares i minst 5 år.
+2. ha oversikt over alle mottak og uttak av legemidler i reseptgruppe B. Mottatt mengde skal sammenholdes med faktisk bruk på enhetsnivå.
 
 > Endret ved [forskrift 23 nov 2014 nr. 1455](forskrift/2014-11-23-1455) (i kraft 1 jan 2015, tidligere § 8).
 

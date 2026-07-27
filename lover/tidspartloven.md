@@ -15,7 +15,7 @@ xml_hash: "a65a42001c79314d63fee91ec875cd70b138d822640a8495b63ea0cae7051346"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32008L0122"
@@ -27,13 +27,27 @@ eu_basis:
 
 ### § 1. Virkeområde
 
-Loven gjelder avtaler som inngås mellom næringsdrivende og forbrukere omdeltidsbruksrett,langtidsferieprodukter,videresalg av deltidsbruksrett og langtidsferieprodukter,bytte av deltidsbruksrett.
+Loven gjelder avtaler som inngås mellom næringsdrivende og forbrukere om
+
+1. deltidsbruksrett,
+2. langtidsferieprodukter,
+3. videresalg av deltidsbruksrett og langtidsferieprodukter,
+4. bytte av deltidsbruksrett.
 
 Loven gjelder for Svalbard og Jan Mayen. Kongen kan likevel bestemme at hele eller deler av loven ikke skal gjelde, og gi særlige regler av hensyn til de stedlige forhold. [§ 5](lov/2012-05-25-27/§5) fjerde ledd og [§ 7](lov/2012-05-25-27/§7) annet ledd gjelder ikke på Svalbard.
 
 ### § 2. Definisjoner
 
-I denne lov menes med*avtale om deltidsbruksrett*: en avtale med mer enn ett års varighet som gir en forbruker, mot et vederlag, rett til å benytte én eller flere innkvarteringer i flere enn én bruksperiode,*avtale om langtidsferieprodukt*: en avtale med mer enn ett års varighet som gir en forbruker, mot et vederlag, hovedsakelig retten til å få rabatter eller andre fordeler i forbindelse med innkvartering, alene eller sammen med reise eller andre tjenester,*avtale om videresalg*: en avtale der en næringsdrivende mot et vederlag bistår en forbruker med å selge eller kjøpe en deltidsbruksrett eller et langtidsferieprodukt,*bytteavtale*: en avtale der en forbruker mot et vederlag blir med i en bytteordning som gir forbrukeren tilgang til innkvartering eller andre tjenester i bytte mot at andre personer midlertidig får dra nytte av de rettigheter forbrukerens deltidsbruksrett gir,*næringsdrivende*: enhver fysisk eller juridisk person som utøver næringsvirksomhet, og enhver som handler i vedkommendes navn eller på vedkommendes vegne,*forbruker*: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,*tilknyttet avtale*: en avtale der forbrukeren mottar tjenester som er knyttet til en avtale om deltidsbruksrett eller til en avtale om et langtidsferieprodukt, og som ytes av den næringsdrivende eller en tredjemann på grunnlag av en overenskomst med den næringsdrivende,*varig medium*: enhver innretning som gjør forbrukeren eller den næringsdrivende i stand til å lagre opplysninger som er rettet til denne personlig og på en slik måte at dette i framtiden vil være tilgjengelig i et tidsrom som er tilstrekkelig for opplysningenes formål, og som tillater uendret gjengiving av de lagrede opplysningene.
+I denne lov menes med
+
+1. *avtale om deltidsbruksrett*: en avtale med mer enn ett års varighet som gir en forbruker, mot et vederlag, rett til å benytte én eller flere innkvarteringer i flere enn én bruksperiode,
+2. *avtale om langtidsferieprodukt*: en avtale med mer enn ett års varighet som gir en forbruker, mot et vederlag, hovedsakelig retten til å få rabatter eller andre fordeler i forbindelse med innkvartering, alene eller sammen med reise eller andre tjenester,
+3. *avtale om videresalg*: en avtale der en næringsdrivende mot et vederlag bistår en forbruker med å selge eller kjøpe en deltidsbruksrett eller et langtidsferieprodukt,
+4. *bytteavtale*: en avtale der en forbruker mot et vederlag blir med i en bytteordning som gir forbrukeren tilgang til innkvartering eller andre tjenester i bytte mot at andre personer midlertidig får dra nytte av de rettigheter forbrukerens deltidsbruksrett gir,
+5. *næringsdrivende*: enhver fysisk eller juridisk person som utøver næringsvirksomhet, og enhver som handler i vedkommendes navn eller på vedkommendes vegne,
+6. *forbruker*: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,
+7. *tilknyttet avtale*: en avtale der forbrukeren mottar tjenester som er knyttet til en avtale om deltidsbruksrett eller til en avtale om et langtidsferieprodukt, og som ytes av den næringsdrivende eller en tredjemann på grunnlag av en overenskomst med den næringsdrivende,
+8. *varig medium*: enhver innretning som gjør forbrukeren eller den næringsdrivende i stand til å lagre opplysninger som er rettet til denne personlig og på en slik måte at dette i framtiden vil være tilgjengelig i et tidsrom som er tilstrekkelig for opplysningenes formål, og som tillater uendret gjengiving av de lagrede opplysningene.
 
 ### § 3. Lovens ufravikelighet
 
@@ -41,13 +55,28 @@ Loven kan ikke fravikes til skade for forbrukeren.
 
 ### § 4. Lovvalg utenfor EØS
 
-Dersom lovgivning i et land utenfor EØS får anvendelse på avtalen, kan ikke forbrukeren fratas vernet etter loven her hvis:en av de berørte faste eiendommer befinner seg på territoriet til en EØS-stat, ellerden næringsdrivende i forbindelse med en avtale som ikke direkte er knyttet til fast eiendom, utøver næringsvirksomhet i eller retter sin virksomhet mot en EØS-stat.
+Dersom lovgivning i et land utenfor EØS får anvendelse på avtalen, kan ikke forbrukeren fratas vernet etter loven her hvis:
+
+1. en av de berørte faste eiendommer befinner seg på territoriet til en EØS-stat, eller
+2. den næringsdrivende i forbindelse med en avtale som ikke direkte er knyttet til fast eiendom, utøver næringsvirksomhet i eller retter sin virksomhet mot en EØS-stat.
 
 ## Kapittel 2. Den næringsdrivendes opplysningsplikt
 
 ### § 5. Opplysningsplikt før avtaleinngåelsen
 
-I god tid før det blir inngått en avtale som omfattes av denne lov, skal den næringsdrivende gi forbrukeren nøyaktige og tilstrekkelige opplysninger om:den næringsdrivende som skal være part i avtalen,rettighetenes art og innhold etter avtalen,tidsrommet avtalen gjelder og vilkårene for oppheving av avtalen,beskrivelse av eiendommen etc. som avtalen gjelder,prisen, tilleggskostnader og andre utgifter,tjenestene som omfattes av avtalen,angreretten og angrefristens lengde etter [§ 12](lov/2012-05-25-27/§12),betalingsplan og oppsigelse etter [§ 11](lov/2012-05-25-27/§11),forbudet mot forskuddsbetaling etter [§ 9](lov/2012-05-25-27/§9),mulighetene for å delta i en bytteordning,adgangen til utenrettslig tvisteløsning.
+I god tid før det blir inngått en avtale som omfattes av denne lov, skal den næringsdrivende gi forbrukeren nøyaktige og tilstrekkelige opplysninger om:
+
+1. den næringsdrivende som skal være part i avtalen,
+2. rettighetenes art og innhold etter avtalen,
+3. tidsrommet avtalen gjelder og vilkårene for oppheving av avtalen,
+4. beskrivelse av eiendommen etc. som avtalen gjelder,
+5. prisen, tilleggskostnader og andre utgifter,
+6. tjenestene som omfattes av avtalen,
+7. angreretten og angrefristens lengde etter [§ 12](lov/2012-05-25-27/§12),
+8. betalingsplan og oppsigelse etter [§ 11](lov/2012-05-25-27/§11),
+9. forbudet mot forskuddsbetaling etter [§ 9](lov/2012-05-25-27/§9),
+10. mulighetene for å delta i en bytteordning,
+11. adgangen til utenrettslig tvisteløsning.
 
 Departementet gir ved forskrift utfyllende bestemmelser om hvordan opplysningsplikten skal oppfylles, herunder at det skal brukes bestemte standardopplysningsskjemaer.
 

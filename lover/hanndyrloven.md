@@ -15,7 +15,7 @@ xml_hash: "9ba3d7e8b0d858042e1c29e79774500bf0c935fc4cb12c2972935d8bea07d8ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1.
 
-Det er forbode å sleppa verar og geitebukkar som er fødde før 15 april same året, på beitei sambeiteområde i utmark eller innmark,saman med sauer eller geiter som andre eig, i anna beiteområde ellerder tilhøva er slik at dei lett kan koma saman med sauer eller geiter som andre eig.
+Det er forbode å sleppa verar og geitebukkar som er fødde før 15 april same året, på beite
+
+1. i sambeiteområde i utmark eller innmark,
+2. saman med sauer eller geiter som andre eig, i anna beiteområde eller
+3. der tilhøva er slik at dei lett kan koma saman med sauer eller geiter som andre eig.
 
 Vidare er det forbode å la verar og geitebukkar som er fødde seinare enn fastsett i første stykket eller i vedtekt etter [§ 4](lov/1970-03-06-5/§4), gå på slikt beite lengre enn til 1 oktober.
 
@@ -38,13 +42,21 @@ Der er forbode å la hingst som er 2 år eller eldre, gå på sambeite der det g
 
 ## § 3.
 
-Det er forbode å la oksar som er eldre enn 6 månader gå på beite,i sambeiteområde i utmark eller innmark,saman med kyr som andre eig, i anna beiteområde ellerder tilhøva er slik at dei lett kan koma saman med kyr som andre eig.
+Det er forbode å la oksar som er eldre enn 6 månader gå på beite,
+
+1. i sambeiteområde i utmark eller innmark,
+2. saman med kyr som andre eig, i anna beiteområde eller
+3. der tilhøva er slik at dei lett kan koma saman med kyr som andre eig.
 
 Forboda gjeld ikkje beite på særskilt område der oksar blir haldne for seg, såframt området er forsvarleg inngjerda eller dyra er under forsvarleg tilsyn.
 
 ## § 4.
 
-Etter framlegg frå kommunen eller statsforvaltaren kan departementet i vedtekt for kommunen eller ein del av den gjera unntak frå eller avgrensa forboda i [§§ 1](lov/1970-03-06-5/§1) og 3. På same måten kan det til utviding av forboda fastsetjast:At forbodet i [§ 1](lov/1970-03-06-5/§1), første stykket, og skal gjelda ver og geitebukk fødd i nærare fastsett tid rekna frå 14 april.At forbodet i [§ 1](lov/1970-03-06-5/§1), andre stykket, skal gjelda frå eit tidspunkt før 1 oktober.At forbodet i [§ 3](lov/1970-03-06-5/§3), og skal gjelda oksar yngre enn 6 månader.
+Etter framlegg frå kommunen eller statsforvaltaren kan departementet i vedtekt for kommunen eller ein del av den gjera unntak frå eller avgrensa forboda i [§§ 1](lov/1970-03-06-5/§1) og 3. På same måten kan det til utviding av forboda fastsetjast:
+
+1. At forbodet i [§ 1](lov/1970-03-06-5/§1), første stykket, og skal gjelda ver og geitebukk fødd i nærare fastsett tid rekna frå 14 april.
+2. At forbodet i [§ 1](lov/1970-03-06-5/§1), andre stykket, skal gjelda frå eit tidspunkt før 1 oktober.
+3. At forbodet i [§ 3](lov/1970-03-06-5/§3), og skal gjelda oksar yngre enn 6 månader.
 
 Vedtekt som nemnd i første stykket kan gjevast sams for fleire kommunar eller fylke eller delar av desse. Gjeld det eit naturleg samanhengande område, kan slik vedtekt gjevast for heile området under eitt, jamvel om det ikkje ligg føre framlegg eller samtykke til det frå alle kommunane eller statsforvaltarane i området.
 

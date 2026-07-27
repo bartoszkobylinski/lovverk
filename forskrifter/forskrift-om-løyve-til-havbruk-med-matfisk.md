@@ -34,15 +34,34 @@ Forskrifta gjeld tildeling av inntil 45 løyve til havbruk med matfisk av laks, 
 
 ### § 3. Sakleg verkeområde for forskrifta og fordeling av løyve i denne runden
 
-For tildeling av løyve iGruppe A (Finnmark og Troms) gjeld kapittel I, II og VGruppe B (open gruppe med lukka bodrunde) gjeld kapittel I, III og VGruppe C (open gruppe) gjeld kapittel I, IV og V.
+For tildeling av løyve i
+
+- Gruppe A (Finnmark og Troms) gjeld kapittel I, II og V
+- Gruppe B (open gruppe med lukka bodrunde) gjeld kapittel I, III og V
+- Gruppe C (open gruppe) gjeld kapittel I, IV og V.
 
 ### § 4. Utlysing av løyve
 
-Fiskeridirektoratet står for den offentlege utlysinga av løyva, og utlysinga skal mellom anna innehaldeopplysningar om kvar søknadene skal sendastsøknadsfrist og opplysning om at søknader som kjem inn til Fiskeridirektoratet etter søknadsfristen vil bli avvisteat det ikkje er mogleg å endre søknaden eller komme med tilleggsopplysningar etter at søknadsfristen er gått utkrav til søknadenstorleiken på vederlaget for dei gruppene det er relevant foropplysningar om at bod innkomne i den lukka bodrunden er bindande og ikkje kan bli trekte tilbakeat søknader som er mangelfulle etter [§ 5](forskrift/2013-06-24-754/§5) blir avvisteopplysningar om søknadsgebyr.
+Fiskeridirektoratet står for den offentlege utlysinga av løyva, og utlysinga skal mellom anna innehalde
+
+1. opplysningar om kvar søknadene skal sendast
+2. søknadsfrist og opplysning om at søknader som kjem inn til Fiskeridirektoratet etter søknadsfristen vil bli avviste
+3. at det ikkje er mogleg å endre søknaden eller komme med tilleggsopplysningar etter at søknadsfristen er gått ut
+4. krav til søknaden
+5. storleiken på vederlaget for dei gruppene det er relevant for
+6. opplysningar om at bod innkomne i den lukka bodrunden er bindande og ikkje kan bli trekte tilbake
+7. at søknader som er mangelfulle etter [§ 5](forskrift/2013-06-24-754/§5) blir avviste
+8. opplysningar om søknadsgebyr.
 
 ### § 5. Innhald i søknaden
 
-Søknaden skal innehaldeopplysningar om kva gruppe og fylke søknaden gjeldopplysningar som er relevante i høve til tildelings- eller prekvalifiseringskriteria, jf. [kapittel II](forskrift/2013-06-24-754/kapii), III og IV, medrekna opplysningar om korleis styresmaktene eller tredjepart kan føre kontroll med løysingaopplysningar om kva løyve som eventuelt skal løysast inn, jf. [§ 6](forskrift/2013-06-24-754/§6)kvittering for innbetalt søknadsgebyrdokumentasjon av økonomisk evne til å betale vederlaget.
+Søknaden skal innehalde
+
+1. opplysningar om kva gruppe og fylke søknaden gjeld
+2. opplysningar som er relevante i høve til tildelings- eller prekvalifiseringskriteria, jf. [kapittel II](forskrift/2013-06-24-754/kapii), III og IV, medrekna opplysningar om korleis styresmaktene eller tredjepart kan føre kontroll med løysinga
+3. opplysningar om kva løyve som eventuelt skal løysast inn, jf. [§ 6](forskrift/2013-06-24-754/§6)
+4. kvittering for innbetalt søknadsgebyr
+5. dokumentasjon av økonomisk evne til å betale vederlaget.
 
 I tillegg gjeld særskilde krav for søknad til open gruppe med lukka bodrunde, jf. [§ 12](forskrift/2013-06-24-754/§12).
 
@@ -84,7 +103,12 @@ Inntil 10 løyve på 945 tonn maksimalt tillaten biomasse kan tildelast i kvart 
 
 Fem av løyva i kvart fylke er reservert aktørar som har 1 til og med 19 løyve (mindre aktørar) til oppdrett med laks, aure og regnbogeaure. Om ikkje alle løyva til dei mindre aktørane blir tildelt, kan dei som er att tildelast til større aktørar.
 
-Det er eit krav for å gi tilsegn om løyve at søkjaren forpliktar seg til å ta i bruk teknologiske eller driftsmessige løysingar som, samanlikna med løysingar som er i alminneleg kommersiell bruk, reduserer miljøutfordringane ved at løysingareduserer risikoen for at akvakulturproduksjonen vil påverke vill laksefisk som følgje av rømming. Løysinga skal vere knytt til akvakulturanlegget eller biomassen i anlegget,ellersikrar at det heile tida er færre enn 0,25 vaksne holus av lakselus (*Lepeophtheirus salmonis)* i gjennomsnitt per fisk, jf. [forskrift 5. desember 2012 nr. 1140](forskrift/2012-12-05-1140) om bekjempelse av lakselus i akvakulturanlegg [§ 6](forskrift/2012-12-05-1140/§6), eller at utsleppet av egg og frittsymjande stadier av lakselus til miljøet ikring ikkje er større enn det utsleppet ville vore frå tilsvarande tal på fisk med eit lusenivå på 0,25 vaksne holus i gjennomsnitt per fisk. Grensa skal kunne haldast ved bruk av maksimalt 3 medikamentelle behandlingar mot lakselus per produksjonssyklus.
+Det er eit krav for å gi tilsegn om løyve at søkjaren forpliktar seg til å ta i bruk teknologiske eller driftsmessige løysingar som, samanlikna med løysingar som er i alminneleg kommersiell bruk, reduserer miljøutfordringane ved at løysinga
+
+1. reduserer risikoen for at akvakulturproduksjonen vil påverke vill laksefisk som følgje av rømming. Løysinga skal vere knytt til akvakulturanlegget eller biomassen i anlegget,
+
+   eller
+2. sikrar at det heile tida er færre enn 0,25 vaksne holus av lakselus (*Lepeophtheirus salmonis)* i gjennomsnitt per fisk, jf. [forskrift 5. desember 2012 nr. 1140](forskrift/2012-12-05-1140) om bekjempelse av lakselus i akvakulturanlegg [§ 6](forskrift/2012-12-05-1140/§6), eller at utsleppet av egg og frittsymjande stadier av lakselus til miljøet ikring ikkje er større enn det utsleppet ville vore frå tilsvarande tal på fisk med eit lusenivå på 0,25 vaksne holus i gjennomsnitt per fisk. Grensa skal kunne haldast ved bruk av maksimalt 3 medikamentelle behandlingar mot lakselus per produksjonssyklus.
 
 I prioriteringa mellom søkjarar som oppfyller kriteria i tredje ledd, skal dei søknadene som har størst potensial for samla miljøforbetring etter kriteria i tredje ledd prioriterast. Tildelingsstyresmaktene skal vidare leggje vekt på om det er mogleg å kontrollere og føre tilsyn med at løysinga fungerer etter formålet.
 
@@ -100,7 +124,10 @@ Inntil 15 løyve kan tildelast uavhengig av fylke eller region. Løyve som blir 
 
 ### § 12. Særskilde krav for søknad om løyve i Gruppe B
 
-Søknaden skal i tillegg til opplysningane som er naudsynt etter [§ 5](forskrift/2013-06-24-754/§5) minimum innehalde følgjande:Ugjenkalleleg bod utan atterhald i norske kroner.Dokumentasjon på betalingsevne.
+Søknaden skal i tillegg til opplysningane som er naudsynt etter [§ 5](forskrift/2013-06-24-754/§5) minimum innehalde følgjande:
+
+1. Ugjenkalleleg bod utan atterhald i norske kroner.
+2. Dokumentasjon på betalingsevne.
 
 Bodet og dokumentasjon på betalingsevne skal leggjast ved i eigen, lukka konvolutt knytt til den einskilde søknaden, merka «Gruppe B» og namnet til søkjaren. Bodet skal skrivast på særskilt skjema utarbeidd av Fiskeridirektoratet. Søkjaren kan berre gi eitt bod per søknad.
 
@@ -110,7 +137,12 @@ Søknader som ikkje tilfredsstiller krava ovanfor blir avvist.
 
 ### § 13. Vilkår for prekvalifisering og fordeling av løyve
 
-For å vere kvalifisert for å delta i bodrunden, må søkjaren forplikte seg til å ta i bruk teknologiske eller driftsmessige løysingar som, samanlikna med løysingar som er i alminneleg kommersiell bruk, reduserer miljøutfordringane ved at løysingaReduserer risikoen for at akvakulturproduksjonen vil påverke vill laksefisk som følgje av rømming. Løysinga skal vere knytt til akvakulturanlegget eller biomassen i anlegget,ellersikrar at det heile tida er færre enn 0,25 vaksne holus av lakselus (*Lepeophtheirus salmonis)* i gjennomsnitt per fisk, jf. [forskrift 5. desember 2012 nr. 1140](forskrift/2012-12-05-1140) om bekjempelse av lakselus i akvakulturanlegg [§ 6](forskrift/2012-12-05-1140/§6), eller at utsleppet av egg og frittsymjande stadier av lakselus til miljøet ikring ikkje er større enn det utsleppet ville vore frå tilsvarande tal på fisk med eit lusenivå på 0,25 vaksne holus i gjennomsnitt per fisk. Grensa skal kunne haldast ved bruk av maksimalt 3 medikamentelle behandlingar mot lakselus per produksjonssyklus.
+For å vere kvalifisert for å delta i bodrunden, må søkjaren forplikte seg til å ta i bruk teknologiske eller driftsmessige løysingar som, samanlikna med løysingar som er i alminneleg kommersiell bruk, reduserer miljøutfordringane ved at løysinga
+
+1. Reduserer risikoen for at akvakulturproduksjonen vil påverke vill laksefisk som følgje av rømming. Løysinga skal vere knytt til akvakulturanlegget eller biomassen i anlegget,
+
+   eller
+2. sikrar at det heile tida er færre enn 0,25 vaksne holus av lakselus (*Lepeophtheirus salmonis)* i gjennomsnitt per fisk, jf. [forskrift 5. desember 2012 nr. 1140](forskrift/2012-12-05-1140) om bekjempelse av lakselus i akvakulturanlegg [§ 6](forskrift/2012-12-05-1140/§6), eller at utsleppet av egg og frittsymjande stadier av lakselus til miljøet ikring ikkje er større enn det utsleppet ville vore frå tilsvarande tal på fisk med eit lusenivå på 0,25 vaksne holus i gjennomsnitt per fisk. Grensa skal kunne haldast ved bruk av maksimalt 3 medikamentelle behandlingar mot lakselus per produksjonssyklus.
 
 Det er eit krav at løysinga som søkjaren forpliktar seg til å ta i bruk blir vurdert å vere forsvarleg å bruke i praksis, jf. [akvakulturlova § 10](lov/2005-06-17-79/§10) og [§ 12](lov/2005-06-17-79/§12). Tildelingsstyresmaktene skal ikkje – med unntak for det som følgjer av kriteria ovanfor – vurdere forhold som blir vurdert ved klarering av lokalitet.
 
@@ -124,7 +156,12 @@ Når departementet har avgjort eventuelle klagesaker etter tredje ledd, opnar fa
 
 Det kan tildelast inntil 10 løyve uavhengig av fylke eller region. Løyve som blir tildelt Finnmark eller Troms skal ha en maksimalt tillaten biomasse på 945 tonn. I resten av landet skal maksimalt tillaten biomasse vere 780 tonn.
 
-Det er eit krav for å gi tilsegn om løyve at søkjaren forpliktar seg til å ta i bruk teknologiske eller driftsmessige løysingar som, samanlikna med løysingar som er i alminneleg kommersiell bruk, reduserer miljøutfordringane vesentleg ved at løysingagir vesentleg mindre risiko for at akvakulturproduksjonen vil påverke vill laksefisk som følgje av rømming. Løysinga skal vere knytt til akvakulturanlegget eller biomassen i anlegget,ellersikrar at det heile tida er færre enn 0,1 vaksne holus av lakselus (*Lepeophtheirus salmonis)* i gjennomsnitt per fisk, jf. [forskrift 5. desember 2012 nr. 1140](forskrift/2012-12-05-1140) om bekjempelse av lakselus i akvakulturanlegg [§ 6](forskrift/2012-12-05-1140/§6), eller at utsleppet av egg og frittsymjande stadier av lakselus til miljøet ikring ikkje er større enn det utsleppet ville vore frå tilsvarande tal på fisk med eit lusenivå på 0,1 vaksne holus i gjennomsnitt per fisk. Grensa skal kunne haldast ved bruk av maksimalt 3 medikamentelle behandlingar mot lakselus per produksjonssyklus.
+Det er eit krav for å gi tilsegn om løyve at søkjaren forpliktar seg til å ta i bruk teknologiske eller driftsmessige løysingar som, samanlikna med løysingar som er i alminneleg kommersiell bruk, reduserer miljøutfordringane vesentleg ved at løysinga
+
+1. gir vesentleg mindre risiko for at akvakulturproduksjonen vil påverke vill laksefisk som følgje av rømming. Løysinga skal vere knytt til akvakulturanlegget eller biomassen i anlegget,
+
+   eller
+2. sikrar at det heile tida er færre enn 0,1 vaksne holus av lakselus (*Lepeophtheirus salmonis)* i gjennomsnitt per fisk, jf. [forskrift 5. desember 2012 nr. 1140](forskrift/2012-12-05-1140) om bekjempelse av lakselus i akvakulturanlegg [§ 6](forskrift/2012-12-05-1140/§6), eller at utsleppet av egg og frittsymjande stadier av lakselus til miljøet ikring ikkje er større enn det utsleppet ville vore frå tilsvarande tal på fisk med eit lusenivå på 0,1 vaksne holus i gjennomsnitt per fisk. Grensa skal kunne haldast ved bruk av maksimalt 3 medikamentelle behandlingar mot lakselus per produksjonssyklus.
 
 I prioriteringa mellom søkjarar som oppfyller krava i andre ledd, skal dei søknadene som har størst potensial for samla miljøforbetring etter kriteria i andre ledd prioriterast. Tildelingsstyresmaktene skal vidare leggje vekt på om det er mogleg å kontrollere og føre tilsyn med at løysinga fungerer etter formålet.
 

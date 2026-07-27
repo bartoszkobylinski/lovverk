@@ -15,7 +15,7 @@ xml_hash: "6b040c0be8c1a827de407c156ed2457f1160c398ab973721672d65818c3de4e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,30 @@ eu_basis: []
 
 1\. Pensjonstrygden omfatter med de unntak som følger av loven enhver norsk statsborger eller person med fast bopel i Norge meldt til folkeregisteret, og som er ansatt som arbeidstaker om bord på skip som nevnt i nr. 2 første ledd.
 
-2\. Som skip i pensjonstrygden regnes:ethvert skip, fiske- og fangstfartøy, borefartøy og annen flyttbar innretning i sjøen som har eget framdriftsmiddel eller utstyr for boring etter undersjøiske naturforekomster, og som er innført i norsk skipsregister med 100 tonnasjeenheter/registertonn brutto eller mer,Skip under 100 tonnasjeenheter/registertonn brutto som er innført i norsk skipsregister, dersom rederiet samtidig disponerer større skip som går inn under bokstav a, og arbeidstakerne om bord er fast ansatt i rederiet i medhold av [skipsarbeidsloven](lov/2013-06-21-102) eller [arbeidsmiljøloven § 1-2 andre ledd bokstav a](lov/2005-06-17-62/§1-2/ledd/2/bokstav/a), med rett og plikt til å tjenestegjøre på samtlige av rederiets skip,Redningsskøyter som tilhører Norsk Selskab til Skibbrudnes Redning,Skip som er innført i utenlandsk skipsregister når arbeidstaker om bord er trygdet etter [folketrygdloven § 2-1](lov/1997-02-28-19/§2-1). Det samme gjelder når arbeidstaker som går inn under nr. 1 er trygdet etter andre bestemmelser i [folketrygdloven](lov/1997-02-28-19) og pensjonstrygden bestemmer at vedkommende også skal omfattes av loven her etter regler fastsatt av styret.Som skip i pensjonstrygden regnes ikke:skip som vesentlig går i fart på norske innsjøer og elver,skip som tilhører Forsvaret.
+2\. Som skip i pensjonstrygden regnes:
 
-3\. Arbeidstakeren omfattes av pensjonstrygden så lenge ansettelsesforholdet om bord består, samt i perioder før eller etter dette mens vedkommende mottarhyre, feriegodtgjøring og fritidskompensasjon etter avtale eller lov inntil 12 måneder om gangen,sykepenger etter [folketrygdloven kapittel 8](lov/1997-02-28-19/kap8) for sykdom inntruffet i tid der arbeidstakeren er omfattet av trygden etter bestemmelsene i denne paragrafen, jf [§ 2](lov/1948-12-03-7/§2). Det samme gjelder omsorgspenger, pleiepenger, opplæringspenger, svangerskapspenger og foreldrepenger etter [folketrygdloven](lov/1997-02-28-19) kapitlene 9 og 14 i inntil 52 uker når tilfellet oppstår i tid der arbeidstakeren er omfattet av trygden.
+1. ethvert skip, fiske- og fangstfartøy, borefartøy og annen flyttbar innretning i sjøen som har eget framdriftsmiddel eller utstyr for boring etter undersjøiske naturforekomster, og som er innført i norsk skipsregister med 100 tonnasjeenheter/registertonn brutto eller mer,
+2. Skip under 100 tonnasjeenheter/registertonn brutto som er innført i norsk skipsregister, dersom rederiet samtidig disponerer større skip som går inn under bokstav a, og arbeidstakerne om bord er fast ansatt i rederiet i medhold av [skipsarbeidsloven](lov/2013-06-21-102) eller [arbeidsmiljøloven § 1-2 andre ledd bokstav a](lov/2005-06-17-62/§1-2/ledd/2/bokstav/a), med rett og plikt til å tjenestegjøre på samtlige av rederiets skip,
+3. Redningsskøyter som tilhører Norsk Selskab til Skibbrudnes Redning,
+4. Skip som er innført i utenlandsk skipsregister når arbeidstaker om bord er trygdet etter [folketrygdloven § 2-1](lov/1997-02-28-19/§2-1). Det samme gjelder når arbeidstaker som går inn under nr. 1 er trygdet etter andre bestemmelser i [folketrygdloven](lov/1997-02-28-19) og pensjonstrygden bestemmer at vedkommende også skal omfattes av loven her etter regler fastsatt av styret.
 
-4\. Foruten de generelle bestemmelser som følger av nr. 1-3, gjelder følgende særbestemmelser:På fartøy som driver fiske og fangst omfatter pensjonstrygden arbeidstakere ansatt i stilling om bord som skipsfører, styrmann, bestmann, maskinist, maskinassistent, fyrbøter (motormann), lemper, smører, maskingutt, stuert, kokk eller hjelpegutt.Såfremt fartøyet etter å ha levert fangsten settes i annen fart enn fiske og fangst, omfatter pensjonstrygden enhver som har sitt arbeid om bord i det tidsrom fartøyet går i slik fart.På borefartøy (boreskip og bevegelig boreplattform for boring etter undersjøiske naturforekomster) omfatter pensjonstrygden arbeidstakere som er eansatt i stilling om bord av borefartøyets eier, den som disponerer borefartøyet, boreentreprenør eller av disses underentreprenører – herunder cateringselskap.Omfattet av pensjonstrygden er også reder og partreder i full stilling om bord når en arbeidstaker i slik stilling ville være omfattet av trygden, og restauratør om bord som driver virksomheten for egen regning.
+Som skip i pensjonstrygden regnes ikke:
+
+1. skip som vesentlig går i fart på norske innsjøer og elver,
+2. skip som tilhører Forsvaret.
+
+3\. Arbeidstakeren omfattes av pensjonstrygden så lenge ansettelsesforholdet om bord består, samt i perioder før eller etter dette mens vedkommende mottar
+
+1. hyre, feriegodtgjøring og fritidskompensasjon etter avtale eller lov inntil 12 måneder om gangen,
+2. sykepenger etter [folketrygdloven kapittel 8](lov/1997-02-28-19/kap8) for sykdom inntruffet i tid der arbeidstakeren er omfattet av trygden etter bestemmelsene i denne paragrafen, jf [§ 2](lov/1948-12-03-7/§2). Det samme gjelder omsorgspenger, pleiepenger, opplæringspenger, svangerskapspenger og foreldrepenger etter [folketrygdloven](lov/1997-02-28-19) kapitlene 9 og 14 i inntil 52 uker når tilfellet oppstår i tid der arbeidstakeren er omfattet av trygden.
+
+4\. Foruten de generelle bestemmelser som følger av nr. 1-3, gjelder følgende særbestemmelser:
+
+1. På fartøy som driver fiske og fangst omfatter pensjonstrygden arbeidstakere ansatt i stilling om bord som skipsfører, styrmann, bestmann, maskinist, maskinassistent, fyrbøter (motormann), lemper, smører, maskingutt, stuert, kokk eller hjelpegutt.
+
+   Såfremt fartøyet etter å ha levert fangsten settes i annen fart enn fiske og fangst, omfatter pensjonstrygden enhver som har sitt arbeid om bord i det tidsrom fartøyet går i slik fart.
+2. På borefartøy (boreskip og bevegelig boreplattform for boring etter undersjøiske naturforekomster) omfatter pensjonstrygden arbeidstakere som er eansatt i stilling om bord av borefartøyets eier, den som disponerer borefartøyet, boreentreprenør eller av disses underentreprenører – herunder cateringselskap.
+3. Omfattet av pensjonstrygden er også reder og partreder i full stilling om bord når en arbeidstaker i slik stilling ville være omfattet av trygden, og restauratør om bord som driver virksomheten for egen regning.
 
 > Endret ved lover [29 juni 1951 nr. 28](lov/1951-06-29-28), [28 nov 1952 nr. 1](forskrift/1952-11-28-1), 14 juni 1974 nr. 42, [13 juni 1975 nr. 51](lov/1975-06-13-51), [16 des 1983 nr. 72](lov/1983-12-16-72), [24 mai 1985 nr. 36](lov/1985-05-24-36), [29 jan 1993 nr. 27](lov/1993-01-29-27), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [21 des 2000 nr. 124](lov/2000-12-21-124) (ikr. 1 jan 2001), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)), [19 des 2008 nr. 123](lov/2008-12-19-123) (ikr. 20 aug 2013 iflg. [res. 21 juni 2013 nr. 730](forskrift/2013-06-21-730)), [21 juni 2013 nr. 102](lov/2013-06-21-102) (ikr. 20 aug 2013 iflg. [res. 21 juni 2013 nr. 730](forskrift/2013-06-21-730)), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 juli 2024 iflg. [res. 20 des 2023 nr. 2132](forskrift/2023-12-20-2132)).
 
@@ -40,7 +59,14 @@ eu_basis: []
 
 1\. Styret kan i særlige tilfelle bestemme at arbeidstakere og flyttbare innretninger som ikke går inn under pensjonstrygden etter [§ 1](lov/1948-12-03-7/§1), likevel skal omfattes av trygden.
 
-2\. Unntatt fra pensjonstrygden er arbeidstakere som på grunn av stillingen om bord er medlemmer av Statens Pensjonskasse eller av annen offentlig pensjonsordning som styret finner likeverdig med pensjonstrygden etter loven her.Unntatt fra pensjonstrygden er også, uten hensyn til bestemmelsene i [§ 1](lov/1948-12-03-7/§1) nr. 1, personer som er ansatt i hotell- og restaurantvirksomhet ombord på turistskip registrert i norsk internasjonalt skipsregister.Styret kan i særlige tilfelle unnta fra pensjonstrygden:arbeidstakere på skip under 200 tonnasjeenheter/registertonn brutto og på skip som nyttes i ferje- eller havnetrafikk eller til annet formål enn transport, fiske og fangst.arbeidstakere som ikke hører til mannskapet. Ved unntak fra pensjonstrygden for større grupper (mer enn 50 personer) må disse også utføre en større del av sitt årlige arbeid i land, og departementets samtykke må foreligge.
+2\. Unntatt fra pensjonstrygden er arbeidstakere som på grunn av stillingen om bord er medlemmer av Statens Pensjonskasse eller av annen offentlig pensjonsordning som styret finner likeverdig med pensjonstrygden etter loven her.
+
+Unntatt fra pensjonstrygden er også, uten hensyn til bestemmelsene i [§ 1](lov/1948-12-03-7/§1) nr. 1, personer som er ansatt i hotell- og restaurantvirksomhet ombord på turistskip registrert i norsk internasjonalt skipsregister.
+
+Styret kan i særlige tilfelle unnta fra pensjonstrygden:
+
+1. arbeidstakere på skip under 200 tonnasjeenheter/registertonn brutto og på skip som nyttes i ferje- eller havnetrafikk eller til annet formål enn transport, fiske og fangst.
+2. arbeidstakere som ikke hører til mannskapet. Ved unntak fra pensjonstrygden for større grupper (mer enn 50 personer) må disse også utføre en større del av sitt årlige arbeid i land, og departementets samtykke må foreligge.
 
 3\. Departementet kan unnta grupper av arbeidstakere på borefartøy og annen flyttbar innretning i sjøen som nevnt i [§ 1](lov/1948-12-03-7/§1) nr. 2 bokstav a, jf nr. 4 bokstav b, dersom arbeidstaker- og arbeidsgiverorganisasjonene er enige om dette. Arbeidstakerne må omfattes av annen pensjonsordning som departementet finner minst like god.
 
@@ -50,9 +76,15 @@ eu_basis: []
 
 ### § 3
 
-1\. Som pensjonsgivende fartstid (fartsmåneder) regnes tid som går inn under [§ 1](lov/1948-12-03-7/§1), jf. [§ 2](lov/1948-12-03-7/§2), og som det er betalt avgift for. Når styret finner det rimelig, kan tid som går inn under [§ 1](lov/1948-12-03-7/§1), jf. [§ 2](lov/1948-12-03-7/§2), i særlige tilfelle regnes som pensjonsgivende, selv om avgift ikke er betalt.Som pensjonsgivende fartstid regnes også den tid vedkommende har mottatt godtgjøring som nevnt i [§ 1](lov/1948-12-03-7/§1) nr. 3 før det ble innført avgiftsplikt for slik tid, eller har fått sykehusbehandling for sykdom inntruffet i pensjonsgivende tjeneste. Styret kan gi regler om forenklet beregning for tid det er utbetalt feriegodtgjøring og fritidskompensasjon før 1. oktober 1975, som det ikke er betalt avgift for.
+1\. Som pensjonsgivende fartstid (fartsmåneder) regnes tid som går inn under [§ 1](lov/1948-12-03-7/§1), jf. [§ 2](lov/1948-12-03-7/§2), og som det er betalt avgift for. Når styret finner det rimelig, kan tid som går inn under [§ 1](lov/1948-12-03-7/§1), jf. [§ 2](lov/1948-12-03-7/§2), i særlige tilfelle regnes som pensjonsgivende, selv om avgift ikke er betalt.
 
-2\. I tjeneste på redningsskøyter som tilhører Norsk Selskab til Skibbrudnes redning, regnes hver fartsmåned etter 1. juli 1951, men før 1. juli 1975, som en og en halv pensjonsgivende fartsmåned.Under fangstsesongen i pensjonsgivende tjeneste på hvalfangst utenfor riket, reknes hver fartsmåned etter 1. juli 1951 som en og en halv pensjonsgivende fartsmåned, når arbeidstakeren mellom sesongene ikke overvintret i rederiets tjeneste.I ett år, 1. oktober – 30. september, regnes ikke mer enn 12 pensjonsgivende fartsmåneder.
+Som pensjonsgivende fartstid regnes også den tid vedkommende har mottatt godtgjøring som nevnt i [§ 1](lov/1948-12-03-7/§1) nr. 3 før det ble innført avgiftsplikt for slik tid, eller har fått sykehusbehandling for sykdom inntruffet i pensjonsgivende tjeneste. Styret kan gi regler om forenklet beregning for tid det er utbetalt feriegodtgjøring og fritidskompensasjon før 1. oktober 1975, som det ikke er betalt avgift for.
+
+2\. I tjeneste på redningsskøyter som tilhører Norsk Selskab til Skibbrudnes redning, regnes hver fartsmåned etter 1. juli 1951, men før 1. juli 1975, som en og en halv pensjonsgivende fartsmåned.
+
+Under fangstsesongen i pensjonsgivende tjeneste på hvalfangst utenfor riket, reknes hver fartsmåned etter 1. juli 1951 som en og en halv pensjonsgivende fartsmåned, når arbeidstakeren mellom sesongene ikke overvintret i rederiets tjeneste.
+
+I ett år, 1. oktober – 30. september, regnes ikke mer enn 12 pensjonsgivende fartsmåneder.
 
 3\. Del av kalendermåned regnes som halv fartsmåned dersom det er opptjent 15 dager eller mindre, og ellers som hel fartsmåned.
 
@@ -62,9 +94,22 @@ eu_basis: []
 
 ### § 4
 
-1\. Rett til alderspensjon har arbeidstaker som har minst 150 pensjonsgivende fartsmåneder.For å nå opp i minstekravet på 150 måneder, kan medregnesopptjente premieuker etter [lov 28. juni 1957 nr. 12 om pensjonstrygd for fiskere](lov/1957-06-28-12) dersom arbeidstakeren har opptjent minst 12 pensjonsgivende fartsmåneder som nevnt i [§ 3](lov/1948-12-03-7/§3). Styret kan i særlige tilfelle bestemme at tjenestetid i annen pensjonsordning opptjent på skip skal medregnes.opptjeningstid i andre pensjonsordninger, dersom arbeidstakeren er unntatt fra trygden etter [§ 2](lov/1948-12-03-7/§2) nr. 3. Styret gir nærmere regler.vernepliktstjeneste avsluttet før 1981 dersom avtjeningen tok til innen seks måneder etter utløpet av pensjonsgivende tidsrom eller maritim skolegang.Tid som nevnt i annet ledd, kan ikke medregnes ved utregning av alderspensjon etter denne lov.
+1\. Rett til alderspensjon har arbeidstaker som har minst 150 pensjonsgivende fartsmåneder.
 
-2\. Pensjonsalderen er 60 år for arbeidstaker som begynte i pensjonsgivende tjenestefør 1. januar 1969, elleretter 31. desember 1968, og som har opptjent minst 120 pensjonsgivende fartsmåneder etter fylte 40 år.For arbeidstaker som begynte i pensjonsgivende tjeneste etter 31. desember 1968, heves pensjonsalderen med én måned for hver to måneder som vedkommende mangler på 120 pensjonsgivende fartsmåneder etter fylte 40 år.
+For å nå opp i minstekravet på 150 måneder, kan medregnes
+
+1. opptjente premieuker etter [lov 28. juni 1957 nr. 12 om pensjonstrygd for fiskere](lov/1957-06-28-12) dersom arbeidstakeren har opptjent minst 12 pensjonsgivende fartsmåneder som nevnt i [§ 3](lov/1948-12-03-7/§3). Styret kan i særlige tilfelle bestemme at tjenestetid i annen pensjonsordning opptjent på skip skal medregnes.
+2. opptjeningstid i andre pensjonsordninger, dersom arbeidstakeren er unntatt fra trygden etter [§ 2](lov/1948-12-03-7/§2) nr. 3. Styret gir nærmere regler.
+3. vernepliktstjeneste avsluttet før 1981 dersom avtjeningen tok til innen seks måneder etter utløpet av pensjonsgivende tidsrom eller maritim skolegang.
+
+Tid som nevnt i annet ledd, kan ikke medregnes ved utregning av alderspensjon etter denne lov.
+
+2\. Pensjonsalderen er 60 år for arbeidstaker som begynte i pensjonsgivende tjeneste
+
+1. før 1. januar 1969, eller
+2. etter 31. desember 1968, og som har opptjent minst 120 pensjonsgivende fartsmåneder etter fylte 40 år.
+
+   For arbeidstaker som begynte i pensjonsgivende tjeneste etter 31. desember 1968, heves pensjonsalderen med én måned for hver to måneder som vedkommende mangler på 120 pensjonsgivende fartsmåneder etter fylte 40 år.
 
 3\. Alderspensjon ytes til og med den kalendermåned pensjonisten fyller 67 år, eller til den kalendermåned pensjonisten får uføretrygd eller arbeidsavklaringspenger etter [lov om folketrygd](lov/1997-02-28-19) for hel uførhet eller full avtalefestet pensjon som omfattes av [samordningsloven § 1 første ledd bokstav d](lov/1957-07-06-26/§1/ledd/1/bokstav/d).
 
@@ -76,11 +121,20 @@ eu_basis: []
 
 ### § 5
 
-1\. Årspensjonen beregnes på grunnlag av antall pensjonsgivende fartsmåneder multiplisert med pensjonssatser som gjelder på uttakstidspunktet for fartstid opptjent som overordnet og/eller underordnet. Satsene på uttakstidspunktet utgjør foroverordnet 0,91 prosent av grunnbeløpet, og forunderordnet 0,76 prosent av grunnbeløpet når fartstiden er opptjent etter 30. april 1993 og 0,65 prosent av grunnbeløpet når fartstiden er opptjent før 1. mai 1993.Inndelingen svarer til gruppene for betaling av arbeidstakeravgift, se [§ 9](lov/1948-12-03-7/§9).Måned som arbeidstakeren oppebærer pensjon for etter denne lov, regnes ikke med. Alderspensjonen regnes ikke for mer enn 360 fartsmåneder i alt. Har arbeidstakeren mer enn 360 fartsmåneder, regnes pensjonen på grunnlag av de måneder som gir størst pensjon.
+1\. Årspensjonen beregnes på grunnlag av antall pensjonsgivende fartsmåneder multiplisert med pensjonssatser som gjelder på uttakstidspunktet for fartstid opptjent som overordnet og/eller underordnet. Satsene på uttakstidspunktet utgjør for
+
+- overordnet 0,91 prosent av grunnbeløpet, og for
+- underordnet 0,76 prosent av grunnbeløpet når fartstiden er opptjent etter 30. april 1993 og 0,65 prosent av grunnbeløpet når fartstiden er opptjent før 1. mai 1993.
+
+Inndelingen svarer til gruppene for betaling av arbeidstakeravgift, se [§ 9](lov/1948-12-03-7/§9).
+
+Måned som arbeidstakeren oppebærer pensjon for etter denne lov, regnes ikke med. Alderspensjonen regnes ikke for mer enn 360 fartsmåneder i alt. Har arbeidstakeren mer enn 360 fartsmåneder, regnes pensjonen på grunnlag av de måneder som gir størst pensjon.
 
 2\. For pensjonist som har uføretrygd eller arbeidsavklaringspenger etter [lov om folketrygd](lov/1997-02-28-19) for mindre enn hel uførhet eller gradert avtalefestet pensjon som omfattes av [samordningsloven § 1 første ledd bokstav d](lov/1957-07-06-26/§1/ledd/1/bokstav/d), bortfaller en forholdsmessig del av alderspensjonen som svarer til uføregraden eller pensjonsgraden.
 
-3\. Alderspensjon under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.Ved regulering av pensjoner etter første ledd benyttes de reguleringsfaktorene Kongen fastsetter etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) åttende ledd og [§ 20-18](lov/1997-02-28-19/§20-18) åttende ledd.
+3\. Alderspensjon under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.
+
+Ved regulering av pensjoner etter første ledd benyttes de reguleringsfaktorene Kongen fastsetter etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) åttende ledd og [§ 20-18](lov/1997-02-28-19/§20-18) åttende ledd.
 
 4\. For pensjonist som forsørger barn under 18 år, ytes et barnetillegg med 10 prosent av alderspensjonen for hvert barn.
 
@@ -92,7 +146,15 @@ eu_basis: []
 
 Det gis et tillegg til pensjonen til pensjonist som har minst 36 pensjonsgivende fartsmåneder i løpet av de siste 60 månedene før den måned pensjonen tas ut (virkningstidspunktet). Det gis ikke tillegg dersom vedkommende har en årlig pensjonsgivende inntekt, jf [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15), over to ganger folketrygdens grunnbeløp. Styret kan gi nærmere regler om gjennomføringen.
 
-Tillegget utgjør23 prosent av pensjonen for personer født i et av årene 1934-42,20 prosent av pensjonen for personer født i et av årene 1943-45,17 prosent av pensjonen for personer født i et av årene 1946-48,14 prosent av pensjonen for personer født i et av årene 1949-51,11 prosent av pensjonen for personer født i et av årene 1952-54,8 prosent av pensjonen for personer født i et av årene 1955-59, og5 prosent av pensjonen for personer født i et av årene 1960-64
+Tillegget utgjør
+
+1. 23 prosent av pensjonen for personer født i et av årene 1934-42,
+2. 20 prosent av pensjonen for personer født i et av årene 1943-45,
+3. 17 prosent av pensjonen for personer født i et av årene 1946-48,
+4. 14 prosent av pensjonen for personer født i et av årene 1949-51,
+5. 11 prosent av pensjonen for personer født i et av årene 1952-54,
+6. 8 prosent av pensjonen for personer født i et av årene 1955-59, og
+7. 5 prosent av pensjonen for personer født i et av årene 1960-64
 
 > Endret ved lover [20 des 1968 nr. 2](lov/1968-12-20-2) (tidligere § 7), [29 jan 1993 nr. 27](lov/1993-01-29-27), [11 juni 1993 nr. 104](lov/1993-06-11-104), [16 juni 1994 nr. 22](lov/1994-06-16-22), [16 juni 2000 nr. 44](lov/2000-06-16-44) (ikr. 1 jan 2001).
 
@@ -124,7 +186,12 @@ Tillegget utgjør23 prosent av pensjonen for personer født i et av årene 1934-
 
 ### § 8
 
-Utgiftene til ytelser etter denne loven og til trygdens administrasjon dekkes ved:avgift på arbeidstakere, jf. [§ 9](lov/1948-12-03-7/§9) og [§ 40](lov/1948-12-03-7/§40),avgift på rederier, jf. [§ 11](lov/1948-12-03-7/§11) og [§ 41](lov/1948-12-03-7/§41),tilskott fra trygdens fond, jf. [§ 14](lov/1948-12-03-7/§14),tilskott fra staten, jf. [§ 15](lov/1948-12-03-7/§15).
+Utgiftene til ytelser etter denne loven og til trygdens administrasjon dekkes ved:
+
+1. avgift på arbeidstakere, jf. [§ 9](lov/1948-12-03-7/§9) og [§ 40](lov/1948-12-03-7/§40),
+2. avgift på rederier, jf. [§ 11](lov/1948-12-03-7/§11) og [§ 41](lov/1948-12-03-7/§41),
+3. tilskott fra trygdens fond, jf. [§ 14](lov/1948-12-03-7/§14),
+4. tilskott fra staten, jf. [§ 15](lov/1948-12-03-7/§15).
 
 Trygden er garantert av staten.
 
@@ -132,11 +199,18 @@ Trygden er garantert av staten.
 
 ### § 9
 
-1\. Arbeidstakere inndeles i avgiftsgrupper slik:gruppe 1 (overordnede), skipsfører, styrmann, maskinist, og andre stillinger som styret finner likeverdige.gruppe 2 (underordnede), matroser m.fl. som ikke er omfattet av gruppe 1.
+1\. Arbeidstakere inndeles i avgiftsgrupper slik:
+
+- gruppe 1 (overordnede), skipsfører, styrmann, maskinist, og andre stillinger som styret finner likeverdige.
+- gruppe 2 (underordnede), matroser m.fl. som ikke er omfattet av gruppe 1.
 
 2\. Arbeidstakeravgiften utgjør pr. måned 1,17 prosent av grunnbeløpet i folketrygden for arbeidstakere i gruppe 1 og 0,91 prosent av grunnbeløpet for arbeidstakere i gruppe 2.
 
-3\. Avgiften regnes pr. kalendermåned. Omfattes arbeidstakeren av trygden i 15 dager eller mindre i en kalendermåned, svares halv avgift. Ellers svares full månedsavgift. Avgiftsbeløpene avrundes til nærmeste hele krone.Arbeidstakeravgift av sykepenger som nevnt i [§ 1](lov/1948-12-03-7/§1) nr. 3 kan beregnes etter dagsatser.Styret kan gi nærmere regler om gjennomføringen av bestemmelsene i første og annet ledd.
+3\. Avgiften regnes pr. kalendermåned. Omfattes arbeidstakeren av trygden i 15 dager eller mindre i en kalendermåned, svares halv avgift. Ellers svares full månedsavgift. Avgiftsbeløpene avrundes til nærmeste hele krone.
+
+Arbeidstakeravgift av sykepenger som nevnt i [§ 1](lov/1948-12-03-7/§1) nr. 3 kan beregnes etter dagsatser.
+
+Styret kan gi nærmere regler om gjennomføringen av bestemmelsene i første og annet ledd.
 
 > Svarer til tidligere § 27, som ble endret ved lover [29 juni 1951 nr. 28](lov/1951-06-29-28), 26 juni 1953 nr. 10, 21 juni 1963 nr. 14, [20 des 1968 nr. 2](lov/1968-12-20-2), [13 juni 1975 nr. 51](lov/1975-06-13-51), [20 mai 1983 nr. 26](lov/1983-05-20-26), [29 jan 1993 nr. 27](lov/1993-01-29-27), [11 juni 1993 nr. 104](lov/1993-06-11-104), [9 des 1994 nr. 65](lov/1994-12-09-65) (ikr. 1 mars 1995), [13 juni 1997 nr. 58](lov/1997-06-13-58) (ikr. 1 mai 1997). Flyttet hit som § 9 ved lov [16 juni 2000 nr. 44](lov/2000-06-16-44) (ikr. 1 jan 2001).
 
@@ -150,7 +224,9 @@ Under sykdom som nevnt i [§ 1](lov/1948-12-03-7/§1) nr. 3 er den som utbetaler
 
 ### § 11
 
-1\. Rederiet betaler i avgift et beløp som utgjør 3,3 prosent av arbeidstakerens bruttoinntekt om bord, herunder av hyre m.v. som nevnt i [§ 1](lov/1948-12-03-7/§1) nr. 3 bokstav a og av sykepenger som nevnt i [§ 1](lov/1948-12-03-7/§1) nr. 3 bokstav b som rederiet plikter å betale. For arbeidstaker på fartøy som driver fiske og fangst, skal dog avgiften være et beløp som utgjør 150 prosent av arbeidstakerens avgift etter [§ 9](lov/1948-12-03-7/§9).Pensjonstrygdens styre kan gi nærmere regler om gjennomføringen og kan herunder bestemme at avgiften skal beregnes etter første ledd andre punktum også i andre tilfelle.
+1\. Rederiet betaler i avgift et beløp som utgjør 3,3 prosent av arbeidstakerens bruttoinntekt om bord, herunder av hyre m.v. som nevnt i [§ 1](lov/1948-12-03-7/§1) nr. 3 bokstav a og av sykepenger som nevnt i [§ 1](lov/1948-12-03-7/§1) nr. 3 bokstav b som rederiet plikter å betale. For arbeidstaker på fartøy som driver fiske og fangst, skal dog avgiften være et beløp som utgjør 150 prosent av arbeidstakerens avgift etter [§ 9](lov/1948-12-03-7/§9).
+
+Pensjonstrygdens styre kan gi nærmere regler om gjennomføringen og kan herunder bestemme at avgiften skal beregnes etter første ledd andre punktum også i andre tilfelle.
 
 > Svarer til tidligere § 29, som ble endret ved lover [29 juni 1951 nr. 28](lov/1951-06-29-28), 28 nov 1952 nr. 1, 26 juni 1953 nr. 10, 21 juni 1963 nr. 14, [20 des 1968 nr. 2](lov/1968-12-20-2), [13 juni 1975 nr. 51](lov/1975-06-13-51), 31 mars 1978 nr. 9, [24 mai 1985 nr. 36](lov/1985-05-24-36), [12 juni 1987 nr. 48](lov/1987-06-12-48), [29 jan 1993 nr. 27](lov/1993-01-29-27), [9 des 1994 nr. 65](lov/1994-12-09-65) (ikr. 1 mars 1995). Flyttet hit som § 11 ved lov [16 juni 2000 nr. 44](lov/2000-06-16-44) (ikr. 1 jan 2001). Endret ved lov [21 des 2000 nr. 124](lov/2000-12-21-124) (ikr. 1 jan 2001).
 
@@ -180,7 +256,11 @@ Styret skal minst hvert fjerde år foreta en forsikringsteknisk beregning av try
 
 ### § 15
 
-1\. Fra 1. januar 1967 dekker staten den beregnede del av pensjonsutgiftene som skyldes:krigsfartstillegget, se [§ 28](lov/1948-12-03-7/§28).enkepensjoner etter arbeidstakere som sluttet i pensjonsgivende tjeneste før 1. september 1939,pensjoner for fartstid i utenlandsk hvalfangst, før 1. september 1939 og etter 31. desember 1945.
+1\. Fra 1. januar 1967 dekker staten den beregnede del av pensjonsutgiftene som skyldes:
+
+1. krigsfartstillegget, se [§ 28](lov/1948-12-03-7/§28).
+2. enkepensjoner etter arbeidstakere som sluttet i pensjonsgivende tjeneste før 1. september 1939,
+3. pensjoner for fartstid i utenlandsk hvalfangst, før 1. september 1939 og etter 31. desember 1945.
 
 2\. Hvert år fra og med 1967 og i 40 år fremover yter staten dessuten et tilskott på 6,25 mill. kroner til trygden.
 
@@ -194,9 +274,22 @@ Styret skal minst hvert fjerde år foreta en forsikringsteknisk beregning av try
 
 ### § 16
 
-1\. Arbeidstaker har rett til å få tilbake avgift han har betalt til pensjonstrygden, hvis han:har sluttet å opptjene pensjonsgivende fartstid som nevnt i [§ 1](lov/1948-12-03-7/§1), jf. [§ 2](lov/1948-12-03-7/§2),ikke har nok fartsmåneder til å få pensjon, jf. [§ 4](lov/1948-12-03-7/§4) nr. 1,har betalt for minst 36 pensjonsgivende fartsmåneder,har nådd pensjonsalderen, jf. [§ 4](lov/1948-12-03-7/§4) nr. 2,på det tidspunkt vilkårene i bokstav a til d er oppfylt, ikke får uføretrygd eller arbeidsavklaringspenger fra folketrygden for hel uførhet eller full avtalefestet pensjon som omfattes av [samordningsloven § 1 første ledd bokstav d](lov/1957-07-06-26/§1/ledd/1/bokstav/d).Retten til å kreve tilbakebetaling opphører:fra og med kalendermåneden etter den måned arbeidstakeren fyller 67 år.ved arbeidstakerens død.
+1\. Arbeidstaker har rett til å få tilbake avgift han har betalt til pensjonstrygden, hvis han:
 
-2\. Avgift som tilbakebetales etter denne bestemmelse, skal svare til 2/3 av ett års alderspensjon etter [§ 5](lov/1948-12-03-7/§5) nr. 1, på grunnlag av de pensjonsgivende fartsmåneder han har tjent opp.Har arbeidstakeren ytelse fra folketrygden som nevnt i nr. 1 første ledd bokstav e for mindre enn hel uførhet eller gradert avtalefestet pensjon, skal tilbakebetaling gis med 50 prosent av beløpet etter første ledd.
+1. har sluttet å opptjene pensjonsgivende fartstid som nevnt i [§ 1](lov/1948-12-03-7/§1), jf. [§ 2](lov/1948-12-03-7/§2),
+2. ikke har nok fartsmåneder til å få pensjon, jf. [§ 4](lov/1948-12-03-7/§4) nr. 1,
+3. har betalt for minst 36 pensjonsgivende fartsmåneder,
+4. har nådd pensjonsalderen, jf. [§ 4](lov/1948-12-03-7/§4) nr. 2,
+5. på det tidspunkt vilkårene i bokstav a til d er oppfylt, ikke får uføretrygd eller arbeidsavklaringspenger fra folketrygden for hel uførhet eller full avtalefestet pensjon som omfattes av [samordningsloven § 1 første ledd bokstav d](lov/1957-07-06-26/§1/ledd/1/bokstav/d).
+
+Retten til å kreve tilbakebetaling opphører:
+
+1. fra og med kalendermåneden etter den måned arbeidstakeren fyller 67 år.
+2. ved arbeidstakerens død.
+
+2\. Avgift som tilbakebetales etter denne bestemmelse, skal svare til 2/3 av ett års alderspensjon etter [§ 5](lov/1948-12-03-7/§5) nr. 1, på grunnlag av de pensjonsgivende fartsmåneder han har tjent opp.
+
+Har arbeidstakeren ytelse fra folketrygden som nevnt i nr. 1 første ledd bokstav e for mindre enn hel uførhet eller gradert avtalefestet pensjon, skal tilbakebetaling gis med 50 prosent av beløpet etter første ledd.
 
 3\. Blir arbeidstaker som har fått tilbakebetaling etter nr. 2, senere berettiget til alderspensjon, kan det beløp som er tilbakebetalt trekkes fra i framtidige pensjoner.
 
@@ -240,7 +333,9 @@ Pensjonstrygdens regnskap revideres av Riksrevisjonen.
 
 ### § 21
 
-1\. Pensjonstrygden for sjømenn kan kreve at offentlige myndigheter, rederier samt institusjoner som administrerer andre pensjonsordninger, uten godtgjørelse og uten hinder av taushetsplikt, skal gi Pensjonstrygden for sjømenn de opplysninger som er nødvendige for å utføre oppgaver etter denne loven.Pensjonstrygden kan, uten hinder av taushetsplikt, innhente fra Folkeregisteret de opplysninger som er nødvendige for å utføre oppgaver etter denne loven. Pensjonstrygden skal også ha tilgang til opplysninger i registeret til utredning og produksjon av statistikk.
+1\. Pensjonstrygden for sjømenn kan kreve at offentlige myndigheter, rederier samt institusjoner som administrerer andre pensjonsordninger, uten godtgjørelse og uten hinder av taushetsplikt, skal gi Pensjonstrygden for sjømenn de opplysninger som er nødvendige for å utføre oppgaver etter denne loven.
+
+Pensjonstrygden kan, uten hinder av taushetsplikt, innhente fra Folkeregisteret de opplysninger som er nødvendige for å utføre oppgaver etter denne loven. Pensjonstrygden skal også ha tilgang til opplysninger i registeret til utredning og produksjon av statistikk.
 
 2\. Trygden har rett til når som helst å gjennomgå et rederis mannskapslister, hyrerekneskaper m.v. for å kontrollere oppgavene til og oppgjøret med trygden.
 
@@ -274,7 +369,10 @@ Departementet kan gi forskrift om behandlingen, blant annet om formålet med beh
 
 ### § 23
 
-Daglig leder kan avslå et krav om pensjon eller tillegg og holde tilbake eller stanse en innvilget ytelse helt eller delvis dersom vedkommendemot bedre vitende gir uriktige opplysninger, ellerholder tilbake opplysninger som er viktige for rettigheter eller plikter etter denne loven.
+Daglig leder kan avslå et krav om pensjon eller tillegg og holde tilbake eller stanse en innvilget ytelse helt eller delvis dersom vedkommende
+
+1. mot bedre vitende gir uriktige opplysninger, eller
+2. holder tilbake opplysninger som er viktige for rettigheter eller plikter etter denne loven.
 
 > Svarer til tidligere § 24 første ledd. Flyttet hit som § 23 ved lov [16 juni 2000 nr. 44](lov/2000-06-16-44) (ikr. 1 jan 2001), endret ved lov [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021).
 
@@ -284,7 +382,14 @@ Daglig leder kan avslå et krav om pensjon eller tillegg og holde tilbake eller 
 
 2\. I andre tilfeller enn nevnt i nr. 1, kan det som er utbetalt for mye, kreves tilbake dersom særlige grunner gjør det rimelig. Ved vurderingen av om det foreligger særlige grunner, skal det blant annet legges vekt på hvor lang tid det er gått siden den feilaktige utbetalingen fant sted, og om vedkommende har innrettet seg i tillit til utbetalingen. Kravet om tilbakebetaling etter dette nummeret er begrenset til det beløp som er i behold når vedkommende blir kjent med at utbetalingen var feilaktig.
 
-3\. Når en alderspensjon eller tillegg til alderspensjon som er nevnt i andre ledd er feil utbetalt, skal det som er utbetalt for mye avregnes ved trekk i framtidig pensjon etter denne loven.Avregningsordningen gjelder foralderspensjon som er utbetalt i strid med vilkårene i [§ 4](lov/1948-12-03-7/§4) nr. 4, til arbeidstakere som ikke er fylt 62 årtillegg til alderspensjon etter [§ 6](lov/1948-12-03-7/§6) som er utbetalt til pensjonister med en pensjonsgivende inntekt over to ganger folketrygdens grunnbeløp.Det som er utbetalt for mye, skal avregnes med opp til 20 prosent av den månedlige ytelsen.
+3\. Når en alderspensjon eller tillegg til alderspensjon som er nevnt i andre ledd er feil utbetalt, skal det som er utbetalt for mye avregnes ved trekk i framtidig pensjon etter denne loven.
+
+Avregningsordningen gjelder for
+
+1. alderspensjon som er utbetalt i strid med vilkårene i [§ 4](lov/1948-12-03-7/§4) nr. 4, til arbeidstakere som ikke er fylt 62 år
+2. tillegg til alderspensjon etter [§ 6](lov/1948-12-03-7/§6) som er utbetalt til pensjonister med en pensjonsgivende inntekt over to ganger folketrygdens grunnbeløp.
+
+Det som er utbetalt for mye, skal avregnes med opp til 20 prosent av den månedlige ytelsen.
 
 4\. Trekk etter nr. 1 og nr. 3 avbryter foreldelse etter [lov 18. mai 1979 nr. 18 om foreldelse av fordringer](lov/1979-05-18-18). Dersom slikt trekk opphører, varer virkningen av avbrutt foreldelse i ett år etter at trekket opphørte.
 
@@ -292,7 +397,11 @@ Daglig leder kan avslå et krav om pensjon eller tillegg og holde tilbake eller 
 
 ### § 25
 
-Hvis ikke forholdet går inn under strengere straffebud, straffes med bøter:den som unnlater til tid som er fastsatt etter denne lov å gi meldinger, oppgaver eller opplysninger som er påbudt,den som forsettlig eller grovt uaktsomt gir uriktige opplysninger om lønns-, arbeids eller forsørgningsforhold, eller om det tidspunkt et tjenesteforhold er begynt eller opphørt,den som tross pålegg unnlater å innbetale avgift til trygden.
+Hvis ikke forholdet går inn under strengere straffebud, straffes med bøter:
+
+1. den som unnlater til tid som er fastsatt etter denne lov å gi meldinger, oppgaver eller opplysninger som er påbudt,
+2. den som forsettlig eller grovt uaktsomt gir uriktige opplysninger om lønns-, arbeids eller forsørgningsforhold, eller om det tidspunkt et tjenesteforhold er begynt eller opphørt,
+3. den som tross pålegg unnlater å innbetale avgift til trygden.
 
 > Svarer til tidligere § 43, som ble endret ved lover [14 apr 1972 nr. 15](lov/1972-04-14-15), [12 juni 1981 nr. 75](lov/1981-06-12-75) og [29 jan 1993 nr. 27](lov/1993-01-29-27). Flyttet hit som § 25 ved lov [16 juni 2000 nr. 44](lov/2000-06-16-44) (ikr. 1 jan 2001). Endret ved lover [21 des 2000 nr. 124](lov/2000-12-21-124) (ikr. 1 jan 2001), [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
@@ -318,23 +427,40 @@ Rettigheter etter denne lov kan endres, innskrenkes eller oppheves ved senere lo
 
 ### § 28
 
-1\. Den som er fylt 67 år før 1. januar 2001, har rett til alderspensjon etter fylte 67 år etter bestemmelsene i denne loven som gjaldt før denne datoen, herunder alderspensjon etter fastlåste pensjonssatser og krigsfartstillegg for fartsmåneder mellom 1. september 1939 og 31. desember 1945.De fastlåste pensjonssatsene for årlig alderspensjon er kr 17,00 for hver fartsmåned som underordnet og kr 29,00 for hver fartsmåned som overordnet.Krigsfartstillegget er årlig 0,87 prosent av grunnbeløpet i folketrygden per 1. januar 2011 for hver fartsmåned som underordnet og 1,22 prosent av grunnbeløpet per 1. januar 2011 for hver fartsmåned som overordnet. Satsene reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. [§ 5](lov/1948-12-03-7/§5) nr. 3 annet ledd gjelder tilsvarende.
+1\. Den som er fylt 67 år før 1. januar 2001, har rett til alderspensjon etter fylte 67 år etter bestemmelsene i denne loven som gjaldt før denne datoen, herunder alderspensjon etter fastlåste pensjonssatser og krigsfartstillegg for fartsmåneder mellom 1. september 1939 og 31. desember 1945.
+
+De fastlåste pensjonssatsene for årlig alderspensjon er kr 17,00 for hver fartsmåned som underordnet og kr 29,00 for hver fartsmåned som overordnet.
+
+Krigsfartstillegget er årlig 0,87 prosent av grunnbeløpet i folketrygden per 1. januar 2011 for hver fartsmåned som underordnet og 1,22 prosent av grunnbeløpet per 1. januar 2011 for hver fartsmåned som overordnet. Satsene reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. [§ 5](lov/1948-12-03-7/§5) nr. 3 annet ledd gjelder tilsvarende.
 
 2\. Den som er innvilget eller innvilges alderspensjon etter denne loven og uførepensjon eller arbeidsavklaringspenger fra folketrygden eller avtalefestet pensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav d med virkning fra et tidspunkt før 1. januar 2001, har rett til alderspensjon etter bestemmelsene i denne loven som gjaldt før denne datoen, herunder pensjon etter satser som nevnt i nr. 1. Pensjonen ytes etter de tidligere bestemmelsene også etter at pensjonisten er fylt 67 år.
 
-3\. Ved dødsfall som fant sted før 1. januar 2001, ytes det enkepensjon og overgangsstønad etter fastlåste pensjonssatser etter reglene som gjaldt før denne datoen. Det samme gjelder ved senere dødsfall dersom avdøde ved dødsfallet hadde rett til krigsfartstillegg.De fastlåste pensjonssatsene for årlig enkepensjon er kr 5,00 for hver fartsmåned som underordnet og kr 12,00 for hver fartsmåned som overordnet. Krigsfartstillegget er 60 prosent av tillegget etter nr. 1 tredje ledd.
+3\. Ved dødsfall som fant sted før 1. januar 2001, ytes det enkepensjon og overgangsstønad etter fastlåste pensjonssatser etter reglene som gjaldt før denne datoen. Det samme gjelder ved senere dødsfall dersom avdøde ved dødsfallet hadde rett til krigsfartstillegg.
 
-4\. Alderspensjon, enkepensjon og overgangsstønad som ytes etter nr. 1 – 3 i denne paragrafen, utløses med kapitalverdien, hvisårspensjonen er mindre enn et beløp som svarer til 4 prosent av folketrygdens grunnbeløp ogdet ikke foretas samordning med personskadepensjon.Styret gir nærmere regler om kapitalutløsningen.
+De fastlåste pensjonssatsene for årlig enkepensjon er kr 5,00 for hver fartsmåned som underordnet og kr 12,00 for hver fartsmåned som overordnet. Krigsfartstillegget er 60 prosent av tillegget etter nr. 1 tredje ledd.
+
+4\. Alderspensjon, enkepensjon og overgangsstønad som ytes etter nr. 1 – 3 i denne paragrafen, utløses med kapitalverdien, hvis
+
+1. årspensjonen er mindre enn et beløp som svarer til 4 prosent av folketrygdens grunnbeløp og
+2. det ikke foretas samordning med personskadepensjon.
+
+Styret gir nærmere regler om kapitalutløsningen.
 
 > Tilføyd ved lov [16 juni 2000 nr. 44](lov/2000-06-16-44) (ikr. 1 jan 2001), endret ved lover [21 des 2000 nr. 124](lov/2000-12-21-124) (ikr. 1 jan 2001), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [17 des 2010 nr. 77](lov/2010-12-17-77) (ikr. 1 jan 2011), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [1 april 2022 nr. 17](lov/2022-04-01-17) (ikr. 1 april 2022 iflg. [res. 1 april 2022 nr. 496](forskrift/2022-04-01-496), se endringslovens del XII for overgangsregler).
 
 ### § 29
 
-1\. Dersom en alderspensjonist som har opptjent pensjonsgivende fartstid før 1. januar 1967 får en ugradert alderspensjon fra folketrygden som beregnet ved 67 år før levealdersjustering og tillagt eventuelt forsørgingstillegg til alderspensjon etter [folketrygdloven §§ 3-24](lov/1997-02-28-19/§3-24), [3-25](lov/1997-02-28-19/§3-25) og [3-26](lov/1997-02-28-19/§3-26) er mindre enn det alderspensjonen fra pensjonstrygden for sjømenn var før fylte 67 år, skal det gis et overgangstillegg fra pensjonstrygden som tilsvarer forskjellen.Bestemmelsen i første ledd gjelder ikke nedgang i pensjon som skyldes manglende trygdetid i folketrygden, eller at barnetillegg eller tillegg etter [§ 6](lov/1948-12-03-7/§6) i denne loven faller bort.Dersom pensjonen fra folketrygden øker utover det som skyldes at pensjonen reguleres, reduseres overgangstillegget med det overskytende.
+1\. Dersom en alderspensjonist som har opptjent pensjonsgivende fartstid før 1. januar 1967 får en ugradert alderspensjon fra folketrygden som beregnet ved 67 år før levealdersjustering og tillagt eventuelt forsørgingstillegg til alderspensjon etter [folketrygdloven §§ 3-24](lov/1997-02-28-19/§3-24), [3-25](lov/1997-02-28-19/§3-25) og [3-26](lov/1997-02-28-19/§3-26) er mindre enn det alderspensjonen fra pensjonstrygden for sjømenn var før fylte 67 år, skal det gis et overgangstillegg fra pensjonstrygden som tilsvarer forskjellen.
+
+Bestemmelsen i første ledd gjelder ikke nedgang i pensjon som skyldes manglende trygdetid i folketrygden, eller at barnetillegg eller tillegg etter [§ 6](lov/1948-12-03-7/§6) i denne loven faller bort.
+
+Dersom pensjonen fra folketrygden øker utover det som skyldes at pensjonen reguleres, reduseres overgangstillegget med det overskytende.
 
 2\. Til en pensjonist som får uføretrygd eller arbeidsavklaringspenger fra folketrygden, eller avtalefestet pensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav d, som er mindre enn det alderspensjon etter denne loven ville utgjøre hvis han ikke hadde hatt slik ytelse fra folketrygden eller avtalefestet pensjon, gis det et overgangstillegg som tilsvarer forskjellen. Ved sammenligningen medregnes et eventuelt tillegg etter § 6 for den som var omfattet av § 1, jf § 2 i denne loven i minst 36 måneder i løpet av de siste 60 månedene før den måned pensjonen ble tatt ut (virkningstidspunktet).
 
-3\. For å hindre at alderspensjonist får redusert sine samlede pensjonsytelser, herunder også fra pensjonsordning utenfor Norge, kan pensjonstrygden for sjømenn, når særlige forhold tilsier det, etter søknad yte tillegg til alderspensjonist som får nedsatt eller ingen pensjon fra folketrygden.Tillegget kan reguleres dersom Pensjonstrygden for sjømenn finner at nye opplysninger eller endrede forhold tilsier det.
+3\. For å hindre at alderspensjonist får redusert sine samlede pensjonsytelser, herunder også fra pensjonsordning utenfor Norge, kan pensjonstrygden for sjømenn, når særlige forhold tilsier det, etter søknad yte tillegg til alderspensjonist som får nedsatt eller ingen pensjon fra folketrygden.
+
+Tillegget kan reguleres dersom Pensjonstrygden for sjømenn finner at nye opplysninger eller endrede forhold tilsier det.
 
 > Svarer til tidligere § 48. Endret og flyttet hit som [§ 29](lov/1948-12-03-7/§29) ved lov [16 juni 2000 nr. 44](lov/2000-06-16-44) (ikr. 1 jan 2001), endret ved lover [21 des 2000 nr. 124](lov/2000-12-21-124) (ikr. 1 jan 2001), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [17 des 2010 nr. 77](lov/2010-12-17-77) (ikr. 1 jan 2011), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)).
 

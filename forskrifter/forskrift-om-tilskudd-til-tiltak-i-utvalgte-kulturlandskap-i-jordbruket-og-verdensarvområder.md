@@ -41,9 +41,21 @@ Kommunen skal utlyse alle tildelte tilskuddsmidler. Ved utlysningen skal kommune
 
 Kommunen kan innvilge tilskudd i samsvar med formålet med tilskuddsordningen og målsettinger i eventuelle planer for området.
 
-Tiltak som gis tilskudd kan være:restaurering og skjøtsel av arealeristandsetting, vedlikehold og skjøtsel av bygninger og andre kulturminnertilrettelegging for ferdsel og friluftslivformidlingnødvendig planlegging av tiltakkartlegging og dokumentasjon av landskapsverdierkartlegging og dokumentasjon av behov for skjøtsel og sikring av natur- og kulturminneverdierandre tiltak som fremmer formålet med ordningen.
+Tiltak som gis tilskudd kan være:
 
-I vurderingen av hvilke søknader og tiltak som skal prioriteres skal kommunen legge vekt på i hvilken grad:kostnadene står i forhold til tiltakets mål og antatte effekttiltaket inngår i et målrettet og langsiktig arbeid som fremmer formålet med tilskuddsordningen.
+- restaurering og skjøtsel av arealer
+- istandsetting, vedlikehold og skjøtsel av bygninger og andre kulturminner
+- tilrettelegging for ferdsel og friluftsliv
+- formidling
+- nødvendig planlegging av tiltak
+- kartlegging og dokumentasjon av landskapsverdier
+- kartlegging og dokumentasjon av behov for skjøtsel og sikring av natur- og kulturminneverdier
+- andre tiltak som fremmer formålet med ordningen.
+
+I vurderingen av hvilke søknader og tiltak som skal prioriteres skal kommunen legge vekt på i hvilken grad:
+
+- kostnadene står i forhold til tiltakets mål og antatte effekt
+- tiltaket inngår i et målrettet og langsiktig arbeid som fremmer formålet med tilskuddsordningen.
 
 Det må foreligge skriftlig tillatelse fra grunneier og eventuelle berørte rettighetshavere.
 
@@ -55,7 +67,11 @@ Kommunen skal innhente nødvendig kunnskap om landbruk, natur og kulturminner f�
 
 Søknad om tilskudd skal sendes til kommunen på søknadskjema fastsatt av Landbruksdirektoratet. Kommunen setter søknadsfrist. I de tilfeller det utvalgte området strekker seg over flere kommuner, skal søknaden sendes den kommunen som har ansvaret for å behandle søknader i det aktuelle området.
 
-Kommunen kan kreve at det legges ved:kart som viser hvor tiltaket skal gjennomføresbilder av arealet eller objektet før tiltaket settes i gangskriftlig tillatelse for gjennomføring av tiltaket fra eier og eventuelle rettighetshavere.
+Kommunen kan kreve at det legges ved:
+
+- kart som viser hvor tiltaket skal gjennomføres
+- bilder av arealet eller objektet før tiltaket settes i gang
+- skriftlig tillatelse for gjennomføring av tiltaket fra eier og eventuelle rettighetshavere.
 
 Kommunen kan sette ytterligere krav til søknadens innhold.
 

@@ -15,7 +15,7 @@ xml_hash: "1e2cb5276a35cfcfdece09caf59cac733de98563e6c042254bffa5c9f131a9c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,26 @@ Begrepet gave, provisjon, tjeneste eller annen ytelse i [§ 2](forskrift/2005-08
 
 Flere ytelser av samme eller forskjellig art fra samme giver eller givere med felles interesser må sees i sammenheng. Dette gjelder selv om ytelsene er spredt over et lengre tidsrom.
 
-Helsepersonell må vurdere lovligheten av å motta ytelsen dersom de på egne eller andres vegne gis eller tilbys for eksempel:penger, gavekort,aksjer, eierandeler, andre verdipapirer, patentrettigheter,fast eiendom, løsøre eller andre gjenstander,hel eller delvis dekning av utgifter for å delta på kurs og konferanser,hel eller delvis dekning av utgifter forbundet med etter- og videreutdanning,hel eller delvis dekning av reise-, kost- og oppholdsutgifter blant annet i tilknytning til kurs, konferanse, etter- og videreutdanning,godtgjørelse for deltakelse i forskningsprosjekter, herunder dekning av utgifter som påløper i forbindelse med oppdraget,godtgjørelse for deltakelse i utprøving av legemidler, medisinsk utstyr mv., herunder dekning av utgifter som påløper i forbindelse med oppdraget,godtgjørelse for oppdrag utført for andre enn hovedarbeidsgiver,godtgjørelse for rekruttering av pasienter eller brukere til forskningsprosjekt eller henvisning av pasienter eller brukere.godtgjørelse for eller annen fordel ved bruk av bestemte legemidler eller bestemt medisinsk utstyr mv.,provisjon eller lignende av salg av bestemte produkter eller produktgrupper,deltakelse i konkurranser der premie i form av pengegaver, reiser mv. kan oppnås ved å fremme salget av bestemte produkter eller produktgrupper,vareprøver eller reklameartikler,faglige gaver i form av faglitteratur eller faglige hjelpemidler som står i forbindelse med helsepersonellets virksomhet,fordeler av karrierefremmende art, for eksempel medforfatterskap til vitenskapelige artikler, forskningsrapporter mv.,hel eller delvis dekning av private utgifter eller utgifter knyttet til virksomheten som helsepersonell ellerpersonlig rabatt ved kjøp av varer eller tjenester.
+Helsepersonell må vurdere lovligheten av å motta ytelsen dersom de på egne eller andres vegne gis eller tilbys for eksempel:
+
+1. penger, gavekort,
+2. aksjer, eierandeler, andre verdipapirer, patentrettigheter,
+3. fast eiendom, løsøre eller andre gjenstander,
+4. hel eller delvis dekning av utgifter for å delta på kurs og konferanser,
+5. hel eller delvis dekning av utgifter forbundet med etter- og videreutdanning,
+6. hel eller delvis dekning av reise-, kost- og oppholdsutgifter blant annet i tilknytning til kurs, konferanse, etter- og videreutdanning,
+7. godtgjørelse for deltakelse i forskningsprosjekter, herunder dekning av utgifter som påløper i forbindelse med oppdraget,
+8. godtgjørelse for deltakelse i utprøving av legemidler, medisinsk utstyr mv., herunder dekning av utgifter som påløper i forbindelse med oppdraget,
+9. godtgjørelse for oppdrag utført for andre enn hovedarbeidsgiver,
+10. godtgjørelse for rekruttering av pasienter eller brukere til forskningsprosjekt eller henvisning av pasienter eller brukere.
+11. godtgjørelse for eller annen fordel ved bruk av bestemte legemidler eller bestemt medisinsk utstyr mv.,
+12. provisjon eller lignende av salg av bestemte produkter eller produktgrupper,
+13. deltakelse i konkurranser der premie i form av pengegaver, reiser mv. kan oppnås ved å fremme salget av bestemte produkter eller produktgrupper,
+14. vareprøver eller reklameartikler,
+15. faglige gaver i form av faglitteratur eller faglige hjelpemidler som står i forbindelse med helsepersonellets virksomhet,
+16. fordeler av karrierefremmende art, for eksempel medforfatterskap til vitenskapelige artikler, forskningsrapporter mv.,
+17. hel eller delvis dekning av private utgifter eller utgifter knyttet til virksomheten som helsepersonell eller
+18. personlig rabatt ved kjøp av varer eller tjenester.
 
 > Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
 

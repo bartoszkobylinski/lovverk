@@ -44,7 +44,10 @@ Tilskudd etter denne forskriften kan ikke tildeles eller utbetales til et foreta
 
 ## § 3. Vilkår knyttet til prosjekter
 
-Tilskudd etter denne forskriften kan gis til innovasjons- og utviklingsprosjekter som:utvikler redaksjonelt innhold, ellerutvikler eller implementerer nye løsninger for produksjon, publisering, spredning eller konsum av redaksjonelt innhold.
+Tilskudd etter denne forskriften kan gis til innovasjons- og utviklingsprosjekter som:
+
+1. utvikler redaksjonelt innhold, eller
+2. utvikler eller implementerer nye løsninger for produksjon, publisering, spredning eller konsum av redaksjonelt innhold.
 
 Det kan også gis tilskudd til forprosjekter for utvikling av slike innovasjons- og utviklingsprosjekter.
 

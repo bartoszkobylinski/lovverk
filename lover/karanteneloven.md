@@ -15,7 +15,7 @@ xml_hash: "e2faa81aebcc1b17115be7e7436ed423924733b91f73a654fa3f5ff94b6157d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,12 @@ Loven omfatter ikke overgang til partipolitisk arbeid eller politiske verv i Sto
 
 ### § 1 a. Lovens formål
 
-Loven skal bidra til å fremme den alminnelige tilliten til forvaltningen og det politiske systemet ved overganger som omfattes av loven, ved å:motvirke at noen får særlige konkurransefordelerbeskytte intern informasjon i statsforvaltningenbeskytte andre virksomheters forretningsinformasjon som statsforvaltningen har fått tilgang tilmedvirke til å opprettholde skillet mellom politisk ledelse og embetsverk.
+Loven skal bidra til å fremme den alminnelige tilliten til forvaltningen og det politiske systemet ved overganger som omfattes av loven, ved å:
+
+1. motvirke at noen får særlige konkurransefordeler
+2. beskytte intern informasjon i statsforvaltningen
+3. beskytte andre virksomheters forretningsinformasjon som statsforvaltningen har fått tilgang til
+4. medvirke til å opprettholde skillet mellom politisk ledelse og embetsverk.
 
 > Tilføyd ved lov [7 feb 2025 nr. 1](lov/2025-02-07-1) (i kraft 1 juli 2025 iflg. [res. 7 feb 2025 nr. 145](forskrift/2025-02-07-145)).
 
@@ -78,7 +83,11 @@ Politikere skal gi Karantenenemnda de opplysninger nemnda trenger for å fatte v
 
 Politikere skal gi opplysninger til Karantenenemnda når de innen 18 måneder etter fratreden som politiker går over til stilling eller verv utenfor statsforvaltningen eller etablerer næringsvirksomhet. Informasjonsplikten omfatter også opplysninger om tidligere embete eller stilling og den nye stillingen, vervet eller virksomheten.
 
-Plikten etter andre ledd gjelder tilsvarende dersom det i samme tidsrom skjerendringer i hvilke sektorer eller bransjer politikeren skal arbeide medendringer i politikerens kontakt med myndigheteneendringer i politikerens organisatoriske plassering i en stilling, et verv eller en næringsvirksomhet.
+Plikten etter andre ledd gjelder tilsvarende dersom det i samme tidsrom skjer
+
+1. endringer i hvilke sektorer eller bransjer politikeren skal arbeide med
+2. endringer i politikerens kontakt med myndighetene
+3. endringer i politikerens organisatoriske plassering i en stilling, et verv eller en næringsvirksomhet.
 
 Opplysninger etter andre og tredje ledd skal gis senest tre uker før overgangen eller før endringen trer i kraft.
 
@@ -88,7 +97,11 @@ Departementet kan gi forskrift om informasjonsplikten etter første til fjerde l
 
 ### § 6. Karantene
 
-Karantenenemnda kan, ved overgang til stilling eller verv utenfor statsforvaltningen eller etablering av næringsvirksomhet, i særlige tilfeller ilegge en politiker karantene i inntil seks måneder etter fratreden nårdet foreligger en konkret forbindelse mellom politikerens tidligere ansvarsområder, arbeidsoppgaver i den politiske stillingen eller bestemte saker som var til behandling i departementet i politikerens funksjonstid, og interessene til den virksomheten politikeren blir tilknyttet eller etablerer, ellerpolitikerens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten politikeren blir tilknyttet eller etablerer særlige fordeler, ellerovergangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.
+Karantenenemnda kan, ved overgang til stilling eller verv utenfor statsforvaltningen eller etablering av næringsvirksomhet, i særlige tilfeller ilegge en politiker karantene i inntil seks måneder etter fratreden når
+
+1. det foreligger en konkret forbindelse mellom politikerens tidligere ansvarsområder, arbeidsoppgaver i den politiske stillingen eller bestemte saker som var til behandling i departementet i politikerens funksjonstid, og interessene til den virksomheten politikeren blir tilknyttet eller etablerer, eller
+2. politikerens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten politikeren blir tilknyttet eller etablerer særlige fordeler, eller
+3. overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.
 
 ### § 7. Saksforbud
 
@@ -142,7 +155,11 @@ Den som er underlagt forbud etter [§§ 10](lov/2015-06-19-70/§10) eller [11](l
 
 ### § 13. Overgang fra ledende stilling i et departement eller annet statlig forvaltningsorgan
 
-Dersom en departementsråd, assisterende departementsråd, ekspedisjonssjef eller leder av annet statlig forvaltningsorgan går over til stilling eller verv utenfor statsforvaltningen, eller etablerer næringsvirksomhet, kan ansettelsesmyndigheten i særlige tilfeller ilegge karantene nårdet foreligger en konkret forbindelse mellom embetsmannens eller den statsansattes tidligere ansvar og arbeidsoppgaver i embetet eller stillingen eller bestemte saker som var til behandling i forvaltningsorganet i vedkommendes funksjonstid, og interessene til den virksomheten vedkommende blir tilknyttet eller etablerer, ellerembetsmannens eller den statsansattes tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten vedkommende blir tilknyttet eller etablerer særlige fordeler, ellerovergangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.
+Dersom en departementsråd, assisterende departementsråd, ekspedisjonssjef eller leder av annet statlig forvaltningsorgan går over til stilling eller verv utenfor statsforvaltningen, eller etablerer næringsvirksomhet, kan ansettelsesmyndigheten i særlige tilfeller ilegge karantene når
+
+1. det foreligger en konkret forbindelse mellom embetsmannens eller den statsansattes tidligere ansvar og arbeidsoppgaver i embetet eller stillingen eller bestemte saker som var til behandling i forvaltningsorganet i vedkommendes funksjonstid, og interessene til den virksomheten vedkommende blir tilknyttet eller etablerer, eller
+2. embetsmannens eller den statsansattes tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten vedkommende blir tilknyttet eller etablerer særlige fordeler, eller
+3. overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.
 
 Dersom vilkåret i første ledd er oppfylt, kan ansettelsesmyndigheten ilegge et saksforbud. Saksforbud kan ilegges i stedet for eller i tillegg til karantene.
 
@@ -154,7 +171,10 @@ Karantene kan ilegges for inntil seks måneder og saksforbud inntil tolv månede
 
 For andre embeter og stillinger enn nevnt i [§ 13](lov/2015-06-19-70/§13), kan det ved utnevnelsen eller ansettelsen fastsettes en klausul i arbeidskontrakten om at karantene og saksforbud kan ilegges ved overgang til stilling eller verv utenfor statsforvaltningen eller ved etablering av næringsvirksomhet. Slik klausul kan fastsettes dersom stillingens karakter gir saklig grunn til det.
 
-Dersom det er fastsatt en klausul i arbeidskontrakten etter første ledd, kan ansettelsesmyndigheten i særlige tilfeller ilegge karantene og saksforbud nårovergangen kan gi virksomheten som embetsmannen eller den statsansatte blir tilknyttet eller etablerer, særlige fordeler på grunn av vedkommendes stilling, ansvar eller arbeidsoppgaver i statsforvaltningen, ellerovergangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.
+Dersom det er fastsatt en klausul i arbeidskontrakten etter første ledd, kan ansettelsesmyndigheten i særlige tilfeller ilegge karantene og saksforbud når
+
+1. overgangen kan gi virksomheten som embetsmannen eller den statsansatte blir tilknyttet eller etablerer, særlige fordeler på grunn av vedkommendes stilling, ansvar eller arbeidsoppgaver i statsforvaltningen, eller
+2. overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.
 
 Saksforbud kan fastsettes i stedet for eller i tillegg til karantene.
 

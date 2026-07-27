@@ -15,7 +15,7 @@ xml_hash: "3609e97d565cf64c9438b665f8af72236c639b130669fb0cb68d8760ce92ce4c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,14 @@ Lova gjeld ikkje for Svalbard, Jan Mayen og dei norske bilanda, den norske konti
 
 ## § 2. Definisjonar
 
-I denne lova tyder:stadnamn: namn på terrengformasjonar som fjell og vatn, kulturformasjonar som gardsområde, gardsbruk, vegar og bruer, administrative område som kommunar og sokn, reinbeitedistrikt, institusjonar og adressergardsnamn: namnet på heile det gardsområdet som eitt eller fleire gardsnummer er knytte tilbruksnamn: namn på gardsbruk eller annan eigedom med eitt eller fleire bruksnummer eller festenummer under eit gardsnummernedervd stadnamn: stadnamn som munnleg eller skriftleg er overlevert frå tidlegare generasjonarnedervd lokal uttale: uttale som er overlevert frå tidlegare generasjonar, som har vore vanleg på staden, og som framleis er i levande brukrettskrivingsprinsipp: allmenne reglar for korleis lydar og lydkombinasjonar skal givast att i skrift
+I denne lova tyder:
+
+1. stadnamn: namn på terrengformasjonar som fjell og vatn, kulturformasjonar som gardsområde, gardsbruk, vegar og bruer, administrative område som kommunar og sokn, reinbeitedistrikt, institusjonar og adresser
+2. gardsnamn: namnet på heile det gardsområdet som eitt eller fleire gardsnummer er knytte til
+3. bruksnamn: namn på gardsbruk eller annan eigedom med eitt eller fleire bruksnummer eller festenummer under eit gardsnummer
+4. nedervd stadnamn: stadnamn som munnleg eller skriftleg er overlevert frå tidlegare generasjonar
+5. nedervd lokal uttale: uttale som er overlevert frå tidlegare generasjonar, som har vore vanleg på staden, og som framleis er i levande bruk
+6. rettskrivingsprinsipp: allmenne reglar for korleis lydar og lydkombinasjonar skal givast att i skrift
 
 > Endra med [lover 10 juni 2005 nr. 53](lov/2005-06-10-53) (ikr. 1 aug 2006 iflg. [res. 10 juni 2005 nr. 533](forskrift/2005-06-10-533)), [19 juni 2015 nr. 74](lov/2015-06-19-74) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 726](forskrift/2015-06-19-726)), [21 juni 2019 nr. 59](lov/2019-06-21-59) (ikr. 1 juli 2019).
 
@@ -56,7 +63,11 @@ Har skrivemåten vore lenge i bruk, og er vel kjend og innarbeidd, kan ein fråv
 
 Når det same namnet er brukt om ulike namneobjekt på den same staden, skal den skrivemåten som er brukt for det namneobjektet namnet opphavleg vart brukt om, som hovudregel vere retningsgivande for skrivemåten for dei andre namneobjekta. Dette gjeld ikkje i dei tilfella der det opphavlege namnet på namneobjektet er eit bruksnamn med ein skrivemåte som er fastsett av grunneigaren.
 
-To eller fleire skriftformer av same namn på det same namneobjektet kan fastsetjast som sidestilte, dersom eitt eller fleire av desse vilkåra er oppfylte:det finst fleire uttalevariantar av namnet fordi lokaliteten har stor geografisk utbreiing, eller ligg i eit dialektalt eller administrativt grenseområdeto eller fleire skriftformer av namnet er vel innarbeiddedet er sterk lokal interesse for to eller fleire av formene
+To eller fleire skriftformer av same namn på det same namneobjektet kan fastsetjast som sidestilte, dersom eitt eller fleire av desse vilkåra er oppfylte:
+
+1. det finst fleire uttalevariantar av namnet fordi lokaliteten har stor geografisk utbreiing, eller ligg i eit dialektalt eller administrativt grenseområde
+2. to eller fleire skriftformer av namnet er vel innarbeidde
+3. det er sterk lokal interesse for to eller fleire av formene
 
 > Endra med [lover 10 juni 2005 nr. 53](lov/2005-06-10-53) (ikr. 1 aug 2006 iflg. [res. 10 juni 2005 nr. 533](forskrift/2005-06-10-533)), [19 juni 2015 nr. 74](lov/2015-06-19-74) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 726](forskrift/2015-06-19-726)), [21 juni 2019 nr. 59](lov/2019-06-21-59) (ikr. 1 juli 2019).
 
@@ -74,7 +85,12 @@ Eigaren eller festaren kan, med dei avgrensingane som følgjer av [§ 3](lov/199
 
 ## § 6. Igangsetjing av stadnamnsak
 
-Saker om skrivemåten av stadnamn kan takast opp aveit offentleg organ og andre som er nemnde i [§ 1](lov/1990-05-18-11/§1) tredje leddeigaren eller festaren i saker som gjeld namn på eige gardsbruk eller eigedomein lokal organisasjon med særleg tilknyting til eit stadnamnstadnamntenesta
+Saker om skrivemåten av stadnamn kan takast opp av
+
+1. eit offentleg organ og andre som er nemnde i [§ 1](lov/1990-05-18-11/§1) tredje ledd
+2. eigaren eller festaren i saker som gjeld namn på eige gardsbruk eller eigedom
+3. ein lokal organisasjon med særleg tilknyting til eit stadnamn
+4. stadnamntenesta
 
 > Endra med [lover 10 juni 2005 nr. 53](lov/2005-06-10-53) (ikr. 1 aug 2006 iflg. [res. 10 juni 2005 nr. 533](forskrift/2005-06-10-533)), [19 juni 2015 nr. 74](lov/2015-06-19-74) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 726](forskrift/2015-06-19-726)), [21 juni 2019 nr. 59](lov/2019-06-21-59) (ikr. 1 juli 2019), tidlegare § 5.
 

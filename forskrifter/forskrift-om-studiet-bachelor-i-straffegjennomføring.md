@@ -15,7 +15,7 @@ xml_hash: "3d4f66399b4f7c8c4739d8437aefcbfd2e41628e7db44b00bc14313a81c9369c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,27 @@ Forskriften regulerer studiet bachelor i straffegjennomføring, 180 studiepoeng 
 
 ### § 1-2. Definisjoner
 
-I denne forskriften forstås med:*Student:* en person som er tatt opp til enkeltemner eller påbygningsstudier ved Kriminalomsorgens høgskole og utdanningssenter KRUS.*Kandidat:* student som går opp til eksamen.*Studierett:* rettigheter knyttet til det å være tatt opp til et studium og inneha studentstatus. Dette innebærer rett til deltakelse i all organisert undervisning, veiledning (individuell og i grupper), øvelser og oppgaveløsning, praksisstudier, feltarbeid mv.*Programplan:* en beskrivelse av et studieprogram som gis ved Kriminalomsorgens høgskole og utdanningssenter KRUS.*Studieprogram:* et studium med et definert innhold i henhold til studieplan som fører fram til en avsluttet eksamen, grad eller yrkesutdanning. Et studieprogram må bestå av minst to emner.*Studieplan:* en beskrivelse av et studieprogram.*Fag:* en samling av beslektede emner som er samlet under én felles fagbetegnelse.*Emne:* den minste studiepoenggivende enhet som kan inngå i et studieprogram eller gis som frittstående studium.*Emneplan:* en beskrivelse av et emne.*Emnegruppe:* en kombinasjon av emner fra ett eller flere fag eller fagområder som i studieplan er definert til å utgjøre en samlet enhet.*Studiepoeng:* mål på omfanget av et studium, der et fullt studieår er normert til 60 studiepoeng. 60 studiepoeng tilsvarer ett års normal arbeidsinnsats på heltid.*Eksamen:* en vurdering når resultatet skal inngå på vitnemålet eller karakterutskriften eller innregnes i en karakter på vitnemålet eller karakterutskriften.*Eksamen uten tilsyn:* hjemmeeksamen, fordypningsoppgaver og mappeinnleveringer.*Eksamen med tilsyn:* skriftlig skoleeksamen.*Utsatt eksamen:* vurdering som arrangeres for person som har levert legeerklæring eller hatt annet dokumentert gyldig fravær ved ordinær eksamen.*Ny eksamen:* vurdering som arrangeres for kandidater som har gjennomført, men ikke bestått ordinær eksamen.*Fusk:* ulovlig bruk av hjelpemidler eller medhjelpere ved gjennomføring av eksamen. Lovlig bruk av hjelpemidler framgår av eksamensoppgaven.*Plagiat:* dersom student unnlater å opplyse om kilder eller gir inntrykk av at et svar er mer selvstendig enn det faktisk er. Plagiat regnes som fusk.*Direktør:* Øverste leder for Kriminalomsorgens høgskole og utdanningssenter KRUS, faglig og administrativt underlagt Kriminalomsorgsdirektoratet (KDI).
+I denne forskriften forstås med:
+
+1. *Student:* en person som er tatt opp til enkeltemner eller påbygningsstudier ved Kriminalomsorgens høgskole og utdanningssenter KRUS.
+2. *Kandidat:* student som går opp til eksamen.
+3. *Studierett:* rettigheter knyttet til det å være tatt opp til et studium og inneha studentstatus. Dette innebærer rett til deltakelse i all organisert undervisning, veiledning (individuell og i grupper), øvelser og oppgaveløsning, praksisstudier, feltarbeid mv.
+4. *Programplan:* en beskrivelse av et studieprogram som gis ved Kriminalomsorgens høgskole og utdanningssenter KRUS.
+5. *Studieprogram:* et studium med et definert innhold i henhold til studieplan som fører fram til en avsluttet eksamen, grad eller yrkesutdanning. Et studieprogram må bestå av minst to emner.
+6. *Studieplan:* en beskrivelse av et studieprogram.
+7. *Fag:* en samling av beslektede emner som er samlet under én felles fagbetegnelse.
+8. *Emne:* den minste studiepoenggivende enhet som kan inngå i et studieprogram eller gis som frittstående studium.
+9. *Emneplan:* en beskrivelse av et emne.
+10. *Emnegruppe:* en kombinasjon av emner fra ett eller flere fag eller fagområder som i studieplan er definert til å utgjøre en samlet enhet.
+11. *Studiepoeng:* mål på omfanget av et studium, der et fullt studieår er normert til 60 studiepoeng. 60 studiepoeng tilsvarer ett års normal arbeidsinnsats på heltid.
+12. *Eksamen:* en vurdering når resultatet skal inngå på vitnemålet eller karakterutskriften eller innregnes i en karakter på vitnemålet eller karakterutskriften.
+13. *Eksamen uten tilsyn:* hjemmeeksamen, fordypningsoppgaver og mappeinnleveringer.
+14. *Eksamen med tilsyn:* skriftlig skoleeksamen.
+15. *Utsatt eksamen:* vurdering som arrangeres for person som har levert legeerklæring eller hatt annet dokumentert gyldig fravær ved ordinær eksamen.
+16. *Ny eksamen:* vurdering som arrangeres for kandidater som har gjennomført, men ikke bestått ordinær eksamen.
+17. *Fusk:* ulovlig bruk av hjelpemidler eller medhjelpere ved gjennomføring av eksamen. Lovlig bruk av hjelpemidler framgår av eksamensoppgaven.
+18. *Plagiat:* dersom student unnlater å opplyse om kilder eller gir inntrykk av at et svar er mer selvstendig enn det faktisk er. Plagiat regnes som fusk.
+19. *Direktør:* Øverste leder for Kriminalomsorgens høgskole og utdanningssenter KRUS, faglig og administrativt underlagt Kriminalomsorgsdirektoratet (KDI).
 
 ## Kapittel 2. Grader og utdanninger
 
@@ -68,19 +88,31 @@ For å kunne bli tildelt graden bachelor i straffegjennomføring må til sammen 
 
 ### § 3-1. Opptakskrav til bachelor i straffegjennomføring
 
-(1) Søker må være ansatt i kriminalomsorgen og kunne dokumentere:Høgskolekandidatutdanning i straffegjennomføring, 120 studiepoeng.Generell studiekompetanse og fengselsbetjentutdanning fra KRUS 2004 til 2012. Søker må dokumentere minimum 5 års arbeidserfaring fra kriminalomsorgen.Generell studiekompetanse og fengselsbetjentutdanning fra KRUS før 2004 og bestått forkurs med opptaksprøve. Forkurs tilbys og avsluttes før studiestart. Søker må dokumentere minimum 5 års arbeidserfaring fra kriminalomsorgen.
+(1) Søker må være ansatt i kriminalomsorgen og kunne dokumentere:
+
+1. Høgskolekandidatutdanning i straffegjennomføring, 120 studiepoeng.
+2. Generell studiekompetanse og fengselsbetjentutdanning fra KRUS 2004 til 2012. Søker må dokumentere minimum 5 års arbeidserfaring fra kriminalomsorgen.
+3. Generell studiekompetanse og fengselsbetjentutdanning fra KRUS før 2004 og bestått forkurs med opptaksprøve. Forkurs tilbys og avsluttes før studiestart. Søker må dokumentere minimum 5 års arbeidserfaring fra kriminalomsorgen.
 
 (2) Direktøren fastsetter i den enkelte emneplan krav for opptak til enkeltemner.
 
 ### § 3-2. Rangering og kvoter
 
-(1) Søkere konkurrerer i to ulike kvoter:Gruppe 1: Høgskolekandidatutdanning i straffegjennomføring (fra og med 2012), 120 studiepoeng. Gruppen skal utgjøre minimum 50 % av den totale kvoten.Gruppe 2: Fengselsbetjentutdanning fra Kriminalomsorgens høgskole og utdanningssenter KRUS før 2012. Søkere som har tatt utdanning før 2004 må i tillegg gjennomføre et forkurs og bestå en opptaksprøve.
+(1) Søkere konkurrerer i to ulike kvoter:
+
+1. Gruppe 1: Høgskolekandidatutdanning i straffegjennomføring (fra og med 2012), 120 studiepoeng. Gruppen skal utgjøre minimum 50 % av den totale kvoten.
+2. Gruppe 2: Fengselsbetjentutdanning fra Kriminalomsorgens høgskole og utdanningssenter KRUS før 2012. Søkere som har tatt utdanning før 2004 må i tillegg gjennomføre et forkurs og bestå en opptaksprøve.
 
 (2) Alle søkere konkurrerer om en studieplass på grunnlag av et vektet gjennomsnittlig karaktersnitt fra fullført utdanning ved Kriminalomsorgens høgskole og utdanningssenter KRUS og tilleggspoeng. Søker må være ferdig som pliktårsbetjent for å få opptak.
 
 ### § 3-3. Tilleggspoeng
 
-(1) Det gis tilleggspoeng for:30 studiepoeng ved universitet eller høyskole gir 1 tilleggspoeng60 studiepoeng ved universitet eller høyskole gir 2 tilleggspoeng.Tilleggspoeng for yrkespraksis gis for relevant yrkespraksis (100 % stilling). Pliktår regnes ikke som yrkespraksis og gir ikke poeng. Ett års relevant yrkespraksis gir 1 poeng. Det gis maksimalt 5 tilleggspoeng for yrkespraksis.
+(1) Det gis tilleggspoeng for:
+
+1. 30 studiepoeng ved universitet eller høyskole gir 1 tilleggspoeng
+2. 60 studiepoeng ved universitet eller høyskole gir 2 tilleggspoeng.
+
+Tilleggspoeng for yrkespraksis gis for relevant yrkespraksis (100 % stilling). Pliktår regnes ikke som yrkespraksis og gir ikke poeng. Ett års relevant yrkespraksis gir 1 poeng. Det gis maksimalt 5 tilleggspoeng for yrkespraksis.
 
 (2) Direktør fastsetter retningslinjer for omregning av karakterer.
 
@@ -124,7 +156,13 @@ Emner med ledige plasser kan gjøres tilgjengelige for enkeltemnestudenter. Dire
 
 ### § 5-3. Tap av studierett
 
-(1) Den som har akseptert tilbud om studieplass kan miste studieretten blant annet i følgende tilfeller:Studenten har overskredet den fastsatte grensen for normert tid med eventuelt tillegg i tid.Studenten har brukt opp det godtatte antall forsøk til eksamen eller praksisstudier.Studenten har ikke avlagt eller bestått eksamen i samsvar med utdanningsplan innen fastsatte frister.Studenten har ikke fremlagt originale vitnemål til vitnemålskontroll.Studenten har fremlagt falskt eller forfalsket vitnemål i forbindelse med søknad om opptak eller ansettelse.
+(1) Den som har akseptert tilbud om studieplass kan miste studieretten blant annet i følgende tilfeller:
+
+1. Studenten har overskredet den fastsatte grensen for normert tid med eventuelt tillegg i tid.
+2. Studenten har brukt opp det godtatte antall forsøk til eksamen eller praksisstudier.
+3. Studenten har ikke avlagt eller bestått eksamen i samsvar med utdanningsplan innen fastsatte frister.
+4. Studenten har ikke fremlagt originale vitnemål til vitnemålskontroll.
+5. Studenten har fremlagt falskt eller forfalsket vitnemål i forbindelse med søknad om opptak eller ansettelse.
 
 ### § 5-4. Permisjon
 
@@ -391,7 +429,11 @@ Emner med ledige plasser kan gjøres tilgjengelige for enkeltemnestudenter. Dire
 
 ### § 9-5. Klage over formelle feil
 
-(1) Formelle feil påklages i samsvar med bestemmelsene i universitets- og [høyskoleloven § 5-2](lov/2005-04-01-15/§5-2). Som formelle feil regnes blant annet:feil ved oppgaven som kan ha hatt betydning for resultatetfeil under avviklingen av eksamen som kan ha hatt betydning for resultatetfeil i gjennomføring av sensur som kan ha hatt betydning for resultatet.
+(1) Formelle feil påklages i samsvar med bestemmelsene i universitets- og [høyskoleloven § 5-2](lov/2005-04-01-15/§5-2). Som formelle feil regnes blant annet:
+
+1. feil ved oppgaven som kan ha hatt betydning for resultatet
+2. feil under avviklingen av eksamen som kan ha hatt betydning for resultatet
+3. feil i gjennomføring av sensur som kan ha hatt betydning for resultatet.
 
 (2) Klagen må signeres og leveres Kriminalomsorgens høgskole og utdanningssenter KRUS tre uker etter at kandidaten ble kjent med forholdene som han eller hun klager på, eller tre uker etter å ha mottatt begrunnelse for karakter eller svar på klage på karakter.
 
@@ -403,7 +445,13 @@ Emner med ledige plasser kan gjøres tilgjengelige for enkeltemnestudenter. Dire
 
 ### § 9-6. Fusk
 
-(1) Som fusk eller forsøk på fusk ved eksamen eller prøve regnes blant annet:å ha ulovlige hjelpemidler tilgjengelig under eksamenå presentere andres arbeid som sitt egetå sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger. Gjenbruk av eget arbeid skal ikke anses som fusk så lenge materialet som benyttes ikke tidligere har inngått i arbeider som har gitt uttelling i form av studiepoeng eller som obligatoriske arbeidskrav for å kunne gå opp til eksamen.ureglementert samarbeid mellom eksamenskandidater eller grupperå handle i strid med gjeldende regelverk eller retningslinjer for den enkelte eksamen.
+(1) Som fusk eller forsøk på fusk ved eksamen eller prøve regnes blant annet:
+
+1. å ha ulovlige hjelpemidler tilgjengelig under eksamen
+2. å presentere andres arbeid som sitt eget
+3. å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisninger. Gjenbruk av eget arbeid skal ikke anses som fusk så lenge materialet som benyttes ikke tidligere har inngått i arbeider som har gitt uttelling i form av studiepoeng eller som obligatoriske arbeidskrav for å kunne gå opp til eksamen.
+4. ureglementert samarbeid mellom eksamenskandidater eller grupper
+5. å handle i strid med gjeldende regelverk eller retningslinjer for den enkelte eksamen.
 
 (2) Konsekvenser av fusk eller forsøk på fusk behandles av høgskolens klagenemnd.
 

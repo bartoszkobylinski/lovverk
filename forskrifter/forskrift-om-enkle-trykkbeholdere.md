@@ -15,7 +15,7 @@ xml_hash: "a256afc153a8f5fe42a06eea3311a822820faa739cd637f10b2b31da93d646f9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,17 +30,48 @@ Forskriften skal sikre at serieproduserte enkle trykkbeholdere som gjøres tilgj
 
 ### § 2. Virkeområde
 
-(1) Forskriften gjelder for serieproduserte enkle trykkbeholdere med følgende egenskaperbeholderne er sveiset, beregnet på å utsettes for et indre overtrykk på mer enn 0,5 bar og til å inneholde luft eller nitrogen, og er ikke ment å utsettes for fyringde delene og sammenstillingene som bidrar til beholderens styrke under trykk, er produsert av enten ulegert kvalitetsstål, ulegert aluminium eller ikke-aldringsherdende aluminiumslegeringerbeholderne består av entenen sylindrisk del med et sirkelformet tverrsnitt, som er lukket av utadkuvede eller plane endebunner som dreier om samme akse som den sylindriske delen, ellerto kuvede endebunner som dreier om samme aksedet høyeste driftstrykket for beholderne overstiger ikke 30 bar, og produktet av dette trykket og beholderens volum (PS × V) overstiger ikke 10 000 bar·lden laveste driftstemperaturen er ikke lavere enn – 50 °C, og den høyeste driftstemperaturen er ikke høyere enn 300 °C for beholdere av stål og ikke høyere enn 100 °C for beholdere av aluminium eller aluminiumslegeringer.
+(1) Forskriften gjelder for serieproduserte enkle trykkbeholdere med følgende egenskaper
+
+1. beholderne er sveiset, beregnet på å utsettes for et indre overtrykk på mer enn 0,5 bar og til å inneholde luft eller nitrogen, og er ikke ment å utsettes for fyring
+2. de delene og sammenstillingene som bidrar til beholderens styrke under trykk, er produsert av enten ulegert kvalitetsstål, ulegert aluminium eller ikke-aldringsherdende aluminiumslegeringer
+3. beholderne består av enten
+
+   1. en sylindrisk del med et sirkelformet tverrsnitt, som er lukket av utadkuvede eller plane endebunner som dreier om samme akse som den sylindriske delen, eller
+   2. to kuvede endebunner som dreier om samme akse
+4. det høyeste driftstrykket for beholderne overstiger ikke 30 bar, og produktet av dette trykket og beholderens volum (PS × V) overstiger ikke 10 000 bar·l
+5. den laveste driftstemperaturen er ikke lavere enn – 50 °C, og den høyeste driftstemperaturen er ikke høyere enn 300 °C for beholdere av stål og ikke høyere enn 100 °C for beholdere av aluminium eller aluminiumslegeringer.
 
 (2) Forskriften gjelder også for petroleumsvirksomheten på norsk kontinentalsokkel.
 
 ### § 3. Unntak
 
-Forskriften gjelder ikke forbeholdere som er særskilt konstruert for nukleær bruk, og som ved funksjonssvikt kan forårsake radioaktive utslippbeholdere som er særlig beregnet på installasjon i eller framdrift av skip eller luftfartøybrannslokkingsapparater.
+Forskriften gjelder ikke for
+
+1. beholdere som er særskilt konstruert for nukleær bruk, og som ved funksjonssvikt kan forårsake radioaktive utslipp
+2. beholdere som er særlig beregnet på installasjon i eller framdrift av skip eller luftfartøy
+3. brannslokkingsapparater.
 
 ### § 4. Definisjoner
 
-I forskriften menes med*gjøre tilgjengelig på markedet:* enhver levering av en beholder for distribusjon eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt*bringe i omsetning:* gjøre en beholder tilgjengelig i EØS for første gang*produsent:* enhver fysisk eller juridisk person som produserer en beholder eller får beholderen konstruert eller produsert, og som markedsfører den under eget navn eller varemerke*representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver*importør:* enhver fysisk eller juridisk person etablert i EØS som bringer en beholder fra en tredjestat i omsetning i EØS*distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør en beholder tilgjengelig på markedet*markedsdeltakere:* produsenten, representanten, importøren og distributøren*teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av en beholder*harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføring av EØS-regelverk*akkreditering:* en attestering fra et nasjonalt akkrediteringsorgan om at et organ oppfyller kravene i harmoniserte standarder og eventuelle tilleggskrav, til å utøve en bestemt samsvarsvurderingsvirksomhet*nasjonalt akkrediteringsorgan:* det eneste organet i en EØS-stat som utfører akkreditering på oppdrag fra staten*samsvarsvurdering:* prosessen for å fastslå om en beholder oppfyller de grunnleggende sikkerhetskravene*teknisk kontrollorgan:* uavhengig organ som er utpekt etter [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar*tilbakekalling:* ethvert tiltak rettet mot tilbakelevering av en beholder som allerede er gjort tilgjengelig for brukerne*tilbaketrekking:* ethvert tiltak rettet mot å hindre at en beholder i omsetningskjeden blir gjort tilgjengelig på markedet*CE-merking:* merking der produsenten angir at beholderen oppfyller gjeldende krav fastsatt i EØS-regelverk om slik merking*EØS-regelverk:* regelverk i EØS som harmoniserer vilkårene for markedsføring av produkter.
+I forskriften menes med
+
+1. *gjøre tilgjengelig på markedet:* enhver levering av en beholder for distribusjon eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt
+2. *bringe i omsetning:* gjøre en beholder tilgjengelig i EØS for første gang
+3. *produsent:* enhver fysisk eller juridisk person som produserer en beholder eller får beholderen konstruert eller produsert, og som markedsfører den under eget navn eller varemerke
+4. *representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver
+5. *importør:* enhver fysisk eller juridisk person etablert i EØS som bringer en beholder fra en tredjestat i omsetning i EØS
+6. *distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør en beholder tilgjengelig på markedet
+7. *markedsdeltakere:* produsenten, representanten, importøren og distributøren
+8. *teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av en beholder
+9. *harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføring av EØS-regelverk
+10. *akkreditering:* en attestering fra et nasjonalt akkrediteringsorgan om at et organ oppfyller kravene i harmoniserte standarder og eventuelle tilleggskrav, til å utøve en bestemt samsvarsvurderingsvirksomhet
+11. *nasjonalt akkrediteringsorgan:* det eneste organet i en EØS-stat som utfører akkreditering på oppdrag fra staten
+12. *samsvarsvurdering:* prosessen for å fastslå om en beholder oppfyller de grunnleggende sikkerhetskravene
+13. *teknisk kontrollorgan:* uavhengig organ som er utpekt etter [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar
+14. *tilbakekalling:* ethvert tiltak rettet mot tilbakelevering av en beholder som allerede er gjort tilgjengelig for brukerne
+15. *tilbaketrekking:* ethvert tiltak rettet mot å hindre at en beholder i omsetningskjeden blir gjort tilgjengelig på markedet
+16. *CE-merking:* merking der produsenten angir at beholderen oppfyller gjeldende krav fastsatt i EØS-regelverk om slik merking
+17. *EØS-regelverk:* regelverk i EØS som harmoniserer vilkårene for markedsføring av produkter.
 
 ### § 5. Beholdere som skal oppfylle grunnleggende sikkerhetskrav
 
@@ -72,7 +103,11 @@ Beholdere kan bare gjøres tilgjengelig på markedet dersom de er i samsvar med 
 
 (7) Produsenten skal påse at det finnes framgangsmåter for å sikre fortsatt samsvar ved serieproduksjon. Det skal tas tilstrekkelig hensyn til endringer i beholderens konstruksjon eller egenskaper og endringer i harmoniserte standarder eller andre tekniske spesifikasjoner som det er vist til i samsvarserklæringen.
 
-(8) Produsenten skal, når det anses hensiktsmessig med hensyn til risikoen som er forbundet med en beholder,ta stikkprøver av beholdere som er gjort tilgjengelig på markedetundersøke og, om nødvendig, føre et register over klager, beholdere som ikke oppfyller kravene og tilbakekallinger av beholdereholde distributører underrettet om all slik overvåkning.
+(8) Produsenten skal, når det anses hensiktsmessig med hensyn til risikoen som er forbundet med en beholder,
+
+1. ta stikkprøver av beholdere som er gjort tilgjengelig på markedet
+2. undersøke og, om nødvendig, føre et register over klager, beholdere som ikke oppfyller kravene og tilbakekallinger av beholdere
+3. holde distributører underrettet om all slik overvåkning.
 
 (9) Produsenten skal sikre at beholderen har et type-, parti-, serienummer eller lignende som gjør det mulig å identifisere den.
 
@@ -90,17 +125,31 @@ Beholdere kan bare gjøres tilgjengelig på markedet dersom de er i samsvar med 
 
 (2) Forpliktelsene etter [§ 8](forskrift/2017-02-10-171/§8) første, annet og tredje ledd skal ikke omfattes av representantens fullmakt.
 
-(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til åha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at beholderen er brakt i omsetningpå anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at en beholder er i samsvar med forskriftenpå anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med beholdere som omfattes av fullmakten.
+(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til å
+
+1. ha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at beholderen er brakt i omsetning
+2. på anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at en beholder er i samsvar med forskriften
+3. på anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med beholdere som omfattes av fullmakten.
 
 ### § 10. Importørens forpliktelser
 
 (1) Importøren skal bare bringe i omsetning beholdere som er i samsvar med forskriften.
 
-(2) Før beholdere, hvor produktet av PS × V overstiger 50 bar·l, bringes i omsetning, skal importøren sikre atprodusenten har gjennomført relevant framgangsmåte for samsvarsvurderingprodusenten har utarbeidet teknisk dokumentasjonbeholderne er påført CE-merking og øvrig merking etter vedlegg III nr. 1beholderne følges av de nødvendige dokumenteneprodusenten har oppfylt kravene etter [§ 8](forskrift/2017-02-10-171/§8) niende og tiende ledd.
+(2) Før beholdere, hvor produktet av PS × V overstiger 50 bar·l, bringes i omsetning, skal importøren sikre at
+
+1. produsenten har gjennomført relevant framgangsmåte for samsvarsvurdering
+2. produsenten har utarbeidet teknisk dokumentasjon
+3. beholderne er påført CE-merking og øvrig merking etter vedlegg III nr. 1
+4. beholderne følges av de nødvendige dokumentene
+5. produsenten har oppfylt kravene etter [§ 8](forskrift/2017-02-10-171/§8) niende og tiende ledd.
 
 (3) En importør som har grunn til å tro at en beholder ikke er i samsvar med vedlegg I, skal ikke bringe beholderen i omsetning før den er i samsvar med kravene. Dersom en beholder utgjør en risiko, skal importøren underrette produsenten og markedstilsynsmyndighetene.
 
-(4) Før beholdere, hvor produktet av PS × V ikke overstiger 50 bar·l , bringes i omsetning, skal importøren påse atbeholderne er konstruert og produsert i samsvar med god ingeniørpraksisbeholderne er påført den øvrige merkingen etter vedlegg III nr. 1.2produsenten har oppfylt kravene etter [§ 8](forskrift/2017-02-10-171/§8) niende og tiende ledd.
+(4) Før beholdere, hvor produktet av PS × V ikke overstiger 50 bar·l , bringes i omsetning, skal importøren påse at
+
+1. beholderne er konstruert og produsert i samsvar med god ingeniørpraksis
+2. beholderne er påført den øvrige merkingen etter vedlegg III nr. 1.2
+3. produsenten har oppfylt kravene etter [§ 8](forskrift/2017-02-10-171/§8) niende og tiende ledd.
 
 (5) Importøren skal angi navn, firma eller registrert varemerke og kontaktadresse på beholderen. Dersom dette ikke er mulig, skal kontaktopplysningene angis i et dokument som følger med beholderen. Opplysningene skal gis på en slik måte at de lett kan forstås av brukerne og markedstilsynsmyndighetene.
 
@@ -108,7 +157,11 @@ Beholdere kan bare gjøres tilgjengelig på markedet dersom de er i samsvar med 
 
 (7) Importøren skal så lenge han har ansvar for et produkt, sikre at lagrings- eller transportforholdene ikke setter beholderens samsvar med vedlegg I i fare.
 
-(8) Importøren skal når det anses hensiktsmessig med hensyn til risikoen som er forbundet med en beholderta stikkprøver av beholdere som er gjort tilgjengelig på markedetundersøke og, om nødvendig, føre et register over klager, beholdere som ikke oppfyller kravene og tilbakekallinger av beholdereholde distributører underrettet om all slik overvåking.
+(8) Importøren skal når det anses hensiktsmessig med hensyn til risikoen som er forbundet med en beholder
+
+1. ta stikkprøver av beholdere som er gjort tilgjengelig på markedet
+2. undersøke og, om nødvendig, føre et register over klager, beholdere som ikke oppfyller kravene og tilbakekallinger av beholdere
+3. holde distributører underrettet om all slik overvåking.
 
 (9) En importør som har grunn til å tro at en beholder som er brakt i omsetning ikke er i samsvar med forskriften, skal straks treffe nødvendige korrigerende tiltak for å bringe beholderen i samsvar med forskriften eller, om nødvendig, trekke tilbake eller tilbakekalle beholderen. Dersom en beholder utgjør en risiko, skal importøren samtidig varsle relevante nasjonale myndigheter i de EØS-statene der beholderen er gjort tilgjengelig på markedet. Det skal særlig gis nærmere opplysninger om beholderens manglende samsvar og eventuelle korrigerende tiltak som er truffet.
 
@@ -120,11 +173,22 @@ Beholdere kan bare gjøres tilgjengelig på markedet dersom de er i samsvar med 
 
 (1) Distributøren skal utvise tilstrekkelig aktsomhet til kravene i forskriften når beholdere gjøres tilgjengelig på markedet.
 
-(2) Før en beholder, hvor produktet av PS × V overstiger 50 bar·l, gjøres tilgjengelig på markedet, skal distributøren kontrollere atbeholderen er påført CE-merking og øvrig merking etter vedlegg III nr. 1beholderen følges av de nødvendige dokumentenebeholderen følges av anvisninger og sikkerhetsinformasjon etter vedlegg III nr. 2. Sikkerhetsinformasjonen skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom beholderen skal gjøres tilgjengelig på markedet i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-statenprodusenten har oppfylt kravene i [§ 8](forskrift/2017-02-10-171/§8) niende og tiende leddimportøren har oppfylt kravene i [§ 10](forskrift/2017-02-10-171/§10) femte ledd.
+(2) Før en beholder, hvor produktet av PS × V overstiger 50 bar·l, gjøres tilgjengelig på markedet, skal distributøren kontrollere at
+
+1. beholderen er påført CE-merking og øvrig merking etter vedlegg III nr. 1
+2. beholderen følges av de nødvendige dokumentene
+3. beholderen følges av anvisninger og sikkerhetsinformasjon etter vedlegg III nr. 2. Sikkerhetsinformasjonen skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom beholderen skal gjøres tilgjengelig på markedet i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-staten
+4. produsenten har oppfylt kravene i [§ 8](forskrift/2017-02-10-171/§8) niende og tiende ledd
+5. importøren har oppfylt kravene i [§ 10](forskrift/2017-02-10-171/§10) femte ledd.
 
 (3) En distributør som har grunn til å tro at en beholder ikke er i samsvar med vedlegg I, skal ikke gjøre beholderen tilgjengelig på markedet før den er i samsvar med kravene. Dersom beholderen utgjør en risiko, skal distributøren varsle produsenten eller importøren og markedstilsynsmyndighetene om dette.
 
-(4) Før beholdere, hvor produktet av PS × V ikke overstiger 50 bar·l , gjøres tilgjengelig på markedet, skal distributøren kontrollere atbeholderne er påført den øvrige merkingen etter vedlegg III nr. 1.2beholderne følges av anvisninger og sikkerhetsinformasjon etter vedlegg III nr. 2. Sikkerhetsinformasjonen skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom beholdere gjøres tilgjengelig i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-statenprodusenten har oppfylt kravene i [§ 8](forskrift/2017-02-10-171/§8) niende og tiende leddimportøren har oppfylt kravene i [§ 10](forskrift/2017-02-10-171/§10) femte ledd.
+(4) Før beholdere, hvor produktet av PS × V ikke overstiger 50 bar·l , gjøres tilgjengelig på markedet, skal distributøren kontrollere at
+
+1. beholderne er påført den øvrige merkingen etter vedlegg III nr. 1.2
+2. beholderne følges av anvisninger og sikkerhetsinformasjon etter vedlegg III nr. 2. Sikkerhetsinformasjonen skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom beholdere gjøres tilgjengelig i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-staten
+3. produsenten har oppfylt kravene i [§ 8](forskrift/2017-02-10-171/§8) niende og tiende ledd
+4. importøren har oppfylt kravene i [§ 10](forskrift/2017-02-10-171/§10) femte ledd.
 
 (5) Distributøren skal så lenge han har ansvar for en beholder, hvor produktet av PS × V overstiger 50 bar·l, sikre at lagrings- eller transportforholdene ikke setter beholderens samsvar med vedlegg I i fare.
 
@@ -150,7 +214,11 @@ Beholdere, hvor produktet av PS × V overstiger 50 bar·l, og som er i samsvar m
 
 (1) Samsvarserklæringen skal fastslå at kravene i vedlegg I er oppfylt.
 
-(2) Samsvarserklæringen skalutformes etter malen i vedlegg IVinneholde elementene angitt i de relevante framgangsmåtene for samsvarsvurdering i vedlegg IIajourføres fortløpende.
+(2) Samsvarserklæringen skal
+
+1. utformes etter malen i vedlegg IV
+2. inneholde elementene angitt i de relevante framgangsmåtene for samsvarsvurdering i vedlegg II
+3. ajourføres fortløpende.
 
 (3) Samsvarserklæringen skal være på norsk, svensk, dansk eller engelsk. Dersom beholderen skal bringes i omsetning eller gjøres tilgjengelig på markedet i en annen EØS-stat, skal samsvarserklæringen oversettes til det eller de språkene som kreves av denne EØS-staten.
 
@@ -184,11 +252,27 @@ Beholdere, hvor produktet av PS × V overstiger 50 bar·l, og som er i samsvar m
 
 ### § 17. Framgangsmåter ved samsvarsvurdering før beholdere produseres
 
-Før beholdere, hvor produktet av PS × V overstiger 50 bar·l, produseres, skal de gjennomgå EU-typeprøvingen (modul B) etter vedlegg II nr. 1 på følgende måte:For beholdere som produseres i samsvar med de harmoniserte standardene nevnt i [§ 14](forskrift/2017-02-10-171/§14), skal produsenten velge én av følgende to måter:En vurdering av egnetheten til beholderens tekniske konstruksjon ved en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen, uten en undersøkelse av eksemplaret (modul B – konstruksjonstype).En vurdering av egnetheten til beholderens tekniske konstruksjon ved en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen, og en undersøkelse av en prototyp som er representativ for den planlagte produksjonen av den komplette beholderen (modul B – produksjonstype).For beholdere som ikke eller bare delvis produseres i samsvar med de harmoniserte standardene nevnt i [§ 14](forskrift/2017-02-10-171/§14), skal produsenten legge fram en prototyp, som er representativ for den planlagte produksjonen av den komplette beholderen, og den tekniske dokumentasjonen og underlagsdokumentasjonen for undersøkelse og vurdering av egnetheten ved beholderens tekniske konstruksjon (modul B – produksjonstype).
+Før beholdere, hvor produktet av PS × V overstiger 50 bar·l, produseres, skal de gjennomgå EU-typeprøvingen (modul B) etter vedlegg II nr. 1 på følgende måte:
+
+1. For beholdere som produseres i samsvar med de harmoniserte standardene nevnt i [§ 14](forskrift/2017-02-10-171/§14), skal produsenten velge én av følgende to måter:
+
+   1. En vurdering av egnetheten til beholderens tekniske konstruksjon ved en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen, uten en undersøkelse av eksemplaret (modul B – konstruksjonstype).
+   2. En vurdering av egnetheten til beholderens tekniske konstruksjon ved en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen, og en undersøkelse av en prototyp som er representativ for den planlagte produksjonen av den komplette beholderen (modul B – produksjonstype).
+2. For beholdere som ikke eller bare delvis produseres i samsvar med de harmoniserte standardene nevnt i [§ 14](forskrift/2017-02-10-171/§14), skal produsenten legge fram en prototyp, som er representativ for den planlagte produksjonen av den komplette beholderen, og den tekniske dokumentasjonen og underlagsdokumentasjonen for undersøkelse og vurdering av egnetheten ved beholderens tekniske konstruksjon (modul B – produksjonstype).
 
 ### § 18. Framgangsmåter ved samsvarsvurdering før beholdere bringes i omsetning
 
-Før beholdere bringes i omsetning skal de være underlagt følgende framgangsmåter:Dersom produktet av PS × V overstiger 3000 bar·l, skal beholdere være underlagt typesamsvar basert på intern produksjonskontroll og overvåket prøving av beholdere (modul C1) etter vedlegg II nr. 2.Dersom produktet av PS × V ikke overstiger 3 000 bar·l, men overstiger 50 bar·l, skal beholdere etter produsentens valg, være underlagt ententypesamsvar basert på intern produksjonskontroll og overvåket prøving av beholdere (modul C1) etter vedlegg II nr. 2typesamsvar basert på intern produksjonskontroll og overvåket kontroll av beholdere med ujevne mellomrom (modul C2) etter vedlegg II nr. 3.Dersom produktet av PS × V ikke overstiger 200 bar·l, men overstiger 50 bar·l, skal beholdere etter produsentens valg, være underlagt ententypesamsvar basert på intern produksjonskontroll og overvåket prøving av beholdere (modul C1) etter vedlegg II nr. 2typesamsvar basert på intern produksjonskontroll (modul C) etter vedlegg II nr. 4.
+Før beholdere bringes i omsetning skal de være underlagt følgende framgangsmåter:
+
+1. Dersom produktet av PS × V overstiger 3000 bar·l, skal beholdere være underlagt typesamsvar basert på intern produksjonskontroll og overvåket prøving av beholdere (modul C1) etter vedlegg II nr. 2.
+2. Dersom produktet av PS × V ikke overstiger 3 000 bar·l, men overstiger 50 bar·l, skal beholdere etter produsentens valg, være underlagt enten
+
+   1. typesamsvar basert på intern produksjonskontroll og overvåket prøving av beholdere (modul C1) etter vedlegg II nr. 2
+   2. typesamsvar basert på intern produksjonskontroll og overvåket kontroll av beholdere med ujevne mellomrom (modul C2) etter vedlegg II nr. 3.
+3. Dersom produktet av PS × V ikke overstiger 200 bar·l, men overstiger 50 bar·l, skal beholdere etter produsentens valg, være underlagt enten
+
+   1. typesamsvar basert på intern produksjonskontroll og overvåket prøving av beholdere (modul C1) etter vedlegg II nr. 2
+   2. typesamsvar basert på intern produksjonskontroll (modul C) etter vedlegg II nr. 4.
 
 ### § 19. Dokumenter og korrespondanse som gjelder framgangsmåter for samsvarsvurdering
 
@@ -214,11 +298,21 @@ Dokumenter og korrespondanse som gjelder framgangsmåter for samsvarsvurdering, 
 
 (8) Et teknisk kontrollorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt etter vedlegg I nr. 3.2 og vedlegg II og som det er utpekt for. Dette gjelder uansett om disse oppgavene utføres av organet selv eller på dets vegne og under dets ansvar.
 
-(9) Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av beholdere som det er utpekt for, ha til rådighetnødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingenbeskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåteneegnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som teknisk kontrollorgan og annen virksomhetframgangsmåter for utførelse av virksomheten, som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks den aktuelle beholderens teknologi er, og produksjonsprosessens masse- eller seriepreg.
+(9) Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av beholdere som det er utpekt for, ha til rådighet
+
+1. nødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingen
+2. beskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene
+3. egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som teknisk kontrollorgan og annen virksomhet
+4. framgangsmåter for utførelse av virksomheten, som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks den aktuelle beholderens teknologi er, og produksjonsprosessens masse- eller seriepreg.
 
 (10) Et teknisk kontrollorgan skal ha nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingen, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige fasiliteter.
 
-(11) Personale med ansvar for å utføre samsvarsvurderinger skal hasolid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt fortilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderingertilfredsstillende kunnskap om og forståelse av kravene i vedlegg I, de relevante harmoniserte standardene, relevante bestemmelser i norsk regelverk som gjennomfører EØS-regelverk og relevant nasjonal lovgivningnødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+(11) Personale med ansvar for å utføre samsvarsvurderinger skal ha
+
+1. solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt for
+2. tilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderinger
+3. tilfredsstillende kunnskap om og forståelse av kravene i vedlegg I, de relevante harmoniserte standardene, relevante bestemmelser i norsk regelverk som gjennomfører EØS-regelverk og relevant nasjonal lovgivning
+4. nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
 
 (12) Det skal sikres at det tekniske kontrollorganet, dets øverste ledelse og vurderingspersonale er upartiske.
 
@@ -272,7 +366,12 @@ Dersom et teknisk kontrollorgan ikke oppfyller sine forpliktelser, kan Direktora
 
 ### § 26. Opplysningsplikt
 
-(1) Tekniske kontrollorganer skal underrette Direktoratet for samfunnssikkerhet og beredskap omalle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbakealle omstendigheter som påvirker omfanget av eller vilkårene for utpekingalle anmodninger de har mottatt fra markedstilsynsmyndighetene angående opplysninger om samsvarsvurderingsvirksomhetpå anmodning, samsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen og all annen virksomhet, blant annet virksomhet og underleveranser over landegrensene.
+(1) Tekniske kontrollorganer skal underrette Direktoratet for samfunnssikkerhet og beredskap om
+
+1. alle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbake
+2. alle omstendigheter som påvirker omfanget av eller vilkårene for utpeking
+3. alle anmodninger de har mottatt fra markedstilsynsmyndighetene angående opplysninger om samsvarsvurderingsvirksomhet
+4. på anmodning, samsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen og all annen virksomhet, blant annet virksomhet og underleveranser over landegrensene.
 
 (2) Et teknisk kontrollorgan skal gi de andre organene som utøver tilsvarende samsvarsvurderingsvirksomhet for de samme beholderne, relevante opplysninger om spørsmål knyttet til negative resultater av samsvarsvurderingen og i tillegg positive resultater av samsvarsvurderingen dersom de ber om det.
 
@@ -294,7 +393,16 @@ Vedtak truffet av Direktoratet for samfunnssikkerhet og beredskap, eller den dir
 
 (1) Ved overtredelse av [§ 7](forskrift/2017-02-10-171/§7) – § 11, [§ 13](forskrift/2017-02-10-171/§13) og [§ 15](forskrift/2017-02-10-171/§15) – § 19 eller vedtak truffet i medhold av disse, kommer bestemmelsene i brann- og [eksplosjonsvernloven § 37](lov/2002-06-14-20/§37), [§ 38](lov/2002-06-14-20/§38) og [§ 40](lov/2002-06-14-20/§40) og [petroleumsloven § 10-1](lov/1996-11-29-72/§10-1) og [§ 10-3](lov/1996-11-29-72/§10-3) til anvendelse.
 
-(2) Dersom en beholder kan utgjøre en risiko, eller ikke er i samsvar med § 7 – § 11, § 13 og § 15 – § 19 i forskriften, kan Havindustritilsynet eller Direktoratet for samfunnssikkerhet og beredskapnedlegge forbud mot å importere, bringe i omsetning eller gjøre beholderen tilgjengelig på markedetkreve at beholderen tilbaketrekkes fra relevante markedsaktørerkreve at beholderen tilbakekalles fra den som har kjøpt beholderen eller tatt den i brukkreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av slike beholderekreve retting av beholderenkreve at beholderen uskadeliggjøresnedlegge forbud mot bruk av beholderenkreve merking av beholderen.
+(2) Dersom en beholder kan utgjøre en risiko, eller ikke er i samsvar med § 7 – § 11, § 13 og § 15 – § 19 i forskriften, kan Havindustritilsynet eller Direktoratet for samfunnssikkerhet og beredskap
+
+1. nedlegge forbud mot å importere, bringe i omsetning eller gjøre beholderen tilgjengelig på markedet
+2. kreve at beholderen tilbaketrekkes fra relevante markedsaktører
+3. kreve at beholderen tilbakekalles fra den som har kjøpt beholderen eller tatt den i bruk
+4. kreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av slike beholdere
+5. kreve retting av beholderen
+6. kreve at beholderen uskadeliggjøres
+7. nedlegge forbud mot bruk av beholderen
+8. kreve merking av beholderen.
 
 > Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 
@@ -324,7 +432,11 @@ Materialene skal velges ut på grunnlag av hva beholderne skal brukes til, og i 
 
 ### 1.1 Trykkpåkjente deler
 
-Materialene som skal brukes ved produksjon av trykkpåkjente deler av beholdere, skalvære sveisbare,være duktile og seige slik at et brudd ved laveste driftstemperatur ikke forårsaker fragmentering eller sprøbrudd,være aldringsbestandige.
+Materialene som skal brukes ved produksjon av trykkpåkjente deler av beholdere, skal
+
+1. være sveisbare,
+2. være duktile og seige slik at et brudd ved laveste driftstemperatur ikke forårsaker fragmentering eller sprøbrudd,
+3. være aldringsbestandige.
 
 Når det gjelder beholdere av stål, skal materialene i tillegg oppfylle kravene i nr. 1.1.1, og når det gjelder beholdere av aluminium eller aluminiumslegeringer, kravene i nr. 1.1.2.
 
@@ -332,13 +444,44 @@ Disse materialene skal følges av en kontrollseddel som definert i vedlegg III n
 
 ### 1.1.1 Beholdere av stål
 
-Ulegerte kvalitetsståltyper skal oppfylle følgende krav:De skal være beroliget og leveres etter normaliseringsbehandling, eller i tilsvarende tilstand,ha et karboninnhold per produkt på mindre enn 0,25 %, og et svovel- og fosforinnhold som hver for seg er mindre enn 0,05 %,ha følgende mekaniske egenskaper per produkt:største strekkfasthet Rm,max skal være mindre enn 580 N/mm2,bruddforlengelsen skal væredersom prøvelegemet tas parallelt med valseretningen,tykkelse ≥ 3 mm:A≥ 22 %,tykkelse < 3 mm:A80 mm≥ 17 %,dersom prøvelegemet tas vinkelrett på valseretningen,tykkelse ≥ 3 mm:A≥ 20 %,tykkelse < 3 mm:A80 mm≥ 15 %,gjennomsnittlig bruddseighet KCV for tre langsgående prøvelegemer ved laveste driftstemperatur skal ikke være mindre enn 35 J/cm2 . Ikke flere enn én av disse tre verdiene kan være mindre enn 35 J/cm2, og under ingen omstendighet mindre enn 25 J/cm2 . Når det gjelder ståltyper som skal brukes i framstilling av beholdere der laveste driftstemperatur er mindre enn -10 °C og der veggtykkelsen er mer enn 5 mm, skal denne egenskapen kontrolleres.
+Ulegerte kvalitetsståltyper skal oppfylle følgende krav:
+
+1. De skal være beroliget og leveres etter normaliseringsbehandling, eller i tilsvarende tilstand,
+2. ha et karboninnhold per produkt på mindre enn 0,25 %, og et svovel- og fosforinnhold som hver for seg er mindre enn 0,05 %,
+3. ha følgende mekaniske egenskaper per produkt:
+
+   1. største strekkfasthet Rm,max skal være mindre enn 580 N/mm2,
+   2. bruddforlengelsen skal være
+
+      dersom prøvelegemet tas parallelt med valseretningen,
+
+      |  |  |  |
+      | --- | --- | --- |
+      | tykkelse ≥ 3 mm: | A | ≥ 22 %, |
+      | tykkelse < 3 mm: | A80 mm | ≥ 17 %, |
+
+      dersom prøvelegemet tas vinkelrett på valseretningen,
+
+      |  |  |  |
+      | --- | --- | --- |
+      | tykkelse ≥ 3 mm: | A | ≥ 20 %, |
+      | tykkelse < 3 mm: | A80 mm | ≥ 15 %, |
+   3. gjennomsnittlig bruddseighet KCV for tre langsgående prøvelegemer ved laveste driftstemperatur skal ikke være mindre enn 35 J/cm2 . Ikke flere enn én av disse tre verdiene kan være mindre enn 35 J/cm2, og under ingen omstendighet mindre enn 25 J/cm2 . Når det gjelder ståltyper som skal brukes i framstilling av beholdere der laveste driftstemperatur er mindre enn -10 °C og der veggtykkelsen er mer enn 5 mm, skal denne egenskapen kontrolleres.
 
 ### 1.1.2 Aluminiumsbeholdere
 
 Ulegert aluminium skal ha et aluminiuminnhold på minst 99,5 % og de legeringer som er omhandlet i [§ 1](forskrift/2017-02-10-171/§1) nr. 1, bokstav b) skal vise adekvat motstandsevne mot interkrystallinsk korrosjon ved høyeste driftstemperatur.
 
-Disse materialene skal dessuten oppfylle følgende krav:De skal leveres i glødet tilstand,ha følgende mekaniske egenskaper per produkt:største strekkfasthet Rm,max skal være høyst 350 N/mm2,bruddforlengelsen skal være:A ≥ 16 % dersom prøvelegemet tas parallelt med valseretningen,A ≥ 14 % dersom prøvelegemet tas vinkelrett på valseretningen,
+Disse materialene skal dessuten oppfylle følgende krav:
+
+1. De skal leveres i glødet tilstand,
+2. ha følgende mekaniske egenskaper per produkt:
+
+   - største strekkfasthet Rm,max skal være høyst 350 N/mm2,
+   - bruddforlengelsen skal være:
+
+     - A ≥ 16 % dersom prøvelegemet tas parallelt med valseretningen,
+     - A ≥ 14 % dersom prøvelegemet tas vinkelrett på valseretningen,
 
 ### 1.2 Sveisematerialer
 
@@ -356,9 +499,23 @@ Alle ikke-trykkpåkjente deler av sveisede beholdere skal være framstilt av mat
 
 ### 2. Beholderens konstruksjon
 
-1. Når beholdere konstrueres, skal produsenten avgrense deres bruksområde ved å fastsettelaveste driftstemperatur Tmin ,høyeste driftstemperatur Tmax ,høyeste driftstrykk PS.Dersom det fastsettes en laveste driftstemperatur som er høyere enn -10 °C, skal kravene til materialkvalitet likevel oppfylles ved -10 °C.
-2. Produsenten skal også ta hensyn til følgende:Beholderne skal kunne kontrolleres innvendig,beholderne skal kunne tømmes,beholdernes mekaniske egenskaper skal opprettholdes i det tidsrom beholderne anvendes for sitt tiltenkte formål,beholderne skal være tilstrekkelig beskyttet mot korrosjon ut fra hensynet til den bruk de er beregnet på.
-3. Produsenten skal ta hensyn til at under planlagte bruksforholdskal beholderne ikke utsettes for belastninger som kan svekke deres sikkerhet under bruk,skal det indre trykket permanent ikke overstige det høyeste driftstrykket PS. Et øyeblikks overtrykk på inntil 10 % kan imidlertid tillates.
+1. Når beholdere konstrueres, skal produsenten avgrense deres bruksområde ved å fastsette
+
+   1. laveste driftstemperatur Tmin ,
+   2. høyeste driftstemperatur Tmax ,
+   3. høyeste driftstrykk PS.
+
+   Dersom det fastsettes en laveste driftstemperatur som er høyere enn -10 °C, skal kravene til materialkvalitet likevel oppfylles ved -10 °C.
+2. Produsenten skal også ta hensyn til følgende:
+
+   1. Beholderne skal kunne kontrolleres innvendig,
+   2. beholderne skal kunne tømmes,
+   3. beholdernes mekaniske egenskaper skal opprettholdes i det tidsrom beholderne anvendes for sitt tiltenkte formål,
+   4. beholderne skal være tilstrekkelig beskyttet mot korrosjon ut fra hensynet til den bruk de er beregnet på.
+3. Produsenten skal ta hensyn til at under planlagte bruksforhold
+
+   1. skal beholderne ikke utsettes for belastninger som kan svekke deres sikkerhet under bruk,
+   2. skal det indre trykket permanent ikke overstige det høyeste driftstrykket PS. Et øyeblikks overtrykk på inntil 10 % kan imidlertid tillates.
 4. Rund- og langsveiser skal utføres med full gjennomsveising eller ved sveising som gir tilsvarende virkning. Konvekse endebunner som ikke er halvkuleformede, skal ha en sylindrisk kant.
 
 ### 2.1 Veggtykkelse
@@ -369,7 +526,10 @@ Den faktiske veggtykkelsen i mantelringen og endebunnene skal imidlertid ikke v�
 
 ### 2.1.1 Beregningsmetode
 
-Når minste tykkelse for trykkpåkjente deler beregnes, skal det tas hensyn til spenningsnivået og til følgende bestemmelser:Trykket som utgjør beregningsgrunnlaget skal ikke være mindre enn det høyeste driftstrykk (PS) som er valgt,den tillatte generelle membranspenning skal ikke være større enn den laveste av verdiene 0,6 ReT eller 0,3 Rm. Produsenten skal benytte de minsteverdiene for ReT og Rm som er garantert av materialprodusenten, når den tillatte spenningen skal fastsettes.
+Når minste tykkelse for trykkpåkjente deler beregnes, skal det tas hensyn til spenningsnivået og til følgende bestemmelser:
+
+1. Trykket som utgjør beregningsgrunnlaget skal ikke være mindre enn det høyeste driftstrykk (PS) som er valgt,
+2. den tillatte generelle membranspenning skal ikke være større enn den laveste av verdiene 0,6 ReT eller 0,3 Rm. Produsenten skal benytte de minsteverdiene for ReT og Rm som er garantert av materialprodusenten, når den tillatte spenningen skal fastsettes.
 
 Dersom den sylindriske delen av beholderen imidlertid har en eller flere langsveiser som er utført ved en ikke-automatisk sveisemetode, skal en tykkelse beregnet som nevnt foran multipliseres med koeffisienten 1,15.
 
@@ -407,21 +567,56 @@ EU-typeprøving er den del av framgangsmåten for samsvarsvurdering der et tekni
 
 1.2
 
-EU-typeprøvingen kan gjennomføres på en av følgende måter i samsvar med [§ 17](forskrift/2017-02-10-171/§17):en vurdering av egnetheten til beholderens tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen nevnt i nr. 1.3, samt en undersøkelse av en prototyp som er representativ for den planlagte produksjonen, av den komplette beholder (produksjonstype),en vurdering av egnetheten til beholderens tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen nevnt i nr. 1.3, uten undersøkelse av en prototyp for beholderen (konstruksjonstype).
+EU-typeprøvingen kan gjennomføres på en av følgende måter i samsvar med [§ 17](forskrift/2017-02-10-171/§17):
+
+- en vurdering av egnetheten til beholderens tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen nevnt i nr. 1.3, samt en undersøkelse av en prototyp som er representativ for den planlagte produksjonen, av den komplette beholder (produksjonstype),
+- en vurdering av egnetheten til beholderens tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen nevnt i nr. 1.3, uten undersøkelse av en prototyp for beholderen (konstruksjonstype).
 
 1.3
 
 Produsenten skal inngi en søknad om EU-typeprøving til ett enkelt teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om beholderen er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko.Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke beholderens konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av beholderen,konstruksjons- og produksjonstegninger, delelister osv.,nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og beholderens virkemåte,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter,instruksene og sikkerhetsinformasjonen nevnt i vedlegg II nr. 2,et dokument som beskrivervalgte materialer,valgte sveisemetoder,valgte kontrolltiltak,alle viktige opplysninger om beholderens konstruksjon,dersom det er relevant, prototyp som er representativ for den planlagte produksjonen. Det tekniske kontrollorganet kan anmode om flere prototyper for beholdere dersom det er nødvendig for å gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt, særlig der relevante harmoniserte standarder ikke er anvendt full ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger utført i samsvar med andre relevante tekniske spesifikasjoner av egnet laboratorium hos produsenten eller av et annet prøvingslaboratorium på produsentens vegne og ansvar.Når en prototyp for beholderen er undersøkt, skal den tekniske dokumentasjonen også inneholdesertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,en rapport om undersøkelser og prøvinger som er utført, eller en beskrivelse av foreslåtte kontrolltiltak.
+Søknaden skal inneholde
+
+1. produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+2. en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+3. den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om beholderen er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko.
+
+   Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke beholderens konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+   1. en generell beskrivelse av beholderen,
+   2. konstruksjons- og produksjonstegninger, delelister osv.,
+   3. nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og beholderens virkemåte,
+   4. en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+   5. resultater av konstruksjonsberegninger, undersøkelser osv.,
+   6. prøvingsrapporter,
+   7. instruksene og sikkerhetsinformasjonen nevnt i vedlegg II nr. 2,
+   8. et dokument som beskriver
+
+      - valgte materialer,
+      - valgte sveisemetoder,
+      - valgte kontrolltiltak,
+      - alle viktige opplysninger om beholderens konstruksjon,
+4. dersom det er relevant, prototyp som er representativ for den planlagte produksjonen. Det tekniske kontrollorganet kan anmode om flere prototyper for beholdere dersom det er nødvendig for å gjennomføre prøvingsprogrammet,
+5. underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt, særlig der relevante harmoniserte standarder ikke er anvendt full ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger utført i samsvar med andre relevante tekniske spesifikasjoner av egnet laboratorium hos produsenten eller av et annet prøvingslaboratorium på produsentens vegne og ansvar.
+
+   Når en prototyp for beholderen er undersøkt, skal den tekniske dokumentasjonen også inneholde
+
+   - sertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,
+   - kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,
+   - en rapport om undersøkelser og prøvinger som er utført, eller en beskrivelse av foreslåtte kontrolltiltak.
 
 1.4
 
-Det tekniske kontrollorganet skalnår det gjelder beholderen,
+Det tekniske kontrollorganet skal
+
+når det gjelder beholderen,
 
 1.4.1
 
-undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om beholderens tekniske konstruksjon er tilfredsstillende.når det gjelder prototypen for beholderen/beholderne,
+undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om beholderens tekniske konstruksjon er tilfredsstillende.
+
+når det gjelder prototypen for beholderen/beholderne,
 
 1.4.2
 
@@ -483,13 +678,29 @@ Typesamsvar basert på intern produksjonskontroll samt overvåket prøving av be
 
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen med den sikrer at beholderne som produseres, er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet og med gjeldende krav i forskriften.
 
-Før produksjonen settes i gang, skal produsenten gi et teknisk kontrollorgan etter eget valg alle nødvendige opplysninger, særligden tekniske dokumentasjonen, som også skal inneholdesertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,en rapport om undersøkelser og prøvinger som er utført,inspeksjonsdokumentet som beskriver hensiktsmessige undersøkelser og prøvinger som skal foretas under produksjonen, samt hvordan og hvor ofte disse skal gjennomføres,EU-typeprøvingssertifikatet.
+Før produksjonen settes i gang, skal produsenten gi et teknisk kontrollorgan etter eget valg alle nødvendige opplysninger, særlig
+
+1. den tekniske dokumentasjonen, som også skal inneholde
+
+   - sertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,
+   - kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,
+   - en rapport om undersøkelser og prøvinger som er utført,
+2. inspeksjonsdokumentet som beskriver hensiktsmessige undersøkelser og prøvinger som skal foretas under produksjonen, samt hvordan og hvor ofte disse skal gjennomføres,
+3. EU-typeprøvingssertifikatet.
 
 2.3*Kontroll av beholdere*
 
 2.3.1
 
-For hver beholder som produseres, skal et teknisk kontrollorgan utføre hensiktsmessige undersøkelser og prøvinger for å kontrollere at beholderen er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet og med de tilsvarende krav i forskriften i samsvar med følgende punkter:Produsenten skal presentere beholderne i ensartede partier og treffe alle nødvendige tiltak for å påse at produksjonsprosessen sikrer ensartethet for hvert parti som produseres.Når det tekniske kontrollorganet undersøker et parti, skal det påse at beholderne er produsert og kontrollert i samsvar med den tekniske dokumentasjonen, og foreta en hydrostatisk trykkprøving, eller en pneumatisk trykkprøving med samme virkning, av alle beholderne i partiet der disse utsettes for et trykk Ph på 1,5 ganger beholderens beregningstrykk for å kontrollere deres styrke. Pneumatisk trykkprøving forutsetter at sikkerhetsbestemmelsene for prøven er godkjent av medlemsstaten der slik prøving foretas.For å undersøke sveisekvaliteten skal det tekniske kontrollorganet dessuten utføre prøvinger på prøvelegemer som etter produsentens valg er tatt fra et prøveemne som er representativt for produksjonen eller fra en beholder. Prøvingene foretas på langsveiser. Prøvingene skal imidlertid gjentas på rundsveiser når det benyttes ulike sveisemetoder ved rund- og langsveising.Når det gjelder beholdere nevnt i vedlegg I nr. 2.1.2, skal prøvingene på prøvelegemer erstattes av hydrostatisk prøving av fem tilfeldig valgte beholdere fra hvert parti for å kontrollere at de oppfyller de grunnleggende sikkerhetskravene i vedlegg I nr. 2.1.2.Når det gjelder godkjente partier, skal det tekniske kontrollorganet påføre sitt identifikasjonsnummer, eller sørge for at dette nummeret blir påført, på hver beholder og utarbeide et skriftlig samsvarssertifikat for de prøvingene som er utført. Alle beholdere i et parti kan bringes i omsetning, unntatt de som ikke har gått gjennom en hydrostatisk trykkprøving eller en pneumatisk trykkprøving med positivt resultat.Dersom et parti blir avvist, skal det tekniske kontrollorganet treffe hensiktsmessige tiltak for å hindre at partiet bringes i omsetning. Dersom partier forkastes ofte, kan det tekniske kontrollorganet midlertidig oppheve ordningen med statistisk verifisering.Produsenten skal på anmodning fra de relevante myndigheter legge fram det tekniske kontrollorganets samsvarssertfikater som nevnt i bokstav e).
+For hver beholder som produseres, skal et teknisk kontrollorgan utføre hensiktsmessige undersøkelser og prøvinger for å kontrollere at beholderen er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet og med de tilsvarende krav i forskriften i samsvar med følgende punkter:
+
+1. Produsenten skal presentere beholderne i ensartede partier og treffe alle nødvendige tiltak for å påse at produksjonsprosessen sikrer ensartethet for hvert parti som produseres.
+2. Når det tekniske kontrollorganet undersøker et parti, skal det påse at beholderne er produsert og kontrollert i samsvar med den tekniske dokumentasjonen, og foreta en hydrostatisk trykkprøving, eller en pneumatisk trykkprøving med samme virkning, av alle beholderne i partiet der disse utsettes for et trykk Ph på 1,5 ganger beholderens beregningstrykk for å kontrollere deres styrke. Pneumatisk trykkprøving forutsetter at sikkerhetsbestemmelsene for prøven er godkjent av medlemsstaten der slik prøving foretas.
+3. For å undersøke sveisekvaliteten skal det tekniske kontrollorganet dessuten utføre prøvinger på prøvelegemer som etter produsentens valg er tatt fra et prøveemne som er representativt for produksjonen eller fra en beholder. Prøvingene foretas på langsveiser. Prøvingene skal imidlertid gjentas på rundsveiser når det benyttes ulike sveisemetoder ved rund- og langsveising.
+4. Når det gjelder beholdere nevnt i vedlegg I nr. 2.1.2, skal prøvingene på prøvelegemer erstattes av hydrostatisk prøving av fem tilfeldig valgte beholdere fra hvert parti for å kontrollere at de oppfyller de grunnleggende sikkerhetskravene i vedlegg I nr. 2.1.2.
+5. Når det gjelder godkjente partier, skal det tekniske kontrollorganet påføre sitt identifikasjonsnummer, eller sørge for at dette nummeret blir påført, på hver beholder og utarbeide et skriftlig samsvarssertifikat for de prøvingene som er utført. Alle beholdere i et parti kan bringes i omsetning, unntatt de som ikke har gått gjennom en hydrostatisk trykkprøving eller en pneumatisk trykkprøving med positivt resultat.
+6. Dersom et parti blir avvist, skal det tekniske kontrollorganet treffe hensiktsmessige tiltak for å hindre at partiet bringes i omsetning. Dersom partier forkastes ofte, kan det tekniske kontrollorganet midlertidig oppheve ordningen med statistisk verifisering.
+7. Produsenten skal på anmodning fra de relevante myndigheter legge fram det tekniske kontrollorganets samsvarssertfikater som nevnt i bokstav e).
 
 2.3.2
 
@@ -531,11 +742,26 @@ Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og 
 
 3.2.2
 
-Før produksjonen settes i gang, skal produsenten gi et teknisk kontrollorgan etter eget valg alle nødvendige opplysninger, særligden tekniske dokumentasjonen, som også skal inneholdesertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,en rapport undersøkelser og prøvinger som er utført,EU-typeprøvingssertifikatetet,et dokument som beskriver produksjonsprosessen og alle systematiske tiltak som er fastlagt på forhånd for å sikre at beholderne er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet.Det tekniske kontrollorganet skal før den dato produksjonen skal begynne, undersøke nevnte dokumenter for å bekrefte at de er i samsvar med EU-typeprøvingssertifikatet.
+Før produksjonen settes i gang, skal produsenten gi et teknisk kontrollorgan etter eget valg alle nødvendige opplysninger, særlig
+
+1. den tekniske dokumentasjonen, som også skal inneholde
+
+   - sertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,
+   - kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,
+   - en rapport undersøkelser og prøvinger som er utført,
+2. EU-typeprøvingssertifikatetet,
+3. et dokument som beskriver produksjonsprosessen og alle systematiske tiltak som er fastlagt på forhånd for å sikre at beholderne er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet.
+
+   Det tekniske kontrollorganet skal før den dato produksjonen skal begynne, undersøke nevnte dokumenter for å bekrefte at de er i samsvar med EU-typeprøvingssertifikatet.
 
 3.2.3
 
-Dokumentet nevnt i nr. 3.2.2 bokstav c. skal inneholdeen beskrivelse av produksjonsmidler og kontrollutstyr som er egnet for produksjon av beholderne,et inspeksjonsdokument som beskriver hensiktsmessige undersøkelser og prøvinger som skal foretas i løpet av produksjonsprosessen, samt hvordan og hvor ofte disse skal gjennomføres,en forpliktelse til å foreta undersøkelsene og prøvingene i samsvar med inspeksjonsdokumentet, samt til å foreta en hydraulisk trykkprøving, eller en pneumatisk trykkprøving dersom medlemsstaten samtykker til dette, med et prøvetrykk på 1,5 ganger beregningstrykket på hver enkelt beholder som produseres; kvalifisert personale som er tilstrekkelig uavhengig av produksjonsansatte, skal ha ansvaret for å utføre disse undersøkelsene og prøvingene, som skal behandles i en rapport,adressene til produksjonssteder og lagre, og dato for når produksjonen skal begynne.
+Dokumentet nevnt i nr. 3.2.2 bokstav c. skal inneholde
+
+1. en beskrivelse av produksjonsmidler og kontrollutstyr som er egnet for produksjon av beholderne,
+2. et inspeksjonsdokument som beskriver hensiktsmessige undersøkelser og prøvinger som skal foretas i løpet av produksjonsprosessen, samt hvordan og hvor ofte disse skal gjennomføres,
+3. en forpliktelse til å foreta undersøkelsene og prøvingene i samsvar med inspeksjonsdokumentet, samt til å foreta en hydraulisk trykkprøving, eller en pneumatisk trykkprøving dersom medlemsstaten samtykker til dette, med et prøvetrykk på 1,5 ganger beregningstrykket på hver enkelt beholder som produseres; kvalifisert personale som er tilstrekkelig uavhengig av produksjonsansatte, skal ha ansvaret for å utføre disse undersøkelsene og prøvingene, som skal behandles i en rapport,
+4. adressene til produksjonssteder og lagre, og dato for når produksjonen skal begynne.
 
 3.3*Kontroll av beholdere*
 
@@ -579,7 +805,21 @@ Typesamsvar basert på intern produksjonskontroll er den del av framgangsmåten 
 
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen med den, sikrer at beholderne som produseres, er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i forskriften.
 
-Før produksjonen settes i gang, skal produsenten gi til det tekniske kontrollorganet som har utstedt EU-typeprøvingssertifikatet, alle nødvendige opplysninger, særligsertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,en rapport om undersøkelser og prøvinger som er utført,et dokument som beskriver produksjonsprosessen og alle systematiske tiltak som er fastlagt på forhånd for å sikre at beholderne er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet.Nevnte dokument skal inneholdeen beskrivelse av produksjonsmidler og kontrollutstyr som er egnet for produksjon av beholderne,et inspeksjonsdokument som beskriver hensiktsmessige undersøkelser og prøvinger som skal foretas i løpet av produksjonsprosessen, samt hvordan og hvor ofte disse skal gjennomføres,en forpliktelse til å foreta undersøkelsene og prøvingene i samsvar med inspeksjonsdokumentet, samt til å foreta en hydraulisk trykkprøving, eller en pneumatisk trykkprøving dersom medlemsstaten samtykker til dette, med et prøvetrykk på 1,5 ganger beregningstrykket på hver enkelt beholder som produseres; kvalifisert personale som er tilstrekkelig uavhengig av produksjonsansatte, skal ha ansvaret for å utføre disse undersøkelsene og prøvingene, som skal behandles i en rapport,adressene til produksjonssteder og lagre, og dato for når produksjonen skal begynne.Det tekniske kontrollorganet skal før den dato produksjonen skal begynne, undersøke nevnte dokumenter for å bekrefte at de er i samsvar med EU-typeprøvingssertifikatet.
+Før produksjonen settes i gang, skal produsenten gi til det tekniske kontrollorganet som har utstedt EU-typeprøvingssertifikatet, alle nødvendige opplysninger, særlig
+
+1. sertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,
+2. kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,
+3. en rapport om undersøkelser og prøvinger som er utført,
+4. et dokument som beskriver produksjonsprosessen og alle systematiske tiltak som er fastlagt på forhånd for å sikre at beholderne er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet.
+
+   Nevnte dokument skal inneholde
+
+   1. en beskrivelse av produksjonsmidler og kontrollutstyr som er egnet for produksjon av beholderne,
+   2. et inspeksjonsdokument som beskriver hensiktsmessige undersøkelser og prøvinger som skal foretas i løpet av produksjonsprosessen, samt hvordan og hvor ofte disse skal gjennomføres,
+   3. en forpliktelse til å foreta undersøkelsene og prøvingene i samsvar med inspeksjonsdokumentet, samt til å foreta en hydraulisk trykkprøving, eller en pneumatisk trykkprøving dersom medlemsstaten samtykker til dette, med et prøvetrykk på 1,5 ganger beregningstrykket på hver enkelt beholder som produseres; kvalifisert personale som er tilstrekkelig uavhengig av produksjonsansatte, skal ha ansvaret for å utføre disse undersøkelsene og prøvingene, som skal behandles i en rapport,
+   4. adressene til produksjonssteder og lagre, og dato for når produksjonen skal begynne.
+
+   Det tekniske kontrollorganet skal før den dato produksjonen skal begynne, undersøke nevnte dokumenter for å bekrefte at de er i samsvar med EU-typeprøvingssertifikatet.
 
 4.3*CE-merking og EU-samsvarserklæring*
 
@@ -609,7 +849,14 @@ Beholdere hvor produktet av PS × V overstiger 50 bar·l, skal være påført CE
 
 1.2
 
-Beholderne eller deres merkeplater skal minst være påført følgende opplysninger:høyeste driftstrykk (PS i bar),høyeste driftstemperatur (Tmax i °C),laveste driftstemperatur (Tmin i °C),beholderens volum (V i l),navn, registrert varemerke og kontaktadresse til produsenten,beholderens typebetegnelse og serie- eller partinummer.
+Beholderne eller deres merkeplater skal minst være påført følgende opplysninger:
+
+1. høyeste driftstrykk (PS i bar),
+2. høyeste driftstemperatur (Tmax i °C),
+3. laveste driftstemperatur (Tmin i °C),
+4. beholderens volum (V i l),
+5. navn, registrert varemerke og kontaktadresse til produsenten,
+6. beholderens typebetegnelse og serie- eller partinummer.
 
 1.3
 
@@ -617,7 +864,11 @@ Dersom det brukes en merkeplate, skal den være utformet slik at den ikke kan br
 
 2.*Anvisninger og sikkerhetsinformasjon*
 
-Bruksanvisningen skal inneholde følgende opplysninger:opplysningene i nr. 1.2, unntatt beholderens serie- eller partinummer,beholderens planlagte bruksområde,de krav til vedlikehold og installasjon som er nødvendige for beholderens sikkerhet.
+Bruksanvisningen skal inneholde følgende opplysninger:
+
+1. opplysningene i nr. 1.2, unntatt beholderens serie- eller partinummer,
+2. beholderens planlagte bruksområde,
+3. de krav til vedlikehold og installasjon som er nødvendige for beholderens sikkerhet.
 
 3.*Definisjoner og symboler*
 
@@ -627,8 +878,19 @@ Bruksanvisningen skal inneholde følgende opplysninger:opplysningene i nr. 1.2, 
 2. Høyeste driftstrykk «PS» er det største overtrykk som kan benyttes under normale bruksbetingelser for beholderen.
 3. Laveste driftstemperatur «Tmin » er den laveste stabiliserte temperaturen som beholderveggen kan ha under normal bruk.
 4. Høyeste driftstemperatur «Tmax » er den høyeste stabiliserte temperaturen som beholderveggen kan ha under normal bruk.
-5. Flytegrensen «ReT » er verdien ved høyeste driftstemperatur Tmax av entenden øvre flytegrensen ReH for et materiale som har både en nedre og en øvre flytegrense,0,2-grense Rp0,2 ;1,0-grense Rp1,0 for ulegert aluminium.
-6. Beholderfamilier:Beholdere inngår i samme familie dersom de bare skiller seg fra prototypen i diameter, forutsatt at de er i samsvar med de tillatte kravene i vedlegg I nr. 2.1.1 og 2.1.2, og/eller i lengden på den sylindriske delen innenfor følgende grenser:Dersom prototypen består av en eller flere mantelringer i tillegg til endebunnene, skal variantene ha minst én mantelring.Dersom prototypen bare består av to kuvede endebunner, skal variantene ikke ha noen mantelringer.Variasjoner i lengden som fører til endringer av åpninger og/eller hull, skal vises på tegningen for hver enkelt variant.
+5. Flytegrensen «ReT » er verdien ved høyeste driftstemperatur Tmax av enten
+
+   1. den øvre flytegrensen ReH for et materiale som har både en nedre og en øvre flytegrense,
+   2. 0,2-grense Rp0,2 ;
+   3. 1,0-grense Rp1,0 for ulegert aluminium.
+6. Beholderfamilier:
+
+   Beholdere inngår i samme familie dersom de bare skiller seg fra prototypen i diameter, forutsatt at de er i samsvar med de tillatte kravene i vedlegg I nr. 2.1.1 og 2.1.2, og/eller i lengden på den sylindriske delen innenfor følgende grenser:
+
+   1. Dersom prototypen består av en eller flere mantelringer i tillegg til endebunnene, skal variantene ha minst én mantelring.
+   2. Dersom prototypen bare består av to kuvede endebunner, skal variantene ikke ha noen mantelringer.
+
+   Variasjoner i lengden som fører til endringer av åpninger og/eller hull, skal vises på tegningen for hver enkelt variant.
 7. Et parti beholdere består av høyst 3 000 beholdere av samme modelltype.
 8. I henhold til forskriften menes med serieproduksjon at en beholder av samme type i løpet av en gitt periode blir produsert i en ubrutt produksjonsprosess, med felles utforming og etter samme produksjonsprosess.
 9. Kontrollseddel: Et dokument der produsenten av materialene bekrefter at de leverte produktene oppfyller kravene i ordren, og der denne påfører resultater, særlig kjemisk sammensetning og mekaniske egenskaper, fra rutinemessige inspeksjonsundersøkelser foretatt på produksjonsstedet av produkter framstilt i samme produksjonsprosess som de leverte produktene, men ikke nødvendigvis av disse.
@@ -664,7 +926,15 @@ Bruksanvisningen skal inneholde følgende opplysninger:opplysningene i nr. 1.2, 
 5. Erklæringens gjenstand beskrevet over er i samsvar med relevante deler av EØS-regelverket
 6. Henvisninger til de relevante harmoniserte standarder som er anvendt, eller henvisninger til andre tekniske spesifikasjoner det erklæres samsvar med
 7. Det tekniske kontrollorganet ... (navn, nummer) har utført ... (beskrivelse av inngrepet) og utstedt sertifikatet
-8. TilleggsopplysningerUndertegnet for og på vegne av:(sted og dato for utstedelse):(navn, stilling) (underskrift):(eventuelt identifikasjon av underskriftsberettiget med fullmakt til å undertegne den rettslig bindende erklæringen på vegne av produsenten eller dennes representant)
+8. Tilleggsopplysninger
+
+   Undertegnet for og på vegne av:
+
+   (sted og dato for utstedelse):
+
+   (navn, stilling) (underskrift):
+
+   (eventuelt identifikasjon av underskriftsberettiget med fullmakt til å undertegne den rettslig bindende erklæringen på vegne av produsenten eller dennes representant)
 
 1 Produsenten kan velge å tildele samsvarserklæringen et nummer.
 

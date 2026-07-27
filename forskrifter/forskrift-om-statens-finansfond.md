@@ -15,7 +15,7 @@ xml_hash: "23d8b8da3a7ba376babc8e5b02180b6f24946b63e50d38b6bb27383deb188a02"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,11 @@ eu_basis: []
 
 ## § 2.
 
-(1) Statens finansfond kan, forutsatt at Finanstilsynet og banken bekrefter at banken oppfyller krav til kjernekapitaldekning med god margin, også hensyntatt sannsynlig utvikling i nær framtid, etter søknad bidra til oppkapitalisering av norsk bank som følger:Bank med kjernekapitaldekning under 7 prosent kan oppkapitaliseres til inntil 10 prosent kjernekapitaldekning,bank med kjernekapitaldekning fra og med 7 prosent til og med 10 prosent kan oppkapitaliseres med inntil 3 prosentpoeng, men ikke over 12 prosent kjernekapitaldekning, ogbank med kjernekapitaldekning over 10 prosent kan oppkapitaliseres med inntil 2 prosentpoeng kjernekapital.
+(1) Statens finansfond kan, forutsatt at Finanstilsynet og banken bekrefter at banken oppfyller krav til kjernekapitaldekning med god margin, også hensyntatt sannsynlig utvikling i nær framtid, etter søknad bidra til oppkapitalisering av norsk bank som følger:
+
+1. Bank med kjernekapitaldekning under 7 prosent kan oppkapitaliseres til inntil 10 prosent kjernekapitaldekning,
+2. bank med kjernekapitaldekning fra og med 7 prosent til og med 10 prosent kan oppkapitaliseres med inntil 3 prosentpoeng, men ikke over 12 prosent kjernekapitaldekning, og
+3. bank med kjernekapitaldekning over 10 prosent kan oppkapitaliseres med inntil 2 prosentpoeng kjernekapital.
 
 (2) Banker som søker om kapitalinnskudd som vil bringe kjernekapitaldekningen over 12 prosent skal dokumentere behov for kapitalinnskudd fra Statens finansfond for å kunne bidra til formålet med ordningen som angitt i [§ 1](forskrift/2009-05-08-495/§1).
 
@@ -54,7 +58,16 @@ eu_basis: []
 
 (1) Siste frist for å søke om kapitalinnskudd er 30. september 2009.
 
-(2) Søknad om kapitaltilførsel skal angi hva slags kapitalinstrument det søkes om, og omfanget av tilførselen. Søknaden skal redegjøre for bankens økonomiske stilling og framtidsutsikter. Så vidt mulig skal følgende dokumentasjon vedlegges:Bankens årsregnskap, årsberetning og revisjonsberetning for 2008. Inngår søkeren i et konsern, skal også konsernregnskapet legges ved.Siste kvartalsregnskap, revidert og godkjent av revisor.Vedtatte budsjett for 2009.Redegjørelse for resultatet av bankens interne risiko- og kapitalvurderingsprosess i henhold til [finansieringsvirksomhetsloven § 2-9b](lov/1988-06-10-40/§2-9b) (pilar II).Prognose for oppfylling av soliditetskravene (både pilar I og II) i tiden framover.Plan for bankens virksomhet for de kommende tre år. Det skal særlig redegjøres for bankens planer for tilførsel av lån til næringslivet og husholdninger.Fondet kan kreve ytterligere informasjon i den grad fondet anser dette nødvendig for en forsvarlig behandling av søknaden.
+(2) Søknad om kapitaltilførsel skal angi hva slags kapitalinstrument det søkes om, og omfanget av tilførselen. Søknaden skal redegjøre for bankens økonomiske stilling og framtidsutsikter. Så vidt mulig skal følgende dokumentasjon vedlegges:
+
+- Bankens årsregnskap, årsberetning og revisjonsberetning for 2008. Inngår søkeren i et konsern, skal også konsernregnskapet legges ved.
+- Siste kvartalsregnskap, revidert og godkjent av revisor.
+- Vedtatte budsjett for 2009.
+- Redegjørelse for resultatet av bankens interne risiko- og kapitalvurderingsprosess i henhold til [finansieringsvirksomhetsloven § 2-9b](lov/1988-06-10-40/§2-9b) (pilar II).
+- Prognose for oppfylling av soliditetskravene (både pilar I og II) i tiden framover.
+- Plan for bankens virksomhet for de kommende tre år. Det skal særlig redegjøres for bankens planer for tilførsel av lån til næringslivet og husholdninger.
+
+Fondet kan kreve ytterligere informasjon i den grad fondet anser dette nødvendig for en forsvarlig behandling av søknaden.
 
 (3) Statens finansfond behandler søknader om kapitalinnskudd fortløpende, og skal gi prioritet til søknader fra banker som er viktige for finansiell stabilitet. Statens finansfond skal sørge for at det blir foretatt nødvendige vurderinger av bank som har søkt om kapitaltilførsel for plassering av banken i en av tre risikoklasser, jf. [§ 10](forskrift/2009-05-08-495/§10), og for å sikre at formålet med ordningen oppnås. En bank som har søkt om kapitaltilførsel skal orientere Statens finansfond dersom det oppstår vesentlig endringer i bankens økonomiske forhold i perioden før gjennomføring av kapitaltilførselen.
 
@@ -78,7 +91,14 @@ eu_basis: []
 
 ## § 7.
 
-(1) Følgende begrensninger for lønn og annen godtgjørelse til ledende ansatte skal inngå i avtale som Statens finansfond inngår med den enkelte bank:fram til 31. desember 2010 skal lønninger og øvrige ytelser til ledende ansatte ikke økes,for ledende ansatte med en avtalt fastlønn på mer enn 1,5 millioner kroner kan det ikke honoreres bonus opptjent i 2009 og 2010. For ledende ansatte med en fastlønn under 1,5 millioner kroner kan det i samme periode honoreres bonus med inntil 20 prosent av fastlønnen, men summen av samlede utbetalinger må ikke overstige 1,5 millioner kroner,for perioden etter 31. desember 2010 skal betingelsene for lønn og annen godtgjørelse ikke gå ut over statens retningslinjer for lederlønn datert 8. desember 2006,ledende ansatte kan ikke motta aksjer eller liknende til gunstige vilkår, og bankene kan ikke iverksette nye aksjeopsjonsprogrammer eller forlenge eller fornye eksisterende programmer,nye avtaler om pensjon og sluttvederlag må utformes i samsvar med statens retningslinjer for lederlønn datert 8. desember 2006,det skal ikke være adgang til å akkumulere bonus som er opptjent, men ikke honorert i 2009 og 2010. Det vil si at det ikke vil være adgang til å få bonus opptjent i disse årene utbetalt senere år.
+(1) Følgende begrensninger for lønn og annen godtgjørelse til ledende ansatte skal inngå i avtale som Statens finansfond inngår med den enkelte bank:
+
+1. fram til 31. desember 2010 skal lønninger og øvrige ytelser til ledende ansatte ikke økes,
+2. for ledende ansatte med en avtalt fastlønn på mer enn 1,5 millioner kroner kan det ikke honoreres bonus opptjent i 2009 og 2010. For ledende ansatte med en fastlønn under 1,5 millioner kroner kan det i samme periode honoreres bonus med inntil 20 prosent av fastlønnen, men summen av samlede utbetalinger må ikke overstige 1,5 millioner kroner,
+3. for perioden etter 31. desember 2010 skal betingelsene for lønn og annen godtgjørelse ikke gå ut over statens retningslinjer for lederlønn datert 8. desember 2006,
+4. ledende ansatte kan ikke motta aksjer eller liknende til gunstige vilkår, og bankene kan ikke iverksette nye aksjeopsjonsprogrammer eller forlenge eller fornye eksisterende programmer,
+5. nye avtaler om pensjon og sluttvederlag må utformes i samsvar med statens retningslinjer for lederlønn datert 8. desember 2006,
+6. det skal ikke være adgang til å akkumulere bonus som er opptjent, men ikke honorert i 2009 og 2010. Det vil si at det ikke vil være adgang til å få bonus opptjent i disse årene utbetalt senere år.
 
 (2) Statens finansfond fastsetter i den enkelte avtale hvem som skal anses som ledende ansatte i den enkelte bank, i morselskap og eventuelt andre selskap i konsernet. Statens finansfond kan gjøre unntak fra vilkårene i særlige tilfeller, herunder for tilfeller hvor godtgjørelsen hovedsakelig er bonusbasert.
 
@@ -111,7 +131,11 @@ eu_basis: []
 
 (4) Bare dersom hele aksjekapitalen eller grunnfondsbeviskapitalen er nedskrevet, skrives fondsobligasjon som nevnt ned med endelig virkning. Annen nedskriving av fondsobligasjon som nevnt skal reverseres ved overskudd i årsregnskapet. Aksjekapital eller grunnfondsbeviskapital kan ikke betjenes med utbytte før nedskrevet fondsobligasjon som nevnt er reversert til opprinnelig pålydende beløp.
 
-(5) Statens finansfond skal ha fortrinnsrett til et ikke-kumulativt krav på årlig rente forutsatt overskudd og forutsatt kapitaldekning ikke mindre enn 0,2 prosentpoeng over de til enhver tid gjeldende minstekrav til kapitaldekning. Renten skal dekkes så langt overskuddet rekker. Renten fastsettes i avtalen med utgangspunkt i norsk statspapirrente, enten rente med fem års bindingstid eller rente med 6 måneders bindingstid, med et fast påslag. Påslaget er5,0 prosentpoeng for bank i risikoklasse 15,5 prosentpoeng for bank i risikoklasse 26,0 prosentpoeng for bank i risikoklasse 3.
+(5) Statens finansfond skal ha fortrinnsrett til et ikke-kumulativt krav på årlig rente forutsatt overskudd og forutsatt kapitaldekning ikke mindre enn 0,2 prosentpoeng over de til enhver tid gjeldende minstekrav til kapitaldekning. Renten skal dekkes så langt overskuddet rekker. Renten fastsettes i avtalen med utgangspunkt i norsk statspapirrente, enten rente med fem års bindingstid eller rente med 6 måneders bindingstid, med et fast påslag. Påslaget er
+
+- 5,0 prosentpoeng for bank i risikoklasse 1
+- 5,5 prosentpoeng for bank i risikoklasse 2
+- 6,0 prosentpoeng for bank i risikoklasse 3.
 
 (6) Renten er en kostnad i bankens regnskap og dekkes så langt overskuddet rekker. Etter eventuell nedskrivning beregnes rente av nedskrevet og eventuelt reversert beløp.
 
@@ -127,7 +151,11 @@ eu_basis: []
 
 (3) Statens finansfond skal ha fortrinnsrett til et ikke-kumulativt krav på fast årlig utbytte beregnet på grunnlag av en rentesats som fastsettes ved avtaletidspunktet, forutsatt overskudd og forutsatt kapitaldekning ikke mindre enn 0,2 prosentpoeng over de til enhver tid gjeldende minstekrav, samt at det er adgang til å dele ut slikt utbytte etter selskapsrettslige regler. Utbyttekravet fastsettes ut fra ESAs generelle retningslinjer, og skal dekkes så langt overskuddet rekker. Etter eventuell nedskrivning av preferansekapitalinstrumentet, beregnes utbytte av nedskrevet beløp. Dersom en bank har fått tilført kjernekapital både gjennom fondsobligasjon som nevnt i [§ 11](forskrift/2009-05-08-495/§11) og gjennom preferansekapitalinstrument som nevnt i denne paragrafen, skal prioritet mellom rente på fondsobligasjon og utbytte på preferansekapitalinstrumentet fastsettes i avtalen.
 
-(4) Utbytte fastsettes med utgangspunkt i norsk statspapirrente, enten rente med fem års bindingstid eller rente med 6 måneders bindingstid, med et fast påslag. Påslaget er6,0 prosentpoeng for bank i risikoklasse 16,5 prosentpoeng for bank i risikoklasse 27,0 prosentpoeng for bank i risikoklasse 3.
+(4) Utbytte fastsettes med utgangspunkt i norsk statspapirrente, enten rente med fem års bindingstid eller rente med 6 måneders bindingstid, med et fast påslag. Påslaget er
+
+- 6,0 prosentpoeng for bank i risikoklasse 1
+- 6,5 prosentpoeng for bank i risikoklasse 2
+- 7,0 prosentpoeng for bank i risikoklasse 3.
 
 (5) Banken kan velge å innløse preferansekapitalinstrumentet etter tre år etter utstedelse. Innløsning er betinget av tillatelse fra Finanstilsynet. Metoden for beregning av innløsningskursen fastsettes i avtalen, jf. [§ 13](forskrift/2009-05-08-495/§13).
 

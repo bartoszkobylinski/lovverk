@@ -26,13 +26,35 @@ eu_basis: []
 
 ### § 1. Ikrafttredelse
 
-[Lov av 15. juni 2001 nr. 48](lov/2001-06-15-48) om endringer i [lov 12. juni 1981 nr. 52](lov/1981-06-12-52) om verdipapirfond mv. trer i kraft 1. august 2001, med unntak av følgende bestemmelser:§ 2-7 tredje ledd fjerde punktum.§ 2-12.§ 2-13.§ 3-3 første ledd nr. 9.§ 3-3 første ledd nr. 15.§ 4-5 første ledd nr. 5.§ 4-12.§ 6-1 første ledd tredje og fjerde punktum.§ 6-13.
+[Lov av 15. juni 2001 nr. 48](lov/2001-06-15-48) om endringer i [lov 12. juni 1981 nr. 52](lov/1981-06-12-52) om verdipapirfond mv. trer i kraft 1. august 2001, med unntak av følgende bestemmelser:
+
+- § 2-7 tredje ledd fjerde punktum.
+- § 2-12.
+- § 2-13.
+- § 3-3 første ledd nr. 9.
+- § 3-3 første ledd nr. 15.
+- § 4-5 første ledd nr. 5.
+- § 4-12.
+- § 6-1 første ledd tredje og fjerde punktum.
+- § 6-13.
 
 ### § 2. Overgangsbestemmelser
 
-Forvaltningsselskap som per 1. august 2001 har tillatelse til å forvalte verdipapirfond i henhold til [lov 12. juni 1981 nr. 52](lov/1981-06-12-52) om verdipapirfond gis frist til 1. mars 2002 til å oppfylle følgende bestemmelser for foretaket:§ 2-2 tredje ledd første punktum.§ 2-3.§ 4-1.§ 7-1.
+Forvaltningsselskap som per 1. august 2001 har tillatelse til å forvalte verdipapirfond i henhold til [lov 12. juni 1981 nr. 52](lov/1981-06-12-52) om verdipapirfond gis frist til 1. mars 2002 til å oppfylle følgende bestemmelser for foretaket:
 
-Forvaltningsselskap som per 1. august 2001 har tillatelse til å forvalte verdipapirfond i henhold til [lov 12. juni 1981 nr. 52](lov/1981-06-12-52) om verdipapirfond gis frist til 1. august 2002 til å oppfylle følgende bestemmelser for de verdipapirfond forvaltningsselskapet per 1. august 2001 har under forvaltning, og i perioden 1. august 2001 til 1. august 2002 har fått under forvaltning:§ 3-3 første ledd nr. 16 og 17.§ 3-4. første ledd.§ 6-7.§ 6-9 annet ledd.§ 7-2.§ 7-3.
+- § 2-2 tredje ledd første punktum.
+- § 2-3.
+- § 4-1.
+- § 7-1.
+
+Forvaltningsselskap som per 1. august 2001 har tillatelse til å forvalte verdipapirfond i henhold til [lov 12. juni 1981 nr. 52](lov/1981-06-12-52) om verdipapirfond gis frist til 1. august 2002 til å oppfylle følgende bestemmelser for de verdipapirfond forvaltningsselskapet per 1. august 2001 har under forvaltning, og i perioden 1. august 2001 til 1. august 2002 har fått under forvaltning:
+
+- § 3-3 første ledd nr. 16 og 17.
+- § 3-4. første ledd.
+- § 6-7.
+- § 6-9 annet ledd.
+- § 7-2.
+- § 7-3.
 
 Kredittilsynet kan sette frist for innsendelse av dokumentasjon på at kravene i ovennevnte bestemmelser er oppfylt. Kredittilsynet kan kreve at det utarbeides oppdaterte vedtekter for verdipapirfondet innen frist gitt av Kredittilsynet. Kredittilsynet kan i særlige tilfeller ved enkeltvedtak gi tidsbegrenset dispensasjon for kravene etter annet ledd.
 

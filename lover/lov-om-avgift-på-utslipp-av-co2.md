@@ -15,7 +15,7 @@ xml_hash: "b149021b9aaf93f87d3a6fc79d7507b4ffdcd43afba691967172716bca5a83ad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,12 @@ For så vidt Stortinget vedtar at det til statskassen skal betales CO2-avgift p�
 
 ## § 2.
 
-CO2-avgift beregnes av petroleum som brennes og naturgass som slippes ut til luft samt av CO2 som utskilles fra petroleum og slippes ut til luft, på innretning som nyttes i forbindelse med utvinning eller transport av petroleumi indre norsk farvann, på norsk sjøterritorium og på kontinentalsokkelen, jf. [petroleumsloven § 1-6](lov/1996-11-29-72/§1-6) bokstav l),i tilstøtende havområder utenfor kontinentalsokkelen i den utstrekning utvinning av petroleum er forbeholdt Norge etter avtale med annen stat,i havområder utenfor kontinentalsokkelen for så vidt gjelder norsk anlegg for transport av petroleum,i riket for så vidt gjelder anlegg som omfattes av petroleumsskatteloven § 3 b) tredje punktum.
+CO2-avgift beregnes av petroleum som brennes og naturgass som slippes ut til luft samt av CO2 som utskilles fra petroleum og slippes ut til luft, på innretning som nyttes i forbindelse med utvinning eller transport av petroleum
+
+1. i indre norsk farvann, på norsk sjøterritorium og på kontinentalsokkelen, jf. [petroleumsloven § 1-6](lov/1996-11-29-72/§1-6) bokstav l),
+2. i tilstøtende havområder utenfor kontinentalsokkelen i den utstrekning utvinning av petroleum er forbeholdt Norge etter avtale med annen stat,
+3. i havområder utenfor kontinentalsokkelen for så vidt gjelder norsk anlegg for transport av petroleum,
+4. i riket for så vidt gjelder anlegg som omfattes av petroleumsskatteloven § 3 b) tredje punktum.
 
 Når utvinning skjer fra petroleumsforekomst som strekker seg over midtlinjen i forhold til annen stat, jf bokstav b), beregnes CO2-avgift bare av de mengder som svarer til de norske rettighetshavernes eierandeler i vedkommede innretning.
 

@@ -15,7 +15,7 @@ xml_hash: "87fa5110f582e8fb4b4e8d8226db7d5e9ba57041772519c5afa9f60e95ae1c9b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,11 @@ Personell i politiet og Forsvaret har plikt til å legge til rette for, og bidra
 
 ## § 3. Situasjoner der politiet kan be Forsvaret om bistand, jf. [politiloven § 27a](lov/1995-08-04-53/§27a)
 
-Etter anmodning kan Forsvaret bistå politiet vedforebygging og bekjempelse av anslag av særlig skadevoldende eller omfattende karakter, herunder vakthold og sikring av objekter og infrastruktur,ettersøking og pågripelse av personer som kan sette menneskers liv og helse eller vesentlige samfunnsinteresser i alvorlig fare, ogulykker, naturkatastrofer og lignende for å verne menneskers liv og helse, eiendom og for å opprettholde ro og orden.
+Etter anmodning kan Forsvaret bistå politiet ved
+
+1. forebygging og bekjempelse av anslag av særlig skadevoldende eller omfattende karakter, herunder vakthold og sikring av objekter og infrastruktur,
+2. ettersøking og pågripelse av personer som kan sette menneskers liv og helse eller vesentlige samfunnsinteresser i alvorlig fare, og
+3. ulykker, naturkatastrofer og lignende for å verne menneskers liv og helse, eiendom og for å opprettholde ro og orden.
 
 Ved bistand som nevnt i første ledd, kan Forsvaret utøve makt innenfor de rammer som følger av [politiloven § 6](lov/1995-08-04-53/§6).
 

@@ -15,7 +15,7 @@ xml_hash: "bd441b5512de7049e85124b3aff178d5383cf735b7c5a75560f928a348f7d586"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,10 @@ Loven gjelder også for Svalbard. Departementet kan gi forskrift om lovens anven
 
 Med sivil sak menes i loven her en sak innbrakt til konfliktrådet av partene selv eller andre offentlige etater enn påtalemyndigheten. Henlagte straffesaker kan bringes inn som en sivil sak.
 
-Med mekling i konfliktråd menes reaksjonoverført fra påtalemyndigheten til mekling i konfliktråd etter [straffeprosessloven § 71 a første ledd](lov/1981-05-22-25/§71a/ledd/1), ellerder domstolen har satt mekling i konfliktråd som særvilkår for fullbyrdingsutsettelse etter [straffeloven § 37 første ledd bokstav i](lov/2005-05-20-28/§37/ledd/1/bokstav/i).
+Med mekling i konfliktråd menes reaksjon
+
+1. overført fra påtalemyndigheten til mekling i konfliktråd etter [straffeprosessloven § 71 a første ledd](lov/1981-05-22-25/§71a/ledd/1), eller
+2. der domstolen har satt mekling i konfliktråd som særvilkår for fullbyrdingsutsettelse etter [straffeloven § 37 første ledd bokstav i](lov/2005-05-20-28/§37/ledd/1/bokstav/i).
 
 Med ungdomsstraff menes reaksjon idømt av domstolen etter [straffeloven §§ 52 a](lov/2005-05-20-28/§52a) til [52 b](lov/2005-05-20-28/§52b).
 
@@ -58,7 +61,10 @@ Med ungdomsoppfølging menes reaksjon overført fra påtalemyndigheten etter [st
 
 Med ungdommen menes den som er domfelt, og som gjennomfører ungdomsstraff, eller den som er siktet, og som gjennomfører ungdomsoppfølging. I [§§ 22 b](lov/2014-06-20-49/§22) og [22 c](lov/2014-06-20-49/§22) skal begrepet også omfatte den som er mistenkt for en straffbar handling som kan føre til ungdomsstraff eller ungdomsoppfølging.
 
-Med oppfølging i konfliktråd menes reaksjonoverført fra påtalemyndigheten til oppfølging i konfliktråd etter [straffeprosessloven § 71 a første ledd](lov/1981-05-22-25/§71a/ledd/1), ellerder domstolen har satt oppfølging i konfliktråd som særvilkår for fullbyrdingsutsettelse etter [straffeloven § 37 første ledd bokstav i](lov/2005-05-20-28/§37/ledd/1/bokstav/i).
+Med oppfølging i konfliktråd menes reaksjon
+
+1. overført fra påtalemyndigheten til oppfølging i konfliktråd etter [straffeprosessloven § 71 a første ledd](lov/1981-05-22-25/§71a/ledd/1), eller
+2. der domstolen har satt oppfølging i konfliktråd som særvilkår for fullbyrdingsutsettelse etter [straffeloven § 37 første ledd bokstav i](lov/2005-05-20-28/§37/ledd/1/bokstav/i).
 
 > Tilføyd ved lov [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
 
@@ -84,7 +90,11 @@ Konfliktrådslederen skal frata meklere vervet dersom de ikke lenger oppfyller k
 
 ### § 5. Generelle krav til konfliktrådsledere, ungdomskoordinatorer, ansatte i øvrige stillinger som innebærer behandling av enkeltsaker og meklere
 
-Konfliktrådsledere, ungdomskoordinatorer, ansatte i øvrige stillinger som innebærer behandling av enkeltsaker, og meklere må væreover 18 årstatsborger i Norge eller et annet nordisk land, eller ha stått innført i folkeregisteret som bosatt i riket de tre siste årene før ansettelse eller oppnevningpersonlig egnet
+Konfliktrådsledere, ungdomskoordinatorer, ansatte i øvrige stillinger som innebærer behandling av enkeltsaker, og meklere må være
+
+1. over 18 år
+2. statsborger i Norge eller et annet nordisk land, eller ha stått innført i folkeregisteret som bosatt i riket de tre siste årene før ansettelse eller oppnevning
+3. personlig egnet
 
 Meklere må også være bosatt i kommunen hvor vervet søkes.
 
@@ -92,7 +102,19 @@ Meklere må også være bosatt i kommunen hvor vervet søkes.
 
 ### § 6. Utelukkelse på grunn av vandel
 
-Utelukket fra ansettelse som konfliktrådsleder, ungdomskoordinator eller i øvrige stillinger som innebærer behandling av enkeltsaker, og fra oppnevning som mekler erden som er siktet, tiltalt, har vedtatt forelegg eller er dømt for seksuelle overgrep mot barnden som er idømt forvaringden som er idømt overføring til tvungent psykisk helsevern eller tvungen omsorgden som er idømt ubetinget fengselsstraff i mer enn tre ården som er idømt ubetinget fengselsstraff i ett til tre år, og det ved ansettelse eller oppnevning er mindre enn 15 år siden dommen var rettskraftigden som er idømt ubetinget fengselsstraff i mindre enn ett år, og det ved ansettelse eller oppnevning er mindre enn 10 år siden dommen var rettskraftigden som er idømt ungdomsstraff, og det ved ansettelse eller oppnevning er mindre enn 10 år siden dommen var rettskraftigden som er idømt betinget fengselsstraff, og det ved oppnevning eller ansettelse er mindre enn fem år siden dommen var rettskraftigden som har fått betinget påtaleunnlatelse eller domsutsettelse for et forhold som etter loven kan medføre fengsel i mer enn ett år, og det ved ansettelse eller oppnevning er mindre enn to år siden avgjørelsen var endeligden som har fått ilagt reaksjonen overføring til konfliktrådet for et forhold som etter loven kan medføre fengsel i mer enn ett år, og det ved ansettelse eller oppnevning er mindre enn to år siden avgjørelsen om overføring var endeligden som er idømt eller har vedtatt bøtestraff for et forhold som etter loven kan medføre fengsel i mer enn ett år, og det ved ansettelse eller oppnevning er mindre enn to år siden vedtakelsen, eller dommen var rettskraftig
+Utelukket fra ansettelse som konfliktrådsleder, ungdomskoordinator eller i øvrige stillinger som innebærer behandling av enkeltsaker, og fra oppnevning som mekler er
+
+1. den som er siktet, tiltalt, har vedtatt forelegg eller er dømt for seksuelle overgrep mot barn
+2. den som er idømt forvaring
+3. den som er idømt overføring til tvungent psykisk helsevern eller tvungen omsorg
+4. den som er idømt ubetinget fengselsstraff i mer enn tre år
+5. den som er idømt ubetinget fengselsstraff i ett til tre år, og det ved ansettelse eller oppnevning er mindre enn 15 år siden dommen var rettskraftig
+6. den som er idømt ubetinget fengselsstraff i mindre enn ett år, og det ved ansettelse eller oppnevning er mindre enn 10 år siden dommen var rettskraftig
+7. den som er idømt ungdomsstraff, og det ved ansettelse eller oppnevning er mindre enn 10 år siden dommen var rettskraftig
+8. den som er idømt betinget fengselsstraff, og det ved oppnevning eller ansettelse er mindre enn fem år siden dommen var rettskraftig
+9. den som har fått betinget påtaleunnlatelse eller domsutsettelse for et forhold som etter loven kan medføre fengsel i mer enn ett år, og det ved ansettelse eller oppnevning er mindre enn to år siden avgjørelsen var endelig
+10. den som har fått ilagt reaksjonen overføring til konfliktrådet for et forhold som etter loven kan medføre fengsel i mer enn ett år, og det ved ansettelse eller oppnevning er mindre enn to år siden avgjørelsen om overføring var endelig
+11. den som er idømt eller har vedtatt bøtestraff for et forhold som etter loven kan medføre fengsel i mer enn ett år, og det ved ansettelse eller oppnevning er mindre enn to år siden vedtakelsen, eller dommen var rettskraftig
 
 Dom på samfunnsstraff medfører utelukkelse etter første ledd, avhengig av lengden av den subsidiære fengselsstraffen. Ved delvis betinget fengselsstraff vurderes hver del for seg etter første ledd.
 
@@ -294,7 +316,14 @@ Opplysningene i referatet fra møtet i koordineringsgruppen og en eventuell skis
 
 ### § 22 e. Vedtak og klage
 
-Under gjennomføring av ungdomsstraff og ungdomsoppfølging skal følgende avgjørelser regnes som enkeltvedtak etter [forvaltningsloven](lov/1967-02-10):avgjørelse om ungdomsplanens innhold og endringer i ungdomsplanen etter [§ 25](lov/2014-06-20-49/§25)avgjørelse etter søknad om utenlandsopphold etter [§ 27 annet ledd bokstav b](lov/2014-06-20-49/§27/ledd/2/bokstav/b)nedleggelse av forbud mot bruk av alkohol eller andre berusende eller bedøvende midler etter [§ 28](lov/2014-06-20-49/§28)avgjørelse om utsettelse av gjennomføringen etter [straffeprosessloven § 459](lov/1981-05-22-25/§459) eller avbrudd i gjennomføringen etter [§ 30](lov/2014-06-20-49/§30)fastsettelse av nye vilkår ved brudd under gjennomføring av ungdomsstraff i medhold av [§ 31 annet ledd](lov/2014-06-20-49/§31/ledd/2)fastsettelse av nye vilkår ved brudd under gjennomføring av ungdomsoppfølging i medhold av [§ 33 annet ledd](lov/2014-06-20-49/§33/ledd/2).
+Under gjennomføring av ungdomsstraff og ungdomsoppfølging skal følgende avgjørelser regnes som enkeltvedtak etter [forvaltningsloven](lov/1967-02-10):
+
+1. avgjørelse om ungdomsplanens innhold og endringer i ungdomsplanen etter [§ 25](lov/2014-06-20-49/§25)
+2. avgjørelse etter søknad om utenlandsopphold etter [§ 27 annet ledd bokstav b](lov/2014-06-20-49/§27/ledd/2/bokstav/b)
+3. nedleggelse av forbud mot bruk av alkohol eller andre berusende eller bedøvende midler etter [§ 28](lov/2014-06-20-49/§28)
+4. avgjørelse om utsettelse av gjennomføringen etter [straffeprosessloven § 459](lov/1981-05-22-25/§459) eller avbrudd i gjennomføringen etter [§ 30](lov/2014-06-20-49/§30)
+5. fastsettelse av nye vilkår ved brudd under gjennomføring av ungdomsstraff i medhold av [§ 31 annet ledd](lov/2014-06-20-49/§31/ledd/2)
+6. fastsettelse av nye vilkår ved brudd under gjennomføring av ungdomsoppfølging i medhold av [§ 33 annet ledd](lov/2014-06-20-49/§33/ledd/2).
 
 Vedtak truffet etter disse bestemmelsene kan påklages av ungdommen og ungdommens verger. Sekretariatet for konfliktrådene er klageorgan. Klage fremsettes skriftlig eller muntlig til det konfliktrådet som fattet vedtaket.
 
@@ -336,7 +365,18 @@ For øvrig gjelder [§ 11 første ledd](lov/2014-06-20-49/§11/ledd/1), [annet l
 
 ### § 25. Ungdomsplan
 
-Ungdomsplanen skal tilpasses ungdommens konkrete og individuelle behov for tiltak som kan bidra til å forebygge ny kriminalitet. Ungdomsplanen kan gå ut på at ungdommen skalyte ikke-økonomisk kompensasjon til den som er påført en skade, et tap eller en annen krenkelsedelta i kriminalitetsforebyggende programmer eller andre tilsvarende tiltak eller gjennomgå behandlingoverholde vilkår om opplæring eller avtale om arbeid eller samfunnsnyttige oppgavermøte til samtale med politiet, kriminalomsorgen eller annen aktør i oppfølgingsteametoverholde vilkår om meldeplikt for politiet, kriminalomsorgen eller konfliktrådetavstå fra å bruke alkohol og andre berusende eller bedøvende midler og avgi nødvendige rusprøver etter [§ 29](lov/2014-06-20-49/§29)overholde vilkår om innetidoverholde vilkår om oppholdsstedunngå kontakt med bestemte personergjennomføre andre hensiktsmessige tiltak som er egnet til å ivareta ungdommens behov og motvirke ny kriminalitet.
+Ungdomsplanen skal tilpasses ungdommens konkrete og individuelle behov for tiltak som kan bidra til å forebygge ny kriminalitet. Ungdomsplanen kan gå ut på at ungdommen skal
+
+1. yte ikke-økonomisk kompensasjon til den som er påført en skade, et tap eller en annen krenkelse
+2. delta i kriminalitetsforebyggende programmer eller andre tilsvarende tiltak eller gjennomgå behandling
+3. overholde vilkår om opplæring eller avtale om arbeid eller samfunnsnyttige oppgaver
+4. møte til samtale med politiet, kriminalomsorgen eller annen aktør i oppfølgingsteamet
+5. overholde vilkår om meldeplikt for politiet, kriminalomsorgen eller konfliktrådet
+6. avstå fra å bruke alkohol og andre berusende eller bedøvende midler og avgi nødvendige rusprøver etter [§ 29](lov/2014-06-20-49/§29)
+7. overholde vilkår om innetid
+8. overholde vilkår om oppholdssted
+9. unngå kontakt med bestemte personer
+10. gjennomføre andre hensiktsmessige tiltak som er egnet til å ivareta ungdommens behov og motvirke ny kriminalitet.
 
 Ungdomsplanen skal godkjennes av ungdomskoordinatoren. Ved utformingen av ungdomsplanen har ungdommen rett til å medvirke, jf. [§ 22 b](lov/2014-06-20-49/§22b). Ungdommens verger har rett til å uttale seg.
 
@@ -360,9 +400,15 @@ Ved ungdomsstraff er representanter fra kriminalomsorgen og politiet obligatoris
 
 ### § 27. Generelle pålegg overfor ungdommen
 
-Ungdommen skal under ungdomsplanmøtet, i møte med oppfølgingsteamet og i andre møter eller avtaler som fremgår av ungdomsplanenmøte til fastsatt tid og stedvære upåvirket av alkohol eller andre berusende eller bedøvende midler.
+Ungdommen skal under ungdomsplanmøtet, i møte med oppfølgingsteamet og i andre møter eller avtaler som fremgår av ungdomsplanen
 
-Ungdommen skal ikkevise en atferd som kan true sikkerheten til personer som deltar under gjennomføringen eller påvirke miljøet på negativ måteoppholde seg i utlandet i gjennomføringstiden med mindre ungdomskoordinatoren gir tillatelse.
+1. møte til fastsatt tid og sted
+2. være upåvirket av alkohol eller andre berusende eller bedøvende midler.
+
+Ungdommen skal ikke
+
+1. vise en atferd som kan true sikkerheten til personer som deltar under gjennomføringen eller påvirke miljøet på negativ måte
+2. oppholde seg i utlandet i gjennomføringstiden med mindre ungdomskoordinatoren gir tillatelse.
 
 Ungdommen skal ikke begå nye straffbare handlinger før utløpet av gjennomføringstiden.
 
@@ -402,9 +448,21 @@ Dersom hensynet til en hensiktsmessig og forsvarlig gjennomføring taler for det
 
 Hvis ungdommen forsettlig eller uaktsomt bryter vilkår eller pålegg etter [§ 25 første ledd](lov/2014-06-20-49/§25/ledd/1), [§ 27 første](lov/2014-06-20-49/§27/ledd/1) og [annet ledd](lov/2014-06-20-49/§27/ledd/2) eller [§ 28 første ledd](lov/2014-06-20-49/§28/ledd/1), kan ungdomskoordinatoren pålegge ungdommen å møte til samtale for å motvirke nye brudd. Under samtalen skal ungdommen gjøres kjent med følgene av gjentatte brudd.
 
-Hvis det fremstår som nødvendig for å motvirke nye brudd, skal ungdomskoordinatoren fastsette vilkår om at ungdommen skaloverholde vilkår om oppholdsstedunngå kontakt med bestemte personeravstå fra å bruke alkohol eller andre berusende eller bedøvende midler og avgi nødvendige rusprøver etter [§ 29](lov/2014-06-20-49/§29)møte til samtale med politiet, kriminalomsorgen eller annen aktør i oppfølgingsteametoverholde vilkår om meldeplikt for politiet, kriminalomsorgen eller konfliktrådet.Ungdommen har rett til å medvirke, jf. [§ 22 b](lov/2014-06-20-49/§22b). Ungdommens verger har rett til å uttale seg.
+Hvis det fremstår som nødvendig for å motvirke nye brudd, skal ungdomskoordinatoren fastsette vilkår om at ungdommen skal
 
-Hvis ungdommen, etter at ungdomskoordinatoren har pålagt ungdommen å møte til samtale som nevnt i første ledd eller fastsatt vilkår etter annet ledd, på nytt bryter kravene eller vilkår fastsatt etter annet ledd bokstav a til e, kan ungdomskoordinatoren, etter samtykke fra politiet og kriminalomsorgen, innkalle til et nytt ungdomsplanmøte, eller overføre saken til kriminalomsorgens regionale nivå eller påtalemyndigheten med innstilling om at saken bringes inn for retten med begjæring omfastsettelse av vilkår med elektronisk kontroll etter [straffeloven § 52 c fjerde ledd](lov/2005-05-20-28/§52c/ledd/4)at den subsidiære fengselsstraffen skal fullbyrdes helt eller delvis etter [straffeloven § 52 c første ledd bokstav a](lov/2005-05-20-28/§52c/ledd/1/bokstav/a), ellerat den subsidiære fengselsstraffen helt eller delvis skal omgjøres til samfunnsstraff eller betinget fengsel etter [straffeloven § 52 c første ledd bokstav a](lov/2005-05-20-28/§52c/ledd/1/bokstav/a).
+1. overholde vilkår om oppholdssted
+2. unngå kontakt med bestemte personer
+3. avstå fra å bruke alkohol eller andre berusende eller bedøvende midler og avgi nødvendige rusprøver etter [§ 29](lov/2014-06-20-49/§29)
+4. møte til samtale med politiet, kriminalomsorgen eller annen aktør i oppfølgingsteamet
+5. overholde vilkår om meldeplikt for politiet, kriminalomsorgen eller konfliktrådet.
+
+Ungdommen har rett til å medvirke, jf. [§ 22 b](lov/2014-06-20-49/§22b). Ungdommens verger har rett til å uttale seg.
+
+Hvis ungdommen, etter at ungdomskoordinatoren har pålagt ungdommen å møte til samtale som nevnt i første ledd eller fastsatt vilkår etter annet ledd, på nytt bryter kravene eller vilkår fastsatt etter annet ledd bokstav a til e, kan ungdomskoordinatoren, etter samtykke fra politiet og kriminalomsorgen, innkalle til et nytt ungdomsplanmøte, eller overføre saken til kriminalomsorgens regionale nivå eller påtalemyndigheten med innstilling om at saken bringes inn for retten med begjæring om
+
+1. fastsettelse av vilkår med elektronisk kontroll etter [straffeloven § 52 c fjerde ledd](lov/2005-05-20-28/§52c/ledd/4)
+2. at den subsidiære fengselsstraffen skal fullbyrdes helt eller delvis etter [straffeloven § 52 c første ledd bokstav a](lov/2005-05-20-28/§52c/ledd/1/bokstav/a), eller
+3. at den subsidiære fengselsstraffen helt eller delvis skal omgjøres til samfunnsstraff eller betinget fengsel etter [straffeloven § 52 c første ledd bokstav a](lov/2005-05-20-28/§52c/ledd/1/bokstav/a).
 
 Når ungdomskoordinatoren har overført saken til kriminalomsorgens regionale nivå eller påtalemyndigheten med innstilling om å bringe saken inn for retten, avbrytes gjennomføringen av straffen fra det tidspunktet begjæringen er oversendt retten. Straffegjennomføringen avbrytes ikke ved begjæring etter tredje ledd bokstav a.
 
@@ -426,7 +484,15 @@ Hvis ungdommen blir siktet for en straffbar handling som kan føre til fullbyrdi
 
 Hvis ungdommen forsettlig eller uaktsomt bryter vilkår eller pålegg etter [§ 25 første ledd](lov/2014-06-20-49/§25/ledd/1), [§ 27 første](lov/2014-06-20-49/§27/ledd/1) og [annet ledd](lov/2014-06-20-49/§27/ledd/2) eller [§ 28 første ledd](lov/2014-06-20-49/§28/ledd/1), kan ungdomskoordinatoren pålegge ungdommen å møte til samtale for å motvirke nye brudd. Under samtalen skal ungdommen gjøres kjent med følgene av gjentatte brudd.
 
-Hvis det fremstår som nødvendig for å motvirke nye brudd, skal ungdomskoordinatoren fastsette vilkår om at ungdommen skaloverholde vilkår om oppholdsstedunngå kontakt med bestemte personeravstå fra å bruke alkohol eller andre berusende eller bedøvende midler og avgi nødvendige rusprøver etter [§ 29](lov/2014-06-20-49/§29)møte til samtale med politiet, kriminalomsorgen eller annen aktør i oppfølgingsteametoverholde vilkår om meldeplikt for politiet, kriminalomsorgen eller konfliktrådet.Ungdommen har rett til å medvirke, jf. [§ 22 b](lov/2014-06-20-49/§22b). Ungdommens verger har rett til å uttale seg.
+Hvis det fremstår som nødvendig for å motvirke nye brudd, skal ungdomskoordinatoren fastsette vilkår om at ungdommen skal
+
+1. overholde vilkår om oppholdssted
+2. unngå kontakt med bestemte personer
+3. avstå fra å bruke alkohol eller andre berusende eller bedøvende midler og avgi nødvendige rusprøver etter [§ 29](lov/2014-06-20-49/§29)
+4. møte til samtale med politiet, kriminalomsorgen eller annen aktør i oppfølgingsteamet
+5. overholde vilkår om meldeplikt for politiet, kriminalomsorgen eller konfliktrådet.
+
+Ungdommen har rett til å medvirke, jf. [§ 22 b](lov/2014-06-20-49/§22b). Ungdommens verger har rett til å uttale seg.
 
 Hvis ungdommen, etter at ungdomskoordinatoren har pålagt ungdommen å møte til samtale som nevnt i første ledd eller fastsatt vilkår etter annet ledd, på nytt bryter kravene eller vilkår fastsatt etter annet ledd bokstav a til e, kan ungdomskoordinatoren innkalle til et nytt ungdomsplanmøte, eller overføre saken til påtalemyndigheten. Påtalemyndigheten vurderer om strafforfølgingen skal gjenopptas. Gjennomføringen av reaksjonen avbrytes fra det tidspunktet påtalemyndigheten beslutter at strafforfølgningen gjenopptas.
 

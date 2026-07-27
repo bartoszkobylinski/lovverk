@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Forbud mot iverksettelse av tiltak i vassdrag
 
-Uten tillatelse fra statsforvalteren eller fylkeskommunen er det forbudt å sette i verk:fysiske tiltak som medfører eller kan medføre fare for forringelse av produksjonsmulighetene for fisk eller andre ferskvannsorganismer,fysiske tiltak i og langs vassdrag, herunder bygging av terskler, graving av fiskehøler og utlegging av større steiner, som kan øke fangsten av fisk på stedet eller forskyve fangsten av fisk i vassdraget, ogfysiske tiltak for anadrome laksefisk eller innlandsfisk som har til hensikt å forandre en eller flere arters produksjon, bestandsstørrelse eller utbredelse.
+Uten tillatelse fra statsforvalteren eller fylkeskommunen er det forbudt å sette i verk:
+
+1. fysiske tiltak som medfører eller kan medføre fare for forringelse av produksjonsmulighetene for fisk eller andre ferskvannsorganismer,
+2. fysiske tiltak i og langs vassdrag, herunder bygging av terskler, graving av fiskehøler og utlegging av større steiner, som kan øke fangsten av fisk på stedet eller forskyve fangsten av fisk i vassdraget, og
+3. fysiske tiltak for anadrome laksefisk eller innlandsfisk som har til hensikt å forandre en eller flere arters produksjon, bestandsstørrelse eller utbredelse.
 
 Forbudet etter a og b gjelder uavhengig av hensikten med tiltaket. Forbudet etter a og b gjelder ikke dersom tiltaket krever konsesjon etter vassdragsreguleringsloven eller vannressursloven.
 

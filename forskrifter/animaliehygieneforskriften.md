@@ -108,7 +108,14 @@ Slakteriet på driftsenhet omfattet av dette kapitlet, skal godkjennes av Mattil
 
 ### § 10. Kompetent person
 
-Minst en person knyttet til driftsenheten skal ha bestått prøve i et kompetanseprogram godkjent av Mattilsynet. Programmet skal for aktuelle dyrearter minst omfatte følgende:Hold, fôring og stell,Normal anatomi, fysiologi og atferd,Unormal atferd og patologiske forandringer,Korrekte metoder for håndtering, bedøvelse og avliving av dyr,Slaktebehandling og hygiene ved håndtering, lagring og transport mv. av kjøtt, ogBestemmelser om dyrevern og næringsmiddelhygiene og administrative forhold.
+Minst en person knyttet til driftsenheten skal ha bestått prøve i et kompetanseprogram godkjent av Mattilsynet. Programmet skal for aktuelle dyrearter minst omfatte følgende:
+
+1. Hold, fôring og stell,
+2. Normal anatomi, fysiologi og atferd,
+3. Unormal atferd og patologiske forandringer,
+4. Korrekte metoder for håndtering, bedøvelse og avliving av dyr,
+5. Slaktebehandling og hygiene ved håndtering, lagring og transport mv. av kjøtt, og
+6. Bestemmelser om dyrevern og næringsmiddelhygiene og administrative forhold.
 
 Kompetent person skal være til stede før, under og etter slaktingen.
 
@@ -134,7 +141,10 @@ Bjørn, villsvin og andre arter viltlevende vilt som er mottakelige for trikiner
 
 Ved omsetning til lokal detaljist skal viltet enten være kontrollert av Mattilsynet eller undersøkt av kompetent jeger. Kompetent jeger er person som oppfyller kravene i forordning [(EF) nr. 853/2004](eu/32004r0853) vedlegg III avsnitt IV kapittel I.
 
-Kompetent jeger skal undersøke dyret så snart som mulig etter felling. Undersøkelsen skal omfatte følgende:Kontroll av at mager og tarmer er tatt ut av dyret så snart som mulig etter felling, og om nødvendig av at slaktet er avblødd.Kontroll av skrott og indre organer for tegn som kan tyde på at kjøttet kan utgjøre en helserisiko.
+Kompetent jeger skal undersøke dyret så snart som mulig etter felling. Undersøkelsen skal omfatte følgende:
+
+1. Kontroll av at mager og tarmer er tatt ut av dyret så snart som mulig etter felling, og om nødvendig av at slaktet er avblødd.
+2. Kontroll av skrott og indre organer for tegn som kan tyde på at kjøttet kan utgjøre en helserisiko.
 
 Dersom ingen unormal atferd ble iakttatt før fellingen, ingen unormale tegn påvises under undersøkelsen nevnt i annet ledd punkt b og det ikke er mistanke om miljøforurensning, festes en nummerert erklæring på skrotten som fastslår dette. Erklæringen skal også angi dato, tidspunkt og sted for fellingen.
 
@@ -200,7 +210,14 @@ I dette kapitlet fastsettes bestemmelser om tradisjonell tørking av fisk utend�
 
 Tradisjonell tørking av fisk kan skje utendørs. Krav til lokaler i § 1 i [forskrift 22. desember 2008 nr. 1623](forskrift/2008-12-22-1623) om næringsmiddelhygiene (næringsmiddelhygieneforskriften), jf. forordning [(EF) nr. 852/2004](eu/32004r0852*) vedlegg II kapittel II, gjelder ikke for slike aktiviteter
 
-Tradisjonell tørking av fisk utendørs skal skje på steder og på hjell/hesjer som er egnet. Ved vurderingen skal det tas hensyn til forhold som kan påvirke næringsmiddeltryggheten, særligklimatiske forhold (vind, sol, temperatur og snøforhold mv.)aktiviteter som kan forårsake utslipp eller forurensningbeliggenhet i forhold til bebyggelse og ferdselsårerfuglefjell og rugeplasserdyrehold og beiteområderskadedyr og formeringsområder for skadedyr.
+Tradisjonell tørking av fisk utendørs skal skje på steder og på hjell/hesjer som er egnet. Ved vurderingen skal det tas hensyn til forhold som kan påvirke næringsmiddeltryggheten, særlig
+
+1. klimatiske forhold (vind, sol, temperatur og snøforhold mv.)
+2. aktiviteter som kan forårsake utslipp eller forurensning
+3. beliggenhet i forhold til bebyggelse og ferdselsårer
+4. fuglefjell og rugeplasser
+5. dyrehold og beiteområder
+6. skadedyr og formeringsområder for skadedyr.
 
 Hjell/hesjer som er tatt i bruk til tørking av fisk utendørs, skal være utstyrt med angivelse av virksomhetens godkjenningsnummer.
 
@@ -240,7 +257,11 @@ Formålet er å sikre at slakting og omsetning av ferskt, ikke kontrollert kjøt
 
 ### § 21g. Definisjoner
 
-I dette kapitlet forstås ved:*Tamrein:* rein (*Rangiferus tarandus)* som holdes som tamrein.*Siida:* en gruppe av reineiere som utøver reindrift i fellesskap på bestemte arealer, jf. [reindriftsloven § 51](lov/2007-06-15-40/§51).*Siidaandel:* en familiegruppe eller enkeltperson som er en del av en siida og som driver reindrift under ledelse av en person eller av ektefeller eller samboere i fellesskap, jf. [reindriftsloven § 10](lov/2007-06-15-40/§10).
+I dette kapitlet forstås ved:
+
+1. *Tamrein:* rein (*Rangiferus tarandus)* som holdes som tamrein.
+2. *Siida:* en gruppe av reineiere som utøver reindrift i fellesskap på bestemte arealer, jf. [reindriftsloven § 51](lov/2007-06-15-40/§51).
+3. *Siidaandel:* en familiegruppe eller enkeltperson som er en del av en siida og som driver reindrift under ledelse av en person eller av ektefeller eller samboere i fellesskap, jf. [reindriftsloven § 10](lov/2007-06-15-40/§10).
 
 > Tilføyd ved [forskrift 26 juni 2015 nr. 819](forskrift/2015-06-26-819).
 
@@ -254,7 +275,13 @@ Slakting, håndtering og omsetning skal skje på en hygienisk måte.
 
 ### § 21i. Listeføring
 
-Leder av en siidaandel skal føre liste over dyr som er slaktet og omsatt i henhold til [§ 4](forskrift/2008-12-22-1624/§4). Listen skal inneholde opplysninger om:det aktuelle reindriftsåretnavnet på siidaandelen og i tillegg en stilisert tegning av det aktuelle øremerketdato for slakting av det enkelte dyretdato for omsetning av det enkelte slaktetnavn og adresse på mottaker/kjøper av slaktet.
+Leder av en siidaandel skal føre liste over dyr som er slaktet og omsatt i henhold til [§ 4](forskrift/2008-12-22-1624/§4). Listen skal inneholde opplysninger om:
+
+1. det aktuelle reindriftsåret
+2. navnet på siidaandelen og i tillegg en stilisert tegning av det aktuelle øremerket
+3. dato for slakting av det enkelte dyret
+4. dato for omsetning av det enkelte slaktet
+5. navn og adresse på mottaker/kjøper av slaktet.
 
 Listen skal leveres til Mattilsynet.
 
@@ -270,7 +297,10 @@ I dette kapitlet fastsettes bestemmelser om temperatur for egglagre og kjøretø
 
 Fra primærprodusent og til og med levering til sluttforbruker, skal egg oppbevares og transporteres ved en temperatur på høyst 12 °C.
 
-Unntatt fra temperaturkravet i første ledd er:Kortvarig oppbevaring i selve pakkerirommet i forbindelse med pakking,Kortvarig omsetning av særlig ferske egg, dersom det er angitt når eggene er lagt.
+Unntatt fra temperaturkravet i første ledd er:
+
+1. Kortvarig oppbevaring i selve pakkerirommet i forbindelse med pakking,
+2. Kortvarig omsetning av særlig ferske egg, dersom det er angitt når eggene er lagt.
 
 ## Kapittel IX. (Opphevet)
 
@@ -406,7 +436,38 @@ etter samråd med Regionkomiteen,
 
 etter framgangsmåten fastsatt i traktatens artikkel 251,3 og
 
-ut fra følgende betraktninger:Ved forordning [(EF) nr. 852/2004](eu/32004r0852*),4 fastsatte Europaparlamentet og Rådet allmenne regler for næringsmiddelhygiene som gjelder for driftsansvarlige for næringsmiddelforetak.For visse næringsmidler som kan utgjøre en særlig fare for menneskers helse, kreves det særlige hygieneregler. Dette gjelder særlig for næringsmidler av animalsk opprinnelse, som det ofte rapporteres om mikrobiologiske og kjemiske farer for.Innenfor rammen av den felles landbrukspolitikk er det vedtatt en rekke direktiver for å fastsette særlige helseregler for produksjon og omsetning av produktene oppført i traktatens vedlegg I. Disse helsereglene har redusert handelshindringene for de berørte produktene, noe som har bidratt til å opprette det indre marked samtidig som det har sikret et høyt nivå på vernet av folkehelsen.Når det gjelder folkehelsen, inneholder disse reglene felles prinsipper, særlig når det gjelder produsentenes og vedkommende myndigheters ansvar, krav til virksomhetenes struktur, drift og hygiene, framgangsmåter for å godkjenne virksomhetene, krav til lagring og transport samt stempelmerker.Disse prinsippene utgjør et felles grunnlag for hygienisk produksjon av næringsmidler av animalsk opprinnelse, noe som gjør det mulig å forenkle eksisterende direktiver.Det er ønskelig å oppnå ytterligere forenkling ved å anvende de samme reglene på alle produkter av animalsk opprinnelse, når det er hensiktsmessig.Kravet i forordning [(EF) nr. 852/2004](eu/32004r0852*) om at driftsansvarlige for næringsmiddelforetak som utfører et hvilket som helst ledd i produksjonen, bearbeidingen og distribusjonen av næringsmidler etter primærproduksjonen og tilknyttede arbeidsoperasjoner, skal innføre, gjennomføre og opprettholde framgangsmåter som bygger på prinsippene om fareanalyse og kritiske styringspunkter (HACCP), gir også muligheter for forenkling.Sett under ett berettiger disse elementene en omarbeidelse av de særlige hygienereglene som finnes i eksisterende direktiver.Hovedformålene med omarbeidelsen er å sikre forbrukerne et høyt vernenivå når det gjelder næringsmiddeltrygghet, særlig ved å sørge for at de samme reglene gjelder for driftsansvarlige for næringsmiddelforetak i hele Fellesskapet, og for å sikre at det indre marked for produkter av animalsk opprinnelse virker på en tilfredsstillende måte, og dermed bidrar til at målene i den felles landbrukspolitikk oppnås.De detaljerte hygienereglene for produkter av animalsk opprinnelse må opprettholdes, og skjerpes når forbrukervernet krever det.Fellesskapsreglene bør ikke få anvendelse verken på primærproduksjon til bruk i private husholdninger eller på tilberedning, håndtering eller oppbevaring av næringsmidler til konsum i private husholdninger. Ved direkte levering av små mengder råvarer eller visse typer kjøtt fra den driftsansvarlige for næringsmiddelforetak som produserer dem, til sluttforbrukeren eller til en lokal detaljist, er det dessuten hensiktsmessig å beskytte folkehelsen gjennom nasjonal lovgivning, særlig på grunn av de nære forbindelsene mellom produsenten og forbrukeren.Kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*) er generelt tilstrekkelige til å sikre næringsmiddeltrygghet i virksomheter som driver detaljhandelsaktiviteter som omfatter direkte salg eller levering av næringsmidler av animalsk opprinnelse til sluttforbrukeren. Denne forordning bør generelt anvendes på engrosaktiviteter (det vil si når en detaljist utfører arbeidsoperasjoner med henblikk på å levere næringsmidler av animalsk opprinnelse til en annen virksomhet). Med unntak av de særlige temperaturkravene som er fastsatt i denne forordning, bør imidlertid kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*) være tilstrekkelige for engrosaktiviteter som omfatter bare lagring eller transport.Medlemsstater bør til en viss grad kunne bestemme selv om de vil utvide eller begrense anvendelsen av kravene i denne forordning til å omfatte detaljhandel i henhold til nasjonal lovgivning. De kan imidlertid begrense anvendelsen bare dersom de mener at kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*) er tilstrekkelige til å nå målene for næringsmiddelhygiene, og når leveringen av næringsmidler av animalsk opprinnelse fra en detaljist til en annen virksomhet er en marginal, lokal og begrenset aktivitet. Slik levering bør derfor utgjøre bare en liten del av virksomhetens aktiviteter. De virksomhetene som det leveres til, bør ligge i umiddelbar nærhet, og leveringen bør gjelde bare visse typer produkter eller virksomheter.I samsvar med traktatens artikkel 10 skal medlemsstatene treffe alle egnede tiltak for å sikre at driftsansvarlige for næringsmiddelforetak oppfyller de forpliktelsene som er fastsatt i denne forordning.Sporbarheten til næringsmidler er et vesentlig element for å sikre næringsmiddeltrygghet. I tillegg til å overholde de alminnelige reglene i forordning [(EF) nr. 178/2002](eu/32002r0178),5 bør driftsansvarlige for næringsmiddelforetak som skal godkjennes i samsvar med denne forordning, sikre at alle produkter av animalsk opprinnelse som de omsetter, er påført enten et stempelmerke eller et identifikasjonsmerke.Næringsmidler som importeres til Fellesskapet, skal oppfylle de allmenne kravene i forordning [(EF) nr. 178/2002](eu/32002r0178) eller oppfylle regler som er likeverdige med fellesskapsreglene. I denne forordning defineres det særlige hygienekrav til næringsmidler av animalsk opprinnelse som importeres til Fellesskapet.Vedtakelsen av denne forordning bør ikke redusere det vernenivået som er fastsatt gjennom de tilleggsgarantiene Finland og Sverige fikk ved sin tiltredelse til Fellesskapet, og bekreftet ved kommisjonsvedtak [94/968/EF](eu/31994d0968),6 [95/50/EF](eu/31995*0050),7 [95/160/EF](eu/31995d0160*),8 [95/161/EF](eu/31995d0161)9 og [95/168/EF](eu/31995d0168)10 og rådsvedtak [95/409/EF](eu/31995d0409),11 [95/410/EF](eu/31995d0410)12 og [95/411/EF](eu/31995d0411).13 I forordningen bør det fastsettes en framgangsmåte som i en overgangsperiode gir garantier til alle medlemsstater med et godkjent nasjonalt kontrollprogram som når det gjelder næringsmidler av animalsk opprinnelse, er likeverdig med dem som er godkjent for Finland og Sverige. I europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160) av 17. november 2003 om kontroll av salmonella og andre spesifiserte zoonotiske smittestoffer som overføres gjennom næringsmidler14 fastsettes det en tilsvarende framgangsmåte for levende dyr og rugeegg.Struktur- og hygienekravene fastsatt i denne forordning, bør anvendes på alle typer virksomheter, herunder små foretak og mobile slakterier.Det er også behov for fleksibilitet for å gjøre det mulig å fortsatt bruke tradisjonelle metoder i alle ledd i produksjonen, bearbeidingen eller distribusjonen av næringsmidler og i forbindelse med kravene til virksomhetenes struktur. Fleksibilitet er særlig viktig for regioner med særlige geografiske begrensninger, herunder de mest fjerntliggende regionene som nevnt i traktatens artikkel 299 nr. 2. Fleksibiliteten bør imidlertid ikke sette målene for næringsmiddelhygiene i fare. Ettersom alle næringsmidler som produseres i samsvar med hygienereglene, vanligvis vil bli omsatt fritt i hele Fellesskapet, bør det dessuten være full åpenhet om den framgangsmåten som tillater at medlemsstatene er fleksible. Den bør omfatte muligheten til, ved behov, og for å kunne løse konflikter, å forhandle i Den faste komité for næringsmiddelkjeden og dyrehelsen nedsatt ved forordning [(EF) nr. 178/2002](eu/32002r0178), og det bør være mulig for Kommisjonen å kunne samordne prosessen og treffe egnede tiltak.Definisjonen av mekanisk utbeinet kjøtt bør være generisk og omfatte alle metoder for mekanisk utbeining. Den raske teknologiske utviklingen på dette området innebærer at det er hensiktsmessig med en fleksibel definisjon. De tekniske kravene til mekanisk utbeinet kjøtt bør imidlertid variere, avhengig av en risikovurdering av produktet på grunnlag av forskjellige metoder.De driftsansvarlige for næringsmiddelforetak, herunder også i fôrvaresektoren, påvirker hverandre gjensidig, og de hensyn som tas når det gjelder dyrehelse, dyrs velferd og folkehelsen i alle ledd i produksjonen, bearbeidingen og distribusjonen, er knyttet til hverandre. Dette forutsetter en hensiktsmessig kommunikasjon mellom de forskjellige interessentene i hele næringskjeden fra primærproduksjon til detaljhandel.For å sikre en korrekt undersøkelse av viltlevende vilt som det drives jakt på, og som omsettes i Fellesskapet, skal skrottene og de indre organene til disse dyrene framlegges for en offentlig undersøkelse post mortem ved et viltbehandlingsanlegg. For å bevare visse jakttradisjoner uten at næringsmiddeltryggheten dermed settes i fare, er det imidlertid hensiktsmessig å gi jegere som omsetter viltlevende vilt til konsum, adgang til utdanning. Dette bør gjøre det mulig for jegerne å foreta en første undersøkelse av viltet på stedet. Under disse omstendighetene er det ikke nødvendig å kreve at kompetente jegere leverer alle de indre organene til viltbehandlingsanlegget for undersøkelse post mortem, dersom de utfører denne første undersøkelsen og ikke finner noen avvik eller risikoer. Medlemsstatene bør imidlertid ha mulighet til å innføre strengere regler på sine territorier for å ta hensyn til særlige risikoer.I denne forordning bør det fastsettes kriterier for rå melk i påvente av at det vedtas nye krav til omsetning av slik melk. Disse kriteriene bør være tiltaksgrenser som innebærer at driftsansvarlige for næringsmiddelforetak, når de overskrider disse, må treffe korrigerende tiltak og underrette vedkommende myndighet. Kriteriene bør ikke være grenseverdier, som dersom de overskrides betyr at den rå melken ikke kan omsettes. Dette innebærer at rå melk som ikke fullt ut oppfyller kriteriene, under visse omstendigheter trygt kan brukes til konsum, dersom det treffes hensiktsmessige tiltak. Når det gjelder rå melk og rå fløte beregnet på direkte konsum, er det hensiktsmessig at hver medlemsstat har mulighet til å opprettholde eller innføre hensiktsmessige helsetiltak for å sikre at målene i denne forordning oppnås på dens territorium.Det er hensiktsmessig at kriteriet for rå melk som brukes til å framstille melkeprodukter, er tre ganger så høyt som kriteriet for rå melk som samles opp på en driftsenhet. Kriteriet for melk som brukes til å framstille foredlede melkeprodukter, er en absolutt verdi, mens det for rå melk som er samlet opp på en driftsenhet, er et gjennomsnitt. Selv om temperaturkravene i denne forordning overholdes, vil det ikke stoppe all bakterievekst under transport og lagring.Denne omarbeidelsen innebærer at de eksisterende hygienereglene kan oppheves. Dette oppnås ved europaparlaments- og rådsdirektiv [2004/41/EF](eu/32004l0041*) av 21. april 2004 om oppheving av visse direktiver om næringsmiddelhygiene og hygieneregler for produksjon og omsetning av visse produkter av animalsk opprinnelse beregnet på konsum.15Dessuten erstatter reglene om egg i denne forordning reglene i rådsvedtak [94/371/EF](eu/31994d0371) av 20. juni 1994 om fastsettelse av særlige hygienevilkår for omsetning av visse typer egg,16 som ikke lenger er gyldige ved at vedlegg II til rådsdirektiv [92/118/EØF](eu/31992l0118)17 oppheves.Fellesskapets regelverk for næringsmiddelhygiene bør baseres på vitenskapelige råd. Derfor bør Den europeiske myndighet for næringsmiddeltrygghet rådspørres når det er nødvendig.For å ta hensyn til den tekniske og vitenskapelige utvikling bør det sikres et nært og effektivt samarbeid mellom Kommisjonen og medlemsstatene innenfor Den faste komité for næringsmiddelkjeden og dyrehelsen.Kravene i denne forordning bør først få anvendelse når alle deler av den nye lovgivningen om næringsmiddelhygiene er trådt i kraft. Det bør også gå minst 18 måneder fra de nye reglene trer i kraft til de får anvendelse, slik at de berørte næringene får tid til å tilpasse seg.De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen18 –
+ut fra følgende betraktninger:
+
+1. Ved forordning [(EF) nr. 852/2004](eu/32004r0852*),4 fastsatte Europaparlamentet og Rådet allmenne regler for næringsmiddelhygiene som gjelder for driftsansvarlige for næringsmiddelforetak.
+2. For visse næringsmidler som kan utgjøre en særlig fare for menneskers helse, kreves det særlige hygieneregler. Dette gjelder særlig for næringsmidler av animalsk opprinnelse, som det ofte rapporteres om mikrobiologiske og kjemiske farer for.
+3. Innenfor rammen av den felles landbrukspolitikk er det vedtatt en rekke direktiver for å fastsette særlige helseregler for produksjon og omsetning av produktene oppført i traktatens vedlegg I. Disse helsereglene har redusert handelshindringene for de berørte produktene, noe som har bidratt til å opprette det indre marked samtidig som det har sikret et høyt nivå på vernet av folkehelsen.
+4. Når det gjelder folkehelsen, inneholder disse reglene felles prinsipper, særlig når det gjelder produsentenes og vedkommende myndigheters ansvar, krav til virksomhetenes struktur, drift og hygiene, framgangsmåter for å godkjenne virksomhetene, krav til lagring og transport samt stempelmerker.
+5. Disse prinsippene utgjør et felles grunnlag for hygienisk produksjon av næringsmidler av animalsk opprinnelse, noe som gjør det mulig å forenkle eksisterende direktiver.
+6. Det er ønskelig å oppnå ytterligere forenkling ved å anvende de samme reglene på alle produkter av animalsk opprinnelse, når det er hensiktsmessig.
+7. Kravet i forordning [(EF) nr. 852/2004](eu/32004r0852*) om at driftsansvarlige for næringsmiddelforetak som utfører et hvilket som helst ledd i produksjonen, bearbeidingen og distribusjonen av næringsmidler etter primærproduksjonen og tilknyttede arbeidsoperasjoner, skal innføre, gjennomføre og opprettholde framgangsmåter som bygger på prinsippene om fareanalyse og kritiske styringspunkter (HACCP), gir også muligheter for forenkling.
+8. Sett under ett berettiger disse elementene en omarbeidelse av de særlige hygienereglene som finnes i eksisterende direktiver.
+9. Hovedformålene med omarbeidelsen er å sikre forbrukerne et høyt vernenivå når det gjelder næringsmiddeltrygghet, særlig ved å sørge for at de samme reglene gjelder for driftsansvarlige for næringsmiddelforetak i hele Fellesskapet, og for å sikre at det indre marked for produkter av animalsk opprinnelse virker på en tilfredsstillende måte, og dermed bidrar til at målene i den felles landbrukspolitikk oppnås.
+10. De detaljerte hygienereglene for produkter av animalsk opprinnelse må opprettholdes, og skjerpes når forbrukervernet krever det.
+11. Fellesskapsreglene bør ikke få anvendelse verken på primærproduksjon til bruk i private husholdninger eller på tilberedning, håndtering eller oppbevaring av næringsmidler til konsum i private husholdninger. Ved direkte levering av små mengder råvarer eller visse typer kjøtt fra den driftsansvarlige for næringsmiddelforetak som produserer dem, til sluttforbrukeren eller til en lokal detaljist, er det dessuten hensiktsmessig å beskytte folkehelsen gjennom nasjonal lovgivning, særlig på grunn av de nære forbindelsene mellom produsenten og forbrukeren.
+12. Kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*) er generelt tilstrekkelige til å sikre næringsmiddeltrygghet i virksomheter som driver detaljhandelsaktiviteter som omfatter direkte salg eller levering av næringsmidler av animalsk opprinnelse til sluttforbrukeren. Denne forordning bør generelt anvendes på engrosaktiviteter (det vil si når en detaljist utfører arbeidsoperasjoner med henblikk på å levere næringsmidler av animalsk opprinnelse til en annen virksomhet). Med unntak av de særlige temperaturkravene som er fastsatt i denne forordning, bør imidlertid kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*) være tilstrekkelige for engrosaktiviteter som omfatter bare lagring eller transport.
+13. Medlemsstater bør til en viss grad kunne bestemme selv om de vil utvide eller begrense anvendelsen av kravene i denne forordning til å omfatte detaljhandel i henhold til nasjonal lovgivning. De kan imidlertid begrense anvendelsen bare dersom de mener at kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*) er tilstrekkelige til å nå målene for næringsmiddelhygiene, og når leveringen av næringsmidler av animalsk opprinnelse fra en detaljist til en annen virksomhet er en marginal, lokal og begrenset aktivitet. Slik levering bør derfor utgjøre bare en liten del av virksomhetens aktiviteter. De virksomhetene som det leveres til, bør ligge i umiddelbar nærhet, og leveringen bør gjelde bare visse typer produkter eller virksomheter.
+14. I samsvar med traktatens artikkel 10 skal medlemsstatene treffe alle egnede tiltak for å sikre at driftsansvarlige for næringsmiddelforetak oppfyller de forpliktelsene som er fastsatt i denne forordning.
+15. Sporbarheten til næringsmidler er et vesentlig element for å sikre næringsmiddeltrygghet. I tillegg til å overholde de alminnelige reglene i forordning [(EF) nr. 178/2002](eu/32002r0178),5 bør driftsansvarlige for næringsmiddelforetak som skal godkjennes i samsvar med denne forordning, sikre at alle produkter av animalsk opprinnelse som de omsetter, er påført enten et stempelmerke eller et identifikasjonsmerke.
+16. Næringsmidler som importeres til Fellesskapet, skal oppfylle de allmenne kravene i forordning [(EF) nr. 178/2002](eu/32002r0178) eller oppfylle regler som er likeverdige med fellesskapsreglene. I denne forordning defineres det særlige hygienekrav til næringsmidler av animalsk opprinnelse som importeres til Fellesskapet.
+17. Vedtakelsen av denne forordning bør ikke redusere det vernenivået som er fastsatt gjennom de tilleggsgarantiene Finland og Sverige fikk ved sin tiltredelse til Fellesskapet, og bekreftet ved kommisjonsvedtak [94/968/EF](eu/31994d0968),6 [95/50/EF](eu/31995*0050),7 [95/160/EF](eu/31995d0160*),8 [95/161/EF](eu/31995d0161)9 og [95/168/EF](eu/31995d0168)10 og rådsvedtak [95/409/EF](eu/31995d0409),11 [95/410/EF](eu/31995d0410)12 og [95/411/EF](eu/31995d0411).13 I forordningen bør det fastsettes en framgangsmåte som i en overgangsperiode gir garantier til alle medlemsstater med et godkjent nasjonalt kontrollprogram som når det gjelder næringsmidler av animalsk opprinnelse, er likeverdig med dem som er godkjent for Finland og Sverige. I europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160) av 17. november 2003 om kontroll av salmonella og andre spesifiserte zoonotiske smittestoffer som overføres gjennom næringsmidler14 fastsettes det en tilsvarende framgangsmåte for levende dyr og rugeegg.
+18. Struktur- og hygienekravene fastsatt i denne forordning, bør anvendes på alle typer virksomheter, herunder små foretak og mobile slakterier.
+19. Det er også behov for fleksibilitet for å gjøre det mulig å fortsatt bruke tradisjonelle metoder i alle ledd i produksjonen, bearbeidingen eller distribusjonen av næringsmidler og i forbindelse med kravene til virksomhetenes struktur. Fleksibilitet er særlig viktig for regioner med særlige geografiske begrensninger, herunder de mest fjerntliggende regionene som nevnt i traktatens artikkel 299 nr. 2. Fleksibiliteten bør imidlertid ikke sette målene for næringsmiddelhygiene i fare. Ettersom alle næringsmidler som produseres i samsvar med hygienereglene, vanligvis vil bli omsatt fritt i hele Fellesskapet, bør det dessuten være full åpenhet om den framgangsmåten som tillater at medlemsstatene er fleksible. Den bør omfatte muligheten til, ved behov, og for å kunne løse konflikter, å forhandle i Den faste komité for næringsmiddelkjeden og dyrehelsen nedsatt ved forordning [(EF) nr. 178/2002](eu/32002r0178), og det bør være mulig for Kommisjonen å kunne samordne prosessen og treffe egnede tiltak.
+20. Definisjonen av mekanisk utbeinet kjøtt bør være generisk og omfatte alle metoder for mekanisk utbeining. Den raske teknologiske utviklingen på dette området innebærer at det er hensiktsmessig med en fleksibel definisjon. De tekniske kravene til mekanisk utbeinet kjøtt bør imidlertid variere, avhengig av en risikovurdering av produktet på grunnlag av forskjellige metoder.
+21. De driftsansvarlige for næringsmiddelforetak, herunder også i fôrvaresektoren, påvirker hverandre gjensidig, og de hensyn som tas når det gjelder dyrehelse, dyrs velferd og folkehelsen i alle ledd i produksjonen, bearbeidingen og distribusjonen, er knyttet til hverandre. Dette forutsetter en hensiktsmessig kommunikasjon mellom de forskjellige interessentene i hele næringskjeden fra primærproduksjon til detaljhandel.
+22. For å sikre en korrekt undersøkelse av viltlevende vilt som det drives jakt på, og som omsettes i Fellesskapet, skal skrottene og de indre organene til disse dyrene framlegges for en offentlig undersøkelse post mortem ved et viltbehandlingsanlegg. For å bevare visse jakttradisjoner uten at næringsmiddeltryggheten dermed settes i fare, er det imidlertid hensiktsmessig å gi jegere som omsetter viltlevende vilt til konsum, adgang til utdanning. Dette bør gjøre det mulig for jegerne å foreta en første undersøkelse av viltet på stedet. Under disse omstendighetene er det ikke nødvendig å kreve at kompetente jegere leverer alle de indre organene til viltbehandlingsanlegget for undersøkelse post mortem, dersom de utfører denne første undersøkelsen og ikke finner noen avvik eller risikoer. Medlemsstatene bør imidlertid ha mulighet til å innføre strengere regler på sine territorier for å ta hensyn til særlige risikoer.
+23. I denne forordning bør det fastsettes kriterier for rå melk i påvente av at det vedtas nye krav til omsetning av slik melk. Disse kriteriene bør være tiltaksgrenser som innebærer at driftsansvarlige for næringsmiddelforetak, når de overskrider disse, må treffe korrigerende tiltak og underrette vedkommende myndighet. Kriteriene bør ikke være grenseverdier, som dersom de overskrides betyr at den rå melken ikke kan omsettes. Dette innebærer at rå melk som ikke fullt ut oppfyller kriteriene, under visse omstendigheter trygt kan brukes til konsum, dersom det treffes hensiktsmessige tiltak. Når det gjelder rå melk og rå fløte beregnet på direkte konsum, er det hensiktsmessig at hver medlemsstat har mulighet til å opprettholde eller innføre hensiktsmessige helsetiltak for å sikre at målene i denne forordning oppnås på dens territorium.
+24. Det er hensiktsmessig at kriteriet for rå melk som brukes til å framstille melkeprodukter, er tre ganger så høyt som kriteriet for rå melk som samles opp på en driftsenhet. Kriteriet for melk som brukes til å framstille foredlede melkeprodukter, er en absolutt verdi, mens det for rå melk som er samlet opp på en driftsenhet, er et gjennomsnitt. Selv om temperaturkravene i denne forordning overholdes, vil det ikke stoppe all bakterievekst under transport og lagring.
+25. Denne omarbeidelsen innebærer at de eksisterende hygienereglene kan oppheves. Dette oppnås ved europaparlaments- og rådsdirektiv [2004/41/EF](eu/32004l0041*) av 21. april 2004 om oppheving av visse direktiver om næringsmiddelhygiene og hygieneregler for produksjon og omsetning av visse produkter av animalsk opprinnelse beregnet på konsum.15
+26. Dessuten erstatter reglene om egg i denne forordning reglene i rådsvedtak [94/371/EF](eu/31994d0371) av 20. juni 1994 om fastsettelse av særlige hygienevilkår for omsetning av visse typer egg,16 som ikke lenger er gyldige ved at vedlegg II til rådsdirektiv [92/118/EØF](eu/31992l0118)17 oppheves.
+27. Fellesskapets regelverk for næringsmiddelhygiene bør baseres på vitenskapelige råd. Derfor bør Den europeiske myndighet for næringsmiddeltrygghet rådspørres når det er nødvendig.
+28. For å ta hensyn til den tekniske og vitenskapelige utvikling bør det sikres et nært og effektivt samarbeid mellom Kommisjonen og medlemsstatene innenfor Den faste komité for næringsmiddelkjeden og dyrehelsen.
+29. Kravene i denne forordning bør først få anvendelse når alle deler av den nye lovgivningen om næringsmiddelhygiene er trådt i kraft. Det bør også gå minst 18 måneder fra de nye reglene trer i kraft til de får anvendelse, slik at de berørte næringene får tid til å tilpasse seg.
+30. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen18 –
 
 1 EFT C 365 E av 19.12.2000, s. 58.
 
@@ -455,22 +516,44 @@ Alminnelige bestemmelser
 
 2\. Med mindre annet uttrykkelig er angitt, får ikke denne forordning anvendelse på næringsmidler som inneholder både produkter av vegetabilsk opprinnelse og foredlede produkter av animalsk opprinnelse. Imidlertid skal foredlede produkter av animalsk opprinnelse som brukes til å tilberede slike næringsmidler, framstilles og håndteres i samsvar med kravene i denne forordning.
 
-3\. Denne forordning får ikke anvendelse på:primærproduksjon til bruk i private husholdninger,tilberedning, håndtering eller oppbevaring av næringsmidler i hjemmet til konsum i private husholdninger,produsentens direkte levering av små mengder råvarer til sluttforbrukeren eller til lokale detaljister som leverer direkte til sluttforbrukeren,
-►**M24**produsentens direkte levering av små mengder kjøtt fra fjørfe og haredyr slaktet på driftsenheten, til sluttforbrukeren eller til lokale detaljister som leverer slikt kjøtt direkte til sluttforbruker,
-◄**M24**jegere som leverer små mengder viltlevende vilt eller kjøtt fra viltlevende vilt direkte til sluttforbrukeren eller til lokale detaljister som leverer direkte til sluttforbrukeren.
+3\. Denne forordning får ikke anvendelse på:
+
+1. primærproduksjon til bruk i private husholdninger,
+2. tilberedning, håndtering eller oppbevaring av næringsmidler i hjemmet til konsum i private husholdninger,
+3. produsentens direkte levering av små mengder råvarer til sluttforbrukeren eller til lokale detaljister som leverer direkte til sluttforbrukeren,
+   ►**M24**
+4. produsentens direkte levering av små mengder kjøtt fra fjørfe og haredyr slaktet på driftsenheten, til sluttforbrukeren eller til lokale detaljister som leverer slikt kjøtt direkte til sluttforbruker,
+   ◄**M24**
+5. jegere som leverer små mengder viltlevende vilt eller kjøtt fra viltlevende vilt direkte til sluttforbrukeren eller til lokale detaljister som leverer direkte til sluttforbrukeren.
 
 4\. Medlemsstatene skal i sin nasjonale lovgivning fastsette regler for aktivitetene og personene nevnt i nr. 3 bokstav c), d) og e). Disse nasjonale reglene skal sikre at målene i denne forordning oppnås.
 
-5.Med mindre annet uttrykkelig er angitt, får ikke denne forordning anvendelse på detaljhandel.Denne forordning får imidlertid anvendelse på detaljhandel når det utføres arbeidsoperasjoner med henblikk på å levere næringsmidler av animalsk opprinnelse til en annen virksomhet, med mindre:arbeidsoperasjonene utelukkende består av lagring eller transport, da de særlige temperaturkravene som er fastsatt i vedlegg III, likevel får anvendelse,
-ellernæringsmidler av animalsk opprinnelse fra detaljister utelukkende leveres til andre detaljister, og slik levering i samsvar med nasjonal lovgivning er en marginal, lokal og begrenset aktivitet.Medlemsstatene kan vedta nasjonale tiltak for å anvende kravene i denne forordning på detaljister som ligger på deres territorium og som forordningen i henhold til bokstav a) eller b), ikke gjelder for.
+5\.
 
-6\. Denne forordning får anvendelse uten at det berører:relevante regler om menneskers og dyrs helse, herunder strengere regler som er fastsatt for å forebygge, kontrollere og utrydde visse typer overførbar spongiform encefalopati,krav som gjelder dyrs velferd,
-ogkrav som gjelder identifisering av dyr og sporbarhet for produkter av animalsk opprinnelse.
+1. Med mindre annet uttrykkelig er angitt, får ikke denne forordning anvendelse på detaljhandel.
+2. Denne forordning får imidlertid anvendelse på detaljhandel når det utføres arbeidsoperasjoner med henblikk på å levere næringsmidler av animalsk opprinnelse til en annen virksomhet, med mindre:
+
+   1. arbeidsoperasjonene utelukkende består av lagring eller transport, da de særlige temperaturkravene som er fastsatt i vedlegg III, likevel får anvendelse,
+      eller
+   2. næringsmidler av animalsk opprinnelse fra detaljister utelukkende leveres til andre detaljister, og slik levering i samsvar med nasjonal lovgivning er en marginal, lokal og begrenset aktivitet.
+3. Medlemsstatene kan vedta nasjonale tiltak for å anvende kravene i denne forordning på detaljister som ligger på deres territorium og som forordningen i henhold til bokstav a) eller b), ikke gjelder for.
+
+6\. Denne forordning får anvendelse uten at det berører:
+
+1. relevante regler om menneskers og dyrs helse, herunder strengere regler som er fastsatt for å forebygge, kontrollere og utrydde visse typer overførbar spongiform encefalopati,
+2. krav som gjelder dyrs velferd,
+   og
+3. krav som gjelder identifisering av dyr og sporbarhet for produkter av animalsk opprinnelse.
 
 ### Artikkel 2. Definisjoner
 
-I denne forordning får følgende definisjoner anvendelse:definisjonene fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178),definisjonene fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*),definisjonene fastsatt i vedlegg I,
-ogalle tekniske definisjoner i vedlegg II og III.
+I denne forordning får følgende definisjoner anvendelse:
+
+1. definisjonene fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178),
+2. definisjonene fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*),
+3. definisjonene fastsatt i vedlegg I,
+   og
+4. alle tekniske definisjoner i vedlegg II og III.
 
 ### Kapittel II
 Forpliktelser som påhviler driftsansvarlige for næringsmiddelforetak
@@ -483,26 +566,43 @@ Forpliktelser som påhviler driftsansvarlige for næringsmiddelforetak
 
 ### Artikkel 4. Registrering og godkjenning av virksomheter
 
-1\. Driftsansvarlige for næringsmiddelforetak skal omsette produkter av animalsk opprinnelse som er framstilt i Fellesskapet, bare dersom de er framstilt og håndtert utelukkende på virksomheter:som oppfyller de relevante kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*), i vedlegg II og III i denne forordning og andre relevante krav i næringsmiddelregelverket,
-ogsom vedkommende myndighet har registrert, eller når det kreves i samsvar med nr. 2, har godkjent.
+1\. Driftsansvarlige for næringsmiddelforetak skal omsette produkter av animalsk opprinnelse som er framstilt i Fellesskapet, bare dersom de er framstilt og håndtert utelukkende på virksomheter:
 
-2\. Uten at artikkel 6 nr. 3 i forordning [(EF) nr. 852/2004](eu/32004r0852*) berøres, skal virksomheter som håndterer de produktene av animalsk opprinnelse som omfattes av kravene i vedlegg III til denne forordning, ikke drives med mindre vedkommende myndighet har godkjent dem i samsvar med nr. 3 i denne artikkel, med unntak av virksomheter som utfører bare:primærproduksjon,transport,lagring av produkter som ikke trenger lagringsforhold med temperaturregulering,
-ellerandre former for detaljhandel enn dem som denne forordning får anvendelse på i henhold til artikkel 1 nr. 5 bokstav b).
+1. som oppfyller de relevante kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*), i vedlegg II og III i denne forordning og andre relevante krav i næringsmiddelregelverket,
+   og
+2. som vedkommende myndighet har registrert, eller når det kreves i samsvar med nr. 2, har godkjent.
 
-3\. En virksomhet som skal godkjennes i samsvar med nr. 2, skal ikke drives med mindre vedkommende myndighet i samsvar med europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) av 29. april 2004 om fastsettelse av særlige regler for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum:1har gitt virksomheten godkjenning til å drive etter et besøk på stedet,
-ellerhar gitt virksomheten en betinget godkjenning.
+2\. Uten at artikkel 6 nr. 3 i forordning [(EF) nr. 852/2004](eu/32004r0852*) berøres, skal virksomheter som håndterer de produktene av animalsk opprinnelse som omfattes av kravene i vedlegg III til denne forordning, ikke drives med mindre vedkommende myndighet har godkjent dem i samsvar med nr. 3 i denne artikkel, med unntak av virksomheter som utfører bare:
+
+1. primærproduksjon,
+2. transport,
+3. lagring av produkter som ikke trenger lagringsforhold med temperaturregulering,
+   eller
+4. andre former for detaljhandel enn dem som denne forordning får anvendelse på i henhold til artikkel 1 nr. 5 bokstav b).
+
+3\. En virksomhet som skal godkjennes i samsvar med nr. 2, skal ikke drives med mindre vedkommende myndighet i samsvar med europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) av 29. april 2004 om fastsettelse av særlige regler for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum:1
+
+1. har gitt virksomheten godkjenning til å drive etter et besøk på stedet,
+   eller
+2. har gitt virksomheten en betinget godkjenning.
 
 4\. Driftsansvarlige for næringsmiddelforetak skal samarbeide med vedkommende myndigheter i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*). Driftsansvarlige for næringsmiddelforetak skal særlig sikre at en virksomhet innstiller driften dersom vedkommende myndighet trekker tilbake sin godkjenning, eller når det gjelder en betinget godkjenning, ikke forlenger den eller ikke gir full godkjenning.
 
-5\. Denne artikkel skal ikke være til hinder for at en virksomhet kan omsette næringsmidler mellom den datoen da denne forordning får anvendelse og den første påfølgende inspeksjonen som foretas av vedkommende myndighet, dersom virksomheten:omfattes av krav til godkjenning i samsvar med nr. 2 og har brakt i omsetning produkter av animalsk opprinnelse i samsvar med Fellesskapets regelverk umiddelbart før denne forordning får anvendelse,
-ellerer av en slik art at den ikke var omfattet av noen krav til godkjenning før denne forordning fikk anvendelse.
+5\. Denne artikkel skal ikke være til hinder for at en virksomhet kan omsette næringsmidler mellom den datoen da denne forordning får anvendelse og den første påfølgende inspeksjonen som foretas av vedkommende myndighet, dersom virksomheten:
+
+1. omfattes av krav til godkjenning i samsvar med nr. 2 og har brakt i omsetning produkter av animalsk opprinnelse i samsvar med Fellesskapets regelverk umiddelbart før denne forordning får anvendelse,
+   eller
+2. er av en slik art at den ikke var omfattet av noen krav til godkjenning før denne forordning fikk anvendelse.
 
 1 EUT L 226 av 25.6.2004, s. 83.
 
 ### Artikkel 5. Stempel- og identifikasjonsmerking
 
-1\. Driftsansvarlige for næringsmiddelforetak skal ikke omsette produkter av animalsk opprinnelse som er håndtert i en virksomhet som skal godkjennes i samsvar med artikkel 4 nr. 2, med mindre de har enten:et stempelmerke som er påført i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*),
-elleret identifikasjonsmerke som er påført i samsvar med avsnitt I i vedlegg II til denne forordning, dersom nevnte forordning ikke inneholder bestemmelser om påføring av et stempelmerke.
+1\. Driftsansvarlige for næringsmiddelforetak skal ikke omsette produkter av animalsk opprinnelse som er håndtert i en virksomhet som skal godkjennes i samsvar med artikkel 4 nr. 2, med mindre de har enten:
+
+1. et stempelmerke som er påført i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*),
+   eller
+2. et identifikasjonsmerke som er påført i samsvar med avsnitt I i vedlegg II til denne forordning, dersom nevnte forordning ikke inneholder bestemmelser om påføring av et stempelmerke.
 
 2\. Driftsansvarlige for næringsmiddelforetak kan påføre et produkt av animalsk opprinnelse et identifikasjonsmerke bare dersom produktet er framstilt i samsvar med denne forordning og i virksomheter som oppfyller kravene i artikkel 4.
 
@@ -510,18 +610,37 @@ elleret identifikasjonsmerke som er påført i samsvar med avsnitt I i vedlegg I
 
 ### Artikkel 6. Produkter av animalsk opprinnelse fra stater utenfor Fellesskapet
 
-1\. Driftsansvarlige for næringsmiddelforetak som importerer produkter av animalsk opprinnelse fra tredjestater, skal sikre at importen finner sted bare dersom:avsendertredjestaten er oppført på en liste som er utarbeidet i samsvar med artikkel 11 i forordning [(EF) nr. 854/2004](eu/32004r0854*), over tredjestater som det er tillatt å importere dette produktet fra,virksomheten som dette produktet ble sendt fra, og der det ble framstilt eller tilberedt, er oppført på en liste som er utarbeidet i samsvar med artikkel 12 i forordning [(EF) nr. 854/2004](eu/32004r0854*), over virksomheter som det er tillatt å importere dette produktet fra, når dette er relevant,produktet når det gjelder ferskt kjøtt, kvernet kjøtt, tilberedt kjøtt, kjøttprodukter og mekanisk utbeinet kjøtt, er framstilt av kjøtt fra slakterier og nedskjæringsanlegg som er oppført på lister utarbeidet og ajourført i samsvar med artikkel 12 i forordning [(EF) nr. 854/2004](eu/32004r0854*) eller fra godkjente virksomheter i Fellesskapet,
-ogproduksjonsområdet når det gjelder levende muslinger, pigghuder, kappedyr og sjøsnegler, er oppført på en liste som er utarbeidet i samsvar med artikkel 13 i nevnte forordning, når det er relevant,produktet oppfyller:kravene i denne forordning, herunder kravene i artikkel 5 om stempel- og identifikasjonsmerking,kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*),
-ogalle vilkår for import som er fastsatt i samsvar med Fellesskapets regelverk for kontroll av import av produkter av animalsk opprinnelse,ogkravene i artikkel 14 i forordning [(EF) nr. 854/2004](eu/32004r0854*) vedrørende sertifikater og dokumenter er oppfylt, når det er relevant.
+1\. Driftsansvarlige for næringsmiddelforetak som importerer produkter av animalsk opprinnelse fra tredjestater, skal sikre at importen finner sted bare dersom:
+
+1. avsendertredjestaten er oppført på en liste som er utarbeidet i samsvar med artikkel 11 i forordning [(EF) nr. 854/2004](eu/32004r0854*), over tredjestater som det er tillatt å importere dette produktet fra,
+2. 1. virksomheten som dette produktet ble sendt fra, og der det ble framstilt eller tilberedt, er oppført på en liste som er utarbeidet i samsvar med artikkel 12 i forordning [(EF) nr. 854/2004](eu/32004r0854*), over virksomheter som det er tillatt å importere dette produktet fra, når dette er relevant,
+   2. produktet når det gjelder ferskt kjøtt, kvernet kjøtt, tilberedt kjøtt, kjøttprodukter og mekanisk utbeinet kjøtt, er framstilt av kjøtt fra slakterier og nedskjæringsanlegg som er oppført på lister utarbeidet og ajourført i samsvar med artikkel 12 i forordning [(EF) nr. 854/2004](eu/32004r0854*) eller fra godkjente virksomheter i Fellesskapet,
+      og
+   3. produksjonsområdet når det gjelder levende muslinger, pigghuder, kappedyr og sjøsnegler, er oppført på en liste som er utarbeidet i samsvar med artikkel 13 i nevnte forordning, når det er relevant,
+3. produktet oppfyller:
+
+   1. kravene i denne forordning, herunder kravene i artikkel 5 om stempel- og identifikasjonsmerking,
+   2. kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*),
+      og
+   3. alle vilkår for import som er fastsatt i samsvar med Fellesskapets regelverk for kontroll av import av produkter av animalsk opprinnelse,
+
+   og
+4. kravene i artikkel 14 i forordning [(EF) nr. 854/2004](eu/32004r0854*) vedrørende sertifikater og dokumenter er oppfylt, når det er relevant.
 
 2\. Som unntak fra nr. 1 kan import av fiskerivarer også finne sted i samsvar med de særlige bestemmelsene fastsatt i artikkel 15 i forordning [(EF) nr. 854/2004](eu/32004r0854*).
 
-3\. Driftsansvarlige for næringsmiddelforetak som importerer produkter av animalsk opprinnelse, skal sikre at:produkter gjøres tilgjengelige for kontroll ved import i samsvar med direktiv [97/78/EF](eu/31997l0078),1importen oppfyller kravene i direktiv [2002/99/EF](eu/32002l0099),2
-ogarbeidsoperasjoner som er under deres kontroll og som finner sted etter importen, utføres i samsvar med kravene i vedlegg III.
+3\. Driftsansvarlige for næringsmiddelforetak som importerer produkter av animalsk opprinnelse, skal sikre at:
+
+1. produkter gjøres tilgjengelige for kontroll ved import i samsvar med direktiv [97/78/EF](eu/31997l0078),1
+2. importen oppfyller kravene i direktiv [2002/99/EF](eu/32002l0099),2
+   og
+3. arbeidsoperasjoner som er under deres kontroll og som finner sted etter importen, utføres i samsvar med kravene i vedlegg III.
 
 4\. Driftsansvarlige for næringsmiddelforetak som importerer næringsmidler som inneholder både produkter av vegetabilsk opprinnelse og foredlede produkter av animalsk opprinnelse, skal sikre at de foredlede produktene av animalsk opprinnelse som inngår i slike næringsmidler, oppfyller kravene i nr. 1-3. De må kunne påvise at de har gjort dette [for eksempel gjennom hensiktsmessig dokumentasjon eller sertifisering, som ikke behøver å ha den utformingen som er angitt i nr. 1 bokstav d)].
 
-1 Rådsdirektiv [97/78/EF](eu/31997l0078) av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater (EFT L 24 av 30.1.1998, s. 9). Direktivet endret ved tiltredelsesakten av 2003.2 Rådsdirektiv [2002/99/EF](eu/32002l0099) av 16. desember 2002 om fastsettelse av dyrehelseregler for produksjon, bearbeiding, distribusjon og innførsel av produkter av animalsk opprinnelse beregnet på konsum (EUT L 18 av 23.1.2003, s. 11).
+1 Rådsdirektiv [97/78/EF](eu/31997l0078) av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater (EFT L 24 av 30.1.1998, s. 9). Direktivet endret ved tiltredelsesakten av 2003.
+
+2 Rådsdirektiv [2002/99/EF](eu/32002l0099) av 16. desember 2002 om fastsettelse av dyrehelseregler for produksjon, bearbeiding, distribusjon og innførsel av produkter av animalsk opprinnelse beregnet på konsum (EUT L 18 av 23.1.2003, s. 11).
 
 ### Kapittel III
 Handel
@@ -530,20 +649,41 @@ Handel
 
 1\. Når det kreves i samsvar med vedlegg II eller III, skal driftsansvarlige for næringsmiddelforetak sørge for at sertifikater eller andre dokumenter følger forsendelser av produkter av animalsk opprinnelse.
 
-2\. Etter framgangsmåten fastsatt i artikkel 12 nr. 2:kan det utarbeides modeller for dokumentene,
-ogkan det innføres bestemmelser om bruk av elektroniske dokumenter.
+2\. Etter framgangsmåten fastsatt i artikkel 12 nr. 2:
+
+1. kan det utarbeides modeller for dokumentene,
+   og
+2. kan det innføres bestemmelser om bruk av elektroniske dokumenter.
 
 ### Artikkel 8. Særlige garantier
 
-1\. Driftsansvarlige for næringsmiddelforetak som har til hensikt å omsette følgende næringsmidler av animalsk opprinnelse i Sverige, *Norge* eller Finland, skal overholde reglene fastsatt i nr. 2 med hensyn til salmonella:kjøtt fra storfe og svin, herunder kvernet kjøtt, men unntatt tilberedt kjøtt og mekanisk utbeinet kjøtt,kjøtt fra fjørfe av følgende arter: tamhøns, kalkun, perlehøns, ender og gjess, herunder kvernet kjøtt, men unntatt tilberedt kjøtt og mekanisk utbeinet kjøtt,
-ogegg.
+1\. Driftsansvarlige for næringsmiddelforetak som har til hensikt å omsette følgende næringsmidler av animalsk opprinnelse i Sverige, *Norge* eller Finland, skal overholde reglene fastsatt i nr. 2 med hensyn til salmonella:
 
-2.Når det gjelder kjøtt fra storfe og svin og kjøtt fra fjørfe, skal det være tatt prøver av forsendelsene i avsendervirksomheten, og de skal ha gjennomgått en mikrobiologisk undersøkelse med negativt resultat i samsvar med Fellesskapets regelverk.Når det gjelder egg, skal pakkeriet garantere at forsendelsene stammer fra flokker som har vært underkastet en mikrobiologisk undersøkelse med negativt resultat i samsvar med Fellesskapets regelverk.Forsendelser av kjøtt fra storfe og svin behøver ikke å undersøkes som nevnt i bokstav a), dersom de skal sendes til en virksomhet for å pasteuriseres, steriliseres eller gjen nomgå annen behandling med tilsvarende virkning. Forsendelser av egg beregnet på framstilling av foredlede produkter ved hjelp av en prosess som garanterer at salmonella fjernes, behøver ikke å undersøkes som nevnt i bokstav b).Undersøkelsene nevnt i bokstav a) og b) behøver ikke å utføres når det gjelder næringsmidler av animalsk opprinnelse som stammer fra en virksomhet som omfattes av et kontrollprogram som etter framgangsmåten fastsatt i artikkel 12 nr. 2 er anerkjent som likeverdig med programmet som er godkjent for Sverige, *Norge* og Finland.Når det gjelder kjøtt fra storfe og svin og kjøtt fra fjørfe, skal det følges av et handelsdokument eller et sertifikat som er i samsvar med en modell som er fastsatt i Fellesskapets regelverk, der det framgår at:undersøkelsene nevnt i bokstav a), er blitt utført med negativt resultat,
-ellerkjøttet er beregnet på ett av de formålene som er nevnt i bokstav c),
-ellerkjøttet kommer fra en virksomhet som omfattes av bokstav d).Forsendelser av egg skal følges av et sertifikat hvor det framgår at undersøkelsene nevnt i bokstav b) er blitt utført med negativt resultat, eller at eggene skal brukes på den måten som er nevnt i bokstav c).
+1. kjøtt fra storfe og svin, herunder kvernet kjøtt, men unntatt tilberedt kjøtt og mekanisk utbeinet kjøtt,
+2. kjøtt fra fjørfe av følgende arter: tamhøns, kalkun, perlehøns, ender og gjess, herunder kvernet kjøtt, men unntatt tilberedt kjøtt og mekanisk utbeinet kjøtt,
+   og
+3. egg.
 
-3\. Etter framgangsmåten fastsatt i artikkel 12 nr. 2:kan kravene i nr. 1 og 2 ajourføres for særlig å ta hensyn til endringer i medlemsstatenes kontrollprogrammer, eller til vedtakelse av mikrobiologiske kriterier i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*),
-ogkan reglene fastsatt i nr. 2 når det gjelder næringsmidlene nevnt i nr. 1, utvides til helt eller delvis å omfatte enhver medlemsstat eller enhver region i en medlemsstat som har et kontrollprogram som er anerkjent som likeverdig med programmet som er godkjent for Sverige, *Norge* og Finland når det gjelder næringsmidler av animalsk opprinnelse.
+2\.
+
+1. Når det gjelder kjøtt fra storfe og svin og kjøtt fra fjørfe, skal det være tatt prøver av forsendelsene i avsendervirksomheten, og de skal ha gjennomgått en mikrobiologisk undersøkelse med negativt resultat i samsvar med Fellesskapets regelverk.
+2. Når det gjelder egg, skal pakkeriet garantere at forsendelsene stammer fra flokker som har vært underkastet en mikrobiologisk undersøkelse med negativt resultat i samsvar med Fellesskapets regelverk.
+3. Forsendelser av kjøtt fra storfe og svin behøver ikke å undersøkes som nevnt i bokstav a), dersom de skal sendes til en virksomhet for å pasteuriseres, steriliseres eller gjen nomgå annen behandling med tilsvarende virkning. Forsendelser av egg beregnet på framstilling av foredlede produkter ved hjelp av en prosess som garanterer at salmonella fjernes, behøver ikke å undersøkes som nevnt i bokstav b).
+4. Undersøkelsene nevnt i bokstav a) og b) behøver ikke å utføres når det gjelder næringsmidler av animalsk opprinnelse som stammer fra en virksomhet som omfattes av et kontrollprogram som etter framgangsmåten fastsatt i artikkel 12 nr. 2 er anerkjent som likeverdig med programmet som er godkjent for Sverige, *Norge* og Finland.
+5. Når det gjelder kjøtt fra storfe og svin og kjøtt fra fjørfe, skal det følges av et handelsdokument eller et sertifikat som er i samsvar med en modell som er fastsatt i Fellesskapets regelverk, der det framgår at:
+
+   1. undersøkelsene nevnt i bokstav a), er blitt utført med negativt resultat,
+      eller
+   2. kjøttet er beregnet på ett av de formålene som er nevnt i bokstav c),
+      eller
+   3. kjøttet kommer fra en virksomhet som omfattes av bokstav d).
+6. Forsendelser av egg skal følges av et sertifikat hvor det framgår at undersøkelsene nevnt i bokstav b) er blitt utført med negativt resultat, eller at eggene skal brukes på den måten som er nevnt i bokstav c).
+
+3\. Etter framgangsmåten fastsatt i artikkel 12 nr. 2:
+
+1. kan kravene i nr. 1 og 2 ajourføres for særlig å ta hensyn til endringer i medlemsstatenes kontrollprogrammer, eller til vedtakelse av mikrobiologiske kriterier i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*),
+   og
+2. kan reglene fastsatt i nr. 2 når det gjelder næringsmidlene nevnt i nr. 1, utvides til helt eller delvis å omfatte enhver medlemsstat eller enhver region i en medlemsstat som har et kontrollprogram som er anerkjent som likeverdig med programmet som er godkjent for Sverige, *Norge* og Finland når det gjelder næringsmidler av animalsk opprinnelse.
 
 4\. I denne artikkel menes med «kontrollprogram», et kontrollprogram som er godkjent i samsvar med forordning [(EF) nr. 2160/2003](eu/32003r2160).
 
@@ -556,31 +696,73 @@ Det kan fastsettes gjennomføringstiltak og overgangsbestemmelser etter framgang
 
 ### Artikkel 10. Endring og tilpasning av vedlegg II og III
 
-1\. Vedlegg II og III kan tilpasses eller ajourføres etter framgangsmåten fastsatt i artikkel 12 nr. 2, samtidig som det tas hensyn til:utviklingen av retningslinjer for god praksis,erfaringene fra gjennomføringen av HACCP-baserte systemer i henhold til artikkel 5 i forordning [(EF) nr. 852/2004](eu/32004r0852*),den teknologiske utviklingen og de praktiske konsekvensene av den samt forbrukernes forventninger når det gjelder næringsmidlenes sammensetning,vitenskapelige råd, særlig nye risikovurderinger,mikrobiologiske kriterier og temperaturkriterier for næringsmidler,endringer i forbruksmønstrene.
+1\. Vedlegg II og III kan tilpasses eller ajourføres etter framgangsmåten fastsatt i artikkel 12 nr. 2, samtidig som det tas hensyn til:
+
+1. utviklingen av retningslinjer for god praksis,
+2. erfaringene fra gjennomføringen av HACCP-baserte systemer i henhold til artikkel 5 i forordning [(EF) nr. 852/2004](eu/32004r0852*),
+3. den teknologiske utviklingen og de praktiske konsekvensene av den samt forbrukernes forventninger når det gjelder næringsmidlenes sammensetning,
+4. vitenskapelige råd, særlig nye risikovurderinger,
+5. mikrobiologiske kriterier og temperaturkriterier for næringsmidler,
+6. endringer i forbruksmønstrene.
 
 2\. Det kan gis unntak fra vedlegg II og III etter framgangsmåten fastsatt i artikkel 12 nr. 2, forutsatt at disse unntakene ikke er til hinder for at målene i denne forordning oppnås.
 
 3\. Medlemsstatene kan i samsvar med nr. 4-8 vedta nasjonale tiltak for å tilpasse kravene fastsatt i vedlegg III, dersom dette ikke setter oppnåelsen av målene i denne forordning i fare.
 
-4.De nasjonale tiltakene nevnt i nr. 3, skal ha som mål:å gjøre det mulig å fortsatt bruke tradisjonelle metoder i alle ledd i produksjonen, bearbeidingen eller distribusjonen av næringsmidler,
-ellerå oppfylle behovene til næringsmiddelforetak som ligger i regioner med særlige geografiske begrensninger.I andre tilfeller får de anvendelse bare på virksomhetenes oppføring, planløsning og utstyr.
+4\.
 
-5\. Medlemsstater som ønsker å vedta nasjonale tiltak som nevnt i nr. 3, skal underrette Kommisjonen og de andre medlemsstatene om dette. Hver underretning skal inneholde:en detaljert beskrivelse av kravene som denne medlemsstaten anser det som nødvendig å tilpasse, samt angivelse av tilpasningens art,en beskrivelse av de næringsmidlene og virksomhetene som berøres,en begrunnelse for tilpasningen, herunder når det er relevant, et sammendrag av den fareanalysen som er utført, samt hvilke tiltak som må treffes for å sikre at tilpasningen ikke setter målene i denne forordning i fare,
-ogalle andre relevante opplysninger.
+1. De nasjonale tiltakene nevnt i nr. 3, skal ha som mål:
+
+   1. å gjøre det mulig å fortsatt bruke tradisjonelle metoder i alle ledd i produksjonen, bearbeidingen eller distribusjonen av næringsmidler,
+      eller
+   2. å oppfylle behovene til næringsmiddelforetak som ligger i regioner med særlige geografiske begrensninger.
+2. I andre tilfeller får de anvendelse bare på virksomhetenes oppføring, planløsning og utstyr.
+
+5\. Medlemsstater som ønsker å vedta nasjonale tiltak som nevnt i nr. 3, skal underrette Kommisjonen og de andre medlemsstatene om dette. Hver underretning skal inneholde:
+
+1. en detaljert beskrivelse av kravene som denne medlemsstaten anser det som nødvendig å tilpasse, samt angivelse av tilpasningens art,
+2. en beskrivelse av de næringsmidlene og virksomhetene som berøres,
+3. en begrunnelse for tilpasningen, herunder når det er relevant, et sammendrag av den fareanalysen som er utført, samt hvilke tiltak som må treffes for å sikre at tilpasningen ikke setter målene i denne forordning i fare,
+   og
+4. alle andre relevante opplysninger.
 
 6\. De andre medlemsstatene skal ha en frist på tre måneder fra de mottar underretningen nevnt i nr. 5, til å sende skriftlige merknader til Kommisjonen. Når det gjelder tilpasningene nevnt i nr. 4 bokstav b), skal denne fristen forlenges til fire måneder dersom en medlemsstat ber om det. Kommisjonen kan, og skal når den mottar skriftlige merknader fra én eller flere medlemsstater, rådspørre medlemsstatene i komiteen nevnt i artikkel 12 nr. 1. Kommisjonen kan etter framgangsmåten fastsatt i artikkel 12 nr. 2, beslutte om de påtenkte tiltakene kan gjennomføres, om nødvendig etter at det er foretatt hensiktsmessige endringer. Kommisjonen kan når det er hensiktsmessig foreslå allmenne tiltak i samsvar med nr. 1 eller 2 i denne artikkel.
 
-7\. En medlemsstat kan vedta nasjonale tiltak om tilpasning av kravene i vedlegg III bare:i samsvar med en beslutning vedtatt i henhold til nr. 6,dersom Kommisjonen én måned etter utløpet av fristen nevnt i nr. 6, ikke har underrettet medlemsstatene om at den har mottatt skriftlige merknader, eller at den har til hensikt å foreslå at det vedtas en beslutning i henhold til nr. 6,
-elleri samsvar med nr. 8.
+7\. En medlemsstat kan vedta nasjonale tiltak om tilpasning av kravene i vedlegg III bare:
 
-8\. En medlemsstat kan på eget initiativ og med forbehold for traktatens alminnelige bestemmelser, opprettholde eller fastsette nasjonale regler:som forbyr eller begrenser omsetningen på dens territorium av rå melk eller rå fløte beregnet på direkte konsum,
-ellersom med tillatelse fra vedkommende myndighet, tillater at rå melk som ikke oppfyller kriteriene fastsatt i vedlegg III avsnitt IX med hensyn til kimtall og celletall (somatisk), benyttes til å framstille oster med en modningstid på minst 60 dager og melkeprodukter som framstilles i forbindelse med framstilling av slike oster, forutsatt at dette ikke er til hinder for at målene i denne forordning oppnås.
+1. i samsvar med en beslutning vedtatt i henhold til nr. 6,
+2. dersom Kommisjonen én måned etter utløpet av fristen nevnt i nr. 6, ikke har underrettet medlemsstatene om at den har mottatt skriftlige merknader, eller at den har til hensikt å foreslå at det vedtas en beslutning i henhold til nr. 6,
+   eller
+3. i samsvar med nr. 8.
+
+8\. En medlemsstat kan på eget initiativ og med forbehold for traktatens alminnelige bestemmelser, opprettholde eller fastsette nasjonale regler:
+
+1. som forbyr eller begrenser omsetningen på dens territorium av rå melk eller rå fløte beregnet på direkte konsum,
+   eller
+2. som med tillatelse fra vedkommende myndighet, tillater at rå melk som ikke oppfyller kriteriene fastsatt i vedlegg III avsnitt IX med hensyn til kimtall og celletall (somatisk), benyttes til å framstille oster med en modningstid på minst 60 dager og melkeprodukter som framstilles i forbindelse med framstilling av slike oster, forutsatt at dette ikke er til hinder for at målene i denne forordning oppnås.
 
 ### Artikkel 11. Særlige beslutninger
 
-Uten at artikkel 9 og artikkel 10 nr. 1 berøres i sin alminnelighet, kan det fastsettes gjennomføringstiltak eller vedtas endringer til vedlegg II eller III etter framgangsmåten fastsatt i artikkel 12 nr. 2, for å:fastsette regler for transport av varmt kjøtt,angi når kalsiuminnholdet i mekanisk utbeinet kjøtt ikke er vesentlig høyere enn det er i kvernet kjøtt,fastslå andre behandlinger som kan utføres i foredlingsvirksomheter på levende muslinger fra produksjonsområder i klasse B eller C, som ikke er blitt renset eller gjenutlagt,angi anerkjente analysemetoder for marine biotoksiner,fastsette ytterligere helsestandarder for levende muslinger i samarbeid med det relevante referanselaboratoriet i Fellesskapet, herunder:grenseverdier og analysemetoder for andre marine biotoksiner,metoder til undersøkelse for virus og virologiske standarder,
-ogprøvetakingsplaner samt metoder og analysetoleranser som skal brukes for å kontrollere at helsestandardene overholdes,fastsette helsestandarder eller -kontroller, når det finnes vitenskapelig belegg for at de er nødvendige for å beskytte folkehelsen,utvide avsnitt VII kapittel IX i vedlegg III til også å omfatte andre levende muslinger enn kamskjell,angi kriterier for å fastslå når epidemiologiske data viser at et fiskested ikke utgjør noen helsefare med hensyn til forekomst av parasitter, og dermed for å fastslå når vedkommende myndighet kan gi driftsansvarlige for næringsmiddelforetak tillatelse til ikke å fryse fiskerivarer i samsvar med avsnitt VIII kapittel III del D i vedlegg III,fastsette kriterier for ferskhet og grenseverdier for histamin og total mengde flyktig nitrogen for fiskerivarer,tillate bruk av rå melk som ikke oppfyller kriteriene i avsnitt IX i vedlegg III med hensyn til kimtall og celletall (somatisk), for å framstille visse melkeprodukter,fastsette en høyeste tillatt verdi for det samlede innholdet av restmengder av antibiotika i rå melk, uten at direktiv [96/23/EF](eu/31996l0023)1 berøres,
-oggodkjenne likeverdige prosesser for framstilling av gelatin eller kollagen.
+Uten at artikkel 9 og artikkel 10 nr. 1 berøres i sin alminnelighet, kan det fastsettes gjennomføringstiltak eller vedtas endringer til vedlegg II eller III etter framgangsmåten fastsatt i artikkel 12 nr. 2, for å:
+
+1. fastsette regler for transport av varmt kjøtt,
+2. angi når kalsiuminnholdet i mekanisk utbeinet kjøtt ikke er vesentlig høyere enn det er i kvernet kjøtt,
+3. fastslå andre behandlinger som kan utføres i foredlingsvirksomheter på levende muslinger fra produksjonsområder i klasse B eller C, som ikke er blitt renset eller gjenutlagt,
+4. angi anerkjente analysemetoder for marine biotoksiner,
+5. fastsette ytterligere helsestandarder for levende muslinger i samarbeid med det relevante referanselaboratoriet i Fellesskapet, herunder:
+
+   1. grenseverdier og analysemetoder for andre marine biotoksiner,
+   2. metoder til undersøkelse for virus og virologiske standarder,
+      og
+   3. prøvetakingsplaner samt metoder og analysetoleranser som skal brukes for å kontrollere at helsestandardene overholdes,
+6. fastsette helsestandarder eller -kontroller, når det finnes vitenskapelig belegg for at de er nødvendige for å beskytte folkehelsen,
+7. utvide avsnitt VII kapittel IX i vedlegg III til også å omfatte andre levende muslinger enn kamskjell,
+8. angi kriterier for å fastslå når epidemiologiske data viser at et fiskested ikke utgjør noen helsefare med hensyn til forekomst av parasitter, og dermed for å fastslå når vedkommende myndighet kan gi driftsansvarlige for næringsmiddelforetak tillatelse til ikke å fryse fiskerivarer i samsvar med avsnitt VIII kapittel III del D i vedlegg III,
+9. fastsette kriterier for ferskhet og grenseverdier for histamin og total mengde flyktig nitrogen for fiskerivarer,
+10. tillate bruk av rå melk som ikke oppfyller kriteriene i avsnitt IX i vedlegg III med hensyn til kimtall og celletall (somatisk), for å framstille visse melkeprodukter,
+11. fastsette en høyeste tillatt verdi for det samlede innholdet av restmengder av antibiotika i rå melk, uten at direktiv [96/23/EF](eu/31996l0023)1 berøres,
+    og
+12. godkjenne likeverdige prosesser for framstilling av gelatin eller kollagen.
 
 1 Rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter (EFT L 125 av 23.5.1996, s. 10). Direktivet endret ved forordning [(EF) nr. 806/2003](eu/32003r0806*) (EFT L 122 av 16.5.2003, s. 1).
 
@@ -588,7 +770,9 @@ oggodkjenne likeverdige prosesser for framstilling av gelatin eller kollagen.
 
 1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen.
 
-2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
 3\. Komiteen fastsetter sin forretningsorden.
 
@@ -606,8 +790,12 @@ Kommisjonen skal rådspørre Den europeiske myndighet for næringsmiddeltrygghet
 
 1 [Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Den får anvendelse 18 måneder etter den dato da alle følgende rettsakter er trådt i kraft:forordning [(EF) nr. 852/2004](eu/32004r0852*),forordning [(EF) nr. 854/2004](eu/32004r0854*),
-ogdirektiv [2004/41/EF](eu/32004l0041*).
+Den får anvendelse 18 måneder etter den dato da alle følgende rettsakter er trådt i kraft:
+
+1. forordning [(EF) nr. 852/2004](eu/32004r0852*),
+2. forordning [(EF) nr. 854/2004](eu/32004r0854*),
+   og
+3. direktiv [2004/41/EF](eu/32004l0041*).
 
 Den får imidlertid ikke anvendelse før 1. januar 2006.
 
@@ -648,7 +836,13 @@ I denne forordning menes med:
 
 1.5.
 
-«viltlevende vilt»:viltlevende hov- og klovdyr og haredyr samt andre landpattedyr som det drives jakt på til konsum, og som regnes som viltlevende vilt i henhold til gjeldende lovgivning i den berørte medlemsstaten, herunder pattedyr som lever fritt på et inngjerdet område under lignende forhold som viltlevende vilt,ogviltlevende fugler som det drives jakt på til konsum,
+«viltlevende vilt»:
+
+- viltlevende hov- og klovdyr og haredyr samt andre landpattedyr som det drives jakt på til konsum, og som regnes som viltlevende vilt i henhold til gjeldende lovgivning i den berørte medlemsstaten, herunder pattedyr som lever fritt på et inngjerdet område under lignende forhold som viltlevende vilt,
+
+og
+
+- viltlevende fugler som det drives jakt på til konsum,
 
 1.6.
 
@@ -846,7 +1040,14 @@ I denne forordning menes med:
 
 8.1.
 
-«produkter av animalsk opprinnelse»:næringsmidler av animalsk opprinnelse, herunder honning og blod,levende muslinger, levende pigghuder, levende kappedyr og levende sjøsnegler beregnet på konsum,ogandre dyr beregnet på å bli tilberedt med sikte på å leveres levende til sluttforbrukeren,
+«produkter av animalsk opprinnelse»:
+
+- næringsmidler av animalsk opprinnelse, herunder honning og blod,
+- levende muslinger, levende pigghuder, levende kappedyr og levende sjøsnegler beregnet på konsum,
+
+og
+
+- andre dyr beregnet på å bli tilberedt med sikte på å leveres levende til sluttforbrukeren,
 
 8.2.
 
@@ -886,21 +1087,28 @@ A. *Påføring av identifikasjonsmerket*
 B. *Identifikasjonsmerkets form*
 
 - Merket skal være lett leselig og ikke kunne slettes, og bestå av tydelige tegn. Det skal være godt synlig for vedkommende myndigheter.
-- Merket skal angi navnet på den staten der virksomheten ligger, enten skrevet helt ut eller vist som en kode på to bokstaver i samsvar med den relevante ISO-standarden. ►**M22** Kodene for medlemsstatene\* er imidlertid BE, BG, CZ, DK, DE, EE, GR, ES, FR, HR, IE, ►IS◄, IT, CY, LV, LT, LU, HU, MT, NL, ►NO◄, AT, PL, PT, SI, SK, FI, RO, SE og UK(NI).\* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstatene i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
-◄**M22**
-►**M2** – – – ◄**M2**
+- Merket skal angi navnet på den staten der virksomheten ligger, enten skrevet helt ut eller vist som en kode på to bokstaver i samsvar med den relevante ISO-standarden. ►**M22** Kodene for medlemsstatene\* er imidlertid BE, BG, CZ, DK, DE, EE, GR, ES, FR, HR, IE, ►IS◄, IT, CY, LV, LT, LU, HU, MT, NL, ►NO◄, AT, PL, PT, SI, SK, FI, RO, SE og UK(NI).
+
+  \* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstatene i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
+
+  ◄**M22**
+  ►**M2** – – – ◄**M2**
 - Merket skal angi virksomhetens godkjenningsnummer. Dersom en virksomhet framstiller både næringsmidler som omfattes av denne forordning, og næringsmidler som ikke omfattes av den, kan den driftsansvarlige for næringsmiddelforetaket benytte samme identifikasjonsmerke på begge typer næringsmidler.
-►**M27**
-- Når merket brukes i en virksomhet som ligger i Unionen, skal det være ovalt og inneholde forkortelsen for Den europeiske union («EU») på ett av Unionens offisielle språk: EC, EU, EL, UE, EE, AE, ES, EÚ, ►EFTA◄.Disse forkortelsene skal ikke angis på merker som påføres produkter som importeres til Unionen av virksomheter utenfor Unionen.
+  ►**M27**
+- Når merket brukes i en virksomhet som ligger i Unionen, skal det være ovalt og inneholde forkortelsen for Den europeiske union («EU») på ett av Unionens offisielle språk: EC, EU, EL, UE, EE, AE, ES, EÚ, ►EFTA◄.
+
+  Disse forkortelsene skal ikke angis på merker som påføres produkter som importeres til Unionen av virksomheter utenfor Unionen.
 - Kravene til identifikasjonsmerkets form i denne del B kan erstattes av kravene om et særskilt identifikasjonsmerke i samsvar med artikkel 65 nr. 1 bokstav h) i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429)\* og reglene vedtatt i samsvar med artikkel 67 bokstav a), artikkel 71 nr. 3 eller 4 eller artikkel 259 nr. 1 eller 2 i nevnte forordning.
-◄**M27**
+  ◄**M27**
 
 \* ►**M27** Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen») (EUT L 84 av 31.3.2016, s. 1). ◄**M27**
 
 C. *Merkingsmetode*
 
 1. Avhengig av hvordan de forskjellige produktene av animalsk opprinnelse presenteres, kan merket påføres direkte på produktet, innpakningen eller emballasjen, eller det kan trykkes på en etikett som festes på produktet, innpakningen eller emballasjen. Merket kan også bestå av en brikke av solid materiale som ikke kan tas av.
-2. Når det gjelder emballasje som inneholder nedskåret kjøtt eller slaktebiprodukter, skal merket settes på en etikett som festes på emballasjen, eller trykkes på emballasjen på en slik måte at det ødelegges når emballasjen åpnes. Dette er imidlertid ikke nødvendig dersom emballasjen ødelegges idet den åpnes.Når innpakningen gir samme beskyttelse som emballasjen, kan merket festes på innpakningen.
+2. Når det gjelder emballasje som inneholder nedskåret kjøtt eller slaktebiprodukter, skal merket settes på en etikett som festes på emballasjen, eller trykkes på emballasjen på en slik måte at det ødelegges når emballasjen åpnes. Dette er imidlertid ikke nødvendig dersom emballasjen ødelegges idet den åpnes.
+
+   Når innpakningen gir samme beskyttelse som emballasjen, kan merket festes på innpakningen.
 3. Når det gjelder produkter av animalsk opprinnelse som transporteres i transportcontainere eller engrosemballasjer og som er beregnet på videre håndtering, foredling, innpakking eller emballering i en annen virksomhet, kan merket settes på utsiden av containeren eller emballasjen.
 4. Når det gjelder produkter av animalsk opprinnelse i flytende form, granulert form eller i pulverform som transporteres i bulk, og fiskerivarer som transporteres i bulk, er det ikke nødvendig med et identifikasjonsmerke dersom ledsagende dokumentasjon inneholder opplysningene som er angitt i nr. 6, 7 og eventuelt 8.
 5. Dersom produkter av animalsk opprinnelse er plassert i en emballasje beregnet på direkte levering til sluttforbrukeren, er det tilstrekkelig at merket settes bare på utsiden av denne emballasjen.
@@ -909,8 +1117,15 @@ C. *Merkingsmetode*
 ### Avsnitt II: Mål for HACCP-baserte framgangsmåter
 
 1. Driftsansvarlige for næringsmiddelforetak som driver slakterier, skal sikre at de framgangsmåtene som de har innført i samsvar med de allmenne kravene i artikkel 5 i forordning [(EF) nr. 852/2004](eu/32004r0852*), oppfyller de kravene som ifølge fareanalysen viser seg å være nødvendige, samt de særlige kravene oppført i nr. 2.
-2. Framgangsmåtene skal garantere at ethvert dyr, eller når det er relevant, hvert parti dyr som ankommer slakteriet:identifiseres korrekt,ledsages av de relevante opplysningene fra opprinnelsesenheten nevnt i avsnitt III,ikke kommer fra en driftsenhet eller et område som er underlagt forbud mot forflytning av dyr eller andre restriksjoner av hensyn til dyrs eller menneskers helse, bortsett fra når vedkommende myndighet tillater det,er rent,er friskt, så vidt den driftsansvarlige for næringsmiddelforetaket kan bedømme,
-ogmed hensyn til dyrevelferd er i en tilfredsstillende tilstand ved ankomst til slakteriet.
+2. Framgangsmåtene skal garantere at ethvert dyr, eller når det er relevant, hvert parti dyr som ankommer slakteriet:
+
+   1. identifiseres korrekt,
+   2. ledsages av de relevante opplysningene fra opprinnelsesenheten nevnt i avsnitt III,
+   3. ikke kommer fra en driftsenhet eller et område som er underlagt forbud mot forflytning av dyr eller andre restriksjoner av hensyn til dyrs eller menneskers helse, bortsett fra når vedkommende myndighet tillater det,
+   4. er rent,
+   5. er friskt, så vidt den driftsansvarlige for næringsmiddelforetaket kan bedømme,
+      og
+   6. med hensyn til dyrevelferd er i en tilfredsstillende tilstand ved ankomst til slakteriet.
 3. Dersom kravene nevnt i nr. 2 ikke er oppfylt, skal den driftsansvarlige for næringsmiddelforetaket underrette den offentlige veterinæren og treffe hensiktsmessige tiltak.
 
 ### Avsnitt III: Opplysninger om næringsmiddelkjeden
@@ -920,28 +1135,60 @@ ogmed hensyn til dyrevelferd er i en tilfredsstillende tilstand ved ankomst til 
 ► **M6**
 
 1. Driftsansvarlige for ►**M27** slakteri eller viltbehandlingsanlegg ◄**M27** må ikke ta i mot dyr på ►**M27** slakteriets eller viltbehandlingsanleggets ◄**M27** område før de har anmodet om og mottatt relevante opplysninger om næringsmiddelkjeden, som finnes i fortegnelsene som opprinnelsesenheten fører i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*).
-◄ **M6**
+   ◄ **M6**
 2. Driftsansvarlige for ►**M27** slakteri eller viltbehandlingsanlegg ◄**M27** skal motta opplysningene minst 24 timer før dyrene ankommer ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27**, bortsett fra i de tilfellene som er nevnt i nr. 7.
-► **M6**
+   ► **M6**
 3. De relevante opplysningene om næringsmiddelkjeden nevnt i nr. 1 skal særlig omfatte:
-◄ **M6**
-►**M15**opprinnelsesenhetens tilstand eller den regionale dyrehelsetilstanden, og om det er offisielt anerkjent at enheten anvender kontrollerte oppstallingsforhold med tanke på trikiner i samsvar med kapittel I del A i vedlegg IV til kommisjonsforordning [(EF) nr. 2075/2005](eu/32005r2075),\* \* EUT L 338 av 22.12.2005, s. 60.◄**M15**dyrenes helsetilstand,veterinærpreparater eller andre behandlinger som dyrene har fått i løpet av et relevant tidsrom og som har en tilbakeholdingstid på mer enn null dager, samt behandlingsdato og tilbakeholdingstid,forekomsten av sykdommer som kan påvirke kjøttets trygghet,resultatene, dersom de er relevante for å verne folkehelsen, av alle analyser som er utført på prøver tatt fra dyrene eller andre prøver tatt for å diagnostisere sykdommer som kan påvirke kjøttets trygghet, herunder prøver som er tatt som ledd i overvåking og kontroll av zoonoser og restmengder,relevante rapporter om tidligere undersøkelser ante mortem og post mortem av dyr fra samme opprinnelsesenhet, herunder særlig rapporter fra den offentlige veterinæren,produksjonsdata, når de kan gi opplysninger om forekomst av sykdom,
-ognavn og adresse til den private veterinæren som vanligvis er engasjert av opprinnelsesenheten.
-4. Det er imidlertid ikke nødvendig for den driftsansvarlige for ►**M27** slakterier eller viltbehandlingsanlegg ◄**M27** å motta:opplysningene nevnt i nr. 3 bokstav a), b), f) og h), dersom den driftsansvarlige allerede har kjennskap til disse opplysningene (for eksempel gjennom en fast ordning eller et kvalitetssikringssystem),
-elleropplysningene nevnt i nr. 3 bokstav a), b), f) og g), dersom produsenten erklærer at det ikke er noen relevante opplysninger å innrapportere.Opplysningene behøver ikke å foreligge som et ordrett utdrag fra journalene til opprinnelsesenheten. De kan leveres gjennom elektronisk datautveksling eller i form av en standardisert erklæring undertegnet av produsenten.
+   ◄ **M6**
+   ►**M15**
+
+   1. opprinnelsesenhetens tilstand eller den regionale dyrehelsetilstanden, og om det er offisielt anerkjent at enheten anvender kontrollerte oppstallingsforhold med tanke på trikiner i samsvar med kapittel I del A i vedlegg IV til kommisjonsforordning [(EF) nr. 2075/2005](eu/32005r2075),\*
+
+      \* EUT L 338 av 22.12.2005, s. 60.
+
+   ◄**M15**
+
+   1. dyrenes helsetilstand,
+   2. veterinærpreparater eller andre behandlinger som dyrene har fått i løpet av et relevant tidsrom og som har en tilbakeholdingstid på mer enn null dager, samt behandlingsdato og tilbakeholdingstid,
+   3. forekomsten av sykdommer som kan påvirke kjøttets trygghet,
+   4. resultatene, dersom de er relevante for å verne folkehelsen, av alle analyser som er utført på prøver tatt fra dyrene eller andre prøver tatt for å diagnostisere sykdommer som kan påvirke kjøttets trygghet, herunder prøver som er tatt som ledd i overvåking og kontroll av zoonoser og restmengder,
+   5. relevante rapporter om tidligere undersøkelser ante mortem og post mortem av dyr fra samme opprinnelsesenhet, herunder særlig rapporter fra den offentlige veterinæren,
+   6. produksjonsdata, når de kan gi opplysninger om forekomst av sykdom,
+      og
+   7. navn og adresse til den private veterinæren som vanligvis er engasjert av opprinnelsesenheten.
+4. 1. Det er imidlertid ikke nødvendig for den driftsansvarlige for ►**M27** slakterier eller viltbehandlingsanlegg ◄**M27** å motta:
+
+      1. opplysningene nevnt i nr. 3 bokstav a), b), f) og h), dersom den driftsansvarlige allerede har kjennskap til disse opplysningene (for eksempel gjennom en fast ordning eller et kvalitetssikringssystem),
+         eller
+      2. opplysningene nevnt i nr. 3 bokstav a), b), f) og g), dersom produsenten erklærer at det ikke er noen relevante opplysninger å innrapportere.
+   2. Opplysningene behøver ikke å foreligge som et ordrett utdrag fra journalene til opprinnelsesenheten. De kan leveres gjennom elektronisk datautveksling eller i form av en standardisert erklæring undertegnet av produsenten.
 5. Driftsansvarlige for næringsmiddelforetak som beslutter å motta dyr på ►**M27** slakteriområdet eller viltbehandlingsanlegget ◄**M27** etter å ha vurdert de relevante opplysningene om næringsmiddelkjeden, skal omgående gjøre opplysningene tilgjengelige for den offentlige veterinæren, og bortsett fra i tilfellene nevnt i nr. 7, minst 24 timer før dyret eller partiet ankommer. Den driftsansvarlige for næringsmiddelforetaket skal underrette den offentlige veterinæren om eventuelle opplysninger som kan gi opphav til helsemessige farer før det aktuelle dyret blir undersøkt ante mortem.
 6. Dersom et dyr ankommer ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27** uten opplysninger om næringsmiddelkjeden, skal den driftsansvarlige omgående underrette den offentlige veterinæren. Dyret kan ikke slaktes før den offentlige veterinæren tillater det.
-► **M7**
-7. Dersom vedkommende myndighet tillater det, og forutsatt at det ikke er til hinder for at målene med denne forordning nås, kan opplysninger om næringsmiddelkjeden ankomme mindre enn 24 timer før dyrene av alle arter som opplysningene gjelder, ankommer ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27**, eller følge disse dyrene til ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27**.Alle opplysninger om næringsmiddelkjeden som kan medføre alvorlige forstyrrelser i ►**M27** slakteriets eller viltbehandlingsanleggets ◄**M27** virksomhet dersom de blir kjent, skal imidlertid stilles til rådighet for den driftsansvarlige for ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27** i tilstrekkelig tid før dyrene ankommer ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27** til at vedkommende kan planlegge ►**M27** slakteriets eller viltbehandlingsanleggets ◄**M27** virksomhet på grunnlag av dem.Den driftsansvarlige for ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27** skal vurdere de relevante opplysningene og oversende de mottatte opplysningene om næringsmiddelkjeden til den offentlige veterinæren. Dyrene kan ikke slaktes eller slaktebehandles før den offentlige veterinæren tillater det.
-◄ **M7**
+   ► **M7**
+7. Dersom vedkommende myndighet tillater det, og forutsatt at det ikke er til hinder for at målene med denne forordning nås, kan opplysninger om næringsmiddelkjeden ankomme mindre enn 24 timer før dyrene av alle arter som opplysningene gjelder, ankommer ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27**, eller følge disse dyrene til ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27**.
+
+   Alle opplysninger om næringsmiddelkjeden som kan medføre alvorlige forstyrrelser i ►**M27** slakteriets eller viltbehandlingsanleggets ◄**M27** virksomhet dersom de blir kjent, skal imidlertid stilles til rådighet for den driftsansvarlige for ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27** i tilstrekkelig tid før dyrene ankommer ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27** til at vedkommende kan planlegge ►**M27** slakteriets eller viltbehandlingsanleggets ◄**M27** virksomhet på grunnlag av dem.
+
+   Den driftsansvarlige for ►**M27** slakteriet eller viltbehandlingsanlegget ◄**M27** skal vurdere de relevante opplysningene og oversende de mottatte opplysningene om næringsmiddelkjeden til den offentlige veterinæren. Dyrene kan ikke slaktes eller slaktebehandles før den offentlige veterinæren tillater det.
+   ◄ **M7**
 8. Driftsansvarlige for næringsmiddelforetak skal kontrollere passene som ledsager enhovede husdyr for å sikre at dyret er beregnet på slakting til konsum. Dersom de tar imot dyret til slakting, må de overlevere passet til den offentlige veterinæren.
 
 ### ► **M10** Avsnitt IV: Krav til fryste næringsmidler av animalsk opprinnelse
 
-1. I dette avsnitt menes med «produksjonsdato»:dato for slakt for skrotter, halve skrotter eller kvarte skrotter,dato for avliving for kropper av viltlevende vilt,dato for høsting eller fangst for fiskerivarer,dato for foredling, oppskjæring, hakking eller tilberedning for alle andre næringsmidler av animalsk opprinnelse.
-2. Fram til det produksjonsledd der et næringsmiddel er merket i samsvar med direktiv [2000/13/EF](eu/32000l0013*) eller skal videreforedles, må driftsansvarlige for næringsmiddelforetak sikre at den driftsansvarlige for næringsmiddelforetaket som mottar næringsmiddelet, og vedkommende myndighet på forespørsel, får følgende opplysninger:produksjonsdatoen ogfrysedatoen dersom denne er forskjellig fra produksjonsdatoen.Når et næringsmiddel produseres av et parti råvarer med ulike produksjons- og frysedatoer, må den eldste produksjonsdatoen og/eller frysedatoen gjøres tilgjengelig.
+1. I dette avsnitt menes med «produksjonsdato»:
+
+   1. dato for slakt for skrotter, halve skrotter eller kvarte skrotter,
+   2. dato for avliving for kropper av viltlevende vilt,
+   3. dato for høsting eller fangst for fiskerivarer,
+   4. dato for foredling, oppskjæring, hakking eller tilberedning for alle andre næringsmidler av animalsk opprinnelse.
+2. Fram til det produksjonsledd der et næringsmiddel er merket i samsvar med direktiv [2000/13/EF](eu/32000l0013*) eller skal videreforedles, må driftsansvarlige for næringsmiddelforetak sikre at den driftsansvarlige for næringsmiddelforetaket som mottar næringsmiddelet, og vedkommende myndighet på forespørsel, får følgende opplysninger:
+
+   1. produksjonsdatoen og
+   2. frysedatoen dersom denne er forskjellig fra produksjonsdatoen.
+
+   Når et næringsmiddel produseres av et parti råvarer med ulike produksjons- og frysedatoer, må den eldste produksjonsdatoen og/eller frysedatoen gjøres tilgjengelig.
 3. Leverandøren av det fryste næringsmiddelet kan velge hvilket format opplysningene skal gjøres tilgjengelige i, forutsatt at de opplysningene som kreves etter nr. 2, gjøres tilgjengelige på en klar og utvetydig måte og lett kan finnes av den driftsansvarlige for næringsmiddelforetaket som mottar næringsmiddelet.
-◄ **M10**
+   ◄ **M10**
 
 ### Vedlegg III
 Særlige krav
@@ -950,19 +1197,57 @@ Særlige krav
 
 ###### Kapittel I: Transport av levende dyr til slakteriet
 
-Driftsansvarlige for næringsmiddelforetak som transporterer levende dyr til slakterier, skal sikre at følgende krav er oppfylt:Under innsamling og transport skal dyrene håndteres forsiktig, slik at de ikke utsettes for unødig lidelse.Dyr som viser symptomer på sykdom eller som kommer fra besetninger som er smittet med agenser som har betydning for folkehelsen, kan transporteres til slakteriet bare når vedkommende myndighet tillater det.
+Driftsansvarlige for næringsmiddelforetak som transporterer levende dyr til slakterier, skal sikre at følgende krav er oppfylt:
+
+1. Under innsamling og transport skal dyrene håndteres forsiktig, slik at de ikke utsettes for unødig lidelse.
+2. Dyr som viser symptomer på sykdom eller som kommer fra besetninger som er smittet med agenser som har betydning for folkehelsen, kan transporteres til slakteriet bare når vedkommende myndighet tillater det.
 
 ###### Kapittel II: Krav til slakterier
 
-►**M27** Driftsansvarlige for næringsmiddelforetak skal sikre at slakterier der tamme hov- og klovdyr slaktes, er oppført og har planløsning og utstyr som oppfyller kravene i følgende nr. 1–9. Mobile delslakterier skal drives i samarbeid med komplementære permanente slakterier for å utgjøre et komplett slakteri som oppfyller kravene fastsatt i følgende nr. 1–9. Mobile delslakterier kan drives sammen med flere komplementære slakterier, og dermed utgjøre flere slakterier. ◄**M27**Slakteriene skal ha egnede og hygieniske oppstallingslokaler eller, dersom klimaforholdene tillater det, venteinnhegninger som er lette å rengjøre og desinfisere. Disse anleggene skal være utstyrt slik at dyrene kan få drikke og om nødvendig fôres. Bortledning av spillvann må ikke sette næringsmiddeltryggheten i fare.De skal også ha egne låsbare lokaler eller, dersom klimaforholdene tillater det, innhegninger beregnet på dyr som er syke eller mistenkes for å være syke, utstyrt med et eget avløp og plassert slik at andre dyr ikke blir smittet, med mindre vedkommende myndighet mener at slike anlegg er unødvendige.Oppstallingslokalene må være store nok til at de tar hensyn til dyrs velferd. Planløsningen skal være slik at det er enkelt å gjennomføre undersøkelser ante mortem, herunder identifisering av dyrene eller av grupper av dyr.For å unngå forurensning av kjøttet, skal de:ha tilstrekkelig mange lokaler til det arbeidet som skal utføres,ha et eget lokale til tømming og rengjøring av mager og tarmer, med mindre vedkommende myndighet i hvert enkelt tilfelle tillater at disse arbeidsoperasjonene utføres på forskjellige tidspunkter i et bestemt slakteri,sikre at følgende arbeidsoperasjoner utføres på forskjellige tidspunkter eller steder:bedøving og avbløding,når det gjelder svin, skålding, avbusting, skraping og sviing,uttak av indre organer og videre slaktebehandling,håndtering av rene tarmer og mager,tilberedning og rengjøring av andre slaktebiprodukter, særlig håndtering av flådde hoder dersom dette ikke er gjort ved slaktelinjen,emballering av slaktebiprodukter,
-ogforsendelse av kjøtt,ha installasjoner som hindrer at kjøttet kommer i kontakt med gulv, vegger og inventar,
-ogha slaktelinjer som (der de benyttes) er utformet slik at slakteprosessen kan pågå uten avbrudd og slik at kryssforurensning mellom de forskjellige delene av slaktelinjen unngås. Dersom det benyttes mer enn én slaktelinje i de samme lokalene, skal disse være tilstrekkelig atskilt til å hindre kryssforurensning.De skal ha utstyr for å desinfisere redskaper med varmt vann med en temperatur på minst 82 °C, eller et alternativt system med tilsvarende virkning.Håndvaskene som brukes av det personalet som håndterer uemballert kjøtt, skal ha kraner som er utformet slik at de hindrer spredning av forurensning.Det skal finnes låsbare lokaler eller innretninger til kjølelagring av tilbakeholdt kjøtt og egne låsbare lokaler eller innretninger til lagring av kjøtt som er erklært uegnet til konsum.Det skal finnes et separat sted med hensiktsmessige innretninger for rengjøring, vask og desinfisering av transportmidler for dyr. Slakterier behøver imidlertid ikke å ha slike steder og innretninger dersom vedkommende myndighet gir tillatelse til dette, og det finnes offentlig godkjente steder og innretninger i nærheten.De skal ha låsbare lokaler eller innretninger som er forbeholdt slakting av dyr som er syke eller mistenkes for å være syke. Dette er ikke nødvendig dersom slik slakting finner sted på andre virksomheter som er godkjent av vedkommende myndighet for dette formål, eller i slutten av den normale slaktetiden.Dersom husdyrgjødsel eller mage- og tarminnhold lagres i slakteriet, skal det finnes et særskilt område eller sted for dette.Det skal finnes et passende utstyrt og låsbart lokale, eller om nødvendig et rom, som skal brukes utelukkende av veterinærmyndigheten.
+►**M27** Driftsansvarlige for næringsmiddelforetak skal sikre at slakterier der tamme hov- og klovdyr slaktes, er oppført og har planløsning og utstyr som oppfyller kravene i følgende nr. 1–9. Mobile delslakterier skal drives i samarbeid med komplementære permanente slakterier for å utgjøre et komplett slakteri som oppfyller kravene fastsatt i følgende nr. 1–9. Mobile delslakterier kan drives sammen med flere komplementære slakterier, og dermed utgjøre flere slakterier. ◄**M27**
+
+1. 1. Slakteriene skal ha egnede og hygieniske oppstallingslokaler eller, dersom klimaforholdene tillater det, venteinnhegninger som er lette å rengjøre og desinfisere. Disse anleggene skal være utstyrt slik at dyrene kan få drikke og om nødvendig fôres. Bortledning av spillvann må ikke sette næringsmiddeltryggheten i fare.
+   2. De skal også ha egne låsbare lokaler eller, dersom klimaforholdene tillater det, innhegninger beregnet på dyr som er syke eller mistenkes for å være syke, utstyrt med et eget avløp og plassert slik at andre dyr ikke blir smittet, med mindre vedkommende myndighet mener at slike anlegg er unødvendige.
+   3. Oppstallingslokalene må være store nok til at de tar hensyn til dyrs velferd. Planløsningen skal være slik at det er enkelt å gjennomføre undersøkelser ante mortem, herunder identifisering av dyrene eller av grupper av dyr.
+2. For å unngå forurensning av kjøttet, skal de:
+
+   1. ha tilstrekkelig mange lokaler til det arbeidet som skal utføres,
+   2. ha et eget lokale til tømming og rengjøring av mager og tarmer, med mindre vedkommende myndighet i hvert enkelt tilfelle tillater at disse arbeidsoperasjonene utføres på forskjellige tidspunkter i et bestemt slakteri,
+   3. sikre at følgende arbeidsoperasjoner utføres på forskjellige tidspunkter eller steder:
+
+      1. bedøving og avbløding,
+      2. når det gjelder svin, skålding, avbusting, skraping og sviing,
+      3. uttak av indre organer og videre slaktebehandling,
+      4. håndtering av rene tarmer og mager,
+      5. tilberedning og rengjøring av andre slaktebiprodukter, særlig håndtering av flådde hoder dersom dette ikke er gjort ved slaktelinjen,
+      6. emballering av slaktebiprodukter,
+         og
+      7. forsendelse av kjøtt,
+   4. ha installasjoner som hindrer at kjøttet kommer i kontakt med gulv, vegger og inventar,
+      og
+   5. ha slaktelinjer som (der de benyttes) er utformet slik at slakteprosessen kan pågå uten avbrudd og slik at kryssforurensning mellom de forskjellige delene av slaktelinjen unngås. Dersom det benyttes mer enn én slaktelinje i de samme lokalene, skal disse være tilstrekkelig atskilt til å hindre kryssforurensning.
+3. De skal ha utstyr for å desinfisere redskaper med varmt vann med en temperatur på minst 82 °C, eller et alternativt system med tilsvarende virkning.
+4. Håndvaskene som brukes av det personalet som håndterer uemballert kjøtt, skal ha kraner som er utformet slik at de hindrer spredning av forurensning.
+5. Det skal finnes låsbare lokaler eller innretninger til kjølelagring av tilbakeholdt kjøtt og egne låsbare lokaler eller innretninger til lagring av kjøtt som er erklært uegnet til konsum.
+6. Det skal finnes et separat sted med hensiktsmessige innretninger for rengjøring, vask og desinfisering av transportmidler for dyr. Slakterier behøver imidlertid ikke å ha slike steder og innretninger dersom vedkommende myndighet gir tillatelse til dette, og det finnes offentlig godkjente steder og innretninger i nærheten.
+7. De skal ha låsbare lokaler eller innretninger som er forbeholdt slakting av dyr som er syke eller mistenkes for å være syke. Dette er ikke nødvendig dersom slik slakting finner sted på andre virksomheter som er godkjent av vedkommende myndighet for dette formål, eller i slutten av den normale slaktetiden.
+8. Dersom husdyrgjødsel eller mage- og tarminnhold lagres i slakteriet, skal det finnes et særskilt område eller sted for dette.
+9. Det skal finnes et passende utstyrt og låsbart lokale, eller om nødvendig et rom, som skal brukes utelukkende av veterinærmyndigheten.
 
 ###### Kapittel III: Krav til nedskjæringsanlegg
 
-Driftsansvarlige for næringsmiddelforetak skal sikre at nedskjæringsanlegg som håndterer kjøtt fra tamme hov- og klovdyr:er oppført slik at forurensning av kjøttet unngås, særlig ved:at arbeidsoperasjonene kan pågå fortløpende,
-ellerat det sikres at de forskjellige produksjonspartiene holdes atskilt,har atskilte rom til lagring av emballert og uemballert kjøtt, med mindre det lagres på forskjellige tidspunkter eller på en slik måte at emballasjematerialet og lagringsmåten ikke utgjør en forurensningskilde for kjøttet,har nedskjæringsrom som er utstyrt for å sikre at kravene fastsatt i kapittel V, oppfylles,har håndvasker som brukes av det personalet som håndterer uemballert kjøtt, med kraner som er utformet slik at de hindrer spredning av forurensning,
-oghar utstyr for å desinfisere redskaper med varmt vann med en temperatur på minst 82 °C, eller et alternativt system med tilsvarende virkning.
+Driftsansvarlige for næringsmiddelforetak skal sikre at nedskjæringsanlegg som håndterer kjøtt fra tamme hov- og klovdyr:
+
+1. er oppført slik at forurensning av kjøttet unngås, særlig ved:
+
+   1. at arbeidsoperasjonene kan pågå fortløpende,
+      eller
+   2. at det sikres at de forskjellige produksjonspartiene holdes atskilt,
+2. har atskilte rom til lagring av emballert og uemballert kjøtt, med mindre det lagres på forskjellige tidspunkter eller på en slik måte at emballasjematerialet og lagringsmåten ikke utgjør en forurensningskilde for kjøttet,
+3. har nedskjæringsrom som er utstyrt for å sikre at kravene fastsatt i kapittel V, oppfylles,
+4. har håndvasker som brukes av det personalet som håndterer uemballert kjøtt, med kraner som er utformet slik at de hindrer spredning av forurensning,
+   og
+5. har utstyr for å desinfisere redskaper med varmt vann med en temperatur på minst 82 °C, eller et alternativt system med tilsvarende virkning.
 
 ###### Kapittel IV: Slaktehygiene
 
@@ -971,59 +1256,129 @@ Driftsansvarlige for næringsmiddelforetak som driver slakterier der det slaktes
 ►**M27**
 
 1. Dyrene skal slaktes så raskt som mulig etter at de er ankommet slakteriet. Dyrene skal imidlertid få hvile før slaktingen, dersom det er nødvendig av hensyn til deres velferd. Dyr som innleveres til et slakteri til slakting, skal slaktes der, og kan bare under særlige omstendigheter flyttes direkte til et annet slakteri i samsvar med artikkel 43 nr. 6 annet ledd i gjennomføringsforordning (EU) 2019/627.
-◄**M27**
-2. Kjøtt fra andre dyr enn dem som er nevnt i bokstav b) og c), skal ikke brukes til konsum dersom de dør på annen måte enn ved slakting på slakteriet.Bare levende dyr beregnet på slakting, kan bringes inn i slakteriet, med unntak av:dyr som er blitt nødslaktet utenfor slakteriet i samsvar med kapittel VI,
-►**M23**dyr som er slaktet på opprinnelsesenheten i samsvar med kapittel VIa i dette avsnittet eller i samsvar med avsnitt III nr. 3,
-◄**M23**
-ogviltlevende vilt, i samsvar med avsnitt IV kapittel II.Kjøtt fra dyr som slaktes etter en ulykke på slakteriet, kan brukes til konsum dersom det ved kontroll ikke påvises noen andre alvorlige skader enn dem som oppstod ved ulykken.
+   ◄**M27**
+2. 1. Kjøtt fra andre dyr enn dem som er nevnt i bokstav b) og c), skal ikke brukes til konsum dersom de dør på annen måte enn ved slakting på slakteriet.
+   2. Bare levende dyr beregnet på slakting, kan bringes inn i slakteriet, med unntak av:
+
+      1. dyr som er blitt nødslaktet utenfor slakteriet i samsvar med kapittel VI,
+         ►**M23**
+      2. dyr som er slaktet på opprinnelsesenheten i samsvar med kapittel VIa i dette avsnittet eller i samsvar med avsnitt III nr. 3,
+         ◄**M23**
+         og
+      3. viltlevende vilt, i samsvar med avsnitt IV kapittel II.
+   3. Kjøtt fra dyr som slaktes etter en ulykke på slakteriet, kan brukes til konsum dersom det ved kontroll ikke påvises noen andre alvorlige skader enn dem som oppstod ved ulykken.
 3. Dyrene, eller når det er hensiktsmessig, hvert parti av dyr som sendes til slakting, skal identifiseres slik at deres opprinnelse kan spores.
 4. Dyrene skal være rene.
 5. Driftsansvarlige for slakterier skal følge instruksene fra den veterinæren som er utpekt av vedkommende myndighet i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*), for å sikre at undersøkelsen ante mortem av hvert dyr som skal slaktes, utføres under hensiktsmessige forhold.
 6. Dyr som bringes inn i avlivingsrommet, skal slaktes så snart som mulig.
-7. Bedøving, avbløding, flåing, uttak av indre organer og annen slaktebehandling skal utføres så snart som mulig og på en slik måte at forurensning av kjøttet unngås. Særlig:skal luftrøret og spiserøret forbli intakt under avblødningen, unntatt ved slakting etter et religiøst rituale,når huder og skinn fjernes:må all kontakt mellom yttersiden av huden og skrotten unngås,
-ogmå personale og utstyr som kommer i kontakt med yttersiden av huder og skinn, ikke komme i berøring med kjøttet,skal det treffes tiltak for å unngå at innholdet i fordøyelseskanalen slipper ut under og etter uttak av indre organer og for å sikre at uttaket av indre organer skjer så raskt som mulig etter bedøving,
-ogskal fjerningen av juret ikke føre til at skrotten forurenses med melk eller råmelk
-► **M3**
+7. Bedøving, avbløding, flåing, uttak av indre organer og annen slaktebehandling skal utføres så snart som mulig og på en slik måte at forurensning av kjøttet unngås. Særlig:
+
+   1. skal luftrøret og spiserøret forbli intakt under avblødningen, unntatt ved slakting etter et religiøst rituale,
+   2. når huder og skinn fjernes:
+
+      1. må all kontakt mellom yttersiden av huden og skrotten unngås,
+         og
+      2. må personale og utstyr som kommer i kontakt med yttersiden av huder og skinn, ikke komme i berøring med kjøttet,
+   3. skal det treffes tiltak for å unngå at innholdet i fordøyelseskanalen slipper ut under og etter uttak av indre organer og for å sikre at uttaket av indre organer skjer så raskt som mulig etter bedøving,
+      og
+   4. skal fjerningen av juret ikke føre til at skrotten forurenses med melk eller råmelk
+      ► **M3**
 8. Skrotten og andre deler av kroppen som er beregnet på konsum, skal flås fullstendig, unntatt når det gjelder svin, hodet på sauer, geiter og kalver, mulen og leppene på storfe samt føttene på storfe, sauer og geiter. Hoder, herunder mule og lepper, og føtter skal håndteres på en slik måte at forurensning unngås.
-◄ **M3**
+   ◄ **M3**
 9. Dersom svin ikke flås, skal busten fjernes omgående. Risikoen for å forurense kjøttet med skåldevann må begrenses mest mulig. Det må brukes bare godkjente tilsetningsstoffer til skåldingen. Svinene skal deretter skylles grundig med drikkevann.
 10. Det skal ikke finnes noen synlig fekal forurensning på skrottene. All synlig forurensning skal fjernes så raskt som mulig ved renskjæring eller andre metoder med tilsvarende virkning.
 11. Skrotter og slaktebiprodukter skal ikke komme i kontakt med gulv, vegger eller arbeidsplattformer.
 12. Driftsansvarlige for slakterier skal følge instruksene fra vedkommende myndighet for å sikre at undersøkelsen post mortem av alle slaktede dyr utføres under hensiktsmessige forhold i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*).
-13. Inntil undersøkelsen post mortem er gjennomført, skal deler av et slaktet dyr som omfattes av en slik undersøkelse:fortsatt kunne identifiseres som tilhørende en bestemt skrott,
-ogikke komme i kontakt med noen andre skrotter, slaktebiprodukter eller indre organer, herunder dem som allerede har gjennomgått undersøkelse post mortem.Forutsatt at penis ikke viser noen patologiske skader, kan den fjernes umiddelbart.
+13. Inntil undersøkelsen post mortem er gjennomført, skal deler av et slaktet dyr som omfattes av en slik undersøkelse:
+
+    1. fortsatt kunne identifiseres som tilhørende en bestemt skrott,
+       og
+    2. ikke komme i kontakt med noen andre skrotter, slaktebiprodukter eller indre organer, herunder dem som allerede har gjennomgått undersøkelse post mortem.
+
+    Forutsatt at penis ikke viser noen patologiske skader, kan den fjernes umiddelbart.
 14. Begge nyrer skal løsnes fra fettkapselen som omgir dem. Når det gjelder storfe og svin, samt enhovede dyr, skal nyrekapselen også fjernes.
 15. Dersom blodet eller andre slaktebiprodukter fra flere dyr samles opp i samme beholder før undersøkelsen post mortem er avsluttet, skal hele innholdet erklæres uegnet til konsum dersom skrotten av ett eller flere av disse dyrene er blitt erklært uegnet til konsum.
 16. Etter undersøkelse post mortem:
-► **M3**skal mandlene fra storfe, svin og enhovede husdyr fjernes på en hygienisk måte,
-◄ **M3**skal deler som er uegnet til konsum, fjernes så snart som mulig fra den rene delen av virksomheten,skal kjøtt som er holdt tilbake eller erklært uegnet til konsum, og uspiselige biprodukter ikke komme i kontakt med kjøtt som er erklært egnet til konsum,
-ogskal indre organer eller deler av indre organer som fortsatt sitter i skrotten, bortsett fra nyrene, fjernes helt og så snart som mulig, med mindre vedkommende myndighet har tillatt noe annet.
+    ► **M3**
+
+    1. skal mandlene fra storfe, svin og enhovede husdyr fjernes på en hygienisk måte,
+       ◄ **M3**
+    2. skal deler som er uegnet til konsum, fjernes så snart som mulig fra den rene delen av virksomheten,
+    3. skal kjøtt som er holdt tilbake eller erklært uegnet til konsum, og uspiselige biprodukter ikke komme i kontakt med kjøtt som er erklært egnet til konsum,
+       og
+    4. skal indre organer eller deler av indre organer som fortsatt sitter i skrotten, bortsett fra nyrene, fjernes helt og så snart som mulig, med mindre vedkommende myndighet har tillatt noe annet.
 17. Etter at slaktingen og undersøkelsen post mortem er avsluttet, skal kjøttet lagres i samsvar med bestemmelsene fastsatt i kapittel VII.
-►**M23**
-18. Bortsett fra dersom de er beregnet på bruk som animalsk biprodukt i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)\*skal mager skåldes eller rengjøres, imidlertid behøver mager som er beregnet på produksjon av løypebare tømmes dersom de stammer fra unge storfe,ikke tømmes, skåldes eller rengjøres dersom de stammer fra unge sauer eller geiter,skal tarmer tømmes og rengjøres,skal hoder og føtter flås eller skåldes og avbustes; synlig rene hoder som ikke inneholder spesifisert risikomateriale i samsvar med artikkel 8 i forordning (EF) nr. 999/2001\*\* og synlig rene føtter beregnet på videreforedling til næringsmidler kan imidlertid, dersom den vedkommende myndigheten har gitt tillatelse til det, transporteres til og flås eller skåldes og avbustes i en godkjent virksomhet.\* Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).\*\* Europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati (EFT L 147 av 31.5.2001, s. 1).◄**M23**
+    ►**M23**
+18. Bortsett fra dersom de er beregnet på bruk som animalsk biprodukt i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)\*
+
+    1. skal mager skåldes eller rengjøres, imidlertid behøver mager som er beregnet på produksjon av løype
+
+       1. bare tømmes dersom de stammer fra unge storfe,
+       2. ikke tømmes, skåldes eller rengjøres dersom de stammer fra unge sauer eller geiter,
+    2. skal tarmer tømmes og rengjøres,
+    3. skal hoder og føtter flås eller skåldes og avbustes; synlig rene hoder som ikke inneholder spesifisert risikomateriale i samsvar med artikkel 8 i forordning (EF) nr. 999/2001\*\* og synlig rene føtter beregnet på videreforedling til næringsmidler kan imidlertid, dersom den vedkommende myndigheten har gitt tillatelse til det, transporteres til og flås eller skåldes og avbustes i en godkjent virksomhet.
+
+       \* Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
+
+       \*\* Europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati (EFT L 147 av 31.5.2001, s. 1).
+
+    ◄**M23**
 19. Dersom virksomheter er godkjent for slakting av forskjellige dyrearter eller for håndtering av skrotter av oppdrettsvilt og viltlevende vilt, må det treffes forholdsregler for å hindre kryssforurensning ved at de arbeidsoperasjonene som foretas på de forskjellige artene, utføres til forskjellige tidspunkter eller på forskjellige steder. Det skal finnes egne anlegg for å motta og lagre skrotter av oppdrettsvilt som ikke er flådd, og som er slaktet på driftsenheten, og for skrotter av viltlevende vilt.
 20. Dersom slakteriet ikke har låsbare lokaler som utelukkende benyttes til slakting av dyr som er syke eller mistenkes for å være syke, skal lokalene som brukes til slakting av slike dyr, rengjøres, vaskes og desinfiseres under offentlig tilsyn før slaktingen av andre dyr gjenopptas.
 
 ###### Kapittel V: Hygiene under nedskjæring og utbeining
 
-Driftsansvarlige for næringsmiddelforetak skal sikre at nedskjæring og utbeining av kjøtt fra tamme hov- og klovdyr utføres i samsvar med følgende krav:Skrotter av tamme hov- og klovdyr kan deles i halve eller kvarte skrotter, og halve skrotter kan deles i høyst tre deler på slakteriene. Videre nedskjæring og utbeining skal utføres på et nedskjæringsanlegg.Arbeidet med kjøttet må organiseres på en slik måte at forurensning forhindres eller begrenses mest mulig. Derfor skal driftsansvarlige for næringsmiddelforetak særlig sikre følgende:kjøtt beregnet på nedskjæring, skal bringes inn i arbeidslokalene etter hvert som det er behov for det,under nedskjæring, utbeining, renskjæring, skjæring i skiver og terninger, innpakking og emballering, skal kjøttets temperatur holdes på høyst 3 °C for slaktebiprodukter og 7 °C for annet kjøtt, ved hjelp av en omgivelsestemperatur på høyst 12 °C eller et alternativt system med tilsvarende virkning,
-ogdersom lokalene er godkjent for nedskjæring av kjøtt fra forskjellige dyrearter, må det treffes nødvendige tiltak for å unngå kryssforurensning, om nødvendig ved at arbeidsoperasjoner på de forskjellige artene utføres til forskjellige tidspunkter og på forskjellige steder.Kjøtt kan imidlertid utbeines og nedskjæres før det har nådd den temperaturen som er nevnt i punkt 2 bokstav b), i samsvar med kapittel VII punkt 3.Kjøtt kan også utbeines og nedskjæres før det når den temperaturen som er nevnt i nr. 2 bokstav b), når nedskjæringsrommet befinner seg på samme sted som slakteriet. I så fall skal kjøttet overføres direkte fra slakteriet til nedskjæringsrommet eller plasseres i et kjøle- eller fryserom til det skal brukes. Så snart kjøttet er nedskåret, og eventuelt emballert, må det kjøles til den temperaturen som er nevnt i punkt 2 bokstav b).
-► **M19**Hele, halve eller kvarte skrotter eller halve skrotter oppdelt i høyst tre stykker for engrossalg kan imidlertid utbeines og nedskjæres før de når temperaturen angitt i nr. 2 bokstav b), når de er blitt transportert i henhold til unntaket angitt i avsnitt I kapittel VII nr. 3 bokstav b). I så fall skal kjøttet ved nedskjæring eller utbeining utsettes for lufttemperaturer som sikrer en kontinuerlig senking av kjøttets temperatur. Så snart kjøttet er nedskåret, og eventuelt emballert, skal det kjøles til temperaturen nevnt i nr. 2 bokstav b), dersom det ikke allerede har en lavere temperatur.
-◄ **M19**
+Driftsansvarlige for næringsmiddelforetak skal sikre at nedskjæring og utbeining av kjøtt fra tamme hov- og klovdyr utføres i samsvar med følgende krav:
+
+1. Skrotter av tamme hov- og klovdyr kan deles i halve eller kvarte skrotter, og halve skrotter kan deles i høyst tre deler på slakteriene. Videre nedskjæring og utbeining skal utføres på et nedskjæringsanlegg.
+2. Arbeidet med kjøttet må organiseres på en slik måte at forurensning forhindres eller begrenses mest mulig. Derfor skal driftsansvarlige for næringsmiddelforetak særlig sikre følgende:
+
+   1. kjøtt beregnet på nedskjæring, skal bringes inn i arbeidslokalene etter hvert som det er behov for det,
+   2. under nedskjæring, utbeining, renskjæring, skjæring i skiver og terninger, innpakking og emballering, skal kjøttets temperatur holdes på høyst 3 °C for slaktebiprodukter og 7 °C for annet kjøtt, ved hjelp av en omgivelsestemperatur på høyst 12 °C eller et alternativt system med tilsvarende virkning,
+      og
+   3. dersom lokalene er godkjent for nedskjæring av kjøtt fra forskjellige dyrearter, må det treffes nødvendige tiltak for å unngå kryssforurensning, om nødvendig ved at arbeidsoperasjoner på de forskjellige artene utføres til forskjellige tidspunkter og på forskjellige steder.
+3. Kjøtt kan imidlertid utbeines og nedskjæres før det har nådd den temperaturen som er nevnt i punkt 2 bokstav b), i samsvar med kapittel VII punkt 3.
+4. Kjøtt kan også utbeines og nedskjæres før det når den temperaturen som er nevnt i nr. 2 bokstav b), når nedskjæringsrommet befinner seg på samme sted som slakteriet. I så fall skal kjøttet overføres direkte fra slakteriet til nedskjæringsrommet eller plasseres i et kjøle- eller fryserom til det skal brukes. Så snart kjøttet er nedskåret, og eventuelt emballert, må det kjøles til den temperaturen som er nevnt i punkt 2 bokstav b).
+   ► **M19**
+5. Hele, halve eller kvarte skrotter eller halve skrotter oppdelt i høyst tre stykker for engrossalg kan imidlertid utbeines og nedskjæres før de når temperaturen angitt i nr. 2 bokstav b), når de er blitt transportert i henhold til unntaket angitt i avsnitt I kapittel VII nr. 3 bokstav b). I så fall skal kjøttet ved nedskjæring eller utbeining utsettes for lufttemperaturer som sikrer en kontinuerlig senking av kjøttets temperatur. Så snart kjøttet er nedskåret, og eventuelt emballert, skal det kjøles til temperaturen nevnt i nr. 2 bokstav b), dersom det ikke allerede har en lavere temperatur.
+   ◄ **M19**
 
 ###### Kapittel VI: Nødslakting utenfor slakteriet
 
-Driftsansvarlige for næringsmiddelforetak skal sikre at kjøtt fra tamme hov- og klovdyr som er blitt nødslaktet utenfor slakteriet, kan brukes til konsum bare dersom det oppfyller alle følgende krav:Et dyr som ellers er friskt, skal ha vært utsatt for en ulykke som, av hensyn til dyrets velferd, forhindret at dyret kunne fraktes til slakteriet.
-►**M23**Den offentlige veterinæren skal utføre en kontroll ante mortem av dyret.Det avlivede og avblødde dyret skal transporteres til slakteriet på en hygienisk måte og så raskt som mulig. Uttak av mage og tarmer, men ikke annen slaktebehandling, kan utføres på stedet under tilsyn av den offentlige veterinæren. Alle indre organer som er tatt ut, skal følge det avlivede dyret til slakteriet med opplysninger om at de tilhører dette dyret.
-◄**M23**Dersom det går mer enn to timer mellom slakting og ankomst på slakteriet, skal dyret kjøles. Dersom klimaforholdene tillater det, er aktiv kjøling ikke nødvendig.En erklæring fra driftsansvarlig for det næringsmiddelforetaket som har alt opp dyret, med angivelse av dyrets identitet og eventuelle veterinærpreparater eller andre behandlinger som dyret har fått, behandlingsdatoer og tilbakeholdingstider, skal følge det avlivede dyret til slakteriet.
-►**M23**Det offisielle sertifikatet fastsatt i kapittel 5 i vedlegg IV til Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235)\* skal følge det slaktede dyret til slakteriet eller sendes på forhånd i et hvilket som helst format.\* Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017*0625) med hensyn til maler for helsesertifikater, maler for offisielle sertifikater og maler for kombinerte helsesertifikater / offisielle sertifikater til bruk ved innførsel til Unionen og forflytning i Unionen av forsendelser av visse kategorier av dyr og varer samt offisiell utstedelse av slike sertifikater, og om oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019*0628), direktiv [98/68/EF](eu/31998l0068) og vedtak [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007*0240) (EUT L 442 av 30.12.2020, s. 1).
-◄**M23**Det avlivede dyret skal være egnet til konsum etter en undersøkelse post mortem som er utført i slakteriet i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*), herunder eventuelle ytterligere prøver som kreves ved nødslakting.Driftsansvarlige for næringsmiddelforetak skal følge eventuelle instrukser angående bruken av kjøttet som den offentlige veterinæren gir etter undersøkelsen post mortem.
-►**M15**– – –
-◄**M15**
+Driftsansvarlige for næringsmiddelforetak skal sikre at kjøtt fra tamme hov- og klovdyr som er blitt nødslaktet utenfor slakteriet, kan brukes til konsum bare dersom det oppfyller alle følgende krav:
+
+1. Et dyr som ellers er friskt, skal ha vært utsatt for en ulykke som, av hensyn til dyrets velferd, forhindret at dyret kunne fraktes til slakteriet.
+   ►**M23**
+2. Den offentlige veterinæren skal utføre en kontroll ante mortem av dyret.
+3. Det avlivede og avblødde dyret skal transporteres til slakteriet på en hygienisk måte og så raskt som mulig. Uttak av mage og tarmer, men ikke annen slaktebehandling, kan utføres på stedet under tilsyn av den offentlige veterinæren. Alle indre organer som er tatt ut, skal følge det avlivede dyret til slakteriet med opplysninger om at de tilhører dette dyret.
+   ◄**M23**
+4. Dersom det går mer enn to timer mellom slakting og ankomst på slakteriet, skal dyret kjøles. Dersom klimaforholdene tillater det, er aktiv kjøling ikke nødvendig.
+5. En erklæring fra driftsansvarlig for det næringsmiddelforetaket som har alt opp dyret, med angivelse av dyrets identitet og eventuelle veterinærpreparater eller andre behandlinger som dyret har fått, behandlingsdatoer og tilbakeholdingstider, skal følge det avlivede dyret til slakteriet.
+   ►**M23**
+6. Det offisielle sertifikatet fastsatt i kapittel 5 i vedlegg IV til Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235)\* skal følge det slaktede dyret til slakteriet eller sendes på forhånd i et hvilket som helst format.
+
+   \* Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017*0625) med hensyn til maler for helsesertifikater, maler for offisielle sertifikater og maler for kombinerte helsesertifikater / offisielle sertifikater til bruk ved innførsel til Unionen og forflytning i Unionen av forsendelser av visse kategorier av dyr og varer samt offisiell utstedelse av slike sertifikater, og om oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019*0628), direktiv [98/68/EF](eu/31998l0068) og vedtak [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007*0240) (EUT L 442 av 30.12.2020, s. 1).
+
+   ◄**M23**
+7. Det avlivede dyret skal være egnet til konsum etter en undersøkelse post mortem som er utført i slakteriet i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*), herunder eventuelle ytterligere prøver som kreves ved nødslakting.
+8. Driftsansvarlige for næringsmiddelforetak skal følge eventuelle instrukser angående bruken av kjøttet som den offentlige veterinæren gir etter undersøkelsen post mortem.
+   ►**M15**
+9. – – –
+   ◄**M15**
 
 ###### ►**M27** Kapittel VIa: Annen slakting enn nødslakting på opprinnelsesenheten av annet tamstorfe enn bison, sau, geit og svin og enhovede husdyr ◄**M27**
 
-►**M27** Opptil tre tamstorfe, unntatt bison, eller opptil tre enhovede husdyr, eller opptil seks tamsvin eller opptil ni sauer eller geiter kan slaktes samtidig på opprinnelsesenheten, dersom vedkommende myndighet tillater det, i samsvar med følgende krav: ◄**M27**(Opphevet)Det foreligger en avtale mellom slakteriet og eieren av dyret som er beregnet på slakting. Eieren skal underrette vedkommende myndighet skriftlig om en slik avtale.Slakteriet eller eieren av dyrene som skal slaktes, må underrette den offentlige veterinæren om datoen og tidspunktet for slaktingen minst tre dager før den planlagte slaktingen av dyrene.Den offentlige veterinæren som foretar kontrollen ante mortem av dyret beregnet på slakting, skal være til stede på slaktetidspunktet.Den mobile enheten som skal brukes til avbløding og transport av de slaktede dyrene til slakteriet, skal muliggjøre hygienisk håndtering og avbløding av dyrene og riktig disponering av blod, og skal være en del av et slakteri som er godkjent av vedkommende myndighet i samsvar med artikkel 4 nr. 2. Vedkommende myndighet kan imidlertid tillate avbløding utenfor den mobile enheten dersom blodet ikke er beregnet på konsum, og slaktingen ikke finner sted i restriksjonssoner som definert i artikkel 4 nr. 41 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429)\* eller virksomheter der det anvendes dyrehelserestriksjoner i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og eventuelle rettsakter vedtatt på grunnlag av den.De slaktede og avblødde dyrene skal så snart som mulig transporteres direkte til slakteriet på en hygienisk måte; uttak av mage og tarmer, men ikke annen slaktebehandling, kan utføres på stedet under tilsyn av den offentlige veterinæren; alle indre organer som er tatt ut, skal følge det avlivede dyret til slakteriet med opplysninger om at de tilhører dette dyret.Dersom det går mer enn to timer mellom tidspunktet for slakting av det første dyret og tidspunktet de slaktede dyrene ankommer slakteriet, skal de slaktede dyrene kjøles. Aktiv kjøling er ikke nødvendig dersom klimaforholdene tillater det.Dyreeieren skal på forhånd underrette slakteriet om tidspunktet de slaktede dyrene ventes å ankomme, og dyrene skal håndteres uten unødig opphold etter ankomst til slakteriet.I tillegg til opplysningene om næringsmiddelkjeden som skal framlegges i samsvar med avsnitt III i vedlegg II til denne forordningen, skal det offisielle sertifikatet fastsatt i kapittel 3 i vedlegg IV til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) følge de slaktede dyrene til slakteriet eller sendes på forhånd i et hvilket som helst format.
+►**M27** Opptil tre tamstorfe, unntatt bison, eller opptil tre enhovede husdyr, eller opptil seks tamsvin eller opptil ni sauer eller geiter kan slaktes samtidig på opprinnelsesenheten, dersom vedkommende myndighet tillater det, i samsvar med følgende krav: ◄**M27**
+
+1. (Opphevet)
+2. Det foreligger en avtale mellom slakteriet og eieren av dyret som er beregnet på slakting. Eieren skal underrette vedkommende myndighet skriftlig om en slik avtale.
+3. Slakteriet eller eieren av dyrene som skal slaktes, må underrette den offentlige veterinæren om datoen og tidspunktet for slaktingen minst tre dager før den planlagte slaktingen av dyrene.
+4. Den offentlige veterinæren som foretar kontrollen ante mortem av dyret beregnet på slakting, skal være til stede på slaktetidspunktet.
+5. Den mobile enheten som skal brukes til avbløding og transport av de slaktede dyrene til slakteriet, skal muliggjøre hygienisk håndtering og avbløding av dyrene og riktig disponering av blod, og skal være en del av et slakteri som er godkjent av vedkommende myndighet i samsvar med artikkel 4 nr. 2. Vedkommende myndighet kan imidlertid tillate avbløding utenfor den mobile enheten dersom blodet ikke er beregnet på konsum, og slaktingen ikke finner sted i restriksjonssoner som definert i artikkel 4 nr. 41 i europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429)\* eller virksomheter der det anvendes dyrehelserestriksjoner i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og eventuelle rettsakter vedtatt på grunnlag av den.
+6. De slaktede og avblødde dyrene skal så snart som mulig transporteres direkte til slakteriet på en hygienisk måte; uttak av mage og tarmer, men ikke annen slaktebehandling, kan utføres på stedet under tilsyn av den offentlige veterinæren; alle indre organer som er tatt ut, skal følge det avlivede dyret til slakteriet med opplysninger om at de tilhører dette dyret.
+7. Dersom det går mer enn to timer mellom tidspunktet for slakting av det første dyret og tidspunktet de slaktede dyrene ankommer slakteriet, skal de slaktede dyrene kjøles. Aktiv kjøling er ikke nødvendig dersom klimaforholdene tillater det.
+8. Dyreeieren skal på forhånd underrette slakteriet om tidspunktet de slaktede dyrene ventes å ankomme, og dyrene skal håndteres uten unødig opphold etter ankomst til slakteriet.
+9. I tillegg til opplysningene om næringsmiddelkjeden som skal framlegges i samsvar med avsnitt III i vedlegg II til denne forordningen, skal det offisielle sertifikatet fastsatt i kapittel 3 i vedlegg IV til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) følge de slaktede dyrene til slakteriet eller sendes på forhånd i et hvilket som helst format.
 
 \* Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen») (EUT L 84 av 31.3.2016, s. 1).
 
@@ -1031,57 +1386,260 @@ Driftsansvarlige for næringsmiddelforetak skal sikre at kjøtt fra tamme hov- o
 
 ###### Kapittel VII: Lagring og transport
 
-Driftsansvarlige for næringsmiddelforetak skal sikre at lagring og transport av kjøtt fra tamme hov- og klovdyr utføres i samsvar med følgende krav:Med mindre andre særlige bestemmelser angir noe annet, skal kjøttet etter undersøkelse post mortem omgående kjøles i slakteriet for å sikre en temperatur gjennom hele kjøttet på høyst 3 °C for slaktebiprodukter og 7 °C for annet kjøtt, på en slik måte at kjølekurven gir en kontinuerlig senking av temperaturen. Kjøtt kan imidlertid nedskjæres og utbeines under kjøling i samsvar med kapittel V punkt 4.Under kjølingen skal det være tilstrekkelig ventilasjon til å unngå kondens på kjøttets overflate.Kjøtt skal oppnå den temperaturen som er angitt i punkt 1, og holde denne temperaturen under lagringen.
-►**M27**I dette nummer menes med «tørrmodning» lagring av ferskt kjøtt under aerobe forhold med hengende skrotter eller stykningsdeler enten uemballert eller pakket i poser som er gjennomtrengelige for vanndamp, i et kjølerom eller kjøleskap, som får modnes i flere uker under kontrollerte miljøforhold med hensyn til temperatur, relativ luftfuktighet og luftstrøm.Før storfekjøtt som skal modnes, bringes i omsetning eller fryses ned, skal det oppbevares ved en overflatetemperatur på -0,5-3,0 C, med en relativ luftfuktighet på høyst 85 % og en luftstrøm på 0,2-0,5 m/s i et eget rom eller skap i høyst 35 dager fra slutten av stabiliseringsperioden ved slakting. Driftsansvarlige for næringsmiddelforetak kan imidlertid anvende andre kombinasjoner av overflatetemperatur, relativ luftfuktighet, luftstrøm og tid, eller foreta tørrmodning av kjøtt av andre arter, dersom de godtgjør overfor vedkommende myndighet at det gis tilsvarende garantier for at kjøttet er trygt.I tillegg skal følgende særlige tiltak treffes:Tørrmodningen skal start umiddelbart etter stabiliseringsperioden ved slakting og skal ikke forsinkes unødig av nedskjæring og/eller transport til en virksomhet som utfører tørrmodningen.Kjøttet skal ikke lastes inn i rommet eller skapet før temperaturen og den relative luftfuktigheten nevnt i andre ledd, er oppnådd.Kjøttet skal henges fra beinet, alternativt oppbevares på en hylle dersom det sikres tilstrekkelig perforering til å lette luftstrømmen og det sørges for regelmessig dreining ved hjelp av hygieniske metoder.Det kan brukes høyere luftstrøm ved starten av tørrmodningsprosessen for å lette tidlig skorpeutvikling og redusere vannaktiviteten i kjøttets overflate.Termometre, sonder for relativ luftfuktighet og annet utstyr for nøyaktig overvåking og tilrettelegging av kontroll av rom- eller skapforhold, må brukes.Luft som forlater fordamperen, returnerer til fordamperen og som kommer i kontakt med storfekjøttet, må filtreres eller UV-behandles.Når skorpen trimmes, skal det utføres på en hygienisk måte.◄**M27**
-► **M19**Kjøtt skal nå temperaturen angitt i nr. 1 før transport og holde denne temperaturen under transporten.
-Imidlertid gjelder bokstav a) og b) nedenfor.Transport av kjøtt for produksjon av bestemte produkter kan finne sted før temperaturen angitt i nr. 1 er nådd, dersom vedkommende myndighet tillater det, forutsatt attransporten skjer i samsvar med de kravene som vedkommende myndigheter i opprinnelses- og bestemmelsesstaten fastsetter for transport fra en bestemt virksomhet til en annen,kjøttet omgående forlater slakteriet eller et nedskjæringsrom som ligger på samme sted som slakteriet, og transporten tar høyst to timer,
-ogtransporten er berettiget av tekniske årsaker.Transport av hele, halve eller kvarte skrotter, eller halve skrotter oppdelt i tre stykker for engrossalg, av sauer, geiter, storfe og svin kan påbegynnes før temperaturen angitt i nr. 1 er nådd, forutsatt at følgende vilkår er oppfylt:Temperaturen overvåkes og registreres innenfor rammen av framgangsmåtene basert på HACCP-prinsippene.Driftsansvarlige for næringsmiddelforetak som sender og transporterer de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg, har fått skriftlig tillatelse fra vedkommende myndighet på avgangsstedet til å gjøre bruk av dette unntaket.Kjøretøyet som transporterer de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg, er utstyrt med et instrument som overvåker og registrerer lufttemperaturene som de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg utsettes for, på en slik måte at vedkommende myndigheter kan verifisere samsvar med tids- og temperaturforholdene angitt i punkt viii).
-►**M27**Kjøretøyet som transporterer de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg, samler per transport inn kjøtt fra maksimalt tre slakterier eller fra ett kjølelager som samler inn direkte fra slakterier. Alle kravene fastsatt i denne bokstav b) gjelder for alle laster med hele, halve eller kvarte skrotter eller halve skrotter oppdelt i tre stykker for engrossalg, som sendes fra slakteriet eller kjølelageret som samles inn fra ovennevnte slakteri.Hele, halve eller kvarte skrotter eller halve skrotter oppdelt i tre stykker for engrossalg, skal ha en kjernetemperatur på 15 °C ved begynnelsen av transporten dersom de skal transporteres i samme rom som kjøtt som oppfyller temperaturkravet i nr. 1 for slakteavfall og 7 °C for annet kjøtt.Forsendelsen ledsages av en erklæring fra den driftsansvarlige for næringsmiddelforetaket; denne erklæringen skal angi varigheten av kjøling før første lasting, tidspunktet da den første lastingen av de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg ble påbegynt, overflatetemperaturen på det tidspunktet, den høyeste lufttemperaturen under transport som de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg kan utsettes for, den lengste tillatte transporttiden, godkjenningsdatoen og navnet på vedkommende myndighet som godkjenner transporten i samsvar med punkt ii).Den driftsansvarlige for næringsmiddelforetaket på bestemmelsesstedet underretter vedkommende myndighet før denne første gang mottar hele, halve eller kvarte skrotter eller halve skrotter oppdelt i tre stykker for engrossalg, som ikke har nådd temperaturen angitt i nr. 1 før transport.Slikt kjøtt transporteres i samsvar med følgende parametere:Ved en maksimal transporttid\* på seks timer:*Art**Overflate­temperatur*1*Maksimal tid til å kjøle til overflate­temperatur*2*Maksimal lufttemperatur ved transport*3*Maksimal daglig middelverdi for aerobe kimtall på skrotter*4Sauer og geiter7 °C8 timer6 °Clog10 3,5 cfu/cm2Storfe20 timerlog10 3,5 cfu/cm2Svin16 timerlog10 4 cfu/cm21 Maksimal tillatt overflatetemperatur ved lasting og deretter målinger på den tykkeste delen av de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg.2 Maksimal tillatt tid fra tidspunktet for avliving til maksimal tillatt overflatetemperatur ved lasting er nådd.3 Maksimal lufttemperatur som kjøttet kan utsettes for fra det tidspunktet lastingen starter, og så lenge transporten varer.4 Maksimal daglig middelverdi for aerobe kimtall på skrotter i slakterier ved bruk av en rullerende periode på 10 uker, som er tillatt for skrotter av de relevante artene, som vurdert av den driftsansvarlige og godkjent av vedkommende myndighet, i samsvar med prøvetakings- og prøvingsmetodene angitt i kapittel 2 nr. 2.1.1 og 2.1.2 og kapittel 3 nr. 3.2 i [vedlegg I til kommisjonsforordning (EF) nr. 2073/2005](eu/32005r2073/vedleggI) av 15. november 2005 om mikrobiologiske kriterier for næringsmidler (EUT L 338 av 22.12.2005, s. 1).Den maksimalt tillatte transporttiden kan forlenges til 30 timer dersom en kjernetemperatur under 15°C er nådd før begynnelsen av transporten.Ved en maksimal transporttid\*\* på 60 timer:*Art**Overflate­temperatur*1*Maksimal tid til å kjøle til overflate­temperatur*2*Kjerne­temperatur*3*Maksimal luft­temperatur ved transport*4*Maksimal daglig middelverdi for aerobe kimtall på skrotter*5Sauer og geiter4 °C12 timer15 °C3 °Clog10 3 cfu/cm2Storfe24 timer1 Maksimal tillatt overflatetemperatur ved lasting og deretter målinger på den tykkeste delen av de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg.2 Maksimal tillatt tid fra tidspunktet for avliving til maksimal tillatt overflatetemperatur ved lasting er nådd.3 Maksimal kjernetemperatur som tillates i kjøttet på og etter tidspunktet for lasting.4 Maksimal lufttemperatur som kjøttet kan utsettes for fra det tidspunktet lastingen starter, og så lenge transporten varer.5 Maksimal daglig middelverdi for aerobe kimtall på skrotter i slakterier ved bruk av en rullerende periode på 10 uker, som er tillatt for skrotter av de relevante artene, som vurdert av den driftsansvarlige og godkjent av vedkommende myndighet, i samsvar med prøvetakings- og prøvingsmetodene angitt i kapittel 2 nr. 2.1.1 og 2.1.2 og kapittel 3 nr. 3.2 i [vedlegg I til forordning (EF) nr. 2073/2005](eu/32005r2073/vedleggI).Metoder for måling av overflatetemperatur skal valideres, og følgende metode skal benyttes som referansemetode:Det skal brukes et termometer som er kalibrert i samsvar med siste versjon av ISO 13485.Sensoren skal innføres vinkelrett i den tykkeste delen med en dybde av 0,5 til 1 cm av den ytre delen av entenskulderen ellerbeinet for storfe, sau og geit eller skinken, eller den indre overflaten av skinken i den midtre øvre delen for svin.Fem temperaturmålinger skal utføres på følgende måte:
+Driftsansvarlige for næringsmiddelforetak skal sikre at lagring og transport av kjøtt fra tamme hov- og klovdyr utføres i samsvar med følgende krav:
 
-– Minst én av de fem målingene skal være under kravene til overflatetemperatur fastsatt i punkt viii).\* Maksimal tillatt tid fra lastingen av kjøtt i kjøretøyet starter, til den endelige leveringen er avsluttet. Lastingen av kjøttet i kjøretøyet kan utsettes utover den maksimale tiden som tillates til kjøling av kjøttet til dets angitte overflatetemperatur. Dersom dette skjer, skal den maksimale tillatte transporttiden forkortes med like lang tid som lastingen ble utsatt. Vedkommende myndighet i bestemmelsesmedlemsstaten kan begrense antallet leveringspunkter.\*\* Maksimal tillatt tid fra lastingen av kjøtt i kjøretøyet starter, til den endelige leveringen er avsluttet. Lastingen av kjøttet i kjøretøyet kan utsettes utover den maksimale tiden som tillates til kjøling av kjøttet til dets angitte overflatetemperatur. Dersom dette skjer, skal den maksimale tillatte transporttiden forkortes med like lang tid som lastingen ble utsatt. Vedkommende myndighet i bestemmelsesmedlemsstaten kan begrense antallet leveringspunkter.◄**M27**
-►**M23**Kjøtt beregnet på frysing, skal fryses så raskt som mulig, men kan etter behov stabiliseres i en tid før frysingen.Driftsansvarlige for næringsmiddelforetak som utfører detaljistvirksomhet, kan imidlertid fryse kjøtt med henblikk på redistribuering til næringsmiddeldonasjoner på følgende vilkår:Innfrysing av kjøtt som har en siste forbruksdato i samsvar med artikkel 24 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169)\*, må skje innen utløpet av denne datoen.Innfrysingen må skje uten unødig opphold til en temperatur på -18 °C eller lavere.Det må sikres at datoen for innfrysing dokumenteres og angis enten på etiketten eller på andre måter.Kjøtt som har vært fryst før (avrimet kjøtt) må ikke fryses igjen.Innfrysing skal skje i samsvar med eventuelle vilkår fastsatt av vedkommende myndigheter for innfrysing og videre bruk som næringsmiddel.\* Europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne, om endring av europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) og [(EF) nr. 1925/2006](eu/32006r1925) og om oppheving av kommisjonsdirektiv [87/250/EØF](eu/31987l0250), rådsdirektiv [90/496/EØF](eu/31990l0496), kommisjonsdirektiv [1999/10/EF](eu/31999l0010), europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013), kommisjonsdirektiv [2002/67/EF](eu/32002l0067) og [2008/5/EF](eu/32008l0005) og kommisjonsforordning [(EF) nr. 608/2004](eu/32004r0608) (EUT L 304 av 22.11.2011, s. 18).◄**M23**Uemballert kjøtt må lagres og transporteres atskilt fra emballert kjøtt, med mindre det lagres eller transporteres på forskjellige tidspunkter eller på en slik måte at emballasjematerialet og lagrings- eller transportmåten ikke utgjør en forurensningskilde for kjøttet.
+- 1. Med mindre andre særlige bestemmelser angir noe annet, skal kjøttet etter undersøkelse post mortem omgående kjøles i slakteriet for å sikre en temperatur gjennom hele kjøttet på høyst 3 °C for slaktebiprodukter og 7 °C for annet kjøtt, på en slik måte at kjølekurven gir en kontinuerlig senking av temperaturen. Kjøtt kan imidlertid nedskjæres og utbeines under kjøling i samsvar med kapittel V punkt 4.
+  2. Under kjølingen skal det være tilstrekkelig ventilasjon til å unngå kondens på kjøttets overflate.
+- Kjøtt skal oppnå den temperaturen som er angitt i punkt 1, og holde denne temperaturen under lagringen.
+  ►**M27**
+- I dette nummer menes med «tørrmodning» lagring av ferskt kjøtt under aerobe forhold med hengende skrotter eller stykningsdeler enten uemballert eller pakket i poser som er gjennomtrengelige for vanndamp, i et kjølerom eller kjøleskap, som får modnes i flere uker under kontrollerte miljøforhold med hensyn til temperatur, relativ luftfuktighet og luftstrøm.
+
+  Før storfekjøtt som skal modnes, bringes i omsetning eller fryses ned, skal det oppbevares ved en overflatetemperatur på -0,5-3,0 C, med en relativ luftfuktighet på høyst 85 % og en luftstrøm på 0,2-0,5 m/s i et eget rom eller skap i høyst 35 dager fra slutten av stabiliseringsperioden ved slakting. Driftsansvarlige for næringsmiddelforetak kan imidlertid anvende andre kombinasjoner av overflatetemperatur, relativ luftfuktighet, luftstrøm og tid, eller foreta tørrmodning av kjøtt av andre arter, dersom de godtgjør overfor vedkommende myndighet at det gis tilsvarende garantier for at kjøttet er trygt.
+
+  I tillegg skal følgende særlige tiltak treffes:
+
+  1. Tørrmodningen skal start umiddelbart etter stabiliseringsperioden ved slakting og skal ikke forsinkes unødig av nedskjæring og/eller transport til en virksomhet som utfører tørrmodningen.
+  2. Kjøttet skal ikke lastes inn i rommet eller skapet før temperaturen og den relative luftfuktigheten nevnt i andre ledd, er oppnådd.
+  3. Kjøttet skal henges fra beinet, alternativt oppbevares på en hylle dersom det sikres tilstrekkelig perforering til å lette luftstrømmen og det sørges for regelmessig dreining ved hjelp av hygieniske metoder.
+  4. Det kan brukes høyere luftstrøm ved starten av tørrmodningsprosessen for å lette tidlig skorpeutvikling og redusere vannaktiviteten i kjøttets overflate.
+  5. Termometre, sonder for relativ luftfuktighet og annet utstyr for nøyaktig overvåking og tilrettelegging av kontroll av rom- eller skapforhold, må brukes.
+  6. Luft som forlater fordamperen, returnerer til fordamperen og som kommer i kontakt med storfekjøttet, må filtreres eller UV-behandles.
+  7. Når skorpen trimmes, skal det utføres på en hygienisk måte.
+
+  ◄**M27**
+  ► **M19**
+- Kjøtt skal nå temperaturen angitt i nr. 1 før transport og holde denne temperaturen under transporten.
+  Imidlertid gjelder bokstav a) og b) nedenfor.
+
+  1. Transport av kjøtt for produksjon av bestemte produkter kan finne sted før temperaturen angitt i nr. 1 er nådd, dersom vedkommende myndighet tillater det, forutsatt at
+
+     1. transporten skjer i samsvar med de kravene som vedkommende myndigheter i opprinnelses- og bestemmelsesstaten fastsetter for transport fra en bestemt virksomhet til en annen,
+     2. kjøttet omgående forlater slakteriet eller et nedskjæringsrom som ligger på samme sted som slakteriet, og transporten tar høyst to timer,
+        og
+     3. transporten er berettiget av tekniske årsaker.
+  2. Transport av hele, halve eller kvarte skrotter, eller halve skrotter oppdelt i tre stykker for engrossalg, av sauer, geiter, storfe og svin kan påbegynnes før temperaturen angitt i nr. 1 er nådd, forutsatt at følgende vilkår er oppfylt:
+
+     1. Temperaturen overvåkes og registreres innenfor rammen av framgangsmåtene basert på HACCP-prinsippene.
+     2. Driftsansvarlige for næringsmiddelforetak som sender og transporterer de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg, har fått skriftlig tillatelse fra vedkommende myndighet på avgangsstedet til å gjøre bruk av dette unntaket.
+     3. Kjøretøyet som transporterer de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg, er utstyrt med et instrument som overvåker og registrerer lufttemperaturene som de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg utsettes for, på en slik måte at vedkommende myndigheter kan verifisere samsvar med tids- og temperaturforholdene angitt i punkt viii).
+        ►**M27**
+     4. Kjøretøyet som transporterer de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg, samler per transport inn kjøtt fra maksimalt tre slakterier eller fra ett kjølelager som samler inn direkte fra slakterier. Alle kravene fastsatt i denne bokstav b) gjelder for alle laster med hele, halve eller kvarte skrotter eller halve skrotter oppdelt i tre stykker for engrossalg, som sendes fra slakteriet eller kjølelageret som samles inn fra ovennevnte slakteri.
+     5. Hele, halve eller kvarte skrotter eller halve skrotter oppdelt i tre stykker for engrossalg, skal ha en kjernetemperatur på 15 °C ved begynnelsen av transporten dersom de skal transporteres i samme rom som kjøtt som oppfyller temperaturkravet i nr. 1 for slakteavfall og 7 °C for annet kjøtt.
+     6. Forsendelsen ledsages av en erklæring fra den driftsansvarlige for næringsmiddelforetaket; denne erklæringen skal angi varigheten av kjøling før første lasting, tidspunktet da den første lastingen av de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg ble påbegynt, overflatetemperaturen på det tidspunktet, den høyeste lufttemperaturen under transport som de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg kan utsettes for, den lengste tillatte transporttiden, godkjenningsdatoen og navnet på vedkommende myndighet som godkjenner transporten i samsvar med punkt ii).
+     7. Den driftsansvarlige for næringsmiddelforetaket på bestemmelsesstedet underretter vedkommende myndighet før denne første gang mottar hele, halve eller kvarte skrotter eller halve skrotter oppdelt i tre stykker for engrossalg, som ikke har nådd temperaturen angitt i nr. 1 før transport.
+     8. Slikt kjøtt transporteres i samsvar med følgende parametere:
+
+        - Ved en maksimal transporttid\* på seks timer:
+
+          | *Art* | *Overflate­temperatur*1 | *Maksimal tid til å kjøle til overflate­temperatur*2 | *Maksimal lufttemperatur ved transport*3 | *Maksimal daglig middelverdi for aerobe kimtall på skrotter*4 |
+          | --- | --- | --- | --- | --- |
+          | Sauer og geiter | 7 °C | 8 timer | 6 °C | log10 3,5 cfu/cm2 |
+          | Storfe | 20 timer | log10 3,5 cfu/cm2 |  |  |
+          | Svin | 16 timer | log10 4 cfu/cm2 |  |  |
+
+          1 Maksimal tillatt overflatetemperatur ved lasting og deretter målinger på den tykkeste delen av de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg.
+
+          2 Maksimal tillatt tid fra tidspunktet for avliving til maksimal tillatt overflatetemperatur ved lasting er nådd.
+
+          3 Maksimal lufttemperatur som kjøttet kan utsettes for fra det tidspunktet lastingen starter, og så lenge transporten varer.
+
+          4 Maksimal daglig middelverdi for aerobe kimtall på skrotter i slakterier ved bruk av en rullerende periode på 10 uker, som er tillatt for skrotter av de relevante artene, som vurdert av den driftsansvarlige og godkjent av vedkommende myndighet, i samsvar med prøvetakings- og prøvingsmetodene angitt i kapittel 2 nr. 2.1.1 og 2.1.2 og kapittel 3 nr. 3.2 i [vedlegg I til kommisjonsforordning (EF) nr. 2073/2005](eu/32005r2073/vedleggI) av 15. november 2005 om mikrobiologiske kriterier for næringsmidler (EUT L 338 av 22.12.2005, s. 1).
+
+          Den maksimalt tillatte transporttiden kan forlenges til 30 timer dersom en kjernetemperatur under 15°C er nådd før begynnelsen av transporten.
+        - Ved en maksimal transporttid\*\* på 60 timer:
+
+          | *Art* | *Overflate­temperatur*1 | *Maksimal tid til å kjøle til overflate­temperatur*2 | *Kjerne­temperatur*3 | *Maksimal luft­temperatur ved transport*4 | *Maksimal daglig middelverdi for aerobe kimtall på skrotter*5 |
+          | --- | --- | --- | --- | --- | --- |
+          | Sauer og geiter | 4 °C | 12 timer | 15 °C | 3 °C | log10 3 cfu/cm2 |
+          | Storfe | 24 timer |  |  |  |  |
+
+          1 Maksimal tillatt overflatetemperatur ved lasting og deretter målinger på den tykkeste delen av de hele, halve eller kvarte skrottene eller de halve skrottene oppdelt i tre stykker for engrossalg.
+
+          2 Maksimal tillatt tid fra tidspunktet for avliving til maksimal tillatt overflatetemperatur ved lasting er nådd.
+
+          3 Maksimal kjernetemperatur som tillates i kjøttet på og etter tidspunktet for lasting.
+
+          4 Maksimal lufttemperatur som kjøttet kan utsettes for fra det tidspunktet lastingen starter, og så lenge transporten varer.
+
+          5 Maksimal daglig middelverdi for aerobe kimtall på skrotter i slakterier ved bruk av en rullerende periode på 10 uker, som er tillatt for skrotter av de relevante artene, som vurdert av den driftsansvarlige og godkjent av vedkommende myndighet, i samsvar med prøvetakings- og prøvingsmetodene angitt i kapittel 2 nr. 2.1.1 og 2.1.2 og kapittel 3 nr. 3.2 i [vedlegg I til forordning (EF) nr. 2073/2005](eu/32005r2073/vedleggI).
+     9. Metoder for måling av overflatetemperatur skal valideres, og følgende metode skal benyttes som referansemetode:
+
+        - Det skal brukes et termometer som er kalibrert i samsvar med siste versjon av ISO 13485.
+        - Sensoren skal innføres vinkelrett i den tykkeste delen med en dybde av 0,5 til 1 cm av den ytre delen av enten
+
+          1. skulderen eller
+          2. beinet for storfe, sau og geit eller skinken, eller den indre overflaten av skinken i den midtre øvre delen for svin.
+        - Fem temperaturmålinger skal utføres på følgende måte:
+
+          – Minst én av de fem målingene skal være under kravene til overflatetemperatur fastsatt i punkt viii).
+
+          \* Maksimal tillatt tid fra lastingen av kjøtt i kjøretøyet starter, til den endelige leveringen er avsluttet. Lastingen av kjøttet i kjøretøyet kan utsettes utover den maksimale tiden som tillates til kjøling av kjøttet til dets angitte overflatetemperatur. Dersom dette skjer, skal den maksimale tillatte transporttiden forkortes med like lang tid som lastingen ble utsatt. Vedkommende myndighet i bestemmelsesmedlemsstaten kan begrense antallet leveringspunkter.
+
+          \*\* Maksimal tillatt tid fra lastingen av kjøtt i kjøretøyet starter, til den endelige leveringen er avsluttet. Lastingen av kjøttet i kjøretøyet kan utsettes utover den maksimale tiden som tillates til kjøling av kjøttet til dets angitte overflatetemperatur. Dersom dette skjer, skal den maksimale tillatte transporttiden forkortes med like lang tid som lastingen ble utsatt. Vedkommende myndighet i bestemmelsesmedlemsstaten kan begrense antallet leveringspunkter.
+
+  ◄**M27**
+  ►**M23**
+- Kjøtt beregnet på frysing, skal fryses så raskt som mulig, men kan etter behov stabiliseres i en tid før frysingen.
+
+  Driftsansvarlige for næringsmiddelforetak som utfører detaljistvirksomhet, kan imidlertid fryse kjøtt med henblikk på redistribuering til næringsmiddeldonasjoner på følgende vilkår:
+
+  1. Innfrysing av kjøtt som har en siste forbruksdato i samsvar med artikkel 24 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169)\*, må skje innen utløpet av denne datoen.
+  2. Innfrysingen må skje uten unødig opphold til en temperatur på -18 °C eller lavere.
+  3. Det må sikres at datoen for innfrysing dokumenteres og angis enten på etiketten eller på andre måter.
+  4. Kjøtt som har vært fryst før (avrimet kjøtt) må ikke fryses igjen.
+  5. Innfrysing skal skje i samsvar med eventuelle vilkår fastsatt av vedkommende myndigheter for innfrysing og videre bruk som næringsmiddel.
+
+     \* Europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne, om endring av europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) og [(EF) nr. 1925/2006](eu/32006r1925) og om oppheving av kommisjonsdirektiv [87/250/EØF](eu/31987l0250), rådsdirektiv [90/496/EØF](eu/31990l0496), kommisjonsdirektiv [1999/10/EF](eu/31999l0010), europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013), kommisjonsdirektiv [2002/67/EF](eu/32002l0067) og [2008/5/EF](eu/32008l0005) og kommisjonsforordning [(EF) nr. 608/2004](eu/32004r0608) (EUT L 304 av 22.11.2011, s. 18).
+
+  ◄**M23**
+- Uemballert kjøtt må lagres og transporteres atskilt fra emballert kjøtt, med mindre det lagres eller transporteres på forskjellige tidspunkter eller på en slik måte at emballasjematerialet og lagrings- eller transportmåten ikke utgjør en forurensningskilde for kjøttet.
 
 ### Avsnitt II: Kjøtt fra fjørfe og haredyr
 
 ###### Kapittel I: Transport av levende dyr til slakteriet
 
-Driftsansvarlige for næringsmiddelforetak som transporterer levende dyr til slakterier, skal sikre at følgende krav oppfylles:Under innsamling og transport skal dyrene håndteres forsiktig, slik at de ikke utsettes for unødig lidelse.Dyr som viser symptomer på sykdom, eller som kommer fra flokker som er smittet med agenser som har betydning for folkehelsen, kan transporteres til slakteriet bare når vedkommende myndighet tillater det.Kasser for levering av dyr til slakteriet og moduler, dersom slike brukes, skal være framstilt av korrosjonsbestandig materiale og være lette å rengjøre og desinfisere. Alt utstyr som brukes til innsamling og levering av levende dyr, skal rengjøres, vaskes og desinfiseres så snart det er tømt og om nødvendig før det brukes igjen.
+Driftsansvarlige for næringsmiddelforetak som transporterer levende dyr til slakterier, skal sikre at følgende krav oppfylles:
+
+1. Under innsamling og transport skal dyrene håndteres forsiktig, slik at de ikke utsettes for unødig lidelse.
+2. Dyr som viser symptomer på sykdom, eller som kommer fra flokker som er smittet med agenser som har betydning for folkehelsen, kan transporteres til slakteriet bare når vedkommende myndighet tillater det.
+3. Kasser for levering av dyr til slakteriet og moduler, dersom slike brukes, skal være framstilt av korrosjonsbestandig materiale og være lette å rengjøre og desinfisere. Alt utstyr som brukes til innsamling og levering av levende dyr, skal rengjøres, vaskes og desinfiseres så snart det er tømt og om nødvendig før det brukes igjen.
 
 ###### Kapittel II: Krav til slakterier
 
-►**M27** Driftsansvarlige for næringsmiddelforetak skal sikre at slakterier der fjørfe eller haredyr slaktes, er oppført og har planløsning og utstyr som oppfyller kravene i følgende nr. 1–7. Mobile delslakterier skal drives i samarbeid med komplementære permanente slakterier for å utgjøre et komplett slakteri som oppfyller kravene fastsatt i følgende nr. 1–7. Mobile delslakterier kan drives sammen med flere komplementære slakterier, og dermed utgjøre flere slakterier. ◄**M27**De skal ha et lokale eller et overdekket område der dyrene kan mottas og kontrolleres før slakting.For å unngå forurensning av kjøttet, skal de:ha tilstrekkelig mange lokaler til det arbeidet som skal utføres,ha et eget lokale til uttak av indre organer og videre slaktebehandling, herunder tilsetning av smaksingredienser til hele fjørfeskrotter, med mindre vedkommende myndighet i hvert enkelt tilfelle tillater at disse arbeidsoperasjonene utføres på forskjellige tidspunkter i et bestemt slakteri,sikre at følgende arbeidsoperasjoner utføres på forskjellige tidspunkter og steder:bedøving og avbløding,ribbing eller flåing, og eventuelt skålding,
-ogforsendelse av kjøtt,ha installasjoner som hindrer at kjøttet kommer i kontakt med gulv, vegger og inventar,
-ogha slaktelinjer som (der de benyttes) er utformet slik at slakteprosessen kan pågå uten avbrudd, og slik at kryssforurensning mellom de forskjellige delene av slaktelinjen unngås. Dersom det benyttes mer enn én slaktelinje i de samme lokalene, skal linjene være tilstrekkelig atskilt til å hindre kryssforurensning.De skal ha utstyr for å desinfisere redskaper med varmt vann med en temperatur på minst 82 °C, eller et alternativt system med tilsvarende virkning.Håndvaskene som brukes av det personalet som håndterer uemballert kjøtt, skal ha kraner som er utformet slik at de hindrer spredning av forurensning.Det skal finnes låsbare lokaler eller innretninger til kjølelagring av tilbakeholdt kjøtt og egne låsbare lokaler eller innretninger til lagring av kjøtt som er erklært uegnet til konsum.Det skal finnes et separat sted med hensiktsmessige innretninger for rengjøring, vask og desinfisering av:transportutstyr som for eksempel kasser,
-ogtransportmidler.Slike steder og innretninger er ikke obligatoriske for bokstav b) dersom det finnes offentlig godkjente steder og innretninger i nærheten.Det skal finnes en hensiktsmessig utstyrt og låsbar innretning, eller om nødvendig et rom, som skal brukes utelukkende av veterinærmyndigheten.
+►**M27** Driftsansvarlige for næringsmiddelforetak skal sikre at slakterier der fjørfe eller haredyr slaktes, er oppført og har planløsning og utstyr som oppfyller kravene i følgende nr. 1–7. Mobile delslakterier skal drives i samarbeid med komplementære permanente slakterier for å utgjøre et komplett slakteri som oppfyller kravene fastsatt i følgende nr. 1–7. Mobile delslakterier kan drives sammen med flere komplementære slakterier, og dermed utgjøre flere slakterier. ◄**M27**
+
+1. De skal ha et lokale eller et overdekket område der dyrene kan mottas og kontrolleres før slakting.
+2. For å unngå forurensning av kjøttet, skal de:
+
+   1. ha tilstrekkelig mange lokaler til det arbeidet som skal utføres,
+   2. ha et eget lokale til uttak av indre organer og videre slaktebehandling, herunder tilsetning av smaksingredienser til hele fjørfeskrotter, med mindre vedkommende myndighet i hvert enkelt tilfelle tillater at disse arbeidsoperasjonene utføres på forskjellige tidspunkter i et bestemt slakteri,
+   3. sikre at følgende arbeidsoperasjoner utføres på forskjellige tidspunkter og steder:
+
+      1. bedøving og avbløding,
+      2. ribbing eller flåing, og eventuelt skålding,
+         og
+      3. forsendelse av kjøtt,
+   4. ha installasjoner som hindrer at kjøttet kommer i kontakt med gulv, vegger og inventar,
+      og
+   5. ha slaktelinjer som (der de benyttes) er utformet slik at slakteprosessen kan pågå uten avbrudd, og slik at kryssforurensning mellom de forskjellige delene av slaktelinjen unngås. Dersom det benyttes mer enn én slaktelinje i de samme lokalene, skal linjene være tilstrekkelig atskilt til å hindre kryssforurensning.
+3. De skal ha utstyr for å desinfisere redskaper med varmt vann med en temperatur på minst 82 °C, eller et alternativt system med tilsvarende virkning.
+4. Håndvaskene som brukes av det personalet som håndterer uemballert kjøtt, skal ha kraner som er utformet slik at de hindrer spredning av forurensning.
+5. Det skal finnes låsbare lokaler eller innretninger til kjølelagring av tilbakeholdt kjøtt og egne låsbare lokaler eller innretninger til lagring av kjøtt som er erklært uegnet til konsum.
+6. Det skal finnes et separat sted med hensiktsmessige innretninger for rengjøring, vask og desinfisering av:
+
+   1. transportutstyr som for eksempel kasser,
+      og
+   2. transportmidler.
+
+   Slike steder og innretninger er ikke obligatoriske for bokstav b) dersom det finnes offentlig godkjente steder og innretninger i nærheten.
+7. Det skal finnes en hensiktsmessig utstyrt og låsbar innretning, eller om nødvendig et rom, som skal brukes utelukkende av veterinærmyndigheten.
 
 ###### Kapittel III: Krav til nedskjæringsanlegg
 
-1. Driftsansvarlige for næringsmiddelforetak skal sikre at nedskjæringsanlegg som håndterer kjøtt fra fjørfe eller haredyr:er oppført slik at forurensning av kjøttet unngås, særlig ved:at arbeidsoperasjonene kan pågå fortløpende,
-ellerat de forskjellige produksjonspartiene holdes atskilt,har atskilte rom til lagring av emballert og uemballert kjøtt, med mindre lagringen skjer på forskjellige tidspunkter eller på en slik måte at emballasjematerialet og lagringsmåten ikke utgjør en forurensningskilde for kjøttet,har nedskjæringsrom som er utstyrt for å sikre at kravene fastsatt i kapittel V, oppfylles,har håndvasker som brukes av det personalet som håndterer uemballert kjøtt, med kraner som er utformet slik at de hindrer spredning av forurensning,
-oghar utstyr for å desinfisere redskaper med varmt vann med en temperatur på minst 82 °C, eller et alternativt system med tilsvarende virkning.
-2. Dersom følgende arbeidsoperasjoner utføres på et nedskjæringsanlegg:uttak av indre organer fra gjess og ender som er oppdrettet for produksjon av gåselever eller annen lever («foie gras»), og som er bedøvet, avblødd og ribbet på oppfôringsenheten,
-elleruttak av indre organer fra fjørfe der de indre organene ikke er tatt ut,skal driftsansvarlige for næringsmiddelforetak sørge for at det finnes egne lokaler for dette formål.
+1. Driftsansvarlige for næringsmiddelforetak skal sikre at nedskjæringsanlegg som håndterer kjøtt fra fjørfe eller haredyr:
+
+   1. er oppført slik at forurensning av kjøttet unngås, særlig ved:
+
+      1. at arbeidsoperasjonene kan pågå fortløpende,
+         eller
+      2. at de forskjellige produksjonspartiene holdes atskilt,
+   2. har atskilte rom til lagring av emballert og uemballert kjøtt, med mindre lagringen skjer på forskjellige tidspunkter eller på en slik måte at emballasjematerialet og lagringsmåten ikke utgjør en forurensningskilde for kjøttet,
+   3. har nedskjæringsrom som er utstyrt for å sikre at kravene fastsatt i kapittel V, oppfylles,
+   4. har håndvasker som brukes av det personalet som håndterer uemballert kjøtt, med kraner som er utformet slik at de hindrer spredning av forurensning,
+      og
+   5. har utstyr for å desinfisere redskaper med varmt vann med en temperatur på minst 82 °C, eller et alternativt system med tilsvarende virkning.
+2. Dersom følgende arbeidsoperasjoner utføres på et nedskjæringsanlegg:
+
+   1. uttak av indre organer fra gjess og ender som er oppdrettet for produksjon av gåselever eller annen lever («foie gras»), og som er bedøvet, avblødd og ribbet på oppfôringsenheten,
+      eller
+   2. uttak av indre organer fra fjørfe der de indre organene ikke er tatt ut,
+
+   skal driftsansvarlige for næringsmiddelforetak sørge for at det finnes egne lokaler for dette formål.
 
 ###### Kapittel IV: Slaktehygiene
 
-Driftsansvarlige for næringsmiddelforetak som driver slakterier der det slaktes fjørfe eller haredyr, skal sikre at følgende krav oppfylles:Kjøtt fra andre dyr enn dem som er nevnt i bokstav b), skal ikke brukes til konsum dersom de dør på annen måte enn ved slakting på slakteriet.Bare levende dyr beregnet på slakting, kan bringes inn i slakteriet, med unntak av:fjørfe der de indre organene ikke er tatt ut, gjess og ender som er oppdrettet for produksjon av gåselever eller annen lever («foie gras»), og fugler som ikke anses som tamfugler, men som oppdrettes som husdyr, dersom de slaktes på driftsenheten i samsvar med kapittel VI,oppdrettsvilt som er slaktet på produksjonsstedet i samsvar med avsnitt III,
-ogviltlevende småvilt, i samsvar med avsnitt IV kapittel III.Driftsansvarlige for slakterier skal følge instruksene fra vedkommende myndighet slik at undersøkelse ante mortem kan gjennomføres under hensiktsmessige forhold.Dersom virksomheter er godkjent for slakting av forskjellige dyrearter eller for håndtering av oppdrettede strutsefugler og viltlevende småvilt, må det treffes forholdsregler for å hindre kryssforurensning ved at de arbeidsoperasjonene som foretas på de forskjellige artene, utføres til forskjellige tidspunkter eller på forskjellige steder. Det skal finnes egne anlegg for å motta og lagre skrotter av oppdrettede strutsefugler som er slaktet på driftsenheten, og for skrotter av viltlevende småvilt.Dyr som bringes inn i slaktelokalet, skal slaktes så snart som mulig.Bedøving, avbløding, flåing eller ribbing, uttak av indre organer og annen slaktebehandling skal utføres så snart som mulig og på en slik måte at forurensning av kjøttet unngås. Det skal særlig treffes tiltak for å unngå at innholdet i fordøyelseskanalen slipper ut under og etter uttak av indre organer.Driftsansvarlige for slakterier skal følge instruksene fra vedkommende myndighet for å sikre at undersøkelsen post mortem utføres under hensiktsmessige forhold, og særlig for at de slaktede dyrene skal kunne undersøkes på korrekt måte.Etter undersøkelse post mortem:skal deler som er uegnet til konsum, fjernes så snart som mulig fra den rene delen av virksomheten,skal kjøtt som er holdt tilbake eller erklært uegnet til konsum, og uspiselige biprodukter ikke komme i kontakt med kjøtt som er erklært egnet til konsum,
-ogskal indre organer eller deler av indre organer som fortsatt sitter i skrotten, bortsett fra nyrene, fjernes helt og så snart som mulig, med mindre vedkommende myndighet har tillatt noe annet.Etter undersøkelse og uttak av indre organer skal de slaktede dyrene så raskt som mulig rengjøres og kjøles til høyst 4 °C, med mindre kjøttet deles opp mens det er varmt.Når skrotter kjøles i vannbad, skal det tas hensyn til følgende:Alle forholdsregler skal treffes for å unngå forurensning av skrotter, idet det tas hensyn til slike parametrer som skrottens vekt, vanntemperatur, mengden vann og vannstrømmens retning og kjøletid.Utstyret skal tømmes helt, rengjøres og desinfiseres når det er nødvendig og minst én gang om dagen.Dyr som er syke eller mistenkes for å være syke, og dyr som er slaktet som ledd i programmer for utryddelse og bekjempelse av sykdommer, skal ikke slaktes i virksomheten med mindre vedkommende myndighet tillater det. I så fall skal slaktingen utføres under offentlig tilsyn, og det skal treffes tiltak for å hindre forurensning. Lokalene skal rengjøres og desinfiseres før de brukes igjen.
+Driftsansvarlige for næringsmiddelforetak som driver slakterier der det slaktes fjørfe eller haredyr, skal sikre at følgende krav oppfylles:
+
+1. 1. Kjøtt fra andre dyr enn dem som er nevnt i bokstav b), skal ikke brukes til konsum dersom de dør på annen måte enn ved slakting på slakteriet.
+   2. Bare levende dyr beregnet på slakting, kan bringes inn i slakteriet, med unntak av:
+
+      1. fjørfe der de indre organene ikke er tatt ut, gjess og ender som er oppdrettet for produksjon av gåselever eller annen lever («foie gras»), og fugler som ikke anses som tamfugler, men som oppdrettes som husdyr, dersom de slaktes på driftsenheten i samsvar med kapittel VI,
+      2. oppdrettsvilt som er slaktet på produksjonsstedet i samsvar med avsnitt III,
+         og
+      3. viltlevende småvilt, i samsvar med avsnitt IV kapittel III.
+2. Driftsansvarlige for slakterier skal følge instruksene fra vedkommende myndighet slik at undersøkelse ante mortem kan gjennomføres under hensiktsmessige forhold.
+3. Dersom virksomheter er godkjent for slakting av forskjellige dyrearter eller for håndtering av oppdrettede strutsefugler og viltlevende småvilt, må det treffes forholdsregler for å hindre kryssforurensning ved at de arbeidsoperasjonene som foretas på de forskjellige artene, utføres til forskjellige tidspunkter eller på forskjellige steder. Det skal finnes egne anlegg for å motta og lagre skrotter av oppdrettede strutsefugler som er slaktet på driftsenheten, og for skrotter av viltlevende småvilt.
+4. Dyr som bringes inn i slaktelokalet, skal slaktes så snart som mulig.
+5. Bedøving, avbløding, flåing eller ribbing, uttak av indre organer og annen slaktebehandling skal utføres så snart som mulig og på en slik måte at forurensning av kjøttet unngås. Det skal særlig treffes tiltak for å unngå at innholdet i fordøyelseskanalen slipper ut under og etter uttak av indre organer.
+6. Driftsansvarlige for slakterier skal følge instruksene fra vedkommende myndighet for å sikre at undersøkelsen post mortem utføres under hensiktsmessige forhold, og særlig for at de slaktede dyrene skal kunne undersøkes på korrekt måte.
+7. Etter undersøkelse post mortem:
+
+   1. skal deler som er uegnet til konsum, fjernes så snart som mulig fra den rene delen av virksomheten,
+   2. skal kjøtt som er holdt tilbake eller erklært uegnet til konsum, og uspiselige biprodukter ikke komme i kontakt med kjøtt som er erklært egnet til konsum,
+      og
+   3. skal indre organer eller deler av indre organer som fortsatt sitter i skrotten, bortsett fra nyrene, fjernes helt og så snart som mulig, med mindre vedkommende myndighet har tillatt noe annet.
+8. Etter undersøkelse og uttak av indre organer skal de slaktede dyrene så raskt som mulig rengjøres og kjøles til høyst 4 °C, med mindre kjøttet deles opp mens det er varmt.
+9. Når skrotter kjøles i vannbad, skal det tas hensyn til følgende:
+
+   1. Alle forholdsregler skal treffes for å unngå forurensning av skrotter, idet det tas hensyn til slike parametrer som skrottens vekt, vanntemperatur, mengden vann og vannstrømmens retning og kjøletid.
+   2. Utstyret skal tømmes helt, rengjøres og desinfiseres når det er nødvendig og minst én gang om dagen.
+10. Dyr som er syke eller mistenkes for å være syke, og dyr som er slaktet som ledd i programmer for utryddelse og bekjempelse av sykdommer, skal ikke slaktes i virksomheten med mindre vedkommende myndighet tillater det. I så fall skal slaktingen utføres under offentlig tilsyn, og det skal treffes tiltak for å hindre forurensning. Lokalene skal rengjøres og desinfiseres før de brukes igjen.
 
 ###### Kapittel V: Hygiene under og etter nedskjæring og utbeining
 
-Driftsansvarlige for næringsmiddelforetak skal sikre at nedskjæring og utbeining av fjørfe og haredyr utføres i samsvar med følgende krav:Arbeidet med kjøttet må organiseres på en slik måte at forurensning forhindres eller begrenses mest mulig. Derfor skal driftsansvarlige for næringsmiddelforetak særlig sikre følgende:kjøtt beregnet på nedskjæring, skal bringes inn i arbeidslokalene etter hvert som det er behov for det,under nedskjæring, utbeining, renskjæring, skjæring i skiver og terninger, innpakking og emballering, skal kjøttets temperatur holdes på høyst 4 °C ved hjelp av en omgivelsestemperatur på 12 °C eller et alternativt system med tilsvarende virkning,
-ogdersom lokalene er godkjent for nedskjæring av kjøtt fra forskjellige dyrearter, må det treffes forholdsregler for å unngå kryssforurensning, om nødvendig ved at arbeidsoperasjoner på de forskjellige artene utføres til forskjellige tidspunkter eller på forskjellige steder.Kjøtt kan imidlertid også utbeines og nedskjæres før det når den temperaturen som er nevnt i punkt 1 bokstav b), når nedskjæringsrommet befinner seg på samme sted som slakteriet, forutsatt at kjøttet overføres til nedskjæringsrommet enten:direkte fra slakteriet,
-ellerplasseres i et kjøle- eller fryserom til det skal brukes.► **M8**Så snart kjøttet er nedskåret, og eventuelt emballert, skal det kjøles til en temperatur på høyst 4 °C.Kjøttet skal oppnå en temperatur på høyst 4 °C før transport og holde denne temperaturen under transporten. Dersom vedkommende myndighet tillater det, kan imidlertid lever til produksjon av «foie gras» transporteres ved en temperatur på over 4 °C, forutsatt atdenne transporten foretas i samsvar med de krav vedkommende myndighet angir ved transport fra en bestemt virksomhet til en annen, ogkjøttet forlater slakteriet eller nedskjæringslokalet umiddelbart og transporten tar høyst to timer.►**M23**Kjøtt beregnet på frysing skal fryses umiddelbart.Driftsansvarlige for næringsmiddelforetak som utfører detaljistvirksomhet, kan imidlertid fryse kjøtt med henblikk på redistribuering til næringsmiddeldonasjoner på følgende vilkår:Innfrysing av kjøtt som har en siste forbruksdato i samsvar med artikkel 24 i forordning (EU) nr. 1169/2011, må skje innen utløpet av denne datoen.Innfrysingen må skje uten unødig opphold til en temperatur på -18 °C eller lavere.Det må sikres at datoen for innfrysing dokumenteres og angis enten på etiketten eller på andre måter.Kjøtt som har vært fryst før (avrimet kjøtt) må ikke fryses igjen.Innfrysing skal skje i samsvar med eventuelle vilkår fastsatt av vedkommende myndigheter for innfrysing og videre bruk som næringsmiddel.◄**M23**Uemballert kjøtt skal lagres og transporteres atskilt fra emballert kjøtt, med mindre det er lagret eller transportert på andre tidspunkter eller på en slik måte at emballeringsmaterialet og lagringsmåten eller transportmåten ikke utgjør en forurensningskilde for kjøttet.
-◄ **M8**
+Driftsansvarlige for næringsmiddelforetak skal sikre at nedskjæring og utbeining av fjørfe og haredyr utføres i samsvar med følgende krav:
+
+1. Arbeidet med kjøttet må organiseres på en slik måte at forurensning forhindres eller begrenses mest mulig. Derfor skal driftsansvarlige for næringsmiddelforetak særlig sikre følgende:
+
+   1. kjøtt beregnet på nedskjæring, skal bringes inn i arbeidslokalene etter hvert som det er behov for det,
+   2. under nedskjæring, utbeining, renskjæring, skjæring i skiver og terninger, innpakking og emballering, skal kjøttets temperatur holdes på høyst 4 °C ved hjelp av en omgivelsestemperatur på 12 °C eller et alternativt system med tilsvarende virkning,
+      og
+   3. dersom lokalene er godkjent for nedskjæring av kjøtt fra forskjellige dyrearter, må det treffes forholdsregler for å unngå kryssforurensning, om nødvendig ved at arbeidsoperasjoner på de forskjellige artene utføres til forskjellige tidspunkter eller på forskjellige steder.
+2. Kjøtt kan imidlertid også utbeines og nedskjæres før det når den temperaturen som er nevnt i punkt 1 bokstav b), når nedskjæringsrommet befinner seg på samme sted som slakteriet, forutsatt at kjøttet overføres til nedskjæringsrommet enten:
+
+   1. direkte fra slakteriet,
+      eller
+   2. plasseres i et kjøle- eller fryserom til det skal brukes.
+
+   ► **M8**
+3. Så snart kjøttet er nedskåret, og eventuelt emballert, skal det kjøles til en temperatur på høyst 4 °C.
+4. Kjøttet skal oppnå en temperatur på høyst 4 °C før transport og holde denne temperaturen under transporten. Dersom vedkommende myndighet tillater det, kan imidlertid lever til produksjon av «foie gras» transporteres ved en temperatur på over 4 °C, forutsatt at
+
+   1. denne transporten foretas i samsvar med de krav vedkommende myndighet angir ved transport fra en bestemt virksomhet til en annen, og
+   2. kjøttet forlater slakteriet eller nedskjæringslokalet umiddelbart og transporten tar høyst to timer.
+
+   ►**M23**
+5. Kjøtt beregnet på frysing skal fryses umiddelbart.
+
+   Driftsansvarlige for næringsmiddelforetak som utfører detaljistvirksomhet, kan imidlertid fryse kjøtt med henblikk på redistribuering til næringsmiddeldonasjoner på følgende vilkår:
+
+   1. Innfrysing av kjøtt som har en siste forbruksdato i samsvar med artikkel 24 i forordning (EU) nr. 1169/2011, må skje innen utløpet av denne datoen.
+   2. Innfrysingen må skje uten unødig opphold til en temperatur på -18 °C eller lavere.
+   3. Det må sikres at datoen for innfrysing dokumenteres og angis enten på etiketten eller på andre måter.
+   4. Kjøtt som har vært fryst før (avrimet kjøtt) må ikke fryses igjen.
+   5. Innfrysing skal skje i samsvar med eventuelle vilkår fastsatt av vedkommende myndigheter for innfrysing og videre bruk som næringsmiddel.
+
+   ◄**M23**
+6. Uemballert kjøtt skal lagres og transporteres atskilt fra emballert kjøtt, med mindre det er lagret eller transportert på andre tidspunkter eller på en slik måte at emballeringsmaterialet og lagringsmåten eller transportmåten ikke utgjør en forurensningskilde for kjøttet.
+   ◄ **M8**
 
 ###### Kapittel VI: Slakting på driftsenheten
 
-Driftsansvarlige for næringsmiddelforetak kan slakte fjørfe nevnt i kapittel IV punkt 1 bokstav b) i), på driftsenheten bare dersom dette er godkjent av vedkommende myndighet og følgende krav oppfylles.Driftsenheten skal være underlagt regelmessig veterinærkontroll.Den driftsansvarlige for næringsmiddelforetaket skal på forhånd underrette vedkommende myndighet om dato og tidspunkt for slaktingen.Driftsenheten skal ha innretninger der fuglene kan samles, slik at gruppen kan gjennomgå undersøkelse ante mortem.Driftsenheten skal ha lokaler som er egnet til hygienisk slakting og videre håndtering av fuglene.Kravene til dyrs velferd skal overholdes.
-►**M23**◄**M23**
-►**M23**I tillegg til opplysningene om næringsmiddelkjeden som skal framlegges i samsvar med avsnitt III i vedlegg II til denne forordningen, skal det offisielle sertifikatet fastsatt i kapittel 3 i vedlegg IV til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) følge det slaktede dyret til slakteriet eller nedskjæringsanlegget, eller sendes på forhånd i et hvilket som helst format.
-◄**M23**Når det gjelder fjørfe som er oppdrettet for produksjon av gåselever og annen lever («foie gras»), skal de fuglene der de indre organene ikke er tatt ut, og som eventuelt er kjølt, transporteres omgående til et slakteri eller et nedskjæringsanlegg. De indre organene skal tas ut innen 24 timer etter slakting under tilsyn av vedkommende myndighet.Fjørfe der de indre organene ikke er tatt ut, og som er framstilt på produksjonsenheten, kan lagres i inntil 15 dager ved en temperatur på høyst 4 C. Deretter skal de indre organene tas ut på et slakteri eller et nedskjæringsanlegg som ligger i samme medlemsstat som produksjonsenheten.
-► **M1**
+Driftsansvarlige for næringsmiddelforetak kan slakte fjørfe nevnt i kapittel IV punkt 1 bokstav b) i), på driftsenheten bare dersom dette er godkjent av vedkommende myndighet og følgende krav oppfylles.
+
+1. Driftsenheten skal være underlagt regelmessig veterinærkontroll.
+2. Den driftsansvarlige for næringsmiddelforetaket skal på forhånd underrette vedkommende myndighet om dato og tidspunkt for slaktingen.
+3. Driftsenheten skal ha innretninger der fuglene kan samles, slik at gruppen kan gjennomgå undersøkelse ante mortem.
+4. Driftsenheten skal ha lokaler som er egnet til hygienisk slakting og videre håndtering av fuglene.
+5. Kravene til dyrs velferd skal overholdes.
+   ►**M23**
+6. ◄**M23**
+   ►**M23**
+7. I tillegg til opplysningene om næringsmiddelkjeden som skal framlegges i samsvar med avsnitt III i vedlegg II til denne forordningen, skal det offisielle sertifikatet fastsatt i kapittel 3 i vedlegg IV til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) følge det slaktede dyret til slakteriet eller nedskjæringsanlegget, eller sendes på forhånd i et hvilket som helst format.
+   ◄**M23**
+8. Når det gjelder fjørfe som er oppdrettet for produksjon av gåselever og annen lever («foie gras»), skal de fuglene der de indre organene ikke er tatt ut, og som eventuelt er kjølt, transporteres omgående til et slakteri eller et nedskjæringsanlegg. De indre organene skal tas ut innen 24 timer etter slakting under tilsyn av vedkommende myndighet.
+9. Fjørfe der de indre organene ikke er tatt ut, og som er framstilt på produksjonsenheten, kan lagres i inntil 15 dager ved en temperatur på høyst 4 C. Deretter skal de indre organene tas ut på et slakteri eller et nedskjæringsanlegg som ligger i samme medlemsstat som produksjonsenheten.
+   ► **M1**
 
 ###### Kapittel VII: Vannbindende midler
 
@@ -1094,12 +1652,30 @@ Driftsansvarlige for næringsmiddelforetak skal sørge for at fjørfekjøtt som 
 ►**M23**
 
 - Bestemmelsene i avsnitt I får anvendelse ved produksjon og omsetning av kjøtt fra oppdrettsvilt av partåede hovdyr, med mindre vedkommende myndighet anser dem å være uhensiktsmessige.
-◄**M23**
+  ◄**M23**
 - Bestemmelsene i avsnitt II får anvendelse ved produksjon og omsetning av kjøtt fra strutsefugler. Bestemmelsene i avsnitt I får imidlertid anvendelse når vedkommende myndighet anser dem å være hensiktsmessige. Det må finnes passende lokaler som er tilpasset dyrenes størrelse.
-- Uten hensyn til punkt 1 og 2, kan driftsansvarlige for næringsmiddelforetak med tillatelse fra vedkommende myndighet slakte oppdrettede strutsefugler og oppdrettede hov- og klovdyr nevnt i punkt 1, på opprinnelsesstedet, dersom:dyrene ikke kan transporteres, for å unngå at den som håndterer dem, utsettes for risiko, eller for å verne dyrenes velferd,besetningen gjennomgår regelmessig veterinærkontroll,dyrenes eier framlegger en anmodning om dette,vedkommende myndighet underrettes på forhånd om dato og tidspunkt for slaktingen av dyrene,driftsenheten har framgangsmåter for å samle dyrene, slik at gruppen kan gjennomgå undersøkelse ante mortem,driftsenheten har lokaler som egner seg til slakting, avbløding, og dersom strutsefugler skal ribbes, ribbing av dyrene,kravene til dyrs velferd er oppfylt,
-►**M27**de slaktede og avblødde dyrene transporteres til slakteriet eller et viltbehandlingsopplegg, alt etter hva som er aktuelt, på en hygienisk måte og så raskt som mulig. Dersom transporten tar mer enn to timer, skal dyrene kjøles. Dersom klimaforholdene tillater det, er aktiv kjøling ikke nødvendig. Uttak av indre organer kan foretas på stedet, under tilsyn av en offentlig veterinær;(opphevet)helsesertifikatet angitt i kapittel 3 i vedlegg IV til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235), utstedt og undertegnet av den offentlige veterinæren, som bekrefter at kontrollen ante mortem ble gjennomført med tilfredsstillende resultat og at slaktingen og avblødingen ble korrekt utført, må følge det slaktede dyret til slakteriet eller et viltbehandlingsanlegg, alt etter hva som er aktuelt, eller sendes på forhånd i et hvilket som helst format.
-◄**M27**►**M27**
-- Som unntak fra nr. 3 bokstav j), kan vedkommende myndighet tillate at bekreftelsen på at slaktingen og avblødingen er utført korrekt, og som angir datoen og tidspunktet for slaktingen, bare angis i opplysningene om næringsmiddelkjeden i samsvar med avsnitt III til vedlegg II i denne forordning, forutsatt atdriftsenheten ikke ligger i en restriksjonssone definert i artikkel 4 nr. 41 i forordning [(EU) 2016/429](eu/32016r0429),den driftsansvarlige for næringsmiddelforetaket har vist at vedkommende innehar nødvendig kompetanse til å slakte dyr uten at de påføres smerte, plager eller lidelse som kan unngås, i samsvar med artikkel 7 nr. 2 i forordning [(EF) nr. 1099/2009](eu/32009r1099) og uten at det berører artikkel 12 i nevnte forordning.◄**M27**
+- Uten hensyn til punkt 1 og 2, kan driftsansvarlige for næringsmiddelforetak med tillatelse fra vedkommende myndighet slakte oppdrettede strutsefugler og oppdrettede hov- og klovdyr nevnt i punkt 1, på opprinnelsesstedet, dersom:
+
+  1. dyrene ikke kan transporteres, for å unngå at den som håndterer dem, utsettes for risiko, eller for å verne dyrenes velferd,
+  2. besetningen gjennomgår regelmessig veterinærkontroll,
+  3. dyrenes eier framlegger en anmodning om dette,
+  4. vedkommende myndighet underrettes på forhånd om dato og tidspunkt for slaktingen av dyrene,
+  5. driftsenheten har framgangsmåter for å samle dyrene, slik at gruppen kan gjennomgå undersøkelse ante mortem,
+  6. driftsenheten har lokaler som egner seg til slakting, avbløding, og dersom strutsefugler skal ribbes, ribbing av dyrene,
+  7. kravene til dyrs velferd er oppfylt,
+     ►**M27**
+  8. de slaktede og avblødde dyrene transporteres til slakteriet eller et viltbehandlingsopplegg, alt etter hva som er aktuelt, på en hygienisk måte og så raskt som mulig. Dersom transporten tar mer enn to timer, skal dyrene kjøles. Dersom klimaforholdene tillater det, er aktiv kjøling ikke nødvendig. Uttak av indre organer kan foretas på stedet, under tilsyn av en offentlig veterinær;
+  9. (opphevet)
+  10. helsesertifikatet angitt i kapittel 3 i vedlegg IV til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235), utstedt og undertegnet av den offentlige veterinæren, som bekrefter at kontrollen ante mortem ble gjennomført med tilfredsstillende resultat og at slaktingen og avblødingen ble korrekt utført, må følge det slaktede dyret til slakteriet eller et viltbehandlingsanlegg, alt etter hva som er aktuelt, eller sendes på forhånd i et hvilket som helst format.
+      ◄**M27**
+
+  ►**M27**
+- Som unntak fra nr. 3 bokstav j), kan vedkommende myndighet tillate at bekreftelsen på at slaktingen og avblødingen er utført korrekt, og som angir datoen og tidspunktet for slaktingen, bare angis i opplysningene om næringsmiddelkjeden i samsvar med avsnitt III til vedlegg II i denne forordning, forutsatt at
+
+  1. driftsenheten ikke ligger i en restriksjonssone definert i artikkel 4 nr. 41 i forordning [(EU) 2016/429](eu/32016r0429),
+  2. den driftsansvarlige for næringsmiddelforetaket har vist at vedkommende innehar nødvendig kompetanse til å slakte dyr uten at de påføres smerte, plager eller lidelse som kan unngås, i samsvar med artikkel 7 nr. 2 i forordning [(EF) nr. 1099/2009](eu/32009r1099) og uten at det berører artikkel 12 i nevnte forordning.
+
+  ◄**M27**
 - Driftsansvarlige for næringsmiddelforetak kan også under særlige omstendigheter slakte bison på driftsenheten i samsvar med punkt 3.
 
 ### Avsnitt IV: Kjøtt fra viltlevende vilt
@@ -1115,8 +1691,13 @@ I dette avsnittet menes med «innsamlingssentral» et anlegg som brukes til å l
 1. Personer som driver jakt på viltlevende vilt med henblikk på omsetning til konsum, skal ha tilstrekkelig kunnskap om patologien til viltlevende vilt og om produksjon og håndtering av viltlevende vilt og kjøtt fra viltlevende vilt etter jakt, til å kunne foreta en første undersøkelse av viltet på stedet.
 2. Det er imidlertid tilstrekkelig at minst én person på et jaktlag har den kunnskapen som er nevnt i punkt 1. Når det i dette avsnitt vises til en «kompetent jeger», er dette en henvisning til denne personen.
 3. Den kompetente jegeren kan også være jaktoppsyn eller utmarksansvarlig dersom vedkommende deltar på jaktlaget eller befinner seg i umiddelbar nærhet av jaktstedet. I sistnevnte tilfelle skal jegeren forevise jaktoppsyn eller utmarksansvarlig det viltlevende viltet og underrette dem om eventuell unormal atferd som er iakttatt før fellingen.
-4. Den utdanningen som jegeren får, skal oppfylle de kravene som vedkommende myndighet stiller til en kompetent jeger. Den bør omfatte minst følgende emner:viltlevende vilts normale anatomi, fysiologi og atferd,unormal atferd og patologiske endringer hos viltlevende vilt som følge av sykdommer, miljøforurensning eller andre faktorer som kan påvirke menneskers helse etter konsum,hygieneregler og korrekte metoder for bl.a. håndtering og transport av, og uttak av indre organer fra, viltlevende vilt etter felling,
-oglovgivning og administrative bestemmelser om menneskers og dyrs helse samt hygieniske forhold som regulerer omsetningen av viltlevende vilt.
+4. Den utdanningen som jegeren får, skal oppfylle de kravene som vedkommende myndighet stiller til en kompetent jeger. Den bør omfatte minst følgende emner:
+
+   1. viltlevende vilts normale anatomi, fysiologi og atferd,
+   2. unormal atferd og patologiske endringer hos viltlevende vilt som følge av sykdommer, miljøforurensning eller andre faktorer som kan påvirke menneskers helse etter konsum,
+   3. hygieneregler og korrekte metoder for bl.a. håndtering og transport av, og uttak av indre organer fra, viltlevende vilt etter felling,
+      og
+   4. lovgivning og administrative bestemmelser om menneskers og dyrs helse samt hygieniske forhold som regulerer omsetningen av viltlevende vilt.
 5. Vedkommende myndighet bør oppmuntre jegerorganisasjoner til å tilby en slik utdanning.
 
 ###### Kapittel II: Håndtering av viltlevende storvilt
@@ -1124,20 +1705,55 @@ oglovgivning og administrative bestemmelser om menneskers og dyrs helse samt hyg
 - Etter fellingen skal viltlevende storvilt så snart som mulig få mager og tarmer tatt ut, og om nødvendig avblødes.
 - Den kompetente jegeren skal undersøke skrotten og eventuelle indre organer som er tatt ut, for å se etter tegn som kan tyde på at kjøttet utgjør en helserisiko. Undersøkelsen skal foretas så snart som mulig etter fellingen.
 - Kjøtt fra viltlevende storvilt kan omsettes bare dersom skrotten transporteres til et viltbehandlingsanlegg så snart som mulig etter undersøkelsen nevnt i punkt 2. De indre organene skal følge skrotten som angitt i punkt 4. De indre organene skal kunne identifiseres som tilhørende et bestemt dyr.
-- Dersom det ikke påvises noen unormale tegn under undersøkelsen nevnt i punkt 2, det ikke ble iakttatt noen unormal atferd før fellingen, og det ikke er mistanke om miljøforurensning, skal den kompetente jegeren feste en nummerert erklæring som fastslår dette, til skrotten. Denne erklæringen skal også angi dato, tidspunkt og sted for fellingen. I så fall trenger ikke hodet og de indre organene å følge skrotten, unntatt for arter som er mottakelig for trikinose (svin, enhovede dyr og andre), og hvis hode (unntatt støttenner) og mellomgulv skal følge skrotten. Jegere skal imidlertid overholde alle tilleggskrav som de pålegges i den medlemsstaten der jakten finner sted, særlig for å gjøre det mulig å overvåke visse restmengder og stoffer i samsvar med direktiv [96/23/EF](eu/31996l0023).Under andre omstendigheter skal hodet (unntatt støttenner, gevirer og horn) og alle indre organer, unntatt mage og tarmer, følge skrotten. Den kompetente jegeren som utførte undersøkelsen, skal underrette vedkommende myndighet om unormale tegn, unormal atferd eller mistanke om miljøforurensning som hindret vedkommende i å utstede en erklæring i samsvar med bokstav a).Dersom det i et bestemt tilfelle ikke er noen kompetent jeger til stede som kan foreta undersøkelsen nevnt i nr. 2, skal hodet (unntatt støttenner, gevirer og horn) og alle indre organer, unntatt mage og tarmer, følge skrotten.
-►**M23**Dersom det i et bestemt tilfelle ikke er noen kompetent jeger til stede som kan foreta undersøkelsen nevnt i nr. 2, skal hodet, unntatt støttenner, gevirer og horn, og alle indre organer, unntatt mage og tarmer, følge skrotten, som må transporteres til et viltbehandlingsanlegg snarest etter fellingen.
-◄**M23**► **M9**
-- Dersom det ikke påvises noen unormale tegn under undersøkelsen nevnt i punkt 2, det ikke ble iakttatt noen unormal atferd før fellingen, og det ikke er mistanke om miljøforurensning, skal den kompetente jegeren feste en nummerert erklæring som fastslår dette, til skrotten. Denne erklæringen skal også angi dato, tidspunkt og sted for fellingen.Det er ikke nødvendig å feste erklæringen til skrotten, og erklæringen kan omfatte flere skrotter, forutsatt at hver skrott er tilstrekkelig identifisert og erklæringen viser identifikasjonsnummeret for hver skrott, sammen med dato, tidspunkt og sted for fellingen. Skrotter som omfattes av samme erklæring kan bare sendes til ett viltbehandlingsanlegg.Hodet og de indre organene trenger ikke å følge skrotten til viltbehandlingsanlegget, unntatt for arter som er mottakelige for trikinose (svin, enhovede dyr og andre), og hvis hode (unntatt støttenner) og mellomgulv skal følge skrotten.Den vedkommende myndigheten kan imidlertid tillate at hoder fra dyr som er mottakelige for trikinose sendes til et teknisk anlegg for produksjon av jakttrofeer, som er godkjent i samsvar med artikkel 18 i forordning [(EF) nr. 1774/2002](eu/32002r1774*). Den kompetente jegeren skal angi det tekniske anlegget på erklæringen. En kopi av nevnte erklæring skal sendes til det tekniske anlegget. I tilfeller der resultatet av trikinoseprøven av skrotten er positivt, skal den vedkommende myndigheten utføre en offentlig kontroll for å bekrefte korrekt håndtering av hodet i det tekniske anlegget.Jegere skal imidlertid overholde alle tilleggskrav som de pålegges i den medlemsstaten der jakten finner sted, særlig for å gjøre det mulig å overvåke visse restmengder og stoffer i samsvar med direktiv [96/23/EF](eu/31996l0023).
-◄ **M9**
+- 1. Dersom det ikke påvises noen unormale tegn under undersøkelsen nevnt i punkt 2, det ikke ble iakttatt noen unormal atferd før fellingen, og det ikke er mistanke om miljøforurensning, skal den kompetente jegeren feste en nummerert erklæring som fastslår dette, til skrotten. Denne erklæringen skal også angi dato, tidspunkt og sted for fellingen. I så fall trenger ikke hodet og de indre organene å følge skrotten, unntatt for arter som er mottakelig for trikinose (svin, enhovede dyr og andre), og hvis hode (unntatt støttenner) og mellomgulv skal følge skrotten. Jegere skal imidlertid overholde alle tilleggskrav som de pålegges i den medlemsstaten der jakten finner sted, særlig for å gjøre det mulig å overvåke visse restmengder og stoffer i samsvar med direktiv [96/23/EF](eu/31996l0023).
+  2. Under andre omstendigheter skal hodet (unntatt støttenner, gevirer og horn) og alle indre organer, unntatt mage og tarmer, følge skrotten. Den kompetente jegeren som utførte undersøkelsen, skal underrette vedkommende myndighet om unormale tegn, unormal atferd eller mistanke om miljøforurensning som hindret vedkommende i å utstede en erklæring i samsvar med bokstav a).
+  3. Dersom det i et bestemt tilfelle ikke er noen kompetent jeger til stede som kan foreta undersøkelsen nevnt i nr. 2, skal hodet (unntatt støttenner, gevirer og horn) og alle indre organer, unntatt mage og tarmer, følge skrotten.
+     ►**M23**
+  4. Dersom det i et bestemt tilfelle ikke er noen kompetent jeger til stede som kan foreta undersøkelsen nevnt i nr. 2, skal hodet, unntatt støttenner, gevirer og horn, og alle indre organer, unntatt mage og tarmer, følge skrotten, som må transporteres til et viltbehandlingsanlegg snarest etter fellingen.
+     ◄**M23**
+
+  ► **M9**
+- Dersom det ikke påvises noen unormale tegn under undersøkelsen nevnt i punkt 2, det ikke ble iakttatt noen unormal atferd før fellingen, og det ikke er mistanke om miljøforurensning, skal den kompetente jegeren feste en nummerert erklæring som fastslår dette, til skrotten. Denne erklæringen skal også angi dato, tidspunkt og sted for fellingen.
+
+  Det er ikke nødvendig å feste erklæringen til skrotten, og erklæringen kan omfatte flere skrotter, forutsatt at hver skrott er tilstrekkelig identifisert og erklæringen viser identifikasjonsnummeret for hver skrott, sammen med dato, tidspunkt og sted for fellingen. Skrotter som omfattes av samme erklæring kan bare sendes til ett viltbehandlingsanlegg.
+
+  Hodet og de indre organene trenger ikke å følge skrotten til viltbehandlingsanlegget, unntatt for arter som er mottakelige for trikinose (svin, enhovede dyr og andre), og hvis hode (unntatt støttenner) og mellomgulv skal følge skrotten.
+
+  Den vedkommende myndigheten kan imidlertid tillate at hoder fra dyr som er mottakelige for trikinose sendes til et teknisk anlegg for produksjon av jakttrofeer, som er godkjent i samsvar med artikkel 18 i forordning [(EF) nr. 1774/2002](eu/32002r1774*). Den kompetente jegeren skal angi det tekniske anlegget på erklæringen. En kopi av nevnte erklæring skal sendes til det tekniske anlegget. I tilfeller der resultatet av trikinoseprøven av skrotten er positivt, skal den vedkommende myndigheten utføre en offentlig kontroll for å bekrefte korrekt håndtering av hodet i det tekniske anlegget.
+
+  Jegere skal imidlertid overholde alle tilleggskrav som de pålegges i den medlemsstaten der jakten finner sted, særlig for å gjøre det mulig å overvåke visse restmengder og stoffer i samsvar med direktiv [96/23/EF](eu/31996l0023).
+  ◄ **M9**
 - Kjølingen skal påbegynnes innen rimelig tid etter fellingen, og det skal oppnås en temperatur over alt i kjøttet på høyst 7 °C. Dersom klimaforholdene tillater det, er aktiv kjøling ikke nødvendig.
 - Under transporten til viltbehandlingsanlegget skal viltet ikke stables.
 - Viltlevende storvilt som leveres til et viltbehandlingsanlegg, skal forevises vedkommende myndighet for kontroll.
-► **M16**
-- Uflådd viltlevende storvilt kan dessutenflås og omsettes bare dersomdet før flåing lagres og håndteres atskilt fra andre næringsmidler, og ikke er fryst,det etter flåingen gjennomgår en siste kontroll ved et viltbehandlingsanlegg i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*),►**M23**sendes til et viltbehandlingsanlegg i en annen medlemsstat bare dersom det under transport til viltbehandlingsanlegget ledsages av et offisielt sertifikat som fastsatt i kapittel 2 i vedlegg II til Kommisjonens gjennomføringsforordning [(EU) nr. 2020/2235](eu/32020r2235), utstedt og underskrevet av en offentlig veterinær, som bekrefter at kravene i nr. 4 i dette kapittelet om at det eventuelt skal foreligge en erklæring, og at relevante deler av kroppen medfølger, er oppfylt.
-◄**M23**Dersom viltbehandlingsanlegget, som er i nærheten av jaktområdet, er i en annen medlemsstat, behøver ikke transport til dette viltbehandlingsanlegget ledsages av sertifikatet, men av erklæringen fra den utdannede personen som nevnt i nr. 2, for å etterkomme artikkel 3 nr. 1 i direktiv [89/662/EØF](eu/31989l0662*), idet det tas hensyn til dyrehelsetilstanden i opprinnelsesmedlemsstaten.◄ **M16**
+  ► **M16**
+- Uflådd viltlevende storvilt kan dessuten
+
+  1. flås og omsettes bare dersom
+
+     1. det før flåing lagres og håndteres atskilt fra andre næringsmidler, og ikke er fryst,
+     2. det etter flåingen gjennomgår en siste kontroll ved et viltbehandlingsanlegg i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*),
+
+     ►**M23**
+  2. sendes til et viltbehandlingsanlegg i en annen medlemsstat bare dersom det under transport til viltbehandlingsanlegget ledsages av et offisielt sertifikat som fastsatt i kapittel 2 i vedlegg II til Kommisjonens gjennomføringsforordning [(EU) nr. 2020/2235](eu/32020r2235), utstedt og underskrevet av en offentlig veterinær, som bekrefter at kravene i nr. 4 i dette kapittelet om at det eventuelt skal foreligge en erklæring, og at relevante deler av kroppen medfølger, er oppfylt.
+     ◄**M23**
+
+     Dersom viltbehandlingsanlegget, som er i nærheten av jaktområdet, er i en annen medlemsstat, behøver ikke transport til dette viltbehandlingsanlegget ledsages av sertifikatet, men av erklæringen fra den utdannede personen som nevnt i nr. 2, for å etterkomme artikkel 3 nr. 1 i direktiv [89/662/EØF](eu/31989l0662*), idet det tas hensyn til dyrehelsetilstanden i opprinnelsesmedlemsstaten.◄ **M16**
 - Reglene fastsatt i avsnitt I kapittel V, gjelder for nedskjæring og utbeining av viltlevende storvilt.
-►**M23**
-- Skrotter og indre organer av viltlevende storvilt kan transporteres og lagres på en innsamlingssentral før de transporteres til et viltbehandlingsanlegg, forutsatt atinnsamlingssentralen enten erregistrert hos vedkommende myndighet som et næringsmiddelforetak som utfører primærproduksjon som omhandlet i artikkel 4 nr. 2 bokstav a), når den bare mottar skrotter som første innsamlingssentral, ellergodkjent av vedkommende myndighet som næringsmiddelforetak i samsvar med artikkel 4 nr. 2, dersom den mottar skrotter fra andre innsamlingssentraler,det, dersom dyrenes indre organer er tatt ut, er forbudt å stable dyrene under transport til og lagring på innsamlingssentralen,avlivede dyr straks transporteres til innsamlingssentralen på en hygienisk måte,temperaturvilkårene fastsatt i nr. 5 er oppfylt,oppbevaringstiden skal være så kort som mulig,det ikke foretas annen håndtering av skrottene og de indre organene av det viltlevende storviltet, imidlertid kan undersøkelse foretatt av en kompetent jeger og fjerning av indre organer finne sted på vilkårene fastsatt i nr. 2, 3 og 4.◄**M23**
+  ►**M23**
+- Skrotter og indre organer av viltlevende storvilt kan transporteres og lagres på en innsamlingssentral før de transporteres til et viltbehandlingsanlegg, forutsatt at
+
+  1. innsamlingssentralen enten er
+
+     1. registrert hos vedkommende myndighet som et næringsmiddelforetak som utfører primærproduksjon som omhandlet i artikkel 4 nr. 2 bokstav a), når den bare mottar skrotter som første innsamlingssentral, eller
+     2. godkjent av vedkommende myndighet som næringsmiddelforetak i samsvar med artikkel 4 nr. 2, dersom den mottar skrotter fra andre innsamlingssentraler,
+  2. det, dersom dyrenes indre organer er tatt ut, er forbudt å stable dyrene under transport til og lagring på innsamlingssentralen,
+  3. avlivede dyr straks transporteres til innsamlingssentralen på en hygienisk måte,
+  4. temperaturvilkårene fastsatt i nr. 5 er oppfylt,
+  5. oppbevaringstiden skal være så kort som mulig,
+  6. det ikke foretas annen håndtering av skrottene og de indre organene av det viltlevende storviltet, imidlertid kan undersøkelse foretatt av en kompetent jeger og fjerning av indre organer finne sted på vilkårene fastsatt i nr. 2, 3 og 4.
+
+  ◄**M23**
 
 \* ► **M16** EUT L 175 af 14.6.2014, s. 16.» ◄ **M16**
 
@@ -1145,40 +1761,124 @@ oglovgivning og administrative bestemmelser om menneskers og dyrs helse samt hyg
 
 1. Den kompetente jegeren skal utføre en undersøkelse for å påvise eventuelle tegn som kan tyde på at kjøttet utgjør en helserisiko. Undersøkelsen skal foretas så snart som mulig etter fellingen.
 2. Dersom det påvises unormale tegn under undersøkelsen, det ble iakttatt unormal atferd før fellingen, eller det er mistanke om miljøforurensning, skal den kompetente jegeren underrette vedkommende myndighet.
-►**M23**
+   ►**M23**
 3. Kjøtt av viltlevende småvilt kan omsettes bare dersom skrotten transporteres til et viltbehandlingsanlegg så snart som mulig etter undersøkelsen nevnt i punkt 1, eller så snart som mulig etter fellingen i tilfeller der ingen kompetent jeger er til stede for å foreta undersøkelsen.
-◄**M23**
+   ◄**M23**
 4. Kjølingen skal påbegynnes innen rimelig tid etter fellingen, og det skal oppnås en temperatur over alt i kjøttet på høyst 4 °C. Dersom klimaforholdene tillater det, er aktiv kjøling ikke nødvendig.
 5. Uttak av indre organer skal utføres eller fullføres så raskt som mulig ved ankomsten til viltbehandlingsanlegget, med mindre vedkommende myndighet tillater noe annet.
 6. Viltlevende småvilt som leveres til et viltbehandlingsanlegg, skal forevises vedkommende myndighet for kontroll.
 7. Reglene fastsatt i avsnitt II kapittel V, gjelder for nedskjæring og utbeining av viltlevende småvilt.
-►**M23**
-8. Skrotter, herunder indre organer, av viltlevende småvilt kan transporteres og lagres på en innsamlingssentral før de transporteres til et viltbehandlingsanlegg, forutsatt atinnsamlingssentralen enten erregistrert hos vedkommende myndighet som et næringsmiddelforetak som utfører primærproduksjon som omhandlet i artikkel 4 nr. 2 bokstav a), når den bare mottar skrotter som første innsamlingssentral, ellergodkjent av vedkommende myndighet som næringsmiddelforetak i samsvar med artikkel 4 nr. 2, dersom den mottar skrotter fra andre innsamlingssentraler,det, dersom dyrenes indre organer er tatt ut, er forbudt å stable dyrene under transport til og lagring på innsamlingssentralen,avlivede dyr straks transporteres til innsamlingssentralen på en hygienisk måte,temperaturvilkårene fastsatt i nr. 4 er oppfylt,oppbevaringstiden skal være så kort som mulig,det ikke foretas annen håndtering av skrottene og de indre organene av det viltlevende småviltet, imidlertid kan undersøkelse foretatt av en kompetent jeger og fjerning av indre organer finne sted på vilkårene fastsatt i nr. 1 og 2.◄**M23**
+   ►**M23**
+8. Skrotter, herunder indre organer, av viltlevende småvilt kan transporteres og lagres på en innsamlingssentral før de transporteres til et viltbehandlingsanlegg, forutsatt at
+
+   1. innsamlingssentralen enten er
+
+      1. registrert hos vedkommende myndighet som et næringsmiddelforetak som utfører primærproduksjon som omhandlet i artikkel 4 nr. 2 bokstav a), når den bare mottar skrotter som første innsamlingssentral, eller
+      2. godkjent av vedkommende myndighet som næringsmiddelforetak i samsvar med artikkel 4 nr. 2, dersom den mottar skrotter fra andre innsamlingssentraler,
+   2. det, dersom dyrenes indre organer er tatt ut, er forbudt å stable dyrene under transport til og lagring på innsamlingssentralen,
+   3. avlivede dyr straks transporteres til innsamlingssentralen på en hygienisk måte,
+   4. temperaturvilkårene fastsatt i nr. 4 er oppfylt,
+   5. oppbevaringstiden skal være så kort som mulig,
+   6. det ikke foretas annen håndtering av skrottene og de indre organene av det viltlevende småviltet, imidlertid kan undersøkelse foretatt av en kompetent jeger og fjerning av indre organer finne sted på vilkårene fastsatt i nr. 1 og 2.
+
+   ◄**M23**
 
 ### Avsnitt V: Kvernet kjøtt, tilberedt kjøtt og mekanisk utbeinet kjøtt
 
 ###### Kapittel I: Krav til produksjonsvirksomheter
 
-Driftsansvarlige for næringsmiddelforetak som produserer kvernet kjøtt, tilberedt kjøtt eller mekanisk utbeinet kjøtt, skal sikre at disse virksomhetene:er oppført slik at forurensning av kjøtt og produkter unngås, særlig ved:at arbeidsoperasjonene kan pågå fortløpende,
-ellerat de forskjellige produksjonspartiene holdes atskilt,har atskilte rom til lagring av emballert og uemballert kjøtt og produkter, med mindre lagringen skjer på forskjellige tidspunkter eller på en slik måte at emballasjematerialet og lagringsmåten ikke utgjør en forurensningskilde for kjøttet eller produktene,har lokaler som er utstyrt for å sikre at temperaturkravene fastsatt i kapittel III, oppfylles,har håndvasker som brukes av det personalet som håndterer uemballert kjøtt og produkter, med kraner som er utformet slik at de hindrer spredning av forurensning,
-oghar utstyr for å desinfisere redskaper med varmt vann med en temperatur på minst 82 °C, eller et alternativt system med tilsvarende virkning.
+Driftsansvarlige for næringsmiddelforetak som produserer kvernet kjøtt, tilberedt kjøtt eller mekanisk utbeinet kjøtt, skal sikre at disse virksomhetene:
+
+1. er oppført slik at forurensning av kjøtt og produkter unngås, særlig ved:
+
+   1. at arbeidsoperasjonene kan pågå fortløpende,
+      eller
+   2. at de forskjellige produksjonspartiene holdes atskilt,
+2. har atskilte rom til lagring av emballert og uemballert kjøtt og produkter, med mindre lagringen skjer på forskjellige tidspunkter eller på en slik måte at emballasjematerialet og lagringsmåten ikke utgjør en forurensningskilde for kjøttet eller produktene,
+3. har lokaler som er utstyrt for å sikre at temperaturkravene fastsatt i kapittel III, oppfylles,
+4. har håndvasker som brukes av det personalet som håndterer uemballert kjøtt og produkter, med kraner som er utformet slik at de hindrer spredning av forurensning,
+   og
+5. har utstyr for å desinfisere redskaper med varmt vann med en temperatur på minst 82 °C, eller et alternativt system med tilsvarende virkning.
 
 ###### Kapittel II: Krav til råstoffer
 
-Driftsansvarlige for næringsmiddelforetak som produserer kvernet kjøtt, tilberedt kjøtt eller mekanisk utbeinet kjøtt, skal sikre at de råstoffene som brukes, oppfyller følgende krav:Råstoffene som brukes til å tilberede kvernet kjøtt, skal oppfylle følgende krav:de skal oppfylle kravene til ferskt kjøtt,de skal komme fra skjelettmuskulatur, herunder tilhørende fettvev,de skal ikke komme fra:avskjær fra nedskjæring og renskjæring (bortsatt fra avskjær fra avpussing av hele muskler),mekanisk utbeinet kjøtt,kjøtt som inneholder beinbiter eller hud,
-ellerkjøtt fra hodet, med unntak av tyggemusklene, den ikke-muskulære delen av den hvite linje, området rundt forkneledd og haseledd, beinskrap og musklene i mellomgulvet (med mindre de serøse hinnene er fjernet).Følgende råstoffer kan brukes til å tilberede tilberedt kjøtt:ferskt kjøtt,kjøtt som oppfyller kravene i punkt 1,
-ogdersom det er åpenbart at det tilberedte kjøttet ikke er beregnet til konsum uten at det først gjennomgår varmebehandling:kjøtt som kommer fra kverning eller finoppdeling av kjøtt som oppfyller kravene i punkt 1, bortsett fra punkt 1 bokstav c) i),
-ogmekanisk utbeinet kjøtt som oppfyller kravene i kapittel III punkt 3 bokstav d).Råstoffene som brukes til å produsere mekanisk utbeinet kjøtt, skal oppfylle følgende krav:de skal oppfylle kravene til ferskt kjøtt,følgende skal ikke brukes til å produsere mekanisk utbeinet kjøtt:for fjørfe: føtter, halsskinn og hode,
-ogfor andre dyr: bein fra hodet, føtter, haler, lårbein, skinnebein, leggbein, overarmsbein, spolebein og albubein.
+Driftsansvarlige for næringsmiddelforetak som produserer kvernet kjøtt, tilberedt kjøtt eller mekanisk utbeinet kjøtt, skal sikre at de råstoffene som brukes, oppfyller følgende krav:
+
+1. Råstoffene som brukes til å tilberede kvernet kjøtt, skal oppfylle følgende krav:
+
+   1. de skal oppfylle kravene til ferskt kjøtt,
+   2. de skal komme fra skjelettmuskulatur, herunder tilhørende fettvev,
+   3. de skal ikke komme fra:
+
+      1. avskjær fra nedskjæring og renskjæring (bortsatt fra avskjær fra avpussing av hele muskler),
+      2. mekanisk utbeinet kjøtt,
+      3. kjøtt som inneholder beinbiter eller hud,
+         eller
+      4. kjøtt fra hodet, med unntak av tyggemusklene, den ikke-muskulære delen av den hvite linje, området rundt forkneledd og haseledd, beinskrap og musklene i mellomgulvet (med mindre de serøse hinnene er fjernet).
+2. Følgende råstoffer kan brukes til å tilberede tilberedt kjøtt:
+
+   1. ferskt kjøtt,
+   2. kjøtt som oppfyller kravene i punkt 1,
+      og
+   3. dersom det er åpenbart at det tilberedte kjøttet ikke er beregnet til konsum uten at det først gjennomgår varmebehandling:
+
+      1. kjøtt som kommer fra kverning eller finoppdeling av kjøtt som oppfyller kravene i punkt 1, bortsett fra punkt 1 bokstav c) i),
+         og
+      2. mekanisk utbeinet kjøtt som oppfyller kravene i kapittel III punkt 3 bokstav d).
+3. Råstoffene som brukes til å produsere mekanisk utbeinet kjøtt, skal oppfylle følgende krav:
+
+   1. de skal oppfylle kravene til ferskt kjøtt,
+   2. følgende skal ikke brukes til å produsere mekanisk utbeinet kjøtt:
+
+      1. for fjørfe: føtter, halsskinn og hode,
+         og
+      2. for andre dyr: bein fra hodet, føtter, haler, lårbein, skinnebein, leggbein, overarmsbein, spolebein og albubein.
 
 ###### Kapittel III: Hygiene under og etter produksjonen
 
-Driftsansvarlige for næringsmiddelforetak som produserer kvernet kjøtt, tilberedt kjøtt eller mekanisk utbeinet kjøtt, skal sikre at følgende krav oppfylles:Arbeidet med kjøttet må organiseres på en slik måte at forurensning forhindres eller begrenses mest mulig. Derfor skal driftsansvarlige for næringsmiddelforetak særlig sikre at kjøttet som brukes:har en temperatur på høyst 4 °C for fjørfe, 3 °C for slaktebiprodukter og 7 °C for annet kjøtt,
-ogbringes inn i tilberedningslokalet etter hvert som det er behov for det.Følgende krav gjelder for produksjon av kvernet kjøtt og tilberedt kjøtt:med mindre vedkommende myndighet tillater at kjøttet utbeines like før det kvernes, skal fryst eller dypfryst kjøtt som brukes til tilberedning av kvernet kjøtt eller tilberedt kjøtt, være utbeinet før det fryses. Det kan lagres bare i et begrenset tidsrom,når det tilberedes av kjølt kjøtt, skal kvernet kjøtt tilberedes:senest tre dager etter slaktingen, når det gjelder fjørfe,senest seks dager etter slaktingen, når det gjelder andre dyr enn fjørfe,
-ellersenest 15 dager etter slaktingen av dyrene, når det gjelder utbeinet, vakuumpakket storfekjøtt,straks etter produksjonen skal kvernet kjøtt og tilberedt kjøtt innpakkes eller emballeres, og:kjøles til en kjernetemperatur på høyst 2 °C for kvernet kjøtt og 4 °C for tilberedt kjøtt,
-ellerfryses til en kjernetemperatur på -18 °C eller lavere.Disse temperaturene skal holdes under lagring og transport.Følgende krav gjelder for produksjon og bruk av mekanisk utbeinet kjøtt som er produsert ved hjelp av teknikker som ikke endrer strukturen på de beina som brukes i produksjonen av mekanisk utbeinet kjøtt, og hvis innhold av kalsium ikke er vesentlig høyere enn i kvernet kjøtt:Råstoff til utbeining fra et slakteri på stedet skal ikke være mer enn sju dager gammelt. Ellers skal råstoff til utbeining ikke være mer enn fem dager gammelt. Fjørfeskrotter skal imidlertid ikke være mer enn tre dager gamle.Mekanisk utbeining skal finne sted umiddelbart etter utbeiningen.Dersom det mekanisk utbeinede kjøttet ikke brukes umiddelbart etter at det er produsert, skal det innpakkes eller emballeres og deretter kjøles til en temperatur på høyst 2 °C eller fryses til en kjernetemperatur på -18 °C eller lavere. Disse temperaturkravene skal holdes under lagring og transport.Dersom den driftsansvarlige for næringsmiddelforetaket har gjennomført analyser som viser at mekanisk utbeinet kjøtt oppfyller de mikrobiologiske kriteriene for kvernet kjøtt som er vedtatt i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*), kan det brukes i tilberedt kjøtt som åpenbart ikke er beregnet på konsum, uten først å ha gjennomgått varmebehandling, samt i kjøttprodukter.Mekanisk utbeinet kjøtt som ikke er påvist å oppfylle kriteriene nevnt i bokstav d), kan brukes bare til å framstille varmebehandlede kjøttprodukter i virksomheter som er godkjent i samsvar med denne forordning.Følgende krav gjelder produksjon og bruk av mekanisk utbeinet kjøtt som er produsert med andre teknikker enn dem som er nevnt i punkt 3:Råstoff til utbeining fra et slakteri på stedet skal ikke være mer enn sju dager gammelt. Ellers skal råstoff til utbeining ikke være mer enn fem dager gammelt. Fjørfeskrotter skal imidlertid ikke være mer enn tre dager gamle.Dersom mekanisk utbeining ikke finner sted omgående etter utbeining, skal kjøttbeinene lagres og transporteres ved en temperatur på høyst 2 °C, eller dersom de er fryst, ved en temperatur på -18 °C eller lavere.Kjøttbein fra fryste skrotter skal ikke fryses på nytt.Dersom mekanisk utbeinet kjøtt ikke brukes innen én time etter at det er produsert, skal det straks kjøles til en temperatur på høyst 2 °C.Dersom det mekanisk utbeinede kjøttet ikke foredles innen 24 timer etter kjøling, skal det fryses innen 12 timer etter at det er produsert, og det skal innen seks timer nå en kjernetemperatur på -18 °C eller lavere.Fryst mekanisk utbeinet kjøtt skal innpakkes eller emballeres før lagring eller transport, det skal ikke lagres i mer enn tre måneder, og det skal holdes på en temperatur på -18 °C eller lavere under lagring og transport.Mekanisk utbeinet kjøtt kan brukes bare til å framstille varmebehandlede kjøttprodukter i virksomheter som er godkjent i samsvar med denne forordning.Kvernet kjøtt, tilberedt kjøtt og mekanisk utbeinet kjøtt skal ikke fryses på nytt etter tining.
-►**M27**Kjøttpreparater som tørrmodnes, skal oppfylle kravene fastsatt i avsnitt I kapittel VII nr. 2a i dette vedlegg III.
-◄**M27**
+Driftsansvarlige for næringsmiddelforetak som produserer kvernet kjøtt, tilberedt kjøtt eller mekanisk utbeinet kjøtt, skal sikre at følgende krav oppfylles:
+
+1. Arbeidet med kjøttet må organiseres på en slik måte at forurensning forhindres eller begrenses mest mulig. Derfor skal driftsansvarlige for næringsmiddelforetak særlig sikre at kjøttet som brukes:
+
+   1. har en temperatur på høyst 4 °C for fjørfe, 3 °C for slaktebiprodukter og 7 °C for annet kjøtt,
+      og
+   2. bringes inn i tilberedningslokalet etter hvert som det er behov for det.
+2. Følgende krav gjelder for produksjon av kvernet kjøtt og tilberedt kjøtt:
+
+   1. med mindre vedkommende myndighet tillater at kjøttet utbeines like før det kvernes, skal fryst eller dypfryst kjøtt som brukes til tilberedning av kvernet kjøtt eller tilberedt kjøtt, være utbeinet før det fryses. Det kan lagres bare i et begrenset tidsrom,
+   2. når det tilberedes av kjølt kjøtt, skal kvernet kjøtt tilberedes:
+
+      1. senest tre dager etter slaktingen, når det gjelder fjørfe,
+      2. senest seks dager etter slaktingen, når det gjelder andre dyr enn fjørfe,
+         eller
+      3. senest 15 dager etter slaktingen av dyrene, når det gjelder utbeinet, vakuumpakket storfekjøtt,
+   3. straks etter produksjonen skal kvernet kjøtt og tilberedt kjøtt innpakkes eller emballeres, og:
+
+      1. kjøles til en kjernetemperatur på høyst 2 °C for kvernet kjøtt og 4 °C for tilberedt kjøtt,
+         eller
+      2. fryses til en kjernetemperatur på -18 °C eller lavere.
+
+      Disse temperaturene skal holdes under lagring og transport.
+3. Følgende krav gjelder for produksjon og bruk av mekanisk utbeinet kjøtt som er produsert ved hjelp av teknikker som ikke endrer strukturen på de beina som brukes i produksjonen av mekanisk utbeinet kjøtt, og hvis innhold av kalsium ikke er vesentlig høyere enn i kvernet kjøtt:
+
+   1. Råstoff til utbeining fra et slakteri på stedet skal ikke være mer enn sju dager gammelt. Ellers skal råstoff til utbeining ikke være mer enn fem dager gammelt. Fjørfeskrotter skal imidlertid ikke være mer enn tre dager gamle.
+   2. Mekanisk utbeining skal finne sted umiddelbart etter utbeiningen.
+   3. Dersom det mekanisk utbeinede kjøttet ikke brukes umiddelbart etter at det er produsert, skal det innpakkes eller emballeres og deretter kjøles til en temperatur på høyst 2 °C eller fryses til en kjernetemperatur på -18 °C eller lavere. Disse temperaturkravene skal holdes under lagring og transport.
+   4. Dersom den driftsansvarlige for næringsmiddelforetaket har gjennomført analyser som viser at mekanisk utbeinet kjøtt oppfyller de mikrobiologiske kriteriene for kvernet kjøtt som er vedtatt i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*), kan det brukes i tilberedt kjøtt som åpenbart ikke er beregnet på konsum, uten først å ha gjennomgått varmebehandling, samt i kjøttprodukter.
+   5. Mekanisk utbeinet kjøtt som ikke er påvist å oppfylle kriteriene nevnt i bokstav d), kan brukes bare til å framstille varmebehandlede kjøttprodukter i virksomheter som er godkjent i samsvar med denne forordning.
+4. Følgende krav gjelder produksjon og bruk av mekanisk utbeinet kjøtt som er produsert med andre teknikker enn dem som er nevnt i punkt 3:
+
+   1. Råstoff til utbeining fra et slakteri på stedet skal ikke være mer enn sju dager gammelt. Ellers skal råstoff til utbeining ikke være mer enn fem dager gammelt. Fjørfeskrotter skal imidlertid ikke være mer enn tre dager gamle.
+   2. Dersom mekanisk utbeining ikke finner sted omgående etter utbeining, skal kjøttbeinene lagres og transporteres ved en temperatur på høyst 2 °C, eller dersom de er fryst, ved en temperatur på -18 °C eller lavere.
+   3. Kjøttbein fra fryste skrotter skal ikke fryses på nytt.
+   4. Dersom mekanisk utbeinet kjøtt ikke brukes innen én time etter at det er produsert, skal det straks kjøles til en temperatur på høyst 2 °C.
+   5. Dersom det mekanisk utbeinede kjøttet ikke foredles innen 24 timer etter kjøling, skal det fryses innen 12 timer etter at det er produsert, og det skal innen seks timer nå en kjernetemperatur på -18 °C eller lavere.
+   6. Fryst mekanisk utbeinet kjøtt skal innpakkes eller emballeres før lagring eller transport, det skal ikke lagres i mer enn tre måneder, og det skal holdes på en temperatur på -18 °C eller lavere under lagring og transport.
+   7. Mekanisk utbeinet kjøtt kan brukes bare til å framstille varmebehandlede kjøttprodukter i virksomheter som er godkjent i samsvar med denne forordning.
+5. Kvernet kjøtt, tilberedt kjøtt og mekanisk utbeinet kjøtt skal ikke fryses på nytt etter tining.
+   ►**M27**
+6. Kjøttpreparater som tørrmodnes, skal oppfylle kravene fastsatt i avsnitt I kapittel VII nr. 2a i dette vedlegg III.
+   ◄**M27**
 
 ###### Kapittel IV: Merking
 
@@ -1189,8 +1889,16 @@ ellerfryses til en kjernetemperatur på -18 °C eller lavere.Disse temperaturene
 
 ### Avsnitt VI: Kjøttprodukter
 
-1. Driftsansvarlige for næringsmiddelforetak skal sikre at følgende deler ikke brukes til tilberedning av kjøttprodukter:kjønnsorganer fra enten hunn- eller hanndyr, unntatt testikler,urinveisorganer, unntatt nyrer og blære,brusk fra strupehodet, luftrøret og ekstralobulare bronkier,øyne og øyelokk,ytre øregang,hornvev,
-oghos fjørfe, hodet – unntatt kam og ører, hakelapper og hudlapper – spiserør, kro, innvoller og kjønnsorganer.
+1. Driftsansvarlige for næringsmiddelforetak skal sikre at følgende deler ikke brukes til tilberedning av kjøttprodukter:
+
+   1. kjønnsorganer fra enten hunn- eller hanndyr, unntatt testikler,
+   2. urinveisorganer, unntatt nyrer og blære,
+   3. brusk fra strupehodet, luftrøret og ekstralobulare bronkier,
+   4. øyne og øyelokk,
+   5. ytre øregang,
+   6. hornvev,
+      og
+   7. hos fjørfe, hodet – unntatt kam og ører, hakelapper og hudlapper – spiserør, kro, innvoller og kjønnsorganer.
 2. Alt kjøtt, herunder kvernet kjøtt og tilberedt kjøtt, som brukes til produksjon av kjøttprodukter, skal oppfylle kravene til ferskt kjøtt. Kvernet kjøtt og tilberedt kjøtt som brukes til produksjon av kjøttprodukter, trenger imidlertid ikke å oppfylle andre særlige krav i avsnitt V.
 
 ### Avsnitt VII: Levende muslinger
@@ -1198,31 +1906,78 @@ oghos fjørfe, hodet – unntatt kam og ører, hakelapper og hudlapper – spise
 ►**M20**
 
 - Dette avsnittet får anvendelse på levende muslinger. Med unntak av bestemmelsene om rensing får det også anvendelse på levende pigghuder, levende sekkedyr og levende sjøsnegler. Bestemmelsene om klassifisering av produksjonsområder i kapittel II del A i avsnittet får ikke anvendelse på sjøsnegler og pigghuder som ikke er næringsfiltrerende.
-◄**M20**
-►**M23**
+  ◄**M20**
+  ►**M23**
 - I dette avsnittet menes med «mellomledd» en annen driftsansvarlig for et næringsmiddelforetak enn første leverandør, herunder forhandlere, med eller uten lokaler, som utfører sine aktiviteter mellom produksjonsområder, gjenutleggingsområder eller virksomheter.
-◄**M23**
+  ◄**M23**
 - Kapittel I-VIII får anvendelse på dyr som er høstet fra produksjonsområder som vedkommende myndighet har klassifisert i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*). Kapittel IX får anvendelse på kamskjell som er høstet utenfor disse områdene.
 - Kapittel V, VI, VIII og IX og punkt 3 i kapittel VII får anvendelse på detaljhandelen.
-- Kravene i dette avsnitt utfyller kravene fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*):Når det gjelder arbeidsoperasjoner som finner sted før levende muslinger ankommer en ekspedisjonssentral eller en rensesentral, utfyller de kravene i vedlegg I til nevnte forordning.Når det gjelder andre arbeidsoperasjoner, utfyller de kravene i vedlegg II til nevnte forordning.
+- Kravene i dette avsnitt utfyller kravene fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*):
+
+  1. Når det gjelder arbeidsoperasjoner som finner sted før levende muslinger ankommer en ekspedisjonssentral eller en rensesentral, utfyller de kravene i vedlegg I til nevnte forordning.
+  2. Når det gjelder andre arbeidsoperasjoner, utfyller de kravene i vedlegg II til nevnte forordning.
 
 ###### Kapittel I: Allmenne krav til omsetning av levende muslinger
 
 1. Levende muslinger kan ikke omsettes for detaljsalg på annen måte enn gjennom en ekspedisjonssentral, der et identifikasjonsmerke skal påføres i samsvar med kapittel VII.
 2. Driftsansvarlige for næringsmiddelforetak kan motta partier av levende muslinger bare dersom kravene til dokumentasjon fastsatt i punkt 3-7, er oppfylt.
-►**M23**
+   ►**M23**
 3. Når en driftsansvarlig for et næringsmiddelforetak flytter et parti levende muslinger mellom produksjonsområder, gjenutleggingsområder eller virksomheter, skal partiet følges av et registreringsdokument.
-◄**M23**
-4. Registreringsdokumentet skal foreligge på minst ett av de offisielle språkene i medlemsstaten der den mottakende virksomheten ligger, og det skal minst inneholde opplysningene angitt nedenfor:Dersom et parti levende muslinger sendes fra et produksjonsområde, skal registreringsdokumentet inneholde minst følgende opplysninger:produsentens identitet og adresse,innhøstingsdatoen,produksjonsområdets beliggenhet, beskrevet så detaljert som mulig eller angitt ved hjelp av et kodenummer,produksjonsområdets helsetilstand,muslingenes art og mengde,
-ogpartiets bestemmelsessted.Dersom et parti levende muslinger sendes fra et gjenutleggingsområde, skal registreringsdokumentet inneholde minst opplysningene nevnt i bokstav a), samt følgende opplysninger:gjenutleggingsområdets beliggenhet,gjenutleggingens varighet.Dersom et parti levende muslinger sendes fra en rensesentral, skal registreringsdokumentet inneholde minst opplysningene nevnt i bokstav a), samt følgende opplysninger:rensesentralens adresse,rensingens varighet,
-oghvilke datoer partiet ankom og forlot rensesentralen.►**M23**Dersom et parti levende muslinger sendes inn av et mellomledd, skal partiet følges av et nytt registreringsdokument som fylles ut av mellomleddet. Registreringsdokumentet skal inneholde minst opplysningene nevnt i bokstav a), b) og c), samt følgende opplysninger:Mellomleddets navn og adresse.Ved kondisjonering eller ved nedsenking for lagringsformål: startdato, sluttdato og sted for kondisjoneringen eller nedsenkingen.Dersom det ble utført kondisjonering i et naturlig miljø, skal mellomleddet bekrefte at det naturlige miljøet der kondisjoneringen fant sted, på kondisjoneringstidspunktet var klassifisert som et produksjonsområde i klasse A som er åpent for innhøsting.Dersom det ble foretatt en ny nedsenking i et naturlig miljø, skal mellomleddet bekrefte at det naturlige miljøet der nedsenkingen fant sted, på tidspunktet for nedsenking hadde samme klassifisering som produksjonsområdet der de levende muslingene ble høstet.Dersom nedsenkingen skjedde i et anlegg, skal mellomleddet bekrefte at anlegget var godkjent på tidspunktet for nedsenkingen. Nedsenkingen skal ikke føre til ytterligere forurensning av de levende muslingene.Ved gruppering: art, start- og sluttdato for grupperingen, status for området der de levende muslingene ble høstet, samt om partiet som er gruppert, som alltid skal bestå av samme art, fanget på samme dato og i samme produksjonsområde.◄**M23**
+   ◄**M23**
+4. Registreringsdokumentet skal foreligge på minst ett av de offisielle språkene i medlemsstaten der den mottakende virksomheten ligger, og det skal minst inneholde opplysningene angitt nedenfor:
+
+   1. Dersom et parti levende muslinger sendes fra et produksjonsområde, skal registreringsdokumentet inneholde minst følgende opplysninger:
+
+      1. produsentens identitet og adresse,
+      2. innhøstingsdatoen,
+      3. produksjonsområdets beliggenhet, beskrevet så detaljert som mulig eller angitt ved hjelp av et kodenummer,
+      4. produksjonsområdets helsetilstand,
+      5. muslingenes art og mengde,
+         og
+      6. partiets bestemmelsessted.
+   2. Dersom et parti levende muslinger sendes fra et gjenutleggingsområde, skal registreringsdokumentet inneholde minst opplysningene nevnt i bokstav a), samt følgende opplysninger:
+
+      1. gjenutleggingsområdets beliggenhet,
+      2. gjenutleggingens varighet.
+   3. Dersom et parti levende muslinger sendes fra en rensesentral, skal registreringsdokumentet inneholde minst opplysningene nevnt i bokstav a), samt følgende opplysninger:
+
+      1. rensesentralens adresse,
+      2. rensingens varighet,
+         og
+      3. hvilke datoer partiet ankom og forlot rensesentralen.
+
+      ►**M23**
+   4. Dersom et parti levende muslinger sendes inn av et mellomledd, skal partiet følges av et nytt registreringsdokument som fylles ut av mellomleddet. Registreringsdokumentet skal inneholde minst opplysningene nevnt i bokstav a), b) og c), samt følgende opplysninger:
+
+      1. Mellomleddets navn og adresse.
+      2. Ved kondisjonering eller ved nedsenking for lagringsformål: startdato, sluttdato og sted for kondisjoneringen eller nedsenkingen.
+      3. Dersom det ble utført kondisjonering i et naturlig miljø, skal mellomleddet bekrefte at det naturlige miljøet der kondisjoneringen fant sted, på kondisjoneringstidspunktet var klassifisert som et produksjonsområde i klasse A som er åpent for innhøsting.
+      4. Dersom det ble foretatt en ny nedsenking i et naturlig miljø, skal mellomleddet bekrefte at det naturlige miljøet der nedsenkingen fant sted, på tidspunktet for nedsenking hadde samme klassifisering som produksjonsområdet der de levende muslingene ble høstet.
+      5. Dersom nedsenkingen skjedde i et anlegg, skal mellomleddet bekrefte at anlegget var godkjent på tidspunktet for nedsenkingen. Nedsenkingen skal ikke føre til ytterligere forurensning av de levende muslingene.
+      6. Ved gruppering: art, start- og sluttdato for grupperingen, status for området der de levende muslingene ble høstet, samt om partiet som er gruppert, som alltid skal bestå av samme art, fanget på samme dato og i samme produksjonsområde.
+
+      ◄**M23**
 5. Driftsansvarlige for næringsmiddelforetak som sender partier med levende muslinger, skal fylle ut de relevante avsnittene i registreringsdokumentet slik at de er lette å lese og ikke kan endres. Driftsansvarlige for næringsmiddelforetak som mottar partier, skal datostemple dokumentet når de mottar partiet, eller registrere mottaksdatoen på annen måte.
 6. Driftsansvarlige for næringsmiddelforetak skal oppbevare en kopi av registreringsdokumentet for hvert parti som er sendt og mottatt, i minst 12 måneder etter at partiet ble sendt eller mottatt (eller i et lengre tidsrom som vedkommende myndighet eventuelt kan fastsette).
-7. Dersom imidlertid:det personalet som samler inn levende muslinger, også driver ekspedisjonssentralen, rensesentralen, gjenutleggingsområdet eller foredlingsvirksomheten som mottar de levende muslingene,
-ogden samme vedkommende myndighet fører tilsyn med alle de berørte virksomhetene,er det ikke nødvendig med registreringsdokumenter dersom vedkommende myndighet tillater dette.
-►**M23**
-8. Mellomledd skal væreregistrert hos vedkommende myndighet som et næringsmiddelforetak som utfører primærproduksjon som nevnt i artikkel 4 nr. 2 bokstav a), dersom de ikke har lokaler eller har lokaler der de bare håndterer, vasker og lagrer levende muslinger ved omgivelsestemperatur, uten at de grupperer eller kondisjonerer dem, ellerer godkjent av vedkommende myndighet som driftsansvarlig for næringsmiddelforetak i samsvar med artikkel 4 nr. 2 dersom de, i tillegg til å utføre aktivitetene nevnt i bokstav a), har et kjølelager, eller de grupperer eller deler opp partier av levende muslinger, eller de utfører kondisjonering eller nedsenking.
-9. Mellomledd kan motta levende muslinger fra produksjonsområder som er klassifisert som A, B eller C, fra gjenutleggingsområder eller fra andre mellomledd. Mellomledd kan sende levende muslingerfra produksjonsområder i klasse A til ekspedisjonssentraler eller et annet mellomledd,fra produksjonsområder i klasse B bare til rensesentraler, foredlingsvirksomheter eller til et annet mellomledd,fra produksjonsområder i klasse C til foredlingsvirksomheter eller til et annet mellomledd med lokaler.◄**M23**
+7. Dersom imidlertid:
+
+   1. det personalet som samler inn levende muslinger, også driver ekspedisjonssentralen, rensesentralen, gjenutleggingsområdet eller foredlingsvirksomheten som mottar de levende muslingene,
+      og
+   2. den samme vedkommende myndighet fører tilsyn med alle de berørte virksomhetene,
+
+   er det ikke nødvendig med registreringsdokumenter dersom vedkommende myndighet tillater dette.
+   ►**M23**
+8. Mellomledd skal være
+
+   1. registrert hos vedkommende myndighet som et næringsmiddelforetak som utfører primærproduksjon som nevnt i artikkel 4 nr. 2 bokstav a), dersom de ikke har lokaler eller har lokaler der de bare håndterer, vasker og lagrer levende muslinger ved omgivelsestemperatur, uten at de grupperer eller kondisjonerer dem, eller
+   2. er godkjent av vedkommende myndighet som driftsansvarlig for næringsmiddelforetak i samsvar med artikkel 4 nr. 2 dersom de, i tillegg til å utføre aktivitetene nevnt i bokstav a), har et kjølelager, eller de grupperer eller deler opp partier av levende muslinger, eller de utfører kondisjonering eller nedsenking.
+9. Mellomledd kan motta levende muslinger fra produksjonsområder som er klassifisert som A, B eller C, fra gjenutleggingsområder eller fra andre mellomledd. Mellomledd kan sende levende muslinger
+
+   1. fra produksjonsområder i klasse A til ekspedisjonssentraler eller et annet mellomledd,
+   2. fra produksjonsområder i klasse B bare til rensesentraler, foredlingsvirksomheter eller til et annet mellomledd,
+   3. fra produksjonsområder i klasse C til foredlingsvirksomheter eller til et annet mellomledd med lokaler.
+
+   ◄**M23**
 
 ###### Kapittel II: Hygienekrav til produksjon og innhøsting av levende muslinger
 
@@ -1232,25 +1987,53 @@ A. *Krav til produksjonsområder*
 2. Driftsansvarlige for næringsmiddelforetak kan omsette levende muslinger innsamlet fra produksjonsområder i klasse A, til direkte konsum bare dersom de oppfyller kravene i kapittel V.
 3. Driftsansvarlige for næringsmiddelforetak kan omsette levende muslinger innsamlet fra produksjonsområder i klasse B, til konsum bare etter at de er behandlet i en rensesentral eller etter gjenutlegging.
 4. Driftsansvarlige for næringsmiddelforetak kan omsette levende muslinger innsamlet fra produksjonsområder i klasse C, til konsum bare etter gjenutlegging i et langt tidsrom i samsvar med del C i dette kapittel.
-5. Etter rensing eller gjenutlegging skal levende muslinger fra produksjonsområder i klasse B eller C oppfylle alle krav i kapittel V. Levende muslinger fra slike områder som ikke er blitt renset eller gjenutlagt, kan imidlertid sendes til en foredlingsvirksomhet der de skal behandles for å fjerne patogene mikroorganismer (eventuelt etter at sand, mudder eller slim er fjernet i samme eller i en annen virksomhet). Følgende behandlingsmetoder er tillatt:sterilisering i hermetisk lukkede beholdere,
-ogvarmebehandling som omfatter:nedsenking i kokende vann i den tiden det tar å heve kjernetemperaturen i muslingenes kjøtt til minst 90 °C og opprettholdelse av denne minstetemperaturen i 90 sekunder eller mer,koking i 3-5 minutter i en lukket beholder der temperaturen ligger på mellom 120 og 160 °C og trykket er på mellom 2 og 5 kg/cm2, etterfulgt av fjerning av skall og frysing av kjøttet til en kjernetemperatur på -20 °C,
-ogdampkoking under trykk i en lukket beholder der kravene til koketid og kjernetemperatur i muslingenes kjøtt nevnt i punkt i), er oppfylt. Det skal benyttes en validert metode. Det skal være innført framgangsmåter basert på HACCP-prinsippene for å bekrefte at varmen fordeles jevnt.
+5. Etter rensing eller gjenutlegging skal levende muslinger fra produksjonsområder i klasse B eller C oppfylle alle krav i kapittel V. Levende muslinger fra slike områder som ikke er blitt renset eller gjenutlagt, kan imidlertid sendes til en foredlingsvirksomhet der de skal behandles for å fjerne patogene mikroorganismer (eventuelt etter at sand, mudder eller slim er fjernet i samme eller i en annen virksomhet). Følgende behandlingsmetoder er tillatt:
+
+   1. sterilisering i hermetisk lukkede beholdere,
+      og
+   2. varmebehandling som omfatter:
+
+      1. nedsenking i kokende vann i den tiden det tar å heve kjernetemperaturen i muslingenes kjøtt til minst 90 °C og opprettholdelse av denne minstetemperaturen i 90 sekunder eller mer,
+      2. koking i 3-5 minutter i en lukket beholder der temperaturen ligger på mellom 120 og 160 °C og trykket er på mellom 2 og 5 kg/cm2, etterfulgt av fjerning av skall og frysing av kjøttet til en kjernetemperatur på -20 °C,
+         og
+      3. dampkoking under trykk i en lukket beholder der kravene til koketid og kjernetemperatur i muslingenes kjøtt nevnt i punkt i), er oppfylt. Det skal benyttes en validert metode. Det skal være innført framgangsmåter basert på HACCP-prinsippene for å bekrefte at varmen fordeles jevnt.
 6. Driftsansvarlige for næringsmiddelforetak skal ikke produsere levende muslinger i, eller høste dem fra, områder som vedkommende myndighet ikke har klassifisert, eller som er uegnet av helsemessige grunner. Driftsansvarlige for næringsmiddelforetak skal ta hensyn til alle relevante opplysninger om områdenes egnethet til produksjon og innhøsting, herunder opplysninger som er innhentet ved egenkontroll og fra vedkommende myndighet. De skal bruke disse opplysningene, særlig opplysninger om miljø- og værforhold, til å fastslå hvilken behandling som er mest hensiktsmessig å bruke på de høstede partiene.
 
 B. *Krav til innhøsting og håndtering etter innhøsting*
 
-Driftsansvarlige for næringsmiddelforetak som høster levende muslinger, eller som håndterer dem umiddelbart etter innhøstingen, skal sikre at følgende krav oppfylles:Innhøstingsmetoder og videre håndtering skal ikke føre til ytterligere forurensning eller omfattende skade på skall eller vev hos levende muslinger, eller føre til endringer som i vesentlig grad påvirker deres egnethet til behandling ved rensing, foredling eller gjenutlegging. Driftsansvarlige for næringsmiddelforetak skal særlig:beskytte levende muslinger på egnet måte mot knusing, skraping eller vibrasjoner,ikke utsette levende muslinger for ekstreme temperaturer,ikke sette de levende muslingene ut igjen i vann som kan føre til ytterligere forurensning,
-ogdersom de utfører kondisjoneringen i naturlige miljøer, bruke bare områder som er klassifisert som klasse A av vedkommende myndighet.Transportmidlene skal ha egnet avløp, være utstyrt for å sikre best mulige overlevelsesvilkår og gi effektiv beskyttelse mot forurensning.
+Driftsansvarlige for næringsmiddelforetak som høster levende muslinger, eller som håndterer dem umiddelbart etter innhøstingen, skal sikre at følgende krav oppfylles:
+
+1. Innhøstingsmetoder og videre håndtering skal ikke føre til ytterligere forurensning eller omfattende skade på skall eller vev hos levende muslinger, eller føre til endringer som i vesentlig grad påvirker deres egnethet til behandling ved rensing, foredling eller gjenutlegging. Driftsansvarlige for næringsmiddelforetak skal særlig:
+
+   1. beskytte levende muslinger på egnet måte mot knusing, skraping eller vibrasjoner,
+   2. ikke utsette levende muslinger for ekstreme temperaturer,
+   3. ikke sette de levende muslingene ut igjen i vann som kan føre til ytterligere forurensning,
+      og
+   4. dersom de utfører kondisjoneringen i naturlige miljøer, bruke bare områder som er klassifisert som klasse A av vedkommende myndighet.
+2. Transportmidlene skal ha egnet avløp, være utstyrt for å sikre best mulige overlevelsesvilkår og gi effektiv beskyttelse mot forurensning.
 
 C. *Krav til gjenutlegging av levende muslinger*
 
-Driftsansvarlige for næringsmiddelforetak som gjenutlegger levende muslinger, skal sikre at følgende krav oppfylles:Driftsansvarlige for næringsmiddelforetak kan bruke bare de områdene som vedkommende myndighet har godkjent til gjenutlegging av levende muslinger. Områdene skal være klart avgrenset av bøyer, påler eller andre faste innretninger. Det skal være en minsteavstand mellom gjenutleggingsområder og også mellom gjenutleggingsområder og produksjonsområder, slik at enhver risiko for spredning av forurensning reduseres mest mulig.Vilkårene for gjenutlegging skal sikre best mulige vilkår for rensing. Driftsansvarlige for næringsmiddelforetak skal særlig:bruke metoder for håndtering av levende muslinger beregnet på gjenutlegging, som gjør det mulig for muslingene å gje noppta næringsopptaket ved filtrering etter at de er satt ut i naturlige van nområder,ikke gjenutlegge levende muslinger så tett at det hindrer rensing,sette de levende muslingene ut i sjøvann i gjenutleggingsområdet i et passende tidsrom, som fastsettes avhengig av vanntemperaturen, og som skal være av minst to måneders varighet, med mindre vedkommende myndighet godkjenner et kortere tidsrom på grunnlag av en fareanalyse foretatt av den driftsansvarlige for næringsmiddelforetaket,
-ogsikre at det er tilstrekkelig avstand mellom de enkelte områdene innenfor et gjenutleggingsområde til å hindre sammenblanding av partier; systemet «alt inn, alt ut» skal benyttes, slik at et nytt parti ikke kan bringes inn før hele det forrige partiet er fjernet.Driftsansvarlige for næringsmiddelforetak som forvalter gjenutleggingsområdene, skal føre løpende registre over de levende muslingenes opprinnelse, gjenutleggingsperioder, de gjenutleggingsområdene som benyttes, og det endelige bestemmelsesstedet for partiet etter gjenutlegging, og stille disse opplysningene til rådighet for vedkommende myndighet.
+Driftsansvarlige for næringsmiddelforetak som gjenutlegger levende muslinger, skal sikre at følgende krav oppfylles:
+
+1. Driftsansvarlige for næringsmiddelforetak kan bruke bare de områdene som vedkommende myndighet har godkjent til gjenutlegging av levende muslinger. Områdene skal være klart avgrenset av bøyer, påler eller andre faste innretninger. Det skal være en minsteavstand mellom gjenutleggingsområder og også mellom gjenutleggingsområder og produksjonsområder, slik at enhver risiko for spredning av forurensning reduseres mest mulig.
+2. Vilkårene for gjenutlegging skal sikre best mulige vilkår for rensing. Driftsansvarlige for næringsmiddelforetak skal særlig:
+
+   1. bruke metoder for håndtering av levende muslinger beregnet på gjenutlegging, som gjør det mulig for muslingene å gje noppta næringsopptaket ved filtrering etter at de er satt ut i naturlige van nområder,
+   2. ikke gjenutlegge levende muslinger så tett at det hindrer rensing,
+   3. sette de levende muslingene ut i sjøvann i gjenutleggingsområdet i et passende tidsrom, som fastsettes avhengig av vanntemperaturen, og som skal være av minst to måneders varighet, med mindre vedkommende myndighet godkjenner et kortere tidsrom på grunnlag av en fareanalyse foretatt av den driftsansvarlige for næringsmiddelforetaket,
+      og
+   4. sikre at det er tilstrekkelig avstand mellom de enkelte områdene innenfor et gjenutleggingsområde til å hindre sammenblanding av partier; systemet «alt inn, alt ut» skal benyttes, slik at et nytt parti ikke kan bringes inn før hele det forrige partiet er fjernet.
+3. Driftsansvarlige for næringsmiddelforetak som forvalter gjenutleggingsområdene, skal føre løpende registre over de levende muslingenes opprinnelse, gjenutleggingsperioder, de gjenutleggingsområdene som benyttes, og det endelige bestemmelsesstedet for partiet etter gjenutlegging, og stille disse opplysningene til rådighet for vedkommende myndighet.
 
 ###### Kapittel III: Strukturelle krav til ekspedisjonssentraler og rensesentraler
 
 1. Anleggene på land skal ikke være utsatt for oversvømmelse ved normalt høyvann eller avrenning fra omliggende områder.
-2. Tanker og vannbeholdere skal oppfylle følgende krav:innvendige overflater skal være glatte, harde, tette og lette å rengjøre,de skal være konstruert slik at alt vann kan renne ut,eventuelle vanninntak skal være plassert slik at forurensning av vannforsyningen unngås.
+2. Tanker og vannbeholdere skal oppfylle følgende krav:
+
+   1. innvendige overflater skal være glatte, harde, tette og lette å rengjøre,
+   2. de skal være konstruert slik at alt vann kan renne ut,
+   3. eventuelle vanninntak skal være plassert slik at forurensning av vannforsyningen unngås.
 3. Dessuten skal rensetankene i rensesentralene være tilpasset den produktmengden og -typen som skal renses.
 
 ###### Kapittel IV: Hygienekrav til ekspedisjonssentraler og rensesentraler
@@ -1262,7 +2045,7 @@ Driftsansvarlige for næringsmiddelforetak som renser levende muslinger, skal si
 ►**M23**
 
 1. Før rensing skal de levende muslingene være rene for mudder og annet belegg og om nødvendig vaskes med rent vann.
-◄**M23**
+   ◄**M23**
 2. Renseanlegget skal fungere på en slik måte at de levende muslingene raskt gjenopptar og opprettholder næringsopptaket ved filtrering, beskyttes mot forurensning fra avløpsvann og ikke forurenses på nytt og kan holde seg i live etter rensing i en slik tilstand at de kan innpakkes, lagres og transporteres før de omsettes.
 3. Mengden av levende muslinger som skal renses, skal ikke overskride rensesentralens kapasitet. De levende muslingene skal renses kontinuerlig i et tidsrom som er langt nok til at helsestandardene i kapittel V og de mikrobiologiske kriteriene som er vedtatt i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*), oppfylles.
 4. Dersom en rensetank inneholder flere partier levende muslinger, skal de være av samme art, og behandlingens varighet skal fastsettes etter det partiet som krever lengst rensetid.
@@ -1272,32 +2055,56 @@ Driftsansvarlige for næringsmiddelforetak som renser levende muslinger, skal si
 
 B. *Krav til ekspedisjonssentraler*
 
-Driftsansvarlige for næringsmiddelforetak som driver ekspedisjonssentraler, skal sikre at følgende krav oppfylles:Håndtering av levende muslinger, særlig kondisjonering, sortering, pakking og emballering, skal ikke føre til at produktet forurenses, eller påvirke muslingenes levedyktighet.Før forsendelsen skal skallene på levende muslinger vaskes grundig med rent vann.Levende muslinger skal komme fra:et produksjonsområde i klasse A,et gjenutleggingsområde,en rensesentral,
-elleren annen ekspedisjonssentral.Kravene i punkt 1 og 2 gjelder også for ekspedisjonssentraler om bord på fartøyer. Muslinger som håndteres i slike sentraler, skal komme fra et produksjonsområde i klasse A eller et gjenutleggingsområde.
+Driftsansvarlige for næringsmiddelforetak som driver ekspedisjonssentraler, skal sikre at følgende krav oppfylles:
+
+1. Håndtering av levende muslinger, særlig kondisjonering, sortering, pakking og emballering, skal ikke føre til at produktet forurenses, eller påvirke muslingenes levedyktighet.
+2. Før forsendelsen skal skallene på levende muslinger vaskes grundig med rent vann.
+3. Levende muslinger skal komme fra:
+
+   1. et produksjonsområde i klasse A,
+   2. et gjenutleggingsområde,
+   3. en rensesentral,
+      eller
+   4. en annen ekspedisjonssentral.
+4. Kravene i punkt 1 og 2 gjelder også for ekspedisjonssentraler om bord på fartøyer. Muslinger som håndteres i slike sentraler, skal komme fra et produksjonsområde i klasse A eller et gjenutleggingsområde.
 
 ###### Kapittel V: Helsestandarder for levende muslinger
 
-I tillegg til å sikre at de mikrobiologiske kriteriene som er vedtatt i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*), oppfylles, skal driftsansvarlige for næringsmiddelforetak sikre at levende muslinger som omsettes til konsum, oppfyller standardene fastsatt i dette kapittel.De skal ha organoleptiske egenskaper som viser at de er friske og levedyktige, herunder at skallene er rene, at de reagerer normalt på banking og har normal mengde kappevann.De skal ikke inneholde marine biotoksiner i samlede mengder (målt i hele kroppen eller i hver spiselig del for seg) som overstiger følgende grenseverdier:
-►**M23**for paralyserende skjellgift (PSP), 800 mikrogram saksitoksin-ekvivalenter diHCl per kilogram,
-◄**M23**for hukommelsestap-toksin (ASP), 20 milligram domoinsyre per kilogram,
-►**M23**for samlet innhold av okadasyre og dinofysistoksiner, 160 mikrogram okadasyreekvivalenter per kilogram,
-◄**M23**
-► **M12**for yessotoksiner, 3,75 milligram yessotoksinekvivalenter per kilogram,
-og
-◄ **M12**for azaspirsyrer, 160 mikrogram azaspirsyreekvivalenter per kilogram.
+I tillegg til å sikre at de mikrobiologiske kriteriene som er vedtatt i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*), oppfylles, skal driftsansvarlige for næringsmiddelforetak sikre at levende muslinger som omsettes til konsum, oppfyller standardene fastsatt i dette kapittel.
+
+1. De skal ha organoleptiske egenskaper som viser at de er friske og levedyktige, herunder at skallene er rene, at de reagerer normalt på banking og har normal mengde kappevann.
+2. De skal ikke inneholde marine biotoksiner i samlede mengder (målt i hele kroppen eller i hver spiselig del for seg) som overstiger følgende grenseverdier:
+   ►**M23**
+
+   1. for paralyserende skjellgift (PSP), 800 mikrogram saksitoksin-ekvivalenter diHCl per kilogram,
+      ◄**M23**
+   2. for hukommelsestap-toksin (ASP), 20 milligram domoinsyre per kilogram,
+      ►**M23**
+   3. for samlet innhold av okadasyre og dinofysistoksiner, 160 mikrogram okadasyreekvivalenter per kilogram,
+      ◄**M23**
+      ► **M12**
+   4. for yessotoksiner, 3,75 milligram yessotoksinekvivalenter per kilogram,
+      og
+      ◄ **M12**
+   5. for azaspirsyrer, 160 mikrogram azaspirsyreekvivalenter per kilogram.
 
 ###### Kapittel VI: Innpakking og emballering av levende muslinger
 
 1. Østers skal innpakkes eller emballeres med det konkave skallet ned.
-► **M8**
+   ► **M8**
 2. Alle kolli med levende muslinger som forlater ekspedisjonssentraler eller som skal sendes til en annen ekspedisjonssentral, skal være lukket. Kolli med levende muslinger som er beregnet på direkte detaljsalg, skal forbli lukket til de er framlagt for salg til sluttforbrukeren.
-◄ **M8**
+   ◄ **M8**
 
 ###### Kapittel VII: Identifikasjonsmerking og merking
 
 1. Etiketten, herunder identifikasjonsmerket, skal være vannfast.
-2. I tillegg til de allmenne kravene til identifikasjonsmerker i vedlegg II avsnitt I, skal følgende opplysninger finnes på etiketten:de levende muslingenes art (vanlig navn og vitenskapelig navn),
-ogemballeringsdato, med angivelse av minst dag og måned.Som unntak fra direktiv [2000/13/EF](eu/32000l0013*) kan holdbarhetsdatoen erstattes med angivelsen: «Disse dyrene skal være levende på salgstidspunktet».
+2. I tillegg til de allmenne kravene til identifikasjonsmerker i vedlegg II avsnitt I, skal følgende opplysninger finnes på etiketten:
+
+   1. de levende muslingenes art (vanlig navn og vitenskapelig navn),
+      og
+   2. emballeringsdato, med angivelse av minst dag og måned.
+
+   Som unntak fra direktiv [2000/13/EF](eu/32000l0013*) kan holdbarhetsdatoen erstattes med angivelsen: «Disse dyrene skal være levende på salgstidspunktet».
 3. Etiketten som er festet på emballasjen med levende muslinger som ikke er i forbrukerforpakninger, skal oppbevares av detaljisten i minst 60 dager etter at innholdet i emballasjen er delt opp.
 
 ###### Kapittel VIII: Andre krav
@@ -1315,7 +2122,10 @@ Driftsansvarlige for næringsmiddelforetak som høster kamskjell, sjøsnegler og
 
 3\. Kamskjell, sjøsnegler og sjøpølser (Holothuroidea) som ikke er næringsfiltrerende, skal bare bringes i omsetning til konsum gjennom en fiskeauksjon, en ekspedisjonssentral eller en foredlingsvirksomhet. Når driftsansvarlige for slike virksomheter håndterer kamskjell og/eller slike sjøsnegler og/eller sjøpølser, skal de underrette vedkommende myndighet om dette og, når det gjelder ekspedisjonssentraler, oppfylle de relevante kravene i kapittel III og IV.
 
-4\. Driftsansvarlige for næringsmiddelforetak som håndterer kamskjell, sjøsnegler og sjøpølser som ikke er næringsfiltrerende, skal oppfyllekravene til dokumentasjon i kapittel I nr. 3-7 når det er relevant. I så fall skal registreringsdokumentet tydelig angi beliggenheten til det området der de levende kamskjellene og/eller de levende sjøsneglene og/eller sjøpølsene ble høstet, med opplysninger om systemet som er brukt for å beskrive koordinatene, ellerkravene i kapittel VI nr. 2 når det gjelder lukking av alle forpakninger med levende kamskjell, levende sjøsnegler og levende sjøpølser som er sendt til detaljsalg, og i kapittel VII når det gjelder identifikasjonsmerking og etiketter*.*
+4\. Driftsansvarlige for næringsmiddelforetak som håndterer kamskjell, sjøsnegler og sjøpølser som ikke er næringsfiltrerende, skal oppfylle
+
+1. kravene til dokumentasjon i kapittel I nr. 3-7 når det er relevant. I så fall skal registreringsdokumentet tydelig angi beliggenheten til det området der de levende kamskjellene og/eller de levende sjøsneglene og/eller sjøpølsene ble høstet, med opplysninger om systemet som er brukt for å beskrive koordinatene, eller
+2. kravene i kapittel VI nr. 2 når det gjelder lukking av alle forpakninger med levende kamskjell, levende sjøsnegler og levende sjøpølser som er sendt til detaljsalg, og i kapittel VII når det gjelder identifikasjonsmerking og etiketter*.*
 
 ◄**M23**
 
@@ -1329,18 +2139,35 @@ For å lese kapittel X se her: [(pdf)](static/SF/sf-20220501-0750-01-01.pdf)
 
 ► **M8**
 
-1. Dette avsnitt får ikke anvendelse på muslinger, pigghuder, sekkedyr og sjøsnegler som omsettes levende. Med unntak av kapittel I og II får det anvendelse på disse dyrene når de ikke omsettes levende, og i så fall skal de være anskaffet i samsvar med avsnitt VII.Det får anvendelse på tinte uforedlede fiskerivarer og ferske fiskerivarer som er tilsatt næringsmiddeltilsetningsstoffer i samsvar med relevante deler av Unionens regelverk.
-◄ **M8**
-► **M6**
+1. Dette avsnitt får ikke anvendelse på muslinger, pigghuder, sekkedyr og sjøsnegler som omsettes levende. Med unntak av kapittel I og II får det anvendelse på disse dyrene når de ikke omsettes levende, og i så fall skal de være anskaffet i samsvar med avsnitt VII.
+
+   Det får anvendelse på tinte uforedlede fiskerivarer og ferske fiskerivarer som er tilsatt næringsmiddeltilsetningsstoffer i samsvar med relevante deler av Unionens regelverk.
+   ◄ **M8**
+   ► **M6**
 2. Kapittel III del A, C og D, kapittel IV del A og kapittel V får anvendelse på detaljhandel.
-◄ **M6**
-3. Kravene i dette avsnitt utfyller kravene fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*):For virksomheter, herunder fartøyer, som benyttes til primærproduksjon og tilknyttede arbeidsoperasjoner, utfyller de kravene i vedlegg I til nevnte forordning.For andre virksomheter, herunder fartøyer, utfyller de kravene i vedlegg II til nevnte forordning.► **M6**Når det gjelder vannforsyning, utfyller de kravene i kapittel VII i vedlegg II til nevnte forordning. Rent sjøvann kan brukes til håndtering og rengjøring av fiskerivarer, produksjon av is som brukes til å kjøle fiskerivarer og til rask kjøling av krepsdyr og bløtdyr etter koking.◄ **M6**
-► **M5**
-Som unntak fra bokstav a) skal ikke del A nr. 7 i vedlegg I til forordning [(EF) nr. 852/2004](eu/32004r0852*) få anvendelse på driftsansvarlige som er involvert i kystfiske av lite omfang, som definert i artikkel 26 nr. 1 i rådsforordning [(EF) nr. 1198/2006](eu/32006r1198),\* og hvis aktiviteter bare varer i korte perioder på under 24 timer.
-◄ **M5**
-4. I forbindelse med fiskerivarer:omfatter primærproduksjon oppdrett, fiske og innsamling av levende fiskerivarer med henblikk på omsetning,
-ogomfatter tilknyttede arbeidsoperasjoner alle følgende arbeidsoperasjoner dersom de utføres om bord på fiskefartøyer: slakting, bløgging, hodekapping, sløying, fjerning av finner, nedkjøling, frysing og innpakking. De omfatter også:transport og lagring av fiskerivarer hvis egenskaper ikke er blitt vesentlig endret, herunder levende fiskerivarer, innen fiskeoppdrettsanlegg på land,
-ogtransport av fiskerivarer hvis egenskaper ikke er blitt vesentlig endret, herunder levende fiskerivarer, fra produksjonsstedet til den første bestemmelsesvirksomheten.
+   ◄ **M6**
+3. Kravene i dette avsnitt utfyller kravene fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*):
+
+   1. For virksomheter, herunder fartøyer, som benyttes til primærproduksjon og tilknyttede arbeidsoperasjoner, utfyller de kravene i vedlegg I til nevnte forordning.
+   2. For andre virksomheter, herunder fartøyer, utfyller de kravene i vedlegg II til nevnte forordning.
+
+   ► **M6**
+
+   1. Når det gjelder vannforsyning, utfyller de kravene i kapittel VII i vedlegg II til nevnte forordning. Rent sjøvann kan brukes til håndtering og rengjøring av fiskerivarer, produksjon av is som brukes til å kjøle fiskerivarer og til rask kjøling av krepsdyr og bløtdyr etter koking.
+
+   ◄ **M6**
+   ► **M5**
+   Som unntak fra bokstav a) skal ikke del A nr. 7 i vedlegg I til forordning [(EF) nr. 852/2004](eu/32004r0852*) få anvendelse på driftsansvarlige som er involvert i kystfiske av lite omfang, som definert i artikkel 26 nr. 1 i rådsforordning [(EF) nr. 1198/2006](eu/32006r1198),\* og hvis aktiviteter bare varer i korte perioder på under 24 timer.
+   ◄ **M5**
+4. I forbindelse med fiskerivarer:
+
+   1. omfatter primærproduksjon oppdrett, fiske og innsamling av levende fiskerivarer med henblikk på omsetning,
+      og
+   2. omfatter tilknyttede arbeidsoperasjoner alle følgende arbeidsoperasjoner dersom de utføres om bord på fiskefartøyer: slakting, bløgging, hodekapping, sløying, fjerning av finner, nedkjøling, frysing og innpakking. De omfatter også:
+
+      1. transport og lagring av fiskerivarer hvis egenskaper ikke er blitt vesentlig endret, herunder levende fiskerivarer, innen fiskeoppdrettsanlegg på land,
+         og
+      2. transport av fiskerivarer hvis egenskaper ikke er blitt vesentlig endret, herunder levende fiskerivarer, fra produksjonsstedet til den første bestemmelsesvirksomheten.
 
 \* EUT L 223 av 15.8.2006, s. 1.
 
@@ -1351,7 +2178,7 @@ Driftsansvarlige for næringsmiddelforetak skal sikre at:
 ►**M23**
 
 1. fartøyer som brukes til å fange fiskerivarer fra deres naturlige miljø, eller til å håndtere eller foredle dem etter fisket, og kjølefartøyer, oppfyller de strukturelle kravene og utstyrskravene fastsatt i del I, og
-◄**M23**
+   ◄**M23**
 2. arbeidsoperasjoner som utføres om bord på fartøyer, finner sted i samsvar med reglene fastsatt i del II.
 
 I. *Strukturelle krav og utstyrskrav*
@@ -1362,9 +2189,9 @@ A. *Krav til alle fartøyer*
 2. Overflater som fiskerivarene kommer i kontakt med, skal være av egnet korrosjonsbestandig materiale som er glatt og lett å rengjøre. Overflatene skal være belagt med et holdbart materiale som ikke er giftig.
 3. Utstyr og materialer som brukes til arbeid med fiskerivarer, skal være av korrosjonsbestandig materiale som er lett å rengjøre og desinfisere.
 4. Dersom fartøyene har et vanninntak til vann som brukes til fiskerivarer, skal dette være plassert slik at vannforsyningen ikke forurenses.
-►**M23**
+   ►**M23**
 5. Fartøyer skal være utformet og konstruert slik at fiskerivarene ikke forurenses med bunnvann, spillvann, røyk, drivstoff, olje, smørefett eller andre skadelige stoffer. Lasterom, tanker eller beholdere som brukes til lagring, kjøling eller frysing av ubeskyttede fiskerivarer, herunder fiskerivarer beregnet på produksjon av fôr, skal ikke brukes til andre formål enn lagring, kjøling eller frysing av disse varene, samt is eller saltlake som brukes til slike formål. Når det gjelder kjølefartøyer, får bestemmelsene som får anvendelse på ubeskyttede fiskerivarer anvendelse på alle de varene som transporteres.
-◄**M23**
+   ◄**M23**
 
 B. *Krav til fartøyer som er utformet og utstyrt for å lagre ferske fiskerivarer i mer enn 24 timer*
 
@@ -1380,14 +2207,23 @@ Frysefartøyer skal:
 
 1. ha fryseutstyr med tilstrekkelig kapasitet til å fryse så raskt som mulig i en kontinuerlig prosess og med en termisk hvileperiode som er så kort som mulig, slik at kjernetemperaturen ikke blir høyere enn -18 °C,
 2. ha kjøleutstyr med tilstrekkelig kapasitet at fiskerivarene kan lagres i lasterommene ved en temperatur på -18 °C. Lasterommene skal ikke brukes til innfrysing med mindre de oppfyller vilkårene fastsatt i nr. 1 og skal være utstyrt med en innretning som registrerer temperaturen og er plassert slik at den lett kan avleses. Temperaturføleren skal være plassert i det området i lasterommet der temperaturen er høyest,
-◄**M23**
-og
+   ◄**M23**
+   og
 3. oppfylle kravene til fartøyer som er utformet og utstyrt for å lagre fiskerivarer i mer enn 24 timer, fastsatt i del B punkt 2.
 
 D. *Krav til fabrikkskip*
 
-1. Fabrikkskip skal minst ha følgende:et eget mottaksområde der fiskerivarene tas om bord, og som er utformet slik at fangster som tas etter hverandre, kan holdes atskilt. Området skal være lett å rengjøre og utformet slik at fiskerivarene er beskyttet mot sol og vær og vind, og mot alle kilder til forurensning,et hygienisk system for å bringe fiskerivarene fra mottaksområdet til arbeidsplassen,arbeidsplasser som er store nok til at fiskerivarene kan tilberedes og foredles under tilfredsstillende hygieniske forhold, de skal være lette å rengjøre og desinfisere og være utformet slik at enhver forurensning av fiskerivarene unngås,tilstrekkelig store lagringssteder for ferdige varer, utformet slik at de er lette å rengjøre. Dersom en enhet for avfallsbehandling er i bruk om bord, skal et eget lasterom benyttes til lagring av dette avfallet,et lokale til lagring av emballasjemateriale, som er atskilt fra de stedene der varene tilberedes og foredles,spesialutstyr til å føre avfall og fiskerivarer som er uegnet til konsum, enten direkte i sjøen, eller dersom omstendighetene krever det, inn i en vanntett tank som brukes bare til dette formål. Dersom avfallet lagres og behandles om bord, skal det av hygienehensyn være avsatt særskilte lokaler til dette formål,et vanninntak skal være plassert slik at vannforsyningen ikke forurenses,
-oghåndvasker som brukes av det personalet som håndterer uemballerte fiskerivarer, med kraner som er utformet slik at de hindrer spredning av forurensning.
+1. Fabrikkskip skal minst ha følgende:
+
+   1. et eget mottaksområde der fiskerivarene tas om bord, og som er utformet slik at fangster som tas etter hverandre, kan holdes atskilt. Området skal være lett å rengjøre og utformet slik at fiskerivarene er beskyttet mot sol og vær og vind, og mot alle kilder til forurensning,
+   2. et hygienisk system for å bringe fiskerivarene fra mottaksområdet til arbeidsplassen,
+   3. arbeidsplasser som er store nok til at fiskerivarene kan tilberedes og foredles under tilfredsstillende hygieniske forhold, de skal være lette å rengjøre og desinfisere og være utformet slik at enhver forurensning av fiskerivarene unngås,
+   4. tilstrekkelig store lagringssteder for ferdige varer, utformet slik at de er lette å rengjøre. Dersom en enhet for avfallsbehandling er i bruk om bord, skal et eget lasterom benyttes til lagring av dette avfallet,
+   5. et lokale til lagring av emballasjemateriale, som er atskilt fra de stedene der varene tilberedes og foredles,
+   6. spesialutstyr til å føre avfall og fiskerivarer som er uegnet til konsum, enten direkte i sjøen, eller dersom omstendighetene krever det, inn i en vanntett tank som brukes bare til dette formål. Dersom avfallet lagres og behandles om bord, skal det av hygienehensyn være avsatt særskilte lokaler til dette formål,
+   7. et vanninntak skal være plassert slik at vannforsyningen ikke forurenses,
+      og
+   8. håndvasker som brukes av det personalet som håndterer uemballerte fiskerivarer, med kraner som er utformet slik at de hindrer spredning av forurensning.
 2. Fabrikkskip der krepsdyr og bløtdyr kokes, kjøles og innpakkes om bord, behøver imidlertid ikke å oppfylle kravene i punkt 1 dersom det ikke foregår noen andre former for håndtering eller foredling om bord på slike fartøyer.
 3. Fabrikkskip som fryser fiskerivarer, skal ha utstyr som oppfyller kravene til frysefartøyer i del C punkt 1 og 2.
 
@@ -1403,21 +2239,37 @@ II. *Hygienekrav*
 
 1. Ved bruk skal de delene av fartøyene eller de beholderne som er beregnet på lagring av fiskerivarer, være rene og i god stand. De må særlig ikke være forurenset av drivstoff eller bunnvann.
 2. Så snart fiskerivarene er tatt om bord, skal de vernes mot forurensning og mot påvirkning fra solen eller andre varmekilder.
-► **M6** – – – ◄**M6**
+   ► **M6** – – – ◄**M6**
 3. Fiskerivarene skal håndteres og lagres på en slik måte at de ikke skades. Personer som håndterer fiskerivarene, kan benytte spisse redskaper til å flytte stor fisk som kan skade dem, forutsatt at kjøttet i disse varene ikke skades.
 4. Alle fiskerivarer unntatt dem som skal lagres levende, skal kjøles så snart som mulig etter at de er tatt om bord. Når kjøling ikke er mulig, skal imidlertid fiskerivarene landes så snart som mulig.
-►**M23**
+   ►**M23**
 5. Når fisk hodekappes og/eller sløyes om bord, skal dette utføres på en hygienisk måte så snart som mulig etter fangst, og fiskerivarene skal umiddelbart vaskes. Innvoller og deler som kan utgjøre en fare for menneskers helse skal fjernes så snart som mulig og holdes atskilt fra fiskerivarer som er beregnet på konsum. Lever, rogn og melke som er beregnet på konsum skal kjøles eller oppbevares på is, ved en temperatur som nærmer seg temperaturen for smeltende is, eller fryses.
 6. Når hel fisk beregnet på konservering fryses i saltlake, skal fiskerivaren ha en temperatur på -9 °C eller lavere. Selv om hele fisken deretter fryses ved en temperatur på -18 °C, skal hele fisken opprinnelig fryst i saltlake med en temperatur på -9 °C eller lavere, være beregnet på konservering. Saltlaken skal ikke være en kilde til forurensning av fisken.
-◄**M23**
+   ◄**M23**
 
 ###### Kapittel II: Krav under og etter landing
 
-1. Driftsansvarlige for næringsmiddelforetak som har ansvar for lossing og landing av fiskerivarer, skal:sikre at utstyr til lossing og landing som kommer i kontakt med fiskerivarene, er av et materiale som er lett å rengjøre og desinfisere, og alltid er velholdt og rent,
-ogunngå at fiskerivarene forurenses under lossing og landing, særlig ved:at lossing og landing utføres raskt,at fiskerivarene så raskt som mulig plasseres i et beskyttet miljø ved den temperaturen som er angitt i kapittel VII,
-ogikke bruke utstyr og metoder som fører til unødig skade på de spiselige delene av fiskerivarene.
-2. Driftsansvarlige for næringsmiddelforetak som har ansvar for auksjonshaller og engrosmarkeder eller de delene av dem der fiskerivarer utstilles for salg, skal sikre at følgende krav oppfylles:Det skal finnes låsbare anlegg til kjølelagring av tilbakeholdte fiskerivarer og egne låsbare anlegg til lagring av fiskerivarer som er erklært uegnet til konsum.Dersom vedkommende myndighet krever det, skal det finnes et passende utstyrt låsbart anlegg, eller om nødvendig et rom, som skal brukes utelukkende av vedkommende myndighet.Når fiskerivarene utstilles eller lagres:skal lokalene ikke brukes til andre formål,skal kjøretøyer som slipper ut eksos som kan forringe kvaliteten på fiskerivarene, ikke ha tilgang til lokalene,skal personer som har tilgang til lokalene, ikke bringe med seg andre dyr,
-ogskal lokalene være godt opplyst for å lette de offentlige kontrollene.
+1. Driftsansvarlige for næringsmiddelforetak som har ansvar for lossing og landing av fiskerivarer, skal:
+
+   1. sikre at utstyr til lossing og landing som kommer i kontakt med fiskerivarene, er av et materiale som er lett å rengjøre og desinfisere, og alltid er velholdt og rent,
+      og
+   2. unngå at fiskerivarene forurenses under lossing og landing, særlig ved:
+
+      1. at lossing og landing utføres raskt,
+      2. at fiskerivarene så raskt som mulig plasseres i et beskyttet miljø ved den temperaturen som er angitt i kapittel VII,
+         og
+      3. ikke bruke utstyr og metoder som fører til unødig skade på de spiselige delene av fiskerivarene.
+2. Driftsansvarlige for næringsmiddelforetak som har ansvar for auksjonshaller og engrosmarkeder eller de delene av dem der fiskerivarer utstilles for salg, skal sikre at følgende krav oppfylles:
+
+   1. 1. Det skal finnes låsbare anlegg til kjølelagring av tilbakeholdte fiskerivarer og egne låsbare anlegg til lagring av fiskerivarer som er erklært uegnet til konsum.
+      2. Dersom vedkommende myndighet krever det, skal det finnes et passende utstyrt låsbart anlegg, eller om nødvendig et rom, som skal brukes utelukkende av vedkommende myndighet.
+   2. Når fiskerivarene utstilles eller lagres:
+
+      1. skal lokalene ikke brukes til andre formål,
+      2. skal kjøretøyer som slipper ut eksos som kan forringe kvaliteten på fiskerivarene, ikke ha tilgang til lokalene,
+      3. skal personer som har tilgang til lokalene, ikke bringe med seg andre dyr,
+         og
+      4. skal lokalene være godt opplyst for å lette de offentlige kontrollene.
 3. Dersom det ikke har vært mulighet for kjøling om bord på fartøyet, skal ferske fiskerivarer, unntatt dem som holdes levende, kjøles så raskt som mulig etter landing og lagres ved en temperatur som nærmer seg temperaturen i smeltende is.
 4. Driftsansvarlige for næringsmiddelforetak skal samarbeide med relevante vedkommende myndigheter, slik at disse får mulighet til å utføre offentlig kontroll i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*), særlig når det gjelder framgangsmåtene for melding om landing av fiskerivarer som vedkommende myndighet i den medlemsstaten hvis flagg fartøyet fører, eller vedkommende myndighet i den medlemsstaten der fiskerivarene landes, måtte anse som nødvendig.
 
@@ -1428,13 +2280,13 @@ Driftsansvarlige for næringsmiddelforetak som håndterer fiskerivarer, skal sik
 A. *Krav til ferske fiskerivarer*
 
 1. Dersom kjølte, uemballerte varer ikke distribueres, avsendes, tilberedes eller foredles omgående etter at de ankommer en virksomhet på land, skal de lagres i is på passende sted. Det skal legges på ny is så ofte som nødvendig. Emballerte ferske fiskerivarer skal kjøles til en temperatur som nærmer seg temperaturen i smeltende is.
-► **M6**
+   ► **M6**
 2. Håndtering som hodekapping og sløying skal utføres på en hygienisk måte. Når det fra et teknisk og handelsmessig ståsted er mulig å sløye fisken, skal dette gjøres så raskt som mulig etter at produktene er fanget eller ilandført. Produktene skal vaskes grundig umiddelbart etterpå.
-◄ **M6**
+   ◄ **M6**
 3. Arbeidsoperasjoner som filetering og skjæring i skiver skal utføres slik at ikke filetene eller skivene forurenses eller ødelegges. Filetene og skivene skal befinne seg på arbeidsbordene bare den tiden det tar å tilberede dem. Fileter og skiver skal pakkes inn og om nødvendig emballeres, og de skal kjøles så raskt som mulig etter tilberedningen.
-►**M23**
+   ►**M23**
 4. Beholdere som brukes til forsendelse eller lagring av uemballerte bearbeidede ferske fiskerivarer lagret i is, skal sikre at smeltevannet dreneres bort og ikke forblir i kontakt med noen fiskerivarer.
-◄**M23**
+   ◄**M23**
 5. Hele eller sløyde ferske fiskerivarer kan transporteres og lagres i kjølt vann om bord på fartøyer. De kan også transporteres i kjølt vann etter landingen, og transporteres fra akvakulturanlegget, til de ankommer den første virksomheten på land som utfører andre aktiviteter enn transport og sortering.
 
 ►**M23**
@@ -1447,17 +2299,49 @@ Anlegg på land som fryser eller lagrer fryste fiskerivarer, skal ha utstyr som 
 
 C. *Krav til mekanisk utbeinede fiskerivarer*
 
-Driftsansvarlige for næringsmiddelforetak som framstiller mekanisk utbeinede fiskerivarer, skal sikre at følgende krav oppfylles:Råstoffene som brukes, skal oppfylle følgende krav:det skal brukes bare hel fisk og bein etter filetering til å produsere mekanisk utbeinede fiskerivarer,alle råstoffer skal være fri for innvoller.Framstillingsprosessen skal oppfylle følgende krav:mekanisk utbeining skal utføres så raskt som mulig etter fileteringen,dersom det brukes hel fisk, skal den sløyes og vaskes på forhånd,etter framstillingen skal mekanisk utbeinede fiskerivarer fryses så raskt som mulig eller blandes med en vare som skal fryses eller gjennomgå en stabiliserende behandling.
+Driftsansvarlige for næringsmiddelforetak som framstiller mekanisk utbeinede fiskerivarer, skal sikre at følgende krav oppfylles:
+
+1. Råstoffene som brukes, skal oppfylle følgende krav:
+
+   1. det skal brukes bare hel fisk og bein etter filetering til å produsere mekanisk utbeinede fiskerivarer,
+   2. alle råstoffer skal være fri for innvoller.
+2. Framstillingsprosessen skal oppfylle følgende krav:
+
+   1. mekanisk utbeining skal utføres så raskt som mulig etter fileteringen,
+   2. dersom det brukes hel fisk, skal den sløyes og vaskes på forhånd,
+   3. etter framstillingen skal mekanisk utbeinede fiskerivarer fryses så raskt som mulig eller blandes med en vare som skal fryses eller gjennomgå en stabiliserende behandling.
 
 D. *Krav som gjelder parasitter*
 
 ► **M11**
 
-1. Driftsansvarlige for næringsmiddelforetak som omsetter følgende fiskerivarer fra beinfisk eller blekksprut:fiskerivarer som skal konsumeres rå,marinerte, saltede og alle andre behandlede fiskerivarer, dersom behandlingen ikke er tilstrekkelig til å drepe de levedyktige parasittene,må sikre at råvaren eller den ferdige varen gjennomgår en frysebehandling for å drepe levedyktige parasitter som kan være skadelige for forbrukernes helse.
-2. For andre parasitter enn trematoder skal frysebehandlingen omfatte senking av temperaturen i alle deler av varen til minst–20 °C i minst 24 timer, eller–35 °C i minst 15 timer.
-3. Driftsansvarlige for næringsmiddelforetak behøver ikke å utføre behandlingen som kreves i punkt 1 for fiskerivarersom har gjennomgått eller som før konsum skal gjennomgå en varmebehandling som dreper levedyktige parasitter. For andre parasitter enn trematoder skal varen varmes opp til en kjernetemperatur på minst 60 °C i minst 1 minutt,som har vært konservert som frosne fiskerivarer i tilstrekkelig lang tid til å drepe levedyktige parasitter,fra villfisk, dersom:det foreligger epidemiologiske data som viser at de fiskefeltene der fisken har sin opprinnelse, ikke utgjør noen helsefare når det gjelder forekomsten av parasitter,vedkommende myndighet gir tillatelse til det.fra oppdrettsfisk, oppdrettet fra embryoer og utelukkende fôret med fôr som ikke kan inneholde levedyktige parasitter som kan utgjøre en helsefare, forutsatt at ett av følgende krav er oppfylt:de er utelukkende oppdrettet i et miljø som er fritt for levedyktige parasitter, ellerdriftsansvarlige for næringsmiddelforetak har kontrollert, gjennom prosedyrer godkjent av vedkommende myndighet, at fiskerivarene ikke utgjør noen helsefare med hensyn til forekomsten av levedyktige parasitter.
-4. Fiskerivarer nevnt i punkt 1 skal når de omsettes være ledsaget av et dokument fra driftsansvarlige for næringsmiddelforetak som utfører frysebehandlingen som angir hvilken type frysebehandling varene har gjennomgått, unntatt når de leveres til sluttforbrukeren.Før omsetning av fiskerivarer nevnt i punkt 3 bokstav c) og d) som ikke har gjennomgått frysebehandling eller som før konsum ikke skal gjennomgå en behandling som dreper levedyktige parasitter som kan utgjøre en helsefare, må driftsansvarlige for næringsmiddelforetak sikre at fiskerivarene kommer fra et fiskefelt eller fiskeoppdrettsanlegg som oppfyller de særlige vilkårene nevnt i punkt 3 bokstav c) og d). Denne bestemmelse kan oppfylles gjennom opplysninger i handelsdokumentet eller gjennom andre opplysninger som ledsager fiskerivarene.◄ **M11**
-► **M6** – – –
+1. Driftsansvarlige for næringsmiddelforetak som omsetter følgende fiskerivarer fra beinfisk eller blekksprut:
+
+   1. fiskerivarer som skal konsumeres rå,
+   2. marinerte, saltede og alle andre behandlede fiskerivarer, dersom behandlingen ikke er tilstrekkelig til å drepe de levedyktige parasittene,
+
+   må sikre at råvaren eller den ferdige varen gjennomgår en frysebehandling for å drepe levedyktige parasitter som kan være skadelige for forbrukernes helse.
+2. For andre parasitter enn trematoder skal frysebehandlingen omfatte senking av temperaturen i alle deler av varen til minst
+
+   1. –20 °C i minst 24 timer, eller
+   2. –35 °C i minst 15 timer.
+3. Driftsansvarlige for næringsmiddelforetak behøver ikke å utføre behandlingen som kreves i punkt 1 for fiskerivarer
+
+   1. som har gjennomgått eller som før konsum skal gjennomgå en varmebehandling som dreper levedyktige parasitter. For andre parasitter enn trematoder skal varen varmes opp til en kjernetemperatur på minst 60 °C i minst 1 minutt,
+   2. som har vært konservert som frosne fiskerivarer i tilstrekkelig lang tid til å drepe levedyktige parasitter,
+   3. fra villfisk, dersom:
+
+      1. det foreligger epidemiologiske data som viser at de fiskefeltene der fisken har sin opprinnelse, ikke utgjør noen helsefare når det gjelder forekomsten av parasitter,
+      2. vedkommende myndighet gir tillatelse til det.
+   4. fra oppdrettsfisk, oppdrettet fra embryoer og utelukkende fôret med fôr som ikke kan inneholde levedyktige parasitter som kan utgjøre en helsefare, forutsatt at ett av følgende krav er oppfylt:
+
+      1. de er utelukkende oppdrettet i et miljø som er fritt for levedyktige parasitter, eller
+      2. driftsansvarlige for næringsmiddelforetak har kontrollert, gjennom prosedyrer godkjent av vedkommende myndighet, at fiskerivarene ikke utgjør noen helsefare med hensyn til forekomsten av levedyktige parasitter.
+4. 1. Fiskerivarer nevnt i punkt 1 skal når de omsettes være ledsaget av et dokument fra driftsansvarlige for næringsmiddelforetak som utfører frysebehandlingen som angir hvilken type frysebehandling varene har gjennomgått, unntatt når de leveres til sluttforbrukeren.
+   2. Før omsetning av fiskerivarer nevnt i punkt 3 bokstav c) og d) som ikke har gjennomgått frysebehandling eller som før konsum ikke skal gjennomgå en behandling som dreper levedyktige parasitter som kan utgjøre en helsefare, må driftsansvarlige for næringsmiddelforetak sikre at fiskerivarene kommer fra et fiskefelt eller fiskeoppdrettsanlegg som oppfyller de særlige vilkårene nevnt i punkt 3 bokstav c) og d). Denne bestemmelse kan oppfylles gjennom opplysninger i handelsdokumentet eller gjennom andre opplysninger som ledsager fiskerivarene.
+
+   ◄ **M11**
+   ► **M6** – – –
 
 ###### Kapittel IV: Krav til visse bearbeidede fiskerivarer
 
@@ -1471,11 +2355,21 @@ A. *Krav ved koking av krepsdyr og bløtdyr*
 
 B. *Krav til fiskeolje beregnet på konsum*
 
-1. Råvarer som brukes i framstillingen av fiskeolje beregnet på konsum skal:komme fra virksomheter, herunder fartøyer, som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller til denne forordning,komme fra fiskerivarer som er egnet til konsum og som er i samsvar bestemmelsene i dette avsnitt,transporteres og lagres under hygieniske forhold,kjøles så snart som mulig og beholde den temperaturen som er fastsatt i kapittel VII.Som unntak fra nr. 1 bokstav d) kan driftsansvarlige for næringsmiddelforetak unnlate å kjøle fiskerivarene når hele fiskerivarer brukes direkte i framstillingen av fiskeolje beregnet på konsum, og råvaren bearbeides innen 36 timer etter lasting, forutsatt at kriteriene for ferskhet er oppfylt og verdien av totalt flyktig basisk nitrogen (TVBN) i de ubearbeidede fiskerivarene ikke overstiger grenseverdiene fastsatt i avsnitt II kapittel I nr. 1 i vedlegg II til kommisjonsforordning [(EF) nr. 2074/2005](eu/32005r2074).\*
+1. Råvarer som brukes i framstillingen av fiskeolje beregnet på konsum skal:
+
+   1. komme fra virksomheter, herunder fartøyer, som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller til denne forordning,
+   2. komme fra fiskerivarer som er egnet til konsum og som er i samsvar bestemmelsene i dette avsnitt,
+   3. transporteres og lagres under hygieniske forhold,
+   4. kjøles så snart som mulig og beholde den temperaturen som er fastsatt i kapittel VII.
+
+   Som unntak fra nr. 1 bokstav d) kan driftsansvarlige for næringsmiddelforetak unnlate å kjøle fiskerivarene når hele fiskerivarer brukes direkte i framstillingen av fiskeolje beregnet på konsum, og råvaren bearbeides innen 36 timer etter lasting, forutsatt at kriteriene for ferskhet er oppfylt og verdien av totalt flyktig basisk nitrogen (TVBN) i de ubearbeidede fiskerivarene ikke overstiger grenseverdiene fastsatt i avsnitt II kapittel I nr. 1 i vedlegg II til kommisjonsforordning [(EF) nr. 2074/2005](eu/32005r2074).\*
 2. I produksjonsprosessen for fiskeolje må det sikres at alle råvarer som er beregnet på framstilling av rå fiskeolje gjennomgår behandling, herunder ev. oppvarming, pressing, separering, sentrifugering, bearbeiding, raffinering og rensing før oljen bringes i omsetning til sluttforbrukeren.
 3. Forutsatt at råvarene og produksjonsprosessen oppfyller kravene som gjelder for fiskeolje beregnet på konsum, kan en driftsansvarlig for et næringsmiddelforetak produsere og lagre både fiskeolje til konsum og fiskeolje og fiskemel som ikke er beregnet på konsum i den samme virksomheten.
-4. I påvente av fastsettelse av særskilt fellesskapsregelverk skal driftsansvarlige for næringsmiddelforetak sikre at fiskeolje som bringes i omsetning til sluttforbrukeren er i samsvar med nasjonale regler.\* EUT L 338 av 22.12.2005, s. 27
-◄ **M6**
+4. I påvente av fastsettelse av særskilt fellesskapsregelverk skal driftsansvarlige for næringsmiddelforetak sikre at fiskeolje som bringes i omsetning til sluttforbrukeren er i samsvar med nasjonale regler.
+
+   \* EUT L 338 av 22.12.2005, s. 27
+
+   ◄ **M6**
 
 ###### Kapittel V: Helsestandarder for fiskerivarer
 
@@ -1501,34 +2395,60 @@ E. *Toksiner som er farlige for menneskers helse*
 
 ► **M6**
 
-1. Fiskerivarer som kommer fra giftig fisk fra følgende familier, skal ikke bringes i omsetning: *Tetraodontidae, Molidae, Diodontidae* og *Canthigasteridae*.Ferske, tilberedte, fryste og bearbeidede fiskerivarer som tilhører familien *Gempylidae*, særlig *Ruvettus pretiosus* og *Lepidocybium flavobrunneum*, kan bare omsettes innpakket eller emballert og skal merkes med relevante forbrukeropplysninger om tilberedning samt om risikoen ved forekomst av stoffer som kan forårsake forstyrrelser i mage-tarm-kanalen.Det vitenskapelige navnet på fiskerivarene og det vanlige navnet skal angis på etiketten.
-◄ **M6**
+1. Fiskerivarer som kommer fra giftig fisk fra følgende familier, skal ikke bringes i omsetning: *Tetraodontidae, Molidae, Diodontidae* og *Canthigasteridae*.
+
+   Ferske, tilberedte, fryste og bearbeidede fiskerivarer som tilhører familien *Gempylidae*, særlig *Ruvettus pretiosus* og *Lepidocybium flavobrunneum*, kan bare omsettes innpakket eller emballert og skal merkes med relevante forbrukeropplysninger om tilberedning samt om risikoen ved forekomst av stoffer som kan forårsake forstyrrelser i mage-tarm-kanalen.
+
+   Det vitenskapelige navnet på fiskerivarene og det vanlige navnet skal angis på etiketten.
+   ◄ **M6**
 2. Fiskerivarer som inneholder biotoksiner som ciguateratoksin eller muskellammende toksiner, skal ikke omsettes. Fiskerivarer som kommer fra muslinger, pigghuder, kappedyr og sjøsnegler, kan imidlertid omsettes dersom de er produsert i samsvar med avsnitt VII og oppfyller standardene fastsatt i kapittel V punkt 2 i samme avsnitt.
 
 ###### Kapittel VI: Innpakking og emballering av fiskerivarer
 
 1. Beholdere til oppbevaring av ferske fiskerivarer i is, skal være vannbestandige og sikre at smeltevann ikke forblir i kontakt med varene.
 2. Fryste blokker som er tilberedt om bord på fartøyer, skal pakkes inn på egnet måte før landingen.
-3. Når fiskerivarer pakkes inn om bord på fiskefartøyer, skal den driftsansvarlige for næringsmiddelforetak sikre at innpakkingsmaterialet:ikke er en kilde til forurensning,oppbevares på en slik måte at det ikke risikerer å forurenses,når det er beregnet på gjenbruk, er lett å rengjøre og om nødvendig desinfisere.
+3. Når fiskerivarer pakkes inn om bord på fiskefartøyer, skal den driftsansvarlige for næringsmiddelforetak sikre at innpakkingsmaterialet:
+
+   1. ikke er en kilde til forurensning,
+   2. oppbevares på en slik måte at det ikke risikerer å forurenses,
+   3. når det er beregnet på gjenbruk, er lett å rengjøre og om nødvendig desinfisere.
 
 ###### Kapittel VII: Lagring av fiskerivarer
 
-Driftsansvarlige for næringsmiddelforetak som lagrer fiskerivarer, skal sikre at følgende krav oppfylles:Ferske fiskerivarer, tinte uforedlede fiskerivarer og kokte og kjølte varer av krepsdyr og bløtdyr, skal oppbevares ved en temperatur som nærmer seg temperaturen i smeltende is.
-► **M8**Fryste fiskerivarer skal holde en temperatur på –18 °C eller lavere i alle deler av varen. Hel fisk som opprinnelig er fryst i saltlake beregnet på framstilling av konserverte næringsmidler, kan imidlertid holde en temperatur på –9 °C eller lavere.
-◄ **M8**Fiskerivarer som holdes levende, skal oppbevares ved en temperatur og på en måte som ikke er til skade for næringsmiddeltryggheten eller varenes levedyktighet.
-►**M27**Når ferske fiskerivarer, tinte uforedlede fiskerivarer eller foredlede fiskerivarer må holde en temperatur som er lavere enn temperaturen for smeltende is for at maskiner som skiver eller stykker fiskerivarer skal kunne brukes, kan de oppbevares ved en slik teknologisk nødvendig temperatur i så kort tid som mulig og under ingen omstendigheter mer enn 96 timer. Oppbevaring og transport ved denne temperaturen skal ikke tillates.Når frosne fiskevarer må holde en temperatur på over -18 °C for at maskiner som skiver eller stykker fiskerivarer skal kunne brukes, kan de oppbevares ved en slik teknologisk nødvendig temperatur i så kort tid som mulig, og under ingen omstendigheter mer enn 96 timer. Oppbevaring og transport ved denne temperaturen skal ikke tillates.
-◄**M27**
+Driftsansvarlige for næringsmiddelforetak som lagrer fiskerivarer, skal sikre at følgende krav oppfylles:
+
+1. Ferske fiskerivarer, tinte uforedlede fiskerivarer og kokte og kjølte varer av krepsdyr og bløtdyr, skal oppbevares ved en temperatur som nærmer seg temperaturen i smeltende is.
+   ► **M8**
+2. Fryste fiskerivarer skal holde en temperatur på –18 °C eller lavere i alle deler av varen. Hel fisk som opprinnelig er fryst i saltlake beregnet på framstilling av konserverte næringsmidler, kan imidlertid holde en temperatur på –9 °C eller lavere.
+   ◄ **M8**
+3. Fiskerivarer som holdes levende, skal oppbevares ved en temperatur og på en måte som ikke er til skade for næringsmiddeltryggheten eller varenes levedyktighet.
+   ►**M27**
+4. Når ferske fiskerivarer, tinte uforedlede fiskerivarer eller foredlede fiskerivarer må holde en temperatur som er lavere enn temperaturen for smeltende is for at maskiner som skiver eller stykker fiskerivarer skal kunne brukes, kan de oppbevares ved en slik teknologisk nødvendig temperatur i så kort tid som mulig og under ingen omstendigheter mer enn 96 timer. Oppbevaring og transport ved denne temperaturen skal ikke tillates.
+
+   Når frosne fiskevarer må holde en temperatur på over -18 °C for at maskiner som skiver eller stykker fiskerivarer skal kunne brukes, kan de oppbevares ved en slik teknologisk nødvendig temperatur i så kort tid som mulig, og under ingen omstendigheter mer enn 96 timer. Oppbevaring og transport ved denne temperaturen skal ikke tillates.
+   ◄**M27**
 
 ###### Kapittel VIII: Transport av fiskerivarer
 
-Driftsansvarlige for næringsmiddelforetak som transporterer fiskerivarer, skal sikre at følgende krav oppfylles:Fiskerivarer skal under transport lagres ved den fastsatte temperaturen. Dette gjelder særlig:ferske fiskerivarer, tinte uforedlede fiskerivarer og kokte og kjølte varer av krepsdyr og bløtdyr, som skal lagres ved en temperatur som nærmer seg temperaturen i smeltende is,
-► **M8**fryste fiskerivarer, med unntak av hel fisk som opprinnelig ble fryst i saltlake beregnet på framstilling av konserverte næringsmidler, skal under transporten holde en jevn temperatur på –18 °C eller lavere i alle deler av varen, eventuelt med kortvarige stigninger på høyst 3 °C.
-◄ **M8**Driftsansvarlige for næringsmiddelforetak trenger ikke å overholde punkt 1 bokstav b) når fryste fiskerivarer transporteres fra et kjølelager til en godkjent virksomhet for å bli tint der ved ankomst, for det formål å tilberedes og/eller foredles, dersom det dreier seg om en kort strekning og vedkommende myndighet tillater det.Dersom fiskerivarer lagres i is, skal smeltevannet ikke forbli i kontakt med varene.Fiskerivarer som skal omsettes levende, skal transporteres på en slik måte at det ikke er til skade for næringsmiddeltryggheten eller varenes levedyktighet.
-► **M3**
+Driftsansvarlige for næringsmiddelforetak som transporterer fiskerivarer, skal sikre at følgende krav oppfylles:
+
+1. Fiskerivarer skal under transport lagres ved den fastsatte temperaturen. Dette gjelder særlig:
+
+   1. ferske fiskerivarer, tinte uforedlede fiskerivarer og kokte og kjølte varer av krepsdyr og bløtdyr, som skal lagres ved en temperatur som nærmer seg temperaturen i smeltende is,
+      ► **M8**
+   2. fryste fiskerivarer, med unntak av hel fisk som opprinnelig ble fryst i saltlake beregnet på framstilling av konserverte næringsmidler, skal under transporten holde en jevn temperatur på –18 °C eller lavere i alle deler av varen, eventuelt med kortvarige stigninger på høyst 3 °C.
+      ◄ **M8**
+2. Driftsansvarlige for næringsmiddelforetak trenger ikke å overholde punkt 1 bokstav b) når fryste fiskerivarer transporteres fra et kjølelager til en godkjent virksomhet for å bli tint der ved ankomst, for det formål å tilberedes og/eller foredles, dersom det dreier seg om en kort strekning og vedkommende myndighet tillater det.
+3. Dersom fiskerivarer lagres i is, skal smeltevannet ikke forbli i kontakt med varene.
+4. Fiskerivarer som skal omsettes levende, skal transporteres på en slik måte at det ikke er til skade for næringsmiddeltryggheten eller varenes levedyktighet.
+   ► **M3**
 
 ### Avsnitt IX: Rå melk, råmelk, melkeprodukter og råmelkbaserte produkter
 
-I denne del menes med:«Råmelk», den væsken som skilles ut fra melkekjertlene hos melkeproduserende dyr opptil tre til fem dager etter nedkomst, som er rik på antistoffer og mineraler, og som kommer før produksjonen av rå melk.«Råmelkbaserte produkter», foredlede produkter som er framstilt ved foredlingen av råmelk eller ved videre foredling av slike foredlede produkter.
+I denne del menes med:
+
+1. «Råmelk», den væsken som skilles ut fra melkekjertlene hos melkeproduserende dyr opptil tre til fem dager etter nedkomst, som er rik på antistoffer og mineraler, og som kommer før produksjonen av rå melk.
+2. «Råmelkbaserte produkter», foredlede produkter som er framstilt ved foredlingen av råmelk eller ved videre foredling av slike foredlede produkter.
 
 ###### Kapittel I: Rå melk og råmelk – primærproduksjon
 
@@ -1536,9 +2456,31 @@ Driftsansvarlige for næringsmiddelforetak som produserer, eller eventuelt samle
 
 I. *Helsekrav ved produksjon av rå melk og råmelk*
 
-1. Rå melk og råmelk skal komme fra dyr:som ikke viser noen symptomer på smittsomme sykdommer som kan overføres til mennesker gjennom melk og råmelk,som har en god allmenn helsetilstand, som ikke viser noen tegn på sykdom som kan føre til at melken og råmelken forurenses, og som særlig ikke lider av noen infeksjon i kjønnsorganene med utflod, av enteritt med diaré og feber eller av en synlig jurbetennelse,som ikke har sår på juret som kan påvirke melken og råmelken,som ikke er blitt behandlet med ikke-tillatte stoffer eller produkter, og som ikke har gjennomgått en ulovlig behandling som definert i direktiv [96/23/EF](eu/31996l0023),der den tilbakeholdingstiden som er foreskrevet ved behandling med tillatte produkter eller stoffer, er blitt overholdt.
-2. Særlig med hensyn til brucellose, skal rå melk og råmelk komme fra:kuer eller bøfler som tilhører en besetning som i henhold til direktiv [64/432/EØF](eu/31964l0432*)1 er fri eller offisielt fri for brucellose,sauer eller geiter som tilhører en besetning som er offisielt fri for eller fri for brucellose i henhold til direktiv [91/68/EØF](eu/31991l0068),2 ellerhunndyr av andre arter som dersom de er mottakelige for brucellose, tilhører besetninger som kontrolleres regelmessig for denne sykdommen som ledd i en overvåkingsplan som er godkjent av vedkommende myndighet.Med hensyn til tuberkulose, skal rå melk og råmelk komme fra:kuer eller bøfler som tilhører en besetning som i henhold til direktiv [64/432/EØF](eu/31964l0432*) er offisielt fri for tuberkulose, ellerhunndyr av andre arter som dersom de er mottakelige for tuberkulose, tilhører besetninger som kontrolleres regelmessig for denne sykdommen som ledd i en overvåkingsplan som er godkjent av vedkommende myndighet.Dersom geiter holdes sammen med kuer, skal geitene undersøkes for tuberkulose, og det skal tas tuberkuloseprøver.►**M27**
-3. Rå melk eller råmelk fra dyr som ikke oppfyller kravene angitt i punkt 2, kan imidlertid brukes med tillatelse fra vedkommende myndighet:når det gjelder kuer, bøfler, sauer, geiter eller hunndyr av andre arter som ikke har reagert positivt på tuberkulose- eller brucelloseprøver, og heller ikke viser noen symptomer på disse sykdommene, og når det gjelder sauer eller geiter som er vaksinert mot brucellose som ledd i et godkjent utryddelsesprogram, og som ikke viser noen symptomer på denne sykdommen, etter at melken er varmebehandlet slik at den gir en negativ reaksjon på en alkalisk fosfataseprøve. Når den alkaliske fosfataseprøven ikke er egnet til å påvise effektiviteten av den anvendte varmebehandlingen, for eksempel når rå melk produseres av andre arter enn storfe eller er separert i forskjellige deler før den varmebehandles, kan driftsansvarlige for næringsmiddelforetak gi vedkommende myndighet de nødvendige garantier og ta vare på tilhørende dokumentasjon som en del av sine prosedyrer basert på prinsippene for risikoanalyse og kritiske styringspunkter (HACCP) i samsvar med artikkel 5 i forordning [(EF) nr. 852/2004](eu/32004r0852).når det gjelder sauer eller geiter som ikke har reagert positivt på en brucelloseprøve, eller som er vaksinert mot brucellose som ledd i et godkjent utryddelsesprogram, og som ikke viser noen symptomer på denne sykdommen, til framstilling av ost med en modningstid på minst to måneder.◄**M27**
+1. Rå melk og råmelk skal komme fra dyr:
+
+   1. som ikke viser noen symptomer på smittsomme sykdommer som kan overføres til mennesker gjennom melk og råmelk,
+   2. som har en god allmenn helsetilstand, som ikke viser noen tegn på sykdom som kan føre til at melken og råmelken forurenses, og som særlig ikke lider av noen infeksjon i kjønnsorganene med utflod, av enteritt med diaré og feber eller av en synlig jurbetennelse,
+   3. som ikke har sår på juret som kan påvirke melken og råmelken,
+   4. som ikke er blitt behandlet med ikke-tillatte stoffer eller produkter, og som ikke har gjennomgått en ulovlig behandling som definert i direktiv [96/23/EF](eu/31996l0023),
+   5. der den tilbakeholdingstiden som er foreskrevet ved behandling med tillatte produkter eller stoffer, er blitt overholdt.
+2. 1. Særlig med hensyn til brucellose, skal rå melk og råmelk komme fra:
+
+      1. kuer eller bøfler som tilhører en besetning som i henhold til direktiv [64/432/EØF](eu/31964l0432*)1 er fri eller offisielt fri for brucellose,
+      2. sauer eller geiter som tilhører en besetning som er offisielt fri for eller fri for brucellose i henhold til direktiv [91/68/EØF](eu/31991l0068),2 eller
+      3. hunndyr av andre arter som dersom de er mottakelige for brucellose, tilhører besetninger som kontrolleres regelmessig for denne sykdommen som ledd i en overvåkingsplan som er godkjent av vedkommende myndighet.
+   2. Med hensyn til tuberkulose, skal rå melk og råmelk komme fra:
+
+      1. kuer eller bøfler som tilhører en besetning som i henhold til direktiv [64/432/EØF](eu/31964l0432*) er offisielt fri for tuberkulose, eller
+      2. hunndyr av andre arter som dersom de er mottakelige for tuberkulose, tilhører besetninger som kontrolleres regelmessig for denne sykdommen som ledd i en overvåkingsplan som er godkjent av vedkommende myndighet.
+   3. Dersom geiter holdes sammen med kuer, skal geitene undersøkes for tuberkulose, og det skal tas tuberkuloseprøver.
+
+   ►**M27**
+3. Rå melk eller råmelk fra dyr som ikke oppfyller kravene angitt i punkt 2, kan imidlertid brukes med tillatelse fra vedkommende myndighet:
+
+   1. når det gjelder kuer, bøfler, sauer, geiter eller hunndyr av andre arter som ikke har reagert positivt på tuberkulose- eller brucelloseprøver, og heller ikke viser noen symptomer på disse sykdommene, og når det gjelder sauer eller geiter som er vaksinert mot brucellose som ledd i et godkjent utryddelsesprogram, og som ikke viser noen symptomer på denne sykdommen, etter at melken er varmebehandlet slik at den gir en negativ reaksjon på en alkalisk fosfataseprøve. Når den alkaliske fosfataseprøven ikke er egnet til å påvise effektiviteten av den anvendte varmebehandlingen, for eksempel når rå melk produseres av andre arter enn storfe eller er separert i forskjellige deler før den varmebehandles, kan driftsansvarlige for næringsmiddelforetak gi vedkommende myndighet de nødvendige garantier og ta vare på tilhørende dokumentasjon som en del av sine prosedyrer basert på prinsippene for risikoanalyse og kritiske styringspunkter (HACCP) i samsvar med artikkel 5 i forordning [(EF) nr. 852/2004](eu/32004r0852).
+   2. når det gjelder sauer eller geiter som ikke har reagert positivt på en brucelloseprøve, eller som er vaksinert mot brucellose som ledd i et godkjent utryddelsesprogram, og som ikke viser noen symptomer på denne sykdommen, til framstilling av ost med en modningstid på minst to måneder.
+
+   ◄**M27**
 4. Rå melk og råmelk fra dyr som ikke oppfyller kravene i nr. 1-3, særlig alle dyr som enkeltvis har reagert positivt på forebyggende prøver for tuberkulose eller brucellose som nevnt i direktiv [64/432/EØF](eu/31964l0432*) og direktiv [91/68/EØF](eu/31991l0068), skal ikke brukes til konsum.
 5. Isoleringen av dyr som er angrepet av eller som er mistenkt for å være angrepet av noen av sykdommene nevnt i nr. 1 eller 2, må være effektiv for å unngå eventuelle skadevirkninger på andre dyrs melk og råmelk.
 
@@ -1557,10 +2499,23 @@ A. *Krav til lokaler og utstyr*
 
 B. *Hygiene under melking, oppsamling og transport*
 
-1. Melking skal utføres på en hygienisk måte, der særlig følgende skal sikres:før melkingen startes, skal spener, jur og nærliggende områder være rene,melk og råmelk fra hvert dyr skal kontrolleres for organoleptiske eller fysikalsk-kjemiske avvik enten av den personen som melker, eller ved en metode som gir tilsvarende resultater, og melk og råmelk som viser slike avvik, skal ikke brukes til konsum,melk og råmelk fra dyr som viser kliniske tegn på jursykdom, skal ikke brukes til konsum med mindre det skjer i samsvar med en veterinærs instrukser,dyr som gjennomgår medisinsk behandling som gjør det sannsynlig at restmengder overføres til melken og råmelken, skal identifiseres, og melken og råmelken som kommer fra slike dyr før utløpet av den foreskrevne tilbakeholdingstiden, skal ikke brukes til konsum, ogspenedyppingsmidler eller spenespray skal brukes bare dersom de er godkjent eller registrert i samsvar med europaparlaments- og rådsdirektiv [98/8/EF](eu/31998l0008*) av 16. februar 1998 om omsetning av biocidprodukter,1råmelk skal melkes for seg og ikke blandes med rå melk.
-2. Umiddelbart etter melking, skal melk og råmelk plasseres på et rent sted som er utformet og utstyrt slik at forurensning unngås.Melken skal omgående kjøles til høyst 8 °C, dersom den hentes daglig, eller høyst 6 °C dersom den ikke hentes hver dag.Råmelken skal lagres separat og omgående kjøles til høyst 8 °C, dersom den hentes daglig, eller høyst 6 °C dersom den ikke hentes hver dag, eller den skal fryses.
+1. Melking skal utføres på en hygienisk måte, der særlig følgende skal sikres:
+
+   1. før melkingen startes, skal spener, jur og nærliggende områder være rene,
+   2. melk og råmelk fra hvert dyr skal kontrolleres for organoleptiske eller fysikalsk-kjemiske avvik enten av den personen som melker, eller ved en metode som gir tilsvarende resultater, og melk og råmelk som viser slike avvik, skal ikke brukes til konsum,
+   3. melk og råmelk fra dyr som viser kliniske tegn på jursykdom, skal ikke brukes til konsum med mindre det skjer i samsvar med en veterinærs instrukser,
+   4. dyr som gjennomgår medisinsk behandling som gjør det sannsynlig at restmengder overføres til melken og råmelken, skal identifiseres, og melken og råmelken som kommer fra slike dyr før utløpet av den foreskrevne tilbakeholdingstiden, skal ikke brukes til konsum, og
+   5. spenedyppingsmidler eller spenespray skal brukes bare dersom de er godkjent eller registrert i samsvar med europaparlaments- og rådsdirektiv [98/8/EF](eu/31998l0008*) av 16. februar 1998 om omsetning av biocidprodukter,1
+   6. råmelk skal melkes for seg og ikke blandes med rå melk.
+2. Umiddelbart etter melking, skal melk og råmelk plasseres på et rent sted som er utformet og utstyrt slik at forurensning unngås.
+
+   1. Melken skal omgående kjøles til høyst 8 °C, dersom den hentes daglig, eller høyst 6 °C dersom den ikke hentes hver dag.
+   2. Råmelken skal lagres separat og omgående kjøles til høyst 8 °C, dersom den hentes daglig, eller høyst 6 °C dersom den ikke hentes hver dag, eller den skal fryses.
 3. Under transporten må kjølekjeden opprettholdes, og ved ankomst til bestemmelsesvirksomheten skal melkens og råmelkens temperatur ikke overstige 10 °C.
-4. Driftsansvarlige for næringsmiddelforetak behøver ikke å oppfylle temperaturkravene fastsatt i nr. 2 og 3, dersom melken oppfyller kriteriene fastsatt i del III, og dersom:melken foredles innen to timer etter melking, ellerdet av tekniske grunner er nødvendig med en høyere temperatur i forbindelse med framstillingen av visse melkeprodukter og vedkommende myndighet tillater dette.
+4. Driftsansvarlige for næringsmiddelforetak behøver ikke å oppfylle temperaturkravene fastsatt i nr. 2 og 3, dersom melken oppfyller kriteriene fastsatt i del III, og dersom:
+
+   1. melken foredles innen to timer etter melking, eller
+   2. det av tekniske grunner er nødvendig med en høyere temperatur i forbindelse med framstillingen av visse melkeprodukter og vedkommende myndighet tillater dette.
 
 1 EFT L 123 av 24.4.1998, s. 1. Direktivet sist endret ved kommisjonsdirektiv [2006/50/EF](eu/32006l0050) (EUT L 142 av 30.5.2006, s. 6).
 
@@ -1571,10 +2526,44 @@ C. *Hygienekrav til personale*
 
 III. *Kriterier for rå melk og råmelk*
 
-1. Følgende kriterier for rå melk gjelder inntil det er fastsatt standarder innenfor rammen av en mer spesifikk lovgivning om kvaliteten på melk og melkeprodukter.Nasjonale kriterier for råmelk når det gjelder kimtall, somatisk celletall eller restmengder av antibiotika, får anvendelse i påvente av at det vedtas særlige fellesskapsbestemmelser.
-2. Et representativt antall prøver av rå melk og råmelk som er samlet opp ved tilfeldig utvalg fra driftsenheter for melkeproduksjon, skal når det gjelder rå melk, kontrolleres med hensyn til om kravene i nr. 3 og 4 er oppfylt, og når det gjelder råmelk, med hensyn til om de eksisterende nasjonale kriteriene nevnt i nr. 1 bokstav b), er oppfylt. Kontrollene skal utføres av eller på vegne av:den driftsansvarlige for næringsmiddelforetaket som produserer melken,den driftsansvarlige for næringsmiddelforetaket som samler opp eller foredler melken,en gruppe av driftsansvarlige for næringsmiddelforetak, ellerinnenfor rammen av en nasjonal eller regional kontrollordning.
-3. Driftsansvarlige for næringsmiddelforetak skal innføre framgangsmåter for å sikre at rå melk oppfyller følgende kriterier:for rå kumelk:Kimtall ved 30 °C (per ml)≤ 100 000\*Somatisk celletall (per ml)≤ 400 000\*\*\* Glidende geometrisk gjennomsnitt i et tidsrom på to måneder, med minst to prøver per måned.\*\* Glidende geometrisk gjennomsnitt i et tidsrom på tre måneder, med minst én prøve per måned, med mindre vedkommende myndighet fastsetter en annen metode for å ta hensyn til sesongmessige svingninger i produksjonsnivåene.for rå melk fra andre arter:Kimtall ved 30 °C (per ml)≤ 1 500 000\*\* Glidende geometrisk gjennomsnitt i et tidsrom på to måneder, med minst to prøver per måned.Dersom rå melk fra andre arter enn kuer er beregnet på framstilling av produkter som framstilles av rå melk ved en prosess som ikke omfatter varmebehandling, skal driftsansvarlige for næringsmiddelforetak imidlertid treffe tiltak for å sikre at den rå melken som brukes, oppfyller følgende kriterium:Kimtall ved 30 °C (per ml)≤ 500 000\*\* Glidende geometrisk gjennomsnitt i et tidsrom på to måneder, med minst to prøver per måned.
-4. Uten at direktiv [96/23/EF](eu/31996l0023) berøres, skal driftsansvarlige for næringsmiddelforetak innføre framgangsmåter for å sikre at rå melk ikke omsettes dersom:den inneholder restmengder av antibiotika som overstiger de tillatte nivåene for et av de stoffene som er nevnt i vedlegg I og III til forordning [(EØF) nr. 2377/90](eu/31990r2377),1 ellerdet samlede innholdet av restmengder av antibiotika overstiger en høyeste tillatte verdi.
+1. 1. Følgende kriterier for rå melk gjelder inntil det er fastsatt standarder innenfor rammen av en mer spesifikk lovgivning om kvaliteten på melk og melkeprodukter.
+   2. Nasjonale kriterier for råmelk når det gjelder kimtall, somatisk celletall eller restmengder av antibiotika, får anvendelse i påvente av at det vedtas særlige fellesskapsbestemmelser.
+2. Et representativt antall prøver av rå melk og råmelk som er samlet opp ved tilfeldig utvalg fra driftsenheter for melkeproduksjon, skal når det gjelder rå melk, kontrolleres med hensyn til om kravene i nr. 3 og 4 er oppfylt, og når det gjelder råmelk, med hensyn til om de eksisterende nasjonale kriteriene nevnt i nr. 1 bokstav b), er oppfylt. Kontrollene skal utføres av eller på vegne av:
+
+   1. den driftsansvarlige for næringsmiddelforetaket som produserer melken,
+   2. den driftsansvarlige for næringsmiddelforetaket som samler opp eller foredler melken,
+   3. en gruppe av driftsansvarlige for næringsmiddelforetak, eller
+   4. innenfor rammen av en nasjonal eller regional kontrollordning.
+3. 1. Driftsansvarlige for næringsmiddelforetak skal innføre framgangsmåter for å sikre at rå melk oppfyller følgende kriterier:
+
+      1. for rå kumelk:
+
+         |  |  |
+         | --- | --- |
+         | Kimtall ved 30 °C (per ml) | ≤ 100 000\* |
+         | Somatisk celletall (per ml) | ≤ 400 000\*\* |
+
+         \* Glidende geometrisk gjennomsnitt i et tidsrom på to måneder, med minst to prøver per måned.
+
+         \*\* Glidende geometrisk gjennomsnitt i et tidsrom på tre måneder, med minst én prøve per måned, med mindre vedkommende myndighet fastsetter en annen metode for å ta hensyn til sesongmessige svingninger i produksjonsnivåene.
+      2. for rå melk fra andre arter:
+
+         |  |  |
+         | --- | --- |
+         | Kimtall ved 30 °C (per ml) | ≤ 1 500 000\* |
+
+         \* Glidende geometrisk gjennomsnitt i et tidsrom på to måneder, med minst to prøver per måned.
+   2. Dersom rå melk fra andre arter enn kuer er beregnet på framstilling av produkter som framstilles av rå melk ved en prosess som ikke omfatter varmebehandling, skal driftsansvarlige for næringsmiddelforetak imidlertid treffe tiltak for å sikre at den rå melken som brukes, oppfyller følgende kriterium:
+
+      |  |  |
+      | --- | --- |
+      | Kimtall ved 30 °C (per ml) | ≤ 500 000\* |
+
+      \* Glidende geometrisk gjennomsnitt i et tidsrom på to måneder, med minst to prøver per måned.
+4. Uten at direktiv [96/23/EF](eu/31996l0023) berøres, skal driftsansvarlige for næringsmiddelforetak innføre framgangsmåter for å sikre at rå melk ikke omsettes dersom:
+
+   1. den inneholder restmengder av antibiotika som overstiger de tillatte nivåene for et av de stoffene som er nevnt i vedlegg I og III til forordning [(EØF) nr. 2377/90](eu/31990r2377),1 eller
+   2. det samlede innholdet av restmengder av antibiotika overstiger en høyeste tillatte verdi.
 5. Dersom den rå melken ikke oppfyller kravene i nr. 3 og 4, skal den driftsansvarlige for næringsmiddelforetaket underrette vedkommende myndighet og treffe tiltak for å korrigere manglene.
 
 1 Rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse (EFT L 224 av 18.8.1990, s. 1). Forordningen sist endret ved kommisjonsforordning [(EF) nr. 1231/2006](eu/32006r1231) (EUT L 225 av 17.8.2006, s. 3).
@@ -1583,21 +2572,47 @@ III. *Kriterier for rå melk og råmelk*
 
 I. *Temperaturkrav*
 
-1. Driftsansvarlige for næringsmiddelforetak skal sikre at ved mottak på en foredlingsvirksomhet,kjøles melken raskt til en temperatur på høyst 6 °C,kjøles råmelken raskt til en temperatur på høyst 6 °C, eller holdes fryst,og lagres ved denne temperaturen til den skal foredles.
-2. Driftsansvarlige for næringsmiddelforetak kan imidlertid lagre melk og råmelk ved en høyere temperatur:dersom foredlingen påbegynnes umiddelbart etter melkingen, eller innen fire timer etter at melken er mottatt på foredlingsvirksomheten, ellerdersom vedkommende myndighet av teknologiske grunner tillater en høyere temperatur i forbindelse med framstilling av visse melkeprodukter eller råmelkbaserte produkter.
+1. Driftsansvarlige for næringsmiddelforetak skal sikre at ved mottak på en foredlingsvirksomhet,
+
+   1. kjøles melken raskt til en temperatur på høyst 6 °C,
+   2. kjøles råmelken raskt til en temperatur på høyst 6 °C, eller holdes fryst,
+
+   og lagres ved denne temperaturen til den skal foredles.
+2. Driftsansvarlige for næringsmiddelforetak kan imidlertid lagre melk og råmelk ved en høyere temperatur:
+
+   1. dersom foredlingen påbegynnes umiddelbart etter melkingen, eller innen fire timer etter at melken er mottatt på foredlingsvirksomheten, eller
+   2. dersom vedkommende myndighet av teknologiske grunner tillater en høyere temperatur i forbindelse med framstilling av visse melkeprodukter eller råmelkbaserte produkter.
 
 II. *Krav til varmebehandling*
 
 1. Dersom rå melk, råmelk, melkeprodukter eller råmelkbaserte produkter varmebehandles, skal driftsansvarlige for næringsmiddelforetak sikre at kravene i kapittel XI i vedlegg II til forordning [(EF) nr. 852/2004](eu/32004r0852*) oppfylles. Når følgende prosesser benyttes, skal de særlig sikre at disse er i samsvar med angitte spesifikasjoner:
-►**M27**Pasteurisering skjer ved en behandling som omfatter:høy temperatur i kort tid: minst 72 °C i 15 sekunder,lav temperatur i lang tid: minst 63 °C i 30 minutter, ellerandre kombinasjoner av tid og temperatur som gir tilsvarende virkning.Behandlingen nevnt i punkt i), ii)–iii) skal sikre at produktene, dersom det er relevant, viser en negativ reaksjon på en alkalisk fosfataseprøve umiddelbart etter en slik behandling. Når den alkaliske fosfataseprøven ikke er egnet til å påvise pasteuriseringens effektivitet, for eksempel når produktene kommer fra andre arter enn storfe eller er separert i forskjellige deler før de pasteuriseres, kan driftsansvarlige for næringsmiddelforetak gi vedkommende myndighet de nødvendige garantier og ta vare på tilhørende dokumentasjon som en del av sine prosedyrer basert på prinsippene for risikoanalyse og kritiske styringspunkter (HACCP) i samsvar med artikkel 5 i forordning [(EF) nr. 852/2004](eu/32004r0852).
-◄**M27**Behandling ved ultrahøy temperatur (UHT) skjer ved en behandling som:omfatter en kontinuerlig varmestrøm ved høy temperatur i kort tid (ikke under 135 °C i et passende tidsrom), slik at det behandlede produktet ikke innholder noen levedyktige mikroorganismer eller sporer som kan vokse i produktet når det oppbevares i en aseptisk, lukket beholder i omgivelsestemperatur, oger tilstrekkelig for å sikre at produktene fortsatt er mikrobiologisk stabile etter inkubasjon i 15 dager ved 30 °C i lukkede beholdere, eller i sju dager ved 55 °C i lukkede beholdere, eller etter bruk av en annen metode som viser at produktet har gjennomgått en egnet varmebehandling.
-2. Når driftsansvarlige for næringsmiddelforetak vurderer om rå melk og råmelk skal varmebehandles, skal de:ta hensyn til de framgangsmåtene som er utviklet i samsvar med HACCP-prinsippene i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*), ogoppfylle alle krav som vedkommende myndighet stiller i denne forbindelse når den godkjenner virksomheter eller utfører kontroller i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*).
+   ►**M27**
+
+   1. Pasteurisering skjer ved en behandling som omfatter:
+
+      1. høy temperatur i kort tid: minst 72 °C i 15 sekunder,
+      2. lav temperatur i lang tid: minst 63 °C i 30 minutter, eller
+      3. andre kombinasjoner av tid og temperatur som gir tilsvarende virkning.
+
+      Behandlingen nevnt i punkt i), ii)–iii) skal sikre at produktene, dersom det er relevant, viser en negativ reaksjon på en alkalisk fosfataseprøve umiddelbart etter en slik behandling. Når den alkaliske fosfataseprøven ikke er egnet til å påvise pasteuriseringens effektivitet, for eksempel når produktene kommer fra andre arter enn storfe eller er separert i forskjellige deler før de pasteuriseres, kan driftsansvarlige for næringsmiddelforetak gi vedkommende myndighet de nødvendige garantier og ta vare på tilhørende dokumentasjon som en del av sine prosedyrer basert på prinsippene for risikoanalyse og kritiske styringspunkter (HACCP) i samsvar med artikkel 5 i forordning [(EF) nr. 852/2004](eu/32004r0852).
+      ◄**M27**
+   2. Behandling ved ultrahøy temperatur (UHT) skjer ved en behandling som:
+
+      1. omfatter en kontinuerlig varmestrøm ved høy temperatur i kort tid (ikke under 135 °C i et passende tidsrom), slik at det behandlede produktet ikke innholder noen levedyktige mikroorganismer eller sporer som kan vokse i produktet når det oppbevares i en aseptisk, lukket beholder i omgivelsestemperatur, og
+      2. er tilstrekkelig for å sikre at produktene fortsatt er mikrobiologisk stabile etter inkubasjon i 15 dager ved 30 °C i lukkede beholdere, eller i sju dager ved 55 °C i lukkede beholdere, eller etter bruk av en annen metode som viser at produktet har gjennomgått en egnet varmebehandling.
+2. Når driftsansvarlige for næringsmiddelforetak vurderer om rå melk og råmelk skal varmebehandles, skal de:
+
+   1. ta hensyn til de framgangsmåtene som er utviklet i samsvar med HACCP-prinsippene i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*), og
+   2. oppfylle alle krav som vedkommende myndighet stiller i denne forbindelse når den godkjenner virksomheter eller utfører kontroller i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*).
 
 III. *Kriterier for rå kumelk*
 
 ► **M6**
 
-1. Driftsansvarlige for næringsmiddelforetak som framstiller melkeprodukter skal innføre framgangsmåter for å sikre, umiddelbart før varmebehandlingen og dersom tidsrommet angitt i framgangsmåtene som bygger på HACCP-prinsippene er overskredet,at rå kumelk som brukes til å tilberede melkeprodukter, har et kimtall ved 30 °C på under 300 000 per ml, ogat behandlet kumelk som brukes til å tilberede melkeprodukter, har et kimtall ved 30 °C på under 100 000 per ml.
+1. Driftsansvarlige for næringsmiddelforetak som framstiller melkeprodukter skal innføre framgangsmåter for å sikre, umiddelbart før varmebehandlingen og dersom tidsrommet angitt i framgangsmåtene som bygger på HACCP-prinsippene er overskredet,
+
+   1. at rå kumelk som brukes til å tilberede melkeprodukter, har et kimtall ved 30 °C på under 300 000 per ml, og
+   2. at behandlet kumelk som brukes til å tilberede melkeprodukter, har et kimtall ved 30 °C på under 100 000 per ml.
 
 ◄ **M6**
 
@@ -1611,12 +2626,20 @@ Forbrukerpakninger med flytende melkeprodukter og råmelkbaserte produkter skal 
 
 ###### Kapittel IV: Merking
 
-1. I tillegg til kravene i direktiv [2000/13/EF](eu/32000l0013*), skal merkingen, bortsett fra i tilfellene nevnt i artikkel 13 nr. 4 og 5 i nevnte direktiv, tydelig inneholde:når det gjelder rå melk beregnet på direkte konsum, ordene «rå melk»,når det gjelder produkter framstilt med rå melk, og der framstillingsprosessen ikke omfatter noen varmebehandling eller annen fysisk eller kjemisk behandling, ordene «framstilt av rå melk»,når det gjelder råmelk, ordet «råmelk»,når det gjelder produkter framstilt med råmelk, ordene «framstilt av råmelk».
+1. I tillegg til kravene i direktiv [2000/13/EF](eu/32000l0013*), skal merkingen, bortsett fra i tilfellene nevnt i artikkel 13 nr. 4 og 5 i nevnte direktiv, tydelig inneholde:
+
+   1. når det gjelder rå melk beregnet på direkte konsum, ordene «rå melk»,
+   2. når det gjelder produkter framstilt med rå melk, og der framstillingsprosessen ikke omfatter noen varmebehandling eller annen fysisk eller kjemisk behandling, ordene «framstilt av rå melk»,
+   3. når det gjelder råmelk, ordet «råmelk»,
+   4. når det gjelder produkter framstilt med råmelk, ordene «framstilt av råmelk».
 2. Kravene i nr. 1 gjelder produkter bestemt for detaljhandel. Begrepet «merking» omfatter enhver form for emballasje, dokument, oppslag, etikett, hylse eller krage som følger med eller viser til slike produkter.
 
 ###### Kapittel V: Identifikasjonsmerking
 
-Som unntak fra kravene i vedlegg II avsnitt I:kan identifikasjonsmerket, i stedet for å angi godkjenningsnummeret til virksomheten, omfatte en henvisning til hvor på innpakningen eller emballasjen virksomhetens godkjenningsnummer er angitt,er det på returflasker tilstrekkelig at identifikasjonsmerket angir bare avsenderstatens landkode og virksomhetens godkjenningsnummer.
+Som unntak fra kravene i vedlegg II avsnitt I:
+
+1. kan identifikasjonsmerket, i stedet for å angi godkjenningsnummeret til virksomheten, omfatte en henvisning til hvor på innpakningen eller emballasjen virksomhetens godkjenningsnummer er angitt,
+2. er det på returflasker tilstrekkelig at identifikasjonsmerket angir bare avsenderstatens landkode og virksomhetens godkjenningsnummer.
 
 ◄ **M3**
 
@@ -1627,18 +2650,22 @@ Som unntak fra kravene i vedlegg II avsnitt I:kan identifikasjonsmerket, i stede
 ►**M27**
 
 1. I produsentens lokaler og til de selges til forbrukeren, skal egg holdes rene, tørre og fri for utilsiktet fremmed lukt samt beskyttes effektivt mot støt og direkte sollys. Enhver tilsiktet påføring av fremmed lukt på egg skal ikke ha til formål å skjule en allerede eksisterende lukt.
-◄**M27**
-► **M6**
+   ◄**M27**
+   ► **M6**
 2. Fram til salg til sluttforbrukeren skal egg lagres og transporteres ved en helst konstant temperatur som best bevarer deres hygieniske egenskaper, med mindre vedkommende myndighet innfører nasjonale temperaturkrav for egglagre og for kjøretøyer som transporterer egg mellom slike egglagre.
-◄ **M6**
+   ◄ **M6**
 3. Egg skal leveres til forbrukeren senest 21 dager etter legging.
 
 ###### Kapittel II: Eggprodukter
 
 I. *Krav til virksomheter*
 
-Driftsansvarlige for næringsmiddelforetak skal sikre at virksomheter som framstiller eggprodukter, er oppført og har planløsning og utstyr som sikrer at følgende arbeidsoperasjoner er atskilt:vasking, tørking og desinfisering av skitne egg, dersom dette utføres,knekking av egg, oppsamling av massen og fjerning av skall og hinner,
-ogandre arbeidsoperasjoner enn dem som er nevnt i punkt 1 og 2.
+Driftsansvarlige for næringsmiddelforetak skal sikre at virksomheter som framstiller eggprodukter, er oppført og har planløsning og utstyr som sikrer at følgende arbeidsoperasjoner er atskilt:
+
+1. vasking, tørking og desinfisering av skitne egg, dersom dette utføres,
+2. knekking av egg, oppsamling av massen og fjerning av skall og hinner,
+   og
+3. andre arbeidsoperasjoner enn dem som er nevnt i punkt 1 og 2.
 
 II. *Råstoffer til framstilling av eggprodukter*
 
@@ -1654,9 +2681,18 @@ Driftsansvarlige for næringsmiddelforetak skal sikre at råstoffer som brukes t
 
 III. *Særlige hygienekrav ved framstilling av eggprodukter*
 
-Driftsansvarlige for næringsmiddelforetak skal sikre at alle arbeidsoperasjoner utføres på en slik måte at forurensning i forbindelse med produksjon, håndtering og lagring av eggprodukter unngås, særlig ved å sikre at følgende krav oppfylles.Egg skal ikke knekkes med mindre de er rene og tørre.Egg skal knekkes på en slik måte at forurensning begrenses mest mulig, særlig ved å sikre at denne arbeidsoperasjonen er tilstrekkelig atskilt fra andre arbeidsoperasjoner. Klinkegg skal foredles så snart som mulig.Alle andre egg enn hønseegg, kalkunegg og perlehønsegg skal håndteres og foredles for seg. Alt utstyr skal rengjøres og desinfiseres før foredlingen av hønse-, kalkun- og perlehønsegg gjenopptas.Eggmassen skal ikke tas ut ved at eggene sentrifugeres eller knuses, og det er heller ikke tillatt å utvinne rester av eggehvite til konsum ved sentrifugering av tomme skall.
-► **M1**Etter knekking skal alle bestanddeler av det flytende egget foredles så raskt som mulig for å eliminere mikrobiologiske farer eller redusere dem til et akseptabelt nivå. Et parti som er utilstrekkelig foredlet, kan omgående gjennomgå en ny foredling på samme virksomhet, forutsatt at denne foredlingen gjør det egnet til konsum. Når det konstateres at et parti er uegnet til konsum, skal det denatureres for å sikre at det ikke brukes til konsum.
-◄ **M1**Det er ikke påkrevd å foredle eggehvite beregnet på framstilling av tørket eller krystallisert albumin, som senere skal varmebehandles.Dersom flytende egg ikke foredles umiddelbart etter at de er knekket, skal de lagres enten fryst eller ved en temperatur på høyst 4 °C. Lagringstidsrommet ved 4 °C før foredlingen skal ikke overstige 48 timer. Disse kravene gjelder imidlertid ikke produkter som skal avsukres, dersom avsukringsprosessen finner sted så snart som mulig.Produkter som ikke er stabilisert slik at de er holdbare ved romtemperatur, skal kjøles til en temperatur på høyst 4 °C. Produkter som skal fryses, må fryses omgående etter foredlingen.
+Driftsansvarlige for næringsmiddelforetak skal sikre at alle arbeidsoperasjoner utføres på en slik måte at forurensning i forbindelse med produksjon, håndtering og lagring av eggprodukter unngås, særlig ved å sikre at følgende krav oppfylles.
+
+1. Egg skal ikke knekkes med mindre de er rene og tørre.
+2. Egg skal knekkes på en slik måte at forurensning begrenses mest mulig, særlig ved å sikre at denne arbeidsoperasjonen er tilstrekkelig atskilt fra andre arbeidsoperasjoner. Klinkegg skal foredles så snart som mulig.
+3. Alle andre egg enn hønseegg, kalkunegg og perlehønsegg skal håndteres og foredles for seg. Alt utstyr skal rengjøres og desinfiseres før foredlingen av hønse-, kalkun- og perlehønsegg gjenopptas.
+4. Eggmassen skal ikke tas ut ved at eggene sentrifugeres eller knuses, og det er heller ikke tillatt å utvinne rester av eggehvite til konsum ved sentrifugering av tomme skall.
+   ► **M1**
+5. Etter knekking skal alle bestanddeler av det flytende egget foredles så raskt som mulig for å eliminere mikrobiologiske farer eller redusere dem til et akseptabelt nivå. Et parti som er utilstrekkelig foredlet, kan omgående gjennomgå en ny foredling på samme virksomhet, forutsatt at denne foredlingen gjør det egnet til konsum. Når det konstateres at et parti er uegnet til konsum, skal det denatureres for å sikre at det ikke brukes til konsum.
+   ◄ **M1**
+6. Det er ikke påkrevd å foredle eggehvite beregnet på framstilling av tørket eller krystallisert albumin, som senere skal varmebehandles.
+7. Dersom flytende egg ikke foredles umiddelbart etter at de er knekket, skal de lagres enten fryst eller ved en temperatur på høyst 4 °C. Lagringstidsrommet ved 4 °C før foredlingen skal ikke overstige 48 timer. Disse kravene gjelder imidlertid ikke produkter som skal avsukres, dersom avsukringsprosessen finner sted så snart som mulig.
+8. Produkter som ikke er stabilisert slik at de er holdbare ved romtemperatur, skal kjøles til en temperatur på høyst 4 °C. Produkter som skal fryses, må fryses omgående etter foredlingen.
 
 IV. *Spesifikasjoner for analyse*
 
@@ -1676,27 +2712,76 @@ V. *Merking og identifikasjonsmerking*
 
 ### Avsnitt XI: Froskelår og snegler
 
-Driftsansvarlige for næringsmiddelforetak som tilbereder froskelår og snegler til konsum, skal sikre at følgende krav oppfylles:Frosker og snegler skal avlives på en virksomhet som er oppført og har planløsning og utstyr for dette formål.Virksomheter der froskelår tilberedes, skal ha et eget lokale til oppbevaring og vasking av levende frosker, og til slakting og avbløding av dem. Dette lokalet skal være fysisk atskilt fra tilberedningslokalet.Frosker og snegler som dør på annen måte enn ved avliving i virksomheten, skal ikke tilberedes til konsum.Frosker og snegler skal gjennomgå en organoleptisk undersøkelse ved prøvetaking. Dersom denne undersøkelsen viser at de kan utgjøre en fare, skal de ikke brukes til konsum.Umiddelbart etter tilberedningen skal froskelår vaskes grundig under rennende drikkevann og omgående kjøles til en temperatur som nærmer seg temperaturen i smeltende is, fryses eller foredles.Etter avlivingen skal sneglenes lever- og bukspyttkjertel, dersom den kan utgjøre en fare, fjernes og ikke brukes til konsum.
-►**M23**Kravene fastsatt i nr. 1, 3, 4 og 6 gjelder også alle andre snegler av familiene *Helicidae, Hygromiidae* eller *Sphincterochilidae* som er beregnet på konsum.Kravene fastsatt i nr. 1-5 får også anvendelse på froskelår av slekten *Pelophylax* i familien *Ranidae*, og slektene *Fejervarya, Limnonectes* og *Hoplobatrachus* fra familien *Dicroglossidae*, som er beregnet på konsum.
-◄**M23**
+Driftsansvarlige for næringsmiddelforetak som tilbereder froskelår og snegler til konsum, skal sikre at følgende krav oppfylles:
+
+1. Frosker og snegler skal avlives på en virksomhet som er oppført og har planløsning og utstyr for dette formål.
+2. Virksomheter der froskelår tilberedes, skal ha et eget lokale til oppbevaring og vasking av levende frosker, og til slakting og avbløding av dem. Dette lokalet skal være fysisk atskilt fra tilberedningslokalet.
+3. Frosker og snegler som dør på annen måte enn ved avliving i virksomheten, skal ikke tilberedes til konsum.
+4. Frosker og snegler skal gjennomgå en organoleptisk undersøkelse ved prøvetaking. Dersom denne undersøkelsen viser at de kan utgjøre en fare, skal de ikke brukes til konsum.
+5. Umiddelbart etter tilberedningen skal froskelår vaskes grundig under rennende drikkevann og omgående kjøles til en temperatur som nærmer seg temperaturen i smeltende is, fryses eller foredles.
+6. Etter avlivingen skal sneglenes lever- og bukspyttkjertel, dersom den kan utgjøre en fare, fjernes og ikke brukes til konsum.
+   ►**M23**
+7. Kravene fastsatt i nr. 1, 3, 4 og 6 gjelder også alle andre snegler av familiene *Helicidae, Hygromiidae* eller *Sphincterochilidae* som er beregnet på konsum.
+8. Kravene fastsatt i nr. 1-5 får også anvendelse på froskelår av slekten *Pelophylax* i familien *Ranidae*, og slektene *Fejervarya, Limnonectes* og *Hoplobatrachus* fra familien *Dicroglossidae*, som er beregnet på konsum.
+   ◄**M23**
 
 ### Avsnitt XII: Smeltet animalsk fett og fettgrever
 
 ###### Kapittel I: Krav til virksomheter som samler inn eller foredler råstoff
 
-Driftsansvarlige for næringsmiddelforetak skal sikre at virksomheter som samler inn eller foredler råstoff for produksjon av smeltet animalsk fett og fettgrever, oppfyller følgende krav:Sentraler som samler inn råstoff og transporterer det videre til foredlingsvirksomheter, skal være utstyrt med innretninger for lagring av råstoff ved en temperatur på høyst 7 °C.Hver foredlingsvirksomhet skal ha:kjøleinnretninger,et ekspedisjonslokale, med mindre virksomheten bare leverer smeltet animalsk fett i tanker,
-ogom nødvendig egnet utstyr for tilberedning av produkter som består av smeltet animalsk fett blandet med andre næringsmidler og/eller smaksingredienser.De kjøleinnretningene som er nevnt i punkt 1 og punkt 2 bokstav a), er imidlertid ikke nødvendig dersom råstoffet leveres slik at det aldri lagres eller transporteres uten aktiv kjøling på annen måte enn fastsatt i kapittel II punkt 1 bokstav d).
+Driftsansvarlige for næringsmiddelforetak skal sikre at virksomheter som samler inn eller foredler råstoff for produksjon av smeltet animalsk fett og fettgrever, oppfyller følgende krav:
+
+1. Sentraler som samler inn råstoff og transporterer det videre til foredlingsvirksomheter, skal være utstyrt med innretninger for lagring av råstoff ved en temperatur på høyst 7 °C.
+2. Hver foredlingsvirksomhet skal ha:
+
+   1. kjøleinnretninger,
+   2. et ekspedisjonslokale, med mindre virksomheten bare leverer smeltet animalsk fett i tanker,
+      og
+   3. om nødvendig egnet utstyr for tilberedning av produkter som består av smeltet animalsk fett blandet med andre næringsmidler og/eller smaksingredienser.
+3. De kjøleinnretningene som er nevnt i punkt 1 og punkt 2 bokstav a), er imidlertid ikke nødvendig dersom råstoffet leveres slik at det aldri lagres eller transporteres uten aktiv kjøling på annen måte enn fastsatt i kapittel II punkt 1 bokstav d).
 
 ###### Kapittel II: Hygienekrav ved tilberedning av smeltet animalsk fett og fettgrever
 
-Driftsansvarlige for næringsmiddelforetak som tilbereder smeltet animalsk fett og fettgrever, skal sikre at følgende krav oppfylles:Råstoffet skal:komme fra dyr som er blitt slaktet i et slakteri, og som er funnet egnet til konsum etter undersøkelse ante mortem og post mortem,bestå av fettvev eller bein, som er rimelig fri for blod og urenheter,komme fra virksomheter som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i samsvar med denne forordning,
-ogtransporteres og lagres under hygieniske forhold og ved en kjernetemperatur på høyst 7 °C, til smeltingen finner sted. Råstoffet kan imidlertid lagres og transporteres uten aktiv kjøling dersom det smeltes innen 12 timer etter at det er framstilt.Det er forbudt å bruke løsemidler under smeltingen.Dersom fettet som skal raffineres, oppfyller kravene som er fastsatt i punkt 4, kan smeltet animalsk fett framstilt i samsvar med punkt 1 og 2, raffineres ved samme virksomhet eller ved en annen virksomhet for å forbedre fettets fysikalsk-kjemiske kvalitet.Smeltet animalsk fett skal, avhengig av typen, oppfylle følgende standarder: *Drøvtyggere**Svin**Annet animalsk fett*Spiselig talgTalg til raffineringSpiselig fettSmult og annet fett til raffineringSpiseligTil raffineringPremier jus1AnnetSmult2AnnetHøyeste innhold av FFA (m/m % oleinsyre)0,751,253,00,751,252,01,253,0Høyeste innhold av peroksid4 meq/kg4 meq/kg6 meq/kg4 meq/kg4 meq/kg6 meq/kg4 meq/kg10 meq/kgUløselige urenheter i altHøyst 0,15 %Høyst 0,5Lukt, smak, fargeNormal 1 Smeltet animalsk fett framstilt ved smelting ved lav temperatur av ferskt fett fra hjerte, oment, nyrer og mesenterium fra storfe, samt fett fra nedskjæringsanlegg.2 Smeltet animalsk fett framstilt av fettvev fra svin.
-►**M23**◄**M23**
+Driftsansvarlige for næringsmiddelforetak som tilbereder smeltet animalsk fett og fettgrever, skal sikre at følgende krav oppfylles:
+
+1. Råstoffet skal:
+
+   1. komme fra dyr som er blitt slaktet i et slakteri, og som er funnet egnet til konsum etter undersøkelse ante mortem og post mortem,
+   2. bestå av fettvev eller bein, som er rimelig fri for blod og urenheter,
+   3. komme fra virksomheter som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i samsvar med denne forordning,
+      og
+   4. transporteres og lagres under hygieniske forhold og ved en kjernetemperatur på høyst 7 °C, til smeltingen finner sted. Råstoffet kan imidlertid lagres og transporteres uten aktiv kjøling dersom det smeltes innen 12 timer etter at det er framstilt.
+2. Det er forbudt å bruke løsemidler under smeltingen.
+3. Dersom fettet som skal raffineres, oppfyller kravene som er fastsatt i punkt 4, kan smeltet animalsk fett framstilt i samsvar med punkt 1 og 2, raffineres ved samme virksomhet eller ved en annen virksomhet for å forbedre fettets fysikalsk-kjemiske kvalitet.
+4. Smeltet animalsk fett skal, avhengig av typen, oppfylle følgende standarder:
+
+   |  | *Drøvtyggere* |  |  | *Svin* |  |  | *Annet animalsk fett* |  |
+   | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+   |  | Spiselig talg |  | Talg til raffinering | Spiselig fett |  | Smult og annet fett til raffinering | Spiselig | Til raffinering |
+   |  | Premier jus1 | Annet |  | Smult2 | Annet |  |  |  |
+   | Høyeste innhold av FFA (m/m % oleinsyre) | 0,75 | 1,25 | 3,0 | 0,75 | 1,25 | 2,0 | 1,25 | 3,0 |
+   | Høyeste innhold av peroksid | 4 meq/kg | 4 meq/kg | 6 meq/kg | 4 meq/kg | 4 meq/kg | 6 meq/kg | 4 meq/kg | 10 meq/kg |
+   | Uløselige urenheter i alt | Høyst 0,15 % |  |  | Høyst 0,5 |  |  |  |  |
+   | Lukt, smak, farge | Normal |  |  |  |  |  |  |  |
+
+   1 Smeltet animalsk fett framstilt ved smelting ved lav temperatur av ferskt fett fra hjerte, oment, nyrer og mesenterium fra storfe, samt fett fra nedskjæringsanlegg.
+
+   2 Smeltet animalsk fett framstilt av fettvev fra svin.
+
+   ►**M23**
+5. ◄**M23**
 
 ### Avsnitt XIII: Behandlede mager, blærer og tarmer
 
-Driftsansvarlige for næringsmiddelforetak som behandler mager, blærer og tarmer, skal sikre at følgende krav oppfylles:Dyretarmer, -blærer og -mager skal omsettes bare dersom:de kommer fra dyr som er blitt slaktet i et slakteri, og som er funnet egnet til konsum etter undersøkelse ante mortem og post mortem,de er saltet, varmebehandlet eller tørket,
-ogdet etter behandlingen nevnt i bokstav b), er truffet effektive tiltak for å hindre at de forurenses på nytt.Behandlede mager, blærer og tarmer som ikke kan lagres ved romtemperatur, skal lagres kjølt ved hjelp av innretninger beregnet på dette formålet, inntil de skal avsendes. Særlig skal produkter som ikke er saltet eller tørket, lagres ved en temperatur på høyst 3 °C.
+Driftsansvarlige for næringsmiddelforetak som behandler mager, blærer og tarmer, skal sikre at følgende krav oppfylles:
+
+1. Dyretarmer, -blærer og -mager skal omsettes bare dersom:
+
+   1. de kommer fra dyr som er blitt slaktet i et slakteri, og som er funnet egnet til konsum etter undersøkelse ante mortem og post mortem,
+   2. de er saltet, varmebehandlet eller tørket,
+      og
+   3. det etter behandlingen nevnt i bokstav b), er truffet effektive tiltak for å hindre at de forurenses på nytt.
+2. Behandlede mager, blærer og tarmer som ikke kan lagres ved romtemperatur, skal lagres kjølt ved hjelp av innretninger beregnet på dette formålet, inntil de skal avsendes. Særlig skal produkter som ikke er saltet eller tørket, lagres ved en temperatur på høyst 3 °C.
 
 ### Avsnitt XIV: Gelatin
 
@@ -1706,31 +2791,81 @@ ogdet etter behandlingen nevnt i bokstav b), er truffet effektive tiltak for å 
 ###### Kapittel I: Krav til råstoffer
 
 1. For produksjon av gelatin beregnet til bruk i næringsmidler, kan følgende råstoffer brukes:
-► **M8**bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999).\* \* EUT L 147 av 31.5.2001, s. 1.◄ **M8**huder og skinn fra oppdrettsdrøvtyggere,huder og skinn fra svin,skinn fra fjørfe,sener,huder og skinn fra viltlevende vilt,
-ogskinn og bein fra fisk.
+   ► **M8**
+
+   1. bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999).\*
+
+      \* EUT L 147 av 31.5.2001, s. 1.
+
+   ◄ **M8**
+
+   1. huder og skinn fra oppdrettsdrøvtyggere,
+   2. huder og skinn fra svin,
+   3. skinn fra fjørfe,
+   4. sener,
+   5. huder og skinn fra viltlevende vilt,
+      og
+   6. skinn og bein fra fisk.
 2. Det er forbudt å bruke huder og skinn dersom de har gjennomgått garving, uansett om denne prosessen er avsluttet eller ikke.
 3. De råstoffene som er oppført i punkt 1 bokstav a)-e), skal komme fra dyr som er slaktet i et slakteri og hvis skrotter er funnet egnet til konsum etter undersøkelse ante mortem og post mortem, eller når det gjelder huder og skinn fra viltlevende vilt, som er funnet egnet til konsum.
-► **M18**
-4. Råstoffer som ikke er blitt behandlet på noen annen måte enn ved kjøling, frysing eller hurtigfrysing for å sikre holdbarheten, skal komme fra anlegg som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i samsvar med denne forordning.Følgende behandlede råstoffer kan benyttes:bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999) som kommer fra foretak som er oppført på en liste av vedkommende myndighet og er under dens kontroll, og som har gjennomgått én av følgende behandlinger:knusing til biter på ca 15 mm og avfetting i varmt vann ved en temperatur på minst 70 °C i minst 30 minutter, minst 80 °C i minst 15 minutter, eller minst 90 °C i minst 10 minutter, separering og deretter vasking og tørking i minst 20 minutter i en strøm av varmluft med en utgangstemperatur på minst 350 °C, eller i 15 minutter i en strøm av varmluft med en utgangstemperatur på over 700 °C,soltørking i minst 42 døgn ved en gjennomsnittstemperatur på minst 20 °C,syrebehandling slik at pH-verdien har vært holdt under 6 i hele materialet i minst én time før tørking,huder og skinn av produksjonsdrøvtyggere, skinn av svin, skinn av fjørfe, skinn av fisk og huder og skinn av viltlevende vilt som kommer fra foretak som er oppført på en liste av vedkommende myndighet og er under dens kontroll, og som har gjennomgått én av følgende behandlinger:behandling med base for å bestemme pH > 12 i hele materialet og deretter salting i minst sju døgn,tørking i minst 42 døgn ved en temperatur på minst 20 °C,syrebehandling slik at pH-verdien har vært holdt under 5 i hele materialet i minst én time,behandling med base slik at pH > 12 i minst åtte timer,bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999), huder og skinn av produksjonsdrøvtyggere, skinn av svin, skinn av fjørfe, skinn av fisk og huder og skinn av viltlevende vilt som ikke har gjennomgått noen annen behandling enn den angitt i punkt i) eller ii), og som kommer fra foretak som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i henhold til denne forordning.I forbindelse med bokstav b) ii) første to strekpunkter skal varigheten av behandlingene omfatte tiden som medgår til transport.De behandlede råstoffene nevnt i bokstav b) skal stamme fra:
-tamme produksjonsdrøvtyggere, svin og fjørfe som er blitt slaktet i et slakteri, og hvis skrotter er funnet egnet til konsum etter kontroll ante mortem og post mortem, eller
-nedlagt viltlevende vilt hvis skrotter er funnet egnet til konsum etter kontroll post mortem.
-◄ **M18**
-5. Innsamlingssentraler og garverier kan også levere råstoff til produksjon av gelatin beregnet på konsum, dersom de er særlig godkjent for dette formål av vedkommende myndighet, og de oppfyller følgende krav:De skal ha lagerrom med harde gulv og glatte vegger som er lette å rengjøre og desinfisere, og de skal når det er hensiktsmessig være utstyrt med kjøleinnretninger.Lagerrommene skal holdes tilfredsstillende rene og i god stand, slik at de ikke er en kilde til forurensning av råstoffene.Dersom råstoff som ikke oppfyller kravene i dette kapittel, lagres og/eller foredles i disse lokalene, skal det ved mottak, lagring, foredling og forsendelse holdes atskilt fra råstoff som oppfyller kravene i dette kapittel.
+   ► **M18**
+4. 1. Råstoffer som ikke er blitt behandlet på noen annen måte enn ved kjøling, frysing eller hurtigfrysing for å sikre holdbarheten, skal komme fra anlegg som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i samsvar med denne forordning.
+   2. Følgende behandlede råstoffer kan benyttes:
+
+      1. bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999) som kommer fra foretak som er oppført på en liste av vedkommende myndighet og er under dens kontroll, og som har gjennomgått én av følgende behandlinger:
+
+         knusing til biter på ca 15 mm og avfetting i varmt vann ved en temperatur på minst 70 °C i minst 30 minutter, minst 80 °C i minst 15 minutter, eller minst 90 °C i minst 10 minutter, separering og deretter vasking og tørking i minst 20 minutter i en strøm av varmluft med en utgangstemperatur på minst 350 °C, eller i 15 minutter i en strøm av varmluft med en utgangstemperatur på over 700 °C,
+
+         soltørking i minst 42 døgn ved en gjennomsnittstemperatur på minst 20 °C,
+
+         syrebehandling slik at pH-verdien har vært holdt under 6 i hele materialet i minst én time før tørking,
+      2. huder og skinn av produksjonsdrøvtyggere, skinn av svin, skinn av fjørfe, skinn av fisk og huder og skinn av viltlevende vilt som kommer fra foretak som er oppført på en liste av vedkommende myndighet og er under dens kontroll, og som har gjennomgått én av følgende behandlinger:
+
+         behandling med base for å bestemme pH > 12 i hele materialet og deretter salting i minst sju døgn,
+
+         tørking i minst 42 døgn ved en temperatur på minst 20 °C,
+
+         syrebehandling slik at pH-verdien har vært holdt under 5 i hele materialet i minst én time,
+
+         behandling med base slik at pH > 12 i minst åtte timer,
+      3. bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999), huder og skinn av produksjonsdrøvtyggere, skinn av svin, skinn av fjørfe, skinn av fisk og huder og skinn av viltlevende vilt som ikke har gjennomgått noen annen behandling enn den angitt i punkt i) eller ii), og som kommer fra foretak som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i henhold til denne forordning.
+
+      I forbindelse med bokstav b) ii) første to strekpunkter skal varigheten av behandlingene omfatte tiden som medgår til transport.
+
+      De behandlede råstoffene nevnt i bokstav b) skal stamme fra:
+      tamme produksjonsdrøvtyggere, svin og fjørfe som er blitt slaktet i et slakteri, og hvis skrotter er funnet egnet til konsum etter kontroll ante mortem og post mortem, eller
+      nedlagt viltlevende vilt hvis skrotter er funnet egnet til konsum etter kontroll post mortem.
+      ◄ **M18**
+5. Innsamlingssentraler og garverier kan også levere råstoff til produksjon av gelatin beregnet på konsum, dersom de er særlig godkjent for dette formål av vedkommende myndighet, og de oppfyller følgende krav:
+
+   1. De skal ha lagerrom med harde gulv og glatte vegger som er lette å rengjøre og desinfisere, og de skal når det er hensiktsmessig være utstyrt med kjøleinnretninger.
+   2. Lagerrommene skal holdes tilfredsstillende rene og i god stand, slik at de ikke er en kilde til forurensning av råstoffene.
+   3. Dersom råstoff som ikke oppfyller kravene i dette kapittel, lagres og/eller foredles i disse lokalene, skal det ved mottak, lagring, foredling og forsendelse holdes atskilt fra råstoff som oppfyller kravene i dette kapittel.
 
 ###### Kapittel II: Transport og lagring av råstoff
 
 1. I stedet for identifikasjonsmerket fastsatt i vedlegg II avsnitt I, skal råstoffet under transport, ved levering i innsamlingssentralen eller i garveriet og ved levering i gelatinforedlingsvirksomheten følges av et dokument som angir opprinnelsesvirksomheten og inneholder de opplysningene som finnes i tillegget til dette vedlegget.
 2. Råstoff skal transporteres og lagres kjølt eller fryst, med mindre det skal foredles innen 24 timer etter at det er sendt. Avfettede og tørkede bein eller beinbrusk, saltede, tørkede og kalkbehandlede huder og skinn eller huder og skinn behandlet med syre eller base, kan imidlertid transporteres og lagres ved romtemperatur.
-► **M18**
-3. Etter veterinærkontrollene som fastsatt i direktiv [97/78/EF](eu/31997l0078), og uten at vilkårene fastsatt i direktivets artikkel 8 nr. 4 berøres, skal råstoffer til produksjon av gelatin for konsum, som det kreves hygienesertifikat for, transporteres direkte til anlegget på bestemmelsesstedet.Alle forholdsregler, herunder sikker disponering av animalske biprodukter, avfall og ubrukt materiale eller overskuddsmateriale, skal treffes for å unngå risiko for spredning av sykdommer til dyr.
-◄ **M18**
-► **M5**
+   ► **M18**
+3. Etter veterinærkontrollene som fastsatt i direktiv [97/78/EF](eu/31997l0078), og uten at vilkårene fastsatt i direktivets artikkel 8 nr. 4 berøres, skal råstoffer til produksjon av gelatin for konsum, som det kreves hygienesertifikat for, transporteres direkte til anlegget på bestemmelsesstedet.
+
+   Alle forholdsregler, herunder sikker disponering av animalske biprodukter, avfall og ubrukt materiale eller overskuddsmateriale, skal treffes for å unngå risiko for spredning av sykdommer til dyr.
+   ◄ **M18**
+   ► **M5**
 
 ###### Kapittel III: Krav til framstilling av gelatin
 
-1. Produksjonsprosessen for gelatin skal sikre at:Alt beinmateriale fra drøvtygger som kommer fra dyr som er født, oppdrettet eller slaktet i stater eller regioner som er klassifisert med kontrollert eller ikke-fastsatt BSE-risiko i samsvar med Fellesskapets regelverk, skal gjennomgå en prosess som sikrer at alt beinmateriale finknuses og avfettes med varmt vann og behandles med fortynnet saltsyre (med en minimumskonsentrasjon på 4 % og pH-verdi < 1,5) i et tidsrom på minst to dager. Behandlingen skal etterfølges aven basisk behandling med en mettet kalkløsning (pH-verdi > 12,5) i et tidsrom på minst 20 dager med et varmebehandlingstrinn på minst 138 °C i fire sekunder, elleren syrebehandling (pH-verdi < 3,5) i minst 10 timer med et varmebehandlingstrinn på minst 138 °C i minst fire sekunder, elleren varme- og trykkbehandling i minst 20 minutter med mettet damp på 133 °C ved mer enn 3 bar, elleren tilsvarende, godkjent prosess.Annet råstoff skal gjennomgå en behandling med syre eller base, etterfulgt av én eller flere skyllinger. pH-verdien skal tilpasses i henhold til dette. Gelatin skal utvinnes ved én eller flere etterfølgende oppvarminger, etterfulgt av rensing ved hjelp av filtrering og varmebehandling.
+1. Produksjonsprosessen for gelatin skal sikre at:
+
+   1. Alt beinmateriale fra drøvtygger som kommer fra dyr som er født, oppdrettet eller slaktet i stater eller regioner som er klassifisert med kontrollert eller ikke-fastsatt BSE-risiko i samsvar med Fellesskapets regelverk, skal gjennomgå en prosess som sikrer at alt beinmateriale finknuses og avfettes med varmt vann og behandles med fortynnet saltsyre (med en minimumskonsentrasjon på 4 % og pH-verdi < 1,5) i et tidsrom på minst to dager. Behandlingen skal etterfølges av
+
+      - en basisk behandling med en mettet kalkløsning (pH-verdi > 12,5) i et tidsrom på minst 20 dager med et varmebehandlingstrinn på minst 138 °C i fire sekunder, eller
+      - en syrebehandling (pH-verdi < 3,5) i minst 10 timer med et varmebehandlingstrinn på minst 138 °C i minst fire sekunder, eller
+      - en varme- og trykkbehandling i minst 20 minutter med mettet damp på 133 °C ved mer enn 3 bar, eller
+      - en tilsvarende, godkjent prosess.
+   2. Annet råstoff skal gjennomgå en behandling med syre eller base, etterfulgt av én eller flere skyllinger. pH-verdien skal tilpasses i henhold til dette. Gelatin skal utvinnes ved én eller flere etterfølgende oppvarminger, etterfulgt av rensing ved hjelp av filtrering og varmebehandling.
 2. Dersom en driftsansvarlig for næringsmiddelforetak som framstiller gelatin oppfyller kravene som gjelder gelatin beregnet på konsum for all gelatin foretaket framstiller, kan produksjon og lagring av gelatin som ikke er beregnet på konsum, foregå i samme virksomhet.
-►**M18**
+   ►**M18**
 
 ###### Kapittel IV. Krav til ferdige produkter
 
@@ -1761,30 +2896,69 @@ Innpakning og emballasje som inneholder gelatin, skal være påført ordene «ge
 ►**M18**
 
 1. Driftsansvarlige for næringsmiddelforetak som framstiller kollagen, skal sikre at kravene i dette avsnitt oppfylles. Uten at andre bestemmelser berøres, skal produkter avledet av kollagen være framstilt av kollagen som oppfyller kravene i dette avsnitt.
-◄ **M18**
+   ◄ **M18**
 2. I dette avsnitt menes med «garving»: herding av huder ved hjelp av vegetabilske garvemidler, kromsalter eller andre stoffer, for eksempel aluminiumssalter, jernsalter, kiselsalter, aldehyder og kinoner eller andre syntetiske herdingsmidler.
 
 ###### Kapittel I: Krav til råstoffer
 
 ► **M8**
 
-1. Følgende råstoffer kan brukes til produksjon av kollagen beregnet til bruk i næringsmidler:bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999),huder og skinn av drøvtyggende produksjonsdyr,huder og skinn av svin,skinn av fjørfe,sener,huder og skinn av viltlevende vilt,skinn og bein av fisk.◄ **M8**
+1. Følgende råstoffer kan brukes til produksjon av kollagen beregnet til bruk i næringsmidler:
+
+   1. bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999),
+   2. huder og skinn av drøvtyggende produksjonsdyr,
+   3. huder og skinn av svin,
+   4. skinn av fjørfe,
+   5. sener,
+   6. huder og skinn av viltlevende vilt,
+   7. skinn og bein av fisk.
+
+   ◄ **M8**
 2. Det er forbudt å bruke huder og skinn dersom de har gjennomgått garving, uansett om denne prosessen er avsluttet eller ikke.
 3. De råstoffene som er oppført i punkt 1 bokstav a)-d), skal komme fra dyr som er slaktet i et slakteri og hvis skrotter er funnet egnet til konsum etter undersøkelse ante mortem og post mortem, eller når det gjelder huder og skinn fra viltlevende vilt, som er funnet egnet til konsum.
-►**M18**
-4. Råstoffer som ikke er blitt behandlet på noen annen måte enn ved kjøling, frysing eller hurtigfrysing for å sikre holdbarheten, skal komme fra anlegg som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i samsvar med denne forordning.Følgende behandlede råstoffer kan benyttes:bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999) som kommer fra foretak som er oppført på en liste av vedkommende myndighet og er under dens kontroll, og som har gjennomgått én av følgende behandlinger:knusing til biter på ca 15 mm og avfetting i varmt vann ved en temperatur på minst 70 °C i minst 30 minutter, minst 80 °C i minst 15 minutter, eller minst 90 °C i minst 10 minutter, separering og deretter vasking og tørking i minst 20 minutter i en strøm av varmluft med en utgangstemperatur på minst 350 °C, eller i 15 minutter i en strøm av varmluft med en utgangstemperatur på over 700 °C,soltørking i minst 42 dager ved en gjennomsnittstemperatur på minst 20 °C,har gjennomgått en syrebehandling slik at pH-verdien har vært holdt under 6 i hele materialet i minst én time før tørking,huder og skinn av produksjonsdrøvtyggere, skinn av svin, skinn av fjørfe, skinn av fisk og huder og skinn av viltlevende vilt som kommer fra foretak som er oppført på en liste av vedkommende myndighet og er under dens kontroll, og som har gjennomgått én av følgende behandlinger:behandling med base for å bestemme pH > 12 i hele materialet og deretter salting i minst sju dager,tørking i minst 42 døgn ved en temperatur på minst 20 °C,syrebehandling slik at pH-verdien har vært holdt under 5 i hele materialet i minst én time,behandling med base slik at pH > 12 i minst åtte timer,bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999), huder og skinn av produksjonsdrøvtyggere, skinn av svin, skinn av fjørfe, skinn av fisk og huder og skinn av viltlevende vilt som ikke har gjennomgått noen annen behandling enn den angitt i punkt i) eller ii), og som kommer fra foretak som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i henhold til denne forordning.I forbindelse med bokstav b) ii) første to strekpunkter skal varigheten av behandlingene omfatte tiden som medgår til transport.De behandlede råstoffene nevnt i bokstav b) skal stamme fra:
-tamme produksjonsdrøvtyggere, svin og fjørfe som er blitt slaktet i et slakteri, og hvis skrotter er funnet egnet til konsum etter kontroll ante mortem og post mortem, eller
-nedlagt viltlevende vilt hvis skrotter er funnet egnet til konsum etter kontroll post mortem.
-◄ **M18**
-5. Innsamlingssentraler og garverier kan også levere råstoff til produksjon av kollagen beregnet på konsum, dersom de er særlig godkjent for dette formål av vedkommende myndighet, og de oppfyller følgende krav:De skal ha lagerrom med harde gulv og glatte vegger som er lette å rengjøre og desinfisere, og de skal når det er hensiktsmessig være utstyrt med kjøleinnretninger.Lagerrommene skal holdes tilfredsstillende rene og i god stand, slik at de ikke er en kilde til forurensning av råstoffene.Dersom råstoff som ikke oppfyller kravene i dette kapittel, lagres og/eller foredles i disse lokalene, skal det ved mottak, lagring, foredling og forsendelse holdes atskilt fra råstoff som oppfyller kravene i dette kapittel.
+   ►**M18**
+4. 1. Råstoffer som ikke er blitt behandlet på noen annen måte enn ved kjøling, frysing eller hurtigfrysing for å sikre holdbarheten, skal komme fra anlegg som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i samsvar med denne forordning.
+   2. Følgende behandlede råstoffer kan benyttes:
+
+      1. bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999) som kommer fra foretak som er oppført på en liste av vedkommende myndighet og er under dens kontroll, og som har gjennomgått én av følgende behandlinger:
+
+         knusing til biter på ca 15 mm og avfetting i varmt vann ved en temperatur på minst 70 °C i minst 30 minutter, minst 80 °C i minst 15 minutter, eller minst 90 °C i minst 10 minutter, separering og deretter vasking og tørking i minst 20 minutter i en strøm av varmluft med en utgangstemperatur på minst 350 °C, eller i 15 minutter i en strøm av varmluft med en utgangstemperatur på over 700 °C,
+
+         soltørking i minst 42 dager ved en gjennomsnittstemperatur på minst 20 °C,
+
+         har gjennomgått en syrebehandling slik at pH-verdien har vært holdt under 6 i hele materialet i minst én time før tørking,
+      2. huder og skinn av produksjonsdrøvtyggere, skinn av svin, skinn av fjørfe, skinn av fisk og huder og skinn av viltlevende vilt som kommer fra foretak som er oppført på en liste av vedkommende myndighet og er under dens kontroll, og som har gjennomgått én av følgende behandlinger:
+
+         behandling med base for å bestemme pH > 12 i hele materialet og deretter salting i minst sju dager,
+
+         tørking i minst 42 døgn ved en temperatur på minst 20 °C,
+
+         syrebehandling slik at pH-verdien har vært holdt under 5 i hele materialet i minst én time,
+
+         behandling med base slik at pH > 12 i minst åtte timer,
+      3. bein, som ikke er spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999), huder og skinn av produksjonsdrøvtyggere, skinn av svin, skinn av fjørfe, skinn av fisk og huder og skinn av viltlevende vilt som ikke har gjennomgått noen annen behandling enn den angitt i punkt i) eller ii), og som kommer fra foretak som er registrert eller godkjent i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) eller i henhold til denne forordning.
+
+      I forbindelse med bokstav b) ii) første to strekpunkter skal varigheten av behandlingene omfatte tiden som medgår til transport.
+
+      De behandlede råstoffene nevnt i bokstav b) skal stamme fra:
+      tamme produksjonsdrøvtyggere, svin og fjørfe som er blitt slaktet i et slakteri, og hvis skrotter er funnet egnet til konsum etter kontroll ante mortem og post mortem, eller
+      nedlagt viltlevende vilt hvis skrotter er funnet egnet til konsum etter kontroll post mortem.
+      ◄ **M18**
+5. Innsamlingssentraler og garverier kan også levere råstoff til produksjon av kollagen beregnet på konsum, dersom de er særlig godkjent for dette formål av vedkommende myndighet, og de oppfyller følgende krav:
+
+   1. De skal ha lagerrom med harde gulv og glatte vegger som er lette å rengjøre og desinfisere, og de skal når det er hensiktsmessig være utstyrt med kjøleinnretninger.
+   2. Lagerrommene skal holdes tilfredsstillende rene og i god stand, slik at de ikke er en kilde til forurensning av råstoffene.
+   3. Dersom råstoff som ikke oppfyller kravene i dette kapittel, lagres og/eller foredles i disse lokalene, skal det ved mottak, lagring, foredling og forsendelse holdes atskilt fra råstoff som oppfyller kravene i dette kapittel.
 
 ###### Kapittel II: Transport og lagring av råstoff
 
 1. I stedet for identifikasjonsmerket fastsatt i vedlegg II avsnitt I, skal råstoffet under transport, ved levering i innsamlingssentralen eller i garveriet og ved levering i kollagenforedlingsvirksomheten, følges av et dokument som angir opprinnelsesvirksomheten og inneholder de opplysningene som finnes i tillegget til dette vedlegget.
 2. Råstoff skal transporteres og lagres kjølt eller fryst, med mindre det skal foredles innen 24 timer etter at det er sendt. Avfettede og tørkede bein eller beinbrusk, saltede, tørkede og kalkbehandlede huder og skinn eller huder og skinn behandlet med syre eller base, kan imidlertid transporteres og lagres ved romtemperatur.
-►**M18**
-3. Etter veterinærkontrollene som fastsatt i direktiv [97/78/EF](eu/31997l0078), og uten at vilkårene fastsatt i direktivets artikkel 8 nr. 4 berøres, skal råstoffer til produksjon av gelatin for konsum, som det kreves hygienesertifikat for, transporteres direkte til anlegget på bestemmelsesstedet.Alle forholdsregler, herunder sikker disponering av animalske biprodukter, avfall og ubrukt materiale eller overskuddsmateriale, skal treffes for å unngå risiko for spredning av sykdommer til dyr.
-◄**M18**
+   ►**M18**
+3. Etter veterinærkontrollene som fastsatt i direktiv [97/78/EF](eu/31997l0078), og uten at vilkårene fastsatt i direktivets artikkel 8 nr. 4 berøres, skal råstoffer til produksjon av gelatin for konsum, som det kreves hygienesertifikat for, transporteres direkte til anlegget på bestemmelsesstedet.
+
+   Alle forholdsregler, herunder sikker disponering av animalske biprodukter, avfall og ubrukt materiale eller overskuddsmateriale, skal treffes for å unngå risiko for spredning av sykdommer til dyr.
+   ◄**M18**
 
 ###### Kapittel III: Krav til framstilling av kollagen
 
@@ -1794,14 +2968,33 @@ nedlagt viltlevende vilt hvis skrotter er funnet egnet til konsum etter kontroll
 
 ► **M18**
 
-1. Produksjonsprosessen for kollagen skal sikre atalt beinmateriale fra drøvtyggere som kommer fra dyr som er født, oppdrettet eller slaktet i stater eller regioner med en kontrollert eller ikke fastsatt BSE-risiko i samsvar med artikkel 5 i forordning [(EF) nr. 999/2001](eu/32001r0999), skal gjennomgå en prosess som sikrer at alt beinmateriale finknuses og avfettes med varmt vann og behandles med fortynnet saltsyre (med en minstekonsentrasjon på 4 % og pH-verdi < 1,5) i et tidsrom på minst to dager. Denne behandlingen skal etterfølges av en justering av pH-verdien ved hjelp av syre eller alkalisk stoff etterfulgt avén eller flere skyllinger og minst én av følgende prosesser:filtrering,maling,ekstrudering,eller en tilsvarende, godkjent prosess.andre råstoffer enn dem nevnt i bokstav a) skal gjennomgå en behandling som omfatter, vask, justering av pH-verdien ved hjelp av syre eller base etterfulgt avén eller flere skyllinger og minst én av følgende prosesser:filtrering,maling,ekstrudering,eller en tilsvarende, godkjent prosess.◄ **M3**
-◄ **M8**
-◄ **M18**
+1. Produksjonsprosessen for kollagen skal sikre at
+
+   1. alt beinmateriale fra drøvtyggere som kommer fra dyr som er født, oppdrettet eller slaktet i stater eller regioner med en kontrollert eller ikke fastsatt BSE-risiko i samsvar med artikkel 5 i forordning [(EF) nr. 999/2001](eu/32001r0999), skal gjennomgå en prosess som sikrer at alt beinmateriale finknuses og avfettes med varmt vann og behandles med fortynnet saltsyre (med en minstekonsentrasjon på 4 % og pH-verdi < 1,5) i et tidsrom på minst to dager. Denne behandlingen skal etterfølges av en justering av pH-verdien ved hjelp av syre eller alkalisk stoff etterfulgt av
+
+      1. én eller flere skyllinger og minst én av følgende prosesser:
+
+         - filtrering,
+         - maling,
+         - ekstrudering,
+      2. eller en tilsvarende, godkjent prosess.
+   2. andre råstoffer enn dem nevnt i bokstav a) skal gjennomgå en behandling som omfatter, vask, justering av pH-verdien ved hjelp av syre eller base etterfulgt av
+
+      1. én eller flere skyllinger og minst én av følgende prosesser:
+
+         - filtrering,
+         - maling,
+         - ekstrudering,
+      2. eller en tilsvarende, godkjent prosess.
+
+   ◄ **M3**
+   ◄ **M8**
+   ◄ **M18**
 2. Etter å ha gjennomgått prosessen nevnt i punkt 1, kan kollagenet gjennomgå en tørkeprosess.
-► **M5**
+   ► **M5**
 3. Dersom en driftsansvarlig for næringsmiddelforetak som framstiller kollagen oppfyller kravene som gjelder gelatin beregnet på konsum for all kollagen foretaket framstiller, kan produksjon og lagring av kollagen som ikke er beregnet på konsum, foregå i samme virksomhet.
-◄ **M5**
-► **M18**
+   ◄ **M5**
+   ► **M18**
 
 ###### Kapittel IV: Krav til ferdige produkter
 
@@ -1883,7 +3076,11 @@ Utstedt i .................................., den .....................
 
 .......................................................................
 
-*(Underskrift fra driftsansvarlig i eller en representant for opprinnelsesvirksomheten)* 1 Bare dersom den er forskjellig opprinnelsesvirksomheten.2 Bare dersom den er forskjellig bestemmelsesvirksomheten.
+*(Underskrift fra driftsansvarlig i eller en representant for opprinnelsesvirksomheten)*
+
+1 Bare dersom den er forskjellig opprinnelsesvirksomheten.
+
+2 Bare dersom den er forskjellig bestemmelsesvirksomheten.
 
 ◄ **M5**
 
@@ -1891,8 +3088,26 @@ Utstedt i .................................., den .....................
 
 ### Avsnitt XVI: Høyt foredlet kondroitinsulfat, hyaluronsyre, andre hydrolyserte bruskprodukter, kitosan, glukosamin, løype, fiskelim og aminosyrer
 
-1. Driftsansvarlige for næringsmiddelforetak som framstiller følgende høyt foredlede produkter av animalsk opprinnelse:Kondroitinsulfat,Hyaluronsyre,Andre hydrolyserte bruskprodukter,Kitosan,Glukosamin,Løype,Fiskelim,Aminosyrer som er godkjent som tilsetningsstoff i næringsmidler i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333).1skal sikre at behandlingen av de råstoffene som benyttes, eliminerer alle risikoer for dyrehelsen og folkehelsen.
-2. Råstoffer som benyttes til framstilling av høyt foredlede produkter som nevnt i nr. 1 skal komme fra:dyr, herunder fjærene, som er blitt slaktet i et slakteri, og hvis skrotter er funnet egnet til konsum etter kontroll ante mortem og post mortem, ellerfiskerivarer som er i samsvar med avsnitt VIII.Menneskehår skal ikke brukes som kilde for framstilling av aminosyrer.1 Europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler (EUT L 354 av 31.12.2008, s. 16).
+1. Driftsansvarlige for næringsmiddelforetak som framstiller følgende høyt foredlede produkter av animalsk opprinnelse:
+
+   1. Kondroitinsulfat,
+   2. Hyaluronsyre,
+   3. Andre hydrolyserte bruskprodukter,
+   4. Kitosan,
+   5. Glukosamin,
+   6. Løype,
+   7. Fiskelim,
+   8. Aminosyrer som er godkjent som tilsetningsstoff i næringsmidler i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333).1
+
+   skal sikre at behandlingen av de råstoffene som benyttes, eliminerer alle risikoer for dyrehelsen og folkehelsen.
+2. Råstoffer som benyttes til framstilling av høyt foredlede produkter som nevnt i nr. 1 skal komme fra:
+
+   1. dyr, herunder fjærene, som er blitt slaktet i et slakteri, og hvis skrotter er funnet egnet til konsum etter kontroll ante mortem og post mortem, eller
+   2. fiskerivarer som er i samsvar med avsnitt VIII.
+
+   Menneskehår skal ikke brukes som kilde for framstilling av aminosyrer.
+
+   1 Europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler (EUT L 354 av 31.12.2008, s. 16).
 
 ◄ **M18**
 
@@ -1912,7 +3127,22 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,1 særlig artikkel 3 nr. 2, og
 
-ut fra følgende betraktninger:I europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene2 er det fastsatt alminnelige regler for næringsmiddelhygiene som gjelder for driftsansvarlige for næringsmiddelforetak, der det tas særlig hensyn til prinsippet om allmenn gjennomføring av framgangsmåter som bygger på fareanalyse og kritiske kontrollpunkter (HACCP).Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse for driftsansvarlige for næringsmiddelforetak. Det fastsettes at driftsansvarlige for næringsmiddelforetak ikke skal bruke andre stoffer enn drikkevann for å fjerne forurensning fra overflaten av produkter av animalsk opprinnelse, med mindre bruken av stoffet er godkjent i henhold til nevnte forordning.Ved kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073*) av 15. november 2005 om mikrobiologiske kriterier for næringsmidler3 fastsettes dessuten mikrobiologiske kriterier for visse mikroorganismer og de gjennomføringsreglene som driftsansvarlige for næringsmiddelforetak skal overholde når de gjennomfører allmenne og særlige hygienetiltak nevnt i forordning [(EF) nr. 852/2004](eu/32004r0852*). Her fastsettes det at driftsansvarlige for næringsmiddelforetak skal påse at næringsmidler oppfyller disse mikrobiologiske kriteriene.Kommisjonen mottok 14. desember 2010 en søknad om godkjenning av bruk av melkesyre for å redusere overflateforurensning på skrotter av storfe og på kjøtt.Den europeiske myndighet for næringsmiddeltrygghet (EFSA) vedtok 26. juli 2011 en vitenskapelig uttalelse om vurderingen av sikkerhet og effektivitet ved bruk av melkesyre til fjerning av overflateforurensning fra skrotter av storfe, nedskåret kjøtt og avskjær.4I sin uttalelse konkluderer EFSA med at behandlinger med melkesyre for å fjerne forurensning ikke utgjør noe trygghetsproblem, forutsatt at stoffet som brukes er i samsvar med Unionens spesifikasjoner for tilsetningsstoffer i næringsmidler. Dessuten konkluderer EFSA med at behandlinger med melkesyre gir en betydelig reduksjon av mikrobiologisk overflateforurensning sammenlignet med ingen behandling eller behandling med drikkevann, og det er lite sannsynlig at slik behandling vil bidra til utvikling av mikrobiell resistens.EFSA anbefaler at driftsansvarlige for næringsmiddelforetak validerer den antimikrobielle virkningen av slike behandlinger under de spesifikke bearbeidingsvilkår og verifiserer konsentrasjonen av melkesyre, anvendelsestemperatur og andre faktorer som påvirker stoffets effektivitet for å fjerne forurensning. I EFSAs uttalelse konkluderes det også med at denne bruken av melkesyre ikke har negative miljøvirkninger.I henhold til EFSAs uttalelse kommer restmengden som absorberes i storfekjøtt etter behandling med melkesyre, ikke til å overstige 190 mg/kg. En slik mengde anses som en restmengde sammenlignet med den aktive mengden som kreves for å redusere mikrobiell overflateforurensning. Videre har den ikke noen teknisk virkning på sluttproduktet. Restmengden av melkesyre som brukes for å redusere mikrobiell overflateforurensning er ubetydelig sammenlignet med mengden av melkesyre som naturlig forekommer i storfekjøtt, og utgjør ikke noe trygghetsproblem. I visse bearbeidete kjøttprodukter er salter av melkesyre godkjent som tilsetningsstoffer i næringsmidler for å forbedre holdbarheten. Til dette formålet brukes ofte nivåer på 20 000 mg/kg. Bruk av melkesyre for å redusere mikrobiell overflateforurensning er derfor klart atskilt fra bruken som tilsetningsstoff i næringsmidler.I lys av EFSAs uttalelse, og under hensyn til at melkesyre kan gi en betydelig reduksjon av mulig mikrobiologisk forurensning, bør bruken av melkesyre for å redusere overflateforurensning godkjennes. Slik bruk bør imidlertid være underlagt visse vilkår. Bruken bør begrenses til bruk på skrotter, halve skrotter eller firedeler i slakteriet, og den bør integreres i god hygienepraksis og HACCP-baserte systemer.Ved kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231) av 9. mars 2012 om fastsettelse av spesifikasjoner for tilsetningsstoffer i næringsmidler oppført i vedlegg II og III til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333)5 fastsettes spesifikasjoner for tilsetningsstoffer i næringsmidler som særlig gjelder opprinnelse, renhetskriterier og eventuelle øvrige nødvendige opplysninger.I samsvar med EFSAs uttalelse bør melkesyre som brukes for å redusere overflateforurensning på skrotter av storfe overholde spesifikasjonene for melkesyre som fastsatt i Unionens regelverk. Når melkesyre benyttes for å redusere mikrobiologisk overflateforurensning i henhold til denne forordning, bør melkesyren følgelig være i samsvar med spesifikasjonene fastsatt i forordning [(EU) nr. 231/2012](eu/32012r0231).Bruk av melkesyre for å redusere mikrobiologisk overflateforurensning på skrotter, halve skrotter eller firedeler av storfe må ikke påvirke plikten den driftsansvarlige for næringsmiddelforetak har til å overholde kravene i Unionens regelverk om næringsmiddelhygiene, som fastsatt ved forordning [(EF) nr. 852/2004](eu/32004r0852*), forordning [(EF) nr. 853/2004](eu/32004r0853*) og forordning [(EF) nr. 2073/2005](eu/32005r2073*), og skal på ingen måte anses å erstatte god hygiene i slaktepraksis og driftsprosedyrer, eller som et alternativ til å overholde kravene i nevnte forordninger.Den faste komité for næringsmiddelkjeden og dyrehelsen har ikke avgitt uttalelse innen fristen fastsatt av lederen. Kommisjonen framla derfor et forslag for Rådet vedrørende dette tiltaket, og oversendte det samtidig til Europaparlamentet.Ettersom Rådet ikke har truffet noen beslutning og Europaparlamentet ikke har motsatt seg tiltaket innenfor de gjeldende tidsperiodene, bør Kommisjonen vedta tiltaket –
+ut fra følgende betraktninger:
+
+1. I europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene2 er det fastsatt alminnelige regler for næringsmiddelhygiene som gjelder for driftsansvarlige for næringsmiddelforetak, der det tas særlig hensyn til prinsippet om allmenn gjennomføring av framgangsmåter som bygger på fareanalyse og kritiske kontrollpunkter (HACCP).
+2. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse for driftsansvarlige for næringsmiddelforetak. Det fastsettes at driftsansvarlige for næringsmiddelforetak ikke skal bruke andre stoffer enn drikkevann for å fjerne forurensning fra overflaten av produkter av animalsk opprinnelse, med mindre bruken av stoffet er godkjent i henhold til nevnte forordning.
+3. Ved kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073*) av 15. november 2005 om mikrobiologiske kriterier for næringsmidler3 fastsettes dessuten mikrobiologiske kriterier for visse mikroorganismer og de gjennomføringsreglene som driftsansvarlige for næringsmiddelforetak skal overholde når de gjennomfører allmenne og særlige hygienetiltak nevnt i forordning [(EF) nr. 852/2004](eu/32004r0852*). Her fastsettes det at driftsansvarlige for næringsmiddelforetak skal påse at næringsmidler oppfyller disse mikrobiologiske kriteriene.
+4. Kommisjonen mottok 14. desember 2010 en søknad om godkjenning av bruk av melkesyre for å redusere overflateforurensning på skrotter av storfe og på kjøtt.
+5. Den europeiske myndighet for næringsmiddeltrygghet (EFSA) vedtok 26. juli 2011 en vitenskapelig uttalelse om vurderingen av sikkerhet og effektivitet ved bruk av melkesyre til fjerning av overflateforurensning fra skrotter av storfe, nedskåret kjøtt og avskjær.4
+6. I sin uttalelse konkluderer EFSA med at behandlinger med melkesyre for å fjerne forurensning ikke utgjør noe trygghetsproblem, forutsatt at stoffet som brukes er i samsvar med Unionens spesifikasjoner for tilsetningsstoffer i næringsmidler. Dessuten konkluderer EFSA med at behandlinger med melkesyre gir en betydelig reduksjon av mikrobiologisk overflateforurensning sammenlignet med ingen behandling eller behandling med drikkevann, og det er lite sannsynlig at slik behandling vil bidra til utvikling av mikrobiell resistens.
+7. EFSA anbefaler at driftsansvarlige for næringsmiddelforetak validerer den antimikrobielle virkningen av slike behandlinger under de spesifikke bearbeidingsvilkår og verifiserer konsentrasjonen av melkesyre, anvendelsestemperatur og andre faktorer som påvirker stoffets effektivitet for å fjerne forurensning. I EFSAs uttalelse konkluderes det også med at denne bruken av melkesyre ikke har negative miljøvirkninger.
+8. I henhold til EFSAs uttalelse kommer restmengden som absorberes i storfekjøtt etter behandling med melkesyre, ikke til å overstige 190 mg/kg. En slik mengde anses som en restmengde sammenlignet med den aktive mengden som kreves for å redusere mikrobiell overflateforurensning. Videre har den ikke noen teknisk virkning på sluttproduktet. Restmengden av melkesyre som brukes for å redusere mikrobiell overflateforurensning er ubetydelig sammenlignet med mengden av melkesyre som naturlig forekommer i storfekjøtt, og utgjør ikke noe trygghetsproblem. I visse bearbeidete kjøttprodukter er salter av melkesyre godkjent som tilsetningsstoffer i næringsmidler for å forbedre holdbarheten. Til dette formålet brukes ofte nivåer på 20 000 mg/kg. Bruk av melkesyre for å redusere mikrobiell overflateforurensning er derfor klart atskilt fra bruken som tilsetningsstoff i næringsmidler.
+9. I lys av EFSAs uttalelse, og under hensyn til at melkesyre kan gi en betydelig reduksjon av mulig mikrobiologisk forurensning, bør bruken av melkesyre for å redusere overflateforurensning godkjennes. Slik bruk bør imidlertid være underlagt visse vilkår. Bruken bør begrenses til bruk på skrotter, halve skrotter eller firedeler i slakteriet, og den bør integreres i god hygienepraksis og HACCP-baserte systemer.
+10. Ved kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231) av 9. mars 2012 om fastsettelse av spesifikasjoner for tilsetningsstoffer i næringsmidler oppført i vedlegg II og III til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333)5 fastsettes spesifikasjoner for tilsetningsstoffer i næringsmidler som særlig gjelder opprinnelse, renhetskriterier og eventuelle øvrige nødvendige opplysninger.
+11. I samsvar med EFSAs uttalelse bør melkesyre som brukes for å redusere overflateforurensning på skrotter av storfe overholde spesifikasjonene for melkesyre som fastsatt i Unionens regelverk. Når melkesyre benyttes for å redusere mikrobiologisk overflateforurensning i henhold til denne forordning, bør melkesyren følgelig være i samsvar med spesifikasjonene fastsatt i forordning [(EU) nr. 231/2012](eu/32012r0231).
+12. Bruk av melkesyre for å redusere mikrobiologisk overflateforurensning på skrotter, halve skrotter eller firedeler av storfe må ikke påvirke plikten den driftsansvarlige for næringsmiddelforetak har til å overholde kravene i Unionens regelverk om næringsmiddelhygiene, som fastsatt ved forordning [(EF) nr. 852/2004](eu/32004r0852*), forordning [(EF) nr. 853/2004](eu/32004r0853*) og forordning [(EF) nr. 2073/2005](eu/32005r2073*), og skal på ingen måte anses å erstatte god hygiene i slaktepraksis og driftsprosedyrer, eller som et alternativ til å overholde kravene i nevnte forordninger.
+13. Den faste komité for næringsmiddelkjeden og dyrehelsen har ikke avgitt uttalelse innen fristen fastsatt av lederen. Kommisjonen framla derfor et forslag for Rådet vedrørende dette tiltaket, og oversendte det samtidig til Europaparlamentet.
+14. Ettersom Rådet ikke har truffet noen beslutning og Europaparlamentet ikke har motsatt seg tiltaket innenfor de gjeldende tidsperiodene, bør Kommisjonen vedta tiltaket –
 
 1 EUT L 139 av 30.4.2004, s. 55.
 
@@ -1950,7 +3180,11 @@ Utferdiget i Brussel, 4. februar 2013.
 Vilkår for bruk av melkesyre for å redusere mikrobiologisk overflateforurensning på skrotter, halve skrotter eller firedeler av storfe i slakterier
 
 1. Melkesyreløsninger skal bare framstilles fra melkesyre som er i samsvar med spesifikasjonene fastsatt i forordning [(EU) nr. 231/2012](eu/32012r0231).
-2. Melkesyreløsninger skal barepåføres hele skrotter, halve skrotter eller firedeler av kjøtt fra tamdyr av storfe (herunder artene *Bubalus* og *Bison*) i slakteriet,påføres som sprut eller tåke i konsentrasjoner fra 2 % til 5 % melkesyre i drikkevann ved temperaturer på opptil 55 °C,påføres under kontrollerte og kontrollerbare forhold integrert i et HACCP-basert system som minst omfatter de kriterier som angis i del II.
+2. Melkesyreløsninger skal bare
+
+   1. påføres hele skrotter, halve skrotter eller firedeler av kjøtt fra tamdyr av storfe (herunder artene *Bubalus* og *Bison*) i slakteriet,
+   2. påføres som sprut eller tåke i konsentrasjoner fra 2 % til 5 % melkesyre i drikkevann ved temperaturer på opptil 55 °C,
+   3. påføres under kontrollerte og kontrollerbare forhold integrert i et HACCP-basert system som minst omfatter de kriterier som angis i del II.
 3. Melkesyreløsninger skal ikke påføres skrotter med tydelig fekal forurensning.
 4. Påføringen av melkesyreløsninger skal ikke føre til noen ugjenkallelig fysisk forandring av kjøttet.
 
@@ -1988,7 +3222,20 @@ under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,2 særlig artikkel 9, og
 
-ut fra følgende betraktninger:Finland og Sverige fikk ved sin tiltredelse tilleggsgarantier med hensyn til salmonella, som omfatter handel med ferskt storfe- og svinekjøtt, ferskt fjørfekjøtt og egg beregnet på direkte konsum, og som ble utvidet til å omfatte kvernet kjøtt ved rådsdirektiv [94/65/EF](eu/31994l0065*).3 Garantiene ble fastsatt ved forskjellige direktiver, som ble endret ved tiltredelsesakten for Østerrike, Finland og Sverige, særlig – når det gjelder næringsmidler – ved rådsdirektiv [64/433/EØF](eu/31964l0433*)4 med hensyn til ferskt kjøtt, ved rådsdirektiv [71/118/EF](eu/31971l0118*)5 med hensyn til ferskt fjørfekjøtt, og ved direktiv [92/118/EF](eu/31992l0118)6 med hensyn til egg.Fra og med 1. januar 2006 oppheves direktiv [64/433/EØF](eu/31964l0433*), [71/118/EØF](eu/31971l0118*) og [94/65/EF](eu/31994l0065*) ved europaparlaments- og rådsdirektiv [2004/41/EF](eu/32004l0041*) av 21. april 2004 om oppheving av visse direktiver om næringsmiddelhygiene og hygieneregler for produksjon og omsetning av visse produkter av animalsk opprinnelse beregnet på konsum, og om endring av rådsdirektiv [89/662/EØF](eu/31989l0662*) og [92/118/EØF](eu/31992l0118) samt rådsvedtak [95/408/EF](eu/31995d0408).7 Direktiv [92/118/EØF](eu/31992l0118) endres ved direktiv [2004/41/EF](eu/32004l0041*).Ved artikkel 4 i direktiv [2004/41/EF](eu/32004l0041*) er det fastsatt at gjennomføringsregler vedtatt på grunnlag av direktiv [71/118/EØF](eu/31971l0118*) og [94/65/EF](eu/31994l0065*) og på grunnlag av vedlegg II til direktiv [92/118/EØF](eu/31992l0118), med unntak av rådsbeslutning [94/371/EF](eu/31994d0371),8 fortsatt får tilsvarende anvendelse inntil de nødvendige bestemmelsene vedtas på grunnlag av europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*),9 (EF) [nr. 853/2004](eu/32004r0853*), (EF) [nr. 854/2004](eu/32004r0854*)10 eller rådsdirektiv [2002/99/EF](eu/32002l0099).11Fra og med 1. januar 2006 får nye regler for særlige garantier for næringsmidler med hensyn til salmonella anvendelse i henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*).I samsvar med de nye bestemmelsene i forordning [(EF) nr. 853/2004](eu/32004r0853*) er det derfor nødvendig å ajourføre eller komplettere gjennomføringsbestemmelsene fastsatt i kommisjonsvedtak [95/168/EF](eu/31995d0168) av 8. mai 1995 om tilleggsgarantier med hensyn til salmonella for forsendelser til Finland og Sverige av visse typer egg beregnet på konsum,12 rådsvedtak [95/409/EF](eu/31995d0409) av 22. juni 1995 om fastsettelse av regler for mikrobiologisk undersøkelse for salmonella ved stikkprøver av ferskt storfe- og svinekjøtt bestemt for Finland og Sverige,13 rådsvedtak [95/411/EF](eu/31995d0411) av 22. juni 1995 om fastsettelse av regler for mikrobiologisk undersøkelse for salmonella ved stikkprøver av ferskt fjørfekjøtt bestemt for Finland og Sverige14 og kommisjonsvedtak [2003/470/EF](eu/32003d0470) av 24. juni 2003 om løyve til å nytte visse alternative metodar for mikrobiologisk gransking av kjøt som er meint for Finland og Sverige.15 I tillegg bør alle bestemmelsene samles i én kommisjonsforordning, og vedtak [95/168/EF](eu/31995d0168), vedtak [95/409/EF](eu/31995d0409), vedtak [95/411/EF](eu/31995d0411) og vedtak [2003/470/EF](eu/32003d0470) bør oppheves.Det bør også vedtas gjennomføringsbestemmelser om de nye særlige garantiene fastsatt i forordning [(EF) nr. 853/2004](eu/32004r0853*) med hensyn til kvernet fjørfekjøtt.Reglene for mikrobiologiske undersøkelser ved prøvetaking bør utformes slik at de fastsetter prøvetakingsmetoden, antallet prøver som skal tas, og den mikrobiologiske metoden som skal brukes ved undersøkelse av prøvene.I reglene for prøvetakingsmetoder bør det for storfe- og svinekjøtt skilles mellom skrotter og halve skrotter på den ene siden og kvarte skrotter, stykningsdeler og mindre stykker på den andre siden, og for fjørfekjøtt bør det skilles mellom hele skrotter på den ene siden og deler av skrotter og slaktebiprodukter på den andre siden.Det bør tas hensyn til internasjonale metoder for prøvetaking og for mikrobiologisk undersøkelse av prøver som referansemetoder, samtidig som det gis rom for å bruke visse alternative metoder som er validert og sertifisert som metoder som gir tilsvarende garantier.Det er nødvendig å ajourføre eller eventuelt opprette modeller for handelsdokumenter og sertifikater som ledsager forsendelser og erklærer eller attesterer at garantiene er oppfylt.I samsvar med artikkel 8 nr. 2 bokstav c) og d) i forordning [(EF) nr. 853/2004](eu/32004r0853*) får ikke de særlige garantiene anvendelse på forsendelser som omfattes av et program som er anerkjent som likeverdig med det som er gjennomført av Finland og Sverige, eller på forsendelser av storfe- og svinekjøtt og egg som skal gjennomgå særlig behandling.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+ut fra følgende betraktninger:
+
+1. Finland og Sverige fikk ved sin tiltredelse tilleggsgarantier med hensyn til salmonella, som omfatter handel med ferskt storfe- og svinekjøtt, ferskt fjørfekjøtt og egg beregnet på direkte konsum, og som ble utvidet til å omfatte kvernet kjøtt ved rådsdirektiv [94/65/EF](eu/31994l0065*).3 Garantiene ble fastsatt ved forskjellige direktiver, som ble endret ved tiltredelsesakten for Østerrike, Finland og Sverige, særlig – når det gjelder næringsmidler – ved rådsdirektiv [64/433/EØF](eu/31964l0433*)4 med hensyn til ferskt kjøtt, ved rådsdirektiv [71/118/EF](eu/31971l0118*)5 med hensyn til ferskt fjørfekjøtt, og ved direktiv [92/118/EF](eu/31992l0118)6 med hensyn til egg.
+2. Fra og med 1. januar 2006 oppheves direktiv [64/433/EØF](eu/31964l0433*), [71/118/EØF](eu/31971l0118*) og [94/65/EF](eu/31994l0065*) ved europaparlaments- og rådsdirektiv [2004/41/EF](eu/32004l0041*) av 21. april 2004 om oppheving av visse direktiver om næringsmiddelhygiene og hygieneregler for produksjon og omsetning av visse produkter av animalsk opprinnelse beregnet på konsum, og om endring av rådsdirektiv [89/662/EØF](eu/31989l0662*) og [92/118/EØF](eu/31992l0118) samt rådsvedtak [95/408/EF](eu/31995d0408).7 Direktiv [92/118/EØF](eu/31992l0118) endres ved direktiv [2004/41/EF](eu/32004l0041*).
+3. Ved artikkel 4 i direktiv [2004/41/EF](eu/32004l0041*) er det fastsatt at gjennomføringsregler vedtatt på grunnlag av direktiv [71/118/EØF](eu/31971l0118*) og [94/65/EF](eu/31994l0065*) og på grunnlag av vedlegg II til direktiv [92/118/EØF](eu/31992l0118), med unntak av rådsbeslutning [94/371/EF](eu/31994d0371),8 fortsatt får tilsvarende anvendelse inntil de nødvendige bestemmelsene vedtas på grunnlag av europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*),9 (EF) [nr. 853/2004](eu/32004r0853*), (EF) [nr. 854/2004](eu/32004r0854*)10 eller rådsdirektiv [2002/99/EF](eu/32002l0099).11
+4. Fra og med 1. januar 2006 får nye regler for særlige garantier for næringsmidler med hensyn til salmonella anvendelse i henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*).
+5. I samsvar med de nye bestemmelsene i forordning [(EF) nr. 853/2004](eu/32004r0853*) er det derfor nødvendig å ajourføre eller komplettere gjennomføringsbestemmelsene fastsatt i kommisjonsvedtak [95/168/EF](eu/31995d0168) av 8. mai 1995 om tilleggsgarantier med hensyn til salmonella for forsendelser til Finland og Sverige av visse typer egg beregnet på konsum,12 rådsvedtak [95/409/EF](eu/31995d0409) av 22. juni 1995 om fastsettelse av regler for mikrobiologisk undersøkelse for salmonella ved stikkprøver av ferskt storfe- og svinekjøtt bestemt for Finland og Sverige,13 rådsvedtak [95/411/EF](eu/31995d0411) av 22. juni 1995 om fastsettelse av regler for mikrobiologisk undersøkelse for salmonella ved stikkprøver av ferskt fjørfekjøtt bestemt for Finland og Sverige14 og kommisjonsvedtak [2003/470/EF](eu/32003d0470) av 24. juni 2003 om løyve til å nytte visse alternative metodar for mikrobiologisk gransking av kjøt som er meint for Finland og Sverige.15 I tillegg bør alle bestemmelsene samles i én kommisjonsforordning, og vedtak [95/168/EF](eu/31995d0168), vedtak [95/409/EF](eu/31995d0409), vedtak [95/411/EF](eu/31995d0411) og vedtak [2003/470/EF](eu/32003d0470) bør oppheves.
+6. Det bør også vedtas gjennomføringsbestemmelser om de nye særlige garantiene fastsatt i forordning [(EF) nr. 853/2004](eu/32004r0853*) med hensyn til kvernet fjørfekjøtt.
+7. Reglene for mikrobiologiske undersøkelser ved prøvetaking bør utformes slik at de fastsetter prøvetakingsmetoden, antallet prøver som skal tas, og den mikrobiologiske metoden som skal brukes ved undersøkelse av prøvene.
+8. I reglene for prøvetakingsmetoder bør det for storfe- og svinekjøtt skilles mellom skrotter og halve skrotter på den ene siden og kvarte skrotter, stykningsdeler og mindre stykker på den andre siden, og for fjørfekjøtt bør det skilles mellom hele skrotter på den ene siden og deler av skrotter og slaktebiprodukter på den andre siden.
+9. Det bør tas hensyn til internasjonale metoder for prøvetaking og for mikrobiologisk undersøkelse av prøver som referansemetoder, samtidig som det gis rom for å bruke visse alternative metoder som er validert og sertifisert som metoder som gir tilsvarende garantier.
+10. Det er nødvendig å ajourføre eller eventuelt opprette modeller for handelsdokumenter og sertifikater som ledsager forsendelser og erklærer eller attesterer at garantiene er oppfylt.
+11. I samsvar med artikkel 8 nr. 2 bokstav c) og d) i forordning [(EF) nr. 853/2004](eu/32004r0853*) får ikke de særlige garantiene anvendelse på forsendelser som omfattes av et program som er anerkjent som likeverdig med det som er gjennomført av Finland og Sverige, eller på forsendelser av storfe- og svinekjøtt og egg som skal gjennomgå særlig behandling.
+12. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
 1 Ordlyden i fortalen er ikke EØS-tilpasset, jf. EØS-avtalen protokoll 1 nr. 1. Fortalen er bare relevant i den grad den kan bidra til en korrekt tolking av bestemmelsene i rettsaktene innenfor rammen av EØS-avtalen.
 
@@ -2038,11 +3285,24 @@ Prøvetaking av kjøtt fra tamfjørfe, kalkuner, perlehøns, ender og gjess, her
 
 ### Artikkel 4. Prøvetaking i flokker som egg har sin opprinnelse i
 
-Prøvetaking i flokker som egg har sin opprinnelse i beregnet på Finland, ***Norge*** og Sverige og som er underlagt en mikrobiologisk undersøkelse som fastsatt i artikkel 8 nr. 2 bokstav b) i forordning [(EF) nr. 853/2004](eu/32004r0853*), skal utføres i samsvar med:minstekravene til prøvetaking for flokker av verpehøner fastsatt i tabellen i vedlegg II del B nr. 1 i forordning [(EF) nr. 2160/2003](eu/32003r2160),kravene til overvåking av flokker av verpehøner fastsatt i nr. 2 i vedlegget til forordning [(EU) nr. 517/2011](eu/32011r0517*).
+Prøvetaking i flokker som egg har sin opprinnelse i beregnet på Finland, ***Norge*** og Sverige og som er underlagt en mikrobiologisk undersøkelse som fastsatt i artikkel 8 nr. 2 bokstav b) i forordning [(EF) nr. 853/2004](eu/32004r0853*), skal utføres i samsvar med:
+
+1. minstekravene til prøvetaking for flokker av verpehøner fastsatt i tabellen i vedlegg II del B nr. 1 i forordning [(EF) nr. 2160/2003](eu/32003r2160),
+2. kravene til overvåking av flokker av verpehøner fastsatt i nr. 2 i vedlegget til forordning [(EU) nr. 517/2011](eu/32011r0517*).
 
 ### Artikkel 5. Mikrobiologiske metoder for undersøkelse av prøvene
 
-1\. Mikrobiologisk undersøkelse for Salmonella av prøvene som er tatt i samsvar med artikkel 1–4, skal foretas i samsvar med metodene som er beskrevet i følgende dokumenter:prøver av kjøtt som nevnt i artikkel 1–3:EN/ISO 6579: Mikrobiologisk undersøkelse av næringsmidler og fôrvarer – horisontal metode for påvisning av Salmonella spp.,metode nr. 71: Salmonella, beskrevet i Nordisk metodikkomité for næringsmidler. Påvisning i næringsmidler, ellermetoder som er validert for kjøtt på grunnlag av metodene nevnt i i) og ii) eller andre internasjonalt anerkjente protokoller, forutsatt at de:brukes på kjøtt fra storfe, svin og fjærfe, oger sertifisert av en tredjepart i samsvar med protokollen fastsatt i standard EN/ISO 16140 «Mikrobiologisk undersøkelse av næringsmidler og fôrvarer – protokoll for validering av alternative metoder (EN/ISO 16140)».prøver av flokker som nevnt i artikkel 4: EN/ISO 6579-2002/Amd1:2007 – Tillegg D: Påvisning av Salmonella spp. i avføring fra dyr og i prøver fra primærproduksjonsstadiet.
+1\. Mikrobiologisk undersøkelse for Salmonella av prøvene som er tatt i samsvar med artikkel 1–4, skal foretas i samsvar med metodene som er beskrevet i følgende dokumenter:
+
+1. prøver av kjøtt som nevnt i artikkel 1–3:
+
+   1. EN/ISO 6579: Mikrobiologisk undersøkelse av næringsmidler og fôrvarer – horisontal metode for påvisning av Salmonella spp.,
+   2. metode nr. 71: Salmonella, beskrevet i Nordisk metodikkomité for næringsmidler. Påvisning i næringsmidler, eller
+   3. metoder som er validert for kjøtt på grunnlag av metodene nevnt i i) og ii) eller andre internasjonalt anerkjente protokoller, forutsatt at de:
+
+      - brukes på kjøtt fra storfe, svin og fjærfe, og
+      - er sertifisert av en tredjepart i samsvar med protokollen fastsatt i standard EN/ISO 16140 «Mikrobiologisk undersøkelse av næringsmidler og fôrvarer – protokoll for validering av alternative metoder (EN/ISO 16140)».
+2. prøver av flokker som nevnt i artikkel 4: EN/ISO 6579-2002/Amd1:2007 – Tillegg D: Påvisning av Salmonella spp. i avføring fra dyr og i prøver fra primærproduksjonsstadiet.
 
 2\. Dersom det oppstår uenighet mellom medlemsstatene om resultatene av den mikrobiologiske undersøkelsen nevnt i nr. 1 bokstav a), skal den nyeste utgaven av EN/ISO 6579 anses som referansemetode.
 
@@ -2277,7 +3537,37 @@ under henvisning til europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes,4 særlig artikkel 63, og
 
-ut fra følgende betraktninger:Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse. Det er nødvendig å fastsette visse gjennomføringstiltak for kjøtt, levende muslinger, fiskerivarer, melk, egg, froskelår og snegler samt foredlede produkter av disse.Ved forordning [(EF) nr. 854/2004](eu/32004r0854*) er det fastsatt særlige regler for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum. Det er nødvendig å klargjøre visse regler og fastlegge ytterligere krav.Ved forordning [(EF) nr. 882/2004](eu/32004r0882*) er det på EØS-plan fastsatt en harmonisert ramme av alminnelige regler for organiseringen av offentlig kontroll. Det er nødvendig å klargjøre visse regler og fastlegge ytterligere krav.Ved kommisjonsvedtak 20XX/.../EF5 oppheves visse vedtak om gjennomføringstiltak fastsatt i europaparlaments- og rådsdirektiv [2004/41/EF](eu/32004l0041*) av 21. april 2004 om oppheving av visse direktiver om næringsmiddelhygiene og hygieneregler for produksjon og omsetning av visse produkter av animalsk opprinnelse beregnet på konsum, og om endring av rådsdirektiv [89/662/EØF](eu/31989l0662*) og [92/118/EØF](eu/31992l0118) samt rådsvedtak [95/408/EF](eu/31995d0408).6 Visse deler av de relevante vedtakene skal derfor opprettholdes i denne forordning.I henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) skal driftsansvarlige for næringsmiddelforetak føre og oppbevare journaler, og på anmodning gjøre relevante opplysninger i disse journalene tilgjengelige for vedkommende myndighet og de driftsansvarlige for næringsmiddelforetakene som mottar produktene.I henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*) skal driftsansvarlige for slakterier også anmode om, motta, kontrollere og reagere på opplysninger om næringsmiddelkjeden med hensyn til alle dyr, bortsett fra viltlevende vilt, som er sendt eller som kommer til å bli sendt til slakteriet. I tillegg bør vedkommende sørge for at opplysningene om næringsmiddelkjeden inneholder alle detaljer som kreves i henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*).Opplysningene om næringsmiddelkjeden hjelper den driftsansvarlige for slakteriet til å organisere slaktingen og bidrar til at den offentlige veterinæren kan fastsette hvilke kontrollordninger som er påkrevd. Opplysningene om næringsmiddelkjeden bør analyseres av den offentlige veterinæren og brukes som en integrert del av kontrollordningene.Eksisterende systemer for informasjonsflyt bør benyttes så mye som mulig og tilpasses slik at de tilfredsstiller kravene til informasjon om næringsmiddelkjeden fastsatt i forordning [(EF) nr. 854/2004](eu/32004r0854*).For å forbedre dyreholdet på driftsenhetene og i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*), skal den offentlige veterinæren registrere enhver sykdom eller tilstand som påvises på slakteriet hos et dyr eller i en besetning, og som kan påvirke folkehelsen eller dyrehelsen eller skade dyrevelferden, og eventuelt underrette den driftsansvarlige for næringsmiddelforetaket på opprinnelsesenheten og veterinæren som tar hånd om dyrene på denne driftsenheten, eller alle berørte vedkommende myndigheter.Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) og forordning [(EF) nr. 854/2004](eu/32004r0854*) er det fastsatt krav til kontroll for parasitter under behandling av fiskerivarer på land og om bord på fartøyene. Det er opp til driftsansvarlige for næringsmiddelforetak å utføre de nødvendige kontrollene i alle ledd i produksjonen av fiskerivarer, i samsvar med reglene i avsnitt VIII kapittel V del D i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), slik at fisk som tydelig er angrepet av parasitter, ikke omsettes til konsum. Vedtakelsen av nærmere regler for visuell undersøkelse gjør det nødvendig å definere begrepene «synlige parasitter» og «visuell undersøkelse», hvilken type undersøkelse det er snakk om og hvor hyppig de skal foretas.Kontrollene fastsatt i forordning [(EF) nr. 853/2004](eu/32004r0853*) for å unngå at fiskerivarer som er uegnet til konsum, blir omsatt, kan bestå av visse kjemiske kontroller, herunder kontroll av totalt flyktig basisk nitrogen (TVBN). Det er nødvendig å fastsette grenseverdier for TVBN for visse artskategorier samt hvilke analysemetoder som skal benyttes. De vitenskapelig anerkjente analysemetodene for kontroll av TVBN skal fortsatt benyttes rutinemessig, men det bør fastsettes en referansemetode som skal brukes dersom det er tvil om resultatene, eller ved tvist.Grenseverdiene for paralyserende skjellgift (PSP), hukommelsestap-toksin (ASP) og lipofile toksiner er fastsatt i forordning [(EF) nr. 853/2004](eu/32004r0853*). Biologiske analyser er referansemetoden for å påvise visse toksiner og hindre at giftige skjell innhøstes. Grenseverdier og analysemetoder bør harmoniseres og gjennomføres av medlemsstatene for å beskytte menneskers helse. I tillegg til de biologiske analysemetodene, bør andre påvisningsmetoder som kjemiske metoder og *in vitro*-prøver tillates, dersom det godtgjøres at de valgte metodene er minst like effektive som de biologiske metodene, og at bruken av dem gir et likeverdig nivå for vern av folkehelsen. De foreslåtte grenseverdiene for lipofile toksiner bygger på foreløpige data og skal gjennomgås på nytt når det foreligger nye vitenskapelige data. Som følge av mangel på referansemateriell, vil bruk av undersøkelser med utelukkende ikke-biologiske analyser per i dag ikke kunne sikre et nivå for vern av folkehelsen når det gjelder alle de nevnte toksinene, som tilsvarer det de biologiske undersøkelsene kan gi. Det bør treffes nødvendige tiltak for å erstatte de biologiske undersøkelsene så raskt som mulig.Mekanisk utbeinet kjøtt (MSM) som er framstilt ved hjelp av teknikker som ikke endrer beinstrukturen under produksjon av MSM, skal behandles annerledes enn MSM som er framstilt ved hjelp av teknikker som endrer beinstrukturen.MSM av førstnevnte type, framstilt under bestemte vilkår, og med en bestemt sammensetning, bør tillates i tilberedt kjøtt som åpenbart ikke er beregnet på konsum uten forutgående varmebehandling. Disse vilkårene er særlig knyttet til kalsiuminnholdet i MSM, som bør angis i samsvar med artikkel 11 nr. 2 i forordning [(EF) nr. 853/2004](eu/32004r0853*). Høyeste tillatte kalsiuminnhold fastsatt i nevnte forordning kan justeres når det foreligger detaljerte opplysninger om variasjoner som oppstår ved bruk av forskjellige typer råstoffer.Ved artikkel 31 nr. 2 bokstav f) i forordning [(EF) nr. 882/2004](eu/32004r0882*) er det fastsatt at medlemsstatene skal føre ajourførte lister over godkjente virksomheter. Det bør fastsettes en felles ramme for hvordan de relevante opplysningene framlegges for de øvrige medlemsstatene og for offentligheten.Ved avsnitt XI i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt krav til tilberedning av froskelår og snegler beregnet på konsum. Særlige krav, herunder modeller for hygienesertifikater, skal også fastsettes for import fra tredjestater av froskelår og snegler beregnet på konsum.Ved avsnitt XIV og XV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt regler for produksjon og omsetning av gelatin og kollagen beregnet på konsum. Særlige krav, herunder modeller for hygienesertifikater, skal også fastsettes for import fra tredjestater av gelatin og kollagen samt råstoffer til produksjon av gelatin og kollagen beregnet på konsum.Det er nødvendig med en viss fleksibilitet slik at produksjonen av næringsmidler med tradisjonell egenart kan fortsette. Medlemsstatene har allerede gitt unntak for en rekke slike næringsmidler i henhold til den lovgivningen som gjaldt før 1. januar 2006. Driftsansvarlige for næringsmiddelforetak skal uten avbrudd kunne fortsette å benytte eksisterende praksis etter denne datoen. En framgangsmåte som tillater medlemsstatene å være fleksible, er fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*), (EF) [nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*). I de fleste tilfellene der unntak allerede er gitt, vil det imidlertid bare være et spørsmål om å videreføre etablert praksis, så en fullstendig framgangsmåte for melding, herunder en fullstendig fareanalyse, kan være en unødvendig og uforholdsmessig stor byrde for medlemsstatene. Det er derfor nødvendig å definere hva «næringsmidler med tradisjonell egenart» er og å fastsette generelle vilkår som skal gjelde for slike næringsmidler, som unntak fra de strukturelle kravene fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*), samtidig som det tas hensyn til målene for næringsmiddelhygiene.Siden forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*) ble vedtatt før utvidelsen av Unionen den 1. mai 2004, inneholder disse forordningene ikke henvisninger til de nye medlemsstatene. ISO-kodene for disse medlemsstatene og forkortelsene for Det europeiske fellesskap på de enkelte medlemsstatenes språk, skal derfor tilføyes i de relevante bestemmelsene i de nevnte forordningene.Ved avsnitt I i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt regler for produksjon og omsetning av kjøtt fra tamme hovdyr. Unntak fra kravet om fullstendig flåing av skrotten og andre deler av kroppen som er beregnet på konsum, er fastsatt i kapittel IV nr. 8 i nevnte avsnitt. Disse unntakene bør utvides til også å gjelde føtter fra voksent storfe, under forutsetning av at de oppfyller de samme vilkårene som dem som gjelder for kalveføtter.Visse former for praksis kan villede forbrukeren når det gjelder sammensetningen av visse produkter. Særlig for ikke å skuffe forbrukernes forventninger, skal fjørfekjøtt behandlet med vannbindende midler, forbys solgt som ferskt kjøtt.Uttalelsen fra Den europeiske myndighet for næringsmiddeltrygghet som ble vedtatt 30. august 2004, viser at fiskerivarer fra *Gempylidae*-familien, særlig *Ruvettus pretiosus* og *Lepidocybium flavobrunneum*, kan forårsake forstyrrelser i mage-tarmkanalen dersom de inntas under visse forhold. Omsetning av fiskerivarer som tilhører denne familien, bør derfor underlegges visse vilkår.Ved avsnitt IX i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for rå melk og melkeprodukter. I henhold til bestemmelsene i kapittel I del II B nr. 1 bokstav e), kan spenedyppingsmidler eller andre rengjøringsmidler for jur brukes bare dersom de er godkjent av vedkommende myndighet. Det er imidlertid ikke fastsatt noen nærmere godkjenningsordning i nevnte del. For å sikre en harmonisering av praksis i medlemsstatene, er det derfor nødvendig å klargjøre framgangsmåtene for å gi slik godkjenning.I henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*) skal driftsansvarlige for næringsmiddelforetak sikre at varmebehandlingen som brukes ved foredling av rå melk og melkeprodukter, er i samsvar med en internasjonalt anerkjent standard. På grunn av den særlige karakteren som visse varmebehandlinger brukt i denne sektoren har, og deres påvirkning på næringsmiddeltrygghet og dyrehelse, er det imidlertid nødvendig å gi driftsansvarlige for næringsmiddelforetak nærmere retningslinjer om dette.Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt en ny definisjon som dekker produkter som stammer fra egg som fortsatt er uforedlet etter at skallet er fjernet. Det er derfor nødvendig å klargjøre reglene som får anvendelse på disse produktene, og å endre avsnitt X kapittel II i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*).Ved avsnitt XIV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for gelatin. Disse reglene omfatter krav til hvilke råstoffer som kan brukes til å framstille gelatin, samt til transport og lagring av disse. De fastsetter også regler som får anvendelse på produksjon av gelatin. Det skal imidlertid også fastsettes regler for merking av gelatin.Den vitenskapelige utvikling har ført til at ISO 16649-3 er vedtatt som anerkjent referansemetode for analyse av *E. coli* i muslinger. Denne referansemetoden er allerede fastsatt for levende muslinger fra produksjonsområder i klasse A, i samsvar med kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073*) om mikrobiologiske kriterier for næringsmidler.7 ISO 16649-3 bør derfor også angis som referansemetoden for MPN (mest sannsynlige tall) ved analyse av *E. coli* i muslinger som stammer fra produksjonsområder i klasse B og C. Bruk av andre metoder skal bare tillates når disse betraktes som likeverdige med referansemetoden.Forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*) bør derfor endres.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+ut fra følgende betraktninger:
+
+1. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse. Det er nødvendig å fastsette visse gjennomføringstiltak for kjøtt, levende muslinger, fiskerivarer, melk, egg, froskelår og snegler samt foredlede produkter av disse.
+2. Ved forordning [(EF) nr. 854/2004](eu/32004r0854*) er det fastsatt særlige regler for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum. Det er nødvendig å klargjøre visse regler og fastlegge ytterligere krav.
+3. Ved forordning [(EF) nr. 882/2004](eu/32004r0882*) er det på EØS-plan fastsatt en harmonisert ramme av alminnelige regler for organiseringen av offentlig kontroll. Det er nødvendig å klargjøre visse regler og fastlegge ytterligere krav.
+4. Ved kommisjonsvedtak 20XX/.../EF5 oppheves visse vedtak om gjennomføringstiltak fastsatt i europaparlaments- og rådsdirektiv [2004/41/EF](eu/32004l0041*) av 21. april 2004 om oppheving av visse direktiver om næringsmiddelhygiene og hygieneregler for produksjon og omsetning av visse produkter av animalsk opprinnelse beregnet på konsum, og om endring av rådsdirektiv [89/662/EØF](eu/31989l0662*) og [92/118/EØF](eu/31992l0118) samt rådsvedtak [95/408/EF](eu/31995d0408).6 Visse deler av de relevante vedtakene skal derfor opprettholdes i denne forordning.
+5. I henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*) skal driftsansvarlige for næringsmiddelforetak føre og oppbevare journaler, og på anmodning gjøre relevante opplysninger i disse journalene tilgjengelige for vedkommende myndighet og de driftsansvarlige for næringsmiddelforetakene som mottar produktene.
+6. I henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*) skal driftsansvarlige for slakterier også anmode om, motta, kontrollere og reagere på opplysninger om næringsmiddelkjeden med hensyn til alle dyr, bortsett fra viltlevende vilt, som er sendt eller som kommer til å bli sendt til slakteriet. I tillegg bør vedkommende sørge for at opplysningene om næringsmiddelkjeden inneholder alle detaljer som kreves i henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*).
+7. Opplysningene om næringsmiddelkjeden hjelper den driftsansvarlige for slakteriet til å organisere slaktingen og bidrar til at den offentlige veterinæren kan fastsette hvilke kontrollordninger som er påkrevd. Opplysningene om næringsmiddelkjeden bør analyseres av den offentlige veterinæren og brukes som en integrert del av kontrollordningene.
+8. Eksisterende systemer for informasjonsflyt bør benyttes så mye som mulig og tilpasses slik at de tilfredsstiller kravene til informasjon om næringsmiddelkjeden fastsatt i forordning [(EF) nr. 854/2004](eu/32004r0854*).
+9. For å forbedre dyreholdet på driftsenhetene og i samsvar med forordning [(EF) nr. 854/2004](eu/32004r0854*), skal den offentlige veterinæren registrere enhver sykdom eller tilstand som påvises på slakteriet hos et dyr eller i en besetning, og som kan påvirke folkehelsen eller dyrehelsen eller skade dyrevelferden, og eventuelt underrette den driftsansvarlige for næringsmiddelforetaket på opprinnelsesenheten og veterinæren som tar hånd om dyrene på denne driftsenheten, eller alle berørte vedkommende myndigheter.
+10. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) og forordning [(EF) nr. 854/2004](eu/32004r0854*) er det fastsatt krav til kontroll for parasitter under behandling av fiskerivarer på land og om bord på fartøyene. Det er opp til driftsansvarlige for næringsmiddelforetak å utføre de nødvendige kontrollene i alle ledd i produksjonen av fiskerivarer, i samsvar med reglene i avsnitt VIII kapittel V del D i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), slik at fisk som tydelig er angrepet av parasitter, ikke omsettes til konsum. Vedtakelsen av nærmere regler for visuell undersøkelse gjør det nødvendig å definere begrepene «synlige parasitter» og «visuell undersøkelse», hvilken type undersøkelse det er snakk om og hvor hyppig de skal foretas.
+11. Kontrollene fastsatt i forordning [(EF) nr. 853/2004](eu/32004r0853*) for å unngå at fiskerivarer som er uegnet til konsum, blir omsatt, kan bestå av visse kjemiske kontroller, herunder kontroll av totalt flyktig basisk nitrogen (TVBN). Det er nødvendig å fastsette grenseverdier for TVBN for visse artskategorier samt hvilke analysemetoder som skal benyttes. De vitenskapelig anerkjente analysemetodene for kontroll av TVBN skal fortsatt benyttes rutinemessig, men det bør fastsettes en referansemetode som skal brukes dersom det er tvil om resultatene, eller ved tvist.
+12. Grenseverdiene for paralyserende skjellgift (PSP), hukommelsestap-toksin (ASP) og lipofile toksiner er fastsatt i forordning [(EF) nr. 853/2004](eu/32004r0853*). Biologiske analyser er referansemetoden for å påvise visse toksiner og hindre at giftige skjell innhøstes. Grenseverdier og analysemetoder bør harmoniseres og gjennomføres av medlemsstatene for å beskytte menneskers helse. I tillegg til de biologiske analysemetodene, bør andre påvisningsmetoder som kjemiske metoder og *in vitro*-prøver tillates, dersom det godtgjøres at de valgte metodene er minst like effektive som de biologiske metodene, og at bruken av dem gir et likeverdig nivå for vern av folkehelsen. De foreslåtte grenseverdiene for lipofile toksiner bygger på foreløpige data og skal gjennomgås på nytt når det foreligger nye vitenskapelige data. Som følge av mangel på referansemateriell, vil bruk av undersøkelser med utelukkende ikke-biologiske analyser per i dag ikke kunne sikre et nivå for vern av folkehelsen når det gjelder alle de nevnte toksinene, som tilsvarer det de biologiske undersøkelsene kan gi. Det bør treffes nødvendige tiltak for å erstatte de biologiske undersøkelsene så raskt som mulig.
+13. Mekanisk utbeinet kjøtt (MSM) som er framstilt ved hjelp av teknikker som ikke endrer beinstrukturen under produksjon av MSM, skal behandles annerledes enn MSM som er framstilt ved hjelp av teknikker som endrer beinstrukturen.
+14. MSM av førstnevnte type, framstilt under bestemte vilkår, og med en bestemt sammensetning, bør tillates i tilberedt kjøtt som åpenbart ikke er beregnet på konsum uten forutgående varmebehandling. Disse vilkårene er særlig knyttet til kalsiuminnholdet i MSM, som bør angis i samsvar med artikkel 11 nr. 2 i forordning [(EF) nr. 853/2004](eu/32004r0853*). Høyeste tillatte kalsiuminnhold fastsatt i nevnte forordning kan justeres når det foreligger detaljerte opplysninger om variasjoner som oppstår ved bruk av forskjellige typer råstoffer.
+15. Ved artikkel 31 nr. 2 bokstav f) i forordning [(EF) nr. 882/2004](eu/32004r0882*) er det fastsatt at medlemsstatene skal føre ajourførte lister over godkjente virksomheter. Det bør fastsettes en felles ramme for hvordan de relevante opplysningene framlegges for de øvrige medlemsstatene og for offentligheten.
+16. Ved avsnitt XI i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt krav til tilberedning av froskelår og snegler beregnet på konsum. Særlige krav, herunder modeller for hygienesertifikater, skal også fastsettes for import fra tredjestater av froskelår og snegler beregnet på konsum.
+17. Ved avsnitt XIV og XV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt regler for produksjon og omsetning av gelatin og kollagen beregnet på konsum. Særlige krav, herunder modeller for hygienesertifikater, skal også fastsettes for import fra tredjestater av gelatin og kollagen samt råstoffer til produksjon av gelatin og kollagen beregnet på konsum.
+18. Det er nødvendig med en viss fleksibilitet slik at produksjonen av næringsmidler med tradisjonell egenart kan fortsette. Medlemsstatene har allerede gitt unntak for en rekke slike næringsmidler i henhold til den lovgivningen som gjaldt før 1. januar 2006. Driftsansvarlige for næringsmiddelforetak skal uten avbrudd kunne fortsette å benytte eksisterende praksis etter denne datoen. En framgangsmåte som tillater medlemsstatene å være fleksible, er fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*), (EF) [nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*). I de fleste tilfellene der unntak allerede er gitt, vil det imidlertid bare være et spørsmål om å videreføre etablert praksis, så en fullstendig framgangsmåte for melding, herunder en fullstendig fareanalyse, kan være en unødvendig og uforholdsmessig stor byrde for medlemsstatene. Det er derfor nødvendig å definere hva «næringsmidler med tradisjonell egenart» er og å fastsette generelle vilkår som skal gjelde for slike næringsmidler, som unntak fra de strukturelle kravene fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*), samtidig som det tas hensyn til målene for næringsmiddelhygiene.
+19. Siden forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*) ble vedtatt før utvidelsen av Unionen den 1. mai 2004, inneholder disse forordningene ikke henvisninger til de nye medlemsstatene. ISO-kodene for disse medlemsstatene og forkortelsene for Det europeiske fellesskap på de enkelte medlemsstatenes språk, skal derfor tilføyes i de relevante bestemmelsene i de nevnte forordningene.
+20. Ved avsnitt I i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt regler for produksjon og omsetning av kjøtt fra tamme hovdyr. Unntak fra kravet om fullstendig flåing av skrotten og andre deler av kroppen som er beregnet på konsum, er fastsatt i kapittel IV nr. 8 i nevnte avsnitt. Disse unntakene bør utvides til også å gjelde føtter fra voksent storfe, under forutsetning av at de oppfyller de samme vilkårene som dem som gjelder for kalveføtter.
+21. Visse former for praksis kan villede forbrukeren når det gjelder sammensetningen av visse produkter. Særlig for ikke å skuffe forbrukernes forventninger, skal fjørfekjøtt behandlet med vannbindende midler, forbys solgt som ferskt kjøtt.
+22. Uttalelsen fra Den europeiske myndighet for næringsmiddeltrygghet som ble vedtatt 30. august 2004, viser at fiskerivarer fra *Gempylidae*-familien, særlig *Ruvettus pretiosus* og *Lepidocybium flavobrunneum*, kan forårsake forstyrrelser i mage-tarmkanalen dersom de inntas under visse forhold. Omsetning av fiskerivarer som tilhører denne familien, bør derfor underlegges visse vilkår.
+23. Ved avsnitt IX i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for rå melk og melkeprodukter. I henhold til bestemmelsene i kapittel I del II B nr. 1 bokstav e), kan spenedyppingsmidler eller andre rengjøringsmidler for jur brukes bare dersom de er godkjent av vedkommende myndighet. Det er imidlertid ikke fastsatt noen nærmere godkjenningsordning i nevnte del. For å sikre en harmonisering av praksis i medlemsstatene, er det derfor nødvendig å klargjøre framgangsmåtene for å gi slik godkjenning.
+24. I henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*) skal driftsansvarlige for næringsmiddelforetak sikre at varmebehandlingen som brukes ved foredling av rå melk og melkeprodukter, er i samsvar med en internasjonalt anerkjent standard. På grunn av den særlige karakteren som visse varmebehandlinger brukt i denne sektoren har, og deres påvirkning på næringsmiddeltrygghet og dyrehelse, er det imidlertid nødvendig å gi driftsansvarlige for næringsmiddelforetak nærmere retningslinjer om dette.
+25. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt en ny definisjon som dekker produkter som stammer fra egg som fortsatt er uforedlet etter at skallet er fjernet. Det er derfor nødvendig å klargjøre reglene som får anvendelse på disse produktene, og å endre avsnitt X kapittel II i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*).
+26. Ved avsnitt XIV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for gelatin. Disse reglene omfatter krav til hvilke råstoffer som kan brukes til å framstille gelatin, samt til transport og lagring av disse. De fastsetter også regler som får anvendelse på produksjon av gelatin. Det skal imidlertid også fastsettes regler for merking av gelatin.
+27. Den vitenskapelige utvikling har ført til at ISO 16649-3 er vedtatt som anerkjent referansemetode for analyse av *E. coli* i muslinger. Denne referansemetoden er allerede fastsatt for levende muslinger fra produksjonsområder i klasse A, i samsvar med kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073*) om mikrobiologiske kriterier for næringsmidler.7 ISO 16649-3 bør derfor også angis som referansemetoden for MPN (mest sannsynlige tall) ved analyse av *E. coli* i muslinger som stammer fra produksjonsområder i klasse B og C. Bruk av andre metoder skal bare tillates når disse betraktes som likeverdige med referansemetoden.
+28. Forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*) bør derfor endres.
+29. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
 1 EUT L 139 av 30.4.2004, s. 1. Rettet i EUT L 226 av 25.6.2004, s. 3.
 
@@ -2345,11 +3635,26 @@ Driftsansvarlige for næringsmiddelforetak skal benytte de analysemetodene som e
 
 ### Artikkel 7. Unntak fra forordning (EF) nr. 852/2004 for næringsmidler med tradisjonell egenart
 
-1\. Med «næringsmidler med tradisjonell egenart» menes i denne forordning næringsmidler som i den medlemsstaten der de tradisjonelt framstilles, er:historisk anerkjent som tradisjonelle produkter, ellerframstilt i henhold til kodifiserte eller registrerte tekniske referanser for den tradisjonelle prosessen, eller i henhold til tradisjonelle produksjonsmetoder, ellerbeskyttet som tradisjonelle næringsmidler ved fellesskapsrett eller en nasjonal, regional eller lokal lov.
+1\. Med «næringsmidler med tradisjonell egenart» menes i denne forordning næringsmidler som i den medlemsstaten der de tradisjonelt framstilles, er:
 
-2\. Medlemsstatene kan gi virksomheter som framstiller næringsmidler med tradisjonell egenart, unntak på individuelt eller generelt grunnlag fra kravene nevnt i:kapittel II nr. 1 i vedlegg II til forordning [(EF) nr. 852/2004](eu/32004r0852*) med hensyn til lokalene der slike produkter utsettes for et miljø som bidrar til at deres egenart kan utvikle seg. Lokalene kan særlig omfatte vegger, himlinger og dører som ikke er glatte, vanntette, ikke-absorberende eller av korrosjonsbestandige materialer, og kan ha naturlige, geologiske vegger, himlinger og gulv,kapittel II nr. 1 bokstav f) og kapittel V nr. 1 vedlegg II til forordning [(EF) nr. 852/2004](eu/32004r0852*) med hensyn til den type materialer som redskapene og utstyret som benyttes til tilberedning, emballering og innpakking av disse produktene, består av.Tiltakene for å rengjøre og desinfisere lokalene nevnt i bokstav a), og hvor ofte de skal gjennomføres, skal tilpasses den aktuelle aktiviteten for å ta hensyn til den særlige floraen i omgivelsene.Redskapene og utstyret nevnt i bokstav b), skal til enhver tid holde en tilfredsstillende hygienisk standard og skal rengjøres og desinfiseres regelmessig.
+1. historisk anerkjent som tradisjonelle produkter, eller
+2. framstilt i henhold til kodifiserte eller registrerte tekniske referanser for den tradisjonelle prosessen, eller i henhold til tradisjonelle produksjonsmetoder, eller
+3. beskyttet som tradisjonelle næringsmidler ved fellesskapsrett eller en nasjonal, regional eller lokal lov.
 
-3\. Medlemsstater som gir unntakene nevnt i nr. 2, skal underrette Kommisjonen og de andre medlemsstatene om dette senest tolv måneder etter at de individuelle eller generelle unntakene er gitt. Hver underretning skal inneholde:en kort beskrivelse av kravene som er tilpasset,en beskrivelse av de aktuelle næringsmidlene og virksomhetene, ogalle andre relevante opplysninger.
+2\. Medlemsstatene kan gi virksomheter som framstiller næringsmidler med tradisjonell egenart, unntak på individuelt eller generelt grunnlag fra kravene nevnt i:
+
+1. kapittel II nr. 1 i vedlegg II til forordning [(EF) nr. 852/2004](eu/32004r0852*) med hensyn til lokalene der slike produkter utsettes for et miljø som bidrar til at deres egenart kan utvikle seg. Lokalene kan særlig omfatte vegger, himlinger og dører som ikke er glatte, vanntette, ikke-absorberende eller av korrosjonsbestandige materialer, og kan ha naturlige, geologiske vegger, himlinger og gulv,
+2. kapittel II nr. 1 bokstav f) og kapittel V nr. 1 vedlegg II til forordning [(EF) nr. 852/2004](eu/32004r0852*) med hensyn til den type materialer som redskapene og utstyret som benyttes til tilberedning, emballering og innpakking av disse produktene, består av.
+
+   Tiltakene for å rengjøre og desinfisere lokalene nevnt i bokstav a), og hvor ofte de skal gjennomføres, skal tilpasses den aktuelle aktiviteten for å ta hensyn til den særlige floraen i omgivelsene.
+
+   Redskapene og utstyret nevnt i bokstav b), skal til enhver tid holde en tilfredsstillende hygienisk standard og skal rengjøres og desinfiseres regelmessig.
+
+3\. Medlemsstater som gir unntakene nevnt i nr. 2, skal underrette Kommisjonen og de andre medlemsstatene om dette senest tolv måneder etter at de individuelle eller generelle unntakene er gitt. Hver underretning skal inneholde:
+
+1. en kort beskrivelse av kravene som er tilpasset,
+2. en beskrivelse av de aktuelle næringsmidlene og virksomhetene, og
+3. alle andre relevante opplysninger.
 
 ### Artikkel 8. Endringer i forordning (EF) nr. 853/2004
 
@@ -2413,7 +3718,10 @@ Definisjoner
 
 Visuell undersøkelse
 
-1. Visuell undersøkelse skal utføres på et representativt antall prøver. Personene som er ansvarlige for virksomhetene på land, og kvalifiserte personer om bord i fabrikkskipene, skal fastsette antall undersøkelser og hyppigheten av dem, ut fra fiskerivarenes art, geografiske opprinnelse og anvendelse. Under produksjon skal kvalifiserte personer utføre visuell undersøkelse av den sløyde fiskens bukhule, og av lever og rogn som er beregnet på konsum. Avhengig av hvilken metode for sløying som brukes, skal den visuelle undersøkelsen foretas:ved manuell sløying, fortløpende av den som håndterer fisken etter hvert som fisken sløyes og vaskes,ved mekanisk sløying, ved stikkprøvekontroll som foretas på et representativt antall prøver, som skal være minst ti fisk per parti.
+1. Visuell undersøkelse skal utføres på et representativt antall prøver. Personene som er ansvarlige for virksomhetene på land, og kvalifiserte personer om bord i fabrikkskipene, skal fastsette antall undersøkelser og hyppigheten av dem, ut fra fiskerivarenes art, geografiske opprinnelse og anvendelse. Under produksjon skal kvalifiserte personer utføre visuell undersøkelse av den sløyde fiskens bukhule, og av lever og rogn som er beregnet på konsum. Avhengig av hvilken metode for sløying som brukes, skal den visuelle undersøkelsen foretas:
+
+   1. ved manuell sløying, fortløpende av den som håndterer fisken etter hvert som fisken sløyes og vaskes,
+   2. ved mekanisk sløying, ved stikkprøvekontroll som foretas på et representativt antall prøver, som skal være minst ti fisk per parti.
 2. Visuell undersøkelse av fiskefileter eller -skiver skal foretas av kvalifiserte personer under renskjæring og etter filetering eller oppskjæring i skiver. Dersom en individuell undersøkelse ikke er mulig på grunn av filetenes størrelse eller fileteringsmetoden, skal det utarbeides en prøvetakingsplan som skal stilles til rådighet for vedkommende myndighet i samsvar med avsnitt VIII kapittel II nr. 4 i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*). Dersom gjennomlysing av filetene er nødvendig ut fra et teknisk synspunkt, skal dette inngå i prøvetakingsplanen.
 
 ►**M13**
@@ -2429,7 +3737,10 @@ Visuell undersøkelse
 ### Vedlegg IV
 Kalsiuminnhold i mekanisk utbeinet kjøtt
 
-Kalsiuminnholdet i mekanisk utbeinet kjøtt som nevnt i forordning [(EF) nr. 853/2004](eu/32004r0853*), skal:ikke overstige 0,1 % (=100 mg/100 g eller 1 000 ppm) av fersk vare,fastsettes ved bruk av en standardisert internasjonal metode.
+Kalsiuminnholdet i mekanisk utbeinet kjøtt som nevnt i forordning [(EF) nr. 853/2004](eu/32004r0853*), skal:
+
+1. ikke overstige 0,1 % (=100 mg/100 g eller 1 000 ppm) av fersk vare,
+2. fastsettes ved bruk av en standardisert internasjonal metode.
 
 ### ►**M13** Vedlegg V – – –
 
@@ -2487,9 +3798,16 @@ i) I kapittel I del II B nr. 1 skal bokstav e) lyde:
 ii) I kapittel II del II skal nr. 1 lyde:
 
 - Dersom rå melk eller melkeprodukter varmebehandles, skal driftsansvarlige for næringsmiddelforetak sikre at kravene i kapittel XI i vedlegg II til forordning [(EF) nr. 852/2004](eu/32004r0852*), oppfylles. Når følgende prosesser benyttes, skal de særlig sikre at disse er i samsvar med angitte spesifikasjoner:
-- Pasteurisering skjer ved en behandling som omfatter:høy temperatur i kort tid (minst 72 °C i 15 sekunder),lav temperatur i lang tid (minst 63 °C i 30 minutter) ellerandre kombinasjoner av tid og temperatur som gir tilsvarende virkning,
-slik at produktene, dersom det er relevant, viser en negativ reaksjon på en alkalisk fosfataseprøve umiddelbart etter en slik behandling.
-- Behandling ved ultrahøy temperatur (UHT) skjer ved en behandling:som omfatter en kontinuerlig varmestrøm ved høy temperatur i kort tid (ikke under 135 °C i et passende tidsrom), slik at det behandlede produktet ikke innholder noen levedyktige mikroorganismer eller sporer som kan vokse i produktet når det oppbevares i en aseptisk, lukket beholder i omgivelsestemperatur, ogsom er tilstrekkelig for å sikre at produktene fortsatt er mikrobiologisk stabile etter inkubasjon i 15 dager ved 30 °C i lukkede beholdere, eller i sju dager ved 55 °C i lukkede beholdere, eller etter bruk av en annen metode som viser at produktet har gjennomgått en egnet varmebehandling.»
+- Pasteurisering skjer ved en behandling som omfatter:
+
+  1. høy temperatur i kort tid (minst 72 °C i 15 sekunder),
+  2. lav temperatur i lang tid (minst 63 °C i 30 minutter) eller
+  3. andre kombinasjoner av tid og temperatur som gir tilsvarende virkning,
+     slik at produktene, dersom det er relevant, viser en negativ reaksjon på en alkalisk fosfataseprøve umiddelbart etter en slik behandling.
+- Behandling ved ultrahøy temperatur (UHT) skjer ved en behandling:
+
+  1. som omfatter en kontinuerlig varmestrøm ved høy temperatur i kort tid (ikke under 135 °C i et passende tidsrom), slik at det behandlede produktet ikke innholder noen levedyktige mikroorganismer eller sporer som kan vokse i produktet når det oppbevares i en aseptisk, lukket beholder i omgivelsestemperatur, og
+  2. som er tilstrekkelig for å sikre at produktene fortsatt er mikrobiologisk stabile etter inkubasjon i 15 dager ved 30 °C i lukkede beholdere, eller i sju dager ved 55 °C i lukkede beholdere, eller etter bruk av en annen metode som viser at produktet har gjennomgått en egnet varmebehandling.»
 
 e) I avsnitt X kapittel II gjøres følgende endringer:
 
@@ -2551,7 +3869,18 @@ under henvisning til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) av 29. april 2004 om fastsettelse av særlige regler for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum,2 særlig artikkel 16 første ledd, og
 
-ut fra følgende betraktninger:Forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*) medførte betydelige endringer av de reglene og framgangsmåtene som driftsansvarlige for næringsmiddelforetak og vedkommende myndigheter i medlemsstatene skal overholde. Ettersom det i visse tilfeller ville ha medført praktiske problemer å anvende flere av disse reglene og framgangsmåtene med umiddelbar virkning, var det nødvendig å vedta overgangstiltak.Rapporten av 28. juli 2009 fra Kommisjonen til Europaparlamentet og Rådet om erfaringene med anvendelsen av Europaparlamentets og Rådets hygieneforordninger (EF) [nr. 852/2004](eu/32004r0852*), (EF) [nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*)3 (heretter kalt «rapporten»), gir en faktabasert framstilling av alle berørte parters erfaringer, herunder vanskelighetene som oppsto i 2006, 2007 og 2008 med gjennomføringen av forordningene.Rapporten inneholder tilbakemeldinger på erfaringene med overgangsbestemmelsene fastsatt i kommisjonsforordning [(EF) nr. 2076/2005](eu/32005r2076).4 Rapporten viser også til problemer i forbindelse med lokal levering av små mengder av visse næringsmidler og påpeker at en videre avklaring av importvilkårene er nødvendig i tilfeller der nasjonale importregler anvendes i fravær av regler fastsatt på unionsplan, samt at kriser på grunn av importerte næringsmidler som inneholder både produkter av vegetabilsk opprinnelse og foredlede produkter av animalsk opprinnelse (sammensatte produkter), har bekreftet behovet for bedre kontroll med slike produkter.Kommisjonsforordning [(EU) nr. 1079/2013](eu/32013r1079)5 fastsatte overgangsbestemmelser for en overgangsperiode til og med 31. desember 2016, for å muliggjøre en myk overgang til full gjennomføring av de nye reglene og framgangsmåtene. Ved fastsettelsen av overgangsperiodens varighet ble det tatt hensyn til at rammereglene for hygiene skulle gjennomgås på nytt i henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*).I tillegg er det på grunnlag av informasjonen som er tilkommet i forbindelse med de seneste revisjonene utført av inspektører fra Kommisjonens generaldirektorat for helse og næringsmiddeltrygghet, fra vedkommende myndigheter i medlemsstatene og relevante næringsmiddelforetak i Unionen, nødvendig at visse overgangstiltak fastsatt i forordning [(EU) nr. 1079/2013](eu/32013r1079) opprettholdes i påvente av innføringen av de permanente kravene angitt i preambelen til denne forordning.Direkte levering av små mengder kjøtt fra fjørfe og haredyr som er slaktet på driftsenheten, fra produsenten til sluttforbrukeren eller til lokale detaljister som leverer dette som ferskt kjøtt direkte til sluttforbrukeren, er unntatt fra virkeområdet til forordning [(EF) nr. 853/2004](eu/32004r0853*). En begrensning av denne bestemmelsen til ferskt kjøtt vil medføre en ekstra byrde for små produsenter. Ved forordning [(EU) nr. 1079/2013](eu/32013r1079) er det derfor fastsatt et unntak fra bestemmelsene i forordning [(EF) nr. 853/2004](eu/32004r0853*) når det gjelder direkte levering av slike varer på bestemte vilkår, uten at det begrenses til ferskt kjøtt. Dette unntaket bør opprettholdes i ytterligere en overgangsperiode fastsatt i denne forordning, mens muligheten for et permanent unntak vurderes.Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*) er det fastsatt visse regler for import av produkter av animalsk opprinnelse og sammensatte produkter til Unionen. Ved forordning [(EU) nr. 1079/2013](eu/32013r1079) er det fastsatt overgangstiltak om unntak fra flere av disse reglene for visse sammensatte produkter for hvilke folkehelsekrav for import til Unionen ennå ikke er fastsatt på unionsplan, f.eks. for andre produkter enn dem nevnt i artikkel 3 nr. 1 og 3 i kommisjonsforordning [(EU) nr. 28/2012](eu/32012r0028).6Kommisjonen har lagt fram et forslag til forordning om offentlig kontroll i næringsmiddelkjeden som er nær vedtakelse i den ordinære lovgivningsprosedyren. Når den er vedtatt og får anvendelse, skal forordningen utgjøre det rettslige grunnlaget for en risikotilpasset strategi for kontroll av sammensatte produkter ved import. Det er nødvendig å gi unntak i en ytterligere overgangsperiode på fire år fram til den nye forordningen forventes å komme til anvendelse.I henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*) er det tillatt å importere næringsmidler av animalsk opprinnelse fra virksomheter som håndterer produkter av animalsk opprinnelse som det i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) ikke er fastsatt særlige krav til, såframt ikke en harmonisert liste over godkjente tredjestater er opprettet og en felles mal for et importsertifikat er fastsatt. Det trengs mer tid til samråd med berørte parter og vedkommende myndigheter i medlemsstatene og i tredjestater, idet det tas hensyn til mulig innvirkning på import av slike næringsmidler ved å opprette listen og fastsette malen for importsertifikatet.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+ut fra følgende betraktninger:
+
+1. Forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*) medførte betydelige endringer av de reglene og framgangsmåtene som driftsansvarlige for næringsmiddelforetak og vedkommende myndigheter i medlemsstatene skal overholde. Ettersom det i visse tilfeller ville ha medført praktiske problemer å anvende flere av disse reglene og framgangsmåtene med umiddelbar virkning, var det nødvendig å vedta overgangstiltak.
+2. Rapporten av 28. juli 2009 fra Kommisjonen til Europaparlamentet og Rådet om erfaringene med anvendelsen av Europaparlamentets og Rådets hygieneforordninger (EF) [nr. 852/2004](eu/32004r0852*), (EF) [nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*)3 (heretter kalt «rapporten»), gir en faktabasert framstilling av alle berørte parters erfaringer, herunder vanskelighetene som oppsto i 2006, 2007 og 2008 med gjennomføringen av forordningene.
+3. Rapporten inneholder tilbakemeldinger på erfaringene med overgangsbestemmelsene fastsatt i kommisjonsforordning [(EF) nr. 2076/2005](eu/32005r2076).4 Rapporten viser også til problemer i forbindelse med lokal levering av små mengder av visse næringsmidler og påpeker at en videre avklaring av importvilkårene er nødvendig i tilfeller der nasjonale importregler anvendes i fravær av regler fastsatt på unionsplan, samt at kriser på grunn av importerte næringsmidler som inneholder både produkter av vegetabilsk opprinnelse og foredlede produkter av animalsk opprinnelse (sammensatte produkter), har bekreftet behovet for bedre kontroll med slike produkter.
+4. Kommisjonsforordning [(EU) nr. 1079/2013](eu/32013r1079)5 fastsatte overgangsbestemmelser for en overgangsperiode til og med 31. desember 2016, for å muliggjøre en myk overgang til full gjennomføring av de nye reglene og framgangsmåtene. Ved fastsettelsen av overgangsperiodens varighet ble det tatt hensyn til at rammereglene for hygiene skulle gjennomgås på nytt i henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*).
+5. I tillegg er det på grunnlag av informasjonen som er tilkommet i forbindelse med de seneste revisjonene utført av inspektører fra Kommisjonens generaldirektorat for helse og næringsmiddeltrygghet, fra vedkommende myndigheter i medlemsstatene og relevante næringsmiddelforetak i Unionen, nødvendig at visse overgangstiltak fastsatt i forordning [(EU) nr. 1079/2013](eu/32013r1079) opprettholdes i påvente av innføringen av de permanente kravene angitt i preambelen til denne forordning.
+6. Direkte levering av små mengder kjøtt fra fjørfe og haredyr som er slaktet på driftsenheten, fra produsenten til sluttforbrukeren eller til lokale detaljister som leverer dette som ferskt kjøtt direkte til sluttforbrukeren, er unntatt fra virkeområdet til forordning [(EF) nr. 853/2004](eu/32004r0853*). En begrensning av denne bestemmelsen til ferskt kjøtt vil medføre en ekstra byrde for små produsenter. Ved forordning [(EU) nr. 1079/2013](eu/32013r1079) er det derfor fastsatt et unntak fra bestemmelsene i forordning [(EF) nr. 853/2004](eu/32004r0853*) når det gjelder direkte levering av slike varer på bestemte vilkår, uten at det begrenses til ferskt kjøtt. Dette unntaket bør opprettholdes i ytterligere en overgangsperiode fastsatt i denne forordning, mens muligheten for et permanent unntak vurderes.
+7. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*) er det fastsatt visse regler for import av produkter av animalsk opprinnelse og sammensatte produkter til Unionen. Ved forordning [(EU) nr. 1079/2013](eu/32013r1079) er det fastsatt overgangstiltak om unntak fra flere av disse reglene for visse sammensatte produkter for hvilke folkehelsekrav for import til Unionen ennå ikke er fastsatt på unionsplan, f.eks. for andre produkter enn dem nevnt i artikkel 3 nr. 1 og 3 i kommisjonsforordning [(EU) nr. 28/2012](eu/32012r0028).6
+8. Kommisjonen har lagt fram et forslag til forordning om offentlig kontroll i næringsmiddelkjeden som er nær vedtakelse i den ordinære lovgivningsprosedyren. Når den er vedtatt og får anvendelse, skal forordningen utgjøre det rettslige grunnlaget for en risikotilpasset strategi for kontroll av sammensatte produkter ved import. Det er nødvendig å gi unntak i en ytterligere overgangsperiode på fire år fram til den nye forordningen forventes å komme til anvendelse.
+9. I henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*) og (EF) [nr. 854/2004](eu/32004r0854*) er det tillatt å importere næringsmidler av animalsk opprinnelse fra virksomheter som håndterer produkter av animalsk opprinnelse som det i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) ikke er fastsatt særlige krav til, såframt ikke en harmonisert liste over godkjente tredjestater er opprettet og en felles mal for et importsertifikat er fastsatt. Det trengs mer tid til samråd med berørte parter og vedkommende myndigheter i medlemsstatene og i tredjestater, idet det tas hensyn til mulig innvirkning på import av slike næringsmidler ved å opprette listen og fastsette malen for importsertifikatet.
+10. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
 
 1 EUT L 139 av 30.4.2004, s. 55.
 
@@ -2577,8 +3906,12 @@ Som unntak fra artikkel 1 nr. 3 bokstav d) i forordning [(EF) nr. 853/2004](eu/3
 
 ### Artikkel 3. Unntak med hensyn til folkehelsekrav ved import av produkter av animalsk opprinnelse og næringsmidler som inneholder både produkter av vegetabilsk opprinnelse og foredlede produkter av animalsk opprinnelse
 
-1. Artikkel 6 nr. 1 i forordning [(EF) nr. 853/2004](eu/32004r0853*) får ikke anvendelse på import av produkter av animalsk opprinnelse som det ikke er fastsatt harmoniserte folkehelsekrav ved import for.Ved import av slike produkter skal vedkommende medlemsstats folkehelsekrav ved import oppfylles.
-2. Som unntak fra artikkel 6 nr. 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*) skal driftsansvarlige for næringsmiddelforetak som importerer næringsmidler som inneholder både produkter av vegetabilsk opprinnelse og foredlede produkter av animalsk opprinnelse, med unntak av produktene i artikkel 3 nr. 1 og 3 i forordning [(EU) nr. 28/2012](eu/32012r0028), unntas fra kravene i artikkel 6 nr. 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*).Ved import av slike produkter skal vedkommende medlemsstats folkehelsekrav ved import oppfylles.
+1. Artikkel 6 nr. 1 i forordning [(EF) nr. 853/2004](eu/32004r0853*) får ikke anvendelse på import av produkter av animalsk opprinnelse som det ikke er fastsatt harmoniserte folkehelsekrav ved import for.
+
+   Ved import av slike produkter skal vedkommende medlemsstats folkehelsekrav ved import oppfylles.
+2. Som unntak fra artikkel 6 nr. 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*) skal driftsansvarlige for næringsmiddelforetak som importerer næringsmidler som inneholder både produkter av vegetabilsk opprinnelse og foredlede produkter av animalsk opprinnelse, med unntak av produktene i artikkel 3 nr. 1 og 3 i forordning [(EU) nr. 28/2012](eu/32012r0028), unntas fra kravene i artikkel 6 nr. 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*).
+
+   Ved import av slike produkter skal vedkommende medlemsstats folkehelsekrav ved import oppfylles.
 
 ### Artikkel 4. Unntak med hensyn til folkehelsemessige prosedyrer ved import av produkter av animalsk opprinnelse
 
@@ -2620,7 +3953,17 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,1 særlig artikkel 8 nr. 3 bokstav b), og
 
-ut fra følgende betraktninger:Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse for driftsansvarlige for næringsmiddelforetak. I artikkel 8 i nevnte forordning er det fastsatt særlige garantier for næringsmidler av animalsk opprinnelse beregnet på det finske og svenske markedet. Driftsansvarlige for næringsmiddelforetak som har til hensikt å markedsføre egg i nevnte medlemsstater, skal derfor overholde visse regler når det gjelder salmonella. I nevnte forordning er det også fastsatt at forsendelser av slike egg skal følges av et sertifikat der det framgår at en mikrobiologisk undersøkelse med negativt resultat har blitt gjennomført i samsvar med Unionens regelverk.Ved kommisjonsforordning [(EF) nr. 1688/2005](eu/32005r1688) av 14. oktober 2005 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) med hensyn til særlige garantier angående salmonella for forsendelser til Finland og Sverige av visse typer kjøtt og egg2 tildeles slike særlige garantier.I tillegg fastsettes det ved forordning [(EF) nr. 1688/2005](eu/32005r1688) regler for prøvetaking i flokker som egg har sin opprinnelse i, og mikrobiologiske metoder for undersøkelse av prøvene. Det angis også en sertifikatmodell som skal følge forsendelser av egg.I henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*) kan de særlige garantiene for visse næringsmidler av animalsk opprinnelse utvides helt eller delvis til én eller flere medlemsstater eller én eller flere regioner i en medlemsstat som har et kontrollprogram som anses som likeverdig til programmet som er godkjent for Finland og Sverige når det gjelder næringsmidler av animalsk opprinnelse.Den danske veterinær- og næringsmiddeladministrasjonen inngav 5. oktober 2007 en søknad til Kommisjonen om godkjenning av særlige garantier i Danmark vedrørende salmonella i egg for hele Danmark i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*). Søknaden inneholder en beskrivelse av det danske kontrollprogrammet for salmonella i egg.På sitt møte 18. juni 2008 ble Den faste komité for næringsmiddelkjeden og dyrehelsen enige om et arbeidsdokument fra Kommisjonen med tittelen «Guidance document on the minimum requirements for salmonella control programmes to be recognised equivalent to those approved for Sweden and Finland in respect of meat and eggs of *Gallus gallus*» (heretter kalt «arbeidsdokumentet»).Det danske kontrollprogrammet for salmonella i egg anses som likeverdig til programmet som er godkjent for Finland og Sverige, og er i overensstemmelse med arbeidsdokumentet. I tillegg framla danske myndigheter 20. mai 2011 opplysninger som viser at forekomsten av salmonella i flokker av kyllinger og voksne verpehøner i Danmark i 2008, 2009 og 2010, var i overensstemmelse med arbeidsdokumentet.De særlige garantiene bør derfor utvides til forsendelser av egg beregnet på Danmark. I tillegg bør reglene fastsatt i forordning [(EF) nr. 1688/2005](eu/32005r1688) vedrørende prøvetaking i flokker som egg har sin opprinnelse i, de mikrobiologiske metodene for undersøkelse av prøvene og sertifikatmodellen få anvendelse på slike forsendelser.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+ut fra følgende betraktninger:
+
+1. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse for driftsansvarlige for næringsmiddelforetak. I artikkel 8 i nevnte forordning er det fastsatt særlige garantier for næringsmidler av animalsk opprinnelse beregnet på det finske og svenske markedet. Driftsansvarlige for næringsmiddelforetak som har til hensikt å markedsføre egg i nevnte medlemsstater, skal derfor overholde visse regler når det gjelder salmonella. I nevnte forordning er det også fastsatt at forsendelser av slike egg skal følges av et sertifikat der det framgår at en mikrobiologisk undersøkelse med negativt resultat har blitt gjennomført i samsvar med Unionens regelverk.
+2. Ved kommisjonsforordning [(EF) nr. 1688/2005](eu/32005r1688) av 14. oktober 2005 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) med hensyn til særlige garantier angående salmonella for forsendelser til Finland og Sverige av visse typer kjøtt og egg2 tildeles slike særlige garantier.
+3. I tillegg fastsettes det ved forordning [(EF) nr. 1688/2005](eu/32005r1688) regler for prøvetaking i flokker som egg har sin opprinnelse i, og mikrobiologiske metoder for undersøkelse av prøvene. Det angis også en sertifikatmodell som skal følge forsendelser av egg.
+4. I henhold til forordning [(EF) nr. 853/2004](eu/32004r0853*) kan de særlige garantiene for visse næringsmidler av animalsk opprinnelse utvides helt eller delvis til én eller flere medlemsstater eller én eller flere regioner i en medlemsstat som har et kontrollprogram som anses som likeverdig til programmet som er godkjent for Finland og Sverige når det gjelder næringsmidler av animalsk opprinnelse.
+5. Den danske veterinær- og næringsmiddeladministrasjonen inngav 5. oktober 2007 en søknad til Kommisjonen om godkjenning av særlige garantier i Danmark vedrørende salmonella i egg for hele Danmark i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*). Søknaden inneholder en beskrivelse av det danske kontrollprogrammet for salmonella i egg.
+6. På sitt møte 18. juni 2008 ble Den faste komité for næringsmiddelkjeden og dyrehelsen enige om et arbeidsdokument fra Kommisjonen med tittelen «Guidance document on the minimum requirements for salmonella control programmes to be recognised equivalent to those approved for Sweden and Finland in respect of meat and eggs of *Gallus gallus*» (heretter kalt «arbeidsdokumentet»).
+7. Det danske kontrollprogrammet for salmonella i egg anses som likeverdig til programmet som er godkjent for Finland og Sverige, og er i overensstemmelse med arbeidsdokumentet. I tillegg framla danske myndigheter 20. mai 2011 opplysninger som viser at forekomsten av salmonella i flokker av kyllinger og voksne verpehøner i Danmark i 2008, 2009 og 2010, var i overensstemmelse med arbeidsdokumentet.
+8. De særlige garantiene bør derfor utvides til forsendelser av egg beregnet på Danmark. I tillegg bør reglene fastsatt i forordning [(EF) nr. 1688/2005](eu/32005r1688) vedrørende prøvetaking i flokker som egg har sin opprinnelse i, de mikrobiologiske metodene for undersøkelse av prøvene og sertifikatmodellen få anvendelse på slike forsendelser.
+9. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
 1 EUT L 139 av 30.4.2004, s. 55.
 
@@ -2676,7 +4019,16 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,1 særlig artikkel 8 nr. 3 bokstav b), og
 
-ut fra følgende betraktninger:Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse for driftsansvarlige for næringsmiddelforetak, med visse særlige garantier for visse næringsmidler av animalsk opprinnelse beregnet på det finske og svenske markedet. Driftsansvarlige for næringsmiddelforetak som har til hensikt å bringe kjøtt fra bestemte dyr i omsetning i nevnte medlemsstater, må derfor overholde visse regler når det gjelder salmonella. Videre skal forsendelser av slikt kjøtt følges av et handelsdokument der det framgår at en mikrobiologisk undersøkelse med negativt resultat har blitt gjennomført i samsvar med Unionens regelverk.I kommisjonsforordning [(EF) nr. 1688/2005](eu/32005r1688)2 angis dessuten de særlige garantiene samt regler for prøvetaking av slikt kjøtt og de mikrobiologiske metodene for undersøkelse av prøvene. Forordningen inneholder også et handelsdokument som skal ledsage forsendelser av kjøtt.Den 5. oktober innga Fødevarestyrelsen i Danmark en søknad til Kommisjonen om godkjenning av særlige garantier for Danmark med hensyn til salmonella i kjøtt fra broilere (*Gallus gallus*) for hele Danmark i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*). Søknaden inneholder en beskrivelse av det danske programmet for bekjempelse av salmonella i kjøtt fra broilere (*Gallus gallus*).På sitt møte 18. juni 2008 vedtok Den faste komité for næringsmiddelkjeden og dyrehelsen et arbeidsdokument fra Kommisjonen med tittelen «Guidance document on the minimum requirements for salmonella control programmes to be recognised equivalent to those approved for Sweden and Finland in respect of meat and eggs of *Gallus gallus*»3 (heretter kalt «arbeidsdokumentet»).Det danske programmet for bekjempelse av salmonella i kjøtt fra broilere (*Gallus gallus*) anses som likeverdig med programmet som er godkjent for Finland og Sverige, og er i samsvar med arbeidsdokumentet. Prevalensen av salmonella i danske avlsflokker av arten *Gallus gallus* er imidlertid høyere enn den øvre grensen som foreslås i arbeidsdokumentet, og bør derfor ikke anses som likeverdig med situasjonen i Finland og Sverige.Den 6. februar 2017 framla Fødevarestyrelsen i Danmark opplysninger om prevalensen av salmonella i flokker beregnet på avl, voksne avlsfjørfe, broilere og kjøtt av *Gallus gallus* for tidsrommet 2011–2016. Prevalensen for 2015–2016 er i samsvar med de øvre grensene fastsatt i arbeidsdokumentet.De særlige garantiene bør derfor utvides til forsendelser av kjøtt fra broilere (*Gallus gallus*) beregnet på Danmark. I tillegg bør reglene fastsatt i forordning [(EF) nr. 1688/2005](eu/32005r1688) for prøvetaking av slikt kjøtt, de mikrobiologiske metodene for undersøkelse av prøvene og handelsdokumentet få anvendelse på slike forsendelser.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+ut fra følgende betraktninger:
+
+1. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse for driftsansvarlige for næringsmiddelforetak, med visse særlige garantier for visse næringsmidler av animalsk opprinnelse beregnet på det finske og svenske markedet. Driftsansvarlige for næringsmiddelforetak som har til hensikt å bringe kjøtt fra bestemte dyr i omsetning i nevnte medlemsstater, må derfor overholde visse regler når det gjelder salmonella. Videre skal forsendelser av slikt kjøtt følges av et handelsdokument der det framgår at en mikrobiologisk undersøkelse med negativt resultat har blitt gjennomført i samsvar med Unionens regelverk.
+2. I kommisjonsforordning [(EF) nr. 1688/2005](eu/32005r1688)2 angis dessuten de særlige garantiene samt regler for prøvetaking av slikt kjøtt og de mikrobiologiske metodene for undersøkelse av prøvene. Forordningen inneholder også et handelsdokument som skal ledsage forsendelser av kjøtt.
+3. Den 5. oktober innga Fødevarestyrelsen i Danmark en søknad til Kommisjonen om godkjenning av særlige garantier for Danmark med hensyn til salmonella i kjøtt fra broilere (*Gallus gallus*) for hele Danmark i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*). Søknaden inneholder en beskrivelse av det danske programmet for bekjempelse av salmonella i kjøtt fra broilere (*Gallus gallus*).
+4. På sitt møte 18. juni 2008 vedtok Den faste komité for næringsmiddelkjeden og dyrehelsen et arbeidsdokument fra Kommisjonen med tittelen «Guidance document on the minimum requirements for salmonella control programmes to be recognised equivalent to those approved for Sweden and Finland in respect of meat and eggs of *Gallus gallus*»3 (heretter kalt «arbeidsdokumentet»).
+5. Det danske programmet for bekjempelse av salmonella i kjøtt fra broilere (*Gallus gallus*) anses som likeverdig med programmet som er godkjent for Finland og Sverige, og er i samsvar med arbeidsdokumentet. Prevalensen av salmonella i danske avlsflokker av arten *Gallus gallus* er imidlertid høyere enn den øvre grensen som foreslås i arbeidsdokumentet, og bør derfor ikke anses som likeverdig med situasjonen i Finland og Sverige.
+6. Den 6. februar 2017 framla Fødevarestyrelsen i Danmark opplysninger om prevalensen av salmonella i flokker beregnet på avl, voksne avlsfjørfe, broilere og kjøtt av *Gallus gallus* for tidsrommet 2011–2016. Prevalensen for 2015–2016 er i samsvar med de øvre grensene fastsatt i arbeidsdokumentet.
+7. De særlige garantiene bør derfor utvides til forsendelser av kjøtt fra broilere (*Gallus gallus*) beregnet på Danmark. I tillegg bør reglene fastsatt i forordning [(EF) nr. 1688/2005](eu/32005r1688) for prøvetaking av slikt kjøtt, de mikrobiologiske metodene for undersøkelse av prøvene og handelsdokumentet få anvendelse på slike forsendelser.
+8. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
 1 EUT L 139 av 30.4.2004, s. 55.
 
@@ -2749,7 +4101,31 @@ under henvisning til Europa-Parlamentets og Rådets forordning [(EF) nr. 853/200
 
 under henvisning til Europa-Parlamentets og Rådets forordning [(EF) nr. 854/2004](eu/32004r0854*) af 29. april 2004 om særlige bestemmelser for tilrettelæggelsen af den offentlige kontrol af animalske produkter til konsum,4 særlig artikel 16, stk. 1,
 
-under henvisning til Europa-Parlamentets og Rådets forordning [(EF) nr. 882/2004](eu/32004r0882*) af 29. april 2004 om offentlig kontrol med henblik på verifikation af, at foderstof- og fødevarelovgivningen samt dyresundheds- og dyrevelfærdsbestemmelserne overholdes,5 særlig artikel 48, stk. 1 og artikel 63, stk. 1, første afsnit, og ud fra følgende betragtninger:I henhold til direktiv [97/78/EF](eu/31997l0078) foretager medlemsstaterne i overensstemmelse med direktivet og forordning [(EF) nr. 882/2004](eu/32004r0882*) veterinærkontrol af tredjelandsprodukter, der føres ind i Unionen.Ved forordning [(EF) nr. 882/2004](eu/32004r0882*) er der fastsat generelle regler for offentlig kontrol med, om bestemmelserne overholdes korrekt, navnlig med henblik på at forebygge eller fjerne risici for mennesker og dyr eller nedbringe dem til et acceptabelt niveau enten direkte eller via miljøet.Direktiv [2002/99/EF](eu/32002l0099) fastlægger generelle dyresundhedsbestemmelser for alle produktions-, tilvirknings- og distributionsled inden for Unionen og for indførsel fra tredjelande af animalske produkter og produkter fremstillet heraf bestemt til konsum.Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er der fastsat særlige hygiejnebestemmelser for animalske fødevarer gældende for ledere af fødevarevirksomheder. Det fremgår af artikel 6, stk. 4, i forordningen, at fødevarevirksomhedsledere, der importerer fødevarer indeholdende både produkter af vegetabilsk oprindelse og forarbejdede produkter af animalsk oprindelse (sammensatte produkter), skal sikre, at de forarbejdede produkter af animalsk oprindelse i sådanne fødevarer opfylder visse folkesundhedskrav, der er fastsat i forordningen. Det bestemmes endvidere i forordning [(EF) nr. 853/2004](eu/32004r0853*), at fødevarevirksomhedsledere skal være i stand til at påvise, at de har sikret dette, f.eks. ved passende dokumentation eller certificering.Forordning [(EF) nr. 853/2004](eu/32004r0853*) anvendes fra den 1. januar 2006. Det ville imidlertid i visse tilfælde bevirke praktiske problemer, hvis nogle af de deri fastsatte foranstaltninger havde fundet anvendelse med øjeblikkelig virkning fra den 1. januar 2006.Derfor blev det ved Kommissionens forordning [(EF) nr. 2076/2005](eu/32005r2076)6 bestemt, at uanset artikel 6, stk. 4, i forordning [(EF) nr. 853/2004](eu/32004r0853*) fritages fødevarevirksomhedsledere, der importerer fødevarer indeholdende sammensatte produkter, fra den i samme artikel fastsatte forpligtelse.Ved Kommissionens forordning [(EF) nr. 1162/2009](eu/32009r1162) af 30. november 2009 om overgangsforanstaltninger i forbindelse med gennemførelsen af Europa-Parlamentets og Rådets forordning [(EF) nr. 853/2004](eu/32004r0853*), (EF) [nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*)7 blev forordning [(EF) nr. 2076/2005](eu/32005r2076) ophævet og afløst. Forordning [(EF) nr. 1162/2009](eu/32009r1162) indeholder samme undtagelse fra artikel 6, stk. 4, i forordning [(EF) nr. 853/2004](eu/32004r0853*) som forordning [(EF) nr. 2076/2005](eu/32005r2076).Endvidere fastsættes det i forordning [(EF) nr. 1162/2009](eu/32009r1162), at importen af sammensatte produkter skal ske i overensstemmelse med de harmoniserede EU-bestemmelser, i det omfang sådanne findes, og hvis ikke, da i overensstemmelse med de nationale bestemmelser, medlemsstaterne har gennemført.Forordning [(EF) nr. 1162/2009](eu/32009r1162) anvendes indtil den 31. december 2013.Ved Kommissionens beslutning [2007/275/EF](eu/32007d0275) af 17. april 2007 om lister over dyr og produkter, der skal underkastes kontrol ved grænsekontrolsteder i henhold til Rådets direktiv [91/496/EØF](eu/31991l0496*) og [97/78/EF](eu/31997l0078),8 er det fastsat, at visse sammensatte produkter skal underkastes veterinærkontrol ved import til Unionen. Ifølge samme beslutning er de sammensatte produkter, der underkastes veterinærkontrol, alle dem, der indeholder forarbejdede kødprodukter, dem, hvis indhold for mindst halvdelens vedkommende består af et forarbejdet animalsk produkt, der ikke er et forarbejdet kødprodukt, og dem, der ikke indeholder forarbejdede kødprodukter, og hvis indhold for mindre end halvdelens vedkommende består af forarbejdede mejeriprodukter, såfremt de endelige produkter ikke opfylder kravene i artikel 6 i beslutning [2007/275/EF](eu/32007d0275).Desuden er der i beslutning [2007/275/EF](eu/32007d0275) fastsat visse certifikatkrav vedrørende sammensatte produkter, der underkastes veterinærkontrol. Det fastsættes, at når sammensatte produkter, der indeholder forarbejdede kødprodukter, føres ind i Unionen, skal de ledsages af det relevante certifikat for kødprodukter i henhold til EU- lovgivningen Når sammensatte produkter, der indeholder forarbejdede mejeriprodukter, og som skal underkastes veterinærkontrol, føres ind i Unionen, skal de ledsages af det relevante certifikat i henhold til EU-lovgivningen. Når sammensatte produkter, der udelukkende indeholder forarbejdede fiskevarer eller ægprodukter, og som skal underkastes veterinærkontrol, føres ind i Unionen, skal de ledsages af det relevante certifikat i henhold til EU- lovgivningen eller af et handelsdokument, hvis der ikke er fastsat krav om et certifikat.De sammensatte produkter, der underkastes veterinærkontrol i henhold til beslutning [2007/275/EF](eu/32007d0275) er de produkter, der er af en sådan art, at de også kan udgøre en større folkesundhedsrisiko. Niveauerne for den potentielle folkesundhedsrisiko varierer afhængigt af det animalske produkt, som indgår i det sammensatte produkt, den procentdel, som det pågældende animalske produkt udgør af det sammensatte produkt, og de behandlinger, det har gennemgået, samt det sammensatte produkts holdbarhed.Derfor bør de folkesundhedskrav, der er fastlagt i forordning [(EF) nr. 853/2004](eu/32004r0853*), gælde for disse sammensatte produkter selv inden udløbet af undtagelsen, der er fastsat i forordning [(EF) nr. 1162/2009](eu/32009r1162).Navnlig bør der i nærværende forordning fastsættes bestemmelser om attestering af overensstemmelse med folkesundhedskrav, som fastsat i forordning [(EF) nr. 853/2004](eu/32004r0853*), ved import af sammensatte produkter, der indeholder forarbejdede kødprodukter, af sammensatte produkter, hvis indhold for mindst halvdelens vedkommende består af mejeriprodukter eller forarbejdede fiskevarer eller ægprodukter, samt af sammensatte produkter, som ikke indeholder forarbejdede kødprodukter, og hvis indhold for mindre end halvdelens vedkommende består af forarbejdede mejeriprodukter, såfremt de endelige produkter ikke er holdbare ved omgivelsestemperatur, eller når de ikke klart som led i fremstillingen er blevet kogt, stegt eller varmebehandlet med en komplet gennemvarmning, så alle råvarer er blevet denatureret.Som følge heraf bør undtagelsen i forordning [(EF) nr. 1162/2009](eu/32009r1162) ikke længere gælde for disse sammensatte produkter.Dyresundhedskravene vedrørende disse sammensatte produkter er allerede fastsat i EU-lovgivningen. Ifølge disse krav bør disse sammensatte produkter navnlig kun importeres fra godkendte tredjelande.Der bør i nærværende forordning fastsættes et særligt standardsundhedscertifikat, hvori det attesteres, at sådanne sammensatte produkter, der importeres til Unionen, opfylder kravene til folke- og dyresundheden. Som følge heraf bør certifikatkravene i beslutning [2007/275/EF](eu/32007d0275) ikke længere gælde for disse sammensatte produkter.Hvad angår øvrige sammensatte produkter, hvis indhold for mindst halvdelens vedkommende består af andre animalske produkter end mejeriprodukter eller fiskevarer eller ægprodukter, bør certifikatkravene i beslutning [2007/275/EF](eu/32007d0275) fortsat gælde. For at opnå forenkling og klarhed i EU-lovgivningen bør disse certifikatkrav imidlertid medtages i denne forordning, således at de vigtigste regler med hensyn til attestering af sammensatte produkter er fastsat i kun én retsakt.Beslutning [2007/275/EF](eu/32007d0275) og forordning [(EF) nr. 1162/2009](eu/32009r1162) bør derfor ændres i overensstemmelse hermed.Af dyresundhedsmæssige grunde bør der fastsættes bestemmelser om et certifikat og særlige betingelser for transit via Unionen. Disse betingelser bør dog kun gælde for sammensatte produkter, der indeholder forarbejdede kødprodukter eller forarbejdede mejeriprodukter.På grund af Kaliningrads geografiske beliggenhed, som kun berører Letland, Litauen og Polen, bør der fastsættes særlige betingelser for transit via Unionen af sendinger til og fra Rusland.For at undgå handelsforstyrrelser bør det i en overgangsperiode tillades at anvende certifikater udstedt i henhold til beslutning [2007/275/EF](eu/32007d0275) før datoen for anvendelse af denne forordning.Foranstaltningerne i denne forordning er i overensstemmelse med udtalelse fra Den Stående Komité for Fødevarekæden og Dyresundhed –
+under henvisning til Europa-Parlamentets og Rådets forordning [(EF) nr. 882/2004](eu/32004r0882*) af 29. april 2004 om offentlig kontrol med henblik på verifikation af, at foderstof- og fødevarelovgivningen samt dyresundheds- og dyrevelfærdsbestemmelserne overholdes,5 særlig artikel 48, stk. 1 og artikel 63, stk. 1, første afsnit, og ud fra følgende betragtninger:
+
+1. I henhold til direktiv [97/78/EF](eu/31997l0078) foretager medlemsstaterne i overensstemmelse med direktivet og forordning [(EF) nr. 882/2004](eu/32004r0882*) veterinærkontrol af tredjelandsprodukter, der føres ind i Unionen.
+2. Ved forordning [(EF) nr. 882/2004](eu/32004r0882*) er der fastsat generelle regler for offentlig kontrol med, om bestemmelserne overholdes korrekt, navnlig med henblik på at forebygge eller fjerne risici for mennesker og dyr eller nedbringe dem til et acceptabelt niveau enten direkte eller via miljøet.
+3. Direktiv [2002/99/EF](eu/32002l0099) fastlægger generelle dyresundhedsbestemmelser for alle produktions-, tilvirknings- og distributionsled inden for Unionen og for indførsel fra tredjelande af animalske produkter og produkter fremstillet heraf bestemt til konsum.
+4. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er der fastsat særlige hygiejnebestemmelser for animalske fødevarer gældende for ledere af fødevarevirksomheder. Det fremgår af artikel 6, stk. 4, i forordningen, at fødevarevirksomhedsledere, der importerer fødevarer indeholdende både produkter af vegetabilsk oprindelse og forarbejdede produkter af animalsk oprindelse (sammensatte produkter), skal sikre, at de forarbejdede produkter af animalsk oprindelse i sådanne fødevarer opfylder visse folkesundhedskrav, der er fastsat i forordningen. Det bestemmes endvidere i forordning [(EF) nr. 853/2004](eu/32004r0853*), at fødevarevirksomhedsledere skal være i stand til at påvise, at de har sikret dette, f.eks. ved passende dokumentation eller certificering.
+5. Forordning [(EF) nr. 853/2004](eu/32004r0853*) anvendes fra den 1. januar 2006. Det ville imidlertid i visse tilfælde bevirke praktiske problemer, hvis nogle af de deri fastsatte foranstaltninger havde fundet anvendelse med øjeblikkelig virkning fra den 1. januar 2006.
+6. Derfor blev det ved Kommissionens forordning [(EF) nr. 2076/2005](eu/32005r2076)6 bestemt, at uanset artikel 6, stk. 4, i forordning [(EF) nr. 853/2004](eu/32004r0853*) fritages fødevarevirksomhedsledere, der importerer fødevarer indeholdende sammensatte produkter, fra den i samme artikel fastsatte forpligtelse.
+7. Ved Kommissionens forordning [(EF) nr. 1162/2009](eu/32009r1162) af 30. november 2009 om overgangsforanstaltninger i forbindelse med gennemførelsen af Europa-Parlamentets og Rådets forordning [(EF) nr. 853/2004](eu/32004r0853*), (EF) [nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*)7 blev forordning [(EF) nr. 2076/2005](eu/32005r2076) ophævet og afløst. Forordning [(EF) nr. 1162/2009](eu/32009r1162) indeholder samme undtagelse fra artikel 6, stk. 4, i forordning [(EF) nr. 853/2004](eu/32004r0853*) som forordning [(EF) nr. 2076/2005](eu/32005r2076).
+8. Endvidere fastsættes det i forordning [(EF) nr. 1162/2009](eu/32009r1162), at importen af sammensatte produkter skal ske i overensstemmelse med de harmoniserede EU-bestemmelser, i det omfang sådanne findes, og hvis ikke, da i overensstemmelse med de nationale bestemmelser, medlemsstaterne har gennemført.
+9. Forordning [(EF) nr. 1162/2009](eu/32009r1162) anvendes indtil den 31. december 2013.
+10. Ved Kommissionens beslutning [2007/275/EF](eu/32007d0275) af 17. april 2007 om lister over dyr og produkter, der skal underkastes kontrol ved grænsekontrolsteder i henhold til Rådets direktiv [91/496/EØF](eu/31991l0496*) og [97/78/EF](eu/31997l0078),8 er det fastsat, at visse sammensatte produkter skal underkastes veterinærkontrol ved import til Unionen. Ifølge samme beslutning er de sammensatte produkter, der underkastes veterinærkontrol, alle dem, der indeholder forarbejdede kødprodukter, dem, hvis indhold for mindst halvdelens vedkommende består af et forarbejdet animalsk produkt, der ikke er et forarbejdet kødprodukt, og dem, der ikke indeholder forarbejdede kødprodukter, og hvis indhold for mindre end halvdelens vedkommende består af forarbejdede mejeriprodukter, såfremt de endelige produkter ikke opfylder kravene i artikel 6 i beslutning [2007/275/EF](eu/32007d0275).
+11. Desuden er der i beslutning [2007/275/EF](eu/32007d0275) fastsat visse certifikatkrav vedrørende sammensatte produkter, der underkastes veterinærkontrol. Det fastsættes, at når sammensatte produkter, der indeholder forarbejdede kødprodukter, føres ind i Unionen, skal de ledsages af det relevante certifikat for kødprodukter i henhold til EU- lovgivningen Når sammensatte produkter, der indeholder forarbejdede mejeriprodukter, og som skal underkastes veterinærkontrol, føres ind i Unionen, skal de ledsages af det relevante certifikat i henhold til EU-lovgivningen. Når sammensatte produkter, der udelukkende indeholder forarbejdede fiskevarer eller ægprodukter, og som skal underkastes veterinærkontrol, føres ind i Unionen, skal de ledsages af det relevante certifikat i henhold til EU- lovgivningen eller af et handelsdokument, hvis der ikke er fastsat krav om et certifikat.
+12. De sammensatte produkter, der underkastes veterinærkontrol i henhold til beslutning [2007/275/EF](eu/32007d0275) er de produkter, der er af en sådan art, at de også kan udgøre en større folkesundhedsrisiko. Niveauerne for den potentielle folkesundhedsrisiko varierer afhængigt af det animalske produkt, som indgår i det sammensatte produkt, den procentdel, som det pågældende animalske produkt udgør af det sammensatte produkt, og de behandlinger, det har gennemgået, samt det sammensatte produkts holdbarhed.
+13. Derfor bør de folkesundhedskrav, der er fastlagt i forordning [(EF) nr. 853/2004](eu/32004r0853*), gælde for disse sammensatte produkter selv inden udløbet af undtagelsen, der er fastsat i forordning [(EF) nr. 1162/2009](eu/32009r1162).
+14. Navnlig bør der i nærværende forordning fastsættes bestemmelser om attestering af overensstemmelse med folkesundhedskrav, som fastsat i forordning [(EF) nr. 853/2004](eu/32004r0853*), ved import af sammensatte produkter, der indeholder forarbejdede kødprodukter, af sammensatte produkter, hvis indhold for mindst halvdelens vedkommende består af mejeriprodukter eller forarbejdede fiskevarer eller ægprodukter, samt af sammensatte produkter, som ikke indeholder forarbejdede kødprodukter, og hvis indhold for mindre end halvdelens vedkommende består af forarbejdede mejeriprodukter, såfremt de endelige produkter ikke er holdbare ved omgivelsestemperatur, eller når de ikke klart som led i fremstillingen er blevet kogt, stegt eller varmebehandlet med en komplet gennemvarmning, så alle råvarer er blevet denatureret.
+15. Som følge heraf bør undtagelsen i forordning [(EF) nr. 1162/2009](eu/32009r1162) ikke længere gælde for disse sammensatte produkter.
+16. Dyresundhedskravene vedrørende disse sammensatte produkter er allerede fastsat i EU-lovgivningen. Ifølge disse krav bør disse sammensatte produkter navnlig kun importeres fra godkendte tredjelande.
+17. Der bør i nærværende forordning fastsættes et særligt standardsundhedscertifikat, hvori det attesteres, at sådanne sammensatte produkter, der importeres til Unionen, opfylder kravene til folke- og dyresundheden. Som følge heraf bør certifikatkravene i beslutning [2007/275/EF](eu/32007d0275) ikke længere gælde for disse sammensatte produkter.
+18. Hvad angår øvrige sammensatte produkter, hvis indhold for mindst halvdelens vedkommende består af andre animalske produkter end mejeriprodukter eller fiskevarer eller ægprodukter, bør certifikatkravene i beslutning [2007/275/EF](eu/32007d0275) fortsat gælde. For at opnå forenkling og klarhed i EU-lovgivningen bør disse certifikatkrav imidlertid medtages i denne forordning, således at de vigtigste regler med hensyn til attestering af sammensatte produkter er fastsat i kun én retsakt.
+19. Beslutning [2007/275/EF](eu/32007d0275) og forordning [(EF) nr. 1162/2009](eu/32009r1162) bør derfor ændres i overensstemmelse hermed.
+20. Af dyresundhedsmæssige grunde bør der fastsættes bestemmelser om et certifikat og særlige betingelser for transit via Unionen. Disse betingelser bør dog kun gælde for sammensatte produkter, der indeholder forarbejdede kødprodukter eller forarbejdede mejeriprodukter.
+21. På grund af Kaliningrads geografiske beliggenhed, som kun berører Letland, Litauen og Polen, bør der fastsættes særlige betingelser for transit via Unionen af sendinger til og fra Rusland.
+22. For at undgå handelsforstyrrelser bør det i en overgangsperiode tillades at anvende certifikater udstedt i henhold til beslutning [2007/275/EF](eu/32007d0275) før datoen for anvendelse af denne forordning.
+23. Foranstaltningerne i denne forordning er i overensstemmelse med udtalelse fra Den Stående Komité for Fødevarekæden og Dyresundhed –
 
 1 EFT L 24 af 30.1.1998, s. 9.
 
@@ -2779,7 +4155,11 @@ I denne forordning anvendes definitionerne i artikel 2 i beslutning [2007/275/EF
 
 ### Artikel 3. Import af visse sammensatte produkter
 
-1\. Sendinger af følgende sammensatte produkter, der føres ind i Unionen, skal komme fra et tredjeland eller del heraf, som er godkendt til indførsel til Unionen af sendinger af de animalske produkter, der er indeholdt i disse sammensatte produkter, og de animalske produkter, der anvendes til fremstilling af sådanne sammensatte produkter, skal stamme fra virksomheder i overensstemmelse med artikel 6, stk. 1, litra b), i forordning [(EF) nr. 853/2004](eu/32004r0853*):sammensatte produkter, der indeholder forarbejdede kødprodukter, jf. artikel 4, litra a), i beslutning [2007/275/EF](eu/32007d0275)sammensatte produkter, der indeholder forarbejdede mejeriprodukter, og som er omfattet af artikel 4, litra b) og c), i beslutning [2007/275/EF](eu/32007d0275)sammensatte produkter, hvis indhold for mindst halvdelens vedkommende består af forarbejdede fiskevarer eller ægprodukter, og som er omfattet af artikel 4, litra b), i beslutning [2007/275/EF](eu/32007d0275).
+1\. Sendinger af følgende sammensatte produkter, der føres ind i Unionen, skal komme fra et tredjeland eller del heraf, som er godkendt til indførsel til Unionen af sendinger af de animalske produkter, der er indeholdt i disse sammensatte produkter, og de animalske produkter, der anvendes til fremstilling af sådanne sammensatte produkter, skal stamme fra virksomheder i overensstemmelse med artikel 6, stk. 1, litra b), i forordning [(EF) nr. 853/2004](eu/32004r0853*):
+
+1. sammensatte produkter, der indeholder forarbejdede kødprodukter, jf. artikel 4, litra a), i beslutning [2007/275/EF](eu/32007d0275)
+2. sammensatte produkter, der indeholder forarbejdede mejeriprodukter, og som er omfattet af artikel 4, litra b) og c), i beslutning [2007/275/EF](eu/32007d0275)
+3. sammensatte produkter, hvis indhold for mindst halvdelens vedkommende består af forarbejdede fiskevarer eller ægprodukter, og som er omfattet af artikel 4, litra b), i beslutning [2007/275/EF](eu/32007d0275).
 
 2\. Sendinger af de i stk. 1 omhandlede sammensatte produkter ledsages af et sundhedscertifikat, som er i overensstemmelse med standardsundhedscertifikatet i bilag I, og de skal opfylde de betingelser, der er fastsat i sådanne certifikater.
 
@@ -2787,13 +4167,24 @@ I denne forordning anvendes definitionerne i artikel 2 i beslutning [2007/275/EF
 
 ### Artikel 4. Transit og oplagring af visse sammensatte produkter
 
-Sendinger af sammensatte produkter, jf. artikel 3, stk. 1, litra a) og b), som ikke er bestemt til import til Unionen, men bestemt til et tredjeland enten ved øjeblikkelig transit eller efter oplagring i Unionen i henhold til artikel 11, 12 eller 13 i Rådets direktiv [97/78/EF](eu/31997l0078), tillades kun indført i Unionen, hvis de opfylder følgende betingelser:De kommer fra et tredjeland eller del heraf, som er godkendt til indførsel til Unionen af sendinger af de animalske produkter, der er indeholdt i disse sammensatte produkter, og de opfylder de relevante behandlingskrav for sådanne produkter, jf. Kommissionens beslutning [2007/777/EF](eu/32007d0777*)1 og Kommissionens forordning [(EU) nr. 605/2010](eu/32010r0605*)2 for det pågældende animalske produkt.De ledsages af et sundhedscertifikat, som er udfærdiget i overensstemmelse med standardsundhedscertifikatet i bilag II.De opfylder de specifikke dyresundhedsmæssige krav til import til Unionen af de animalske produkter, der er indeholdt i de pågældende sammensatte produkter, som fastsat i dyresundhedserklæringen i standardsundhedscertifikatet, jf. litra b).Det er i det fælles veterinærdokument til brug ved import, der er omhandlet i artikel 2, stk. 1, i Kommissionens forordning [(EF) nr. 136/2004](eu/32004r0136),3 underskrevet af embedsdyrlægen på det grænsekontrolsted, hvor sendingen føres ind i Unionen, attesteret, at sendingen kan godkendes til transit, herunder oplagring, hvis det er relevant.
+Sendinger af sammensatte produkter, jf. artikel 3, stk. 1, litra a) og b), som ikke er bestemt til import til Unionen, men bestemt til et tredjeland enten ved øjeblikkelig transit eller efter oplagring i Unionen i henhold til artikel 11, 12 eller 13 i Rådets direktiv [97/78/EF](eu/31997l0078), tillades kun indført i Unionen, hvis de opfylder følgende betingelser:
 
-1 EUT L 312 af 30.11.2007, s. 49.2 EUT L 175 af 10.7.2010, s. 1.3 EUT L 21 af 28.1.2004, s. 11.
+1. De kommer fra et tredjeland eller del heraf, som er godkendt til indførsel til Unionen af sendinger af de animalske produkter, der er indeholdt i disse sammensatte produkter, og de opfylder de relevante behandlingskrav for sådanne produkter, jf. Kommissionens beslutning [2007/777/EF](eu/32007d0777*)1 og Kommissionens forordning [(EU) nr. 605/2010](eu/32010r0605*)2 for det pågældende animalske produkt.
+2. De ledsages af et sundhedscertifikat, som er udfærdiget i overensstemmelse med standardsundhedscertifikatet i bilag II.
+3. De opfylder de specifikke dyresundhedsmæssige krav til import til Unionen af de animalske produkter, der er indeholdt i de pågældende sammensatte produkter, som fastsat i dyresundhedserklæringen i standardsundhedscertifikatet, jf. litra b).
+4. Det er i det fælles veterinærdokument til brug ved import, der er omhandlet i artikel 2, stk. 1, i Kommissionens forordning [(EF) nr. 136/2004](eu/32004r0136),3 underskrevet af embedsdyrlægen på det grænsekontrolsted, hvor sendingen føres ind i Unionen, attesteret, at sendingen kan godkendes til transit, herunder oplagring, hvis det er relevant.
+
+1 EUT L 312 af 30.11.2007, s. 49.
+
+2 EUT L 175 af 10.7.2010, s. 1.
+
+3 EUT L 21 af 28.1.2004, s. 11.
 
 ### Artikel 5. Dispensation for transit af sendinger, der kommer fra og er bestemt til Rusland
 
-1\. Uanset artikel 4 er transit ad vej eller jernbane gennem Unionen mellem de i Kommissionens beslutning [2009/821/EF](eu/32009d0821)1 anførte udpegede grænsekontrolsteder i Letland, Litauen og Polen af sendinger af de i artikel 3 omhandlede sammensatte produkter, der kommer fra og er bestemt til Rusland enten direkte eller via et andet tredjeland, tilladt, forudsat at følgende betingelser er opfyldt:Sendingen plomberes med en plombering med løbenummer på det grænsekontrolsted, hvor sendingen føres ind i Unionen, af den kompetente myndigheds veterinærtjeneste.
+1\. Uanset artikel 4 er transit ad vej eller jernbane gennem Unionen mellem de i Kommissionens beslutning [2009/821/EF](eu/32009d0821)1 anførte udpegede grænsekontrolsteder i Letland, Litauen og Polen af sendinger af de i artikel 3 omhandlede sammensatte produkter, der kommer fra og er bestemt til Rusland enten direkte eller via et andet tredjeland, tilladt, forudsat at følgende betingelser er opfyldt:
+
+1. Sendingen plomberes med en plombering med løbenummer på det grænsekontrolsted, hvor sendingen føres ind i Unionen, af den kompetente myndigheds veterinærtjeneste.
 
 ►**M4**
 
@@ -2807,7 +4198,9 @@ Sendinger af sammensatte produkter, jf. artikel 3, stk. 1, litra a) og b), som i
 
 ### Artikel 5a. Dispensation for transit gennem Kroatien af sendinger, der kommer fra Bosnien-Hercegovina og er bestemt til tredjelande
 
-1\. Uanset artikel 4 er direkte transit ad landevej gennem Unionen mellem grænsekontrolstedet i Nova Sela og grænsekontrolstedet i Ploče af sendinger af sammensatte produkter, jf. artikel 3, der kommer fra Bosnien-Hercegovina og er bestemt til tredjelande, tilladt, forudsat at følgende betingelser er opfyldt:Sendingen er plomberet med en plombering med løbenummer på det grænsekontrolsted, hvor sendingen føres ind i Unionen, af embedsdyrlægen på indgangsgrænsekontrolstedet.
+1\. Uanset artikel 4 er direkte transit ad landevej gennem Unionen mellem grænsekontrolstedet i Nova Sela og grænsekontrolstedet i Ploče af sendinger af sammensatte produkter, jf. artikel 3, der kommer fra Bosnien-Hercegovina og er bestemt til tredjelande, tilladt, forudsat at følgende betingelser er opfyldt:
+
+1. Sendingen er plomberet med en plombering med løbenummer på det grænsekontrolsted, hvor sendingen føres ind i Unionen, af embedsdyrlægen på indgangsgrænsekontrolstedet.
 
 ►**M4**
 
@@ -2825,7 +4218,9 @@ Artikel 5 i beslutning [2007/275/EF](eu/32007d0275) udgår.
 
 Artikel 3, stk. 2, første afsnit, i forordning [(EF) nr. 1162/2009](eu/32009r1162) affattes således:
 
-«2. Uanset artikel 6, stk. 4, i forordning [(EF) nr. 853/2004](eu/32004r0853*) fritages ledere af fødevarevirksomheder, der importerer fødevarer indeholdende både produkter af vegetabilsk oprindelse og forarbejdede produkter af animalsk oprindelse, bortset fra dem, der er omhandlet i artikel 3, stk. 1, i forordning [(EU) nr. 28/2012](eu/32012r0028),\* fra den i samme artikel fastsatte forpligtelse.___________
+«2. Uanset artikel 6, stk. 4, i forordning [(EF) nr. 853/2004](eu/32004r0853*) fritages ledere af fødevarevirksomheder, der importerer fødevarer indeholdende både produkter af vegetabilsk oprindelse og forarbejdede produkter af animalsk oprindelse, bortset fra dem, der er omhandlet i artikel 3, stk. 1, i forordning [(EU) nr. 28/2012](eu/32012r0028),\* fra den i samme artikel fastsatte forpligtelse.
+
+___________
 
 \* EUT L 12 af 14.1.2012, s. 1.»
 
@@ -2893,7 +4288,21 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,1 særlig artikkel 3 nr. 2, og
 
-ut fra følgende betraktninger:Rådsdirektiv [98/83/EF](eu/31998l0083*)2 har som formål å beskytte menneskers helse mot de skadelige virkningene av enhver forurensing av drikkevann ved å sikre vannets hygieniske kvalitet og renhet. I del A og B i vedlegg I til nevnte direktiv fastsettes de mikrobiologiske og kjemiske parametrene som drikkevann skal overholde.Ved europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*)3 fastsettes alminnelige regler for næringsmiddelhygiene som gjelder for driftsansvarlige for næringsmiddelforetak, der det tas særlig hensyn til prinsippet om allmenn gjennomføring av framgangsmåter som bygger på fareanalyse og kritiske kontrollpunkter (HACCP).I forordning [(EF) nr. 852/2004](eu/32004r0852*) defineres «drikkevann» som vann som oppfyller minstekravene fastsatt i rådsdirektiv [98/83/EF](eu/31998l0083*).Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) fastsettes særlige hygieneregler for næringsmidler av animalsk opprinnelse som gjelder for driftsansvarlige for næringsmiddelforetak. Det fastsettes i nevnte forordning at driftsansvarlige for næringsmiddelforetak ikke skal bruke andre stoffer enn drikkevann til å fjerne forurensning fra overflaten av produkter av animalsk opprinnelse, med mindre bruken av stoffet er godkjent i samsvar med forordningen.Ved europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*)4 fastsettes særlige regler for organiseringen av den offentlige kontrollen av produkter av animalsk opprinnelse beregnet på konsum, bl.a. at kontrollen skal omfatte revisjon av god hygienepraksis og HACCP-baserte framgangsmåter.Ved kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073*)5 fastsettes mikrobiologiske kriterier for visse mikroorganismer samt de gjennomføringsreglene som driftsansvarlige for næringsmiddelforetak skal overholde når de gjennomfører de allmenne og særlige hygienetiltakene nevnt i forordning [(EF) nr. 852/2004](eu/32004r0852*).Den 30. september 2010 vedtok Vitenskapsgruppen for biologiske farer under Den europeiske myndighet for næringsmiddeltrygghet (EFSA) en vitenskapelig uttalelse om sikkerheten ved og virkningen av å bruke resirkulert varmtvann til dekontaminering av skrotter.6I sin uttalelse konkluderer EFSA med at resirkulert varmtvann er like effektivt som varmt drikkevann når det gjelder å redusere mikrobiologisk overflateforurensning, og ved bruk anses de viktigste relevante risikoene for å være de mikrobiologiske risikoene forbundet med visse varmebestandige bakteriesporer.Disse risikoene kan holdes under kontroll ved å sørge for at det resirkulerte varmtvannet varmes opp med visse minstekrav til temperatur/tid og tilføres nytt vann, for å sikre at de mikrobiologiske og kjemiske parametrene overholder kravene til drikkevann fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*), og dermed at det ikke er større risiko forbundet med resirkulert varmtvann enn med varmt drikkevann.EFSA identifiserer og fastsetter dessuten HACCP-kriterier for å oppnå den forventede virkningen av å bruke resirkulert varmtvann og holde de mulige risikoene under kontroll. Disse kriteriene omfatter bl.a. en forpliktelse for driftsansvarlige for næringsmiddelforetak til å samle inn data om forekomst og potensiell akkumulering av visse bakteriesporer i det resirkulerte varmtvannet som brukes til å fjerne mikrobiologisk overflateforurensning fra skrotter.På bakgrunn av EFSAs uttalelse og tatt i betraktning at resirkulert varmtvann kan være ytterligere et middel til å nå målene med forordning [(EF) nr. 852/2004](eu/32004r0852*), (EF) [nr. 853/2004](eu/32004r0853*), (EF) [nr. 854/2004](eu/32004r0854*) og (EF) [nr. 2073/2005](eu/32005r2073*), og at bruk av slikt vann kan ha en tilleggsverdi av miljømessige grunner og med tanke på energiøkonomisering, bør det tillates at driftsansvarlige for næringsmiddelforetak bruker resirkulert varmtvann til å fjerne mikrobiologisk overflateforurensning fra skrotter.Bruk av resirkulert varmtvann må imidlertid ikke berøre den driftsansvarliges plikt til å overholde kravene i unionsregelverket om næringsmiddelhygiene, som fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*), (EF) [nr. 853/2004](eu/32004r0853*), (EF) [nr. 854/2004](eu/32004r0854*) og (EF) [nr. 2073/2005](eu/32005r2073*). Slik bruk bør integreres i HACCP-baserte systemer og på ingen måte anses som en erstatning for god og hygienisk slaktepraksis eller gode driftsrutiner, eller som et alternativ til å overholde kravene i nevnte forordninger.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+ut fra følgende betraktninger:
+
+1. Rådsdirektiv [98/83/EF](eu/31998l0083*)2 har som formål å beskytte menneskers helse mot de skadelige virkningene av enhver forurensing av drikkevann ved å sikre vannets hygieniske kvalitet og renhet. I del A og B i vedlegg I til nevnte direktiv fastsettes de mikrobiologiske og kjemiske parametrene som drikkevann skal overholde.
+2. Ved europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*)3 fastsettes alminnelige regler for næringsmiddelhygiene som gjelder for driftsansvarlige for næringsmiddelforetak, der det tas særlig hensyn til prinsippet om allmenn gjennomføring av framgangsmåter som bygger på fareanalyse og kritiske kontrollpunkter (HACCP).
+3. I forordning [(EF) nr. 852/2004](eu/32004r0852*) defineres «drikkevann» som vann som oppfyller minstekravene fastsatt i rådsdirektiv [98/83/EF](eu/31998l0083*).
+4. Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) fastsettes særlige hygieneregler for næringsmidler av animalsk opprinnelse som gjelder for driftsansvarlige for næringsmiddelforetak. Det fastsettes i nevnte forordning at driftsansvarlige for næringsmiddelforetak ikke skal bruke andre stoffer enn drikkevann til å fjerne forurensning fra overflaten av produkter av animalsk opprinnelse, med mindre bruken av stoffet er godkjent i samsvar med forordningen.
+5. Ved europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*)4 fastsettes særlige regler for organiseringen av den offentlige kontrollen av produkter av animalsk opprinnelse beregnet på konsum, bl.a. at kontrollen skal omfatte revisjon av god hygienepraksis og HACCP-baserte framgangsmåter.
+6. Ved kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073*)5 fastsettes mikrobiologiske kriterier for visse mikroorganismer samt de gjennomføringsreglene som driftsansvarlige for næringsmiddelforetak skal overholde når de gjennomfører de allmenne og særlige hygienetiltakene nevnt i forordning [(EF) nr. 852/2004](eu/32004r0852*).
+7. Den 30. september 2010 vedtok Vitenskapsgruppen for biologiske farer under Den europeiske myndighet for næringsmiddeltrygghet (EFSA) en vitenskapelig uttalelse om sikkerheten ved og virkningen av å bruke resirkulert varmtvann til dekontaminering av skrotter.6
+8. I sin uttalelse konkluderer EFSA med at resirkulert varmtvann er like effektivt som varmt drikkevann når det gjelder å redusere mikrobiologisk overflateforurensning, og ved bruk anses de viktigste relevante risikoene for å være de mikrobiologiske risikoene forbundet med visse varmebestandige bakteriesporer.
+9. Disse risikoene kan holdes under kontroll ved å sørge for at det resirkulerte varmtvannet varmes opp med visse minstekrav til temperatur/tid og tilføres nytt vann, for å sikre at de mikrobiologiske og kjemiske parametrene overholder kravene til drikkevann fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*), og dermed at det ikke er større risiko forbundet med resirkulert varmtvann enn med varmt drikkevann.
+10. EFSA identifiserer og fastsetter dessuten HACCP-kriterier for å oppnå den forventede virkningen av å bruke resirkulert varmtvann og holde de mulige risikoene under kontroll. Disse kriteriene omfatter bl.a. en forpliktelse for driftsansvarlige for næringsmiddelforetak til å samle inn data om forekomst og potensiell akkumulering av visse bakteriesporer i det resirkulerte varmtvannet som brukes til å fjerne mikrobiologisk overflateforurensning fra skrotter.
+11. På bakgrunn av EFSAs uttalelse og tatt i betraktning at resirkulert varmtvann kan være ytterligere et middel til å nå målene med forordning [(EF) nr. 852/2004](eu/32004r0852*), (EF) [nr. 853/2004](eu/32004r0853*), (EF) [nr. 854/2004](eu/32004r0854*) og (EF) [nr. 2073/2005](eu/32005r2073*), og at bruk av slikt vann kan ha en tilleggsverdi av miljømessige grunner og med tanke på energiøkonomisering, bør det tillates at driftsansvarlige for næringsmiddelforetak bruker resirkulert varmtvann til å fjerne mikrobiologisk overflateforurensning fra skrotter.
+12. Bruk av resirkulert varmtvann må imidlertid ikke berøre den driftsansvarliges plikt til å overholde kravene i unionsregelverket om næringsmiddelhygiene, som fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*), (EF) [nr. 853/2004](eu/32004r0853*), (EF) [nr. 854/2004](eu/32004r0854*) og (EF) [nr. 2073/2005](eu/32005r2073*). Slik bruk bør integreres i HACCP-baserte systemer og på ingen måte anses som en erstatning for god og hygienisk slaktepraksis eller gode driftsrutiner, eller som et alternativ til å overholde kravene i nevnte forordninger.
+13. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
 
 1 EUT L 139 av 30.4.2004, s. 55.
 
@@ -2934,7 +4343,10 @@ Utferdiget i Brussel, 27. august 2015.
 ### Del I – Vilkår for bruk av resirkulert varmtvann til å fjerne mikrobiologisk overflateforurensning fra skrotter
 
 1. Det resirkulerte varmtvannet skal framstilles ved oppvarming og resirkulering av drikkevann i et lukket og atskilt system.
-2. Det resirkulerte varmtvannet skalvarmes opp med visse minstekrav til temperatur/tid før det brukes på skrotter, for å sikre at de mikrobiologiske parametrene for drikkevann overholdes,tilføres nytt vann med passende hyppighet, om nødvendig med avskumming av grove partikler, filtrering og tilsetting av drikkevann, for å sikre at de kjemiske parametrene for drikkevann overholdes.
+2. Det resirkulerte varmtvannet skal
+
+   1. varmes opp med visse minstekrav til temperatur/tid før det brukes på skrotter, for å sikre at de mikrobiologiske parametrene for drikkevann overholdes,
+   2. tilføres nytt vann med passende hyppighet, om nødvendig med avskumming av grove partikler, filtrering og tilsetting av drikkevann, for å sikre at de kjemiske parametrene for drikkevann overholdes.
 3. Det resirkulerte varmtvannet skal bare brukes på hele eller halve skrotter av tamme hov- og klovdyr og av oppdrettsvilt, og under kontrollerte og verifiserte forhold.
 4. Det resirkulerte varmtvannet skal ikke brukes på skrotter med synlig fekal forurensning.
 5. Bruken av resirkulert varmtvann skal ikke medføre noen ugjenkallelig fysisk endring av kjøttet.
@@ -3050,13 +4462,17 @@ De tredjelande, dele af tredjelande og områder, hvorfra medlemsstaterne tillade
 
 ### Artikel 4. Standardcertifikat
 
-1\. Standardcertifikatet til brug ved transit gennem Unionen af de råvarer, der er omhandlet i artikel 3, fastsættes i bilag III.Certifikatet skal udfyldes i overensstemmelse med bemærkningerne i bilag IV og i det relevante standardcertifikat.
+1\. Standardcertifikatet til brug ved transit gennem Unionen af de råvarer, der er omhandlet i artikel 3, fastsættes i bilag III.
+
+Certifikatet skal udfyldes i overensstemmelse med bemærkningerne i bilag IV og i det relevante standardcertifikat.
 
 2\. Der kan anvendes elektronisk certifikatudstedelse og andre systemer, der er harmoniseret på EU-plan.
 
 ### Artikel 5. Dispensation for transit gennem Letland, Litauen og Polen
 
-1\. Uanset artikel 3 tillades transit ad landevej eller jernbane mellem de særlige, udpegede grænsekontrolsteder i Letland, Litauen og Polen, der er opført og mærket med den særlige betingelse 13 i bilag I til Kommissionens beslutning [2009/821/EF](eu/32009d0821),1 af sendinger af de råvarer og behandlede råvarer, der er omhandlet i artikel 3 i nærværende forordning, og som kommer fra og har kurs mod Rusland, enten direkte eller via et andet tredjeland, når følgende betingelser er opfyldt:Sendingen er plomberet med en plombe med løbenummer af embedsdyrlægen på indgangsgrænsekontrolstedet.
+1\. Uanset artikel 3 tillades transit ad landevej eller jernbane mellem de særlige, udpegede grænsekontrolsteder i Letland, Litauen og Polen, der er opført og mærket med den særlige betingelse 13 i bilag I til Kommissionens beslutning [2009/821/EF](eu/32009d0821),1 af sendinger af de råvarer og behandlede råvarer, der er omhandlet i artikel 3 i nærværende forordning, og som kommer fra og har kurs mod Rusland, enten direkte eller via et andet tredjeland, når følgende betingelser er opfyldt:
+
+1. Sendingen er plomberet med en plombe med løbenummer af embedsdyrlægen på indgangsgrænsekontrolstedet.
 
 ►**M5**
 
@@ -3071,7 +4487,10 @@ Afsluttende bestemmelser
 
 ### Artikel 6. Ændring
 
-I bilag VI til forordning [(EF) nr. 2074/2005](eu/32005r2074) foretages følgende ændringer:I afsnit I udgår kapitel I, II, III og VI.Tillæg I, II, III og VI udgår.
+I bilag VI til forordning [(EF) nr. 2074/2005](eu/32005r2074) foretages følgende ændringer:
+
+1. I afsnit I udgår kapitel I, II, III og VI.
+2. Tillæg I, II, III og VI udgår.
 
 ### Artikel 7. Ophævelse
 
@@ -3129,7 +4548,13 @@ med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,1 særleg artikkel 9 nr. 2 første leddet, og
 
-ut frå desse synsmåtane:I forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsett vesentlege endringar av dei reglane og framgangsmåtane på området folkehelse (næringsmiddeltryggleik) som driftsansvarlege for næringsmiddel må rette seg etter. Det er særleg fastsett visse vilkår for import til Unionen av næringsmiddel som inneheld både produkt av vegetabilsk opphav og foredla produkt av animalsk opphav (samansette produkt).I kommisjonsforordning [(EU) 2017/185](eu/32017r0185)2 er det fastsett overgangsføresegner om unntak frå desse reglane for driftsansvarlege for næringsmiddelføretak som importerer næringsmiddel som inneheld både produkt av vegetabilsk opphav og foredla produkt av animalsk opphav (samansette produkt), bortsett frå dei produkta som er nemnde i artikkel 3 nr. 1 og 3 i kommisjonsforordning [(EU) nr. 28/2012](eu/32012r0028),3 og som folkehelsekrava ved import til Unionen enno ikkje er fastsette for på unionsplan. Dette unntaket gjeld fram til 31. desember 2020.I europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*) («dyrehelseregelverket»)4 er det fastsett reglar for førebygging og motkjemping av dyresjukdommar som kan overførast til dyr eller menneske. Ho gjeld for produkt av animalsk opphav og difor for samansette produkt slik det er definert i artikkel 2 bokstav a) i kommisjonsvedtak [2007/275/EF](eu/32007d0275).5 Når forordninga vert teken i bruk, vil ho gje krav som skal oppfyllast for at dyr, økslingsmateriale og produkt av animalsk opphav kan innførast til Unionen frå tredjestatar og territorium. Forordninga skal nyttast frå 21. april 2021.For å sikre rettsleg klarleik og konsekvens og lette overgangen til dei nye reglane for dei driftsansvarlege og dei rette styresmaktene må dei nye importvilkåra for samansette produkt som er omfatta av artikkel 6 nr. 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*), takast i bruk frå ein og same dato. Utløpsdatoen for desse overgangsføresegnene bør difor utsetjast til 20. april 2021.Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for planter, dyr, næringsmiddel og fôr.
+ut frå desse synsmåtane:
+
+1. I forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsett vesentlege endringar av dei reglane og framgangsmåtane på området folkehelse (næringsmiddeltryggleik) som driftsansvarlege for næringsmiddel må rette seg etter. Det er særleg fastsett visse vilkår for import til Unionen av næringsmiddel som inneheld både produkt av vegetabilsk opphav og foredla produkt av animalsk opphav (samansette produkt).
+2. I kommisjonsforordning [(EU) 2017/185](eu/32017r0185)2 er det fastsett overgangsføresegner om unntak frå desse reglane for driftsansvarlege for næringsmiddelføretak som importerer næringsmiddel som inneheld både produkt av vegetabilsk opphav og foredla produkt av animalsk opphav (samansette produkt), bortsett frå dei produkta som er nemnde i artikkel 3 nr. 1 og 3 i kommisjonsforordning [(EU) nr. 28/2012](eu/32012r0028),3 og som folkehelsekrava ved import til Unionen enno ikkje er fastsette for på unionsplan. Dette unntaket gjeld fram til 31. desember 2020.
+3. I europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*) («dyrehelseregelverket»)4 er det fastsett reglar for førebygging og motkjemping av dyresjukdommar som kan overførast til dyr eller menneske. Ho gjeld for produkt av animalsk opphav og difor for samansette produkt slik det er definert i artikkel 2 bokstav a) i kommisjonsvedtak [2007/275/EF](eu/32007d0275).5 Når forordninga vert teken i bruk, vil ho gje krav som skal oppfyllast for at dyr, økslingsmateriale og produkt av animalsk opphav kan innførast til Unionen frå tredjestatar og territorium. Forordninga skal nyttast frå 21. april 2021.
+4. For å sikre rettsleg klarleik og konsekvens og lette overgangen til dei nye reglane for dei driftsansvarlege og dei rette styresmaktene må dei nye importvilkåra for samansette produkt som er omfatta av artikkel 6 nr. 4 i forordning [(EF) nr. 853/2004](eu/32004r0853*), takast i bruk frå ein og same dato. Utløpsdatoen for desse overgangsføresegnene bør difor utsetjast til 20. april 2021.
+5. Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for planter, dyr, næringsmiddel og fôr.
 
 1 TEU L 139 av 30.4.2004, s. 55.
 

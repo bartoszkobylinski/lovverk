@@ -30,7 +30,17 @@ Formålet med tilskuddsordningen er å bidra til fremvekst av publikasjoner for 
 
 ## § 2. Vilkår for tilskudd
 
-Tilskudd etter denne forskriften ytes publikasjoner som:orienterer språklige minoriteter i Norge om nyheter og aktuelle spørsmåli hovedsak inneholder stoff på den aktuelle språklige minoritetsgruppens eget språkangir utgivelsesdato, publikasjonens navn og navnet på ansvarlig redaktør på et lett synlig sted i publikasjonen. Opplysningene må være skrevet i latinske bokstaverkommer ut regelmessig og med minst 6 nummer per århar et gjennomsnittlig netto opplag på minst 400 eksemplarerselger minst halvparten av netto opplag som abonnementtar reell betaling for abonnement, løssalg og annonser etter en offentlig tilgjengelig prislistehar hovedredaksjon i Norgehar en ansvarlig redaktør med status som svarer til bestemmelsene i «Redaktørplakaten».
+Tilskudd etter denne forskriften ytes publikasjoner som:
+
+1. orienterer språklige minoriteter i Norge om nyheter og aktuelle spørsmål
+2. i hovedsak inneholder stoff på den aktuelle språklige minoritetsgruppens eget språk
+3. angir utgivelsesdato, publikasjonens navn og navnet på ansvarlig redaktør på et lett synlig sted i publikasjonen. Opplysningene må være skrevet i latinske bokstaver
+4. kommer ut regelmessig og med minst 6 nummer per år
+5. har et gjennomsnittlig netto opplag på minst 400 eksemplarer
+6. selger minst halvparten av netto opplag som abonnement
+7. tar reell betaling for abonnement, løssalg og annonser etter en offentlig tilgjengelig prisliste
+8. har hovedredaksjon i Norge
+9. har en ansvarlig redaktør med status som svarer til bestemmelsene i «Redaktørplakaten».
 
 Vilkårene ovenfor må ha vært oppfylt i minst ett kalenderår før tilskudd ytes.
 

@@ -32,7 +32,12 @@ Forskriften inneholder bestemmelser til utfylling og gjennomføring av folkeregi
 
 ### § 2-2-1. Fødselsnummer
 
-Ved tildeling av fødselsnummer anvendes individsiffer slik:serien 749–500 anvendes i synkende rekkefølge for personer født 1854–1899,serien 499–000 anvendes i synkende rekkefølge for personer født 1900–1999,serien 999–900 anvendes også i synkende rekkefølge for personer født 1940–1999,serien 999–500 anvendes i synkende rekkefølge for personer født 2000–2039.
+Ved tildeling av fødselsnummer anvendes individsiffer slik:
+
+1. serien 749–500 anvendes i synkende rekkefølge for personer født 1854–1899,
+2. serien 499–000 anvendes i synkende rekkefølge for personer født 1900–1999,
+3. serien 999–900 anvendes også i synkende rekkefølge for personer født 1940–1999,
+4. serien 999–500 anvendes i synkende rekkefølge for personer født 2000–2039.
 
 Kvinner skal ha like tall og menn ulike tall som siste individsiffer.
 
@@ -48,13 +53,31 @@ D-nummeret inaktiveres fem år etter tildeling.
 
 ### § 2-2-3. Hvem som kan tildeles d-nummer
 
-D-nummer kan tildeles fysisk person som ikke fyller vilkåret for å få tildelt fødselsnummer, og som er:skatte- eller avgiftspliktig til Norge, herunder til Svalbard,i forretningsforhold med norsk finansforetak som er underlagt finansforetaksloven,registreringspliktig i Foretaksregisteret, Løsøreregisteret eller Konkursregisteret,rolleinnehaver i juridisk enhet, jf. [enhetsregisterloven § 5](lov/1994-06-03-15/§5) annet ledd litra f og [§ 6](lov/1994-06-03-15/§6) første ledd litra a–e og h, eller har tilsvarende rolle i utenlandsk deltakerlignet selskap (DLS) eller i selskap som nevnt i [skatteloven § 2-4](lov/1999-03-26-14/§2-4) eller som utfører rapporteringsoppgaver på vegne av slike rolleinnehavere,asylsøker eller person med gyldig oppholdstillatelse,rettighetshaver i grunnboken,omfattet av ordning som forvaltes av Arbeids- og velferdsetaten eller Helseøkonomiforvaltningen, eller som har rettighet utledet fra slik person,bosatt på Svalbard, jf. forskrift om register over befolkningen på Svalbard § 2,under autorisering som helsepersonell,utenlandsk ambassadepersonell eller utenlandske borgere i internasjonale organisasjoner og mellomstatlige konvensjonsorganer med sete i Norge som er tilmeldt til og akseptert av Utenriksdepartementet i medhold av [utlendingsforskriften § 1-4](forskrift/2009-10-15-1286/§1-4) og [§ 1-5](forskrift/2009-10-15-1286/§1-5).
+D-nummer kan tildeles fysisk person som ikke fyller vilkåret for å få tildelt fødselsnummer, og som er:
+
+1. skatte- eller avgiftspliktig til Norge, herunder til Svalbard,
+2. i forretningsforhold med norsk finansforetak som er underlagt finansforetaksloven,
+3. registreringspliktig i Foretaksregisteret, Løsøreregisteret eller Konkursregisteret,
+4. rolleinnehaver i juridisk enhet, jf. [enhetsregisterloven § 5](lov/1994-06-03-15/§5) annet ledd litra f og [§ 6](lov/1994-06-03-15/§6) første ledd litra a–e og h, eller har tilsvarende rolle i utenlandsk deltakerlignet selskap (DLS) eller i selskap som nevnt i [skatteloven § 2-4](lov/1999-03-26-14/§2-4) eller som utfører rapporteringsoppgaver på vegne av slike rolleinnehavere,
+5. asylsøker eller person med gyldig oppholdstillatelse,
+6. rettighetshaver i grunnboken,
+7. omfattet av ordning som forvaltes av Arbeids- og velferdsetaten eller Helseøkonomiforvaltningen, eller som har rettighet utledet fra slik person,
+8. bosatt på Svalbard, jf. forskrift om register over befolkningen på Svalbard § 2,
+9. under autorisering som helsepersonell,
+10. utenlandsk ambassadepersonell eller utenlandske borgere i internasjonale organisasjoner og mellomstatlige konvensjonsorganer med sete i Norge som er tilmeldt til og akseptert av Utenriksdepartementet i medhold av [utlendingsforskriften § 1-4](forskrift/2009-10-15-1286/§1-4) og [§ 1-5](forskrift/2009-10-15-1286/§1-5).
 
 ### § 2-2-4. Rekvirering av d-nummer
 
 D-nummer rekvireres av offentlig myndighet eller virksomhet samt finansforetak som har behov for d-nummer for personer som kommer inn under [§ 2-2-3](forskrift/2017-07-14-1201/§2-2-3). Vedkommende rekvirent har myndighet til å reaktivere et inaktivt d-nummer.
 
-Dersom ikke annet er bestemt, skal rekvisisjon og reaktivering skje på særskilt skjema fastsatt av Skattedirektoratet. Vedlagt skjemaet må følge bekreftet kopi av pass eller tilsvarende. Legitimasjonen skal være utstyrt med fotografi av personen og inneholde opplysning om:fullt navn,fødselsdato,kjønn ogstatsborgerskap.I tillegg kan det gis opplysning om adresse i hjemlandet og om oppholds-/kontaktadresse i Norge.
+Dersom ikke annet er bestemt, skal rekvisisjon og reaktivering skje på særskilt skjema fastsatt av Skattedirektoratet. Vedlagt skjemaet må følge bekreftet kopi av pass eller tilsvarende. Legitimasjonen skal være utstyrt med fotografi av personen og inneholde opplysning om:
+
+1. fullt navn,
+2. fødselsdato,
+3. kjønn og
+4. statsborgerskap.
+
+I tillegg kan det gis opplysning om adresse i hjemlandet og om oppholds-/kontaktadresse i Norge.
 
 Kravet til innsending av bekreftet kopi av legitimasjonsdokument gjelder ikke når Arbeids- og velferdsetaten, Helseøkonomiforvaltningen eller Utlendingsforvaltningen bekrefter på rekvisisjonen at legitimasjonsdokument som nevnt i foregående ledd, ikke er tilgjengelig for personen.
 
@@ -72,7 +95,106 @@ Dersom kravene til dokumentasjon ikke er oppfylt eller tildelingsmyndigheten fin
 
 ### § 3-1-1. Registrering av underkategorier og tilleggsopplysninger
 
-I tilknytning til den enkelte opplysning som etter [folkeregisterloven § 3-1](lov/2016-12-09-88/§3-1) kan registreres for hvert enkelt fødselsnummer eller d-nummer, kan følgende opplysninger registreres:NavnNavn med originale skrifttegn før translitterering til det norske alfabetKjønn:MannKvinneAdresser:Nåværende adresse:Flytte- og registreringsdatoKommunenummerPostnummerAdressekode/gårdsnummerAdressenavnAdressetilleggsnavnAdressenummer/bruksnummerBokstav/festenummerUndernummerBruksenhetsnummerKretserBruksenhetstypeAdressetype:BostedsadresseTilleggsadressePostadresseOppholds-/kontaktadresseDelt bosted etter [barnelova § 36](lov/1981-04-08-7/§36)Innflytting fra land/stedUtflytting til land/stedFødestedSykehus/fødestueKommuneLandSivilstand:UoppgittUgiftGiftEnke/enkemannSkiltSeparertRegistrert partnerSeparert partnerSkilt partnerGjenlevende partnerForeldreansvar:DeltMorFarMedmorAndreDato for endring av foreldreansvarFamilienummer:DatoPersonkode som viser hvilken relasjon personen har til familienummeret:= Referanseperson= Kvinnen hos ektefeller av ulikt kjønn; yngste person hos partnere og ektefeller av samme kjønn= Barn som bor sammen med foreldreSamiske språk:NordsamiskLulesamiskSørsamiskVergemål og representantordningen:Frivillig vergemålBegrensning i rettslig handleevneRammene for oppdragetTidsromVergeRepresentantordningenRepresentant for enslig mindreårig asylsøkerUtenlandsk identifikasjonsnummerOpplysninger om utenlandsk legitimasjonsdokumentRegistreringsstatus:BosattMidlertidig (for d-nummer)UtflyttetForsvunnetDødOpphørtFødselsregistrertInaktiv (for d-nummer)Ikke bosatt
+I tilknytning til den enkelte opplysning som etter [folkeregisterloven § 3-1](lov/2016-12-09-88/§3-1) kan registreres for hvert enkelt fødselsnummer eller d-nummer, kan følgende opplysninger registreres:
+
+1. Navn
+
+   - Navn med originale skrifttegn før translitterering til det norske alfabet
+2. Kjønn:
+
+   - Mann
+   - Kvinne
+3. Adresser:
+
+   Nåværende adresse:
+
+   - Flytte- og registreringsdato
+   - Kommunenummer
+   - Postnummer
+   - Adressekode/gårdsnummer
+   - Adressenavn
+   - Adressetilleggsnavn
+   - Adressenummer/bruksnummer
+   - Bokstav/festenummer
+   - Undernummer
+   - Bruksenhetsnummer
+   - Kretser
+   - Bruksenhetstype
+
+   Adressetype:
+
+   - Bostedsadresse
+   - Tilleggsadresse
+   - Postadresse
+   - Oppholds-/kontaktadresse
+   - Delt bosted etter [barnelova § 36](lov/1981-04-08-7/§36)
+
+   Innflytting fra land/sted
+
+   Utflytting til land/sted
+4. Fødested
+
+   - Sykehus/fødestue
+   - Kommune
+   - Land
+5. Sivilstand:
+
+   - Uoppgitt
+   - Ugift
+   - Gift
+   - Enke/enkemann
+   - Skilt
+   - Separert
+   - Registrert partner
+   - Separert partner
+   - Skilt partner
+   - Gjenlevende partner
+6. Foreldreansvar:
+
+   - Delt
+   - Mor
+   - Far
+   - Medmor
+   - Andre
+
+   Dato for endring av foreldreansvar
+7. Familienummer:
+
+   Dato
+
+   Personkode som viser hvilken relasjon personen har til familienummeret:
+
+   1. = Referanseperson
+   2. = Kvinnen hos ektefeller av ulikt kjønn; yngste person hos partnere og ektefeller av samme kjønn
+   3. = Barn som bor sammen med foreldre
+8. Samiske språk:
+
+   - Nordsamisk
+   - Lulesamisk
+   - Sørsamisk
+9. Vergemål og representantordningen:
+
+   - Frivillig vergemål
+   - Begrensning i rettslig handleevne
+   - Rammene for oppdraget
+   - Tidsrom
+   - Verge
+   - Representantordningen
+   - Representant for enslig mindreårig asylsøker
+10. Utenlandsk identifikasjonsnummer
+
+    Opplysninger om utenlandsk legitimasjonsdokument
+11. Registreringsstatus:
+
+    - Bosatt
+    - Midlertidig (for d-nummer)
+    - Utflyttet
+    - Forsvunnet
+    - Død
+    - Opphørt
+    - Fødselsregistrert
+    - Inaktiv (for d-nummer)
+    - Ikke bosatt
 
 Personnavn som er for langt til bruk ved maskinelle utskrifter, kan forkortes av registermyndigheten.
 
@@ -80,7 +202,11 @@ Personnavn som er for langt til bruk ved maskinelle utskrifter, kan forkortes av
 
 ### § 3-1-2. Tidligere førte registre
 
-For de personer det i henhold til § 4 – § 6 i tidligere [forskrift 26. november 1979 nr. 9](forskrift/1979-11-26-9) om føringen og ordningen av folkeregistrene ble opprettet manuelt førte kort for, skal opplysningene som ble registrert i henhold til dagjeldende regler, være ordnet i:hovedregister over alle personer som fortsatt er bosatt i kommunen, fødselsregisterførte og dødfødte,avgangsregister over personer som er forsvunnet, utvandret eller døde,navneregister over personer som har vært registrert bosatt eller er blitt fødselsregisterført i kommunen før føring med elektroniske hjelpemidler ble tatt i bruk.
+For de personer det i henhold til § 4 – § 6 i tidligere [forskrift 26. november 1979 nr. 9](forskrift/1979-11-26-9) om føringen og ordningen av folkeregistrene ble opprettet manuelt førte kort for, skal opplysningene som ble registrert i henhold til dagjeldende regler, være ordnet i:
+
+1. hovedregister over alle personer som fortsatt er bosatt i kommunen, fødselsregisterførte og dødfødte,
+2. avgangsregister over personer som er forsvunnet, utvandret eller døde,
+3. navneregister over personer som har vært registrert bosatt eller er blitt fødselsregisterført i kommunen før føring med elektroniske hjelpemidler ble tatt i bruk.
 
 ### § 3-2-1. Grunnlaget for registrert identitet
 
@@ -172,9 +298,20 @@ Sjøfolk og andre som på grunn av sitt yrke ikke kan ta sin døgnhvile noe best
 
 ### § 5-1-4. Studenter
 
-Personer som oppholder seg i en kommune for å få undervisning, kan velge om de skal:registreres på nytt bosted ved studiestedet,opprettholde registreringen på samme bosted som før utdanningen ble påbegynt (tidligere bosted) dersom de fortsatt har tilknytning til dette,registreres i foreldrehjem,registreres i det felles hjem med ektefelle eller barn,registreres i en bolig som erstatter tidligere bosted, så fremt disse boliger ligger i samme kommune.
+Personer som oppholder seg i en kommune for å få undervisning, kan velge om de skal:
 
-Som tilknytning til tidligere bosted regnes blant annet:foreldrehjem,eiendomsrett til bolig,leierett til bolig,fremleie av bolig.
+1. registreres på nytt bosted ved studiestedet,
+2. opprettholde registreringen på samme bosted som før utdanningen ble påbegynt (tidligere bosted) dersom de fortsatt har tilknytning til dette,
+3. registreres i foreldrehjem,
+4. registreres i det felles hjem med ektefelle eller barn,
+5. registreres i en bolig som erstatter tidligere bosted, så fremt disse boliger ligger i samme kommune.
+
+Som tilknytning til tidligere bosted regnes blant annet:
+
+- foreldrehjem,
+- eiendomsrett til bolig,
+- leierett til bolig,
+- fremleie av bolig.
 
 ### § 5-1-5. Vernepliktige
 
@@ -240,7 +377,11 @@ Bestemmelsene i [§ 5-3-2](forskrift/2017-07-14-1201/§5-3-2) til [§ 5-3-5](for
 
 En pendler regnes som bosatt der ektefelle eller barn er registrert bosatt dersom denne bolig er felles etter [§ 5-2-1](forskrift/2017-07-14-1201/§5-2-1) første og annet ledd. En pendler som forsørger og bor sammen med søsken, regnes som bosatt i deres felles hjem. Felles hjem med ektefelle går foran felles hjem med andre.
 
-Pendler ektepar mellom flere felles boliger, regnes de som bosatt i den ene av boligene etter følgende rangorden:den bolig som de har felles med barn,den bolig som er selvstendig etter kriteriene i [§ 5-3-4](forskrift/2017-07-14-1201/§5-3-4),den bolig hvor ektefellene til sammen har sin overveiende døgnhvile.
+Pendler ektepar mellom flere felles boliger, regnes de som bosatt i den ene av boligene etter følgende rangorden:
+
+1. den bolig som de har felles med barn,
+2. den bolig som er selvstendig etter kriteriene i [§ 5-3-4](forskrift/2017-07-14-1201/§5-3-4),
+3. den bolig hvor ektefellene til sammen har sin overveiende døgnhvile.
 
 Ektefeller som tar til å pendle mellom flere felles boliger, kan uansett reglene i litra b og c kreve å beholde sin bostedsregistrering dersom vilkårene i [§ 5-3-3](forskrift/2017-07-14-1201/§5-3-3) femte ledd er oppfylt for begge ektefellene.
 
@@ -254,13 +395,25 @@ Enslig som har overveiende døgnhvile i annen bolig enn foreldrehjemmet, kan kre
 
 Med foreldrehjem forstås det folkeregistrerte bosted til foreldre eller andre som pendleren har vokst opp hos. Kan flere boliger regnes som foreldrehjem for pendleren, gjelder regelen i [folkeregisterloven § 5-1](lov/2016-12-09-88/§5-1) annet ledd i forholdet mellom disse.
 
-Den som tar til å pendle fra en kommune der han har vært registrert bosatt i minst tre år når pendlingen tar til, til en bolig i en annen kommune, kan kreve å forbli registrert som bosatt i den første kommunen dersom:boligen på det opprinnelige bostedet har minst dobbelt så stort areal av primærrom som den andre boligen, ogpendleren eier den første boligen eller har utgifter til leie av denne. En pendler som har benyttet en eiendom som bolig mot å dekke driftskostnadene, likestilles med pendlere som tar til å pendle fra en eid til en leid bolig dersom pendleren er nær slektning av eiendommens eier eller er mottaker etter en føderådskontrakt.For bolig i boenhet der det bor flere, regnes som areal av primærrom boenhetens totale areal av primærrom delt på antall beboere over 15 år. [§ 5-3-4](forskrift/2017-07-14-1201/§5-3-4) annet og tredje ledd gjelder så langt de passer.
+Den som tar til å pendle fra en kommune der han har vært registrert bosatt i minst tre år når pendlingen tar til, til en bolig i en annen kommune, kan kreve å forbli registrert som bosatt i den første kommunen dersom:
+
+1. boligen på det opprinnelige bostedet har minst dobbelt så stort areal av primærrom som den andre boligen, og
+2. pendleren eier den første boligen eller har utgifter til leie av denne. En pendler som har benyttet en eiendom som bolig mot å dekke driftskostnadene, likestilles med pendlere som tar til å pendle fra en eid til en leid bolig dersom pendleren er nær slektning av eiendommens eier eller er mottaker etter en føderådskontrakt.
+
+For bolig i boenhet der det bor flere, regnes som areal av primærrom boenhetens totale areal av primærrom delt på antall beboere over 15 år. [§ 5-3-4](forskrift/2017-07-14-1201/§5-3-4) annet og tredje ledd gjelder så langt de passer.
 
 I andre tilfeller enn nevnt i første til femte ledd, skal enslig som pendler mellom to eller flere boliger, regnes som bosatt i sin selvstendige bolig, jf. [§ 5-3-4](forskrift/2017-07-14-1201/§5-3-4). Ved pendling mellom selvstendige boliger eller mellom uselvstendige boliger, gjelder regelen i [folkeregisterloven § 5-1](lov/2016-12-09-88/§5-1) annet ledd, dersom ikke den enslige krever noe annet på grunnlag av femte ledd.
 
 ### § 5-3-4. Selvstendig og uselvstendig bolig
 
-Som selvstendig bolig regnes hus eller leilighet som:har minst 30 kvadratmeter primærrom, oghar innlagt vann og avløp, ogpendleren eier eller disponerer for et tidsrom som må forutsettes å få en varighet av minst ett år, ogpendleren har tilgang til alle ukens dager.I boenhet der det bor mer enn en person, er kravet til areal av primærrom 30 kvadratmeter tillagt 20 kvadratmeter for hver ytterligere beboer over 15 år i boenheten.
+Som selvstendig bolig regnes hus eller leilighet som:
+
+1. har minst 30 kvadratmeter primærrom, og
+2. har innlagt vann og avløp, og
+3. pendleren eier eller disponerer for et tidsrom som må forutsettes å få en varighet av minst ett år, og
+4. pendleren har tilgang til alle ukens dager.
+
+I boenhet der det bor mer enn en person, er kravet til areal av primærrom 30 kvadratmeter tillagt 20 kvadratmeter for hver ytterligere beboer over 15 år i boenheten.
 
 Pendleren må dokumentere boligenes areal av primærrom, enten ved oppmåling av takstmann eller på annen måte som registermyndigheten finner tilfredsstillende. Registermyndigheten kan legge bruksarealet til grunn dersom dette er bedre dokumentert enn areal av primærrom.
 
@@ -286,7 +439,14 @@ Leid rom i bofellesskap (kollektiv) kan anses som fullverdig bolig i den første
 
 Det kreves normalt minst tre hjemreiser i året.
 
-Følgende forhold kan begrunne bosted etter [folkeregisterloven § 5-4 tredje ledd annet punktum](lov/2016-12-09-88/§5-4/ledd/3/setning/2):etablering av bosted i tidligere hjemdistrikt eller valgdistrikt,etablering av bosted i forbindelse med at hjemmeboende barn skal gå i barnehage, på skole eller ta utdanning,etablering av felles bolig med ektefelle som har eller har hatt bosted i distriktet elleretablering av bosted mot slutten av funksjonsperioden med sikte på fremtidig arbeid.Med hjemdistrikt forstås fylke og nærliggende områder.
+Følgende forhold kan begrunne bosted etter [folkeregisterloven § 5-4 tredje ledd annet punktum](lov/2016-12-09-88/§5-4/ledd/3/setning/2):
+
+- etablering av bosted i tidligere hjemdistrikt eller valgdistrikt,
+- etablering av bosted i forbindelse med at hjemmeboende barn skal gå i barnehage, på skole eller ta utdanning,
+- etablering av felles bolig med ektefelle som har eller har hatt bosted i distriktet eller
+- etablering av bosted mot slutten av funksjonsperioden med sikte på fremtidig arbeid.
+
+Med hjemdistrikt forstås fylke og nærliggende områder.
 
 > Tilføyd ved forskrift [26 sep 2025 nr. 1934](forskrift/2025-09-26-1934) (i kraft 1 okt 2025).
 
@@ -328,7 +488,18 @@ Person som omfattes av direktiv [2004/38/EF](eu/32004l0038) om EØS-borgere og d
 
 ### § 7-1-1. Meldeplikt for faktiske og rettslige forhold som finner sted i Norge
 
-Når ikke annet følger av lov, har offentlige myndigheter og virksomheter plikt til å gi følgende meldinger som grunnlag for registrering:Barne-, ungdoms- og familieetaten skal sende melding om adopsjon.Bidragsfogden eller domstolen skal sende melding om endring av farskap. Myndighet nevnt i [barnelova § 4](lov/1981-04-08-7/§4) annet ledd litra a, c og d skal sende melding om erklæring av farskap.Statsforvalteren eller domstolen skal sende melding om separasjon av ektefeller eller registrerte partnere.Statsforvalteren eller domstolen skal sende melding om skilsmisse eller oppløsning av ekteskap og oppløsning av registrert partnerskap.Utlendingsmyndighetene skal sende melding om innflytting av utenlandske statsborgere som har fått innvilget oppholdstillatelse i Norge, samt deres oppholdsstatus.Statsborgermyndighetene skal sende melding om erverv og tilbakekall av norsk statsborgerskap.Statsforvalteren eller Barne-, ungdoms- og familieetaten skal sende melding om andre navneendringer enn dem skattekontoret selv avgjør.Domstolen eller statsforvalteren skal sende melding om stadfestet fremtidsfullmakt, vedtak om vergemål og dom eller midlertidig vedtak om vergemål med fratakelse av den rettslige handleevnen.Lege med meldeplikt etter [helsepersonelloven § 36](lov/1999-07-02-64/§36), tingretten eller lensmannen skal sende melding om dødsfall.Politiet skal sende melding om status unik etter [folkeregisterforskriften § 3-2-1](forskrift/2017-07-14-1201/§3-2-1).
+Når ikke annet følger av lov, har offentlige myndigheter og virksomheter plikt til å gi følgende meldinger som grunnlag for registrering:
+
+1. Barne-, ungdoms- og familieetaten skal sende melding om adopsjon.
+2. Bidragsfogden eller domstolen skal sende melding om endring av farskap. Myndighet nevnt i [barnelova § 4](lov/1981-04-08-7/§4) annet ledd litra a, c og d skal sende melding om erklæring av farskap.
+3. Statsforvalteren eller domstolen skal sende melding om separasjon av ektefeller eller registrerte partnere.
+4. Statsforvalteren eller domstolen skal sende melding om skilsmisse eller oppløsning av ekteskap og oppløsning av registrert partnerskap.
+5. Utlendingsmyndighetene skal sende melding om innflytting av utenlandske statsborgere som har fått innvilget oppholdstillatelse i Norge, samt deres oppholdsstatus.
+6. Statsborgermyndighetene skal sende melding om erverv og tilbakekall av norsk statsborgerskap.
+7. Statsforvalteren eller Barne-, ungdoms- og familieetaten skal sende melding om andre navneendringer enn dem skattekontoret selv avgjør.
+8. Domstolen eller statsforvalteren skal sende melding om stadfestet fremtidsfullmakt, vedtak om vergemål og dom eller midlertidig vedtak om vergemål med fratakelse av den rettslige handleevnen.
+9. Lege med meldeplikt etter [helsepersonelloven § 36](lov/1999-07-02-64/§36), tingretten eller lensmannen skal sende melding om dødsfall.
+10. Politiet skal sende melding om status unik etter [folkeregisterforskriften § 3-2-1](forskrift/2017-07-14-1201/§3-2-1).
 
 Offentlige myndigheter og virksomheter har plikt til å melde flytting for personer som etter offentlig tiltak blir satt i institusjon eller privat pleie.
 
@@ -350,9 +521,18 @@ Når barn er født uten at lege/jordmor er til stede og registermyndigheten har 
 
 Gruppe 1 omfatter de nordiske stater – Danmark, Finland, Island og Sverige.
 
-Gruppe 2 omfatter følgende stater:I Afrika: Burkina Faso, Burundi, Den Demokratiske Republikken Kongo (DRC), Ekvatorial Guinea, Elfenbenskysten, Eritrea, Etiopia, Gabon, Gambia, Ghana, Guinea, Kenya, Liberia, Mali, Nigeria, Republikken Kongo, Sierra Leone, Somalia, Sudan, Sør-Sudan, Uganda, ZimbabweI Asia: Afghanistan, Bangladesh, Filippinene, India, Irak, Jemen, Myanmar (Burma), Pakistan, Saudi-Arabia, Sri Lanka, Syria, VietnamI Europa: Kosovo.
+Gruppe 2 omfatter følgende stater:
 
-Gruppe 3 omfatter følgende stater:I Europa: Andorra, Belgia, Estland, Frankrike, Hellas, Irland, Italia, Kroatia, Kypros, Latvia, Liechtenstein, Luxemburg, Malta, Monaco, Nederland, Polen, Portugal, San Marino, Slovakia, Slovenia, Storbritannia og Nord-Irland, Sveits, Spania, Tsjekkia, Tyskland, Ungarn, Vatikanstaten og ØsterrikeI Nord-Amerika: USA og CanadaI Oseania: Australia og New ZealandI Asia: Japan.
+1. I Afrika: Burkina Faso, Burundi, Den Demokratiske Republikken Kongo (DRC), Ekvatorial Guinea, Elfenbenskysten, Eritrea, Etiopia, Gabon, Gambia, Ghana, Guinea, Kenya, Liberia, Mali, Nigeria, Republikken Kongo, Sierra Leone, Somalia, Sudan, Sør-Sudan, Uganda, Zimbabwe
+2. I Asia: Afghanistan, Bangladesh, Filippinene, India, Irak, Jemen, Myanmar (Burma), Pakistan, Saudi-Arabia, Sri Lanka, Syria, Vietnam
+3. I Europa: Kosovo.
+
+Gruppe 3 omfatter følgende stater:
+
+1. I Europa: Andorra, Belgia, Estland, Frankrike, Hellas, Irland, Italia, Kroatia, Kypros, Latvia, Liechtenstein, Luxemburg, Malta, Monaco, Nederland, Polen, Portugal, San Marino, Slovakia, Slovenia, Storbritannia og Nord-Irland, Sveits, Spania, Tsjekkia, Tyskland, Ungarn, Vatikanstaten og Østerrike
+2. I Nord-Amerika: USA og Canada
+3. I Oseania: Australia og New Zealand
+4. I Asia: Japan.
 
 Gruppe 4 omfatter de stater som ikke er omfattet av gruppene 1, 2 og 3.
 
@@ -370,15 +550,30 @@ For registrering av barn og farskap til barn som er født i stat som nevnt i [§
 
 ### § 8-4-5. Fødsel i en gruppe 2-stat og faren er gift med barnets mor
 
-For registrering av barn der far er registrert som gift med barnets mor og fødselen har funnet sted i en stat som nevnt i [§ 8-4-2](forskrift/2017-07-14-1201/§8-4-2) annet ledd, gjelder følgende:Når far er bosatt i Norge og pater est-regelen i [barnelova § 3](lov/1981-04-08-7/§3) gjelder, kreves DNA-test av mor og barn.Når far er bosatt utenfor Norge ogpater est-regelen gjelder i den stat barnet er født, vil farskap som følger direkte av utenlandsk lov legges til grunn i Norge uten noen godkjennelse, jf. [barnelova § 85](lov/1981-04-08-7/§85) første ledd. DNA-test av mor og barn må fremlegges.pater est-regelen ikke gjelder i den stat barnet er født, må farskapet fastsettes etter lovgivningen i fødestaten og godkjennes av Arbeids- og velferdsetaten for å være gyldig i Norge, jf. [barnelova § 85](lov/1981-04-08-7/§85) annet ledd.
+For registrering av barn der far er registrert som gift med barnets mor og fødselen har funnet sted i en stat som nevnt i [§ 8-4-2](forskrift/2017-07-14-1201/§8-4-2) annet ledd, gjelder følgende:
+
+1. Når far er bosatt i Norge og pater est-regelen i [barnelova § 3](lov/1981-04-08-7/§3) gjelder, kreves DNA-test av mor og barn.
+2. Når far er bosatt utenfor Norge og
+
+   1. pater est-regelen gjelder i den stat barnet er født, vil farskap som følger direkte av utenlandsk lov legges til grunn i Norge uten noen godkjennelse, jf. [barnelova § 85](lov/1981-04-08-7/§85) første ledd. DNA-test av mor og barn må fremlegges.
+   2. pater est-regelen ikke gjelder i den stat barnet er født, må farskapet fastsettes etter lovgivningen i fødestaten og godkjennes av Arbeids- og velferdsetaten for å være gyldig i Norge, jf. [barnelova § 85](lov/1981-04-08-7/§85) annet ledd.
 
 ### § 8-4-6. Fødsel i en gruppe 2-stat og faren er ikke gift med barnets mor som er ugift
 
-Når far ikke er registrert som gift med barnets mor som er ugift og fødselen har funnet sted i stat som nevnt i [§ 8-4-2](forskrift/2017-07-14-1201/§8-4-2) annet ledd, gjelder følgende:Når far er bosatt i Norge ogfarskapet er erklært etter [barnelova § 4](lov/1981-04-08-7/§4), jf. [barnelova § 81](lov/1981-04-08-7/§81) første ledd litra c, er det krav om DNA-testing av mor og barn.farskapet ikke er erklært etter [barnelova § 4](lov/1981-04-08-7/§4), er vedkommende ikke å regne som far etter norsk rett, og det er således ingen fødsel som skal registreres.Når far er bosatt utenfor Norge, fastsettes farskapet etter lovgivningen i fødestaten og må godkjennes av Arbeids- og velferdsetaten for å være gyldig i Norge, jf. [barnelova § 85](lov/1981-04-08-7/§85) annet ledd.
+Når far ikke er registrert som gift med barnets mor som er ugift og fødselen har funnet sted i stat som nevnt i [§ 8-4-2](forskrift/2017-07-14-1201/§8-4-2) annet ledd, gjelder følgende:
+
+1. Når far er bosatt i Norge og
+
+   1. farskapet er erklært etter [barnelova § 4](lov/1981-04-08-7/§4), jf. [barnelova § 81](lov/1981-04-08-7/§81) første ledd litra c, er det krav om DNA-testing av mor og barn.
+   2. farskapet ikke er erklært etter [barnelova § 4](lov/1981-04-08-7/§4), er vedkommende ikke å regne som far etter norsk rett, og det er således ingen fødsel som skal registreres.
+2. Når far er bosatt utenfor Norge, fastsettes farskapet etter lovgivningen i fødestaten og må godkjennes av Arbeids- og velferdsetaten for å være gyldig i Norge, jf. [barnelova § 85](lov/1981-04-08-7/§85) annet ledd.
 
 ### § 8-4-7. Fødsel i en gruppe 2-stat og barnets mor er gift med en annen enn faren
 
-Når far ikke er registrert som gift med barnets mor og mor er gift med en annen, og fødselen har funnet sted i stat som nevnt i [§ 8-4-2](forskrift/2017-07-14-1201/§8-4-2) annet ledd, må farskapet overføres fra morens ektemann til den som har erklært farskapet. I slike tilfeller gjelder følgende:Når far er bosatt i Norge, kan farskap endres etter reglene i [barnelova § 7](lov/1981-04-08-7/§7).Når far er bosatt utenfor Norge, fastsettes farskapet etter lovgivningen i fødestaten og må godkjennes av Arbeids- og velferdsetaten for å være gyldig i Norge, jf. [barnelova § 85](lov/1981-04-08-7/§85) annet ledd.
+Når far ikke er registrert som gift med barnets mor og mor er gift med en annen, og fødselen har funnet sted i stat som nevnt i [§ 8-4-2](forskrift/2017-07-14-1201/§8-4-2) annet ledd, må farskapet overføres fra morens ektemann til den som har erklært farskapet. I slike tilfeller gjelder følgende:
+
+1. Når far er bosatt i Norge, kan farskap endres etter reglene i [barnelova § 7](lov/1981-04-08-7/§7).
+2. Når far er bosatt utenfor Norge, fastsettes farskapet etter lovgivningen i fødestaten og må godkjennes av Arbeids- og velferdsetaten for å være gyldig i Norge, jf. [barnelova § 85](lov/1981-04-08-7/§85) annet ledd.
 
 ### § 8-4-8. Når fødsel har funnet sted i en gruppe 3-stat
 
@@ -434,7 +629,11 @@ For registrering av separasjon/skilsmisse oppnådd i stat som nevnt i [§ 8-4-2]
 
 Der dokument om skilsmisse skal tjene som bevis ved inngåelse av nytt ekteskap, gjelder lov om anerkjennelse av utenlandske skilsmisser og separasjoner § 4.
 
-I øvrige tilfeller, jf. samme lov § 1 og § 2, har utenlandsk avgjørelse om separasjon/skilsmisse gyldighet i Norge og kan registreres dersomavgjørelsen/dommen er rettskraftig i vedkommende stat, ogminst en av ektefellene da saken ble reist hadde domisil eller var statsborger av vedkommende stat, ogavgjørelsen ikke vil virke åpenbart støtende på norsk rettsorden (ordre public).
+I øvrige tilfeller, jf. samme lov § 1 og § 2, har utenlandsk avgjørelse om separasjon/skilsmisse gyldighet i Norge og kan registreres dersom
+
+- avgjørelsen/dommen er rettskraftig i vedkommende stat, og
+- minst en av ektefellene da saken ble reist hadde domisil eller var statsborger av vedkommende stat, og
+- avgjørelsen ikke vil virke åpenbart støtende på norsk rettsorden (ordre public).
 
 ### D. Registrering av dødsfall som har skjedd utenfor Norge
 
@@ -488,7 +687,10 @@ For personer som utlendingsmyndighetene rekvirerer d-nummer til kan opplysninger
 
 Opplysninger om fødselsdato og fødested for personer født i en stat som nevnt i [§ 8-4-2](forskrift/2017-07-14-1201/§8-4-2) annet ledd, og som har fått innvilget norsk statsborgerskap, kan bare endres etter melding fra statsborgermyndighetene.
 
-I andre tilfeller kan registermyndigheten endre fødselsdato i følgende tilfeller:registrert fødselsdato kan endres når det foreligger en åpenbar skrivefeil eller i henhold til original og verifisert fødselsattest dersom attesten også viser at fødselen er registrert senest ett år etter at den fant stedfødselsdatoen kan i særlige tilfeller endres når det foreligger dokumentasjon som gir sannsynlighetsovervekt for at de nye opplysninger er korrekte.
+I andre tilfeller kan registermyndigheten endre fødselsdato i følgende tilfeller:
+
+1. registrert fødselsdato kan endres når det foreligger en åpenbar skrivefeil eller i henhold til original og verifisert fødselsattest dersom attesten også viser at fødselen er registrert senest ett år etter at den fant sted
+2. fødselsdatoen kan i særlige tilfeller endres når det foreligger dokumentasjon som gir sannsynlighetsovervekt for at de nye opplysninger er korrekte.
 
 Fødselsdatoen i identifikasjonsnummeret kan likevel ikke endres hvis antall individsiffer for den aktuelle fødselsdag og -måned er svært lavt.
 
@@ -536,7 +738,10 @@ Fødselsattest kan utstedes til personer som er adoptert i Norge og som er eller
 
 I tillegg til opplysninger som nevnt i [§ 10-7-2](forskrift/2017-07-14-1201/§10-7-2) skal fødselsattesten angi fødekommune.
 
-Attesten kan også, i tillegg til opplysninger som nevnt ovenfor, angi foreldrenes navn. Ellers gjelder følgende regler for en slik attest:I de tilfeller navnet er endret, skal det gis opplysning om endringen har skjedd ved bevilling/melding, når bevillingen/meldingen er gitt og av hvilken myndighet. Foreldrene skal føres opp med det navn de hadde på fødselstidspunktet til den person attesten gjelder.Dersom Folkeregisteret ikke har opplysning om et eller flere av foreldrenes navn, skal det stå «ikke meldt» i de felt på attesten dette gjelder.
+Attesten kan også, i tillegg til opplysninger som nevnt ovenfor, angi foreldrenes navn. Ellers gjelder følgende regler for en slik attest:
+
+1. I de tilfeller navnet er endret, skal det gis opplysning om endringen har skjedd ved bevilling/melding, når bevillingen/meldingen er gitt og av hvilken myndighet. Foreldrene skal føres opp med det navn de hadde på fødselstidspunktet til den person attesten gjelder.
+2. Dersom Folkeregisteret ikke har opplysning om et eller flere av foreldrenes navn, skal det stå «ikke meldt» i de felt på attesten dette gjelder.
 
 Attesten skal underskrives av den som registermyndigheten har gitt fullmakt.
 
@@ -560,7 +765,16 @@ Gebyret kan utgjøre 1/4 rettsgebyr pr. dag for manglende opplysninger fra perso
 
 Gebyret kan utgjøre ett rettsgebyr pr. dag når overtrederen ikke har overholdt de vilkår som følger av tillatelse om utlevering av folkeregisteropplysninger. Gebyret skal ikke settes høyere enn 100 ganger rettsgebyret pr. overtredelse.
 
-Ved utmåling av gebyrets størrelse for forhold som reguleres i [folkeregisterloven § 11-2](lov/2016-12-09-88/§11-2) litra b og c, kan det legges vekt påhvor alvorlig overtredelsen har krenket de interesser som folkeregisterloven verner,om det er utøvd uaktsomhet eller forsett,om overtrederen gjentatte ganger har overtrådt bestemmelsen,om overtredelsen er gjort i vinnings hensikt,om gebyret vil virke urimelig sett i forhold til overtrederens alder, helse m.m,om gebyret vil virke urimelig sett i forhold til overtrederens økonomiske situasjon.Er overtrederen et foretak, kan det legges vekt på forhold som nevnt i litra a, b, c, d og f.
+Ved utmåling av gebyrets størrelse for forhold som reguleres i [folkeregisterloven § 11-2](lov/2016-12-09-88/§11-2) litra b og c, kan det legges vekt på
+
+1. hvor alvorlig overtredelsen har krenket de interesser som folkeregisterloven verner,
+2. om det er utøvd uaktsomhet eller forsett,
+3. om overtrederen gjentatte ganger har overtrådt bestemmelsen,
+4. om overtredelsen er gjort i vinnings hensikt,
+5. om gebyret vil virke urimelig sett i forhold til overtrederens alder, helse m.m,
+6. om gebyret vil virke urimelig sett i forhold til overtrederens økonomiske situasjon.
+
+Er overtrederen et foretak, kan det legges vekt på forhold som nevnt i litra a, b, c, d og f.
 
 Ved utmåling av gebyr for overtredelse som reguleres i [folkeregisterlovens kapittel 10](lov/2016-12-09-88/kap10), kan det legges vekt på forhold som er nevnt i tredje ledd litra b, c, d og f.
 
@@ -582,7 +796,12 @@ Den som har mistet retten til å motta folkeregisteropplysninger etter [folkereg
 
 Registermyndigheten kan beregne lengden på tidsperioden for tap av rett til å motta folkeregisteropplysninger ut fra en konkret vurdering i den enkelte sak. Perioden kan uansett ikke settes kortere enn seks måneder og lengre enn to år.
 
-Ved utmåling av lengden på tidsperioden kan det legges vekt påhvor alvorlig overtredelsen har krenket de interesser som folkeregisterloven verner,om det er utøvd grov uaktsomhet eller forsett,om overtrederen har overtrådt vilkårene i en tidligere tillatelse,om overtredelsen er gjort i vinnings hensikt.
+Ved utmåling av lengden på tidsperioden kan det legges vekt på
+
+1. hvor alvorlig overtredelsen har krenket de interesser som folkeregisterloven verner,
+2. om det er utøvd grov uaktsomhet eller forsett,
+3. om overtrederen har overtrådt vilkårene i en tidligere tillatelse,
+4. om overtredelsen er gjort i vinnings hensikt.
 
 ### § 12-2-3. Foreldelsesfrist
 

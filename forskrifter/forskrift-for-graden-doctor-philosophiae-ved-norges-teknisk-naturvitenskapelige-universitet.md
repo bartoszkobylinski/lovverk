@@ -28,7 +28,12 @@ Doktorgraden skal kvalifisere for forskningsvirksomhet og for annet arbeid i sam
 
 ## § 2. Tildeling av doktorgrad
 
-Graden dr.philos. tildeles på grunnlag av:Godkjent vitenskapelig avhandlingGodkjent prøveforelesning over oppgitt emneGodkjent prøveforelesning over selvvalgt emneGodkjent forsvar i en offentlig disputas.
+Graden dr.philos. tildeles på grunnlag av:
+
+- Godkjent vitenskapelig avhandling
+- Godkjent prøveforelesning over oppgitt emne
+- Godkjent prøveforelesning over selvvalgt emne
+- Godkjent forsvar i en offentlig disputas.
 
 ## § 3. Retten til å framstille seg
 
@@ -38,7 +43,11 @@ Fakultetet kan etter særskilt vurdering gi søkere som på annen måte har godt
 
 Forskningsarbeidet og doktoravhandlingen skal være utført på egenhånd uten krav til formell tilknytning til universitetet.
 
-Den som ikke er norsk statsborger eller statsborger i annet nordisk land, har rett til å framstille seg for prøven dersom vedkommende fakultet etter begrunnet søknad og innstilling fra det aktuelle fagmiljø gir tillatelse til dette. Slik adgang kan innvilges dersom avhandlingenbehandler emner eller bygger på materiale som har direkte tilknytning til Norge,har sterk tilknytning til norsk forskning innen fagområdet,er utført under opphold ved norsk universitet eller forskningsinstitutt, eller i særlig kontakt med norske forskere.
+Den som ikke er norsk statsborger eller statsborger i annet nordisk land, har rett til å framstille seg for prøven dersom vedkommende fakultet etter begrunnet søknad og innstilling fra det aktuelle fagmiljø gir tillatelse til dette. Slik adgang kan innvilges dersom avhandlingen
+
+- behandler emner eller bygger på materiale som har direkte tilknytning til Norge,
+- har sterk tilknytning til norsk forskning innen fagområdet,
+- er utført under opphold ved norsk universitet eller forskningsinstitutt, eller i særlig kontakt med norske forskere.
 
 ## § 4. Krav til avhandlingen
 
@@ -80,7 +89,13 @@ Et innlevert arbeid kan ikke trekkes tilbake før det er endelig avgjort om det 
 
 Når fakultetet har godkjent søknad om å få avhandlingen bedømt, oppnevner det en sakkyndig komité på minst tre medlemmer som skal bedømme avhandlingen, prøveforelesningene og disputasen. Habilitetsreglene i [forvaltningsloven §§ 6](lov/1967-02-10/§6)–10 gjelder for komiteens medlemmer. Sampublisering med kandidaten vurderes alltid som inhabilitet.
 
-Bedømmelseskomiteen skal normalt settes sammen slik atminst to kjønn er representertminst to av medlemmene er uten tilknytning til NTNUminst ett av medlemmene har hovedstilling ved en utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanseflertallet i bedømmelseskomiteen er eksterne medlemmer.
+Bedømmelseskomiteen skal normalt settes sammen slik at
+
+- minst to kjønn er representert
+- minst to av medlemmene er uten tilknytning til NTNU
+- minst ett av medlemmene har hovedstilling ved en utenlandsk institusjon
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse
+- flertallet i bedømmelseskomiteen er eksterne medlemmer.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 

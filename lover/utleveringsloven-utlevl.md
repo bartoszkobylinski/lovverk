@@ -15,7 +15,7 @@ xml_hash: "286ec00422442a289eb011bb25dd2a370082ff92ec9a0e417889475a6e9837df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -65,7 +65,12 @@ Utlevering kan ikke skje dersom den vil komme i strid med grunnleggende humanit�
 
 1. Utlevering kan ikke skje når det her i riket er avsagt dom, vedtatt forelegg eller meddelt påtaleunnlatelse angående handlingen.
 2. Er forfølgningen mot en siktet innstilt av mangel på bevis, kan utlevering bare skje når vilkårene etter [straffeprosessloven § 74](lov/1981-05-22-25/§74) første og sjette ledd foreligger.
-3. Er straffansvaret for lovbruddet avgjort ved endelig dom i en annen fremmed stat enn den som har begjært utlevering, og er denne stat tilsluttet den europeiske utleveringskonvensjon 13 desember 1957, den europeiske konvensjon 28 mai 1970 om internasjonal gyldighet av straffedommer eller den europeiske konvensjon 15 mai 1972 om overføring av straffesaker, skal utlevering nektes såframthan ble frifunnet;han ble funnet skyldig uten at det ble fastsatt noen straffesanksjon;den idømte sanksjon er fullstendig fullbyrdet; ellerden idømte sanksjon er bortfalt etter domslandets regler.
+3. Er straffansvaret for lovbruddet avgjort ved endelig dom i en annen fremmed stat enn den som har begjært utlevering, og er denne stat tilsluttet den europeiske utleveringskonvensjon 13 desember 1957, den europeiske konvensjon 28 mai 1970 om internasjonal gyldighet av straffedommer eller den europeiske konvensjon 15 mai 1972 om overføring av straffesaker, skal utlevering nektes såframt
+
+   1. han ble frifunnet;
+   2. han ble funnet skyldig uten at det ble fastsatt noen straffesanksjon;
+   3. den idømte sanksjon er fullstendig fullbyrdet; eller
+   4. den idømte sanksjon er bortfalt etter domslandets regler.
 
 Forbudet mot utlevering etter dette ledd gjelder dog ikke når handlingen helt eller delvis er foretatt på den anmodendes stats territorium eller et sted som likestilles med dette, eller når handlingen var rettet mot en person, en institusjon eller annet som er av offentlig karakter i den anmodende stat, eller når gjerningsmannen selv hadde offentlig verv i denne stat.
 
@@ -94,7 +99,16 @@ Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller
 
 ### § 12
 
-1. Utlevering kan bare skje på følgende vilkår:Den utleverte skal ikke settes under rettsforfølgning eller straff fullbyrdes mot ham for noen annen før utleveringen begått straffbar handling enn den han er utlevert for, med mindredepartementet gir samtykke etter [§ 21](lov/1975-06-13-39/§21), ellerhan har unnlatt å forlate det land han er utlevert til, trass i at han i 45 dager uhindret har kunnet forlate det, ellerhan er frivillig vendt tilbake etter først å ha forlatt landet.Han må ikke utleveres videre til en tredje stat for noen straffbar handling begått før utleveringen herfra, uten i tilfelle som nevnt i bokstav a foran.Han må ikke uten departementets samtykke settes under rettsforfølgning ved ren provisorisk domstol eller en domstol som bare er kompetent til å behandle lovbrudd som det foreliggende i det enkelte tilfelle eller under spesielle unntaksforhold (ekstraordinær domstol).Dødsstraff må ikke fullbyrdes mot ham.
+1. Utlevering kan bare skje på følgende vilkår:
+
+   1. Den utleverte skal ikke settes under rettsforfølgning eller straff fullbyrdes mot ham for noen annen før utleveringen begått straffbar handling enn den han er utlevert for, med mindre
+
+      1. departementet gir samtykke etter [§ 21](lov/1975-06-13-39/§21), eller
+      2. han har unnlatt å forlate det land han er utlevert til, trass i at han i 45 dager uhindret har kunnet forlate det, eller
+      3. han er frivillig vendt tilbake etter først å ha forlatt landet.
+   2. Han må ikke utleveres videre til en tredje stat for noen straffbar handling begått før utleveringen herfra, uten i tilfelle som nevnt i bokstav a foran.
+   3. Han må ikke uten departementets samtykke settes under rettsforfølgning ved ren provisorisk domstol eller en domstol som bare er kompetent til å behandle lovbrudd som det foreliggende i det enkelte tilfelle eller under spesielle unntaksforhold (ekstraordinær domstol).
+   4. Dødsstraff må ikke fullbyrdes mot ham.
 2. Til utlevering kan knyttes ytterligere vilkår som det finnes grunn til.
 
 ## Kap. II. Behandlingen av utleveringssaker.
@@ -200,7 +214,11 @@ Departementet kan samtykke i at en person som utleveres fra en fremmed stat til 
 
 1. En begjæring om rettslig bistand fra utenlandsk myndighet i forbindelse med straffesak i fremmed stat som er fremsatt overfor departementet eller i samsvar med overenskomst med vedkommende stat, skal så vidt mulig etterkommes.
 2. Begjæringen skal avslås dersom gjennomføringen ville krenke Norges suverenitet, medføre fare for rikets sikkerhet eller stride mot rettsordenen eller andre vesentlige interesser.
-3. Begjæringen kan også avslås dersomden gjelder en handling som etter bestemmelsene i [§§ 4](lov/1975-06-13-39/§4) og [5](lov/1975-06-13-39/§5) ikke kan begrunne utlevering,den fullbyrdende myndighet har kjennskap til at det i Norge eller i en stat som er tilknyttet Schengen-samarbeidet eller Den europeiske union er avsagt dom eller foreligger annen avgjørelse som avskjærer videre strafforfølgning for det forhold begjæringen gjelder,det foreligger tungtveiende grunner for at begjæringen ikke bør etterkommes,
+3. Begjæringen kan også avslås dersom
+
+   1. den gjelder en handling som etter bestemmelsene i [§§ 4](lov/1975-06-13-39/§4) og [5](lov/1975-06-13-39/§5) ikke kan begrunne utlevering,
+   2. den fullbyrdende myndighet har kjennskap til at det i Norge eller i en stat som er tilknyttet Schengen-samarbeidet eller Den europeiske union er avsagt dom eller foreligger annen avgjørelse som avskjærer videre strafforfølgning for det forhold begjæringen gjelder,
+   3. det foreligger tungtveiende grunner for at begjæringen ikke bør etterkommes,
 4. Tredje ledd bokstav a gjelder ikke anmodning fra en stat som er tilsluttet Schengen-samarbeidet eller Den europeiske union.
 5. Det er ikke til hinder for gjennomføringen av anmodningen at handlingen som anmodningen gjelder, ikke er straffbar etter norsk rett. Dette gjelder likevel ikke anmodninger som involverer bruk av tvangsmidler, jf. [§ 24](lov/1975-06-13-39/§24) tredje ledd.
 

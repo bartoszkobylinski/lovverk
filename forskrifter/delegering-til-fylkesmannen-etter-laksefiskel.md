@@ -22,7 +22,9 @@ eu_basis: []
 
 # Delegering av myndighet til fylkesmannen etter lov om laksefisk og innlandsfisk m.v. § 33
 
-Klima- og miljødepartementet gjør følgende delegering av myndighet fra Direktoratet for naturforvaltning til fylkesmannen innenfor området:Myndighet etter [lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk m.v. [§ 33](lov/1992-05-15-47/§33), jf. [kgl.res. 27. november 1992 nr. 864](forskrift/1992-11-27-864) pkt. 2.
+Klima- og miljødepartementet gjør følgende delegering av myndighet fra Direktoratet for naturforvaltning til fylkesmannen innenfor området:
+
+- Myndighet etter [lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk m.v. [§ 33](lov/1992-05-15-47/§33), jf. [kgl.res. 27. november 1992 nr. 864](forskrift/1992-11-27-864) pkt. 2.
 
 Myndigheten delegeres fra og med inneværende sesong.
 

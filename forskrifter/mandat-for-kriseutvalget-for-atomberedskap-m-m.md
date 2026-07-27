@@ -15,7 +15,7 @@ xml_hash: "879dda46f4c2fb379510a5b875becd1d7634bf1ad57036994e10912bbaa8ad84"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -161,9 +161,19 @@ Den enkelte medlemsetat/-institusjon forutsettes å utarbeide beredskapsmanualer
 
 6.5 Sekretariatet har ansvaret for at det etableres tilstrekkelige informasjonsressurser for å håndtere hendelser innenfor Kriseutvalgets mandat. Sekretariatet skal søke samarbeid med andre etater og direktorater som har oppgaver innenfor informasjonsberedskap, med sikte på å samordne og koordinere informasjonsarbeidet innenfor ulike beredskapsområder.
 
-Ved en akutt atomhendelse kan Kriseutvalget styrke Sekretariatets informasjonsarbeid ved å be om informasjonsfaglig bistand og få tilført ressurser fra den informasjonspoolen som er opprettet og som administreres av Direktoratet for samfunnssikkerhet og beredskap. Informasjonsenheten skal under en akutt hendelse:bistå Kriseutvalget med å utarbeide kommunikasjonsstrategier tilpasset den aktuelle hendelsen,foreslå og iverksette kommunikasjonstiltak for Kriseutvalget i de ulike fasene av hendelsen, ogbistå Kriseutvalget med formidling av koordinert informasjon til publikum og medier.
+Ved en akutt atomhendelse kan Kriseutvalget styrke Sekretariatets informasjonsarbeid ved å be om informasjonsfaglig bistand og få tilført ressurser fra den informasjonspoolen som er opprettet og som administreres av Direktoratet for samfunnssikkerhet og beredskap. Informasjonsenheten skal under en akutt hendelse:
 
-I det løpende arbeidet skal sekretariatet:bistå Kriseutvalget med å utarbeide informasjonsstrategier,delta i det løpende beredskapsarbeidet med å formidle informasjon,gjennomføre kompetansehevende tiltak,utarbeide standard informasjonsmateriale, ogtilrettelegge for, delta i og bidra til læring fra øvelser.
+- bistå Kriseutvalget med å utarbeide kommunikasjonsstrategier tilpasset den aktuelle hendelsen,
+- foreslå og iverksette kommunikasjonstiltak for Kriseutvalget i de ulike fasene av hendelsen, og
+- bistå Kriseutvalget med formidling av koordinert informasjon til publikum og medier.
+
+I det løpende arbeidet skal sekretariatet:
+
+- bistå Kriseutvalget med å utarbeide informasjonsstrategier,
+- delta i det løpende beredskapsarbeidet med å formidle informasjon,
+- gjennomføre kompetansehevende tiltak,
+- utarbeide standard informasjonsmateriale, og
+- tilrettelegge for, delta i og bidra til læring fra øvelser.
 
 Andre etater/institusjoner som er representert i Kriseutvalget/Kriseutvalgets rådgivere, involveres i dette arbeidet etter behov.
 

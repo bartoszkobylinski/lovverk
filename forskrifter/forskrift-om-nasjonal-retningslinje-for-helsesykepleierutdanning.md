@@ -44,91 +44,169 @@ Helsesykepleierutdanningen er praksisnær og forskningsbasert, og skal møte sam
 
 ### § 3. Kompetanseområder
 
-Helsesykepleierutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1458/kap2) til [7](forskrift/2025-07-04-1458/kap7) for utdanning på 120 studiepoeng og [kapittel 2](forskrift/2025-07-04-1458/kap2) til [6](forskrift/2025-07-04-1458/kap6) for utdanning på 90 studiepoeng, under følgende kompetanseområder:FolkehelsearbeidBarn, unge og deres familie/omsorgsgivereKommunikasjon, relasjon og samhandlingLedelse, tjenesteforbedring og innovasjonForskning, formidling og fagutvikling del IForskning, formidling og fagutvikling del II.
+Helsesykepleierutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1458/kap2) til [7](forskrift/2025-07-04-1458/kap7) for utdanning på 120 studiepoeng og [kapittel 2](forskrift/2025-07-04-1458/kap2) til [6](forskrift/2025-07-04-1458/kap6) for utdanning på 90 studiepoeng, under følgende kompetanseområder:
+
+- Folkehelsearbeid
+- Barn, unge og deres familie/omsorgsgivere
+- Kommunikasjon, relasjon og samhandling
+- Ledelse, tjenesteforbedring og innovasjon
+- Forskning, formidling og fagutvikling del I
+- Forskning, formidling og fagutvikling del II.
 
 ## Kapittel 2. Læringsutbytte for kompetanseområdet folkehelsearbeid
 
 ### § 4. Folkehelsearbeid – Kunnskap
 
-Kandidatenhar avansert kunnskap om helsefremmende og forebyggende arbeid på individ-, gruppe- og befolkningsnivåhar kunnskap om helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike brukergruppers sykdomshåndtering, mestring og egenomsorg og evne til å forstå, vurdere og anvende helseinformasjonhar inngående kunnskap om aktuelt lovverk, nasjonale faglige retningslinjer, politiske føringer og administrative virkemidler som legger premissene for det helsefremmende og forebyggende arbeidet i kommunale helse- og omsorgstjenesterhar bred kunnskap om særlige faktorer som etnisk diskriminering, hatytringer og rasisme som påvirker folkehelsen til samisk barn og ungehar inngående kunnskap om epidemiologi.
+Kandidaten
+
+1. har avansert kunnskap om helsefremmende og forebyggende arbeid på individ-, gruppe- og befolkningsnivå
+2. har kunnskap om helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike brukergruppers sykdomshåndtering, mestring og egenomsorg og evne til å forstå, vurdere og anvende helseinformasjon
+3. har inngående kunnskap om aktuelt lovverk, nasjonale faglige retningslinjer, politiske føringer og administrative virkemidler som legger premissene for det helsefremmende og forebyggende arbeidet i kommunale helse- og omsorgstjenester
+4. har bred kunnskap om særlige faktorer som etnisk diskriminering, hatytringer og rasisme som påvirker folkehelsen til samisk barn og unge
+5. har inngående kunnskap om epidemiologi.
 
 ### § 5. Folkehelsearbeid – Ferdigheter
 
-Kandidatenkan anvende kunnskapsbaserte tilnærminger i helsefremmende og forebyggende arbeid og endringsarbeid i møte med individ, grupper og befolkningkan bruke relevante kilder og en kunnskapsbasert tilnærming for systematisk folkehelsearbeid, herunder kunnskap om påvirkningsfaktorers betydningkan identifisere behov for, kartlegge, initiere og utføre smittevernarbeid, herunder barnevaksinasjonsprogrammet.
+Kandidaten
+
+1. kan anvende kunnskapsbaserte tilnærminger i helsefremmende og forebyggende arbeid og endringsarbeid i møte med individ, grupper og befolkning
+2. kan bruke relevante kilder og en kunnskapsbasert tilnærming for systematisk folkehelsearbeid, herunder kunnskap om påvirkningsfaktorers betydning
+3. kan identifisere behov for, kartlegge, initiere og utføre smittevernarbeid, herunder barnevaksinasjonsprogrammet.
 
 ### § 6. Folkehelsearbeid – Generell kompetanse
 
-Kandidatenkan bidra til forståelse og respekt for menneskers forutsetninger og vilkår for livsvalg, utvikling og helsekan anvende kunnskap og ferdigheter om urbefolkning, migranter og minoriteters særlige behov og utøver en kultursensitiv tilnærming i arbeidetkan planlegge og gjennomføre tiltak som bidrar til å redusere sosiale ulikheter i helse.
+Kandidaten
+
+1. kan bidra til forståelse og respekt for menneskers forutsetninger og vilkår for livsvalg, utvikling og helse
+2. kan anvende kunnskap og ferdigheter om urbefolkning, migranter og minoriteters særlige behov og utøver en kultursensitiv tilnærming i arbeidet
+3. kan planlegge og gjennomføre tiltak som bidrar til å redusere sosiale ulikheter i helse.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet barn, unge og deres familie/omsorgsgivere
 
 ### § 7. Barn, unge og deres familie/omsorgsgivere – Kunnskap
 
-Kandidatenhar avansert kunnskap om spedbarn, barn og unges fysiske, psykiske, seksuelle og sosiale helse og utviklinghar inngående kunnskap om barn og unges beskyttelses- og risikofaktorerhar inngående kunnskap om tilknytning og samspill, familiens funksjon, behov og utfordringer, og identifiserer avvik, vurderer og følger opp familierhar inngående kunnskap om barn og unge som pårørende og virkningen av kriser, traumer og belastningerhar avansert kunnskap om samiske barns rett til samisk språk, og om oppfølging av barnets språkutvikling, om nødvendig i samarbeid med andre instanser.
+Kandidaten
+
+1. har avansert kunnskap om spedbarn, barn og unges fysiske, psykiske, seksuelle og sosiale helse og utvikling
+2. har inngående kunnskap om barn og unges beskyttelses- og risikofaktorer
+3. har inngående kunnskap om tilknytning og samspill, familiens funksjon, behov og utfordringer, og identifiserer avvik, vurderer og følger opp familier
+4. har inngående kunnskap om barn og unge som pårørende og virkningen av kriser, traumer og belastninger
+5. har avansert kunnskap om samiske barns rett til samisk språk, og om oppfølging av barnets språkutvikling, om nødvendig i samarbeid med andre instanser.
 
 ### § 8. Barn, unge og deres familie/omsorgsgivere – Ferdigheter
 
-Kandidatenkan anvende kunnskapsbaserte metoder for å fremme informerte helsevalg, mestring og livskvalitet hos barn, unge og deres familie/omsorgsgiverekan bruke relevante metoder for å selvstendig kartlegge og vurdere barn og unges helse, identifisere utviklingsavvik, sykdom og funksjonsnedsettelse, og iverksette tiltak etter behovkan forebygge, identifisere og avverge psykososiale belastninger, omsorgssvikt, vold, seksuelle overgrep, rusmisbruk, selvskading og selvmordsatferd og iverksette relevante tiltakkan forebygge, avdekke og følge opp fysiske og psykiske helseplager hos barn og ungekan selvstendig veilede om, rekvirere og administrere prevensjonsmidler, herunder langtidsvirkende prevensjonsmidlerkan selvstendig veilede om ernæring, ernæringsutfordringer, amming og vekst og henvise videre ved behovkan anvende kunnskap om de vanligste fysiologiske og patofysiologiske prosesser, sykdom og sykdomslære hos nyfødte, barn og ungdomkan anvende kunnskap om barn og unges bruk av digitale arenaer for å forstå og iverksette tiltak ved behov.
+Kandidaten
+
+1. kan anvende kunnskapsbaserte metoder for å fremme informerte helsevalg, mestring og livskvalitet hos barn, unge og deres familie/omsorgsgivere
+2. kan bruke relevante metoder for å selvstendig kartlegge og vurdere barn og unges helse, identifisere utviklingsavvik, sykdom og funksjonsnedsettelse, og iverksette tiltak etter behov
+3. kan forebygge, identifisere og avverge psykososiale belastninger, omsorgssvikt, vold, seksuelle overgrep, rusmisbruk, selvskading og selvmordsatferd og iverksette relevante tiltak
+4. kan forebygge, avdekke og følge opp fysiske og psykiske helseplager hos barn og unge
+5. kan selvstendig veilede om, rekvirere og administrere prevensjonsmidler, herunder langtidsvirkende prevensjonsmidler
+6. kan selvstendig veilede om ernæring, ernæringsutfordringer, amming og vekst og henvise videre ved behov
+7. kan anvende kunnskap om de vanligste fysiologiske og patofysiologiske prosesser, sykdom og sykdomslære hos nyfødte, barn og ungdom
+8. kan anvende kunnskap om barn og unges bruk av digitale arenaer for å forstå og iverksette tiltak ved behov.
 
 ### § 9. Barn, unge og deres familie/omsorgsgivere – generell kompetanse
 
-Kandidatenkan analysere faglige og etiske problemstillinger innen helsesykepleiekan analysere faglige problemstillinger med medisinsk- og helsefaglig personell og andre profesjonsgrupper, for å bidra til forsvarlige helsetjenester til barn, unge og deres familie/omsorgsgivere.
+Kandidaten
+
+1. kan analysere faglige og etiske problemstillinger innen helsesykepleie
+2. kan analysere faglige problemstillinger med medisinsk- og helsefaglig personell og andre profesjonsgrupper, for å bidra til forsvarlige helsetjenester til barn, unge og deres familie/omsorgsgivere.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet kommunikasjon, relasjon og samhandling
 
 ### § 10. Kommunikasjon, relasjon og samhandling – Kunnskap
 
-Kandidatenhar avansert kunnskap om kommunikasjon og relasjonsbygginghar spesialisert kunnskap om samhandling, tverrfaglig og tverrsektorielt samarbeid og tjenestekoordinering på individ-, gruppe- og systemnivåhar inngående kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, språk, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk, alder og familieform.
+Kandidaten
+
+1. har avansert kunnskap om kommunikasjon og relasjonsbygging
+2. har spesialisert kunnskap om samhandling, tverrfaglig og tverrsektorielt samarbeid og tjenestekoordinering på individ-, gruppe- og systemnivå
+3. har inngående kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, språk, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk, alder og familieform.
 
 ### § 11. Kommunikasjon, relasjon og samhandling – Ferdigheter
 
-Kandidatenkan bruke kunnskapsbaserte og helsepedagogiske metoder i helseopplysning, veiledning og rådgivningkan bruke relevante metoder for å undervise i helsefremmende og forebyggende arbeid og endringsarbeid på en selvstendig måte.
+Kandidaten
+
+1. kan bruke kunnskapsbaserte og helsepedagogiske metoder i helseopplysning, veiledning og rådgivning
+2. kan bruke relevante metoder for å undervise i helsefremmende og forebyggende arbeid og endringsarbeid på en selvstendig måte.
 
 ### § 12. Kommunikasjon, relasjon og samhandling – Generell kompetanse
 
-Kandidatenkan formidle trygghet og tillit i møte med barn, unge og deres familie/omsorgsgiverkan ivareta brukermedvirkning på individ-, gruppe- og systemnivåkan anvende sine kunnskaper og ferdigheter til å arbeide kultursensitivt, samt å kunne kommunisere via tolk.
+Kandidaten
+
+1. kan formidle trygghet og tillit i møte med barn, unge og deres familie/omsorgsgiver
+2. kan ivareta brukermedvirkning på individ-, gruppe- og systemnivå
+3. kan anvende sine kunnskaper og ferdigheter til å arbeide kultursensitivt, samt å kunne kommunisere via tolk.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet ledelse, tjenesteforbedring og innovasjon
 
 ### § 13. Ledelse, tjenesteforbedring og innovasjon – Kunnskap
 
-Kandidatenhar inngående kunnskap om teorier og metoder knyttet til ledelse, fagutvikling og tjenesteforbedring innenfor fagområdethar avansert kunnskap om bruk av teknologi i helsesektoren herunder relevante digitale løsninger og arbeidsprosesser.
+Kandidaten
+
+1. har inngående kunnskap om teorier og metoder knyttet til ledelse, fagutvikling og tjenesteforbedring innenfor fagområdet
+2. har avansert kunnskap om bruk av teknologi i helsesektoren herunder relevante digitale løsninger og arbeidsprosesser.
 
 ### § 14. Ledelse, tjenesteforbedring og innovasjon – Ferdigheter
 
-Kandidatenkan planlegge, administrere, lede og utvikle helsesykepleiers arbeid i overensstemmelse med lover, forskrifter og rammebetingelserkan arbeide systematisk med kvalitetsforbedring og pasientsikkerhet, herunder dokumentasjons- og meldepliktkan på en etisk og faglig forsvarlig måte, anvende digitale arenaer til å veilede og samhandle med barn, unge og familie/omsorgsgivere.
+Kandidaten
+
+1. kan planlegge, administrere, lede og utvikle helsesykepleiers arbeid i overensstemmelse med lover, forskrifter og rammebetingelser
+2. kan arbeide systematisk med kvalitetsforbedring og pasientsikkerhet, herunder dokumentasjons- og meldeplikt
+3. kan på en etisk og faglig forsvarlig måte, anvende digitale arenaer til å veilede og samhandle med barn, unge og familie/omsorgsgivere.
 
 ### § 15. Ledelse, tjenesteforbedring og innovasjon – Generell kompetanse
 
-Kandidatenkan bidra til utvikling og innovasjon i helsesykepleiers arbeidkan analysere helsesykepleiers arbeid i et globalt perspektivkan anvende sine kunnskaper og ferdigheter til å lede eget arbeid, analysere egen kompetanse og har innsikt i andre profesjoners kompetanse og etater og sektorers tjenestetilbudkan anvende kunnskap og ferdigheter for selvivaretakelse, er bevisst egen sårbarhet og har evne til å søke veiledning.
+Kandidaten
+
+1. kan bidra til utvikling og innovasjon i helsesykepleiers arbeid
+2. kan analysere helsesykepleiers arbeid i et globalt perspektiv
+3. kan anvende sine kunnskaper og ferdigheter til å lede eget arbeid, analysere egen kompetanse og har innsikt i andre profesjoners kompetanse og etater og sektorers tjenestetilbud
+4. kan anvende kunnskap og ferdigheter for selvivaretakelse, er bevisst egen sårbarhet og har evne til å søke veiledning.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet forskning, formidling og fagutvikling del I
 
 ### § 16. Forskning, formidling og fagutvikling – Kunnskap
 
-Kandidatenhar inngående kunnskap om fagområdets historie, vitenskapsteori, forskningsmetoder og forskningsetikk.
+Kandidaten
+
+1. har inngående kunnskap om fagområdets historie, vitenskapsteori, forskningsmetoder og forskningsetikk.
 
 ### § 17. Forskning, formidling og fagutvikling – Ferdigheter
 
-Kandidatenkan analysere kilder, kliniske, faglige og etiske problemstillinger med implikasjon for helsesykepleiepraksiskan planlegge og gjennomføre et selvstendig fagutviklingsarbeid.
+Kandidaten
+
+1. kan analysere kilder, kliniske, faglige og etiske problemstillinger med implikasjon for helsesykepleiepraksis
+2. kan planlegge og gjennomføre et selvstendig fagutviklingsarbeid.
 
 ### § 18. Forskning, formidling og fagutvikling – Generell kompetanse
 
-Kandidatenkan formidle eget fag og forskning i møte med befolkning, samarbeidspartnere, og beslutningstakere lokalt, nasjonalt og globaltkan anvende sine kunnskaper og ferdigheter til å innhente relevant forskningsbasert kunnskap og kritisk vurdere kvalitet, resultater og konklusjon og vurdere overførbarhet og implikasjoner for egen praksis.
+Kandidaten
+
+1. kan formidle eget fag og forskning i møte med befolkning, samarbeidspartnere, og beslutningstakere lokalt, nasjonalt og globalt
+2. kan anvende sine kunnskaper og ferdigheter til å innhente relevant forskningsbasert kunnskap og kritisk vurdere kvalitet, resultater og konklusjon og vurdere overførbarhet og implikasjoner for egen praksis.
 
 ## Kapittel 7. Læringsutbytte for kompetanseområdet forskning, formidling og fagutvikling del II
 
 ### § 19. Fordypning i forskning, formidling og fagutvikling – Kunnskap
 
-Kandidatenhar inngående kompetanse om kliniske studier som forskningsmetodehar inngående kunnskap om en valgt problemstilling innen helsesykepleiers fagområde.
+Kandidaten
+
+1. har inngående kompetanse om kliniske studier som forskningsmetode
+2. har inngående kunnskap om en valgt problemstilling innen helsesykepleiers fagområde.
 
 ### § 20. Fordypning i forskning, formidling og fagutvikling – Ferdigheter
 
-Kandidatenkan selvstendig anvende, analysere og fortolke relevante teorier og metoderkan gjennomføre et avgrenset vitenskapelig arbeid i tråd med forskningsetiske retningslinjer under veiledning.
+Kandidaten
+
+1. kan selvstendig anvende, analysere og fortolke relevante teorier og metoder
+2. kan gjennomføre et avgrenset vitenskapelig arbeid i tråd med forskningsetiske retningslinjer under veiledning.
 
 ### § 21. Fordypning i forskning, formidling og fagutvikling? Generell kompetanse
 
-Kandidatenkan identifisere aktuelle forskningsområder, og bidra til utvikling av ny kunnskap innen sitt fagområde.
+Kandidaten
+
+1. kan identifisere aktuelle forskningsområder, og bidra til utvikling av ny kunnskap innen sitt fagområde.
 
 ## Kapittel 8. Studiets oppbygning og praksisstudier
 

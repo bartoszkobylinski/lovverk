@@ -28,7 +28,16 @@ Med vesentlige investeringer menes erverv eller fremstilling av avskrivbare drif
 
 ## § 2.
 
-Med arbeidsmiljøhensyn menes hensynet til faktorer som har innvirkning på arbeidsmiljø, f.eks.:Produksjonslokaler, interne atkomstveier, personellrom m.v.Lys og stråling.Klima, herunder luftvolum, ventilasjon, fuktighet, temperatur o.l.Forurensninger i form av støv, røyk, gass, damp, sjenerende lukt.Støy og vibrasjon.Ergonomiske faktorer.Psyko-sosiale faktorer.Ulykkerisiko.
+Med arbeidsmiljøhensyn menes hensynet til faktorer som har innvirkning på arbeidsmiljø, f.eks.:
+
+1. Produksjonslokaler, interne atkomstveier, personellrom m.v.
+2. Lys og stråling.
+3. Klima, herunder luftvolum, ventilasjon, fuktighet, temperatur o.l.
+4. Forurensninger i form av støv, røyk, gass, damp, sjenerende lukt.
+5. Støy og vibrasjon.
+6. Ergonomiske faktorer.
+7. Psyko-sosiale faktorer.
+8. Ulykkerisiko.
 
 ## § 3.
 
@@ -50,7 +59,14 @@ Den myndighet som er tillagt departementet i [lovens § 3](forskrift/1976-05-14-
 
 ## § 7.
 
-Søknad om samtykke til frigivning av avsatte midler skal sendes Arbeidstilsynets distriktskontor. Denne søknad bør bl.a. inneholde:Opplysninger om bakgrunn for tiltaket. Det bør herunder opplyses om Statens arbeidstilsyn har henstilt til bedriften å foreta bedring av arbeidsmiljøet, eller om det er gitt pålegg om dette.Kort teknisk beskrivelse av investeringstiltaket. Dersom tiltaket har nær sammenheng med andre ombygginger eller nybygginger, skal det kort redegjøres for dette.Kostnadsoverslag.Vurdering av tiltakets virkninger på arbeidsmiljøet.Vurdering av tiltakets betydning for produksjonen.Uttalelse fra representanter for de ansatte, jfr. [§ 3](forskrift/1976-05-14-1/§3).
+Søknad om samtykke til frigivning av avsatte midler skal sendes Arbeidstilsynets distriktskontor. Denne søknad bør bl.a. inneholde:
+
+1. Opplysninger om bakgrunn for tiltaket. Det bør herunder opplyses om Statens arbeidstilsyn har henstilt til bedriften å foreta bedring av arbeidsmiljøet, eller om det er gitt pålegg om dette.
+2. Kort teknisk beskrivelse av investeringstiltaket. Dersom tiltaket har nær sammenheng med andre ombygginger eller nybygginger, skal det kort redegjøres for dette.
+3. Kostnadsoverslag.
+4. Vurdering av tiltakets virkninger på arbeidsmiljøet.
+5. Vurdering av tiltakets betydning for produksjonen.
+6. Uttalelse fra representanter for de ansatte, jfr. [§ 3](forskrift/1976-05-14-1/§3).
 
 ## § 8.
 

@@ -68,7 +68,14 @@ Søkeren må ha generell studiekompetanse i samsvar med [forskrift om opptak til
 
 Søkere som ikke har generell studiekompetanse, har krav på å bli vurdert etter unntaksbestemmelsene i forskrift om høgare utdanning kapittel 3.
 
-Søkeren må oppfylle følgende spesielle opptakskrav i tillegg til generell studiekompetanse:Vandel det ikke er noe å utsette på, jf. [straffegjennomføringsloven § 8](lov/2001-05-18-21/§8)Fylt 20 år i opptaksåretFørerkort klasse BOppfylle medisinske krav fastsatt av KRUSTilfredsstillende fysikk, herunder bestå en fysisk funksjonstest fastsatt av KRUSPersonlige egenskaper som gjør søkeren kvalifisert for tjeneste i kriminalomsorgen.
+Søkeren må oppfylle følgende spesielle opptakskrav i tillegg til generell studiekompetanse:
+
+1. Vandel det ikke er noe å utsette på, jf. [straffegjennomføringsloven § 8](lov/2001-05-18-21/§8)
+2. Fylt 20 år i opptaksåret
+3. Førerkort klasse B
+4. Oppfylle medisinske krav fastsatt av KRUS
+5. Tilfredsstillende fysikk, herunder bestå en fysisk funksjonstest fastsatt av KRUS
+6. Personlige egenskaper som gjør søkeren kvalifisert for tjeneste i kriminalomsorgen.
 
 Kravene a til d må dokumenteres av søkeren. Kravene e og f blir vurdert gjennom opptaksprøver. Reelle søkere for opptak må levere uttømmende politiattest og legeerklæring.
 

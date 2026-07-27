@@ -15,7 +15,7 @@ xml_hash: "3208a06d1bb3b7bc4b1ea198fb2f66ab64d600275d8a8e8fc68f5bfbb13833bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,10 @@ Sentrale ord og uttrykk brukt i forskriften er definert i vedlegg 13.
 
 ### § 4. Planteskadegjørere som er forbudt å spre
 
-Det er forbudt:å spre planteskadegjørere nevnt i vedlegg 1å spre planteskadegjørere nevnt i vedlegg 2 dersom de forekommer på planter og andre smittebærende emner angitt i vedlegget.
+Det er forbudt:
+
+1. å spre planteskadegjørere nevnt i vedlegg 1
+2. å spre planteskadegjørere nevnt i vedlegg 2 dersom de forekommer på planter og andre smittebærende emner angitt i vedlegget.
 
 ### § 5. Særskilte krav for å hindre spredning av planteskadegjørere
 
@@ -58,7 +61,16 @@ Det er forbudt å plante eller omsette planter nevnt i vedlegg 7.
 
 ### § 6. Fastsetting av tiltak
 
-Mattilsynet kan når det foreligger risiko for spredning av planteskadegjørere nevnt i vedleggene 1, 2 og 6, fastsette tiltak for å utrydde, hindre smittespredning eller begrense utbredelsen av planteskadegjørerne. Med dette formål kan Mattilsynet bl.a.:forby eller sette vilkår for avhending av planter og plantematerialepåby destruksjon av planter og plantematerialepåby desinfeksjon og andre tiltak for å sanere eller bekjempe mulig smittelegge jord i karanteneforby maskinsamarbeidforby såing eller planting av visse planteslaggi påbud om vekstskiftefastsette sikkerhetssoner og iverksette ovennevnte tiltak innenfor disse.
+Mattilsynet kan når det foreligger risiko for spredning av planteskadegjørere nevnt i vedleggene 1, 2 og 6, fastsette tiltak for å utrydde, hindre smittespredning eller begrense utbredelsen av planteskadegjørerne. Med dette formål kan Mattilsynet bl.a.:
+
+1. forby eller sette vilkår for avhending av planter og plantemateriale
+2. påby destruksjon av planter og plantemateriale
+3. påby desinfeksjon og andre tiltak for å sanere eller bekjempe mulig smitte
+4. legge jord i karantene
+5. forby maskinsamarbeid
+6. forby såing eller planting av visse planteslag
+7. gi påbud om vekstskifte
+8. fastsette sikkerhetssoner og iverksette ovennevnte tiltak innenfor disse.
 
 > Endret ved [forskrift 9 jan 2004 nr. 159](forskrift/2004-01-09-159).
 
@@ -68,9 +80,23 @@ Mattilsynet kan når det foreligger risiko for spredning av planteskadegjørere 
 
 ### § 7. Registrering av virksomheter
 
-Den som vil drive følgende virksomhet skal registrere virksomheten hos Mattilsynet før oppstart:virksomhet som produserer planteskoleplanter for omsetningvirksomhet som oppbevarer og omsetter planteskoleplanter i mer enn fem måneder i åretvirksomhet som produserer andre planter og formeringsmateriale enn planteskoleplanter for omsetning til omsetningsledd eller til ervervsmessig dyrkingvirksomhet som omsetter andre planter og formeringsmateriale enn planteskoleplanter til omsetningsledd eller til ervervsmessig dyrkingvirksomhet som mottar poteter eller uvaskede grønnsaker med rot, for sortering, pakking, vasking eller industriell bearbeidingvirksomhet som importerer planter og andre smittebærende emner som er sertifikatpliktige etter [§ 19](forskrift/2000-12-01-1333/§19) eller etter forskrift om tiltak mot *Phytophthora ramorum* [§ 4](forskrift/2000-12-01-1333/§4)virksomhet som etter avtale med importører utfører mottakskontroll ved import av planter og andre smittebærende emner som er sertifikatpliktige etter [§ 19](forskrift/2000-12-01-1333/§19) eller etter forskrift om tiltak mot *Phytophthora ramorum* [§ 4](forskrift/2000-12-01-1333/§4)virksomhet som eksporterer varer som importlandet krever at er fulgt av sunnhetssertifikat eller reeksportsertifikat.
+Den som vil drive følgende virksomhet skal registrere virksomheten hos Mattilsynet før oppstart:
 
-Registreringen skal gjøres på den måten Mattilsynet bestemmer og skal minst inneholde disse opplysningene:virksomhetens navn, adresse og organisasjonsnummerkontaktperson i virksomhetenangivelse av virksomhetens aktiviteter og omfangdato for oppstart av virksomheten.
+1. virksomhet som produserer planteskoleplanter for omsetning
+2. virksomhet som oppbevarer og omsetter planteskoleplanter i mer enn fem måneder i året
+3. virksomhet som produserer andre planter og formeringsmateriale enn planteskoleplanter for omsetning til omsetningsledd eller til ervervsmessig dyrking
+4. virksomhet som omsetter andre planter og formeringsmateriale enn planteskoleplanter til omsetningsledd eller til ervervsmessig dyrking
+5. virksomhet som mottar poteter eller uvaskede grønnsaker med rot, for sortering, pakking, vasking eller industriell bearbeiding
+6. virksomhet som importerer planter og andre smittebærende emner som er sertifikatpliktige etter [§ 19](forskrift/2000-12-01-1333/§19) eller etter forskrift om tiltak mot *Phytophthora ramorum* [§ 4](forskrift/2000-12-01-1333/§4)
+7. virksomhet som etter avtale med importører utfører mottakskontroll ved import av planter og andre smittebærende emner som er sertifikatpliktige etter [§ 19](forskrift/2000-12-01-1333/§19) eller etter forskrift om tiltak mot *Phytophthora ramorum* [§ 4](forskrift/2000-12-01-1333/§4)
+8. virksomhet som eksporterer varer som importlandet krever at er fulgt av sunnhetssertifikat eller reeksportsertifikat.
+
+Registreringen skal gjøres på den måten Mattilsynet bestemmer og skal minst inneholde disse opplysningene:
+
+1. virksomhetens navn, adresse og organisasjonsnummer
+2. kontaktperson i virksomheten
+3. angivelse av virksomhetens aktiviteter og omfang
+4. dato for oppstart av virksomheten.
 
 Dersom en virksomhet har flere underenheter med eget organisasjonsnummer i Enhetsregisteret, skal hver underenhet registreres. Mattilsynet kan kreve at registrerte opplysninger dokumenteres. Endringer i registrerte opplysninger, herunder opplysninger om opphør av virksomheten, skal registreres senest fire uker etter at endringene har funnet sted.
 
@@ -84,7 +110,13 @@ Paragrafen her gjelder bare virksomheter som er registreringspliktige etter merv
 
 ### § 9. Internkontroll
 
-Virksomheter som er underlagt registreringsplikt etter [§ 7](forskrift/2000-12-01-1333/§7) eller krav om godkjenning etter [§ 28a](forskrift/2000-12-01-1333/§28a) femte ledd plikter å innføre og utøve internkontroll. Den ansvarlige for virksomheten skal sørge for at plikten til internkontroll overholdes. Internkontroll innebærer at virksomheten skal:ha oversikt over organisering og ansvarsforholdha nødvendig dokumentasjon vedrørende produksjon, omsetning, import og eksportkartlegge risiko for overtredelse av bestemmelsene i gjeldende regelverk ut fra virksomhetens aktiviteter og iverksette tiltak for å redusere risikoenha rutiner for å avdekke, rette opp og hindre gjentakelser av overtredelserforeta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
+Virksomheter som er underlagt registreringsplikt etter [§ 7](forskrift/2000-12-01-1333/§7) eller krav om godkjenning etter [§ 28a](forskrift/2000-12-01-1333/§28a) femte ledd plikter å innføre og utøve internkontroll. Den ansvarlige for virksomheten skal sørge for at plikten til internkontroll overholdes. Internkontroll innebærer at virksomheten skal:
+
+1. ha oversikt over organisering og ansvarsforhold
+2. ha nødvendig dokumentasjon vedrørende produksjon, omsetning, import og eksport
+3. kartlegge risiko for overtredelse av bestemmelsene i gjeldende regelverk ut fra virksomhetens aktiviteter og iverksette tiltak for å redusere risikoen
+4. ha rutiner for å avdekke, rette opp og hindre gjentakelser av overtredelser
+5. foreta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
 
 Ovennevnte punkter skal dokumenteres skriftlig i den form og det omfang som er nødvendig på bakgrunn av virksomhetens art, aktiviteter, risikoforhold og størrelse. Dokumentasjonen skal være tilgjengelig for Mattilsynet.
 
@@ -98,13 +130,22 @@ Mattilsynet kan gi nærmere bestemmelser om innholdet i internkontrollen.
 
 ### § 10. Krav til kvalitet
 
-Planter og formeringsmateriale skal ved omsetningi tillegg til kravene i [§ 4](forskrift/2000-12-01-1333/§4), være praktisk talt fri for andre planteskadegjørere enn de som er nevnt i vedlegg 1 og 2, dersom disse kan ha betydning for plantenes kvalitet og anvendelseha tilfredsstillende utvikling og vekstkraft og ikke ha defekter som har betydning for deres videre brukvære arts- og sortstypiske og ha de tilsiktede sortsegenskaper.
+Planter og formeringsmateriale skal ved omsetning
+
+1. i tillegg til kravene i [§ 4](forskrift/2000-12-01-1333/§4), være praktisk talt fri for andre planteskadegjørere enn de som er nevnt i vedlegg 1 og 2, dersom disse kan ha betydning for plantenes kvalitet og anvendelse
+2. ha tilfredsstillende utvikling og vekstkraft og ikke ha defekter som har betydning for deres videre bruk
+3. være arts- og sortstypiske og ha de tilsiktede sortsegenskaper.
 
 Planter og formeringsmateriale som under produksjon eller omsetning viser synlige symptomer på planteskadegjørere som kan ha betydning for plantens kvalitet og anvendelse, skal så snart skadegjøreren er konstatert, behandles på en egnet måte eller fjernes. Plantene og formeringsmaterialet kan ikke omsettes før planteskadegjøreren er bekjempet.
 
 ### § 11. Krav til identitet og renhet
 
-Planter og formeringsmateriale til videre ervervsmessig dyrking skal ha kjent opprinnelse og tilfredsstillende renhet i forhold til angitt art, sort eller klon. Nevnte planter og formeringsmateriale merket med sortsnavn, kan bare utbys for salg dersom sorten er:rettsbeskyttet, elleroffisielt listet, ellerallment kjent, ellertilstrekkelig beskrevet i henhold til aksepterte standarder for sortsbeskrivelser, hvis slike finnes, og leverandør på oppfordring kan framlegge slik beskrivelse og dokumentere det anvendte system for sortsvedlikehold og formering.
+Planter og formeringsmateriale til videre ervervsmessig dyrking skal ha kjent opprinnelse og tilfredsstillende renhet i forhold til angitt art, sort eller klon. Nevnte planter og formeringsmateriale merket med sortsnavn, kan bare utbys for salg dersom sorten er:
+
+1. rettsbeskyttet, eller
+2. offisielt listet, eller
+3. allment kjent, eller
+4. tilstrekkelig beskrevet i henhold til aksepterte standarder for sortsbeskrivelser, hvis slike finnes, og leverandør på oppfordring kan framlegge slik beskrivelse og dokumentere det anvendte system for sortsvedlikehold og formering.
 
 For frøformerte planteslag kan herkomst angis.
 
@@ -114,7 +155,11 @@ Produksjon og omsetning av genmodifiserte planter og formeringsmateriale er kun 
 
 Virksomheter som er meldt til Mattilsynet, kan produsere eller omsette sertifisert plantemateriale. Mattilsynet kan gi nærmere bestemmelser for de ulike produksjonene.
 
-Plantene og formeringsmaterialet må være produsert i henhold til disse bestemmelsene. Planter og formeringsmateriale produsert i Norge sertifiseres i følgende klasser:Kjerneplanter – dersom de stammer direkte fra planter som er testet etter retningslinjer fastsatt av Mattilsynet ved godkjent laboratorium, er funnet fri for bestemte skadegjørere og er vedlikeholdt og produsert i henhold til gjeldende regler. Plantemateriale som stammer direkte fra kjerneplanter, kan sertifiseres som kjerneplanter dersom bestemmelsene er oppfylt.Eliteplanter – dersom de er produsert, enten direkte fra kjerneplanter eller fra planter som er vegetativt formert fra kjerneplanter i et bestemt antall generasjoner, og er vedlikeholdt og produsert i henhold til gjeldende regler.Sertifiserte planter – dersom de er produsert fra kjerneplanter eller eliteplanter.
+Plantene og formeringsmaterialet må være produsert i henhold til disse bestemmelsene. Planter og formeringsmateriale produsert i Norge sertifiseres i følgende klasser:
+
+1. Kjerneplanter – dersom de stammer direkte fra planter som er testet etter retningslinjer fastsatt av Mattilsynet ved godkjent laboratorium, er funnet fri for bestemte skadegjørere og er vedlikeholdt og produsert i henhold til gjeldende regler. Plantemateriale som stammer direkte fra kjerneplanter, kan sertifiseres som kjerneplanter dersom bestemmelsene er oppfylt.
+2. Eliteplanter – dersom de er produsert, enten direkte fra kjerneplanter eller fra planter som er vegetativt formert fra kjerneplanter i et bestemt antall generasjoner, og er vedlikeholdt og produsert i henhold til gjeldende regler.
+3. Sertifiserte planter – dersom de er produsert fra kjerneplanter eller eliteplanter.
 
 Planter og formeringsmateriale som er produsert i en virksomhet som driver produksjon av flere klasser, skal normalt kun sertifiseres i den laveste klassen. Planter og formeringsmateriale produsert i andre land, kan sertifiseres i ovennevnte klasser dersom produksjonsopplegget i det aktuelle land kan likestilles med produksjonsopplegget i Norge.
 
@@ -142,7 +187,11 @@ Dersom det foreligger mistanke om at et parti planter og formeringsmateriale ikk
 
 ### § 16. Importforbud
 
-Det er forbudt å importere:planteskadegjørere nevnt i vedlegg 1planter og andre smittebærende emner nevnt i vedlegg 2, dersom de er angrepet av planteskadegjørere nevnt i vedlegget, samt nevnte planteskadegjørere i isolert tilstandplanter og andre smittebærende emner nevnt i vedlegg 3, dersom de har opprinnelse i områder som er nevnt i vedlegget.
+Det er forbudt å importere:
+
+1. planteskadegjørere nevnt i vedlegg 1
+2. planter og andre smittebærende emner nevnt i vedlegg 2, dersom de er angrepet av planteskadegjørere nevnt i vedlegget, samt nevnte planteskadegjørere i isolert tilstand
+3. planter og andre smittebærende emner nevnt i vedlegg 3, dersom de har opprinnelse i områder som er nevnt i vedlegget.
 
 Import av genmodifiserte planter og plantedeler er kun tillatt dersom de er godkjent i Norge etter Genteknologiloven.
 
@@ -174,7 +223,10 @@ Treemballasje er omfattet av særskilte krav til import av visse planter og andr
 
 Sendinger som inneholder planter og andre smittebærende emner nevnt i vedlegg 5A, skal ved import være fulgt av et sunnhetssertifikat i original eller et reeksportsertifikat i original.
 
-Det gjelder unntak fra sertifikatplikten etter første ledd for planter og plantedeler som importeres av privatpersoner i privat og ikke-kommersielt øyemed i følgende tilfeller:ved import av inntil 50 porsjonspakninger av hagebruksfrø samt små mengder planter og plantedeler angitt i vedlegg 9 når de medbringes av reisende som håndbagasje eller importeres som flyttelassved import av inntil 50 porsjonspakninger av hagebruksfrø i forsendelser.
+Det gjelder unntak fra sertifikatplikten etter første ledd for planter og plantedeler som importeres av privatpersoner i privat og ikke-kommersielt øyemed i følgende tilfeller:
+
+1. ved import av inntil 50 porsjonspakninger av hagebruksfrø samt små mengder planter og plantedeler angitt i vedlegg 9 når de medbringes av reisende som håndbagasje eller importeres som flyttelass
+2. ved import av inntil 50 porsjonspakninger av hagebruksfrø i forsendelser.
 
 > Endret ved [forskrifter 30 jan 2006 nr. 99](forskrift/2006-01-30-99), [10 jan 2012 nr. 62](forskrift/2012-01-10-62) (i kraft 1 feb 2012), [20 jan 2016 nr. 73](forskrift/2016-01-20-73) (i kraft 1 mars 2016), [7 april 2022 nr. 588](forskrift/2022-04-07-588) (i kraft 20 april 2022).
 
@@ -184,7 +236,10 @@ Sertifikatet skal være utstedt av eksportlandets offisielle planteinspeksjonstj
 
 Sertifikatet skal være i samsvar med modellene angitt i vedlegg 5B eller vedlegg 5C. Det skal være utarbeidet og utfylt på norsk, svensk, dansk eller engelsk og skal være fullstendig utfylt med maskinskrift eller blokkbokstaver. Rettelser må ikke forekomme med mindre det klart fremgår at disse er foretatt av vedkommende lands planteinspeksjonstjeneste. Plantenes vitenskapelige navn, sendingens innhold og kvantum skal spesifiseres i sertifikatet eller i en vedheftet, bekreftet fortegnelse.
 
-Med mindre annet følger av fjerde ledd skal en sending være fulgt avet sunnhetssertifikat utstedt i sendingens opprinnelsesland elleret reeksportsertifikat dersom avsenderlandet ikke er sendingens opprinnelsesland. Reeksportsertifikatet skal være fulgt av sunnhetssertifikatet fra opprinnelseslandet i original eller bekreftet kopi, samt eventuelle tidligere reeksportsertifikater.
+Med mindre annet følger av fjerde ledd skal en sending være fulgt av
+
+1. et sunnhetssertifikat utstedt i sendingens opprinnelsesland eller
+2. et reeksportsertifikat dersom avsenderlandet ikke er sendingens opprinnelsesland. Reeksportsertifikatet skal være fulgt av sunnhetssertifikatet fra opprinnelseslandet i original eller bekreftet kopi, samt eventuelle tidligere reeksportsertifikater.
 
 For sendinger der kravene i vedlegg 4A kan oppfylles andre steder enn i opprinnelseslandet eller for sendinger som ikke omfattes av vedlegg 4A, kan sunnhetssertifikatet utstedes i avsenderlandet. Opprinnelseslandet skal i slike tilfeller framgå av sunnhetssertifikatet.
 
@@ -216,19 +271,36 @@ Mattilsynet må ha fått melding etter andre ledd før meldepliktige varer kan t
 
 ### § 23a. Innholdet i importmeldinger
 
-Meldingen om en sertifikatpliktig importsending skal gis på den måten Mattilsynet bestemmer, og skal minst inneholde disse opplysningene:importørens eller importørenes navn og adresse og organisasjons- eller fødselsnummervirksomheten som skal gjøre mottakskontrollen; navn, adresse og organisasjonsnummermottaksstedankomsttidavsenders navn og avsenderlandsendingens opprinnelseslandoversikt over innholdet i sendingennummeret på sertifikatet som følger sendingeninformasjon om hvem av importørene som skal oppbevare sertifikatet i original når varer til flere importører er fulgt av ett sertifikat.
+Meldingen om en sertifikatpliktig importsending skal gis på den måten Mattilsynet bestemmer, og skal minst inneholde disse opplysningene:
+
+1. importørens eller importørenes navn og adresse og organisasjons- eller fødselsnummer
+2. virksomheten som skal gjøre mottakskontrollen; navn, adresse og organisasjonsnummer
+3. mottakssted
+4. ankomsttid
+5. avsenders navn og avsenderland
+6. sendingens opprinnelsesland
+7. oversikt over innholdet i sendingen
+8. nummeret på sertifikatet som følger sendingen
+9. informasjon om hvem av importørene som skal oppbevare sertifikatet i original når varer til flere importører er fulgt av ett sertifikat.
 
 > Tilføyd ved [forskrift 20 jan 2016 nr. 73](forskrift/2016-01-20-73) (i kraft 1 mars 2016).
 
 ### § 23b. Mottakskontroll av importsendinger
 
-Importøren skal sørge for mottakskontroll av sertifikatpliktige planter og andre smittebærende emner. Importøren kan kontrollere varene selv eller avtale at en virksomhet som er registrert, jf. [§ 7](forskrift/2000-12-01-1333/§7), skal gjøre det. I mottakskontrollen skal det kontrolleres atvarene er fulgt av et sertifikat som er i samsvar med kravene i § 19 og § 20 og i forskrift om tiltak mot *Phytophthora ramorum* [§ 2](forskrift/2000-12-01-1333/§2) til [§ 4](forskrift/2000-12-01-1333/§4)sendingens eller delsendingens innhold samsvarer med det som er angitt i sertifikatetvarene kan regnes som frie for planteskadegjørere som nevnt i [§ 4](forskrift/2000-12-01-1333/§4) og er i samsvar med de øvrige importbestemmelsene gitt i eller i medhold av forskriften.
+Importøren skal sørge for mottakskontroll av sertifikatpliktige planter og andre smittebærende emner. Importøren kan kontrollere varene selv eller avtale at en virksomhet som er registrert, jf. [§ 7](forskrift/2000-12-01-1333/§7), skal gjøre det. I mottakskontrollen skal det kontrolleres at
+
+1. varene er fulgt av et sertifikat som er i samsvar med kravene i § 19 og § 20 og i forskrift om tiltak mot *Phytophthora ramorum* [§ 2](forskrift/2000-12-01-1333/§2) til [§ 4](forskrift/2000-12-01-1333/§4)
+2. sendingens eller delsendingens innhold samsvarer med det som er angitt i sertifikatet
+3. varene kan regnes som frie for planteskadegjørere som nevnt i [§ 4](forskrift/2000-12-01-1333/§4) og er i samsvar med de øvrige importbestemmelsene gitt i eller i medhold av forskriften.
 
 > Tilføyd ved [forskrift 20 jan 2016 nr. 73](forskrift/2016-01-20-73) (i kraft 1 mars 2016).
 
 ### § 23c. Deling av importsendinger før mottakskontrollen
 
-En importsending, som utgjøres av de varene som er fulgt av ett sertifikat, kan ikke deles før mottakskontrollen med unntak av i disse tilfellene:når varer til flere importører er fulgt av ett sertifikat, slik at de varene hver enkelt importør eier, utgjør en delsending.når mottakskontrollen utføres av flere ulike enheter i importørens virksomhet eller i en virksomhet i et konsern importøren inngår i, slik at de varene som kontrolleres av den enkelte enheten, utgjør en delsending. Med enhet menes underenhet med eget organisasjonsnummer i Enhetsregisteret.
+En importsending, som utgjøres av de varene som er fulgt av ett sertifikat, kan ikke deles før mottakskontrollen med unntak av i disse tilfellene:
+
+1. når varer til flere importører er fulgt av ett sertifikat, slik at de varene hver enkelt importør eier, utgjør en delsending.
+2. når mottakskontrollen utføres av flere ulike enheter i importørens virksomhet eller i en virksomhet i et konsern importøren inngår i, slik at de varene som kontrolleres av den enkelte enheten, utgjør en delsending. Med enhet menes underenhet med eget organisasjonsnummer i Enhetsregisteret.
 
 Når en sending er delt opp i flere delsendinger, skal hver enkelt importør sørge for mottakskontroll av sine varer. Importøren av den delsendingen som mottas først skal sørge for at det gjøres kontroll i samsvar med [§ 23b](forskrift/2000-12-01-1333/§23b) første ledd bokstav a og b på grunnlag av sertifikatet i original. Importørene av de øvrige delsendingene skal sørge for slik kontroll på grunnlag av hver sin kopi av sertifikatet.
 
@@ -244,7 +316,11 @@ Ved import av sendinger som bare inneholder andre sertifikatpliktige varer enn d
 
 ### § 23e. Vilkår for omsetning eller bruk av importerte varer
 
-En sending eller delsending som inneholder sertifikatpliktige varer skal oppbevares samlet og på forsvarlig måte sett opp mot risikoen for spredning av planteskadegjørere. Varene kan ikke omsettes eller brukes før disse kravene er oppfylt:For oppdelte sendinger som inneholder varer omfattet av [§ 19](forskrift/2000-12-01-1333/§19) jf. [vedlegg 5A](forskrift/2000-12-01-1333/vedlegg5a) nr. 1, 2, 3.1, 3.2, 4.3, 4.4, 7, 8 og 10 eller av [forskrift om tiltak mot Phytophthora ramorum § 4](forskrift/2003-03-17-341/§4), må Mattilsynet ha frigitt den første delsendingen og mottakskontrollen av den enkelte delsendingen må ikke ha avdekket mangler.For sendinger eller delsendinger som bare inneholder andre sertifikatpliktige varer enn dem som er nevnt i bokstav a, må mottakskontrollen ikke ha avdekket mangler.I andre tilfeller enn dem som er nevnt i bokstav a og b, må sendingen eller delsendingen være frigitt av Mattilsynet.
+En sending eller delsending som inneholder sertifikatpliktige varer skal oppbevares samlet og på forsvarlig måte sett opp mot risikoen for spredning av planteskadegjørere. Varene kan ikke omsettes eller brukes før disse kravene er oppfylt:
+
+1. For oppdelte sendinger som inneholder varer omfattet av [§ 19](forskrift/2000-12-01-1333/§19) jf. [vedlegg 5A](forskrift/2000-12-01-1333/vedlegg5a) nr. 1, 2, 3.1, 3.2, 4.3, 4.4, 7, 8 og 10 eller av [forskrift om tiltak mot Phytophthora ramorum § 4](forskrift/2003-03-17-341/§4), må Mattilsynet ha frigitt den første delsendingen og mottakskontrollen av den enkelte delsendingen må ikke ha avdekket mangler.
+2. For sendinger eller delsendinger som bare inneholder andre sertifikatpliktige varer enn dem som er nevnt i bokstav a, må mottakskontrollen ikke ha avdekket mangler.
+3. I andre tilfeller enn dem som er nevnt i bokstav a og b, må sendingen eller delsendingen være frigitt av Mattilsynet.
 
 > Tilføyd ved [forskrift 20 jan 2016 nr. 73](forskrift/2016-01-20-73) (i kraft 1 mars 2016), endret ved [forskrifter 9 nov 2017 nr. 1777](forskrift/2017-11-09-1777) (i kraft 1 feb 2018), [7 april 2022 nr. 588](forskrift/2022-04-07-588) (i kraft 20 april 2022).
 
@@ -314,7 +390,11 @@ Vedtaket om godkjenning kan trekkes tilbake ved vesentlige brudd på vilkårene 
 
 Godkjenning for bruk av ISPM 15-merket kan gis til virksomheter som produserer eller reparerer treemballasje eller som leverer trevirke til slike virksomheter.
 
-Trevirke som brukes ved aktiviteter nevnt i første ledd skal væremerket i samsvar med kravene i [§ 28a](forskrift/2000-12-01-1333/§28a),fulgt av et sunnhetssertifikat som bekrefter at trevirket er behandlet i tråd med kravene i [§ 28a](forskrift/2000-12-01-1333/§28a) ellermerket med det svenske KD 56/30-merket angitt i vedlegg 11B.
+Trevirke som brukes ved aktiviteter nevnt i første ledd skal være
+
+1. merket i samsvar med kravene i [§ 28a](forskrift/2000-12-01-1333/§28a),
+2. fulgt av et sunnhetssertifikat som bekrefter at trevirket er behandlet i tråd med kravene i [§ 28a](forskrift/2000-12-01-1333/§28a) eller
+3. merket med det svenske KD 56/30-merket angitt i vedlegg 11B.
 
 Hver enhet eller underenhet med eget organisasjonsnummer i Enhetsregisteret skal godkjennes.
 
@@ -368,7 +448,15 @@ Vekstkontroll eller annen undersøkelse av dyrkingsfeltene skal være foretatt h
 
 Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.
 
-Ved utøvelse av dette tilsynet har Mattilsynet, eller den Mattilsynet bemyndiger, adgang til å foreta kontroll av produksjon av planter og plantedeler, samt kontroll på andre steder hvor planteskadegjørere kan forekomme. Slik kontroll kan utføres for å:innhente nærmere opplysninger i situasjoner der det er mistanke om forekomst av skadegjørere nevnt i vedlegg 1, 2 og 6føre tilsyn med at fastsatte tiltak i henhold til [§ 6](forskrift/2000-12-01-1333/§6) etterkommesovervåke eller kartlegge mulig utbredelse av planteskadegjørereføre tilsyn med at bestemmelsene om internkontroll overholdesføre tilsyn med at krav fastsatt i [§ 4](forskrift/2000-12-01-1333/§4) – § 5 og [§ 10](forskrift/2000-12-01-1333/§10) – § 15 tilfredsstilles under produksjon og omsetningføre tilsyn med at bestemmelsene for import overholdesføre tilsyn med at bestemmelsene for eksport overholdes.
+Ved utøvelse av dette tilsynet har Mattilsynet, eller den Mattilsynet bemyndiger, adgang til å foreta kontroll av produksjon av planter og plantedeler, samt kontroll på andre steder hvor planteskadegjørere kan forekomme. Slik kontroll kan utføres for å:
+
+1. innhente nærmere opplysninger i situasjoner der det er mistanke om forekomst av skadegjørere nevnt i vedlegg 1, 2 og 6
+2. føre tilsyn med at fastsatte tiltak i henhold til [§ 6](forskrift/2000-12-01-1333/§6) etterkommes
+3. overvåke eller kartlegge mulig utbredelse av planteskadegjørere
+4. føre tilsyn med at bestemmelsene om internkontroll overholdes
+5. føre tilsyn med at krav fastsatt i [§ 4](forskrift/2000-12-01-1333/§4) – § 5 og [§ 10](forskrift/2000-12-01-1333/§10) – § 15 tilfredsstilles under produksjon og omsetning
+6. føre tilsyn med at bestemmelsene for import overholdes
+7. føre tilsyn med at bestemmelsene for eksport overholdes.
 
 Mattilsynet har adgang til å innhente opplysninger om virksomheter som omfattes av forskriften, hvis slike opplysninger er nødvendig for å føre en effektivt kontroll.
 
@@ -436,7 +524,15 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i m
 
 Denne forskriften trer i kraft 1. januar 2001 med mindre annet følger av [§ 47](forskrift/2000-12-01-1333/§47).
 
-Samtidig oppheves:[Forskrift av 12. desember 1996 nr. 1468](forskrift/1996-12-12-1468) om tiltak mot farlige plantesjukdommer og skadedyr på planter (planteskadegjørere).[Forskrift av 10. september 1998 nr. 883](forskrift/1998-09-10-883) for innførsel av planter og plantedeler m.v. til Norge.[Forskrift av 17. juni 1988 nr. 485](forskrift/1988-06-17-485) om kontroll og utstedelse av sertifikater i forbindelse med utførsel av planter og planteprodukter m.v. fra Norge.[Forskrift av 1. januar 1981 nr. 3004](forskrift/1981-01-01-3004) for statskontrollert produksjon og omsetning av såvare, planter og plantedeler.[Forskrifter av 11. mai 1973 nr. 4](forskrift/1973-05-11-4) for omsetning av planteskoleplanter (unntatt planter til skogproduksjon).[Forskrift av 19. juli 1983 nr. 1375](forskrift/1983-07-19-1375) om kontrollavgift i medhold av lov om tiltak mot plantesjukdommer og skadedyr på planter.alle utfyllende forskrifter og utfyllende bestemmelser fastsatt med hjemmel i disse forskrifter.
+Samtidig oppheves:
+
+1. [Forskrift av 12. desember 1996 nr. 1468](forskrift/1996-12-12-1468) om tiltak mot farlige plantesjukdommer og skadedyr på planter (planteskadegjørere).
+2. [Forskrift av 10. september 1998 nr. 883](forskrift/1998-09-10-883) for innførsel av planter og plantedeler m.v. til Norge.
+3. [Forskrift av 17. juni 1988 nr. 485](forskrift/1988-06-17-485) om kontroll og utstedelse av sertifikater i forbindelse med utførsel av planter og planteprodukter m.v. fra Norge.
+4. [Forskrift av 1. januar 1981 nr. 3004](forskrift/1981-01-01-3004) for statskontrollert produksjon og omsetning av såvare, planter og plantedeler.
+5. [Forskrifter av 11. mai 1973 nr. 4](forskrift/1973-05-11-4) for omsetning av planteskoleplanter (unntatt planter til skogproduksjon).
+6. [Forskrift av 19. juli 1983 nr. 1375](forskrift/1983-07-19-1375) om kontrollavgift i medhold av lov om tiltak mot plantesjukdommer og skadedyr på planter.
+7. alle utfyllende forskrifter og utfyllende bestemmelser fastsatt med hjemmel i disse forskrifter.
 
 ### § 47. Overgangsordninger
 
@@ -446,7 +542,10 @@ Samtidig oppheves:[Forskrift av 12. desember 1996 nr. 1468](forskrift/1996-12-12
 
 Vedtak om godkjenning av virksomheter for bruk av ISPM 15-merket eller Mattilsynet KD 56/30-merke eller for varmebehandling av trevirke fattet av Mattilsynet før bestemmelsene i [§ 28b](forskrift/2000-12-01-1333/§28b) og [§ 28c](forskrift/2000-12-01-1333/§28c) trådte i kraft skal fortsatt gjelde. Vedtak om godkjenning av virksomheter som behandler trevirke med metylbromid for bruk av ISPM 15-merket gjelder likevel ikke etter 1. juli 2013.
 
-Frem til 1. januar 2014 kan virksomheter som produserer eller reparerer treemballasje og som er godkjent for bruk av ISPM 15-merket, jf. tredje ledd eller [§ 28c](forskrift/2000-12-01-1333/§28c), benytte umerket trevirke mottatt fra følgende virksomheter:virksomheter som selv mottar trevirke merket eller fulgt av et sunnhetssertifikat i samsvar med kravene i [§ 28c](forskrift/2000-12-01-1333/§28c) annet ledd og leverer dette trevirket videre uten egen merking dersom trevirket er fulgt av annen dokumentasjon på at det er produsert i samsvar med kravene i [§ 28a](forskrift/2000-12-01-1333/§28a) ellerVirksomheter som er godkjent for varmebehandling av trevirke jf. tredje ledd.
+Frem til 1. januar 2014 kan virksomheter som produserer eller reparerer treemballasje og som er godkjent for bruk av ISPM 15-merket, jf. tredje ledd eller [§ 28c](forskrift/2000-12-01-1333/§28c), benytte umerket trevirke mottatt fra følgende virksomheter:
+
+1. virksomheter som selv mottar trevirke merket eller fulgt av et sunnhetssertifikat i samsvar med kravene i [§ 28c](forskrift/2000-12-01-1333/§28c) annet ledd og leverer dette trevirket videre uten egen merking dersom trevirket er fulgt av annen dokumentasjon på at det er produsert i samsvar med kravene i [§ 28a](forskrift/2000-12-01-1333/§28a) eller
+2. Virksomheter som er godkjent for varmebehandling av trevirke jf. tredje ledd.
 
 Frem til 1. januar 2014 kan behandlingskodene HT DB eller HT KD DB brukes i stedet for koden angitt i vedlegg 10A, koden MB DB kan brukes i stedet for koden angitt i vedlegg 10B og virksomhetsnumre som består av bokstavene SLT og ni sifre kan brukes i stedet for virksomhetsnummer angitt i vedlegg 10A eller vedlegg 10B.
 
@@ -922,7 +1021,10 @@ Merkingen skal være fastgjort til plantene eller emballasjen
 
 ### III. Andre planter til videre dyrking enn de som er angitt i I og II
 
-Alle kolli skal fram til siste omsetningsledd være merket med:Produsentens eller omsetningsleddets registreringsnummer hos Mattilsynet.Botanisk navn og eventuelt sortsnavn.
+Alle kolli skal fram til siste omsetningsledd være merket med:
+
+1. Produsentens eller omsetningsleddets registreringsnummer hos Mattilsynet.
+2. Botanisk navn og eventuelt sortsnavn.
 
 Merkingen skal være fastgjort til plantene eller emballasjen.
 
@@ -941,15 +1043,29 @@ Merkingen skal være fastgjort til plantene eller emballasjen.
 
 ## Vedlegg 10A. Merke som kan anvendes på trevirke og treemballasje som er varmebehandlet jf. § 28a første ledd
 
-1\. *Bruk av koder*XX er ISO-koden for landet der virksomheten som merker emballasjen eller trevirket er godkjent. NO er isokode for Norge.Hvor angitt 000 skal virksomhetsnummeret fremgå. Virksomheter godkjent av Mattilsynet skal bruke et nisifret virksomhetsnummer.HT: Varmebehandling i henhold til kravene etter den internasjonale standarden for plantesanitære tiltak nr. 15.
+1\. *Bruk av koder*
 
-2\. *Grafisk utforming*Kantlinjene kan være stiplet.Tall- og bokstavkoder kan legges på en linje.Logoen kan legges vannrett.Størrelsen på tall og bokstaver i høyre del av merket skal ikke være mindre enn 10 millimeter høye.Logoen, som utgjør venstre del av merket, skal minst være 60 millimeter høy og 18 millimeter bred.
+1. XX er ISO-koden for landet der virksomheten som merker emballasjen eller trevirket er godkjent. NO er isokode for Norge.
+2. Hvor angitt 000 skal virksomhetsnummeret fremgå. Virksomheter godkjent av Mattilsynet skal bruke et nisifret virksomhetsnummer.
+3. HT: Varmebehandling i henhold til kravene etter den internasjonale standarden for plantesanitære tiltak nr. 15.
+
+2\. *Grafisk utforming*
+
+1. Kantlinjene kan være stiplet.
+2. Tall- og bokstavkoder kan legges på en linje.
+3. Logoen kan legges vannrett.
+4. Størrelsen på tall og bokstaver i høyre del av merket skal ikke være mindre enn 10 millimeter høye.
+5. Logoen, som utgjør venstre del av merket, skal minst være 60 millimeter høy og 18 millimeter bred.
 
 > Tilføyd ved [forskrift 7 feb 2013 nr. 176](forskrift/2013-02-07-176) (i kraft 1 juli 2013).
 
 ## Vedlegg 10B. Merke kan anvendes på treemballasje produsert av tre som er behandlet med metylbromid, jf.§ 28a andre ledd
 
-1\. *Bruk av koder*XX er ISO-koden for landet der virksomheten som merker emballasjen eller trevirket er godkjent. NO er isokode for Norge.Hvor angitt 000 skal virksomhetsnummeret fremgå. Virksomheter godkjent av Mattilsynet skal bruke et nisifret virksomhetsnummer.MB: Metylbromidgassing i henhold til kravene etter den internasjonale standarden for plantesanitære tiltak nr. 15.
+1\. *Bruk av koder*
+
+1. XX er ISO-koden for landet der virksomheten som merker emballasjen eller trevirket er godkjent. NO er isokode for Norge.
+2. Hvor angitt 000 skal virksomhetsnummeret fremgå. Virksomheter godkjent av Mattilsynet skal bruke et nisifret virksomhetsnummer.
+3. MB: Metylbromidgassing i henhold til kravene etter den internasjonale standarden for plantesanitære tiltak nr. 15.
 
 2\. *Vedlegg 10A nr. 2 gjelder tilsvarende.*
 
@@ -957,7 +1073,11 @@ Merkingen skal være fastgjort til plantene eller emballasjen.
 
 ## Vedlegg 11A. Mattilsynets KD 56/30-merke
 
-1\. *Bruk av koder*KD: Ovnstørking av tre til en 20 prosent gjennomsnittsfuktighet på fremstillingstidspunktet.56° C/30 min: Varmebehandling i henhold til kravene etter den internasjonale standarden for plantesanitære tiltak nr. 15.Hvor angitt 000 skal virksomhetsnummer fremgå.
+1\. *Bruk av koder*
+
+1. KD: Ovnstørking av tre til en 20 prosent gjennomsnittsfuktighet på fremstillingstidspunktet.
+2. 56° C/30 min: Varmebehandling i henhold til kravene etter den internasjonale standarden for plantesanitære tiltak nr. 15.
+3. Hvor angitt 000 skal virksomhetsnummer fremgå.
 
 > Tilføyd ved [forskrift 7 feb 2013 nr. 176](forskrift/2013-02-07-176) (i kraft 1 juli 2013).
 
@@ -974,7 +1094,10 @@ Approved treatments associated with wood packaging material
 
 *Use of debarked wood*
 
-Irrespective of the type of treatment applied, wood packaging material must be made of debarked wood. For this standard, any number of visually separate and clearly distinct small pieces of bark may remain if they are:less than 3 cm in width (regardless of the length) orgreater than 3 cm in width, with the total surface area of an individual piece of bark less than 50 square cm.
+Irrespective of the type of treatment applied, wood packaging material must be made of debarked wood. For this standard, any number of visually separate and clearly distinct small pieces of bark may remain if they are:
+
+- less than 3 cm in width (regardless of the length) or
+- greater than 3 cm in width, with the total surface area of an individual piece of bark less than 50 square cm.
 
 For methyl bromide treatment the removal of bark must be carried out before treatment because the presence of bark on the wood affects the efficacy of the methyl bromide treatment. For heat treatment, the removal of bark can be carried out before or after treatment.
 
@@ -1009,7 +1132,19 @@ The wood packaging material must be fumigated with methyl bromide in accordance 
 | 16° C or above | 56 | 42 | 36 | 28 |
 | 10° C or above | 64 | 48 | 42 | 32 |
 
-NPPOs shall ensure that the following factors are appropriately addressed by those involved in the application of methyl bromide treatment under this standard:Fans are used as appropriate during the gas distribution phase of fumigation to ensure that equilibrium is reached and should be positioned to ensure that the fumigant is rapidly and effectively distributed throughout the fumigation enclosure (preferably within one hour of application).Fumigation enclosures are not loaded beyond 80 % of their volume.Fumigation enclosures are well sealed and as gas tight as possible. If fumigation is to be carried out under sheets, these must be made of gas-proof material and sealed appropriately at seams and at floor level.The fumigation site floor is either impermeable to the fumigant or gas-proof sheets must be laid on the floor.Methyl bromide is often applied through a vaporizer («hot gassing») in order to fully volatilize the fumigant prior to its entry into the fumigation enclosure.Methyl bromide treatment is not carried out on wood packaging material exceeding 20 cm in cross section. Wood stacks need separators at least every 20 cm to ensure adequate methyl bromide circulation and penetration.When calculating methyl bromide dosage, compensation is made for any gas mixtures (e.g. 2 % chloropicrin) to ensure that the total amount of methyl bromide applied meets required dosage rates.Initial dose rates and post-treatment product handling procedures take account of likely methyl bromide sorption by the treated wood packaging material or associated product (e.g. polystyrene boxes).The measured temperature of the product or the ambient air (whichever is the lower) is used to calculate the methyl bromide dose, and must be at least 10° C (including at the wood core) throughout the duration of the treatment.Wood packaging material to be fumigated is not wrapped or coated in materials impervious to the fumigant.Records of methyl bromide treatments are retained by treatment providers, for a period of length determined and as required by the NPPO, for auditing purposes.
+NPPOs shall ensure that the following factors are appropriately addressed by those involved in the application of methyl bromide treatment under this standard:
+
+1. Fans are used as appropriate during the gas distribution phase of fumigation to ensure that equilibrium is reached and should be positioned to ensure that the fumigant is rapidly and effectively distributed throughout the fumigation enclosure (preferably within one hour of application).
+2. Fumigation enclosures are not loaded beyond 80 % of their volume.
+3. Fumigation enclosures are well sealed and as gas tight as possible. If fumigation is to be carried out under sheets, these must be made of gas-proof material and sealed appropriately at seams and at floor level.
+4. The fumigation site floor is either impermeable to the fumigant or gas-proof sheets must be laid on the floor.
+5. Methyl bromide is often applied through a vaporizer («hot gassing») in order to fully volatilize the fumigant prior to its entry into the fumigation enclosure.
+6. Methyl bromide treatment is not carried out on wood packaging material exceeding 20 cm in cross section. Wood stacks need separators at least every 20 cm to ensure adequate methyl bromide circulation and penetration.
+7. When calculating methyl bromide dosage, compensation is made for any gas mixtures (e.g. 2 % chloropicrin) to ensure that the total amount of methyl bromide applied meets required dosage rates.
+8. Initial dose rates and post-treatment product handling procedures take account of likely methyl bromide sorption by the treated wood packaging material or associated product (e.g. polystyrene boxes).
+9. The measured temperature of the product or the ambient air (whichever is the lower) is used to calculate the methyl bromide dose, and must be at least 10° C (including at the wood core) throughout the duration of the treatment.
+10. Wood packaging material to be fumigated is not wrapped or coated in materials impervious to the fumigant.
+11. Records of methyl bromide treatments are retained by treatment providers, for a period of length determined and as required by the NPPO, for auditing purposes.
 
 NPPOs should recommend that measures be taken to reduce or eliminate emissions of methyl bromide to the atmosphere where technically and economically feasible (as described in the CPM Recommendation on *Replacement or reduction of the use of methyl bromide as a phytosanitary measure* (2008)).
 
@@ -1020,7 +1155,12 @@ As new technical information becomes available, existing treatments may be revie
 ### ISPM 15. Annex 2
 The mark and its application
 
-A mark indicating that wood packaging material has been subjected to approved phytosanitary treatment in accordance with this standard1 comprises the following required components:the symbola country codea producer/treatment provider codea treatment code using the appropriate abbreviation according to Annex 1 (HT or MB).
+A mark indicating that wood packaging material has been subjected to approved phytosanitary treatment in accordance with this standard1 comprises the following required components:
+
+- the symbol
+- a country code
+- a producer/treatment provider code
+- a treatment code using the appropriate abbreviation according to Annex 1 (HT or MB).
 
 *Symbol*
 
@@ -1051,7 +1191,11 @@ The size, font types used, and position of the mark may vary, but its size must 
 
 No other information shall be contained within the border of the mark. If additional marks (e.g. trademarks of the producer, logo of the authorizing body) are considered useful to protect the use of the mark on a national level, such information may be provided adjacent to but outside of the border of the mark.
 
-The mark must be:legibledurable and not transferableplaced in a location that is visible when the wood packaging is in use, preferably on at least two opposite sides of the wood packaging unit.
+The mark must be:
+
+- legible
+- durable and not transferable
+- placed in a location that is visible when the wood packaging is in use, preferably on at least two opposite sides of the wood packaging unit.
 
 The mark must not be hand drawn.
 
@@ -1061,7 +1205,10 @@ Where various components are integrated into a unit of wood packaging material, 
 
 Special consideration of legible application of the mark to dunnage may be necessary because treated wood for use as dunnage may not be cut to final length until loading of a conveyance takes place. It is important that shippers ensure that all dunnage used to secure or support commodities is treated and displays the mark described in this annex, and that the marks are clear and legible. Small pieces of wood that do not include all the required elements of the mark should not be used for dunnage.
 
-Options for marking dunnage appropriately include:application of the mark to pieces of wood intended for use as dunnage along their entire length at very short intervals (NB: where very small pieces are subsequently cut for use as dunnage, the cuts should be made so that an entire mark is present on the dunnage used.).additional application of the mark to treated dunnage in a visible location after cutting, provided that the shipper is authorized in accordance with Section 4.
+Options for marking dunnage appropriately include:
+
+- application of the mark to pieces of wood intended for use as dunnage along their entire length at very short intervals (NB: where very small pieces are subsequently cut for use as dunnage, the cuts should be made so that an entire mark is present on the dunnage used.).
+- additional application of the mark to treated dunnage in a visible location after cutting, provided that the shipper is authorized in accordance with Section 4.
 
 The examples below illustrate some acceptable variants of the required components of the mark that is used to certify that the wood packaging material that bears such a mark has been subjected to an approved treatment. No variations in the symbol should be accepted. Variations in the layout of the mark should be accepted provided that they meet the requirements set out in this annex.
 

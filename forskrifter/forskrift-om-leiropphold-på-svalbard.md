@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1. (formål)
 
-Forskriftens formål er å regulere telting og leiropphold slik at det ikke forringer Svalbards tilnærmet uberørte miljø når det gjelder sammenhengende villmark, landskap, flora, fauna og kulturminner, herunder å ivaretasikkerheten i forhold til isbjørn ogallmennhetens opplevelse av villmark og lokalkultur.
+Forskriftens formål er å regulere telting og leiropphold slik at det ikke forringer Svalbards tilnærmet uberørte miljø når det gjelder sammenhengende villmark, landskap, flora, fauna og kulturminner, herunder å ivareta
+
+- sikkerheten i forhold til isbjørn og
+- allmennhetens opplevelse av villmark og lokalkultur.
 
 > Endret ved [forskrift 12 mai 2013 nr. 469](forskrift/2013-05-12-469).
 
@@ -40,7 +43,12 @@ Forskriften gjelder enhver som planlegger eller gjennomfører telting eller leir
 
 ### § 2a. (definisjoner)
 
-I denne forskriften menes med*telting og leiropphold:* bruk av telt eller annen midlertidig innretning for overnatting, bespisning, formidling, ly eller lignende*turistvirksomhet:* fysiske eller juridiske personers organisering mot vederlag av ferdsel, aktivitet eller opphold med tjenesteytelser eller transport av personer på land eller sjø innenfor forskriftens virkeområde eller annen tilrettelegging av turistopphold på Svalbard*feltvirksomhet:* fysiske eller juridiske personers organisering mot vederlag av ferdsel, aktivitet eller opphold med tjenesteytelser eller transport av personer på land eller sjø innenfor forskriftens virkeområde eller annen tilrettelegging, uten at dette defineres som turistopphold etter bokstav b*forsknings- og utdanningsvirksomhet:* virksomhet på Svalbard drevet av forskningsinstitusjoner, utdanningsinstitusjoner, institutter og statlig selskap hjemmehørende på Svalbard som yter tjenester og tilrettelegger for bruk av infrastruktur til forskning og vitenskapelig virksomhet.
+I denne forskriften menes med
+
+1. *telting og leiropphold:* bruk av telt eller annen midlertidig innretning for overnatting, bespisning, formidling, ly eller lignende
+2. *turistvirksomhet:* fysiske eller juridiske personers organisering mot vederlag av ferdsel, aktivitet eller opphold med tjenesteytelser eller transport av personer på land eller sjø innenfor forskriftens virkeområde eller annen tilrettelegging av turistopphold på Svalbard
+3. *feltvirksomhet:* fysiske eller juridiske personers organisering mot vederlag av ferdsel, aktivitet eller opphold med tjenesteytelser eller transport av personer på land eller sjø innenfor forskriftens virkeområde eller annen tilrettelegging, uten at dette defineres som turistopphold etter bokstav b
+4. *forsknings- og utdanningsvirksomhet:* virksomhet på Svalbard drevet av forskningsinstitusjoner, utdanningsinstitusjoner, institutter og statlig selskap hjemmehørende på Svalbard som yter tjenester og tilrettelegger for bruk av infrastruktur til forskning og vitenskapelig virksomhet.
 
 > Tilføyd ved forskrift [6 feb 2024 nr. 233](forskrift/2024-02-06-233) (i kraft 1 jan 2025).
 
@@ -60,7 +68,13 @@ Tillatelse er likevel ikke nødvendig i områder som er særskilt avsatt til tel
 
 ### § 4. (søknad om tillatelse)
 
-Søknad om tillatelse til telting og leiropphold skal inneholde de opplysningene som er nødvendige for å vurdere om tillatelse bør gis, og på hvilke vilkår. I søknaden skal det som minimum redegjøres for:hvilken lokalitet som planlegges brukttidspunkt og varighet for oppholdetantall personer som skal oppholde seg i leirentype forlegning og plassering i terrenget, oghvordan sikkerheten i forhold til isbjørn, oppbevaring av matvarer, avfallshåndtering og sanitære forhold skal ivaretas.
+Søknad om tillatelse til telting og leiropphold skal inneholde de opplysningene som er nødvendige for å vurdere om tillatelse bør gis, og på hvilke vilkår. I søknaden skal det som minimum redegjøres for:
+
+1. hvilken lokalitet som planlegges brukt
+2. tidspunkt og varighet for oppholdet
+3. antall personer som skal oppholde seg i leiren
+4. type forlegning og plassering i terrenget, og
+5. hvordan sikkerheten i forhold til isbjørn, oppbevaring av matvarer, avfallshåndtering og sanitære forhold skal ivaretas.
 
 Sysselmesteren kan be om flere opplysninger.
 
@@ -70,7 +84,13 @@ Søknaden skal sendes Sysselmesteren senest fire uker før teltingen eller leiro
 
 ### § 5. (tillatelsen)
 
-Når Sysselmesteren avgjør om tillatelse skal gis og fastsetter vilkår, skal det legges vekt på om teltingen eller leiroppholdet kan:medføre fare for skade, slitasje eller annen forstyrrelse på fredete kulturminner, fauna, flora eller naturmiljøet for øvriginnebære fare for sikkerheten i forhold til isbjørnvære i konflikt med målet om bevaring av Svalbards villmarkskaraktervære til skade eller hinder for annen lovlig virksomhetvære i konflikt med målet om å ivareta allmennhetens opplevelse av villmark.
+Når Sysselmesteren avgjør om tillatelse skal gis og fastsetter vilkår, skal det legges vekt på om teltingen eller leiroppholdet kan:
+
+1. medføre fare for skade, slitasje eller annen forstyrrelse på fredete kulturminner, fauna, flora eller naturmiljøet for øvrig
+2. innebære fare for sikkerheten i forhold til isbjørn
+3. være i konflikt med målet om bevaring av Svalbards villmarkskarakter
+4. være til skade eller hinder for annen lovlig virksomhet
+5. være i konflikt med målet om å ivareta allmennhetens opplevelse av villmark.
 
 Sysselmesteren kan endre vilkårene i tillatelsen, sette nye vilkår, og om nødvendig trekke tilbake tillatelsen til planlagt eller allerede påbegynt telting eller leiropphold dersom det er grunn til å frykte slik fare som nevnt i første ledd.
 

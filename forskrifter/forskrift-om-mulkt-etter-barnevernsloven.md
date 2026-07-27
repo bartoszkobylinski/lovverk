@@ -36,7 +36,10 @@ Barnevernstjenesten skal sende statsforvalteren kvartalsvise rapporter med kopi 
 
 ## § 3.
 
-Når statsforvalteren gjennom kontroll, eller på annen måte, blir kjent med at fristene i [§ 17-6](lov/2021-06-18-97/§17-6) er oversittet, skal statsforvalteren bringe klarhet i hva som er årsaken til fristoversittelsen. Statsforvalteren skal ved råd og veiledning søke å bidra til at fristoversittelser ikke gjentar seg i kommunen. Dersom dette ikke fører frem kan statsforvalteren ilegge kommunen mulktetter en helhetsvurdering på bakgrunn av gjentatte fristoversittelserved alvorlig oversittelse av en enkelt frist.
+Når statsforvalteren gjennom kontroll, eller på annen måte, blir kjent med at fristene i [§ 17-6](lov/2021-06-18-97/§17-6) er oversittet, skal statsforvalteren bringe klarhet i hva som er årsaken til fristoversittelsen. Statsforvalteren skal ved råd og veiledning søke å bidra til at fristoversittelser ikke gjentar seg i kommunen. Dersom dette ikke fører frem kan statsforvalteren ilegge kommunen mulkt
+
+1. etter en helhetsvurdering på bakgrunn av gjentatte fristoversittelser
+2. ved alvorlig oversittelse av en enkelt frist.
 
 > Endret ved forskrifter [5 des 2003 nr. 1456](forskrift/2003-12-05-1456) (i kraft 1 jan 2004), [26 jan 2022 nr. 130](forskrift/2022-01-26-130), [15 des 2022 nr. 2258](forskrift/2022-12-15-2258) (i kraft 1 jan 2023), [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026).
 

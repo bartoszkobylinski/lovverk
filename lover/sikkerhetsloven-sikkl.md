@@ -15,7 +15,7 @@ xml_hash: "95843479e1d7c46b6cbd78c661f6a309b65fd6426f634b2b94969ee80beedb19"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1-1. Formål
 
-Loven skal bidra tilå trygge Norges suverenitet, territorielle integritet og demokratiske styreform og andre nasjonale sikkerhetsinteresserå forebygge, avdekke og motvirke sikkerhetstruende virksomhetat sikkerhetstiltak gjennomføres i samsvar med grunnleggende rettsprinsipper og verdier i et demokratisk samfunn.
+Loven skal bidra til
+
+1. å trygge Norges suverenitet, territorielle integritet og demokratiske styreform og andre nasjonale sikkerhetsinteresser
+2. å forebygge, avdekke og motvirke sikkerhetstruende virksomhet
+3. at sikkerhetstiltak gjennomføres i samsvar med grunnleggende rettsprinsipper og verdier i et demokratisk samfunn.
 
 ### § 1-2. Hvem loven gjelder for
 
@@ -40,7 +44,11 @@ Kongen i statsråd kan gi forskrift om lovens virkeområde og helt eller delvis 
 
 ### § 1-3. Vedtak om at loven skal gjelde for andre virksomheter
 
-Et departement skal innenfor sitt ansvarsområde fatte vedtak om at loven helt eller delvis skal gjelde for virksomheter sombehandler sikkerhetsgradert informasjonråder over informasjon, informasjonssystemer, objekter eller infrastruktur som har avgjørende betydning for grunnleggende nasjonale funksjoner, eller som har avgjørende betydning for nasjonale sikkerhetsinteresser, uten å kunne knyttes direkte til en grunnleggende nasjonal funksjondriver aktivitet som har avgjørende betydning for grunnleggende nasjonale funksjoner, eller som har avgjørende betydning for nasjonale sikkerhetsinteresser, uten å kunne knyttes direkte til en grunnleggende nasjonal funksjon.
+Et departement skal innenfor sitt ansvarsområde fatte vedtak om at loven helt eller delvis skal gjelde for virksomheter som
+
+1. behandler sikkerhetsgradert informasjon
+2. råder over informasjon, informasjonssystemer, objekter eller infrastruktur som har avgjørende betydning for grunnleggende nasjonale funksjoner, eller som har avgjørende betydning for nasjonale sikkerhetsinteresser, uten å kunne knyttes direkte til en grunnleggende nasjonal funksjon
+3. driver aktivitet som har avgjørende betydning for grunnleggende nasjonale funksjoner, eller som har avgjørende betydning for nasjonale sikkerhetsinteresser, uten å kunne knyttes direkte til en grunnleggende nasjonal funksjon.
 
 Et departement kan innenfor sitt ansvarsområde fatte vedtak om at [kapittel 10](lov/2018-06-01-24/kap10) skal gjelde for virksomheter som har vesentlig betydning for grunnleggende nasjonale funksjoner, eller virksomheter som har vesentlig betydning for nasjonale sikkerhetsinteresser, uten å kunne knyttes direkte til en grunnleggende nasjonal funksjon.
 
@@ -62,13 +70,30 @@ Loven gjelder for domstolene med de særreglene som følger av bestemmelsene om 
 
 ### § 1-5. Definisjoner
 
-I denne loven menes mednasjonale sikkerhetsinteresser: landets suverenitet, territorielle integritet og demokratiske styreform og overordnede sikkerhetspolitiske interesser knyttet tilde øverste statsorganers virksomhet, sikkerhet og handlefrihetforsvar, sikkerhet og beredskapforholdet til andre stater og internasjonale organisasjonerøkonomisk stabilitet og handlefrihetsamfunnets grunnleggende funksjonalitet og befolkningens grunnleggende sikkerhetgrunnleggende nasjonale funksjoner: tjenester, produksjon og andre former for virksomhet som er av en slik betydning at et helt eller delvis bortfall av funksjonen vil få konsekvenser for statens evne til å ivareta nasjonale sikkerhetsinteresserforebyggende sikkerhetsarbeid: planlegging, tilrettelegging, gjennomføring og kontroll av forebyggende tiltak mot sikkerhetstruende virksomhet og følger av slik virksomhetsikkerhetstruende virksomhet: tilsiktede handlinger som direkte eller indirekte kan skade nasjonale sikkerhetsinteressernærstående: personer som er i nær familie eller som har annen nær tilknytning som kan ha betydning for om en person er sikkerhetsmessig skikket.
+I denne loven menes med
+
+1. nasjonale sikkerhetsinteresser: landets suverenitet, territorielle integritet og demokratiske styreform og overordnede sikkerhetspolitiske interesser knyttet til
+
+   1. de øverste statsorganers virksomhet, sikkerhet og handlefrihet
+   2. forsvar, sikkerhet og beredskap
+   3. forholdet til andre stater og internasjonale organisasjoner
+   4. økonomisk stabilitet og handlefrihet
+   5. samfunnets grunnleggende funksjonalitet og befolkningens grunnleggende sikkerhet
+2. grunnleggende nasjonale funksjoner: tjenester, produksjon og andre former for virksomhet som er av en slik betydning at et helt eller delvis bortfall av funksjonen vil få konsekvenser for statens evne til å ivareta nasjonale sikkerhetsinteresser
+3. forebyggende sikkerhetsarbeid: planlegging, tilrettelegging, gjennomføring og kontroll av forebyggende tiltak mot sikkerhetstruende virksomhet og følger av slik virksomhet
+4. sikkerhetstruende virksomhet: tilsiktede handlinger som direkte eller indirekte kan skade nasjonale sikkerhetsinteresser
+5. nærstående: personer som er i nær familie eller som har annen nær tilknytning som kan ha betydning for om en person er sikkerhetsmessig skikket.
 
 ## Kapittel 2. Ansvar og myndighet for forebyggende sikkerhetsarbeid
 
 ### § 2-1. Departementenes ansvar og myndighet for forebyggende sikkerhetsarbeid
 
-Departementene er ansvarlige for forebyggende sikkerhetsarbeid innenfor sine ansvarsområder og skalidentifisere og holde oversikt over grunnleggende nasjonale funksjoneridentifisere og holde oversikt over virksomheter som har vesentlig betydning for grunnleggende nasjonale funksjoner eller for nasjonale sikkerhetsinteresserfatte vedtak etter [§ 1-3](lov/2018-06-01-24/§1-3) første og andre ledd.melde inn oversikter til sikkerhetsmyndigheten etter bokstav a og b og vedtak etter bokstav c.
+Departementene er ansvarlige for forebyggende sikkerhetsarbeid innenfor sine ansvarsområder og skal
+
+1. identifisere og holde oversikt over grunnleggende nasjonale funksjoner
+2. identifisere og holde oversikt over virksomheter som har vesentlig betydning for grunnleggende nasjonale funksjoner eller for nasjonale sikkerhetsinteresser
+3. fatte vedtak etter [§ 1-3](lov/2018-06-01-24/§1-3) første og andre ledd.
+4. melde inn oversikter til sikkerhetsmyndigheten etter bokstav a og b og vedtak etter bokstav c.
 
 Kongen i statsråd kan gi forskrift om departementenes ansvar og myndighet for forebyggende sikkerhetsarbeid.
 
@@ -78,7 +103,17 @@ Kongen i statsråd kan gi forskrift om departementenes ansvar og myndighet for f
 
 Sikkerhetsmyndigheten har det sektorovergripende ansvaret for at forebyggende sikkerhetsarbeid i virksomhetene utføres i samsvar med loven.
 
-Sikkerhetsmyndigheten har det overordnede ansvaret for at sikkerhetstilstanden i alle sektorer kontrolleres, og skal se til at virksomhetene oppfyller sine plikter etter loven. Sikkerhetsmyndigheten skal blant annetse til at det føres tilsyn med at virksomheter oppfyller krav til forebyggende sikkerhetsarbeidutarbeide og vedlikeholde grunnleggende kriterier for tilsyninnhente og vurdere informasjon som har betydning for forebyggende sikkerhetsarbeidgi informasjon, råd og veiledning om forebyggende sikkerhetsarbeid og krav til tiltakholde oversikt over de funksjonene og virksomhetene departementene har identifisert etter [§ 2-1](lov/2018-06-01-24/§2-1)holde oversikt over virksomheter som det er fattet vedtak om etter [§ 1-3](lov/2018-06-01-24/§1-3)legge til rette for informasjonsdeling etter [§ 2-3](lov/2018-06-01-24/§2-3)bidra til å utvikle sikkerhetstiltak og fastsette krav til forebyggende sikkerhetsarbeid.holde oversikt over eiendommer av sikkerhetsmessig betydning som det er sendt varsel om etter [§ 7-6](lov/2018-06-01-24/§7-6) andre ledd.
+Sikkerhetsmyndigheten har det overordnede ansvaret for at sikkerhetstilstanden i alle sektorer kontrolleres, og skal se til at virksomhetene oppfyller sine plikter etter loven. Sikkerhetsmyndigheten skal blant annet
+
+1. se til at det føres tilsyn med at virksomheter oppfyller krav til forebyggende sikkerhetsarbeid
+2. utarbeide og vedlikeholde grunnleggende kriterier for tilsyn
+3. innhente og vurdere informasjon som har betydning for forebyggende sikkerhetsarbeid
+4. gi informasjon, råd og veiledning om forebyggende sikkerhetsarbeid og krav til tiltak
+5. holde oversikt over de funksjonene og virksomhetene departementene har identifisert etter [§ 2-1](lov/2018-06-01-24/§2-1)
+6. holde oversikt over virksomheter som det er fattet vedtak om etter [§ 1-3](lov/2018-06-01-24/§1-3)
+7. legge til rette for informasjonsdeling etter [§ 2-3](lov/2018-06-01-24/§2-3)
+8. bidra til å utvikle sikkerhetstiltak og fastsette krav til forebyggende sikkerhetsarbeid.
+9. holde oversikt over eiendommer av sikkerhetsmessig betydning som det er sendt varsel om etter [§ 7-6](lov/2018-06-01-24/§7-6) andre ledd.
 
 Sikkerhetsmyndigheten er nasjonal fagmyndighet overfor andre land og internasjonale organisasjoner.
 
@@ -100,7 +135,12 @@ Kongen kan gi forskrift om utveksling av trusselvurderinger og annen sikkerhetsi
 
 Kongen utpeker en myndighet som skal drive en nasjonal responsfunksjon for alvorlige digitale angrep og et nasjonalt varslingssystem for digital infrastruktur.
 
-Når det er nødvendig for å utføre oppgaver etter første ledd, kan denne myndigheten behandle personopplysninger i form avmetadata om IKT-trafikk til og fra virksomheter som er knyttet til det nasjonale varslingssystemet for digital infrastrukturinformasjon som er nødvendig for å analysere utløste alarmer i varslingssystemetIP-adresser mottatt fra nasjonale og internasjonale samarbeidspartnerelogger og infisert maskinvare, når det er nødvendig for å bistå en virksomhet i håndteringen av alvorlige digitale angrep og virksomheten samtykker til det.
+Når det er nødvendig for å utføre oppgaver etter første ledd, kan denne myndigheten behandle personopplysninger i form av
+
+1. metadata om IKT-trafikk til og fra virksomheter som er knyttet til det nasjonale varslingssystemet for digital infrastruktur
+2. informasjon som er nødvendig for å analysere utløste alarmer i varslingssystemet
+3. IP-adresser mottatt fra nasjonale og internasjonale samarbeidspartnere
+4. logger og infisert maskinvare, når det er nødvendig for å bistå en virksomhet i håndteringen av alvorlige digitale angrep og virksomheten samtykker til det.
 
 Når det er strengt nødvendig for å utføre oppgaver etter første ledd, kan også andre personopplysninger enn det som er nevnt i andre ledd, behandles.
 
@@ -214,7 +254,11 @@ Kongen kan gi forskrift om krav til dokumentasjon.
 
 ### § 4-5. Varslingsplikt
 
-Virksomheten skal straks varsle sikkerhetsmyndigheten og andre myndigheter som skal utføre tilsyn i medhold av [§ 3-1](lov/2018-06-01-24/§3-1) andre ledd, dersomden har blitt rammet av sikkerhetstruende virksomhetdet er begrunnet mistanke om at sikkerhetstruende virksomhet har rammet eller vil kunne ramme virksomheten eller andre virksomheterdet har skjedd alvorlige brudd på krav til sikkerhet etter [kapittel 5](lov/2018-06-01-24/kap5), [6](lov/2018-06-01-24/kap6) eller [7](lov/2018-06-01-24/kap7).
+Virksomheten skal straks varsle sikkerhetsmyndigheten og andre myndigheter som skal utføre tilsyn i medhold av [§ 3-1](lov/2018-06-01-24/§3-1) andre ledd, dersom
+
+1. den har blitt rammet av sikkerhetstruende virksomhet
+2. det er begrunnet mistanke om at sikkerhetstruende virksomhet har rammet eller vil kunne ramme virksomheten eller andre virksomheter
+3. det har skjedd alvorlige brudd på krav til sikkerhet etter [kapittel 5](lov/2018-06-01-24/kap5), [6](lov/2018-06-01-24/kap6) eller [7](lov/2018-06-01-24/kap7).
 
 Virksomheten skal uten hinder av taushetsplikt varsle tilsynsmyndigheten dersom den får kunnskap om en planlagt eller pågående aktivitet som kan medføre en ikke ubetydelig risiko for at nasjonale sikkerhetsinteresser blir truet. Tilsynsmyndigheten skal uten ugrunnet opphold varsle sikkerhetsmyndigheten og videresende varselet til ansvarlig departement for vurdering av vedtak etter [§ 2-5](lov/2018-06-01-24/§2-5).
 
@@ -228,13 +272,22 @@ Informasjon er skjermingsverdig dersom det kan skade nasjonale sikkerhetsinteres
 
 ### § 5-2. Beskyttelse av skjermingsverdig informasjon
 
-Virksomheten skal sørge for et forsvarlig sikkerhetsnivå for skjermingsverdig informasjon, slik at informasjonenikke blir kjent for uvedkommendeikke går tapt eller blir endreter tilgjengelig ved tjenstlig behov.
+Virksomheten skal sørge for et forsvarlig sikkerhetsnivå for skjermingsverdig informasjon, slik at informasjonen
+
+1. ikke blir kjent for uvedkommende
+2. ikke går tapt eller blir endret
+3. er tilgjengelig ved tjenstlig behov.
 
 Kongen kan gi forskrift om identifisering og beskyttelse av skjermingsverdig informasjon. I særlige tilfeller kan det i en slik forskrift gjøres unntak fra sikkerhetskrav som er fastsatt i eller i medhold av denne loven.
 
 ### § 5-3. Sikkerhetsgradert informasjon
 
-En virksomhet som tilvirker informasjon, skal sikkerhetsgradere og merke informasjonen dersom det kan skade nasjonale sikkerhetsinteresser om den blir kjent for uvedkommende. Følgende sikkerhetsgrader skal benyttes:STRENGT HEMMELIG dersom det kan få helt avgjørende skadefølgerHEMMELIG dersom det kan få alvorlige skadefølgerKONFIDENSIELT dersom det kan få skadefølgerBEGRENSET dersom det i noen grad kan få skadefølger.
+En virksomhet som tilvirker informasjon, skal sikkerhetsgradere og merke informasjonen dersom det kan skade nasjonale sikkerhetsinteresser om den blir kjent for uvedkommende. Følgende sikkerhetsgrader skal benyttes:
+
+1. STRENGT HEMMELIG dersom det kan få helt avgjørende skadefølger
+2. HEMMELIG dersom det kan få alvorlige skadefølger
+3. KONFIDENSIELT dersom det kan få skadefølger
+4. BEGRENSET dersom det i noen grad kan få skadefølger.
 
 Sikkerhetsgradering skal ikke brukes i større utstrekning eller for lengre tid enn nødvendig. Dersom ikke annet er bestemt, bortfaller sikkerhetsgraderingen etter 30 år.
 
@@ -278,7 +331,12 @@ Kongen kan gi forskrift om identifisering av skjermingsverdige informasjonssyste
 
 ### § 6-2. Beskyttelse av skjermingsverdige informasjonssystemer
 
-Virksomheten skal sørge for et forsvarlig sikkerhetsnivå for skjermingsverdige informasjonssystemer, slik atinformasjonssystemene fungerer slik de skaluvedkommende ikke får tilgang til informasjonen som behandles i systemeneinformasjonen som behandles i systemene, ikke endres eller går taptinformasjonen som behandles i systemene, er tilgjengelig ved tjenstlig behov for tilgang.
+Virksomheten skal sørge for et forsvarlig sikkerhetsnivå for skjermingsverdige informasjonssystemer, slik at
+
+1. informasjonssystemene fungerer slik de skal
+2. uvedkommende ikke får tilgang til informasjonen som behandles i systemene
+3. informasjonen som behandles i systemene, ikke endres eller går tapt
+4. informasjonen som behandles i systemene, er tilgjengelig ved tjenstlig behov for tilgang.
 
 Kongen kan gi forskrift om identifisering og beskyttelse av skjermingsverdige informasjonssystemer. I særlige tilfeller kan det i en slik forskrift gjøres unntak fra sikkerhetskrav som er fastsatt i eller i medhold av denne loven.
 
@@ -302,7 +360,12 @@ Flere virksomheter som er tilknyttet samme informasjonssystem, kan avtale at en 
 
 Virksomheten skal se til at autoriserte brukere av informasjonssystemer som overvåkes, får vite hva som er formålet med behandlingen av personopplysningene og hvilke overvåkingstiltak som er iverksatt. De skal også få vite om personopplysningene blir utlevert og i så fall til hvem.
 
-Kongen kan gi forskrift om overvåking av skjermingsverdige informasjonssystemer, blant annet omhva slags informasjon som kan eller skal registreres, lagres og analyseres i forbindelse med overvåkingenhvem som skal ha tilgang til informasjon som er registrert og lagret i forbindelse med overvåkingenhvordan tilgang til registrert eller lagret informasjon skal gisat informasjonen etter første og andre ledd skal ha en annen lagringstid enn fem år.
+Kongen kan gi forskrift om overvåking av skjermingsverdige informasjonssystemer, blant annet om
+
+1. hva slags informasjon som kan eller skal registreres, lagres og analyseres i forbindelse med overvåkingen
+2. hvem som skal ha tilgang til informasjon som er registrert og lagret i forbindelse med overvåkingen
+3. hvordan tilgang til registrert eller lagret informasjon skal gis
+4. at informasjonen etter første og andre ledd skal ha en annen lagringstid enn fem år.
 
 ### § 6-5. Inntrengingstesting av skjermingsverdige informasjonssystemer
 
@@ -356,7 +419,11 @@ Kongen kan gi forskrift om utpeking av objekter og infrastruktur og om melding t
 
 ### § 7-2. Klassifisering av skjermingsverdige objekter og infrastruktur
 
-Skjermingsverdige objekter og infrastruktur skal klassifiseres når det foreligger forhold som nevnt i [§ 7-1](lov/2018-06-01-24/§7-1). Følgende klassifiseringsgrader skal benyttes:MEGET KRITISK dersom det kan få helt avgjørende skadefølgerKRITISK dersom det kan få alvorlige skadefølgerVIKTIG dersom det kan få skadefølger.
+Skjermingsverdige objekter og infrastruktur skal klassifiseres når det foreligger forhold som nevnt i [§ 7-1](lov/2018-06-01-24/§7-1). Følgende klassifiseringsgrader skal benyttes:
+
+1. MEGET KRITISK dersom det kan få helt avgjørende skadefølger
+2. KRITISK dersom det kan få alvorlige skadefølger
+3. VIKTIG dersom det kan få skadefølger.
 
 Klassifiseringen skal bygge på en skadevurdering, og det skal spesifiseres hvilke grunnleggende nasjonale funksjoner objektet eller infrastrukturen understøtter, eller hvilke nasjonale sikkerhetsinteresser som kan bli skadet. Det skal også fremgå hva konsekvensene av redusert funksjonalitet, skadeverk, ødeleggelse eller rettsstridig overtakelse vil være. Begrunnelsen for klassifiseringen skal inngå i departementets og sikkerhetsmyndighetens oversikt over skjermingsverdige objekter og infrastruktur.
 
@@ -368,7 +435,13 @@ Kongen kan gi forskrift om klassifisering av skjermingsverdige objekter og infra
 
 ### § 7-3. Beskyttelse av objekter og infrastruktur
 
-Virksomheten skal iverksette nødvendige sikkerhetstiltak for å opprettholde et forsvarlig sikkerhetsnivå. Sikkerhetstiltakene kan værefysiske, elektroniske, menneskelige eller organisatoriske barrierer,systemer som skal oppdage og varsle om aktivitet eller hendelser,systemer og rutiner for avklaring vedrørende aktiviteter og hendelser og bakgrunnen for dem,oppfølging av uønskede aktiviteter og uønskede hendelser elleren kombinasjon av tiltakene nevnt i bokstav a til d.
+Virksomheten skal iverksette nødvendige sikkerhetstiltak for å opprettholde et forsvarlig sikkerhetsnivå. Sikkerhetstiltakene kan være
+
+1. fysiske, elektroniske, menneskelige eller organisatoriske barrierer,
+2. systemer som skal oppdage og varsle om aktivitet eller hendelser,
+3. systemer og rutiner for avklaring vedrørende aktiviteter og hendelser og bakgrunnen for dem,
+4. oppfølging av uønskede aktiviteter og uønskede hendelser eller
+5. en kombinasjon av tiltakene nevnt i bokstav a til d.
 
 Virksomheten skal foreta en vurdering av risiko for å avgjøre hvilke tiltak som er nødvendige for å beskytte objektet eller infrastrukturen.
 
@@ -390,7 +463,11 @@ Kongen kan gi forskrift om testing av sikkerhetstiltak for skjermingsverdige obj
 
 ### § 7-5. Forbud mot adgang til steder og områder
 
-Kongen kan av hensyn til forsvar, sikkerhet og beredskap gi forskrift om eller fatte enkeltvedtak om at personer nektesadgang til eller opphold i nærheten av militære områderadgang til eller opphold i nærheten av bestemt angitte steder eller områderadgang til å overvære militære øvelser eller forsøk, militære operasjoner eller annen militær aktivitet.
+Kongen kan av hensyn til forsvar, sikkerhet og beredskap gi forskrift om eller fatte enkeltvedtak om at personer nektes
+
+1. adgang til eller opphold i nærheten av militære områder
+2. adgang til eller opphold i nærheten av bestemt angitte steder eller områder
+3. adgang til å overvære militære øvelser eller forsøk, militære operasjoner eller annen militær aktivitet.
 
 ### § 7-6. Eiendommer av sikkerhetsmessig betydning
 
@@ -440,7 +517,23 @@ I vurderingen skal det legges vekt på forhold som er relevante for personens p�
 
 Klareringsmyndigheten skal se til at klareringssaken er så godt opplyst som mulig. Dersom det er tvil om en person er sikkerhetsmessig skikket, skal klareringsmyndigheten holde en sikkerhetssamtale med personen.
 
-Opplysninger om følgende forhold kan tillegges vekt:spionasje, planlegging eller gjennomføring av terror, sabotasje, attentat eller lignende, og forsøk på slik virksomhetstraffbare handlinger eller forberedelser eller oppfordringer til straffbare handlingerforhold som kan føre til at personen selv, eller personens nærstående, utsettes for trusler mot liv, helse, frihet eller ære, slik at personen kan bli presset til å handle i strid med nasjonale sikkerhetsinteresserforfalskning av eller feilaktig eller unnlatt framstilling av faktiske forhold som personen måtte forstå har betydning for sikkerhetsklareringenmisbruk av alkohol eller andre rusmidlerenhver sykdom som på medisinsk grunnlag kan gi forbigående eller varig svekkelse av påliteligheten, lojaliteten eller dømmekraftenkompromittering av skjermingsverdig informasjon eller brudd på sikkerhetsbestemmelsernektelse eller unnlatelse av å gi personopplysninger om seg selvikke å orientere den autorisasjonsansvarlige om egne forhold av betydning for sikkerhetennektelse av å gi taushetsløfte, tilkjennegivelse av ikke å ville være bundet av taushetsløfte eller nektelse eller unnlatelse av å delta i sikkerhetssamtaleøkonomiske forhold som kan friste ham eller henne til å handle i strid med nasjonale sikkerhetsinteresserforbindelse med organisasjoner som har ulovlig formål, og som kan true den demokratiske samfunnsordenen, eller som anser vold eller terrorhandlinger som akseptable virkemidlermanglende mulighet til å gjennomføre en tilfredsstillende personkontrolltilknytning til andre staterannet som kan gi grunn til å frykte at en person vil kunne opptre i strid med nasjonale sikkerhetsinteresser.
+Opplysninger om følgende forhold kan tillegges vekt:
+
+1. spionasje, planlegging eller gjennomføring av terror, sabotasje, attentat eller lignende, og forsøk på slik virksomhet
+2. straffbare handlinger eller forberedelser eller oppfordringer til straffbare handlinger
+3. forhold som kan føre til at personen selv, eller personens nærstående, utsettes for trusler mot liv, helse, frihet eller ære, slik at personen kan bli presset til å handle i strid med nasjonale sikkerhetsinteresser
+4. forfalskning av eller feilaktig eller unnlatt framstilling av faktiske forhold som personen måtte forstå har betydning for sikkerhetsklareringen
+5. misbruk av alkohol eller andre rusmidler
+6. enhver sykdom som på medisinsk grunnlag kan gi forbigående eller varig svekkelse av påliteligheten, lojaliteten eller dømmekraften
+7. kompromittering av skjermingsverdig informasjon eller brudd på sikkerhetsbestemmelser
+8. nektelse eller unnlatelse av å gi personopplysninger om seg selv
+9. ikke å orientere den autorisasjonsansvarlige om egne forhold av betydning for sikkerheten
+10. nektelse av å gi taushetsløfte, tilkjennegivelse av ikke å ville være bundet av taushetsløfte eller nektelse eller unnlatelse av å delta i sikkerhetssamtale
+11. økonomiske forhold som kan friste ham eller henne til å handle i strid med nasjonale sikkerhetsinteresser
+12. forbindelse med organisasjoner som har ulovlig formål, og som kan true den demokratiske samfunnsordenen, eller som anser vold eller terrorhandlinger som akseptable virkemidler
+13. manglende mulighet til å gjennomføre en tilfredsstillende personkontroll
+14. tilknytning til andre stater
+15. annet som kan gi grunn til å frykte at en person vil kunne opptre i strid med nasjonale sikkerhetsinteresser.
 
 Politisk engasjement og annet lovlig samfunnsengasjement, som medlemskap i, sympati med eller aktivitet for lovlige politiske partier eller organisasjoner, skal ikke tillegges vekt i vurderingen av om en person er sikkerhetsmessig skikket.
 
@@ -470,7 +563,14 @@ Behandlingsansvarlige for relevante registre skal legge til rette for digitalise
 
 Opplysninger som klareringsmyndigheten har fått i forbindelse med personkontroll, skal ikke benyttes til andre formål enn vurdering av om personen er sikkerhetsmessig skikket. Klareringsmyndigheten kan likevel gi opplysninger til den autorisasjonsansvarlige dersom det er nødvendig for sikkerhetsmessig oppfølging av personen.
 
-Kongen kan gi forskrift ompersonkontroll av nærståendefornyet personkontrollhvilke registre som er relevante for personkontrollframgangsmåten ved registerundersøkelser i utlandetutlevering av opplysninger ved tilsvarende personkontroll som utføres av andre lands myndigheterarkivering, oppbevaring, forsendelse og digitalisert overføring av personkontrollopplysninger.
+Kongen kan gi forskrift om
+
+1. personkontroll av nærstående
+2. fornyet personkontroll
+3. hvilke registre som er relevante for personkontroll
+4. framgangsmåten ved registerundersøkelser i utlandet
+5. utlevering av opplysninger ved tilsvarende personkontroll som utføres av andre lands myndigheter
+6. arkivering, oppbevaring, forsendelse og digitalisert overføring av personkontrollopplysninger.
 
 ### § 8-6. Bruk av vilkår ved klarering
 
@@ -506,7 +606,11 @@ Kongen kan gi forskrift om autorisasjon, autorisasjonsansvarliges plikter og vir
 
 Dersom den autorisasjonsansvarlige får opplysninger som gir rimelig grunn til å tvile på at en autorisert person er sikkerhetsmessig skikket, skal den autorisasjonsansvarlige vurdere om autorisasjonen skal opprettholdes, tilbakekalles, nedsettes eller suspenderes. Den autorisasjonsansvarlige skal melde fra til klareringsmyndigheten om avgjørelsen.
 
-En autorisasjon bortfaller dersompersonen fratrer stillingen som autorisasjonen er knyttet tilbehovet for autorisasjonen ikke lenger er til stedepersonen ikke lenger har tilstrekkelig klarering.
+En autorisasjon bortfaller dersom
+
+1. personen fratrer stillingen som autorisasjonen er knyttet til
+2. behovet for autorisasjonen ikke lenger er til stede
+3. personen ikke lenger har tilstrekkelig klarering.
 
 ### § 8-11. Varslingsplikt om forhold som kan påvirke sikkerhetsmessig skikkethet
 
@@ -526,7 +630,13 @@ Kongen kan gi forskrift om utlevering av informasjon i klareringssaker til Polit
 
 Den som har vært vurdert klarert, har rett til å få vite resultatet av vurderingen. Hvis det blir avgjort at personen ikke får den ønskede klaringen, skal klareringsmyndigheten uoppfordret informere personen om resultatet og begrunnelsen for dette. Samtidig skal klareringsmyndigheten opplyse om retten til å klage på avgjørelsen.
 
-Begrunnelsen skal ikke inneholde opplysninger som kan røpe forholdsom har betydning for nasjonale sikkerhetsinteressersom er av betydning for kildevernsom personen ikke bør få kjennskap til av hensyn til helsensom gjelder personens nærstående, og som personen ikke bør få kjennskap tilsom angår tekniske innretninger, produksjonsmetoder, forretningsmessige analyser og beregninger og forretningshemmeligheter ellers, når de er av en slik art at andre kan utnytte dem i sin næringsvirksomhet.
+Begrunnelsen skal ikke inneholde opplysninger som kan røpe forhold
+
+1. som har betydning for nasjonale sikkerhetsinteresser
+2. som er av betydning for kildevern
+3. som personen ikke bør få kjennskap til av hensyn til helsen
+4. som gjelder personens nærstående, og som personen ikke bør få kjennskap til
+5. som angår tekniske innretninger, produksjonsmetoder, forretningsmessige analyser og beregninger og forretningshemmeligheter ellers, når de er av en slik art at andre kan utnytte dem i sin næringsvirksomhet.
 
 Klareringsmyndigheten skal utarbeide en intern begrunnelse der alle relevante forhold inngår.
 
@@ -624,7 +734,11 @@ Kongen i statsråd kan gi forskrift om varslingsplikten og om myndigheten til å
 
 Den som vil erverve en kvalifisert eierandel i en virksomhet som er underlagt loven, jf. [§ 1-3](lov/2018-06-01-24/§1-3), skal sende melding til departementet om dette. I de tilfellene hvor virksomheten ikke omfattes av noe departements ansvarsområde, skal meldingen sendes til sikkerhetsmyndigheten.
 
-En kvalifisert eierandel innebærer at ervervet direkte eller indirekte samlet vil føre til at erververen oppnårminst en tredjedel av aksjekapitalen, andelene eller stemmene i virksomheten,rett til å bli eier av minst en tredjedel av aksjekapitalen eller andelene ellerbetydelig innflytelse over forvaltningen av selskapet på annen måte.
+En kvalifisert eierandel innebærer at ervervet direkte eller indirekte samlet vil føre til at erververen oppnår
+
+1. minst en tredjedel av aksjekapitalen, andelene eller stemmene i virksomheten,
+2. rett til å bli eier av minst en tredjedel av aksjekapitalen eller andelene eller
+3. betydelig innflytelse over forvaltningen av selskapet på annen måte.
 
 Likt med aksjeeierens egne aksjer regnes de aksjene som eies eller overtas av aksjeeierens nærstående, jf. [verdipapirhandelloven § 2-5](lov/2007-06-29-75/§2-5). Det samme gjelder for andeler som eies eller overtas av andelseierens nærstående.
 
@@ -672,7 +786,12 @@ Kongen kan gi forskrift om tvangsmulkt.
 
 ### § 11-3. Overtredelsesgebyr
 
-Tilsynsmyndigheten kan pålegge en virksomhet overtredelsesgebyr dersom virksomheten eller noen som handler på dennes vegne, forsettlig eller uaktsomtovertrer bestemmelser gitt i eller i medhold av [§§ 3-4](lov/2018-06-01-24/§3-4), [4-3](lov/2018-06-01-24/§4-3), [4-4](lov/2018-06-01-24/§4-4), [4-5](lov/2018-06-01-24/§4-5), [5-2](lov/2018-06-01-24/§5-2), [6-2](lov/2018-06-01-24/§6-2), [6-3](lov/2018-06-01-24/§6-3), [7-3](lov/2018-06-01-24/§7-3), [9-2](lov/2018-06-01-24/§9-2) første ledd, [9-4](lov/2018-06-01-24/§9-4) første ledd første punktum eller [§ 9-4](lov/2018-06-01-24/§9-4) andre ledd første eller andre punktumovertrer et pålegg gitt med hjemmel i [§ 3-6](lov/2018-06-01-24/§3-6)gir uriktige eller ufullstendige opplysninger til tilsynsmyndigheten etter [§§ 3-4](lov/2018-06-01-24/§3-4) eller [4-5](lov/2018-06-01-24/§4-5)medvirker til overtredelser som nevnt i bokstav a til c.
+Tilsynsmyndigheten kan pålegge en virksomhet overtredelsesgebyr dersom virksomheten eller noen som handler på dennes vegne, forsettlig eller uaktsomt
+
+1. overtrer bestemmelser gitt i eller i medhold av [§§ 3-4](lov/2018-06-01-24/§3-4), [4-3](lov/2018-06-01-24/§4-3), [4-4](lov/2018-06-01-24/§4-4), [4-5](lov/2018-06-01-24/§4-5), [5-2](lov/2018-06-01-24/§5-2), [6-2](lov/2018-06-01-24/§6-2), [6-3](lov/2018-06-01-24/§6-3), [7-3](lov/2018-06-01-24/§7-3), [9-2](lov/2018-06-01-24/§9-2) første ledd, [9-4](lov/2018-06-01-24/§9-4) første ledd første punktum eller [§ 9-4](lov/2018-06-01-24/§9-4) andre ledd første eller andre punktum
+2. overtrer et pålegg gitt med hjemmel i [§ 3-6](lov/2018-06-01-24/§3-6)
+3. gir uriktige eller ufullstendige opplysninger til tilsynsmyndigheten etter [§§ 3-4](lov/2018-06-01-24/§3-4) eller [4-5](lov/2018-06-01-24/§4-5)
+4. medvirker til overtredelser som nevnt i bokstav a til c.
 
 Ved fastsettelse av overtredelsesgebyrets størrelse skal det særlig legges vekt på overtredelsens grovhet, overtredelsens varighet, utvist skyld og virksomhetens omsetning. Et vedtak om overtredelsesgebyr er et særlig tvangsgrunnlag etter [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13).
 

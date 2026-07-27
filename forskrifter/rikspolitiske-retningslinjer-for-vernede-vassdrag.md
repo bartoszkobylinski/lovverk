@@ -15,7 +15,7 @@ xml_hash: "e9f8a88ef3d06832cf2dc178b7234f80c428e365798344527db7454030719e44"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,17 @@ eu_basis: []
 
 ## 1. Retningslinjenes virkeområde
 
-Disse retningslinjene gjelder vernede vassdrag, som er de vassdrag eller deler av vassdrag som omfattes av Stortingsvedtak av:6. april 1973, om Verneplan I for vassdrag,30. oktober 1980, om Verneplan II for vassdrag,19. juni 1986, om Verneplan III for vassdrag,1. april 1993, om Verneplan IV for vassdrag.
+Disse retningslinjene gjelder vernede vassdrag, som er de vassdrag eller deler av vassdrag som omfattes av Stortingsvedtak av:
 
-Retningslinjene gjelder følgende deler av det enkelte verneobjekt avgrenset slik:vassdragsbeltet, dvs. hovedelver, sideelver, større bekker, sjøer og tjern og et område på inntil 100 meters bredde langs sidene av disse,andre deler av nedbørfeltet som det er faglig dokumentert at har betydning for vassdragets verneverdi.
+- 6\. april 1973, om Verneplan I for vassdrag,
+- 30\. oktober 1980, om Verneplan II for vassdrag,
+- 19\. juni 1986, om Verneplan III for vassdrag,
+- 1\. april 1993, om Verneplan IV for vassdrag.
+
+Retningslinjene gjelder følgende deler av det enkelte verneobjekt avgrenset slik:
+
+- vassdragsbeltet, dvs. hovedelver, sideelver, større bekker, sjøer og tjern og et område på inntil 100 meters bredde langs sidene av disse,
+- andre deler av nedbørfeltet som det er faglig dokumentert at har betydning for vassdragets verneverdi.
 
 ## 2. Saklig virkeområde
 
@@ -48,7 +56,13 @@ De bør bruke retningslinjene i sin øvrige forvaltningsvirksomhet innenfor de r
 
 De nasjonale mål for forvaltningen av de vernede vassdrag er gitt ved Stortingets behandling av verneplanene for vassdrag, bl.a. i Innst.S. nr. 10 (1980-81).
 
-For å oppnå målene, må det særlig legges vekt på å gi grunnlag for å:unngå inngrep som reduserer verdien for landskapsbilde, naturvern, friluftsliv, vilt, fisk, kulturminner og kulturmiljø,sikre referanseverdien i de mest urørte vassdragene,sikre og utvikle friluftslivsverdien, særlig i områder nær befolkningskonsentrasjoner,sikre verdien knyttet til forekomster/områder i de vernede vassdragenes nedbørfelt som det er faglig dokumentert at har betydning for vassdragets verneverdi,sikre de vassdragsnære områdenes verdi for landbruk og reindrift mot nedbygging der disse interessene var en del av grunnlaget for vernevedtaket.
+For å oppnå målene, må det særlig legges vekt på å gi grunnlag for å:
+
+1. unngå inngrep som reduserer verdien for landskapsbilde, naturvern, friluftsliv, vilt, fisk, kulturminner og kulturmiljø,
+2. sikre referanseverdien i de mest urørte vassdragene,
+3. sikre og utvikle friluftslivsverdien, særlig i områder nær befolkningskonsentrasjoner,
+4. sikre verdien knyttet til forekomster/områder i de vernede vassdragenes nedbørfelt som det er faglig dokumentert at har betydning for vassdragets verneverdi,
+5. sikre de vassdragsnære områdenes verdi for landbruk og reindrift mot nedbygging der disse interessene var en del av grunnlaget for vernevedtaket.
 
 ## 4. Retningslinjer for vassdragsbeltet
 
@@ -71,7 +85,14 @@ Vassdragsbeltets avgrensning og forvaltning bør differensieres etter registrert
 
 ## 5. Ansvar for oppfølging
 
-Ansvaret for å følge opp disse retningslinjene i forhold til planmyndighetene i kommunene og fylkeskommunene tillegges følgende instanser:Miljøverndepartementet har overordnet ansvar for generell veiledning, utvikling og oppfølging i forhold til disse retningslinjene. Ansvaret skal utøves i nært samarbeid med andre berørte departementer.Miljøverndepartementets og Nærings- og energidepartementets underliggende etater vil:sørge for å øke kunnskapsnivået om verneverdiene tilknyttet de vernede vassdrag,utarbeide informasjon om effekter av inngrep i og ved vassdrag.Statsforvalteren, fylkeskommunen, samisk kulturminnevern, og statlige fagmyndigheter har ansvar for å gi opplysninger om verneverdier tilknyttet de vernede vassdragene og å se til at kommunene følger opp disse retningslinjene.
+Ansvaret for å følge opp disse retningslinjene i forhold til planmyndighetene i kommunene og fylkeskommunene tillegges følgende instanser:
+
+1. Miljøverndepartementet har overordnet ansvar for generell veiledning, utvikling og oppfølging i forhold til disse retningslinjene. Ansvaret skal utøves i nært samarbeid med andre berørte departementer.
+2. Miljøverndepartementets og Nærings- og energidepartementets underliggende etater vil:
+
+   - sørge for å øke kunnskapsnivået om verneverdiene tilknyttet de vernede vassdrag,
+   - utarbeide informasjon om effekter av inngrep i og ved vassdrag.
+3. Statsforvalteren, fylkeskommunen, samisk kulturminnevern, og statlige fagmyndigheter har ansvar for å gi opplysninger om verneverdier tilknyttet de vernede vassdragene og å se til at kommunene følger opp disse retningslinjene.
 
 Statlige fagmyndigheter har ansvar for å tillempe retningslinjene i sin øvrige forvaltningsvirksomhet så langt mulig.
 
@@ -199,7 +220,11 @@ De nasjonale mål for forvaltningen av de vernede vassdragene kan fremmes i komm
 
 Bruk og vern av selve vannstrengen planlegges etter [PBL § 20-4](lov/2008-06-27-71/§20-4), første ledd nr 5 («Områder for særskilt bruk eller vern av sjø og vassdrag, herunder ferdsel-, fiske-, akvakultur-, natur- og friluftsområder hver for seg eller i kombinasjon med en eller flere av de nevnte brukskategorier»).
 
-Vannstrengen bør i kommuneplanens arealdel legges ut til:friluftsområde i områder av klasse 1,frilufts- og naturområde i kombinasjon i områder av klasse 2,naturområde i områder av klasse 3.
+Vannstrengen bør i kommuneplanens arealdel legges ut til:
+
+- friluftsområde i områder av klasse 1,
+- frilufts- og naturområde i kombinasjon i områder av klasse 2,
+- naturområde i områder av klasse 3.
 
 ### Arealet langs vannstrengen
 
@@ -233,7 +258,13 @@ For å oppnå ønsket beskyttelse av mindre arealer som er spesielt viktige for 
 
 *Forholdet til Forsvaret*
 
-Både som byggherre og eiendomsforvalter er Forsvaret underlagt samme lov- og regelverk som samfunnet for øvrig. Når det gjelder Forsvarets operative virksomhet, forutsettes det at de rikspolitiske retningslinjene for vernede vassdrag ikke medfører endrete muligheter til å drive slik virksomhet. Med operativ virksomhet menes all militær virksomhet i fredstid som er nødvendig for å planlegge, forberede og gjennomføre:overvåking av land-, sjø- og luftterritoriet,forsvarsplaner, herunder feltbefestninger, anlegg for installasjoner og stridsmidler,beredskapstiltak, herunder utrykningsøvelser med militære styrker,støtte til det sivile samfunn og politiet som krever innsetting av styrker,rene militære operasjoner i spesielle situasjoner, herunder søk og redningstjeneste.
+Både som byggherre og eiendomsforvalter er Forsvaret underlagt samme lov- og regelverk som samfunnet for øvrig. Når det gjelder Forsvarets operative virksomhet, forutsettes det at de rikspolitiske retningslinjene for vernede vassdrag ikke medfører endrete muligheter til å drive slik virksomhet. Med operativ virksomhet menes all militær virksomhet i fredstid som er nødvendig for å planlegge, forberede og gjennomføre:
+
+- overvåking av land-, sjø- og luftterritoriet,
+- forsvarsplaner, herunder feltbefestninger, anlegg for installasjoner og stridsmidler,
+- beredskapstiltak, herunder utrykningsøvelser med militære styrker,
+- støtte til det sivile samfunn og politiet som krever innsetting av styrker,
+- rene militære operasjoner i spesielle situasjoner, herunder søk og redningstjeneste.
 
 Vanlige øvelser omfattes ikke av ovennevnte punkter, men det forutsettes at militær virksomhet sidestilles med tilsvarende sivil virksomhet som måtte være tillatt.
 

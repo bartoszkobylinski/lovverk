@@ -15,7 +15,7 @@ xml_hash: "a7cc2d154d69267f163de8abdbaeb39dfdc6815e0e1e7e9f457f1b7b696095c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,12 @@ Lovens formål er å legge til rette for at romaktiviteter bidrar til næringsut
 
 ### § 2. Saklig virkeområde
 
-Loven gjelder romaktivitet. Med romaktivitet menes:drift av romhavneroppskyting av romgjenstander ut i verdensrommetpåvirkning eller drift av romgjenstander i verdensrommetannen aktivitet med vesentlig tilknytning til aktiviteter som nevnt i bokstav a til c.
+Loven gjelder romaktivitet. Med romaktivitet menes:
+
+1. drift av romhavner
+2. oppskyting av romgjenstander ut i verdensrommet
+3. påvirkning eller drift av romgjenstander i verdensrommet
+4. annen aktivitet med vesentlig tilknytning til aktiviteter som nevnt i bokstav a til c.
 
 Kongen kan gi forskrift eller treffe enkeltvedtak om hva som skal anses som romaktivitet.
 
@@ -40,13 +45,20 @@ Departementet kan gi forskrift om at militær romaktivitet helt eller delvis ska
 
 Loven gjelder i Norge, medregnet Svalbard og Jan Mayen, på Bouvetøya og i de norske bilandene i Antarktis.
 
-Dersom det er nødvendig for å ivareta Norges forpliktelser etter [traktat 27. januar 1967 om prinsippene for statenes virksomhet ved utforskning og bruk av det ytre verdensrom, innbefattet månen og andre himmellegemer](traktat/1967-01-27-1), skal departementet gi forskrift om at loven gjelder for romaktivitet utenfor norsk territorium som foretas:på norske fartøy eller innretningerav en norsk statsborger eller en juridisk person etablert i Norge.
+Dersom det er nødvendig for å ivareta Norges forpliktelser etter [traktat 27. januar 1967 om prinsippene for statenes virksomhet ved utforskning og bruk av det ytre verdensrom, innbefattet månen og andre himmellegemer](traktat/1967-01-27-1), skal departementet gi forskrift om at loven gjelder for romaktivitet utenfor norsk territorium som foretas:
+
+1. på norske fartøy eller innretninger
+2. av en norsk statsborger eller en juridisk person etablert i Norge.
 
 Departementet kan gi forskrift om at loven helt eller delvis skal gjelde på utenlandske fartøyer eller på innretninger utenfor norsk territorium.
 
 ### § 4. Definisjoner
 
-I denne loven gjelder følgende definisjoner:*militær romaktivitet:* romaktivitet som utføres av Forsvarsdepartementet med underliggende etater, av allierte styrker eller av andre virksomheter for eller på vegne av Forsvarsdepartementet med underliggende etater eller allierte styrker, unntatt bruk av våpen som passerer verdensrommet på vei mot målet*romgjenstand:* enhver gjenstand eller bestanddel som skytes opp i verdensrommet*operatør:* alle som utøver romaktivitet.
+I denne loven gjelder følgende definisjoner:
+
+1. *militær romaktivitet:* romaktivitet som utføres av Forsvarsdepartementet med underliggende etater, av allierte styrker eller av andre virksomheter for eller på vegne av Forsvarsdepartementet med underliggende etater eller allierte styrker, unntatt bruk av våpen som passerer verdensrommet på vei mot målet
+2. *romgjenstand:* enhver gjenstand eller bestanddel som skytes opp i verdensrommet
+3. *operatør:* alle som utøver romaktivitet.
 
 ## Kapittel 2. Tillatelser og overdragelser
 
@@ -58,7 +70,17 @@ Departementet kan gi forskrift og treffe enkeltvedtak om unntak fra kravet om ti
 
 ### § 6. Vilkår for tillatelse
 
-Tilsynsmyndigheten kan etter søknad gi tillatelse til romaktivitet dersom følgende krav er oppfylt:Operatøren har nødvendig kompetanse og tilstrekkelige økonomiske ressurser for å utøve romaktiviteten på en forsvarlig måte, aktiviteten er forsikret i tråd med [§ 18](lov/2025-12-22-128/§18), og det legges frem dokumentasjon for eierforhold.Romaktiviteten kan gjennomføres på en forsvarlig måte i samsvar med operatørens plikter under [kapittel 4](lov/2025-12-22-128/kap4) og uten uforholdsmessige konsekvenser for menneskene og miljøet på jorden eller i verdensrommet. For å dokumentere at kravene er oppfylt, skal operatøren legge frem:en vurdering av risikoen forbundet med romaktivitetenen plan for systematisk styring av risikoen ved romaktivitetenen miljøkonsekvensutredningen plan for avslutning av romaktiviteten.Operatøren har avklart eventuell lisensplikt etter eksportkontrollregelverket og overholder dokumentasjonskrav etter Den internasjonale telekommunikasjonsunionens (ITU) regler for satellittinnmelding.Romaktiviteten er ikke i strid med Norges utenriks- eller sikkerhetspolitiske interesser. Som grunnlag for denne vurderingen skal tilsynsmyndigheten innhente uttalelse fra ansvarlige departementer.
+Tilsynsmyndigheten kan etter søknad gi tillatelse til romaktivitet dersom følgende krav er oppfylt:
+
+1. Operatøren har nødvendig kompetanse og tilstrekkelige økonomiske ressurser for å utøve romaktiviteten på en forsvarlig måte, aktiviteten er forsikret i tråd med [§ 18](lov/2025-12-22-128/§18), og det legges frem dokumentasjon for eierforhold.
+2. Romaktiviteten kan gjennomføres på en forsvarlig måte i samsvar med operatørens plikter under [kapittel 4](lov/2025-12-22-128/kap4) og uten uforholdsmessige konsekvenser for menneskene og miljøet på jorden eller i verdensrommet. For å dokumentere at kravene er oppfylt, skal operatøren legge frem:
+
+   1. en vurdering av risikoen forbundet med romaktiviteten
+   2. en plan for systematisk styring av risikoen ved romaktiviteten
+   3. en miljøkonsekvensutredning
+   4. en plan for avslutning av romaktiviteten.
+3. Operatøren har avklart eventuell lisensplikt etter eksportkontrollregelverket og overholder dokumentasjonskrav etter Den internasjonale telekommunikasjonsunionens (ITU) regler for satellittinnmelding.
+4. Romaktiviteten er ikke i strid med Norges utenriks- eller sikkerhetspolitiske interesser. Som grunnlag for denne vurderingen skal tilsynsmyndigheten innhente uttalelse fra ansvarlige departementer.
 
 Tillatelse kan ikke gis dersom romaktiviteten innebærer en ikke ubetydelig risiko for at nasjonale sikkerhetsinteresser blir truet. De ansvarlige departementene skal konsulteres i vurderingen av om det foreligger en slik risiko.
 
@@ -66,7 +88,11 @@ Departementet kan gi forskrift om kravene som skal være oppfylt for å kunne f�
 
 ### § 7. Overdragelser
 
-Følgende handlinger krever samtykke fra departementet:overdragelser av tillatelser til romaktivitetandre direkte eller indirekte interesseoverføringer som kan gi bestemmende innflytelse over en operatør som har fått tillatelse til romaktivitetoverdragelser av eiendomsretten til romgjenstander.
+Følgende handlinger krever samtykke fra departementet:
+
+1. overdragelser av tillatelser til romaktivitet
+2. andre direkte eller indirekte interesseoverføringer som kan gi bestemmende innflytelse over en operatør som har fått tillatelse til romaktivitet
+3. overdragelser av eiendomsretten til romgjenstander.
 
 Departementet kan stille som vilkår for å samtykke i overdragelse til utlandet at det inngås avtale mellom Norge og den andre staten om Norges folkerettslige erstatningsansvar.
 
@@ -84,7 +110,18 @@ Departementet kan gi forskrift om utmålingen av gebyr etter første ledd og inn
 
 Tilsynsmyndigheten skal føre et nasjonalt register over romgjenstander som Norge er oppskytingsstat for etter [konvensjon 12. november 1974 om registrering av gjenstander som er skutt ut i verdensrommet (registreringskonvensjonen)](traktat/1974-11-12-1) artikkel I og artikkel II paragraf 1. Dersom Norge er oppskytingsstat sammen med andre stater, skal statene i fellesskap bestemme hvilken stat som skal registrere gjenstanden etter registreringskonvensjonen artikkel II paragraf 2.
 
-Operatøren skal så snart som mulig etter en oppskyting gi tilsynsmyndigheten følgende opplysninger om romgjenstander som skytes ut i bane rundt jorden eller lenger ut:hvem som er oppskytingsstat eller -stateret egnet kjennetegn på romgjenstanden, som et registreringsnummerdatoen og stedet for oppskytingengrunnleggende baneparametere angitt som:omløpstiden (nodeperioden)helningen til baneplanet (inklinasjon)høyeste punkt i banen (apogeum)laveste punkt i banen (perigeum)informasjon om romgjenstandens generelle funksjoner.
+Operatøren skal så snart som mulig etter en oppskyting gi tilsynsmyndigheten følgende opplysninger om romgjenstander som skytes ut i bane rundt jorden eller lenger ut:
+
+1. hvem som er oppskytingsstat eller -stater
+2. et egnet kjennetegn på romgjenstanden, som et registreringsnummer
+3. datoen og stedet for oppskytingen
+4. grunnleggende baneparametere angitt som:
+
+   1. omløpstiden (nodeperioden)
+   2. helningen til baneplanet (inklinasjon)
+   3. høyeste punkt i banen (apogeum)
+   4. laveste punkt i banen (perigeum)
+5. informasjon om romgjenstandens generelle funksjoner.
 
 Opplysningene skal føres inn i det nasjonale registeret.
 
@@ -102,15 +139,28 @@ Operatøren skal iverksette nødvendige sikkerhetstiltak for å kunne håndtere 
 
 ### § 11. Miljøkrav, romsøppel og forholdet til annen aktivitet
 
-Romaktivitet skal:ikke føre til uforholdsmessig skade på miljøetså langt som mulig ikke føre til romsøppel, herunder fragmenter, avfall og utrangerte eller tapte gjenstander fra menneskelig aktivitet i verdensrommetikke i unødvendig eller urimelig grad vanskeliggjøre eller hindre annen lovlig aktivitet.
+Romaktivitet skal:
+
+1. ikke føre til uforholdsmessig skade på miljøet
+2. så langt som mulig ikke føre til romsøppel, herunder fragmenter, avfall og utrangerte eller tapte gjenstander fra menneskelig aktivitet i verdensrommet
+3. ikke i unødvendig eller urimelig grad vanskeliggjøre eller hindre annen lovlig aktivitet.
 
 ### § 12. Opplysningsplikt
 
-Operatøren skal opplyse tilsynsmyndigheten om:nye eller endrede forhold av betydning for en tillatelse til romaktivitetvesentlige avvik fra normal drift eller fra tidspunktet for avslutning av romaktiviteten.
+Operatøren skal opplyse tilsynsmyndigheten om:
+
+1. nye eller endrede forhold av betydning for en tillatelse til romaktivitet
+2. vesentlige avvik fra normal drift eller fra tidspunktet for avslutning av romaktiviteten.
 
 ### § 13. Beredskap
 
-For å sikre nødvendig nasjonal beredskap i krig, ved krise og i andre ekstraordinære situasjoner kan departementet pålegge operatører som utøver romaktivitet, å yte bistand i form av:beredskapsplanlegginggjennomføring av eller deltagelse i øvelser og militær romaktivitetfysisk sikring av viktige installasjonersamarbeid med nasjonale, utenlandske eller internasjonale operatørerrapportering eller utveksling av informasjon.
+For å sikre nødvendig nasjonal beredskap i krig, ved krise og i andre ekstraordinære situasjoner kan departementet pålegge operatører som utøver romaktivitet, å yte bistand i form av:
+
+1. beredskapsplanlegging
+2. gjennomføring av eller deltagelse i øvelser og militær romaktivitet
+3. fysisk sikring av viktige installasjoner
+4. samarbeid med nasjonale, utenlandske eller internasjonale operatører
+5. rapportering eller utveksling av informasjon.
 
 Departementet skal fastsette et rimelig vederlag dersom et pålegg medfører vesentlige kostnader for den det er rettet mot, og kostnadene ikke oppveies av motsvarende fordeler.
 
@@ -126,7 +176,10 @@ Departementet kan gi forskrift om kravene i [§§ 10](lov/2025-12-22-128/§10) t
 
 En operatør er erstatningsansvarlig uten hensyn til skyld for skade forårsaket av romgjenstander på personer eller eiendom på jorden og luftfartøy under flyging.
 
-Det objektive ansvaret gjelder likevel ikke dersom:skadelidte har utvist forsett eller grov uaktsomhetskadelidte ble skadet under deltagelse i en felles romaktivitet.
+Det objektive ansvaret gjelder likevel ikke dersom:
+
+1. skadelidte har utvist forsett eller grov uaktsomhet
+2. skadelidte ble skadet under deltagelse i en felles romaktivitet.
 
 ### § 16. Regress
 
@@ -184,11 +237,21 @@ Departementet kan gi forskrift om undersøkelsesmyndighetens arbeid, herunder be
 
 Tilsynsmyndigheten kan pålegge operatøren å rette eller stanse et forhold som er i strid med bestemmelser gitt i eller i medhold av denne loven. Pålegget skal fastsette en frist for oppfyllelse.
 
-Tilsynsmyndigheten kan pålegge midlertidig stans av romaktivitet:ved alvorlig, gjentatt eller vedvarende overtredelse av bestemmelser gitt i eller i medhold av denne lovenhvis det er nødvendig for å avverge en overhengende fare.
+Tilsynsmyndigheten kan pålegge midlertidig stans av romaktivitet:
+
+1. ved alvorlig, gjentatt eller vedvarende overtredelse av bestemmelser gitt i eller i medhold av denne loven
+2. hvis det er nødvendig for å avverge en overhengende fare.
 
 ### § 25. Endring og tilbakekall
 
-Tilsynsmyndigheten kan oppheve, trekke tilbake, endre vilkårene i eller sette nye vilkår for en tillatelse gitt etter bestemmelser gitt i eller i medhold av denne loven dersom:operatøren i alvorlig grad, gjentatte ganger eller vedvarende overtrer bestemmelser gitt i eller i medhold av lovenoperatøren har gitt uriktige eller ufullstendige opplysninger og opplysningene har hatt vesentlig betydning for tillatelsenvesentlige forutsetninger for tillatelsen er endretoperatøren skifter eier, eller eierstrukturen endresromaktiviteten er i strid med nasjonale sikkerhetsinteresserdet følger av ellers gjeldende regler om omgjøring av vedtak.
+Tilsynsmyndigheten kan oppheve, trekke tilbake, endre vilkårene i eller sette nye vilkår for en tillatelse gitt etter bestemmelser gitt i eller i medhold av denne loven dersom:
+
+1. operatøren i alvorlig grad, gjentatte ganger eller vedvarende overtrer bestemmelser gitt i eller i medhold av loven
+2. operatøren har gitt uriktige eller ufullstendige opplysninger og opplysningene har hatt vesentlig betydning for tillatelsen
+3. vesentlige forutsetninger for tillatelsen er endret
+4. operatøren skifter eier, eller eierstrukturen endres
+5. romaktiviteten er i strid med nasjonale sikkerhetsinteresser
+6. det følger av ellers gjeldende regler om omgjøring av vedtak.
 
 Endringer og tilbakekall av en tillatelse etter første ledd kan gjøres tidsbegrenset. Begrensningen kan gjøres betinget av at bestemte forhold utbedres eller endres.
 

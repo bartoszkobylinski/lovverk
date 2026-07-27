@@ -52,7 +52,13 @@ Ungdomsfiskeordningen i fiske etter leppefisk gjelder fra og med 13. juli 2026 k
 
 ## § 4. Redskapsbegrensning
 
-Med mindre annet er fastsatt, kan fisket drives med følgende redskaper:stang og håndsnøre, ogen juksamaskin, oggarn med samlet lengde på inntil 210 meter, ogliner med inntil 300 angler, oginntil 20 teiner eller ruser. I fisket etter leppefisk er kun teiner tillatt.
+Med mindre annet er fastsatt, kan fisket drives med følgende redskaper:
+
+1. stang og håndsnøre, og
+2. en juksamaskin, og
+3. garn med samlet lengde på inntil 210 meter, og
+4. liner med inntil 300 angler, og
+5. inntil 20 teiner eller ruser. I fisket etter leppefisk er kun teiner tillatt.
 
 Fra det enkelte fartøy kan det ikke fiskes med større antall redskap enn nevnt i første ledd. Merkeregistrerte fiskefartøy kan ikke nyttes til ordinær drift eller ha redskap i sjøen utover redskapsbegrensningen nevnt i første ledd i perioden fra fartøyet første gang benyttes i ungdomsfiskeordningen til siste fangst er levert.
 

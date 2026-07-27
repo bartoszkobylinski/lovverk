@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1. Hvem forskriften gjelder
 
-Forskriften gjelder forfartøy som har torsketrålkonsesjon,fartøy som har ringnotkonsesjon,fartøy som har adgang til å delta i reketrålfisket ved Grønland,fartøy som har seitrålkonsesjon,fartøy som har adgang til å delta i gruppen for havfiskefartøy som fisker med konvensjonelle redskap ogfartøy som har pelagisk trålkonsesjon og nordsjøtrålkonsesjon.
+Forskriften gjelder for
+
+1. fartøy som har torsketrålkonsesjon,
+2. fartøy som har ringnotkonsesjon,
+3. fartøy som har adgang til å delta i reketrålfisket ved Grønland,
+4. fartøy som har seitrålkonsesjon,
+5. fartøy som har adgang til å delta i gruppen for havfiskefartøy som fisker med konvensjonelle redskap og
+6. fartøy som har pelagisk trålkonsesjon og nordsjøtrålkonsesjon.
 
 > Endret ved [forskrifter 24 aug 2007 nr. 1000](forskrift/2007-08-24-1000), [8 feb 2008 nr. 118](forskrift/2008-02-08-118).
 
@@ -36,7 +43,14 @@ Forskriften har som formål å bidra til en tilpasning av den enkelte fartøygru
 
 ### § 3. Hvilke regulerte fiskeslag strukturkvoteordningen gjelder
 
-Strukturkvoteordningen gjelder følgende fiskeslag for den enkelte fartøygruppe:For torsketrålflåten: Torsk, hyse og sei nord for 62° N.For ringnotflåten: Norsk vårgytende sild, nordsjøsild, makrell, lodde, brisling og kolmule.For grønlandsrekeflåten: Reker ved Grønland.For seitrålflåten: Sei nord for 62° N og sei sør for 62° N.For havfiskefartøy som fisker med konvensjonelle redskap: Torsk, hyse og sei nord for 62° N.For den pelagiske trålflåten og for nordsjøtrålflåten: Makrell, lodde, norsk vårgytende sild og nordsjøsild.
+Strukturkvoteordningen gjelder følgende fiskeslag for den enkelte fartøygruppe:
+
+1. For torsketrålflåten: Torsk, hyse og sei nord for 62° N.
+2. For ringnotflåten: Norsk vårgytende sild, nordsjøsild, makrell, lodde, brisling og kolmule.
+3. For grønlandsrekeflåten: Reker ved Grønland.
+4. For seitrålflåten: Sei nord for 62° N og sei sør for 62° N.
+5. For havfiskefartøy som fisker med konvensjonelle redskap: Torsk, hyse og sei nord for 62° N.
+6. For den pelagiske trålflåten og for nordsjøtrålflåten: Makrell, lodde, norsk vårgytende sild og nordsjøsild.
 
 Fiskeridirektoratet fastsetter kvotefaktoren for det enkelte fartøy i samsvar med reguleringene for det enkelte fiskeslag.
 
@@ -60,7 +74,10 @@ Dersom det er stilt krav om særskilt konsesjon eller deltakeradgang for å driv
 
 ### § 6. Vilkår for tildeling av strukturkvote
 
-Strukturkvote eller deler av en strukturkvote kan tildeles når:ett eller flere fartøy som nevnt i [§ 1](forskrift/2005-03-04-193/§1) blir meldt ut av registeret over fiskefartøy, ogalle konsesjoner og deltakeradganger knyttet til fartøyet eller fartøyene som blir meldt ut av registeret, blir oppgitt.
+Strukturkvote eller deler av en strukturkvote kan tildeles når:
+
+1. ett eller flere fartøy som nevnt i [§ 1](forskrift/2005-03-04-193/§1) blir meldt ut av registeret over fiskefartøy, og
+2. alle konsesjoner og deltakeradganger knyttet til fartøyet eller fartøyene som blir meldt ut av registeret, blir oppgitt.
 
 Det kan settes vilkår for tildeling av strukturkvote for å sikre distriktsmessige hensyn, eller når fiskeripolitiske hensyn for øvrig tilsier det. Dersom det ikke anses tilstrekkelig å sette slikt vilkår, kan en søknad om strukturkvote avslås.
 
@@ -194,4 +211,18 @@ Fiskeridirektoratet fatter vedtak etter denne forskriften. Fiskeridirektoratets 
 
 Denne forskrift trer i kraft straks.
 
-Samtidig oppheves følgende forskrifter:[Forskrift 30. juni 2000 nr. 648](forskrift/2000-06-30-648) om enhetskvoteordning og rederikvoteordning for torsketrålflåten.[Forskrift 30. juni 2000 nr. 649](forskrift/2000-06-30-649) om enhetskvoteordning og rederikvoteordning for ringnotflåten.[Forskrift 30. juni 2000 nr. 650](forskrift/2000-06-30-650) om enhetskvoteordning for grønlandsrekeflåten.[Forskrift 30. juni 2000 nr. 651](forskrift/2000-06-30-651) om sammenslåingsordning for småtrålflåten.[Forskrift 28. juli 2000 nr. 795](forskrift/2000-07-28-795) om enhetskvoteordning og rederikvoteordning for konvensjonelle fartøy på eller over 28 meter.[Forskrift 2. februar 2001 nr. 104](forskrift/2001-02-02-104) om enhetskvoteordning for seitrålerne.[Forskrift 5. juli 2002 nr. 696](forskrift/2002-07-05-696) om enhetskvoteordning og rederikvoteordning for fartøy med industritråltillatelse.
+Samtidig oppheves følgende forskrifter:
+
+[Forskrift 30. juni 2000 nr. 648](forskrift/2000-06-30-648) om enhetskvoteordning og rederikvoteordning for torsketrålflåten.
+
+[Forskrift 30. juni 2000 nr. 649](forskrift/2000-06-30-649) om enhetskvoteordning og rederikvoteordning for ringnotflåten.
+
+[Forskrift 30. juni 2000 nr. 650](forskrift/2000-06-30-650) om enhetskvoteordning for grønlandsrekeflåten.
+
+[Forskrift 30. juni 2000 nr. 651](forskrift/2000-06-30-651) om sammenslåingsordning for småtrålflåten.
+
+[Forskrift 28. juli 2000 nr. 795](forskrift/2000-07-28-795) om enhetskvoteordning og rederikvoteordning for konvensjonelle fartøy på eller over 28 meter.
+
+[Forskrift 2. februar 2001 nr. 104](forskrift/2001-02-02-104) om enhetskvoteordning for seitrålerne.
+
+[Forskrift 5. juli 2002 nr. 696](forskrift/2002-07-05-696) om enhetskvoteordning og rederikvoteordning for fartøy med industritråltillatelse.

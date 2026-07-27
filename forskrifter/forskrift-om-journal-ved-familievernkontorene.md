@@ -66,11 +66,34 @@ Korrespondanse i forbindelse med klientsaker skal føres i postjournalen.
 
 Det er bare relevante og nødvendige opplysninger som skal registreres i tilknytning til den enkelte sak, jf. personopplysningsloven med forskrifter. Journalen skal gi riktige og tilstrekkelige opplysninger om klienten eller klientenheten, forhold av betydning for den hjelp klienten/klientenheten trenger og den behandling som gis.
 
-Journal skal inneholde følgende opplysninger om klienten/klientenheten:navn på den som henvender seg til kontoretnavn på den/de som møter til samtalefødselsdatokjønnsivilstandbarnadresse/bostedskommunetelefonev. henvisende instans/anbefalt avhva det søkes hjelp fortidspunkt for samtale(r).
+Journal skal inneholde følgende opplysninger om klienten/klientenheten:
 
-Journal skal inneholde følgende opplysninger om andre personer som har deltatt i behandlingssamtaler:navnkjønnrelasjon til klienten(e)tidspunkt for samtale(r).
+- navn på den som henvender seg til kontoret
+- navn på den/de som møter til samtale
+- fødselsdato
+- kjønn
+- sivilstand
+- barn
+- adresse/bostedskommune
+- telefon
+- ev. henvisende instans/anbefalt av
+- hva det søkes hjelp for
+- tidspunkt for samtale(r).
 
-Journal skal inneholde følgende opplysninger om behandlingen mv.:beskrivelse av problemetopplysninger om behandlingstiltak; type, varighet mv.navn på eventuelle samarbeidsinstansereventuelle opplysninger gitt til andre instanseropplysninger om sakens avslutning.
+Journal skal inneholde følgende opplysninger om andre personer som har deltatt i behandlingssamtaler:
+
+- navn
+- kjønn
+- relasjon til klienten(e)
+- tidspunkt for samtale(r).
+
+Journal skal inneholde følgende opplysninger om behandlingen mv.:
+
+- beskrivelse av problemet
+- opplysninger om behandlingstiltak; type, varighet mv.
+- navn på eventuelle samarbeidsinstanser
+- eventuelle opplysninger gitt til andre instanser
+- opplysninger om sakens avslutning.
 
 Opplysninger om personer som ikke har møtt til behandling, skal slettes senest etter 1 måned.
 
@@ -110,11 +133,19 @@ Dersom det nyttes elektronisk journalføring, skal det enkelte kontor sikre seg 
 
 Klienters rett til innsyn er regulert i [lov om familievernkontorer § 12](lov/1997-06-19-62/§12).
 
-Utlevering av personopplysninger fra journal er ikke tillatt uten i følgende tilfeller:Når den person opplysningene gjelder har gitt skriftlig samtykke.Når opplysningene gis i form av anonymiserte statistikkskjema til bruk for videre bearbeiding av materialet. Statistikkskjemaene skal i så fall makuleres etter bearbeidelse.For øvrig kan utlevering skje når lovbestemt taushetsplikt ikke er til hinder for dette og mottakeren med hjemmel i lov eller forskrifter gitt med hjemmel i lov, kan kreve opplysningene utlevert.
+Utlevering av personopplysninger fra journal er ikke tillatt uten i følgende tilfeller:
+
+1. Når den person opplysningene gjelder har gitt skriftlig samtykke.
+2. Når opplysningene gis i form av anonymiserte statistikkskjema til bruk for videre bearbeiding av materialet. Statistikkskjemaene skal i så fall makuleres etter bearbeidelse.
+3. For øvrig kan utlevering skje når lovbestemt taushetsplikt ikke er til hinder for dette og mottakeren med hjemmel i lov eller forskrifter gitt med hjemmel i lov, kan kreve opplysningene utlevert.
 
 ### § 9. Retting, sletting og supplering av opplysninger
 
-Leder har overordnet ansvar for å rette, slette eller supplere opplysninger. Retting og supplering skal skje ved datert rettelse eller ny journalføring. Sletting eller fjerning kan bare skje nårjournalen inneholder feilskrift/objektiv feildet er åpenbart at opplysningene er irrelevante, utilbørlige eller feilaktigejournal er opprettet på en person uten at det foreligger et klientforhold.
+Leder har overordnet ansvar for å rette, slette eller supplere opplysninger. Retting og supplering skal skje ved datert rettelse eller ny journalføring. Sletting eller fjerning kan bare skje når
+
+1. journalen inneholder feilskrift/objektiv feil
+2. det er åpenbart at opplysningene er irrelevante, utilbørlige eller feilaktige
+3. journal er opprettet på en person uten at det foreligger et klientforhold.
 
 Sletting kan likevel ikke skje dersom opplysningen har vært av betydning i klientforholdet og i henhold til denne forskriften skal dokumenteres.
 

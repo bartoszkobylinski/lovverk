@@ -15,7 +15,7 @@ xml_hash: "802102d077a3df23ba690a810ef2c630d298844f3fa2e22defcba3463473b34f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,10 @@ eu_basis: []
 
 ### § 1. Lovens og helseforetakenes formål
 
-Lovens formål er å bidra til å oppfylle de målsettinger som er nedfelt i [spesialisthelsetjenesteloven § 1-1](lov/1999-07-02-61/§1-1) og [pasient- og brukerrettighetsloven § 1-1](lov/1999-07-02-63/§1-1), vedat det opprettes regionale helseforetak som etter eiers retningslinjer skal planlegge og organisere spesialisthelsetjenesten og legge til rette for forskning og undervisning,at det legges til rette for at de regionale helseforetakene skal organisere sine sykehus og andre helseinstitusjoner som helseforetak.
+Lovens formål er å bidra til å oppfylle de målsettinger som er nedfelt i [spesialisthelsetjenesteloven § 1-1](lov/1999-07-02-61/§1-1) og [pasient- og brukerrettighetsloven § 1-1](lov/1999-07-02-63/§1-1), ved
+
+1. at det opprettes regionale helseforetak som etter eiers retningslinjer skal planlegge og organisere spesialisthelsetjenesten og legge til rette for forskning og undervisning,
+2. at det legges til rette for at de regionale helseforetakene skal organisere sine sykehus og andre helseinstitusjoner som helseforetak.
 
 Helseforetakenes formål er å yte gode og likeverdige spesialisthelsetjenester til alle som trenger det når de trenger det, uavhengig av alder, kjønn, bosted, økonomi og etnisk bakgrunn, samt å legge til rette for forskning og undervisning.
 
@@ -52,7 +55,10 @@ Regionale helseforetak har et overordnet ansvar for å iverksette den nasjonale 
 
 ### § 3. Definisjoner
 
-I denne lov menes med:foretak: regionale helseforetak og helseforetakeier: staten ved departementet i regionale helseforetak og staten ved regionale helseforetak i helseforetak.
+I denne lov menes med:
+
+1. foretak: regionale helseforetak og helseforetak
+2. eier: staten ved departementet i regionale helseforetak og staten ved regionale helseforetak i helseforetak.
 
 ### § 4. Helseregioner
 
@@ -90,13 +96,21 @@ En fordringshaver må først gjøre krav gjeldende mot foretaket. En fordringsha
 
 ### § 8. Opprettelse av regionale helseforetak
 
-Kongen i statsråd treffer vedtak om å opprette regionalt helseforetak. Vedtaket skal uttrykkelig benevne foretaket som regionalt helseforetak og skal inneholde foretakets vedtekter. Det skal dessuten inneholde bestemmelser om:hvem som skal være medlemmer av styret, herunder styrets leder og nestleder,hvem som skal være foretakets revisor,statens innskudd, herunder hvilke sykehus og andre institusjoner foretaket skal overta ved opprettelsen.
+Kongen i statsråd treffer vedtak om å opprette regionalt helseforetak. Vedtaket skal uttrykkelig benevne foretaket som regionalt helseforetak og skal inneholde foretakets vedtekter. Det skal dessuten inneholde bestemmelser om:
+
+1. hvem som skal være medlemmer av styret, herunder styrets leder og nestleder,
+2. hvem som skal være foretakets revisor,
+3. statens innskudd, herunder hvilke sykehus og andre institusjoner foretaket skal overta ved opprettelsen.
 
 Det regionale helseforetaket er stiftet når Kongen har truffet vedtak etter første ledd.
 
 ### § 9. Opprettelse av helseforetak
 
-Utøvende virksomhet skal organiseres som helseforetak. Styret selv i regionale helseforetak eller helseforetak treffer vedtak om å opprette helseforetak. Vedtaket skal uttrykkelig benevne foretaket som helseforetak og inneholde foretakets vedtekter. Det skal dessuten inneholde bestemmelser om:hvem som skal være medlem av styret, herunder styrets leder og nestleder,hvem som skal være foretakets revisor,eierens innskudd.
+Utøvende virksomhet skal organiseres som helseforetak. Styret selv i regionale helseforetak eller helseforetak treffer vedtak om å opprette helseforetak. Vedtaket skal uttrykkelig benevne foretaket som helseforetak og inneholde foretakets vedtekter. Det skal dessuten inneholde bestemmelser om:
+
+1. hvem som skal være medlem av styret, herunder styrets leder og nestleder,
+2. hvem som skal være foretakets revisor,
+3. eierens innskudd.
 
 Helseforetaket er stiftet når styret i eiende foretak har truffet vedtak etter første ledd. Dersom flere foretak stifter et helseforetak for å eie det sammen, må styrene dessuten inngå en skriftlig selskapsavtale.
 
@@ -104,7 +118,17 @@ Helseforetaket er stiftet når styret i eiende foretak har truffet vedtak etter 
 
 ### § 10. Vedtekter for regionale helseforetak
 
-Regionalt helseforetak skal ha vedtekter som i det minste skal angi:det regionale helseforetakets navn,den helseregion det regionale helseforetaket omfatter,det regionale helseforetakets formål,den kommune der det regionale helseforetaket skal ha sitt hovedkontor,antall styremedlemmer, eller laveste og høyeste antall styremedlemmer,helsepolitiske, utdanningspolitiske og forskningspolitiske målsettinger og hovedoppgaver, samt nærmere bestemmelser om universitets- eller høgskolens rettigheter i tilknytning til disse oppgavene,bestemmelser om låneopptak, jf. [§ 33](lov/2001-06-15-93/§33),hvilke saker eller typer av saker som skal forelegges departementet, jf. [§ 30](lov/2001-06-15-93/§30),nærmere regler om melding til departementet om foretaket og foretakets virksomhet, jf. [§ 34](lov/2001-06-15-93/§34).
+Regionalt helseforetak skal ha vedtekter som i det minste skal angi:
+
+1. det regionale helseforetakets navn,
+2. den helseregion det regionale helseforetaket omfatter,
+3. det regionale helseforetakets formål,
+4. den kommune der det regionale helseforetaket skal ha sitt hovedkontor,
+5. antall styremedlemmer, eller laveste og høyeste antall styremedlemmer,
+6. helsepolitiske, utdanningspolitiske og forskningspolitiske målsettinger og hovedoppgaver, samt nærmere bestemmelser om universitets- eller høgskolens rettigheter i tilknytning til disse oppgavene,
+7. bestemmelser om låneopptak, jf. [§ 33](lov/2001-06-15-93/§33),
+8. hvilke saker eller typer av saker som skal forelegges departementet, jf. [§ 30](lov/2001-06-15-93/§30),
+9. nærmere regler om melding til departementet om foretaket og foretakets virksomhet, jf. [§ 34](lov/2001-06-15-93/§34).
 
 Alle foretakene skal ha en og samme arbeidsgivertilknytning. Kongen i statsråd bestemmer hvilken arbeidsgivertilknytning foretakene skal ha. Vedtektene skal angi hvilken arbeidsgivertilknytning Kongen har bestemt at foretakene skal ha.
 
@@ -112,7 +136,18 @@ Alle foretakene skal ha en og samme arbeidsgivertilknytning. Kongen i statsråd 
 
 ### § 11. Vedtekter i helseforetak
 
-Helseforetak skal ha vedtekter som i det minste skal angi:foretakets navn,foretak som eier helseforetaket,foretakets virksomhet, herunder hvilke helsetjenester som skal ytes, og hvilke undervisningsoppgaver og forskningsoppgaver helseforetaket skal ha, samt nærmere bestemmelser om universitetets- eller høgskolens rettigheter i tilknytning til disse oppgavene,den kommune der helseforetaket har sitt hovedkontor,antall styremedlemmer, eller laveste og høyeste antall styremedlemmer,helsepolitiske, utdanningspolitiske og forskningspolitiske målsettinger og oppgaver,nærmere regler om rapportering til eieren om foretaket og foretakets virksomhet,bestemmelser om låneopptak, jf. [§ 33](lov/2001-06-15-93/§33),hvilke saker eller typer saker som skal forelegges departementet, jf. [§ 30](lov/2001-06-15-93/§30),hvilken arbeidsgivertilknytning helseforetaket skal ha, jf. [§ 10](lov/2001-06-15-93/§10) annet ledd.
+Helseforetak skal ha vedtekter som i det minste skal angi:
+
+1. foretakets navn,
+2. foretak som eier helseforetaket,
+3. foretakets virksomhet, herunder hvilke helsetjenester som skal ytes, og hvilke undervisningsoppgaver og forskningsoppgaver helseforetaket skal ha, samt nærmere bestemmelser om universitetets- eller høgskolens rettigheter i tilknytning til disse oppgavene,
+4. den kommune der helseforetaket har sitt hovedkontor,
+5. antall styremedlemmer, eller laveste og høyeste antall styremedlemmer,
+6. helsepolitiske, utdanningspolitiske og forskningspolitiske målsettinger og oppgaver,
+7. nærmere regler om rapportering til eieren om foretaket og foretakets virksomhet,
+8. bestemmelser om låneopptak, jf. [§ 33](lov/2001-06-15-93/§33),
+9. hvilke saker eller typer saker som skal forelegges departementet, jf. [§ 30](lov/2001-06-15-93/§30),
+10. hvilken arbeidsgivertilknytning helseforetaket skal ha, jf. [§ 10](lov/2001-06-15-93/§10) annet ledd.
 
 > Endret ved [lov 14 des 2012 nr. 86](lov/2012-12-14-86) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1210](forskrift/2012-12-14-1210)).
 
@@ -258,7 +293,13 @@ Ved styremøter skal det føres protokoll som underskrives av samtlige tilstedev
 
 Styremøter i foretak skal holdes for åpne dører hvis ikke annet følger av lovbestemt taushetsplikt eller av vedtak etter annet ledd.
 
-Dersom det foreligger et reelt og saklig behov, kan styret vedta å behandle en sak for lukkede dører i følgende tilfeller:Av hensyn til personvernet. Personalsaker skal alltid behandles for lukkede dører.Orientering om sak som er på et forberedende stadium i saksbehandlingen i foretaket.Informasjon om lovbrudd, saksanlegg eller av hensyn til foretakets partsstilling i sak for norsk domstol.Av hensyn til forsvarlig gjennomføring av økonomi-, lønns-, eller personalforvaltningen til foretaket.Saker som gjelder tilbud og protokoll etter regelverket om offentlige anskaffelser til valget av leverandør er gjort.
+Dersom det foreligger et reelt og saklig behov, kan styret vedta å behandle en sak for lukkede dører i følgende tilfeller:
+
+1. Av hensyn til personvernet. Personalsaker skal alltid behandles for lukkede dører.
+2. Orientering om sak som er på et forberedende stadium i saksbehandlingen i foretaket.
+3. Informasjon om lovbrudd, saksanlegg eller av hensyn til foretakets partsstilling i sak for norsk domstol.
+4. Av hensyn til forsvarlig gjennomføring av økonomi-, lønns-, eller personalforvaltningen til foretaket.
+5. Saker som gjelder tilbud og protokoll etter regelverket om offentlige anskaffelser til valget av leverandør er gjort.
 
 Vurderingen av om møtet eller deler av møtet skal foregå for lukkede dører, skal gjøres på møtetidspunktet.
 
@@ -292,7 +333,14 @@ Styret skal føre tilsyn med daglig leder og kan fastsette instruks for denne.
 
 ### § 30. Saker av vesentlig betydning
 
-Foretaksmøtet i regionalt helseforetak treffer vedtak i saker som antas å være av vesentlig betydning for foretakets virksomhet eller løsningen av fastsatte målsettinger eller oppgaver. Det samme gjelder vedtak i andre saker som antas å ha prinsipielle sider av betydning eller som antas å kunne ha vesentlige samfunnsmessige virkninger, som:Vedtak som kan endre virksomhetens karakterVedtak om nedleggelse av sykehus.Omfattende endringer i sykehusstrukturen i helseregionen.Omfattende endringer i tjenestetilbudet.Vedtak om endringer i antallet helseforetak i helseregionen.Vedtak om vesentlige endringer i opptaksområdet for helseforetak.
+Foretaksmøtet i regionalt helseforetak treffer vedtak i saker som antas å være av vesentlig betydning for foretakets virksomhet eller løsningen av fastsatte målsettinger eller oppgaver. Det samme gjelder vedtak i andre saker som antas å ha prinsipielle sider av betydning eller som antas å kunne ha vesentlige samfunnsmessige virkninger, som:
+
+1. Vedtak som kan endre virksomhetens karakter
+2. Vedtak om nedleggelse av sykehus.
+3. Omfattende endringer i sykehusstrukturen i helseregionen.
+4. Omfattende endringer i tjenestetilbudet.
+5. Vedtak om endringer i antallet helseforetak i helseregionen.
+6. Vedtak om vesentlige endringer i opptaksområdet for helseforetak.
 
 Hvilke saker foretaksmøtet i regionalt helseforetak skal fatte vedtak i etter denne bestemmelsen, kan det fastsettes nærmere bestemmelser om i vedtektene.
 
@@ -497,11 +545,28 @@ Fra 1 jan 2002 for resten av loven iflg. [res. 14 des 2001 nr. 1417](forskrift/2
 2. Dersom regionalt helseforetak opprettes før bestemmelsen om statens ansvar for spesialisthelsetjenester, jf. [lov 2. juli 1999 nr. 61](lov/1999-07-02-61) om spesialisthelsetjenesten m.m. § 2-1, trer i kraft, skal fylkeskommunene gi staten nødvendig innsyn i og tilgang til fylkeskommunens virksomhet.
 3. [Tjenestemannsloven § 13](lov/1983-03-04-3/§13) nr. 2 til 6 om fortrinnsrett til annen statsstilling og ventelønn skal ved omdanning av den statlige spesialisthelsetjenesten til statlige helseforetak fortsatt gjelde for arbeidstakere som blir sagt opp på grunn av forhold som nevnt i [tjenestemannsloven § 13](lov/1983-03-04-3/§13) nr. 1 bokstavene a, b og c. Fortrinnsrett til annen statsstilling og ventelønn etter første punktum opphører tre år etter omdanning til helseforetak. Første og annet punktum gjør ingen innskrenkninger i rettighetene arbeidstakeren har etter arbeidsmiljøloven §§ 60 nr. 2 og 67.
 4. Regionale helseforetak trer inn i og overtar fylkeskommunenes rettigheter og plikter etter avtaler som foreligger ved lovens ikraftsetting mellom fylkeskommuner og legespesialister og spesialister i klinisk psykologi, om hel eller delvis godtgjøring av utgifter til drift av privat praksis.
-5. Staten dekker delvis utgiftene til renter og avdrag for byggearbeider ved private sykehus som har inngått i en regional helseplan og har mottatt tilskudd til drift og vedlikehold fra en fylkeskommune dersom:byggearbeider anslått til samlet mer enn 50 millioner kroner er godkjent av departementet før lovens ikraftsetting, ellerbyggearbeider anslått til samlet mindre enn 50 millioner kroner er vedtatt av fylkestinget før lovens ikraftsetting.Dersom fylkeskommunen har avtale med sykehuset om å dekke tilsvarende utgifter til renter og avdrag som nevnt i første ledd, trer staten inn i denne avtalen i fylkeskommunens sted i stedet for å foreta utbetaling til sykehuset etter bestemmelsene i første ledd.Kongen kan gi forskrift om beregning og utbetaling av statens tilskudd etter første ledd.
-6. Fra og med ikraftsettingen av denne loven har staten ved regionale helseforetak, rett og plikt til å overta alle formuesposisjoner som er knyttet til offentlige virksomheter innen spesialisthelsetjenestene somatisk helsevern, psykisk helsevern, rehabiliterings- og habiliteringstjenester, medisinsk nødmeldetjeneste og ambulansetjenester. Videre overtar staten alle formuesposisjoner som er knyttet til virksomhetene offentlige sykehusapotek og alle formuesposisjoner som er knyttet til offentlige tiltak for rusmiddelmisbrukere og som er organisert etter spesialisthelsetjenesteloven. Staten ved regionale helseforetak overtar alle fylkeskommunalt eide formuesposisjoner som er knyttet til universitets- og høgskolefunksjoner. Overtakelsen skal omfatte alle rettigheter og plikter som er knyttet til virksomhetene. [Lov 6. april 1984 nr. 17](lov/1984-04-06-17) om vederlag ved oreigning av fast eiendom, får ikke anvendelse på overtakelsen.Dersom det åpenbart ikke er naturlig sammenheng mellom en virksomhet og rettigheter som er knyttet til virksomheten, kan det besluttes at staten ikke har rett eller plikt til å overta slike rettigheter dersom det er rimelig at fylkeskommunen eller kommunen beholder dem.
-7. Dersom det i forbindelse med overføring til staten av rettigheter og plikter, som nevnt i nr. 6 første ledd, overføres gjeld eller andre forpliktelser knyttet til virksomhetene, er det frigjørende for fylkeskommunen og kommunen.Kreditor og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at den utgjør en bortfallsgrunn for rettsforholdet.
+5. Staten dekker delvis utgiftene til renter og avdrag for byggearbeider ved private sykehus som har inngått i en regional helseplan og har mottatt tilskudd til drift og vedlikehold fra en fylkeskommune dersom:
+
+   1. byggearbeider anslått til samlet mer enn 50 millioner kroner er godkjent av departementet før lovens ikraftsetting, eller
+   2. byggearbeider anslått til samlet mindre enn 50 millioner kroner er vedtatt av fylkestinget før lovens ikraftsetting.
+
+   Dersom fylkeskommunen har avtale med sykehuset om å dekke tilsvarende utgifter til renter og avdrag som nevnt i første ledd, trer staten inn i denne avtalen i fylkeskommunens sted i stedet for å foreta utbetaling til sykehuset etter bestemmelsene i første ledd.
+
+   Kongen kan gi forskrift om beregning og utbetaling av statens tilskudd etter første ledd.
+6. Fra og med ikraftsettingen av denne loven har staten ved regionale helseforetak, rett og plikt til å overta alle formuesposisjoner som er knyttet til offentlige virksomheter innen spesialisthelsetjenestene somatisk helsevern, psykisk helsevern, rehabiliterings- og habiliteringstjenester, medisinsk nødmeldetjeneste og ambulansetjenester. Videre overtar staten alle formuesposisjoner som er knyttet til virksomhetene offentlige sykehusapotek og alle formuesposisjoner som er knyttet til offentlige tiltak for rusmiddelmisbrukere og som er organisert etter spesialisthelsetjenesteloven. Staten ved regionale helseforetak overtar alle fylkeskommunalt eide formuesposisjoner som er knyttet til universitets- og høgskolefunksjoner. Overtakelsen skal omfatte alle rettigheter og plikter som er knyttet til virksomhetene. [Lov 6. april 1984 nr. 17](lov/1984-04-06-17) om vederlag ved oreigning av fast eiendom, får ikke anvendelse på overtakelsen.
+
+   Dersom det åpenbart ikke er naturlig sammenheng mellom en virksomhet og rettigheter som er knyttet til virksomheten, kan det besluttes at staten ikke har rett eller plikt til å overta slike rettigheter dersom det er rimelig at fylkeskommunen eller kommunen beholder dem.
+7. Dersom det i forbindelse med overføring til staten av rettigheter og plikter, som nevnt i nr. 6 første ledd, overføres gjeld eller andre forpliktelser knyttet til virksomhetene, er det frigjørende for fylkeskommunen og kommunen.
+
+   Kreditor og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at den utgjør en bortfallsgrunn for rettsforholdet.
 8. Det skal ikke betales dokumentavgift etter [§ 6 i lov 12. desember 1975 nr. 59](lov/1975-12-12-59/§6) om dokumentavgift, omregistreringsavgift etter [§ 1 i lov 19. juni 1959 nr. 2](lov/1959-06-19-2/§1) om avgifter vedrørende kjøretøy og båter eller rettsgebyr etter §[§ 21](lov/1982-12-17-86/§21) og [24](lov/1982-12-17-86/§24) i [lov 17. desember 1982 nr. 86](lov/1982-12-17-86) om rettsgebyr i forbindelse med statens overtakelse av formuesposisjoner som er en direkte følge av denne loven.
-9. Både staten og vedkommende fylkeskommune kan kreve at spørsmål som gjelder nærmere klargjøring og konkretisering av hvilke formuesposisjoner staten har rett og plikt til å overta fra den enkelte fylkeskommune etter nr. 6 første og annet ledd, skal avgjøres av en nemnd. Nemnda vurderer ikke hvilke konkrete gjeldsforpliktelser staten har rett og plikt til å tre inn i. Hvilke regionale helseforetak som skal overta de enkelte formuesposisjoner besluttes av departementet.Nemnda skal ha syv medlemmer. Departementet oppnevner tre medlemmer og varamedlemmer for disse til nemnda. Kommunenes Sentralforbund oppnevner tre medlemmer og varamedlemmer for disse til nemnda. I tillegg utpeker førstelagmannen i Borgarting leder for nemnda og leders varamedlem. Nemndas leder og leders varamedlem skal ha de egenskapene som er foreskrevet for dommere, se [domstolsloven § 53](lov/1915-08-13-5/§53), jf. [§ 54](lov/1915-08-13-5/§54) annet ledd.Nemndas avgjørelse, som treffes ved kjennelse, skal være begrunnet.Utgiftene til nemndas virksomhet fastsettes og dekkes av departementet. Departementet kan gi nærmere regler for nemndas virksomhet.
+9. Både staten og vedkommende fylkeskommune kan kreve at spørsmål som gjelder nærmere klargjøring og konkretisering av hvilke formuesposisjoner staten har rett og plikt til å overta fra den enkelte fylkeskommune etter nr. 6 første og annet ledd, skal avgjøres av en nemnd. Nemnda vurderer ikke hvilke konkrete gjeldsforpliktelser staten har rett og plikt til å tre inn i. Hvilke regionale helseforetak som skal overta de enkelte formuesposisjoner besluttes av departementet.
+
+   Nemnda skal ha syv medlemmer. Departementet oppnevner tre medlemmer og varamedlemmer for disse til nemnda. Kommunenes Sentralforbund oppnevner tre medlemmer og varamedlemmer for disse til nemnda. I tillegg utpeker førstelagmannen i Borgarting leder for nemnda og leders varamedlem. Nemndas leder og leders varamedlem skal ha de egenskapene som er foreskrevet for dommere, se [domstolsloven § 53](lov/1915-08-13-5/§53), jf. [§ 54](lov/1915-08-13-5/§54) annet ledd.
+
+   Nemndas avgjørelse, som treffes ved kjennelse, skal være begrunnet.
+
+   Utgiftene til nemndas virksomhet fastsettes og dekkes av departementet. Departementet kan gi nærmere regler for nemndas virksomhet.
 10. Spørsmål om rettigheter og plikter etter nr. 6 første og annet ledd, kan ikke bringes inn for de alminnelige domstoler før muligheten til å få saken avgjort av nemnd opprettet etter nr. 9 annet ledd, er nyttet.
 11. Klage over beslutninger truffet i medhold av denne loven, gir ikke oppsettende virkning for statens rettigheter og plikter etter nr. 6.
 

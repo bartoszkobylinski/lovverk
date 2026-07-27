@@ -15,7 +15,7 @@ xml_hash: "66caf66fdea32a9c052c8ba8739c22fa401a822830313cb1be369a5d1c8617b2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,27 @@ Saker som gjelder Svalbardbudsjettet, innkreving av skatter og avgifter vedkomme
 
 Det opprettes et utvalg, Det Interdepartementale Svalbardutvalg, som skal være et koordinerende og konsultativt organ for sentraladministrasjonen ved behandlingen av Svalbardsaker.
 
-Som medlemmer av utvalget og personlige varamenn oppnevnes inntil videre:Sjefen for Justisdepartementet, formann.Ekspedisjonssjef i Justisdepartementet, Erling Sandene, som dessuten er varaformann.Varamann (for ekspedisjonssjef Sandene som medlem): Byråsjef i Justisdepartementet, Terje Torp.Utenriksråd J. G. Ræder.Varamann: Underdirektør i Utenriksdepartementet, Rolf Busch.Ekspedisjonssjef i Kommunaldepartementet, Berger Ulsaker.Varamann: Byråsjef i Kommunaldepartementet, Kaare Bangor.Fungerende ekspedisjonssjef i Industridepartementet, Knut Dæhlin.Varamann: Byråsjef i Industridepartementet, Thorgrim Haga.Underdirektør i Finansdepartementet, Oluf C. Müller.Varamann: Byråsjef i Finansdepartementet, Kjell Mathisen.Direktør i Norsk Polarinstitutt, Tore Gjelsvik.Varamann: Hydrograf i Norsk Polarinstitutt, Kaare Lundquist.
+Som medlemmer av utvalget og personlige varamenn oppnevnes inntil videre:
+
+1. Sjefen for Justisdepartementet, formann.
+2. Ekspedisjonssjef i Justisdepartementet, Erling Sandene, som dessuten er varaformann.
+
+   Varamann (for ekspedisjonssjef Sandene som medlem): Byråsjef i Justisdepartementet, Terje Torp.
+3. Utenriksråd J. G. Ræder.
+
+   Varamann: Underdirektør i Utenriksdepartementet, Rolf Busch.
+4. Ekspedisjonssjef i Kommunaldepartementet, Berger Ulsaker.
+
+   Varamann: Byråsjef i Kommunaldepartementet, Kaare Bangor.
+5. Fungerende ekspedisjonssjef i Industridepartementet, Knut Dæhlin.
+
+   Varamann: Byråsjef i Industridepartementet, Thorgrim Haga.
+6. Underdirektør i Finansdepartementet, Oluf C. Müller.
+
+   Varamann: Byråsjef i Finansdepartementet, Kjell Mathisen.
+7. Direktør i Norsk Polarinstitutt, Tore Gjelsvik.
+
+   Varamann: Hydrograf i Norsk Polarinstitutt, Kaare Lundquist.
 
 Andre embeds- eller statstjenestemenn kan tilkalles til utvalgets møter når det er nødvendig eller ønskelig. Representanter for bedriftslivet og organisasjoner kan gis adgang til å være til stede.
 

@@ -15,7 +15,7 @@ xml_hash: "7ea55bf2a8a5e57d827f7f04bd6d93f1897e22dac0b315d9492907480087177c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,11 @@ Doktorgradsutdanningens viktigste komponent er et selvstendig kunstnerisk utvikl
 
 ### § 3-2
 
-Den kunstneriske doktorgraden tildeles på grunnlag avgodkjent doktorgradsresultat, jf. [§ 11-1](forskrift/2018-02-06-177/§11-1)godkjent gjennomføring av opplæringsdelen, eventuelt annen godkjent faglig skolering eller kompetansegodkjent offentlig forsvar av det kunstneriske doktorgradsresultatet (disputas).
+Den kunstneriske doktorgraden tildeles på grunnlag av
+
+- godkjent doktorgradsresultat, jf. [§ 11-1](forskrift/2018-02-06-177/§11-1)
+- godkjent gjennomføring av opplæringsdelen, eventuelt annen godkjent faglig skolering eller kompetanse
+- godkjent offentlig forsvar av det kunstneriske doktorgradsresultatet (disputas).
 
 ### § 4. Ansvaret for doktorgradsutdanningen
 
@@ -78,7 +82,21 @@ Kunsthøgskolen kan etter særskilt vurdering godkjenne annen likeverdig utdanni
 
 Kunsthøgskolen kan stille ytterligere krav til kvalifikasjoner etter kriterier som er åpent tilgjengelige og i tråd med Kunsthøgskolens rekrutteringspolitikk og faglige profil.
 
-Søknaden bør inneholde:Dokumentasjon av den utdanning og de kvalifikasjoner som skal ligge til grunn for opptaket.Prosjektbeskrivelse som omfatterfaglig redegjørelse for prosjektetfremdriftsplanfinansieringsplandokumentasjon av spesielle behov for faglige og materielle ressursereventuelle planer for opphold ved annen institusjonplan for formidling av resultateropplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheterPlan for opplæringsdelen, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverket.Forslag på minst én veileder, samt angivelse av tilknytning til aktivt miljø for kunstnerisk utviklingsarbeid.Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser, og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig legges ved søknaden.
+Søknaden bør inneholde:
+
+- Dokumentasjon av den utdanning og de kvalifikasjoner som skal ligge til grunn for opptaket.
+- Prosjektbeskrivelse som omfatter
+
+  - faglig redegjørelse for prosjektet
+  - fremdriftsplan
+  - finansieringsplan
+  - dokumentasjon av spesielle behov for faglige og materielle ressurser
+  - eventuelle planer for opphold ved annen institusjon
+  - plan for formidling av resultater
+  - opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter
+- Plan for opplæringsdelen, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverket.
+- Forslag på minst én veileder, samt angivelse av tilknytning til aktivt miljø for kunstnerisk utviklingsarbeid.
+- Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser, og hvordan disse kan avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre etc.). Slike tillatelser bør om mulig legges ved søknaden.
 
 Kunsthøgskolen fastsetter søknadsskjema og kan fastsette krav til ytterligere dokumentasjon.
 
@@ -100,7 +118,11 @@ Vedtak om opptak baseres på en samlet vurdering av søknaden. Kunsthøgskolen k
 
 I vedtaket skal minst én veileder oppnevnes, ansvar for håndtering av andre behov som er skissert i søknaden plasseres, og avtaleperioden fastsettes med startdato og sluttdato. Startdato settes lik startdato for finansiering.
 
-Opptak skal nektes omavtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av det kunstneriske doktorgradsresultatet,de immaterialrettslige avtaler som er inngått er så urimelige at Kunsthøgskolen ikke bør medvirke i prosjektet,søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp i programmet, jf. [§ 6-1](forskrift/2018-02-06-177/§6-1).
+Opptak skal nektes om
+
+- avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av det kunstneriske doktorgradsresultatet,
+- de immaterialrettslige avtaler som er inngått er så urimelige at Kunsthøgskolen ikke bør medvirke i prosjektet,
+- søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp i programmet, jf. [§ 6-1](forskrift/2018-02-06-177/§6-1).
 
 ### § 7. Doktorgradsavtalen
 
@@ -134,7 +156,12 @@ Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt el
 
 ### § 7-4. Tvungen avslutning ved forsinkelse eller manglende fremdrift
 
-Når ett eller flere av de følgende vilkårene er oppfylt, kan Kunsthøgskolen vedta tvungen avslutning av utdanningen:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 10-1](forskrift/2018-02-06-177/§10-1).Forsinkelse i fremdriften av prosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre til avtalt tid.Tvungen avslutning etter reglene her kan bare vedtas dersom fremdriftssvikten eller forsinkelsen skyldes forhold som kandidaten selv rår over.
+Når ett eller flere av de følgende vilkårene er oppfylt, kan Kunsthøgskolen vedta tvungen avslutning av utdanningen:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 10-1](forskrift/2018-02-06-177/§10-1).
+- Forsinkelse i fremdriften av prosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre til avtalt tid.
+- Tvungen avslutning etter reglene her kan bare vedtas dersom fremdriftssvikten eller forsinkelsen skyldes forhold som kandidaten selv rår over.
 
 Vedtak etter denne paragrafen fattes av Kunsthøgskolens styre. Klager behandles av Felles klagenemnd for studentsaker, jf. [UH-loven § 14-1](lov/2024-03-08-9/§14-1) og forskrift til denne.
 
@@ -308,7 +335,12 @@ Som vedlegg til søknaden skal følge:
 
 – Redegjørelse for hvordan opplæringsdelen er eller vil bli oppfylt, og for eventuelt annen faglig skolering eller kompetanse
 
-– Dokumentasjon av nødvendige tillatelser, jf. [§ 6-1](forskrift/2018-02-06-177/§6-1).Plan for godkjent dokumentasjon og arkivering i varig format av hele doktorgradsresultatet.Erklæring fra samarbeidspartner der dette er påkrevd, jf. [§ 11-2](forskrift/2018-02-06-177/§11-2).Erklæring om arbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at arbeidet ikke er levert inn til bedømmelse ved annen institusjon.
+– Dokumentasjon av nødvendige tillatelser, jf. [§ 6-1](forskrift/2018-02-06-177/§6-1).
+
+- Plan for godkjent dokumentasjon og arkivering i varig format av hele doktorgradsresultatet.
+- Erklæring fra samarbeidspartner der dette er påkrevd, jf. [§ 11-2](forskrift/2018-02-06-177/§11-2).
+- Erklæring om arbeidet leveres inn til bedømmelse for første eller andre gang.
+- Erklæring om at arbeidet ikke er levert inn til bedømmelse ved annen institusjon.
 
 Søknaden rettes til Kunsthøgskolen senest fem (5) måneder før det planlagte tidspunktet for presentasjon av doktorgradsresultatet.
 
@@ -320,7 +352,13 @@ Kunsthøgskolen behandler søknad om å få det kunstneriske doktorgradsresultat
 
 Når Kunsthøgskolen har godkjent søknad om å få det kunstneriske doktorgradsresultatet bedømt, oppnevner den en sakkyndig komité på minst tre medlemmer som skal bedømme doktorgradsresultatet og disputasen. Habilitetsreglene i [forvaltningslovens § 6](lov/1967-02-10/§6) gjelder for komiteens medlemmer.
 
-Bedømmelseskomiteen skal normalt settes sammen slik atbegge kjønn er representertflertallet i bedømmelseskomiteen er eksterne medlemmer og minst ett av medlemmene er uten tilknytning til Kunsthøgskolenminst ett av medlemmene ikke har hovedstilling ved norske institusjoneralle medlemmene har doktorgrad eller tilsvarende kompetanse innen fagområdet og minst to av medlemmene har relevant kunstnerisk kompetanse på førsteamanuensisnivåett av medlemmene, om mulig, er fra en relevant utenlandsk institusjon
+Bedømmelseskomiteen skal normalt settes sammen slik at
+
+- begge kjønn er representert
+- flertallet i bedømmelseskomiteen er eksterne medlemmer og minst ett av medlemmene er uten tilknytning til Kunsthøgskolen
+- minst ett av medlemmene ikke har hovedstilling ved norske institusjoner
+- alle medlemmene har doktorgrad eller tilsvarende kompetanse innen fagområdet og minst to av medlemmene har relevant kunstnerisk kompetanse på førsteamanuensisnivå
+- ett av medlemmene, om mulig, er fra en relevant utenlandsk institusjon
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 

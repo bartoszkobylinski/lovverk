@@ -34,7 +34,15 @@ Den myndigheit som i kap. XI og XII er lagt til departementet, og som i §§ 25,
 
 ## § 2. Vidaredelegering av myndigheit lagt til departementet
 
-Myndigheit lagt til departementet etter følgjande reglar i fjellova vidaredelegerast frå Landbruksdepartementet til Statskog SF:§ 9 andre punktum om avgjerd av tvistar mellom fjellstyret og allmenningsstyret.§ 11 andre stykket første punktum om framlegging av rekneskap, og tredje stykket om samtykke til løyving av midlar til allmennyttige føremål.§ 12 andre stykket om grunndisponeringstiltak, og tredje stykket om bruken av grunneigarinntektene etter nærare retningsliner som vert gjevne av departementet.§ 20 andre stykket om samtykke til overføring av utvist tilleggsjord.§ 21 første stykket om samtykke til overføring av utvist tilleggsjord til jordbrukar(ar) utan beiterett i allmenningen, og tredje stykket om utleige av jord skikka til dyrking eller kulturbeite til jordbrukar(ar) utan beiterett i allmenningen.§ 34 andre stykket om høve til å krevje skjøn før det vert teke avgjerd etter § 12 første stykket og § 21 fjerde stykket.§ 36 andre stykket om godkjenning av oppsynsordning.
+Myndigheit lagt til departementet etter følgjande reglar i fjellova vidaredelegerast frå Landbruksdepartementet til Statskog SF:
+
+- § 9 andre punktum om avgjerd av tvistar mellom fjellstyret og allmenningsstyret.
+- § 11 andre stykket første punktum om framlegging av rekneskap, og tredje stykket om samtykke til løyving av midlar til allmennyttige føremål.
+- § 12 andre stykket om grunndisponeringstiltak, og tredje stykket om bruken av grunneigarinntektene etter nærare retningsliner som vert gjevne av departementet.
+- § 20 andre stykket om samtykke til overføring av utvist tilleggsjord.
+- § 21 første stykket om samtykke til overføring av utvist tilleggsjord til jordbrukar(ar) utan beiterett i allmenningen, og tredje stykket om utleige av jord skikka til dyrking eller kulturbeite til jordbrukar(ar) utan beiterett i allmenningen.
+- § 34 andre stykket om høve til å krevje skjøn før det vert teke avgjerd etter § 12 første stykket og § 21 fjerde stykket.
+- § 36 andre stykket om godkjenning av oppsynsordning.
 
 Myndigheit lagt til departementet etter § 10 i [fjellova,](lov/1975-06-06-31/§10) om klagesakshandsaming og omgjering av fjellstyrevedtak, delegerast til Landbruksdirektoratet.
 
@@ -44,7 +52,17 @@ For utvising av grunn som er skikka til dyrking eller til kulturbeite som tilleg
 
 ## § 3. Vidaredelegering av myndigheit lagt til Kongen
 
-Myndigheit lagt til Kongen etter følgjande reglar i fjellova vidaredelegerast frå Landbruksdepartementet til Statskog SF:[§ 3](forskrift/1995-07-01-679/§3) fjerde stykket om fastsetjing av grensene for området der allmenningen ligg, og sjette stykket om fastsetjing av representasjon for reindriftsnæringa i fjellstyret.[§ 4](forskrift/1995-07-01-679/§4) første punktum om fastsetjing av om det skal veljast eit eller fleire fjellstyre når det er fleire statsallmenningar innan ein kommune.[§ 5](forskrift/1995-07-01-679/§5) første og andre stykket om avgjerd av om det skal vere eit felles fjellstyre når ein statsallmenning ligg i to eller fleire kommunar, og fjerde stykket om unntak for talet på fjellstyremedlemer etter tredje stykket.[§ 6](forskrift/1995-07-01-679/§6) første stykket om avgjerd om forsterka fjellstyre når allmenningsbruken ligg til bygd eller grend i andre kommunar enn den allmenningen ligg i.§ 10 første stykket om fastsetjing av nærare reglar om førehandsvarsel og kunngjering av eller melding om fjellstyrevedtak, og tredje stykket om fråvik frå lovens regel om når fjellstyrevedtak tek til å gjelde.§ 11 andre stykket tredje punktum om fastsetjing av nærare reglar om rekneskapsføring og revisjon av fjellkassa.§ 14 andre punktum om stadfesting av vedtekter om bruken av allmenningen.§ 23 andre stykket om fastsetjing av grensene for det området der allmenningen ligg.§ 28 andre stykket om fastsetjing av grensene for det område der allmenningen ligg.
+Myndigheit lagt til Kongen etter følgjande reglar i fjellova vidaredelegerast frå Landbruksdepartementet til Statskog SF:
+
+- [§ 3](forskrift/1995-07-01-679/§3) fjerde stykket om fastsetjing av grensene for området der allmenningen ligg, og sjette stykket om fastsetjing av representasjon for reindriftsnæringa i fjellstyret.
+- [§ 4](forskrift/1995-07-01-679/§4) første punktum om fastsetjing av om det skal veljast eit eller fleire fjellstyre når det er fleire statsallmenningar innan ein kommune.
+- [§ 5](forskrift/1995-07-01-679/§5) første og andre stykket om avgjerd av om det skal vere eit felles fjellstyre når ein statsallmenning ligg i to eller fleire kommunar, og fjerde stykket om unntak for talet på fjellstyremedlemer etter tredje stykket.
+- [§ 6](forskrift/1995-07-01-679/§6) første stykket om avgjerd om forsterka fjellstyre når allmenningsbruken ligg til bygd eller grend i andre kommunar enn den allmenningen ligg i.
+- § 10 første stykket om fastsetjing av nærare reglar om førehandsvarsel og kunngjering av eller melding om fjellstyrevedtak, og tredje stykket om fråvik frå lovens regel om når fjellstyrevedtak tek til å gjelde.
+- § 11 andre stykket tredje punktum om fastsetjing av nærare reglar om rekneskapsføring og revisjon av fjellkassa.
+- § 14 andre punktum om stadfesting av vedtekter om bruken av allmenningen.
+- § 23 andre stykket om fastsetjing av grensene for det området der allmenningen ligg.
+- § 28 andre stykket om fastsetjing av grensene for det område der allmenningen ligg.
 
 ## § 4. Vidaredelegering av myndigheit frå Statskog SF til distriktskontora
 

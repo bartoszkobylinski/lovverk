@@ -15,7 +15,7 @@ xml_hash: "b21cf05fa6bda7839f5ac7074fecb536aef869e43e1c6e981a66082f1b4e67b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,23 +40,44 @@ Fakultetet tildeler grader for de studieprogram fakultetet har det faglige og ad
 
 ### § 2-2. Utdanninger
 
-(1) OsloMet tildeler følgende grader:Høgskolekandidat, normert studietid 2 år.Bachelor, normert studietid 3 år.Master, normert studietid 1 ½–2 år.Master, normert studietid 5 år.Philosophiae doctor (ph.d.), normert studietid 3 år.Grunnskolelærer 1.–7. trinn og 5.–10. trinn, normert studietid 4 år, for studenter med oppstart før 2017.
+(1) OsloMet tildeler følgende grader:
+
+1. Høgskolekandidat, normert studietid 2 år.
+2. Bachelor, normert studietid 3 år.
+3. Master, normert studietid 1 ½–2 år.
+4. Master, normert studietid 5 år.
+5. Philosophiae doctor (ph.d.), normert studietid 3 år.
+6. Grunnskolelærer 1.–7. trinn og 5.–10. trinn, normert studietid 4 år, for studenter med oppstart før 2017.
 
 (2) OsloMet gir videreutdanninger som bygger på fullført høyere utdanning. Universitetet tilbyr også studier av kortere varighet.
 
 ### § 2-3. Bachelorgrad
 
-(1) Graden bachelor oppnås på grunnlag av utdanninger på 180 studiepoeng i ett av følgende studieløp:Studieprogram av 180 studiepoengs omfang i henhold til programplanen for studiet.Integrert utdanning, yrkesrettet utdanning eller annet studieprogram med omfang på minst 120 studiepoeng, med tillegg av emner eller emnegrupper på til sammen 60 studiepoeng, fastsatt i programplan for studiet. For utenlandske utdanninger eller i særlige tilfeller kan fakultetet også godkjenne andre emnekombinasjoner enn formelt fastsatte enheter på 60 studiepoeng. En slik kombinasjon skal i så fall utgjøre en naturlig faglig enhet.Fritt sammensatt bachelorgrad i henhold til utfyllende bestemmelser, jf. [§ 10-1](forskrift/2026-05-08-1479/§10-1).Fullførte 3 første studieår (180 studiepoeng) av 4-årig grunnskolelærerutdanning etter forskrift om rammeplan. Fullførte 3 første studieår av 4-årig allmennlærerutdanning kan også utgjøre grunnlaget for en bachelorgrad.
+(1) Graden bachelor oppnås på grunnlag av utdanninger på 180 studiepoeng i ett av følgende studieløp:
+
+1. Studieprogram av 180 studiepoengs omfang i henhold til programplanen for studiet.
+2. Integrert utdanning, yrkesrettet utdanning eller annet studieprogram med omfang på minst 120 studiepoeng, med tillegg av emner eller emnegrupper på til sammen 60 studiepoeng, fastsatt i programplan for studiet. For utenlandske utdanninger eller i særlige tilfeller kan fakultetet også godkjenne andre emnekombinasjoner enn formelt fastsatte enheter på 60 studiepoeng. En slik kombinasjon skal i så fall utgjøre en naturlig faglig enhet.
+3. Fritt sammensatt bachelorgrad i henhold til utfyllende bestemmelser, jf. [§ 10-1](forskrift/2026-05-08-1479/§10-1).
+4. Fullførte 3 første studieår (180 studiepoeng) av 4-årig grunnskolelærerutdanning etter forskrift om rammeplan. Fullførte 3 første studieår av 4-årig allmennlærerutdanning kan også utgjøre grunnlaget for en bachelorgrad.
 
 (2) I bachelorgrader gjelder de krav til fordypning eller helhetlig yrkes- eller profesjonsrettet utdanning som følger av [universitets- og høyskoleforskriften](forskrift/2024-06-28-1392).
 
 ### § 2-4. Tilleggsbetegnelse for graden bachelor
 
-For oppnådd bachelorgrad angis gradens faglige innhold (tilleggsbetegnelsen) på vitnemål som følger:For bachelorgrad etter [§ 2-3 første ledd bokstav a](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/a): enten: «bachelor i \*betegnelse på fagområde eller studieprogram i henhold til programplan\*», eventuelt med ytterligere tilleggsangivelse av linje, studieretning eller liknende, eller «bachelor – \*betegnelse på lærerutdanning i henhold til forskrift om rammeplan for den aktuelle lærerutdanningen\*».For bachelorgrad etter [§ 2-3 første ledd bokstav b](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/b): «bachelor i \*betegnelse på studieprogram i henhold til programplan\*».For bachelorgrad etter [§ 2-3 bokstav c](forskrift/2026-05-08-1479/§2-3/bokstav/c): «bachelor i \*betegnelse på faglig hovedområde som den faglige fordypningen på minimum 90 studiepoeng defineres inn under\*» som følger: enten «bachelor i helsefag» eller «bachelor i kultur- og samfunnsfag» eller «bachelor i tekniske fag».For bachelorgrad etter [§ 2-3 første ledd bokstav d](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/d): enten «bachelor i grunnskolefag 1.–7. trinn» eller «bachelor i grunnskolefag 5.–10. trinn» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig grunnskolelærerutdanning på respektive studieretning eller «bachelor i grunnskolens undervisningsfag» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig allmennlærerutdanning.
+For oppnådd bachelorgrad angis gradens faglige innhold (tilleggsbetegnelsen) på vitnemål som følger:
+
+1. For bachelorgrad etter [§ 2-3 første ledd bokstav a](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/a): enten: «bachelor i \*betegnelse på fagområde eller studieprogram i henhold til programplan\*», eventuelt med ytterligere tilleggsangivelse av linje, studieretning eller liknende, eller «bachelor – \*betegnelse på lærerutdanning i henhold til forskrift om rammeplan for den aktuelle lærerutdanningen\*».
+2. For bachelorgrad etter [§ 2-3 første ledd bokstav b](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/b): «bachelor i \*betegnelse på studieprogram i henhold til programplan\*».
+3. For bachelorgrad etter [§ 2-3 bokstav c](forskrift/2026-05-08-1479/§2-3/bokstav/c): «bachelor i \*betegnelse på faglig hovedområde som den faglige fordypningen på minimum 90 studiepoeng defineres inn under\*» som følger: enten «bachelor i helsefag» eller «bachelor i kultur- og samfunnsfag» eller «bachelor i tekniske fag».
+4. For bachelorgrad etter [§ 2-3 første ledd bokstav d](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/d): enten «bachelor i grunnskolefag 1.–7. trinn» eller «bachelor i grunnskolefag 5.–10. trinn» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig grunnskolelærerutdanning på respektive studieretning eller «bachelor i grunnskolens undervisningsfag» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig allmennlærerutdanning.
 
 ### § 2-5. Mastergrad
 
-(1) De generelle krav til mastergrad er fastsatt i [universitets- og høyskoleforskriften](forskrift/2024-06-28-1392). Graden tildeles for:mastergrad av 120 studiepoengs omfang.integrert mastergrad av 300 studiepoengs omfang.erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang.
+(1) De generelle krav til mastergrad er fastsatt i [universitets- og høyskoleforskriften](forskrift/2024-06-28-1392). Graden tildeles for:
+
+1. mastergrad av 120 studiepoengs omfang.
+2. integrert mastergrad av 300 studiepoengs omfang.
+3. erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang.
 
 (2) I mastergrad etter bokstav a og c skal det inngå et selvstendig arbeid, masteroppgave, av et omfang på minimum 30 studiepoeng. I mastergrad etter bokstav b skal det inngå et selvstendig arbeid, masteroppgave, av et omfang på minimum 20 studiepoeng.
 
@@ -158,7 +179,10 @@ For oppnådd grad som høgskolekandidat angis graden normalt som «høgskolekand
 
 (1) Studenten har rett til permisjon fra studiene ved svangerskap, adopsjon, omsorg for barn, ved tjeneste etter [forsvarsloven § 17](lov/2016-08-12-77/§17), verv i studentpolitiske organer og når det foreligger andre særlige grunner. Studentene skal innvilges permisjon så lenge behovet tilsier det.
 
-(2) Studenten kan også av øvrige grunner søke om permisjon fra studiene i inntil ett år. Studenten bør da:det siste studieåret ha avlagt minimum 30 studiepoeng.ha avlagt minimum 60 studiepoeng siden forrige permisjon.
+(2) Studenten kan også av øvrige grunner søke om permisjon fra studiene i inntil ett år. Studenten bør da:
+
+1. det siste studieåret ha avlagt minimum 30 studiepoeng.
+2. ha avlagt minimum 60 studiepoeng siden forrige permisjon.
 
 (3) Student med innvilget permisjon har fortsatt studierett og rett til å gå opp til eksamen. For å gå opp til eksamen må studenten være semesterregistrert, ha betalt semesteravgift og oppfylle vilkårene for å gå opp til eksamen etter forskriftens [§ 6-3](forskrift/2026-05-08-1479/§6-3) og [§ 6-4](forskrift/2026-05-08-1479/§6-4).
 
@@ -166,7 +190,16 @@ For oppnådd grad som høgskolekandidat angis graden normalt som «høgskolekand
 
 ### § 4-4. Tap av studierett
 
-(1) Studenten kan miste studieretten på et studium i følgende tilfeller:Studenten har ikke betalt semesteravgift eller annen avgift fastsatt i samsvar med [universitets- og høyskoleforskriften kapittel 4](forskrift/2024-06-28-1392/kap4) om egenbetaling.Studenten gjør ikke de handlinger som er beskrevet i [§ 4-1 andre ledd](forskrift/2026-05-08-1479/§4-1/ledd/2), der det er krav om det.Studenten har overskredet den fastsatte grensen for normert tid med eventuelt tillegg i tid, jf. [§ 4-2 andre ledd](forskrift/2026-05-08-1479/§4-2/ledd/2).Studenten har ikke avlagt eller bestått eksamen i henhold til utdanningsplan det siste studieåret, uten å ha vært i permisjon.Studenten har brukt opp antall forsøk til eksamen eller praksisstudier i henhold til bestemmelser i programplan og denne forskriften.Studenten har fått opptak på grunnlag av falsk eller forfalsket dokumentasjon.Studenten underveis i studiet mister autorisasjon som var en del av opptakskravene.Studenter med opptak på visse vilkår som ikke fyller opptakskravene innen den fastsatte fristen.
+(1) Studenten kan miste studieretten på et studium i følgende tilfeller:
+
+1. Studenten har ikke betalt semesteravgift eller annen avgift fastsatt i samsvar med [universitets- og høyskoleforskriften kapittel 4](forskrift/2024-06-28-1392/kap4) om egenbetaling.
+2. Studenten gjør ikke de handlinger som er beskrevet i [§ 4-1 andre ledd](forskrift/2026-05-08-1479/§4-1/ledd/2), der det er krav om det.
+3. Studenten har overskredet den fastsatte grensen for normert tid med eventuelt tillegg i tid, jf. [§ 4-2 andre ledd](forskrift/2026-05-08-1479/§4-2/ledd/2).
+4. Studenten har ikke avlagt eller bestått eksamen i henhold til utdanningsplan det siste studieåret, uten å ha vært i permisjon.
+5. Studenten har brukt opp antall forsøk til eksamen eller praksisstudier i henhold til bestemmelser i programplan og denne forskriften.
+6. Studenten har fått opptak på grunnlag av falsk eller forfalsket dokumentasjon.
+7. Studenten underveis i studiet mister autorisasjon som var en del av opptakskravene.
+8. Studenter med opptak på visse vilkår som ikke fyller opptakskravene innen den fastsatte fristen.
 
 (2) Fakultetet fatter vedtak om tap av studierett. Avdeling for utdanning kan også fatte vedtak om tap av studierett etter bokstav a.
 
@@ -192,7 +225,12 @@ For oppnådd grad som høgskolekandidat angis graden normalt som «høgskolekand
 
 (1) Studenten kan få resultatet «ikke bestått» etter en faglig vurdering, jf. [§ 5-1 første ledd](forskrift/2026-05-08-1479/§5-1/ledd/1).
 
-(2) Studenten kan få resultatet «ikke bestått», uten at det er gitt skriftlig varsel på forhånd dersom:studenten ikke oppfyller kravet til tilstedeværelse eller oppmøte.der studenten ikke får mulighet til å fullføre praksisperioden på grunn av forhold som skyldes studenten selv.studenten mot slutten av praksisperioden viser handling eller atferd som utvilsomt gir grunnlag for å ikke bestå praksisstudiet.studentens praksisperiode er av kortere varighet, jf. [§ 5-1 tredje ledd](forskrift/2026-05-08-1479/§5-1/ledd/3).
+(2) Studenten kan få resultatet «ikke bestått», uten at det er gitt skriftlig varsel på forhånd dersom:
+
+1. studenten ikke oppfyller kravet til tilstedeværelse eller oppmøte.
+2. der studenten ikke får mulighet til å fullføre praksisperioden på grunn av forhold som skyldes studenten selv.
+3. studenten mot slutten av praksisperioden viser handling eller atferd som utvilsomt gir grunnlag for å ikke bestå praksisstudiet.
+4. studentens praksisperiode er av kortere varighet, jf. [§ 5-1 tredje ledd](forskrift/2026-05-08-1479/§5-1/ledd/3).
 
 (3) Dersom det foreligger en faglig vurdering med karakteren «ikke bestått», kan et utvalg oppnevnt av fakultet stadfeste eller oppheve karakteren.
 
@@ -350,7 +388,17 @@ Studenten kan klage over formelle feil i samsvar med [universitets- og høyskole
 
 (1) Fusk på eksamen og obligatorisk aktivitet kan medføre utestengelse og annullering av eksamen eller obligatorisk aktivitet.
 
-(2) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:Å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamenÅ presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitatGjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om detteUreglementert samarbeid mellom studenter eller gruppeÅ handle i strid med gjeldende regler for den spesifikke eksamenFabrikkering eller forfalskning av data eller kilderUrettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starterÅ levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selvÅ levere besvarelse som er utarbeidet av andre enn studenten(e) selv.
+(2) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:
+
+1. Å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen
+2. Å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat
+3. Gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette
+4. Ureglementert samarbeid mellom studenter eller gruppe
+5. Å handle i strid med gjeldende regler for den spesifikke eksamen
+6. Fabrikkering eller forfalskning av data eller kilder
+7. Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+8. Å levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selv
+9. Å levere besvarelse som er utarbeidet av andre enn studenten(e) selv.
 
 (3) Ved mistanke om fusk kan fakultetet holde sensuren tilbake til saken er avklart. Studenten har ikke anledning til å gå opp til ny eksamen i emnet før saken er avgjort.
 
@@ -406,13 +454,27 @@ Studenten kan klage over formelle feil i samsvar med [universitets- og høyskole
 
 (2) Søkere uten generell studiekompetanse må dokumentere at de oppfyller krav til norsk- og engelskkunnskaper i henhold til krav i [forskrift om opptak til høgare utdanning § 2-1](forskrift/2017-01-06-13/§2-1). Unntak fra språkkravene kan fastsettes i programplanen.
 
-(3) Søkere med utenlandsk utdanning fra land utenfor Norden må dokumentere at de oppfyller krav til norsk- og engelskkunnskaper i henhold til krav i [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13).Krav til norskkunnskaper gjelder ikke dersom både obligatoriske deler av studiet og den aktuelle spesialiseringen i sin helhet foregår på engelsk.
+(3) Søkere med utenlandsk utdanning fra land utenfor Norden må dokumentere at de oppfyller krav til norsk- og engelskkunnskaper i henhold til krav i [forskrift om opptak til høgare utdanning](forskrift/2017-01-06-13).
 
-(4) Søkere som er 25 år eller eldre i opptaksåret, og som ikke dekker opptakskravet gjennom formell utdanning, kan få vurdert om de er kvalifiserte for et bestemt studium på grunnlag av realkompetanse. Realkompetanse kan tilkjennes på grunnlag av kunnskaper søker har fått gjennom lønnet og ulønnet arbeid, organisasjonsarbeid, utdanning eller på annen måte.Spesielle opptakskrav gitt i forskrift, rammeplan eller programplan som regulerer opptaket til det aktuelle studiet, gjelder også for søkere som blir kvalifisert for opptak på grunnlag av realkompetanse.Dersom det åpnes for opptak på grunnlag av realkompetanse må retningslinjer for realkompetansevurdering fastsettes i programplanen.Ved opptak til forkurs på grunnlag av realkompetanse er det krav til at søkeren er 18 år eller eldre i opptaksåret.
+Krav til norskkunnskaper gjelder ikke dersom både obligatoriske deler av studiet og den aktuelle spesialiseringen i sin helhet foregår på engelsk.
 
-(5) Ved beregningen av det faglige grunnlaget for opptak til masterstudier benyttes karakterene fra de enkelte emnene i det faglige grunnlaget, med vekting ut fra emnenes omfang i studiepoeng. Det faglige grunnlaget defineres i programplanen.Annen relevant utdanning kan regnes inn i det faglige grunnlaget. Programplanen skal definere prinsippet for hva som er relevant utdanning.
+(4) Søkere som er 25 år eller eldre i opptaksåret, og som ikke dekker opptakskravet gjennom formell utdanning, kan få vurdert om de er kvalifiserte for et bestemt studium på grunnlag av realkompetanse. Realkompetanse kan tilkjennes på grunnlag av kunnskaper søker har fått gjennom lønnet og ulønnet arbeid, organisasjonsarbeid, utdanning eller på annen måte.
 
-(6) For opptak til masterstudier må søker ha karaktersnitt C eller bedre i det faglige grunnlaget for opptak.For søkere med bokstavkarakterer er tallverdien for det faglige minstekravet for opptak 2,5, jf. [§ 9-10](forskrift/2026-05-08-1479/§9-10). For søkere med karakterer fra gammel norsk karakterskala er minstekravet for opptak 2,75.Der det faglige grunnlaget er vurdert med både tallkarakterer og bokstavkarakterer og ikke begge grunnlag tilfredsstiller karakterkravet, må det foretas en skjønnsmessig vurdering hvorvidt det faglige minstekravet er tilfredsstilt.Der det faglige grunnlaget ikke kan poengberegnes, må det foretas en skjønnsmessig vurdering hvorvidt det faglige minstekravet er tilfredsstilt.
+Spesielle opptakskrav gitt i forskrift, rammeplan eller programplan som regulerer opptaket til det aktuelle studiet, gjelder også for søkere som blir kvalifisert for opptak på grunnlag av realkompetanse.
+
+Dersom det åpnes for opptak på grunnlag av realkompetanse må retningslinjer for realkompetansevurdering fastsettes i programplanen.
+
+Ved opptak til forkurs på grunnlag av realkompetanse er det krav til at søkeren er 18 år eller eldre i opptaksåret.
+
+(5) Ved beregningen av det faglige grunnlaget for opptak til masterstudier benyttes karakterene fra de enkelte emnene i det faglige grunnlaget, med vekting ut fra emnenes omfang i studiepoeng. Det faglige grunnlaget defineres i programplanen.
+
+Annen relevant utdanning kan regnes inn i det faglige grunnlaget. Programplanen skal definere prinsippet for hva som er relevant utdanning.
+
+(6) For opptak til masterstudier må søker ha karaktersnitt C eller bedre i det faglige grunnlaget for opptak.
+
+1. For søkere med bokstavkarakterer er tallverdien for det faglige minstekravet for opptak 2,5, jf. [§ 9-10](forskrift/2026-05-08-1479/§9-10). For søkere med karakterer fra gammel norsk karakterskala er minstekravet for opptak 2,75.
+2. Der det faglige grunnlaget er vurdert med både tallkarakterer og bokstavkarakterer og ikke begge grunnlag tilfredsstiller karakterkravet, må det foretas en skjønnsmessig vurdering hvorvidt det faglige minstekravet er tilfredsstilt.
+3. Der det faglige grunnlaget ikke kan poengberegnes, må det foretas en skjønnsmessig vurdering hvorvidt det faglige minstekravet er tilfredsstilt.
 
 (7) For opptak til erfaringsbaserte masterstudier i samsvar med [universitets- og høyskoleforskriften § 2-7](forskrift/2024-06-28-1392/§2-7), kreves i tillegg minst 2 års relevant arbeidserfaring. Det fastsettes i programplanen hva som er relevant arbeidserfaring. Det kan i programplanen fastsettes krav om mer enn 2 års relevant arbeidserfaring. Arbeidserfaringen skal være gjennomført etter endt grunnutdanning, med mindre annet fremgår av programplanen.
 
@@ -446,7 +508,10 @@ For opptak til enkeltemner fastsettes egne krav i program- eller emneplanen. Hvi
 
 ### § 9-8. Innpassingsopptak
 
-(1) Innpassingsopptak kan brukes i følgende tilfeller:Fra og med 2. studieår i grunnutdanninger med ledig kapasitetFor søknader fra søkere som har bestått deler av masterprogrammet det søkes opptak til.
+(1) Innpassingsopptak kan brukes i følgende tilfeller:
+
+1. Fra og med 2. studieår i grunnutdanninger med ledig kapasitet
+2. For søknader fra søkere som har bestått deler av masterprogrammet det søkes opptak til.
 
 (2) Søkere til innpassingsopptak må dekke de gjeldende opptakskrav til studiet de søker opptak til.
 
@@ -466,9 +531,15 @@ Der opptakskravet er generell studiekompetanse beregnes karakterpoeng og tillegg
 
 ### § 9-11. Rangering
 
-(1) Dersom det er flere kvalifiserte søkere enn antall studieplasser, rangeres søkerne innbyrdes på følgende måte:Søkere som konkurrerer med karakterpoeng uten tilleggspoeng, rangeres på grunnlag av karakterpoeng fra det faglige grunnlaget.Søkere som konkurrerer med tilleggspoeng, rangeres på grunnlag av karakterpoeng fra det faglige grunnlaget pluss oppnådde tilleggspoeng.
+(1) Dersom det er flere kvalifiserte søkere enn antall studieplasser, rangeres søkerne innbyrdes på følgende måte:
 
-(2) Søkere med høy poengsum rangeres foran søkere med lav poengsum. Ved lik poengsum gjelder følgende:Ved for øvrig lik poengsum rangeres eldre søkere foran yngre.Det kan fastsettes i studiets programplan at det underrepresenterte kjønn skal prioriteres først.
+1. Søkere som konkurrerer med karakterpoeng uten tilleggspoeng, rangeres på grunnlag av karakterpoeng fra det faglige grunnlaget.
+2. Søkere som konkurrerer med tilleggspoeng, rangeres på grunnlag av karakterpoeng fra det faglige grunnlaget pluss oppnådde tilleggspoeng.
+
+(2) Søkere med høy poengsum rangeres foran søkere med lav poengsum. Ved lik poengsum gjelder følgende:
+
+1. Ved for øvrig lik poengsum rangeres eldre søkere foran yngre.
+2. Det kan fastsettes i studiets programplan at det underrepresenterte kjønn skal prioriteres først.
 
 (3) Søkere som har flere mulige rangeringsgrunnlag, skal poengberegnes på den måten som gir gunstigst resultat for søkeren.
 

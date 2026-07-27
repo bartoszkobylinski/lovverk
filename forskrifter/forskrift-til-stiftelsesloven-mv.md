@@ -44,7 +44,12 @@ Gebyr etter bestemmelsen her tilfaller staten ved Stiftelsestilsynet.
 
 For første gangs registrering i Stiftelsesregisteret skal det betales gebyr. Gebyret innbetales etterskuddsvis. Nærmere regler om innbetalingen kan fastsettes av Stiftelsestilsynet.
 
-Gebyret fastsettes slik:Stiftelser som ved opprettelsen har en egenkapital fra kr 100 000 til kr 199 999, skal betale kr 1 230 i gebyr.Stiftelser som ved opprettelsen har en egenkapital fra kr 200 000 til kr 499 999, skal betale kr 1 960 i gebyr.Stiftelser som ved opprettelsen har en egenkapital fra kr 500 000 til kr 999 999, skal betale kr 3 290 i gebyr.Stiftelser som ved opprettelsen har en egenkapital på kr 1 000 000 eller mer, skal betale kr 5 750 i gebyr.
+Gebyret fastsettes slik:
+
+1. Stiftelser som ved opprettelsen har en egenkapital fra kr 100 000 til kr 199 999, skal betale kr 1 230 i gebyr.
+2. Stiftelser som ved opprettelsen har en egenkapital fra kr 200 000 til kr 499 999, skal betale kr 1 960 i gebyr.
+3. Stiftelser som ved opprettelsen har en egenkapital fra kr 500 000 til kr 999 999, skal betale kr 3 290 i gebyr.
+4. Stiftelser som ved opprettelsen har en egenkapital på kr 1 000 000 eller mer, skal betale kr 5 750 i gebyr.
 
 Næringsdrivende stiftelser som skal betale gebyr til Foretaksregisteret i medhold av [foretaksregisterloven § 4-1](lov/1985-06-21-78/§4-1) tredje ledd, er fritatt for gebyr. Det samme gjelder stiftelser som var registrert i Enhetsregisteret før lovens ikrafttredelse.
 
@@ -56,7 +61,17 @@ Avgifter etter bestemmelsen her tilfaller staten ved Stiftelsestilsynet.
 
 Alle stiftelser som pr. 1. januar er registrert i Stiftelsesregisteret, og som har en egenkapital på kr 100.000 eller mer skal betale en årlig avgift.
 
-Avgiften fastsettes slik:Stiftelser som har en egenkapital fra kr 100 000 til kr 199 999, skal betale kr 860 i årlig avgift.Stiftelser som har en egenkapital fra kr 200 000 til kr 499 999, skal betale kr 1 160 i årlig avgift.Stiftelser som har en egenkapital fra kr 500 000 til kr 999 999, skal betale kr 2 050 i årlig avgift.Stiftelser som har en egenkapital fra kr 1 000 000 til kr 4 999 999, skal betale kr 6 180 i årlig avgift.Stiftelser som har en egenkapital fra kr 5 000 000 til kr 14 999 999, skal betale kr 7 130 i årlig avgift.Stiftelser som har en egenkapital fra kr 15 000 000 til kr 49 999 999, skal betale kr 9 780 i årlig avgift.Stiftelser som har en egenkapital fra kr 50 000 000 til kr 99 999 999, skal betale kr 17 850 i årlig avgift.Stiftelser som har en egenkapital på kr 100 000 000 eller mer, skal betale kr 24 900 i årlig avgift.Finans- og sparebankstiftelser som er underlagt tilsyn av Finanstilsynet skal betale kr 13 320 i årlig avgift, med mindre lavere årsavgift følger av bokstav a. til f.
+Avgiften fastsettes slik:
+
+1. Stiftelser som har en egenkapital fra kr 100 000 til kr 199 999, skal betale kr 860 i årlig avgift.
+2. Stiftelser som har en egenkapital fra kr 200 000 til kr 499 999, skal betale kr 1 160 i årlig avgift.
+3. Stiftelser som har en egenkapital fra kr 500 000 til kr 999 999, skal betale kr 2 050 i årlig avgift.
+4. Stiftelser som har en egenkapital fra kr 1 000 000 til kr 4 999 999, skal betale kr 6 180 i årlig avgift.
+5. Stiftelser som har en egenkapital fra kr 5 000 000 til kr 14 999 999, skal betale kr 7 130 i årlig avgift.
+6. Stiftelser som har en egenkapital fra kr 15 000 000 til kr 49 999 999, skal betale kr 9 780 i årlig avgift.
+7. Stiftelser som har en egenkapital fra kr 50 000 000 til kr 99 999 999, skal betale kr 17 850 i årlig avgift.
+8. Stiftelser som har en egenkapital på kr 100 000 000 eller mer, skal betale kr 24 900 i årlig avgift.
+9. Finans- og sparebankstiftelser som er underlagt tilsyn av Finanstilsynet skal betale kr 13 320 i årlig avgift, med mindre lavere årsavgift følger av bokstav a. til f.
 
 Ved fastsettelsen av avgiften skal egenkapitalen slik den fremgår av sist innsendte regnskaper til Regnskapsregisteret legges til grunn. For nyregistrerte stiftelser skal egenkapitalen slik den fremgår av åpningsbalansen som nevnt i [stiftelsesloven § 12](lov/2001-06-15-59/§12) annet ledd legges til grunn for avgiftsberegningen inntil egenkapitalen fremgår av regnskaper innsendt til Regnskapsregisteret.
 
@@ -80,7 +95,10 @@ Stiftelser som i strid med bestemmelsen i [stiftelsesloven § 61](lov/2001-06-15
 
 ## § 5. Overgang fra registrering hos fylkesmannen til registrering i Stiftelsesregisteret
 
-Før en stiftelse er meldt til Stiftelsestilsynet etter [stiftelsesloven § 61](lov/2001-06-15-59/§61) bokstav c gjelder følgende regler for stiftelsen:En stiftelse som er registrert i fylkesmannens register over stiftelser etter [lov 23. mai 1980 nr. 11](lov/1980-05-23-11) om stiftelser m.m, skal fortsette å være registrert i dette registeret.Endringer i meldte opplysninger skal meldes til fylkesmannen etter [lov 23. mai 1980 nr. 11](lov/1980-05-23-11) om stiftelser m.m.
+Før en stiftelse er meldt til Stiftelsestilsynet etter [stiftelsesloven § 61](lov/2001-06-15-59/§61) bokstav c gjelder følgende regler for stiftelsen:
+
+1. En stiftelse som er registrert i fylkesmannens register over stiftelser etter [lov 23. mai 1980 nr. 11](lov/1980-05-23-11) om stiftelser m.m, skal fortsette å være registrert i dette registeret.
+2. Endringer i meldte opplysninger skal meldes til fylkesmannen etter [lov 23. mai 1980 nr. 11](lov/1980-05-23-11) om stiftelser m.m.
 
 Fylkesmannen skal gi Stiftelsestilsynet de opplysninger som er nødvendige for at Stiftelsestilsynet skal kunne utføre sine oppgaver etter loven.
 

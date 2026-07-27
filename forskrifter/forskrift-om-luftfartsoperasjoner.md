@@ -24,9 +24,44 @@ eu_basis: []
 
 ## § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
 
-(1) EØS-avtalen vedlegg XIII nr. 66nf (forordning [(EU) nr. 965/2012](eu/32012r0965)) om fastsettelse av tekniske krav og administrative framgangsmåter for luftfartsvirksomhet i samsvar med europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216) med endringer:forordning [(EU) nr. 800/2013](eu/32013r0800) av 14. august 2013,forordning [(EU) nr. 83/2014](eu/32014r0083) av 29. januar 2014,forordning [(EU) nr. 71/2014](eu/32014r0071) av 27. januar 2014,forordning [(EU) nr. 379/2014](eu/32014r0379) av 7. april 2014,forordning [(EU) 2015/640](eu/32015r0640) av 23. april 2015,forordning [(EU) 2015/140](eu/32015r0140) av 29. januar 2015,forordning [(EU) 2015/1329](eu/32015r1329) av 31. juli 2015,forordning [(EU) 2015/2338](eu/32015r2338) av 11. desember 2015,forordning [(EU) 2017/363](eu/32017r0363) av 1. mars 2017,forordning [(EU) 2018/394](eu/32018r0394) av 13 mars 2018,forordning [(EU) 2018/1042](eu/32018r1042) av 23. juli 2018,forordning [(EU) 2020/745](eu/32020r0745) av 4. juni 2020,forordning [(EU) 2020/2036](eu/32020r2036) av 9. desember 2020,forordning [(EU) 2018/1975](eu/31975r2018) av 14. desember 2018,forordning [(EU) 2019/1384](eu/32019r1384) av 24. juli 2019,forordning [(EU) 2019/1387](eu/32019r1387) av 1. august 2019,forordning [(EU) 2020/1176](eu/32020r1176) av 7. august 2020,forordning [(EU) 2021/1296](eu/32021r1296) av 4. august 2021,forordning [(EU) 2021/2237](eu/32021r2237) av 15. desember 2021,forordning [(EU) 2022/2203](eu/32022r2203) av 11. november 2022,forordning [(EU) 2023/217](eu/32023r0217) av 1. februar 2023,forordning [(EU) 2023/1020](eu/32023r1020) av 24. mai 2023forordning [(EU) 2024/2076](eu/32024r2076) av 24. juli 2024forordning [(EU) 2024/1111](eu/32024r1111) av 10. april 2024forordning [(EU) 2025/133](eu/32025r0133)forordning [(EU) 2023/203](eu/32023r0203)forordning [(EU) 2025/2293](eu/32025r2293)gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+(1) EØS-avtalen vedlegg XIII nr. 66nf (forordning [(EU) nr. 965/2012](eu/32012r0965)) om fastsettelse av tekniske krav og administrative framgangsmåter for luftfartsvirksomhet i samsvar med europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216) med endringer:
 
-(2) EØS-avtalen vedlegg XIII nr. 66ng (forordning [(EU) nr. 452/2014](eu/32014r0452)) om fastsettelse av tekniske krav og administrative framgangsmåter for luftfartsvirksomhet utøvd av tredjestatsoperatører i samsvar med europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216) med endring:forordning [(EU) 2016/1158](eu/32016r1158) av 15. juli 2016,forordning [(EU) 2023/659](eu/32023r0659) av 2. desember 2022,gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+1. forordning [(EU) nr. 800/2013](eu/32013r0800) av 14. august 2013,
+2. forordning [(EU) nr. 83/2014](eu/32014r0083) av 29. januar 2014,
+3. forordning [(EU) nr. 71/2014](eu/32014r0071) av 27. januar 2014,
+4. forordning [(EU) nr. 379/2014](eu/32014r0379) av 7. april 2014,
+5. forordning [(EU) 2015/640](eu/32015r0640) av 23. april 2015,
+6. forordning [(EU) 2015/140](eu/32015r0140) av 29. januar 2015,
+7. forordning [(EU) 2015/1329](eu/32015r1329) av 31. juli 2015,
+8. forordning [(EU) 2015/2338](eu/32015r2338) av 11. desember 2015,
+9. forordning [(EU) 2017/363](eu/32017r0363) av 1. mars 2017,
+10. forordning [(EU) 2018/394](eu/32018r0394) av 13 mars 2018,
+11. forordning [(EU) 2018/1042](eu/32018r1042) av 23. juli 2018,
+12. forordning [(EU) 2020/745](eu/32020r0745) av 4. juni 2020,
+13. forordning [(EU) 2020/2036](eu/32020r2036) av 9. desember 2020,
+14. forordning [(EU) 2018/1975](eu/31975r2018) av 14. desember 2018,
+15. forordning [(EU) 2019/1384](eu/32019r1384) av 24. juli 2019,
+16. forordning [(EU) 2019/1387](eu/32019r1387) av 1. august 2019,
+17. forordning [(EU) 2020/1176](eu/32020r1176) av 7. august 2020,
+18. forordning [(EU) 2021/1296](eu/32021r1296) av 4. august 2021,
+19. forordning [(EU) 2021/2237](eu/32021r2237) av 15. desember 2021,
+20. forordning [(EU) 2022/2203](eu/32022r2203) av 11. november 2022,
+21. forordning [(EU) 2023/217](eu/32023r0217) av 1. februar 2023,
+22. forordning [(EU) 2023/1020](eu/32023r1020) av 24. mai 2023
+23. forordning [(EU) 2024/2076](eu/32024r2076) av 24. juli 2024
+24. forordning [(EU) 2024/1111](eu/32024r1111) av 10. april 2024
+25. forordning [(EU) 2025/133](eu/32025r0133)
+26. forordning [(EU) 2023/203](eu/32023r0203)
+27. forordning [(EU) 2025/2293](eu/32025r2293)
+
+gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+(2) EØS-avtalen vedlegg XIII nr. 66ng (forordning [(EU) nr. 452/2014](eu/32014r0452)) om fastsettelse av tekniske krav og administrative framgangsmåter for luftfartsvirksomhet utøvd av tredjestatsoperatører i samsvar med europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216) med endring:
+
+1. forordning [(EU) 2016/1158](eu/32016r1158) av 15. juli 2016,
+2. forordning [(EU) 2023/659](eu/32023r0659) av 2. desember 2022,
+
+gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
 > Endret ved [forskrifter 25 feb 2014 nr. 216](forskrift/2014-02-25-216), [3 juli 2014 nr. 935](forskrift/2014-07-03-935), [29 sep 2014 nr. 1298](forskrift/2014-09-29-1298), [17 des 2014 nr. 1811](forskrift/2014-12-17-1811), [18 juni 2015 nr. 719](forskrift/2015-06-18-719), [25 juni 2015 nr. 771](forskrift/2015-06-25-771), [14 juli 2015 nr. 900](forskrift/2015-07-14-900), [30 sep 2015 nr. 1143](forskrift/2015-09-30-1143), [12 mai 2016 nr. 503](forskrift/2016-05-12-503), [9 des 2016 nr. 1471](forskrift/2016-12-09-1471), [31 okt 2017 nr. 1715](forskrift/2017-10-31-1715), [7 juni 2018 nr. 836](forskrift/2018-06-07-836), [11 mars 2020 nr. 272](forskrift/2020-03-11-272), [23 nov 2020 nr. 2437](forskrift/2020-11-23-2437), [15 des 2020 nr. 2815](forskrift/2020-12-15-2815), [26 april 2021 nr. 1297](forskrift/2021-04-26-1297), [17 sep 2024 nr. 2212](forskrift/2024-09-17-2212), [10 feb 2025 nr. 173](forskrift/2025-02-10-173), [28 mars 2025 nr. 547](forskrift/2025-03-28-547), [17 juni 2025 nr. 1067](forskrift/2025-06-17-1067), [10 juli 2025 nr. 1514](forskrift/2025-07-10-1514), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [1 juli 2026 nr. 1485](forskrift/2026-07-01-1485).
 
@@ -38,7 +73,9 @@ Forordning [(EU) 2016/1199](eu/32016r1199) av 22. juli 2016 gjelder som norsk re
 
 ## § 2. Virkeområde
 
-Forskriften gjelder innenfor norsk område, herunder på Svalbard, med følgende særregler:Forskriften [§ 1](forskrift/2013-08-07-956/§1) andre ledd gjelder innenfor norsk område, med unntak av på Svalbard.
+Forskriften gjelder innenfor norsk område, herunder på Svalbard, med følgende særregler:
+
+1. Forskriften [§ 1](forskrift/2013-08-07-956/§1) andre ledd gjelder innenfor norsk område, med unntak av på Svalbard.
 
 > Endret ved [forskrifter 25 juni 2015 nr. 771](forskrift/2015-06-25-771), [20 juni 2018 nr. 924](forskrift/2018-06-20-924) (i kraft 1 juli 2018), [23 nov 2020 nr. 2437](forskrift/2020-11-23-2437).
 
@@ -76,7 +113,11 @@ Luftfartøy nevnt i første ledd må være registrert, samt være omfattet av lu
 
 ## § 4c. Driftsorganisasjon for fergeflyging
 
-Selskap som utelukkende driver med fergeflyging av luftfartøy skal ha driftstillatelse utstedt av Luftfartstilsynet. Følgende deler av driftsreglene i forordning [(EU) nr. 965/2012](eu/32012r0965) som gjennomført i [forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner](forskrift/2013-08-07-956), gjelder tilsvarende så langt de passer:Vedlegg III (del-ORO), men likevel ikke kapittel AOC, kapittel SEC, kapittel FC seksjon 2 og 3, kapittel CC, kapittel TC, samt bestemmelsen ORO.MLR.105.Vedlegg V (del SPA).Vedlegg VIII (del SPO).
+Selskap som utelukkende driver med fergeflyging av luftfartøy skal ha driftstillatelse utstedt av Luftfartstilsynet. Følgende deler av driftsreglene i forordning [(EU) nr. 965/2012](eu/32012r0965) som gjennomført i [forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner](forskrift/2013-08-07-956), gjelder tilsvarende så langt de passer:
+
+1. Vedlegg III (del-ORO), men likevel ikke kapittel AOC, kapittel SEC, kapittel FC seksjon 2 og 3, kapittel CC, kapittel TC, samt bestemmelsen ORO.MLR.105.
+2. Vedlegg V (del SPA).
+3. Vedlegg VIII (del SPO).
 
 > Tilføyd ved forskrift [11 april 2024 nr. 611](forskrift/2024-04-11-611).
 
@@ -106,14 +147,24 @@ Luftfartstilsynet kan pålegge luftfartsoperatører som driver etter en selverkl
 
 Forskriften trer i kraft straks.
 
-Bestemmelsene i forordning [(EU) nr. 965/2012](eu/32012r0965) vedlegg (Annex) I til og med VII trer i kraft 28. oktober 2014. Fra samme tidspunkt oppheves:[forskrift 2. juni 2005 nr. 546](forskrift/2005-06-02-546) om gjennomføring av felleseuropeiske driftskrav for ervervsmessig lufttransport med helikopter (BSL JAR-OPS 3),[forskrift 22. september 1983 nr. 4546](forskrift/1983-09-22-4546) om bruk av seilfly (BSL D 4-1),[forskrift 4. januar 1983 nr. 3179](forskrift/1983-01-04-3179) om luftfart med bemannet friballong (BSL D 4-5).
+Bestemmelsene i forordning [(EU) nr. 965/2012](eu/32012r0965) vedlegg (Annex) I til og med VII trer i kraft 28. oktober 2014. Fra samme tidspunkt oppheves:
+
+1. [forskrift 2. juni 2005 nr. 546](forskrift/2005-06-02-546) om gjennomføring av felleseuropeiske driftskrav for ervervsmessig lufttransport med helikopter (BSL JAR-OPS 3),
+2. [forskrift 22. september 1983 nr. 4546](forskrift/1983-09-22-4546) om bruk av seilfly (BSL D 4-1),
+3. [forskrift 4. januar 1983 nr. 3179](forskrift/1983-01-04-3179) om luftfart med bemannet friballong (BSL D 4-5).
 
 Treningsorganisasjoner som kun tilbyr trening for sertifikatene LAPL, PPL, BPL og SPL må innen 8. april 2015 anvende bestemmelsene i forordning [(EU) nr. 965/2012](eu/32012r0965) vedlegg (Annex) VII.
 
-Ikke-ervervsmessige operatører av komplekse motordrevne luftfartøyer (NCC-operatører) må innen 25. august 2016 anvende bestemmelsene i forordning [(EU) nr. 965/2012](eu/32012r0965) vedlegg (Annex) III, V og VI. Fra samme tidspunkt oppheves:driftsforskrift 7. juni 1974 nr. 4168 for ikke-ervervsmessig luftfart med fly (privatflyging),[forskrift 15. februar 2005 nr. 138](forskrift/2005-02-15-138) om ikke-ervervsmessig luftfart med helikopter (BSL D 3-2).
+Ikke-ervervsmessige operatører av komplekse motordrevne luftfartøyer (NCC-operatører) må innen 25. august 2016 anvende bestemmelsene i forordning [(EU) nr. 965/2012](eu/32012r0965) vedlegg (Annex) III, V og VI. Fra samme tidspunkt oppheves:
+
+1. driftsforskrift 7. juni 1974 nr. 4168 for ikke-ervervsmessig luftfart med fly (privatflyging),
+2. [forskrift 15. februar 2005 nr. 138](forskrift/2005-02-15-138) om ikke-ervervsmessig luftfart med helikopter (BSL D 3-2).
 
 Operatører som utfører spesialiserte luftfartsoperasjoner må innen 1. januar 2016 anvende bestemmelsene om spesialiserte luftfartsoperasjoner i forordning [(EU) nr. 965/2012](eu/32012r0965) vedlegg (Annex) II, III, VII og VIII.
 
-Bestemmelsene i forordning [(EU) nr. 965/2012](eu/32012r0965) vedlegg (Annex) II, III og IV skal gjelde fra 1. januar 2016 for:ervervsmessig rundflyging ([CAT](traktat/1984-12-10-1) A-A operasjoner) med fly i ytelsesklasse B eller med ikke-komplekse helikoptre, ogervervsmessig lufttransport med seilfly og med ballong.
+Bestemmelsene i forordning [(EU) nr. 965/2012](eu/32012r0965) vedlegg (Annex) II, III og IV skal gjelde fra 1. januar 2016 for:
+
+1. ervervsmessig rundflyging ([CAT](traktat/1984-12-10-1) A-A operasjoner) med fly i ytelsesklasse B eller med ikke-komplekse helikoptre, og
+2. ervervsmessig lufttransport med seilfly og med ballong.
 
 > Endret ved [forskrifter 25 feb 2014 nr. 216](forskrift/2014-02-25-216), [17 des 2014 nr. 1811](forskrift/2014-12-17-1811), [23 nov 2020 nr. 2437](forskrift/2020-11-23-2437).

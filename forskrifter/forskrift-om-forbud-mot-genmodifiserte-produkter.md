@@ -24,7 +24,21 @@ eu_basis: []
 
 ## § 1.
 
-Omsetning i Norge av følgende produkter er forbudt:Genmodifisert vaksine mot rabies fra Rhone Merieux, Frankrike, godkjent i EU ved kommisjonsbeslutning 18. juli 1994.Genmodifisert vaksine mot pseudorabies fra Vemie Veterinär Chemie GmbH, Tyskland, godkjent i EU ved kommisjonsbeslutning 18. juli 1994.Genmodifisert mais fra Novartis (tidligere Ciba-Geigy Limited), Sveits, godkjent i EU ved kommisjonsbeslutning 23. januar 1997.Genmodifisert sikori fra Bejo Zaden BV, Nederland, godkjent i EU ved kommisjonsbeslutning 20. mai 1996.Genmodifisert oljeraps fra Aventis (tidligere Plant Genetic Systems), Belgia, godkjent ved kommisjonsbeslutning 6. februar 1996.Genmodifisert oljeraps fra Aventis (tidligere Plant Genetic Systems), Belgia, godkjent ved kommisjonsbeslutning [1997/393/EF](eu/31997d0393), 6. juni 1997.Genmodifisert oljeraps fra AgrEvo, Storbritannia, godkjent ved kommisjonsbeslutning [1998/291/EF](eu/31998d0291), 22. april 1998.Genmodifisert testkit med genmodifiserte bakterier for påvisning av antibiotikarester i melk fra Valio Oy, Finland, godkjent ved kommisjonsbeslutning K(97)2068, 14. juli 1997.Genmodifisert oljerapslinje GT73 fra Monsanto A/S, USA, godkjent i EU ved kommisjonsbeslutning 31. august 2005.Levende, genmodifisert maislinje 1507 fra DuPont Pioneer og Dow AgroSciences LLC, representert av Dow AgroSciences Europe, godkjent i EU til bruk som fôr og i industrielle prosesser ved kommisjonsbeslutning 8. august 2005.Levende, genmodifisert rapslinje Ms8 fra Bayer CropScience AG, Tyskland, godkjent i EU til bruk som fôr og i industrielle prosesser ved kommisjonsbeslutning 26. mars 2007.Levende, genmodifisert rapslinje Rf3 fra Bayer CropScience AG, Tyskland, godkjent i EU til bruk som fôr og i industrielle prosesser ved kommisjonsbeslutning 26. mars 2007.Levende, genmodifisert rapslinje Ms8xRf3 fra Bayer CropScience AG, Tyskland, godkjent i EU til bruk som fôr og i industrielle prosesser ved kommisjonsbeslutning 26. mars 2007.
+Omsetning i Norge av følgende produkter er forbudt:
+
+1. Genmodifisert vaksine mot rabies fra Rhone Merieux, Frankrike, godkjent i EU ved kommisjonsbeslutning 18. juli 1994.
+2. Genmodifisert vaksine mot pseudorabies fra Vemie Veterinär Chemie GmbH, Tyskland, godkjent i EU ved kommisjonsbeslutning 18. juli 1994.
+3. Genmodifisert mais fra Novartis (tidligere Ciba-Geigy Limited), Sveits, godkjent i EU ved kommisjonsbeslutning 23. januar 1997.
+4. Genmodifisert sikori fra Bejo Zaden BV, Nederland, godkjent i EU ved kommisjonsbeslutning 20. mai 1996.
+5. Genmodifisert oljeraps fra Aventis (tidligere Plant Genetic Systems), Belgia, godkjent ved kommisjonsbeslutning 6. februar 1996.
+6. Genmodifisert oljeraps fra Aventis (tidligere Plant Genetic Systems), Belgia, godkjent ved kommisjonsbeslutning [1997/393/EF](eu/31997d0393), 6. juni 1997.
+7. Genmodifisert oljeraps fra AgrEvo, Storbritannia, godkjent ved kommisjonsbeslutning [1998/291/EF](eu/31998d0291), 22. april 1998.
+8. Genmodifisert testkit med genmodifiserte bakterier for påvisning av antibiotikarester i melk fra Valio Oy, Finland, godkjent ved kommisjonsbeslutning K(97)2068, 14. juli 1997.
+9. Genmodifisert oljerapslinje GT73 fra Monsanto A/S, USA, godkjent i EU ved kommisjonsbeslutning 31. august 2005.
+10. Levende, genmodifisert maislinje 1507 fra DuPont Pioneer og Dow AgroSciences LLC, representert av Dow AgroSciences Europe, godkjent i EU til bruk som fôr og i industrielle prosesser ved kommisjonsbeslutning 8. august 2005.
+11. Levende, genmodifisert rapslinje Ms8 fra Bayer CropScience AG, Tyskland, godkjent i EU til bruk som fôr og i industrielle prosesser ved kommisjonsbeslutning 26. mars 2007.
+12. Levende, genmodifisert rapslinje Rf3 fra Bayer CropScience AG, Tyskland, godkjent i EU til bruk som fôr og i industrielle prosesser ved kommisjonsbeslutning 26. mars 2007.
+13. Levende, genmodifisert rapslinje Ms8xRf3 fra Bayer CropScience AG, Tyskland, godkjent i EU til bruk som fôr og i industrielle prosesser ved kommisjonsbeslutning 26. mars 2007.
 
 > Endret ved [forskrifter 14 des 2012 nr. 1267](forskrift/2012-12-14-1267), [2 juni 2017 nr. 693](forskrift/2017-06-02-693).
 
@@ -32,4 +46,10 @@ Omsetning i Norge av følgende produkter er forbudt:Genmodifisert vaksine mot ra
 
 Forskriften trer i kraft straks.
 
-Fra samme tidspunkt oppheves følgende forskrifter:[Forskrift av 1. oktober 1997 nr. 1108](forskrift/1997-10-01-1108) om forbud mot utsetting i Norge av genmodifisert frø fra oljeraps.[Forskrift av 1. oktober 1997 nr. 1107](forskrift/1997-10-01-1107) om forbud mot utsetting i Norge av genmodifisert frø fra sikori.[Forskrift av 1. oktober 1997 nr. 1106](forskrift/1997-10-01-1106) om forbud mot utsetting i Norge av genmodifisert mais.[Forskrift av 1. oktober 1997 nr. 1105](forskrift/1997-10-01-1105) om forbud mot utsetting i Norge av genmodifisert vaksine mot pseudorabies.[Forskrift av 1. oktober 1997 nr. 1104](forskrift/1997-10-01-1104) om forbud mot utsetting i Norge av genmodifisert vaksine mot rabies.
+Fra samme tidspunkt oppheves følgende forskrifter:
+
+- [Forskrift av 1. oktober 1997 nr. 1108](forskrift/1997-10-01-1108) om forbud mot utsetting i Norge av genmodifisert frø fra oljeraps.
+- [Forskrift av 1. oktober 1997 nr. 1107](forskrift/1997-10-01-1107) om forbud mot utsetting i Norge av genmodifisert frø fra sikori.
+- [Forskrift av 1. oktober 1997 nr. 1106](forskrift/1997-10-01-1106) om forbud mot utsetting i Norge av genmodifisert mais.
+- [Forskrift av 1. oktober 1997 nr. 1105](forskrift/1997-10-01-1105) om forbud mot utsetting i Norge av genmodifisert vaksine mot pseudorabies.
+- [Forskrift av 1. oktober 1997 nr. 1104](forskrift/1997-10-01-1104) om forbud mot utsetting i Norge av genmodifisert vaksine mot rabies.

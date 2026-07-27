@@ -15,7 +15,7 @@ xml_hash: "bfcf34814adbe3f309e9aec502236e2e1f6aeb02d216273f8597437a34fb8d2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,10 @@ Kulturminnene i området reguleres av [svalbardmiljølovens kapittel V](lov/2001
 
 All ferdsel skal foregå på en måte som ikke skader eller på annen måte forringer naturmiljøet eller kulturminner eller fører til unødig forstyrrelse av mennesker eller dyreliv.
 
-Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet. Det skal holdes tilstrekkelig avstand til;dyrelivet for å unngå unødige forstyrrelserfredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
+Enhver som ferdes eller oppholder seg i verneområdet skal forhindre nye varige spor og slitasje på terreng og kulturminner. Steiner, stokker og annet som tas i bruk på stedet skal ryddes og bringes tilbake der de ble funnet. Det skal holdes tilstrekkelig avstand til;
+
+- dyrelivet for å unngå unødige forstyrrelser
+- fredete kulturminner som ikke er i bruk, slik at disse ikke utsettes for tråkk eller annen aktivitet som medfører fare for skade.
 
 4.2
 
@@ -124,7 +127,10 @@ Det er forbudt å bruke ubemannede luftfartøy (droner) og andre fjernstyrte ell
 
 ## § 5. Generelt unntak
 
-Bestemmelsene i [§ 4](forskrift/2003-09-26-1188/§4) er ikke til hinder for;utrykning for brann-, politi- eller redningstjeneste og oppsyn eller tilsyn etter [svalbardmiljøloven § 77](lov/2001-06-15-79/§77) og [§ 87](lov/2001-06-15-79/§87)bruk av ubemannede luftfartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2003-09-26-1188/§4) punkt 6 til samme formål som nevnt i strekpunktet over og til bruk i forvaltningsmyndighetens oppgaver.
+Bestemmelsene i [§ 4](forskrift/2003-09-26-1188/§4) er ikke til hinder for;
+
+- utrykning for brann-, politi- eller redningstjeneste og oppsyn eller tilsyn etter [svalbardmiljøloven § 77](lov/2001-06-15-79/§77) og [§ 87](lov/2001-06-15-79/§87)
+- bruk av ubemannede luftfartøy (droner) og innretninger som nevnt i [§ 4](forskrift/2003-09-26-1188/§4) punkt 6 til samme formål som nevnt i strekpunktet over og til bruk i forvaltningsmyndighetens oppgaver.
 
 > Endret ved forskrift [9 feb 2024 nr. 230](forskrift/2024-02-09-230) (i kraft 1 jan 2025).
 

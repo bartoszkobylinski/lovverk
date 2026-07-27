@@ -15,7 +15,7 @@ xml_hash: "c2c79bc1b1821a06742674892ccf8e02a6e0d61e9f7b30d62b6ba62a0bc23401"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -158,7 +158,14 @@ Dersom Finnmarkseiendommen i bankinnskudd, kontanter og lignende har aktiva som 
 
 Tilsyn med styrets virksomhet føres av en kontrollkomité med tre medlemmer. Finnmark fylkesting, Sametinget og Kongen oppnevner et medlem hver med personlig varamedlem. Som medlem og varamedlem skal hvert organ oppnevne en mann og en kvinne. Medlemmet og varamedlemmet oppnevnt av staten skal oppfylle de krav som domstolloven stiller til høyesterettsdommere. Medlemmene og varamedlemmene oppnevnes for inntil fire år av gangen. Ingen kan være medlem i mer enn ti år i sammenheng. Medlemmet oppnevnt av staten er leder for komiteen.
 
-Kontrollkomiteen skal:kontrollere at virksomheten i Finnmarkseiendommen drives i samsvar med finnmarksloven og annen lovgivning,velge en eller flere statsautoriserte revisorer til å revidere Finnmarkseiendommens regnskap,godkjenne Finnmarkseiendommens årsregnskap, årsberetning og revisjonsberetning,godkjenne styrets godtgjørelse,godkjenne låneopptak og garantistillelser oggodkjenne utdeling av overskudd.
+Kontrollkomiteen skal:
+
+1. kontrollere at virksomheten i Finnmarkseiendommen drives i samsvar med finnmarksloven og annen lovgivning,
+2. velge en eller flere statsautoriserte revisorer til å revidere Finnmarkseiendommens regnskap,
+3. godkjenne Finnmarkseiendommens årsregnskap, årsberetning og revisjonsberetning,
+4. godkjenne styrets godtgjørelse,
+5. godkjenne låneopptak og garantistillelser og
+6. godkjenne utdeling av overskudd.
 
 Ved uenighet treffes avgjørelser ved flertall. For avgjørelser som nevnt i annet ledd bokstav e og f kreves enstemmighet.
 
@@ -208,7 +215,14 @@ Reglene i kapittelet her gjelder ikke i den utstrekning annet følger av særlig
 
 ### § 22. Rettigheter for personer bosatt i kommunen
 
-I samsvar med reglene i kapittelet her og innenfor de rammer som følger av annen lovgivning, har de som er bosatt i en kommune i Finnmark, på Finnmarkseiendommens grunn i kommunen rett til:fiske etter innlandsfisk med garn,fiske etter anadrome laksefisk med faststående redskap i sjøen,sanking av egg og dun,hogst av lauvskog til brensel for husbehov,stikking av torv til brensel og annet husbehov oguttak av lauvskog til bruk som gjerdestolper og hesjestaur i reindrifts- og jordbruksnæring.
+I samsvar med reglene i kapittelet her og innenfor de rammer som følger av annen lovgivning, har de som er bosatt i en kommune i Finnmark, på Finnmarkseiendommens grunn i kommunen rett til:
+
+1. fiske etter innlandsfisk med garn,
+2. fiske etter anadrome laksefisk med faststående redskap i sjøen,
+3. sanking av egg og dun,
+4. hogst av lauvskog til brensel for husbehov,
+5. stikking av torv til brensel og annet husbehov og
+6. uttak av lauvskog til bruk som gjerdestolper og hesjestaur i reindrifts- og jordbruksnæring.
 
 Reindriftsutøvere har samme rett som personer bosatt i kommunen i den tiden reindrift foregår der.
 
@@ -216,7 +230,13 @@ Reindriftsutøvere har samme rett som personer bosatt i kommunen i den tiden rei
 
 ### § 23. Rettigheter for personer bosatt i Finnmark
 
-I samsvar med reglene i kapittelet her og innenfor de rammer som følger av annen lovgivning, har de som er bosatt i Finnmark, på Finnmarkseiendommens grunn rett til:jakt på storvilt,jakt og fangst av småvilt,fiske i vassdrag med stang og håndsnøre,plukking av multer oguttak av trevirke til husflid.
+I samsvar med reglene i kapittelet her og innenfor de rammer som følger av annen lovgivning, har de som er bosatt i Finnmark, på Finnmarkseiendommens grunn rett til:
+
+1. jakt på storvilt,
+2. jakt og fangst av småvilt,
+3. fiske i vassdrag med stang og håndsnøre,
+4. plukking av multer og
+5. uttak av trevirke til husflid.
 
 Til jordbrukseiendom ligger rett til beite for så stor buskap som kan vinterføs på eiendommen.
 
@@ -314,7 +334,11 @@ For å ivareta partenes interesser kan Finnmarkskommisjonen oppnevne representan
 
 ### § 33. Finnmarkskommisjonens rapport
 
-Etter at kommisjonen har utredet et felt skal den avgi en rapport som skal inneholde opplysninger om:hvem som etter kommisjonens oppfatning er eiere av grunnenhvilke bruksrettigheter som etter kommisjonens oppfatning eksistererde saksforholdene kommisjonen bygger sine konklusjoner på
+Etter at kommisjonen har utredet et felt skal den avgi en rapport som skal inneholde opplysninger om:
+
+1. hvem som etter kommisjonens oppfatning er eiere av grunnen
+2. hvilke bruksrettigheter som etter kommisjonens oppfatning eksisterer
+3. de saksforholdene kommisjonen bygger sine konklusjoner på
 
 Det skal fremgå av rapporten om konklusjonene er enstemmige. Hvis det ikke er tilfellet, skal det fremgå hvem som er uenig, og hvilke punkter uenigheten gjelder. Både flertallets og mindretallets konklusjoner skal begrunnes.
 
@@ -348,7 +372,12 @@ Får noen av utmarksdomstolens medlemmer forfall etter at behandlingen av en sak
 
 ### § 38. Stevning
 
-Tvister kan bringes inn for utmarksdomstolen ved skriftlig stevning senest ett år og seks måneder etter at Finnmarkskommisjonens rapport ble avgitt. Stevningen skal være underskrevet og skal inneholde:partens fulle navn og adresseen angivelse av de kravene som parten reiser, og omstendighetene de støttes påden påstanden parten nedleggerden motparten kravet rettes mot
+Tvister kan bringes inn for utmarksdomstolen ved skriftlig stevning senest ett år og seks måneder etter at Finnmarkskommisjonens rapport ble avgitt. Stevningen skal være underskrevet og skal inneholde:
+
+1. partens fulle navn og adresse
+2. en angivelse av de kravene som parten reiser, og omstendighetene de støttes på
+3. den påstanden parten nedlegger
+4. den motparten kravet rettes mot
 
 Selv om fristen etter første ledd har løpt ut, skal utmarksdomstolen likevel behandle saker som kommer inn før alle saker fra samme felt er avsluttet, dersom den finner at saken egner seg for slik behandling og den kan behandles uten vesentlig forsinkelse for domstolens saksavvikling. Avgjørelser etter leddet her kan ikke angripes.
 
@@ -364,7 +393,11 @@ Før en sak avvises, skal saksøkeren gis anledning til å uttale seg. Saken kan
 
 ### § 40. Forening av saker, oppdeling m.m.
 
-Utmarksdomstolen kan:forene flere saker til felles behandling og i tilfelle felles avgjørelsedele opp forhandlingene og pådømmelsen av ett eller flere krav som er forent i en sak, eller selvstendige tvistepunkter vedrørende samme kravbestemme rekkefølgen i behandlingen av de saker som er brakt inn
+Utmarksdomstolen kan:
+
+1. forene flere saker til felles behandling og i tilfelle felles avgjørelse
+2. dele opp forhandlingene og pådømmelsen av ett eller flere krav som er forent i en sak, eller selvstendige tvistepunkter vedrørende samme krav
+3. bestemme rekkefølgen i behandlingen av de saker som er brakt inn
 
 Ved avgjørelser etter første ledd skal det bl.a. legges vekt på hensynet til en naturlig og hensiktsmessig avgrensning av tvisteområdene når det gjelder utstrekning, rettslig og historisk sammenheng samt på behovet for avklaring av rettsforholdene.
 

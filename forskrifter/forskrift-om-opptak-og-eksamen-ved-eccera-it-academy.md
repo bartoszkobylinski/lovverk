@@ -15,7 +15,7 @@ xml_hash: "85297b6cc11c7a57fa146960680753a32d5ec889a0fb8d9b000ff595a067472f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,10 @@ eu_basis: []
 
 (3) Fagskolens styre kan i tillegg stille opptakskrav om fullført og bestått fagskoleutdanning til fagskoleutdanninger. Annen fagskoleutdanning kan kun settes som opptakskrav i tilfeller der de enkelte fagskoleutdanningene er selvstendige enheter som bygger på hverandre, og totale løpet for utdanningene som bygger på hverandre ikke overskrider to år. I særlige tilfeller kan det totale utdanningsløpet være opptil tre år, jf. [fagskoleforskriften](forskrift/2019-07-11-1005).
 
-(4) Søkere som i opptaksåret fyller 23 år og som ikke oppfyller det formelle opptakskravet, kan søke om opptak på grunnlag av realkompetanse.Med realkompetanse menes den samlede kompetansen en person har opparbeidet seg gjennom yrkespraksis, ubetalt arbeid, annen utdanning eller aktiviteter som kan anses å være relevant. Realkompetansen skal dokumenteres ved attester, kursbevis, vitnemål og egenvurdering.Realkompetansen vurderes opp mot det formelle opptakskravet til studiet det søkes opptak til og i forhold til den nødvendige faglige kompetansen som forutsettes for å kunne gjennomføre det aktuelle studiet.
+(4) Søkere som i opptaksåret fyller 23 år og som ikke oppfyller det formelle opptakskravet, kan søke om opptak på grunnlag av realkompetanse.
+
+1. Med realkompetanse menes den samlede kompetansen en person har opparbeidet seg gjennom yrkespraksis, ubetalt arbeid, annen utdanning eller aktiviteter som kan anses å være relevant. Realkompetansen skal dokumenteres ved attester, kursbevis, vitnemål og egenvurdering.
+2. Realkompetansen vurderes opp mot det formelle opptakskravet til studiet det søkes opptak til og i forhold til den nødvendige faglige kompetansen som forutsettes for å kunne gjennomføre det aktuelle studiet.
 
 > Endret ved forskrifter [3 nov 2020 nr. 2229](forskrift/2020-11-03-2229) (i kraft 1 jan 2021), [29 sep 2023 nr. 1789](forskrift/2023-09-29-1789) (i kraft 1 jan 2024), [15 okt 2025 nr. 2264](forskrift/2025-10-15-2264).
 
@@ -152,7 +155,9 @@ Etter nærmere vurdering kan det gis betinget opptak der søker mangler deler av
 
 (4) Dersom det oppstår mistanke om fusk, forsøk på fusk eller medvirkning til slike handlinger under eksamen, skal studenten snarest mulig gjøres oppmerksom på mistanken og at dette vil bli rapportert. Studenten velger selv om han/hun vil fullføre eksamen. Dersom studenten ikke fullfører eksamen, og mistanken senere frafalles eller studenten blir frifunnet for forholdet, vil ikke eksamen inngå som et tellende forsøk.
 
-(5) Vedtak om annullering av eksamen og eventuelt tap av eksamensrett som følge av fusk eller forsøk på fusk fattes av styret. Annullering av eksamen teller som ett forsøk til eksamen. Etter at det foreligger vedtak om annullering, skal eventuelle vitnemål eller karakterutskrifter leveres tilbake til fagskolen.Adgangen til annullering foreldes ikke, jf. [fagskoleloven, § 24 femte ledd](lov/2018-06-08-28/§24/ledd/5).
+(5) Vedtak om annullering av eksamen og eventuelt tap av eksamensrett som følge av fusk eller forsøk på fusk fattes av styret. Annullering av eksamen teller som ett forsøk til eksamen. Etter at det foreligger vedtak om annullering, skal eventuelle vitnemål eller karakterutskrifter leveres tilbake til fagskolen.
+
+Adgangen til annullering foreldes ikke, jf. [fagskoleloven, § 24 femte ledd](lov/2018-06-08-28/§24/ledd/5).
 
 (6) Vedtak om annullering av eksamen og tap av eksamensrett kan påklages i hht. [§ 18](forskrift/2020-10-15-2116/§18) i denne forskrift.
 
@@ -162,11 +167,25 @@ Etter nærmere vurdering kan det gis betinget opptak der søker mangler deler av
 
 (1) Studentenes kunnskaper og ferdigheter skal prøves på en upartisk og faglig betryggende måte. Det skal foretas en helhetsvurdering av studentens kunnskaper, ferdigheter og generelle kompetanse som samsvarer med læringsutbyttebeskrivelsene i det enkelte emne.
 
-(2) Følgende vurderingsformer kan benyttes:*Skoleeksamen:* Skriftlig eller muntlig prøve som avholdes i lokaler anvist av fagskolen og under tilsyn av personer utpekt av fagskolen.*Innleveringsoppgave:* Oppgave som utarbeides innenfor et forhåndsbestemt tidsrom og leveres til en definert tidsfrist.
+(2) Følgende vurderingsformer kan benyttes:
+
+1. *Skoleeksamen:* Skriftlig eller muntlig prøve som avholdes i lokaler anvist av fagskolen og under tilsyn av personer utpekt av fagskolen.
+2. *Innleveringsoppgave:* Oppgave som utarbeides innenfor et forhåndsbestemt tidsrom og leveres til en definert tidsfrist.
 
 (3) Vurderingsformen kan bestå av ett av ovennevnte elementer eller en kombinasjon av disse. Hvilke vurderingsform som benyttes, og vektingen av de ulike elementene skal framgå av emnets studieplan.
 
-(4) Det skal benyttes bokstavkarakterer, eller vurderingen bestått/ikke bestått. Karakterskalaen går fra A t.o.m. F, hvor A er beste karakter og F er «Ikke bestått».*Karakterskala* AFremragende prestasjon som klart utmerker seg. Studenten viser helhetlig innsikt, kunnskaper, ferdigheter.BMeget god prestasjon. Studenten viser solid innsikt, kunnskaper og ferdigheter.CJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god innsikt, kunnskaper og ferdigheter.DEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser nokså god innsikt, kunnskaper og ferdigheter.EPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser tilstrekkelig innsikt, kunnskaper og ferdigheter.FPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser manglende innsikt og sammenheng, kunnskaper og ferdigheter.
+(4) Det skal benyttes bokstavkarakterer, eller vurderingen bestått/ikke bestått. Karakterskalaen går fra A t.o.m. F, hvor A er beste karakter og F er «Ikke bestått».
+
+*Karakterskala*
+
+|  |  |
+| --- | --- |
+| A | Fremragende prestasjon som klart utmerker seg. Studenten viser helhetlig innsikt, kunnskaper, ferdigheter. |
+| B | Meget god prestasjon. Studenten viser solid innsikt, kunnskaper og ferdigheter. |
+| C | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god innsikt, kunnskaper og ferdigheter. |
+| D | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser nokså god innsikt, kunnskaper og ferdigheter. |
+| E | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser tilstrekkelig innsikt, kunnskaper og ferdigheter. |
+| F | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser manglende innsikt og sammenheng, kunnskaper og ferdigheter. |
 
 (5) Alle emner må være bestått for å oppnå vitnemål etter endt utdanning. Dersom kun enkelte emner i studiet er bestått, kan det utstedes et kompetansebevis.
 

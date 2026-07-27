@@ -28,7 +28,17 @@ Med virkning fra 1. januar 1991 overføres myndighet i henhold til lov om tilsyn
 
 Regelverket om elsikkerhet er utarbeidet med hjemmel i [lov av 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr (tilsynsloven).
 
-Ved å overføre ansvaret for elsikkerheten til Kommunaldepartementet får dette departementet ansvaret og myndigheten som følger av denne loven. I medhold av loven er det utarbeidet følgende forskrifter:Forskrift for elektriske forsyningsanlegg (FEF) av [20. november 1987 nr. 1082](forskrift/1987-11-20-1082)Forskrift for elektriske bygningsinstallasjoner m.m. (FEB) av [20. desember 1989 nr. 1430](forskrift/1989-12-20-1430)Forskrift for elektriske anlegg – Maritime installasjoner (FEA-M) av [1. mars 1990 nr. 125](forskrift/1990-03-01-125)Forskrift om faglig utdanning for elektrofagfolk (FFU) av [10. juli 1986 nr. 1588](forskrift/1986-07-10-1588)Driftsforskrift for høyspenningsanlegg av [20. november 1987 nr. 1084](forskrift/1987-11-20-1084)Driftsforskrift for lav- og mellomspenningsanlegg av 1. mars 1982 nr. 458En rekke forskrifter for prøving av elektrisk utstyr ved Norges Elektriske Materiellkontroll. Disse forskriftene vil bli erstattet av forskrift nevnt under h)Forskrift om utførelse og kontroll av elektrisk utstyr som tilbys eller omsettes til bruk i lavspenningsanlegg av [7. desember 1990 nr. 958](forskrift/1990-12-07-958)Forskrift med utfyllende regler og overgangsbestemmelser vedrørende dokumentasjon og registrering av elektrisk utstyr av [7. desember 1990 nr. 961](forskrift/1990-12-07-961).
+Ved å overføre ansvaret for elsikkerheten til Kommunaldepartementet får dette departementet ansvaret og myndigheten som følger av denne loven. I medhold av loven er det utarbeidet følgende forskrifter:
+
+1. Forskrift for elektriske forsyningsanlegg (FEF) av [20. november 1987 nr. 1082](forskrift/1987-11-20-1082)
+2. Forskrift for elektriske bygningsinstallasjoner m.m. (FEB) av [20. desember 1989 nr. 1430](forskrift/1989-12-20-1430)
+3. Forskrift for elektriske anlegg – Maritime installasjoner (FEA-M) av [1. mars 1990 nr. 125](forskrift/1990-03-01-125)
+4. Forskrift om faglig utdanning for elektrofagfolk (FFU) av [10. juli 1986 nr. 1588](forskrift/1986-07-10-1588)
+5. Driftsforskrift for høyspenningsanlegg av [20. november 1987 nr. 1084](forskrift/1987-11-20-1084)
+6. Driftsforskrift for lav- og mellomspenningsanlegg av 1. mars 1982 nr. 458
+7. En rekke forskrifter for prøving av elektrisk utstyr ved Norges Elektriske Materiellkontroll. Disse forskriftene vil bli erstattet av forskrift nevnt under h)
+8. Forskrift om utførelse og kontroll av elektrisk utstyr som tilbys eller omsettes til bruk i lavspenningsanlegg av [7. desember 1990 nr. 958](forskrift/1990-12-07-958)
+9. Forskrift med utfyllende regler og overgangsbestemmelser vedrørende dokumentasjon og registrering av elektrisk utstyr av [7. desember 1990 nr. 961](forskrift/1990-12-07-961).
 
 Ved Kronprinsreg.res. av 31. mai 1956 nr. 6, kgl.res. av 19. september 1975 og ved Industridepartementets bemyndigelse av 6. oktober 1971 er Norges vassdrags- og energiverk gitt hjemmel til å utferdige en rekke forskrifter. Forskriftsmyndigheten gis Elektrisitetstilsynet fra 1. januar 1991.
 
@@ -36,7 +46,10 @@ Ved kgl.res. av 4. juli 1929 er Norges vassdrags- og energiverk også gitt hjemm
 
 Når Kommunaldepartementet skal ha det overordnede ansvar for tilsynsloven og det tilhørende regelverk, vil det i kraft av høyhetsprinsippet i forvaltningen være klageorgan i elsikkerhetssaker.
 
-Komunaldepartementet vil dessuten få ansvaret for følgende nemder:Rådgivende nemnd for beskyttelsestiltak mot sterkstrømsforstyrrelser på svakstrømsanlegg opprettet ved kgl.res. 17. november 1981.Klagenemnd for installatørprøve gruppe L opprettet 7.mars 1974 av Industridepartementet, overført til Olje- og energidepartementet ved kgl.res. av 11. januar 1978.
+Komunaldepartementet vil dessuten få ansvaret for følgende nemder:
+
+1. Rådgivende nemnd for beskyttelsestiltak mot sterkstrømsforstyrrelser på svakstrømsanlegg opprettet ved kgl.res. 17. november 1981.
+2. Klagenemnd for installatørprøve gruppe L opprettet 7.mars 1974 av Industridepartementet, overført til Olje- og energidepartementet ved kgl.res. av 11. januar 1978.
 
 ## 3. Administrative og økonomiske konsekvenser
 

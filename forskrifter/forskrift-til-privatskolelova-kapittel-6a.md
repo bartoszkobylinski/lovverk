@@ -34,7 +34,10 @@ Forskriften skal legge til rette for organisert opplæring. Forskriften skal ogs
 
 ### § 1-2. Definisjoner
 
-I denne forskrift menes med*helårskurs:* kurs som minst svarer til årstimetallet i yrkesfaglige utdanningsprogram eller studiespesialiserende utdanningsprogram i den offentlige videregående skolen*delårskurs:* kurs som minst svarer til halve årstimetallet i yrkesfaglige utdanningsprogram eller studiespesialiserende utdanningsprogram i den offentlige videregående skolen.
+I denne forskrift menes med
+
+1. *helårskurs:* kurs som minst svarer til årstimetallet i yrkesfaglige utdanningsprogram eller studiespesialiserende utdanningsprogram i den offentlige videregående skolen
+2. *delårskurs:* kurs som minst svarer til halve årstimetallet i yrkesfaglige utdanningsprogram eller studiespesialiserende utdanningsprogram i den offentlige videregående skolen.
 
 ## Kapittel 2. Søknad
 
@@ -110,7 +113,12 @@ Elever som har større fravær enn 20 skoledager per 1. oktober eller 1. april o
 
 ### § 5-2. Unntak for dokumentert fravær
 
-Følgende dokumentert fravær skal ikke regnes som fravær ved beregning av statstilskudd etter [§ 5-1](forskrift/2020-11-23-2476/§5-1):fravær som kommer av sykdom der omfanget av fraværet er beskrevet og attestert av legeorganisert eller selvstendig studiearbeid, blant annet skoleadministrative gjøremål etter forhåndsbestemt avtale med faglærer eller daglig leder. Selvstendig studiearbeid skal dekke fag som det er gitt opplæring i under perioden og kan ikke være langvarigarbeid som tillitsvalgt, politisk arbeid, hjelpearbeid, lovpålagt oppmøte, fravær av helse- og velferdsgrunner og fravær ved religiøse høytider for elever som er medlemmer av andre trossamfunn enn Den norske kirke, avgrenset til i alt 14 skoledagerrepresentasjon i arrangement på nasjonalt og internasjonalt nivå, avgrenset til i alt 10 skoledager.
+Følgende dokumentert fravær skal ikke regnes som fravær ved beregning av statstilskudd etter [§ 5-1](forskrift/2020-11-23-2476/§5-1):
+
+1. fravær som kommer av sykdom der omfanget av fraværet er beskrevet og attestert av lege
+2. organisert eller selvstendig studiearbeid, blant annet skoleadministrative gjøremål etter forhåndsbestemt avtale med faglærer eller daglig leder. Selvstendig studiearbeid skal dekke fag som det er gitt opplæring i under perioden og kan ikke være langvarig
+3. arbeid som tillitsvalgt, politisk arbeid, hjelpearbeid, lovpålagt oppmøte, fravær av helse- og velferdsgrunner og fravær ved religiøse høytider for elever som er medlemmer av andre trossamfunn enn Den norske kirke, avgrenset til i alt 14 skoledager
+4. representasjon i arrangement på nasjonalt og internasjonalt nivå, avgrenset til i alt 10 skoledager.
 
 ### § 5-3. Unntak for udokumentert fravær
 
@@ -160,7 +168,10 @@ Skolene får statstilskudd til godkjent opplæring og får dekket 65 prosent av 
 
 Skolepengene kan utgjøre inntil 35 prosent av tilskuddsgrunnlaget. Beregning av størrelsen på skolepengene skal skje med utgangspunkt i gjeldende satser for tilskudd etter [privatskolelova § 6A-6](lov/2003-07-04-84/§6A-6) tredje ledd.
 
-I tillegg til de ordinære skolepengene etter [privatskolelova § 6A-6](lov/2003-07-04-84/§6A-6) kan skolene kreveinntil 4 500 kr per år for dekning av utgifter til husleie eller kapitalkostnaderbetaling av elevene for studieturer og prosjekter som er en del av skolens godkjente læreplan. Betalingen må være kjent for søkerne på søknadstidspunktet.
+I tillegg til de ordinære skolepengene etter [privatskolelova § 6A-6](lov/2003-07-04-84/§6A-6) kan skolene kreve
+
+1. inntil 4 500 kr per år for dekning av utgifter til husleie eller kapitalkostnader
+2. betaling av elevene for studieturer og prosjekter som er en del av skolens godkjente læreplan. Betalingen må være kjent for søkerne på søknadstidspunktet.
 
 > Endret ved forskrifter [29 juni 2022 nr. 1236](forskrift/2022-06-29-1236), [27 juni 2023 nr. 1132](forskrift/2023-06-27-1132) (i kraft 1 aug 2023, tidligere § 6-1).
 
@@ -208,7 +219,13 @@ Overskudd utover 25 % av totalt inntektsgrunnlag er å regne som statstilskudd.
 
 ### § 7-1. Tilleggsvirksomhet
 
-Skolen kan, i tillegg til skolevirksomhet, drive følgende tilleggsvirksomhet:internat for elever ved skolenutleie av tjenestebolig ved internatet for ansatte i skolen og utleie til andre i skoleferienkantine som elevene eller skolen driver, og som gjelder for elever ved skolen, og utleie av lokale til slik virksomhetutleie av spesialrom når rommene ikke er i bruk og utleievirksomheten ikke er til hinder for skolevirksomhetenutleie av skolelokaler utenfor skoletiden.
+Skolen kan, i tillegg til skolevirksomhet, drive følgende tilleggsvirksomhet:
+
+1. internat for elever ved skolen
+2. utleie av tjenestebolig ved internatet for ansatte i skolen og utleie til andre i skoleferien
+3. kantine som elevene eller skolen driver, og som gjelder for elever ved skolen, og utleie av lokale til slik virksomhet
+4. utleie av spesialrom når rommene ikke er i bruk og utleievirksomheten ikke er til hinder for skolevirksomheten
+5. utleie av skolelokaler utenfor skoletiden.
 
 Skolen kan også søke om å drive annen tilleggsvirksomhet etter [§ 2-4](forskrift/2020-11-23-2476/§2-4).
 
@@ -228,7 +245,13 @@ Utdanningsdirektoratet kan etter søknad gi utsettelse av tidsfristen i tredje l
 
 ### § 8-2. Krav til noteopplysninger i regnskapet
 
-I tillegg til de kravene [regnskapsloven](lov/1998-07-17-56) stiller til regnskapsføringen, skal skolen i note til årsregnskapet gi særskilte opplysninger om:offentlige finansieringskilder. Spesifiseringen skal vise hvem som har gitt midlene og formålet med ytelsen.skolepengesatsene. Skoler som ikke tar skolepenger, skal spesifisere dette.disponering av overskudd. Beregningen skal vise hvor mye skolen har disponert i forhold til totalt inntektsgrunnlag, både i kronebeløp og i prosent av inntektsgrunnlaget.handel med eierne til skolen eller deres nærstående. Spesifiseringen skal vise hvem skolen handler med, hva slags vare eller tjeneste som er kjøpt og totalbeløpene for de ulike varene og tjenestene. Skoler som ikke har hatt handel med eiere eller nærstående, skal spesifisere dette.tilleggsvirksomhet. Driver skolen tilleggsvirksomhet etter [§ 2-4](forskrift/2020-11-23-2476/§2-4) og [§ 7-1](forskrift/2020-11-23-2476/§7-1), skal det i note til årsregnskapet gi særskilte opplysninger om avdelingsvis fordeling av felleskostnader.
+I tillegg til de kravene [regnskapsloven](lov/1998-07-17-56) stiller til regnskapsføringen, skal skolen i note til årsregnskapet gi særskilte opplysninger om:
+
+1. offentlige finansieringskilder. Spesifiseringen skal vise hvem som har gitt midlene og formålet med ytelsen.
+2. skolepengesatsene. Skoler som ikke tar skolepenger, skal spesifisere dette.
+3. disponering av overskudd. Beregningen skal vise hvor mye skolen har disponert i forhold til totalt inntektsgrunnlag, både i kronebeløp og i prosent av inntektsgrunnlaget.
+4. handel med eierne til skolen eller deres nærstående. Spesifiseringen skal vise hvem skolen handler med, hva slags vare eller tjeneste som er kjøpt og totalbeløpene for de ulike varene og tjenestene. Skoler som ikke har hatt handel med eiere eller nærstående, skal spesifisere dette.
+5. tilleggsvirksomhet. Driver skolen tilleggsvirksomhet etter [§ 2-4](forskrift/2020-11-23-2476/§2-4) og [§ 7-1](forskrift/2020-11-23-2476/§7-1), skal det i note til årsregnskapet gi særskilte opplysninger om avdelingsvis fordeling av felleskostnader.
 
 ### § 8-3. Krav til revisor og revisjon
 
@@ -284,7 +307,14 @@ Utdanningsdirektoratet kan etter søknad godkjenne at eiendeler og midler overf�
 
 ### § 10-1. Overtredelsesgebyr
 
-Departementet kan ilegge skoler godkjent etter [privatskoleloven](lov/2003-07-04-84) overtredelsesgebyr dersom skolen eller noen som opptrer på vegne av skolen, fortsettlig eller uaktsomt bryter bestemmelser i:[kapittel 3](forskrift/2020-11-23-2476/kap3) om oppstart[kapittel 4](forskrift/2020-11-23-2476/kap4) om inntak[§ 5-4](forskrift/2020-11-23-2476/§5-4) om rapportering av elevtall[kapittel 6](forskrift/2020-11-23-2476/kap6) om statstilskudd og skolepenger[kapittel 8](forskrift/2020-11-23-2476/kap8) om regnskap, revisjon og dokumentasjon, med unntak av [§ 8-4](forskrift/2020-11-23-2476/§8-4) om særskilte erklæringer fra revisor[kapittel 9](forskrift/2020-11-23-2476/kap9) om nedleggelse av skoledriften.
+Departementet kan ilegge skoler godkjent etter [privatskoleloven](lov/2003-07-04-84) overtredelsesgebyr dersom skolen eller noen som opptrer på vegne av skolen, fortsettlig eller uaktsomt bryter bestemmelser i:
+
+- [kapittel 3](forskrift/2020-11-23-2476/kap3) om oppstart
+- [kapittel 4](forskrift/2020-11-23-2476/kap4) om inntak
+- [§ 5-4](forskrift/2020-11-23-2476/§5-4) om rapportering av elevtall
+- [kapittel 6](forskrift/2020-11-23-2476/kap6) om statstilskudd og skolepenger
+- [kapittel 8](forskrift/2020-11-23-2476/kap8) om regnskap, revisjon og dokumentasjon, med unntak av [§ 8-4](forskrift/2020-11-23-2476/§8-4) om særskilte erklæringer fra revisor
+- [kapittel 9](forskrift/2020-11-23-2476/kap9) om nedleggelse av skoledriften.
 
 Ved vurderingen av ileggelse og utmåling av overtredelsesgebyr kan det også legges vekt på om det er oppdaget forhold i strid med andre lover og forskrifter, dersom forholdet svekker tilliten til skolen.
 

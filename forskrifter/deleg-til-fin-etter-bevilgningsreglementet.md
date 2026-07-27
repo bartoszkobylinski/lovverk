@@ -15,7 +15,7 @@ xml_hash: "31fedb9eff3e7af2e65d0a848b16e1cb57a0234cfe39c041204757f962f37b28"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,12 @@ Med hjemmel i [bevilgningsreglementet § 11](forskrift/2005-05-26-876/§11) tred
 
 Med hjemmel i [bevilgningsreglementet § 11](forskrift/2005-05-26-876/§11) fjerde ledd nr. 1, gis Finansdepartementet fullmakt til å bemyndige departementene til å overskride bevilgninger under post 01 Driftsutgifter og post 21 Spesielle driftsutgifter, mot tilsvarende merinntekter.
 
-Vilkårene for å overskride postene 01 og 21 er for øvrig:Fullmakten må knyttes til bestemte utgifts- og inntektsposter, og merinntekt og merutgift må beregnes i forhold til den samlede bevilgningen under hver av postene. Det må i hvert enkelt år være samsvar mellom merinntekt og merutgift.Merinntekten må være et resultat av økt aktivitet i forhold til budsjettforutsetningene for vedkommende år.Den inntektsbringende aktiviteten må ligge innenfor det som er virksomhetens mål, oppgaver og rammevilkår.Den inntektsfinansierte aktiviteten må ikke skape bindinger til å opprettholde et høyere aktivitetsnivå enn det som dekkes av utgiftsbevilgningen dersom merinntektene faller bort.
+Vilkårene for å overskride postene 01 og 21 er for øvrig:
+
+1. Fullmakten må knyttes til bestemte utgifts- og inntektsposter, og merinntekt og merutgift må beregnes i forhold til den samlede bevilgningen under hver av postene. Det må i hvert enkelt år være samsvar mellom merinntekt og merutgift.
+2. Merinntekten må være et resultat av økt aktivitet i forhold til budsjettforutsetningene for vedkommende år.
+3. Den inntektsbringende aktiviteten må ligge innenfor det som er virksomhetens mål, oppgaver og rammevilkår.
+4. Den inntektsfinansierte aktiviteten må ikke skape bindinger til å opprettholde et høyere aktivitetsnivå enn det som dekkes av utgiftsbevilgningen dersom merinntektene faller bort.
 
 Finansdepartementet kan fastsette nærmere vilkår for adgangen til å overskride, og gi departementene fullmakt til å delegere sin bemyndigelse til underliggende virksomheter.
 
@@ -102,7 +107,10 @@ Reglement for økonomistyring i staten, fastsatt ved Kronprinsregentens resolusj
 
 ## II
 
-Følgende kongelige resolusjoner oppheves:Kongelig resolusjon 4. februar 1960 om fullmakt for Finans- og tolldepartementet til å samtykke i mindre bevilgningsoverskridelser.Kongelig [resolusjon 4. april 2003 nr. 433](forskrift/2003-04-04-433) om fullmakter i henhold til bevilgningsreglementet.
+Følgende kongelige resolusjoner oppheves:
+
+1. Kongelig resolusjon 4. februar 1960 om fullmakt for Finans- og tolldepartementet til å samtykke i mindre bevilgningsoverskridelser.
+2. Kongelig [resolusjon 4. april 2003 nr. 433](forskrift/2003-04-04-433) om fullmakter i henhold til bevilgningsreglementet.
 
 ## III
 

@@ -46,11 +46,23 @@ Kommunen overfører tilskuddet i sin helhet til frivilligsentralen(e). Tilskudde
 
 ## § 6. Krav til søknaden
 
-Følgende skal bekreftes i kommunens søknad om tilskudd:at frivilligsentraler som mottar tilskudd oppfyller kravene i [§ 7](forskrift/2022-06-30-1272/§7)at kommunen har involvert frivillig sektor jf. [§ 3](forskrift/2022-06-30-1272/§3).
+Følgende skal bekreftes i kommunens søknad om tilskudd:
+
+1. at frivilligsentraler som mottar tilskudd oppfyller kravene i [§ 7](forskrift/2022-06-30-1272/§7)
+2. at kommunen har involvert frivillig sektor jf. [§ 3](forskrift/2022-06-30-1272/§3).
 
 ## § 7. Krav til frivilligsentralen
 
-For å kunne motta tilskudd via kommunen må frivilligsentralen:drive virksomhet i samsvar med formålet i forskriftens [§ 1](forskrift/2022-06-30-1272/§1), tilpasset lokale forutsetninger og behovvære eid og driftet av enten en kommune, en virksomhet i Frivillighetsregisteret, et samvirkeforetak der samtlige medlemmer er kommuner og/eller virksomheter i Frivillighetsregisteret, eller en kombinasjon av de nevnteha et rådgivende organ som kan påvirke driften av frivilligsentralen, der frivilligheten er representertha eget regnskap og årsrapportha tilgang på fysiske lokalerha minst ett årsverk, som hovedregel én person i 100 prosent stillingha lokal finansiering tilsvarende minst 40 % av frivilligsentralens totale driftsinntekterbenytte ordet «frivilligsentral» eller likelydende i frivilligsentralens navn.
+For å kunne motta tilskudd via kommunen må frivilligsentralen:
+
+1. drive virksomhet i samsvar med formålet i forskriftens [§ 1](forskrift/2022-06-30-1272/§1), tilpasset lokale forutsetninger og behov
+2. være eid og driftet av enten en kommune, en virksomhet i Frivillighetsregisteret, et samvirkeforetak der samtlige medlemmer er kommuner og/eller virksomheter i Frivillighetsregisteret, eller en kombinasjon av de nevnte
+3. ha et rådgivende organ som kan påvirke driften av frivilligsentralen, der frivilligheten er representert
+4. ha eget regnskap og årsrapport
+5. ha tilgang på fysiske lokaler
+6. ha minst ett årsverk, som hovedregel én person i 100 prosent stilling
+7. ha lokal finansiering tilsvarende minst 40 % av frivilligsentralens totale driftsinntekter
+8. benytte ordet «frivilligsentral» eller likelydende i frivilligsentralens navn.
 
 ## § 8. Gratis utlån av frivilligsentralens lokaler
 

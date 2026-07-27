@@ -34,7 +34,13 @@ Denne forskriften får anvendelse på mineralvirksomhet som omfattes av [havbunn
 
 ### § 3. Definisjoner
 
-I denne forskriften forstås med:*Borehull:* hull som bores for å finne, karakterisere eller avgrense omfanget av en mineralforekomst. Et borehull kan bestå av en eller flere borehullbaner som betegner borehullets beliggenhet fra havbunnen til et endepunkt.*Funn:* en mineralforekomst som er påvist gjennom prøvetaking eller logging.*Geofysiske undersøkelser:* innsamling av data bestående av geofysiske parametere, som seismiske, elektromagnetiske, elektriske og radiometriske data, bunnpenetrerende ekkolodd-data, potensialfeltdata, sidesøkende sonardata og varmestrømsdata.*Prøvetaking:* innhenting av fysiske prøver i vannsøylen eller på, i eller under havbunnen.*Sedimentkjerne:* prøve av ukonsolidert sediment tatt med gravitasjonskjerneutstyr eller presskjerneutstyr.
+I denne forskriften forstås med:
+
+1. *Borehull:* hull som bores for å finne, karakterisere eller avgrense omfanget av en mineralforekomst. Et borehull kan bestå av en eller flere borehullbaner som betegner borehullets beliggenhet fra havbunnen til et endepunkt.
+2. *Funn:* en mineralforekomst som er påvist gjennom prøvetaking eller logging.
+3. *Geofysiske undersøkelser:* innsamling av data bestående av geofysiske parametere, som seismiske, elektromagnetiske, elektriske og radiometriske data, bunnpenetrerende ekkolodd-data, potensialfeltdata, sidesøkende sonardata og varmestrømsdata.
+4. *Prøvetaking:* innhenting av fysiske prøver i vannsøylen eller på, i eller under havbunnen.
+5. *Sedimentkjerne:* prøve av ukonsolidert sediment tatt med gravitasjonskjerneutstyr eller presskjerneutstyr.
 
 Definisjoner i [havbunnsmineralloven](lov/2019-03-22-7) og [havbunnsmineralforskriften](forskrift/2025-08-29-1740) gjelder for denne forskriften.
 
@@ -50,9 +56,31 @@ Rettighetshaver plikter å påse at enhver som utfører arbeid for seg, enten pe
 
 Rettighetshaver skal melde undersøkelsesaktiviteter i medhold av undersøkelsestillatelse og utvinningstillatelse til departementet, Sokkeldirektoratet, Sjøfartsdirektoratet, Fiskeridirektoratet, Havforskningsinstituttet, Kystverket og Forsvaret i Sokkeldirektoratets meldesystem for undersøkelser.
 
-Meldeplikten etter første ledd, vil blant annet omfatte følgende undersøkelsesaktiviteter:geofysiske undersøkelser, herunder batymetriundersøkelser med sensor fra autonom undervannsfarkost (AUV) og fjernstyrt undervannsfarkost (ROV)boring av borehullprøvetaking, herunder av mineraler, sedimenter, biologi, vann m.m.bilde- og videotakingutplassering av stasjonære målestasjonermålinger i vannsøylen, herunder av vannkjemi, vannstrømmer og andre vanndata.
+Meldeplikten etter første ledd, vil blant annet omfatte følgende undersøkelsesaktiviteter:
 
-Følgende opplysninger skal meldes inn senest fem uker før undersøkelsesaktiviteten starter:betegnelse på undersøkelsenhvilke(n) undersøkelses- eller utvinningstillatelse(r) undersøkelsen skal foretas i medhold avnavn på rettighetshavernavn på fartøy, fartøyenes kjenningssignal, IMO-nummer (International Maritime Organization sitt identifikasjonssystem for skip) og nasjonalitethvilke undersøkelsesaktiviteter som skal utførestidspunkt for planlagt oppstart og avslutning av aktiviteten(e)undersøkelsesområde, som inkludererareal for nødvendig kalibrering og testing av utstyr i forbindelse med geofysisk undersøkelsesaktivitet samt området som kreves for å snu fartøyetgeografisk posisjon for planlagt prøvetaking, boring og utplassering av stasjonære målestasjonerutstrekning av planlagt operativt område for autonome undervannsfarkostervurdering av om undersøkelsesaktiviteten kan skade særlig sårbare miljøressurseri hvilken form resultatene fra undersøkelsen vil foreligge, herunder format for rapportering og innsendelse.
+1. geofysiske undersøkelser, herunder batymetri
+2. undersøkelser med sensor fra autonom undervannsfarkost (AUV) og fjernstyrt undervannsfarkost (ROV)
+3. boring av borehull
+4. prøvetaking, herunder av mineraler, sedimenter, biologi, vann m.m.
+5. bilde- og videotaking
+6. utplassering av stasjonære målestasjoner
+7. målinger i vannsøylen, herunder av vannkjemi, vannstrømmer og andre vanndata.
+
+Følgende opplysninger skal meldes inn senest fem uker før undersøkelsesaktiviteten starter:
+
+1. betegnelse på undersøkelsen
+2. hvilke(n) undersøkelses- eller utvinningstillatelse(r) undersøkelsen skal foretas i medhold av
+3. navn på rettighetshaver
+4. navn på fartøy, fartøyenes kjenningssignal, IMO-nummer (International Maritime Organization sitt identifikasjonssystem for skip) og nasjonalitet
+5. hvilke undersøkelsesaktiviteter som skal utføres
+6. tidspunkt for planlagt oppstart og avslutning av aktiviteten(e)
+7. undersøkelsesområde, som inkluderer
+
+   1. areal for nødvendig kalibrering og testing av utstyr i forbindelse med geofysisk undersøkelsesaktivitet samt området som kreves for å snu fartøyet
+   2. geografisk posisjon for planlagt prøvetaking, boring og utplassering av stasjonære målestasjoner
+   3. utstrekning av planlagt operativt område for autonome undervannsfarkoster
+8. vurdering av om undersøkelsesaktiviteten kan skade særlig sårbare miljøressurser
+9. i hvilken form resultatene fra undersøkelsen vil foreligge, herunder format for rapportering og innsendelse.
 
 Rettighetshaver skal melde inn oppstartstidspunkt når undersøkelsesaktiviteten starter. Undersøkelsesaktiviteten kan ikke starte opp tidligere enn fem uker etter at den er meldt inn etter tredje ledd.
 
@@ -60,11 +88,34 @@ Rettighetshaver skal melde endringer i planlagt oppstartstidspunkt, avlysning el
 
 Dersom rettighetshaver ønsker undersøkelsesaktiviteten gjennomført ut over innmeldt tidspunkt for avslutning etter tredje ledd bokstav f, skal dette meldes snarest og senest fem virkedager før tidligere innmeldt tidspunkt for avslutning. Rettighetshaver skal snarest melde endringer av innmeldt undersøkelsesområde etter tredje ledd bokstav g.
 
-Følgende tilleggsopplysninger skal meldes inn så snart som mulig, men senest før oppstartstidspunktet:navn på den som skal utføre undersøkelsenundersøkelsesaktivitetens planlagte omfang, som:fartøyets seilingsdistanseantall kvadratkilometer planlagt dekket i forbindelse med de enkelte undersøkelsesaktiviteterantall autonome undervannsfarkosterantall planlagte prøvetakinger og borehulleventuelt anløp av indre norske farvannrettighetshavers vurdering av om resultatene mv. fra undersøkelsen skal være omsettelige.
+Følgende tilleggsopplysninger skal meldes inn så snart som mulig, men senest før oppstartstidspunktet:
 
-For geofysiske undersøkelser skal følgende informasjon tillegges meldingen etter syvende ledd, dersom dette er relevant:antall og type signalkilder og samlet volumbeskrivelse av hvordan de geofysiske sensorer er plassert under datainnsamlingen samt slepets omfangnavn på og kontaktinformasjon til fiskerikyndig person.
+1. navn på den som skal utføre undersøkelsen
+2. undersøkelsesaktivitetens planlagte omfang, som:
 
-Mens undersøkelsesaktiviteten pågår skal følgende opplysninger meldes inn ukentlig, eller oftere i de tilfeller Sokkeldirektoratet krever det:betegnelse på undersøkelsenhvilke(n) undersøkelses- eller utvinningstillatelse(r) undersøkelsen skal foretas i medhold avnavn på rettighetshaverstatus for undersøkelsesaktiviteten, herunder både totalt innsamlet data og data innsamlet i løpet av siste uke, fartøyets seilingsdistanse og antall kvadratkilometer dekketinformasjon om planlagt aktivitet i kommende uke, herunder informasjon om innsamlingsområdenavn på fartøy, fartøyenes kjenningssignal, IMO-nummer (International Maritime Organization sitt identifikasjonssystem for skip) og nasjonaliteteventuelt anløp av indre norske farvanndersom det etter [havbunnsmineralforskriften § 5 andre ledd](forskrift/2025-08-29-1740/§5/ledd/2) er nødvendig med fiskerikyndig person, navn på fiskerikyndig person.
+   1. fartøyets seilingsdistanse
+   2. antall kvadratkilometer planlagt dekket i forbindelse med de enkelte undersøkelsesaktiviteter
+   3. antall autonome undervannsfarkoster
+   4. antall planlagte prøvetakinger og borehull
+3. eventuelt anløp av indre norske farvann
+4. rettighetshavers vurdering av om resultatene mv. fra undersøkelsen skal være omsettelige.
+
+For geofysiske undersøkelser skal følgende informasjon tillegges meldingen etter syvende ledd, dersom dette er relevant:
+
+1. antall og type signalkilder og samlet volum
+2. beskrivelse av hvordan de geofysiske sensorer er plassert under datainnsamlingen samt slepets omfang
+3. navn på og kontaktinformasjon til fiskerikyndig person.
+
+Mens undersøkelsesaktiviteten pågår skal følgende opplysninger meldes inn ukentlig, eller oftere i de tilfeller Sokkeldirektoratet krever det:
+
+1. betegnelse på undersøkelsen
+2. hvilke(n) undersøkelses- eller utvinningstillatelse(r) undersøkelsen skal foretas i medhold av
+3. navn på rettighetshaver
+4. status for undersøkelsesaktiviteten, herunder både totalt innsamlet data og data innsamlet i løpet av siste uke, fartøyets seilingsdistanse og antall kvadratkilometer dekket
+5. informasjon om planlagt aktivitet i kommende uke, herunder informasjon om innsamlingsområde
+6. navn på fartøy, fartøyenes kjenningssignal, IMO-nummer (International Maritime Organization sitt identifikasjonssystem for skip) og nasjonalitet
+7. eventuelt anløp av indre norske farvann
+8. dersom det etter [havbunnsmineralforskriften § 5 andre ledd](forskrift/2025-08-29-1740/§5/ledd/2) er nødvendig med fiskerikyndig person, navn på fiskerikyndig person.
 
 Rettighetshaver skal melde fra så snart undersøkelsesaktiviteten er avsluttet.
 
@@ -76,7 +127,13 @@ Fartøy som utfører undersøkelser, skal ha om bord og benytte utstyr som overv
 
 Posisjonsrapporteringsutstyr etter første ledd skal til enhver tid være funksjonelt og tilfredsstille kravene i [forskrift 24. mars 2010 nr. 454 om krav til utstyr og installasjon av posisjonsrapporteringsutstyr](forskrift/2010-03-24-454). Forskriftens § 3 om krav til tjenesteleverandør som videreformidler sporingsopplysninger gjelder tilsvarende.
 
-Rapportering om posisjon skal inneholde følgende opplysninger:entydig identifikasjon av fartøyetfartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med et konfidensintervall på 99 %dato og tidspunkt for fartøyets posisjonfart og kurs i rapporteringsøyeblikketidentifikasjon av hvilken rapporttype som sendes.
+Rapportering om posisjon skal inneholde følgende opplysninger:
+
+1. entydig identifikasjon av fartøyet
+2. fartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med et konfidensintervall på 99 %
+3. dato og tidspunkt for fartøyets posisjon
+4. fart og kurs i rapporteringsøyeblikket
+5. identifikasjon av hvilken rapporttype som sendes.
 
 ### § 7. Rapportering av kulturminner
 
@@ -134,9 +191,30 @@ Sokkeldirektoratet kan, hvis det ikke i urimelig grad påvirker rettighetshavers
 
 ### § 14. Metoder for undersøkelse
 
-Rettighetshaver kan gjennomføre undersøkelser ved forsvarlig bruk av følgende metoder og utstyr for innsamling av data og prøver:multistråle ekkoloddsidesøkende sonarseismikkelektromagnetiske og magnetotelluriske målingergravimetriske og magnetiske målingerbunnpenetrerende ekkolodd (SBP)syntetisk apertur sonar, (HiSAS) (høyoppløselig havbunnsavbildning)geokjemiske sensoreroseanografisonde (CTD – konduktivitet, temperatur og dybde)kamera, inkludert videofilmbunnfaste måleverktøyinnhenting av sedimentkjernerTV grabbfjernstyrt undervannsfarkost (ROV) påmontert prøvetakingsutstyrkjerneboring, som ikke omfattes av fjerde ledd og heller ikke utføres med metoder som involverer forflytning på havbunnen mellom borelokasjoner.
+Rettighetshaver kan gjennomføre undersøkelser ved forsvarlig bruk av følgende metoder og utstyr for innsamling av data og prøver:
 
-Rettighetshaver skal senest ti uker før undersøkelsers oppstart, informere Sokkeldirektoratet om planlagt bruk av andre metoder og utstyr for undersøkelser enn de listet opp i første ledd. Informasjonen skal bl.a. inneholde:beskrivelse av utstyrplanlagt anvendelse av utstyret for den aktuelle datainnsamling eller prøvetakingdokumentasjon av forutgående bruk eller testing av metode og utstyrbeskrivelse og vurdering av metodens eller utstyrets miljømessige konsekvenser.
+1. multistråle ekkolodd
+2. sidesøkende sonar
+3. seismikk
+4. elektromagnetiske og magnetotelluriske målinger
+5. gravimetriske og magnetiske målinger
+6. bunnpenetrerende ekkolodd (SBP)
+7. syntetisk apertur sonar, (HiSAS) (høyoppløselig havbunnsavbildning)
+8. geokjemiske sensorer
+9. oseanografisonde (CTD – konduktivitet, temperatur og dybde)
+10. kamera, inkludert videofilm
+11. bunnfaste måleverktøy
+12. innhenting av sedimentkjerner
+13. TV grabb
+14. fjernstyrt undervannsfarkost (ROV) påmontert prøvetakingsutstyr
+15. kjerneboring, som ikke omfattes av fjerde ledd og heller ikke utføres med metoder som involverer forflytning på havbunnen mellom borelokasjoner.
+
+Rettighetshaver skal senest ti uker før undersøkelsers oppstart, informere Sokkeldirektoratet om planlagt bruk av andre metoder og utstyr for undersøkelser enn de listet opp i første ledd. Informasjonen skal bl.a. inneholde:
+
+1. beskrivelse av utstyr
+2. planlagt anvendelse av utstyret for den aktuelle datainnsamling eller prøvetaking
+3. dokumentasjon av forutgående bruk eller testing av metode og utstyr
+4. beskrivelse og vurdering av metodens eller utstyrets miljømessige konsekvenser.
 
 Dersom den planlagte bruk av metode eller utstyr meddelt etter andre ledd har mer omfattende miljøvirkninger enn metoder eller utstyr listet opp i første ledd, kan Sokkeldirektoratet, etter konsultasjon med Miljødirektoratet, fastsette krav til anvendelsen eller pålegge rettighetshaver å anvende andre metoder eller utstyr.
 
@@ -172,9 +250,19 @@ Rettighetshaver skal i sluttrapporten blant annet dokumentere funn av aktive hyd
 
 ### § 20. Rapportering av geofysiske og geologiske data
 
-Rettighetshaver skal sende Sokkeldirektoratet følgende dokumentasjon fra geofysiske og geologiske undersøkelser:geofysiske feltdataprosesserte batymetriske dataprosesserte seismiske dataprosesserte gravimetriske, magnetiske og elektromagnetiske data og sonardataanalyseresultater, kart og profiler som fremstiller resultatene fra andre geofysiske eller geologiske undersøkelser som varmestrømmålinger, radiometriske målinger, prøvetakinger mv.tilhørende data og dokumentasjon om undersøkelsen for data rapportert i henhold til bokstavene a til e, herunder navigasjonsdata og operasjonslogger.
+Rettighetshaver skal sende Sokkeldirektoratet følgende dokumentasjon fra geofysiske og geologiske undersøkelser:
 
-Dokumentasjon etter første ledd skal sendes så snart som mulig og senest innen følgende frister etter at undersøkelsen er fullført:tre måneder for data nevnt i første ledd bokstavene a og b jf. bokstav f,tolv måneder for data nevnt i første ledd bokstavene c til e jf. bokstav f.
+1. geofysiske feltdata
+2. prosesserte batymetriske data
+3. prosesserte seismiske data
+4. prosesserte gravimetriske, magnetiske og elektromagnetiske data og sonardata
+5. analyseresultater, kart og profiler som fremstiller resultatene fra andre geofysiske eller geologiske undersøkelser som varmestrømmålinger, radiometriske målinger, prøvetakinger mv.
+6. tilhørende data og dokumentasjon om undersøkelsen for data rapportert i henhold til bokstavene a til e, herunder navigasjonsdata og operasjonslogger.
+
+Dokumentasjon etter første ledd skal sendes så snart som mulig og senest innen følgende frister etter at undersøkelsen er fullført:
+
+1. tre måneder for data nevnt i første ledd bokstavene a og b jf. bokstav f,
+2. tolv måneder for data nevnt i første ledd bokstavene c til e jf. bokstav f.
 
 Plikten til å sende dokumentasjon etter første ledd omfatter alle data som er en naturlig del av prosesseringssekvensen og som blir lagret og distribuert til rettighetshaver. Dersom data etter rutinemessig prosessering blir videre bearbeidet, f.eks. ved spesialprosessering, reprosessering eller sammenstilling med andre data, skal resultatet fra dette arbeidet sendes til Sokkeldirektoratet samtidig som det er tilgjengelig for en rettighetshaver, uavhengig av om dette eventuelt deles med øvrige rettighetshavere i tillatelsen.
 
@@ -188,7 +276,12 @@ Dokumentasjon etter første ledd skal sendes til Sokkeldirektoratet så snart so
 
 ### § 22. Rapportering av data om miljøforhold
 
-Rettighetshaver skal sende Sokkeldirektoratet data fra undersøkelser innhentet for å kartlegge miljøforhold, herunder biologi som for eksempel:temperatur og strømforholdvannkjemisedimentkjemimiljø-DNA og andre biologiske data.
+Rettighetshaver skal sende Sokkeldirektoratet data fra undersøkelser innhentet for å kartlegge miljøforhold, herunder biologi som for eksempel:
+
+1. temperatur og strømforhold
+2. vannkjemi
+3. sedimentkjemi
+4. miljø-DNA og andre biologiske data.
 
 Dokumentasjon etter første ledd skal sendes så snart som mulig og senest innen tre måneder etter at undersøkelsen er fullført.
 
@@ -214,7 +307,10 @@ Rettighetshaver skal sende fysiske prøver, preparater og annet materiale fra de
 
 Rettighetshaver som har samlet inn borekaksprøver, skal sende inn et representativt utvalg fra alle soner i mineralforekomsten der sonene er avgrenset av forskjeller i mineralogi, metallgehalt mv.
 
-For innsendelse av borekjerner gjelder følgende:Rettighetshaver skal sende Sokkeldirektoratet et representativt utvalg av borekjerner fra avgrensning av en mineralforekomst. Sokkeldirektoratet kan sette andre krav til format på innsendelse av kjerner.Rettighetshaver skal, samtidig med innsendelse av kjerner etter bokstav a, sende digitale fargefotografier av alle kjerner som tas. Fotografiene skal tas like etter oppdeling, og vise borehullsbetegnelse, kjernenummer, dyp, orientering og målestokk.
+For innsendelse av borekjerner gjelder følgende:
+
+1. Rettighetshaver skal sende Sokkeldirektoratet et representativt utvalg av borekjerner fra avgrensning av en mineralforekomst. Sokkeldirektoratet kan sette andre krav til format på innsendelse av kjerner.
+2. Rettighetshaver skal, samtidig med innsendelse av kjerner etter bokstav a, sende digitale fargefotografier av alle kjerner som tas. Fotografiene skal tas like etter oppdeling, og vise borehullsbetegnelse, kjernenummer, dyp, orientering og målestokk.
 
 For petrografiske tynnslip skal rettighetshaver sende Sokkeldirektoratet et sett fra samme prøve. Dersom det lages digitale kopier av tynnslipene ved bruk av en mikroskopskanner, skal det sendes et digitalt eksemplar.
 
@@ -224,7 +320,12 @@ Dersom det er produsert palynologiske preparater, skal rettighetshaver sende sli
 
 ### § 26. Innsendelse av fysiske prøver og preparater fra andre undersøkelser enn boring
 
-Rettighetshaver skal sende et representativt utvalg av fysiske prøver, preparater og annet materiale fra andre undersøkelser enn boring til Sokkeldirektoratet, herundermineralprøversedimentkjernerbergartsprøverbiologiske prøver.
+Rettighetshaver skal sende et representativt utvalg av fysiske prøver, preparater og annet materiale fra andre undersøkelser enn boring til Sokkeldirektoratet, herunder
+
+1. mineralprøver
+2. sedimentkjerner
+3. bergartsprøver
+4. biologiske prøver.
 
 For petrografiske tynnslip skal rettighetshaver sende Sokkeldirektoratet et sett fra samme prøve.
 

@@ -38,9 +38,18 @@ Det kan gis tilskudd til frivillige organisasjoner og virksomheter som er regist
 
 Tilskudd kan gis ut fra en samlet skjønnsmessig vurdering av søknaden basert på tilskuddsordningens formål.
 
-Følgende vilkår skal være oppfylt:Søknadssummen må være minimum 200 000 kroner. Søknadssum er begrenset til maksimalt 50 pst. av kostnadsrammen for arrangementet.Arrangementet må være åpent for påmelding.
+Følgende vilkår skal være oppfylt:
 
-Ved vurderingen av søknader kan departementet legge vekt pågeografisk spredning i arrangementeneantall personer med funksjonsnedsettelser som er deltaker på arrangementetsamarbeid med andre relevante aktørerom arrangementet har aktivitet for barn og ungeom søker tidligere har mottatt midler til arrangementet.
+1. Søknadssummen må være minimum 200 000 kroner. Søknadssum er begrenset til maksimalt 50 pst. av kostnadsrammen for arrangementet.
+2. Arrangementet må være åpent for påmelding.
+
+Ved vurderingen av søknader kan departementet legge vekt på
+
+1. geografisk spredning i arrangementene
+2. antall personer med funksjonsnedsettelser som er deltaker på arrangementet
+3. samarbeid med andre relevante aktører
+4. om arrangementet har aktivitet for barn og unge
+5. om søker tidligere har mottatt midler til arrangementet.
 
 ## § 4. Søknad om tilskudd og krav til dokumentasjon
 

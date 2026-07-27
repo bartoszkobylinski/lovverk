@@ -15,7 +15,7 @@ xml_hash: "8990759311b4484cb8277963b8127c23a59c2616e034215a37053d38eff3bccc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,10 @@ eu_basis: []
 
 ### § 1. Konstituering etter stortingsvalg
 
-Når Stortinget trer sammen etter et stortingsvalg, overtar etter anmodning presidenten i forrige storting midlertidig presidentstillingen. Er vedkommende ikke til stede, overtas etter anmodning presidentstillingen midlertidig av, i prioritert rekkefølge:Den av det forrige stortings visepresidenter som rangerte høyest.Den av de tilstedeværende representanter som lengst har vært medlem av Stortinget. Dersom to eller flere har vært medlemmer av Stortinget like lenge, har den fortrinnsrett som er eldst av år.
+Når Stortinget trer sammen etter et stortingsvalg, overtar etter anmodning presidenten i forrige storting midlertidig presidentstillingen. Er vedkommende ikke til stede, overtas etter anmodning presidentstillingen midlertidig av, i prioritert rekkefølge:
+
+1. Den av det forrige stortings visepresidenter som rangerte høyest.
+2. Den av de tilstedeværende representanter som lengst har vært medlem av Stortinget. Dersom to eller flere har vært medlemmer av Stortinget like lenge, har den fortrinnsrett som er eldst av år.
 
 Presidenten foretar navneopprop og mottar representantenes og vararepresentantenes fullmakter. Stortingets reglement godkjennes. Meldte forfall og permisjonssøknader refereres og avgjøres.
 
@@ -156,7 +159,20 @@ Hvis ikke Stortinget bestemmer noe annet, skal komiteene ha uforandret sammenset
 
 ### § 12. Stortingets fagkomiteer
 
-Samtlige representanter unntatt Stortingets president fordeles på disse fagkomiteene:Arbeids- og sosialkomiteenEnergi- og miljøkomiteenFamilie- og kulturkomiteenFinanskomiteenHelse- og omsorgskomiteenJustiskomiteenKommunal- og forvaltningskomiteenKontroll- og konstitusjonskomiteenNæringskomiteenTransport- og kommunikasjonskomiteenUtdannings- og forskningskomiteenUtenriks- og forsvarskomiteen.
+Samtlige representanter unntatt Stortingets president fordeles på disse fagkomiteene:
+
+1. Arbeids- og sosialkomiteen
+2. Energi- og miljøkomiteen
+3. Familie- og kulturkomiteen
+4. Finanskomiteen
+5. Helse- og omsorgskomiteen
+6. Justiskomiteen
+7. Kommunal- og forvaltningskomiteen
+8. Kontroll- og konstitusjonskomiteen
+9. Næringskomiteen
+10. Transport- og kommunikasjonskomiteen
+11. Utdannings- og forskningskomiteen
+12. Utenriks- og forsvarskomiteen.
 
 > Endret ved [vedtak 7 nov 2017 nr. 2456](forskrift/2017-11-07-2456).
 
@@ -174,7 +190,25 @@ Valgkomiteen gir Stortinget melding om oppnevnelsene.
 
 ### § 14. Saksfordelingen mellom fagkomiteene
 
-Hovedregelen for saksfordelingen mellom fagkomiteene er:Arbeids- og sosialkomiteen: Saker om arbeidsmarked og arbeidsmiljø, arbeidsrettete ytelser, pensjoner, sosiale stønader og politikk for personer med funksjonsnedsettelse.Energi- og miljøkomiteen: Saker om olje, energi, vassdrag og miljøvern.Familie- og kulturkomiteen: Saker om familie, barn og ungdom, likestilling, forbrukersaker, herunder saker om gjeldsordning, kirke, tros- og livssynssamfunn, kultur og kulturminner.Finanskomiteen: Saker om økonomisk politikk, formues- og gjeldsforvaltning, finansadministrasjon, finansmarked, regnskap og revisjon, folketrygdens inntekter, skatter, avgifter, toll og bevilgninger til Stortinget. Om behandlingen av statsbudsjettet og nasjonalbudsjettet vises til [§ 43](forskrift/2012-06-07-518/§43).Helse- og omsorgskomiteen: Saker om helsetjenester, pleie- og omsorgstjenester, folkehelsearbeid, rusmiddelpolitikk og legemidler.Justiskomiteen: Saker om rettsvesen, kriminalomsorg, politiet, andre justisformål, sivil beredskap, rettferdsvederlag, alminnelig forvaltningslovgivning, straffelovgivning, prosesslovgivning og alminnelig sivillovgivning.Kommunal- og forvaltningskomiteen: Saker om kommunal forvaltning, regional- og distriktspolitikk, rammetilskudd til kommuner og fylkeskommuner, innvandringspolitikk, boligforhold, bygningssaker, regional planlegging, nasjonale minoriteter, samiske spørsmål unntatt reglene om valg til Sametinget. Generelle saker om elektronisk kommunikasjon, digitalisering og kunstig intelligens. Saker om organisering og virkeområde for statlig forvaltning, statens fellesadministrasjon, statlig personalpolitikk, herunder lønnsforhold, bevilgninger til Det kongelige hus og partistøtte.Kontroll- og konstitusjonskomiteen: Grunnlovssaker og valglovgivning. Saker om Stortingets kontroll med forvaltningen, jf. § 15 første ledd. Saker der Stortinget skal ta stilling til hvorvidt konstitusjonelt ansvar skal gjøres gjeldende, herunder om Stortingets ansvarskommisjon skal anmodes om å foreta nødvendige undersøkelser for å klarlegge grunnlaget for slikt ansvar, jf. [§ 15](forskrift/2012-06-07-518/§15) annet og tredje ledd og [§ 44](forskrift/2012-06-07-518/§44). Komiteen skal også gjennomgå og gi innstilling til Stortinget om:statsrådets protokoller mv., jf. [Grunnloven § 75](lov/1814-05-17/§75) bokstav f,regjeringens årlige melding om oppfølgingen av stortingsvedtak som inneholder en anmodning til regjeringen, og om behandlingen av representantforslag som er vedtatt oversendt regjeringen til utredning og uttalelse,dokumenter og meldinger fra Stortingets eksterne organer, og andre saker om deres virksomhet,rapporter fra Stortingets ansvarskommisjon og stortingsoppnevnte granskingskommisjoner.Næringskomiteen: Saker om nærings-, industri- og handelsvirksomhet, romvirksomhet, skipsfart, statlig eierskapspolitikk, statsgaranti ved eksport mv., konkurranse- og prispolitikk, landbruk, jordbruksavtalen, matpolitikk, fiskeri, fangst, reindriftsavtalen, akvakultur og laksefiske.Transport- og kommunikasjonskomiteen: Saker om innenlands transport, post, fritidsbåter og oppgaver under Kystverket.Utdannings- og forskningskomiteen: Saker om utdanning, barnehager og forskning, herunder koordinering av forskningspolitikken og forskning for landbruk, fiskeri og næringsliv.Utenriks- og forsvarskomiteen: Saker om utenrikspolitiske forhold, militært forsvar, utviklingshjelp, saker som angår norske interesser på Svalbard eller i andre polarområder, årsrapporter fra Stortingets faste delegasjoner til interparlamentariske forsamlinger, og – i alminnelighet – saker som gjelder avtaler mellom den norske stat og andre stater eller internasjonale organisasjoner.
+Hovedregelen for saksfordelingen mellom fagkomiteene er:
+
+1. Arbeids- og sosialkomiteen: Saker om arbeidsmarked og arbeidsmiljø, arbeidsrettete ytelser, pensjoner, sosiale stønader og politikk for personer med funksjonsnedsettelse.
+2. Energi- og miljøkomiteen: Saker om olje, energi, vassdrag og miljøvern.
+3. Familie- og kulturkomiteen: Saker om familie, barn og ungdom, likestilling, forbrukersaker, herunder saker om gjeldsordning, kirke, tros- og livssynssamfunn, kultur og kulturminner.
+4. Finanskomiteen: Saker om økonomisk politikk, formues- og gjeldsforvaltning, finansadministrasjon, finansmarked, regnskap og revisjon, folketrygdens inntekter, skatter, avgifter, toll og bevilgninger til Stortinget. Om behandlingen av statsbudsjettet og nasjonalbudsjettet vises til [§ 43](forskrift/2012-06-07-518/§43).
+5. Helse- og omsorgskomiteen: Saker om helsetjenester, pleie- og omsorgstjenester, folkehelsearbeid, rusmiddelpolitikk og legemidler.
+6. Justiskomiteen: Saker om rettsvesen, kriminalomsorg, politiet, andre justisformål, sivil beredskap, rettferdsvederlag, alminnelig forvaltningslovgivning, straffelovgivning, prosesslovgivning og alminnelig sivillovgivning.
+7. Kommunal- og forvaltningskomiteen: Saker om kommunal forvaltning, regional- og distriktspolitikk, rammetilskudd til kommuner og fylkeskommuner, innvandringspolitikk, boligforhold, bygningssaker, regional planlegging, nasjonale minoriteter, samiske spørsmål unntatt reglene om valg til Sametinget. Generelle saker om elektronisk kommunikasjon, digitalisering og kunstig intelligens. Saker om organisering og virkeområde for statlig forvaltning, statens fellesadministrasjon, statlig personalpolitikk, herunder lønnsforhold, bevilgninger til Det kongelige hus og partistøtte.
+8. Kontroll- og konstitusjonskomiteen: Grunnlovssaker og valglovgivning. Saker om Stortingets kontroll med forvaltningen, jf. § 15 første ledd. Saker der Stortinget skal ta stilling til hvorvidt konstitusjonelt ansvar skal gjøres gjeldende, herunder om Stortingets ansvarskommisjon skal anmodes om å foreta nødvendige undersøkelser for å klarlegge grunnlaget for slikt ansvar, jf. [§ 15](forskrift/2012-06-07-518/§15) annet og tredje ledd og [§ 44](forskrift/2012-06-07-518/§44). Komiteen skal også gjennomgå og gi innstilling til Stortinget om:
+
+   1. statsrådets protokoller mv., jf. [Grunnloven § 75](lov/1814-05-17/§75) bokstav f,
+   2. regjeringens årlige melding om oppfølgingen av stortingsvedtak som inneholder en anmodning til regjeringen, og om behandlingen av representantforslag som er vedtatt oversendt regjeringen til utredning og uttalelse,
+   3. dokumenter og meldinger fra Stortingets eksterne organer, og andre saker om deres virksomhet,
+   4. rapporter fra Stortingets ansvarskommisjon og stortingsoppnevnte granskingskommisjoner.
+9. Næringskomiteen: Saker om nærings-, industri- og handelsvirksomhet, romvirksomhet, skipsfart, statlig eierskapspolitikk, statsgaranti ved eksport mv., konkurranse- og prispolitikk, landbruk, jordbruksavtalen, matpolitikk, fiskeri, fangst, reindriftsavtalen, akvakultur og laksefiske.
+10. Transport- og kommunikasjonskomiteen: Saker om innenlands transport, post, fritidsbåter og oppgaver under Kystverket.
+11. Utdannings- og forskningskomiteen: Saker om utdanning, barnehager og forskning, herunder koordinering av forskningspolitikken og forskning for landbruk, fiskeri og næringsliv.
+12. Utenriks- og forsvarskomiteen: Saker om utenrikspolitiske forhold, militært forsvar, utviklingshjelp, saker som angår norske interesser på Svalbard eller i andre polarområder, årsrapporter fra Stortingets faste delegasjoner til interparlamentariske forsamlinger, og – i alminnelighet – saker som gjelder avtaler mellom den norske stat og andre stater eller internasjonale organisasjoner.
 
 > Endret ved [vedtak 16 mai 2013 nr. 1075](forskrift/2013-05-16-1075) (i kraft 1 okt 2013), [21 juni 2017 nr. 1425](forskrift/2017-06-21-1425) (i kraft 1 okt 2017), [7 nov 2017 nr. 2456](forskrift/2017-11-07-2456), [17 juni 2021 nr. 2109](forskrift/2021-06-17-2109) (i kraft 1 okt 2021), [19 juni 2025 nr. 2009](forskrift/2025-06-19-2009) (i kraft 1 okt 2025).
 
@@ -376,7 +410,10 @@ Invitasjon til skriftlig høring skal kunngjøres med en nærmere fastsatt frist
 
 ### § 27b. Oppfølging av samiske interesser
 
-Hvis komiteen overveier tilråding til Stortinget om vedtak som vil kunne påvirke samiske interesser direkte, og forslaget ikke har vært gjenstand for konsultasjoner i samsvar med [sameloven kapittel 4](lov/1987-06-12-56/kap4), kan komiteen:invitere Sametinget eller andre representanter for berørte samiske interesser til dialog, ellergi innstilling om at regjeringen bes gjennomføre nødvendige konsultasjoner og komme tilbake til Stortinget.
+Hvis komiteen overveier tilråding til Stortinget om vedtak som vil kunne påvirke samiske interesser direkte, og forslaget ikke har vært gjenstand for konsultasjoner i samsvar med [sameloven kapittel 4](lov/1987-06-12-56/kap4), kan komiteen:
+
+1. invitere Sametinget eller andre representanter for berørte samiske interesser til dialog, eller
+2. gi innstilling om at regjeringen bes gjennomføre nødvendige konsultasjoner og komme tilbake til Stortinget.
 
 > Tilføyd ved vedtak [19 juni 2025 nr. 2009](forskrift/2025-06-19-2009) (i kraft 1 okt 2025).
 
@@ -504,7 +541,13 @@ Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller 
 
 Presidentskapet foreslår behandlingsmåten for de kongelige proposisjoner og meldinger samt representantforslag og søknader når de er kommet inn til Stortinget.
 
-Når nye saker, herunder forslag, henstillinger og søknader, er referert, avgjør Stortinget om saken skalsendes til regjeringen uten realitetsvotering,sendes til en komité,legges ut til gjennomsyn for representantene i minst én dag og deretter føres opp på dagsordenen til behandling,tas opp til avgjørelse straks hvis ikke presidenten eller en femtedel av de representantene som er til stede, motsetter seg dette,avvises eller ikke tas under behandling.
+Når nye saker, herunder forslag, henstillinger og søknader, er referert, avgjør Stortinget om saken skal
+
+1. sendes til regjeringen uten realitetsvotering,
+2. sendes til en komité,
+3. legges ut til gjennomsyn for representantene i minst én dag og deretter føres opp på dagsordenen til behandling,
+4. tas opp til avgjørelse straks hvis ikke presidenten eller en femtedel av de representantene som er til stede, motsetter seg dette,
+5. avvises eller ikke tas under behandling.
 
 Finner presidenten at bestemte saker som skal refereres egner seg for avgjørelse i samme møte, bør presidenten føre dem opp særskilt på dagsordenen, med opplysning om at de vil bli foreslått behandlet straks.
 
@@ -568,7 +611,11 @@ Når beslutning om tiltale for riksrett er fattet, handler kontroll- og konstitu
 
 ### § 45. Muntlig redegjørelse for Stortinget fra et regjeringsmedlem
 
-Med samtykke av Stortingets presidentskap kan et regjeringsmedlem gi en muntlig redegjørelse i et stortingsmøte. Så vidt mulig skal redegjørelsen føres opp på dagsordenen. Presidenten kan beslutte at redegjørelsen umiddelbart skal følges av en debatt. Forsamlingen kan deretter avgjøre om redegjørelsen skal:føres opp til behandling i et senere møte,sendes til en komité, ellervedlegges protokollen.
+Med samtykke av Stortingets presidentskap kan et regjeringsmedlem gi en muntlig redegjørelse i et stortingsmøte. Så vidt mulig skal redegjørelsen føres opp på dagsordenen. Presidenten kan beslutte at redegjørelsen umiddelbart skal følges av en debatt. Forsamlingen kan deretter avgjøre om redegjørelsen skal:
+
+1. føres opp til behandling i et senere møte,
+2. sendes til en komité, eller
+3. vedlegges protokollen.
 
 I en debatt som følger umiddelbart etter redegjørelsen, kan en representant fra hver av partigruppene – og vedkommende regjeringsmedlem – få ordet én gang i inntil fem minutter. Under en slik debatt kan det ikke fremsettes forslag. Ved avslutningen av en slik debatt avgjør forsamlingen om redegjørelsen skal vedlegges protokollen eller behandles videre etter første ledd bokstav a eller b.
 
@@ -634,7 +681,13 @@ Ved innledningen av en debatt kan presidenten vedta å begrense varigheten av de
 
 Saksordfører får i alminnelighet ordet først. Ved debatt i saker om representantforslag kan én av forslagsstillerne få ordet etter saksordfører. Deretter får talerne ordet i den rekkefølge de ber presidenten om det, likevel slik at partigruppenes størrelse kan tas i betraktning ved fastsettelse av rekkefølgen. Én taler fra hver partigruppe skal normalt stå først på talerlisten. I tilfelle flere ber om ordet samtidig, avgjør presidenten hvem av dem som skal tale først. Dersom gruppene har innlevert til presidenten gjennom Stortingets administrasjon lister over representanter som ønsker å delta i debatten, kan presidenten på dette grunnlag sette opp en liste over rekkefølgen av talerne.
 
-Ingen taler må ha ordet mer enn to ganger under debatten om en sak, eller under hver del av debatten, dersom debatten er delt. Fra dette gjelder følgende unntak:Begrensningen gjelder ikke for saksordførere og den statsråd saken hører under. I alminnelige politiske debatter, herunder finansdebatt og redegjørelser etter [§ 45 første ledd bokstav a](forskrift/2012-06-07-518/§45/ledd/1/bokstav/a), gjelder begrensningen ikke for statsministeren og lederne i partigruppene.Presidenten kan gi adgang til en kort merknad.Presidenten kan tillate at en taler fra hver partigruppe får ordet mer enn to ganger.I debatter etter [§ 22a](forskrift/2012-06-07-518/§22a) gis én representant fra hvert parti adgang til et ubegrenset antall innlegg.Presidenten kan vedta å gjøre unntak fra hovedregelen.
+Ingen taler må ha ordet mer enn to ganger under debatten om en sak, eller under hver del av debatten, dersom debatten er delt. Fra dette gjelder følgende unntak:
+
+1. Begrensningen gjelder ikke for saksordførere og den statsråd saken hører under. I alminnelige politiske debatter, herunder finansdebatt og redegjørelser etter [§ 45 første ledd bokstav a](forskrift/2012-06-07-518/§45/ledd/1/bokstav/a), gjelder begrensningen ikke for statsministeren og lederne i partigruppene.
+2. Presidenten kan gi adgang til en kort merknad.
+3. Presidenten kan tillate at en taler fra hver partigruppe får ordet mer enn to ganger.
+4. I debatter etter [§ 22a](forskrift/2012-06-07-518/§22a) gis én representant fra hvert parti adgang til et ubegrenset antall innlegg.
+5. Presidenten kan vedta å gjøre unntak fra hovedregelen.
 
 Presidenten kan vedta at debatten skal avsluttes før alle inntegnede talere har hatt ordet («clôture»). Forslag om dette må være fremsatt av presidenten eller ti representanter på tilsvarende måte som ved innskrenkning av taletiden. Forslaget avgjøres av presidenten etter at én taler har hatt anledning til å tale for, og én imot, én gang hver.
 
@@ -710,7 +763,12 @@ En representant som ikke er til stede i salen når presidenten erklærer at vote
 
 ### § 60. Avstemningsmåter
 
-Avstemningen ordnes på én av følgende måter eller ved en kombinasjon av disse:Ved at presidenten oppfordrer de representanter som er for eller imot et forslag, om å reise seg. Presidenten kan også la foreta kontravotering.Ved bruk av elektronisk voteringsanlegg.Ved navneopprop. Finner presidenten at det må være unødvendig med navneopprop, men en representant setter frem krav om opprop, avgjør Stortinget voteringsmåten uten debatt ved avstemning etter bokstav a eller b. Oppropet begynner med det valgdistriktet og den representanten hvis nummer er trukket ut ved loddtrekning på forhånd. Oppropet fortsetter etter representantenes rekkefølge.Ved sedler uten underskrift. Denne avstemningsmåten brukes bare ved valg og bare når det er fremmet flere forslag til samme verv, en tilstedeværende representant krever det eller forsamlingen vedtar det etter forslag av presidenten. De som stemmer, skal på seddelen skrive navnene på de personene de stemmer på og personlig legge seddelen i urnen. Stemmer noen på flere enn det skal velges, skal det eller de navnene som står sist på stemmeseddelen, ikke telles med.
+Avstemningen ordnes på én av følgende måter eller ved en kombinasjon av disse:
+
+1. Ved at presidenten oppfordrer de representanter som er for eller imot et forslag, om å reise seg. Presidenten kan også la foreta kontravotering.
+2. Ved bruk av elektronisk voteringsanlegg.
+3. Ved navneopprop. Finner presidenten at det må være unødvendig med navneopprop, men en representant setter frem krav om opprop, avgjør Stortinget voteringsmåten uten debatt ved avstemning etter bokstav a eller b. Oppropet begynner med det valgdistriktet og den representanten hvis nummer er trukket ut ved loddtrekning på forhånd. Oppropet fortsetter etter representantenes rekkefølge.
+4. Ved sedler uten underskrift. Denne avstemningsmåten brukes bare ved valg og bare når det er fremmet flere forslag til samme verv, en tilstedeværende representant krever det eller forsamlingen vedtar det etter forslag av presidenten. De som stemmer, skal på seddelen skrive navnene på de personene de stemmer på og personlig legge seddelen i urnen. Stemmer noen på flere enn det skal velges, skal det eller de navnene som står sist på stemmeseddelen, ikke telles med.
 
 Er det holdt avstemning som nevnt i første ledd bokstav a eller b, men presidenten eller en femtedel av dem som stemmer erklærer at utfallet ikke kan regnes for sikkert, skal det holdes ny avstemning etter første ledd bokstav b eller c.
 
@@ -766,7 +824,14 @@ Når Stortinget har endt sine forhandlinger, skriver representantene under forha
 
 ### § 68. Interpellasjoner
 
-En representant som ønsker å stille en interpellasjon til regjeringen eller et regjeringsmedlem, leverer den skriftlig til Stortingets presidentskap gjennom Stortingets administrasjon. Interpellasjonen skal være kort. Presidenten bør avvise interpellasjoner omnoe som faller utenfor regjeringens ansvarsområde,saker som er under behandling i komiteene,saker som det er gitt innstilling om, men som ennå ikke er behandlet av Stortinget,saker som det allerede er innlevert interpellasjon eller spørsmål til spørretimen om, og som ennå ikke er besvart.Det gir ikke grunn til avvisning etter bokstav b eller c at interpellasjonen gjelder noe som er tatt opp i enkeltforslag i en mer omfattende sak.
+En representant som ønsker å stille en interpellasjon til regjeringen eller et regjeringsmedlem, leverer den skriftlig til Stortingets presidentskap gjennom Stortingets administrasjon. Interpellasjonen skal være kort. Presidenten bør avvise interpellasjoner om
+
+1. noe som faller utenfor regjeringens ansvarsområde,
+2. saker som er under behandling i komiteene,
+3. saker som det er gitt innstilling om, men som ennå ikke er behandlet av Stortinget,
+4. saker som det allerede er innlevert interpellasjon eller spørsmål til spørretimen om, og som ennå ikke er besvart.
+
+Det gir ikke grunn til avvisning etter bokstav b eller c at interpellasjonen gjelder noe som er tatt opp i enkeltforslag i en mer omfattende sak.
 
 Presidenten kan også gripe inn mot formuleringer som nevnt i [§ 55](forskrift/2012-06-07-518/§55) tredje ledd. Godtas interpellasjonen, gir presidenten meddelelse om den til vedkommende regjeringsmedlem.
 
@@ -856,7 +921,10 @@ Regjeringsmedlemmet kan avslå anmodningen i den grad dokumentet kan unntas fra 
 
 Representantene har taushetsplikt om alle saker som behandles for lukkete dører i Stortinget. Taushetsplikten gjelder også for behandlingen av slike saker i komiteene.
 
-Representantene har videre taushetsplikt om det som de under utøvelsen av stortingsvervet får kjennskap til om:informasjon som er gradert i henhold til sikkerhetsloven eller beskyttelsesinstruksen, ogforhold av den art som er omhandlet i [forvaltningsloven § 13](lov/1967-02-10/§13) (noens personlige forhold, eller tekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår). Reglene i [forvaltningsloven § 13a](lov/1967-02-10/§13a) til [§ 13f](lov/1967-02-10/§13f) gjelder tilsvarende så langt de passer.
+Representantene har videre taushetsplikt om det som de under utøvelsen av stortingsvervet får kjennskap til om:
+
+1. informasjon som er gradert i henhold til sikkerhetsloven eller beskyttelsesinstruksen, og
+2. forhold av den art som er omhandlet i [forvaltningsloven § 13](lov/1967-02-10/§13) (noens personlige forhold, eller tekniske innretninger og fremgangsmåter samt drifts- eller forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår). Reglene i [forvaltningsloven § 13a](lov/1967-02-10/§13a) til [§ 13f](lov/1967-02-10/§13f) gjelder tilsvarende så langt de passer.
 
 Første gang en representant møter, skal vedkommende gi taushetserklæring etter et formular som presidentskapet har fastsatt.
 

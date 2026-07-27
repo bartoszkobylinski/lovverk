@@ -15,7 +15,7 @@ xml_hash: "14f6c61fcdc647815f779b87751914d051710dee5543940b3b24cc5b88f23a80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,10 @@ Godkjente omsetningsledd kan delta i avrensordningen for poteter og i gjennomfø
 
 ## § 3. Definisjoner
 
-I denne forskrift menes med:*Omsetningsledd:* Foretak der matpoteter utgjør hele eller deler av forretningen/foredlingen.*Nord-Norge:* Nordland, Troms og Finnmark.
+I denne forskrift menes med:
+
+1. *Omsetningsledd:* Foretak der matpoteter utgjør hele eller deler av forretningen/foredlingen.
+2. *Nord-Norge:* Nordland, Troms og Finnmark.
 
 ## § 4. Godkjenning av omsetningsledd
 
@@ -48,7 +51,11 @@ Omsetningsledd kan dannes ved sammenslutninger.
 
 ## § 5. Vilkår
 
-For å bli godkjent etter denne forskrift må omsetningsleddet:være registrert i Foretaksregisteret1 og ha fast forretningssted.i et normalår ha et inntak av poteter på minst 1000 tonn i Sør-Norge og minst 250 tonn i Nord-Norge direkte fra foretak som driver med produksjon av matpoteter.ha den direkte kontakten med foretakene som driver produksjon av matpotet, og all avregning og fakturering av poteter må skje i omsetningsleddets navn.
+For å bli godkjent etter denne forskrift må omsetningsleddet:
+
+1. være registrert i Foretaksregisteret1 og ha fast forretningssted.
+2. i et normalår ha et inntak av poteter på minst 1000 tonn i Sør-Norge og minst 250 tonn i Nord-Norge direkte fra foretak som driver med produksjon av matpoteter.
+3. ha den direkte kontakten med foretakene som driver produksjon av matpotet, og all avregning og fakturering av poteter må skje i omsetningsleddets navn.
 
 Omsetningsleddet skal til enhver tid følge de klassifiserings- og merkingsbestemmelser som gis av Landbruks- og matdepartementet og/eller Mattilsynet.
 

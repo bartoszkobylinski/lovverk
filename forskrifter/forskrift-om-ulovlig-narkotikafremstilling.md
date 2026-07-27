@@ -15,7 +15,7 @@ xml_hash: "077d3626ad4ea69e98819f16775ab4f91ed3c69820acd760c747bdbc27979a66"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,9 @@ Forskriften gjelder markedsføring og annen håndtering av visse stoffer som kan
 
 ### § 3. Definisjoner:
 
-1. *Listeført stoff:* Ethvert stoff oppført i vedlegg I til forskriften, herunder blandinger og naturprodukter som inneholder slike stoffer.Unntatt fra denne forskrift er legemidler slik disse er definert i direktiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler for mennesker, blandinger, naturprodukter og andre preparater som inneholder listeførte stoffer, men som er sammensatt på en slik måte at stoffene ikke uten videre kan brukes eller gjenvinnes ved hjelp av lett anvendelige eller økonomisk fordelaktige midler.
+1. *Listeført stoff:* Ethvert stoff oppført i vedlegg I til forskriften, herunder blandinger og naturprodukter som inneholder slike stoffer.
+
+   Unntatt fra denne forskrift er legemidler slik disse er definert i direktiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler for mennesker, blandinger, naturprodukter og andre preparater som inneholder listeførte stoffer, men som er sammensatt på en slik måte at stoffene ikke uten videre kan brukes eller gjenvinnes ved hjelp av lett anvendelige eller økonomisk fordelaktige midler.
 2. *Ikke listeførte stoffer:* Stoffer som ikke er oppført i vedlegg I til forskriften, men hvis anvendelse ved ulovlig fremstilling av narkotika er blitt fastslått.
 3. *Markedsføring:* Enhver leveranse med eller uten vederlag av listeførte stoffer; eller lagring, fremstilling, produksjon, bearbeiding av, handel, distribusjon eller meglervirksomhet med disse stoffer med henblikk på levering.
 4. *Markedsdeltaker:* Fysisk eller juridisk person som er beskjeftiget med markedsføring av registrerte stoffer.
@@ -72,10 +74,17 @@ Markedsdeltakere som deltar i markedsføringen av listeførte stoffer i kategori
 ### § 7. Dokumentasjon
 
 1. Markedsdeltakere skal påse at alle transaksjoner som fører til markedsføring av stoffer i kategori 1 og 2 i vedlegg I er tilstrekkelig dokumentert i overensstemmelse med punkt 2 til 4.
-2. Handelsdokumenter slik som fakturaer, fraktdeklarasjoner, administrative dokumenter, transportdokumenter og andre forsendelsesdokumenter skal inneholde tilstrekkelige opplysninger til sikker identifikasjon av:navnet på det listeførte stoff, slik som det er angitt i kategori 1 og 2 i vedlegg I.mengde og vekt av det listeførte stoff, og når det er tale om en blanding, mengde og vekt, eller prosentvis andel av det eller de stoffer, som er oppført i kategori 1 og 2 i vedlegg I, og som inngår i blandingen.navn og adresse på leverandør, distributør og mottaker.
+2. Handelsdokumenter slik som fakturaer, fraktdeklarasjoner, administrative dokumenter, transportdokumenter og andre forsendelsesdokumenter skal inneholde tilstrekkelige opplysninger til sikker identifikasjon av:
+
+   1. navnet på det listeførte stoff, slik som det er angitt i kategori 1 og 2 i vedlegg I.
+   2. mengde og vekt av det listeførte stoff, og når det er tale om en blanding, mengde og vekt, eller prosentvis andel av det eller de stoffer, som er oppført i kategori 1 og 2 i vedlegg I, og som inngår i blandingen.
+   3. navn og adresse på leverandør, distributør og mottaker.
 3. Markedsdeltakere skal oppbevare nødvendig dokumentasjon over sine aktiviteter i det omfang det er nødvendig for å oppfylle de forpliktelser som følger av nr. 1.
 4. Dokumentasjon som er omhandlet i pkt. 1-3, oppbevares i minst tre år regnet fra utgangen av det kalenderår, i hvilket den i nr. 1 nevnte transaksjon fant sted. Dokumentasjonen skal på anmodning fra Direktoratet for medisinske produkter straks kunne stilles til rådighet og være lett tilgjengelig med henblikk på eventuell kontroll.
-5. Dokumentasjonen kan også oppbevares i form av reproduksjoner på et billedmedium eller andre datamedier. Det skal sikres at de lagrede data:svarer til dokumentasjonen i form og innhold når de gjøres lesbaretil enhver tid er umiddelbart tilgjengelige, straks kan gjøres lesbare og kan analyseres automatisk i hele den periode som er anført i nr. 4.
+5. Dokumentasjonen kan også oppbevares i form av reproduksjoner på et billedmedium eller andre datamedier. Det skal sikres at de lagrede data:
+
+   1. svarer til dokumentasjonen i form og innhold når de gjøres lesbare
+   2. til enhver tid er umiddelbart tilgjengelige, straks kan gjøres lesbare og kan analyseres automatisk i hele den periode som er anført i nr. 4.
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
@@ -95,9 +104,18 @@ Markedsdeltakerne skal når Direktoratet for medisinske produkter krever det, gi
 
 ### § 10. Kategori 1 og 2
 
-Eksport til land utenfor EØS-området av listeførte stoffer i kategori 1 og 2 i vedlegg I krever eksporttillatelse fra Direktoratet for medisinske produkter. Import fra land utenfor EØS-området av listeførte stoffer i kategori 1 i vedlegg I krever importtillatelse fra Direktoratet for medisinske produkter. Søknad om begge typer tillatelser skal minst inneholde følgende opplysninger:Navn og adresse på eksportør, importør og på enhver annen ervervsdrivende som er involvert i eksporten/importen eller forsendelsen, og den endelige mottaker.Navnet på det listeførte stoffet slik som det er oppført i kategori 1 eller kategori 2 i vedlegg I.Mengde og vekt av det listeførte stoffet. Dersom det består av en blanding mengde og vekt av blandingen samt mengde og vekt eller prosentvis andel av de stoffer som er oppført i vedlegget og som inngår i blandingen.Enkeltheter angående transporten, slik som forventet forsendelsestidspunkt, transportmåte, angivelse av tollstedet hvor forsendelsen skal fortolles.
+Eksport til land utenfor EØS-området av listeførte stoffer i kategori 1 og 2 i vedlegg I krever eksporttillatelse fra Direktoratet for medisinske produkter. Import fra land utenfor EØS-området av listeførte stoffer i kategori 1 i vedlegg I krever importtillatelse fra Direktoratet for medisinske produkter. Søknad om begge typer tillatelser skal minst inneholde følgende opplysninger:
 
-Tillatelse til eksport og import kan nektes dersom:opplysningene gitt i søknaden er ufullstendigedet er begrunnet mistanke om at opplysningene i søknaden er falske eller uriktige, ellerdet er begrunnet mistanke om at de pågjeldende stoffer er bestemt brukt til ulovlig fremstilling av narkotika.
+1. Navn og adresse på eksportør, importør og på enhver annen ervervsdrivende som er involvert i eksporten/importen eller forsendelsen, og den endelige mottaker.
+2. Navnet på det listeførte stoffet slik som det er oppført i kategori 1 eller kategori 2 i vedlegg I.
+3. Mengde og vekt av det listeførte stoffet. Dersom det består av en blanding mengde og vekt av blandingen samt mengde og vekt eller prosentvis andel av de stoffer som er oppført i vedlegget og som inngår i blandingen.
+4. Enkeltheter angående transporten, slik som forventet forsendelsestidspunkt, transportmåte, angivelse av tollstedet hvor forsendelsen skal fortolles.
+
+Tillatelse til eksport og import kan nektes dersom:
+
+1. opplysningene gitt i søknaden er ufullstendige
+2. det er begrunnet mistanke om at opplysningene i søknaden er falske eller uriktige, eller
+3. det er begrunnet mistanke om at de pågjeldende stoffer er bestemt brukt til ulovlig fremstilling av narkotika.
 
 Tillatelse til eksport og import utstedes på et skjema som finnes i tre eksemplarer. Ett eksemplar beholdes av Direktoratet for medisinske produkter, to eksemplarer blir sendt markedsdeltaker. Ved eksport skal det ene eksemplaret følge varen og det siste eksemplar beholdes av markedsdeltakeren.
 
@@ -123,7 +141,11 @@ For markedsføring innenfor EØS-området vises til forordning [(EF) nr. 273/200
 
 For å fremme samarbeidet mellom Direktoratet for medisinske produkter, markedsdeltakerne og den kjemiske industri med hensyn til de ikke-listeførte stoffer, skal Direktoratet for medisinske produkter utgi og ajourføre en veiledning til bruk for den kjemiske industri.
 
-Veiledningen skal inneholde:informasjon om hvordan mistenkelige transaksjoner identifiseres og innberettes,en løpende ajourført liste over de ikke-listeførte stoffer slik at industrien frivillig kan kontrollere handelen med disse stoffene,andre nyttige opplysninger.
+Veiledningen skal inneholde:
+
+1. informasjon om hvordan mistenkelige transaksjoner identifiseres og innberettes,
+2. en løpende ajourført liste over de ikke-listeførte stoffer slik at industrien frivillig kan kontrollere handelen med disse stoffene,
+3. andre nyttige opplysninger.
 
 > Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 

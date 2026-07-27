@@ -15,7 +15,7 @@ xml_hash: "ba2e02d566091e46c3a545be0ce945a1229604cb9dbfb3155cc0b519f3760ece"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,15 +32,52 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskriften forstås med*farledsbevisassessor:* dekksoffiser med kvalifikasjonsbevis som assessor for evaluering av kandidater til farledsbevis klasse 3, utstedt av Kystverket etter [§ 14](forskrift/2014-12-17-1808/§14)*fartøyets lengde:* fartøyets største lengde som skal inkludere innretninger som stikker utenfor skroget (LOA)*godkjent ECDIS:* typegodkjent elektronisk visnings- og informasjonssystem for sjøkart med backup, som tilfredsstiller krav fastsatt av FNs sjøfartsorganisasjon (IMO) i resolusjon A.817(19)*grunnlinje:* grensen mellom de indre farvann og sjøterritoriet rundt Fastlands-Norge og rundt Svalbard slik de er definert i [forskrift 14. juni 2002](forskrift/2002-06-14-625) om grunnlinjene for sjøterritoriet rundt Fastlands-Norge og [forskrift 1. juni 2001 nr. 556](forskrift/2001-06-01-556) om grunnlinjene ved Svalbard*IBC-koden:* den internasjonale kjemikaliekoden for bygging og utrustning av skip som frakter skadelige kjemikalier i bulk (International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk), med senere endringer*IGC-koden:* den internasjonale koden for bygging og utrustning av skip som frakter flytende gasser i bulk (International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk), med senere endringer*IMDG-koden:* den internasjonale koden for transport av farlig last til sjøs (International Maritime Dangerous Goods Code), med senere endringer*INF-koden:* den internasjonale koden for sikker transport av bestrålt nukleært brensel, plutonium og sterkt radioaktivt avfall i beholdere (International Code for the Safe Carriage of Packaged Irradiated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes on Board Ships), med senere endringer*losbordingsfelt:* felt for bording og kvitting av los som er angitt i sjøkart med symbol for losbording*[MARPOL](forskrift/2012-05-30-488):* den internasjonale konvensjon om hindring av forurensning fra skip, 1973, slik den er endret ved tilleggsprotokollen av 1978 (International Convention for the Prevention of Pollution From Ships, 1973 as modified by the Protocol of 1978), med senere endringer*nattseilas:* seilas i nautisk tussmørke eller mørkere, det vil si at solsenteret er lavere enn 6° under horisonten*passasjerfartøy:* fartøy som kan føre mer enn 12 passasjerer.
+I denne forskriften forstås med
+
+1. *farledsbevisassessor:* dekksoffiser med kvalifikasjonsbevis som assessor for evaluering av kandidater til farledsbevis klasse 3, utstedt av Kystverket etter [§ 14](forskrift/2014-12-17-1808/§14)
+2. *fartøyets lengde:* fartøyets største lengde som skal inkludere innretninger som stikker utenfor skroget (LOA)
+3. *godkjent ECDIS:* typegodkjent elektronisk visnings- og informasjonssystem for sjøkart med backup, som tilfredsstiller krav fastsatt av FNs sjøfartsorganisasjon (IMO) i resolusjon A.817(19)
+4. *grunnlinje:* grensen mellom de indre farvann og sjøterritoriet rundt Fastlands-Norge og rundt Svalbard slik de er definert i [forskrift 14. juni 2002](forskrift/2002-06-14-625) om grunnlinjene for sjøterritoriet rundt Fastlands-Norge og [forskrift 1. juni 2001 nr. 556](forskrift/2001-06-01-556) om grunnlinjene ved Svalbard
+5. *IBC-koden:* den internasjonale kjemikaliekoden for bygging og utrustning av skip som frakter skadelige kjemikalier i bulk (International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk), med senere endringer
+6. *IGC-koden:* den internasjonale koden for bygging og utrustning av skip som frakter flytende gasser i bulk (International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk), med senere endringer
+7. *IMDG-koden:* den internasjonale koden for transport av farlig last til sjøs (International Maritime Dangerous Goods Code), med senere endringer
+8. *INF-koden:* den internasjonale koden for sikker transport av bestrålt nukleært brensel, plutonium og sterkt radioaktivt avfall i beholdere (International Code for the Safe Carriage of Packaged Irradiated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes on Board Ships), med senere endringer
+9. *losbordingsfelt:* felt for bording og kvitting av los som er angitt i sjøkart med symbol for losbording
+10. *[MARPOL](forskrift/2012-05-30-488):* den internasjonale konvensjon om hindring av forurensning fra skip, 1973, slik den er endret ved tilleggsprotokollen av 1978 (International Convention for the Prevention of Pollution From Ships, 1973 as modified by the Protocol of 1978), med senere endringer
+11. *nattseilas:* seilas i nautisk tussmørke eller mørkere, det vil si at solsenteret er lavere enn 6° under horisonten
+12. *passasjerfartøy:* fartøy som kan føre mer enn 12 passasjerer.
 
 ## Kapittel 2. Losplikt
 
 ### § 3. Lospliktige fartøy
 
-(1) Følgende fartøy er lospliktige når de er underveis i farvann som er definert som lospliktige i [§ 4](forskrift/2014-12-17-1808/§4)fartøy som har en lengde på 70 meter eller mer eller en bredde på 20 meter eller merfartøy som skyver eller sleper en eller flere gjenstander, der gjenstanden eller gjenstandene har en total lengde på 50 meter eller merfartøy med dobbelt skrog som har en lengde på 50 meter eller mer og som frakter farlig eller forurensende last i bulk som er nevnt i MARPOL vedlegg I, eller laster i forurensningskategori X, Y og Z som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17 og 18. Dette gjelder likevel ikke fartøy som brukes i en støttefunksjon i offshorevirksomhet og fører begrensede mengder av farlig flytende stoff i bulk, som definert i [forskrift 1. juli 2014 nr. 944](forskrift/2014-07-01-944) om farlig last på norske skip, [§ 6](forskrift/2014-07-01-944/§6).fartøy med enkelt skrog som har en lengde på 35 meter eller mer og som frakter farlig eller forurensende last i bulk som er nevnt i MARPOL vedlegg I, eller laster i forurensningskategori X, Y og Z som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17 og 18fartøy som har lengde på 50 meter eller mer og som frakter kondenserte gasser i bulk, jf. IGC-koden kapittel 19fartøy som har en lengde på 50 meter eller mer og som frakter 10 metriske tonn eller mer med farlig eller forurensende last i pakket form som tilhører fareklasse 1, regulert i MARPOL vedlegg III, jf. IMDG-kodenfartøy som frakter stoffer som er regulert i INF-kodenatomdrevne fartøypassasjerfartøy som har en lengde på 50 meter eller mer og som frakter passasjerer.
+(1) Følgende fartøy er lospliktige når de er underveis i farvann som er definert som lospliktige i [§ 4](forskrift/2014-12-17-1808/§4)
 
-(2) Bestemmelsen i første ledd gjelder ikke forfartøy som nevnt i første ledd bokstav i når fartøyet har tillatelse til persontransport i rute etter yrkestransportlova, unntatt fartøy i kystruten Bergen–Kirkenes. Unntaket gjelder når fartøyet trafikkerer den ruta som løyvet gjelder for og i trafikk mellom hovedsambandet og faste liggekaier eller bunkerskaierfartøy som nevnt i første ledd bokstav i og som er omfattet av forskrift [5. januar 1998 nr. 6](forskrift/1998-01-05-6) om bygging, utrustning og drift av hurtiggående fartøy som anvendes som passasjerskip eller lasteskip [kapittel 7](forskrift/1998-01-05-6/kap7), og som har en lengde mindre enn 70 meterfartøy som sleper fiskemerder mellom lokaliteter for akvakultur, nårde slepte gjenstandenes totale lengde ikke overstiger 130 meter,slepets totale lengde er mindre enn minste farledsbredde i det farvannet slepet skal gjennomføres,fartøyet har fungerende automatisk identifikasjonssystem (AIS) og fastmontert VHF for kommunikasjon med Kystverkets trafikksentraler og andre fartøy, ogfartøyet informerer Kystverkets losformidling om seilasen senest 1 time før oppdraget starter. Dette gjelder ikke dersom seilasen skjer i tjenesteområdet til en av Kystverkets sjøtrafikksentraler.fartøy som sleper oljevernlenser, nårde slepte lensenes totale lengde ikke overstiger 505 meterfartøyet har fungerende automatisk identifikasjonssystem (AIS) og fastmontert VHF for kommunikasjon med Kystverkets trafikksentraler og andre fartøy, ogfartøyet informerer Kystverkets losformidling om seilasen senest 1 time før oppdraget starter. Dette gjelder ikke dersom seilasen skjer i tjenesteområdet til en av Kystverkets sjøtrafikksentraler.
+1. fartøy som har en lengde på 70 meter eller mer eller en bredde på 20 meter eller mer
+2. fartøy som skyver eller sleper en eller flere gjenstander, der gjenstanden eller gjenstandene har en total lengde på 50 meter eller mer
+3. fartøy med dobbelt skrog som har en lengde på 50 meter eller mer og som frakter farlig eller forurensende last i bulk som er nevnt i MARPOL vedlegg I, eller laster i forurensningskategori X, Y og Z som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17 og 18. Dette gjelder likevel ikke fartøy som brukes i en støttefunksjon i offshorevirksomhet og fører begrensede mengder av farlig flytende stoff i bulk, som definert i [forskrift 1. juli 2014 nr. 944](forskrift/2014-07-01-944) om farlig last på norske skip, [§ 6](forskrift/2014-07-01-944/§6).
+4. fartøy med enkelt skrog som har en lengde på 35 meter eller mer og som frakter farlig eller forurensende last i bulk som er nevnt i MARPOL vedlegg I, eller laster i forurensningskategori X, Y og Z som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17 og 18
+5. fartøy som har lengde på 50 meter eller mer og som frakter kondenserte gasser i bulk, jf. IGC-koden kapittel 19
+6. fartøy som har en lengde på 50 meter eller mer og som frakter 10 metriske tonn eller mer med farlig eller forurensende last i pakket form som tilhører fareklasse 1, regulert i MARPOL vedlegg III, jf. IMDG-koden
+7. fartøy som frakter stoffer som er regulert i INF-koden
+8. atomdrevne fartøy
+9. passasjerfartøy som har en lengde på 50 meter eller mer og som frakter passasjerer.
+
+(2) Bestemmelsen i første ledd gjelder ikke for
+
+1. fartøy som nevnt i første ledd bokstav i når fartøyet har tillatelse til persontransport i rute etter yrkestransportlova, unntatt fartøy i kystruten Bergen–Kirkenes. Unntaket gjelder når fartøyet trafikkerer den ruta som løyvet gjelder for og i trafikk mellom hovedsambandet og faste liggekaier eller bunkerskaier
+2. fartøy som nevnt i første ledd bokstav i og som er omfattet av forskrift [5. januar 1998 nr. 6](forskrift/1998-01-05-6) om bygging, utrustning og drift av hurtiggående fartøy som anvendes som passasjerskip eller lasteskip [kapittel 7](forskrift/1998-01-05-6/kap7), og som har en lengde mindre enn 70 meter
+3. fartøy som sleper fiskemerder mellom lokaliteter for akvakultur, når
+
+   1. de slepte gjenstandenes totale lengde ikke overstiger 130 meter,
+   2. slepets totale lengde er mindre enn minste farledsbredde i det farvannet slepet skal gjennomføres,
+   3. fartøyet har fungerende automatisk identifikasjonssystem (AIS) og fastmontert VHF for kommunikasjon med Kystverkets trafikksentraler og andre fartøy, og
+   4. fartøyet informerer Kystverkets losformidling om seilasen senest 1 time før oppdraget starter. Dette gjelder ikke dersom seilasen skjer i tjenesteområdet til en av Kystverkets sjøtrafikksentraler.
+4. fartøy som sleper oljevernlenser, når
+
+   1. de slepte lensenes totale lengde ikke overstiger 505 meter
+   2. fartøyet har fungerende automatisk identifikasjonssystem (AIS) og fastmontert VHF for kommunikasjon med Kystverkets trafikksentraler og andre fartøy, og
+   3. fartøyet informerer Kystverkets losformidling om seilasen senest 1 time før oppdraget starter. Dette gjelder ikke dersom seilasen skjer i tjenesteområdet til en av Kystverkets sjøtrafikksentraler.
 
 > Endret ved forskrifter [30 juni 2020 nr. 1435](forskrift/2020-06-30-1435) (i kraft 1 juli 2020), [30 aug 2020 nr. 1696](forskrift/2020-08-30-1696), [30 juni 2020 nr. 1435](forskrift/2020-06-30-1435) (i kraft 1 jan 2021 kl. 00.00).
 
@@ -56,7 +93,15 @@ I denne forskriften forstås med*farledsbevisassessor:* dekksoffiser med kvalifi
 
 ### § 4a. Losbestilling
 
-Losbestilling skal gjøres i SafeSeaNet og skal inneholde følgende opplysninger:fartøyets navn, kallesignal, IMO-nummer og nasjonalitetfartøyets lengde, bredde, dypgående og bruttotonnasjelastens artbestemmelseshavnsted for start losing (losbordingsfelt/havn/kai/ankersted)sted for slutt losing (losbordingsfelt/havn/kai/ankersted)antatt starttidspunkt for losing.
+Losbestilling skal gjøres i SafeSeaNet og skal inneholde følgende opplysninger:
+
+1. fartøyets navn, kallesignal, IMO-nummer og nasjonalitet
+2. fartøyets lengde, bredde, dypgående og bruttotonnasje
+3. lastens art
+4. bestemmelseshavn
+5. sted for start losing (losbordingsfelt/havn/kai/ankersted)
+6. sted for slutt losing (losbordingsfelt/havn/kai/ankersted)
+7. antatt starttidspunkt for losing.
 
 > Tilføyd ved [forskrift 21 des 2017 nr. 2382](forskrift/2017-12-21-2382) (i kraft 1 april 2018 kl. 00.00 og får anvendelse for fartøyer som passerer grensen for lospliktig farvann, eller nytter statslos etter dette tidspunktet).
 
@@ -92,7 +137,10 @@ Losbestilling skal gjøres i SafeSeaNet og skal inneholde følgende opplysninger
 
 ### § 6. Unntak fra losplikt ved forflytninger i havn
 
-(1) Følgende fartøy er unntatt fra losplikt ved korte og sikkerhetsmessig forsvarlige forflytninger i havnfartøy kortere enn 100 meter lengde og mindre enn 30 meter breddefartøy kortere enn 125 meter lengde og mindre enn 35 meter bredde som er utstyrt med baugpropell og som ikke har omkastbar maskin.
+(1) Følgende fartøy er unntatt fra losplikt ved korte og sikkerhetsmessig forsvarlige forflytninger i havn
+
+1. fartøy kortere enn 100 meter lengde og mindre enn 30 meter bredde
+2. fartøy kortere enn 125 meter lengde og mindre enn 35 meter bredde som er utstyrt med baugpropell og som ikke har omkastbar maskin.
 
 (2) Skipsfører skal fra kommandobroen kunne se og bedømme forholdene på kaien, ankringsstedet eller DP venteposisjonen som fartøyet skal forflyttes til og det skal ikke være kryssende trafikk under forflytningen. Ved forflytninger inntil en halv nautisk mil gjelder ikke kravet om å kunne se, dersom forholdene på stedet fartøyet skal forflyttes til likevel kan bedømmes på en tilfredsstillende måte.
 
@@ -136,7 +184,10 @@ Kystverket kan, etter søknad fra skipsføreren, gi dispensasjon fra losplikt fo
 
 (2) Farledsbevis klasse 3 kan ikke benyttes dersom fartøyet har tungolje om bord eller ved frakt av farlig eller forurensende last som angitt i [§ 3](forskrift/2014-12-17-1808/§3) første ledd bokstav c til g. [§ 17](forskrift/2014-12-17-1808/§17) tredje ledd gjelder tilsvarende. Dette gjelder likevel ikke fartøy som brukes i en støttefunksjon i offshorevirksomhet og fører begrensede mengder av farlig flytende stoff i bulk, som definert i [forskrift 1. juli 2014 nr. 944](forskrift/2014-07-01-944) om farlig last på norske skip, [§ 6](forskrift/2014-07-01-944/§6).
 
-(3) Rederi som ønsker å benytte farledsbevis klasse 3 må sende søknad til Kystverket. Søknaden skal være vedlagt dokumentasjon på at følgende krav er oppfyltat rederiet har et system for opplæring av farledsbeviskandidater som sikrer at kandidatene opparbeider seg den kompetansen som kreves etter [§ 13](forskrift/2014-12-17-1808/§13) fjerde ledd, ogat farledsbeviskandidaten blir evaluert av en farledsbevisassessor på prøvestrekninger fastsatt i tråd med [§ 13](forskrift/2014-12-17-1808/§13) første og andre ledd. Dersom kandidaten ikke består prøven, gjelder [§ 13](forskrift/2014-12-17-1808/§13) femte ledd tilsvarende.
+(3) Rederi som ønsker å benytte farledsbevis klasse 3 må sende søknad til Kystverket. Søknaden skal være vedlagt dokumentasjon på at følgende krav er oppfylt
+
+1. at rederiet har et system for opplæring av farledsbeviskandidater som sikrer at kandidatene opparbeider seg den kompetansen som kreves etter [§ 13](forskrift/2014-12-17-1808/§13) fjerde ledd, og
+2. at farledsbeviskandidaten blir evaluert av en farledsbevisassessor på prøvestrekninger fastsatt i tråd med [§ 13](forskrift/2014-12-17-1808/§13) første og andre ledd. Dersom kandidaten ikke består prøven, gjelder [§ 13](forskrift/2014-12-17-1808/§13) femte ledd tilsvarende.
 
 (4) Den som søker om farledsbevis klasse 3 må inneha dekksoffisersertifikat som er gyldig for det eller de fartøy det søkes farledsbevis for og oppfylle kravene i [§ 11](forskrift/2014-12-17-1808/§11) andre ledd. [§ 11](forskrift/2014-12-17-1808/§11) tredje ledd gjelder tilsvarende.
 
@@ -148,7 +199,12 @@ Kystverket kan, etter søknad fra skipsføreren, gi dispensasjon fra losplikt fo
 
 (1) Den som søker om farledsbevis klasse 2 må inneha dekksoffiserssertifikat som er gyldig for det eller de fartøy det søkes farledsbevis for.
 
-(2) I tillegg til kravet i første ledd må søkerenha minst ett års effektiv fartstid på norskekysten som ansvarshavende vaktoffiser på bro, inkludert fartstid fra farledene eller områdene det søkes farledsbevis for i løpet av de siste fem årene, ellerha gjennomgått ordningen med kadettfarledsbevis for de farledene eller områdene det søkes farledsbevis for i løpet av de siste fem årene, jf. [§ 20](forskrift/2014-12-17-1808/§20) – § 22, elleri løpet av de 12 siste månedene ha forestått navigeringen ved til sammen minst fem seilaser hver vei i de farledene det søkes farledsbevis for, hvorav minst to er nattseilaser.Kystverket kan tillate at noen av seilasene som kreves etter bokstav a og c gjennomføres i simulator.
+(2) I tillegg til kravet i første ledd må søkeren
+
+1. ha minst ett års effektiv fartstid på norskekysten som ansvarshavende vaktoffiser på bro, inkludert fartstid fra farledene eller områdene det søkes farledsbevis for i løpet av de siste fem årene, eller
+2. ha gjennomgått ordningen med kadettfarledsbevis for de farledene eller områdene det søkes farledsbevis for i løpet av de siste fem årene, jf. [§ 20](forskrift/2014-12-17-1808/§20) – § 22, eller
+3. i løpet av de 12 siste månedene ha forestått navigeringen ved til sammen minst fem seilaser hver vei i de farledene det søkes farledsbevis for, hvorav minst to er nattseilaser.
+4. Kystverket kan tillate at noen av seilasene som kreves etter bokstav a og c gjennomføres i simulator.
 
 (3) Søknaden registreres i SafeSeaNet. Søknaden skal inneholde søkers navn, fødselsdato, nasjonalitet, telefonnummer, e-postadresse, identifikasjon av fartøyet det søkes farledsbevis for, attestert dokumentasjon på at erfaringskravet i annet ledd er oppfylt, attestert kopi av gyldig dekksoffisersertifikat og attestert kopi av sjøfartsbok eller fartsoppgave utstedt av flaggstat.
 
@@ -160,7 +216,10 @@ Kystverket kan, etter søknad fra skipsføreren, gi dispensasjon fra losplikt fo
 
 (2) Dekksoffiser på fartøy med lengde på 150 meter eller mer som har tillatelse etter [§ 9](forskrift/2014-12-17-1808/§9) fjerde ledd kan søke om farledsbevis etter denne bestemmelsen.
 
-(3) I tillegg til å oppfylle kravet i [§ 11](forskrift/2014-12-17-1808/§11) første ledd må søkeren haminst tre års effektiv fartstid på norskekysten som ansvarshavende vaktoffiser på bro, inkludert minst 3 seilaser hver vei, hvorav minst 1 er nattseilas, i de farledene det søkes farledsbevis for i løpet av de siste fem årene, elleri løpet av de 24 siste månedene har forestått navigeringen ved til sammen minst 10 seilaser hver vei i de farledene det søkes farledsbevis for, hvorav minst to er nattseilaser.
+(3) I tillegg til å oppfylle kravet i [§ 11](forskrift/2014-12-17-1808/§11) første ledd må søkeren ha
+
+1. minst tre års effektiv fartstid på norskekysten som ansvarshavende vaktoffiser på bro, inkludert minst 3 seilaser hver vei, hvorav minst 1 er nattseilas, i de farledene det søkes farledsbevis for i løpet av de siste fem årene, eller
+2. i løpet av de 24 siste månedene har forestått navigeringen ved til sammen minst 10 seilaser hver vei i de farledene det søkes farledsbevis for, hvorav minst to er nattseilaser.
 
 (4) Søknaden registreres i SafeSeaNet. Søknaden skal inneholde søkers navn, fødselsdato, nasjonalitet, telefonnummer, e-postadresse, identifikasjon av fartøyet det søkes farledsbevis for, attestert dokumentasjon på at erfaringskravet i tredje ledd er oppfylt, attestert kopi av gyldig dekksoffisersertifikat og attestert kopi av sjøfartsbok eller fartsoppgave utstedt av flaggstat.
 
@@ -176,7 +235,20 @@ Kystverket kan, etter søknad fra skipsføreren, gi dispensasjon fra losplikt fo
 
 (3) Kystverket bestemmer hvordan prøven skal gjennomføres. Prøven består av en teoretisk og en praktisk del.
 
-(4) Ved farledsbevisprøven skal søkeren vise tilstrekkelig kunnskap om og ferdigheter ikystnavigasjonsmetodikk, herunder kunnskap om farvannets beskaffenhet, oppmerking og fyrbelysning, trafikkforholdene, innseiling til havner og ankerplassene i de aktuelle områdenestrømforhold og andre forhold av betydning for sikker navigering og manøvrering, herunder områder der det må påregnes gruntvannseffektdet eller de fartøy det søkes farledsbevis for, utrustning, manøvreringsegenskaper, lastekapasitet og om hvilke lastetyper fartøyet er sertifisert for å førekystruteplanlegging og kartforståelserelevant regelverk, herunder regler om farledsbevis, lokale seilingsregler og krav til rapporteringforhold av betydning for sikkerhet og miljø i de aktuelle områdene, herunder lokale beredskapsordninger ved ulykkeengelsk språk som er tilstrekkelig for problemfri kommunikasjonmanøvrering av den aktuelle fartøystypenoptisk navigering, herunder riktig bruk av fyr og merkerradarnavigering og riktig bruk av fartøyets øvrige navigasjonshjelpemidlerkommunikasjon og samhandling på brobruk av taubåt når det er aktuelt.
+(4) Ved farledsbevisprøven skal søkeren vise tilstrekkelig kunnskap om og ferdigheter i
+
+1. kystnavigasjonsmetodikk, herunder kunnskap om farvannets beskaffenhet, oppmerking og fyrbelysning, trafikkforholdene, innseiling til havner og ankerplassene i de aktuelle områdene
+2. strømforhold og andre forhold av betydning for sikker navigering og manøvrering, herunder områder der det må påregnes gruntvannseffekt
+3. det eller de fartøy det søkes farledsbevis for, utrustning, manøvreringsegenskaper, lastekapasitet og om hvilke lastetyper fartøyet er sertifisert for å føre
+4. kystruteplanlegging og kartforståelse
+5. relevant regelverk, herunder regler om farledsbevis, lokale seilingsregler og krav til rapportering
+6. forhold av betydning for sikkerhet og miljø i de aktuelle områdene, herunder lokale beredskapsordninger ved ulykke
+7. engelsk språk som er tilstrekkelig for problemfri kommunikasjon
+8. manøvrering av den aktuelle fartøystypen
+9. optisk navigering, herunder riktig bruk av fyr og merker
+10. radarnavigering og riktig bruk av fartøyets øvrige navigasjonshjelpemidler
+11. kommunikasjon og samhandling på bro
+12. bruk av taubåt når det er aktuelt.
 
 (5) Dersom prøven ikke bestås, kan ny prøve ikke avlegges før det har gått to uker. Dersom kandidaten ikke demonstrerer tilstrekkelige praktiske ferdigheter, kan ny prøve ikke avlegges før søkeren i tillegg har gjennomført to nye seilaser i området eller farleden.
 
@@ -186,9 +258,17 @@ Kystverket kan, etter søknad fra skipsføreren, gi dispensasjon fra losplikt fo
 
 (1) Kystverket utsteder kvalifikasjonsbevis som farledsbevisassessor for evaluering av kandidater til farledsbevis klasse 3.
 
-(2) Kvalifikasjonsbevis som farledsbevisassessor kan utstedes til dekksoffiserermed minst tre års effektiv fartstid på norskekysten som ansvarshavende vaktoffiser på brosom har bestått en representativ farledsbevisprøve etter [§ 13](forskrift/2014-12-17-1808/§13) eller en farledsbevisprøve for farledsbevis klasse 1som har god kjennskap til reglene om farledsbevis, ogsom har gjennomført kurs fastsatt av Kystverket.
+(2) Kvalifikasjonsbevis som farledsbevisassessor kan utstedes til dekksoffiserer
 
-(3) Kvalifikasjonsbeviset er begrenset tildet området eller de farledene farledsbevisassessoren selv har gyldig farledsbevis klasse 1 eller 2 for, ogfartøy av liknende type og størrelse som farledsbevisassessorens farledsbevis gjelder for.
+1. med minst tre års effektiv fartstid på norskekysten som ansvarshavende vaktoffiser på bro
+2. som har bestått en representativ farledsbevisprøve etter [§ 13](forskrift/2014-12-17-1808/§13) eller en farledsbevisprøve for farledsbevis klasse 1
+3. som har god kjennskap til reglene om farledsbevis, og
+4. som har gjennomført kurs fastsatt av Kystverket.
+
+(3) Kvalifikasjonsbeviset er begrenset til
+
+1. det området eller de farledene farledsbevisassessoren selv har gyldig farledsbevis klasse 1 eller 2 for, og
+2. fartøy av liknende type og størrelse som farledsbevisassessorens farledsbevis gjelder for.
 
 (4) Farledsbevisassessoren skal evaluere om kandidater til farledsbevis klasse 3 oppfyller kravene i [§ 13](forskrift/2014-12-17-1808/§13) fjerde ledd for de områdene eller farledene det skal utstedes farledsbevis for.
 
@@ -212,9 +292,15 @@ Kystverket kan, etter søknad fra skipsføreren, gi dispensasjon fra losplikt fo
 
 (1) Med mindre annet er angitt i farledsbeviset gjelder farledsbeviset kun i de ledene som er fastsatt i medhold av [forskrift 30. november 2009 nr. 1477](forskrift/2009-11-30-1477) om farleder. Begrensningen gjelder ikke fartøy hvor det vil medføre urimelig ruteomlegging eller fartøy som på grunn av sitt oppdrag eller sin aktivitet ikke kan følge ledene, slik som slepefartøy, arbeidsfartøy i oppdrettsnæringen, brønnbåter, fôrbåter og fiskefartøy.
 
-(2) Farledsbevis kan ikke benyttes av fartøy somskyver eller sleper en eller flere gjenstander, dersom gjenstanden eller gjenstandene har en total lengde på 100 m eller mer, en bredde på 32 meter eller mer, en høyde på 10 meter eller mer eller en dypgang på 8 meter eller mer, ellerskyver eller sleper en eller flere gjenstander i en av de lokale farledene som står i vedlegg 3 til forskriften, dersom gjenstanden eller gjenstandene har en total lengde på 75 meter eller mer, en bredde på 30 meter eller mer, en høyde på 10 meter eller mer eller en dypgang på 8 meter eller mer.
+(2) Farledsbevis kan ikke benyttes av fartøy som
 
-(3) Tross begrensningene i andre ledd kan fartøy med fartssertifikat som godkjent slepefartøy eller som har slepetillatelse likevel bruke farledsbeviset når de sleperflytende rør der totallengden på slepet ikke overstiger 505 meter og bredden på slepet ikke overstiger 12 meter og maksimal dypgang på slepet ikke overstiger 0,5 meter, ellerfiskemerder, der fiskemerdens eller fiskemerdenes totale lengde ikke overstiger 300 meter og maksimal dypgang ikke overstiger 0,7 meter.
+1. skyver eller sleper en eller flere gjenstander, dersom gjenstanden eller gjenstandene har en total lengde på 100 m eller mer, en bredde på 32 meter eller mer, en høyde på 10 meter eller mer eller en dypgang på 8 meter eller mer, eller
+2. skyver eller sleper en eller flere gjenstander i en av de lokale farledene som står i vedlegg 3 til forskriften, dersom gjenstanden eller gjenstandene har en total lengde på 75 meter eller mer, en bredde på 30 meter eller mer, en høyde på 10 meter eller mer eller en dypgang på 8 meter eller mer.
+
+(3) Tross begrensningene i andre ledd kan fartøy med fartssertifikat som godkjent slepefartøy eller som har slepetillatelse likevel bruke farledsbeviset når de sleper
+
+1. flytende rør der totallengden på slepet ikke overstiger 505 meter og bredden på slepet ikke overstiger 12 meter og maksimal dypgang på slepet ikke overstiger 0,5 meter, eller
+2. fiskemerder, der fiskemerdens eller fiskemerdenes totale lengde ikke overstiger 300 meter og maksimal dypgang ikke overstiger 0,7 meter.
 
 (4) Farledsbevis kan ikke benyttes når det er krav om bruk av eskortefartøy.
 
@@ -226,7 +312,20 @@ Kystverket kan, etter søknad fra skipsføreren, gi dispensasjon fra losplikt fo
 
 ### § 17. Begrensninger i bruk av farledsbevis ved frakt av farlig og forurensende last
 
-(1) Farledsbevis kan ikke benyttes ved frakt av stoffer som er regulert i INF-koden eller ved frakt av følgende flytende laster i bulkkondenserte gasser, jf. IGC-koden, kapittel 19, unntatt fartøy opp til 110 meter somer av IGC skipstype 3G, 2PG eller 2G,er utstyrt med godkjent ECDIS, oghar redundant fremdriftstoffer i forurensningskategori X som er regulert i MARPOL vedlegg II, jf. IBC-koden, kapittel 17stoffer i forurensningskategori Y som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17, alle stoffer som er regulert i MARPOL vedlegg I og stoffer som har et lavere flammepunkt enn 60 °C, når fartøyet har enkelt skrog og en lengde på 70 meter eller merstoffer i forurensningskategori Y som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17, alle stoffer som er regulert i MARPOL vedlegg I og stoffer som har et lavere flammepunkt enn 60 °C, når fartøyet har dobbelt skrog og en lengde på 90 meter eller mer, unntatt fartøy opp til 110 meter somer utstyrt med godkjent ECDIS,har beskyttelse av bunkerstankene med dobbelhud hvis fartøyet bruker tungolje til fremdrift (gjelder ikke vegetabilsk olje og fiskeolje), oghar redundant framdrift (gjelder ikke vegetabilsk olje og fiskeolje).
+(1) Farledsbevis kan ikke benyttes ved frakt av stoffer som er regulert i INF-koden eller ved frakt av følgende flytende laster i bulk
+
+1. kondenserte gasser, jf. IGC-koden, kapittel 19, unntatt fartøy opp til 110 meter som
+
+   1. er av IGC skipstype 3G, 2PG eller 2G,
+   2. er utstyrt med godkjent ECDIS, og
+   3. har redundant fremdrift
+2. stoffer i forurensningskategori X som er regulert i MARPOL vedlegg II, jf. IBC-koden, kapittel 17
+3. stoffer i forurensningskategori Y som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17, alle stoffer som er regulert i MARPOL vedlegg I og stoffer som har et lavere flammepunkt enn 60 °C, når fartøyet har enkelt skrog og en lengde på 70 meter eller mer
+4. stoffer i forurensningskategori Y som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17, alle stoffer som er regulert i MARPOL vedlegg I og stoffer som har et lavere flammepunkt enn 60 °C, når fartøyet har dobbelt skrog og en lengde på 90 meter eller mer, unntatt fartøy opp til 110 meter som
+
+   1. er utstyrt med godkjent ECDIS,
+   2. har beskyttelse av bunkerstankene med dobbelhud hvis fartøyet bruker tungolje til fremdrift (gjelder ikke vegetabilsk olje og fiskeolje), og
+   3. har redundant framdrift (gjelder ikke vegetabilsk olje og fiskeolje).
 
 (2) Begrensningene i første ledd gjelder likevel ikke for fartøy som brukes i en støttefunksjon i offshorevirksomhet og fører begrensede mengder av farlig flytende stoff i bulk, som definert i [forskrift 1. juli 2014 nr. 944](forskrift/2014-07-01-944) om farlig last på norske skip, [§ 6](forskrift/2014-07-01-944/§6).
 
@@ -256,7 +355,10 @@ Kystverket kan etter søknad endre farledsbeviset til å gjelde et eller flere a
 
 (1) Den som ikke er kvalifisert til å få farledsbevis, kan søke om kadettfarledsbevis. Kystverket utsteder kadettfarledsbeviset.
 
-(2) Den som søker om kadettfarledsbevis måi løpet av de siste 5 år ha gjennomført et kurs i kystseilas som er godkjent av Kystverket, ogkunne legge fram en skriftlig avtale mellom fartøyets rederi, skipsfører og søkeren om systematisk opplæring i kystseilas.
+(2) Den som søker om kadettfarledsbevis må
+
+1. i løpet av de siste 5 år ha gjennomført et kurs i kystseilas som er godkjent av Kystverket, og
+2. kunne legge fram en skriftlig avtale mellom fartøyets rederi, skipsfører og søkeren om systematisk opplæring i kystseilas.
 
 (3) Kystverket kan fastsette vilkår for gjennomføringen av den systematiske opplæringen.
 
@@ -290,7 +392,10 @@ Kadettfarledsbeviset gjelder i tre år og kan ikke fornyes. Dersom innehaver av 
 
 (1) Kystverket er tilsynsmyndighet etter [lov 21. juni 2019 nr. 70](lov/2019-06-21-70) om havner og farvann og kan treffe vedtak etter lovens [§ 37](lov/2019-06-21-70/§37) første ledd, [§ 38](lov/2019-06-21-70/§38) andre ledd, [§ 42](lov/2019-06-21-70/§42), [§ 47](lov/2019-06-21-70/§47) og [§ 50](lov/2019-06-21-70/§50) når slikt vedtak gjelder tilsyn og kontroll med [lovens § 21](lov/2019-06-21-70/§21) til [§ 24](lov/2019-06-21-70/§24).
 
-(2) Kystverket kan suspendere og inndra farledsbevis, kadettfarledsbevis, kvalifikasjonsbevis som farledsbevisassessor og godkjenning av rederi etter [§ 9](forskrift/2014-12-17-1808/§9) fjerde ledd dersominnehaveren ikke gir opplysninger eller dokumentasjon som er nødvendig for å kontrollere at han eller hun fyller vilkårene for å ha beviset, ellervesentlige forhold som lå til grunn for utstedelsen av beviset er endret.
+(2) Kystverket kan suspendere og inndra farledsbevis, kadettfarledsbevis, kvalifikasjonsbevis som farledsbevisassessor og godkjenning av rederi etter [§ 9](forskrift/2014-12-17-1808/§9) fjerde ledd dersom
+
+1. innehaveren ikke gir opplysninger eller dokumentasjon som er nødvendig for å kontrollere at han eller hun fyller vilkårene for å ha beviset, eller
+2. vesentlige forhold som lå til grunn for utstedelsen av beviset er endret.
 
 > Endret ved [forskrift 30 juni 2020 nr. 1435](forskrift/2020-06-30-1435) (i kraft 1 juli 2020).
 
@@ -308,7 +413,13 @@ Overtredelse av [§ 3](forskrift/2014-12-17-1808/§3), [§ 4](forskrift/2014-12-
 
 (1) Forskriften gjelder fra 1. januar 2015 kl. 00.00 og gjelder for fartøy som påbegynner seilas i lospliktig område etter dette tidspunkt.
 
-(2) Fra samme tidspunkt oppheves[forskrift 23. desember 1994 nr. 1129](forskrift/1994-12-23-1129) om plikt til å bruke los i norske farvann[forskrift 1. mars 1968 nr. 3127](forskrift/1968-03-01-3127) om statslosenes forpleinings- og underbringelsesforhold[forskrift 13. november 1978 nr. 1](forskrift/1978-11-13-1) om losveiledning under losmangel[forskrift 25. april 1995 nr. 388](forskrift/1995-04-25-388) om innkreving mv. av losavgifter til Kystverket[forskrift 8. desember 1981 nr. 1](forskrift/1981-12-08-1) om ikrafttreden av forskrift om losutdanning m.v.
+(2) Fra samme tidspunkt oppheves
+
+1. [forskrift 23. desember 1994 nr. 1129](forskrift/1994-12-23-1129) om plikt til å bruke los i norske farvann
+2. [forskrift 1. mars 1968 nr. 3127](forskrift/1968-03-01-3127) om statslosenes forpleinings- og underbringelsesforhold
+3. [forskrift 13. november 1978 nr. 1](forskrift/1978-11-13-1) om losveiledning under losmangel
+4. [forskrift 25. april 1995 nr. 388](forskrift/1995-04-25-388) om innkreving mv. av losavgifter til Kystverket
+5. [forskrift 8. desember 1981 nr. 1](forskrift/1981-12-08-1) om ikrafttreden av forskrift om losutdanning m.v.
 
 ### § 28. Overgangsbestemmelse
 

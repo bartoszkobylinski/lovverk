@@ -15,7 +15,7 @@ xml_hash: "275ab3b752dc3c5cf9fe33be47c4bd982b5002529592dee817cf91a6abc6126c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,9 @@ eu_basis: []
 
 ## § 2.
 
-Forordning [(EU) 2018/763](eu/32018r0763) skal leses med følgende tilpasninger:I artikkel 5 (1) legges ordene «islandsk eller norsk» til etter «unionens offisielle språk».
+Forordning [(EU) 2018/763](eu/32018r0763) skal leses med følgende tilpasninger:
+
+- I artikkel 5 (1) legges ordene «islandsk eller norsk» til etter «unionens offisielle språk».
 
 ## § 3.
 

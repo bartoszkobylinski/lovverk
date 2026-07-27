@@ -15,7 +15,7 @@ xml_hash: "ebd38d645303326d25935a64ec7287c5c5eead19f682d8e748588ffc394ac1dd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,11 +32,19 @@ Barne- og familiedepartementet avgjør i tvilstilfelle om et produkt skal omfatt
 
 ## § 2. Definisjoner
 
-I denne forskriften forstås med:*forbruker:* fysiske personer som ikke hovedsakelig handler som ledd i næringsvirksomhet.*merking:* enhver vevet, trykt eller på annen måte fremstilt opplysning som følger varen.*tekstilprodukter:* alle råvarer, halvfabrikata eller ferdigvarer som utelukkende inneholder tekstilfibre. Som tekstilprodukt regnes også produkt med vektandel tekstilfibre på minst 80 pst.*plagg:* produkter som er egnet til å bæres som bekledningsgjenstander.
+I denne forskriften forstås med:
+
+1. *forbruker:* fysiske personer som ikke hovedsakelig handler som ledd i næringsvirksomhet.
+2. *merking:* enhver vevet, trykt eller på annen måte fremstilt opplysning som følger varen.
+3. *tekstilprodukter:* alle råvarer, halvfabrikata eller ferdigvarer som utelukkende inneholder tekstilfibre. Som tekstilprodukt regnes også produkt med vektandel tekstilfibre på minst 80 pst.
+4. *plagg:* produkter som er egnet til å bæres som bekledningsgjenstander.
 
 ## § 3. Vedlikeholdsmerking
 
-Med vedlikeholdsmerking menes følgende:Opplysning om hvordan en normalt tilsmusset vare bør rengjøres, blekes, tørkes, strykes, presses, rulles for å bli ren og samtidig beholde sine egenskaper, slik at varen kan brukes til sitt opprinnelige formål. Det skal angis om produktet må vaskes separat for å unngå fargesmitting til andre produkter.Opplysning om at produktet ikke tåler behandling som normalt ville antas å være et ledd i fornuftig vedlikehold, men som i vesentlig grad ville forminske den normale nytte og tilfredsstillelse av produktet.
+Med vedlikeholdsmerking menes følgende:
+
+1. Opplysning om hvordan en normalt tilsmusset vare bør rengjøres, blekes, tørkes, strykes, presses, rulles for å bli ren og samtidig beholde sine egenskaper, slik at varen kan brukes til sitt opprinnelige formål. Det skal angis om produktet må vaskes separat for å unngå fargesmitting til andre produkter.
+2. Opplysning om at produktet ikke tåler behandling som normalt ville antas å være et ledd i fornuftig vedlikehold, men som i vesentlig grad ville forminske den normale nytte og tilfredsstillelse av produktet.
 
 ## § 4. Merkeplikt og opplysningsplikt
 

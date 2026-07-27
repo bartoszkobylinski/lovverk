@@ -38,7 +38,11 @@ Kommunen kan sette vilkår om hvor lenge tilskuddsmottaker må bo i boligen. Len
 
 ## § 4. Hva det kan gis tilskudd til
 
-Kommunen kan gi tilskudd tilkjøp av helårsboligutbedring eller tilpasning av helårsboligoppføring av ny helårsbolig.
+Kommunen kan gi tilskudd til
+
+1. kjøp av helårsbolig
+2. utbedring eller tilpasning av helårsbolig
+3. oppføring av ny helårsbolig.
 
 Kommunen skal prioritere prosjekter som øker tilbudet av egnede boliger i distriktet. Tilskuddet kan ikke gis til utleieboliger.
 
@@ -68,7 +72,10 @@ Kommunen rapporterer årlig på bruken av tilskuddet til Husbanken.
 
 ## § 9. Kontroll med vilkår – rett til opplysninger
 
-Husbanken og kommunene kan kontrollere at betingelsene for tilskuddet og vilkårene i forskriften og tilskuddsvedtaket er oppfylt gjennom åkreve opplysninger og dokumentasjon som er nødvendig for kontrollenbesiktige tiltaket.
+Husbanken og kommunene kan kontrollere at betingelsene for tilskuddet og vilkårene i forskriften og tilskuddsvedtaket er oppfylt gjennom å
+
+1. kreve opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. besiktige tiltaket.
 
 Tilskuddsmottakeren skal medvirke til besiktigelse av tiltaket dersom det er nødvendig for kontrollen.
 

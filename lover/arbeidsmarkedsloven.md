@@ -15,7 +15,7 @@ xml_hash: "d2085b5f0c275dd17e1b1db279f700080d2c31d24a048bb95339678b0a40d998"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -218,7 +218,11 @@ Departementet kan i forskrift fastsette særlige regler for virksomheter som dri
 
 ### § 27. Utleie av arbeidstakere
 
-Virksomheter som leier ut arbeidstakere må oppfylle følgende betingelser:Virksomhet som har leiet ut en arbeidstaker, kan ikke begrense arbeidstakerens mulighet til å ta arbeid hos innleier etter at ansettelsesforholdet hos utleier er avsluttet.Virksomheten kan ikke leie ut en arbeidstaker til en av arbeidstakerens tidligere arbeidsgivere før det har gått seks måneder siden arbeidstakeren sluttet hos denne.Virksomheten kan ikke kreve betaling av arbeidstakeren for utleietjenester.
+Virksomheter som leier ut arbeidstakere må oppfylle følgende betingelser:
+
+1. Virksomhet som har leiet ut en arbeidstaker, kan ikke begrense arbeidstakerens mulighet til å ta arbeid hos innleier etter at ansettelsesforholdet hos utleier er avsluttet.
+2. Virksomheten kan ikke leie ut en arbeidstaker til en av arbeidstakerens tidligere arbeidsgivere før det har gått seks måneder siden arbeidstakeren sluttet hos denne.
+3. Virksomheten kan ikke kreve betaling av arbeidstakeren for utleietjenester.
 
 Departementet kan i forskrift fastsette nærmere regler om melding, rapportering, tilsyn, organisering, drift og godkjenning av utleievirksomheten. Departementet kan i forskrift fastsette vilkår for innleie av arbeidstaker fra utleievirksomhet og for tilsyn med slik innleie. Arbeidstilsynet kan gi de pålegg og treffe de enkeltvedtak ellers som er nødvendige for gjennomføringen av bestemmelser gitt i medhold av første og andre punktum. [Arbeidsmiljøloven kapittel 18](lov/2005-06-17-62/kap18) får tilsvarende anvendelse.
 
@@ -236,7 +240,10 @@ Arbeidsgivere og arbeidstakere som ikke oppfyller rimelige krav som Arbeids- og 
 
 ### § 29. Straff for å gi uriktige opplysninger og for å ikke gi nødvendige opplysninger
 
-Dersom forholdet ikke går inn under strengere straffebud, straffes med bøterden som etter bestemmelse eller pålegg med hjemmel i denne loven plikter å gi opplysninger og meldinger, men som forsettlig eller uaktsomt forsømmer å gjøre dette,den som mot bedre vitende gir uriktige opplysninger eller holder tilbake opplysninger som er viktige for rettigheter eller plikter etter denne loven.
+Dersom forholdet ikke går inn under strengere straffebud, straffes med bøter
+
+1. den som etter bestemmelse eller pålegg med hjemmel i denne loven plikter å gi opplysninger og meldinger, men som forsettlig eller uaktsomt forsømmer å gjøre dette,
+2. den som mot bedre vitende gir uriktige opplysninger eller holder tilbake opplysninger som er viktige for rettigheter eller plikter etter denne loven.
 
 > Endret ved lover [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [17 des 2010 nr. 80](lov/2010-12-17-80), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 

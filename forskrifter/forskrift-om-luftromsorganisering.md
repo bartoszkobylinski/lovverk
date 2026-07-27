@@ -15,7 +15,7 @@ xml_hash: "95c7b8bfd5463cffd093867091b62104a07ec5c62088eb8ecbac90029f2ea1ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,22 @@ Forskriften gjelder organiseringen av det norske luftrommet, herunder Svalbard o
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med*AIP Norge:* en publikasjon som er utgitt av norske myndigheter og som inneholder luftfartsinformasjon av varig karakter som er vesentlig for flynavigasjon*ATM/ANS-forskriften:* [forskrift 16. juni 2022 nr. 1029 om krav til lufttrafikktjenester og ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) m.m.](forskrift/2022-06-16-1029)*ATS-rute:* en nærmere angitt rute etablert med sikte på å kanalisere lufttrafikken i den utstrekning det er nødvendig for å yte lufttrafikktjenester*flygekontrolltjenesten:* lufttrafikktjenesten når den yter flygekontrolltjeneste*flygenivå (flight level):* en flate med konstant lufttrykk som bestemmes med trykkverdien 1 013,2 hektopascal (hPa), og som er atskilt fra andre slike flater gjennom særlige trykkintervaller*flyplass:* landingsplass med krav til konsesjon etter [luftfartsloven § 7-5](lov/1993-06-11-101/§7-5)*flyplassoperatør:* den som innehar konsesjon for landingsplassen, eller den ansvarlige operatøren for landingsplassen etter gjeldende konsesjonsvedtak*IFR:* forkortelsen som brukes som betegnelse for instrumentflygeregler*ikke-kontrollert luftrom:* alt luftrom der det ikke ytes flygekontrolltjenester, forutsatt at dette er i samsvar med luftromsklassifiseringen*kontinentalsokkelen:* havbunnen og undergrunnen i de undersjøiske områder som strekker seg ut over norsk sjøterritorium gjennom hele den naturlige forlengelse av landterritoriet til ytterkanten av kontinentalmarginen, men ikke kortere enn 200 nautiske mil fra grunnlinjene som sjøterritoriets bredde er målt fra, likevel ikke utover midtlinjen i forhold til annen stat med mindre annet følger av folkerettens regler for kontinentalsokkel utenfor 200 nautiske mil fra grunnlinjene eller overenskomst med vedkommende stat*kontrollert luftrom:* luftrom av fastsatt utstrekning der det ytes flygekontrolltjeneste i samsvar med luftromsklassifiseringen*lufttrafikktjenesten:* det foretaket som yter lufttrafikktjeneste i det aktuelle luftrommet*SERA-forskriften:* [forskrift 14. desember 2016 nr. 1578 om lufttrafikkregler og operative prosedyrer](forskrift/2016-12-14-1578)*VFR:* forkortelsen som brukes som betegnelse for visuellflygeregler.
+I denne forskriften menes med
+
+1. *AIP Norge:* en publikasjon som er utgitt av norske myndigheter og som inneholder luftfartsinformasjon av varig karakter som er vesentlig for flynavigasjon
+2. *ATM/ANS-forskriften:* [forskrift 16. juni 2022 nr. 1029 om krav til lufttrafikktjenester og ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) m.m.](forskrift/2022-06-16-1029)
+3. *ATS-rute:* en nærmere angitt rute etablert med sikte på å kanalisere lufttrafikken i den utstrekning det er nødvendig for å yte lufttrafikktjenester
+4. *flygekontrolltjenesten:* lufttrafikktjenesten når den yter flygekontrolltjeneste
+5. *flygenivå (flight level):* en flate med konstant lufttrykk som bestemmes med trykkverdien 1 013,2 hektopascal (hPa), og som er atskilt fra andre slike flater gjennom særlige trykkintervaller
+6. *flyplass:* landingsplass med krav til konsesjon etter [luftfartsloven § 7-5](lov/1993-06-11-101/§7-5)
+7. *flyplassoperatør:* den som innehar konsesjon for landingsplassen, eller den ansvarlige operatøren for landingsplassen etter gjeldende konsesjonsvedtak
+8. *IFR:* forkortelsen som brukes som betegnelse for instrumentflygeregler
+9. *ikke-kontrollert luftrom:* alt luftrom der det ikke ytes flygekontrolltjenester, forutsatt at dette er i samsvar med luftromsklassifiseringen
+10. *kontinentalsokkelen:* havbunnen og undergrunnen i de undersjøiske områder som strekker seg ut over norsk sjøterritorium gjennom hele den naturlige forlengelse av landterritoriet til ytterkanten av kontinentalmarginen, men ikke kortere enn 200 nautiske mil fra grunnlinjene som sjøterritoriets bredde er målt fra, likevel ikke utover midtlinjen i forhold til annen stat med mindre annet følger av folkerettens regler for kontinentalsokkel utenfor 200 nautiske mil fra grunnlinjene eller overenskomst med vedkommende stat
+11. *kontrollert luftrom:* luftrom av fastsatt utstrekning der det ytes flygekontrolltjeneste i samsvar med luftromsklassifiseringen
+12. *lufttrafikktjenesten:* det foretaket som yter lufttrafikktjeneste i det aktuelle luftrommet
+13. *SERA-forskriften:* [forskrift 14. desember 2016 nr. 1578 om lufttrafikkregler og operative prosedyrer](forskrift/2016-12-14-1578)
+14. *VFR:* forkortelsen som brukes som betegnelse for visuellflygeregler.
 
 > Endret ved forskrift [16 juni 2022 nr. 1029](forskrift/2022-06-16-1029) (i kraft 1 sep 2022).
 
@@ -50,15 +65,39 @@ Luftromsorganiseringen og endringene i denne skal publiseres i og fremgå av AIP
 
 Luftfartstilsynet fastsetter en eller flere flygeinformasjonsregioner innenfor forskriftens virkeområde. Høydegrensen for en flygeinformasjonsregion kan fastsettes etter hvor høyt det forventes lufttrafikk.
 
-Innenfor flygeinformasjonsregionene kan Luftfartstilsynet fastsette følgende soner og områder i luftrommet i samsvar med kapittel 3 og 4, basert på hvilke lufttrafikktjenester det er behov for og som skal tilbys:kontrollområde, som er et kontrollert luftrom som strekker seg oppover fra en fastsatt grense over bakken, og som fastsettes somkontrollområde (CTA), som hovedsakelig benyttes til overflygingerterminalområde (TMA), som normalt etableres der ATS-ruter samler seg inn mot en eller flere større flyplasserkontrollsone (CTR), som er et kontrollert luftrom som strekker seg fra bakken opp til en angitt øvre grense, normalt opp til et terminalområde, og som omslutter en flyplasstrafikkinformasjonsområde (TIA), som er et ikke-kontrollert luftrom som normalt etableres der ATS-ruter samler seg inn mot en eller flere flyplasser, og der lufttrafikktjenesten skal tilby flygeinformasjons- og varslingstjenestertrafikkinformasjonssone (TIZ), som er et ikke-kontrollert luftrom fra bakken og normalt opp til et terminal- eller trafikkinformasjonsområde, som omslutter en flyplass, og der lufttrafikktjenesten skal tilby flygeinformasjons- og varslingstjenestertrafikksone for helikopter (HTZ), som er et ikke-kontrollert luftrom rundt en eller flere installasjoner med helikopterdekk på kontinentalsokkelen, og der det legges til rette for tilbud om flygeinformasjons- og varslingstjenester for helikopterflygingerADS-område (Automatic Dependent Surveillance), som er et ikke-kontrollert luftrom der det legges til rette for tilbud om flygeinformasjons- og varslingstjenester på grunnlag av satelittbasert posisjonsinformasjon fra luftfartøyer.
+Innenfor flygeinformasjonsregionene kan Luftfartstilsynet fastsette følgende soner og områder i luftrommet i samsvar med kapittel 3 og 4, basert på hvilke lufttrafikktjenester det er behov for og som skal tilbys:
 
-Luftfartstilsynet kan i tillegg fastsette, eller foreslå for Samferdselsdepartementet opprettelse av, følgende soner og områder i luftrommet i samsvar med kapittel 5:forbudt område, som er et nærmere avgrenset luftrom over en stats landområde eller territorialfarvann, der flyging med luftfartøyer er forbudtrestriksjonsområde, som er et nærmere avgrenset luftrom over en stats landområde eller territorialfarvann der flyging med luftfartøyer er begrenset i henhold til visse fastsatte vilkårfareområde, som er luftrom av fastsatt utstrekning der det på bestemte tidspunkter kan foregå aktiviteter som er farlige for luftfartøyer under flygingreservert luftrom, som er en angitt del av luftrommet som er midlertidig reservert for eksklusiv eller særskilt bruk for bestemte kategorier av brukereradiopåbudssone (RMZ), som er et nærmere avgrenset luftrom der det er påbudt å ha og bruke radioutstyrtransponderpåbudssone (TMZ), som er et nærmere avgrenset luftrom der det er påbudt å ha og bruke transpondere som rapporterer trykkhøydegeografisk UAS-område, som er en del av luftrommet som letter, begrenser eller utelukker UAS-operasjoner for å håndtere risiko i forbindelse med sikkerhet, personvern, vern av personopplysninger, luftfartssikkerhet eller miljøet som følge av UAS-operasjonersoner eller områder med krav til alternativ type overvåkings- eller kommunikasjonsutstyr.
+1. kontrollområde, som er et kontrollert luftrom som strekker seg oppover fra en fastsatt grense over bakken, og som fastsettes som
+
+   1. kontrollområde (CTA), som hovedsakelig benyttes til overflyginger
+   2. terminalområde (TMA), som normalt etableres der ATS-ruter samler seg inn mot en eller flere større flyplasser
+2. kontrollsone (CTR), som er et kontrollert luftrom som strekker seg fra bakken opp til en angitt øvre grense, normalt opp til et terminalområde, og som omslutter en flyplass
+3. trafikkinformasjonsområde (TIA), som er et ikke-kontrollert luftrom som normalt etableres der ATS-ruter samler seg inn mot en eller flere flyplasser, og der lufttrafikktjenesten skal tilby flygeinformasjons- og varslingstjenester
+4. trafikkinformasjonssone (TIZ), som er et ikke-kontrollert luftrom fra bakken og normalt opp til et terminal- eller trafikkinformasjonsområde, som omslutter en flyplass, og der lufttrafikktjenesten skal tilby flygeinformasjons- og varslingstjenester
+5. trafikksone for helikopter (HTZ), som er et ikke-kontrollert luftrom rundt en eller flere installasjoner med helikopterdekk på kontinentalsokkelen, og der det legges til rette for tilbud om flygeinformasjons- og varslingstjenester for helikopterflyginger
+6. ADS-område (Automatic Dependent Surveillance), som er et ikke-kontrollert luftrom der det legges til rette for tilbud om flygeinformasjons- og varslingstjenester på grunnlag av satelittbasert posisjonsinformasjon fra luftfartøyer.
+
+Luftfartstilsynet kan i tillegg fastsette, eller foreslå for Samferdselsdepartementet opprettelse av, følgende soner og områder i luftrommet i samsvar med kapittel 5:
+
+1. forbudt område, som er et nærmere avgrenset luftrom over en stats landområde eller territorialfarvann, der flyging med luftfartøyer er forbudt
+2. restriksjonsområde, som er et nærmere avgrenset luftrom over en stats landområde eller territorialfarvann der flyging med luftfartøyer er begrenset i henhold til visse fastsatte vilkår
+3. fareområde, som er luftrom av fastsatt utstrekning der det på bestemte tidspunkter kan foregå aktiviteter som er farlige for luftfartøyer under flyging
+4. reservert luftrom, som er en angitt del av luftrommet som er midlertidig reservert for eksklusiv eller særskilt bruk for bestemte kategorier av brukere
+5. radiopåbudssone (RMZ), som er et nærmere avgrenset luftrom der det er påbudt å ha og bruke radioutstyr
+6. transponderpåbudssone (TMZ), som er et nærmere avgrenset luftrom der det er påbudt å ha og bruke transpondere som rapporterer trykkhøyde
+7. geografisk UAS-område, som er en del av luftrommet som letter, begrenser eller utelukker UAS-operasjoner for å håndtere risiko i forbindelse med sikkerhet, personvern, vern av personopplysninger, luftfartssikkerhet eller miljøet som følge av UAS-operasjoner
+8. soner eller områder med krav til alternativ type overvåkings- eller kommunikasjonsutstyr.
 
 Soner og områder etter tredje ledd kan etableres i enhver del av luftrommet, og kan overlappe med soner og områder etter andre ledd.
 
 ### § 6. Hvordan luftrommet klassifiseres
 
-Luftrommet klassifiseres som luftromsklasse A, C, D og G, i samsvar med SERA.6001 i kommisjonens gjennomføringsforordning [(EU) nr. 923/2012](eu/32012r0923), som gjennomført i SERA-forskriften, og slik atluftrommet over flygenivå 660 skal være uklassifisertkontrollområder skal etableres som luftromsklasse C, med unntak av Bodø oseaniske kontrollområde (Bodø OCA) som skal etableres som luftromsklasse A over flygenivå 195kontrollsoner skal etableres som luftromsklasse C eller Dtrafikkinformasjonsområder og trafikkinformasjonssoner skal etableres som luftromsklasse G, med krav til toveis radiokommunikasjon for alle flyginger.
+Luftrommet klassifiseres som luftromsklasse A, C, D og G, i samsvar med SERA.6001 i kommisjonens gjennomføringsforordning [(EU) nr. 923/2012](eu/32012r0923), som gjennomført i SERA-forskriften, og slik at
+
+1. luftrommet over flygenivå 660 skal være uklassifisert
+2. kontrollområder skal etableres som luftromsklasse C, med unntak av Bodø oseaniske kontrollområde (Bodø OCA) som skal etableres som luftromsklasse A over flygenivå 195
+3. kontrollsoner skal etableres som luftromsklasse C eller D
+4. trafikkinformasjonsområder og trafikkinformasjonssoner skal etableres som luftromsklasse G, med krav til toveis radiokommunikasjon for alle flyginger.
 
 Det skal være samsvar mellom luftromsklasse og den type lufttrafikktjeneste som faktisk ytes i de aktuelle sonene og områdene.
 
@@ -126,7 +165,10 @@ Et trafikkinformasjonsområde skal omfatte det luftrommet som er nødvendig for 
 
 Er den nedre grensen for et trafikkinformasjonsområde høyere enn 3000 fot over middelvann (AMSL), skal denne være sammenfallende med et høydenivå for VFR-flyginger angitt som et flygenivå.
 
-Det skal fastsettes en øvre grense for et trafikkinformasjonsområde hvis ett av følgende vilkår er oppfylt:Det er ikke krav til toveis radiokommunikasjon over en slik grense.Trafikkinformasjonsområdet ligger under et kontrollområde.
+Det skal fastsettes en øvre grense for et trafikkinformasjonsområde hvis ett av følgende vilkår er oppfylt:
+
+1. Det er ikke krav til toveis radiokommunikasjon over en slik grense.
+2. Trafikkinformasjonsområdet ligger under et kontrollområde.
 
 I tilfeller som nevnt i fjerde ledd bokstav b skal trafikkinformasjonsområdet ha sammenfallende grense med det overliggende kontrollområdet, og grensen skal fastsettes som et VFR-flygenivå.
 
@@ -166,7 +208,17 @@ Luftfartstilsynet kan bestemme at områdene eller sonene etter første ledd skal
 
 ### § 20. Søknad om å opprette luftromsrestriksjoner og andre områder og soner
 
-Enhver kan søke Luftfartstilsynet om å opprette forbudte områder, restriksjonsområder, fareområder eller andre områder og soner etter § 17, § 18 og § 19. En søknad skal være begrunnet og skal så langt det passer:angi hvilken tidsperiode søknaden gjelderangi hvilke restriksjoner det er behov forbeskrive hvilke farefulle aktiviteter som vil foregågi en detaljert beskrivelse av eventuelle planlagte flyaktiviteter i områdetangi skriftlig og ved anmerking på kart hvilket område søknaden gjelder og områdets høyde og bredde med nødvendige sikkerhetsmarginerdokumentere at lufttrafikktjenesten og berørte flyplassoperatører er konsultertforeslå hvordan lufttrafikken som berøres av området, kan håndteres, og oppgi en kontaktperson for trafikkhåndteringenforeslå prosedyrer for kontakt med lufttrafikktjenesten og luftfartsoperatører etter at området er opprettetoppgi en eller flere kontaktpersoner for søknaden.
+Enhver kan søke Luftfartstilsynet om å opprette forbudte områder, restriksjonsområder, fareområder eller andre områder og soner etter § 17, § 18 og § 19. En søknad skal være begrunnet og skal så langt det passer:
+
+1. angi hvilken tidsperiode søknaden gjelder
+2. angi hvilke restriksjoner det er behov for
+3. beskrive hvilke farefulle aktiviteter som vil foregå
+4. gi en detaljert beskrivelse av eventuelle planlagte flyaktiviteter i området
+5. angi skriftlig og ved anmerking på kart hvilket område søknaden gjelder og områdets høyde og bredde med nødvendige sikkerhetsmarginer
+6. dokumentere at lufttrafikktjenesten og berørte flyplassoperatører er konsultert
+7. foreslå hvordan lufttrafikken som berøres av området, kan håndteres, og oppgi en kontaktperson for trafikkhåndteringen
+8. foreslå prosedyrer for kontakt med lufttrafikktjenesten og luftfartsoperatører etter at området er opprettet
+9. oppgi en eller flere kontaktpersoner for søknaden.
 
 Luftfartstilsynet kan be om ytterligere dokumentasjon.
 
@@ -186,7 +238,11 @@ I avgjørelsen av om det skal opprettes forbudte områder, restriksjonsområder,
 
 Et område eller en sone etter første ledd skal ikke ha en større utstrekning eller gjelde for lengre tid eller for flere luftromsaktiviteter enn det som er nødvendig for å ivareta formålet.
 
-Områdene eller sonene skal fastsettes på én av følgende måter:som geodetiske posisjoner i grader, minutter og sekunder etter WGS84som en geodetisk posisjon i grader, minutter og sekunder etter WGS84, og en utstrekning i nautiske mil i form av en sirkel fra denne posisjonentilsvarende et område som er publisert i AIP Norge.
+Områdene eller sonene skal fastsettes på én av følgende måter:
+
+1. som geodetiske posisjoner i grader, minutter og sekunder etter WGS84
+2. som en geodetisk posisjon i grader, minutter og sekunder etter WGS84, og en utstrekning i nautiske mil i form av en sirkel fra denne posisjonen
+3. tilsvarende et område som er publisert i AIP Norge.
 
 ### § 23. Oppheving av luftromsrestriksjoner og andre områder og soner
 

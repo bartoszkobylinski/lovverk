@@ -15,7 +15,7 @@ xml_hash: "fbc4f182cab458eef84a1173d30903a577798b580f4e512cff94793da7fbfa47"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,13 @@ eu_basis: []
 
 I [forskrift 22. mai 2026 nr. 869 om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2026 og virkningstidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14](forskrift/2026-05-22-869) skal [§ 3](forskrift/2026-05-22-869/§3) lyde:
 
-Fra 1. mai 2026 fastsettes satsene for minste pensjonsnivå etter [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8) tredje til sjette ledd slik:Lav sats etter tredje ledd fastsettes til 217 531 kronerOrdinær sats etter fjerde ledd fastsettes til 250 509 kronerHøy sats etter femte ledd fastsettes til 263 191 kronerSærskilt sats etter sjette ledd bokstav a fastsettes til 301 062 kronerSærskilt sats etter sjette ledd bokstav b fastsettes til 405 215 kroner
+Fra 1. mai 2026 fastsettes satsene for minste pensjonsnivå etter [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8) tredje til sjette ledd slik:
+
+1. Lav sats etter tredje ledd fastsettes til 217 531 kroner
+2. Ordinær sats etter fjerde ledd fastsettes til 250 509 kroner
+3. Høy sats etter femte ledd fastsettes til 263 191 kroner
+4. Særskilt sats etter sjette ledd bokstav a fastsettes til 301 062 kroner
+5. Særskilt sats etter sjette ledd bokstav b fastsettes til 405 215 kroner
 
 ## II
 

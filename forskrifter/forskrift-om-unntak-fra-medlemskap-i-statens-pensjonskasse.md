@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1.
 
-Følgende er unntatt fra retten til medlemskap i Statens pensjonskasse:Arbeidstakere som deltar i midlertidige arbeidsrettede tiltak som helt eller delvis finansieres over statsbudsjettet. Arbeidstakere som tilsettes i ordinær stilling med lønnstilskudd er likevel ikke unntatt fra loven.Meteorologiske observatører.Hydrologiske observatører.Arbeidstakere som gjør tjeneste på pensjonistvilkår.
+Følgende er unntatt fra retten til medlemskap i Statens pensjonskasse:
+
+1. Arbeidstakere som deltar i midlertidige arbeidsrettede tiltak som helt eller delvis finansieres over statsbudsjettet. Arbeidstakere som tilsettes i ordinær stilling med lønnstilskudd er likevel ikke unntatt fra loven.
+2. Meteorologiske observatører.
+3. Hydrologiske observatører.
+4. Arbeidstakere som gjør tjeneste på pensjonistvilkår.
 
 > Endret ved [forskrifter 26 mars 2010 nr. 447](forskrift/2010-03-26-447), [18 juni 2010 nr. 842](forskrift/2010-06-18-842), [18 juni 2021 nr. 1965](forskrift/2021-06-18-1965) (i kraft 1 aug 2021).
 

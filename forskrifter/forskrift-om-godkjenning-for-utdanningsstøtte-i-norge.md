@@ -62,7 +62,12 @@ Utdanning på nivå med norsk videregående opplæring som følger læreplaner f
 
 ## § 5. Utdanninger som ikke godkjennes
 
-Følgende utdanninger godkjennes ikke for utdanningsstøtte:utdanning i Forsvaretetatsopplæring eller oppdragsutdanning som ikke er rettet mot enkeltstudenter og der alle studentene jobber i samme virksomhet. Som etatsopplæring regnes utdanninger i virksomhet som kvalifiserer til et yrke, er lønnet og medfører plikttjeneste etterpå. Som oppdragsutdanning regnes utdanningstilbud som tilbys mot vederlag, og finansieres av andre enn utdanningsinstitusjonen.norskopplæring når opplæringen ikke skjer i kombinasjon med annen godkjent utdanningph.d.-utdanning.
+Følgende utdanninger godkjennes ikke for utdanningsstøtte:
+
+1. utdanning i Forsvaret
+2. etatsopplæring eller oppdragsutdanning som ikke er rettet mot enkeltstudenter og der alle studentene jobber i samme virksomhet. Som etatsopplæring regnes utdanninger i virksomhet som kvalifiserer til et yrke, er lønnet og medfører plikttjeneste etterpå. Som oppdragsutdanning regnes utdanningstilbud som tilbys mot vederlag, og finansieres av andre enn utdanningsinstitusjonen.
+3. norskopplæring når opplæringen ikke skjer i kombinasjon med annen godkjent utdanning
+4. ph.d.-utdanning.
 
 > Endret ved forskrifter [23 juni 2021 nr. 2173](forskrift/2021-06-23-2173) (i kraft straks, med virkning fra 16 aug 2021), [4 mars 2024 nr. 377](forskrift/2024-03-04-377) (i kraft 15 april 2024, med virkning fra 16 aug 2024), [27 feb 2025 nr. 349](forskrift/2025-02-27-349) (i kraft 15 april 2025 med virkning fra 16 aug 2025).
 

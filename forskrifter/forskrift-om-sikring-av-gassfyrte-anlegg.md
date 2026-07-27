@@ -38,7 +38,25 @@ eu_basis: []
 
 ## § 2. Definisjoner
 
-I denne forskrift betyr:*Ansvarlig firma:* Norske produsenter eller norske hovedagenturer som innehar typegodkjennelser for gassfyrte apparater (dvs. hovedkomponenter av gassfyrt utstyr) og som disponerer egnet verksted med installatør(er) med kvalifikasjoner nevnt i bokstav j. Ansvarlig firma kan oppnevne annen installatør. Dersom slik oppnevnelse skjer, har det ansvarlige firma fortsatt slikt ansvar som vil fremgå av denne forskrifts [§ 3](forskrift/1983-10-20-1580/§3) tredje ledd.*Automatisk omskifter:* Arrangement bestående av to trykkregulatorer som er tilsluttet gassfasen i to beholdere og som automatisk kobler om fra en beholder til den andre.*Fartøy:* Ethvert fartøy – herunder fritidsfartøy og lektere uansett størrelse.*Flammekontroll:* Sikringsanordning som automatisk stenger gasstilførselen til hovedbrenner og tennbrenner når flammen uteblir ved start eller slokner under drift.*Gassfyrt anlegg:* Gassfyrte apparater med rørledninger, armatur og gassbeholdere m.m. som helt eller delvis er fast installert til bruk om bord.*Gassfyrt apparat med åpen flamme:* Apparat der forbrenningsluft og forbrenningsgassene tas og avgis i samme rom.*Gassfyrt apparat:* Kokeapparat, varmeapparat, vannvarme, kjøleskap mv. med brennere for bruk av lette kullvannstoffer.*Godkjent:* Et enkelt utstyr godkjent av Sjøfartsdirektoratet.*Installasjonsbevis:* Dokument med formular godkjent av Sjøfartsdirektoratet som dokumenterer at gassfyrte anlegg er av godkjent type, at det er prøvet og kontrollert og at gassinstallasjonens plassering, ventilasjon og termisk isolasjon er i samsvar med gjeldende regler.*Installatør:* Person som har tilstrekkelig kvalifikasjoner til å kunne foreta rør- og utstyrsmontasje i fartøy og har kjennskap til forskrift for installasjon av gassfyrte anlegg med tilhørende ventilasjon og termisk isolasjon, samt kan foreta prøving og kontroll av slike anlegg.*Kontrollpliktig fartøy*: Fartøy som etter skipssikkerhetsloven med tilhørende forskrifter skal ha fartssertifikat, passasjersertifikat eller utstyrssertifikat for fiske- og fangstfartøy.*Lekkasjeindikator:* Fast montert manuell indikator til å kontrollere anleggets tetthet (rør, slanger, ventiler etc.) når anlegget ikke er i bruk.*Lukket system:* System der forbrenningsluften ledes inn utenfra fartøyet og forbrenningsgassen ledes ut fra fartøyet.*Manuell omskifter:* Arrangement med avstengningsanordning som er tilsluttet gassfasen i to beholdere, som er slik at en beholder om gangen tas i bruk uten at gassen strømmer ut fra den ene beholder til den andre.*Tetthetssikring:* Ventilsystem som automatisk stenger gasstilførsel ved lekkasje i rør- og slangesystem. (Gassen som i fri tilstand er tyngre enn luft, er tilsatt luktstoff for lettere å kunne oppdage lekkasje).*Transportable campingbeholdere:* Transportable campingbeholdere med koketopp og som ikke er fast montert om bord, jf. [§ 13](forskrift/1983-10-20-1580/§13).*Typegodkjent:* Typegodkjent av Sjøfartsdirektoratet.
+I denne forskrift betyr:
+
+1. *Ansvarlig firma:* Norske produsenter eller norske hovedagenturer som innehar typegodkjennelser for gassfyrte apparater (dvs. hovedkomponenter av gassfyrt utstyr) og som disponerer egnet verksted med installatør(er) med kvalifikasjoner nevnt i bokstav j. Ansvarlig firma kan oppnevne annen installatør. Dersom slik oppnevnelse skjer, har det ansvarlige firma fortsatt slikt ansvar som vil fremgå av denne forskrifts [§ 3](forskrift/1983-10-20-1580/§3) tredje ledd.
+2. *Automatisk omskifter:* Arrangement bestående av to trykkregulatorer som er tilsluttet gassfasen i to beholdere og som automatisk kobler om fra en beholder til den andre.
+3. *Fartøy:* Ethvert fartøy – herunder fritidsfartøy og lektere uansett størrelse.
+4. *Flammekontroll:* Sikringsanordning som automatisk stenger gasstilførselen til hovedbrenner og tennbrenner når flammen uteblir ved start eller slokner under drift.
+5. *Gassfyrt anlegg:* Gassfyrte apparater med rørledninger, armatur og gassbeholdere m.m. som helt eller delvis er fast installert til bruk om bord.
+6. *Gassfyrt apparat med åpen flamme:* Apparat der forbrenningsluft og forbrenningsgassene tas og avgis i samme rom.
+7. *Gassfyrt apparat:* Kokeapparat, varmeapparat, vannvarme, kjøleskap mv. med brennere for bruk av lette kullvannstoffer.
+8. *Godkjent:* Et enkelt utstyr godkjent av Sjøfartsdirektoratet.
+9. *Installasjonsbevis:* Dokument med formular godkjent av Sjøfartsdirektoratet som dokumenterer at gassfyrte anlegg er av godkjent type, at det er prøvet og kontrollert og at gassinstallasjonens plassering, ventilasjon og termisk isolasjon er i samsvar med gjeldende regler.
+10. *Installatør:* Person som har tilstrekkelig kvalifikasjoner til å kunne foreta rør- og utstyrsmontasje i fartøy og har kjennskap til forskrift for installasjon av gassfyrte anlegg med tilhørende ventilasjon og termisk isolasjon, samt kan foreta prøving og kontroll av slike anlegg.
+11. *Kontrollpliktig fartøy*: Fartøy som etter skipssikkerhetsloven med tilhørende forskrifter skal ha fartssertifikat, passasjersertifikat eller utstyrssertifikat for fiske- og fangstfartøy.
+12. *Lekkasjeindikator:* Fast montert manuell indikator til å kontrollere anleggets tetthet (rør, slanger, ventiler etc.) når anlegget ikke er i bruk.
+13. *Lukket system:* System der forbrenningsluften ledes inn utenfra fartøyet og forbrenningsgassen ledes ut fra fartøyet.
+14. *Manuell omskifter:* Arrangement med avstengningsanordning som er tilsluttet gassfasen i to beholdere, som er slik at en beholder om gangen tas i bruk uten at gassen strømmer ut fra den ene beholder til den andre.
+15. *Tetthetssikring:* Ventilsystem som automatisk stenger gasstilførsel ved lekkasje i rør- og slangesystem. (Gassen som i fri tilstand er tyngre enn luft, er tilsatt luktstoff for lettere å kunne oppdage lekkasje).
+16. *Transportable campingbeholdere:* Transportable campingbeholdere med koketopp og som ikke er fast montert om bord, jf. [§ 13](forskrift/1983-10-20-1580/§13).
+17. *Typegodkjent:* Typegodkjent av Sjøfartsdirektoratet.
 
 > Endret ved [forskrift 20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018).
 
@@ -84,7 +102,10 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (2) Gassbeholdere skal plasseres stående og godt festet i eget ventilert skap eller kasse på åpent dekk. Eventuell omskifter og trykkregulator skal være plassert i samme skap eller kasse. Beholderne må ikke plasseres i nærheten av nedgangsåpninger, luker eller antenningskilder. Avstanden til slike skal være størst mulig og minst 50 cm.
 
-(3) Beholdere som ikke plasseres som nevnt i annet ledd skal plasseres på en av følgende måter:Beholdere med omskifter og trykkregulator eller beholder og trykkregulator kan anbringes forsenket i separat brønn i dekk.Brønn, separat skap eller beskyttelseskasse kan også plasseres innenbords i den åpne del av fartøyet.
+(3) Beholdere som ikke plasseres som nevnt i annet ledd skal plasseres på en av følgende måter:
+
+1. Beholdere med omskifter og trykkregulator eller beholder og trykkregulator kan anbringes forsenket i separat brønn i dekk.
+2. Brønn, separat skap eller beskyttelseskasse kan også plasseres innenbords i den åpne del av fartøyet.
 
 (4) Når beskyttelseskassen er plassert innvendig bør den fortrinnsvis bygges i ett med skroget.
 
@@ -100,7 +121,10 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (2) Tilslutningsslangenes lengde skal være minst mulig og ikke over 1,2 m.
 
-(3) Gassbeholderne skal tilsluttes omskifteren eller trykkregulatoren med kobberrør med ekspansjonsbøy eller med en slange godkjent for 30 bar.Anvendelse av slanger skal være minst mulig med unntak som nevnt for beskyttelseskasse i [§ 9](forskrift/1983-10-20-1580/§9) og tillates for øvrig bare mellom det faste røropplegg og forbruksapparater med balanseoppheng eller andre arrangementer som nødvendiggjør bevegelse av de tilkoplede apparat. Alle slanger etter trykkregulator skal minimum være godkjent for 6 bar. Slangene skal være festet til slangesokkel med slangeklemmer av rustfritt stål (dobbelt sett klemmer der hvor dette er mulig) eller med påpresset kopling. Slangesokler og slanger skal være tilpasset hverandre. Slangene skal være gassbestandige og være merket med gasstype samt maksimalt trykk, henholdsvis 3 MPa (ca. 30 bar) og 0,6 MPa (ca. 6 bar).Hovedventil skal plasseres på lett tilgjengelig sted i den åpne del av fartøyet og foran det første forgreningsrør på hovedledningen. Hovedventilen skal ha tydelig markering av åpen/stengt stilling og være merket med «hovedventil» og at den skal stenges når anlegget ikke brukes.
+(3) Gassbeholderne skal tilsluttes omskifteren eller trykkregulatoren med kobberrør med ekspansjonsbøy eller med en slange godkjent for 30 bar.
+
+1. Anvendelse av slanger skal være minst mulig med unntak som nevnt for beskyttelseskasse i [§ 9](forskrift/1983-10-20-1580/§9) og tillates for øvrig bare mellom det faste røropplegg og forbruksapparater med balanseoppheng eller andre arrangementer som nødvendiggjør bevegelse av de tilkoplede apparat. Alle slanger etter trykkregulator skal minimum være godkjent for 6 bar. Slangene skal være festet til slangesokkel med slangeklemmer av rustfritt stål (dobbelt sett klemmer der hvor dette er mulig) eller med påpresset kopling. Slangesokler og slanger skal være tilpasset hverandre. Slangene skal være gassbestandige og være merket med gasstype samt maksimalt trykk, henholdsvis 3 MPa (ca. 30 bar) og 0,6 MPa (ca. 6 bar).
+2. Hovedventil skal plasseres på lett tilgjengelig sted i den åpne del av fartøyet og foran det første forgreningsrør på hovedledningen. Hovedventilen skal ha tydelig markering av åpen/stengt stilling og være merket med «hovedventil» og at den skal stenges når anlegget ikke brukes.
 
 (4) Ved lengre avbrudd av anlegget skal både hovedventil og flaskeventiler stenges. Dersom det er vanskelig å plassere hovedventil på lett tilgjengelig sted i den åpne del av fartøyet, kan den unntaksvis tillates plassert rett innenfor lukket rom som bysse, pantry, kahytt, under forutsetning av at det i disse rom ikke er plassert ovner, kaminer eller andre tennkilder som kan antenne eventuell lekkasjegass, og at rommene tilfredsstiller krav til ventilasjon i henhold til [§ 10](forskrift/1983-10-20-1580/§10) sjette ledd.
 
@@ -108,7 +132,12 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 ## § 9. Rørsystemets installasjon
 
-(1) Rørledninger skal være sømløse rør av rustfritt stål eller kopper. Rørets godstykkelse skal minst være:1 mm for stålrør med diameter inntil 12 mm utvendig1,5 mm for stålrør med diameter større enn 12 mm utvendig0,8 mm for kopperrør med diameter inntil 10 mm utvendig.1,0 mm for kopperrør med diameter større enn 10 m utvendig.
+(1) Rørledninger skal være sømløse rør av rustfritt stål eller kopper. Rørets godstykkelse skal minst være:
+
+1. 1 mm for stålrør med diameter inntil 12 mm utvendig
+2. 1,5 mm for stålrør med diameter større enn 12 mm utvendig
+3. 0,8 mm for kopperrør med diameter inntil 10 mm utvendig.
+4. 1,0 mm for kopperrør med diameter større enn 10 m utvendig.
 
 (2) Sammenføyning av rørskjøter kan utføres ved sveising, hardlodding eller ved bruk av stål- eller metallkoplinger som er egnet for formålet. Pakningsmaterialer skal være gassbestandige, og av type som er holdbar i drift.
 
@@ -130,16 +159,28 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (3) Faste gassfyrte apparater skal utstyres med flammekontroll. Flammekontrollanordningens stengetid skal være maksimalt 60 sek.
 
-(4) Rundt åpen flamme på kokeapparat mv., skal følgende krav etterkommes:Plass for kokeapparat skal bestå av en tett benk eller kasse hvor det er forsvarlig å sette et kokeapparat.Brennbare materialer, hvor slike tillates i henhold til skissen, skal ikke utsettes for en overflatetemperatur på mer enn 80 °C. Dersom denne temperatur overskrides, må overflatetemperaturen reduseres til det tillatte, enten ved å øke avstanden til åpen flamme og/eller ved hjelp av skjerming med ubrennbart materiale som er termisk isolert fra bakenforliggende brennbart materiale.I bunn av kasse/benk kreves det ikke ubrennbare materialer eller termisk isolasjon med slikt materiale.
-[Figur utelatt.]
+(4) Rundt åpen flamme på kokeapparat mv., skal følgende krav etterkommes:
+
+1. Plass for kokeapparat skal bestå av en tett benk eller kasse hvor det er forsvarlig å sette et kokeapparat.
+2. Brennbare materialer, hvor slike tillates i henhold til skissen, skal ikke utsettes for en overflatetemperatur på mer enn 80 °C. Dersom denne temperatur overskrides, må overflatetemperaturen reduseres til det tillatte, enten ved å øke avstanden til åpen flamme og/eller ved hjelp av skjerming med ubrennbart materiale som er termisk isolert fra bakenforliggende brennbart materiale.
+3. I bunn av kasse/benk kreves det ikke ubrennbare materialer eller termisk isolasjon med slikt materiale.
+   [Figur utelatt.]
 
 (5) Varmeapparater med ytre flater som har en temperatur over 125 °C skal plasseres i minst 12 cm avstand fra brennbart materiale. Flatene skal være beskyttet slik at klesplagg eller annet løst brennbart materiale ikke kan komme i berøring med apparatet.
 
 ## § 11. Bortledning av forbrenningsgasser. Ventilasjon og termisk isolering
 
-(1) Gassfyrte ovner, radiatorer, vannvarmere og kjøleskap skal ha et lukket forbrenningssystem gasstett atskilt fra det indre av fartøyet.Inntaksrør for forbrenningsluft og avtrekksrør for forbrenningsgass skal ligge i betryggende avstand fra fyllingsstusser og avgassåpninger for brennstoff. Det skal være rikelig og sikker lufttilførsel til alle gassfyrte apparater.Til apparater med lukket system skal lufttilførselen til brennerne skje direkte gjennom rør/kanaler fra fri luft. Rørene/kanalene skal være dimensjonert for brennernes luftbehov med maksimal ytelse. Forbrenningsgassens temperatur målt ved utløp skal ikke overstige 350 °C og utløp for forbrenningsgass skal stå fritt slik at omgivende brennbare materialer ikke utsettes for temperaturer over 80 °C. Dersom temperatur på utløpshodet for forbrenningsfasen er så høy at det kan medføre brannskade eller brann, bør dette omgis med en skjermingskappe.Avtrekksrør for forbrenningsgass skal anbringes i størst mulig avstand fra ventilasjonsåpninger, dører og luker som kan føre forbrenningsgasser inn i fartøyet. Avtrekksrørets tverrsnittsareal skal ikke på noe sted være mindre enn avløpsåpningene på apparatene. For gassfyrte varmeapparater med varmluftvifte skal temperaturen på avløpsluften til innredning ikke overstige 80 °C.
+(1) Gassfyrte ovner, radiatorer, vannvarmere og kjøleskap skal ha et lukket forbrenningssystem gasstett atskilt fra det indre av fartøyet.
 
-(2) Avtrekksrør for forbrenningsgasser og inntak for forbrenningsluft skal holdes åpne og tillates ikke utstyrt med stengeinnretninger (spjeld mv.)Avtrekksrør for forbrenningsgass skal bestå av minst 3 mm tykke stålplater (for korrosjonsbestandig materiale, 1 mm). De skal isoleres og festes forsvarlig. Slike rør skal ikke være nærmere brennbart materiale enn 23 cm.I gjennomføringer i dekk eller hyttetak av treverk eller annet brennbart materiale skal stenullskåler med minst 7,5 cm tykkelse anvendes mellom avtrekksrør og brennbart materiale.Avtrekksrør skal i gjennomføringen være minst 11 cm fra nærmeste treverk eller brennbart materiale.
+1. Inntaksrør for forbrenningsluft og avtrekksrør for forbrenningsgass skal ligge i betryggende avstand fra fyllingsstusser og avgassåpninger for brennstoff. Det skal være rikelig og sikker lufttilførsel til alle gassfyrte apparater.
+2. Til apparater med lukket system skal lufttilførselen til brennerne skje direkte gjennom rør/kanaler fra fri luft. Rørene/kanalene skal være dimensjonert for brennernes luftbehov med maksimal ytelse. Forbrenningsgassens temperatur målt ved utløp skal ikke overstige 350 °C og utløp for forbrenningsgass skal stå fritt slik at omgivende brennbare materialer ikke utsettes for temperaturer over 80 °C. Dersom temperatur på utløpshodet for forbrenningsfasen er så høy at det kan medføre brannskade eller brann, bør dette omgis med en skjermingskappe.
+3. Avtrekksrør for forbrenningsgass skal anbringes i størst mulig avstand fra ventilasjonsåpninger, dører og luker som kan føre forbrenningsgasser inn i fartøyet. Avtrekksrørets tverrsnittsareal skal ikke på noe sted være mindre enn avløpsåpningene på apparatene. For gassfyrte varmeapparater med varmluftvifte skal temperaturen på avløpsluften til innredning ikke overstige 80 °C.
+
+(2) Avtrekksrør for forbrenningsgasser og inntak for forbrenningsluft skal holdes åpne og tillates ikke utstyrt med stengeinnretninger (spjeld mv.)
+
+1. Avtrekksrør for forbrenningsgass skal bestå av minst 3 mm tykke stålplater (for korrosjonsbestandig materiale, 1 mm). De skal isoleres og festes forsvarlig. Slike rør skal ikke være nærmere brennbart materiale enn 23 cm.
+2. I gjennomføringer i dekk eller hyttetak av treverk eller annet brennbart materiale skal stenullskåler med minst 7,5 cm tykkelse anvendes mellom avtrekksrør og brennbart materiale.
+3. Avtrekksrør skal i gjennomføringen være minst 11 cm fra nærmeste treverk eller brennbart materiale.
 
 (3) De ytre varmeavgivende flaters temperatur skal ikke overstige 150 °C eksklusiv avtrekksrør for forbrenningsgass, og omgivende brennbar innredning skal alltid være arrangert slik at den ikke utsettes for temperatur over 80 °C. Dersom apparatene har friskluft/avtrekkssystem som er arrangert slik at forbrenningsgassen isoleres ved en omgivende lufttilførselskanal slik at temperatur mot omgivende materialer ikke kan overstige 60 °C, kan kravene til termisk isolasjon og avstander senkes under de krav som fremgår av første og annet ledd. Dette vil vurderes ved typegodkjennelse av apparatene.
 
@@ -147,13 +188,23 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (5) Bruk av gasslamper tillates ikke.
 
-(6) I de dypest mulig punkter ved eller under dørk hvor gassdannelser ved lekkasje kan samles, skal det være inntak til vifte med kapasitet på minst 2,5 m3 /min.Viftene skal være godkjent av Det norske Veritas eller av en av de nordiske sjøfartsmyndigheter for avtrekk av eksplosjonsfarlige gasser m.m., med hensyntagen til eventuelle begrensninger som er gitt i godkjennelsessertifikatet.Viftens motor skal være plassert gasstett utenfor viftekanalen og fortrinnsvis i fri luft. Dersom den er plassert i kahytt eller annet lukket rom, skal den plasseres så høyt over inntak til sugeledning at den ligger over det som kan betraktes som mulig gassfarlig område.Viften skal startes minst 5 minutter før åpen flamme eller andre tennkilder anvendes dersom fartøyet har vært ute av bruk i lengre tid.Ved observasjon av gass skal lekkasje utbedres og all gass ventileres ut før tennkilder anvendes.Krav til vifte gjelder ikke for dekkede fartøy hvor det gassfyrte anlegg med tilhørende rørarrangement er plassert i innredning over dekk, på steder hvor lekkasjegass ikke kan trenge ned under dekk og hvor den naturlige ventilasjon er slik at gassansamling i innredning forhindres.
+(6) I de dypest mulig punkter ved eller under dørk hvor gassdannelser ved lekkasje kan samles, skal det være inntak til vifte med kapasitet på minst 2,5 m3 /min.
+
+1. Viftene skal være godkjent av Det norske Veritas eller av en av de nordiske sjøfartsmyndigheter for avtrekk av eksplosjonsfarlige gasser m.m., med hensyntagen til eventuelle begrensninger som er gitt i godkjennelsessertifikatet.
+2. Viftens motor skal være plassert gasstett utenfor viftekanalen og fortrinnsvis i fri luft. Dersom den er plassert i kahytt eller annet lukket rom, skal den plasseres så høyt over inntak til sugeledning at den ligger over det som kan betraktes som mulig gassfarlig område.
+3. Viften skal startes minst 5 minutter før åpen flamme eller andre tennkilder anvendes dersom fartøyet har vært ute av bruk i lengre tid.
+4. Ved observasjon av gass skal lekkasje utbedres og all gass ventileres ut før tennkilder anvendes.
+5. Krav til vifte gjelder ikke for dekkede fartøy hvor det gassfyrte anlegg med tilhørende rørarrangement er plassert i innredning over dekk, på steder hvor lekkasjegass ikke kan trenge ned under dekk og hvor den naturlige ventilasjon er slik at gassansamling i innredning forhindres.
 
 (7) Kokeapparater skal ikke anvendes for oppvarming av rommene.
 
 ## § 12. Prøving, kontroll og vedlikehold mv. av gassfyrte anlegg mv.
 
-(1) Før gassfyrt anlegg tas i bruk skal installatør foreta tetthetsprøve og kontroll på følgende måte:Etter at trykkregulator er frakoplet rørledningen skal rørledningen og slanger tetthetsprøves med luft eller nitrogen med 150 mbar overtrykk frem til apparatenes reguleringskraner eller flammereguleringsventiler. Etter at rørledningen har vært satt under trykk i minst 5 minutter for temperaturutjevning, skal det påses at trykket holder seg konstant i de følgende 5 minutter. Hvis trykkfall ikke påvises regnes installasjonen for å være tett.Eventuelle utettheter lokaliseres ved pensling med såpevann eller spesialmidler for lekkasjesøking. Bruk av åpen flamme eller salmiakkholdig såpe tillates ikke.Riktig funksjon av brennere, omskifter, trykkregulator, flammekontroller, lekkasjeindikator og tetthetssikringer skal prøves. (De to sistnevnte ved simulert prøve.)
+(1) Før gassfyrt anlegg tas i bruk skal installatør foreta tetthetsprøve og kontroll på følgende måte:
+
+1. Etter at trykkregulator er frakoplet rørledningen skal rørledningen og slanger tetthetsprøves med luft eller nitrogen med 150 mbar overtrykk frem til apparatenes reguleringskraner eller flammereguleringsventiler. Etter at rørledningen har vært satt under trykk i minst 5 minutter for temperaturutjevning, skal det påses at trykket holder seg konstant i de følgende 5 minutter. Hvis trykkfall ikke påvises regnes installasjonen for å være tett.
+2. Eventuelle utettheter lokaliseres ved pensling med såpevann eller spesialmidler for lekkasjesøking. Bruk av åpen flamme eller salmiakkholdig såpe tillates ikke.
+3. Riktig funksjon av brennere, omskifter, trykkregulator, flammekontroller, lekkasjeindikator og tetthetssikringer skal prøves. (De to sistnevnte ved simulert prøve.)
 
 (2) Gassfyrte anlegg skal til enhver tid holdes i forsvarlig sikkerhetsmessig stand.
 

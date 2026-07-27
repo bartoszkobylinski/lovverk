@@ -38,7 +38,11 @@ Utbetaling i april av lån og stipend for våren 2020 inkluderer så langt det e
 
 ## § 4. Utdanning i utlandet
 
-Følgende vilkår i [forskrift 15. mars 2019 nr. 254](forskrift/2019-03-15-254) om tildeling av utdanningsstøtte for undervisningsåret 2019–2020 skal ikke gjelde våren 2020:§ 3-1 andre ledd§ 6-4§ 35-3.
+Følgende vilkår i [forskrift 15. mars 2019 nr. 254](forskrift/2019-03-15-254) om tildeling av utdanningsstøtte for undervisningsåret 2019–2020 skal ikke gjelde våren 2020:
+
+1. § 3-1 andre ledd
+2. § 6-4
+3. § 35-3.
 
 Søkere som reiser hjem og avbryter utdanningen i utlandet i perioden med utbrudd av koronavirus på grunn av reiseråd fra norske myndigheter eller råd fra utdanningsinstitusjonen, har rett til å beholde lån og stipend for våren 2020.
 
@@ -72,7 +76,11 @@ Ved tilbakebetaling av lån og stipend for våren 2020 fra en søker som har få
 
 ## § 9. Inntektsgrenser ved behovsprøving av stipend
 
-Ved behovsprøving etter kapittel 29 i forskrift om tildeling av utdanningsstøtte for undervisningsåret 2019–2020, ses det bort fra inntekt som er opptjent i perioden 1. mars til og med 31. august 2020, dersom inntekten er vederlag for arbeid relatert til covid-19-pandemieni helse- og omsorgssektoreni forbindelse med beordring til tjeneste i Heimevernet eller Sivilforsvaretutført av politistudenter som melder seg til tjeneste i politiet eller til beredskapsarbeid.
+Ved behovsprøving etter kapittel 29 i forskrift om tildeling av utdanningsstøtte for undervisningsåret 2019–2020, ses det bort fra inntekt som er opptjent i perioden 1. mars til og med 31. august 2020, dersom inntekten er vederlag for arbeid relatert til covid-19-pandemien
+
+1. i helse- og omsorgssektoren
+2. i forbindelse med beordring til tjeneste i Heimevernet eller Sivilforsvaret
+3. utført av politistudenter som melder seg til tjeneste i politiet eller til beredskapsarbeid.
 
 > Tilføyd ved [forskrift 23 juni 2020 nr. 1279](forskrift/2020-06-23-1279).
 

@@ -15,7 +15,7 @@ xml_hash: "44ad3d3025ed261e1b5dfaec21616b5a12677a0c9230f66b62eaa6ef88d406c6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,15 @@ I [lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning](lov/2008-06-2
 
 [§ 4 bokstav e](lov/2008-06-20-44/§4/bokstav/e) og [f](lov/2008-06-20-44/§4/bokstav/f) og nye bokstaver g til i skal lyde:
 
-forskningsansvarlig: den eller de virksomhetene eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,prosjektleder: en fysisk person som skal lede prosessen med planlegging og gjennomføring av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne gjennomføre prosjektlederens oppgaver etter denne loven,multisenterstudie: forskningsprosjekter som finner sted ved flere virksomheter samtidig og etter samme forskningsprotokoll,koordinerende forskningsansvarlig virksomhet: virksomheten som har det nasjonale overordnede ansvaret for koordinering av multisenterstudien,klinisk behandlingsstudie: forskningsprosjekt som kan påvirke pasientforløpet, og som inngår i helsehjelpen.
+forskningsansvarlig: den eller de virksomhetene eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,
+
+prosjektleder: en fysisk person som skal lede prosessen med planlegging og gjennomføring av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne gjennomføre prosjektlederens oppgaver etter denne loven,
+
+multisenterstudie: forskningsprosjekter som finner sted ved flere virksomheter samtidig og etter samme forskningsprotokoll,
+
+koordinerende forskningsansvarlig virksomhet: virksomheten som har det nasjonale overordnede ansvaret for koordinering av multisenterstudien,
+
+klinisk behandlingsstudie: forskningsprosjekt som kan påvirke pasientforløpet, og som inngår i helsehjelpen.
 
 [§ 5 tredje ledd](lov/2008-06-20-44/§5/ledd/3) skal lyde:
 
@@ -110,7 +118,9 @@ Dataansvarlige for helseregistre skal på forespørsel utarbeide og tilgjengelig
 
 [§ 19 a første ledd bokstav a](lov/2014-06-20-43/§19a/ledd/1/bokstav/a) og [b](lov/2014-06-20-43/§19a/ledd/1/bokstav/b) skal lyde:
 
-opplysningene skal brukes til et uttrykkelig angitt formål for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester,opplysningene skal brukes innenfor registerets formål, til forskning, til statistikk eller til bruk eller utvikling av beslutningsstøtteverktøy,
+opplysningene skal brukes til et uttrykkelig angitt formål for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester,
+
+opplysningene skal brukes innenfor registerets formål, til forskning, til statistikk eller til bruk eller utvikling av beslutningsstøtteverktøy,
 
 Nåværende [bokstav b](lov/2014-06-20-43/§19a/ledd/1/bokstav/b) til [d](lov/2014-06-20-43/§19a/ledd/1/bokstav/d) blir ny bokstav c til e.
 
@@ -120,7 +130,11 @@ For tilgjengeliggjøring til medisinsk og helsefaglig forskning skal mottakeren 
 
 [§ 19 e første ledd bokstav a](lov/2014-06-20-43/§19e/ledd/1/bokstav/a), [b](lov/2014-06-20-43/§19e/ledd/1/bokstav/b) og [c](lov/2014-06-20-43/§19e/ledd/1/bokstav/c) skal lyde:
 
-opplysningene skal brukes til et uttrykkelig angitt formål for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester,opplysningene skal brukes innenfor registerets formål, til forskning, til statistikk eller til bruk eller utvikling av beslutningsstøtteverktøy,det er umulig eller vanskelig å innhente samtykke fra et tilstrekkelig utvalg av de registrerte,
+opplysningene skal brukes til et uttrykkelig angitt formål for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester,
+
+opplysningene skal brukes innenfor registerets formål, til forskning, til statistikk eller til bruk eller utvikling av beslutningsstøtteverktøy,
+
+det er umulig eller vanskelig å innhente samtykke fra et tilstrekkelig utvalg av de registrerte,
 
 Nåværende [bokstav b](lov/2014-06-20-43/§19e/ledd/1/bokstav/b) og [c](lov/2014-06-20-43/§19e/ledd/1/bokstav/c) blir ny bokstav d og e.
 

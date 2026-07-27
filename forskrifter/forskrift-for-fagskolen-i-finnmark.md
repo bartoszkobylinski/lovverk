@@ -15,7 +15,7 @@ xml_hash: "f0b1bc72ed00474fe7c9f226ebd7cdbc5971f388ae58877a35ae1b1dba983caf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,23 @@ Er bestemmelsene i denne forskrift i strid med lov og/eller forskrift gitt av lo
 
 ### § 1-3. Definisjoner, jf. forskrift om høyere yrkesfaglig utdanning § 2
 
-I denne forskrift menes med:*Emne:*De minste resultatbærende enhetene som gir uttelling i form av studiepoeng. Med minste resultatbærende enhet menes alle enheter som gir en selvstendig karakter, og som studenten må bestå for å få godkjent et vitnemålsgivende utdanningstilbud. Enhetene kan variere i omfang og skal fremkomme i vitnemålet. Hva som anvendes som begrep for den minste resultatbærende enheten, varierer fra fagskole til fagskole (modul, fag, emne, enhet, sertifikat).*Realkompetanse:*Dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.*Realkompetansevurdering:*En prosess for å vurdere den enkeltes kompetanse opp mot fastsatte kriterier. Vurderingen kan føre til opptak til fagskoleutdanning eller fritak fra deler av en fagskoleutdanning.*GSU-liste:*En oversikt over hvilke videregående utdanninger fra land utenfor Norden som gir generell studiekompetanse, med angivelse av tilleggskrav i norsk og engelsk der det er aktuelt.*Arbeidskrav:*Begrepet arbeidskrav inkluderer alle tiltak som omfatter læringsfremmende aktiviteter som har til hensikt å bidra til at studentene skal være aktive i sitt eget læringsarbeid, utvikle samarbeidskompetanse, og tilegne seg kunnskaper, ferdigheter og generell kompetanse. Arbeidskrav omfatter også aktiviteter som har til hensikt å vurdere den enkelte student sitt kompetansenivå relatert til deres læringsarbeid. Dette kan gjøres ved metoder som prøver, tester, høringer og andre metoder nevnt i denne forskriftens § 5-1.
+I denne forskrift menes med:
+
+1. *Emne:*
+
+   De minste resultatbærende enhetene som gir uttelling i form av studiepoeng. Med minste resultatbærende enhet menes alle enheter som gir en selvstendig karakter, og som studenten må bestå for å få godkjent et vitnemålsgivende utdanningstilbud. Enhetene kan variere i omfang og skal fremkomme i vitnemålet. Hva som anvendes som begrep for den minste resultatbærende enheten, varierer fra fagskole til fagskole (modul, fag, emne, enhet, sertifikat).
+2. *Realkompetanse:*
+
+   Dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.
+3. *Realkompetansevurdering:*
+
+   En prosess for å vurdere den enkeltes kompetanse opp mot fastsatte kriterier. Vurderingen kan føre til opptak til fagskoleutdanning eller fritak fra deler av en fagskoleutdanning.
+4. *GSU-liste:*
+
+   En oversikt over hvilke videregående utdanninger fra land utenfor Norden som gir generell studiekompetanse, med angivelse av tilleggskrav i norsk og engelsk der det er aktuelt.
+5. *Arbeidskrav:*
+
+   Begrepet arbeidskrav inkluderer alle tiltak som omfatter læringsfremmende aktiviteter som har til hensikt å bidra til at studentene skal være aktive i sitt eget læringsarbeid, utvikle samarbeidskompetanse, og tilegne seg kunnskaper, ferdigheter og generell kompetanse. Arbeidskrav omfatter også aktiviteter som har til hensikt å vurdere den enkelte student sitt kompetansenivå relatert til deres læringsarbeid. Dette kan gjøres ved metoder som prøver, tester, høringer og andre metoder nevnt i denne forskriftens § 5-1.
 
 ### § 1-4. Deltakelse i samordnet opptak jf. forskrift om høyere yrkesfaglig utdanning § 3
 
@@ -106,13 +122,38 @@ Fagskolen i Finnmark skal rapportere opplysninger som nevnt i [fagskoleloven § 
 
 ### § 2-4. Opptakskrav jf. lov om høyere yrkesfaglig utdanning § 16
 
-(1) Opptakskrav til fagskolen er enten:Fullført og bestått videregående opplæring med fagbrev, svennebrev eller vitnemål fra relevant yrkesutdanning. Informasjon om hvilke kompetanser som gir rett til opptak på den enkelte utdanning finnes i de enkelte studieplaner; ellerVed opptak med bakgrunn i realkompetanse, må søker fremlegge dokumentasjon på at de har realkompetanse tilsvarende de ordinære opptakskravene og være fylt 23 år innen opptaksåret.For enkelte studier kan studiekompetanse være opptaksgrunnlag, jf. de respektive studieplaner.
+(1) Opptakskrav til fagskolen er enten:
 
-(2) Opptak på visse vilkår ved sen fag eller svenneprøve (betinget opptak) jf. [forskrift om høyere yrkesfaglig utdanning § 10](forskrift/2019-07-11-1005/§10).Søkere som ikke har dokumentert fullført og bestått fag eller svenneprøve innen fristen for å sende inn dokumentasjon, og som derfor ikke er kvalifisert for opptak, kan få opptak til fagskoleutdanning dersom de kan dokumentere at de skal gjennomføre fag eller svenneprøven i løpet av det påfølgende semesteret.Søkere som har fått opptak uten bestått fag eller svenneprøve, kan ikke reservere studieplassen jf. [§ 13](forskrift/2019-07-11-1005/§13).Studenter med opptak på visse vilkår som ikke oppfyller opptakskravene i løpet av første semester etter opptak, mister studieplassen og studieretten.Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamenen godkjent som bestått uten at opptakskravet er oppfylt.Den fagskolen som gir et betinget opptak, skal så langt det er mulig og rimelig legge til rette for at studenten både kan gå opp til fag eller svenneprøven i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til. Dersom fagskolene ikke finner å kunne legge til rette på denne måten, skal studenten få forlenget opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring.
+1. Fullført og bestått videregående opplæring med fagbrev, svennebrev eller vitnemål fra relevant yrkesutdanning. Informasjon om hvilke kompetanser som gir rett til opptak på den enkelte utdanning finnes i de enkelte studieplaner; eller
+2. Ved opptak med bakgrunn i realkompetanse, må søker fremlegge dokumentasjon på at de har realkompetanse tilsvarende de ordinære opptakskravene og være fylt 23 år innen opptaksåret.
+3. For enkelte studier kan studiekompetanse være opptaksgrunnlag, jf. de respektive studieplaner.
 
-(3) Opptak på visse vilkår (betinget opptak) jf. [forskrift om høyere yrkesfaglig utdanning § 11](forskrift/2019-07-11-1005/§11)Søkere som på grunn av spesielle omstendigheter ikke kan avlegge eksamen i videregående opplæring, og som derfor ikke er kvalifisert for opptak til fagskoler som er omfattet av denne forskrift, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptaksøkeren har standpunktkarakteren 2 eller bedre i fagetikke allerede har avsluttende vurdering i faget, ogoppfyller fastsatte karakterkrav når eksamen er avlagt.Med spesielle omstendigheter menes sykdom, ulykker eller dødsfall i nær familie. Fagskolen kan gi betinget opptak på grunn av andre spesielle omstendigheter.Søkeren som har fått opptak på visse vilkår, kan ikke få reservert studieplass til senere opptak.Studenter med opptak på visse vilkår som ikke oppfyller opptakskravene innen den fastsatte fristen, mister studieplassen og studieretten.Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamen godkjent som bestått uten at opptakskravet er oppfylt.Den fagskolen som gir et betinget opptak, skal så langt det er mulig og rimelig, legge til rette for at studenten både kan gå opp til utsatt eksamen i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til. Dersom fagskolene ikke finner å kunne legge til rette på denne måten, skal studenten få forlenget opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring.
+(2) Opptak på visse vilkår ved sen fag eller svenneprøve (betinget opptak) jf. [forskrift om høyere yrkesfaglig utdanning § 10](forskrift/2019-07-11-1005/§10).
 
-(4) Overgangsregler for opptak jf. [forskrift om høyere yrkesfaglig utdanning § 12](forskrift/2019-07-11-1005/§12)Generell studiekompetanse etter tidligere ordninger reguleres i [forskrift 6. januar 2017 nr. 13 om opptak til høyere utdanning § 9-1](forskrift/2017-01-06-13/§9-1)Omregningstabell for søkere med vitnemål fra norsk gymnas med bokstavkarakterer reguleres i [forskrift 6. januar 2017 nr. 13 om opptak til høyere utdanning § 9-2](forskrift/2017-01-06-13/§9-2).
+1. Søkere som ikke har dokumentert fullført og bestått fag eller svenneprøve innen fristen for å sende inn dokumentasjon, og som derfor ikke er kvalifisert for opptak, kan få opptak til fagskoleutdanning dersom de kan dokumentere at de skal gjennomføre fag eller svenneprøven i løpet av det påfølgende semesteret.
+2. Søkere som har fått opptak uten bestått fag eller svenneprøve, kan ikke reservere studieplassen jf. [§ 13](forskrift/2019-07-11-1005/§13).
+3. Studenter med opptak på visse vilkår som ikke oppfyller opptakskravene i løpet av første semester etter opptak, mister studieplassen og studieretten.
+4. Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamenen godkjent som bestått uten at opptakskravet er oppfylt.
+5. Den fagskolen som gir et betinget opptak, skal så langt det er mulig og rimelig legge til rette for at studenten både kan gå opp til fag eller svenneprøven i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til. Dersom fagskolene ikke finner å kunne legge til rette på denne måten, skal studenten få forlenget opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring.
+
+(3) Opptak på visse vilkår (betinget opptak) jf. [forskrift om høyere yrkesfaglig utdanning § 11](forskrift/2019-07-11-1005/§11)
+
+1. Søkere som på grunn av spesielle omstendigheter ikke kan avlegge eksamen i videregående opplæring, og som derfor ikke er kvalifisert for opptak til fagskoler som er omfattet av denne forskrift, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:
+
+   1. søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptak
+   2. søkeren har standpunktkarakteren 2 eller bedre i faget
+   3. ikke allerede har avsluttende vurdering i faget, og
+   4. oppfyller fastsatte karakterkrav når eksamen er avlagt.
+2. Med spesielle omstendigheter menes sykdom, ulykker eller dødsfall i nær familie. Fagskolen kan gi betinget opptak på grunn av andre spesielle omstendigheter.
+3. Søkeren som har fått opptak på visse vilkår, kan ikke få reservert studieplass til senere opptak.
+4. Studenter med opptak på visse vilkår som ikke oppfyller opptakskravene innen den fastsatte fristen, mister studieplassen og studieretten.
+5. Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamen godkjent som bestått uten at opptakskravet er oppfylt.
+6. Den fagskolen som gir et betinget opptak, skal så langt det er mulig og rimelig, legge til rette for at studenten både kan gå opp til utsatt eksamen i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til. Dersom fagskolene ikke finner å kunne legge til rette på denne måten, skal studenten få forlenget opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring.
+
+(4) Overgangsregler for opptak jf. [forskrift om høyere yrkesfaglig utdanning § 12](forskrift/2019-07-11-1005/§12)
+
+1. Generell studiekompetanse etter tidligere ordninger reguleres i [forskrift 6. januar 2017 nr. 13 om opptak til høyere utdanning § 9-1](forskrift/2017-01-06-13/§9-1)
+2. Omregningstabell for søkere med vitnemål fra norsk gymnas med bokstavkarakterer reguleres i [forskrift 6. januar 2017 nr. 13 om opptak til høyere utdanning § 9-2](forskrift/2017-01-06-13/§9-2).
 
 ### § 2-5. Spesielle opptakskrav og politiattest
 
@@ -130,11 +171,20 @@ Fagskolen i Finnmark skal rapportere opplysninger som nevnt i [fagskoleloven § 
 
 (2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden må dokumentere kunnskaper i norsk, såfremt den omsøkte fagskoleutdanningen ikke tilbys på et fremmedspråk. For fagskoleutdanninger hvor det kreves generell studiekompetanse, må søkere dokumentere kunnskaper i norsk på minimum nivå B2 i Europarådets referanserammeverk for språk. For andre fagskoleutdanninger fastsetter fagskolen i forskrift om søkere må dokumentere kunnskaper i norsk på minimum nivå B1 eller B2 i Europarådets referanserammeverk for språk.
 
-(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37)
+(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:
+
+1. Bestått norsk med 393 timer fra videregående opplæring
+2. Bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene
+3. Bestått eksamen fra 1årig studium i norsk språk og samfunnskunnskap for utenlandske studenter
+4. Skriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009
+5. Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37)
 
 (4) For fagskoleutdanninger der søkere må dokumentere kunnskaper i norsk på minimum nivå B1, kan disse også dokumenteres med avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
 
-(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:oppnådd diplom fra International Baccalaureate (IB)oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
+(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:
+
+1. oppnådd diplom fra International Baccalaureate (IB)
+2. oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
 
 (6) Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til fremmedspråklige utdanningsprogram og studenter som deltar i internasjonale utvekslingsprogram.
 
@@ -147,21 +197,44 @@ Fagskolen i Finnmark skal rapportere opplysninger som nevnt i [fagskoleloven § 
 
 ### § 2-8. Poengberegning og rangering
 
-(1) Rangering av søkere ved opptak jf. [forskrift om høyere yrkesfaglig utdanning § 14](forskrift/2019-07-11-1005/§14):Rangering skjer ved utregning av poeng.Grunnlaget for rangering er den dokumentasjonen som kvalifiserer søkeren for en fagskoleutdanning og annen dokumentasjon som gir tilleggspoeng, jf. [§ 15](forskrift/2019-07-11-1005/§15).Søkere med høy poengsum skal rangeres foran søkere med lav poengsum. Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.Hvis det er ledige studieplasser etter at det ordinære opptaket er gjennomført, kan Fagskolen i Finnmark selv tilby disse studieplassene til kvalifiserte søkere. Søknader om opptak til slike ledige studieplasser behandles i den rekkefølgen de mottas, uavhengig av rangeringsbestemmelsene.Hvis det er venteliste etter at det ordinære opptaket er gjennomført, men fagskolen får ledige studieplasser etter studiestart, skal Fagskolen i Finnmark tilby eventuelle ledige studieplasser til søkerne som står på venteliste. Ti dager etter studiestart kan hver fagskole tilby resterende studieplasser til kvalifiserte søkere uten hensyn til rangeringsbestemmelsene.
+(1) Rangering av søkere ved opptak jf. [forskrift om høyere yrkesfaglig utdanning § 14](forskrift/2019-07-11-1005/§14):
 
-(2) Poengberegning ved rangering av søkere jf. [forskrift om høyere yrkesfaglig utdanning § 15](forskrift/2019-07-11-1005/§15).Alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget skal tas med i beregning av karakterpoeng. Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10.For fag eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:et fag eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål.hvert fag eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag eller svennebrevet og 2 poeng for det andre.Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Læretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag eller svenneprøve som praksiskandidat gir ikke poeng. Det kan gis inntil 10 poeng for relevant yrkespraksis.
+1. Rangering skjer ved utregning av poeng.
+2. Grunnlaget for rangering er den dokumentasjonen som kvalifiserer søkeren for en fagskoleutdanning og annen dokumentasjon som gir tilleggspoeng, jf. [§ 15](forskrift/2019-07-11-1005/§15).
+3. Søkere med høy poengsum skal rangeres foran søkere med lav poengsum. Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
+4. Hvis det er ledige studieplasser etter at det ordinære opptaket er gjennomført, kan Fagskolen i Finnmark selv tilby disse studieplassene til kvalifiserte søkere. Søknader om opptak til slike ledige studieplasser behandles i den rekkefølgen de mottas, uavhengig av rangeringsbestemmelsene.
+5. Hvis det er venteliste etter at det ordinære opptaket er gjennomført, men fagskolen får ledige studieplasser etter studiestart, skal Fagskolen i Finnmark tilby eventuelle ledige studieplasser til søkerne som står på venteliste. Ti dager etter studiestart kan hver fagskole tilby resterende studieplasser til kvalifiserte søkere uten hensyn til rangeringsbestemmelsene.
 
-(3) Karakterforbedring jf. [forskrift om høyere yrkesfaglig utdanning § 16](forskrift/2019-07-11-1005/§16).Ved beregning av karakterpoeng skal karakterforbedringer erstatte tidligere karakter(er) i samme fag.
+(2) Poengberegning ved rangering av søkere jf. [forskrift om høyere yrkesfaglig utdanning § 15](forskrift/2019-07-11-1005/§15).
 
-(4) Rangering av søkere som ikke kan poengberegnes jf. [forskrift om høyere yrkesfaglig utdanning § 17](forskrift/2019-07-11-1005/§17).Kvalifiserte søkere som ikke kan poengberegnes, rangeres i forhold til poengberegnede søkere ved hjelp av en individuell skjønnsmessig vurdering. For å få tilbud om opptak kreves det likeverdige ferdigheter og kunnskaper med søkere som får tilbud om opptak etter rangering på grunnlag av poengberegning. Det legges vekt på søkerens reelle kvalifikasjoner for studiet, herunder søkerens norskkunnskaper. Inntil 10 prosent av studieplassene kan settes av til søkere som ikke kan poengberegnes. Dersom studiet ikke kan fylles opp med poengberegnede søkere kan tildeling av studieplasser til søkere som ikke kan poengberegnes være høyere enn 10 prosent. Fagskolen i Finnmark rangerer søkere som ikke kan poengberegnes etter antall måneder dokumentert relevant praksis. Ved likt antall måneder praksis rangeres søkerne etter alder. Eldre søkere rangeres foran yngre.
+1. Alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget skal tas med i beregning av karakterpoeng. Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10.
+2. For fag eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:
 
-(5) Rangering på grunnlag av opptaksprøve jf. [forskrift om høyere yrkesfaglig utdanning § 18](forskrift/2019-07-11-1005/§18).Søkere til fagskoleutdanninger som har opptaksprøve som spesielt opptakskrav, skal rangeres på grunnlag av både første og andre ledd i denne forskrifts [§ 2-8](forskrift/2024-01-05-300/§2-8) og opptaksprøve. Det skal fremgå av studieplanen dersom opptaksprøve skal være en del av opptaksgrunnlaget og hvilken vekt opptaksprøven tillegges.
+   1. et fag eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål.
+   2. hvert fag eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag eller svennebrevet og 2 poeng for det andre.
+3. Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Læretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag eller svenneprøve som praksiskandidat gir ikke poeng. Det kan gis inntil 10 poeng for relevant yrkespraksis.
+
+(3) Karakterforbedring jf. [forskrift om høyere yrkesfaglig utdanning § 16](forskrift/2019-07-11-1005/§16).
+
+Ved beregning av karakterpoeng skal karakterforbedringer erstatte tidligere karakter(er) i samme fag.
+
+(4) Rangering av søkere som ikke kan poengberegnes jf. [forskrift om høyere yrkesfaglig utdanning § 17](forskrift/2019-07-11-1005/§17).
+
+Kvalifiserte søkere som ikke kan poengberegnes, rangeres i forhold til poengberegnede søkere ved hjelp av en individuell skjønnsmessig vurdering. For å få tilbud om opptak kreves det likeverdige ferdigheter og kunnskaper med søkere som får tilbud om opptak etter rangering på grunnlag av poengberegning. Det legges vekt på søkerens reelle kvalifikasjoner for studiet, herunder søkerens norskkunnskaper. Inntil 10 prosent av studieplassene kan settes av til søkere som ikke kan poengberegnes. Dersom studiet ikke kan fylles opp med poengberegnede søkere kan tildeling av studieplasser til søkere som ikke kan poengberegnes være høyere enn 10 prosent. Fagskolen i Finnmark rangerer søkere som ikke kan poengberegnes etter antall måneder dokumentert relevant praksis. Ved likt antall måneder praksis rangeres søkerne etter alder. Eldre søkere rangeres foran yngre.
+
+(5) Rangering på grunnlag av opptaksprøve jf. [forskrift om høyere yrkesfaglig utdanning § 18](forskrift/2019-07-11-1005/§18).
+
+Søkere til fagskoleutdanninger som har opptaksprøve som spesielt opptakskrav, skal rangeres på grunnlag av både første og andre ledd i denne forskrifts [§ 2-8](forskrift/2024-01-05-300/§2-8) og opptaksprøve. Det skal fremgå av studieplanen dersom opptaksprøve skal være en del av opptaksgrunnlaget og hvilken vekt opptaksprøven tillegges.
 
 ### § 2-9. Realkompetansevurdering
 
 (1) Den administrative og faglige ledelsen ved fagskolen har ansvar for å gjennomføre realkompetansevurdering. Kompetansen til søkeren blir vurdert opp mot læreplanmål i videregående opplæring innen relevante programområde. Informasjon om hva som er relevant yrkesutdanning er nedfelt i studieplanene. Opptak gjort på bakgrunn av realkompetanse vil bare gjelde for den utdanningen det er realkompetansevurdert til.
 
-(2) Søkere som søker studieplass på bakgrunn av realkompetanse kan være:Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravetSøkere som ikke har fullført videregående opplæringSøkere med utenlandsk utdanning.
+(2) Søkere som søker studieplass på bakgrunn av realkompetanse kan være:
+
+1. Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravet
+2. Søkere som ikke har fullført videregående opplæring
+3. Søkere med utenlandsk utdanning.
 
 (3) Søkere må dokumentere kompetanse i felles allmenne fag som svarer til nivå 4 i Nasjonalt kvalifikasjonsrammeverk (NKR), ha fylt 23 år i søkeåret og må ha relevant arbeidserfaring i forhold til utdanningen det søkes opptak til.
 
@@ -195,7 +268,12 @@ Opptak til fagskolen er et enkeltvedtak etter bestemmelsene i [forvaltningsloven
 
 (7) For at en fagskole skal kunne utstede vitnemål eller annen dokumentasjon for fullført utdanning, må studenten avlegge studiepoeng ved fagskolen tilsvarende minste resultatbærende enhet i fagskoleutdanningen studenten ønsker vitnemål eller annen dokumentasjon for. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved godskriving mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene. Jf. [forskrift om høyere yrkesfaglig utdanning § 38](forskrift/2019-07-11-1005/§38).
 
-(8) Søknad om godskriving og fritak må leveres til fagskolen innen 15. september for emner i høstsemesteret og 15. januar for emner i vårsemesteret. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:Vitnemål/karakterutskrift/realkompetansevurderingOversikt over hvilke temaer som inngår i emnetOversikt over læringsutbyttebeskrivelsen av emnet eller studieplanEventuelt annen relevant dokumentasjon.
+(8) Søknad om godskriving og fritak må leveres til fagskolen innen 15. september for emner i høstsemesteret og 15. januar for emner i vårsemesteret. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:
+
+1. Vitnemål/karakterutskrift/realkompetansevurdering
+2. Oversikt over hvilke temaer som inngår i emnet
+3. Oversikt over læringsutbyttebeskrivelsen av emnet eller studieplan
+4. Eventuelt annen relevant dokumentasjon.
 
 (9) Dersom en student får godkjent søknad om fritak av et emne, skal dette framkomme på vitnemålet med referanse til bestått emne ved samme eller annen institusjon. Vitnemålet er bare gyldig sammen med dokumentasjonen som det blir referert til.
 
@@ -213,7 +291,13 @@ Opptak til fagskolen er et enkeltvedtak etter bestemmelsene i [forvaltningsloven
 
 (2) Studieretten er knyttet til utdanningen eller emnet på det studiestedet studenten har fått opptak til.
 
-(3) Studierettens varighet:Ved opptak til en utdanning er studenten tildelt studierett lik normert studietid for utdanningen.En student som er tatt opp til ei utdanning med mellom ett og tre års studietid, kan etter avtale om endring i studieplan, få utvida studieretten i inntil ett år ut over normert studietid.Når studieretten ved en utdanning er brukt opp etter bokstav a eller b, mister studenten automatisk alle rettigheter knyttet til det å være tatt opp som student. Studenten må søke nytt opptak for eventuelt å fullføre utdanningen.Studieretten faller automatisk bort når studieprogrammet er fullført og bestått. Det samme gjelder emnestudenter når eksamen er gjennomført.En student som har fullført ei utdanning, har rett til å forbedre karakter i inntil ett år etter at utdanningen er fullført.
+(3) Studierettens varighet:
+
+1. Ved opptak til en utdanning er studenten tildelt studierett lik normert studietid for utdanningen.
+2. En student som er tatt opp til ei utdanning med mellom ett og tre års studietid, kan etter avtale om endring i studieplan, få utvida studieretten i inntil ett år ut over normert studietid.
+3. Når studieretten ved en utdanning er brukt opp etter bokstav a eller b, mister studenten automatisk alle rettigheter knyttet til det å være tatt opp som student. Studenten må søke nytt opptak for eventuelt å fullføre utdanningen.
+4. Studieretten faller automatisk bort når studieprogrammet er fullført og bestått. Det samme gjelder emnestudenter når eksamen er gjennomført.
+5. En student som har fullført ei utdanning, har rett til å forbedre karakter i inntil ett år etter at utdanningen er fullført.
 
 ### § 2-14. Studieprogresjon
 
@@ -277,9 +361,21 @@ Fagskolen i Finnmark er tilknyttet studentsamskipnaden «Norges arktiske student
 
 (2) Styret skal i samarbeid med studentsamskipnaden legge til rette for et godt og inkluderende læringsmiljø og arbeide for å bedre studentvelferden på lærestedet.
 
-(3) Styret har ansvaret for at læringsmiljøet og det fysiske og psykiske arbeidsmiljøet er fullt forsvarlig med hensyn til studentenes helse, sikkerhet og velferd. I utformingen av det fysiske arbeidsmiljøet skal styret, så langt det er mulig og rimelig, sørge forat lokaler, adkomstveier, trapper, mv. er dimensjonert og innredet for den virksomheten som drivesat lokalene har gode lys og lydforhold og forsvarlig inneklima og luftkvalitetat lokalene blir vedlikeholdt og er rene og ryddigeat lokalene er innredet slik at studentene unngår uheldige fysiske belastningerat virksomheten er planlagt slik at skader og ulykker forebyggesat tekniske innretninger og utstyr er sikret og blir vedlikeholdt, slik at studentene unngår skader og ulykkerat lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at personer med nedsatt funksjonsevne kan studere ved fagskolenat læringsmiljøet er innrettet for studenter av ulike kjønnat læringsmiljøet er utformet etter prinsippet om universell utforming.
+(3) Styret har ansvaret for at læringsmiljøet og det fysiske og psykiske arbeidsmiljøet er fullt forsvarlig med hensyn til studentenes helse, sikkerhet og velferd. I utformingen av det fysiske arbeidsmiljøet skal styret, så langt det er mulig og rimelig, sørge for
 
-(4) Studenter med funksjonsnedsettelse og studenter med særskilte behov har rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings og utdanningsmuligheter. Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde for utdanningsinstitusjonen. I denne vurderingen skal det legges særlig vekt på tilretteleggingens effekt for å fjerne barrierer for disse studentene, kostnadene ved tilretteleggingen og institusjonens ressurser. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene som stilles i den enkelte utdanningen.Arbeidstilsynet fører tilsyn med at kravene i tredje ledd er oppfylt. [Arbeidsmiljøloven kapittel 18](lov/2005-06-17-62/kap18) gjelder så langt det passer.
+1. at lokaler, adkomstveier, trapper, mv. er dimensjonert og innredet for den virksomheten som drives
+2. at lokalene har gode lys og lydforhold og forsvarlig inneklima og luftkvalitet
+3. at lokalene blir vedlikeholdt og er rene og ryddige
+4. at lokalene er innredet slik at studentene unngår uheldige fysiske belastninger
+5. at virksomheten er planlagt slik at skader og ulykker forebygges
+6. at tekniske innretninger og utstyr er sikret og blir vedlikeholdt, slik at studentene unngår skader og ulykker
+7. at lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at personer med nedsatt funksjonsevne kan studere ved fagskolen
+8. at læringsmiljøet er innrettet for studenter av ulike kjønn
+9. at læringsmiljøet er utformet etter prinsippet om universell utforming.
+
+(4) Studenter med funksjonsnedsettelse og studenter med særskilte behov har rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings og utdanningsmuligheter. Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde for utdanningsinstitusjonen. I denne vurderingen skal det legges særlig vekt på tilretteleggingens effekt for å fjerne barrierer for disse studentene, kostnadene ved tilretteleggingen og institusjonens ressurser. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene som stilles i den enkelte utdanningen.
+
+- Arbeidstilsynet fører tilsyn med at kravene i tredje ledd er oppfylt. [Arbeidsmiljøloven kapittel 18](lov/2005-06-17-62/kap18) gjelder så langt det passer.
 
 ## Kapittel 3. Politiattest
 
@@ -333,17 +429,37 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 
 ### § 4-2. Fagskoleutdanninger med skikkethetsvurdering, jf. forskrift om høyere yrkesfaglig utdanning § 27, § 28 og § 29
 
-(1) Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare jf. [§ 4-1 andre ledd](forskrift/2024-01-05-300/§4-1/ledd/2). Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved Fagskolen i Finnmark jf. [forskrift om høyere yrkesfaglig utdanning § 27 tredje ledd](forskrift/2019-07-11-1005/§27/ledd/3):Helse, aldring og aktiv omsorgPsykisk helsearbeid og rusarbeidKreftomsorg og lindrende pleie.
+(1) Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare jf. [§ 4-1 andre ledd](forskrift/2024-01-05-300/§4-1/ledd/2). Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved Fagskolen i Finnmark jf. [forskrift om høyere yrkesfaglig utdanning § 27 tredje ledd](forskrift/2019-07-11-1005/§27/ledd/3):
 
-(2) Løpende og særskilt skikkethetsvurdering:Det skal foretas løpende skikkethetsvurdering av alle studenter ved fagskoleutdanninger som omfattes av denne paragrafens første ledd og skal foretas gjennom hele fagskoleutdanningen, jf. [fagskoleloven § 26 første ledd](lov/2018-06-08-28/§26/ledd/1). Den skal inngå i en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket.Hvis det er begrunnet tvil om en student er skikket, skal det i tillegg foretas en særskilt skikkethetsvurdering.
+1. Helse, aldring og aktiv omsorg
+2. Psykisk helsearbeid og rusarbeid
+3. Kreftomsorg og lindrende pleie.
 
-(3) VurderingskriterierEn student er uskikket dersom ett eller flere av følgende kriterier er oppfylt på en slik måte at studenten utgjør en fare etter [§ 4-1](forskrift/2024-01-05-300/§4-1)studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerstudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningstudentene opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse.studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+(2) Løpende og særskilt skikkethetsvurdering:
+
+1. Det skal foretas løpende skikkethetsvurdering av alle studenter ved fagskoleutdanninger som omfattes av denne paragrafens første ledd og skal foretas gjennom hele fagskoleutdanningen, jf. [fagskoleloven § 26 første ledd](lov/2018-06-08-28/§26/ledd/1). Den skal inngå i en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket.
+2. Hvis det er begrunnet tvil om en student er skikket, skal det i tillegg foretas en særskilt skikkethetsvurdering.
+
+(3) Vurderingskriterier
+
+En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt på en slik måte at studenten utgjør en fare etter [§ 4-1](forskrift/2024-01-05-300/§4-1)
+
+1. studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjoner
+2. studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledning
+3. studentene opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helse.
+4. studenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
 ### § 4-3. Skikkethetsnemnd, jf. forskrift om høyere yrkesfaglig utdanning § 31
 
 (1) Styret for Fagskolen i Finnmark skal selv oppnevne en skikkethetsnemnd. Flere fagskoler kan gå sammen om en felles skikkethetsnemnd. En fagskole eller dens eier kan administrere en slik felles skikkethetsnemnd.
 
-(2) Skikkethetsnemnda skal bestå av:en faglig leder eller tilsvarende funksjonto faglærereto representanter fra praksisfeltetto studentrepresentanteren ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+(2) Skikkethetsnemnda skal bestå av:
+
+1. en faglig leder eller tilsvarende funksjon
+2. to faglærere
+3. to representanter fra praksisfeltet
+4. to studentrepresentanter
+5. en ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
 
 (3) Medlemmene oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år. Faglig leder for avdeling eller tilsvarende funksjon, er nemndas leder.
 
@@ -476,7 +592,12 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 
 (4) Studenter som følger normalt studieår, blir automatisk meldt opp til eksamen. Frist for å melde seg av eksamen er tre uker før eksamensdato. Dette gjelder også studenter som har meldt seg opp til ny eller utsatt eksamen. Gyldig fraværsårsak er sykdom eller sterke velferdsgrunner, og disse skal dokumenteres. Dokumentasjonen skal leveres/være poststemplet så raskt som mulig og senest innen tre virkedager etter eksamen.
 
-(5) En student har rett til å ta eksamen ved fagskolen i samme emne tre ganger. En student er å regne som møtt til eksamen om han eller hun:trekker seg etter frist for å melde seg avikke møter på eksamenikke leverer svarmøter på eksamen og trekker seg under eksamen.
+(5) En student har rett til å ta eksamen ved fagskolen i samme emne tre ganger. En student er å regne som møtt til eksamen om han eller hun:
+
+1. trekker seg etter frist for å melde seg av
+2. ikke møter på eksamen
+3. ikke leverer svar
+4. møter på eksamen og trekker seg under eksamen.
 
 (6) Studenter som ikke består siste avholdte ordinære eksamen, kan få adgang til kontinuasjonseksamen dersom det tilbys kontinuasjonseksamen i emnet.
 
@@ -500,9 +621,15 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 
 ### § 5-5. Detaljer om eksamensordningen og løpende vurdering i det enkelte studie og emne
 
-(1) Gjennomføring av eksamener og løpende vurdering:Fagskolen i Finnmark skal ha en prosedyre for utvikling, håndtering og oppbevaring av eksamensoppgaver med sensorveiledninger, samt gjennomføring av eksamen og håndtering av besvarelser. Det kan utvikles egne rutiner for skolestedene i tillegg, dersom lokale forhold krever dette.
+(1) Gjennomføring av eksamener og løpende vurdering:
 
-(2) Ekstern evaluering av vurderingsordningene jf. [lov om høyere yrkesfaglig utdanning § 21](lov/2018-06-08-28/§21) første ledd: Ved bedømmelse av muntlig eksamen, eksamen i kunstneriske, praktiske og estetiske emner som etter sin art ikke lar seg etterprøve, eller løpende vurdering, kan ordninger for ekstern evaluering være én, eller en kombinasjon av følgende:Ekstern deltagelse ved utforming av eksamensoppgaver og sensorveiledningEkstern kontroll av intern sensors vurdering av et tilfeldig utvalg kandidaterEkstern evaluering av alle vurderingsordningene som inngår i fag eller studieplanen.
+Fagskolen i Finnmark skal ha en prosedyre for utvikling, håndtering og oppbevaring av eksamensoppgaver med sensorveiledninger, samt gjennomføring av eksamen og håndtering av besvarelser. Det kan utvikles egne rutiner for skolestedene i tillegg, dersom lokale forhold krever dette.
+
+(2) Ekstern evaluering av vurderingsordningene jf. [lov om høyere yrkesfaglig utdanning § 21](lov/2018-06-08-28/§21) første ledd: Ved bedømmelse av muntlig eksamen, eksamen i kunstneriske, praktiske og estetiske emner som etter sin art ikke lar seg etterprøve, eller løpende vurdering, kan ordninger for ekstern evaluering være én, eller en kombinasjon av følgende:
+
+1. Ekstern deltagelse ved utforming av eksamensoppgaver og sensorveiledning
+2. Ekstern kontroll av intern sensors vurdering av et tilfeldig utvalg kandidater
+3. Ekstern evaluering av alle vurderingsordningene som inngår i fag eller studieplanen.
 
 ### § 5-6. Bestemmelser om eksamen og løpende vurdering for de enkelte tilbud
 
@@ -530,7 +657,11 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 
 (1) Eksamen full sensur: Rektor oppnevner en sentral sensor og faglærer som gjennomfører sensur av eksamensbesvarelser ved ordinær eksamen etter innstilling fra faglig pedagogisk leder. Dersom faglærer og ekstern sensor er uenige om karakteren beslutter ekstern sensor karakter, jf. [lov om høyere yrkesfaglig utdanning § 21](lov/2018-06-08-28/§21).
 
-(2) Det fremgår av studieplanen hvilken form for sensur som gjennomføres ved eksamen i de enkelte emner. Sensurformene kan være, jf. [lov om høyere yrkesfaglig utdanning § 21](lov/2018-06-08-28/§21):Full sensur. Innebærer at intern og ekstern sensor retter alle besvarelsene på det enkelte emne.Begrenset sensur. Ekstern sensor godkjenner eksamensoppgavene og sensorveiledningene. Intern sensor gjør all sensurering. Dokumentasjon på at ekstern sensor har godkjent eksamensoppgavene og sensorveiledningen skal være skriftlig fra ekstern sensor. Dokumentasjon skal vedlegges eksamensoppgavene når de leveres til eksamensadministrasjonen.Utvalg innebærer at ekstern sensor sensurerer utvalgte kandidaters besvarelser. For eksempel at 30 av 200 besvarelser sendes til ekstern sensor, mens samtlige besvarelser sensureres av intern sensor. Ekstern sensors vurdering brukes som kalibrering av intern sensors vurdering.
+(2) Det fremgår av studieplanen hvilken form for sensur som gjennomføres ved eksamen i de enkelte emner. Sensurformene kan være, jf. [lov om høyere yrkesfaglig utdanning § 21](lov/2018-06-08-28/§21):
+
+1. Full sensur. Innebærer at intern og ekstern sensor retter alle besvarelsene på det enkelte emne.
+2. Begrenset sensur. Ekstern sensor godkjenner eksamensoppgavene og sensorveiledningene. Intern sensor gjør all sensurering. Dokumentasjon på at ekstern sensor har godkjent eksamensoppgavene og sensorveiledningen skal være skriftlig fra ekstern sensor. Dokumentasjon skal vedlegges eksamensoppgavene når de leveres til eksamensadministrasjonen.
+3. Utvalg innebærer at ekstern sensor sensurerer utvalgte kandidaters besvarelser. For eksempel at 30 av 200 besvarelser sendes til ekstern sensor, mens samtlige besvarelser sensureres av intern sensor. Ekstern sensors vurdering brukes som kalibrering av intern sensors vurdering.
 
 (3) Løpende vurdering: Ved prøver, bedømmelser av oppgaver eller annet arbeid der resultatet inngår i vitnemålet eller innregnes i karakter for utdanningen er det faglærer(e) som gjennomfører vurdering og beslutter emnekarakter.
 
@@ -564,7 +695,15 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 
 (5) Skolen utsteder kun ett vitnemål pr. studium. En avgift påløper ved bestilling av nytt vitnemål (duplikat). Avgiftens størrelse fastsettes av styret for Fagskolen i Finnmark.
 
-(6) Vitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:Gradsbetegnelse: Fagskolegrad (30–90 studiepoeng) eller høyere fagskolegrad (120 studiepoeng), jf. [forskrift om høyere yrkesfaglig utdanning § 41](forskrift/2019-07-11-1005/§41)Det overordnede læringsutbyttetEmner og eventuell praksisKvalifikasjonsnivået som oppnås (nivå 5 i NKR og fagskole 1 eller fagskole 2)Karaktersystemet som benyttes (A–F eller bestått/ikke bestått)Antall studiepoengKarakter/karakterer.
+(6) Vitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:
+
+1. Gradsbetegnelse: Fagskolegrad (30–90 studiepoeng) eller høyere fagskolegrad (120 studiepoeng), jf. [forskrift om høyere yrkesfaglig utdanning § 41](forskrift/2019-07-11-1005/§41)
+2. Det overordnede læringsutbyttet
+3. Emner og eventuell praksis
+4. Kvalifikasjonsnivået som oppnås (nivå 5 i NKR og fagskole 1 eller fagskole 2)
+5. Karaktersystemet som benyttes (A–F eller bestått/ikke bestått)
+6. Antall studiepoeng
+7. Karakter/karakterer.
 
 (7) Tittel og omtale av hovedprosjektet eller fordypningsemne skal gå fram av vitnemålet.
 
@@ -638,13 +777,28 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake ved en sene
 
 (1) Ved klage på karakterfastsetting blir det gitt ny sensur eller ny vurdering. Se også [§ 5-3](forskrift/2024-01-05-300/§5-3) om begrunnelse for karakterfastsetting, [§ 5-3](forskrift/2024-01-05-300/§5-3) tredje ledd om klage på karakterfastsetting.
 
-(2) Den lokale klagenemnden for Fagskolen i Finnmark oppnevnes av styret og består av fem medlemmer med personlige varamedlemmer. Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere. Ingen representanter i klagenemda kan være ansatt ved fagskolen. Klagenemnda er vedtaksfør når lederen eller nestlederen, og minst to andre medlemmer er til stede. Klagenemnda skal ha slik sammensetning:leder med personlig varamedlemto medlemmer som fortrinnsvis har kompetanse innenfor opplæringsfeltet, med personlig varamedlem for beggeto studenter med personlig varamedlem.
+(2) Den lokale klagenemnden for Fagskolen i Finnmark oppnevnes av styret og består av fem medlemmer med personlige varamedlemmer. Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere. Ingen representanter i klagenemda kan være ansatt ved fagskolen. Klagenemnda er vedtaksfør når lederen eller nestlederen, og minst to andre medlemmer er til stede. Klagenemnda skal ha slik sammensetning:
 
-(3) Den lokale klagenemnden for Fagskolen i Finnmark behandler klager på enkeltvedtak som er gjort ved fagskolen. Klager som blir behandlet av den lokale klagenemnden, er som følger:formelle feil ved eksamen (som for eksempel feil ved oppgaveteksten, eksamensavvikling eller ved gjennomføring av sensur)eksamen under særskilte vilkåropptakfritak eller godskriving av emnetap av rettigheter jf. [§ 2-15](forskrift/2024-01-05-300/§2-15) og [§ 4-2](forskrift/2024-01-05-300/§4-2).
+1. leder med personlig varamedlem
+2. to medlemmer som fortrinnsvis har kompetanse innenfor opplæringsfeltet, med personlig varamedlem for begge
+3. to studenter med personlig varamedlem.
+
+(3) Den lokale klagenemnden for Fagskolen i Finnmark behandler klager på enkeltvedtak som er gjort ved fagskolen. Klager som blir behandlet av den lokale klagenemnden, er som følger:
+
+1. formelle feil ved eksamen (som for eksempel feil ved oppgaveteksten, eksamensavvikling eller ved gjennomføring av sensur)
+2. eksamen under særskilte vilkår
+3. opptak
+4. fritak eller godskriving av emne
+5. tap av rettigheter jf. [§ 2-15](forskrift/2024-01-05-300/§2-15) og [§ 4-2](forskrift/2024-01-05-300/§4-2).
 
 (4) Den lokale klagenemndens vedtak i saker om fagskolens enkeltvedtak kan ikke påklages, jf. [lov om høyere yrkesfaglig utdanning § 20](lov/2018-06-08-28/§20).
 
-(5) Nasjonal klagenemnd for fagskoleutdanning, jf. [forskrift om høyere yrkesfaglig utdanning kapittel 7](forskrift/2019-07-11-1005/kap7), er klageinstans for klager på enkeltvedtak truffet med hjemmel i [lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28).annullering av eksamenutestenging og bortvisningom utestenging etter vurdering av skikkethettap av rettigheter som følge av merknader i politiattest.
+(5) Nasjonal klagenemnd for fagskoleutdanning, jf. [forskrift om høyere yrkesfaglig utdanning kapittel 7](forskrift/2019-07-11-1005/kap7), er klageinstans for klager på enkeltvedtak truffet med hjemmel i [lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28).
+
+1. annullering av eksamen
+2. utestenging og bortvisning
+3. om utestenging etter vurdering av skikkethet
+4. tap av rettigheter som følge av merknader i politiattest.
 
 (6) Den nasjonale klagenemndas vedtak kan ikke påklages, jf. [forskrift om høyere yrkesfaglig utdanning § 45](forskrift/2019-07-11-1005/§45) fjerde ledd.
 
@@ -656,7 +810,12 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake ved en sene
 
 (3) Klage over formelle feil ved eksamen må sendes innen tre uker etter at studenten er, eller burde gjort seg, kjent med det forhold som gir grunnlag for klage.
 
-(4) Den skriftlige klagen skal inneholde:hvem som klager (navn og adresse)vedtak/forhold det klages overhva klagen gjelderdato og underskrift(er).
+(4) Den skriftlige klagen skal inneholde:
+
+1. hvem som klager (navn og adresse)
+2. vedtak/forhold det klages over
+3. hva klagen gjelder
+4. dato og underskrift(er).
 
 ### § 8-3. Klage på løpende vurdering
 
@@ -696,7 +855,13 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake ved en sene
 
 (6) Klage skal besvares senest innen tre uker. Dersom klagebehandlingen tar lengre tid, skal den som klager, underrettes om dette skriftlig.
 
-(7) En klage må inneholde:klagers navn og adressehenvisning til vedtaket det klages overhva klagen gjelder og begrunnelse for denneangivelse av den endring som ønskes i det vedtak det klages overdato og underskrift(er).
+(7) En klage må inneholde:
+
+1. klagers navn og adresse
+2. henvisning til vedtaket det klages over
+3. hva klagen gjelder og begrunnelse for denne
+4. angivelse av den endring som ønskes i det vedtak det klages over
+5. dato og underskrift(er).
 
 ### § 8-6. Klage på disiplinære sanksjoner
 

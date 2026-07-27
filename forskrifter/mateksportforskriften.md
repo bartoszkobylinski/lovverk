@@ -40,7 +40,16 @@ Bestemmelsene i kapittel 3 gjelder kun for virksomheter som håndterer næringsm
 
 ### § 3. Definisjoner
 
-I forskriften menes med*eksportparti*: ett vareparti eller flere som føres samlet ut av landet*eksportør*: enhver som er juridisk ansvarlig for utførsel av varer og/eller dyr som omfattes av denne forskriften*helsesertifikat*: dokument utstedt av Mattilsynet overfor kompetent myndighet i importlandet, for et bestemt eksportparti fra en eller flere angitte produsenter*særkrav*: krav som settes som vilkår for import av et importland, og som ikke er omfattet av norsk regelverk*særskilte vilkår*: vilkår som utelukker produktet fra å kunne omsettes i EØS, jf. kapittel 3*erstatningssertifikat*: et helsesertifikat som av ulike årsaker erstatter et allerede utstedt sertifikat*egenerklæring*: en bekreftelse overfor Mattilsynet på at særkrav er oppfylt*listeført*: å være oppført på et importlands liste over produsenter eller produsenter og produkter, som landet har godkjent for import, jf. [§ 5](forskrift/2020-06-18-1547/§5) første ledd.
+I forskriften menes med
+
+1. *eksportparti*: ett vareparti eller flere som føres samlet ut av landet
+2. *eksportør*: enhver som er juridisk ansvarlig for utførsel av varer og/eller dyr som omfattes av denne forskriften
+3. *helsesertifikat*: dokument utstedt av Mattilsynet overfor kompetent myndighet i importlandet, for et bestemt eksportparti fra en eller flere angitte produsenter
+4. *særkrav*: krav som settes som vilkår for import av et importland, og som ikke er omfattet av norsk regelverk
+5. *særskilte vilkår*: vilkår som utelukker produktet fra å kunne omsettes i EØS, jf. kapittel 3
+6. *erstatningssertifikat*: et helsesertifikat som av ulike årsaker erstatter et allerede utstedt sertifikat
+7. *egenerklæring*: en bekreftelse overfor Mattilsynet på at særkrav er oppfylt
+8. *listeført*: å være oppført på et importlands liste over produsenter eller produsenter og produkter, som landet har godkjent for import, jf. [§ 5](forskrift/2020-06-18-1547/§5) første ledd.
 
 ## Kapittel 2 – Generelle bestemmelser
 
@@ -94,7 +103,10 @@ Mattilsynet avgjør om et helsesertifikat utstedes på papir, elektronisk eller 
 
 Som hovedregel skal Mattilsynet be om oppdatering av importlandets lister i form av fjerning, endring eller ny oppføring av virksomhet eller produkt, i regulære oversendelser i henhold til avtaler mellom myndighetene.
 
-Mattilsynet kan be om at en virksomhet eller et produkt fjernes fra listen nårbetingelsene for eksport til landet ikke lenger overholdes, ellervirksomheten selv ikke lenger ønsker å være listeført for eksport til landet.
+Mattilsynet kan be om at en virksomhet eller et produkt fjernes fra listen når
+
+1. betingelsene for eksport til landet ikke lenger overholdes, eller
+2. virksomheten selv ikke lenger ønsker å være listeført for eksport til landet.
 
 ### § 10. Varslingsplikt og erstatningssertifikat
 
@@ -118,11 +130,18 @@ Mattilsynet skal varsle importlandet om tilbakekalte helsesertifikater som ikke 
 
 ### § 12. Produksjon og eksport av næringsmidler og fôrvarer på særskilte vilkår
 
-Næringsmidler og fôrvarer som produseres og eksporteres, skal oppfylle de relevante kravene i næringsmiddelregelverket med mindre:noe annet kreves av myndighetene i importlandet eller er fastsatt i lover, forskrifter, standarder, regler for god praksis og andre rettslige og forvaltningsmessige framgangsmåter i importlandet, og virksomheten kan dokumentere dette, ellermyndighetene i importlandet uttrykkelig aksepterer næringsmidlene eller fôrvarene, er kjent med hvorfor de ikke kan omsettes i EØS, og næringsmidlene ikke er helseskadelige og fôrvarene er trygge.
+Næringsmidler og fôrvarer som produseres og eksporteres, skal oppfylle de relevante kravene i næringsmiddelregelverket med mindre:
+
+1. noe annet kreves av myndighetene i importlandet eller er fastsatt i lover, forskrifter, standarder, regler for god praksis og andre rettslige og forvaltningsmessige framgangsmåter i importlandet, og virksomheten kan dokumentere dette, eller
+2. myndighetene i importlandet uttrykkelig aksepterer næringsmidlene eller fôrvarene, er kjent med hvorfor de ikke kan omsettes i EØS, og næringsmidlene ikke er helseskadelige og fôrvarene er trygge.
 
 ### § 13. Tilleggsvilkår
 
-I tillegg til vilkårene i [§ 12](forskrift/2020-06-18-1547/§12) skal følgende vilkår være oppfylt:Næringsmiddelet eller fôrvaren skal ikke være trukket tilbake fra markedet i EØS.Næringsmidler og fôrvarer skal under produksjon og lagring holdes adskilt fra næringsmidler og fôrvarer som skal omsettes i EØS-markedet.Virksomheten skal ha rutiner for å sikre at næringsmidlene og fôrvarene eksporteres til mottakerlandet.
+I tillegg til vilkårene i [§ 12](forskrift/2020-06-18-1547/§12) skal følgende vilkår være oppfylt:
+
+1. Næringsmiddelet eller fôrvaren skal ikke være trukket tilbake fra markedet i EØS.
+2. Næringsmidler og fôrvarer skal under produksjon og lagring holdes adskilt fra næringsmidler og fôrvarer som skal omsettes i EØS-markedet.
+3. Virksomheten skal ha rutiner for å sikre at næringsmidlene og fôrvarene eksporteres til mottakerlandet.
 
 ### § 14. Merking
 
@@ -148,4 +167,7 @@ Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i 
 
 ### § 19. Ikrafttredelse
 
-Forskriften trer i kraft 15. juli 2020. Fra samme tidspunkt oppheves:[forskrift 28. juni 2013 nr. 844](forskrift/2013-06-28-844) om kvalitet på fisk og fiskevarer [§ 36](forskrift/2013-06-28-844/§36) og [§ 37](forskrift/2013-06-28-844/§37), og[forskrift 31. august 2018 nr. 1319](forskrift/2018-08-31-1319) om produksjon og eksport av næringsmidler og fôrvarer til land utenfor EØS på særskilte vilkår.
+Forskriften trer i kraft 15. juli 2020. Fra samme tidspunkt oppheves:
+
+1. [forskrift 28. juni 2013 nr. 844](forskrift/2013-06-28-844) om kvalitet på fisk og fiskevarer [§ 36](forskrift/2013-06-28-844/§36) og [§ 37](forskrift/2013-06-28-844/§37), og
+2. [forskrift 31. august 2018 nr. 1319](forskrift/2018-08-31-1319) om produksjon og eksport av næringsmidler og fôrvarer til land utenfor EØS på særskilte vilkår.

@@ -15,7 +15,7 @@ xml_hash: "0602b7321081e4fbd14c9dd07b44b5e86dda743174796ef93f78b49ca5459510"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,13 @@ Kongen kan gi forskrift om lovens anvendelse på Svalbard og Jan Mayen, og kan f
 
 ### § 3. Definisjoner
 
-I denne lov menes med:*elsertifikat*: et bevis utstedt av staten for at det er produsert en megawattime fornybar elektrisk energi i henhold til denne lov*elsertifikatberettiget*: innehaveren av et produksjonsanlegg som har rett til elsertifikater dersom vilkårene i [kapittel 2](lov/2011-06-24-39/kap2) er oppfylt*elsertifikatplikt*: plikt til per 1. april hvert år å inneha et visst antall elsertifikater for annullering i samsvar med denne lov*produksjonsanlegg*: en innretning for produksjon av elektrisk energi*registeransvarlig*: den enhet som er utpekt etter [§ 11](lov/2011-06-24-39/§11) som ansvarlig for å utstede elsertifikater, samt utvikle og drive et elektronisk register for elsertifikater
+I denne lov menes med:
+
+1. *elsertifikat*: et bevis utstedt av staten for at det er produsert en megawattime fornybar elektrisk energi i henhold til denne lov
+2. *elsertifikatberettiget*: innehaveren av et produksjonsanlegg som har rett til elsertifikater dersom vilkårene i [kapittel 2](lov/2011-06-24-39/kap2) er oppfylt
+3. *elsertifikatplikt*: plikt til per 1. april hvert år å inneha et visst antall elsertifikater for annullering i samsvar med denne lov
+4. *produksjonsanlegg*: en innretning for produksjon av elektrisk energi
+5. *registeransvarlig*: den enhet som er utpekt etter [§ 11](lov/2011-06-24-39/§11) som ansvarlig for å utstede elsertifikater, samt utvikle og drive et elektronisk register for elsertifikater
 
 ### § 4. Elsertifikatenes funksjonstid
 
@@ -52,17 +58,32 @@ Departementet kan i forskrift fastsette nærmere regler om anvendelsen av utenla
 
 ### § 6. Rett til elsertifikater
 
-Innehaveren av produksjonsanlegg er elsertifikatberettiget dersom produksjonsanlegget:produserer elektrisk energi basert på fornybare energikilder etter [§ 7](lov/2011-06-24-39/§7),er godkjent etter [§ 8](lov/2011-06-24-39/§8) ogoppfyller krav til måling og rapportering etter [§ 9](lov/2011-06-24-39/§9).
+Innehaveren av produksjonsanlegg er elsertifikatberettiget dersom produksjonsanlegget:
+
+1. produserer elektrisk energi basert på fornybare energikilder etter [§ 7](lov/2011-06-24-39/§7),
+2. er godkjent etter [§ 8](lov/2011-06-24-39/§8) og
+3. oppfyller krav til måling og rapportering etter [§ 9](lov/2011-06-24-39/§9).
 
 ### § 7. Produksjon fra fornybare energikilder
 
-Elsertifikater utstedes for produksjon av elektrisk energi basert på fornybare energikilder, herunder:vannkraftvindkraftsolenergihavenergigeotermisk energibioenergi
+Elsertifikater utstedes for produksjon av elektrisk energi basert på fornybare energikilder, herunder:
+
+1. vannkraft
+2. vindkraft
+3. solenergi
+4. havenergi
+5. geotermisk energi
+6. bioenergi
 
 Departementet kan i forskrift fastsette nærmere regler om hva som anses som fornybare energikilder.
 
 ### § 8. Godkjenning av produksjonsanlegg
 
-Departementet skal etter skriftlig søknad fra innehaveren godkjenne produksjonsanlegg som kvalifiserer for rett til elsertifikater. Produksjonsanlegget må:ha hatt byggestart etter 7. september 2009,være et vannkraftverk som hadde byggestart etter 1. januar 2004, ellervarig øke sin energiproduksjon med byggestart etter 7. september 2009.
+Departementet skal etter skriftlig søknad fra innehaveren godkjenne produksjonsanlegg som kvalifiserer for rett til elsertifikater. Produksjonsanlegget må:
+
+1. ha hatt byggestart etter 7. september 2009,
+2. være et vannkraftverk som hadde byggestart etter 1. januar 2004, eller
+3. varig øke sin energiproduksjon med byggestart etter 7. september 2009.
 
 Produksjonsanlegg som nevnt i første ledd bokstav c skal godkjennes for så vidt gjelder økningen i produksjonen som følge av en investering.
 
@@ -142,7 +163,12 @@ Departementet kan i forskrift fastsette nærmere regler om pant i elsertifikater
 
 En registrert rettighet går foran en rettighet som ikke er registrert eller som er registrert på et senere tidspunkt.
 
-En eldre rettighet går uten hensyn til første ledd foran en yngre rettighet, dersom:den yngre rettigheten bygger på avtale og erververen av den yngre rettigheten ved registreringen kjente eller burde kjent til den eldre rettigheten, ellerden yngre rettigheten er ervervet ved arv.1 Når en rettighet som er ervervet ved avtale er registrert, kan det ikke gjøres gjeldende mot kjøper at selgerens rett ikke var i samsvar med elsertifikatregisterets innhold. Dette gjelder ikke dersom kjøperen var eller burde være kjent med selgerens manglende rett da kjøpet ble registrert, eller ved konflikter mellom kolliderende rettigheter som nevnt i første og annet ledd.
+En eldre rettighet går uten hensyn til første ledd foran en yngre rettighet, dersom:
+
+1. den yngre rettigheten bygger på avtale og erververen av den yngre rettigheten ved registreringen kjente eller burde kjent til den eldre rettigheten, eller
+2. den yngre rettigheten er ervervet ved arv.
+
+   1 Når en rettighet som er ervervet ved avtale er registrert, kan det ikke gjøres gjeldende mot kjøper at selgerens rett ikke var i samsvar med elsertifikatregisterets innhold. Dette gjelder ikke dersom kjøperen var eller burde være kjent med selgerens manglende rett da kjøpet ble registrert, eller ved konflikter mellom kolliderende rettigheter som nevnt i første og annet ledd.
 
 1 Inkurie: Skulle ha vært tredje ledd.
 
@@ -158,19 +184,30 @@ Departementet kan i forskrift fastsette nærmere regler om innhenting og offentl
 
 ### § 16. Hvem som har elsertifikatplikt
 
-Følgende er elsertifikatpliktige:enhver som leverer elektrisk energi til sluttbruker,enhver som forbruker elektrisk energi som er egenprodusert, ogenhver som kjøper elektrisk energi til eget forbruk på den nordiske kraftbørsen eller gjennom bilateral avtale.
+Følgende er elsertifikatpliktige:
+
+1. enhver som leverer elektrisk energi til sluttbruker,
+2. enhver som forbruker elektrisk energi som er egenprodusert, og
+3. enhver som kjøper elektrisk energi til eget forbruk på den nordiske kraftbørsen eller gjennom bilateral avtale.
 
 I tilfeller hvor kjøperen er elsertifikatpliktig etter bokstav c, er ikke selgeren elsertifikatpliktig.
 
 ### § 17. Årlige elsertifikatkvoter
 
-Den årlige elsertifikatkvoten for den elsertifikatpliktige er et forholdstall som fastsettes av departementet i forskrift på følgende måte:Elsertifikatkvoter fastsettes for hvert år fram til 2035 basert på anslag for beregningsrelevant mengde elektrisk energi.Elsertifikatkvotene fastsettes med sikte på at det annulleres elsertifikater utstedt til godkjente anlegg som er satt i drift fra og med 1. januar 2012 tilsvarende 13,2 TWh i 2020, og tilsvarende 198 TWh totalt for perioden fra og med 1. januar 2012 til og med 31. desember 2035.Elsertifikatkvotene fastsettes med sikte på at det annulleres et antall elsertifikater tilsvarende den samlede mengden elsertifikater utstedt til godkjente anlegg som er satt i drift før 1. januar 2012.
+Den årlige elsertifikatkvoten for den elsertifikatpliktige er et forholdstall som fastsettes av departementet i forskrift på følgende måte:
+
+1. Elsertifikatkvoter fastsettes for hvert år fram til 2035 basert på anslag for beregningsrelevant mengde elektrisk energi.
+2. Elsertifikatkvotene fastsettes med sikte på at det annulleres elsertifikater utstedt til godkjente anlegg som er satt i drift fra og med 1. januar 2012 tilsvarende 13,2 TWh i 2020, og tilsvarende 198 TWh totalt for perioden fra og med 1. januar 2012 til og med 31. desember 2035.
+3. Elsertifikatkvotene fastsettes med sikte på at det annulleres et antall elsertifikater tilsvarende den samlede mengden elsertifikater utstedt til godkjente anlegg som er satt i drift før 1. januar 2012.
 
 > Endret ved [lover 19 juni 2015 nr. 79](lov/2015-06-19-79) (ikr. 1 jan 2016 iflg. [res. 19 juni 2015 nr. 664](forskrift/2015-06-19-664)), [21 juni 2017 nr. 100](lov/2017-06-21-100) (ikr. 1 jan 2018 iflg. [res. 21 juni 2017 nr. 830](forskrift/2017-06-21-830)).
 
 ### § 17 a. Justerte elsertifikatkvoter
 
-Departementet skal minst hvert annet år gi forskrift om justerte elsertifikatkvoter etter [§ 17](lov/2011-06-24-39/§17) dersom det er nødvendig som følge av ny kunnskap omproduksjon fra anlegg som er satt i drift før 1. januar 2012, ellerberegningsrelevant mengde elektrisk energi.
+Departementet skal minst hvert annet år gi forskrift om justerte elsertifikatkvoter etter [§ 17](lov/2011-06-24-39/§17) dersom det er nødvendig som følge av ny kunnskap om
+
+1. produksjon fra anlegg som er satt i drift før 1. januar 2012, eller
+2. beregningsrelevant mengde elektrisk energi.
 
 Justeringer som følge av ny kunnskap om årene før ikrafttredelsen av justerte elsertifikatkvoter, skal innarbeides i kvotene for neste år eller de to neste årene. Justeringer kan likevel fordeles over inntil fire år dersom en justering over ett eller to år vil være uforholdsmessig stor. Justeringer etter første og annet punktum skal fordeles jevnt over de aktuelle årene, med mindre det av særlige grunner bør gjøres unntak.
 
@@ -244,7 +281,14 @@ Departementet kan fatte vedtak om tvangsmulkt etter reglene i [forvaltningsloven
 
 ### § 26. Overtredelsesgebyr
 
-Departementet kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomtgir uriktige eller villedende opplysninger i søknad om godkjenning av produksjonsanlegg eller unnlater å gi opplysninger etter [§ 8](lov/2011-06-24-39/§8),gir uriktige eller villedende opplysninger om forhold som ligger til grunn for utstedelse av elsertifikater etter [§§ 9](lov/2011-06-24-39/§9) og [10](lov/2011-06-24-39/§10),gir uriktige eller villedende opplysninger etter [§§ 12](lov/2011-06-24-39/§12) eller [15](lov/2011-06-24-39/§15) ved salg av elsertifikater,overtrer bestemmelser om oppbevaring av dokumentasjon etter [§ 10](lov/2011-06-24-39/§10) sjette ledd eller [§ 20](lov/2011-06-24-39/§20) tredje ledd,overtrer bestemmelsene om elsertifikatplikt i [§§ 19](lov/2011-06-24-39/§19), [20](lov/2011-06-24-39/§20) eller [22](lov/2011-06-24-39/§22), ellerovertrer vedtak truffet etter [§ 18](lov/2011-06-24-39/§18) eller [§ 23](lov/2011-06-24-39/§23).
+Departementet kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomt
+
+1. gir uriktige eller villedende opplysninger i søknad om godkjenning av produksjonsanlegg eller unnlater å gi opplysninger etter [§ 8](lov/2011-06-24-39/§8),
+2. gir uriktige eller villedende opplysninger om forhold som ligger til grunn for utstedelse av elsertifikater etter [§§ 9](lov/2011-06-24-39/§9) og [10](lov/2011-06-24-39/§10),
+3. gir uriktige eller villedende opplysninger etter [§§ 12](lov/2011-06-24-39/§12) eller [15](lov/2011-06-24-39/§15) ved salg av elsertifikater,
+4. overtrer bestemmelser om oppbevaring av dokumentasjon etter [§ 10](lov/2011-06-24-39/§10) sjette ledd eller [§ 20](lov/2011-06-24-39/§20) tredje ledd,
+5. overtrer bestemmelsene om elsertifikatplikt i [§§ 19](lov/2011-06-24-39/§19), [20](lov/2011-06-24-39/§20) eller [22](lov/2011-06-24-39/§22), eller
+6. overtrer vedtak truffet etter [§ 18](lov/2011-06-24-39/§18) eller [§ 23](lov/2011-06-24-39/§23).
 
 Ved avgjørelse av om overtredelsesgebyr skal ilegges og ved individuell utmåling av gebyret, skal det særlig legges vekt på momentene i [forvaltningsloven § 44](lov/1967-02-10/§44) tredje ledd og om det foreligger gjentagelse.
 

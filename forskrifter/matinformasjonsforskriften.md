@@ -17,7 +17,7 @@ xml_hash: "5e19be7aad83212e4c1001daecf3816415af9cc76b6e59dd461d2993b37af31b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,9 +66,15 @@ Ferdigpakkede epler, pærer, plommer, kirsebær og jordbær skal merkes med oppl
 
 ### § 4. Krav til matinformasjon om genmodifiserte næringsmidler som er ferdigpakket eller ikke ferdigpakket
 
-Genmodifiserte næringsmidler, herunder tilsetningsstoffer og aromastoffer, skal i varebetegnelsen eller i tilknytning til den aktuelle ingrediensen, merkes med enten «genmodifisert» eller «produsert fra genmodifisert [navn på organismen]» når:næringsmidlet består av eller inneholder genmodifiserte organismer ellernæringsmidlet er produsert fra, men ikke inneholder genmodifiserte organismer. Merkeplikten gjelder også for genmodifiserte næringsmidler, tilsetningsstoffer og aromastoffer hvor DNA og protein som stammer fra genmodifiseringen, ikke kan påvises.
+Genmodifiserte næringsmidler, herunder tilsetningsstoffer og aromastoffer, skal i varebetegnelsen eller i tilknytning til den aktuelle ingrediensen, merkes med enten «genmodifisert» eller «produsert fra genmodifisert [navn på organismen]» når:
 
-Merkeplikten etter første ledd gjelder ikke:ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale i et produkt under 0,9 prosent ellerprodukter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materialet, herunder genmodifiserte tekniske hjelpestoffer og næringsmidler som er behandlet med genmodifiserte tekniske hjelpestoffer.
+1. næringsmidlet består av eller inneholder genmodifiserte organismer eller
+2. næringsmidlet er produsert fra, men ikke inneholder genmodifiserte organismer. Merkeplikten gjelder også for genmodifiserte næringsmidler, tilsetningsstoffer og aromastoffer hvor DNA og protein som stammer fra genmodifiseringen, ikke kan påvises.
+
+Merkeplikten etter første ledd gjelder ikke:
+
+1. ved utilsiktet eller teknisk uunngåelig tilstedeværelse av genmodifisert materiale i et produkt under 0,9 prosent eller
+2. produkter som er fremstilt ved hjelp av genmodifiserte organismer, men hvor sluttproduktet ikke inneholder materiale fra det opprinnelige genmodifiserte materialet, herunder genmodifiserte tekniske hjelpestoffer og næringsmidler som er behandlet med genmodifiserte tekniske hjelpestoffer.
 
 Genmodifiserte næringsmidler som ikke er ferdigpakket, skal ledsages av opplysninger som bestemt i første og annet ledd.
 
@@ -124,7 +130,67 @@ under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité
 
 etter den ordinære regelverksprosessen,2 og
 
-ut fra følgende betraktninger:Ved artikkel 169 i traktaten om Den europeiske unions virkemåte (TEUV) er det fastsatt at Unionen skal bidra til at det oppnås et høyt nivå for forbrukervern ved de tiltak som den vedtar i henhold til traktatens artikkel 114.Fritt varebytte for trygge og sunne næringsmidler er en nødvendig del av det indre marked, og bidrar i høy grad til å verne borgernes helse og velferd og deres sosiale og økonomiske interesser.For å oppnå et høyt helsevernnivå for forbrukerne og sikre deres rett til informasjon bør det sørges for at de får hensiktsmessige opplysninger om næringsmidlene de inntar. Forbrukernes valg kan påvirkes av blant annet helsemessige, økonomiske, miljømessige, sosiale og etiske forhold.I henhold til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet3 skal næringsmiddelregelverket generelt gi forbrukerne et grunnlag for å foreta velbegrunnede valg med hensyn til de næringsmidlene de inntar og forhindre enhver praksis som kan villede forbrukerne.Europaparlaments- og rådsdirektiv [2005/29/EF](eu/32005l0029) av 11. mai 2005 om foretaks urimelige handelspraksis overfor forbrukere på det indre marked4 omfatter visse sider ved formidling av forbrukeropplysninger, særlig når det gjelder å forhindre villedende handlinger og utelatelse av opplysninger. De allmenne prinsippene om urimelig handelspraksis bør utfylles med særlige bestemmelser om næringsmiddelopplysninger til forbrukerne.Unionsreglene for merking av alle næringsmidler er fastsatt i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler.5 De fleste bestemmelsene fastsatt i nevnte direktiv er fra 1978 og bør derfor ajourføres.Ved rådsdirektiv [90/496/EØF](eu/31990l0496) av 24. september 1990 om deklarasjon av næringsinnhold i næringsmidler6 er det fastsatt regler for innholdet i og presentasjonen av opplysninger om næringsinnhold på ferdigpakkede næringsmidler. I henhold til disse reglene er det frivillig å angi opplysninger om næringsinnholdet, med mindre det framsettes en ernæringsmessig påstand om næringsmiddelet. De fleste bestemmelsene fastsatt i nevnte direktiv er fra 1990 og bør derfor ajourføres.De alminnelige merkingskravene utfylles av en rekke bestemmelser som gjelder for alle næringsmidler under visse omstendigheter eller for visse næringsmiddelkategorier. Dessuten finnes det en rekke særregler som gjelder for visse næringsmidler.Selv om de opprinnelige målene og sentrale delene i det nåværende regelverket for merking fremdeles er gyldige, er det nødvendig å forenkle regelverket for å sikre enklere overholdelse og større klarhet for de berørte parter og å modernisere det slik at det tas hensyn til ny utvikling når det gjelder næringsmiddelopplysninger. Denne forordning tjener det indre markeds interesser ved at den forenkler reglene, sikrer rettssikkerheten og reduserer den administrative byrden, samtidig som den gagner borgerne ved å kreve klar, forståelig og lesbar merking av næringsmidler.Offentligheten interesserer seg for sammenhengen mellom kosthold og helse og for valget av et egnet kosthold som passer den enkeltes behov. I Kommisjonens hvitbok av 30. mai 2007 om en europeisk strategi for ernærings-, overvekts- og fedmerelaterte helsespørsmål («Kommisjonens hvitbok») påpekes det at deklarasjon av næringsinnhold er en viktig metode for å informere forbrukerne om næringsmidlenes sammensetning og hjelpe dem til å foreta velbegrunnede valg. I kommisjonsmeldingen av 13. mars 2007 «EUs strategi for forbrukerpolitikk 2007–2013 – sterkere forbrukere, høyere forbrukervelferd og effektivt forbrukervern» understrekes det at forbrukernes mulighet til å foreta velbegrunnede valg er avgjørende både for effektiv konkurranse og forbrukervelferd. Kunnskap om grunnleggende ernæringsprinsipper og relevante opplysninger om næringsinnhold på næringsmidler vil gjøre det enklere for forbrukerne å foreta slike velbegrunnede valg. Utdannings- og opplysningskampanjer er viktige verktøy for å forbedre forbrukernes forståelse av næringsmiddelopplysninger.For å øke rettssikkerheten og sikre rasjonell og konsekvent håndheving bør direktiv [90/496/EØF](eu/31990l0496) og [2000/13/EF](eu/32000l0013*) oppheves og erstattes med én enkelt forordning som gir sikkerhet for forbrukerne og andre berørte parter og reduserer den administrative byrden.Av klarhetshensyn bør andre horisontale rettsakter oppheves og innarbeides i denne forordning, nærmere bestemt kommisjonsdirektiv [87/250/EØF](eu/31987l0250) av 15. april 1987 om angivelse av alkoholinnhold i volumprosent ved merking av alkoholholdige drikkevarer beregnet på salg til den endelige forbruker,7 kommisjonsdirektiv [1999/10/EF](eu/31999l0010) av 8. mars 1999 om fastsetjing av unntak frå føresegnene i artikkel 7 i rådsdirektiv [79/112/EØF](eu/31979l0112) med omsyn til merking av næringsmiddel,8 kommisjonsdirektiv [2002/67/EF](eu/32002l0067) av 18. juli 2002 om merking av næringsmiddel som inneheld kinin og næringsmiddel som inneheld koffein,9 kommisjonsforordning [(EF) nr. 608/2004](eu/32004r0608) av 31. mars 2004 om merking av næringsmidler og næringsmiddelingredienser tilsatt fytosteroler, fytosterolestere, fytostanoler og/eller fytostanolestere10 og kommisjonsdirektiv [2008/5/EF](eu/32008l0005) av 30. januar 2008 om angivelse på etiketten til visse næringsmidler av andre obligatoriske opplysninger enn dem som er fastsatt i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*).11Det er nødvendig å fastsette felles definisjoner, prinsipper, krav og framgangsmåter for å skape en tydelig ramme og et felles grunnlag for unionstiltak og nasjonale tiltak som gjelder næringsmiddelopplysninger.For at forbrukerne skal få fullstendige opplysninger i tråd med utviklingen om næringsmidlene de inntar, bør det finnes en bred definisjon av regelverket for næringsmiddelopplysninger som omfatter både allmenne og særlige regler, samt en bred definisjon av næringsmiddelopplysninger som også omfatter opplysninger som formidles på andre måter enn via etiketten.Unionsreglene bør få anvendelse bare på foretak hvis virksomhet innebærer en viss kontinuitet og en viss grad av organisering. Virksomhet som privatpersoners sporadiske håndtering og levering av næringsmidler, servering av måltider og salg av næringsmidler, for eksempel på veldedighetsarrangementer eller lokale markeder og sammenkomster, bør ikke omfattes av denne forordnings virkeområde.Regelverket for næringsmiddelopplysninger bør være tilstrekkelig fleksibelt til å holde tritt med forbrukernes nye informasjonskrav og sikre likevekt mellom vern av det indre marked og forskjeller i forbrukernes oppfatninger i medlemsstatene.Hovedbegrunnelsen for å kreve obligatoriske næringsmiddelopplysninger bør være å gjøre forbrukerne i stand til å identifisere et næringsmiddel og anvende det på passende måte samt å foreta valg som passer deres individuelle ernæringsmessige behov. For dette formål bør driftsansvarlige for næringsmiddelforetak sørge for å gjøre slike opplysninger lettere tilgjengelige også for synshemmede personer.For at regelverket for næringsmiddelopplysninger skal kunne tilpasses endringer i forbrukernes informasjonsbehov, bør det når det vurderes om opplysningene om et næringsmiddel skal være obligatoriske, også tas hensyn til den åpenlyse interessen som flertallet av forbrukerne har av at visse opplysninger framlegges.Nye obligatoriske krav til næringsmiddelopplysninger bør likevel fastsettes bare dersom det er nødvendig, og i samsvar med nærhetsprinsippet, forholdsmessighetsprinsippet og prinsippet om bærekraft.Regelverket for næringsmiddelopplysninger bør omfatte et forbud mot å villede forbrukerne, særlig når det gjelder et næringsmiddels kjennetegn, virkninger eller egenskaper, eller mot å tillegge et næringsmiddel medisinske egenskaper. For at forbudet skal være effektivt, bør det også omfatte reklame for og presentasjon av næringsmidler.For å forhindre en oppstykking av reglene for det ansvaret de driftsansvarlige for næringsmiddelforetak har når det gjelder næringsmiddelopplysninger, bør deres ansvar på dette området klargjøres. Denne klargjøringen bør være i samsvar med det ansvaret overfor forbrukerne som er omhandlet i artikkel 17 i forordning [(EF) nr. 178/2002](eu/32002r0178).Det bør utarbeides en liste over alle obligatoriske opplysninger som i prinsippet bør angis for alle næringsmidler beregnet på sluttforbrukeren og storhusholdninger. Listen bør fortsatt inneholde de opplysningene som allerede er påkrevd i henhold til Unionens eksisterende regelverk, tatt i betraktning at dette i alminnelighet anses som et verdifullt regelverk for forbrukeropplysning.For å ta hensyn til endringer og utvikling på området næringsmiddelopplysninger bør Kommisjonen få myndighet til å fastsette at visse opplysninger kan gjøres tilgjengelige på alternative måter. Høring av berørte parter bør fremme raske og målrettede endringer av krav til næringsmiddelopplysninger.Visse ingredienser eller andre stoffer eller produkter (som tekniske hjelpestoffer) som brukes ved framstilling av næringsmidler og fortsatt finnes i dem, kan forårsake allergier eller intoleranser hos noen personer, og noen av disse allergiene eller intoleransene utgjør en fare for helsen til de berørte personene. Det er viktig at det gis opplysninger om forekomsten av tilsetningsstoffer, tekniske hjelpestoffer og andre stoffer eller produkter med vitenskapelig påvist allergi- eller intoleranseframkallende virkning, slik at forbrukerne, særlig de som lider av næringsmiddelallergi eller næringsmiddelintoleranse, kan foreta velbegrunnede valg som er trygge for dem.For å informere forbrukerne om forekomsten av industrielt framstilte nanomaterialer i næringsmidler bør det fastsettes en definisjon av industrielt framstilte nanomaterialer. Med tanke på at næringsmidler som inneholder eller består av industrielt framstilte nanomaterialer, kan være nye næringsmidler, bør spørsmålet om hensiktsmessige rettslige rammer for en slik definisjon tas opp i forbindelse med den kommende gjennomgåelsen av europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) av 27. januar 1997 om nye næringsmidler og nye næringsmiddelingredienser.12Etiketter på næringsmidler bør være tydelige og forståelige, slik at de er til hjelp for forbrukere som ønsker å ta mer velbegrunnede næringsmiddels- og kostvalg. Undersøkelser viser at god lesbarhet er av stor betydning for hvor sterkt publikum påvirkes av opplysningene på etiketter, og at uleselige produktopplysninger er en av hovedårsakene til forbrukernes misnøye med etiketter på næringsmidler. Det bør derfor utarbeides en overordnet strategi for å ta hensyn til alle aspekter som gjelder lesbarhet, herunder skrifttype, farge og kontrast.For å sikre at næringsmiddelopplysninger blir gitt, må det tas hensyn til alle måter forbrukere får næringsmidler på, herunder salg av næringsmidler via fjernkommunikasjon. Selv om det er klart at ethvert næringsmiddel som leveres via fjernsalg, bør oppfylle de samme opplysningskravene som næringsmidler som selges i butikker, må det presiseres at relevante obligatoriske næringsmiddelopplysninger også i slike tilfeller bør være tilgjengelige før kjøpet avsluttes.Teknologien som anvendes til innfrysing av næringsmidler, har de siste tiårene gjennomgått en betydelig utvikling og anvendes nå i stor utstrekning både for å forbedre omsetningen av varer på Unionens indre marked og for å redusere risikoen med hensyn til næringsmiddeltryggheten. Innfrysing og påfølgende opptining av visse næringsmidler, særlig kjøtt- og fiskeprodukter, begrenser imidlertid den videre bruken av dem, og kan også ha en innvirkning på deres trygghet, smak og fysiske kvalitet. På andre produkter, særlig smør, har innfrysing derimot ingen slik innvirkning. Derfor bør sluttforbrukeren få korrekt informasjon om tilstanden til næringsmidler som har blitt opptint.Opplysninger om et næringsmiddels opprinnelsesstat eller opphavssted bør angis dersom fravær av slike opplysninger kan villede forbrukerne med hensyn til næringsmiddelets virkelige opprinnelsesstat eller opphavssted. Opplysninger om opprinnelsesstat eller opphavssted bør alltid angis på en måte som ikke villeder forbrukerne, og på grunnlag av klart definerte kriterier som sikrer like vilkår for bransjen og gjør det enklere for forbrukerne å forstå opplysningene om et næringsmiddels opprinnelsesstat eller opphavssted. Disse kriteriene bør ikke gjelde for opplysninger knyttet til navnet eller adressen til den driftsansvarlige for næringsmiddelforetaket.I noen tilfeller kan driftsansvarlige for næringsmiddelforetak på frivillig grunnlag ønske å angi et næringsmiddels opprinnelse for å gjøre forbrukerne oppmerksomme på produktets kvaliteter. Slike opplysninger bør også være i samsvar med harmoniserte kriterier.Som følge av krisen med bovin spongiform encefalopati er opprinnelsesangivelse for tiden obligatorisk for storfekjøtt og produkter av storfekjøtt13 i Unionen, og dette har skapt forventninger hos forbrukerne. Kommisjonens konsekvensanalyse bekrefter at kjøttets opprinnelse ser ut til å være et hovedanliggende for forbrukerne. Det finnes andre typer kjøtt som det er et stort forbruk av i Unionen, som svinekjøtt, sauekjøtt, geitekjøtt og fjørfekjøtt. Det bør derfor innføres obligatorisk opprinnelsesangivelse for disse produktene. De særlige kravene til opprinnelse kan variere fra én type kjøtt til en annen avhengig av dyreartens kjennetegn. Det bør i form av gjennomføringsregler fastsettes obligatoriske krav som kan variere fra én type kjøtt til en annen, idet det tas hensyn til forholdsmessighetsprinsippet og den administrative byrden for driftsansvarlige for næringsmiddelforetak og håndhevende myndigheter.Bestemmelser om obligatorisk angivelse av opprinnelse har blitt utviklet på grunnlag av vertikale metoder, for eksempel for honning,14 frukt og grønnsaker,15 fisk,16 storfekjøtt og produkter av storfekjøtt17 samt olivenolje.18 Det er behov for å undersøke muligheten for å utvide obligatorisk opprinnelsesmerking også til andre næringsmidler. Kommisjonen bør derfor anmodes om å utarbeide rapporter som omfatter følgende næringsmidler: andre typer kjøtt enn storfe-, svine-, saue-, geite- og fjørfekjøtt, melk, melk som inngår som ingrediens i melkeprodukter, kjøtt som inngår som ingrediens, uforedlede næringsmidler, næringsmidler med bare én ingrediens og ingredienser som utgjør mer enn 50 % av et næringsmiddel. Ettersom melk er et av de produktene det er særlig interessant med opprinnelsesmerking for, bør Kommisjonens rapport om dette produktet gjøres tilgjengelig snarest mulig. Kommisjonen kan på grunnlag av konklusjonene i slike rapporter framlegge forslag om å endre de relevante unionsbestemmelsene eller eventuelt ta nye initiativer på sektorbasis.Unionsreglene for ikke-preferanseopprinnelse er fastsatt i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av Fellesskapets tollkodeks19 og dens gjennomføringsbestemmelser i kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*) av 2. juli 1993 om visse gjennomføringsbestemmelser til rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) om innføring av Fellesskapets tollkodeks.20 Næringsmidlers opprinnelsesstat vil bli fastslått på grunnlag av disse reglene, som driftsansvarlige for næringsmiddelforetak og myndigheter har god kjennskap til, og dette bør forenkle gjennomføringen av dem.Et næringsmiddels næringsdeklarasjon omfatter opplysninger om innholdet av energi og visse andre næringsstoffer i næringsmidler. Obligatoriske opplysninger om næringsinnhold på emballasjen bør medvirke til ernæringsmessige tiltak som ledd i folkehelsepolitikken, for eksempel som grunnlag for vitenskapelige anbefalinger til folkeopplysning i ernæringsspørsmål, og fremme velbegrunnede valg av næringsmidler.For at det skal bli enklere å sammenligne produkter i forskjellige pakningsstørrelser, bør kravet om at den obligatoriske næringsdeklarasjonen skal angis per 100 g eller per 100 ml, opprettholdes, samtidig som supplerende angivelser per porsjon eventuelt tillates. Dersom næringsmiddelet er ferdigpakket i porsjonspakninger eller forbruksenheter, bør derfor en næringsdeklarasjon per porsjon eller per forbruksenhet tillates i tillegg til angivelsen per 100 g eller per 100 ml. For å kunne sikre sammenlignbare angivelser for porsjoner eller forbruksenheter bør Kommisjonen dessuten ha myndighet til å vedta regler for hvordan næringsdeklarasjoner per porsjon eller per forbruksenhet skal uttrykkes for bestemte næringsmiddelkategorier.I Kommisjonens hvitbok pekes det på visse næringselementer som påvirker folkehelsen, som mettet fett, sukker og natrium. Det bør derfor tas hensyn til disse elementene i kravene til obligatoriske opplysninger om næringsinnhold.Ettersom et av målene med denne forordning er å gi sluttforbrukeren et grunnlag for å foreta velbegrunnede valg, er det i den forbindelse viktig å sikre at sluttforbrukeren enkelt forstår opplysningene på merkingen. Betegnelsen «salt» bør derfor brukes i merkingen i stedet for den tilsvarende betegnelsen for næringsstoffet, «natrium».For å sikre konsekvens og sammenheng i unionsretten bør frivillig angivelse av ernærings- eller helsepåstander på næringsmidlers etiketter være i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler.21For å unngå unødvendige byrder for driftsansvarlige for næringsmiddelforetak bør visse kategorier av næringsmidler som er uforedlet, eller der opplysninger om næringsinnholdet ikke er avgjørende for forbrukernes kjøpsbeslutninger, eller der emballasjen er for liten til å kunne oppfylle de obligatoriske merkingskravene, unntas fra kravet om obligatorisk næringsdeklarasjon, med mindre slike opplysninger kreves i henhold til andre unionsregler.Med tanke på alkoholholdige drikkers egenart bør Kommisjonen oppfordres til å foreta en ytterligere analyse av opplysningskravene for slike produkter. Av hensyn til behovet for å sikre sammenheng med annen relevant unionspolitikk bør Kommisjonen derfor senest tre år etter denne forordnings ikrafttredelse framlegge en rapport om anvendelsen av kravene til opplysninger om ingredienser og næringsinnhold for alkoholholdige drikker. I lys av Europaparlamentets resolusjon av 5. september 2007 om en unionsstrategi for å støtte medlemsstatene i å redusere alkoholrelaterte skader,22 uttalelse fra Den europeiske økonomiske og sosiale komité,23 Kommisjonens arbeid og den allmenne bekymringen for alkoholrelaterte skader, særlig blant unge og sårbare forbrukere, bør Kommisjonen dessuten, etter høring av de berørte parter og medlemsstatene, vurdere behovet for en definisjon av drikker som «rusbrus», som spesifikt har unge mennesker som målgruppe. Kommisjonen bør eventuelt også foreslå særlige krav til alkoholholdige drikker innenfor rammen av denne forordning.Opplysninger om næringsinnhold bør være enkle og lett forståelige for å appellere til gjennomsnittsforbrukeren og for å tjene det opplysningsformålet som de innføres for, det nåværende kunnskapsnivået om ernæring tatt i betraktning. Det kan forvirre forbrukerne dersom opplysningene om næringsinnhold delvis er angitt i hovedsynsfeltet, vanligvis kalt pakningens forside, og delvis på en annen side, som på pakningens bakside. Næringsdeklarasjonen bør derfor angis i ett enkelt synsfelt. Dessuten kan de viktigste opplysningene om næringsinnholdet på frivillig grunnlag gjentas i hovedsynsfeltet, slik at forbrukerne lettere får øye på de vesentligste opplysningene om næringsinnholdet når de kjøper næringsmidler. Et fritt valg med hensyn til hvilke opplysninger som kan gjentas, vil kunne forvirre forbrukerne. Det er derfor nødvendig å klargjøre hvilke opplysninger som kan gjentas.For å oppmuntre driftsansvarlige for næringsmiddelforetak til frivillig å oppgi opplysninger om næringsinnholdet i næringsmidler som kan unntas fra kravet om næringsdeklarasjon, som alkoholholdige drikker og næringsmidler som ikke er ferdigpakket, bør det være mulig å oppgi bare begrensede deler av næringsdeklarasjonen. Det bør likevel tydelig fastsettes hvilke opplysninger det er frivillig å oppgi, slik at forbrukerne ikke villedes som følge av det frie valget som driftsansvarlige for næringsmiddelforetak har.I den senere tid har måten å angi næringsdeklarasjonen på blitt utviklet av noen medlemsstater og organisasjoner i næringsmiddelsektoren, slik at den uttrykkes på andre måter enn per 100 g, per 100 ml eller per porsjon, eller presenteres ved hjelp av grafikk eller symboler. Slike supplerende uttrykks- og presentasjonsformer kan gjøre det enklere for forbrukerne å forstå næringsdeklarasjonen. Det foreligger imidlertid ikke tilstrekkelig dokumentasjon fra hele Unionen på hvordan gjennomsnittsforbrukeren forstår og anvender de alternative måtene å uttrykke eller presentere opplysningene på. Det bør derfor gis mulighet for å utvikle forskjellige uttrykks- og presentasjonsformer på grunnlag av kriteriene fastsatt i denne forordning, og Kommisjonen bør oppfordres til å utarbeide en rapport om anvendelsen av disse uttrykks- og presentasjonsformene, om deres innvirkning på det indre marked og om hvorvidt det er tilrådelig med ytterligere harmonisering.Medlemsstatene bør for å bistå Kommisjonen ved utarbeidingen av denne rapporten framlegge for Kommisjonen de relevante opplysningene om anvendelsen av supplerende uttrykks- og presentasjonsformer for næringsdeklarasjon på markedet på deres territorium. Medlemsstatene bør for å kunne gjøre dette gis myndighet til å be driftsansvarlige for næringsmiddelforetak som på deres territorium bringer næringsmidler med supplerende uttrykks- eller presentasjonsformer i omsetning, om å underrette nasjonale myndigheter om anvendelsen av slike supplerende former og om relevant dokumentasjon på oppfyllelse av kravene fastsatt i denne forordning.Det bør sikres en viss konsekvens i utviklingen av supplerende uttrykks- eller presentasjonsformer for næringsdeklarasjoner. Det er derfor hensiktsmessig å fremme en løpende utveksling og deling av beste praksis og erfaringer medlemsstatene imellom og med Kommisjonen og å fremme de berørte partenes deltaking i slik utveksling.Angivelsen av mengdene av næringselementer og av sammenlignbare indikatorer i en lett gjenkjennelig form og i samme synsfelt for å muliggjøre en vurdering av et næringsmiddels ernæringsegenskaper, bør i sin helhet betraktes som en del av næringsdeklarasjonen og bør ikke behandles som en gruppe enkeltpåstander.Erfaring viser at tilføyelse av frivillige næringsmiddelopplysninger i mange tilfeller fører til at de obligatoriske næringsmiddelopplysningene framstår som mindre klare. Det bør derfor fastsettes kriterier som kan hjelpe driftsansvarlige for næringsmiddelforetak og håndhevende myndigheter med å sikre likevekt mellom obligatoriske og frivillige næringsmiddelopplysninger.Under henvisning til lokale forhold og praktiske omstendigheter bør medlemsstatene fortsatt ha rett til å fastsette regler for opplysninger om næringsmidler som ikke er ferdigpakket. Selv om forbrukernes etterspørsel etter andre opplysninger i slike tilfeller er begrenset, anses opplysninger om potensielt allergiframkallende stoffer å være svært viktige. Det har vist seg at de fleste tilfeller av næringsmiddelallergi kan spores tilbake til næringsmidler som ikke er ferdigpakket. Forbrukerne bør derfor alltid få opplysninger om potensielt allergiframkallende stoffer.Når det gjelder spørsmål som spesifikt harmoniseres ved denne forordning, bør medlemsstatene ikke kunne vedta nasjonale bestemmelser, med mindre dette tillates i unionsretten. Denne forordning bør ikke forhindre medlemsstatene i å vedta nasjonale tiltak på områder som ikke spesifikt harmoniseres ved denne forordning. Slike nasjonale tiltak bør imidlertid ikke forby, begrense eller forhindre et fritt varebytte som er i samsvar med denne forordning.Forbrukerne i Unionen viser en økende interesse for gjennomføringen av unionsbestemmelsene om dyrs velferd i forbindelse med slakting, og de vil blant annet vite om dyr blir bedøvet før de slaktes. Derfor bør det i forbindelse med en framtidig unionsstrategi for dyrevern og dyrs velferd vurderes å undersøke muligheten for å gi forbrukerne relevante opplysninger om bedøving av dyr.Regler for næringsmiddelopplysninger bør kunne tilpasses sosiale, økonomiske og teknologiske forhold som er i rask endring.Medlemsstatene bør gjennomføre offentlige kontroller for å håndheve overholdelsen av denne forordning i samsvar med europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.24Henvisninger til direktiv [90/496/EØF i](eu/31990l0496) forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) av 20. desember 2006 om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler25 bør ajourføres for å ta hensyn til denne forordning. Forordning [(EF) nr. 1924/2006](eu/32006r1924*) og (EF) [nr. 1925/2006](eu/32006r1925) bør derfor endres.Uregelmessig og hyppig ajourføring av kravene til næringsmiddelopplysninger kan medføre betydelige administrative byrder for næringsmiddelforetak, særlig små og mellomstore bedrifter. Det bør derfor sikres at tiltak som Kommisjonen kan vedta ved utøvelse av den myndighet den gis ved denne forordning, får anvendelse fra samme dag i et gitt kalenderår etter en passende overgangsperiode. Unntak fra dette prinsippet bør tillates i nødssituasjoner dersom formålet med de aktuelle tiltakene er vern av menneskers helse.For å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse merkingen av sine produkter til de nye kravene som innføres ved denne forordning, er det viktig å fastsette passende overgangsperioder for anvendelsen av denne forordning.Ettersom det ved denne forordning innføres omfattende endringer i kravene til deklarasjon av næringsinnhold, særlig endringer som gjelder innholdet i næringsdeklarasjonen, bør det tillates at driftsansvarlige for næringsmiddelforetak framskynder anvendelsen av denne forordning.Ettersom målene for denne forordning ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor bedre kan nås på unionsplan, kan Unionen treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i artikkel 5 i traktaten om Den europeiske union. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.Kommisjonen bør få myndighet til å vedta delegerte rettsakter i samsvar med artikkel 290 i TEUV når det gjelder blant annet angivelse av visse obligatoriske opplysninger på andre måter enn på emballasjen eller på etiketten, listen over næringsmidler som ikke behøver å ledsages av en ingrediensliste, ny gjennomgåelse av listen over stoffer eller produkter som forårsaker allergier eller intoleranser, eller listen over næringsstoffer som kan angis på frivillig grunnlag. Det er særlig viktig at Kommisjonen holder hensiktsmessige samråd under sitt forberedende arbeid, herunder på ekspertnivå. Kommisjonen bør når den forbereder og utarbeider delegerte rettsakter, sørge for at relevante dokumenter oversendes Europaparlamentet og Rådet samtidig, i rett tid og på hensiktsmessig måte.For å sikre ensartede vilkår for gjennomføringen av denne forordning bør Kommisjonen tillegges gjennomføringsmyndighet til å vedta gjennomføringsrettsakter med retningslinjer for blant annet angivelse av én eller flere opplysninger ved hjelp av piktogrammer eller symboler i stedet for med ord eller tall, angivelse av holdbarhetsdatoen, angivelse av opprinnelsesstaten eller opphavsstedet for kjøtt, nøyaktigheten av de angitte verdiene i næringsdeklarasjonen eller angivelse av næringsinnhold per porsjon eller per forbruksenhet i næringsdeklarasjonen. Denne myndighet bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet26 –
+ut fra følgende betraktninger:
+
+1. Ved artikkel 169 i traktaten om Den europeiske unions virkemåte (TEUV) er det fastsatt at Unionen skal bidra til at det oppnås et høyt nivå for forbrukervern ved de tiltak som den vedtar i henhold til traktatens artikkel 114.
+2. Fritt varebytte for trygge og sunne næringsmidler er en nødvendig del av det indre marked, og bidrar i høy grad til å verne borgernes helse og velferd og deres sosiale og økonomiske interesser.
+3. For å oppnå et høyt helsevernnivå for forbrukerne og sikre deres rett til informasjon bør det sørges for at de får hensiktsmessige opplysninger om næringsmidlene de inntar. Forbrukernes valg kan påvirkes av blant annet helsemessige, økonomiske, miljømessige, sosiale og etiske forhold.
+4. I henhold til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet3 skal næringsmiddelregelverket generelt gi forbrukerne et grunnlag for å foreta velbegrunnede valg med hensyn til de næringsmidlene de inntar og forhindre enhver praksis som kan villede forbrukerne.
+5. Europaparlaments- og rådsdirektiv [2005/29/EF](eu/32005l0029) av 11. mai 2005 om foretaks urimelige handelspraksis overfor forbrukere på det indre marked4 omfatter visse sider ved formidling av forbrukeropplysninger, særlig når det gjelder å forhindre villedende handlinger og utelatelse av opplysninger. De allmenne prinsippene om urimelig handelspraksis bør utfylles med særlige bestemmelser om næringsmiddelopplysninger til forbrukerne.
+6. Unionsreglene for merking av alle næringsmidler er fastsatt i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler.5 De fleste bestemmelsene fastsatt i nevnte direktiv er fra 1978 og bør derfor ajourføres.
+7. Ved rådsdirektiv [90/496/EØF](eu/31990l0496) av 24. september 1990 om deklarasjon av næringsinnhold i næringsmidler6 er det fastsatt regler for innholdet i og presentasjonen av opplysninger om næringsinnhold på ferdigpakkede næringsmidler. I henhold til disse reglene er det frivillig å angi opplysninger om næringsinnholdet, med mindre det framsettes en ernæringsmessig påstand om næringsmiddelet. De fleste bestemmelsene fastsatt i nevnte direktiv er fra 1990 og bør derfor ajourføres.
+8. De alminnelige merkingskravene utfylles av en rekke bestemmelser som gjelder for alle næringsmidler under visse omstendigheter eller for visse næringsmiddelkategorier. Dessuten finnes det en rekke særregler som gjelder for visse næringsmidler.
+9. Selv om de opprinnelige målene og sentrale delene i det nåværende regelverket for merking fremdeles er gyldige, er det nødvendig å forenkle regelverket for å sikre enklere overholdelse og større klarhet for de berørte parter og å modernisere det slik at det tas hensyn til ny utvikling når det gjelder næringsmiddelopplysninger. Denne forordning tjener det indre markeds interesser ved at den forenkler reglene, sikrer rettssikkerheten og reduserer den administrative byrden, samtidig som den gagner borgerne ved å kreve klar, forståelig og lesbar merking av næringsmidler.
+10. Offentligheten interesserer seg for sammenhengen mellom kosthold og helse og for valget av et egnet kosthold som passer den enkeltes behov. I Kommisjonens hvitbok av 30. mai 2007 om en europeisk strategi for ernærings-, overvekts- og fedmerelaterte helsespørsmål («Kommisjonens hvitbok») påpekes det at deklarasjon av næringsinnhold er en viktig metode for å informere forbrukerne om næringsmidlenes sammensetning og hjelpe dem til å foreta velbegrunnede valg. I kommisjonsmeldingen av 13. mars 2007 «EUs strategi for forbrukerpolitikk 2007–2013 – sterkere forbrukere, høyere forbrukervelferd og effektivt forbrukervern» understrekes det at forbrukernes mulighet til å foreta velbegrunnede valg er avgjørende både for effektiv konkurranse og forbrukervelferd. Kunnskap om grunnleggende ernæringsprinsipper og relevante opplysninger om næringsinnhold på næringsmidler vil gjøre det enklere for forbrukerne å foreta slike velbegrunnede valg. Utdannings- og opplysningskampanjer er viktige verktøy for å forbedre forbrukernes forståelse av næringsmiddelopplysninger.
+11. For å øke rettssikkerheten og sikre rasjonell og konsekvent håndheving bør direktiv [90/496/EØF](eu/31990l0496) og [2000/13/EF](eu/32000l0013*) oppheves og erstattes med én enkelt forordning som gir sikkerhet for forbrukerne og andre berørte parter og reduserer den administrative byrden.
+12. Av klarhetshensyn bør andre horisontale rettsakter oppheves og innarbeides i denne forordning, nærmere bestemt kommisjonsdirektiv [87/250/EØF](eu/31987l0250) av 15. april 1987 om angivelse av alkoholinnhold i volumprosent ved merking av alkoholholdige drikkevarer beregnet på salg til den endelige forbruker,7 kommisjonsdirektiv [1999/10/EF](eu/31999l0010) av 8. mars 1999 om fastsetjing av unntak frå føresegnene i artikkel 7 i rådsdirektiv [79/112/EØF](eu/31979l0112) med omsyn til merking av næringsmiddel,8 kommisjonsdirektiv [2002/67/EF](eu/32002l0067) av 18. juli 2002 om merking av næringsmiddel som inneheld kinin og næringsmiddel som inneheld koffein,9 kommisjonsforordning [(EF) nr. 608/2004](eu/32004r0608) av 31. mars 2004 om merking av næringsmidler og næringsmiddelingredienser tilsatt fytosteroler, fytosterolestere, fytostanoler og/eller fytostanolestere10 og kommisjonsdirektiv [2008/5/EF](eu/32008l0005) av 30. januar 2008 om angivelse på etiketten til visse næringsmidler av andre obligatoriske opplysninger enn dem som er fastsatt i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*).11
+13. Det er nødvendig å fastsette felles definisjoner, prinsipper, krav og framgangsmåter for å skape en tydelig ramme og et felles grunnlag for unionstiltak og nasjonale tiltak som gjelder næringsmiddelopplysninger.
+14. For at forbrukerne skal få fullstendige opplysninger i tråd med utviklingen om næringsmidlene de inntar, bør det finnes en bred definisjon av regelverket for næringsmiddelopplysninger som omfatter både allmenne og særlige regler, samt en bred definisjon av næringsmiddelopplysninger som også omfatter opplysninger som formidles på andre måter enn via etiketten.
+15. Unionsreglene bør få anvendelse bare på foretak hvis virksomhet innebærer en viss kontinuitet og en viss grad av organisering. Virksomhet som privatpersoners sporadiske håndtering og levering av næringsmidler, servering av måltider og salg av næringsmidler, for eksempel på veldedighetsarrangementer eller lokale markeder og sammenkomster, bør ikke omfattes av denne forordnings virkeområde.
+16. Regelverket for næringsmiddelopplysninger bør være tilstrekkelig fleksibelt til å holde tritt med forbrukernes nye informasjonskrav og sikre likevekt mellom vern av det indre marked og forskjeller i forbrukernes oppfatninger i medlemsstatene.
+17. Hovedbegrunnelsen for å kreve obligatoriske næringsmiddelopplysninger bør være å gjøre forbrukerne i stand til å identifisere et næringsmiddel og anvende det på passende måte samt å foreta valg som passer deres individuelle ernæringsmessige behov. For dette formål bør driftsansvarlige for næringsmiddelforetak sørge for å gjøre slike opplysninger lettere tilgjengelige også for synshemmede personer.
+18. For at regelverket for næringsmiddelopplysninger skal kunne tilpasses endringer i forbrukernes informasjonsbehov, bør det når det vurderes om opplysningene om et næringsmiddel skal være obligatoriske, også tas hensyn til den åpenlyse interessen som flertallet av forbrukerne har av at visse opplysninger framlegges.
+19. Nye obligatoriske krav til næringsmiddelopplysninger bør likevel fastsettes bare dersom det er nødvendig, og i samsvar med nærhetsprinsippet, forholdsmessighetsprinsippet og prinsippet om bærekraft.
+20. Regelverket for næringsmiddelopplysninger bør omfatte et forbud mot å villede forbrukerne, særlig når det gjelder et næringsmiddels kjennetegn, virkninger eller egenskaper, eller mot å tillegge et næringsmiddel medisinske egenskaper. For at forbudet skal være effektivt, bør det også omfatte reklame for og presentasjon av næringsmidler.
+21. For å forhindre en oppstykking av reglene for det ansvaret de driftsansvarlige for næringsmiddelforetak har når det gjelder næringsmiddelopplysninger, bør deres ansvar på dette området klargjøres. Denne klargjøringen bør være i samsvar med det ansvaret overfor forbrukerne som er omhandlet i artikkel 17 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+22. Det bør utarbeides en liste over alle obligatoriske opplysninger som i prinsippet bør angis for alle næringsmidler beregnet på sluttforbrukeren og storhusholdninger. Listen bør fortsatt inneholde de opplysningene som allerede er påkrevd i henhold til Unionens eksisterende regelverk, tatt i betraktning at dette i alminnelighet anses som et verdifullt regelverk for forbrukeropplysning.
+23. For å ta hensyn til endringer og utvikling på området næringsmiddelopplysninger bør Kommisjonen få myndighet til å fastsette at visse opplysninger kan gjøres tilgjengelige på alternative måter. Høring av berørte parter bør fremme raske og målrettede endringer av krav til næringsmiddelopplysninger.
+24. Visse ingredienser eller andre stoffer eller produkter (som tekniske hjelpestoffer) som brukes ved framstilling av næringsmidler og fortsatt finnes i dem, kan forårsake allergier eller intoleranser hos noen personer, og noen av disse allergiene eller intoleransene utgjør en fare for helsen til de berørte personene. Det er viktig at det gis opplysninger om forekomsten av tilsetningsstoffer, tekniske hjelpestoffer og andre stoffer eller produkter med vitenskapelig påvist allergi- eller intoleranseframkallende virkning, slik at forbrukerne, særlig de som lider av næringsmiddelallergi eller næringsmiddelintoleranse, kan foreta velbegrunnede valg som er trygge for dem.
+25. For å informere forbrukerne om forekomsten av industrielt framstilte nanomaterialer i næringsmidler bør det fastsettes en definisjon av industrielt framstilte nanomaterialer. Med tanke på at næringsmidler som inneholder eller består av industrielt framstilte nanomaterialer, kan være nye næringsmidler, bør spørsmålet om hensiktsmessige rettslige rammer for en slik definisjon tas opp i forbindelse med den kommende gjennomgåelsen av europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) av 27. januar 1997 om nye næringsmidler og nye næringsmiddelingredienser.12
+26. Etiketter på næringsmidler bør være tydelige og forståelige, slik at de er til hjelp for forbrukere som ønsker å ta mer velbegrunnede næringsmiddels- og kostvalg. Undersøkelser viser at god lesbarhet er av stor betydning for hvor sterkt publikum påvirkes av opplysningene på etiketter, og at uleselige produktopplysninger er en av hovedårsakene til forbrukernes misnøye med etiketter på næringsmidler. Det bør derfor utarbeides en overordnet strategi for å ta hensyn til alle aspekter som gjelder lesbarhet, herunder skrifttype, farge og kontrast.
+27. For å sikre at næringsmiddelopplysninger blir gitt, må det tas hensyn til alle måter forbrukere får næringsmidler på, herunder salg av næringsmidler via fjernkommunikasjon. Selv om det er klart at ethvert næringsmiddel som leveres via fjernsalg, bør oppfylle de samme opplysningskravene som næringsmidler som selges i butikker, må det presiseres at relevante obligatoriske næringsmiddelopplysninger også i slike tilfeller bør være tilgjengelige før kjøpet avsluttes.
+28. Teknologien som anvendes til innfrysing av næringsmidler, har de siste tiårene gjennomgått en betydelig utvikling og anvendes nå i stor utstrekning både for å forbedre omsetningen av varer på Unionens indre marked og for å redusere risikoen med hensyn til næringsmiddeltryggheten. Innfrysing og påfølgende opptining av visse næringsmidler, særlig kjøtt- og fiskeprodukter, begrenser imidlertid den videre bruken av dem, og kan også ha en innvirkning på deres trygghet, smak og fysiske kvalitet. På andre produkter, særlig smør, har innfrysing derimot ingen slik innvirkning. Derfor bør sluttforbrukeren få korrekt informasjon om tilstanden til næringsmidler som har blitt opptint.
+29. Opplysninger om et næringsmiddels opprinnelsesstat eller opphavssted bør angis dersom fravær av slike opplysninger kan villede forbrukerne med hensyn til næringsmiddelets virkelige opprinnelsesstat eller opphavssted. Opplysninger om opprinnelsesstat eller opphavssted bør alltid angis på en måte som ikke villeder forbrukerne, og på grunnlag av klart definerte kriterier som sikrer like vilkår for bransjen og gjør det enklere for forbrukerne å forstå opplysningene om et næringsmiddels opprinnelsesstat eller opphavssted. Disse kriteriene bør ikke gjelde for opplysninger knyttet til navnet eller adressen til den driftsansvarlige for næringsmiddelforetaket.
+30. I noen tilfeller kan driftsansvarlige for næringsmiddelforetak på frivillig grunnlag ønske å angi et næringsmiddels opprinnelse for å gjøre forbrukerne oppmerksomme på produktets kvaliteter. Slike opplysninger bør også være i samsvar med harmoniserte kriterier.
+31. Som følge av krisen med bovin spongiform encefalopati er opprinnelsesangivelse for tiden obligatorisk for storfekjøtt og produkter av storfekjøtt13 i Unionen, og dette har skapt forventninger hos forbrukerne. Kommisjonens konsekvensanalyse bekrefter at kjøttets opprinnelse ser ut til å være et hovedanliggende for forbrukerne. Det finnes andre typer kjøtt som det er et stort forbruk av i Unionen, som svinekjøtt, sauekjøtt, geitekjøtt og fjørfekjøtt. Det bør derfor innføres obligatorisk opprinnelsesangivelse for disse produktene. De særlige kravene til opprinnelse kan variere fra én type kjøtt til en annen avhengig av dyreartens kjennetegn. Det bør i form av gjennomføringsregler fastsettes obligatoriske krav som kan variere fra én type kjøtt til en annen, idet det tas hensyn til forholdsmessighetsprinsippet og den administrative byrden for driftsansvarlige for næringsmiddelforetak og håndhevende myndigheter.
+32. Bestemmelser om obligatorisk angivelse av opprinnelse har blitt utviklet på grunnlag av vertikale metoder, for eksempel for honning,14 frukt og grønnsaker,15 fisk,16 storfekjøtt og produkter av storfekjøtt17 samt olivenolje.18 Det er behov for å undersøke muligheten for å utvide obligatorisk opprinnelsesmerking også til andre næringsmidler. Kommisjonen bør derfor anmodes om å utarbeide rapporter som omfatter følgende næringsmidler: andre typer kjøtt enn storfe-, svine-, saue-, geite- og fjørfekjøtt, melk, melk som inngår som ingrediens i melkeprodukter, kjøtt som inngår som ingrediens, uforedlede næringsmidler, næringsmidler med bare én ingrediens og ingredienser som utgjør mer enn 50 % av et næringsmiddel. Ettersom melk er et av de produktene det er særlig interessant med opprinnelsesmerking for, bør Kommisjonens rapport om dette produktet gjøres tilgjengelig snarest mulig. Kommisjonen kan på grunnlag av konklusjonene i slike rapporter framlegge forslag om å endre de relevante unionsbestemmelsene eller eventuelt ta nye initiativer på sektorbasis.
+33. Unionsreglene for ikke-preferanseopprinnelse er fastsatt i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av Fellesskapets tollkodeks19 og dens gjennomføringsbestemmelser i kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*) av 2. juli 1993 om visse gjennomføringsbestemmelser til rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) om innføring av Fellesskapets tollkodeks.20 Næringsmidlers opprinnelsesstat vil bli fastslått på grunnlag av disse reglene, som driftsansvarlige for næringsmiddelforetak og myndigheter har god kjennskap til, og dette bør forenkle gjennomføringen av dem.
+34. Et næringsmiddels næringsdeklarasjon omfatter opplysninger om innholdet av energi og visse andre næringsstoffer i næringsmidler. Obligatoriske opplysninger om næringsinnhold på emballasjen bør medvirke til ernæringsmessige tiltak som ledd i folkehelsepolitikken, for eksempel som grunnlag for vitenskapelige anbefalinger til folkeopplysning i ernæringsspørsmål, og fremme velbegrunnede valg av næringsmidler.
+35. For at det skal bli enklere å sammenligne produkter i forskjellige pakningsstørrelser, bør kravet om at den obligatoriske næringsdeklarasjonen skal angis per 100 g eller per 100 ml, opprettholdes, samtidig som supplerende angivelser per porsjon eventuelt tillates. Dersom næringsmiddelet er ferdigpakket i porsjonspakninger eller forbruksenheter, bør derfor en næringsdeklarasjon per porsjon eller per forbruksenhet tillates i tillegg til angivelsen per 100 g eller per 100 ml. For å kunne sikre sammenlignbare angivelser for porsjoner eller forbruksenheter bør Kommisjonen dessuten ha myndighet til å vedta regler for hvordan næringsdeklarasjoner per porsjon eller per forbruksenhet skal uttrykkes for bestemte næringsmiddelkategorier.
+36. I Kommisjonens hvitbok pekes det på visse næringselementer som påvirker folkehelsen, som mettet fett, sukker og natrium. Det bør derfor tas hensyn til disse elementene i kravene til obligatoriske opplysninger om næringsinnhold.
+37. Ettersom et av målene med denne forordning er å gi sluttforbrukeren et grunnlag for å foreta velbegrunnede valg, er det i den forbindelse viktig å sikre at sluttforbrukeren enkelt forstår opplysningene på merkingen. Betegnelsen «salt» bør derfor brukes i merkingen i stedet for den tilsvarende betegnelsen for næringsstoffet, «natrium».
+38. For å sikre konsekvens og sammenheng i unionsretten bør frivillig angivelse av ernærings- eller helsepåstander på næringsmidlers etiketter være i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler.21
+39. For å unngå unødvendige byrder for driftsansvarlige for næringsmiddelforetak bør visse kategorier av næringsmidler som er uforedlet, eller der opplysninger om næringsinnholdet ikke er avgjørende for forbrukernes kjøpsbeslutninger, eller der emballasjen er for liten til å kunne oppfylle de obligatoriske merkingskravene, unntas fra kravet om obligatorisk næringsdeklarasjon, med mindre slike opplysninger kreves i henhold til andre unionsregler.
+40. Med tanke på alkoholholdige drikkers egenart bør Kommisjonen oppfordres til å foreta en ytterligere analyse av opplysningskravene for slike produkter. Av hensyn til behovet for å sikre sammenheng med annen relevant unionspolitikk bør Kommisjonen derfor senest tre år etter denne forordnings ikrafttredelse framlegge en rapport om anvendelsen av kravene til opplysninger om ingredienser og næringsinnhold for alkoholholdige drikker. I lys av Europaparlamentets resolusjon av 5. september 2007 om en unionsstrategi for å støtte medlemsstatene i å redusere alkoholrelaterte skader,22 uttalelse fra Den europeiske økonomiske og sosiale komité,23 Kommisjonens arbeid og den allmenne bekymringen for alkoholrelaterte skader, særlig blant unge og sårbare forbrukere, bør Kommisjonen dessuten, etter høring av de berørte parter og medlemsstatene, vurdere behovet for en definisjon av drikker som «rusbrus», som spesifikt har unge mennesker som målgruppe. Kommisjonen bør eventuelt også foreslå særlige krav til alkoholholdige drikker innenfor rammen av denne forordning.
+41. Opplysninger om næringsinnhold bør være enkle og lett forståelige for å appellere til gjennomsnittsforbrukeren og for å tjene det opplysningsformålet som de innføres for, det nåværende kunnskapsnivået om ernæring tatt i betraktning. Det kan forvirre forbrukerne dersom opplysningene om næringsinnhold delvis er angitt i hovedsynsfeltet, vanligvis kalt pakningens forside, og delvis på en annen side, som på pakningens bakside. Næringsdeklarasjonen bør derfor angis i ett enkelt synsfelt. Dessuten kan de viktigste opplysningene om næringsinnholdet på frivillig grunnlag gjentas i hovedsynsfeltet, slik at forbrukerne lettere får øye på de vesentligste opplysningene om næringsinnholdet når de kjøper næringsmidler. Et fritt valg med hensyn til hvilke opplysninger som kan gjentas, vil kunne forvirre forbrukerne. Det er derfor nødvendig å klargjøre hvilke opplysninger som kan gjentas.
+42. For å oppmuntre driftsansvarlige for næringsmiddelforetak til frivillig å oppgi opplysninger om næringsinnholdet i næringsmidler som kan unntas fra kravet om næringsdeklarasjon, som alkoholholdige drikker og næringsmidler som ikke er ferdigpakket, bør det være mulig å oppgi bare begrensede deler av næringsdeklarasjonen. Det bør likevel tydelig fastsettes hvilke opplysninger det er frivillig å oppgi, slik at forbrukerne ikke villedes som følge av det frie valget som driftsansvarlige for næringsmiddelforetak har.
+43. I den senere tid har måten å angi næringsdeklarasjonen på blitt utviklet av noen medlemsstater og organisasjoner i næringsmiddelsektoren, slik at den uttrykkes på andre måter enn per 100 g, per 100 ml eller per porsjon, eller presenteres ved hjelp av grafikk eller symboler. Slike supplerende uttrykks- og presentasjonsformer kan gjøre det enklere for forbrukerne å forstå næringsdeklarasjonen. Det foreligger imidlertid ikke tilstrekkelig dokumentasjon fra hele Unionen på hvordan gjennomsnittsforbrukeren forstår og anvender de alternative måtene å uttrykke eller presentere opplysningene på. Det bør derfor gis mulighet for å utvikle forskjellige uttrykks- og presentasjonsformer på grunnlag av kriteriene fastsatt i denne forordning, og Kommisjonen bør oppfordres til å utarbeide en rapport om anvendelsen av disse uttrykks- og presentasjonsformene, om deres innvirkning på det indre marked og om hvorvidt det er tilrådelig med ytterligere harmonisering.
+44. Medlemsstatene bør for å bistå Kommisjonen ved utarbeidingen av denne rapporten framlegge for Kommisjonen de relevante opplysningene om anvendelsen av supplerende uttrykks- og presentasjonsformer for næringsdeklarasjon på markedet på deres territorium. Medlemsstatene bør for å kunne gjøre dette gis myndighet til å be driftsansvarlige for næringsmiddelforetak som på deres territorium bringer næringsmidler med supplerende uttrykks- eller presentasjonsformer i omsetning, om å underrette nasjonale myndigheter om anvendelsen av slike supplerende former og om relevant dokumentasjon på oppfyllelse av kravene fastsatt i denne forordning.
+45. Det bør sikres en viss konsekvens i utviklingen av supplerende uttrykks- eller presentasjonsformer for næringsdeklarasjoner. Det er derfor hensiktsmessig å fremme en løpende utveksling og deling av beste praksis og erfaringer medlemsstatene imellom og med Kommisjonen og å fremme de berørte partenes deltaking i slik utveksling.
+46. Angivelsen av mengdene av næringselementer og av sammenlignbare indikatorer i en lett gjenkjennelig form og i samme synsfelt for å muliggjøre en vurdering av et næringsmiddels ernæringsegenskaper, bør i sin helhet betraktes som en del av næringsdeklarasjonen og bør ikke behandles som en gruppe enkeltpåstander.
+47. Erfaring viser at tilføyelse av frivillige næringsmiddelopplysninger i mange tilfeller fører til at de obligatoriske næringsmiddelopplysningene framstår som mindre klare. Det bør derfor fastsettes kriterier som kan hjelpe driftsansvarlige for næringsmiddelforetak og håndhevende myndigheter med å sikre likevekt mellom obligatoriske og frivillige næringsmiddelopplysninger.
+48. Under henvisning til lokale forhold og praktiske omstendigheter bør medlemsstatene fortsatt ha rett til å fastsette regler for opplysninger om næringsmidler som ikke er ferdigpakket. Selv om forbrukernes etterspørsel etter andre opplysninger i slike tilfeller er begrenset, anses opplysninger om potensielt allergiframkallende stoffer å være svært viktige. Det har vist seg at de fleste tilfeller av næringsmiddelallergi kan spores tilbake til næringsmidler som ikke er ferdigpakket. Forbrukerne bør derfor alltid få opplysninger om potensielt allergiframkallende stoffer.
+49. Når det gjelder spørsmål som spesifikt harmoniseres ved denne forordning, bør medlemsstatene ikke kunne vedta nasjonale bestemmelser, med mindre dette tillates i unionsretten. Denne forordning bør ikke forhindre medlemsstatene i å vedta nasjonale tiltak på områder som ikke spesifikt harmoniseres ved denne forordning. Slike nasjonale tiltak bør imidlertid ikke forby, begrense eller forhindre et fritt varebytte som er i samsvar med denne forordning.
+50. Forbrukerne i Unionen viser en økende interesse for gjennomføringen av unionsbestemmelsene om dyrs velferd i forbindelse med slakting, og de vil blant annet vite om dyr blir bedøvet før de slaktes. Derfor bør det i forbindelse med en framtidig unionsstrategi for dyrevern og dyrs velferd vurderes å undersøke muligheten for å gi forbrukerne relevante opplysninger om bedøving av dyr.
+51. Regler for næringsmiddelopplysninger bør kunne tilpasses sosiale, økonomiske og teknologiske forhold som er i rask endring.
+52. Medlemsstatene bør gjennomføre offentlige kontroller for å håndheve overholdelsen av denne forordning i samsvar med europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.24
+53. Henvisninger til direktiv [90/496/EØF i](eu/31990l0496) forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) av 20. desember 2006 om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler25 bør ajourføres for å ta hensyn til denne forordning. Forordning [(EF) nr. 1924/2006](eu/32006r1924*) og (EF) [nr. 1925/2006](eu/32006r1925) bør derfor endres.
+54. Uregelmessig og hyppig ajourføring av kravene til næringsmiddelopplysninger kan medføre betydelige administrative byrder for næringsmiddelforetak, særlig små og mellomstore bedrifter. Det bør derfor sikres at tiltak som Kommisjonen kan vedta ved utøvelse av den myndighet den gis ved denne forordning, får anvendelse fra samme dag i et gitt kalenderår etter en passende overgangsperiode. Unntak fra dette prinsippet bør tillates i nødssituasjoner dersom formålet med de aktuelle tiltakene er vern av menneskers helse.
+55. For å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse merkingen av sine produkter til de nye kravene som innføres ved denne forordning, er det viktig å fastsette passende overgangsperioder for anvendelsen av denne forordning.
+56. Ettersom det ved denne forordning innføres omfattende endringer i kravene til deklarasjon av næringsinnhold, særlig endringer som gjelder innholdet i næringsdeklarasjonen, bør det tillates at driftsansvarlige for næringsmiddelforetak framskynder anvendelsen av denne forordning.
+57. Ettersom målene for denne forordning ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor bedre kan nås på unionsplan, kan Unionen treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i artikkel 5 i traktaten om Den europeiske union. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.
+58. Kommisjonen bør få myndighet til å vedta delegerte rettsakter i samsvar med artikkel 290 i TEUV når det gjelder blant annet angivelse av visse obligatoriske opplysninger på andre måter enn på emballasjen eller på etiketten, listen over næringsmidler som ikke behøver å ledsages av en ingrediensliste, ny gjennomgåelse av listen over stoffer eller produkter som forårsaker allergier eller intoleranser, eller listen over næringsstoffer som kan angis på frivillig grunnlag. Det er særlig viktig at Kommisjonen holder hensiktsmessige samråd under sitt forberedende arbeid, herunder på ekspertnivå. Kommisjonen bør når den forbereder og utarbeider delegerte rettsakter, sørge for at relevante dokumenter oversendes Europaparlamentet og Rådet samtidig, i rett tid og på hensiktsmessig måte.
+59. For å sikre ensartede vilkår for gjennomføringen av denne forordning bør Kommisjonen tillegges gjennomføringsmyndighet til å vedta gjennomføringsrettsakter med retningslinjer for blant annet angivelse av én eller flere opplysninger ved hjelp av piktogrammer eller symboler i stedet for med ord eller tall, angivelse av holdbarhetsdatoen, angivelse av opprinnelsesstaten eller opphavsstedet for kjøtt, nøyaktigheten av de angitte verdiene i næringsdeklarasjonen eller angivelse av næringsinnhold per porsjon eller per forbruksenhet i næringsdeklarasjonen. Denne myndighet bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet26 –
 
 1 EUT C 77 av 31.3.2009, s. 81.
 
@@ -189,21 +255,68 @@ Alminnelige bestemmelser
 
 2\. Ved denne forordning fastsettes allmenne prinsipper, krav og ansvarsfordeling med hensyn til næringsmiddelopplysninger, særlig merking av næringsmidler. Den fastsetter metoder som skal sikre forbrukernes rett til opplysninger, og framgangsmåter for formidling av næringsmiddelopplysninger, idet det tas hensyn til behovet for tilstrekkelig fleksibilitet til å kunne reagere på den framtidige utviklingen og nye opplysningskrav.
 
-3\. Denne forordning får anvendelse på driftsansvarlige for næringsmiddelforetak i alle ledd i næringsmiddelkjeden hvis virksomhet gjelder næringsmiddelopplysninger til forbrukerne. Den får anvendelse på alle næringsmidler beregnet på sluttforbrukeren, herunder næringsmidler levert av storhusholdninger, og næringsmidler beregnet på levering til storhusholdninger.Denne forordning får anvendelse på cateringtjenester som leveres av transportforetak, dersom avgangen skjer fra territoriene til medlemsstater som er omfattet av traktatene.
+3\. Denne forordning får anvendelse på driftsansvarlige for næringsmiddelforetak i alle ledd i næringsmiddelkjeden hvis virksomhet gjelder næringsmiddelopplysninger til forbrukerne. Den får anvendelse på alle næringsmidler beregnet på sluttforbrukeren, herunder næringsmidler levert av storhusholdninger, og næringsmidler beregnet på levering til storhusholdninger.
+
+Denne forordning får anvendelse på cateringtjenester som leveres av transportforetak, dersom avgangen skjer fra territoriene til medlemsstater som er omfattet av traktatene.
 
 4\. Denne forordning får anvendelse med forbehold for merkingskravene fastsatt i særlige unionsbestemmelser om visse næringsmidler.
 
 ### Artikkel 2. Definisjoner
 
-1\. I denne forordning gjelder følgende definisjoner:definisjonene av «næringsmidler», «næringsmiddelregelverk», «næringsmiddelforetak», «driftsansvarlig for næringsmiddelforetak», «detaljhandel», «bringe i omsetning» og «sluttforbruker» i artikkel 2 og i artikkel 3 nr. 1, 2, 3, 7, 8 og 18 i forordning [(EF) nr. 178/2002](eu/32002r0178),definisjonene av «foredling», «uforedlede produkter» og «foredlede produkter» i artikkel 2 nr. 1 bokstav m), n), og o) i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,1definisjonen av «næringsmiddelenzym» i artikkel 3 nr. 2 bokstav a) i europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer,2definisjonene av «tilsetningsstoff i næringsmiddel», «teknisk hjelpestoff» og «bærestoff» i artikkel 3 nr. 2 bokstav a) og b) i europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler3 samt i nr. 5 i forordningens vedlegg I,definisjonen av «aromaer» i artikkel 3 nr. 2 bokstav a) i europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromagivende egenskaper til bruk i og på næringsmidler,4definisjonene av «kjøtt», «mekanisk utbeinet kjøtt», «bearbeidet kjøtt», «fiskerivarer» og «kjøttprodukter» i nr. 1.1, 1.14, 1.15, 3.1 og 7.1 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,5definisjonen av «reklame» i artikkel 2 bokstav a) i europaparlaments- og rådsdirektiv [2006/114/EF](eu/32006l0114) av 12. desember 2006 om villedende og sammenlignende reklame.6
+1\. I denne forordning gjelder følgende definisjoner:
 
-2\. Videre menes med:«næringsmiddelopplysninger» opplysninger om et næringsmiddel som sluttforbrukeren får i form av en etikett, annet vedlagt materiale eller på andre måter, herunder moderne teknologiske verktøy eller muntlig kommunikasjon,«regelverk for næringsmiddelopplysninger» unionsbestemmelsene om næringsmiddelopplysninger, særlig merking, herunder alminnelige regler som gjelder for alle næringsmidler under visse omstendigheter eller for visse næringsmiddelkategorier, samt regler som gjelder bare for visse næringsmidler,«obligatoriske næringsmiddelopplysninger» de opplysningene som i henhold til unionsbestemmelsene skal gjøres tilgjengelige for sluttforbrukeren,«storhusholdning» enhver virksomhet (herunder et kjøretøy eller en fast eller flyttbar salgsbod), for eksempel restauranter, kantiner, skoler, sykehus og cateringforetak, der det som ledd i virksomheten tilberedes spiseferdige næringsmidler til sluttforbrukeren,«ferdigpakket næringsmiddel» en salgsenhet som i uendret tilstand er beregnet på salg til sluttforbruker og til storhusholdninger, og som består av et næringsmiddel samt emballasjen det er pakket inn i før det tilbys for salg, enten denne emballasjen dekker varen helt eller delvis, men likevel på en slik måte at innholdet ikke kan endres uten at emballasjen åpnes eller endres; «ferdigpakket næringsmiddel» omfatter ikke næringsmidler som pakkes på salgsstedet på anmodning fra kjøperen eller er ferdigpakket med sikte på umiddelbart salg,«ingrediens» ethvert stoff eller produkt, herunder aromaer, tilsetningsstoffer i næringsmidler og næringsmiddelenzymer, og enhver bestanddel i en sammensatt ingrediens som anvendes ved framstilling eller tilberedning av et næringsmiddel, og som fremdeles forekommer i det ferdige produkt, eventuelt i endret form; restmengder skal ikke anses som «ingredienser»,«opphavssted» ethvert sted som det er angitt at et næringsmiddel kommer fra, og som ikke er «opprinnelsesstat» som fastsatt i samsvar med artikkel 23–26 i forordning [(EØF) nr. 2913/92](eu/31992r2913*); navnet, firmaet eller adressen på etiketten til den driftsansvarlige for næringsmiddelforetaket utgjør ikke en angivelse av næringsmiddelets opprinnelsesstat eller opphavssted i henhold til denne forordning,«sammensatt ingrediens» en ingrediens som selv består av mer enn én ingrediens,«etikett» enhver merkelapp, ethvert merke, tegn, bilde eller annet beskrivende materiell som er skrevet, trykt, stensilert, angitt, preget, stemplet eller vedlagt pakningen eller beholderen med næringsmidler,«merking» opplysninger, angivelser, varemerker eller -navn, bilder eller symboler som gjelder et næringsmiddel, og som er påført emballasjer, dokumenter, skilt, etiketter, halsetiketter eller krager av enhver art som følger eller som viser til dette næringsmiddelet,«synsfelt» alle overflater på en emballasje som kan leses fra én enkelt synsvinkel,«hovedsynsfelt» det synsfeltet på en emballasje som det er mest sannsynlig at forbrukeren ser ved første øyekast på kjøpstidspunktet, og som gjør det mulig for forbrukeren straks å identifisere et produkt med hensyn til dets art eller natur og eventuelt dets varenavn. Dersom en emballasje har flere identiske hovedsynsfelter, skal hovedsynsfeltet være det som velges av den driftsansvarlige for næringsmiddelforetaket,«lesbarhet» informasjonens fysiske utseende, som gjør informasjonen visuelt tilgjengelig for befolkningen generelt, og som bestemmes av forskjellige faktorer, blant annet skriftstørrelsen, tegnavstanden, linjeavstanden, strektykkelsen, skriftfargen, skrifttypen, forholdet mellom bokstavenes bredde og høyde, materialets overflate og kontrasten mellom skriften og bakgrunnen,«lovbestemt betegnelse» den betegnelsen for et næringsmiddel som er fastsatt i de unionsbestemmelser som gjelder for det, eller i mangel av slike unionsbestemmelser, den betegnelsen som er fastsatt i gjeldende lover og forskrifter i medlemsstaten der salget av næringsmiddelet til sluttforbruker eller til storhusholdninger finner sted,«vanlig betegnelse» en betegnelse som er akseptert som næringsmiddelets betegnelse av forbrukerne i den medlemsstaten der næringsmiddelet selges, uten at denne betegnelsen krever ytterligere forklaring,«beskrivende betegnelse» en betegnelse som gir en beskrivelse av næringsmiddelet, og om nødvendig av dets bruk, og som er så nøyaktig at forbrukerne blir opplyst om dets egentlige art og kan skjelne det fra produkter som det vil kunne forveksles med,«hovedingrediens» en ingrediens eller ingredienser i et næringsmiddel som utgjør mer enn 50 % av næringsmiddelet, eller som forbrukeren vanligvis forbinder med betegnelsen på næringsmiddelet, og som det i de fleste tilfeller kreves en mengdeangivelse for,«et næringsmiddels holdbarhetsdato» den datoen som næringsmiddelet bevarer sine spesifikke egenskaper fram til under riktige oppbevaringsforhold,«næringsstoff» protein, karbohydrat, fett, kostfiber, natrium, vitaminer og mineraler oppført i nr. 1 i del A i vedlegg XIII til denne forordning samt stoffer som tilhører eller er bestanddeler i en av disse kategoriene,«industrielt framstilt nanomateriale» materiale som er framstilt med hensikt, og som har én eller flere dimensjoner i størrelsesorden 100 nm eller mindre, eller som har en indre struktur eller overflate som består av atskilte funksjonelle deler, hvorav mange har én eller flere dimensjoner i størrelsesorden 100 nm eller mindre, herunder strukturer, agglomerater eller aggregater som kan være større enn 100 nm, men som bevarer egenskaper som er karakteristiske for nanostørrelser.Egenskaper som er karakteristiske for nanostørrelser, omfatteregenskaper som er knyttet til det aktuelle materialets store spesifikke overflater, og/ellerspesifikke fysisk-kjemiske egenskaper som er forskjellige fra egenskapene til det samme materialet i ikke-nanoform,«fjernkommunikasjonsmiddel» ethvert middel som uten at leverandøren og forbrukeren er til stede samtidig, kan brukes til inngåelse av en avtale mellom disse partene.
+1. definisjonene av «næringsmidler», «næringsmiddelregelverk», «næringsmiddelforetak», «driftsansvarlig for næringsmiddelforetak», «detaljhandel», «bringe i omsetning» og «sluttforbruker» i artikkel 2 og i artikkel 3 nr. 1, 2, 3, 7, 8 og 18 i forordning [(EF) nr. 178/2002](eu/32002r0178),
+2. definisjonene av «foredling», «uforedlede produkter» og «foredlede produkter» i artikkel 2 nr. 1 bokstav m), n), og o) i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,1
+3. definisjonen av «næringsmiddelenzym» i artikkel 3 nr. 2 bokstav a) i europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer,2
+4. definisjonene av «tilsetningsstoff i næringsmiddel», «teknisk hjelpestoff» og «bærestoff» i artikkel 3 nr. 2 bokstav a) og b) i europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler3 samt i nr. 5 i forordningens vedlegg I,
+5. definisjonen av «aromaer» i artikkel 3 nr. 2 bokstav a) i europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromagivende egenskaper til bruk i og på næringsmidler,4
+6. definisjonene av «kjøtt», «mekanisk utbeinet kjøtt», «bearbeidet kjøtt», «fiskerivarer» og «kjøttprodukter» i nr. 1.1, 1.14, 1.15, 3.1 og 7.1 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,5
+7. definisjonen av «reklame» i artikkel 2 bokstav a) i europaparlaments- og rådsdirektiv [2006/114/EF](eu/32006l0114) av 12. desember 2006 om villedende og sammenlignende reklame.6
+
+2\. Videre menes med:
+
+1. «næringsmiddelopplysninger» opplysninger om et næringsmiddel som sluttforbrukeren får i form av en etikett, annet vedlagt materiale eller på andre måter, herunder moderne teknologiske verktøy eller muntlig kommunikasjon,
+2. «regelverk for næringsmiddelopplysninger» unionsbestemmelsene om næringsmiddelopplysninger, særlig merking, herunder alminnelige regler som gjelder for alle næringsmidler under visse omstendigheter eller for visse næringsmiddelkategorier, samt regler som gjelder bare for visse næringsmidler,
+3. «obligatoriske næringsmiddelopplysninger» de opplysningene som i henhold til unionsbestemmelsene skal gjøres tilgjengelige for sluttforbrukeren,
+4. «storhusholdning» enhver virksomhet (herunder et kjøretøy eller en fast eller flyttbar salgsbod), for eksempel restauranter, kantiner, skoler, sykehus og cateringforetak, der det som ledd i virksomheten tilberedes spiseferdige næringsmidler til sluttforbrukeren,
+5. «ferdigpakket næringsmiddel» en salgsenhet som i uendret tilstand er beregnet på salg til sluttforbruker og til storhusholdninger, og som består av et næringsmiddel samt emballasjen det er pakket inn i før det tilbys for salg, enten denne emballasjen dekker varen helt eller delvis, men likevel på en slik måte at innholdet ikke kan endres uten at emballasjen åpnes eller endres; «ferdigpakket næringsmiddel» omfatter ikke næringsmidler som pakkes på salgsstedet på anmodning fra kjøperen eller er ferdigpakket med sikte på umiddelbart salg,
+6. «ingrediens» ethvert stoff eller produkt, herunder aromaer, tilsetningsstoffer i næringsmidler og næringsmiddelenzymer, og enhver bestanddel i en sammensatt ingrediens som anvendes ved framstilling eller tilberedning av et næringsmiddel, og som fremdeles forekommer i det ferdige produkt, eventuelt i endret form; restmengder skal ikke anses som «ingredienser»,
+7. «opphavssted» ethvert sted som det er angitt at et næringsmiddel kommer fra, og som ikke er «opprinnelsesstat» som fastsatt i samsvar med artikkel 23–26 i forordning [(EØF) nr. 2913/92](eu/31992r2913*); navnet, firmaet eller adressen på etiketten til den driftsansvarlige for næringsmiddelforetaket utgjør ikke en angivelse av næringsmiddelets opprinnelsesstat eller opphavssted i henhold til denne forordning,
+8. «sammensatt ingrediens» en ingrediens som selv består av mer enn én ingrediens,
+9. «etikett» enhver merkelapp, ethvert merke, tegn, bilde eller annet beskrivende materiell som er skrevet, trykt, stensilert, angitt, preget, stemplet eller vedlagt pakningen eller beholderen med næringsmidler,
+10. «merking» opplysninger, angivelser, varemerker eller -navn, bilder eller symboler som gjelder et næringsmiddel, og som er påført emballasjer, dokumenter, skilt, etiketter, halsetiketter eller krager av enhver art som følger eller som viser til dette næringsmiddelet,
+11. «synsfelt» alle overflater på en emballasje som kan leses fra én enkelt synsvinkel,
+12. «hovedsynsfelt» det synsfeltet på en emballasje som det er mest sannsynlig at forbrukeren ser ved første øyekast på kjøpstidspunktet, og som gjør det mulig for forbrukeren straks å identifisere et produkt med hensyn til dets art eller natur og eventuelt dets varenavn. Dersom en emballasje har flere identiske hovedsynsfelter, skal hovedsynsfeltet være det som velges av den driftsansvarlige for næringsmiddelforetaket,
+13. «lesbarhet» informasjonens fysiske utseende, som gjør informasjonen visuelt tilgjengelig for befolkningen generelt, og som bestemmes av forskjellige faktorer, blant annet skriftstørrelsen, tegnavstanden, linjeavstanden, strektykkelsen, skriftfargen, skrifttypen, forholdet mellom bokstavenes bredde og høyde, materialets overflate og kontrasten mellom skriften og bakgrunnen,
+14. «lovbestemt betegnelse» den betegnelsen for et næringsmiddel som er fastsatt i de unionsbestemmelser som gjelder for det, eller i mangel av slike unionsbestemmelser, den betegnelsen som er fastsatt i gjeldende lover og forskrifter i medlemsstaten der salget av næringsmiddelet til sluttforbruker eller til storhusholdninger finner sted,
+15. «vanlig betegnelse» en betegnelse som er akseptert som næringsmiddelets betegnelse av forbrukerne i den medlemsstaten der næringsmiddelet selges, uten at denne betegnelsen krever ytterligere forklaring,
+16. «beskrivende betegnelse» en betegnelse som gir en beskrivelse av næringsmiddelet, og om nødvendig av dets bruk, og som er så nøyaktig at forbrukerne blir opplyst om dets egentlige art og kan skjelne det fra produkter som det vil kunne forveksles med,
+17. «hovedingrediens» en ingrediens eller ingredienser i et næringsmiddel som utgjør mer enn 50 % av næringsmiddelet, eller som forbrukeren vanligvis forbinder med betegnelsen på næringsmiddelet, og som det i de fleste tilfeller kreves en mengdeangivelse for,
+18. «et næringsmiddels holdbarhetsdato» den datoen som næringsmiddelet bevarer sine spesifikke egenskaper fram til under riktige oppbevaringsforhold,
+19. «næringsstoff» protein, karbohydrat, fett, kostfiber, natrium, vitaminer og mineraler oppført i nr. 1 i del A i vedlegg XIII til denne forordning samt stoffer som tilhører eller er bestanddeler i en av disse kategoriene,
+20. «industrielt framstilt nanomateriale» materiale som er framstilt med hensikt, og som har én eller flere dimensjoner i størrelsesorden 100 nm eller mindre, eller som har en indre struktur eller overflate som består av atskilte funksjonelle deler, hvorav mange har én eller flere dimensjoner i størrelsesorden 100 nm eller mindre, herunder strukturer, agglomerater eller aggregater som kan være større enn 100 nm, men som bevarer egenskaper som er karakteristiske for nanostørrelser.
+
+    Egenskaper som er karakteristiske for nanostørrelser, omfatter
+
+    1. egenskaper som er knyttet til det aktuelle materialets store spesifikke overflater, og/eller
+    2. spesifikke fysisk-kjemiske egenskaper som er forskjellige fra egenskapene til det samme materialet i ikke-nanoform,
+21. «fjernkommunikasjonsmiddel» ethvert middel som uten at leverandøren og forbrukeren er til stede samtidig, kan brukes til inngåelse av en avtale mellom disse partene.
 
 3\. Med et næringsmiddels opprinnelsesstat menes i denne forordning et næringsmiddels opprinnelse som fastsatt i samsvar med artikkel 23–26 i forordning [(EØF) nr. 2913/92](eu/31992r2913*).
 
 4\. De særlige definisjonene fastsatt i vedlegg I får også anvendelse.
 
-1 EUT L 139 av 30.4.2004, s. 1.2 EUT L 354 av 31.12.2008, s. 7.3 EUT L 354 av 31.12.2008, s. 16.4 EUT L 354 av 31.12.2008, s. 34.5 EUT L 139 av 30.4.2004, s. 55.6 EUT L 376 av 27.12.2006, s. 21.
+1 EUT L 139 av 30.4.2004, s. 1.
+
+2 EUT L 354 av 31.12.2008, s. 7.
+
+3 EUT L 354 av 31.12.2008, s. 16.
+
+4 EUT L 354 av 31.12.2008, s. 34.
+
+5 EUT L 139 av 30.4.2004, s. 55.
+
+6 EUT L 376 av 27.12.2006, s. 21.
 
 ### Kapittel II
 Allmenne prinsipper for næringsmiddelopplysninger
@@ -220,7 +333,15 @@ Allmenne prinsipper for næringsmiddelopplysninger
 
 ### Artikkel 4. Prinsipper for obligatoriske næringsmiddelopplysninger
 
-1\. Opplysninger som i henhold til regelverket for næringsmiddelopplysninger er obligatoriske, omfatter særlig opplysninger som tilhører en av følgende kategorier:opplysninger om næringsmiddelets identitet og sammensetning, egenskaper eller andre kjennetegn,opplysninger om vern av forbrukernes helse og sikker bruk av et næringsmiddel. Dette gjelder særlig opplysninger omegenskaper knyttet til sammensetning som kan være skadelige for helsen til visse forbrukergrupper,holdbarhet, oppbevaring og sikker bruk,innvirkning på helsen, herunder risiko og konsekvenser knyttet til skadelig og farlig inntak av et næringsmiddel,opplysninger om ernæringsegenskaper, slik at forbrukerne, herunder forbrukere med særlige kostbehov, kan foreta velbegrunnede valg.
+1\. Opplysninger som i henhold til regelverket for næringsmiddelopplysninger er obligatoriske, omfatter særlig opplysninger som tilhører en av følgende kategorier:
+
+1. opplysninger om næringsmiddelets identitet og sammensetning, egenskaper eller andre kjennetegn,
+2. opplysninger om vern av forbrukernes helse og sikker bruk av et næringsmiddel. Dette gjelder særlig opplysninger om
+
+   1. egenskaper knyttet til sammensetning som kan være skadelige for helsen til visse forbrukergrupper,
+   2. holdbarhet, oppbevaring og sikker bruk,
+   3. innvirkning på helsen, herunder risiko og konsekvenser knyttet til skadelig og farlig inntak av et næringsmiddel,
+3. opplysninger om ernæringsegenskaper, slik at forbrukerne, herunder forbrukere med særlige kostbehov, kan foreta velbegrunnede valg.
 
 2\. Ved en vurdering av behovet for obligatoriske næringsmiddelopplysninger, og for å gjøre forbrukerne i stand til å foreta velbegrunnede valg, skal det tas hensyn til et utbredt behov blant flertallet av forbrukerne for visse opplysninger som de tillegger stor verdi, eller til allment anerkjente fordeler for forbrukerne.
 
@@ -237,13 +358,21 @@ Alle næringsmidler som er beregnet på sluttforbrukere eller storhusholdninger,
 
 ### Artikkel 7. God opplysningspraksis
 
-1\. Næringsmiddelopplysninger skal ikke være villedende, særligmed hensyn til hva som kjennetegner næringsmiddelet, særlig art, identitet, egenskaper, sammensetning, mengde, holdbarhet, opprinnelsesstat eller opphavssted og framstillings- eller produksjonsmåte,ved at næringsmiddelet tillegges virkninger eller egenskaper det ikke har,ved at det gis inntrykk av at næringsmiddelet har særlige egenskaper, når alle lignende næringsmidler har de samme egenskapene, særlig ved at forekomsten eller fraværet av visse ingredienser og/eller næringsstoffer framheves,ved at det gjennom utseende, beskrivelse eller bildeframstillinger gis inntrykk av at produktet inneholder et visst næringsmiddel eller en viss ingrediens, når en naturlig forekommende bestanddel eller en ingrediens som normalt anvendes i næringsmiddelet, i virkeligheten har blitt erstattet med en annen bestanddel eller ingrediens.
+1\. Næringsmiddelopplysninger skal ikke være villedende, særlig
+
+1. med hensyn til hva som kjennetegner næringsmiddelet, særlig art, identitet, egenskaper, sammensetning, mengde, holdbarhet, opprinnelsesstat eller opphavssted og framstillings- eller produksjonsmåte,
+2. ved at næringsmiddelet tillegges virkninger eller egenskaper det ikke har,
+3. ved at det gis inntrykk av at næringsmiddelet har særlige egenskaper, når alle lignende næringsmidler har de samme egenskapene, særlig ved at forekomsten eller fraværet av visse ingredienser og/eller næringsstoffer framheves,
+4. ved at det gjennom utseende, beskrivelse eller bildeframstillinger gis inntrykk av at produktet inneholder et visst næringsmiddel eller en viss ingrediens, når en naturlig forekommende bestanddel eller en ingrediens som normalt anvendes i næringsmiddelet, i virkeligheten har blitt erstattet med en annen bestanddel eller ingrediens.
 
 2\. Næringsmiddelopplysninger skal være korrekte, tydelige og enkle for forbrukeren å forstå.
 
 3\. Med forbehold for unntak i unionslovgivningen som får anvendelse på naturlig mineralvann og på næringsmidler til bruk ved spesielle ernæringsmessige behov, skal næringsmiddelopplysninger ikke tillegge et næringsmiddel egenskaper som forebygging, behandling eller helbredelse av sykdom hos mennesker eller skape inntrykk av slike egenskaper.
 
-4\. Nr. 1, 2 og 3 får også anvendelse påreklame,presentasjon av næringsmidler, særlig næringsmidlenes form, utseende eller emballasje, emballasjematerialet som er brukt, måten næringsmidlene er arrangert på, samt forholdene de frambys under.
+4\. Nr. 1, 2 og 3 får også anvendelse på
+
+1. reklame,
+2. presentasjon av næringsmidler, særlig næringsmidlenes form, utseende eller emballasje, emballasjematerialet som er brukt, måten næringsmidlene er arrangert på, samt forholdene de frambys under.
 
 ### Artikkel 8. Ansvar
 
@@ -259,7 +388,12 @@ Alle næringsmidler som er beregnet på sluttforbrukere eller storhusholdninger,
 
 6\. Driftsansvarlige for næringsmiddelforetak skal i de foretak som er under deres kontroll, sikre at opplysninger om næringsmidler som ikke er ferdigpakket, og som er beregnet på sluttforbrukeren eller på levering til storhusholdninger, gis videre til den driftsansvarlige for næringsmiddelforetaket som mottar næringsmiddelet, slik at de obligatoriske næringsmiddelopplysningene om nødvendig kan gis til sluttforbrukeren.
 
-7\. I følgende tilfeller skal driftsansvarlige for næringsmiddelforetak i de foretak som er under deres kontroll, sikre at de obligatoriske opplysningene som er påkrevd i henhold til artikkel 9 og 10, er angitt på ferdigpakningen, på en etikett festet til denne eller i handelsdokumentene for næringsmidlene når det kan garanteres at disse dokumentene enten følger de næringsmidlene de viser til, eller er blitt oversendt før leveringen eller samtidig med leveringennår ferdigpakkede næringsmidler er beregnet på sluttforbrukeren, men markedsføres i et ledd før slikt salg og dette leddet ikke gjelder salg til en storhusholdning,når ferdigpakkede næringsmidler er beregnet på levering til storhusholdninger der de skal tilberedes eller foredles, deles eller snittes.Uten hensyn til første ledd skal driftsansvarlige for næringsmiddelforetak sikre at opplysningene nevnt i artikkel 9 nr. 1 bokstav a), f), g) og h) også påføres den ytre emballasjen som de ferdigpakkede næringsmidlene presenteres i ved markedsføringen.
+7\. I følgende tilfeller skal driftsansvarlige for næringsmiddelforetak i de foretak som er under deres kontroll, sikre at de obligatoriske opplysningene som er påkrevd i henhold til artikkel 9 og 10, er angitt på ferdigpakningen, på en etikett festet til denne eller i handelsdokumentene for næringsmidlene når det kan garanteres at disse dokumentene enten følger de næringsmidlene de viser til, eller er blitt oversendt før leveringen eller samtidig med leveringen
+
+1. når ferdigpakkede næringsmidler er beregnet på sluttforbrukeren, men markedsføres i et ledd før slikt salg og dette leddet ikke gjelder salg til en storhusholdning,
+2. når ferdigpakkede næringsmidler er beregnet på levering til storhusholdninger der de skal tilberedes eller foredles, deles eller snittes.
+
+Uten hensyn til første ledd skal driftsansvarlige for næringsmiddelforetak sikre at opplysningene nevnt i artikkel 9 nr. 1 bokstav a), f), g) og h) også påføres den ytre emballasjen som de ferdigpakkede næringsmidlene presenteres i ved markedsføringen.
 
 8\. Driftsansvarlige for næringsmiddelforetak som til andre driftsansvarlige for næringsmiddelforetak leverer næringsmidler som ikke er beregnet på sluttforbrukeren eller på storhusholdninger, skal sikre at disse andre driftsansvarlige for næringsmiddelforetak får tilstrekkelig informasjon til at de kan oppfylle sine forpliktelser i henhold til nr. 2.
 
@@ -273,11 +407,26 @@ Innhold og presentasjon
 
 Liste over obligatoriske opplysninger
 
-1\. I samsvar med artikkel 10–35 og med forbehold for unntakene fastsatt i dette kapittel er følgende opplysninger obligatoriske:næringsmiddelets betegnelse,ingredienslisten,ingredienser eller tekniske hjelpestoffer som er oppført i vedlegg II, eller som er avledet av et stoff eller produkt som er oppført i vedlegg II, som forårsaker allergier eller intoleranser, og som anvendes i framstillingen eller tilberedningen av et næringsmiddel og fortsatt finnes i det ferdige produktet, eventuelt i endret form,mengden av visse ingredienser eller kategorier av ingredienser,nettoinnholdet av næringsmiddelet,holdbarhetsdato eller siste forbruksdato,særlige vilkår for oppbevaring og/eller bruk,navn eller firma og adresse for den driftsansvarlige for næringsmiddelforetaket som nevnt i artikkel 8 nr. 1,opprinnelsesstat eller opphavssted, dersom det er fastsatt i artikkel 26,bruksanvisning i de tilfeller der det vil være vanskelig å bruke næringsmiddelet på riktig måte dersom en slik bruksanvisning ikke finnes,for drikker som inneholder mer enn 1,2 volumprosent alkohol, angivelse av det faktiske alkoholinnholdet i volumprosent,en næringsdeklarasjon.
+1\. I samsvar med artikkel 10–35 og med forbehold for unntakene fastsatt i dette kapittel er følgende opplysninger obligatoriske:
+
+1. næringsmiddelets betegnelse,
+2. ingredienslisten,
+3. ingredienser eller tekniske hjelpestoffer som er oppført i vedlegg II, eller som er avledet av et stoff eller produkt som er oppført i vedlegg II, som forårsaker allergier eller intoleranser, og som anvendes i framstillingen eller tilberedningen av et næringsmiddel og fortsatt finnes i det ferdige produktet, eventuelt i endret form,
+4. mengden av visse ingredienser eller kategorier av ingredienser,
+5. nettoinnholdet av næringsmiddelet,
+6. holdbarhetsdato eller siste forbruksdato,
+7. særlige vilkår for oppbevaring og/eller bruk,
+8. navn eller firma og adresse for den driftsansvarlige for næringsmiddelforetaket som nevnt i artikkel 8 nr. 1,
+9. opprinnelsesstat eller opphavssted, dersom det er fastsatt i artikkel 26,
+10. bruksanvisning i de tilfeller der det vil være vanskelig å bruke næringsmiddelet på riktig måte dersom en slik bruksanvisning ikke finnes,
+11. for drikker som inneholder mer enn 1,2 volumprosent alkohol, angivelse av det faktiske alkoholinnholdet i volumprosent,
+12. en næringsdeklarasjon.
 
 2\. Opplysningene nevnt i nr. 1 skal angis med ord og tall. Uten at det berører artikkel 35, kan de også uttrykkes ved hjelp av piktogrammer eller symboler.
 
-3\. Dersom Kommisjonen vedtar delegerte rettsakter og gjennomføringsrettsakter i henhold til denne artikkel, kan opplysningene nevnt i nr. 1 alternativt uttrykkes ved hjelp av piktogrammer eller symboler i stedet for med ord og tall.For å sikre at forbrukerne får tilgang til obligatoriske næringsmiddelopplysninger også på andre måter enn gjennom ord og tall, og forutsatt at samme informasjonsnivå opprettholdes som med ord og tall, kan Kommisjonen, idet det tas hensyn til dokumentasjon som viser at forbrukerne oppfatter opplysningene på samme måte, ved hjelp av delegerte rettsakter i samsvar med artikkel 51 fastsette kriteriene for at én eller flere av opplysningene nevnt i nr. 1 kan uttrykkes ved hjelp av piktogrammer eller symboler i stedet for med ord og tall.
+3\. Dersom Kommisjonen vedtar delegerte rettsakter og gjennomføringsrettsakter i henhold til denne artikkel, kan opplysningene nevnt i nr. 1 alternativt uttrykkes ved hjelp av piktogrammer eller symboler i stedet for med ord og tall.
+
+For å sikre at forbrukerne får tilgang til obligatoriske næringsmiddelopplysninger også på andre måter enn gjennom ord og tall, og forutsatt at samme informasjonsnivå opprettholdes som med ord og tall, kan Kommisjonen, idet det tas hensyn til dokumentasjon som viser at forbrukerne oppfatter opplysningene på samme måte, ved hjelp av delegerte rettsakter i samsvar med artikkel 51 fastsette kriteriene for at én eller flere av opplysningene nevnt i nr. 1 kan uttrykkes ved hjelp av piktogrammer eller symboler i stedet for med ord og tall.
 
 4\. For å sikre ensartet gjennomføring av nr. 3 i denne artikkel kan Kommisjonen vedta gjennomføringsrettsakter med gjennomføringsregler for kriteriene fastsatt i nr. 3 med tanke på å angi én eller flere opplysninger ved hjelp av piktogrammer eller symboler i stedet for med ord eller tall. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
@@ -287,7 +436,9 @@ Supplerende obligatoriske opplysninger for visse typer eller kategorier av næri
 
 1\. I tillegg til opplysningene oppført i artikkel 9 nr. 1 er det i vedlegg III fastsatt supplerende obligatoriske opplysninger for visse typer eller kategorier av næringsmidler.
 
-2\. For å sikre forbrukeropplysninger om visse typer eller kategorier av næringsmidler og for å ta hensyn til den tekniske og vitenskapelige utvikling, vern av forbrukernes helse eller sikker bruk av et næringsmiddel kan Kommisjonen endre vedlegg III ved hjelp av delegerte rettsakter i samsvar med artikkel 51.Dersom det foreligger tvingende hasteårsaker som skyldes en oppstått fare for forbrukernes helse, får framgangsmåten fastsatt i artikkel 52 anvendelse på delegerte rettsakter som vedtas i henhold til denne artikkel.
+2\. For å sikre forbrukeropplysninger om visse typer eller kategorier av næringsmidler og for å ta hensyn til den tekniske og vitenskapelige utvikling, vern av forbrukernes helse eller sikker bruk av et næringsmiddel kan Kommisjonen endre vedlegg III ved hjelp av delegerte rettsakter i samsvar med artikkel 51.
+
+Dersom det foreligger tvingende hasteårsaker som skyldes en oppstått fare for forbrukernes helse, får framgangsmåten fastsatt i artikkel 52 anvendelse på delegerte rettsakter som vedtas i henhold til denne artikkel.
 
 ###### Artikkel 11
 
@@ -319,7 +470,9 @@ Presentasjon av obligatoriske opplysninger
 
 3\. For emballasje eller beholdere med en største overflate på under 80 cm2 skal x-høyden på skriftstørrelsen nevnt i nr. 2 være minst 0,9 mm.
 
-4\. For å nå målene i denne forordning skal Kommisjonen ved hjelp av delegerte rettsakter i samsvar med artikkel 51 fastsette regler for lesbarhet.For samme formål som nevnt i første ledd kan Kommisjonen ved hjelp av delegerte rettsakter i samsvar med artikkel 51 utvide kravene i nr. 5 i denne artikkel til å gjelde supplerende obligatoriske opplysninger om visse typer eller kategorier av næringsmidler.
+4\. For å nå målene i denne forordning skal Kommisjonen ved hjelp av delegerte rettsakter i samsvar med artikkel 51 fastsette regler for lesbarhet.
+
+For samme formål som nevnt i første ledd kan Kommisjonen ved hjelp av delegerte rettsakter i samsvar med artikkel 51 utvide kravene i nr. 5 i denne artikkel til å gjelde supplerende obligatoriske opplysninger om visse typer eller kategorier av næringsmidler.
 
 5\. Opplysningene nevnt i artikkel 9 nr. 1 bokstav a), e) og k) skal stå oppført i samme synsfelt.
 
@@ -329,7 +482,10 @@ Presentasjon av obligatoriske opplysninger
 
 Fjernsalg
 
-1\. Uten at det berører opplysningskravene fastsatt i artikkel 9, gjelder følgende for ferdigpakkede næringsmidler som tilbys for salg via fjernkommunikasjonsmidler:Obligatoriske næringsmiddelopplysninger, med unntak av opplysningene fastsatt i artikkel 9 nr. 1 bokstav f), skal foreligge før kjøpet avsluttes, og de skal være oppført i støttemateriellet som brukes til fjernsalg, eller gjøres tilgjengelige på andre relevante måter som skal være tydelig angitt av den driftsansvarlige for næringsmiddelforetaket. Dersom andre egnede måter anvendes, skal de obligatoriske opplysningene gjøres tilgjengelige uten at den driftsansvarlige for næringsmiddelforetaket pålegger forbrukerne tilleggskostnader.Alle obligatoriske opplysninger skal foreligge på leveringstidspunktet.
+1\. Uten at det berører opplysningskravene fastsatt i artikkel 9, gjelder følgende for ferdigpakkede næringsmidler som tilbys for salg via fjernkommunikasjonsmidler:
+
+1. Obligatoriske næringsmiddelopplysninger, med unntak av opplysningene fastsatt i artikkel 9 nr. 1 bokstav f), skal foreligge før kjøpet avsluttes, og de skal være oppført i støttemateriellet som brukes til fjernsalg, eller gjøres tilgjengelige på andre relevante måter som skal være tydelig angitt av den driftsansvarlige for næringsmiddelforetaket. Dersom andre egnede måter anvendes, skal de obligatoriske opplysningene gjøres tilgjengelige uten at den driftsansvarlige for næringsmiddelforetaket pålegger forbrukerne tilleggskostnader.
+2. Alle obligatoriske opplysninger skal foreligge på leveringstidspunktet.
 
 2\. Når næringsmidler som ikke er ferdigpakket, tilbys for salg via fjernkommunikasjonsmidler, skal opplysningene som kreves i henhold til artikkel 44, foreligge i samsvar med nr. 1 i denne artikkel.
 
@@ -355,7 +511,11 @@ Utelatelse av visse obligatoriske opplysninger
 
 3\. Uten at det berører andre unionsbestemmelser om obligatorisk næringsdeklarasjon, er deklarasjonen nevnt i artikkel 9 nr. 1 bokstav l) ikke obligatorisk for næringsmidlene oppført i vedlegg V.
 
-4\. Uten at det berører andre unionsbestemmelser om en ingrediensliste eller en obligatorisk næringsdeklarasjon, er opplysningene nevnt i artikkel 9 nr. 1 bokstav b) og l) ikke obligatoriske for drikker som inneholder mer enn 1,2 volumprosent alkohol.Kommisjonen skal senest 13. desember 2014 framlegge en rapport om anvendelsen av artikkel 18 og artikkel 30 nr. 1 på produktene nevnt i dette nummer der den også tar opp spørsmålet om hvorvidt alkoholholdige drikker i framtiden særlig bør omfattes av kravet om opplysning om energiinnhold, og begrunnelsene for eventuelle unntak, idet det tas hensyn til behovet for å sikre sammenheng med annen relevant unionspolitikk. Kommisjonen skal i den forbindelse vurdere behovet for å foreslå en definisjon av «rusbrus».Kommisjonens rapport skal eventuelt ledsages av et forslag til regelverk som fastsetter regler for en ingrediensliste eller obligatorisk næringsdeklarasjon for disse produktene.
+4\. Uten at det berører andre unionsbestemmelser om en ingrediensliste eller en obligatorisk næringsdeklarasjon, er opplysningene nevnt i artikkel 9 nr. 1 bokstav b) og l) ikke obligatoriske for drikker som inneholder mer enn 1,2 volumprosent alkohol.
+
+Kommisjonen skal senest 13. desember 2014 framlegge en rapport om anvendelsen av artikkel 18 og artikkel 30 nr. 1 på produktene nevnt i dette nummer der den også tar opp spørsmålet om hvorvidt alkoholholdige drikker i framtiden særlig bør omfattes av kravet om opplysning om energiinnhold, og begrunnelsene for eventuelle unntak, idet det tas hensyn til behovet for å sikre sammenheng med annen relevant unionspolitikk. Kommisjonen skal i den forbindelse vurdere behovet for å foreslå en definisjon av «rusbrus».
+
+Kommisjonens rapport skal eventuelt ledsages av et forslag til regelverk som fastsetter regler for en ingrediensliste eller obligatorisk næringsdeklarasjon for disse produktene.
 
 ### Avsnitt 2
 Detaljerte bestemmelser om obligatoriske opplysninger
@@ -392,7 +552,16 @@ Ingrediensliste
 
 Utelatelse av ingredienslisten
 
-1\. Ingredienslisten kan utelates for følgende næringsmidler:frisk frukt og friske grønnsaker, herunder poteter, som ikke er skrelt, snittet eller behandlet på lignende måte,vann som er tilsatt karbondioksid, og der dette framgår av betegnelsen,eddik framstilt ved gjæring, dersom den utelukkende kommer fra én enkelt råvare og det ikke er tilsatt andre ingredienser,ost, smør, syrnet melk og syrnet fløte som ikke er tilsatt andre ingredienser enn melkeprodukter, næringsmiddelenzymer og mikroorganismekulturer som er nødvendige for framstillingen, eller det salt som er nødvendig for framstilling av annen ost enn fersk ost og smelteost,næringsmidler som består av én ingrediens:dersom næringsmiddelets betegnelse er identisk med ingrediensens betegnelse, ellerdersom ingrediensens art klart framgår av næringsmiddelets betegnelse.
+1\. Ingredienslisten kan utelates for følgende næringsmidler:
+
+1. frisk frukt og friske grønnsaker, herunder poteter, som ikke er skrelt, snittet eller behandlet på lignende måte,
+2. vann som er tilsatt karbondioksid, og der dette framgår av betegnelsen,
+3. eddik framstilt ved gjæring, dersom den utelukkende kommer fra én enkelt råvare og det ikke er tilsatt andre ingredienser,
+4. ost, smør, syrnet melk og syrnet fløte som ikke er tilsatt andre ingredienser enn melkeprodukter, næringsmiddelenzymer og mikroorganismekulturer som er nødvendige for framstillingen, eller det salt som er nødvendig for framstilling av annen ost enn fersk ost og smelteost,
+5. næringsmidler som består av én ingrediens:
+
+   1. dersom næringsmiddelets betegnelse er identisk med ingrediensens betegnelse, eller
+   2. dersom ingrediensens art klart framgår av næringsmiddelets betegnelse.
 
 2\. For å ta hensyn til relevansen for forbrukeren av en ingrediensliste over visse typer eller kategorier av næringsmidler kan Kommisjonen i unntakstilfeller ved hjelp av delegerte rettsakter i samsvar med artikkel 51 utfylle nr. 1 i denne artikkel, forutsatt at utelatelsene ikke fører til at sluttforbrukere eller storhusholdninger blir utilstrekkelig informert.
 
@@ -400,21 +569,48 @@ Utelatelse av ingredienslisten
 
 Utelatelse av næringsmiddelbestanddeler fra ingredienslisten
 
-Uten at det berører artikkel 21, kan følgende næringsmiddelbestanddeler utelates fra ingredienslisten:bestanddeler i en ingrediens som under framstillingsprosessen midlertidig fjernes for deretter å bli tilsatt igjen i en mengde som ikke overstiger de opprinnelige andelene,tilsetningsstoffer og næringsmiddelenzymersom forekommer i et næringsmiddel bare fordi de forekom i én eller flere av ingrediensene i det aktuelle næringsmiddelet, i samsvar med overføringsprinsippet omhandlet i artikkel 18 nr. 1 bokstav a) og b) i forordning [(EF) nr. 1333/2008](eu/32008r1333), forutsatt at de ikke lenger har noen teknisk funksjon i det ferdige produkt, ellersom brukes som tekniske hjelpestoffer,bærestoffer og stoffer som ikke er tilsetningsstoffer, men som brukes på samme måte og med samme formål som bærestoffer, og som brukes i strengt nødvendige mengder,stoffer som ikke er tilsetningsstoffer, men som brukes på samme måte og med samme formål som hjelpestoffer og fortsatt finnes i det ferdige produkt, også i endret form,vannnår vannet under framstillingsprosessen utelukkende brukes til å rekonstituere en konsentrert eller tørket ingrediens, ellerfor en lake som vanligvis ikke konsumeres.
+Uten at det berører artikkel 21, kan følgende næringsmiddelbestanddeler utelates fra ingredienslisten:
+
+1. bestanddeler i en ingrediens som under framstillingsprosessen midlertidig fjernes for deretter å bli tilsatt igjen i en mengde som ikke overstiger de opprinnelige andelene,
+2. tilsetningsstoffer og næringsmiddelenzymer
+
+   1. som forekommer i et næringsmiddel bare fordi de forekom i én eller flere av ingrediensene i det aktuelle næringsmiddelet, i samsvar med overføringsprinsippet omhandlet i artikkel 18 nr. 1 bokstav a) og b) i forordning [(EF) nr. 1333/2008](eu/32008r1333), forutsatt at de ikke lenger har noen teknisk funksjon i det ferdige produkt, eller
+   2. som brukes som tekniske hjelpestoffer,
+3. bærestoffer og stoffer som ikke er tilsetningsstoffer, men som brukes på samme måte og med samme formål som bærestoffer, og som brukes i strengt nødvendige mengder,
+4. stoffer som ikke er tilsetningsstoffer, men som brukes på samme måte og med samme formål som hjelpestoffer og fortsatt finnes i det ferdige produkt, også i endret form,
+5. vann
+
+   1. når vannet under framstillingsprosessen utelukkende brukes til å rekonstituere en konsentrert eller tørket ingrediens, eller
+   2. for en lake som vanligvis ikke konsumeres.
 
 ###### Artikkel 21
 
 Merking av visse stoffer eller produkter som forårsaker allergier eller intoleranser
 
-1\. Uten at det berører bestemmelsene vedtatt i henhold til artikkel 44 nr. 2, skal opplysningene nevnt i artikkel 9 nr. 1 bokstav c), oppfylle følgende krav:De skal angis i ingredienslisten i samsvar med bestemmelsene fastsatt i artikkel 18 nr. 1, med tydelig henvisning til betegnelsen på det stoffet eller produktet som står oppført i vedlegg II, ogbetegnelsen på stoffet eller produktet som står oppført i vedlegg II, skal framheves visuelt på en måte som tydelig skiller det fra resten av ingredienslisten, for eksempel ved hjelp av skrifttype, skriftstil eller bakgrunnsfarge.Dersom det ikke finnes noen ingrediensliste, skal angivelsen av opplysningene nevnt i artikkel 9 nr. 1 bokstav c) omfatte ordet «inneholder» etterfulgt av betegnelsen på det stoffet eller produktet som står oppført i vedlegg II.Dersom flere ingredienser eller tekniske hjelpestoffer i et næringsmiddel stammer fra ett enkelt stoff eller produkt som står oppført i vedlegg II, skal dette i merkingen klart framgå for hver av de aktuelle ingrediensene eller hvert av de tekniske hjelpestoffene.Angivelse av opplysningene nevnt i artikkel 9 nr. 1 bokstav c) er ikke påkrevd dersom næringsmiddelets betegnelse klart viser til det aktuelle stoffet eller produktet.
+1\. Uten at det berører bestemmelsene vedtatt i henhold til artikkel 44 nr. 2, skal opplysningene nevnt i artikkel 9 nr. 1 bokstav c), oppfylle følgende krav:
 
-2\. For å sikre bedre informasjon til forbrukerne og ta hensyn til den seneste utviklingen i vitenskapelig og tekniske kunnskap skal Kommisjonen på nytt systematisk undersøke og om nødvendig ajourføre listen i vedlegg II ved hjelp av delegerte rettsakter, i samsvar med artikkel 51.Dersom det foreligger tvingende hasteårsaker som skyldes en oppstått fare for forbrukernes helse, får framgangsmåten fastsatt i artikkel 52 anvendelse på delegerte rettsakter som vedtas i henhold til denne artikkel.
+1. De skal angis i ingredienslisten i samsvar med bestemmelsene fastsatt i artikkel 18 nr. 1, med tydelig henvisning til betegnelsen på det stoffet eller produktet som står oppført i vedlegg II, og
+2. betegnelsen på stoffet eller produktet som står oppført i vedlegg II, skal framheves visuelt på en måte som tydelig skiller det fra resten av ingredienslisten, for eksempel ved hjelp av skrifttype, skriftstil eller bakgrunnsfarge.
+
+Dersom det ikke finnes noen ingrediensliste, skal angivelsen av opplysningene nevnt i artikkel 9 nr. 1 bokstav c) omfatte ordet «inneholder» etterfulgt av betegnelsen på det stoffet eller produktet som står oppført i vedlegg II.
+
+Dersom flere ingredienser eller tekniske hjelpestoffer i et næringsmiddel stammer fra ett enkelt stoff eller produkt som står oppført i vedlegg II, skal dette i merkingen klart framgå for hver av de aktuelle ingrediensene eller hvert av de tekniske hjelpestoffene.
+
+Angivelse av opplysningene nevnt i artikkel 9 nr. 1 bokstav c) er ikke påkrevd dersom næringsmiddelets betegnelse klart viser til det aktuelle stoffet eller produktet.
+
+2\. For å sikre bedre informasjon til forbrukerne og ta hensyn til den seneste utviklingen i vitenskapelig og tekniske kunnskap skal Kommisjonen på nytt systematisk undersøke og om nødvendig ajourføre listen i vedlegg II ved hjelp av delegerte rettsakter, i samsvar med artikkel 51.
+
+Dersom det foreligger tvingende hasteårsaker som skyldes en oppstått fare for forbrukernes helse, får framgangsmåten fastsatt i artikkel 52 anvendelse på delegerte rettsakter som vedtas i henhold til denne artikkel.
 
 ###### Artikkel 22
 
 Mengdeangivelse av ingredienser
 
-1\. Mengden av en ingrediens eller kategori av ingredienser som brukes i produksjonen eller tilberedningen av et næringsmiddel, skal angis dersom den aktuelle ingrediensen eller kategorien av ingredienserinngår i næringsmiddelbetegnelsen eller vanligvis forbindes med den betegnelsen av forbrukeren,framheves i merkingen ved hjelp av ord, bilder eller en grafisk framstilling, ellerer av vesentlig betydning for å kjennetegne et næringsmiddel og skille det fra andre produkter det vil kunne forveksles med på grunn av sin betegnelse eller sitt utseende.
+1\. Mengden av en ingrediens eller kategori av ingredienser som brukes i produksjonen eller tilberedningen av et næringsmiddel, skal angis dersom den aktuelle ingrediensen eller kategorien av ingredienser
+
+1. inngår i næringsmiddelbetegnelsen eller vanligvis forbindes med den betegnelsen av forbrukeren,
+2. framheves i merkingen ved hjelp av ord, bilder eller en grafisk framstilling, eller
+3. er av vesentlig betydning for å kjennetegne et næringsmiddel og skille det fra andre produkter det vil kunne forveksles med på grunn av sin betegnelse eller sitt utseende.
 
 2\. Tekniske bestemmelser om anvendelsen av nr. 1, herunder særlige tilfeller der det for visse ingredienser ikke kreves mengdeangivelse, er fastsatt i vedlegg VIII.
 
@@ -422,7 +618,10 @@ Mengdeangivelse av ingredienser
 
 Nettoinnhold
 
-1\. Et næringsmiddels nettoinnhold skal uttrykkes i liter, centiliter, milliliter, kilogram eller gram, avhengig av hva som måles, og skal angisi volumenheter for flytende produkter,i masseenheter for andre produkter.
+1\. Et næringsmiddels nettoinnhold skal uttrykkes i liter, centiliter, milliliter, kilogram eller gram, avhengig av hva som måles, og skal angis
+
+1. i volumenheter for flytende produkter,
+2. i masseenheter for andre produkter.
 
 2\. For at forbrukeren bedre skal forstå næringsmiddelopplysningene på merkingen, kan Kommisjonen ved hjelp av delegerte rettsakter i samsvar med artikkel 51 for visse særlige næringsmidler fastsette at nettoinnholdet skal uttrykkes på en annen måte enn den som er fastsatt i nr. 1 i denne artikkel.
 
@@ -452,23 +651,46 @@ Opprinnelsesstat eller opphavssted
 
 1\. Denne artikkel berører ikke krav til merking fastsatt i særlige unionsbestemmelser, særlig rådsforordning [(EF) nr. 509/2006](eu/32006r0509) av 20. mars 2006 om garanterte tradisjonelle spesialiteter av landbruksvarer og næringsmidler1 og rådsforordning [(EF) nr. 510/2006](eu/32006r0510) av 20. mars 2006 om vern av geografiske betegnelser og opprinnelsesbetegnelser for landbruksvarer og næringsmidler.2
 
-2\. Angivelse av opprinnelsesstat eller opphavssted er obligatoriskdersom utelatelse av denne opplysningen vil kunne villede forbrukeren med hensyn til næringsmiddelets egentlige opprinnelsesstat eller opphavssted, særlig dersom opplysningene som ledsager næringsmiddelet, eller etiketten som helhet ellers kan gi inntrykk av at næringsmiddelet har en annen opprinnelsesstat eller et annet opphavssted,for kjøtt som omfattes av Den kombinerte nomenklatur (KN) under kodene som er oppført i vedlegg XI. Anvendelsen av denne bokstav forutsetter vedtakelse av gjennomføringsrettsaktene nevnt i nr. 8.
+2\. Angivelse av opprinnelsesstat eller opphavssted er obligatorisk
 
-3\. Dersom næringsmiddelets opprinnelsesstat eller opphavssted er angitt, men ikke er identisk med hovedingrediensens opprinnelsesstat eller opphavssted,skal også den aktuelle hovedingrediensens opprinnelsesstat eller opphavssted angis, ellerskal det angis at hovedingrediensen har en annen opprinnelsesstat eller et annet opphavssted enn næringsmiddelet.Anvendelsen av dette nummer forutsetter vedtakelse av gjennomføringsrettsaktene nevnt i nr. 8.
+1. dersom utelatelse av denne opplysningen vil kunne villede forbrukeren med hensyn til næringsmiddelets egentlige opprinnelsesstat eller opphavssted, særlig dersom opplysningene som ledsager næringsmiddelet, eller etiketten som helhet ellers kan gi inntrykk av at næringsmiddelet har en annen opprinnelsesstat eller et annet opphavssted,
+2. for kjøtt som omfattes av Den kombinerte nomenklatur (KN) under kodene som er oppført i vedlegg XI. Anvendelsen av denne bokstav forutsetter vedtakelse av gjennomføringsrettsaktene nevnt i nr. 8.
+
+3\. Dersom næringsmiddelets opprinnelsesstat eller opphavssted er angitt, men ikke er identisk med hovedingrediensens opprinnelsesstat eller opphavssted,
+
+1. skal også den aktuelle hovedingrediensens opprinnelsesstat eller opphavssted angis, eller
+2. skal det angis at hovedingrediensen har en annen opprinnelsesstat eller et annet opphavssted enn næringsmiddelet.
+
+Anvendelsen av dette nummer forutsetter vedtakelse av gjennomføringsrettsaktene nevnt i nr. 8.
 
 4\. Kommisjonen skal innen fem år fra datoen da nr. 2 bokstav b) får anvendelse, framlegge for Europaparlamentet og Rådet en rapport med en vurdering av den obligatoriske angivelsen av opprinnelsesstat eller opphavssted for produktene nevnt i nevnte bokstav.
 
-5\. Kommisjonen skal senest 13. desember 2014 framlegge for Europaparlamentet og Rådet en rapport om den obligatoriske angivelsen av opprinnelsesstat eller opphavssted for følgende næringsmidler:andre typer kjøtt enn storfekjøtt og typene nevnt i nr. 2 bokstav b),melk,melk som inngår som ingrediens i melkeprodukter,uforedlede næringsmidler,produkter som består av bare én ingrediens,ingredienser som utgjør mer enn 50 % av et næringsmiddel.
+5\. Kommisjonen skal senest 13. desember 2014 framlegge for Europaparlamentet og Rådet en rapport om den obligatoriske angivelsen av opprinnelsesstat eller opphavssted for følgende næringsmidler:
+
+1. andre typer kjøtt enn storfekjøtt og typene nevnt i nr. 2 bokstav b),
+2. melk,
+3. melk som inngår som ingrediens i melkeprodukter,
+4. uforedlede næringsmidler,
+5. produkter som består av bare én ingrediens,
+6. ingredienser som utgjør mer enn 50 % av et næringsmiddel.
 
 6\. Kommisjonen skal senest 13. desember 2013 framlegge for Europaparlamentet og Rådet en rapport om den obligatoriske angivelsen av opprinnelsesstat eller opphavssted for kjøtt som brukes som ingrediens.
 
-7\. Rapportene nevnt i nr. 5 og 6 skal ta i betraktning nødvendigheten av å informere forbrukeren, gjennomførbarheten av obligatorisk angivelse av opprinnelsesstat eller opphavssted og en nytte- og kostnadsanalyse av å innføre slike tiltak, herunder den rettslige innvirkningen på det indre marked og innvirkningen på internasjonal handel.Kommisjonens rapporter kan ledsages av forslag til endring av de relevante unionsbestemmelsene.
+7\. Rapportene nevnt i nr. 5 og 6 skal ta i betraktning nødvendigheten av å informere forbrukeren, gjennomførbarheten av obligatorisk angivelse av opprinnelsesstat eller opphavssted og en nytte- og kostnadsanalyse av å innføre slike tiltak, herunder den rettslige innvirkningen på det indre marked og innvirkningen på internasjonal handel.
+
+Kommisjonens rapporter kan ledsages av forslag til endring av de relevante unionsbestemmelsene.
 
 8\. Etter konsekvensanalysen skal Kommisjonen senest 13. desember 2013 vedta gjennomføringsrettsakter om anvendelsen av nr. 2 bokstav b) i denne artikkel og anvendelsen av nr. 3 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
-9\. For næringsmidlene nevnt i nr. 2 bokstav b), nr. 5 bokstav a) og nr. 6 skal rapportene og konsekvensanalysene i henhold til denne artikkel blant annet vurdere forskjellige måter for angivelse av disse næringsmidlenes opprinnelsesstat eller opphavssted, særlig med hensyn til hver av de følgende viktige faktorer i dyrets liv:fødested,oppdrettssted,slaktested.
+9\. For næringsmidlene nevnt i nr. 2 bokstav b), nr. 5 bokstav a) og nr. 6 skal rapportene og konsekvensanalysene i henhold til denne artikkel blant annet vurdere forskjellige måter for angivelse av disse næringsmidlenes opprinnelsesstat eller opphavssted, særlig med hensyn til hver av de følgende viktige faktorer i dyrets liv:
 
-1 EUT L 93 av 31.3.2006, s. 1.2 EUT L 93 av 31.3.2006, s. 12.
+1. fødested,
+2. oppdrettssted,
+3. slaktested.
+
+1 EUT L 93 av 31.3.2006, s. 1.
+
+2 EUT L 93 av 31.3.2006, s. 12.
 
 ###### Artikkel 27
 
@@ -493,25 +715,50 @@ Næringsdeklarasjon
 
 Forholdet til annet regelverk
 
-1\. Dette avsnitt får ikke anvendelse på næringsmidler som omfattes av følgende regelverk:europaparlaments- og rådsdirektiv [2002/46/EF](eu/32002l0046) av 10. juni 2002 om tilnærming av medlemsstatenes lovgivning om kosttilskudd,1europaparlaments- og rådsdirektiv [2009/54/EF](eu/32009l0054) av 18. juni 2009 om utnyttelse og markedsføring av naturlig mineralvann.2
+1\. Dette avsnitt får ikke anvendelse på næringsmidler som omfattes av følgende regelverk:
+
+1. europaparlaments- og rådsdirektiv [2002/46/EF](eu/32002l0046) av 10. juni 2002 om tilnærming av medlemsstatenes lovgivning om kosttilskudd,1
+2. europaparlaments- og rådsdirektiv [2009/54/EF](eu/32009l0054) av 18. juni 2009 om utnyttelse og markedsføring av naturlig mineralvann.2
 
 2\. Dette avsnitt berører ikke europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039) av 6. mai 2009 om næringsmidler til bruk ved spesielle ernæringsmessige behov3 og de særdirektiver som nevnes i direktivets artikkel 4 nr. 1.
 
-1 EFT L 183 av 12.7.2002, s. 51.2 EUT L 164 av 26.6.2009, s. 45.3 EUT L 124 av 20.5.2009, s. 21.
+1 EFT L 183 av 12.7.2002, s. 51.
+
+2 EUT L 164 av 26.6.2009, s. 45.
+
+3 EUT L 124 av 20.5.2009, s. 21.
 
 ###### Artikkel 30
 
 Innhold
 
-1\. Den obligatoriske næringsdeklarasjonen skal inneholde følgende opplysninger:energiinnhold, ogmengden av fett, mettede fettsyrer, karbohydrater, sukkerarter, protein og salt.En opplysning om at saltinnholdet utelukkende skyldes naturlig forekommende natrium kan eventuelt oppføres i umiddelbar nærhet av næringsdeklarasjonen.
+1\. Den obligatoriske næringsdeklarasjonen skal inneholde følgende opplysninger:
 
-2\. Innholdet i den obligatoriske næringsdeklarasjonen nevnt i nr. 1 kan utfylles med angivelse av mengden av ett eller flere av følgende stoffer:en-umettede fettsyrer,flerumettede fettsyrer,polyoler,stivelse,kostfiber,de vitaminer og mineraler som er oppført i del A nr. 1 i vedlegg XIII, og som forekommer i betydelige mengder som definert i nr. 2 i del A i vedlegg XIII.
+1. energiinnhold, og
+2. mengden av fett, mettede fettsyrer, karbohydrater, sukkerarter, protein og salt.
 
-3\. Dersom merkingen av et ferdigpakket næringsmiddel har med den obligatoriske næringsdeklarasjonen nevnt i nr. 1, kan følgende opplysninger gjentas på pakningen:energiinnholdet, ellerenergiinnholdet sammen med mengden av fett, mettede fettsyrer, sukkerarter og salt.
+En opplysning om at saltinnholdet utelukkende skyldes naturlig forekommende natrium kan eventuelt oppføres i umiddelbar nærhet av næringsdeklarasjonen.
+
+2\. Innholdet i den obligatoriske næringsdeklarasjonen nevnt i nr. 1 kan utfylles med angivelse av mengden av ett eller flere av følgende stoffer:
+
+1. en-umettede fettsyrer,
+2. flerumettede fettsyrer,
+3. polyoler,
+4. stivelse,
+5. kostfiber,
+6. de vitaminer og mineraler som er oppført i del A nr. 1 i vedlegg XIII, og som forekommer i betydelige mengder som definert i nr. 2 i del A i vedlegg XIII.
+
+3\. Dersom merkingen av et ferdigpakket næringsmiddel har med den obligatoriske næringsdeklarasjonen nevnt i nr. 1, kan følgende opplysninger gjentas på pakningen:
+
+1. energiinnholdet, eller
+2. energiinnholdet sammen med mengden av fett, mettede fettsyrer, sukkerarter og salt.
 
 4\. Som unntak fra artikkel 36 nr. 1 kan innholdet i næringsdeklarasjonen begrenses til å omfatte bare energiinnholdet, dersom merkingen av produktene nevnt i artikkel 16 nr. 4 har med en næringsdeklarasjon.
 
-5\. Uten at det berører artikkel 44, og som unntak fra artikkel 36 nr. 1 kan innholdet i næringsdeklarasjonen, dersom merkingen av produktene nevnt i artikkel 44 nr. 1 har med en næringsdeklarasjon, begrenses til å omfatte bareenergiinnholdet, ellerenergiinnholdet sammen med mengden av fett, mettede fettsyrer, sukkerarter og salt.
+5\. Uten at det berører artikkel 44, og som unntak fra artikkel 36 nr. 1 kan innholdet i næringsdeklarasjonen, dersom merkingen av produktene nevnt i artikkel 44 nr. 1 har med en næringsdeklarasjon, begrenses til å omfatte bare
+
+1. energiinnholdet, eller
+2. energiinnholdet sammen med mengden av fett, mettede fettsyrer, sukkerarter og salt.
 
 6\. For å ta hensyn til relevansen av opplysningene nevnt i nr. 2–5 i denne artikkel for forbrukeropplysningen kan Kommisjonen ved hjelp av delegerte rettsakter i samsvar med artikkel 51 endre listene i nr. 2–5 i denne artikkel ved å tilføye eller stryke opplysninger.
 
@@ -525,9 +772,17 @@ Beregning
 
 2\. Kommisjonen kan ved hjelp av delegerte rettsakter i samsvar med artikkel 51 vedta omregningsfaktorer for vitaminene og mineralene nevnt i del A nr. 1 i vedlegg XIII for mer nøyaktig beregning av innholdet av slike vitaminer og mineraler i næringsmidler. Disse omregningsfaktorene skal tilføyes i vedlegg XIV.
 
-3\. Energiinnholdet og mengdene av næringsstoffer nevnt i artikkel 30 nr. 1–5 viser til mengdene i næringsmiddelet slik det selges.Når det er hensiktsmessig, kan opplysningene gis for næringsmiddelet i tilberedt stand, forutsatt at det er gitt en tilstrekkelig utførlig beskrivelse av tilberedningsmåten, og at de opplysninger som gis, gjelder det spise- eller drikkeferdige produkt.
+3\. Energiinnholdet og mengdene av næringsstoffer nevnt i artikkel 30 nr. 1–5 viser til mengdene i næringsmiddelet slik det selges.
 
-4\. De deklarerte verdiene skal, alt etter omstendighetene, være gjennomsnittsverdier fastsatt på grunnlag avprodusentens analyse av næringsmiddelet,beregning ut fra kjente eller faktiske gjennomsnittsverdier for ingrediensene som brukes, ellerberegning ut fra alminnelig etablerte og aksepterte data.Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter nærmere regler for ensartet gjennomføring av dette nummer med hensyn til nøyaktigheten av deklarerte verdier, for eksempel forskjeller mellom deklarerte verdier og de verdier som framkommer ved offentlig kontroll. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
+Når det er hensiktsmessig, kan opplysningene gis for næringsmiddelet i tilberedt stand, forutsatt at det er gitt en tilstrekkelig utførlig beskrivelse av tilberedningsmåten, og at de opplysninger som gis, gjelder det spise- eller drikkeferdige produkt.
+
+4\. De deklarerte verdiene skal, alt etter omstendighetene, være gjennomsnittsverdier fastsatt på grunnlag av
+
+1. produsentens analyse av næringsmiddelet,
+2. beregning ut fra kjente eller faktiske gjennomsnittsverdier for ingrediensene som brukes, eller
+3. beregning ut fra alminnelig etablerte og aksepterte data.
+
+Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter nærmere regler for ensartet gjennomføring av dette nummer med hensyn til nøyaktigheten av deklarerte verdier, for eksempel forskjeller mellom deklarerte verdier og de verdier som framkommer ved offentlig kontroll. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
 ###### Artikkel 32
 
@@ -547,9 +802,15 @@ Angivelse per 100 g eller per 100 ml
 
 Angivelse per porsjon eller per forbruksenhet
 
-1\. I følgende tilfeller kan energiinnholdet og mengden av næringsstoffer nevnt i artikkel 30 nr. 1–5 angis per porsjon og/eller per forbruksenhet på en måte som er lett gjenkjennelig for forbrukeren, forutsatt at den anvendte porsjonen eller forbruksenheten er angitt på etiketten, og at antallet porsjoner eller enheter i pakningen angis:i tillegg til uttrykksformen per 100 g eller per 100 ml nevnt i artikkel 32 nr. 2,i tillegg til uttrykksformen per 100 g eller per 100 ml nevnt i artikkel 32 nr. 3 når det gjelder innholdet av vitaminer og mineraler,i tillegg til eller i stedet for uttrykksformen per 100 g eller per 100 ml nevnt i artikkel 32 nr. 4.
+1\. I følgende tilfeller kan energiinnholdet og mengden av næringsstoffer nevnt i artikkel 30 nr. 1–5 angis per porsjon og/eller per forbruksenhet på en måte som er lett gjenkjennelig for forbrukeren, forutsatt at den anvendte porsjonen eller forbruksenheten er angitt på etiketten, og at antallet porsjoner eller enheter i pakningen angis:
 
-2\. Som unntak fra artikkel 32 nr. 2 kan mengden av næringsstoffer og/eller prosentandelen av referanseinntaket fastsatt i del B i vedlegg XIII i tilfellene nevnt i artikkel 30 nr. 3 bokstav b) uttrykkes utelukkende per porsjon eller per forbruksenhet.Dersom mengden av næringsstoffer uttrykkes utelukkende per porsjon eller per forbruksenhet i samsvar med første ledd, skal energiinnholdet uttrykkes per 100 g eller per 100 ml og per porsjon eller per forbruksenhet.
+1. i tillegg til uttrykksformen per 100 g eller per 100 ml nevnt i artikkel 32 nr. 2,
+2. i tillegg til uttrykksformen per 100 g eller per 100 ml nevnt i artikkel 32 nr. 3 når det gjelder innholdet av vitaminer og mineraler,
+3. i tillegg til eller i stedet for uttrykksformen per 100 g eller per 100 ml nevnt i artikkel 32 nr. 4.
+
+2\. Som unntak fra artikkel 32 nr. 2 kan mengden av næringsstoffer og/eller prosentandelen av referanseinntaket fastsatt i del B i vedlegg XIII i tilfellene nevnt i artikkel 30 nr. 3 bokstav b) uttrykkes utelukkende per porsjon eller per forbruksenhet.
+
+Dersom mengden av næringsstoffer uttrykkes utelukkende per porsjon eller per forbruksenhet i samsvar med første ledd, skal energiinnholdet uttrykkes per 100 g eller per 100 ml og per porsjon eller per forbruksenhet.
 
 3\. Som unntak fra artikkel 32 nr. 2 kan energiinnholdet og mengden av næringsstoffer og/eller prosentandelen av referanseinntaket fastsatt i del B i vedlegg XIII i tilfellene nevnt i artikkel 30 nr. 5 uttrykkes utelukkende per porsjon eller per forbruksenhet.
 
@@ -565,11 +826,18 @@ Presentasjon
 
 2\. Opplysningene nevnt i artikkel 30 nr. 1 og 2 skal angis i tabellform med tallene under hverandre dersom plassen tillater det. Dersom det ikke er plass, skal opplysningene angis etter hverandre.
 
-3\. Opplysningene nevnt i artikkel 30 nr. 3 skal angisi hovedsynsfeltet, ogmed en skriftstørrelse som er i samsvar med artikkel 13 nr. 2.Opplysningene nevnt i artikkel 30 nr. 3 kan presenteres i et annet format enn det som er angitt i nr. 2 i denne artikkel.
+3\. Opplysningene nevnt i artikkel 30 nr. 3 skal angis
+
+1. i hovedsynsfeltet, og
+2. med en skriftstørrelse som er i samsvar med artikkel 13 nr. 2.
+
+Opplysningene nevnt i artikkel 30 nr. 3 kan presenteres i et annet format enn det som er angitt i nr. 2 i denne artikkel.
 
 4\. Opplysningene nevnt i artikkel 30 nr. 4 og 5 kan presenteres i et annet format enn det som er angitt i nr. 2 i denne artikkel.
 
-5\. Dersom energiinnholdet eller mengden av næringsstoffer i et produkt er ubetydelig, kan opplysningene om disse elementene erstattes med en opplysning som for eksempel «Inneholder ubetydelige mengder av ... », som angis i nærheten av en eventuell næringsdeklarasjon.For å sikre ensartet gjennomføring av dette nummer kan Kommisjonen vedta gjennomføringsrettsakter om det energiinnhold og de mengder av næringsstoffer nevnt i artikkel 30 nr. 1–5 som kan anses som ubetydelige. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
+5\. Dersom energiinnholdet eller mengden av næringsstoffer i et produkt er ubetydelig, kan opplysningene om disse elementene erstattes med en opplysning som for eksempel «Inneholder ubetydelige mengder av ... », som angis i nærheten av en eventuell næringsdeklarasjon.
+
+For å sikre ensartet gjennomføring av dette nummer kan Kommisjonen vedta gjennomføringsrettsakter om det energiinnhold og de mengder av næringsstoffer nevnt i artikkel 30 nr. 1–5 som kan anses som ubetydelige. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
 6\. For å sikre ensartet anvendelse av presentasjonsmåten for næringsdeklarasjon i formatene nevnt i nr. 1–4 i denne artikkel kan Kommisjonen vedta gjennomføringsrettsakter om dette. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
@@ -577,11 +845,21 @@ Presentasjon
 
 Supplerende uttrykks- og presentasjonsformer
 
-1\. I tillegg til uttrykksformene nevnt i artikkel 32 nr. 2 og 4 og artikkel 33 samt presentasjonsformen nevnt i artikkel 34 nr. 2 kan energiinnholdet og mengden av næringsstoffer nevnt i artikkel 30 nr. 1–5 angis med andre uttrykksformer og/eller presenteres ved hjelp av grafikk eller symboler i tillegg til ord eller tall, forutsatt at følgende krav er oppfylt:De bygger på velfunderte og vitenskapelig gyldige forbrukerundersøkelser og villeder ikke forbrukeren som nevnt i artikkel 7,de er utviklet etter samråd med en rekke interessegrupper,de har til formål å gjøre det lettere for forbrukerne å forstå næringsmiddelets bidrag til eller betydning for kostens energi- og næringsinnhold,det finnes vitenskapelig gyldig dokumentasjon på at gjennomsnittsforbrukeren forstår disse uttrykks- og presentasjonsformene,når det gjelder andre uttrykksformer, skal de bygge enten på de harmoniserte referansemengdene for inntak fastsatt i vedlegg XIII eller dersom slike ikke er fastsatt, på allment anerkjente vitenskapelige råd om inntak av energi eller næringsstoffer,de er objektive og ikke-diskriminerende, ogbruken av dem er ikke til hinder for fritt varebytte.
+1\. I tillegg til uttrykksformene nevnt i artikkel 32 nr. 2 og 4 og artikkel 33 samt presentasjonsformen nevnt i artikkel 34 nr. 2 kan energiinnholdet og mengden av næringsstoffer nevnt i artikkel 30 nr. 1–5 angis med andre uttrykksformer og/eller presenteres ved hjelp av grafikk eller symboler i tillegg til ord eller tall, forutsatt at følgende krav er oppfylt:
+
+1. De bygger på velfunderte og vitenskapelig gyldige forbrukerundersøkelser og villeder ikke forbrukeren som nevnt i artikkel 7,
+2. de er utviklet etter samråd med en rekke interessegrupper,
+3. de har til formål å gjøre det lettere for forbrukerne å forstå næringsmiddelets bidrag til eller betydning for kostens energi- og næringsinnhold,
+4. det finnes vitenskapelig gyldig dokumentasjon på at gjennomsnittsforbrukeren forstår disse uttrykks- og presentasjonsformene,
+5. når det gjelder andre uttrykksformer, skal de bygge enten på de harmoniserte referansemengdene for inntak fastsatt i vedlegg XIII eller dersom slike ikke er fastsatt, på allment anerkjente vitenskapelige råd om inntak av energi eller næringsstoffer,
+6. de er objektive og ikke-diskriminerende, og
+7. bruken av dem er ikke til hinder for fritt varebytte.
 
 2\. Medlemsstatene kan anbefale driftsansvarlige for næringsmiddelforetak å bruke én eller flere supplerende måter å uttrykke eller presentere næringsdeklarasjonen på som de anser best oppfyller kravene fastsatt i nr. 1 bokstav a)–g). Medlemsstatene skal framlegge detaljerte opplysninger om slike supplerende uttrykks- og presentasjonsformer for Kommisjonen.
 
-3\. Medlemsstatene skal sikre passende overvåking av supplerende uttrykks- og presentasjonsformer for næringsdeklarasjon som anvendes på markedet på deres territorium.For å lette overvåkingen av anvendelsen av slike supplerende uttrykks- og presentasjonsformer kan medlemsstatene kreve at driftsansvarlige for næringsmiddelforetak som på deres territorium bringer i omsetning næringsmidler med slike opplysninger, skal underrette vedkommende myndighet om anvendelsen av supplerende uttrykks- eller presentasjonsformer og gi myndigheten relevant dokumentasjon på oppfyllelsen av kravene fastsatt i nr. 1 bokstav a)–g). I slike tilfeller kan det også kreves underretning om opphør av anvendelsen av slike supplerende uttrykks- og presentasjonsformer.
+3\. Medlemsstatene skal sikre passende overvåking av supplerende uttrykks- og presentasjonsformer for næringsdeklarasjon som anvendes på markedet på deres territorium.
+
+For å lette overvåkingen av anvendelsen av slike supplerende uttrykks- og presentasjonsformer kan medlemsstatene kreve at driftsansvarlige for næringsmiddelforetak som på deres territorium bringer i omsetning næringsmidler med slike opplysninger, skal underrette vedkommende myndighet om anvendelsen av supplerende uttrykks- eller presentasjonsformer og gi myndigheten relevant dokumentasjon på oppfyllelsen av kravene fastsatt i nr. 1 bokstav a)–g). I slike tilfeller kan det også kreves underretning om opphør av anvendelsen av slike supplerende uttrykks- og presentasjonsformer.
 
 4\. Kommisjonen skal lette og organisere utvekslingen av informasjon mellom medlemsstatene, Kommisjonen og de berørte parter i spørsmål om anvendelsen av supplerende uttrykks- og presentasjonsformer for næringsdeklarasjon.
 
@@ -596,9 +874,25 @@ Frivillige næringsmiddelopplysninger
 
 1\. Dersom næringsmiddelopplysningene nevnt i artikkel 9 og 10 angis på frivillig grunnlag, skal de oppfylle kravene fastsatt i kapittel IV avsnitt 2 og 3.
 
-2\. Næringsmiddelopplysninger som angis på frivillig grunnlag, skal oppfylle følgende krav:De skal ikke villede forbrukeren, som nevnt i artikkel 7,de skal ikke være tvetydige eller forvirrende for forbrukeren, ogde skal eventuelt være basert på relevante vitenskapelige data.
+2\. Næringsmiddelopplysninger som angis på frivillig grunnlag, skal oppfylle følgende krav:
 
-3\. Kommisjonen skal vedta gjennomføringsrettsakter for anvendelsen av kravene nevnt i nr. 2 i denne artikkel når det gjelder følgende frivillige næringsmiddelopplysninger:opplysninger om mulig og utilsiktet forekomst i næringsmidler av stoffer eller produkter som forårsaker allergier eller intoleranser,opplysninger om et næringsmiddels egnethet for vegetarianere eller veganere, ogangivelse av referanseinntak for bestemte befolkningsgrupper i tillegg til referanseinntakene fastsatt i vedlegg XIII.► **M1**opplysninger om fravær av eller redusert forekomst av gluten i næringsmidler.◄ **M1**Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
+1. De skal ikke villede forbrukeren, som nevnt i artikkel 7,
+2. de skal ikke være tvetydige eller forvirrende for forbrukeren, og
+3. de skal eventuelt være basert på relevante vitenskapelige data.
+
+3\. Kommisjonen skal vedta gjennomføringsrettsakter for anvendelsen av kravene nevnt i nr. 2 i denne artikkel når det gjelder følgende frivillige næringsmiddelopplysninger:
+
+1. opplysninger om mulig og utilsiktet forekomst i næringsmidler av stoffer eller produkter som forårsaker allergier eller intoleranser,
+2. opplysninger om et næringsmiddels egnethet for vegetarianere eller veganere, og
+3. angivelse av referanseinntak for bestemte befolkningsgrupper i tillegg til referanseinntakene fastsatt i vedlegg XIII.
+
+► **M1**
+
+1. opplysninger om fravær av eller redusert forekomst av gluten i næringsmidler.
+
+◄ **M1**
+
+Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
 4\. Dersom driftsansvarlige for næringsmiddelforetak angir frivillige næringsmiddelopplysninger som er innbyrdes avvikende og kan villede eller forvirre forbrukerne, kan Kommisjonen for å sikre at forbrukerne blir korrekt informert, ved hjelp av delegerte rettsakter i samsvar med artikkel 51 vedta bestemmelser om frivillige næringsmiddelopplysninger i tillegg til dem som er nevnt i nr. 3 i denne artikkel.
 
@@ -617,7 +911,12 @@ Nasjonale tiltak
 
 ### Artikkel 39. Nasjonale tiltak med hensyn til supplerende obligatoriske opplysninger
 
-1\. I tillegg til de obligatoriske opplysningene nevnt i artikkel 9 nr. 1 og artikkel 10 kan medlemsstatene etter framgangsmåten i artikkel 45 vedta tiltak med krav om supplerende obligatoriske opplysninger for visse typer eller kategorier av næringsmidler, med begrunnelse i hensynet til minst ett av følgende:vern av folkehelsen,vern av forbrukerne,bekjempelse av svindel,vern av industriell og kommersiell eiendomsrett, angivelser av opphav, registrerte opprinnelsesbetegnelser og bekjempelse av illojal konkurranse.
+1\. I tillegg til de obligatoriske opplysningene nevnt i artikkel 9 nr. 1 og artikkel 10 kan medlemsstatene etter framgangsmåten i artikkel 45 vedta tiltak med krav om supplerende obligatoriske opplysninger for visse typer eller kategorier av næringsmidler, med begrunnelse i hensynet til minst ett av følgende:
+
+1. vern av folkehelsen,
+2. vern av forbrukerne,
+3. bekjempelse av svindel,
+4. vern av industriell og kommersiell eiendomsrett, angivelser av opphav, registrerte opprinnelsesbetegnelser og bekjempelse av illojal konkurranse.
 
 2\. Medlemsstatene kan innføre tiltak for obligatorisk angivelse av næringsmidlers opprinnelsesstat eller opphavssted i henhold til nr. 1 bare dersom det finnes en påvist sammenheng mellom visse av næringsmiddelets kvaliteter og dets opprinnelse eller opphav. Når medlemsstatene underretter Kommisjonen om slike tiltak, skal de framlegge dokumentasjon på at flertallet av forbrukerne tillegger denne opplysningen betydelig verdi.
 
@@ -645,7 +944,10 @@ Medlemsstatene skal umiddelbart oversende Kommisjonen teksten til disse tiltaken
 
 ### Artikkel 44. Nasjonale tiltak for næringsmidler som ikke er ferdigpakket
 
-1\. For næringsmidler som frambys for salg til sluttforbruker eller til storhusholdninger uten å være ferdigpakket, eller for næringsmidler som pakkes på salgsstedet på anmodning fra kjøperen eller er ferdigpakket med sikte på umiddelbart salg,er angivelse av opplysningene nevnt i artikkel 9 nr. 1 bokstav c) obligatorisk,er angivelse av de øvrige opplysningene nevnt i artikkel 9 og 10 ikke obligatorisk, med mindre medlemsstatene vedtar nasjonale tiltak som krever at noen av eller alle disse opplysningene eller deler av disse opplysningene skal angis.
+1\. For næringsmidler som frambys for salg til sluttforbruker eller til storhusholdninger uten å være ferdigpakket, eller for næringsmidler som pakkes på salgsstedet på anmodning fra kjøperen eller er ferdigpakket med sikte på umiddelbart salg,
+
+1. er angivelse av opplysningene nevnt i artikkel 9 nr. 1 bokstav c) obligatorisk,
+2. er angivelse av de øvrige opplysningene nevnt i artikkel 9 og 10 ikke obligatorisk, med mindre medlemsstatene vedtar nasjonale tiltak som krever at noen av eller alle disse opplysningene eller deler av disse opplysningene skal angis.
 
 2\. Medlemsstatene kan vedta nasjonale tiltak for hvordan opplysningene eller deler av opplysningene nevnt i nr. 1 skal gjøres tilgjengelige, herunder eventuelt hvilken uttrykks- eller presentasjonsform som skal anvendes.
 
@@ -674,7 +976,10 @@ For å ta hensyn til den tekniske og vitenskapelige utvikling, forbrukernes hels
 
 ### Artikkel 47. Overgangsperiode og anvendelsesdato for gjennomføringstiltak eller delegerte rettsakter
 
-1\. Uten at det berører nr. 2 i denne artikkel, skal Kommisjonen ved utøvelsen av den myndighet den er gitt ved denne forordning til å vedta tiltak ved hjelp av gjennomføringsrettsakter etter framgangsmåten med undersøkelseskomité nevnt i artikkel 48 nr. 2 eller ved hjelp av delegerte rettsakter i samsvar med artikkel 51,fastsette en passende overgangsperiode for anvendelsen av de nye tiltakene da næringsmidler med etiketter som ikke er i samsvar med de nye tiltakene, kan bringes i omsetning, og da lagre av slike næringsmidler som er brakt i omsetning innen utgangen av overgangsperioden, fortsatt kan selges etter utgangen av overgangsperioden, inntil lagrene er tomme, ogsikre at disse tiltakene får anvendelse fra 1. april i et gitt kalenderår.
+1\. Uten at det berører nr. 2 i denne artikkel, skal Kommisjonen ved utøvelsen av den myndighet den er gitt ved denne forordning til å vedta tiltak ved hjelp av gjennomføringsrettsakter etter framgangsmåten med undersøkelseskomité nevnt i artikkel 48 nr. 2 eller ved hjelp av delegerte rettsakter i samsvar med artikkel 51,
+
+1. fastsette en passende overgangsperiode for anvendelsen av de nye tiltakene da næringsmidler med etiketter som ikke er i samsvar med de nye tiltakene, kan bringes i omsetning, og da lagre av slike næringsmidler som er brakt i omsetning innen utgangen av overgangsperioden, fortsatt kan selges etter utgangen av overgangsperioden, inntil lagrene er tomme, og
+2. sikre at disse tiltakene får anvendelse fra 1. april i et gitt kalenderår.
 
 2\. Nr. 1 får ikke anvendelse i hastesaker dersom formålet med tiltakene i nevnte nummer er vern av menneskers helse.
 
@@ -682,19 +987,27 @@ For å ta hensyn til den tekniske og vitenskapelige utvikling, forbrukernes hels
 
 1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen nedsatt ved artikkel 58 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178). Denne komiteen er en komité som omhandlet i forordning [(EU) nr. 182/2011](eu/32011r0182).
 
-2\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
+2\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.
+
+Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
 
 ### Artikkel 49. Endring av forordning (EF) nr. 1924/2006
 
 I artikkel 7 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) skal første og annet ledd lyde:
 
-«Deklarasjon av næringsinnhold er obligatorisk for produkter som det framsettes en ernærings- og/eller helsepåstand om, med mindre det dreier seg om kollektive reklamekampanjer. Den informasjonen som skal gis, skal bestå av opplysningene nevnt i artikkel 30 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne.\* Dersom det framsettes en ernærings- og/eller helsepåstand om et næringsstoff nevnt i artikkel 30 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*), skal mengden av dette næringsstoffet angis i samsvar med artikkel 31–34 i nevnte forordning.Mengden av det eller de stoffene som ernærings- eller helsepåstanden gjelder, og som ikke framgår av deklarasjonen av næringsinnhold, skal angis i samme synsfelt som deklarasjonen av næringsinnhold og uttrykkes i samsvar med artikkel 31, 32 og 33 i forordning [(EU) nr. 1169/2011](eu/32011r1169*). Målenhetene som anvendes for å angi mengden av et stoff, skal være relevante for hvert av de aktuelle stoffene.\* EUT L 304 av 22.11.2011, s. 18.»
+«Deklarasjon av næringsinnhold er obligatorisk for produkter som det framsettes en ernærings- og/eller helsepåstand om, med mindre det dreier seg om kollektive reklamekampanjer. Den informasjonen som skal gis, skal bestå av opplysningene nevnt i artikkel 30 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne.\* Dersom det framsettes en ernærings- og/eller helsepåstand om et næringsstoff nevnt i artikkel 30 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*), skal mengden av dette næringsstoffet angis i samsvar med artikkel 31–34 i nevnte forordning.
+
+Mengden av det eller de stoffene som ernærings- eller helsepåstanden gjelder, og som ikke framgår av deklarasjonen av næringsinnhold, skal angis i samme synsfelt som deklarasjonen av næringsinnhold og uttrykkes i samsvar med artikkel 31, 32 og 33 i forordning [(EU) nr. 1169/2011](eu/32011r1169*). Målenhetene som anvendes for å angi mengden av et stoff, skal være relevante for hvert av de aktuelle stoffene.
+
+\* EUT L 304 av 22.11.2011, s. 18.»
 
 ### Artikkel 50. Endring av forordning (EF) nr. 1925/2006
 
 Artikkel 7 nr. 3 i forordning [(EF) nr. 1925/2006](eu/32006r1925) skal lyde:
 
-«3. Deklarasjon av næringsinnhold er obligatorisk for produkter som er tilsatt vitaminer og mineraler, og som omfattes av denne forordning. Den informasjonen som skal gis, skal bestå av opplysningene nevnt i artikkel 30 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne,\* og av en angivelse av de samlede mengdene av vitaminer og mineraler som er tilsatt i næringsmiddelet.\* EUT L 304 av 22.11.2011, s. 18.»
+«3. Deklarasjon av næringsinnhold er obligatorisk for produkter som er tilsatt vitaminer og mineraler, og som omfattes av denne forordning. Den informasjonen som skal gis, skal bestå av opplysningene nevnt i artikkel 30 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne,\* og av en angivelse av de samlede mengdene av vitaminer og mineraler som er tilsatt i næringsmiddelet.
+
+\* EUT L 304 av 22.11.2011, s. 18.»
 
 ### Artikkel 51. Utøvelse av delegert myndighet
 
@@ -722,11 +1035,17 @@ Artikkel 7 nr. 3 i forordning [(EF) nr. 1925/2006](eu/32006r1925) skal lyde:
 
 ### Artikkel 54. Overgangstiltak
 
-1\. Næringsmidler som bringes i omsetning eller merkes før 13. desember 2014, og som ikke oppfyller kravene i denne forordning, kan omsettes til næringsmiddellagrene er tømt.Næringsmidler som bringes i omsetning eller merkes før 13. desember 2016, og som ikke oppfyller kravene fastsatt i artikkel 9 nr. 1 bokstav l), kan omsettes til næringsmiddellagrene er tømt.Næringsmidler som bringes i omsetning eller merkes før 1. januar 2014, og som ikke oppfyller kravene fastsatt i del B i vedlegg VI, kan omsettes til næringsmiddellagrene er tømt.
+1\. Næringsmidler som bringes i omsetning eller merkes før 13. desember 2014, og som ikke oppfyller kravene i denne forordning, kan omsettes til næringsmiddellagrene er tømt.
+
+Næringsmidler som bringes i omsetning eller merkes før 13. desember 2016, og som ikke oppfyller kravene fastsatt i artikkel 9 nr. 1 bokstav l), kan omsettes til næringsmiddellagrene er tømt.
+
+Næringsmidler som bringes i omsetning eller merkes før 1. januar 2014, og som ikke oppfyller kravene fastsatt i del B i vedlegg VI, kan omsettes til næringsmiddellagrene er tømt.
 
 2\. Mellom 13. desember 2014 og 13. desember 2016 skal næringsdeklarasjonen, dersom den gis på frivillig grunnlag, være i samsvar med artikkel 30–35.
 
-3\. Uten hensyn til direktiv [90/496/EØF](eu/31990l0496), artikkel 7 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og artikkel 7 nr. 3 i forordning [(EF) nr. 1925/2006](eu/32006r1925) kan næringsmidler som er merket i samsvar med artikkel 30–35 i denne forordning, bringes i omsetning før 13. desember 2014.Uten hensyn til kommisjonsforordning [(EF) nr. 1162/2009](eu/32009r1162) av 30. november 2009 om fastsettelse av overgangsbestemmelser om gjennomføringen av europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*), (EF) [nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*)1 kan næringsmidler som er merket i samsvar med del B i vedlegg VI til denne forordning, bringes i omsetning før 1. januar 2014.
+3\. Uten hensyn til direktiv [90/496/EØF](eu/31990l0496), artikkel 7 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og artikkel 7 nr. 3 i forordning [(EF) nr. 1925/2006](eu/32006r1925) kan næringsmidler som er merket i samsvar med artikkel 30–35 i denne forordning, bringes i omsetning før 13. desember 2014.
+
+Uten hensyn til kommisjonsforordning [(EF) nr. 1162/2009](eu/32009r1162) av 30. november 2009 om fastsettelse av overgangsbestemmelser om gjennomføringen av europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*), (EF) [nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*)1 kan næringsmidler som er merket i samsvar med del B i vedlegg VI til denne forordning, bringes i omsetning før 1. januar 2014.
 
 1 EUT L 314 av 1.12.2009, s. 10.
 
@@ -750,7 +1069,17 @@ Utferdiget i Strasbourg, 25. oktober 2011.
 Særlige definisjoner
 Som nevnt i artikkel 2 nr. 4
 
-1. Med «næringsdeklarasjon» eller «deklarasjon av næringsinnhold» menes opplysninger omenergiinnhold, ellerenergiinnhold og bare ett eller flere av følgende næringsstoffer:fett (mettede fettsyrer, en-umettede fettsyrer, flerumettede fettsyrer),karbohydrat (sukkerarter, polyoler, stivelse),salt,kostfiber,protein,vitaminer og mineraler som er oppført i del A nr. 1 i vedlegg XIII, og som forekommer i betydelige mengder som definert i del A nr. 2 i vedlegg XIII.
+1. Med «næringsdeklarasjon» eller «deklarasjon av næringsinnhold» menes opplysninger om
+
+   1. energiinnhold, eller
+   2. energiinnhold og bare ett eller flere av følgende næringsstoffer:
+
+      - fett (mettede fettsyrer, en-umettede fettsyrer, flerumettede fettsyrer),
+      - karbohydrat (sukkerarter, polyoler, stivelse),
+      - salt,
+      - kostfiber,
+      - protein,
+      - vitaminer og mineraler som er oppført i del A nr. 1 i vedlegg XIII, og som forekommer i betydelige mengder som definert i del A nr. 2 i vedlegg XIII.
 2. Med «fett» menes den samlede mengden lipider, herunder fosfolipider.
 3. Med «mettede fettsyrer» menes fettsyrer uten dobbeltbinding.
 4. Med «transfettsyrer» menes fettsyrer med minst én ikke-konjugert (dvs. atskilt av minst én metylengruppe) karbon-karbon-dobbeltbinding i trans-konfigurasjonen.
@@ -761,7 +1090,11 @@ Som nevnt i artikkel 2 nr. 4
 9. Med «polyoler» menes alkoholer som inneholder mer enn to hydroksylgrupper.
 10. Med «protein» menes proteininnholdet som beregnes ved hjelp av følgende formel: protein = totalt nitrogen analysert med Kjeldahl-metoden × 6,25.
 11. Med «salt» menes saltinnholdet som beregnes ved hjelp av følgende formel: salt = natrium × 2,5.
-12. Med «kostfiber» menes karbohydratpolymerer med tre eller flere monomerenheter som verken fordøyes eller absorberes i tynntarmen hos mennesker, og som tilhører følgende kategorier:spiselige karbohydratpolymerer som er naturlig til stede i spiseferdige næringsmidler,spiselige karbohydratpolymerer som er utvunnet av næringsmiddelråvarer ved hjelp av fysiske, enzymatiske eller kjemiske metoder, og som har en gunstig fysiologisk virkning som er dokumentert ved allment anerkjente vitenskapelige beviser,spiselige syntetiske karbohydratpolymerer som har en gunstig fysiologisk virkning som er dokumentert ved allment anerkjente vitenskapelige beviser.
+12. Med «kostfiber» menes karbohydratpolymerer med tre eller flere monomerenheter som verken fordøyes eller absorberes i tynntarmen hos mennesker, og som tilhører følgende kategorier:
+
+    - spiselige karbohydratpolymerer som er naturlig til stede i spiseferdige næringsmidler,
+    - spiselige karbohydratpolymerer som er utvunnet av næringsmiddelråvarer ved hjelp av fysiske, enzymatiske eller kjemiske metoder, og som har en gunstig fysiologisk virkning som er dokumentert ved allment anerkjente vitenskapelige beviser,
+    - spiselige syntetiske karbohydratpolymerer som har en gunstig fysiologisk virkning som er dokumentert ved allment anerkjente vitenskapelige beviser.
 13. Med «gjennomsnittsverdi» menes den verdi som best representerer den mengde av et næringsstoff som et visst næringsmiddel inneholder, og der det tas hensyn til den margin som skyldes sesongmessige variasjoner, forbruksmønstre og andre faktorer som kan ha innvirkning på den faktiske verdi.
 
 ### Vedlegg II
@@ -770,16 +1103,36 @@ Stoffer eller produkter som forårsaker allergier eller intoleranser
 ► **M2**
 
 1. Kornslag som inneholder gluten, dvs. hvete (f.eks. spelt og khorasanhvete), rug, bygg, havre eller hybridiserte stammer av disse, og produkter framstilt av slike kornslag, unntatt:
-◄ **M2**glukosesiruper framstilt av hvete, herunder dekstrose,1maltdekstriner framstilt av hvete,1glukosesiruper framstilt av bygg,kornslag som brukes til framstilling av alkoholholdige destillater, herunder landbruksetanol.
+   ◄ **M2**
+
+   1. glukosesiruper framstilt av hvete, herunder dekstrose,1
+   2. maltdekstriner framstilt av hvete,1
+   3. glukosesiruper framstilt av bygg,
+   4. kornslag som brukes til framstilling av alkoholholdige destillater, herunder landbruksetanol.
 2. Skalldyr og produkter framstilt av skalldyr.
 3. Egg og produkter framstilt av egg.
-4. Fisk og produkter framstilt av fisk, unntattfiskegelatin som brukes som bærestoff for vitamin- eller karotenoidpreparater,fiskegelatin eller fiskelim som brukes som klaringsmiddel i øl og vin.
+4. Fisk og produkter framstilt av fisk, unntatt
+
+   1. fiskegelatin som brukes som bærestoff for vitamin- eller karotenoidpreparater,
+   2. fiskegelatin eller fiskelim som brukes som klaringsmiddel i øl og vin.
 5. Peanøtter og produkter framstilt av peanøtter.
-6. Soyabønner og produkter framstilt av soyabønner, unntattraffinert soyaolje og -fett,1naturlige blandede tokoferoler (E306), naturlig D-alfa-tokoferol, naturlig D-alfa-tokoferolacetat og naturlig D-alfa-tokoferylsyresuksinat fra soyabønner,fytosteroler og fytosterolestere framstilt av vegetabilske oljer fra soyabønner,fytostanolestere framstilt av vegetabilske steroler fra soyabønner.
-7. Melk og produkter framstilt av melk (herunder laktose), unntattmyse som brukes til framstilling av alkoholholdige destillater, herunder landbruksetanol,laktitol.
+6. Soyabønner og produkter framstilt av soyabønner, unntatt
+
+   1. raffinert soyaolje og -fett,1
+   2. naturlige blandede tokoferoler (E306), naturlig D-alfa-tokoferol, naturlig D-alfa-tokoferolacetat og naturlig D-alfa-tokoferylsyresuksinat fra soyabønner,
+   3. fytosteroler og fytosterolestere framstilt av vegetabilske oljer fra soyabønner,
+   4. fytostanolestere framstilt av vegetabilske steroler fra soyabønner.
+7. Melk og produkter framstilt av melk (herunder laktose), unntatt
+
+   1. myse som brukes til framstilling av alkoholholdige destillater, herunder landbruksetanol,
+   2. laktitol.
 8. Nøtter, dvs. mandler (*Amygdalus communis L*.), hasselnøtter (*Corylus avellana*), valnøtter (*Juglans regia*), kasjunøtter (*Anacardium occidentale*), pekannøtter (*Carya illinoiesis (Wangenh.) K. Koch*), paranøtter (*Bertholletia excelsa*), pistasienøtter (*Pistacia vera*) og macadamianøtter (*Macadamia ternifolia*), og produkter framstilt av slike nøtter, unntatt nøtter som brukes til framstilling av alkoholholdige destillater, herunder landbruksetanol.
-9. Selleri og produkter framstilt av selleri.►**M4**
-10. Sennep og produkter fremstilt av sennep, med unntak av behensyre med en renhet på minst 85 % som er oppnådd etter to destillasjonstrinn, og som brukes til framstilling av emulgatorene E 470a, E 471 og E 477.◄**M4**
+9. Selleri og produkter framstilt av selleri.
+
+   ►**M4**
+10. Sennep og produkter fremstilt av sennep, med unntak av behensyre med en renhet på minst 85 % som er oppnådd etter to destillasjonstrinn, og som brukes til framstilling av emulgatorene E 470a, E 471 og E 477.
+
+    ◄**M4**
 11. Sesamfrø og produkter framstilt av sesamfrø.
 12. Svoveldioksid og sulfitter i konsentrasjoner på mer enn 10 mg/kg eller 10 mg/liter som totalt SO2, som skal beregnes for produkter slik de frambys for konsum eller slik de rekonstitueres i samsvar med produsentens anvisninger.
 13. Lupin og produkter framstilt av lupin.
@@ -861,22 +1214,75 @@ Næringsmiddelets betegnelse og særlige tilleggsopplysninger
 ### Del A – Obligatoriske opplysninger som skal ledsage næringsmiddelets betegnelse
 
 1. Næringsmiddelets betegnelse skal omfatte eller ledsages av en opplysning om næringsmiddelets fysiske tilstand eller den særlige behandling som næringsmiddelet har fått (f.eks. i pulverform, fryst på nytt, frysetørket, dypfryst, konsentrert, røkt) i de tilfeller der utelatelse av en slik opplysning kan villede kjøperen.
-2. Dersom et næringsmiddel har vært fryst før salg og selges opptint, skal næringsmiddelets betegnelse ledsages av angivelsen «opptint».Dette kravet gjelder ikke foringredienser som inngår i sluttproduktet,næringsmidler der innfrysing er et teknologisk nødvendig ledd i produksjonsprosessen,næringsmidler hvis sikkerhet eller kvalitet ikke påvirkes negativt av opptining.Dette nummer berører ikke nr. 1.
-3. Næringsmidler som er behandlet med ioniserende stråling, skal påføres en av følgende angivelser:«bestrålt» eller «behandlet med ioniserende stråling» og andre angivelser som angitt i europaparlaments- og rådsdirektiv [1999/2/EF](eu/31999l0002) av 22. februar 1999 om tilnærming av medlemsstatenes lovgivning om næringsmidler og næringsmiddelingredienser behandlet med ioniserende stråling.1
-4. Når det gjelder næringsmidler der en bestanddel eller ingrediens som forbrukerne forventer at normalt brukes eller forekommer naturlig, er blitt erstattet med en annen bestanddel eller ingrediens, skal merkingen – i tillegg til ingredienslisten – omfatte en tydelig angivelse av hvilken bestanddel eller ingrediens som er blitt brukt helt eller delvis som erstatningi umiddelbar nærhet av varens betegnelse, ogmed en skriftstørrelse som har en x-høyde på minst 75 % av x-høyden på varens betegnelse, og som ikke er mindre enn den minste skriftstørrelsen som kreves i henhold til artikkel 13 nr. 2 i denne forordning.
+2. Dersom et næringsmiddel har vært fryst før salg og selges opptint, skal næringsmiddelets betegnelse ledsages av angivelsen «opptint».
+
+   Dette kravet gjelder ikke for
+
+   1. ingredienser som inngår i sluttproduktet,
+   2. næringsmidler der innfrysing er et teknologisk nødvendig ledd i produksjonsprosessen,
+   3. næringsmidler hvis sikkerhet eller kvalitet ikke påvirkes negativt av opptining.
+
+   Dette nummer berører ikke nr. 1.
+3. Næringsmidler som er behandlet med ioniserende stråling, skal påføres en av følgende angivelser:
+
+   «bestrålt» eller «behandlet med ioniserende stråling» og andre angivelser som angitt i europaparlaments- og rådsdirektiv [1999/2/EF](eu/31999l0002) av 22. februar 1999 om tilnærming av medlemsstatenes lovgivning om næringsmidler og næringsmiddelingredienser behandlet med ioniserende stråling.1
+4. Når det gjelder næringsmidler der en bestanddel eller ingrediens som forbrukerne forventer at normalt brukes eller forekommer naturlig, er blitt erstattet med en annen bestanddel eller ingrediens, skal merkingen – i tillegg til ingredienslisten – omfatte en tydelig angivelse av hvilken bestanddel eller ingrediens som er blitt brukt helt eller delvis som erstatning
+
+   1. i umiddelbar nærhet av varens betegnelse, og
+   2. med en skriftstørrelse som har en x-høyde på minst 75 % av x-høyden på varens betegnelse, og som ikke er mindre enn den minste skriftstørrelsen som kreves i henhold til artikkel 13 nr. 2 i denne forordning.
 5. Når det gjelder kjøttprodukter, bearbeidet kjøtt og fiskerivarer som inneholder tilsatte proteiner, herunder hydrolyserte proteiner, av annen animalsk opprinnelse, skal næringsmiddelets betegnelse inneholde en angivelse av forekomsten av disse proteinene og deres opprinnelse.
 6. Når det gjelder kjøttprodukter og bearbeidet kjøtt som framstår som et stykke, en stek, en skive, en porsjon eller en skrott, skal næringsmiddelets betegnelse inneholde en angivelse av forekomsten av tilsatt vann dersom det tilsatte vannet utgjør mer enn 5 % av det ferdige produktets vekt. De samme reglene gjelder for fiskerivarer og bearbeidede fiskerivarer som framstår som et stykke, en stek, en skive, en porsjon, en filet eller en hel fiskerivare.
-7. Kjøttprodukter, bearbeidet kjøtt og fiskerivarer som kan gi inntrykk av å være framstilt av et helt kjøtt- eller fiskestykke, men som faktisk består av forskjellige stykker satt sammen ved hjelp av andre ingredienser, herunder tilsetningsstoffer og næringsmiddelenzymer, eller på andre måter, skal merkes med følgende angivelse:på bulgarsk:«фoрмoванo мeco» og «фoрмoвана риба»,på spansk:«combinado de piezas de carne» og «combinado de piezas de pescado»,på tsjekkisk:«ze spojovan‡ch kousků masa» og «ze spojovan‡ch kousků rybího masa»,på dansk:«Sammensat af stykker af kød» og «Sammensat af stykker af fisk»,på tysk:«aus Fleischstücken zusammengefügt» og «aus Fischstücken zusammengefügt»,på estisk:«liidetud liha» og «liidetud kala»,på gresk:«μoρφoπoιημένo κρέας» og «μoρφoπoιημένo ψάρι»,på engelsk:«formed meat» og «formed fish»,på fransk:«viande reconstituée» og «poisson reconstitué»,på irsk:«píosaí feola ceangailte» og «píosaí éisc ceangailte»,på italiensk:«carne ricomposta» og «pesce ricomposto»,på latvisk:«formēta gaļa» og «formēta zivs»,på litauisk:«sudarytas (-a) iš mėsos gabalų» og «sudarytas (-a) iš žuvies gabalų»,på ungarsk:«darabokból újraformázott hús» og «darabokból újraformázott hal»,på maltesisk:«laħam rikostitwit» og «ħut rikostitwit»,på nederlandsk:«samengesteld uit stukjes vlees» og «samengesteld uit stukjes vis»,på polsk:«z połączonych kawałków mięsa» og «z połączonych kawałków ryby»,på portugisisk:«carne reconstituída» og «peixe reconstituído»,på rumensk:«carne formată» og «carne de pește formată»,på slovakisk:«spájané alebo formované mäso» og «spájané alebo formované ryby»,på slovensk:«sestavljeno, iz koščkov oblikovano meso» og «sestavljene, iz koščkov oblikovane ribe»,på finsk:«paloista yhdistetty liha» og «paloista yhdistetty kala»,på svensk:«sammanfogade bitar av kött» og «sammanfogade bitar av fisk»,► EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XIIpå islandsk:«samsett úr stykkjum af kjöti» og «samsett úr stykkjum af fiski»,på norsk:«sammensatte stykker av kjøtt» og «sammensatte stykker av fisk».◄ EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII
+7. Kjøttprodukter, bearbeidet kjøtt og fiskerivarer som kan gi inntrykk av å være framstilt av et helt kjøtt- eller fiskestykke, men som faktisk består av forskjellige stykker satt sammen ved hjelp av andre ingredienser, herunder tilsetningsstoffer og næringsmiddelenzymer, eller på andre måter, skal merkes med følgende angivelse:
+
+   |  |  |
+   | --- | --- |
+   | på bulgarsk: | «фoрмoванo мeco» og «фoрмoвана риба», |
+   | på spansk: | «combinado de piezas de carne» og «combinado de piezas de pescado», |
+   | på tsjekkisk: | «ze spojovan‡ch kousků masa» og «ze spojovan‡ch kousků rybího masa», |
+   | på dansk: | «Sammensat af stykker af kød» og «Sammensat af stykker af fisk», |
+   | på tysk: | «aus Fleischstücken zusammengefügt» og «aus Fischstücken zusammengefügt», |
+   | på estisk: | «liidetud liha» og «liidetud kala», |
+   | på gresk: | «μoρφoπoιημένo κρέας» og «μoρφoπoιημένo ψάρι», |
+   | på engelsk: | «formed meat» og «formed fish», |
+   | på fransk: | «viande reconstituée» og «poisson reconstitué», |
+   | på irsk: | «píosaí feola ceangailte» og «píosaí éisc ceangailte», |
+   | på italiensk: | «carne ricomposta» og «pesce ricomposto», |
+   | på latvisk: | «formēta gaļa» og «formēta zivs», |
+   | på litauisk: | «sudarytas (-a) iš mėsos gabalų» og «sudarytas (-a) iš žuvies gabalų», |
+   | på ungarsk: | «darabokból újraformázott hús» og «darabokból újraformázott hal», |
+   | på maltesisk: | «laħam rikostitwit» og «ħut rikostitwit», |
+   | på nederlandsk: | «samengesteld uit stukjes vlees» og «samengesteld uit stukjes vis», |
+   | på polsk: | «z połączonych kawałków mięsa» og «z połączonych kawałków ryby», |
+   | på portugisisk: | «carne reconstituída» og «peixe reconstituído», |
+   | på rumensk: | «carne formată» og «carne de pește formată», |
+   | på slovakisk: | «spájané alebo formované mäso» og «spájané alebo formované ryby», |
+   | på slovensk: | «sestavljeno, iz koščkov oblikovano meso» og «sestavljene, iz koščkov oblikovane ribe», |
+   | på finsk: | «paloista yhdistetty liha» og «paloista yhdistetty kala», |
+   | på svensk: | «sammanfogade bitar av kött» og «sammanfogade bitar av fisk», |
+   | ► EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII |  |
+   | på islandsk: | «samsett úr stykkjum af kjöti» og «samsett úr stykkjum af fiski», |
+   | på norsk: | «sammensatte stykker av kjøtt» og «sammensatte stykker av fisk». |
+   | ◄ EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII |  |
 
 1 EFT L 66 av 13.3.1999, s. 16.
 
 ### Del B – Særlige krav til betegnelsen «kvernet kjøtt»
 
-1. Kriterier for sammensetning, kontrollert på grunnlag av et dagsgjennomsnitt:*Fettinnhold**Forhold mellom kollagen og kjøttprotein*1– magert kvernet kjøtt≤ 7 %≤ 12 %– kvernet rent storfekjøtt≤ 20 %≤ 15 %– kvernet kjøtt med svinekjøtt≤ 30 %≤ 18 %– kvernet kjøtt fra andre arter≤ 25 %≤ 15 %
+1. Kriterier for sammensetning, kontrollert på grunnlag av et dagsgjennomsnitt:
+
+   |  | *Fettinnhold* | *Forhold mellom kollagen og kjøttprotein*1 |
+   | --- | --- | --- |
+   | – magert kvernet kjøtt | ≤ 7 % | ≤ 12 % |
+   | – kvernet rent storfekjøtt | ≤ 20 % | ≤ 15 % |
+   | – kvernet kjøtt med svinekjøtt | ≤ 30 % | ≤ 18 % |
+   | – kvernet kjøtt fra andre arter | ≤ 25 % | ≤ 15 % |
 
 1 Forholdet mellom kollagen og kjøttprotein er uttrykt som prosentandelen av kollagen i kjøttprotein. Kollageninnholdet er åtte ganger hydroksyprolininnholdet.
 
-1. I tillegg til kravene fastsatt i avsnitt V kapittel IV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) skal merkingen også ha med følgende uttrykk:«fettinnhold under ... »,«forhold mellom kollagen og kjøttprotein under ... ».
+1. I tillegg til kravene fastsatt i avsnitt V kapittel IV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) skal merkingen også ha med følgende uttrykk:
+
+   - «fettinnhold under ... »,
+   - «forhold mellom kollagen og kjøttprotein under ... ».
 2. Medlemsstatene kan tillate at kvernet kjøtt som ikke oppfyller kriteriene i nr. 1 i denne del, bringes i omsetning på deres nasjonale markeder når det er påført et nasjonalt merke som ikke kan forveksles med merkene fastsatt i artikkel 5 nr. 1 i forordning [(EF) nr. 853/2004](eu/32004r0853*).
 
 ### Del C – Særlige krav til betegnelsen «pølseskinn»
@@ -961,38 +1367,117 @@ Uten at det berører artikkel 21, skal tilsetningsstoffer og enzymer i næringsm
 
 ### Del D – Angivelse av aromaer i ingredienslisten
 
-1. Aromaer skal angis med en av følgende betegnelser:«aroma(er)» eller med en mer spesifikk betegnelse på eller beskrivelse av aromaen dersom den aromagivende bestanddelen inneholder aromaer definert i bokstav b), c), d), e), f), g) og h) i artikkel 3 nr. 2 i forordning [(EF) nr. 1334/2008](eu/32008r1334),«røykaroma(er)» eller «røykaroma(er) framstilt av næringsmiddel/næringsmidler eller næringsmiddelkategori eller -kilde(r)» (f.eks. «røykaroma framstilt av bøk»), dersom den aromagivende bestanddelen inneholder aromaer som definert i artikkel 3 nr. 2 bokstav f) i forordning [(EF) nr. 1334/2008](eu/32008r1334) og gir næringsmiddelet røykaroma.
+1. Aromaer skal angis med en av følgende betegnelser:
+
+   - «aroma(er)» eller med en mer spesifikk betegnelse på eller beskrivelse av aromaen dersom den aromagivende bestanddelen inneholder aromaer definert i bokstav b), c), d), e), f), g) og h) i artikkel 3 nr. 2 i forordning [(EF) nr. 1334/2008](eu/32008r1334),
+   - «røykaroma(er)» eller «røykaroma(er) framstilt av næringsmiddel/næringsmidler eller næringsmiddelkategori eller -kilde(r)» (f.eks. «røykaroma framstilt av bøk»), dersom den aromagivende bestanddelen inneholder aromaer som definert i artikkel 3 nr. 2 bokstav f) i forordning [(EF) nr. 1334/2008](eu/32008r1334) og gir næringsmiddelet røykaroma.
 2. Uttrykket «naturlig» i beskrivelser av aromaer skal brukes i samsvar med artikkel 16 i forordning [(EF) nr. 1334/2008](eu/32008r1334).
 3. Kinin og/eller koffein brukt som aroma i framstillingen eller tilberedningen av et næringsmiddel skal angis i ingredienslisten med sin spesifikke betegnelse umiddelbart etter ordet «aroma(er)».
 
 ### Del E – Angivelse av sammensatte ingredienser
 
 1. En sammensatt ingrediens kan angis i ingredienslisten med sin betegnelse dersom betegnelsen er fastsatt ved lov eller brukt ifølge sedvane, etter den samlede vekten i produktet, og umiddelbart fulgt av en liste over de ingrediensene som inngår i den sammensatte ingrediensen.
-2. Uten at det berører artikkel 21, er ingredienslisten over sammensatte ingredienser ikke obligatorisknår sammensetningen av den sammensatte ingrediensen er fastsatt i gjeldende unionsbestemmelser, og forutsatt at den sammensatte ingrediensen utgjør mindre enn 2 % av det ferdige produkt; denne bestemmelsen gjelder imidlertid ikke for tilsetningsstoffer, med forbehold for artikkel 20 bokstav a)–d),for sammensatte ingredienser som består av blandinger av krydder og/eller krydderurter som utgjør mindre enn 2 % av det ferdige produktet, unntatt tilsetningsstoffer, med forbehold for artikkel 20 bokstav a)–d), ellernår den sammensatte ingrediensen er et næringsmiddel som det i henhold til unionsbestemmelsene ikke kreves ingrediensliste for.
+2. Uten at det berører artikkel 21, er ingredienslisten over sammensatte ingredienser ikke obligatorisk
+
+   1. når sammensetningen av den sammensatte ingrediensen er fastsatt i gjeldende unionsbestemmelser, og forutsatt at den sammensatte ingrediensen utgjør mindre enn 2 % av det ferdige produkt; denne bestemmelsen gjelder imidlertid ikke for tilsetningsstoffer, med forbehold for artikkel 20 bokstav a)–d),
+   2. for sammensatte ingredienser som består av blandinger av krydder og/eller krydderurter som utgjør mindre enn 2 % av det ferdige produktet, unntatt tilsetningsstoffer, med forbehold for artikkel 20 bokstav a)–d), eller
+   3. når den sammensatte ingrediensen er et næringsmiddel som det i henhold til unionsbestemmelsene ikke kreves ingrediensliste for.
 
 ### Vedlegg VIII
 Mengdeangivelse av ingredienser
 
-1. Det kreves ikke mengdeangivelse av ingredienserfor en ingrediens eller en kategori av ingredienserder nettovekt etter avrenning er angitt i samsvar med nr. 5 i vedlegg IX,der mengden i henhold til unionsbestemmelsene allerede skal oppgis i merkingen,som brukes i små mengder som aromagivende bestanddeler, ellersom selv om den forekommer i næringsmiddelets betegnelse, ikke vil være avgjørende for forbrukerens valg i omsetningsmedlemsstaten fordi variasjonen i mengde ikke er så vesentlig at den kjennetegner næringsmiddelet eller skiller det fra andre lignende produkter,dersom mengden av en ingrediens eller en kategori av ingredienser er uttrykkelig fastsatt i særlige unionsbestemmelser uten at den skal angis i merkingen, elleri tilfellene nevnt i nr. 4 og 5 i del A i vedlegg VII.
-2. Artikkel 22 nr. 1 bokstav a) og b) får ikke anvendelse påingredienser eller kategorier av ingredienser som omfattes av angivelsen «Inneholder søtstoff(er)» eller «Inneholder sukker og søtstoff(er)», dersom angivelsen følges av betegnelsen på næringsmiddelet, som angitt i vedlegg III, ellertilsatte vitaminer og mineraler dersom disse stoffene skal angis i en næringsdeklarasjon.
-3. Mengdeangivelsen av en ingrediens eller en kategori av ingredienser skaluttrykkes i prosent, som skal svare til mengden av ingrediensen eller ingrediensene på tidspunktet for bruk, ogangis enten i næringsmiddelets betegnelse, i umiddelbar nærhet av næringsmiddelets betegnelse eller i ingredienslisten i forbindelse med den aktuelle ingrediensen eller kategorien av ingredienser.
-4. Som unntak fra nr. 3 gjelder følgende:For næringsmidler som har fått redusert vanninnhold som følge av varmebehandling eller annen behandling, skal mengden uttrykkes i prosent og svare til mengden av ingrediensen(e) som er brukt i det ferdige produktet, med mindre denne mengden eller den samlede mengden av alle ingrediensene angitt i merkingen overstiger 100 %; i så fall skal mengden angis på grunnlag av vekten av ingrediensen(e) som er brukt for å tilberede 100 g av det ferdige produktet.Mengden av flyktige ingredienser skal angis etter sin vekt i det ferdige produktet.Mengden av ingredienser som brukes i konsentrert eller tørket form, og som rekonstitueres under framstillingen, kan angis etter sin vekt før de ble konsentrert eller tørket.For konsentrerte eller tørkede næringsmidler som skal tilsettes vann, kan mengden av ingrediensene angis etter vekt i det rekonstituerte produktet.
+1. Det kreves ikke mengdeangivelse av ingredienser
+
+   1. for en ingrediens eller en kategori av ingredienser
+
+      1. der nettovekt etter avrenning er angitt i samsvar med nr. 5 i vedlegg IX,
+      2. der mengden i henhold til unionsbestemmelsene allerede skal oppgis i merkingen,
+      3. som brukes i små mengder som aromagivende bestanddeler, eller
+      4. som selv om den forekommer i næringsmiddelets betegnelse, ikke vil være avgjørende for forbrukerens valg i omsetningsmedlemsstaten fordi variasjonen i mengde ikke er så vesentlig at den kjennetegner næringsmiddelet eller skiller det fra andre lignende produkter,
+   2. dersom mengden av en ingrediens eller en kategori av ingredienser er uttrykkelig fastsatt i særlige unionsbestemmelser uten at den skal angis i merkingen, eller
+   3. i tilfellene nevnt i nr. 4 og 5 i del A i vedlegg VII.
+2. Artikkel 22 nr. 1 bokstav a) og b) får ikke anvendelse på
+
+   1. ingredienser eller kategorier av ingredienser som omfattes av angivelsen «Inneholder søtstoff(er)» eller «Inneholder sukker og søtstoff(er)», dersom angivelsen følges av betegnelsen på næringsmiddelet, som angitt i vedlegg III, eller
+   2. tilsatte vitaminer og mineraler dersom disse stoffene skal angis i en næringsdeklarasjon.
+3. Mengdeangivelsen av en ingrediens eller en kategori av ingredienser skal
+
+   1. uttrykkes i prosent, som skal svare til mengden av ingrediensen eller ingrediensene på tidspunktet for bruk, og
+   2. angis enten i næringsmiddelets betegnelse, i umiddelbar nærhet av næringsmiddelets betegnelse eller i ingredienslisten i forbindelse med den aktuelle ingrediensen eller kategorien av ingredienser.
+4. Som unntak fra nr. 3 gjelder følgende:
+
+   1. For næringsmidler som har fått redusert vanninnhold som følge av varmebehandling eller annen behandling, skal mengden uttrykkes i prosent og svare til mengden av ingrediensen(e) som er brukt i det ferdige produktet, med mindre denne mengden eller den samlede mengden av alle ingrediensene angitt i merkingen overstiger 100 %; i så fall skal mengden angis på grunnlag av vekten av ingrediensen(e) som er brukt for å tilberede 100 g av det ferdige produktet.
+   2. Mengden av flyktige ingredienser skal angis etter sin vekt i det ferdige produktet.
+   3. Mengden av ingredienser som brukes i konsentrert eller tørket form, og som rekonstitueres under framstillingen, kan angis etter sin vekt før de ble konsentrert eller tørket.
+   4. For konsentrerte eller tørkede næringsmidler som skal tilsettes vann, kan mengden av ingrediensene angis etter vekt i det rekonstituerte produktet.
 
 ### Vedlegg IX
 Angivelse av nettoinnhold
 
-1. Angivelse av nettoinnhold er ikke obligatorisk for næringsmidlerder det forekommer betydelige tap av volum eller masse, og der næringsmidlene selges enkeltvis eller veies i kjøperens nærvær,der nettoinnholdet er under 5 g eller 5 ml; denne bestemmelsen gjelder imidlertid ikke for krydder eller krydderurter, ellersom normalt selges enkeltvis, dersom antall artikler er klart synlig og lett å telle utenfra eller, når dette ikke er tilfellet, er angitt i merkingen.
+1. Angivelse av nettoinnhold er ikke obligatorisk for næringsmidler
+
+   1. der det forekommer betydelige tap av volum eller masse, og der næringsmidlene selges enkeltvis eller veies i kjøperens nærvær,
+   2. der nettoinnholdet er under 5 g eller 5 ml; denne bestemmelsen gjelder imidlertid ikke for krydder eller krydderurter, eller
+   3. som normalt selges enkeltvis, dersom antall artikler er klart synlig og lett å telle utenfra eller, når dette ikke er tilfellet, er angitt i merkingen.
 2. Dersom det i unionsbestemmelser eller, dersom slike ikke finnes, i nasjonale bestemmelser er fastsatt at et innhold skal angis på en bestemt måte (f.eks. nominelt innhold, minsteinnhold eller gjennomsnittlig innhold), er dette innholdet nettoinnholdet for denne forordnings formål.
 3. Dersom en ferdigpakning består av to eller flere enkeltpakninger som inneholder samme mengde av samme produkt, skal nettoinnholdet angis ved å angi nettoinnholdet for hver enkelt pakning og det samlede antall enkeltpakninger. Disse opplysningene er imidlertid ikke obligatoriske dersom det samlede antall enkeltpakninger er klart synlig og lett å telle utenfra, og dersom minst én angivelse av nettoinnholdet i hver enkeltpakning er klart synlig utenfra.
 4. Dersom en ferdigpakning består av to eller flere enkeltpakninger som ikke anses som salgsenheter, skal nettoinnholdet angis ved å angi det samlede nettoinnhold og det samlede antall enkeltpakninger.
-5. Dersom et næringsmiddel i fast form frambys i en lake, skal næringsmiddelets nettovekt etter avrenning også angis. Dersom næringsmiddelet er glasert, skal næringsmiddelets nettovekt ikke omfatte glaseringen.I dette nummer menes med «lake» følgende produkter, eventuelt blandinger av dem, også når de er fryst eller dypfryst, dersom laken bare er en tilsetning til preparatets hovedbestanddeler og derfor ikke er avgjørende for kjøpet: vann, vandige saltløsninger, saltlake, vandige løsninger av næringsmiddelsyrer, eddik, vandige løsninger av sukker, vandige løsninger av andre søtningsmidler, frukt- eller grønnsakjuice når det gjelder frukt eller grønnsaker.
+5. Dersom et næringsmiddel i fast form frambys i en lake, skal næringsmiddelets nettovekt etter avrenning også angis. Dersom næringsmiddelet er glasert, skal næringsmiddelets nettovekt ikke omfatte glaseringen.
+
+   I dette nummer menes med «lake» følgende produkter, eventuelt blandinger av dem, også når de er fryst eller dypfryst, dersom laken bare er en tilsetning til preparatets hovedbestanddeler og derfor ikke er avgjørende for kjøpet: vann, vandige saltløsninger, saltlake, vandige løsninger av næringsmiddelsyrer, eddik, vandige løsninger av sukker, vandige løsninger av andre søtningsmidler, frukt- eller grønnsakjuice når det gjelder frukt eller grønnsaker.
 
 ### Vedlegg X
 Holdbarhetsdato, siste forbruksdato og dato for innfrysing
 
-1. Holdbarhetsdatoen angis som følger:Foran datoen angis følgende ord:«best før ...» dersom datoen angir dagen,«best før utgangen av ...» i andre tilfeller.Angivelsene fastsatt i bokstav a) skal etterfølges avselve datoen, elleren henvisning til det stedet i merkingen der datoen er angitt.Disse angivelsene skal om nødvendig utfylles med en opplysning om oppbevaringsvilkårene som skal overholdes for å sikre den angitte holdbarheten.Datoen skal bestå av en ukodet angivelse av dag, måned og eventuelt år, i nevnte rekkefølge.Det er imidlertid for næringsmidlermed en holdbarhet på under 3 måneder tilstrekkelig å angi dag og måned,med en holdbarhet på mer enn 3 måneder, men ikke mer enn 18 måneder, tilstrekkelig å angi måned og år,med en holdbarhet på mer enn 18 måneder tilstrekkelig å angi året.Med forbehold for unionsbestemmelser som fastsetter andre datoangivelser, kreves ikke angivelse av holdbarhetsdato forfrisk frukt og friske grønnsaker, herunder poteter, som ikke er skrelt, snittet eller behandlet på lignende måte; dette unntaket får ikke anvendelse på spirende frø og lignende produkter som skudd av belgfrukter,viner, sterkviner, musserende viner, aromatiserte viner og lignende produkter som er framstilt av andre frukter enn druer, samt drikker som hører inn under KN-kode 220600, og som er framstilt av druer eller druemost,drikker med alkoholinnhold på minst 10 volumprosent,baker- eller konditorvarer som på grunn av sin art normalt forbrukes innen 24 timer etter framstillingen,eddik,koksalt,sukker i fast form,sukkervarer som nesten utelukkende består av aromatiserte og/eller fargede sukkerarter,tyggegummi og lignende tyggeprodukter.
-2. Siste forbruksdato skal angis som følger:Datoen skal følge etter ordene «siste forbruksdag ...».Angivelsene fastsatt i bokstav a) skal etterfølges avselve datoen, elleren henvisning til det stedet i merkingen der datoen er angitt.Disse opplysningene skal følges av en beskrivelse av oppbevaringsvilkårene som skal overholdes.Datoen skal bestå av en ukodet angivelse av dag, måned og eventuelt år, i nevnte rekkefølge.Siste forbruksdato skal angis på alle ferdigpakkede porsjonspakninger.
-3. Datoen for innfrysing eller datoen for første innfrysing som nevnt i nr. 6 i vedlegg III skal angis som følger:Datoen skal følge etter ordet «Innfrysingsdato: ...».Angivelsene fastsatt i bokstav a) skal etterfølges avselve datoen, elleren henvisning til det stedet i merkingen der datoen er angitt.Datoen skal bestå av en ukodet angivelse av dag, måned og år, i nevnte rekkefølge.
+1. Holdbarhetsdatoen angis som følger:
+
+   1. Foran datoen angis følgende ord:
+
+      - «best før ...» dersom datoen angir dagen,
+      - «best før utgangen av ...» i andre tilfeller.
+   2. Angivelsene fastsatt i bokstav a) skal etterfølges av
+
+      - selve datoen, eller
+      - en henvisning til det stedet i merkingen der datoen er angitt.
+
+      Disse angivelsene skal om nødvendig utfylles med en opplysning om oppbevaringsvilkårene som skal overholdes for å sikre den angitte holdbarheten.
+   3. Datoen skal bestå av en ukodet angivelse av dag, måned og eventuelt år, i nevnte rekkefølge.
+
+      Det er imidlertid for næringsmidler
+
+      - med en holdbarhet på under 3 måneder tilstrekkelig å angi dag og måned,
+      - med en holdbarhet på mer enn 3 måneder, men ikke mer enn 18 måneder, tilstrekkelig å angi måned og år,
+      - med en holdbarhet på mer enn 18 måneder tilstrekkelig å angi året.
+   4. Med forbehold for unionsbestemmelser som fastsetter andre datoangivelser, kreves ikke angivelse av holdbarhetsdato for
+
+      - frisk frukt og friske grønnsaker, herunder poteter, som ikke er skrelt, snittet eller behandlet på lignende måte; dette unntaket får ikke anvendelse på spirende frø og lignende produkter som skudd av belgfrukter,
+      - viner, sterkviner, musserende viner, aromatiserte viner og lignende produkter som er framstilt av andre frukter enn druer, samt drikker som hører inn under KN-kode 220600, og som er framstilt av druer eller druemost,
+      - drikker med alkoholinnhold på minst 10 volumprosent,
+      - baker- eller konditorvarer som på grunn av sin art normalt forbrukes innen 24 timer etter framstillingen,
+      - eddik,
+      - koksalt,
+      - sukker i fast form,
+      - sukkervarer som nesten utelukkende består av aromatiserte og/eller fargede sukkerarter,
+      - tyggegummi og lignende tyggeprodukter.
+2. Siste forbruksdato skal angis som følger:
+
+   1. Datoen skal følge etter ordene «siste forbruksdag ...».
+   2. Angivelsene fastsatt i bokstav a) skal etterfølges av
+
+      - selve datoen, eller
+      - en henvisning til det stedet i merkingen der datoen er angitt.
+
+      Disse opplysningene skal følges av en beskrivelse av oppbevaringsvilkårene som skal overholdes.
+   3. Datoen skal bestå av en ukodet angivelse av dag, måned og eventuelt år, i nevnte rekkefølge.
+   4. Siste forbruksdato skal angis på alle ferdigpakkede porsjonspakninger.
+3. Datoen for innfrysing eller datoen for første innfrysing som nevnt i nr. 6 i vedlegg III skal angis som følger:
+
+   1. Datoen skal følge etter ordet «Innfrysingsdato: ...».
+   2. Angivelsene fastsatt i bokstav a) skal etterfølges av
+
+      - selve datoen, eller
+      - en henvisning til det stedet i merkingen der datoen er angitt.
+   3. Datoen skal bestå av en ukodet angivelse av dag, måned og år, i nevnte rekkefølge.
 
 ### Vedlegg XI
 Kjøttyper som det er obligatorisk å angi opprinnelsesstat eller opphavssted for
@@ -1045,7 +1530,11 @@ Referanseinntak
 
 *2. Betydelig mengde av vitaminer og mineraler*
 
-Som regel skal følgende verdier legges til grunn for å avgjøre hva som utgjør en betydelig mengde:15 % av referanseverdiene for næringsinnhold angitt i nr. 1, per 100 g eller 100 ml for andre produkter enn drikker,7,5 % av referanseverdiene for næringsinnhold angitt i nr. 1, per 100 ml for drikker, eller15 % av referanseverdiene for næringsinnhold angitt i nr. 1, per porsjon dersom pakningen inneholder bare én porsjonsenhet.
+Som regel skal følgende verdier legges til grunn for å avgjøre hva som utgjør en betydelig mengde:
+
+- 15 % av referanseverdiene for næringsinnhold angitt i nr. 1, per 100 g eller 100 ml for andre produkter enn drikker,
+- 7,5 % av referanseverdiene for næringsinnhold angitt i nr. 1, per 100 ml for drikker, eller
+- 15 % av referanseverdiene for næringsinnhold angitt i nr. 1, per porsjon dersom pakningen inneholder bare én porsjonsenhet.
 
 ### Del B – Referanseinntak av energi og visse andre næringsstoffer enn vitaminer og mineraler (voksne)
 
@@ -1116,7 +1605,19 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne, om endring av europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) og (EF) [nr. 1925/2006](eu/32006r1925) og om oppheving av kommisjonsdirektiv [87/250/EØF](eu/31987l0250), rådsdirektiv [90/496/EØF](eu/31990l0496), kommisjonsdirektiv [1999/10/EF](eu/31999l0010), europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*), kommisjonsdirektiv [2002/67/EF](eu/32002l0067) og [2008/5/EF](eu/32008l0005) og kommisjonsforordning [(EF) nr. 608/2004](eu/32004r0608),1 særlig artikkel 26 nr. 8, og
 
-ut fra følgende betraktninger:I henhold til artikkel 26 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) er det obligatorisk å angi opprinnelsesstat eller opphavssted på etiketten på kjøtt som omfattes av Den kombinerte nomenklatur under kodene som er oppført i vedlegg XI til forordningen, det vil si ferskt, kjølt og fryst kjøtt av svin, sau, geit og fjørfe.Det må skapes en likevekt mellom forbrukernes behov for opplysninger og merkostnadene dette innebærer for driftsansvarlige og nasjonale myndigheter og som dermed påvirker produktets sluttpris. I konsekvensanalysen og i en undersøkelse som ble bestilt av Kommisjonen, ble flere alternativer for å angi opprinnelsesstat eller opphavssted med tanke på de mest relevante stadiene i dyrs liv, undersøkt. Resultatene viser at forbrukerne først og fremst trenger opplysninger om hvor dyrene er oppdrettet. En angivelse av obligatoriske opplysninger om dyrets fødested krever imidlertid at det opprettes nye sporbarhetssystemer på driftsenhetsnivå med de kostnadene det medfører, mens en angivelse av slaktested kan skje til en overkommelig kostnad og gi verdifulle opplysninger til forbrukerne. Når det gjelder det geografiske plan, er det dokumentert at en angivelse av medlemsstat eller tredjestat vil være mest relevant for forbrukerne.I forordning [(EU) nr. 1169/2011](eu/32011r1169*) har begrepet «opprinnelsesstat» for et næringsmiddel betydningen som er fastsatt i artikkel 23–26 i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*).2 For animalske produkter viser begrepet til staten der produktet i sin helhet er produsert, og som når det gjelder kjøtt, betyr landet der dyret er født, oppdrettet og slaktet. Når flere stater har deltatt i produksjonen av et næringsmiddel, viser begrepet til staten der produktet har gjennomgått den siste vesentlige og økonomisk berettigede foredlingen eller bearbeidingen. Dersom kjøttet stammer fra dyr som er født, oppdrettet og slaktet i forskjellige stater, vil bruken av begrepet imidlertid ikke gi forbrukerne tilstrekkelige opplysninger om kjøttets opprinnelse. I alle slike tilfeller bør etiketten derfor inneholde opplysninger om medlemsstaten eller tredjestaten der dyret ble oppdrettet i en periode som utgjør en vesentlig del av hver arts normale oppdrettssyklus, og om medlemsstaten eller tredjestaten der det ble slaktet. Termen «opprinnelse» bør forbeholdes kjøtt som stammer fra dyr som er født, oppdrettet og slaktet og som dermed i sin helhet er produsert i én medlemsstat eller én tredjestat.Dersom dyret er oppdrettet i flere medlemsstater eller tredjestater, og kravet om oppdrettsperiode ikke kan oppfylles, bør det brukes en egnet angivelse av oppdrettssted for bedre å oppfylle forbrukernes behov og unngå at merkingen blir unødvendig komplisert.Det bør også fastsettes regler for pakninger som inneholder kjøttstykker fra én eller flere arter, og som stammer fra dyr som er oppdrettet og slaktet i forskjellige medlemsstater eller tredjestater.Dette merkingssystemet krever regler om sporbarhet i alle ledd i produksjonen og distribusjonen av kjøttet – fra slakting til pakking – slik at det merkede kjøttet kan knyttes til dyret eller gruppen av dyr som kjøttet stammer fra.Det bør fastsettes særlige regler for kjøtt som importeres fra tredjestater der opplysningene som kreves i forbindelse med merkingen, ikke er tilgjengelige.Med tanke på de særlige vilkårene som gjelder for produksjon av kvernet kjøtt og avskjær, bør driftsansvarlige få mulighet til å bruke et forenklet merkingssystem.Ettersom opplysningene som skal angis i henhold til denne forordning, er av kommersiell interesse, bør driftsansvarlige for næringsmiddelforetak få mulighet til å legge til andre opplysninger om kjøttets opprinnelse utover de obligatoriske opplysningene på etiketten.Ettersom de relevante bestemmelsene i forordning [(EU) nr. 1169/2011](eu/32011r1169*) får anvendelse fra 13. desember 2014, og artikkel 47 i nevnte forordning fastsetter at forordningens gjennomføringsregler får anvendelse fra 1. april i hvert kalenderår, bør denne forordning få anvendelse fra 1. april 2015.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+ut fra følgende betraktninger:
+
+1. I henhold til artikkel 26 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*) er det obligatorisk å angi opprinnelsesstat eller opphavssted på etiketten på kjøtt som omfattes av Den kombinerte nomenklatur under kodene som er oppført i vedlegg XI til forordningen, det vil si ferskt, kjølt og fryst kjøtt av svin, sau, geit og fjørfe.
+2. Det må skapes en likevekt mellom forbrukernes behov for opplysninger og merkostnadene dette innebærer for driftsansvarlige og nasjonale myndigheter og som dermed påvirker produktets sluttpris. I konsekvensanalysen og i en undersøkelse som ble bestilt av Kommisjonen, ble flere alternativer for å angi opprinnelsesstat eller opphavssted med tanke på de mest relevante stadiene i dyrs liv, undersøkt. Resultatene viser at forbrukerne først og fremst trenger opplysninger om hvor dyrene er oppdrettet. En angivelse av obligatoriske opplysninger om dyrets fødested krever imidlertid at det opprettes nye sporbarhetssystemer på driftsenhetsnivå med de kostnadene det medfører, mens en angivelse av slaktested kan skje til en overkommelig kostnad og gi verdifulle opplysninger til forbrukerne. Når det gjelder det geografiske plan, er det dokumentert at en angivelse av medlemsstat eller tredjestat vil være mest relevant for forbrukerne.
+3. I forordning [(EU) nr. 1169/2011](eu/32011r1169*) har begrepet «opprinnelsesstat» for et næringsmiddel betydningen som er fastsatt i artikkel 23–26 i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*).2 For animalske produkter viser begrepet til staten der produktet i sin helhet er produsert, og som når det gjelder kjøtt, betyr landet der dyret er født, oppdrettet og slaktet. Når flere stater har deltatt i produksjonen av et næringsmiddel, viser begrepet til staten der produktet har gjennomgått den siste vesentlige og økonomisk berettigede foredlingen eller bearbeidingen. Dersom kjøttet stammer fra dyr som er født, oppdrettet og slaktet i forskjellige stater, vil bruken av begrepet imidlertid ikke gi forbrukerne tilstrekkelige opplysninger om kjøttets opprinnelse. I alle slike tilfeller bør etiketten derfor inneholde opplysninger om medlemsstaten eller tredjestaten der dyret ble oppdrettet i en periode som utgjør en vesentlig del av hver arts normale oppdrettssyklus, og om medlemsstaten eller tredjestaten der det ble slaktet. Termen «opprinnelse» bør forbeholdes kjøtt som stammer fra dyr som er født, oppdrettet og slaktet og som dermed i sin helhet er produsert i én medlemsstat eller én tredjestat.
+4. Dersom dyret er oppdrettet i flere medlemsstater eller tredjestater, og kravet om oppdrettsperiode ikke kan oppfylles, bør det brukes en egnet angivelse av oppdrettssted for bedre å oppfylle forbrukernes behov og unngå at merkingen blir unødvendig komplisert.
+5. Det bør også fastsettes regler for pakninger som inneholder kjøttstykker fra én eller flere arter, og som stammer fra dyr som er oppdrettet og slaktet i forskjellige medlemsstater eller tredjestater.
+6. Dette merkingssystemet krever regler om sporbarhet i alle ledd i produksjonen og distribusjonen av kjøttet – fra slakting til pakking – slik at det merkede kjøttet kan knyttes til dyret eller gruppen av dyr som kjøttet stammer fra.
+7. Det bør fastsettes særlige regler for kjøtt som importeres fra tredjestater der opplysningene som kreves i forbindelse med merkingen, ikke er tilgjengelige.
+8. Med tanke på de særlige vilkårene som gjelder for produksjon av kvernet kjøtt og avskjær, bør driftsansvarlige få mulighet til å bruke et forenklet merkingssystem.
+9. Ettersom opplysningene som skal angis i henhold til denne forordning, er av kommersiell interesse, bør driftsansvarlige for næringsmiddelforetak få mulighet til å legge til andre opplysninger om kjøttets opprinnelse utover de obligatoriske opplysningene på etiketten.
+10. Ettersom de relevante bestemmelsene i forordning [(EU) nr. 1169/2011](eu/32011r1169*) får anvendelse fra 13. desember 2014, og artikkel 47 i nevnte forordning fastsetter at forordningens gjennomføringsregler får anvendelse fra 1. april i hvert kalenderår, bør denne forordning få anvendelse fra 1. april 2015.
+11. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
 1 EUT L 304 av 22.11.2011, s. 18.
 
@@ -1132,21 +1633,38 @@ Denne forordning fastsetter regler for angivelse av opprinnelsesstat eller oppha
 
 1\. I denne forordning får definisjonen av «driftsansvarlig for næringsmiddelforetak» i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178),1 definisjonen av «virksomhet» i artikkel 2 nr. 1 bokstav c) i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*)2 og definisjonen av «kvernet kjøtt», «slakteri» og «nedskjæringsanlegg» fastsatt i henholdsvis nr. 1.13, 1.16 og 1.17 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*)3 anvendelse.
 
-2\. Videre menes med:«avskjær» små biter av kjøtt som omfattes av KN-kodene oppført i vedlegg XI til forordning [(EU) nr. 1169/2011](eu/32011r1169*), som anses som egnet til konsum, og som utelukkende er produsert ved renskjæring ved utbeining av skrotter eller nedskjæring av kjøtt,«parti» kjøtt som omfattes av KN-kodene oppført i vedlegg XI til forordning [(EU) nr. 1169/2011](eu/32011r1169*), og som stammer fra én art, med eller uten bein, nedskåret eller kvernet, og som er blitt nedskåret, kvernet eller pakket under så godt som like forhold.
+2\. Videre menes med:
 
-1 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).2 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).3 Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).
+1. «avskjær» små biter av kjøtt som omfattes av KN-kodene oppført i vedlegg XI til forordning [(EU) nr. 1169/2011](eu/32011r1169*), som anses som egnet til konsum, og som utelukkende er produsert ved renskjæring ved utbeining av skrotter eller nedskjæring av kjøtt,
+2. «parti» kjøtt som omfattes av KN-kodene oppført i vedlegg XI til forordning [(EU) nr. 1169/2011](eu/32011r1169*), og som stammer fra én art, med eller uten bein, nedskåret eller kvernet, og som er blitt nedskåret, kvernet eller pakket under så godt som like forhold.
+
+1 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+2 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).
+
+3 Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).
 
 ### Artikkel 3. Sporbarhet
 
 1\. Driftsansvarlige for næringsmiddelforetak skal innføre og bruke et identifikasjons- og registreringssystem for hvert ledd i produksjonen og distribusjonen av kjøttet nevnt i artikkel 1.
 
-2\. Systemet skal anvendes for å sikre:at det opprettes en forbindelse mellom kjøttet og dyret eller gruppen av dyr som kjøttet stammer fra, som på slaktestadiet er dette slakteriets ansvar, ogat opplysningene nevnt i artikkel 5, 6 eller 7, alt etter hva som er relevant, oversendes sammen med kjøttet til driftsansvarlige i etterfølgende produksjons- og distribusjonsledd.Alle driftsansvarlige for næringsmiddelforetak har ansvar for å bruke identifikasjons- og registreringssystemet fastsatt i nr. 1 i produksjons- og distribusjonsleddet vedkommende opererer i.Driftsansvarlige for næringsmiddelforetak som pakker og merker kjøtt i samsvar med artikkel 5, 6 eller 7, skal sikre at partikoden som identifiserer kjøtt som leveres til forbrukere eller storhusholdninger, samsvarer med det eller de relevante partiene som pakningen eller det merkede partiet stammer fra. Alle pakninger med samme partikode skal inneholde samme opplysninger i samsvar med artikkel 5, 6 eller 7.
+2\. Systemet skal anvendes for å sikre:
+
+1. at det opprettes en forbindelse mellom kjøttet og dyret eller gruppen av dyr som kjøttet stammer fra, som på slaktestadiet er dette slakteriets ansvar, og
+2. at opplysningene nevnt i artikkel 5, 6 eller 7, alt etter hva som er relevant, oversendes sammen med kjøttet til driftsansvarlige i etterfølgende produksjons- og distribusjonsledd.
+
+Alle driftsansvarlige for næringsmiddelforetak har ansvar for å bruke identifikasjons- og registreringssystemet fastsatt i nr. 1 i produksjons- og distribusjonsleddet vedkommende opererer i.
+
+Driftsansvarlige for næringsmiddelforetak som pakker og merker kjøtt i samsvar med artikkel 5, 6 eller 7, skal sikre at partikoden som identifiserer kjøtt som leveres til forbrukere eller storhusholdninger, samsvarer med det eller de relevante partiene som pakningen eller det merkede partiet stammer fra. Alle pakninger med samme partikode skal inneholde samme opplysninger i samsvar med artikkel 5, 6 eller 7.
 
 3\. Systemet nevnt i nr. 1 skal særlig registrere når dyr, skrotter og avskjær ankommer og forlater virksomheten til en driftsansvarlig for næringsmiddelforetak, og sikre at det er overensstemmelse mellom ankomster og avganger.
 
 ### Artikkel 4. Grupper av dyr
 
-1\. Størrelsen på gruppen av dyr nevnt i artikkel 3 skal fastsetter etter:antall skrotter som nedskjæres sammen og utgjør ett parti for det berørte nedskjæringsanlegget ved nedskjæring av skrotter,antall skrotter der kjøttet utgjør ett parti for det berørte nedskjæringsanlegget ved videre nedskjæring eller kverning.
+1\. Størrelsen på gruppen av dyr nevnt i artikkel 3 skal fastsetter etter:
+
+1. antall skrotter som nedskjæres sammen og utgjør ett parti for det berørte nedskjæringsanlegget ved nedskjæring av skrotter,
+2. antall skrotter der kjøttet utgjør ett parti for det berørte nedskjæringsanlegget ved videre nedskjæring eller kverning.
 
 2\. Partiets størrelse skal ikke overstige én dags produksjon i én og samme virksomhet.
 
@@ -1154,11 +1672,30 @@ Denne forordning fastsetter regler for angivelse av opprinnelsesstat eller oppha
 
 ### Artikkel 5. Merking av kjøtt
 
-1\. Etiketten på kjøtt nevnt i artikkel 1 som er beregnet på sluttforbrukere eller storhusholdninger, skal inneholde følgende opplysninger:navn på medlemsstat eller tredjestat der oppdrettet fant sted, angitt som «Oppdrettet i: (navn på medlemsstat eller tredjestat)» i samsvar med følgende kriterier:for svin:dersom det slaktede dyret var eldre enn seks måneder, navn på medlemsstat eller tredjestat der den siste oppdrettsperioden på minst fire måneder fant sted,dersom det slaktede dyret var yngre enn seks måneder og hadde en levendevekt på minst 80 kg, navn på medlemsstat eller tredjestat der oppdrettsperioden fant sted etter at dyret hadde nådd 30 kg,dersom det slaktede dyret var yngre enn seks måneder og hadde en levendevekt på under 80 kg, navn på medlemsstat eller tredjestat der hele oppdrettsperioden fant sted,for sau og geit: navn på medlemsstat eller tredjestat der den siste oppdrettsperioden på minst seks måneder fant sted, eller dersom det slaktede dyret var yngre enn seks måneder, navn på medlemsstat eller tredjestat der hele oppdrettsperioden fant sted,for fjørfe: navn på medlemsstat eller tredjestat der den siste oppdrettsperioden på minst én måned fant sted, eller dersom det slaktede dyret var yngre enn én måned, navn på medlemsstat eller tredjestat der hele oppdrettsperioden etter at dyret var satt til oppfôring, fant sted,navn på medlemsstat eller tredjestat der slaktingen fant sted, angitt som «Slaktet i: (navn på medlemsstat eller tredjestat)», ogpartikoden som identifiserer kjøttet som leveres til forbrukere eller storhusholdninger.Dersom oppdrettsperioden nevnt i bokstav a) ikke avsluttes i noen av medlemsstatene eller tredjestatene der dyret ble oppdrettet, skal angivelsen nevnt i bokstav a) erstattes med «Oppdrettet i: flere medlemsstater i EU», eller dersom kjøttet eller dyrene er importert til Unionen, med «Oppdrettet i: flere stater utenfor EU» eller «Oppdrettet i: flere stater i og utenfor EU».Dersom oppdrettsperioden nevnt i bokstav a) ikke avsluttes i noen av medlemsstatene eller tredjestatene der dyret ble oppdrettet, kan angivelsen nevnt i bokstav a) erstattes med «Oppdrettet i: (liste over medlemsstater eller tredjestater der dyret ble oppdrettet)» dersom den driftsansvarlige for næringsmiddelforetaket overfor vedkommende myndighet kan bevise at dyret ble oppdrettet i nevnte medlemsstater eller tredjestater.
+1\. Etiketten på kjøtt nevnt i artikkel 1 som er beregnet på sluttforbrukere eller storhusholdninger, skal inneholde følgende opplysninger:
+
+1. navn på medlemsstat eller tredjestat der oppdrettet fant sted, angitt som «Oppdrettet i: (navn på medlemsstat eller tredjestat)» i samsvar med følgende kriterier:
+
+   1. for svin:
+
+      - dersom det slaktede dyret var eldre enn seks måneder, navn på medlemsstat eller tredjestat der den siste oppdrettsperioden på minst fire måneder fant sted,
+      - dersom det slaktede dyret var yngre enn seks måneder og hadde en levendevekt på minst 80 kg, navn på medlemsstat eller tredjestat der oppdrettsperioden fant sted etter at dyret hadde nådd 30 kg,
+      - dersom det slaktede dyret var yngre enn seks måneder og hadde en levendevekt på under 80 kg, navn på medlemsstat eller tredjestat der hele oppdrettsperioden fant sted,
+   2. for sau og geit: navn på medlemsstat eller tredjestat der den siste oppdrettsperioden på minst seks måneder fant sted, eller dersom det slaktede dyret var yngre enn seks måneder, navn på medlemsstat eller tredjestat der hele oppdrettsperioden fant sted,
+   3. for fjørfe: navn på medlemsstat eller tredjestat der den siste oppdrettsperioden på minst én måned fant sted, eller dersom det slaktede dyret var yngre enn én måned, navn på medlemsstat eller tredjestat der hele oppdrettsperioden etter at dyret var satt til oppfôring, fant sted,
+2. navn på medlemsstat eller tredjestat der slaktingen fant sted, angitt som «Slaktet i: (navn på medlemsstat eller tredjestat)», og
+3. partikoden som identifiserer kjøttet som leveres til forbrukere eller storhusholdninger.
+
+Dersom oppdrettsperioden nevnt i bokstav a) ikke avsluttes i noen av medlemsstatene eller tredjestatene der dyret ble oppdrettet, skal angivelsen nevnt i bokstav a) erstattes med «Oppdrettet i: flere medlemsstater i EU», eller dersom kjøttet eller dyrene er importert til Unionen, med «Oppdrettet i: flere stater utenfor EU» eller «Oppdrettet i: flere stater i og utenfor EU».
+
+Dersom oppdrettsperioden nevnt i bokstav a) ikke avsluttes i noen av medlemsstatene eller tredjestatene der dyret ble oppdrettet, kan angivelsen nevnt i bokstav a) erstattes med «Oppdrettet i: (liste over medlemsstater eller tredjestater der dyret ble oppdrettet)» dersom den driftsansvarlige for næringsmiddelforetaket overfor vedkommende myndighet kan bevise at dyret ble oppdrettet i nevnte medlemsstater eller tredjestater.
 
 2\. Angivelsene nevnt i nr. 1 bokstav a) og b) kan erstattes med «Opprinnelse: (navn på medlemsstat eller tredjestat)» dersom den driftsansvarlige for næringsmiddelforetaket overfor vedkommende myndighet kan bevise at kjøttet nevnt i artikkel 1 stammer fra dyr som er født, oppdrettet og slaktet i én medlemsstat eller én tredjestat.
 
-3\. Dersom flere kjøttstykker fra samme eller forskjellige arter omfattes av forskjellige angivelser på etiketten i samsvar med nr. 1 og 2 og presenteres i samme pakning overfor forbrukere eller storhusholdninger, skal etiketten inneholde følgende opplysninger:listen over relevante medlemsstater eller tredjestater i samsvar med nr. 1 eller 2 for hver art,partikoden som identifiserer kjøttet som leveres til forbrukere eller storhusholdninger.
+3\. Dersom flere kjøttstykker fra samme eller forskjellige arter omfattes av forskjellige angivelser på etiketten i samsvar med nr. 1 og 2 og presenteres i samme pakning overfor forbrukere eller storhusholdninger, skal etiketten inneholde følgende opplysninger:
+
+1. listen over relevante medlemsstater eller tredjestater i samsvar med nr. 1 eller 2 for hver art,
+2. partikoden som identifiserer kjøttet som leveres til forbrukere eller storhusholdninger.
 
 ### Artikkel 6. Unntak for kjøtt fra tredjestater
 
@@ -1166,7 +1703,16 @@ Som unntak fra artikkel 5 nr. 1 bokstav a) skal etiketten på kjøtt nevnt i art
 
 ### Artikkel 7. Unntak for kvernet kjøtt og avskjær
 
-Som unntak fra artikkel 5 nr. 1 bokstav a) og b), artikkel 5 nr. 2 og artikkel 6 kan følgende angivelser brukes når det gjelder kvernet kjøtt og avskjær:«Opprinnelse: EU» når kvernet kjøtt eller avskjær er produsert utelukkende av kjøtt som stammer fra dyr som er født, oppdrettet og slaktet i forskjellige medlemsstater,«Oppdrettet og slaktet i: EU» når kvernet kjøtt eller avskjær er produsert utelukkende av kjøtt som stammer fra dyr som er oppdrettet og slaktet i forskjellige medlemsstater,«Oppdrettet og slaktet i: utenfor EU» når kvernet kjøtt eller avskjær er produsert utelukkende av kjøtt som er importert til Unionen,«Oppdrettet i: utenfor EU» og «Slaktet i: EU» når kvernet kjøtt eller avskjær er produsert utelukkende av kjøtt som stammer fra dyr som er importert til Unionen som slaktedyr, og som er slaktet i én eller flere medlemsstater,«Oppdrettet og slaktet i: EU og utenfor EU» når kvernet kjøtt eller avskjær er produsert av:kjøtt som stammer fra dyr som er oppdrettet og slaktet i én eller flere medlemsstater, og kjøtt som er importert til Unionen, ellerkjøtt som stammer fra dyr som er importert til Unionen, og som er slaktet i én eller flere medlemsstater.
+Som unntak fra artikkel 5 nr. 1 bokstav a) og b), artikkel 5 nr. 2 og artikkel 6 kan følgende angivelser brukes når det gjelder kvernet kjøtt og avskjær:
+
+1. «Opprinnelse: EU» når kvernet kjøtt eller avskjær er produsert utelukkende av kjøtt som stammer fra dyr som er født, oppdrettet og slaktet i forskjellige medlemsstater,
+2. «Oppdrettet og slaktet i: EU» når kvernet kjøtt eller avskjær er produsert utelukkende av kjøtt som stammer fra dyr som er oppdrettet og slaktet i forskjellige medlemsstater,
+3. «Oppdrettet og slaktet i: utenfor EU» når kvernet kjøtt eller avskjær er produsert utelukkende av kjøtt som er importert til Unionen,
+4. «Oppdrettet i: utenfor EU» og «Slaktet i: EU» når kvernet kjøtt eller avskjær er produsert utelukkende av kjøtt som stammer fra dyr som er importert til Unionen som slaktedyr, og som er slaktet i én eller flere medlemsstater,
+5. «Oppdrettet og slaktet i: EU og utenfor EU» når kvernet kjøtt eller avskjær er produsert av:
+
+   1. kjøtt som stammer fra dyr som er oppdrettet og slaktet i én eller flere medlemsstater, og kjøtt som er importert til Unionen, eller
+   2. kjøtt som stammer fra dyr som er importert til Unionen, og som er slaktet i én eller flere medlemsstater.
 
 ### Artikkel 8. Frivillige tilleggsopplysninger på etiketten
 
@@ -1207,7 +1753,21 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne,1 særlig artikkel 36 nr. 3 bokstav d), og
 
-ut fra følgende betraktninger:Personer med cøliaki lider av kronisk glutenintoleranse. Det er vitenskapelig påvist at hvete (dvs. alle arter av Triticum, som f.eks. durumhvete, spelthvete og khorasanhvete), rug og bygg er korn som inneholder gluten. Glutenet i disse kornslagene kan ha helseskadelige virkninger for personer med glutenintoleranse, og de bør derfor unngå å spise dem.Opplysninger om fravær eller redusert forekomst av gluten i næringsmidler bør hjelpe personer med glutenintoleranse å gjenkjenne og velge et variert kosthold når de spiser i eller utenfor hjemmet.Ved kommisjonsforordning [(EF) nr. 41/2009](eu/32009r0041)2 fastsettes harmoniserte bestemmelser om opplysninger som gis til forbrukerne om fravær («glutenfri») eller redusert forekomst («svært lavt gluteninnhold») av gluten i næringsmidler. Bestemmelsene i nevnte forordning bygger på vitenskapelige data og sikrer at forbrukerne ikke blir villedet eller forvirret av innbyrdes avvikende opplysninger om fravær eller redusert forekomst av gluten i næringsmidler.I forbindelse med revisjonen av regelverket for næringsmidler til bruk ved spesielle ernæringsmessige behov oppheves forordning [(EF) nr. 41/2009](eu/32009r0041) ved europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609)3 med virkning fra 20. juli 2016. Det bør sikres at opplysninger om fravær eller redusert forekomst av gluten i næringsmidler også etter nevnte dato er basert på relevante vitenskapelige data og ikke er innbyrdes avvikende på en slik måte at de kan villede eller forvirre forbrukerne, i samsvar med kravene fastsatt i artikkel 36 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*). Det er derfor nødvendig å opprettholde ensartede vilkår i Unionen for anvendelsen av disse kravene på næringsmiddelopplysninger som driftsansvarlige for næringsmiddelforetak gir om fravær eller redusert forekomst av gluten i næringsmidler, og vilkårene bør være basert på forordning [(EF) nr. 41/2009](eu/32009r0041).Visse næringsmidler er særlig framstilt, tilberedt og/eller bearbeidet for å redusere gluteninnholdet i én eller flere av de glutenholdige ingrediensene, eller for å erstatte de glutenholdige ingrediensene med andre ingredienser som er naturlig glutenfrie. Andre næringsmidler er framstilt utelukkende av ingredienser som er naturlig glutenfrie.Fjerning av gluten fra glutenholdig korn er forbundet med betydelige tekniske vanskeligheter og kostnader, og det er derfor vanskelig å framstille fullstendig glutenfrie næringsmidler av slikt korn. Følgelig kan mange næringsmidler på markedet som er særlig bearbeidet for å redusere gluteninnholdet i én eller flere av de glutenholdige ingrediensene, inneholde små restmengder av gluten.De fleste personer med glutenintoleranse kan spise havre uten at det har helseskadelige virkninger. Dette spørsmålet blir for tiden gransket i det vitenskapelige miljøet. Det er imidlertid et stort problem at havre kan bli forurenset med hvete, rug eller bygg i forbindelse med innhøsting, transport, lagring og bearbeiding av korn. Driftsansvarlige for næringsmiddelforetak bør derfor ta hensyn til risikoen for glutenforurensing av produkter som inneholder havre, i de relevante opplysningene som de skal merke disse næringsmidlene med.Personer med glutenintoleranse kan tåle små mengder gluten i varierende grad og innenfor visse grenser. For at forbrukerne skal kunne finne forskjellige næringsmidler på markedet som er tilpasset deres behov og grad av følsomhet, bør det finnes et utvalg av produkter med et gluteninnhold som er lavt, og som varierer innenfor disse grensene. Det er imidlertid viktig at de forskjellige produktene har passende merking, slik at personer med glutenintoleranse kan bruke disse produktene riktig, og at medlemsstatene gjennomfører opplysningskampanjer om dette.Et næringsmiddel som er særlig framstilt, tilberedt og/eller bearbeidet for å redusere gluteninnholdet i én eller flere av de glutenholdige ingrediensene, eller for å erstatte de glutenholdige ingrediensene med andre ingredienser som er naturlig glutenfrie, bør kunne merkes med en angivelse av enten fravær («glutenfri») eller redusert forekomst («svært lavt gluteninnhold») av gluten, i samsvar med bestemmelsene fastsatt i denne forordning. Dette næringsmiddelet bør også kunne merkes med en opplysning til forbrukerne om at det er særlig sammensatt for personer med glutenintoleranse.Dessuten bør et næringsmiddel som inneholder ingredienser som er naturlig glutenfrie, kunne merkes med en opplysning om at det er glutenfritt i samsvar med bestemmelsene fastsatt i denne forordning, og forutsatt at de allmenne vilkårene om god opplysningspraksis fastsatt i forordning [(EU) nr. 1169/2011](eu/32011r1169*) er oppfylt. Næringsmiddelopplysninger bør først og fremst ikke være villedende ved at det gis inntrykk av at næringsmiddelet har særlige egenskaper, når alle lignende næringsmidler faktisk har de samme egenskapene.I henhold til kommisjonsdirektiv [2006/141/EF](eu/32006l0141)4 er det forbudt å bruke glutenholdige ingredienser ved framstilling av morsmelkerstatninger og tilskuddsblandinger. Derfor bør bruken av angivelsen «svært lavt gluteninnhold» eller «glutenfri» i merkingen av slike produkter forbys, ettersom disse angivelsene i henhold til denne forordning brukes for å angi et gluteninnhold på henholdsvis høyst 100 mg/kg og 20 mg/kg.Det bør i denne forordning tas behørig hensyn til Codex-standarden for næringsmidler til bruk ved spesielle ernæringsmessige behov for personer med glutenintoleranse.5Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+ut fra følgende betraktninger:
+
+1. Personer med cøliaki lider av kronisk glutenintoleranse. Det er vitenskapelig påvist at hvete (dvs. alle arter av Triticum, som f.eks. durumhvete, spelthvete og khorasanhvete), rug og bygg er korn som inneholder gluten. Glutenet i disse kornslagene kan ha helseskadelige virkninger for personer med glutenintoleranse, og de bør derfor unngå å spise dem.
+2. Opplysninger om fravær eller redusert forekomst av gluten i næringsmidler bør hjelpe personer med glutenintoleranse å gjenkjenne og velge et variert kosthold når de spiser i eller utenfor hjemmet.
+3. Ved kommisjonsforordning [(EF) nr. 41/2009](eu/32009r0041)2 fastsettes harmoniserte bestemmelser om opplysninger som gis til forbrukerne om fravær («glutenfri») eller redusert forekomst («svært lavt gluteninnhold») av gluten i næringsmidler. Bestemmelsene i nevnte forordning bygger på vitenskapelige data og sikrer at forbrukerne ikke blir villedet eller forvirret av innbyrdes avvikende opplysninger om fravær eller redusert forekomst av gluten i næringsmidler.
+4. I forbindelse med revisjonen av regelverket for næringsmidler til bruk ved spesielle ernæringsmessige behov oppheves forordning [(EF) nr. 41/2009](eu/32009r0041) ved europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609)3 med virkning fra 20. juli 2016. Det bør sikres at opplysninger om fravær eller redusert forekomst av gluten i næringsmidler også etter nevnte dato er basert på relevante vitenskapelige data og ikke er innbyrdes avvikende på en slik måte at de kan villede eller forvirre forbrukerne, i samsvar med kravene fastsatt i artikkel 36 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169*). Det er derfor nødvendig å opprettholde ensartede vilkår i Unionen for anvendelsen av disse kravene på næringsmiddelopplysninger som driftsansvarlige for næringsmiddelforetak gir om fravær eller redusert forekomst av gluten i næringsmidler, og vilkårene bør være basert på forordning [(EF) nr. 41/2009](eu/32009r0041).
+5. Visse næringsmidler er særlig framstilt, tilberedt og/eller bearbeidet for å redusere gluteninnholdet i én eller flere av de glutenholdige ingrediensene, eller for å erstatte de glutenholdige ingrediensene med andre ingredienser som er naturlig glutenfrie. Andre næringsmidler er framstilt utelukkende av ingredienser som er naturlig glutenfrie.
+6. Fjerning av gluten fra glutenholdig korn er forbundet med betydelige tekniske vanskeligheter og kostnader, og det er derfor vanskelig å framstille fullstendig glutenfrie næringsmidler av slikt korn. Følgelig kan mange næringsmidler på markedet som er særlig bearbeidet for å redusere gluteninnholdet i én eller flere av de glutenholdige ingrediensene, inneholde små restmengder av gluten.
+7. De fleste personer med glutenintoleranse kan spise havre uten at det har helseskadelige virkninger. Dette spørsmålet blir for tiden gransket i det vitenskapelige miljøet. Det er imidlertid et stort problem at havre kan bli forurenset med hvete, rug eller bygg i forbindelse med innhøsting, transport, lagring og bearbeiding av korn. Driftsansvarlige for næringsmiddelforetak bør derfor ta hensyn til risikoen for glutenforurensing av produkter som inneholder havre, i de relevante opplysningene som de skal merke disse næringsmidlene med.
+8. Personer med glutenintoleranse kan tåle små mengder gluten i varierende grad og innenfor visse grenser. For at forbrukerne skal kunne finne forskjellige næringsmidler på markedet som er tilpasset deres behov og grad av følsomhet, bør det finnes et utvalg av produkter med et gluteninnhold som er lavt, og som varierer innenfor disse grensene. Det er imidlertid viktig at de forskjellige produktene har passende merking, slik at personer med glutenintoleranse kan bruke disse produktene riktig, og at medlemsstatene gjennomfører opplysningskampanjer om dette.
+9. Et næringsmiddel som er særlig framstilt, tilberedt og/eller bearbeidet for å redusere gluteninnholdet i én eller flere av de glutenholdige ingrediensene, eller for å erstatte de glutenholdige ingrediensene med andre ingredienser som er naturlig glutenfrie, bør kunne merkes med en angivelse av enten fravær («glutenfri») eller redusert forekomst («svært lavt gluteninnhold») av gluten, i samsvar med bestemmelsene fastsatt i denne forordning. Dette næringsmiddelet bør også kunne merkes med en opplysning til forbrukerne om at det er særlig sammensatt for personer med glutenintoleranse.
+10. Dessuten bør et næringsmiddel som inneholder ingredienser som er naturlig glutenfrie, kunne merkes med en opplysning om at det er glutenfritt i samsvar med bestemmelsene fastsatt i denne forordning, og forutsatt at de allmenne vilkårene om god opplysningspraksis fastsatt i forordning [(EU) nr. 1169/2011](eu/32011r1169*) er oppfylt. Næringsmiddelopplysninger bør først og fremst ikke være villedende ved at det gis inntrykk av at næringsmiddelet har særlige egenskaper, når alle lignende næringsmidler faktisk har de samme egenskapene.
+11. I henhold til kommisjonsdirektiv [2006/141/EF](eu/32006l0141)4 er det forbudt å bruke glutenholdige ingredienser ved framstilling av morsmelkerstatninger og tilskuddsblandinger. Derfor bør bruken av angivelsen «svært lavt gluteninnhold» eller «glutenfri» i merkingen av slike produkter forbys, ettersom disse angivelsene i henhold til denne forordning brukes for å angi et gluteninnhold på henholdsvis høyst 100 mg/kg og 20 mg/kg.
+12. Det bør i denne forordning tas behørig hensyn til Codex-standarden for næringsmidler til bruk ved spesielle ernæringsmessige behov for personer med glutenintoleranse.5
+13. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
 1 EUT L 304 av 22.11.2011, s. 18.
 
@@ -1227,7 +1787,10 @@ Denne forordning får anvendelse på opplysninger til forbrukerne om fravær ell
 
 ### Artikkel 2. Definisjoner
 
-I denne forordning menes med:«gluten» en proteinfraksjon av hvete, rug, bygg, havre eller krysninger og derivater av disse som visse personer ikke tåler, og som er uløselige i vann og i 0,5 M natriumkloridløsning,«hvete» alle arter av Triticum.
+I denne forordning menes med:
+
+1. «gluten» en proteinfraksjon av hvete, rug, bygg, havre eller krysninger og derivater av disse som visse personer ikke tåler, og som er uløselige i vann og i 0,5 M natriumkloridløsning,
+2. «hvete» alle arter av Triticum.
 
 ### Artikkel 3. Opplysninger til forbrukerne
 
@@ -1235,7 +1798,10 @@ I denne forordning menes med:«gluten» en proteinfraksjon av hvete, rug, bygg, 
 
 2\. Næringsmiddelopplysningene nevnt i nr. 1 kan ledsages av angivelsen «egnet for personer med glutenintoleranse» eller «egnet for personer med cøliaki».
 
-3\. Næringsmiddelopplysningene nevnt i nr. 1 kan ledsages av angivelsen «særlig sammensatt for personer med glutenintoleranse» eller «særlig sammensatt for personer med cøliaki» dersom næringsmiddelet er særlig framstilt, bearbeidet og/eller tilberedt for åredusere gluteninnholdet i én eller flere av de glutenholdige ingrediensene, ellererstatte de glutenholdige ingrediensene med andre ingredienser som er naturlig glutenfrie.
+3\. Næringsmiddelopplysningene nevnt i nr. 1 kan ledsages av angivelsen «særlig sammensatt for personer med glutenintoleranse» eller «særlig sammensatt for personer med cøliaki» dersom næringsmiddelet er særlig framstilt, bearbeidet og/eller tilberedt for å
+
+1. redusere gluteninnholdet i én eller flere av de glutenholdige ingrediensene, eller
+2. erstatte de glutenholdige ingrediensene med andre ingredienser som er naturlig glutenfrie.
 
 ### Artikkel 4. Morsmelkerstatninger og tilskuddsblandinger
 
@@ -1259,9 +1825,15 @@ Utferdiget i Brussel, 30. juli 2014
 Tillatte angivelser av fravær eller redusert forekomst av gluten i næringsmidler og vilkår for bruken av angivelsene
 
 - *Allmenne krav*
-- GLUTENFRIAngivelsen «glutenfri» kan brukes bare dersom næringsmiddelet som selges til sluttforbrukeren, har et gluteninnhold på høyst 20 mg/kg.
-- SVÆRT LAVT GLUTENINNHOLDAngivelsen «svært lavt gluteninnhold» kan brukes bare dersom næringsmiddelet, som består av eller inneholder én eller flere ingredienser framstilt av hvete, rug, bygg, havre eller krysninger av disse, og som er særlig bearbeidet for å redusere gluteninnholdet, har et gluteninnhold på høyst 100 mg/kg i det næringsmiddelet som selges til sluttforbrukeren.
-- *Ytterligere krav til næringsmidler som inneholder havre*Havre i et næringsmiddel som betegnes som glutenfritt, eller som har et svært lavt gluteninnhold, skal være særlig framstilt, tilberedt og/eller bearbeidet for å unngå forurensning med hvete, rug, bygg eller krysninger av disse, og gluteninnholdet i slik havre skal være på høyst 20 mg/kg.
+- GLUTENFRI
+
+  Angivelsen «glutenfri» kan brukes bare dersom næringsmiddelet som selges til sluttforbrukeren, har et gluteninnhold på høyst 20 mg/kg.
+- SVÆRT LAVT GLUTENINNHOLD
+
+  Angivelsen «svært lavt gluteninnhold» kan brukes bare dersom næringsmiddelet, som består av eller inneholder én eller flere ingredienser framstilt av hvete, rug, bygg, havre eller krysninger av disse, og som er særlig bearbeidet for å redusere gluteninnholdet, har et gluteninnhold på høyst 100 mg/kg i det næringsmiddelet som selges til sluttforbrukeren.
+- *Ytterligere krav til næringsmidler som inneholder havre*
+
+  Havre i et næringsmiddel som betegnes som glutenfritt, eller som har et svært lavt gluteninnhold, skal være særlig framstilt, tilberedt og/eller bearbeidet for å unngå forurensning med hvete, rug, bygg eller krysninger av disse, og gluteninnholdet i slik havre skal være på høyst 20 mg/kg.
 
 ### Forordning (EU) 2018/775
 
@@ -1322,8 +1894,17 @@ VEDTATT DENNE FORORDNINGEN:
 
 Hovedingrediensens opprinnelsesland eller opphavssted skal, når det ikke er identisk med opprinnelseslandet eller opphavsstedet som er oppgitt for næringsmiddelet, oppgis
 
-1. med henvisning til et av følgende geografiske områder:«EU», «utenfor EU» eller «i og utenfor EU», elleren region eller et annet geografisk område som ligger i flere medlemsstater eller i tredjeland, dersom dette er definert som sådant i folkeretten eller lett forstås av alminnelig opplyste gjennomsnittsforbrukere, elleret FAO-fangstområde eller et hav- eller ferskvannsområde dersom dette er definert som sådant i folkeretten eller lett forstås av alminnelig opplyste gjennomsnittsforbrukere, ellermedlemsstat(er) eller tredjeland, elleren region eller et annet geografisk område som ligger i en medlemsstat eller i et tredjeland, og som lett forstås av alminnelig opplyste gjennomsnittsforbrukere, elleropprinnelseslandet eller opphavsstedet i samsvar med særlige unionsbestemmelser som gjelder hovedingrediensen(e) som sådan(ne),
-2. eller med følgende forklaring:«(betegnelsen på hovedingrediensen) kommer ikke fra (næringsmiddelets opprinnelsesland eller opphavssted)» eller med tilsvarende ordlyd som det må antas at forbrukeren oppfatter på samme måte.
+1. med henvisning til et av følgende geografiske områder:
+
+   1. «EU», «utenfor EU» eller «i og utenfor EU», eller
+   2. en region eller et annet geografisk område som ligger i flere medlemsstater eller i tredjeland, dersom dette er definert som sådant i folkeretten eller lett forstås av alminnelig opplyste gjennomsnittsforbrukere, eller
+   3. et FAO-fangstområde eller et hav- eller ferskvannsområde dersom dette er definert som sådant i folkeretten eller lett forstås av alminnelig opplyste gjennomsnittsforbrukere, eller
+   4. medlemsstat(er) eller tredjeland, eller
+   5. en region eller et annet geografisk område som ligger i en medlemsstat eller i et tredjeland, og som lett forstås av alminnelig opplyste gjennomsnittsforbrukere, eller
+   6. opprinnelseslandet eller opphavsstedet i samsvar med særlige unionsbestemmelser som gjelder hovedingrediensen(e) som sådan(ne),
+2. eller med følgende forklaring:
+
+   «(betegnelsen på hovedingrediensen) kommer ikke fra (næringsmiddelets opprinnelsesland eller opphavssted)» eller med tilsvarende ordlyd som det må antas at forbrukeren oppfatter på samme måte.
 
 ### Artikkel 3. Presentasjon av opplysningene
 

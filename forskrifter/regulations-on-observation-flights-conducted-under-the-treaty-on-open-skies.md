@@ -30,9 +30,21 @@ The purpose of these regulations is to clarify the conduct of observation flight
 
 ## Section 2. Definitions and abbreviations
 
-For the purpose of these Regulations, the below terms from the Treaty on Open Skies are meant to be understood as follows:«Observed Party» means the State Party, i.e. Norway, or group of States Parties, over whose territory an observation flight is conducted or is intended to be conducted, from the time it has received notification thereof from an observing Party until completion of the procedures relating to that flight, or personnel acting on behalf of that State Party or group of States Parties.«Observing Party» means the State Party or group of States Parties that intends to conduct or conducts an observation flight over the territory of another State Party or group of States Parties, from the time that it has provided notification of its intention to conduct an observation flight until completion of the procedures relating to that flight, or personnel acting on behalf of that State Party or group of States Parties.«Point of entry» means a point designated by the observed Party for the arrival of personnel of the observing Party on the territory of the observed Party.«Point of exit» means a point designated by the observed Party for the departure of personnel of the observing Party from the territory of the observed Party.«Open Skies airfield» means an airfield designated by the observed Party as a point where an observation flight may commence or terminate.«Refuelling airfield» means an airfield designated by the observed Party used for fuelling and servicing of observation aircraft and transport aircraft.«Observation aircraft» means an unarmed, fixed wing aircraft designated to make observation flights, registered by the relevant authorities of a State Party and equipped with agreed sensors.«Sensor» means equipment of a category specified in Article IV, paragraph 1 of the Treaty on Open Skies that is installed on an observation aircraft for use during the conduct of observation flights.
+For the purpose of these Regulations, the below terms from the Treaty on Open Skies are meant to be understood as follows:
 
-For the purpose of these Regulations, the below abbreviations are meant to be understood as follows:AMSL: Above Mean Sea LevelATC: Air Traffic Control.
+1. «Observed Party» means the State Party, i.e. Norway, or group of States Parties, over whose territory an observation flight is conducted or is intended to be conducted, from the time it has received notification thereof from an observing Party until completion of the procedures relating to that flight, or personnel acting on behalf of that State Party or group of States Parties.
+2. «Observing Party» means the State Party or group of States Parties that intends to conduct or conducts an observation flight over the territory of another State Party or group of States Parties, from the time that it has provided notification of its intention to conduct an observation flight until completion of the procedures relating to that flight, or personnel acting on behalf of that State Party or group of States Parties.
+3. «Point of entry» means a point designated by the observed Party for the arrival of personnel of the observing Party on the territory of the observed Party.
+4. «Point of exit» means a point designated by the observed Party for the departure of personnel of the observing Party from the territory of the observed Party.
+5. «Open Skies airfield» means an airfield designated by the observed Party as a point where an observation flight may commence or terminate.
+6. «Refuelling airfield» means an airfield designated by the observed Party used for fuelling and servicing of observation aircraft and transport aircraft.
+7. «Observation aircraft» means an unarmed, fixed wing aircraft designated to make observation flights, registered by the relevant authorities of a State Party and equipped with agreed sensors.
+8. «Sensor» means equipment of a category specified in Article IV, paragraph 1 of the Treaty on Open Skies that is installed on an observation aircraft for use during the conduct of observation flights.
+
+For the purpose of these Regulations, the below abbreviations are meant to be understood as follows:
+
+1. AMSL: Above Mean Sea Level
+2. ATC: Air Traffic Control.
 
 ## Section 3. Principal rule
 
@@ -44,7 +56,10 @@ Point of entry and point of exit shall be Oslo Airport, Gardermoen (ENGM), N 60-
 
 ## Section 5. Open Skies Airfields
 
-The following are the Norwegian Open Skies airfields:Oslo Airport, Gardermoen (ENGM), N 60-12-10, E 011-05-02Bardufoss Airport (ENDU), N69-03-21, E 018-32-25.
+The following are the Norwegian Open Skies airfields:
+
+1. Oslo Airport, Gardermoen (ENGM), N 60-12-10, E 011-05-02
+2. Bardufoss Airport (ENDU), N69-03-21, E 018-32-25.
 
 ## Section 6. Refuelling airfield
 
@@ -54,7 +69,12 @@ Refuelling may take place at Trondheim Airport, Værnes (ENVA), N 63-27-27, E 01
 
 In accordance with the Treaty on Open Skies, aircraft undertaking observation flights are to be afforded priority over any regular air traffic.
 
-When within controlled airspace, observation flights are to be afforded non-deviating status and priority over all other aircraft exceptaircraft in an emergencyaircraft performing roles where the safety of life is involvedaircraft transporting heads of statestate aircraft performing roles for national security.
+When within controlled airspace, observation flights are to be afforded non-deviating status and priority over all other aircraft except
+
+1. aircraft in an emergency
+2. aircraft performing roles where the safety of life is involved
+3. aircraft transporting heads of state
+4. state aircraft performing roles for national security.
 
 Observation flights outside of controlled airspace (Class G airspace) must be carried out in accordance with standardised European visual flight rules (VFR) and give way accordingly.
 
@@ -88,7 +108,12 @@ Observation flights that violates the regime established in the Treaty on Open S
 
 ## Section 13. Amendment of other regulations
 
-At the time of entry into force the following amendments are made to existing regulations:[Forskrift 11. januar 1995 nr. 42](forskrift/1995-01-11-42) om opprettelse av restriksjonsområde EN R402 punkt 1.1.4 skal lyde: Restriksjonene i denne forskrift gjelder ikke for ambulanseflyginger og flyginger etter Avtalen om det åpne luftrom.[Forskrift 11. desember 2006 nr. 1388](forskrift/2006-12-11-1388) om opprettelse av restriksjonsområde EN R203 § 3 andre ledd skal lyde: Også ambulanse-, politi-, søk- og redningsoppdrag og flyginger etter Avtalen om det åpne luftrom må innhente særskilt tillatelse fra Lufttrafikktjenesten på Flesland før flyging i området EN R203 kan gjennomføres.[Forskrift 16. oktober 2007 nr. 1152](forskrift/2007-10-16-1152) om opprettelse av et permanent restriksjonsområde EN R102 over sentrum av Oslo [§ 3](forskrift/2017-12-20-2329/§3) andre ledd skal lyde: Forbudet gjelder ikke flyging i forbindelse med politi-, ambulanse-, forsvars-, søk- og redningsoppdrag og flyginger etter Avtalen om det åpne luftrom under forutsetning av at flygingen innrettes etter publiserte anbefalinger for VFR-trafikk i Oslo-området.[Forskrift 22. januar 2016 nr. 49](forskrift/2016-01-22-49) om etablering av permanent restriksjonsområde EN R103 over området rundt Kongsvinger i forbindelse med det årlige World Rally Championship, Rally Sweden [§ 4](forskrift/2017-12-20-2329/§4) andre punktum skal lyde: Operasjoner i tilknytning til militær-, ambulanse-, politi-, søk- og redningsoppdrag og flyginger etter Avtalen om det åpne luftrom skal prioriteres foran annen trafikk i restriksjonsområdet.
+At the time of entry into force the following amendments are made to existing regulations:
+
+1. [Forskrift 11. januar 1995 nr. 42](forskrift/1995-01-11-42) om opprettelse av restriksjonsområde EN R402 punkt 1.1.4 skal lyde: Restriksjonene i denne forskrift gjelder ikke for ambulanseflyginger og flyginger etter Avtalen om det åpne luftrom.
+2. [Forskrift 11. desember 2006 nr. 1388](forskrift/2006-12-11-1388) om opprettelse av restriksjonsområde EN R203 § 3 andre ledd skal lyde: Også ambulanse-, politi-, søk- og redningsoppdrag og flyginger etter Avtalen om det åpne luftrom må innhente særskilt tillatelse fra Lufttrafikktjenesten på Flesland før flyging i området EN R203 kan gjennomføres.
+3. [Forskrift 16. oktober 2007 nr. 1152](forskrift/2007-10-16-1152) om opprettelse av et permanent restriksjonsområde EN R102 over sentrum av Oslo [§ 3](forskrift/2017-12-20-2329/§3) andre ledd skal lyde: Forbudet gjelder ikke flyging i forbindelse med politi-, ambulanse-, forsvars-, søk- og redningsoppdrag og flyginger etter Avtalen om det åpne luftrom under forutsetning av at flygingen innrettes etter publiserte anbefalinger for VFR-trafikk i Oslo-området.
+4. [Forskrift 22. januar 2016 nr. 49](forskrift/2016-01-22-49) om etablering av permanent restriksjonsområde EN R103 over området rundt Kongsvinger i forbindelse med det årlige World Rally Championship, Rally Sweden [§ 4](forskrift/2017-12-20-2329/§4) andre punktum skal lyde: Operasjoner i tilknytning til militær-, ambulanse-, politi-, søk- og redningsoppdrag og flyginger etter Avtalen om det åpne luftrom skal prioriteres foran annen trafikk i restriksjonsområdet.
 
 ## Section 14. Entry into force
 

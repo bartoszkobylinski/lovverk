@@ -24,11 +24,25 @@ eu_basis: []
 
 ## § 1.
 
-Fra 1. januar 2026 skal det i henhold til [ekomloven](lov/2024-12-13-76) betales avgift til statskassen for bruk av frekvenser til drift av system for mobilkommunikasjon (frekvensavgift) med følgende beløp per MHz (frekvensdupleks) disponert båndbredde:450 MHz-båndet kr 1 562 000700 MHz-båndet kr 1 781 000800 MHz-båndet kr 1 781 000900 MHz-båndet kr 1 781 0001800 MHz-båndet kr 1 781 0002,1 GHz-båndet kr 1 648 000
+Fra 1. januar 2026 skal det i henhold til [ekomloven](lov/2024-12-13-76) betales avgift til statskassen for bruk av frekvenser til drift av system for mobilkommunikasjon (frekvensavgift) med følgende beløp per MHz (frekvensdupleks) disponert båndbredde:
+
+- 450 MHz-båndet kr 1 562 000
+- 700 MHz-båndet kr 1 781 000
+- 800 MHz-båndet kr 1 781 000
+- 900 MHz-båndet kr 1 781 000
+- 1800 MHz-båndet kr 1 781 000
+- 2,1 GHz-båndet kr 1 648 000
 
 ## § 2.
 
-For 2026 skal det i henhold til [ekomloven](lov/2024-12-13-76) betales avgift til statskassen for tillatelse til bruk av femsifrede nummer (nummeravgift) med følgende beløp per nummer:Kategori A kr 175 240Kategori B kr 124 860Kategori C kr 96 050Kategori D kr 67 260Kategori E kr 31 250Kategori F kr 3 890
+For 2026 skal det i henhold til [ekomloven](lov/2024-12-13-76) betales avgift til statskassen for tillatelse til bruk av femsifrede nummer (nummeravgift) med følgende beløp per nummer:
+
+- Kategori A kr 175 240
+- Kategori B kr 124 860
+- Kategori C kr 96 050
+- Kategori D kr 67 260
+- Kategori E kr 31 250
+- Kategori F kr 3 890
 
 ## § 3.
 

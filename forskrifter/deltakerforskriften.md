@@ -26,13 +26,36 @@ eu_basis: []
 
 ### § 1. (virkeområde)
 
-Forskriften inneholder bestemmelser om begrensninger i adgangen til å delta i følgende fiskerier:fisket etter torsk, hyse og sei mv. for konvensjonelle havfiskefartøy,fisket etter torsk, hyse og sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med konvensjonelle redskap nord for 62 grader nord,fisket etter torsk for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med konvensjonelle redskap i Nordsjøen sør for 62 grader nord,fisket etter makrell for fartøy som har mindre enn 500 m3 lasteromsvolum,fisket etter sild for fartøy som har mindre enn 500 m3 lasteromsvolum i Nordsjøen sør for 62 grader nord,fisket etter sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med not nord for 62 grader nord,fisket etter sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med not eller konvensjonelle redskap sør for 62 grader nord,fisket etter reker med trål i Nordsjøen og Skagerrak sør for 62 grader nord,fisket etter norsk vårgytende sild for fartøy som har mindre enn 500 m3 lasteromsvolum,fisket etter rognkjeks for fartøy som har mindre enn 500 m3 lasteromsvolum i Nordland, Troms og Finnmark,fisket etter blåkveite for fartøy under 28 meter største lengde som fisker med konvensjonelle redskap nord for 62 grader nord,fisket etter brisling for fartøy som har mindre enn 500 m3 lasteromsvolum,fisket etter lange og brosme for fartøy som har mindre enn 500 m3 lasteromsvolum,fangst av kongekrabbe innenfor kvoteregulert område,fisket etter reker i Grønlands økonomiske sone, ogfisket etter leppefisk.fisket etter kveite nord for 62 grader nord.
+Forskriften inneholder bestemmelser om begrensninger i adgangen til å delta i følgende fiskerier:
+
+1. fisket etter torsk, hyse og sei mv. for konvensjonelle havfiskefartøy,
+2. fisket etter torsk, hyse og sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med konvensjonelle redskap nord for 62 grader nord,
+3. fisket etter torsk for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med konvensjonelle redskap i Nordsjøen sør for 62 grader nord,
+4. fisket etter makrell for fartøy som har mindre enn 500 m3 lasteromsvolum,
+5. fisket etter sild for fartøy som har mindre enn 500 m3 lasteromsvolum i Nordsjøen sør for 62 grader nord,
+6. fisket etter sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med not nord for 62 grader nord,
+7. fisket etter sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med not eller konvensjonelle redskap sør for 62 grader nord,
+8. fisket etter reker med trål i Nordsjøen og Skagerrak sør for 62 grader nord,
+9. fisket etter norsk vårgytende sild for fartøy som har mindre enn 500 m3 lasteromsvolum,
+10. fisket etter rognkjeks for fartøy som har mindre enn 500 m3 lasteromsvolum i Nordland, Troms og Finnmark,
+11. fisket etter blåkveite for fartøy under 28 meter største lengde som fisker med konvensjonelle redskap nord for 62 grader nord,
+12. fisket etter brisling for fartøy som har mindre enn 500 m3 lasteromsvolum,
+13. fisket etter lange og brosme for fartøy som har mindre enn 500 m3 lasteromsvolum,
+14. fangst av kongekrabbe innenfor kvoteregulert område,
+15. fisket etter reker i Grønlands økonomiske sone, og
+16. fisket etter leppefisk.
+17. fisket etter kveite nord for 62 grader nord.
 
 > Endret ved forskrift [4 mai 2026 nr. 825](forskrift/2026-05-04-825).
 
 ### § 2. (definisjoner)
 
-I denne forskriften menes med:*«eier»:* fysisk person som direkte, eller indirekte gjennom foretak, innehar mer enn 50 prosent av eierandelene i et fiskefartøy. Dersom ingen fysisk person innehar mer enn 50 prosent av eierandelene i fiskefartøyet, ses det hen til en konstellasjon av fysiske personer som direkte, eller indirekte gjennom foretak, innehar mer enn 50 prosent av eierandelene i fiskefartøyet. Der det unntaksvis følger naturlig av sammenhengen skal en likevel med «eier» forstå fysisk eller juridisk person som direkte eier fartøyet. Dette gjelder enkelte bestemmelser i kapittel III om tildeling av tillatelse eller ny adgang til å delta.*«deltakeradgang»:* adgang til å delta i et fiskeri hvor det er fastsatt et største antall fartøy som gis adgang til fiskeriet (lukket gruppe).*«høvedsmann»:* leder av mannskapet om bord, med ansvar for driften av fartøyet.*«lasteromsvolum»:* det totale volumet til et fartøys lasterom og tanker, herunder fryserom, kasserom og rom tilkoblet RSW-anlegg, som lovlig kan benyttes til føring av fangst. Lasterom og tanker som er innredet eller utrustet slik at de lovlig kan benyttes til føring av fangst skal regnes med i lasteromsvolumet selv om de ved avblending eller på andre lett reverserbare måter er gjort ubrukelige for føring av fangst. Følgende rom og tanker inngår ikke i lasteromsvolumet: Rom for biprodukter som f.eks. lever, rogn og torskehoder, melrom, rom for inntak av fisk eller for slog, blødetank, rom for bearbeiding av fangsten, ensillasjetanker, vannballasttanker, islagre og isrom, redskapsrom og rom for øvrig som ikke lovlig kan nyttes til føring av fangst. Fiskeridirektoratet kan gi retningslinjer som utfyller hva som skal regnes som lasteromsvolum.
+I denne forskriften menes med:
+
+1. *«eier»:* fysisk person som direkte, eller indirekte gjennom foretak, innehar mer enn 50 prosent av eierandelene i et fiskefartøy. Dersom ingen fysisk person innehar mer enn 50 prosent av eierandelene i fiskefartøyet, ses det hen til en konstellasjon av fysiske personer som direkte, eller indirekte gjennom foretak, innehar mer enn 50 prosent av eierandelene i fiskefartøyet. Der det unntaksvis følger naturlig av sammenhengen skal en likevel med «eier» forstå fysisk eller juridisk person som direkte eier fartøyet. Dette gjelder enkelte bestemmelser i kapittel III om tildeling av tillatelse eller ny adgang til å delta.
+2. *«deltakeradgang»:* adgang til å delta i et fiskeri hvor det er fastsatt et største antall fartøy som gis adgang til fiskeriet (lukket gruppe).
+3. *«høvedsmann»:* leder av mannskapet om bord, med ansvar for driften av fartøyet.
+4. *«lasteromsvolum»:* det totale volumet til et fartøys lasterom og tanker, herunder fryserom, kasserom og rom tilkoblet RSW-anlegg, som lovlig kan benyttes til føring av fangst. Lasterom og tanker som er innredet eller utrustet slik at de lovlig kan benyttes til føring av fangst skal regnes med i lasteromsvolumet selv om de ved avblending eller på andre lett reverserbare måter er gjort ubrukelige for føring av fangst. Følgende rom og tanker inngår ikke i lasteromsvolumet: Rom for biprodukter som f.eks. lever, rogn og torskehoder, melrom, rom for inntak av fisk eller for slog, blødetank, rom for bearbeiding av fangsten, ensillasjetanker, vannballasttanker, islagre og isrom, redskapsrom og rom for øvrig som ikke lovlig kan nyttes til føring av fangst. Fiskeridirektoratet kan gi retningslinjer som utfyller hva som skal regnes som lasteromsvolum.
 
 ### § 3. (forholdet til reguleringene av fiske)
 
@@ -78,7 +101,11 @@ Fiskeridirektoratet kan i vedtaket stille krav til fartøyets egnethet, bemannin
 
 ### § 9. (vilkår for å delta i lukket gruppe)
 
-For å kunne delta i fiske med havfiskefartøy som fisker med annet redskap enn trål og not (konvensjonelle havfiskefartøy) etter torsk, hyse, sei, brosme, lange (hvitlange og blålange), blåkveite, uer og steinbit må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter torsk, hyse og sei mv.
+For å kunne delta i fiske med havfiskefartøy som fisker med annet redskap enn trål og not (konvensjonelle havfiskefartøy) etter torsk, hyse, sei, brosme, lange (hvitlange og blålange), blåkveite, uer og steinbit må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter torsk, hyse og sei mv.
 
 For å kunne delta i fisket etter sei med garn, må fartøyet ha hatt adgang til å delta i dette fisket i 2025 og være egnet, bemannet og utstyrt enten for fiske etter sei med garn eller for fiske etter sei med snurrevad dersom fartøyet skal benytte snurrevad i dette fisket.
 
@@ -100,13 +127,35 @@ Deltakelsen i fiske gjelder for fiske etter torsk, hyse og sei nord for 62 grade
 
 ### § 12. (vilkår for å delta i lukket gruppe)
 
-For å delta i lukket gruppe i kystfartøygruppens fiske etter torsk, hyse og sei nord for 62 grader nord må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter torsk, hyse og sei.vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i lukket gruppe i kystfartøygruppens fiske etter torsk, hyse og sei nord for 62 grader nord må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter torsk, hyse og sei.
+4. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 ### § 13. (vilkår for å delta i åpen gruppe)
 
-Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter torsk, hyse og sei nord for 62 grader nord:fartøyet må være registrert i merkeregisteret og ha en største lengde under 11 meter.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter torsk, hyse og sei.én enkeltperson må direkte eller indirekte gjennom foretak inneha mer enn 50 prosent av eierandelene i fartøyet.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, ellereier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter torsk, hyse og sei nord for 62 grader nord:
 
-Kravet i første ledd bokstav a om at fartøyet må ha en største lengde under 11 meter gjelder ikke dersom:eier av fartøyet har fisket og levert torsk med konvensjonelle redskap nord for 62 grader nord i åpen gruppe med dette fartøyet i minst ett av årene 2003, 2004, 2005, 2006 og 2007,eier av fartøyet har fått innvilget ervervstillatelse 1. januar 2006 eller senere for dette fartøyet på grunnlag av søknad innsendt senest 28. november 2007, eller har inngått bindende avtale om kjøp av dette fartøyet mellom 1. januar 2006 og 28. november 2007,eier av fartøyet har fisket og levert torsk med konvensjonelle redskap nord for 62 grader nord i åpen gruppe i minst ett av årene 2003, 2004, 2005, 2006 og 2007 og har adgang til å delta i lukket gruppe i et annet fiskeri etter reglene i denne forskriften, ellereier av fartøyet har hatt adgang til å delta i lukket gruppe i et annet fiskeri mellom 1. januar 2007 og 28. november 2007 og har adgang til å delta i lukket gruppe i et annet fiskeri etter reglene i denne forskriften.
+1. fartøyet må være registrert i merkeregisteret og ha en største lengde under 11 meter.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter torsk, hyse og sei.
+4. én enkeltperson må direkte eller indirekte gjennom foretak inneha mer enn 50 prosent av eierandelene i fartøyet.
+5. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, eller
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+
+Kravet i første ledd bokstav a om at fartøyet må ha en største lengde under 11 meter gjelder ikke dersom:
+
+1. eier av fartøyet har fisket og levert torsk med konvensjonelle redskap nord for 62 grader nord i åpen gruppe med dette fartøyet i minst ett av årene 2003, 2004, 2005, 2006 og 2007,
+2. eier av fartøyet har fått innvilget ervervstillatelse 1. januar 2006 eller senere for dette fartøyet på grunnlag av søknad innsendt senest 28. november 2007, eller har inngått bindende avtale om kjøp av dette fartøyet mellom 1. januar 2006 og 28. november 2007,
+3. eier av fartøyet har fisket og levert torsk med konvensjonelle redskap nord for 62 grader nord i åpen gruppe i minst ett av årene 2003, 2004, 2005, 2006 og 2007 og har adgang til å delta i lukket gruppe i et annet fiskeri etter reglene i denne forskriften, eller
+4. eier av fartøyet har hatt adgang til å delta i lukket gruppe i et annet fiskeri mellom 1. januar 2007 og 28. november 2007 og har adgang til å delta i lukket gruppe i et annet fiskeri etter reglene i denne forskriften.
 
 Fartøy med torsketråltillatelse, seitråltillatelse eller ringnottillatelse etter [forskrift 13. oktober 2006 nr. 1157 om spesielle tillatelser til å drive enkelte former for fiske og fangst (konsesjonsforskriften) § 2-1](forskrift/2006-10-13-1157/§2-1), [§ 2-14](forskrift/2006-10-13-1157/§2-14) og [§ 4-1](forskrift/2006-10-13-1157/§4-1) kan likevel ikke delta i åpen gruppe.
 
@@ -118,17 +167,38 @@ Deltakelsen i fiske gjelder fiske etter torsk i området sør for 62 grader nord
 
 ### § 15. (vilkår for å delta i lukket gruppe)
 
-For å delta i lukket gruppe i kystfartøygruppens fiske etter torsk sør for 62 grader nord må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter torsk.vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i lukket gruppe i kystfartøygruppens fiske etter torsk sør for 62 grader nord må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter torsk.
+4. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 ### § 16. (vilkår for å delta i åpen gruppe)
 
-Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter torsk sør for 62 grader nord:fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter torsk.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, ellereier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter torsk sør for 62 grader nord:
+
+1. fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter torsk.
+4. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, eller
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 ### IV. Fisket etter makrell for fartøy som har mindre enn 500 m3 lasteromsvolum
 
 ### § 17. (vilkår for å delta med garn og snøre i lukket gruppe)
 
-For å delta i lukket gruppe i kystfartøygruppens fiske med garn og snøre etter makrell må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for å delta i fiske med garn eller snøre eller not.vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i lukket gruppe i kystfartøygruppens fiske med garn og snøre etter makrell må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for å delta i fiske med garn eller snøre eller not.
+4. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 Eier av fartøy større enn 13 meter største lengde, men mindre enn 500 m3 lasteromsvolum som deltok i fiske med garn eller snøre i 2010 uten å være ført på blad B i fiskermanntallet, kan, etter søknad til Fiskeridirektoratet, gis adgang til å delta uavhengig av vilkåret i første ledd bokstav b dersom eier og høvedsmann er ført i fiskermanntallet.
 
@@ -136,73 +206,162 @@ Fartøy med deltakeradgang etter første ledd, jf. andre ledd, kan benytte not i
 
 ### § 18. (vilkår for å delta med not i lukket gruppe)
 
-For å delta i lukket gruppe i kystfartøygruppens fiske med not etter makrell må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for å delta i fisket med not eller garn eller snøre.vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i lukket gruppe i kystfartøygruppens fiske med not etter makrell må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for å delta i fisket med not eller garn eller snøre.
+4. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 Fartøy med deltakeradgang etter første ledd kan benytte garn og snøre i den utstrekning den årlige forskriften om regulering av fisket etter makrell åpner for dette, og trål i den utstrekning dette er unntatt fra konsesjonskravet i medhold av [konsesjonsforskriften § 1-1 andre ledd fjerde punktum](forskrift/2006-10-13-1157/§1-1/ledd/2/setning/4). Slike fartøy kan benytte snurrevad i medhold av [høstingsforskriften § 4](forskrift/2021-12-23-3910/§4) og [§ 5](forskrift/2021-12-23-3910/§5) eller i medhold av dispensasjon tildelt etter den årlige forskriften om regulering av fisket etter makrell.
 
 ### § 19. (vilkår for å delta i lukket gruppe – små ringnotfartøy)
 
-For å delta i lukket gruppe i kystfartøygruppens fiske med ringnot etter makrell må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret, og ha en hjemmelslengde mellom 21,35 og 28 meter.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter makrell med ringnot.vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i lukket gruppe i kystfartøygruppens fiske med ringnot etter makrell må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret, og ha en hjemmelslengde mellom 21,35 og 28 meter.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter makrell med ringnot.
+4. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 Fartøy med deltakeradgang etter første ledd kan benytte trål i den utstrekning dette er unntatt fra konsesjonskravet i medhold av [konsesjonsforskriften § 1-1 andre ledd tredje](forskrift/2006-10-13-1157/§1-1/ledd/2/setning/3) og [fjerde punktum](forskrift/2006-10-13-1157/§1-1/ledd/2/setning/4). Slike fartøy kan benytte snurrevad i medhold av [høstingsforskriften § 4](forskrift/2021-12-23-3910/§4) og [§ 5](forskrift/2021-12-23-3910/§5) eller i medhold av dispensasjon tildelt etter den årlige forskriften om regulering av fisket etter makrell.
 
 ### § 20. (vilkår for å delta med not eller garn og snøre i åpen gruppe)
 
-Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter makrell med not eller garn og snøre:fartøyet må være registrert i merkeregisteret og ha en største lengde under 13 meter.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøy som skal fiske med not må være egnet, bemannet og utstyrt for å delta i fisket med not. Fartøy som skal fiske med garn eller snøre må være egnet, bemannet og utstyrt for å delta i fisket med garn eller snøre.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, ellereier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter makrell med not eller garn og snøre:
+
+1. fartøyet må være registrert i merkeregisteret og ha en største lengde under 13 meter.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøy som skal fiske med not må være egnet, bemannet og utstyrt for å delta i fisket med not. Fartøy som skal fiske med garn eller snøre må være egnet, bemannet og utstyrt for å delta i fisket med garn eller snøre.
+4. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, eller
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 ### V. Fisket etter sild for fartøy som har mindre enn 500 m3 lasteromsvolum i Nordsjøen sør for 62 grader nord
 
 ### § 21. (vilkår for å delta i lukket gruppe)
 
-For å delta i lukket gruppe i kystfartøygruppens fiske etter sild må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter sild med snurpenot eller landnot. Fartøy som benyttes til fiske ved lysing, skal ha særskilt lysebåt.vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i lukket gruppe i kystfartøygruppens fiske etter sild må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter sild med snurpenot eller landnot. Fartøy som benyttes til fiske ved lysing, skal ha særskilt lysebåt.
+4. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 Fartøy med deltakeradgang etter første ledd kan benytte trål i den utstrekning dette er unntatt fra konsesjonskravet i medhold av [konsesjonsforskriften § 1-1 andre ledd fjerde punktum](forskrift/2006-10-13-1157/§1-1/ledd/2/setning/4).
 
 ### § 22. (vilkår for deltakelse i lukket gruppe – små ringnotfartøy)
 
-For å delta i lukket gruppe i kystfartøygruppens fiske etter sild med ringnot må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret, og ha en hjemmelslengde mellom 21,35 og 28 meter.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for å fiske etter sild med ringnot.vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i lukket gruppe i kystfartøygruppens fiske etter sild med ringnot må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret, og ha en hjemmelslengde mellom 21,35 og 28 meter.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for å fiske etter sild med ringnot.
+4. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 Fartøy med deltakeradgang etter første ledd kan benytte trål i den utstrekning dette er unntatt fra konsesjonskravet i medhold av [konsesjonsforskriften § 1-1 andre ledd tredje punktum](forskrift/2006-10-13-1157/§1-1/ledd/2/setning/3).
 
 ### § 23. (vilkår for å delta i åpen gruppe)
 
-Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter sild:fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum,eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter nordsjøsild med snurpenot, landnot eller garn. Fartøy som benyttes til fiske ved lysing, skal ha særskilt lysebåt.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, ellereier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter sild:
+
+1. fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum,
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter nordsjøsild med snurpenot, landnot eller garn. Fartøy som benyttes til fiske ved lysing, skal ha særskilt lysebåt.
+4. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, eller
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 ### VI. Fisket etter sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med not nord for 62 grader nord
 
 ### § 24. (vilkår for å delta i lukket gruppe)
 
-For å delta i kystfartøygruppens fiske etter sei med not nord for 62 grader nord må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha en største lengde på eller over 13 meter, men mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter sei med not.vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i kystfartøygruppens fiske etter sei med not nord for 62 grader nord må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha en største lengde på eller over 13 meter, men mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter sei med not.
+4. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 ### § 25. (vilkår for å delta i åpen gruppe)
 
-Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter sei med not nord for 62 grader nord:fartøyet må være registrert i merkeregisteret og ha en største lengde under 13 meter.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter sei med not.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter sei med not nord for 62 grader nord:
+
+1. fartøyet må være registrert i merkeregisteret og ha en største lengde under 13 meter.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter sei med not.
+4. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 ### VII. Fisket etter sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med not eller konvensjonelle redskap sør for 62 grader nord
 
 ### § 26. (vilkår for å delta med not i lukket gruppe)
 
-For å delta i lukket gruppe i kystfartøygruppens fiske etter sei med not sør for 62 grader nord må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha en største lengde på eller over 13 meter, men mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter sei med not.vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i lukket gruppe i kystfartøygruppens fiske etter sei med not sør for 62 grader nord må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha en største lengde på eller over 13 meter, men mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter sei med not.
+4. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 ### § 27. (vilkår for å delta med not eller konvensjonelle redskap i åpen gruppe)
 
-Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt kan fartøy som oppfyller følgende vilkår delta i kystfartøygruppens fiske etter sei med not eller konvensjonelle redskap sør for 62 grader nord:fartøyet må være registrert i merkeregisteret og være under 13 meter største lengde ved deltakelse med not og ha mindre enn 500 m3 lasteromsvolum ved deltakelse med konvensjonelle redskap.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter sei med not eller konvensjonelle redskap.
+Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt kan fartøy som oppfyller følgende vilkår delta i kystfartøygruppens fiske etter sei med not eller konvensjonelle redskap sør for 62 grader nord:
+
+1. fartøyet må være registrert i merkeregisteret og være under 13 meter største lengde ved deltakelse med not og ha mindre enn 500 m3 lasteromsvolum ved deltakelse med konvensjonelle redskap.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter sei med not eller konvensjonelle redskap.
 
 ### VIII. Fisket etter reker med trål i Nordsjøen og Skagerrak sør for 62 grader nord
 
 ### § 28. (vilkår for å delta i lukket gruppe)
 
-For å delta i kystfartøygruppens fiske etter reker sør for 62 grader nord må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha en største lengde på eller over 11 meter.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter reker med trål.Vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i kystfartøygruppens fiske etter reker sør for 62 grader nord må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha en største lengde på eller over 11 meter.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter reker med trål.
+4. Vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 ### § 29. (vilkår for å delta i åpen gruppe)
 
-Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter reker med trål sør for 62 grader nord:fartøyet må være registrert i merkeregisteret og ha en største lengde under 11 meter.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter reker med trål.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt, kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter reker med trål sør for 62 grader nord:
+
+1. fartøyet må være registrert i merkeregisteret og ha en største lengde under 11 meter.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter reker med trål.
+4. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 ### IX. Fisket etter norsk vårgytende sild for fartøy som har mindre enn 500 m3 lasteromsvolum
 
 ### § 30. (vilkår for å delta i lukket gruppe)
 
-For å delta i kystfartøygruppens fiske etter norsk vårgytende sild må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter norsk vårgytende sild med snurpenot, landnot eller snurrevad.fartøy som skal fiske med snurpenot, landnot eller snurrevad må ha hatt adgang til å delta i fisket i 2025 med samme redskap. I tillegg kan fartøy som hadde adgang til å delta i fisket i 2004, og som fortsatt har samme eier som før 1. juli 2004, delta. For eier av fartøy som nevnt i 2. pkt. som har søkt om utskifting eller fått tilsagn om utskifting før 24. november 2005, kan Fiskeridirektoratet etter søknad gi samme eier adgang til å delta i fisket med et erstatningsfartøy dersom de øvrige vilkårene er oppfylt. Fiskeridirektoratets klagesaksenhet er klageinstans.for å kunne delta i fisket med landnot må fartøyet ha en største lengde under 15 meter. Eiere av fartøy over 15 meter som ved søknad kan dokumentere landnotfiske ett av de siste 5 år kan likevel delta i fisket med landnot.
+For å delta i kystfartøygruppens fiske etter norsk vårgytende sild må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter norsk vårgytende sild med snurpenot, landnot eller snurrevad.
+4. fartøy som skal fiske med snurpenot, landnot eller snurrevad må ha hatt adgang til å delta i fisket i 2025 med samme redskap. I tillegg kan fartøy som hadde adgang til å delta i fisket i 2004, og som fortsatt har samme eier som før 1. juli 2004, delta. For eier av fartøy som nevnt i 2. pkt. som har søkt om utskifting eller fått tilsagn om utskifting før 24. november 2005, kan Fiskeridirektoratet etter søknad gi samme eier adgang til å delta i fisket med et erstatningsfartøy dersom de øvrige vilkårene er oppfylt. Fiskeridirektoratets klagesaksenhet er klageinstans.
+5. for å kunne delta i fisket med landnot må fartøyet ha en største lengde under 15 meter. Eiere av fartøy over 15 meter som ved søknad kan dokumentere landnotfiske ett av de siste 5 år kan likevel delta i fisket med landnot.
 
 Bestemmelsen om dispensasjon fra tidligere aktivitet i denne forskrift [§ 4 tredje ledd](forskrift/2025-12-19-2811/§4/ledd/3) gjelder tilsvarende for kravet i første ledd bokstav d.
 
@@ -214,25 +373,62 @@ Fartøy med deltakeradgang etter første ledd, jf. andre til fjerde ledd, kan be
 
 ### § 31. (vilkår for å delta i åpen gruppe – landnot og garn)
 
-Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter norsk vårgytende sild med landnot og garn:fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter norsk vårgytende sild med landnot eller garn.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+Når vilkårene for deltakelse i lukket gruppe ikke er oppfylt kan fartøy som oppfyller følgende vilkår delta i åpen gruppe i kystfartøygruppens fiske etter norsk vårgytende sild med landnot og garn:
+
+1. fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter norsk vårgytende sild med landnot eller garn.
+4. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 ### X. Fisket etter rognkjeks i Nordland, Troms og Finnmark
 
 ### § 32. (vilkår for å delta i åpen gruppe)
 
-For å delta i lukket gruppe i kystfartøygruppens fiske etter rognkjeks i Nordland, Troms og Finnmark må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og være under 13 meter største lengde. Fiskeridirektoratet kan i særlige tilfeller dispensere fra bestemmelsen om at fartøyet må være registrert i merkeregisteret.eier av fartøyet må være ført i fiskermanntallet.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+For å delta i lukket gruppe i kystfartøygruppens fiske etter rognkjeks i Nordland, Troms og Finnmark må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og være under 13 meter største lengde. Fiskeridirektoratet kan i særlige tilfeller dispensere fra bestemmelsen om at fartøyet må være registrert i merkeregisteret.
+2. eier av fartøyet må være ført i fiskermanntallet.
+3. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 ### XI. Fisket etter blåkveite nord for 62 grader nord
 
 ### § 33. (vilkår for å delta i åpen gruppe)
 
-For å delta i kystfartøygruppens fiske etter blåkveite nord for 62 grader nord må følgende vilkår være oppfylt:fartøyet må være under 28 meter største lengde, fiske med konvensjonelle redskaper og være registrert i merkeregisteret.eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for å drive fiske etter blåkveite.
+For å delta i kystfartøygruppens fiske etter blåkveite nord for 62 grader nord må følgende vilkår være oppfylt:
+
+1. fartøyet må være under 28 meter største lengde, fiske med konvensjonelle redskaper og være registrert i merkeregisteret.
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for å drive fiske etter blåkveite.
 
 ### XII. Fisket etter brisling med kystnotfartøy
 
 ### § 34. (vilkår for å delta i åpen gruppe)
 
-For å delta i fisket etter brisling må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.eier av fartøyet må være ført på blad B i fiskermanntallet.eier må ha minst to års erfaring fra brislingfiske.fartøyet må være egnet, bemannet og utstyrt for å drive fiske med not etter brisling. Fartøy som benyttes til fiske ved lysing skal ha særskilt lysebåt.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+For å delta i fisket etter brisling må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha mindre enn 500 m3 lasteromsvolum, med mindre det er gitt dispensasjon fra lengdebegrensningen som gjaldt før 2008 i henhold til de regler som gjaldt da dispensasjonen ble gitt.
+2. eier av fartøyet må være ført på blad B i fiskermanntallet.
+3. eier må ha minst to års erfaring fra brislingfiske.
+4. fartøyet må være egnet, bemannet og utstyrt for å drive fiske med not etter brisling. Fartøy som benyttes til fiske ved lysing skal ha særskilt lysebåt.
+5. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 Fiskeridirektoratet kan gi dispensasjon fra vilkårene i første ledd bokstav b, c og e til bas eller høvedsmann med tradisjonelt brislingbruk og kontrakt om leie av fartøy. Enheten som gis dispensasjon må samlet fylle vilkårene for deltakelse.
 
@@ -240,41 +436,93 @@ Fiskeridirektoratet kan gi dispensasjon fra vilkårene i første ledd bokstav b,
 
 ### § 35. (vilkår for å delta i lukket gruppe)
 
-For å delta i lukket gruppe i kystfartøygruppens fiske etter lange og brosme må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha en største lengde på eller over 28 meter,eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet,fartøyet må være egnet, bemannet og utstyrt for å fiske etter lange og brosme med line,fartøyet har ikke deltakeradgang i fisket etter torsk, hyse, sei mv. for konvensjonelle havfiskefartøy,vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å delta i lukket gruppe i kystfartøygruppens fiske etter lange og brosme må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha en største lengde på eller over 28 meter,
+2. eier av fartøyet og høvedsmann må være ført på blad B i fiskermanntallet,
+3. fartøyet må være egnet, bemannet og utstyrt for å fiske etter lange og brosme med line,
+4. fartøyet har ikke deltakeradgang i fisket etter torsk, hyse, sei mv. for konvensjonelle havfiskefartøy,
+5. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 ### § 36. (vilkår for å delta i åpen gruppe)
 
-For å delta i åpen gruppe i kystgruppens fiske etter lange og brosme må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og ha en største lengde under 28 meter,eier av fartøyet og høvedsmann må være ført i fiskermanntallet,fartøyet må være egnet, bemannet og utstyrt for å drive fiske etter lange og brosme.
+For å delta i åpen gruppe i kystgruppens fiske etter lange og brosme må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og ha en største lengde under 28 meter,
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet,
+3. fartøyet må være egnet, bemannet og utstyrt for å drive fiske etter lange og brosme.
 
 ### XIV. Fangst av kongekrabbe innenfor kvoteregulert område
 
 ### § 37. (vilkår for å delta i lukket gruppe)
 
-For å kunne delta i lukket gruppe i kystfartøygruppens fangst av kongekrabbe innenfor kvoteregulert område må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret, være egnet, bemannet og utstyrt for fangst av kongekrabbe og være på eller over 6 meter største lengde og under 21 meter største lengdeeier av fartøyet og høvedsmannen må være ført i fiskermanntalletvilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å kunne delta i lukket gruppe i kystfartøygruppens fangst av kongekrabbe innenfor kvoteregulert område må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret, være egnet, bemannet og utstyrt for fangst av kongekrabbe og være på eller over 6 meter største lengde og under 21 meter største lengde
+2. eier av fartøyet og høvedsmannen må være ført i fiskermanntallet
+3. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 ### § 38. (vilkår for å delta i åpen gruppe)
 
-For å kunne delta i åpen gruppe i kystfartøygruppens fangst av kongekrabbe innenfor kvoteregulert område må følgende vilkår være oppfylt:fartøyet må være merkeregistrert i Finnmark.fartøyet må være egnet, bemannet og utstyrt for fangst av kongekrabbe og være på eller over 6 meter største lengde og under 15 meter største lengde.eier av fartøyet og høvedsmannen må være ført i fiskermanntallet.eier av fartøyet må være bosatt i Finnmark og ha vært bosatt der de siste 24 månedene, og dessuten være ført i fiskermanntallet i Finnmark og ha vært ført der de siste 12 månedene. I vurderingen av hvor vedkommende er bosatt er de reelle forhold avgjørende, ikke den formelle registreringen i Folkeregisteret.én enkeltperson må direkte eller indirekte gjennom foretak inneha mer enn 50 prosent av eierandelene i fartøyet.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+For å kunne delta i åpen gruppe i kystfartøygruppens fangst av kongekrabbe innenfor kvoteregulert område må følgende vilkår være oppfylt:
+
+1. fartøyet må være merkeregistrert i Finnmark.
+2. fartøyet må være egnet, bemannet og utstyrt for fangst av kongekrabbe og være på eller over 6 meter største lengde og under 15 meter største lengde.
+3. eier av fartøyet og høvedsmannen må være ført i fiskermanntallet.
+4. eier av fartøyet må være bosatt i Finnmark og ha vært bosatt der de siste 24 månedene, og dessuten være ført i fiskermanntallet i Finnmark og ha vært ført der de siste 12 månedene. I vurderingen av hvor vedkommende er bosatt er de reelle forhold avgjørende, ikke den formelle registreringen i Folkeregisteret.
+5. én enkeltperson må direkte eller indirekte gjennom foretak inneha mer enn 50 prosent av eierandelene i fartøyet.
+6. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 ### XV. Fisket etter reker i Grønlands økonomiske sone
 
 ### § 39. (vilkår for deltakelse i lukket gruppe)
 
-For å kunne delta i lukket gruppe i fisket etter reker i Grønlands økonomiske sone må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og tildelt reketråltillatelse i medhold av [konsesjonsforskriften § 3-1](forskrift/2006-10-13-1157/§3-1)fartøyet må være skriftlig påmeldt til Fiskeridirektoratetvilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å kunne delta i lukket gruppe i fisket etter reker i Grønlands økonomiske sone må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og tildelt reketråltillatelse i medhold av [konsesjonsforskriften § 3-1](forskrift/2006-10-13-1157/§3-1)
+2. fartøyet må være skriftlig påmeldt til Fiskeridirektoratet
+3. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 ### § 40. (vilkår for deltakelse i åpen gruppe)
 
-For å kunne delta i åpen gruppe i fisket etter reker i Grønlands økonomiske sone må følgende vilkår være oppfylt:fartøyet må være registrert i merkeregisteret og tildelt reketråltillatelse i medhold av [konsesjonsforskriften § 3-1](forskrift/2006-10-13-1157/§3-1)fartøyet må være skriftlig påmeldt til Fiskeridirektoratet.
+For å kunne delta i åpen gruppe i fisket etter reker i Grønlands økonomiske sone må følgende vilkår være oppfylt:
+
+1. fartøyet må være registrert i merkeregisteret og tildelt reketråltillatelse i medhold av [konsesjonsforskriften § 3-1](forskrift/2006-10-13-1157/§3-1)
+2. fartøyet må være skriftlig påmeldt til Fiskeridirektoratet.
 
 ### XVI. Fisket etter leppefisk
 
 ### § 41. (vilkår for å delta i lukket gruppe)
 
-For å kunne delta i lukket gruppe i fisket etter leppefisk må følgende vilkår være oppfylt:fartøyet må ha største lengde under 15 meter og være registrert i merkeregisteret.eier av fartøyet og høvedsmann må være ført i fiskermanntallet på blad B.fartøyet må være egnet, bemannet og utstyrt for fiske etter leppefisk.det må foreligge leveringsavtale med godkjent kjøper før fartøyet starter opp fisket etter leppefisk. Leveringsavtalen skal fremvises i forbindelse med kontroll og ellers på forespørsel fra Fiskeridirektoratet, Kystvakten eller fiskesalgslagene.vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
+For å kunne delta i lukket gruppe i fisket etter leppefisk må følgende vilkår være oppfylt:
+
+1. fartøyet må ha største lengde under 15 meter og være registrert i merkeregisteret.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet på blad B.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter leppefisk.
+4. det må foreligge leveringsavtale med godkjent kjøper før fartøyet starter opp fisket etter leppefisk. Leveringsavtalen skal fremvises i forbindelse med kontroll og ellers på forespørsel fra Fiskeridirektoratet, Kystvakten eller fiskesalgslagene.
+5. vilkårene i [§ 4](forskrift/2025-12-19-2811/§4) må være oppfylt.
 
 ### § 42. (vilkår for å delta i åpen gruppe)
 
-For å kunne delta i åpen gruppe i fisket etter leppefisk må følgende vilkår være oppfylt:fartøyet må ha største lengde under 11 meter og være registrert i merkeregisteret.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter leppefisk.det må foreligge leveringsavtale med godkjent kjøper før fartøyet starter opp fisket etter leppefisk. Leveringsavtalen skal fremvises i forbindelse med kontroll og ellers på forespørsel fra Fiskeridirektoratet, Kystvakten eller fiskesalgslagene.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+For å kunne delta i åpen gruppe i fisket etter leppefisk må følgende vilkår være oppfylt:
+
+1. fartøyet må ha største lengde under 11 meter og være registrert i merkeregisteret.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for fiske etter leppefisk.
+4. det må foreligge leveringsavtale med godkjent kjøper før fartøyet starter opp fisket etter leppefisk. Leveringsavtalen skal fremvises i forbindelse med kontroll og ellers på forespørsel fra Fiskeridirektoratet, Kystvakten eller fiskesalgslagene.
+5. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 ### XVII. Fisket etter kveite nord for 62 grader nord
 
@@ -282,7 +530,19 @@ For å kunne delta i åpen gruppe i fisket etter leppefisk må følgende vilkår
 
 ### § 42a. (vilkår for å delta i åpen gruppe)
 
-For å delta i kystfartøygruppens fiske etter kveite nord for 62 grader nord må følgende vilkår være oppfylt:fartøyet må være under 15 meter største lengde, fiske med konvensjonelle redskaper og være registrert i merkeregisteret.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for å drive fiske etter kveite.én enkeltperson må direkte eller indirekte gjennom foretak inneha mer enn 50 prosent av eierandelene i fartøyet. Fartøyet kan likevel delta uten én enkeltperson som majoritetseier dersom fartøyet deltok med samme eierkonstellasjon i fisket etter kveite nord for 62 grader nord i 2025.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, ellereier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+For å delta i kystfartøygruppens fiske etter kveite nord for 62 grader nord må følgende vilkår være oppfylt:
+
+1. fartøyet må være under 15 meter største lengde, fiske med konvensjonelle redskaper og være registrert i merkeregisteret.
+2. eier av fartøyet og høvedsmann må være ført i fiskermanntallet.
+3. fartøyet må være egnet, bemannet og utstyrt for å drive fiske etter kveite.
+4. én enkeltperson må direkte eller indirekte gjennom foretak inneha mer enn 50 prosent av eierandelene i fartøyet. Fartøyet kan likevel delta uten én enkeltperson som majoritetseier dersom fartøyet deltok med samme eierkonstellasjon i fisket etter kveite nord for 62 grader nord i 2025.
+5. under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersom
+
+   1. eier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, eller
+   2. eier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, eller
+   3. eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, eller
+   4. eier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, eller
+   5. eier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
 
 > Tilføyd ved forskrift [4 mai 2026 nr. 825](forskrift/2026-05-04-825).
 
@@ -310,9 +570,15 @@ Ved salg av fartøy med deltakeradgang som er tildelt i rekrutteringsøyemed med
 
 Disse særreglene gjelder ved salg av fartøy som har deltakeradgang i fisket etter torsk, hyse og sei mv. for konvensjonelle havfiskefartøy og i fisket etter torsk, hyse og sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med konvensjonelle redskap nord for 62 grader nord.
 
-Ved salg av fartøy som har deltakeradgang, kan Fiskeridirektoratet gi ny eier adgang til å delta i fiske når følgende vilkår er oppfylt:kjøper må være ført på blad B i fiskermanntallet, ogbåde kjøper og selger må være bosatt og ført i fiskermanntallet i samme landsdel i minst 12 måneder før kjøpet finner sted, dersom ikke kjøpet skjer i forbindelse med at kjøper skal nytte strukturkvoteordning mv. for havfiskeflåten. Nord-Norge (Finnmark, Troms og Nordland) og Sør-Norge (fra Trøndelag og sørover) regnes i denne sammenheng som hver sin landsdel. Det kan gjøres unntak fra kravet i første punktum for kjøper som er tatt opp i manntallet i løpet av de siste tolv månedene, dersom vedkommende har vært bosatt i landsdelen i minst 12 måneder. I vurderingen av hvor vedkommende er bosatt er de reelle forhold avgjørende, ikke den formelle registreringen i Folkeregisteret.
+Ved salg av fartøy som har deltakeradgang, kan Fiskeridirektoratet gi ny eier adgang til å delta i fiske når følgende vilkår er oppfylt:
 
-Fiskeridirektoratet kan dispensere fra kravet i andre ledd nr. 2:når fartøy selges til Nord-Troms og Finnmark, ellernår fartøy overføres som ledd i generasjonsskifte til fordel for personer som oppfyller vilkåret for tidsbegrenset ervervstillatelse i [deltakerloven § 7 andre ledd](lov/1999-03-26-15/§7/ledd/2).
+1. kjøper må være ført på blad B i fiskermanntallet, og
+2. både kjøper og selger må være bosatt og ført i fiskermanntallet i samme landsdel i minst 12 måneder før kjøpet finner sted, dersom ikke kjøpet skjer i forbindelse med at kjøper skal nytte strukturkvoteordning mv. for havfiskeflåten. Nord-Norge (Finnmark, Troms og Nordland) og Sør-Norge (fra Trøndelag og sørover) regnes i denne sammenheng som hver sin landsdel. Det kan gjøres unntak fra kravet i første punktum for kjøper som er tatt opp i manntallet i løpet av de siste tolv månedene, dersom vedkommende har vært bosatt i landsdelen i minst 12 måneder. I vurderingen av hvor vedkommende er bosatt er de reelle forhold avgjørende, ikke den formelle registreringen i Folkeregisteret.
+
+Fiskeridirektoratet kan dispensere fra kravet i andre ledd nr. 2:
+
+1. når fartøy selges til Nord-Troms og Finnmark, eller
+2. når fartøy overføres som ledd i generasjonsskifte til fordel for personer som oppfyller vilkåret for tidsbegrenset ervervstillatelse i [deltakerloven § 7 andre ledd](lov/1999-03-26-15/§7/ledd/2).
 
 Adgang for ny eier til å delta i fisket medfører at selgers adgang til å delta med et erstatningsfartøy bortfaller. Dette gjelder samtlige fiskerier nevnt i første ledd.
 

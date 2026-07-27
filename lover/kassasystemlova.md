@@ -28,7 +28,14 @@ Denne lova gjeld leverandørar av kassasystem som nemnt i [§ 2](lov/2015-06-19-
 
 ## § 2. Definisjonar
 
-I denne lova tyderkontantsal: sal av varer og tenester der kjøparen si betalingsplikt overfor seljar blir gjort opp ved levering, ved bruk av betalingskort eller kontantar som betalingsmiddel. Sal over internett eller ved oppkrav blir ikkje rekna som kontantsal,betalingskort: debetkort, kredittkort og faktureringskort,kontantar: andre betalingsmiddel enn betalingskort,kassasystem: kassaapparat eller anna elektronisk system for registrering av kontantsal og utskrift av salskvittering,leverandør av kassasystem: produsent eller importør som enten sjølv eller gjennom forhandlar sel eller tilbyr kassasystem mv. for sal, utleige eller utlån til bokføringspliktig som nemnt i [§ 1](lov/2015-06-19-58/§1), og forhandlarar og andre som tilpassar kassasystem for dei bokføringspliktige,ID-nummeret til kassasystemet: ein unik identifikator for kassasystemet.
+I denne lova tyder
+
+1. kontantsal: sal av varer og tenester der kjøparen si betalingsplikt overfor seljar blir gjort opp ved levering, ved bruk av betalingskort eller kontantar som betalingsmiddel. Sal over internett eller ved oppkrav blir ikkje rekna som kontantsal,
+2. betalingskort: debetkort, kredittkort og faktureringskort,
+3. kontantar: andre betalingsmiddel enn betalingskort,
+4. kassasystem: kassaapparat eller anna elektronisk system for registrering av kontantsal og utskrift av salskvittering,
+5. leverandør av kassasystem: produsent eller importør som enten sjølv eller gjennom forhandlar sel eller tilbyr kassasystem mv. for sal, utleige eller utlån til bokføringspliktig som nemnt i [§ 1](lov/2015-06-19-58/§1), og forhandlarar og andre som tilpassar kassasystem for dei bokføringspliktige,
+6. ID-nummeret til kassasystemet: ein unik identifikator for kassasystemet.
 
 ## § 3. Krav til kassasystem
 

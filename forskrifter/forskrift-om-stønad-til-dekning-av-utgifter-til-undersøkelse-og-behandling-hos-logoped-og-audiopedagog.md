@@ -15,7 +15,7 @@ xml_hash: "60ebbb7474abf5dde05dd4c2265718d31fe5a9a2bcc3dfe67ac5d1f3213ed5c6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,10 @@ Det er et vilkår at medlemmet er henvist fra lege. På henvisningen må legen o
 
 ### § 2. Logopedens og audiopedagogens kompetanse
 
-Det gis bare stønad til undersøkelse og behandling hos logoped og audiopedagog hvis den som gir behandlingen:har bestått eksamen i masterstudium i logopedi eller audiopedagogikk ved norsk utdanningsinstitusjon, ellerhar godkjent eksamen i logopedi eller audiopedagogikk etter tidligere regelverk (før 2005).
+Det gis bare stønad til undersøkelse og behandling hos logoped og audiopedagog hvis den som gir behandlingen:
+
+1. har bestått eksamen i masterstudium i logopedi eller audiopedagogikk ved norsk utdanningsinstitusjon, eller
+2. har godkjent eksamen i logopedi eller audiopedagogikk etter tidligere regelverk (før 2005).
 
 Helsedirektoratet eller det organ Helsedirektoratet bestemmer vurderer om utdanning fra utlandet kan likestilles med norsk masterutdanning i logopedi eller audiopedagogikk.
 
@@ -98,7 +101,10 @@ Vurdering av behov for kommunikasjonshjelpemidler og nødvendig veiledning og op
 
 *M3*
 
-Utgifter til undersøkelse og behandling via video dekkes på følgende vilkår:Pasienten har vært til fysisk undersøkelse hos logopeden/audiopedagogen, og avtalt oppfølging via video skjer som ledd i et behandlings- eller rehabiliteringsopplegg.Videokonsultasjon foregår i henhold til krav til informasjonssikkerhet, jf. norm for informasjonssikkerhet og personvern i helse- og omsorgstjenesten.
+Utgifter til undersøkelse og behandling via video dekkes på følgende vilkår:
+
+1. Pasienten har vært til fysisk undersøkelse hos logopeden/audiopedagogen, og avtalt oppfølging via video skjer som ledd i et behandlings- eller rehabiliteringsopplegg.
+2. Videokonsultasjon foregår i henhold til krav til informasjonssikkerhet, jf. norm for informasjonssikkerhet og personvern i helse- og omsorgstjenesten.
 
 Det kan gjøres unntak fra krav til fysisk undersøkelse ved oppstart av behandling når særskilte forhold gjør dette nødvendig, og behovet er dokumentert i journal.
 
@@ -108,7 +114,10 @@ Takst A7c kan kun benyttes når logopeden eller audiopedagogen gir konkret veile
 
 *M5*
 
-Utgifter til behandling i grupper dekkes på følgende vilkår:Pasienten må ha vært til individuell undersøkelse og/eller behandling.Lokaler og utstyr må være tilpasset antall personer i gruppen.
+Utgifter til behandling i grupper dekkes på følgende vilkår:
+
+1. Pasienten må ha vært til individuell undersøkelse og/eller behandling.
+2. Lokaler og utstyr må være tilpasset antall personer i gruppen.
 
 Gruppebehandling kan gis via video forutsatt at vilkårene i merknad M3 er oppfylt.
 

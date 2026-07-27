@@ -15,7 +15,7 @@ xml_hash: "19f72b27dd223784b59c05ee601c1109b2c0c6788eb78e1ff5d6034cad8ad10e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1. Losavgiftene
 
-Losavgiftene består av:Losberedskapsavgift – betales av fartøy som har losplikt eller som frivillig benytter los.Losingsavgift – betales av fartøy som nytter los.Farledsbevisavgift – betales av fartøy/navigatør for gjennomføring av farledsbevisprøve, samt ved utstedelse, fornying eller endring av farledsbevis.Kadettfarledsbevisavgift – betales av fartøy/navigatør for utstedelse av kadettfarledsbevis.
+Losavgiftene består av:
+
+1. Losberedskapsavgift – betales av fartøy som har losplikt eller som frivillig benytter los.
+2. Losingsavgift – betales av fartøy som nytter los.
+3. Farledsbevisavgift – betales av fartøy/navigatør for gjennomføring av farledsbevisprøve, samt ved utstedelse, fornying eller endring av farledsbevis.
+4. Kadettfarledsbevisavgift – betales av fartøy/navigatør for utstedelse av kadettfarledsbevis.
 
 Losingsavgiften, farledsbevisavgiften og kadettfarledsbevisavgiften betales i tillegg til losberedskapsavgiften.
 
@@ -48,7 +53,11 @@ Betalingsplikten for kadettfarledsbevis inntrer ved utstedelse av kadettfarledsb
 
 ### § 3. Definisjoner
 
-I denne forskriften betyr:*Avgiftsbelagt farvann:* Farvann med losplikt, jf. lospliktforskriften [§ 4](forskrift/1994-12-23-1128/§4).*Innseiling:* Seilas fra farvann uten losplikt og passering av grensen til avgiftsbelagt farvann.*Utseiling:* Seilas til farvann uten losplikt og passering av grensen fra avgiftsbelagt farvann.
+I denne forskriften betyr:
+
+1. *Avgiftsbelagt farvann:* Farvann med losplikt, jf. lospliktforskriften [§ 4](forskrift/1994-12-23-1128/§4).
+2. *Innseiling:* Seilas fra farvann uten losplikt og passering av grensen til avgiftsbelagt farvann.
+3. *Utseiling:* Seilas til farvann uten losplikt og passering av grensen fra avgiftsbelagt farvann.
 
 Nærings- og fiskeridepartementet kan i tvilstilfeller bestemme hva som skal forstås med de enkelte definisjonene.
 
@@ -98,7 +107,11 @@ For skip opp til og med 20 000 BT registrert i ESI (Environmental Ship Index) m
 
 De betalingspliktige kan betale losberedskapsavgiften i form av en årsavgift i stedet for å betale for hver enkelt innseiling og utseiling. Avgiftspliktige fartøy som hovedsakelig seiler innenfor grensen for avgiftsbelagt farvann eller mellom norske havner skal betale losberedskapsavgiften i form av årsavgift.
 
-Årsavgiften fra og med 1. januar 2026 er:For fartøy t.o.m. 8 000 BT FritattFor fartøy f.o.m. 8 001 BT t.o.m. 10 000 BT kr 85,70 pr. BTFor fartøy over 10 000 BT kr 104,25 pr. BT
+Årsavgiften fra og med 1. januar 2026 er:
+
+- For fartøy t.o.m. 8 000 BT Fritatt
+- For fartøy f.o.m. 8 001 BT t.o.m. 10 000 BT kr 85,70 pr. BT
+- For fartøy over 10 000 BT kr 104,25 pr. BT
 
 Årsavgiften betales kvartalsvis. Betalingspliktige fartøy er selv ansvarlig for å bestille årsavgift i Kystverkets meldingssystem SafeSeaNet i god tid før seilas foretas.
 
@@ -183,7 +196,12 @@ Kystverket kan i tvilstilfeller ved enkeltvedtak bestemme hvor mange timer som s
 
 Når det er utført en uvanlig lostjeneste eller når losingen har budt på særlige vansker eller når det er medgått særskilt tid til planlegging eller forberedelse av losoppdraget, kan det kreves et særskilt tillegg til losingsavgiften. Tillegget beregnes etter fartøyets timesats i henhold til [§ 12](forskrift/1994-12-23-1128/§12) for det antall timer som Kystverket bestemmer.
 
-Fartøy ilegges en bestillingsavgift på kr 1 674,– dersom:fristen på 24 eller 72 timer for bestilling av los uten dokumentert grunn ikke er overholdt,losbestillingen ikke er gjort elektronisk i Kystverkets meldingssystem SafeSeaNet,fristen for endelig bekreftelse på 2 timer, eller de særlige fristene angitt av Kystverket i medhold av vedlegg 4 til forskrift om losplikt og bruk av farledsbevis, ikke er overholdt, eller;losbestilling hvor starttidspunktet er bekreftet av bestiller endres
+Fartøy ilegges en bestillingsavgift på kr 1 674,– dersom:
+
+1. fristen på 24 eller 72 timer for bestilling av los uten dokumentert grunn ikke er overholdt,
+2. losbestillingen ikke er gjort elektronisk i Kystverkets meldingssystem SafeSeaNet,
+3. fristen for endelig bekreftelse på 2 timer, eller de særlige fristene angitt av Kystverket i medhold av vedlegg 4 til forskrift om losplikt og bruk av farledsbevis, ikke er overholdt, eller;
+4. losbestilling hvor starttidspunktet er bekreftet av bestiller endres
 
 Det kan tillegges flere avgifter etter andre ledd på samme losoppdrag.
 
@@ -253,6 +271,12 @@ Nærings- og fiskeridepartementet kan endre forskriften her og gi forskrifter om
 
 Denne forskriften trer i kraft 1. mai 1995 kl. 00.00 og får anvendelse for fartøyer som passerer grensen for gebyrbelagt farvann for inn- eller utseiling eller nytter statslos etter dette tidspunkt.
 
-Fra samme tidspunkt oppheves følgende forskrifter:Forskrift om takster for kystgebyr m.v. for perioden 1. januar – 30. april 1995 fastsatt ved [kgl.res. 23. desember 1994 nr. 1128](forskrift/1994-12-23-1128) i medhold av los om losvesenet av 1948.Forskrift om grensen i henhold til losloven mellom innenskjærs og utenskjærs farvann fastsatt ved [kgl.res. 14. juli 1950 nr. 8702](forskrift/1950-07-14-8702).Forskrift om utvidelse av årsavgiftsordningen for kystgebyr fastsatt av Fiskeri- og kystdepartementet [13. mars 1985 nr. 656](forskrift/1985-03-13-656).Forskrift om fritakelse fra å betale milepenger for visse fartøyer i kombinert innen- og utenriks rutefart fastsatt av Industri-, håndverk- og skipsfartsdepartementet den 30. september 1948.Bestemmelser om årsavgift fastsatt av Fiskeri- og kystdepartementet 10. oktober 1969.
+Fra samme tidspunkt oppheves følgende forskrifter:
+
+1. Forskrift om takster for kystgebyr m.v. for perioden 1. januar – 30. april 1995 fastsatt ved [kgl.res. 23. desember 1994 nr. 1128](forskrift/1994-12-23-1128) i medhold av los om losvesenet av 1948.
+2. Forskrift om grensen i henhold til losloven mellom innenskjærs og utenskjærs farvann fastsatt ved [kgl.res. 14. juli 1950 nr. 8702](forskrift/1950-07-14-8702).
+3. Forskrift om utvidelse av årsavgiftsordningen for kystgebyr fastsatt av Fiskeri- og kystdepartementet [13. mars 1985 nr. 656](forskrift/1985-03-13-656).
+4. Forskrift om fritakelse fra å betale milepenger for visse fartøyer i kombinert innen- og utenriks rutefart fastsatt av Industri-, håndverk- og skipsfartsdepartementet den 30. september 1948.
+5. Bestemmelser om årsavgift fastsatt av Fiskeri- og kystdepartementet 10. oktober 1969.
 
 > Tilføyd ved [forskrift 28 des 2010 nr. 1825](forskrift/2010-12-28-1825) (i kraft 1 jan 2011).

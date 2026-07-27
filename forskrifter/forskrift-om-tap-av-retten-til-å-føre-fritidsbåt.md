@@ -26,7 +26,10 @@ eu_basis: []
 
 Forskriften gjelder tap av retten til å føre båtførerbevispliktig fritidsbåt med hjemmel i [lov 26. juni 1998 nr. 47](lov/1998-06-26-47) om fritids- og småbåter [kapittel 3 A](lov/1998-06-26-47/kap3a), heretter kalt fritids- og småbåtloven.
 
-Forskriften gjelder også forpersoner som ikke har fast bopel i Norgepersoner med utenlandsk kompetansebevis.
+Forskriften gjelder også for
+
+1. personer som ikke har fast bopel i Norge
+2. personer med utenlandsk kompetansebevis.
 
 Forskriften gjelder også for Svalbard og Jan Mayen.
 
@@ -54,11 +57,22 @@ Taper en person retten til båtførerbevis skal internasjonalt båtførersertifi
 
 ## § 4. Tap av førerett ved grove overtredelser
 
-Grove overtredelser etter fritids- og [småbåtloven § 28a](lov/1998-06-26-47/§28a) annet ledd gir grunnlag for tap av førerettnår retten domfeller person med førerett for brudd på fritids- og [småbåtloven § 28](lov/1998-06-26-47/§28), jf. [§ 24](lov/1998-06-26-47/§24), for uaktsom navigering, herunder hastighetsovertredelser, og uaktsomheten er grov og har medført tap av menneskeliv, betydelig skade på person, fartøy, miljø eller materielle verdier eller umiddelbar fare for slike skader foreliggernår retten domfeller person med førerett for grove straffbare handlinger hvor det er en klar sammenheng mellom bruken av båtførerbevispliktig fritidsbåt og den straffbare handlingen, skal det samtidig vurderes tap av førerett. Det skal foretas en skjønnsmessig helhetsvurdering av om allmenne hensyn ut fra de konkrete forhold i saken krever fastsettelse av tap av førerett, herunder også forholdsmessigheten av det inngrep tap av førerett vil innebære. Utmålingsreglene for førerkort for motorvogn legges til grunn så langt de passernår retten domfeller person med førerett for brudd på [straffeloven § 314](lov/2005-05-20-28/§314) for å ha unnlatt å yte nødvendig hjelp når det kan skje uten særlig fare for eget fartøy eller personer om bord dernår retten domfeller person med førerett for brudd på fritids- og [småbåtloven § 37](lov/1998-06-26-47/§37), jf. [§ 33](lov/1998-06-26-47/§33), for påvirkning av alkohol eller annet berusende eller bedøvende middel.
+Grove overtredelser etter fritids- og [småbåtloven § 28a](lov/1998-06-26-47/§28a) annet ledd gir grunnlag for tap av førerett
+
+1. når retten domfeller person med førerett for brudd på fritids- og [småbåtloven § 28](lov/1998-06-26-47/§28), jf. [§ 24](lov/1998-06-26-47/§24), for uaktsom navigering, herunder hastighetsovertredelser, og uaktsomheten er grov og har medført tap av menneskeliv, betydelig skade på person, fartøy, miljø eller materielle verdier eller umiddelbar fare for slike skader foreligger
+2. når retten domfeller person med førerett for grove straffbare handlinger hvor det er en klar sammenheng mellom bruken av båtførerbevispliktig fritidsbåt og den straffbare handlingen, skal det samtidig vurderes tap av førerett. Det skal foretas en skjønnsmessig helhetsvurdering av om allmenne hensyn ut fra de konkrete forhold i saken krever fastsettelse av tap av førerett, herunder også forholdsmessigheten av det inngrep tap av førerett vil innebære. Utmålingsreglene for førerkort for motorvogn legges til grunn så langt de passer
+3. når retten domfeller person med førerett for brudd på [straffeloven § 314](lov/2005-05-20-28/§314) for å ha unnlatt å yte nødvendig hjelp når det kan skje uten særlig fare for eget fartøy eller personer om bord der
+4. når retten domfeller person med førerett for brudd på fritids- og [småbåtloven § 37](lov/1998-06-26-47/§37), jf. [§ 33](lov/1998-06-26-47/§33), for påvirkning av alkohol eller annet berusende eller bedøvende middel.
 
 ## § 5. Skjerpende omstendigheter
 
-Skjerpende omstendigheter som gir grunnlag for fastsettelse av tap av førerett i inntil fem år eralvorlig sjøulykkesærlig høye alkoholkonsentrasjoner som er større enn 2 promille i blodet eller over 1,0 milligram per liter luft i utåndingsluften eller tilsvarende konsentrasjon ved bruk av annet berusende eller bedøvende middelbrudd på [straffeloven § 314](lov/2005-05-20-28/§314) når unnlatelsen har hatt døden eller betydelig skade på legeme eller helse til følgedomfellelse av person med førerett for overtredelse av [straffeloven § 239](lov/2005-05-20-28/§239), ellertidligere ilagt straff for overtredelse av fritids- og [småbåtloven § 37](lov/1998-06-26-47/§37), jf. [§ 33](lov/1998-06-26-47/§33), når vedkommende blir ilagt straff for ny båtføring i påvirket tilstand som er begått senest fem år etter at reaksjonen ble fastsatt for den tidligere overtredelsen.
+Skjerpende omstendigheter som gir grunnlag for fastsettelse av tap av førerett i inntil fem år er
+
+1. alvorlig sjøulykke
+2. særlig høye alkoholkonsentrasjoner som er større enn 2 promille i blodet eller over 1,0 milligram per liter luft i utåndingsluften eller tilsvarende konsentrasjon ved bruk av annet berusende eller bedøvende middel
+3. brudd på [straffeloven § 314](lov/2005-05-20-28/§314) når unnlatelsen har hatt døden eller betydelig skade på legeme eller helse til følge
+4. domfellelse av person med førerett for overtredelse av [straffeloven § 239](lov/2005-05-20-28/§239), eller
+5. tidligere ilagt straff for overtredelse av fritids- og [småbåtloven § 37](lov/1998-06-26-47/§37), jf. [§ 33](lov/1998-06-26-47/§33), når vedkommende blir ilagt straff for ny båtføring i påvirket tilstand som er begått senest fem år etter at reaksjonen ble fastsatt for den tidligere overtredelsen.
 
 ## § 6. Føring i påvirket tilstand ved manglende edruelighet
 
@@ -86,7 +100,11 @@ Sperrefrist ilegges ikke en person som var under 14 år da overtredelsen fant st
 
 ## § 10. Melding
 
-Politiet skal uten opphold gi underretning til det sentrale båtførerregisteret omtap av retten til å føre båtførerbevispliktig fritidsbåtsperrefrist for retten til å føre båtførerbevispliktig fritidsbåt og når den opphevesbeslag av obligatorisk båtførerbevis og tilbakelevering av et slikt bevis.
+Politiet skal uten opphold gi underretning til det sentrale båtførerregisteret om
+
+1. tap av retten til å føre båtførerbevispliktig fritidsbåt
+2. sperrefrist for retten til å føre båtførerbevispliktig fritidsbåt og når den oppheves
+3. beslag av obligatorisk båtførerbevis og tilbakelevering av et slikt bevis.
 
 ## § 11. Krav om ny båtførerprøve
 

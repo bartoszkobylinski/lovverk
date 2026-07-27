@@ -34,7 +34,11 @@ Konkursbo som ikke er næringsdrivende og som plikter å levere skattemelding fo
 
 ### § 2-1. Pliktig regnskapsrapportering
 
-Pliktig regnskapsrapportering etter [bokføringsloven § 3](lov/2004-11-19-73/§3) omfatter regnskapsrapportering fastsatt med hjemmel i:[Lov 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap m.v. (regnskapsloven)[Lov 17. juni 2005 nr. 67](lov/2005-06-17-67) om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)[Lov 27. mai 2016 nr. 14](lov/2016-05-27-14) om skatteforvaltning (skatteforvaltningsloven), med unntak av [§ 8-3](lov/2016-05-27-14/§8-3) første ledd bokstav e, [§ 8-4](lov/2016-05-27-14/§8-4), [§ 8-5](lov/2016-05-27-14/§8-5) og [§ 8-7](lov/2016-05-27-14/§8-7).
+Pliktig regnskapsrapportering etter [bokføringsloven § 3](lov/2004-11-19-73/§3) omfatter regnskapsrapportering fastsatt med hjemmel i:
+
+- [Lov 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap m.v. (regnskapsloven)
+- [Lov 17. juni 2005 nr. 67](lov/2005-06-17-67) om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)
+- [Lov 27. mai 2016 nr. 14](lov/2016-05-27-14) om skatteforvaltning (skatteforvaltningsloven), med unntak av [§ 8-3](lov/2016-05-27-14/§8-3) første ledd bokstav e, [§ 8-4](lov/2016-05-27-14/§8-4), [§ 8-5](lov/2016-05-27-14/§8-5) og [§ 8-7](lov/2016-05-27-14/§8-7).
 
 > Endret ved [forskrifter 26 mars 2010 nr. 464](forskrift/2010-03-26-464), [7 sep 2012 nr. 865](forskrift/2012-09-07-865), [9 des 2016 nr. 1544](forskrift/2016-12-09-1544) (i kraft 1 jan 2017).
 
@@ -44,7 +48,24 @@ Pliktig regnskapsrapportering etter [bokføringsloven § 3](lov/2004-11-19-73/§
 
 ### § 3-1. Spesifikasjoner av pliktig regnskapsrapportering
 
-Spesifikasjoner som nevnt i [bokføringsloven § 5](lov/2004-11-19-73/§5) skal inneholde:Bokføringsspesifikasjon. Alle bokførte opplysninger pr. periode, der alle poster skal fremgå i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, tilordningskoder og andre relevante behandlingskoder. Systemgenererte poster kan fremkomme som totaler dersom de er lett kontrollerbare.Kontospesifikasjon. Alle kontoer pr. periode, der det for hver konto skal angis kontokode og kontonavn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, andre relevante behandlingskoder og inn- og utgående saldo. Inngående og utgående merverdiavgift skal kunne spesifiseres pr. transaksjon.Kundespesifikasjon. Alle transaksjoner med kunder pr. periode, der kundens kode og navn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.Leverandørspesifikasjon. Alle transaksjoner med leverandører pr. periode, der leverandørens kode, navn og organisasjonsnummer, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.Spesifikasjon av uttak til eiere, deltakere og egen virksomhet. Alle uttak av eiendeler og tjenester spesifisert pr. eier, deltaker eller på egen virksomhet i ordnet rekkefølge til virkelig verdi med dokumentasjonsdato og dokumentasjonshenvisning.Spesifikasjon av salg til eiere og deltakere i foretak med færre enn 10 eiere eller deltakere. Alle salg av varer og tjenester spesifisert pr. eier eller deltaker i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning. Dette gjelder selv om eiere eller deltakere opptrer som forbrukere.Spesifikasjon av salg og andre ytelser til ledende ansatte. Med ledende ansatte forstås daglig leder, butikksjefer, avdelingssjefer og andre som har bestemmende myndighet over prisfastsettelsen knyttet til eget kjøp av varer og tjenester. Alle salg av varer og tjenester til ledende ansatte spesifisert pr. ansatt i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning. Dette gjelder selv om den ledende ansatte opptrer som forbruker.Spesifikasjon av merverdiavgift.Grunnlaget for utgående merverdiavgift, fradragsberettiget innenlands inngående merverdiavgift og fradragsberettiget innførselsmerverdiavgift, fordelt på de forskjellige avgiftssatsene spesifisert pr. termin.Innenlands omsetning og uttak fritatt for merverdiavgift, innenlands omsetning med omvendt avgiftsplikt, omsetning av varer og tjenester til utlandet fritatt for merverdiavgift, samt omsetning og uttak som faller utenfor bestemmelsene i [merverdiavgiftsloven kapittel 3](lov/2009-06-19-58/kap3).Kjøp med omvendt avgiftsplikt, fordelt på tjenester kjøpt fra utlandet og innenlands kjøp av varer og tjenester.Beløpene skal vises pr. konto og totalt. For utgående merverdiavgift skal avgiftsgrunnlaget også kunne spesifiseres pr. transaksjon. Spesifikasjonen skal vise eventuelle forskjeller mellom beregnet grunnlag i henhold til kontospesifikasjonen og innberettet avgiftsgrunnlag, spesifisert pr. transaksjon for hver avgiftssats.Grunnlaget for beregning av merverdiavgift ved innførsel av varer fordelt på de forskjellige avgiftssatsene, samt grunnlag knyttet til innførsel av varer som det ikke skal beregnes merverdiavgift av.Spesifikasjon av lønnsopplysningspliktige ytelser. Lønnsopplysningspliktige ytelser spesifisert pr. periode etter kontoene i regnskapssystemet. Arbeidsgiveravgiftspliktige ytelser skal dessuten kunne gjengis samlet, pr. avgiftssats og sone.Spesifikasjon av elimineringer og andre posteringer ved utarbeidelse av konsernregnskap. Alle poster spesifisert enkeltvis med dokumentasjonshenvisning.
+Spesifikasjoner som nevnt i [bokføringsloven § 5](lov/2004-11-19-73/§5) skal inneholde:
+
+1. Bokføringsspesifikasjon. Alle bokførte opplysninger pr. periode, der alle poster skal fremgå i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, tilordningskoder og andre relevante behandlingskoder. Systemgenererte poster kan fremkomme som totaler dersom de er lett kontrollerbare.
+2. Kontospesifikasjon. Alle kontoer pr. periode, der det for hver konto skal angis kontokode og kontonavn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, andre relevante behandlingskoder og inn- og utgående saldo. Inngående og utgående merverdiavgift skal kunne spesifiseres pr. transaksjon.
+3. Kundespesifikasjon. Alle transaksjoner med kunder pr. periode, der kundens kode og navn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.
+4. Leverandørspesifikasjon. Alle transaksjoner med leverandører pr. periode, der leverandørens kode, navn og organisasjonsnummer, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.
+5. Spesifikasjon av uttak til eiere, deltakere og egen virksomhet. Alle uttak av eiendeler og tjenester spesifisert pr. eier, deltaker eller på egen virksomhet i ordnet rekkefølge til virkelig verdi med dokumentasjonsdato og dokumentasjonshenvisning.
+6. Spesifikasjon av salg til eiere og deltakere i foretak med færre enn 10 eiere eller deltakere. Alle salg av varer og tjenester spesifisert pr. eier eller deltaker i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning. Dette gjelder selv om eiere eller deltakere opptrer som forbrukere.
+7. Spesifikasjon av salg og andre ytelser til ledende ansatte. Med ledende ansatte forstås daglig leder, butikksjefer, avdelingssjefer og andre som har bestemmende myndighet over prisfastsettelsen knyttet til eget kjøp av varer og tjenester. Alle salg av varer og tjenester til ledende ansatte spesifisert pr. ansatt i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning. Dette gjelder selv om den ledende ansatte opptrer som forbruker.
+8. Spesifikasjon av merverdiavgift.
+
+   1. Grunnlaget for utgående merverdiavgift, fradragsberettiget innenlands inngående merverdiavgift og fradragsberettiget innførselsmerverdiavgift, fordelt på de forskjellige avgiftssatsene spesifisert pr. termin.
+   2. Innenlands omsetning og uttak fritatt for merverdiavgift, innenlands omsetning med omvendt avgiftsplikt, omsetning av varer og tjenester til utlandet fritatt for merverdiavgift, samt omsetning og uttak som faller utenfor bestemmelsene i [merverdiavgiftsloven kapittel 3](lov/2009-06-19-58/kap3).
+   3. Kjøp med omvendt avgiftsplikt, fordelt på tjenester kjøpt fra utlandet og innenlands kjøp av varer og tjenester.
+   4. Beløpene skal vises pr. konto og totalt. For utgående merverdiavgift skal avgiftsgrunnlaget også kunne spesifiseres pr. transaksjon. Spesifikasjonen skal vise eventuelle forskjeller mellom beregnet grunnlag i henhold til kontospesifikasjonen og innberettet avgiftsgrunnlag, spesifisert pr. transaksjon for hver avgiftssats.
+   5. Grunnlaget for beregning av merverdiavgift ved innførsel av varer fordelt på de forskjellige avgiftssatsene, samt grunnlag knyttet til innførsel av varer som det ikke skal beregnes merverdiavgift av.
+9. Spesifikasjon av lønnsopplysningspliktige ytelser. Lønnsopplysningspliktige ytelser spesifisert pr. periode etter kontoene i regnskapssystemet. Arbeidsgiveravgiftspliktige ytelser skal dessuten kunne gjengis samlet, pr. avgiftssats og sone.
+10. Spesifikasjon av elimineringer og andre posteringer ved utarbeidelse av konsernregnskap. Alle poster spesifisert enkeltvis med dokumentasjonshenvisning.
 
 Kunde- og leverandørspesifikasjoner som nevnt i første ledd nr. 3 og 4 skal også omfatte kontante salg og kjøp når vederlaget utgjør mer enn kr 40 000 inklusive merverdiavgift og det betales med kontanter. Det samme gjelder når varen eller tjenesten er beregnet for videresalg eller som direkte innsatsfaktor i produksjon eller tjenesteleveranse, med unntak for de tilfeller hvor det ikke er krav om å angi kjøper i salgsdokumentet, jf. [§ 5-3-12](forskrift/2004-12-01-1558/§5-3-12). Bokføringspliktige som i hovedsak selger kontant, kan spesifisere slike salg og unntaksvise kredittsalg ved fremleggelse av kopier av salgsdokumentasjonen ordnet pr. kunde. Det samme gjelder spesifikasjon av salg til ledende ansatte, jf. første ledd nr. 7. Tilfeldige kjøp og salg kan spesifiseres på henholdsvis felles leverandørkonto og felles kundekonto med relevante identifikasjonskoder slik at opplysningsplikten kan ivaretas.
 
@@ -88,7 +109,15 @@ Bokføringspliktige som ikke utarbeider balanse ved pliktig regnskapsrapporterin
 
 ### § 5-1-1. Salgsdokumentets innhold
 
-Dokumentasjon av salg av varer og tjenester skal minst inneholde:Nummer og dokumentasjonsdato,angivelse av partene,ytelsens art og omfang,tidspunkt og sted for levering av ytelsen,vederlag og betalingsforfall, ogeventuell merverdiavgift og andre avgifter knyttet til transaksjonen som kreves spesifisert i lov eller forskrift. Merverdiavgift skal angis i norske kroner.Hvis kjøper skal beregne og betale merverdiavgift etter [merverdiavgiftsloven § 11-1](lov/2009-06-19-58/§11-1) annet eller tredje ledd, skal salgsdokumentet merkes: «Omvendt avgiftsplikt – Merverdiavgift ikke beregnet».
+Dokumentasjon av salg av varer og tjenester skal minst inneholde:
+
+1. Nummer og dokumentasjonsdato,
+2. angivelse av partene,
+3. ytelsens art og omfang,
+4. tidspunkt og sted for levering av ytelsen,
+5. vederlag og betalingsforfall, og
+6. eventuell merverdiavgift og andre avgifter knyttet til transaksjonen som kreves spesifisert i lov eller forskrift. Merverdiavgift skal angis i norske kroner.
+7. Hvis kjøper skal beregne og betale merverdiavgift etter [merverdiavgiftsloven § 11-1](lov/2009-06-19-58/§11-1) annet eller tredje ledd, skal salgsdokumentet merkes: «Omvendt avgiftsplikt – Merverdiavgift ikke beregnet».
 
 Dokumentasjonsdato er dato for utstedelse av dokumentet med mindre annet følger av denne forskrift.
 
@@ -170,7 +199,13 @@ Salgsdokumentet skal utstedes av selger, med mindre annet er bestemt i lov eller
 
 Ved salg av vare hvor det mottas innbytte (kjøp), kan en av partene i handelen utstede salgsdokumentet. Det kan benyttes en felles nummerserie for slike salgsdokument. For øvrig gjelder kravene til salgsdokumentets innhold, jf. delkapittel 5-1, for hver av partenes salg.
 
-Følgende bokføringspliktige kjøpere kan utstede salgsdokumentasjon på vegne av selger:foreninger og samvirkelag som hovedsakelig tilvirker eller forhandler produkter fra medlemmenes fiske, skogbruk eller gårdsbruk med binæringer, samt hagebruk, gartneri, husdyrhold og reindrift, og som foretar avregning ved alle sine kjøp av produkter fra medlemmer og ikke-medlemmerandre tilvirkere eller forhandlere som kjøper opp produkter som nevnt i bokstav a) direkte fra produsent og som har tillatelse til å anføre avgift i salgsdokumentet etter [merverdiavgiftsforskriften § 15-11-1](forskrift/2009-12-15-1540/§15-11-1) tredje ledd.husflidsutsalg som kjøper produkter fra hjemmeprodusenter av håndverks- og husflidsarbeidandre forretninger som kjøper opp produkter som nevnt i bokstav c) og som har tillatelse til å anføre avgift i salgsdokumentet etter [merverdiavgiftsforskriften § 15-11-2](forskrift/2009-12-15-1540/§15-11-2).kjøpere som alene besitter hele eller deler av materialet for beregning av omfang, vekt, kvalitet eller lignende som grunnlag for utbetaling av provisjon eller annet vederlag til selgeren. Salgsdokumentet skal i tilfelle utstedes av kjøper på grunnlag av en skriftlig, underskrevet avtale om dette. Avtalen skal oppbevares av både kjøper og selger. Det skal fremgå av salgsdokumentet at det er utstedt av kjøper. Kjøperen skal dessuten oppbevare annen dokumentasjon som underbygger salgsdokumentets innhold i 3 år og 6 måneder etter regnskapsårets slutt. Kjøperen skal, ved jevnlig å ta utskrift fra Enhetsregisteret eller lignende, dokumentere om selgeren er registrert i Merverdiavgiftsregisteret.
+Følgende bokføringspliktige kjøpere kan utstede salgsdokumentasjon på vegne av selger:
+
+1. foreninger og samvirkelag som hovedsakelig tilvirker eller forhandler produkter fra medlemmenes fiske, skogbruk eller gårdsbruk med binæringer, samt hagebruk, gartneri, husdyrhold og reindrift, og som foretar avregning ved alle sine kjøp av produkter fra medlemmer og ikke-medlemmer
+2. andre tilvirkere eller forhandlere som kjøper opp produkter som nevnt i bokstav a) direkte fra produsent og som har tillatelse til å anføre avgift i salgsdokumentet etter [merverdiavgiftsforskriften § 15-11-1](forskrift/2009-12-15-1540/§15-11-1) tredje ledd.
+3. husflidsutsalg som kjøper produkter fra hjemmeprodusenter av håndverks- og husflidsarbeid
+4. andre forretninger som kjøper opp produkter som nevnt i bokstav c) og som har tillatelse til å anføre avgift i salgsdokumentet etter [merverdiavgiftsforskriften § 15-11-2](forskrift/2009-12-15-1540/§15-11-2).
+5. kjøpere som alene besitter hele eller deler av materialet for beregning av omfang, vekt, kvalitet eller lignende som grunnlag for utbetaling av provisjon eller annet vederlag til selgeren. Salgsdokumentet skal i tilfelle utstedes av kjøper på grunnlag av en skriftlig, underskrevet avtale om dette. Avtalen skal oppbevares av både kjøper og selger. Det skal fremgå av salgsdokumentet at det er utstedt av kjøper. Kjøperen skal dessuten oppbevare annen dokumentasjon som underbygger salgsdokumentets innhold i 3 år og 6 måneder etter regnskapsårets slutt. Kjøperen skal, ved jevnlig å ta utskrift fra Enhetsregisteret eller lignende, dokumentere om selgeren er registrert i Merverdiavgiftsregisteret.
 
 Salgsdokumentet skal uoppfordret oversendes kjøper med mindre annet fremgår av skriftlig, undertegnet avtale mellom partene eller er bestemt i lov eller forskrift.
 
@@ -244,7 +279,24 @@ Salgsdokumenter som utstedes elektronisk skal utstedes i et filformat som ikke e
 
 ### § 5-3-1. Definisjoner
 
-I dette kapittel menes med*kontantsalg*: salg av varer og tjenester der kjøpers betalingsforpliktelse overfor selger gjøres opp ved levering, ved bruk av betalingskort eller kontanter som betalingsmiddel. Salg over internett eller ved oppkrav anses ikke som kontantsalg,*betalingskort*: debetkort, kredittkort og faktureringskort,*kontanter*: andre betalingsmidler enn betalingskort,*kassasystem*: kassaapparat eller annet elektronisk system for registrering av kontantsalg og utskrift av salgskvittering,*kassaskuff*: oppbevaringsplass for betalingsmiddel som registreres i et kassasystem,*kassapunkt*: en enhet innen et kassasystem som kan avslutte et kontantsalg ved å beordre utskrift av en salgskvittering,*kassasystemets ID-nummer*: en unik identifikator for kassasystemet,*skuffeåpning (nullinnslag)*: integrert kassaskuff åpnes uten at det har skjedd noen registrering av kontantsalg eller tilbakebetaling,*salgskvittering*: utskrift fra kassasystem som viser gjennomført kontantsalgstransaksjon,*returkvittering*: utskrift fra kassasystemet som viser at tidligere utskrevet salgskvittering inneholder feilaktige opplysninger eller opplysninger om tilbakebetaling for prisjusterte eller returnerte varer eller tjenester,*utleveringskvittering*: bekreftelse for kredittsalg,*løpende anvendelse*: all bruk av kassasystemet, blant annet registrering av salg mv. og utskrift av kvitteringer som nevnt i bokstavene i til k, endring av priser, korreksjoner, skuffeåpninger (nullinnslag), utskrift av rapporter og lignende, samt endringer av programvare og midlertidig tilkobling av ekstern programvare,*elektronisk journal*: dokumentasjon av den løpende anvendelsen av kassasystemet i elektronisk form,*Z-rapport*: sammenstilling av dagens registreringer i kassasystemet,*X-rapport:* sammenstilling av registreringer i kassasystemet siden forrige Z-rapport,*Integrert betalingsløsning:* løsninger hvor informasjon om salget, beløp mv. sendes fra kassasystemet til betalingsløsningen, betalingen registreres automatisk i kassasystemet og betalingsmiddelet er annet enn sedler og mynter.
+I dette kapittel menes med
+
+1. *kontantsalg*: salg av varer og tjenester der kjøpers betalingsforpliktelse overfor selger gjøres opp ved levering, ved bruk av betalingskort eller kontanter som betalingsmiddel. Salg over internett eller ved oppkrav anses ikke som kontantsalg,
+2. *betalingskort*: debetkort, kredittkort og faktureringskort,
+3. *kontanter*: andre betalingsmidler enn betalingskort,
+4. *kassasystem*: kassaapparat eller annet elektronisk system for registrering av kontantsalg og utskrift av salgskvittering,
+5. *kassaskuff*: oppbevaringsplass for betalingsmiddel som registreres i et kassasystem,
+6. *kassapunkt*: en enhet innen et kassasystem som kan avslutte et kontantsalg ved å beordre utskrift av en salgskvittering,
+7. *kassasystemets ID-nummer*: en unik identifikator for kassasystemet,
+8. *skuffeåpning (nullinnslag)*: integrert kassaskuff åpnes uten at det har skjedd noen registrering av kontantsalg eller tilbakebetaling,
+9. *salgskvittering*: utskrift fra kassasystem som viser gjennomført kontantsalgstransaksjon,
+10. *returkvittering*: utskrift fra kassasystemet som viser at tidligere utskrevet salgskvittering inneholder feilaktige opplysninger eller opplysninger om tilbakebetaling for prisjusterte eller returnerte varer eller tjenester,
+11. *utleveringskvittering*: bekreftelse for kredittsalg,
+12. *løpende anvendelse*: all bruk av kassasystemet, blant annet registrering av salg mv. og utskrift av kvitteringer som nevnt i bokstavene i til k, endring av priser, korreksjoner, skuffeåpninger (nullinnslag), utskrift av rapporter og lignende, samt endringer av programvare og midlertidig tilkobling av ekstern programvare,
+13. *elektronisk journal*: dokumentasjon av den løpende anvendelsen av kassasystemet i elektronisk form,
+14. *Z-rapport*: sammenstilling av dagens registreringer i kassasystemet,
+15. *X-rapport:* sammenstilling av registreringer i kassasystemet siden forrige Z-rapport,
+16. *Integrert betalingsløsning:* løsninger hvor informasjon om salget, beløp mv. sendes fra kassasystemet til betalingsløsningen, betalingen registreres automatisk i kassasystemet og betalingsmiddelet er annet enn sedler og mynter.
 
 > Endret ved [forskrifter 19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014), [20 des 2016 nr. 1752](forskrift/2016-12-20-1752) som endret ved [forskrift 21 sep 2018 nr. 1351](forskrift/2018-09-21-1351) (i kraft 1 jan 2019).
 
@@ -304,7 +356,13 @@ Dersom korreksjonen gjelder tidligere registrert salg, skal det foreligge ytterl
 
 Ved salgsdagens begynnelse skal vekselkassen registreres i kassasystemet.
 
-Uttak av kontanter fra kassaskuffen i løpet av dagen skal dokumenteres særskilt. Dokumentasjonen skal minst inneholde følgende opplysninger:dato og klokkeslettbeløphvem som har gjort uttaket.Dokumentasjonen skal oppbevares i kassaskuffen.
+Uttak av kontanter fra kassaskuffen i løpet av dagen skal dokumenteres særskilt. Dokumentasjonen skal minst inneholde følgende opplysninger:
+
+1. dato og klokkeslett
+2. beløp
+3. hvem som har gjort uttaket.
+
+Dokumentasjonen skal oppbevares i kassaskuffen.
 
 > Tilføyd ved [forskrift 20 des 2016 nr. 1752](forskrift/2016-12-20-1752) (i kraft 1 jan 2019).
 
@@ -454,15 +512,34 @@ Grunnlaget for beregning av merverdiavgift ved innførsel av varer, grunnlaget f
 
 ### § 5-6. Dokumentasjon av lønn mv.
 
-Dokumentasjon av lønn og andre oppgavepliktige ytelser, samt forskuddstrekk og utleggstrekk skal vise ytelsene pr. motpart. Dette gjelder også når det er gitt pålegg om trekk i en ytelse som ikke er gjenstand for forskuddstrekk. Følgende opplysninger skal fremgå av dokumentasjonen:fødselsnummernavnskattekommunetabellnummer og/eller den trekkprosent som står på skattekortet.
+Dokumentasjon av lønn og andre oppgavepliktige ytelser, samt forskuddstrekk og utleggstrekk skal vise ytelsene pr. motpart. Dette gjelder også når det er gitt pålegg om trekk i en ytelse som ikke er gjenstand for forskuddstrekk. Følgende opplysninger skal fremgå av dokumentasjonen:
+
+1. fødselsnummer
+2. navn
+3. skattekommune
+4. tabellnummer og/eller den trekkprosent som står på skattekortet.
 
 Dersom skattekortet ikke er gjort tilgjengelig for arbeidsgiver, og opplysninger som skal fremgå av skattekortet ikke på annen måte er kommet til arbeidsgiverens kunnskap, skal arbeidsgivers dokumentasjon vise navn og nummer på den kommunen hvor mottakeren av ytelsen (motparten) oppgir at vedkommende var bosatt 1. november i året før trekkåret. Dersom mottaker av ytelsen (motparten) er utenlandsk og ikke var bosatt i Norge 1. november i året før trekkåret, skal dokumentasjonen vise hvilken kommune vedkommende bosatte seg i ved ankomsten til Norge.
 
-Har arbeidsgiveren mottatt pålegg om utleggstrekk, skal dokumentasjonen også inneholde opplysninger om:når pålegget er mottatttrekkprosenten eller det beløp som skal trekkes for hver utbetalingsperiode.
+Har arbeidsgiveren mottatt pålegg om utleggstrekk, skal dokumentasjonen også inneholde opplysninger om:
 
-For hver periode med pliktig regnskapsrapportering av forskuddstrekk og utleggstrekk skal dokumentasjonen inneholde opplysninger pr. motpart:dato for utbetaling av ytelser og om mulig det tidsrom ytelsen knytter seg tilbrutto ytelse, hvis aktuelt med angivelse av antall godtgjorte timereventuelt tillegg for naturalytelser som det skal foretas trekk ifradrag etter [skattebetalingsloven § 5-9](lov/2005-06-17-67/§5-9)trekkgrunnlagetstørrelsen av det foretatte forskuddstrekk og utleggstrekk.
+1. når pålegget er mottatt
+2. trekkprosenten eller det beløp som skal trekkes for hver utbetalingsperiode.
 
-For ansatte som helt eller delvis godtgjøres basert på antall arbeidede timer, skal i tillegg følgende opplysninger være dokumentert pr. motpart:dato for utført arbeidantall timer den aktuelle datosum timer for den aktuelle perioden.
+For hver periode med pliktig regnskapsrapportering av forskuddstrekk og utleggstrekk skal dokumentasjonen inneholde opplysninger pr. motpart:
+
+1. dato for utbetaling av ytelser og om mulig det tidsrom ytelsen knytter seg til
+2. brutto ytelse, hvis aktuelt med angivelse av antall godtgjorte timer
+3. eventuelt tillegg for naturalytelser som det skal foretas trekk i
+4. fradrag etter [skattebetalingsloven § 5-9](lov/2005-06-17-67/§5-9)
+5. trekkgrunnlaget
+6. størrelsen av det foretatte forskuddstrekk og utleggstrekk.
+
+For ansatte som helt eller delvis godtgjøres basert på antall arbeidede timer, skal i tillegg følgende opplysninger være dokumentert pr. motpart:
+
+1. dato for utført arbeid
+2. antall timer den aktuelle dato
+3. sum timer for den aktuelle perioden.
 
 Dokumentasjon av lønn mv. skal utstedes senest på det tidspunkt det er anledning til å få de aktuelle ytelsene utbetalt.
 
@@ -538,7 +615,10 @@ Varelager skal telles ved regnskapsårets slutt. Bokføringspliktige som fører 
 
 Dokumentasjon av varelager skal inneholde en spesifisert oppstilling over varens art, kvantum (med angivelse av måleenhet) og verdi for hver enkelt vare, samt en summeringskolonne for de spesifiserte verdiene. Beregningsmåten for de spesifiserte verdiene, jf. tredje ledd, skal fremgå av dokumentasjonen.
 
-Ved dokumentasjon av varelageret kan verdi for hver enkelt vare etter første ledd beregnes til:anskaffelseskostvarens kalkulerte utsalgsverdi dersom varelagerets anskaffelseskost på tilfredsstillende måte kan beregnes på grunnlag av denne verdien. Det skal fremgå av dokumentasjonen hvordan anskaffelseskosten er beregnet. Varer som etter sin art er fritatt for merverdiavgift ved salg eller avgiftsberegnes med forskjellige satser, skal skilles ut og vises som egne grupper. Det samme gjelder varer med forskjellig bruttofortjeneste.
+Ved dokumentasjon av varelageret kan verdi for hver enkelt vare etter første ledd beregnes til:
+
+1. anskaffelseskost
+2. varens kalkulerte utsalgsverdi dersom varelagerets anskaffelseskost på tilfredsstillende måte kan beregnes på grunnlag av denne verdien. Det skal fremgå av dokumentasjonen hvordan anskaffelseskosten er beregnet. Varer som etter sin art er fritatt for merverdiavgift ved salg eller avgiftsberegnes med forskjellige satser, skal skilles ut og vises som egne grupper. Det samme gjelder varer med forskjellig bruttofortjeneste.
 
 Den regnskapsmessige og skattemessige verdien av varelageret skal fremgå av dokumentasjonen. For bokføringspliktige etter [bokføringsloven § 2](lov/2004-11-19-73/§2) annet ledd, er det tilstrekkelig at den skattemessige verdien fremgår. Varer verdsatt til virkelig verdi skal vises som egen gruppe.
 
@@ -684,7 +764,15 @@ For hver periode med pliktig regnskapsrapportering, og ikke sjeldnere enn hver f
 
 ### § 8-1-4. Prosjektregnskapets innhold
 
-Prosjektregnskapet skal inneholde følgende opplysninger:prosjektkodeoppdragsgivers navn og adresse, eventuelt organisasjonsnummeroppdragets artoppdragets oppstartoppdragets opphøralle direkte kostnaderalle inntekter.
+Prosjektregnskapet skal inneholde følgende opplysninger:
+
+1. prosjektkode
+2. oppdragsgivers navn og adresse, eventuelt organisasjonsnummer
+3. oppdragets art
+4. oppdragets oppstart
+5. oppdragets opphør
+6. alle direkte kostnader
+7. alle inntekter.
 
 Spesifikasjoner av kostnader og inntekter skal tilpasses oppdragets art. Kostnader skal minst spesifiseres på lønnskostnader, materialkostnader, kostnader til underentreprenører og andre direkte kostnader.
 
@@ -694,7 +782,11 @@ Prosjektkoden skal fremgå for hver enkelt post i bokføringsspesifikasjonen og 
 
 ### § 8-1-5. Oppbevaringsplikt og sporbarhet
 
-Prosjektregnskap som nevnt i [§ 8-1-4](forskrift/2004-12-01-1558/§8-1-4) eller bokførte opplysninger som er nødvendige for å kunne utarbeide slike prosjektregnskap skal oppbevares i 10 år. Det samme gjelder dokumentasjon av bokførte opplysninger som inngår i prosjektregnskapet, samt byggekontrakter med anbud/kalkyler, tegninger, kontrakter med underentreprenører, timelister og ordrelister. I tillegg skal opprinnelige timelister på papir oppbevares i 3 år og 6 måneder etter regnskapsårets slutt, eventuelt skannet for elektronisk oppbevaring, selv om timelistene er overført til andre media for oppbevaring i hele 10-årsperioden. Oppbevaringsplikten etter tredje punktum gjelder ikke dersom følgende vilkår er oppfylt:den bokføringspliktige har revisjonsplikt, jf. [revisorloven § 2-1](lov/2020-11-20-128/§2-1),revisor har signert kontrolloppstilling og næringsspesifikasjon foregående skattleggingsperiode, jf. [skatteforvaltningsforskriften §§ 7-2-11](forskrift/2016-11-23-1360/§7-2-11), [8-2-7](forskrift/2016-11-23-1360/§8-2-7) og [8-9-4](forskrift/2016-11-23-1360/§8-9-4), ogden bokføringspliktige etter [§ 8-1-1](forskrift/2004-12-01-1558/§8-1-1) har ikke mottatt bokføringspålegg i medhold av [skatteforvaltningsloven](lov/2016-05-27-14) eller [skattebetalingsloven](lov/2005-06-17-67) i løpet av de foregående 18 måneder for brudd på forskriften [§ 3-1 første ledd nr. 9](forskrift/2004-12-01-1558/§3-1/ledd/1/nummer/9), [§ 5-6](forskrift/2004-12-01-1558/§5-6) eller [§ 8-1-2](forskrift/2004-12-01-1558/§8-1-2).
+Prosjektregnskap som nevnt i [§ 8-1-4](forskrift/2004-12-01-1558/§8-1-4) eller bokførte opplysninger som er nødvendige for å kunne utarbeide slike prosjektregnskap skal oppbevares i 10 år. Det samme gjelder dokumentasjon av bokførte opplysninger som inngår i prosjektregnskapet, samt byggekontrakter med anbud/kalkyler, tegninger, kontrakter med underentreprenører, timelister og ordrelister. I tillegg skal opprinnelige timelister på papir oppbevares i 3 år og 6 måneder etter regnskapsårets slutt, eventuelt skannet for elektronisk oppbevaring, selv om timelistene er overført til andre media for oppbevaring i hele 10-årsperioden. Oppbevaringsplikten etter tredje punktum gjelder ikke dersom følgende vilkår er oppfylt:
+
+1. den bokføringspliktige har revisjonsplikt, jf. [revisorloven § 2-1](lov/2020-11-20-128/§2-1),
+2. revisor har signert kontrolloppstilling og næringsspesifikasjon foregående skattleggingsperiode, jf. [skatteforvaltningsforskriften §§ 7-2-11](forskrift/2016-11-23-1360/§7-2-11), [8-2-7](forskrift/2016-11-23-1360/§8-2-7) og [8-9-4](forskrift/2016-11-23-1360/§8-9-4), og
+3. den bokføringspliktige etter [§ 8-1-1](forskrift/2004-12-01-1558/§8-1-1) har ikke mottatt bokføringspålegg i medhold av [skatteforvaltningsloven](lov/2016-05-27-14) eller [skattebetalingsloven](lov/2005-06-17-67) i løpet av de foregående 18 måneder for brudd på forskriften [§ 3-1 første ledd nr. 9](forskrift/2004-12-01-1558/§3-1/ledd/1/nummer/9), [§ 5-6](forskrift/2004-12-01-1558/§5-6) eller [§ 8-1-2](forskrift/2004-12-01-1558/§8-1-2).
 
 Opprinnelige timelister som skal oppbevares etter første ledd tredje punktum, skal oppbevares i 3 år og 6 måneder etter regnskapsårets slutt, selv om plikten til å oppbevare opprinnelige timelister bortfaller i løpet av oppbevaringstiden. Dersom den bokføringspliktiges revisjonsplikt opphører, jf. første ledd fjerde punktum nr. 1, inntrer plikten til å oppbevare opprinnelige timelister etter første ledd tredje punktum fra den dato revisors fratreden er registrert i Foretaksregisteret. Dersom revisor ikke har signert kontrolloppstilling eller næringsspesifikasjon, jf. første ledd fjerde punktum nr. 2, inntrer plikten til å oppbevare opprinnelige timelister etter første ledd tredje punktum fra fristen for å levere skatte- eller selskapsmeldingen, jf. [skatteforvaltningsforskriften § 8-2-3](forskrift/2016-11-23-1360/§8-2-3). Dersom den revisjonspliktige mottar bokføringspålegg, jf. første ledd fjerde punktum nr. 3, inntrer plikten til å oppbevare opprinnelige timelister etter første ledd tredje punktum fra den dato bokføringspålegget har kommet fram til den bokføringspliktige.
 
@@ -724,7 +816,16 @@ Ved kontantsalg skal taksameteret skrive salgsdokument (salgskvittering) til kun
 
 Kontantsalget skal dokumenteres ved bruk av skiftlapper og rapport fra taksameteret som viser hver enkelt salgstransaksjon, jf. [§ 8-2-2](forskrift/2004-12-01-1558/§8-2-2). Skiftlappene skal nummereres fortløpende av systemet og inneholde løyvenummeret og taksameterets serienummer.
 
-Skiftlappen skal for hvert skift inneholde følgende opplysninger:skiftets datoklokkeslett for skiftets begynnelse og sluttantall turerbrutto innkjørt beløp fordelt på kontant og kreditt. Kontantbeløp skal være fordelt på ulike betalingsmiddelkontanttips og tips som betales med betalingskort mv.totale og besatte kilometersjåførens navn og fødselsnummer eller annen identifikasjonskodeakkumulerte tall for totale kilometer og totalt innkjørt i kroner. Kilometer og kroner skal oppgis med henholdsvis minimum seks- og nisifrede tall.
+Skiftlappen skal for hvert skift inneholde følgende opplysninger:
+
+1. skiftets dato
+2. klokkeslett for skiftets begynnelse og slutt
+3. antall turer
+4. brutto innkjørt beløp fordelt på kontant og kreditt. Kontantbeløp skal være fordelt på ulike betalingsmiddel
+5. kontanttips og tips som betales med betalingskort mv.
+6. totale og besatte kilometer
+7. sjåførens navn og fødselsnummer eller annen identifikasjonskode
+8. akkumulerte tall for totale kilometer og totalt innkjørt i kroner. Kilometer og kroner skal oppgis med henholdsvis minimum seks- og nisifrede tall.
 
 Skiftlapper skal ved utskrift signeres fortløpende med fullt navn av skiftets sjåfør.
 
@@ -932,7 +1033,19 @@ Ved bokføring av salg og uttak av petroleum skal både fakturerte eller avregne
 
 ### § 8-9-3. Dokumentasjon
 
-Dokumentasjonen av salg og/eller uttak av petroleum skal inneholde opplysninger om:hvem som kjøpernår kontrakten er inngåttnår petroleumen passerte leveringsstedet (det leveringssted som er lagt til grunn for det enkelte normprisvedtak)petroleumens artleveringsvilkårkredittidbetalingsvalutafraktbeløp (ved andre leveringsvilkår enn FOB)kvantumfaktura, eller avregningspris pr. enhetsalg eller uttak etter faktura- eller avregningspris.
+Dokumentasjonen av salg og/eller uttak av petroleum skal inneholde opplysninger om:
+
+1. hvem som kjøper
+2. når kontrakten er inngått
+3. når petroleumen passerte leveringsstedet (det leveringssted som er lagt til grunn for det enkelte normprisvedtak)
+4. petroleumens art
+5. leveringsvilkår
+6. kredittid
+7. betalingsvaluta
+8. fraktbeløp (ved andre leveringsvilkår enn FOB)
+9. kvantum
+10. faktura, eller avregningspris pr. enhet
+11. salg eller uttak etter faktura- eller avregningspris.
 
 > Endret ved [forskrift 19 des 2013 nr. 1614](forskrift/2013-12-19-1614) (i kraft 1 jan 2014).
 
@@ -952,7 +1065,16 @@ Dette delkapittelet gjelder for den som omfattes av [merverdiavgiftsloven § 4-5
 
 ### § 8-10-2. Spesifikasjon av kjøp og salg
 
-Videreforhandlere skal spesifisere alle kjøp og salg av brukte varer, kunstverk, samleobjekter og antikviteter, jf. dog annet ledd. Mottatte gjenstander skal straks merkes med et nummer, som også skal fremgå av spesifikasjonen. Det skal fremgå av spesifikasjonen om avansen eller de alminnelige regler for avgiftsberegningen er lagt til grunn ved avgiftsberegningen ved videresalget av gjenstanden. Spesifikasjonen skal inneholde følgende opplysninger:gjenstandens nr.kjøpsdatokjøpssumen klar beskrivelse av varen samt antall, størrelse, mengde eller vektnavn og adresse til den person gjenstanden er ervervet frasalgsdatosalgssum, inkludert avgiftberegningsgrunnlag utgående avgift.
+Videreforhandlere skal spesifisere alle kjøp og salg av brukte varer, kunstverk, samleobjekter og antikviteter, jf. dog annet ledd. Mottatte gjenstander skal straks merkes med et nummer, som også skal fremgå av spesifikasjonen. Det skal fremgå av spesifikasjonen om avansen eller de alminnelige regler for avgiftsberegningen er lagt til grunn ved avgiftsberegningen ved videresalget av gjenstanden. Spesifikasjonen skal inneholde følgende opplysninger:
+
+1. gjenstandens nr.
+2. kjøpsdato
+3. kjøpssum
+4. en klar beskrivelse av varen samt antall, størrelse, mengde eller vekt
+5. navn og adresse til den person gjenstanden er ervervet fra
+6. salgsdato
+7. salgssum, inkludert avgift
+8. beregningsgrunnlag utgående avgift.
 
 Ved samlede kjøp hvor prisen på den enkelte vare ikke er kjent, skal det under pkt. d) minimum angis hovedgrupper av varer som er innkjøpt samt en nøyaktig angivelse av det antall gjenstander som er innkjøpt med antatt pris som overstiger kr 300. Disse gjenstandene skal merkes med nummeret i spesifikasjonen. Salg fra samlede kjøp kreves ikke spesifisert.
 
@@ -968,7 +1090,10 @@ Gjenstandens nummer skal påføres salgsdokumentet. Avgiftsbeløpet skal ikke an
 
 ### § 8-10-5. Dokumentasjon av beløp som nevnt i merverdiavgiftsloven § 4-6
 
-Det skal opprettes en hjelpekonto eller annen oversikt hvor samlede kjøp utlignes motenkeltsalg fra et samlet kjøp ogsamlede salg redusert for kjente kjøpsverdier på den enkelte gjenstand som inngår i salget.
+Det skal opprettes en hjelpekonto eller annen oversikt hvor samlede kjøp utlignes mot
+
+- enkeltsalg fra et samlet kjøp og
+- samlede salg redusert for kjente kjøpsverdier på den enkelte gjenstand som inngår i salget.
 
 Dersom samlet kjøp eller salg utgjør den hovedsakelige del (80 pst. eller mer) av videreforhandlerens kjøp eller salg i terminen, kan også positiv avanse fra andre brukte varer føres mot hjelpekontoen. I slike tilfeller bokføres hele salgssummen som avgiftsfri omsetning.
 

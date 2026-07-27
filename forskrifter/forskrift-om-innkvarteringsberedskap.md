@@ -48,7 +48,15 @@ For personell som faller inn under forskriftens bestemmelser, søkes fritak ette
 
 ## § 5. Rådets oppgaver
 
-Rådet skal bistå departementet med:råd ved behov,utpeking av konkrete områder som bør utredes nærmere med utgangspunkt i aktuelle trussel- og risikovurderinger og andre utfordringer,utarbeidelse av analyser og utredninger,å avgi høringsuttalelser om faglige spørsmål av betydning for innkvarteringsberedskap,vurdering av kritiske situasjoner,å finne frem til innkvarteringsressurser det er behov for, ogå samvirke med relevante aktører.
+Rådet skal bistå departementet med:
+
+1. råd ved behov,
+2. utpeking av konkrete områder som bør utredes nærmere med utgangspunkt i aktuelle trussel- og risikovurderinger og andre utfordringer,
+3. utarbeidelse av analyser og utredninger,
+4. å avgi høringsuttalelser om faglige spørsmål av betydning for innkvarteringsberedskap,
+5. vurdering av kritiske situasjoner,
+6. å finne frem til innkvarteringsressurser det er behov for, og
+7. å samvirke med relevante aktører.
 
 ## § 6. Sekretariat
 

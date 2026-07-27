@@ -15,7 +15,7 @@ xml_hash: "cf8c1652756de87a0168c81f0941ec4c1583a0eb1903e43697b758622f2dcbcb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,16 @@ Søkeren må som hovedregel være norsk statsborger.
 
 ### § 2-2. Utenlandsk statsborger
 
-Utenlandsk statsborger som har lovlig opphold i Norge og som tar utdanning i Norge, får utdanningsstøtte på samme vilkår som norsk statsborger dersom vedkommendehar beskyttelse (asyl) eller opphold på grunn av sterke menneskelige hensyn eller særlig tilknytning til riket, eller bosettingstillatelse eller permanent oppholdstillatelse på grunnlag av slik tillatelseer gift, samboer med felles barn eller partner med norsk statsborger, og begge bor i Norgehar oppholdsrett som familiemedlem til EØS-borger etter [utlendingsloven § 113](lov/2008-05-15-35/§113) eller [§ 114](lov/2008-05-15-35/§114), jf. [§ 110](lov/2008-05-15-35/§110). EØS-borgeren må ha annet oppholdsgrunnlag i Norge enn studier, se [utlendingsloven § 112](lov/2008-05-15-35/§112) første ledd bokstav dhar oppholdstillatelse på grunnlag av familieinnvandring.Referansepersonen må være norsk eller utenlandsk statsborger som har annet oppholdsgrunnlag i Norge enn studier, eller bosettingstillatelse eller permanent oppholdstillatelse på grunnlag av slik tillatelsehar vært bosatt i og har hatt sammenhengende fulltidsarbeid i Norge i minst 24 måneder like før oppstart i utdanningen, og har betalt skatt til Norge i denne perioden. Søkeren må ha hatt oppholdstillatelse som arbeidstaker i periodenhar tatt utdanning i Norge i minst tre år like før undervisningsåret og har bestått utdanning som til sammen tilsvarer minst tre års sammenhengende fulltidsutdanning/180 studiepoeng. Det kan gjøres unntak fra kravet om at utdanningen skal være gjennomført sammenhengende og like før undervisningsåret for søkere som har hatt et opphold i utdanningen i inntil ett år på grunn av dokumentert sykdom eller fødsel. Det er en forutsetning at vedkommende i denne perioden ikke har mottatt støtte til utdanningen gjennom Lånekassen, offentlige utdanningsstøtteordninger i andre land, Norad, Erasmus Mundus, The Norwegian Programme for Development, Research and Education (NUFU), The Norwegian Programme for Capacity Development in Higher Education and Research for Development (NORHED) eller tilsvarende ordninger.
+Utenlandsk statsborger som har lovlig opphold i Norge og som tar utdanning i Norge, får utdanningsstøtte på samme vilkår som norsk statsborger dersom vedkommende
+
+1. har beskyttelse (asyl) eller opphold på grunn av sterke menneskelige hensyn eller særlig tilknytning til riket, eller bosettingstillatelse eller permanent oppholdstillatelse på grunnlag av slik tillatelse
+2. er gift, samboer med felles barn eller partner med norsk statsborger, og begge bor i Norge
+3. har oppholdsrett som familiemedlem til EØS-borger etter [utlendingsloven § 113](lov/2008-05-15-35/§113) eller [§ 114](lov/2008-05-15-35/§114), jf. [§ 110](lov/2008-05-15-35/§110). EØS-borgeren må ha annet oppholdsgrunnlag i Norge enn studier, se [utlendingsloven § 112](lov/2008-05-15-35/§112) første ledd bokstav d
+4. har oppholdstillatelse på grunnlag av familieinnvandring.
+
+   Referansepersonen må være norsk eller utenlandsk statsborger som har annet oppholdsgrunnlag i Norge enn studier, eller bosettingstillatelse eller permanent oppholdstillatelse på grunnlag av slik tillatelse
+5. har vært bosatt i og har hatt sammenhengende fulltidsarbeid i Norge i minst 24 måneder like før oppstart i utdanningen, og har betalt skatt til Norge i denne perioden. Søkeren må ha hatt oppholdstillatelse som arbeidstaker i perioden
+6. har tatt utdanning i Norge i minst tre år like før undervisningsåret og har bestått utdanning som til sammen tilsvarer minst tre års sammenhengende fulltidsutdanning/180 studiepoeng. Det kan gjøres unntak fra kravet om at utdanningen skal være gjennomført sammenhengende og like før undervisningsåret for søkere som har hatt et opphold i utdanningen i inntil ett år på grunn av dokumentert sykdom eller fødsel. Det er en forutsetning at vedkommende i denne perioden ikke har mottatt støtte til utdanningen gjennom Lånekassen, offentlige utdanningsstøtteordninger i andre land, Norad, Erasmus Mundus, The Norwegian Programme for Development, Research and Education (NUFU), The Norwegian Programme for Capacity Development in Higher Education and Research for Development (NORHED) eller tilsvarende ordninger.
 
 Ungdom som søker asyl eller annen oppholdstillatelse i Norge, og som har rett til videregående opplæring etter [opplæringslova § 3-1](lov/1998-07-17-61/§3-1) siste ledd, kan få utstyrsstipend etter forskriftens [§ 16-1](forskrift/2019-03-15-254/§16-1). Det gis ikke annen støtte.
 
@@ -52,7 +61,12 @@ Ungdom som søker asyl eller annen oppholdstillatelse i Norge, og som har rett t
 
 Statsborger fra EØS- eller EFTA-land med status som arbeidstaker i Norge, har rett til utdanningsstøtte på samme vilkår som norske statsborgere. En EØS- eller EFTA-borger som slutter å arbeide og går over i utdanning, opprettholder sin status som arbeidstaker dersom utdanningen vedkommende tar har faglig sammenheng med arbeidet. Kravet om faglig sammenheng faller bort dersom vedkommende har blitt ufrivillig arbeidsledig på grunn av generelle endringer i arbeidsmarkedet.
 
-Følgende medlemmer av EØS- eller EFTA-arbeidstakerens familie har rett til utdanningsstøtte på samme vilkår som norske statsborgere:ektefelleslektning i nedstigende linje av EØS- eller EFTA-arbeidstakeren og/eller EØS- eller EFTA-arbeidstakerens ektefelle. Slektningen må enten være under 21 år, eller bli forsørget av EØS- eller EFTA-arbeidstakeren og/eller dennes ektefelleslektning i oppstigende linje av EØS- eller EFTA-arbeidstakeren og/eller dennes ektefelle som blir forsørget av dembarn av EØS- eller EFTA-arbeidstakeren og/eller EØS- eller EFTA-arbeidstakerens ektefelle. Barnet må bo og ta utdanning i Norge. I tillegg må barnet bo eller ha bodd sammen med EØS- eller EFTA-arbeidstakeren på et tidspunkt da han eller hun var arbeidstaker i Norge. Se også [§ 2-7](forskrift/2019-03-15-254/§2-7) og [§ 5-1](forskrift/2019-03-15-254/§5-1).
+Følgende medlemmer av EØS- eller EFTA-arbeidstakerens familie har rett til utdanningsstøtte på samme vilkår som norske statsborgere:
+
+1. ektefelle
+2. slektning i nedstigende linje av EØS- eller EFTA-arbeidstakeren og/eller EØS- eller EFTA-arbeidstakerens ektefelle. Slektningen må enten være under 21 år, eller bli forsørget av EØS- eller EFTA-arbeidstakeren og/eller dennes ektefelle
+3. slektning i oppstigende linje av EØS- eller EFTA-arbeidstakeren og/eller dennes ektefelle som blir forsørget av dem
+4. barn av EØS- eller EFTA-arbeidstakeren og/eller EØS- eller EFTA-arbeidstakerens ektefelle. Barnet må bo og ta utdanning i Norge. I tillegg må barnet bo eller ha bodd sammen med EØS- eller EFTA-arbeidstakeren på et tidspunkt da han eller hun var arbeidstaker i Norge. Se også [§ 2-7](forskrift/2019-03-15-254/§2-7) og [§ 5-1](forskrift/2019-03-15-254/§5-1).
 
 Dersom EØS- eller EFTA-arbeidstakeren ikke lenger har status som EØS- eller EFTA-arbeidstaker i Norge, har ikke familiemedlemmet lenger rett til utdanningsstøtte etter andre ledd bokstavene a, b og c.
 
@@ -128,7 +142,28 @@ Par som lever i et ekteskapslignende forhold i en felles husholdning og har levd
 
 ### § 4-1. Utdanninger det gis støtte til
 
-Det gis støtte tilvideregående opplæring etter opplæringslova ved offentlige utdanningsinstitusjonerfag- og yrkesopplæring i bedrift etter opplæringslova når lærlingen har godkjent lærekontrakt og når lærekandidaten eller praksisbrevkandidaten har godkjent opplæringskontraktgrunnskoleopplæring for voksne etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) første leddgrunnskoleopplæring etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) andre leddutdanning ved folkehøyskolerutdanning ved private utdanningsinstitusjoner som følger offentlig godkjente læreplaner for videregående opplæring. Utdanningen må avsluttes med eksamen for privatisterutdanning ved private utdanningsinstitusjoner som er godkjent etter friskolelovaInternational Baccalaureate (IB) på videregående nivå som tilbys ved offentlige eller private utdanningsinstitusjoner. Utdanningen må følge læreplaner fastsatt av International Baccalaureate Organization (IBO).utdanning ved private utdanningsinstitusjoner som er godkjent etter [voksenopplæringsloven § 17](lov/2009-06-19-95/§17)utdanning ved offentlige og private utdanningsinstitusjoner som er godkjent etter fagskolelovenhøyere utdanning ved institusjoner under universitets- og høyskolelovenutdanning ved nettskoler i Norge som følger offentlig godkjente læreplaner for videregående opplæring, eller som tilsvarer høyere utdanning ved offentlige utdanningsinstitusjoner, eller som er godkjent etter fagskoleloven. Utdanning som følger offentlig godkjente læreplaner for videregående opplæring, må avsluttes med eksamen for privatister. Høyere utdanning må avsluttes med eksamen. Nettskolen som tilbyr utdanningen, må være godkjent etter [voksenopplæringsloven § 13](lov/2009-06-19-95/§13)utdanning ved studieforbund som følger offentlig godkjente læreplaner for videregående opplæring, eller som tilsvarer høyere utdanning ved offentlige utdanningsinstitusjoner, eller som er godkjent etter fagskoleloven. Utdanning som følger offentlig godkjente læreplaner for videregående opplæring, må avsluttes med eksamen for privatister. Høyere utdanning må avsluttes med eksamen. Studieforbund som tilbyr utdanningen, må være godkjent etter [voksenopplæringsloven § 5](lov/2009-06-19-95/§5)forkurs til ingeniørutdanningspesielt tilrettelagt utdanning ved universiteter og høyskoler for studenter med relevant fag-/svennebrev eller relevant fagutdanning (y-vei)spesielt tilrettelagt utdanning ved universiteter og høyskoler for studenter med studiespesialisering uten nødvendig fordypning i realfag (TRES-ordning)forkurs i matematikk spesielt tilrettelagt for lærerutdanningutdanning i nordiske land etter [§ 6-1](forskrift/2019-03-15-254/§6-1) og [§ 6-4](forskrift/2019-03-15-254/§6-4)utdanning i land utenfor Norden etter reglene i [kapitlene 5](forskrift/2019-03-15-254/kap5), [33](forskrift/2019-03-15-254/kap33) og [34](forskrift/2019-03-15-254/kap34), ogutdanning på nivå med høyere utdanning i Norge som er tilrettelagt som et rent nettstudium ved et lærested i et annet EØS-land enn Norge etter [§ 7-5](forskrift/2019-03-15-254/§7-5).
+Det gis støtte til
+
+1. videregående opplæring etter opplæringslova ved offentlige utdanningsinstitusjoner
+2. fag- og yrkesopplæring i bedrift etter opplæringslova når lærlingen har godkjent lærekontrakt og når lærekandidaten eller praksisbrevkandidaten har godkjent opplæringskontrakt
+3. grunnskoleopplæring for voksne etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) første ledd
+4. grunnskoleopplæring etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) andre ledd
+5. utdanning ved folkehøyskoler
+6. utdanning ved private utdanningsinstitusjoner som følger offentlig godkjente læreplaner for videregående opplæring. Utdanningen må avsluttes med eksamen for privatister
+7. utdanning ved private utdanningsinstitusjoner som er godkjent etter friskolelova
+8. International Baccalaureate (IB) på videregående nivå som tilbys ved offentlige eller private utdanningsinstitusjoner. Utdanningen må følge læreplaner fastsatt av International Baccalaureate Organization (IBO).
+9. utdanning ved private utdanningsinstitusjoner som er godkjent etter [voksenopplæringsloven § 17](lov/2009-06-19-95/§17)
+10. utdanning ved offentlige og private utdanningsinstitusjoner som er godkjent etter fagskoleloven
+11. høyere utdanning ved institusjoner under universitets- og høyskoleloven
+12. utdanning ved nettskoler i Norge som følger offentlig godkjente læreplaner for videregående opplæring, eller som tilsvarer høyere utdanning ved offentlige utdanningsinstitusjoner, eller som er godkjent etter fagskoleloven. Utdanning som følger offentlig godkjente læreplaner for videregående opplæring, må avsluttes med eksamen for privatister. Høyere utdanning må avsluttes med eksamen. Nettskolen som tilbyr utdanningen, må være godkjent etter [voksenopplæringsloven § 13](lov/2009-06-19-95/§13)
+13. utdanning ved studieforbund som følger offentlig godkjente læreplaner for videregående opplæring, eller som tilsvarer høyere utdanning ved offentlige utdanningsinstitusjoner, eller som er godkjent etter fagskoleloven. Utdanning som følger offentlig godkjente læreplaner for videregående opplæring, må avsluttes med eksamen for privatister. Høyere utdanning må avsluttes med eksamen. Studieforbund som tilbyr utdanningen, må være godkjent etter [voksenopplæringsloven § 5](lov/2009-06-19-95/§5)
+14. forkurs til ingeniørutdanning
+15. spesielt tilrettelagt utdanning ved universiteter og høyskoler for studenter med relevant fag-/svennebrev eller relevant fagutdanning (y-vei)
+16. spesielt tilrettelagt utdanning ved universiteter og høyskoler for studenter med studiespesialisering uten nødvendig fordypning i realfag (TRES-ordning)
+17. forkurs i matematikk spesielt tilrettelagt for lærerutdanning
+18. utdanning i nordiske land etter [§ 6-1](forskrift/2019-03-15-254/§6-1) og [§ 6-4](forskrift/2019-03-15-254/§6-4)
+19. utdanning i land utenfor Norden etter reglene i [kapitlene 5](forskrift/2019-03-15-254/kap5), [33](forskrift/2019-03-15-254/kap33) og [34](forskrift/2019-03-15-254/kap34), og
+20. utdanning på nivå med høyere utdanning i Norge som er tilrettelagt som et rent nettstudium ved et lærested i et annet EØS-land enn Norge etter [§ 7-5](forskrift/2019-03-15-254/§7-5).
 
 Utdanningsopplegget må i tillegg oppfylle kravene i [kapittel 7](forskrift/2019-03-15-254/kap7).
 
@@ -164,7 +199,14 @@ Søkere som tar komprimert grunnutdanning som yrkessjåfør ved trafikkskoler i 
 
 ### § 4-8. Utdanninger det ikke gis støtte til
 
-Det gis ikke støtte tilutdanning ved militære skoleretatsopplæring eller bedriftsintern opplæringulike opplæringskurs som blir satt i gang av, eller i samråd med, Arbeids- og velferdsetatenflygerutdanning i utlandet. Det gis likevel støtte til trafikkflygerutdanning ved offentlige høyskoler eller universiteter i Nordennorskopplæring når opplæringen ikke skjer i kombinasjon med annen godkjent utdanning, ellerph.d.-utdanning i Norge. Det gis likevel støtte til ph.d.-utdanning til søkere som får støtte etter sjette del (kvoteordningen). Det gis støtte til utdanning i utlandet som tilsvarer en norsk grad på ph.d.-nivå.
+Det gis ikke støtte til
+
+1. utdanning ved militære skoler
+2. etatsopplæring eller bedriftsintern opplæring
+3. ulike opplæringskurs som blir satt i gang av, eller i samråd med, Arbeids- og velferdsetaten
+4. flygerutdanning i utlandet. Det gis likevel støtte til trafikkflygerutdanning ved offentlige høyskoler eller universiteter i Norden
+5. norskopplæring når opplæringen ikke skjer i kombinasjon med annen godkjent utdanning, eller
+6. ph.d.-utdanning i Norge. Det gis likevel støtte til ph.d.-utdanning til søkere som får støtte etter sjette del (kvoteordningen). Det gis støtte til utdanning i utlandet som tilsvarer en norsk grad på ph.d.-nivå.
 
 ### Kapittel 5. Delstudier i utlandet
 
@@ -322,7 +364,11 @@ Støttebeløpet blir normalt utregnet på månedsbasis. Det gis støtte for oppt
 
 ### § 8-8. Utvidet støtteperiode for søkere i høyere utdanning og fagskoleutdanning
 
-Det gis støtte utover ti måneder per undervisningsår til søkere somtar høyere utdanning eller fagskoleutdanninghar rett til støtte vårsemesteret 2020 i en periode på mellom fire og fem måneder innenfor tidsrommet 16. januar til 15. juli for utdanninger i Norge, eller 16. januar til 15. august for utdanninger i utlandet, oger i utdanning på fulltid ved utløpet av perioden etter bokstav b.
+Det gis støtte utover ti måneder per undervisningsår til søkere som
+
+1. tar høyere utdanning eller fagskoleutdanning
+2. har rett til støtte vårsemesteret 2020 i en periode på mellom fire og fem måneder innenfor tidsrommet 16. januar til 15. juli for utdanninger i Norge, eller 16. januar til 15. august for utdanninger i utlandet, og
+3. er i utdanning på fulltid ved utløpet av perioden etter bokstav b.
 
 I utvidet støtteperiode etter første ledd blir det gitt støtte tilsvarende én måned med basisstøtte etter [§ 25-1](forskrift/2019-03-15-254/§25-1). Utvidelsen for vårsemesteret 2020 fra tre fjerdedeler til én måned med basisstøtte tildeles med forbehold om Stortingets bevilgning.
 
@@ -334,7 +380,11 @@ Støtte etter [§ 8-8](forskrift/2019-03-15-254/§8-8) kan ikke gis for samme pe
 
 ### § 8-9. Utvidet støtteperiode for søkere med undervisning om sommeren eller for søkere som sparer inn på normert studietid
 
-Etter søknad kan det gis støtte i mer enn ti måneder per undervisningsår, jf. [§ 8-7](forskrift/2019-03-15-254/§8-7), nårsøkeren tar feltarbeid som av naturgitte årsaker må foregå om sommeren (16. juni til 15. august), ellersøkeren har undervisning som er fastsatt i utdanningsprogrammet eller studieprogrammet og det er en særlig årsak til at undervisningen må foregå om sommeren (16. juni til 15. august), ellerdet er dokumentert at søkeren sparer inn på normert studietid. I slike tilfeller vil det normalt bli gitt støtte etter [§ 7-2](forskrift/2019-03-15-254/§7-2) og [§ 7-3](forskrift/2019-03-15-254/§7-3) i den resterende delen av utdanningen.
+Etter søknad kan det gis støtte i mer enn ti måneder per undervisningsår, jf. [§ 8-7](forskrift/2019-03-15-254/§8-7), når
+
+1. søkeren tar feltarbeid som av naturgitte årsaker må foregå om sommeren (16. juni til 15. august), eller
+2. søkeren har undervisning som er fastsatt i utdanningsprogrammet eller studieprogrammet og det er en særlig årsak til at undervisningen må foregå om sommeren (16. juni til 15. august), eller
+3. det er dokumentert at søkeren sparer inn på normert studietid. I slike tilfeller vil det normalt bli gitt støtte etter [§ 7-2](forskrift/2019-03-15-254/§7-2) og [§ 7-3](forskrift/2019-03-15-254/§7-3) i den resterende delen av utdanningen.
 
 Undervisningsopplegget om sommeren må vare i minst to uker.
 
@@ -396,7 +446,10 @@ Søkere som er forsørget av barnevernet, og som tar utdanning som er omfattet a
 
 ### § 10-4. Samtidig støtte fra norske og utenlandske offentlige støtteordninger
 
-Søkere som får utdanningsstøtte fra offentlige støtteordninger i et annet land, får ikke utdanningsstøtte fra Lånekassen. Det gjøres unntak dersomden utenlandske støtteordningen bare omfatter skolepengersøkeren tar høyere utdanning i Russland eller Kina, og mottar stipend fra russiske eller kinesiske offentlige støtteordninger. Støtte tildeles som lån etter samme regelverk som for søkere som bor sammen med foreldrene, se [kapittel 26](forskrift/2019-03-15-254/kap26). Det blir gitt reisestøtte etter reglene i [kapittel 38](forskrift/2019-03-15-254/kap38).
+Søkere som får utdanningsstøtte fra offentlige støtteordninger i et annet land, får ikke utdanningsstøtte fra Lånekassen. Det gjøres unntak dersom
+
+1. den utenlandske støtteordningen bare omfatter skolepenger
+2. søkeren tar høyere utdanning i Russland eller Kina, og mottar stipend fra russiske eller kinesiske offentlige støtteordninger. Støtte tildeles som lån etter samme regelverk som for søkere som bor sammen med foreldrene, se [kapittel 26](forskrift/2019-03-15-254/kap26). Det blir gitt reisestøtte etter reglene i [kapittel 38](forskrift/2019-03-15-254/kap38).
 
 Utenlandsk statsborger som får støtte til et utdanningsprogram i Norge eller i utlandet gjennom Norad, The Norwegian Programme for Capacity Development in Higher Education and Research for Development (NORHED) eller andre tilsvarende støtteordninger, får ikke utdanningsstøtte fra Lånekassen.
 
@@ -438,7 +491,10 @@ Dersom det gis skolepengestøtte til utdanning i utlandet, blir denne utbetalt h
 
 ### § 11-3. Endring i søkerens situasjon
 
-Dersom søkerens situasjon endrer seg i støtteperioden, og søkeren ikke lenger oppfyller vilkårene for tildelt støtte, kan Lånekassen stoppe utbetalingene for resten av perioden og annullere resttildelingen. Det gjelder blant annet når støttemottakerenavbryter utdanningen og ikke lenger har rett til støtte, ellermisligholder pliktene sine mot Lånekassen, se [kapittel 13](forskrift/2019-03-15-254/kap13).
+Dersom søkerens situasjon endrer seg i støtteperioden, og søkeren ikke lenger oppfyller vilkårene for tildelt støtte, kan Lånekassen stoppe utbetalingene for resten av perioden og annullere resttildelingen. Det gjelder blant annet når støttemottakeren
+
+1. avbryter utdanningen og ikke lenger har rett til støtte, eller
+2. misligholder pliktene sine mot Lånekassen, se [kapittel 13](forskrift/2019-03-15-254/kap13).
 
 ### § 11-4. Tidsfrist for innsending av signert avtale om støtte og gyldig kontonummer
 
@@ -512,7 +568,11 @@ Lånekassen kan gjøre unntak fra fristene hvis særlige forhold gjør at søkna
 
 ### § 15-1. Hvem andre del gjelder for
 
-Andre del gjelder forsøkere som tar videregående opplæring, og som har rett til opplæring etter [opplæringslova § 3-1](lov/1998-07-17-61/§3-1)søkere som tar opplæring tilsvarende vanlig videregående opplæring utenfor Norge, og som har rett til opplæring etter [opplæringslova § 3-1](lov/1998-07-17-61/§3-1)søkere som tar grunnskoleopplæring etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) andre ledd.
+Andre del gjelder for
+
+1. søkere som tar videregående opplæring, og som har rett til opplæring etter [opplæringslova § 3-1](lov/1998-07-17-61/§3-1)
+2. søkere som tar opplæring tilsvarende vanlig videregående opplæring utenfor Norge, og som har rett til opplæring etter [opplæringslova § 3-1](lov/1998-07-17-61/§3-1)
+3. søkere som tar grunnskoleopplæring etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) andre ledd.
 
 For søkere som tar høyere utdanning, fagskoleutdanning, folkehøyskole og andre utdanninger som er godkjent etter [§ 4-1](forskrift/2019-03-15-254/§4-1), gjelder reglene i tredje del.
 
@@ -590,7 +650,11 @@ Blir det dokumentert at personinntekt og netto positiv kapitalinntekt til forsø
 
 ### § 19-4. Unntak ved behovsprøving mot forsørgerinntekt
 
-Lånekassen ser bort fra inntekten til en av eller begge forsørgerne når minst ett av følgende forhold er dokumentert:forsørgerne er i frivillig eller tvungen rettslig gjeldsordning eller utenrettslig gjeldsordningforsørgerne mangler bidragsevne og dette er dokumentert fra Arbeids- og velferdsetatensøkeren ikke kan få tilskudd av forsørgerne av særlig tyngende sosiale grunner.
+Lånekassen ser bort fra inntekten til en av eller begge forsørgerne når minst ett av følgende forhold er dokumentert:
+
+1. forsørgerne er i frivillig eller tvungen rettslig gjeldsordning eller utenrettslig gjeldsordning
+2. forsørgerne mangler bidragsevne og dette er dokumentert fra Arbeids- og velferdsetaten
+3. søkeren ikke kan få tilskudd av forsørgerne av særlig tyngende sosiale grunner.
 
 Når Lånekassen ser bort fra inntekten til én av forsørgerne, skal tabell A i [§ 19-6](forskrift/2019-03-15-254/§19-6) benyttes.
 
@@ -738,7 +802,10 @@ Omgjøring av basisstøtte som er gitt i utvidet støtteperiode etter [§ 8-8](f
 
 Lån kan bli gjort om til utdanningsstipend for søkere som ikke bor sammen med foreldrene sine.
 
-Søkeren anses ikke å bo sammen med foreldrene når:søkeren bor i en selvstendig boenhet som er fysisk atskilt fra huset der foreldrene bor, ellersøkeren bor i en selvstendig og klart atskilt boenhet i samme hus som foreldrene. Boenheten må være registrert med et eget bruksenhetsnummer eller tilsvarende i folkeregisteret eller i matrikkelen.
+Søkeren anses ikke å bo sammen med foreldrene når:
+
+1. søkeren bor i en selvstendig boenhet som er fysisk atskilt fra huset der foreldrene bor, eller
+2. søkeren bor i en selvstendig og klart atskilt boenhet i samme hus som foreldrene. Boenheten må være registrert med et eget bruksenhetsnummer eller tilsvarende i folkeregisteret eller i matrikkelen.
 
 En søker som er gift eller har barn å forsørge og bor sammen med barnet, får lån gjort om til utdanningsstipend selv om vedkommende bor sammen med foreldrene.
 
@@ -762,7 +829,13 @@ Omgjøringen gjennomføres på samme tid som behovsprøvingen etter [kapittel 29
 
 ### § 27-2. Utvidet rett til omgjøring av lån til utdanningsstipend
 
-Selv om vilkåret om fullført utdanning eller grad ikke er oppfylt, får søkeren lån gjort om til utdanningsstipend for semestre der søkerenhar fått foreldrestipend, se [kapittel 39](forskrift/2019-03-15-254/kap39)oppfyller vilkårene for sykestipend etter [kapittel 40](forskrift/2019-03-15-254/kap40)er blitt forsinket på grunn av funksjonshemming, se [§ 9-3](forskrift/2019-03-15-254/§9-3) andre leddhar hatt tillitsverv på fulltid i minst tre måneder i landsomfattende elev- eller studentorganisasjon, eller i tilknytning til utdanningsinstitusjon eller studentsamskipnad, ellerhar fått fritak for et bestemt antall studiepoeng i juridisk utdanning på grunn av fullført praksis i frivillig studentdrevet rettshjelpstiltak. Omgjøring kan gis for samme antall studiepoeng som fritaket.
+Selv om vilkåret om fullført utdanning eller grad ikke er oppfylt, får søkeren lån gjort om til utdanningsstipend for semestre der søkeren
+
+1. har fått foreldrestipend, se [kapittel 39](forskrift/2019-03-15-254/kap39)
+2. oppfyller vilkårene for sykestipend etter [kapittel 40](forskrift/2019-03-15-254/kap40)
+3. er blitt forsinket på grunn av funksjonshemming, se [§ 9-3](forskrift/2019-03-15-254/§9-3) andre ledd
+4. har hatt tillitsverv på fulltid i minst tre måneder i landsomfattende elev- eller studentorganisasjon, eller i tilknytning til utdanningsinstitusjon eller studentsamskipnad, eller
+5. har fått fritak for et bestemt antall studiepoeng i juridisk utdanning på grunn av fullført praksis i frivillig studentdrevet rettshjelpstiltak. Omgjøring kan gis for samme antall studiepoeng som fritaket.
 
 ### § 27-3. Omgjøring av lån til utdanningsstipend for tidligere perioder
 
@@ -878,7 +951,12 @@ Lån blir bare gitt for det beløpet søkeren skal betale i skolepenger, og bare
 
 Det gis lån til utgifter til reise når søkeren tar studieopphold i utlandet som er godkjent for støtte etter [§ 4-2](forskrift/2019-03-15-254/§4-2).
 
-Det gis lån på inntil kr 4 699 per måned dersom søkeren sommeren 2020tar sommerkurs ved universiteter og høyskoler i Norgetar spesielt tilrettelagt utdanning ved universiteter og høyskoler for studenter med relevant fag-/svennebrev eller relevant fagutdanning (y-vei)tar spesielt tilrettelagt utdanning ved universiteter og høyskoler for studenter med studiespesialisering uten nødvendig fordypning i realfag (TRES-ordning)tar forkurs i matematikk spesielt tilrettelagt for lærerutdanning.
+Det gis lån på inntil kr 4 699 per måned dersom søkeren sommeren 2020
+
+1. tar sommerkurs ved universiteter og høyskoler i Norge
+2. tar spesielt tilrettelagt utdanning ved universiteter og høyskoler for studenter med relevant fag-/svennebrev eller relevant fagutdanning (y-vei)
+3. tar spesielt tilrettelagt utdanning ved universiteter og høyskoler for studenter med studiespesialisering uten nødvendig fordypning i realfag (TRES-ordning)
+4. tar forkurs i matematikk spesielt tilrettelagt for lærerutdanning.
 
 ## Fjerde del. Støtte til utdanning i land utenfor Norden
 
@@ -892,7 +970,11 @@ Søkeren må som hovedregel være norsk statsborger for å få støtte til utdan
 
 Statsborger fra EØS- eller EFTA-land med status som arbeidstaker i Norge, har rett til utdanningsstøtte på samme vilkår som norske statsborgere. En EØS- eller EFTA-borger som slutter å arbeide og går over i utdanning, opprettholder sin status som arbeidstaker dersom utdanningen vedkommende tar har faglig sammenheng med arbeidet. Kravet om faglig sammenheng faller bort dersom vedkommende har blitt ufrivillig arbeidsledig på grunn av generelle endringer i arbeidsmarkedet.
 
-Følgende medlemmer av EØS- eller EFTA-arbeidstakerens familie har rett til utdanningsstøtte på samme vilkår som norske statsborgere:ektefelleslektning i nedstigende linje av EØS- eller EFTA-arbeidstakeren og/eller EØS- eller EFTA-arbeidstakerens ektefelle. Slektningen må enten være under 21 år, eller bli forsørget av EØS- eller EFTA-arbeidstakeren og/eller dennes ektefelleslektning i oppstigende linje av EØS- eller EFTA-arbeidstakeren og/eller dennes ektefelle som blir forsørget av dem.
+Følgende medlemmer av EØS- eller EFTA-arbeidstakerens familie har rett til utdanningsstøtte på samme vilkår som norske statsborgere:
+
+1. ektefelle
+2. slektning i nedstigende linje av EØS- eller EFTA-arbeidstakeren og/eller EØS- eller EFTA-arbeidstakerens ektefelle. Slektningen må enten være under 21 år, eller bli forsørget av EØS- eller EFTA-arbeidstakeren og/eller dennes ektefelle
+3. slektning i oppstigende linje av EØS- eller EFTA-arbeidstakeren og/eller dennes ektefelle som blir forsørget av dem.
 
 Dersom EØS- eller EFTA-arbeidstakeren ikke lenger har status som EØS- eller EFTA-arbeidstaker i Norge, har ikke familiemedlemmet lenger rett til utdanningsstøtte.
 
@@ -906,7 +988,13 @@ Utenlandsk statsborger som har rett til støtte til utdanning i Norge etter [§ 
 
 ### § 31-5. Vilkår om tilknytning til Norge
 
-Søkeren må oppfylle ett av følgende vilkår for å ha rett til støtte til utdanning i utlandet:Søkeren har bodd i Norge i en sammenhengende periode på minst to av de siste fem årene, ellerSøkeren har gått på skole eller tatt utdanning i Norge i minst tre år, ellerSøkeren har barn, ektefelle eller forelder som bor i Norge mens søkeren er under utdanning. Dersom søkerens grunnlag for rett til utdanningsstøtte er [§ 2-3](forskrift/2019-03-15-254/§2-3), må dette familiemedlemmet være et annet enn den EØS- eller EFTA- arbeidstakeren som gir grunnlaget for retten til utdanningsstøtte etter [§ 2-3](forskrift/2019-03-15-254/§2-3). Søkeren må enten bo sammen med familiemedlemmet i Norge når utdanningen starter, eller ha bodd sammen med familiemedlemmet i minst to år i Norge eller i utlandet. Søkeren må ha dokumenterte norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk, ellerSøkeren er EØS- eller EFTA-grensearbeidstaker og har arbeidet i Norge i minst fem år og har dokumenterte norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk, ellerSøkeren er familiemedlem til en EØS- eller EFTA-grensearbeidstaker som har arbeidet i Norge i minst fem år, og søkeren har bodd i et annet nordisk land i denne perioden og har dokumenterte norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk.
+Søkeren må oppfylle ett av følgende vilkår for å ha rett til støtte til utdanning i utlandet:
+
+1. Søkeren har bodd i Norge i en sammenhengende periode på minst to av de siste fem årene, eller
+2. Søkeren har gått på skole eller tatt utdanning i Norge i minst tre år, eller
+3. Søkeren har barn, ektefelle eller forelder som bor i Norge mens søkeren er under utdanning. Dersom søkerens grunnlag for rett til utdanningsstøtte er [§ 2-3](forskrift/2019-03-15-254/§2-3), må dette familiemedlemmet være et annet enn den EØS- eller EFTA- arbeidstakeren som gir grunnlaget for retten til utdanningsstøtte etter [§ 2-3](forskrift/2019-03-15-254/§2-3). Søkeren må enten bo sammen med familiemedlemmet i Norge når utdanningen starter, eller ha bodd sammen med familiemedlemmet i minst to år i Norge eller i utlandet. Søkeren må ha dokumenterte norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk, eller
+4. Søkeren er EØS- eller EFTA-grensearbeidstaker og har arbeidet i Norge i minst fem år og har dokumenterte norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk, eller
+5. Søkeren er familiemedlem til en EØS- eller EFTA-grensearbeidstaker som har arbeidet i Norge i minst fem år, og søkeren har bodd i et annet nordisk land i denne perioden og har dokumenterte norskkunnskaper på nivå B1 etter Det felles europeiske rammeverket for språk.
 
 Søkeren har også rett til støtte dersom han eller hun etter en samlet skjønnsmessig vurdering kan sies å ha en tilsvarende tilknytning til Norge som etter første ledd bokstavene a til e. Norskkunnskaper tillegges særlig vekt i vurderingen.
 
@@ -924,7 +1012,11 @@ Kravet om tilknytning til Norge etter [§ 31-5](forskrift/2019-03-15-254/§31-5)
 
 Det gis støtte til høyere utdanning dersom søkeren har generell studiekompetanse i Norge, jf. universitets- og [høyskoleloven § 3-6](lov/2005-04-01-15/§3-6), med tilhørende forskrifter. Søkere som skal studere i utlandet, og som har bestått utenlandsk videregående opplæring eller International Baccalaureate (IB), må tilfredsstille vilkårene for generell studiekompetanse i Norge, bortsett fra vilkårene om kunnskap i norsk. Se likevel vilkårene i [§ 31-5](forskrift/2019-03-15-254/§31-5).
 
-Det kan gjøres unntak dersom søkeren mangler generell studiekompetanse i Norge, oger 25 år eller eldre i kalenderåret hvor opptaket gis, og har fått studierett på grunnlag av realkompetanse.kan dokumentere at det på grunnlag av egen varig sykdom, egen funksjonshemming eller liknende ikke har vært mulig å tilfredsstille enkelte av de kravene som normalt må stilles for å bli tilkjent generell studiekompetanse. Dette gjelder kun for søkere under 25 år.har opptak til utdanning i utøvende eller skapende musikk, ballett, skuespill eller bildende kunst ved et fremstående lærested. Det er en forutsetning at lærestedet har strenge krav for opptak.
+Det kan gjøres unntak dersom søkeren mangler generell studiekompetanse i Norge, og
+
+1. er 25 år eller eldre i kalenderåret hvor opptaket gis, og har fått studierett på grunnlag av realkompetanse.
+2. kan dokumentere at det på grunnlag av egen varig sykdom, egen funksjonshemming eller liknende ikke har vært mulig å tilfredsstille enkelte av de kravene som normalt må stilles for å bli tilkjent generell studiekompetanse. Dette gjelder kun for søkere under 25 år.
+3. har opptak til utdanning i utøvende eller skapende musikk, ballett, skuespill eller bildende kunst ved et fremstående lærested. Det er en forutsetning at lærestedet har strenge krav for opptak.
 
 ### § 32-2. Opptakskrav
 
@@ -934,7 +1026,11 @@ Særskilte opptakskrav som gjelder for tilsvarende utdanning i Norge, må være 
 
 ### § 33-1. Utdanninger det gis støtte til
 
-Til høyere utdanning i land utenfor Norden gis det støtte når utdanningentilsvarer utdanning på bachelornivå i Norgetilsvarer utdanning på masternivå i Norgetilsvarer en norsk grad på ph.d.-nivå.
+Til høyere utdanning i land utenfor Norden gis det støtte når utdanningen
+
+1. tilsvarer utdanning på bachelornivå i Norge
+2. tilsvarer utdanning på masternivå i Norge
+3. tilsvarer en norsk grad på ph.d.-nivå.
 
 Utdanningen må enten kunne gi generell godkjenning av NOKUT som likestilt med akkreditert norsk utdanning på bachelor- eller masternivå, eller kunne bli forhåndsgodkjent i Norge av institusjon akkreditert som universitet, vitenskapelig høyskole eller høyskole, som en del av en utdanning på bachelor- eller masternivå som tilbys ved institusjonen.
 
@@ -968,7 +1064,12 @@ Det gis støtte til helsefaglig utdanning som er innenfor et fagområde som krev
 
 Det gis støtte til vanlig videregående opplæring når søkeren er bosatt i utlandet på grunn av egen sykdom, eller fordi en av foreldrene eller ektefellen til søkeren har et tidsbegrenset opphold i utlandet, eller er bosatt i utlandet på grunn av sykdom. Det er et vilkår at søkeren har rett til videregående opplæring etter [opplæringslova § 3-1](lov/1998-07-17-61/§3-1).
 
-Det gis også støtte tilyrkesfaglig opplæring og fagskoleutdanning når utdanning innenfor tilsvarende fagområde enten ikke finnes i Norge eller regnes som ett av de små verneverdige fagene i Norge i liste publisert av Utdanningsdirektoratet. Opplæringen må ha offentlig godkjenning i studielandet eller bli anbefalt av norsk faginstans.elever som har fått opptak ved United World College gjennom Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku).elever som har fått opptak gjennom Institut français ved Den franske ambassaden eller Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku) til utdanning ved utvalgte læresteder i Frankrike, som tilsvarer studiespesialisering i videregående skole.elever som har fått opptak gjennom Institut français ved Den franske ambassaden til yrkesfaglig utdanning ved utvalgte skoler.
+Det gis også støtte til
+
+1. yrkesfaglig opplæring og fagskoleutdanning når utdanning innenfor tilsvarende fagområde enten ikke finnes i Norge eller regnes som ett av de små verneverdige fagene i Norge i liste publisert av Utdanningsdirektoratet. Opplæringen må ha offentlig godkjenning i studielandet eller bli anbefalt av norsk faginstans.
+2. elever som har fått opptak ved United World College gjennom Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku).
+3. elever som har fått opptak gjennom Institut français ved Den franske ambassaden eller Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku) til utdanning ved utvalgte læresteder i Frankrike, som tilsvarer studiespesialisering i videregående skole.
+4. elever som har fått opptak gjennom Institut français ved Den franske ambassaden til yrkesfaglig utdanning ved utvalgte skoler.
 
 ### § 33-7. Samarbeidsprogram mellom norsk videregående skole og utenlandsk skole
 
@@ -996,7 +1097,10 @@ Det gis støtte til kortere studieopphold som er en godkjent del av den fagskole
 
 ### § 34-1. Språklig tilrettelegging
 
-Det gis støtte til opplæring i språk og samfunnsfag når søkerenplanlegger høyere utdanning som gir rett til støtte i et land utenfor Norden som ikke er engelskspråklig, ellerplanlegger høyere utdanning som gir rett til støtte i Finland eller Island.
+Det gis støtte til opplæring i språk og samfunnsfag når søkeren
+
+1. planlegger høyere utdanning som gir rett til støtte i et land utenfor Norden som ikke er engelskspråklig, eller
+2. planlegger høyere utdanning som gir rett til støtte i Finland eller Island.
 
 Kurset må lede til en offisiell språkeksamen, og tas i det landet der utdanningen skal tas. Det kan gjøres unntak dersom slikt kurs ikke tilbys i landet. Kurset må da tas i et land hvor språket er offisielt språk.
 
@@ -1006,7 +1110,11 @@ Opplæringen må være på fulltid, med minimum 15 undervisningstimer per uke, o
 
 ### § 34-2. Språkstipend
 
-Det gis språkstipend på kr 21 751 til språkkurs når søkerener tatt opp i en utdanning som gir rett til støtte,er tatt opp i en utdanning som har et annet undervisningsspråk enn engelsk, oger tatt opp i en utdanning i et land utenfor Norden, i Finland eller på Island.
+Det gis språkstipend på kr 21 751 til språkkurs når søkeren
+
+1. er tatt opp i en utdanning som gir rett til støtte,
+2. er tatt opp i en utdanning som har et annet undervisningsspråk enn engelsk, og
+3. er tatt opp i en utdanning i et land utenfor Norden, i Finland eller på Island.
 
 Språkkurset må normalt tas i det landet der hovedutdanningen skal tas.
 
@@ -1054,7 +1162,10 @@ Støtte til skolepenger økes ikke selv om undervisningsåret er lengre enn ti m
 
 Det gis støtte til skolepenger med opptil kr 133 752 for et helt undervisningsår.
 
-Satsene varierer for ulike utdanningsnivå:til utdanning på bachelornivå, til freshman-året, til delstudier i fagskoleutdanning og til språklig tilrettelegging, gis skolepengestøtten med 50 prosent stipend og 50 prosent lån av faktiske skolepenger opptil kr 68 400. Støtte utover dette gis som låntil utdanning på masternivå eller ph.d.-nivå og til delstudier i høyere utdanning gis skolepengestøtten med 70 prosent stipend og 30 prosent lån av faktiske skolepenger opptil kr 68 400. Støtte utover dette gis som lån.
+Satsene varierer for ulike utdanningsnivå:
+
+1. til utdanning på bachelornivå, til freshman-året, til delstudier i fagskoleutdanning og til språklig tilrettelegging, gis skolepengestøtten med 50 prosent stipend og 50 prosent lån av faktiske skolepenger opptil kr 68 400. Støtte utover dette gis som lån
+2. til utdanning på masternivå eller ph.d.-nivå og til delstudier i høyere utdanning gis skolepengestøtten med 70 prosent stipend og 30 prosent lån av faktiske skolepenger opptil kr 68 400. Støtte utover dette gis som lån.
 
 ### § 37-3. Tilleggsstipend til dekning av skolepenger
 
@@ -1104,7 +1215,14 @@ Stipendet gis i inntil tre år. For mastergradsutdanning som varer i mer enn tre
 
 ### § 39-1. Vilkår for foreldrestipend
 
-Søkere som får barn i utdanningsperioden og har rett til støtte, får i en periode hele støtten som foreldrestipend når følgende vilkår er oppfylt:søkeren må ha hatt rett til støtte de siste fire månedene før fødselen eller adopsjonen (opptjeningsperiode). Det gjøres unntak vedfødsel før termindato, når søkeren ellers ville ha hatt rett til foreldrestipend ved fødsel på termindatopermisjon i mer enn tre uker før fødselen på grunn av sykdom, fødsel etter termin, termin innen to måneder etter oppstart av semesteret eller anbefaling fra lærestedetsøkeren må bo sammen med barnet, ogsøkerens ektefelle eller samboer kan ikke samtidig motta foreldrepenger. Ved gradert uttak av foreldrepenger blir det likevel gitt fullt foreldrestipend dersom ektefellen eller samboeren tar ut mindre enn 50 prosent foreldrepenger. Dersom ektefellen eller samboeren etter denne ordningen tar ut 50 prosent foreldrepenger eller mer, blir det gitt halvt foreldrestipend.
+Søkere som får barn i utdanningsperioden og har rett til støtte, får i en periode hele støtten som foreldrestipend når følgende vilkår er oppfylt:
+
+1. søkeren må ha hatt rett til støtte de siste fire månedene før fødselen eller adopsjonen (opptjeningsperiode). Det gjøres unntak ved
+
+   - fødsel før termindato, når søkeren ellers ville ha hatt rett til foreldrestipend ved fødsel på termindato
+   - permisjon i mer enn tre uker før fødselen på grunn av sykdom, fødsel etter termin, termin innen to måneder etter oppstart av semesteret eller anbefaling fra lærestedet
+2. søkeren må bo sammen med barnet, og
+3. søkerens ektefelle eller samboer kan ikke samtidig motta foreldrepenger. Ved gradert uttak av foreldrepenger blir det likevel gitt fullt foreldrestipend dersom ektefellen eller samboeren tar ut mindre enn 50 prosent foreldrepenger. Dersom ektefellen eller samboeren etter denne ordningen tar ut 50 prosent foreldrepenger eller mer, blir det gitt halvt foreldrestipend.
 
 Foreldrene kan ikke få foreldrestipend samtidig.
 
@@ -1166,7 +1284,12 @@ Søknad om sykestipend må være kommet inn til Lånekassen senest seks måneder
 
 Utenlandsk statsborger som har fått beskyttelse i Norge, og som har rett til støtte til videregående opplæring eller grunnskoleopplæring i Norge, kan få støttebeløpet som flyktningstipend.
 
-Flyktningstipend gis til søkere somhar rett til støtte etter forskriftens andre del til videregående opplæring, når opplæringen tas med rett etter [opplæringslova § 3-1](lov/1998-07-17-61/§3-1)har rett til støtte etter forskriftens tredje del til videregående opplæring som omfattes av [opplæringslova § 3-1](lov/1998-07-17-61/§3-1), men som ikke har lovfestet rett til opplæringenhar rett til støtte etter forskriftens andre del til grunnskoleopplæring, når opplæringen tas med rett etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) andre leddhar rett til støtte etter forskriftens tredje del til grunnskoleopplæring eller videregående opplæring, når opplæringen tas med rett etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) første ledd eller [§ 4A-3](lov/1998-07-17-61/§4a-3).
+Flyktningstipend gis til søkere som
+
+1. har rett til støtte etter forskriftens andre del til videregående opplæring, når opplæringen tas med rett etter [opplæringslova § 3-1](lov/1998-07-17-61/§3-1)
+2. har rett til støtte etter forskriftens tredje del til videregående opplæring som omfattes av [opplæringslova § 3-1](lov/1998-07-17-61/§3-1), men som ikke har lovfestet rett til opplæringen
+3. har rett til støtte etter forskriftens andre del til grunnskoleopplæring, når opplæringen tas med rett etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) andre ledd
+4. har rett til støtte etter forskriftens tredje del til grunnskoleopplæring eller videregående opplæring, når opplæringen tas med rett etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) første ledd eller [§ 4A-3](lov/1998-07-17-61/§4a-3).
 
 Søkere som har rett til støtte etter forskriftens andre del, får hele støttebeløpet som flyktningstipend, bortsett fra lån til skolepenger og lån til reise.
 
@@ -1182,7 +1305,10 @@ Flyktningstipendet gis i inntil tre år, innenfor en periode på seks år etter 
 | Innen fire år etter innvilget beskyttelse | To år |
 | Innen fem år etter innvilget beskyttelse | Ett år |
 
-Flyktningstipend gis i inntil tre år, innenfor en periode på åtte år etter innvilget beskyttelse, dersom søkerenhar barn eller får barn i løpet av den tiden flyktningstipend normalt kan gis. Utdanningen må ta til før barnet er fylt ti år.har rett til grunnskoleopplæring etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) før vanlig videregående opplæring.
+Flyktningstipend gis i inntil tre år, innenfor en periode på åtte år etter innvilget beskyttelse, dersom søkeren
+
+1. har barn eller får barn i løpet av den tiden flyktningstipend normalt kan gis. Utdanningen må ta til før barnet er fylt ti år.
+2. har rett til grunnskoleopplæring etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) før vanlig videregående opplæring.
 
 ### § 41-3. Avbrutt utdanning
 
@@ -1216,7 +1342,10 @@ Stipendet blir behovsprøvd etter reglene i [kapittel 29](forskrift/2019-03-15-2
 
 ### § 43-2. Begrensning av ekstrastipendet for søkere som er helt studieuføre
 
-Dersom søkeren er helt studieufør på grunn av sykdom, gjelder følgende vilkår for ekstrastipendet:søkere som er helt studieuføre på søknadstidspunktet, og som har rett til sykestipend etter [§ 40-1](forskrift/2019-03-15-254/§40-1), har ikke rett til ekstrastipendsøkere som har mottatt ekstrastipend, og som blir helt studieuføre og har rett til sykestipend etter [§ 40-1](forskrift/2019-03-15-254/§40-1), har rett til å beholde tildelt ekstrastipend i perioden med sykestipend.
+Dersom søkeren er helt studieufør på grunn av sykdom, gjelder følgende vilkår for ekstrastipendet:
+
+1. søkere som er helt studieuføre på søknadstidspunktet, og som har rett til sykestipend etter [§ 40-1](forskrift/2019-03-15-254/§40-1), har ikke rett til ekstrastipend
+2. søkere som har mottatt ekstrastipend, og som blir helt studieuføre og har rett til sykestipend etter [§ 40-1](forskrift/2019-03-15-254/§40-1), har rett til å beholde tildelt ekstrastipend i perioden med sykestipend.
 
 ### § 43-3. Stipend ved forsinkelse ut over grensen i § 9-2
 

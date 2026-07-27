@@ -32,7 +32,11 @@ Forskriften gjelder også på Svalbard og Jan Mayen.
 
 ## § 3. Hva det kan gis tilskudd til
 
-Det kan gis tilskudd til prosjekter der offentlige og private aktører inngår forpliktende samarbeid omformidling og tilrettelegging for bærekraftig bevaring og brukkompetanseutvikling, nettverk og samarbeidnærings-, steds- og lokalsamfunnsutvikling.
+Det kan gis tilskudd til prosjekter der offentlige og private aktører inngår forpliktende samarbeid om
+
+1. formidling og tilrettelegging for bærekraftig bevaring og bruk
+2. kompetanseutvikling, nettverk og samarbeid
+3. nærings-, steds- og lokalsamfunnsutvikling.
 
 Fylkeskommuner, kommuner, Longyearbyen lokalstyre, museer, organisasjoner, bedrifter og privatpersoner kan søke tilskudd etter ordningen.
 
@@ -42,27 +46,57 @@ Riksantikvaren kan innenfor årlige budsjettvedtak gjøre nærmere prioriteringe
 
 Søknad om tilskudd skal sendes til Riksantikvaren.
 
-Søknaden skal angiprosjekteier og prosjektleder med navn på institusjonbeskrivelse av aktørene i prosjektetbeskrivelse av kulturmiljø som inngår i prosjektetframdriftsplan med planlagte tiltak og aktiviteteroverordnet mål, mål for prosjektperioden og ønskede resultaterforventede effekter for bærekraftig forvaltning av kulturmiljø over tidforventede effekter på andre samfunnsområderbudsjettom og hvor mye støtte som er mottatt fra offentlig instans de siste to årene, og eventuelle søknader til eller tilskudd fra offentlig instans inneværende årom søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
+Søknaden skal angi
+
+1. prosjekteier og prosjektleder med navn på institusjon
+2. beskrivelse av aktørene i prosjektet
+3. beskrivelse av kulturmiljø som inngår i prosjektet
+4. framdriftsplan med planlagte tiltak og aktiviteter
+5. overordnet mål, mål for prosjektperioden og ønskede resultater
+6. forventede effekter for bærekraftig forvaltning av kulturmiljø over tid
+7. forventede effekter på andre samfunnsområder
+8. budsjett
+9. om og hvor mye støtte som er mottatt fra offentlig instans de siste to årene, og eventuelle søknader til eller tilskudd fra offentlig instans inneværende år
+10. om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
 
 ## § 5. Rett til å innhente ytterligere opplysninger. Søkers opplysningsplikt
 
-Riksantikvaren kan, i tillegg til opplysningene i søknadenkreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere.foreta befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Riksantikvaren kan, i tillegg til opplysningene i søknaden
+
+1. kreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere.
+3. foreta befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 6. Hvordan tilskudd fastsettes
 
 Riksantikvaren fastsetter tilskuddet for ett år av gangen etter en skjønnsmessig vurdering av i hvilken grad prosjektet bidrar til å oppfylle formålet med tilskuddsordningen.
 
-Ved tildelingen skal det legges særlig vekt på om prosjekteter forankret i kommunale og fylkeskommunale planer, program eller satsingertar i bruk virkemidler og ressurser fra flere sektorerbidrar til ny kunnskap, læring, strategisk og faglig utviklingstøtter opp om og forsterker andre prosjekter og satsinger i kulturmiljøforvaltningen.
+Ved tildelingen skal det legges særlig vekt på om prosjektet
+
+1. er forankret i kommunale og fylkeskommunale planer, program eller satsinger
+2. tar i bruk virkemidler og ressurser fra flere sektorer
+3. bidrar til ny kunnskap, læring, strategisk og faglig utvikling
+4. støtter opp om og forsterker andre prosjekter og satsinger i kulturmiljøforvaltningen.
 
 Tilskuddet skal som hovedregel ikke overstige 50 % av prosjektkostnadene.
 
 ## § 7. Tilskuddsbrevet
 
-Vedtak om tilskudd skal meddeles søkeren i et tilskuddsbrev. Tilskuddsbrevet skal opplyse omtilskuddsbeløpethva tilskuddet skal brukes til, utbetalingsordningen, og vilkår for tilskuddetkrav til rapportering og dokumentasjon etter [§ 10](forskrift/2021-08-13-2513/§10)tilskuddsmottakerens plikter etter [§ 8](forskrift/2021-08-13-2513/§8)reaksjoner dersom mottakeren ikke opptrer i samsvar med kravene i forskriften eller vilkårene for tilskuddet.
+Vedtak om tilskudd skal meddeles søkeren i et tilskuddsbrev. Tilskuddsbrevet skal opplyse om
+
+1. tilskuddsbeløpet
+2. hva tilskuddet skal brukes til, utbetalingsordningen, og vilkår for tilskuddet
+3. krav til rapportering og dokumentasjon etter [§ 10](forskrift/2021-08-13-2513/§10)
+4. tilskuddsmottakerens plikter etter [§ 8](forskrift/2021-08-13-2513/§8)
+5. reaksjoner dersom mottakeren ikke opptrer i samsvar med kravene i forskriften eller vilkårene for tilskuddet.
 
 ## § 8. Tilskuddsmottakerens plikter
 
-Tilskuddsmottaker skalinformere Riksantikvaren om endrede forhold, som tidsramme eller omfang, som er av betydning for tiltaketgjøre eventuelle samarbeidspartnere kjent med vilkårene for tilskuddetoppbevare regnskap med bilag i 3 år etter siste utbetaling.
+Tilskuddsmottaker skal
+
+1. informere Riksantikvaren om endrede forhold, som tidsramme eller omfang, som er av betydning for tiltaket
+2. gjøre eventuelle samarbeidspartnere kjent med vilkårene for tilskuddet
+3. oppbevare regnskap med bilag i 3 år etter siste utbetaling.
 
 Tilskuddsmottakere skal bare bruke tilskuddet til aktiviteter tildelingsvedtaket omfatter. Tilskuddsmottakere som driver økonomisk aktivitet, skal føre separat regnskap for de aktivitetene det ytes tilskudd til.
 
@@ -72,11 +106,18 @@ Tilskudd betales som hovedregel ut etterskuddsvis for dokumenterte utgifter på 
 
 ## § 10. Rapporteringsplikter
 
-Tilskuddsmottaker skal levere rapport til Riksantikvaren innen 1. februar det påfølgende året. Rapporten skal inneholderegnskap oppsatt i henhold til omsøkt budsjett og hvor avvik er forklartbeskrivelse av gjennomførte tiltak og aktiviteter, resultater og måloppnåelse i henhold til vilkår stilt i tilskuddsbrev og rapporteringskrav fastsatt av Riksantikvaren for det enkelte år.
+Tilskuddsmottaker skal levere rapport til Riksantikvaren innen 1. februar det påfølgende året. Rapporten skal inneholde
+
+1. regnskap oppsatt i henhold til omsøkt budsjett og hvor avvik er forklart
+2. beskrivelse av gjennomførte tiltak og aktiviteter, resultater og måloppnåelse i henhold til vilkår stilt i tilskuddsbrev og rapporteringskrav fastsatt av Riksantikvaren for det enkelte år.
 
 ## § 11. Kontroll med betingelser og vilkår – rett til opplysninger
 
-Riksantikvaren og Riksrevisjonen kan kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt gjennom åkreve ytterligere opplysninger og dokumentasjon som er nødvendig for kontrolleninnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenegjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
+Riksantikvaren og Riksrevisjonen kan kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt gjennom å
+
+1. kreve ytterligere opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene
+3. gjennomføre stedlig tilsyn underveis eller etter ferdigstillelse.
 
 ## § 12. Stans og tilbakebetaling
 

@@ -90,7 +90,11 @@ Fartøy under 11 meter største lengde som er registrert i Fiskeridirektoratets 
 
 Kravet er at fartøyet må passere utsatte områder for å komme til nærmeste mottaksanlegg, eller har mer enn 3 timer gangtid fra fiskefeltet til nærmeste mottaksanlegg.
 
-For å kunne benytte seg av registreringsordningen skal:den som lander umiddelbart etter at fangsten er tatt på land, fylle ut en landingsseddel som skal følge transporten frem til mottaksanlegget,den som lander følge transporten til mottaksanlegget og undertegne seddel, ogfangsten ikke blandes sammen med annet fartøys fangst.
+For å kunne benytte seg av registreringsordningen skal:
+
+1. den som lander umiddelbart etter at fangsten er tatt på land, fylle ut en landingsseddel som skal følge transporten frem til mottaksanlegget,
+2. den som lander følge transporten til mottaksanlegget og undertegne seddel, og
+3. fangsten ikke blandes sammen med annet fartøys fangst.
 
 Registreringen gjelder for inntil ett år og utløper 31. desember det året påmeldingen er fullført.
 
@@ -146,7 +150,11 @@ Innføring av nye rutiner ved bruk av elektronisk signatur skal godkjennes av Fi
 
 Landings- og sluttsedler skal undertegnes elektronisk ved bruk av elektronisk signatur godkjent av Fiskeridirektoratet i medhold av [§ 8](forskrift/2014-05-06-607/§8) siste ledd.
 
-Følgende opplysninger skal fremgå av landings- og sluttsedler:tidspunktet for når seddelen ble signert ved at hver av partenes signatur har sitt eget tidsstempel,geografiske koordinater som angir hvor hver av partene var ved signering, ogentydig informasjon om hvem som har signert seddelen.
+Følgende opplysninger skal fremgå av landings- og sluttsedler:
+
+1. tidspunktet for når seddelen ble signert ved at hver av partenes signatur har sitt eget tidsstempel,
+2. geografiske koordinater som angir hvor hver av partene var ved signering, og
+3. entydig informasjon om hvem som har signert seddelen.
 
 Salgslaget kan gi dispensasjon fra kravet om å undertegne landings- og sluttsedler elektronisk når det er særlige grunner til dette.
 

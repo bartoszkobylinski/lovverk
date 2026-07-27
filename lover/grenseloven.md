@@ -15,7 +15,7 @@ xml_hash: "3e450a370492cf56db96fa33d399a34f6ffe5626e96daf5d0a1aeed05901b0f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,7 +78,35 @@ Kongen gir forskrift om Tolletatens bistand til politiets inn- og utreisekontrol
 
 ### § 8. Gjennomføring av EU-rettsakter og bistand fra europeiske grensekontrollteam
 
-Følgende rettsakter gjelder som lov:Forordning [(EU) 2016/399](eu/32016r0399) om bevegelsen av personer over grenser (grenseforordningen), som endret vedforordning [(EU) 2017/458](eu/32017r0458)forordning [(EU) 2017/2225](eu/32017r2225)forordning [(EU) 2018/1240](eu/32018r1240)forordning [(EU) 2019/817](eu/32019r0817)forordning [(EU) 2021/1134](eu/32021r1134)forordning [(EU) 2024/1717](eu/32024r1717)Forordning [(EU) 2017/2226](eu/32017r2226) om etableringen av inn- og utreisesystemet (EES-forordningen), som endret vedforordning [(EU) 2018/1240](eu/32018r1240)forordning [(EU) 2019/817](eu/32019r0817)forordning [(EU) 2021/1134](eu/32021r1134)forordning [(EU) 2021/1152](eu/32021r1152)forordning [(EU) 2024/1356](eu/32024r1356)Rådsdirektiv [2004/82/EF](eu/32004l0082) om transportselskapers plikt til å fremsende opplysninger om passasjerer (API-direktivet)Forordning [(EU) 2019/817](eu/32019r0817) om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for grenser og visum, som endret vedforordning [(EU) 2021/1134](eu/32021r1134)forordning [(EU) 2021/1152](eu/32021r1152)forordning [(EU) 2024/1356](eu/32024r1356)Forordning [(EU) 2019/818](eu/32019r0818) om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for politisamarbeid og rettslig samarbeid, asyl og migrasjon, som endret vedforordning [(EU) 2021/1133](eu/32021r1133)forordning [(EU) 2021/1150](eu/32021r1150)forordning [(EU) 2024/1358](eu/32024r1358)Forordning [(EU) 2024/1356](eu/32024r1356) om innføring av screening av tredjelandsborgere ved de ytre grensene (screeningforordningen).
+Følgende rettsakter gjelder som lov:
+
+1. Forordning [(EU) 2016/399](eu/32016r0399) om bevegelsen av personer over grenser (grenseforordningen), som endret ved
+
+   - forordning [(EU) 2017/458](eu/32017r0458)
+   - forordning [(EU) 2017/2225](eu/32017r2225)
+   - forordning [(EU) 2018/1240](eu/32018r1240)
+   - forordning [(EU) 2019/817](eu/32019r0817)
+   - forordning [(EU) 2021/1134](eu/32021r1134)
+   - forordning [(EU) 2024/1717](eu/32024r1717)
+2. Forordning [(EU) 2017/2226](eu/32017r2226) om etableringen av inn- og utreisesystemet (EES-forordningen), som endret ved
+
+   - forordning [(EU) 2018/1240](eu/32018r1240)
+   - forordning [(EU) 2019/817](eu/32019r0817)
+   - forordning [(EU) 2021/1134](eu/32021r1134)
+   - forordning [(EU) 2021/1152](eu/32021r1152)
+   - forordning [(EU) 2024/1356](eu/32024r1356)
+3. Rådsdirektiv [2004/82/EF](eu/32004l0082) om transportselskapers plikt til å fremsende opplysninger om passasjerer (API-direktivet)
+4. Forordning [(EU) 2019/817](eu/32019r0817) om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for grenser og visum, som endret ved
+
+   - forordning [(EU) 2021/1134](eu/32021r1134)
+   - forordning [(EU) 2021/1152](eu/32021r1152)
+   - forordning [(EU) 2024/1356](eu/32024r1356)
+5. Forordning [(EU) 2019/818](eu/32019r0818) om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for politisamarbeid og rettslig samarbeid, asyl og migrasjon, som endret ved
+
+   - forordning [(EU) 2021/1133](eu/32021r1133)
+   - forordning [(EU) 2021/1150](eu/32021r1150)
+   - forordning [(EU) 2024/1358](eu/32024r1358)
+6. Forordning [(EU) 2024/1356](eu/32024r1356) om innføring av screening av tredjelandsborgere ved de ytre grensene (screeningforordningen).
 
 Europeiske grensekontrollteam kan etter anmodning bistå politiet med gjennomføring av grensekontroll. [Politiloven § 20 a](lov/1995-08-04-53/§20a) annet og tredje ledd får tilsvarende anvendelse for utenlandske tjenestemenn som deltar under utførelsen av slike bistandsoppgaver.
 
@@ -108,7 +136,12 @@ Kongen gir forskrift om andre påbud og forbud som følger av avtale med nabosta
 
 ### § 12. Ekstraordinære adgangsbegrensninger
 
-Kongen kan fatte vedtak om å forby eller begrense opphold, ferdsel og krysning av grensen i situasjoner som ikke kan håndteres gjennom ordinære kontrolltiltak, når det er nødvendigfor å trygge riksgrensen, grenseovergangsstedene og forholdene der,for å styrke kontrollen med grensepasseringer og ferdselen,for å verne samfunnet eller naturen, ellerav andre helsemessige grunner eller sikkerhetsmessige forhold.
+Kongen kan fatte vedtak om å forby eller begrense opphold, ferdsel og krysning av grensen i situasjoner som ikke kan håndteres gjennom ordinære kontrolltiltak, når det er nødvendig
+
+1. for å trygge riksgrensen, grenseovergangsstedene og forholdene der,
+2. for å styrke kontrollen med grensepasseringer og ferdselen,
+3. for å verne samfunnet eller naturen, eller
+4. av andre helsemessige grunner eller sikkerhetsmessige forhold.
 
 Tiltak etter første ledd skal være tidsmessig og geografisk avgrenset.
 
@@ -136,7 +169,13 @@ Når grensekontroll er midlertidig gjeninnført, skal indre Schengen-grense pass
 
 ### § 15. Gjennomføring av inn- og utreisekontroll
 
-Inn- og utreisekontrollen kan utførespå grenseovergangssted eller der hvor den reisende melder seg eller påtreffes,på offentlige transportmidler og sjøfartøy etter siste avgang i utlandet og senest ved første stans i Norge,i territorialfarvannet på sjøfartøy underveis til eller fra norsk havn eller indre farvann,i tilstøtende sone, ogetter begjæring på innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel.
+Inn- og utreisekontrollen kan utføres
+
+1. på grenseovergangssted eller der hvor den reisende melder seg eller påtreffes,
+2. på offentlige transportmidler og sjøfartøy etter siste avgang i utlandet og senest ved første stans i Norge,
+3. i territorialfarvannet på sjøfartøy underveis til eller fra norsk havn eller indre farvann,
+4. i tilstøtende sone, og
+5. etter begjæring på innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel.
 
 Ved inn- og utreisekontroll skal det påses at enhver har pass eller annet legitimasjonsdokument som er godkjent som reisedokument etter [utlendingsloven](lov/2008-05-15-35), at visumpliktige har gyldig visum, og at det ikke er grunnlag for bortvisning etter [utlendingsloven §§ 17](lov/2008-05-15-35/§17) eller [121](lov/2008-05-15-35/§121).
 
@@ -158,7 +197,10 @@ For det formål å bekjempe terrorisme og annen alvorlig kriminalitet plikter lu
 
 Dersom flyturen deles med ett eller flere luftfartsselskaper, skal selskapet som utfører flyvningen overføre PNR-opplysningene over samtlige passasjerer.
 
-PNR-opplysningene skal overføres24–48 timer før avgang ogumiddelbart etter at passasjerene har gått om bord i luftfartøyet, og fartøyets dører er lukket.
+PNR-opplysningene skal overføres
+
+1. 24–48 timer før avgang og
+2. umiddelbart etter at passasjerene har gått om bord i luftfartøyet, og fartøyets dører er lukket.
 
 Overføringer etter nr. 2 begrenses til oppdateringer og utfyllende opplysninger til de opplysninger som er avgitt etter nr. 1.
 
@@ -274,7 +316,22 @@ Utlendingen kan kreve spørsmålet om rettmessigheten av tvangsinngrepet brakt i
 
 ### § 25. Forskrifter
 
-Kongen kan gi forskrift om gjennomføring av loven, blant annet omlovens anvendelse for Svalbard, Jan Mayen og bilandene Bouvetøya, Peter I Øy og Dronning Maud Land, blant annet om kontroll med reisende og andre særlige regler av hensyn til de stedlige forholdene, jf. [§ 3](lov/2018-04-20-8/§3),gjennomføring av forpliktelser etter avtale med nabostat, blant annet om immunitet og privilegier, jf. [kapittel 2](lov/2018-04-20-8/kap2),grenseovergangssteder, blant annet om fastsetting, innretting av kontrollen og samarbeid mellom grensekontrollmyndigheten og eier eller driver av grenseovergangssted, jf. [§ 13](lov/2018-04-20-8/§13),midlertidig gjeninnføring av grensekontroll på indre Schengen-grense, jf. [§ 14](lov/2018-04-20-8/§14),gjennomføring av inn- og utreisekontroll, blant annet for reisende som kommer fra eller reiser til Svalbard eller innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel, jf. [§ 15](lov/2018-04-20-8/§15),politiets myndighet til å kreve inn pass og andre reise- eller legitimasjonsdokumenter fra utlending før innreise, samt til å ta kopi av slike dokumenter, jf. [§ 15](lov/2018-04-20-8/§15),plikt for transportør av sjøfartøy, luftfartøy eller yrkesmessig landtransport av personer til å kontrollere at de reisende har gyldige reise- eller legitimasjonsdokument og visum, samt plikt til å ta kopi av disse, jf. [§ 15](lov/2018-04-20-8/§15),hvilke fartøy og opplysninger som omfattes av [§ 16](lov/2018-04-20-8/§16), av hvem, når og hvordan opplysningene skal oversendes og om plikt for fører til å rette seg etter politiets anvisning om ankomst-, anløps- eller avreisested for gjennomføring av inn- og utreisekontroll,sjøfolks landlov og sjøfolks og blindpassasjerers adgang til å gå i land i riket, og om saksbehandling og klageadgang i slike saker, jf. [§ 17](lov/2018-04-20-8/§17),behandling av personopplysninger, herunder om innsyn, retting og sletting, behandling av opplysninger i forbindelse med testing og utvikling, samt behandling, herunder utveksling, av opplysninger i koordineringssenteret for Eurosur, jf. [§§ 22](lov/2018-04-20-8/§25) og [22 a](lov/2018-04-20-8/§22a),bruk av teknisk overvåkingsutstyr, jf. [§ 23](lov/2018-04-20-8/§23),gjennomføringen av rettsakter som nevnt i [§ 8 første ledd](lov/2018-04-20-8/§8/ledd/1), blant annet om behandling av personopplysninger,gjennomføringen av forordning [(EU) 2019/817](eu/32019r0817) artikkel 20 og forordning [(EU) 2019/818](eu/32019r0818) artikkel 20,gjennomføring av endringer i vedlegg III, IV, VIII og XI til forordning [(EU) 2016/399](eu/32016r0399) (grenseforordningen) med senere endringer vedtatt av Europakommisjonen i medhold av grenseforordningen artikkel 36, jf. [§ 8 første ledd nr. 1](lov/2008-05-15-35/§8/ledd/1/nummer/1).
+Kongen kan gi forskrift om gjennomføring av loven, blant annet om
+
+1. lovens anvendelse for Svalbard, Jan Mayen og bilandene Bouvetøya, Peter I Øy og Dronning Maud Land, blant annet om kontroll med reisende og andre særlige regler av hensyn til de stedlige forholdene, jf. [§ 3](lov/2018-04-20-8/§3),
+2. gjennomføring av forpliktelser etter avtale med nabostat, blant annet om immunitet og privilegier, jf. [kapittel 2](lov/2018-04-20-8/kap2),
+3. grenseovergangssteder, blant annet om fastsetting, innretting av kontrollen og samarbeid mellom grensekontrollmyndigheten og eier eller driver av grenseovergangssted, jf. [§ 13](lov/2018-04-20-8/§13),
+4. midlertidig gjeninnføring av grensekontroll på indre Schengen-grense, jf. [§ 14](lov/2018-04-20-8/§14),
+5. gjennomføring av inn- og utreisekontroll, blant annet for reisende som kommer fra eller reiser til Svalbard eller innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel, jf. [§ 15](lov/2018-04-20-8/§15),
+6. politiets myndighet til å kreve inn pass og andre reise- eller legitimasjonsdokumenter fra utlending før innreise, samt til å ta kopi av slike dokumenter, jf. [§ 15](lov/2018-04-20-8/§15),
+7. plikt for transportør av sjøfartøy, luftfartøy eller yrkesmessig landtransport av personer til å kontrollere at de reisende har gyldige reise- eller legitimasjonsdokument og visum, samt plikt til å ta kopi av disse, jf. [§ 15](lov/2018-04-20-8/§15),
+8. hvilke fartøy og opplysninger som omfattes av [§ 16](lov/2018-04-20-8/§16), av hvem, når og hvordan opplysningene skal oversendes og om plikt for fører til å rette seg etter politiets anvisning om ankomst-, anløps- eller avreisested for gjennomføring av inn- og utreisekontroll,
+9. sjøfolks landlov og sjøfolks og blindpassasjerers adgang til å gå i land i riket, og om saksbehandling og klageadgang i slike saker, jf. [§ 17](lov/2018-04-20-8/§17),
+10. behandling av personopplysninger, herunder om innsyn, retting og sletting, behandling av opplysninger i forbindelse med testing og utvikling, samt behandling, herunder utveksling, av opplysninger i koordineringssenteret for Eurosur, jf. [§§ 22](lov/2018-04-20-8/§25) og [22 a](lov/2018-04-20-8/§22a),
+11. bruk av teknisk overvåkingsutstyr, jf. [§ 23](lov/2018-04-20-8/§23),
+12. gjennomføringen av rettsakter som nevnt i [§ 8 første ledd](lov/2018-04-20-8/§8/ledd/1), blant annet om behandling av personopplysninger,
+13. gjennomføringen av forordning [(EU) 2019/817](eu/32019r0817) artikkel 20 og forordning [(EU) 2019/818](eu/32019r0818) artikkel 20,
+14. gjennomføring av endringer i vedlegg III, IV, VIII og XI til forordning [(EU) 2016/399](eu/32016r0399) (grenseforordningen) med senere endringer vedtatt av Europakommisjonen i medhold av grenseforordningen artikkel 36, jf. [§ 8 første ledd nr. 1](lov/2008-05-15-35/§8/ledd/1/nummer/1).
 
 > Endret ved lover [29 april 2022 nr. 26](lov/2022-04-29-26), [21 juni 2024 nr. 47](lov/2024-06-21-47) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1876](forskrift/2025-09-19-1876), endring endret ved lov [20 juni 2025 nr. 85](lov/2025-06-20-85)), [20 juni 2025 nr. 85](lov/2025-06-20-85) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1877](forskrift/2025-09-19-1877)), [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
 

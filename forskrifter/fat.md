@@ -15,7 +15,7 @@ xml_hash: "1576436b7a7b28e4795b18e9ab06a9e958e2f50a2c6688b85bafb52e0d418605"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,10 @@ Ved fastsettelse av nedsatte tollavgiftssatser etter denne forskriften, kan det 
 
 ### § 4. Definisjoner
 
-I denne forskriften menes med*korn:* Hvete, rug, rughvete, bygg, havre, oljefrø og andre arter fastsatt av Landbruksdirektoratet samt krysninger og formalingsprodukter av disse kornslagene, eller blandingsprodukter som har disse kornslagene som en vesentlig bestanddel.*kraftfôr:* Et formalingsprodukt til husdyrfôr som kan bestå av et eller flere fôrmidler.
+I denne forskriften menes med
+
+1. *korn:* Hvete, rug, rughvete, bygg, havre, oljefrø og andre arter fastsatt av Landbruksdirektoratet samt krysninger og formalingsprodukter av disse kornslagene, eller blandingsprodukter som har disse kornslagene som en vesentlig bestanddel.
+2. *kraftfôr:* Et formalingsprodukt til husdyrfôr som kan bestå av et eller flere fôrmidler.
 
 > Endret ved forskrifter [28 nov 2006 nr. 1678](forskrift/2006-11-28-1678) (i kraft 1 jan 2007), [30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), [27 juni 2013 nr. 799](forskrift/2013-06-27-799) (i kraft 1 juli 2013), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [3 des 2015 nr. 1390](forskrift/2015-12-03-1390) (i kraft 1 jan 2016), [22 juni 2022 nr. 1140](forskrift/2022-06-22-1140) (i kraft 1 juli 2022).
 
@@ -70,7 +73,11 @@ I vurderingen av om generell nedsettelse av tollavgiftssats kan gis, skal utnytt
 
 Generell nedsettelse av tollavgiftssats for varer under målprissystemet skal innrømmes dersom noteringspris i to påfølgende uker ligger over øvre prisgrense i henhold til jordbruksavtalen. Det samme gjelder dersom innrapportert mengde av målprisvarer for frukt, grønnsaker og matpotet ligger under ti prosent av normal ukesomsetning i to påfølgende uker eller foreligger i kombinasjon med prisnotering over øvre prisgrense i tilsvarende periode, med mindre det er nødvendig å opprettholde tollavgiftsnivået av hensyn til avsetningsgrunnlaget for norsk produksjon ved oppstart av sesong.
 
-Generell nedsettelse av tollavgiftssats kan også innrømmesfor å holde noteringsprisen som gjennomsnitt for året på nivå med målpris,for å hindre alvorlige markedsforstyrrelser, elleri perioden utenom målprisperioden.
+Generell nedsettelse av tollavgiftssats kan også innrømmes
+
+1. for å holde noteringsprisen som gjennomsnitt for året på nivå med målpris,
+2. for å hindre alvorlige markedsforstyrrelser, eller
+3. i perioden utenom målprisperioden.
 
 > Endret ved [forskrifter 28 nov 2006 nr. 1678](forskrift/2006-11-28-1678) (i kraft 1 jan 2007), [23 mars 2018 nr. 450](forskrift/2018-03-23-450), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023).
 
@@ -112,7 +119,10 @@ Generell nedsettelse av tollavgiftssats for kjøtt av storfe, svin, sau og lam s
 
 Generell nedsettelse av tollavgiftssats for meieriprodukter skal innrømmes dersom noteringspris i to påfølgende uker ligger over øvre prisgrense fastsatt av Landbruks- og matdepartementet. Øvre prisgrense er fastsatt til planlagt gjennomsnittlig engrospris pluss 5 prosent.
 
-Generell nedsettelse av tollavgiftssats kan også innrømmesfor at planlagt gjennomsnittlig engrospris for perioden ikke skal overskrides, ellerfor å hindre alvorlige markedsforstyrrelser.
+Generell nedsettelse av tollavgiftssats kan også innrømmes
+
+1. for at planlagt gjennomsnittlig engrospris for perioden ikke skal overskrides, eller
+2. for å hindre alvorlige markedsforstyrrelser.
 
 > Tilføyd ved [forskrift 30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), endret ved forskrifter [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023), [31 okt 2024 nr. 2607](forskrift/2024-10-31-2607) (i kraft 1 nov 2024), [26 juni 2025 nr. 1342](forskrift/2025-06-26-1342) (i kraft 1 juli 2025).
 
@@ -162,7 +172,13 @@ Tollavgiftssatsen fastsettes på et slikt nivå at norske økologiske og konvens
 
 ### § 15. Særlige fôrprodukter
 
-Det kan innrømmes fritak fra tollavgift for import avfiskefôr eller råvarer til fiskefôr,mineral- og vitamintilskuddsandelen i dyrefôr på varenummer 23.09.9099 i tolltariffen. Det innrømmes kun fritak fra tollavgift dersom mineral- og vitamintilskuddsandelen overstiger 10 %.råvarer til produksjon av fôr til kjæledyr og fôr til kjæledyr når slikt fôr ikke har eget varenummer i tolltariffen,fôr og råvarer til produksjon av fôr til brevduer og villfugler, ogpelsdyrfôr eller råvarer til pelsdyrfôr.
+Det kan innrømmes fritak fra tollavgift for import av
+
+1. fiskefôr eller råvarer til fiskefôr,
+2. mineral- og vitamintilskuddsandelen i dyrefôr på varenummer 23.09.9099 i tolltariffen. Det innrømmes kun fritak fra tollavgift dersom mineral- og vitamintilskuddsandelen overstiger 10 %.
+3. råvarer til produksjon av fôr til kjæledyr og fôr til kjæledyr når slikt fôr ikke har eget varenummer i tolltariffen,
+4. fôr og råvarer til produksjon av fôr til brevduer og villfugler, og
+5. pelsdyrfôr eller råvarer til pelsdyrfôr.
 
 > Endret ved [forskrifter 27 aug 2007 nr. 1012](forskrift/2007-08-27-1012), [30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), [19 des 2014 nr. 1812](forskrift/2014-12-19-1812) (i kraft 1 jan 2015), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023).
 
@@ -182,7 +198,13 @@ Det kan innrømmes individuell nedsettelse av tollavgiftssats for import av egg 
 
 Det kan innrømmes fritak fra tollavgift ved import av innsatsvarer som omfattes av [vedlegg 6](forskrift/2005-12-22-1723/vedlegg6) dersom innsatsvaren skal inngå i produksjon av industrielt bearbeidede landbruksvarer innenfor protokoll 3 tabell 1 til [EØS-avtalen](lov/1992-11-27-109/eøsl), og dersom den etter næringspolitiske vurderinger ikke konkurrerer med norske landbruksvarer.
 
-Det kan også innrømmes fritak fra tollavgift ved import av olje som innsatsvare dersom den omfattes av [vedlegg 6](forskrift/2005-12-22-1723/vedlegg6) og skal inngåindirekte i produksjon av industrielt bearbeidede landbruksvarer innenfor protokoll 3 tabell 1 til [EØS-avtalen](lov/1992-11-27-109/eøsl), elleri bearbeidede fiskeprodukter, elleri andre ferdigprodukter som kan importeres tollfritt.Innrømmelse av fritak fra tollavgift etter bokstav a–c skal kun skje dersom innsatsvaren etter næringspolitiske vurderinger ikke konkurrerer med norske landbruksvarer.
+Det kan også innrømmes fritak fra tollavgift ved import av olje som innsatsvare dersom den omfattes av [vedlegg 6](forskrift/2005-12-22-1723/vedlegg6) og skal inngå
+
+1. indirekte i produksjon av industrielt bearbeidede landbruksvarer innenfor protokoll 3 tabell 1 til [EØS-avtalen](lov/1992-11-27-109/eøsl), eller
+2. i bearbeidede fiskeprodukter, eller
+3. i andre ferdigprodukter som kan importeres tollfritt.
+
+Innrømmelse av fritak fra tollavgift etter bokstav a–c skal kun skje dersom innsatsvaren etter næringspolitiske vurderinger ikke konkurrerer med norske landbruksvarer.
 
 > Endret ved forskrifter [28 nov 2006 nr. 1678](forskrift/2006-11-28-1678) (i kraft 1 jan 2007), [22 juni 2022 nr. 1140](forskrift/2022-06-22-1140) (i kraft 1 juli 2022), [14 des 2022 nr. 2231](forskrift/2022-12-14-2231) (i kraft 1 jan 2023), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023).
 

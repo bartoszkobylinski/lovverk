@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1. Lisens til medisinsk student ved norsk universitet
 
-Medisinsk student ved norsk universitet kan få lisens dersom vedkommende:har fullført minst 4 1/2 års medisinstudium med normal studieprogresjon. Eksamen i niende semester behøver likevel bare være avlagt, jf. [§ 5](forskrift/2000-12-21-1379/§5) annet ledd.har gjennomført godkjent obligatorisk teoretisk og praktisk undervisning i de medisinske kliniske hovedfag, som generell indremedisin og kirurgi, allmennmedisin, gynekologi og obstetrikk, pediatri og psykiatri,har gjennomført teoretisk og praktisk undervisning i farmakologi og reseptlære.
+Medisinsk student ved norsk universitet kan få lisens dersom vedkommende:
+
+1. har fullført minst 4 1/2 års medisinstudium med normal studieprogresjon. Eksamen i niende semester behøver likevel bare være avlagt, jf. [§ 5](forskrift/2000-12-21-1379/§5) annet ledd.
+2. har gjennomført godkjent obligatorisk teoretisk og praktisk undervisning i de medisinske kliniske hovedfag, som generell indremedisin og kirurgi, allmennmedisin, gynekologi og obstetrikk, pediatri og psykiatri,
+3. har gjennomført teoretisk og praktisk undervisning i farmakologi og reseptlære.
 
 ### § 2. Lisens til medisinsk student ved utenlandsk universitet
 
@@ -68,7 +72,10 @@ Lisens bortfaller dersom studenten helt avbryter det medisinske studium, eller u
 
 Medisinske kandidater som har utenlandsk eksamen som er anerkjent som jevngod med norsk cand.med.-grad, må ha lisens etter denne forskriften før spesialistutdanningens første del kan påbegynnes.
 
-Lisens etter denne bestemmelsen kan tildeles medisinske kandidater som mangler obligatorisk praktisk tjeneste for å bli godkjent som lege i utdanningslandet og oppfyller følgende vilkår:har bestått medisinsk eksamen i et annet EØS-land ogsenest i 2012 hadde startet studiene eller mottatt tilbud om studieplass.
+Lisens etter denne bestemmelsen kan tildeles medisinske kandidater som mangler obligatorisk praktisk tjeneste for å bli godkjent som lege i utdanningslandet og oppfyller følgende vilkår:
+
+1. har bestått medisinsk eksamen i et annet EØS-land og
+2. senest i 2012 hadde startet studiene eller mottatt tilbud om studieplass.
 
 Lisens til medisinske kandidater som tar turnus er gjeldende frem til hele turnustjenesten er gjennomført.
 
@@ -142,7 +149,12 @@ Søknad om lisens sendes Helsedirektoratet eller den det bemyndiger.
 
 ### § 7. Søknadens innhold
 
-Søknaden skal gi opplysninger om:art og omfang av den virksomheten det søkes om lisens for, herunder organisering av virksomheten dersom det søkes om lisens for å drive pasientrettet virksomhet,art og omfang av tidligere virksomhet, særlig de siste 5 årene,rekvireringsrett ønskes ogtidsrommet det søkes om lisens for.
+Søknaden skal gi opplysninger om:
+
+1. art og omfang av den virksomheten det søkes om lisens for, herunder organisering av virksomheten dersom det søkes om lisens for å drive pasientrettet virksomhet,
+2. art og omfang av tidligere virksomhet, særlig de siste 5 årene,
+3. rekvireringsrett ønskes og
+4. tidsrommet det søkes om lisens for.
 
 Søknaden skal vedlegges legeattest utstedt av lisenssøkers fastlege eller annen lege med autorisasjon. Legeattesten skal bekrefte at lisenssøker er psykisk og fysisk i stand til å ivareta slik virksomhet som det søkes om lisens for. Attesten skal gis på fastsatt skjema.
 

@@ -32,10 +32,24 @@ Lyngenlam SA.
 
 ## § 3. Vilkår for bruk av produktbetegnelsen
 
-1. *Produktbeskrivelse*Lyngenlam er kjøtt av lam som er født, oppvokst og har beitet på utmarksbeite på Lyngenhalvøya. Lam defineres her som dyr født i mars eller senere samme år som det slaktes.Betegnelsen Lyngenlam omfatter ferske og fryste skrotter, naturlige stykningsdeler og kjøttsorteringer. Lyngenlam skal ha en slaktevekt på minimum 16 kg. Skrottene skal være klassifisert med kjøttfylde fra og med klasse R– til og med E+, og fettmengde fra og med gruppe 1+ til og med 3.
-2. *Geografisk område*Lyngenlam skal være produsert på Lyngenhalvøya. Lyngenhalvøya er avgrenset i øst av Lyngenfjorden/Storfjorden, i vest av Ulsfjorden/Sørfjorden, i sør av E8 mellom Oteren og Laksvatn og i sørvest av fylkesvei 293 mellom Laksvatn og Sjøvassbotn/Sørfjorden. Se vedlagte kart.
-3. *Produksjonsmetode*Lammene skal gå på utmarksbeite i minimum 10 uker.Lam som er slaktemodne ved sanking sendes direkte til slakting. Lam som ikke er slaktemodne settes på innmarksbeite eller innefôring til riktig slaktevekt er oppnådd. Bare lam slaktet t.o.m. uke 45 kan benytte betegnelsen Lyngenlam.Alle forhold rundt beiting og fôring skal dokumenteres.
-4. *Merking av produktet:*Lyngenlam kan merkes med teksten og figurmerket for Beskyttet geografisk betegnelse.
+1. *Produktbeskrivelse*
+
+   Lyngenlam er kjøtt av lam som er født, oppvokst og har beitet på utmarksbeite på Lyngenhalvøya. Lam defineres her som dyr født i mars eller senere samme år som det slaktes.
+
+   Betegnelsen Lyngenlam omfatter ferske og fryste skrotter, naturlige stykningsdeler og kjøttsorteringer. Lyngenlam skal ha en slaktevekt på minimum 16 kg. Skrottene skal være klassifisert med kjøttfylde fra og med klasse R– til og med E+, og fettmengde fra og med gruppe 1+ til og med 3.
+2. *Geografisk område*
+
+   Lyngenlam skal være produsert på Lyngenhalvøya. Lyngenhalvøya er avgrenset i øst av Lyngenfjorden/Storfjorden, i vest av Ulsfjorden/Sørfjorden, i sør av E8 mellom Oteren og Laksvatn og i sørvest av fylkesvei 293 mellom Laksvatn og Sjøvassbotn/Sørfjorden. Se vedlagte kart.
+3. *Produksjonsmetode*
+
+   Lammene skal gå på utmarksbeite i minimum 10 uker.
+
+   Lam som er slaktemodne ved sanking sendes direkte til slakting. Lam som ikke er slaktemodne settes på innmarksbeite eller innefôring til riktig slaktevekt er oppnådd. Bare lam slaktet t.o.m. uke 45 kan benytte betegnelsen Lyngenlam.
+
+   Alle forhold rundt beiting og fôring skal dokumenteres.
+4. *Merking av produktet:*
+
+   Lyngenlam kan merkes med teksten og figurmerket for Beskyttet geografisk betegnelse.
 
 ## § 4. Ikrafttredelse
 

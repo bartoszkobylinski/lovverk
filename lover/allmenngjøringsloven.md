@@ -15,7 +15,7 @@ xml_hash: "e8f913846760c32090f6f8678f83cc3b1c0ee1eb6b1a4467c6ea068b62574256"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,15 +30,38 @@ Lovens formål er å sikre utenlandske arbeidstakere lønns- og arbeidsvilkår s
 
 ## § 2. Lovens virkeområde
 
-1\. *(Arbeidstakere i Norge)*Loven gjelder fastsetting av lønns- og arbeidsvilkår for arbeidstakere som utfører arbeid i annens tjeneste i Norge. Departementet gir forskrift om lovens anvendelse for utsendte arbeidstakere, jf. [arbeidsmiljøloven § 1-7](lov/2005-06-17-62/§1-7).
+1\. *(Arbeidstakere i Norge)*
 
-2\. (Arbeidstakere på skip mv.)Loven omfatterarbeidstakere på skip og flyttbare innretninger registrert i Norsk ordinært skipsregister (NOR)arbeidstakere på skip i innenriksfart registrert enten i Norsk internasjonalt skipsregister (NIS) eller utenlandsk skipsregister.Skip i innenriksfart etter første ledd omfatter:skip som frakter last eller passasjerer mellom norske havner på fastlandet, men likevel ikke skip som utelukkende setter i land last eller passasjerer som kommer fra utenlandske havner, eller som utelukkende tar om bord last eller passasjerer som skal til utenlandske havnercruiseskip som seiler mellom norske havner på fastlandet, også cruiseskip som utelukkende opererer ut fra én norsk havn, men likevel ikke cruiseskip som anløper norske havner på seilas fra eller til en utenlandsk havnskip som yter andre tjenester i norsk territorialfarvann ved fastlandet, men ikke fiske- og fangstfartøy, skip som tilhører Forsvaret eller benyttes i Forsvarets tjeneste, eller andre statlige skip som brukes utenfor næringsvirksomhet.
+Loven gjelder fastsetting av lønns- og arbeidsvilkår for arbeidstakere som utfører arbeid i annens tjeneste i Norge. Departementet gir forskrift om lovens anvendelse for utsendte arbeidstakere, jf. [arbeidsmiljøloven § 1-7](lov/2005-06-17-62/§1-7).
 
-3\. *(Petroleumsvirksomhet)*Loven omfatter petroleumsvirksomhet som foregår i indre norsk farvann, i norsk sjøterritorium og på den norske del av kontinentalsokkelen, for så vidt gjelder undersøkelse, leteboring, utvinning, utnyttelse og rørledningstransport samt innretninger til bruk for slik virksomhet. Med disse begrensningene gjelder loven også for flyttbare innretninger under fremmed flagg. Loven omfatter bemannede undervannsoperasjoner i petroleumsvirksomheten utført fra fartøy eller innretning.Departementet kan bestemme at loven skal omfatte petroleumsvirksomhet som foregår under norsk flagg på et annet lands kontinentalsokkel, samt fartøy under fremmed flagg som driver konstruksjons-, rørleggings- eller vedlikeholdsaktivitet på norsk sokkel.Loven kommer også til anvendelse på virksomhet og innretninger som nevnt i nr. 3 første ledd på område utenfor kontinentalsokkelen så langt dette følger av folkeretten eller særskilt avtale med fremmed stat.
+2\. (Arbeidstakere på skip mv.)
 
-4\. *(Svalbard)*Loven gjelder for Svalbard.
+Loven omfatter
 
-5\. *(Interlegal ufravikelighet)*Loven omfatter arbeidsforhold som nevnt i denne paragraf selv om arbeidsforholdet for øvrig er regulert av et annet lands rett.
+1. arbeidstakere på skip og flyttbare innretninger registrert i Norsk ordinært skipsregister (NOR)
+2. arbeidstakere på skip i innenriksfart registrert enten i Norsk internasjonalt skipsregister (NIS) eller utenlandsk skipsregister.
+
+Skip i innenriksfart etter første ledd omfatter:
+
+1. skip som frakter last eller passasjerer mellom norske havner på fastlandet, men likevel ikke skip som utelukkende setter i land last eller passasjerer som kommer fra utenlandske havner, eller som utelukkende tar om bord last eller passasjerer som skal til utenlandske havner
+2. cruiseskip som seiler mellom norske havner på fastlandet, også cruiseskip som utelukkende opererer ut fra én norsk havn, men likevel ikke cruiseskip som anløper norske havner på seilas fra eller til en utenlandsk havn
+3. skip som yter andre tjenester i norsk territorialfarvann ved fastlandet, men ikke fiske- og fangstfartøy, skip som tilhører Forsvaret eller benyttes i Forsvarets tjeneste, eller andre statlige skip som brukes utenfor næringsvirksomhet.
+
+3\. *(Petroleumsvirksomhet)*
+
+Loven omfatter petroleumsvirksomhet som foregår i indre norsk farvann, i norsk sjøterritorium og på den norske del av kontinentalsokkelen, for så vidt gjelder undersøkelse, leteboring, utvinning, utnyttelse og rørledningstransport samt innretninger til bruk for slik virksomhet. Med disse begrensningene gjelder loven også for flyttbare innretninger under fremmed flagg. Loven omfatter bemannede undervannsoperasjoner i petroleumsvirksomheten utført fra fartøy eller innretning.
+
+Departementet kan bestemme at loven skal omfatte petroleumsvirksomhet som foregår under norsk flagg på et annet lands kontinentalsokkel, samt fartøy under fremmed flagg som driver konstruksjons-, rørleggings- eller vedlikeholdsaktivitet på norsk sokkel.
+
+Loven kommer også til anvendelse på virksomhet og innretninger som nevnt i nr. 3 første ledd på område utenfor kontinentalsokkelen så langt dette følger av folkeretten eller særskilt avtale med fremmed stat.
+
+4\. *(Svalbard)*
+
+Loven gjelder for Svalbard.
+
+5\. *(Interlegal ufravikelighet)*
+
+Loven omfatter arbeidsforhold som nevnt i denne paragraf selv om arbeidsforholdet for øvrig er regulert av et annet lands rett.
 
 > Endret ved lover [17 juni 2005 nr. 62](lov/2005-06-17-62) (ikr. 1 jan 2006 iflg. [res. 17 juni 2005 nr. 609](forskrift/2005-06-17-609)), [19 juni 2009 nr. 42](lov/2009-06-19-42) (ikr. 1 sep 2009 iflg. [res. 19 juni 2009 nr. 841](forskrift/2009-06-19-841), tidligere § 1-2), [28 mars 2025 nr. 4](lov/2025-03-28-4) (i kraft 1 juli 2025 iflg. [res. 28 mars 2025 nr. 545](forskrift/2025-03-28-545), gjelder for Longyearbyen og Ny-Ålesund), [20 juni 2025 nr. 109](lov/2025-06-20-109) (i kraft 1 juli 2025). **Endres** ved lov [28 mars 2025 nr. 4](lov/2025-03-28-4) (i kraft fra den tid Kongen bestemmer).
 
@@ -74,7 +97,10 @@ Vedtak om allmenngjøring etter [§ 5](lov/1993-06-04-58/§5) kan bare gjelde de
 
 Dersom Tariffnemnda finner det nødvendig å fastsette lønns- og arbeidsvilkår på områder som også er regulert i annen lovgivning, skal dette begrunnes særskilt.
 
-I tillegg til de opplysninger som er nevnt i [forvaltningsloven § 38](lov/1967-02-10/§38) første ledd bokstavene a og b, skal nemndas vedtak inneholde:en nærmere angivelse av de tariffavtalebestemmelser som allmenngjøres og de bestemmelser om lønns- og arbeidsvilkår som fastsettes i medhold av første eller andre ledd foran,bestemmelser om tidspunktet for vedtakets ikrafttreden.
+I tillegg til de opplysninger som er nevnt i [forvaltningsloven § 38](lov/1967-02-10/§38) første ledd bokstavene a og b, skal nemndas vedtak inneholde:
+
+1. en nærmere angivelse av de tariffavtalebestemmelser som allmenngjøres og de bestemmelser om lønns- og arbeidsvilkår som fastsettes i medhold av første eller andre ledd foran,
+2. bestemmelser om tidspunktet for vedtakets ikrafttreden.
 
 De lønns- og arbeidsvilkår som er fastsatt i Tariffnemndas vedtak, skal gjelde som ufravikelige minstevilkår i arbeidsforholdet mellom en arbeidstaker som omfattes av vedtaket og dennes arbeidsgiver.
 
@@ -130,7 +156,11 @@ Departementet kan i forskrift gi nærmere regler om innsynsretten, taushetsplikt
 
 ## § 12. Informasjons-, påse- og dokumentasjonsplikt
 
-Departementet kan gi forskrift om atoppdragsgivere i kontrakt med oppdragstakere skal informere om plikter etter gjeldende forskrifter om allmenngjøring av tariffavtaleroppdragsgivere skal påse at oppdragstakere etterlever pliktene i gjeldende forskrifter om allmenngjøring av tariffavtaleroppdragstakere skal utlevere nødvendig dokumentasjon for at en oppdragsgiver kan oppfylle påseplikten etter bokstav b.
+Departementet kan gi forskrift om at
+
+1. oppdragsgivere i kontrakt med oppdragstakere skal informere om plikter etter gjeldende forskrifter om allmenngjøring av tariffavtaler
+2. oppdragsgivere skal påse at oppdragstakere etterlever pliktene i gjeldende forskrifter om allmenngjøring av tariffavtaler
+3. oppdragstakere skal utlevere nødvendig dokumentasjon for at en oppdragsgiver kan oppfylle påseplikten etter bokstav b.
 
 > Tilføyd ved lov [24 nov 2006 nr. 63](lov/2006-11-24-63) (ikr. 1 des 2006 iflg. [res. 24 nov 2006 nr. 1294](forskrift/2006-11-24-1294)), endret ved lover [29 juni 2007 nr. 42](lov/2007-06-29-42) (ikr. 14 mars 2008 iflg. [res. 29 feb 2008 nr. 200](forskrift/2008-02-29-200)), [19 juni 2009 nr. 42](lov/2009-06-19-42) (ikr. 1 sep 2009 iflg. [res. 19 juni 2009 nr. 841](forskrift/2009-06-19-841), tidligere § 9), [20 des 2022 nr. 101](lov/2022-12-20-101) (i kraft 20 des 2022 iflg. [res. 20 des 2022 nr. 2295](forskrift/2022-12-20-2295)).
 

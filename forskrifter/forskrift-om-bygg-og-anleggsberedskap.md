@@ -52,7 +52,15 @@ For personell som faller inn under forskriftens bestemmelser søkes fritak etter
 
 ## § 5. Rådets oppgaver
 
-Rådet skal bistå Nærings- og fiskeridepartementet medråd ved behovå vurdere kritiske situasjonerå finne frem til ressurser det er behov for.De landsdekkende firmaene som er representert i rådet skal dessuten bistå Nærings- og fiskeridepartementet medå stille ressurser til rådighet.
+Rådet skal bistå Nærings- og fiskeridepartementet med
+
+1. råd ved behov
+2. å vurdere kritiske situasjoner
+3. å finne frem til ressurser det er behov for.
+
+De landsdekkende firmaene som er representert i rådet skal dessuten bistå Nærings- og fiskeridepartementet med
+
+1. å stille ressurser til rådighet.
 
 Dersom det på forhånd er kartlagt at det kan bli behov for bestemte ressurser i krisesituasjoner, skal Nærings- og fiskeridepartementet varsle rådet når disse kreves stilt til rådighet. Rådets medlemmer videreformidler slike krav til sine respektive firmaer.
 

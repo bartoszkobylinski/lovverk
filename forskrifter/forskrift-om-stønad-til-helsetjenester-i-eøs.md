@@ -15,7 +15,7 @@ xml_hash: "b0983eb2fdc87d9674a651e2151a21e95574e9bf32e7a88abe1a7fbf0d0f9c5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,12 @@ Med mindre det er gjort unntak eller tilpasninger i forskriften her gjelder de s
 
 ## § 3. Hvilke typer helsehjelp det ytes stønad til
 
-Stønad ytes til dekning av utgifter ved helsehjelp som tilsvarer helsetjenester somdet gis stønad til etter [folketrygdloven § 5-4](lov/1997-02-28-19/§5-4) til [§ 5-12](lov/1997-02-28-19/§5-12), [§ 5-14](lov/1997-02-28-19/§5-14) og [§ 5-25](lov/1997-02-28-19/§5-25)det gis bidrag til etter [folketrygdloven § 5-22](lov/1997-02-28-19/§5-22), begrenset til bidragsformålene hormonelle prevensjonsmidler og legemidler i forbindelse med infertilitetsbehandlinggis helt eller delvis vederlagsfritt etter [tannhelsetjenesteloven § 1-3 første ledd bokstav a](lov/1983-06-03-54/§1-3/ledd/1/bokstav/a) til [e](lov/1983-06-03-54/§1-3/ledd/1/bokstav/e), jf. [§ 2-2](lov/1983-06-03-54/§2-2)ytes helt eller delvis vederlagsfritt etter [spesialisthelsetjenesteloven](lov/1999-07-02-61).
+Stønad ytes til dekning av utgifter ved helsehjelp som tilsvarer helsetjenester som
+
+1. det gis stønad til etter [folketrygdloven § 5-4](lov/1997-02-28-19/§5-4) til [§ 5-12](lov/1997-02-28-19/§5-12), [§ 5-14](lov/1997-02-28-19/§5-14) og [§ 5-25](lov/1997-02-28-19/§5-25)
+2. det gis bidrag til etter [folketrygdloven § 5-22](lov/1997-02-28-19/§5-22), begrenset til bidragsformålene hormonelle prevensjonsmidler og legemidler i forbindelse med infertilitetsbehandling
+3. gis helt eller delvis vederlagsfritt etter [tannhelsetjenesteloven § 1-3 første ledd bokstav a](lov/1983-06-03-54/§1-3/ledd/1/bokstav/a) til [e](lov/1983-06-03-54/§1-3/ledd/1/bokstav/e), jf. [§ 2-2](lov/1983-06-03-54/§2-2)
+4. ytes helt eller delvis vederlagsfritt etter [spesialisthelsetjenesteloven](lov/1999-07-02-61).
 
 Stønad ytes ikke for substitusjonsbehandling for opioidavhengighet. Dette gjelder selv om medlemmet får legemiddelassistert rehabilitering i Norge.
 
@@ -132,7 +137,10 @@ Reise- og oppholdsutgifter dekkes bare for reise med utgangspunkt i Norge.
 
 ## § 9a. Forhåndstilsagn
 
-En pasient som er vurdert til å ha rett til nødvendig helsehjelp fra spesialisthelsetjenesten etter [pasient- og brukerrettighetsloven § 2-2 andre ledd](lov/1999-07-02-63/§2-2/ledd/2), jf. [§ 2-2a andre ledd](lov/1999-07-02-63/§2-2a/ledd/2), kan søke forhåndstilsagn fra HELFO om:pasienten har krav på stønad til utgifter for slik helsehjelp som pasienten vurderer å motta i et andre EØS-land, ogden høyeste stønad som vil ytes for denne helsehjelpen.
+En pasient som er vurdert til å ha rett til nødvendig helsehjelp fra spesialisthelsetjenesten etter [pasient- og brukerrettighetsloven § 2-2 andre ledd](lov/1999-07-02-63/§2-2/ledd/2), jf. [§ 2-2a andre ledd](lov/1999-07-02-63/§2-2a/ledd/2), kan søke forhåndstilsagn fra HELFO om:
+
+1. pasienten har krav på stønad til utgifter for slik helsehjelp som pasienten vurderer å motta i et andre EØS-land, og
+2. den høyeste stønad som vil ytes for denne helsehjelpen.
 
 Forhåndstilsagn etter første ledd gir pasienten rett til stønad til faktiske utgifter til slik helsehjelp som forhåndstilsagnet omfatter og med inntil det beløp som er angitt i forhåndstilsagnet.
 

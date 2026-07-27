@@ -15,7 +15,7 @@ xml_hash: "911eaae7b6a062b642e6613d87dd847ec44c25097c1c24b2309aa5ccb688c9e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,14 @@ I [stortingsvedtak 18. desember 2025 nr. 2755 om engangsavgift på motorvogner m
 
 [§ 3 fyrste ledd bokstav b nr 2](forskrift/2025-12-18-2755/§3/ledd/1/bokstav/b/nummer/2) skal lyde:
 
-- CO2-utslippper g/kmkr0–100450101–150600over 1501 200
+- 1. CO2-utslipp
+
+     |  |  |
+     | --- | --- |
+     | per g/km | kr |
+     | 0–100 | 450 |
+     | 101–150 | 600 |
+     | over 150 | 1 200 |
 
 ## II
 

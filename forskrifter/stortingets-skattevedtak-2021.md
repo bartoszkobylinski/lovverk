@@ -15,7 +15,7 @@ xml_hash: "ede5c534c724b20fa7f226e81a1f289b43d1eecc4a76d730dd5962c92cc3d9cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,12 @@ Det svares formuesskatt til kommunen dersom skattyter ikke er fritatt for slik s
 
 ### § 3-1. Trinnskatt
 
-Personlig skattyter i klasse 0 og 1 skal av personinntekt fastsatt etter [skatteloven kapittel 12](lov/1999-03-26-14/kap12), svare trinnskatt til staten med1,7 pst. for den delen av inntekten som overstiger 184 800 kroner,4,0 pst. for den delen av inntekten som overstiger 260 100 kroner,13,2 pst. for den delen av inntekten som overstiger 651 250 kroner, og16,2 pst. for den delen av inntekten som overstiger 1 021 550 kroner.
+Personlig skattyter i klasse 0 og 1 skal av personinntekt fastsatt etter [skatteloven kapittel 12](lov/1999-03-26-14/kap12), svare trinnskatt til staten med
+
+- 1,7 pst. for den delen av inntekten som overstiger 184 800 kroner,
+- 4,0 pst. for den delen av inntekten som overstiger 260 100 kroner,
+- 13,2 pst. for den delen av inntekten som overstiger 651 250 kroner, og
+- 16,2 pst. for den delen av inntekten som overstiger 1 021 550 kroner.
 
 For personlig skattyter i Troms og Finnmark fylke, med unntak av skattytere i kommunene Balsfjord, Bardu, Dyrøy, Gratangen, Harstad, Ibestad, Kvæfjord, Lavangen, Målselv, Salangen, Senja, Sørreisa, Tjeldsund og Tromsø, skal satsen etter første ledd tredje strekpunkt likevel være 11,2 pst.
 
@@ -64,7 +69,10 @@ Dersom skattyter er bosatt i riket bare en del av året, nedsettes beløpene i f
 
 Enhver som plikter å betale inntektsskatt til kommunen etter [skatteloven](lov/1999-03-26-14), skal betale fellesskatt til staten. Fellesskatten skal beregnes på samme grunnlag som inntektsskatten til kommunene.
 
-Satsen for fellesskatt skal være:For personlig skattepliktig og dødsbo i Troms og Finnmark fylke, med unntak av skatteplitig og dødsbo i kommunene Balsfjord, Bardu, Dyrøy, Gratangen, Harstad, Ibestad, Kvæfjord, Lavangen, Målselv, Salangen, Senja, Sørreisa, Tjeldsund og Tromsø: 3,65 pst.For personlig skattepliktig og dødsbo ellers: 7,15 pst.
+Satsen for fellesskatt skal være:
+
+- For personlig skattepliktig og dødsbo i Troms og Finnmark fylke, med unntak av skatteplitig og dødsbo i kommunene Balsfjord, Bardu, Dyrøy, Gratangen, Harstad, Ibestad, Kvæfjord, Lavangen, Målselv, Salangen, Senja, Sørreisa, Tjeldsund og Tromsø: 3,65 pst.
+- For personlig skattepliktig og dødsbo ellers: 7,15 pst.
 
 ### § 3-3. Skatt til staten
 
@@ -136,7 +144,12 @@ Det svares ikke skatt av aksjeutbytte som utdeles fra i riket hjemmehørende aks
 
 ### § 5-1. Tonnasjeskatt
 
-Aksjeselskap, allmennaksjeselskap og tilsvarende selskap hjemmehørende i annen EØS-stat som nevnt i [skatteloven § 8-10](lov/1999-03-26-14/§8-10), skal svare tonnasjeskatt, jf. [skatteloven § 8-16](lov/1999-03-26-14/§8-16), etter følgende satser:90 øre per dag per 100 nettotonn for de første 1 000 nettotonn, deretter18 kroner per dag per 1 000 nettotonn opp til 10 000 nettotonn, deretter12 kroner per dag per 1 000 nettotonn opp til 25 000 nettotonn, deretter6 kroner per dag per 1 000 nettotonn.
+Aksjeselskap, allmennaksjeselskap og tilsvarende selskap hjemmehørende i annen EØS-stat som nevnt i [skatteloven § 8-10](lov/1999-03-26-14/§8-10), skal svare tonnasjeskatt, jf. [skatteloven § 8-16](lov/1999-03-26-14/§8-16), etter følgende satser:
+
+- 90 øre per dag per 100 nettotonn for de første 1 000 nettotonn, deretter
+- 18 kroner per dag per 1 000 nettotonn opp til 10 000 nettotonn, deretter
+- 12 kroner per dag per 1 000 nettotonn opp til 25 000 nettotonn, deretter
+- 6 kroner per dag per 1 000 nettotonn.
 
 Satsene i første ledd kan reduseres etter nærmere bestemmelser fastsatt av departementet, jf. [skatteloven § 8-16](lov/1999-03-26-14/§8-16) første ledd.
 

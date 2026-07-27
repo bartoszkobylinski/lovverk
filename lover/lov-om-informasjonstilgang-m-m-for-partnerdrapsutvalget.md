@@ -15,7 +15,7 @@ xml_hash: "d32ebcb4439a0c24ff7339adab7aae24855bc3ad264082fa815e55933cc7159e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,11 @@ Formålet med loven er å gi utvalg oppnevnt av Kongen i statsråd 12. oktober 2
 
 ## § 4. Taushetsplikt
 
-Bestemmelsene i [forvaltningsloven §§ 13](lov/1967-02-10/§13) til [13 f](lov/1967-02-10/§13f) om taushetsplikt gjelder for enhver som utfører tjeneste eller arbeid for utvalget, med følgende særregler:Taushetsplikten bortfaller etter 100 år.[Forvaltningsloven § 13 b](lov/1967-02-10/§13b) første ledd nr. 6 gjelder ikke.Hvis personer omfattet av denne paragrafen mottar opplysninger som er undergitt strengere taushetsplikt enn det som følger av [forvaltningsloven](lov/1967-02-10), skal de strengere reglene gjelde.
+Bestemmelsene i [forvaltningsloven §§ 13](lov/1967-02-10/§13) til [13 f](lov/1967-02-10/§13f) om taushetsplikt gjelder for enhver som utfører tjeneste eller arbeid for utvalget, med følgende særregler:
+
+1. Taushetsplikten bortfaller etter 100 år.
+2. [Forvaltningsloven § 13 b](lov/1967-02-10/§13b) første ledd nr. 6 gjelder ikke.
+3. Hvis personer omfattet av denne paragrafen mottar opplysninger som er undergitt strengere taushetsplikt enn det som følger av [forvaltningsloven](lov/1967-02-10), skal de strengere reglene gjelde.
 
 ## § 5. (Opphevet)
 

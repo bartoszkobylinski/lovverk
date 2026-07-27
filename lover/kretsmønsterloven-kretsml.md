@@ -15,7 +15,7 @@ xml_hash: "3e14985b9d81affec3f0268cc2f44b9d6db60ec06f6143ee90504516692333cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "31987L0054"
@@ -35,7 +35,11 @@ Vernet etter denne loven omfatter ikke de begreper, fremgangsmåter, systemer, t
 
 ## § 2. Enerettens omfang
 
-Enerett til et kretsmønster innebærer at rettighetshaveren har enerett til åettergjøre kretsmønsteret, herunder fremstille en integrert krets ved hjelp av kretsmønsteretutnytte kretsmønsteret – herunder en integrert krets fremstilt ved hjelp av kretsmønsteret – ervervsmessig ved salg, utleie, eller annen ervervsmessig spredning, eller ved å tilby det for slik spredningimportere kretsmønsteret – herunder en integrert krets som er fremstilt ved hjelp av kretsmønsteret – med sikte på ervervsmessig utnyttelse.
+Enerett til et kretsmønster innebærer at rettighetshaveren har enerett til å
+
+1. ettergjøre kretsmønsteret, herunder fremstille en integrert krets ved hjelp av kretsmønsteret
+2. utnytte kretsmønsteret – herunder en integrert krets fremstilt ved hjelp av kretsmønsteret – ervervsmessig ved salg, utleie, eller annen ervervsmessig spredning, eller ved å tilby det for slik spredning
+3. importere kretsmønsteret – herunder en integrert krets som er fremstilt ved hjelp av kretsmønsteret – med sikte på ervervsmessig utnyttelse.
 
 ## § 3. Avgrensning av eneretten
 
@@ -71,7 +75,13 @@ Den som har gjort inngrep i en annens rett etter denne loven, eller medvirket ti
 
 ## § 6. Vederlag og erstatning for inngrep
 
-For forsettlig eller uaktsomt inngrep i en annens rett etter denne loven skal inngriperen betale til rettighetshaveren:vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering,erstatning for skade som følge av inngrepet, ellervederlag svarende til vinningen som er oppnådd ved inngrepet.Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for rettighetshaveren.
+For forsettlig eller uaktsomt inngrep i en annens rett etter denne loven skal inngriperen betale til rettighetshaveren:
+
+1. vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering,
+2. erstatning for skade som følge av inngrepet, eller
+3. vederlag svarende til vinningen som er oppnådd ved inngrepet.
+
+Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for rettighetshaveren.
 
 Er det handlet forsettlig eller grovt uaktsomt skal inngriperen, dersom rettighetshaveren krever det, i stedet for vederlag og erstatning fastsatt etter første ledd betale vederlag svarende til det dobbelte av en rimelig lisensavgift for utnyttelsen.
 
@@ -93,7 +103,14 @@ Når helt særlige grunner foreligger kan retten, i stedet for å fastsette tilt
 
 ## § 8. Tiltak for å hindre inngrep
 
-For å hindre inngrep kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for eksemplarer av et kretsmønster som utgjør inngrep i en kretsmønsterrett og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slike eksemplarer. Slikt pålegg kan blant annet gå ut på at eksemplarer av kretsmønster og materialer og hjelpemidler skal:tilbakekalles fra handelen,definitivt fjernes fra handelen,ødelegges, ellerutleveres til rettighetshaveren.Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjeparts interesser.
+For å hindre inngrep kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for eksemplarer av et kretsmønster som utgjør inngrep i en kretsmønsterrett og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slike eksemplarer. Slikt pålegg kan blant annet gå ut på at eksemplarer av kretsmønster og materialer og hjelpemidler skal:
+
+1. tilbakekalles fra handelen,
+2. definitivt fjernes fra handelen,
+3. ødelegges, eller
+4. utleveres til rettighetshaveren.
+
+Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjeparts interesser.
 
 Første ledd gjelder tilsvarende i tilfeller som nevnt i [§ 5 a](lov/1990-06-15-27/§5a) annet punktum.
 
@@ -117,7 +134,14 @@ Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter elle
 
 ## § 10. Lovens virkeområde
 
-Denne loven kommer til anvendelse påkretsmønstre som er frembrakt av en person som er statsborger av eller bosatt i en stat i Det europeiske økonomiske samarbeidsområde, med mindre eneretten tilfaller eller går direkte over til arbeids- eller oppdragsgiver,kretsmønstre som er frembrakt i et arbeids- eller oppdragsforhold, når eneretten tilfaller eller går direkte over tilen fysisk person som er statsborger av eller bosatt i en stat i Det europeiske økonomiske samarbeidsområde, elleren juridisk person som driver ervervsvirksomhet innenfor Det europeiske økonomiske samarbeidsområde, ogkretsmønstre for øvrig når kretsmønsteret utnyttes ervervsmessig innenfor Det europeiske økonomiske samarbeidsområde før det har vært utnyttet ervervsmessig noe annet sted, og den som første gang utnytter det ervervsmessig innenfor Det europeiske økonomiske samarbeidsområde er en person eller et foretak som nevnt i nr 2 bokstav a og b som har fått enerett til å utnytte det ervervsmessig innenfor Det Europeiske økonomiske samarbeidsområde av den som har råderetten over kretsmønsteret.
+Denne loven kommer til anvendelse på
+
+1. kretsmønstre som er frembrakt av en person som er statsborger av eller bosatt i en stat i Det europeiske økonomiske samarbeidsområde, med mindre eneretten tilfaller eller går direkte over til arbeids- eller oppdragsgiver,
+2. kretsmønstre som er frembrakt i et arbeids- eller oppdragsforhold, når eneretten tilfaller eller går direkte over til
+
+   1. en fysisk person som er statsborger av eller bosatt i en stat i Det europeiske økonomiske samarbeidsområde, eller
+   2. en juridisk person som driver ervervsvirksomhet innenfor Det europeiske økonomiske samarbeidsområde, og
+3. kretsmønstre for øvrig når kretsmønsteret utnyttes ervervsmessig innenfor Det europeiske økonomiske samarbeidsområde før det har vært utnyttet ervervsmessig noe annet sted, og den som første gang utnytter det ervervsmessig innenfor Det europeiske økonomiske samarbeidsområde er en person eller et foretak som nevnt i nr 2 bokstav a og b som har fått enerett til å utnytte det ervervsmessig innenfor Det Europeiske økonomiske samarbeidsområde av den som har råderetten over kretsmønsteret.
 
 For første ledd nr 3 gjelder [§ 5](lov/1990-06-15-27/§5) tredje ledd tilsvarende.
 

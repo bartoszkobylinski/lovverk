@@ -15,7 +15,7 @@ xml_hash: "f8c18a94b3f6cad616a2f131e939be4e9cb4617aa7050715ab34a122bc38ed20"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,29 +30,77 @@ Dersom det ikke er samsvar mellom denne forskriften og rammeplanen for en utdann
 
 ## § 2. Definisjoner
 
-- *Lov*Med loven forstås [lov 1. april 2005 nr. 15](lov/2005-04-01-15) om universiteter og høyskoler (universitets- og høyskoleloven) (UH-loven).
-- *Student*Med student menes en person som er tatt opp til et fag eller studium gjennom studentopptak eller som har rett til å gå opp til eksamen i samsvar med lov om universiteter og høgskoler (universitets- og høyskoleloven) § 3-6 og § 3-7.
-- *Privatist*Med privatist menes en person som melder seg opp til eksamen etter bestemmelsene i lov om universiteter og høyskoler (universitets- og høyskoleloven) [§ 3-10](lov/2005-04-01-15/§3-10), uten at vedkommende er tatt opp som student i fag eller studium ved høgskolen.
-- *Studierett*Studierett har en person som er tatt opp til et studium gjennom studentopptak, har betalt studieavgift for gjeldende semester og er registrert som student ved høgskolen. Studieretten gir tilgang til organisert undervisning, veiledning (individuelt og gruppevis), praksis osv. i det studiet studenten er tatt opp i.
-- *Kandidat*Kandidat er en student som er oppmeldt til eksamen.
-- *Rammeplan*Rammeplan er en plan for studier der departementet har fastsatt nasjonale rammer for studieinnholdet.
-- *Fagplan*En fagplan er en betegnelse for en plan for den enkelte høgskole med nærmere beskrivelse av det faglige innholdet i studier som er regulert av rammeplan.Fagplanen angir tidspunkt for fastsettelse av planen, og angir gjeldende rammeplan som danner grunnlaget. Fagets navn i fagplanen skal samsvare med fagets navn i rammeplanen.
-- *Studieplan*En studieplan er konkretisering av høgskolens organisering av studier som ikke reguleres av en rammeplan, f. eks. en integrert studie (oahppu).
-- *Programplan*En programplan beskriver studieprogram for et flerårig studieløp. Et studieprogram. Studieprogrammet inneholder flere studieenheter som har egne studieplaner.
-- *Emne, fag eller studieenhet*Omfanget angis med studiepoeng med avsluttende vurdering.
-- *Emnegruppe*Kombinasjon av emner/studieenheter som gjennom en studie-/læreplan er definert til å utgjøre et samlet studietilbud.
-- *Pensum*Pensum er obligatoriske vitenskapelig litteratur som kandidaten skal mestre under eksamen.
-- *Studieprogram*Et eller flerårig samlet studium som resulterer i grad, og som kunngjøres som eget studietilbud.
-- *Grad*Med grad forstås et studium/utdanningsprogram med et visst omfang som gir rett til vitnemål.
-- *Eksamen*Eksamen er betegnelse som brukes på eksamen eller prøve når resultatet skal inngå på vitnemålet og innregnes i en karakter på vitnemålet.
-- *Utsatt eksamen*Utsatt eksamen er den eksamen som arrangeres for kandidater som har gyldig fravær (dokumentert sykemelding) ved ordinær eksamen.
-- *Kontinuasjonseksamen*Det tilbys kontinuasjonseksamen for kandidater som ikke har bestått ordinær eksamen.
-- *Ny eksamen*Ny eksamen tilbys kun i sammenheng med ordinær eksamen, så fremt høgskolen ikke har bestemt noe annet. Studenter har da adgang til å forbedre egne eksamensresultater (gjennomføre ny eksamen).
-- *Forprøve*Forprøve (f.eks. forprøve for testing av språkkunnskaper i samisk) der resultatet ikke kommer på vitnemålet, men som må være godkjent før en student kan tas inn som student på et studietilbud.
-- *Obligatorisk oppgaver/arbeidskrav*Gjennomføring og godkjenning av obligatoriske oppgaver/arbeidskrav slik det fremgår i fag- og studieplaner, og er en forutsetning for å kunne gå opp til eksamen/fullføre faget/studiet.
-- *Diploma Supplement*Diploma Supplement er et vitnemålstillegg som skal legge til rette for internasjonal forståelse av høgskolesystemet og den enkelte students utdanning. Diploma Supplement skal følge det originale vitnemålet og er bare gyldig sammen med dette.
-- *Sensor*Faglærer/fagansvarlig for tilbudet som vurderer kandidatens oppgaver. Sensor kan være en intern sensor (faglærer) eller en ekstern sensor.
-- *Sensorveiledning*Sensorveiledning skal minimum inneholde helhetlige vurderingskriterier og eventuelt faglige vurderingskriterier.
+- *Lov*
+
+  Med loven forstås [lov 1. april 2005 nr. 15](lov/2005-04-01-15) om universiteter og høyskoler (universitets- og høyskoleloven) (UH-loven).
+- *Student*
+
+  Med student menes en person som er tatt opp til et fag eller studium gjennom studentopptak eller som har rett til å gå opp til eksamen i samsvar med lov om universiteter og høgskoler (universitets- og høyskoleloven) § 3-6 og § 3-7.
+- *Privatist*
+
+  Med privatist menes en person som melder seg opp til eksamen etter bestemmelsene i lov om universiteter og høyskoler (universitets- og høyskoleloven) [§ 3-10](lov/2005-04-01-15/§3-10), uten at vedkommende er tatt opp som student i fag eller studium ved høgskolen.
+- *Studierett*
+
+  Studierett har en person som er tatt opp til et studium gjennom studentopptak, har betalt studieavgift for gjeldende semester og er registrert som student ved høgskolen. Studieretten gir tilgang til organisert undervisning, veiledning (individuelt og gruppevis), praksis osv. i det studiet studenten er tatt opp i.
+- *Kandidat*
+
+  Kandidat er en student som er oppmeldt til eksamen.
+- *Rammeplan*
+
+  Rammeplan er en plan for studier der departementet har fastsatt nasjonale rammer for studieinnholdet.
+- *Fagplan*
+
+  En fagplan er en betegnelse for en plan for den enkelte høgskole med nærmere beskrivelse av det faglige innholdet i studier som er regulert av rammeplan.
+
+  Fagplanen angir tidspunkt for fastsettelse av planen, og angir gjeldende rammeplan som danner grunnlaget. Fagets navn i fagplanen skal samsvare med fagets navn i rammeplanen.
+- *Studieplan*
+
+  En studieplan er konkretisering av høgskolens organisering av studier som ikke reguleres av en rammeplan, f. eks. en integrert studie (oahppu).
+- *Programplan*
+
+  En programplan beskriver studieprogram for et flerårig studieløp. Et studieprogram. Studieprogrammet inneholder flere studieenheter som har egne studieplaner.
+- *Emne, fag eller studieenhet*
+
+  Omfanget angis med studiepoeng med avsluttende vurdering.
+- *Emnegruppe*
+
+  Kombinasjon av emner/studieenheter som gjennom en studie-/læreplan er definert til å utgjøre et samlet studietilbud.
+- *Pensum*
+
+  Pensum er obligatoriske vitenskapelig litteratur som kandidaten skal mestre under eksamen.
+- *Studieprogram*
+
+  Et eller flerårig samlet studium som resulterer i grad, og som kunngjøres som eget studietilbud.
+- *Grad*
+
+  Med grad forstås et studium/utdanningsprogram med et visst omfang som gir rett til vitnemål.
+- *Eksamen*
+
+  Eksamen er betegnelse som brukes på eksamen eller prøve når resultatet skal inngå på vitnemålet og innregnes i en karakter på vitnemålet.
+- *Utsatt eksamen*
+
+  Utsatt eksamen er den eksamen som arrangeres for kandidater som har gyldig fravær (dokumentert sykemelding) ved ordinær eksamen.
+- *Kontinuasjonseksamen*
+
+  Det tilbys kontinuasjonseksamen for kandidater som ikke har bestått ordinær eksamen.
+- *Ny eksamen*
+
+  Ny eksamen tilbys kun i sammenheng med ordinær eksamen, så fremt høgskolen ikke har bestemt noe annet. Studenter har da adgang til å forbedre egne eksamensresultater (gjennomføre ny eksamen).
+- *Forprøve*
+
+  Forprøve (f.eks. forprøve for testing av språkkunnskaper i samisk) der resultatet ikke kommer på vitnemålet, men som må være godkjent før en student kan tas inn som student på et studietilbud.
+- *Obligatorisk oppgaver/arbeidskrav*
+
+  Gjennomføring og godkjenning av obligatoriske oppgaver/arbeidskrav slik det fremgår i fag- og studieplaner, og er en forutsetning for å kunne gå opp til eksamen/fullføre faget/studiet.
+- *Diploma Supplement*
+
+  Diploma Supplement er et vitnemålstillegg som skal legge til rette for internasjonal forståelse av høgskolesystemet og den enkelte students utdanning. Diploma Supplement skal følge det originale vitnemålet og er bare gyldig sammen med dette.
+- *Sensor*
+
+  Faglærer/fagansvarlig for tilbudet som vurderer kandidatens oppgaver. Sensor kan være en intern sensor (faglærer) eller en ekstern sensor.
+- *Sensorveiledning*
+
+  Sensorveiledning skal minimum inneholde helhetlige vurderingskriterier og eventuelt faglige vurderingskriterier.
 
 ## § 3. Fag-/studieplaner og pensum
 
@@ -68,9 +116,16 @@ Fag- og studieplaner skal godkjennes av styret for Samisk høgskole eller et ann
 
 3\. En student som ikke fullfører studiet eller et emne innenfor normert studietid, og det i mellomtiden er gjort vesentlige endringer i studie- eller fagplan, gjelder retten til å fullføre etter den påbegynte studie- og fagplan i ett år etter at endringen ble gjort gjeldende.
 
-4\. Studenten kan miste studieretten på et studium hun/han er tatt opp til i følgende tilfeller:Studenten har overskredet den fastsatte grensen for normert tid.Studenten har brukt opp sine forsøk til eksamen eller praksisperiode i henhold til ramme-, fag- eller studieplan eller etter denne forskrift.Studenten er ikke i permisjon og har ikke avlagt og bestått eksamen i løpet av siste studieår. Høgskolen fatter vedtak om tap av studierett. Vedtaket kan påklages.
+4\. Studenten kan miste studieretten på et studium hun/han er tatt opp til i følgende tilfeller:
 
-5\. Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekker seg fra studieprogrammetStudiet er fullført og vitnemål er utstedt.
+1. Studenten har overskredet den fastsatte grensen for normert tid.
+2. Studenten har brukt opp sine forsøk til eksamen eller praksisperiode i henhold til ramme-, fag- eller studieplan eller etter denne forskrift.
+3. Studenten er ikke i permisjon og har ikke avlagt og bestått eksamen i løpet av siste studieår. Høgskolen fatter vedtak om tap av studierett. Vedtaket kan påklages.
+
+5\. Studieretten opphører automatisk når:
+
+1. Studenten selv bekrefter at hun/han trekker seg fra studieprogrammet
+2. Studiet er fullført og vitnemål er utstedt.
 
 6\. Den som har mistet studieretten etter denne paragrafs nr. 4 a) og c), kan søke nytt opptak til studiet, og må da forholde seg til gjeldende fag-/studieplan.
 
@@ -92,7 +147,11 @@ Høgskolen kan innvilge søknad om permisjon ut over ett år for eksempel ved f�
 
 1\. Retten til å gå opp til eksamen gjelder etter lov om universiteter og høgskoler (universitets- og høyskoleloven) § 3-10. Den som har studierett, har eksamensrett, jf. § 4, og som ellers oppfyller fastsatte vilkår for gjennomføring av eksamen som inngår i faget/studieenheten.
 
-2\. Fag- og studieplaner skal beskrive obligatoriske arbeidskrav som skal være gjennomført og godkjent før en student kan gå opp til eksamen(er).Adgang til eksamen kan nektes etter denne paragraf, hvis kandidaten ikke har fulgt obligatorisk undervisning, eller gjennomført obligatorisk praksis og obligatoriske muntlige, skriftlige eller praktiske arbeidsoppgaver.Etter særskilt søknad kan en student få tilpasset obligatoriske arbeidsoppgaver etter de samme prinsippene som gjelder for [§ 17](forskrift/2011-02-15-460/§17) Eksamensgjennomføring etter særlige vilkår. Søknaden blir avgjort administrativt i samråd med faglig leder for studiet.
+2\. Fag- og studieplaner skal beskrive obligatoriske arbeidskrav som skal være gjennomført og godkjent før en student kan gå opp til eksamen(er).
+
+Adgang til eksamen kan nektes etter denne paragraf, hvis kandidaten ikke har fulgt obligatorisk undervisning, eller gjennomført obligatorisk praksis og obligatoriske muntlige, skriftlige eller praktiske arbeidsoppgaver.
+
+Etter særskilt søknad kan en student få tilpasset obligatoriske arbeidsoppgaver etter de samme prinsippene som gjelder for [§ 17](forskrift/2011-02-15-460/§17) Eksamensgjennomføring etter særlige vilkår. Søknaden blir avgjort administrativt i samråd med faglig leder for studiet.
 
 3\. Hvis en eksamen eller fag/studieenhet består av flere deleksamener, jf. [§ 6](forskrift/2011-02-15-460/§6), er ikke faget fullkomment før alle deleksamener er godkjent/bestått.
 
@@ -159,7 +218,10 @@ Hvis innlevering for hjemmeeksamen blir forsinket, kan studieadministrasjonen in
 
 ## § 14. Forbedre karakterer
 
-Det er adgang til å forbedre karakterer (gjennomføre eksamen på nytt).Dette kan bare gjøres når det arrangeres ordinær eksamen, hvis høgskolen ikke har bestemt noe annet.Kandidaten skal gjennomføre eksamen på bakgrunn av pensum og eksamensoppgaver som gjelder for ny eksamen, jf. også [§ 2](forskrift/2011-02-15-460/§2), nr. 8.
+Det er adgang til å forbedre karakterer (gjennomføre eksamen på nytt).
+
+1. Dette kan bare gjøres når det arrangeres ordinær eksamen, hvis høgskolen ikke har bestemt noe annet.
+2. Kandidaten skal gjennomføre eksamen på bakgrunn av pensum og eksamensoppgaver som gjelder for ny eksamen, jf. også [§ 2](forskrift/2011-02-15-460/§2), nr. 8.
 
 For denne paragrafen gjelder ordinære tidsfrister for oppmelding til eksamen.
 
@@ -167,7 +229,16 @@ For denne paragrafen gjelder ordinære tidsfrister for oppmelding til eksamen.
 
 1\. Omfang av eksamensform, prøver og arbeidsoppgaver skal fremgå i aktuelle fag- eller studieplaner.
 
-2\. Følgende eksamener kan være del av sluttvurderingen. Det kan benyttes kun en av disse eller en kombinasjon av flere:skriftlig individuell eksamen under tilsyn (skoleeksamen)muntlig individuell eksamen eller i gruppeskriftlig individuell hjemmeeksamen eller i gruppepraktiske øvelser og arbeider (praksis)framføringer//utstillinger individuelt eller i gruppeportefolie/mappevurdering – studenten velger selv obligatoriske og godkjente arbeider til framsyningsmappenarbeidsperm – alle obligatoriske og godkjente arbeidsoppgaver samlet i arbeidspermprosjektarbeid (semesteroppgave).
+2\. Følgende eksamener kan være del av sluttvurderingen. Det kan benyttes kun en av disse eller en kombinasjon av flere:
+
+- skriftlig individuell eksamen under tilsyn (skoleeksamen)
+- muntlig individuell eksamen eller i gruppe
+- skriftlig individuell hjemmeeksamen eller i gruppe
+- praktiske øvelser og arbeider (praksis)
+- framføringer//utstillinger individuelt eller i gruppe
+- portefolie/mappevurdering – studenten velger selv obligatoriske og godkjente arbeider til framsyningsmappen
+- arbeidsperm – alle obligatoriske og godkjente arbeidsoppgaver samlet i arbeidsperm
+- prosjektarbeid (semesteroppgave).
 
 ## § 16. Fritak for eksamen eller prøve
 
@@ -236,15 +307,42 @@ Nærmere spesifikasjon av vurderingskriteriene framgår av karaktersystemet ved 
 
 ## § 22. Sensorer, sensurordning og sensurfrist
 
-1\. Forsknings- og studiestyret fastsetter nærmere sensurordninger og oppnevner en eksamenskommisjon for eksamener og/eller deleksamener som innregnes som del av sluttkarakteren. Den som oppnevnes til sensor, påtar seg samtidig å være sensor ved kontinuasjonseksamen/utsatt eksamen. Reservesensor oppnevnes for eksamener med klagerett i medhold av UH-lovens § 3-9. Reserve-/klagesensor (2 stykker) oppnevnes samtidig med ordinære sensorer hvorav minimumskravet er at den ene skal være ekstern sensor.Sensorer oppnevnes slik:1. sensor – faglærer/fagansvarlig for studietilbudet2. sensor – intern sensor (faglærer) eller ekstern sensorReservesensor 1: ekstern sensorReservesensor 2: intern sensor eller ekstern sensorFor masteroppgaver oppnevnes sensorer slik:1. sensor – intern sensor2. sensor – ekstern sensorReservesensor 1: ekstern sensorReservesensor 2: intern sensor
+1\. Forsknings- og studiestyret fastsetter nærmere sensurordninger og oppnevner en eksamenskommisjon for eksamener og/eller deleksamener som innregnes som del av sluttkarakteren. Den som oppnevnes til sensor, påtar seg samtidig å være sensor ved kontinuasjonseksamen/utsatt eksamen. Reservesensor oppnevnes for eksamener med klagerett i medhold av UH-lovens § 3-9. Reserve-/klagesensor (2 stykker) oppnevnes samtidig med ordinære sensorer hvorav minimumskravet er at den ene skal være ekstern sensor.
 
-2\. Ekstern sensor skal ikke være ansatt ved Samisk høgskole. Ekstern sensor skal oppfylle minimum en av følgende kvalifikasjoner:Være ansatt på minimum høgskolelektornivå ved annen utdannings-/forskningsinstitusjon.På annen måte ha dokumentert vitenskapelig kompetanse på samme nivå.Ha erfaring som sensor i vedkommende fag/studium på universitets-/høgskolenivå.Gjennom yrkespraksis være særlig kvalifisert i vedkommende fagområde.
+Sensorer oppnevnes slik:
+
+- 1\. sensor – faglærer/fagansvarlig for studietilbudet
+- 2\. sensor – intern sensor (faglærer) eller ekstern sensor
+- Reservesensor 1: ekstern sensor
+- Reservesensor 2: intern sensor eller ekstern sensor
+
+For masteroppgaver oppnevnes sensorer slik:
+
+- 1\. sensor – intern sensor
+- 2\. sensor – ekstern sensor
+- Reservesensor 1: ekstern sensor
+- Reservesensor 2: intern sensor
+
+2\. Ekstern sensor skal ikke være ansatt ved Samisk høgskole. Ekstern sensor skal oppfylle minimum en av følgende kvalifikasjoner:
+
+1. Være ansatt på minimum høgskolelektornivå ved annen utdannings-/forskningsinstitusjon.
+2. På annen måte ha dokumentert vitenskapelig kompetanse på samme nivå.
+3. Ha erfaring som sensor i vedkommende fag/studium på universitets-/høgskolenivå.
+4. Gjennom yrkespraksis være særlig kvalifisert i vedkommende fagområde.
 
 3\. Bruk av ekstern sensor tilpasses vurderinger og deleksamener for det enkelte fag/studieenhet. Det skal være ekstern evaluering av vurderingen eller vurderingsordningene jf. UH-lovens § 3-9 nr. 1. Ekstern sensor bør være med i bedømmingen av noen deleksamener eller besvarelser fra noen av kandidatene eller fra alle kandidatene hver 3. gang det gis vurdering i faget/studieenheten.
 
-4\. Arbeidsfordeling for eksamenskommisjonen1. og 2. sensor evaluerer fag- og studieplanen, spesielt vurderingsform, studiets organisering og arbeidsmåter i faget.1.og 2. sensor godkjenner eksamensoppgavene i henhold til fag- og studieinnhold og gir rammer for vurderingen. Det fremsettes rapport til reservesensorer etter behov.1. og 2. sensor bedømmer kandidatenes eksamensbesvarelser. 2. sensor framlegger sensorrapport.Reservesensorer bedømmer eksamensbesvarelser hvis en kandidat har framsatt klage på resultatene på bakgrunn av Samisk høgskoles eksamensforskrifter og UH-lovens § 3-9 nr. 1. 1. Reservesensor framlegger sensorrapport fra klagesensuren.
+4\. Arbeidsfordeling for eksamenskommisjonen
 
-5\. SensurfristSensuren skal foreligge innen tre uker fra eksamensdato/innlevering av eksamensbesvarelse fra kandidaten, hvis sensurfristen ikke er utvidet av spesielle årsaker. For masteroppgaver er sensurfristen 6 uker.Hvis muntlig eksamen eller praktisk eksamen gjennomføres på et senere tidspunkt enn skriftlig eksamen og er tilknyttet denne, og kandidaten får «ikke bestått» på skriftlig eksamen, har ikke kandidaten adgang til å ta muntlig/praktisk eksamen.
+1. 1\. og 2. sensor evaluerer fag- og studieplanen, spesielt vurderingsform, studiets organisering og arbeidsmåter i faget.
+2. 1.og 2. sensor godkjenner eksamensoppgavene i henhold til fag- og studieinnhold og gir rammer for vurderingen. Det fremsettes rapport til reservesensorer etter behov.
+3. 1\. og 2. sensor bedømmer kandidatenes eksamensbesvarelser. 2. sensor framlegger sensorrapport.
+4. Reservesensorer bedømmer eksamensbesvarelser hvis en kandidat har framsatt klage på resultatene på bakgrunn av Samisk høgskoles eksamensforskrifter og UH-lovens § 3-9 nr. 1. 1. Reservesensor framlegger sensorrapport fra klagesensuren.
+
+5\. Sensurfrist
+
+1. Sensuren skal foreligge innen tre uker fra eksamensdato/innlevering av eksamensbesvarelse fra kandidaten, hvis sensurfristen ikke er utvidet av spesielle årsaker. For masteroppgaver er sensurfristen 6 uker.
+2. Hvis muntlig eksamen eller praktisk eksamen gjennomføres på et senere tidspunkt enn skriftlig eksamen og er tilknyttet denne, og kandidaten får «ikke bestått» på skriftlig eksamen, har ikke kandidaten adgang til å ta muntlig/praktisk eksamen.
 
 ## § 23. Klage for formelle feil ved eksamensavvikling
 
@@ -282,11 +380,27 @@ Nærmere spesifikasjon av vurderingskriteriene framgår av karaktersystemet ved 
 
 4\. Høgskolen krever inn en særskilt avgift for utstedelse av duplikatvitnemål. I spesielle tilfeller der det kan sannsynliggjøres eller dokumenteres at vitnemålet er mistet eller ødelagt, kan det utstedes et nytt vitnemål.
 
-5\. På vitnemålet skal det framgå:Logo og navn på institusjonHvilken grad som er fullført og navn på studieprogramMål og kompetanse for studietKandidatens navn og fødselsnummerStudiepoengTidspunkt for fullført utdanningKandidatens fritak for deler av studiet grunnet annen kompetanse og hvilken kompetanse som er grunnlaget for fritakNavn på større skriftlige oppgaverKaraktersystem/-skala.
+5\. På vitnemålet skal det framgå:
+
+1. Logo og navn på institusjon
+2. Hvilken grad som er fullført og navn på studieprogram
+3. Mål og kompetanse for studiet
+4. Kandidatens navn og fødselsnummer
+5. Studiepoeng
+6. Tidspunkt for fullført utdanning
+7. Kandidatens fritak for deler av studiet grunnet annen kompetanse og hvilken kompetanse som er grunnlaget for fritak
+8. Navn på større skriftlige oppgaver
+9. Karaktersystem/-skala.
 
 ## § 26. Lovverk/referanser
 
-Det vises til:[Lov 1. april 2005 nr. 15](lov/2005-04-01-15) om universiteter og høyskoler (universitets- og høyskoleloven)[Lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker (forvaltningsloven)[Lov 19. mai 2006 nr. 16](lov/2006-05-19-16) om rett til innsyn i dokument i offentleg verksemd (offentleglova)Nasjonale rammeplanerRiksarkivarens kassasjonsbestemmelser for universiteter og høgskoler datert 14. desember 1984.
+Det vises til:
+
+1. [Lov 1. april 2005 nr. 15](lov/2005-04-01-15) om universiteter og høyskoler (universitets- og høyskoleloven)
+2. [Lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker (forvaltningsloven)
+3. [Lov 19. mai 2006 nr. 16](lov/2006-05-19-16) om rett til innsyn i dokument i offentleg verksemd (offentleglova)
+4. Nasjonale rammeplaner
+5. Riksarkivarens kassasjonsbestemmelser for universiteter og høgskoler datert 14. desember 1984.
 
 ## § 27. Utfyllende forskrifter
 

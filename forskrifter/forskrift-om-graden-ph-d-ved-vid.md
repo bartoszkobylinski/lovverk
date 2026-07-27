@@ -15,7 +15,7 @@ xml_hash: "fe9ba5d20734041531b581d99fe2299c60cb995e4f59cdaaa2b7d83679aeae1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,12 @@ Ph.d.-utdanningen er normert til tre (3) års fulltidsstudier og inkluderer en o
 
 Ph.d.-utdanningens viktigste komponent er et selvstendig forskningsarbeid som gjennomføres under aktiv veiledning.
 
-Ph.d.-graden tildeles på grunnlag av:Godkjent vitenskapelig avhandlingGodkjent gjennomføring av kursdelen, eventuelt annen godkjent faglig skolering eller kompetanseGodkjent prøveforelesning over oppgitt emneGodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av:
+
+1. Godkjent vitenskapelig avhandling
+2. Godkjent gjennomføring av kursdelen, eventuelt annen godkjent faglig skolering eller kompetanse
+3. Godkjent prøveforelesning over oppgitt emne
+4. Godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 3. Ansvaret. for ph.d.-utdanningen
 
@@ -56,7 +61,21 @@ Ph.d.-utdanningen omfattes av høgskolens kvalitetssystem, jf. [§ 9](forskrift/
 
 For opptak til ph.d.-utdanningen må søkeren normalt ha minst femårig grunnutdanning, (dvs. minst mastergrad eller tilsvarende kompetanse), jamfør beskrivelsene i kvalifikasjonsrammeverkets andre syklus. Høgskolen kan etter særskilt vurdering godkjenne annen likeverdig utdanning som grunnlag for opptak. Det kan stilles krav om at søkere gjennomgår særskilte kurs og/eller består særskilt prøve før opptak.
 
-Søknaden bør inneholde:Dokumentasjon for den utdanning som skal ligge til grunn for opptaket.Prosjektbeskrivelse som omfatter:faglig redegjørelse for prosjektetframdriftfinansieringdokumentasjon av spesielle behov for faglige og materielle ressursereventuelle planer for opphold ved annen institusjonfaglig formidlingopplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.Plan for opplæringsdelen, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverket.Forslag på minst én veileder, samt angivelse av tilknytning til aktivt forskningsmiljø.Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan disse kan avklares.
+Søknaden bør inneholde:
+
+1. Dokumentasjon for den utdanning som skal ligge til grunn for opptaket.
+2. Prosjektbeskrivelse som omfatter:
+
+   1. faglig redegjørelse for prosjektet
+   2. framdrift
+   3. finansiering
+   4. dokumentasjon av spesielle behov for faglige og materielle ressurser
+   5. eventuelle planer for opphold ved annen institusjon
+   6. faglig formidling
+   7. opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
+3. Plan for opplæringsdelen, herunder opplæring som er rettet mot generell kompetanse i samsvar med kvalifikasjonsrammeverket.
+4. Forslag på minst én veileder, samt angivelse av tilknytning til aktivt forskningsmiljø.
+5. Redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser og hvordan disse kan avklares.
 
 Høgskolen fastsetter søknadsskjema og kan fastsette krav til ytterligere dokumentasjon.
 
@@ -76,7 +95,11 @@ Vedtak om opptak baseres på en samlet vurdering av søknaden. Ved utlyste rekru
 
 I vedtaket skal minst én veileder oppnevnes, ansvaret for håndtering av andre behov som er skissert i søknaden plasseres og avtaleperioden fastsettes med startdato og sluttdato. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker eller avklares spesielt i forhold til doktorgradsstudentens finansieringsgrunnlag.
 
-Opptak skal nektes om:Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen.De immaterialrettslige avtaler som er inngått er så urimelige at høgskolen ikke bør medvirke i prosjektet.Søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. [§ 5-1](forskrift/2015-12-11-1666/§5-1).
+Opptak skal nektes om:
+
+1. Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen.
+2. De immaterialrettslige avtaler som er inngått er så urimelige at høgskolen ikke bør medvirke i prosjektet.
+3. Søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. [§ 5-1](forskrift/2015-12-11-1666/§5-1).
 
 ### § 5-4. Avtaleperiode
 
@@ -104,7 +127,13 @@ Høgskolen kan vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid. Sl
 
 *1. Tvungen avslutning ved forsinkelse eller manglende fremdrift*
 
-Når ett eller flere av de følgende vilkårene er oppfylt, kan institusjonen vedta tvungen avslutning av ph.d.-utdanningen:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 9](forskrift/2015-12-11-1666/§9).Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.Tvungen avslutning etter reglene her kan bare vedtas dersom fremdriftssvikten eller forsinkelsen skyldes forhold som doktorgradsstudenten selv rår over.Vedtak om tvungen avslutning ved forsinkelse eller manglende framdrift fattes av høgskolen. Klage på vedtak behandles av høgskolens klagenemnd.
+Når ett eller flere av de følgende vilkårene er oppfylt, kan institusjonen vedta tvungen avslutning av ph.d.-utdanningen:
+
+- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.
+- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 9](forskrift/2015-12-11-1666/§9).
+- Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.
+- Tvungen avslutning etter reglene her kan bare vedtas dersom fremdriftssvikten eller forsinkelsen skyldes forhold som doktorgradsstudenten selv rår over.
+- Vedtak om tvungen avslutning ved forsinkelse eller manglende framdrift fattes av høgskolen. Klage på vedtak behandles av høgskolens klagenemnd.
 
 *2. Tvungen avslutning ved fusk på eksamen eller prøver underveis i ph.d.-utdanningen*
 
@@ -232,7 +261,10 @@ Høgskolen bestemmer hvilke språk som kan benyttes i en avhandling.
 
 ### § 10-2. Arbeider som ikke godtas
 
-Kravet om «ny faglig kunnskap» etter [§ 10-1 (2)](forskrift/2015-12-11-1666/§10-1/ledd/2) innebærer atArbeid eller deler av et arbeid som har vært godtatt som grunnlag for kandidatens tidligere avlagte eksamener, bedømmelser eller grader, kan ikke antas til bedømmelse. Data, analyser eller metoder fra tidligere grader kan imidlertid benyttes som del av grunnlag for arbeid med doktorgradsprosjektet.Deler av arbeid som har blitt godkjent som besvarelse eller andre aktiviteter i opplæringsdelen av ph.d.-graden, kan derimot inngå i avhandlingen i bearbeidet form.
+Kravet om «ny faglig kunnskap» etter [§ 10-1 (2)](forskrift/2015-12-11-1666/§10-1/ledd/2) innebærer at
+
+1. Arbeid eller deler av et arbeid som har vært godtatt som grunnlag for kandidatens tidligere avlagte eksamener, bedømmelser eller grader, kan ikke antas til bedømmelse. Data, analyser eller metoder fra tidligere grader kan imidlertid benyttes som del av grunnlag for arbeid med doktorgradsprosjektet.
+2. Deler av arbeid som har blitt godkjent som besvarelse eller andre aktiviteter i opplæringsdelen av ph.d.-graden, kan derimot inngå i avhandlingen i bearbeidet form.
 
 Det må legges inn henvisning ved bruk av tidligere arbeider. Henvisningene skal være i tråd med vitenskapelige standarder for det aktuelle fagområdet.
 
@@ -260,7 +292,12 @@ De deler av doktorgradsavhandlingen som doktorgradsstudenten alene har opphavsre
 
 ### § 12-1. Grunnlag for bedømmelse
 
-Ph.d.-graden tildeles på grunnlag av:Godkjent vitenskapelig avhandlingGodkjent gjennomføring av kursdelen, eventuelt annen godkjent faglig skolering eller kompetanseGodkjent prøveforelesning over oppgitt emneGodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av:
+
+1. Godkjent vitenskapelig avhandling
+2. Godkjent gjennomføring av kursdelen, eventuelt annen godkjent faglig skolering eller kompetanse
+3. Godkjent prøveforelesning over oppgitt emne
+4. Godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 12-2. Tidsbruk fra innlevering til disputas
 
@@ -274,7 +311,14 @@ Det er hovedveileders ansvar å gjøre oppmerksom på at innlevering er nært fo
 
 Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent. Søknaden rettes til høgskolen.
 
-Som vedlegg til søknaden skal følge:Avhandlingen i godkjent format, i den form (papirbasert, elektronisk) i den form som er bestemt og i tilstrekkelig antall eksemplarer, normalt fire (4).Dokumentasjon av fullført opplæringsdel.Dokumentasjon av nødvendige tillatelser, jf. [§ 5-1](forskrift/2015-12-11-1666/§5-1).Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 10-1](forskrift/2015-12-11-1666/§10-1).Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
+Som vedlegg til søknaden skal følge:
+
+1. Avhandlingen i godkjent format, i den form (papirbasert, elektronisk) i den form som er bestemt og i tilstrekkelig antall eksemplarer, normalt fire (4).
+2. Dokumentasjon av fullført opplæringsdel.
+3. Dokumentasjon av nødvendige tillatelser, jf. [§ 5-1](forskrift/2015-12-11-1666/§5-1).
+4. Medforfattererklæringer hvor dette er påkrevd i henhold til [§ 10-1](forskrift/2015-12-11-1666/§10-1).
+5. Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.
+6. Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.
 
 Søknad om å få avhandlingen bedømt kan avvises dersom det er åpenbart at avhandlingen ikke holder høy nok vitenskapelig kvalitet og vil bli underkjent av en komité.
 
@@ -290,7 +334,13 @@ Når søknad om å få avhandlingen bedømt er godkjent, oppnevner høgskolen en
 
 Komiteens sammensetning bør normalt være klarlagt ved innleveringstidspunkt.
 
-Bedømmelseskomiteen skal normalt settes sammen slik at:Begge kjønn er representertMinst to av medlemmene er uten tilknytning til VID vitenskapelige høgskoleMinst ett av medlemmene ikke har hovedstilling ved norske institusjonerAlle medlemmene har doktorgrad eller tilsvarende kompetanseFlertallet i bedømmelseskomiteen er eksterne medlemmer.
+Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+1. Begge kjønn er representert
+2. Minst to av medlemmene er uten tilknytning til VID vitenskapelige høgskole
+3. Minst ett av medlemmene ikke har hovedstilling ved norske institusjoner
+4. Alle medlemmene har doktorgrad eller tilsvarende kompetanse
+5. Flertallet i bedømmelseskomiteen er eksterne medlemmer.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt.
 
@@ -488,4 +538,7 @@ Rektor fastsetter retningslinjer og utfyllende bestemmelser til denne forskrifte
 
 ### § 26. Ikrafttredelse
 
-Denne forskriften trer i kraft 1. januar 2016 og opphever følgende tidligere forskrifter:[Forskrift 27. august 2011 nr. 1547](forskrift/2011-08-27-1547) om graden philosophiae doctor (ph.d.) ved Diakonhjemmet Høgskole.[Forskrift 25. april 2014 nr. 953](forskrift/2014-04-25-953) for graden philosophiae doctor (ph.d.) ved Misjonshøgskolen.
+Denne forskriften trer i kraft 1. januar 2016 og opphever følgende tidligere forskrifter:
+
+- [Forskrift 27. august 2011 nr. 1547](forskrift/2011-08-27-1547) om graden philosophiae doctor (ph.d.) ved Diakonhjemmet Høgskole.
+- [Forskrift 25. april 2014 nr. 953](forskrift/2014-04-25-953) for graden philosophiae doctor (ph.d.) ved Misjonshøgskolen.

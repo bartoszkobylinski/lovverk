@@ -72,7 +72,10 @@ Teiner som benyttes til høsting av hummer skal røktes minst en gang per uke.
 
 ## § 8. Fredningstid for hummer
 
-Det er kun tillatt å sette ut teiner til høsting av hummer i følgende områder og tidsrom:Fra grensen mot Sverige til og med Vestland fylke fra 1. oktober kl. 08.00 til og med 30. november.I resten av landet fra 1. oktober kl. 08.00 til og med 31. desember.
+Det er kun tillatt å sette ut teiner til høsting av hummer i følgende områder og tidsrom:
+
+1. Fra grensen mot Sverige til og med Vestland fylke fra 1. oktober kl. 08.00 til og med 30. november.
+2. I resten av landet fra 1. oktober kl. 08.00 til og med 31. desember.
 
 ## § 9. Minstemål
 

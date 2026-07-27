@@ -15,7 +15,7 @@ xml_hash: "65e90a169f339acc7747876541b18cf20591dc392966ea723d17319181a55e19"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,29 @@ Forskriften gir regler om metoder for beregning av tillatte og faktiske inntekte
 
 ### § 1-3. Definisjoner
 
-I denne forskrift menes med:*Avkastning:* Nettresultat sett i forhold til avkastningsgrunnlaget. Nettresultatet er gitt ved årlige regulerte inntekter for eget nett justert for avskrevet mindreinntekt fratrukket regulerte kostnader, jf. [§ 3-1 første ledd bokstav a](forskrift/2025-01-14-50/§3-1/ledd/1/bokstav/a) og [b](forskrift/2025-01-14-50/§3-1/ledd/1/bokstav/b), i eget nett.*Avkastningsgrunnlag:* Gjennomsnittet av inngående og utgående bokført verdi for investert nettkapital, tillagt 1 prosent for netto arbeidskapital.*Bokført verdi:* Bokført verdi for driftsmidler fremkommer som brutto førstegangs historisk anskaffelseskostnad fratrukket akkumulerte avskrivninger, nedskrivninger og eventuelle tilskudd. Anlegg under utførelse inngår ikke i anskaffelseskostnad før anlegget er aktivert.*Distribusjonsnett:* Overføringsnett med nominell spenning opp til og med 22 kV, med mindre annet er bestemt.*Investert nettkapital:* Investert nettkapital er gitt ved førstegangs historisk anskaffelseskostnad for anlegg tilhørende distribusjonsnett, jf. bokstav d, regionalnett, jf. bokstav k, og transmisjonsnett, jf. bokstav m. Andel av felles driftsmidler er inkludert.*Kapitalgrunnlag:* Bokført verdi, jf. bokstav c, på investert nettkapital per 31. desember, tillagt 1 prosent for netto arbeidskapital.*Konsesjonær:* Innehaver av omsetningskonsesjon.*Kundegruppe:* En avgrenset gruppe av sluttbrukere, avgrenset ut ifra likheter i brukstid, leveringskvalitet og forbruksnivå.*Nettselskap:* Konsesjonær som eier overføringsnett eller har ansvar for nettjenester.*Nettjenester:* Omfatter en eller flere av følgende:overføring av kraft, herunder drift, vedlikehold og investering i nettanleggtarifferingmåling, avregning og kundehåndteringtilsyn og sikkerhetdriftskoordineringpålagte beredskapstiltakpålagt energiutredning.*Regionalnett:* Overføringsnett mellom transmisjonsnett og distribusjonsnett.*Tariffer:* Med tariffer forstås alle priser og annen økonomisk godtgjørelse som konsesjonæren fastsetter for tilknytning til og bruk av elektriske nettanlegg.*Transmisjonsnett:* Anlegg i overføringsnettet definert etter [energiloven § 1-5](lov/1990-06-29-50/§1-5).
+I denne forskrift menes med:
+
+1. *Avkastning:* Nettresultat sett i forhold til avkastningsgrunnlaget. Nettresultatet er gitt ved årlige regulerte inntekter for eget nett justert for avskrevet mindreinntekt fratrukket regulerte kostnader, jf. [§ 3-1 første ledd bokstav a](forskrift/2025-01-14-50/§3-1/ledd/1/bokstav/a) og [b](forskrift/2025-01-14-50/§3-1/ledd/1/bokstav/b), i eget nett.
+2. *Avkastningsgrunnlag:* Gjennomsnittet av inngående og utgående bokført verdi for investert nettkapital, tillagt 1 prosent for netto arbeidskapital.
+3. *Bokført verdi:* Bokført verdi for driftsmidler fremkommer som brutto førstegangs historisk anskaffelseskostnad fratrukket akkumulerte avskrivninger, nedskrivninger og eventuelle tilskudd. Anlegg under utførelse inngår ikke i anskaffelseskostnad før anlegget er aktivert.
+4. *Distribusjonsnett:* Overføringsnett med nominell spenning opp til og med 22 kV, med mindre annet er bestemt.
+5. *Investert nettkapital:* Investert nettkapital er gitt ved førstegangs historisk anskaffelseskostnad for anlegg tilhørende distribusjonsnett, jf. bokstav d, regionalnett, jf. bokstav k, og transmisjonsnett, jf. bokstav m. Andel av felles driftsmidler er inkludert.
+6. *Kapitalgrunnlag:* Bokført verdi, jf. bokstav c, på investert nettkapital per 31. desember, tillagt 1 prosent for netto arbeidskapital.
+7. *Konsesjonær:* Innehaver av omsetningskonsesjon.
+8. *Kundegruppe:* En avgrenset gruppe av sluttbrukere, avgrenset ut ifra likheter i brukstid, leveringskvalitet og forbruksnivå.
+9. *Nettselskap:* Konsesjonær som eier overføringsnett eller har ansvar for nettjenester.
+10. *Nettjenester:* Omfatter en eller flere av følgende:
+
+    1. overføring av kraft, herunder drift, vedlikehold og investering i nettanlegg
+    2. tariffering
+    3. måling, avregning og kundehåndtering
+    4. tilsyn og sikkerhet
+    5. driftskoordinering
+    6. pålagte beredskapstiltak
+    7. pålagt energiutredning.
+11. *Regionalnett:* Overføringsnett mellom transmisjonsnett og distribusjonsnett.
+12. *Tariffer:* Med tariffer forstås alle priser og annen økonomisk godtgjørelse som konsesjonæren fastsetter for tilknytning til og bruk av elektriske nettanlegg.
+13. *Transmisjonsnett:* Anlegg i overføringsnettet definert etter [energiloven § 1-5](lov/1990-06-29-50/§1-5).
 
 ## Kapittel 2. Generelt om inntekter for nettvirksomheten
 
@@ -54,7 +76,12 @@ For fastsettelse av årlig inntektsramme for systemansvarlig gjelder særskilte 
 
 ### § 2-3. Tillegg til årlig inntektsramme
 
-Følgende kostnader skal dekkes inn som et tillegg til årlig inntektsramme:Kostnader ved kjøp av nettjenester fra andre nettselskaper, og kostnader ved leie av andre nettselskap sine anlegg med inntektsramme.Innbetalt eiendomsskatt.Endringer i avskrivninger og i avkastning som følge av endret kapitalgrunnlag i forhold til verdiene som inngår i kostnadsgrunnlaget, jf. [§ 3-1](forskrift/2025-01-14-50/§3-1). Dersom endringene er negative skal de trekkes fra årlig inntektsramme.Gebyrer nettselskapet er pålagt å betale Elhub.
+Følgende kostnader skal dekkes inn som et tillegg til årlig inntektsramme:
+
+1. Kostnader ved kjøp av nettjenester fra andre nettselskaper, og kostnader ved leie av andre nettselskap sine anlegg med inntektsramme.
+2. Innbetalt eiendomsskatt.
+3. Endringer i avskrivninger og i avkastning som følge av endret kapitalgrunnlag i forhold til verdiene som inngår i kostnadsgrunnlaget, jf. [§ 3-1](forskrift/2025-01-14-50/§3-1). Dersom endringene er negative skal de trekkes fra årlig inntektsramme.
+4. Gebyrer nettselskapet er pålagt å betale Elhub.
 
 Kostnader ved spesifikke FoU-prosjekter som på forhånd er godkjent av Reguleringsmyndigheten for energi kan dekkes inn som et tillegg til årlig inntektsramme. Tillegget kan ikke overstige 0,3 prosent av nettselskapets kapitalgrunnlag i det aktuelle år.
 
@@ -66,7 +93,11 @@ Tariffene skal beregnes slik at nettvirksomhetens faktiske inntekt over tid ikke
 
 Enhver betaling som avkreves en kunde som følge av vilkår satt av nettselskapet, og hvor nettselskapet kan stå i en form for monopolsituasjon, er å regne som faktisk inntekt for nettvirksomheten, jf. første ledd.
 
-Unntatt fra faktisk inntekt er:anleggsbidrag, jf. [forskrift 11. mars 1999 nr. 302 om tariffer og rapporteringsplikt for omsetningskonsesjonærer kapittel 16](forskrift/1999-03-11-302/kap16)betaling for andre nettjenester, jf. [forskrift 11. mars 1999 nr. 302 om tariffer og rapporteringsplikt for omsetningskonsesjonærer § 17-4](forskrift/1999-03-11-302/§17-4), hvor utgiften er av en slik art at den ville vært ført i årsregnskapets balanse dersom den var egenfinansiert fremfor bidragsfinansiertbetaling for andre nettjenester, jf. [forskrift 11. mars 1999 nr. 302 om tariffer og rapporteringsplikt for omsetningskonsesjonærer § 17-4](forskrift/1999-03-11-302/§17-4), og som gjelder nettjenester som nettselskapet ikke plikter å levere som følge av at det innehar konsesjoner etter [energiloven](lov/1990-06-29-50).
+Unntatt fra faktisk inntekt er:
+
+1. anleggsbidrag, jf. [forskrift 11. mars 1999 nr. 302 om tariffer og rapporteringsplikt for omsetningskonsesjonærer kapittel 16](forskrift/1999-03-11-302/kap16)
+2. betaling for andre nettjenester, jf. [forskrift 11. mars 1999 nr. 302 om tariffer og rapporteringsplikt for omsetningskonsesjonærer § 17-4](forskrift/1999-03-11-302/§17-4), hvor utgiften er av en slik art at den ville vært ført i årsregnskapets balanse dersom den var egenfinansiert fremfor bidragsfinansiert
+3. betaling for andre nettjenester, jf. [forskrift 11. mars 1999 nr. 302 om tariffer og rapporteringsplikt for omsetningskonsesjonærer § 17-4](forskrift/1999-03-11-302/§17-4), og som gjelder nettjenester som nettselskapet ikke plikter å levere som følge av at det innehar konsesjoner etter [energiloven](lov/1990-06-29-50).
 
 Dersom betaling for nettjenester, etter tredje ledd bokstav c, medfører at nettselskapets tillatte inntekter øker, skal nåverdien av fremtidige inntektsøkninger trekkes fra det som holdes utenfor tillatt inntekt. Inntekter og kostnader forbundet med dette unntaket skal fremkomme i rapporteringen til Reguleringsmyndigheten for energi.
 
@@ -110,7 +141,13 @@ Nettvirksomheten plikter å se til at fordelingen av tillatt inntekt for eget ne
 
 ### § 3-1. Kostnadsgrunnlag
 
-Kostnadsgrunnlaget for det aktuelle år fastsettes med utgangspunkt i følgende innrapporterte verdier for regnskapsåret to år tilbake i tid:drifts- og vedlikeholdskostnader,avskrivninger på investert nettkapital,kapitalgrunnlaget, jf. [§ 1-3 bokstav f](forskrift/2025-01-14-50/§1-3/bokstav/f),nettap i MWh,KILE-beløp, jf. [§ 4-1](forskrift/2025-01-14-50/§4-1).
+Kostnadsgrunnlaget for det aktuelle år fastsettes med utgangspunkt i følgende innrapporterte verdier for regnskapsåret to år tilbake i tid:
+
+1. drifts- og vedlikeholdskostnader,
+2. avskrivninger på investert nettkapital,
+3. kapitalgrunnlaget, jf. [§ 1-3 bokstav f](forskrift/2025-01-14-50/§1-3/bokstav/f),
+4. nettap i MWh,
+5. KILE-beløp, jf. [§ 4-1](forskrift/2025-01-14-50/§4-1).
 
 Verdiene i første ledd bokstav a og e skal inflasjonsjusteres.
 
@@ -128,7 +165,18 @@ Ved fastsettelse av kostnadsnormen skal det i størst mulig utstrekning tas hens
 
 ### § 3-3. Referanserente
 
-Reguleringsmyndigheten for energi skal ved fastsettelsen av årlig inntektsramme benytte en referanserente som fremkommer ved: $$r = (1 - G) \\cdot [\\frac{Rf + Infl + β_{e} \\cdot MP}{1 - s}] + G \\cdot (Swap + KP)$$*G:* Fast gjeldsandel fastsatt til 60 prosent*Rf:* Fast nøytral realrente fastsatt til 1,5 prosent*Infl:* Årlig justering for inflasjon beregnet som gjennomsnittet av de to siste årenes faktiske inflasjon basert på KPI og anslag for inflasjon de to neste årene. Alle tall publisert av SSB. Dersom beregnet gjennomsnitt er negativt settes det til*βe:* Egenkapitalbeta fastsatt til 0,875*MP:* Fast markedspremie fastsatt til 5 prosent*Swap:* Årlig gjennomsnitt av 5-årig swaprente*KP:* Årlig gjennomsnittlig bransjespesifikk kredittrisikopremie, som fremkommer av spreaden mellom 5-årige kraftobligasjoner og 5-årige swaprenter for kraftselskap med god kredittkvalitet*s:* Skattesats lik gjeldende skattesats for nettselskaper.
+Reguleringsmyndigheten for energi skal ved fastsettelsen av årlig inntektsramme benytte en referanserente som fremkommer ved:
+
+$$r = (1 - G) \\cdot [\\frac{Rf + Infl + β_{e} \\cdot MP}{1 - s}] + G \\cdot (Swap + KP)$$
+
+- *G:* Fast gjeldsandel fastsatt til 60 prosent
+- *Rf:* Fast nøytral realrente fastsatt til 1,5 prosent
+- *Infl:* Årlig justering for inflasjon beregnet som gjennomsnittet av de to siste årenes faktiske inflasjon basert på KPI og anslag for inflasjon de to neste årene. Alle tall publisert av SSB. Dersom beregnet gjennomsnitt er negativt settes det til
+- *βe:* Egenkapitalbeta fastsatt til 0,875
+- *MP:* Fast markedspremie fastsatt til 5 prosent
+- *Swap:* Årlig gjennomsnitt av 5-årig swaprente
+- *KP:* Årlig gjennomsnittlig bransjespesifikk kredittrisikopremie, som fremkommer av spreaden mellom 5-årige kraftobligasjoner og 5-årige swaprenter for kraftselskap med god kredittkvalitet
+- *s:* Skattesats lik gjeldende skattesats for nettselskaper.
 
 ### § 3-4. Referansepris på kraft
 
@@ -140,7 +188,10 @@ Som grunnlag for vekt benyttes månedlig brutto forbruk for alminnelig forsyning
 
 ### § 3-5. Fastsettelse av årlig inntektsramme for eget nett
 
-Ved fastsettelse av årlig inntektsramme skal 30 prosent av kostnadsgrunnlaget inngå i beregningen, når det er tatt hensyn til:Fastsatt referanserente jf. [§ 3-3](forskrift/2025-01-14-50/§3-3) ogreferanseprisen på kraft jf. [§ 3-4](forskrift/2025-01-14-50/§3-4).
+Ved fastsettelse av årlig inntektsramme skal 30 prosent av kostnadsgrunnlaget inngå i beregningen, når det er tatt hensyn til:
+
+1. Fastsatt referanserente jf. [§ 3-3](forskrift/2025-01-14-50/§3-3) og
+2. referanseprisen på kraft jf. [§ 3-4](forskrift/2025-01-14-50/§3-4).
 
 Ved fastsettelsen av årlig inntektsramme skal 70 prosent av kostnadsnormen inngå i beregningen.
 
@@ -186,7 +237,21 @@ Referansetidspunktene for de respektive kundegruppene er:
 | --- | --- | --- | --- | --- | --- |
 | Torsdag i januar kl. 06:00 | Hverdag i januar kl. 17:00 | Hverdag i januar kl. 10:00 | Hverdag i januar kl. 10:00 | Hverdag i januar kl. 10:00 | Hverdag i januar kl. 10:00 |
 
-Kostnaden (Kj) for et vilkårlig avbrudd på tidspunkt j, skal beregnes som:Kj = kP,ref · fK,m · fK,d · fK,h · PrefderKj = kostnad i kr for avbrudd på tidspunkt jderPref = avbrutt effekt i rapporteringspunktet dersom tilsvarende avbrudd hadde skjedd på referansetidspunktet (kWh/h), se annet leddkP,ref = spesifikk avbruddskostnad (i kr/kW) på referansetidspunktet for en gitt varighet, se første leddfK,m = korreksjonsfaktor for avbruddskostnad (i kr) i måned m, se fjerde leddfK,d = korreksjonsfaktor for avbruddskostnad (i kr) på dag d, se femte leddfK,h = korreksjonsfaktor for avbruddskostnad (i kr) i time h, se sjette ledd.
+Kostnaden (Kj) for et vilkårlig avbrudd på tidspunkt j, skal beregnes som:
+
+- Kj = kP,ref · fK,m · fK,d · fK,h · Pref
+
+der
+
+- Kj = kostnad i kr for avbrudd på tidspunkt j
+
+der
+
+- Pref = avbrutt effekt i rapporteringspunktet dersom tilsvarende avbrudd hadde skjedd på referansetidspunktet (kWh/h), se annet ledd
+- kP,ref = spesifikk avbruddskostnad (i kr/kW) på referansetidspunktet for en gitt varighet, se første ledd
+- fK,m = korreksjonsfaktor for avbruddskostnad (i kr) i måned m, se fjerde ledd
+- fK,d = korreksjonsfaktor for avbruddskostnad (i kr) på dag d, se femte ledd
+- fK,h = korreksjonsfaktor for avbruddskostnad (i kr) i time h, se sjette ledd.
 
 Korreksjonsfaktoren fK,m er gitt ved følgende verdier for ulike kundegrupper for ulike måneder:
 
@@ -250,7 +315,11 @@ Dersom nettselskap har inngått avtale om individuelle avbruddssatser for utbeta
 
 ### § 4-3. Individuelle avtaler om direkte utbetaling
 
-Konsesjonær kan inngå avtale med sluttbruker om utbetaling av avbruddskostnader for avbrudd som omfattes av [§ 4-1](forskrift/2025-01-14-50/§4-1). For at en slik avtale skal være gyldig må følgende vilkår være oppfylt:Avtalen skal være skriftlig og inngått før avbrudd finner sted.Det skal avtales en avbruddssats i kr per kW eller kr per kWh for ulike avbruddsvarigheter for henholdsvis varslet og ikke varslet avbrudd. Avbruddssatsen skal beregnes på bakgrunn av informasjon om sluttbrukerens forventede kostnader ved ulike avbruddsvarigheter og ulike tidspunkt avbruddet inntreffer. Det skal fremgå hvilke forutsetninger beregningen av satsene bygger på.Hvert målepunkt som omfattes av avtalen må ha et forventet årlig energiuttak større enn 400 000 kWh.
+Konsesjonær kan inngå avtale med sluttbruker om utbetaling av avbruddskostnader for avbrudd som omfattes av [§ 4-1](forskrift/2025-01-14-50/§4-1). For at en slik avtale skal være gyldig må følgende vilkår være oppfylt:
+
+1. Avtalen skal være skriftlig og inngått før avbrudd finner sted.
+2. Det skal avtales en avbruddssats i kr per kW eller kr per kWh for ulike avbruddsvarigheter for henholdsvis varslet og ikke varslet avbrudd. Avbruddssatsen skal beregnes på bakgrunn av informasjon om sluttbrukerens forventede kostnader ved ulike avbruddsvarigheter og ulike tidspunkt avbruddet inntreffer. Det skal fremgå hvilke forutsetninger beregningen av satsene bygger på.
+3. Hvert målepunkt som omfattes av avtalen må ha et forventet årlig energiuttak større enn 400 000 kWh.
 
 Ved avbrudd skal konsesjonæren betale sluttbrukeren et beløp som tilsvarer den avtalte sats multiplisert med beregnet mengde avbrutt effekt eller ikke levert energi.
 
@@ -262,7 +331,10 @@ Dersom vilkårene i første ledd ikke er oppfylt, kommer [§ 4-2](forskrift/2025
 
 Husholdninger og fritidsboliger skal få utbetalt en kompensasjon når de har hatt avbrudd som varer i mer enn 12 timer.
 
-Kompensasjonen per målepunkt er:for husholdninger: 500 kroner ved avbrudd på 12 timer og deretter en sats på 40 kroner per time,for fritidsboliger: 125 kroner ved avbrudd på 12 timer og deretter en sats på 10 kroner per time.
+Kompensasjonen per målepunkt er:
+
+1. for husholdninger: 500 kroner ved avbrudd på 12 timer og deretter en sats på 40 kroner per time,
+2. for fritidsboliger: 125 kroner ved avbrudd på 12 timer og deretter en sats på 10 kroner per time.
 
 Et samlet årlig krav kan ikke overstige forventet innbetalt nettleie for inneværende år. Forventet innbetalt nettleie er forventet årsforbruk i kWh multiplisert med gjeldende sats for energileddet i tillegg til fastleddet.
 

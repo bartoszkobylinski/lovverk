@@ -23,7 +23,15 @@ eu_basis: []
 # Delvis ikrafttredelse av lov 10. desember 2004 nr. 81 om endringer i lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) og enkelte andre lover (gjennomføring av EØS-regler om anvendelse av internasjonale regnskapsstandarder m.m.).
 
 1. ---
-2. [Lov 10. desember 2004 nr. 81](lov/2004-12-10-81) om endringer i [lov 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap m.v. (regnskapsloven) og enkelte andre lover (gjennomføring av EØS-regler om anvendelse av internasjonale regnskapsstandarder m.m.) del I (regnskapsloven) endrede [§ 1-5](lov/1998-07-17-56/§1-5) og [§ 1-6](lov/1998-07-17-56/§1-6) trer i kraft straks med virkning for regnskapsår påbegynt 1. januar 2004 eller senere.Lovvedtaket del I (regnskapsloven) endrede og nye § 3-1, § 3-2, § 3-2a, § 3-3, § 3-3a, § 5-9a, § 7-1 og § 7-11a trer i kraft 1. januar 2005 med virkning for regnskapsår påbegynt 1. januar 2005 eller senere.Lovvedtaket del I (regnskapsloven) § 3-9 første og annet ledd trer i kraft straks. Fjerde ledd første punktum trer i kraft 1. januar 2005 med virkning for regnskapsår påbegynt 1. januar 2005 eller senere. Vedtaket tredje ledd og fjerde ledd annet punktum trer i kraft 1. januar 2006 med virkning for regnskapsår påbegynt 1. januar 2005 eller senere.Lovvedtaket del II til VIII trer i kraft 1. januar 2005.Lovvedtaket del IX nr. 2 trer i kraft 1. november 2005.
+2. [Lov 10. desember 2004 nr. 81](lov/2004-12-10-81) om endringer i [lov 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap m.v. (regnskapsloven) og enkelte andre lover (gjennomføring av EØS-regler om anvendelse av internasjonale regnskapsstandarder m.m.) del I (regnskapsloven) endrede [§ 1-5](lov/1998-07-17-56/§1-5) og [§ 1-6](lov/1998-07-17-56/§1-6) trer i kraft straks med virkning for regnskapsår påbegynt 1. januar 2004 eller senere.
+
+   Lovvedtaket del I (regnskapsloven) endrede og nye § 3-1, § 3-2, § 3-2a, § 3-3, § 3-3a, § 5-9a, § 7-1 og § 7-11a trer i kraft 1. januar 2005 med virkning for regnskapsår påbegynt 1. januar 2005 eller senere.
+
+   Lovvedtaket del I (regnskapsloven) § 3-9 første og annet ledd trer i kraft straks. Fjerde ledd første punktum trer i kraft 1. januar 2005 med virkning for regnskapsår påbegynt 1. januar 2005 eller senere. Vedtaket tredje ledd og fjerde ledd annet punktum trer i kraft 1. januar 2006 med virkning for regnskapsår påbegynt 1. januar 2005 eller senere.
+
+   Lovvedtaket del II til VIII trer i kraft 1. januar 2005.
+
+   Lovvedtaket del IX nr. 2 trer i kraft 1. november 2005.
 3. Kongens myndighet etter lovvedtaket del IX nr. 1 og nr. 2 annet ledd (ikrafttredelse og overgangsbestemmelser) delegeres til Finansdepartementet.
 4. Med departementet menes Finansdepartementet i lovvedtaket del I (regnskapsloven) § 3-9 annet ledd, del V (aksjeloven) § 3-6 tredje ledd, del VI (allmennaksjeloven) § 3-6 tredje ledd, del VII (verdipapirhandelloven) § 12-1 tredje ledd, § 12-2 åttende ledd og § 12-7 første til fjerde ledd, del VIII (revisorloven) § 9-2a første til fjerde ledd.
 

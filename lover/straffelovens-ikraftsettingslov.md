@@ -15,7 +15,7 @@ xml_hash: "0ce6a870d023f22ef8ae5fdd078493811f66dd337c93e5c8de523c8258c9d5d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,16 @@ I [lov 20. mai 2005 nr. 28](lov/2005-05-20-28) om straff skal [§ 411](lov/2005-
 
 ## § 2. Opphevelse av andre lover
 
-Med virkning fra den tid straffeloven 2005 trer i kraft1 oppheves følgende lover:[lov 18. august 1914 nr. 3](lov/1914-08-18-3) om forsvarshemmeligheter[lov 25. juni 1926 nr. 4](lov/1926-06-25-4) om straff for å delta i og medvirke til smugling på andre land[lov 17. juni 1932 nr. 2](lov/1932-06-17-2) om enkelte bestemmelser om fremmede konsulers rettsstilling[lov 19. mars 1937 nr. 1](lov/1937-03-19-1) angående forholdsregler for å hindre deltagelse i krig i fremmed land[lov 13. mai 1937 nr. 1](lov/1937-05-13-1) om forbud mot å bære uniform m.v.[lov 15. desember 1995 nr. 74](lov/1995-12-15-74) om forbud mot kjønnslemlestelse[lov 29. juni 2007 nr. 83](lov/2007-06-29-83) om endringer i straffegjennomføringsloven og straffeloven (opplysningsplikt, vandelskrav og varsel til fornærmede mv.)[lov 29. juni 2007 nr. 84](lov/2007-06-29-84) om endringer i straffegjennomføringsloven mv. (tiltak for å avvikle soningskøen og bedre innholdet i soningen)
+Med virkning fra den tid straffeloven 2005 trer i kraft1 oppheves følgende lover:
+
+1. [lov 18. august 1914 nr. 3](lov/1914-08-18-3) om forsvarshemmeligheter
+2. [lov 25. juni 1926 nr. 4](lov/1926-06-25-4) om straff for å delta i og medvirke til smugling på andre land
+3. [lov 17. juni 1932 nr. 2](lov/1932-06-17-2) om enkelte bestemmelser om fremmede konsulers rettsstilling
+4. [lov 19. mars 1937 nr. 1](lov/1937-03-19-1) angående forholdsregler for å hindre deltagelse i krig i fremmed land
+5. [lov 13. mai 1937 nr. 1](lov/1937-05-13-1) om forbud mot å bære uniform m.v.
+6. [lov 15. desember 1995 nr. 74](lov/1995-12-15-74) om forbud mot kjønnslemlestelse
+7. [lov 29. juni 2007 nr. 83](lov/2007-06-29-83) om endringer i straffegjennomføringsloven og straffeloven (opplysningsplikt, vandelskrav og varsel til fornærmede mv.)
+8. [lov 29. juni 2007 nr. 84](lov/2007-06-29-84) om endringer i straffegjennomføringsloven mv. (tiltak for å avvikle soningskøen og bedre innholdet i soningen)
 
 1 Fra 1 okt 2015, se [straffeloven § 411](lov/2005-05-20-28/§411).
 

@@ -15,7 +15,7 @@ xml_hash: "ac797e40e883afb319bd112a4fe1dbd0be22433ef920970d89d1a407f237d0f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,14 @@ Forskriften gjelder stønad til husholdningskunder av nærvarmeleverandører som
 
 ## § 3. Definisjoner
 
-I denne forskrift menes med:*husholdningskunde*: privatperson eller boligselskap som bruker nærvarme til husholdningsformål,*boligselskap*: eierseksjonssameier, borettslag, boligaksjeselskaper og ikke-seksjonerte boligsameier,*nærvarme*: varme som leveres fra et nærvarmeanlegg,*nærvarmeleverandør*: leverandør av varme fra et nærvarmeanlegg,*nærvarmeanlegg*: fjernvarmeanlegg uten konsesjon,*fjernvarmeanlegg*: teknisk utrustning og tilhørende bygningstekniske konstruksjoner for produksjon, overføring og fordeling av varmtvann eller annen varmebærer til eksterne forbrukere.
+I denne forskrift menes med:
+
+1. *husholdningskunde*: privatperson eller boligselskap som bruker nærvarme til husholdningsformål,
+2. *boligselskap*: eierseksjonssameier, borettslag, boligaksjeselskaper og ikke-seksjonerte boligsameier,
+3. *nærvarme*: varme som leveres fra et nærvarmeanlegg,
+4. *nærvarmeleverandør*: leverandør av varme fra et nærvarmeanlegg,
+5. *nærvarmeanlegg*: fjernvarmeanlegg uten konsesjon,
+6. *fjernvarmeanlegg*: teknisk utrustning og tilhørende bygningstekniske konstruksjoner for produksjon, overføring og fordeling av varmtvann eller annen varmebærer til eksterne forbrukere.
 
 ## § 4. Hvem skal søke om og få utbetalt stønad
 
@@ -46,9 +53,17 @@ Søker plikter å sørge for at stønad etter denne forskriften ikke tilfaller a
 
 ## § 5. Hva det kan gis stønad til
 
-Det kan etter søknad gis stønad:til å dekke kostnader knyttet til husholdningskundens varmebehov,innenfor rammene av Stortingets budsjettvedtak, ogfor nærvarmeleveranser fra og med november 2022 til og med desember 2026.
+Det kan etter søknad gis stønad:
 
-Det kan ikke gis stønad til:kunder av fjernvarmeleverandører som omfattes av prisregulering etter [energiloven § 5-5 første ledd annet punktum](lov/1990-06-29-50/§5-5/ledd/1/setning/2),kunder som får levert varme fra varmeanlegg omfattet av stønad etter [lov om Norgespris og strømstønad til husholdninger](lov/2025-06-20-44), ellerforbruk knyttet til annet enn husholdningsforbruk, slik som næringsformål.
+1. til å dekke kostnader knyttet til husholdningskundens varmebehov,
+2. innenfor rammene av Stortingets budsjettvedtak, og
+3. for nærvarmeleveranser fra og med november 2022 til og med desember 2026.
+
+Det kan ikke gis stønad til:
+
+1. kunder av fjernvarmeleverandører som omfattes av prisregulering etter [energiloven § 5-5 første ledd annet punktum](lov/1990-06-29-50/§5-5/ledd/1/setning/2),
+2. kunder som får levert varme fra varmeanlegg omfattet av stønad etter [lov om Norgespris og strømstønad til husholdninger](lov/2025-06-20-44), eller
+3. forbruk knyttet til annet enn husholdningsforbruk, slik som næringsformål.
 
 > Endret ved forskrift [18 des 2025 nr. 2726](forskrift/2025-12-18-2726) (i kraft 1 jan 2026).
 
@@ -60,7 +75,15 @@ Norges vassdrags- og energidirektorat må ha mottatt bekreftelse fra nærvarmele
 
 ## § 7. Krav til søknad om stønad
 
-Søknaden om stønad må inneholde opplysninger om:søker (navn, adresse, fødselsnummer/organisasjonsnummer og kontonummer),nærvarmeleverandør (navn og organisasjonsnummer),hvilket nærvarmeanlegg varmen leveres fra,månedlig forbruk fra og med november 2022 og frem til søknadstidspunktet. Dersom kundeforholdet startet etter november 2022, oppgis månedlig forbruk fra oppstart av kundeforholdet,månedlig forbruk av nærvarme i et helt år. Søker kan velge å oppgi forbruket i 2020, 2021 eller 2022,hvor mye av nærvarmen som benyttes til husholdningsformål, ogantall boenheter.
+Søknaden om stønad må inneholde opplysninger om:
+
+1. søker (navn, adresse, fødselsnummer/organisasjonsnummer og kontonummer),
+2. nærvarmeleverandør (navn og organisasjonsnummer),
+3. hvilket nærvarmeanlegg varmen leveres fra,
+4. månedlig forbruk fra og med november 2022 og frem til søknadstidspunktet. Dersom kundeforholdet startet etter november 2022, oppgis månedlig forbruk fra oppstart av kundeforholdet,
+5. månedlig forbruk av nærvarme i et helt år. Søker kan velge å oppgi forbruket i 2020, 2021 eller 2022,
+6. hvor mye av nærvarmen som benyttes til husholdningsformål, og
+7. antall boenheter.
 
 Søknaden skal sendes på den måten Norges vassdrags- og energidirektorat bestemmer. Norges vassdrags- og energidirektorat kan bestemme at søknaden skal sendes elektronisk.
 
@@ -68,7 +91,9 @@ Søknaden skal sendes på den måten Norges vassdrags- og energidirektorat beste
 
 Det gis kun strømstønad dersom gjennomsnittlig månedlig elspotpris i området nærvarmeanlegget er lokalisert overstiger terskelverdi.
 
-Stønaden beregnes for hver måned etter følgende formel: $$\\text{Stønadsbeløp} = \\frac{\\text{støtteberettiget varme}}{\\text{systemvirkningsgrad}} \\cdot (\\text{gjennomsnittlig områdepris for strøm} - \\text{terskelverdi}) \\cdot \\text{stønadsgrad}$$
+Stønaden beregnes for hver måned etter følgende formel:
+
+$$\\text{Stønadsbeløp} = \\frac{\\text{støtteberettiget varme}}{\\text{systemvirkningsgrad}} \\cdot (\\text{gjennomsnittlig områdepris for strøm} - \\text{terskelverdi}) \\cdot \\text{stønadsgrad}$$
 
 Systemvirkningsgraden er 2.
 

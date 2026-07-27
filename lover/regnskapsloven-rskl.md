@@ -15,7 +15,7 @@ xml_hash: "874a120a0464b161a160a4ca7100273409e1bbe0c08b2652a3b853daa91b1dbf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32017L1132"
@@ -38,7 +38,24 @@ eu_basis:
 
 ### § 1-2. Regnskapspliktige
 
-(1) Regnskapspliktige etter denne loven er:aksjeselskaper,allmennaksjeselskaper,statsforetak,selskap som definert i [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) første ledd bokstav a, med unntak avinterkommunale selskaperselskap som ikke er partrederi og som i året har hatt mindre enn fem millioner kroner i salgsinntekt og et gjennomsnittlig antall ansatte færre enn fem årsverk dersom antallet deltakere ikke overstiger fem og ingen av deltakerne er juridisk person med begrenset ansvar,finansforetak og andre foretak som det føres tilsyn med etter [finanstilsynsloven § 1-2](lov/2024-06-21-41/§1-2),verdipapirfond,samvirkeforetak og økonomiske foreninger som i året har hatt salgsinntekter over to millioner kroner,boligbyggelag, borettslag og eierseksjonssameier som nevnt i [eierseksjonsloven § 64](lov/2017-06-16-65/§64) annet ledd.andre foreninger som i året har hatt eiendeler med verdi over 20 millioner kroner eller et gjennomsnittlig antall ansatte høyere enn 20 årsverk,stiftelser,enhver som driver enkeltpersonforetak og som i året samlet har hatt eiendeler med verdi over 20 millioner kroner eller et gjennomsnittlig antall ansatte høyere enn 20 årsverk,andre som etter særskilt bestemmelse i eller i medhold av lov har regnskapsplikt etter regnskapsloven.utenlandsk foretak som utøver eller deltar i virksomhet her i riket eller på norsk kontinentalsokkel, og som er skattepliktig til Norge etter norsk intern lovgivning,
+(1) Regnskapspliktige etter denne loven er:
+
+1. aksjeselskaper,
+2. allmennaksjeselskaper,
+3. statsforetak,
+4. selskap som definert i [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) første ledd bokstav a, med unntak av
+
+   - interkommunale selskaper
+   - selskap som ikke er partrederi og som i året har hatt mindre enn fem millioner kroner i salgsinntekt og et gjennomsnittlig antall ansatte færre enn fem årsverk dersom antallet deltakere ikke overstiger fem og ingen av deltakerne er juridisk person med begrenset ansvar,
+5. finansforetak og andre foretak som det føres tilsyn med etter [finanstilsynsloven § 1-2](lov/2024-06-21-41/§1-2),
+6. verdipapirfond,
+7. samvirkeforetak og økonomiske foreninger som i året har hatt salgsinntekter over to millioner kroner,
+8. boligbyggelag, borettslag og eierseksjonssameier som nevnt i [eierseksjonsloven § 64](lov/2017-06-16-65/§64) annet ledd.
+9. andre foreninger som i året har hatt eiendeler med verdi over 20 millioner kroner eller et gjennomsnittlig antall ansatte høyere enn 20 årsverk,
+10. stiftelser,
+11. enhver som driver enkeltpersonforetak og som i året samlet har hatt eiendeler med verdi over 20 millioner kroner eller et gjennomsnittlig antall ansatte høyere enn 20 årsverk,
+12. andre som etter særskilt bestemmelse i eller i medhold av lov har regnskapsplikt etter regnskapsloven.
+13. utenlandsk foretak som utøver eller deltar i virksomhet her i riket eller på norsk kontinentalsokkel, og som er skattepliktig til Norge etter norsk intern lovgivning,
 
 (2) Foretak som er omfattet av første ledd nr. 4, 7, 9 eller 11 og som har drevet virksomhet i mer enn ett år, er regnskapspliktig først når vilkår om å overskride beløpsgrenser eller grense for antall ansatte er oppfylt to år på rad.
 
@@ -50,7 +67,17 @@ eu_basis:
 
 ### § 1-2a. Regnskapspliktige med plikt til å utarbeide bærekraftsrapportering
 
-(1) Bestemmelsene i [§§ 2-3](lov/1998-07-17-56/§2-3) til [2-8](lov/1998-07-17-56/§2-8) gjelder for følgende regnskapspliktige:aksjeselskaper,allmennaksjeselskaper,selskaper som nevnt i [§ 1-2 nr. 4](lov/1998-07-17-56/§1-2/nummer/4) hvis alle deltakerne som har ubegrenset ansvar, er selskaper med begrenset ansvar,banker,kredittforetak,forsikringsforetak,statsforetak,filialer som nevnt i [§ 2-8 annet ledd](lov/1998-07-17-56/§2-8/ledd/2),andre regnskapspliktige når det er fastsatt i forskrift gitt av departementet.
+(1) Bestemmelsene i [§§ 2-3](lov/1998-07-17-56/§2-3) til [2-8](lov/1998-07-17-56/§2-8) gjelder for følgende regnskapspliktige:
+
+1. aksjeselskaper,
+2. allmennaksjeselskaper,
+3. selskaper som nevnt i [§ 1-2 nr. 4](lov/1998-07-17-56/§1-2/nummer/4) hvis alle deltakerne som har ubegrenset ansvar, er selskaper med begrenset ansvar,
+4. banker,
+5. kredittforetak,
+6. forsikringsforetak,
+7. statsforetak,
+8. filialer som nevnt i [§ 2-8 annet ledd](lov/1998-07-17-56/§2-8/ledd/2),
+9. andre regnskapspliktige når det er fastsatt i forskrift gitt av departementet.
 
 (2) Bestemmelsene i [§§ 2-3](lov/1998-07-17-56/§2-3) til [2-8](lov/1998-07-17-56/§2-8) gjelder likevel ikke for alternative investeringsfond.
 
@@ -60,7 +87,10 @@ eu_basis:
 
 (1) Et morselskap utgjør sammen med et datterselskap eller datterselskaper et konsern.
 
-(2) Regnskapspliktig etter [§ 1-2](lov/1998-07-17-56/§1-2) som ikke faller inn under [§ 1-2](lov/1998-07-17-56/§1-2) første ledd nr. 11 eller 13, er morselskap hvis vedkommende på grunn av avtale eller som eier av aksjer eller andeler har bestemmende innflytelse over et annet foretak. En regnskapspliktig skal anses å ha bestemmende innflytelse hvis vedkommende:eier så mange aksjer eller andeler i et annet foretak at de representerer flertallet av stemmene i det andre foretaket, med mindre det i særlige unntakstilfeller klart kan påvises at slikt eierskap likevel ikke gir bestemmende innflytelse, ellerhar rett til å velge eller avsette et flertall av medlemmene i det andre foretakets styre.
+(2) Regnskapspliktig etter [§ 1-2](lov/1998-07-17-56/§1-2) som ikke faller inn under [§ 1-2](lov/1998-07-17-56/§1-2) første ledd nr. 11 eller 13, er morselskap hvis vedkommende på grunn av avtale eller som eier av aksjer eller andeler har bestemmende innflytelse over et annet foretak. En regnskapspliktig skal anses å ha bestemmende innflytelse hvis vedkommende:
+
+1. eier så mange aksjer eller andeler i et annet foretak at de representerer flertallet av stemmene i det andre foretaket, med mindre det i særlige unntakstilfeller klart kan påvises at slikt eierskap likevel ikke gir bestemmende innflytelse, eller
+2. har rett til å velge eller avsette et flertall av medlemmene i det andre foretakets styre.
 
 (3) Et foretak som står i forhold som nevnt i annet ledd til et morselskap, anses som datterselskap.
 
@@ -76,13 +106,27 @@ Som tilknyttet selskap regnes foretak hvor den regnskapspliktige har betydelig i
 
 ### § 1-5. Kategorier av foretak og konsern
 
-(1) Som mikroforetak regnes regnskapspliktige som på balansedagen overskrider én eller ingen av følgende tre terskler:balansesum: 5 millioner kronersalgsinntekter: 10 millioner kronergjennomsnittlig antall ansatte i regnskapsåret: 10 årsverkMed mindre noe annet er fastsatt, skal mikroforetak følge reglene for små foretak.
+(1) Som mikroforetak regnes regnskapspliktige som på balansedagen overskrider én eller ingen av følgende tre terskler:
 
-(2) Som små foretak regnes regnskapspliktige som på balansedagen overskrider én eller ingen av følgende tre terskler:balansesum: 84 millioner kronersalgsinntekter: 168 millioner kronergjennomsnittlig antall ansatte i regnskapsåret: 50 årsverk
+1. balansesum: 5 millioner kroner
+2. salgsinntekter: 10 millioner kroner
+3. gjennomsnittlig antall ansatte i regnskapsåret: 10 årsverk
+
+Med mindre noe annet er fastsatt, skal mikroforetak følge reglene for små foretak.
+
+(2) Som små foretak regnes regnskapspliktige som på balansedagen overskrider én eller ingen av følgende tre terskler:
+
+1. balansesum: 84 millioner kroner
+2. salgsinntekter: 168 millioner kroner
+3. gjennomsnittlig antall ansatte i regnskapsåret: 50 årsverk
 
 (3) Som mellomstore foretak regnes regnskapspliktige som ikke er mikroforetak, små foretak eller store foretak.
 
-(4) Som store foretak regnes regnskapspliktige som på balansedagen overskrider minst to av følgende tre terskler:balansesum: 290 millioner kronersalgsinntekter: 580 millioner kronergjennomsnittlig antall ansatte i regnskapsåret: 250 årsverk
+(4) Som store foretak regnes regnskapspliktige som på balansedagen overskrider minst to av følgende tre terskler:
+
+1. balansesum: 290 millioner kroner
+2. salgsinntekter: 580 millioner kroner
+3. gjennomsnittlig antall ansatte i regnskapsåret: 250 årsverk
 
 (5) Som små konsern regnes konsern som på balansedagen oppfyller vilkårene for små foretak i annet ledd, beregnet etter reglene i tolvte ledd. Med mindre noe annet er fastsatt, skal små konsern følge reglene for små foretak.
 
@@ -106,7 +150,12 @@ Som tilknyttet selskap regnes foretak hvor den regnskapspliktige har betydelig i
 
 ### § 1-6. Foretak av allmenn interesse og noterte foretak
 
-(1) Som foretak av allmenn interesse regnesnoterte foretak,banker,kredittforetak,forsikringsforetak.
+(1) Som foretak av allmenn interesse regnes
+
+1. noterte foretak,
+2. banker,
+3. kredittforetak,
+4. forsikringsforetak.
 
 (2) Som noterte foretak regnes regnskapspliktige som har utstedt omsettelige verdipapirer som er tatt opp til handel på et regulert marked i EØS.
 
@@ -178,7 +227,12 @@ Med bærekraftsforhold menes miljømessige, sosiale og styringsmessige forhold, 
 
 (7) Regnskapspliktige som nevnt i [§ 2-3 første ledd](lov/1998-07-17-56/§2-3/ledd/1) skal opplyse om sentrale immaterielle ressurser. Det skal forklares på hvilken måte foretakets forretningsmodell grunnleggende er avhengig av slike ressurser, og på hvilken måte slike ressurser er en kilde til verdiskaping for virksomheten. Med sentrale immaterielle ressurser menes ressurser uten fysisk substans som foretakets forretningsmodell grunnleggende er avhengig av, og som er en kilde til verdiskaping for foretaket.
 
-(8) I årsberetningen skal det gis følgende opplysninger om forutsetningen om fortsatt drift, jf. [§ 4-5](lov/1998-07-17-56/§4-5):Dersom forutsetning om fortsatt drift legges til grunn for årsregnskapet, skal det bekreftes at forutsetningen er til stede.Dersom det er tvil om den regnskapspliktige kan fortsette virksomheten, skal det redegjøres for usikkerheten.Dersom styrets handleplikt ved tap av egenkapital har inntrådt i henhold til [aksjeloven](lov/1997-06-13-44) eller [allmennaksjeloven § 3-5](lov/1997-06-13-45/§3-5), skal det opplyses om det er besluttet eller satt i verk tiltak for å sikre selskapets drift, eventuelt å oppløse selskapet.Dersom det er sannsynlig at virksomheten vil bli avviklet, skal det redegjøres for hvordan virkelig verdi ved avvikling er beregnet dersom dette ikke framgår i note til årsregnskapet.
+(8) I årsberetningen skal det gis følgende opplysninger om forutsetningen om fortsatt drift, jf. [§ 4-5](lov/1998-07-17-56/§4-5):
+
+1. Dersom forutsetning om fortsatt drift legges til grunn for årsregnskapet, skal det bekreftes at forutsetningen er til stede.
+2. Dersom det er tvil om den regnskapspliktige kan fortsette virksomheten, skal det redegjøres for usikkerheten.
+3. Dersom styrets handleplikt ved tap av egenkapital har inntrådt i henhold til [aksjeloven](lov/1997-06-13-44) eller [allmennaksjeloven § 3-5](lov/1997-06-13-45/§3-5), skal det opplyses om det er besluttet eller satt i verk tiltak for å sikre selskapets drift, eventuelt å oppløse selskapet.
+4. Dersom det er sannsynlig at virksomheten vil bli avviklet, skal det redegjøres for hvordan virkelig verdi ved avvikling er beregnet dersom dette ikke framgår i note til årsregnskapet.
 
 (9) Årsberetningen skal inneholde forslag til anvendelse av overskudd eller dekning av tap dersom dette ikke framgår av årsregnskapet.
 
@@ -188,7 +242,12 @@ Med bærekraftsforhold menes miljømessige, sosiale og styringsmessige forhold, 
 
 (12) Det skal gis opplysninger om det er tegnet forsikring for styrets medlemmer og daglig leder for deres mulige ansvar overfor foretaket og tredjepersoner og i tilfelle om forsikringsdekningen.
 
-(13) Regnskapspliktige som er noterte foretak, skal gi følgende opplysninger om aksjeeierforhold i selskapet:en beskrivelse av vedtektsbestemmelser som begrenser retten til å omsette selskapets aksjer,en beskrivelse av hvem som utøver rettighetene til aksjer i eventuelle ansatteaksjeordninger når myndigheten ikke utøves direkte av de ansatte som er omfattet av ordningen,avtaler mellom aksjeeiere selskapet er kjent med som begrenser mulighetene til å omsette eller utøve stemmerett for aksjer,vesentlige avtaler selskapet er part i hvis vilkår trer i kraft, endres eller opphører som følge av et overtakelsestilbud, samt en redegjørelse for vilkårene. I den grad det vil medføre urimelig forretningsmessig ulempe at en avtale blir kjent, kan foretaket la være å opplyse om avtalen. Dette gjelder likevel ikke dersom selskapet er forpliktet til å offentliggjøre opplysninger om avtalen i henhold til annen lovgivning.
+(13) Regnskapspliktige som er noterte foretak, skal gi følgende opplysninger om aksjeeierforhold i selskapet:
+
+1. en beskrivelse av vedtektsbestemmelser som begrenser retten til å omsette selskapets aksjer,
+2. en beskrivelse av hvem som utøver rettighetene til aksjer i eventuelle ansatteaksjeordninger når myndigheten ikke utøves direkte av de ansatte som er omfattet av ordningen,
+3. avtaler mellom aksjeeiere selskapet er kjent med som begrenser mulighetene til å omsette eller utøve stemmerett for aksjer,
+4. vesentlige avtaler selskapet er part i hvis vilkår trer i kraft, endres eller opphører som følge av et overtakelsestilbud, samt en redegjørelse for vilkårene. I den grad det vil medføre urimelig forretningsmessig ulempe at en avtale blir kjent, kan foretaket la være å opplyse om avtalen. Dette gjelder likevel ikke dersom selskapet er forpliktet til å offentliggjøre opplysninger om avtalen i henhold til annen lovgivning.
 
 > Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
 
@@ -204,7 +263,11 @@ Med bærekraftsforhold menes miljømessige, sosiale og styringsmessige forhold, 
 
 (5) Et datterselskap er unntatt fra plikt til å utarbeide bærekraftsrapportering etter første ledd hvis datterselskapet med sine datterselskaper er inkludert i den konsoliderte bærekraftsrapporteringen til et morselskap som er etablert utenfor EØS, og denne bærekraftsrapporteringen er utarbeidet i samsvar med standardene for bærekraftsrapportering som er nevnt i [§ 2-6 nr. 1](lov/1998-07-17-56/§2-6/nummer/1), eller på en likeverdig måte i samsvar med beslutninger om likeverdige standarder om bærekraftsrapportering fastsatt i forskrift i medhold av [verdipapirhandelloven § 5-7](lov/2007-06-29-75/§5-7). Et morselskap som selv er datterselskap, er på samme vilkår unntatt fra plikt til å utarbeide konsolidert bærekraftsrapportering for konsernet etter annet ledd.
 
-(6) Unntakene i fjerde og femte ledd gjelder bare hvis følgende vilkår er oppfylt:Årsberetningen til datterselskapet inneholder navnet og forretningskontoret til morselskapet som rapporterer på konsernnivå, nettlenkene til den konsoliderte bærekraftsrapporteringen og attestasjonsuttalelsen, jf. nr. 2, og opplysning om at datterselskapet er unntatt fra kravene til bærekraftsrapportering.Den konsoliderte bærekraftsrapporteringen og attestasjonsuttalelsen til revisor eller uavhengig tilbyder av attestasjonstjenester, og i tilfelle oversettelsene som nevnt i nr. 3, er publisert og tilgjengelig på internett.Den konsoliderte bærekraftsrapporteringen og attestasjonsuttalelsen er på eller oversatt til norsk, svensk, dansk eller engelsk. Hvis en oversettelse ikke er sertifisert, skal oversettelsen inneholde en erklæring om dette.
+(6) Unntakene i fjerde og femte ledd gjelder bare hvis følgende vilkår er oppfylt:
+
+1. Årsberetningen til datterselskapet inneholder navnet og forretningskontoret til morselskapet som rapporterer på konsernnivå, nettlenkene til den konsoliderte bærekraftsrapporteringen og attestasjonsuttalelsen, jf. nr. 2, og opplysning om at datterselskapet er unntatt fra kravene til bærekraftsrapportering.
+2. Den konsoliderte bærekraftsrapporteringen og attestasjonsuttalelsen til revisor eller uavhengig tilbyder av attestasjonstjenester, og i tilfelle oversettelsene som nevnt i nr. 3, er publisert og tilgjengelig på internett.
+3. Den konsoliderte bærekraftsrapporteringen og attestasjonsuttalelsen er på eller oversatt til norsk, svensk, dansk eller engelsk. Hvis en oversettelse ikke er sertifisert, skal oversettelsen inneholde en erklæring om dette.
 
 (7) Er morselskapet etablert utenfor EØS, gjelder fjerde og femte ledd dessuten bare hvis opplysninger etter taksonomiforordningen artikkel 8 inntas i årsberetningen til datterselskapet eller i den konsoliderte bærekraftsrapporteringen, og den konsoliderte bærekraftsrapporteringen og en attestasjonsuttalelse avgitt av en person eller et foretak med godkjenning i hjemlandet til å attestere bærekraftsrapporteringen, sendes inn til Regnskapsregisteret, jf. [§ 8-2 tredje ledd](lov/1998-07-17-56/§8-2/ledd/3).
 
@@ -218,17 +281,51 @@ Med bærekraftsforhold menes miljømessige, sosiale og styringsmessige forhold, 
 
 (1) Bærekraftsrapporteringen i årsberetningen etter [§ 2-3 første ledd](lov/1998-07-17-56/§2-3/ledd/1) skal gi informasjon som er nødvendig for å forstå den regnskapspliktiges innvirkning på bærekraftsforhold og informasjon som er nødvendig for å forstå hvordan bærekraftsforhold påvirker den regnskapspliktiges utvikling, stilling og resultat. Bærekraftsrapporteringen skal være tydelig identifiserbar og gis i en egen del av årsberetningen.
 
-(2) Bærekraftsrapporteringen skal inneholde:en kort beskrivelse av foretakets forretningsmodell og strategi, inkludert:hvor motstandsdyktig forretningsmodellen og strategien er mot risiko knyttet til bærekraftsforhold,mulighetene for foretaket knyttet til bærekraftsforhold,foretakets planer for å sikre at forretningsmodellen og strategien er forenlig med overgangen til en bærekraftig økonomi og med begrensning av global oppvarming til 1,5 °C i tråd med [Parisavtalen](traktat/2015-12-12-32), målet om å oppnå klimanøytralitet innen 2050 og foretakets eventuelle eksponering for kull-, olje- og gassrelaterte aktiviteter. Beskrivelsen skal omfatte gjennomføringstiltak og tilknyttede planer for investeringer og finansiering,hvordan forretningsmodellen og strategien tar hensyn til foretakets interessenter og til innvirkningen foretaket har på bærekraftsforhold, oghvordan strategien har blitt gjennomført når det gjelder bærekraftsforhold.en beskrivelse av de tidsbestemte målene knyttet til bærekraftsforhold som foretaket har satt, herunder, der det er relevant, mål om reduksjon i klimagassutslipp minst for 2030 og 2050, av fremgangen foretaket har hatt med å oppnå målene og en erklæring om hvorvidt foretakets miljørelaterte mål er vitenskapelig fundert,en beskrivelse av rollen til foretakets styrende organer når det gjelder bærekraftsforhold, og deres kompetanse til å utføre denne rollen eller tilgangen de har på slik kompetanse,en beskrivelse av foretakets retningslinjer knyttet til bærekraftsforhold,informasjon om eventuelle insentivordninger knyttet til bærekraftsforhold som tilbys medlemmer av foretakets styrende organer,en beskrivelse avden regnskapspliktiges aktsomhetsvurderinger som gjelder bærekraftsforhold, inkludert aktsomhetsvurderinger i samsvar med lovkrav,de viktigste faktiske eller potensielle negative virkningene knyttet til foretakets virksomhet og verdikjede, inkludert foretakets produkter og tjenester, forretningsforhold og forsyningskjeden, gjennomførte tiltak for å identifisere og overvåke disse virkningene, samt andre virkninger foretaket er forpliktet til å identifisere etter andre EØS-regler om å gjøre aktsomhetsvurderinger, ogtiltak som er iverksatt for å forhindre, begrense og utbedre faktiske eller potensielle skadevirkninger, og resultatet av slike tiltak.en beskrivelse av de viktigste risikoene for foretaket knyttet til bærekraftsforhold, inkludert en beskrivelse av bærekraftsforholdene som foretaket er mest avhengig av, og hvordan foretaket håndterer disse risikoene, ogindikatorer som er relevante for opplysningene ovenfor.Den regnskapspliktige skal beskrive prosessen som er utført for å identifisere informasjonen som er inkludert i årsberetningen i henhold til første ledd. Der det passer skal opplysningene som nevnt i nr. 1 til 8 inkludere informasjon som beskriver forholdene på kort, mellomlang og lang sikt.
+(2) Bærekraftsrapporteringen skal inneholde:
 
-(3) Der det passer skal bærekraftsrapporteringen inneholde:informasjon om foretakets egen virksomhet og verdikjede, inkludert foretakets produkter og tjenester, dets forretningsforbindelser og leverandørkjede, ogreferanser til annen informasjon i årsberetningen og beløp som er rapportert i årsregnskapet med utdypende forklaringer.
+1. en kort beskrivelse av foretakets forretningsmodell og strategi, inkludert:
+
+   1. hvor motstandsdyktig forretningsmodellen og strategien er mot risiko knyttet til bærekraftsforhold,
+   2. mulighetene for foretaket knyttet til bærekraftsforhold,
+   3. foretakets planer for å sikre at forretningsmodellen og strategien er forenlig med overgangen til en bærekraftig økonomi og med begrensning av global oppvarming til 1,5 °C i tråd med [Parisavtalen](traktat/2015-12-12-32), målet om å oppnå klimanøytralitet innen 2050 og foretakets eventuelle eksponering for kull-, olje- og gassrelaterte aktiviteter. Beskrivelsen skal omfatte gjennomføringstiltak og tilknyttede planer for investeringer og finansiering,
+   4. hvordan forretningsmodellen og strategien tar hensyn til foretakets interessenter og til innvirkningen foretaket har på bærekraftsforhold, og
+   5. hvordan strategien har blitt gjennomført når det gjelder bærekraftsforhold.
+2. en beskrivelse av de tidsbestemte målene knyttet til bærekraftsforhold som foretaket har satt, herunder, der det er relevant, mål om reduksjon i klimagassutslipp minst for 2030 og 2050, av fremgangen foretaket har hatt med å oppnå målene og en erklæring om hvorvidt foretakets miljørelaterte mål er vitenskapelig fundert,
+3. en beskrivelse av rollen til foretakets styrende organer når det gjelder bærekraftsforhold, og deres kompetanse til å utføre denne rollen eller tilgangen de har på slik kompetanse,
+4. en beskrivelse av foretakets retningslinjer knyttet til bærekraftsforhold,
+5. informasjon om eventuelle insentivordninger knyttet til bærekraftsforhold som tilbys medlemmer av foretakets styrende organer,
+6. en beskrivelse av
+
+   1. den regnskapspliktiges aktsomhetsvurderinger som gjelder bærekraftsforhold, inkludert aktsomhetsvurderinger i samsvar med lovkrav,
+   2. de viktigste faktiske eller potensielle negative virkningene knyttet til foretakets virksomhet og verdikjede, inkludert foretakets produkter og tjenester, forretningsforhold og forsyningskjeden, gjennomførte tiltak for å identifisere og overvåke disse virkningene, samt andre virkninger foretaket er forpliktet til å identifisere etter andre EØS-regler om å gjøre aktsomhetsvurderinger, og
+   3. tiltak som er iverksatt for å forhindre, begrense og utbedre faktiske eller potensielle skadevirkninger, og resultatet av slike tiltak.
+7. en beskrivelse av de viktigste risikoene for foretaket knyttet til bærekraftsforhold, inkludert en beskrivelse av bærekraftsforholdene som foretaket er mest avhengig av, og hvordan foretaket håndterer disse risikoene, og
+8. indikatorer som er relevante for opplysningene ovenfor.
+
+Den regnskapspliktige skal beskrive prosessen som er utført for å identifisere informasjonen som er inkludert i årsberetningen i henhold til første ledd. Der det passer skal opplysningene som nevnt i nr. 1 til 8 inkludere informasjon som beskriver forholdene på kort, mellomlang og lang sikt.
+
+(3) Der det passer skal bærekraftsrapporteringen inneholde:
+
+1. informasjon om foretakets egen virksomhet og verdikjede, inkludert foretakets produkter og tjenester, dets forretningsforbindelser og leverandørkjede, og
+2. referanser til annen informasjon i årsberetningen og beløp som er rapportert i årsregnskapet med utdypende forklaringer.
 
 (4) Opplysninger om kommende utvikling eller forhandlinger kan utelates i særlige unntakstilfeller, når det etter styrets eller tilsvarende foretaksorgans forsvarlig begrunnede oppfatning vil være til alvorlig forretningsmessig skade for den regnskapspliktige om opplysningene ble offentliggjort. Opplysningene kan likevel bare utelates hvis dette ikke forhindrer en rimelig og balansert forståelse av foretakets utvikling, stilling og resultat og hvordan virksomheten påvirker omgivelsene. Begrunnelsen skal inntas i styreprotokollen eller dokumenteres på tilsvarende måte.
 
 (5) Den regnskapspliktige skal utarbeide bærekraftsrapportering som angitt i første til fjerde ledd i samsvar med standardene for bærekraftsrapportering som er fastsatt i medhold av [§ 2-6 nr. 1](lov/1998-07-17-56/§2-6/nummer/1).
 
-(6) Små og mellomstore foretak som er noterte foretak, kan begrense bærekraftsrapporteringen etter første ledd til følgende informasjon:en kort beskrivelse av foretakets forretningsmodell og strategi,en beskrivelse av foretakets retningslinjer når det gjelder bærekraftsforhold,de viktigste faktiske eller potensielle negative virkningene knyttet til foretakets virksomhet og verdikjede, inkludert foretakets produkter og tjenester, forretningsforhold og leverandørkjeden, gjennomførte tiltak for å identifisere og overvåke, forhindre, begrense og avhjelpe disse virkningene,de viktigste risikoene for foretaket knyttet til bærekraftsforhold og hvordan foretaket håndterer disse risikoene, ogsentrale indikatorer som er nødvendige for rapporteringen i nr. 1 til 4.
+(6) Små og mellomstore foretak som er noterte foretak, kan begrense bærekraftsrapporteringen etter første ledd til følgende informasjon:
 
-(7) Sjette ledd gjelder tilsvarende for følgende store foretak:mindre og ikke-komplekse foretak, jf. [finansforetaksloven § 1-5 ellevte ledd](lov/2015-04-10-17/§1-5/ledd/11),egenforsikringsforetak ogegenforsikringsforetak for gjenforsikring.
+1. en kort beskrivelse av foretakets forretningsmodell og strategi,
+2. en beskrivelse av foretakets retningslinjer når det gjelder bærekraftsforhold,
+3. de viktigste faktiske eller potensielle negative virkningene knyttet til foretakets virksomhet og verdikjede, inkludert foretakets produkter og tjenester, forretningsforhold og leverandørkjeden, gjennomførte tiltak for å identifisere og overvåke, forhindre, begrense og avhjelpe disse virkningene,
+4. de viktigste risikoene for foretaket knyttet til bærekraftsforhold og hvordan foretaket håndterer disse risikoene, og
+5. sentrale indikatorer som er nødvendige for rapporteringen i nr. 1 til 4.
+
+(7) Sjette ledd gjelder tilsvarende for følgende store foretak:
+
+1. mindre og ikke-komplekse foretak, jf. [finansforetaksloven § 1-5 ellevte ledd](lov/2015-04-10-17/§1-5/ledd/11),
+2. egenforsikringsforetak og
+3. egenforsikringsforetak for gjenforsikring.
 
 (8) Regnskapspliktige som benytter adgangen i sjette og syvende ledd, skal utarbeide bærekraftsrapportering i samsvar med standardene for bærekraftsrapportering for små og mellomstore foretak som er fastsatt i medhold av [§ 2-6 nr. 2](lov/1998-07-17-56/§2-6/nummer/2).
 
@@ -260,7 +357,11 @@ Med bærekraftsforhold menes miljømessige, sosiale og styringsmessige forhold, 
 
 ### § 2-6. Standarder for bærekraftsrapportering
 
-Departementet kan fastsette forskrifter som svarer til kommisjonsforordninger fastsatt i medhold av følgende bestemmelser i regnskapsdirektivet (direktiv [2013/34/EU](eu/32013l0034)):artikkel 29b om standarder for bærekraftsrapportering,artikkel 29c om standarder for bærekraftsrapportering for små og mellomstore foretak,artikkel 40b om standarder for bærekraftsrapportering for tredjelandsforetak.
+Departementet kan fastsette forskrifter som svarer til kommisjonsforordninger fastsatt i medhold av følgende bestemmelser i regnskapsdirektivet (direktiv [2013/34/EU](eu/32013l0034)):
+
+1. artikkel 29b om standarder for bærekraftsrapportering,
+2. artikkel 29c om standarder for bærekraftsrapportering for små og mellomstore foretak,
+3. artikkel 40b om standarder for bærekraftsrapportering for tredjelandsforetak.
 
 > Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
 
@@ -276,7 +377,13 @@ Departementet kan fastsette forskrifter som svarer til kommisjonsforordninger fa
 
 (1) Store foretak som er datterselskap i konsern hvor konsernspissen er et morselskap som er etablert utenfor EØS, skal publisere en bærekraftsrapport som dekker det konsernet som datterselskapet inngår i. Plikten gjelder også for små og mellomstore foretak som er noterte foretak med slik konserntilknytning. Mikroforetak er unntatt. Rapporteringsplikten gjelder bare hvis konsernet som datterselskapet inngår i har hatt salgsinntekter på over 150 millioner euro innenfor EØS i hvert av de siste to regnskapsårene.
 
-(2) En norsk filial av et foretak som er etablert utenfor EØS, skal, hvis filialen hadde salgsinntekter tilsvarende 40 millioner euro eller mer i det foregående regnskapsåret, publisere en bærekraftsrapport som dekker konsernet som filialen er en del av. Hvis foretaket som filialen er en del av ikke inngår i et konsern, skal bærekraftsrapporten dekke dette foretaket. Rapporteringsplikten gjelder bare hvis foretaket som filialen er en del av:har en selskapsform som tilsvarer aksjeselskap eller allmennaksjeselskap,enten ikke inngår i et konsern eller inngår i et konsern hvor konsernspissen er et morselskap som er etablert utenfor EØS, oginngår i et konsern som har hatt salgsinntekter på over 150 millioner euro innenfor EØS i hvert av de siste to regnskapsårene, eller selv har hatt slike salgsinntekter.Rapporteringsplikten gjelder ikke hvis foretaket som filialen er en del av har et datterselskap som har rapporteringsplikt etter første ledd eller tilsvarende regler i en annen EØS-stat. Med filial menes regnskapspliktig etter [§ 1-2 første ledd](lov/1998-07-17-56/§1-2/ledd/1) nr. 13 som har et fast forretningssted her i riket.
+(2) En norsk filial av et foretak som er etablert utenfor EØS, skal, hvis filialen hadde salgsinntekter tilsvarende 40 millioner euro eller mer i det foregående regnskapsåret, publisere en bærekraftsrapport som dekker konsernet som filialen er en del av. Hvis foretaket som filialen er en del av ikke inngår i et konsern, skal bærekraftsrapporten dekke dette foretaket. Rapporteringsplikten gjelder bare hvis foretaket som filialen er en del av:
+
+1. har en selskapsform som tilsvarer aksjeselskap eller allmennaksjeselskap,
+2. enten ikke inngår i et konsern eller inngår i et konsern hvor konsernspissen er et morselskap som er etablert utenfor EØS, og
+3. inngår i et konsern som har hatt salgsinntekter på over 150 millioner euro innenfor EØS i hvert av de siste to regnskapsårene, eller selv har hatt slike salgsinntekter.
+
+Rapporteringsplikten gjelder ikke hvis foretaket som filialen er en del av har et datterselskap som har rapporteringsplikt etter første ledd eller tilsvarende regler i en annen EØS-stat. Med filial menes regnskapspliktig etter [§ 1-2 første ledd](lov/1998-07-17-56/§1-2/ledd/1) nr. 13 som har et fast forretningssted her i riket.
 
 (3) Bærekraftsrapport som nevnt i første og annet ledd skal inneholde opplysningene angitt i [§ 2-5 første ledd](lov/1998-07-17-56/§2-5/ledd/1), jf. [§ 2-4 annet ledd nr. 1 bokstav c](lov/1998-07-17-56/§2-4/ledd/2/nummer/1/bokstav/c) til e, nr. 2 til 6 og, der det passer, nr. 7.
 
@@ -298,7 +405,17 @@ Departementet kan fastsette forskrifter som svarer til kommisjonsforordninger fa
 
 (1) Noterte foretak skal i årsberetningen eller i dokument det er henvist til i årsberetningen, redegjøre for sine prinsipper og praksis vedrørende foretaksstyring.
 
-(2) Redegjørelsen for prinsipper og praksis vedrørende foretaksstyring etter første ledd skal minst inneholde følgende opplysninger:en angivelse av anbefalinger og regelverk om foretaksstyring som foretaket er omfattet av eller for øvrig velger å følge,opplysninger om hvor anbefalinger og regelverk som nevnt i nr. 1 er offentlig tilgjengelige,en begrunnelse for eventuelle avvik fra anbefalinger og regelverk som nevnt i nr. 1,en beskrivelse av hovedelementene i foretakets, og for regnskapspliktige som utarbeider konsernregnskap eventuelt også konsernets, systemer for internkontroll og risikostyring knyttet til regnskapsrapporteringsprosessen,vedtektsbestemmelser som helt eller delvis utvider eller fraviker bestemmelser i [allmennaksjeloven kapittel 5](lov/1997-06-13-45/kap5),sammensetningen til styre, bedriftsforsamling, representantskap og kontrollkomité; eventuelle arbeidsutvalg for disse organene, samt en beskrivelse av hovedelementene i gjeldende instrukser og retningslinjer for organenes og eventuelle utvalgs arbeid,vedtektsbestemmelser som regulerer oppnevning og utskifting av styremedlemmer,vedtektsbestemmelser og fullmakter som gir styret adgang til å beslutte at foretaket skal kjøpe tilbake eller utstede egne aksjer eller egenkapitalbevis, ogen beskrivelse av foretakets retningslinjer for likestilling og mangfold med hensyn til kjønn og andre forhold slik som alder, funksjonsnedsettelse og utdannings- og yrkesbakgrunn for sammensetning av styre, ledelses- og kontrollorganer og deres eventuelle underutvalg. Mål for retningslinjene, hvordan de har blitt gjennomført og virkningen av dem i rapporteringsperioden skal opplyses. Hvis foretaket ikke har slike retningslinjer, skal dette begrunnes.
+(2) Redegjørelsen for prinsipper og praksis vedrørende foretaksstyring etter første ledd skal minst inneholde følgende opplysninger:
+
+1. en angivelse av anbefalinger og regelverk om foretaksstyring som foretaket er omfattet av eller for øvrig velger å følge,
+2. opplysninger om hvor anbefalinger og regelverk som nevnt i nr. 1 er offentlig tilgjengelige,
+3. en begrunnelse for eventuelle avvik fra anbefalinger og regelverk som nevnt i nr. 1,
+4. en beskrivelse av hovedelementene i foretakets, og for regnskapspliktige som utarbeider konsernregnskap eventuelt også konsernets, systemer for internkontroll og risikostyring knyttet til regnskapsrapporteringsprosessen,
+5. vedtektsbestemmelser som helt eller delvis utvider eller fraviker bestemmelser i [allmennaksjeloven kapittel 5](lov/1997-06-13-45/kap5),
+6. sammensetningen til styre, bedriftsforsamling, representantskap og kontrollkomité; eventuelle arbeidsutvalg for disse organene, samt en beskrivelse av hovedelementene i gjeldende instrukser og retningslinjer for organenes og eventuelle utvalgs arbeid,
+7. vedtektsbestemmelser som regulerer oppnevning og utskifting av styremedlemmer,
+8. vedtektsbestemmelser og fullmakter som gir styret adgang til å beslutte at foretaket skal kjøpe tilbake eller utstede egne aksjer eller egenkapitalbevis, og
+9. en beskrivelse av foretakets retningslinjer for likestilling og mangfold med hensyn til kjønn og andre forhold slik som alder, funksjonsnedsettelse og utdannings- og yrkesbakgrunn for sammensetning av styre, ledelses- og kontrollorganer og deres eventuelle underutvalg. Mål for retningslinjene, hvordan de har blitt gjennomført og virkningen av dem i rapporteringsperioden skal opplyses. Hvis foretaket ikke har slike retningslinjer, skal dette begrunnes.
 
 (3) Annet ledd nr. 1, 2, 3, 5 og 6 gjelder ikke for regnskapspliktige som ikke har utstedt aksjer eller egenkapitalbevis som er notert på et regulert marked eller på en multilateral handelsfasilitet, jf. [verdipapirhandelloven § 2-7 femte ledd](lov/2007-06-29-75/§2-7/ledd/5).
 
@@ -466,7 +583,13 @@ Departementet kan fastsette forskrifter som svarer til kommisjonsforordninger fa
 
 ### § 4-1. Grunnleggende regnskapsprinsipper
 
-(1) Årsregnskapet skal utarbeides i samsvar med følgende grunnleggende regnskapsprinsipper:Transaksjoner skal regnskapsføres til verdien av vederlaget på transaksjonstidspunktet (transaksjonsprinsippet).Inntekt skal resultatføres når den er opptjent (opptjeningsprinsippet).Utgifter skal kostnadsføres i samme periode som tilhørende inntekt (sammenstillingsprinsippet).Urealisert tap skal resultatføres (forsiktighetsprinsippet).Ved sikring skal gevinst og tap resultatføres i samme periode.
+(1) Årsregnskapet skal utarbeides i samsvar med følgende grunnleggende regnskapsprinsipper:
+
+1. Transaksjoner skal regnskapsføres til verdien av vederlaget på transaksjonstidspunktet (transaksjonsprinsippet).
+2. Inntekt skal resultatføres når den er opptjent (opptjeningsprinsippet).
+3. Utgifter skal kostnadsføres i samme periode som tilhørende inntekt (sammenstillingsprinsippet).
+4. Urealisert tap skal resultatføres (forsiktighetsprinsippet).
+5. Ved sikring skal gevinst og tap resultatføres i samme periode.
 
 (2) Små foretak kan fravike de grunnleggende prinsippene om opptjening og sammenstilling, jf. første ledd nr. 2 og 3, når dette kan anses som god regnskapsskikk for små foretak. Små foretak kan fravike det grunnleggende prinsippet om sikring, jf. første ledd nr. 5.
 
@@ -566,7 +689,12 @@ Goodwill er differansen mellom anskaffelseskost ved kjøp av en virksomhet og vi
 
 ### § 5-8. Finansielle instrumenter og varederivater
 
-(1) Finansielle instrumenter og varederivater skal vurderes til virkelig verdi dersom deer klassifisert som omløpsmiddel,inngår i en handelsportefølje med henblikk på videresalg,omsettes på regulert marked i EØS eller tilsvarende markedsplass utenfor EØS, oghar god eierspredning og likviditet.
+(1) Finansielle instrumenter og varederivater skal vurderes til virkelig verdi dersom de
+
+1. er klassifisert som omløpsmiddel,
+2. inngår i en handelsportefølje med henblikk på videresalg,
+3. omsettes på regulert marked i EØS eller tilsvarende markedsplass utenfor EØS, og
+4. har god eierspredning og likviditet.
 
 (2) Små foretak kan uten hinder av bestemmelsen i første ledd vurdere markedsbaserte finansielle omløpsmidler etter vurderingsregelen for omløpsmidler i [§ 5-2](lov/1998-07-17-56/§5-2).
 
@@ -636,7 +764,11 @@ Ved fusjon mellom eller fisjon av små foretak kan eiendeler og gjeld i de fusjo
 
 (2) Investering i datterselskap skal vurderes etter egenkapitalmetoden eller generelle vurderingsregler i selskapsregnskapet. Egenkapitalmetoden kan likevel ikke anvendes for midlertidig investering i datterselskap.
 
-(3) Vurdering etter egenkapitalmetoden innebærer at:Investeringen skal vurderes til den regnskapspliktiges andel av egenkapitalen, og resultatandelen skal inntektsføres eller kostnadsføres.På kjøpstidspunktet skal investeringen vurderes til anskaffelseskost.Resultatandelen fratrukket utdelinger fra selskapet skal tillegges investeringen i balansen. Ved beregning av resultatandelen skal det tas hensyn til mer- eller mindreverdier på kjøpstidspunktet og interngevinster.
+(3) Vurdering etter egenkapitalmetoden innebærer at:
+
+1. Investeringen skal vurderes til den regnskapspliktiges andel av egenkapitalen, og resultatandelen skal inntektsføres eller kostnadsføres.
+2. På kjøpstidspunktet skal investeringen vurderes til anskaffelseskost.
+3. Resultatandelen fratrukket utdelinger fra selskapet skal tillegges investeringen i balansen. Ved beregning av resultatandelen skal det tas hensyn til mer- eller mindreverdier på kjøpstidspunktet og interngevinster.
 
 > Endret ved [lover 18 juni 1999 nr. 41](lov/1999-06-18-41) (ikr. 1 okt 1999 iflg. res. 24 sep 1999), [21 des 2000 nr. 108](lov/2000-12-21-108) (ikr. 1 jan 2001), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
 
@@ -662,7 +794,29 @@ Ved konserndannelse som gjennomføres ved kjøp av aksjer eller andeler m.v., sk
 
 ### § 6-1. Resultatregnskap etter art
 
-(1) Resultatregnskapet etter art skal ha følgende oppstillingsplan:SalgsinntektAnnen driftsinntektEndring i beholdning av varer under tilvirkning og ferdig tilvirkede varerEndring i beholdning av egentilvirkede anleggsmidlerVarekostnadLønnskostnadAvskrivning på varige driftsmidler og immaterielle eiendelerNedskrivning av varige driftsmidler og immaterielle eiendelerAnnen driftskostnadDriftsresultatInntekt på investering i datterselskap og tilknyttet selskapInntekt på andre investeringerRenteinntekt fra foretak i samme konsernAnnen finansinntektVerdiendring av finansielle instrumenter vurdert til virkelig verdiNedskrivning av finansielle eiendelerRentekostnad til foretak i samme konsernAnnen finanskostnadResultat før skattekostnadSkattekostnadÅrsresultat
+(1) Resultatregnskapet etter art skal ha følgende oppstillingsplan:
+
+1. Salgsinntekt
+2. Annen driftsinntekt
+3. Endring i beholdning av varer under tilvirkning og ferdig tilvirkede varer
+4. Endring i beholdning av egentilvirkede anleggsmidler
+5. Varekostnad
+6. Lønnskostnad
+7. Avskrivning på varige driftsmidler og immaterielle eiendeler
+8. Nedskrivning av varige driftsmidler og immaterielle eiendeler
+9. Annen driftskostnad
+10. Driftsresultat
+11. Inntekt på investering i datterselskap og tilknyttet selskap
+12. Inntekt på andre investeringer
+13. Renteinntekt fra foretak i samme konsern
+14. Annen finansinntekt
+15. Verdiendring av finansielle instrumenter vurdert til virkelig verdi
+16. Nedskrivning av finansielle eiendeler
+17. Rentekostnad til foretak i samme konsern
+18. Annen finanskostnad
+19. Resultat før skattekostnad
+20. Skattekostnad
+21. Årsresultat
 
 (2) Salgsinntekt etter første ledd nr. 1 skal ikke omfatte skatter og avgifter direkte knyttet til salget. Første ledd nr. 11 og 12 skal spesifisere resultatandel fra investering vurdert etter egenkapitalmetoden eller bruttometoden.
 
@@ -670,7 +824,24 @@ Ved konserndannelse som gjennomføres ved kjøp av aksjer eller andeler m.v., sk
 
 ### § 6-1a. Resultatregnskap etter funksjon
 
-(1) Resultatregnskapet etter funksjon skal ha følgende oppstillingsplan:SalgsinntektKostnad solgte varerBrutto resultatDistribusjonskostnaderAdministrative kostnaderDriftsresultatInntekt på investering i datterselskap og tilknyttet selskapInntekt på andre investeringerRenteinntekt fra foretak i samme konsernRentekostnad til foretak i samme konsernAnnen finansinntektAnnen finanskostnadVerdiendring av finansielle instrumenter vurdert til virkelig verdiResultat før skattekostnadSkattekostnadÅrsresultat
+(1) Resultatregnskapet etter funksjon skal ha følgende oppstillingsplan:
+
+1. Salgsinntekt
+2. Kostnad solgte varer
+3. Brutto resultat
+4. Distribusjonskostnader
+5. Administrative kostnader
+6. Driftsresultat
+7. Inntekt på investering i datterselskap og tilknyttet selskap
+8. Inntekt på andre investeringer
+9. Renteinntekt fra foretak i samme konsern
+10. Rentekostnad til foretak i samme konsern
+11. Annen finansinntekt
+12. Annen finanskostnad
+13. Verdiendring av finansielle instrumenter vurdert til virkelig verdi
+14. Resultat før skattekostnad
+15. Skattekostnad
+16. Årsresultat
 
 (2) Salgsinntekt etter første ledd nr. 1 skal ikke omfatte skatter og avgifter direkte knyttet til salget. Første ledd nr. 7 og 8 skal spesifisere resultatandel fra investering vurdert etter egenkapitalmetoden eller bruttometoden.
 
@@ -679,7 +850,84 @@ Ved konserndannelse som gjennomføres ved kjøp av aksjer eller andeler m.v., sk
 ### § 6-2. Balanse
 
 (1) Balansen skal ha følgende oppstillingsplan:
-EIENDELERAnleggsmidlerImmaterielle eiendelerUtviklingKonsesjoner, patenter, lisenser, varemerker og lignende rettigheterUtsatt skattefordelGoodwillVarige driftsmidlerTomter, bygninger og annen fast eiendomMaskiner og anleggSkip, rigger, fly og lignendeDriftsløsøre, inventar, verktøy, kontormaskiner og lignendeFinansielle anleggsmidlerInvesteringer i datterselskapInvesteringer i annet foretak i samme konsernLån til foretak i samme konsernInvesteringer i tilknyttet selskapLån til tilknyttet selskap og felles kontrollert virksomhetInvesteringer i aksjer og andelerObligasjonerAndre fordringerOmløpsmidlerVarerFordringerKundefordringerAndre fordringerKrav på innbetaling av selskapskapitalInvesteringerAksjer og andeler i foretak i samme konsernMarkedsbaserte aksjerMarkedsbaserte obligasjonerAndre markedsbaserte finansielle instrumenterAndre finansielle instrumenterBankinnskudd, kontanter og lignendeEGENKAPITAL OG GJELDEgenkapitalInnskutt egenkapitalSelskapskapitalOverkursAnnen innskutt egenkapitalOpptjent egenkapitalFondAnnen egenkapitalGjeldAvsetning for forpliktelserPensjonsforpliktelserUtsatt skattAndre avsetninger for forpliktelserAnnen langsiktig gjeldKonvertible lånObligasjonslånGjeld til kredittinstitusjonerØvrig langsiktig gjeldKortsiktig gjeldKonvertible lånSertifikatlånGjeld til kredittinstitusjonerLeverandørgjeldBetalbar skattSkyldige offentlige avgifterAnnen kortsiktig gjeld
+EIENDELER
+
+1. Anleggsmidler
+
+   1. Immaterielle eiendeler
+
+      1. Utvikling
+      2. Konsesjoner, patenter, lisenser, varemerker og lignende rettigheter
+      3. Utsatt skattefordel
+      4. Goodwill
+   2. Varige driftsmidler
+
+      1. Tomter, bygninger og annen fast eiendom
+      2. Maskiner og anlegg
+      3. Skip, rigger, fly og lignende
+      4. Driftsløsøre, inventar, verktøy, kontormaskiner og lignende
+   3. Finansielle anleggsmidler
+
+      1. Investeringer i datterselskap
+      2. Investeringer i annet foretak i samme konsern
+      3. Lån til foretak i samme konsern
+      4. Investeringer i tilknyttet selskap
+      5. Lån til tilknyttet selskap og felles kontrollert virksomhet
+      6. Investeringer i aksjer og andeler
+      7. Obligasjoner
+      8. Andre fordringer
+2. Omløpsmidler
+
+   1. Varer
+   2. Fordringer
+
+      1. Kundefordringer
+      2. Andre fordringer
+      3. Krav på innbetaling av selskapskapital
+   3. Investeringer
+
+      1. Aksjer og andeler i foretak i samme konsern
+      2. Markedsbaserte aksjer
+      3. Markedsbaserte obligasjoner
+      4. Andre markedsbaserte finansielle instrumenter
+      5. Andre finansielle instrumenter
+   4. Bankinnskudd, kontanter og lignende
+
+EGENKAPITAL OG GJELD
+
+1. Egenkapital
+
+   1. Innskutt egenkapital
+
+      1. Selskapskapital
+      2. Overkurs
+      3. Annen innskutt egenkapital
+   2. Opptjent egenkapital
+
+      1. Fond
+      2. Annen egenkapital
+2. Gjeld
+
+   1. Avsetning for forpliktelser
+
+      1. Pensjonsforpliktelser
+      2. Utsatt skatt
+      3. Andre avsetninger for forpliktelser
+   2. Annen langsiktig gjeld
+
+      1. Konvertible lån
+      2. Obligasjonslån
+      3. Gjeld til kredittinstitusjoner
+      4. Øvrig langsiktig gjeld
+   3. Kortsiktig gjeld
+
+      1. Konvertible lån
+      2. Sertifikatlån
+      3. Gjeld til kredittinstitusjoner
+      4. Leverandørgjeld
+      5. Betalbar skatt
+      6. Skyldige offentlige avgifter
+      7. Annen kortsiktig gjeld
 
 (2) Beholdning av egne aksjer skal føres opp til pålydende på egen linje under posten selskapskapital eller spesifiseres i note eller i oppstillingen av endringer i egenkapitalen.
 
@@ -801,7 +1049,15 @@ Salgsinntekter skal spesifiseres på virksomhetsområde og geografisk marked.
 
 ### § 7-8b. Spesifisering av driftskostnader etter art
 
-(1) Dersom driftskostnadene ikke er spesifisert etter sin art i resultatregnskapet, skal spesifikasjon foretas etter følgende oppstilling:Endring i beholdning av varer under tilvirkning og ferdig tilvirkede varerEndring i beholdning av egentilvirkede anleggsmidlerVarekostnadLønnskostnadAvskrivning på varige driftsmidler og immaterielle eiendelerNedskrivning på varige driftsmidler og immaterielle eiendelerAnnen driftskostnad.
+(1) Dersom driftskostnadene ikke er spesifisert etter sin art i resultatregnskapet, skal spesifikasjon foretas etter følgende oppstilling:
+
+1. Endring i beholdning av varer under tilvirkning og ferdig tilvirkede varer
+2. Endring i beholdning av egentilvirkede anleggsmidler
+3. Varekostnad
+4. Lønnskostnad
+5. Avskrivning på varige driftsmidler og immaterielle eiendeler
+6. Nedskrivning på varige driftsmidler og immaterielle eiendeler
+7. Annen driftskostnad.
 
 (2) [§ 6-6](lov/1998-07-17-56/§6-6) om sammenligningstall gjelder tilsvarende.
 
@@ -827,7 +1083,12 @@ Det skal redegjøres for bruken av aksjeverdibasert betaling. Det skal opplyses 
 
 ### § 7-12. Anleggsmidler
 
-(1) For hver post under varige driftsmidler og immaterielle eiendeler skal det opplyses om:anskaffelseskost med spesifikasjon av balanseførte finansieringsutgifter knyttet til egentilvirkede anleggsmidler.tilgang og avgang i løpet av regnskapsåret,samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger, ogavskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsåret.
+(1) For hver post under varige driftsmidler og immaterielle eiendeler skal det opplyses om:
+
+1. anskaffelseskost med spesifikasjon av balanseførte finansieringsutgifter knyttet til egentilvirkede anleggsmidler.
+2. tilgang og avgang i løpet av regnskapsåret,
+3. samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger, og
+4. avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsåret.
 
 (2) Det skal opplyses om endring i avskrivningsplan.
 
@@ -945,7 +1206,11 @@ Det skal opplyses om størrelsen og arten av ekstraordinære inntekter og kostna
 
 (3) Det skal opplyses om aksjer eller andeler i selskapet samt rettigheter til slike, som eies av henholdsvis daglig leder og medlemmer av styret og bedriftsforsamlingen.
 
-(4) Foretak av allmenn interesse skal gi opplysninger som nevnt i tredje ledd spesifisert på de enkelte medlemmer av styret og deres personlig nærstående samt de enkelte ledende ansatte og deres personlig nærstående. Som personlig nærstående regnes:ektefelle og en person som vedkommende bor sammen med i ekteskapslignende forhold,mindreårige barn til vedkommende selv, samt mindreårige barn til en person som nevnt i nr. 1 som vedkommende bor sammen med, ogforetak der vedkommende selv eller noen som er nevnt i nr. 1 og 2 har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1998-07-17-56/§1-3) annet ledd.
+(4) Foretak av allmenn interesse skal gi opplysninger som nevnt i tredje ledd spesifisert på de enkelte medlemmer av styret og deres personlig nærstående samt de enkelte ledende ansatte og deres personlig nærstående. Som personlig nærstående regnes:
+
+1. ektefelle og en person som vedkommende bor sammen med i ekteskapslignende forhold,
+2. mindreårige barn til vedkommende selv, samt mindreårige barn til en person som nevnt i nr. 1 som vedkommende bor sammen med, og
+3. foretak der vedkommende selv eller noen som er nevnt i nr. 1 og 2 har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1998-07-17-56/§1-3) annet ledd.
 
 (5) Regnskapspliktige som er utstedere med Norge som hjemstat etter [verdipapirhandelloven § 5-4](lov/2007-06-29-75/§5-4), skal opplyse om vesentlige indirekte aksjebesittelser i selskapet. Aksjebesittelser som representerer minst 10 prosent av stemmerettene i selskapet, regnes som vesentlige etter første punktum.
 
@@ -957,7 +1222,11 @@ Det skal opplyses om størrelsen og arten av ekstraordinære inntekter og kostna
 
 (2) Aksjeselskap og allmennaksjeselskap som har en beholdning av egne aksjer etter aksjeloven og [allmennaksjeloven kapittel 9](lov/1997-06-13-45/kap9), skal opplyse om antallet, aksjenes pålydende verdi og den andel aksjene utgjør av aksjekapitalen.
 
-(3) Det skal opplyses om endringer i beholdning av egne aksjer og datterselskapenes beholdning av aksjer i morselskapet i løpet av regnskapsåret. Det skal minst opplyses om:bakgrunnen for erverv som har funnet sted,antall aksjer som er ervervet, vederlag for disse og den andel de utgjør av aksjekapitalen,antall aksjer som er avhendet, vederlag for disse og den andel de utgjør av aksjekapitalen.
+(3) Det skal opplyses om endringer i beholdning av egne aksjer og datterselskapenes beholdning av aksjer i morselskapet i løpet av regnskapsåret. Det skal minst opplyses om:
+
+1. bakgrunnen for erverv som har funnet sted,
+2. antall aksjer som er ervervet, vederlag for disse og den andel de utgjør av aksjekapitalen,
+3. antall aksjer som er avhendet, vederlag for disse og den andel de utgjør av aksjekapitalen.
 
 > Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
 
@@ -1003,7 +1272,12 @@ Det skal opplyses om foretaket er pliktig til å ha tjenestepensjonsordning ette
 
 (4) Det skal opplyses om forpliktelser knyttet til aksjeverdibaserte godtgjørelser til fordel for ansatte og tillitsvalgte. Det skal opplyses om arten og omfanget av de enkelte avtaler om aksjeverdibaserte godtgjørelser til fordel for de enkelte ledende ansatte og de enkelte medlemmer av styre, kontrollkomité og andre valgte selskapsorganer med unntak av bedriftsforsamlingen. Opplysningene om avtaler som nevnt i annet punktum skal minst omfatte en beskrivelse av på hvilken måte utviklingen av verdien til aksjene eller egenkapitalbevisene i selskapet eller i andre selskaper i samme konsern, har påvirket beregningen av den godtgjørelsen som er utbetalt i i regnskapsåret. For avtaler om aksjeverdibaserte godtgjørelser som ikke er avsluttet ved regnskapsårets slutt skal det opplyses om avtalens løpetid og det skal gis en beskrivelse av på hvilken måte det er avtalt at utviklingen i aksjenes verdi vil påvirke beregningen av fremtidige utbetalinger.
 
-(5) For aksjeverdibaserte godtgjørelser som utelukkende gjelder utdeling av aksjer, egenkapitalbevis eller opsjoner, skal det istedenfor opplysninger som nevnt i fjerde ledd tredje og fjerde punktum, gis følgende opplysninger:antall opsjoner som er tildelt samt aksjer eller egenkapitalbevis som er gitt av foretaket i løpet av regnskapsåret, og vilkårene for å benytte disse,antall opsjoner som er innløst i løpet av regnskapsåret. For hver av disse skal det opplyses om antall aksjer eller egenkapitalbevis som eventuelt er utdelt, innløsningskursen og eventuelle utbetalinger fra selskapet knyttet til innløsningen,antall opsjoner som ikke er innløst ved regnskapsårets slutt, innløsningskursen, forfallstidspunktet og hovedbetingelsene for å utøve rettighetene,endringer i vilkår knyttet til eksisterende aksjeverdibaserte godtgjørelser i løpet av regnskapsåret.
+(5) For aksjeverdibaserte godtgjørelser som utelukkende gjelder utdeling av aksjer, egenkapitalbevis eller opsjoner, skal det istedenfor opplysninger som nevnt i fjerde ledd tredje og fjerde punktum, gis følgende opplysninger:
+
+1. antall opsjoner som er tildelt samt aksjer eller egenkapitalbevis som er gitt av foretaket i løpet av regnskapsåret, og vilkårene for å benytte disse,
+2. antall opsjoner som er innløst i løpet av regnskapsåret. For hver av disse skal det opplyses om antall aksjer eller egenkapitalbevis som eventuelt er utdelt, innløsningskursen og eventuelle utbetalinger fra selskapet knyttet til innløsningen,
+3. antall opsjoner som ikke er innløst ved regnskapsårets slutt, innløsningskursen, forfallstidspunktet og hovedbetingelsene for å utøve rettighetene,
+4. endringer i vilkår knyttet til eksisterende aksjeverdibaserte godtgjørelser i løpet av regnskapsåret.
 
 (6) Fjerde ledd annet til fjerde punktum og femte ledd gjelder ikke heleide datterselskaper i konsern.
 
@@ -1023,11 +1297,23 @@ Det skal opplyses om godtgjørelse til revisor og hvordan godtgjørelsen er ford
 
 (3) Det skal videre gis opplysninger for hver person omfattet av første ledd som har hatt ansettelsesforhold eller verv for selskapet i løpet av regnskapsåret spesifisert i samsvar med fjerde til niende ledd.
 
-(4) Opplysninger om godtgjørelse eller honorarer skal minst omfatte:den totale lønn vedkommende har mottatt eller opptjent for tjenester ytt i løpet av regnskapsåret, herunder eventuelle møtehonorarer vedtatt av generalforsamlingen,godtgjørelse og fordeler vedkommende har mottatt fra foretak i samme konsern,godtgjørelse i form av overskuddsdeling eller bonusutbetalinger og grunnen til at slike ytelser er gitt,betydelig eller vesentlig tilleggsgodtgjørelse for spesielle tjenester utenfor de normale funksjoner for en leder,betalt eller skyldig vederlag til hver tidligere administrerende direktør og styreleder i regnskapsåret i forbindelse med avslutning av vedkommendes ansettelsesforhold eller verv, ogberegnet verdi av totale fordeler i annet enn kontanter som anses som godtgjørelse.
+(4) Opplysninger om godtgjørelse eller honorarer skal minst omfatte:
+
+1. den totale lønn vedkommende har mottatt eller opptjent for tjenester ytt i løpet av regnskapsåret, herunder eventuelle møtehonorarer vedtatt av generalforsamlingen,
+2. godtgjørelse og fordeler vedkommende har mottatt fra foretak i samme konsern,
+3. godtgjørelse i form av overskuddsdeling eller bonusutbetalinger og grunnen til at slike ytelser er gitt,
+4. betydelig eller vesentlig tilleggsgodtgjørelse for spesielle tjenester utenfor de normale funksjoner for en leder,
+5. betalt eller skyldig vederlag til hver tidligere administrerende direktør og styreleder i regnskapsåret i forbindelse med avslutning av vedkommendes ansettelsesforhold eller verv, og
+6. beregnet verdi av totale fordeler i annet enn kontanter som anses som godtgjørelse.
 
 (5) Opplysninger om aksjeverdibaserte godtgjørelser skal minst omfatte en beskrivelse av på hvilken måte utviklingen av verdien til aksjene eller egenkapitalbevisene i selskapet eller i andre selskaper i samme konsern, har påvirket beregningen av den godtgjørelsen som er utbetalt i regnskapsåret. For avtaler om aksjeverdibaserte godtgjørelser som ikke er avsluttet ved regnskapsårets slutt skal det opplyses om avtalens løpetid og det skal gis en beskrivelse av på hvilken måte det er avtalt at utviklingen i aksjenes verdi vil påvirke beregningen av fremtidige utbetalinger.
 
-(6) For aksjeverdibaserte godtgjørelser som utelukkende gjelder utdeling av aksjer, egenkapitalbevis eller opsjoner, skal det istedenfor opplysninger som nevnt i femte ledd, gis opplysninger om:antall opsjoner som er tildelt samt aksjer eller egenkapitalbevis som er gitt av foretaket i løpet av regnskapsåret, og vilkårene for å benytte disse,antall opsjoner som er innløst i løpet av regnskapsåret. For hver av disse skal det opplyses om antall aksjer eller egenkapitalbevis som eventuelt er utdelt, innløsningskursen og eventuelle utbetalinger fra selskapet knyttet til innløsningen,antall opsjoner som ikke er innløst ved regnskapsårets slutt, innløsningskursen, forfallstidspunktet og hovedbetingelsene for å utøve rettighetene,endringer i vilkår knyttet til eksisterende aksjeverdibaserte godtgjørelser i løpet av regnskapsåret.
+(6) For aksjeverdibaserte godtgjørelser som utelukkende gjelder utdeling av aksjer, egenkapitalbevis eller opsjoner, skal det istedenfor opplysninger som nevnt i femte ledd, gis opplysninger om:
+
+1. antall opsjoner som er tildelt samt aksjer eller egenkapitalbevis som er gitt av foretaket i løpet av regnskapsåret, og vilkårene for å benytte disse,
+2. antall opsjoner som er innløst i løpet av regnskapsåret. For hver av disse skal det opplyses om antall aksjer eller egenkapitalbevis som eventuelt er utdelt, innløsningskursen og eventuelle utbetalinger fra selskapet knyttet til innløsningen,
+3. antall opsjoner som ikke er innløst ved regnskapsårets slutt, innløsningskursen, forfallstidspunktet og hovedbetingelsene for å utøve rettighetene,
+4. endringer i vilkår knyttet til eksisterende aksjeverdibaserte godtgjørelser i løpet av regnskapsåret.
 
 (7) For ytelsesbaserte pensjonsordninger skal det minst opplyses om endringer i den enkeltes opptjente rettigheter etter ordningen i løpet av regnskapsåret. For innskuddsbaserte pensjonsordninger skal det minst gis opplysninger om innskudd i ordningen som foretaket i løpet av regnskapsåret har betalt eller er blitt skyldig for hver person som er omfattet av første ledd.
 
@@ -1049,7 +1335,13 @@ Det skal opplyses om godtgjørelse til revisor og hvordan godtgjørelsen er ford
 
 (1) Lån til eller sikkerhetsstillelse til fordel for daglig leder og leder av styret skal spesifiseres. For hvert lån skal det opplyses om hvilke vilkår som gjelder, herunder rentesatsen og avdragsplanen.
 
-(2) Det skal opplyses om samlede lån til og samlet sikkerhetsstillelse til fordel for ansatte, aksjeeiere og medlemmer av styret og bedriftsforsamlingen. I aksjeselskap og allmennaksjeselskap skal opplysningene også omfatte lån til eller sikkerhetsstillelse til fordel for nærstående til aksjeeiere, og medlemmer av styret og bedriftsforsamlingen. Det skal opplyses om hvilke vilkår som gjelder for slike lån eller sikkerhetsstillelser. Lån eller sikkerhetsstillelser som utgjør mer enn 5 prosent av egenkapitalen etter balansen, skal spesifiseres. Som nærstående etter denne paragraf regnes:ektefelle og en person som vedkommende bor sammen med i ekteskapslignende forhold,slektninger i rett oppstigende eller nedstigende linje og søsken,slektninger i rett oppstigende eller nedstigende linje og søsken til en person som nevnt i nr. 1,ektefelle til, og en person som bor sammen i ekteskapslignende forhold med, noen som er nevnt i nr. 2,foretak der vedkommende selv eller noen som er nevnt i nr. 1 til 4, har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1998-07-17-56/§1-3) annet ledd.
+(2) Det skal opplyses om samlede lån til og samlet sikkerhetsstillelse til fordel for ansatte, aksjeeiere og medlemmer av styret og bedriftsforsamlingen. I aksjeselskap og allmennaksjeselskap skal opplysningene også omfatte lån til eller sikkerhetsstillelse til fordel for nærstående til aksjeeiere, og medlemmer av styret og bedriftsforsamlingen. Det skal opplyses om hvilke vilkår som gjelder for slike lån eller sikkerhetsstillelser. Lån eller sikkerhetsstillelser som utgjør mer enn 5 prosent av egenkapitalen etter balansen, skal spesifiseres. Som nærstående etter denne paragraf regnes:
+
+1. ektefelle og en person som vedkommende bor sammen med i ekteskapslignende forhold,
+2. slektninger i rett oppstigende eller nedstigende linje og søsken,
+3. slektninger i rett oppstigende eller nedstigende linje og søsken til en person som nevnt i nr. 1,
+4. ektefelle til, og en person som bor sammen i ekteskapslignende forhold med, noen som er nevnt i nr. 2,
+5. foretak der vedkommende selv eller noen som er nevnt i nr. 1 til 4, har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1998-07-17-56/§1-3) annet ledd.
 
 > Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
 
@@ -1109,7 +1401,12 @@ Det skal gis opplysninger om egenskaper ved og omfang av finansielle derivater s
 
 ### § 7-39. Anleggsmidler
 
-(1) For varige driftsmidler og immaterielle eiendeler skal det opplyses om:anskaffelseskost med spesifikasjon av balanseførte lånekostnader knyttet til egentilvirkede anleggsmidler,tilgang og avgang i løpet av regnskapsåret,samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger, ogavskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsåret.
+(1) For varige driftsmidler og immaterielle eiendeler skal det opplyses om:
+
+1. anskaffelseskost med spesifikasjon av balanseførte lånekostnader knyttet til egentilvirkede anleggsmidler,
+2. tilgang og avgang i løpet av regnskapsåret,
+3. samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger, og
+4. avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsåret.
 
 (2) Det skal opplyses om økonomisk levetid og valg av avskrivningsplan for immaterielle eiendeler.
 
@@ -1135,7 +1432,11 @@ Det skal opplyses om størrelsen og arten av ekstraordinære inntekter og kostna
 
 (1) Har selskapet en beholdning av egne aksjer etter [aksjeloven kapittel 9](lov/1997-06-13-44/kap9), skal det opplyses om antallet, aksjenes pålydende verdi og den andel aksjene utgjør av aksjekapitalen.
 
-(2) Det skal opplyses om endringer i beholdning av egne aksjer og datterselskapenes beholdning av aksjer i morselskapet i løpet av regnskapsåret. Det skal minst opplyses om:bakgrunnen for erverv som har funnet sted,antall aksjer som er ervervet, vederlag for disse og den andel de utgjør av aksjekapitalen,antall aksjer som er avhendet, vederlag for disse og den andel de utgjør av aksjekapitalen.
+(2) Det skal opplyses om endringer i beholdning av egne aksjer og datterselskapenes beholdning av aksjer i morselskapet i løpet av regnskapsåret. Det skal minst opplyses om:
+
+1. bakgrunnen for erverv som har funnet sted,
+2. antall aksjer som er ervervet, vederlag for disse og den andel de utgjør av aksjekapitalen,
+3. antall aksjer som er avhendet, vederlag for disse og den andel de utgjør av aksjekapitalen.
 
 (3) Samvirkeforetak som har medlemskapitalkonti i samsvar med [lov om samvirkeforetak § 29](lov/2007-06-29-81/§29), skal gi opplysninger om årets utbetaling og avsetning. Det skal også opplyses om eventuelle vedtektsbestemmelser og årsmøtevedtak eller forslag til vedtak knyttet til medlemskapitalkonti.
 
@@ -1354,7 +1655,10 @@ I denne forordning menes med «internasjonale regnskapsstandarder» Internationa
 
 1\. Etter framgangsmåten fastsatt i artikkel 6 nr. 2 skal Kommisjonen avgjøre hvordan de internasjonale regnskapsstandardene skal få anvendelse i Fellesskapet.
 
-2\. De internasjonale regnskapsstandardene kan bare vedtas dersomde ikke strider mot prinsippet fastsatt i artikkel 2 nr. 3 i direktiv [78/660/EØF](eu/31978l0660) og artikkel 16 nr. 3 i direktiv [83/349/EØF](eu/31983l0349*) og dersom de er i den europeiske offentlighetens interesse,de oppfyller kriteriene med hensyn til lettfattelighet, relevans, pålitelighet og sammenlignbarhet for den finansielle informasjon som er nødvendig for å treffe økonomiske beslutninger og vurdere selskapsledelsens arbeid.
+2\. De internasjonale regnskapsstandardene kan bare vedtas dersom
+
+- de ikke strider mot prinsippet fastsatt i artikkel 2 nr. 3 i direktiv [78/660/EØF](eu/31978l0660) og artikkel 16 nr. 3 i direktiv [83/349/EØF](eu/31983l0349*) og dersom de er i den europeiske offentlighetens interesse,
+- de oppfyller kriteriene med hensyn til lettfattelighet, relevans, pålitelighet og sammenlignbarhet for den finansielle informasjon som er nødvendig for å treffe økonomiske beslutninger og vurdere selskapsledelsens arbeid.
 
 3\. Kommisjonen skal, etter framgangsmåten fastsatt i artikkel 6 nr. 2 og senest 31. desember 2002 treffe beslutning om anvendelsen i Fellesskapet av de internasjonale regnskapsstandardene som foreligger ved ikrafttredelsen av denne forordning.
 
@@ -1366,17 +1670,26 @@ I denne forordning menes med «internasjonale regnskapsstandarder» Internationa
 
 For hvert regnskapsår som starter 1. januar 2005 eller senere skal selskaper som er underlagt en medlemsstats [EØS-stat] lovgivning, utarbeide sitt konsernregnskap i samsvar med de internasjonale regnskapsstandardene som er vedtatt etter framgangsmåten fastsatt i artikkel 6 nr. 2, dersom deres verdipapirer på balansedagen er notert i et regulert marked i en medlemsstat [EØS-stat] i henhold til artikkel 1 nr. 13 i rådsdirektiv [93/22/EØF](eu/31993l0022*) av 10. mai 1993 om investeringstjenester i forbindelse med verdipapirer.1 \*
 
-1 EFT L 141 av 11.6.1993, s. 27. Direktivet sist endret ved europaparlaments- og rådsdirektiv [2000/64/EF](eu/32000l0064) (EFT L 290 av 17.11.2000, s. 27).\* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 7 at rettigheter og plikter som EUs medlemsstater eller deres offentlige institusjoner, foretak eller enkeltpersoner har i forhold til hverandre, skal forstås som tilsvarende rettigheter og plikter i forhold til partene i EØS-avtalen, deres offentlige myndigheter, foretak eller enkeltpersoner. Dette er markert ved å sette [EØS-stat] inn i teksten. Dir [93/22](eu/31993l0022*) er nå erstattet av dir [2004/39](eu/32004l0039*), jf. EØS-avtalen vedlegg IX nr. 31ba.
+1 EFT L 141 av 11.6.1993, s. 27. Direktivet sist endret ved europaparlaments- og rådsdirektiv [2000/64/EF](eu/32000l0064) (EFT L 290 av 17.11.2000, s. 27).
+
+\* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 7 at rettigheter og plikter som EUs medlemsstater eller deres offentlige institusjoner, foretak eller enkeltpersoner har i forhold til hverandre, skal forstås som tilsvarende rettigheter og plikter i forhold til partene i EØS-avtalen, deres offentlige myndigheter, foretak eller enkeltpersoner. Dette er markert ved å sette [EØS-stat] inn i teksten. Dir [93/22](eu/31993l0022*) er nå erstattet av dir [2004/39](eu/32004l0039*), jf. EØS-avtalen vedlegg IX nr. 31ba.
 
 ### Art 5. Valgmuligheter med hensyn til årsregnskap og selskaper hvis verdipapirer ikke omsettes offentlig
 
-Medlemsstatene [EØS-statene] kan tillate eller kreve atselskapene omhandlet i artikkel 4 utarbeider sitt årsregnskap,selskaper som ikke er omhandlet i artikkel 4, utarbeider sitt konsernregnskap og/eller årsregnskap,i samsvar med de internasjonale regnskapsstandarder som er vedtatt etter framgangsmåten fastsatt i artikkel 6 nr. 2.
+Medlemsstatene [EØS-statene] kan tillate eller kreve at
+
+1. selskapene omhandlet i artikkel 4 utarbeider sitt årsregnskap,
+2. selskaper som ikke er omhandlet i artikkel 4, utarbeider sitt konsernregnskap og/eller årsregnskap,
+
+i samsvar med de internasjonale regnskapsstandarder som er vedtatt etter framgangsmåten fastsatt i artikkel 6 nr. 2.
 
 ### Art 6. Framgangsmåte med komité
 
 1\. Kommisjonen skal bistås av en komité for regnskapsregulering, heretter kalt «komiteen».
 
-2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
 3\. Komiteen fastsetter sin forretningsorden.
 
@@ -1398,7 +1711,10 @@ Dersom medlemsstater vedtar tiltak i henhold til artikkel 5, skal de umiddelbart
 
 ### Art 9. Overgangsbestemmelser
 
-Som unntak fra artikkel 4 kan medlemsstatene [EØS-statene] fastsette at kravene i artikkel 4 får anvendelse bare for regnskapsår som starter i januar 2007 eller senere for de selskaperhvis gjeldsinstrumenter bare er tatt opp til notering i et regulert marked i en medlemsstat i henhold til artikkel 1 nr. 13 i direktiv [93/22/EØF](eu/31993l0022*),\* ellerhvis verdipapirer er tatt opp til notering for offentlig handel i en tredjestat og som for det formål har anvendt internasjonalt aksepterte standarder fra og med et regnskapsår som startet før denne forordning ble kunngjort i *De Europeiske Fellesskaps Tidende*.
+Som unntak fra artikkel 4 kan medlemsstatene [EØS-statene] fastsette at kravene i artikkel 4 får anvendelse bare for regnskapsår som starter i januar 2007 eller senere for de selskaper
+
+1. hvis gjeldsinstrumenter bare er tatt opp til notering i et regulert marked i en medlemsstat i henhold til artikkel 1 nr. 13 i direktiv [93/22/EØF](eu/31993l0022*),\* eller
+2. hvis verdipapirer er tatt opp til notering for offentlig handel i en tredjestat og som for det formål har anvendt internasjonalt aksepterte standarder fra og med et regnskapsår som startet før denne forordning ble kunngjort i *De Europeiske Fellesskaps Tidende*.
 
 \* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Dir [93/22](eu/31993l0022*) er nå erstattet av dir [2004/39](eu/32004l0039*), jf. EØS-avtalen vedlegg IX nr. 31ba.
 

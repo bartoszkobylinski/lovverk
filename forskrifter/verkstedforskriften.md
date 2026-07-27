@@ -40,13 +40,28 @@ Arbeid som nevnt i første ledd skal foretas på forsvarlig måte av kompetent p
 
 Kun virksomhet som oppfyller vilkårene [§ 5](forskrift/2020-10-28-2170/§5) eller i kapittel 3 og som er godkjent av Statens vegvesen kan utføre reparasjons-, vedlikeholds-, ombyggings-, oppbyggings- og påbyggingsarbeid på kjøretøys bremseanlegg, styreinnretning, bærende konstruksjon, drivverk, hjuloppheng, hjulutrustning, motor, energibærersystem, sikkerhets- og førerassistentsystemer og elektriske anlegg medregnet lysutstyr. Det samme gjelder monteringsarbeid som griper inn i kjøretøyets bærende konstruksjoner, elektriske anlegg og styrings- og førerassistentsystemer.
 
-Kravet til godkjenning gjelder arbeid på:bilto- og trehjuls motorvogntraktor og motorredskap som er konstruert for en hastighet på over 40 km/htilhenger med brems til kjøretøy som nevnt over.
+Kravet til godkjenning gjelder arbeid på:
+
+1. bil
+2. to- og trehjuls motorvogn
+3. traktor og motorredskap som er konstruert for en hastighet på over 40 km/h
+4. tilhenger med brems til kjøretøy som nevnt over.
 
 De forskjellige verkstedskategorier kan i den grad det er nødvendig for det aktuelle arbeid og de har den nødvendige kompetanse, utføre demontering og montering av komponenter som ikke omfattes av det arbeidsområdet kjøretøyverkstedet er godkjent for.
 
 ### § 4. Kategorier av kjøretøyverksteder
 
-Godkjenning av kjøretøyverksted blir gitt av Statens vegvesen for følgende kategorier:Bilverksted 01 – verksted som kan tilby alle typer arbeid på alle kjøretøy med tillatt totalvekt ikke over 3 500 kg, med unntak av de kjøretøyer som er omfattet av kategoriene i bokstav d, f og i. Bilverksted 01 kan også godkjennes spesielt for arbeid på kjøretøy med tillatt totalvekt ikke over 7 500 kg og som er utstyrt med hydraulisk bremseanlegg.Bilverksted 02 – verksted som kan tilby alle typer arbeid på alle kjøretøy med tillatt totalvekt over 3 500 kg, men ikke over 7 500 kg, med unntak av de kjøretøyer som omfattes av kategoriene i bokstav d, f og i.Bilverksted 03 – verksted som kan tilby alle typer arbeid på alle kjøretøy med tillatt totalvekt over 7 500 kg, med unntak av de kjøretøyer som omfattes av kategoriene i bokstav d, f og i.Motorsykkel- og mopedverksted – verksted som kan tilby alle typer arbeid, inkludert alle skadereparasjoner, på motorsykler og mopeder, herunder tre- og firehjuls motorsykler og mopeder.Skadeverksted 01 – verksted som kan tilby skadereparasjoner, med unntak av omfattende skader slik det defineres i [kjøretøyforskriften § 7-2](forskrift/1994-10-04-918/§7-2).Skadeverksted 02 – verksted som kan tilby alle skadereparasjoner, inkludert omfattende skader slik det defineres i [kjøretøyforskriften § 7-2](forskrift/1994-10-04-918/§7-2).Hjulutrustningsverksted – verksted som kan utføre arbeid på kjøretøys hjulutrustning, inkludert dekk, slange, hjul, hjuloppheng, drivaksel/drivakselledd, hjulbrems og styring.Påbyggerverksted – verksted som kan tilby påbyggings-, oppbyggings- og ombyggingsarbeid på kjøretøy i samsvar med kjøretøyfabrikantens anvisninger.Traktorverksted – verksted som kan tilby alle typer arbeid, inkludert alle skadereparasjoner på traktor og motorredskap som er konstruert for en hastighet over 40 km/t, tilhenger til traktor eller motorredskap. Traktorverksted kan i tillegg tilby arbeid på bremseanlegg på tilhenger med tillatt totalvekt ikke over 3 500 kg (O1 og O2).
+Godkjenning av kjøretøyverksted blir gitt av Statens vegvesen for følgende kategorier:
+
+1. Bilverksted 01 – verksted som kan tilby alle typer arbeid på alle kjøretøy med tillatt totalvekt ikke over 3 500 kg, med unntak av de kjøretøyer som er omfattet av kategoriene i bokstav d, f og i. Bilverksted 01 kan også godkjennes spesielt for arbeid på kjøretøy med tillatt totalvekt ikke over 7 500 kg og som er utstyrt med hydraulisk bremseanlegg.
+2. Bilverksted 02 – verksted som kan tilby alle typer arbeid på alle kjøretøy med tillatt totalvekt over 3 500 kg, men ikke over 7 500 kg, med unntak av de kjøretøyer som omfattes av kategoriene i bokstav d, f og i.
+3. Bilverksted 03 – verksted som kan tilby alle typer arbeid på alle kjøretøy med tillatt totalvekt over 7 500 kg, med unntak av de kjøretøyer som omfattes av kategoriene i bokstav d, f og i.
+4. Motorsykkel- og mopedverksted – verksted som kan tilby alle typer arbeid, inkludert alle skadereparasjoner, på motorsykler og mopeder, herunder tre- og firehjuls motorsykler og mopeder.
+5. Skadeverksted 01 – verksted som kan tilby skadereparasjoner, med unntak av omfattende skader slik det defineres i [kjøretøyforskriften § 7-2](forskrift/1994-10-04-918/§7-2).
+6. Skadeverksted 02 – verksted som kan tilby alle skadereparasjoner, inkludert omfattende skader slik det defineres i [kjøretøyforskriften § 7-2](forskrift/1994-10-04-918/§7-2).
+7. Hjulutrustningsverksted – verksted som kan utføre arbeid på kjøretøys hjulutrustning, inkludert dekk, slange, hjul, hjuloppheng, drivaksel/drivakselledd, hjulbrems og styring.
+8. Påbyggerverksted – verksted som kan tilby påbyggings-, oppbyggings- og ombyggingsarbeid på kjøretøy i samsvar med kjøretøyfabrikantens anvisninger.
+9. Traktorverksted – verksted som kan tilby alle typer arbeid, inkludert alle skadereparasjoner på traktor og motorredskap som er konstruert for en hastighet over 40 km/t, tilhenger til traktor eller motorredskap. Traktorverksted kan i tillegg tilby arbeid på bremseanlegg på tilhenger med tillatt totalvekt ikke over 3 500 kg (O1 og O2).
 
 Statens vegvesen registrerer opplysninger om verksted i sitt elektroniske register.
 
@@ -54,7 +69,14 @@ Statens vegvesen registrerer opplysninger om verksted i sitt elektroniske regist
 
 Statens vegvesen kan utstede særlig arbeidstillatelse til virksomheter for bestemte typer arbeid.
 
-Særlig arbeidstillatelse kan gis for følgende typer arbeid på kjøretøy, forutsatt at de nærmere fastsatte vilkårene til egnet sted, nødvendige tillatelser, kompetanse, verktøy og utstyr, herunder krav til vedlikehold og kalibrering, er oppfylt:arbeid på lysutstyr: Gjelder arbeid på lys, lykter, lykteinnsatser og lykteglass samt kontroll og justering av lys.arbeid på hjul: Omlegging av dekk og slanger, lapping av slanger, plugging av slangeløse dekk når ferdig bearbeidet hull ikke er større enn 6 millimeter, pigging av dekk og avbalansering av hjul. Tillatelse til plugging av slangeløse dekk kan også gis for bearbeidet hull større enn 6 millimeter dersom virksomheten dokumenterer å ha særlig kompetanse og utstyr for formålet.arbeid på bremseanlegg på tilhenger med tillatt totalvekt ikke over 3 500 kg (O1 og O2).arbeid på eksosanlegg: Reparasjon, demontering og montering av eksosrør, lyddempere og komponenter i eksosanlegget med tilhørende rensesystem.arbeid på bilglass: Reparasjon, demontering og montering av limt bilglass.arbeid på mykkarosseri (sandwichkonstruksjon) på campingbiler og campingvogner.
+Særlig arbeidstillatelse kan gis for følgende typer arbeid på kjøretøy, forutsatt at de nærmere fastsatte vilkårene til egnet sted, nødvendige tillatelser, kompetanse, verktøy og utstyr, herunder krav til vedlikehold og kalibrering, er oppfylt:
+
+1. arbeid på lysutstyr: Gjelder arbeid på lys, lykter, lykteinnsatser og lykteglass samt kontroll og justering av lys.
+2. arbeid på hjul: Omlegging av dekk og slanger, lapping av slanger, plugging av slangeløse dekk når ferdig bearbeidet hull ikke er større enn 6 millimeter, pigging av dekk og avbalansering av hjul. Tillatelse til plugging av slangeløse dekk kan også gis for bearbeidet hull større enn 6 millimeter dersom virksomheten dokumenterer å ha særlig kompetanse og utstyr for formålet.
+3. arbeid på bremseanlegg på tilhenger med tillatt totalvekt ikke over 3 500 kg (O1 og O2).
+4. arbeid på eksosanlegg: Reparasjon, demontering og montering av eksosrør, lyddempere og komponenter i eksosanlegget med tilhørende rensesystem.
+5. arbeid på bilglass: Reparasjon, demontering og montering av limt bilglass.
+6. arbeid på mykkarosseri (sandwichkonstruksjon) på campingbiler og campingvogner.
 
 Virksomheten skal ha minst én faglig ansvarlig med relevant fagbrev eller som har gjennomgått spesiell opplæring i regi av fabrikant/importør, leverandør eller kursarrangør. Vedkommende skal i tillegg ha dokumentert minimum 6 måneders relevant praksis.
 
@@ -68,7 +90,16 @@ Statens vegvesen registrerer opplysninger, herunder personopplysninger i sitt el
 
 ### § 6. Unntak fra krav til godkjenning
 
-Følgende arbeid er unntatt fra krav til godkjenning:reparasjons- og vedlikeholdsarbeid som utføres som ledd i videregående fagopplæring.enkle reparasjoner og utskiftinger som ikke omfatter bærende konstruksjoner og vitale deler på kjøretøyet, herunder også mindre justeringsarbeid utført i naturlig sammenheng med gjennomføring av tester.nødreparasjon på kjøretøy som nødvendig del av redningstjeneste.arbeid som blir utført av fabrikant på egenproduserte kjøretøy eller på egenproduserte deler og utstyr til kjøretøy.reparasjons- og vedlikeholdsarbeid på avmonterte komponenter av kjøretøy. Statens vegvesen kan etter skriftlig søknad gi tillatelse til at av- og påmontering av delene blir gjort av virksomheten når særlige grunner taler for det og virksomheten anses kvalifisert.reparasjons- og vedlikeholdsarbeid som blir utført av eieren eller medlemmer av eierens husstand på kjøretøy som er registrert på eieren, eller har vært registrert i eierens navn på tidspunktet for eventuell avskilting. Unntaket gjelder også dersom den som utfører reparasjons- og vedlikeholdsarbeid har rådighet over kjøretøy på leasingkontrakt, dersom det er tillatt i kontrakten. Unntaket gjelder ikke når eieren reparerer kjøretøy som blir omsatt i næringsøyemed. Unntaket gjelder heller ikke dersom det foretas reparasjonsarbeid på kjøretøy med omfattende skade som definert i [kjøretøyforskriften § 7-2](forskrift/1994-10-04-918/§7-2), med mindre Statens vegvesen i spesielle tilfeller har gitt tillatelse til slikt arbeid.ombygging, oppbygging og påbygging i henhold til [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav til godkjenning av kjøretøy, deler og utstyr ([kjøretøyforskriften) kapittel 7](forskrift/1994-10-04-918/kap7) som blir utført av eier eller medlemmer av eierens husstand på kjøretøy som er registrert på eieren, eller har vært registrert i eierens navn på tidspunktet for eventuell avskilting, og eieren av kjøretøyet på forhånd har fått tillatelse av Statens vegvesen til utførelse av dette arbeidet. Unntaket gjelder ikke når eieren ombygger, oppbygger eller påbygger kjøretøy som blir omsatt i næringsøyemed.arbeid på lisensierte kjøretøy som utelukkende nyttes til trenings- og konkurransekjøring på lukket bane eller annet avsperret område og hvor kjøringen skjer i regi av og med medlemmer i klubb tilsluttet Norges bilsportforbund eller Norges motorsykkelforbund.
+Følgende arbeid er unntatt fra krav til godkjenning:
+
+1. reparasjons- og vedlikeholdsarbeid som utføres som ledd i videregående fagopplæring.
+2. enkle reparasjoner og utskiftinger som ikke omfatter bærende konstruksjoner og vitale deler på kjøretøyet, herunder også mindre justeringsarbeid utført i naturlig sammenheng med gjennomføring av tester.
+3. nødreparasjon på kjøretøy som nødvendig del av redningstjeneste.
+4. arbeid som blir utført av fabrikant på egenproduserte kjøretøy eller på egenproduserte deler og utstyr til kjøretøy.
+5. reparasjons- og vedlikeholdsarbeid på avmonterte komponenter av kjøretøy. Statens vegvesen kan etter skriftlig søknad gi tillatelse til at av- og påmontering av delene blir gjort av virksomheten når særlige grunner taler for det og virksomheten anses kvalifisert.
+6. reparasjons- og vedlikeholdsarbeid som blir utført av eieren eller medlemmer av eierens husstand på kjøretøy som er registrert på eieren, eller har vært registrert i eierens navn på tidspunktet for eventuell avskilting. Unntaket gjelder også dersom den som utfører reparasjons- og vedlikeholdsarbeid har rådighet over kjøretøy på leasingkontrakt, dersom det er tillatt i kontrakten. Unntaket gjelder ikke når eieren reparerer kjøretøy som blir omsatt i næringsøyemed. Unntaket gjelder heller ikke dersom det foretas reparasjonsarbeid på kjøretøy med omfattende skade som definert i [kjøretøyforskriften § 7-2](forskrift/1994-10-04-918/§7-2), med mindre Statens vegvesen i spesielle tilfeller har gitt tillatelse til slikt arbeid.
+7. ombygging, oppbygging og påbygging i henhold til [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav til godkjenning av kjøretøy, deler og utstyr ([kjøretøyforskriften) kapittel 7](forskrift/1994-10-04-918/kap7) som blir utført av eier eller medlemmer av eierens husstand på kjøretøy som er registrert på eieren, eller har vært registrert i eierens navn på tidspunktet for eventuell avskilting, og eieren av kjøretøyet på forhånd har fått tillatelse av Statens vegvesen til utførelse av dette arbeidet. Unntaket gjelder ikke når eieren ombygger, oppbygger eller påbygger kjøretøy som blir omsatt i næringsøyemed.
+8. arbeid på lisensierte kjøretøy som utelukkende nyttes til trenings- og konkurransekjøring på lukket bane eller annet avsperret område og hvor kjøringen skjer i regi av og med medlemmer i klubb tilsluttet Norges bilsportforbund eller Norges motorsykkelforbund.
 
 ## Kapittel 3 – Vilkår for godkjenning
 
@@ -76,7 +107,15 @@ Følgende arbeid er unntatt fra krav til godkjenning:reparasjons- og vedlikehold
 
 Lokaler og teknisk utstyr som skal benyttes av godkjent kjøretøyverksted skal være egnet til formålet og ha nødvendige tillatelser. Teknisk utstyr skal i tillegg være vedlikeholdt og kalibrert i henhold til anerkjente kalibreringsmetoder.
 
-Det kreves at de forskjellige kategoriene av kjøretøyverksteder skal ha følgende utstyr:Bilverksted 01, bilverksted 02 og bilverksted 03 skal ha kjøretøyløfter eller arbeidsgrav. Bilverksted 02 og 03 skal i tillegg ha bremseprøver.Motorsykkel- og mopedverksted skal ha løftebenk/løftebord.Skadeverksted 01 skal ha nødvendig måle- og sammenføyningsutstyr.Skadeverksted 02 skal ha rettebenk og nødvendig måle- og sammenføyningsutstyr.Hjulutrustningsverksted skal ha utstyr for reparasjon av dekk og utstyr for kontroll av hjulstilling.Påbyggerverksted skal ha utstyr for mekaniske arbeider på kjøretøyenes ramme og påbygg.Traktorverksted skal ha egnet løfteutstyr.
+Det kreves at de forskjellige kategoriene av kjøretøyverksteder skal ha følgende utstyr:
+
+1. Bilverksted 01, bilverksted 02 og bilverksted 03 skal ha kjøretøyløfter eller arbeidsgrav. Bilverksted 02 og 03 skal i tillegg ha bremseprøver.
+2. Motorsykkel- og mopedverksted skal ha løftebenk/løftebord.
+3. Skadeverksted 01 skal ha nødvendig måle- og sammenføyningsutstyr.
+4. Skadeverksted 02 skal ha rettebenk og nødvendig måle- og sammenføyningsutstyr.
+5. Hjulutrustningsverksted skal ha utstyr for reparasjon av dekk og utstyr for kontroll av hjulstilling.
+6. Påbyggerverksted skal ha utstyr for mekaniske arbeider på kjøretøyenes ramme og påbygg.
+7. Traktorverksted skal ha egnet løfteutstyr.
 
 Utover utstyrskrav som nevnt i annet ledd, må verkstedet ha tilgang til nødvendig utstyr og verktøy for de arbeidsoperasjonene som verkstedet skal utføre.
 
@@ -106,9 +145,22 @@ Statens vegvesen registrerer opplysninger, herunder personopplysninger, om tekni
 
 ### § 10. Krav til teknisk leder
 
-Teknisk leder ved godkjent verksted skal være godkjent av Statens vegvesen, jf. [§ 9](forskrift/2020-10-28-2170/§9). For å få godkjenning som teknisk leder må vedkommende ha:fagbrev tilpasset den kjøretøykategorien vedkommende skal godkjennes for.opparbeidet relevant praksis som nærmere fastsatt hos godkjent verksted.
+Teknisk leder ved godkjent verksted skal være godkjent av Statens vegvesen, jf. [§ 9](forskrift/2020-10-28-2170/§9). For å få godkjenning som teknisk leder må vedkommende ha:
 
-Teknisk leder skal oppfylle følgende krav:Bilverksted 01: Fagbrev som «bilmekaniker tunge kjøretøy» eller som «bilmekaniker lette kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.Bilverksted 02: Fagbrev som «bilmekaniker tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.Bilverksted 03: Fagbrev som «bilmekaniker tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.Motorsykkel- og mopedverksted: Fagbrev som «bilmekaniker tunge kjøretøy» eller som «bilmekaniker lette kjøretøy» eller for «motorsykkelmekaniker» og 3 års relevant praksis etter bestått fagprøve, alternativt 6 års relevant praksis i tillegg til bestått fagprøve.Skadeverksted 01: Fagbrev som «bilmekaniker lette», «bilmekaniker tunge» eller som «bilskadereparatør» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.Skadeverksted 02: Fagbrev som «bilskadereparatør» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve. Det kreves i tillegg spesiell opplæring om reparasjoner av omfattende skader. Statens vegvesen kan i retningslinjer til forskriften fastsette nærmere krav til innhold og omfang i slik opplæring.Hjulutrustningsverksted: Fagbrev som «reparatør av hjulutrustning», eller fagbrev som «bilmekaniker tunge kjøretøy» eller som «bilmekaniker lette kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.Påbyggerverksted: Fagbrev som «industrimekaniker», «industrimontør», «chassispåbygger», eller «bilmekaniker tunge kjøretøy» eller som «bilmekaniker lette kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.Traktorverksted: Fagbrev som «landbruksmaskinmekaniker», «anleggsmaskinmekaniker» eller som «bilmekaniker tunge kjøretøy» og 4 års relevant praksis etter fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+1. fagbrev tilpasset den kjøretøykategorien vedkommende skal godkjennes for.
+2. opparbeidet relevant praksis som nærmere fastsatt hos godkjent verksted.
+
+Teknisk leder skal oppfylle følgende krav:
+
+1. Bilverksted 01: Fagbrev som «bilmekaniker tunge kjøretøy» eller som «bilmekaniker lette kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+2. Bilverksted 02: Fagbrev som «bilmekaniker tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+3. Bilverksted 03: Fagbrev som «bilmekaniker tunge kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+4. Motorsykkel- og mopedverksted: Fagbrev som «bilmekaniker tunge kjøretøy» eller som «bilmekaniker lette kjøretøy» eller for «motorsykkelmekaniker» og 3 års relevant praksis etter bestått fagprøve, alternativt 6 års relevant praksis i tillegg til bestått fagprøve.
+5. Skadeverksted 01: Fagbrev som «bilmekaniker lette», «bilmekaniker tunge» eller som «bilskadereparatør» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+6. Skadeverksted 02: Fagbrev som «bilskadereparatør» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve. Det kreves i tillegg spesiell opplæring om reparasjoner av omfattende skader. Statens vegvesen kan i retningslinjer til forskriften fastsette nærmere krav til innhold og omfang i slik opplæring.
+7. Hjulutrustningsverksted: Fagbrev som «reparatør av hjulutrustning», eller fagbrev som «bilmekaniker tunge kjøretøy» eller som «bilmekaniker lette kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+8. Påbyggerverksted: Fagbrev som «industrimekaniker», «industrimontør», «chassispåbygger», eller «bilmekaniker tunge kjøretøy» eller som «bilmekaniker lette kjøretøy» og 4 års relevant praksis etter bestått fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
+9. Traktorverksted: Fagbrev som «landbruksmaskinmekaniker», «anleggsmaskinmekaniker» eller som «bilmekaniker tunge kjøretøy» og 4 års relevant praksis etter fagprøve, alternativt 8 års relevant praksis i tillegg til bestått fagprøve.
 
 Statens vegvesen kan i retningslinjer til forskriften fastsette krav om vedlikehold av kompetanse for teknisk leder og stedfortreder.
 
@@ -158,7 +210,13 @@ Når arbeid på kjøretøy vil medføre at det innpregede understellsnummeret bl
 
 Når kjøretøy blir reparert etter omfattende skade i forbindelse med kollisjon, utforkjøring eller lignende, jf. bestemmelser i [bilforskriften](forskrift/2022-06-28-1233), [motorsykkelforskriften](forskrift/2016-06-01-560), [traktorforskriften](forskrift/2016-06-01-561) og [kjøretøyforskriften](forskrift/1994-10-04-918), skal det dokumenteres at reparasjonen er utført i henhold til kjøretøyprodusentens anvisninger der disse foreligger, og etter faglig anerkjente reparasjonsmetoder før kjøretøyet tas i bruk.
 
-Dokumentasjonen skal som minimum inneholde:Målebrev / nødvendig oppmåling der dette er nødvendig for skaden/reparasjonen.Hjulstillingskontroll/4-hjulsmåling der dette er nødvendig for skaden/reparasjonen.Bilder før, under og etter reparasjon.Egenerklæring om at reparasjonen er utført i henhold til fabrikantens anvisninger der disse foreligger og etter anerkjente reparasjonsmetoder.Reparasjonsanvisning som er brukt for reparasjonen.
+Dokumentasjonen skal som minimum inneholde:
+
+1. Målebrev / nødvendig oppmåling der dette er nødvendig for skaden/reparasjonen.
+2. Hjulstillingskontroll/4-hjulsmåling der dette er nødvendig for skaden/reparasjonen.
+3. Bilder før, under og etter reparasjon.
+4. Egenerklæring om at reparasjonen er utført i henhold til fabrikantens anvisninger der disse foreligger og etter anerkjente reparasjonsmetoder.
+5. Reparasjonsanvisning som er brukt for reparasjonen.
 
 Statens vegvesen kan i retningslinjer til forskriften fastsette nærmere krav til dokumentasjonen.
 
@@ -182,7 +240,14 @@ Teknisk leder plikter å føre tilsyn med at arbeidet organiseres og gjennomfør
 
 ### § 16. Utforming og innhold av kvalitetsstyringssystemet
 
-Kvalitetsstyringssystemet skal minimum inneholde følgende:Beskrivelse av hvordan det godkjenningspliktige arbeidet er organisert; hvilke roller som inngår, hvilke oppgaver (arbeidsinstruks) som er knyttet til de ulike rollene og hvem som til enhver tid innehar de ulike rollene.Beskrivelse av hvilke krav til kompetanse som gjelder ved tilsetting i de ulike rollene, virksomhetens plan for vedlikehold av kompetanse samt registreringer av de ansattes faktiske kompetanse.Beskrivelse av hvilke tjenester virksomheten tilbyr, registreringer av eventuelle samarbeidsavtaler (utstyr og kjøp av tjenester) og prosedyrebeskrivelse for gjennomføring av det arbeid virksomheten er godkjent for.Prosedyrebeskrivelse for og registreringer av kontroll med kvaliteten på utført arbeid.Prosedyrebeskrivelse for og registreringer av periodisk kalibrering og systematisk vedlikehold av godkjenningspliktig utstyr, herunder registreringer av nødvendige sertifikater og godkjenningsattester for teknisk utstyr.Prosedyrebeskrivelse for og registreringer av avvikshåndtering.
+Kvalitetsstyringssystemet skal minimum inneholde følgende:
+
+1. Beskrivelse av hvordan det godkjenningspliktige arbeidet er organisert; hvilke roller som inngår, hvilke oppgaver (arbeidsinstruks) som er knyttet til de ulike rollene og hvem som til enhver tid innehar de ulike rollene.
+2. Beskrivelse av hvilke krav til kompetanse som gjelder ved tilsetting i de ulike rollene, virksomhetens plan for vedlikehold av kompetanse samt registreringer av de ansattes faktiske kompetanse.
+3. Beskrivelse av hvilke tjenester virksomheten tilbyr, registreringer av eventuelle samarbeidsavtaler (utstyr og kjøp av tjenester) og prosedyrebeskrivelse for gjennomføring av det arbeid virksomheten er godkjent for.
+4. Prosedyrebeskrivelse for og registreringer av kontroll med kvaliteten på utført arbeid.
+5. Prosedyrebeskrivelse for og registreringer av periodisk kalibrering og systematisk vedlikehold av godkjenningspliktig utstyr, herunder registreringer av nødvendige sertifikater og godkjenningsattester for teknisk utstyr.
+6. Prosedyrebeskrivelse for og registreringer av avvikshåndtering.
 
 ### § 17. Dokumentasjon
 
@@ -196,7 +261,10 @@ Statens vegvesen fører tilsyn med virksomheter og personer som det er rimelig g
 
 Virksomhetene og personene plikter å gi Statens vegvesen adgang til steder der det er rimelig grunn til å anta at det foretas godkjenningspliktig arbeid, og bistå slik det ellers er nødvendig for å gjennomføre tilsyn, herunder identifisere seg og fremvise for stedlig undersøkelse dokumenter og gjenstander som angår reparasjonsvirksomheten.
 
-Statens vegvesen kan som en del av tilsynet undersøke om forskriftens krav er oppfylt, herunder krav til:lokaler, utstyr, kompetanse, registering og rapportering og kvalitetsstyring.at reparasjonene mv. er utført slik dette følger av bestemmelser i eller forskrifter gitt med hjemmel i vegtrafikkloven og etter faglig anerkjente reparasjonsmetoder.
+Statens vegvesen kan som en del av tilsynet undersøke om forskriftens krav er oppfylt, herunder krav til:
+
+1. lokaler, utstyr, kompetanse, registering og rapportering og kvalitetsstyring.
+2. at reparasjonene mv. er utført slik dette følger av bestemmelser i eller forskrifter gitt med hjemmel i vegtrafikkloven og etter faglig anerkjente reparasjonsmetoder.
 
 Statens vegvesen kan som en del av tilsynet utføre stikkprøvekontroll på arbeidet. Dersom det er nødvendig for å utføre tilsynsoppgavene kan Statens vegvesen også innkalle kjøretøy til stikkprøvekontroll.
 
@@ -210,7 +278,13 @@ Dersom retting eller stansing ikke er foretatt innen en gitt frist, kan Statens 
 
 For mindre vesentlige forhold kan det gis advarsel.
 
-Statens vegvesen kan midlertidig eller permanent tilbakekalle virksomhetens godkjenning, teknisk leders godkjenning eller særlig arbeidstillatelse dersom det avdekkes:vesentlige eller gjentatte avvik fra kravene til lokaler, utstyr, kompetanse, dokumentasjon og rapportering eller kvalitetsstyring.vesentlige eller gjentatte avvik fra krav gitt i medhold av vegtrafikkloven og/eller faglige anerkjente reparasjonsmetoder.at det utføres arbeid som virksomheten ikke er godkjent for eller har særlig arbeidstillatelse til.at pålegg om retting eller skriftlig advarsel ikke etterkommes.at virksomheten eller teknisk leder unndrar seg tilsyn.
+Statens vegvesen kan midlertidig eller permanent tilbakekalle virksomhetens godkjenning, teknisk leders godkjenning eller særlig arbeidstillatelse dersom det avdekkes:
+
+1. vesentlige eller gjentatte avvik fra kravene til lokaler, utstyr, kompetanse, dokumentasjon og rapportering eller kvalitetsstyring.
+2. vesentlige eller gjentatte avvik fra krav gitt i medhold av vegtrafikkloven og/eller faglige anerkjente reparasjonsmetoder.
+3. at det utføres arbeid som virksomheten ikke er godkjent for eller har særlig arbeidstillatelse til.
+4. at pålegg om retting eller skriftlig advarsel ikke etterkommes.
+5. at virksomheten eller teknisk leder unndrar seg tilsyn.
 
 I vurderingen av om en godkjenning skal tilbakekalles skal det tas hensyn til i hvilken grad virksomhetens administrative ledelse eller teknisk leder kan bebreides for overtredelsene nevnt i fjerde ledd.
 

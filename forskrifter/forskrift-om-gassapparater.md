@@ -15,7 +15,7 @@ xml_hash: "c10d157fc820823cc96f54dd4942de8807c0840b29dd22fdbfed70b31c612b9a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,15 @@ Vedtak truffet av Direktoratet for samfunnssikkerhet og beredskap kan påklages 
 
 Ved overtredelse av artikkel 3, artikkel 5, artikkel 7 til artikkel 10, artikkel 12 og artikkel 14 til artikkel 18 i forordning [(EU) 2016/426](eu/32016r0426) eller vedtak truffet i medhold av disse, kommer bestemmelsene i brann- og [eksplosjonsvernloven § 37](lov/2002-06-14-20/§37), [§ 38](lov/2002-06-14-20/§38) og [§ 39](lov/2002-06-14-20/§39) til anvendelse.
 
-Dersom gassapparater og utstyr kan utgjøre en risiko, eller ikke er i samsvar med artikkel 3, artikkel 5, artikkel 7 til artikkel 10, artikkel 12 og artikkel 14 til artikkel 18 i forordning [(EU) 2016/425](eu/32016r0425), kan Direktoratet for samfunnssikkerhet og beredskap:nedlegge forbud mot å importere, bringe i omsetning eller gjøre gassapparater og utstyr tilgjengelig på markedetkreve at gassapparater og utstyr tilbaketrekkes fra relevante markedsaktørerkreve at gassapparater og utstyr tilbakekalles fra markedetkreve offentliggjøring av advarselsinformasjon eller lignendekreve retting av gassapparater og utstyrkreve at gassapparater og utstyr uskadeliggjøreskreve merking av gassapparater og utstyr.
+Dersom gassapparater og utstyr kan utgjøre en risiko, eller ikke er i samsvar med artikkel 3, artikkel 5, artikkel 7 til artikkel 10, artikkel 12 og artikkel 14 til artikkel 18 i forordning [(EU) 2016/425](eu/32016r0425), kan Direktoratet for samfunnssikkerhet og beredskap:
+
+1. nedlegge forbud mot å importere, bringe i omsetning eller gjøre gassapparater og utstyr tilgjengelig på markedet
+2. kreve at gassapparater og utstyr tilbaketrekkes fra relevante markedsaktører
+3. kreve at gassapparater og utstyr tilbakekalles fra markedet
+4. kreve offentliggjøring av advarselsinformasjon eller lignende
+5. kreve retting av gassapparater og utstyr
+6. kreve at gassapparater og utstyr uskadeliggjøres
+7. kreve merking av gassapparater og utstyr.
 
 ## § 7. Straff
 

@@ -28,7 +28,14 @@ Formålet med tilskuddsordningen er å avhjelpe eiere av reketrålfartøy som er
 
 ## § 2. Vilkår for tilskudd
 
-Det kan tildeles tilskudd til eier av fartøy dersom følgende vilkår er oppfylt:Fartøyet er oppført i merkeregisteret, har en største lengde under 11 meter og fisker reker med trål.Fartøyets eier er registrert på blad B i fiskermanntallet. Med eier menes det her den enkeltperson som eier mer enn 50 prosent av fartøyet. Dersom ingen enkeltperson eier mer enn 50 prosent av fartøyet, skal det ses hen til medeiere som til sammen eier mer enn 50 prosent i fartøyet.Fartøyets eier må være født i 1958 eller senere. Med eier menes det her den enkeltperson som eier mer enn 50 prosent av fartøyet. Dersom ingen enkeltperson eier mer enn 50 prosent av fartøyet, skal det ses hen til medeiere som til sammen eier mer enn 50 prosent i fartøyet.Fartøyet har i gjennomsnitt hatt over 500 000 kr i omsetning de siste tre år (2023, 2024 og 2025). Dersom fartøyeier har skiftet ut sitt fartøy, kan det også ses hen til omsetning fra utskiftingsfartøyet i den aktuelle perioden. For aktører som driver kaisalg kan inntekter fra dette inngå i grunnlaget for omsetning.Fartøyets eier kan sannsynliggjøre at over 40 prosent av fartøyets trålaktivitet i perioden 1. juli 2023 til 31. desember 2025 foregikk innenfor nullfiskeområdene i Oslofjorden slik områdene defineres i [forskrift 19. desember 2025 nr. 2889 om regulering av fiske i Oslofjorden](forskrift/2025-12-19-2889).Søknad er sendt i tråd med de frister som fastsettes av Garantikassen for Fiskere.
+Det kan tildeles tilskudd til eier av fartøy dersom følgende vilkår er oppfylt:
+
+1. Fartøyet er oppført i merkeregisteret, har en største lengde under 11 meter og fisker reker med trål.
+2. Fartøyets eier er registrert på blad B i fiskermanntallet. Med eier menes det her den enkeltperson som eier mer enn 50 prosent av fartøyet. Dersom ingen enkeltperson eier mer enn 50 prosent av fartøyet, skal det ses hen til medeiere som til sammen eier mer enn 50 prosent i fartøyet.
+3. Fartøyets eier må være født i 1958 eller senere. Med eier menes det her den enkeltperson som eier mer enn 50 prosent av fartøyet. Dersom ingen enkeltperson eier mer enn 50 prosent av fartøyet, skal det ses hen til medeiere som til sammen eier mer enn 50 prosent i fartøyet.
+4. Fartøyet har i gjennomsnitt hatt over 500 000 kr i omsetning de siste tre år (2023, 2024 og 2025). Dersom fartøyeier har skiftet ut sitt fartøy, kan det også ses hen til omsetning fra utskiftingsfartøyet i den aktuelle perioden. For aktører som driver kaisalg kan inntekter fra dette inngå i grunnlaget for omsetning.
+5. Fartøyets eier kan sannsynliggjøre at over 40 prosent av fartøyets trålaktivitet i perioden 1. juli 2023 til 31. desember 2025 foregikk innenfor nullfiskeområdene i Oslofjorden slik områdene defineres i [forskrift 19. desember 2025 nr. 2889 om regulering av fiske i Oslofjorden](forskrift/2025-12-19-2889).
+6. Søknad er sendt i tråd med de frister som fastsettes av Garantikassen for Fiskere.
 
 Søker må selv vedlegge nødvendig dokumentasjon på at vilkårene over er oppfylt.
 

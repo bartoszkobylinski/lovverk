@@ -26,7 +26,23 @@ eu_basis: []
 
 ### § 1. Stønadsberettiget undersøkelse og behandling
 
-Etter [folketrygdloven § 5-6](lov/1997-02-28-19/§5-6) ytes det stønad til dekning av utgifter til undersøkelse og behandling utført av tannlege ved følgende tilstander/tilfeller:Sjelden medisinsk tilstandLeppe-kjeve-ganespalteSvulster i munnhulen, tilgrensende vev eller hoderegionen for øvrigInfeksjonsforebyggende tannbehandling ved særlige medisinske tilstanderSykdommer og anomalier i munn og kjevePeriodontittTannutviklingsforstyrrelserBittanomalierPatologisk tap av tannsubstans ved attrisjon/erosjonHyposalivasjonAllergiske reaksjoner mot tannrestaureringsmaterialerTannskade ved godkjent yrkesskadeTannskade ved ulykke, som ikke er yrkesskadeSterkt nedsatt evne til egenomsorg hos personer som har varig sykdom eller varig nedsatt funksjonsevneHelt eller delvis tanntap, uten egne tenner i underkjeven.
+Etter [folketrygdloven § 5-6](lov/1997-02-28-19/§5-6) ytes det stønad til dekning av utgifter til undersøkelse og behandling utført av tannlege ved følgende tilstander/tilfeller:
+
+1. Sjelden medisinsk tilstand
+2. Leppe-kjeve-ganespalte
+3. Svulster i munnhulen, tilgrensende vev eller hoderegionen for øvrig
+4. Infeksjonsforebyggende tannbehandling ved særlige medisinske tilstander
+5. Sykdommer og anomalier i munn og kjeve
+6. Periodontitt
+7. Tannutviklingsforstyrrelser
+8. Bittanomalier
+9. Patologisk tap av tannsubstans ved attrisjon/erosjon
+10. Hyposalivasjon
+11. Allergiske reaksjoner mot tannrestaureringsmaterialer
+12. Tannskade ved godkjent yrkesskade
+13. Tannskade ved ulykke, som ikke er yrkesskade
+14. Sterkt nedsatt evne til egenomsorg hos personer som har varig sykdom eller varig nedsatt funksjonsevne
+15. Helt eller delvis tanntap, uten egne tenner i underkjeven.
 
 Etter [folketrygdloven § 5-6a](lov/1997-02-28-19/§5-6a) ytes det stønad til dekning av utgifter til undersøkelse og behandling av periodontitt utført av tannpleier i henhold til første ledd nr. 1, 6 og 14.
 

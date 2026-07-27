@@ -30,7 +30,13 @@ Forskriften gjelder også ved ileggelse og utmåling av overtredelsesgebyr ved o
 
 ## § 2. Momenter ved ileggelse og utmåling av overtredelsesgebyr
 
-Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmålingen av gebyret, kan det blant annet legges vekt påom overtredelsen retter seg mot eller har særlig virkning på barn og ungeom det har oppstått akutt fare for skade på helseom flere personer rammes av overtredelsengraden av skyldmomentene i [forvaltningsloven § 44 tredje ledd](lov/1967-02-10/§44/ledd/3) for fysiske personer og [§ 46 andre ledd](lov/1967-02-10/§46/ledd/2) for foretak.
+Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmålingen av gebyret, kan det blant annet legges vekt på
+
+1. om overtredelsen retter seg mot eller har særlig virkning på barn og unge
+2. om det har oppstått akutt fare for skade på helse
+3. om flere personer rammes av overtredelsen
+4. graden av skyld
+5. momentene i [forvaltningsloven § 44 tredje ledd](lov/1967-02-10/§44/ledd/3) for fysiske personer og [§ 46 andre ledd](lov/1967-02-10/§46/ledd/2) for foretak.
 
 ## § 3. Øvre ramme for overtredelsesgebyret
 

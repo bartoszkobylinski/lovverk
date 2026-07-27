@@ -15,7 +15,7 @@ xml_hash: "c445f4f680a7b7188d62fb05e32d7a84ab813fd0d91f373cd3a220e19f795c5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,11 @@ eu_basis: []
 
 (1) Denne loven gjelder allmennaksjeselskaper.
 
-(2) Med allmennaksjeselskap forstås ethvert selskaphvor ikke noen av deltakerne har personlig ansvar for selskapets forpliktelser, udelt eller for deler som til sammen utgjør selskapets samlede forpliktelser, ogsom i vedtektene er betegnet som allmennaksjeselskap, ogsom er registrert som allmennaksjeselskap i Foretaksregisteret.
+(2) Med allmennaksjeselskap forstås ethvert selskap
+
+1. hvor ikke noen av deltakerne har personlig ansvar for selskapets forpliktelser, udelt eller for deler som til sammen utgjør selskapets samlede forpliktelser, og
+2. som i vedtektene er betegnet som allmennaksjeselskap, og
+3. som er registrert som allmennaksjeselskap i Foretaksregisteret.
 
 (3) Kongen gir forskrift om lovens anvendelse på Svalbard og kan fastsette særlige regler under hensyn til de stedlige forhold.
 
@@ -46,7 +50,10 @@ eu_basis: []
 
 (1) Et morselskap utgjør sammen med et datterselskap eller datterselskaper et konsern.
 
-(2) Et allmennaksjeselskap er et morselskap hvis det på grunn av avtale eller som eier av aksjer eller selskapsandeler har bestemmende innflytelse over et annet selskap. Et allmennaksjeselskap skal alltid anses å ha bestemmende innflytelse hvis selskapet:eier så mange aksjer eller andeler i et annet selskap at de representerer flertallet av stemmene i det andre selskapet, ellerhar rett til å velge eller avsette et flertall av medlemmene i det andre selskapets styre.
+(2) Et allmennaksjeselskap er et morselskap hvis det på grunn av avtale eller som eier av aksjer eller selskapsandeler har bestemmende innflytelse over et annet selskap. Et allmennaksjeselskap skal alltid anses å ha bestemmende innflytelse hvis selskapet:
+
+1. eier så mange aksjer eller andeler i et annet selskap at de representerer flertallet av stemmene i det andre selskapet, eller
+2. har rett til å velge eller avsette et flertall av medlemmene i det andre selskapets styre.
 
 (3) Et selskap som står i forhold som nevnt i annet ledd til et morselskap anses som datterselskap.
 
@@ -62,9 +69,19 @@ eu_basis: []
 
 ### § 1-5. Nærstående
 
-(1) Som noens nærstående menes i denne loven:ektefelle og en person som vedkommende bor sammen med i ekteskapsliknende forhold;slektninger i rett oppstigende eller nedstigende linje og søsken;slektninger i rett oppstigende eller nedstigende linje og søsken til en person som nevnt i nr 1;ektefelle til, og en person som bor sammen i ekteskapsliknende forhold med, noen som er nevnt i nr 2;selskap der vedkommende selv eller noen som er nevnt i nr 1 til 4, har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1997-06-13-45/§1-3).
+(1) Som noens nærstående menes i denne loven:
 
-(2) Som noens personlig nærstående menes i denne loven:ektefelle og en person som vedkommende bor sammen med i ekteskapsliknende forhold;mindreårige barn til vedkommende selv, samt mindreårige barn til en person som nevnt i nr 1 som vedkommende bor sammen med;selskap der vedkommende selv eller noen som er nevnt i nr 1 og 2, har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1997-06-13-45/§1-3).
+1. ektefelle og en person som vedkommende bor sammen med i ekteskapsliknende forhold;
+2. slektninger i rett oppstigende eller nedstigende linje og søsken;
+3. slektninger i rett oppstigende eller nedstigende linje og søsken til en person som nevnt i nr 1;
+4. ektefelle til, og en person som bor sammen i ekteskapsliknende forhold med, noen som er nevnt i nr 2;
+5. selskap der vedkommende selv eller noen som er nevnt i nr 1 til 4, har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1997-06-13-45/§1-3).
+
+(2) Som noens personlig nærstående menes i denne loven:
+
+1. ektefelle og en person som vedkommende bor sammen med i ekteskapsliknende forhold;
+2. mindreårige barn til vedkommende selv, samt mindreårige barn til en person som nevnt i nr 1 som vedkommende bor sammen med;
+3. selskap der vedkommende selv eller noen som er nevnt i nr 1 og 2, har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1997-06-13-45/§1-3).
 
 > Endret ved lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)).
 
@@ -124,7 +141,19 @@ Med møte i denne loven menes møte hvor de som deltar enten er fysisk til stede
 
 ### § 2-2. Minstekrav til vedtektene
 
-(1) Vedtektene skal minst angi:at selskapet skal være et allmennaksjeselskap;selskapets foretaksnavn;den kommune i riket hvor selskapet skal ha sitt forretningskontor;selskapets virksomhet;aksjekapitalens størrelse, jf [§ 3-1](lov/1997-06-13-45/§3-1);aksjenes pålydende (nominelle beløp), jf [§ 3-1](lov/1997-06-13-45/§3-1);antallet aksjer;antallet eller laveste og høyeste antall styremedlemmer, jf [§ 6-1](lov/1997-06-13-45/§6-1);om selskapet skal ha flere daglige ledere eller om styret eller bedriftsforsamlingen skal kunne bestemme at selskapet skal ha flere daglige ledere, samt i så fall om flere daglige ledere skal fungere som kollektivt organ;hvilke saker som skal behandles på den ordinære generalforsamlingen, jf [§ 5-6](lov/1997-06-13-45/§5-6).hvilken verdipapirsentral aksjene er registrert i
+(1) Vedtektene skal minst angi:
+
+1. at selskapet skal være et allmennaksjeselskap;
+2. selskapets foretaksnavn;
+3. den kommune i riket hvor selskapet skal ha sitt forretningskontor;
+4. selskapets virksomhet;
+5. aksjekapitalens størrelse, jf [§ 3-1](lov/1997-06-13-45/§3-1);
+6. aksjenes pålydende (nominelle beløp), jf [§ 3-1](lov/1997-06-13-45/§3-1);
+7. antallet aksjer;
+8. antallet eller laveste og høyeste antall styremedlemmer, jf [§ 6-1](lov/1997-06-13-45/§6-1);
+9. om selskapet skal ha flere daglige ledere eller om styret eller bedriftsforsamlingen skal kunne bestemme at selskapet skal ha flere daglige ledere, samt i så fall om flere daglige ledere skal fungere som kollektivt organ;
+10. hvilke saker som skal behandles på den ordinære generalforsamlingen, jf [§ 5-6](lov/1997-06-13-45/§5-6).
+11. hvilken verdipapirsentral aksjene er registrert i
 
 (2) Dersom selskapet ved sin virksomhet ikke skal ha til formål å skaffe aksjeeierne økonomisk utbytte, skal vedtektene inneholde bestemmelser om anvendelse av overskudd og av formuen ved oppløsning.
 
@@ -132,13 +161,23 @@ Med møte i denne loven menes møte hvor de som deltar enten er fysisk til stede
 
 ### § 2-3. Minstekrav til stiftelsesdokumentet ellers
 
-Stiftelsesdokumentet skal dessuten angi:stifternes navn eller foretaksnavn, adresse og fødselsnummer eller organisasjonsnummer;antallet aksjer som skal tegnes av hver av stifterne;det beløpet som skal betales for hver aksje (aksjeinnskudd);tidspunktet for oppgjør av aksjeinnskudd, jf [§ 2-11](lov/1997-06-13-45/§2-11);hvem som skal være medlemmer av selskapets styre, og hvem som skal være selskapets revisor.
+Stiftelsesdokumentet skal dessuten angi:
+
+1. stifternes navn eller foretaksnavn, adresse og fødselsnummer eller organisasjonsnummer;
+2. antallet aksjer som skal tegnes av hver av stifterne;
+3. det beløpet som skal betales for hver aksje (aksjeinnskudd);
+4. tidspunktet for oppgjør av aksjeinnskudd, jf [§ 2-11](lov/1997-06-13-45/§2-11);
+5. hvem som skal være medlemmer av selskapets styre, og hvem som skal være selskapets revisor.
 
 > Endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [14 juni 2013 nr. 40](lov/2013-06-14-40) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 635](forskrift/2013-06-14-635)).
 
 ### § 2-4. Bestemmelser om særskilte rettigheter
 
-(1) Stiftelsesdokumentet skal inneholde enhver avtale eller annen bestemmelse omat aksjer skal kunne tegnes med rett eller plikt til å gjøre innskudd med andre eiendeler enn penger, at innskuddet skal kunne gjøres opp ved motregning, eller at aksjer skal kunne tegnes på andre særlige vilkår. Det skal i så fall angis hvilke eiendeler det gjelder, innskyternes navn og adresse, hvor mange aksjer selskapet skal yte for innskuddet, og hvilke vilkår som skal gjelde;at selskapet skal overta andre eiendeler enn penger mot vederlag i annet enn aksjer. Det skal i så fall angis hvilke eiendeler det gjelder, overdragerens navn og adresse, det vederlaget som selskapet skal yte, og hvilke vilkår som skal gjelde;at selskapet skal bli part i en avtale, eller at noen skal ha særskilte rettigheter overfor eller fordeler av selskapet. I så fall skal det angis hvilke vilkår som skal gjelde, og navn og adresse på den som er tilgodesett.
+(1) Stiftelsesdokumentet skal inneholde enhver avtale eller annen bestemmelse om
+
+1. at aksjer skal kunne tegnes med rett eller plikt til å gjøre innskudd med andre eiendeler enn penger, at innskuddet skal kunne gjøres opp ved motregning, eller at aksjer skal kunne tegnes på andre særlige vilkår. Det skal i så fall angis hvilke eiendeler det gjelder, innskyternes navn og adresse, hvor mange aksjer selskapet skal yte for innskuddet, og hvilke vilkår som skal gjelde;
+2. at selskapet skal overta andre eiendeler enn penger mot vederlag i annet enn aksjer. Det skal i så fall angis hvilke eiendeler det gjelder, overdragerens navn og adresse, det vederlaget som selskapet skal yte, og hvilke vilkår som skal gjelde;
+3. at selskapet skal bli part i en avtale, eller at noen skal ha særskilte rettigheter overfor eller fordeler av selskapet. I så fall skal det angis hvilke vilkår som skal gjelde, og navn og adresse på den som er tilgodesett.
 
 (2) I stedet for å innta avtalen eller bestemmelsen i stiftelsesdokumentet, kan det i stiftelsesdokumentet henvises til avtalen eller bestemmelsen eller til redegjørelse etter [§ 2-6](lov/1997-06-13-45/§2-6). I så fall skal hovedpunktene i avtalen eller redegjørelsen gjengis i stiftelsesdokumentet, og avtalen skal vedlegges stiftelsesdokumentet.
 
@@ -154,7 +193,12 @@ Stiftelsesdokumentet skal dessuten angi:stifternes navn eller foretaksnavn, adre
 
 ### § 2-6. Redegjørelse om aksjeinnskudd med andre eiendeler enn penger og særskilte rettigheter
 
-(1) Skal selskapet overta eiendeler eller bli part i en avtale som nevnt i [§ 2-4](lov/1997-06-13-45/§2-4), skal det utarbeides en redegjørelse som minst inneholderen beskrivelse av hvert innskudd, erverv eller avtale. Hvis en bestående virksomhet skal overtas, skal årsregnskap, årsberetning og revisjonsberetning for virksomheten for de tre siste år tas inn i eller vedlegges redegjørelsen. Det skal gis opplysning om resultatet av driften i tiden etter den seneste balansedagen. Foreligger ikke årsregnskap for virksomheten, skal det gis opplysning om resultatet av driften i de tre siste år;opplysning om de prinsipper som er fulgt ved vurderingen av de eiendeler selskapet skal overta;opplysning om de forhold som kan være av betydning for bedømmelsen av en avtale eller bestemmelse om at selskapet skal overta eiendeler eller bli part i en avtale;erklæring om at de eiendeler selskapet skal overta, har en verdi som minst svarer til det avtalte vederlaget, herunder pålydende av de aksjer som skal utstedes som vederlag, med tillegg av eventuell overkurs. Tidspunktet for verdsettelsen kan tidligst være fire uker før stiftelsen, jf. [§ 2-9](lov/1997-06-13-45/§2-9). Verdsetting av immaterielle eiendeler som skal overtas som aksjeinnskudd, skal særskilt begrunnes.
+(1) Skal selskapet overta eiendeler eller bli part i en avtale som nevnt i [§ 2-4](lov/1997-06-13-45/§2-4), skal det utarbeides en redegjørelse som minst inneholder
+
+1. en beskrivelse av hvert innskudd, erverv eller avtale. Hvis en bestående virksomhet skal overtas, skal årsregnskap, årsberetning og revisjonsberetning for virksomheten for de tre siste år tas inn i eller vedlegges redegjørelsen. Det skal gis opplysning om resultatet av driften i tiden etter den seneste balansedagen. Foreligger ikke årsregnskap for virksomheten, skal det gis opplysning om resultatet av driften i de tre siste år;
+2. opplysning om de prinsipper som er fulgt ved vurderingen av de eiendeler selskapet skal overta;
+3. opplysning om de forhold som kan være av betydning for bedømmelsen av en avtale eller bestemmelse om at selskapet skal overta eiendeler eller bli part i en avtale;
+4. erklæring om at de eiendeler selskapet skal overta, har en verdi som minst svarer til det avtalte vederlaget, herunder pålydende av de aksjer som skal utstedes som vederlag, med tillegg av eventuell overkurs. Tidspunktet for verdsettelsen kan tidligst være fire uker før stiftelsen, jf. [§ 2-9](lov/1997-06-13-45/§2-9). Verdsetting av immaterielle eiendeler som skal overtas som aksjeinnskudd, skal særskilt begrunnes.
 
 (2) Stifterne skal sørge for at redegjørelsen blir utarbeidet av én eller flere uavhengige sakkyndige. Som uavhengig sakkyndig skal benyttes revisor. Departementet kan i forskrift bestemme at også andre yrkesgrupper kan benyttes som uavhengige sakkyndige. Reglene om revisors undersøkelsesrett mv. i [revisorloven § 2-2](lov/2020-11-20-128/§2-2) gjelder tilsvarende.
 
@@ -190,9 +234,15 @@ Stifterne skal datere og signere stiftelsesdokumentet. Når alle stifterne har s
 
 ### § 2-10 a. Avtale om etterfølgende erverv av eiendeler fra stifter mv.
 
-(1) En avtale om erverv av eiendeler fra en aksjeeier eller stifter som ikke er angitt i stiftelsesdokumentet etter reglene i [§ 2-4](lov/1997-06-13-45/§2-4), jf. [§ 2-6](lov/1997-06-13-45/§2-6), skal godkjennes av generalforsamlingen dersom:ervervet skjer etter stiftelsen og innen to år etter at selskapet er registrert i Foretaksregisteret, ogselskapets ytelse har en virkelig verdi som utgjør over en tidel av samlet pålydende og overkurs på de aksjene som selskapet har utstedt på tidspunktet for ervervet.
+(1) En avtale om erverv av eiendeler fra en aksjeeier eller stifter som ikke er angitt i stiftelsesdokumentet etter reglene i [§ 2-4](lov/1997-06-13-45/§2-4), jf. [§ 2-6](lov/1997-06-13-45/§2-6), skal godkjennes av generalforsamlingen dersom:
 
-(2) Likestilt med en aksjeeier eller stifter etter første ledd er:nærstående til en aksjeeier eller stifter,noen som handler etter avtale med en aksjeeier eller stifter.
+1. ervervet skjer etter stiftelsen og innen to år etter at selskapet er registrert i Foretaksregisteret, og
+2. selskapets ytelse har en virkelig verdi som utgjør over en tidel av samlet pålydende og overkurs på de aksjene som selskapet har utstedt på tidspunktet for ervervet.
+
+(2) Likestilt med en aksjeeier eller stifter etter første ledd er:
+
+1. nærstående til en aksjeeier eller stifter,
+2. noen som handler etter avtale med en aksjeeier eller stifter.
 
 (3) Styret skal sørge for at det utarbeides en redegjørelse for avtalen etter reglene i [§ 2-6](lov/1997-06-13-45/§2-6) første og annet ledd. Styret skal avgi en erklæring om at avtalen er i selskapets interesse, at det er rimelig samsvar mellom verdien av det vederlaget selskapet skal yte og verdien av det vederlaget selskapet skal motta, og at kravet til forsvarlig egenkapital og likviditet i [§ 3-4](lov/1997-06-13-45/§3-4) vil være oppfylt. Erklæringen skal dateres og signeres av samtlige styremedlemmer, med unntak av styremedlemmer som var inhabile etter [§ 6-27](lov/1997-06-13-45/§6-27) ved styrets behandling av saken. Har en som skal signere, innvendinger mot erklæringen, skal vedkommende signere med påtegnet forbehold og gjøre rede for innvendingene i erklæringen.
 
@@ -200,7 +250,11 @@ Stifterne skal datere og signere stiftelsesdokumentet. Når alle stifterne har s
 
 (5) Avtale inngått i strid med første og annet ledd er ikke bindende for selskapet om selskapet godtgjør at medkontrahenten forsto eller burde ha forstått at generalforsamlingen ikke har godkjent avtalen. Oppfyllelse i henhold til avtale som ikke binder selskapet, skal tilbakeføres. [§ 3-7](lov/1997-06-13-45/§3-7) annet ledd gjelder tilsvarende.
 
-(6) Bestemmelsene i denne paragrafen gjelder ikke:avtale som inngås som ledd i selskapets vanlige virksomhet og som er grunnet på vanlige forretningsmessige vilkår og prinsipper,avtale om overdragelse av omsettelige verdipapirer som nevnt i [verdipapirhandelloven § 2-4](lov/2007-06-29-75/§2-4) første ledd til pris i henhold til kursnotering på et regulert marked,avtale som er godkjent av Finanstilsynet etter reglene i [finansforetaksloven kapittel 20](lov/2015-04-10-17/kap20).
+(6) Bestemmelsene i denne paragrafen gjelder ikke:
+
+1. avtale som inngås som ledd i selskapets vanlige virksomhet og som er grunnet på vanlige forretningsmessige vilkår og prinsipper,
+2. avtale om overdragelse av omsettelige verdipapirer som nevnt i [verdipapirhandelloven § 2-4](lov/2007-06-29-75/§2-4) første ledd til pris i henhold til kursnotering på et regulert marked,
+3. avtale som er godkjent av Finanstilsynet etter reglene i [finansforetaksloven kapittel 20](lov/2015-04-10-17/kap20).
 
 (7) Departementet kan i forskrift gi nærmere regler om innsending av redegjørelse og erklæring etter tredje ledd til Foretaksregisteret, offentliggjøring av informasjon i redegjørelsen og erklæringen, gebyr for å registrere redegjørelsen og erklæringen, samt gebyr for innsyn.
 
@@ -292,7 +346,11 @@ Selskapets krav på innskudd kan ikke overdras. Det kan heller ikke stilles som 
 
 (1) Selskapet skal ha et fond for urealiserte gevinster. Dersom selskapet vurderer eiendeler til virkelig verdi, skal det sette av til fondet en positiv differanse mellom balanseført verdi av hver enkelt eiendel eller gruppe av eiendeler og deres anskaffelseskost under hensyn til effekten av utsatt skatt. Dette gjelder tilsvarende ved vurdering av gjeld til virkelig verdi. Selskapet skal avsette til fondet på samme måte som etter annet punktum dersom det ved verdiregulering eller på annen måte regnskapsfører eiendeler til en verdi som overstiger anskaffelseskost.
 
-(2) Plikten til å avsette til fond for urealiserte gevinster omfatter ikke differanser etter første ledd knyttet til vurdering av:finansielle instrumenter i samsvar med [regnskapsloven § 5-8](lov/1998-07-17-56/§5-8),pengeposter i utenlandsk valuta,andre poster når det er fastsatt i forskrift gitt av departementet.
+(2) Plikten til å avsette til fond for urealiserte gevinster omfatter ikke differanser etter første ledd knyttet til vurdering av:
+
+1. finansielle instrumenter i samsvar med [regnskapsloven § 5-8](lov/1998-07-17-56/§5-8),
+2. pengeposter i utenlandsk valuta,
+3. andre poster når det er fastsatt i forskrift gitt av departementet.
 
 (3) Fondet kan løses opp når og i den grad grunnlaget for avsetningen ikke lenger er til stede.
 
@@ -350,7 +408,10 @@ Selskapet skal til enhver tid ha en egenkapital og en likviditet som er forsvarl
 
 (1) Denne paragrafen gjelder for selskap som ikke har aksjer tatt opp til handel på regulert marked. Departementet kan i forskrift fastsette at paragrafen ikke skal gjelde for selskaper med aksjer tatt opp til handel på tilsvarende marked utenfor EØS eller på andre typer handelsplasser.
 
-(2) Styret skal godkjenne avtaler mellom selskapet og en aksjeeier, en aksjeeiers morselskap, et styremedlem eller daglig leder der selskapets ytelse på tidspunktet for inngåelse av avtalen har en virkelig verdi som er større enn 2,5 prosent av balansesummen i selskapets sist godkjente årsregnskap. Det samme gjelder avtaler mellom selskapet og:en nærstående til noen som nevnt i første punktum,en som handler etter avtale med noen som nevnt i første punktum.
+(2) Styret skal godkjenne avtaler mellom selskapet og en aksjeeier, en aksjeeiers morselskap, et styremedlem eller daglig leder der selskapets ytelse på tidspunktet for inngåelse av avtalen har en virkelig verdi som er større enn 2,5 prosent av balansesummen i selskapets sist godkjente årsregnskap. Det samme gjelder avtaler mellom selskapet og:
+
+1. en nærstående til noen som nevnt i første punktum,
+2. en som handler etter avtale med noen som nevnt i første punktum.
 
 (3) Terskelverdien etter annet ledd første punktum kan bygge på en mellombalanse etter [§ 8-2 a](lov/1997-06-13-45/§8-2a) første ledd som er registrert i og kunngjort av Regnskapsregisteret. Har selskapet ikke fastsatt et årsregnskap eller en mellombalanse, er terskelverdien 2,5 prosent av samlet pålydende og overkurs på de aksjene som selskapet har utstedt.
 
@@ -360,7 +421,16 @@ Selskapet skal til enhver tid ha en egenkapital og en likviditet som er forsvarl
 
 (6) Avtale inngått i strid med annet ledd er ikke bindende for selskapet om selskapet godtgjør at medkontrahenten forsto eller burde ha forstått at styret ikke har godkjent avtalen. Oppfyllelse i henhold til avtale som ikke binder selskapet, skal tilbakeføres. [§ 3-7](lov/1997-06-13-45/§3-7) annet ledd gjelder tilsvarende.
 
-(7) Bestemmelsene i denne paragrafen gjelder ikke:avtale som inngås som ledd i selskapets vanlige virksomhet og som er grunnet på vanlige forretningsmessige vilkår og prinsipper,avtale der selskapets ytelse på tidspunktet for inngåelse av avtalen har en virkelig verdi som utgjør mindre enn 100 000 kroner,avtale inngått i samsvar med reglene i [§ 2-4](lov/1997-06-13-45/§2-4), jf. [§ 2-6](lov/1997-06-13-45/§2-6), [§ 2-10 a](lov/1997-06-13-45/§2-10a) og [§ 10-2](lov/1997-06-13-45/§10-2),avtale om lønn og godtgjørelse til daglig leder og avtale som nevnt i [§ 6-10](lov/1997-06-13-45/§6-10),avtale om overdragelse av omsettelige verdipapirer som nevnt i [verdipapirhandelloven § 2-4](lov/2007-06-29-75/§2-4) første ledd til pris i henhold til kursnotering på et regulert marked,avtale som omfattes av [§ 8-7](lov/1997-06-13-45/§8-7) fjerde ledd første punktum nr. 2 og 3, jf. annet punktum, dersom morselskapet eller den juridiske personen eier samtlige aksjer i selskapet,avtale inngått i samsvar med reglene gitt i eller i medhold av [§ 8-10](lov/1997-06-13-45/§8-10),avtale som er godkjent av Finanstilsynet etter reglene i [finansforetaksloven kapittel 20](lov/2015-04-10-17/kap20).
+(7) Bestemmelsene i denne paragrafen gjelder ikke:
+
+1. avtale som inngås som ledd i selskapets vanlige virksomhet og som er grunnet på vanlige forretningsmessige vilkår og prinsipper,
+2. avtale der selskapets ytelse på tidspunktet for inngåelse av avtalen har en virkelig verdi som utgjør mindre enn 100 000 kroner,
+3. avtale inngått i samsvar med reglene i [§ 2-4](lov/1997-06-13-45/§2-4), jf. [§ 2-6](lov/1997-06-13-45/§2-6), [§ 2-10 a](lov/1997-06-13-45/§2-10a) og [§ 10-2](lov/1997-06-13-45/§10-2),
+4. avtale om lønn og godtgjørelse til daglig leder og avtale som nevnt i [§ 6-10](lov/1997-06-13-45/§6-10),
+5. avtale om overdragelse av omsettelige verdipapirer som nevnt i [verdipapirhandelloven § 2-4](lov/2007-06-29-75/§2-4) første ledd til pris i henhold til kursnotering på et regulert marked,
+6. avtale som omfattes av [§ 8-7](lov/1997-06-13-45/§8-7) fjerde ledd første punktum nr. 2 og 3, jf. annet punktum, dersom morselskapet eller den juridiske personen eier samtlige aksjer i selskapet,
+7. avtale inngått i samsvar med reglene gitt i eller i medhold av [§ 8-10](lov/1997-06-13-45/§8-10),
+8. avtale som er godkjent av Finanstilsynet etter reglene i [finansforetaksloven kapittel 20](lov/2015-04-10-17/kap20).
 
 (8) Departementet kan i forskrift gi nærmere regler om innsending av redegjørelse og erklæring etter fjerde ledd til Foretaksregisteret, offentliggjøring av informasjon i redegjørelsen og erklæringen, gebyr for å registrere redegjørelsen og erklæringen, samt gebyr for innsyn.
 
@@ -420,7 +490,13 @@ En vesentlig avtale mellom selskapet og en tilknyttet part skal godkjennes av ge
 
 ### § 3-15. Offentliggjøring av melding om avtalen
 
-(1) Styret skal sørge for at det utarbeides en melding om avtalen som minst skal opplyse om:den tilknyttede parts navn, relasjonen mellom selskapet og den tilknyttede part, datoen for inngåelse av avtalen og verdien av avtalen,forhold som kan være av betydning for å vurdere om avtalen er i selskapets interesse, ogforhold som kan være av betydning for å vurdere om avtalen er rimelig for aksjeeiere som ikke er part i avtalen.Meldingen skal dateres og signeres av samtlige styremedlemmer, med unntak av styremedlem som var inhabil etter [§ 6-27](lov/1997-06-13-45/§6-27) ved styrets behandling av saken. Har en som skal signere innvendinger mot meldingen, skal vedkommende signere med påtegnet forbehold.
+(1) Styret skal sørge for at det utarbeides en melding om avtalen som minst skal opplyse om:
+
+1. den tilknyttede parts navn, relasjonen mellom selskapet og den tilknyttede part, datoen for inngåelse av avtalen og verdien av avtalen,
+2. forhold som kan være av betydning for å vurdere om avtalen er i selskapets interesse, og
+3. forhold som kan være av betydning for å vurdere om avtalen er rimelig for aksjeeiere som ikke er part i avtalen.
+
+Meldingen skal dateres og signeres av samtlige styremedlemmer, med unntak av styremedlem som var inhabil etter [§ 6-27](lov/1997-06-13-45/§6-27) ved styrets behandling av saken. Har en som skal signere innvendinger mot meldingen, skal vedkommende signere med påtegnet forbehold.
 
 (2) Meldingen skal offentliggjøres på selskapets nettsider uten opphold etter at avtalen er inngått. Selskapet kan utsette offentliggjøringen av meldingen etter reglene i [verdipapirhandelloven § 5-3](lov/2007-06-29-75/§5-3). Meldingen skal forbli offentlig på nettsiden så lenge avtalen varer, men likevel ikke kortere enn fem år. I stedet for offentliggjøring på selskapets nettsider kan meldingen offentliggjøres etter reglene i [verdipapirhandelloven kapittel 5](lov/2007-06-29-75/kap5) avsnitt I.
 
@@ -430,7 +506,18 @@ En vesentlig avtale mellom selskapet og en tilknyttet part skal godkjennes av ge
 
 ### § 3-16. Unntak
 
-Bestemmelsene i [§§ 3-13](lov/1997-06-13-45/§3-13) til [3-15](lov/1997-06-13-45/§3-15) gjelder ikke for:avtale som inngås som ledd i selskapets vanlige virksomhet og som er grunnet på vanlige forretningsmessige vilkår og prinsipper,avtale der selskapets ytelse på tidspunktet for inngåelse av avtalen har en virkelig verdi som utgjør mindre enn 250 000 kroner,avtale inngått i samsvar med reglene i [§ 2-4](lov/1997-06-13-45/§2-4), jf. [§ 2-6](lov/1997-06-13-45/§2-6), [§ 2-10 a](lov/1997-06-13-45/§2-10a) og [§ 10-2](lov/1997-06-13-45/§10-2),avtale som nevnt i [§§ 6-10](lov/1997-06-13-45/§6-10) og [6-16 a](lov/1997-06-13-45/§6-16a),avtale om overdragelse av omsettelige verdipapirer som nevnt i [verdipapirhandelloven § 2-4](lov/2007-06-29-75/§2-4) første ledd til pris i henhold til kursnotering på et regulert marked,avtale som omfattes av [§ 8-7](lov/1997-06-13-45/§8-7) fjerde ledd første punktum nr. 2 og 3, jf. annet punktum, dersom morselskapet eller den juridiske personen eier samtlige aksjer i selskapet,avtale inngått i samsvar med reglene gitt i eller i medhold av [§ 8-10](lov/1997-06-13-45/§8-10),avtale inngått med et heleid datterselskap,avtale inngått med et deleid datterselskap, dersom ingen av selskapets tilknyttede parter har en interesse i datterselskapet,avtale som er godkjent av Finanstilsynet etter reglene i [finansforetaksloven kapittel 20](lov/2015-04-10-17/kap20).
+Bestemmelsene i [§§ 3-13](lov/1997-06-13-45/§3-13) til [3-15](lov/1997-06-13-45/§3-15) gjelder ikke for:
+
+1. avtale som inngås som ledd i selskapets vanlige virksomhet og som er grunnet på vanlige forretningsmessige vilkår og prinsipper,
+2. avtale der selskapets ytelse på tidspunktet for inngåelse av avtalen har en virkelig verdi som utgjør mindre enn 250 000 kroner,
+3. avtale inngått i samsvar med reglene i [§ 2-4](lov/1997-06-13-45/§2-4), jf. [§ 2-6](lov/1997-06-13-45/§2-6), [§ 2-10 a](lov/1997-06-13-45/§2-10a) og [§ 10-2](lov/1997-06-13-45/§10-2),
+4. avtale som nevnt i [§§ 6-10](lov/1997-06-13-45/§6-10) og [6-16 a](lov/1997-06-13-45/§6-16a),
+5. avtale om overdragelse av omsettelige verdipapirer som nevnt i [verdipapirhandelloven § 2-4](lov/2007-06-29-75/§2-4) første ledd til pris i henhold til kursnotering på et regulert marked,
+6. avtale som omfattes av [§ 8-7](lov/1997-06-13-45/§8-7) fjerde ledd første punktum nr. 2 og 3, jf. annet punktum, dersom morselskapet eller den juridiske personen eier samtlige aksjer i selskapet,
+7. avtale inngått i samsvar med reglene gitt i eller i medhold av [§ 8-10](lov/1997-06-13-45/§8-10),
+8. avtale inngått med et heleid datterselskap,
+9. avtale inngått med et deleid datterselskap, dersom ingen av selskapets tilknyttede parter har en interesse i datterselskapet,
+10. avtale som er godkjent av Finanstilsynet etter reglene i [finansforetaksloven kapittel 20](lov/2015-04-10-17/kap20).
 
 > Tilføyd ved lov [6 des 2019 nr. 77](lov/2019-12-06-77) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1648](forskrift/2019-12-06-1648)), endret ved lov [18 juni 2021 nr. 137](lov/2021-06-18-137) (ikr. 18 juni 2021 iflg. [res. 18 juni 2021 nr. 1986](forskrift/2021-06-18-1986)).
 
@@ -456,7 +543,13 @@ Styret skal i årsrapporten og halvårsrapporten etter [verdipapirhandelloven §
 
 (3) Ved vurderingen av om en avtale er vesentlig etter annet ledd skal avtaler som datterselskapet eller et annet foretak i samme konsern eller foretaksgruppe, jf. [§ 8-7](lov/1997-06-13-45/§8-7) fjerde ledd nr. 3, har inngått med samme tilknyttet part i samme regnskapsår, regnes sammen. Avtale som nevnt i [§ 3-16](lov/1997-06-13-45/§3-16) nr. 1 og nr. 3 til 10 som datterselskapet eller foretak som nevnt i første punktum har inngått, skal ikke regnes med.
 
-(4) Styret i morselskapet skal sørge for at det utarbeides en melding om avtalen, som minst skal opplyse om:hvem som er avtaleparter, relasjonen mellom morselskapet og den tilknyttede parten, datoen for inngåelse av avtalen og verdien av avtalen,forhold som kan være av betydning for å vurdere om avtalen er i morselskapets interesse, ogforhold som kan være av betydning for å vurdere om avtalen er rimelig for aksjeeiere i morselskapet som ikke er part i avtalen.Meldingen skal dateres og signeres av samtlige styremedlemmer i morselskapet, med unntak av styremedlem som var inhabil etter [§ 6-27](lov/1997-06-13-45/§6-27) ved styrets behandling av saken. Har en som skal signere, innvendinger mot meldingen, skal vedkommende signere med påtegnet forbehold.
+(4) Styret i morselskapet skal sørge for at det utarbeides en melding om avtalen, som minst skal opplyse om:
+
+1. hvem som er avtaleparter, relasjonen mellom morselskapet og den tilknyttede parten, datoen for inngåelse av avtalen og verdien av avtalen,
+2. forhold som kan være av betydning for å vurdere om avtalen er i morselskapets interesse, og
+3. forhold som kan være av betydning for å vurdere om avtalen er rimelig for aksjeeiere i morselskapet som ikke er part i avtalen.
+
+Meldingen skal dateres og signeres av samtlige styremedlemmer i morselskapet, med unntak av styremedlem som var inhabil etter [§ 6-27](lov/1997-06-13-45/§6-27) ved styrets behandling av saken. Har en som skal signere, innvendinger mot meldingen, skal vedkommende signere med påtegnet forbehold.
 
 (5) Meldingen skal offentliggjøres på morselskapets nettsider uten opphold etter at avtalen er inngått. Morselskapet kan utsette offentliggjøringen av meldingen etter reglene i [verdipapirhandelloven § 5-3](lov/2007-06-29-75/§5-3). Meldingen skal forbli offentlig på nettsiden så lenge avtalen varer, men likevel ikke kortere enn fem år. I stedet for offentliggjøring på morselskapets nettsider, kan meldingen offentliggjøres av morselskapet etter reglene i [verdipapirhandelloven kapittel 5](lov/2007-06-29-75/kap5) avsnitt I.
 
@@ -494,7 +587,17 @@ Eier flere en aksje i sameie, må de oppnevne en enkelt sameier til å opptre so
 
 (1) Når et allmennaksjeselskap er stiftet, skal styret uten opphold sørge for at det opprettes et aksjeeierregister for selskapet i en verdipapirsentral som har tillatelse etter eller er anerkjent etter verdipapirsentralforordningen (forordning [(EU) nr. 909/2014](eu/32014r0909*)). Opprettes aksjeeierregisteret før selskapet er registrert i Foretaksregisteret, skal dette angis. Når selskapet er registrert i Foretaksregisteret, skal styret straks melde dette til verdipapirsentralen.
 
-(2) Aksjeeierregisteret skal inneholde opplysning om:selskapets navn;selskapets aksjekapital;aksjenes pålydende;aksjeeiernes navn, fødselsdato, digital adresse og bostedsadresse, eller – for juridiske personer – foretaksnavn, organisasjonsnummer eller lignende identifikasjonsnummer, digital adresse, forretningsadresse og eventuelt postadresse;antall aksjer som eies av den enkelte aksjeeier, og i tilfelle hvilken aksjeklasse aksjene tilhører;dersom det er flere aksjeklasser i selskapet, hvilke særregler som gjelder for aksjene i de klasser som er undergitt særregler;om retten til å omsette eller pantsette aksjer er innskrenket ved vedtektsbestemmelse;om aksjene kan innløses uten aksjeeierens samtykke;om det er særlige plikter knyttet til aksjene ut over betaling av aksjeinnskuddet.
+(2) Aksjeeierregisteret skal inneholde opplysning om:
+
+1. selskapets navn;
+2. selskapets aksjekapital;
+3. aksjenes pålydende;
+4. aksjeeiernes navn, fødselsdato, digital adresse og bostedsadresse, eller – for juridiske personer – foretaksnavn, organisasjonsnummer eller lignende identifikasjonsnummer, digital adresse, forretningsadresse og eventuelt postadresse;
+5. antall aksjer som eies av den enkelte aksjeeier, og i tilfelle hvilken aksjeklasse aksjene tilhører;
+6. dersom det er flere aksjeklasser i selskapet, hvilke særregler som gjelder for aksjene i de klasser som er undergitt særregler;
+7. om retten til å omsette eller pantsette aksjer er innskrenket ved vedtektsbestemmelse;
+8. om aksjene kan innløses uten aksjeeierens samtykke;
+9. om det er særlige plikter knyttet til aksjene ut over betaling av aksjeinnskuddet.
 
 (3) Den som er innført i aksjeeierregisteret har rett til å kreve at ufullstendige eller uriktige opplysninger blir rettet.
 
@@ -550,7 +653,13 @@ Tidligere eier skal sørge for at det straks etter eierskifte sendes melding til
 
 (3) En forvalter kan ikke utøve andre rettigheter i selskapet enn retten til å motta utbytte eller andre utdelinger på de aksjer forvalteroppdraget omfatter, herunder tildeling av nye aksjer ved kapitalforhøyelse. Forvalteren har fullmakt til å motta slike utdelinger.
 
-(4) Dersom selskapet eller en offentlig myndighet krever det, plikter forvalteren uten opphold å innhente og utlevere opplysninger om:aksjeeiernes navn, digital adresse og bostedsadresse, eller – for juridiske personer – foretaksnavn, organisasjonsnummer eller lignende identifikasjonsnummer, digital adresse, forretningsadresse og eventuelt postadresse;antall aksjer som eies av den enkelte aksjeeier; ogi den utstrekning det anmodes om det, eventuell aksjeklasse og ervervsdato.Dersom det er flere ledd med formidlere, skal anmodning og opplysninger etter første punktum videreformidles uten opphold mellom formidlerne. Selskapet og offentlige myndigheter kan i anmodningen kreve at opplysningene utleveres direkte av den formidleren som besitter opplysningene.
+(4) Dersom selskapet eller en offentlig myndighet krever det, plikter forvalteren uten opphold å innhente og utlevere opplysninger om:
+
+1. aksjeeiernes navn, digital adresse og bostedsadresse, eller – for juridiske personer – foretaksnavn, organisasjonsnummer eller lignende identifikasjonsnummer, digital adresse, forretningsadresse og eventuelt postadresse;
+2. antall aksjer som eies av den enkelte aksjeeier; og
+3. i den utstrekning det anmodes om det, eventuell aksjeklasse og ervervsdato.
+
+Dersom det er flere ledd med formidlere, skal anmodning og opplysninger etter første punktum videreformidles uten opphold mellom formidlerne. Selskapet og offentlige myndigheter kan i anmodningen kreve at opplysningene utleveres direkte av den formidleren som besitter opplysningene.
 
 (5) Selskapet, forvaltere og formidlere kan oppbevare personopplysninger som er innhentet etter fjerde ledd, i inntil tolv måneder etter at de ble klar over at vedkommende ikke lenger er aksjeeier, med mindre annet følger av lov eller forskrift med hjemmel i lov. Aksjeeiere som er juridiske personer, kan kreve innsyn i opplysninger selskapet har innhentet etter fjerde ledd, og kan kreve at ufullstendige eller uriktige opplysninger blir rettet. For aksjeeiere som er fysiske personer, gjelder [personopplysningslovens](lov/2018-06-15-38) bestemmelser om innsyn og retting.
 
@@ -566,11 +675,22 @@ Tidligere eier skal sørge for at det straks etter eierskifte sendes melding til
 
 (1) Selskapet skal ha et tegningsrettsregister i den verdipapirsentralen selskapets aksjer er registrert i.
 
-(2) I tegningsrettsregisteret skal innføres:fortrinnsrett som tilkommer en aksjeeier når aksjekapitalen skal forhøyes ved nytegning;rett til å kreve utstedt aksje som tilkommer en fordringshaver i henhold til avtale om lån til selskapet;rett til å kreve utstedt aksje som tilkommer en aksjeeier som følge av nytegning av aksje i selskapet;rett til å kreve utstedt aksje som tilkommer innehaveren av særskilt tegningsrett utstedt av selskapet.
+(2) I tegningsrettsregisteret skal innføres:
+
+1. fortrinnsrett som tilkommer en aksjeeier når aksjekapitalen skal forhøyes ved nytegning;
+2. rett til å kreve utstedt aksje som tilkommer en fordringshaver i henhold til avtale om lån til selskapet;
+3. rett til å kreve utstedt aksje som tilkommer en aksjeeier som følge av nytegning av aksje i selskapet;
+4. rett til å kreve utstedt aksje som tilkommer innehaveren av særskilt tegningsrett utstedt av selskapet.
 
 (3) Tegningsrett som nevnt skal også registreres på konto som rettighetshaveren har i en verdipapirsentral. [§ 4-10](lov/1997-06-13-45/§4-10) gjelder tilsvarende.
 
-(4) Tegningsrettsregisteret skal inneholde opplysninger om:selskapets navn;rettighetshaverens navn, fødselsdato og adresse, eller – for juridiske personer – foretaksnavn, organisasjonsnummer og adresse;antall aksjer tegningsretten omfatter, eller hvor mange tegningsretter som kreves for tegning av en aksje;den aksjeklasse de nye aksjer skal tilhøre dersom det er eller skal være aksjer av ulike slag i selskapet;hvorvidt tegningsretten er knyttet til aksje eller fordring, og om rettighetshaveren i så fall skal kunne skille tegningsretten fra aksjen eller fordringen.
+(4) Tegningsrettsregisteret skal inneholde opplysninger om:
+
+1. selskapets navn;
+2. rettighetshaverens navn, fødselsdato og adresse, eller – for juridiske personer – foretaksnavn, organisasjonsnummer og adresse;
+3. antall aksjer tegningsretten omfatter, eller hvor mange tegningsretter som kreves for tegning av en aksje;
+4. den aksjeklasse de nye aksjer skal tilhøre dersom det er eller skal være aksjer av ulike slag i selskapet;
+5. hvorvidt tegningsretten er knyttet til aksje eller fordring, og om rettighetshaveren i så fall skal kunne skille tegningsretten fra aksjen eller fordringen.
 
 (5) Innsynsretten etter [§ 4-5](lov/1997-06-13-45/§4-5) gjelder tilsvarende for tegningsrettsregisteret.
 
@@ -592,7 +712,10 @@ Tidligere eier skal sørge for at det straks etter eierskifte sendes melding til
 
 (2) Erververen av en aksje får ikke bedre rett enn avhenderen til utbetaling av utbytte og andre utdelinger fra selskapet. Annen utdeling enn utbytte er likevel bare frigjørende i forhold til en senere godtroende erverver dersom den er registrert på aksjeeierens konto i en verdipapirsentral.
 
-(3) Vedtektene er bindende for erververen selv om aksjeeierregisteret inneholder uriktige eller ufullstendige opplysninger. Begrensning i retten til å omsette eller pantsette aksjer som ikke er registrert, kan likevel bare gjøres gjeldende mot erververen dersom:erververen kjente eller burde ha kjent til begrensningen da ervervet ble registrert, ellerunnlatt registrering skyldes feil i en verdipapirsentral.
+(3) Vedtektene er bindende for erververen selv om aksjeeierregisteret inneholder uriktige eller ufullstendige opplysninger. Begrensning i retten til å omsette eller pantsette aksjer som ikke er registrert, kan likevel bare gjøres gjeldende mot erververen dersom:
+
+1. erververen kjente eller burde ha kjent til begrensningen da ervervet ble registrert, eller
+2. unnlatt registrering skyldes feil i en verdipapirsentral.
 
 (4) Opplysninger som gjelder rettsvirkninger av registrering, skal være offentlig tilgjengelig. Det samme gjelder fremgangsmåten for å få registrert rettigheter til aksjene.
 
@@ -644,7 +767,11 @@ Aksjer kan pantsettes når annet ikke er fastsatt i vedtektene. Pant i aksjer re
 
 ### § 4-17. Virkningen av at samtykke blir nektet
 
-(1) Nekter styret å gi samtykke til ervervet, kan erververenomgjøre avtalen med avhenderen, hvis ikke noe annet er fastsatt i avtalen;avhende aksjen;reise søksmål om gyldigheten av nektelsen.
+(1) Nekter styret å gi samtykke til ervervet, kan erververen
+
+1. omgjøre avtalen med avhenderen, hvis ikke noe annet er fastsatt i avtalen;
+2. avhende aksjen;
+3. reise søksmål om gyldigheten av nektelsen.
 
 (2) Tiltak etter første ledd må være iverksatt innen to måneder etter at erververen mottok underretning om at samtykke til ervervet var nektet, hvis ikke vedtektene har lengre frist. Oversittes fristen, kan styret kreve aksjen solgt gjennom namsmyndighetene etter reglene om tvangssalg. Bestemmelsene i [tvangsfullbyrdelsesloven § 10-6](lov/1992-06-26-86/§10-6), jf [§ 8-16](lov/1992-06-26-86/§8-16) om det minste bud som kan godtas, gjelder ikke ved salget. Er det reist søksmål om gyldigheten av en nektelse, kan tvangssalg tidligst finne sted to måneder etter at rettskraftig dom foreligger.
 
@@ -652,7 +779,13 @@ Aksjer kan pantsettes når annet ikke er fastsatt i vedtektene. Pant i aksjer re
 
 ### § 4-18. Vedtektsbestemmelser om at en erverver eller eier av en aksje skal ha visse egenskaper
 
-Er det fastsatt i vedtektene at en erverver eller eier av en aksje skal ha visse egenskaper, kan styret gi en erverver eller eier som ikke tilfredsstiller vilkårene, en frist på minst tre måneder for å bringe forholdet i orden. Har eieren ikke innen fristenomgjort avtalen,avhendet aksjene, ellerreist søksmål for å få avgjort om kravene i vedtektene er tilfredsstilt,gjelder reglene om tvangssalg i [§ 4-17](lov/1997-06-13-45/§4-17) annet ledd.
+Er det fastsatt i vedtektene at en erverver eller eier av en aksje skal ha visse egenskaper, kan styret gi en erverver eller eier som ikke tilfredsstiller vilkårene, en frist på minst tre måneder for å bringe forholdet i orden. Har eieren ikke innen fristen
+
+1. omgjort avtalen,
+2. avhendet aksjene, eller
+3. reist søksmål for å få avgjort om kravene i vedtektene er tilfredsstilt,
+
+gjelder reglene om tvangssalg i [§ 4-17](lov/1997-06-13-45/§4-17) annet ledd.
 
 ### VIII. Vedtektsbestemmelser om forkjøpsrett
 
@@ -786,7 +919,10 @@ Når verdipapirsentralen mottar melding etter [§ 4-7](lov/1997-06-13-45/§4-7),
 
 (1) Innen seks måneder etter utgangen av hvert regnskapsår skal selskapet holde ordinær generalforsamling.
 
-(2) På den ordinære generalforsamlingen skal følgende saker behandles og avgjøres:godkjennelse av årsregnskapet og årsberetningen, herunder utdeling av utbytte;andre saker som etter loven eller vedtektene hører under generalforsamlingen.
+(2) På den ordinære generalforsamlingen skal følgende saker behandles og avgjøres:
+
+1. godkjennelse av årsregnskapet og årsberetningen, herunder utdeling av utbytte;
+2. andre saker som etter loven eller vedtektene hører under generalforsamlingen.
 
 (3) I allmennaksjeselskaper som plikter å utarbeide retningslinjer om fastsettelse av lønn og annen godtgjørelse til ledende personer etter [§ 6-16 a](lov/1997-06-13-45/§6-16a), skal den ordinære generalforsamlingen godkjenne retningslinjene.
 
@@ -812,7 +948,10 @@ Når verdipapirsentralen mottar melding etter [§ 4-7](lov/1997-06-13-45/§4-7),
 
 (2) Styret skal sørge for en forsvarlig gjennomføring av generalforsamlingen.
 
-(3) Blir generalforsamlingen holdt som fysisk møte, gjelder følgende regler:Generalforsamlingen skal holdes i den kommune der selskapet har sitt forretningskontor, med mindre annet er fastsatt i vedtektene. Generalforsamlingen kan holdes et annet sted hvis det er nødvendig av særlige grunner.Aksjeeierne har rett til å delta elektronisk, med mindre styret finner at det foreligger saklig grunn for å nekte. Reglene i fjerde ledd gjelder tilsvarende.
+(3) Blir generalforsamlingen holdt som fysisk møte, gjelder følgende regler:
+
+1. Generalforsamlingen skal holdes i den kommune der selskapet har sitt forretningskontor, med mindre annet er fastsatt i vedtektene. Generalforsamlingen kan holdes et annet sted hvis det er nødvendig av særlige grunner.
+2. Aksjeeierne har rett til å delta elektronisk, med mindre styret finner at det foreligger saklig grunn for å nekte. Reglene i fjerde ledd gjelder tilsvarende.
 
 (4) Blir generalforsamlingen holdt som elektronisk møte, skal styret sørge for at det foreligger systemer som sikrer at lovens krav til generalforsamling er oppfylt. Systemene må sikre at deltakelsen og stemmegivningen kan kontrolleres på en betryggende måte, og det må benyttes en betryggende metode for å autentisere avsenderen. I vedtektene kan det fastsettes nærmere krav til elektronisk deltakelse på generalforsamlingen.
 
@@ -880,7 +1019,12 @@ Det kan fastsettes i vedtektene at når dokumenter som gjelder saker som skal be
 
 ### § 5-11 b. Særregler om innkalling og informasjon til aksjeeierne om generalforsamlingen i selskaper med aksjer tatt opp til handel på regulert marked mv.
 
-For selskaper med aksjer tatt opp til handel på regulert marked, jf. [verdipapirhandelloven § 2-7](lov/2007-06-29-75/§2-7) fjerde ledd, som ligger i eller har virksomhet i EØS-området, gjelder følgende særregler:Innkallingsfristen etter [§ 5-10](lov/1997-06-13-45/§5-10) annet ledd første punktum er 21 dager, om ikke vedtektene setter en lengre frist, jf. likevel [verdipapirhandelloven § 6-17](lov/2007-06-29-75/§6-17) sjette ledd.Innkallingen skal i tillegg til kravene etter [§ 5-10](lov/1997-06-13-45/§5-10) oppfylle kravene etter forskrift fastsatt av Kongen til gjennomføring av direktiv [2007/36/EF artikkel 5](eu/32007l0036/a5) nr. 3.Informasjon og skjemaer som gjelder generalforsamlingen, skal være tilgjengelig for aksjeeierne på selskapets internettsider etter regler i forskrift fastsatt av Kongen til gjennomføring av direktiv [2007/36/EF artikkel 5](eu/32007l0036/a5) nr. 4 og [artikkel 14](eu/32007l0036/a14) nr. 2.Selskapet skal innen 15 dager etter generalforsamlingen offentliggjøre fortegnelsen over aksjeeiere som har deltatt på generalforsamlingen, jf. [§ 5-13](lov/1997-06-13-45/§5-13), på sine internettsider. Departementet kan i forskrift gi nærmere bestemmelser om offentliggjøring av fortegnelsen.
+For selskaper med aksjer tatt opp til handel på regulert marked, jf. [verdipapirhandelloven § 2-7](lov/2007-06-29-75/§2-7) fjerde ledd, som ligger i eller har virksomhet i EØS-området, gjelder følgende særregler:
+
+1. Innkallingsfristen etter [§ 5-10](lov/1997-06-13-45/§5-10) annet ledd første punktum er 21 dager, om ikke vedtektene setter en lengre frist, jf. likevel [verdipapirhandelloven § 6-17](lov/2007-06-29-75/§6-17) sjette ledd.
+2. Innkallingen skal i tillegg til kravene etter [§ 5-10](lov/1997-06-13-45/§5-10) oppfylle kravene etter forskrift fastsatt av Kongen til gjennomføring av direktiv [2007/36/EF artikkel 5](eu/32007l0036/a5) nr. 3.
+3. Informasjon og skjemaer som gjelder generalforsamlingen, skal være tilgjengelig for aksjeeierne på selskapets internettsider etter regler i forskrift fastsatt av Kongen til gjennomføring av direktiv [2007/36/EF artikkel 5](eu/32007l0036/a5) nr. 4 og [artikkel 14](eu/32007l0036/a14) nr. 2.
+4. Selskapet skal innen 15 dager etter generalforsamlingen offentliggjøre fortegnelsen over aksjeeiere som har deltatt på generalforsamlingen, jf. [§ 5-13](lov/1997-06-13-45/§5-13), på sine internettsider. Departementet kan i forskrift gi nærmere bestemmelser om offentliggjøring av fortegnelsen.
 
 > Tilføyd ved lov [19 juni 2009 nr. 77](lov/2009-06-19-77) (ikr. 3 aug 2009 iflg. [res. 26 juni 2009 nr. 876](forskrift/2009-06-26-876)), endret ved lover [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [11 juni 2021 nr. 84](lov/2021-06-11-84) (i kraft 1 jan 2022 iflg. [res. 17 des 2021 nr. 3657](forskrift/2021-12-17-3657)).
 
@@ -906,11 +1050,19 @@ Den som åpner møtet, skal før første avstemning opprette en fortegnelse over
 
 (1) Saker som ikke er meddelt aksjeeierne etter reglene om innkalling av generalforsamlingen, kan ikke avgjøres på møtet uten at alle aksjeeiere samtykker.
 
-(2) At saken ikke er angitt i innkallingen, er likevel ikke til hinder for atden ordinære generalforsamling avgjør saker som etter loven eller vedtektene skal behandles på møtet;den ordinære generalforsamling avgjør forslag om gransking etter [§ 5-25](lov/1997-06-13-45/§5-25) første ledd;det vedtas å innkalle til ny generalforsamling for å avgjøre forslag fremsatt i møtet.
+(2) At saken ikke er angitt i innkallingen, er likevel ikke til hinder for at
+
+1. den ordinære generalforsamling avgjør saker som etter loven eller vedtektene skal behandles på møtet;
+2. den ordinære generalforsamling avgjør forslag om gransking etter [§ 5-25](lov/1997-06-13-45/§5-25) første ledd;
+3. det vedtas å innkalle til ny generalforsamling for å avgjøre forslag fremsatt i møtet.
 
 ### § 5-15. Ledelsens opplysningsplikt
 
-(1) En aksjeeier kan kreve at styremedlemmer, medlemmer av bedriftsforsamlingen og daglig leder på generalforsamlingen gir tilgjengelige opplysninger om forhold som kan innvirke på bedømmelsen avgodkjennelsen av årsregnskapet og årsberetningen;saker som er forelagt aksjeeierne til avgjørelse;selskapets økonomiske stilling, herunder om virksomheten i andre selskaper som selskapet deltar i, og andre saker som generalforsamlingen skal behandle, med mindre de opplysninger som kreves, ikke kan gis uten uforholdsmessig skade for selskapet.
+(1) En aksjeeier kan kreve at styremedlemmer, medlemmer av bedriftsforsamlingen og daglig leder på generalforsamlingen gir tilgjengelige opplysninger om forhold som kan innvirke på bedømmelsen av
+
+1. godkjennelsen av årsregnskapet og årsberetningen;
+2. saker som er forelagt aksjeeierne til avgjørelse;
+3. selskapets økonomiske stilling, herunder om virksomheten i andre selskaper som selskapet deltar i, og andre saker som generalforsamlingen skal behandle, med mindre de opplysninger som kreves, ikke kan gis uten uforholdsmessig skade for selskapet.
 
 (2) Dersom det må innhentes opplysninger, slik at svar ikke kan gis på generalforsamlingen, skal det utarbeides skriftlig svar innen to uker etter møtet. Svaret skal holdes tilgjengelig for aksjeeierne på selskapets kontor og sendes alle aksjeeiere som har bedt om opplysningen. Dersom svaret må anses å være av vesentlig betydning for bedømmelsen av forhold som nevnt i første ledd, skal svaret sendes alle aksjeeiere med kjent adresse.
 
@@ -952,7 +1104,13 @@ Den som åpner møtet, skal før første avstemning opprette en fortegnelse over
 
 ### § 5-20. Krav om enstemmighet mv
 
-(1) En beslutning krever tilslutning fra samtlige aksjeeiere når den for utgitte aksjer innebærerat aksjeeiernes forpliktelser i forhold til selskapet økes;at retten til å overdra eller erverve aksjer i selskapet innskrenkes på annen måte enn nevnt i [§ 5-19](lov/1997-06-13-45/§5-19) annet ledd;at aksjer kan være gjenstand for tvungen innløsning;at rettsforholdet mellom tidligere likestilte aksjer endres;at aksjeeiernes rett til utbytte eller til selskapets formue reduseres ved bestemmelse som nevnt i [§ 2-2](lov/1997-06-13-45/§2-2) annet ledd.
+(1) En beslutning krever tilslutning fra samtlige aksjeeiere når den for utgitte aksjer innebærer
+
+1. at aksjeeiernes forpliktelser i forhold til selskapet økes;
+2. at retten til å overdra eller erverve aksjer i selskapet innskrenkes på annen måte enn nevnt i [§ 5-19](lov/1997-06-13-45/§5-19) annet ledd;
+3. at aksjer kan være gjenstand for tvungen innløsning;
+4. at rettsforholdet mellom tidligere likestilte aksjer endres;
+5. at aksjeeiernes rett til utbytte eller til selskapets formue reduseres ved bestemmelse som nevnt i [§ 2-2](lov/1997-06-13-45/§2-2) annet ledd.
 
 (2) Dersom en slik beslutning bare berører en del av aksjeeierne, krever beslutningen tilslutning fra samtlige berørte aksjeeiere og dessuten flertall som for vedtektsendring.
 
@@ -972,7 +1130,12 @@ En aksjeeier, et styremedlem, et medlem av bedriftsforsamlingen eller daglig led
 
 (1) Søksmål om gyldigheten av en beslutning etter [§ 5-22](lov/1997-06-13-45/§5-22) må reises innen tre måneder etter at den ble truffet. Ellers er beslutningen gyldig.
 
-(2) Reglene i første ledd gjelder ikke nårbeslutningen er av en slik art at den ikke kan treffes selv med samtykke av alle aksjeeierne;lov eller vedtekter krever at samtlige eller visse aksjeeiere må samtykke i beslutningen og slikt samtykke ikke er gitt;innkalling til generalforsamlingen ikke har skjedd, eller reglene om innkalling har vært vesentlig satt til side;søksmål reises innen to år etter utløpet av fristen i første ledd og retten finner at saksøkeren har hatt rimelig grunn for sin fristforsømmelse, og at det ville føre til åpenbart urimelig resultat om beslutningen måtte anses gyldig.
+(2) Reglene i første ledd gjelder ikke når
+
+1. beslutningen er av en slik art at den ikke kan treffes selv med samtykke av alle aksjeeierne;
+2. lov eller vedtekter krever at samtlige eller visse aksjeeiere må samtykke i beslutningen og slikt samtykke ikke er gitt;
+3. innkalling til generalforsamlingen ikke har skjedd, eller reglene om innkalling har vært vesentlig satt til side;
+4. søksmål reises innen to år etter utløpet av fristen i første ledd og retten finner at saksøkeren har hatt rimelig grunn for sin fristforsømmelse, og at det ville føre til åpenbart urimelig resultat om beslutningen måtte anses gyldig.
 
 ### § 5-24. Dom om ugyldighet
 
@@ -1122,7 +1285,13 @@ Godtgjørelse til styremedlemmer, varamedlemmer og observatører fastsettes av g
 
 ### § 6-11 a. Krav til kjønnssammensetning i styret
 
-(1) Kjønnssammensetningen i styret skal oppfylle følgende krav:Har styret tre eller fire medlemmer, kan maksimalt to styremedlemmer ha samme kjønn.Har styret fem eller seks medlemmer, kan maksimalt tre styremedlemmer ha samme kjønn.Har styret syv medlemmer, kan maksimalt fire styremedlemmer ha samme kjønn.Har styret åtte medlemmer, kan maksimalt fem styremedlemmer ha samme kjønn.Har styret ni eller flere medlemmer, kan maksimalt 60 prosent av styremedlemmene ha samme kjønn.
+(1) Kjønnssammensetningen i styret skal oppfylle følgende krav:
+
+1. Har styret tre eller fire medlemmer, kan maksimalt to styremedlemmer ha samme kjønn.
+2. Har styret fem eller seks medlemmer, kan maksimalt tre styremedlemmer ha samme kjønn.
+3. Har styret syv medlemmer, kan maksimalt fire styremedlemmer ha samme kjønn.
+4. Har styret åtte medlemmer, kan maksimalt fem styremedlemmer ha samme kjønn.
+5. Har styret ni eller flere medlemmer, kan maksimalt 60 prosent av styremedlemmene ha samme kjønn.
 
 (2) Første ledd gjelder tilsvarende for varamedlemmer.
 
@@ -1226,7 +1395,10 @@ Godtgjørelse til styremedlemmer, varamedlemmer og observatører fastsettes av g
 
 (3) Godtgjørelse som er avtalt eller mottatt i strid med forbudet i første eller annet ledd, tilfaller selskapet. Det samme gjelder avkastning av og eiendeler som er kommet i stedet for godtgjørelsen.
 
-(4) Paragrafen her er ikke til hinder for at styremedlem som ikke deltar i den daglige ledelse, kan opptre som mellommann overfor selskapet mot vanlig mellommannsgodtgjørelse dersomstyremedlemmet ikke også representerer selskapet, ogforretningen inngår i mellommannsvirksomhet som styremedlemmet driver som næring.
+(4) Paragrafen her er ikke til hinder for at styremedlem som ikke deltar i den daglige ledelse, kan opptre som mellommann overfor selskapet mot vanlig mellommannsgodtgjørelse dersom
+
+1. styremedlemmet ikke også representerer selskapet, og
+2. forretningen inngår i mellommannsvirksomhet som styremedlemmet driver som næring.
 
 > Endret ved lov [15 des 2006 nr. 88](lov/2006-12-15-88) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1432](forskrift/2006-12-15-1432)).
 
@@ -1386,7 +1558,12 @@ Etter at valg av styremedlem eller tilsetting av daglig leder er registrert i Fo
 
 (3) Bedriftsforsamlingen skal gi uttalelse til generalforsamlingen om styrets forslag til resultatregnskap og balanse, eventuelt også konsernresultatregnskap og konsernbalanse, bør godkjennes, og om styrets forslag om anvendelse av overskudd eller dekning av tap. Styrets forslag og revisjonsberetningen skal sendes bedriftsforsamlingens medlemmer senest en uke før saken skal behandles. Bedriftsforsamlingen kan også gi uttalelse til generalforsamlingen om styrets erklæring om fastsettelse av lønn og annen godtgjørelse til ledende ansatte etter [§ 6-16 a](lov/1997-06-13-45/§6-16a). Annet punktum gjelder tilsvarende for erklæringen.
 
-(4) Etter forslag fra styret treffer bedriftsforsamlingen avgjørelse i saker som gjelder:Investeringer av betydelig omfang i forhold til selskapets ressurser.Rasjonalisering eller omlegging av driften som vil medføre større endring eller omdisponering av arbeidsstyrken.Dersom det er avtalt at selskapet ikke skal ha bedriftsforsamling, skal styret treffe avgjørelser som nevnt i første punktum, jf [§ 6-12](lov/1997-06-13-45/§6-12) femte ledd. Vedtektene kan dessuten bestemme at det til visse arter forretninger som ikke hører under den daglige ledelse, skal kreves samtykke av bedriftsforsamlingen. Kongen kan gi forskrifter om den nærmere avgrensning av bedriftsforsamlingens myndighet etter første punktum og om saksbehandlingen i bedriftsforsamlingen.
+(4) Etter forslag fra styret treffer bedriftsforsamlingen avgjørelse i saker som gjelder:
+
+1. Investeringer av betydelig omfang i forhold til selskapets ressurser.
+2. Rasjonalisering eller omlegging av driften som vil medføre større endring eller omdisponering av arbeidsstyrken.
+
+Dersom det er avtalt at selskapet ikke skal ha bedriftsforsamling, skal styret treffe avgjørelser som nevnt i første punktum, jf [§ 6-12](lov/1997-06-13-45/§6-12) femte ledd. Vedtektene kan dessuten bestemme at det til visse arter forretninger som ikke hører under den daglige ledelse, skal kreves samtykke av bedriftsforsamlingen. Kongen kan gi forskrifter om den nærmere avgrensning av bedriftsforsamlingens myndighet etter første punktum og om saksbehandlingen i bedriftsforsamlingen.
 
 (5) Bedriftsforsamlingen kan vedta anbefalinger til styret om hvilken som helst sak.
 
@@ -1424,7 +1601,13 @@ De ansattes representanter i bedriftsforsamlingen kan be om at tingretten ved kj
 
 (1) I selskaper som er foretak av allmenn interesse etter [revisorloven § 1-2](lov/2020-11-20-128/§1-2) sjette ledd, skal det velges et revisjonsutvalg. Revisjonsutvalget er et forberedende og rådgivende arbeidsutvalg for styret.
 
-(2) Første ledd gjelder ikke selskaper som siste regnskapsår oppfylte minst to av følgende tre kriterier:gjennomsnittlig antall ansatte på under 250,balansesum på mindre enn 300 millioner kroner ved utgangen av regnskapsåret,nettoomsetning på mindre enn 350 millioner kroner.I selskaper som er unntatt fra kravet om revisjonsutvalg etter første punktum, skal styret utføre de oppgavene som er lagt til revisjonsutvalget. Når styret utfører slike oppgaver, kan styreleder som er ledende ansatt i selskapet ikke delta i møtet.
+(2) Første ledd gjelder ikke selskaper som siste regnskapsår oppfylte minst to av følgende tre kriterier:
+
+1. gjennomsnittlig antall ansatte på under 250,
+2. balansesum på mindre enn 300 millioner kroner ved utgangen av regnskapsåret,
+3. nettoomsetning på mindre enn 350 millioner kroner.
+
+I selskaper som er unntatt fra kravet om revisjonsutvalg etter første punktum, skal styret utføre de oppgavene som er lagt til revisjonsutvalget. Når styret utfører slike oppgaver, kan styreleder som er ledende ansatt i selskapet ikke delta i møtet.
 
 (3) Første ledd gjelder ikke for heleid datterselskap dersom det i morselskapet er etablert et revisjonsutvalg som oppfyller de kravene som stilles til revisjonsutvalg i datterselskapet.
 
@@ -1442,7 +1625,15 @@ De ansattes representanter i bedriftsforsamlingen kan be om at tingretten ved kj
 
 ### § 6-43. Revisjonsutvalgets oppgaver
 
-(1) Revisjonsutvalget skal:informere styret om resultatet av den lovfestede revisjonen og attestasjonen av pliktig bærekraftsrapportering, forklare hvordan revisjonen og attestasjonen bidro til regnskapsrapportering og bærekraftsrapportering med integritet og revisjonsutvalgets rolle i den prosessen,forberede styrets oppfølging av regnskapsrapporteringsprosessen og prosessen for bærekraftsrapporteringen, inkludert den digitale rapporteringsprosessen og prosessen for å identifisere informasjonen som er rapportert i henhold til standardene for bærekraftsrapportering, og komme med anbefalinger eller forslag for å sikre dens integritet,for så vidt gjelder selskapets regnskapsrapportering og bærekraftsrapportering, overvåke systemene for internkontroll, risikostyring og internrevisjon uten at det bryter med revisjonsutvalgets uavhengige rolle,ha løpende kontakt med selskapets valgte revisorer om revisjonen av årsregnskapet og attestasjonen av bærekraftsrapporteringen, herunder særlig overvåke revisjonsutførelsen i lys av forhold Finanstilsynet har påpekt i henhold til revisjonsforordningen artikkel 26 nr. 6,vurdere og overvåke revisors uavhengighet etter [revisorloven](lov/2020-11-20-128) og revisjonsforordningen, særlig at tjenester er levert i samsvar med revisjonsforordningen artikkel 5 og [revisorloven § 12-4 a](lov/2020-11-20-128/§12-4a),vurdere revisors bekreftelse av uavhengighet og gjennomføre drøfting, som angitt i revisjonsforordningen artikkel 6 nr. 2,ha ansvaret for å forberede selskapets valg av revisor og gi sin anbefaling i samsvar med revisjonsforordningen artikkel 16.
+(1) Revisjonsutvalget skal:
+
+1. informere styret om resultatet av den lovfestede revisjonen og attestasjonen av pliktig bærekraftsrapportering, forklare hvordan revisjonen og attestasjonen bidro til regnskapsrapportering og bærekraftsrapportering med integritet og revisjonsutvalgets rolle i den prosessen,
+2. forberede styrets oppfølging av regnskapsrapporteringsprosessen og prosessen for bærekraftsrapporteringen, inkludert den digitale rapporteringsprosessen og prosessen for å identifisere informasjonen som er rapportert i henhold til standardene for bærekraftsrapportering, og komme med anbefalinger eller forslag for å sikre dens integritet,
+3. for så vidt gjelder selskapets regnskapsrapportering og bærekraftsrapportering, overvåke systemene for internkontroll, risikostyring og internrevisjon uten at det bryter med revisjonsutvalgets uavhengige rolle,
+4. ha løpende kontakt med selskapets valgte revisorer om revisjonen av årsregnskapet og attestasjonen av bærekraftsrapporteringen, herunder særlig overvåke revisjonsutførelsen i lys av forhold Finanstilsynet har påpekt i henhold til revisjonsforordningen artikkel 26 nr. 6,
+5. vurdere og overvåke revisors uavhengighet etter [revisorloven](lov/2020-11-20-128) og revisjonsforordningen, særlig at tjenester er levert i samsvar med revisjonsforordningen artikkel 5 og [revisorloven § 12-4 a](lov/2020-11-20-128/§12-4a),
+6. vurdere revisors bekreftelse av uavhengighet og gjennomføre drøfting, som angitt i revisjonsforordningen artikkel 6 nr. 2,
+7. ha ansvaret for å forberede selskapets valg av revisor og gi sin anbefaling i samsvar med revisjonsforordningen artikkel 16.
 
 (2) Første ledd gjelder tilsvarende der en uavhengig tilbyder av attestasjonstjenester er valgt til å attestere bærekraftsrapporteringen, jf. [§ 7-6 første ledd](lov/1997-06-13-45/§7-6/ledd/1).
 
@@ -1468,7 +1659,10 @@ For selskaper som er foretak av allmenn interesse etter [revisorloven § 1-2](lo
 
 ### § 7-2. Opphør av revisors oppdrag
 
-(1) Revisor tjenestegjør inntil en annen revisor er valgt. Selskaper som er foretak av allmenn interesse etter [revisorloven § 1-2](lov/2020-11-20-128/§1-2) sjette ledd, kan etter revisjonsforordningen artikkel 17 nr. 1 annet avsnitt velge et bestemt revisjonsselskap for en sammenhengende oppdragsperiode på høyst ti år. Oppdragsperioden kan utvides til høyst:20 år på de vilkår om gjennomføring av en anbudsprosess som er angitt i revisjonsforordningen artikkel 17 nr. 4 bokstav a, jf. [revisorloven § 12-1](lov/2020-11-20-128/§12-1).24 år på de vilkår om valg av flere revisorer som er angitt i revisjonsforordningen artikkel 17 nr. 4 bokstav b, jf. [revisorloven § 12-1](lov/2020-11-20-128/§12-1).
+(1) Revisor tjenestegjør inntil en annen revisor er valgt. Selskaper som er foretak av allmenn interesse etter [revisorloven § 1-2](lov/2020-11-20-128/§1-2) sjette ledd, kan etter revisjonsforordningen artikkel 17 nr. 1 annet avsnitt velge et bestemt revisjonsselskap for en sammenhengende oppdragsperiode på høyst ti år. Oppdragsperioden kan utvides til høyst:
+
+1. 20 år på de vilkår om gjennomføring av en anbudsprosess som er angitt i revisjonsforordningen artikkel 17 nr. 4 bokstav a, jf. [revisorloven § 12-1](lov/2020-11-20-128/§12-1).
+2. 24 år på de vilkår om valg av flere revisorer som er angitt i revisjonsforordningen artikkel 17 nr. 4 bokstav b, jf. [revisorloven § 12-1](lov/2020-11-20-128/§12-1).
 
 (2) Selskapet kan ikke avsette revisor før utløpet av tjenestetiden uten saklig grunn. Uenighet vedrørende regnskapsmessig behandling eller revisjonshandlinger anses ikke som saklig grunn for avsettelse.
 
@@ -1508,7 +1702,10 @@ For selskaper som er foretak av allmenn interesse etter [revisorloven § 1-2](lo
 
 (2) Formålet med møtet skal være at styret og revisor drøfter sentrale regnskapsmessige forhold og andre forhold som revisor mener styret bør informeres om, herunder regnskapsmessige forhold der revisor ser vesentlige svakheter og mangler ved de vurderingene den daglige ledelsen har gjort.
 
-(3) Kravet etter første ledd gjelder ikke for:datterselskaper som har samme revisor som morselskapet dersom morselskapet er omfattet av kravet i første ledd,datterselskaper som har samme revisor som morselskapet, dersom morselskapet uten å være omfattet av kravet i første ledd likevel avholder et slikt møte med revisor som nevnt der.
+(3) Kravet etter første ledd gjelder ikke for:
+
+1. datterselskaper som har samme revisor som morselskapet dersom morselskapet er omfattet av kravet i første ledd,
+2. datterselskaper som har samme revisor som morselskapet, dersom morselskapet uten å være omfattet av kravet i første ledd likevel avholder et slikt møte med revisor som nevnt der.
 
 (4) Møtet skal gjennomføres som et fysisk eller elektronisk møte. Revisor deltar i møtet på samme måte som styremedlemmene. Dersom møtet avholdes som et fysisk møte, kan revisor delta elektronisk om dette godkjennes av styremedlemmene.
 
@@ -1628,13 +1825,22 @@ For selskaper som er foretak av allmenn interesse etter [revisorloven § 1-2](lo
 
 (3) Forbudet i første ledd gjelder tilsvarende ved kreditt til eller sikkerhetsstillelse til fordel for en aksje- eller andelseier i annet selskap i samme konsern eller noen av dennes nærstående.
 
-(4) Forbudet i første og tredje ledd gjelder ikkekreditt med vanlig løpetid i forbindelse med forretningsavtaler,kreditt eller sikkerhet til fordel for morselskapet eller annet selskap i samme konsern,kreditt eller sikkerhet til fordel for en juridisk person som har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1997-06-13-45/§1-3) over selskapet, eller til fordel for datterselskap av en slik juridisk person, forutsatt at kreditten eller sikkerhetsstillelsen skal tjene foretaksgruppens økonomiske interesser.Første punktum nr. 3 gjelder ikke når den juridiske personen er stat, kommune eller fylkeskommune.
+(4) Forbudet i første og tredje ledd gjelder ikke
+
+1. kreditt med vanlig løpetid i forbindelse med forretningsavtaler,
+2. kreditt eller sikkerhet til fordel for morselskapet eller annet selskap i samme konsern,
+3. kreditt eller sikkerhet til fordel for en juridisk person som har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1997-06-13-45/§1-3) over selskapet, eller til fordel for datterselskap av en slik juridisk person, forutsatt at kreditten eller sikkerhetsstillelsen skal tjene foretaksgruppens økonomiske interesser.
+
+Første punktum nr. 3 gjelder ikke når den juridiske personen er stat, kommune eller fylkeskommune.
 
 > Endret ved lover [21 juni 2002 nr. 43](lov/2002-06-21-43) (ikr. 1 juli 2002 iflg. [res. 21 juni 2002 nr. 569](forskrift/2002-06-21-569)), [25 apr 2003 nr. 25](lov/2003-04-25-25) (ikr. 25 apr 2003 iflg. [res. 25 apr 2003 nr. 487](forskrift/2003-04-25-487)), [14 juni 2013 nr. 40](lov/2013-06-14-40) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 635](forskrift/2013-06-14-635)), [14 des 2018 nr. 95](lov/2018-12-14-95) (ikr. 1 jan 2021 iflg. [res. 30 okt 2020 nr. 2185](forskrift/2020-10-30-2185)), [16 juni 2023 nr. 67](lov/2023-06-16-67) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 905](forskrift/2023-06-16-905)).
 
 ### § 8-8. Kreditt til ansatt som er aksjeeier mv
 
-(1) Bestemmelsene i [§ 8-7](lov/1997-06-13-45/§8-7) er ikke til hinder for at selskapet gir kreditt til eller stiller sikkerhet til fordel for en aksje- eller andelseier eller noen av dennes nærstående nårskyldneren er ansatt i hovedstilling i selskapet eller i et annet selskap i samme konsern, ogkreditten ytes i samsvar med det som er vanlig ved finansiell bistand til ansatte.
+(1) Bestemmelsene i [§ 8-7](lov/1997-06-13-45/§8-7) er ikke til hinder for at selskapet gir kreditt til eller stiller sikkerhet til fordel for en aksje- eller andelseier eller noen av dennes nærstående når
+
+1. skyldneren er ansatt i hovedstilling i selskapet eller i et annet selskap i samme konsern, og
+2. kreditten ytes i samsvar med det som er vanlig ved finansiell bistand til ansatte.
 
 (2) Første ledd gjelder ikke dersom aksjeeieren eier mer enn en prosent av aksjekapitalen i selskapet eller i et annet selskap i samme konsern. Like med aksjeeierens egne aksjer regnes her aksjer som eies av aksjeeierens personlig nærstående.
 
@@ -1642,7 +1848,11 @@ For selskaper som er foretak av allmenn interesse etter [revisorloven § 1-2](lo
 
 (1) Bestemmelsene i [§ 8-7](lov/1997-06-13-45/§8-7) gjelder tilsvarende for selskapets adgang til å gi kreditt til eller stille sikkerhet til fordel for et styremedlem, daglig leder eller et medlem av bedriftsforsamlingen i selskapet eller i annet selskap i samme konsern, eller noen av disses nærstående.
 
-(2) Første ledd er ikke til hinder for at selskapet gir kreditt til eller stiller sikkerhet til fordel for en ansatt eller noen av den ansattes nærstående nården ansatte er valgt som de ansattes representant i styret eller bedriftsforsamlingen etter regler i loven her eller i vedtektsbestemmelsene, ogskyldneren er ansatt i hovedstilling i selskapet eller i et annet selskap i samme konsern, ogkreditten ytes i samsvar med det som er vanlig ved finansiell bistand til ansatte.
+(2) Første ledd er ikke til hinder for at selskapet gir kreditt til eller stiller sikkerhet til fordel for en ansatt eller noen av den ansattes nærstående når
+
+1. den ansatte er valgt som de ansattes representant i styret eller bedriftsforsamlingen etter regler i loven her eller i vedtektsbestemmelsene, og
+2. skyldneren er ansatt i hovedstilling i selskapet eller i et annet selskap i samme konsern, og
+3. kreditten ytes i samsvar med det som er vanlig ved finansiell bistand til ansatte.
 
 ### § 8-10. Kreditt og annen finansiell bistand til erverv av aksjer i selskapet mv.
 
@@ -1654,13 +1864,26 @@ For selskaper som er foretak av allmenn interesse etter [revisorloven § 1-2](lo
 
 (4) Styrets vedtak om finansiell bistand skal godkjennes av generalforsamlingen med flertall som for vedtektsendring før den ytes.
 
-(5) Styret skal sørge for at det foretas en kredittvurdering av den part eller de parter som mottar finansiell bistand og at det utarbeides en redegjørelse for bistanden. Redegjørelsen skal minst inneholde:bakgrunnen for forslaget om finansiell bistand,vilkår som er knyttet til gjennomføringen av disposisjonen,prisen som tredjepersonen skal betale for aksjene eller retten til aksjene,en vurdering av selskapets interesse i å gjennomføre en slik disposisjon, ogen vurdering av de konsekvenser disposisjonen får for selskapets egenkapital og likviditet, jf. [§ 3-4](lov/1997-06-13-45/§3-4).Styret skal avgi en erklæring om at det er i selskapets interesse å yte bistanden, og at kravet til forsvarlig egenkapital og likviditet i [§ 3-4](lov/1997-06-13-45/§3-4) vil være oppfylt.
+(5) Styret skal sørge for at det foretas en kredittvurdering av den part eller de parter som mottar finansiell bistand og at det utarbeides en redegjørelse for bistanden. Redegjørelsen skal minst inneholde:
+
+1. bakgrunnen for forslaget om finansiell bistand,
+2. vilkår som er knyttet til gjennomføringen av disposisjonen,
+3. prisen som tredjepersonen skal betale for aksjene eller retten til aksjene,
+4. en vurdering av selskapets interesse i å gjennomføre en slik disposisjon, og
+5. en vurdering av de konsekvenser disposisjonen får for selskapets egenkapital og likviditet, jf. [§ 3-4](lov/1997-06-13-45/§3-4).
+
+Styret skal avgi en erklæring om at det er i selskapets interesse å yte bistanden, og at kravet til forsvarlig egenkapital og likviditet i [§ 3-4](lov/1997-06-13-45/§3-4) vil være oppfylt.
 
 (6) Redegjørelsen og erklæringen skal dateres og signeres av samtlige styremedlemmer, med unntak av styremedlemmer som var inhabile etter [§ 6-27](lov/1997-06-13-45/§6-27) ved styrets behandling av saken. Har en som skal signere, innvendinger mot redegjørelsen eller erklæringen, skal vedkommende signere med påtegnet forbehold og gjøre rede for innvendingene i redegjørelsen. Redegjørelsen og erklæringen skal vedlegges innkallingen til generalforsamlingen.
 
 (7) Når styret har fattet vedtak om finansiell bistand etter denne bestemmelsen skal redegjørelsen og erklæringen etter femte ledd uten opphold og før bistanden ytes sendes til Foretaksregisteret. Innsideinformasjon etter markedsmisbruksforordningen artikkel 7, jf. [verdipapirhandelloven § 3-1](lov/2007-06-29-75/§3-1), skal ikke sendes Foretaksregisteret.
 
-(8) Bestemmelsene i denne paragrafen gjelder ikke:utdeling av utbytte og konsernbidrag etter reglene i [kapittel 8](lov/1997-06-13-45/kap8),gave etter reglene i [§ 8-6](lov/1997-06-13-45/§8-6),kapitalnedsetting etter reglene i [kapittel 12](lov/1997-06-13-45/kap12), ogfisjon etter reglene i [kapittel 14](lov/1997-06-13-45/kap14).
+(8) Bestemmelsene i denne paragrafen gjelder ikke:
+
+1. utdeling av utbytte og konsernbidrag etter reglene i [kapittel 8](lov/1997-06-13-45/kap8),
+2. gave etter reglene i [§ 8-6](lov/1997-06-13-45/§8-6),
+3. kapitalnedsetting etter reglene i [kapittel 12](lov/1997-06-13-45/kap12), og
+4. fisjon etter reglene i [kapittel 14](lov/1997-06-13-45/kap14).
 
 (9) Departementet kan ved forskrift eller enkeltvedtak gjøre unntak fra reglene i første til syvende ledd for erverv av aksjer av eller for ansatte i selskapet. Tilsvarende gjelder for erverv av aksjer av eller for ansatte i selskap i samme konsern eller foretaksgruppe som nevnt i [§ 8-7](lov/2007-06-29-75/§8-7) fjerde ledd nr. 3.
 
@@ -1748,7 +1971,18 @@ Reglene i [§§ 9-2](lov/1997-06-13-45/§9-2) til [9-7](lov/1997-06-13-45/§9-7)
 
 (1) Beslutning om å forhøye aksjekapitalen ved nytegning av aksjer treffes av generalforsamlingen hvis ikke noe annet er bestemt i denne loven. Slik beslutning kan ikke treffes før selskapet er registrert.
 
-(2) En beslutning om å forhøye aksjekapitalen skal minst angi:det beløp aksjekapitalen skal forhøyes med. Det kan i stedet fastsettes en øvre og en nedre grense for forhøyelsen;aksjenes pålydende (nominelle beløp);det beløp som skal betales for hver aksje, eller en fullmakt for styret til senere å fastsette tegningskursen innenfor en øvre og nedre grense som skal angis i beslutningen;hvem som kan tegne de nye aksjene;fristen for å tegne aksjene. Fristen for tegning av aksjer på grunnlag av fortrinnsrett etter [§ 10-4](lov/1997-06-13-45/§10-4) må ikke være kortere enn to uker fra avgivelsen av underretningen etter tredje ledd;tid og sted for oppgjør av aksjeinnskudd;de regler som ved overtegning skal gjelde for fordelingen av aksjer som ikke er tegnet på grunnlag av fortrinnsrett, hvis ikke fordelingen er overlatt til styret;fra hvilket tidspunkt de nye aksjene gir rett til utbytte;dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre;anslåtte utgifter ved kapitalforhøyelsen, herunder hvor mye som i tilfelle skal betales i provisjon for garanti for tegning av aksjer. Det skal redegjøres for innholdet av garantien.
+(2) En beslutning om å forhøye aksjekapitalen skal minst angi:
+
+1. det beløp aksjekapitalen skal forhøyes med. Det kan i stedet fastsettes en øvre og en nedre grense for forhøyelsen;
+2. aksjenes pålydende (nominelle beløp);
+3. det beløp som skal betales for hver aksje, eller en fullmakt for styret til senere å fastsette tegningskursen innenfor en øvre og nedre grense som skal angis i beslutningen;
+4. hvem som kan tegne de nye aksjene;
+5. fristen for å tegne aksjene. Fristen for tegning av aksjer på grunnlag av fortrinnsrett etter [§ 10-4](lov/1997-06-13-45/§10-4) må ikke være kortere enn to uker fra avgivelsen av underretningen etter tredje ledd;
+6. tid og sted for oppgjør av aksjeinnskudd;
+7. de regler som ved overtegning skal gjelde for fordelingen av aksjer som ikke er tegnet på grunnlag av fortrinnsrett, hvis ikke fordelingen er overlatt til styret;
+8. fra hvilket tidspunkt de nye aksjene gir rett til utbytte;
+9. dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre;
+10. anslåtte utgifter ved kapitalforhøyelsen, herunder hvor mye som i tilfelle skal betales i provisjon for garanti for tegning av aksjer. Det skal redegjøres for innholdet av garantien.
 
 (3) Aksjeeiere eller andre som etter beslutningen skal ha rett til å tegne de nye aksjene, skal gis skriftlig underretning, med mindre adressen er ukjent. Underretningen skal angi hva man skal gjøre dersom man vil bruke fortrinnsretten, og hvilken frist som gjelder for å benytte den.
 
@@ -1756,7 +1990,11 @@ Reglene i [§§ 9-2](lov/1997-06-13-45/§9-2) til [9-7](lov/1997-06-13-45/§9-7)
 
 ### § 10-2. Aksjeinnskudd i annet enn penger og andre særlige tegningsvilkår
 
-(1) Generalforsamlingens beslutning om kapitalforhøyelse skal inneholde enhver avtale eller bestemmelse omat aksjer skal kunne tegnes med rett eller plikt til å gjøre innskudd med andre eiendeler enn penger (jf [§ 10-12](lov/1997-06-13-45/§10-12) første ledd), at aksjeinnskuddsforpliktelsen skal kunne gjøres opp ved motregning (jf [§ 10-12](lov/1997-06-13-45/§10-12), jf [§ 2-12](lov/1997-06-13-45/§2-12) annet ledd annet punktum), eller at aksjer skal kunne tegnes på andre særlige vilkår. Det skal angis hvilke eiendeler det gjelder, innskyterens navn og adresse, hvor mange aksjer selskapet skal yte for innskuddet, og hvilke vilkår som skal gjelde;at selskapet skal overta andre eiendeler enn penger mot vederlag i annet enn aksjer. Det skal angis hvilke eiendeler det gjelder, overdragerens navn og adresse, det vederlaget som selskapet skal yte, og hvilke vilkår som skal gjelde;at selskapet skal bli part i en avtale, eller at noen skal ha særskilte rettigheter overfor eller fordeler av selskapet. Det skal i så fall angis hvilke vilkår som skal gjelde, og navn og adresse på den som er tilgodesett.
+(1) Generalforsamlingens beslutning om kapitalforhøyelse skal inneholde enhver avtale eller bestemmelse om
+
+1. at aksjer skal kunne tegnes med rett eller plikt til å gjøre innskudd med andre eiendeler enn penger (jf [§ 10-12](lov/1997-06-13-45/§10-12) første ledd), at aksjeinnskuddsforpliktelsen skal kunne gjøres opp ved motregning (jf [§ 10-12](lov/1997-06-13-45/§10-12), jf [§ 2-12](lov/1997-06-13-45/§2-12) annet ledd annet punktum), eller at aksjer skal kunne tegnes på andre særlige vilkår. Det skal angis hvilke eiendeler det gjelder, innskyterens navn og adresse, hvor mange aksjer selskapet skal yte for innskuddet, og hvilke vilkår som skal gjelde;
+2. at selskapet skal overta andre eiendeler enn penger mot vederlag i annet enn aksjer. Det skal angis hvilke eiendeler det gjelder, overdragerens navn og adresse, det vederlaget som selskapet skal yte, og hvilke vilkår som skal gjelde;
+3. at selskapet skal bli part i en avtale, eller at noen skal ha særskilte rettigheter overfor eller fordeler av selskapet. Det skal i så fall angis hvilke vilkår som skal gjelde, og navn og adresse på den som er tilgodesett.
 
 (2) I stedet for å gjengi avtalen eller bestemmelsen i generalforsamlingens beslutning kan det henvises til en skriftlig avtale etter reglene i [§ 2-4](lov/1997-06-13-45/§2-4) annet ledd.
 
@@ -1846,7 +2084,11 @@ De nye aksjene gir rettigheter i selskapet fra registreringen av kapitalforhøye
 
 (3) Selskapets krav på innskudd stiftes ved aksjetegningen og forfaller på det tidspunktet som er fastsatt i generalforsamlingens beslutning. Dette tidspunktet kan ikke være senere enn det tidspunktet kapitalforhøyelsen meldes til Foretaksregisteret, jf [§ 10-9](lov/1997-06-13-45/§10-9).
 
-(4) [§§ 2-12](lov/1997-06-13-45/§2-12) til [2-17](lov/1997-06-13-45/§2-17) gjelder tilsvarende for oppgjøret av aksjeinnskuddet. Hvis tilbud om tegning av aksjer ved kapitalforhøyelsen rettes til 100 personer eller flere og gjelder et beløp på minst 100 000 euro, kan en annen enn aksjetegneren gjøre opp et forfalt aksjeinnskudd på aksjetegnerens vegne etter følgende regler:Slike aksjer skal foreløpig registreres på en egen konto i verdipapirsentralen. Aksjene gir ikke rettigheter i selskapet før tegneren har gjort opp aksjeinnskuddet eller en annen enn tegneren har overtatt rettighetene etter reglene i nr 2 og 3, jf [§ 4-2](lov/1997-06-13-45/§4-2).Dersom aksjetegneren ikke har gjort opp aksjeinnskuddet innen syv dager etter at vedkommende er gitt oppfordring om dette, kan den som har gjort opp på vegne av aksjetegneren, etter registreringen av kapitalforhøyelsen overta aksjen selv ved å melde dette til selskapet innen to dager etter at fristen i oppfordringen har gått ut, eller selge den for tegnerens regning og risiko. For den nevnte oppfordringen gjelder [§ 2-13](lov/1997-06-13-45/§2-13) tredje ledd tilsvarende. Salget skal foretas til børskurs eller en kurs som etter markedets stilling er rimelig.Dersom en slik adgang fremgår av tegningsgrunnlaget, kan aksjen overtas eller selges etter reglene i nr 2 etter tre dager fra forfallstidspunktet og uten særskilt betalingsoppfordring. Skal aksjen overtas, må dette meldes til selskapet innen to dager etter at aksjene tidligst kunne vært overtatt.
+(4) [§§ 2-12](lov/1997-06-13-45/§2-12) til [2-17](lov/1997-06-13-45/§2-17) gjelder tilsvarende for oppgjøret av aksjeinnskuddet. Hvis tilbud om tegning av aksjer ved kapitalforhøyelsen rettes til 100 personer eller flere og gjelder et beløp på minst 100 000 euro, kan en annen enn aksjetegneren gjøre opp et forfalt aksjeinnskudd på aksjetegnerens vegne etter følgende regler:
+
+1. Slike aksjer skal foreløpig registreres på en egen konto i verdipapirsentralen. Aksjene gir ikke rettigheter i selskapet før tegneren har gjort opp aksjeinnskuddet eller en annen enn tegneren har overtatt rettighetene etter reglene i nr 2 og 3, jf [§ 4-2](lov/1997-06-13-45/§4-2).
+2. Dersom aksjetegneren ikke har gjort opp aksjeinnskuddet innen syv dager etter at vedkommende er gitt oppfordring om dette, kan den som har gjort opp på vegne av aksjetegneren, etter registreringen av kapitalforhøyelsen overta aksjen selv ved å melde dette til selskapet innen to dager etter at fristen i oppfordringen har gått ut, eller selge den for tegnerens regning og risiko. For den nevnte oppfordringen gjelder [§ 2-13](lov/1997-06-13-45/§2-13) tredje ledd tilsvarende. Salget skal foretas til børskurs eller en kurs som etter markedets stilling er rimelig.
+3. Dersom en slik adgang fremgår av tegningsgrunnlaget, kan aksjen overtas eller selges etter reglene i nr 2 etter tre dager fra forfallstidspunktet og uten særskilt betalingsoppfordring. Skal aksjen overtas, må dette meldes til selskapet innen to dager etter at aksjene tidligst kunne vært overtatt.
 
 > Endret ved lover [2 juli 1999 nr. 59](lov/1999-07-02-59) (ikr. 1 aug 1999 iflg. [res. 2 juli 1999 nr. 715](forskrift/1999-07-02-715)), [15 des 2006 nr. 88](lov/2006-12-15-88) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1432](forskrift/2006-12-15-1432)), [14 juni 2013 nr. 40](lov/2013-06-14-40) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 635](forskrift/2013-06-14-635)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)).
 
@@ -1862,7 +2104,14 @@ Aksjeinnskudd i penger skal innbetales på særskilt konto i en kredittinstitusj
 
 (1) Generalforsamlingen kan med flertall som for vedtektsendring gi styret fullmakt til å forhøye aksjekapitalen ved nytegning av aksjer.
 
-(2) Generalforsamlingens beslutning om styrefullmakt skal angi:det beløp aksjekapitalen i alt skal kunne forhøyes med;hvor lang tid fullmakten skal gjelde for;om aksjeeiernes fortrinnsrett etter [§ 10-4](lov/1997-06-13-45/§10-4) skal kunne fravikes;om fullmakten omfatter kapitalforhøyelse mot innskudd i andre eiendeler enn penger eller rett til å pådra selskapet særlige plikter, jf [§ 10-2](lov/1997-06-13-45/§10-2);dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre. Skal de nye aksjene utgjøre en egen klasse, skal også hovedtrekkene ved de rettighetene som skal gjelde for den nye aksjeklassen, angis;om fullmakten omfatter beslutning om fusjon etter [§ 13-5](lov/1997-06-13-45/§13-5).
+(2) Generalforsamlingens beslutning om styrefullmakt skal angi:
+
+1. det beløp aksjekapitalen i alt skal kunne forhøyes med;
+2. hvor lang tid fullmakten skal gjelde for;
+3. om aksjeeiernes fortrinnsrett etter [§ 10-4](lov/1997-06-13-45/§10-4) skal kunne fravikes;
+4. om fullmakten omfatter kapitalforhøyelse mot innskudd i andre eiendeler enn penger eller rett til å pådra selskapet særlige plikter, jf [§ 10-2](lov/1997-06-13-45/§10-2);
+5. dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre. Skal de nye aksjene utgjøre en egen klasse, skal også hovedtrekkene ved de rettighetene som skal gjelde for den nye aksjeklassen, angis;
+6. om fullmakten omfatter beslutning om fusjon etter [§ 13-5](lov/1997-06-13-45/§13-5).
 
 (3) Styrefullmakten kan ikke gjelde et større beløp enn at det samlede pålydende av aksjer som kan utstedes etter fullmakten, ligger innenfor halvdelen av aksjekapitalen på den tid da fullmakten ble registrert. Fullmakten kan ikke gis for mer enn to år om gangen.
 
@@ -1904,7 +2153,11 @@ Ved tegningen av nye aksjer gjelder reglene i [§ 10-7](lov/1997-06-13-45/§10-7
 
 (3) Beslutning om fondsemisjon treffes av generalforsamlingen. Beslutningen kan ikke treffes før selskapet er registrert i Foretaksregisteret.
 
-(4) Generalforsamlingens beslutning skal angidet beløp aksjekapitalen forhøyes med;om kapitalforhøyelsen skal gjennomføres ved at aksjenes pålydende forhøyes eller ved utstedelse av nye aksjer;dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre.
+(4) Generalforsamlingens beslutning skal angi
+
+1. det beløp aksjekapitalen forhøyes med;
+2. om kapitalforhøyelsen skal gjennomføres ved at aksjenes pålydende forhøyes eller ved utstedelse av nye aksjer;
+3. dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre.
 
 > Endret ved lover [14 juni 2013 nr. 40](lov/2013-06-14-40) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 635](forskrift/2013-06-14-635)), [14 des 2018 nr. 95](lov/2018-12-14-95) (ikr. 1 jan 2021 iflg. [res. 30 okt 2020 nr. 2185](forskrift/2020-10-30-2185)).
 
@@ -1940,7 +2193,21 @@ Et allmennaksjeselskap kan ved avtale om lån gi fordringshaveren rett til å kr
 
 (1) Opptak av lån som nevnt i [§ 11-1](lov/1997-06-13-45/§11-1) besluttes av generalforsamlingen med flertall som for vedtektsendring. Ved bruk av retten til å kreve utstedt aksjer etter en slik låneavtale kan aksjekapitalen forhøyes uten ytterligere beslutning av generalforsamlingen.
 
-(2) Generalforsamlingen skal for hvert enkelt lån fastsette lånevilkårene. Beslutningen skal angi:det samlede lånebeløp. Det kan fastsettes en øvre og en nedre grense for beløpet;hvem som kan tegne lånet;fristen for tegning av lånet. Fristen for tegning på grunnlag av [§ 11-4](lov/1997-06-13-45/§11-4) må ikke være kortere enn to uker fra avgivelsen av underretningen etter tredje ledd;fordringens pålydende (nominelle beløp) og rente;kursen ved tegningen av lånet. Generalforsamlingen kan overlate til styret å fastsette tegningskursen innenfor en øvre og en nedre grense som fastsettes av generalforsamlingen;tid og sted for når lån skal være innbetalt til selskapet;de regler som ved overtegning skal gjelde for fordelingen av lån som ikke er tegnet på grunnlag av fortrinnsrett, hvis ikke fordelingen er overlatt til styret;vilkår for å kunne kreve utstedt aksjer, herunder hva som skal ytes som vederlag for de nye aksjene;fristen for å bruke retten til å kreve utstedt aksjer. Fristen må ikke være lengre enn fem år fra generalforsamlingens beslutning ble truffet;dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre;hvilken stilling rettighetshaverne skal ha ved selskapets beslutning om forhøyelse eller nedsetting av aksjekapitalen, ved ny beslutning om utstedelse av tegningsretter som omhandlet i dette kapitlet, eller ved oppløsning, fusjon, fisjon eller omdanning. Det kan bestemmes at rettighetshaverne ved slike beslutninger skal ha samme rettigheter som en aksjeeier;fra hvilket tidspunkt de nye aksjene gir rett til utbytte;om tegningsretten av fordringshaveren skal kunne skilles fra fordringen og utnyttes uavhengig av denne.
+(2) Generalforsamlingen skal for hvert enkelt lån fastsette lånevilkårene. Beslutningen skal angi:
+
+1. det samlede lånebeløp. Det kan fastsettes en øvre og en nedre grense for beløpet;
+2. hvem som kan tegne lånet;
+3. fristen for tegning av lånet. Fristen for tegning på grunnlag av [§ 11-4](lov/1997-06-13-45/§11-4) må ikke være kortere enn to uker fra avgivelsen av underretningen etter tredje ledd;
+4. fordringens pålydende (nominelle beløp) og rente;
+5. kursen ved tegningen av lånet. Generalforsamlingen kan overlate til styret å fastsette tegningskursen innenfor en øvre og en nedre grense som fastsettes av generalforsamlingen;
+6. tid og sted for når lån skal være innbetalt til selskapet;
+7. de regler som ved overtegning skal gjelde for fordelingen av lån som ikke er tegnet på grunnlag av fortrinnsrett, hvis ikke fordelingen er overlatt til styret;
+8. vilkår for å kunne kreve utstedt aksjer, herunder hva som skal ytes som vederlag for de nye aksjene;
+9. fristen for å bruke retten til å kreve utstedt aksjer. Fristen må ikke være lengre enn fem år fra generalforsamlingens beslutning ble truffet;
+10. dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre;
+11. hvilken stilling rettighetshaverne skal ha ved selskapets beslutning om forhøyelse eller nedsetting av aksjekapitalen, ved ny beslutning om utstedelse av tegningsretter som omhandlet i dette kapitlet, eller ved oppløsning, fusjon, fisjon eller omdanning. Det kan bestemmes at rettighetshaverne ved slike beslutninger skal ha samme rettigheter som en aksjeeier;
+12. fra hvilket tidspunkt de nye aksjene gir rett til utbytte;
+13. om tegningsretten av fordringshaveren skal kunne skilles fra fordringen og utnyttes uavhengig av denne.
 
 (3) Aksjeeiere eller andre som etter beslutningen skal ha rett til å tegne lånene, skal gjøres kjent med beslutningen etter reglene i [§ 10-1](lov/1997-06-13-45/§10-1) tredje ledd.
 
@@ -1980,7 +2247,13 @@ Aksjeeierne har fortrinnsrett til tegning av lån som nevnt i [§ 11-1](lov/1997
 
 (1) Generalforsamlingen kan med flertall som for vedtektsendring gi styret fullmakt til å treffe beslutning om opptak av lån som nevnt i [§ 11-1](lov/1997-06-13-45/§11-1).
 
-(2) Generalforsamlingens beslutning skal angi:det samlede beløp for lån som kan tas opp;det beløp aksjekapitalen i alt skal kunne forhøyes med;hvor lang tid fullmakten skal gjelde for;om aksjeeiernes fortrinnsrett ved tegning av lånene etter [§ 11-4](lov/1997-06-13-45/§11-4), jf [§§ 10-4](lov/1997-06-13-45/§10-4) og [10-5](lov/1997-06-13-45/§10-5), skal kunne fravikes;dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre. Skal de nye aksjene utgjøre en egen klasse, skal også hovedtrekkene ved de rettighetene som skal gjelde for den nye aksjeklassen, angis.
+(2) Generalforsamlingens beslutning skal angi:
+
+1. det samlede beløp for lån som kan tas opp;
+2. det beløp aksjekapitalen i alt skal kunne forhøyes med;
+3. hvor lang tid fullmakten skal gjelde for;
+4. om aksjeeiernes fortrinnsrett ved tegning av lånene etter [§ 11-4](lov/1997-06-13-45/§11-4), jf [§§ 10-4](lov/1997-06-13-45/§10-4) og [10-5](lov/1997-06-13-45/§10-5), skal kunne fravikes;
+5. dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre. Skal de nye aksjene utgjøre en egen klasse, skal også hovedtrekkene ved de rettighetene som skal gjelde for den nye aksjeklassen, angis.
 
 (3) Styrefullmakten kan ikke gjelde et større beløp enn at det samlede pålydende av de aksjer som kan utstedes i henhold til låneavtale på bakgrunn av fullmakten, ligger innenfor halvdelen av aksjekapitalen på den tid da fullmakten ble registrert. Fullmakten kan ikke gis for mer enn to år om gangen.
 
@@ -2004,7 +2277,14 @@ Aksjeeierne har fortrinnsrett til tegning av lån som nevnt i [§ 11-1](lov/1997
 
 (1) I beslutning om kapitalforhøyelse ved nytegning av aksjer etter [§ 10-1](lov/1997-06-13-45/§10-1) kan generalforsamlingen med flertall som for vedtektsendring bestemme at de aksjer som tegnes i forbindelse med kapitalforhøyelsen, skal gi aksjetegneren rett til senere å kreve utstedt én eller flere nye aksjer mot innskudd. Ved bruk av retten til å kreve utstedt aksjer etter en slik beslutning kan aksjekapitalen forhøyes uten ytterligere beslutning av generalforsamlingen.
 
-(2) Generalforsamlingens beslutning skal i tillegg til det som følger av [§ 10-1](lov/1997-06-13-45/§10-1), angi:vilkår for å kunne kreve utstedt aksjer, herunder hva som skal ytes som vederlag for de nye aksjene;fristen for å bruke retten til å kreve utstedt aksjer. Fristen må ikke være lengre enn fem år fra generalforsamlingens beslutning ble truffet;dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre;hvilken stilling rettighetshaverne skal ha ved selskapets beslutning om forhøyelse eller nedsetting av aksjekapitalen, ved ny beslutning om utstedelse av tegningsretter som omhandlet i dette kapitlet, eller ved oppløsning, fusjon, fisjon eller omdanning. Det kan bestemmes at rettighetshaverne ved slike beslutninger skal ha samme rettigheter som en aksjeeier;fra hvilket tidspunkt de nye aksjene gir rett til utbytte;om tegningsretten av aksjeeieren skal kunne skilles fra aksjen og utnyttes uavhengig av denne.
+(2) Generalforsamlingens beslutning skal i tillegg til det som følger av [§ 10-1](lov/1997-06-13-45/§10-1), angi:
+
+1. vilkår for å kunne kreve utstedt aksjer, herunder hva som skal ytes som vederlag for de nye aksjene;
+2. fristen for å bruke retten til å kreve utstedt aksjer. Fristen må ikke være lengre enn fem år fra generalforsamlingens beslutning ble truffet;
+3. dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre;
+4. hvilken stilling rettighetshaverne skal ha ved selskapets beslutning om forhøyelse eller nedsetting av aksjekapitalen, ved ny beslutning om utstedelse av tegningsretter som omhandlet i dette kapitlet, eller ved oppløsning, fusjon, fisjon eller omdanning. Det kan bestemmes at rettighetshaverne ved slike beslutninger skal ha samme rettigheter som en aksjeeier;
+5. fra hvilket tidspunkt de nye aksjene gir rett til utbytte;
+6. om tegningsretten av aksjeeieren skal kunne skilles fra aksjen og utnyttes uavhengig av denne.
 
 > Endret ved lov [15 des 2006 nr. 88](lov/2006-12-15-88) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1432](forskrift/2006-12-15-1432)).
 
@@ -2022,7 +2302,18 @@ Aksjeeierne har fortrinnsrett til tegning av lån som nevnt i [§ 11-1](lov/1997
 
 (1) Generalforsamlingen kan med flertall som for vedtektsendring beslutte at det skal utstedes tegningsretter som gir rettighetshaveren rett til senere å kreve utstedt én eller flere nye aksjer i selskapet. Ved bruk av retten til å kreve utstedt aksjer etter en slik beslutning kan aksjekapitalen forhøyes uten ytterligere beslutning av generalforsamlingen.
 
-(2) Generalforsamlingens beslutning skal angi:antallet tegningsretter som skal utstedes. Det kan fastsettes en øvre og en nedre grense for antallet;hvem som skal tegne tegningsrettene;fristen for tegning av tegningsrettene. Fristen for tegning på grunnlag av fortrinnsrett må ikke være kortere enn to uker fra avgivelsen av underretningen etter tredje ledd;det vederlaget som skal ytes for tegningsrettene. Generalforsamlingen kan overlate til styret å fastsette vederlaget innenfor en øvre og en nedre grense som fastsettes av generalforsamlingen;de regler som ved overtegning skal gjelde for fordelingen av tegningsretter som ikke er tegnet på grunnlag av fortrinnsrett, hvis ikke fordelingen er overlatt til styret;vilkår for å kunne kreve utstedt aksjer, herunder hva som skal ytes som vederlag for de nye aksjene;fristen for å bruke retten til å kreve utstedt aksjer. Fristen må ikke være lengre enn fem år fra generalforsamlingens beslutning ble truffet;dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre;hvilken stilling rettighetshaverne skal ha ved selskapets beslutning om forhøyelse eller nedsetting av aksjekapitalen, ved ny beslutning om utstedelse av tegningsretter som omhandlet i dette kapitlet, eller ved oppløsning, fusjon, fisjon eller omdanning. Det kan bestemmes at rettighetshaverne ved slike beslutninger skal ha samme rettigheter som en aksjeeier;fra hvilket tidspunkt de nye aksjene gir rett til utbytte.
+(2) Generalforsamlingens beslutning skal angi:
+
+1. antallet tegningsretter som skal utstedes. Det kan fastsettes en øvre og en nedre grense for antallet;
+2. hvem som skal tegne tegningsrettene;
+3. fristen for tegning av tegningsrettene. Fristen for tegning på grunnlag av fortrinnsrett må ikke være kortere enn to uker fra avgivelsen av underretningen etter tredje ledd;
+4. det vederlaget som skal ytes for tegningsrettene. Generalforsamlingen kan overlate til styret å fastsette vederlaget innenfor en øvre og en nedre grense som fastsettes av generalforsamlingen;
+5. de regler som ved overtegning skal gjelde for fordelingen av tegningsretter som ikke er tegnet på grunnlag av fortrinnsrett, hvis ikke fordelingen er overlatt til styret;
+6. vilkår for å kunne kreve utstedt aksjer, herunder hva som skal ytes som vederlag for de nye aksjene;
+7. fristen for å bruke retten til å kreve utstedt aksjer. Fristen må ikke være lengre enn fem år fra generalforsamlingens beslutning ble truffet;
+8. dersom det er eller skal være aksjer av ulike slag i selskapet, hvilken aksjeklasse de nye aksjene skal tilhøre;
+9. hvilken stilling rettighetshaverne skal ha ved selskapets beslutning om forhøyelse eller nedsetting av aksjekapitalen, ved ny beslutning om utstedelse av tegningsretter som omhandlet i dette kapitlet, eller ved oppløsning, fusjon, fisjon eller omdanning. Det kan bestemmes at rettighetshaverne ved slike beslutninger skal ha samme rettigheter som en aksjeeier;
+10. fra hvilket tidspunkt de nye aksjene gir rett til utbytte.
 
 (3) Aksjeeiere eller andre som etter beslutningen skal ha fortrinnsrett til tegning, skal gjøres kjent med beslutningen etter reglene i [§ 10-1](lov/1997-06-13-45/§10-1) tredje ledd.
 
@@ -2050,7 +2341,11 @@ Opptak av lån med rente som helt eller delvis avhenger av det utbyttet som utde
 
 ### § 12-1. Beslutning av generalforsamlingen
 
-(1) Beslutning om å nedsette aksjekapitalen treffes av generalforsamlingen. Det beløpet nedsettingen gjelder (nedsettingsbeløpet) kan bare brukes til:dekning av tap som ikke kan dekkes på annen måte;utdeling til aksjeeierne eller sletting av selskapets egne aksjer etter [kapittel 9](lov/1997-06-13-45/kap9);avsetning til fond som skal brukes etter generalforsamlingens beslutning.
+(1) Beslutning om å nedsette aksjekapitalen treffes av generalforsamlingen. Det beløpet nedsettingen gjelder (nedsettingsbeløpet) kan bare brukes til:
+
+1. dekning av tap som ikke kan dekkes på annen måte;
+2. utdeling til aksjeeierne eller sletting av selskapets egne aksjer etter [kapittel 9](lov/1997-06-13-45/kap9);
+3. avsetning til fond som skal brukes etter generalforsamlingens beslutning.
 
 (2) Beslutningen skal angi nedsettingsbeløpet og hva det skal brukes til. Det skal også angis om kapitalnedsettingen skal gjennomføres ved innløsning av aksjer eller ved nedsetting av aksjenes pålydende. Beslutning som nevnt i første ledd nr 2 eller 3 kan bare treffes etter forslag fra styret eller med styrets samtykke.
 
@@ -2092,7 +2387,13 @@ Opptak av lån med rente som helt eller delvis avhenger av det utbyttet som utde
 
 ### § 12-6. Ikrafttredelse etter kreditorvarsel
 
-Skal nedsettingsbeløpet helt eller delvis brukes som nevnt i [§ 12-1](lov/1997-06-13-45/§12-1) første ledd nr 2 eller 3, gjelder følgende regler:Foretaksregisteret skal, så snart beslutningen om kapitalnedsetting er registrert, kunngjøre beslutningen i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon og varsle selskapets kreditorer om at innsigelse mot at nedsettingen settes i kraft, må meldes til selskapet innen seks uker fra kunngjøringen. Det skal fremgå av kunngjøringen om hvorvidt beslutningen om kapitalnedsetting er basert på sist godkjente årsregnskap eller en mellombalanse. Kunngjøringen skal også angi datoen for fastsettelsen av årsregnskapet eller mellombalansen.Gjør en kreditor med uomtvistet og forfalt fordring innsigelse før fristen etter nr 1 er utløpt, kan beslutningen om kapitalnedsetting ikke settes i kraft før fordringen er betalt. En kreditor med omtvistet eller ikke forfalt fordring kan kreve at betryggende sikkerhet blir stilt, dersom fordringen ikke fra før er betryggende sikret. Tingretten avgjør tvist om det foreligger en fordring og om sikkerheten er betryggende. Retten kan forkaste krav om sikkerhet etter annet punktum når det er klart at det ikke foreligger noen fordring eller at kapitalnedsettingen ikke vil forringe kreditors mulighet til å få dekket fordringen. Krav om rettens avgjørelse må være fremsatt innen to uker etter at kreditor fremsatte kravet om betaling eller sikkerhetsstillelse.Når fristen etter nr 1 er utløpt og forholdet til de kreditorer som i tilfelle har fremsatt innsigelse er avklart etter nr 2, trer beslutningen om kapitalnedsettingen i kraft når melding om dette blir registrert i Foretaksregisteret. En bekreftelse underskrevet av styret og revisor om at forholdet til selskapets kreditorer ikke er til hinder for at beslutningen trer i kraft, skal følge med meldingen.Utdeling til aksjeeierne kan først finne sted når nedsettingen av aksjekapitalen er trådt i kraft. Utdelinger som skjer i forbindelse med kapitalnedsettingen, skal registreres på aksjeeierens konto i verdipapirsentralen.Kapitalnedsettingen faller bort dersom melding etter nr 3 ikke er sendt senest ett år etter at nedsettingen ble besluttet.
+Skal nedsettingsbeløpet helt eller delvis brukes som nevnt i [§ 12-1](lov/1997-06-13-45/§12-1) første ledd nr 2 eller 3, gjelder følgende regler:
+
+1. Foretaksregisteret skal, så snart beslutningen om kapitalnedsetting er registrert, kunngjøre beslutningen i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon og varsle selskapets kreditorer om at innsigelse mot at nedsettingen settes i kraft, må meldes til selskapet innen seks uker fra kunngjøringen. Det skal fremgå av kunngjøringen om hvorvidt beslutningen om kapitalnedsetting er basert på sist godkjente årsregnskap eller en mellombalanse. Kunngjøringen skal også angi datoen for fastsettelsen av årsregnskapet eller mellombalansen.
+2. Gjør en kreditor med uomtvistet og forfalt fordring innsigelse før fristen etter nr 1 er utløpt, kan beslutningen om kapitalnedsetting ikke settes i kraft før fordringen er betalt. En kreditor med omtvistet eller ikke forfalt fordring kan kreve at betryggende sikkerhet blir stilt, dersom fordringen ikke fra før er betryggende sikret. Tingretten avgjør tvist om det foreligger en fordring og om sikkerheten er betryggende. Retten kan forkaste krav om sikkerhet etter annet punktum når det er klart at det ikke foreligger noen fordring eller at kapitalnedsettingen ikke vil forringe kreditors mulighet til å få dekket fordringen. Krav om rettens avgjørelse må være fremsatt innen to uker etter at kreditor fremsatte kravet om betaling eller sikkerhetsstillelse.
+3. Når fristen etter nr 1 er utløpt og forholdet til de kreditorer som i tilfelle har fremsatt innsigelse er avklart etter nr 2, trer beslutningen om kapitalnedsettingen i kraft når melding om dette blir registrert i Foretaksregisteret. En bekreftelse underskrevet av styret og revisor om at forholdet til selskapets kreditorer ikke er til hinder for at beslutningen trer i kraft, skal følge med meldingen.
+4. Utdeling til aksjeeierne kan først finne sted når nedsettingen av aksjekapitalen er trådt i kraft. Utdelinger som skjer i forbindelse med kapitalnedsettingen, skal registreres på aksjeeierens konto i verdipapirsentralen.
+5. Kapitalnedsettingen faller bort dersom melding etter nr 3 ikke er sendt senest ett år etter at nedsettingen ble besluttet.
 
 > Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [vedtak 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [5 sep 2003 nr. 92](lov/2003-09-05-92) (ikr. 1 jan 2004 iflg. [res. 5 sep 2003 nr. 1119](forskrift/2003-09-05-1119)), [14 juni 2013 nr. 41](lov/2013-06-14-41) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 638](forskrift/2013-06-14-638)), [14 des 2018 nr. 95](lov/2018-12-14-95) (ikr. 1 jan 2019 iflg. [res. 14 des 2018 nr. 1922](forskrift/2018-12-14-1922)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [14 des 2018 nr. 95](lov/2018-12-14-95) (ikr. 1 jan 2021 iflg. [res. 30 okt 2020 nr. 2185](forskrift/2020-10-30-2185)).
 
@@ -2100,7 +2401,11 @@ Skal nedsettingsbeløpet helt eller delvis brukes som nevnt i [§ 12-1](lov/1997
 
 (1) I selskapets vedtekter kan det gis bestemmelser om innløsning av aksjer ved nedsetting av aksjekapitalen. Både selskapet og aksjeeieren kan gis rett til å kreve innløsning.
 
-(2) Innløsning etter krav fra selskapet i medhold av bestemmelse i vedtektene kan gjennomføres uten kreditorvarsel etter [§ 12-6](lov/1997-06-13-45/§12-6) dersominnløsningen gjelder aksjer som er utstedt etter at eller samtidig med at innløsningsregelen ble registrert i Foretaksregisteret.aksjene innløses uten utdeling, eller utdelingen ligger innenfor rammen av de midler selskapet kan benytte til utdeling av utbytte etter [§ 8-1](lov/1997-06-13-45/§8-1), oget beløp tilsvarende de innløste aksjenes pålydende avsettes til et bundet fond.
+(2) Innløsning etter krav fra selskapet i medhold av bestemmelse i vedtektene kan gjennomføres uten kreditorvarsel etter [§ 12-6](lov/1997-06-13-45/§12-6) dersom
+
+1. innløsningen gjelder aksjer som er utstedt etter at eller samtidig med at innløsningsregelen ble registrert i Foretaksregisteret.
+2. aksjene innløses uten utdeling, eller utdelingen ligger innenfor rammen av de midler selskapet kan benytte til utdeling av utbytte etter [§ 8-1](lov/1997-06-13-45/§8-1), og
+3. et beløp tilsvarende de innløste aksjenes pålydende avsettes til et bundet fond.
 
 > Endret ved lover [2 juli 1999 nr. 59](lov/1999-07-02-59) (ikr. 1 aug 1999 iflg. [res. 2 juli 1999 nr. 715](forskrift/1999-07-02-715)), [14 juni 2013 nr. 40](lov/2013-06-14-40) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 635](forskrift/2013-06-14-635)).
 
@@ -2116,7 +2421,10 @@ Bestemmelsene i kapitlet her gjelder fusjon mellom allmennaksjeselskaper, samt f
 
 ### § 13-2. Fusjonsreglenes virkeområde
 
-(1) Sammenslåing av selskaper er undergitt reglene om fusjon i kapitlet her når et selskap (det overtakende selskapet) skal overta et annet selskaps (det overdragende selskapets) eiendeler, rettigheter og forpliktelser som helhet mot at aksjeeierne i dette selskapet får som vederlagaksjer i det overtakende selskapet, ellerslike aksjer med et tillegg som ikke må overstige 20 prosent av det samlede vederlaget.
+(1) Sammenslåing av selskaper er undergitt reglene om fusjon i kapitlet her når et selskap (det overtakende selskapet) skal overta et annet selskaps (det overdragende selskapets) eiendeler, rettigheter og forpliktelser som helhet mot at aksjeeierne i dette selskapet får som vederlag
+
+1. aksjer i det overtakende selskapet, eller
+2. slike aksjer med et tillegg som ikke må overstige 20 prosent av det samlede vederlaget.
 
 (2) Tilhører det overtakende selskapet et konsern, og har ett eller flere av konsernselskapene samlet mer enn 90 prosent av både aksjene og stemmene på generalforsamlingen i det overtakende selskapet, kan vederlaget i aksjer i stedet være aksjer i morselskapet, eller aksjer i et annet datterselskap hvor morselskapet alene eller gjennom datterselskap har mer enn 90 prosent av både aksjene og stemmene på generalforsamlingen. Kapitalforhøyelsen i morselskapet eller datterselskapet kan gjennomføres ved at en fordring som utstedes av det overtakende selskapet, og som tilsvarer den egenkapitalen det overtakende selskapet tilføres ved fusjonen, nyttes som aksjeinnskudd. Fordringen står tilbake for det overtakende selskapets øvrige fordringshavere.
 
@@ -2154,7 +2462,14 @@ De aksjene som det overtakende selskapet skal utstede som vederlag til aksjeeier
 
 ### § 13-6. Fusjonsplanens innhold
 
-(1) En fusjonsplan skal minst angi:selskapenes foretaksnavn, forretningskommuner, adresser og organisasjonsnummer;fra hvilket tidspunkt transaksjoner i et overdragende selskap regnskapsmessig skal anses å være foretatt for det overtakende selskapets regning;det vederlaget som skal ytes til aksjeeierne i det eller de overdragende selskapene;vilkår for utøvelse av rettigheter som aksjeeier i det overtakende selskapet, og for registrering i aksjeeierregisteret;hvilke rettigheter aksjeeiere med særlige rettigheter og innehavere av tegningsrett som nevnt i [§§ 11-1](lov/1997-06-13-45/§11-1), [11-10](lov/1997-06-13-45/§11-10) og [11-12 i](lov/1997-06-13-45/§11-12) det eller de overdragende selskapene skal ha i det overtakende selskapet;enhver særlig rett eller fordel som skal tilfalle medlemmer av styret eller daglig leder ved fusjonen.
+(1) En fusjonsplan skal minst angi:
+
+1. selskapenes foretaksnavn, forretningskommuner, adresser og organisasjonsnummer;
+2. fra hvilket tidspunkt transaksjoner i et overdragende selskap regnskapsmessig skal anses å være foretatt for det overtakende selskapets regning;
+3. det vederlaget som skal ytes til aksjeeierne i det eller de overdragende selskapene;
+4. vilkår for utøvelse av rettigheter som aksjeeier i det overtakende selskapet, og for registrering i aksjeeierregisteret;
+5. hvilke rettigheter aksjeeiere med særlige rettigheter og innehavere av tegningsrett som nevnt i [§§ 11-1](lov/1997-06-13-45/§11-1), [11-10](lov/1997-06-13-45/§11-10) og [11-12 i](lov/1997-06-13-45/§11-12) det eller de overdragende selskapene skal ha i det overtakende selskapet;
+6. enhver særlig rett eller fordel som skal tilfalle medlemmer av styret eller daglig leder ved fusjonen.
 
 (2) I fusjonsplanen kan det fastsettes at det overtakende selskapet skal overta forvaltningen av det eller de overdragende selskapene så snart planen er godkjent av alle selskapene som deltar i fusjonen.
 
@@ -2168,7 +2483,11 @@ De aksjene som det overtakende selskapet skal utstede som vederlag til aksjeeier
 
 ### § 13-8. Vedlegg til fusjonsplanen
 
-Som vedlegg til fusjonsplanen skal følge:vedtektene for de selskapene som deltar i fusjonen;de deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de siste tre regnskapsår og eventuell halvårsrapport etter [verdipapirhandelloven § 5-6](lov/2007-06-29-75/§5-6) som har balansedag senere enn balansedagen i siste årsregnskap;mellombalanser for de deltakende selskaper, dersom planen undertegnes mer enn seks måneder etter balansedagen for det senest fastsatte årsregnskapet, og det ikke følger en halvårsrapport som nevnt i nr. 2 som vedlegg til fusjonsplanen. Kravet i første punktum gjelder ikke dersom samtlige aksjeeiere i selskapet som deltar i fusjonen, samtykker til dette. Mellombalansen skal være utarbeidet og revidert etter reglene for årsregnskap, og balansedagene må ikke ligge lenger tilbake i tid enn tre måneder før dagen for undertegningen av planen. Mellombalansene skal sendes til Regnskapsregisteret. Kongen kan ved forskrift fastsette unntak fra og gi nærmere regler om kravet til mellombalanser, og kan fastsette andre krav til revisjon av mellombalanser enn det som følger av tredje punktum.
+Som vedlegg til fusjonsplanen skal følge:
+
+1. vedtektene for de selskapene som deltar i fusjonen;
+2. de deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de siste tre regnskapsår og eventuell halvårsrapport etter [verdipapirhandelloven § 5-6](lov/2007-06-29-75/§5-6) som har balansedag senere enn balansedagen i siste årsregnskap;
+3. mellombalanser for de deltakende selskaper, dersom planen undertegnes mer enn seks måneder etter balansedagen for det senest fastsatte årsregnskapet, og det ikke følger en halvårsrapport som nevnt i nr. 2 som vedlegg til fusjonsplanen. Kravet i første punktum gjelder ikke dersom samtlige aksjeeiere i selskapet som deltar i fusjonen, samtykker til dette. Mellombalansen skal være utarbeidet og revidert etter reglene for årsregnskap, og balansedagene må ikke ligge lenger tilbake i tid enn tre måneder før dagen for undertegningen av planen. Mellombalansene skal sendes til Regnskapsregisteret. Kongen kan ved forskrift fastsette unntak fra og gi nærmere regler om kravet til mellombalanser, og kan fastsette andre krav til revisjon av mellombalanser enn det som følger av tredje punktum.
 
 > Endret ved lover [25 jan 2002 nr. 2](lov/2002-01-25-2) (ikr. 15 feb 2002 iflg. [res. 25 jan 2002 nr. 65](forskrift/2002-01-25-65)), [25 apr 2003 nr. 25](lov/2003-04-25-25) (ikr. 25 apr 2003 iflg. [res. 25 apr 2003 nr. 487](forskrift/2003-04-25-487)), [24 juni 2011 nr. 31](lov/2011-06-24-31) (ikr. 30 juni 2011 iflg. [res. 24 juni 2011 nr. 646](forskrift/2011-06-24-646)), [15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere), [14 des 2018 nr. 95](lov/2018-12-14-95) (ikr. 1 jan 2021 iflg. [res. 30 okt 2020 nr. 2185](forskrift/2020-10-30-2185)).
 
@@ -2176,13 +2495,22 @@ Som vedlegg til fusjonsplanen skal følge:vedtektene for de selskapene som delta
 
 (1) Når fusjonsplanen er ferdig, skal styret i hvert selskap utarbeide en utførlig skriftlig rapport om fusjonen og hva den vil bety for selskapet.
 
-(2) Rapporten skal i det minste:forklare og begrunne fusjonen, rettslig såvel som økonomisk;forklare og begrunne, rettslig såvel som økonomisk, vederlaget til aksjeeierne i overdragende selskap(er);omtale særlige vanskeligheter ved fastsettelsen av vederlaget;redegjøre for den betydning fusjonen kan få for de ansatte i selskapet.
+(2) Rapporten skal i det minste:
+
+1. forklare og begrunne fusjonen, rettslig såvel som økonomisk;
+2. forklare og begrunne, rettslig såvel som økonomisk, vederlaget til aksjeeierne i overdragende selskap(er);
+3. omtale særlige vanskeligheter ved fastsettelsen av vederlaget;
+4. redegjøre for den betydning fusjonen kan få for de ansatte i selskapet.
 
 ### § 13-10. Sakkyndig redegjørelse for fusjonsplanen
 
 (1) Styret i hvert selskap skal sørge for at det utarbeides en sakkyndig redegjørelse for fusjonsplanen. Bestemmelsene i [§ 2-6](lov/1997-06-13-45/§2-6) annet ledd gjelder tilsvarende.
 
-(2) Redegjørelsen skal minst angi:hvilke fremgangsmåter som er brukt ved fastsettelsen av vederlaget til aksjeeierne i det overdragende selskapet og om fremgangsmåtene har vært hensiktsmessige. Er flere fremgangsmåter brukt, skal aksjeverdien ved hver beregningsmåte og hvilken betydning hver av dem har hatt for vederlaget opplyses;en omtale av særlige vanskeligheter ved fastsettelsen av vederlaget;om vederlaget til aksjeeierne er rimelig og saklig begrunnet.
+(2) Redegjørelsen skal minst angi:
+
+1. hvilke fremgangsmåter som er brukt ved fastsettelsen av vederlaget til aksjeeierne i det overdragende selskapet og om fremgangsmåtene har vært hensiktsmessige. Er flere fremgangsmåter brukt, skal aksjeverdien ved hver beregningsmåte og hvilken betydning hver av dem har hatt for vederlaget opplyses;
+2. en omtale av særlige vanskeligheter ved fastsettelsen av vederlaget;
+3. om vederlaget til aksjeeierne er rimelig og saklig begrunnet.
 
 (3) Redegjørelsen for det overtakende selskapet skal også fylle kravene som følger av [§ 2-6](lov/1997-06-13-45/§2-6) første ledd eller [§ 10-2](lov/1997-06-13-45/§10-2), likevel slik at tidspunktet for verdsettelsen tidligst kan være åtte uker før generalforsamlingens beslutning.
 
@@ -2250,7 +2578,14 @@ Foretaksregisteret skal kunngjøre beslutningene om fusjon i Brønnøysundregist
 
 ### § 13-17. Ikrafttredelse av fusjonen
 
-(1) Når fristen for innsigelse etter [§ 13-15](lov/1997-06-13-45/§13-15) er utløpt for alle selskapene som deltar i fusjonen, og forholdet til de kreditorer som i tilfelle har fremsatt innsigelse etter [§ 13-16](lov/1997-06-13-45/§13-16), er avklart, skal det overtakende selskapet gi melding til Foretaksregisteret for alle selskapene som deltar, om at fusjonen skal tre i kraft. Når fusjonen er registrert, inntrer følgende virkninger av fusjonen:det overdragende selskapet er oppløst;det overtakende selskapet er stiftet eller aksjekapitalen i selskapet er forhøyet;det overdragende selskapets eiendeler, rettigheter og forpliktelser er overført til det overtakende selskapet;aksjene i det overdragende selskapet er byttet om med aksjer i det overtakende selskapet. Aksjer i det overdragende selskapet som eies av det overdragende selskapet selv eller det overtakende selskapet, eller som eies av noen som opptrer i eget navn, men for det overdragende eller det overtakende selskapets regning, kan ikke byttes om med aksjer i det overtakende selskapet;krav på vederlag i annet enn aksjer er forfalt, med mindre annet er fastsatt;andre virkninger som er bestemt i fusjonsplanen.
+(1) Når fristen for innsigelse etter [§ 13-15](lov/1997-06-13-45/§13-15) er utløpt for alle selskapene som deltar i fusjonen, og forholdet til de kreditorer som i tilfelle har fremsatt innsigelse etter [§ 13-16](lov/1997-06-13-45/§13-16), er avklart, skal det overtakende selskapet gi melding til Foretaksregisteret for alle selskapene som deltar, om at fusjonen skal tre i kraft. Når fusjonen er registrert, inntrer følgende virkninger av fusjonen:
+
+1. det overdragende selskapet er oppløst;
+2. det overtakende selskapet er stiftet eller aksjekapitalen i selskapet er forhøyet;
+3. det overdragende selskapets eiendeler, rettigheter og forpliktelser er overført til det overtakende selskapet;
+4. aksjene i det overdragende selskapet er byttet om med aksjer i det overtakende selskapet. Aksjer i det overdragende selskapet som eies av det overdragende selskapet selv eller det overtakende selskapet, eller som eies av noen som opptrer i eget navn, men for det overdragende eller det overtakende selskapets regning, kan ikke byttes om med aksjer i det overtakende selskapet;
+5. krav på vederlag i annet enn aksjer er forfalt, med mindre annet er fastsatt;
+6. andre virkninger som er bestemt i fusjonsplanen.
 
 (2) Selv om forholdet til kreditorer som har fremsatt innsigelse etter [§ 13-16](lov/1997-06-13-45/§13-16), ikke er avklart, kan tingretten etter krav fra det selskapet fordringene gjelder, beslutte at fusjonen kan gjennomføres og meldes til Foretaksregisteret.
 
@@ -2306,7 +2641,20 @@ Når generalforsamlingens beslutning kjennes ugyldig, hefter selskapet solidaris
 
 (1) Eier et allmennaksjeselskap samtlige aksjer i et annet allmennaksjeselskap eller aksjeselskap, kan selskapenes styrer vedta en fusjonsplan som går ut på at datterselskapets eiendeler, rettigheter og forpliktelser som helhet skal overføres til morselskapet uten vederlag. Det samme gjelder dersom et aksjeselskap eier samtlige aksjer i et allmennaksjeselskap.
 
-(2) For gjennomføringen av fusjonen gjelder følgende regler:Styrene skal utarbeide en felles fusjonsplan etter reglene i [§ 13-6](lov/1997-06-13-45/§13-6). [§ 13-6](lov/1997-06-13-45/§13-6) første ledd nr 3 og 4 gjelder ikke.[§ 13-11](lov/1997-06-13-45/§13-11) gjelder tilsvarende.Senest en måned før og frem til styrets beslutning i morselskapet skal følgende dokumenter gjøres tilgjengelige for aksjeeierne på selskapets forretningskontor eller på selskapets internettsider:fusjonsplanen, jf. nr. 1;de deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de tre siste regnskapsår og eventuell halvårsrapport etter [verdipapirhandelloven § 5-6](lov/2007-06-29-75/§5-6) som har balansedag senere enn balansedagen i siste årsregnskap;mellombalanser for de deltakende selskapene. [§ 13-8](lov/1997-06-13-45/§13-8) nr. 3 gjelder tilsvarende.Aksjeeierne i morselskapet skal innen en måned før styrets beslutning underrettes om at dokumentene er tilgjengelige ved skriftlig henvendelse til hver enkelt aksjeeier. [§ 13-12](lov/1997-06-13-45/§13-12) første ledd annet til fjerde punktum gjelder tilsvarende.Senest en måned før styrets beslutning i morselskapet skal allmennaksjeselskaper som deltar i fusjonen, melde fusjonsplanen til Foretaksregisteret. [§ 13-13](lov/1997-06-13-45/§13-13) gjelder tilsvarende.Senest en måned etter at fusjonsplanen er vedtatt av styrene i alle de selskapene som deltar i fusjonen, skal beslutningene meldes til Foretaksregisteret. [§§ 13-14](lov/1997-06-13-45/§13-14) til [13-16](lov/1997-06-13-45/§13-16) gjelder tilsvarende.[§§ 13-17](lov/1997-06-13-45/§13-17) til [13-19](lov/1997-06-13-45/§13-19) gjelder tilsvarende.
+(2) For gjennomføringen av fusjonen gjelder følgende regler:
+
+1. Styrene skal utarbeide en felles fusjonsplan etter reglene i [§ 13-6](lov/1997-06-13-45/§13-6). [§ 13-6](lov/1997-06-13-45/§13-6) første ledd nr 3 og 4 gjelder ikke.
+2. [§ 13-11](lov/1997-06-13-45/§13-11) gjelder tilsvarende.
+3. Senest en måned før og frem til styrets beslutning i morselskapet skal følgende dokumenter gjøres tilgjengelige for aksjeeierne på selskapets forretningskontor eller på selskapets internettsider:
+
+   1. fusjonsplanen, jf. nr. 1;
+   2. de deltakende selskapenes årsregnskap, årsberetning og revisjonsberetning for de tre siste regnskapsår og eventuell halvårsrapport etter [verdipapirhandelloven § 5-6](lov/2007-06-29-75/§5-6) som har balansedag senere enn balansedagen i siste årsregnskap;
+   3. mellombalanser for de deltakende selskapene. [§ 13-8](lov/1997-06-13-45/§13-8) nr. 3 gjelder tilsvarende.
+
+   Aksjeeierne i morselskapet skal innen en måned før styrets beslutning underrettes om at dokumentene er tilgjengelige ved skriftlig henvendelse til hver enkelt aksjeeier. [§ 13-12](lov/1997-06-13-45/§13-12) første ledd annet til fjerde punktum gjelder tilsvarende.
+4. Senest en måned før styrets beslutning i morselskapet skal allmennaksjeselskaper som deltar i fusjonen, melde fusjonsplanen til Foretaksregisteret. [§ 13-13](lov/1997-06-13-45/§13-13) gjelder tilsvarende.
+5. Senest en måned etter at fusjonsplanen er vedtatt av styrene i alle de selskapene som deltar i fusjonen, skal beslutningene meldes til Foretaksregisteret. [§§ 13-14](lov/1997-06-13-45/§13-14) til [13-16](lov/1997-06-13-45/§13-16) gjelder tilsvarende.
+6. [§§ 13-17](lov/1997-06-13-45/§13-17) til [13-19](lov/1997-06-13-45/§13-19) gjelder tilsvarende.
 
 > Endret ved lover [25 apr 2003 nr. 25](lov/2003-04-25-25) (ikr. 25 apr 2003 iflg. [res. 25 apr 2003 nr. 487](forskrift/2003-04-25-487)), [24 juni 2011 nr. 31](lov/2011-06-24-31) (ikr. 30 juni 2011 iflg. [res. 24 juni 2011 nr. 646](forskrift/2011-06-24-646)).
 
@@ -2318,7 +2666,17 @@ Når generalforsamlingens beslutning kjennes ugyldig, hefter selskapet solidaris
 
 (1) Bestemmelsene i [§§ 13-25](lov/1997-06-13-45/§13-25) til [13-36](lov/1997-06-13-45/§13-36) gjelder fusjon mellom ett eller flere allmennaksjeselskaper og ett eller flere utenlandske selskaper med begrenset ansvar som har sitt registrerte forretningskontor eller sitt hovedkontor i en annen EØS-stat, og som er underlagt lovgivningen i en annen EØS-stat enn Norge. Et allmennaksjeselskap kan bare fusjoneres med et utenlandsk selskap etter første punktum som har en selskapsform som etter sin stats selskapslovgivning svarer til aksjeselskap eller allmennaksjeselskap. Også aksjeselskap kan delta i en fusjon som nevnt i første og annet punktum, og reglene i [§§ 13-25](lov/1997-06-13-45/§13-25) til [13-36](lov/1997-06-13-45/§13-36) gjelder i så fall også for aksjeselskapet.
 
-(2) Ved fusjon etter første ledd gjelder følgende regler tilsvarende for det norske selskapet så langt de passer og med de tilpasninger som følger av [§§ 13-25](lov/1997-06-13-45/§13-25) til [13-36](lov/1997-06-13-45/§13-36):[§ 13-2](lov/1997-06-13-45/§13-2) første ledd. Begrensningen i [§ 13-2](lov/1997-06-13-45/§13-2) første ledd nr. 2 gjelder likevel ikke dersom det etter lovgivningen som et av de deltakende selskapene er underlagt, er adgang til å gjennomføre fusjon med et tillegg til vederlaget i aksjer som overstiger 20 prosent av det samlede vederlaget,[§ 13-3](lov/1997-06-13-45/§13-3) annet til fjerde ledd,[§§ 13-4](lov/1997-06-13-45/§13-4) og [13-5](lov/1997-06-13-45/§13-5),[§ 13-8](lov/1997-06-13-45/§13-8) nr. 1 og 2 og [§ 13-9](lov/1997-06-13-45/§13-9),[§§ 13-11](lov/1997-06-13-45/§13-11) til [13-16](lov/1997-06-13-45/§13-16),[§ 13-17](lov/1997-06-13-45/§13-17) annet ledd,[§ 13-18](lov/1997-06-13-45/§13-18) første, tredje og fjerde ledd,[§ 13-19](lov/1997-06-13-45/§13-19),[§§ 13-21](lov/1997-06-13-45/§13-21) til [13-23](lov/1997-06-13-45/§13-23).
+(2) Ved fusjon etter første ledd gjelder følgende regler tilsvarende for det norske selskapet så langt de passer og med de tilpasninger som følger av [§§ 13-25](lov/1997-06-13-45/§13-25) til [13-36](lov/1997-06-13-45/§13-36):
+
+1. [§ 13-2](lov/1997-06-13-45/§13-2) første ledd. Begrensningen i [§ 13-2](lov/1997-06-13-45/§13-2) første ledd nr. 2 gjelder likevel ikke dersom det etter lovgivningen som et av de deltakende selskapene er underlagt, er adgang til å gjennomføre fusjon med et tillegg til vederlaget i aksjer som overstiger 20 prosent av det samlede vederlaget,
+2. [§ 13-3](lov/1997-06-13-45/§13-3) annet til fjerde ledd,
+3. [§§ 13-4](lov/1997-06-13-45/§13-4) og [13-5](lov/1997-06-13-45/§13-5),
+4. [§ 13-8](lov/1997-06-13-45/§13-8) nr. 1 og 2 og [§ 13-9](lov/1997-06-13-45/§13-9),
+5. [§§ 13-11](lov/1997-06-13-45/§13-11) til [13-16](lov/1997-06-13-45/§13-16),
+6. [§ 13-17](lov/1997-06-13-45/§13-17) annet ledd,
+7. [§ 13-18](lov/1997-06-13-45/§13-18) første, tredje og fjerde ledd,
+8. [§ 13-19](lov/1997-06-13-45/§13-19),
+9. [§§ 13-21](lov/1997-06-13-45/§13-21) til [13-23](lov/1997-06-13-45/§13-23).
 
 > Tilføyd ved lov [21 des 2007 nr. 129](lov/2007-12-21-129), endret ved lov [24 juni 2011 nr. 31](lov/2011-06-24-31) (ikr. 30 juni 2011 iflg. [res. 24 juni 2011 nr. 646](forskrift/2011-06-24-646)).
 
@@ -2326,7 +2684,20 @@ Når generalforsamlingens beslutning kjennes ugyldig, hefter selskapet solidaris
 
 (1) Styret i allmennaksjeselskapet skal sammen med de kompetente organer i de utenlandske selskapene som deltar i fusjonen, utarbeide en felles fusjonsplan. Planen skal signeres av styret.
 
-(2) Fusjonsplanen skal minst angi:selskapenes selskapsform, foretaksnavn og registrerte forretningskontor, herunder forslag om dette for det overtakende selskapet etter fusjonen,bytteforholdet mellom aksjer eller selskapsandeler og eventuelt vederlag i tillegg til aksjer eller selskapsandeler som skal ytes til aksjeeierne i det overdragende selskapet,regler om tildeling av aksjer eller selskapsandeler i det overtakende selskapet,sannsynlige virkninger av fusjonen for sysselsettingen i selskapene,fra hvilket tidspunkt aksjene eller selskapsandelene gir rett til utbytte i det overtakende selskapet, og alle særlige vilkår som gjelder for å utøve denne retten,fra hvilket tidspunkt transaksjoner i et overdragende selskap regnskapsmessig skal anses å være foretatt for det overtakende selskapets regning,hvilke rettigheter aksjeeiere med særlige rettigheter og innehavere av tegningsrett som nevnt i [§§ 11-1](lov/1997-06-13-45/§11-1), [11-10](lov/1997-06-13-45/§11-10) og [11-12 i](lov/1997-06-13-45/§11-12) det eller de overdragende selskapene skal ha i det overtakende selskapet eller hvilke tiltak som foreslås til fordel for slike rettighetshavere,enhver særlig rett eller fordel som skal tilfalle de uavhengige sakkyndige, medlemmer av selskapets kontroll- eller tilsynsorganer, medlemmer av styret, daglig leder eller tilsvarende beslutningstakere,vedtekter for det overtakende selskapet etter fusjonen,fremgangsmåten for fastsettelse av nærmere regler for arbeidstakernes innflytelse i det overtakende selskapet, der dette er relevant,opplysninger om vurderingen av de eiendeler og forpliktelser som overføres til det overtakende selskapet,datoen for de deltakende selskapenes årsregnskap som har dannet grunnlag for fastsettelsen av vilkårene for fusjonen.
+(2) Fusjonsplanen skal minst angi:
+
+1. selskapenes selskapsform, foretaksnavn og registrerte forretningskontor, herunder forslag om dette for det overtakende selskapet etter fusjonen,
+2. bytteforholdet mellom aksjer eller selskapsandeler og eventuelt vederlag i tillegg til aksjer eller selskapsandeler som skal ytes til aksjeeierne i det overdragende selskapet,
+3. regler om tildeling av aksjer eller selskapsandeler i det overtakende selskapet,
+4. sannsynlige virkninger av fusjonen for sysselsettingen i selskapene,
+5. fra hvilket tidspunkt aksjene eller selskapsandelene gir rett til utbytte i det overtakende selskapet, og alle særlige vilkår som gjelder for å utøve denne retten,
+6. fra hvilket tidspunkt transaksjoner i et overdragende selskap regnskapsmessig skal anses å være foretatt for det overtakende selskapets regning,
+7. hvilke rettigheter aksjeeiere med særlige rettigheter og innehavere av tegningsrett som nevnt i [§§ 11-1](lov/1997-06-13-45/§11-1), [11-10](lov/1997-06-13-45/§11-10) og [11-12 i](lov/1997-06-13-45/§11-12) det eller de overdragende selskapene skal ha i det overtakende selskapet eller hvilke tiltak som foreslås til fordel for slike rettighetshavere,
+8. enhver særlig rett eller fordel som skal tilfalle de uavhengige sakkyndige, medlemmer av selskapets kontroll- eller tilsynsorganer, medlemmer av styret, daglig leder eller tilsvarende beslutningstakere,
+9. vedtekter for det overtakende selskapet etter fusjonen,
+10. fremgangsmåten for fastsettelse av nærmere regler for arbeidstakernes innflytelse i det overtakende selskapet, der dette er relevant,
+11. opplysninger om vurderingen av de eiendeler og forpliktelser som overføres til det overtakende selskapet,
+12. datoen for de deltakende selskapenes årsregnskap som har dannet grunnlag for fastsettelsen av vilkårene for fusjonen.
 
 > Tilføyd ved lov [21 des 2007 nr. 129](lov/2007-12-21-129), endret ved lov [16 juni 2017 nr. 71](lov/2017-06-16-71) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 760](forskrift/2017-06-16-760)).
 
@@ -2352,7 +2723,11 @@ Når generalforsamlingens beslutning kjennes ugyldig, hefter selskapet solidaris
 
 ### § 13-29. Melding og kunngjøring av fusjonsplanen
 
-I tillegg til det som er fastsatt i [§ 13-13](lov/1997-06-13-45/§13-13), skal meldingen til Foretaksregisteret og Foretaksregisterets kunngjøring inneholde opplysninger om:selskapsform, foretaksnavn og registrert forretningskontor for hvert av selskapene som deltar i fusjonen,registeret der hvert av selskapene er registrert, og selskapenes registreringsnummer,fremgangsmåten for utøvelse av rettigheter som tilkommer kreditorer og mindretallsaksjeeiere, der dette er relevant, i hvert av selskapene, samt adressen hvor fullstendige opplysninger om reglene for denne fremgangsmåten kan fås kostnadsfritt.
+I tillegg til det som er fastsatt i [§ 13-13](lov/1997-06-13-45/§13-13), skal meldingen til Foretaksregisteret og Foretaksregisterets kunngjøring inneholde opplysninger om:
+
+1. selskapsform, foretaksnavn og registrert forretningskontor for hvert av selskapene som deltar i fusjonen,
+2. registeret der hvert av selskapene er registrert, og selskapenes registreringsnummer,
+3. fremgangsmåten for utøvelse av rettigheter som tilkommer kreditorer og mindretallsaksjeeiere, der dette er relevant, i hvert av selskapene, samt adressen hvor fullstendige opplysninger om reglene for denne fremgangsmåten kan fås kostnadsfritt.
 
 > Tilføyd ved lov [21 des 2007 nr. 129](lov/2007-12-21-129).
 
@@ -2372,7 +2747,13 @@ Generalforsamlingen kan sette som vilkår for å godkjenne fusjonsplanen at en e
 
 ### § 13-32. Registrering av fusjonen
 
-(1) Skal det overtakende selskapet være underlagt lovgivningen i Norge, skal fusjonen registreres i Foretaksregisteret når følgende vilkår er oppfylt:alle utenlandske selskaper som deltar i fusjonen, har meldt fusjonsattesten fra den ansvarlige myndigheten i den EØS-staten selskapet er registrert, innen seks måneder etter tidspunktet for utstedelse av attesten, sammen med en kopi av fusjonsplanen som er godkjent av generalforsamlingen i selskapet,alle selskapene som deltar i fusjonen, har godkjent fusjonsplanen på samme vilkår,ordninger for arbeidstakernes innflytelse er fastsatt i samsvar med [§ 13-34](lov/1997-06-13-45/§13-34), der dette er relevant,det overtakende selskapet er lovlig stiftet der fusjonen gjennomføres ved stiftelse av nytt selskap,lovgivningen for øvrig ikke er til hinder for å registrere fusjonen.
+(1) Skal det overtakende selskapet være underlagt lovgivningen i Norge, skal fusjonen registreres i Foretaksregisteret når følgende vilkår er oppfylt:
+
+1. alle utenlandske selskaper som deltar i fusjonen, har meldt fusjonsattesten fra den ansvarlige myndigheten i den EØS-staten selskapet er registrert, innen seks måneder etter tidspunktet for utstedelse av attesten, sammen med en kopi av fusjonsplanen som er godkjent av generalforsamlingen i selskapet,
+2. alle selskapene som deltar i fusjonen, har godkjent fusjonsplanen på samme vilkår,
+3. ordninger for arbeidstakernes innflytelse er fastsatt i samsvar med [§ 13-34](lov/1997-06-13-45/§13-34), der dette er relevant,
+4. det overtakende selskapet er lovlig stiftet der fusjonen gjennomføres ved stiftelse av nytt selskap,
+5. lovgivningen for øvrig ikke er til hinder for å registrere fusjonen.
 
 (2) Ved fusjoner som nevnt i første ledd skal Foretaksregisteret uten opphold underrette registreringsmyndighetene i de EØS-statene der de deltakende selskapene er registrert, om at fusjonen har trådt i kraft.
 
@@ -2406,7 +2787,11 @@ Kongen gir i forskrift nærmere regler om arbeidstakernes innflytelse i det over
 
 ### § 13-36. Fusjon over landegrensene mellom morselskap og heleid datterselskap
 
-Ved fusjon over landegrensene der et selskap eier samtlige aksjer i et eller flere andre selskap som deltar i fusjonen, gjelder [§§ 13-25](lov/1997-06-13-45/§13-25) til [13-35](lov/1997-06-13-45/§13-35) med følgende tilpasninger:Fusjonsplanen skal inneholde de opplysninger som følger av [§ 13-26](lov/1997-06-13-45/§13-26) annet ledd nr. 1, nr. 4 og nr. 6 til 12.[§ 13-28](lov/1997-06-13-45/§13-28) om sakkyndig redegjørelse gjelder ikke.[§ 13-3](lov/1997-06-13-45/§13-3) annet ledd (jf. [§ 13-25](lov/1997-06-13-45/§13-25) annet ledd nr. 2) om generalforsamlingens godkjennelse av fusjonsplanen gjelder ikke for det overdragende selskapet.
+Ved fusjon over landegrensene der et selskap eier samtlige aksjer i et eller flere andre selskap som deltar i fusjonen, gjelder [§§ 13-25](lov/1997-06-13-45/§13-25) til [13-35](lov/1997-06-13-45/§13-35) med følgende tilpasninger:
+
+1. Fusjonsplanen skal inneholde de opplysninger som følger av [§ 13-26](lov/1997-06-13-45/§13-26) annet ledd nr. 1, nr. 4 og nr. 6 til 12.
+2. [§ 13-28](lov/1997-06-13-45/§13-28) om sakkyndig redegjørelse gjelder ikke.
+3. [§ 13-3](lov/1997-06-13-45/§13-3) annet ledd (jf. [§ 13-25](lov/1997-06-13-45/§13-25) annet ledd nr. 2) om generalforsamlingens godkjennelse av fusjonsplanen gjelder ikke for det overdragende selskapet.
 
 > Tilføyd ved lov [21 des 2007 nr. 129](lov/2007-12-21-129).
 
@@ -2424,7 +2809,10 @@ Ved fusjon over landegrensene der et selskap eier samtlige aksjer i et eller fle
 
 ### § 14-2. Fisjonsreglenes virkeområde
 
-(1) Deling av et selskap er undergitt reglene om fisjon i kapitlet her når selskapets eiendeler, rettigheter og forpliktelser skal fordeles på selskapet selv (det overdragende selskapet) og ett eller flere overtakende selskaper mot at aksjeeierne i det overdragende selskapet får som vederlagaksjer i selskapet eller i ett eller alle av de overtakende selskaper, ellerslike aksjer med et tillegg som ikke må overstige 20 prosent av det samlede vederlaget.
+(1) Deling av et selskap er undergitt reglene om fisjon i kapitlet her når selskapets eiendeler, rettigheter og forpliktelser skal fordeles på selskapet selv (det overdragende selskapet) og ett eller flere overtakende selskaper mot at aksjeeierne i det overdragende selskapet får som vederlag
+
+1. aksjer i selskapet eller i ett eller alle av de overtakende selskaper, eller
+2. slike aksjer med et tillegg som ikke må overstige 20 prosent av det samlede vederlaget.
 
 (2) Fisjon er også undergitt reglene i kapitlet her når det overdragende selskapets eiendeler, rettigheter og forpliktelser skal fordeles på to eller flere overtakende selskaper mot at aksjeeierne i det overdragende selskapet får vederlag som angitt i første ledd.
 
@@ -2444,7 +2832,10 @@ Ved fusjon over landegrensene der et selskap eier samtlige aksjer i et eller fle
 
 ### § 14-4. Fisjonsplan mv
 
-(1) Styret i det selskapet som skal deles, skal utarbeide og signere en fisjonsplan som minst inneholder opplysning om forhold som angitt i [§ 13-6](lov/1997-06-13-45/§13-6) første ledd. I tillegg skal fisjonsplanen angi:fordelingen av selskapets eiendeler, rettigheter og forpliktelser på de selskapene som deltar i fisjonen;fordeling av aksjer og annet vederlag på aksjeeierne i det overdragende selskapet.
+(1) Styret i det selskapet som skal deles, skal utarbeide og signere en fisjonsplan som minst inneholder opplysning om forhold som angitt i [§ 13-6](lov/1997-06-13-45/§13-6) første ledd. I tillegg skal fisjonsplanen angi:
+
+1. fordelingen av selskapets eiendeler, rettigheter og forpliktelser på de selskapene som deltar i fisjonen;
+2. fordeling av aksjer og annet vederlag på aksjeeierne i det overdragende selskapet.
 
 (2) Ved fisjon ved overføring til et eksisterende selskap skal styrene i de selskapene som deltar, utarbeide en felles fisjonsplan.
 
@@ -2518,11 +2909,26 @@ Dersom fisjonen skal gjennomføres ved at det overdragende selskapets eiendeler,
 
 (1) Bestemmelsene i denne paragrafen gjelder fisjon hvor de deltakende selskapene er eller skal være underlagt lovgivningen i minst to forskjellige EØS-stater.
 
-(2) Et allmennaksjeselskap kan delta i en fisjon etter første ledd dersom følgende vilkår er oppfylt:lovgivningen som de øvrige deltakende selskapene er eller skal være underlagt, er ikke til hinder for å gjennomføre fisjonen,lovgivningen som det eller de overtakende selskapene er eller skal være underlagt, gir de ansatte minst like gode representasjonsrettigheter som det som følger av rådsdirektiv [2005/56/EF](eu/32005l0056) artikkel 16.
+(2) Et allmennaksjeselskap kan delta i en fisjon etter første ledd dersom følgende vilkår er oppfylt:
+
+1. lovgivningen som de øvrige deltakende selskapene er eller skal være underlagt, er ikke til hinder for å gjennomføre fisjonen,
+2. lovgivningen som det eller de overtakende selskapene er eller skal være underlagt, gir de ansatte minst like gode representasjonsrettigheter som det som følger av rådsdirektiv [2005/56/EF](eu/32005l0056) artikkel 16.
 
 (3) I et norsk overdragende selskap gjennomføres fisjonen etter reglene i fjerde ledd. I et norsk overtakende selskap gjennomføres fisjonen etter reglene om stiftelse i [kapittel 2](lov/1997-06-13-45/kap2) (fisjon ved stiftelse av nytt selskap) eller etter reglene om kapitalforhøyelse i [kapittel 10](lov/1997-06-13-45/kap10) (fisjon ved overføring til et eksisterende selskap), med de særregler som følger av fjerde ledd.
 
-(4) For gjennomføringen av en fisjon over landegrensene gjelder følgende regler tilsvarende så langt de passer:[§ 14-1](lov/1997-06-13-45/§14-1), [§ 14-2](lov/1997-06-13-45/§14-2) første og annet ledd og [§ 14-3](lov/1997-06-13-45/§14-3) tredje ledd,[§ 13-26](lov/1997-06-13-45/§13-26), jf. [§ 14-4](lov/1997-06-13-45/§14-4) første ledd annet punktum nr. 1 og 2, og [§ 13-7](lov/1997-06-13-45/§13-7) og [§ 13-8](lov/1997-06-13-45/§13-8) nr. 1 og 2,[§ 13-9](lov/1997-06-13-45/§13-9), jf. [§ 13-27](lov/1997-06-13-45/§13-27), og [§ 13-10](lov/1997-06-13-45/§13-10),[§ 13-11](lov/1997-06-13-45/§13-11) og forskrift fastsatt i medhold av [§ 13-34](lov/1997-06-13-45/§13-34),[§§ 13-12](lov/1997-06-13-45/§13-12) og [13-13](lov/1997-06-13-45/§13-13), jf. [§ 13-29](lov/1997-06-13-45/§13-29),[§ 13-30](lov/1997-06-13-45/§13-30),[§§ 14-5](lov/1997-06-13-45/§14-5) og [14-6](lov/1997-06-13-45/§14-6),[§§ 13-14](lov/1997-06-13-45/§13-14) til [13-16](lov/1997-06-13-45/§13-16) og [§§ 13-31](lov/1997-06-13-45/§13-31) og [13-32](lov/1997-06-13-45/§13-32),[§ 13-17](lov/1997-06-13-45/§13-17), jf. [§ 13-33](lov/1997-06-13-45/§13-33),[§§ 14-8](lov/1997-06-13-45/§14-8), [14-9](lov/1997-06-13-45/§14-9) og [14-11](lov/1997-06-13-45/§14-11),[§ 13-35](lov/1997-06-13-45/§13-35).
+(4) For gjennomføringen av en fisjon over landegrensene gjelder følgende regler tilsvarende så langt de passer:
+
+1. [§ 14-1](lov/1997-06-13-45/§14-1), [§ 14-2](lov/1997-06-13-45/§14-2) første og annet ledd og [§ 14-3](lov/1997-06-13-45/§14-3) tredje ledd,
+2. [§ 13-26](lov/1997-06-13-45/§13-26), jf. [§ 14-4](lov/1997-06-13-45/§14-4) første ledd annet punktum nr. 1 og 2, og [§ 13-7](lov/1997-06-13-45/§13-7) og [§ 13-8](lov/1997-06-13-45/§13-8) nr. 1 og 2,
+3. [§ 13-9](lov/1997-06-13-45/§13-9), jf. [§ 13-27](lov/1997-06-13-45/§13-27), og [§ 13-10](lov/1997-06-13-45/§13-10),
+4. [§ 13-11](lov/1997-06-13-45/§13-11) og forskrift fastsatt i medhold av [§ 13-34](lov/1997-06-13-45/§13-34),
+5. [§§ 13-12](lov/1997-06-13-45/§13-12) og [13-13](lov/1997-06-13-45/§13-13), jf. [§ 13-29](lov/1997-06-13-45/§13-29),
+6. [§ 13-30](lov/1997-06-13-45/§13-30),
+7. [§§ 14-5](lov/1997-06-13-45/§14-5) og [14-6](lov/1997-06-13-45/§14-6),
+8. [§§ 13-14](lov/1997-06-13-45/§13-14) til [13-16](lov/1997-06-13-45/§13-16) og [§§ 13-31](lov/1997-06-13-45/§13-31) og [13-32](lov/1997-06-13-45/§13-32),
+9. [§ 13-17](lov/1997-06-13-45/§13-17), jf. [§ 13-33](lov/1997-06-13-45/§13-33),
+10. [§§ 14-8](lov/1997-06-13-45/§14-8), [14-9](lov/1997-06-13-45/§14-9) og [14-11](lov/1997-06-13-45/§14-11),
+11. [§ 13-35](lov/1997-06-13-45/§13-35).
 
 > Tilføyd ved lov [21 des 2007 nr. 129](lov/2007-12-21-129).
 
@@ -2670,7 +3076,10 @@ Det som måtte tilfalle selskapet av beløp som er avsatt etter [§ 16-9](lov/19
 
 ### § 16-14. Tingretten overtar ansvaret for avviklingen
 
-(1) Tingretten kan ved kjennelse beslutte å overta ansvaret for avviklingen av selskapet når særlige grunner taler for det dersomselskapet ikke er meldt endelig oppløst til Foretaksregisteret senest ett år etter registreringen av melding etter [§ 16-3](lov/1997-06-13-45/§16-3), elleraksjeeiere som representerer minst en femdel av aksjekapitalen krever det.
+(1) Tingretten kan ved kjennelse beslutte å overta ansvaret for avviklingen av selskapet når særlige grunner taler for det dersom
+
+1. selskapet ikke er meldt endelig oppløst til Foretaksregisteret senest ett år etter registreringen av melding etter [§ 16-3](lov/1997-06-13-45/§16-3), eller
+2. aksjeeiere som representerer minst en femdel av aksjekapitalen krever det.
 
 (2) Styret skal gis anledning til å uttale seg før avgjørelsen treffes. Foretaksregisteret skal gi tingretten melding om at fristen etter første ledd nr 1 er utløpt.
 
@@ -2686,7 +3095,13 @@ Det som måtte tilfalle selskapet av beløp som er avsatt etter [§ 16-9](lov/19
 
 ### § 16-15. Oppløsning etter kjennelse fra tingretten
 
-(1) Hvis ikke generalforsamlingen treffer beslutning om oppløsning, skal tingretten ved kjennelse beslutte selskapet oppløst i følgende tilfeller:når selskapet skal oppløses som følge av bestemmelse i lov eller vedtekter;når selskapet ikke har meldt til Foretaksregisteret et styre som fyller de vilkår som følger av bestemmelsene gitt i eller i medhold av lov;når selskapet ikke har meldt til Foretaksregisteret en daglig leder som fyller de vilkår som er fastsatt i lov;når selskapet ikke har meldt til Foretaksregisteret en revisor som fyller de vilkår som er fastsatt i lov;når årsregnskap, årsberetning og revisjonsberetningen som selskapet skal sende til Regnskapsregisteret etter [regnskapsloven § 8-2](lov/1998-07-17-56/§8-2), ikke er innsendt innen seks måneder etter fristen for slik innsendelse, eller når Regnskapsregisteret ved fristens utløp ikke kan godkjenne innsendt materiale som årsregnskap, årsberetning og revisjonsberetning.
+(1) Hvis ikke generalforsamlingen treffer beslutning om oppløsning, skal tingretten ved kjennelse beslutte selskapet oppløst i følgende tilfeller:
+
+1. når selskapet skal oppløses som følge av bestemmelse i lov eller vedtekter;
+2. når selskapet ikke har meldt til Foretaksregisteret et styre som fyller de vilkår som følger av bestemmelsene gitt i eller i medhold av lov;
+3. når selskapet ikke har meldt til Foretaksregisteret en daglig leder som fyller de vilkår som er fastsatt i lov;
+4. når selskapet ikke har meldt til Foretaksregisteret en revisor som fyller de vilkår som er fastsatt i lov;
+5. når årsregnskap, årsberetning og revisjonsberetningen som selskapet skal sende til Regnskapsregisteret etter [regnskapsloven § 8-2](lov/1998-07-17-56/§8-2), ikke er innsendt innen seks måneder etter fristen for slik innsendelse, eller når Regnskapsregisteret ved fristens utløp ikke kan godkjenne innsendt materiale som årsregnskap, årsberetning og revisjonsberetning.
 
 (2) Retten kan bare beslutte selskapet oppløst som følge av bestemmelse i vedtektene når en aksjeeier har fremsatt krav om det og generalforsamlingen har unnlatt å treffe beslutning om oppløsning etter [§ 16-1](lov/1997-06-13-45/§16-1).
 
@@ -2846,11 +3261,20 @@ I tilfelle av rettssak mellom selskapet og selskapets bedriftsforsamling eller f
 
 ### § 20-1. Særregler for skipsallmennaksjeselskaper
 
-Kan selskapet utelukkende drive skipsfart og virksomhet med boreplattformer eller liknende flyttbare innretninger, gjelder følgende særregler:Et ansvarlig selskap kan velges til styremedlem eller tilsettes som daglig leder.I vedtektene kan det bestemmes at et ansvarlig selskap skal være daglig leder. I så fall kan oppsigelse vedtas av generalforsamlingen med minst to tredeler av de avgitte stemmer, dersom det ikke er tatt forbehold om oppsigelse med mindre stemmetall.
+Kan selskapet utelukkende drive skipsfart og virksomhet med boreplattformer eller liknende flyttbare innretninger, gjelder følgende særregler:
+
+1. Et ansvarlig selskap kan velges til styremedlem eller tilsettes som daglig leder.
+2. I vedtektene kan det bestemmes at et ansvarlig selskap skal være daglig leder. I så fall kan oppsigelse vedtas av generalforsamlingen med minst to tredeler av de avgitte stemmer, dersom det ikke er tatt forbehold om oppsigelse med mindre stemmetall.
 
 ### § 20-2. Skipsallmennaksjeselskaper med et ansvarlig selskap som styremedlem eller daglig leder
 
-Er et ansvarlig selskap styremedlem eller daglig leder etter [§ 20-1](lov/1997-06-13-45/§20-1) nr 1, gjelder følgende:De enkelte deltakere i det ansvarlige selskapet anses som styremedlemmer eller daglige ledere, men de utøver vervet i egenskap av deltakere i det ansvarlige selskapet og som et selskapsanliggende i dette.Deltakerne i det ansvarlige selskapet har bare én stemme i styret.Beslutning om å fjerne eller si opp det ansvarlige selskap som styremedlem eller daglig leder må treffes under ett for alle medlemmene av det ansvarlige selskapet og kan lyde på dette selskapet.Når en ny deltaker trer inn i det ansvarlige selskapet, går vervet også over på den nye deltakeren. Ved uttreden bortfaller vervet for den som trer ut. Ved uttreden av den siste som var deltaker på valgtiden, bortfaller vervet også for de øvrige deltakerne i det ansvarlige selskapet.Inntrer det etter valget for én av deltakerne i det ansvarlige selskapet en hindring som nevnt i [§ 6-11](lov/1997-06-13-45/§6-11), får det virkning også for de øvrige deltakerne. Vervet faller likevel ikke bort for de øvrige deltakerne dersom den som hindringen gjelder, trer ut av det ansvarlige selskapet innen tre måneder.
+Er et ansvarlig selskap styremedlem eller daglig leder etter [§ 20-1](lov/1997-06-13-45/§20-1) nr 1, gjelder følgende:
+
+1. De enkelte deltakere i det ansvarlige selskapet anses som styremedlemmer eller daglige ledere, men de utøver vervet i egenskap av deltakere i det ansvarlige selskapet og som et selskapsanliggende i dette.
+2. Deltakerne i det ansvarlige selskapet har bare én stemme i styret.
+3. Beslutning om å fjerne eller si opp det ansvarlige selskap som styremedlem eller daglig leder må treffes under ett for alle medlemmene av det ansvarlige selskapet og kan lyde på dette selskapet.
+4. Når en ny deltaker trer inn i det ansvarlige selskapet, går vervet også over på den nye deltakeren. Ved uttreden bortfaller vervet for den som trer ut. Ved uttreden av den siste som var deltaker på valgtiden, bortfaller vervet også for de øvrige deltakerne i det ansvarlige selskapet.
+5. Inntrer det etter valget for én av deltakerne i det ansvarlige selskapet en hindring som nevnt i [§ 6-11](lov/1997-06-13-45/§6-11), får det virkning også for de øvrige deltakerne. Vervet faller likevel ikke bort for de øvrige deltakerne dersom den som hindringen gjelder, trer ut av det ansvarlige selskapet innen tre måneder.
 
 ### § 20-3. Utenlandsk statsborger som styremedlem
 
@@ -2860,7 +3284,12 @@ Valg av styremedlem i et selskap som eier norsk skip, krever tilslutning fra sam
 
 ### § 20-4. Særbestemmelser for statsallmennaksjeselskaper
 
-I selskaper der staten eier alle aksjer, gjelder følgende særregler:Styret velges av generalforsamlingen, selv om selskapet har bedriftsforsamling. [§ 6-4](lov/1997-06-13-45/§6-4) gjelder likevel for de ansattes rett til å velge medlemmer og observatører til styret. Det kan bestemmes i vedtektene at samtlige medlemmer og observatører til styret skal velges av bedriftsforsamlingen.Kongen kan overprøve bedriftsforsamlingens beslutning etter [§ 6-37](lov/1997-06-13-45/§6-37) fjerde ledd eller styrets beslutning etter [§ 6-12](lov/1997-06-13-45/§6-12) femte ledd, jf [§ 6-37](lov/1997-06-13-45/§6-37) fjerde ledd, dersom vesentlige samfunnsmessige hensyn tilsier det.Ekstraordinær generalforsamling kan kreves holdt av det departementet som selskapet hører under, av styret eller av to medlemmer av bedriftsforsamlingen.Generalforsamlingen er ikke bundet av styrets eller bedriftsforsamlingens forslag om utdeling av utbytte.
+I selskaper der staten eier alle aksjer, gjelder følgende særregler:
+
+1. Styret velges av generalforsamlingen, selv om selskapet har bedriftsforsamling. [§ 6-4](lov/1997-06-13-45/§6-4) gjelder likevel for de ansattes rett til å velge medlemmer og observatører til styret. Det kan bestemmes i vedtektene at samtlige medlemmer og observatører til styret skal velges av bedriftsforsamlingen.
+2. Kongen kan overprøve bedriftsforsamlingens beslutning etter [§ 6-37](lov/1997-06-13-45/§6-37) fjerde ledd eller styrets beslutning etter [§ 6-12](lov/1997-06-13-45/§6-12) femte ledd, jf [§ 6-37](lov/1997-06-13-45/§6-37) fjerde ledd, dersom vesentlige samfunnsmessige hensyn tilsier det.
+3. Ekstraordinær generalforsamling kan kreves holdt av det departementet som selskapet hører under, av styret eller av to medlemmer av bedriftsforsamlingen.
+4. Generalforsamlingen er ikke bundet av styrets eller bedriftsforsamlingens forslag om utdeling av utbytte.
 
 ### § 20-5. Generalforsamling i statsallmennaksjeselskaper
 
@@ -2890,13 +3319,21 @@ Loven trer i kraft fra den tid Kongen bestemmer.1 De enkelte bestemmelser kan se
 
 ### § 21-2. Overgangsregler
 
-1. Et aksjeselskap som er stiftet før loven trer i kraft, regnes som allmennaksjeselskap når selskapet før lovens ikrafttredelse er registrert som allment aksjeselskap i Foretaksregisteret.– – –
+1. Et aksjeselskap som er stiftet før loven trer i kraft, regnes som allmennaksjeselskap når selskapet før lovens ikrafttredelse er registrert som allment aksjeselskap i Foretaksregisteret.
+
+   – – –
 2. Kravet i [§ 3-1](lov/1997-06-13-45/§3-1) annet ledd annet punktum om at aksjene skal lyde på like stort beløp, gjelder ikke for selskaper som hadde aksjer med ulikt pålydende da [lov 4 juni 1976 nr 59](lov/1976-06-04-59) om aksjeselskaper trådte i kraft. Ved kapitalforhøyelse kan det ikke utstedes aksjer som lyder på andre beløp enn de tidligere aksjene. I generalforsamlingen gir aksjene med lavest pålydende en stemme og de øvrige aksjer tilsvarende flere stemmer når annet ikke er fastsatt i vedtektene.
-3. [§§ 2-11](lov/1997-06-13-45/§2-11) til [2-18](lov/1997-06-13-45/§2-18) gjelder bare når selskapet stiftes etter at loven er trådt i kraft. Har selskapet holdt konstituerende generalforsamling før loven trer i kraft, gjelder de regler som gjaldt tidligere.– – –
+3. [§§ 2-11](lov/1997-06-13-45/§2-11) til [2-18](lov/1997-06-13-45/§2-18) gjelder bare når selskapet stiftes etter at loven er trådt i kraft. Har selskapet holdt konstituerende generalforsamling før loven trer i kraft, gjelder de regler som gjaldt tidligere.
+
+   – – –
 4. Innskudd i forbindelse med stiftelse og innskudd i forbindelse med kapitalforhøyelse som ikke er fullt innbetalt før loven trer i kraft, skal være innbetalt til selskapet senest ett år etter registreringen av stiftelsen eller kapitalforhøyelsen.
 5. [§ 3-8](lov/1997-06-13-45/§3-8) gjelder ikke avtaler om erverv som inngås før loven trer i kraft.
-6. [§ 3-9](lov/1997-06-13-45/§3-9) gjelder ikke avtaler mellom konsernselskaper som inngås før loven trer i kraft.– – –
-7. [§§ 10-12](lov/1997-06-13-45/§10-12) og [10-13](lov/1997-06-13-45/§10-13) gjelder bare når beslutning om kapitalforhøyelse treffes etter at loven er trådt i kraft. Er beslutningen truffet før loven trer i kraft, gjelder de regler som gjaldt tidligere.– – –
+6. [§ 3-9](lov/1997-06-13-45/§3-9) gjelder ikke avtaler mellom konsernselskaper som inngås før loven trer i kraft.
+
+   – – –
+7. [§§ 10-12](lov/1997-06-13-45/§10-12) og [10-13](lov/1997-06-13-45/§10-13) gjelder bare når beslutning om kapitalforhøyelse treffes etter at loven er trådt i kraft. Er beslutningen truffet før loven trer i kraft, gjelder de regler som gjaldt tidligere.
+
+   – – –
 8. Har et allmennaksjeselskap utstedt verdipapirer som gir annen rett til å tegne aksjer ved kapitalforhøyelse enn det er adgang til etter kapittel 10 i loven her, kan generalforsamlingen med flertall som for vedtektsendring beslutte å innløse verdipapirene med tilhørende tegningsretter. Rettighetshavere med kjent adresse skal gis skriftlig underretning om beslutningen, og den skal kunngjøres i to landsdekkende aviser. Beslutningen skal registreres i Foretaksregisteret og i tilfelle i Verdipapirsentralen. Etter at beslutningen er registrert i Foretaksregisteret, kan tegningsrettene ikke gjøres gjeldende ved kapitalforhøyelse i selskapet. Innløsningssummen fastsettes etter verdipapirenes virkelige verdi på den dag registreringen fant sted. Oppstår det tvist om innløsningssummen, fastsettes denne ved skjønn i den rettskrets hvor selskapet har sitt forretningskontor. Kostnadene ved skjønnet dekkes av selskapet. Det samlede innløsningsbeløp skal innbetales på særskilt konto i bank som kan drive virksomhet her i riket. Beløpet foreldes etter reglene i [lov om foreldelse av fordringer § 4](lov/1979-05-18-18/§4) første ledd.
 9. Forskrifter gitt i medhold av [lov 4 juni 1976 nr 59](lov/1976-06-04-59) om aksjeselskaper gjelder også etter at loven her har trådt i kraft.
 10. Kongen kan gi nærmere overgangsregler.

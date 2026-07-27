@@ -28,7 +28,12 @@ eu_basis: []
 
 Formålet med forskriften er å sikre at personer som har behov for sosial, psykososial eller medisinsk habilitering og rehabilitering, tilbys og ytes tjenester som kan bidra til stimulering av egen læring, motivasjon, økt funksjons- og mestringsevne, likeverdighet og deltakelse. Formålet er også å styrke samhandlingen mellom tjenesteyter og pasient og bruker og eventuelt pårørende, og mellom tjenesteytere og etater innen et forvaltningsnivå eller på tvers av forvaltningsnivåene.
 
-Forskriften skal videre sikre at tjenestene tilbys og ytesut fra et pasient- og brukerperspektiv,i eller nærmest mulig pasientens og brukerens vante miljø,samordnet, tverrfaglig og planmessig,i en for pasientens og brukerens meningsfylt sammenheng.
+Forskriften skal videre sikre at tjenestene tilbys og ytes
+
+1. ut fra et pasient- og brukerperspektiv,
+2. i eller nærmest mulig pasientens og brukerens vante miljø,
+3. samordnet, tverrfaglig og planmessig,
+4. i en for pasientens og brukerens meningsfylt sammenheng.
 
 ### § 2. Virkeområde
 
@@ -72,7 +77,10 @@ Den kommunale helse- og omsorgstjenesten skal ved behov samarbeide med andre eta
 
 Det skal finnes en koordinerende enhet for habiliterings- og rehabiliteringsvirksomheten i kommunen, jf. helse- og [omsorgstjenesteloven § 7-3](lov/2011-06-24-30/§7-3). Den koordinerende enheten skal bidra til å sikre helhetlig tilbud til pasienter og brukere med behov for sosial, psykososial eller medisinsk habilitering og rehabilitering.
 
-Koordinerende enhet skal ha overordnet ansvar for arbeidet med individuell plan og for oppnevning, opplæring og veiledning av koordinator. Overordnet ansvar for individuell plan innebærer at enheten blant annet skal:motta meldinger om behov for individuell plan, jf. [forskrift 22. juni 2022 nr. 1110 om individuell plan ved ytelse av velferdstjenester](forskrift/2022-06-22-1110)sørge for at det blir utarbeidet rutiner og prosedyrer for arbeid med individuell plan.
+Koordinerende enhet skal ha overordnet ansvar for arbeidet med individuell plan og for oppnevning, opplæring og veiledning av koordinator. Overordnet ansvar for individuell plan innebærer at enheten blant annet skal:
+
+1. motta meldinger om behov for individuell plan, jf. [forskrift 22. juni 2022 nr. 1110 om individuell plan ved ytelse av velferdstjenester](forskrift/2022-06-22-1110)
+2. sørge for at det blir utarbeidet rutiner og prosedyrer for arbeid med individuell plan.
 
 > Endret ved forskrift [22 juni 2022 nr. 1110](forskrift/2022-06-22-1110) (i kraft 1 aug 2022).
 
@@ -110,13 +118,22 @@ Det regionale helseforetaket skal legge forholdene til rette slik at personell i
 
 Det regionale helseforetaket skal sørge for nødvendige undersøkelse og utredning av pasienter og brukere med behov for habilitering og rehabilitering i spesialisthelsetjenesten
 
-Det regionale helseforetaket skal videre sørge for tilbud omtrening og oppøving av funksjon og ulike individuelle ferdigheter som krever spesialisert tilrettelegging og veiledningintensiv trening som inngår i individuell habiliterings/rehabiliteringsplan, eller som et nødvendig, spesialisert tilbud etter behandlingtilrettelagt opplæring for pasienter og brukere som trenger det, og tilrettelegge rammebetingelser som kan bidra til økt mestring.
+Det regionale helseforetaket skal videre sørge for tilbud om
+
+1. trening og oppøving av funksjon og ulike individuelle ferdigheter som krever spesialisert tilrettelegging og veiledning
+2. intensiv trening som inngår i individuell habiliterings/rehabiliteringsplan, eller som et nødvendig, spesialisert tilbud etter behandling
+3. tilrettelagt opplæring for pasienter og brukere som trenger det, og tilrettelegge rammebetingelser som kan bidra til økt mestring.
 
 > Endret ved forskrift [10 april 2018 nr. 556](forskrift/2018-04-10-556) (i kraft 1 mai 2018).
 
 ### § 14. Særlig om råd, veiledning og samarbeid
 
-Det regionale helseforetaket skal sørge forråd og veiledning til kommunen om opplegg for den enkelte pasient og brukersamarbeid med kommunen om opplegg for den enkelte pasient og bruker og utarbeiding av individuelle planergenerelle råd og veiledning til ansatte i kommunensamarbeide med andre etater når det er nødvendig for utredning, tilrettelegging og gjennomføring av tilbudet til den enkelte.
+Det regionale helseforetaket skal sørge for
+
+1. råd og veiledning til kommunen om opplegg for den enkelte pasient og bruker
+2. samarbeid med kommunen om opplegg for den enkelte pasient og bruker og utarbeiding av individuelle planer
+3. generelle råd og veiledning til ansatte i kommunen
+4. samarbeide med andre etater når det er nødvendig for utredning, tilrettelegging og gjennomføring av tilbudet til den enkelte.
 
 > Endret ved forskrift [10 april 2018 nr. 556](forskrift/2018-04-10-556) (i kraft 1 mai 2018).
 

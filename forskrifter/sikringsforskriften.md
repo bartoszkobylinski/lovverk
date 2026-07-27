@@ -82,7 +82,11 @@ Jernbanevirksomheten skal ha bestemmelser om styring og kontroll av dokumenter s
 
 Jernbanevirksomheten skal identifisere alle typer informasjon som kan utnyttes til tilsiktede uønskede handlinger.
 
-Jernbanevirksomheten skal sikre at informasjonenikke blir kjent for uvedkommende (konfidensialitet)ikke uautorisert endres eller går tapt (integritet)er tilgjengelig for den som trenger den i tjenesten (tilgjengelighet).
+Jernbanevirksomheten skal sikre at informasjonen
+
+1. ikke blir kjent for uvedkommende (konfidensialitet)
+2. ikke uautorisert endres eller går tapt (integritet)
+3. er tilgjengelig for den som trenger den i tjenesten (tilgjengelighet).
 
 ### § 3-4. Informasjons- og kommunikasjonssystemer
 
@@ -112,7 +116,14 @@ Den øverste ledelsen skal, ved behov og minst en gang per år, gjennomgå styri
 
 Ledelsens gjennomgang skal avdekke eventuelle behov for endring i styringssystemet.
 
-I gjennomgangen skal ledelsen minimum ta hensyn tilendrede forutsetninger,nye og oppdaterte risikovurderinger,avvik og hvordan de er fulgt opp,interne revisjoner, revisjoner av leverandører og gjennomføringen av tiltak basert på resultatene,analyser av tilsiktede uønskede handlinger ogoppfølgingstiltak etter ledelsens tidligere gjennomganger.
+I gjennomgangen skal ledelsen minimum ta hensyn til
+
+1. endrede forutsetninger,
+2. nye og oppdaterte risikovurderinger,
+3. avvik og hvordan de er fulgt opp,
+4. interne revisjoner, revisjoner av leverandører og gjennomføringen av tiltak basert på resultatene,
+5. analyser av tilsiktede uønskede handlinger og
+6. oppfølgingstiltak etter ledelsens tidligere gjennomganger.
 
 ## Kapittel 5. Kompetanse og opplæring
 
@@ -164,7 +175,14 @@ Der det er nødvendig med flere sikringstiltak, skal det være tilstrekkelig uav
 
 Jernbanevirksomheten skal ha beredskap for hendelser som følge av, eller trussel om, tilsiktede uønskede handlinger. Beredskapen skal være dimensjonert på grunnlag av risikovurderinger og beredskapsanalyser og være beskrevet i beredskapsplaner.
 
-Beredskapen skal minimum omfatte:oversikt over kompetent og øvet personell,oversikt over utstyr og materiell,oversikt over hvilke andre relevante aktører med beredskapsressurser jernbanevirksomheten er avhengig av,et dokumentert beredskapsplanverk, med tydelig rollefordeling, varslingslister og tiltaksplaner,rutiner som sikrer at reisende og publikum får informasjon om hvordan de skal forholde seg ogrutiner for kommunikasjon i nødsituasjoner.
+Beredskapen skal minimum omfatte:
+
+1. oversikt over kompetent og øvet personell,
+2. oversikt over utstyr og materiell,
+3. oversikt over hvilke andre relevante aktører med beredskapsressurser jernbanevirksomheten er avhengig av,
+4. et dokumentert beredskapsplanverk, med tydelig rollefordeling, varslingslister og tiltaksplaner,
+5. rutiner som sikrer at reisende og publikum får informasjon om hvordan de skal forholde seg og
+6. rutiner for kommunikasjon i nødsituasjoner.
 
 Jernbanevirksomheten skal samordne sine beredskapsplaner med andre relevante aktører og offentlige myndigheter.
 

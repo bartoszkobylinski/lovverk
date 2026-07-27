@@ -15,7 +15,7 @@ xml_hash: "c1a282b7212c13f79c959f069346dfef7ae0840131d5bed2fca36068a63c3df8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,11 +24,54 @@ eu_basis: []
 
 ## Annex 1. Definisjoner og standardkrav for spesialmateriell1 for transport av lett bedervelige næringsmidler.
 
-1. *Isolert materiell.* Materiell som har karosseri2 hvor vegger, dører, gulv og tak er isolert slik at varmegjennomgangen mellom karosseriets innside og utside er så begrenset at den samlede varmegjennomgangskoeffisient (K-verdi) plasserer materiellet i en av følgende to kategorier:IN = Normalisolert – K-verdi lik eller mindre enn 0,7 W/m2°C (0,6 Kcal/hm2°C)IR = Kraftigisolert – K-verdi lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C)Definisjonen av K-verdi, som i enkelte land betegnes U-koeffisient, samt beskrivelse av hvordan den måles er gitt i appendix 2 til dette annex.
-2. *Materiell med kjøling.* Isolert materiell som ved hjelp av en kuldekilde som ikke virker mekanisk eller ved «absorbsjon», (naturlig is – med eller uten salt, eutektiske elementer, tørris – med eller uten kontrollert sublimasjon, kondensert gass – med eller uten kontrollert fordamping) er i stand til, når temperaturen utenfor er +30°C, å oppnå og holde en innvendig temperatur i tomt karosseri som erhøyst + 7°C for klasse Ahøyst -10°C for klasse Bhøyst -20°C for klasse Cved riktig bruk av kjølemiddel og installasjoner. Materiellet skal ha ett eller flere rom, beholdere eller tanker for kjølemidlet.Disse beholdere eller tanker skalkunne fylles eller etterfylles fra utsiden ogha tilstrekkelig kapasitet til at temperaturen kan senkes til den for klassen fastsatte verdi og holde den i ikke mindre enn 12 timer uten ytterligere tilførsel av kjølemiddel eller energi.K-verdien for materiell i klasse B og C skal i alle tilfelle være lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C).
-3. *Materiell som har mekanisk kjøle-/fryseanlegg.* Materiell som enten har eget kjøle-/fryseanlegg (kompressoraggregat, «absorbsjonsaggregat» e.l.) eller som har slikt utstyr felles med andre transportenheter. Anlegget skal være i stand til, når temperaturen utenfor er +30°C, å frembringe og holde en kontinuerlig innvendig temperatur i tomt karosseri som erFor klasse A, B og C en hvilken som helst ønsket, praktisk talt konstant temperatur t; innenfor følgende verdier:Klasse A +12°C til 0°C inklusiveKlasse B +12°C til -10°C inklusiveKlasse C +12°C til -20°C inklusiveFor klasse D, E og F en fastsatt, praktisk talt konstant temperatur t; innenfor følgende verdierKlasse D ti lik eller mindre enn +2°CKlasse E ti lik eller mindre enn -10°CKlasse F ti lik eller mindre enn -20°CK-verdien for materiell i klasse B, C, E og F skal i alle tilfelle være lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C).
-4. *Oppvarmet materiell.* Isolert materiell som kan frembringe en temperatur innvendig i tomt karosseri på minst +12°C, og holde den praktisk talt konstant i minst 12 timer uten etterfylling når den gjennomsnittlige temperatur utenfor er som angitt nedenfor:Klasse A. For bruk når gjennomsnittlig utetemperatur er -10°CKlasse B. For bruk når gjennomsnittlig utetemperatur er -20°CK-verdien for materiell i klasse B skal i alle tilfelle være lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C).
-5. *Overgangsbestemmelser.* I en periode på 3 år etter den dato3 avtalen har trådt i kraft, kan materiell som er tatt i bruk på dette tidspunkt ha en varmegjennomgangskoeffisient (K-verdi) lik eller mindre enn0.9 W/m2°C (0,8 Kcal/hm2°C) når det gjelder isolert materiell i kategorien IN, materiell med kjøling i klasse A, alt materiell med mekanisk kjøle-/fryseanlegg samt oppvarmet materiell i klasse A0,6 W/m2°C (0,5 Kcal/hm2°C) når det gjelder materiell med kjøling i klasse B og C samt oppvarmet materiell i klasse B.Videre kan, etter utløpet av den ovenfor nevnte 3-års periode og helt til materiellet tas ut av tjeneste for godt, K-verdien for materiell med mekanisk kjøle-/fryseanlegg i klassene B, C, E og F tillates å være lik eller mindre enn 0,7 W/m2°C (0,6 Kcal/hm2°C).Disse overgangsbestemmelser skal ikke være til hinder for anvendelsen av eventuelle strengere forskrifter som visse stater måtte ha innført for materiell registrert på deres eget område.
+1. *Isolert materiell.* Materiell som har karosseri2 hvor vegger, dører, gulv og tak er isolert slik at varmegjennomgangen mellom karosseriets innside og utside er så begrenset at den samlede varmegjennomgangskoeffisient (K-verdi) plasserer materiellet i en av følgende to kategorier:
+
+   - IN = Normalisolert – K-verdi lik eller mindre enn 0,7 W/m2°C (0,6 Kcal/hm2°C)
+   - IR = Kraftigisolert – K-verdi lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C)
+
+   Definisjonen av K-verdi, som i enkelte land betegnes U-koeffisient, samt beskrivelse av hvordan den måles er gitt i appendix 2 til dette annex.
+2. *Materiell med kjøling.* Isolert materiell som ved hjelp av en kuldekilde som ikke virker mekanisk eller ved «absorbsjon», (naturlig is – med eller uten salt, eutektiske elementer, tørris – med eller uten kontrollert sublimasjon, kondensert gass – med eller uten kontrollert fordamping) er i stand til, når temperaturen utenfor er +30°C, å oppnå og holde en innvendig temperatur i tomt karosseri som er
+
+   - høyst + 7°C for klasse A
+   - høyst -10°C for klasse B
+   - høyst -20°C for klasse C
+
+   ved riktig bruk av kjølemiddel og installasjoner. Materiellet skal ha ett eller flere rom, beholdere eller tanker for kjølemidlet.
+
+   Disse beholdere eller tanker skal
+
+   - kunne fylles eller etterfylles fra utsiden og
+   - ha tilstrekkelig kapasitet til at temperaturen kan senkes til den for klassen fastsatte verdi og holde den i ikke mindre enn 12 timer uten ytterligere tilførsel av kjølemiddel eller energi.
+
+   K-verdien for materiell i klasse B og C skal i alle tilfelle være lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C).
+3. *Materiell som har mekanisk kjøle-/fryseanlegg.* Materiell som enten har eget kjøle-/fryseanlegg (kompressoraggregat, «absorbsjonsaggregat» e.l.) eller som har slikt utstyr felles med andre transportenheter. Anlegget skal være i stand til, når temperaturen utenfor er +30°C, å frembringe og holde en kontinuerlig innvendig temperatur i tomt karosseri som er
+
+   - For klasse A, B og C en hvilken som helst ønsket, praktisk talt konstant temperatur t; innenfor følgende verdier:
+
+     - Klasse A +12°C til 0°C inklusive
+     - Klasse B +12°C til -10°C inklusive
+     - Klasse C +12°C til -20°C inklusive
+   - For klasse D, E og F en fastsatt, praktisk talt konstant temperatur t; innenfor følgende verdier
+
+     - Klasse D ti lik eller mindre enn +2°C
+     - Klasse E ti lik eller mindre enn -10°C
+     - Klasse F ti lik eller mindre enn -20°C
+
+   K-verdien for materiell i klasse B, C, E og F skal i alle tilfelle være lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C).
+4. *Oppvarmet materiell.* Isolert materiell som kan frembringe en temperatur innvendig i tomt karosseri på minst +12°C, og holde den praktisk talt konstant i minst 12 timer uten etterfylling når den gjennomsnittlige temperatur utenfor er som angitt nedenfor:
+
+   - Klasse A. For bruk når gjennomsnittlig utetemperatur er -10°C
+   - Klasse B. For bruk når gjennomsnittlig utetemperatur er -20°C
+
+   K-verdien for materiell i klasse B skal i alle tilfelle være lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C).
+5. *Overgangsbestemmelser.* I en periode på 3 år etter den dato3 avtalen har trådt i kraft, kan materiell som er tatt i bruk på dette tidspunkt ha en varmegjennomgangskoeffisient (K-verdi) lik eller mindre enn
+
+   - 0.9 W/m2°C (0,8 Kcal/hm2°C) når det gjelder isolert materiell i kategorien IN, materiell med kjøling i klasse A, alt materiell med mekanisk kjøle-/fryseanlegg samt oppvarmet materiell i klasse A
+   - 0,6 W/m2°C (0,5 Kcal/hm2°C) når det gjelder materiell med kjøling i klasse B og C samt oppvarmet materiell i klasse B.
+
+   Videre kan, etter utløpet av den ovenfor nevnte 3-års periode og helt til materiellet tas ut av tjeneste for godt, K-verdien for materiell med mekanisk kjøle-/fryseanlegg i klassene B, C, E og F tillates å være lik eller mindre enn 0,7 W/m2°C (0,6 Kcal/hm2°C).
+
+   Disse overgangsbestemmelser skal ikke være til hinder for anvendelsen av eventuelle strengere forskrifter som visse stater måtte ha innført for materiell registrert på deres eget område.
 
 1 Vogner, lastebiler, tilhengere, semitrailere, containere og annet lignende materiell.
 
@@ -38,22 +81,73 @@ eu_basis: []
 
 ## Annex 1, Appendix 1. Bestemmelser om hvordan materiell som er isolert, har kjøling, mekanisk kjøle-/fryseanlegg eller oppvarming skal kontrolleres i henhold til standardkravene.
 
-1. Med de unntak som følger av appendix 2 til dette annex, nummer 29 og 49, skal kontroll i henhold til standardkravene foretas ved prøvelaboratorium som er særlig utpekt eller godkjent av vedkommende myndighet i det land materiellet er registrert. Kontroll skal skje:før materiellet tas i bruk,periodisk, minst en gang hvert 6. år ognår som helst vedkommende myndighet forlanger det.
-2. Nytt materiell som blir produsert i serie kan kontrolleres ved at det tas prøve av minst 1 % av materiellet som er produsert i samme serie. Materiell skal ikke regnes for å høre til samme serie med mindre følgende minstekrav er oppfylt:hvis det dreier seg om isolert materiell, tillates også prøve, utført på materiell som har kjøling, mekanisk kjøle-/fryseanlegg eller oppvarming.isolasjonen skal være ens, spesielt skal materiellet og tykkelsen samt måten å isolere være identiskeinnvendig utstyr skal være identisk som på prøven, eller enklereantall dører, luker og andre åpninger skal være som på prøven, eller færrekarosseriets innvendige overflate kan være høyst 20 % større eller mindrehvis det dreier seg om materiell med kjøling, skal prøven likeledes være utført på materiell med kjøling.kravene under a) skal være oppfyltinnvendige ventilasjonsinnretninger skal være enskuldekilden skal være identisk, ogkuldereserven pr. flateinnhold av den innvendige overflaten skal være lik med eller større enn på prøven.hvis det dreier seg om materiell med mekanisk kjøle-/fryseanlegg skal prøven likeledes være utført på materiell av denne kategori.kravene under a) skal være oppfyltkjøle-/fryseanleggets kapasitet pr. flateenhet av den innvendige overflate skal være lik eller større enn på prøven.hvis det dreier seg om oppvarmet materiell, tillates også prøve utført på isolert materiell.kravene under a) skal være oppfyltvarmekilden skal være identiskvarmeinnretningens kapasitet pr. flateenhet av den innvendige overflate skal være lik med eller større enn på prøven.
+1. Med de unntak som følger av appendix 2 til dette annex, nummer 29 og 49, skal kontroll i henhold til standardkravene foretas ved prøvelaboratorium som er særlig utpekt eller godkjent av vedkommende myndighet i det land materiellet er registrert. Kontroll skal skje:
+
+   1. før materiellet tas i bruk,
+   2. periodisk, minst en gang hvert 6. år og
+   3. når som helst vedkommende myndighet forlanger det.
+2. Nytt materiell som blir produsert i serie kan kontrolleres ved at det tas prøve av minst 1 % av materiellet som er produsert i samme serie. Materiell skal ikke regnes for å høre til samme serie med mindre følgende minstekrav er oppfylt:
+
+   1. hvis det dreier seg om isolert materiell, tillates også prøve, utført på materiell som har kjøling, mekanisk kjøle-/fryseanlegg eller oppvarming.
+
+      - isolasjonen skal være ens, spesielt skal materiellet og tykkelsen samt måten å isolere være identiske
+      - innvendig utstyr skal være identisk som på prøven, eller enklere
+      - antall dører, luker og andre åpninger skal være som på prøven, eller færre
+      - karosseriets innvendige overflate kan være høyst 20 % større eller mindre
+   2. hvis det dreier seg om materiell med kjøling, skal prøven likeledes være utført på materiell med kjøling.
+
+      - kravene under a) skal være oppfylt
+      - innvendige ventilasjonsinnretninger skal være ens
+      - kuldekilden skal være identisk, og
+      - kuldereserven pr. flateinnhold av den innvendige overflaten skal være lik med eller større enn på prøven.
+   3. hvis det dreier seg om materiell med mekanisk kjøle-/fryseanlegg skal prøven likeledes være utført på materiell av denne kategori.
+
+      - kravene under a) skal være oppfylt
+      - kjøle-/fryseanleggets kapasitet pr. flateenhet av den innvendige overflate skal være lik eller større enn på prøven.
+   4. hvis det dreier seg om oppvarmet materiell, tillates også prøve utført på isolert materiell.
+
+      - kravene under a) skal være oppfylt
+      - varmekilden skal være identisk
+      - varmeinnretningens kapasitet pr. flateenhet av den innvendige overflate skal være lik med eller større enn på prøven.
 3. Metoder og prosedyrer for å kontrollere i henhold til standardkravene er beskrevet i appendix 2 til dette annex.
-4. Vedkommende myndighet skal utstede sertifikat for at standardkravene er oppfylt. Sertifikatet skal se ut som vist i appendix 3 til dette annex. Når det gjelder veigående kjøretøy skal sertifikatet, eller en fotokopi av dette, være i kjøretøyet under transporten og vises når det forlanges av kontrollmyndighetene.Dersom materiellet ikke kan henføres til en bestemt kategori eller klasse uten å anvende overgangsbestemmelsene i pkt. 5 i dette annex, skal sertifikatets gyldighet være begrenset til den tid som er fastsatt i disse overgangsbestemmelser.
+4. Vedkommende myndighet skal utstede sertifikat for at standardkravene er oppfylt. Sertifikatet skal se ut som vist i appendix 3 til dette annex. Når det gjelder veigående kjøretøy skal sertifikatet, eller en fotokopi av dette, være i kjøretøyet under transporten og vises når det forlanges av kontrollmyndighetene.
+
+   Dersom materiellet ikke kan henføres til en bestemt kategori eller klasse uten å anvende overgangsbestemmelsene i pkt. 5 i dette annex, skal sertifikatets gyldighet være begrenset til den tid som er fastsatt i disse overgangsbestemmelser.
 5. Materiellet skal merkes med kjennetegn og opplysninger ifølge appendix 4 til dette annex. Når materiellet ikke lenger oppfyller standardkravene i dette annex, skal merkingen straks fjernes.
 
 ## Annex 1, Appendix 2. Metoder og prosedyrer for å måle og kontrollere isolasjonens kapasitet samt effektiviteten av kjøle- og varmeinnretninger i spesialmateriell for transport av lett bedervelige næringsmidler.
 
 ### A. Definisjoner og alminnelige prinsipper.
 
-1. K-verdi. Den samlede varmegjennomgangskoeffisient (K-verdi, i noen land kalt U-koeffisient), som representerer kapasiteten for materiellets isolasjon, er definert ved følgende formel:K = W / S Δ Θhvor W er varmekapasiteten som er nødvendig i et karosseri med gjennomsnittlig overflate S for å opprettholde en absolutt differanse Δ Θ mellom gjennomsnittlig temperatur på innsiden Θi og gjennomsnittlig temperatur på utsiden Θe ved stasjonær drift når den gjennomsnittlige temperatur på utsiden er konstant.
-2. Karosseriets gjennomsnittlige overflate S er det geometriske middel av dets innvendige overflate Si og dets utvendige overflate SeS = √Si SeNår de to overflater, Si og Se skal bestemmes, skal det tas hensyn til egenheter ved karosseriets oppbygning og overflate, slik som avrundinger, hjulkasser o.l., og dette skal tilkjennegis under en egnet overskrift i den nedenfor foreskrevne prøverapport. Dog skal overflate dekket av bølgeplate regnes for å ha det areal som platen dekker og ikke platens utbredte areal.
-3. For parallellepipedformede karosserier er den gjennomsnittlige innvendige temperatur (Θi) det aritmetiske middel av temperaturene målt i avstand 10 cm fra veggene i følgende 14 punkter:De 8 innvendige hjørner i karosserietMidtpunktene av de 6 innvendige flater.Har karosseriet ikke parallellepipedform, skal de 14 målepunkter være fordelt mest mulig tilfredsstillende ut fra karosseriets form.
-4. For parallellepipedformede karosserier er den gjennomsnittlige utvendige temperatur (Θe) det aritmetiske middel av temperaturene målt i avstand 10 cm fra veggene i følgende 14 punkter:De 8 utvendige hjørner på karosserietMidtpunktene av de 6 utvendige flater.Har karosseriet ikke parallellepipedform, skal de 14 målepunkter være fordelt mest mulig tilfredsstillende ut fra karosseriets form.
-5. Gjennomsnittstemperaturen i karosseriets vegger er det aritmetiske middel av den gjennomsnittlige utvendige temperatur og den gjennomsnittlige innvendige temperatur for karosseriet:(Θe + Θi / 2)
-6. Stasjonær drift. Driften skal anses som stasjonær når begge disse betingelser er oppfylt:Gjennomsnittstemperaturen på utsiden og gjennomsnittstemperaturen på innsiden, målt over en periode på minst 12 timer, skal ikke variere mer enn ±0,5°C.Differansen mellom den gjennomsnittlige varmekapasitet, målt over en periode på minst 3 timer før og etter den foran omtalte periode på 12 timer, skal være mindre enn 3 %.
+1. K-verdi. Den samlede varmegjennomgangskoeffisient (K-verdi, i noen land kalt U-koeffisient), som representerer kapasiteten for materiellets isolasjon, er definert ved følgende formel:
+
+   - K = W / S Δ Θ
+
+   hvor W er varmekapasiteten som er nødvendig i et karosseri med gjennomsnittlig overflate S for å opprettholde en absolutt differanse Δ Θ mellom gjennomsnittlig temperatur på innsiden Θi og gjennomsnittlig temperatur på utsiden Θe ved stasjonær drift når den gjennomsnittlige temperatur på utsiden er konstant.
+2. Karosseriets gjennomsnittlige overflate S er det geometriske middel av dets innvendige overflate Si og dets utvendige overflate Se
+
+   - S = √Si Se
+
+   Når de to overflater, Si og Se skal bestemmes, skal det tas hensyn til egenheter ved karosseriets oppbygning og overflate, slik som avrundinger, hjulkasser o.l., og dette skal tilkjennegis under en egnet overskrift i den nedenfor foreskrevne prøverapport. Dog skal overflate dekket av bølgeplate regnes for å ha det areal som platen dekker og ikke platens utbredte areal.
+3. For parallellepipedformede karosserier er den gjennomsnittlige innvendige temperatur (Θi) det aritmetiske middel av temperaturene målt i avstand 10 cm fra veggene i følgende 14 punkter:
+
+   1. De 8 innvendige hjørner i karosseriet
+   2. Midtpunktene av de 6 innvendige flater.
+
+   Har karosseriet ikke parallellepipedform, skal de 14 målepunkter være fordelt mest mulig tilfredsstillende ut fra karosseriets form.
+4. For parallellepipedformede karosserier er den gjennomsnittlige utvendige temperatur (Θe) det aritmetiske middel av temperaturene målt i avstand 10 cm fra veggene i følgende 14 punkter:
+
+   1. De 8 utvendige hjørner på karosseriet
+   2. Midtpunktene av de 6 utvendige flater.
+
+   Har karosseriet ikke parallellepipedform, skal de 14 målepunkter være fordelt mest mulig tilfredsstillende ut fra karosseriets form.
+5. Gjennomsnittstemperaturen i karosseriets vegger er det aritmetiske middel av den gjennomsnittlige utvendige temperatur og den gjennomsnittlige innvendige temperatur for karosseriet:
+
+   - (Θe + Θi / 2)
+6. Stasjonær drift. Driften skal anses som stasjonær når begge disse betingelser er oppfylt:
+
+   - Gjennomsnittstemperaturen på utsiden og gjennomsnittstemperaturen på innsiden, målt over en periode på minst 12 timer, skal ikke variere mer enn ±0,5°C.
+   - Differansen mellom den gjennomsnittlige varmekapasitet, målt over en periode på minst 3 timer før og etter den foran omtalte periode på 12 timer, skal være mindre enn 3 %.
 
 ### B. Materiellets isolasjonskapasitet. Prosedyre for måling av K-verdien.
 
@@ -76,7 +170,24 @@ eu_basis: []
 3. Under hele prøven skal gjennomsnittstemperaturen i det isolerte lokale holdes jevn og konstant innenfor ±0,5°C på et nivå mellom +15°C og +20°C. Gjennomsnittstemperaturen inne i tanken skal holdes mellom +45°C og +50°C ved stabil drift, og gjennomsnittstemperaturen i tankveggene skal være mellom +30°C og +35°C.
 4. Luften i lokalet skal være i stadig sirkulasjon, slik at lufthastigheten 10 cm fra veggene holdes mellom 1 og 2 m/s.
 5. Inne i tanken skal anbringes en varmeveksler. Dersom tanken har to eller flere rom, skal det anbringes en varmeveksler i hvert rom. Varmevekslerne skal være utstyrt med elektriske motstander samt en vifte som har tilstrekkelig kapasitet til å sørge for at differansen mellom høyeste og laveste temperatur i hvert rom ikke overstiger 30°C når stabil drift er etablert. Dersom tanken har to eller flere rom, skal differansen i gjennomsnittstemperatur mellom det kaldeste rom og det varmeste rom ikke overstige 2°C. Temperaturmålingene skal foretas som angitt i nummer 21 i dette appendix.
-6. Temperaturmålere, beskyttet mot stråling, skal anbringes på innsiden og på utsiden av karosseriet, 10 cm fra veggene, på følgende måte:Hvis tanken bare har ett rom, skal måling foretas:Ved de 4 endepunkter av 2 innbyrdes perpendikulære diametre, en horisontal og den andre vertikal, nær hver av tankens 2 enderVed de 4 endepunkter av 2 innbyrdes perpendikulære diametre som har en helningsvinkel med horisontalen på 45°, i tankens aksialplan, samtved sentrum i de to endebunner.Hvis tanken har 2 eller flere rom, skal måling foretas:i hvert av de 2 enderom:ved endepunktene av en horisontal diameter nær endebunnen samt endepunktene av en vertikal diameter nær deleveggen, samtved sentrum i endebunnenog i hvert av de andre rom, minst:ved endepunktene av en diameter som har en helningsvinkel med horisontalen 45°, nær den ene deleveggen samt ved endepunktene av en annen diameter, perpendikulært på den første, nær den andre deleveggen.Den gjennomsnittlige innvendige temperatur og den gjennomsnittlige utvendige temperatur for tanken skal være det aritmetiske middel av alle målinger som er foretatt henholdsvis innvendig i og utvendig på tanken. Når det dreier seg om en tank med 2 eller flere rom, skal gjennomsnittstemperaturen i rommet være det aritmetiske middel av samtlige målinger, minst 4 for angjeldende rom.
+6. Temperaturmålere, beskyttet mot stråling, skal anbringes på innsiden og på utsiden av karosseriet, 10 cm fra veggene, på følgende måte:
+
+   1. Hvis tanken bare har ett rom, skal måling foretas:
+
+      - Ved de 4 endepunkter av 2 innbyrdes perpendikulære diametre, en horisontal og den andre vertikal, nær hver av tankens 2 ender
+      - Ved de 4 endepunkter av 2 innbyrdes perpendikulære diametre som har en helningsvinkel med horisontalen på 45°, i tankens aksialplan, samt
+      - ved sentrum i de to endebunner.
+   2. Hvis tanken har 2 eller flere rom, skal måling foretas:
+
+      - i hvert av de 2 enderom:
+
+        - ved endepunktene av en horisontal diameter nær endebunnen samt endepunktene av en vertikal diameter nær deleveggen, samt
+        - ved sentrum i endebunnen
+      - og i hvert av de andre rom, minst:
+
+        - ved endepunktene av en diameter som har en helningsvinkel med horisontalen 45°, nær den ene deleveggen samt ved endepunktene av en annen diameter, perpendikulært på den første, nær den andre deleveggen.
+
+   Den gjennomsnittlige innvendige temperatur og den gjennomsnittlige utvendige temperatur for tanken skal være det aritmetiske middel av alle målinger som er foretatt henholdsvis innvendig i og utvendig på tanken. Når det dreier seg om en tank med 2 eller flere rom, skal gjennomsnittstemperaturen i rommet være det aritmetiske middel av samtlige målinger, minst 4 for angjeldende rom.
 7. Innretningene for oppvarming og sirkulasjon av luften samt for å måle mengden av varme som utveksles og av sirkulasjonsviftens varmeekvivalent skal settes i gang.
 8. Når stasjonær drift er oppnådd, skal største differanse mellom temperaturen på det varmeste og kaldeste sted utenpå tanken ikke overstige 2°C.
 9. Gjennomsnittstemperaturen på innsiden og gjennomsnittstemperaturen på utsiden av karosseriet skal avleses minst 4 ganger pr. time.
@@ -98,20 +209,46 @@ eu_basis: []
 
 ### iv) Kontroll av isolasjonens kapasitet i bruk
 
-1. Når hensikten er å kontrollere isolasjonens kapasitet for den enkelte materiellenhet i bruk, som foreskrevet i appendix 1, nummer 1 b) og 1 c) til dette annex, kan vedkommende myndighetgjøre bruk av metodene beskrevet i nummer 7 til 27 i dette appendix, ellerutnevne sakkyndige til å vurdere om materiellet er i slik stand at det kan beholde sin klassifisering som isolert materiell. Disse sakkyndige skal ta hensyn til følgende detaljer og bygge sin konklusjon på nedenstående kriterier.Alminnelig undersøkelse av materielletVed denne undersøkelse skal materiellet tas i øyesyn for i tur og orden å fastslå:den isolerende klednings alminnelige konstruksjonhvordan isoleringen er påførtveggenes art og tilstanddet isolerte roms tilstandveggtykkelsen.Herunder skal gjøres de nødvendige iakttagelser som har sammenheng med materiellets kapasitet når det gjelder isolasjonen. I den hensikt kan den sakkyndige forlange at deler av materiellet blir demontert og at alle nødvendige dokumenter (tegninger, prøverapporter, spesifikasjoner, fakturaer m.v.) blir fremlagt.Undersøkelse av luft-tetthet (gjelder ikke tankmateriell)Materiellet skal tas i øyesyn fra innsiden mens det befinner seg på et klart belyst område. Andre metoder som gir mer nøyaktige resultater kan brukes.VedtakDersom karosseriets alminnelige tilstand kan betegnes som bra, får materiellet fortsatt brukes som isolert materiell i den opprinnelige klasse i inntil 3 år. Hvis den eller de sakkyndige ikke kan betegne materiellet som bra, får det bare benyttes dersom det ved kontroll på prøvelaboratorium består prøvene beskrevet i nummer 7 til 27 i dette appendix. I så fall kan materiellet anvendes i en ytterligere periode på 6 år.
-2. Overgangsbestemmelser for nytt utstyr. I 4 år1 regnet fra den dato avtalen trer i kraft kan nytt utstyr prøves etter bestemmelsene i nummer 29 i dette appendix såfremt det ikke finnes laboratorier der K-verdien kan måles slik det er beskrevet i nummer 7 til 27. Det forutsettes da at isolasjonskapasiteten bedømmes etter disse retningslinjer:Det isolerende materiale i hovedelementene (vegger, gulv, tak, luker, dører etc.) skal ha tilnærmet ens tykkelse som i metrisk mål skal være større enn det tall som fremkommer når materialets termiske ledningskoeffisient i fuktige omgivelser divideres med den K-verdi som er fastsatt for den kategori utstyret skal godkjennes for.
+1. Når hensikten er å kontrollere isolasjonens kapasitet for den enkelte materiellenhet i bruk, som foreskrevet i appendix 1, nummer 1 b) og 1 c) til dette annex, kan vedkommende myndighet
+
+   - gjøre bruk av metodene beskrevet i nummer 7 til 27 i dette appendix, eller
+   - utnevne sakkyndige til å vurdere om materiellet er i slik stand at det kan beholde sin klassifisering som isolert materiell. Disse sakkyndige skal ta hensyn til følgende detaljer og bygge sin konklusjon på nedenstående kriterier.
+
+     1. Alminnelig undersøkelse av materiellet
+
+        Ved denne undersøkelse skal materiellet tas i øyesyn for i tur og orden å fastslå:
+
+        1. den isolerende klednings alminnelige konstruksjon
+        2. hvordan isoleringen er påført
+        3. veggenes art og tilstand
+        4. det isolerte roms tilstand
+        5. veggtykkelsen.
+
+        Herunder skal gjøres de nødvendige iakttagelser som har sammenheng med materiellets kapasitet når det gjelder isolasjonen. I den hensikt kan den sakkyndige forlange at deler av materiellet blir demontert og at alle nødvendige dokumenter (tegninger, prøverapporter, spesifikasjoner, fakturaer m.v.) blir fremlagt.
+     2. Undersøkelse av luft-tetthet (gjelder ikke tankmateriell)
+
+        Materiellet skal tas i øyesyn fra innsiden mens det befinner seg på et klart belyst område. Andre metoder som gir mer nøyaktige resultater kan brukes.
+     3. Vedtak
+
+        1. Dersom karosseriets alminnelige tilstand kan betegnes som bra, får materiellet fortsatt brukes som isolert materiell i den opprinnelige klasse i inntil 3 år. Hvis den eller de sakkyndige ikke kan betegne materiellet som bra, får det bare benyttes dersom det ved kontroll på prøvelaboratorium består prøvene beskrevet i nummer 7 til 27 i dette appendix. I så fall kan materiellet anvendes i en ytterligere periode på 6 år.
+2. Overgangsbestemmelser for nytt utstyr. I 4 år1 regnet fra den dato avtalen trer i kraft kan nytt utstyr prøves etter bestemmelsene i nummer 29 i dette appendix såfremt det ikke finnes laboratorier der K-verdien kan måles slik det er beskrevet i nummer 7 til 27. Det forutsettes da at isolasjonskapasiteten bedømmes etter disse retningslinjer:
+
+   Det isolerende materiale i hovedelementene (vegger, gulv, tak, luker, dører etc.) skal ha tilnærmet ens tykkelse som i metrisk mål skal være større enn det tall som fremkommer når materialets termiske ledningskoeffisient i fuktige omgivelser divideres med den K-verdi som er fastsatt for den kategori utstyret skal godkjennes for.
 
 1 I overensstemmelse med beslutning i Inland Transport Committee, møte nr. 30.
 
 ### C. Det tekniske utstyrs effektivitet.
 
-Prosedyre for å fastslå effektiviteten av det varmeregulerende utstyr.Det varmeregulerende utstyrs effektivitet skal fastslås på den måte som er beskrevet i nummer 32 til 47 i dette appendix.
+Prosedyre for å fastslå effektiviteten av det varmeregulerende utstyr.
+
+1. Det varmeregulerende utstyrs effektivitet skal fastslås på den måte som er beskrevet i nummer 32 til 47 i dette appendix.
 
 ### Kjøleutstyr
 
 1. Utstyret skal, i tom tilstand, anbringes i et isolert lokale hvor den gjennomsnittlige temperatur holdes jevn og konstant ved +30°C±0,5°C. Luften i lokalet, hvis fuktighet skal være regulert så duggpunktet befinner seg på +25°C±2°C, skal holdes i sirkulasjon slik det er beskrevet i nummer 9 i dette appendix.
 2. Temperaturmålere, beskyttet mot stråling, skal være anbragt på innsiden og utsiden av karosseriet slik det er spesifisert i nummer 3 og 4 i dette appendix.
-3. Når det gjelder utstyr som ikke er forsynt med fast monterte eutektiske elementer skal de dertil beregnede rom fylles med den maksimale mengde kjølemiddel som fabrikanten har foreskrevet, eller som det normalt er plass til. Dette skal skje når den gjennomsnittlige innvendige temperatur i karosseriet er den samme som den gjennomsnittlige utvendige temperatur (+30°C). Dører, luker og andre åpninger skal være lukket, og eventuell innretning for innvendig ventilasjon av utstyret skal settes igang med full effekt. Dessuten skal, når det gjelder nytt utstyr, et varmeapparat med en varmekapasitet tilsvarende 35% av den varme som går gjennom veggene ved kontinuerlig bruk settes i gang inne i karosseriet når en har nådd den temperatur som er fastsatt for den klasse utstyret skal tilhøre. Det skal ikke tilføres ytterligere kjølemiddel.Når det gjelder utstyr med fast monterte eutektiske elementer, skal prøven begynne med nedfrysing av den eutektiske løsning. Dette skal skje når den gjennomsnittlige innvendige temperatur i karosseriet og temperaturen i elementene har nådd den gjennomsnittlige utvendige temperatur (+30°C), og består i at apparatet for nedkjøling av elementene skal være i funksjon i 18 timer sammenhengende etter at dører og luker er lukket. Dersom nedfrysingsapparatet er innrettet med ensyklisk virkende mekanisme, skal det være i virksomhet i 24 timer i alt. Når det gjelder nytt utstyr skal, så snart nedfrysingsapparatet er stoppet, et varmeapparat med en varmekapasitet tilsvarende 35 % av den varme som går gjennom veggene ved kontinuerlig bruk settes igang inne i karosseriet når en har nådd den temperatur som er fastsatt for den klasse utstyret skal tilhøre. Den eutektiske løsning skal ikke utsettes for fornyet nedfrysing så lenge prøven varer.
+3. 1. Når det gjelder utstyr som ikke er forsynt med fast monterte eutektiske elementer skal de dertil beregnede rom fylles med den maksimale mengde kjølemiddel som fabrikanten har foreskrevet, eller som det normalt er plass til. Dette skal skje når den gjennomsnittlige innvendige temperatur i karosseriet er den samme som den gjennomsnittlige utvendige temperatur (+30°C). Dører, luker og andre åpninger skal være lukket, og eventuell innretning for innvendig ventilasjon av utstyret skal settes igang med full effekt. Dessuten skal, når det gjelder nytt utstyr, et varmeapparat med en varmekapasitet tilsvarende 35% av den varme som går gjennom veggene ved kontinuerlig bruk settes i gang inne i karosseriet når en har nådd den temperatur som er fastsatt for den klasse utstyret skal tilhøre. Det skal ikke tilføres ytterligere kjølemiddel.
+   2. Når det gjelder utstyr med fast monterte eutektiske elementer, skal prøven begynne med nedfrysing av den eutektiske løsning. Dette skal skje når den gjennomsnittlige innvendige temperatur i karosseriet og temperaturen i elementene har nådd den gjennomsnittlige utvendige temperatur (+30°C), og består i at apparatet for nedkjøling av elementene skal være i funksjon i 18 timer sammenhengende etter at dører og luker er lukket. Dersom nedfrysingsapparatet er innrettet med ensyklisk virkende mekanisme, skal det være i virksomhet i 24 timer i alt. Når det gjelder nytt utstyr skal, så snart nedfrysingsapparatet er stoppet, et varmeapparat med en varmekapasitet tilsvarende 35 % av den varme som går gjennom veggene ved kontinuerlig bruk settes igang inne i karosseriet når en har nådd den temperatur som er fastsatt for den klasse utstyret skal tilhøre. Den eutektiske løsning skal ikke utsettes for fornyet nedfrysing så lenge prøven varer.
 4. Den gjennomsnittlige utvendige og innvendige temperatur skal avleses minst hvert 30. minutt.
 5. Prøven skal fortsette i 12 timer etter at den gjennomsnittlige innvendige temperatur i karosseriet har nådd den nedre grense for den klasse utstyret skal tilhøre (A = +7°C, B = -10°C, C = -20°C) eller, når det gjelder utstyr med fast monterte eutektiske elementer, etter at nedfrysingsapparatet er stoppet. Prøven skal godkjennes hvis den gjenomsnittlige innvendige temperatur i karosseriet ikke overstiger den nevnte grense i løpet av disse 12 timer.
 
@@ -120,9 +257,18 @@ Prosedyre for å fastslå effektiviteten av det varmeregulerende utstyr.Det varm
 1. Prøven skal utføres slik det er beskrevet i nummer 32 og 33 i dette appendix.
 2. Når den gjennomsnittlige innvendige temperatur i karosseriet har nådd den utvendige temperatur (+30°C) skal dører, luker og andre åpninger lukkes og kjøleapparatet samt eventuelt innvendig ventilasjonsutstyr skal settes igang med full effekt. Dessuten skal, når det gjelder nytt utstyr, et varmeapparat med en varmekapasitet tilsvarende 35 % av den varme som går gjennom veggene ved kontinuerlig bruk settes igang inne i karosseriet når en har nådd den temperatur som er fastsatt for den klasse utstyret skal tilhøre.
 3. Den gjennomsnittlige utvendige og innvendige temperatur skal avleses minst hvert 30. minutt.
-4. Prøven skal fortsette i 12 timer etter at den gjennomsnittlige innvendige temperatur i karosseriet har nådd:enten den nedre grense som er fastsatt for den klasse utstyret skal tilhøre når det gjelder klassene A, B og C (A = 0°C, B = -10°C, C = -20°C), elleret nivå som ikke er lavere enn den øvre grense som er fastsatt for den klasse utstyret skal tilhøre når det gjelder klassene D, E og F (D = +2°C, E = -10°C, F = -20°C).Prøven skal godkjennes hvis kjøleapparatet er i stand til å opprettholde de fastsatte temperaturer disse 12 timer. Eventuell tid som medgår til automatisk avriming av kjøleapparatet skal ikke regnes med.
+4. Prøven skal fortsette i 12 timer etter at den gjennomsnittlige innvendige temperatur i karosseriet har nådd:
+
+   - enten den nedre grense som er fastsatt for den klasse utstyret skal tilhøre når det gjelder klassene A, B og C (A = 0°C, B = -10°C, C = -20°C), eller
+   - et nivå som ikke er lavere enn den øvre grense som er fastsatt for den klasse utstyret skal tilhøre når det gjelder klassene D, E og F (D = +2°C, E = -10°C, F = -20°C).
+
+   Prøven skal godkjennes hvis kjøleapparatet er i stand til å opprettholde de fastsatte temperaturer disse 12 timer. Eventuell tid som medgår til automatisk avriming av kjøleapparatet skal ikke regnes med.
 5. Dersom kjøleapparatet med alt tilhørende utstyr har vært separat prøvet og godkjent av vedkommende myndighet med hensyn til effektiv kjølekapasitet ved de fastsatte referansetemperaturer, kan transportutstyret godtas som kjøleutstyr uten at effektiviteten er prøvet dersom apparatets kjølekapasitet i kontinuerlig drift er større enn varmetapet gjennom veggene, for vedkommende klasse, multiplisert med faktoren 1,75. Dog gjelder dette ikke for utstyr som skal være referanseutstyr ifølge nummer 2 i appendix 1 til dette annex.
-6. Dersom det mekaniske kjøleapparat byttes ut med apparat av annen type, kan vedkommende myndighet:bestemme at utstyret skal gjennomgå slik prøve og kontroll som er fastsatt i nummer 37 til 40, ellerforvisse seg om at det nye mekaniske kjøleapparat med hensyn til effektiv kapasitet ved den temperatur som er fastsatt for vedkommende utstyr eller klasse, minst svarer til det apparat som er skiftet ut, ellerforvisse seg om at det nye kjøleapparat har en effektiv kjølekapasitet som fyller kravene i nummer 41.
+6. Dersom det mekaniske kjøleapparat byttes ut med apparat av annen type, kan vedkommende myndighet:
+
+   1. bestemme at utstyret skal gjennomgå slik prøve og kontroll som er fastsatt i nummer 37 til 40, eller
+   2. forvisse seg om at det nye mekaniske kjøleapparat med hensyn til effektiv kapasitet ved den temperatur som er fastsatt for vedkommende utstyr eller klasse, minst svarer til det apparat som er skiftet ut, eller
+   3. forvisse seg om at det nye kjøleapparat har en effektiv kjølekapasitet som fyller kravene i nummer 41.
 
 ### Oppvarmet utstyr
 
@@ -138,7 +284,35 @@ Prosedyre for å fastslå effektiviteten av det varmeregulerende utstyr.Det varm
 
 ### Kontroll av utstyr i bruk med hensyn til temperaturanleggets effektivitet.
 
-1. For å kontrollere kjøleutstyr, mekanisk nedkjølt utstyr eller oppvarmet utstyr i bruk med hensyn til effektiviteten av det temperaturregulerende anlegg, kan vedkommende myndighet:anvende de metoder som er beskrevet i nummer 32 til 47 i dette appendix, elleroppnevne sakkyndige som følger disse bestemmelser.KjøleutstyrDet må vises at den innvendige temperatur av utstyret i tom tilstand – etter først å ha vært bragt til samme nivå som temperaturen utenfor – kan bringes til grenseverdien for den klasse utstyret tilhører, slik det er fastsatt i dette annex og holdes under denne grenseverdi i en tid t som skal været > 12 Δ Θ / Δ Θ′Δ Θ er differansen mellom +30°C og nevnte grenseverdi, og Δ Θ′ er differansen mellom den gjennomsnittlige utvendige temperatur under prøven og den samme grenseverdi. Den utvendige temperatur skal ikke være lavere enn +15°C. Dersom resultatet er tilfredsstillende kan utstyret fortsatt brukes som kjøleutstyr i sin opprinnelige klasse i inntil 3 år.Mekanisk nedkjølt utstyrDet må vises at, når den utvendige temperatur ikke er lavere enn +15°C, skal den innvendige temperatur i utstyret i tom tilstand kunne bringes:når det gjelder utstyr i klassene A, B eller C, til den minimumstemperatur som er fastsatt i dette annex,når det gjelder utstyr i klassene D, E eller F, til den grenseverdi som er fastsatt i dette annex.Dersom resultatet er tilfredsstillende, kan utstyret fortsatt brukes som mekanisk nedkjølt utstyr i sin opprinnelige klasse i inntil 3 år.Oppvarmet utstyrDet må vises at differansen mellom temperaturen innvendig i og utenfor utstyret kan bringes til og holdes i minst 12 timer på det nivå som gjelder for den klasse utstyret tilhører, slik det er fastsatt i dette annex. (En differanse på 22°C i klasse A og 32°C i klasse B.)Dersom resultatet er tilfredsstillende, kan utstyret fortsatt brukes som oppvarmet utstyr i sin opprinnelige klasse i inntil 3 år.Fellesregler som gjelder for kjøleutstyr, mekanisk nedkjølt utstyr og oppvarmet utstyr.Dersom resultatet ikke er tilfredsstillende, kan kjøleutstyr, mekanisk nedkjølt utstyr eller oppvarmet utstyr fortsatt brukes i sin opprinnelige klasse bare dersom det ved godkjent laboratorium gjennomgår med tilfredsstillende resultat de prøver som er beskrevet i nummer 32 til 47 i dette appendix. Det kan da fortsatt brukes i sin opprinnelige klasse i en periode på 6 år.Dersom utstyret består av serieproduserte enheter av kjøleutstyr, mekanisk nedkjølt utstyr eller oppvarmet utstyr som fyller kravene i nummer 2 i appendix 1 til dette annex, og disse enheter har samme eier, kan kontroll skje ved at de temperaturregulerende apparater inspiseres for å fastslå om deres alminnelige tilstand ser ut til å være tilfredsstillende, samt at effektiviteten av kjøle- eller varmeinnretningene prøves etter reglene i nummer 32 til 47 i dette appendix på minst 10 % av det samlede antall enheter. Dersom såvel inspeksjonen som prøvinger av effektivitet gir tilfredsstillende resultat, kan alt angjeldende utstyr fortsatt brukes i sin opprinnelige klasse i en periode på 6 år.
+1. For å kontrollere kjøleutstyr, mekanisk nedkjølt utstyr eller oppvarmet utstyr i bruk med hensyn til effektiviteten av det temperaturregulerende anlegg, kan vedkommende myndighet:
+
+   - anvende de metoder som er beskrevet i nummer 32 til 47 i dette appendix, eller
+   - oppnevne sakkyndige som følger disse bestemmelser.
+
+     1. Kjøleutstyr
+
+        Det må vises at den innvendige temperatur av utstyret i tom tilstand – etter først å ha vært bragt til samme nivå som temperaturen utenfor – kan bringes til grenseverdien for den klasse utstyret tilhører, slik det er fastsatt i dette annex og holdes under denne grenseverdi i en tid t som skal være
+
+        - t > 12 Δ Θ / Δ Θ′
+
+        Δ Θ er differansen mellom +30°C og nevnte grenseverdi, og Δ Θ′ er differansen mellom den gjennomsnittlige utvendige temperatur under prøven og den samme grenseverdi. Den utvendige temperatur skal ikke være lavere enn +15°C. Dersom resultatet er tilfredsstillende kan utstyret fortsatt brukes som kjøleutstyr i sin opprinnelige klasse i inntil 3 år.
+     2. Mekanisk nedkjølt utstyr
+
+        Det må vises at, når den utvendige temperatur ikke er lavere enn +15°C, skal den innvendige temperatur i utstyret i tom tilstand kunne bringes:
+
+        - når det gjelder utstyr i klassene A, B eller C, til den minimumstemperatur som er fastsatt i dette annex,
+        - når det gjelder utstyr i klassene D, E eller F, til den grenseverdi som er fastsatt i dette annex.
+
+        Dersom resultatet er tilfredsstillende, kan utstyret fortsatt brukes som mekanisk nedkjølt utstyr i sin opprinnelige klasse i inntil 3 år.
+     3. Oppvarmet utstyr
+
+        Det må vises at differansen mellom temperaturen innvendig i og utenfor utstyret kan bringes til og holdes i minst 12 timer på det nivå som gjelder for den klasse utstyret tilhører, slik det er fastsatt i dette annex. (En differanse på 22°C i klasse A og 32°C i klasse B.)
+
+        Dersom resultatet er tilfredsstillende, kan utstyret fortsatt brukes som oppvarmet utstyr i sin opprinnelige klasse i inntil 3 år.
+     4. Fellesregler som gjelder for kjøleutstyr, mekanisk nedkjølt utstyr og oppvarmet utstyr.
+
+        1. Dersom resultatet ikke er tilfredsstillende, kan kjøleutstyr, mekanisk nedkjølt utstyr eller oppvarmet utstyr fortsatt brukes i sin opprinnelige klasse bare dersom det ved godkjent laboratorium gjennomgår med tilfredsstillende resultat de prøver som er beskrevet i nummer 32 til 47 i dette appendix. Det kan da fortsatt brukes i sin opprinnelige klasse i en periode på 6 år.
+        2. Dersom utstyret består av serieproduserte enheter av kjøleutstyr, mekanisk nedkjølt utstyr eller oppvarmet utstyr som fyller kravene i nummer 2 i appendix 1 til dette annex, og disse enheter har samme eier, kan kontroll skje ved at de temperaturregulerende apparater inspiseres for å fastslå om deres alminnelige tilstand ser ut til å være tilfredsstillende, samt at effektiviteten av kjøle- eller varmeinnretningene prøves etter reglene i nummer 32 til 47 i dette appendix på minst 10 % av det samlede antall enheter. Dersom såvel inspeksjonen som prøvinger av effektivitet gir tilfredsstillende resultat, kan alt angjeldende utstyr fortsatt brukes i sin opprinnelige klasse i en periode på 6 år.
 
 ### Overgangsbestemmelser som gjelder nytt utstyr
 
@@ -165,13 +339,42 @@ utstedt i overensstemmelse med konvensjonen om internasjonal transport av lett b
 3. Identifikasjonsnummer ......... tildelt av
 4. Eier eller bruker
 5. Innlevert av
-6. Er godkjent som4med en eller flere temperaturregulerende anordninger som:5er uavhengig(e)ikke er uavhengig(e)kan fjernesikke kan fjernes
-7. Grunnlag for utstedelse av sertifikatDette sertifikat er utstedt på grunnlag av:5prøving av materielletsamsvar med referansemateriellperiodisk ettersynovergangsbestemmelserDersom sertifikatet er utstedt på grunnlag av prøve, eller under henvisning til en annen materiellenhet av samme type som er prøvet, angi:6prøveinstituttethva slags prøverapportens (rapportenes) nummerK-verdienden effektive kjølekapasitet7 ved utvendig temperatur 30°C og innvendig temperatur ...... °C ...... W
-samme ved ...... °C ...... W
-samme ved ...... °C ...... W
-8. Dette sertifikat er gyldig tilunder forutsetning av:at det isolerte karosseri (og i tilfelle det temperaturregulerende utstyr) er holdt i god stand,at det ikke er foretatt vesentlige endringer av det temperaturregulerende utstyr, ogat dersom det temperaturregulerende utstyr er skiftet ut, skal det være med utstyr som har like stor eller større kjølekapasitet.
+6. Er godkjent som4
+
+   1. med en eller flere temperaturregulerende anordninger som:5
+
+      - er uavhengig(e)
+      - ikke er uavhengig(e)
+      - kan fjernes
+      - ikke kan fjernes
+7. Grunnlag for utstedelse av sertifikat
+
+   1. Dette sertifikat er utstedt på grunnlag av:5
+
+      - prøving av materiellet
+      - samsvar med referansemateriell
+      - periodisk ettersyn
+      - overgangsbestemmelser
+   2. Dersom sertifikatet er utstedt på grunnlag av prøve, eller under henvisning til en annen materiellenhet av samme type som er prøvet, angi:6
+
+      - prøveinstituttet
+      - hva slags prøve
+      - rapportens (rapportenes) nummer
+      - K-verdien
+      - den effektive kjølekapasitet7 ved utvendig temperatur 30°C og innvendig temperatur ...... °C ...... W
+        samme ved ...... °C ...... W
+        samme ved ...... °C ...... W
+8. Dette sertifikat er gyldig til
+
+   1. under forutsetning av:
+
+      - at det isolerte karosseri (og i tilfelle det temperaturregulerende utstyr) er holdt i god stand,
+      - at det ikke er foretatt vesentlige endringer av det temperaturregulerende utstyr, og
+      - at dersom det temperaturregulerende utstyr er skiftet ut, skal det være med utstyr som har like stor eller større kjølekapasitet.
 9. Sted ......
-10. Dato ......(Vedkommende myndighet)
+10. Dato ......
+
+    (Vedkommende myndighet)
 
 1 Nasjonalitetskjennemerke, slik det brukes i internasjonal vegtrafikk.
 

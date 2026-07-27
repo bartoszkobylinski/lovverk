@@ -15,7 +15,7 @@ xml_hash: "31fc20ba00a9c32002d5deb00596be39c0d020bad96db9c409e47dbebbb865c1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,12 @@ Forskriften her gjelder beregning og kontroll av engangsavgift for motorvogner s
 
 ### § 1-2. Tidspunkt for når avgiftsplikten oppstår
 
-Avgiftsplikt oppstår:ved første gangs registrering av motorvogner i det sentrale motorvognregisteret,når betingelsene for avgiftsfrihet, eller avgiftsnedsettelse ved første gangs registrering ikke lenger er oppfylt,når motorvognens avgiftsmessige status eller avgiftsmessige grunnlag endres etter første gangs registrering,når oppbygget motorvogn tas i bruk før ny registrering.
+Avgiftsplikt oppstår:
+
+1. ved første gangs registrering av motorvogner i det sentrale motorvognregisteret,
+2. når betingelsene for avgiftsfrihet, eller avgiftsnedsettelse ved første gangs registrering ikke lenger er oppfylt,
+3. når motorvognens avgiftsmessige status eller avgiftsmessige grunnlag endres etter første gangs registrering,
+4. når oppbygget motorvogn tas i bruk før ny registrering.
 
 ### § 1-3. Ansvar for avgiften
 
@@ -88,7 +93,17 @@ Motorvogner som omfattes av første ledd første punktum, skal avgiftsmessig kla
 
 Som campingbil anses motorvogn som er EU-typegodkjent som campingbil (M1 med karosserikode SA) og har en utvendig høyde på minst 250 cm. For campingbil med hevbart tak måles høyde med taket i senket posisjon.
 
-Motorvogn som ikke er EU-typegodkjent som campingbil anses som campingbil dersom følgende vilkår er oppfylt:Campingrommet bak førerseteraden må ha en permanent takhøyde på minst 170 cm i en lengde på minst 200 cm, og en bredde på minst 150 cm (målt uten innredning).Campingrommet må være utstyrt med kjøkkenbenk med vaskekum, klesskap, liggeplasser og bord. Utstyret skal være fastmontert.Kjøkkenbenken må minst være 80 x 40 cm, og vaskekummen må romme minst 5 liter.Klesskap må til sammen ha følgende minimumsmål; bredde 40 cm, dybde 40 cm, høyde 75 cm. Kravet til minimum bredde kan være fordelt på to eller flere skap.Bordet må ha en flate på minst 0,3 m2 ved normal bruk.Antall registrerte sitteplasser må ikke overstige antall liggeplasser. Liggeplassene kan være permanente, eller basert på sittegrupper og seter, herunder forseter.To liggeplasser må være minst 180 x 50 cm. Øvrige liggeplasser må være minst 160 x 50 cm.Liggeplasser beregnet til to eller flere personer tillates smalnet i fotenden med inntil 20 cm, i opptil 50 cm lengde.Ett av målekravene som nevnt i punktene 3–7 kan fravikes med inntil 10 %. Har en komponent flere målekrav (for eksempel bredde og høyde) gjelder muligheten kun ett av målene.
+Motorvogn som ikke er EU-typegodkjent som campingbil anses som campingbil dersom følgende vilkår er oppfylt:
+
+1. Campingrommet bak førerseteraden må ha en permanent takhøyde på minst 170 cm i en lengde på minst 200 cm, og en bredde på minst 150 cm (målt uten innredning).
+2. Campingrommet må være utstyrt med kjøkkenbenk med vaskekum, klesskap, liggeplasser og bord. Utstyret skal være fastmontert.
+3. Kjøkkenbenken må minst være 80 x 40 cm, og vaskekummen må romme minst 5 liter.
+4. Klesskap må til sammen ha følgende minimumsmål; bredde 40 cm, dybde 40 cm, høyde 75 cm. Kravet til minimum bredde kan være fordelt på to eller flere skap.
+5. Bordet må ha en flate på minst 0,3 m2 ved normal bruk.
+6. Antall registrerte sitteplasser må ikke overstige antall liggeplasser. Liggeplassene kan være permanente, eller basert på sittegrupper og seter, herunder forseter.
+7. To liggeplasser må være minst 180 x 50 cm. Øvrige liggeplasser må være minst 160 x 50 cm.
+8. Liggeplasser beregnet til to eller flere personer tillates smalnet i fotenden med inntil 20 cm, i opptil 50 cm lengde.
+9. Ett av målekravene som nevnt i punktene 3–7 kan fravikes med inntil 10 %. Har en komponent flere målekrav (for eksempel bredde og høyde) gjelder muligheten kun ett av målene.
 
 > Endret ved forskrifter [12 des 2008 nr. 1330](forskrift/2008-12-12-1330) (i kraft 1 jan 2009), [10 des 2021 nr. 3480](forskrift/2021-12-10-3480) (i kraft 1 jan 2022).
 
@@ -114,7 +129,10 @@ For motorvogner i avgiftsgruppe a, b og j som er godkjent etter testsyklusen WLT
 
 For motorvogner i avgiftsgruppe a, b og j som er godkjent etter testsyklusen NEDC (New European driving Cycle) skal CO2-komponenten beregnes på grunnlag av NEDC-verdien. Denne verdien skal multipliseres med 1,24 i avgiftsgruppe a og j, og med 1,22 i avgiftsgruppe b. Ved beregningen benyttes CO2-verdien som oppgis i feltet «kombinert» i typegodkjenningen eller enkeltgodkjenningen. For ladbare hybridbiler benyttes CO2-verdien som oppgis i feltet «vektet kombinert» tilsvarende.
 
-Dersom det ikke fremgår om motorvognen er testet etter NEDC eller WLTP, beregnes CO2-komponenten etter beregningsmåten forWLTP dersom motorvognen er førstegangsregistrert i utlandet 1. september 2018 eller senere, eller ikke tidligere er registrert i utlandetNEDC dersom motorvognen er førstegangsregistrert før 1. september 2018.
+Dersom det ikke fremgår om motorvognen er testet etter NEDC eller WLTP, beregnes CO2-komponenten etter beregningsmåten for
+
+1. WLTP dersom motorvognen er førstegangsregistrert i utlandet 1. september 2018 eller senere, eller ikke tidligere er registrert i utlandet
+2. NEDC dersom motorvognen er førstegangsregistrert før 1. september 2018.
 
 CO2-komponenten for motorvogner i avgiftsgruppe a, b og j med CO2-verdier som er basert på EPA (United States Environmental Protection Agency) eller NRCan (Natural Resources Canada) og som er fastsatt av vegmyndighetene, beregnes på grunnlag av disse fastsatte verdiene med beregningsmåten for CO2-komponenten som gjelder for WLTP.
 
@@ -210,7 +228,12 @@ Ambulanser er fritatt for avgift etter Stortingets vedtak om engangsavgift på m
 
 Begravelseskjøretøy er fritatt for avgift etter Stortingets vedtak om engangsavgift på motorvogner mv. § 8 bokstav g. Det er et vilkår for fritak at vedkommende motorvogn blir godkjent og registrert som begravelseskjøretøy ved første gangs registrering. Motorvognen må registreres på firma som driver begravelsesvirksomhet.
 
-Med begravelseskjøretøy menes motorvogn som er spesielt innrettet for transport av døde personer i kiste. For at motorvognen skal gis avgiftsmessig status som begravelseskjøretøy må følgende vilkår være oppfylt:Motorvognen skal ha en skillevegg mellom førerhus og bårerom.Bårerommets lengde må kunne romme en kiste på 225 cm inkl. håndtak når den står midtstilt i bårerommet.Bårerommet skal ha en glidebane egnet til å føre en kiste inn og ut med.Motorvognen skal ha fast montert lysanordning på taket hvor tros- eller livssynssymbol til enhver tid er godt synlig fra alle bilens sider. Selve symbolet kan være utskiftbart. Symbolbruk kan unnlates ved gravferd.
+Med begravelseskjøretøy menes motorvogn som er spesielt innrettet for transport av døde personer i kiste. For at motorvognen skal gis avgiftsmessig status som begravelseskjøretøy må følgende vilkår være oppfylt:
+
+1. Motorvognen skal ha en skillevegg mellom førerhus og bårerom.
+2. Bårerommets lengde må kunne romme en kiste på 225 cm inkl. håndtak når den står midtstilt i bårerommet.
+3. Bårerommet skal ha en glidebane egnet til å føre en kiste inn og ut med.
+4. Motorvognen skal ha fast montert lysanordning på taket hvor tros- eller livssynssymbol til enhver tid er godt synlig fra alle bilens sider. Selve symbolet kan være utskiftbart. Symbolbruk kan unnlates ved gravferd.
 
 > Endret ved forskrifter [4 mars 2003 nr. 281](forskrift/2003-03-04-281) (i kraft 15 mars 2003), [20 aug 2003 nr. 1080](forskrift/2003-08-20-1080), [26 jan 2009 nr. 63](forskrift/2009-01-26-63), [20 des 2019 nr. 2066](forskrift/2019-12-20-2066) (i kraft 1 jan 2020), [21 des 2022 nr. 2413](forskrift/2022-12-21-2413) (i kraft 1 jan 2023), [26 juni 2024 nr. 1321](forskrift/2024-06-26-1321) (i kraft 1 juli 2024), [17 des 2024 nr. 3311](forskrift/2024-12-17-3311) (i kraft 1 jan 2025).
 
@@ -340,7 +363,11 @@ Avgift må være betalt før motorvognen tas i bruk.
 
 ### § 6-2. Avgiftsfritak ved oppbygging av skadd motorvogn
 
-Skattekontoret kan etter søknad frita for avgift ved oppbygging av skadet norskregistrert motorvogn. Fritaket gis på følgende vilkår:Det må attesteres av politi/lensmann eller forsikringsselskap når skaden oppstod, hva skaden består av og dens omfang.Skadd selvbærende karosseri, eventuelt karosseri og ramme som blir utskiftet, må leveres til vraking på offentlig godkjent oppsamlingsplass for bilvrak. Gjenpart av vrakmeldingen skal sendes til skattekontoret sammen med anskaffelsesdokument for det nye karosseri/ramme.Statens vegvesen skal kontrollere og attestere at den skadde motorvognen teknisk og eksteriørmessig fremstår som identisk type motorvogn (samme merke/modell/byggemønster) som den skadde motorvognen før skade inntrådte.
+Skattekontoret kan etter søknad frita for avgift ved oppbygging av skadet norskregistrert motorvogn. Fritaket gis på følgende vilkår:
+
+1. Det må attesteres av politi/lensmann eller forsikringsselskap når skaden oppstod, hva skaden består av og dens omfang.
+2. Skadd selvbærende karosseri, eventuelt karosseri og ramme som blir utskiftet, må leveres til vraking på offentlig godkjent oppsamlingsplass for bilvrak. Gjenpart av vrakmeldingen skal sendes til skattekontoret sammen med anskaffelsesdokument for det nye karosseri/ramme.
+3. Statens vegvesen skal kontrollere og attestere at den skadde motorvognen teknisk og eksteriørmessig fremstår som identisk type motorvogn (samme merke/modell/byggemønster) som den skadde motorvognen før skade inntrådte.
 
 > Endret ved forskrifter [27 juli 2001 nr. 861](forskrift/2001-07-27-861) (i kraft 15 aug 2001), [25 nov 2003 nr. 1392](forskrift/2003-11-25-1392) (i kraft 1 jan 2004), [12 des 2003 nr. 1537](forskrift/2003-12-12-1537) (i kraft 1 jan 2004), [15 des 2015 nr. 1637](forskrift/2015-12-15-1637) (i kraft 1 jan 2016), [16 des 2022 nr. 2271](forskrift/2022-12-16-2271) (i kraft 1 jan 2023).
 
@@ -458,13 +485,24 @@ For å oppnå registrering må virksomheten være registrert i Foretaksregistere
 
 ### § 8-2. Adgang til å nekte eller trekke tilbake registrering
 
-Skattekontoret kan nekte eller trekke tilbake registrering dersom:virksomheten, styret eller ledelsen ikke kan anses kredittverdig,virksomheten har uoppgjorte restanser med hensyn til skatter, avgifter eller toll, eller har overtrådt regelverket om dette,virksomhetens karakter endres,virksomheten ikke overholder bestemmelsene etter [§ 8-3](forskrift/2001-03-19-268/§8-3) annet ledd til [§ 8-4](forskrift/2001-03-19-268/§8-4),virksomheten ikke lenger kan stille sikkerhet etter [§ 14-21-1 i skattebetalingsforskriften](forskrift/2007-12-21-1766/§14-21-1).
+Skattekontoret kan nekte eller trekke tilbake registrering dersom:
+
+1. virksomheten, styret eller ledelsen ikke kan anses kredittverdig,
+2. virksomheten har uoppgjorte restanser med hensyn til skatter, avgifter eller toll, eller har overtrådt regelverket om dette,
+3. virksomhetens karakter endres,
+4. virksomheten ikke overholder bestemmelsene etter [§ 8-3](forskrift/2001-03-19-268/§8-3) annet ledd til [§ 8-4](forskrift/2001-03-19-268/§8-4),
+5. virksomheten ikke lenger kan stille sikkerhet etter [§ 14-21-1 i skattebetalingsforskriften](forskrift/2007-12-21-1766/§14-21-1).
 
 > Endret ved forskrifter [12 des 2003 nr. 1537](forskrift/2003-12-12-1537) (i kraft 1 jan 2004), [21 des 2007 nr. 1775](forskrift/2007-12-21-1775) (i kraft 1 jan 2008), [26 nov 2014 nr. 1473](forskrift/2014-11-26-1473) (i kraft 1 jan 2015, tidligere § 7-2), [28 mai 2015 nr. 552](forskrift/2015-05-28-552), [15 des 2015 nr. 1637](forskrift/2015-12-15-1637) (i kraft 1 jan 2016).
 
 ### § 8-3. Søknad om registrering
 
-Søknad om registrering skal inneholde opplysninger om:budsjettert og nåværende omsetning,eventuelt tollkredittnummer,organisasjonsnummer,adresse.
+Søknad om registrering skal inneholde opplysninger om:
+
+1. budsjettert og nåværende omsetning,
+2. eventuelt tollkredittnummer,
+3. organisasjonsnummer,
+4. adresse.
 
 Endringer om disse forhold skal meddeles umiddelbart til skattekontoret.
 

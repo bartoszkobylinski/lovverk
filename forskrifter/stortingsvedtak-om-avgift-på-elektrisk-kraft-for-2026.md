@@ -15,7 +15,7 @@ xml_hash: "5ac5112db08a79a1dbb6b328d034970706d97e1f4b6c93b57233a4803806a371"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,12 @@ eu_basis: []
 
 Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen med 7,13 øre per kWh på elektrisk kraft som leveres her i landet.
 
-Det skal betales avgift med 0,6 øre per kWh for kraft tilindustri, bergverk, produksjon av fjernvarme og arbeidsmarkedsbedrifter som utøver industriproduksjon. Den reduserte satsen omfatter elektrisk kraft som benyttes i forbindelse med selve produksjonsprosessenbruk i Finnmark fylke og kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylkeskip i næringproduksjon eller omforming av energiprodukt. Den reduserte satsen omfatter elektrisk kraft som benyttes i forbindelse med selve produksjonsprosessen.
+Det skal betales avgift med 0,6 øre per kWh for kraft til
+
+1. industri, bergverk, produksjon av fjernvarme og arbeidsmarkedsbedrifter som utøver industriproduksjon. Den reduserte satsen omfatter elektrisk kraft som benyttes i forbindelse med selve produksjonsprosessen
+2. bruk i Finnmark fylke og kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylke
+3. skip i næring
+4. produksjon eller omforming av energiprodukt. Den reduserte satsen omfatter elektrisk kraft som benyttes i forbindelse med selve produksjonsprosessen.
 
 Det skal betales avgift ved uttak av elektrisk kraft til eget bruk.
 
@@ -36,7 +41,15 @@ Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunn
 
 ### § 2
 
-Det gis fritak for avgift på kraft som er produsert ienergigjenvinningsanlegg, og som leveres direkte til sluttbrukeraggregat med generator som har merkeytelse mindre enn 100 kVA, og som leveres direkte til sluttbrukernødstrømsaggregat når den normale elektrisitetsforsyning har sviktetmottrykksanleggsolceller, og som brukes direkte av produsenten selvfornybare energikilder, og som brukes på eiendommen hvor den er produsert,fornybare energikilder, og som brukes på næringsområdet hvor den er produsert.
+Det gis fritak for avgift på kraft som er produsert i
+
+1. energigjenvinningsanlegg, og som leveres direkte til sluttbruker
+2. aggregat med generator som har merkeytelse mindre enn 100 kVA, og som leveres direkte til sluttbruker
+3. nødstrømsaggregat når den normale elektrisitetsforsyning har sviktet
+4. mottrykksanlegg
+5. solceller, og som brukes direkte av produsenten selv
+6. fornybare energikilder, og som brukes på eiendommen hvor den er produsert,
+7. fornybare energikilder, og som brukes på næringsområdet hvor den er produsert.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 
@@ -44,7 +57,15 @@ Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for f
 
 ### § 3
 
-Det gis fritak for avgift på kraft tilhusholdninger og offentlig forvaltning i Finnmark fylke og kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylkeNATO eller NATOs hovedkvarter, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fredDen nordiske investeringsbanks offisielle virksomhetkjemisk reduksjon eller elektrolyse, metallurgiske og mineralogiske prosesserveksthusnæringenbruk i direkte sammenheng med produksjon av elektrisk kraftfremdrift av tog eller annet skinnegående transportmiddel, herunder oppvarming av og belysning i transportmiddelet. Fritaket omfatter også trolleybuss.
+Det gis fritak for avgift på kraft til
+
+1. husholdninger og offentlig forvaltning i Finnmark fylke og kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylke
+2. NATO eller NATOs hovedkvarter, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fred
+3. Den nordiske investeringsbanks offisielle virksomhet
+4. kjemisk reduksjon eller elektrolyse, metallurgiske og mineralogiske prosesser
+5. veksthusnæringen
+6. bruk i direkte sammenheng med produksjon av elektrisk kraft
+7. fremdrift av tog eller annet skinnegående transportmiddel, herunder oppvarming av og belysning i transportmiddelet. Fritaket omfatter også trolleybuss.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

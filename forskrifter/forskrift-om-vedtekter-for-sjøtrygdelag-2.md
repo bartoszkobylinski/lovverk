@@ -15,7 +15,7 @@ xml_hash: "99b779240e3b8e0e6bbaa4735e7ec6d887608e1327a7edd3c34f2556a2309af3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,13 +48,21 @@ Laget har sæte i ................herad/by.
 
 Føremålet for laget er ymsesidig trygding av etternemde trygdingsemne på dei vilkår som står i denne vedtekta og i dei ålmenne trygdevilkåra.
 
-Det kan gjevast trygding på................................................................................................................................................................................
+Det kan gjevast trygding på..........................
+
+..................................................
+
+..................................................
+
+..................................................
 
 ## Arbeidsområde.
 
 ### § 3
 
-Dei som kan takast inn i trygdelaget, er eigarar av ting som er nemde i [§ 2](forskrift/1956-11-09-9388/§2), når eigaren høyrer heime i..................................................
+Dei som kan takast inn i trygdelaget, er eigarar av ting som er nemde i [§ 2](forskrift/1956-11-09-9388/§2), når eigaren høyrer heime i
+
+..................................................
 
 Attertrygding fører ikkje med seg lagmannskap.
 
@@ -94,7 +102,16 @@ Lagsmøtet er vedtaksført når minst 10 lagsmenn møter. Er der ikkje så mange
 
 ### § 8
 
-På lagsmøtet skal dei:ha føre seg årsmelding frå styret og ettersedd rekneskap,taka avgjerd om korleis overskotet skal nyttast eller underskotet greiast opp,velja styre med varamenn i samsvar med [§ 9](forskrift/1956-11-09-9388/§9),velja ettersynsmann (-menn),velja takstmenn,avgjerda om dei valde tillitsmennene skal ha godtgjersle og då kor stor godtgjersle kvar skal ha,tilsetja forretningsfører og andre tenestemenn og fastsetja løn, aldersgrense, plikt til å stilla trygd og føresegner for dei, eller taka avgjerd om at styret skal gjera dette.ha føre seg andre saker som er nemde i innkallinga.
+På lagsmøtet skal dei:
+
+1. ha føre seg årsmelding frå styret og ettersedd rekneskap,
+2. taka avgjerd om korleis overskotet skal nyttast eller underskotet greiast opp,
+3. velja styre med varamenn i samsvar med [§ 9](forskrift/1956-11-09-9388/§9),
+4. velja ettersynsmann (-menn),
+5. velja takstmenn,
+6. avgjerda om dei valde tillitsmennene skal ha godtgjersle og då kor stor godtgjersle kvar skal ha,
+7. tilsetja forretningsfører og andre tenestemenn og fastsetja løn, aldersgrense, plikt til å stilla trygd og føresegner for dei, eller taka avgjerd om at styret skal gjera dette.
+8. ha føre seg andre saker som er nemde i innkallinga.
 
 Møtestyrar på lagsmøtet er styreformannen, og varaformannen når formannen ikkje er til stades, og elles ein serskild ordførar som lagsmøtet vel.
 
@@ -128,7 +145,14 @@ Styremøte skal haldast så ofte formannen meiner det er turvande, eller når ..
 
 Styret er målsmann for trygdelaget i alt som høyrer med til å driva verksemda.
 
-Elles skal styret:syta for at det vert laga årsrekneskap med jamvektsrekning og årsmelding,syta for at det vert laga, til bruk for lagsfolket, ei liste over alle skader som er melde, med opplysing om godkjend skadebotsum for regulerte skadar og pårekna skadebotsum for dei uregulerte,syta for at lagsmøtet vert samankalla,Fastsetje premi og trygdevilkår,syta for at lagseiga vert styrd på forsvarleg måte, herunder passa på at det vert stilt forsvarleg trygd,tilsetja forretningsførar og andre tenestemenn så framt lagsmøtet har lagt det gjeremålet til styret.
+Elles skal styret:
+
+1. syta for at det vert laga årsrekneskap med jamvektsrekning og årsmelding,
+2. syta for at det vert laga, til bruk for lagsfolket, ei liste over alle skader som er melde, med opplysing om godkjend skadebotsum for regulerte skadar og pårekna skadebotsum for dei uregulerte,
+3. syta for at lagsmøtet vert samankalla,
+4. Fastsetje premi og trygdevilkår,
+5. syta for at lagseiga vert styrd på forsvarleg måte, herunder passa på at det vert stilt forsvarleg trygd,
+6. tilsetja forretningsførar og andre tenestemenn så framt lagsmøtet har lagt det gjeremålet til styret.
 
 Styret skal føra møtebok for møta sine. Alle styresmenn som møter skal skriva under i boka.
 
@@ -158,7 +182,13 @@ I fall premi, rente og andre inntekter opptent i eit rekneskapsår, ikkje går m
 
 Vert reservefondet mindre enn 10 prosent av trygdesummen, skal det aukast som nevnt i fyrste leden.
 
-Reservefondet skal nyttast til å bera underskott på slik måte: ......... .............................................................................................................................................................................................
+Reservefondet skal nyttast til å bera underskott på slik måte: ......... .......................................
+
+..................................................
+
+..................................................
+
+..................................................
 
 ## Innmelding, takst.
 
@@ -180,7 +210,9 @@ Vedtektbrigde tek ikkje til å gjelda før dei er godkjende av Trygderådet.
 
 ### § 18
 
-Overskot når laget er oppløyst, skal nyttast så:..................................................
+Overskot når laget er oppløyst, skal nyttast så:
+
+..................................................
 
 ### § 18 a
 

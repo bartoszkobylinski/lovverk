@@ -42,7 +42,12 @@ Stønad ytes etter de takstene som gjelder på behandlingstiden.
 
 ### § 3
 
-Det ytes stønad til dekning av et medlems utgifter til:prøver og undersøkelser ved private medisinske laboratorierradiologiske undersøkelser og behandling ved private røntgenavdelinger eller røntgeninstituttersom omfattes av avtale mellom virksomheten og regionalt helseforetak, jf. [lov 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseforetak m.m. Avtalte volumbegrensninger har ikke virkning for et medlems rett til refusjon fra folketrygden.
+Det ytes stønad til dekning av et medlems utgifter til:
+
+1. prøver og undersøkelser ved private medisinske laboratorier
+2. radiologiske undersøkelser og behandling ved private røntgenavdelinger eller røntgeninstitutter
+
+som omfattes av avtale mellom virksomheten og regionalt helseforetak, jf. [lov 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseforetak m.m. Avtalte volumbegrensninger har ikke virkning for et medlems rett til refusjon fra folketrygden.
 
 Det er et vilkår for refusjon at undersøkelsen ved laboratorievirksomheten er rekvirert av lege, tannlege eller jordmor.
 
@@ -52,9 +57,20 @@ Det er et vilkår for refusjon at undersøkelsen ved røntgenvirksomheten er rek
 
 ### § 4
 
-Det ytes stønad etter honorartakstene:Ved kontrollundersøkelser under svangerskap, ved fødsel og ved behandling for sykdom i forbindelse med svangerskap og fødsel, og for en undersøkelse etter fødselen.Ved behandling av skade eller sykdom som går inn under [folketrygdloven kapittel 13](lov/1997-02-28-19/kap13), jf. lovens § 5-25 og under lovene om krigspensjonering. For militærpersoner er det likevel et vilkår at legehjelpen ikke gis av militærlege.Ved behandling av et medlem som er innsatt i fengselsvesenets anstalter, dersom undersøkelsen eller behandlingen foretas av annet personell enn det som er knyttet til fengselshelsetjenesten.Ved behandling hvor pasientens tilstand er til hinder for å innkreve egenandelen, for eksempel ved alvorlige sinnslidelser, behandling etter pasient- og [brukerrettighetsloven kapittel 4](lov/1999-07-02-63/kap4)A, større akutte skader, bevisstløshet og dødsfall. Laboratorie- og røntgenvirksomheten må kort begrunne kravet overfor Helsedirektoratet eller det organ Helsedirektoratet bestemmer.Ved psykoterapeutisk behandling av barn under 18 år.Ved behandling av barn under 16 år.Ved undersøkelse, behandling og kontroll for allmennfarlige smittsomme sykdommer (jf. [forskrift 1. januar 1995 nr. 100](forskrift/1995-01-01-100) om allmennfarlige smittsomme sykdommer).
+Det ytes stønad etter honorartakstene:
 
-Det ytes godtgjørelse etter honorartakstene dersomundersøkelse er rekvirert på grunn av allmennfarlig smittsom sykdom eller mistanke om allmennfarlig smittsom sykdom.det er behov for behandling eller kontroll for allmennfarlig smittsom sykdom.
+1. Ved kontrollundersøkelser under svangerskap, ved fødsel og ved behandling for sykdom i forbindelse med svangerskap og fødsel, og for en undersøkelse etter fødselen.
+2. Ved behandling av skade eller sykdom som går inn under [folketrygdloven kapittel 13](lov/1997-02-28-19/kap13), jf. lovens § 5-25 og under lovene om krigspensjonering. For militærpersoner er det likevel et vilkår at legehjelpen ikke gis av militærlege.
+3. Ved behandling av et medlem som er innsatt i fengselsvesenets anstalter, dersom undersøkelsen eller behandlingen foretas av annet personell enn det som er knyttet til fengselshelsetjenesten.
+4. Ved behandling hvor pasientens tilstand er til hinder for å innkreve egenandelen, for eksempel ved alvorlige sinnslidelser, behandling etter pasient- og [brukerrettighetsloven kapittel 4](lov/1999-07-02-63/kap4)A, større akutte skader, bevisstløshet og dødsfall. Laboratorie- og røntgenvirksomheten må kort begrunne kravet overfor Helsedirektoratet eller det organ Helsedirektoratet bestemmer.
+5. Ved psykoterapeutisk behandling av barn under 18 år.
+6. Ved behandling av barn under 16 år.
+7. Ved undersøkelse, behandling og kontroll for allmennfarlige smittsomme sykdommer (jf. [forskrift 1. januar 1995 nr. 100](forskrift/1995-01-01-100) om allmennfarlige smittsomme sykdommer).
+
+Det ytes godtgjørelse etter honorartakstene dersom
+
+1. undersøkelse er rekvirert på grunn av allmennfarlig smittsom sykdom eller mistanke om allmennfarlig smittsom sykdom.
+2. det er behov for behandling eller kontroll for allmennfarlig smittsom sykdom.
 
 Det ytes stønad etter denne bestemmelse til den som oppholder seg i Norge, selv om vedkommende ikke er medlem i folketrygden.
 
@@ -98,8 +114,15 @@ Hvis pasienten ikke møter til avtalt time hos privat røntgenvirksomhet uten å
 
 ## Kapittel II
 
-- Forkortelser:*Rep.* – står for repetisjon.*NCRP* – Norsk klassifikasjon av radiologiske prosedyrer.*Regningsid.* – står for regningsidentifikasjon.
-- Repetisjoner:*0* – betyr at taksten ikke kan repeteres på samme regningskort, dvs. at prosedyre/undersøkelse/behandling refunderes én gang selv om den gjentas.*Rep.* – betyr at taksten kan repeteres flere ganger på samme regningskort. Står det i stedet et tall, kan taksten repeteres dette antall ganger.
+- Forkortelser:
+
+  - *Rep.* – står for repetisjon.
+  - *NCRP* – Norsk klassifikasjon av radiologiske prosedyrer.
+  - *Regningsid.* – står for regningsidentifikasjon.
+- Repetisjoner:
+
+  - *0* – betyr at taksten ikke kan repeteres på samme regningskort, dvs. at prosedyre/undersøkelse/behandling refunderes én gang selv om den gjentas.
+  - *Rep.* – betyr at taksten kan repeteres flere ganger på samme regningskort. Står det i stedet et tall, kan taksten repeteres dette antall ganger.
 
 ### A. Takster for private medisinske laboratorievirksomheter
 
@@ -316,8 +339,13 @@ Til enhver poliklinisk nukleærmedisinsk prosedyre er det knyttet én og bare é
 
 *Merknad B1*
 
-- Se følgende dokumenter på hjemmesidene til HelsedirektoratetKodeverket «Norsk klassifikasjon av radiologiske prosedyrer (NCRP)» er samordnet med andre prosedyrekodeverk og inngår nå i kodeverket for medisinske, kirurgiske og radiologiske prosedyrer (NCMP, NCSP og NCRP).Kodeveiledning for NCRP inngår nå i «Regler og veiledning for kliniske kodeverk i spesialisthelsetjenesten (ICD 10, NCMP, NCSP og NCRP)».
-- Regelverket for den polikliniske finansieringsordningen finnes på Helfos nettsider ( [www.helfo.no](https://www.helfo.no)):«Regelverk for finansiering av poliklinisk radiologi ved private røntgeninstitutt i 2026».
+- Se følgende dokumenter på hjemmesidene til Helsedirektoratet
+
+  - Kodeverket «Norsk klassifikasjon av radiologiske prosedyrer (NCRP)» er samordnet med andre prosedyrekodeverk og inngår nå i kodeverket for medisinske, kirurgiske og radiologiske prosedyrer (NCMP, NCSP og NCRP).
+  - Kodeveiledning for NCRP inngår nå i «Regler og veiledning for kliniske kodeverk i spesialisthelsetjenesten (ICD 10, NCMP, NCSP og NCRP)».
+- Regelverket for den polikliniske finansieringsordningen finnes på Helfos nettsider ( [www.helfo.no](https://www.helfo.no)):
+
+  - «Regelverk for finansiering av poliklinisk radiologi ved private røntgeninstitutt i 2026».
 
 > Endret ved [forskrifter 30 des 2003 nr. 1801](forskrift/2003-12-30-1801) (i kraft 1 jan 2004), [31 mars 2004 nr. 609](forskrift/2004-03-31-609), [29 juni 2004 nr. 1058](forskrift/2004-06-29-1058) (i kraft 1 juli 2004), [21 des 2004 nr. 1823](forskrift/2004-12-21-1823) (i kraft 1 jan 2005), [1 sep 2005 nr. 1231](forskrift/2005-09-01-1231), [18 des 2005 nr. 1692](forskrift/2005-12-18-1692) (i kraft 1 jan 2006), [21 juni 2006 nr. 671](forskrift/2006-06-21-671) (i kraft 1 juli 2006), [18 des 2006 nr. 1511](forskrift/2006-12-18-1511) (i kraft 1 jan 2007), [19 des 2007 nr. 1657](forskrift/2007-12-19-1657) (i kraft 1 jan 2008), [26 juni 2008 nr. 733](forskrift/2008-06-26-733) (i kraft 1 juli 2008), [22 des 2008 nr. 1581](forskrift/2008-12-22-1581) (i kraft 1 jan 2009), [26 juni 2009 nr. 950](forskrift/2009-06-26-950) (i kraft 1 juli 2009), [21 des 2009 nr. 1732](forskrift/2009-12-21-1732) (i kraft 1 jan 2010), [23 juni 2010 nr. 962](forskrift/2010-06-23-962) (i kraft 1 juli 2010), [16 des 2010 nr. 1699](forskrift/2010-12-16-1699) (i kraft 1 jan 2011), [19 des 2011 nr. 1418](forskrift/2011-12-19-1418) (i kraft 1 jan 2012), [18 des 2012 nr. 1365](forskrift/2012-12-18-1365) (i kraft 1 jan 2013), [25. juni 2013 nr. 767](forskrift/2013-06-25-767) (i kraft 1 juli 2013), [17 des 2013 nr. 1562](forskrift/2013-12-17-1562) (i kraft 1 jan 2014), [24 juni 2014 nr. 858](forskrift/2014-06-24-858) (i kraft 1 juli 2014), [11 des 2014 nr. 1591](forskrift/2014-12-11-1591) (i kraft 1 jan 2015), [14 des 2015 nr. 1476](forskrift/2015-12-14-1476) (i kraft 1 jan 2016), [23 juni 2016 nr. 779](forskrift/2016-06-23-779) (i kraft 1 juli 2016), [20 des 2016 nr. 1773](forskrift/2016-12-20-1773) (i kraft 1 jan 2017), [15 des 2017 nr. 2343](forskrift/2017-12-15-2343) (i kraft 1 jan 2018), [27 juni 2018 nr. 1079](forskrift/2018-06-27-1079) (i kraft 1 juli 2018), [13 des 2018 nr. 1916](forskrift/2018-12-13-1916) (i kraft 1 jan 2019), [19 des 2018 nr. 2137](forskrift/2018-12-19-2137) (i kraft 1 jan 2019), [18 des 2019 nr. 1996](forskrift/2019-12-18-1996) (i kraft 1 jan 2020), [23 juni 2020 nr. 1350](forskrift/2020-06-23-1350) (i kraft 1 juli 2020), [10 des 2020 nr. 2744](forskrift/2020-12-10-2744) (i kraft 1 jan 2021), [18 des 2021 nr. 3774](forskrift/2021-12-18-3774) (i kraft 1 jan 2022), [19 des 2022 nr. 2369](forskrift/2022-12-19-2369) (i kraft 1 jan 2023), [30 juni 2023 nr. 1174](forskrift/2023-06-30-1174) (i kraft 1 juli 2023), [19 des 2023 nr. 2196](forskrift/2023-12-19-2196) (i kraft 1 jan 2024), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [26 juni 2024 nr. 1352](forskrift/2024-06-26-1352) (i kraft 1 juli 2024), [19 des 2024 nr. 3316](forskrift/2024-12-19-3316) (i kraft 1 jan 2025), [25 juni 2025 nr. 1323](forskrift/2025-06-25-1323) (i kraft 1 juli 2025), [18 des 2025 nr. 2686](forskrift/2025-12-18-2686) (i kraft 1 jan 2026), [4 feb 2026 nr. 145](forskrift/2026-02-04-145) (i kraft 9 feb 2026), [25 juni 2026 nr. 1359](forskrift/2026-06-25-1359) (i kraft 1 juli 2026).
 

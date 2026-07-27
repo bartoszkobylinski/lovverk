@@ -16,7 +16,7 @@ xml_hash: "f5c759e568bbbe24454acae38e031c3b573022ee22731f9fe60d225c8bf47f64"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -29,7 +29,17 @@ eu_basis: []
 
 ### § 1-1. Unntak fra kravet om oppholdstillatelse for arbeidsforhold
 
-Følgende utlendinger som ikke har arbeidsgiver i riket, er unntatt fra kravet om oppholdstillatelse for arbeidsforhold av inntil tre måneders varighet:handels- og forretningsreisende,personer med teknisk kompetanse som skal montere, demontere, etterse, reparere, vedlikeholde eller informere om bruken av maskiner eller teknisk utstyr, og behovet for arbeidskraften ikke strekker seg utover tre måneder,utlendinger i privat tjeneste hos personer som oppholder seg på besøk i riket i inntil tre måneder,profesjonelle idrettsutøvere og medfølgende støtteapparat,offentlig ansatte lønnet av annen stat, når de kommer til riket på grunnlag av samarbeidsavtale mellom utenlandske og norske myndigheter,journalister og annet personell på oppdrag for utenlandsk medieinstitusjon,turistguider for utenlandske reiseselskaper i forbindelse med besøk i riket,personell på utenlandsk tog, buss og lastebil i internasjonal trafikk,nødvendig vakt- og vedlikeholdsmannskap på utenlandsk eiet skip i opplag i riket.
+Følgende utlendinger som ikke har arbeidsgiver i riket, er unntatt fra kravet om oppholdstillatelse for arbeidsforhold av inntil tre måneders varighet:
+
+1. handels- og forretningsreisende,
+2. personer med teknisk kompetanse som skal montere, demontere, etterse, reparere, vedlikeholde eller informere om bruken av maskiner eller teknisk utstyr, og behovet for arbeidskraften ikke strekker seg utover tre måneder,
+3. utlendinger i privat tjeneste hos personer som oppholder seg på besøk i riket i inntil tre måneder,
+4. profesjonelle idrettsutøvere og medfølgende støtteapparat,
+5. offentlig ansatte lønnet av annen stat, når de kommer til riket på grunnlag av samarbeidsavtale mellom utenlandske og norske myndigheter,
+6. journalister og annet personell på oppdrag for utenlandsk medieinstitusjon,
+7. turistguider for utenlandske reiseselskaper i forbindelse med besøk i riket,
+8. personell på utenlandsk tog, buss og lastebil i internasjonal trafikk,
+9. nødvendig vakt- og vedlikeholdsmannskap på utenlandsk eiet skip i opplag i riket.
 
 Forskere, forelesere og religiøse forkynnere er unntatt fra kravet om oppholdstillatelse for arbeidsforhold av inntil tre måneders varighet. For religiøse forkynnere er det et krav at behovet for arbeidskraften ikke strekker seg utover tre måneder.
 
@@ -81,13 +91,21 @@ Britiske statsborgere som ikke har arbeidsgiver i Norge, og som faller inn under
 
 ### § 1-3. Unntak fra kravet om oppholdstillatelse for utlendinger som har adgang til å arbeide fram til søknaden er behandlet
 
-Utlendinger som har fått bekreftelse på at fullstendig utfylt søknad er levert og at det er adgang til å begynne å arbeide hos den bestemte arbeidsgiveren før søknaden er behandlet, jf. [§ 10-4](forskrift/2009-10-15-1286/§10-4), er unntatt fra kravet om oppholdstillatelse inntil søknaden er ferdig behandlet når de erfaglærte som søker tillatelse etter [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd,sjøfolk som søker tillatelse etter [§ 6-6](forskrift/2009-10-15-1286/§6-6), elleransatte i internasjonalt selskap som søker tillatelse som utsendte arbeidstakere, jf. [§ 6-13](forskrift/2009-10-15-1286/§6-13), eller praktikanter, jf. [§ 6-21](forskrift/2009-10-15-1286/§6-21). Utlendingsdirektoratet kan gi retningslinjer om hva som regnes som et internasjonalt selskap.
+Utlendinger som har fått bekreftelse på at fullstendig utfylt søknad er levert og at det er adgang til å begynne å arbeide hos den bestemte arbeidsgiveren før søknaden er behandlet, jf. [§ 10-4](forskrift/2009-10-15-1286/§10-4), er unntatt fra kravet om oppholdstillatelse inntil søknaden er ferdig behandlet når de er
+
+1. faglærte som søker tillatelse etter [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd,
+2. sjøfolk som søker tillatelse etter [§ 6-6](forskrift/2009-10-15-1286/§6-6), eller
+3. ansatte i internasjonalt selskap som søker tillatelse som utsendte arbeidstakere, jf. [§ 6-13](forskrift/2009-10-15-1286/§6-13), eller praktikanter, jf. [§ 6-21](forskrift/2009-10-15-1286/§6-21). Utlendingsdirektoratet kan gi retningslinjer om hva som regnes som et internasjonalt selskap.
 
 > Endret ved [forskrift 4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 15 jan 2013).
 
 ### § 1-4. Unntak fra kravet om oppholdstillatelse for diplomater mv.
 
-Med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat, gjøres det unntak fra kravet om oppholdstillatelse for utlendinger som ertilknyttet diplomatiske eller lønnede konsulære stasjoner (representasjoner) i riket,ansatte i mellomstatlige organisasjoner eller konvensjonsorganer, ogoppdragstakere for mellomstatlige organisasjoner eller konvensjonsorganer.
+Med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat, gjøres det unntak fra kravet om oppholdstillatelse for utlendinger som er
+
+1. tilknyttet diplomatiske eller lønnede konsulære stasjoner (representasjoner) i riket,
+2. ansatte i mellomstatlige organisasjoner eller konvensjonsorganer, og
+3. oppdragstakere for mellomstatlige organisasjoner eller konvensjonsorganer.
 
 Det er et vilkår at utlendingen er tilmeldt og akseptert av Utenriksdepartementet, eventuelt annen norsk myndighet. Utlendinger som er tilknyttet diplomatiske eller lønnede konsulære stasjoner, må også være utsendt til stillingen av senderstatens myndighet i henhold til beordring eller tidsbegrenset tjenesteavtale. Det gis ikke tillatelse til annet arbeid i tillegg til dette ansettelsesforholdet, jf. lovens § 60.
 
@@ -119,9 +137,17 @@ Utenriksdepartementet kan utarbeide nærmere retningslinjer om utstedelse, oppbe
 
 ### § 1-6. Unntak fra kravet om oppholdstillatelse for militærpersonell mv.
 
-Det gjøres unntak fra kravet om oppholdstillatelse i lovens § 55 annet ledd (oppholdstillatelse for å ta opphold i riket utover tre måneder uten å ta arbeid) formilitærpersonell som tilhører medlemsstat i NATO, herunder militærpersonell tilknyttet et alliert hovedkvarter på tjenesteoppdrag, som er stasjonert eller deltar i øvelser på norsk territorium med hjemmel i Avtale mellom partene i Traktat for det nordatlantiske område om status for deres styrker av 19. juni 1951 (NATO SOFA)militært eller sivilt personell i den amerikanske styrken, samt kontraktører tilknyttet den amerikanske styrken, som er i Norge i forbindelse med gjennomføringen av Tilleggsavtale om forsvarssamarbeid mellom Norge og USA av 16. april 2021 (SDCA)ektefelle eller samboer og forsørgede barn av militært eller sivilt personell som nevnt i bokstav a og b, samt øvrig familiemedlem, jf. SDCA artikkel 2 nr. 6, til militært eller sivilt personell som nevnt i bokstav b.
+Det gjøres unntak fra kravet om oppholdstillatelse i lovens § 55 annet ledd (oppholdstillatelse for å ta opphold i riket utover tre måneder uten å ta arbeid) for
 
-Det gjøres unntak fra kravet om oppholdstillatelse i lovens § 55 første ledd (oppholdstillatelse som gir rett til å ta arbeid eller drive ervervsvirksomhet) formilitært og sivilt personell som nevnt i første ledd bokstav a og b, for så vidt gjelder arbeid som følger av tjenesteforholdet med senderstatenkontraktør som nevnt i første ledd bokstav b, for så vidt gjelder arbeid og oppdrag utført for den amerikanske styrkenfamiliemedlem til militært eller sivilt personell i den amerikanske styrken som nevnt i første ledd bokstav c, for så vidt gjelder arbeid i forbindelse med drift av militære tjenesteaktiviteter og postkontorer som nevnt i SDCA artikkel 21 og 22. Tilsvarende gjelder for ektefelle eller samboer og barn av militærpersonell som nevnt i første ledd bokstav a.
+1. militærpersonell som tilhører medlemsstat i NATO, herunder militærpersonell tilknyttet et alliert hovedkvarter på tjenesteoppdrag, som er stasjonert eller deltar i øvelser på norsk territorium med hjemmel i Avtale mellom partene i Traktat for det nordatlantiske område om status for deres styrker av 19. juni 1951 (NATO SOFA)
+2. militært eller sivilt personell i den amerikanske styrken, samt kontraktører tilknyttet den amerikanske styrken, som er i Norge i forbindelse med gjennomføringen av Tilleggsavtale om forsvarssamarbeid mellom Norge og USA av 16. april 2021 (SDCA)
+3. ektefelle eller samboer og forsørgede barn av militært eller sivilt personell som nevnt i bokstav a og b, samt øvrig familiemedlem, jf. SDCA artikkel 2 nr. 6, til militært eller sivilt personell som nevnt i bokstav b.
+
+Det gjøres unntak fra kravet om oppholdstillatelse i lovens § 55 første ledd (oppholdstillatelse som gir rett til å ta arbeid eller drive ervervsvirksomhet) for
+
+1. militært og sivilt personell som nevnt i første ledd bokstav a og b, for så vidt gjelder arbeid som følger av tjenesteforholdet med senderstaten
+2. kontraktør som nevnt i første ledd bokstav b, for så vidt gjelder arbeid og oppdrag utført for den amerikanske styrken
+3. familiemedlem til militært eller sivilt personell i den amerikanske styrken som nevnt i første ledd bokstav c, for så vidt gjelder arbeid i forbindelse med drift av militære tjenesteaktiviteter og postkontorer som nevnt i SDCA artikkel 21 og 22. Tilsvarende gjelder for ektefelle eller samboer og barn av militærpersonell som nevnt i første ledd bokstav a.
 
 Familiemedlem som nevnt i første ledd bokstav c kan gis oppholdstillatelse som gir rett til å ta arbeid og drive ervervsvirksomhet. En erklæring fra Forsvarsdepartementet, eventuelt annen norsk myndighet, som dokumenterer status, må fremlegges i forbindelse med søknaden. Søknaden kan fremmes fra riket. Tillatelsen gis ikke utover varigheten av referansepersonens tjeneste eller ansettelsesforhold i riket og opphører idet tjenesten eller ansettelsesforholdet avsluttes. Tillatelsen danner ikke grunnlag for permanent oppholdstillatelse, men kan fornyes.
 
@@ -129,7 +155,14 @@ Familiemedlem som nevnt i første ledd bokstav c kan gis oppholdstillatelse som 
 
 ### § 1-7. Unntak fra kravet til pass i lovens § 8
 
-I stedet for pass, jf. lovens § 8, kan godtas gyldig legitimasjonsdokument utstedt av vedkommende internasjonale organisasjon til følgende personer:representant til De Forente Nasjoner (FN),tjenestemann fast ansatt i FN eller i FNs særorganisasjoner,dommer i Den internasjonale domstolen eller tjenestemann ved denne domstolens sekretariat,annen person som opptrer på vegne av FNs særorganisasjoners eller Den internasjonale domstolen,utlending med FN Laissez Passer reisedokument utferdiget i henhold til særskilt avtale med FN,tjenestemann eller annen representant for Den europeiske union (EU).
+I stedet for pass, jf. lovens § 8, kan godtas gyldig legitimasjonsdokument utstedt av vedkommende internasjonale organisasjon til følgende personer:
+
+1. representant til De Forente Nasjoner (FN),
+2. tjenestemann fast ansatt i FN eller i FNs særorganisasjoner,
+3. dommer i Den internasjonale domstolen eller tjenestemann ved denne domstolens sekretariat,
+4. annen person som opptrer på vegne av FNs særorganisasjoners eller Den internasjonale domstolen,
+5. utlending med FN Laissez Passer reisedokument utferdiget i henhold til særskilt avtale med FN,
+6. tjenestemann eller annen representant for Den europeiske union (EU).
 
 For militærpersonell som tilhører medlemsstat i NATO, herunder militærpersonell tilknyttet et alliert hovedkvarter på tjenesteoppdrag, kan det i stedet for pass godtas personlig identitetskort sammen med individuell eller kollektiv reiseordre. Identitetskortet må være utstedt av senderstaten og inneholde fotografi av innehaveren og opplysninger om navn, fødselsdato, grad og eventuelt tjenestenummer. Reiseordren må være utstedt av vedkommende myndighet i senderstaten eller i NATO og bekrefte enkeltpersonens eller gruppens status som medlem eller som medlemmer av en styrke, og den reise det er gitt ordre om.
 
@@ -141,7 +174,11 @@ Diplomater mv. som nevnt i [§ 1-4](forskrift/2009-10-15-1286/§1-4) første led
 
 Utlendinger som nevnt i første ledd kan gis visum av Utenriksdepartementet eller utenriksstasjon etter nærmere retningslinjer fastsatt av Utlendingsdirektoratet i samråd med Utenriksdepartementet.
 
-Unntatt fra visumplikt erutlendinger som nevnt i [§ 1-7](forskrift/2009-10-15-1286/§1-7), og deres ektefelle eller samboer og forsørgede barnmilitært personell som skal stasjoneres eller delta i øvelser på norsk territorium med hjemmel i Avtale mellom de stater som er parter i Traktat for det nordatlantiske område og de øvrige deltakerstater i Partnerskap for fred, om status for deres styrker av 19. juni 1995 (NATO PFP SOFA)militært og sivilt personell i den amerikanske styrken og deres medfølgende familiemedlemmer, jf. Tilleggsavtale om forsvarssamarbeid mellom Norge og USA av 16. april 2021 (SDCA) artikkel 2 nr. 6, samt kontraktører, som er i Norge i forbindelse med gjennomføringen av SDCA.
+Unntatt fra visumplikt er
+
+1. utlendinger som nevnt i [§ 1-7](forskrift/2009-10-15-1286/§1-7), og deres ektefelle eller samboer og forsørgede barn
+2. militært personell som skal stasjoneres eller delta i øvelser på norsk territorium med hjemmel i Avtale mellom de stater som er parter i Traktat for det nordatlantiske område og de øvrige deltakerstater i Partnerskap for fred, om status for deres styrker av 19. juni 1995 (NATO PFP SOFA)
+3. militært og sivilt personell i den amerikanske styrken og deres medfølgende familiemedlemmer, jf. Tilleggsavtale om forsvarssamarbeid mellom Norge og USA av 16. april 2021 (SDCA) artikkel 2 nr. 6, samt kontraktører, som er i Norge i forbindelse med gjennomføringen av SDCA.
 
 > Endret ved forskrift [27 feb 2023 nr. 258](forskrift/2023-02-27-258).
 
@@ -221,7 +258,16 @@ Norske fiskefartøy som leverer fangst i en norsk havn, og norske sjøfartøy so
 
 ### § 1-19. Definisjon av Schengensamarbeidet mv.
 
-I loven og forskriften, forstås med:*Indre Schengengrenser:*medlemsstatenes felles grenser på land, herunder grenser langs elver og innsjøer,medlemsstatenes lufthavner for interne flygninger,medlemsstatenes sjø-, elve- og innsjøhavner for regelmessige fergeforbindelser.*Ytre Schengengrenser:* medlemsstatenes landegrenser, herunder grenser i elver og innsjøer, sjøgrenser samt lufthavner, elvehavner, sjøhavner og innsjøhavner, såfremt de ikke er indre grenser.*Schengensamarbeidet:* samarbeidet om gjennomføringen, anvendelsen og videreutviklingen av Schengenregelverket om visum og grensekontroll i henhold til avtale Norge er part i.*Schengenland:* Stater som deltar i Schengensamarbeidet. Liste over Schengenland følger som vedlegg 3 til forskriften.
+I loven og forskriften, forstås med:
+
+1. *Indre Schengengrenser:*
+
+   - medlemsstatenes felles grenser på land, herunder grenser langs elver og innsjøer,
+   - medlemsstatenes lufthavner for interne flygninger,
+   - medlemsstatenes sjø-, elve- og innsjøhavner for regelmessige fergeforbindelser.
+2. *Ytre Schengengrenser:* medlemsstatenes landegrenser, herunder grenser i elver og innsjøer, sjøgrenser samt lufthavner, elvehavner, sjøhavner og innsjøhavner, såfremt de ikke er indre grenser.
+3. *Schengensamarbeidet:* samarbeidet om gjennomføringen, anvendelsen og videreutviklingen av Schengenregelverket om visum og grensekontroll i henhold til avtale Norge er part i.
+4. *Schengenland:* Stater som deltar i Schengensamarbeidet. Liste over Schengenland følger som vedlegg 3 til forskriften.
 
 ## Kapittel 2. Krav til reisedokumenter for innreise i Norge
 
@@ -273,11 +319,21 @@ Kollektivpasset skal være utstedt av kompetent myndighet i reisedeltakernes hje
 
 Reiselederen må ha pass (nasjonalitetspass), jf. [§ 2-4](forskrift/2009-10-15-1286/§2-4). De enkelte deltakerne må ha med personlig identitetskort med fotografi utstedt av offentlig myndighet i hjemlandet.
 
-Kollektivpass for ungdom under 21 år som er utstedt i henhold til avtale 16. desember 1961 om reiser for ungdom på fellespass mellom Europarådets medlemsland, kan omfatte flyktninger og statsløse under denne aldersgrensen dersomutstederstaten har garantert tilbaketakelse selv om disse ikke returnerer sammen med reiseselskapet,navnene på de oppførte flyktninger og statsløse er adskilt fra navnene på utstederstatens egne borgere med tydelig angivelse av deres status, ogoverskriften i kollektivpasset angir tydelig at reiseselskapet ikke bare omfatter utstederstatens egne borgere.
+Kollektivpass for ungdom under 21 år som er utstedt i henhold til avtale 16. desember 1961 om reiser for ungdom på fellespass mellom Europarådets medlemsland, kan omfatte flyktninger og statsløse under denne aldersgrensen dersom
+
+1. utstederstaten har garantert tilbaketakelse selv om disse ikke returnerer sammen med reiseselskapet,
+2. navnene på de oppførte flyktninger og statsløse er adskilt fra navnene på utstederstatens egne borgere med tydelig angivelse av deres status, og
+3. overskriften i kollektivpasset angir tydelig at reiseselskapet ikke bare omfatter utstederstatens egne borgere.
 
 ### § 2-8. Sjøfolks identitetsbevis
 
-Sjøfolks identitetsbevis kan gjelde som reisedokument for utlending som kommer til riketfor å tiltre stilling på sjøfartøy som ligger i havn eller som er i ferd med å ankomme en havn på Schengenterritoriet, når utlendingen godtgjør ansettelse på sjøfartøyet og har til hensikt å reise direkte til vedkommende havnsom mannskap på sjøfartøy, og som etter fratreden skal returnere til hjemlandet eller reise ut av Schengenterritoriet, og som kan sannsynliggjøre dette ved å forevise billett eller dokumentere tilstrekkelige midler til reisensom mannskap på sjøfartøy og som under landlov oppholder seg i havnen eller tilgrensende kommuner, der sjøfartøyet liggerfor å arbeide som nødvendig vakt- og vedlikeholdsmannskap på sjøfartøy i opplag.fordi innreise er påkrevd av andre grunner.
+Sjøfolks identitetsbevis kan gjelde som reisedokument for utlending som kommer til riket
+
+1. for å tiltre stilling på sjøfartøy som ligger i havn eller som er i ferd med å ankomme en havn på Schengenterritoriet, når utlendingen godtgjør ansettelse på sjøfartøyet og har til hensikt å reise direkte til vedkommende havn
+2. som mannskap på sjøfartøy, og som etter fratreden skal returnere til hjemlandet eller reise ut av Schengenterritoriet, og som kan sannsynliggjøre dette ved å forevise billett eller dokumentere tilstrekkelige midler til reisen
+3. som mannskap på sjøfartøy og som under landlov oppholder seg i havnen eller tilgrensende kommuner, der sjøfartøyet ligger
+4. for å arbeide som nødvendig vakt- og vedlikeholdsmannskap på sjøfartøy i opplag.
+5. fordi innreise er påkrevd av andre grunner.
 
 Identitetskort for sjømann skal være utstedt av kompetent myndighet i den staten innehaveren er borger av, gi adgang til tilbakereise til denne staten og fylle vilkårene i [§ 2-4](forskrift/2009-10-15-1286/§2-4) annet og tredje ledd.
 
@@ -315,13 +371,33 @@ Når Utlendingsdirektoratet har besluttet at et dokument skal godkjennes som rei
 
 ### § 3-1. Unntak fra visumplikten
 
-Følgende utlendinger er unntatt fra visumplikten:nordiske borgere, jf. lovens § 5 annet ledd,utlendinger som er borgere av et land som er tilsluttet [EØS-avtalen](lov/1992-11-27-109) eller EFTA-konvensjonen,familiemedlemmer til utlendinger som er borgere av et land som er tilsluttet [EØS-avtalen](lov/1992-11-27-109) eller EFTA-konvensjonen, når vedkommende har oppholdskort i et annet EØS-land i samsvar med direktiv [2004/38/EF](eu/32004l0038*) artikkel 10 og artikkel 20,utlendinger som har oppholdstillatelse utstedt av et Schengenland, og som har gyldig reisedokument, jf. lovens § 9 annet ledd og Schengenkonvensjonen artikkel 21. Med oppholdstillatelse menes her tillatelse av en hvilken som helst art som gir rett til opphold på, og retur til, utstederlandets territorium. Utlendinger som har midlertidig oppholdstillatelse utstedt av et Schengenland med sikte på behandling av en søknad om asyl eller opphold, må i tillegg ha reisedokument utstedt av det land som har utstedt oppholdstillatelsen,utlendinger som er borgere av et land som er unntatt fra visumplikt i henhold til europapalaments- og rådsforordning [(EU) 2018/1806](eu/32018r1806) av 14. november 2018 med vedlegg og med de senere endringer som gjelder for Norge, jf. vedlegg 5 til forskriften,innehaver av reisebevis for flyktning utstedt i samsvar med overenskomst 15. oktober 1946 eller [flyktningkonvensjonen 28. juli 1951 av](traktat/1951-07-28-1) stat som har tiltrådt den europeiske overenskomst 20. april 1959 om opphevelse av visumtvangen for flyktninger, når det fremgår av reisebeviset at innehaveren har gyldig oppholdstillatelse i, eller gyldig returadgang til, den stat som har utstedt det. Liste over de stater som har tiltrådt overenskomsten 20. april 1959, følger som vedlegg 6 til forskriften,innehaver av reisebevis for flyktning utstedt som nevnt under bokstav f av stat som har tiltrådt overenskomst 23. november 1957 om flyktningsjømenn. Det er en forutsetning at det fremgår at innehaveren har gyldig returadgang til utstederstaten. Innehaveren må godtgjøre å skulle tiltre stilling på sjøfartøy i norsk havn eller havn i en stat som har sluttet seg til overenskomsten om flyktningsjømenn, og som innehaveren kan reise til enten direkte eller gjennom noen av de øvrige kontraherende stater. Liste over de stater som har tiltrådt overenskomsten følger som [vedlegg 7](forskrift/2009-10-15-1286/vedlegg7) til forskriften,innehavere av gyldig luftfartssertifikat som nevnt i [§ 2-9](forskrift/2009-10-15-1286/§2-9) og for den bruk som der er nevnt,innehavere av identitetsbevis for sjøfolk utstedt i samsvar med ILO-konvensjon nr. 108 eller ILO-konvensjon nr. 185, jf. forskriftens [§ 2-8](forskrift/2009-10-15-1286/§2-8) fjerde ledd. Liste over stater som har tiltrådt konvensjonene følger som [vedlegg 8](forskrift/2009-10-15-1286/vedlegg8) til forskriften,innehaver av filippinsk «Seafarer’s Identification and Record Book» eller filippinsk nasjonalitetspass, jf. skipsfartsavtale 22. oktober 1999 mellom Filippinene og Norge. Innehaveren må forevise skriftlig bekreftelse fra rederen eller rederens representant på at innehaveren skal tiltre stilling på sjøfartøy i norsk havn,anerkjente flyktninger og statsløse og andre uten statsborgerskap som er bosatt i et EU-land og som er innehaver av reisedokument utstedt av dette landet,visumpliktige skoleelever som er bosatt i et EU-land som har implementert rådsbeslutning 94/795/JHA, når disse reiser på klassetur i følge med lærer fra vedkommende skole,innehaver av gyldig reisedokument som også har gyldig grenseboerbevis jf. [§ 3-1a](forskrift/2009-10-15-1286/§3-1a), og som passerer landgrensen mellom Norge og Russland på grunnlag av grenseboerbeviset.
+Følgende utlendinger er unntatt fra visumplikten:
+
+1. nordiske borgere, jf. lovens § 5 annet ledd,
+2. utlendinger som er borgere av et land som er tilsluttet [EØS-avtalen](lov/1992-11-27-109) eller EFTA-konvensjonen,
+3. familiemedlemmer til utlendinger som er borgere av et land som er tilsluttet [EØS-avtalen](lov/1992-11-27-109) eller EFTA-konvensjonen, når vedkommende har oppholdskort i et annet EØS-land i samsvar med direktiv [2004/38/EF](eu/32004l0038*) artikkel 10 og artikkel 20,
+4. utlendinger som har oppholdstillatelse utstedt av et Schengenland, og som har gyldig reisedokument, jf. lovens § 9 annet ledd og Schengenkonvensjonen artikkel 21. Med oppholdstillatelse menes her tillatelse av en hvilken som helst art som gir rett til opphold på, og retur til, utstederlandets territorium. Utlendinger som har midlertidig oppholdstillatelse utstedt av et Schengenland med sikte på behandling av en søknad om asyl eller opphold, må i tillegg ha reisedokument utstedt av det land som har utstedt oppholdstillatelsen,
+5. utlendinger som er borgere av et land som er unntatt fra visumplikt i henhold til europapalaments- og rådsforordning [(EU) 2018/1806](eu/32018r1806) av 14. november 2018 med vedlegg og med de senere endringer som gjelder for Norge, jf. vedlegg 5 til forskriften,
+6. innehaver av reisebevis for flyktning utstedt i samsvar med overenskomst 15. oktober 1946 eller [flyktningkonvensjonen 28. juli 1951 av](traktat/1951-07-28-1) stat som har tiltrådt den europeiske overenskomst 20. april 1959 om opphevelse av visumtvangen for flyktninger, når det fremgår av reisebeviset at innehaveren har gyldig oppholdstillatelse i, eller gyldig returadgang til, den stat som har utstedt det. Liste over de stater som har tiltrådt overenskomsten 20. april 1959, følger som vedlegg 6 til forskriften,
+7. innehaver av reisebevis for flyktning utstedt som nevnt under bokstav f av stat som har tiltrådt overenskomst 23. november 1957 om flyktningsjømenn. Det er en forutsetning at det fremgår at innehaveren har gyldig returadgang til utstederstaten. Innehaveren må godtgjøre å skulle tiltre stilling på sjøfartøy i norsk havn eller havn i en stat som har sluttet seg til overenskomsten om flyktningsjømenn, og som innehaveren kan reise til enten direkte eller gjennom noen av de øvrige kontraherende stater. Liste over de stater som har tiltrådt overenskomsten følger som [vedlegg 7](forskrift/2009-10-15-1286/vedlegg7) til forskriften,
+8. innehavere av gyldig luftfartssertifikat som nevnt i [§ 2-9](forskrift/2009-10-15-1286/§2-9) og for den bruk som der er nevnt,
+9. innehavere av identitetsbevis for sjøfolk utstedt i samsvar med ILO-konvensjon nr. 108 eller ILO-konvensjon nr. 185, jf. forskriftens [§ 2-8](forskrift/2009-10-15-1286/§2-8) fjerde ledd. Liste over stater som har tiltrådt konvensjonene følger som [vedlegg 8](forskrift/2009-10-15-1286/vedlegg8) til forskriften,
+10. innehaver av filippinsk «Seafarer’s Identification and Record Book» eller filippinsk nasjonalitetspass, jf. skipsfartsavtale 22. oktober 1999 mellom Filippinene og Norge. Innehaveren må forevise skriftlig bekreftelse fra rederen eller rederens representant på at innehaveren skal tiltre stilling på sjøfartøy i norsk havn,
+11. anerkjente flyktninger og statsløse og andre uten statsborgerskap som er bosatt i et EU-land og som er innehaver av reisedokument utstedt av dette landet,
+12. visumpliktige skoleelever som er bosatt i et EU-land som har implementert rådsbeslutning 94/795/JHA, når disse reiser på klassetur i følge med lærer fra vedkommende skole,
+13. innehaver av gyldig reisedokument som også har gyldig grenseboerbevis jf. [§ 3-1a](forskrift/2009-10-15-1286/§3-1a), og som passerer landgrensen mellom Norge og Russland på grunnlag av grenseboerbeviset.
 
 > Endret ved [forskrifter 11 feb 2011 nr. 149](forskrift/2011-02-11-149), [11 mai 2012 nr. 418](forskrift/2012-05-11-418) (i kraft 29 mai 2012), [5 juli 2012 nr. 738](forskrift/2012-07-05-738) (i kraft 15 aug 2012), [20 des 2012 nr. 1392](forskrift/2012-12-20-1392), [21 mars 2014 nr. 328](forskrift/2014-03-21-328) (i kraft 31 mars 2014), [15 feb 2019 nr. 485](forskrift/2019-02-15-485), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022).
 
 ### § 3-1a. Grenseboerbevis
 
-En søker skal få utstedt grenseboerbevis med en varighet på inntil tre år, på de vilkår som fremgår av avtale av 2. november 2011 mellom Norge og Russland om forenkling av gjensidige reiser for grenseboere i Kongeriket Norge og Den Russiske Føderasjon, jf. Europarlaments- og rådsforordning [(EF) 1931/2006](eu/32006r1931*). Avtalen er inntatt som vedlegg 19 til forskriften. I henhold til avtalen må søkeren:være i besittelse av gyldig reisedokument,fremlegge dokumentasjon som bekrefter at vedkommende har vært lovlig bosatt i grenseområdet i minst de tre forutgående årene,underbygge at det finnes legitime grunner til regelmessig kryssing av den norsk russiske landegrensen under den lokale grensetrafikkordningen,ikke anses som en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen, ogikke være innmeldt i Schengen Information System(SIS).
+En søker skal få utstedt grenseboerbevis med en varighet på inntil tre år, på de vilkår som fremgår av avtale av 2. november 2011 mellom Norge og Russland om forenkling av gjensidige reiser for grenseboere i Kongeriket Norge og Den Russiske Føderasjon, jf. Europarlaments- og rådsforordning [(EF) 1931/2006](eu/32006r1931*). Avtalen er inntatt som vedlegg 19 til forskriften. I henhold til avtalen må søkeren:
+
+1. være i besittelse av gyldig reisedokument,
+2. fremlegge dokumentasjon som bekrefter at vedkommende har vært lovlig bosatt i grenseområdet i minst de tre forutgående årene,
+3. underbygge at det finnes legitime grunner til regelmessig kryssing av den norsk russiske landegrensen under den lokale grensetrafikkordningen,
+4. ikke anses som en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen, og
+5. ikke være innmeldt i Schengen Information System(SIS).
 
 Grenseboerbevis gir rett til å krysse den norsk-russiske landegrensen og oppholde seg i det angitte grenseområdet i en periode på inntil 15 dager. De rettigheter som følger av innvilget grenseboerbevis er betinget av at utlendingen foreviser gyldig grenseboerbevis ved passering av det internasjonale grensepasseringsstedet Storskog-Borisoglebsk.
 
@@ -387,7 +463,12 @@ Utlendingsdirektoratet kan gi nærmere retningslinjer for når en bankgaranti ka
 
 ### § 3-7. Forfall av bankgaranti etter § 3-6
 
-Der det er stilt bankgaranti etter forskriftens [§ 3-6](forskrift/2009-10-15-1286/§3-6), forfaller beløpet til betaling hvis utlendingen etter innreisenoppholder seg uten nødvendig tillatelse i Norge eller et annet Schengenland ut over det tidsrom som er angitt i det utstedte visumet,utvises etter reglene i lovens kapittel 8,søker beskyttelse etter lovens § 28 eller søker om oppholdstillatelse på annet grunnlag i riket uten å ha rett til å fremsette slik søknad etter forskriftens [§ 10-1](forskrift/2009-10-15-1286/§10-1), ellersøker beskyttelse i annet Schengenland.
+Der det er stilt bankgaranti etter forskriftens [§ 3-6](forskrift/2009-10-15-1286/§3-6), forfaller beløpet til betaling hvis utlendingen etter innreisen
+
+1. oppholder seg uten nødvendig tillatelse i Norge eller et annet Schengenland ut over det tidsrom som er angitt i det utstedte visumet,
+2. utvises etter reglene i lovens kapittel 8,
+3. søker beskyttelse etter lovens § 28 eller søker om oppholdstillatelse på annet grunnlag i riket uten å ha rett til å fremsette slik søknad etter forskriftens [§ 10-1](forskrift/2009-10-15-1286/§10-1), eller
+4. søker beskyttelse i annet Schengenland.
 
 Hvis forfall skjer etter første ledd bokstav a og oppholdet ikke har vart i mer enn én måned ut over det tidsrom som er angitt i det utstedte visumet, forfaller halvparten av beløpet til betaling. Det resterende beløpet frigis. Hvis oppholdet varer i mer enn én måned ut over det angitte tidsrom, forfaller hele beløpet til betaling. Beløpet forfaller ikke til betaling dersom utlendingen godtgjør at overskridelsen av visumtiden skyldes omstendigheter som ikke kan legges vedkommende til last.
 
@@ -421,7 +502,11 @@ Borgere av stater som nevnt i vedlegg 12 til forskriften og innehavere av reised
 
 Utlendinger som har gyldig oppholdstillatelse som nevnt i vedlegg 13 til forskriften, er unntatt fra kravet om lufthavntransittvisum. Tilsvarende gjelder innehavere av diplomat- og tjenestepass og utlendinger som nevnt i visumforordningen artikkel 3 nr. 5.
 
-Lufthavntransittvisum kan gis når søkeren hargyldig pass eller annet legitimasjonsdokument som er godkjent som reisedokument, jf. lovens § 8,returadgang til det landet søkeren oppholder seg i eller til et annet land, oggyldig billett til annet sted utenfor Schengen som er hovedbestemmelsessted.
+Lufthavntransittvisum kan gis når søkeren har
+
+1. gyldig pass eller annet legitimasjonsdokument som er godkjent som reisedokument, jf. lovens § 8,
+2. returadgang til det landet søkeren oppholder seg i eller til et annet land, og
+3. gyldig billett til annet sted utenfor Schengen som er hovedbestemmelsessted.
 
 Lufthavntransittvisum kan nektes når det foreligger omstendigheter som ville gitt grunn til å nekte utlendingen adgang til riket eller opphold i medhold av lovens § 17 (bortvisning) eller § 66 (utvisning), jf. grenseforordningen artikkel 6.
 
@@ -779,7 +864,11 @@ Vedtak om bortvisning skal anmerkes i utlendingens pass eller annet reisedokumen
 
 ### § 6-1. Oppholdstillatelse til faglærte mv.
 
-Arbeidstakere som minst er fagutdannet tilsvarende videregående skoles nivå, har fagbrev eller har utdanning fra høyskole eller universitet eller har spesielle kvalifikasjoner, har rett til oppholdstillatelse. Det er et vilkår atkompetansen anses som relevant for stillingen,det foreligger godkjenning eller autorisasjon fra relevant fagmyndighet i yrker hvor det er kvalifikasjonskrav i lov eller forskrift, ogarbeidstakeren omfattes av kvoten for faglærte, jf. [§ 6-12](forskrift/2009-10-15-1286/§6-12).
+Arbeidstakere som minst er fagutdannet tilsvarende videregående skoles nivå, har fagbrev eller har utdanning fra høyskole eller universitet eller har spesielle kvalifikasjoner, har rett til oppholdstillatelse. Det er et vilkår at
+
+1. kompetansen anses som relevant for stillingen,
+2. det foreligger godkjenning eller autorisasjon fra relevant fagmyndighet i yrker hvor det er kvalifikasjonskrav i lov eller forskrift, og
+3. arbeidstakeren omfattes av kvoten for faglærte, jf. [§ 6-12](forskrift/2009-10-15-1286/§6-12).
 
 For grupper av søkere kan vilkårene skjerpes når særlige hensyn tilsier det, ved å kreve fagutdanning på høyere nivå enn videregående skole for tillatelse som nevnt i første ledd. Utlendingsdirektoratet kan gi nærmere retningslinjer.
 
@@ -935,7 +1024,11 @@ Tillatelsen er bundet til det eller de oppdragene som følger av kontrakten, og 
 
 ### § 6-14. Oppholdstillatelse til selvstendige oppdragstakere
 
-Selvstendig næringsdrivende som er etablert i utlandet, kan få oppholdstillatelse i til sammen seks år. Oppdragstakere som har hatt tillatelse etter denne paragrafen med en samlet oppholdstid på seks år, kan gis ny tillatelse etter to års opphold utenfor Norge. Det er et vilkår for tillatelse etter denne bestemmelsen atdet er inngått kontrakt med en oppdragsgiver om å yte tjenester av begrenset varighet,oppdragstakeren har kompetanse som faglært, jf. [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd første punktum og annet punktum bokstav b, og kompetansen anses som relevant for gjennomføringen av oppdraget, ogdet fremgår av kontrakten at oppdragstakeren skal motta godtgjørelse som minst svarer til lønnskravet for arbeidstakere som omfattes av bestemmelsen for faglærte, jf. [§ 6-1](forskrift/2009-10-15-1286/§6-1) og [§ 6-13](forskrift/2009-10-15-1286/§6-13) annet ledd.
+Selvstendig næringsdrivende som er etablert i utlandet, kan få oppholdstillatelse i til sammen seks år. Oppdragstakere som har hatt tillatelse etter denne paragrafen med en samlet oppholdstid på seks år, kan gis ny tillatelse etter to års opphold utenfor Norge. Det er et vilkår for tillatelse etter denne bestemmelsen at
+
+1. det er inngått kontrakt med en oppdragsgiver om å yte tjenester av begrenset varighet,
+2. oppdragstakeren har kompetanse som faglært, jf. [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd første punktum og annet punktum bokstav b, og kompetansen anses som relevant for gjennomføringen av oppdraget, og
+3. det fremgår av kontrakten at oppdragstakeren skal motta godtgjørelse som minst svarer til lønnskravet for arbeidstakere som omfattes av bestemmelsen for faglærte, jf. [§ 6-1](forskrift/2009-10-15-1286/§6-1) og [§ 6-13](forskrift/2009-10-15-1286/§6-13) annet ledd.
 
 Det kan gis tillatelse selv om det konkrete tilbudet om oppdrag ikke er sammenhengende, jf. lovens § 24 første ledd bokstav d. Utlendingsdirektoratet kan gi nærmere retningslinjer.
 
@@ -979,11 +1072,23 @@ Oppholdstillatelsen kan tilbakekalles dersom en arbeidsgiver i utlandet ikke opp
 
 ### § 6-18. Oppholdstillatelse til selvstendig næringsdrivende
 
-Selvstendig næringsdrivende som skal drive varig næringsvirksomhet, har rett til oppholdstillatelse dersom det er nødvendig for etablering eller videre drift av virksomheten at den næringsdrivende oppholder seg i Norge og deltar aktivt i driften. Det er et vilkår atdet arbeidet som skal utføres i virksomheten, krever at den selvstendig næringsdrivende har kompetanse som faglært, jf. [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd første punktum og annet punktum bokstav b,det godtgjøres at det er økonomisk grunnlag for driften, ogdet foreligger tillatelse for virksomheten i henhold til øvrig lovgivning.
+Selvstendig næringsdrivende som skal drive varig næringsvirksomhet, har rett til oppholdstillatelse dersom det er nødvendig for etablering eller videre drift av virksomheten at den næringsdrivende oppholder seg i Norge og deltar aktivt i driften. Det er et vilkår at
+
+1. det arbeidet som skal utføres i virksomheten, krever at den selvstendig næringsdrivende har kompetanse som faglært, jf. [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd første punktum og annet punktum bokstav b,
+2. det godtgjøres at det er økonomisk grunnlag for driften, og
+3. det foreligger tillatelse for virksomheten i henhold til øvrig lovgivning.
 
 Det økonomiske grunnlaget er godtgjort dersom det er sannsynlig at den selvstendig næringsdrivende vil få tilstrekkelige midler fra drift av virksomheten til å oppfylle kravet til underhold i [§ 10-7](forskrift/2009-10-15-1286/§10-7) tredje ledd. Midler fra offentlige tilskuddsordninger kan inngå i vurderingen av det økonomiske grunnlaget. Utlendingsdirektoratet kan gi nærmere retningslinjer.
 
-Søkeren skal fremleggedokumentasjon på sin kompetanse og rolle i virksomheten,en nøyaktig beskrivelse av virksomhetens art,finansierings- og budsjettplaner,regnskap hvis det foreligger, ogforhåndsuttalelse om at nødvendige tillatelser fra annen myndighet vil bli gitt.Utlendingsdirektoratet kan gi nærmere retningslinjer.
+Søkeren skal fremlegge
+
+1. dokumentasjon på sin kompetanse og rolle i virksomheten,
+2. en nøyaktig beskrivelse av virksomhetens art,
+3. finansierings- og budsjettplaner,
+4. regnskap hvis det foreligger, og
+5. forhåndsuttalelse om at nødvendige tillatelser fra annen myndighet vil bli gitt.
+
+Utlendingsdirektoratet kan gi nærmere retningslinjer.
 
 Tillatelsen er bundet til den bestemte virksomheten, og den danner grunnlag for permanent oppholdstillatelse. Det kan i tillegg gis adgang til å ta arbeid som arbeidstaker når særlige grunner tilsier det. Utlendingsdirektoratet kan gi nærmere retningslinjer.
 
@@ -1071,7 +1176,10 @@ Tillatelsen danner ikke grunnlag for permanent oppholdstillatelse.
 
 ### § 6-28. Oppholdstillatelse til utlendinger som skal motta medisinsk behandling mv.
 
-Utlendinger som har tilbud om medisinsk behandling ved en behandlingsinstitusjon, kan få oppholdstillatelse i til sammen ett år. Det er et vilkår at utlendingenhar avtale med behandlingsinstitusjonen om å finansiere behandlingen med private midler eller offentlige midler fra hjemlandet, ogkan fremlegge bekreftelse fra behandlingsinstitusjonen på at behandlingen ikke skjer til fortrengsel for pasienter bosatt i Norge.
+Utlendinger som har tilbud om medisinsk behandling ved en behandlingsinstitusjon, kan få oppholdstillatelse i til sammen ett år. Det er et vilkår at utlendingen
+
+1. har avtale med behandlingsinstitusjonen om å finansiere behandlingen med private midler eller offentlige midler fra hjemlandet, og
+2. kan fremlegge bekreftelse fra behandlingsinstitusjonen på at behandlingen ikke skjer til fortrengsel for pasienter bosatt i Norge.
 
 En nødvendig ledsager til en utlending som nevnt i første ledd, kan få tillatelse.
 
@@ -1147,7 +1255,10 @@ Arbeidsgiver som ikke fyller vilkårene i [§ 6-8](forskrift/2009-10-15-1286/§6
 
 ### § 6-35. Eksportkontroll og andre tiltak for å hindre overføring av kunnskap og teknologi
 
-Tillatelser og rettigheter i medhold av [kapittel 6](forskrift/2009-10-15-1286/kap6) kan nektes, uten en nærmere vurdering av om nektelse også kan skje i medhold av lovens § 126 første ledd, dersomhensyn som nevnt i lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. (eksportkontrolloven) [§ 1](lov/1987-12-18-93/§1) første og annet ledd tilsier det,det er nødvendig for å gjennomføre tiltak som følger av bestemmelser i eller i medhold av [lov om gjennomføring av internasjonale sanksjoner (sanksjonsloven)](lov/2021-04-16-18).
+Tillatelser og rettigheter i medhold av [kapittel 6](forskrift/2009-10-15-1286/kap6) kan nektes, uten en nærmere vurdering av om nektelse også kan skje i medhold av lovens § 126 første ledd, dersom
+
+1. hensyn som nevnt i lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. (eksportkontrolloven) [§ 1](lov/1987-12-18-93/§1) første og annet ledd tilsier det,
+2. det er nødvendig for å gjennomføre tiltak som følger av bestemmelser i eller i medhold av [lov om gjennomføring av internasjonale sanksjoner (sanksjonsloven)](lov/2021-04-16-18).
 
 Tilsvarende kan det settes begrensninger eller vilkår.
 
@@ -1163,7 +1274,12 @@ Tilsvarende kan det settes begrensninger eller vilkår.
 
 ### § 7-2. Flyktningstatus til flyktningens nærmeste familiemedlemmer
 
-Flyktningens ektefelle eller samboer og barn som fyller vilkårene for å ha rett til oppholdstillatelse etter lovens § 40 til § 42, har rett til oppholdstillatelse som flyktning etter lovens § 28 sjette ledd, med mindresøkeren er flyktningens ektefelle eller samboer og familielivet er etablert etter at flyktningen forlot landet hvor flyktningen risikerer forfølgelse,søkeren har et annet statsborgerskap enn flyktningen,søkeren ikke ønsker status som flyktning, ellerandre særlige grunner taler mot det.
+Flyktningens ektefelle eller samboer og barn som fyller vilkårene for å ha rett til oppholdstillatelse etter lovens § 40 til § 42, har rett til oppholdstillatelse som flyktning etter lovens § 28 sjette ledd, med mindre
+
+1. søkeren er flyktningens ektefelle eller samboer og familielivet er etablert etter at flyktningen forlot landet hvor flyktningen risikerer forfølgelse,
+2. søkeren har et annet statsborgerskap enn flyktningen,
+3. søkeren ikke ønsker status som flyktning, eller
+4. andre særlige grunner taler mot det.
 
 ### Lovens § 32. Internasjonalt samarbeid mv. om behandling av søknader om opphold av beskyttelsesgrunner
 
@@ -1193,9 +1309,18 @@ En utlending som får oppholdstillatelse etter lovens § 34, kan få registrerin
 
 ### § 7-5a. Midlertidig kollektiv beskyttelse for personer fordrevet fra Ukraina
 
-Lovens § 34 gis straks anvendelse overforukrainske statsborgere bosatt i Ukraina før 24. februar 2022ukrainske statsborgere med lovlig opphold i Norge før 24. februar 2022, eller som har reist til Norge senere på grunnlag av en gitt oppholdstillatelse. Det er et vilkår at det tidligere oppholdsgrunnlaget er bortfalt eller vil bortfalle ikke senere enn to måneder etter fremsettelse av søknad om beskyttelsetredjelandsborgere og statsløse som har fått internasjonal beskyttelse eller tilsvarende nasjonal beskyttelse i Ukraina før 24. februar 2022nære familiemedlemmer av personer som nevnt i bokstav a, b og c som ektefelle, samboer, barn under 18 år og andre familiemedlemmer som var del av hovedpersonens husstand før 24. februar 2022.
+Lovens § 34 gis straks anvendelse overfor
 
-Første ledd gjelder ikke dersomdet er indikasjoner på at søkeren er omfattet av [utlendingsloven § 31](lov/2008-05-15-35/§31), eller at saken berører grunnleggende nasjonale interesser eller utenrikspolitiske hensyn som nevnt i [utlendingsloven § 126](lov/2008-05-15-35/§126)søkeren tidligere har hatt midlertidig kollektiv beskyttelse etter første ledd, men tillatelsen er opphørt, tilbakekalt eller ikke forlengetsøkeren er mann mellom 18 og 60 år, med mindre søkeren har foreldreansvar eller er verge, eller annet nært familiemedlem, for medfølgende barn eller barn i Norge og skal utøve omsorgen alene, er dokumentert fritatt fra eller åpenbart ute av stand til militærtjeneste i Ukraina, eller tilbys medisinsk evakuering til Norge via EUs ordning for sivil beredskap (UCPM) eller er medfølgende pårørende til søkere som tilbys slik evakuering.
+1. ukrainske statsborgere bosatt i Ukraina før 24. februar 2022
+2. ukrainske statsborgere med lovlig opphold i Norge før 24. februar 2022, eller som har reist til Norge senere på grunnlag av en gitt oppholdstillatelse. Det er et vilkår at det tidligere oppholdsgrunnlaget er bortfalt eller vil bortfalle ikke senere enn to måneder etter fremsettelse av søknad om beskyttelse
+3. tredjelandsborgere og statsløse som har fått internasjonal beskyttelse eller tilsvarende nasjonal beskyttelse i Ukraina før 24. februar 2022
+4. nære familiemedlemmer av personer som nevnt i bokstav a, b og c som ektefelle, samboer, barn under 18 år og andre familiemedlemmer som var del av hovedpersonens husstand før 24. februar 2022.
+
+Første ledd gjelder ikke dersom
+
+1. det er indikasjoner på at søkeren er omfattet av [utlendingsloven § 31](lov/2008-05-15-35/§31), eller at saken berører grunnleggende nasjonale interesser eller utenrikspolitiske hensyn som nevnt i [utlendingsloven § 126](lov/2008-05-15-35/§126)
+2. søkeren tidligere har hatt midlertidig kollektiv beskyttelse etter første ledd, men tillatelsen er opphørt, tilbakekalt eller ikke forlenget
+3. søkeren er mann mellom 18 og 60 år, med mindre søkeren har foreldreansvar eller er verge, eller annet nært familiemedlem, for medfølgende barn eller barn i Norge og skal utøve omsorgen alene, er dokumentert fritatt fra eller åpenbart ute av stand til militærtjeneste i Ukraina, eller tilbys medisinsk evakuering til Norge via EUs ordning for sivil beredskap (UCPM) eller er medfølgende pårørende til søkere som tilbys slik evakuering.
 
 Første ledd bokstav a, b og c gjelder ikke dersom søkeren har hatt fast bosted i et område av Ukraina som utlendingsmyndighetene legger til grunn at er trygt, med mindre søkeren tilbys medisinsk evakuering til Norge via EUs ordning for sivil beredskap (UCPM) eller er medfølgende pårørende til søkere som tilbys slik evakuering.
 
@@ -1217,7 +1342,13 @@ Retten til forlengelse etter femte ledd gjelder ikke dersom ordningen med midler
 
 Justis- og beredskapsdepartementet gir i samråd med Utenriksdepartementet nærmere retningslinjer for overføring av flyktninger mv., jf. lovens § 35 første ledd.
 
-Instanser som kan anmode om at en utlending skal gis innreisetillatelse etter lovens § 35 første ledd, er:FNs høykommissær for flyktninger,norsk utenriksstasjon,andre mellomstatlige organisasjoner,internasjonale straffedomstoler Norge har inngått vitnegjenbosettingsavtale med, ognorske frivillige organisasjoner i samsvar med retningslinjer som gis av departementet.
+Instanser som kan anmode om at en utlending skal gis innreisetillatelse etter lovens § 35 første ledd, er:
+
+1. FNs høykommissær for flyktninger,
+2. norsk utenriksstasjon,
+3. andre mellomstatlige organisasjoner,
+4. internasjonale straffedomstoler Norge har inngått vitnegjenbosettingsavtale med, og
+5. norske frivillige organisasjoner i samsvar med retningslinjer som gis av departementet.
 
 > Endret ved [forskrifter 18 feb 2010 nr. 188](forskrift/2010-02-18-188), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022).
 
@@ -1271,9 +1402,17 @@ Søknad om oppholdstillatelse etter første og annet ledd og søknad om adgang t
 
 ### § 8-4. Oppholdstillatelse til vitner i sak om menneskehandel
 
-En utlending som søker beskyttelse etter å ha avgitt vitneforklaring som fornærmet i en rettssak hvor det er tatt ut tiltale etter [straffeloven § 257](lov/2005-05-20-28/§257) (menneskehandel), skal innvilges oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse etter [utlendingsloven § 38](lov/2008-05-15-35/§38), med mindreutlendingen fyller vilkårene for beskyttelse etter lovens § 28, ellersærlige grunner taler mot at tillatelse gis.
+En utlending som søker beskyttelse etter å ha avgitt vitneforklaring som fornærmet i en rettssak hvor det er tatt ut tiltale etter [straffeloven § 257](lov/2005-05-20-28/§257) (menneskehandel), skal innvilges oppholdstillatelse som danner grunnlag for permanent oppholdstillatelse etter [utlendingsloven § 38](lov/2008-05-15-35/§38), med mindre
 
-Selv om vilkårene for oppholdstillatelse etter første ledd ikke er oppfylt, kan det innvilges oppholdstillatelse til utlending som har avgitt forklaring for retten eller for politiet i en straffesak, dersom det er sannsynliggjort at utlendingen har vært offer for menneskehandel og forklaringen har sammenheng med dette. Det er et vilkår at utlendingen har brutt med miljøet bak menneskehandelen og at det ikke foreligger særlige grunner som taler mot at tillatelse gis. Ved vurderingen av om det skal gis oppholdstillatelse skal det blant annet legges vekt på om utlendingenhar vært utsatt for trusler, represalier eller overgrep mot seg selv eller familien som følge av den avgitte forklaringen,risikerer trusler, represalier eller overgrep mot seg selv eller familien ved retur til hjemlandet som følge av den avgitte forklaringen,har samarbeidet med politiet under etterforskningen,er i en vanskelig sosial, helsemessig eller humanitær situasjon som følge av den avgitte forklaringen.
+1. utlendingen fyller vilkårene for beskyttelse etter lovens § 28, eller
+2. særlige grunner taler mot at tillatelse gis.
+
+Selv om vilkårene for oppholdstillatelse etter første ledd ikke er oppfylt, kan det innvilges oppholdstillatelse til utlending som har avgitt forklaring for retten eller for politiet i en straffesak, dersom det er sannsynliggjort at utlendingen har vært offer for menneskehandel og forklaringen har sammenheng med dette. Det er et vilkår at utlendingen har brutt med miljøet bak menneskehandelen og at det ikke foreligger særlige grunner som taler mot at tillatelse gis. Ved vurderingen av om det skal gis oppholdstillatelse skal det blant annet legges vekt på om utlendingen
+
+1. har vært utsatt for trusler, represalier eller overgrep mot seg selv eller familien som følge av den avgitte forklaringen,
+2. risikerer trusler, represalier eller overgrep mot seg selv eller familien ved retur til hjemlandet som følge av den avgitte forklaringen,
+3. har samarbeidet med politiet under etterforskningen,
+4. er i en vanskelig sosial, helsemessig eller humanitær situasjon som følge av den avgitte forklaringen.
 
 Bestemmelsen om krav til dokumentert identitet i [§ 8-12](forskrift/2009-10-15-1286/§8-12), gjelder tilsvarende.
 
@@ -1281,7 +1420,15 @@ Bestemmelsen om krav til dokumentert identitet i [§ 8-12](forskrift/2009-10-15-
 
 ### § 8-5. Vurderingen av sterke menneskelige hensyn i lovens § 38 ved søknad om oppholdstillatelse fra barn
 
-Ved vurderingen av sterke menneskelige hensyn etter lovens § 38, skal barns tilknytning til riket tillegges særlig vekt. Lengden av barnets opphold i Norge, sammenholdt med barnets alder, skal være et grunnleggende hensyn. Videre skal blant annet følgende vektlegges:barnets behov for stabilitet og kontinuitet,hvilke språk barnet snakker,barnets psykiske og fysiske helsesituasjon,barnets tilknytning til familie, venner og nærmiljø i Norge og i hjemlandet,barnets omsorgssituasjon i Norge,barnets omsorgssituasjon ved retur, ogden sosiale og humanitære situasjon ved retur.
+Ved vurderingen av sterke menneskelige hensyn etter lovens § 38, skal barns tilknytning til riket tillegges særlig vekt. Lengden av barnets opphold i Norge, sammenholdt med barnets alder, skal være et grunnleggende hensyn. Videre skal blant annet følgende vektlegges:
+
+1. barnets behov for stabilitet og kontinuitet,
+2. hvilke språk barnet snakker,
+3. barnets psykiske og fysiske helsesituasjon,
+4. barnets tilknytning til familie, venner og nærmiljø i Norge og i hjemlandet,
+5. barnets omsorgssituasjon i Norge,
+6. barnets omsorgssituasjon ved retur, og
+7. den sosiale og humanitære situasjon ved retur.
 
 Innvandringsregulerende hensyn vurderes etter lovens § 38 fjerde ledd.
 
@@ -1305,11 +1452,21 @@ Ved avveiningen mot innvandringsregulerende hensyn, skal et avslag være forsvar
 
 ### § 8-6. Behov for uttalelse fra gjenværende forelder i hjemlandet før oppholdstillatelse gis til medfølgende barn
 
-Dersom et barn under 18 år søker om oppholdstillatelse sammen med bare den ene av sine foreldre, må det vurderes om det skal innhentes uttalelse fra den andre forelderen dersom denne har del i foreldreansvaret. Ved vurderingen av om uttalelse skal innhentes, skal det legges vekt på hensynet til barnets beste og blant annet sees hen tilhva som er det faktiske og formelle forholdet mellom vedkommende forelder og barnet,om det ut fra omstendighetene i saken fremstår som forsvarlig å legge til grunn at vedkommende forelder ikke vil motsette seg at barnet innvilges oppholdstillatelse i Norge,de praktiske mulighetene for å innhente en uttalelse med tilstrekkelig notoritet,hvor lang tid det vil ta å innhente en uttalelse, ogom det er klart at oppholdstillatelse bør innvilges selv om samtykke fra vedkommende forelder nektes.
+Dersom et barn under 18 år søker om oppholdstillatelse sammen med bare den ene av sine foreldre, må det vurderes om det skal innhentes uttalelse fra den andre forelderen dersom denne har del i foreldreansvaret. Ved vurderingen av om uttalelse skal innhentes, skal det legges vekt på hensynet til barnets beste og blant annet sees hen til
+
+- hva som er det faktiske og formelle forholdet mellom vedkommende forelder og barnet,
+- om det ut fra omstendighetene i saken fremstår som forsvarlig å legge til grunn at vedkommende forelder ikke vil motsette seg at barnet innvilges oppholdstillatelse i Norge,
+- de praktiske mulighetene for å innhente en uttalelse med tilstrekkelig notoritet,
+- hvor lang tid det vil ta å innhente en uttalelse, og
+- om det er klart at oppholdstillatelse bør innvilges selv om samtykke fra vedkommende forelder nektes.
 
 ### § 8-7. Oppholdstillatelse i medhold av lovens § 38 ved praktiske hindringer for retur som utlendingen ikke selv rår over
 
-Utlendingsnemnda kan etter anmodning om omgjøring gi oppholdstillatelse etter lovens § 38 til en asylsøker som har fått endelig avslag. Det er en forutsetning for tillatelse at følgende vilkår er oppfylt:Det har gått tre år siden saksopprettelse uten at avslaget er iverksatt, og det er heller ikke sannsynlig at iverksettelse vil kunne la seg gjennomføre.Det er ikke tvil om søkerens identitet. Som hovedregel må søkeren ha medvirket til å avklare sin identitet under perioden som asylsøker, jf. [§ 17-7](forskrift/2009-10-15-1286/§17-7).Søkeren har bidratt til å muliggjøre retur, herunder bidratt til å skaffe seg hjemlandets reisedokument.
+Utlendingsnemnda kan etter anmodning om omgjøring gi oppholdstillatelse etter lovens § 38 til en asylsøker som har fått endelig avslag. Det er en forutsetning for tillatelse at følgende vilkår er oppfylt:
+
+1. Det har gått tre år siden saksopprettelse uten at avslaget er iverksatt, og det er heller ikke sannsynlig at iverksettelse vil kunne la seg gjennomføre.
+2. Det er ikke tvil om søkerens identitet. Som hovedregel må søkeren ha medvirket til å avklare sin identitet under perioden som asylsøker, jf. [§ 17-7](forskrift/2009-10-15-1286/§17-7).
+3. Søkeren har bidratt til å muliggjøre retur, herunder bidratt til å skaffe seg hjemlandets reisedokument.
 
 Dersom det er reist sak om utvisning etter lovens § 66, bortsett fra der utvisningsgrunnen er oversittelse av utreisefristen, kan det ikke gis tillatelse før spørsmålet om utvisning er avklart.
 
@@ -1323,7 +1480,18 @@ Tillatelse etter første ledd kan danne grunnlag for permanent oppholdstillatels
 
 Enslige, mindreårige asylsøkere som har fylt 16 år på vedtakstidspunktet og som ikke har annet grunnlag for opphold enn at norske myndigheter anser at søkeren er uten forsvarlig omsorg ved retur, kan gis oppholdstillatelse etter lovens § 38 første ledd til fylte 18 år. Tillatelsen kan ikke fornyes og danner ikke grunnlag for oppholdstillatelse for familiemedlemmer etter lovens kapittel 6.
 
-Ved vurderingen av om det skal gis en tidsbegrenset tillatelse etter første ledd eller en tillatelse etter lovens § 38, skal blant annet følgende momenter vektlegges:barnets alder,hvilke språk barnet snakker,barnets fysiske og psykiske helsesituasjon,barnets behov for stabilitet og kontinuitet,barnets tilknytning til familie, venner og nærmiljø i hjemlandet og i Norge,barnets omsorgssituasjon i Norge,den sosiale og humanitære situasjonen ved retur,om barnet henvises til internflukt og mangler omsorgspersoner, nettverk eller ressurser til å etablere seg i internfluktområdet,om barnet har vært utsatt for menneskehandel, overgrep eller omsorgssvikt, ogmedgått saksbehandlingstid, med mindre barnet selv har bidratt til at saken ikke er avgjort tidligere.
+Ved vurderingen av om det skal gis en tidsbegrenset tillatelse etter første ledd eller en tillatelse etter lovens § 38, skal blant annet følgende momenter vektlegges:
+
+1. barnets alder,
+2. hvilke språk barnet snakker,
+3. barnets fysiske og psykiske helsesituasjon,
+4. barnets behov for stabilitet og kontinuitet,
+5. barnets tilknytning til familie, venner og nærmiljø i hjemlandet og i Norge,
+6. barnets omsorgssituasjon i Norge,
+7. den sosiale og humanitære situasjonen ved retur,
+8. om barnet henvises til internflukt og mangler omsorgspersoner, nettverk eller ressurser til å etablere seg i internfluktområdet,
+9. om barnet har vært utsatt for menneskehandel, overgrep eller omsorgssvikt, og
+10. medgått saksbehandlingstid, med mindre barnet selv har bidratt til at saken ikke er avgjort tidligere.
 
 Å begrense tillatelsens varighet, slik at den gjelder til utlendingen fyller 18 år, skal være forsvarlig ut fra hensynet til barnets beste.
 
@@ -1349,7 +1517,10 @@ Utlending som har vært fast ansatt i norsk rederi og innehatt stilling om bord 
 
 ### § 8-12. Krav om dokumentert identitet før oppholdstillatelse gis
 
-Som vilkår for oppholdstillatelse etter lovens § 38 kreves det som hovedregel at utlendingen fremskaffer dokumentasjon på sin identitet, jf. lovens § 83 tredje ledd, med mindre det er mest sannsynlig at den oppgitte identiteten er riktig, ogutlendingens hjemland mangler en fungerende sentraladministrasjon, eller det av andre grunner er umulig å fremskaffe originalt gyldig pass eller annen tilsvarende legitimasjon med tilstrekkelig notoritet, ellerhensynet til søkerens sikkerhet tilsier at vedkommende ikke kan kreves å kontakte hjemlandets myndigheter.
+Som vilkår for oppholdstillatelse etter lovens § 38 kreves det som hovedregel at utlendingen fremskaffer dokumentasjon på sin identitet, jf. lovens § 83 tredje ledd, med mindre det er mest sannsynlig at den oppgitte identiteten er riktig, og
+
+1. utlendingens hjemland mangler en fungerende sentraladministrasjon, eller det av andre grunner er umulig å fremskaffe originalt gyldig pass eller annen tilsvarende legitimasjon med tilstrekkelig notoritet, eller
+2. hensynet til søkerens sikkerhet tilsier at vedkommende ikke kan kreves å kontakte hjemlandets myndigheter.
 
 Dersom det i andre tilfeller enn nevnt i første ledd besluttes å innvilge oppholdstillatelse etter lovens § 38, kan det gis en begrenset tillatelse etter lovens § 38 femte ledd.
 
@@ -1383,7 +1554,16 @@ Utlendingen må be om en prøving av vilkårene etter bestemmelsen her senest se
 
 For at fireårskravet etter lovens § 40a skal anses oppfylt, må arbeidet eller utdanningen sammenlagt utgjøre heltids aktivitet. Heltids høyere utdanning tilsvarer minst 60 studiepoeng per år.
 
-Som arbeid eller utdanning regnesinntektsgivende arbeid,grunnskole,videregående opplæring,universitet og høyskole,introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter [integreringsloven](lov/2020-11-06-127),kvalifiseringsprogram etter [lov om sosiale tjenester i arbeids- og velferdsforvaltningen kapittel 4](lov/2009-12-18-131/kap4),kvalifiseringstiltak som har et innhold som kan likestilles med aktivitetene nevnt i bokstav a til f,omsorg for barn i en periode på 46 uker etter fødsel eller adopsjon dersom referansepersonen har opptjent rett til foreldrepenger, jf. [folketrygdloven § 14-6](lov/1997-02-28-19/§14-6). Ved flerbarnsfødsler eller hvis flere barn blir adoptert samtidig, blir perioden utvidet med fem uker for hvert barn mer enn ett. Utlendingsdirektoratet kan gi retningslinjer om godskriving av permisjonstid fra utdanning på grunn av omsorg for barn.
+Som arbeid eller utdanning regnes
+
+1. inntektsgivende arbeid,
+2. grunnskole,
+3. videregående opplæring,
+4. universitet og høyskole,
+5. introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter [integreringsloven](lov/2020-11-06-127),
+6. kvalifiseringsprogram etter [lov om sosiale tjenester i arbeids- og velferdsforvaltningen kapittel 4](lov/2009-12-18-131/kap4),
+7. kvalifiseringstiltak som har et innhold som kan likestilles med aktivitetene nevnt i bokstav a til f,
+8. omsorg for barn i en periode på 46 uker etter fødsel eller adopsjon dersom referansepersonen har opptjent rett til foreldrepenger, jf. [folketrygdloven § 14-6](lov/1997-02-28-19/§14-6). Ved flerbarnsfødsler eller hvis flere barn blir adoptert samtidig, blir perioden utvidet med fem uker for hvert barn mer enn ett. Utlendingsdirektoratet kan gi retningslinjer om godskriving av permisjonstid fra utdanning på grunn av omsorg for barn.
 
 Perioder hvor referansepersonen mottar sykepenger, uførepensjon eller alderspensjon etter folketrygdloven regnes som arbeid. Stillingsbrøken fastsettes i henhold til den prosentandel som folketrygdytelsen utgjør av full stilling.
 
@@ -1451,9 +1631,25 @@ Ved vurdering av om tillatelse skal gis, skal det legges vekt på sannsynlighete
 
 ### § 9-6. Oppholdstillatelse for de nærmeste familiemedlemmer til utlending med oppholdstillatelse som ikke kan danne grunnlag for permanent oppholdstillatelse
 
-Det kan gis oppholdstillatelse til søker som nevnt i lovens § 40 til § 42 når referansepersonen, jf. lovens § 39, har eller får tillatelse som nevnt i forskriftens[§ 1-10](forskrift/2009-10-15-1286/§1-10) fjerde ledd (flyttbare innretninger),[§ 1-11](forskrift/2009-10-15-1286/§1-11) (faste innretninger),[§ 6-7](forskrift/2009-10-15-1286/§6-7) femte ledd (arbeidstaker som omfattes av gruppetillatelse),[§ 6-13](forskrift/2009-10-15-1286/§6-13) (utsendte arbeidstakere) og er ansatt i internasjonalt selskap,[§ 6-19](forskrift/2009-10-15-1286/§6-19) første og tredje ledd (studenter mv.),[§ 6-20](forskrift/2009-10-15-1286/§6-20) (forskere med egne midler),[§ 6-21](forskrift/2009-10-15-1286/§6-21) (praktikanter),[§ 6-22](forskrift/2009-10-15-1286/§6-22) første og tredje ledd (musikere, artister og kulturarbeidere mv.),[§ 6-23](forskrift/2009-10-15-1286/§6-23) (medarbeidere i ideelle, religiøse og humanitære organisasjoner),[§ 6-24](forskrift/2009-10-15-1286/§6-24) (fredskorpsdeltakere), eller[§ 6-31](forskrift/2009-10-15-1286/§6-31) første ledd (andre utlendinger).
+Det kan gis oppholdstillatelse til søker som nevnt i lovens § 40 til § 42 når referansepersonen, jf. lovens § 39, har eller får tillatelse som nevnt i forskriftens
 
-Det kan også gis oppholdstillatelse til søker som nevnt i lovens § 40 til § 42 når referansepersonen har eller får tillatelse som tjenesteyter for et oppdrag som varer i mer enn seks måneder etter forskriftens[§ 6-13](forskrift/2009-10-15-1286/§6-13) (utsendte arbeidstakere),[§ 6-14](forskrift/2009-10-15-1286/§6-14) (selvstendige oppdragstakere), eller[§ 6-15](forskrift/2009-10-15-1286/§6-15) sjette ledd (utsendte arbeidstakere som omfattes av gruppetillatelse).
+1. [§ 1-10](forskrift/2009-10-15-1286/§1-10) fjerde ledd (flyttbare innretninger),
+2. [§ 1-11](forskrift/2009-10-15-1286/§1-11) (faste innretninger),
+3. [§ 6-7](forskrift/2009-10-15-1286/§6-7) femte ledd (arbeidstaker som omfattes av gruppetillatelse),
+4. [§ 6-13](forskrift/2009-10-15-1286/§6-13) (utsendte arbeidstakere) og er ansatt i internasjonalt selskap,
+5. [§ 6-19](forskrift/2009-10-15-1286/§6-19) første og tredje ledd (studenter mv.),
+6. [§ 6-20](forskrift/2009-10-15-1286/§6-20) (forskere med egne midler),
+7. [§ 6-21](forskrift/2009-10-15-1286/§6-21) (praktikanter),
+8. [§ 6-22](forskrift/2009-10-15-1286/§6-22) første og tredje ledd (musikere, artister og kulturarbeidere mv.),
+9. [§ 6-23](forskrift/2009-10-15-1286/§6-23) (medarbeidere i ideelle, religiøse og humanitære organisasjoner),
+10. [§ 6-24](forskrift/2009-10-15-1286/§6-24) (fredskorpsdeltakere), eller
+11. [§ 6-31](forskrift/2009-10-15-1286/§6-31) første ledd (andre utlendinger).
+
+Det kan også gis oppholdstillatelse til søker som nevnt i lovens § 40 til § 42 når referansepersonen har eller får tillatelse som tjenesteyter for et oppdrag som varer i mer enn seks måneder etter forskriftens
+
+1. [§ 6-13](forskrift/2009-10-15-1286/§6-13) (utsendte arbeidstakere),
+2. [§ 6-14](forskrift/2009-10-15-1286/§6-14) (selvstendige oppdragstakere), eller
+3. [§ 6-15](forskrift/2009-10-15-1286/§6-15) sjette ledd (utsendte arbeidstakere som omfattes av gruppetillatelse).
 
 Det kan gis oppholdstillatelse til barn etter lovens § 42 når referansepersonen har tillatelse etter forskriftens [§ 8-3](forskrift/2009-10-15-1286/§8-3) (refleksjonsperiode og oppholdstillatelse mv. til ofre for menneskehandel). Det er en forutsetning at det anses å være en alvorlig fare for barnets sikkerhet i hjemlandet og at det ikke er mulig for barnet å få beskyttelse der.
 
@@ -1463,7 +1659,12 @@ Det kan gis oppholdstillatelse til barn etter [utlendingsloven § 42](lov/2008-0
 
 ### § 9-7. Oppholdstillatelse for andre familiemedlemmer enn nevnt i lovens § 40 til § 53
 
-Med hjemmel i lovens § 49 kan oppholdstillatelse etter søknad gis til utlendinger som har følgende tilknytning til en referanseperson som nevnt i lovens § 40 første ledd:barn mellom 18 og 21 år uten ektefelle eller samboer når søkeren tidligere har hatt langvarig opphold i riket med tillatelse,forsørget barn over 18 år uten ektefelle eller samboer som fortsatt skal være en del av foreldrenes husstand, når vedkommende er eller blir igjen i hjemlandet uten foreldre eller søsken som er over 18 år eller gift, eller når det godtgjøres at vedkommende av medisinske grunner er helt avhengig av personlig omsorg fra herboende foreldre,fosterbarn under 18 år, når det godtgjøres at barnet er etablert medlem av husstanden og at de som utøver foreldreansvaret over barnet, rettmessig gjør dette i henhold til hjemlandets lovgivning. Når barnets biologiske foreldre er i live, må det fremlegges dokumentasjon som bekrefter at foreldreansvaret er overført. Norsk barnevernmyndighet må ha godkjent fosterhjemmet eller foreta en slik godkjenning etter ankomst,helsøsken under 18 år uten foreldre, og uten annen omsorgsperson i hjemlandet eller oppholdslandet. Det er et vilkår at herboende er egnet som omsorgsperson. Uttalelse om dette skal foreligge fra barnevernstjenesten i den kommunen der referansepersonen er bosatt.
+Med hjemmel i lovens § 49 kan oppholdstillatelse etter søknad gis til utlendinger som har følgende tilknytning til en referanseperson som nevnt i lovens § 40 første ledd:
+
+1. barn mellom 18 og 21 år uten ektefelle eller samboer når søkeren tidligere har hatt langvarig opphold i riket med tillatelse,
+2. forsørget barn over 18 år uten ektefelle eller samboer som fortsatt skal være en del av foreldrenes husstand, når vedkommende er eller blir igjen i hjemlandet uten foreldre eller søsken som er over 18 år eller gift, eller når det godtgjøres at vedkommende av medisinske grunner er helt avhengig av personlig omsorg fra herboende foreldre,
+3. fosterbarn under 18 år, når det godtgjøres at barnet er etablert medlem av husstanden og at de som utøver foreldreansvaret over barnet, rettmessig gjør dette i henhold til hjemlandets lovgivning. Når barnets biologiske foreldre er i live, må det fremlegges dokumentasjon som bekrefter at foreldreansvaret er overført. Norsk barnevernmyndighet må ha godkjent fosterhjemmet eller foreta en slik godkjenning etter ankomst,
+4. helsøsken under 18 år uten foreldre, og uten annen omsorgsperson i hjemlandet eller oppholdslandet. Det er et vilkår at herboende er egnet som omsorgsperson. Uttalelse om dette skal foreligge fra barnevernstjenesten i den kommunen der referansepersonen er bosatt.
 
 Når behovet er midlertidig eller andre særlige grunner tilsier det, kan det fastsettes at tillatelse etter lovens § 49 ikke kan danne grunnlag for fornyelse eller permanent oppholdstillatelse. Det kan også fastsettes at tillatelsen ikke skal danne grunnlag for oppholdstillatelse etter lovens kapittel 6 (familieinnvandring) for utlendingens familiemedlemmer, og at tillatelsen ikke skal gi rett til å ta arbeid.
 
@@ -1503,7 +1704,21 @@ Bestemmelsen i [§ 9-3](forskrift/2009-10-15-1286/§9-3) annet og tredje ledd om
 
 ### § 10-1. Adgang til å søke førstegangs oppholdstillatelse etter innreise
 
-Kravet i lovens § 56 første ledd om at førstegangs oppholdstillatelse skal være gitt før innreise, gjelder ikke foren utlending som har kompetanse som faglært, jf. [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd,– – –sesongarbeidstakere, jf. [§ 6-3](forskrift/2009-10-15-1286/§6-3),en utlending som er ansatt i et internasjonalt selskap, jf. [§ 1-3](forskrift/2009-10-15-1286/§1-3) bokstav c.ektefelle, samboer, barn eller adoptivbarn, som faller inn under lovens § 40 til § 42, eller lovens § 49 når referansepersonen er omfattet av forskriftens [§ 6-13](forskrift/2009-10-15-1286/§6-13) og er ansatt i internasjonalt selskap. For ektefelle og samboer er det et vilkår at grunnlaget for oppholdet ikke er et Schengenvisum etter lovens § 10 eller visum av humanitære grunner mv. etter lovens § 11, eller at grunnlaget for oppholdet er et tilsvarende visum utstedt av et annet Schengenland. Hvis søkeren er barn som nevnt i lovens § 42 annet ledd, må det legges fram dokumentasjon på at referansepersonen har del i foreldreansvaret. Dersom referansepersonen ikke har foreldreansvaret alene, må det foreligge samtykke fra den andre forelderen til søknaden om oppholdstillatelse for barnet,forelder til norsk barn, jf. lovens § 44,en utlending som omfattes av [EØS-avtalen](lov/1992-11-27-109) eller EFTA-konvensjonen, jf. lovens § 109 og § 110,en utlending som er født av foreldre hvorav minst én var norsk borger på fødselstidspunktet, jf. [§ 8-10](forskrift/2009-10-15-1286/§8-10),en utlending som har vært fast ansatt i norsk rederi og faller inn under [§ 8-11](forskrift/2009-10-15-1286/§8-11). Det er et vilkår at vedkommende fratrer i riket eller reiser hit umiddelbart etter fratreden i utlandet,en utlending som søker korttidsopphold etter lovens § 47 for å besøke barn i riket,sjøfolk om bord på utenlandsk registrert sjøfartøy som søker tillatelse etter [§ 6-6](forskrift/2009-10-15-1286/§6-6)nødvendig vakt- og vedlikeholdsmannskap på sjøfartøy i opplag i riket, jf. [§ 6-31](forskrift/2009-10-15-1286/§6-31) tredje ledden utlending som fyller vilkårene for kollektiv beskyttelse, jf. lovens § 34.
+Kravet i lovens § 56 første ledd om at førstegangs oppholdstillatelse skal være gitt før innreise, gjelder ikke for
+
+1. en utlending som har kompetanse som faglært, jf. [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd,
+2. – – –
+3. sesongarbeidstakere, jf. [§ 6-3](forskrift/2009-10-15-1286/§6-3),
+4. en utlending som er ansatt i et internasjonalt selskap, jf. [§ 1-3](forskrift/2009-10-15-1286/§1-3) bokstav c.
+5. ektefelle, samboer, barn eller adoptivbarn, som faller inn under lovens § 40 til § 42, eller lovens § 49 når referansepersonen er omfattet av forskriftens [§ 6-13](forskrift/2009-10-15-1286/§6-13) og er ansatt i internasjonalt selskap. For ektefelle og samboer er det et vilkår at grunnlaget for oppholdet ikke er et Schengenvisum etter lovens § 10 eller visum av humanitære grunner mv. etter lovens § 11, eller at grunnlaget for oppholdet er et tilsvarende visum utstedt av et annet Schengenland. Hvis søkeren er barn som nevnt i lovens § 42 annet ledd, må det legges fram dokumentasjon på at referansepersonen har del i foreldreansvaret. Dersom referansepersonen ikke har foreldreansvaret alene, må det foreligge samtykke fra den andre forelderen til søknaden om oppholdstillatelse for barnet,
+6. forelder til norsk barn, jf. lovens § 44,
+7. en utlending som omfattes av [EØS-avtalen](lov/1992-11-27-109) eller EFTA-konvensjonen, jf. lovens § 109 og § 110,
+8. en utlending som er født av foreldre hvorav minst én var norsk borger på fødselstidspunktet, jf. [§ 8-10](forskrift/2009-10-15-1286/§8-10),
+9. en utlending som har vært fast ansatt i norsk rederi og faller inn under [§ 8-11](forskrift/2009-10-15-1286/§8-11). Det er et vilkår at vedkommende fratrer i riket eller reiser hit umiddelbart etter fratreden i utlandet,
+10. en utlending som søker korttidsopphold etter lovens § 47 for å besøke barn i riket,
+11. sjøfolk om bord på utenlandsk registrert sjøfartøy som søker tillatelse etter [§ 6-6](forskrift/2009-10-15-1286/§6-6)
+12. nødvendig vakt- og vedlikeholdsmannskap på sjøfartøy i opplag i riket, jf. [§ 6-31](forskrift/2009-10-15-1286/§6-31) tredje ledd
+13. en utlending som fyller vilkårene for kollektiv beskyttelse, jf. lovens § 34.
 
 Utlendingsdirektoratet kan gi nærmere retningslinjer og gjøre unntak fra kravet om at førstegangs oppholdstillatelse må være gitt før innreise for søkere som nevnt i forskriftens [§ 6-19](forskrift/2009-10-15-1286/§6-19) til [§ 6-31](forskrift/2009-10-15-1286/§6-31), og for ektefelle, samboer og barn til slik søker.
 
@@ -1573,7 +1788,11 @@ Politiet registrerer bekreftelsen på tidlig arbeidsstart i Datasystemet for utl
 
 ### § 10-5. Unntak fra kravet om intervju av referanseperson i Norge
 
-Vilkåret om at referansepersonen må vende tilbake til Norge og intervjues hos utlendingsmyndighetene før søknad om oppholdstillatelse som nevnt i lovens § 56 fjerde ledd kan innvilges, gjelder ikke nårreferansepersonen hadde fylt 25 år da ekteskapet ble inngått,referansepersonen har fått oppholdstillatelse som faglært, jf. forskriftens [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd, ellerpartene har levd i et etablert samliv mens begge har hatt oppholdstillatelse i Norge.
+Vilkåret om at referansepersonen må vende tilbake til Norge og intervjues hos utlendingsmyndighetene før søknad om oppholdstillatelse som nevnt i lovens § 56 fjerde ledd kan innvilges, gjelder ikke når
+
+1. referansepersonen hadde fylt 25 år da ekteskapet ble inngått,
+2. referansepersonen har fått oppholdstillatelse som faglært, jf. forskriftens [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd, eller
+3. partene har levd i et etablert samliv mens begge har hatt oppholdstillatelse i Norge.
 
 Det er et vilkår for forhåndsintervju, jf. lovens § 56 fjerde ledd bokstav a, at referansepersonen senest samtidig med forhåndsintervjuet, fremmer søknad på vegne av søkeren, jf. forskriftens [§ 10-2](forskrift/2009-10-15-1286/§10-2) sjuende ledd.
 
@@ -1597,7 +1816,12 @@ Politiet, Utlendingsdirektoratet og Utlendingsnemnda kan utstede oppholdskort, j
 
 ### § 10-7. Krav om underhold ved førstegangs søknad i andre saker enn familieinnvandring
 
-Underhold anses å være sikret når utlendingenvil få arbeidsinntekt av tilstrekkelig omfang. Inntekt fra heltidsarbeid anses som hovedregel som tilstrekkelig,oppebærer pensjon eller andre faste periodiske ytelser, når dette er av tilstrekkelig omfang,har egne midler som anses som tilstrekkelig. Utlendingsdirektoratet kan kreve et bestemt beløp overført til norsk bank og helt eller delvis båndlegge beløpet for en bestemt tid, ellervil få studielån eller stipend av tilstrekkelig omfang.
+Underhold anses å være sikret når utlendingen
+
+1. vil få arbeidsinntekt av tilstrekkelig omfang. Inntekt fra heltidsarbeid anses som hovedregel som tilstrekkelig,
+2. oppebærer pensjon eller andre faste periodiske ytelser, når dette er av tilstrekkelig omfang,
+3. har egne midler som anses som tilstrekkelig. Utlendingsdirektoratet kan kreve et bestemt beløp overført til norsk bank og helt eller delvis båndlegge beløpet for en bestemt tid, eller
+4. vil få studielån eller stipend av tilstrekkelig omfang.
 
 Ytelser etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen anses ikke som underhold. Underhold anses også å være sikret gjennom en kombinasjon av første ledd bokstavene a til d, når dette er tilstrekkelig. Fyller søkeren vilkårene for å få deltidsarbeid etter [§ 6-33](forskrift/2009-10-15-1286/§6-33) annet og tredje ledd eller heltidsarbeid etter fjerde ledd, og det foreligger et konkret arbeidstilbud, tas også den forventede inntekten med i vurderingen av om underholdskravet er oppfylt.
 
@@ -1611,13 +1835,30 @@ Det gjelder ikke krav til sikret underhold for utlending som har fremmet søknad
 
 ### § 10-8. Krav til framtidig inntekt i sak om familieinnvandring etter lovens kapittel 6
 
-Det er et vilkår for oppholdstillatelse i medhold av [lovens kapittel 6](lov/2008-05-15-35/kap6) (familieinnvandring) at referansepersonen kan sannsynliggjøre å være sikret midler tilsvarende minst 3,2 ganger grunnbeløpet i folketrygden for den tid søknaden gjelder, gjennomarbeidsinntekt,sykepenger, svangerskapspenger, foreldrepenger, uføretrygd eller alderspensjon etter [folketrygdloven](lov/1997-02-28-19),pensjon eller andre faste periodiske ytelser med unntak av ytelser etter [sosialtjenesteloven](lov/2009-12-18-131),utdanningslån eller utdanningsstipend, elleren kombinasjon av slike midler som nevnt i bokstav a til d.
+Det er et vilkår for oppholdstillatelse i medhold av [lovens kapittel 6](lov/2008-05-15-35/kap6) (familieinnvandring) at referansepersonen kan sannsynliggjøre å være sikret midler tilsvarende minst 3,2 ganger grunnbeløpet i folketrygden for den tid søknaden gjelder, gjennom
+
+1. arbeidsinntekt,
+2. sykepenger, svangerskapspenger, foreldrepenger, uføretrygd eller alderspensjon etter [folketrygdloven](lov/1997-02-28-19),
+3. pensjon eller andre faste periodiske ytelser med unntak av ytelser etter [sosialtjenesteloven](lov/2009-12-18-131),
+4. utdanningslån eller utdanningsstipend, eller
+5. en kombinasjon av slike midler som nevnt i bokstav a til d.
 
 Kravet til framtidig inntekt anses også å være sikret når referansepersonen mottar alderspensjon som minst svarer til fullt minste pensjonsnivå etter [folketrygdloven kapittel 19](lov/1997-02-28-19/kap19), eller uføretrygd som minst svarer til full minste årlig ytelse etter [folketrygdloven kapittel 12](lov/1997-02-28-19/kap12). Når referansepersonen har oppholdstillatelse etter lovens § 28 (flyktning) kan også supplerende stønad medregnes.
 
-Kravet til framtidig inntekt kan også sikres av andre enn referansepersonen i følgende tilfeller:Dersom søkeren er i lovlig arbeid i riket, skal også søkerens inntekt medregnes.Når referansepersonen tar høyere utdanning (høyskole eller universitet) og har opptjent minst 60 studiepoeng eller tar fagskoleutdanning og har gjennomført minst ett års normert studietid, skal også søkerens midler i henhold til første ledd medregnes. Utlendingsdirektoratet kan gi nærmere retningslinjer.Unntaksvis kan kravet anses å være sikret ved at tredjemann stiller økonomisk garanti. Dette gjelder ikke når søkeren er referansepersonens ektefelle eller samboer, jf. lovens § 40 og § 41, eller søkeren skal inngå ekteskap med referansepersonen etter innreisen, jf. lovens § 48.
+Kravet til framtidig inntekt kan også sikres av andre enn referansepersonen i følgende tilfeller:
 
-Det gjøres unntak fra kravet til framtidig inntekt i første ledd i følgende tilfeller:Søkeren er ektefelle, samboer eller barn, jf. lovens § 40, § 41 eller § 42 første eller annet ledd, av referanseperson som har oppholdstillatelse etter lovens § 28 (flyktning) eller § 34 (kollektiv beskyttelse). Dersom søkeren er referansepersonens ektefelle, er det et vilkår at ekteskapet ble inngått før referansepersonen reiste inn i Norge.Søkeren er barn, jf. lovens § 42 første eller annet ledd, av referanseperson som har oppholdstillatelse etter forskriftens [§ 8-3](forskrift/2009-10-15-1286/§8-3) (offer for menneskehandel), [§ 8-4](forskrift/2009-10-15-1286/§8-4) (vitne i sak om menneskehandel) eller har fått opphold i medhold av [utlendingsloven § 38](lov/2008-05-15-35/§38) annet ledd bokstav d.Søker som nevnt i bokstav a eller b når referansepersonen har fått permanent oppholdstillatelse etter å ha hatt slikt forutgående oppholdsgrunnlag som nevnt i henholdsvis bokstav a eller b. Dersom søkeren er referansepersonens ektefelle, er det et vilkår at ekteskapet ble inngått før referansepersonen reiste inn i Norge.Referansepersonen er barn under 18 år.Søkeren er barn under 15 år uten omsorgspersoner i hjemlandet. Lovens § 50 og forskriftens [§ 9-8](forskrift/2009-10-15-1286/§9-8) gjelder tilsvarende.Søkeren får oppholdstillatelse på selvstendig grunnlag etter lovens § 53 første ledd bokstav b.
+1. Dersom søkeren er i lovlig arbeid i riket, skal også søkerens inntekt medregnes.
+2. Når referansepersonen tar høyere utdanning (høyskole eller universitet) og har opptjent minst 60 studiepoeng eller tar fagskoleutdanning og har gjennomført minst ett års normert studietid, skal også søkerens midler i henhold til første ledd medregnes. Utlendingsdirektoratet kan gi nærmere retningslinjer.
+3. Unntaksvis kan kravet anses å være sikret ved at tredjemann stiller økonomisk garanti. Dette gjelder ikke når søkeren er referansepersonens ektefelle eller samboer, jf. lovens § 40 og § 41, eller søkeren skal inngå ekteskap med referansepersonen etter innreisen, jf. lovens § 48.
+
+Det gjøres unntak fra kravet til framtidig inntekt i første ledd i følgende tilfeller:
+
+1. Søkeren er ektefelle, samboer eller barn, jf. lovens § 40, § 41 eller § 42 første eller annet ledd, av referanseperson som har oppholdstillatelse etter lovens § 28 (flyktning) eller § 34 (kollektiv beskyttelse). Dersom søkeren er referansepersonens ektefelle, er det et vilkår at ekteskapet ble inngått før referansepersonen reiste inn i Norge.
+2. Søkeren er barn, jf. lovens § 42 første eller annet ledd, av referanseperson som har oppholdstillatelse etter forskriftens [§ 8-3](forskrift/2009-10-15-1286/§8-3) (offer for menneskehandel), [§ 8-4](forskrift/2009-10-15-1286/§8-4) (vitne i sak om menneskehandel) eller har fått opphold i medhold av [utlendingsloven § 38](lov/2008-05-15-35/§38) annet ledd bokstav d.
+3. Søker som nevnt i bokstav a eller b når referansepersonen har fått permanent oppholdstillatelse etter å ha hatt slikt forutgående oppholdsgrunnlag som nevnt i henholdsvis bokstav a eller b. Dersom søkeren er referansepersonens ektefelle, er det et vilkår at ekteskapet ble inngått før referansepersonen reiste inn i Norge.
+4. Referansepersonen er barn under 18 år.
+5. Søkeren er barn under 15 år uten omsorgspersoner i hjemlandet. Lovens § 50 og forskriftens [§ 9-8](forskrift/2009-10-15-1286/§9-8) gjelder tilsvarende.
+6. Søkeren får oppholdstillatelse på selvstendig grunnlag etter lovens § 53 første ledd bokstav b.
 
 For å få unntak fra kravet til framtidig inntekt etter fjerde ledd bokstav a til c, er det et vilkår at søknaden er fremmet eller elektronisk søknad om familiegjenforening er registrert på nettet og søknadsgebyret er betalt innen seks måneder etter at referansepersonen fikk oppholdstillatelse. Videre må søkeren møte opp personlig etter avtale ved utenriksstasjon eller hos ekstern tjenesteyter, jf. [§ 10-2](forskrift/2009-10-15-1286/§10-2) fjerde ledd, og levere de nødvendige vedlegg til søknaden innen ett år etter at referansepersonen fikk oppholdstillatelse. Det gjøres unntak fra fristene dersom søkeren har vært forhindret fra å registrere eller fremme søknaden på et tidligere tidspunkt på grunn av forhold som ligger utenfor søkerens kontroll.
 
@@ -1629,7 +1870,14 @@ En referanseperson som må oppfylle krav til framtidig inntekt etter [§ 10-8 f�
 
 Det gjøres unntak fra kravet om dokumentasjon i henhold til første ledd første punktum dersom referansepersonen er norsk borger, nordisk borger eller utlending med permanent oppholdstillatelse, som har vært i arbeid i utlandet og kan dokumentere at vedkommende har hatt en inntekt tilsvarende minst 3,2 ganger grunnbeløpet i folketrygden.
 
-Det gjøres unntak fra kravet til tidligere inntekt etter første ledd i følgende tilfeller:Referansepersonen er norsk borger, nordisk borger eller utlending med permanent oppholdstillatelse, som har tatt høyere utdanning (høyskole eller universitet) i Norge eller utlandet, og som har opptjent minst 60 studiepoeng eller tilsvarende, eller har tatt fagskoleutdanning i Norge tilsvarende ett års normert studietid. Utlendingsdirektoratet kan gi nærmere retningslinjer.Referansepersonen har avtjent militær verneplikt eller har gjort pliktig siviltjeneste.Referansepersonen har hatt en fastsatt nettoformue på over 1 million kr ved de to siste skatteoppgjør.Referansepersonen er omfattet av [§ 10-8](forskrift/2009-10-15-1286/§10-8) annet ledd (alderspensjon eller uføretrygd).Referansepersonen har tillatelse etter [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd (faglært på grunnlag av kompetanse), [§ 6-18](forskrift/2009-10-15-1286/§6-18) (selvstendig næringsdrivende).Referansepersonen har tillatelse som nevnt i [§ 9-6](forskrift/2009-10-15-1286/§9-6) (oppholdstillatelse som ikke kan danne grunnlag for permanent oppholdstillatelse).
+Det gjøres unntak fra kravet til tidligere inntekt etter første ledd i følgende tilfeller:
+
+1. Referansepersonen er norsk borger, nordisk borger eller utlending med permanent oppholdstillatelse, som har tatt høyere utdanning (høyskole eller universitet) i Norge eller utlandet, og som har opptjent minst 60 studiepoeng eller tilsvarende, eller har tatt fagskoleutdanning i Norge tilsvarende ett års normert studietid. Utlendingsdirektoratet kan gi nærmere retningslinjer.
+2. Referansepersonen har avtjent militær verneplikt eller har gjort pliktig siviltjeneste.
+3. Referansepersonen har hatt en fastsatt nettoformue på over 1 million kr ved de to siste skatteoppgjør.
+4. Referansepersonen er omfattet av [§ 10-8](forskrift/2009-10-15-1286/§10-8) annet ledd (alderspensjon eller uføretrygd).
+5. Referansepersonen har tillatelse etter [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd (faglært på grunnlag av kompetanse), [§ 6-18](forskrift/2009-10-15-1286/§6-18) (selvstendig næringsdrivende).
+6. Referansepersonen har tillatelse som nevnt i [§ 9-6](forskrift/2009-10-15-1286/§9-6) (oppholdstillatelse som ikke kan danne grunnlag for permanent oppholdstillatelse).
 
 > Endret ved forskrifter [8 aug 2012 nr. 798](forskrift/2012-08-08-798) (i kraft 15 aug 2012), [4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 1 april 2013), [24 sep 2013 nr. 1130](forskrift/2013-09-24-1130) (i kraft 1 okt 2013), [19 des 2016 nr. 1717](forskrift/2016-12-19-1717) (i kraft 1 jan 2017), [22 april 2016 nr. 417](forskrift/2016-04-22-417) som endret ved [forskrift 5 april 2017 nr. 448](forskrift/2017-04-05-448) (i kraft 9 mai 2017 og gjelder for søknader fremsatt fra og med 9 mai 2016), [8 juni 2017 nr. 709](forskrift/2017-06-08-709) (i kraft 1 aug 2017), [18 aug 2017 nr. 1262](forskrift/2017-08-18-1262) (i kraft 25 aug 2017), [18 nov 2020 nr. 2402](forskrift/2020-11-18-2402) (i kraft 1 jan 2021), [28 juni 2021 nr. 2233](forskrift/2021-06-28-2233) (i kraft 1 okt 2021, se endringsforskriften del II for overgangsregler), [12 mars 2024 nr. 425](forskrift/2024-03-12-425) (i kraft 18 april 2024), [10 jan 2025 nr. 18](forskrift/2025-01-10-18) (i kraft 1 feb 2026, se endringsforskriften for overgangsregel).
 
@@ -1721,7 +1969,12 @@ Ektefelle og samboer som har oppholdstillatelse etter [§ 9-6](forskrift/2009-10
 
 Det er et vilkår for oppholdstillatelse at utlendingen skal oppholde seg i Norge minst seks måneder i en tillatelsesperiode på ett år, jf. lovens § 60 femte ledd. Dersom tillatelsesperioden er av kortere varighet enn ett år, er det et vilkår at utlendingen skal oppholde seg i Norge minst halvparten av tillatelsesperioden. Er tillatelsen gitt for flere år, må samlet oppholdstid i utlandet ikke overstige 182 dager i løpet av enhver periode på 365 dager.
 
-Det stilles ikke krav om oppholdstid forutsendte arbeidstakere når det konkrete tilbudet om oppdrag ikke er sammenhengende, jf. [§ 6-13](forskrift/2009-10-15-1286/§6-13) fjerde leddselvstendige oppdragstakere når det konkrete tilbudet om oppdrag ikke er sammenhengende, jf. [§ 6-14](forskrift/2009-10-15-1286/§6-14) annet leddrussiske grensependlere etter [§ 6-5](forskrift/2009-10-15-1286/§6-5)flyktninger etter lovens § 28.
+Det stilles ikke krav om oppholdstid for
+
+1. utsendte arbeidstakere når det konkrete tilbudet om oppdrag ikke er sammenhengende, jf. [§ 6-13](forskrift/2009-10-15-1286/§6-13) fjerde ledd
+2. selvstendige oppdragstakere når det konkrete tilbudet om oppdrag ikke er sammenhengende, jf. [§ 6-14](forskrift/2009-10-15-1286/§6-14) annet ledd
+3. russiske grensependlere etter [§ 6-5](forskrift/2009-10-15-1286/§6-5)
+4. flyktninger etter lovens § 28.
 
 Det kan gjøres unntak fra kravet om oppholdstid dersom formålet med tillatelsen eller andre forhold tilsier at utlendingen ikke skal oppholde seg mesteparten av tillatelsesperioden i Norge.
 
@@ -1743,7 +1996,11 @@ Det gjelder ikke krav til sikret bolig ved fornyelse.
 
 Varigheten av en fornyet oppholdstillatelse etter lovens § 61 til en utlending som nevnt i forskriftens [§ 6-1](forskrift/2009-10-15-1286/§6-1) til [§ 6-31](forskrift/2009-10-15-1286/§6-31), fastsettes innenfor den tidsrammen som er satt i den aktuelle bestemmelsen.
 
-For arbeidstakere som er gitt tillatelse tilen bestemt type arbeid, kan det gis fornyelse til samme type arbeid selv om det skjer et skifte av arbeidsgiver,arbeid for en bestemt arbeidsgiver, kan det gis fornyelse hos den samme arbeidsgiveren selv om det skjer skifte av arbeid, elleret bestemt arbeid hos en bestemt arbeidsgiver, kan det gis fornyelse til det samme arbeidet hos samme arbeidsgiver.
+For arbeidstakere som er gitt tillatelse til
+
+1. en bestemt type arbeid, kan det gis fornyelse til samme type arbeid selv om det skjer et skifte av arbeidsgiver,
+2. arbeid for en bestemt arbeidsgiver, kan det gis fornyelse hos den samme arbeidsgiveren selv om det skjer skifte av arbeid, eller
+3. et bestemt arbeid hos en bestemt arbeidsgiver, kan det gis fornyelse til det samme arbeidet hos samme arbeidsgiver.
 
 For utsendte arbeidstakere etter [§ 6-13](forskrift/2009-10-15-1286/§6-13) og selvstendige oppdragstakere etter [§ 6-14](forskrift/2009-10-15-1286/§6-14), er det et vilkår for fornyelse av tillatelsen at det dreier seg om det samme oppdraget som følger av den kontrakten som lå til grunn for tillatelsen.
 
@@ -1835,7 +2092,11 @@ En utlending med oppholdstillatelse som faglært etter [§ 6-1](forskrift/2009-1
 
 ### § 11-4. Når permanent oppholdstillatelse kan gis selv om vilkåret om tre eller fem års oppholdstid i lovens § 62 første og annet ledd ikke er oppfylt
 
-Permanent oppholdstillatelse kan gis til en utlending som ikke fyller kravet til tre års oppholdstid etter lovens § 62 første ledd eller kravet til fem års oppholdstid etter lovens § 62 annet ledd, når utlendingen i minst det siste året har hatt tillatelse som kan danne grunnlag for permanent oppholdstillatelse, ogutlendingen tidligere har hatt langvarig opphold i riket med tillatelse,utlendingen tidligere har hatt langvarig opphold på Svalbard, ellerdet foreligger særlig sterke rimelighetsgrunner.
+Permanent oppholdstillatelse kan gis til en utlending som ikke fyller kravet til tre års oppholdstid etter lovens § 62 første ledd eller kravet til fem års oppholdstid etter lovens § 62 annet ledd, når utlendingen i minst det siste året har hatt tillatelse som kan danne grunnlag for permanent oppholdstillatelse, og
+
+1. utlendingen tidligere har hatt langvarig opphold i riket med tillatelse,
+2. utlendingen tidligere har hatt langvarig opphold på Svalbard, eller
+3. det foreligger særlig sterke rimelighetsgrunner.
 
 > Endret ved forskrift [18 des 2020 nr. 2971](forskrift/2020-12-18-2971) (med virkning fra 1 des 2020, se endringsforskriften romertall II for overgangsbestemmelse).
 
@@ -1920,7 +2181,11 @@ Bopelen eller det faktiske oppholdet utenfor riket anses å være sammenhengende
 
 Selv om utlendingen har oppholdt seg mer enn to år i utlandet, kan det gjøres unntak fra regelen om bortfall av permanent oppholdstillatelse i lovens [§ 62 åttende ledd](lov/2008-05-15-35/§62/ledd/8) dersom utlendingen har reist ut av riket og mot sin vilje ikke får reise tilbake hit, og ville hatt rett til oppholdstillatelse etter lovens [§ 53 første ledd bokstav b](lov/2008-05-15-35/§53/ledd/1/bokstav/b) dersom vedkommende hadde oppholdt seg i Norge.
 
-En utlending kan etter søknad gis adgang til å oppholde seg utenfor riket i mer enn to år i sammenheng uten at tillatelsen faller bort, dersom det er klart at vedkommende igjen skal bosette seg i riket, og utlendingenskal avtjene verneplikt eller annen tilsvarende tjeneste i sitt hjemland,skal oppholde seg i utlandet i forbindelse med arbeid eller utdanning ut over vanlig videregående utdanning, ellerskal oppholde seg i utlandet sammen med ektefelle, samboer, mor eller far som oppholder seg i utlandet i forbindelse med arbeid eller utdanning.
+En utlending kan etter søknad gis adgang til å oppholde seg utenfor riket i mer enn to år i sammenheng uten at tillatelsen faller bort, dersom det er klart at vedkommende igjen skal bosette seg i riket, og utlendingen
+
+1. skal avtjene verneplikt eller annen tilsvarende tjeneste i sitt hjemland,
+2. skal oppholde seg i utlandet i forbindelse med arbeid eller utdanning ut over vanlig videregående utdanning, eller
+3. skal oppholde seg i utlandet sammen med ektefelle, samboer, mor eller far som oppholder seg i utlandet i forbindelse med arbeid eller utdanning.
 
 Ved avgjørelsen av hvor lenge utlendingen skal gis adgang til å oppholde seg utenfor riket uten at tillatelsen faller bort, skal det legges vekt på hvor lang forutgående botid søkeren har hatt i riket og formålet med oppholdet utenfor riket.
 
@@ -1932,7 +2197,16 @@ Dersom en søknad etter tredje ledd er fremmet tidligere enn seks måneder før 
 
 Vilkåret i lovens [§ 62 første ledd bokstav d](lov/2008-05-15-35/§62/ledd/1/bokstav/d) gjelder for utlendinger mellom 18 og 67 år og er oppfylt dersom utlendingen har bestått muntlig prøve i norsk på nivå A2 eller høyere. 18-årsgrensen beregnes ut fra søknadstidspunktet og 67-årsgrensen beregnes ut fra vedtakstidspunktet for permanent oppholdstillatelse. Utlendingsdirektoratet kan i retningslinjer regulere hvilke norskprøver som er godkjent som dokumentasjon.
 
-Vilkåret i lovens [§ 62 første ledd bokstav d](lov/2008-05-15-35/§62/ledd/1/bokstav/d) gjelder ikke dersom utlendingen dokumentererstandpunktkarakter eller eksamenskarakter 2 eller høyere i norsk muntlig og skriftlig i modul 4 i forberedende opplæring for voksnestandpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)halvårsvurdering, midtveisvurdering, standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i videregående opplæringgodkjent kompetanse etter realkompetansevurdering i norsk eller samisk i forberedende opplæring for voksne eller videregående opplæring, eller i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)gjennomførte studier i norsk eller samisk på universitets- og høyskolenivå i Norge eller i utlandet tilsvarende 30 studiepoengoppfylt inntakskrav for studier på norsk eller samisk for universitet, høyskole eller fagskole i Norgesærlige helsemessige årsaker eller personlige forutsetninger som utlendingen ikke har kontroll over, som gjør at han eller hun ikke har mulighet til å bestå norskprøve på nivå A2 eller høyerevedtak fra kommunen om fritak fra plikten til opplæring i norsk eller fritak fra plikten til å avlegge avsluttende prøve i norsk, jf. [integreringsloven §§ 29](lov/2020-11-06-127/§29) og [37](lov/2020-11-06-127/§37).
+Vilkåret i lovens [§ 62 første ledd bokstav d](lov/2008-05-15-35/§62/ledd/1/bokstav/d) gjelder ikke dersom utlendingen dokumenterer
+
+1. standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk muntlig og skriftlig i modul 4 i forberedende opplæring for voksne
+2. standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)
+3. halvårsvurdering, midtveisvurdering, standpunktkarakter eller eksamenskarakter 2 eller høyere i norsk eller samisk i videregående opplæring
+4. godkjent kompetanse etter realkompetansevurdering i norsk eller samisk i forberedende opplæring for voksne eller videregående opplæring, eller i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)
+5. gjennomførte studier i norsk eller samisk på universitets- og høyskolenivå i Norge eller i utlandet tilsvarende 30 studiepoeng
+6. oppfylt inntakskrav for studier på norsk eller samisk for universitet, høyskole eller fagskole i Norge
+7. særlige helsemessige årsaker eller personlige forutsetninger som utlendingen ikke har kontroll over, som gjør at han eller hun ikke har mulighet til å bestå norskprøve på nivå A2 eller høyere
+8. vedtak fra kommunen om fritak fra plikten til opplæring i norsk eller fritak fra plikten til å avlegge avsluttende prøve i norsk, jf. [integreringsloven §§ 29](lov/2020-11-06-127/§29) og [37](lov/2020-11-06-127/§37).
 
 > Tilføyd ved [forskrift 16 des 2016 nr. 1602](forskrift/2016-12-16-1602) (i kraft 1 jan 2017 og gjelder for søknader som fremmes 17 des 2016 eller senere), endret ved forskrift [26 juni 2025 nr. 1327](forskrift/2025-06-26-1327) (i kraft 1 sep 2025, se endringsforskriften for overgangsbestemmelse).
 
@@ -1940,21 +2214,47 @@ Vilkåret i lovens [§ 62 første ledd bokstav d](lov/2008-05-15-35/§62/ledd/1/
 
 Vilkåret i lovens [§ 62 første ledd bokstav e](lov/2008-05-15-35/§62/ledd/1/boktav/e) gjelder for utlendinger mellom 18 og 67 år. 18-årsgrensen beregnes ut fra søknadstidspunktet og 67-årsgrensen beregnes ut fra vedtakstidspunktet for permanent oppholdstillatelse.
 
-Vilkåret i lovens [§ 62 første ledd bokstav e](lov/2008-05-15-35/§62/ledd/1/boktav/e) gjelder ikke dersom utlendingen dokumentererstandpunktkarakter eller eksamenskarakter 2 eller høyere i samfunnsfag i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)halvårsvurdering, midtveisvurdering, standpunktkarakter eller eksamenskarakter 2 eller høyere i samfunnskunnskap i videregående opplæringgodkjent kompetanse etter realkompetansevurdering i samfunnskunnskap i videregående opplæring, eller i samfunnsfag i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)gjennomførte og beståtte studier i samfunnsfag som gir kunnskap om Norge, på universitets- eller høyskolenivå tilsvarende minimum 10 studiepoenggjennomførte studier på norsk eller samisk på universitets- eller høyskolenivå i Norge. Det er tilstrekkelig at utlendingen dokumenterer at han eller hun har vekttall eller studiepoeng fra studie på norsk eller samisksærlige helsemessige årsaker eller personlige forutsetninger som utlendingen ikke har kontroll over, som gjør at han eller hun ikke har mulighet til å bestå prøvenvedtak fra kommunen om fritak fra plikten til opplæring i samfunnskunnskap eller fritak fra plikten til å avlegge avsluttende prøve i samfunnskunnskap, jf. [integreringsloven §§ 29](lov/2020-11-06-127/§29) og [37](lov/2020-11-06-127/§37).
+Vilkåret i lovens [§ 62 første ledd bokstav e](lov/2008-05-15-35/§62/ledd/1/boktav/e) gjelder ikke dersom utlendingen dokumenterer
+
+1. standpunktkarakter eller eksamenskarakter 2 eller høyere i samfunnsfag i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)
+2. halvårsvurdering, midtveisvurdering, standpunktkarakter eller eksamenskarakter 2 eller høyere i samfunnskunnskap i videregående opplæring
+3. godkjent kompetanse etter realkompetansevurdering i samfunnskunnskap i videregående opplæring, eller i samfunnsfag i grunnskolen etter [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61)
+4. gjennomførte og beståtte studier i samfunnsfag som gir kunnskap om Norge, på universitets- eller høyskolenivå tilsvarende minimum 10 studiepoeng
+5. gjennomførte studier på norsk eller samisk på universitets- eller høyskolenivå i Norge. Det er tilstrekkelig at utlendingen dokumenterer at han eller hun har vekttall eller studiepoeng fra studie på norsk eller samisk
+6. særlige helsemessige årsaker eller personlige forutsetninger som utlendingen ikke har kontroll over, som gjør at han eller hun ikke har mulighet til å bestå prøven
+7. vedtak fra kommunen om fritak fra plikten til opplæring i samfunnskunnskap eller fritak fra plikten til å avlegge avsluttende prøve i samfunnskunnskap, jf. [integreringsloven §§ 29](lov/2020-11-06-127/§29) og [37](lov/2020-11-06-127/§37).
 
 > Tilføyd ved [forskrift 16 des 2016 nr. 1602](forskrift/2016-12-16-1602) (i kraft 1 jan 2017 og gjelder for søknader som fremmes 17 des 2016 eller senere), endret ved forskrift [26 juni 2025 nr. 1327](forskrift/2025-06-26-1327) (i kraft 1 sep 2025).
 
 ### § 11-11. Krav om selvforsørgelse etter lovens § 62 første ledd bokstav f
 
-Kravet om selvforsørgelse gjelder for utlendinger mellom 18 og 67 år og anses som oppfylt dersom utlendingen de siste 12 månedene har vært sikret midler tilsvarende minst 2,5 ganger grunnbeløpet i folketrygden, gjennomarbeids- eller næringsinntekt. Arbeidsinntekt fra heltidsarbeid eller deltidsstillinger som til sammen utgjør heltidsarbeid anses som hovedregel som tilstrekkeliginntekt fra pensjon eller andre faste, periodiske ytelsersykepenger, svangerskapspenger, foreldrepenger, alderspensjon, dagpenger, arbeidsavklaringspenger eller stønad til enslig mor eller far etter [folketrygdloven](lov/1997-02-28-19)studielån eller stipend fra Lånekassenintroduksjonsstønad etter [integreringsloven](lov/2020-11-06-127)kombinasjon av midler som nevnt i bokstav a til e.
+Kravet om selvforsørgelse gjelder for utlendinger mellom 18 og 67 år og anses som oppfylt dersom utlendingen de siste 12 månedene har vært sikret midler tilsvarende minst 2,5 ganger grunnbeløpet i folketrygden, gjennom
+
+1. arbeids- eller næringsinntekt. Arbeidsinntekt fra heltidsarbeid eller deltidsstillinger som til sammen utgjør heltidsarbeid anses som hovedregel som tilstrekkelig
+2. inntekt fra pensjon eller andre faste, periodiske ytelser
+3. sykepenger, svangerskapspenger, foreldrepenger, alderspensjon, dagpenger, arbeidsavklaringspenger eller stønad til enslig mor eller far etter [folketrygdloven](lov/1997-02-28-19)
+4. studielån eller stipend fra Lånekassen
+5. introduksjonsstønad etter [integreringsloven](lov/2020-11-06-127)
+6. kombinasjon av midler som nevnt i bokstav a til e.
 
 > Tilføyd ved [forskrift 6 juli 2017 nr. 1148](forskrift/2017-07-06-1148) som endret ved [forskrift 22 aug 2017 nr. 1271](forskrift/2017-08-22-1271) (i kraft 1 sep 2017 og gjelder for utlendinger som søker om permanent oppholdstillatelse fra og med denne dato), endret ved forskrift [18 nov 2020 nr. 2402](forskrift/2020-11-18-2402) (i kraft 1 jan 2021), [12 mars 2024 nr. 425](forskrift/2024-03-12-425) (i kraft 18 april 2024).
 
 ### § 11-12. Unntak fra kravet om selvforsørgelse
 
-Kravet om selvforsørgelse etter lovens [§ 62](lov/2008-05-15-35/§62) første ledd bokstav f gjelder ikke dersom utlendingenhar rett til uføretrygd fra folketrygdenhar oppholdstillatelse etter lovens [§ 53](lov/2008-05-15-35/§53) første ledd bokstav bsannsynliggjør gjennom dokumentasjon fra Arbeids- og velferdsetaten eller i legeerklæring at han eller hun på grunn av sykdom, skade eller lyte ikke har vært i stand til å utføre inntektsgivende arbeid utover 50 prosent de siste 12 månedene. Utlendingsdirektoratet kan gi retningslinjer om hvilke opplysninger som må fremgå av legeerklæringen for at det kan gis unntak.
+Kravet om selvforsørgelse etter lovens [§ 62](lov/2008-05-15-35/§62) første ledd bokstav f gjelder ikke dersom utlendingen
 
-Det gjøres også unntak fra kravet om selvforsørgelse dersom utlendingen dokumenterer at han eller hun de siste 12 månedene eller de siste to semestrenehar deltatt i videregående opplæring, jf. [opplæringslova § 5-1](lov/2023-06-09-30/§5-1)har deltatt i grunnskoleopplæring for voksne etter [opplæringslova § 9-7](lov/2023-06-09-30/§9-7) eller i videregående opplæring for voksne etter [opplæringslova § 18-3](lov/2023-06-09-30/§18-3)har deltatt i grunnskoleopplæring eller videregående opplæring som del av introduksjonsprogrammet, jf. [integreringsloven § 8](lov/2020-11-06-127/§8)har deltatt i videregående opplæring gjennom tiltak fra Arbeids- og velferdsetaten, jf. [tiltaksforskriften § 7-2 bokstav a](forskrift/2015-12-11-1598/§7-2/bokstav/a), [c](forskrift/2015-12-11-1598/§7-2/bokstav/c), [d](forskrift/2015-12-11-1598/§7-2/bokstav/d) og [e](forskrift/2015-12-11-1598/§7-2/bokstav/e)har vært fulltidsstudent ved høyere utdanning. Det er et vilkår at utdanningsinstitusjonen er godkjent av Lånekassen og kvalifiserer til studielån eller stipendhar vært fulltidsstudent ved høyere utdanning gjennom tiltak fra Arbeids- og velferdsetaten, jf. [tiltaksforskriften § 7-2 bokstav f](forskrift/2015-12-11-1598/§7-2/bokstav/f).
+1. har rett til uføretrygd fra folketrygden
+2. har oppholdstillatelse etter lovens [§ 53](lov/2008-05-15-35/§53) første ledd bokstav b
+3. sannsynliggjør gjennom dokumentasjon fra Arbeids- og velferdsetaten eller i legeerklæring at han eller hun på grunn av sykdom, skade eller lyte ikke har vært i stand til å utføre inntektsgivende arbeid utover 50 prosent de siste 12 månedene. Utlendingsdirektoratet kan gi retningslinjer om hvilke opplysninger som må fremgå av legeerklæringen for at det kan gis unntak.
+
+Det gjøres også unntak fra kravet om selvforsørgelse dersom utlendingen dokumenterer at han eller hun de siste 12 månedene eller de siste to semestrene
+
+1. har deltatt i videregående opplæring, jf. [opplæringslova § 5-1](lov/2023-06-09-30/§5-1)
+2. har deltatt i grunnskoleopplæring for voksne etter [opplæringslova § 9-7](lov/2023-06-09-30/§9-7) eller i videregående opplæring for voksne etter [opplæringslova § 18-3](lov/2023-06-09-30/§18-3)
+3. har deltatt i grunnskoleopplæring eller videregående opplæring som del av introduksjonsprogrammet, jf. [integreringsloven § 8](lov/2020-11-06-127/§8)
+4. har deltatt i videregående opplæring gjennom tiltak fra Arbeids- og velferdsetaten, jf. [tiltaksforskriften § 7-2 bokstav a](forskrift/2015-12-11-1598/§7-2/bokstav/a), [c](forskrift/2015-12-11-1598/§7-2/bokstav/c), [d](forskrift/2015-12-11-1598/§7-2/bokstav/d) og [e](forskrift/2015-12-11-1598/§7-2/bokstav/e)
+5. har vært fulltidsstudent ved høyere utdanning. Det er et vilkår at utdanningsinstitusjonen er godkjent av Lånekassen og kvalifiserer til studielån eller stipend
+6. har vært fulltidsstudent ved høyere utdanning gjennom tiltak fra Arbeids- og velferdsetaten, jf. [tiltaksforskriften § 7-2 bokstav f](forskrift/2015-12-11-1598/§7-2/bokstav/f).
 
 Det kan gjøres unntak fra kravet om selvforsørgelse dersom særlige grunner taler for det.
 
@@ -1966,9 +2266,18 @@ Det kan gjøres unntak fra kravet om selvforsørgelse dersom særlige grunner ta
 
 ### § 12-1. Unntak fra retten til å få utstedt reisebevis mv.
 
-Reisebevis etter lovens § 64 første ledd kan nektes utstedt nårdet foreligger forhold som gjør at det ikke ville blitt utstedt pass til norsk statsborger, jf. [passloven § 5](lov/1997-06-19-82/§5),det er tvil om utlendingens identitet,utlendingen har fått endelig dom for et særlig alvorlig lovbrudd og av denne grunn utgjør en fare for samfunnet,det foreligger forhold som beskrevet i [barneloven § 40](lov/1981-04-08-7/§40) annet ledd.
+Reisebevis etter lovens § 64 første ledd kan nektes utstedt når
 
-Har flyktningen reisedokument utstedt av fremmed stat, gjelder retten til reisebevis bare når flyktningen er innvilget oppholdstillatelse som flyktning eller faller inn under Europarådsoverenskomst 16. oktober 1980 om overføring av ansvaret for flyktninger, ved at flyktningenhar vært bosatt i Norge i mer enn to år,har fått innvilget permanent oppholdstillatelse, ellerhar fått tillatelse til opphold i Norge ut over reisedokumentets gyldighetstid.
+1. det foreligger forhold som gjør at det ikke ville blitt utstedt pass til norsk statsborger, jf. [passloven § 5](lov/1997-06-19-82/§5),
+2. det er tvil om utlendingens identitet,
+3. utlendingen har fått endelig dom for et særlig alvorlig lovbrudd og av denne grunn utgjør en fare for samfunnet,
+4. det foreligger forhold som beskrevet i [barneloven § 40](lov/1981-04-08-7/§40) annet ledd.
+
+Har flyktningen reisedokument utstedt av fremmed stat, gjelder retten til reisebevis bare når flyktningen er innvilget oppholdstillatelse som flyktning eller faller inn under Europarådsoverenskomst 16. oktober 1980 om overføring av ansvaret for flyktninger, ved at flyktningen
+
+1. har vært bosatt i Norge i mer enn to år,
+2. har fått innvilget permanent oppholdstillatelse, eller
+3. har fått tillatelse til opphold i Norge ut over reisedokumentets gyldighetstid.
 
 Reisebevis for flyktning kan også utstedes til en utlending som fyller vilkårene for å få reisedokument etter overenskomst 23. november 1957 om flyktningsjømenn, og til flyktningsjømann som kan dokumentere sammenhengende tjeneste på norsk sjøfartøy registrert i Norsk Ordinært Register (NOR) i minst to av de siste tre år.
 
@@ -2000,9 +2309,26 @@ For fornyet reisebevis gjelder bestemmelsene i [§ 12-2](forskrift/2009-10-15-12
 
 En flyktning har plikt til å innlevere sitt norske reisebevis ved anskaffelse av hjemlandets reisedokument.
 
-Reisebevis skal inndras nårinnehaveren bortvises etter lovens § 17 første ledd bokstav c eller l,innehaveren utvises etter lovens § 126 annet ledd,innehaveren anskaffer hjemlandets reisedokument,innehaveren mister sin flyktningstatus ved erverv av norsk eller fremmed statsborgerskap eller på annen måte, jf. lovens § 31 og § 37,ansvaret for innehaveren går over til annen stat i henhold til Europarådsoverenskomst 16. oktober 1980 om overføring av ansvaret for flyktninger,innehaveren med hjemmel i lov er nektet utreise fra riket, ellerutreise vil være uforenlig med dom, kjennelse eller annen avgjørelse truffet av offentlig myndighet.
+Reisebevis skal inndras når
 
-Reisebevis kan inndras nårdet inntrer forhold som nevnt i [§ 12-1](forskrift/2009-10-15-1286/§12-1) første ledd bokstav a eller b,dets utseende eller innhold på uhjemlet måte er endret,det er skadd eller på andre måter uegnet til fortsatt bruk,fotografi eller signalement ikke lenger svarer til innehaverens utseende,det finnes i uvedkommendes besittelse,innehaveren har foretatt reise i strid med de begrensningene som er satt for reisebevisets gyldighetsområde,innehaveren ikke lenger har tillatelse til opphold i riket, ellerinnehaveren har fått sin permanente oppholdstillatelse tilbakekalt og er innvilget en ny tillatelse med kortere varighet enn reisebevisets gyldighetstid.
+1. innehaveren bortvises etter lovens § 17 første ledd bokstav c eller l,
+2. innehaveren utvises etter lovens § 126 annet ledd,
+3. innehaveren anskaffer hjemlandets reisedokument,
+4. innehaveren mister sin flyktningstatus ved erverv av norsk eller fremmed statsborgerskap eller på annen måte, jf. lovens § 31 og § 37,
+5. ansvaret for innehaveren går over til annen stat i henhold til Europarådsoverenskomst 16. oktober 1980 om overføring av ansvaret for flyktninger,
+6. innehaveren med hjemmel i lov er nektet utreise fra riket, eller
+7. utreise vil være uforenlig med dom, kjennelse eller annen avgjørelse truffet av offentlig myndighet.
+
+Reisebevis kan inndras når
+
+1. det inntrer forhold som nevnt i [§ 12-1](forskrift/2009-10-15-1286/§12-1) første ledd bokstav a eller b,
+2. dets utseende eller innhold på uhjemlet måte er endret,
+3. det er skadd eller på andre måter uegnet til fortsatt bruk,
+4. fotografi eller signalement ikke lenger svarer til innehaverens utseende,
+5. det finnes i uvedkommendes besittelse,
+6. innehaveren har foretatt reise i strid med de begrensningene som er satt for reisebevisets gyldighetsområde,
+7. innehaveren ikke lenger har tillatelse til opphold i riket, eller
+8. innehaveren har fått sin permanente oppholdstillatelse tilbakekalt og er innvilget en ny tillatelse med kortere varighet enn reisebevisets gyldighetstid.
 
 Foreløpig inndragning foretas av politiet, utenriksstasjon eller annen offentlig kontrollmyndighet, som oversender saken til Utlendingsdirektoratet til avgjørelse.
 
@@ -2018,7 +2344,12 @@ For øvrig kan utlendingspass etter søknad gis til en utlending som har eller g
 
 Når særlige grunner tilsier det, kan utlendingspass også utstedes i andre tilfeller.
 
-Utlendingspass kan nektes utstedt når detforeligger forhold som nevnt i [§ 12-1](forskrift/2009-10-15-1286/§12-1) første ledd,er innvilget midlertidig oppholdstillatelse etter lovens § 74,er innvilget oppholdstillatelse som ikke kan fornyes, ellerer innvilget oppholdstillatelse som ikke danner grunnlag for permanent oppholdstillatelse.
+Utlendingspass kan nektes utstedt når det
+
+1. foreligger forhold som nevnt i [§ 12-1](forskrift/2009-10-15-1286/§12-1) første ledd,
+2. er innvilget midlertidig oppholdstillatelse etter lovens § 74,
+3. er innvilget oppholdstillatelse som ikke kan fornyes, eller
+4. er innvilget oppholdstillatelse som ikke danner grunnlag for permanent oppholdstillatelse.
 
 ### § 12-6. Utlendingspassets gyldighetsområde
 
@@ -2144,7 +2475,17 @@ Utlendingen plikter å anskaffe nytt oppholdskort når det gamle kortet er løpt
 
 ### § 13-1. Politiets adgang til å avgjøre søknader om førstegangs oppholdstillatelse
 
-I saker hvor søknad er fremmet fra riket og det ikke er tvil om at vilkårene er oppfylt, kan Utlendingsdirektoratet gi politiet myndighet til å innvilge oppholdstillatelse tilutlendinger som er født av foreldre hvorav minst én var norsk borger på søkerens fødselstidspunkt, jf. [§ 8-10](forskrift/2009-10-15-1286/§8-10),utlendinger som har vært fast ansatt i norsk rederi og innehatt stilling om bord på sjøfartøy registrert i Norsk Ordinært Register (NOR) i minst fire av de siste seks årene før søknad fremsettes, jf. [§ 8-11](forskrift/2009-10-15-1286/§8-11)sesongarbeidstakere, jf. [§ 6-3](forskrift/2009-10-15-1286/§6-3),barn som er født i riket og har begge foreldre bosatt her, jf. lovens § 42 første ledd,ektefelle eller samboer til norsk borger bosatt i riket, jf. lovens § 40 og § 41,ektefelle eller samboer til en utlending som er bosatt i riket når underholdskravet er oppfylt, jf. lovens § 40 og § 41 og forskriftens [§ 10-8](forskrift/2009-10-15-1286/§10-8) til [§ 10-10](forskrift/2009-10-15-1286/§10-10),utlendinger som får oppholdstillatelse for studier og for vitenskaplig, religiøst eller kulturelt formål o.a. etter [§ 6-19](forskrift/2009-10-15-1286/§6-19) til [§ 6-29](forskrift/2009-10-15-1286/§6-29) og [§ 6-31](forskrift/2009-10-15-1286/§6-31), og som gis rett til å fremme søknad fra riket i henhold til retningslinjer gitt av Utlendingsdirektoratet i medhold av [§ 10-1](forskrift/2009-10-15-1286/§10-1) annet ledd,utlendinger under søknadsbehandlingen, jf. lovens § 57, når politiet har saksdokumentene, ogsjøfolk, jf. [§ 6-6](forskrift/2009-10-15-1286/§6-6).
+I saker hvor søknad er fremmet fra riket og det ikke er tvil om at vilkårene er oppfylt, kan Utlendingsdirektoratet gi politiet myndighet til å innvilge oppholdstillatelse til
+
+1. utlendinger som er født av foreldre hvorav minst én var norsk borger på søkerens fødselstidspunkt, jf. [§ 8-10](forskrift/2009-10-15-1286/§8-10),
+2. utlendinger som har vært fast ansatt i norsk rederi og innehatt stilling om bord på sjøfartøy registrert i Norsk Ordinært Register (NOR) i minst fire av de siste seks årene før søknad fremsettes, jf. [§ 8-11](forskrift/2009-10-15-1286/§8-11)
+3. sesongarbeidstakere, jf. [§ 6-3](forskrift/2009-10-15-1286/§6-3),
+4. barn som er født i riket og har begge foreldre bosatt her, jf. lovens § 42 første ledd,
+5. ektefelle eller samboer til norsk borger bosatt i riket, jf. lovens § 40 og § 41,
+6. ektefelle eller samboer til en utlending som er bosatt i riket når underholdskravet er oppfylt, jf. lovens § 40 og § 41 og forskriftens [§ 10-8](forskrift/2009-10-15-1286/§10-8) til [§ 10-10](forskrift/2009-10-15-1286/§10-10),
+7. utlendinger som får oppholdstillatelse for studier og for vitenskaplig, religiøst eller kulturelt formål o.a. etter [§ 6-19](forskrift/2009-10-15-1286/§6-19) til [§ 6-29](forskrift/2009-10-15-1286/§6-29) og [§ 6-31](forskrift/2009-10-15-1286/§6-31), og som gis rett til å fremme søknad fra riket i henhold til retningslinjer gitt av Utlendingsdirektoratet i medhold av [§ 10-1](forskrift/2009-10-15-1286/§10-1) annet ledd,
+8. utlendinger under søknadsbehandlingen, jf. lovens § 57, når politiet har saksdokumentene, og
+9. sjøfolk, jf. [§ 6-6](forskrift/2009-10-15-1286/§6-6).
 
 Når politiet har fått myndighet til å innvilge tillatelse etter første ledd bokstav g, kan de også gi tillatelse til heltidsarbeid for et avgrenset tidsrom, deltidsarbeid og arbeid i ferier etter [§ 6-33](forskrift/2009-10-15-1286/§6-33). Utlendingsdirektoratet kan også gi politiet myndighet til å innvilge tillatelse til heltidsarbeid som nevnt i [§ 6-33](forskrift/2009-10-15-1286/§6-33) annet ledd annet punktum.
 
@@ -2154,7 +2495,11 @@ Beslutning om å gi politiet vedtakskompetanse etter denne bestemmelsen, må god
 
 ### § 13-2. Politiets adgang til å avgjøre søknader om fornyelse av oppholdstillatelse, jf. lovens § 61
 
-Utlendingsdirektoratet kan gi politiet myndighet til å innvilge søknad om fornyelse av oppholdstillatelse i tilfeller hvor det ikke er tvil om at vilkårene er oppfylt, unntatt i saker som gjelderoppholdstillatelse til selvstendig næringsdrivende etter [§ 6-18](forskrift/2009-10-15-1286/§6-18),oppholdstillatelse til studenter etter [§ 6-19](forskrift/2009-10-15-1286/§6-19), med mindre søkeren er omfattet av retningslinjer gitt av Utlendingsdirektoratet for nærmere bestemte søkergrupper,oppholdstillatelse etter lovens § 74 til utlendinger som er vernet mot utsendelse.
+Utlendingsdirektoratet kan gi politiet myndighet til å innvilge søknad om fornyelse av oppholdstillatelse i tilfeller hvor det ikke er tvil om at vilkårene er oppfylt, unntatt i saker som gjelder
+
+1. oppholdstillatelse til selvstendig næringsdrivende etter [§ 6-18](forskrift/2009-10-15-1286/§6-18),
+2. oppholdstillatelse til studenter etter [§ 6-19](forskrift/2009-10-15-1286/§6-19), med mindre søkeren er omfattet av retningslinjer gitt av Utlendingsdirektoratet for nærmere bestemte søkergrupper,
+3. oppholdstillatelse etter lovens § 74 til utlendinger som er vernet mot utsendelse.
 
 Beslutning om å gi politiet vedtakskompetanse etter denne bestemmelsen, må godkjennes av Justis- og beredskapsdepartementet.
 
@@ -2172,7 +2517,10 @@ Utlendingsdirektoratet kan gi myndighet til norsk utenriksstasjon til å avgjør
 
 ### § 13-5. Politiets adgang til å avgjøre søknader om utstedelse av reisebevis og utlendingspass
 
-Utlendingsdirektoratet kan gi politiet myndighet til å innvilge søknad om reisebevis for flyktning eller utlendingspass til barn under 16 år, når det ikke er tvil om at vilkårene er oppfylt, ogbegge foreldrene har eller får reisebevis eller utlendingspass, ellerbarnet er blitt gjenforent med eller kom sammen med en av foreldrene, og denne har eller får reisebevis eller utlendingspass.
+Utlendingsdirektoratet kan gi politiet myndighet til å innvilge søknad om reisebevis for flyktning eller utlendingspass til barn under 16 år, når det ikke er tvil om at vilkårene er oppfylt, og
+
+1. begge foreldrene har eller får reisebevis eller utlendingspass, eller
+2. barnet er blitt gjenforent med eller kom sammen med en av foreldrene, og denne har eller får reisebevis eller utlendingspass.
 
 Utlendingsdirektoratet kan fastsette at politiet skal kunne avslå søknader om utlendingspass dersom søknaden ikke er fremsatt i sammenheng med en søknad om beskyttelse, og avgjørelsen ikke byr på tvil.
 
@@ -2198,11 +2546,18 @@ Beslutning om å gi politiet vedtakskompetanse etter denne bestemmelsen, må god
 
 ### § 14-1. Om utvisning på grunn av ulovlig opphold eller ulovlig arbeid når utlendingen har barn i riket
 
-En utlending som har hatt ulovlig opphold eller har arbeidet ulovlig i riket i mindre enn to år, skal som hovedregel ikke utvises på dette grunnlaget, dersomutlendingen har barn i Norge som vedkommende har bodd fast sammen med eller har utøvd samvær med av et visst omfang, jf. [§ 9-3](forskrift/2009-10-15-1286/§9-3) annet og tredje ledd,utlendingen skal bo fast sammen med barnet, ogvilkårene for familiegjenforening med norsk barn i lovens § 44 er oppfylt, eller den andre av barnets foreldre er referanseperson som nevnt i lovens § 40 første ledd og utlendingen fyller vilkårene for rett til oppholdstillatelse som ektefelle eller samboer med vedkommende i lovens § 40 og § 41.
+En utlending som har hatt ulovlig opphold eller har arbeidet ulovlig i riket i mindre enn to år, skal som hovedregel ikke utvises på dette grunnlaget, dersom
+
+1. utlendingen har barn i Norge som vedkommende har bodd fast sammen med eller har utøvd samvær med av et visst omfang, jf. [§ 9-3](forskrift/2009-10-15-1286/§9-3) annet og tredje ledd,
+2. utlendingen skal bo fast sammen med barnet, og
+3. vilkårene for familiegjenforening med norsk barn i lovens § 44 er oppfylt, eller den andre av barnets foreldre er referanseperson som nevnt i lovens § 40 første ledd og utlendingen fyller vilkårene for rett til oppholdstillatelse som ektefelle eller samboer med vedkommende i lovens § 40 og § 41.
 
 Dersom utlendingen i en periode ikke har bodd fast sammen med eller har utøvd samvær med barnet, jf. første ledd bokstav a, kan dette tillegges vekt når det vurderes om utvisning vil være et uforholdsmessig tiltak.
 
-Bestemmelsen i første ledd gjelder ikkeved brudd på utreiseplikten etter avslag på søknad i medhold av lovens § 56 sjette ledd, når avslaget ble fattet etter at søkeren fikk barn her, ellerdersom det ikke er uforholdsmessig å forutsette at familielivet kan videreføres i et annet land enn Norge.
+Bestemmelsen i første ledd gjelder ikke
+
+1. ved brudd på utreiseplikten etter avslag på søknad i medhold av lovens § 56 sjette ledd, når avslaget ble fattet etter at søkeren fikk barn her, eller
+2. dersom det ikke er uforholdsmessig å forutsette at familielivet kan videreføres i et annet land enn Norge.
 
 > Endret ved forskrifter [23 aug 2010 nr. 1204](forskrift/2010-08-23-1204), [25 april 2025 nr. 699](forskrift/2025-04-25-699) (i kraft 2 juni 2025).
 
@@ -2212,7 +2567,10 @@ Det skal som hovedregel anses uforholdsmessig med utvisning etter [utlendingslov
 
 Det samme som i første ledd gjelder i tilfeller hvor gjenværende forelder har særkullsbarn i Norge som vedkommende utøver samvær med eller bor fast sammen med, men som har rett til samvær med sin andre forelder i Norge.
 
-Ved vurderingen av om det likevel kan være forholdsmessig med vedtak om utvisning i slike tilfeller som nevnt i første og annet ledd, kan det blant annet legges vekt påsannsynligheten for at utlendingen uansett ikke vil bli gitt oppholdstillatelse etter lovens og forskriftens rettighets- eller skjønnsbestemmelser,om det er knyttet ekstra skjerpende omstendigheter til overtredelsen av [utlendingsloven](lov/2008-05-15-35), for eksempel et så grovt forsøk på misbruk av asylsystemet at det kan fremstå som spesielt nedbrytende for tilliten om det ikke reageres med utvisning.
+Ved vurderingen av om det likevel kan være forholdsmessig med vedtak om utvisning i slike tilfeller som nevnt i første og annet ledd, kan det blant annet legges vekt på
+
+1. sannsynligheten for at utlendingen uansett ikke vil bli gitt oppholdstillatelse etter lovens og forskriftens rettighets- eller skjønnsbestemmelser,
+2. om det er knyttet ekstra skjerpende omstendigheter til overtredelsen av [utlendingsloven](lov/2008-05-15-35), for eksempel et så grovt forsøk på misbruk av asylsystemet at det kan fremstå som spesielt nedbrytende for tilliten om det ikke reageres med utvisning.
 
 I de tilfellene hvor det anses uforholdsmessig med utvisning etter bestemmelsen her, skal det som hovedregel ilegges krav til tilleggstid for å oppnå permanent oppholdstillatelse, jf. lovens § 70 annet ledd. I de tilfellene hvor utlendingen er ilagt straff for brudd på [utlendingsloven](lov/2008-05-15-35) som kunne gitt grunnlag for utvisning etter [§ 66 første ledd bokstav c](lov/2008-05-15-35/§66/ledd/1/bokstav/c), reguleres spørsmålet om tilleggstid av [utlendingsforskriften § 11-5](forskrift/2009-10-15-1286/§11-5).
 
@@ -2224,13 +2582,23 @@ I de tilfellene hvor det anses uforholdsmessig med utvisning etter bestemmelsen 
 
 ### § 14-2. Om varigheten av innreiseforbudet
 
-Etter en konkret helhetsvurdering, jf. lovens § 70, kan innreiseforbudet settes tilto år,fem år,ti år, ellervarig.
+Etter en konkret helhetsvurdering, jf. lovens § 70, kan innreiseforbudet settes til
+
+1. to år,
+2. fem år,
+3. ti år, eller
+4. varig.
 
 Innreiseforbud gitt i medhold av lovens § 66 første ledd bokstav a, d, f og annet ledd, kan gis for ett år, to år eller fem år. Innreiseforbudet kan likevel gis for mer enn fem år når offentlig orden gjør det nødvendig, eller av hensyn til grunnleggende nasjonale interesser.
 
 Som hovedregel skal innreiseforbudet ikke gjøres varig dersom utlendingen har barn i Norge som vedkommende i lengre tid har bodd fast sammen med eller har utøvd samvær med av et visst omfang, og utlendingen skal fortsette å bo sammen med eller videreføre samværet med barnet. Det kan legges vekt på om det også er utøvd samvær med barnet under gjennomføring av straff eller særreaksjon. Innreiseforbud gitt i medhold av lovens § 66 første ledd bokstav a, d og annet ledd, skal som hovedregel ikke settes til mer enn to år når utlendingen har barn i Norge og vilkårene i første punktum er oppfylt.
 
-Etter en konkret helhetsvurdering kan det likevel være grunnlag for å treffe vedtak om utvisning med varig innreiseforbud når utlendingen har barn i Norge. Forhold som særlig kan tale for varig innreiseforbud, er blant annet atutlendingen er straffet for et lovbrudd som kan føre til fengselsstraff i seks år eller mer,utlendingen er straffet for vold eller overgrep mot nære familiemedlemmer,utlendingen er domfelt gjentatte ganger for lovbrudd som kan føre til fengselsstraff i mer enn seks måneder, ellerdet ikke er uforholdsmessig å forutsette at familielivet kan videreføres i et annet land enn Norge.
+Etter en konkret helhetsvurdering kan det likevel være grunnlag for å treffe vedtak om utvisning med varig innreiseforbud når utlendingen har barn i Norge. Forhold som særlig kan tale for varig innreiseforbud, er blant annet at
+
+1. utlendingen er straffet for et lovbrudd som kan føre til fengselsstraff i seks år eller mer,
+2. utlendingen er straffet for vold eller overgrep mot nære familiemedlemmer,
+3. utlendingen er domfelt gjentatte ganger for lovbrudd som kan føre til fengselsstraff i mer enn seks måneder, eller
+4. det ikke er uforholdsmessig å forutsette at familielivet kan videreføres i et annet land enn Norge.
 
 Dersom utlendingen ikke bodde fast sammen med barnet eller utøvde samvær da det forhold som gir grunnlag for å vurdere utvisning fant sted, kan dette tillegges vekt ved vurderingen av innreiseforbudets varighet. Tilsvarende gjelder dersom det senere har vært et avbrudd i familielivet.
 
@@ -2398,13 +2766,22 @@ Vedtaket underskrives av vedkommende nemndleder.
 
 ### § 16-9. Om når en sak skal anses å by på vesentlige tvilsspørsmål mv.
 
-En sak skal anses å by på vesentlige tvilsspørsmål og avgjøres i nemndmøte dersom det er tvil om spørsmål som kan ha avgjørende betydning for utfallet av saken. Blant annet skal saken anses å by på vesentlige tvilsspørsmål dersomdet er tvil om klagerens troverdighet når det gjelder anførsler om faktiske forhold som kan ha avgjørende betydning for utfallet av saken,det er tvil om vurderingen av retursituasjonen og dette kan ha avgjørende betydning for utfallet av saken,det er tvil om rettslige tolkningsspørsmål som kan ha avgjørende betydning for utfallet av saken, ellerdet er tvil om hvordan et skjønn skal utøves og dette kan ha avgjørende betydning for utfallet av saken.
+En sak skal anses å by på vesentlige tvilsspørsmål og avgjøres i nemndmøte dersom det er tvil om spørsmål som kan ha avgjørende betydning for utfallet av saken. Blant annet skal saken anses å by på vesentlige tvilsspørsmål dersom
+
+1. det er tvil om klagerens troverdighet når det gjelder anførsler om faktiske forhold som kan ha avgjørende betydning for utfallet av saken,
+2. det er tvil om vurderingen av retursituasjonen og dette kan ha avgjørende betydning for utfallet av saken,
+3. det er tvil om rettslige tolkningsspørsmål som kan ha avgjørende betydning for utfallet av saken, eller
+4. det er tvil om hvordan et skjønn skal utøves og dette kan ha avgjørende betydning for utfallet av saken.
 
 Dersom saken gjelder beskyttelse etter § 28 eller vern mot retur etter § 73, og ett av vurderingstemaene er troverdigheten av anførsler om skifte av, eller frafall fra, religiøst livssyn, skal saken behandles i nemndmøte, med mindre særlige grunner taler imot det. Den utvidede retten til nemndmøtebehandling gjelder kun når anførselen ikke tidligere er behandlet i nemndmøte eller i domstolen.
 
 Dersom en klage over et vedtak om tilbakekall av statsborgerskap skal behandles i nemndmøte etter [statsborgerloven § 27](lov/2005-06-10-51/§27) tredje ledd, og det også er fremmet klage på et vedtak om utvisning, skal klagen på utvisningsvedtaket behandles i nemndmøte, med mindre nemndleder vil treffe vedtak om at utlendingen ikke skal utvises, eller andre særlige grunner tilsier at saken om utvisning avgjøres uten nemndmøtebehandling.
 
-Med mindre en nemndleder omgjør vedtaket i saken eller særlige grunner taler imot det, skal saken behandles i nemndmøte dersomen domstol har truffet rettskraftig avgjørelse om at Utlendingsnemndas avgjørelse er ugyldig,Utlendingsnemnda blir gjort kjent med en prejudisiell og rettskraftig avgjørelse fra en domstol som tilsier at Utlendingsnemndas avgjørelse kan være ugyldig, ellerSivilombudet i en konkret sak har anmodet om en fornyet vurdering av avgjørelsen.
+Med mindre en nemndleder omgjør vedtaket i saken eller særlige grunner taler imot det, skal saken behandles i nemndmøte dersom
+
+1. en domstol har truffet rettskraftig avgjørelse om at Utlendingsnemndas avgjørelse er ugyldig,
+2. Utlendingsnemnda blir gjort kjent med en prejudisiell og rettskraftig avgjørelse fra en domstol som tilsier at Utlendingsnemndas avgjørelse kan være ugyldig, eller
+3. Sivilombudet i en konkret sak har anmodet om en fornyet vurdering av avgjørelsen.
 
 I tilfeller som nevnt i fjerde ledd bokstav a til c skal ansvaret for saken overføres til en ny nemndleder. Utlendingsnemndas direktør kan fastsette nærmere unntak fra dette i retningslinjer, herunder for tilfeller hvor nemndleder finner grunn til å omgjøre vedtaket. Direktøren kan også i den enkelte sak treffe beslutning om at ansvaret for saken fortsatt skal ligge hos samme nemndleder, dersom særlige grunner taler for det.
 
@@ -2434,7 +2811,16 @@ Adgangen til å avgrense saken i første og annet ledd gjelder tilsvarende for e
 
 Når det er besluttet at en utlending kan gis adgang til å møte personlig og uttale seg i en sak som behandles etter lovens § 78 første eller annet ledd, jf. lovens § 78 sjette ledd, skal Utlendingsnemnda underrette utlendingen om dette og sette en frist for å gi skriftlig tilbakemelding på om utlendingen vil benytte seg av denne adgangen. Beslutning om personlig fremmøte treffes av en nemndleder.
 
-Adgang til personlig fremmøte skal som hovedregel gis i saker der Utlendingsdirektoratet har truffet vedtak omavslag på søknad om beskyttelse når det heller ikke er gitt tillatelse etter lovens § 38,avslag på søknad om familieinnvandring fremmet fra riket av en asylsøkers familiemedlem som ikke selv har søkt beskyttelse,avslag på søknad om avledet flyktningstatus, jf. lovens § 28 sjette ledd,at overføringsflyktning ikke gis status som flyktning, jf. lovens § 35 tredje ledd,tilbakekall av innvilget oppholdstillatelse som flyktning, og i denne forbindelse tilbakekall og avslag på søknad om fornyelse av utlendingens oppholdstillatelse, og tilbakekall og bortfall av permanent oppholdstillatelse,tilbakekall og avslag på søknad om fornyelse av oppholdstillatelse når førstegangs tillatelse er gitt etter lovens § 38 på grunnlag av søknad om beskyttelse,tilbakekall og bortfall av permanent oppholdstillatelse når førstegangs tillatelse er gitt etter lovens § 38 på grunnlag av søknad om beskyttelse, ellerutvisning av utlending som har påberopt seg vern mot forfølgelse etter lovens § 73.
+Adgang til personlig fremmøte skal som hovedregel gis i saker der Utlendingsdirektoratet har truffet vedtak om
+
+1. avslag på søknad om beskyttelse når det heller ikke er gitt tillatelse etter lovens § 38,
+2. avslag på søknad om familieinnvandring fremmet fra riket av en asylsøkers familiemedlem som ikke selv har søkt beskyttelse,
+3. avslag på søknad om avledet flyktningstatus, jf. lovens § 28 sjette ledd,
+4. at overføringsflyktning ikke gis status som flyktning, jf. lovens § 35 tredje ledd,
+5. tilbakekall av innvilget oppholdstillatelse som flyktning, og i denne forbindelse tilbakekall og avslag på søknad om fornyelse av utlendingens oppholdstillatelse, og tilbakekall og bortfall av permanent oppholdstillatelse,
+6. tilbakekall og avslag på søknad om fornyelse av oppholdstillatelse når førstegangs tillatelse er gitt etter lovens § 38 på grunnlag av søknad om beskyttelse,
+7. tilbakekall og bortfall av permanent oppholdstillatelse når førstegangs tillatelse er gitt etter lovens § 38 på grunnlag av søknad om beskyttelse, eller
+8. utvisning av utlending som har påberopt seg vern mot forfølgelse etter lovens § 73.
 
 Det kan gjøres unntak fra hovedregelen i annet ledd når utlendingens fremstilling av faktum er lagt til grunn, når det ikke er tvil om faktum eller når nemndleder anser det åpenbart at personlig fremmøte ikke vil ha betydning for avgjørelsen av saken.
 
@@ -2462,9 +2848,19 @@ Saken skal som hovedregel utsettes dersom utlendingen har gyldig forfall. Som gy
 
 En anmodning om omgjøring av vedtak truffet av Utlendingsnemnda kan avvises dersom vedkommende utlending ikke har kjent oppholdssted.
 
-En omgjøringsanmodning kan også avvises dersom den ikke innfrir følgende formkrav:Dersom anmodningen fremsettes av andre enn utlendingen selv eller en advokat eller advokatfullmektig, skal det vedlegges skriftlig fullmakt fra utlendingen, unntatt i tilfeller som nevnt i [§ 17-1](forskrift/2009-10-15-1286/§17-1) annet ledd tredje punktum.Anmodningen skal være skrevet på norsk eller engelsk.Ved fremleggelse av dokumentasjon på annet språk enn norsk eller engelsk skal det være redegjort for innholdet og betydningen av denne på norsk eller engelsk.Helseanførsler skal være dokumentert ved oppdatert helseerklæring i samsvar med forskrift om krav til helsepersonells attester, erklæringer o.l.Det skal fremgå hvilket vedtak som anmodes omgjort.
+En omgjøringsanmodning kan også avvises dersom den ikke innfrir følgende formkrav:
 
-Ved vurderingen av om en omgjøringsanmodning skal realitetsbehandles selv om det er grunnlag for avvisning etter første eller annet ledd, skal det særlig legges vekt på omanmodningen inneholder anførsler knyttet til barn,anmodningen inneholder nye anførsler som gjelder beskyttelse, og det ikke er klart at disse er uten betydning for utfallet i saken, ellervedtaket som anmodes omgjort, inneholder feil som kan ha betydning.
+1. Dersom anmodningen fremsettes av andre enn utlendingen selv eller en advokat eller advokatfullmektig, skal det vedlegges skriftlig fullmakt fra utlendingen, unntatt i tilfeller som nevnt i [§ 17-1](forskrift/2009-10-15-1286/§17-1) annet ledd tredje punktum.
+2. Anmodningen skal være skrevet på norsk eller engelsk.
+3. Ved fremleggelse av dokumentasjon på annet språk enn norsk eller engelsk skal det være redegjort for innholdet og betydningen av denne på norsk eller engelsk.
+4. Helseanførsler skal være dokumentert ved oppdatert helseerklæring i samsvar med forskrift om krav til helsepersonells attester, erklæringer o.l.
+5. Det skal fremgå hvilket vedtak som anmodes omgjort.
+
+Ved vurderingen av om en omgjøringsanmodning skal realitetsbehandles selv om det er grunnlag for avvisning etter første eller annet ledd, skal det særlig legges vekt på om
+
+1. anmodningen inneholder anførsler knyttet til barn,
+2. anmodningen inneholder nye anførsler som gjelder beskyttelse, og det ikke er klart at disse er uten betydning for utfallet i saken, eller
+3. vedtaket som anmodes omgjort, inneholder feil som kan ha betydning.
 
 > Tilføyd ved [forskrift 14 mai 2018 nr. 719](forskrift/2018-05-14-719) (i kraft 1 juni 2018).
 
@@ -2494,7 +2890,11 @@ En part har rett til å la seg bistå av fullmektig i saken, jf. [forvaltningslo
 
 ### § 17-1a. Begrunnelse i vedtak som berører barn
 
-I vedtak som berører barn, skal det fremkomme:hvilke vurderinger som har vært foretatt av barnets situasjon, herunder hvordan hensynet til barnets beste er vurdert,hvilke innvandringsregulerende hensyn som er vurdert, ogavveiningen som er foretatt mellom eventuelle motstridende hensyn.
+I vedtak som berører barn, skal det fremkomme:
+
+1. hvilke vurderinger som har vært foretatt av barnets situasjon, herunder hvordan hensynet til barnets beste er vurdert,
+2. hvilke innvandringsregulerende hensyn som er vurdert, og
+3. avveiningen som er foretatt mellom eventuelle motstridende hensyn.
 
 Første ledd gjelder likevel ikke dersom det anses åpenbart unødvendig fordi hensynet til barnet uansett ikke har betydning for vedtaket, for eksempel fordi det gis oppholdstillatelse på annet grunnlag.
 
@@ -2506,9 +2906,20 @@ Første ledd gjelder likevel ikke dersom det anses åpenbart unødvendig fordi h
 
 ### § 17-2. Asylintervju
 
-I saker om beskyttelse etter lovens [§ 28](lov/2008-05-15-35/§28) skal asylintervju gjennomføres snarest mulig, med mindre følgende vilkår er oppfylt:søkeren har gyldig oppholdstillatelse i Norge,det er foretatt registrering hos politiet,det er ikke tvil om identitet eller opplysninger i saken som tyder på at saken bør utredes nærmere, jf. lovens [§ 31](lov/2008-05-15-35/§31) og [kapittel 14](lov/2008-05-15-35/kap14), ogsøknaden anses som en klar innvilgelsessak i henhold til praksis i Utlendingsdirektoratet.
+I saker om beskyttelse etter lovens [§ 28](lov/2008-05-15-35/§28) skal asylintervju gjennomføres snarest mulig, med mindre følgende vilkår er oppfylt:
 
-Asylintervju kan også unnlates dersom ett av følgende vilkår er oppfylt:asylsøknaden blir nektet realitetsbehandlet etter lovens [§ 32](lov/2008-05-15-35/§32),asylsøknaden anses som åpenbart grunnløs, ellerlandinformasjon og asylpraksis tilsier at det er svært høy sannsynlighet for at søknaden vil bli avslått.For å kunne unnlate asylintervju etter bokstav b og c, er det en forutsetning at søkeren har fått uttale seg om årsaken til søknaden og hva vedkommende frykter ved retur til hjemlandet.
+1. søkeren har gyldig oppholdstillatelse i Norge,
+2. det er foretatt registrering hos politiet,
+3. det er ikke tvil om identitet eller opplysninger i saken som tyder på at saken bør utredes nærmere, jf. lovens [§ 31](lov/2008-05-15-35/§31) og [kapittel 14](lov/2008-05-15-35/kap14), og
+4. søknaden anses som en klar innvilgelsessak i henhold til praksis i Utlendingsdirektoratet.
+
+Asylintervju kan også unnlates dersom ett av følgende vilkår er oppfylt:
+
+1. asylsøknaden blir nektet realitetsbehandlet etter lovens [§ 32](lov/2008-05-15-35/§32),
+2. asylsøknaden anses som åpenbart grunnløs, eller
+3. landinformasjon og asylpraksis tilsier at det er svært høy sannsynlighet for at søknaden vil bli avslått.
+
+For å kunne unnlate asylintervju etter bokstav b og c, er det en forutsetning at søkeren har fått uttale seg om årsaken til søknaden og hva vedkommende frykter ved retur til hjemlandet.
 
 Asylsøkere over 18 år skal intervjues atskilt. Søkerens ektefelle eller samboer bør som regel intervjues, selv om vedkommende ikke søker beskyttelse. Intervjuet skal tilrettelegges på en måte som sikrer at saken blir best mulig opplyst. Utlendingsdirektoratet skal klarlegge om søkeren ut fra grunnlaget for asylsøknaden eller ut fra livssituasjonen har særlige behov under intervjusituasjonen. Kvinner skal spørres om de ønsker at intervjuer og tolk skal være kvinner. Slike ønsker, og andre særskilte behov, skal etterkommes så langt det er praktisk mulig.
 
@@ -2548,7 +2959,13 @@ Utlendingsdirektoratet gir nærmere retningslinjer for å sikre at barnets inter
 
 ### § 17-5. Tilbud om samtale med barn i saker om familieinnvandring
 
-Med mindre det anses åpenbart unødvendig, skal det som hovedregel gis tilbud om en samtale til barn over 7 år i saker om familieinnvandring som gjelderbarn som søker alene,barn som søker gjenforening med én forelder,fosterbarn,enslige mindreårige barn som har flyktningstatus i Norge, ogbarn med oppholdstillatelse etter lovens § 38, dersom det er aktuelt å innvilge oppholdstillatelse til én eller begge foreldre etter lovens § 49 første ledd.
+Med mindre det anses åpenbart unødvendig, skal det som hovedregel gis tilbud om en samtale til barn over 7 år i saker om familieinnvandring som gjelder
+
+1. barn som søker alene,
+2. barn som søker gjenforening med én forelder,
+3. fosterbarn,
+4. enslige mindreårige barn som har flyktningstatus i Norge, og
+5. barn med oppholdstillatelse etter lovens § 38, dersom det er aktuelt å innvilge oppholdstillatelse til én eller begge foreldre etter lovens § 49 første ledd.
 
 Opplysninger barnet gir under samtalen skal nedtegnes skriftlig.
 
@@ -2556,7 +2973,13 @@ Utlendingsdirektoratet gir nærmere retningslinjer for å sikre at barnets inter
 
 ### § 17-6. Varslingsplikt til barnevernstjenesten
 
-Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold i følgende tilfeller, jf. [barnevernsloven § 13-2 første ledd](lov/2021-06-18-97/§13-2/ledd/1):når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller utsatt for annen alvorlig omsorgssviktnår det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandlingnår det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæringnår et barn har vist alvorlige atferdsvansker ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved å ha vist annen form for utpreget normløs atferdnår det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold i følgende tilfeller, jf. [barnevernsloven § 13-2 første ledd](lov/2021-06-18-97/§13-2/ledd/1):
+
+1. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller utsatt for annen alvorlig omsorgssvikt
+2. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling
+3. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring
+4. når et barn har vist alvorlige atferdsvansker ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved å ha vist annen form for utpreget normløs atferd
+5. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
 
 > Endret ved [forskrifter 20 juni 2018 nr. 1015](forskrift/2018-06-20-1015) (i kraft 1 juli 2018), [12 mars 2024 nr. 425](forskrift/2024-03-12-425) (i kraft 25 mars 2024).
 
@@ -2564,7 +2987,17 @@ Enhver som utfører tjeneste eller arbeid for et forvaltningsorgan, skal uten hi
 
 ### § 17-7. Utlendingens opplysningsplikt etter lovens § 83 annet ledd
 
-Utlendingsmyndighetene kan som ledd i å avklare en utlendings identitet, pålegge utlendingen ågi opplysninger om forhold som har tilknytning til utlendingens identitet, bl.a. navn, nasjonalitet, fødselsdato, fødested, bosted/oppholdssted i hjemlandet, sivilstatus, familiemedlemmer, identitetsdokumenter og reiserute til Norge,legge fram reisedokument eller lignende dokument utferdiget av offentlig myndighet i inn- eller utland som bekreftelse på utlendingens identitet. Utlending som ikke har slikt dokument i sin besittelse kan pålegges å innhente det. Utlendingen kan også pålegges å medvirke til at slikt dokument innhentes eller utstedes, herunder ved å la seg fremstille for aktuelle lands utenriksstasjon og gi de opplysninger som er nødvendige for å få utstedt reisedokument,legge fram dokumenter utferdiget av utlendingen selv, offentlige myndigheter eller andre i inn- eller utland, der opplysninger om utlendingens identitet fremgår helt eller delvis. En utlending som ikke har slike dokumenter i sin besittelse, kan pålegges å innhente dem eller medvirke til at de innhentes,legge fram brev, notater, elektronisk lagrede opplysninger mv., utferdiget av utlendingen selv eller andre, der opplysninger om utlendingens identitet fremgår helt eller delvis,innhente eller medvirke til å innhente opplysninger hos offentlige myndigheter i inn- eller utland om registreringer som kan bidra til å avklare utlendingens identitet,innhente eller medvirke til å innhente opplysninger om skolegang, arbeidsforhold, boligforhold, bank- og forsikringsforhold mv., i inn- eller utland som kan bidra til å avklare utlendingens identitet,legge fram billetter, bagasjekvitteringer og lignende,delta i språkanalyse, ogavlegge skriftprøve for at sammenlignende skriftundersøkelse kan foretas.
+Utlendingsmyndighetene kan som ledd i å avklare en utlendings identitet, pålegge utlendingen å
+
+1. gi opplysninger om forhold som har tilknytning til utlendingens identitet, bl.a. navn, nasjonalitet, fødselsdato, fødested, bosted/oppholdssted i hjemlandet, sivilstatus, familiemedlemmer, identitetsdokumenter og reiserute til Norge,
+2. legge fram reisedokument eller lignende dokument utferdiget av offentlig myndighet i inn- eller utland som bekreftelse på utlendingens identitet. Utlending som ikke har slikt dokument i sin besittelse kan pålegges å innhente det. Utlendingen kan også pålegges å medvirke til at slikt dokument innhentes eller utstedes, herunder ved å la seg fremstille for aktuelle lands utenriksstasjon og gi de opplysninger som er nødvendige for å få utstedt reisedokument,
+3. legge fram dokumenter utferdiget av utlendingen selv, offentlige myndigheter eller andre i inn- eller utland, der opplysninger om utlendingens identitet fremgår helt eller delvis. En utlending som ikke har slike dokumenter i sin besittelse, kan pålegges å innhente dem eller medvirke til at de innhentes,
+4. legge fram brev, notater, elektronisk lagrede opplysninger mv., utferdiget av utlendingen selv eller andre, der opplysninger om utlendingens identitet fremgår helt eller delvis,
+5. innhente eller medvirke til å innhente opplysninger hos offentlige myndigheter i inn- eller utland om registreringer som kan bidra til å avklare utlendingens identitet,
+6. innhente eller medvirke til å innhente opplysninger om skolegang, arbeidsforhold, boligforhold, bank- og forsikringsforhold mv., i inn- eller utland som kan bidra til å avklare utlendingens identitet,
+7. legge fram billetter, bagasjekvitteringer og lignende,
+8. delta i språkanalyse, og
+9. avlegge skriftprøve for at sammenlignende skriftundersøkelse kan foretas.
 
 En utlending som søker eller som er innvilget beskyttelse, kan ikke pålegges å ta kontakt med sitt hjemlands myndigheter dersom dette kan komme i konflikt med et behov for beskyttelse. Utlendingen kan heller ikke pålegges å avklare sin identitet på annen måte som kan komme i konflikt med et behov for beskyttelse.
 
@@ -2580,7 +3013,23 @@ En utlending som pålegges å medvirke til å avklare sin identitet i medhold av
 
 ### § 17-7a. Formålet med behandlingen av personopplysninger
 
-Personopplysninger skal samles inn for spesifikke, uttrykkelig angitte og berettigede formål, herunderregulere og kontrollere utlendingers innreise, utreise og opphold i riketbehandle saker om visum, oppholdstillatelse, beskyttelse, reisedokument, bortvisning og utvisningtilbakekalle tillatelseravklare utlendingens identitet og alderalminnelig utlendingskontrollutstede oppholdskort og andre oppholdsdokumenter, reisebevis, visum og grenseboerbevisgi tilbud om innkvartering til asylsøkeretildele økonomiske ytelser til beboere i mottaktilrettelegge for utlendinger med oppfølgingsbehov under saksbehandlingen og i mottakbehandle klager på vedtaksøksmål mot staten om lovmessigheten av vedtakiverksette vedtaktildele stønad til retur eller tilbakevendingkontrollere og verifisere opplysningerrapportere om saksbehandlingen etter pålegg fra overordnet myndighet.
+Personopplysninger skal samles inn for spesifikke, uttrykkelig angitte og berettigede formål, herunder
+
+1. regulere og kontrollere utlendingers innreise, utreise og opphold i riket
+2. behandle saker om visum, oppholdstillatelse, beskyttelse, reisedokument, bortvisning og utvisning
+3. tilbakekalle tillatelser
+4. avklare utlendingens identitet og alder
+5. alminnelig utlendingskontroll
+6. utstede oppholdskort og andre oppholdsdokumenter, reisebevis, visum og grenseboerbevis
+7. gi tilbud om innkvartering til asylsøkere
+8. tildele økonomiske ytelser til beboere i mottak
+9. tilrettelegge for utlendinger med oppfølgingsbehov under saksbehandlingen og i mottak
+10. behandle klager på vedtak
+11. søksmål mot staten om lovmessigheten av vedtak
+12. iverksette vedtak
+13. tildele stønad til retur eller tilbakevending
+14. kontrollere og verifisere opplysninger
+15. rapportere om saksbehandlingen etter pålegg fra overordnet myndighet.
 
 Utlendingsmyndighetene kan viderebehandle personopplysninger for nye formål når det er nødvendig av kontrollhensyn og sakene har en forbindelse. Begrensningene i første punktum gjelder ikke for viderebehandling for forenelige formål.
 
@@ -2610,7 +3059,15 @@ Utlendingsdirektoratet skal foreta jevnlige manuelle kontroller av bruken av aut
 
 Barnevernsmyndighetene skal etter anmodning fra politiet i sak om iverksetting av vedtak, gi opplysninger om utlendingens navn og adresse.
 
-Barnevernsmyndighetene skal etter anmodning fra Utlendingsdirektoratet, Utlendingsnemnda eller politiet gi nødvendige opplysninger om hjelpetiltak, akuttiltak, omsorgsovertakelse, fratakelse av foreldreansvar, adopsjon og samvær etter barnevernsloven som berører søkeren, søkerens familiemedlemmer eller andre personer i søkerens husstand i sak omvisum etter [lovens kapittel 2](forskrift/2009-10-15-1286/kap2),beskyttelse etter [lovens kapittel 4](forskrift/2009-10-15-1286/kap4),innkvartering etter lovens § 95,oppholdstillatelse på grunn sterke menneskelige hensyn eller særlig tilknytning til riket etter [lovens kapittel 5](forskrift/2009-10-15-1286/kap5),familieinnvandring etter [lovens kapittel 6](forskrift/2009-10-15-1286/kap6),utvisning etter [lovens kapittel 8](forskrift/2009-10-15-1286/kap8) og § 122, ogreisebevis for flyktninger og utlendingspass etter lovens § 64.
+Barnevernsmyndighetene skal etter anmodning fra Utlendingsdirektoratet, Utlendingsnemnda eller politiet gi nødvendige opplysninger om hjelpetiltak, akuttiltak, omsorgsovertakelse, fratakelse av foreldreansvar, adopsjon og samvær etter barnevernsloven som berører søkeren, søkerens familiemedlemmer eller andre personer i søkerens husstand i sak om
+
+1. visum etter [lovens kapittel 2](forskrift/2009-10-15-1286/kap2),
+2. beskyttelse etter [lovens kapittel 4](forskrift/2009-10-15-1286/kap4),
+3. innkvartering etter lovens § 95,
+4. oppholdstillatelse på grunn sterke menneskelige hensyn eller særlig tilknytning til riket etter [lovens kapittel 5](forskrift/2009-10-15-1286/kap5),
+5. familieinnvandring etter [lovens kapittel 6](forskrift/2009-10-15-1286/kap6),
+6. utvisning etter [lovens kapittel 8](forskrift/2009-10-15-1286/kap8) og § 122, og
+7. reisebevis for flyktninger og utlendingspass etter lovens § 64.
 
 Opplysninger etter bestemmelsen her kan gis uten hinder av reglene om taushetsplikt i [barnevernsloven § 13-1](lov/2021-06-18-97/§13-1).
 
@@ -2618,7 +3075,10 @@ Opplysninger etter bestemmelsen her kan gis uten hinder av reglene om taushetspl
 
 ### § 17-7e. Kommunene
 
-Kommunene skal etter anmodning fra politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda i sak omfamilieinnvandring etter lovens kapittel 6 og tilbakekall av oppholdstillatelse etter lovens § 63, gi opplysninger om vedtak om tildeling av introduksjonsstønad i medhold av [integreringsloven](lov/2020-11-06-127) til referanseperson, herunder beløpets størrelsepermanent oppholdstillatelse etter lovens § 62, gi opplysninger om søkeren har gjennomført pliktig opplæring i norsk og samfunnskunnskap i henhold til [integreringsloven](lov/2020-11-06-127), resultatet av de avsluttende prøvene og om fritak fra plikt til å delta i opplæring i norsk og samfunnskunnskap eller fritak fra plikt til å avlegge avsluttende prøver.
+Kommunene skal etter anmodning fra politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda i sak om
+
+1. familieinnvandring etter lovens kapittel 6 og tilbakekall av oppholdstillatelse etter lovens § 63, gi opplysninger om vedtak om tildeling av introduksjonsstønad i medhold av [integreringsloven](lov/2020-11-06-127) til referanseperson, herunder beløpets størrelse
+2. permanent oppholdstillatelse etter lovens § 62, gi opplysninger om søkeren har gjennomført pliktig opplæring i norsk og samfunnskunnskap i henhold til [integreringsloven](lov/2020-11-06-127), resultatet av de avsluttende prøvene og om fritak fra plikt til å delta i opplæring i norsk og samfunnskunnskap eller fritak fra plikt til å avlegge avsluttende prøver.
 
 Kommunene skal etter anmodning også gi opplysninger om søkerens utdanning i grunnskolen, herunder opptak, hjemmel for opptak, progresjon, permisjoner og resultater, samt om opplæringen gjennomføres som del av introduksjonsprogrammet eller gjennom tiltak fra Arbeids- og velferdsetaten, dersom det er nødvendig for å behandle sak om permanent oppholdstillatelse etter lovens § 62.
 
@@ -2630,21 +3090,52 @@ Opplysningene kan innhentes fra nasjonale registre.
 
 ### § 17-7f. Statens lånekasse for utdanning
 
-Statens lånekasse for utdanning skal etter anmodning fra politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om utdanningsstøtte til utlending eller referanseperson, herunder opplysninger om vedtak, støttebeløp og status på utbetalingene for støtteperioden, i sak omopphold i forbindelse med arbeid og studier mv. etter lovens kapittel 3,familieinnvandring etter lovens kapittel 6,fornyelse av oppholdstillatelse etter lovens § 61,permanent oppholdstillatelse etter lovens § 62,tilbakekall av oppholdstillatelse etter lovens § 63, ogtildeling av ytelser til utlending som er innkvartert etter lovens § 95.
+Statens lånekasse for utdanning skal etter anmodning fra politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om utdanningsstøtte til utlending eller referanseperson, herunder opplysninger om vedtak, støttebeløp og status på utbetalingene for støtteperioden, i sak om
+
+1. opphold i forbindelse med arbeid og studier mv. etter lovens kapittel 3,
+2. familieinnvandring etter lovens kapittel 6,
+3. fornyelse av oppholdstillatelse etter lovens § 61,
+4. permanent oppholdstillatelse etter lovens § 62,
+5. tilbakekall av oppholdstillatelse etter lovens § 63, og
+6. tildeling av ytelser til utlending som er innkvartert etter lovens § 95.
 
 > Tilføyd ved [forskrift 22 juni 2012 nr. 636](forskrift/2012-06-22-636) (i kraft 23 juni 2012), endret ved [forskrifter 4 des 2014 nr. 1698](forskrift/2014-12-04-1698) (i kraft 1 jan 2015), [26 juni 2018 nr. 1077](forskrift/2018-06-26-1077) (i kraft 20 juli 2018, tidligere § 17-7c), [28 feb 2020 nr. 212](forskrift/2020-02-28-212) (i kraft 5 mars 2020, tidligere § 17-7e).
 
 ### § 17-7g. Arbeids- og velferdsforvaltningen
 
-Arbeids- og velferdsforvaltningen skal etter anmodning, uten hinder av taushetsplikt i [lov om arbeids- og velferdsforvaltningen § 7](lov/2006-06-16-20/§7) og [lov om sosiale tjenester i arbeids- og velferdsforvaltningen § 44](lov/2009-12-18-131/§44), i sak omiverksetting av vedtak og ved fastsetting av utlendingens identitet, gi opplysninger til politiet om utlendingens identitet og kontaktinformasjon,familieinnvandring etter lovens kapittel 6, fornyelse av oppholdstillatelse etter lovens § 61, permanent oppholdstillatelse etter lovens § 62 og tilbakekall av oppholdstillatelse etter lovens § 63, gi opplysninger til politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda om referansepersonen har mottatt økonomisk stønad eller kvalifiseringsstønad etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen de siste 12 månedene, jf. lovens § 58 og forskriftens [§ 10-10](forskrift/2009-10-15-1286/§10-10),oppholdstillatelse i forbindelse med arbeid og studier mv. etter lovens kapittel 3, fornyelse av oppholdstillatelse etter lovens § 61, permanent oppholdstillatelse etter lovens § 62 og tilbakekall av oppholdstillatelse etter lovens § 63, gi opplysninger til politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda, om utlendingen har mottatt økonomisk stønad eller kvalifiseringsstønad etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen, herunder beløpets størrelse, jf. lovens § 58 og forskriftens [§ 10-7](forskrift/2009-10-15-1286/§10-7),oppholdsrett etter lovens kapittel 13 og tilbakekall av oppholdsdokumenter etter lovens § 120, gi opplysninger til politiet, Utlendingsdirektoratet eller Utlendingsnemnda om utlendingen har mottatt økonomisk stønad etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen, herunder beløpets størrelse, art, varighet og antall utbetalinger, jf. lovens § 112.utvisning etter [lovens kapittel 8](forskrift/2009-10-15-1286/kap8) og § 122, gi Utlendingsdirektoratet og Utlendingsnemnda opplysninger om utlendingen har mottatt økonomisk stønad etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen, ogtildeling av ytelser til utlending som er innkvartert etter lovens § 95, gi Utlendingsdirektoratet opplysninger om utlendingen har mottatt økonomisk stønad etter lov om barnetrygd, lov om kontantstøtte og lov om supplerende støtte.
+Arbeids- og velferdsforvaltningen skal etter anmodning, uten hinder av taushetsplikt i [lov om arbeids- og velferdsforvaltningen § 7](lov/2006-06-16-20/§7) og [lov om sosiale tjenester i arbeids- og velferdsforvaltningen § 44](lov/2009-12-18-131/§44), i sak om
 
-Arbeids- og velferdsforvaltningen skal etter anmodning fra politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda, uten hinder av taushetsplikt i [lov om arbeids- og velferdsforvaltningen § 7](lov/2006-06-16-20/§7), gi opplysninger om vedtak om tildeling av ytelser etter folketrygdloven til utlending eller referanseperson, herunder beløpets størrelse, art, varighet og antall utbetalinger, i sak omfamilieinnvandring etter lovens kapittel 6,fornyelse av oppholdstillatelse etter lovens § 61,permanent oppholdstillatelse etter lovens § 62,tilbakekall av oppholdstillatelse etter lovens § 63,oppholdsrett etter [lovens kapittel 13](forskrift/2009-10-15-1286/kap13),utvisning etter [lovens kapittel 8](forskrift/2009-10-15-1286/kap8) og § 122, ogtildeling av ytelser til utlending som er innkvartert etter lovens § 95.
+1. iverksetting av vedtak og ved fastsetting av utlendingens identitet, gi opplysninger til politiet om utlendingens identitet og kontaktinformasjon,
+2. familieinnvandring etter lovens kapittel 6, fornyelse av oppholdstillatelse etter lovens § 61, permanent oppholdstillatelse etter lovens § 62 og tilbakekall av oppholdstillatelse etter lovens § 63, gi opplysninger til politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda om referansepersonen har mottatt økonomisk stønad eller kvalifiseringsstønad etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen de siste 12 månedene, jf. lovens § 58 og forskriftens [§ 10-10](forskrift/2009-10-15-1286/§10-10),
+3. oppholdstillatelse i forbindelse med arbeid og studier mv. etter lovens kapittel 3, fornyelse av oppholdstillatelse etter lovens § 61, permanent oppholdstillatelse etter lovens § 62 og tilbakekall av oppholdstillatelse etter lovens § 63, gi opplysninger til politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda, om utlendingen har mottatt økonomisk stønad eller kvalifiseringsstønad etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen, herunder beløpets størrelse, jf. lovens § 58 og forskriftens [§ 10-7](forskrift/2009-10-15-1286/§10-7),
+4. oppholdsrett etter lovens kapittel 13 og tilbakekall av oppholdsdokumenter etter lovens § 120, gi opplysninger til politiet, Utlendingsdirektoratet eller Utlendingsnemnda om utlendingen har mottatt økonomisk stønad etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen, herunder beløpets størrelse, art, varighet og antall utbetalinger, jf. lovens § 112.
+5. utvisning etter [lovens kapittel 8](forskrift/2009-10-15-1286/kap8) og § 122, gi Utlendingsdirektoratet og Utlendingsnemnda opplysninger om utlendingen har mottatt økonomisk stønad etter lov om sosiale tjenester i arbeids- og velferdsforvaltningen, og
+6. tildeling av ytelser til utlending som er innkvartert etter lovens § 95, gi Utlendingsdirektoratet opplysninger om utlendingen har mottatt økonomisk stønad etter lov om barnetrygd, lov om kontantstøtte og lov om supplerende støtte.
+
+Arbeids- og velferdsforvaltningen skal etter anmodning fra politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda, uten hinder av taushetsplikt i [lov om arbeids- og velferdsforvaltningen § 7](lov/2006-06-16-20/§7), gi opplysninger om vedtak om tildeling av ytelser etter folketrygdloven til utlending eller referanseperson, herunder beløpets størrelse, art, varighet og antall utbetalinger, i sak om
+
+1. familieinnvandring etter lovens kapittel 6,
+2. fornyelse av oppholdstillatelse etter lovens § 61,
+3. permanent oppholdstillatelse etter lovens § 62,
+4. tilbakekall av oppholdstillatelse etter lovens § 63,
+5. oppholdsrett etter [lovens kapittel 13](forskrift/2009-10-15-1286/kap13),
+6. utvisning etter [lovens kapittel 8](forskrift/2009-10-15-1286/kap8) og § 122, og
+7. tildeling av ytelser til utlending som er innkvartert etter lovens § 95.
 
 > Tilføyd ved forskrift [22 juni 2012 nr. 636](forskrift/2012-06-22-636) (i kraft 23 juni 2012), endret ved forskrifter [26 juni 2018 nr. 1077](forskrift/2018-06-26-1077) (i kraft 20 juli 2018, tidligere § 17-7d), [28 feb 2020 nr. 212](forskrift/2020-02-28-212) (i kraft 5 mars 2020, tidligere § 17-7f), [25 april 2025 nr. 699](forskrift/2025-04-25-699) (i kraft 2 juni 2025).
 
 ### § 17-7h. Skattemyndighetene
 
-Skattemyndighetene skal etter anmodning fra politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda, uten hinder av taushetsplikt i [skatteforvaltningsloven § 3-1](lov/2016-05-27-14/§3-1), gi opplysninger om utlendingens inntekt og formue i sak omopphold i forbindelse med arbeid og studier mv. etter lovens kapittel 3,familieinnvandring etter lovens kapittel 6,fornyelse av oppholdstillatelse etter lovens § 61,permanent oppholdstillatelse etter lovens § 62,tilbakekall av oppholdstilaltelse etter lovens § 63,sak om oppholdsrett etter [lovens kapittel 13](forskrift/2009-10-15-1286/kap13),utvisning etter [lovens kapittel 8](forskrift/2009-10-15-1286/kap8) og § 122, ogtildeling av ytelser til utlending som er innkvartert etter lovens § 95.
+Skattemyndighetene skal etter anmodning fra politiet, norsk utenriksstasjon, Utlendingsdirektoratet eller Utlendingsnemnda, uten hinder av taushetsplikt i [skatteforvaltningsloven § 3-1](lov/2016-05-27-14/§3-1), gi opplysninger om utlendingens inntekt og formue i sak om
+
+1. opphold i forbindelse med arbeid og studier mv. etter lovens kapittel 3,
+2. familieinnvandring etter lovens kapittel 6,
+3. fornyelse av oppholdstillatelse etter lovens § 61,
+4. permanent oppholdstillatelse etter lovens § 62,
+5. tilbakekall av oppholdstilaltelse etter lovens § 63,
+6. sak om oppholdsrett etter [lovens kapittel 13](forskrift/2009-10-15-1286/kap13),
+7. utvisning etter [lovens kapittel 8](forskrift/2009-10-15-1286/kap8) og § 122, og
+8. tildeling av ytelser til utlending som er innkvartert etter lovens § 95.
 
 Første ledd bokstav b til f gjelder tilsvarende for opplysninger om referanseperson og tredjemannsgarantist i sak om familieinnvandring.
 
@@ -2652,7 +3143,21 @@ Første ledd bokstav b til f gjelder tilsvarende for opplysninger om referansepe
 
 ### § 17-7i. Politiet
 
-Politiet skal etter anmodning fra norsk utenriksstasjon, Utlendingsdirektoratet, Utlendingsnemnda eller departementet gi vandelsopplysninger, jf. annet ledd, om utlendingen i sak omvisum etter lovens § 10,utelukkelse fra retten til anerkjennelse som flyktning etter lovens § 31,oppholdstillatelse etter lovens § 38,opphold i forbindelse med arbeid og studier mv. etter lovens kapittel 3, jf. § 59,familieinnvandring etter lovens kapittel 6, jf. § 59,fornyelse av oppholdstillatelse etter lovens § 61,permanent oppholdstillatelse etter lovens § 62,tilbakekall av oppholdstillatelse etter lovens § 63,reisebevis for flyktninger og utlendingspass etter lovens § 64,tilbakekall av oppholdsdokumenter etter lovens § 120,bortvisning etter lovens § 17 og § 121,utvisning etter lovens § 66 til § 68, § 122 og § 126 annet ledd, ogkontroll som utføres i forbindelse med utlendingens meldeplikt etter lovens § 19 første ledd eller forskriftens [§ 1-1](forskrift/2009-10-15-1286/§1-1) tolvte ledd og [§ 1-10](forskrift/2009-10-15-1286/§1-10) tredje ledd.
+Politiet skal etter anmodning fra norsk utenriksstasjon, Utlendingsdirektoratet, Utlendingsnemnda eller departementet gi vandelsopplysninger, jf. annet ledd, om utlendingen i sak om
+
+1. visum etter lovens § 10,
+2. utelukkelse fra retten til anerkjennelse som flyktning etter lovens § 31,
+3. oppholdstillatelse etter lovens § 38,
+4. opphold i forbindelse med arbeid og studier mv. etter lovens kapittel 3, jf. § 59,
+5. familieinnvandring etter lovens kapittel 6, jf. § 59,
+6. fornyelse av oppholdstillatelse etter lovens § 61,
+7. permanent oppholdstillatelse etter lovens § 62,
+8. tilbakekall av oppholdstillatelse etter lovens § 63,
+9. reisebevis for flyktninger og utlendingspass etter lovens § 64,
+10. tilbakekall av oppholdsdokumenter etter lovens § 120,
+11. bortvisning etter lovens § 17 og § 121,
+12. utvisning etter lovens § 66 til § 68, § 122 og § 126 annet ledd, og
+13. kontroll som utføres i forbindelse med utlendingens meldeplikt etter lovens § 19 første ledd eller forskriftens [§ 1-1](forskrift/2009-10-15-1286/§1-1) tolvte ledd og [§ 1-10](forskrift/2009-10-15-1286/§1-10) tredje ledd.
 
 Vandelsopplysninger i henhold til første ledd omfatter opplysninger om hvorvidt utlendingen har vært ilagt straff eller andre strafferettslige reaksjoner eller andre tiltak som følge av lovbrudd, eller er under straffeforfølgning, jf. også [politiregisterloven § 36](lov/2010-05-28-16/§36) første ledd nr. 1. I sak etter første ledd bokstav m, kan det også innhentes opplysninger om identitet.
 
@@ -2664,9 +3169,40 @@ Politiet skal etter anmodning fra Utlendingsdirektoratet eller Utlendingsnemnda 
 
 ### § 17-7j. Folkeregistermyndigheten
 
-Folkeregistermyndigheten skal etter anmodning fra politiet, norsk utenrikstjeneste, Utlendingsdirektoratet eller Utlendingsnemnda, uten hinder av taushetsplikt, gi opplysninger om utlendingen registrert etter [folkeregisterloven § 3-1](lov/2016-12-09-88/§3-1) og [§ 3-2 i](lov/2016-12-09-88/§3-2) sak omvisum etter lovens § 10, § 11 og § 12,oppholdstillatelse etter lovens § 28, § 34 og § 35,utelukkelse fra retten til anerkjennelse som flyktning etter lovens § 31,oppholdstillatelse etter lovens § 38,opphold i forbindelse med arbeid og studier mv. etter lovens kapittel 3 og rett til å ta arbeid etter § 94,familieinnvandring etter lovens kapittel 6,fornyelse av oppholdstillatelse etter lovens § 61,permanent oppholdstillatelse etter lovens § 62,tilbakekall av oppholdstillatelse etter lovens § 31 fjerde ledd, § 37, § 63 og § 126 annet ledd,utstedelse av oppholdskort etter lovens § 64a,oppholdsrett etter lovens kapittel 13,tilbakekall av oppholdsdokumenter etter lovens § 120,reisebevis for flyktninger og utlendingspass etter lovens § 64,bortvisning etter lovens § 17 og § 121,utvisning etter lovens § 66, § 67, § 68, § 122, § 123 og § 126 annet ledd,opphevelse av innreiseforbud etter lovens § 71 fjerde ledd og § 124,kontroll som utføres i forbindelse med utlendingens meldeplikt etter lovens § 19 første ledd eller forskriftens [§ 1-1](forskrift/2009-10-15-1286/§1-1) tolvte ledd og [§ 1-10](forskrift/2009-10-15-1286/§1-10) tredje ledd,inn- og utreisekontroll etter [grenseloven § 15](lov/2018-04-20-8/§15),alminnelig utlendingskontroll etter lovens § 21,iverksetting av vedtak,fastsetting av utlendingens identitet etter lovens § 83 annet ledd,assistert retur, ogoppholdstillatelse eller unntak fra krav til oppholdstillatelse for diplomater mv. og deres familie etter lovens § 5 tredje ledd, jf. forskriftens [§ 1-4](forskrift/2009-10-15-1286/§1-4) og [§ 1-5](forskrift/2009-10-15-1286/§1-5) og utstedelse av oppholdskort etter [§ 1-5A](forskrift/2009-10-15-1286/§1-5a).
+Folkeregistermyndigheten skal etter anmodning fra politiet, norsk utenrikstjeneste, Utlendingsdirektoratet eller Utlendingsnemnda, uten hinder av taushetsplikt, gi opplysninger om utlendingen registrert etter [folkeregisterloven § 3-1](lov/2016-12-09-88/§3-1) og [§ 3-2 i](lov/2016-12-09-88/§3-2) sak om
 
-Folkeregistermyndigheten skal etter anmodning fra offentlige myndigheter nevnt i første ledd, uten hinder av taushetsplikt, gi opplysninger registrert etter [folkeregisterloven § 3-1](lov/2016-12-09-88/§3-1) og [§ 3-2](lov/2016-12-09-88/§3-2) omreferanseperson og garantist, samt deres barn, foreldre, søsken, ektefelle, tidligere ektefeller, samboer, søskens barn, foreldres søsken og foreldres søskens barn i sak som nevnt i første ledd bokstav a,personer i vertsfamilien samt vertsfamiliens barn, foreldre, søsken, ektefelle, tidligere ektefeller, samboer, søskens barn, foreldres søsken og foreldres søskens barn i sak om oppholdstillatelse for au pair, jf. lovens § 26 første ledd bokstav a, jf. forskriftens [§ 6-25](forskrift/2009-10-15-1286/§6-25), i sak som nevnt i første ledd bokstav g, i, n, o, p og i sak om tiltak mot vertsfamilie for au pair etter lovens § 27b,person som utad representerer arbeidsgiver etter lovens § 23, oppdragsgiver etter lovens § 24 eller foretak etter § 26 og deres barn, foreldre, søsken, ektefelle, tidligere ektefeller, samboer, søskens barn, foreldres søsken og foreldres søskens barn i sak som nevnt i første ledd bokstav e, g, h, i, k og o,utlendingens barn, foreldre, søsken, søskens ektefeller, søskens barn, ektefelle, tidligere ektefeller, samboer, foreldres ektefelle, foreldres søsken og foreldres søskens barn i sak som nevnt i første ledd bokstav a til p,referansepersonen og referansepersonens barn, foreldre, søsken, søskens barn, ektefelle, tidligere ektefeller, samboer, foreldres søsken og foreldres søskens barn i sak som nevnt i første ledd bokstav b, d, f, g, h, i, j, k, l, m, n, o og p, ogutlendingens barn, foreldre, søsken, søskens barn, ektefelle, tidligere ektefeller, samboer, foreldres søsken og foreldres søskens barn i sak som nevnt i første ledd bokstav w.
+1. visum etter lovens § 10, § 11 og § 12,
+2. oppholdstillatelse etter lovens § 28, § 34 og § 35,
+3. utelukkelse fra retten til anerkjennelse som flyktning etter lovens § 31,
+4. oppholdstillatelse etter lovens § 38,
+5. opphold i forbindelse med arbeid og studier mv. etter lovens kapittel 3 og rett til å ta arbeid etter § 94,
+6. familieinnvandring etter lovens kapittel 6,
+7. fornyelse av oppholdstillatelse etter lovens § 61,
+8. permanent oppholdstillatelse etter lovens § 62,
+9. tilbakekall av oppholdstillatelse etter lovens § 31 fjerde ledd, § 37, § 63 og § 126 annet ledd,
+10. utstedelse av oppholdskort etter lovens § 64a,
+11. oppholdsrett etter lovens kapittel 13,
+12. tilbakekall av oppholdsdokumenter etter lovens § 120,
+13. reisebevis for flyktninger og utlendingspass etter lovens § 64,
+14. bortvisning etter lovens § 17 og § 121,
+15. utvisning etter lovens § 66, § 67, § 68, § 122, § 123 og § 126 annet ledd,
+16. opphevelse av innreiseforbud etter lovens § 71 fjerde ledd og § 124,
+17. kontroll som utføres i forbindelse med utlendingens meldeplikt etter lovens § 19 første ledd eller forskriftens [§ 1-1](forskrift/2009-10-15-1286/§1-1) tolvte ledd og [§ 1-10](forskrift/2009-10-15-1286/§1-10) tredje ledd,
+18. inn- og utreisekontroll etter [grenseloven § 15](lov/2018-04-20-8/§15),
+19. alminnelig utlendingskontroll etter lovens § 21,
+20. iverksetting av vedtak,
+21. fastsetting av utlendingens identitet etter lovens § 83 annet ledd,
+22. assistert retur, og
+23. oppholdstillatelse eller unntak fra krav til oppholdstillatelse for diplomater mv. og deres familie etter lovens § 5 tredje ledd, jf. forskriftens [§ 1-4](forskrift/2009-10-15-1286/§1-4) og [§ 1-5](forskrift/2009-10-15-1286/§1-5) og utstedelse av oppholdskort etter [§ 1-5A](forskrift/2009-10-15-1286/§1-5a).
+
+Folkeregistermyndigheten skal etter anmodning fra offentlige myndigheter nevnt i første ledd, uten hinder av taushetsplikt, gi opplysninger registrert etter [folkeregisterloven § 3-1](lov/2016-12-09-88/§3-1) og [§ 3-2](lov/2016-12-09-88/§3-2) om
+
+1. referanseperson og garantist, samt deres barn, foreldre, søsken, ektefelle, tidligere ektefeller, samboer, søskens barn, foreldres søsken og foreldres søskens barn i sak som nevnt i første ledd bokstav a,
+2. personer i vertsfamilien samt vertsfamiliens barn, foreldre, søsken, ektefelle, tidligere ektefeller, samboer, søskens barn, foreldres søsken og foreldres søskens barn i sak om oppholdstillatelse for au pair, jf. lovens § 26 første ledd bokstav a, jf. forskriftens [§ 6-25](forskrift/2009-10-15-1286/§6-25), i sak som nevnt i første ledd bokstav g, i, n, o, p og i sak om tiltak mot vertsfamilie for au pair etter lovens § 27b,
+3. person som utad representerer arbeidsgiver etter lovens § 23, oppdragsgiver etter lovens § 24 eller foretak etter § 26 og deres barn, foreldre, søsken, ektefelle, tidligere ektefeller, samboer, søskens barn, foreldres søsken og foreldres søskens barn i sak som nevnt i første ledd bokstav e, g, h, i, k og o,
+4. utlendingens barn, foreldre, søsken, søskens ektefeller, søskens barn, ektefelle, tidligere ektefeller, samboer, foreldres ektefelle, foreldres søsken og foreldres søskens barn i sak som nevnt i første ledd bokstav a til p,
+5. referansepersonen og referansepersonens barn, foreldre, søsken, søskens barn, ektefelle, tidligere ektefeller, samboer, foreldres søsken og foreldres søskens barn i sak som nevnt i første ledd bokstav b, d, f, g, h, i, j, k, l, m, n, o og p, og
+6. utlendingens barn, foreldre, søsken, søskens barn, ektefelle, tidligere ektefeller, samboer, foreldres søsken og foreldres søskens barn i sak som nevnt i første ledd bokstav w.
 
 Folkeregistermyndigheten skal, uten hinder av taushetsplikt, gi opplysninger registrert etter [folkeregisterloven § 3-1](lov/2016-12-09-88/§3-1) og [§ 3-2](lov/2016-12-09-88/§3-2) til de offentlige myndigheter nevnt i første ledd i forbindelse med utlendingsmyndighetenes rekvirering av d-nummer og innsending av opplysninger for tildeling av fødselsnummer til utlendinger som oppholder seg i Norge.
 
@@ -2674,7 +3210,12 @@ Folkeregistermyndigheten skal, uten hinder av taushetsplikt, gi opplysninger reg
 
 ### § 17-7k. Fylkeskommunene, universiteter, høyskoler, frittstående skoler, studentsamskipnadene og Direktoratet for høyere utdanning og kompetanse
 
-Fylkeskommunene, universiteter, høyskoler, frittstående skoler og studentsamskipnadene skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om utlendingens studier, herunder opptak, hjemmel for opptak, progresjon, permisjoner, vitnemål, bolig og underhold, dersom det er nødvendig for å behandle sak omopphold i forbindelse med arbeid og studier mv. etter lovens kapittel 3 og fornyelse av slik tillatelse etter lovens § 61opphold i forbindelse med arbeid på faste innretninger etter lovens § 6, jf. forskriftens § 1-11, og fornyelse av slik tillatelse etter lovens § 61adgang til å søke førstegangs oppholdstillatelse etter innreise etter lovens § 56, jf. forskriftens § 10-1permanent oppholdstillatelse etter lovens § 62.
+Fylkeskommunene, universiteter, høyskoler, frittstående skoler og studentsamskipnadene skal etter anmodning fra politiet, Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om utlendingens studier, herunder opptak, hjemmel for opptak, progresjon, permisjoner, vitnemål, bolig og underhold, dersom det er nødvendig for å behandle sak om
+
+1. opphold i forbindelse med arbeid og studier mv. etter lovens kapittel 3 og fornyelse av slik tillatelse etter lovens § 61
+2. opphold i forbindelse med arbeid på faste innretninger etter lovens § 6, jf. forskriftens § 1-11, og fornyelse av slik tillatelse etter lovens § 61
+3. adgang til å søke førstegangs oppholdstillatelse etter innreise etter lovens § 56, jf. forskriftens § 10-1
+4. permanent oppholdstillatelse etter lovens § 62.
 
 Tilsvarende gjelder opplysninger om referansepersonens studier i sak om oppholdstillatelse i familieinnvandring etter lovens kapittel 6 og fornyelse av slik tillatelse etter lovens § 61.
 
@@ -2730,11 +3271,40 @@ I saker om familiegjenforening etter [utlendingsloven kapittel 6](lov/2008-05-15
 
 ### § 17-10. Behandlingsgebyr ved søknad om midlertidig eller permanent oppholdstillatelse eller ved fornyelse av oppholdstillatelse
 
-Ved registrering av en søknad om oppholdstillatelse eller fornyelse av en slik tillatelse betales følgende gebyrer senest samtidig med innleveringen av søknaden:kr 6 300 i saker om arbeid eller studier mv., jf. lovens § 23 til § 26, men likevel slik at det skal betaleskr 5 400 i saker om studenter mv., jf. § 6-19, og forskere med egne midler, jf. § 6-20kr 9 300 i saker om au pair, jf. § 6-25kr 6 300 per arbeidstaker ved gruppetillatelse, jf. § 6-7 og § 6-15.kr 11 900 i saker om familieinnvandring, jf. lovens kapittel 6, men likevel slik at det skal betaleskr 4 400 dersom søknad om fornyelse er fremsatt før tillatelsen er utløptkr 7 800 dersom referansepersonen har oppholdstillatelse etter søknad om asyl og ennå ikke er innvilget permanent oppholdstillatelse i følgende saker:oppholdstillatelse for ektefeller, jf. lovens § 40, dersom ekteskapet var inngått før tidspunktet for referansepersonens innreise i riket, eller partene har unnfanget barn før tidspunktet for referansepersonens innreise til Norge eller mens begge har hatt oppholdstillatelse i Norgeoppholdstillatelse for samboere, jf. lovens § 41, dersom partene har levd i et fast og etablert samboerforhold i minst to år, eller har unnfanget barn før tidspunktet for referansepersonens innreise til Norge eller mens begge har hatt oppholdstillatelse i Norgeoppholdstillatelse for foreldre, jf. lovens § 43 og § 46familieinnvandring for andre familiemedlemmer, jf. § 9-7kr 5 400 ved søknad om oppholdstillatelse til utlendinger med norsk forelder på fødselstidspunktet, jf. § 8-10kr 4 000 ved søknad om permanent oppholdstillatelse, jf. lovens § 62kr 1 100 i øvrige saker.
+Ved registrering av en søknad om oppholdstillatelse eller fornyelse av en slik tillatelse betales følgende gebyrer senest samtidig med innleveringen av søknaden:
+
+1. kr 6 300 i saker om arbeid eller studier mv., jf. lovens § 23 til § 26, men likevel slik at det skal betales
+
+   1. kr 5 400 i saker om studenter mv., jf. § 6-19, og forskere med egne midler, jf. § 6-20
+   2. kr 9 300 i saker om au pair, jf. § 6-25
+   3. kr 6 300 per arbeidstaker ved gruppetillatelse, jf. § 6-7 og § 6-15.
+2. kr 11 900 i saker om familieinnvandring, jf. lovens kapittel 6, men likevel slik at det skal betales
+
+   1. kr 4 400 dersom søknad om fornyelse er fremsatt før tillatelsen er utløpt
+   2. kr 7 800 dersom referansepersonen har oppholdstillatelse etter søknad om asyl og ennå ikke er innvilget permanent oppholdstillatelse i følgende saker:
+
+      1. oppholdstillatelse for ektefeller, jf. lovens § 40, dersom ekteskapet var inngått før tidspunktet for referansepersonens innreise i riket, eller partene har unnfanget barn før tidspunktet for referansepersonens innreise til Norge eller mens begge har hatt oppholdstillatelse i Norge
+      2. oppholdstillatelse for samboere, jf. lovens § 41, dersom partene har levd i et fast og etablert samboerforhold i minst to år, eller har unnfanget barn før tidspunktet for referansepersonens innreise til Norge eller mens begge har hatt oppholdstillatelse i Norge
+      3. oppholdstillatelse for foreldre, jf. lovens § 43 og § 46
+      4. familieinnvandring for andre familiemedlemmer, jf. § 9-7
+3. kr 5 400 ved søknad om oppholdstillatelse til utlendinger med norsk forelder på fødselstidspunktet, jf. § 8-10
+4. kr 4 000 ved søknad om permanent oppholdstillatelse, jf. lovens § 62
+5. kr 1 100 i øvrige saker.
 
 Barn under 18 år betaler halvt gebyr. Dersom referansepersonen i sak om familieinnvandring har oppholdstillatelse etter søknad om asyl og ennå ikke er innvilget permanent oppholdstillatelse, betaler barnet halvparten av gebyret som er fastsatt i første ledd bokstav b nr. 2.
 
-Bestemmelsene i første og annet ledd gjelder ikkesøknad om beskyttelse eller fornyelse av tillatelse til utlending som er innvilget beskyttelse,søknad som gjelder ektefelle eller samboer og forsørget barn av utlending tilknyttet diplomatiske eller lønte konsulære stasjoner (representasjoner) i riket, når slikt unntak følger av Norges folkerettslige forpliktelser. Unntaket gjelder også ektefelle eller samboer og forsørget barn av utlending som er hjelpepersonale ved slik stasjon,søknad som er fremsatt i henhold til [§ 8-3](forskrift/2009-10-15-1286/§8-3) og [§ 8-4](forskrift/2009-10-15-1286/§8-4) om oppholdstillatelse for utlendinger som antas å være utsatt for menneskehandel,søknad som gjelder oppholdstillatelse på selvstendig grunnlag etter lovens [§ 53](lov/2008-05-15-35/§53), og søknad fra barn under 18 år om familieinnvandring med slik referanseperson,søknad om tillatelse til å ta arbeid under behandling av søknad om beskyttelse, jf. lovens [§ 94](lov/2008-05-15-35/§94) og forskriftens [§ 17-26](forskrift/2009-10-15-1286/§17-26),søknad om tillatelse til utlending som skal utføre arbeid i forbindelse med en krisesituasjon, [jf. § 6-31](forskrift/2009-10-15-1286/§6-31),søknad om tillatelse til utlending som har vernet mot utsendelse etter lovens [§ 73](lov/2008-05-15-35/§73) som eneste oppholdsgrunnlag, jf. lovens [§ 74](lov/2008-05-15-35/§74),søknad som gjelder oppholdstillatelse etter [kapittel 6](forskrift/2009-10-15-1286/kap6) for å delta i Fulbright-programmet, og søknad fra familiemedlemmer som søker familiegjenforening med deltaker i dette programmet,søknad fra barn under 18 år om familieinnvandring med referanseperson som har tillatelse etter [§ 8-3](forskrift/2009-10-15-1286/§8-3), ellersøknad fra barn under 18 år om familieinnvandring med referanseperson som i vedtak av Utlendingsdirektoratet eller Utlendingsnemnda er ansett som et tidligere offer for menneskehandel.
+Bestemmelsene i første og annet ledd gjelder ikke
+
+1. søknad om beskyttelse eller fornyelse av tillatelse til utlending som er innvilget beskyttelse,
+2. søknad som gjelder ektefelle eller samboer og forsørget barn av utlending tilknyttet diplomatiske eller lønte konsulære stasjoner (representasjoner) i riket, når slikt unntak følger av Norges folkerettslige forpliktelser. Unntaket gjelder også ektefelle eller samboer og forsørget barn av utlending som er hjelpepersonale ved slik stasjon,
+3. søknad som er fremsatt i henhold til [§ 8-3](forskrift/2009-10-15-1286/§8-3) og [§ 8-4](forskrift/2009-10-15-1286/§8-4) om oppholdstillatelse for utlendinger som antas å være utsatt for menneskehandel,
+4. søknad som gjelder oppholdstillatelse på selvstendig grunnlag etter lovens [§ 53](lov/2008-05-15-35/§53), og søknad fra barn under 18 år om familieinnvandring med slik referanseperson,
+5. søknad om tillatelse til å ta arbeid under behandling av søknad om beskyttelse, jf. lovens [§ 94](lov/2008-05-15-35/§94) og forskriftens [§ 17-26](forskrift/2009-10-15-1286/§17-26),
+6. søknad om tillatelse til utlending som skal utføre arbeid i forbindelse med en krisesituasjon, [jf. § 6-31](forskrift/2009-10-15-1286/§6-31),
+7. søknad om tillatelse til utlending som har vernet mot utsendelse etter lovens [§ 73](lov/2008-05-15-35/§73) som eneste oppholdsgrunnlag, jf. lovens [§ 74](lov/2008-05-15-35/§74),
+8. søknad som gjelder oppholdstillatelse etter [kapittel 6](forskrift/2009-10-15-1286/kap6) for å delta i Fulbright-programmet, og søknad fra familiemedlemmer som søker familiegjenforening med deltaker i dette programmet,
+9. søknad fra barn under 18 år om familieinnvandring med referanseperson som har tillatelse etter [§ 8-3](forskrift/2009-10-15-1286/§8-3), eller
+10. søknad fra barn under 18 år om familieinnvandring med referanseperson som i vedtak av Utlendingsdirektoratet eller Utlendingsnemnda er ansett som et tidligere offer for menneskehandel.
 
 Utlendingsdirektoratet kan fastsette at det skal kreves gebyr for søknad om tillatelse til å ta arbeid i påvente av utreise, når søknaden fremsettes etter endelig avslag på søknad om beskyttelse.
 
@@ -2754,7 +3324,11 @@ Ved søknad om utlendingspass fra utlending som ikke kan skaffe seg pass eller a
 
 ### § 17-11a. Gebyr ved bestilling av nytt Schengen-standardisert oppholdskort
 
-Ved bestilling av nytt Schengen-standardisert oppholdskort, for eksempel fordi kortet er mistet, ødelagt eller utlendingen av andre grunner har behov for nytt kort, skal det betales et gebyr på 300 kr. Det skal likevel ikke betales gebyrfor oppholdskort som utstedes i forbindelse med innvilgelse av midlertidig eller permanent oppholdstillatelse,når behovet for nytt oppholdskort skyldes feil eller mangler ved kortet (reklamasjon), ellernår oppholdskortets gyldighet er av kortere varighet enn oppholdstillatelsen, og nytt kort bestilles før utløpet av det gamle kortets gyldighetstid.
+Ved bestilling av nytt Schengen-standardisert oppholdskort, for eksempel fordi kortet er mistet, ødelagt eller utlendingen av andre grunner har behov for nytt kort, skal det betales et gebyr på 300 kr. Det skal likevel ikke betales gebyr
+
+1. for oppholdskort som utstedes i forbindelse med innvilgelse av midlertidig eller permanent oppholdstillatelse,
+2. når behovet for nytt oppholdskort skyldes feil eller mangler ved kortet (reklamasjon), eller
+3. når oppholdskortets gyldighet er av kortere varighet enn oppholdstillatelsen, og nytt kort bestilles før utløpet av det gamle kortets gyldighetstid.
 
 For grenseboerbevis gjelder det egne regler om gebyr, jf. avtale mellom Kongeriket Norges regjering og Den Russiske Føderasjons regjering om forenkling av gjensidige reiser for grenseboere i Kongeriket Norge og Den Russiske Føderasjon, artikkel 10. Avtalen er inntatt som vedlegg 19 til forskriften, jf. [§ 3-1a](forskrift/2009-10-15-1286/§3-1a).
 
@@ -2918,7 +3492,11 @@ Tingretten skal motta, kontrollere og honorere arbeidsoppgave og salærkrav fra 
 
 ### § 17-20b. Valg av advokat i sak som nevnt i lovens § 106 første ledd bokstav h
 
-I tilfeller hvor en utlending pågripes fordi søknaden om beskyttelse antas å være åpenbart grunnløs og skal behandles i løpet av 48 timer, jf. lovens § 106 første ledd bokstav h, og utlendingen har rett til prosessfullmektig eller fritt rettsråd etter lovens § 92, skal det som hovedregel oppnevnes samme advokat i forbindelse medpågripelse og eventuell internering,søknaden om beskyttelse ogen eventuell sak om utvisning.
+I tilfeller hvor en utlending pågripes fordi søknaden om beskyttelse antas å være åpenbart grunnløs og skal behandles i løpet av 48 timer, jf. lovens § 106 første ledd bokstav h, og utlendingen har rett til prosessfullmektig eller fritt rettsråd etter lovens § 92, skal det som hovedregel oppnevnes samme advokat i forbindelse med
+
+1. pågripelse og eventuell internering,
+2. søknaden om beskyttelse og
+3. en eventuell sak om utvisning.
 
 > Tilføyd ved [forskrift 31 aug 2016 nr. 1021](forskrift/2016-08-31-1021), endret ved [forskrifter 9 mai 2018 nr. 705](forskrift/2018-05-09-705) (i kraft 15 mai 2018), [21 feb 2022 nr. 271](forskrift/2022-02-21-271) (i kraft 1 juni 2022, tidligere § 17-20a).
 
@@ -3016,19 +3594,57 @@ Ved oversending av opplysninger i medhold av lovens § 98, kan det opplyses om e
 
 ### § 17-31. Oversending av opplysninger i sak om visum (unntak fra taushetsplikt)
 
-Ved underretning til øvrige Schengenland om utstedelse av visum av humanitære grunner, jf. lovens § 11, kan det i medhold av lovens § 98 annet ledd, i tillegg til opplysninger nevnt i forskriftens [§ 17-30](forskrift/2009-10-15-1286/§17-30), oversendes opplysninger omsted og dato for visumutstedelsen, oggrunner for visumutstedelsen.
+Ved underretning til øvrige Schengenland om utstedelse av visum av humanitære grunner, jf. lovens § 11, kan det i medhold av lovens § 98 annet ledd, i tillegg til opplysninger nevnt i forskriftens [§ 17-30](forskrift/2009-10-15-1286/§17-30), oversendes opplysninger om
 
-Ved underretning til øvrige Schengenland om annullering eller inndragning av visum og ved reduksjon av visumets gyldighetstid, kan det i medhold av lovens 98 annet ledd, i tillegg til opplysninger nevnt i forskriftens [§ 17-30](forskrift/2009-10-15-1286/§17-30), oversendes opplysninger omreisedokumentets art og nummer,visumetikettens nummer,visumkategori,sted og dato for visumutstedelsen, ogdato og grunner for annullering, inndragning eller reduksjon av gyldighetstid.
+1. sted og dato for visumutstedelsen, og
+2. grunner for visumutstedelsen.
 
-Når et Schengenland har bedt om samråd før visum utstedes, kan det i medhold av lovens § 98 annet ledd, i tillegg til opplysninger som nevnt i forskriftens [§ 17-30](forskrift/2009-10-15-1286/§17-30), oversendes opplysninger omhvilken utenriksstasjon søknaden er fremlagt for,tidligere statsborgerskap,type og nummer på de reisedokumenter som er fremlagt, samt utstedelsesdato og gyldighetstid,oppholdets varighet og formål,datoer for reisen,søkers bosted, yrke og arbeidsgiver,opplysninger fra andre Schengenland, særlig om tidligere søknader til eller opphold på et Schengenlands territorium,hvilken grense søkeren har til hensikt å passere ved innreise til Schengenterritoriet, ogandre opplysninger av betydning for utenriksstasjonen, for eksempel om ektefelle og mindreårige barn som reiser sammen med søkeren, tidligere visa utstedt til søkeren eller visumsøknader knyttet til samme bestemmelsessted.
+Ved underretning til øvrige Schengenland om annullering eller inndragning av visum og ved reduksjon av visumets gyldighetstid, kan det i medhold av lovens 98 annet ledd, i tillegg til opplysninger nevnt i forskriftens [§ 17-30](forskrift/2009-10-15-1286/§17-30), oversendes opplysninger om
+
+1. reisedokumentets art og nummer,
+2. visumetikettens nummer,
+3. visumkategori,
+4. sted og dato for visumutstedelsen, og
+5. dato og grunner for annullering, inndragning eller reduksjon av gyldighetstid.
+
+Når et Schengenland har bedt om samråd før visum utstedes, kan det i medhold av lovens § 98 annet ledd, i tillegg til opplysninger som nevnt i forskriftens [§ 17-30](forskrift/2009-10-15-1286/§17-30), oversendes opplysninger om
+
+1. hvilken utenriksstasjon søknaden er fremlagt for,
+2. tidligere statsborgerskap,
+3. type og nummer på de reisedokumenter som er fremlagt, samt utstedelsesdato og gyldighetstid,
+4. oppholdets varighet og formål,
+5. datoer for reisen,
+6. søkers bosted, yrke og arbeidsgiver,
+7. opplysninger fra andre Schengenland, særlig om tidligere søknader til eller opphold på et Schengenlands territorium,
+8. hvilken grense søkeren har til hensikt å passere ved innreise til Schengenterritoriet, og
+9. andre opplysninger av betydning for utenriksstasjonen, for eksempel om ektefelle og mindreårige barn som reiser sammen med søkeren, tidligere visa utstedt til søkeren eller visumsøknader knyttet til samme bestemmelsessted.
 
 ### § 17-32. Oversending av opplysninger i sak om oppholdstillatelse til utlending som er innmeldt i Schengen informasjonssystem (SIS) (unntak fra taushetsplikt)
 
-Når det vurderes å utstede oppholdstillatelse til en utlending som er innmeldt i Schengen informasjonssystem (SIS) med henblikk på ikke å tillate innreise, eller når utlending som har gyldig oppholdstillatelse utstedt av et Schengenland er innmeldt i SIS med henblikk på ikke å tillate innreise, og det i denne forbindelse skal være samråd mellom berørte land, kan det i medhold av lovens § 98 annet ledd, i tillegg til opplysninger som nevnt i forskriftens [§ 17-30](forskrift/2009-10-15-1286/§17-30), oversendes opplysninger omvedtakstype,hvilken myndighet som har fattet vedtaket,dato for vedtaket,dato for forkynnelse,iverksettelsesdato,vedtakets varighet, ogårsak til at personen er uønsket på det innmeldende lands territorium.
+Når det vurderes å utstede oppholdstillatelse til en utlending som er innmeldt i Schengen informasjonssystem (SIS) med henblikk på ikke å tillate innreise, eller når utlending som har gyldig oppholdstillatelse utstedt av et Schengenland er innmeldt i SIS med henblikk på ikke å tillate innreise, og det i denne forbindelse skal være samråd mellom berørte land, kan det i medhold av lovens § 98 annet ledd, i tillegg til opplysninger som nevnt i forskriftens [§ 17-30](forskrift/2009-10-15-1286/§17-30), oversendes opplysninger om
+
+1. vedtakstype,
+2. hvilken myndighet som har fattet vedtaket,
+3. dato for vedtaket,
+4. dato for forkynnelse,
+5. iverksettelsesdato,
+6. vedtakets varighet, og
+7. årsak til at personen er uønsket på det innmeldende lands territorium.
 
 ### § 17-33. Oversending av opplysninger i asylsak (unntak fra taushetsplikt)
 
-Ved behandling av søknad om beskyttelse, kan det i medhold av lovens § 98 annet ledd, i tillegg til opplysninger som nevnt i forskriftens [§ 17-30](forskrift/2009-10-15-1286/§17-30), oversendes opplysninger omsøkerens eventuelle tidligere navn, aliasnavn, fødested og tidligere statsborgerskap,legitimasjons- og reisedokumenter,andre opplysninger som er nødvendige for å kunne fastslå identiteten til en som søker om beskyttelse,oppholdssteder og reiseruter,oppholdstillatelser eller visa utstedt av Schengenland,stedet der asylsøknaden er innlevert,eventuell dato for tidligere asylsøknad, dato for fremsetting av foreliggende asylsøknad, opplysning om hvor langt saksbehandlingen er kommet og innholdet av det vedtak som er truffet,de grunner for asylsøknaden som er anført i søknaden,begrunnelse for vedtak i saken, oghelseopplysninger om den personen som skal overføres.
+Ved behandling av søknad om beskyttelse, kan det i medhold av lovens § 98 annet ledd, i tillegg til opplysninger som nevnt i forskriftens [§ 17-30](forskrift/2009-10-15-1286/§17-30), oversendes opplysninger om
+
+1. søkerens eventuelle tidligere navn, aliasnavn, fødested og tidligere statsborgerskap,
+2. legitimasjons- og reisedokumenter,
+3. andre opplysninger som er nødvendige for å kunne fastslå identiteten til en som søker om beskyttelse,
+4. oppholdssteder og reiseruter,
+5. oppholdstillatelser eller visa utstedt av Schengenland,
+6. stedet der asylsøknaden er innlevert,
+7. eventuell dato for tidligere asylsøknad, dato for fremsetting av foreliggende asylsøknad, opplysning om hvor langt saksbehandlingen er kommet og innholdet av det vedtak som er truffet,
+8. de grunner for asylsøknaden som er anført i søknaden,
+9. begrunnelse for vedtak i saken, og
+10. helseopplysninger om den personen som skal overføres.
 
 Oversending av opplysninger som nevnt i første ledd, kan bare finne sted når dette er nødvendig for å avgjøre hvilket land som skal ha ansvaret for behandlingen av asylsøknaden, for å kunne behandle søknaden eller for å kunne oppfylle andre forpliktelser. For oversending av opplysninger som nevnt i første ledd bokstav h og i, er det i tillegg et vilkår at asylsøkeren har samtykket til slik oversending. For oversending av opplysninger som nevnt i første ledd bokstav j, er det også et vilkår at asylsøkeren har samtykket til slik oversending med mindre vedkommende er fysisk eller juridisk ute av stand til å gi slikt samtykke og overføringen er nødvendig for å beskytte en persons vitale interesser.
 
@@ -3060,7 +3676,17 @@ I tillegg til dekning som omtalt i første ledd, dekkes nødvendige utgifter til
 
 ### § 18-1. Opptak og lagring av ansiktsfoto og fingeravtrykk, jf. lovens § 100
 
-Det skal opptas og lagres biometriske opplysninger i form av ansiktsfoto og fingeravtrykk avutlending som søker beskyttelse eller omfattes av [lovens § 35](lov/2008-05-15-35/§35)utlending som søker oppholdstillatelse, så langt det er mulig. I tilfeller der det skal innhentes fingeravtrykk og ansiktsfoto, men dette ikke er mulig å gjøre før innreise til Norge av organisatoriske årsaker, skal innhenting skje etter innreise til Norgeutlending som får oppholdstillatelse og som ikke allerede er registrert med fingeravtrykk eller ansiktsfotoutlending som søker Schengenvisum, jf. lovens [§ 10](lov/2008-05-15-35/§10) eller visum av humanitære grunner, jf. lovens [§ 11](lov/2008-05-15-35/§11), med mindre unntak følger av visumforordningen. I tillegg til at ansiktsfoto og fingeravtrykk skal lagres i VIS, jf. lovens [§ 102 b](lov/2008-05-15-35/§102b) første ledd bokstav b og c, skal opplysningene så langt det er mulig også registreres i utlendingsregisteretutlending som søker innreisevisum, jf. lovens [§ 12](lov/2008-05-15-35/§12)utlending som ikke kan dokumentere sin identitet eller som det er grunn til å mistenke for å oppgi uriktige opplysningerutlending som oppholder seg ulovlig i Norgeutlending som er bortvist etter å ha blitt ilagt straff eller strafferettslig reaksjon, jf. [straffeloven § 30](lov/2005-05-20-28/§30)utlending som er utvist.
+Det skal opptas og lagres biometriske opplysninger i form av ansiktsfoto og fingeravtrykk av
+
+1. utlending som søker beskyttelse eller omfattes av [lovens § 35](lov/2008-05-15-35/§35)
+2. utlending som søker oppholdstillatelse, så langt det er mulig. I tilfeller der det skal innhentes fingeravtrykk og ansiktsfoto, men dette ikke er mulig å gjøre før innreise til Norge av organisatoriske årsaker, skal innhenting skje etter innreise til Norge
+3. utlending som får oppholdstillatelse og som ikke allerede er registrert med fingeravtrykk eller ansiktsfoto
+4. utlending som søker Schengenvisum, jf. lovens [§ 10](lov/2008-05-15-35/§10) eller visum av humanitære grunner, jf. lovens [§ 11](lov/2008-05-15-35/§11), med mindre unntak følger av visumforordningen. I tillegg til at ansiktsfoto og fingeravtrykk skal lagres i VIS, jf. lovens [§ 102 b](lov/2008-05-15-35/§102b) første ledd bokstav b og c, skal opplysningene så langt det er mulig også registreres i utlendingsregisteret
+5. utlending som søker innreisevisum, jf. lovens [§ 12](lov/2008-05-15-35/§12)
+6. utlending som ikke kan dokumentere sin identitet eller som det er grunn til å mistenke for å oppgi uriktige opplysninger
+7. utlending som oppholder seg ulovlig i Norge
+8. utlending som er bortvist etter å ha blitt ilagt straff eller strafferettslig reaksjon, jf. [straffeloven § 30](lov/2005-05-20-28/§30)
+9. utlending som er utvist.
 
 Det skal ikke opptas fingeravtrykk etter første ledd av barn under seks år. I tilfeller som faller inn under første ledd bokstav d, skal det ikke opptas fingeravtrykk av barn under tolv år, jf. visumforordningen artikkel 13 nr. 7 bokstav a.
 
@@ -3090,7 +3716,10 @@ Utlendingsdirektoratet er behandlingsansvarlig for utlendingsregisteret, og Krip
 
 ### § 18-3. Søk i utlendingsregisteret og andre registre
 
-Samtidig med registrering av et fingeravtrykk, skal det søkes iutlendingsregisteret for å undersøke om utlendingen allerede er registrert under samme eller annen identitet, ogdet alminnelige fingeravtrykkregister for å undersøke om utlendingen er ettersøkt i Norge eller annet land.
+Samtidig med registrering av et fingeravtrykk, skal det søkes i
+
+1. utlendingsregisteret for å undersøke om utlendingen allerede er registrert under samme eller annen identitet, og
+2. det alminnelige fingeravtrykkregister for å undersøke om utlendingen er ettersøkt i Norge eller annet land.
 
 Når det er grunn til å anta at utlendingen har hatt opphold i annet land enn hjemlandet før ankomsten til Norge, kan fingeravtrykket oversendes til dette landets myndigheter for søk der. For EØS-borgere gjelder [§ 19-27](forskrift/2009-10-15-1286/§19-27).
 
@@ -3202,7 +3831,22 @@ En utlending som pågripes og interneres i medhold av lovens § 106 første ledd
 
 Med bot straffes den som forsettlig eller uaktsomt unnlater å oppfylle meldeplikten etter [§ 19-11](forskrift/2009-10-15-1286/§19-11) første eller annet ledd.
 
-Med bot eller fengsel inntil seks måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrer[§ 1-1](forskrift/2009-10-15-1286/§1-1) tolvte ledd[§ 1-10](forskrift/2009-10-15-1286/§1-10) tredje ledd[§ 4-25](forskrift/2009-10-15-1286/§4-25) første, tredje og fjerde ledd[§ 4-27](forskrift/2009-10-15-1286/§4-27)[§ 4-28](forskrift/2009-10-15-1286/§4-28)[§ 12-4](forskrift/2009-10-15-1286/§12-4) første, andre og tredje ledd[§ 12-8](forskrift/2009-10-15-1286/§12-8)[§ 12-13](forskrift/2009-10-15-1286/§12-13) andre ledd[§ 12-16](forskrift/2009-10-15-1286/§12-16)[§ 12-17](forskrift/2009-10-15-1286/§12-17) andre ledd[§ 12-18](forskrift/2009-10-15-1286/§12-18)[§ 17-7](forskrift/2009-10-15-1286/§17-7) første ledd[§ 17-21](forskrift/2009-10-15-1286/§17-21) andre ledd[§ 18-12](forskrift/2009-10-15-1286/§18-12) første, andre og tredje ledd.
+Med bot eller fengsel inntil seks måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrer
+
+- [§ 1-1](forskrift/2009-10-15-1286/§1-1) tolvte ledd
+- [§ 1-10](forskrift/2009-10-15-1286/§1-10) tredje ledd
+- [§ 4-25](forskrift/2009-10-15-1286/§4-25) første, tredje og fjerde ledd
+- [§ 4-27](forskrift/2009-10-15-1286/§4-27)
+- [§ 4-28](forskrift/2009-10-15-1286/§4-28)
+- [§ 12-4](forskrift/2009-10-15-1286/§12-4) første, andre og tredje ledd
+- [§ 12-8](forskrift/2009-10-15-1286/§12-8)
+- [§ 12-13](forskrift/2009-10-15-1286/§12-13) andre ledd
+- [§ 12-16](forskrift/2009-10-15-1286/§12-16)
+- [§ 12-17](forskrift/2009-10-15-1286/§12-17) andre ledd
+- [§ 12-18](forskrift/2009-10-15-1286/§12-18)
+- [§ 17-7](forskrift/2009-10-15-1286/§17-7) første ledd
+- [§ 17-21](forskrift/2009-10-15-1286/§17-21) andre ledd
+- [§ 18-12](forskrift/2009-10-15-1286/§18-12) første, andre og tredje ledd.
 
 Dersom en asylsøker har fått utstedt en seks måneders tillatelse etter lovens § 94 til å ta arbeid, og tillatelsen bortfaller fordi utlendingen får avslag på asylsøknaden, kan den som gjør bruk av utlendingens arbeidskraft bare straffes for dette etter lovens § 108 annet ledd, tredje ledd bokstav a og sjette ledd dersom det er utvist forsett.
 
@@ -3228,9 +3872,17 @@ Reglene i lovens kapittel 13 og dette kapittelet gjelder også for utlendinger s
 
 ### § 19-2. Hvilke av lovens øvrige bestemmelser som gjelder ved siden av bestemmelsene i lovens kapittel 13
 
-For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 1 i loven med følgende unntak og presiseringer;de som har oppholdsrett og kan få registreringsbevis eller oppholdskort etter lovens kapittel 13, trenger ikke oppholdstillatelse, jf. lovens § 5 annet ledd og lovens § 55,for dem som er nevnt i lovens § 5 tredje og fjerde ledd, gjelder ikke bestemmelsene i lovens kapittel 13,for dem som har oppholdsrett etter lovens kapittel 13, gjelder lovens kapittel 14 bare innenfor rammen av hva som er nødvendig av hensynet til offentlig orden eller sikkerhet, jf. lovens § 122.
+For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 1 i loven med følgende unntak og presiseringer;
 
-For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 2 i loven med følgende unntak og presiseringer;innreisebestemmelsene i lovens § 8, § 9 og § 10 og i forskriftens [kapittel 2](forskrift/2009-10-15-1286/kap2) og [3](forskrift/2009-10-15-1286/kap3) gjelder,lovens § 16, § 17 og § 18 gjelder ikke, med mindre det følger av forskriftens [§ 19-5](forskrift/2009-10-15-1286/§19-5),lovens § 19 gjelder ikke.
+1. de som har oppholdsrett og kan få registreringsbevis eller oppholdskort etter lovens kapittel 13, trenger ikke oppholdstillatelse, jf. lovens § 5 annet ledd og lovens § 55,
+2. for dem som er nevnt i lovens § 5 tredje og fjerde ledd, gjelder ikke bestemmelsene i lovens kapittel 13,
+3. for dem som har oppholdsrett etter lovens kapittel 13, gjelder lovens kapittel 14 bare innenfor rammen av hva som er nødvendig av hensynet til offentlig orden eller sikkerhet, jf. lovens § 122.
+
+For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 2 i loven med følgende unntak og presiseringer;
+
+1. innreisebestemmelsene i lovens § 8, § 9 og § 10 og i forskriftens [kapittel 2](forskrift/2009-10-15-1286/kap2) og [3](forskrift/2009-10-15-1286/kap3) gjelder,
+2. lovens § 16, § 17 og § 18 gjelder ikke, med mindre det følger av forskriftens [§ 19-5](forskrift/2009-10-15-1286/§19-5),
+3. lovens § 19 gjelder ikke.
 
 For utlendinger som er omfattet av kapittel 13, gjelder kapittel 5 i loven.
 
@@ -3238,13 +3890,24 @@ Familiemedlemmer som er omfattet av lovens kapittel 13, kan få oppholdstillatel
 
 For utlendinger som er omfattet av lovens kapittel 13, gjelder ikke kapittel 8 i loven med mindre det følger av forskriftens [§ 19-5](forskrift/2009-10-15-1286/§19-5). Forskriftens [§ 14-3](forskrift/2009-10-15-1286/§14-3) annet, femte, sjette og sjuende ledd og [§ 14-5](forskrift/2009-10-15-1286/§14-5) første til fjerde ledd gjelder likevel.
 
-For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 9 i loven med følgende presisering;i saker om utvisning etter lovens § 122, jf. forskriftens [§ 19-29](forskrift/2009-10-15-1286/§19-29), skal det vurderes om de som har vern mot utsendelse etter lovens § 73, kan gis oppholdstillatelse etter lovens § 74.
+For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 9 i loven med følgende presisering;
+
+- i saker om utvisning etter lovens § 122, jf. forskriftens [§ 19-29](forskrift/2009-10-15-1286/§19-29), skal det vurderes om de som har vern mot utsendelse etter lovens § 73, kan gis oppholdstillatelse etter lovens § 74.
 
 For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 10 i loven.
 
-For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 11 i loven med følgende unntak og presiseringer;lovens § 85 om vandelskontroll i forbindelse med familieinnvandring gjelder, jf. lovens § 120 syvende ledd,lovens § 89 om gebyr gjelder bare for saker etter lovens kapittel 2,lovens § 90c femte ledd gjelder når vern mot utsendelse etter lovens § 73 er aktuelt. Frist for utreise etter § 90a skal settes til minst én måned fra tidspunktet for underretning av vedtaket,lovens § 129 femte ledd om iverksetting av vedtak gjelder når anvendelse av bestemmelsen er forenlig med hensynet til offentlig orden eller sikkerhet, jf. lovens § 122 og forskriftens [§ 19-29](forskrift/2009-10-15-1286/§19-29),lovens § 92 annet ledd om rettshjelp gjelder når vern mot utsendelse etter lovens § 73 er aktuelt, oglovens kapittel 11 del II om særlige regler for beskyttelse i asylsaker gjelder bare når bestemmelsene i lovens kapittel 9 kommer til anvendelse, jf. fjerde ledd i denne paragrafen.
+For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 11 i loven med følgende unntak og presiseringer;
 
-For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 12 i loven med følgende presisering;lovens § 108 og forskriftens § 18-13 gjelder bare i den utstrekning de aktuelle bestemmelsene i loven og forskriften gjelder for disse.
+1. lovens § 85 om vandelskontroll i forbindelse med familieinnvandring gjelder, jf. lovens § 120 syvende ledd,
+2. lovens § 89 om gebyr gjelder bare for saker etter lovens kapittel 2,
+3. lovens § 90c femte ledd gjelder når vern mot utsendelse etter lovens § 73 er aktuelt. Frist for utreise etter § 90a skal settes til minst én måned fra tidspunktet for underretning av vedtaket,
+4. lovens § 129 femte ledd om iverksetting av vedtak gjelder når anvendelse av bestemmelsen er forenlig med hensynet til offentlig orden eller sikkerhet, jf. lovens § 122 og forskriftens [§ 19-29](forskrift/2009-10-15-1286/§19-29),
+5. lovens § 92 annet ledd om rettshjelp gjelder når vern mot utsendelse etter lovens § 73 er aktuelt, og
+6. lovens kapittel 11 del II om særlige regler for beskyttelse i asylsaker gjelder bare når bestemmelsene i lovens kapittel 9 kommer til anvendelse, jf. fjerde ledd i denne paragrafen.
+
+For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 12 i loven med følgende presisering;
+
+- lovens § 108 og forskriftens § 18-13 gjelder bare i den utstrekning de aktuelle bestemmelsene i loven og forskriften gjelder for disse.
 
 For utlendinger som er omfattet av lovens kapittel 13, gjelder kapittel 15 i loven.
 
@@ -3304,7 +3967,14 @@ Utlendingsdirektoratet kan gi nærmere retningslinjer, herunder om dokumentasjon
 
 ### § 19-7. Hvem som anses som andre familiemedlemmer
 
-Følgende personer kan anses som berettigede familiemedlemmer etter en nærmere individuell vurdering;fosterbarn som er under 18 år og har kjent identitet. Barnet må være et etablert medlem av husstanden og myndighetene i hjemlandet må bekrefte at barnet kan bosette seg i Norgehelsøsken som er under 18 år og har kjent identitet. Det er også et vilkår at vedkommende er uten foreldre eller annen omsorgsperson. Referansepersonen skal som hovedregel være godkjent omsorgsperson av norske barnevernsmyndigheter,personer som skal inngå ekteskap etter innreisen med en EØS-borger med oppholdsrett,pleietrengende. Det må dokumenteres at det foreligger alvorlige, helsemessige problemer og at referansepersonen er absolutt nødvendig for å pleie vedkommende. Det er også et vilkår at vedkommende ikke har andre familiemedlemmer i hjemlandet eller oppholdslandet til å pleie seg,forsørgede. Det må dokumenteres at familiemedlemmet i hjemlandet eller oppholdslandet er avhengig av EØS-borgerens forsørgelse, ogEØS-borgerens husstandsmedlemmer. Det må dokumenteres at familiemedlemmet i hjemlandet eller oppholdslandet er en del av EØS-borgerens husstand. Det er et vilkår at det er en tett og stabil personlig tilknytning med EØS-borgeren.
+Følgende personer kan anses som berettigede familiemedlemmer etter en nærmere individuell vurdering;
+
+1. fosterbarn som er under 18 år og har kjent identitet. Barnet må være et etablert medlem av husstanden og myndighetene i hjemlandet må bekrefte at barnet kan bosette seg i Norge
+2. helsøsken som er under 18 år og har kjent identitet. Det er også et vilkår at vedkommende er uten foreldre eller annen omsorgsperson. Referansepersonen skal som hovedregel være godkjent omsorgsperson av norske barnevernsmyndigheter,
+3. personer som skal inngå ekteskap etter innreisen med en EØS-borger med oppholdsrett,
+4. pleietrengende. Det må dokumenteres at det foreligger alvorlige, helsemessige problemer og at referansepersonen er absolutt nødvendig for å pleie vedkommende. Det er også et vilkår at vedkommende ikke har andre familiemedlemmer i hjemlandet eller oppholdslandet til å pleie seg,
+5. forsørgede. Det må dokumenteres at familiemedlemmet i hjemlandet eller oppholdslandet er avhengig av EØS-borgerens forsørgelse, og
+6. EØS-borgerens husstandsmedlemmer. Det må dokumenteres at familiemedlemmet i hjemlandet eller oppholdslandet er en del av EØS-borgerens husstand. Det er et vilkår at det er en tett og stabil personlig tilknytning med EØS-borgeren.
 
 Ved vurdering av oppholdsrett i Norge for personer nevnt i første ledd, skal personens tilknytning til eller avhengighet av EØS-borgeren, samt risikoen for at velferdsordningene blir urimelig belastet, være relevant. I vurderingen av risikoen for urimelig belastning av velferdsordningene, skal det legges vekt på om søkeren har en heldekkende sykeforsikring og er sikret underhold og bolig.
 
@@ -3316,9 +3986,17 @@ Utlendingsdirektoratet kan gi nærmere retningslinjer, herunder om dokumentasjon
 
 ### § 19-8. Om utlendinger som sendes til Norge i forbindelse med tjenesteyting eller etablering av virksomhet i Norge
 
-En utlending som ikke er EØS-borger og som sendes til Norge i forbindelse med tjenesteyting, har oppholdsrett etter lovens [§ 110](lov/2008-05-15-35/§110) fjerde ledd når vedkommendeer utsendt arbeidstaker i et begrenset tidsrom, jf. [arbeidsmiljøloven § 1-7](lov/2005-06-17-62/§1-7) og [forskrift om utsendte arbeidstakere § 2](forskrift/2005-12-16-1566/§2) første ledd,utfører oppdrag i Norge på vegne av et foretak som er etablert i et annet EØS-land eller et EFTA-land og som driver reell virksomhet der, jf. [forskrift om utsendte arbeidstakere § 2](forskrift/2005-12-16-1566/§2) andre ledd, oghar lovlig opphold med rett til å arbeide i utsenderlandet og adgang til å returnere dit.
+En utlending som ikke er EØS-borger og som sendes til Norge i forbindelse med tjenesteyting, har oppholdsrett etter lovens [§ 110](lov/2008-05-15-35/§110) fjerde ledd når vedkommende
 
-En utlending som ikke er EØS-borger og som sendes til Norge i forbindelse med etablering av virksomhet, har oppholdsrett etter lovens § 110 fjerde ledd når vedkommendeer ansatt i et foretak etablert i et annet EØS-land eller et EFTA-land,har en lederstilling eller spesiell kompetanse som er avgjørende for at foretaket skal kunne etablere seg i Norge, oghar lovlig opphold med rett til å arbeide i utsenderlandet og adgang til å returnere dit.
+1. er utsendt arbeidstaker i et begrenset tidsrom, jf. [arbeidsmiljøloven § 1-7](lov/2005-06-17-62/§1-7) og [forskrift om utsendte arbeidstakere § 2](forskrift/2005-12-16-1566/§2) første ledd,
+2. utfører oppdrag i Norge på vegne av et foretak som er etablert i et annet EØS-land eller et EFTA-land og som driver reell virksomhet der, jf. [forskrift om utsendte arbeidstakere § 2](forskrift/2005-12-16-1566/§2) andre ledd, og
+3. har lovlig opphold med rett til å arbeide i utsenderlandet og adgang til å returnere dit.
+
+En utlending som ikke er EØS-borger og som sendes til Norge i forbindelse med etablering av virksomhet, har oppholdsrett etter lovens § 110 fjerde ledd når vedkommende
+
+1. er ansatt i et foretak etablert i et annet EØS-land eller et EFTA-land,
+2. har en lederstilling eller spesiell kompetanse som er avgjørende for at foretaket skal kunne etablere seg i Norge, og
+3. har lovlig opphold med rett til å arbeide i utsenderlandet og adgang til å returnere dit.
 
 > Endret ved forskrift [30 mars 2023 nr. 460](forskrift/2023-03-30-460) (i kraft 20 april 2023).
 
@@ -3338,7 +4016,12 @@ EØS-borgere som påberoper seg oppholdsrett etter lovens § 111 i forbindelse m
 
 EØS-borgere og deres familiemedlemmer har likevel ikke oppholdsrett, jf. lovens § 111 første ledd, dersom de blir en urimelig byrde for offentlige velferdsordninger, for eksempel ved at økonomisk sosialhjelp benyttes i uvanlig stor utstrekning.
 
-Bestemmelsen i første ledd gjelder ikkeEØS-borgere som er arbeidstakere eller selvstendig næringsdrivende og deres familiemedlemmer,EØS-borgere som er arbeidssøkende i inntil seks måneder og deres familiemedlemmer, dersom EØS-borgerne dokumenterer at de fortsatt søker arbeid og har reell mulighet for å bli ansatt, ellerEØS-borgere som nevnt i lovens § 112 annet ledd, jf. tredje ledd, og deres familiemedlemmer, ellerEØS-borgere og deres familiemedlemmer som har fått varig oppholdsrett.
+Bestemmelsen i første ledd gjelder ikke
+
+1. EØS-borgere som er arbeidstakere eller selvstendig næringsdrivende og deres familiemedlemmer,
+2. EØS-borgere som er arbeidssøkende i inntil seks måneder og deres familiemedlemmer, dersom EØS-borgerne dokumenterer at de fortsatt søker arbeid og har reell mulighet for å bli ansatt, eller
+3. EØS-borgere som nevnt i lovens § 112 annet ledd, jf. tredje ledd, og deres familiemedlemmer, eller
+4. EØS-borgere og deres familiemedlemmer som har fått varig oppholdsrett.
 
 ### § 19-11. Meldeplikt for arbeidssøkende og deres familiemedlemmer
 
@@ -3408,7 +4091,11 @@ Oppholdsrett som tjenesteyter eller etablerer etter bestemmelsene her, danner ik
 
 Sammenhengende lovlig opphold foreligger når vilkårene for oppholdsrett etter lovens § 112 og § 113 foreligger og EØS-borgeren ikke har hatt langvarige opphold i utlandet.
 
-Midlertidige opphold i utlandet anses ikke å avbryte det sammenhengende oppholdet etter lovens § 115 første ledd, når fraværeter mindre enn seks måneder i løpet av en tolvmåneders periode, ellerskyldes grunner som graviditet, barnefødsel, alvorlig sykdom, forskningsopphold, studier eller yrkesrettet opplæring, eller utstasjonering i et annet EØS-land eller tredjeland, og ikke overstiger tolv måneder, ellerskyldes militær eller sivil verneplikt.
+Midlertidige opphold i utlandet anses ikke å avbryte det sammenhengende oppholdet etter lovens § 115 første ledd, når fraværet
+
+1. er mindre enn seks måneder i løpet av en tolvmåneders periode, eller
+2. skyldes grunner som graviditet, barnefødsel, alvorlig sykdom, forskningsopphold, studier eller yrkesrettet opplæring, eller utstasjonering i et annet EØS-land eller tredjeland, og ikke overstiger tolv måneder, eller
+3. skyldes militær eller sivil verneplikt.
 
 Oppholdstiden beregnes etter reglene i [§ 19-9](forskrift/2009-10-15-1286/§19-9), og starter på nytt etter fravær som ikke er omfattet av annet ledd.
 
@@ -3544,7 +4231,10 @@ Bortvisning eller utvisning av hensyn til offentlig orden eller sikkerhet, jf. l
 
 Bortvisning eller utvisning av hensyn til offentlig orden forutsetter at det foreligger en virkelig og tilstrekkelig alvorlig trussel mot et grunnleggende samfunnshensyn, utover den forstyrrelse av samfunnsordenen enhver lovovertredelse innebærer.
 
-Bortvisning eller utvisning av hensyn til offentlig orden eller sikkerhet kan blant annet skje dersom utlendingener avhengig av narkotiske stoffer eller andre giftstoffer, og avhengigheten er inntrådt før utlendingen fikk oppholdsrett, ellerifølge kompetent helsepersonell åpenbart lider av alvorlig sinnslidelse, åpenbare psykoser med opphisselsestilstander, vrangforestillinger eller hallusinasjoner med forvirringstilstander, og tilstanden er inntrådt før utlendingen fikk oppholdsrett.
+Bortvisning eller utvisning av hensyn til offentlig orden eller sikkerhet kan blant annet skje dersom utlendingen
+
+1. er avhengig av narkotiske stoffer eller andre giftstoffer, og avhengigheten er inntrådt før utlendingen fikk oppholdsrett, eller
+2. ifølge kompetent helsepersonell åpenbart lider av alvorlig sinnslidelse, åpenbare psykoser med opphisselsestilstander, vrangforestillinger eller hallusinasjoner med forvirringstilstander, og tilstanden er inntrådt før utlendingen fikk oppholdsrett.
 
 Bestemmelsen i [§ 19-27](forskrift/2009-10-15-1286/§19-27) gjelder tilsvarende.
 
@@ -3582,7 +4272,10 @@ Lovens § 27 gjelder for oppholdstillatelser etter forskrift gitt i medhold av l
 
 Britiske borgere som har oppholdsrett i Norge etter lovens [§ 111](lov/2008-05-15-35/§111) eller [§ 112](lov/2008-05-15-35/§112) ved utløpet av 31. desember 2020 og fortsetter å bo her etter dette, har etter søknad rett til oppholdstillatelse dersom vilkårene for oppholdsrett etter lovens [§ 112](lov/2008-05-15-35/§112) er oppfylt. Første punktum gjelder ikke for tjenesteytere, jf. lovens [§ 112](lov/2008-05-15-35/§112) første ledd bokstav b.
 
-Familiemedlem, jf. lovens [§ 110](lov/2008-05-15-35/§110), til en borger nevnt i første ledd, som har oppholdsrett i Norge etter lovens [§ 111](lov/2008-05-15-35/§111), [§ 113](lov/2008-05-15-35/§113) eller [§ 114](lov/2008-05-15-35/§114) ved utløpet av 31. desember 2020 og fortsetter å bo her etter dette, har etter søknad rett til oppholdstillatelse dersom vilkårene for oppholdsrett etter lovens [§ 113](lov/2008-05-15-35/§113) eller [§ 114](lov/2008-05-15-35/§114) er oppfylt. Tilsvarende gjelderfamiliemedlemmer, jf. lovens [§ 110](lov/2008-05-15-35/§110) tredje ledd, som ikke har oppholdsrett i Norge ved utløpet av 31. desember 2020, men innen dette tidspunktet har en etablert familierelasjon til utlending som nevnt i første ledd. For samboere må tilknytningen anses som varig innen 31. desember 2020, jf. § 19-6.barn av utlending som nevnt i første ledd, som er født eller adoptert etter 31. desember 2020. Vilkårene i lovens [§ 42](lov/2008-05-15-35/§42) annet ledd annet og tredje punktum og tredje ledd gjelder tilsvarende.
+Familiemedlem, jf. lovens [§ 110](lov/2008-05-15-35/§110), til en borger nevnt i første ledd, som har oppholdsrett i Norge etter lovens [§ 111](lov/2008-05-15-35/§111), [§ 113](lov/2008-05-15-35/§113) eller [§ 114](lov/2008-05-15-35/§114) ved utløpet av 31. desember 2020 og fortsetter å bo her etter dette, har etter søknad rett til oppholdstillatelse dersom vilkårene for oppholdsrett etter lovens [§ 113](lov/2008-05-15-35/§113) eller [§ 114](lov/2008-05-15-35/§114) er oppfylt. Tilsvarende gjelder
+
+1. familiemedlemmer, jf. lovens [§ 110](lov/2008-05-15-35/§110) tredje ledd, som ikke har oppholdsrett i Norge ved utløpet av 31. desember 2020, men innen dette tidspunktet har en etablert familierelasjon til utlending som nevnt i første ledd. For samboere må tilknytningen anses som varig innen 31. desember 2020, jf. § 19-6.
+2. barn av utlending som nevnt i første ledd, som er født eller adoptert etter 31. desember 2020. Vilkårene i lovens [§ 42](lov/2008-05-15-35/§42) annet ledd annet og tredje punktum og tredje ledd gjelder tilsvarende.
 
 Vilkårene for oppholdsrett i lovens [kapittel 13](lov/2008-05-15-35/kap13) gjelder tilsvarende for oppholdstillatelse etter bestemmelsen her, med mindre annet er særskilt bestemt. For familiemedlemmer som er britiske borgere eller EØS-borgere, gjelder vilkårene i lovens [kapittel 13](lov/2008-05-15-35/kap13) om opphold for familiemedlemmer som er EØS-borgere tilsvarende. For familiemedlemmer som verken er britiske borgere eller EØS-borgere, gjelder vilkårene i lovens [kapittel 13](lov/2008-05-15-35/kap13) om opphold for familiemedlemmer som ikke er EØS-borgere tilsvarende.
 
@@ -3794,7 +4487,11 @@ I en sak som nevnt i første ledd hvor det er fattet negativt vedtak etter instr
 
 ### § 20-1. Lov og forskriftsbetegnelser i dette kapittelet
 
-Følgende gjelder i dette kapittelet:Med utlendingsloven 2008 menes [lov 15. mai 2008 nr. 35](lov/2008-05-15-35) om utlendingers adgang til riket og deres opphold her (utlendingsloven)Med utlendingsloven 1988 menes [lov 24. juni 1988 nr. 64](lov/1988-06-24-64) om utlendingers adgang til riket og deres opphold her (utlendingsloven)Med utlendingsforskriften 1990 menes [forskrift 21. desember 1990 nr. 1028](forskrift/1990-12-21-1028) om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)
+Følgende gjelder i dette kapittelet:
+
+1. Med utlendingsloven 2008 menes [lov 15. mai 2008 nr. 35](lov/2008-05-15-35) om utlendingers adgang til riket og deres opphold her (utlendingsloven)
+2. Med utlendingsloven 1988 menes [lov 24. juni 1988 nr. 64](lov/1988-06-24-64) om utlendingers adgang til riket og deres opphold her (utlendingsloven)
+3. Med utlendingsforskriften 1990 menes [forskrift 21. desember 1990 nr. 1028](forskrift/1990-12-21-1028) om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)
 
 ### § 20-2. Hvem som utarbeider skjemaer, etiketter, stempler, reisedokumenter mv.
 
@@ -3842,7 +4539,11 @@ Vilkåret i [§ 1-5](forskrift/2009-10-15-1286/§1-5) annet ledd om at diplomati
 
 En utlending som har en løpende tillatelse etter [utlendingsforskriften 1990 § 2](forskrift/1990-12-21-1028/§2) til § 5a når denne forskriften trer i kraft, kan søke fornyet tillatelse etter bestemmelsene i lovens kapittel 3, jf. forskriftens [kapittel 6](forskrift/1990-12-21-1028/kap6), og lovens kapittel 7, jf. forskriftens [kapittel 10](forskrift/1990-12-21-1028/kap10), når tillatelsen utløper. Fornyet tillatelse gis med utgangspunkt i at de nye tillatelsesgrunnlagene vil være nye rettslige grunnlag, jf. lovens § 61. Det skal likevel tas tilbørlig hensyn til om det nye tillatelsesgrunnlaget vil være en videreføring av det tidligere tillatelsesgrunnlaget.
 
-Tillatelse tilutsendte arbeidstakere, jf. [§ 6-13](forskrift/2009-10-15-1286/§6-13), fornyes på grunnlag av vilkårene etter utlendingsforskriften 1990 § 4 a første ledd bokstav c innenfor rammen av den opprinnelige kontrakten som lå til grunn for den tidligere tillatelsen,selvstendige næringsdrivende, jf. [§ 6-18](forskrift/2009-10-15-1286/§6-18), fornyes på grunnlag av vilkårene etter [utlendingsforskriften 1990 § 3](forskrift/1990-12-21-1028/§3) annet ledd bokstav c når det gjelder den samme virksomheten som lå til grunn for den tidligere tillatelsen, ogpraktikanter, jf. [§ 6-21](forskrift/2009-10-15-1286/§6-21), fornyes på grunnlag av vilkårene etter utlendingsforskriften 1990 § 4 a annet ledd bokstav a inntil søkeren har hatt tillatelse i til sammen to år.
+Tillatelse til
+
+1. utsendte arbeidstakere, jf. [§ 6-13](forskrift/2009-10-15-1286/§6-13), fornyes på grunnlag av vilkårene etter utlendingsforskriften 1990 § 4 a første ledd bokstav c innenfor rammen av den opprinnelige kontrakten som lå til grunn for den tidligere tillatelsen,
+2. selvstendige næringsdrivende, jf. [§ 6-18](forskrift/2009-10-15-1286/§6-18), fornyes på grunnlag av vilkårene etter [utlendingsforskriften 1990 § 3](forskrift/1990-12-21-1028/§3) annet ledd bokstav c når det gjelder den samme virksomheten som lå til grunn for den tidligere tillatelsen, og
+3. praktikanter, jf. [§ 6-21](forskrift/2009-10-15-1286/§6-21), fornyes på grunnlag av vilkårene etter utlendingsforskriften 1990 § 4 a annet ledd bokstav a inntil søkeren har hatt tillatelse i til sammen to år.
 
 Det skal tas hensyn til den tidligere tillatelsen ved beregning av samlet tid og karenstid før ny tillatelse eventuelt kan gis. Når fornyet tillatelse gis med grunnlag i [§ 6-1](forskrift/2009-10-15-1286/§6-1), skal likevel ikke tidligere begrensninger i tid tas hensyn til.
 
@@ -3870,7 +4571,14 @@ I saker hvor det stilles krav om sikret underhold ved fornyelse av familieinnvan
 
 ### § 20-10B. Særregler om kravet til referansepersonen om fire års arbeid eller utdanning i Norge
 
-Dersom referansepersonen har oppholds- eller arbeidstillatelse etter utlendingsloven 1988, gjelder kravet om fire års arbeid eller utdanning i [utlendingsloven 2008 § 40a](lov/2008-05-15-35/§40a), jf. [§ 40](lov/2008-05-15-35/§40) annet ledd, [§ 41](lov/2008-05-15-35/§41) annet ledd og [§ 48](lov/2008-05-15-35/§48) første ledd, og forskriftens [§ 9-1](forskrift/2009-10-15-1286/§9-1), tilsvarende når referansepersonen harasyl, jf. [utlendingsloven 1988 § 17](lov/1988-06-24-64/§17) og [§ 18](lov/1988-06-24-64/§18),oppholds- eller arbeidstillatelse etter innreisetillatelse som overføringsflyktning, jf. [utlendingsloven 1988 § 22](lov/1988-06-24-64/§22) fjerde ledd,kollektiv beskyttelse i en massefluktsituasjon, jf. [utlendingsloven 1988 § 8a](lov/1988-06-24-64/§8a),oppholds- eller arbeidstillatelse på grunn av sterke menneskelige hensyn eller særlig tilknytning til riket, jf. [utlendingsloven 1988 § 8](lov/1988-06-24-64/§8) annet ledd,oppholds- eller arbeidstillatelse som familiemedlem, jf. [utlendingsloven 1988 § 9](lov/1988-06-24-64/§9), ellerbosettingstillatelse på grunnlag av tillatelsene nevnt i bokstav a til e, jf. [utlendingsloven 1988 § 12](lov/1988-06-24-64/§12).
+Dersom referansepersonen har oppholds- eller arbeidstillatelse etter utlendingsloven 1988, gjelder kravet om fire års arbeid eller utdanning i [utlendingsloven 2008 § 40a](lov/2008-05-15-35/§40a), jf. [§ 40](lov/2008-05-15-35/§40) annet ledd, [§ 41](lov/2008-05-15-35/§41) annet ledd og [§ 48](lov/2008-05-15-35/§48) første ledd, og forskriftens [§ 9-1](forskrift/2009-10-15-1286/§9-1), tilsvarende når referansepersonen har
+
+1. asyl, jf. [utlendingsloven 1988 § 17](lov/1988-06-24-64/§17) og [§ 18](lov/1988-06-24-64/§18),
+2. oppholds- eller arbeidstillatelse etter innreisetillatelse som overføringsflyktning, jf. [utlendingsloven 1988 § 22](lov/1988-06-24-64/§22) fjerde ledd,
+3. kollektiv beskyttelse i en massefluktsituasjon, jf. [utlendingsloven 1988 § 8a](lov/1988-06-24-64/§8a),
+4. oppholds- eller arbeidstillatelse på grunn av sterke menneskelige hensyn eller særlig tilknytning til riket, jf. [utlendingsloven 1988 § 8](lov/1988-06-24-64/§8) annet ledd,
+5. oppholds- eller arbeidstillatelse som familiemedlem, jf. [utlendingsloven 1988 § 9](lov/1988-06-24-64/§9), eller
+6. bosettingstillatelse på grunnlag av tillatelsene nevnt i bokstav a til e, jf. [utlendingsloven 1988 § 12](lov/1988-06-24-64/§12).
 
 Fireårskravet etter [utlendingsloven 2008 § 40a](lov/2008-05-15-35/§40a), jf. [§ 40](lov/2008-05-15-35/§40) annet ledd, [§ 41](lov/2008-05-15-35/§41) annet ledd og [§ 48](lov/2008-05-15-35/§48) første ledd, og forskriftens [§ 9-1](forskrift/2009-10-15-1286/§9-1), gjelder ikke for søknader som er fremsatt før lovens ikrafttredelse.
 
@@ -3926,13 +4634,40 @@ Bosettingstillatelse eller tillatelse som danner grunnlag for bosettingstillatel
 
 ## Vedlegg 1. Liste over bilaterale skipsfartsavtaler
 
-Sjøfolk som er omfattet av følgende bilaterale skipsfartsavtaler, er unntatt fra kravet om oppholdstillatelse, jf. [§ 1-1](forskrift/2009-10-15-1286/§1-1) syvende ledd:Deklarasjon angående kystfarten med Danmark og Island av 1858 (Færøyene)Vennskaps-, handels- og sjøfartstraktat med Argentina av 1885Vennskaps-, handels- og konsulartraktat med USA av 1928Sjøfartsavtale med Peru av 1933.
+Sjøfolk som er omfattet av følgende bilaterale skipsfartsavtaler, er unntatt fra kravet om oppholdstillatelse, jf. [§ 1-1](forskrift/2009-10-15-1286/§1-1) syvende ledd:
+
+- Deklarasjon angående kystfarten med Danmark og Island av 1858 (Færøyene)
+- Vennskaps-, handels- og sjøfartstraktat med Argentina av 1885
+- Vennskaps-, handels- og konsulartraktat med USA av 1928
+- Sjøfartsavtale med Peru av 1933.
 
 > Endret ved [forskrifter 18 des 2009 nr. 1666](forskrift/2009-12-18-1666), [31 jan 2018 nr. 155](forskrift/2018-01-31-155) (i kraft 1 mars 2018).
 
 ## Vedlegg 2. Liste over diplomater og tjenestemenn som er unntatt fra visumplikten
 
-Innehavere av følgende diplomat-, tjeneste- og spesialpass er unntatt fra visumplikten pr. 14. august 2025, jf. [utlendingsforskriften § 1-8](forskrift/2009-10-15-1286/§1-8) første ledd:Albansk diplomatpass (gjelder kun akkreditert ambassadør til Norge og dennes ektefelle og barn)Armensk diplomatpass1Aserbajdsjansk diplomatpass1Boliviansk diplomat- og tjenestepassEmiratarabisk diplomat- og spesialpassFilippinsk diplomat-, tjeneste- og spesialpassIndisk diplomatpass1Indonesisk diplomat- og tjenestepass1Jordansk diplomatpass1Kasakhstansk diplomatpass1Kinesisk diplomatpass1Laotiske diplomatpass1Makedonsk diplomat- og tjenestepassMarokkansk diplomat-, tjeneste- og spesialpassMoldovsk diplomatpassPakistansk diplomat- og tjenestepassSør-afrikansk diplomat- og offisielt passThailandsk diplomat- og tjenestepassTunisisk diplomatpassTyrkisk diplomat-, tjeneste- og spesialpassUkrainsk diplomatpass.
+Innehavere av følgende diplomat-, tjeneste- og spesialpass er unntatt fra visumplikten pr. 14. august 2025, jf. [utlendingsforskriften § 1-8](forskrift/2009-10-15-1286/§1-8) første ledd:
+
+- Albansk diplomatpass (gjelder kun akkreditert ambassadør til Norge og dennes ektefelle og barn)
+- Armensk diplomatpass1
+- Aserbajdsjansk diplomatpass1
+- Boliviansk diplomat- og tjenestepass
+- Emiratarabisk diplomat- og spesialpass
+- Filippinsk diplomat-, tjeneste- og spesialpass
+- Indisk diplomatpass1
+- Indonesisk diplomat- og tjenestepass1
+- Jordansk diplomatpass1
+- Kasakhstansk diplomatpass1
+- Kinesisk diplomatpass1
+- Laotiske diplomatpass1
+- Makedonsk diplomat- og tjenestepass
+- Marokkansk diplomat-, tjeneste- og spesialpass
+- Moldovsk diplomatpass
+- Pakistansk diplomat- og tjenestepass
+- Sør-afrikansk diplomat- og offisielt pass
+- Thailandsk diplomat- og tjenestepass
+- Tunisisk diplomatpass
+- Tyrkisk diplomat-, tjeneste- og spesialpass
+- Ukrainsk diplomatpass.
 
 1 Fritar ikke innehavere av gyldig diplomatpass som er ansatt ved diplomatiske eller konsulære stasjoner, eller personer som er ansatt i mellomstatlige organisasjoner eller konvensjonsorganer som ligger på den annen avtaleparts territorium, eller deres familiemedlemmer, for krav om visum med henblikk på akkreditering fra mottakerstaten forut for ankomst.
 
@@ -3940,19 +4675,177 @@ Innehavere av følgende diplomat-, tjeneste- og spesialpass er unntatt fra visum
 
 ## Vedlegg 3. Liste over Schengenland
 
-Følgende stater deltar i Schengensamarbeidet, jf. [§ 1-19](forskrift/2009-10-15-1286/§1-19) bokstav d:BelgiaBulgariaDanmarkEstlandFinlandFrankrikeHellasIslandItaliaKroatiaLatviaLiechtensteinLitauenLuxembourgMaltaNederlandNorgePolenPortugalRomaniaSlovakiaSloveniaSpaniaSveitsSverigeTsjekkiaTysklandUngarnØsterrike.
+Følgende stater deltar i Schengensamarbeidet, jf. [§ 1-19](forskrift/2009-10-15-1286/§1-19) bokstav d:
+
+- Belgia
+- Bulgaria
+- Danmark
+- Estland
+- Finland
+- Frankrike
+- Hellas
+- Island
+- Italia
+- Kroatia
+- Latvia
+- Liechtenstein
+- Litauen
+- Luxembourg
+- Malta
+- Nederland
+- Norge
+- Polen
+- Portugal
+- Romania
+- Slovakia
+- Slovenia
+- Spania
+- Sveits
+- Sverige
+- Tsjekkia
+- Tyskland
+- Ungarn
+- Østerrike.
 
 > Endret ved [forskrifter 19 des 2011 nr. 1538](forskrift/2011-12-19-1538), [21 juni 2019 nr. 1062](forskrift/2019-06-21-1062), [12 mars 2024 nr. 528](forskrift/2024-03-12-528) (med virkning fra 1 jan 2023), [12 mars 2024 nr. 528](forskrift/2024-03-12-528) (i kraft 31 mars 2024).
 
 ## Vedlegg 4. Legitimasjonsdokument utstedt av EØS- eller EFTA-land som godkjennes som reisedokument
 
-Følgende identitetsdokumenter er pr. 8. juli 2024 godkjent som reisedokumenter, jf. [utlendingsforskriftens § 2-10 første](forskrift/2009-10-15-1286/§2-10/ledd/1) og [andre ledd](forskrift/2009-10-15-1286/§2-10/ledd/2):«Carte d'Identité/Identiteitskaart/Personalausweis/Identity Card», utstedt av kompetent myndighet i Belgia til belgisk statsborger.«Identiteitskaart kinderen/Carte d'identité enfants/Personalausweis Kinder/Identity card children» utstedt av kompetent myndighet i Belgia til belgisk barn under 12 år når barnet reiser sammen med en eller begge foreldre som må være i besittelse av gyldig reisedokument.«Лuчнa кaртa-Identity card» utstedt av kompetent myndighet i Bulgaria til bulgarsk statsborger.«Eesti Vabariik Isikutunnistus/Republic of Estonia Identity Card» utstedt av kompetent myndighet i Estland til estisk statsborger.Identitetskort («Henkilökortti») utstedt av kompetent myndighet i Finland til finsk statsborger.«Carte Nationale d'Identité» utstedt av kompetent myndighet i Frankrike til fransk statsborger. Ikke godkjent etter utløpsdato.«ΔEΛTIO TAYTOTHTAΣ» (Deltio taytotitas), utstedt av kompetent myndighet i Hellas til gresk statsborger.«Identitetskort» (Pas/Passport/Passeport) utstedt av kompetent myndighet i Irland til irske statsborgere.«Nafnskírteini sem ferðaskilríki/ID card/Travel document», utstedt av kompetent myndighet på Island til islandsk statsborger.«Carta di Identità» utstedt av kompetent myndighet i Italia til italiensk statsborger.«Osobna iskaznica – Identity card» utstedt av kompetent myndighet i Kroatia til kroatisk statsborger.«ΔEΛTIO TAYTOTHTAΣ – Kimlik Karti/Identity Card» utstedt av kompetent myndighet på Kypros til kypriotisk statsborger.«Latvijas Republika – Personas apliecība» utstedt av kompetent myndighet i Latvia til latvisk statsborger.«Identitätskarte» utstedt av kompetent myndighet i fyrstedømmet Liechtenstein til liechtensteinsk statsborger.«Lietuvos Respublika/Republic of Lithuania, Asmens tapatybės kortelė/Personal Identity Card» utstedt av kompetent myndighet i Litauen til litauisk statsborger.«Carte d'Identité/Identity Card/Personalausweis» utstedt av kompetent myndighet i Luxembourg til luxembourgsk statsborger.«Karta tal-identità» utstedt av kompetent myndighet på Malta til maltesisk statsborger.«Carte d'Identité» utstedt av kompetent myndighet i Monaco til monegaskisk statsborger.«Nederlandse identiteitskaart» utstedt av kompetent myndighet i Nederland til nederlandsk statsborger.«Rzeczpospolita Polska Dowód osobisty, Republic of Poland/Identity Card» utstedt av kompetent myndighet i Polen til polsk statsborger.«Cartão de cidadão/Citizen Card», utstedt av kompetent myndighet i Portugal til portugisisk statsborger.«Roumanie/Romania/Romania Carte d'identité/Carte de identitate/Identity card» utstedt av kompetent myndighet i Romania til rumensk statsborger.«Carta d'identità» utstedt av kompetent myndighet i San Marino til sanmarinsk statsborger.«Slovenská republika/Slovak Republic – Občiansky preukaz/ID-Card» utstedt av kompetent myndighet i Slovakia til slovakisk statsborger.«Republika Slovenija Osebna Izkaznica/Identity Card» utstedt av kompetent myndighet i Slovenia til slovensk statsborger«Documento Nacional de Identidad», utstedt av kompetent myndighet i Spania til spansk statsborger.«Identitätskarte/Carte d'identité/Carta d'identità/Carta d'identitad/Identity card» utstedt av kompetent myndighet i Sveits til sveitsisk statsborger.«Nationellt identitetskort/National identity card/Carte nationale d'identité» utstedt av kompetent myndighet i Sverige til svensk statsborger.«Česká Republika Občanský průkaz, Czech Republic Identification Card» utstedt av kompetent myndighet i Tsjekkia til tsjekkisk statsborger.«Personalausweis» utstedt av kompetent myndighet i Tyskland til tysk statsborger.«Magyarország Személyazonosító igazolvány – Hungary Identity Card» utstedt av kompetent myndighet i Ungarn til ungarsk statsborger.«Personalausweis» utstedt av kompetent myndighet i Østerrike til østerriksk statsborger.
+Følgende identitetsdokumenter er pr. 8. juli 2024 godkjent som reisedokumenter, jf. [utlendingsforskriftens § 2-10 første](forskrift/2009-10-15-1286/§2-10/ledd/1) og [andre ledd](forskrift/2009-10-15-1286/§2-10/ledd/2):
+
+1. «Carte d'Identité/Identiteitskaart/Personalausweis/Identity Card», utstedt av kompetent myndighet i Belgia til belgisk statsborger.
+2. «Identiteitskaart kinderen/Carte d'identité enfants/Personalausweis Kinder/Identity card children» utstedt av kompetent myndighet i Belgia til belgisk barn under 12 år når barnet reiser sammen med en eller begge foreldre som må være i besittelse av gyldig reisedokument.
+3. «Лuчнa кaртa-Identity card» utstedt av kompetent myndighet i Bulgaria til bulgarsk statsborger.
+4. «Eesti Vabariik Isikutunnistus/Republic of Estonia Identity Card» utstedt av kompetent myndighet i Estland til estisk statsborger.
+5. Identitetskort («Henkilökortti») utstedt av kompetent myndighet i Finland til finsk statsborger.
+6. «Carte Nationale d'Identité» utstedt av kompetent myndighet i Frankrike til fransk statsborger. Ikke godkjent etter utløpsdato.
+7. «ΔEΛTIO TAYTOTHTAΣ» (Deltio taytotitas), utstedt av kompetent myndighet i Hellas til gresk statsborger.
+8. «Identitetskort» (Pas/Passport/Passeport) utstedt av kompetent myndighet i Irland til irske statsborgere.
+9. «Nafnskírteini sem ferðaskilríki/ID card/Travel document», utstedt av kompetent myndighet på Island til islandsk statsborger.
+10. «Carta di Identità» utstedt av kompetent myndighet i Italia til italiensk statsborger.
+11. «Osobna iskaznica – Identity card» utstedt av kompetent myndighet i Kroatia til kroatisk statsborger.
+12. «ΔEΛTIO TAYTOTHTAΣ – Kimlik Karti/Identity Card» utstedt av kompetent myndighet på Kypros til kypriotisk statsborger.
+13. «Latvijas Republika – Personas apliecība» utstedt av kompetent myndighet i Latvia til latvisk statsborger.
+14. «Identitätskarte» utstedt av kompetent myndighet i fyrstedømmet Liechtenstein til liechtensteinsk statsborger.
+15. «Lietuvos Respublika/Republic of Lithuania, Asmens tapatybės kortelė/Personal Identity Card» utstedt av kompetent myndighet i Litauen til litauisk statsborger.
+16. «Carte d'Identité/Identity Card/Personalausweis» utstedt av kompetent myndighet i Luxembourg til luxembourgsk statsborger.
+17. «Karta tal-identità» utstedt av kompetent myndighet på Malta til maltesisk statsborger.
+18. «Carte d'Identité» utstedt av kompetent myndighet i Monaco til monegaskisk statsborger.
+19. «Nederlandse identiteitskaart» utstedt av kompetent myndighet i Nederland til nederlandsk statsborger.
+20. «Rzeczpospolita Polska Dowód osobisty, Republic of Poland/Identity Card» utstedt av kompetent myndighet i Polen til polsk statsborger.
+21. «Cartão de cidadão/Citizen Card», utstedt av kompetent myndighet i Portugal til portugisisk statsborger.
+22. «Roumanie/Romania/Romania Carte d'identité/Carte de identitate/Identity card» utstedt av kompetent myndighet i Romania til rumensk statsborger.
+23. «Carta d'identità» utstedt av kompetent myndighet i San Marino til sanmarinsk statsborger.
+24. «Slovenská republika/Slovak Republic – Občiansky preukaz/ID-Card» utstedt av kompetent myndighet i Slovakia til slovakisk statsborger.
+25. «Republika Slovenija Osebna Izkaznica/Identity Card» utstedt av kompetent myndighet i Slovenia til slovensk statsborger
+26. «Documento Nacional de Identidad», utstedt av kompetent myndighet i Spania til spansk statsborger.
+27. «Identitätskarte/Carte d'identité/Carta d'identità/Carta d'identitad/Identity card» utstedt av kompetent myndighet i Sveits til sveitsisk statsborger.
+28. «Nationellt identitetskort/National identity card/Carte nationale d'identité» utstedt av kompetent myndighet i Sverige til svensk statsborger.
+29. «Česká Republika Občanský průkaz, Czech Republic Identification Card» utstedt av kompetent myndighet i Tsjekkia til tsjekkisk statsborger.
+30. «Personalausweis» utstedt av kompetent myndighet i Tyskland til tysk statsborger.
+31. «Magyarország Személyazonosító igazolvány – Hungary Identity Card» utstedt av kompetent myndighet i Ungarn til ungarsk statsborger.
+32. «Personalausweis» utstedt av kompetent myndighet i Østerrike til østerriksk statsborger.
 
 > Endret ved [forskrifter 1 feb 2012 nr. 256](forskrift/2012-02-01-256), [16 mai 2014 nr. 645](forskrift/2014-05-16-645), [10 mai 2016 nr. 486](forskrift/2016-05-10-486), [24 feb 2020 nr. 185](forskrift/2020-02-24-185), [5 juli 2024 nr. 1582](forskrift/2024-07-05-1582), [8 juli 2024 nr. 1648](forskrift/2024-07-08-1648).
 
 ## Vedlegg 5. Liste over visumfrie stater
 
-Utlendinger fra følgende stater, spesielle administrative regioner og oversjøiske territorier er visumfrie ved innreise i Norge pr. 14. august 2025, jf. [utlendingsforskriften § 3-1](forskrift/2009-10-15-1286/§3-1) første ledd bokstav e og [§ 3-3](forskrift/2009-10-15-1286/§3-3) annet ledd:Albania4Amerikas Forente StaterAndorraAntigua og BarbudaArgentinaAustraliaBahamasBarbadosBelgiaBermuda1Bosnia-Hercegovina4BrasilBruneiBulgariaCanadaChileColombiaCosta RicaDanmarkDominicaEl SalvadorEstlandFinlandForente arabiske emiraterFrankrikeGeorgia4 7GrenadaGuatemalaHellasHondurasHongkong2IrlandIslandIsraelItaliaJapanKiribatiKosovo4KroatiaKyprosLatviaLiechtensteinLitauenLuxembourgMacao3MalaysiaMaltaMarshalløyeneMauritiusMexicoMikronesiaMoldova4MonacoMontenegro4NederlandNew ZealandNicaraguaNord-Makedonia4PalauPanamaParaguayPeruPolenPortugalRomaniaSt. Kitts og NevisSt. LuciaSt. Vincent og GrenadineneSalomonøyeneSamoaSan MarinoSerbia4SeychelleneSingaporeSlovakiaSloveniaSpaniaStorbritannia6SveitsSverigeSør-KoreaTaiwan5TongaTrinidad og TobagoTsjekkiaTuvaluTysklandUkraina4UngarnUruguayVatikanstatenVenezuelaØsterrikeØst-Timor
+Utlendinger fra følgende stater, spesielle administrative regioner og oversjøiske territorier er visumfrie ved innreise i Norge pr. 14. august 2025, jf. [utlendingsforskriften § 3-1](forskrift/2009-10-15-1286/§3-1) første ledd bokstav e og [§ 3-3](forskrift/2009-10-15-1286/§3-3) annet ledd:
+
+- Albania4
+- Amerikas Forente Stater
+- Andorra
+- Antigua og Barbuda
+- Argentina
+- Australia
+- Bahamas
+- Barbados
+- Belgia
+- Bermuda1
+- Bosnia-Hercegovina4
+- Brasil
+- Brunei
+- Bulgaria
+- Canada
+- Chile
+- Colombia
+- Costa Rica
+- Danmark
+- Dominica
+- El Salvador
+- Estland
+- Finland
+- Forente arabiske emirater
+- Frankrike
+- Georgia4 7
+- Grenada
+- Guatemala
+- Hellas
+- Honduras
+- Hongkong2
+- Irland
+- Island
+- Israel
+- Italia
+- Japan
+- Kiribati
+- Kosovo4
+- Kroatia
+- Kypros
+- Latvia
+- Liechtenstein
+- Litauen
+- Luxembourg
+- Macao3
+- Malaysia
+- Malta
+- Marshalløyene
+- Mauritius
+- Mexico
+- Mikronesia
+- Moldova4
+- Monaco
+- Montenegro4
+- Nederland
+- New Zealand
+- Nicaragua
+- Nord-Makedonia4
+- Palau
+- Panama
+- Paraguay
+- Peru
+- Polen
+- Portugal
+- Romania
+- St. Kitts og Nevis
+- St. Lucia
+- St. Vincent og Grenadinene
+- Salomonøyene
+- Samoa
+- San Marino
+- Serbia4
+- Seychellene
+- Singapore
+- Slovakia
+- Slovenia
+- Spania
+- Storbritannia6
+- Sveits
+- Sverige
+- Sør-Korea
+- Taiwan5
+- Tonga
+- Trinidad og Tobago
+- Tsjekkia
+- Tuvalu
+- Tyskland
+- Ukraina4
+- Ungarn
+- Uruguay
+- Vatikanstaten
+- Venezuela
+- Østerrike
+- Øst-Timor
 
 1 Gjelder kun innehavere av BDTC (Bermuda)-pass.
 
@@ -3978,7 +4871,29 @@ Utlendinger fra følgende stater, spesielle administrative regioner og oversjøi
 
 ## Vedlegg 6. Liste over stater som har tiltrådt overenskomst 20. april 1959 nr. 4 om opphevelse av visumtvangen for flyktninger
 
-Følgende stater er parter i Den europeiske overenskomst av 20. april 1959 nr. 4 om opphevelse av visumtvangen for flyktninger, pr. 23. mars 2023, jf. [§ 3-1](forskrift/2009-10-15-1286/§3-1) første ledd bokstav f:BelgiaDanmarkFinlandIrland1IslandItaliaLiechtensteinLuxembourgMaltaNederlandNorgePolenPortugalRomaniaSlovakiaSpaniaSveitsSverigeTsjekkiaTysklandUngarn.
+Følgende stater er parter i Den europeiske overenskomst av 20. april 1959 nr. 4 om opphevelse av visumtvangen for flyktninger, pr. 23. mars 2023, jf. [§ 3-1](forskrift/2009-10-15-1286/§3-1) første ledd bokstav f:
+
+- Belgia
+- Danmark
+- Finland
+- Irland1
+- Island
+- Italia
+- Liechtenstein
+- Luxembourg
+- Malta
+- Nederland
+- Norge
+- Polen
+- Portugal
+- Romania
+- Slovakia
+- Spania
+- Sveits
+- Sverige
+- Tsjekkia
+- Tyskland
+- Ungarn.
 
 > Endret ved [forskrifter 20 des 2012 nr. 1392](forskrift/2012-12-20-1392), [19 mars 2013 nr. 322](forskrift/2013-03-19-322), [23 mars 2023 nr. 407](forskrift/2023-03-23-407) (i kraft straks med virkning fra 19. juli 2022).
 
@@ -3986,15 +4901,131 @@ Følgende stater er parter i Den europeiske overenskomst av 20. april 1959 nr. 4
 
 ## Vedlegg 7. Liste over stater som har tiltrådt overenskomst 23. november 1957 nr. 1 om flyktningsjømenn
 
-Følgende stater er parter i Overenskomst av 23. november 1957 nr. 1 om flyktningsjømenn pr. 25. juni 2020, jf. [§ 3-1](forskrift/2009-10-15-1286/§3-1) første ledd bokstav g:Australia (herunder Norfolk-øyene)BelgiaBosnia-HercegovinaCanadaDanmarkFrankrikeIrlandItaliaMarokkoMauritiusMonacoNederland (herunder Aruba, Bonaire, Saba og Sint Estadius)New ZealandNorgePortugalSloveniaStorbritannia (herunder De britiske Jomfruøyene, Falklandsøyene, Guernsey, Jersey, Isle of Man, Montserrat, St. Helena, Ascension og Tristan da Cunha)SveitsSverigeTyskland.
+Følgende stater er parter i Overenskomst av 23. november 1957 nr. 1 om flyktningsjømenn pr. 25. juni 2020, jf. [§ 3-1](forskrift/2009-10-15-1286/§3-1) første ledd bokstav g:
+
+- Australia (herunder Norfolk-øyene)
+- Belgia
+- Bosnia-Hercegovina
+- Canada
+- Danmark
+- Frankrike
+- Irland
+- Italia
+- Marokko
+- Mauritius
+- Monaco
+- Nederland (herunder Aruba, Bonaire, Saba og Sint Estadius)
+- New Zealand
+- Norge
+- Portugal
+- Slovenia
+- Storbritannia (herunder De britiske Jomfruøyene, Falklandsøyene, Guernsey, Jersey, Isle of Man, Montserrat, St. Helena, Ascension og Tristan da Cunha)
+- Sveits
+- Sverige
+- Tyskland.
 
 > Endret ved [forskrifter 20 des 2012 nr. 1392](forskrift/2012-12-20-1392), [3 april 2018 nr. 525](forskrift/2018-04-03-525), [25 juni 2020 nr. 1390](forskrift/2020-06-25-1390).
 
 ## Vedlegg 8. Liste over stater som har tiltrådt ILO-konvensjon nr. 108 og ILO-konvensjon nr. 185
 
-Følgende stater er parter i ILO-konvensjon nr. 108 vedrørende sjømanns identitetskort pr. 25. juli 2018 jf. [utlendingsforskriften § 3-1](forskrift/2009-10-15-1286/§3-1) bokstav i:AlgerieAngolaAntigua og BarbudaBarbadosBelarusBelizeBulgariaCanadaCubaDanmarkDjiboutiDominicaEstlandFijiFinlandGhanaGrenadaGuatemalaGuinea-BissauGuyanaHellasHondurasIrakIranIrlandIslandItaliaKamerunKirgisistanLatviaLiberiaLitauenMaltaMarokkoMauritiusMexicoNorgePanamaPolenPortugalRomaniaSt. LuciaSt. Vincent og GrenadineneSeychelleneSalomonøyeneSloveniaStorbritannia1SverigeTadsjikistanTanzaniaTsjekkiaTyrkiaUruguayUkraina
+Følgende stater er parter i ILO-konvensjon nr. 108 vedrørende sjømanns identitetskort pr. 25. juli 2018 jf. [utlendingsforskriften § 3-1](forskrift/2009-10-15-1286/§3-1) bokstav i:
 
-Følgende stater er parter i ILO-konvensjon nr. 185 vedrørende sjømanns identitetskort pr. 22. november 2024 jf. [utlendingsforskriften § 3-1 bokstav i](forskrift/2009-10-15-1286/§3-1/bokstav/i):AlbaniaAntigua og BarbudaAserbajdsjanBahamasBangladeshBosnia-HercegovinaBrasilCôte d'IvoireFilippineneFrankrikeGeorgiaIndiaIndonesiaIrakJordanKasakhstanKenyaKiribatiKroatiaLuxembourgMadagaskarMaldiveneMarshalløyeneMoldovaMontenegroMyanmarNigeriaPakistanRepublikken Kongo (Brazzaville)RusslandSpaniaSri LankaSør-KoreaTanzaniaTunisiaTurkmenistanUngarnVanuatuYemen
+- Algerie
+- Angola
+- Antigua og Barbuda
+- Barbados
+- Belarus
+- Belize
+- Bulgaria
+- Canada
+- Cuba
+- Danmark
+- Djibouti
+- Dominica
+- Estland
+- Fiji
+- Finland
+- Ghana
+- Grenada
+- Guatemala
+- Guinea-Bissau
+- Guyana
+- Hellas
+- Honduras
+- Irak
+- Iran
+- Irland
+- Island
+- Italia
+- Kamerun
+- Kirgisistan
+- Latvia
+- Liberia
+- Litauen
+- Malta
+- Marokko
+- Mauritius
+- Mexico
+- Norge
+- Panama
+- Polen
+- Portugal
+- Romania
+- St. Lucia
+- St. Vincent og Grenadinene
+- Seychellene
+- Salomonøyene
+- Slovenia
+- Storbritannia1
+- Sverige
+- Tadsjikistan
+- Tanzania
+- Tsjekkia
+- Tyrkia
+- Uruguay
+- Ukraina
+
+Følgende stater er parter i ILO-konvensjon nr. 185 vedrørende sjømanns identitetskort pr. 22. november 2024 jf. [utlendingsforskriften § 3-1 bokstav i](forskrift/2009-10-15-1286/§3-1/bokstav/i):
+
+- Albania
+- Antigua og Barbuda
+- Aserbajdsjan
+- Bahamas
+- Bangladesh
+- Bosnia-Hercegovina
+- Brasil
+- Côte d'Ivoire
+- Filippinene
+- Frankrike
+- Georgia
+- India
+- Indonesia
+- Irak
+- Jordan
+- Kasakhstan
+- Kenya
+- Kiribati
+- Kroatia
+- Luxembourg
+- Madagaskar
+- Maldivene
+- Marshalløyene
+- Moldova
+- Montenegro
+- Myanmar
+- Nigeria
+- Pakistan
+- Republikken Kongo (Brazzaville)
+- Russland
+- Spania
+- Sri Lanka
+- Sør-Korea
+- Tanzania
+- Tunisia
+- Turkmenistan
+- Ungarn
+- Vanuatu
+- Yemen
 
 1 Følgende britiske oversjøiske territorier (British Overseas Territories) har ratifisert ILO-konvensjon nr. 108:
 
@@ -4032,7 +5063,22 @@ Følgende britiske kronbesittelser (Crown Dependencies) har også ratifisert ILO
 
 ## Vedlegg 12. Liste over stater hvis borgere må ha lufthavntransittvisum
 
-Borgere av følgende stater må pr. 15. desember 2019 ha lufthavntransittvisum, jf. [§ 3-11](forskrift/2009-10-15-1286/§3-11) første ledd:AfghanistanBangladeshKongo (Den demokratiske republikk)EritreaEtiopiaGhanaIrakIranNigeriaPakistanSomaliaSri LankaSyriaTyrkia.
+Borgere av følgende stater må pr. 15. desember 2019 ha lufthavntransittvisum, jf. [§ 3-11](forskrift/2009-10-15-1286/§3-11) første ledd:
+
+- Afghanistan
+- Bangladesh
+- Kongo (Den demokratiske republikk)
+- Eritrea
+- Etiopia
+- Ghana
+- Irak
+- Iran
+- Nigeria
+- Pakistan
+- Somalia
+- Sri Lanka
+- Syria
+- Tyrkia.
 
 Krav om lufthavnstransittvisum gjelder ikke for borgere av ovennevnte stater som har oppholdstillatelse i en EØS-stat, se vedlegg 13 del I, eller en oppholdstillatelse for Andorra, Japan, Canada, Monaco, San Marino, Sveits eller USA som nevnt i vedlegg 13 del II.
 
@@ -4247,7 +5293,14 @@ Norge blir representert av:
 
 ## Vedlegg 17. Liste over avtaler om arbeidsferie inngått mellom Norge og annen stat
 
-Med følgende stater har Norge pr. 27 september 2024 inngått avtale om arbeidsferie, jf. [§ 6-27 første ledd](forskrift/2009-10-15-1286/§6-27/ledd/1):AndorraAustraliaArgentinaCanadaJapanNew Zealand.
+Med følgende stater har Norge pr. 27 september 2024 inngått avtale om arbeidsferie, jf. [§ 6-27 første ledd](forskrift/2009-10-15-1286/§6-27/ledd/1):
+
+- Andorra
+- Australia
+- Argentina
+- Canada
+- Japan
+- New Zealand.
 
 > Endret ved [forskrifter 19 feb 2013 nr. 212](forskrift/2013-02-19-212) (i kraft 1 feb 2013), [5 aug 2016 nr. 955](forskrift/2016-08-05-955) (i kraft 15 sep 2016), [18 sep 2024 nr. 2166](forskrift/2024-09-18-2166) (i kraft 27 sep 2024).
 
@@ -4255,7 +5308,11 @@ Med følgende stater har Norge pr. 27 september 2024 inngått avtale om arbeidsf
 
 Det vises til [§ 13-4](forskrift/2009-10-15-1286/§13-4) som fastsetter at Utlendingsdirektoratet med Utenriksdepartementets godkjenning kan gi myndighet til norsk utenriksstasjon til å avgjøre søknader om oppholdstillatelse.
 
-Følgende norske utenriksstasjoner kan pr. 15. juni 2023 innvilge søknader om oppholdstillatelse etter [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd for utlendinger som har kompetanse som faglært:Ambassaden i Beijing, KinaAmbassaden i Moskva, RusslandAmbassaden i New Delhi, India
+Følgende norske utenriksstasjoner kan pr. 15. juni 2023 innvilge søknader om oppholdstillatelse etter [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd for utlendinger som har kompetanse som faglært:
+
+- Ambassaden i Beijing, Kina
+- Ambassaden i Moskva, Russland
+- Ambassaden i New Delhi, India
 
 > Endret ved [forskrifter 6 april 2011 nr. 363](forskrift/2011-04-06-363), [15 sep 2011 nr. 974](forskrift/2011-09-15-974), [4 mars 2013 nr. 275](forskrift/2013-03-04-275), [2 april 2013 nr. 404](forskrift/2013-04-02-404), [3 juni 2013 nr. 577](forskrift/2013-06-03-577) (i kraft 10 juni 2013), [18 des 2013 nr. 1600](forskrift/2013-12-18-1600) (i kraft 1 jan 2014), [2 mai 2019 nr. 557](forskrift/2019-05-02-557), [6 mai 2019 nr. 567](forskrift/2019-05-06-567), [28 sep 2020 nr. 1897](forskrift/2020-09-28-1897), [15 juni 2023 nr. 1277](forskrift/2023-06-15-1277).
 
@@ -4298,7 +5355,10 @@ Med «grenseboerbevis» forstås et særskilt dokument som utstedes til grensebo
 
 1\. Grenseboere i den ene partens stat skal reise inn og ut av grenseområdet til den andre partens stat bare over det internasjonale grensepasseringsstedet Storskog-Borisoglebsk på den norsk-russiske riksgrensen.
 
-2\. Grenseboere kan krysse grensen ved grensepasseringsstedet som er vist til i denne artikkelens nr. 1 under den lokale grensetrafikkordningen på betingelse av at de:innehar gyldig grenseboerbevis og gyldig reisedokument;ikke er personer som anses å være en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen.
+2\. Grenseboere kan krysse grensen ved grensepasseringsstedet som er vist til i denne artikkelens nr. 1 under den lokale grensetrafikkordningen på betingelse av at de:
+
+1. innehar gyldig grenseboerbevis og gyldig reisedokument;
+2. ikke er personer som anses å være en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen.
 
 3\. Grenseboere i Den Russiske Føderasjon som er registrert i Schengen Information System (SIS) i den hensikt å nekte dem innreise, eller personer som anses som en trussel mot nasjonal sikkerhet, offentlig orden, folkehelsen eller Kongeriket Norges internasjonale forbindelser, og særlig de som er registrert i Kongeriket Norges nasjonale databaser i den hensikt å nekte dem innreise på samme grunnlag, skal nektes innreise i Kongeriket Norge.
 
@@ -4322,13 +5382,24 @@ Med «grenseboerbevis» forstås et særskilt dokument som utstedes til grensebo
 
 *Artikkel 6*
 
-1\. Grenseboerbevis som utstedes av Kongeriket Norge, skal være i samsvar med de relevante bestemmelsene i Den europeiske unions rettsakter som fastsetter et felles format for oppholdstillatelser for tredjelandsborgere, og skal minst inneholde følgende informasjon:et fotografi av innehaveren;innehaverens fornavn, etternavn, fødselsdato, nasjonalitet og adresse;utstedende myndighet, utstedelsesdato og gyldighetsperiode;det gyldige reisedokumentets nummer;biometriske kjennetegn.
+1\. Grenseboerbevis som utstedes av Kongeriket Norge, skal være i samsvar med de relevante bestemmelsene i Den europeiske unions rettsakter som fastsetter et felles format for oppholdstillatelser for tredjelandsborgere, og skal minst inneholde følgende informasjon:
+
+1. et fotografi av innehaveren;
+2. innehaverens fornavn, etternavn, fødselsdato, nasjonalitet og adresse;
+3. utstedende myndighet, utstedelsesdato og gyldighetsperiode;
+4. det gyldige reisedokumentets nummer;
+5. biometriske kjennetegn.
 
 2\. Grenseboerbevis som utstedes av Den Russiske Føderasjon, skal være i samsvar med Den Russiske Føderasjons lovgivning om fremgangsmåte for visumutstedelse, under hensyn til bestemmelsene i denne avtalen.
 
 *Artikkel 7*
 
-1\. Grenseboerbevis skal utstedes til grenseboere i staten til den ene part for å reise til grenseområdet til staten til den andre part på betingelse av at de:er i besittelse av et gyldig reisedokument;fremlegger dokumentasjon som bekrefter at de har vært lovlig bosatt i grenseområdet i minst de 3 foregående årene;underbygger at det finnes legitime grunner til regelmessig kryssing av den norsk-russiske landegrensen under den lokale grensetrafikkordningen, for eksempel av sosiale, kulturelle eller økonomiske grunner, eller på grunn av familieforhold;ikke er personer som anses som en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen.
+1\. Grenseboerbevis skal utstedes til grenseboere i staten til den ene part for å reise til grenseområdet til staten til den andre part på betingelse av at de:
+
+1. er i besittelse av et gyldig reisedokument;
+2. fremlegger dokumentasjon som bekrefter at de har vært lovlig bosatt i grenseområdet i minst de 3 foregående årene;
+3. underbygger at det finnes legitime grunner til regelmessig kryssing av den norsk-russiske landegrensen under den lokale grensetrafikkordningen, for eksempel av sosiale, kulturelle eller økonomiske grunner, eller på grunn av familieforhold;
+4. ikke er personer som anses som en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen.
 
 2\. Grenseboerbevis skal ikke utstedes til grenseboere i Den Russiske Føderasjon som er registrert i Schengen Information System (SIS) i den hensikt å nekte dem innreise, eller til personer som anses som en trussel mot nasjonal sikkerhet, offentlig orden, folkehelsen eller Kongeriket Norges internasjonale forbindelser, og særlig de som er registrert i Kongeriket Norges nasjonale databaser i den hensikt å nekte dem innreise på samme grunnlag.
 
@@ -4350,7 +5421,11 @@ Grenseboerbevis utstedes for en periode på 3 år, likevel ikke lenger enn gyldi
 
 1\. Gebyret for behandlingen av søknad om grenseboerbevis skal beløpe seg til 20 euro.
 
-2\. Grenseboerbevis skal utstedes gebyrfritt til:mindreårige;fulltidsstudenter;personer som er 60 år og eldre.
+2\. Grenseboerbevis skal utstedes gebyrfritt til:
+
+1. mindreårige;
+2. fulltidsstudenter;
+3. personer som er 60 år og eldre.
 
 3\. Dersom det ikke er mulig å fortsette å benytte seg av grenseboerbeviset eller det gyldige reisedokumentet som den lokale grenseboerbeviset er utstedt på grunnlag av, skal nytt grenseboerbevis utstedes gebyrfritt for den resterende gyldighetsperioden til det tidligere grenseboerbeviset.
 
@@ -4404,7 +5479,9 @@ Ved gjensidig enighet mellom partene kan denne avtalen endres.
 
 1\. Denne avtalen inngås uten tidsbegrensning, og trer i kraft 60 dager etter datoen for mottakelse via diplomatiske kanaler av den siste skriftlige underretningen om at partene har fullført de interne prosedyrene som er nødvendige for at denne avtalen skal tre i kraft.
 
-2\. Hver av partene kan bringe denne avtalen til opphør ved å sende via diplomatiske kanaler relevant skriftlig underretning til den andre parten. Denne avtalen opphører 60 dager etter datoen for mottakelse av en slik underretning fra den andre parten.Utferdiget i ______________ den _________________________ 20_____ i to originale eksemplarer, hvert på norsk, russisk og engelsk, hvor alle tekstene har samme gyldighet. Hvis det oppstår uenighet om tolkningen, skal partene bruke den engelske teksten.
+2\. Hver av partene kan bringe denne avtalen til opphør ved å sende via diplomatiske kanaler relevant skriftlig underretning til den andre parten. Denne avtalen opphører 60 dager etter datoen for mottakelse av en slik underretning fra den andre parten.
+
+Utferdiget i ______________ den _________________________ 20_____ i to originale eksemplarer, hvert på norsk, russisk og engelsk, hvor alle tekstene har samme gyldighet. Hvis det oppstår uenighet om tolkningen, skal partene bruke den engelske teksten.
 
 |  |  |
 | --- | --- |

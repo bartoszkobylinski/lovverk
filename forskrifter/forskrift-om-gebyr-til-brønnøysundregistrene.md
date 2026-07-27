@@ -42,9 +42,19 @@ Registerføreren kan ettergi krav på gebyr i konkrete saker, dersom en registre
 
 ## § 4. Gebyr for registrering og tinglysing i Løsøreregisteret
 
-Det skal betales gebyr med 983 kroner ved elektronisk innsendelse til Løsøreregisteret og 1 417 kroner ved innsendelse på en annen måte fortinglysing av pantedokument, herunder avtale som etter [panteloven § 3-22](lov/1980-02-08-2/§3-22) likestilles med salgspantavtaletinglysing av avtale om faktoringtinglysing eller registrering av andre dokumenter.
+Det skal betales gebyr med 983 kroner ved elektronisk innsendelse til Løsøreregisteret og 1 417 kroner ved innsendelse på en annen måte for
 
-Det skal ikke betales gebyr for tinglysing, registrering eller anmerkning i Løsøreregisteret avslettingmelding som domstolen, gjeldsnemnda eller bostyrer foretar i medhold av konkursloven eller pantelovenavgjørelse i medhold av vergemålslovenutleggsforretning og arrestforretningavgjørelser i medhold av gjeldsordningsloven.
+1. tinglysing av pantedokument, herunder avtale som etter [panteloven § 3-22](lov/1980-02-08-2/§3-22) likestilles med salgspantavtale
+2. tinglysing av avtale om faktoring
+3. tinglysing eller registrering av andre dokumenter.
+
+Det skal ikke betales gebyr for tinglysing, registrering eller anmerkning i Løsøreregisteret av
+
+1. sletting
+2. melding som domstolen, gjeldsnemnda eller bostyrer foretar i medhold av konkursloven eller panteloven
+3. avgjørelse i medhold av vergemålsloven
+4. utleggsforretning og arrestforretning
+5. avgjørelser i medhold av gjeldsordningsloven.
 
 > Endret ved forskrifter [19 des 2023 nr. 2222](forskrift/2023-12-19-2222) (i kraft 1 jan 2024), [20 des 2024 nr. 3389](forskrift/2024-12-20-3389) (i kraft 1 jan 2025), [16 des 2025 nr. 2819](forskrift/2025-12-16-2819) (i kraft 1 jan 2026).
 
@@ -62,7 +72,15 @@ For registrering av foretak hvor alle eller enkelte deltakere, eiere eller tilsv
 
 Foretak som er registrert i Enhetsregisteret og som senere registreres i Foretaksregisteret, skal betale gebyr med 3 185 kroner ved elektronisk innsendelse til Foretaksregisteret og 3 700 kroner ved innsendelse på annen måte.
 
-Det betales gebyr med 1 276 kroner ved elektronisk innsendelse og 2 509 kroner ved innsendelse på annen måte for kunngjøring avkreditorvarselendring av foretaksnavnendring av det som er registrert om et foretaks ansvarlige deltakerefusjonsplanfisjonsplanflytteplanandre tiltak med hjemmel i særlovgining.
+Det betales gebyr med 1 276 kroner ved elektronisk innsendelse og 2 509 kroner ved innsendelse på annen måte for kunngjøring av
+
+1. kreditorvarsel
+2. endring av foretaksnavn
+3. endring av det som er registrert om et foretaks ansvarlige deltakere
+4. fusjonsplan
+5. fisjonsplan
+6. flytteplan
+7. andre tiltak med hjemmel i særlovgining.
 
 > Endret ved forskrifter [19 des 2023 nr. 2222](forskrift/2023-12-19-2222) (i kraft 1 jan 2024), [20 des 2024 nr. 3389](forskrift/2024-12-20-3389) (i kraft 1 jan 2025), [16 des 2025 nr. 2819](forskrift/2025-12-16-2819) (i kraft 1 jan 2026).
 
@@ -98,7 +116,11 @@ Opplysninger om utleggstrekk og forretninger om «intet til utlegg» kan bare gi
 
 ## § 8. Særlige regler for informasjon fra Enhetsregisteret
 
-Det skal betales et gebyr for informasjon fra Enhetsregisteret med120 kroner for registerutskrift uten tilknytning til melding241 kroner for kopi av registermelding med vedlegg181 kroner for sammenstilling av opplysninger om en persons tilknytning til næringsvirksomhet (rolleoversikt).
+Det skal betales et gebyr for informasjon fra Enhetsregisteret med
+
+1. 120 kroner for registerutskrift uten tilknytning til melding
+2. 241 kroner for kopi av registermelding med vedlegg
+3. 181 kroner for sammenstilling av opplysninger om en persons tilknytning til næringsvirksomhet (rolleoversikt).
 
 Informasjon som bestilleren har krav på etter personvernforordningen artikkel 13 og 14 jf. [personopplysningsloven § 1](lov/2018-06-15-38/§1) første ledd, utleveres gebyrfritt.
 
@@ -126,7 +148,15 @@ Det skal betales et gebyr med 424 kroner for spesialtilpasset registerinformasjo
 
 Brønnøysundregistrene kan etter avtale levere informasjonstjenester utover det som ellers fremgår av forskriften, for eksempel delkopier av registre, uttrekk av spesielle opplysninger, abonnementstjenester og direktetilgang for storbrukere.
 
-Kredittopplysningsforetak kan abonnere på periodiske utskrifter i elektronisk form som omfattertvangsforretningerfrivillige pantsettelser etter [panteloven § 3-4](lov/1980-02-08-2/§3-4), [§ 3-8](lov/1980-02-08-2/§3-8), [§ 3-9](lov/1980-02-08-2/§3-9), [§ 3-10](lov/1980-02-08-2/§3-10), [§ 3-11](lov/1980-02-08-2/§3-11), [§ 3-14](lov/1980-02-08-2/§3-14), [§ 3-17](lov/1980-02-08-2/§3-17) og [§ 3-22](lov/1980-02-08-2/§3-22)faktoringavtalermeldinger om åpning av konkurs eller akkordforhandling, blant annet meldinger om abandonering etter [konkursloven § 117b](lov/1984-06-08-58/§117b)åpning av gjeldsforhandling og frivillig og tvungen gjeldsordningavgjørelse i medhold av vergemålslovenkonkurskarantene.
+Kredittopplysningsforetak kan abonnere på periodiske utskrifter i elektronisk form som omfatter
+
+1. tvangsforretninger
+2. frivillige pantsettelser etter [panteloven § 3-4](lov/1980-02-08-2/§3-4), [§ 3-8](lov/1980-02-08-2/§3-8), [§ 3-9](lov/1980-02-08-2/§3-9), [§ 3-10](lov/1980-02-08-2/§3-10), [§ 3-11](lov/1980-02-08-2/§3-11), [§ 3-14](lov/1980-02-08-2/§3-14), [§ 3-17](lov/1980-02-08-2/§3-17) og [§ 3-22](lov/1980-02-08-2/§3-22)
+3. faktoringavtaler
+4. meldinger om åpning av konkurs eller akkordforhandling, blant annet meldinger om abandonering etter [konkursloven § 117b](lov/1984-06-08-58/§117b)
+5. åpning av gjeldsforhandling og frivillig og tvungen gjeldsordning
+6. avgjørelse i medhold av vergemålsloven
+7. konkurskarantene.
 
 Registerføreren fastsetter gebyrene og betalingsvilkårene for de utvidede informasjonstjenestene som til enhver tid er tilgjengelige. Gebyrene skal bare dekke kostnadene ved å legge til rette og utlevere informasjonen. Registerføreren kan på særskilte vilkår gi gratis tilgang til registerinformasjon for forskning mv.
 

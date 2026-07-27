@@ -15,7 +15,7 @@ xml_hash: "a3ca20c3be9fbfb0b5ea5a0d84d192198cd25b22a823c765f5939819c204f76f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,14 @@ Forskriften gjelder for arbeid på eller nær ved elektriske anlegg som er under
 
 Forskriften gjelder videre for elektriske anlegg under bygging eller demontering selv om de ikke er tilrettelagt for å komme under spenning, dersom anleggene kan komme under spenning på annen måte.
 
-Forskriften gjelder ikke for:Elektriske anlegg på innretninger for utnyttelse av petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk jurisdiksjon.Enkelte integrerte petroleumsanlegg og tilknyttede rørledningssystemer på land.Elektriske anlegg i luftfartøyer.Elektroniske telekommunikasjons- og informasjonssystemer som ikke kun er etablert for og brukt til drift av elektriske forsyningsanlegg.Elektriske anlegg hvor effekten er så lav at den ikke medfører fare for personskade.Drift av anlegg eller utstyr som tilfredsstiller relevante installasjons- og utstyrsnormer og som er konstruert for bruk av ukyndige personer.
+Forskriften gjelder ikke for:
+
+1. Elektriske anlegg på innretninger for utnyttelse av petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk jurisdiksjon.
+2. Enkelte integrerte petroleumsanlegg og tilknyttede rørledningssystemer på land.
+3. Elektriske anlegg i luftfartøyer.
+4. Elektroniske telekommunikasjons- og informasjonssystemer som ikke kun er etablert for og brukt til drift av elektriske forsyningsanlegg.
+5. Elektriske anlegg hvor effekten er så lav at den ikke medfører fare for personskade.
+6. Drift av anlegg eller utstyr som tilfredsstiller relevante installasjons- og utstyrsnormer og som er konstruert for bruk av ukyndige personer.
 
 ### § 3. Ansvar – hvem forskriften retter seg mot
 
@@ -147,7 +154,12 @@ For å sikre at det ikke skjer utilsiktet ut- eller innkobling av høyspenningsa
 
 ### § 10. Planlegging av arbeid
 
-Før et arbeid igangsettes skal det innhentes nødvendige opplysninger om anlegget og på bakgrunn av disse gjennomføres en risikovurdering for det aktuelle arbeidet. På bakgrunn av risikovurderingen skal minst følgende gjennomføres:valg av arbeidsmetode,forsikring om at nødvendig utstyr er tilgjengelig,vurdering av i hvilket omfang verneutstyr skal benyttes, ogvalg, vurdering og instruksjon av personell.
+Før et arbeid igangsettes skal det innhentes nødvendige opplysninger om anlegget og på bakgrunn av disse gjennomføres en risikovurdering for det aktuelle arbeidet. På bakgrunn av risikovurderingen skal minst følgende gjennomføres:
+
+- valg av arbeidsmetode,
+- forsikring om at nødvendig utstyr er tilgjengelig,
+- vurdering av i hvilket omfang verneutstyr skal benyttes, og
+- valg, vurdering og instruksjon av personell.
 
 Funksjonskontroll av elektriske anlegg skal være planlagt etter de samme prinsipper som gjelder for planlegging av arbeid.
 
@@ -177,7 +189,13 @@ For å sikre personell mot skade fra lynoverspenninger, skal det ikke utføres a
 
 ### § 14. Arbeid på frakoblet anlegg – etablering av sikkerhetstiltak
 
-Ved arbeid på frakoblet anlegg skal følgende sikkerhetstiltak gjennomføres:frakobling,sikring mot innkobling,kontroll av at anlegget er spenningsløst,på bakgrunn av en risikovurdering vurdere behov for og eventuelt etablere nødvendig jord- og kortslutning, ogeventuelt beskyttelse mot andre spenningssatte deler nær ved arbeidsstedet (jf. [§ 17](forskrift/2006-04-28-458/§17)).
+Ved arbeid på frakoblet anlegg skal følgende sikkerhetstiltak gjennomføres:
+
+1. frakobling,
+2. sikring mot innkobling,
+3. kontroll av at anlegget er spenningsløst,
+4. på bakgrunn av en risikovurdering vurdere behov for og eventuelt etablere nødvendig jord- og kortslutning, og
+5. eventuelt beskyttelse mot andre spenningssatte deler nær ved arbeidsstedet (jf. [§ 17](forskrift/2006-04-28-458/§17)).
 
 Jord- og kortslutning av anlegget er et absolutt krav i høyspenningsanlegg. Jordingen skal utføres som arbeidsjording eller en kombinasjon av markeringsjording og endepunktsjording. Arbeidsjording eller markeringsjording skal være synlig fra arbeidsstedet eller være slik plassert at det på bakgrunn av en risikovurdering kan sannsynliggjøres at samme sikkerhet oppnås.
 
@@ -195,7 +213,10 @@ Før arbeid under spenning påbegynnes skal eventuell brann- og eksplosjonsfare 
 
 ### § 17. Arbeid nær ved spenningssatte deler – etablering av sikkerhetstiltak
 
-Ved arbeid nær ved spenningssatte elektriske anlegg skal følgende sikkerhetstiltak etableres:markering av sikkerhetsavstand, ogetablering av avskjerminger og/eller avsperringer.
+Ved arbeid nær ved spenningssatte elektriske anlegg skal følgende sikkerhetstiltak etableres:
+
+1. markering av sikkerhetsavstand, og
+2. etablering av avskjerminger og/eller avsperringer.
 
 For å sikre at kortslutning og jordslutning ikke forårsakes av verktøy eller materiell og at ingen kommer i berøring med spenningssatte deler, skal det i nødvendig utstrekning benyttes egnede beskyttelsesinnretninger.
 

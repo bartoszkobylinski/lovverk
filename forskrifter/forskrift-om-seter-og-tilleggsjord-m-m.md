@@ -168,7 +168,11 @@ Fjellstyret gjer vedtak om at husa skal fjernast om verken utvising eller løyve
 
 Får seterbrukaren ha husa ståande skriv Statskog SF ut eit eige dokument som blir tinglyst på allmenningen sitt blad i grunnboka.
 
-Eigar av eigedomen skriv under på eit særskilt dokument som blir tinglyst på bruket sitt blad i grunnboka om atretten til å ha husa ståande utan vederlag ikkje kan overdragast eller pantsetjast utan saman med eigedomen,kontrakt om bortleige eller annan liknande bruksrett ikkje kan stiftast om ikkje retten er stifta for ei tid mindre enn 10 år utan rett for brukaren til å krevje forlenging eller fornying av kontrakten,dokumentet berre kan slettast med godkjenning frå Statskog SF.
+Eigar av eigedomen skriv under på eit særskilt dokument som blir tinglyst på bruket sitt blad i grunnboka om at
+
+1. retten til å ha husa ståande utan vederlag ikkje kan overdragast eller pantsetjast utan saman med eigedomen,
+2. kontrakt om bortleige eller annan liknande bruksrett ikkje kan stiftast om ikkje retten er stifta for ei tid mindre enn 10 år utan rett for brukaren til å krevje forlenging eller fornying av kontrakten,
+3. dokumentet berre kan slettast med godkjenning frå Statskog SF.
 
 > Endra ved [forskrifter 27 mars 2007 nr. 358](forskrift/2007-03-27-358), [26 aug 2009 nr. 1120](forskrift/2009-08-26-1120) (i kraft 1 sep 2009).
 
@@ -186,7 +190,11 @@ Før Statskog SF tek avgjerd skal saka leggjast fram for regional kulturminnesty
 
 ### § 16. Bortfall av seterrett
 
-Når seterretten fell bort fordi drifta på eigedomen er lagt ned og jorda teken i bruk til formål utanom jordbruk, eller fordi ein ikkje kan rekne eigedomen som ei jordbruksmessig eining eller jordbruk, jf. [§ 2](forskrift/1984-06-22-1302/§2) andre ledd i fjellova, skal fjellstyret gjere vedtak omat setra skal visast ut til eigedom i drift som treng seter, jf. [§ 6](forskrift/1984-06-22-1302/§6) og [§ 7](forskrift/1984-06-22-1302/§7), ellerat den tidlegare seterbrukaren må søkje Statskog SF om feste av tomt for seterhusa til fritidsformål, ellerat seterbrukaren fjernar husa om verken overføring eller oppretting av festekontrakt er aktuelt.
+Når seterretten fell bort fordi drifta på eigedomen er lagt ned og jorda teken i bruk til formål utanom jordbruk, eller fordi ein ikkje kan rekne eigedomen som ei jordbruksmessig eining eller jordbruk, jf. [§ 2](forskrift/1984-06-22-1302/§2) andre ledd i fjellova, skal fjellstyret gjere vedtak om
+
+1. at setra skal visast ut til eigedom i drift som treng seter, jf. [§ 6](forskrift/1984-06-22-1302/§6) og [§ 7](forskrift/1984-06-22-1302/§7), eller
+2. at den tidlegare seterbrukaren må søkje Statskog SF om feste av tomt for seterhusa til fritidsformål, eller
+3. at seterbrukaren fjernar husa om verken overføring eller oppretting av festekontrakt er aktuelt.
 
 Blir setra vist ut til ein annan eigedom, skal fjellstyret gjere vedtak om at den førre seterbrukaren skal fjerne husa om ikkje han, innan ei viss tid, overdreg dei til den nye seterbrukaren.
 

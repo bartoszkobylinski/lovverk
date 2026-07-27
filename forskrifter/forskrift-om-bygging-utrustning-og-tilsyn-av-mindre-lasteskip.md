@@ -15,7 +15,7 @@ xml_hash: "5b9aee1c2d5f1c966f04cb66590f1803ce50212b95cf2755a759f66403f6f2c3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,13 +36,25 @@ eu_basis: []
 
 ### § 2. Fartøyinstruks
 
-(1) Følgende skip med største lengde 8 meter eller mer, men under 15 meter, skal ha fartøyinstruks:skip som skal slepeskip som skal utføre ankerhåndteringskip som skal føre mer enn 1000 kg lastskip med løfteinnretning som kan påføre skipet en krengende arm på mer enn 0,10 meterskip hvor personer om bord skal overføres mellom skipet og anlegg eller installasjoner for fornybar energiproduksjon til sjøs. Med fornybar energiproduksjon menes produksjon av elektrisk energi ved utnytting av fornybare energiressurser, for eksempel vind, bølger og tidevann.
+(1) Følgende skip med største lengde 8 meter eller mer, men under 15 meter, skal ha fartøyinstruks:
+
+1. skip som skal slepe
+2. skip som skal utføre ankerhåndtering
+3. skip som skal føre mer enn 1000 kg last
+4. skip med løfteinnretning som kan påføre skipet en krengende arm på mer enn 0,10 meter
+5. skip hvor personer om bord skal overføres mellom skipet og anlegg eller installasjoner for fornybar energiproduksjon til sjøs. Med fornybar energiproduksjon menes produksjon av elektrisk energi ved utnytting av fornybare energiressurser, for eksempel vind, bølger og tidevann.
 
 (2) Fartøyinstruksen skal inneholde informasjon om fartøyet og om begrensninger for bruken av det, og den skal være oppslått på et lett synlig sted om bord.
 
 ### § 3. Bygging av skip som skal ha fartøyinstruks eller fartssertifikat
 
-(1) Skip skal bygges i samsvar med én standard eller ett klasseregelverk fra et anerkjent klasseselskap, eller én annen anerkjent standard akseptert av Sjøfartsdirektoratet, for skipetsskrog, inkludert skott og lukningsmidler, når det gjelder konstruksjon, styrke, vanntett integritet og materialegenskapermaskineri, inkludert hjelpesystemerrørsystemerelektriske anleggautomasjonsanlegg.
+(1) Skip skal bygges i samsvar med én standard eller ett klasseregelverk fra et anerkjent klasseselskap, eller én annen anerkjent standard akseptert av Sjøfartsdirektoratet, for skipets
+
+1. skrog, inkludert skott og lukningsmidler, når det gjelder konstruksjon, styrke, vanntett integritet og materialegenskaper
+2. maskineri, inkludert hjelpesystemer
+3. rørsystemer
+4. elektriske anlegg
+5. automasjonsanlegg.
 
 (2) Skipet og planlagt bruk av dette skal være omfattet av virkeområdet som er angitt i den aktuelle standarden eller klasseregelverket, og ellers møte de forutsetningene som standarden eller klasseregelverket er basert på.
 
@@ -52,7 +64,19 @@ Skip med største lengde under 15 meter som ikke skal ha fartøyinstruks, skal v
 
 ### § 5. Definisjoner
 
-I denne forskriften gjelder følgende definisjoner:*Ankerhåndtering:* Sette ut og ta opp anker, og stramme opp og teste forankring og fortøyning av flytende konstruksjoner. Arbeid med forankring og fortøyning av lette gjenstander, slik som en flytebrygge eller tilsvarende, anses ikke som ankerhåndtering. Ankerhåndtering i havbruk inkluderer å sette ut og ta opp anker, stramme opp og teste ankerliner, samt arbeid med rammefortøyning der trosser som er en del av rammefortøyningen, kobles av eller på. Håndtering av haneføtter, som ikke er en del av selve rammen, og inspeksjon av koblingsplater i rammefortøyningen anses ikke som ankerhåndtering.*BP:* Fartøyets maksimale kontinuerlige slepekraft.*Fritidsfartøy:* Skip som brukes utenfor næringsvirksomhet.*IS-koden:* Det internasjonale regelverket for intaktstabilitet 2008, som endret ved MSC.413(97), MSC.414(97), MSC.443(99) og MSC.444(99).*Krengende arm:* Krengende moment dividert på skipets vektdeplasement (MK/depl.). Letteste kondisjon for løft skal legges til grunn for utregning av deplasement.*Lastelinjekonvensjonen:* Den internasjonale konvensjonen om lastelinjer av 1966 endret ved 1988-protokollen, konsolidert utgave 2021 som endret ved MSC.491(104).*Lasteskip:* Skip som ikke er passasjerskip, fiskefartøy, lekter, fritidsfartøy eller fartøy som anses for å være en del av et annet skips utrustning. Med lekter menes her et skrog eller skip uten fremdriftsmaskineri som skal slepes eller skyves ved all forflytning og som anvendes til føring av last.*Lengde (L):* Lengden som definert i lastelinjekonvensjonen gjeldende ved byggetidspunkt.*Lukket skip:* Skip med dekk som kan lukkes værtett fra akterstevnen til forstevnen, uavbrutt av annet enn overbygning eller dekkshus som er konstruert slik at sjøvann ikke vil fylle rom under dekk.*Slep:* Sleping eller skyving av én eller flere gjenstander. Tauing av lette gjenstander, slik som en lettbåt, en lett flytebrygge eller tilsvarende, og korte forflytninger av en gjenstand innenfor et begrenset område anses ikke som sleping.*Kvalifisert personell:* Personell som har fått opplæring av produsenten av utstyret til å gjennomføre årlige kontroller av vinsj, og som anses kompetent av rederiet.
+I denne forskriften gjelder følgende definisjoner:
+
+1. *Ankerhåndtering:* Sette ut og ta opp anker, og stramme opp og teste forankring og fortøyning av flytende konstruksjoner. Arbeid med forankring og fortøyning av lette gjenstander, slik som en flytebrygge eller tilsvarende, anses ikke som ankerhåndtering. Ankerhåndtering i havbruk inkluderer å sette ut og ta opp anker, stramme opp og teste ankerliner, samt arbeid med rammefortøyning der trosser som er en del av rammefortøyningen, kobles av eller på. Håndtering av haneføtter, som ikke er en del av selve rammen, og inspeksjon av koblingsplater i rammefortøyningen anses ikke som ankerhåndtering.
+2. *BP:* Fartøyets maksimale kontinuerlige slepekraft.
+3. *Fritidsfartøy:* Skip som brukes utenfor næringsvirksomhet.
+4. *IS-koden:* Det internasjonale regelverket for intaktstabilitet 2008, som endret ved MSC.413(97), MSC.414(97), MSC.443(99) og MSC.444(99).
+5. *Krengende arm:* Krengende moment dividert på skipets vektdeplasement (MK/depl.). Letteste kondisjon for løft skal legges til grunn for utregning av deplasement.
+6. *Lastelinjekonvensjonen:* Den internasjonale konvensjonen om lastelinjer av 1966 endret ved 1988-protokollen, konsolidert utgave 2021 som endret ved MSC.491(104).
+7. *Lasteskip:* Skip som ikke er passasjerskip, fiskefartøy, lekter, fritidsfartøy eller fartøy som anses for å være en del av et annet skips utrustning. Med lekter menes her et skrog eller skip uten fremdriftsmaskineri som skal slepes eller skyves ved all forflytning og som anvendes til føring av last.
+8. *Lengde (L):* Lengden som definert i lastelinjekonvensjonen gjeldende ved byggetidspunkt.
+9. *Lukket skip:* Skip med dekk som kan lukkes værtett fra akterstevnen til forstevnen, uavbrutt av annet enn overbygning eller dekkshus som er konstruert slik at sjøvann ikke vil fylle rom under dekk.
+10. *Slep:* Sleping eller skyving av én eller flere gjenstander. Tauing av lette gjenstander, slik som en lettbåt, en lett flytebrygge eller tilsvarende, og korte forflytninger av en gjenstand innenfor et begrenset område anses ikke som sleping.
+11. *Kvalifisert personell:* Personell som har fått opplæring av produsenten av utstyret til å gjennomføre årlige kontroller av vinsj, og som anses kompetent av rederiet.
 
 ### § 6. Skip som brukes til opplæringsformål
 
@@ -72,7 +96,13 @@ Fiskeutstyr og arrangement for fiske og fangst om bord på lasteskip skal oppfyl
 
 (1) For skip som har byggekontrakt inngått før 1. januar 2026 og som er levert før 1. januar 2027, gjelder bestemmelsene som gjaldt for norske skip da skipet ble bygget. I tillegg gjelder senere endringer med virkning for eksisterende skip, slik som bestemt i tidligere gjeldende forskrifter og i denne forskriftens [kapittel 15](forskrift/2025-12-16-2652/kap15). Skip uten byggekontrakt skal være kjølstrukket eller på et tilsvarende byggetrinn før 1. april 2026.
 
-(2) Sjøfartsdirektoratet kan gi pålegg om at et skip, helt eller delvis, skal oppfylle krav som gjelder skip som har byggekontrakt inngått 1. januar 2026 eller senere eller som er levert 1. januar 2027 eller senere vedendring i bruken av skipetutskiftning av utstyrreparasjonerombygginger eller annen endringøkt dypgående.
+(2) Sjøfartsdirektoratet kan gi pålegg om at et skip, helt eller delvis, skal oppfylle krav som gjelder skip som har byggekontrakt inngått 1. januar 2026 eller senere eller som er levert 1. januar 2027 eller senere ved
+
+1. endring i bruken av skipet
+2. utskiftning av utstyr
+3. reparasjoner
+4. ombygginger eller annen endring
+5. økt dypgående.
 
 (3) Sjøfartsdirektoratet kan også stille slike krav av andre årsaker enn de som er nevnt i andre ledd, etter en konkret vurdering av sikkerheten ut fra skipets generelle byggetekniske utførelse, utstyr, arrangement og tilstand.
 
@@ -110,7 +140,14 @@ Skip som i issesongen passerer gjennom farvann som overvåkes av ispatruljetjene
 
 ### § 15. Farevarsler
 
-(1) Skipsfører skal varsle nærliggende fartøy og relevante myndigheterom områder med farlig is, farlig vrakgods eller andre navigasjonsfarerved tropisk stormved temperatur under 0 °C kombinert med kuling, som kan føre til isingved vind med styrke 10 eller høyere på Beaufort-skalaen når det ikke er sendt ut kulingvarselom observasjon av flytende transportcontainere i sjøenved tap av én eller flere transportcontainere. Dersom skipet forlates eller dersom en rapport fra skipet er ufullstendig eller ikke kan fremlegges, skal rederiet, så langt som mulig, påta seg de forpliktelsene som er pålagt skipsføreren etter denne regelen.
+(1) Skipsfører skal varsle nærliggende fartøy og relevante myndigheter
+
+1. om områder med farlig is, farlig vrakgods eller andre navigasjonsfarer
+2. ved tropisk storm
+3. ved temperatur under 0 °C kombinert med kuling, som kan føre til ising
+4. ved vind med styrke 10 eller høyere på Beaufort-skalaen når det ikke er sendt ut kulingvarsel
+5. om observasjon av flytende transportcontainere i sjøen
+6. ved tap av én eller flere transportcontainere. Dersom skipet forlates eller dersom en rapport fra skipet er ufullstendig eller ikke kan fremlegges, skal rederiet, så langt som mulig, påta seg de forpliktelsene som er pålagt skipsføreren etter denne regelen.
 
 (2) Varselet etter første ledd skal gis på engelsk eller i samsvar med den internasjonale signalhåndboken. Informasjonen i varselet skal være i samsvar med [den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 (SOLAS) kapittel V](traktat/1974-11-01-1/kapV) regel 32, fastsatt ved resolusjon MSC.99(73), som endret ved resolusjon MSC.550 (108).
 
@@ -122,7 +159,17 @@ Når styremaskinen har flere kraftenheter som kan brukes samtidig, skal minst to
 
 (1) Besetningen skal kontrollere og prøve styremaskinen minst én gang i uken.
 
-(2) Styremaskinens funksjon skal prøves i samsvar med skipets prosedyre og utstyr, og prosedyren skal omfatte følgende utstyr dersom dette finnes om bord:hovedstyremaskinenhjelpestyremaskinenestyreposisjoner som ikke er på broenstyreposisjonene på broennødkrafttilførselenrorindikatorene i forhold til rorets faktiske stillingalarm for svikt i krafttilførsel til fjernopererte kontrollsystemer for styremaskinenalarm for svikt i krafttilførsel til kraftenhetene i styremaskinenautomatiske isolasjonsarrangementer og annet automatisk utstyr.
+(2) Styremaskinens funksjon skal prøves i samsvar med skipets prosedyre og utstyr, og prosedyren skal omfatte følgende utstyr dersom dette finnes om bord:
+
+1. hovedstyremaskinen
+2. hjelpestyremaskinene
+3. styreposisjoner som ikke er på broen
+4. styreposisjonene på broen
+5. nødkrafttilførselen
+6. rorindikatorene i forhold til rorets faktiske stilling
+7. alarm for svikt i krafttilførsel til fjernopererte kontrollsystemer for styremaskinen
+8. alarm for svikt i krafttilførsel til kraftenhetene i styremaskinen
+9. automatiske isolasjonsarrangementer og annet automatisk utstyr.
 
 (3) Prøvingen etter annet ledd skal vise at roret har full bevegelse i samsvar med styremaskinens spesifikasjoner, og at kommunikasjonsutstyret mellom bro og styremaskinrom fungerer. I tillegg skal styremaskinens tilslutninger kontrolleres visuelt.
 
@@ -134,11 +181,28 @@ Når styremaskinen har flere kraftenheter som kan brukes samtidig, skal minst to
 
 ### § 18. Utforming av styrehus
 
-For skip med største lengde 12 meter eller mer gjelder følgende:Styrehuset skal ha slik størrelse og utforming at hjelpemidler og utstyr kan plasseres hensiktsmessig og betjenes på en forsvarlig måte. Plasseringen og bruken av arbeidsstasjoner skal ikke forstyrre de primære funksjonene knyttet til brovaktholdet.Dersom instrumenter skal plasseres under styrehustaket, skal takhøyden være slik at det er fri sikt og gangpassasje under instrumentene. Kravet gjelder ikke for magnetkompassets reflektoranordning.
+For skip med største lengde 12 meter eller mer gjelder følgende:
+
+1. Styrehuset skal ha slik størrelse og utforming at hjelpemidler og utstyr kan plasseres hensiktsmessig og betjenes på en forsvarlig måte. Plasseringen og bruken av arbeidsstasjoner skal ikke forstyrre de primære funksjonene knyttet til brovaktholdet.
+2. Dersom instrumenter skal plasseres under styrehustaket, skal takhøyden være slik at det er fri sikt og gangpassasje under instrumentene. Kravet gjelder ikke for magnetkompassets reflektoranordning.
 
 ### § 19. Sikt fra styrehus
 
-(1) Skip med største lengde 12 meter eller mer som er bygget 1. juli 1998 eller senere og har styrehus, skal oppfylle følgende krav:Fra kommandoposisjonen skal detvære fri sikt til havoverflaten fra minimum to skipslengder foran skipets baug og 10° på hver sideikke være noen blindsektorer som er større enn 5°, uavhengig av skipets dypgående, trim og dekkslastikke være blindsektorer større enn 10° som skyldes last, laste- og losseinnretninger eller andre gjenstander utenfor styrehuset forenfor tvers, og som begrenser sikten til havoverflaten. Blindsektorenes totale utstrekning skal ikke være større enn 20°, og den uhindrede sektoren mellom to blindsektorer skal være minst 5°være horisontal sikt som utgjør en bue på minst 225° regnet fra rett forut til minst 22,5° aktenfor tvers på hver side av skipet.Fra styrehuset skal det være mulighet for sikt akterover.Det skal ikke være polariserte eller fargede vinduer.Det skal være sikt til skipssiden under manøvrering. Kravet kan ivaretas med bruk av en kameraløsning.Den nedre kanten av frontvinduene i styrehuset skal være plassert så lavt over brodekket som mulig, og ikke i noe tilfelle slik at sikten forover blokkeres.Fra den øvre kanten av frontvinduene i styrehuset skal det være utsyn forover til horisonten for en person med en øyehøyde på 1800 mm over dekket i styrehuset ved styreplassen når skipet stamper i høy sjø, eller 1600 mm der det er konstruksjonsmessig upraktisk med 1800 mm.På minst ett av frontvinduene skal det være montert varmevindu eller vindu med varmluftsdyser, begge med ferskvannsspyling og vindusvisker, eller klarsiktskive. Avhengig av styrehuskonstruksjonen skal det om nødvendig monteres flere slike vinduer, slik at det til enhver tid og uansett værforhold er klar sikt forover og til siden.Karmer mellom vinduene på broen skal være så smale som mulig. Karmene kan ikke være plassert rett foran en arbeidsstasjon.
+(1) Skip med største lengde 12 meter eller mer som er bygget 1. juli 1998 eller senere og har styrehus, skal oppfylle følgende krav:
+
+1. Fra kommandoposisjonen skal det
+
+   1. være fri sikt til havoverflaten fra minimum to skipslengder foran skipets baug og 10° på hver side
+   2. ikke være noen blindsektorer som er større enn 5°, uavhengig av skipets dypgående, trim og dekkslast
+   3. ikke være blindsektorer større enn 10° som skyldes last, laste- og losseinnretninger eller andre gjenstander utenfor styrehuset forenfor tvers, og som begrenser sikten til havoverflaten. Blindsektorenes totale utstrekning skal ikke være større enn 20°, og den uhindrede sektoren mellom to blindsektorer skal være minst 5°
+   4. være horisontal sikt som utgjør en bue på minst 225° regnet fra rett forut til minst 22,5° aktenfor tvers på hver side av skipet.
+2. Fra styrehuset skal det være mulighet for sikt akterover.
+3. Det skal ikke være polariserte eller fargede vinduer.
+4. Det skal være sikt til skipssiden under manøvrering. Kravet kan ivaretas med bruk av en kameraløsning.
+5. Den nedre kanten av frontvinduene i styrehuset skal være plassert så lavt over brodekket som mulig, og ikke i noe tilfelle slik at sikten forover blokkeres.
+6. Fra den øvre kanten av frontvinduene i styrehuset skal det være utsyn forover til horisonten for en person med en øyehøyde på 1800 mm over dekket i styrehuset ved styreplassen når skipet stamper i høy sjø, eller 1600 mm der det er konstruksjonsmessig upraktisk med 1800 mm.
+7. På minst ett av frontvinduene skal det være montert varmevindu eller vindu med varmluftsdyser, begge med ferskvannsspyling og vindusvisker, eller klarsiktskive. Avhengig av styrehuskonstruksjonen skal det om nødvendig monteres flere slike vinduer, slik at det til enhver tid og uansett værforhold er klar sikt forover og til siden.
+8. Karmer mellom vinduene på broen skal være så smale som mulig. Karmene kan ikke være plassert rett foran en arbeidsstasjon.
 
 (2) Skip med største lengde 12 meter eller mer som er bygget før 1. juli 1998, skal oppfylle kravene i første ledd bokstav a (i) og (ii), med mindre dette krever konstruksjonsendringer eller tilleggsutstyr.
 
@@ -184,9 +248,15 @@ For skip med største lengde 12 meter eller mer gjelder følgende:Styrehuset ska
 
 (1) Seilasen skal planlegges før avreise.
 
-(2) Skipet skal ha oppdaterte offisielle sjøkart om bord. Dette kravet kan oppfylles med én av følgende løsninger:papirkart på kartbord i styrehuset hvor skipets posisjon kan plottes og overvåkes under hele reisenelektronisk visnings- og informasjonssystem for sjøkart (ECDIS) med reservesystem.
+(2) Skipet skal ha oppdaterte offisielle sjøkart om bord. Dette kravet kan oppfylles med én av følgende løsninger:
 
-(3) Som alternativ til andre ledd kan kravet om oppdaterte offisielle sjøkart oppfylles på én av følgende måter:kartmaskin med reservesystem, godkjent av Sjøfartsdirektoratet. Gyrokompass, THD eller logg som viser fart gjennom vannet, skal være rattmerket og koblet til kartmaskinenfor skip med største lengde under 12 meter og på skip uten styrehus: CE-merket kartplotter med sjøkart basert på oppdaterte kartdata i henhold til Kartverkets standard.
+1. papirkart på kartbord i styrehuset hvor skipets posisjon kan plottes og overvåkes under hele reisen
+2. elektronisk visnings- og informasjonssystem for sjøkart (ECDIS) med reservesystem.
+
+(3) Som alternativ til andre ledd kan kravet om oppdaterte offisielle sjøkart oppfylles på én av følgende måter:
+
+1. kartmaskin med reservesystem, godkjent av Sjøfartsdirektoratet. Gyrokompass, THD eller logg som viser fart gjennom vannet, skal være rattmerket og koblet til kartmaskinen
+2. for skip med største lengde under 12 meter og på skip uten styrehus: CE-merket kartplotter med sjøkart basert på oppdaterte kartdata i henhold til Kartverkets standard.
 
 (4) Skipet skal ha nødvendige nautiske publikasjoner om bord. Disse kan være digitale, jf. SLS.14/Circ.213.
 
@@ -214,7 +284,10 @@ Brovaktalarmen skal aktiveres automatisk når skipet er underveis.
 
 (1) Informasjon om identitet og posisjon (lengde- og breddegrad), samt dato og tid for gitt posisjon, skal sendes automatisk i LRIT-systemet fra skip med bruttotonnasje 300 eller mer i utenriksfart utenfor radiodekningsområde A1.
 
-(2) System og utstyr som benyttes for å møte LRIT-kravene, skal kunne slås av om bord eller kunne avbryte sending av LRIT-informasjon nårinternasjonale avtaler har bestemmelser om beskyttelse av navigasjonsopplysninger, ellerskipsfører finner det nødvendig av hensyn til sikkerheten for fartøyet.
+(2) System og utstyr som benyttes for å møte LRIT-kravene, skal kunne slås av om bord eller kunne avbryte sending av LRIT-informasjon når
+
+1. internasjonale avtaler har bestemmelser om beskyttelse av navigasjonsopplysninger, eller
+2. skipsfører finner det nødvendig av hensyn til sikkerheten for fartøyet.
 
 (3) Dersom sending av LRIT-informasjon avbrytes i samsvar med annet ledd bokstav b, skal skipsføreren informere Sjøfartsdirektoratet.
 
@@ -236,7 +309,13 @@ Reservemagnetkompass skal oppfylle funksjonskravene i [§ 22 annet ledd](forskri
 
 ### § 29. Entringskrav for los
 
-Når skipet entres 1,5 til 9 meter over vannflaten, skal det være sikker atkomst til en losleider som er plassert og sikret i henhold til følgende krav:Losleideren skal gå klar av ethvert utslipp fra skipet.Losleideren skal være innenfor utstrekningen av skipets parallelle sider og så langt det er mulig innenfor skipets halve lengde midtskips.Hvert trinn på losleideren skal hvile fast mot skipssiden. Hvis skipets konstruksjon hindrer trinnene på losleideren i å hvile fast mot skipssiden, skal andre anordninger sikre at losen trygt kan entre og forlate skipet.Én enkelt leiderlengde skal nå vannflaten fra det stedet losen entrer og forlater skipet, også med en ugunstig slagside på 15° og uansett skipets laste- og trimforhold.Festepunktene, sjaklene og sikringstauene er minst like sterke som holdetauene.
+Når skipet entres 1,5 til 9 meter over vannflaten, skal det være sikker atkomst til en losleider som er plassert og sikret i henhold til følgende krav:
+
+1. Losleideren skal gå klar av ethvert utslipp fra skipet.
+2. Losleideren skal være innenfor utstrekningen av skipets parallelle sider og så langt det er mulig innenfor skipets halve lengde midtskips.
+3. Hvert trinn på losleideren skal hvile fast mot skipssiden. Hvis skipets konstruksjon hindrer trinnene på losleideren i å hvile fast mot skipssiden, skal andre anordninger sikre at losen trygt kan entre og forlate skipet.
+4. Én enkelt leiderlengde skal nå vannflaten fra det stedet losen entrer og forlater skipet, også med en ugunstig slagside på 15° og uansett skipets laste- og trimforhold.
+5. Festepunktene, sjaklene og sikringstauene er minst like sterke som holdetauene.
 
 ### § 30. Forholdsregler for atkomst til skipets dekk
 
@@ -248,15 +327,27 @@ Når skipet entres 1,5 til 9 meter over vannflaten, skal det være sikker atkoms
 
 (4) Utstyret skal testes før bruk.
 
-(5) Det skal sikres trygg, praktisk og uhindret passasje for enhver som går om bord eller fra borde, mellom toppen av losleideren eller en hvilken som helst annen innretning og skipets dekk. Passasjen skal oppfylle følgende krav:Når passasjen er en port i rekken eller skansekledningen, skal det være forsvarlig håndtak på begge sider av åpningen.Når passasjen er en rekketrapp, skal det finnes to rekkestøtter som er fast sikret til skipets konstruksjon ved eller nær nederste ende og høyere oppe. Rekketrappen skal være forsvarlig festet til skipet for å hindre at den tipper.
+(5) Det skal sikres trygg, praktisk og uhindret passasje for enhver som går om bord eller fra borde, mellom toppen av losleideren eller en hvilken som helst annen innretning og skipets dekk. Passasjen skal oppfylle følgende krav:
+
+1. Når passasjen er en port i rekken eller skansekledningen, skal det være forsvarlig håndtak på begge sider av åpningen.
+2. Når passasjen er en rekketrapp, skal det finnes to rekkestøtter som er fast sikret til skipets konstruksjon ved eller nær nederste ende og høyere oppe. Rekketrappen skal være forsvarlig festet til skipet for å hindre at den tipper.
 
 ### § 31. Utstyr og belysning
 
-(1) Følgende utstyr skal være tilgjengelig for umiddelbar bruk:to håndtau med diameter på 28 mm til 32 mm sikret til skipeten livbøye med selvtennende lysen hiveline.
+(1) Følgende utstyr skal være tilgjengelig for umiddelbar bruk:
+
+1. to håndtau med diameter på 28 mm til 32 mm sikret til skipet
+2. en livbøye med selvtennende lys
+3. en hiveline.
 
 (2) Atkomstmidlene og stedet på dekket der en person entrer og forlater skipet, skal lyses tilstrekkelig opp.
 
-(3) Atkomstmidlene skalvedlikeholdes og holdes renevære forsvarlig stuetinspiseres regelmessigkun brukes til å entre og forlate skipet.
+(3) Atkomstmidlene skal
+
+1. vedlikeholdes og holdes rene
+2. være forsvarlig stuet
+3. inspiseres regelmessig
+4. kun brukes til å entre og forlate skipet.
 
 (4) Datoen da losleideren ble tatt i bruk første gang, og reparasjonsdatoer skal registreres i vedlikeholdssystemet.
 
@@ -285,7 +376,13 @@ Skip med største lengde 12 meter eller mer skal kunne gi alarmsignal for å kal
 
 (3) Flåtekonteiner skal være merket med hvilken type nødpakke som ligger vedlagt. Skip som går i fartsområde Nord- og Østersjøfart eller mindre kan ha flåtekontainer merket «SOLAS B PACK» som beskrevet i LSA-koden 4.1.5.3.
 
-(4) Lasteskip med største lengde 12 meter eller mer, men under 15 meter, som går i innenriks fart og ikke har flere enn tre personer om bord, kan i stedet for å oppfylle kravet i første ledd ha to redningsflåter uten rattmerke når hver redningsflåte erberegnet for minst fire personerprodusert etter ISO-standard 9650-1 (Group A)plassert i samsvar med produsentens anbefalinger, men ikke mer enn seks meter over vannlinjen i minst gunstige lastetilstandarrangert med friflyt-innretning i samsvar med regel 4.1.6 i LSA-koden (resolusjon MSC.48(66) og MSC.81(70))pakket i konteiner som har tilstrekkelig oppdrift til å dra ut utløserlinen og løse ut flåten dersom skipet synker, jf. LSA-koden regel 4.2.6.
+(4) Lasteskip med største lengde 12 meter eller mer, men under 15 meter, som går i innenriks fart og ikke har flere enn tre personer om bord, kan i stedet for å oppfylle kravet i første ledd ha to redningsflåter uten rattmerke når hver redningsflåte er
+
+1. beregnet for minst fire personer
+2. produsert etter ISO-standard 9650-1 (Group A)
+3. plassert i samsvar med produsentens anbefalinger, men ikke mer enn seks meter over vannlinjen i minst gunstige lastetilstand
+4. arrangert med friflyt-innretning i samsvar med regel 4.1.6 i LSA-koden (resolusjon MSC.48(66) og MSC.81(70))
+5. pakket i konteiner som har tilstrekkelig oppdrift til å dra ut utløserlinen og løse ut flåten dersom skipet synker, jf. LSA-koden regel 4.2.6.
 
 (5) Skip med største lengde under 12 meter kan ha en flytende kastering festet til minst 30 meter flytende redningsline istedenfor livbøye med redningsline.
 
@@ -295,7 +392,12 @@ Skip med største lengde 12 meter eller mer skal kunne gi alarmsignal for å kal
 
 ### § 34. Plassering av redningsflåter
 
-(1) Redningsflåter skal plasserespå et sikkert og beskyttet sted, og være beskyttet mot skade forårsaket av brann og eksplosjonaktenfor kollisjonsskottetslik at forsvarlig utsetting er sikret, og slik at innskiping og utsetting foregår med klaring fra propellenslik at det ikke er fare for at redningsflåter legger seg mellom skrogene på skip med mer enn ett skrog.
+(1) Redningsflåter skal plasseres
+
+1. på et sikkert og beskyttet sted, og være beskyttet mot skade forårsaket av brann og eksplosjon
+2. aktenfor kollisjonsskottet
+3. slik at forsvarlig utsetting er sikret, og slik at innskiping og utsetting foregår med klaring fra propellen
+4. slik at det ikke er fare for at redningsflåter legger seg mellom skrogene på skip med mer enn ett skrog.
 
 (2) Redningsflåter skal være stuet i en friflyt-innretning med hydrostatisk utløserenhet og med fanglinen permanent fastgjort til skipet.
 
@@ -331,7 +433,11 @@ Skip skal ha skipsspesifikke planer og prosedyrer for ombordtaking av personer f
 
 ### § 39. Betjeningsinstrukser
 
-Det skal finnes oppslag eller skilt på eller i nærheten av redningsredskapene, inkludert redningsflåtene og deres utsettingsarrangement somillustrerer formålet med redningsredskapet og prosedyrene for betjening, og som gir relevante instruksjoner og advarslerkan leses ved alle lysforhold i en nødssituasjonbruker symboler i samsvar med IMO-resolusjon A.760(18) «Symbols related to life-saving appliances and arrangements», som endret ved resolusjon MSC.82(70).
+Det skal finnes oppslag eller skilt på eller i nærheten av redningsredskapene, inkludert redningsflåtene og deres utsettingsarrangement som
+
+1. illustrerer formålet med redningsredskapet og prosedyrene for betjening, og som gir relevante instruksjoner og advarsler
+2. kan leses ved alle lysforhold i en nødssituasjon
+3. bruker symboler i samsvar med IMO-resolusjon A.760(18) «Symbols related to life-saving appliances and arrangements», som endret ved resolusjon MSC.82(70).
 
 ### § 40. Alarminstruks
 
@@ -339,7 +445,11 @@ Det skal finnes oppslag eller skilt på eller i nærheten av redningsredskapene,
 
 (2) Alarminstruksen skal være oppslått i styrehus og i skipets dagrom eller annet synlig sted i innredningen om bord, og den skal være utarbeidet før skipet forlater havn.
 
-(3) Alarminstruksen skal opplyse omhovedalarmhvor den enkelte skal møtehvilke oppgaver den enkelte er pålagt i forbindelse med brann om bord og evakuering av skipet.
+(3) Alarminstruksen skal opplyse om
+
+1. hovedalarm
+2. hvor den enkelte skal møte
+3. hvilke oppgaver den enkelte er pålagt i forbindelse med brann om bord og evakuering av skipet.
 
 ### § 41. Øvelser
 
@@ -347,7 +457,11 @@ Det skal finnes oppslag eller skilt på eller i nærheten av redningsredskapene,
 
 (2) Øvelsene skal planlegges på en slik måte at det tas hensyn til de ulike nødssituasjonene som kan oppstå avhengig av skipstype og last.
 
-(3) Øvelsene skal minst omfattemønstring ved mønstringsstasjonkontroll og bruk av brannslokkingsutstyr og redningsredskaperkontroll og bruk av kommunikasjonsutstyr.
+(3) Øvelsene skal minst omfatte
+
+1. mønstring ved mønstringsstasjon
+2. kontroll og bruk av brannslokkingsutstyr og redningsredskaper
+3. kontroll og bruk av kommunikasjonsutstyr.
 
 (4) Mannskap med ansvar for entring av eller redning fra lukkede rom skal delta i denne typen øvelse minst én gang hver tredje måned.
 
@@ -357,7 +471,11 @@ Det skal finnes oppslag eller skilt på eller i nærheten av redningsredskapene,
 
 (2) Vedlikeholdet skal gjennomføres ved godkjent tjenesteleverandør for oppblåsbart redningsutstyr.
 
-(3) Det skal finnes vedlikeholdsinstrukser for redningsredskapene som inneholderinstruks og sjekkliste til bruk ved utførelse av vedlikehold og inspeksjoner om bordtidsplan for periodisk vedlikeholddiagram som viser smørepunkter med anbefalte smøremidler.
+(3) Det skal finnes vedlikeholdsinstrukser for redningsredskapene som inneholder
+
+1. instruks og sjekkliste til bruk ved utførelse av vedlikehold og inspeksjoner om bord
+2. tidsplan for periodisk vedlikehold
+3. diagram som viser smørepunkter med anbefalte smøremidler.
 
 ## Kapittel 4. Radiokommunikasjonsutstyr for skip med bruttotonnasje under 300
 
@@ -451,7 +569,11 @@ GMDSS-nødprosedyre og kanalplan skal være oppslått ved radiostasjonen.
 
 (1) På skip hvor personer om bord skal overføres mellom skipet og anlegg eller installasjoner for fornybar energiproduksjon til sjøs, skal det finnes en prosedyre for slik overføring. Prosedyren skal være basert på MSC-MEPC.7/Circ.10 «Guidance of safety when transferring persons at sea».
 
-(2) Overføringen skal skje ved hjelp av atkomstmidler som sikrer en trygg overføring av personer. Atkomstmidlene skalvedlikeholdes og holdes renevære forsvarlig stuetinspiseres regelmessig.
+(2) Overføringen skal skje ved hjelp av atkomstmidler som sikrer en trygg overføring av personer. Atkomstmidlene skal
+
+1. vedlikeholdes og holdes rene
+2. være forsvarlig stuet
+3. inspiseres regelmessig.
 
 (3) Personer som overføres, skal ha på seg tilpasset flyteutstyr.
 
@@ -525,7 +647,12 @@ Produksjonsforholdene for skip som helt eller delvis bygges av glassfiberarmert 
 
 ### § 62. Definisjoner
 
-I dette kapittelet gjelder følgende definisjoner:*MBS:* linens minste bruddstyrke*ReH:* materialets minimale flytespenning*RP0,2:* materialets 0,2 prosent forlengelse*WLL (Working Load Limit):* utstyrets sikre arbeidslast, som i denne forskriften betyr maksimalt tillatt trekkraft på innerste lag.
+I dette kapittelet gjelder følgende definisjoner:
+
+1. *MBS:* linens minste bruddstyrke
+2. *ReH:* materialets minimale flytespenning
+3. *RP0,2:* materialets 0,2 prosent forlengelse
+4. *WLL (Working Load Limit):* utstyrets sikre arbeidslast, som i denne forskriften betyr maksimalt tillatt trekkraft på innerste lag.
 
 ### § 63. Dekksutstyr
 
@@ -551,7 +678,11 @@ Ethvert dekksutstyr skal arrangeres slik at det er mulig å oppholde seg i en si
 
 ### § 66. Utstyr for skip som utfører ankerhåndtering
 
-Skip som utfører ankerhåndteringsoperasjoner, skal ha ankerhåndteringsvinsj og utstyr somhindrer utilsiktet vandring av liner, slik som koblingsplatelås og lukkede styrepinnertar bort spenn fra linen ved å låse den, slik som taulås og haikjefthindrer slitasje på liner, slik som hekkrull, baugrull, lederull og ledeskiver.
+Skip som utfører ankerhåndteringsoperasjoner, skal ha ankerhåndteringsvinsj og utstyr som
+
+1. hindrer utilsiktet vandring av liner, slik som koblingsplatelås og lukkede styrepinner
+2. tar bort spenn fra linen ved å låse den, slik som taulås og haikjeft
+3. hindrer slitasje på liner, slik som hekkrull, baugrull, lederull og ledeskiver.
 
 ### § 67. Automatisk lydalarm
 
@@ -561,11 +692,25 @@ Skip med haikjeft, taulås, lukkede styrepinner, koblingsplatelås eller annet u
 
 (1) Utstyr som er installert i samsvar med [§§ 65](forskrift/2025-12-16-2652/§65) og [66](forskrift/2025-12-16-2652/§66), og utstyr som brukes i operasjoner med tilsvarende faremomenter, skal ha en driftssikker og hensiktsmessig nødutløsningsmekanisme som frigjør strekk i linen. Nødutløsningsmekanismen skal være beskyttet mot utilsiktet utløsning.
 
-(2) Nødutløsning skal kunne skjeuten manuelle inngrep på eller ved utstyretfra kontrollpanelet for utstyretfra aktuell styreposisjon for skipetved dødt skipved det aktuelle utstyrets sikre arbeidslast (WLL).
+(2) Nødutløsning skal kunne skje
+
+1. uten manuelle inngrep på eller ved utstyret
+2. fra kontrollpanelet for utstyret
+3. fra aktuell styreposisjon for skipet
+4. ved dødt skip
+5. ved det aktuelle utstyrets sikre arbeidslast (WLL).
 
 (3) Når nødutløsningsmekanismen aktiveres, skal strekket i linen være borte i løpet av 10 sekunder. Ved bruk av brems for å hindre ukontrollert utspoling skal ikke bremsekraften overstige 0,2 BP.
 
-(4) Nødutløsningsmekanismen skal kontrolleres, og kontrollen skal vise at følgende funksjoner er ivaretatt, så lenge dette ikke er i konflikt med produsentens anbefalinger:Det skal verifiseres at vinsjens restholdekraft ikke overstiger 20 prosent av skipets BP.Når flere komponenter, som vinsj, styrepinner, haikjeft eller annet relevant utstyr, er installert og kan bli brukt i samme operasjon, skal nødutløsningen skje i en hensiktsmessig rekkefølge og slik at strekket i linen er borte i løpet av 10 sekunder fra aktivering av nødutløsningsmekanismen. Dette skal bekreftes gjennom følgende tester:Nødutløsning og nødstopp skal testes ved kontrollpanelet og styreposisjonen.Nødutløsning skal testes ved dødt skip, både med bremse aktivert og deaktivert.Nødutløsning skal testes med en kraft tilsvarende skipets BP. Dette kan gjøres som en statisk test hvor linen er festet til et punkt på dekk.Når vinsjen kobles inn etter en nødutløsning, skal motorene kobles på uten at trommelen automatisk roterer. Dette gjelder også ved dødt skip.
+(4) Nødutløsningsmekanismen skal kontrolleres, og kontrollen skal vise at følgende funksjoner er ivaretatt, så lenge dette ikke er i konflikt med produsentens anbefalinger:
+
+1. Det skal verifiseres at vinsjens restholdekraft ikke overstiger 20 prosent av skipets BP.
+2. Når flere komponenter, som vinsj, styrepinner, haikjeft eller annet relevant utstyr, er installert og kan bli brukt i samme operasjon, skal nødutløsningen skje i en hensiktsmessig rekkefølge og slik at strekket i linen er borte i løpet av 10 sekunder fra aktivering av nødutløsningsmekanismen. Dette skal bekreftes gjennom følgende tester:
+
+   1. Nødutløsning og nødstopp skal testes ved kontrollpanelet og styreposisjonen.
+   2. Nødutløsning skal testes ved dødt skip, både med bremse aktivert og deaktivert.
+   3. Nødutløsning skal testes med en kraft tilsvarende skipets BP. Dette kan gjøres som en statisk test hvor linen er festet til et punkt på dekk.
+3. Når vinsjen kobles inn etter en nødutløsning, skal motorene kobles på uten at trommelen automatisk roterer. Dette gjelder også ved dødt skip.
 
 (5) Ved kontroll av nødutløsning på slepevinsj og ankerhåndteringsvinsj skal det gjennomføres en dynamisk test av vinsjen der deler av linen dras av trommelen etter at nødutløsningen er aktivert.
 
@@ -633,7 +778,14 @@ Slepevinsj og ankerhåndteringsvinsj skal dimensjoneres på en slik måte at ing
 
 ### § 74. Merking av slepevinsj og ankerhåndteringsvinsj
 
-Vinsjer skal være permanent merket på en godt synlig korrosjonsbestandig plate med opplysninger omproduktnavnproduktmodelltrommellastnominell hastighetholdekraftWLL.
+Vinsjer skal være permanent merket på en godt synlig korrosjonsbestandig plate med opplysninger om
+
+1. produktnavn
+2. produktmodell
+3. trommellast
+4. nominell hastighet
+5. holdekraft
+6. WLL.
 
 ### § 75. Kontrollpanel med lastmonitor for slepevinsj og ankerhåndteringsvinsj
 
@@ -709,7 +861,14 @@ Løst utstyr som brukes sammen med dekksutstyr, slik som sjakler, ringer, wirer 
 
 (2) Skip med løfteinnretning som kan påføre skipet en krengende arm på mer enn 0,10 meter, skal ha et diagram med informasjon om maksimum tillatt vekt som funksjon av utstrekning og retning. Diagrammet skal være slått opp i styrehuset.
 
-(3) Følgende stabilitetsdokumentasjon skal finnes om bord:tankplan og tabeller eller kurver som minst inneholder informasjon om volum, tyngdepunkt og fri overflateeffekt ved forskjellige nivåer for de enkelte tankenehydrostatikkkrysskurvergrensekurverlastetilstandereksempler på utarbeidelse av andre lastetilstander og kontroll opp mot tillatte grensekurver.
+(3) Følgende stabilitetsdokumentasjon skal finnes om bord:
+
+1. tankplan og tabeller eller kurver som minst inneholder informasjon om volum, tyngdepunkt og fri overflateeffekt ved forskjellige nivåer for de enkelte tankene
+2. hydrostatikk
+3. krysskurver
+4. grensekurver
+5. lastetilstander
+6. eksempler på utarbeidelse av andre lastetilstander og kontroll opp mot tillatte grensekurver.
 
 (4) Når det forutsettes begrensninger i lastekapasitet eller lignende for skip som skal slepe, utføre løfteoperasjoner eller ankerhåndtering, jf. [§§ 88](forskrift/2025-12-16-2652/§88) til [90](forskrift/2025-12-16-2652/§90), skal begrensningene gå tydelig frem av instruksen til skipsføreren i stabilitetsmanualen.
 
@@ -733,7 +892,12 @@ For skip som skal slepe eller utføre ankerhåndtering, skal BP fastsettes gjenn
 
 (1) Lastetilstander skal beregnes for alle skipets operasjoner.
 
-(2) Beregningene etter første ledd skal blant annet omfattefullt utrustet skip uten lastfullt utrustet skip med lasterommene fulle og lasten homogent fordelt i alle rom, inklusiv lukerfullt utrustet skip med maksimal last på dekk og eventuell last under dekk homogent fordeltfullt utrustet skip med maksimal last på dekk.
+(2) Beregningene etter første ledd skal blant annet omfatte
+
+1. fullt utrustet skip uten last
+2. fullt utrustet skip med lasterommene fulle og lasten homogent fordelt i alle rom, inklusiv luker
+3. fullt utrustet skip med maksimal last på dekk og eventuell last under dekk homogent fordelt
+4. fullt utrustet skip med maksimal last på dekk.
 
 (3) Lastetilstander skal beregnes som angitt i paragrafen her og for mindre gunstige lastfordelinger som er aktuelle for skipets drift.
 
@@ -751,7 +915,13 @@ For skip som skal slepe eller utføre ankerhåndtering, skal BP fastsettes gjenn
 
 ### § 87. Beregning av lastetilstander for fri fylling eller sirkulasjon i brønn
 
-(1) For skip med åpninger eller ventiler for fri fylling eller sirkulasjon i brønn skal det, i stedet for lastetilstandene i [§ 86 andre ledd](forskrift/2025-12-16-2652/§86/ledd/2), utarbeides lastetilstander som beskrevet i bokstav a til e under:fullt utrustet skip med 100 prosent forråd og 100 prosent drivstoff, med tom brønn og uten last i eventuelle lasteromsom bokstav a, men med 10 prosent forråd og 10 prosent drivstofffullastet skip med 100 prosent forråd og 100 prosent drivstoff, full utrustning, full brønn og den vannballastmengden som er nødvendig for å oppnå nedlasting i samsvar med fribordetsom bokstav c, men med 10 prosent forråd og 10 prosent drivstoffskipet med delvis fylt lastebrønn som viser den stabilitetsmessig svakeste situasjonen som vil oppstå med hensyn til frie overflater, fordeling av last og lignende.
+(1) For skip med åpninger eller ventiler for fri fylling eller sirkulasjon i brønn skal det, i stedet for lastetilstandene i [§ 86 andre ledd](forskrift/2025-12-16-2652/§86/ledd/2), utarbeides lastetilstander som beskrevet i bokstav a til e under:
+
+1. fullt utrustet skip med 100 prosent forråd og 100 prosent drivstoff, med tom brønn og uten last i eventuelle lasterom
+2. som bokstav a, men med 10 prosent forråd og 10 prosent drivstoff
+3. fullastet skip med 100 prosent forråd og 100 prosent drivstoff, full utrustning, full brønn og den vannballastmengden som er nødvendig for å oppnå nedlasting i samsvar med fribordet
+4. som bokstav c, men med 10 prosent forråd og 10 prosent drivstoff
+5. skipet med delvis fylt lastebrønn som viser den stabilitetsmessig svakeste situasjonen som vil oppstå med hensyn til frie overflater, fordeling av last og lignende.
 
 (2) Dersom skip er bygget slik at vannivået i brønnen kan økes i forhold til vannspeilet utenfor, skal stabilitetsberegningene vise at kravene til stabilitet er oppfylt for slike lastetilstander. Vannivået i brønnen skal ikke ligge under vannspeilet utenfor i noen lastetilstander.
 
@@ -765,7 +935,10 @@ For skip som skal utføre løfteoperasjoner som kan påføre skipet en krengende
 
 ### § 90. Utarbeiding av tilleggstilstander for skip som skal utføre ankerhåndtering
 
-(1) Skip som skal utføre ankerhåndtering, skal utarbeide lastetilstander som dekker de mest ugunstige tilstandene som skipet kan utføre ankerhåndteringsoperasjoner i. Som et minimum skal følgende lastetilstander utarbeides:fullt utrustet skip uten lastfullt utrustet skip med maksimal last på dekk skipet kan ha under ankerhåndteringsoperasjoner.
+(1) Skip som skal utføre ankerhåndtering, skal utarbeide lastetilstander som dekker de mest ugunstige tilstandene som skipet kan utføre ankerhåndteringsoperasjoner i. Som et minimum skal følgende lastetilstander utarbeides:
+
+1. fullt utrustet skip uten last
+2. fullt utrustet skip med maksimal last på dekk skipet kan ha under ankerhåndteringsoperasjoner.
 
 (2) Dersom skip etter første ledd må motballastere for å utføre ankerhåndtering, skal det vises lastetilstander før moment blir påført som en punktlast.
 
@@ -775,13 +948,25 @@ For skip som skal utføre løfteoperasjoner som kan påføre skipet en krengende
 
 ### § 91. Utarbeiding av tilleggstilstander for skip som opererer i områder hvor det er fare for ising
 
-(1) Når skipet opererer i områder hvor det er fare for ising, skaldet være utarbeidet lastetilstander med tillegg av vekt av isskipet være i stand til å oppfylle stabilitetskravene i alle lastetilstandene med tillegg av vekten av isvekten av is ikke medføre at dypeste vannlinje neddykkes.
+(1) Når skipet opererer i områder hvor det er fare for ising, skal
+
+1. det være utarbeidet lastetilstander med tillegg av vekt av is
+2. skipet være i stand til å oppfylle stabilitetskravene i alle lastetilstandene med tillegg av vekten av is
+3. vekten av is ikke medføre at dypeste vannlinje neddykkes.
 
 (2) Vekten av is skal antas å være minst 30 kg/m2 for utsatte værdekk, gangbroer og frontskott til overbygninger og dekkshus og minst 7,5 kg/m2 for projisert lateralplan på begge sider av skipet over vannlinjen. Vekten av is på usammenhengende flater som rekkverk, rigg, rundholter (unntatt master) og utstyr skal tas med ved at totalt areal for projisert lateralplan av skipets sider økes med 5 prosent. Det statiske momentet av dette arealet skal økes med 10 prosent.
 
 ### § 92. Forutsetninger som skal gjelde ved beregning av lastetilstander
 
-For beregning av lastetilstandene beskrevet i [§§ 86](forskrift/2025-12-16-2652/§86) til [91](forskrift/2025-12-16-2652/§91), gjelder følgende:I fullasttilstandene skal lasten antas å være homogent fordelt i alle lasterom, lukekarmer og eventuelle trunker.Ved beregning av fri overflateeffekt i forbrukstanker skal det for hver type væske antas at minst to transverse sidetanker eller minst én sentertank har fri overflate. Tank eller tanker som skal antas å ha fri væskeoverflate, skal være den eller de tankene hvor effekten av fri overflate er størst. Maksimum effekt av fri overflate som tanken eller tankene kan ha mellom tilhørende avgangskondisjon og ankomstkondisjon, skal legges til grunn. Dette gjelder for både avgangs- og ankomstkondisjon.For brønnfartøy som er bygget slik at det er fri fylling av brønnen, det vil si direkte forbindelse til sjøen, gjelder i tillegg følgende:Lastekondisjonene skal beregnes med korreksjon for fri overflateeffekt i lastebrønnen. Lasterom skal tas med i stabilitetsberegningene som en integrert del av skroget og dokumenteres sammen med den øvrige skrogbeskrivelsen. Lastens egenvekt skal i slike beregninger antas å være 1,025 tonn/m3.Når skipet har fulle drivstofftanker og er fullt utrustet, skal dypgående ikke være større enn den dypgangen som samsvarer med det tildelte fribordet. Vannivået i brønnen skal antas å være likt vannspeilet utenfor.For skip med mer enn én lastebrønn hvor lastebrønnene er adskilt med langskipsskott, skal brønnene anses som én brønn ved beregning av fri overflateeffekt.
+For beregning av lastetilstandene beskrevet i [§§ 86](forskrift/2025-12-16-2652/§86) til [91](forskrift/2025-12-16-2652/§91), gjelder følgende:
+
+1. I fullasttilstandene skal lasten antas å være homogent fordelt i alle lasterom, lukekarmer og eventuelle trunker.
+2. Ved beregning av fri overflateeffekt i forbrukstanker skal det for hver type væske antas at minst to transverse sidetanker eller minst én sentertank har fri overflate. Tank eller tanker som skal antas å ha fri væskeoverflate, skal være den eller de tankene hvor effekten av fri overflate er størst. Maksimum effekt av fri overflate som tanken eller tankene kan ha mellom tilhørende avgangskondisjon og ankomstkondisjon, skal legges til grunn. Dette gjelder for både avgangs- og ankomstkondisjon.
+3. For brønnfartøy som er bygget slik at det er fri fylling av brønnen, det vil si direkte forbindelse til sjøen, gjelder i tillegg følgende:
+
+   1. Lastekondisjonene skal beregnes med korreksjon for fri overflateeffekt i lastebrønnen. Lasterom skal tas med i stabilitetsberegningene som en integrert del av skroget og dokumenteres sammen med den øvrige skrogbeskrivelsen. Lastens egenvekt skal i slike beregninger antas å være 1,025 tonn/m3.
+   2. Når skipet har fulle drivstofftanker og er fullt utrustet, skal dypgående ikke være større enn den dypgangen som samsvarer med det tildelte fribordet. Vannivået i brønnen skal antas å være likt vannspeilet utenfor.
+   3. For skip med mer enn én lastebrønn hvor lastebrønnene er adskilt med langskipsskott, skal brønnene anses som én brønn ved beregning av fri overflateeffekt.
 
 ### § 93. Beregning av stabilitetskurver
 
@@ -813,9 +998,17 @@ For beregning av lastetilstandene beskrevet i [§§ 86](forskrift/2025-12-16-265
 
 ### § 95. Stabilitet i intakt tilstand for lukket skip
 
-(1) For lukket skip skal følgende stabilitetskriterier være oppfylt i alle lastetilstander når ikke annet er bestemt i [§§ 96](forskrift/2025-12-16-2652/§96) til [99](forskrift/2025-12-16-2652/§99):Arealet under kurven for rettende arm (GZ-kurven) skal være minst 0,055 meterradianer regnet opp til en krengevinkel på 30 grader og minst 0,09 meterradianer regnet opp til 40 grader eller fyllingsvinkelen dersom denne er mindre enn 40 grader. I tillegg skal arealet under GZ-kurven mellom krengningsvinklene 30 grader og 40 grader, eller mellom 30 grader og fyllingsvinkelen dersom denne er mindre enn 40 grader, være minst 0,03 meterradianer.Rettende arm (GZ) skal være minst 0,20 m ved en krengevinkel på 30 grader eller mer.Krengevinkelen hvor rettende arm har størst verdi (GZmaks), skal ikke være mindre enn 25 grader.Initialmetasenterhøyden (GM) skal være minst 0,15 meter.
+(1) For lukket skip skal følgende stabilitetskriterier være oppfylt i alle lastetilstander når ikke annet er bestemt i [§§ 96](forskrift/2025-12-16-2652/§96) til [99](forskrift/2025-12-16-2652/§99):
 
-(2) Når skipet på grunn av sin form ikke kan oppfylle første ledd bokstav c, kan første ledd bokstav a og c erstattes med følgende:Arealet under GZ-kurven skal være minst 0,07 meterradianer regnet opp til en krengevinkel på 15 grader når maksimum rettende arm (GZmaks) opptrer ved 15 grader, og det skal være 0,055 meterradianer opp til 30 grader når GZmaks opptrer ved 30 grader eller mer. Når GZmaks opptrer mellom 15 og 30 grader, skal arealkravet under GZ-kurven opp til vinkelen der GZmaks opptrer, bestemmes ved denne formelen: Minimum areal = 0,055 + 0,001 (30 grader – θmaks), der θmaks er vinkelen der GZmaks opptrer. I tillegg skal arealet under GZ-kurven mellom 30 og 40 grader, eller mellom 30 grader og fyllingsvinkelen dersom denne er mindre enn 40 grader, ikke være mindre enn 0,03 meterradianer.Krengevinkelen hvor GZmaks opptrer, skal ikke være mindre enn 15 grader.
+1. Arealet under kurven for rettende arm (GZ-kurven) skal være minst 0,055 meterradianer regnet opp til en krengevinkel på 30 grader og minst 0,09 meterradianer regnet opp til 40 grader eller fyllingsvinkelen dersom denne er mindre enn 40 grader. I tillegg skal arealet under GZ-kurven mellom krengningsvinklene 30 grader og 40 grader, eller mellom 30 grader og fyllingsvinkelen dersom denne er mindre enn 40 grader, være minst 0,03 meterradianer.
+2. Rettende arm (GZ) skal være minst 0,20 m ved en krengevinkel på 30 grader eller mer.
+3. Krengevinkelen hvor rettende arm har størst verdi (GZmaks), skal ikke være mindre enn 25 grader.
+4. Initialmetasenterhøyden (GM) skal være minst 0,15 meter.
+
+(2) Når skipet på grunn av sin form ikke kan oppfylle første ledd bokstav c, kan første ledd bokstav a og c erstattes med følgende:
+
+1. Arealet under GZ-kurven skal være minst 0,07 meterradianer regnet opp til en krengevinkel på 15 grader når maksimum rettende arm (GZmaks) opptrer ved 15 grader, og det skal være 0,055 meterradianer opp til 30 grader når GZmaks opptrer ved 30 grader eller mer. Når GZmaks opptrer mellom 15 og 30 grader, skal arealkravet under GZ-kurven opp til vinkelen der GZmaks opptrer, bestemmes ved denne formelen: Minimum areal = 0,055 + 0,001 (30 grader – θmaks), der θmaks er vinkelen der GZmaks opptrer. I tillegg skal arealet under GZ-kurven mellom 30 og 40 grader, eller mellom 30 grader og fyllingsvinkelen dersom denne er mindre enn 40 grader, ikke være mindre enn 0,03 meterradianer.
+2. Krengevinkelen hvor GZmaks opptrer, skal ikke være mindre enn 15 grader.
 
 (3) Skip som skal operere i utenriksfart mer enn 30 nautiske mil fra havn eller godkjent oppankringsplass, skal oppfylle kravene i IS-koden del A kapittel 2.3.
 
@@ -845,7 +1038,11 @@ Lastetilstander med delvis fylt brønn kan ha GZmaks på minst 0,10 meter og pos
 
 (3) Maksimum krengevinkel som følge av krengende moment fra løfteinnretningen eller ankerhåndteringsvinsj skal være 7 grader eller den vinkelen som resulterer i at deler av fribordsdekk kommer 200 millimeter fra vannlinjen, dersom denne vinkelen er mindre. Arealet under kurven for rettende arm (GZ-kurven) skal være større enn eller lik 0,090 meterradianer til den vinkelen som opptrer først av 40 grader eller fyllingsvinkelen. Det skal tas hensyn til krengevinkelen.
 
-(4) Maksimum krengevinkel kan være mellom 7 og 10 grader dersom følgende betingelser er oppfylt når løfteinnretningen eller ankerhåndteringsvinsjen opererer ved maksimalt lastemoment:Kurven for den rettende arm (GZ-kurven) har positiv utstrekning på minst 20 grader utover likevektstilstanden. Åpninger som ikke har værtett lukning, skal behandles som fyllingspunkter.Arealkravet i tredje ledd er oppfylt.Ingen del av fribordsdekk kommer nærmere vannlinjen enn 200 millimeter.
+(4) Maksimum krengevinkel kan være mellom 7 og 10 grader dersom følgende betingelser er oppfylt når løfteinnretningen eller ankerhåndteringsvinsjen opererer ved maksimalt lastemoment:
+
+1. Kurven for den rettende arm (GZ-kurven) har positiv utstrekning på minst 20 grader utover likevektstilstanden. Åpninger som ikke har værtett lukning, skal behandles som fyllingspunkter.
+2. Arealkravet i tredje ledd er oppfylt.
+3. Ingen del av fribordsdekk kommer nærmere vannlinjen enn 200 millimeter.
 
 (5) Dersom annet dekksutstyr brukes samtidig med løfteinnretningen eller ankerhåndteringsvinsjen, skal det totale krengende momentet ikke overstige momentet brukt i beregningene i tredje og fjerde ledd.
 
@@ -877,7 +1074,10 @@ Paragrafene 104 til 107 gjelder ikke for skip som er bygd etter et anerkjent kla
 
 ### § 103. Fribord for åpne skip
 
-(1) Fribordet skal bestemmes på grunnlag av stabilitet, trim og skrogstyrke og så videre, men skal midtskips ikke være mindre enn det største avF = (4,5 × Δ) / (1000 × største lengde × bredde) mF = 0,5 m.
+(1) Fribordet skal bestemmes på grunnlag av stabilitet, trim og skrogstyrke og så videre, men skal midtskips ikke være mindre enn det største av
+
+1. F = (4,5 × Δ) / (1000 × største lengde × bredde) m
+2. F = 0,5 m.
 
 (2) Fribordet forut skal ikke være mindre enn 1,2 × F. Fribordet akter skal ikke være mindre enn 0,8 × F.
 
@@ -885,7 +1085,9 @@ Paragrafene 104 til 107 gjelder ikke for skip som er bygd etter et anerkjent kla
 
 (1) Skip skal ha lenseporter dersom det kan bli oppsamling av vann på dekk mellom skansekledningen, endeskott av lukkede overbygninger, dekkshus og lignende.
 
-(2) Lenseportarealet (A) på hver side av skipet, målt i kvadratmeter, skal beregnes og minst oppfylle følgende: $$A\\lgroup m^{2}\\rgroup = 0,02 \\lgroup \\frac{1}{m}\\rgroup \\cdot V\\lgroup m^{3}\\rgroup$$V = Volumet i m3 skal regnes ut som det totale arealet av områder hvor det kan bli oppsamling av vann på dekk opp til topp av skansekledning. Volum knyttet til luker, dekkshus osv. skal trekkes fra.
+(2) Lenseportarealet (A) på hver side av skipet, målt i kvadratmeter, skal beregnes og minst oppfylle følgende: $$A\\lgroup m^{2}\\rgroup = 0,02 \\lgroup \\frac{1}{m}\\rgroup \\cdot V\\lgroup m^{3}\\rgroup$$
+
+V = Volumet i m3 skal regnes ut som det totale arealet av områder hvor det kan bli oppsamling av vann på dekk opp til topp av skansekledning. Volum knyttet til luker, dekkshus osv. skal trekkes fra.
 
 (3) Lenseportarealet kan reduseres med opptil 1/3 på den ene siden når det økes tilsvarende på motsatt side.
 
@@ -903,11 +1105,19 @@ Paragrafene 104 til 107 gjelder ikke for skip som er bygd etter et anerkjent kla
 
 (3) Lysventiler og vinduer på fribordsdekk til rom som er tatt med som oppdriftsgivende volum, eller rom med åpninger som leder videre til under fribordsdekk, skal ha blindlokk som skal kunne lukkes værtett. Dersom det brukes løse blindlokk, skal det være ett for hvert vindu eller lysventil. Disse skal være plassert lett tilgjengelig.
 
-(4) For skip som skal operere i utenriksfart mer enn 30 nautiske mil fra havn eller godkjent oppankringsplass, gjelder i tillegg følgende:Vinduer skal ikke installeres på første tier i rom som er tatt med som oppdriftsgivende volum, eller rom med åpninger som leder videre til under fribordsdekk.Lysventiler på første tier i rom som er tatt med som oppdriftsgivende volum, eller rom med åpninger som leder videre til under fribordsdekk, skal ha innvendig hengslet blindlokk som skal kunne lukkes værtett.Lysventiler og vinduer på andre tier i rom som er tatt med som oppdriftsgivende volum, eller rom med åpninger som leder direkte til andre oppdriftsgivende volum, skal ha blindlokk som skal kunne lukkes værtett. Dersom det brukes løse blindlokk, skal disse være plassert lett tilgjengelig.
+(4) For skip som skal operere i utenriksfart mer enn 30 nautiske mil fra havn eller godkjent oppankringsplass, gjelder i tillegg følgende:
+
+1. Vinduer skal ikke installeres på første tier i rom som er tatt med som oppdriftsgivende volum, eller rom med åpninger som leder videre til under fribordsdekk.
+2. Lysventiler på første tier i rom som er tatt med som oppdriftsgivende volum, eller rom med åpninger som leder videre til under fribordsdekk, skal ha innvendig hengslet blindlokk som skal kunne lukkes værtett.
+3. Lysventiler og vinduer på andre tier i rom som er tatt med som oppdriftsgivende volum, eller rom med åpninger som leder direkte til andre oppdriftsgivende volum, skal ha blindlokk som skal kunne lukkes værtett. Dersom det brukes løse blindlokk, skal disse være plassert lett tilgjengelig.
 
 ### § 106. Ventilatorer
 
-(1) Ventilasjonsåpninger til rom med hovedfremdriftsmaskineri skal ikke neddykkes før 40 grader krengning, med mindre dehar sprutsikre risterhar dreneringkan lukkes værtett.
+(1) Ventilasjonsåpninger til rom med hovedfremdriftsmaskineri skal ikke neddykkes før 40 grader krengning, med mindre de
+
+1. har sprutsikre rister
+2. har drenering
+3. kan lukkes værtett.
 
 (2) Ventilasjonsåpninger til rom med hovedfremdriftsmaskineri skal anses som fyllingspunkter i stabilitetsberegningen.
 
@@ -957,7 +1167,10 @@ Paragrafene 104 til 107 gjelder ikke for skip som er bygd etter et anerkjent kla
 
 (2) Kjeleanlegg og trykkbeholdere med arbeidstrykk på 3,5 bar eller høyere og fleksible rør og slanger som fører brannfarlige væsker, skal være typegodkjent av anerkjent klasseselskap.
 
-(3) På skip med største lengde 15 meter eller mer skal følgende være typegodkjent for maritim bruk av anerkjent klasseselskap:fremdrifts- og hjelpemaskineri med ytelse på 100 kW eller mer med gir og tilhørende kontroll- og overvåkningssystemerstyremaskinanlegg med tilhørende kontroll- og overvåkningssystemer.
+(3) På skip med største lengde 15 meter eller mer skal følgende være typegodkjent for maritim bruk av anerkjent klasseselskap:
+
+1. fremdrifts- og hjelpemaskineri med ytelse på 100 kW eller mer med gir og tilhørende kontroll- og overvåkningssystemer
+2. styremaskinanlegg med tilhørende kontroll- og overvåkningssystemer.
 
 (4) Koblinger på brennoljeledninger skal være skjermet for å unngå oljesprut mot varme flater eller andre tennkilder. Det skal være færrest mulig koblinger i slike rørsystemer. Fleksible slanger skal kun brukes der det er nødvendig for å ta opp bevegelse mellom maskineri og fast rørsystem.
 
@@ -999,19 +1212,50 @@ Paragrafene 104 til 107 gjelder ikke for skip som er bygd etter et anerkjent kla
 
 ### § 113. Skip med elektrisk hovedkraftkilde plassert i to uavhengige maskinrom
 
-Krav om selvstendig elektrisk nødkraftkilde i [§ 112 første](forskrift/2025-12-16-2652/§112/ledd/1) og [syvende ledd](forskrift/2025-12-16-2652/§112/ledd/7) anses oppfylt nårhovedkraftkilden er plassert i to eller flere rom som ikke er tilstøtende, og hvert av disse rommenehar egne selvstendige systemer, inkludert kraftfordelings- og kontrollsystemerer uavhengige av hverandre, slik at en brann eller annet uhell i ett av rommene ikke vil berøre kraftfordelingen fra de andre eller til funksjoner nevnt i [§ 115](forskrift/2025-12-16-2652/§115)det er installert en nødkraftkilde over skottdekket som minst har kapasitet til å forsyne forbrukere som nevnt i [§ 115 første ledd bokstav a](forskrift/2025-12-16-2652/§115/ledd/1/bokstav/a) punkt i og ii og bokstav b.
+Krav om selvstendig elektrisk nødkraftkilde i [§ 112 første](forskrift/2025-12-16-2652/§112/ledd/1) og [syvende ledd](forskrift/2025-12-16-2652/§112/ledd/7) anses oppfylt når
+
+1. hovedkraftkilden er plassert i to eller flere rom som ikke er tilstøtende, og hvert av disse rommene
+
+   1. har egne selvstendige systemer, inkludert kraftfordelings- og kontrollsystemer
+   2. er uavhengige av hverandre, slik at en brann eller annet uhell i ett av rommene ikke vil berøre kraftfordelingen fra de andre eller til funksjoner nevnt i [§ 115](forskrift/2025-12-16-2652/§115)
+2. det er installert en nødkraftkilde over skottdekket som minst har kapasitet til å forsyne forbrukere som nevnt i [§ 115 første ledd bokstav a](forskrift/2025-12-16-2652/§115/ledd/1/bokstav/a) punkt i og ii og bokstav b.
 
 ### § 114. Overgangskilde
 
 (1) Når generator brukes som nødkraftkilde, skal det finnes en overgangskilde for elektrisk kraft.
 
-(2) Overgangskilden skal bestå av akkumulatorbatterier og kunne levere elektrisk kraft i 30 minutter uten opplading tilnødbelysning, jf. [§ 115 første ledd bokstav a](forskrift/2025-12-16-2652/§115/ledd/1/bokstav/a)branndeteksjonssystemetbrannalarmsystemethovedalarmsignalsystemer og alarmsystemer som er nødvendige i en nødssituasjonelektronisk kart, GNSS og AIS.
+(2) Overgangskilden skal bestå av akkumulatorbatterier og kunne levere elektrisk kraft i 30 minutter uten opplading til
+
+1. nødbelysning, jf. [§ 115 første ledd bokstav a](forskrift/2025-12-16-2652/§115/ledd/1/bokstav/a)
+2. branndeteksjonssystemet
+3. brannalarmsystemet
+4. hovedalarm
+5. signalsystemer og alarmsystemer som er nødvendige i en nødssituasjon
+6. elektronisk kart, GNSS og AIS.
 
 (3) Dersom nødgeneratoren har automatisk start og er i stand til å forsyne forbrukere som nevnt i annet ledd bokstav a til e innen 45 sekunder etter bortfall av hovedstrøm, anses kravet om overgangskilde for disse forbrukerne å være oppfylt.
 
 ### § 115. Nødkraftkildens kapasitet
 
-(1) Kapasiteten til den elektriske nødkraftkilden skal være tilstrekkelig til å forsyne følgende forbrukere samtidig:nødbelysningpå hver mønstrings- eller innskipningsstasjon og over sidenei alle ganger, trapper og utganger som gir adgang til mønstrings- eller innskipningsstasjoneri maskinrommene og ved nødkraftkildenved hovedtavle og nødtavlei rom hvor radio- og hovednavigasjonsutstyret befinner segved brannpumpen og stedet hvor brannpumpens motor startesnavigasjonslyselektronisk kart, GNSS og AISutstyr for intern og ekstern kommunikasjon i en nødssituasjonhovedalarmbranndeteksjonssystemetbrannalarmsystemetalle signal- og alarmsystemer som kan være nødvendige i en nødssituasjon, når slike drives elektrisk fra skipets hovedgeneratorsettskipets sprinkelpumpe der slik finnes og er elektrisk drevetskipets dagslys-signallampe når den drives av skipets elektriske hovedkraftkilde.
+(1) Kapasiteten til den elektriske nødkraftkilden skal være tilstrekkelig til å forsyne følgende forbrukere samtidig:
+
+1. nødbelysning
+
+   1. på hver mønstrings- eller innskipningsstasjon og over sidene
+   2. i alle ganger, trapper og utganger som gir adgang til mønstrings- eller innskipningsstasjoner
+   3. i maskinrommene og ved nødkraftkilden
+   4. ved hovedtavle og nødtavle
+   5. i rom hvor radio- og hovednavigasjonsutstyret befinner seg
+   6. ved brannpumpen og stedet hvor brannpumpens motor startes
+2. navigasjonslys
+3. elektronisk kart, GNSS og AIS
+4. utstyr for intern og ekstern kommunikasjon i en nødssituasjon
+5. hovedalarm
+6. branndeteksjonssystemet
+7. brannalarmsystemet
+8. alle signal- og alarmsystemer som kan være nødvendige i en nødssituasjon, når slike drives elektrisk fra skipets hovedgeneratorsett
+9. skipets sprinkelpumpe der slik finnes og er elektrisk drevet
+10. skipets dagslys-signallampe når den drives av skipets elektriske hovedkraftkilde.
 
 (2) Nødkraftkilden skal kunne forsyne forbrukere nevnt i første ledd i 3 timer. For skip som skal operere i utenriksfart mer enn 30 nautiske mil fra havn eller godkjent oppankringsplass, skal nødkraftkilden ha kapasitet til å forsyne forbrukere nevnt i første ledd i 18 timer.
 
@@ -1033,7 +1277,38 @@ Dersom hovedalarm eller personvarslingsanlegg er avhengig av elektrisk kraft, sk
 
 ### § 118. Definisjoner
 
-I dette kapittelet gjelder følgende definisjoner:*Brannenergi (MJ):* Summen av varmemengden som frigis ved forbrenning av alle faste og mobile, brennbare materialer i et område, det vil si summen av permanent og variabel brannenergi. Beregnet brannenergi skal omfatte alt brennbart innhold i bygningen og de aktuelle brennbare delene av konstruksjonen, inkludert kledninger og innredninger.*Brannhemmende materiale:* Et materiale som oppfyller kravene til brannhemmende materiale i FTP-koden.*Farlig last:* Last som reguleres i [forskrift 1. juli 2014 nr. 944 om farlig last på norske skip](forskrift/2014-07-01-944).*FRD 30:* Brannsikre skiller som definert i HSC2000-koden kapittel 7.2.1 med beskyttelsestid 30 minutter.*FSS-koden:* Det internasjonale regelverket for brannsikkerhetssystem (Fire Safety Systems Code), som vedtatt av IMOs sjøsikkerhetskomité ved resolusjon MSC.98(73), som sist endret ved MSC.484(103).*FTP-koden:* Det internasjonale regelverket for anvendelse av brannprøvingsmetoder, 2010 (Fire Test Procedures Code), som vedtatt av IMOs sjøsikkerhetskomité ved resolusjon MSC.307(88), som endret ved MSC.437(99).*HSC2000-koden:* Det internasjonale regelverket for hurtiggående skip (High-Speed Craft Code), som vedtatt av IMOs sjøsikkerhetskomite ved resolusjon MSC.97(73), som endret ved MSC.499(105).*Lav flammespredning:* Den overflaten som er beskrevet slik, vil begrense spredning av flammer tilstrekkelig, som fastsatt i samsvar med FTP-koden.*Skiller i klasse «A»:* Skillene som dannes av skott og dekk og som er i samsvar med følgende kriterier:De er bygget av stål eller annet tilsvarende materiale.De er hensiktsmessig avstivet.De er isolert med godkjente ubrennbare materialer, slik at gjennomsnittstemperaturen på den ueksponerte siden ikke vil stige mer enn 140 °C over den opprinnelige temperaturen, og slik at temperaturen heller ikke på noe som helst punkt, medregnet alle skjøter, vil stige mer enn 180 °C over den opprinnelige temperaturen innenfor følgende tidsrom:klasse «A-60»: 60 minutterklasse «A-30»: 30 minutterklasse «A-15»: 15 minutterklasse «A-0»: 0 minutterDe er bygget slik at de kan hindre at røyk og flammer trenger gjennom skillet før utgangen av standardbrannprøven på én time beskrevet i FTP-koden.Skiller i klasse «B»: Skillene som dannes av skott, dekk, himlinger eller kledninger, og som er i samsvar med følgende kriterier:De er bygget av godkjente, ubrennbare materialer, og alle materialer som er brukt i byggingen og oppføringen av skiller i klasse «B», er ubrennbare.De har en slik isolasjonsverdi at gjennomsnittstemperaturen på den ueksponerte siden ikke vil stige mer enn 140 °C over den opprinnelige temperaturen, og slik at temperaturen heller ikke på noe som helst punkt, medregnet alle skjøter, vil stige mer enn 225 °C over den opprinnelige temperaturen innenfor følgende tidsrom:klasse «B-15» 15 minutterklasse «B-0» 0 minutterDe er bygget slik at de kan hindre at flammer trenger gjennom skillet før utløpet av den første halvtimen av standardbrannprøven på en time beskrevet i FTP-koden.Spesifikk brannenergi (MJ/m2): Total brannenergi per arealenhet i en branncelle. Arealenheten kan være omhyllingsflaten (summen av arealet av golv, tak og vegger) eller golvflaten. Hvilken arealenhet man bruker, avhenger av hvilken metode eller standard som blir lagt til grunn.Stål eller annet likeverdig materiale: Ethvert ubrennbart materiale som i seg selv eller på grunn av anvendt isolasjon har tilsvarende egenskaper som stål når det gjelder konstruksjon og brannmotstand, ved utgangen av den fastsatte standardbrannprøven det har gjennomgått (f.eks. aluminiumslegering med passende isolasjon).Ubrennbart materiale: Materiale som verken brenner eller avgir brannfarlig damp i tilstrekkelig mengde til selvantenning når det varmes opp til ca. 750 °C, som bestemt i samsvar med FTP-koden.
+I dette kapittelet gjelder følgende definisjoner:
+
+1. *Brannenergi (MJ):* Summen av varmemengden som frigis ved forbrenning av alle faste og mobile, brennbare materialer i et område, det vil si summen av permanent og variabel brannenergi. Beregnet brannenergi skal omfatte alt brennbart innhold i bygningen og de aktuelle brennbare delene av konstruksjonen, inkludert kledninger og innredninger.
+2. *Brannhemmende materiale:* Et materiale som oppfyller kravene til brannhemmende materiale i FTP-koden.
+3. *Farlig last:* Last som reguleres i [forskrift 1. juli 2014 nr. 944 om farlig last på norske skip](forskrift/2014-07-01-944).
+4. *FRD 30:* Brannsikre skiller som definert i HSC2000-koden kapittel 7.2.1 med beskyttelsestid 30 minutter.
+5. *FSS-koden:* Det internasjonale regelverket for brannsikkerhetssystem (Fire Safety Systems Code), som vedtatt av IMOs sjøsikkerhetskomité ved resolusjon MSC.98(73), som sist endret ved MSC.484(103).
+6. *FTP-koden:* Det internasjonale regelverket for anvendelse av brannprøvingsmetoder, 2010 (Fire Test Procedures Code), som vedtatt av IMOs sjøsikkerhetskomité ved resolusjon MSC.307(88), som endret ved MSC.437(99).
+7. *HSC2000-koden:* Det internasjonale regelverket for hurtiggående skip (High-Speed Craft Code), som vedtatt av IMOs sjøsikkerhetskomite ved resolusjon MSC.97(73), som endret ved MSC.499(105).
+8. *Lav flammespredning:* Den overflaten som er beskrevet slik, vil begrense spredning av flammer tilstrekkelig, som fastsatt i samsvar med FTP-koden.
+9. *Skiller i klasse «A»:* Skillene som dannes av skott og dekk og som er i samsvar med følgende kriterier:
+
+   1. De er bygget av stål eller annet tilsvarende materiale.
+   2. De er hensiktsmessig avstivet.
+   3. De er isolert med godkjente ubrennbare materialer, slik at gjennomsnittstemperaturen på den ueksponerte siden ikke vil stige mer enn 140 °C over den opprinnelige temperaturen, og slik at temperaturen heller ikke på noe som helst punkt, medregnet alle skjøter, vil stige mer enn 180 °C over den opprinnelige temperaturen innenfor følgende tidsrom:
+
+      - klasse «A-60»: 60 minutter
+      - klasse «A-30»: 30 minutter
+      - klasse «A-15»: 15 minutter
+      - klasse «A-0»: 0 minutter
+   4. De er bygget slik at de kan hindre at røyk og flammer trenger gjennom skillet før utgangen av standardbrannprøven på én time beskrevet i FTP-koden.
+10. Skiller i klasse «B»: Skillene som dannes av skott, dekk, himlinger eller kledninger, og som er i samsvar med følgende kriterier:
+
+    1. De er bygget av godkjente, ubrennbare materialer, og alle materialer som er brukt i byggingen og oppføringen av skiller i klasse «B», er ubrennbare.
+    2. De har en slik isolasjonsverdi at gjennomsnittstemperaturen på den ueksponerte siden ikke vil stige mer enn 140 °C over den opprinnelige temperaturen, og slik at temperaturen heller ikke på noe som helst punkt, medregnet alle skjøter, vil stige mer enn 225 °C over den opprinnelige temperaturen innenfor følgende tidsrom:
+
+       - klasse «B-15» 15 minutter
+       - klasse «B-0» 0 minutter
+    3. De er bygget slik at de kan hindre at flammer trenger gjennom skillet før utløpet av den første halvtimen av standardbrannprøven på en time beskrevet i FTP-koden.
+11. Spesifikk brannenergi (MJ/m2): Total brannenergi per arealenhet i en branncelle. Arealenheten kan være omhyllingsflaten (summen av arealet av golv, tak og vegger) eller golvflaten. Hvilken arealenhet man bruker, avhenger av hvilken metode eller standard som blir lagt til grunn.
+12. Stål eller annet likeverdig materiale: Ethvert ubrennbart materiale som i seg selv eller på grunn av anvendt isolasjon har tilsvarende egenskaper som stål når det gjelder konstruksjon og brannmotstand, ved utgangen av den fastsatte standardbrannprøven det har gjennomgått (f.eks. aluminiumslegering med passende isolasjon).
+13. Ubrennbart materiale: Materiale som verken brenner eller avgir brannfarlig damp i tilstrekkelig mengde til selvantenning når det varmes opp til ca. 750 °C, som bestemt i samsvar med FTP-koden.
 
 ### § 119. Isolasjons- og innredningsmaterialer
 
@@ -1041,7 +1316,10 @@ I dette kapittelet gjelder følgende definisjoner:*Brannenergi (MJ):* Summen av 
 
 (2) Isolasjon i nærheten av motorer og brennoljeledninger og på alle overflater med en temperatur på 220 °C eller mer skal beskyttes mot å trekke til seg brannfarlig væske eller gass.
 
-(3) I innredning, arbeidsrom og kontrollstasjoner skalkledning, himling, røyksperrer og tilhørende festepunkter være av ubrennbart materialeinnvendige overflater ha lav flammespredning og ikke utvikle røyk ved høye temperaturer, avgi stoffer som kan være giftige, eller medføre fare for eksplosjon.
+(3) I innredning, arbeidsrom og kontrollstasjoner skal
+
+1. kledning, himling, røyksperrer og tilhørende festepunkter være av ubrennbart materiale
+2. innvendige overflater ha lav flammespredning og ikke utvikle røyk ved høye temperaturer, avgi stoffer som kan være giftige, eller medføre fare for eksplosjon.
 
 (4) Skip med største lengde under 15 meter bygget i kompositt eller aluminium kan som alternativ til ubrennbart materiale i første ledd og tredje ledd bokstav a bruke brannhemmende materiale.
 
@@ -1069,9 +1347,24 @@ I innredning og arbeidsrom kan innvendig kledning, himling og tilhørende festep
 | Annet maskinrom | (7) |  |  |  |  |  |  | \* | \* |
 | Åpent dekk | (8) |  |  |  |  |  |  |  | – |
 
-a Det kreves skott eller dekk med verdi som vist i tabellene bare når de tilstøtende rommene er beregnet på andre formål. Hvis rommene brukes til samme formål, skal skillet være av ubrennbart materiale.b På skip under 15 meter kan oppholdsrom, messe, kontor og toaletter arrangeres i sammenheng med styrehus uten krav til brannsikkert skille.c Gjelder kun dersom det ikke føres farlig last som reguleres i annen forskrift.\* Skillet skal være av ubrennbart materiale.
+a Det kreves skott eller dekk med verdi som vist i tabellene bare når de tilstøtende rommene er beregnet på andre formål. Hvis rommene brukes til samme formål, skal skillet være av ubrennbart materiale.
 
-(4) I tabellen i tredje ledd gjelder følgende definisjoner:*Kontrollstasjoner (1):* Bro, kontrollrom for fremdriftsmaskineri når dette ligger utenfor maskinrom kategori A, og rom som inneholder kilder for nødstrøm, radioutstyr, slokkemiddel for gassbasert slokkesystem og brannalarmsentraler.*Innredning (2):* Rom som brukes til oppholdsrom, korridorer, trapperom, toaletter og bad, garderober, lugarer, kontorer, sykestuer, fritidsrom og pantry uten kokemuligheter.*Arbeidsrom (3):* Malingsskap og lagerrom, rom for lagring av brennbare væsker, badstue, vaskerom og verksteder som ikke er del av maskinrom kategori A.*Maskinrom kategori A (4):* Rom som inneholder forbrenningsmaskineri brukt til fremdrift, forbrenningsmaskineri med total effekt på 375 kW eller mer, og rom med oljefyrte kjeler eller annet oljefyrt utstyr, slik som gassgeneratorer, forbrenningsovner og lignende.*Bysse (5):* Rom, med unntak av pantry, som inneholder elektriske kokeplater, komfyr, frityrkoker, gasskomfyr, gassfyrte apparater uten åpen flamme og lignende kjøkkenutstyr. Med «pantry» menes område i forbindelse med styrehus eller messe som inneholder elektriske kokeplater eller annet kjøkkenutstyr med samlet total effekt til og med 5 kW.*Lasterom (6):* Alle rom som brukes til oppbevaring av last, inkludert tanker for frakt av olje, og trunker og lukekarmer til slike rom.*Annet maskinrom (7):* Ventilasjonsrom, tavlerom, teknisk rom og rom med elektrisk utstyr og maskineri annet enn det nevnt i bokstav a og d.*Åpent dekk (8):* Åpne områder på dekk og lukkede promenader med liten eller ingen brannfare. For å komme i denne kategorien skal lukkede promenader ikke ha noen vesentlig brannfare, det vil si at inventar skal begrenses til dekksmøbler. I tillegg skal slike rom være naturlig ventilert med faste åpninger. Luftrom, det vil si rommet utenfor overbygninger og dekkshus, regnes også som åpent dekk.
+b På skip under 15 meter kan oppholdsrom, messe, kontor og toaletter arrangeres i sammenheng med styrehus uten krav til brannsikkert skille.
+
+c Gjelder kun dersom det ikke føres farlig last som reguleres i annen forskrift.
+
+\* Skillet skal være av ubrennbart materiale.
+
+(4) I tabellen i tredje ledd gjelder følgende definisjoner:
+
+1. *Kontrollstasjoner (1):* Bro, kontrollrom for fremdriftsmaskineri når dette ligger utenfor maskinrom kategori A, og rom som inneholder kilder for nødstrøm, radioutstyr, slokkemiddel for gassbasert slokkesystem og brannalarmsentraler.
+2. *Innredning (2):* Rom som brukes til oppholdsrom, korridorer, trapperom, toaletter og bad, garderober, lugarer, kontorer, sykestuer, fritidsrom og pantry uten kokemuligheter.
+3. *Arbeidsrom (3):* Malingsskap og lagerrom, rom for lagring av brennbare væsker, badstue, vaskerom og verksteder som ikke er del av maskinrom kategori A.
+4. *Maskinrom kategori A (4):* Rom som inneholder forbrenningsmaskineri brukt til fremdrift, forbrenningsmaskineri med total effekt på 375 kW eller mer, og rom med oljefyrte kjeler eller annet oljefyrt utstyr, slik som gassgeneratorer, forbrenningsovner og lignende.
+5. *Bysse (5):* Rom, med unntak av pantry, som inneholder elektriske kokeplater, komfyr, frityrkoker, gasskomfyr, gassfyrte apparater uten åpen flamme og lignende kjøkkenutstyr. Med «pantry» menes område i forbindelse med styrehus eller messe som inneholder elektriske kokeplater eller annet kjøkkenutstyr med samlet total effekt til og med 5 kW.
+6. *Lasterom (6):* Alle rom som brukes til oppbevaring av last, inkludert tanker for frakt av olje, og trunker og lukekarmer til slike rom.
+7. *Annet maskinrom (7):* Ventilasjonsrom, tavlerom, teknisk rom og rom med elektrisk utstyr og maskineri annet enn det nevnt i bokstav a og d.
+8. *Åpent dekk (8):* Åpne områder på dekk og lukkede promenader med liten eller ingen brannfare. For å komme i denne kategorien skal lukkede promenader ikke ha noen vesentlig brannfare, det vil si at inventar skal begrenses til dekksmøbler. I tillegg skal slike rom være naturlig ventilert med faste åpninger. Luftrom, det vil si rommet utenfor overbygninger og dekkshus, regnes også som åpent dekk.
 
 (5) Skip med største lengde under 15 meter kan som alternativ til første til fjerde ledd oppfylle kravene i én standard eller ett klasseregelverk fra et anerkjent klasseselskap, eller én annen anerkjent standard akseptert av Sjøfartsdirektoratet.
 
@@ -1113,11 +1406,17 @@ Skip bygget i kompositt eller aluminium kan som alternativ til [§ 119](forskrif
 
 (3) På skip med overbygning hvor bare én dør kan arrangeres, kan et vindu benyttes som én av rømningsveiene dersom det ikke er krav om blindlokk på dette vinduet. Skip som kun har styrehus, kan ha én rømningsvei fra dette.
 
-(4) Maskinrom kategori A skal ha minst to adskilte rømningsveier, unntatt i tilfellet beskrevet under, hvor én rømningsvei tillates:Maskinrommets størrelse gjør at det ikke er gjennomførbart med to adskilte rømningsveier.Maskinrommet har direkte utgang til åpent dekk.
+(4) Maskinrom kategori A skal ha minst to adskilte rømningsveier, unntatt i tilfellet beskrevet under, hvor én rømningsvei tillates:
+
+1. Maskinrommets størrelse gjør at det ikke er gjennomførbart med to adskilte rømningsveier.
+2. Maskinrommet har direkte utgang til åpent dekk.
 
 (5) Det skal ikke finnes blindkorridorer som er mer enn 7 meter lange.
 
-(6) Dører og luker i rømningsveier skal kunne åpnes i samme retning som rømningsretningen, med unntak avlugardører, som kan åpnes innover i lugarendører med tilkomst til vertikale rømningssjakter til bruk i nødstilfeller, som kan åpnes utover i sjakten.
+(6) Dører og luker i rømningsveier skal kunne åpnes i samme retning som rømningsretningen, med unntak av
+
+1. lugardører, som kan åpnes innover i lugaren
+2. dører med tilkomst til vertikale rømningssjakter til bruk i nødstilfeller, som kan åpnes utover i sjakten.
 
 (7) Dører og luker i rømningsveier skal kunne betjenes fra begge sider på en enkel måte.
 
@@ -1139,7 +1438,10 @@ Skip bygget i kompositt eller aluminium kan som alternativ til [§ 119](forskrif
 
 (2) Ventilasjonskanaler til og fra bysse skal være uavhengige av andre ventilasjonskanaler. Bysse og pantry skal ha eget avtrekk direkte til friluft.
 
-(3) Ventilasjonskanaler til bysse eller maskinrom kategori A som går gjennom innredning, arbeidsrom eller kontrollstasjoner, og ventilasjonskanaler til innredning, arbeidsrom eller kontrollstasjoner som går gjennom bysse eller maskinrom kategori A, skal oppfylle ett av følgende krav:Ventilasjonskanalene skal ha automatiske brannspjeld ved gjennomføringen og være isolert, slik at brannintegriteten til maskinrom kategori A eller bysse opprettholdes i en avstand på minst 5 meter fra spjeldet.Ventilasjonskanalene skal være isolert slik at brannintegriteten til maskinrom kategori A eller bysse opprettholdes gjennom hele ventilasjonskanalens lengde.
+(3) Ventilasjonskanaler til bysse eller maskinrom kategori A som går gjennom innredning, arbeidsrom eller kontrollstasjoner, og ventilasjonskanaler til innredning, arbeidsrom eller kontrollstasjoner som går gjennom bysse eller maskinrom kategori A, skal oppfylle ett av følgende krav:
+
+1. Ventilasjonskanalene skal ha automatiske brannspjeld ved gjennomføringen og være isolert, slik at brannintegriteten til maskinrom kategori A eller bysse opprettholdes i en avstand på minst 5 meter fra spjeldet.
+2. Ventilasjonskanalene skal være isolert slik at brannintegriteten til maskinrom kategori A eller bysse opprettholdes gjennom hele ventilasjonskanalens lengde.
 
 ### § 129. Materialer i rørsystemer
 
@@ -1171,9 +1473,18 @@ Skip bygget i kompositt eller aluminium kan som alternativ til [§ 119](forskrif
 
 ### § 132. Lagring av brennbare stoffer
 
-(1) Brennbare stoffer som ikke føres som last, skal oppbevares i eget lagerrom somhar direkte adgang fra åpent dekker ventilert på en slik måte at det ikke samler seg gass i rommetkun har nødvendig elektrisk utstyrikke inneholder varmekilder.
+(1) Brennbare stoffer som ikke føres som last, skal oppbevares i eget lagerrom som
 
-(2) Ett av følgende fastmonterte brannslokkingssystemer skal installeres i rom for lagring av brennbare stoffer:CO2-system som gir et minstevolum av fri gass tilsvarende 40 prosent av rommets bruttovolumpulversystem med 0,5 kg pulver per m3 bruttovolum av rommetvannbasert overrislingssystem som forsyner 5 l/m2 per minutt, som kan være koblet til brannledningen.
+1. har direkte adgang fra åpent dekk
+2. er ventilert på en slik måte at det ikke samler seg gass i rommet
+3. kun har nødvendig elektrisk utstyr
+4. ikke inneholder varmekilder.
+
+(2) Ett av følgende fastmonterte brannslokkingssystemer skal installeres i rom for lagring av brennbare stoffer:
+
+1. CO2-system som gir et minstevolum av fri gass tilsvarende 40 prosent av rommets bruttovolum
+2. pulversystem med 0,5 kg pulver per m3 bruttovolum av rommet
+3. vannbasert overrislingssystem som forsyner 5 l/m2 per minutt, som kan være koblet til brannledningen.
 
 (3) Lagerrom med et dekksareal mindre enn 4 m2 kan i stedet for et fast slokkesystem ha et bærbart CO2-brannslokkingsapparat som gir et minstevolum av fri gass tilsvarende 40 prosent av rommets bruttovolum. Det skal da finnes en luke som gjør det mulig å bruke apparatet uten å gå inn i rommet.
 
@@ -1197,7 +1508,11 @@ Skip bygget i kompositt eller aluminium kan som alternativ til [§ 119](forskrif
 
 (1) Lukkede skip, unntatt skip som kun har styrehus, skal ha minst én brannpumpe.
 
-(2) Brannpumpen skalkunne startes fra styreposisjon eller annet lett tilgjengelig stedha sikkerhetsventiler dersom brannpumpens leveringstrykk kan overstige brannledningens tiltenkte arbeidstrykkha tilbakeslagsventil dersom tilbakestrømning kan skje.
+(2) Brannpumpen skal
+
+1. kunne startes fra styreposisjon eller annet lett tilgjengelig sted
+2. ha sikkerhetsventiler dersom brannpumpens leveringstrykk kan overstige brannledningens tiltenkte arbeidstrykk
+3. ha tilbakeslagsventil dersom tilbakestrømning kan skje.
 
 (3) Sanitær-, ballast- og lensepumper og alminnelige servicepumper kan brukes som brannpumper dersom de oppfyller kravene til brannpumpe, mulighet for lensing opprettholdes, og pumpene normalt ikke brukes til å pumpe olje eller andre brennbare væsker.
 
@@ -1205,7 +1520,14 @@ Skip bygget i kompositt eller aluminium kan som alternativ til [§ 119](forskrif
 
 ### § 135. Brannpumpekapasitet
 
-(1) Minste totale brannpumpekapasitet (Q) skal beregnes etter denne formelen: $$Q = \\lgroup 0,15\\sqrt{L_{pp}\\lgroup B + D\\rgroup} + 2,25\\rgroup^{2}\\:[m^{3}/t]$$hvor følgende er angitt i meter:Lpp = skipets lengde mellom perpendikulæreneB = skipets største bredde på spantD = skipets største dybde i riss til skottdekket midtskipsBrannpumpekapasiteten (Q) skal uansett være minst 16 m3/t.
+(1) Minste totale brannpumpekapasitet (Q) skal beregnes etter denne formelen: $$Q = \\lgroup 0,15\\sqrt{L_{pp}\\lgroup B + D\\rgroup} + 2,25\\rgroup^{2}\\:[m^{3}/t]$$
+
+hvor følgende er angitt i meter:
+
+- Lpp = skipets lengde mellom perpendikulærene
+- B = skipets største bredde på spant
+- D = skipets største dybde i riss til skottdekket midtskips
+- Brannpumpekapasiteten (Q) skal uansett være minst 16 m3/t.
 
 (2) Når brannpumpen leverer vannmengden angitt i første ledd, skal trykket være minst 2,5 bar ved hydranten eller hydrantene.
 
@@ -1215,11 +1537,20 @@ Skip bygget i kompositt eller aluminium kan som alternativ til [§ 119](forskrif
 
 (2) Brannledningen og tilhørende ventiler skal være arrangert slik at de ikke påføres skade fra dekkslast eller ved vanlige operasjoner.
 
-(3) Brannledningen skalha en diameter som er basert på pumpenes kapasitet, og som er tilstrekkelig til å sikre jevn fordeling og jevnt trykk til brannslangenevære laget av ubrennbare materialer som er motstandsdyktige mot varmevære selvdrenerende eller ha dreneringskraner for å unngå frostskader.
+(3) Brannledningen skal
+
+1. ha en diameter som er basert på pumpenes kapasitet, og som er tilstrekkelig til å sikre jevn fordeling og jevnt trykk til brannslangene
+2. være laget av ubrennbare materialer som er motstandsdyktige mot varme
+3. være selvdrenerende eller ha dreneringskraner for å unngå frostskader.
 
 ### § 137. Hydranter
 
-(1) Skipet skal ha én eller flere hydranter plassert slik atminst én vannstråle fra én enkelt slangelengde kan nå en hvilken som helst del av skipet som mannskapet har tilgang tilhele maskinrom kategori A dekkes av vannstrålen fra én enkelt slangelengdede ikke blir utilgjengelige på grunn av dekkslast eller skipets operasjonerbrannslanger lett kan kobles til.
+(1) Skipet skal ha én eller flere hydranter plassert slik at
+
+1. minst én vannstråle fra én enkelt slangelengde kan nå en hvilken som helst del av skipet som mannskapet har tilgang til
+2. hele maskinrom kategori A dekkes av vannstrålen fra én enkelt slangelengde
+3. de ikke blir utilgjengelige på grunn av dekkslast eller skipets operasjoner
+4. brannslanger lett kan kobles til.
 
 (2) Hydrantene skal ha koblinger som gjør det mulig å fjerne brannslanger når brannpumpen eller brannpumpene er i drift.
 
@@ -1245,7 +1576,11 @@ Skip bygget i kompositt eller aluminium kan som alternativ til [§ 119](forskrif
 | CO2 | Brennbare væsker og elektrisk utstyr |
 | Våtkjemisk (wet chemical) | Stekeoljer, fett eller oljebranner |
 
-(2) Mengde slokkemiddel i brannslokkingsapparater skal minst være slik:pulverapparater: 5 kgCO2-apparater: 5 kgskumapparater: 9 l.
+(2) Mengde slokkemiddel i brannslokkingsapparater skal minst være slik:
+
+1. pulverapparater: 5 kg
+2. CO2-apparater: 5 kg
+3. skumapparater: 9 l.
 
 (3) Brannslokkingsapparater som veier mer enn 23 kg, anses ikke som bærbare.
 
@@ -1278,7 +1613,11 @@ Fastmontert brannslokkingssystem skal installeres i maskinrom kategori A og last
 
 ### § 142. Fastmontert brannslokkingssystem mv.
 
-(1) Fastmontert brannslokkingssystem skal være ett av følgende:gassbasert anlegg som oppfyller FSS-koden [kapittel 5](forskrift/2025-12-16-2652/kap5)skumbasert anlegg som oppfyller FSS-koden [kapittel 6](forskrift/2025-12-16-2652/kap6)vannbasert anlegg som oppfyller FSS-koden [kapittel 7](forskrift/2025-12-16-2652/kap7).
+(1) Fastmontert brannslokkingssystem skal være ett av følgende:
+
+1. gassbasert anlegg som oppfyller FSS-koden [kapittel 5](forskrift/2025-12-16-2652/kap5)
+2. skumbasert anlegg som oppfyller FSS-koden [kapittel 6](forskrift/2025-12-16-2652/kap6)
+3. vannbasert anlegg som oppfyller FSS-koden [kapittel 7](forskrift/2025-12-16-2652/kap7).
 
 (2) Ventilasjonsvifter til rom beskyttet av brannslokkingssystemer skal kunne stanses i nærheten av det stedet hvor brannslokkingssystemet startes. Dette gjelder også ved arrangement som beskrevet i [§ 96](forskrift/2025-12-16-2652/§96).
 
@@ -1288,7 +1627,12 @@ Fastmontert brannslokkingssystem skal installeres i maskinrom kategori A og last
 
 ### § 143. Alternative løsninger for brannslokkingssystem i mindre maskinrom kategori A
 
-I maskinrom kategori A med et bruttovolum på inntil 10 m3 kan det som alternativ til et fastmontert brannslokkingssystem som nevnt i [§ 142 første ledd](forskrift/2025-12-16-2652/§142/ledd/1) brukes et arrangement med brannslokkingsapparat som oppfyller følgende:Mengde slokkemiddel skal være slik at tilstrekkelig slokkeeffekt oppnås.Det skal være mulig å kontrollere at brannslokkingsapparatet er intakt og funksjonsdyktig.Når brannslokkingsapparatet er plassert utenfor maskinrom kategori A, skal slokkemiddelet kunne fordeles i maskinrommet gjennom en rørgjennomføring eller luke.Når brannslokkingsapparatet er plassert inne i maskinrom kategori A, skal det være fastmontert og arrangert med én eller flere dyser som fordeler slokkemiddelet i maskinrommet, og kunne utløses fra et sted utenfor maskinrommet. Utløsermekanismen skal ikke lett kunne settes ut av funksjon ved en brann.
+I maskinrom kategori A med et bruttovolum på inntil 10 m3 kan det som alternativ til et fastmontert brannslokkingssystem som nevnt i [§ 142 første ledd](forskrift/2025-12-16-2652/§142/ledd/1) brukes et arrangement med brannslokkingsapparat som oppfyller følgende:
+
+1. Mengde slokkemiddel skal være slik at tilstrekkelig slokkeeffekt oppnås.
+2. Det skal være mulig å kontrollere at brannslokkingsapparatet er intakt og funksjonsdyktig.
+3. Når brannslokkingsapparatet er plassert utenfor maskinrom kategori A, skal slokkemiddelet kunne fordeles i maskinrommet gjennom en rørgjennomføring eller luke.
+4. Når brannslokkingsapparatet er plassert inne i maskinrom kategori A, skal det være fastmontert og arrangert med én eller flere dyser som fordeler slokkemiddelet i maskinrommet, og kunne utløses fra et sted utenfor maskinrommet. Utløsermekanismen skal ikke lett kunne settes ut av funksjon ved en brann.
 
 ### § 144. Brannkontrollplan
 
@@ -1304,7 +1648,13 @@ Brannkontrollplanen skal være oppslått på et sentralt og oversiktlig sted. Pl
 
 ### § 146. Meldeplikt
 
-(1) Rederiet skal straks sende melding på fastsatt skjema, sammen med tegning av skipets generalarrangement, når ett av følgende er bestemt eller inngått kontrakt ombyggingombyggingomfattende reparasjonendret brukinnkjøp av skip fra utlandet.
+(1) Rederiet skal straks sende melding på fastsatt skjema, sammen med tegning av skipets generalarrangement, når ett av følgende er bestemt eller inngått kontrakt om
+
+1. bygging
+2. ombygging
+3. omfattende reparasjon
+4. endret bruk
+5. innkjøp av skip fra utlandet.
 
 (2) Rederiet skal straks melde fra ved kansellering eller endringer i kontraktsforholdet, skipets utforming eller lignende.
 
@@ -1346,7 +1696,11 @@ Rederiet skal bestille tilsyn ved bygging, ombygging, endring eller omfattende r
 
 ### § 151. Spesielle krav til kontroll av slepe- og ankerhåndteringsvinsjer, slepekroker og sikkerhetsutstyr for bruk under sleping og ankerhåndtering
 
-(1) På skip hvor det utføres sleping eller ankerhåndtering skal kvalifisert personell utføre grundige prøver og kontroller minst én gang i året på følgende utstyr:slepevinsj og ankerhåndteringsvinsj med tilhørende utstyr, inkludert prøving av nødutløsning med full slepekraftslepekrok med tilhørende utstyrstyrepinner, wire, haikjeft, slepeøye og lignende, inkludert belastningsprøver og eventuelle nødutløsningsprøver.
+(1) På skip hvor det utføres sleping eller ankerhåndtering skal kvalifisert personell utføre grundige prøver og kontroller minst én gang i året på følgende utstyr:
+
+1. slepevinsj og ankerhåndteringsvinsj med tilhørende utstyr, inkludert prøving av nødutløsning med full slepekraft
+2. slepekrok med tilhørende utstyr
+3. styrepinner, wire, haikjeft, slepeøye og lignende, inkludert belastningsprøver og eventuelle nødutløsningsprøver.
 
 (2) Prøver skal utføres i samsvar med instruks fra produsenten.
 
@@ -1358,13 +1712,64 @@ Rederiet skal bestille tilsyn ved bygging, ombygging, endring eller omfattende r
 
 (1) Ved skade, funksjonstap, reparasjon eller endring av skipet eller skipets utstyr skal skipet kontrolleres av godkjent foretak før det settes i fart igjen. Dette gjelder ikke ved normalt vedlikehold.
 
-(2) Godkjent foretak kan, etter skriftlig søknad fra rederiet, utstede fartstillatelse for enkeltreiser uten last når følgende vilkår er oppfylt:Det er nødvendig i forbindelse med kontroll, prøvetur eller forflytning til annen havn.Det er sikkerhetsmessig forsvarlig.Eventuelle nødvendige kompenserende tiltak er gjort for å opprettholde sikkerhetsnivået.
+(2) Godkjent foretak kan, etter skriftlig søknad fra rederiet, utstede fartstillatelse for enkeltreiser uten last når følgende vilkår er oppfylt:
+
+1. Det er nødvendig i forbindelse med kontroll, prøvetur eller forflytning til annen havn.
+2. Det er sikkerhetsmessig forsvarlig.
+3. Eventuelle nødvendige kompenserende tiltak er gjort for å opprettholde sikkerhetsnivået.
 
 ## Kapittel 15. Krav til skip som har byggekontrakt inngått før 1. januar 2026 og som er levert før 1. januar 2027
 
 ### § 153. Skip som har byggekontrakt inngått før 1. januar 2026 og som er levert før 1. januar 2027
 
-For skip som har byggekontrakt inngått før 1. januar 2026 og som er levert før 1. januar 2027 gjelder[kapittel 1](forskrift/2025-12-16-2652/kap1) om innledende bestemmelser:[§ 1](forskrift/2025-12-16-2652/§1) om virkeområde[§ 2](forskrift/2025-12-16-2652/§2) om fartøyinstruks[§ 5](forskrift/2025-12-16-2652/§5) om definisjoner.[§ 6](forskrift/2025-12-16-2652/§6) om skip som brukes til opplæringsformålFiskeutstyr og arrangement for fiske og fangst som tas om bord eller installeres 1. januar 2026 eller senere skal oppfylle [§ 7](forskrift/2025-12-16-2652/§7)[§ 8](forskrift/2025-12-16-2652/§8) om vedlikehold[§ 9](forskrift/2025-12-16-2652/§9) om skip som har byggekontrakt inngått før 1. januar 2026 og som er levert før 1. januar 2027.[§ 10](forskrift/2025-12-16-2652/§10) om innflagging eller innførsel fra utlandet[kapittel 2](forskrift/2025-12-16-2652/kap2) om navigasjon og navigasjonshjelpemidler. Skip med bruttotonnasje under 300 og med største lengde 12 meter eller mer som har AIS klasse B som er tatt om bord før 1.juli 2022, skal oppfylle kravet i [§ 18 første ledd](forskrift/2025-12-16-2652/§18/ledd/1) om AIS klasse A ikke senere enn 1. januar 2027.[kapittel 3](forskrift/2025-12-16-2652/kap3) om redningsredskaper[kapittel 4](forskrift/2025-12-16-2652/kap4) om radiokommunikasjonsutstyr. Skip som har tatt om bord radar-SART før ikrafttredelse av denne forskriften, skal oppfylle kravet om AIS-SART i [§ 44](forskrift/2025-12-16-2652/§44) når utstyret skal byttes ut.[kapittel 5](forskrift/2025-12-16-2652/kap5) om overføring av personer mellom skipet og anlegg eller installasjoner for fornybar energiproduksjon til sjøs[kapittel 6](forskrift/2025-12-16-2652/kap6) om konstruksjon:[§ 57](forskrift/2025-12-16-2652/§57) om anker- og fortøyningsutstyr, tredje ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal tredje ledd oppfylles.[kapittel 7](forskrift/2025-12-16-2652/kap7) om dekksutstyr:[§ 65](forskrift/2025-12-16-2652/§65) om slepevinsj eller slepekrok for skip som utfører slep, femte ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal femte ledd oppfylles[§ 66](forskrift/2025-12-16-2652/§66) om utstyr for skip som utfører ankerhåndtering[§ 76](forskrift/2025-12-16-2652/§76) om nedjustering av vinsj[§ 78](forskrift/2025-12-16-2652/§78) om innhalingsutstyr. Denne paragrafen skal være oppfylt ikke senere enn første periodiske eller fullstendig kontroll avhengig av hva som kommer først, eller innen første mellomliggende eller fornyelse avhengig av hva som kommer først etter ikrafttredelse av denne forskriften.I tillegg skal alt dekksutstyr som tas om bord eller installeres på ikrafttredelsesdato for forskriften eller senere skal oppfylle [kapittel 7](forskrift/2025-12-16-2652/kap7).[Kapittel 9](forskrift/2025-12-16-2652/kap9) Stabilitetskriterier:[§ 95](forskrift/2025-12-16-2652/§95) om stabilitet i intakt tilstand for lukket skip, tredje ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal tredje ledd oppfylles.[kapittel 10](forskrift/2025-12-16-2652/kap10) om lastelinje og fribord:[§ 104](forskrift/2025-12-16-2652/§104) om lenseportareal. For skip som har krav om fartøyinstruks skal første til femte ledd i denne paragrafen skal være oppfylt ikke senere enn første periodiske eller fullstendig kontroll avhengig av hva som kommer først etter ikrafttredelse av denne forskriften. For skip med fartssertifikat skal første til femte ledd i denne paragrafen være oppfylt innen første mellomliggende eller fornyelse avhengig av hva som kommer først etter ikrafttredelse av denne forskriften. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal sjette ledd oppfylles.[§ 105](forskrift/2025-12-16-2652/§105) om lysventiler og vindu, fjerde ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal fjerde ledd oppfylles.[§ 107](forskrift/2025-12-16-2652/§107) om lufterør, andre ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal andre ledd oppfylles.[§ 108](forskrift/2025-12-16-2652/§108) om skansekledning og rekkverk, første og andre ledd, for skip under 15 meter. For skip med største lengde under 15 meter med byggekontrakt inngått før 1. januar 2015 og levert før 1. januar 2016 tillates det at kjetting som oppfyller kravene i [§ 108 fjerde ledd](forskrift/2025-12-16-2652/§108/ledd/4), erstatter avtakbar skansekledning eller avtakbart rekkverk etter første ledd. Kravene i [§ 108 første](forskrift/2025-12-16-2652/§108/ledd/1) og [andre ledd](forskrift/2025-12-16-2652/§108/ledd/2) skal være oppfylt ikke senere enn første periodiske eller fullstendig kontroll avhengig av hva som kommer først etter ikrafttredelse av denne forskriften.[§ 108](forskrift/2025-12-16-2652/§108) om skansekledning og rekkverk, sjette ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal sjette ledd oppfylles.[§ 109](forskrift/2025-12-16-2652/§109) om nedgang fra dekk til sjønivå, første til fjerde ledd. For skip som har krav om fartøyinstruks skal denne paragrafen skal være oppfylt ikke senere enn første periodiske eller fullstendig kontroll avhengig av hva som kommer først etter ikrafttredelse av denne forskriften. For skip med fartssertifikat skal denne paragrafen være oppfylt innen første mellomliggende eller fornyelse avhengig av hva som kommer først etter ikrafttredelse av denne forskriften.[Kapittel 11](forskrift/2025-12-16-2652/kap11) om maskineri og elektriske anlegg:[§ 115](forskrift/2025-12-16-2652/§115) om nødkraftkildens kapasitet, andre ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal andre ledd oppfylles.[kapittel 12](forskrift/2025-12-16-2652/kap12) om brannsikring:[§ 139](forskrift/2025-12-16-2652/§139) om bærbare brannslokkingsapparater[§ 145](forskrift/2025-12-16-2652/§145) om vedlikehold[kapittel 13](forskrift/2025-12-16-2652/kap13) om generelle krav til tilsyn og kontroll[kapittel 14](forskrift/2025-12-16-2652/kap14) om tilsyn med skip som skal ha fartøyinstruks[kapittel 15](forskrift/2025-12-16-2652/kap15) om skip med byggekontrakt inngått før 1. januar 2026 og som er levert før 1. januar 2027[kapittel 16](forskrift/2025-12-16-2652/kap16) om avsluttende bestemmelser.
+For skip som har byggekontrakt inngått før 1. januar 2026 og som er levert før 1. januar 2027 gjelder
+
+1. [kapittel 1](forskrift/2025-12-16-2652/kap1) om innledende bestemmelser:
+
+   1. [§ 1](forskrift/2025-12-16-2652/§1) om virkeområde
+   2. [§ 2](forskrift/2025-12-16-2652/§2) om fartøyinstruks
+   3. [§ 5](forskrift/2025-12-16-2652/§5) om definisjoner.
+   4. [§ 6](forskrift/2025-12-16-2652/§6) om skip som brukes til opplæringsformål
+   5. Fiskeutstyr og arrangement for fiske og fangst som tas om bord eller installeres 1. januar 2026 eller senere skal oppfylle [§ 7](forskrift/2025-12-16-2652/§7)
+   6. [§ 8](forskrift/2025-12-16-2652/§8) om vedlikehold
+   7. [§ 9](forskrift/2025-12-16-2652/§9) om skip som har byggekontrakt inngått før 1. januar 2026 og som er levert før 1. januar 2027.
+   8. [§ 10](forskrift/2025-12-16-2652/§10) om innflagging eller innførsel fra utlandet
+2. [kapittel 2](forskrift/2025-12-16-2652/kap2) om navigasjon og navigasjonshjelpemidler. Skip med bruttotonnasje under 300 og med største lengde 12 meter eller mer som har AIS klasse B som er tatt om bord før 1.juli 2022, skal oppfylle kravet i [§ 18 første ledd](forskrift/2025-12-16-2652/§18/ledd/1) om AIS klasse A ikke senere enn 1. januar 2027.
+3. [kapittel 3](forskrift/2025-12-16-2652/kap3) om redningsredskaper
+4. [kapittel 4](forskrift/2025-12-16-2652/kap4) om radiokommunikasjonsutstyr. Skip som har tatt om bord radar-SART før ikrafttredelse av denne forskriften, skal oppfylle kravet om AIS-SART i [§ 44](forskrift/2025-12-16-2652/§44) når utstyret skal byttes ut.
+5. [kapittel 5](forskrift/2025-12-16-2652/kap5) om overføring av personer mellom skipet og anlegg eller installasjoner for fornybar energiproduksjon til sjøs
+6. [kapittel 6](forskrift/2025-12-16-2652/kap6) om konstruksjon:
+
+   - [§ 57](forskrift/2025-12-16-2652/§57) om anker- og fortøyningsutstyr, tredje ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal tredje ledd oppfylles.
+7. [kapittel 7](forskrift/2025-12-16-2652/kap7) om dekksutstyr:
+
+   1. [§ 65](forskrift/2025-12-16-2652/§65) om slepevinsj eller slepekrok for skip som utfører slep, femte ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal femte ledd oppfylles
+   2. [§ 66](forskrift/2025-12-16-2652/§66) om utstyr for skip som utfører ankerhåndtering
+   3. [§ 76](forskrift/2025-12-16-2652/§76) om nedjustering av vinsj
+   4. [§ 78](forskrift/2025-12-16-2652/§78) om innhalingsutstyr. Denne paragrafen skal være oppfylt ikke senere enn første periodiske eller fullstendig kontroll avhengig av hva som kommer først, eller innen første mellomliggende eller fornyelse avhengig av hva som kommer først etter ikrafttredelse av denne forskriften.
+   5. I tillegg skal alt dekksutstyr som tas om bord eller installeres på ikrafttredelsesdato for forskriften eller senere skal oppfylle [kapittel 7](forskrift/2025-12-16-2652/kap7).
+8. [Kapittel 9](forskrift/2025-12-16-2652/kap9) Stabilitetskriterier:
+
+   - [§ 95](forskrift/2025-12-16-2652/§95) om stabilitet i intakt tilstand for lukket skip, tredje ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal tredje ledd oppfylles.
+9. [kapittel 10](forskrift/2025-12-16-2652/kap10) om lastelinje og fribord:
+
+   1. [§ 104](forskrift/2025-12-16-2652/§104) om lenseportareal. For skip som har krav om fartøyinstruks skal første til femte ledd i denne paragrafen skal være oppfylt ikke senere enn første periodiske eller fullstendig kontroll avhengig av hva som kommer først etter ikrafttredelse av denne forskriften. For skip med fartssertifikat skal første til femte ledd i denne paragrafen være oppfylt innen første mellomliggende eller fornyelse avhengig av hva som kommer først etter ikrafttredelse av denne forskriften. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal sjette ledd oppfylles.
+   2. [§ 105](forskrift/2025-12-16-2652/§105) om lysventiler og vindu, fjerde ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal fjerde ledd oppfylles.
+   3. [§ 107](forskrift/2025-12-16-2652/§107) om lufterør, andre ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal andre ledd oppfylles.
+   4. [§ 108](forskrift/2025-12-16-2652/§108) om skansekledning og rekkverk, første og andre ledd, for skip under 15 meter. For skip med største lengde under 15 meter med byggekontrakt inngått før 1. januar 2015 og levert før 1. januar 2016 tillates det at kjetting som oppfyller kravene i [§ 108 fjerde ledd](forskrift/2025-12-16-2652/§108/ledd/4), erstatter avtakbar skansekledning eller avtakbart rekkverk etter første ledd. Kravene i [§ 108 første](forskrift/2025-12-16-2652/§108/ledd/1) og [andre ledd](forskrift/2025-12-16-2652/§108/ledd/2) skal være oppfylt ikke senere enn første periodiske eller fullstendig kontroll avhengig av hva som kommer først etter ikrafttredelse av denne forskriften.
+   5. [§ 108](forskrift/2025-12-16-2652/§108) om skansekledning og rekkverk, sjette ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal sjette ledd oppfylles.
+   6. [§ 109](forskrift/2025-12-16-2652/§109) om nedgang fra dekk til sjønivå, første til fjerde ledd. For skip som har krav om fartøyinstruks skal denne paragrafen skal være oppfylt ikke senere enn første periodiske eller fullstendig kontroll avhengig av hva som kommer først etter ikrafttredelse av denne forskriften. For skip med fartssertifikat skal denne paragrafen være oppfylt innen første mellomliggende eller fornyelse avhengig av hva som kommer først etter ikrafttredelse av denne forskriften.
+10. [Kapittel 11](forskrift/2025-12-16-2652/kap11) om maskineri og elektriske anlegg:
+
+    1. [§ 115](forskrift/2025-12-16-2652/§115) om nødkraftkildens kapasitet, andre ledd. Dersom fartsområdet økes på ikrafttredelsesdato for forskriften eller senere skal andre ledd oppfylles.
+11. [kapittel 12](forskrift/2025-12-16-2652/kap12) om brannsikring:
+
+    1. [§ 139](forskrift/2025-12-16-2652/§139) om bærbare brannslokkingsapparater
+    2. [§ 145](forskrift/2025-12-16-2652/§145) om vedlikehold
+12. [kapittel 13](forskrift/2025-12-16-2652/kap13) om generelle krav til tilsyn og kontroll
+13. [kapittel 14](forskrift/2025-12-16-2652/kap14) om tilsyn med skip som skal ha fartøyinstruks
+14. [kapittel 15](forskrift/2025-12-16-2652/kap15) om skip med byggekontrakt inngått før 1. januar 2026 og som er levert før 1. januar 2027
+15. [kapittel 16](forskrift/2025-12-16-2652/kap16) om avsluttende bestemmelser.
 
 ## Kapittel 16. Avsluttende bestemmelser
 
@@ -1372,13 +1777,20 @@ For skip som har byggekontrakt inngått før 1. januar 2026 og som er levert fø
 
 (1) Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften, når det er godtgjort at løsningene er likeverdige med forskriftens krav.
 
-(2) Sjøfartsdirektoratet kan gi dispensasjon fra én eller flere bestemmelser i denne forskriften dersom rederiet, i en skriftlig søknad, viser at minst ett av følgende vilkår er oppfylt:Særlige grunner gjør at ett eller flere krav har mindre betydning for det aktuelle skipet, og det er ellers sikkerhetsmessig forsvarlig å gi dispensasjon.Kompenserende tiltak gjør at sikkerhetsnivået bevares.
+(2) Sjøfartsdirektoratet kan gi dispensasjon fra én eller flere bestemmelser i denne forskriften dersom rederiet, i en skriftlig søknad, viser at minst ett av følgende vilkår er oppfylt:
+
+1. Særlige grunner gjør at ett eller flere krav har mindre betydning for det aktuelle skipet, og det er ellers sikkerhetsmessig forsvarlig å gi dispensasjon.
+2. Kompenserende tiltak gjør at sikkerhetsnivået bevares.
 
 ### § 155. Ny teknologi
 
 (1) Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne bruk av ny teknologi for å oppfylle forskriftens krav eller som grunnlag for dispensasjon.
 
-(2) Prosessen for å vise at ny teknologi med alternativ utforming og arrangementer er sikkerhetsmessig forsvarlig, skal baseres på én av følgende retningslinjer:MSC.1/Circ.1212 «Guidelines on alternative design and arrangements for SOLAS Chapters II-1 and III»MSC.1/Circ.1455 «Guidelines for the approval of alternatives and equivalents as provided for in various IMO instruments»MSC/Circ.1002 «Guidelines on alternative design and arrangements for fire safety».
+(2) Prosessen for å vise at ny teknologi med alternativ utforming og arrangementer er sikkerhetsmessig forsvarlig, skal baseres på én av følgende retningslinjer:
+
+1. MSC.1/Circ.1212 «Guidelines on alternative design and arrangements for SOLAS Chapters II-1 and III»
+2. MSC.1/Circ.1455 «Guidelines for the approval of alternatives and equivalents as provided for in various IMO instruments»
+3. MSC/Circ.1002 «Guidelines on alternative design and arrangements for fire safety».
 
 (3) Andre metoder eller retningslinjer kan brukes etter avtale med Sjøfartsdirektoratet.
 

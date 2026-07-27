@@ -26,7 +26,16 @@ eu_basis: []
 
 ### § 1. Anvendelsesområde
 
-(1) Ved overdragelse eller interesseoverføring som Energidepartementet gir samtykke til etter [petroleumsloven § 10-12](lov/1996-11-29-72/§10-12) første ledd, gir Finansdepartementet samtykke til de skattemessige virkningene av overdragelsen etter [petroleumsskatteloven § 10](lov/1975-06-13-35/§10) og denne forskrift uten søknad og enkeltvedtak dersom:partenes avtale om overdragelse eller interesseoverføring er i samsvar med forskriftens bestemmelser for den aktuelle transaksjonstypen, ogfølgende dokumentasjon er sendt Finansdepartementet med kopi til Oljeskattekontoret:en redegjørelse for de vesentlige elementene i transaksjonenen redegjørelse for hvordan transaksjonen oppfyller kravene i den enkelte forskriftsbestemmelsekopi av endelig, signert overdragelsesavtale.Forskriften gjelder for transaksjon som nevnt i [§ 3](forskrift/2009-07-01-956/§3) – [§ 9](forskrift/2009-07-01-956/§9), og vilkårene fastsatt i den aktuelle bestemmelsen legges til grunn ved skattefastsettingen for de berørte selskaper.
+(1) Ved overdragelse eller interesseoverføring som Energidepartementet gir samtykke til etter [petroleumsloven § 10-12](lov/1996-11-29-72/§10-12) første ledd, gir Finansdepartementet samtykke til de skattemessige virkningene av overdragelsen etter [petroleumsskatteloven § 10](lov/1975-06-13-35/§10) og denne forskrift uten søknad og enkeltvedtak dersom:
+
+1. partenes avtale om overdragelse eller interesseoverføring er i samsvar med forskriftens bestemmelser for den aktuelle transaksjonstypen, og
+2. følgende dokumentasjon er sendt Finansdepartementet med kopi til Oljeskattekontoret:
+
+   - en redegjørelse for de vesentlige elementene i transaksjonen
+   - en redegjørelse for hvordan transaksjonen oppfyller kravene i den enkelte forskriftsbestemmelse
+   - kopi av endelig, signert overdragelsesavtale.
+
+Forskriften gjelder for transaksjon som nevnt i [§ 3](forskrift/2009-07-01-956/§3) – [§ 9](forskrift/2009-07-01-956/§9), og vilkårene fastsatt i den aktuelle bestemmelsen legges til grunn ved skattefastsettingen for de berørte selskaper.
 
 (2) Søknad om samtykke kan likevel ikke unnlates dersom ett eller flere av selskapene som er part i transaksjonen er stiftet på et senere tidspunkt enn effektiv dato.
 
@@ -34,35 +43,70 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskriften har følgende uttrykk denne betydning:*Effektiv dato:* Datoen transaksjonen får skattemessig virkning.*Gjennomføringsdato:* Datoen transaksjonen faktisk gjennomføres.*Samtykkeår:* Året for samtykke etter [petroleumsloven § 10-12](lov/1996-11-29-72/§10-12).
+I denne forskriften har følgende uttrykk denne betydning:
+
+1. *Effektiv dato:* Datoen transaksjonen får skattemessig virkning.
+2. *Gjennomføringsdato:* Datoen transaksjonen faktisk gjennomføres.
+3. *Samtykkeår:* Året for samtykke etter [petroleumsloven § 10-12](lov/1996-11-29-72/§10-12).
 
 ### § 3. Overdragelse av andel i utvinningstillatelse mot kontantvederlag
 
-Ved overdragelse av andel i utvinningstillatelse mot kontantvederlag gjelder følgende:Effektiv dato skal være 1. januar i samtykkeåret eller påfølgende år. Effektiv dato kan likevel settes til annen dato enn 1. januar dersom det ikke foreligger grunnlag for skattemessige avskrivninger og friinntekt knyttet til overdratt andel på effektiv dato.Vederlaget skal være et endelig fastsatt kontantvederlag, eventuelt inflasjonsjustert etter en offentlig tilgjengelig indeks. Ved vederlagsfrie overdragelser anses vederlaget fastsatt til kroner null.Vederlaget skal være ubetinget, med mindre betingelsen knytter seg til dato for oversendelse eller godkjennelse av plan for utbygging og drift av et funn som omfattes av overdratt utvinningstillatelse.Vederlaget skal ikke være skattepliktig inntekt for selger og ikke skattemessig fradragsberettiget kostnad for kjøper.Vederlag i utenlandsk valuta skal for skatteformål omregnes til norske kroner etter betalingsdagens markedskurs.Kjøper skal overta selgers eventuelle grunnlag for skattemessige avskrivninger og friinntekt knyttet til investeringer på overdratt andel foretatt før effektiv dato. Øvrige skatteposisjoner, som skattemessig underskudd til framføring eller gevinst- og tapskonto, skal beholdes av selger.Selgers eventuelle skattemessig fradragsførte avsetninger til framtidig nedstengning av felt som omfattes av overdragelsen, skal videreføres hos kjøper for avregning mot framtidige faktiske kostnader. Ved skattefastsettingen for inntektsåret for effektiv dato skal selger øke sin særskattepliktige inntekt med et beløp tilsvarende skattemessig fradragsførte nedstengningsavsetninger og kjøper redusere sin særskattepliktige inntekt tilsvarende.Refusjoner mellom partene for inntekter og kostnader knyttet til virksomhet i utvinningstillatelsen mellom effektiv dato og gjennomføringsdato skal behandles etter petroleumsskattelovgivningens alminnelige bestemmelser av den part inntekten endelig tilkommer eller av den part som endelig skal bære kostnaden.Ved refusjon knyttet til salg av normprisregulert petroleum skal prisen på petroleum solgt av selger på vegne av kjøper settes til normpris i norske kroner. Ved skattefastsettingen for selger skal det ses bort fra en eventuell differanse mellom bokført salgsinntekt og refundert beløp. Ved skattefastsettingen for kjøper benyttes normpris i norske kroner.Renter som beregnes mellom partene i forbindelse med overdragelsen skal behandles som ordinære finanselementer.Øvrige elementer i transaksjonen skal behandles etter petroleumsskattelovgivningens alminnelige bestemmelser.
+Ved overdragelse av andel i utvinningstillatelse mot kontantvederlag gjelder følgende:
+
+1. Effektiv dato skal være 1. januar i samtykkeåret eller påfølgende år. Effektiv dato kan likevel settes til annen dato enn 1. januar dersom det ikke foreligger grunnlag for skattemessige avskrivninger og friinntekt knyttet til overdratt andel på effektiv dato.
+2. Vederlaget skal være et endelig fastsatt kontantvederlag, eventuelt inflasjonsjustert etter en offentlig tilgjengelig indeks. Ved vederlagsfrie overdragelser anses vederlaget fastsatt til kroner null.
+3. Vederlaget skal være ubetinget, med mindre betingelsen knytter seg til dato for oversendelse eller godkjennelse av plan for utbygging og drift av et funn som omfattes av overdratt utvinningstillatelse.
+4. Vederlaget skal ikke være skattepliktig inntekt for selger og ikke skattemessig fradragsberettiget kostnad for kjøper.
+5. Vederlag i utenlandsk valuta skal for skatteformål omregnes til norske kroner etter betalingsdagens markedskurs.
+6. Kjøper skal overta selgers eventuelle grunnlag for skattemessige avskrivninger og friinntekt knyttet til investeringer på overdratt andel foretatt før effektiv dato. Øvrige skatteposisjoner, som skattemessig underskudd til framføring eller gevinst- og tapskonto, skal beholdes av selger.
+7. Selgers eventuelle skattemessig fradragsførte avsetninger til framtidig nedstengning av felt som omfattes av overdragelsen, skal videreføres hos kjøper for avregning mot framtidige faktiske kostnader. Ved skattefastsettingen for inntektsåret for effektiv dato skal selger øke sin særskattepliktige inntekt med et beløp tilsvarende skattemessig fradragsførte nedstengningsavsetninger og kjøper redusere sin særskattepliktige inntekt tilsvarende.
+8. Refusjoner mellom partene for inntekter og kostnader knyttet til virksomhet i utvinningstillatelsen mellom effektiv dato og gjennomføringsdato skal behandles etter petroleumsskattelovgivningens alminnelige bestemmelser av den part inntekten endelig tilkommer eller av den part som endelig skal bære kostnaden.
+
+   Ved refusjon knyttet til salg av normprisregulert petroleum skal prisen på petroleum solgt av selger på vegne av kjøper settes til normpris i norske kroner. Ved skattefastsettingen for selger skal det ses bort fra en eventuell differanse mellom bokført salgsinntekt og refundert beløp. Ved skattefastsettingen for kjøper benyttes normpris i norske kroner.
+9. Renter som beregnes mellom partene i forbindelse med overdragelsen skal behandles som ordinære finanselementer.
+10. Øvrige elementer i transaksjonen skal behandles etter petroleumsskattelovgivningens alminnelige bestemmelser.
 
 > Endret ved [forskrifter 1 juli 2011 nr. 754](forskrift/2011-07-01-754), [9 des 2016 nr. 1549](forskrift/2016-12-09-1549) (i kraft 1 jan 2017).
 
 ### § 4. Overdragelse av andel i utvinningstillatelse mot dekning av framtidige undersøkelseskostnader
 
-Ved overdragelse av andel i utvinningstillatelse mot at en part dekker framtidige undersøkelseskostnader for den annen part gjelder følgende:Vederlaget skal bestå i at en part dekker en endelig fastsatt andel av den annen parts undersøkelseskostnader knyttet til overdratt andel etter effektiv dato, eventuelt begrenset oppad til et endelig fastsatt beløp.Kostnadene skal være skattemessig fradragsberettigede for det selskapet som endelig dekker kostnadene, og behandles som undersøkelseskostnader etter petroleumsskattelovgivningens alminnelige bestemmelser.Et eventuelt tilleggsvederlag i kontanter skal behandles etter [§ 3](forskrift/2009-07-01-956/§3) andre til femte ledd.Bestemmelsene i [§ 3](forskrift/2009-07-01-956/§3) første og sjette til tiende ledd gjelder tilsvarende.
+Ved overdragelse av andel i utvinningstillatelse mot at en part dekker framtidige undersøkelseskostnader for den annen part gjelder følgende:
+
+1. Vederlaget skal bestå i at en part dekker en endelig fastsatt andel av den annen parts undersøkelseskostnader knyttet til overdratt andel etter effektiv dato, eventuelt begrenset oppad til et endelig fastsatt beløp.
+2. Kostnadene skal være skattemessig fradragsberettigede for det selskapet som endelig dekker kostnadene, og behandles som undersøkelseskostnader etter petroleumsskattelovgivningens alminnelige bestemmelser.
+3. Et eventuelt tilleggsvederlag i kontanter skal behandles etter [§ 3](forskrift/2009-07-01-956/§3) andre til femte ledd.
+4. Bestemmelsene i [§ 3](forskrift/2009-07-01-956/§3) første og sjette til tiende ledd gjelder tilsvarende.
 
 > Endret ved [forskrift 1 juli 2011 nr. 754](forskrift/2011-07-01-754).
 
 ### § 5. Overdragelse av andel i utvinningstillatelse mot at selger dekker framtidige avslutningskostnader for kjøper
 
-Ved overdragelse av andel i utvinningstillatelse mot at selger dekker framtidige avslutningskostnader for kjøper gjelder følgende:Vederlaget skal bestå i at selger dekker kjøpers kostnader til nedstengning og/eller fjerning av innretninger knyttet til overdratt andel etter effektiv dato, eventuelt begrenset oppad til et endelig fastsatt beløp.Kostnadene skal være skattemessig fradragsberettigede etter petroleumsskattelovgivningens alminnelige bestemmelser for det selskapet som endelig dekker kostnadene.Et eventuelt tilleggsvederlag i kontanter skal behandles etter [§ 3](forskrift/2009-07-01-956/§3) andre til femte ledd.Bestemmelsene i [§ 3](forskrift/2009-07-01-956/§3) første og sjette til tiende ledd gjelder tilsvarende.
+Ved overdragelse av andel i utvinningstillatelse mot at selger dekker framtidige avslutningskostnader for kjøper gjelder følgende:
+
+1. Vederlaget skal bestå i at selger dekker kjøpers kostnader til nedstengning og/eller fjerning av innretninger knyttet til overdratt andel etter effektiv dato, eventuelt begrenset oppad til et endelig fastsatt beløp.
+2. Kostnadene skal være skattemessig fradragsberettigede etter petroleumsskattelovgivningens alminnelige bestemmelser for det selskapet som endelig dekker kostnadene.
+3. Et eventuelt tilleggsvederlag i kontanter skal behandles etter [§ 3](forskrift/2009-07-01-956/§3) andre til femte ledd.
+4. Bestemmelsene i [§ 3](forskrift/2009-07-01-956/§3) første og sjette til tiende ledd gjelder tilsvarende.
 
 > Endret ved [forskrift 1 juli 2011 nr. 754](forskrift/2011-07-01-754).
 
 ### § 6. Bytte av andeler i utvinningstillatelser
 
-Ved bytte av andeler i utvinningstillatelser gjelder følgende:Bestemmelsene i [§ 3](forskrift/2009-07-01-956/§3) første ledd og sjette til tiende ledd gjelder tilsvarende.Et eventuelt tilleggsvederlag i kontanter skal behandles etter [§ 3](forskrift/2009-07-01-956/§3) andre til femte ledd. Tilleggsvederlag i form av dekning av framtidige undersøkelseskostnader eller avslutningskostnader skal behandles etter henholdsvis [§ 4](forskrift/2009-07-01-956/§4) og [§ 5](forskrift/2009-07-01-956/§5).
+Ved bytte av andeler i utvinningstillatelser gjelder følgende:
+
+1. Bestemmelsene i [§ 3](forskrift/2009-07-01-956/§3) første ledd og sjette til tiende ledd gjelder tilsvarende.
+2. Et eventuelt tilleggsvederlag i kontanter skal behandles etter [§ 3](forskrift/2009-07-01-956/§3) andre til femte ledd. Tilleggsvederlag i form av dekning av framtidige undersøkelseskostnader eller avslutningskostnader skal behandles etter henholdsvis [§ 4](forskrift/2009-07-01-956/§4) og [§ 5](forskrift/2009-07-01-956/§5).
 
 > Tilføyd ved [forskrift 1 juli 2011 nr. 754](forskrift/2011-07-01-754).
 
 ### § 7. Samlet overdragelse av virksomhet skattepliktig etter petroleumsskatteloven § 5
 
-Ved samlet overdragelse av et selskaps utvinningstillatelser med tilhørende virksomhet som er skattepliktig etter [petroleumsskatteloven § 5](lov/1975-06-13-35/§5), skal følgende gjelde:Overtakende selskap skal overta skattemessige verdier og øvrige skatteposisjoner knyttet til den overførte virksomheten. For øvrig gjelder bestemmelsen i [§ 3](forskrift/2009-07-01-956/§3) tilsvarende så langt den passer.Det overdragende selskap skal ikke drive særskattepliktig virksomhet etter effektiv dato.Overdragelsen får ikke betydning for uavklarte skattespørsmål i det overdragende selskap før overdragelsen, og skattemyndighetenes endringsadgang for tidligere år påvirkes ikke. Det overtakende selskap trer fullt ut inn i det overdragende selskaps partsstilling, og hefter for alle skattekrav for inntektsår før overdragelsen.[Skatteloven § 13-3](lov/1999-03-26-14/§13-3) gjelder tilsvarende ved skattefastsettingen av alminnelig inntekt i sokkeldistriktet selv om det er gitt samtykke til transaksjonen etter denne paragrafen.
+Ved samlet overdragelse av et selskaps utvinningstillatelser med tilhørende virksomhet som er skattepliktig etter [petroleumsskatteloven § 5](lov/1975-06-13-35/§5), skal følgende gjelde:
+
+1. Overtakende selskap skal overta skattemessige verdier og øvrige skatteposisjoner knyttet til den overførte virksomheten. For øvrig gjelder bestemmelsen i [§ 3](forskrift/2009-07-01-956/§3) tilsvarende så langt den passer.
+2. Det overdragende selskap skal ikke drive særskattepliktig virksomhet etter effektiv dato.
+3. Overdragelsen får ikke betydning for uavklarte skattespørsmål i det overdragende selskap før overdragelsen, og skattemyndighetenes endringsadgang for tidligere år påvirkes ikke. Det overtakende selskap trer fullt ut inn i det overdragende selskaps partsstilling, og hefter for alle skattekrav for inntektsår før overdragelsen.
+4. [Skatteloven § 13-3](lov/1999-03-26-14/§13-3) gjelder tilsvarende ved skattefastsettingen av alminnelig inntekt i sokkeldistriktet selv om det er gitt samtykke til transaksjonen etter denne paragrafen.
 
 > Tilføyd ved [forskrift 1 juli 2011 nr. 754](forskrift/2011-07-01-754), endret ved [forskrifter 20 des 2012 nr. 1384](forskrift/2012-12-20-1384) (i kraft 1 jan 2013, se endringsforskriften for overgangsbestemmelser), [9 des 2016 nr. 1549](forskrift/2016-12-09-1549) (i kraft 1 jan 2017), [17 okt 2022 nr. 1753](forskrift/2022-10-17-1753) (med virkning fra inntektsåret 2022), [17 okt 2022 nr. 1753](forskrift/2022-10-17-1753) (med virkning fra 8 april 2022, se endringsforskriften for overgangsbestemmelser).
 
@@ -80,7 +124,12 @@ Ved samlet overdragelse av et selskaps utvinningstillatelser med tilhørende vir
 
 ### § 9. Innlemming av transportanlegg i interessentskapet Gassled
 
-Ved transaksjoner som medfører at driftsmidlene i et gasstransportanlegg utenfor Gassled innlemmes i Gassled gjelder følgende:Vederlaget skal bestå i omfordeling av eierandelene i Gassled mellom rettighetshaverne i Gassled og rettighetshaverne i det innlemmede transportanlegget.Grunnlag for skattemessige avskrivninger og friinntekt knyttet til investeringer i det innlemmede transportanlegget beholdes av selskapene som har foretatt investeringene.Eventuelle gevinster eller tap som følge av transaksjonen skal ikke gis skattemessig virkning ved skattefastsettingen.Bestemmelsene i [§ 3](forskrift/2009-07-01-956/§3) åttende til tiende ledd gjelder tilsvarende.
+Ved transaksjoner som medfører at driftsmidlene i et gasstransportanlegg utenfor Gassled innlemmes i Gassled gjelder følgende:
+
+1. Vederlaget skal bestå i omfordeling av eierandelene i Gassled mellom rettighetshaverne i Gassled og rettighetshaverne i det innlemmede transportanlegget.
+2. Grunnlag for skattemessige avskrivninger og friinntekt knyttet til investeringer i det innlemmede transportanlegget beholdes av selskapene som har foretatt investeringene.
+3. Eventuelle gevinster eller tap som følge av transaksjonen skal ikke gis skattemessig virkning ved skattefastsettingen.
+4. Bestemmelsene i [§ 3](forskrift/2009-07-01-956/§3) åttende til tiende ledd gjelder tilsvarende.
 
 > Endret ved [forskrifter 1 juli 2011 nr. 754](forskrift/2011-07-01-754) (tidligere § 7), [9 des 2016 nr. 1549](forskrift/2016-12-09-1549) (i kraft 1 jan 2017).
 

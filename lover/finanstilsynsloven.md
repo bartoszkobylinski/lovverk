@@ -15,7 +15,7 @@ xml_hash: "1c69fe4ff8a2d5f8182050de636ecd170c662c3ae9a503f3eeee5d84327c84ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -35,7 +35,30 @@ Finanstilsynets virksomhet etter denne loven skal bidra til finansiell stabilite
 
 ### § 1-2. Hvem det føres tilsyn med
 
-(1) Finanstilsynet fører etter denne loven tilsyn med:bankerkredittforetakfinansieringsforetakbetalingsforetak og opplysningsfullmektigere-pengeforetakskadeforsikringsforetak, herunder utenlandske skadeforsikringsforetaks generalagent (hovedagent) i Norge, og gjenforsikringsforetaklivsforsikringsforetak, herunder utenlandske livsforsikringsforetaks generalagent (hovedagent) i Norgekredittforsikringsforetakinnskuddspensjonsforetaksjøtrygdelagprivate, kommunale og fylkeskommunale pensjonskasser og pensjonsfond samt Norges Banks pensjonskasseforsikringsformidlingsforetaklåneformidlingsforetakregulerte markederverdipapirsentralerverdipapirforetak og andre foretak som driver virksomhet i forbindelse med verdipapirhandel, samt med overholdelsen av bestemmelser om verdipapirhandel gitt i eller i medhold av lovstatsautoriserte revisorer og revisjonsselskaperstatsautoriserte regnskapsførere og regnskapselskaperfilial av utenlandsk kredittinstitusjon for så vidt gjelder virksomhet som drives i Norgeutenlandske finansforetaks representasjonskontorer i Norgeandre foretak, når det er fastsatt i eller i medhold av lovandre foretak, når det besluttes ved enkeltvedtak i medhold av lov.
+(1) Finanstilsynet fører etter denne loven tilsyn med:
+
+1. banker
+2. kredittforetak
+3. finansieringsforetak
+4. betalingsforetak og opplysningsfullmektiger
+5. e-pengeforetak
+6. skadeforsikringsforetak, herunder utenlandske skadeforsikringsforetaks generalagent (hovedagent) i Norge, og gjenforsikringsforetak
+7. livsforsikringsforetak, herunder utenlandske livsforsikringsforetaks generalagent (hovedagent) i Norge
+8. kredittforsikringsforetak
+9. innskuddspensjonsforetak
+10. sjøtrygdelag
+11. private, kommunale og fylkeskommunale pensjonskasser og pensjonsfond samt Norges Banks pensjonskasse
+12. forsikringsformidlingsforetak
+13. låneformidlingsforetak
+14. regulerte markeder
+15. verdipapirsentraler
+16. verdipapirforetak og andre foretak som driver virksomhet i forbindelse med verdipapirhandel, samt med overholdelsen av bestemmelser om verdipapirhandel gitt i eller i medhold av lov
+17. statsautoriserte revisorer og revisjonsselskaper
+18. statsautoriserte regnskapsførere og regnskapselskaper
+19. filial av utenlandsk kredittinstitusjon for så vidt gjelder virksomhet som drives i Norge
+20. utenlandske finansforetaks representasjonskontorer i Norge
+21. andre foretak, når det er fastsatt i eller i medhold av lov
+22. andre foretak, når det besluttes ved enkeltvedtak i medhold av lov.
 
 (2) Når et foretak som nevnt i første ledd er en del av et konsern, skal det føres tilsyn etter denne loven også med andre foretak i konsernet. Når tilsynsmessige hensyn tilsier det, gjelder dette også den delen av virksomheten til foretakene i konsernet som ikke ellers omfattes av denne loven.
 
@@ -65,7 +88,10 @@ Finanstilsynets virksomhet etter denne loven skal bidra til finansiell stabilite
 
 (2) Kongen og departementet kan ikke av eget tiltak omgjøre Finanstilsynets vedtak, jf. [forvaltningsloven § 35](lov/1967-02-10/§35), med unntak av saker av prinsipiell eller stor samfunnsmessig betydning.
 
-(3) Begrensninger i instruksjons- og omgjøringsmyndighet etter første og annet ledd gjelder ikke for Finanstilsynets oppgaver og kompetansesom krisehåndteringsmyndighet som nevnt i [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3)etter [sikkerhetsloven](lov/2018-06-01-24).
+(3) Begrensninger i instruksjons- og omgjøringsmyndighet etter første og annet ledd gjelder ikke for Finanstilsynets oppgaver og kompetanse
+
+1. som krisehåndteringsmyndighet som nevnt i [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3)
+2. etter [sikkerhetsloven](lov/2018-06-01-24).
 
 > Endret ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
@@ -117,7 +143,26 @@ Finanstilsynets styremedlemmer og ansatte kan ikke være ansatt eller ha lønnet
 
 (1) Finanstilsynets styremedlemmer og ansatte, samt sakkyndige som Finanstilsynet har engasjert i medhold av [§ 6-2](lov/2024-06-21-41/§6-2), har taushetsplikt overfor uvedkommende om det som de i sitt arbeid får kjennskap til om en kundes forhold. De må heller ikke gjøre bruk av det i ervervsvirksomhet. Taushetsplikten etter denne loven og [forvaltningsloven](lov/1967-02-10) gjelder også for personer og institusjoner som mottar opplysninger underlagt lovpålagt taushetsplikt fra Finanstilsynet.
 
-(2) Taushetsplikten etter denne loven og [forvaltningsloven](lov/1967-02-10) gjelder ikke overfor følgende institusjoner når opplysningene er nødvendige for at institusjonen skal kunne utføre oppgaver som følger av lov eller regler fastsatt med hjemmel i lov:Norges BankBankenes sikringsfondDen europeiske sentralbank og andre EØS-staters sentralbankerandre EØS-staters innskuddsgarantiordningerandre EØS-staters krisehåndteringsmyndigheterSingle Resolution Boardandre lands departementer som deltar i et kriseutvalg, jf. [finansforetaksloven § 20-46](lov/2015-04-10-17/§20-46)tilsynsmyndigheter som fører tilsyn som nevnt i [§ 1-2](lov/2024-06-21-41/§1-2), herunder Den europeiske banktilsynsmyndighet, Den europeiske tilsynsmyndighet for forsikring og tjenestepensjoner og Den europeiske verdipapir- og markedstilsynsmyndighetDet europeiske systemrisikorådetDet internasjonale valutafondetVerdensbankenDen internasjonale oppgjørsbankenRådet for finansiell stabilitetEFTAs overvåkningsorganNasjonal sikkerhetsmyndighetregulert marked med tillatelse etter [verdipapirhandelloven](lov/2007-06-29-75)verdipapirsentral med tillatelse etter [verdipapirsentralloven](lov/2019-03-15-6)sentral motpart med tillatelse etter [verdipapirhandelloven](lov/2007-06-29-75).
+(2) Taushetsplikten etter denne loven og [forvaltningsloven](lov/1967-02-10) gjelder ikke overfor følgende institusjoner når opplysningene er nødvendige for at institusjonen skal kunne utføre oppgaver som følger av lov eller regler fastsatt med hjemmel i lov:
+
+1. Norges Bank
+2. Bankenes sikringsfond
+3. Den europeiske sentralbank og andre EØS-staters sentralbanker
+4. andre EØS-staters innskuddsgarantiordninger
+5. andre EØS-staters krisehåndteringsmyndigheter
+6. Single Resolution Board
+7. andre lands departementer som deltar i et kriseutvalg, jf. [finansforetaksloven § 20-46](lov/2015-04-10-17/§20-46)
+8. tilsynsmyndigheter som fører tilsyn som nevnt i [§ 1-2](lov/2024-06-21-41/§1-2), herunder Den europeiske banktilsynsmyndighet, Den europeiske tilsynsmyndighet for forsikring og tjenestepensjoner og Den europeiske verdipapir- og markedstilsynsmyndighet
+9. Det europeiske systemrisikorådet
+10. Det internasjonale valutafondet
+11. Verdensbanken
+12. Den internasjonale oppgjørsbanken
+13. Rådet for finansiell stabilitet
+14. EFTAs overvåkningsorgan
+15. Nasjonal sikkerhetsmyndighet
+16. regulert marked med tillatelse etter [verdipapirhandelloven](lov/2007-06-29-75)
+17. verdipapirsentral med tillatelse etter [verdipapirsentralloven](lov/2019-03-15-6)
+18. sentral motpart med tillatelse etter [verdipapirhandelloven](lov/2007-06-29-75).
 
 (3) Departementet kan gi forskrift om at taushetsplikten ikke skal gjelde overfor krisehåndteringsmyndigheter, og tilsynsmyndigheter når disse fører tilsvarende tilsyn som nevnt i [§ 1-2](lov/2024-06-21-41/§1-2), fra land utenfor EØS. Departementet kan gi forskrift om Finanstilsynets utveksling av opplysninger med de myndigheter, organer og foretak taushetsplikten ikke gjelder overfor.
 
@@ -145,9 +190,16 @@ Finanstilsynets styremedlemmer og ansatte kan ikke være ansatt eller ha lønnet
 
 (1) Finanstilsynet kan pålegge revisor for et foretak under tilsyn å gjøre nærmere rede for bestemte forhold når det er av betydning for tilsynet med foretaket.
 
-(2) Revisor som reviderer årsregnskapet eller avgir revisorbekreftelser for foretak som nevnt i [§ 1-2](lov/2024-06-21-41/§1-2) første ledd, plikter uten ugrunnet opphold å rapportere til Finanstilsynet ethvert forhold som revisor blir kjent med under utførelsen av revisjonen av årsregnskapet eller i arbeidet med revisorbekreftelser, hvis forholdet kan:innebære en overtredelse av bestemmelser som regulerer foretakets virksomhet, dersom overtredelsen kan medføre tilbakekall av foretakets tillatelse til å drive virksomhetmedføre vesentlig usikkerhet om foretakets evne til fortsatt drift, ellermedføre at revisor i revisjonsberetningen konkluderer negativt eller med forbehold, eller med at revisor ikke kan uttale seg.
+(2) Revisor som reviderer årsregnskapet eller avgir revisorbekreftelser for foretak som nevnt i [§ 1-2](lov/2024-06-21-41/§1-2) første ledd, plikter uten ugrunnet opphold å rapportere til Finanstilsynet ethvert forhold som revisor blir kjent med under utførelsen av revisjonen av årsregnskapet eller i arbeidet med revisorbekreftelser, hvis forholdet kan:
 
-(3) Rapporteringsplikten etter annet ledd gjelder tilsvarende for forhold som revisor blir kjent med under utførelsen av revisjonen av årsregnskapet eller i arbeidet med revisorbekreftelser for foretak som foretaket under tilsyn har nære forbindelser med. Med nære forbindelser menes en situasjon der to eller flere fysiske eller juridiske personer er knyttet til hverandre veddeltakerinteresse, det vil si ved å ha eller kontrollere minst 20 prosent av et foretaks stemmeretter eller kapital, ellerkontroll, det vil si ved en forbindelse mellom et hovedforetak og et underforetak eller ved en tilsvarende forbindelse mellom enhver fysisk eller juridisk person og et foretak. Kontroll anses som hovedregel å foreligge der personer eller foretak eier eller kontrollerer minst 20 prosent av aksjene eller stemmene i foretaket under tilsyn, og der foretaket under tilsyn eier eller kontrollerer minst 20 prosent av aksjene eller stemmene i et foretak, eller der foretak inngår i samme konsern som foretaket under tilsyn. Ethvert underforetak av et underforetak anses også som datterforetak av hovedforetaket som står i spissen for foretakene. En situasjon der to eller flere fysiske eller juridiske personer er varig knyttet til en person ved kontroll, anses også som en nær forbindelse mellom slike personer. Departementet kan i forskrift gi nærmere regler om hva som skal regnes som nære forbindelser.
+1. innebære en overtredelse av bestemmelser som regulerer foretakets virksomhet, dersom overtredelsen kan medføre tilbakekall av foretakets tillatelse til å drive virksomhet
+2. medføre vesentlig usikkerhet om foretakets evne til fortsatt drift, eller
+3. medføre at revisor i revisjonsberetningen konkluderer negativt eller med forbehold, eller med at revisor ikke kan uttale seg.
+
+(3) Rapporteringsplikten etter annet ledd gjelder tilsvarende for forhold som revisor blir kjent med under utførelsen av revisjonen av årsregnskapet eller i arbeidet med revisorbekreftelser for foretak som foretaket under tilsyn har nære forbindelser med. Med nære forbindelser menes en situasjon der to eller flere fysiske eller juridiske personer er knyttet til hverandre ved
+
+1. deltakerinteresse, det vil si ved å ha eller kontrollere minst 20 prosent av et foretaks stemmeretter eller kapital, eller
+2. kontroll, det vil si ved en forbindelse mellom et hovedforetak og et underforetak eller ved en tilsvarende forbindelse mellom enhver fysisk eller juridisk person og et foretak. Kontroll anses som hovedregel å foreligge der personer eller foretak eier eller kontrollerer minst 20 prosent av aksjene eller stemmene i foretaket under tilsyn, og der foretaket under tilsyn eier eller kontrollerer minst 20 prosent av aksjene eller stemmene i et foretak, eller der foretak inngår i samme konsern som foretaket under tilsyn. Ethvert underforetak av et underforetak anses også som datterforetak av hovedforetaket som står i spissen for foretakene. En situasjon der to eller flere fysiske eller juridiske personer er varig knyttet til en person ved kontroll, anses også som en nær forbindelse mellom slike personer. Departementet kan i forskrift gi nærmere regler om hva som skal regnes som nære forbindelser.
 
 (4) Revisor som nevnt i annet ledd og revisor i noterte foretak, som trekker seg etter [revisorloven § 9-6](lov/2020-11-20-128/§9-6), skal sende begrunnelse for fratredelsen til Finanstilsynet. Revisor skal rapportere til Finanstilsynet hvis foretaket velger en ny revisor på ekstraordinær generalforsamling eller revisjonsoppdraget på annen måte utløper før utløpet av tjenestetiden.
 
@@ -209,7 +261,11 @@ Finanstilsynet kan innkalle til møter i styre, kontrollkomité og representants
 
 ### § 5-1. Finanstilsynsklagenemnda
 
-(1) Klage over vedtak truffet av Finanstilsynet skal behandles av Finanstilsynsklagenemnda. Dette gjelder likevel ikke klage over vedtaksom nevnt i [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3) om krisehåndteringsmyndighetetter [gjeldsinformasjonsloven](lov/2017-06-16-47)etter [sikkerhetsloven](lov/2018-06-01-24).
+(1) Klage over vedtak truffet av Finanstilsynet skal behandles av Finanstilsynsklagenemnda. Dette gjelder likevel ikke klage over vedtak
+
+1. som nevnt i [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3) om krisehåndteringsmyndighet
+2. etter [gjeldsinformasjonsloven](lov/2017-06-16-47)
+3. etter [sikkerhetsloven](lov/2018-06-01-24).
 
 (2) Finanstilsynsklagenemnda kan ikke instrueres om behandlingen av den enkelte klagesak. Departementets generelle instrukser og instrukser i medhold av [§ 1-4 første ledd](lov/2024-06-21-41/§1-4/ledd/1) rettet mot Finanstilsynet skal legges til grunn av klagenemnda i dens behandling av klagesaker.
 
@@ -237,7 +293,15 @@ Finanstilsynet kan innkalle til møter i styre, kontrollkomité og representants
 
 (1) Finanstilsynets og Finanstilsynsklagenemndas utgifter skal fordeles på de foretak som etter [§ 1-2](lov/2024-06-21-41/§1-2) er under tilsyn, og på utstedere av omsettelige verdipapirer som er notert på regulert marked i EØS med Norge som hjemstat, i budsjettåret. Utgiftene fordeles på de ulike grupper av foretak basert på Finanstilsynets relative ressursbruk etter nærmere regler fastsatt i forskrift.
 
-(2) Departementet kan gi forskrift om den nærmere utgiftsfordelingen, herunderinndeling av grupper som nevnt i første leddberegningsgrunnlaget for fordeling av utgiftene innen de ulike grupper av foretak, herunder tidspunktet for fastsettelse av beregningsgrunnlagethvilke foretak som skal regnes for å være under tilsyn eller notert på regulert marked i EØS med Norge som hjemstat i budsjettåretplikt til å betale gebyr for Finanstilsynets behandling av konsesjonssøknader og saker som gjelder rett til å markedsføre fond i Norge fra utenlandske foretakfastsettelse av årlige minste og høyeste beløp som kan fordeles på det enkelte foretak innen hver gruppe av foretakfordelingen av Finanstilsynsklagenemndas utgifter mellom og innad i gruppene av foretakat grupper av foretak skal unntas fra fordelingen av utgifter etter bestemmelsen her eller forskrifter gitt i medhold av denne bestemmelsen.
+(2) Departementet kan gi forskrift om den nærmere utgiftsfordelingen, herunder
+
+1. inndeling av grupper som nevnt i første ledd
+2. beregningsgrunnlaget for fordeling av utgiftene innen de ulike grupper av foretak, herunder tidspunktet for fastsettelse av beregningsgrunnlaget
+3. hvilke foretak som skal regnes for å være under tilsyn eller notert på regulert marked i EØS med Norge som hjemstat i budsjettåret
+4. plikt til å betale gebyr for Finanstilsynets behandling av konsesjonssøknader og saker som gjelder rett til å markedsføre fond i Norge fra utenlandske foretak
+5. fastsettelse av årlige minste og høyeste beløp som kan fordeles på det enkelte foretak innen hver gruppe av foretak
+6. fordelingen av Finanstilsynsklagenemndas utgifter mellom og innad i gruppene av foretak
+7. at grupper av foretak skal unntas fra fordelingen av utgifter etter bestemmelsen her eller forskrifter gitt i medhold av denne bestemmelsen.
 
 (3) Ilagte bidrag er tvangsgrunnlag for utlegg.
 

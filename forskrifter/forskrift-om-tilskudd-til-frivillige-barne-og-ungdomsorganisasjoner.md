@@ -30,7 +30,11 @@ Målet med tilskuddsordningene er å legge til rette for barn og ungdoms deltake
 
 ### § 1-2. Tilskuddsformer
 
-Denne forskriften inneholder bestemmelser om følgende former for tilskudd:grunnstøtte til nasjonalt arbeid, se [kapittel 4](forskrift/2022-01-18-90/kap4) og [5](forskrift/2022-01-18-90/kap5),etablerings- og uttrappingstilskudd, se [kapittel 6](forskrift/2022-01-18-90/kap6), oggrunnstøtte til internasjonalt arbeid, se [kapittel 7](forskrift/2022-01-18-90/kap7).
+Denne forskriften inneholder bestemmelser om følgende former for tilskudd:
+
+1. grunnstøtte til nasjonalt arbeid, se [kapittel 4](forskrift/2022-01-18-90/kap4) og [5](forskrift/2022-01-18-90/kap5),
+2. etablerings- og uttrappingstilskudd, se [kapittel 6](forskrift/2022-01-18-90/kap6), og
+3. grunnstøtte til internasjonalt arbeid, se [kapittel 7](forskrift/2022-01-18-90/kap7).
 
 ### § 1-3. Kriterier for måloppnåelse
 
@@ -100,7 +104,15 @@ Styremedlemmer som er valgt som representanter for de ansatte regnes ikke med ve
 
 ### § 2-8. Andre definisjoner
 
-I denne forskriften betyr*departementet:* ansvarlig departement for tilskuddsordningene,*organisasjon:* frivillig, landsomfattende organisasjon som faller inn under forskriften, når ikke annet kommer frem av sammenhengen,*selvstendig organisasjon:* en organisasjon med kontroll over egen økonomi og aktivitet, egne vedtekter og et landsmøte som har fullmakt til å fatte endelig vedtak i alle saker,*sentralstyre:* det styret som er valgt av landsmøtet og er organisasjonens øverste styre mellom landsmøter og ev. representative landsstyremøter,*grunnlagsår:* det kalenderåret som er grunnlag for opplysninger om antall medlemmer, lokallag, fylker etc. i søknad om tilskudd,*søknadsår:* det kalenderåret søknadsfristen utløper, dvs. året etter grunnlagsåret,*tilskuddsår:* det kalenderåret søknaden gjelder og tilskudd utbetales i, dvs. året etter søknadsåret.
+I denne forskriften betyr
+
+1. *departementet:* ansvarlig departement for tilskuddsordningene,
+2. *organisasjon:* frivillig, landsomfattende organisasjon som faller inn under forskriften, når ikke annet kommer frem av sammenhengen,
+3. *selvstendig organisasjon:* en organisasjon med kontroll over egen økonomi og aktivitet, egne vedtekter og et landsmøte som har fullmakt til å fatte endelig vedtak i alle saker,
+4. *sentralstyre:* det styret som er valgt av landsmøtet og er organisasjonens øverste styre mellom landsmøter og ev. representative landsstyremøter,
+5. *grunnlagsår:* det kalenderåret som er grunnlag for opplysninger om antall medlemmer, lokallag, fylker etc. i søknad om tilskudd,
+6. *søknadsår:* det kalenderåret søknadsfristen utløper, dvs. året etter grunnlagsåret,
+7. *tilskuddsår:* det kalenderåret søknaden gjelder og tilskudd utbetales i, dvs. året etter søknadsåret.
 
 ## Kapittel 3. Dokumentasjon
 
@@ -122,21 +134,47 @@ Ved lokal innkreving skal det enkelte lokalledd føre liste over medlemmer og te
 
 ### § 3-3. Dokumentasjon av tellende lokallag
 
-Som dokumentasjon av tellende lokallag kreves:årsrapport for det enkelte grunnlagsåret, se [§ 2-4](forskrift/2022-01-18-90/§2-4) og [§ 2-5](forskrift/2022-01-18-90/§2-5),oversikt over antall tellende medlemmer i lokallaget,adresser til styrets medlemmer. Adressene til styrets medlemmer må finnes i medlemsregisteret og kunne vises eller skaffes frem ved kontroll, oglokallagets vedtekter, dersom beskrivelse av formål, graden av selvstendighet, organisasjonsform og oppbygning av lokalleddet ikke allerede er dekket i sentralleddets vedtekter. Vedtekter som oppbevares lokalt må kunne fremskaffes dersom Fordelingsutvalget ber om det.
+Som dokumentasjon av tellende lokallag kreves:
+
+1. årsrapport for det enkelte grunnlagsåret, se [§ 2-4](forskrift/2022-01-18-90/§2-4) og [§ 2-5](forskrift/2022-01-18-90/§2-5),
+2. oversikt over antall tellende medlemmer i lokallaget,
+3. adresser til styrets medlemmer. Adressene til styrets medlemmer må finnes i medlemsregisteret og kunne vises eller skaffes frem ved kontroll, og
+4. lokallagets vedtekter, dersom beskrivelse av formål, graden av selvstendighet, organisasjonsform og oppbygning av lokalleddet ikke allerede er dekket i sentralleddets vedtekter. Vedtekter som oppbevares lokalt må kunne fremskaffes dersom Fordelingsutvalget ber om det.
 
 ### § 3-4. Dokumentasjon av kurs
 
-For dokumentasjon av deltakerdager på sentrale kurs kreves:kursinvitasjon,spesifisert program slik det ble gjennomført, med kursinnhold og tidspunkter for programpostene,deltakerlister med navn, adresse, og fødselsår. Deltakerlistene for hvert kurs skal dateres og signeres av kursleder, og skal vise om deltakerne har vært til stede minst 75 % av tiden,kort beskrivelse av hvordan sentralleddet var faglig og økonomisk ansvarlig for kurset.
+For dokumentasjon av deltakerdager på sentrale kurs kreves:
+
+1. kursinvitasjon,
+2. spesifisert program slik det ble gjennomført, med kursinnhold og tidspunkter for programpostene,
+3. deltakerlister med navn, adresse, og fødselsår. Deltakerlistene for hvert kurs skal dateres og signeres av kursleder, og skal vise om deltakerne har vært til stede minst 75 % av tiden,
+4. kort beskrivelse av hvordan sentralleddet var faglig og økonomisk ansvarlig for kurset.
 
 ### § 3-5. Dokumentasjon av sentralstyrets sammensetning
 
-Som dokumentasjon av sentralstyrets sammensetning kreves:en oversikt over navn, kjønn, fødselsår og innvelgingstidspunkt for de personene som var medlem av sentralstyret 31. desember i grunnlagsåret, ogunderskrevet protokoll fra møtet hvor styret ble valgt.
+Som dokumentasjon av sentralstyrets sammensetning kreves:
+
+1. en oversikt over navn, kjønn, fødselsår og innvelgingstidspunkt for de personene som var medlem av sentralstyret 31. desember i grunnlagsåret, og
+2. underskrevet protokoll fra møtet hvor styret ble valgt.
 
 ### § 3-6. Dokumentasjon av internasjonale aktiviteter
 
-Som dokumentasjon for internasjonale aktiviteter som gir poeng for grunnstøtte til internasjonalt arbeid kreves:program, rapport eller liknende som viser hva slags aktivitet som er blitt gjennomført,navn og adresse på deltakerne:på aktiviteter utenfor Norge: navn og adresse på deltakerne som representerte organisasjonen.på aktiviteter i Norge: navn og adresse på de internasjonale deltakerne.dokumentasjon som sannsynliggjør at deltakerne har deltatt på aktiviteten:bekreftelse med kontaktinformasjon fra en internasjonal aktør som var arrangør av eller deltaker på tiltaket, spesielt ved aktiviteter i Norge,dokumentasjon som er laget i etterkant av aktiviteten, som signerte referater eller protokoller, eller «rapporter» på hjemmesider eller sosiale medier, ellerkvitteringer for transport og opphold sammen med invitasjon og annen korrespondanse som sannsynliggjør at deltakerne har deltatt på aktiviteten.
+Som dokumentasjon for internasjonale aktiviteter som gir poeng for grunnstøtte til internasjonalt arbeid kreves:
 
-Som dokumentasjon for internasjonale prosjekter kreves:prosjektrapport fra en internasjonalt basert aktør i prosjektet, enten egen eller ekstern.
+1. program, rapport eller liknende som viser hva slags aktivitet som er blitt gjennomført,
+2. navn og adresse på deltakerne:
+
+   1. på aktiviteter utenfor Norge: navn og adresse på deltakerne som representerte organisasjonen.
+   2. på aktiviteter i Norge: navn og adresse på de internasjonale deltakerne.
+3. dokumentasjon som sannsynliggjør at deltakerne har deltatt på aktiviteten:
+
+   1. bekreftelse med kontaktinformasjon fra en internasjonal aktør som var arrangør av eller deltaker på tiltaket, spesielt ved aktiviteter i Norge,
+   2. dokumentasjon som er laget i etterkant av aktiviteten, som signerte referater eller protokoller, eller «rapporter» på hjemmesider eller sosiale medier, eller
+   3. kvitteringer for transport og opphold sammen med invitasjon og annen korrespondanse som sannsynliggjør at deltakerne har deltatt på aktiviteten.
+
+Som dokumentasjon for internasjonale prosjekter kreves:
+
+1. prosjektrapport fra en internasjonalt basert aktør i prosjektet, enten egen eller ekstern.
 
 Dersom Fordelingsutvalget ser det som nødvendig, kan det be om dokumentasjon av ekstern finansiering av internasjonale aktiviteter.
 
@@ -144,7 +182,21 @@ Dersom Fordelingsutvalget ser det som nødvendig, kan det be om dokumentasjon av
 
 ### § 4-1. Kriterier en søker må oppfylle for å kunne få tilskudd
 
-For å kunne motta tilskudd gjennom denne tilskuddsordningen må organisasjonen på søknadstidspunktet:kunne vise at organisasjonen arbeider for barn og ungdom med spørsmål som gjelder barn og ungdom, og har barn og ungdom som deltakere i sine aktiviteter,ha eksistert i minst 2 år fra stiftelsestidspunktet. Organisasjonen må kunne vise frem stiftelsesdokument og eksempler på aktiviteter som er gjennomført i organisasjonen. Kravet til å ha eksistert i 2 år gjelder ikke om en barne- og ungdomsstruktur skilles ut fra en moderorganisasjon som allerede mottar tilskudd gjennom denne tilskuddsordningen eller dersom en organisasjon som mottar tilskudd fra denne tilskuddsordningen slår seg sammen med andre organisasjoner. Medlemmer som skal kunne regnes som tellende medlemmer i den nye organisasjonen, se [§ 2-1](forskrift/2022-01-18-90/§2-1) og [§ 2-3](forskrift/2022-01-18-90/§2-3), må ha bekreftet skriftlig at de ønsker å bli med over i den nye organisasjonen,ha organisasjonsnummer,ha egne vedtekter som viser formål, selvstendighet, organisasjonsform og oppbygging for sentralledd, og eventuelle regionalledd og lokalledd, samt medlemmenes demokratiske rettigheter,ha egne vedtekter som viser at de har en ideell (ikke-kommersiell) målsetning og at eventuelt overskudd tilfaller organisasjonen eller andre samfunnsnyttige formål,ha et landsmøte minst hvert fjerde år. Representanter med rett til å stemme på landsmøtet skal være valgt av og blant medlemmene i organisasjonens lokale eller regionale ledd og eventuelle direktemedlemmer. Det valgte, sittende sentralstyret og representanter valgt av og blant de ansatte kan også møte med stemmerett på landsmøtet,ha et sentralstyre valgt av landsmøtet, som har den daglige og/eller øverste ledelse av organisasjonen mellom landsmøtene,ha et eget styre for barne- og ungdomsarbeidet, dersom organisasjonen har hatt færre enn 50 % tellende medlemmer i de tre påfølgende årene før grunnlagsåret,ha minst én ansatt som har ansvaret for barne- og ungdomsarbeidet,være bygget opp på en demokratisk måte som sikrer at alle tellende medlemmer som har fylt 15 år har fulle demokratiske rettigheter i organisasjonen, dvs. stemmerett, lik møterett, tale- og forslagsrett, og rett til å la seg velge som representant,ha egne vedtekter som sikrer at også medlemmer under 15 år har arenaer hvor de kan fremme sine synspunkter eller påvirke arbeidet i organisasjonen,ha egne vedtekter som ikke skaper hindre for full deltakelse for barn og ungdom fra alle samfunnsgrupper, uavhengig av kjønn, etnisitet, religion, nedsatt funksjonsevne eller seksuell orientering. Forskjellsbehandling som er nødvendig for å oppnå et saklig formål, og som ikke griper uforholdsmessig inn overfor den eller de som forskjellsbehandles, anses ikke å være i strid med dette kravet, ogha eget budsjett, årsregnskap og årsmelding. Organisasjoner med mindre enn 50 % tellende medlemmer i de tre siste årene før grunnlagsåret må beskrive barne- og ungdomsarbeidet i årsmeldingen og dokumentere kostnadene til barne- og ungdomsarbeidet på en slik måte at Fordelingsutvalget kan skille barne- og ungdomsarbeidet fra organisasjonens virksomhet for voksne.
+For å kunne motta tilskudd gjennom denne tilskuddsordningen må organisasjonen på søknadstidspunktet:
+
+1. kunne vise at organisasjonen arbeider for barn og ungdom med spørsmål som gjelder barn og ungdom, og har barn og ungdom som deltakere i sine aktiviteter,
+2. ha eksistert i minst 2 år fra stiftelsestidspunktet. Organisasjonen må kunne vise frem stiftelsesdokument og eksempler på aktiviteter som er gjennomført i organisasjonen. Kravet til å ha eksistert i 2 år gjelder ikke om en barne- og ungdomsstruktur skilles ut fra en moderorganisasjon som allerede mottar tilskudd gjennom denne tilskuddsordningen eller dersom en organisasjon som mottar tilskudd fra denne tilskuddsordningen slår seg sammen med andre organisasjoner. Medlemmer som skal kunne regnes som tellende medlemmer i den nye organisasjonen, se [§ 2-1](forskrift/2022-01-18-90/§2-1) og [§ 2-3](forskrift/2022-01-18-90/§2-3), må ha bekreftet skriftlig at de ønsker å bli med over i den nye organisasjonen,
+3. ha organisasjonsnummer,
+4. ha egne vedtekter som viser formål, selvstendighet, organisasjonsform og oppbygging for sentralledd, og eventuelle regionalledd og lokalledd, samt medlemmenes demokratiske rettigheter,
+5. ha egne vedtekter som viser at de har en ideell (ikke-kommersiell) målsetning og at eventuelt overskudd tilfaller organisasjonen eller andre samfunnsnyttige formål,
+6. ha et landsmøte minst hvert fjerde år. Representanter med rett til å stemme på landsmøtet skal være valgt av og blant medlemmene i organisasjonens lokale eller regionale ledd og eventuelle direktemedlemmer. Det valgte, sittende sentralstyret og representanter valgt av og blant de ansatte kan også møte med stemmerett på landsmøtet,
+7. ha et sentralstyre valgt av landsmøtet, som har den daglige og/eller øverste ledelse av organisasjonen mellom landsmøtene,
+8. ha et eget styre for barne- og ungdomsarbeidet, dersom organisasjonen har hatt færre enn 50 % tellende medlemmer i de tre påfølgende årene før grunnlagsåret,
+9. ha minst én ansatt som har ansvaret for barne- og ungdomsarbeidet,
+10. være bygget opp på en demokratisk måte som sikrer at alle tellende medlemmer som har fylt 15 år har fulle demokratiske rettigheter i organisasjonen, dvs. stemmerett, lik møterett, tale- og forslagsrett, og rett til å la seg velge som representant,
+11. ha egne vedtekter som sikrer at også medlemmer under 15 år har arenaer hvor de kan fremme sine synspunkter eller påvirke arbeidet i organisasjonen,
+12. ha egne vedtekter som ikke skaper hindre for full deltakelse for barn og ungdom fra alle samfunnsgrupper, uavhengig av kjønn, etnisitet, religion, nedsatt funksjonsevne eller seksuell orientering. Forskjellsbehandling som er nødvendig for å oppnå et saklig formål, og som ikke griper uforholdsmessig inn overfor den eller de som forskjellsbehandles, anses ikke å være i strid med dette kravet, og
+13. ha eget budsjett, årsregnskap og årsmelding. Organisasjoner med mindre enn 50 % tellende medlemmer i de tre siste årene før grunnlagsåret må beskrive barne- og ungdomsarbeidet i årsmeldingen og dokumentere kostnadene til barne- og ungdomsarbeidet på en slik måte at Fordelingsutvalget kan skille barne- og ungdomsarbeidet fra organisasjonens virksomhet for voksne.
 
 ### § 4-2. Størrelsen på organisasjoner som kan få tilskudd
 
@@ -156,7 +208,13 @@ I særlige tilfeller, der det på grunn av organisasjonens rekrutteringsgrunnlag
 
 ### § 4-3. Organisasjoner som ikke kan få tilskudd
 
-Tilskudd gis ikke til:interesseorganisasjoner for barn og ungdom i utdanning,idretts- og gymnastikkorganisasjoner,organisasjoner som har forretningsdrift som formål eller som tjener utenforstående kommersielle interesser,organisasjoner som er i strid med norsk lovgiving eller har ulovlig eller støtende formål, inkludert rasistiske organisasjoner, organisasjoner som diskriminerer mennesker og spilleklubber med pengeinnsats, ellerorganisasjoner som fremmer negative holdninger til mennesker på basis av kjønn, etnisitet, religion, nedsatt funksjonsevne eller seksuell orientering.
+Tilskudd gis ikke til:
+
+1. interesseorganisasjoner for barn og ungdom i utdanning,
+2. idretts- og gymnastikkorganisasjoner,
+3. organisasjoner som har forretningsdrift som formål eller som tjener utenforstående kommersielle interesser,
+4. organisasjoner som er i strid med norsk lovgiving eller har ulovlig eller støtende formål, inkludert rasistiske organisasjoner, organisasjoner som diskriminerer mennesker og spilleklubber med pengeinnsats, eller
+5. organisasjoner som fremmer negative holdninger til mennesker på basis av kjønn, etnisitet, religion, nedsatt funksjonsevne eller seksuell orientering.
 
 Partipolitiske ungdomsorganisasjoner kan ikke motta nasjonal grunnstøtte eller etableringstilskudd, men kan motta internasjonal grunnstøtte etter reglene i denne forskriften, se [kapittel 7](forskrift/2022-01-18-90/kap7). Forskriften gjelder da fullt ut.
 
@@ -174,9 +232,36 @@ Departementet fastsetter størrelsen på det årlige basistilskuddet. Basistilsk
 
 Det variable tilskuddet regnes ut på bakgrunn av organisasjonens grunnpoeng og bonuspoeng.
 
-Grunnpoeng beregnes på bakgrunn av:Antall tellende medlemmer, etter følgende poengberegning:1 til og med 1 999: 5 poeng per medlem,2 000 til og med 4 999: 3 poeng per medlem,5 000 til og med 9 999: 2 poeng per medlem,10 000 til og med 19 999: 1 poeng per medlem,20 000 og over: 0,5 poeng per medlem.Antall tellende lokallag, etter følgende poengberegning:1 til og med 299: 50 poeng per lokallag,300 til og med 599: 30 poeng per lokallag,600 og over: 10 poeng per lokallag.Antall deltakerdager på kurs, som er antall tellende deltakere ganget med antall kursdager, etter følgende poengberegning:1 til og med 499 deltakerdager: 8 poeng pr. deltakerdag500 til og med 999 deltakerdager: 4 poeng pr. deltakerdag1 000 til og med 1 999 deltakerdager: 2 poeng pr. deltakerdag2 000 til og med 3 999 deltakerdager: 1 poeng pr. deltakerdagFor flere enn 4 000 deltakerdager: 0,5 poeng pr. deltakerdag.Poeng basert på deltakerdager på kurs kan utgjøre maksimalt 50 % av en organisasjons bruttopoeng.
+Grunnpoeng beregnes på bakgrunn av:
 
-Bonuspoeng beregnes på bakgrunn av:maksimum 60 % av ett kjønn i sentralstyret gir 10 % av grunnpoengene,mer enn 50 % medlemmer i sentralstyret under 27 år pr. 31. desember i grunnlagsåret gir 20 % av grunnpoengene. For å få bonuspoeng etter dette kriteriet må de medlemmene i sentralstyret som er under 27 år 31. desember i grunnlagsåret ha vært tellende medlemmer da de ble valgt inn i sentralstyret,minimum 50 % tellende medlemmer av det totale antallet medlemmer gir 60 % av grunnpoengene,selvstendighet, se [§ 2-8](forskrift/2022-01-18-90/§2-8) bokstav c, der minimum 50 % av organisasjonens totale antall medlemmer er tellende medlemmer gir 20 % av grunnpoengene.
+1. Antall tellende medlemmer, etter følgende poengberegning:
+
+   - 1 til og med 1 999: 5 poeng per medlem,
+   - 2 000 til og med 4 999: 3 poeng per medlem,
+   - 5 000 til og med 9 999: 2 poeng per medlem,
+   - 10 000 til og med 19 999: 1 poeng per medlem,
+   - 20 000 og over: 0,5 poeng per medlem.
+2. Antall tellende lokallag, etter følgende poengberegning:
+
+   - 1 til og med 299: 50 poeng per lokallag,
+   - 300 til og med 599: 30 poeng per lokallag,
+   - 600 og over: 10 poeng per lokallag.
+3. Antall deltakerdager på kurs, som er antall tellende deltakere ganget med antall kursdager, etter følgende poengberegning:
+
+   - 1 til og med 499 deltakerdager: 8 poeng pr. deltakerdag
+   - 500 til og med 999 deltakerdager: 4 poeng pr. deltakerdag
+   - 1 000 til og med 1 999 deltakerdager: 2 poeng pr. deltakerdag
+   - 2 000 til og med 3 999 deltakerdager: 1 poeng pr. deltakerdag
+   - For flere enn 4 000 deltakerdager: 0,5 poeng pr. deltakerdag.
+
+   Poeng basert på deltakerdager på kurs kan utgjøre maksimalt 50 % av en organisasjons bruttopoeng.
+
+Bonuspoeng beregnes på bakgrunn av:
+
+1. maksimum 60 % av ett kjønn i sentralstyret gir 10 % av grunnpoengene,
+2. mer enn 50 % medlemmer i sentralstyret under 27 år pr. 31. desember i grunnlagsåret gir 20 % av grunnpoengene. For å få bonuspoeng etter dette kriteriet må de medlemmene i sentralstyret som er under 27 år 31. desember i grunnlagsåret ha vært tellende medlemmer da de ble valgt inn i sentralstyret,
+3. minimum 50 % tellende medlemmer av det totale antallet medlemmer gir 60 % av grunnpoengene,
+4. selvstendighet, se [§ 2-8](forskrift/2022-01-18-90/§2-8) bokstav c, der minimum 50 % av organisasjonens totale antall medlemmer er tellende medlemmer gir 20 % av grunnpoengene.
 
 Organisasjoner med et begrenset rekrutteringsgrunnlag som retter seg mot en målgruppe med en diagnose som har en vesentlig overhyppighet hos ett kjønn og som derfor ikke vil kunne oppfylle utmålingskriteriet etter tredje ledd bokstav a., vil få bonuspoeng tilsvarende 10 % av grunnpoengene.
 
@@ -198,13 +283,25 @@ Organisasjoner kan motta etableringstilskudd på bakgrunn av dokumentasjon fra s
 
 ### § 6-2. Utmåling av etableringstilskudd
 
-For organisasjoner som mottar etableringstilskudd, se [§ 6-1](forskrift/2022-01-18-90/§6-1), fastsettes tilskuddet skjønnsmessig. Fordelingsutvalget utmåler tilskuddet på grunnlag av:størrelsen på summen som er til fordeling,søknadene som er innkommet for tilskuddsåret,antallet tellende medlemmer, tellende lokallag og deltakerdager på kurs, samt andelen tellende medlemmer og styrets sammensetning,graden av demokrati og selvstendighet i barne- og ungdomsarbeidet,regnskapet for barne- og ungdomsarbeidet for grunnlagsåret,budsjettet og arbeidsplanen for barne- og ungdomsarbeidet for tilskuddsåret, ogsiste godkjente årsmelding.
+For organisasjoner som mottar etableringstilskudd, se [§ 6-1](forskrift/2022-01-18-90/§6-1), fastsettes tilskuddet skjønnsmessig. Fordelingsutvalget utmåler tilskuddet på grunnlag av:
+
+1. størrelsen på summen som er til fordeling,
+2. søknadene som er innkommet for tilskuddsåret,
+3. antallet tellende medlemmer, tellende lokallag og deltakerdager på kurs, samt andelen tellende medlemmer og styrets sammensetning,
+4. graden av demokrati og selvstendighet i barne- og ungdomsarbeidet,
+5. regnskapet for barne- og ungdomsarbeidet for grunnlagsåret,
+6. budsjettet og arbeidsplanen for barne- og ungdomsarbeidet for tilskuddsåret, og
+7. siste godkjente årsmelding.
 
 Etableringstilskudd kan gis i inntil fem år.
 
 ### § 6-3. Uttrappingstilskudd
 
-En organisasjon kan søke om uttrappingstilskudd når den har mottatt nasjonal grunnstøtte i de tre foregående tilskuddsårene, men ikke lenger oppfyller kravene til:antall tellende medlemmer,antall tellende lokallag, ellerantall fylker med tellende lokallag.
+En organisasjon kan søke om uttrappingstilskudd når den har mottatt nasjonal grunnstøtte i de tre foregående tilskuddsårene, men ikke lenger oppfyller kravene til:
+
+1. antall tellende medlemmer,
+2. antall tellende lokallag, eller
+3. antall fylker med tellende lokallag.
 
 ### § 6-4. Utmåling av uttrappingstilskudd
 
@@ -224,11 +321,20 @@ For aktiviteter som gjennomføres utenfor Norge, gis det bare poeng for deltaker
 
 Deltakelsen må være organisert eller koordinert av sentralleddet eller regionalledd i organisasjonen. Innholdet må ha en internasjonal karakter og ha deltakelse fra minst ett annet land. Organisasjoner med færre enn 50 % tellende medlemmer må ha barne- og ungdomsspørsmål som tema for aktiviteten(e).
 
-Følgende gir ikke poeng:sports- og idrettsaktiviteter av profesjonell karakter, inkludert deltakelse på aktiviteter der sport og idrett er hovedmålsettingen,aktiviteter som er en del av et utvekslingsprogram eller regnes som ungdomsutveksling,gjennomføring eller studier av utviklingsprosjekter i utviklingsland, misjonsprosjekter og lignende aktiviteter, oginternasjonale prosjekter som får støtte gjennom Erasmus +, EU, Norad eller Norec, Nordisk Ministerråd eller Utenriksdepartementet.
+Følgende gir ikke poeng:
+
+1. sports- og idrettsaktiviteter av profesjonell karakter, inkludert deltakelse på aktiviteter der sport og idrett er hovedmålsettingen,
+2. aktiviteter som er en del av et utvekslingsprogram eller regnes som ungdomsutveksling,
+3. gjennomføring eller studier av utviklingsprosjekter i utviklingsland, misjonsprosjekter og lignende aktiviteter, og
+4. internasjonale prosjekter som får støtte gjennom Erasmus +, EU, Norad eller Norec, Nordisk Ministerråd eller Utenriksdepartementet.
 
 ### § 7-3. Vekting og poengberegning
 
-En organisasjon gis følgende poeng:aktivitet som finner sted i Europa: 1 poeng per deltaker,aktivitet som finner sted utenfor Europa: 3 poeng per deltaker, ogprosjekter utenfor Norge: 30 poeng per prosjekt.
+En organisasjon gis følgende poeng:
+
+1. aktivitet som finner sted i Europa: 1 poeng per deltaker,
+2. aktivitet som finner sted utenfor Europa: 3 poeng per deltaker, og
+3. prosjekter utenfor Norge: 30 poeng per prosjekt.
 
 Deltakelse på flere aktiviteter under samme reise som foregår i samme land, blir bare godkjent som én aktivitet.
 
@@ -242,7 +348,12 @@ Grunnstøtten for den enkelte organisasjon utmåles etter antall internasjonale 
 
 Søknader om tilskudd etter denne forskriften sendes til Fordelingsutvalget på fastsatte skjemaer.
 
-For hvert år som en organisasjon søker nasjonal eller internasjonal grunnstøtte, etableringstilskudd eller uttrappingstilskudd, skal den legge ved:organisasjonens sist vedtatte årsmelding,årsregnskap, signert av styret i organisasjonen, og kontospesifisert årsregnskap for grunnlagsåret med revisjonsberetning fra statsautorisert revisor, se [§ 8-3](forskrift/2022-01-18-90/§8-3) fjerde ledd. Fordelingsutvalget kan gi retningslinjer om hvordan årsregnskapet skal være spesifisert. Tilskudd som er gitt etter forskriften og utbetalt i grunnlagsåret skal være spesifisert i årsregnskapet eller note til dette. Dersom en organisasjon som har mottatt tilskudd et år ikke mottar tilskudd påfølgende år, skal organisasjonen sende inn spesifisert årsregnskap som er signert av styret, med revisjonsberetning for de tilskuddsårene dette ikke er gjort for, Fordelingsutvalget skal sette en rimelig frist for når regnskapene skal sendes inn.organisasjonens vedtekter, dersom det er gjort endringer siden forrige søknad. Endringene skal markeres tydelig. Dersom endringene er av betydning for om organisasjonen er tilskuddsberettiget, skal organisasjonen gi en særskilt skriftlig redegjørelse om dette, ogarbeidsplan og budsjett for tilskuddsåret, dersom organisasjonen søker om etableringstilskudd.
+For hvert år som en organisasjon søker nasjonal eller internasjonal grunnstøtte, etableringstilskudd eller uttrappingstilskudd, skal den legge ved:
+
+1. organisasjonens sist vedtatte årsmelding,
+2. årsregnskap, signert av styret i organisasjonen, og kontospesifisert årsregnskap for grunnlagsåret med revisjonsberetning fra statsautorisert revisor, se [§ 8-3](forskrift/2022-01-18-90/§8-3) fjerde ledd. Fordelingsutvalget kan gi retningslinjer om hvordan årsregnskapet skal være spesifisert. Tilskudd som er gitt etter forskriften og utbetalt i grunnlagsåret skal være spesifisert i årsregnskapet eller note til dette. Dersom en organisasjon som har mottatt tilskudd et år ikke mottar tilskudd påfølgende år, skal organisasjonen sende inn spesifisert årsregnskap som er signert av styret, med revisjonsberetning for de tilskuddsårene dette ikke er gjort for, Fordelingsutvalget skal sette en rimelig frist for når regnskapene skal sendes inn.
+3. organisasjonens vedtekter, dersom det er gjort endringer siden forrige søknad. Endringene skal markeres tydelig. Dersom endringene er av betydning for om organisasjonen er tilskuddsberettiget, skal organisasjonen gi en særskilt skriftlig redegjørelse om dette, og
+4. arbeidsplan og budsjett for tilskuddsåret, dersom organisasjonen søker om etableringstilskudd.
 
 Når det er eller har vært tvil om søknadsgrunnlaget, kan Fordelingsutvalget kreve at det legges ved særattestasjon fra revisor. Departementet kan fastsette nærmere regler om særattestasjon for revisor for organisasjonene for de enkelte tilskuddsårene.
 
@@ -328,7 +439,19 @@ Vedtak om tilbakebetaling, bortfall og utelukkelse treffes av Fordelingsutvalget
 
 ### § 11-1. Departementet
 
-Departementet har det overordnede ansvar for tilskuddsordningene og skal bl.a.:oppnevne medlemmer til Fordelingsutvalget,sørge for nødvendig sekretariat for Fordelingsutvalget,fastsette de årlige beløpene som Fordelingsutvalget har til fordeling til organisasjonenes nasjonale og internasjonale arbeid,fastsette størrelsen på det årlige basistilskuddet,fastsette søknadsfristen,avgjøre klager over Fordelingsutvalgets vedtak,innhente rapporter fra Fordelingsutvalget og sørge for nødvendig oppfølging og kontroll med utvalgets arbeid,sørge for nødvendig oppfølging og evaluering av tilskuddsordningenesørge for relevant forskning knyttet til tilskuddsordningene,fastsette generelle instrukser for Fordelingsutvalget og sekretariatet, ogendre forskriften når det er nødvendig og gi uttalelser om tolkingen av denne.
+Departementet har det overordnede ansvar for tilskuddsordningene og skal bl.a.:
+
+1. oppnevne medlemmer til Fordelingsutvalget,
+2. sørge for nødvendig sekretariat for Fordelingsutvalget,
+3. fastsette de årlige beløpene som Fordelingsutvalget har til fordeling til organisasjonenes nasjonale og internasjonale arbeid,
+4. fastsette størrelsen på det årlige basistilskuddet,
+5. fastsette søknadsfristen,
+6. avgjøre klager over Fordelingsutvalgets vedtak,
+7. innhente rapporter fra Fordelingsutvalget og sørge for nødvendig oppfølging og kontroll med utvalgets arbeid,
+8. sørge for nødvendig oppfølging og evaluering av tilskuddsordningene
+9. sørge for relevant forskning knyttet til tilskuddsordningene,
+10. fastsette generelle instrukser for Fordelingsutvalget og sekretariatet, og
+11. endre forskriften når det er nødvendig og gi uttalelser om tolkingen av denne.
 
 ### § 11-2. Fordelingsutvalget
 
@@ -338,7 +461,15 @@ Utvalget har syv medlemmer som oppnevnes av departementet. Lederen, nestlederen,
 
 Lederen tjenestegjør i fire år og de øvrige medlemmene i tre år. Fordelingsutvalget er vedtaksført når minst fem deltar, inkludert lederen eller nestlederen. Det må imidlertid alltid delta minst tre av de fire som er oppnevnt på fritt grunnlag. Ved stemmelikhet gjør lederens, eventuelt nestlederens, stemme utslaget.
 
-Fordelingsutvalget skal bl.a.:gi forslag til departementet før dette fastsetter summene for tilskuddsordningene og basisbeløpetsørge for kunngjøring og informasjon om tilskuddsordningeneforeta tildeling av tilskudd etter denne forskriftentreffe øvrige avgjørelser som er lagt til Fordelingsutvalget etter forskriftenforberede klagesaker, treffe endringsvedtak eller oversende sakene til klageinstansen (departementet)bistå departementet med evaluering av tilskuddsordningene oggi departementet råd i øvrige spørsmål om tilskuddsordningene.
+Fordelingsutvalget skal bl.a.:
+
+1. gi forslag til departementet før dette fastsetter summene for tilskuddsordningene og basisbeløpet
+2. sørge for kunngjøring og informasjon om tilskuddsordningene
+3. foreta tildeling av tilskudd etter denne forskriften
+4. treffe øvrige avgjørelser som er lagt til Fordelingsutvalget etter forskriften
+5. forberede klagesaker, treffe endringsvedtak eller oversende sakene til klageinstansen (departementet)
+6. bistå departementet med evaluering av tilskuddsordningene og
+7. gi departementet råd i øvrige spørsmål om tilskuddsordningene.
 
 ## Kapittel 12. Ikrafttredelse
 

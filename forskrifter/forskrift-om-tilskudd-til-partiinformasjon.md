@@ -50,13 +50,20 @@ Partiet må være representert på Stortinget. Partiet må dessuten ha stilt lis
 
 ### § 2-2. Tilskuddsberegning
 
-Tilskuddet ytes i form av:et grunntilskudd, som skal være like stort for alle partiene i støtteordningen. Størrelsen på grunntilskuddet fastsettes av Kultur- og kirkedepartementet for hvert enkelt tilskuddsår.et variabelt tilskudd, som fordeles forholdsvis etter antall stemmer ved siste stortingsvalg.
+Tilskuddet ytes i form av:
+
+1. et grunntilskudd, som skal være like stort for alle partiene i støtteordningen. Størrelsen på grunntilskuddet fastsettes av Kultur- og kirkedepartementet for hvert enkelt tilskuddsår.
+2. et variabelt tilskudd, som fordeles forholdsvis etter antall stemmer ved siste stortingsvalg.
 
 > Endret ved [forskrift 25 mars 2002 nr. 376](forskrift/2002-03-25-376) (med virkning fra 1 jan 2002).
 
 ### § 2-3. Overgangsordning
 
-Parti som har mottatt tilskudd til informasjonsvirksomhet og som mister retten til dette, skal i en overgangsperiode ytes tilskudd etter følgende retningslinjer:Det første året i overgangsordning får partiet et tilskudd som tilsvarer 2/3 av tilskuddet det mottok siste år det var tilskuddsberettiget.Det andre året i overgangsordning får partiet et tilskudd som tilsvarer 1/2 av tilskuddet det mottok siste år det var tilskuddsberettiget.Det tredje året i overgangsordning får partiet et tilskudd som tilsvarer 1/3 av tilskuddet det mottok siste år det var tilskuddsberettiget.
+Parti som har mottatt tilskudd til informasjonsvirksomhet og som mister retten til dette, skal i en overgangsperiode ytes tilskudd etter følgende retningslinjer:
+
+1. Det første året i overgangsordning får partiet et tilskudd som tilsvarer 2/3 av tilskuddet det mottok siste år det var tilskuddsberettiget.
+2. Det andre året i overgangsordning får partiet et tilskudd som tilsvarer 1/2 av tilskuddet det mottok siste år det var tilskuddsberettiget.
+3. Det tredje året i overgangsordning får partiet et tilskudd som tilsvarer 1/3 av tilskuddet det mottok siste år det var tilskuddsberettiget.
 
 ## Kap. 3. Tilskudd til distribusjon av politiske partiers publikasjoner
 
@@ -78,7 +85,11 @@ Tilskuddet fordeles på publikasjonene i ordningen i henhold til antall eksempla
 
 ### § 3-3. Overgangsordning
 
-Publikasjon som har mottatt distribusjonstilskudd og som mister retten til dette, skal i en overgangsperiode ytes tilskudd etter følgende retningslinjer:Det første året i overgangsordning får publikasjonen et tilskudd som tilsvarer 2/3 av tilskuddet den mottok siste år den var tilskuddsberettiget.Det andre året i overgangsordning får publikasjonen et tilskudd som tilsvarer 1/2 av tilskuddet den mottok siste år den var tilskuddsberettiget.Det tredje året i overgangsordning får publikasjonen et tilskudd som tilsvarer 1/3 av tilskuddet den mottok siste år den var tilskuddsberettiget.
+Publikasjon som har mottatt distribusjonstilskudd og som mister retten til dette, skal i en overgangsperiode ytes tilskudd etter følgende retningslinjer:
+
+1. Det første året i overgangsordning får publikasjonen et tilskudd som tilsvarer 2/3 av tilskuddet den mottok siste år den var tilskuddsberettiget.
+2. Det andre året i overgangsordning får publikasjonen et tilskudd som tilsvarer 1/2 av tilskuddet den mottok siste år den var tilskuddsberettiget.
+3. Det tredje året i overgangsordning får publikasjonen et tilskudd som tilsvarer 1/3 av tilskuddet den mottok siste år den var tilskuddsberettiget.
 
 ## Kap. 4. Søknadsbehandling og kontroll
 

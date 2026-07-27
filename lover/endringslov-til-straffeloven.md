@@ -15,7 +15,7 @@ xml_hash: "90e198a2d94eb06b60fb618d7c0e8505eeedf180a28aa82d803601a5c522132b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,11 @@ Er utbytte, jf. [§ 67](lov/2005-05-20-28/§67), eller ting som nevnt i [§ 69](
 
 [§ 73 første ledd bokstav b](lov/2005-05-20-28/§73/ledd/1/bokstav/b), [c](lov/2005-05-20-28/§73/ledd/1/bokstav/c) og ny bokstav d skal lyde:
 
-som lovbryteren har handlet på vegne av,som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, forsto eller burde ha forstått at tingen skulle brukes ved en straffbar handling, ellersom da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, mest sannsynlig forsto eller burde ha forstått at tingen kunne inndras.
+som lovbryteren har handlet på vegne av,
+
+som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, forsto eller burde ha forstått at tingen skulle brukes ved en straffbar handling, eller
+
+som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, mest sannsynlig forsto eller burde ha forstått at tingen kunne inndras.
 
 [§ 92](lov/2005-05-20-28/§92) nytt tredje punktum skal lyde:
 

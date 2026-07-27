@@ -22,4 +22,8 @@ eu_basis: []
 
 # Forskrift om delegering av myndighet til Justisdepartementet til å gi salærinstruks.
 
-Kongens myndighet etter følgende bestemmelser delegeres til Justisdepartementet:– – –[Lov 21. juli 1916 nr. 2](lov/1916-07-21-2) om vidners og sakkyndiges godtgjørelse m.v.: [§ 10](lov/1916-07-21-2/§10).[Lov 13. juni 1980 nr. 35](lov/1980-06-13-35) om fri rettshjelp: [§ 3](lov/1980-06-13-35/§3).
+Kongens myndighet etter følgende bestemmelser delegeres til Justisdepartementet:
+
+1. – – –
+2. [Lov 21. juli 1916 nr. 2](lov/1916-07-21-2) om vidners og sakkyndiges godtgjørelse m.v.: [§ 10](lov/1916-07-21-2/§10).
+3. [Lov 13. juni 1980 nr. 35](lov/1980-06-13-35) om fri rettshjelp: [§ 3](lov/1980-06-13-35/§3).

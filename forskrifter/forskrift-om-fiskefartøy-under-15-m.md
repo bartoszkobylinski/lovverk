@@ -15,7 +15,7 @@ xml_hash: "ae80af21b82ac195f10274cc5c21c365089b59fe477a0435d043ae068f6f013e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,23 @@ Denne forskriften gjelder norske fiskefartøy med største lengde under 15 meter
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:«akseptert elektroforetak»: elektroforetak som er akseptert av Direktoratet for samfunnssikkerhet og beredskap til å utføre kontroll av elektriske anlegg om bord i fiskefartøy«eksisterende fartøy» fartøy som ikke er nytt fartøy«fiskefartøy»: fartøy som er utrustet og som ervervsmessig benyttes til å fange fisk og sjøpattedyr, samt høste tang og tare eller andre levende ressurser i sjøen«fyllingsvinkel θf»: den krengningsvinkel hvor åpninger i skrog, overbygning eller dekkshus som ikke raskt kan lukkes værtett, tar til å neddykkes. Små åpninger, f.eks. for gjennomføring av wirer, kjetting o.l., behøver ikke å anses som åpne dersom neddykking finner sted ved en krengningsvinkel på 30 grader eller mer«godkjent foretak»: foretak som er godkjent av Sjøfartsdirektoratet til å gjennomføre kontroll i henhold til denne forskrift«nytt fartøy»: fartøy hvor byggekontrakt eller kontrakt om omfattende ombygging inngås eller selve utførelsen påbegynnes, ved kjølstrekking eller tilsvarende, etter 1. juli 2014«Nordisk Båt Standard (1990)»: Nordisk Båt Standard for yrkesbåter under 15 meter (1990)«typegodkjent»: utstyr som er typegodkjent av teknisk kontrollorgan og merket i henhold til [forskrift 30. august 2016 nr. 1042](forskrift/2016-08-30-1042) om skipsutstyr eller godkjent, typegodkjent av Sjøfartsdirektoratet, med unntak av radioutstyr som skal være godkjent i tråd med bestemmelsene i [§ 67](forskrift/2013-11-22-1404/§67).«løfteutstyr»:løfteinnretninger inkludert laste- og losseinnretningerløfteredskap inkludert laste- og losseredskapløftekomponenterbrukt sammen eller enkeltvis.
+I denne forskrift betyr:
+
+1. «akseptert elektroforetak»: elektroforetak som er akseptert av Direktoratet for samfunnssikkerhet og beredskap til å utføre kontroll av elektriske anlegg om bord i fiskefartøy
+2. «eksisterende fartøy» fartøy som ikke er nytt fartøy
+3. «fiskefartøy»: fartøy som er utrustet og som ervervsmessig benyttes til å fange fisk og sjøpattedyr, samt høste tang og tare eller andre levende ressurser i sjøen
+4. «fyllingsvinkel θf»: den krengningsvinkel hvor åpninger i skrog, overbygning eller dekkshus som ikke raskt kan lukkes værtett, tar til å neddykkes. Små åpninger, f.eks. for gjennomføring av wirer, kjetting o.l., behøver ikke å anses som åpne dersom neddykking finner sted ved en krengningsvinkel på 30 grader eller mer
+5. «godkjent foretak»: foretak som er godkjent av Sjøfartsdirektoratet til å gjennomføre kontroll i henhold til denne forskrift
+6. «nytt fartøy»: fartøy hvor byggekontrakt eller kontrakt om omfattende ombygging inngås eller selve utførelsen påbegynnes, ved kjølstrekking eller tilsvarende, etter 1. juli 2014
+7. «Nordisk Båt Standard (1990)»: Nordisk Båt Standard for yrkesbåter under 15 meter (1990)
+8. «typegodkjent»: utstyr som er typegodkjent av teknisk kontrollorgan og merket i henhold til [forskrift 30. august 2016 nr. 1042](forskrift/2016-08-30-1042) om skipsutstyr eller godkjent, typegodkjent av Sjøfartsdirektoratet, med unntak av radioutstyr som skal være godkjent i tråd med bestemmelsene i [§ 67](forskrift/2013-11-22-1404/§67).
+9. «løfteutstyr»:
+
+   - løfteinnretninger inkludert laste- og losseinnretninger
+   - løfteredskap inkludert laste- og losseredskap
+   - løftekomponenter
+
+   brukt sammen eller enkeltvis.
 
 > Endret ved [forskrifter 20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [6 des 2021 nr. 3415](forskrift/2021-12-06-3415) (i kraft 1 jan 2022).
 
@@ -60,7 +76,14 @@ I denne forskrift betyr:«akseptert elektroforetak»: elektroforetak som er akse
 
 (5) Løfteutstyr med løftekapasitet på mer enn 500 kg eller mer enn to tonn meter skal uavhengig av fartøyets byggeår oppfylle kravene i [forskrift 17. januar 1978 nr. 4](forskrift/1978-01-17-4) og sertifiseres av sakkyndig person. Løfteutstyr som skal brukes i åpent farvann, skal sertifiseres i samsvar med [forskrift 13. januar 1986 nr. 31 om kraner som brukes til lasting og lossing på skip i åpent farvann](forskrift/1986-01-13-31).
 
-(6) Løfteutstyr med løftekapasitet til og med 500 kg eller mer enn to tonn meter skal oppfylle følgende vilkår uavhengig av om løfteutstyret er maskinelt drevet eller ikke, og uavhengig av fartøyets byggeår:Løfteutstyr er varig merket med tillatt arbeidsbelastning (SWL) basert på opplysninger fra produsent eller beregninger utført av kompetent person.Overlastprøve av løfteinnretningen tilsvarende 1,25 x SWL skal være utført.Løfteutstyret skal være dimensjonert på grunnlag av løfteutstyrets maksimale løftekapasitet med en sikkerhetsfaktor mot brudd på 4,5.Ståltau, kroker, sjakler, blokker, svivler, ringer osv. skal dimensjoneres med en sikkerhetsfaktor mot brudd på 5.Tau skal ha en sikkerhetsfaktor mot brudd på 7.Tau kan brukes som mantel/heisetau når dette er spesifisert av kranprodusenten. Tau skal være egnet til formålet og følge leverandørens retningslinjer for bruk og kassering.
+(6) Løfteutstyr med løftekapasitet til og med 500 kg eller mer enn to tonn meter skal oppfylle følgende vilkår uavhengig av om løfteutstyret er maskinelt drevet eller ikke, og uavhengig av fartøyets byggeår:
+
+1. Løfteutstyr er varig merket med tillatt arbeidsbelastning (SWL) basert på opplysninger fra produsent eller beregninger utført av kompetent person.
+2. Overlastprøve av løfteinnretningen tilsvarende 1,25 x SWL skal være utført.
+3. Løfteutstyret skal være dimensjonert på grunnlag av løfteutstyrets maksimale løftekapasitet med en sikkerhetsfaktor mot brudd på 4,5.
+4. Ståltau, kroker, sjakler, blokker, svivler, ringer osv. skal dimensjoneres med en sikkerhetsfaktor mot brudd på 5.
+5. Tau skal ha en sikkerhetsfaktor mot brudd på 7.
+6. Tau kan brukes som mantel/heisetau når dette er spesifisert av kranprodusenten. Tau skal være egnet til formålet og følge leverandørens retningslinjer for bruk og kassering.
 
 > Endret ved forskrift [6 des 2021 nr. 3415](forskrift/2021-12-06-3415) (i kraft 1 jan 2022).
 
@@ -110,9 +133,16 @@ Fartøy med største lengde 6 til 15 meter bygget etter 1. juli 2014 skal ha ska
 
 ### § 9. Oljefyrt ovn
 
-(1) Ovner med elektrisk krafttilførsel, skal ha en oljetilførsel som stenges automatisk hvisovnen overopphetes (maksimum 400 °C i røykgass),flammen slukker,det oppstår svikt i lufttilførsel eller kraftforsyning.
+(1) Ovner med elektrisk krafttilførsel, skal ha en oljetilførsel som stenges automatisk hvis
 
-(2) Ovner uten elektrisk krafttilførsel, skal ha en oljetilførsel som stenges automatisk hvisovnen overopphetes (maksimum 400 °C i røykgass),flammen slukker.
+1. ovnen overopphetes (maksimum 400 °C i røykgass),
+2. flammen slukker,
+3. det oppstår svikt i lufttilførsel eller kraftforsyning.
+
+(2) Ovner uten elektrisk krafttilførsel, skal ha en oljetilførsel som stenges automatisk hvis
+
+1. ovnen overopphetes (maksimum 400 °C i røykgass),
+2. flammen slukker.
 
 (3) Ovner med dryppregulering (stillkran med seglass), trenger ikke automatisk stengning av oljetilførsel når flammen slukker ved at oljeforbruket er begrenset av en oljestillerventil. Maksimalt tillatt høydeforskjell mellom oljetank og stillkran skal fremgå av installasjonsbeskrivelsen. Oljetrykksreduksjonsventil skal monteres når en tilfredsstillende oljeregulering ikke oppnås på grunn av trykkvariasjoner. Overflomssystemet skal kunne motta hele tankens volum.
 
@@ -184,11 +214,22 @@ Med ubrennbart materiale menes et materiale som ved prøving og vurdering i henh
 
 (1) Nye og eksisterende fartøy med innenbords motor skal ha fastmontert brannslokningsanlegg i maskinrom.
 
-(2) For fartøy med største lengde mellom 10,67 og 15 meter gjelder følgende:Slokningsmiddel skal være av godkjent type.Mengden slokningsmiddel fastsettes i hvert enkelt tilfelle ut fra maskinrommets størrelse.Slokningsanlegget skal bare kunne utløses utenfor maskinrommet. Utløserskapet skal være tydelig merket, utstyrt med betjeningsinstruks og beskyttet mot utilsiktet utløsning.CO2-beholdere og andre beholdere for slokningsgass som kan medføre fare ved lekkasje, og tilhørende utløsningsanordning skal være plassert i eget rom/skap utenfor maskinrom med tydelig skilting.Det skal være gasstette skott mot tilstøtende rom og inngang fra åpent dekk. Et alarmsignal skal automatisk utløses når utløserskapet åpnes. Utløserskapet for aktivering av CO2 skal ha ventilasjon til friluft.
+(2) For fartøy med største lengde mellom 10,67 og 15 meter gjelder følgende:
+
+1. Slokningsmiddel skal være av godkjent type.
+2. Mengden slokningsmiddel fastsettes i hvert enkelt tilfelle ut fra maskinrommets størrelse.
+3. Slokningsanlegget skal bare kunne utløses utenfor maskinrommet. Utløserskapet skal være tydelig merket, utstyrt med betjeningsinstruks og beskyttet mot utilsiktet utløsning.
+4. CO2-beholdere og andre beholdere for slokningsgass som kan medføre fare ved lekkasje, og tilhørende utløsningsanordning skal være plassert i eget rom/skap utenfor maskinrom med tydelig skilting.
+5. Det skal være gasstette skott mot tilstøtende rom og inngang fra åpent dekk. Et alarmsignal skal automatisk utløses når utløserskapet åpnes. Utløserskapet for aktivering av CO2 skal ha ventilasjon til friluft.
 
 (3) Nye og eksisterende fartøy med største lengde under 10,67 meter kan, som alternativ til krav som følger av annet ledd, være utstyrt med brannslokningsanlegg med automatisk utløsning.
 
-(4) Alternativet som det åpnes for i tredje ledd, skal oppfylle følgende funksjonskrav:Systemet er egnet til bruk om bord i fartøyet.Systemet er egnet til å slokke brann i maskinrom.Systemet utgjør ingen fare for personlig sikkerhet.Systemet dekker området som skal beskyttes (volum av maskinrom).
+(4) Alternativet som det åpnes for i tredje ledd, skal oppfylle følgende funksjonskrav:
+
+1. Systemet er egnet til bruk om bord i fartøyet.
+2. Systemet er egnet til å slokke brann i maskinrom.
+3. Systemet utgjør ingen fare for personlig sikkerhet.
+4. Systemet dekker området som skal beskyttes (volum av maskinrom).
 
 (5) Brannslokningsanlegg etter tredje ledd skal installeres, brukes og vedlikeholdes etter leverandørens retningslinjer.
 
@@ -234,13 +275,21 @@ Materialer, lakk, maling mv. fremstilt på nitrocellulosebasis eller annen lett 
 
 ### § 21. Materialer i rørledninger mv.
 
-(1) Sjøvannsledninger, lenseledninger, rør som fører olje, og andre rørledninger nødvendige for skipets sikkerhet, skal være av ubrennbart materiale. Korte fleksible rørforbindelser av et materiale som ikke lett gjøres ubrukbart av varme kan godtas påsjøvannsledninger,korte fleksible rørforbindelser på rør som fører olje når det er nødvendig på grunn av vibrasjoner.
+(1) Sjøvannsledninger, lenseledninger, rør som fører olje, og andre rørledninger nødvendige for skipets sikkerhet, skal være av ubrennbart materiale. Korte fleksible rørforbindelser av et materiale som ikke lett gjøres ubrukbart av varme kan godtas på
+
+1. sjøvannsledninger,
+2. korte fleksible rørforbindelser på rør som fører olje når det er nødvendig på grunn av vibrasjoner.
 
 (2) Spygatt, sanitære avløp eller andre avløp nær vannlinjen hvor svikt i materialet som følge av brann kan forårsake innstrømning av vann skal være av oljebestandige og armerte materialer som ikke lett skades av varme.
 
 ### § 22. Maskineri og rørsystemer
 
-(1) Fartøy bygget etter 1. januar 1992 skal oppfylle kravene i Nordisk Båt Standard (1990)Y6 om lensesystemer,Y9 om brennoljesystemer,Y8 om motorinstallasjon, ogY7 og Y10 om ror og propellarrangement.
+(1) Fartøy bygget etter 1. januar 1992 skal oppfylle kravene i Nordisk Båt Standard (1990)
+
+1. Y6 om lensesystemer,
+2. Y9 om brennoljesystemer,
+3. Y8 om motorinstallasjon, og
+4. Y7 og Y10 om ror og propellarrangement.
 
 (2) Fartøy bygget før 1. januar 1992 skal så langt det er mulig oppfylle kravene i Nordisk Båt Standard (1990) kapittel Y6 om lensesystemer.
 
@@ -256,9 +305,17 @@ Materialer, lakk, maling mv. fremstilt på nitrocellulosebasis eller annen lett 
 
 ### § 24. Nødkraftkilde og nødlys, mv.
 
-(1) Fartøy med største lengde 10,67 til 15 meter bygget etter 1. januar 1992 skal ha nødkraft som gir tilfredsstillende belysning i minst 2 timer tilstrekkelig tilbelysning i område med redningsmidler og utsetningsmateriell,belysning i ganger, trapper og utganger til redningsmidlene og av sjøen hvor redningsmidlene settes ut,nødvendige navigasjonslys, ogpålagt alarmsystem.
+(1) Fartøy med største lengde 10,67 til 15 meter bygget etter 1. januar 1992 skal ha nødkraft som gir tilfredsstillende belysning i minst 2 timer tilstrekkelig til
 
-(2) Nødkraften skal komme fra en av følgende to kilderakkumulatorbatteri som kan tåle belastningen etter første ledd uten oppladning eller for stort spenningsfall og som automatisk kobles til nødstrømtavla når hovedkraften svikter, elleren generator drevet av en passende kraftmaskin med selvstendig brenselforsyning, en hensiktsmessig startanordning og drevet med brensel med flammepunkt på 43 °C (110 °F) eller mer.
+1. belysning i område med redningsmidler og utsetningsmateriell,
+2. belysning i ganger, trapper og utganger til redningsmidlene og av sjøen hvor redningsmidlene settes ut,
+3. nødvendige navigasjonslys, og
+4. pålagt alarmsystem.
+
+(2) Nødkraften skal komme fra en av følgende to kilder
+
+1. akkumulatorbatteri som kan tåle belastningen etter første ledd uten oppladning eller for stort spenningsfall og som automatisk kobles til nødstrømtavla når hovedkraften svikter, eller
+2. en generator drevet av en passende kraftmaskin med selvstendig brenselforsyning, en hensiktsmessig startanordning og drevet med brensel med flammepunkt på 43 °C (110 °F) eller mer.
 
 (3) Hele installasjonen skal fungere selv om skipet har 22,5 grader slagside eller skipets trim er 10 grader.
 
@@ -276,13 +333,30 @@ Fartøy som er bygget etter Nordisk Båt Standard (1990) anses å tilfredsstille
 
 (1) For nye fartøy med største lengde 6 til 15 meter skal stabilitetsberegninger utarbeides etter denne forskrift. Alternativt kan stabilitetsberegninger utarbeides etter [forskrift 13. juni 2000 nr. 660 om konstruksjon, utstyr og drift av fiskefartøy med lengde 15 meter eller mer](forskrift/2000-06-13-660). Bestemmelsene kan også benyttes for eksisterende fartøy.
 
-(2) For fartøy med største lengde 6 til 10,67 meter bygget mellom 1. januar 1992 og 1. januar 2015 skal stabilitetsberegninger utarbeides i henhold tilNordisk Båt Standard (1990), eller[forskrift 13. juni 2000 nr. 660](forskrift/2000-06-13-660) om konstruksjon, utstyr, drift og besiktelser for fiskefartøy med største lengde på 15 meter og derover, eller[forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712) om bygging av fartøy med største lengde på 15 meter og deroverforskrift nevnt i første ledd.
+(2) For fartøy med største lengde 6 til 10,67 meter bygget mellom 1. januar 1992 og 1. januar 2015 skal stabilitetsberegninger utarbeides i henhold til
 
-(3) For fartøy med største lengde 8 til 10,67 meter bygget mellom 1. mars 1983 og 1. januar 1992 skal stabilitetsberegninger utarbeides i henhold tilNordisk Båt Standard (1990),[forskrift 7. januar 1983 nr. 12](forskrift/1983-01-07-12) om bygging av fiske- og fangstfartøy, ellerforskrift nevnt i første og annet ledd.
+1. Nordisk Båt Standard (1990), eller
+2. [forskrift 13. juni 2000 nr. 660](forskrift/2000-06-13-660) om konstruksjon, utstyr, drift og besiktelser for fiskefartøy med største lengde på 15 meter og derover, eller
+3. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712) om bygging av fartøy med største lengde på 15 meter og derover
+4. forskrift nevnt i første ledd.
 
-(4) For fartøy med største lengde 8 til 10,67 meter bygget før 1. mars 1983 skal stabilitetsberegninger utarbeides i henhold tilNordisk Båt Standard (1990),[forskrift 2. oktober 1968 nr. 8943](forskrift/1968-10-02-8943) om bygging av fiske- og fangstfartøy, ellerforskrift nevnt i første til tredje ledd.
+(3) For fartøy med største lengde 8 til 10,67 meter bygget mellom 1. mars 1983 og 1. januar 1992 skal stabilitetsberegninger utarbeides i henhold til
 
-(5) Eksisterende fartøy med største lengde 10,67 til 15 meter skal ha stabilitetsberegninger i samsvar med de forskrifter som var gjeldende påbyggetidspunktet,eller ved senere vesentlig ombygging, ellernyere forskrift.
+1. Nordisk Båt Standard (1990),
+2. [forskrift 7. januar 1983 nr. 12](forskrift/1983-01-07-12) om bygging av fiske- og fangstfartøy, eller
+3. forskrift nevnt i første og annet ledd.
+
+(4) For fartøy med største lengde 8 til 10,67 meter bygget før 1. mars 1983 skal stabilitetsberegninger utarbeides i henhold til
+
+1. Nordisk Båt Standard (1990),
+2. [forskrift 2. oktober 1968 nr. 8943](forskrift/1968-10-02-8943) om bygging av fiske- og fangstfartøy, eller
+3. forskrift nevnt i første til tredje ledd.
+
+(5) Eksisterende fartøy med største lengde 10,67 til 15 meter skal ha stabilitetsberegninger i samsvar med de forskrifter som var gjeldende på
+
+1. byggetidspunktet,
+2. eller ved senere vesentlig ombygging, eller
+3. nyere forskrift.
 
 (6) Eksisterende fartøy med største lengde 6 til 15 meter, som gjennomgår endringer som påvirker oppdriftsgivende volumer eller innebærer at nedlastingen økes skal oppfylle stabilitetskravene for nye fartøy.
 
@@ -304,17 +378,38 @@ Fartøy som er bygget etter Nordisk Båt Standard (1990) anses å tilfredsstille
 
 (1) Fartøy skal være konstruert og bygget slik at kravene i dette kapittel vil bli oppfylt under de driftsforhold nevnt i andre til sjette ledd.
 
-(2) For lukkede fartøy, jf. Nordisk Båt Standard (1990) Y2, skal det utarbeides GZ-kurver (kurver som viser den rettende arm) korrigert for trim og for fri overflatevirkning i brennolje-, ferskvannstanker og eventuelle andre tanker med lastetilstander som tilsvareravgang til fiskefeltet med 100 prosent brennolje, ferskvann, forråd, fiskeredskap og full utrustning for øvrigankomst havn uten fangst med 10 prosent brennolje, ferskvann, forråd og full utrustning, ogstørste tillatte driftsdypgående, som viser avgang fra fiskefeltet med fulle lasterom, minimum 50 prosent brennolje, ferskvann, forråd og full utrustning. Det skal ikke benyttes høyere egenvekt for last enn for sjøvann. Fangst på dekk, hvis driftsmåten tilsier det, skal tas med. Eventuelle vannballasttanker skal være tommeankomst havn med fulle lasterom og maksimalt ti prosent brennolje, ferskvann, forråd og full utrustning og med samme mengde last som i bokstav c). Fangst på dekk, hvis driftsmåten tilsier det, skal tas med. Eventuelle vannballasttanker skal være tommelastetilstander som representerer de stabilitetsmessig ugunstigste trinn ved fylling/lensing av lasterommene og eventuelle vannballasttanker.
+(2) For lukkede fartøy, jf. Nordisk Båt Standard (1990) Y2, skal det utarbeides GZ-kurver (kurver som viser den rettende arm) korrigert for trim og for fri overflatevirkning i brennolje-, ferskvannstanker og eventuelle andre tanker med lastetilstander som tilsvarer
+
+1. avgang til fiskefeltet med 100 prosent brennolje, ferskvann, forråd, fiskeredskap og full utrustning for øvrig
+2. ankomst havn uten fangst med 10 prosent brennolje, ferskvann, forråd og full utrustning, og
+3. største tillatte driftsdypgående, som viser avgang fra fiskefeltet med fulle lasterom, minimum 50 prosent brennolje, ferskvann, forråd og full utrustning. Det skal ikke benyttes høyere egenvekt for last enn for sjøvann. Fangst på dekk, hvis driftsmåten tilsier det, skal tas med. Eventuelle vannballasttanker skal være tomme
+4. ankomst havn med fulle lasterom og maksimalt ti prosent brennolje, ferskvann, forråd og full utrustning og med samme mengde last som i bokstav c). Fangst på dekk, hvis driftsmåten tilsier det, skal tas med. Eventuelle vannballasttanker skal være tomme
+5. lastetilstander som representerer de stabilitetsmessig ugunstigste trinn ved fylling/lensing av lasterommene og eventuelle vannballasttanker.
 
 (3) Hvis driftsmåten tilsier det, skal lastetilstander på feltet med maksimal mengde fangst på dekk, lasterommet tomt og med 10–50 prosent brennolje, ferskvann, forråd, samt full utrustning utarbeides. Kondisjonen skal vises med den minste aktuelle mengde brennolje, ferskvann og forråd.
 
 (4) Dersom fartøyet opererer i lastetilstander som er ugunstigere enn tilstander som nevnt i andre og tredje ledd skal beregninger også utarbeides for slike lastetilstander.
 
-(5) For tilstander som nevnt i første til tredje ledd, skal beregningene også ta hensyn til følgende:vekt av sjøvann i fiskeredskaper på dekk,vekt av overising,i fullastkondisjoner skal lasten være homogent fordelt i alle lasterom, lukekarmer og eventuelle trunker. Med homogent fordelt last menes at volumetrisk tyngdepunkt, og samme tetthet, skal benyttes for last i alle rom som er tilgjengelig for føring av denne,fullastkondisjoner med egenvekt for lasten som for sjøvann skal vises med effekt av fri overflate dersom lastens egenvekt i homogentilstandene (for fartøy som skal føre flytende last, dvs. fisk i bulk eller fisk i is/vann) blir mindre enn for sjøvann,tillegg for fri overflateeffekt av væsker i tanker og av last som kan medføre fri overflateeffekt,ballast skal være slik plassert og sikret at den ikke kan forskyve seg. Permanent ballast skal ikke fjernes eller flyttes fra fartøyet. Flytende ballast kan aksepteres som permanent ballast, forutsatt at den er lagret i helt fulle tanker og disse tankene ikke er tilknyttet fartøyets pumpesystemer. Når flytende ballast benyttes som permanent ballast skal det tas inn detaljerte opplysninger om dette i fartøyinstruks og stabilitetsdokumentasjon,vannballasttanker skal i utgangspunktet holdes helt fulle eller helt tomme. Vannballast (sjøvann) kan regnes med i ballasttilstander, hvis dette benyttes enten i tanker som er spesielt beregnet for dette formål, eller i andre tanker som også er konstruert for å føre vannballast, og som er tilknyttet fartøyets pumpesystem. Hvis vannballastmengden er forskjellig i avgangs- og ankomsttilstand, skal det beregnes mellomtilstander som viser når etterfylling og lensing av vannballast må finne sted. Beregningene skal eventuelt vise stabilitetssituasjonen umiddelbart før etterfylling eller etter lensing av vannballast,is, emballasje, salt etc. skal bare regnes med hvis det har negativ effekt på stabiliteten.
+(5) For tilstander som nevnt i første til tredje ledd, skal beregningene også ta hensyn til følgende:
+
+1. vekt av sjøvann i fiskeredskaper på dekk,
+2. vekt av overising,
+3. i fullastkondisjoner skal lasten være homogent fordelt i alle lasterom, lukekarmer og eventuelle trunker. Med homogent fordelt last menes at volumetrisk tyngdepunkt, og samme tetthet, skal benyttes for last i alle rom som er tilgjengelig for føring av denne,
+4. fullastkondisjoner med egenvekt for lasten som for sjøvann skal vises med effekt av fri overflate dersom lastens egenvekt i homogentilstandene (for fartøy som skal føre flytende last, dvs. fisk i bulk eller fisk i is/vann) blir mindre enn for sjøvann,
+5. tillegg for fri overflateeffekt av væsker i tanker og av last som kan medføre fri overflateeffekt,
+6. ballast skal være slik plassert og sikret at den ikke kan forskyve seg. Permanent ballast skal ikke fjernes eller flyttes fra fartøyet. Flytende ballast kan aksepteres som permanent ballast, forutsatt at den er lagret i helt fulle tanker og disse tankene ikke er tilknyttet fartøyets pumpesystemer. Når flytende ballast benyttes som permanent ballast skal det tas inn detaljerte opplysninger om dette i fartøyinstruks og stabilitetsdokumentasjon,
+7. vannballasttanker skal i utgangspunktet holdes helt fulle eller helt tomme. Vannballast (sjøvann) kan regnes med i ballasttilstander, hvis dette benyttes enten i tanker som er spesielt beregnet for dette formål, eller i andre tanker som også er konstruert for å føre vannballast, og som er tilknyttet fartøyets pumpesystem. Hvis vannballastmengden er forskjellig i avgangs- og ankomsttilstand, skal det beregnes mellomtilstander som viser når etterfylling og lensing av vannballast må finne sted. Beregningene skal eventuelt vise stabilitetssituasjonen umiddelbart før etterfylling eller etter lensing av vannballast,
+8. is, emballasje, salt etc. skal bare regnes med hvis det har negativ effekt på stabiliteten.
 
 ### § 29. Stabilitetskriterier
 
-(1) Følgende minstekrav til stabilitet skal være oppfylt i samtlige lastetilstanderarealet under GZ-kurven skal ikke være mindre enn 0,055 meterradianer fra 0 til 30 graders krengningsvinkel og ikke mindre enn 0,090 meterradianer fra 0 til 40 grader eller fyllingsvinkelen θf dersom denne vinkelen er mindre enn 40 grader. I tillegg skal arealet under kurven mellom krengningsvinklene på 30 grader og 40 grader eller mellom 30 grader og θf hvis denne vinkelen er mindre enn 40 grader, ikke være mindre enn 0,030 meterradianer. GZ-kurven skal beregnes uten initial slagside. I forbindelse med stabilitetskriteriene ovenfor og [§ 32](forskrift/2013-11-22-1404/§32) tredje ledd, skal i tillegg luker som periodevis må stå åpne under fiske, regnes som fyllingsåpninger til tross for at de er arrangerte slik at de raskt kan lukkes værtett,den rettende arm skal være minst 200 millimeter ved en krengningsvinkel som er lik eller større enn 30 grader,største rettende arm GZmax skal inntreffe ved en krengningsvinkel som fortrinnsvis er større enn 30 grader men som ikke er mindre enn 25 grader,initialmetasenterhøyden (GM) skal ikke være mindre enn 350 millimeter,for fartøy som opererer i fartsområde kystfiske eller større fartsområde, skal den rettende armen (GZ) for krengevinkler fra 40 til 65 grader ikke noe sted være mindre enn 100 millimeter, og positiv opp til 80 grader, når det ses bort fra fylling gjennom luker, dører, lenseventiler eller lignende som må stå åpne under drift, men som raskt kan lukkes værtett.
+(1) Følgende minstekrav til stabilitet skal være oppfylt i samtlige lastetilstander
+
+1. arealet under GZ-kurven skal ikke være mindre enn 0,055 meterradianer fra 0 til 30 graders krengningsvinkel og ikke mindre enn 0,090 meterradianer fra 0 til 40 grader eller fyllingsvinkelen θf dersom denne vinkelen er mindre enn 40 grader. I tillegg skal arealet under kurven mellom krengningsvinklene på 30 grader og 40 grader eller mellom 30 grader og θf hvis denne vinkelen er mindre enn 40 grader, ikke være mindre enn 0,030 meterradianer. GZ-kurven skal beregnes uten initial slagside. I forbindelse med stabilitetskriteriene ovenfor og [§ 32](forskrift/2013-11-22-1404/§32) tredje ledd, skal i tillegg luker som periodevis må stå åpne under fiske, regnes som fyllingsåpninger til tross for at de er arrangerte slik at de raskt kan lukkes værtett,
+2. den rettende arm skal være minst 200 millimeter ved en krengningsvinkel som er lik eller større enn 30 grader,
+3. største rettende arm GZmax skal inntreffe ved en krengningsvinkel som fortrinnsvis er større enn 30 grader men som ikke er mindre enn 25 grader,
+4. initialmetasenterhøyden (GM) skal ikke være mindre enn 350 millimeter,
+5. for fartøy som opererer i fartsområde kystfiske eller større fartsområde, skal den rettende armen (GZ) for krengevinkler fra 40 til 65 grader ikke noe sted være mindre enn 100 millimeter, og positiv opp til 80 grader, når det ses bort fra fylling gjennom luker, dører, lenseventiler eller lignende som må stå åpne under drift, men som raskt kan lukkes værtett.
 
 (2) Som alternativ til stabilitetskriteriene i første ledd kan Nordisk Båt Standard (1990) kapittel Y3 og Y30 legges til grunn. For fartøy som opererer i fartsområde fjordfiske behøver ikke NBS kap. Y30 pkt. 3.2 oppfylles.
 
@@ -344,7 +439,11 @@ Fartøy bygget etter 1. januar 1992 skal ha en baughøyde på minst 43 x Loa + 3
 
 ### § 33. Overisingstillegg
 
-(1) For fartøy med største lengde 6 til 15 meter som er bygget eller vesentlig ombygget etter 1. januar 1992, og som opererer i større fartsområde enn Kystfiske i perioden fra 1. november til og med 30. april, skal følgende tillegg tas med i stabilitetsberegningene:30 kilogram per kvadratmeter på åpne værdekk, gangbroer, frontskott på overbygninger og dekkshus7,5 kilogram per kvadratmeter projisert sideareal på hver side av fartøyet over vannflatenprojisert sideareal for brutte flater av reling, rundholter (unntatt master), rigger på fartøy uten seil og projisert sideareal for andre små gjenstander skal beregnes ved å øke samlet projisert areal for kontinuerlige overflater med 5 prosent og dette arealets statiske moment med 10 prosent.
+(1) For fartøy med største lengde 6 til 15 meter som er bygget eller vesentlig ombygget etter 1. januar 1992, og som opererer i større fartsområde enn Kystfiske i perioden fra 1. november til og med 30. april, skal følgende tillegg tas med i stabilitetsberegningene:
+
+1. 30 kilogram per kvadratmeter på åpne værdekk, gangbroer, frontskott på overbygninger og dekkshus
+2. 7,5 kilogram per kvadratmeter projisert sideareal på hver side av fartøyet over vannflaten
+3. projisert sideareal for brutte flater av reling, rundholter (unntatt master), rigger på fartøy uten seil og projisert sideareal for andre små gjenstander skal beregnes ved å øke samlet projisert areal for kontinuerlige overflater med 5 prosent og dette arealets statiske moment med 10 prosent.
 
 (2) For fartøy som ikke har overisingsberegninger, er fartsområdet begrenset til Kystfiske i perioden fra 1. november til og med 30. april.
 
@@ -356,7 +455,11 @@ Fartøy bygget etter 1. januar 1992 skal ha en baughøyde på minst 43 x Loa + 3
 
 (1) På fartøy som har stabilitetsberegninger, skal skipsføreren ha tilgang til alle stabilitetsopplysninger.
 
-(2) En stabilitetsplakat skal slås opp i fartøy med styrehus. Plakaten skal minst inneholde opplysninger omtype last og maksimal mengde last i rom og på dekk i henhold til [§ 28](forskrift/2013-11-22-1404/§28) annet ledd bokstav b, d og evekt og plassering av fiskeredskapandre begrensninger som følger av vannballast eller rulledempningstank.
+(2) En stabilitetsplakat skal slås opp i fartøy med styrehus. Plakaten skal minst inneholde opplysninger om
+
+1. type last og maksimal mengde last i rom og på dekk i henhold til [§ 28](forskrift/2013-11-22-1404/§28) annet ledd bokstav b, d og e
+2. vekt og plassering av fiskeredskap
+3. andre begrensninger som følger av vannballast eller rulledempningstank.
 
 (3) Stabilitetsopplysningene for fartøy med krav om fartøyinstruks skal kontrolleres av godkjent foretak.
 
@@ -388,7 +491,13 @@ Fartøy bygget etter 1. januar 1992 skal ha en baughøyde på minst 43 x Loa + 3
 
 (1) Dekket fartøy og åpent fartøy med styrehus skal ha en typegodkjent redningsdrakt med termiske egenskaper for hver person ombord. Redningsdrakter som blir anskaffet etter 1. juli 2014 skal også tilfredsstille kravene til flyteevne og stabilitet for redningsvester i International Life-Saving Appliance Code (LSA-koden).
 
-(2) Redningsdrakter skal være utstyrt medløftestropp eller liknende med egnet innhuking- og holdearrangement.Drakten og løftestroppen skal, med en person i drakten, ikke skades ved en belastning på minimum 300 kg,signalfløyte som er sikret til drakten med snor, oglys som tilfredsstiller LSA-kodens krav til lys på redningsvester.
+(2) Redningsdrakter skal være utstyrt med
+
+1. løftestropp eller liknende med egnet innhuking- og holdearrangement.
+
+   Drakten og løftestroppen skal, med en person i drakten, ikke skades ved en belastning på minimum 300 kg,
+2. signalfløyte som er sikret til drakten med snor, og
+3. lys som tilfredsstiller LSA-kodens krav til lys på redningsvester.
 
 (3) Løftestropp, gripeline, fløyte, lys og så videre skal festes slik at draktens egenskaper ikke blir redusert eller er til hinder for bruk av drakten.
 
@@ -406,7 +515,10 @@ Fartøy bygget etter 1. januar 1992 skal ha en baughøyde på minst 43 x Loa + 3
 
 (2) Fartøy med maksimalt tre personer om bord kan som alternativ til typegodkjent redningsflåte benytte redningsflåte som er beregnet for minst fire personer og som er produsert i henhold til ISO 9650-1 (Group A), forutsatt at flåten er plassert maksimalt seks meter over vannlinjen i ugunstigste lastetilstand. Flåtens oppdrift skal være i samsvar med LSA-kodens krav til oppdrift for friflytflåter.
 
-(3) Fartøy med firemanns redningsflåte for fritidsbåter skal skifte ut disse med flåter etter første eller annet ledd innen1. juli 2015 for fartøy som skal operere i fartsområde Kystfiske,1. juli 2016 for fartøy som skal operere i fartsområde Fjordfiske.
+(3) Fartøy med firemanns redningsflåte for fritidsbåter skal skifte ut disse med flåter etter første eller annet ledd innen
+
+1. 1\. juli 2015 for fartøy som skal operere i fartsområde Kystfiske,
+2. 1\. juli 2016 for fartøy som skal operere i fartsområde Fjordfiske.
 
 (4) Oppblåsbare redningsflåter skal kontrolleres av godkjent servicestasjon for oppblåsbare redningsflåter med kontrollintervaller på inntil 24 måneder, men ikke utover tidspunkt for neste kontroll angitt i flåtesertifikatet. Kontrollen skal utføres i tråd med produsentens anbefalinger og godkjenningskriterier.
 
@@ -442,7 +554,10 @@ Alle redningsmidler og annet redningsutstyr skal være i god stand og klar til �
 
 (1) For hver tredje person om bord skal det minst være én typegodkjent livbøye.
 
-(2) Minst halvparten av livbøyene skal ha typegodkjent bøyelys, og alle livbøyene skalvære merket med fartøyets navn og hjemstedplasseres lett synlig og tilgjengelig, slik at de kan frigjøres enkelt og hurtig.
+(2) Minst halvparten av livbøyene skal ha typegodkjent bøyelys, og alle livbøyene skal
+
+1. være merket med fartøyets navn og hjemsted
+2. plasseres lett synlig og tilgjengelig, slik at de kan frigjøres enkelt og hurtig.
 
 (3) Fartøy med største lengde under 10,67 meter skal ha minst én livbøye med flytende redningsline på minst 30 meter.
 
@@ -452,7 +567,12 @@ Alle redningsmidler og annet redningsutstyr skal være i god stand og klar til �
 
 ### § 44. Nødsignalutstyr og pyroteknisk utstyr
 
-(1) Fartøy skal være utstyrt med midler til å sende ut tydelige nødsignaler om dagen og om natten. Fartøy skal minst ha to stk. røyksignaler. I tillegg skal de i fartsområdeFjordfiske ha tre fallskjermlys og tre røde håndbluss,Kystfiske ha tre fallskjermlys og tre røde håndbluss,Bankfiske I ha seks fallskjermlys og fire røde håndbluss,Bankfiske II ha seks fallskjermlys og fire røde håndbluss.
+(1) Fartøy skal være utstyrt med midler til å sende ut tydelige nødsignaler om dagen og om natten. Fartøy skal minst ha to stk. røyksignaler. I tillegg skal de i fartsområde
+
+1. Fjordfiske ha tre fallskjermlys og tre røde håndbluss,
+2. Kystfiske ha tre fallskjermlys og tre røde håndbluss,
+3. Bankfiske I ha seks fallskjermlys og fire røde håndbluss,
+4. Bankfiske II ha seks fallskjermlys og fire røde håndbluss.
 
 (2) Nødsignalutstyr skal være typegodkjent, tydelig merket og oppbevares i egnet pakning på en lett tilgjengelig plass. Nødsignalutstyr skal senest skiftes ut innen påført holdbarhetsdato eller tre år fra produksjonsdato dersom ikke holdbarhetsdato er påført.
 
@@ -464,7 +584,12 @@ Alle redningsmidler og annet redningsutstyr skal være i god stand og klar til �
 
 (3) Fartøy med besetning på to eller flere skal være utstyrt med klare instrukser (alarminstruks) for hvert medlem av besetningen.
 
-(4) Alarminstruksen skal være slått opp gjort kjent for de som er om bord, og inneholdeen detaljert beskrivelse av alarmsystemet, samt hvilke tiltak som skal utføres av besetningen når alarmen går og hvilken rekkefølge besetningen skal forlate fartøyet,informasjon om plassering av redningsutstyr, redningsmidler, brannslokningsutstyr, pyroteknisk utstyr, lukking av dører, ventiler, luker mv., alarmsignalenes betydning, samt hvilke forholdsregler som skal tas,hvilke personer som er ansvarlig for å sikre at rednings- og brannutstyret er vedlikeholdt, i god stand og klart til øyeblikkelig bruk, ogangivelse av stedfortreder for nøkkelpersoner som kan ha blitt tjenesteudyktige, med hensyn til at ulike nødssituasjoner kan kreve ulike tiltak.
+(4) Alarminstruksen skal være slått opp gjort kjent for de som er om bord, og inneholde
+
+1. en detaljert beskrivelse av alarmsystemet, samt hvilke tiltak som skal utføres av besetningen når alarmen går og hvilken rekkefølge besetningen skal forlate fartøyet,
+2. informasjon om plassering av redningsutstyr, redningsmidler, brannslokningsutstyr, pyroteknisk utstyr, lukking av dører, ventiler, luker mv., alarmsignalenes betydning, samt hvilke forholdsregler som skal tas,
+3. hvilke personer som er ansvarlig for å sikre at rednings- og brannutstyret er vedlikeholdt, i god stand og klart til øyeblikkelig bruk, og
+4. angivelse av stedfortreder for nøkkelpersoner som kan ha blitt tjenesteudyktige, med hensyn til at ulike nødssituasjoner kan kreve ulike tiltak.
 
 (5) Skipsføreren skal endre instruksen eller lage en ny instruks dersom det skjer endringer i besetningen som gjør det nødvendig å endre alarminstruksen.
 
@@ -621,7 +746,10 @@ Følgende dokumentasjon vedrørende radioutstyr skal finnes om bord:
 
 (1) Fartøy skal ha sikkerhetssertifikat for radiotelefon på fiskefartøy.
 
-(2) Sikkerhetssertifikat for radiotelefon på fiskefartøy utstedes for en periode på:60 måneder for fartsområde Bankfiske I eller mindre,30 måneder for fartsområde Bankfiske II.
+(2) Sikkerhetssertifikat for radiotelefon på fiskefartøy utstedes for en periode på:
+
+1. 60 måneder for fartsområde Bankfiske I eller mindre,
+2. 30 måneder for fartsområde Bankfiske II.
 
 (3) Sikkerhetssertifikat for radiotelefon på fiskefartøy utstedes av et godkjent radioinspeksjonsforetak, på bakgrunn av en besiktelse. Slik besiktelse kan skje inntil to måneder før gyldighetstiden for eksisterende sikkerhetssertifikat utløper, uten at dato for neste besiktelse blir endret.
 
@@ -682,7 +810,10 @@ Følgende dokumentasjon vedrørende radioutstyr skal finnes om bord:
 
 (5) Fri-flyt satellitt EPIRB skal være montert slik at den, med størst mulig grad av sannsynlighet, vil flyte fritt opp til overflaten uten fare for å bli fanget av hindringer slik som rekkverk, overbygning m.m., dersom skipet skulle synke.
 
-(6) Fri-flyt og manuell satellitt EPIRB skal være montert slik at den kanbli aktivert manuelt, ogbli medbragt av én person til en redningsfarkost, uten at personen utsettes for fare.
+(6) Fri-flyt og manuell satellitt EPIRB skal være montert slik at den kan
+
+1. bli aktivert manuelt, og
+2. bli medbragt av én person til en redningsfarkost, uten at personen utsettes for fare.
 
 (7) SART skal være montert i styrehuset. Dersom skipet har krav om to stk. SART skal de plasseres på hver side av fartøyet, fortrinnsvis ved utgangsdørene i styrehuset, slik at de lett kan medbringes til en redningsfarkost.
 
@@ -700,15 +831,27 @@ Følgende dokumentasjon vedrørende radioutstyr skal finnes om bord:
 
 (4) Reservekraftkilden skal plasseres i beskyttede omgivelser over øverste gjennomgående dekk, fortrinnsvis i godt ventilert batterirom eller batterikasse. Plasseringen skal gi enkel og sikker tilgang for vedlikehold og kontroll, være i samsvar med produsentens veiledning og ellers være slik at kraftkilden kan virke også under ekstraordinære forhold.
 
-(5) Reservekraftkilden skal gi strøm til drift av fartøyets VHF-radioinstallasjon og i tilleggMF-radioinstallasjonen i radiodekningsområde A2,navigasjonsmottaker (tillates koblet til fartøyets reservekraftkilde), oglys til radioinstallasjonen.
+(5) Reservekraftkilden skal gi strøm til drift av fartøyets VHF-radioinstallasjon og i tillegg
 
-(6) Reservekraftkilden må i tilleggkunne lades automatisk opp til minimumskapasitet innen 10 timer, dersom reservekraftkilden er oppladbare batterier,være uavhengig av fartøyets fremdriftsmaskineri,kontrolleres ukentlig av fartøyets radiooperatør og i forbindelse med radiokontroll jf. [§ 73](forskrift/2013-11-22-1404/§73) første ledd bokstav e), ogvedlikeholdes i overensstemmelse med produsentens instruksjoner.
+1. MF-radioinstallasjonen i radiodekningsområde A2,
+2. navigasjonsmottaker (tillates koblet til fartøyets reservekraftkilde), og
+3. lys til radioinstallasjonen.
+
+(6) Reservekraftkilden må i tillegg
+
+1. kunne lades automatisk opp til minimumskapasitet innen 10 timer, dersom reservekraftkilden er oppladbare batterier,
+2. være uavhengig av fartøyets fremdriftsmaskineri,
+3. kontrolleres ukentlig av fartøyets radiooperatør og i forbindelse med radiokontroll jf. [§ 73](forskrift/2013-11-22-1404/§73) første ledd bokstav e), og
+4. vedlikeholdes i overensstemmelse med produsentens instruksjoner.
 
 (7) Batteriene skal skiftes ut straks de viser tegn til redusert kapasitet.
 
 ### § 71. Radiovakt
 
-(1) Alle fartøy som ikke er trygt fortøyd i havn, skal holde kontinuerlig radiovakt på følgende radiokanaler, frekvenser og systemer, avhengig av radioutrustning og radiodekningsområdeVHF-kanal 16 og VHF/DSC-kanal 70,MF/DSC-frekvensen 2187,5 kHz.
+(1) Alle fartøy som ikke er trygt fortøyd i havn, skal holde kontinuerlig radiovakt på følgende radiokanaler, frekvenser og systemer, avhengig av radioutrustning og radiodekningsområde
+
+1. VHF-kanal 16 og VHF/DSC-kanal 70,
+2. MF/DSC-frekvensen 2187,5 kHz.
 
 (2) Alle fartøy som ikke er trygt fortøyd i havn, skal holde radiovakt for mottak av maritim sikkerhetsinformasjon (MSI), ved hjelp av NAVTEX-mottaker eller andre metoder som ivaretar samme sikkerhetsfunksjon ved å innhente relevante vær- og navigasjonsvarsler gjennom VHF kystradio, offentlig elektronisk system eller annen offentlig kringkasting.
 
@@ -722,7 +865,13 @@ Følgende dokumentasjon vedrørende radioutstyr skal finnes om bord:
 
 ### § 73. Radioopptegnelser
 
-Radiodagbok skal oppbevares på det sted hvor lyttevakten holdes. Den skal være tilgjengelig for inspeksjon når bemyndigede personer krever det. Følgende skal føres inn i dagboka:sammendrag av kommunikasjon i forbindelse med nød-, haste- og sikkerhetstrafikk,viktige hendelser i tjenesten,fartøyets posisjon når hendelsene inntraff,oversikt over vedlikehold av radioutstyr og energikilder, ogdaglig/månedlig funksjonstest av radiostasjonen, utført av ansvarlig radiooperatør.
+Radiodagbok skal oppbevares på det sted hvor lyttevakten holdes. Den skal være tilgjengelig for inspeksjon når bemyndigede personer krever det. Følgende skal føres inn i dagboka:
+
+1. sammendrag av kommunikasjon i forbindelse med nød-, haste- og sikkerhetstrafikk,
+2. viktige hendelser i tjenesten,
+3. fartøyets posisjon når hendelsene inntraff,
+4. oversikt over vedlikehold av radioutstyr og energikilder, og
+5. daglig/månedlig funksjonstest av radiostasjonen, utført av ansvarlig radiooperatør.
 
 ### § 74. Posisjonsoppdatering
 
@@ -770,7 +919,12 @@ Fartøy bygget etter 1. juli 1997 med fartøyinstruks for fartsområde Bankfiske
 
 ### § 79. Radaranlegg
 
-Dersom fartøy med største lengde på 10,67 til 15 meter, bygget etter 1. juli 1997, er utstyrt med radaranlegg, skal radaranleggetvære plassert slik at operatøren har god sikt til radarskjermen fra operatørplassen,ha radarantennen plassert slik at radarbildets kvalitet ikke blir forringet på grunn av kort avstand til annet utstyr eller til master, poster mv.,ha oppslag ved radarindikatoren som angir retning og størrelse på eventuelle blindsektorer, ogha radarantenne plassert slik at den ikke reduserer effekten på det øvrige radioutstyret.
+Dersom fartøy med største lengde på 10,67 til 15 meter, bygget etter 1. juli 1997, er utstyrt med radaranlegg, skal radaranlegget
+
+1. være plassert slik at operatøren har god sikt til radarskjermen fra operatørplassen,
+2. ha radarantennen plassert slik at radarbildets kvalitet ikke blir forringet på grunn av kort avstand til annet utstyr eller til master, poster mv.,
+3. ha oppslag ved radarindikatoren som angir retning og størrelse på eventuelle blindsektorer, og
+4. ha radarantenne plassert slik at den ikke reduserer effekten på det øvrige radioutstyret.
 
 ### § 80. Elektronisk utstyr for posisjonsbestemmelse
 
@@ -836,7 +990,11 @@ Fartøy skal være utstyrt med tilstrekkelige og ajourførte kart, farvannsbeskr
 
 ### § 89. Lyskaster
 
-Fartøy med største lengde 12 til 15 meter, bygget etter 1. juli 1997, som skal operere i fartsområde større enn fjordfiske skal halyskaster og signallampe,svingbar lyskaster som også kan anvendes til signalering, ellertransportabel signallampe som kan anvendes som lyskaster.
+Fartøy med største lengde 12 til 15 meter, bygget etter 1. juli 1997, som skal operere i fartsområde større enn fjordfiske skal ha
+
+1. lyskaster og signallampe,
+2. svingbar lyskaster som også kan anvendes til signalering, eller
+3. transportabel signallampe som kan anvendes som lyskaster.
 
 ### § 90. Bruksanvisninger, reservedeler mv.
 
@@ -846,17 +1004,51 @@ Fartøy med største lengde 12 til 15 meter, bygget etter 1. juli 1997, som skal
 
 ### § 91. Styrehusarrangement, sikt fra styrehus mv.
 
-(1) For fartøy med største lengde 10,67 til 15 meter bygget mellom 1. juli 1979 og 1. januar 1992 gjelder følgende krav:Fra styrehus skal det være mulig å bevege seg slik at man har oversikt og ser horisonten rundt uten hensyn til trim og eventuelle kraner, tanker, skorsteiner o.l.I styrehus som bare har en dør, skal minst ett av vinduene på hver side i styrehuset kunne åpnes.Styrehuset skal være slik innrettet at det i størst mulig utstrekning er utsikt horisonten rundt. Instrumenter og vindusarrangement skal være arrangert slik at det ikke oppstår forstyrrende refleksvirkning.Instrumenter og annet utstyr som anbringes i styrehuset, må plasseres slik at de ikke hindrer navigatøren i å ha oversikt over værdekket foran styrehuset.Belysning av instrumenter i styrehus og ev. kartrom skal være arrangert slik at det ikke oppstår blendingseffekt og slik at refleksvirkning ikke hindrer sikt og effektivt utkikk.Det skal være bord e.l. med tilstrekkelig størrelse og hensiktsmessig plassert med egnet belysning for forsvarlig navigering etter kart.Rorgjengerens plass skal så vidt mulig være i fartøyets senterlinje. Rorgjengerens plassering skal ikke vanskeliggjøre bruk og betjening av navigasjonsutstyr, utstyr for fjernmanøvrering av fremdriftsmaskineri og utstyr i styrehuset i forbindelse med drift av periodevis ubemannet maskinrom.
+(1) For fartøy med største lengde 10,67 til 15 meter bygget mellom 1. juli 1979 og 1. januar 1992 gjelder følgende krav:
 
-(2) For fartøy med største lengde 6 til 15 meter bygget mellom 1. januar 1992 og 1. juli 1997 gjelder følgende:Det skal være god sikt fra styrehus forover, til siden og akterover. Frontvinduer skal kunne holdes fri for regn, sprut og kondens.Instrumenter, reguleringshåndtak, kontrollamper mv. i styrehuset skal plasseres hensiktsmessig.Innredningsdetaljer på styrepult og i synsfeltet skal så langt det er praktisk mulig utføres i refleksfritt materiale.Fri takhøyde i styrehus skal normalt være minst 1,98 meter.
+1. Fra styrehus skal det være mulig å bevege seg slik at man har oversikt og ser horisonten rundt uten hensyn til trim og eventuelle kraner, tanker, skorsteiner o.l.
+2. I styrehus som bare har en dør, skal minst ett av vinduene på hver side i styrehuset kunne åpnes.
+3. Styrehuset skal være slik innrettet at det i størst mulig utstrekning er utsikt horisonten rundt. Instrumenter og vindusarrangement skal være arrangert slik at det ikke oppstår forstyrrende refleksvirkning.
+4. Instrumenter og annet utstyr som anbringes i styrehuset, må plasseres slik at de ikke hindrer navigatøren i å ha oversikt over værdekket foran styrehuset.
+5. Belysning av instrumenter i styrehus og ev. kartrom skal være arrangert slik at det ikke oppstår blendingseffekt og slik at refleksvirkning ikke hindrer sikt og effektivt utkikk.
+6. Det skal være bord e.l. med tilstrekkelig størrelse og hensiktsmessig plassert med egnet belysning for forsvarlig navigering etter kart.
+7. Rorgjengerens plass skal så vidt mulig være i fartøyets senterlinje. Rorgjengerens plassering skal ikke vanskeliggjøre bruk og betjening av navigasjonsutstyr, utstyr for fjernmanøvrering av fremdriftsmaskineri og utstyr i styrehuset i forbindelse med drift av periodevis ubemannet maskinrom.
 
-(3) For fartøy bygget etter 1. juli 1997 gjelder følgende krav:Fra styrehus/bro skal det være fritt utsyn til havoverflaten to fartøylengder foran fartøyets baug og 10° på hver side uansett fartøyets dypgående, trim og dekkslast.Ingen blindsektor forårsaket av fiske-, last- og losseutstyr eller andre hindringer utenfor styrehuset forenom tvers, skal blokkere utsynet til havoverflaten fra styrehus/styreplass med mer enn 10°. Utstrekningen på hver enkelt blindsektor skal ikke overstige 5°. Blindsektorenes totale utstrekning skal ikke overstige 20° av horisonten. Sikten mellom blindsektorer skal være minst 5°.Det horisontale synsfeltet fra styrehus/styreplass skal samlet danne en bue på ikke mindre enn 225° regnet fra rett forover til ikke mindre enn 22,5° aktenfor tvers på hver side av fartøyet.Fra hver «brovinge» eller hver side av styrehuset på fartøy med største lengde på 10,67 til 15 meter skal det horisontale synsfeltet samlet danne en bue på minst 225° regnet fra minst 45° over motsatt baug til rett forover og fra rett forover til rett akterover i en bue på 180° på samme side av fartøyet.Fra styreplassen skal det horisontale synsfeltet på fartøy med største lengde på 10,67 meter og derover danne en bue fra rett forover til minst 60° på hver side av fartøyet.
+(2) For fartøy med største lengde 6 til 15 meter bygget mellom 1. januar 1992 og 1. juli 1997 gjelder følgende:
 
-(4) For vinduer i styrehus på fartøy med største lengde på 10,67 til 15 meter bygget etter 1. juli 1997 gjelder følgende krav:Høyden fra brodekket til nedre kant av frontvinduene i styrehuset skal være så liten som mulig. Ikke i noe tilfelle skal den nedre kanten av vinduene kunne hindre utsynet forover.Den øvre kanten av frontvinduene i styrehuset skal gi utsyn forover til horisonten for en person med en øyehøyde på 180 cm over dekket i styrehuset ved styreplassen.Sprossene mellom vinduene i styrehuset skal være færrest mulig. Det skal ikke være montert vindussprosser rett foran styreplassenPolariserte og fargede vinduer skal ikke benyttes.Det skal være montert klarsiktskive i ett av vinduene i styrehuset eller varmevindu med ferskvannsspyling og vindusvisker. Avhengig av brokonstruksjonen skal det om nødvendig monteres flere slike vinduer slik at det til enhver tid er klar sikt uansett værforhold.
+1. Det skal være god sikt fra styrehus forover, til siden og akterover. Frontvinduer skal kunne holdes fri for regn, sprut og kondens.
+2. Instrumenter, reguleringshåndtak, kontrollamper mv. i styrehuset skal plasseres hensiktsmessig.
+3. Innredningsdetaljer på styrepult og i synsfeltet skal så langt det er praktisk mulig utføres i refleksfritt materiale.
+4. Fri takhøyde i styrehus skal normalt være minst 1,98 meter.
 
-(5) For styrehusarrangement på fartøy med største lengde på 10,67 til 15 meter bygget etter 1. juli 1997 gjelder følgende krav:Styrehus skal være plassert så høyt som praktisk mulig og slik at kravene til sikt fra styrehus er ivaretatt.Styrehus skal ha slik størrelse og utforming at hjelpemidler og utstyr kan plasseres på hensiktsmessig og forsvarlig måte. Navigatøren(e) skal lett kunne bevege seg, overvåke instrumenter og foreta de gjøremål som skal utføres under vakttjeneste.Dersom instrumenter skal plasseres under styrehustaket, skal takhøyden være minst 190 cm og slik at det er fri sikt og gangpassasje under instrumentene. Kravet gjelder ikke for magnetkompassets reflektoranordning.
+(3) For fartøy bygget etter 1. juli 1997 gjelder følgende krav:
 
-(6) For montering og vedlikehold av navigasjonshjelpemidler gjelder følgende krav:Montering av navigasjonshjelpemidler skal utføres eller godtas av fagperson som representerer produsenten.Navigasjonshjelpemidler skal plasseres på en hensiktsmessig måte, også med tanke på inspeksjon og vedlikehold.Nyinstallerte navigasjonshjelpemidler skal være funksjonsprøvd under påsyn av en representant for produsenten før fartøyet settes i drift.Navigasjonshjelpemidler skal etterses, vedlikeholdes og om nødvendig kalibreres eller korrigeres i henhold til produsentens anbefalinger.
+1. Fra styrehus/bro skal det være fritt utsyn til havoverflaten to fartøylengder foran fartøyets baug og 10° på hver side uansett fartøyets dypgående, trim og dekkslast.
+2. Ingen blindsektor forårsaket av fiske-, last- og losseutstyr eller andre hindringer utenfor styrehuset forenom tvers, skal blokkere utsynet til havoverflaten fra styrehus/styreplass med mer enn 10°. Utstrekningen på hver enkelt blindsektor skal ikke overstige 5°. Blindsektorenes totale utstrekning skal ikke overstige 20° av horisonten. Sikten mellom blindsektorer skal være minst 5°.
+3. Det horisontale synsfeltet fra styrehus/styreplass skal samlet danne en bue på ikke mindre enn 225° regnet fra rett forover til ikke mindre enn 22,5° aktenfor tvers på hver side av fartøyet.
+4. Fra hver «brovinge» eller hver side av styrehuset på fartøy med største lengde på 10,67 til 15 meter skal det horisontale synsfeltet samlet danne en bue på minst 225° regnet fra minst 45° over motsatt baug til rett forover og fra rett forover til rett akterover i en bue på 180° på samme side av fartøyet.
+5. Fra styreplassen skal det horisontale synsfeltet på fartøy med største lengde på 10,67 meter og derover danne en bue fra rett forover til minst 60° på hver side av fartøyet.
+
+(4) For vinduer i styrehus på fartøy med største lengde på 10,67 til 15 meter bygget etter 1. juli 1997 gjelder følgende krav:
+
+1. Høyden fra brodekket til nedre kant av frontvinduene i styrehuset skal være så liten som mulig. Ikke i noe tilfelle skal den nedre kanten av vinduene kunne hindre utsynet forover.
+2. Den øvre kanten av frontvinduene i styrehuset skal gi utsyn forover til horisonten for en person med en øyehøyde på 180 cm over dekket i styrehuset ved styreplassen.
+3. Sprossene mellom vinduene i styrehuset skal være færrest mulig. Det skal ikke være montert vindussprosser rett foran styreplassen
+4. Polariserte og fargede vinduer skal ikke benyttes.
+5. Det skal være montert klarsiktskive i ett av vinduene i styrehuset eller varmevindu med ferskvannsspyling og vindusvisker. Avhengig av brokonstruksjonen skal det om nødvendig monteres flere slike vinduer slik at det til enhver tid er klar sikt uansett værforhold.
+
+(5) For styrehusarrangement på fartøy med største lengde på 10,67 til 15 meter bygget etter 1. juli 1997 gjelder følgende krav:
+
+1. Styrehus skal være plassert så høyt som praktisk mulig og slik at kravene til sikt fra styrehus er ivaretatt.
+2. Styrehus skal ha slik størrelse og utforming at hjelpemidler og utstyr kan plasseres på hensiktsmessig og forsvarlig måte. Navigatøren(e) skal lett kunne bevege seg, overvåke instrumenter og foreta de gjøremål som skal utføres under vakttjeneste.
+3. Dersom instrumenter skal plasseres under styrehustaket, skal takhøyden være minst 190 cm og slik at det er fri sikt og gangpassasje under instrumentene. Kravet gjelder ikke for magnetkompassets reflektoranordning.
+
+(6) For montering og vedlikehold av navigasjonshjelpemidler gjelder følgende krav:
+
+1. Montering av navigasjonshjelpemidler skal utføres eller godtas av fagperson som representerer produsenten.
+2. Navigasjonshjelpemidler skal plasseres på en hensiktsmessig måte, også med tanke på inspeksjon og vedlikehold.
+3. Nyinstallerte navigasjonshjelpemidler skal være funksjonsprøvd under påsyn av en representant for produsenten før fartøyet settes i drift.
+4. Navigasjonshjelpemidler skal etterses, vedlikeholdes og om nødvendig kalibreres eller korrigeres i henhold til produsentens anbefalinger.
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
@@ -876,19 +1068,39 @@ Fartøy med største lengde under 8 meter er ikke gjenstand for kontroll ved god
 
 ### § 95. Kontroll av fartøy med største lengde 8 til 9 meter
 
-Alle fartøy med største lengde 8 til 9 meter skalgjennom fullstendig kontroll ved godkjent foretak.gjennom fullstendig kontroll ved akseptert elektroforetak. Kravet om fullstendig kontroll ved akseptert elektroforetak gjelder ikke for eksisterende fartøy i som har gyldig installasjonsbevis for det elektriske anlegget på tidspunkt for fremstilling for førstegangs kontroll ved godkjent foretak.kontrolleres hver 30. måned av reder (reders egenkontroll). Egenkontrollen kan finne sted inntil seks måneder før eller etter denne dato, uten at dato for neste egenkontroll blir endret. Er egenkontrollen ikke gjennomført innen de nevnte frister blir fartøyinstruksen ugyldig.ha kopi av skjema for utført egenkontroll og utført fullstendig kontroll om bord.
+Alle fartøy med største lengde 8 til 9 meter skal
+
+1. gjennom fullstendig kontroll ved godkjent foretak.
+2. gjennom fullstendig kontroll ved akseptert elektroforetak. Kravet om fullstendig kontroll ved akseptert elektroforetak gjelder ikke for eksisterende fartøy i som har gyldig installasjonsbevis for det elektriske anlegget på tidspunkt for fremstilling for førstegangs kontroll ved godkjent foretak.
+3. kontrolleres hver 30. måned av reder (reders egenkontroll). Egenkontrollen kan finne sted inntil seks måneder før eller etter denne dato, uten at dato for neste egenkontroll blir endret. Er egenkontrollen ikke gjennomført innen de nevnte frister blir fartøyinstruksen ugyldig.
+4. ha kopi av skjema for utført egenkontroll og utført fullstendig kontroll om bord.
 
 > Endret ved forskrift [6 des 2021 nr. 3415](forskrift/2021-12-06-3415) (i kraft 1 jan 2022).
 
 ### § 96. Kontroll av fartøy med største lengde 9 til 10,67 meter
 
-Alle fartøy med største lengde 9 til 10,67 meter skalgjennom en fullstendig kontroll ved godkjent foretak dersom fartøyet ikke har vært fremstilt for fullstendig eller periodisk kontroll ved godkjent foretak i løpet av de siste 5 år.innenfor en periode på 5 år være fremstilt for en periodisk kontroll ved godkjent foretak. Kontrollen kan finne sted inntil seks måneder før denne dato, uten at dato for neste kontroll blir endret.ha gjennomført forberedende egenkontroll i forbindelse med fullstendig eller periodisk kontroll før fartøyet blir fremstilt for kontroll ved godkjent foretak.innenfor en periode på 30 måneder etter siste fullstendige eller periodiske kontroll ved godkjent foretak gjennom en mellomliggende periodisk egenkontroll av reder (reders egenkontroll). Egenkontrollen kan finne sted inntil seks måneder før eller etter denne dato. Er egenkontrollen ikke gjennomført innen de nevnte frister blir fartøysinstruksen ugyldig.gjennom fullstendig kontroll ved akseptert elektroforetak. Kravet om fullstendig kontroll ved akseptert elektroforetak gjelder ikke for eksisterende fartøy som har gyldig installasjonsbevis for det elektriske anlegget på tidspunkt for fremstilling for førstegangs kontroll ved godkjent foretak.bli fremstilt for periodisk kontroll ved akseptert elektroforetak innenfor en periode på 5 år fra dato for siste fullstendig kontroll, eller dato for siste periodisk kontroll ved akseptert elektroforetak. Kontrollen kan finne sted inntil seks måneder før inneværende periode utløper uten at dato for neste kontroll blir endret.oppbevare gyldig fartøyinstruks og kontrollskjema om bord.
+Alle fartøy med største lengde 9 til 10,67 meter skal
+
+1. gjennom en fullstendig kontroll ved godkjent foretak dersom fartøyet ikke har vært fremstilt for fullstendig eller periodisk kontroll ved godkjent foretak i løpet av de siste 5 år.
+2. innenfor en periode på 5 år være fremstilt for en periodisk kontroll ved godkjent foretak. Kontrollen kan finne sted inntil seks måneder før denne dato, uten at dato for neste kontroll blir endret.
+3. ha gjennomført forberedende egenkontroll i forbindelse med fullstendig eller periodisk kontroll før fartøyet blir fremstilt for kontroll ved godkjent foretak.
+4. innenfor en periode på 30 måneder etter siste fullstendige eller periodiske kontroll ved godkjent foretak gjennom en mellomliggende periodisk egenkontroll av reder (reders egenkontroll). Egenkontrollen kan finne sted inntil seks måneder før eller etter denne dato. Er egenkontrollen ikke gjennomført innen de nevnte frister blir fartøysinstruksen ugyldig.
+5. gjennom fullstendig kontroll ved akseptert elektroforetak. Kravet om fullstendig kontroll ved akseptert elektroforetak gjelder ikke for eksisterende fartøy som har gyldig installasjonsbevis for det elektriske anlegget på tidspunkt for fremstilling for førstegangs kontroll ved godkjent foretak.
+6. bli fremstilt for periodisk kontroll ved akseptert elektroforetak innenfor en periode på 5 år fra dato for siste fullstendig kontroll, eller dato for siste periodisk kontroll ved akseptert elektroforetak. Kontrollen kan finne sted inntil seks måneder før inneværende periode utløper uten at dato for neste kontroll blir endret.
+7. oppbevare gyldig fartøyinstruks og kontrollskjema om bord.
 
 > Endret ved [forskrifter 4 mai 2015 nr. 445](forskrift/2015-05-04-445) (i kraft 6 mai 2015), [6 des 2021 nr. 3415](forskrift/2021-12-06-3415) (i kraft 1 jan 2022).
 
 ### § 97. Kontroll av fartøy med største lengde 10,67 til 15 meter
 
-Alle fartøy med største lengde 10,67 til 15 meter skalgjennom en fullstendig kontroll ved godkjent foretak dersom fartøyet ikke har vært fremstilt for fullstendig eller periodisk kontroll i løpet av de siste 30 månedene.innenfor en periode på 30 måneder være fremstilt for en periodisk kontroll ved godkjent foretak. Kontrollen kan finne sted inntil seks måneder før denne dato, uten at dato for neste kontroll blir endret.ha gjennomført forberedende egenkontroll i forbindelse med fullstendig eller periodisk kontroll før fartøyet blir fremstilt for kontroll ved godkjent foretak.ha gjennomført en fullstendig kontroll ved akseptert elektroforetak dersom fartøyet ikke har vært fremstilt for fullstendig eller periodisk kontroll i løpet av de siste 5 år.bli fremstilt for periodisk kontroll ved akseptert elektroforetak innenfor en periode på 5 år fra dato for siste fullstendig kontroll, eller dato for siste periodisk kontroll ved akseptert elektroforetak. Kontrollen kan finne sted inntil seks måneder før inneværende periode utløper uten at dato for neste kontroll blir endret.oppbevare gyldig fartøyinstruks og kontrollskjema om bord.
+Alle fartøy med største lengde 10,67 til 15 meter skal
+
+1. gjennom en fullstendig kontroll ved godkjent foretak dersom fartøyet ikke har vært fremstilt for fullstendig eller periodisk kontroll i løpet av de siste 30 månedene.
+2. innenfor en periode på 30 måneder være fremstilt for en periodisk kontroll ved godkjent foretak. Kontrollen kan finne sted inntil seks måneder før denne dato, uten at dato for neste kontroll blir endret.
+3. ha gjennomført forberedende egenkontroll i forbindelse med fullstendig eller periodisk kontroll før fartøyet blir fremstilt for kontroll ved godkjent foretak.
+4. ha gjennomført en fullstendig kontroll ved akseptert elektroforetak dersom fartøyet ikke har vært fremstilt for fullstendig eller periodisk kontroll i løpet av de siste 5 år.
+5. bli fremstilt for periodisk kontroll ved akseptert elektroforetak innenfor en periode på 5 år fra dato for siste fullstendig kontroll, eller dato for siste periodisk kontroll ved akseptert elektroforetak. Kontrollen kan finne sted inntil seks måneder før inneværende periode utløper uten at dato for neste kontroll blir endret.
+6. oppbevare gyldig fartøyinstruks og kontrollskjema om bord.
 
 > Endret ved forskrift [6 des 2021 nr. 3415](forskrift/2021-12-06-3415) (i kraft 1 jan 2022).
 
@@ -908,7 +1120,10 @@ Alle fartøy med største lengde 10,67 til 15 meter skalgjennom en fullstendig k
 
 (1) Alle fartøy med største lengde 8 til 15 meter som skades, har gjennomgått reparasjoner, ombygges eller forandres skal fremstilles for kontroll ved godkjent foretak. Kontrollen skal omfatte de skadede og reparerte delene, det som er ombygd eller endret, samt andre deler av fartøyet som blir berørt av endringene som gjøres, med mindre det er nødvendig å kontrollere også andre deler for sikre at kravene til fartøyet er oppfylt.
 
-(2) Godkjent foretak kan etter skriftlig søknad utstede fartstillatelse for én enkelt reise i en periode på inntil syv dager når følgende krav er oppfylt:Det er nødvendig i forbindelse med kontroll, reparasjon eller ombygging av fartøyet.Det er sikkerhetsmessig forsvarlig, eventuelt med kompenserende tiltak som vil opprettholde et akseptabelt sikkerhetsnivå.
+(2) Godkjent foretak kan etter skriftlig søknad utstede fartstillatelse for én enkelt reise i en periode på inntil syv dager når følgende krav er oppfylt:
+
+1. Det er nødvendig i forbindelse med kontroll, reparasjon eller ombygging av fartøyet.
+2. Det er sikkerhetsmessig forsvarlig, eventuelt med kompenserende tiltak som vil opprettholde et akseptabelt sikkerhetsnivå.
 
 (3) Fartstillatelse skal utstedes på skjema som kan lastes ned på [www.sdir.no](https://www.sdir.no).
 
@@ -926,7 +1141,10 @@ Alle fartøy med største lengde 10,67 til 15 meter skalgjennom en fullstendig k
 
 (1) All kontroll ved akseptert elektroforetak blir utført slik det fremgår av kontrollskjema fastsatt av Direktoratet for samfunnssikkerhet og beredskap. For klassede fartøy kan kontrollen av det elektriske anlegget utføres av anerkjente klasseinstitusjoner.
 
-(2) Plikt til annen kontroll ved akseptert elektroforetak for å sikre at fartøyets tilstand fortsatt er i samsvar med de til enhver tid gjeldende forskrifter gjelder nårdet elektriske anlegget er ombygget eller forandret, ogdet elektriske anlegget har vært utsatt for skade eller har gjennomgått reparasjoner.
+(2) Plikt til annen kontroll ved akseptert elektroforetak for å sikre at fartøyets tilstand fortsatt er i samsvar med de til enhver tid gjeldende forskrifter gjelder når
+
+1. det elektriske anlegget er ombygget eller forandret, og
+2. det elektriske anlegget har vært utsatt for skade eller har gjennomgått reparasjoner.
 
 (3) Kontroll som nevnt i annet ledd skal omfatte de deler som har vært skadet eller gjennomgått reparasjoner, forandringer eller ombygginger. Kontrollen skal også omfatte andre deler dersom dette er nødvendig for å sikre at fartøyets tilstand fortsatt er i samsvar med de til enhver tid gjeldende forskrifter.
 
@@ -940,7 +1158,13 @@ Ved bygging eller ombygging av fartøy med største lengde 8 til 15 meter skal t
 
 (1) Dokumentasjon som etter denne forskriften kreves oppbevart om bord skal og kunne fremlegges ved senere inspeksjoner/tilsyn.
 
-(2) Foruten dokumentasjon som er nevnt i den enkelte bestemmelse skal følgende oppbevares om bord:for fartøy med største lengde 6 til 8 meter skal det foreligge installasjonsbevis for elektriske anlegg.for fartøy med største lengde 8 til 15 meter skal det foreligge kontrollskjema for elektriske anlegg utstedt av akseptert elektroforetak. For eksisterende fartøy med største lengde 8 til 9 meter godtas gyldig installasjonsbevis som dokumentasjon for det elektriske anlegget. Dersom Direktoratet for samfunnssikkerhet og beredskap aksepterer det kan kontrollskjema og installasjonsbevis erstattes av en tilsynserklæring.for fartøy med største lengde 6 til 15 meter skal det bli oppbevart kontrollbok for laste- og losseinnretninger som nevnt i [forskrift 17. januar 1978 nr. 4](forskrift/1978-01-17-4) om laste- og losseinnretninger på skip.for nye og eksisterende fartøy bygget etter 1. juli 2014 med største lengde 6 til 8 meter skal det oppbevares en byggebekreftelse.for eksisterende fartøy over 8 meter bygget etter 1. juli 2014 skal det oppbevares en byggebekreftelse til det er gjennomført en fullstendig kontroll ved godkjent foretak etter [§ 95](forskrift/2013-11-22-1404/§95) og [§ 96](forskrift/2013-11-22-1404/§96).
+(2) Foruten dokumentasjon som er nevnt i den enkelte bestemmelse skal følgende oppbevares om bord:
+
+1. for fartøy med største lengde 6 til 8 meter skal det foreligge installasjonsbevis for elektriske anlegg.
+2. for fartøy med største lengde 8 til 15 meter skal det foreligge kontrollskjema for elektriske anlegg utstedt av akseptert elektroforetak. For eksisterende fartøy med største lengde 8 til 9 meter godtas gyldig installasjonsbevis som dokumentasjon for det elektriske anlegget. Dersom Direktoratet for samfunnssikkerhet og beredskap aksepterer det kan kontrollskjema og installasjonsbevis erstattes av en tilsynserklæring.
+3. for fartøy med største lengde 6 til 15 meter skal det bli oppbevart kontrollbok for laste- og losseinnretninger som nevnt i [forskrift 17. januar 1978 nr. 4](forskrift/1978-01-17-4) om laste- og losseinnretninger på skip.
+4. for nye og eksisterende fartøy bygget etter 1. juli 2014 med største lengde 6 til 8 meter skal det oppbevares en byggebekreftelse.
+5. for eksisterende fartøy over 8 meter bygget etter 1. juli 2014 skal det oppbevares en byggebekreftelse til det er gjennomført en fullstendig kontroll ved godkjent foretak etter [§ 95](forskrift/2013-11-22-1404/§95) og [§ 96](forskrift/2013-11-22-1404/§96).
 
 (3) Fartøyets eier er ansvarlig for at hovedprodusent/bygger, herunder bygger av halvfabrikat/selvbygger, samt importør/egenimportør utferdiger byggebekreftelse på skjema utarbeidet av Sjøfartsdirektoratet.
 
@@ -960,29 +1184,59 @@ Ved bygging eller ombygging av fartøy med største lengde 8 til 15 meter skal t
 
 ### § 103. Dispensasjon og likeverdige løsninger
 
-(1) Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskriften dersom rederiet søker skriftlig om unntak og et av følgende krav er oppfyltdet godtgjøres at kravet ikke er vesentlig og at det anses sikkerhetsmessig forsvarligdet godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+(1) Sjøfartsdirektoratet kan unnta et skip fra ett eller flere av kravene i forskriften dersom rederiet søker skriftlig om unntak og et av følgende krav er oppfylt
+
+1. det godtgjøres at kravet ikke er vesentlig og at det anses sikkerhetsmessig forsvarlig
+2. det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
 
 (2) Etter søknad kan Sjøfartsdirektoratet treffe vedtak som godkjenner andre løsninger som likeverdige med forskriftens krav, når det framlegges dokumentasjon fra prøver og tester som viser at løsningene er likeverdige.
 
 ### § 104. Ikrafttredelse
 
-Denne forskrift trer i kraft 1. januar 2014. Fra samme tid oppheves[forskrift 18. august 1978 nr. 9154](forskrift/1978-08-18-9154) om navigasjonshjelpemidler m.v. på fiske- og fangstfartøyer[forskrift 4. september 1987 nr. 743](forskrift/1987-09-04-743) om sikringstiltak mot brann på fiske- og fangstfartøy hva gjelder fartøy under 15 meter[forskrift 15. oktober 1991 nr. 708](forskrift/1991-10-15-708) om bygging og utrustning av fiske- og fangstfartøy fra 6 m og opptil 15 m største lengde[forskrift 15. oktober 1991 nr. 709](forskrift/1991-10-15-709) om redningsredskaper m.m. på fiske- og fangstfartøy hva gjelder fartøy under 15 meter[forskrift 15. oktober 1991 nr. 710](forskrift/1991-10-15-710) om sikkerhetstiltak m.v. på fiske- og fangstfartøy[forskrift 22. desember 1993 nr. 1242](forskrift/1993-12-22-1242) om radioanlegg og radiotjeneste i fiske- og fangstfartøy[forskrift 3. oktober 2000 nr. 985](forskrift/2000-10-03-985) om kontroll av fiske- og fangstfartøy fra 10,67 til 15 meter største lengde.
+Denne forskrift trer i kraft 1. januar 2014. Fra samme tid oppheves
+
+1. [forskrift 18. august 1978 nr. 9154](forskrift/1978-08-18-9154) om navigasjonshjelpemidler m.v. på fiske- og fangstfartøyer
+2. [forskrift 4. september 1987 nr. 743](forskrift/1987-09-04-743) om sikringstiltak mot brann på fiske- og fangstfartøy hva gjelder fartøy under 15 meter
+3. [forskrift 15. oktober 1991 nr. 708](forskrift/1991-10-15-708) om bygging og utrustning av fiske- og fangstfartøy fra 6 m og opptil 15 m største lengde
+4. [forskrift 15. oktober 1991 nr. 709](forskrift/1991-10-15-709) om redningsredskaper m.m. på fiske- og fangstfartøy hva gjelder fartøy under 15 meter
+5. [forskrift 15. oktober 1991 nr. 710](forskrift/1991-10-15-710) om sikkerhetstiltak m.v. på fiske- og fangstfartøy
+6. [forskrift 22. desember 1993 nr. 1242](forskrift/1993-12-22-1242) om radioanlegg og radiotjeneste i fiske- og fangstfartøy
+7. [forskrift 3. oktober 2000 nr. 985](forskrift/2000-10-03-985) om kontroll av fiske- og fangstfartøy fra 10,67 til 15 meter største lengde.
 
 ### § 105. Overgangsregler
 
-(1) For fartøy med største lengde 8 til 10,67 meter, unntatt fartøy som nevnt i tredje og fjerde ledd, kommer kravene i [kapittel 9](forskrift/2013-11-22-1404/kap9) om kontroll ved godkjent foretak, samt kravene til stabilitetsdokumentasjon til anvendelse fra1. juli 2014 for nye fartøy1. januar 2016 for eksisterende fartøy bygget 1. januar 1998 eller senere1. januar 2017 for fartøy bygget i perioden 1. januar 1992 til 31. desember 19971. januar 2019 for fartøy bygget i perioden 1. januar 1983 til 31. desember 19911. januar 2020 for fartøy bygget i perioden 1. januar 1970 til 31. desember 19821. januar 2021 for fartøy bygget før 1970.
+(1) For fartøy med største lengde 8 til 10,67 meter, unntatt fartøy som nevnt i tredje og fjerde ledd, kommer kravene i [kapittel 9](forskrift/2013-11-22-1404/kap9) om kontroll ved godkjent foretak, samt kravene til stabilitetsdokumentasjon til anvendelse fra
+
+1. 1\. juli 2014 for nye fartøy
+2. 1\. januar 2016 for eksisterende fartøy bygget 1. januar 1998 eller senere
+3. 1\. januar 2017 for fartøy bygget i perioden 1. januar 1992 til 31. desember 1997
+4. 1\. januar 2019 for fartøy bygget i perioden 1. januar 1983 til 31. desember 1991
+5. 1\. januar 2020 for fartøy bygget i perioden 1. januar 1970 til 31. desember 1982
+6. 1\. januar 2021 for fartøy bygget før 1970.
 
 (2) For fartøy med største lengde 9 til 10,67 meter kan første fullstendige kontroll ved godkjent foretak gjennomføres inntil 18 måneder før innfasingsdatoene i første ledd uten at dato for neste kontroll blir endret. Ved senere kontroller gjelder bestemmelsene i [§ 96](forskrift/2013-11-22-1404/§96).
 
-(3) Uavhengig av bestemmelsen i første ledd kommer kravene i [kapittel 9](forskrift/2013-11-22-1404/kap9) om kontroll og dokumentasjon til anvendelse for fartøy med største lengde 8 til 10,67 meter, bygget før 1. januar 1992, fra1. januar 2016 for alle fartøy som skal operere i fartsområde Bankfiske I1. januar 2019 for alle fartøy som skal operere i fartsområde Kystfiske.
+(3) Uavhengig av bestemmelsen i første ledd kommer kravene i [kapittel 9](forskrift/2013-11-22-1404/kap9) om kontroll og dokumentasjon til anvendelse for fartøy med største lengde 8 til 10,67 meter, bygget før 1. januar 1992, fra
 
-(4) For fartøy bygget før 1. januar 1992, som opererer i fartsområde Fjordfiske, med unntak av fartøy som fisker med not og som tar om bord fangsten, kommer kravene i [kapittel 4](forskrift/2013-11-22-1404/kap4) om stabilitetsberegninger til anvendelse fra1. januar 2022 for fartøy med største lengde 8 til 9 meter1. januar 2021 for fartøy med største lengde 9 til 10,67 meter.
+1. 1\. januar 2016 for alle fartøy som skal operere i fartsområde Bankfiske I
+2. 1\. januar 2019 for alle fartøy som skal operere i fartsområde Kystfiske.
+
+(4) For fartøy bygget før 1. januar 1992, som opererer i fartsområde Fjordfiske, med unntak av fartøy som fisker med not og som tar om bord fangsten, kommer kravene i [kapittel 4](forskrift/2013-11-22-1404/kap4) om stabilitetsberegninger til anvendelse fra
+
+1. 1\. januar 2022 for fartøy med største lengde 8 til 9 meter
+2. 1\. januar 2021 for fartøy med største lengde 9 til 10,67 meter.
 
 (5) For fartøy med største lengde 10,67 til 15 meter, bygget før 1. januar 1992, som opererer i fartsområde Fjordfiske, med unntak av fartøy som fisker med not og som tar om bord fangsten, kommer kravene i [kapittel 4](forskrift/2013-11-22-1404/kap4) om stabilitetsberegninger til anvendelse 1. januar 2020.
 
-(6) Eksisterende fartøy kan ha radioutstyr i henhold til [forskrift 22. desember 1993 nr. 1242](forskrift/1993-12-22-1242) om radioanlegg og radiotjeneste i fiske- og fangstfartøy frem til1. januar 2032 for fartøy med største lengde under 8 meter.10 år etter utstedelse av fartøysinstruks for fartøy med største lengde 8 til 10,67 meter.1. januar 2025 for fartøy med største lengde 10,67 til 15 meter.
+(6) Eksisterende fartøy kan ha radioutstyr i henhold til [forskrift 22. desember 1993 nr. 1242](forskrift/1993-12-22-1242) om radioanlegg og radiotjeneste i fiske- og fangstfartøy frem til
 
-(7) Krav om EPIRP i [§ 68](forskrift/2013-11-22-1404/§68) gjelder likevel fra 1. juli 2014.EPIRB uten innebygd posisjonsangivelse, som er anskaffet før dato 1. juli 2014 kan benyttes frem til den 1. juli 2018.
+1. 1\. januar 2032 for fartøy med største lengde under 8 meter.
+2. 10 år etter utstedelse av fartøysinstruks for fartøy med største lengde 8 til 10,67 meter.
+3. 1\. januar 2025 for fartøy med største lengde 10,67 til 15 meter.
+
+(7) Krav om EPIRP i [§ 68](forskrift/2013-11-22-1404/§68) gjelder likevel fra 1. juli 2014.
+
+EPIRB uten innebygd posisjonsangivelse, som er anskaffet før dato 1. juli 2014 kan benyttes frem til den 1. juli 2018.
 
 (8) For fartøy som ikke har vært registrert i registeret over norske fiskefartøy (merkeregisteret) tidligere, kommer kravene i [kapittel 9](forskrift/2013-11-22-1404/kap9) om kontroll ved godkjent foretak, samt kravene til stabilitetsdokumentasjon, til anvendelse fra det tidspunktet fartøyet tas i bruk, uavhengig av bestemmelsen i første til fjerde ledd.
 
@@ -1098,7 +1352,18 @@ Detektorer skal være godkjent i samsvar med fremgangsmåte inntatt i vedlagte b
 
 Dokumentasjon.
 
-Følgende dokumentasjon skal foreligge ved godkjenning:Bruksanvisning, inklusive fremgangsmåte for rutineprøving om bord.Feilsøkingsprosedyrer med en slik detaljeringsgrad at feil kan lokaliseres til subsystemer som er utskiftbare for kvalifisert offiser.Opplysninger om strømforsyning.Tilkopling av detektorsløyfer samt ytre hjelpeutstyr som f.eks. eksterne alarmorganer, viftestopp, dørmagnet etc.Monteringsanvisning.Komponentliste med angivelse av fabrikat og type for utskiftbare komponenter.Detaljert funksjons- og konstruksjonsbeskrivelse.Tegninger som viser mekanisk konstruksjon og oppbygging.Miljøspesifikasjon som angir grenseverdiene for det ytre miljø sentralutstyret kan operere i.Rapport fra utførte prøver.
+Følgende dokumentasjon skal foreligge ved godkjenning:
+
+- Bruksanvisning, inklusive fremgangsmåte for rutineprøving om bord.
+- Feilsøkingsprosedyrer med en slik detaljeringsgrad at feil kan lokaliseres til subsystemer som er utskiftbare for kvalifisert offiser.
+- Opplysninger om strømforsyning.
+- Tilkopling av detektorsløyfer samt ytre hjelpeutstyr som f.eks. eksterne alarmorganer, viftestopp, dørmagnet etc.
+- Monteringsanvisning.
+- Komponentliste med angivelse av fabrikat og type for utskiftbare komponenter.
+- Detaljert funksjons- og konstruksjonsbeskrivelse.
+- Tegninger som viser mekanisk konstruksjon og oppbygging.
+- Miljøspesifikasjon som angir grenseverdiene for det ytre miljø sentralutstyret kan operere i.
+- Rapport fra utførte prøver.
 
 Dokumentasjon avmerket med – skal leveres om bord med anlegget i hvert enkelt skip.
 
@@ -1150,7 +1415,12 @@ Akustisk brannvarsel og feilvarsel skal kunne kvitteres ut ved hjelp av en enkel
 
 2.12.
 
-Sentralutstyret skal, eventuelt med tilpasningsutstyr, kunne benyttes sammen med følgende detektortyper:Maksimal temperaturdetektorerDifferensiell temperaturdetektorStrålingsdetektor: ultrafiolett, infrarødRøykdetektor: optisk type, ionisasjonstype.
+Sentralutstyret skal, eventuelt med tilpasningsutstyr, kunne benyttes sammen med følgende detektortyper:
+
+- Maksimal temperaturdetektorer
+- Differensiell temperaturdetektor
+- Strålingsdetektor: ultrafiolett, infrarød
+- Røykdetektor: optisk type, ionisasjonstype.
 
 Sentralutstyret skal også kunne benyttes sammen med en kombinasjon av disse detektortyper sammenkoplet i den samme detektorsløyfe, eventuelt med tilpasningsutstyr.
 
@@ -1210,7 +1480,13 @@ Prøvingen foretas etter blokkdiagram.
 
 5.3.
 
-For hver del av miljøprøven skal prøveobjektet gjennomgå en funksjonsprøve. Denne prøven skal bestå av en rekke prøvesekvenser som til sammen dekker alle utstyrets funksjoner. Hver sekvens består av følgende deler:Utløs brannalarm i sløyfe XAvstill eksterne sirenerAvstill lokal summerTilbakestill alarmkretsTilbakestill lokale og eksterne signaler.
+For hver del av miljøprøven skal prøveobjektet gjennomgå en funksjonsprøve. Denne prøven skal bestå av en rekke prøvesekvenser som til sammen dekker alle utstyrets funksjoner. Hver sekvens består av følgende deler:
+
+1. Utløs brannalarm i sløyfe X
+2. Avstill eksterne sirener
+3. Avstill lokal summer
+4. Tilbakestill alarmkrets
+5. Tilbakestill lokale og eksterne signaler.
 
 For hvert av disse trinn observeres objektets tilstand for å oppdage feilfunksjoner.
 
@@ -1218,7 +1494,11 @@ For hvert av disse trinn observeres objektets tilstand for å oppdage feilfunksj
 
 Funksjonsprøve (IEC 60068-1).
 
-Før miljøprøvene blir utført, må en funksjonsprøve gjennomføres i standard atmosfæreforhold:Temperatur: +15 °C til +35 °CRelativ fuktighet: 45 prosent–75 prosentLufttrykk: 860–1060 millibar.
+Før miljøprøvene blir utført, må en funksjonsprøve gjennomføres i standard atmosfæreforhold:
+
+- Temperatur: +15 °C til +35 °C
+- Relativ fuktighet: 45 prosent–75 prosent
+- Lufttrykk: 860–1060 millibar.
 
 De øvrige atmosfæreparametere tillegges ingen betydning. Funksjonsprøve skal foretas mellom hver av de etterfølgende miljøprøver, og skal omfatte alle kontroll-, feilvarslings- og alarmfunksjoner.
 
@@ -1226,11 +1506,18 @@ De øvrige atmosfæreparametere tillegges ingen betydning. Funksjonsprøve skal 
 
 Variasjon i kraftforsyning.
 
-Driftsspenningen skal varieres innenfor de oppgitte grenser. Det kontrolleres under prøven at ikke feilfunksjon inntreffer.Nettspenning: +10 prosent/–15 prosentBatterispenning: +/–17 prosent.
+Driftsspenningen skal varieres innenfor de oppgitte grenser. Det kontrolleres under prøven at ikke feilfunksjon inntreffer.
+
+- Nettspenning: +10 prosent/–15 prosent
+- Batterispenning: +/–17 prosent.
 
 5.6.
 
-Varmeprøve (IEC 68-2-2)Temperatur: +55 °C +/–3 °CVarighet: 16 timerAbsolutt fuktighet: 20 g vann pr. m3 luft.
+Varmeprøve (IEC 68-2-2)
+
+- Temperatur: +55 °C +/–3 °C
+- Varighet: 16 timer
+- Absolutt fuktighet: 20 g vann pr. m3 luft.
 
 Prøveobjektet skal plasseres i et kammer som holder romtemperatur (15 °C til 35 °C). Temperaturen heves så til +55 °C, hvor den skal holdes i minst 16 timer. Deretter senkes temperaturen til romtemperatur igjen.
 
@@ -1240,7 +1527,10 @@ Sentralen skal være i drift under prøven og skal funksjonsprøves. Funksjonspr
 
 Vibrasjonsprøve.
 
-Montasjen under prøvingen skal være av tilsvarende utførelse som utstyret vil få i praksis. Vibrasjonene tilføres i tre retninger som er orientert vinkelrett på hverandre. Følgende krav skal etterkommes:2,0–13,2 Hz: +/–1 mm konst. posisjonsamplitude13,2–80,0 Hz: +/–0,7 konst. akselerasjonsamplitude
+Montasjen under prøvingen skal være av tilsvarende utførelse som utstyret vil få i praksis. Vibrasjonene tilføres i tre retninger som er orientert vinkelrett på hverandre. Følgende krav skal etterkommes:
+
+- 2,0–13,2 Hz: +/–1 mm konst. posisjonsamplitude
+- 13,2–80,0 Hz: +/–0,7 konst. akselerasjonsamplitude
 
 Prøver i henhold til Random vibrasjonsprøver kan godtas.
 
@@ -1270,7 +1560,15 @@ Prøveobjektet skal utsettes for 2 sykluser og skal under prøven være spenning
 
 Salttåke.
 
-Følgende prøve skal utføres:Prøvetemperatur: +35 °C +/–2°Varighet: 1 døgnOppløsning: 50 g +/–1 g NaCl + destillert ellerionebyttet vann = 1 literoppløsning ved 20 °C, 6,5 pH 7,2.
+Følgende prøve skal utføres:
+
+- Prøvetemperatur: +35 °C +/–2°
+- Varighet: 1 døgn
+- Oppløsning: 50 g +/–1 g NaCl + destillert eller
+
+  ionebyttet vann = 1 liter
+
+  oppløsning ved 20 °C, 6,5 pH 7,2.
 
 Etter prøven blir prøveobjektets enkelte deler visuelt inspisert og funksjonsprøve foretas.
 
@@ -1280,7 +1578,16 @@ Etter prøven blir prøveobjektets enkelte deler visuelt inspisert og funksjonsp
 
 Dokumentasjon.
 
-Følgende dokumentasjon skal foreligge ved godkjenning:Installasjons- og monteringsanvisning.Vedlikeholdsinstruks.Fremgangsmåte ved rutineprøving om bord.Fremgangsmåte ved typeprøving.Opplysning om sløyfetilkopling.Tegninger som viser mekanisk konstruksjon og oppbygging.Tekniske spesifikasjoner med følsomhetsdata og tidsrespons.Miljøspesifikasjoner som angir grenseverdiene for det ytre miljø detektoren kan operere i.
+Følgende dokumentasjon skal foreligge ved godkjenning:
+
+- Installasjons- og monteringsanvisning.
+- Vedlikeholdsinstruks.
+- Fremgangsmåte ved rutineprøving om bord.
+- Fremgangsmåte ved typeprøving.
+- Opplysning om sløyfetilkopling.
+- Tegninger som viser mekanisk konstruksjon og oppbygging.
+- Tekniske spesifikasjoner med følsomhetsdata og tidsrespons.
+- Miljøspesifikasjoner som angir grenseverdiene for det ytre miljø detektoren kan operere i.
 
 Dokumentasjon merket – skal leveres om bord med anlegget i hvert skip.
 
@@ -1290,11 +1597,40 @@ Funksjonskrav.
 
 2.1.
 
-Generelle krav.Detektoren skal varsle brann og gi signal om dette til sentralutstyr.Detektoren skal ha så god følsomhet at den kan varsle brann på et tidlig stadium.Detektoren bør være konstruert med mulighet for å endre følsomheten.Detektoren skal ha så god selektivitet at den ikke er årsak til stadige uønskede alarmer.Detektoren som må tilbakestilles manuelt, skal gi synlig indikasjon når den er utløst.Detektoren skal gi varsel om feil som reduserer evnen til å varsle brann.Detektoren skal enkelt kunne funksjonsprøves.
+Generelle krav.
+
+1. Detektoren skal varsle brann og gi signal om dette til sentralutstyr.
+2. Detektoren skal ha så god følsomhet at den kan varsle brann på et tidlig stadium.
+3. Detektoren bør være konstruert med mulighet for å endre følsomheten.
+4. Detektoren skal ha så god selektivitet at den ikke er årsak til stadige uønskede alarmer.
+5. Detektoren som må tilbakestilles manuelt, skal gi synlig indikasjon når den er utløst.
+6. Detektoren skal gi varsel om feil som reduserer evnen til å varsle brann.
+7. Detektoren skal enkelt kunne funksjonsprøves.
 
 2.2.
 
-Spesielle krav.De eksisterende detektorer er basert på prinsippene:Termisk deteksjon:absolutt,differensiell.Røykdeteksjon:optisk,ionisasjonskammer.Strålingsdeteksjon:infrarød,ultrafiolett.Detektorer basert på andre prinsipper vil bli vurdert individuelt.Alle detektortyper skal tilfredsstille prøvene under nr. 5 – Prøveprogram.UV-detektorer skal ikke være følsomme for lys av større bølgelengde enn 0,29 um.Anm.: Denne grense på 0,29 um er valgt fordi sollys inneholder stråling med større bølgelengde, og vil derfor kunne være en kilde til uønskede alarmer.
+Spesielle krav.
+
+1. De eksisterende detektorer er basert på prinsippene:
+
+   - Termisk deteksjon:
+
+     - absolutt,
+     - differensiell.
+   - Røykdeteksjon:
+
+     - optisk,
+     - ionisasjonskammer.
+   - Strålingsdeteksjon:
+
+     - infrarød,
+     - ultrafiolett.
+
+   Detektorer basert på andre prinsipper vil bli vurdert individuelt.
+2. Alle detektortyper skal tilfredsstille prøvene under nr. 5 – Prøveprogram.
+3. UV-detektorer skal ikke være følsomme for lys av større bølgelengde enn 0,29 um.
+
+   Anm.: Denne grense på 0,29 um er valgt fordi sollys inneholder stråling med større bølgelengde, og vil derfor kunne være en kilde til uønskede alarmer.
 
 3\.
 
@@ -1342,9 +1678,28 @@ Før en detektor presenteres for godkjennelse, skal den ha gjennomgått miljøpr
 
 Brannprøve.
 
-Før miljøprøven skal detektoren gjennomgå en «brannprøve». Ved denne prøven skal detektoren utsettes for realistiske forhold i form av røyk, stråling og varme.Termiske detektorer skal prøves ifølge CEN 54, Part 5 (EN 54, Part 5) (CEN = CENELEC: Den europeiske komité for utarbeidelse av elektrotekniske normer).Røykdetektorer skal prøves i en røykkanal. De skal da ha en følsomhet i området 0,2 x 0,65.Følsomhetsfaktor x = (Io – Ia ) / IoIo = ionekammerstrøm i normaltilstandIa = ionekammerstrøm ved alarm.Andre typer røykprøver kan godkjennes i hvert enkelt tilfelle.Strålingsdetektorer skal utsettes for stråling fra en «standard prøveflamme» i 5 m avstand. Tidsrésponsen skal ikke overstige 5 sek.
+Før miljøprøven skal detektoren gjennomgå en «brannprøve». Ved denne prøven skal detektoren utsettes for realistiske forhold i form av røyk, stråling og varme.
 
-Videre skal strålingsdetektorenes følsomhet overfor andre lyskilder undersøkes. Disse lyskilder er:SollysElektrisk lysbueLys fra glødelampeLys direkte fra halogenlampeLys fra elektrisk lysrørAcetylen-sveiseflamme.
+1. Termiske detektorer skal prøves ifølge CEN 54, Part 5 (EN 54, Part 5) (CEN = CENELEC: Den europeiske komité for utarbeidelse av elektrotekniske normer).
+2. Røykdetektorer skal prøves i en røykkanal. De skal da ha en følsomhet i området 0,2 x 0,65.
+
+   Følsomhetsfaktor x = (Io – Ia ) / Io
+
+   Io = ionekammerstrøm i normaltilstand
+
+   Ia = ionekammerstrøm ved alarm.
+
+   Andre typer røykprøver kan godkjennes i hvert enkelt tilfelle.
+3. Strålingsdetektorer skal utsettes for stråling fra en «standard prøveflamme» i 5 m avstand. Tidsrésponsen skal ikke overstige 5 sek.
+
+Videre skal strålingsdetektorenes følsomhet overfor andre lyskilder undersøkes. Disse lyskilder er:
+
+- Sollys
+- Elektrisk lysbue
+- Lys fra glødelampe
+- Lys direkte fra halogenlampe
+- Lys fra elektrisk lysrør
+- Acetylen-sveiseflamme.
 
 Lyset skal både være fast og opphakket med en frekvens på ca. 10 Hz. Følsomhet og tidsrespons registreres her for å gi inntrykk av detektorens følsomhet for falske brannsymptomer.
 
@@ -1354,21 +1709,45 @@ Flammen fra et kar med mål 300 x 300 x 150 mm fylt med 1 liter dieselolje og 0,
 
 5.2.
 
-Miljøprøve.For hvert trinn i miljøprøven skal detektoren gjennomgå en funksjonsprøve. Denne prøve skal enkelt kunne gjennomføres, og den skal være reproduserbar slik at man får et kvantitativt mål for hvordan detektorens ytelser endres under prøven. Produsenten skal fremsende forslag til fremgangsmåte for en funksjonsprøve som tilfredsstiller disse krav.Som funksjonsprøve kan også brannprøven i nr. 5.1. benyttes.Under miljøprøven skal detektorens tidsrespons og følsomhet noteres, slik at vesentlige endringer i løpet av prøven skal medføre at detektoren underkastes nærmere undersøkelser, og eventuelt forkastes.Termiske detektorer prøves ifølge CEN 54, Part 5 (EN 54, Part 5).d) Miljøprøven foregår ifølge blokkskjema i figur 1. (Fig. 1 utelatt.)
+Miljøprøve.
+
+1. For hvert trinn i miljøprøven skal detektoren gjennomgå en funksjonsprøve. Denne prøve skal enkelt kunne gjennomføres, og den skal være reproduserbar slik at man får et kvantitativt mål for hvordan detektorens ytelser endres under prøven. Produsenten skal fremsende forslag til fremgangsmåte for en funksjonsprøve som tilfredsstiller disse krav.
+
+   Som funksjonsprøve kan også brannprøven i nr. 5.1. benyttes.
+2. Under miljøprøven skal detektorens tidsrespons og følsomhet noteres, slik at vesentlige endringer i løpet av prøven skal medføre at detektoren underkastes nærmere undersøkelser, og eventuelt forkastes.
+3. Termiske detektorer prøves ifølge CEN 54, Part 5 (EN 54, Part 5).
+
+   d) Miljøprøven foregår ifølge blokkskjema i figur 1. (Fig. 1 utelatt.)
 
 5.3.
 
-Funksjonsprøve (IEC 68-1).Før miljøprøvene blir utført, skal en funksjonsprøve gjennomføres i standard atmosfæreforhold:Temperatur: +15 °C til + 35 °CRelativ fuktighet: 45 prosent–75 prosentLufttrykk: 860–1060 millibar.De øvrige atmosfæreparametere tillegges ingen betydning.Funksjonsprøve skal foretas mellom hver av de etterfølgende miljøprøver, og skal omfatte alle kontroll-, feilvarslings- og alarmfunksjoner.
+Funksjonsprøve (IEC 68-1).
+
+1. Før miljøprøvene blir utført, skal en funksjonsprøve gjennomføres i standard atmosfæreforhold:
+
+   - Temperatur: +15 °C til + 35 °C
+   - Relativ fuktighet: 45 prosent–75 prosent
+   - Lufttrykk: 860–1060 millibar.
+
+   De øvrige atmosfæreparametere tillegges ingen betydning.
+2. Funksjonsprøve skal foretas mellom hver av de etterfølgende miljøprøver, og skal omfatte alle kontroll-, feilvarslings- og alarmfunksjoner.
 
 5.4.
 
 Variasjon i kraftforsyning.
 
-Driftsspenningen varieres innenfor de oppgitte grenser. Det kontrolleres under prøven at ikke feilfunksjon inntreffer.Nettspenning: +10 prosent/–15 prosentBatterispenning: +/–17 prosent.
+Driftsspenningen varieres innenfor de oppgitte grenser. Det kontrolleres under prøven at ikke feilfunksjon inntreffer.
+
+- Nettspenning: +10 prosent/–15 prosent
+- Batterispenning: +/–17 prosent.
 
 5.5.
 
-Varmeprøve (IEC 68-2-2).Temperatur: +55 °C +/– 3 °CVarighet: 16 timerAbsolutt fuktighet: 20 g vann pr. m3 luft.
+Varmeprøve (IEC 68-2-2).
+
+- Temperatur: +55 °C +/– 3 °C
+- Varighet: 16 timer
+- Absolutt fuktighet: 20 g vann pr. m3 luft.
 
 Prøveobjektet plasseres i et kammer som holder romtemperatur (15 °C–35 °C). Temperaturen heves så til +55 °C, hvor den skal holdes i minst 16 timer. Deretter senkes temperaturen til romtemperatur igjen.
 
@@ -1412,7 +1791,11 @@ Prøveobjektet skal utsettes for 2 sykluser, og skal under prøven være spennin
 
 Salttåke.
 
-Følgende prøve skal utføres:Prøvetemperatur: +35 °C +/–2 °CVarighet: 1 døgnOppløsning: 50 g +/–1 g NaCl + dest. eller
+Følgende prøve skal utføres:
+
+- Prøvetemperatur: +35 °C +/–2 °C
+- Varighet: 1 døgn
+- Oppløsning: 50 g +/–1 g NaCl + dest. eller
 
 ionebyttet vann = 1 liter
 
@@ -1454,7 +1837,11 @@ Detektorer og alarmorganer monteres på vanntette koplingsbokser.
 
 ### Bilag 1 til Del II. Rettledning for valg og plassering av detektorer i maskinrom
 
-1\. For å oppnå en optimal overvåking av maskinrom bør en fullstendig detektorinstallasjon bestå av en kombinasjon av:Termiske detektorerRøk/ione-detektorerFlammedetektorer.
+1\. For å oppnå en optimal overvåking av maskinrom bør en fullstendig detektorinstallasjon bestå av en kombinasjon av:
+
+- Termiske detektorer
+- Røk/ione-detektorer
+- Flammedetektorer.
 
 2\. Fig. 1 (utelatt) viser et snitt av et typisk maskinrom med inntegnet plassering av de forskjellige detektortypene. I tilknytning til figuren er det nedenfor gitt en del generelle råd for bruk og plassering av detektorer.
 
@@ -1470,13 +1857,18 @@ Flammedetektorer.
 
 Flammedetektoren er den som reagerer hurtigst på en brann hvor det er snakk om flammer, og den er også upåvirket av ventilasjonsforholdene. Den bør derfor anvendes for områder med et særlig høyt branntilbud (topp av hovedmotor, hjelpemotorer/generatorer, kjeler etc.) og for områder hvor forholdene vanskeliggjør bruk av de to førstnevnte detektortypene.
 
-3\. Plassering av Røk/Ione-detektorer.For å sikre en optimal plassering av røk-detektorene bør den endelige plasseringen av disse baseres på røkprøver under normale driftsforhold. Derfor anbefales det i første omgang å montere disse detektorene med «løse» sløyfekabler slik at de siden kan flyttes innen et rimelig område basert på røkprøvene.
+3\. Plassering av Røk/Ione-detektorer.
+
+For å sikre en optimal plassering av røk-detektorene bør den endelige plasseringen av disse baseres på røkprøver under normale driftsforhold. Derfor anbefales det i første omgang å montere disse detektorene med «løse» sløyfekabler slik at de siden kan flyttes innen et rimelig område basert på røkprøvene.
 
 4\. Det anbefales at detektorinstallasjonen baseres på universal-sløyfer med universalsokler slik at man kan bytte ut en detektortype med en annen på et senere stadium dersom erfaringene skulle tilsi det.
 
 ### Bilag 2 til Del II. Retningslinjer for godkjennelse av installert branndeteksjons- og varslingsutstyr.
 
-Før en branndeteksjons- og varslingsinstallasjon kan godkjennes, skal den ferdige installasjon underkastes:FunksjonsprøverFølsomhetsprøver.
+Før en branndeteksjons- og varslingsinstallasjon kan godkjennes, skal den ferdige installasjon underkastes:
+
+1. Funksjonsprøver
+2. Følsomhetsprøver.
 
 Endelig godkjennelse er avhengig av positivt resultat fra disse prøver.
 
@@ -1528,7 +1920,11 @@ Følsomhetsprøvene skal utføres ved normale driftsforhold under full fart og f
 
 ### 1. Innledning
 
-I henhold til Norske forskrifter for bygging av norske passasjer-, lasteskip og lektere samt for fiskefartøy gjelder bl.a. følgende hovedprinsipper for å fastlegge og godkjenne lettskipsvekt og tyngdepunkt:Utførelsen skal være i henhold til Sjøfartsdirektoratets prosedyrer og resultatene skal fylles ut i fastsatt skjema.Lettskipsberegningen skal være godkjent av Sjøfartsdirektoratet før skipet settes i fart.Hvis skipets utforming er slik at det er grunn til å tro at en en krengeprøve utført etter vanlige prosedyrer ikke vil gi pålitelige lettskipsdata, skal Sjøfartsdirektoratet kontaktes.
+I henhold til Norske forskrifter for bygging av norske passasjer-, lasteskip og lektere samt for fiskefartøy gjelder bl.a. følgende hovedprinsipper for å fastlegge og godkjenne lettskipsvekt og tyngdepunkt:
+
+- Utførelsen skal være i henhold til Sjøfartsdirektoratets prosedyrer og resultatene skal fylles ut i fastsatt skjema.
+- Lettskipsberegningen skal være godkjent av Sjøfartsdirektoratet før skipet settes i fart.
+- Hvis skipets utforming er slik at det er grunn til å tro at en en krengeprøve utført etter vanlige prosedyrer ikke vil gi pålitelige lettskipsdata, skal Sjøfartsdirektoratet kontaktes.
 
 Hensikten med disse retningslinjene er å sikre nøyaktigheten av funnet lettskipsvekt og -tyngdepunkt, og utgjør prosedyrene omtalt ovenfor. Dette heftet er basert på kapittel 7 i IMO Res. A.749(18), «Code on Intact Stability for All Types of ships Covered by IMO Instruments». Selv om denne IMO-resolusjonen primært er skrevet for større skip, vil disse prosedyrene også kunne benyttes for skip med en lengde under 24 m, når det tas nødvendige hensyn for å sikre nøyaktigheten under utførelsen. IMO-koden inneholder også et vedlegg med mer praktisk veiledning for utførelse. Selv om vedlegget ikke inngår som en del av disse retningslinjene, vil Sjøfartsdirektoratet anbefale at det gjennomleses som supplerende veiledning ved planlegging av krengeprøver og deplasementsmålinger.
 
@@ -1566,9 +1962,17 @@ Bearbeide resultatene så raskt som mulig, slik at eventuelle feil og unøyaktig
 
 Oversende rapport til inspektøren for godkjennelse, i rimelig tid før skipet er planlagt å avgå.
 
-Inspektøren skal:Være tilstede og notere all informasjon som er nødvendig for godkjennelse av rapporten.Godkjenne rapporten, hvis gjennomføringen og resultatene er akseptable.Inspektøren kan forbeholde seg retten til å forelegge rapporten for aktuell fartøysavdeling for vurdering hvis inspektøren er i tvil.Oversende en kopi av godkjent rapport sammen med en kopi av godkjennelsesbrevet til aktuell fartøysavdeling.
+Inspektøren skal:
 
-I tilfeller der en inspektør er oppnevnt på vegne av Sjøfartsdirektoratet (med unntak av lasteskip med en bruttotonnasje på 500 eller mer og registrert i NIS), skal inspektøren:Attestere at innholdet i rapporten stemmer overens med inspektørens egne notater og at de fastsatte prosedyrene ble fulgt.Oversende rapporten i 3 eksemplarer til Sjøfartsdirektoratets hovedkontor for godkjennelse.
+- Være tilstede og notere all informasjon som er nødvendig for godkjennelse av rapporten.
+- Godkjenne rapporten, hvis gjennomføringen og resultatene er akseptable.
+- Inspektøren kan forbeholde seg retten til å forelegge rapporten for aktuell fartøysavdeling for vurdering hvis inspektøren er i tvil.
+- Oversende en kopi av godkjent rapport sammen med en kopi av godkjennelsesbrevet til aktuell fartøysavdeling.
+
+I tilfeller der en inspektør er oppnevnt på vegne av Sjøfartsdirektoratet (med unntak av lasteskip med en bruttotonnasje på 500 eller mer og registrert i NIS), skal inspektøren:
+
+- Attestere at innholdet i rapporten stemmer overens med inspektørens egne notater og at de fastsatte prosedyrene ble fulgt.
+- Oversende rapporten i 3 eksemplarer til Sjøfartsdirektoratets hovedkontor for godkjennelse.
 
 ### 4. Forberedelser til deplasementsmålinger
 
@@ -1582,9 +1986,26 @@ For lasteskip med en bruttotonnasje på 500 eller mer, og som er registrert i NI
 
 *Informasjon som skal følge begjæringen*
 
-Skriftlig begjæring skal inneholde følgende informasjon:Skipets navn og kjenningssignal, ev. byggenummer og verksted.Dato, tidspunkt og sted for besiktelse.
+Skriftlig begjæring skal inneholde følgende informasjon:
 
-Informasjon om krengevektene, i tilfelle krengeprøve:Type vekterMengde (antall og vekt av hver enkelt)Bekreftelse (sertifikater) på vekteneMåte vektene tenkes flyttet på (f.eks. sliske eller kran)Masse og plassering av rette- eller trimmevekterForventet maksimal krengevinkel til hver sideTilnærmet plassering og lengde av pendlerInformasjon om alternative metoder hvis en pendel skal erstattes med inklinometer e.l.Forventet trimForventede tankinnholdForventede mengder vekter som skal på land, tas ombord eller flyttes i forbindelse med lettskipsberegningenInformasjon om eventuell programvare som tenkes brukt i forbindelse med beregningeneNavn og telefonnummer til ansvarshavende for prøven.
+- Skipets navn og kjenningssignal, ev. byggenummer og verksted.
+- Dato, tidspunkt og sted for besiktelse.
+
+Informasjon om krengevektene, i tilfelle krengeprøve:
+
+- Type vekter
+- Mengde (antall og vekt av hver enkelt)
+- Bekreftelse (sertifikater) på vektene
+- Måte vektene tenkes flyttet på (f.eks. sliske eller kran)
+- Masse og plassering av rette- eller trimmevekter
+- Forventet maksimal krengevinkel til hver side
+- Tilnærmet plassering og lengde av pendler
+- Informasjon om alternative metoder hvis en pendel skal erstattes med inklinometer e.l.
+- Forventet trim
+- Forventede tankinnhold
+- Forventede mengder vekter som skal på land, tas ombord eller flyttes i forbindelse med lettskipsberegningen
+- Informasjon om eventuell programvare som tenkes brukt i forbindelse med beregningene
+- Navn og telefonnummer til ansvarshavende for prøven.
 
 ### 4.2 Skipets tilstand
 
@@ -1646,9 +2067,16 @@ Gjenstander som kan svinge eller forskyve seg må sikres. Kraner, bommer, gaffel
 
 Lukedeksler som ikke behøves åpne under prøven skal skalkes i sin plassering når fartøyet er underveis.
 
-Antallet slakke tanker skal være et absolutt minimum. Viskositeten av væsken, nivået og formen på tanken skal da være slik at fri overflate lar seg bestemme nøyaktig. Normalt vil bare en eller to av følgende tanktyper tillates delvis fylt:FerskvannstankBrennoljetankDagtank.
+Antallet slakke tanker skal være et absolutt minimum. Viskositeten av væsken, nivået og formen på tanken skal da være slik at fri overflate lar seg bestemme nøyaktig. Normalt vil bare en eller to av følgende tanktyper tillates delvis fylt:
 
-For å oppnå pålitelige korreksjoner for fri overflate i eventuelle slakke tanker, skal disse være fylt innenfor disse grensene:Dyptanker: 20 prosent–80 prosent fulleDobbeltbunnstanker: 40 prosent–60 prosent fulle.
+- Ferskvannstank
+- Brennoljetank
+- Dagtank.
+
+For å oppnå pålitelige korreksjoner for fri overflate i eventuelle slakke tanker, skal disse være fylt innenfor disse grensene:
+
+- Dyptanker: 20 prosent–80 prosent fulle
+- Dobbeltbunnstanker: 40 prosent–60 prosent fulle.
 
 Tanker som ikke er beregnet for føring av væsker skal alltid være tomme.
 
@@ -1688,7 +2116,12 @@ Fig. 1 Anbefalt opprigging av pendel.
 
 Fig. 2 Avlesing av U-rør.
 
-Hvis det brukes U-rør til erstatning for en pendel gjelder følgende:De vertikale endene av systemet skal festes forsvarlig så langt ute i borde som mulig. Uansett skal den horisontale avstanden være tilstrekkelig til å sikre at det oppnås en nivåforskjell på minst 15 cm mellom opprett tilstand og største krengevinkel til hver side.Det må sikres at de vertikale endene er lange nok til å sikre at vann ikke renner over eller forsvinner fra systemet.Et arrangement for måling av utslag skal være fastmontert i begge ender.Hele systemet skal lages av klare plastikkrør og slanger, slik at det lar seg kontrollere for luftlommer.
+Hvis det brukes U-rør til erstatning for en pendel gjelder følgende:
+
+- De vertikale endene av systemet skal festes forsvarlig så langt ute i borde som mulig. Uansett skal den horisontale avstanden være tilstrekkelig til å sikre at det oppnås en nivåforskjell på minst 15 cm mellom opprett tilstand og største krengevinkel til hver side.
+- Det må sikres at de vertikale endene er lange nok til å sikre at vann ikke renner over eller forsvinner fra systemet.
+- Et arrangement for måling av utslag skal være fastmontert i begge ender.
+- Hele systemet skal lages av klare plastikkrør og slanger, slik at det lar seg kontrollere for luftlommer.
 
 En liten mengde blekk eller annet fargestoff kan tilsettes vannet for å lette avlesningene.
 
@@ -1700,7 +2133,15 @@ Nøyaktigheten av instrumentet skal være i størrelsesorden +/–0,01 grad.
 
 ### 4.6 Nødvendig underlagsmateriale
 
-Ansvarshavende for krengeprøven bør ha følgende informasjon tilgjengelig under prøven:LinjetegningHydrostatiske dataGeneralarrangement som viser dekk, lasterom, innerbunn etc.Kapasitetsplan som viser kubikk og tyngdepunktsbeliggenhet av lasterom, tanker o.l.PeiletabellerSkisse over dypgangsmerkerDokkingstegning med profil av kjøl og korreksjoner ved dypgangsmerker, hvis utarbeidet.
+Ansvarshavende for krengeprøven bør ha følgende informasjon tilgjengelig under prøven:
+
+- Linjetegning
+- Hydrostatiske data
+- Generalarrangement som viser dekk, lasterom, innerbunn etc.
+- Kapasitetsplan som viser kubikk og tyngdepunktsbeliggenhet av lasterom, tanker o.l.
+- Peiletabeller
+- Skisse over dypgangsmerker
+- Dokkingstegning med profil av kjøl og korreksjoner ved dypgangsmerker, hvis utarbeidet.
 
 ### 5. Gjennomføring av krengeprøven
 
@@ -1840,7 +2281,17 @@ For å lese [pkt](forskrift/2013-11-22-1404/kap8). 8 se her: [(pdf)](static/SF/s
 
 ### 10. Generelle krav til utførelse
 
-Følgende punkter skal være kontrollert og funnet i orden av ansvarshavende for prøven før rapporten overleveres inspektøren for godkjennelse:Krengingen skal normalt avleses ved minst to målesteder, hvorav minst en skal være en pendel.Slagside før første flytt skal være minst mulig. Dersom summen av slagside og krengevinkel overstiger 5° til en side kan prøven ikke godkjennes uten eksakt beregning av rettende moment.Prøven kan ikke godkjennes dersom slagside gjør at fartøyet ikke krenger forbi opprett tilstand.Største vinkelutslag i begge retninger skal være fra 2°–4°. For store skip (tankskip, bulkskip o.l.) kan 1,5° aksepteres.For ukonvensjonelle fartøy og fartøy med spesielt stor initialstabilitet (GMT) kan andre verdier aksepteres hvis dette er avklart på forhånd.Pendellengde og største krengende moment skal avstemmes mot hverandre slik at største avleste utslag ikke er mindre enn 150 mm.Resultatene skal plottes suksessivt og prøven skal ikke avsluttes før det foreligger minst 8 avlesninger eksklusive startpunktet, disse ligger på en tilnærmet rett linje og det er samsvar mellom målestasjonene.Differansen mellom faktisk trim og trimverdi i brukte hydrostatiske data skal ikke overstige 0,01\*Lpp.
+Følgende punkter skal være kontrollert og funnet i orden av ansvarshavende for prøven før rapporten overleveres inspektøren for godkjennelse:
+
+1. Krengingen skal normalt avleses ved minst to målesteder, hvorav minst en skal være en pendel.
+2. Slagside før første flytt skal være minst mulig. Dersom summen av slagside og krengevinkel overstiger 5° til en side kan prøven ikke godkjennes uten eksakt beregning av rettende moment.
+3. Prøven kan ikke godkjennes dersom slagside gjør at fartøyet ikke krenger forbi opprett tilstand.
+4. Største vinkelutslag i begge retninger skal være fra 2°–4°. For store skip (tankskip, bulkskip o.l.) kan 1,5° aksepteres.
+
+   For ukonvensjonelle fartøy og fartøy med spesielt stor initialstabilitet (GMT) kan andre verdier aksepteres hvis dette er avklart på forhånd.
+5. Pendellengde og største krengende moment skal avstemmes mot hverandre slik at største avleste utslag ikke er mindre enn 150 mm.
+6. Resultatene skal plottes suksessivt og prøven skal ikke avsluttes før det foreligger minst 8 avlesninger eksklusive startpunktet, disse ligger på en tilnærmet rett linje og det er samsvar mellom målestasjonene.
+7. Differansen mellom faktisk trim og trimverdi i brukte hydrostatiske data skal ikke overstige 0,01\*Lpp.
 
 ### 11. Målt metasenterhøyde for skip som krenget
 
@@ -1858,13 +2309,19 @@ Flytting av vekter mot SB gir positivt fortegn for (3), (6) og (9). Negativt for
 | Korreksjon for fri overflate i tanker | + | m |
 | Vertikalt tyngdepunkt over basis for skip som krenget |  | m |
 
-*Hvis hydrostatiske data er beregnet for aktuell trim under prøven:* $$LCG = LCB - (KG - KB) \\frac{t}{Lpp} = \\qquad \\qquad \\qquad \\text m$$
+*Hvis hydrostatiske data er beregnet for aktuell trim under prøven:*
+
+$$LCG = LCB - (KG - KB) \\frac{t}{Lpp} = \\qquad \\qquad \\qquad \\text m$$
 
 (Akterlig trim regnet negativ)
 
-*Hvis hydrostatiske data tas fra kurveblad/tabeller:* $$MCT1 = \\frac{(KML - KG) \\cdot \\Delta}{100 \\cdot LPP} = \\qquad \\qquad \\qquad \\text{tm/cm}$$
+*Hvis hydrostatiske data tas fra kurveblad/tabeller:*
 
-*Vektstyngdepunktets beliggenhet langskips:* $$LCG = LCB - \\frac{t \\cdot MCT1cm \\cdot 100}{\\Delta} = \\qquad \\qquad \\qquad \\text m$$
+$$MCT1 = \\frac{(KML - KG) \\cdot \\Delta}{100 \\cdot LPP} = \\qquad \\qquad \\qquad \\text{tm/cm}$$
+
+*Vektstyngdepunktets beliggenhet langskips:*
+
+$$LCG = LCB - \\frac{t \\cdot MCT1cm \\cdot 100}{\\Delta} = \\qquad \\qquad \\qquad \\text m$$
 
 (Akterlig trim regnet negativ)
 
@@ -1918,7 +2375,12 @@ Kvittering skal skje enten ved at ansvarshavende for brovaktholdet trykker på e
 
 1.2.
 
-AlarmfunksjonerAlarm skal utløses over to trinn.Første trinn skal utløses i styrehuset.Andre trinn skal utløses i styrehuset og i innredningen.Kort tid før alarmen utløses skal det varsles ved lyssignal at alarm vil bli utløst.
+Alarmfunksjoner
+
+- Alarm skal utløses over to trinn.
+- Første trinn skal utløses i styrehuset.
+- Andre trinn skal utløses i styrehuset og i innredningen.
+- Kort tid før alarmen utløses skal det varsles ved lyssignal at alarm vil bli utløst.
 
 1.3.
 
@@ -1974,7 +2436,12 @@ Informasjon om systemet
 
 Informasjon fra produsent/leverandør
 
-Fra produsent/leverandør skal følgende foreligge:Beskrivelse av virkemåte for systemet.Beskrivelse over alarmfunksjoner.Systemskisse av brovaktalarmsystemet som beskriver hvordan systemet er bygd opp med navn på de forskjellige komponenter.Bruksanvisning på norsk.
+Fra produsent/leverandør skal følgende foreligge:
+
+- Beskrivelse av virkemåte for systemet.
+- Beskrivelse over alarmfunksjoner.
+- Systemskisse av brovaktalarmsystemet som beskriver hvordan systemet er bygd opp med navn på de forskjellige komponenter.
+- Bruksanvisning på norsk.
 
 4.2.
 
@@ -2022,7 +2489,12 @@ Verdien av det krengende moment Mv, eller den tilsvarende krengende arm, på gru
 
 3.4
 
-Kurven for det krengende moment, eller den tilsvarende krengende arm, avsluttes for den vinkel der skansekledningens laveste punkt eller fyllingspunktet neddykkes. Ved beregning av Mv skal følgende forutsetninger benyttes:Til å begynne med er fartøyet på rett kjøl.Under krengning er trim og deplasementene konstante og lik verdiene for fartøyet uten vann på dekk.Det skal ses bort fra effekten av lenseporter.Mv skal beregnes for et tilstrekkelig antall vinkler for hver dypgang og normalt bare for vannlinjer uten trim.
+Kurven for det krengende moment, eller den tilsvarende krengende arm, avsluttes for den vinkel der skansekledningens laveste punkt eller fyllingspunktet neddykkes. Ved beregning av Mv skal følgende forutsetninger benyttes:
+
+1. Til å begynne med er fartøyet på rett kjøl.
+2. Under krengning er trim og deplasementene konstante og lik verdiene for fartøyet uten vann på dekk.
+3. Det skal ses bort fra effekten av lenseporter.
+4. Mv skal beregnes for et tilstrekkelig antall vinkler for hver dypgang og normalt bare for vannlinjer uten trim.
 
 4\.
 

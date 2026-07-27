@@ -15,7 +15,7 @@ xml_hash: "863b65e5ab3b6c8f3263a8c899d2476e2c8c1579c705b233fb0171e97f76724e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,26 @@ Forskriften skal sikre en forvaltning som vektlegger forutsigbarhet og lokal med
 
 ### § 2. Definisjoner
 
-I denne forskrift forstås med*Betinget skadefelling:* Vedtak med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd b) om felling av enkeltindivider av rovvilt for å stanse eller forhindre skader på husdyr, tamrein eller annen eiendom som nevnt i loven [§ 18](lov/2009-06-19-100/§18) første ledd b), der det på forhånd er fastsatt kvote og vilkår av overordnet myndighet.*Bufe:* Sau, geit, storfe og hest.*Familiegruppe av ulv:* Minst tre ulver som opptrer i følge innenfor et revir, hvorav minst ett individ markerer revir regelmessig, og yngling er påvist minst en gang i de siste to år.*Ulvesone:* området som består av:Oslo kommune,følgende deler av Akershus fylke: kommunene Aurskog-Høland, Bærum, Enebakk, Frogn, Lørenskog, Nesodden, Nordre Follo, Rælingen, Vestby og Ås, Asker kommune med unntak av de deler som tidligere utgjorde Hurum og Røyken kommuner, de deler som ligger øst for Glomma av kommunene Nes og Lillestrøm, og Nittedal vest for Nitelva,følgende deler av Innlandet fylke: Eidskog kommune, samt de deler av Elverum, Grue, Kongsvinger, Sør-Odal, Våler, Åmot og Åsnes kommuner som ligger øst for Glomma og de deler av Trysil kommune som ligger sør for en rett linje fra der Senna renner ut i Trysilelva til der kommunegrensen mellom Trysil og Engerdal gjør en vinkel ved Litlskorhøa, ogØstfold fylke.*Irregulær avgang av rovvilt:* Menneskeskapt avgang som påkjørsler, ulovlige fellinger, nødverge, særskilte fellinger og lignende.*Kvotejakt:* Ordinær jakt på et bestemt antall individer av en viltart med hjemmel i [viltressursloven § 10](lov/2025-06-20-102/§10), jf. [naturmangfoldloven § 16](lov/2009-06-19-100/§16), der kvoten er fastsatt av offentlig myndighet.*Lisensfelling:* Felling av et bestemt antall individer av en viltart med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd b) og c), der kvoten er fastsatt av offentlig myndighet og det kreves at jegeren er registrert som lisensjeger i Jegerregisteret for å kunne delta.*Nasjonalt overvåkingsprogram:* Et særskilt bestandsovervåkingsprogram for rovvilt der rovviltforekomst og ynglinger estimeres samlet for Norge og fordelt på nærmere bestemte regioner i samsvar med fastsatt metodikk.*Revirmarkerende par av ulv:* To stasjonære ulver av ulikt kjønn som regelmessig markerer revir sammen, og hvor løpeblod i tispas urin er registrert.*Rovvilt:* Gaupe, jerv, bjørn, ulv og kongeørn.*Rovviltnemnd:* Offentlig organ opprettet i medhold av [viltressursloven § 6](lov/2025-06-20-102/§6) med ansvar forvaltning av gaupe, jerv, bjørn og ulv i en region.*Tamrein:* Rein som inngår i reindrift som drives i samsvar med reindriftslovens bestemmelser. Rein som eies av Rendalen Renselskap omfattes ikke.*Årlig yngling:* Yngling som er godkjent av Nasjonalt overvåkingsprogram for rovvilt.
+I denne forskrift forstås med
+
+1. *Betinget skadefelling:* Vedtak med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd b) om felling av enkeltindivider av rovvilt for å stanse eller forhindre skader på husdyr, tamrein eller annen eiendom som nevnt i loven [§ 18](lov/2009-06-19-100/§18) første ledd b), der det på forhånd er fastsatt kvote og vilkår av overordnet myndighet.
+2. *Bufe:* Sau, geit, storfe og hest.
+3. *Familiegruppe av ulv:* Minst tre ulver som opptrer i følge innenfor et revir, hvorav minst ett individ markerer revir regelmessig, og yngling er påvist minst en gang i de siste to år.
+4. *Ulvesone:* området som består av:
+
+   - Oslo kommune,
+   - følgende deler av Akershus fylke: kommunene Aurskog-Høland, Bærum, Enebakk, Frogn, Lørenskog, Nesodden, Nordre Follo, Rælingen, Vestby og Ås, Asker kommune med unntak av de deler som tidligere utgjorde Hurum og Røyken kommuner, de deler som ligger øst for Glomma av kommunene Nes og Lillestrøm, og Nittedal vest for Nitelva,
+   - følgende deler av Innlandet fylke: Eidskog kommune, samt de deler av Elverum, Grue, Kongsvinger, Sør-Odal, Våler, Åmot og Åsnes kommuner som ligger øst for Glomma og de deler av Trysil kommune som ligger sør for en rett linje fra der Senna renner ut i Trysilelva til der kommunegrensen mellom Trysil og Engerdal gjør en vinkel ved Litlskorhøa, og
+   - Østfold fylke.
+5. *Irregulær avgang av rovvilt:* Menneskeskapt avgang som påkjørsler, ulovlige fellinger, nødverge, særskilte fellinger og lignende.
+6. *Kvotejakt:* Ordinær jakt på et bestemt antall individer av en viltart med hjemmel i [viltressursloven § 10](lov/2025-06-20-102/§10), jf. [naturmangfoldloven § 16](lov/2009-06-19-100/§16), der kvoten er fastsatt av offentlig myndighet.
+7. *Lisensfelling:* Felling av et bestemt antall individer av en viltart med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd b) og c), der kvoten er fastsatt av offentlig myndighet og det kreves at jegeren er registrert som lisensjeger i Jegerregisteret for å kunne delta.
+8. *Nasjonalt overvåkingsprogram:* Et særskilt bestandsovervåkingsprogram for rovvilt der rovviltforekomst og ynglinger estimeres samlet for Norge og fordelt på nærmere bestemte regioner i samsvar med fastsatt metodikk.
+9. *Revirmarkerende par av ulv:* To stasjonære ulver av ulikt kjønn som regelmessig markerer revir sammen, og hvor løpeblod i tispas urin er registrert.
+10. *Rovvilt:* Gaupe, jerv, bjørn, ulv og kongeørn.
+11. *Rovviltnemnd:* Offentlig organ opprettet i medhold av [viltressursloven § 6](lov/2025-06-20-102/§6) med ansvar forvaltning av gaupe, jerv, bjørn og ulv i en region.
+12. *Tamrein:* Rein som inngår i reindrift som drives i samsvar med reindriftslovens bestemmelser. Rein som eies av Rendalen Renselskap omfattes ikke.
+13. *Årlig yngling:* Yngling som er godkjent av Nasjonalt overvåkingsprogram for rovvilt.
 
 > Endret ved [forskrifter 21 feb 2006 nr. 231](forskrift/2006-02-21-231) (i kraft 1 april 2006), [20 juni 2016 nr. 725](forskrift/2016-06-20-725), [6 juni 2017 nr. 705](forskrift/2017-06-06-705), [12 okt 2020 nr. 2036](forskrift/2020-10-12-2036), [18 des 2023 nr. 2258](forskrift/2023-12-18-2258) (i kraft 1 jan 2024), [28 mai 2026 nr. 939](forskrift/2026-05-28-939), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
@@ -50,7 +69,16 @@ Nasjonalt overvåkingsprogram for rovvilt skal gi data om status og utvikling i 
 
 ### § 4. Forvaltningsregioner og nasjonale bestandsmål for regionene
 
-Det skal være åtte forvaltningsregioner med tilhørende nasjonale mål for antall årlige ynglinger innenfor regionens grenser:*Region 1 – Rogaland fylke, Vestland fylke og Farsund, Flekkefjord, Hægebostad, Kristiansand, Kvinesdal, Lindesnes, Lyngdal, Sirdal, Vennesla og Åseral kommuner:* Ingen nasjonale mål for ynglinger av gaupe, jerv, bjørn eller ulv*Region 2 – Buskerud fylke, Telemark fylke, Vestfold fylke og Arendal, Birkenes, Bygland, Bykle, Evje og Hornnes, Froland, Gjerstad, Grimstad, Iveland, Lillesand, Risør, Tvedestrand, Valle, Vegårshei og Åmli kommuner:* 12 ynglinger av gaupe*Region 3 – Dovre, Etnedal, Gausdal, Gjøvik, Gran, Lesja, Lillehammer, Lom, Nord-Aurdal, Nord-Fron, Nordre Land, Ringebu, Sel, Skjåk, Søndre Land, Sør-Aurdal, Sør-Fron, Vang, Vestre Slidre, Vestre Toten, Vågå, Østre Toten, Øyer og Øystre Slidre kommuner:* 5 ynglinger av gaupe og 4 ynglinger av jerv*Region 4 – Oslo kommune, Akershus fylke og Østfold fylke:* 6 ynglinger av gaupe, samt, i samarbeid med region 5, 4-6 årlige ynglinger av ulv hvorav 3 skal ha skjedd i revir som i sin helhet ligger i Norge*Region 5 – Alvdal, Eidskog, Elverum, Engerdal, Folldal, Grue, Hamar, Kongsvinger, Løten, Nord-Odal, Os, Rendalen, Ringsaker, Stange, Stor-Elvdal, Sør-Odal, Tolga, Trysil, Tynset, Våler (Innlandet), Åmot og Åsnes kommuner:* 10 ynglinger av gaupe, 5 ynglinger av jerv og 3 ynglinger av bjørn, samt, i samarbeid med region 4, 4-6 årlige ynglinger av ulv hvorav 3 skal ha skjedd i revir som i sin helhet ligger i Norge*Region 6 – Møre og Romsdal fylke og Trøndelag fylke:* 12 ynglinger av gaupe, 10 ynglinger av jerv og 3 ynglinger av bjørn*Region 7 – Nordland fylke:* 10 ynglinger av gaupe, 10 ynglinger av jerv og 1 yngling av bjørn*Region 8 – Troms fylke og Finnmark fylke:* 10 ynglinger av gaupe – hvorav 4 i Finnmark, 10 ynglinger av jerv – hvorav 3 i Finnmark og 6 ynglinger av bjørn.
+Det skal være åtte forvaltningsregioner med tilhørende nasjonale mål for antall årlige ynglinger innenfor regionens grenser:
+
+1. *Region 1 – Rogaland fylke, Vestland fylke og Farsund, Flekkefjord, Hægebostad, Kristiansand, Kvinesdal, Lindesnes, Lyngdal, Sirdal, Vennesla og Åseral kommuner:* Ingen nasjonale mål for ynglinger av gaupe, jerv, bjørn eller ulv
+2. *Region 2 – Buskerud fylke, Telemark fylke, Vestfold fylke og Arendal, Birkenes, Bygland, Bykle, Evje og Hornnes, Froland, Gjerstad, Grimstad, Iveland, Lillesand, Risør, Tvedestrand, Valle, Vegårshei og Åmli kommuner:* 12 ynglinger av gaupe
+3. *Region 3 – Dovre, Etnedal, Gausdal, Gjøvik, Gran, Lesja, Lillehammer, Lom, Nord-Aurdal, Nord-Fron, Nordre Land, Ringebu, Sel, Skjåk, Søndre Land, Sør-Aurdal, Sør-Fron, Vang, Vestre Slidre, Vestre Toten, Vågå, Østre Toten, Øyer og Øystre Slidre kommuner:* 5 ynglinger av gaupe og 4 ynglinger av jerv
+4. *Region 4 – Oslo kommune, Akershus fylke og Østfold fylke:* 6 ynglinger av gaupe, samt, i samarbeid med region 5, 4-6 årlige ynglinger av ulv hvorav 3 skal ha skjedd i revir som i sin helhet ligger i Norge
+5. *Region 5 – Alvdal, Eidskog, Elverum, Engerdal, Folldal, Grue, Hamar, Kongsvinger, Løten, Nord-Odal, Os, Rendalen, Ringsaker, Stange, Stor-Elvdal, Sør-Odal, Tolga, Trysil, Tynset, Våler (Innlandet), Åmot og Åsnes kommuner:* 10 ynglinger av gaupe, 5 ynglinger av jerv og 3 ynglinger av bjørn, samt, i samarbeid med region 4, 4-6 årlige ynglinger av ulv hvorav 3 skal ha skjedd i revir som i sin helhet ligger i Norge
+6. *Region 6 – Møre og Romsdal fylke og Trøndelag fylke:* 12 ynglinger av gaupe, 10 ynglinger av jerv og 3 ynglinger av bjørn
+7. *Region 7 – Nordland fylke:* 10 ynglinger av gaupe, 10 ynglinger av jerv og 1 yngling av bjørn
+8. *Region 8 – Troms fylke og Finnmark fylke:* 10 ynglinger av gaupe – hvorav 4 i Finnmark, 10 ynglinger av jerv – hvorav 3 i Finnmark og 6 ynglinger av bjørn.
 
 > Endret ved [forskrifter 2 mai 2013 nr. 431](forskrift/2013-05-02-431), [20 juni 2016 nr. 725](forskrift/2016-06-20-725), [12 okt 2020 nr. 2036](forskrift/2020-10-12-2036), [29 jan 2021 nr. 274](forskrift/2021-01-29-274), [18 des 2023 nr. 2258](forskrift/2023-12-18-2258) (i kraft 1 jan 2024).
 
@@ -58,7 +86,16 @@ Det skal være åtte forvaltningsregioner med tilhørende nasjonale mål for ant
 
 I hver forvaltningsregion skal en rovviltnemnd ha hovedansvaret for forvaltningen av gaupe, jerv, bjørn og ulv. Rovviltnemnden skal gjennomføre vedtatt nasjonal rovviltpolitikk innenfor sin region, og skal ha nær kontakt med berørte kommuner og organisasjoner.
 
-Til de enkelte rovviltnemndene oppnevnes av Klima- og miljødepartementet, etter forslag fra fylkestingene, eller av Sametinget følgende antall faste medlemmer:Region 1: Agder fylkesting ett medlem, Rogaland fylkesting ett medlem, Vestland fylkesting tre medlemmerRegion 2: Agder fylkesting ett medlem, Buskerud fylkesting ett medlem, Telemark fylkesting to medlemmer, Vestfold fylkesting ett medlemRegion 3: Innlandet fylkesting fem medlemmerRegion 4: Oslo bystyre ett medlem, Akershus fylkesting to medlemmer og Østfold fylkesting to medlemmerRegion 5: Innlandet fylkesting fire medlemmer, Sametinget ett medlemRegion 6: Møre og Romsdal fylkesting ett medlem, Trøndelag fylkesting tre medlemmer, Sametinget to medlemmerRegion 7: Nordland fylkesting fire medlemmer, Sametinget to medlemmerRegion 8: Troms fylkesting to medlemmer, Finnmark fylkesting to medlemmer, Sametinget to medlemmer.
+Til de enkelte rovviltnemndene oppnevnes av Klima- og miljødepartementet, etter forslag fra fylkestingene, eller av Sametinget følgende antall faste medlemmer:
+
+1. Region 1: Agder fylkesting ett medlem, Rogaland fylkesting ett medlem, Vestland fylkesting tre medlemmer
+2. Region 2: Agder fylkesting ett medlem, Buskerud fylkesting ett medlem, Telemark fylkesting to medlemmer, Vestfold fylkesting ett medlem
+3. Region 3: Innlandet fylkesting fem medlemmer
+4. Region 4: Oslo bystyre ett medlem, Akershus fylkesting to medlemmer og Østfold fylkesting to medlemmer
+5. Region 5: Innlandet fylkesting fire medlemmer, Sametinget ett medlem
+6. Region 6: Møre og Romsdal fylkesting ett medlem, Trøndelag fylkesting tre medlemmer, Sametinget to medlemmer
+7. Region 7: Nordland fylkesting fire medlemmer, Sametinget to medlemmer
+8. Region 8: Troms fylkesting to medlemmer, Finnmark fylkesting to medlemmer, Sametinget to medlemmer.
 
 Fylkestingene skal foreslå en kvinnelig og en mannlig kandidat for hvert medlem fra fylkestinget. Kandidatene skal ha fast plass i fylkestinget. Dersom fylkeskommunen har fylkesutvalg, skal kandidatene også ha fast plass i fylkesutvalget. Medlemmene oppnevnt av Sametinget skal være bosatt i forvaltningsregionen.
 
@@ -104,7 +141,12 @@ Vedtak etter første ledd som gjelder ulv i regionene 4 og 5 skal fattes av rovv
 
 Statsforvalteren kan av eget tiltak eller etter søknad fatte vedtak om iverksetting av felling for å forhindre fremtidig skade innenfor rammen av kvote for betinget skadefelling gitt av rovviltnemnden, jf. forskriften [§ 8](forskrift/2005-03-18-242/§8), eller Miljødirektoratet, jf. [§ 13](forskrift/2005-03-18-242/§13). Statsforvalteren kan delegere sin myndighet til iverksetting av slik felling til kommunen i særskilte tilfeller.
 
-Ved vurderingen av om det skal gis tillatelse til skadefelling skal det legges vekt på føringene i regional forvaltningsplan, jf. forskriften [§ 6](forskrift/2005-03-18-242/§6). Felling kan bare gjennomføres dersom det ikke finnes annen tilfredsstillende løsning ut fra prinsippet om geografisk differensiert forvaltning. Det skal særlig tas hensyn tilområdets betydning som beitemarkskadenes omfang og utviklingpotensialet for fremtidige skadermuligheten for å gjennomføre forebyggende tiltak.
+Ved vurderingen av om det skal gis tillatelse til skadefelling skal det legges vekt på føringene i regional forvaltningsplan, jf. forskriften [§ 6](forskrift/2005-03-18-242/§6). Felling kan bare gjennomføres dersom det ikke finnes annen tilfredsstillende løsning ut fra prinsippet om geografisk differensiert forvaltning. Det skal særlig tas hensyn til
+
+1. områdets betydning som beitemark
+2. skadenes omfang og utvikling
+3. potensialet for fremtidige skader
+4. muligheten for å gjennomføre forebyggende tiltak.
 
 Felling skal være rettet mot bestemte individer. Vedtak om felling skal være begrenset til et bestemt område, tidsrom og antall dyr. Det kan knyttes nærmere vilkår til fellingstillatelsen, herunder at bestemte typer dyr skal være unntatt, at felling skal foretas av nærmere bestemte personer, samt metoder for felling. Bruk av metoder for felling som i utgangspunktet er forbudt etter [Bernkonvensjonen](traktat/1971-07-24-1), forutsetter at det ikke vil være skadelig for bestandens overlevelse og at det ikke er noen annen tilfredsstillende løsning. Formålet med bruken av metoden må være for enten å verne flora og fauna, for å avverge alvorlig skade på avling, husdyr, tamrein, skog, fiske, vann eller andre former for eiendom. Metoder for felling kan også avgrenses av hensyn til arten som skal felles, øvrig vilt, dyrevelferd, økonomi, påvirkning på naturmangfold, allmenn sikkerhet eller andre offentlige interesser av vesentlig betydning. Det kan også gis bestemmelser om dekning av påløpte utgifter i forbindelse med felling. Felling og forsøk på felling i henhold til denne bestemmelsen gjennomføres uavhengig av grunneiers jaktrett, jf. [viltressursloven § 33](lov/2025-06-20-102/§33).
 
@@ -202,7 +244,10 @@ Fastsatt kvote og avgrensning av område for lisensfelling og kvotejakt, samt vi
 
 Lisensfelling kan bare utøves av registrert lisensjeger. Som lisensjeger regnes også deltakelse som hundefører. Registreringen skjer i Jegerregisteret for hver enkelt rovviltart det enkelte jaktår.
 
-For å kunne registrere seg som lisensjeger må en jeger habetalt jegeravgift for vedkommende jaktåroverholdt rapporteringsplikten i henhold til forskriften [§ 16](forskrift/2005-03-18-242/§16).
+For å kunne registrere seg som lisensjeger må en jeger ha
+
+1. betalt jegeravgift for vedkommende jaktår
+2. overholdt rapporteringsplikten i henhold til forskriften [§ 16](forskrift/2005-03-18-242/§16).
 
 Alle som deltar i lisensfelling plikter å holde seg oppdatert om kvotens størrelse, gjenværende kvote og eventuelle andre begrensninger for fellingsutøvelsen. Kvittering fra registrering som lisensjeger i Jegerregisteret skal medbringes under felling/fellingsforsøk.
 
@@ -270,7 +315,15 @@ Overtredelse av bestemmelsene i denne forskriften er straffbart, jf. [viltressur
 
 ### § 22. Ikrafttreden
 
-Denne forskrift trer i kraft 1. april 2005. Samtidig oppheves og endres følgende forskrifter[Forskrift 30. juni 2000 nr. 656](forskrift/2000-06-30-656) om forvaltning av bjørn, jerv, ulv og gaupe oppheves.[Forskrift 30. august 2002 nr. 973](forskrift/2002-08-30-973) om regionale rovviltnemnder oppheves.[Forskrift 7. november 1997 nr. 1154](forskrift/1997-11-07-1154) om forsøk med regionale rovviltnemnder og om lisensjakt på jerv oppheves.[Forskrift 17. desember 2004 nr. 1663](forskrift/2004-12-17-1663) om lisensjakt på ulv oppheves.[Forskrift 11. februar 2002 nr. 149](forskrift/2002-02-11-149) om jakt- og fangsttider samt sanking av egg og dun for jaktsesongene fra 1. april 2002 til og med 31. mars 2007 endres slik – – –[Forskrift 1. september 1997 nr. 1000](forskrift/1997-09-01-1000) om felling av viltarter som gjør skade eller som vesentlig reduserer andre viltarters reproduksjon endres slik – – –[Forskrift 19. april 1988 nr. 336](forskrift/1988-04-19-336) om viltforvaltning på statsgrunn endres slik – – –
+Denne forskrift trer i kraft 1. april 2005. Samtidig oppheves og endres følgende forskrifter
+
+1. [Forskrift 30. juni 2000 nr. 656](forskrift/2000-06-30-656) om forvaltning av bjørn, jerv, ulv og gaupe oppheves.
+2. [Forskrift 30. august 2002 nr. 973](forskrift/2002-08-30-973) om regionale rovviltnemnder oppheves.
+3. [Forskrift 7. november 1997 nr. 1154](forskrift/1997-11-07-1154) om forsøk med regionale rovviltnemnder og om lisensjakt på jerv oppheves.
+4. [Forskrift 17. desember 2004 nr. 1663](forskrift/2004-12-17-1663) om lisensjakt på ulv oppheves.
+5. [Forskrift 11. februar 2002 nr. 149](forskrift/2002-02-11-149) om jakt- og fangsttider samt sanking av egg og dun for jaktsesongene fra 1. april 2002 til og med 31. mars 2007 endres slik – – –
+6. [Forskrift 1. september 1997 nr. 1000](forskrift/1997-09-01-1000) om felling av viltarter som gjør skade eller som vesentlig reduserer andre viltarters reproduksjon endres slik – – –
+7. [Forskrift 19. april 1988 nr. 336](forskrift/1988-04-19-336) om viltforvaltning på statsgrunn endres slik – – –
 
 ## Kommentarer til forskriftens enkelte bestemmelser
 
@@ -362,7 +415,15 @@ Klima- og miljødepartementet står for oppnevningen av medlemmer til rovviltnem
 
 Sametinget oppnevner ett medlem i forvaltningsregion 5 og to medlemmer i hver av forvaltningsregionene 6, 7 og 8. Medlemmene som oppnevnes av Sametinget skal være bosatt i den aktuelle forvaltningsregionen. I region 6 er det ønskelig at én representant er fra området som tidligere utgjorde Nord-Trøndelag fylke og én fra området som tidligere utgjorde Sør-Trøndelag fylke. I region 8 er det ønskelig at én representant er fra Finnmark fylke og én fra Troms fylke.
 
-Inndelingen av rovviltregionene er vedtatt av Stortinget ved behandlingen av St.meld.nr.15 (2003–2004). Fylkesinndelingen er endret flere ganger siden dette, og [§ 5 andre ledd](forskrift/2005-03-18-242/§5/ledd/2) viser til fylkestingene som følger av fylkesinndelingen per 1. januar 2024. Det må så langt det er mulig sikres at medlemmene i rovviltnemndene har en geografisk tilhørighet som samsvarer med Stortingets vedtak. For å oppnå dette skal fylkestingene så langt det er mulig sikre følgende fordeling ved forslag av medlemmer fra de nevnte fylkestingene (fordelingen av medlemmer fra Sametinget følger av avsnittet over):Region 1: ved forslag av medlemmer fra Vestland fylkesting skal to av medlemmene ha tilhørighet til tidligere Sogn og Fjordane fylke og ett skal ha tilhørighet til tidligere Hordaland fylke. Ved forslag av medlem fra Agder fylkesting skal medlemmet ha tilhørighet til tidligere Vest-Agder fylkeRegion 2: ved forslag av medlem fra Agder fylkesting skal medlemmet ha tilhørighet til tidligere Aust-Agder fylkeRegion 3: medlemmene skal ha tilhørighet til de deler av tidligere Oppland fylke som i dag er innenfor Innlandet fylkeRegion 5: medlemmene skal ha tilhørighet til tidligere Hedmark fylkeRegion 6: ved forslag av medlemmer fra Trøndelag fylkesting skal to av medlemmene ha tilhørighet til tidligere Nord-Trøndelag fylke og ett medlem skal ha tilhørighet til tidligere Sør-Trøndelag fylke.Det foreligger tilstrekkelig tilhørighet der medlemmet står innført i folkeregisteret som bosatt i en av kommunene som utgjorde det tidligere fylket.
+Inndelingen av rovviltregionene er vedtatt av Stortinget ved behandlingen av St.meld.nr.15 (2003–2004). Fylkesinndelingen er endret flere ganger siden dette, og [§ 5 andre ledd](forskrift/2005-03-18-242/§5/ledd/2) viser til fylkestingene som følger av fylkesinndelingen per 1. januar 2024. Det må så langt det er mulig sikres at medlemmene i rovviltnemndene har en geografisk tilhørighet som samsvarer med Stortingets vedtak. For å oppnå dette skal fylkestingene så langt det er mulig sikre følgende fordeling ved forslag av medlemmer fra de nevnte fylkestingene (fordelingen av medlemmer fra Sametinget følger av avsnittet over):
+
+- Region 1: ved forslag av medlemmer fra Vestland fylkesting skal to av medlemmene ha tilhørighet til tidligere Sogn og Fjordane fylke og ett skal ha tilhørighet til tidligere Hordaland fylke. Ved forslag av medlem fra Agder fylkesting skal medlemmet ha tilhørighet til tidligere Vest-Agder fylke
+- Region 2: ved forslag av medlem fra Agder fylkesting skal medlemmet ha tilhørighet til tidligere Aust-Agder fylke
+- Region 3: medlemmene skal ha tilhørighet til de deler av tidligere Oppland fylke som i dag er innenfor Innlandet fylke
+- Region 5: medlemmene skal ha tilhørighet til tidligere Hedmark fylke
+- Region 6: ved forslag av medlemmer fra Trøndelag fylkesting skal to av medlemmene ha tilhørighet til tidligere Nord-Trøndelag fylke og ett medlem skal ha tilhørighet til tidligere Sør-Trøndelag fylke.
+
+Det foreligger tilstrekkelig tilhørighet der medlemmet står innført i folkeregisteret som bosatt i en av kommunene som utgjorde det tidligere fylket.
 
 Representasjonen av begge kjønn i rovviltnemnder skal være i samsvar med [lov 16. juni 2017 nr. 51](lov/2017-06-16-51) om likestilling og forbud mot diskriminering, jf. [forskrift 2. februar 1996 nr. 110](forskrift/1996-02-02-110) om representasjon av begge kjønn i statlige utvalg, styrer, råd, delegasjoner mv.
 

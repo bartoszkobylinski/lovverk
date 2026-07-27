@@ -42,7 +42,12 @@ Det skal innhentes forslag på styremedlemmer fra fiskeri- og havbruksnæringen.
 
 Aksjeselskapet skal utføre de oppgaver som er fastsatt i loven, i denne forskrift og i vedtekter for aksjeselskapet.
 
-Aksjeselskapet skal:utarbeide strategier for bruk av avgiftsmidlene på grunnlag av en løpende dialog med fiskeri- og havbruksnæringenfastsette kriterier og rutiner for tildeling av avgiftsmidlene og tildele dem iht. vedtatte strategier, kriterier og rutiner. Kriterier og rutiner for tildeling av midler skal være allment tilgjengelige.foreta en overordnet oppfølging av og kontroll med bruken av avgiftsmidleneforeta en samlet årlig rapportering om anvendelse av avgiftsmidlene til Nærings- og fiskeridepartementet.
+Aksjeselskapet skal:
+
+1. utarbeide strategier for bruk av avgiftsmidlene på grunnlag av en løpende dialog med fiskeri- og havbruksnæringen
+2. fastsette kriterier og rutiner for tildeling av avgiftsmidlene og tildele dem iht. vedtatte strategier, kriterier og rutiner. Kriterier og rutiner for tildeling av midler skal være allment tilgjengelige.
+3. foreta en overordnet oppfølging av og kontroll med bruken av avgiftsmidlene
+4. foreta en samlet årlig rapportering om anvendelse av avgiftsmidlene til Nærings- og fiskeridepartementet.
 
 > Endret ved forskrift [16 juni 2023 nr. 941](forskrift/2023-06-16-941) (i kraft 1 juli 2023).
 

@@ -15,7 +15,7 @@ xml_hash: "a8a9741579d8c6ddf33eb87a7eb9e6b00e5ef6f5c4fa085c396dee96d6d315d0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,23 @@ Departementet kan gi forskrift eller fatte enkeltvedtak om at varer som er ment 
 
 ## § 3.
 
-Det gis fritak for avgift på tobakksvarer mv. somfra produsents eller importørs lagerutføres til utlandetleveres som proviantleveres til utsalg på lufthavninnføressom reisegodstil bruk i transportmidler i ervervsmessig virksomhetfra produsents eller importørs lager leveres til eller innføres avdiplomaterNATO og styrker fra land som deltar i Partnerskap for fredDen nordiske investeringsbankkommer i retur til produsents eller importørs lager.
+Det gis fritak for avgift på tobakksvarer mv. som
+
+1. fra produsents eller importørs lager
+
+   1. utføres til utlandet
+   2. leveres som proviant
+   3. leveres til utsalg på lufthavn
+2. innføres
+
+   1. som reisegods
+   2. til bruk i transportmidler i ervervsmessig virksomhet
+3. fra produsents eller importørs lager leveres til eller innføres av
+
+   1. diplomater
+   2. NATO og styrker fra land som deltar i Partnerskap for fred
+   3. Den nordiske investeringsbank
+4. kommer i retur til produsents eller importørs lager.
 
 Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
 

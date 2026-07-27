@@ -15,7 +15,7 @@ xml_hash: "28e5628cbf02b15a444f6325523edaf4658220d859a39a2485001e5437dfdde9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,12 @@ Virksomheten skal vedlikeholde og kontrollere systemet.
 
 ### § 9
 
-Virksomheten skal varsle Arbeidstilsynet:før gruvearbeidet blir påbegynt i en gruve,når en ny sjakt, hovedstoll eller fløts i gruve er åpnet,om nedleggelse eller midlertidig driftsstans over 4 måneder av en gruve eller fløts i gruve.før gjenopptagelse av arbeidet i en gruve eller fløts i gruve, etter nedleggelse eller midlertidig driftsstans.
+Virksomheten skal varsle Arbeidstilsynet:
+
+1. før gruvearbeidet blir påbegynt i en gruve,
+2. når en ny sjakt, hovedstoll eller fløts i gruve er åpnet,
+3. om nedleggelse eller midlertidig driftsstans over 4 måneder av en gruve eller fløts i gruve.
+4. før gjenopptagelse av arbeidet i en gruve eller fløts i gruve, etter nedleggelse eller midlertidig driftsstans.
 
 ### § 10
 
@@ -128,13 +133,24 @@ Av hensyn til sikkerheten skal virksomheten sørge for at det til enhver tid er 
 
 ### § 19
 
-Ingen skal anses kvalifisert for stillingen som nevnt i [§ 18](forskrift/1993-01-18-33/§18) med mindre vedkommende har:eksamen som bergingeniør med rett til tittelen «sivilingeniør» eller tilsvarende, ogtilstrekkelig praksis fra kullgruver.
+Ingen skal anses kvalifisert for stillingen som nevnt i [§ 18](forskrift/1993-01-18-33/§18) med mindre vedkommende har:
+
+1. eksamen som bergingeniør med rett til tittelen «sivilingeniør» eller tilsvarende, og
+2. tilstrekkelig praksis fra kullgruver.
 
 ## Kapittel 6. Opplæring
 
 ### § 20
 
-Når arbeidere som ikke tidligere har arbeidet i en kullgruve blir satt til arbeid som omfattes av denne forskrift, skal virksomheten sørge for at de gis nødvendig teoretisk og praktisk opplæring. Virksomheten skal utarbeide en opplæringsplan som bl a omfatter:eksplosjonsfaresikringsarbeidventilasjonsforholdarbeidsinstrukserergonomiske forholdkatastrofeplanerandre forhold som har betydning for liv eller helse
+Når arbeidere som ikke tidligere har arbeidet i en kullgruve blir satt til arbeid som omfattes av denne forskrift, skal virksomheten sørge for at de gis nødvendig teoretisk og praktisk opplæring. Virksomheten skal utarbeide en opplæringsplan som bl a omfatter:
+
+- eksplosjonsfare
+- sikringsarbeid
+- ventilasjonsforhold
+- arbeidsinstrukser
+- ergonomiske forhold
+- katastrofeplaner
+- andre forhold som har betydning for liv eller helse
 
 ### § 21
 
@@ -152,13 +168,27 @@ Virksomheten skal sørge for å ha sikringsingeniør for all gruvedrift for å o
 
 ### § 23
 
-Virksomheten skal til enhver tid ha instruks for beredskap, opplæring og gjennomføring av brannvern, førstehjelp og redningstjeneste. Instruksen skal bl.a. beskrive følgende:OrganiseringLedelse og kompetansePlaner for beredskapMannskap og materiellOpplæring og øvelserHelsekontroll av mannskapKontroll og vedlikehold av materiellInspeksjoner, kontroll og vedlikehold skal dokumenteres.
+Virksomheten skal til enhver tid ha instruks for beredskap, opplæring og gjennomføring av brannvern, førstehjelp og redningstjeneste. Instruksen skal bl.a. beskrive følgende:
+
+- Organisering
+- Ledelse og kompetanse
+- Planer for beredskap
+- Mannskap og materiell
+- Opplæring og øvelser
+- Helsekontroll av mannskap
+- Kontroll og vedlikehold av materiell
+- Inspeksjoner, kontroll og vedlikehold skal dokumenteres.
 
 ## Kapittel 9. Karter m v
 
 ### § 24
 
-Ved hver gruve skal det være et kartverk som viser følgende:Arbeidsstedenes beliggenhet i forhold til dagen,høydekoter for hengen i forhold til havets middelvannsta_nd med ekvidistanse i meter,beliggenhet, retning og utstrekning av hver kjent større forkastning i hver fløts med dens spranghøyde og hver kjent utkiling og eruptive ganger, ogventilasjon.
+Ved hver gruve skal det være et kartverk som viser følgende:
+
+1. Arbeidsstedenes beliggenhet i forhold til dagen,
+2. høydekoter for hengen i forhold til havets middelvannsta_nd med ekvidistanse i meter,
+3. beliggenhet, retning og utstrekning av hver kjent større forkastning i hver fløts med dens spranghøyde og hver kjent utkiling og eruptive ganger, og
+4. ventilasjon.
 
 ### § 25
 
@@ -219,8 +249,11 @@ I gruvegangene skal det være tilstrekkelig høyde og bredde for at fordring kan
 
 ### § 35
 
-På alle regulære stoppesteder hvor det er behov for å kople vogner sammen eller fra hverandre eller i forbindelse med kjøretøy, skal det være:Minst 60 cm fritt mellomrom fra vogn til nærmeste vegg eller til forbygning eller til andre hindringer
-ogsikker avstand mellom vognene hvor disse står ved siden av hverandre på parallelle nabospor.
+På alle regulære stoppesteder hvor det er behov for å kople vogner sammen eller fra hverandre eller i forbindelse med kjøretøy, skal det være:
+
+1. Minst 60 cm fritt mellomrom fra vogn til nærmeste vegg eller til forbygning eller til andre hindringer
+   og
+2. sikker avstand mellom vognene hvor disse står ved siden av hverandre på parallelle nabospor.
 
 ### § 36
 
@@ -290,7 +323,11 @@ Stigene skal være slik plassert at de dekker mannhullet i den underliggende pla
 
 ### § 48
 
-Alle steder under dagen som er tilgjengelig for arbeidstakere skal inndeles i nødvendig antall ventilasjonsdistrikter. Et ventilasjonsdistrikt skal til enhver tid gjennomstrømmes av en luftmengde som under ordinære forhold er tilstrekkelig til:å fortynne eksplosiv gruvegass til under 1,0 volumprosent,å fortynne skadelige gasser til under den til enhver tid gjeldende administrative norm utgitt av Arbeidstilsynet.å holde oksygeninnholdet over 19 volumprosent og kulldioksydinnholdet under 0.5 volumprosent.
+Alle steder under dagen som er tilgjengelig for arbeidstakere skal inndeles i nødvendig antall ventilasjonsdistrikter. Et ventilasjonsdistrikt skal til enhver tid gjennomstrømmes av en luftmengde som under ordinære forhold er tilstrekkelig til:
+
+1. å fortynne eksplosiv gruvegass til under 1,0 volumprosent,
+2. å fortynne skadelige gasser til under den til enhver tid gjeldende administrative norm utgitt av Arbeidstilsynet.
+3. å holde oksygeninnholdet over 19 volumprosent og kulldioksydinnholdet under 0.5 volumprosent.
 
 ### § 49
 
@@ -330,7 +367,11 @@ Med mindre det gjelder arbeid for å fjerne faren, skal arbeiderne ikke tillates
 
 ### § 55
 
-Når forholdene gjør det nødvendig, skal virksomheten installereovervåkningsutstyr som automatisk og løpende måler gasskonsentrasjon på utsatte steder,automatiske alarmer oginnretninger som automatisk avbryter elektriske installasjoner og forbrenningsmotorer.
+Når forholdene gjør det nødvendig, skal virksomheten installere
+
+- overvåkningsutstyr som automatisk og løpende måler gasskonsentrasjon på utsatte steder,
+- automatiske alarmer og
+- innretninger som automatisk avbryter elektriske installasjoner og forbrenningsmotorer.
 
 Resultatene av de automatiske målingene skal registreres og oppbevares i et tidsrom på 12 måneder.
 
@@ -386,7 +427,13 @@ Virksomheten skal sørge for at det etter stans i arbeidet på mer enn 7 timer i
 
 ### § 66
 
-Inspeksjonene skal omfatte:måling av metangass og kontroll av ansamlinger av kullstøv,ventilasjon i sin alminnelighet,forbygningen og hengens og veggenes tilstand,avsperring av farlige steder,stasjonære maskiner som kan representere brann- og eksplosjonsfare.
+Inspeksjonene skal omfatte:
+
+1. måling av metangass og kontroll av ansamlinger av kullstøv,
+2. ventilasjon i sin alminnelighet,
+3. forbygningen og hengens og veggenes tilstand,
+4. avsperring av farlige steder,
+5. stasjonære maskiner som kan representere brann- og eksplosjonsfare.
 
 ### § 67
 

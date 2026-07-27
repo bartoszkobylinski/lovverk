@@ -15,7 +15,7 @@ xml_hash: "ca464a8800897b200d47a8c7a90cc7722ac2da12fc7ec542ccfbd0ba4775083e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,15 @@ For barn av forelder som taper statsborgerskap etter [§ 26](lov/2005-06-10-51/�
 
 ### § 7. Hovedregel om erverv etter søknad
 
-Enhver har etter søknad rett til norsk statsborgerskap dersom søkeren på vedtakstidspunktethar klarlagt sin identitet, jf. femte ledd,har fylt tolv år,er og vil forbli bosatt i riket,fyller vilkårene for permanent oppholdstillatelse i [utlendingsloven § 62](lov/2008-05-15-35/§62),har til sammen åtte års opphold i riket i løpet av de siste elleve årene, med oppholdstillatelser av minst ett års varighet, opphold i en eller flere søknadsperioder medregnet i åtteårsperioden, jf. sjette ledd,fyller kravene om ferdigheter i norsk muntlig og bestått statsborgerprøve som fastsatt i [§ 8](lov/2005-06-10-51/§8), ogikke er ilagt straff eller strafferettslig særreaksjon eller har utholdt karenstid, jf. [§ 9](lov/2005-06-10-51/§9).
+Enhver har etter søknad rett til norsk statsborgerskap dersom søkeren på vedtakstidspunktet
+
+1. har klarlagt sin identitet, jf. femte ledd,
+2. har fylt tolv år,
+3. er og vil forbli bosatt i riket,
+4. fyller vilkårene for permanent oppholdstillatelse i [utlendingsloven § 62](lov/2008-05-15-35/§62),
+5. har til sammen åtte års opphold i riket i løpet av de siste elleve årene, med oppholdstillatelser av minst ett års varighet, opphold i en eller flere søknadsperioder medregnet i åtteårsperioden, jf. sjette ledd,
+6. fyller kravene om ferdigheter i norsk muntlig og bestått statsborgerprøve som fastsatt i [§ 8](lov/2005-06-10-51/§8), og
+7. ikke er ilagt straff eller strafferettslig særreaksjon eller har utholdt karenstid, jf. [§ 9](lov/2005-06-10-51/§9).
 
 Søkeren har ikke rett til norsk statsborgerskap etter første ledd dersom hensynet til grunnleggende nasjonale interesser eller utenrikspolitiske hensyn taler mot.
 
@@ -338,7 +346,18 @@ Kongen kan gi forskrift om behandlingen, blant annet om formålet med behandling
 
 ### § 29 b. Opplysningsplikt og unntak fra taushetsplikt
 
-Dersom organet som behandler en sak etter denne loven, anser det nødvendig for opplysningen av saken, kan følgende organer pålegges å utlevere opplysninger, uten hinder av taushetsplikt:politietskattemyndighetenearbeids- og velferdsforvaltningenLånekassenfolkeregistermyndighetenkommunenefylkeskommuneneuniversiteter og offentlige høyskolerfrittstående skoler og private høyskolerDirektoratet for høyere utdanning og kompetanse.
+Dersom organet som behandler en sak etter denne loven, anser det nødvendig for opplysningen av saken, kan følgende organer pålegges å utlevere opplysninger, uten hinder av taushetsplikt:
+
+1. politiet
+2. skattemyndighetene
+3. arbeids- og velferdsforvaltningen
+4. Lånekassen
+5. folkeregistermyndigheten
+6. kommunene
+7. fylkeskommunene
+8. universiteter og offentlige høyskoler
+9. frittstående skoler og private høyskoler
+10. Direktoratet for høyere utdanning og kompetanse.
 
 Kongen skal gi forskrift om hvilke organer som kan pålegge utlevering av opplysninger etter første ledd, i hvilke sakstyper det kan innhentes opplysninger, hvem det kan innhentes opplysninger om og hvilke opplysninger som kan innhentes.
 
@@ -376,7 +395,10 @@ Bestemmelsene i denne paragrafen gjelder tilsvarende for erverv av norsk statsbo
 
 Vedtaket må bringes inn for tingretten innen én måned fra det tidspunkt underretningen om vedtaket er kommet frem til parten.
 
-Det kan gis oppfriskning ved oversittelse av søksmålsfristen dersomdet fremlegges opplysninger om vesentlige faktiske forhold som var ukjent eller ikke var inntruffet da saken ble avgjort, og den saken gjelder bringer saken inn for domstolen så snart som mulig etter at opplysningene blir kjent, elleren bindende avgjørelse av en internasjonal domstol, eller andre lignende forhold, tilsier at vedtak kan ha vært basert på uriktig anvendelse av folkeretten.
+Det kan gis oppfriskning ved oversittelse av søksmålsfristen dersom
+
+1. det fremlegges opplysninger om vesentlige faktiske forhold som var ukjent eller ikke var inntruffet da saken ble avgjort, og den saken gjelder bringer saken inn for domstolen så snart som mulig etter at opplysningene blir kjent, eller
+2. en bindende avgjørelse av en internasjonal domstol, eller andre lignende forhold, tilsier at vedtak kan ha vært basert på uriktig anvendelse av folkeretten.
 
 > Tilføyd ved [lov 25 mai 2018 nr. 19](lov/2018-05-25-19) (ikr. 1 jan 2019 iflg. [res. 25 mai 2018 nr. 759](forskrift/2018-05-25-759)).
 

@@ -15,7 +15,7 @@ xml_hash: "3140d8b4172897b2e1fddbe7006b1881c7c415e6af54c3de75b0353382b38560"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,12 @@ Kongen kan gi forskrift om at lova og forskrifter med heimel i lova heilt eller 
 
 ### § 3. Definisjonar
 
-I denne lova meines med:uttak: prosess der humane organ, celler eller vev blir tatt ut av donor og gjort tilgjengelege for transplantasjondonor: person som gir organ, celler eller vev til bruk i behandlinga av eit anna menneske, uavhengig av om avgjevinga skjer mens personen er i live eller etter at personen er dødfornybart vev: humane celler og vev som blir gjendanna etter donasjon med unntak av del av lever eller anna organpårørande og næraste pårørande: pårørande og næraste pårørande etter [pasient- og brukerrettighetsloven § 1-3](lov/1999-07-02-63/§1-3) bokstav b.
+I denne lova meines med:
+
+1. uttak: prosess der humane organ, celler eller vev blir tatt ut av donor og gjort tilgjengelege for transplantasjon
+2. donor: person som gir organ, celler eller vev til bruk i behandlinga av eit anna menneske, uavhengig av om avgjevinga skjer mens personen er i live eller etter at personen er død
+3. fornybart vev: humane celler og vev som blir gjendanna etter donasjon med unntak av del av lever eller anna organ
+4. pårørande og næraste pårørande: pårørande og næraste pårørande etter [pasient- og brukerrettighetsloven § 1-3](lov/1999-07-02-63/§1-3) bokstav b.
 
 ### § 4. Ansvaret for donasjons- og transplantasjonsverksemdene
 
@@ -54,9 +59,21 @@ Departementet kan gi forskrift om krav til verksemder som gjennomfører uttak el
 
 Uttak av organ, celler og vev kan berre finne stad dersom inngrepet ikkje fører til ein nærliggande fare for den fysiske eller psykiske helsa til donoren.
 
-Uttak av organ, celler og vev frå personar mellom 12 og 18 år kan berre finne stad når det ligg føre særlege grunnar. I vurderinga av om det ligg føre særlege grunnar skal det mellom anna leggjast vekt på om:transplantasjon er nødvendig for å redde livet til mottakaren,det finst nokon annan aktuell donor,donoren har sterk tilknyting til mottakar,uttaket inneber eit stort inngrep,uttaket berre gjeld fornybart vev, jf. [§ 3](lov/2015-05-07-25/§3) bokstav c, og omdonoren er moden nok til å skjønne kva inngrepet inneber.
+Uttak av organ, celler og vev frå personar mellom 12 og 18 år kan berre finne stad når det ligg føre særlege grunnar. I vurderinga av om det ligg føre særlege grunnar skal det mellom anna leggjast vekt på om:
 
-Uttak frå barn under 12 år og vaksne som ikkje har avgjerdskompetanse etter [pasient- og brukerrettighetsloven § 4-3 andre ledd](lov/1999-07-02-63/§4-3/ledd/2), kan berre finne stad dersom:uttaket gjeld fornybart vev, jf. [§ 3 bokstav c](lov/2015-05-07-25/§3/bokstav/c),donasjonen er nødvendig for å redde livet til mottakaren,det ikkje finst ein donor med avgjerdskompetanse som deler mange nok av dei viktigaste vevstypane (er vevsforlikeleg), ogmottakaren er søsken, barn eller forelder, eller i særlege tilfelle på annan måte i nær familie med donoren.
+1. transplantasjon er nødvendig for å redde livet til mottakaren,
+2. det finst nokon annan aktuell donor,
+3. donoren har sterk tilknyting til mottakar,
+4. uttaket inneber eit stort inngrep,
+5. uttaket berre gjeld fornybart vev, jf. [§ 3](lov/2015-05-07-25/§3) bokstav c, og om
+6. donoren er moden nok til å skjønne kva inngrepet inneber.
+
+Uttak frå barn under 12 år og vaksne som ikkje har avgjerdskompetanse etter [pasient- og brukerrettighetsloven § 4-3 andre ledd](lov/1999-07-02-63/§4-3/ledd/2), kan berre finne stad dersom:
+
+1. uttaket gjeld fornybart vev, jf. [§ 3 bokstav c](lov/2015-05-07-25/§3/bokstav/c),
+2. donasjonen er nødvendig for å redde livet til mottakaren,
+3. det ikkje finst ein donor med avgjerdskompetanse som deler mange nok av dei viktigaste vevstypane (er vevsforlikeleg), og
+4. mottakaren er søsken, barn eller forelder, eller i særlege tilfelle på annan måte i nær familie med donoren.
 
 Uttak kan aldri gjennomførast i strid med viljen til ein donor som ikkje har avgjerdskompetanse.
 

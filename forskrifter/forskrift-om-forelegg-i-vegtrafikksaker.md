@@ -24,17 +24,98 @@ eu_basis: []
 
 ## § 1. Trafikklovbrudd som kan bøtelegges ved forenklet forelegg
 
-1. Overtredelse av [vegtrafikkloven § 5](lov/1965-06-18-4/§5), jf. trafikkskilt 362 og 366 og/eller fartsgrense etter [vegtrafikkloven § 6](lov/1965-06-18-4/§6), samt overtredelse av [forskrift om forbud mot bruk av beltemotorsykkel (snøscooter) på offentlig veg](forskrift/2001-12-14-1411) eller overtredelse av [§ 4](forskrift/2001-12-14-1412/§4) i [forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412)når fartsgrense på stedet er 60 km/t eller lavere, og fartsoverskridelsen ertil og med 5 km/t kr 1 250,–til og med 10 km/t kr 3 350,–til og med 15 km/t kr 5 950,–til og med 20 km/t kr 8 650,–til og med 25 km/t kr 13 450,–når fartsgrense på stedet er 70 km/t eller høyere, og fartsoverskridelsen ertil og med 5 km/t kr 1 250,–til og med 10 km/t kr 3 350,–til og med 15 km/t kr 5 350,–til og med 20 km/t kr 7 450,–til og med 25 km/t kr 10 100,–til og med 30 km/t kr 13 450,–til og med 35 km/t kr 16 050,–når fartsgrense på motorveg er 90 km/t eller høyere, og fartsoverskridelsen er36 km/t til og med 40 km/t kr 16 700,–
-2. kjøring med motorvogn unntatt liten elektrisk motorvogni strid med trafikklyssignal med fast eller blinkende lys med rød farge, unntatt lys med rød farge på tolyssignal brukt ved bomstasjon, kai eller annet område, [skiltforskriften § 23](forskrift/2005-10-07-1219/§23) og [§ 24](forskrift/2005-10-07-1219/§24),med for kort avstand til forankjørende, jf. [trafikkreglene § 5 nr. 3](forskrift/1986-03-21-747/§5/nummer/3) kr 10 750,–
-3. kjøring med motorvogn, unntatt liten elektrisk motorvogn, i strid med trafikkskiltene302 Innkjøring forbudt,306.0, 306.1 og 306.3-5 Trafikkforbud,330 Svingforbud,332 Vendingsforbud,402 Påbudt kjøreretning,404 Påbudt kjørefelt,406 Påbudt rundkjøring,506 Tungtrafikkfelt,508 Kollektivfelt, [trafikkreglene § 5](forskrift/1986-03-21-747/§5),509 Sambruksfelt, [trafikkreglene § 5](forskrift/1986-03-21-747/§5),526 Envegskjøring,548 Gågate kr 8 650,–
-4. kjøring med motorvogn unntatt liten elektrisk motorvogni sperreområde, begrenset av heltrukken gul linje eller parallelle gule sperrelinjer, [skiltforskriften § 22](forskrift/2005-10-07-1219/§22) trafikkskilt 1014 og [§ 21 nr. 4](forskrift/2005-10-07-1219/§21/nummer/4),på fortau, sykkelfelt (skilt 521), gangveg (skilt 518), sykkelveg (skilt 520) og gang- og sykkelveg (skilt 522), [trafikkreglene § 4](forskrift/1986-03-21-747/§4),i strid med bestemmelsene om feltvalg ved svinging, [trafikkreglene § 6](forskrift/1986-03-21-747/§6),på eller over gul eller hvit sperrelinje og/eller i sperreområde begrenset av heltrukken hvit linje, [skiltforskriften § 22](forskrift/2005-10-07-1219/§22) og [§ 21 nr. 4](forskrift/2005-10-07-1219/§21/nummer/4) kr 6 550,–
-5. [trafikkreglene § 12](forskrift/1986-03-21-747/§12), ulovlig forbikjøring med motorvogn unntatt liten elektrisk motorvogntil høyre,like foran eller i vegkryss, eller hvor sikten er hindret ved bakketopp, kurve eller på annen måte,foran gangfelt,ved ikke å ha forvisset seg om atden forankjørende ikke har gitt tegn om forbikjøring, elleringen bakenforliggende har begynt å kjøre forbi ham,i strid med trafikkskiltene334 Forbikjøringsforbud,335 Forbikjøringsforbud for lastebil kr 10 750,–
-6. fører av motorvogn, unntatt liten elektrisk motorvogn, som ikke har overholdt vikeplikti henhold til trafikkskilt 202 Vikeplikt og 204 Stopp,overfor trafikk fra høyre, [trafikkreglene § 7](forskrift/1986-03-21-747/§7),overfor gående i gangfelt, [trafikkreglene § 9](forskrift/1986-03-21-747/§9),ved utkjøring fra parkeringsplass, holdeplass, torg, eiendom, bensinstasjon, gågate, gatetun eller lignede område, [trafikkreglene § 7](forskrift/1986-03-21-747/§7),overfor gående eller syklende der det skal kjøres inn ved svinging, [trafikkreglene § 7](forskrift/1986-03-21-747/§7),i henhold til [§ 3](forskrift/2001-12-14-1411/§3) i [forskrift om forbud mot bruk av beltemotorsykkel (snøscooter) på offentlig veg](forskrift/2001-12-14-1411) eller [§ 3](forskrift/2001-12-14-1412/§3) i [forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412) kr 10 750,–
-7. kjøring med motorvogn unntatt liten elektrisk motorvognuten å gi påbudt tegn, [trafikkreglene § 14](forskrift/1986-03-21-747/§14) og [§ 7](forskrift/2001-12-14-1412/§7) i [forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412/§),uten å ha påbudt lys tent, [trafikkreglene § 15](forskrift/1986-03-21-747/§15) og [§ 6](forskrift/2001-12-14-1412/§6) i [forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412),med lys som blir brukt på feilaktig måte, [trafikkreglene § 15](forskrift/1986-03-21-747/§15) og [§ 6](forskrift/2001-12-14-1412/§6) i [forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412),uten å ha tilstrekkelig utsyn, [forskrift om bruk av kjøretøy § 1-3](forskrift/1990-01-25-92/§1-3),der det er feil ved nærlys, fjernlys eller kjørelys, [vegtrafikkloven § 23](lov/1965-06-18-4/§23), kr 4 100,–
+1. Overtredelse av [vegtrafikkloven § 5](lov/1965-06-18-4/§5), jf. trafikkskilt 362 og 366 og/eller fartsgrense etter [vegtrafikkloven § 6](lov/1965-06-18-4/§6), samt overtredelse av [forskrift om forbud mot bruk av beltemotorsykkel (snøscooter) på offentlig veg](forskrift/2001-12-14-1411) eller overtredelse av [§ 4](forskrift/2001-12-14-1412/§4) i [forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412)
+
+   - når fartsgrense på stedet er 60 km/t eller lavere, og fartsoverskridelsen er
+
+     1. til og med 5 km/t kr 1 250,–
+     2. til og med 10 km/t kr 3 350,–
+     3. til og med 15 km/t kr 5 950,–
+     4. til og med 20 km/t kr 8 650,–
+     5. til og med 25 km/t kr 13 450,–
+   - når fartsgrense på stedet er 70 km/t eller høyere, og fartsoverskridelsen er
+
+     1. til og med 5 km/t kr 1 250,–
+     2. til og med 10 km/t kr 3 350,–
+     3. til og med 15 km/t kr 5 350,–
+     4. til og med 20 km/t kr 7 450,–
+     5. til og med 25 km/t kr 10 100,–
+     6. til og med 30 km/t kr 13 450,–
+     7. til og med 35 km/t kr 16 050,–
+   - når fartsgrense på motorveg er 90 km/t eller høyere, og fartsoverskridelsen er
+
+     1. 36 km/t til og med 40 km/t kr 16 700,–
+2. kjøring med motorvogn unntatt liten elektrisk motorvogn
+
+   1. i strid med trafikklyssignal med fast eller blinkende lys med rød farge, unntatt lys med rød farge på tolyssignal brukt ved bomstasjon, kai eller annet område, [skiltforskriften § 23](forskrift/2005-10-07-1219/§23) og [§ 24](forskrift/2005-10-07-1219/§24),
+   2. med for kort avstand til forankjørende, jf. [trafikkreglene § 5 nr. 3](forskrift/1986-03-21-747/§5/nummer/3) kr 10 750,–
+3. kjøring med motorvogn, unntatt liten elektrisk motorvogn, i strid med trafikkskiltene
+
+   - 302 Innkjøring forbudt,
+   - 306.0, 306.1 og 306.3-5 Trafikkforbud,
+   - 330 Svingforbud,
+   - 332 Vendingsforbud,
+   - 402 Påbudt kjøreretning,
+   - 404 Påbudt kjørefelt,
+   - 406 Påbudt rundkjøring,
+   - 506 Tungtrafikkfelt,
+   - 508 Kollektivfelt, [trafikkreglene § 5](forskrift/1986-03-21-747/§5),
+   - 509 Sambruksfelt, [trafikkreglene § 5](forskrift/1986-03-21-747/§5),
+   - 526 Envegskjøring,
+   - 548 Gågate kr 8 650,–
+4. kjøring med motorvogn unntatt liten elektrisk motorvogn
+
+   1. i sperreområde, begrenset av heltrukken gul linje eller parallelle gule sperrelinjer, [skiltforskriften § 22](forskrift/2005-10-07-1219/§22) trafikkskilt 1014 og [§ 21 nr. 4](forskrift/2005-10-07-1219/§21/nummer/4),
+   2. på fortau, sykkelfelt (skilt 521), gangveg (skilt 518), sykkelveg (skilt 520) og gang- og sykkelveg (skilt 522), [trafikkreglene § 4](forskrift/1986-03-21-747/§4),
+   3. i strid med bestemmelsene om feltvalg ved svinging, [trafikkreglene § 6](forskrift/1986-03-21-747/§6),
+   4. på eller over gul eller hvit sperrelinje og/eller i sperreområde begrenset av heltrukken hvit linje, [skiltforskriften § 22](forskrift/2005-10-07-1219/§22) og [§ 21 nr. 4](forskrift/2005-10-07-1219/§21/nummer/4) kr 6 550,–
+5. [trafikkreglene § 12](forskrift/1986-03-21-747/§12), ulovlig forbikjøring med motorvogn unntatt liten elektrisk motorvogn
+
+   1. til høyre,
+   2. like foran eller i vegkryss, eller hvor sikten er hindret ved bakketopp, kurve eller på annen måte,
+   3. foran gangfelt,
+   4. ved ikke å ha forvisset seg om at
+
+      1. den forankjørende ikke har gitt tegn om forbikjøring, eller
+      2. ingen bakenforliggende har begynt å kjøre forbi ham,
+   5. i strid med trafikkskiltene
+
+      - 334 Forbikjøringsforbud,
+      - 335 Forbikjøringsforbud for lastebil kr 10 750,–
+6. fører av motorvogn, unntatt liten elektrisk motorvogn, som ikke har overholdt vikeplikt
+
+   1. i henhold til trafikkskilt 202 Vikeplikt og 204 Stopp,
+   2. overfor trafikk fra høyre, [trafikkreglene § 7](forskrift/1986-03-21-747/§7),
+   3. overfor gående i gangfelt, [trafikkreglene § 9](forskrift/1986-03-21-747/§9),
+   4. ved utkjøring fra parkeringsplass, holdeplass, torg, eiendom, bensinstasjon, gågate, gatetun eller lignede område, [trafikkreglene § 7](forskrift/1986-03-21-747/§7),
+   5. overfor gående eller syklende der det skal kjøres inn ved svinging, [trafikkreglene § 7](forskrift/1986-03-21-747/§7),
+   6. i henhold til [§ 3](forskrift/2001-12-14-1411/§3) i [forskrift om forbud mot bruk av beltemotorsykkel (snøscooter) på offentlig veg](forskrift/2001-12-14-1411) eller [§ 3](forskrift/2001-12-14-1412/§3) i [forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412) kr 10 750,–
+7. kjøring med motorvogn unntatt liten elektrisk motorvogn
+
+   1. uten å gi påbudt tegn, [trafikkreglene § 14](forskrift/1986-03-21-747/§14) og [§ 7](forskrift/2001-12-14-1412/§7) i [forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412/§),
+   2. uten å ha påbudt lys tent, [trafikkreglene § 15](forskrift/1986-03-21-747/§15) og [§ 6](forskrift/2001-12-14-1412/§6) i [forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412),
+   3. med lys som blir brukt på feilaktig måte, [trafikkreglene § 15](forskrift/1986-03-21-747/§15) og [§ 6](forskrift/2001-12-14-1412/§6) i [forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412),
+   4. uten å ha tilstrekkelig utsyn, [forskrift om bruk av kjøretøy § 1-3](forskrift/1990-01-25-92/§1-3),
+   5. der det er feil ved nærlys, fjernlys eller kjørelys, [vegtrafikkloven § 23](lov/1965-06-18-4/§23), kr 4 100,–
 8. kjøring med motorsykkel (herunder moped) hvor det er foretatt endring som øker den maksimale hastighet eller ytelse som motorsykkelen er registrert for, [vegtrafikkloven § 23](lov/1965-06-18-4/§23) jf. [§ 13](lov/1965-06-18-4/§13) kr 8 650,–
-9. [vegtrafikkloven § 23](lov/1965-06-18-4/§23), kjøring med kjøretøyunder 3, 5 tonn tillatt totalvekt der parkeringsbrems ikke virker kr 4 100,–3,5 tonn eller mer tillatt totalvekt der parkeringsbrems ikke virker kr 8 300,–
+9. [vegtrafikkloven § 23](lov/1965-06-18-4/§23), kjøring med kjøretøy
+
+   1. under 3, 5 tonn tillatt totalvekt der parkeringsbrems ikke virker kr 4 100,–
+   2. 3,5 tonn eller mer tillatt totalvekt der parkeringsbrems ikke virker kr 8 300,–
 10. [trafikkreglene § 4](forskrift/1986-03-21-747/§4), kjøring med motorvogn, unntatt liten elektrisk motorvogn, eller vogntog som ikke lovlig kan kjøre minst 40 km/t eller med moped på motorveg eller motortrafikkveg kr 2 600,–
-11. kjøring med sykkel eller liten elektrisk motorvognuten å ha foreskrevne lykter montert eller tent, [trafikkreglene § 15](forskrift/1986-03-21-747/§15), [forskrift om krav til sykkel § 5](forskrift/1990-02-19-119/§5) og [forskrift om krav til liten elektrisk motorvogn § 7](forskrift/2022-05-25-918/§7)i strid med trafikklyssignal med fast eller blinkende lys med rød farge, [skiltforskriften § 24](forskrift/2005-10-07-1219/§24),i strid med skilt302 Innkjøring forbudt,306.0 Forbudt for alle kjøretøy,306.6 Forbudt for syklende og fører av liten elektrisk motorvogn306.8 Forbudt for gående, syklende og fører av liten elektrisk motorvogn306.10 Forbudt for liten elektrisk motorvogn,380 Sone med bruksforbud for liten elektrisk motorvognpå motorveg og motortrafikkveg, [trafikkreglene § 4](forskrift/1986-03-21-747/§4) kr 1 950,–
+11. kjøring med sykkel eller liten elektrisk motorvogn
+
+    1. uten å ha foreskrevne lykter montert eller tent, [trafikkreglene § 15](forskrift/1986-03-21-747/§15), [forskrift om krav til sykkel § 5](forskrift/1990-02-19-119/§5) og [forskrift om krav til liten elektrisk motorvogn § 7](forskrift/2022-05-25-918/§7)
+    2. i strid med trafikklyssignal med fast eller blinkende lys med rød farge, [skiltforskriften § 24](forskrift/2005-10-07-1219/§24),
+    3. i strid med skilt
+
+       - 302 Innkjøring forbudt,
+       - 306.0 Forbudt for alle kjøretøy,
+       - 306.6 Forbudt for syklende og fører av liten elektrisk motorvogn
+       - 306.8 Forbudt for gående, syklende og fører av liten elektrisk motorvogn
+       - 306.10 Forbudt for liten elektrisk motorvogn,
+       - 380 Sone med bruksforbud for liten elektrisk motorvogn
+    4. på motorveg og motortrafikkveg, [trafikkreglene § 4](forskrift/1986-03-21-747/§4) kr 1 950,–
 12. overtredelse av bestemmelser gitt med hjemmel i [vegtrafikkloven § 23b](lov/1965-06-18-4/§23b) kr 10 750,–
 13. unnlatt sikring av passasjerer under 15 år, jf. [vegtrafikkloven § 23a](lov/1965-06-18-4/§23a), jf. [forskrift 21. september 1979 nr. 7 om bruk av personlig verneutstyr under kjøring med motorvogn](forskrift/1979-09-21-7) kr 3 600,–
 
@@ -56,7 +137,12 @@ Den subsidiære fengselsstraffen settes til en dags fengsel tilsvarende hver hel
 
 ## § 4. Unntak.
 
-Forenklet forelegg kan ikke utferdiges dersom,siktede nekter å vedta forelegget.det foreligger mistanke om flere straffbare overtredelser som ikke alle kan avgjøres ved forenklet forelegg.overtredelsen framtrer som særlig graverende eller har fremkalt betydelig trafikkfare eller at forholdet av andre grunner vil føre til betydelig høyere straff ved vanlig straffeprosessuell forfølgning.overtredelsen gir grunnlag for den prikkbelastning som resulterer i tap av føreretten, jf. [forskrift av 19. september 2003 nr. 1164](forskrift/2003-09-19-1164) om prikkbelastning [§ 4](forskrift/2003-09-19-1164/§4).
+Forenklet forelegg kan ikke utferdiges dersom,
+
+1. siktede nekter å vedta forelegget.
+2. det foreligger mistanke om flere straffbare overtredelser som ikke alle kan avgjøres ved forenklet forelegg.
+3. overtredelsen framtrer som særlig graverende eller har fremkalt betydelig trafikkfare eller at forholdet av andre grunner vil føre til betydelig høyere straff ved vanlig straffeprosessuell forfølgning.
+4. overtredelsen gir grunnlag for den prikkbelastning som resulterer i tap av føreretten, jf. [forskrift av 19. september 2003 nr. 1164](forskrift/2003-09-19-1164) om prikkbelastning [§ 4](forskrift/2003-09-19-1164/§4).
 
 > Endret ved [forskrift 5 des 2003 nr. 1427](forskrift/2003-12-05-1427) (i kraft 1 jan 2004).
 

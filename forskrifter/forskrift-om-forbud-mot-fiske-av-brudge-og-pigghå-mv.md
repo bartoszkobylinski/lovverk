@@ -44,7 +44,11 @@ For norske fartøy under 15 meter største lengde som fisker med andre redskap e
 
 Avregning etter andre ledd regnes ut fra samlet fangst i hele perioden fra og med 1. januar til og med 30. juni og hele perioden fra og med 1. juli til og med 31. desember.
 
-Følgende fangst inngår ikke i avregningsgrunnlaget etter første punktum:Torsk fisket nord for 62° NHyse fisket nord for 62° NPelagiske arter.
+Følgende fangst inngår ikke i avregningsgrunnlaget etter første punktum:
+
+- Torsk fisket nord for 62° N
+- Hyse fisket nord for 62° N
+- Pelagiske arter.
 
 > Endret ved forskrifter [21 des 2022 nr. 2449](forskrift/2022-12-21-2449). [11 april 2025 nr. 657](forskrift/2025-04-11-657).
 

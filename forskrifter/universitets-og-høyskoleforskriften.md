@@ -46,19 +46,38 @@ NOKUT skal gjennomføre en helhetlig vurdering av om institusjonens strategiske 
 
 ### § 1-2. Krav til akkreditering som høyskole
 
-For å oppnå og inneha akkreditering som høyskole skal institusjonen, i tillegg til å fylle grunnvilkåret i [universitets- og høyskoleloven § 3-1 fjerde ledd](lov/2024-03-08-9/§3-1/ledd/4), oppfylle følgende:Institusjonens utdanning, forskning eller kunstneriske utviklingsarbeid og faglige utviklingsarbeid skal være stabil og av høy kvalitet.Institusjonen skal ha en relevant kompetanseprofil, og de ansattes samlede faglige kompetanse skal være på nivå med sammenlignbare høyskoler. Institusjonen skal ha et tilstrekkelig antall ansatte i undervisnings- og forskerstillinger innenfor institusjonens faglige virksomhet.Institusjonen skal ha et jevnlig opptak av studenter og ha uteksaminert studenter i minst tre år. Institusjonen skal ha et tilfredsstillende antall studenter som fullfører til normert tid.Institusjonen skal samarbeide internasjonalt og være tilknyttet nasjonale og internasjonale nettverk innenfor høyere utdanning og forskning eller kunstnerisk utviklingsarbeid og faglig utviklingsarbeid.
+For å oppnå og inneha akkreditering som høyskole skal institusjonen, i tillegg til å fylle grunnvilkåret i [universitets- og høyskoleloven § 3-1 fjerde ledd](lov/2024-03-08-9/§3-1/ledd/4), oppfylle følgende:
+
+1. Institusjonens utdanning, forskning eller kunstneriske utviklingsarbeid og faglige utviklingsarbeid skal være stabil og av høy kvalitet.
+2. Institusjonen skal ha en relevant kompetanseprofil, og de ansattes samlede faglige kompetanse skal være på nivå med sammenlignbare høyskoler. Institusjonen skal ha et tilstrekkelig antall ansatte i undervisnings- og forskerstillinger innenfor institusjonens faglige virksomhet.
+3. Institusjonen skal ha et jevnlig opptak av studenter og ha uteksaminert studenter i minst tre år. Institusjonen skal ha et tilfredsstillende antall studenter som fullfører til normert tid.
+4. Institusjonen skal samarbeide internasjonalt og være tilknyttet nasjonale og internasjonale nettverk innenfor høyere utdanning og forskning eller kunstnerisk utviklingsarbeid og faglig utviklingsarbeid.
 
 > Tilføyd ved forskrift [9 des 2024 nr. 3006](forskrift/2024-12-09-3006) (i kraft 1 jan 2025), endret ved forskrift [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025).
 
 ### § 1-3. Krav til akkreditering som vitenskapelig høyskole
 
-For å oppnå og inneha akkreditering som vitenskapelig høyskole skal institusjonen, i tillegg til å fylle grunnvilkåret i [universitets- og høyskoleloven § 3-1 tredje ledd](lov/2024-03-08-9/§3-1/ledd/3), oppfylle følgende:Institusjonens utdanning, forskning eller kunstneriske utviklingsarbeid og faglige utviklingsarbeid skal være stabil og av høy internasjonal kvalitet.Institusjonen skal ha en relevant kompetanseprofil. Institusjonen skal ha et tilstrekkelig antall ansatte med høy faglig kompetanse innenfor utdanning, forskning eller kunstnerisk utviklingsarbeid, faglig utviklingsarbeid og formidling innenfor institusjonens faglige virksomhet. De ansattes samlede faglige kompetanse skal være på nivå med andre vitenskapelige høyskoler.Institusjonen kan tilby flere doktorgradsstudier, inkludert eventuelle fellesgrader den deltar i, hvis doktorgradsstudiene er komplementære.Institusjonen skal ha stabil forskerutdanning. Institusjonen skal over en periode på fem år ha tatt opp minst 15 doktorgradskandidater og i gjennomsnitt ha uteksaminert minst fem doktorgradskandidater per år i tre år.Institusjonen skal alene ha akkreditering for studietilbud på både lavere og høyere grads nivå innenfor doktorgradenes fagområde. Institusjonen skal jevnlig ha tatt opp og uteksaminert studenter på disse studietilbudene. Institusjonen skal ha et tilfredsstillende antall studenter som fullfører til normert tid.Institusjonen skal delta aktivt i nasjonale og internasjonale nettverk, prosjekter og samarbeid innenfor høyere utdanning, forskning eller kunstnerisk utviklingsarbeid og faglig utviklingsarbeid. Institusjonen skal delta aktivt i nasjonalt samarbeid om doktorgradsutdanning.
+For å oppnå og inneha akkreditering som vitenskapelig høyskole skal institusjonen, i tillegg til å fylle grunnvilkåret i [universitets- og høyskoleloven § 3-1 tredje ledd](lov/2024-03-08-9/§3-1/ledd/3), oppfylle følgende:
+
+1. Institusjonens utdanning, forskning eller kunstneriske utviklingsarbeid og faglige utviklingsarbeid skal være stabil og av høy internasjonal kvalitet.
+2. Institusjonen skal ha en relevant kompetanseprofil. Institusjonen skal ha et tilstrekkelig antall ansatte med høy faglig kompetanse innenfor utdanning, forskning eller kunstnerisk utviklingsarbeid, faglig utviklingsarbeid og formidling innenfor institusjonens faglige virksomhet. De ansattes samlede faglige kompetanse skal være på nivå med andre vitenskapelige høyskoler.
+3. Institusjonen kan tilby flere doktorgradsstudier, inkludert eventuelle fellesgrader den deltar i, hvis doktorgradsstudiene er komplementære.
+4. Institusjonen skal ha stabil forskerutdanning. Institusjonen skal over en periode på fem år ha tatt opp minst 15 doktorgradskandidater og i gjennomsnitt ha uteksaminert minst fem doktorgradskandidater per år i tre år.
+5. Institusjonen skal alene ha akkreditering for studietilbud på både lavere og høyere grads nivå innenfor doktorgradenes fagområde. Institusjonen skal jevnlig ha tatt opp og uteksaminert studenter på disse studietilbudene. Institusjonen skal ha et tilfredsstillende antall studenter som fullfører til normert tid.
+6. Institusjonen skal delta aktivt i nasjonale og internasjonale nettverk, prosjekter og samarbeid innenfor høyere utdanning, forskning eller kunstnerisk utviklingsarbeid og faglig utviklingsarbeid. Institusjonen skal delta aktivt i nasjonalt samarbeid om doktorgradsutdanning.
 
 > Tilføyd ved forskrift [9 des 2024 nr. 3006](forskrift/2024-12-09-3006) (i kraft 1 jan 2025), endret ved forskrift [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025).
 
 ### § 1-4. Krav til akkreditering som universitet
 
-For å oppnå og inneha akkreditering som universitet skal institusjonen, i tillegg til å fylle grunnvilkåret i [universitets- og høyskoleloven § 3-1 andre ledd](lov/2024-03-08-9/§3-1/ledd/2), oppfylle følgende:Institusjonens utdanning, forskning eller kunstneriske utviklingsarbeid og faglige utviklingsarbeid skal være stabil og av høy internasjonal kvalitet.Institusjonen skal ha en relevant kompetanseprofil. Institusjonen skal ha et tilstrekkelig antall ansatte med høy faglig kompetanse innenfor utdanning, forskning eller kunstnerisk utviklingsarbeid, faglig utviklingsarbeid og formidling innenfor institusjonens faglige virksomhet. De ansattes samlede faglige kompetanse skal være på nivå med sammenlignbare fagområder ved andre universiteter.Institusjonenes studietilbud skal være innenfor doktorgradenes fagområde, og de fleste studentene skal være knyttet til disse. Institusjonen kan ha enkelte studietilbud utenfor doktorgradsområdene dersom de støtter opp under eller har nær tilknytning til studietilbudene innenfor doktorgradsområdene, eller det er særlige grunner til ha slike tilbud.Institusjonen skal ha stabil forskerutdanning. Institusjonen skal over en periode på fem år ha tatt opp minst 15 doktorgradskandidater og i gjennomsnitt ha uteksaminert minst fem doktorgradskandidater per år i tre år.Institusjonen skal alene ha akkreditering for studietilbud på både lavere og høyere grads nivå innenfor doktorgradsområdene. Institusjonen skal jevnlig ha tatt opp og uteksaminert studenter på disse studietilbudene. Institusjonen skal ha et tilfredsstillende antall studenter som fullfører til normert tid.Institusjonen skal delta aktivt i nasjonale og internasjonale nettverk, prosjekter og samarbeid innenfor høyere utdanning, forskning eller kunstnerisk utviklingsarbeid og faglig utviklingsarbeid. Institusjonen skal delta aktivt i nasjonale samarbeid om doktorgradsutdanning.
+For å oppnå og inneha akkreditering som universitet skal institusjonen, i tillegg til å fylle grunnvilkåret i [universitets- og høyskoleloven § 3-1 andre ledd](lov/2024-03-08-9/§3-1/ledd/2), oppfylle følgende:
+
+1. Institusjonens utdanning, forskning eller kunstneriske utviklingsarbeid og faglige utviklingsarbeid skal være stabil og av høy internasjonal kvalitet.
+2. Institusjonen skal ha en relevant kompetanseprofil. Institusjonen skal ha et tilstrekkelig antall ansatte med høy faglig kompetanse innenfor utdanning, forskning eller kunstnerisk utviklingsarbeid, faglig utviklingsarbeid og formidling innenfor institusjonens faglige virksomhet. De ansattes samlede faglige kompetanse skal være på nivå med sammenlignbare fagområder ved andre universiteter.
+3. Institusjonenes studietilbud skal være innenfor doktorgradenes fagområde, og de fleste studentene skal være knyttet til disse. Institusjonen kan ha enkelte studietilbud utenfor doktorgradsområdene dersom de støtter opp under eller har nær tilknytning til studietilbudene innenfor doktorgradsområdene, eller det er særlige grunner til ha slike tilbud.
+4. Institusjonen skal ha stabil forskerutdanning. Institusjonen skal over en periode på fem år ha tatt opp minst 15 doktorgradskandidater og i gjennomsnitt ha uteksaminert minst fem doktorgradskandidater per år i tre år.
+5. Institusjonen skal alene ha akkreditering for studietilbud på både lavere og høyere grads nivå innenfor doktorgradsområdene. Institusjonen skal jevnlig ha tatt opp og uteksaminert studenter på disse studietilbudene. Institusjonen skal ha et tilfredsstillende antall studenter som fullfører til normert tid.
+6. Institusjonen skal delta aktivt i nasjonale og internasjonale nettverk, prosjekter og samarbeid innenfor høyere utdanning, forskning eller kunstnerisk utviklingsarbeid og faglig utviklingsarbeid. Institusjonen skal delta aktivt i nasjonale samarbeid om doktorgradsutdanning.
 
 > Tilføyd ved forskrift [9 des 2024 nr. 3006](forskrift/2024-12-09-3006) (i kraft 1 jan 2025), endret ved forskrifter [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025), [12 des 2025 nr. 2609](forskrift/2025-12-12-2609) (i kraft 1 jan 2026).
 
@@ -86,7 +105,12 @@ Kvalitetssystemet og kvalitetsarbeidet skal være tilpasset institusjonens stør
 
 ### § 1-7. Krav til kvalitetssystem
 
-Institusjonen skal ha et kvalitetssystem som er skriftlig og tilgjengelig, og som gjelder for alle institusjonens studietilbud. Systemet skal minst bestå av følgende:beskrivelse av ansvarsforholdene, rapporteringslinjene og hvordan kvalitetsarbeidet skal gjennomføres i praksisinstitusjonens rutiner for systematisk kontroll med, og videreutvikling av, kvaliteten i studietilbudene, herunder rutiner for å sikre tilstrekkelig dokumentasjon av kvalitetsarbeidet og rutiner for å rette opp sviktende kvalitet innen rimelig tidbeskrivelse av institusjonens arbeid med læringsmiljø, jf. [universitets- og høyskoleloven § 10-1 tredje ledd](lov/2024-03-08-9/§10-1/ledd/3)beskrivelse av institusjonens rutiner for studentevalueringer, jf. [universitets- og høyskoleloven § 3-5 første ledd annet punktum](lov/2024-03-08-9/§3-5/ledd/1/setning/2).
+Institusjonen skal ha et kvalitetssystem som er skriftlig og tilgjengelig, og som gjelder for alle institusjonens studietilbud. Systemet skal minst bestå av følgende:
+
+1. beskrivelse av ansvarsforholdene, rapporteringslinjene og hvordan kvalitetsarbeidet skal gjennomføres i praksis
+2. institusjonens rutiner for systematisk kontroll med, og videreutvikling av, kvaliteten i studietilbudene, herunder rutiner for å sikre tilstrekkelig dokumentasjon av kvalitetsarbeidet og rutiner for å rette opp sviktende kvalitet innen rimelig tid
+3. beskrivelse av institusjonens arbeid med læringsmiljø, jf. [universitets- og høyskoleloven § 10-1 tredje ledd](lov/2024-03-08-9/§10-1/ledd/3)
+4. beskrivelse av institusjonens rutiner for studentevalueringer, jf. [universitets- og høyskoleloven § 3-5 første ledd annet punktum](lov/2024-03-08-9/§3-5/ledd/1/setning/2).
 
 > Tilføyd ved forskrift [9 des 2024 nr. 3006](forskrift/2024-12-09-3006) (i kraft 1 jan 2025).
 
@@ -120,13 +144,35 @@ NOKUTs tilsyn med kvalitetssystemer og kvalitetsarbeid etter [universitets- og h
 
 Et vilkår for akkreditering av studietilbud er at kravene i [universitets- og høyskoleloven](lov/2024-03-08-9) med forskrifter er oppfylt.
 
-Tilbydere som søker NOKUT om akkreditering av studietilbud for første gang, skal dokumentere at de oppfyller følgende vilkår:institusjonens organisasjonsform og styringsordning jf. loven [kapittel 4](lov/2024-03-08-9/kap4) og [5](lov/2024-03-08-9/kap5)institusjonens interne system for å sikre og videreutvikle utdanningskvaliteten jf. loven [§ 3-5](lov/2024-03-08-9/§3-5) og denne forskriften [§§ 1-6](forskrift/2024-06-28-1392/§1-6) til [1-8](forskrift/2024-06-28-1392/§1-8).fagområdet tilknyttet studietilbudet, og dets forskning eller kunstnerisk utviklingsarbeid og faglige utviklingsarbeid jf. loven [§ 2-1](lov/2024-03-08-9/§2-1) bokstav a og binstitusjonens arbeid med kompetansevurdering ved ansettelse i undervisnings- og forskningsstillinger jf. denne forskriften [kapittel 3](forskrift/2024-06-28-1392/kap3)institusjonens forskrifter og reglement som regulerer studentenes rettigheter og plikterlæringsmiljøutvalg i samsvar med loven [§ 10-10](lov/2024-03-08-9/§10-10) og nemnder for studentsaker i samsvar med loven [§ 14-1](lov/2024-03-08-9/§14-1)institusjonens tilrettelegging for studentorganer jf. loven [§ 10-11](lov/2024-03-08-9/§10-11)studentenes tilgang til et studentombud jf. loven [§ 10-8](lov/2024-03-08-9/§10-8).
+Tilbydere som søker NOKUT om akkreditering av studietilbud for første gang, skal dokumentere at de oppfyller følgende vilkår:
+
+1. institusjonens organisasjonsform og styringsordning jf. loven [kapittel 4](lov/2024-03-08-9/kap4) og [5](lov/2024-03-08-9/kap5)
+2. institusjonens interne system for å sikre og videreutvikle utdanningskvaliteten jf. loven [§ 3-5](lov/2024-03-08-9/§3-5) og denne forskriften [§§ 1-6](forskrift/2024-06-28-1392/§1-6) til [1-8](forskrift/2024-06-28-1392/§1-8).
+3. fagområdet tilknyttet studietilbudet, og dets forskning eller kunstnerisk utviklingsarbeid og faglige utviklingsarbeid jf. loven [§ 2-1](lov/2024-03-08-9/§2-1) bokstav a og b
+4. institusjonens arbeid med kompetansevurdering ved ansettelse i undervisnings- og forskningsstillinger jf. denne forskriften [kapittel 3](forskrift/2024-06-28-1392/kap3)
+5. institusjonens forskrifter og reglement som regulerer studentenes rettigheter og plikter
+6. læringsmiljøutvalg i samsvar med loven [§ 10-10](lov/2024-03-08-9/§10-10) og nemnder for studentsaker i samsvar med loven [§ 14-1](lov/2024-03-08-9/§14-1)
+7. institusjonens tilrettelegging for studentorganer jf. loven [§ 10-11](lov/2024-03-08-9/§10-11)
+8. studentenes tilgang til et studentombud jf. loven [§ 10-8](lov/2024-03-08-9/§10-8).
 
 > Tilføyd ved forskrift [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025), endret ved forskrift [12 des 2025 nr. 2609](forskrift/2025-12-12-2609) (i kraft 1 jan 2026).
 
 ### § 1-11. Krav til studietilbudet
 
-Et studietilbud må oppfylle følgende vilkår for å bli og være akkreditert:Studietilbudet skal være definert og avgrenset, ha tilstrekkelig faglig bredde og et dekkende navn.Studietilbudet skal være faglig oppdatert og ha tydelig relevans for videre studier eller arbeidsliv.Læringsutbyttet skal være i samsvar med Nasjonalt kvalifikasjonsrammeverk for livslang læring for det aktuelle nivået.Studietilbudets innhold, oppbygging og progresjon skal være tilpasset læringsutbyttet.Undervisnings-, lærings- og vurderingsformer skal være tilpasset læringsutbyttet og utformet slik at de fremmer at studentene tar en aktiv rolle i å forme læringsprosessen.Studietilbudets samlede arbeidsomfang skal være på 1500–1800 timer per år for heltidsstudier.Studietilbudet skal ha relevant kobling til forskning eller kunstnerisk utviklingsarbeid og faglig utviklingsarbeid.Studietilbudets organisering og infrastruktur skal være tilpasset læringsutbyttet og stå i forhold til antallet studenter.Studietilbudet skal ha ordninger for internasjonalisering som er tilpasset studietilbudets nivå, omfang og egenart. Studietilbud som fører fram til en grad, skal i tillegg ha faglig relevante ordninger for internasjonal studentutveksling.Studietilbudet skal ha en tydelig faglig ledelse med et definert ansvar for kvalitetssikring og -utvikling av studiet.Informasjonen om studietilbudet skal være korrekt, vise studiets innhold, oppbygging og progresjon, herunder muligheter for studentutveksling.For studietilbud med praksis skal det foreligge praksisavtale mellom institusjon og praksissted.
+Et studietilbud må oppfylle følgende vilkår for å bli og være akkreditert:
+
+1. Studietilbudet skal være definert og avgrenset, ha tilstrekkelig faglig bredde og et dekkende navn.
+2. Studietilbudet skal være faglig oppdatert og ha tydelig relevans for videre studier eller arbeidsliv.
+3. Læringsutbyttet skal være i samsvar med Nasjonalt kvalifikasjonsrammeverk for livslang læring for det aktuelle nivået.
+4. Studietilbudets innhold, oppbygging og progresjon skal være tilpasset læringsutbyttet.
+5. Undervisnings-, lærings- og vurderingsformer skal være tilpasset læringsutbyttet og utformet slik at de fremmer at studentene tar en aktiv rolle i å forme læringsprosessen.
+6. Studietilbudets samlede arbeidsomfang skal være på 1500–1800 timer per år for heltidsstudier.
+7. Studietilbudet skal ha relevant kobling til forskning eller kunstnerisk utviklingsarbeid og faglig utviklingsarbeid.
+8. Studietilbudets organisering og infrastruktur skal være tilpasset læringsutbyttet og stå i forhold til antallet studenter.
+9. Studietilbudet skal ha ordninger for internasjonalisering som er tilpasset studietilbudets nivå, omfang og egenart. Studietilbud som fører fram til en grad, skal i tillegg ha faglig relevante ordninger for internasjonal studentutveksling.
+10. Studietilbudet skal ha en tydelig faglig ledelse med et definert ansvar for kvalitetssikring og -utvikling av studiet.
+11. Informasjonen om studietilbudet skal være korrekt, vise studiets innhold, oppbygging og progresjon, herunder muligheter for studentutveksling.
+12. For studietilbud med praksis skal det foreligge praksisavtale mellom institusjon og praksissted.
 
 > Tilføyd ved forskrift [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025).
 
@@ -188,7 +234,10 @@ Samisk høgskole er unntatt fra kravet i sjuende ledd. Samisk høgskole må sikr
 
 ### § 1-16. Akkreditering av studietilbud som delvis foregår i utlandet
 
-For at et studietilbud som foregår delvis i utlandet skal fylle vilkåret i [universitets- og høyskoleloven § 1-2 andre ledd tredje punktum](lov/2024-03-08-9/§1-2/ledd/2/setning/3) om tydelig tilknytning til virksomheten i Norge, må institusjonen oppfylle følgende vilkår:institusjonen må minst ha ett akkreditert bachelorgradsstudium som i sin helhet foregår i Norgeminst to tredjedeler av institusjonens samlede studietilbud må foregå i Norge, og minst to tredjedeler av studentene ved institusjonen må være tilknyttet studietilbud som foregår i Norge.
+For at et studietilbud som foregår delvis i utlandet skal fylle vilkåret i [universitets- og høyskoleloven § 1-2 andre ledd tredje punktum](lov/2024-03-08-9/§1-2/ledd/2/setning/3) om tydelig tilknytning til virksomheten i Norge, må institusjonen oppfylle følgende vilkår:
+
+1. institusjonen må minst ha ett akkreditert bachelorgradsstudium som i sin helhet foregår i Norge
+2. minst to tredjedeler av institusjonens samlede studietilbud må foregå i Norge, og minst to tredjedeler av studentene ved institusjonen må være tilknyttet studietilbud som foregår i Norge.
 
 Studietilbud som delvis foregår i utlandet, kan akkrediteres bare dersom det er faglig forankret i forskningen eller det kunstneriske utviklingsarbeidet, undervisningen, veiledningen og fagmiljøet ved virksomheten i Norge.
 
@@ -236,7 +285,11 @@ For studietilbud en institusjon ikke selv har fullmakt til å etablere, bestemme
 
 ### § 1-21. Oppnevning av sakkyndige
 
-NOKUT skal oppnevne sakkyndige for å gjennomføre evaluering ved:akkreditering av institusjoner og studietilbud etter [universitets- og høyskoleloven § 3-3](lov/2024-03-08-9/§3-3)tilsyn med institusjonenes kvalitetsarbeid etter loven [§ 3-6](lov/2024-03-08-9/§3-6) første leddtilsyn med at institusjoner og studietilbud oppfyller gjeldende standarder og kriterier for akkreditering etter loven [§ 3-6](lov/2024-03-08-9/§3-6) første ledd, dersom det skal foretas faglige vurderinger.
+NOKUT skal oppnevne sakkyndige for å gjennomføre evaluering ved:
+
+1. akkreditering av institusjoner og studietilbud etter [universitets- og høyskoleloven § 3-3](lov/2024-03-08-9/§3-3)
+2. tilsyn med institusjonenes kvalitetsarbeid etter loven [§ 3-6](lov/2024-03-08-9/§3-6) første ledd
+3. tilsyn med at institusjoner og studietilbud oppfyller gjeldende standarder og kriterier for akkreditering etter loven [§ 3-6](lov/2024-03-08-9/§3-6) første ledd, dersom det skal foretas faglige vurderinger.
 
 Institusjonen skal gis anledning til å kommentere NOKUTs forslag til sakkyndige før oppnevning av enkeltstående komiteer.
 
@@ -248,13 +301,34 @@ De sakkyndige skal avgi rapport om evalueringen og gi anbefalinger til NOKUT.
 
 ### § 1-22. Sakkyndiges kompetanse
 
-Ved akkreditering av studietilbud på lavere og høyere grad skal den sakkyndige komiteen samlet ha kompetanse i og erfaring fra gjennomføring av relevante studietilbud. I tillegg skal komiteen ha slik kompetanse:minst én skal ha formell kompetanse på et høyere nivå enn det studietilbudet som skal akkrediteresminst én skal ha relevant internasjonal kompetanse ved vurdering av studietilbud på mastergradsnivåen skal være student.
+Ved akkreditering av studietilbud på lavere og høyere grad skal den sakkyndige komiteen samlet ha kompetanse i og erfaring fra gjennomføring av relevante studietilbud. I tillegg skal komiteen ha slik kompetanse:
 
-Ved akkreditering av studietilbud på doktorgradsnivå og tilsyn med akkrediterte studietilbud på alle nivå skal den sakkyndige komiteen samlet ha kompetanse i og erfaring fra gjennomføring av relevante studietilbud. I tillegg skal komiteen ha slik kompetanse:minst én skal ha formell kompetanse på et høyere nivå enn det aktuelle studietilbudet. For doktorgradsnivå skal minst én ha professorkompetanseminst én skal ha relevant internasjonal kompetanse ved vurdering av studietilbud på mastergradsnivå og doktorgradsnivåén skal være student. For doktorgradsnivået skal én være doktorgradskandidat.
+1. minst én skal ha formell kompetanse på et høyere nivå enn det studietilbudet som skal akkrediteres
+2. minst én skal ha relevant internasjonal kompetanse ved vurdering av studietilbud på mastergradsnivå
+3. en skal være student.
 
-Ved akkreditering av institusjoner og tilsyn med akkrediterte institusjoner skal den sakkyndige komiteen samlet ha slik kompetanse:minst én skal ha erfaring fra ledelse ved en høyere utdanningsinstitusjon minst på nivå med den kategorien akkrediteringen gjelderminst én skal ha tilknytning til relevant utenlandsk institusjonminst én skal ha relevant kompetanse fra samfunns- eller arbeidslivetén skal være student og ha erfaring fra institusjonsstyre, andre sentrale tillitsverv eller arbeid innen studentdemokratietminst én skal ha førstestillingskompetanse ved akkreditering av høyskoleminst én skal ha professor- eller dosentkompetanse ved akkreditering av universitet og vitenskapelig høyskole.
+Ved akkreditering av studietilbud på doktorgradsnivå og tilsyn med akkrediterte studietilbud på alle nivå skal den sakkyndige komiteen samlet ha kompetanse i og erfaring fra gjennomføring av relevante studietilbud. I tillegg skal komiteen ha slik kompetanse:
 
-Ved NOKUTs tilsyn med institusjonenes systematiske kvalitetsarbeid skal den sakkyndige komiteen ha slik kompetanse:alle skal ha erfaring fra kvalitetsarbeid eller tilsyn med institusjonenes kvalitetsarbeidminst én skal ha erfaring fra ledelse ved en høyere utdanningsinstitusjonminst én skal ha tilknytning til relevant utenlandsk institusjonén skal være student og ha erfaring fra institusjonsstyre, andre sentrale tillitsverv eller arbeid innen studentdemokratietminst én skal ha professor- eller dosentkompetanse.
+1. minst én skal ha formell kompetanse på et høyere nivå enn det aktuelle studietilbudet. For doktorgradsnivå skal minst én ha professorkompetanse
+2. minst én skal ha relevant internasjonal kompetanse ved vurdering av studietilbud på mastergradsnivå og doktorgradsnivå
+3. én skal være student. For doktorgradsnivået skal én være doktorgradskandidat.
+
+Ved akkreditering av institusjoner og tilsyn med akkrediterte institusjoner skal den sakkyndige komiteen samlet ha slik kompetanse:
+
+1. minst én skal ha erfaring fra ledelse ved en høyere utdanningsinstitusjon minst på nivå med den kategorien akkrediteringen gjelder
+2. minst én skal ha tilknytning til relevant utenlandsk institusjon
+3. minst én skal ha relevant kompetanse fra samfunns- eller arbeidslivet
+4. én skal være student og ha erfaring fra institusjonsstyre, andre sentrale tillitsverv eller arbeid innen studentdemokratiet
+5. minst én skal ha førstestillingskompetanse ved akkreditering av høyskole
+6. minst én skal ha professor- eller dosentkompetanse ved akkreditering av universitet og vitenskapelig høyskole.
+
+Ved NOKUTs tilsyn med institusjonenes systematiske kvalitetsarbeid skal den sakkyndige komiteen ha slik kompetanse:
+
+1. alle skal ha erfaring fra kvalitetsarbeid eller tilsyn med institusjonenes kvalitetsarbeid
+2. minst én skal ha erfaring fra ledelse ved en høyere utdanningsinstitusjon
+3. minst én skal ha tilknytning til relevant utenlandsk institusjon
+4. én skal være student og ha erfaring fra institusjonsstyre, andre sentrale tillitsverv eller arbeid innen studentdemokratiet
+5. minst én skal ha professor- eller dosentkompetanse.
 
 > Tilføyd ved forskrift [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025).
 
@@ -278,7 +352,12 @@ NOKUT kan kreve at institusjonene sender inn oppdaterte opplysninger om institus
 
 ### § 2-1. Virkeområde for dette kapitlet
 
-[Kapittel 2](forskrift/2024-06-28-1392/kap2) regulererkrav til grader og yrkesutdanninger med tilhørende beskyttet tittel som universiteter og høyskoler kan gihvilke grader de enkelte universiteter og høyskoler har rett til å gibeskyttede gradstitler fra universitets- og høyskoleutdanning gitt etter tidligere ordningeruniversiteter og høyskolers faglige godkjenning av utdanning og av realkompetanse etter [universitets- og høyskoleloven §§ 9-1](lov/2024-03-08-9/§9-1) til [9-5](lov/2024-03-08-9/§9-5).
+[Kapittel 2](forskrift/2024-06-28-1392/kap2) regulerer
+
+1. krav til grader og yrkesutdanninger med tilhørende beskyttet tittel som universiteter og høyskoler kan gi
+2. hvilke grader de enkelte universiteter og høyskoler har rett til å gi
+3. beskyttede gradstitler fra universitets- og høyskoleutdanning gitt etter tidligere ordninger
+4. universiteter og høyskolers faglige godkjenning av utdanning og av realkompetanse etter [universitets- og høyskoleloven §§ 9-1](lov/2024-03-08-9/§9-1) til [9-5](lov/2024-03-08-9/§9-5).
 
 > Tilføyd ved forskrift [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025).
 
@@ -288,7 +367,10 @@ NOKUT kan kreve at institusjonene sender inn oppdaterte opplysninger om institus
 
 ### § 2-2. Definisjoner
 
-I dette kapitlet menes med*normert studietid:* den tid det skal ta for en fulltidsstudent som følger normal studieprogresjon, å fullføre et studieprogram. Ett studieår på fulltid i omfang og læringsutbytte tilsvarer 60 studiepoeng, jf. [universitets- og høyskoleloven § 11-2](lov/2024-03-08-9/§11-2)*yrkes- eller profesjonsrettet utdanning:* studier som er innrettet mot enkeltyrker eller -profesjoner, og mer generelt sektor- eller næringsrettede studier.
+I dette kapitlet menes med
+
+1. *normert studietid:* den tid det skal ta for en fulltidsstudent som følger normal studieprogresjon, å fullføre et studieprogram. Ett studieår på fulltid i omfang og læringsutbytte tilsvarer 60 studiepoeng, jf. [universitets- og høyskoleloven § 11-2](lov/2024-03-08-9/§11-2)
+2. *yrkes- eller profesjonsrettet utdanning:* studier som er innrettet mot enkeltyrker eller -profesjoner, og mer generelt sektor- eller næringsrettede studier.
 
 > Tilføyd ved forskrift [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025).
 
@@ -296,7 +378,12 @@ I dette kapitlet menes med*normert studietid:* den tid det skal ta for en fullti
 
 Universiteter og høyskoler kan gi vitnemål for oppnådd grad etter [universitets- og høyskoleloven § 11-12](lov/2024-03-08-9/§11-12) bare for grader etter loven [§ 3-7](lov/2024-03-08-9/§3-7) og denne forskriften [§§ 2-4](forskrift/2024-06-28-1392/§2-4)–[2-12](forskrift/2024-06-28-1392/§2-12), og som er fastsatt for den enkelte institusjon i forskriften [§ 2-13](forskrift/2024-06-28-1392/§2-13).
 
-På vitnemålene skal det stå aktuell gradsbetegnelse og eventuelt fagområde på norsk:graden høgskolekandidat i [fagområde]graden bachelor i [fagområde]graden master i [fagområde] – for utdanning etter [§§ 2-6](forskrift/2024-06-28-1392/§2-6) til [2-8](forskrift/2024-06-28-1392/§2-8)graden [fastsatt gradsbetegnelse] for utdanninger etter [§§ 2-10](forskrift/2024-06-28-1392/§2-10) og [2-11](forskrift/2024-06-28-1392/§2-11).
+På vitnemålene skal det stå aktuell gradsbetegnelse og eventuelt fagområde på norsk:
+
+- graden høgskolekandidat i [fagområde]
+- graden bachelor i [fagområde]
+- graden master i [fagområde] – for utdanning etter [§§ 2-6](forskrift/2024-06-28-1392/§2-6) til [2-8](forskrift/2024-06-28-1392/§2-8)
+- graden [fastsatt gradsbetegnelse] for utdanninger etter [§§ 2-10](forskrift/2024-06-28-1392/§2-10) og [2-11](forskrift/2024-06-28-1392/§2-11).
 
 For studieprogram som i sin helhet gis på samiske språk, kan vitnemål utstedes på samisk, med norsk oversettelse av graden og fagområdet i parentes.
 
@@ -316,7 +403,10 @@ Høgskolekandidatgrad har normert studietid to år, 120 studiepoeng. Den skal v�
 
 Bachelorgrad har normert studietid tre år, 180 studiepoeng. Dette er den ordinære bachelorgraden.
 
-Utvidet bachelorgrad har normert studietid fire år, 240 studiepoeng, og kan bare gis på disse fagområdene:utøvende og skapende musikknautikk.
+Utvidet bachelorgrad har normert studietid fire år, 240 studiepoeng, og kan bare gis på disse fagområdene:
+
+1. utøvende og skapende musikk
+2. nautikk.
 
 I en bachelorgrad skal det inngå enten fordypning i emne eller emnegruppe på minst 80 studiepoeng innenfor et fagområde, eller helhetlig yrkes- eller profesjonsrettet utdanning på minst 120 studiepoeng.
 
@@ -376,7 +466,14 @@ Institusjonen fastsetter nærmere regler om det selvstendige arbeidet, blant ann
 
 ### § 2-10. Særskilte mastergrader
 
-Særskilte mastergrader har normert studietid ett år, 60 studiepoeng, eller ett og et halvt år, 90 studiepoeng. Dette gjelder mastergrader opprettet ved kongelig resolusjon før 1. juli 2002, med hjemmel i [lov 12. mai 1995 nr. 22 om universiteter og høgskoler](lov/1995-05-12-22) eller [lov 11. juli 1986 nr. 53 om private høyskoler](lov/1986-07-11-53):Master of Arts, ved Universitetet i Oslo og Arkitektur- og designhøgskolen i OsloMaster of Business Administration (MBA), ved Norges handelshøyskole og Handelshøyskolen BIMaster of International Business (MIB), ved Norges handelshøyskoleMaster of Laws (LLM), ved Universitetet i Bergen, Universitetet i Oslo og Universitetet i Tromsø – Norges arktiske universitetMaster of Management, ved Handelshøyskolen BIMaster of Technology Management, ved Norges teknisk-naturvitenskapelige universitet.
+Særskilte mastergrader har normert studietid ett år, 60 studiepoeng, eller ett og et halvt år, 90 studiepoeng. Dette gjelder mastergrader opprettet ved kongelig resolusjon før 1. juli 2002, med hjemmel i [lov 12. mai 1995 nr. 22 om universiteter og høgskoler](lov/1995-05-12-22) eller [lov 11. juli 1986 nr. 53 om private høyskoler](lov/1986-07-11-53):
+
+- Master of Arts, ved Universitetet i Oslo og Arkitektur- og designhøgskolen i Oslo
+- Master of Business Administration (MBA), ved Norges handelshøyskole og Handelshøyskolen BI
+- Master of International Business (MIB), ved Norges handelshøyskole
+- Master of Laws (LLM), ved Universitetet i Bergen, Universitetet i Oslo og Universitetet i Tromsø – Norges arktiske universitet
+- Master of Management, ved Handelshøyskolen BI
+- Master of Technology Management, ved Norges teknisk-naturvitenskapelige universitet.
 
 Departementet kan i spesielle tilfeller godkjenne nye masterstudier av denne typen etter søknad.
 
@@ -430,7 +527,10 @@ Realkompetanse etter [universitets- og høyskoleloven § 9-2](lov/2024-03-08-9/�
 
 ### § 2-16. Unntak fra tilknytningskravet
 
-Universiteter og høyskoler kan fastsette unntak fra tilknytningskravet i [universitets- og høyskoleloven § 11-12 andre ledd](lov/2024-03-08-9/§11-12/ledd/2) på 60 studiepoeng formasterprogram i helse- og sosialfag som bygger på rammeplanstyrte videreutdanninger innenfor samme fagområde, slik at rammeplanstyrte videreutdanninger på samme fagområde kan godkjennes fullt ut som del av graden.grader som gis i samarbeid med andre norske eller utenlandske institusjoner (fellesgrader), jf. loven [§ 3-8](lov/2024-03-08-9/§3-8) andre ledd bokstav c og denne forskriften [§ 1-17](forskrift/2024-06-28-1392/§1-17).
+Universiteter og høyskoler kan fastsette unntak fra tilknytningskravet i [universitets- og høyskoleloven § 11-12 andre ledd](lov/2024-03-08-9/§11-12/ledd/2) på 60 studiepoeng for
+
+1. masterprogram i helse- og sosialfag som bygger på rammeplanstyrte videreutdanninger innenfor samme fagområde, slik at rammeplanstyrte videreutdanninger på samme fagområde kan godkjennes fullt ut som del av graden.
+2. grader som gis i samarbeid med andre norske eller utenlandske institusjoner (fellesgrader), jf. loven [§ 3-8](lov/2024-03-08-9/§3-8) andre ledd bokstav c og denne forskriften [§ 1-17](forskrift/2024-06-28-1392/§1-17).
 
 > Tilføyd ved forskrift [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025).
 
@@ -454,7 +554,12 @@ Utdanninger som tidligere har blitt godkjent med redusert uttelling etter [unive
 
 ### § 3-1. Virkeområde for dette kapitlet
 
-[Kapittel 3](forskrift/2024-06-28-1392/kap3) fastsetter framgangsmåte og kriterier foransettelse, overgang og opprykk på grunnlag av vitenskapelig eller kunstnerisk kompetanse i undervisnings- og forskningsstillinger etter [universitets- og høyskoleloven § 7-2](lov/2024-03-08-9/§7-2),ansettelse i stilling på innstegsvilkår, postdoktor, stipendiat, spesialistkandidat og vitenskapelig assistent etter [universitets- og høyskoleloven § 7-6 første ledd bokstav e](lov/2024-03-08-9/§7-6/ledd/1/bokstav/e) til [i](lov/2024-03-08-9/§7-6/ledd/1/bokstav/i),ansettelse i kombinert stipendiat- og spesialistkandidatstilling organisert som dobbeltkompetanseutdanning,ansettelse på grunnlag av vitenskapelig eller kunstnerisk kompetanse i undervisnings- og forskningsstillinger etter særregel om ekstraerverv etter [universitets- og høyskoleloven § 7-7](lov/2024-03-08-9/§7-7).
+[Kapittel 3](forskrift/2024-06-28-1392/kap3) fastsetter framgangsmåte og kriterier for
+
+1. ansettelse, overgang og opprykk på grunnlag av vitenskapelig eller kunstnerisk kompetanse i undervisnings- og forskningsstillinger etter [universitets- og høyskoleloven § 7-2](lov/2024-03-08-9/§7-2),
+2. ansettelse i stilling på innstegsvilkår, postdoktor, stipendiat, spesialistkandidat og vitenskapelig assistent etter [universitets- og høyskoleloven § 7-6 første ledd bokstav e](lov/2024-03-08-9/§7-6/ledd/1/bokstav/e) til [i](lov/2024-03-08-9/§7-6/ledd/1/bokstav/i),
+3. ansettelse i kombinert stipendiat- og spesialistkandidatstilling organisert som dobbeltkompetanseutdanning,
+4. ansettelse på grunnlag av vitenskapelig eller kunstnerisk kompetanse i undervisnings- og forskningsstillinger etter særregel om ekstraerverv etter [universitets- og høyskoleloven § 7-7](lov/2024-03-08-9/§7-7).
 
 > Endret ved forskrift [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025).
 
@@ -462,27 +567,58 @@ Utdanninger som tidligere har blitt godkjent med redusert uttelling etter [unive
 
 ### § 3-2. Universitets- og høyskolelærer
 
-For å innfri kvalifikasjonskravene til universitets- og høyskolelærer kreves minst:lavere grads eksamen eller tilsvarende innen relevant fagområde,utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8),norskferdigheter på nivå B2 ogrelevant yrkes- eller undervisningserfaring.
+For å innfri kvalifikasjonskravene til universitets- og høyskolelærer kreves minst:
+
+1. lavere grads eksamen eller tilsvarende innen relevant fagområde,
+2. utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8),
+3. norskferdigheter på nivå B2 og
+4. relevant yrkes- eller undervisningserfaring.
 
 ### § 3-3. Universitet- og høyskolelektor
 
-For å innfri kvalifikasjonskravene til universitets- og høyskolelektor kreves minst:høyere grads eksamen eller tilsvarende innen relevant fagområde,utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8),norskferdigheter på nivå B2 ogrelevant yrkes- eller undervisningserfaring.
+For å innfri kvalifikasjonskravene til universitets- og høyskolelektor kreves minst:
+
+1. høyere grads eksamen eller tilsvarende innen relevant fagområde,
+2. utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8),
+3. norskferdigheter på nivå B2 og
+4. relevant yrkes- eller undervisningserfaring.
 
 ### § 3-4. Førstelektor
 
-For å innfri kvalifikasjonskravene til førstelektor kreves minst:høyere grads eksamen eller tilsvarende innen relevant fagområde,utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8),norskferdigheter på nivå B2,relevant yrkes- eller undervisningserfaring ogbidrag til faglig utviklingsarbeid på høyt nivå, i samsvar med internasjonale eller nasjonale standarder innen fagområdet/yrkesfeltet.
+For å innfri kvalifikasjonskravene til førstelektor kreves minst:
+
+1. høyere grads eksamen eller tilsvarende innen relevant fagområde,
+2. utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8),
+3. norskferdigheter på nivå B2,
+4. relevant yrkes- eller undervisningserfaring og
+5. bidrag til faglig utviklingsarbeid på høyt nivå, i samsvar med internasjonale eller nasjonale standarder innen fagområdet/yrkesfeltet.
 
 ### § 3-5. Dosent
 
-For å innfri kvalifikasjonskravene til dosent kreves minst:høyere grads eksamen eller tilsvarende innen relevant fagområde,utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8),norskferdigheter på nivå B2,omfattende relevant yrkes- eller undervisningserfaring ogvesentlige bidrag til faglig utviklingsarbeid på høyeste nivå, i samsvar med internasjonale eller nasjonale standarder innen fagområdet/yrkesfeltet.
+For å innfri kvalifikasjonskravene til dosent kreves minst:
+
+1. høyere grads eksamen eller tilsvarende innen relevant fagområde,
+2. utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8),
+3. norskferdigheter på nivå B2,
+4. omfattende relevant yrkes- eller undervisningserfaring og
+5. vesentlige bidrag til faglig utviklingsarbeid på høyeste nivå, i samsvar med internasjonale eller nasjonale standarder innen fagområdet/yrkesfeltet.
 
 ### § 3-6. Førsteamanuensis
 
-For å innfri kvalifikasjonskravene til førsteamanuensis kreves minst:doktorgrad innen relevant fagområde, eller kompetanse på tilsvarende nivå dokumentert enten ved vitenskapelig arbeid eller kunstnerisk arbeid av samme omfang og kvalitet,utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8) ognorskferdigheter på nivå B2.
+For å innfri kvalifikasjonskravene til førsteamanuensis kreves minst:
+
+1. doktorgrad innen relevant fagområde, eller kompetanse på tilsvarende nivå dokumentert enten ved vitenskapelig arbeid eller kunstnerisk arbeid av samme omfang og kvalitet,
+2. utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8) og
+3. norskferdigheter på nivå B2.
 
 ### § 3-7. Professor
 
-For å innfri kvalifikasjonskravene til professor kreves minst:doktorgrad innen relevant fagområde, eller kompetanse på tilsvarende nivå dokumentert enten ved vitenskapelig arbeid eller kunstnerisk arbeid av samme omfang og kvalitet,utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8),norskferdigheter på nivå B2 ogvesentlige bidrag til forskning eller kunstnerisk utviklingsarbeid på høyeste nivå, i samsvar med internasjonale eller nasjonale standarder innen fagområdet.
+For å innfri kvalifikasjonskravene til professor kreves minst:
+
+1. doktorgrad innen relevant fagområde, eller kompetanse på tilsvarende nivå dokumentert enten ved vitenskapelig arbeid eller kunstnerisk arbeid av samme omfang og kvalitet,
+2. utdanningsfaglig kompetanse jf. [§ 3-8](forskrift/2024-06-28-1392/§3-8),
+3. norskferdigheter på nivå B2 og
+4. vesentlige bidrag til forskning eller kunstnerisk utviklingsarbeid på høyeste nivå, i samsvar med internasjonale eller nasjonale standarder innen fagområdet.
 
 ### § 3-8. Utdanningsfaglig kompetanse
 
@@ -532,7 +668,10 @@ Institusjonen mottar sakkyndig komités vurdering, med eventuelle innsigelser, m
 
 ### § 3-13. Adgang til å søke opprykk
 
-Disse ansatte kan søke om opprykk:ansatte i stillinger etter [§§ 3-2](forskrift/2024-06-28-1392/§3-2) til [3-7](forskrift/2024-06-28-1392/§3-7),ansatte i stillinger etter [universitets- og høyskoleloven § 7-6 første ledd bokstav d](lov/2024-03-08-9/§7-6/ledd/1/bokstav/d).
+Disse ansatte kan søke om opprykk:
+
+1. ansatte i stillinger etter [§§ 3-2](forskrift/2024-06-28-1392/§3-2) til [3-7](forskrift/2024-06-28-1392/§3-7),
+2. ansatte i stillinger etter [universitets- og høyskoleloven § 7-6 første ledd bokstav d](lov/2024-03-08-9/§7-6/ledd/1/bokstav/d).
 
 Med opprykk menes at institusjonen gir en ansatt rett til å bruke en tittel som tilhører en annen stillingskategori, så sant den ansatte innfrir kvalifikasjonskravene for den aktuelle stillingskategorien. Opprykket gir ikke rett til endrede arbeidsoppgaver.
 
@@ -668,7 +807,10 @@ Dersom kvalifikasjonskravene og de øvrige vilkårene i arbeidsavtalen er innfri
 
 Stillinger på innstegsvilkår skal lyses ut i samsvar med [universitets- og høyskoleloven § 7-2 første ledd](lov/2024-03-08-9/§7-2/ledd/1).
 
-Ansettelse på innstegsvilkår etter loven [§ 7-6](lov/2024-03-08-9/§7-6) første ledd bokstav e kan skje i stilling som:postdoktor jf. forskriften [§ 3-18](forskrift/2024-06-28-1392/§3-18) første ledd, ellerførsteamanuensis, jf. forskriften [§ 3-6](forskrift/2024-06-28-1392/§3-6).
+Ansettelse på innstegsvilkår etter loven [§ 7-6](lov/2024-03-08-9/§7-6) første ledd bokstav e kan skje i stilling som:
+
+1. postdoktor jf. forskriften [§ 3-18](forskrift/2024-06-28-1392/§3-18) første ledd, eller
+2. førsteamanuensis, jf. forskriften [§ 3-6](forskrift/2024-06-28-1392/§3-6).
 
 En person kan ansettes bare dersom det er under 5 år fra kandidaten disputerte for doktorgraden til utløpet av søknadsfristen for stillingen.
 
@@ -714,7 +856,12 @@ Institusjonen kan etter søknad fra den ansatte gjennomføre en tidligere sluttv
 
 ### § 4-2. Definisjoner
 
-I dette kapitlet menes med:*fag/emne:* fag/emner er de minste studiepoenggivende enheter med faglig innhold fastsatt av universitetet eller høyskolen.*studieprogram:* studieprogram er en gitt samling fag/emner som er fastsatt i studieplan, som studenter tas opp til, og som fører fram til grads- eller yrkesutdanning.*kurs:* utdanning som ikke gir studiepoeng.*oppdrag:* omsetning av forsknings-, undervisnings- og andre tjenester mot vederlag, og som ikke er rettet mot enkeltstudenter.
+I dette kapitlet menes med:
+
+1. *fag/emne:* fag/emner er de minste studiepoenggivende enheter med faglig innhold fastsatt av universitetet eller høyskolen.
+2. *studieprogram:* studieprogram er en gitt samling fag/emner som er fastsatt i studieplan, som studenter tas opp til, og som fører fram til grads- eller yrkesutdanning.
+3. *kurs:* utdanning som ikke gir studiepoeng.
+4. *oppdrag:* omsetning av forsknings-, undervisnings- og andre tjenester mot vederlag, og som ikke er rettet mot enkeltstudenter.
 
 ### II. Felles bestemmelser
 
@@ -728,7 +875,12 @@ Vederlag etter første eller andre ledd kan fastsettes for grupper av studenter.
 
 ### § 4-4. Statsborgere fra land utenfor EØS og Sveits
 
-Følgende studenter skal være unntatt fra kravet om egenbetaling etter [universitets- og høyskoleloven § 2-6](lov/2024-03-08-9/§2-6):Studenter som er omfattet av ordningen Students at Risk (StAR)Studenter som studerer i Norge gjennom programmene NORPART og NORHEDStudenter som studerer i Norge gjennom Fulbright-programmetStudenter som deltar i fellesgradssamarbeidet Erasmus Mundus.
+Følgende studenter skal være unntatt fra kravet om egenbetaling etter [universitets- og høyskoleloven § 2-6](lov/2024-03-08-9/§2-6):
+
+1. Studenter som er omfattet av ordningen Students at Risk (StAR)
+2. Studenter som studerer i Norge gjennom programmene NORPART og NORHED
+3. Studenter som studerer i Norge gjennom Fulbright-programmet
+4. Studenter som deltar i fellesgradssamarbeidet Erasmus Mundus.
 
 Universiteter og høyskoler kan gjøre unntak fra kravet om egenbetaling i [universitets- og høyskoleloven § 2-6](lov/2024-03-08-9/§2-6) for studenter som deltar i studieprogrammer som tilbys i samarbeid mellom norsk og utenlandsk utdanningsinstitusjon (fellesgrader).
 
@@ -752,7 +904,10 @@ Departementet kan i særskilte tilfeller, etter søknad, godkjenne unntak fra re
 
 Statlige universiteter og høyskoler kan kreve egenbetaling for kurs og fra studenter som fyller opp plasser på studieprogram eller fag/emner som er oppdragsfinansiert.
 
-For studiepoenggivende utdanningstilbud, bestående av ett eller flere emner, kan statlige institusjoner kreve egenbetaling, dersom søker har minst to års arbeidserfaring, ogden praktiske gjennomføringen av tilbudet er særlig tilpasset for personer i arbeid, ellerinnholdet i tilbudet er særlig utviklet for personer med arbeidserfaring.
+For studiepoenggivende utdanningstilbud, bestående av ett eller flere emner, kan statlige institusjoner kreve egenbetaling, dersom søker har minst to års arbeidserfaring, og
+
+1. den praktiske gjennomføringen av tilbudet er særlig tilpasset for personer i arbeid, eller
+2. innholdet i tilbudet er særlig utviklet for personer med arbeidserfaring.
 
 Egenbetalingen kan dekke kostnadene fullt ut, eller delvis ved at institusjonen finansierer deler av kostnadene.
 
@@ -844,7 +999,48 @@ Universiteter og høyskoler kan etter [politiregisterloven § 43](lov/2010-05-28
 
 ### § 7-1. Studier underlagt krav om skikkethetsvurdering
 
-Universiteter og høyskoler skal gjøre skikkethetsvurdering etter [universitets- og høyskoleloven § 12-3](lov/2024-03-08-9/§12-3), ved følgende studier:barnehagelærerutdanningutdanninger som tilfredsstiller kravene til å bli ansatt i undervisningsstilling i grunnskole eller videregående skole, jf. [opplæringsforskrifta kapittel 12](forskrift/2024-06-03-900/kap12)audiografutdanningbarnevernspedagogutdanning og barnevernsfaglige masterutdanningerbioingeniørutdanningergoterapeututdanningfarmasøytutdanningerfysioterapeututdanningveterinærutdanningdyrepleierutdanningklinisk ernæringsfysiologiutdanning (femårig integrert master og todelt studieløp organisert som bachelor- og mastergrad)medisinutdanningoptikerutdanningortopediingeniørutdanningpsykologutdanningradiografutdanningsosionomutdanningsykepleierutdanningtannlegeutdanningtannpleierutdanningtannteknikerutdanningvernepleierutdanningparamedisinutdanningparamedicutdanningprofesjonsutdanning i teologi og utdanning i praktisk teologitrafikklærerutdanninglogopedutdanningutdanninger i spesialpedagogikktolkeutdanningerprofesjonsrettede tegnspråkutdanningermusikkterapeututdanning og masterutdanning i musikkterapiutdanning i folkehelsearbeidutdanning i toll, vareførsel og grensekontrolldramapedagogutdanningkunst- og kulturformidlerutdanningkunstterapeututdanning og masterutdanning i kunstterapiosteopatutdanningutdanning i skolefritidspedagogikkhelse- og treningsfysiologiutdanningutdanning i fritidspedagogikk.
+Universiteter og høyskoler skal gjøre skikkethetsvurdering etter [universitets- og høyskoleloven § 12-3](lov/2024-03-08-9/§12-3), ved følgende studier:
+
+1. barnehagelærerutdanning
+2. utdanninger som tilfredsstiller kravene til å bli ansatt i undervisningsstilling i grunnskole eller videregående skole, jf. [opplæringsforskrifta kapittel 12](forskrift/2024-06-03-900/kap12)
+3. audiografutdanning
+4. barnevernspedagogutdanning og barnevernsfaglige masterutdanninger
+5. bioingeniørutdanning
+6. ergoterapeututdanning
+7. farmasøytutdanninger
+8. fysioterapeututdanning
+9. veterinærutdanning
+10. dyrepleierutdanning
+11. klinisk ernæringsfysiologiutdanning (femårig integrert master og todelt studieløp organisert som bachelor- og mastergrad)
+12. medisinutdanning
+13. optikerutdanning
+14. ortopediingeniørutdanning
+15. psykologutdanning
+16. radiografutdanning
+17. sosionomutdanning
+18. sykepleierutdanning
+19. tannlegeutdanning
+20. tannpleierutdanning
+21. tannteknikerutdanning
+22. vernepleierutdanning
+23. paramedisinutdanning
+24. paramedicutdanning
+25. profesjonsutdanning i teologi og utdanning i praktisk teologi
+26. trafikklærerutdanning
+27. logopedutdanning
+28. utdanninger i spesialpedagogikk
+29. tolkeutdanninger
+30. profesjonsrettede tegnspråkutdanninger
+31. musikkterapeututdanning og masterutdanning i musikkterapi
+32. utdanning i folkehelsearbeid
+33. utdanning i toll, vareførsel og grensekontroll
+34. dramapedagogutdanning
+35. kunst- og kulturformidlerutdanning
+36. kunstterapeututdanning og masterutdanning i kunstterapi
+37. osteopatutdanning
+38. utdanning i skolefritidspedagogikk
+39. helse- og treningsfysiologiutdanning
+40. utdanning i fritidspedagogikk.
 
 Institusjonene skal også gjøre skikkethetsvurderinger i master- og videreutdanninger som fører til en spesialisering, og som bygger på én eller flere av utdanningene som er nevnt i første ledd.
 
@@ -856,7 +1052,20 @@ Formålet med skikkethetsvurdering er å avgjøre om en student utgjør en mulig
 
 ### § 7-3. Vurderingskriterier
 
-En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt på en måte som innebærer at studenten utgjør en mulig fare for dem studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelse, jf. [§ 7-2](forskrift/2024-06-28-1392/§7-2):studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for dem studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelsestudenten viser manglende vilje eller evne til å samarbeide og til å etablere tillitsforhold og kommunisere med dem studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelsestudenten misbruker rusmidler eller tilegner seg medikamenter på ulovlig visstudenten har problemer av en slik art at studenten fungerer svært dårlig i sine omgivelserstudenten viser truende eller krenkende adferd i studiesituasjonen eller overfor dem studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelsestudenten viser for liten grad av selvinnsikt i forbindelse med oppgaver i studiet og kommende yrkesrollestudenten viser uaktsomhet og uansvarlighet som kan medføre risiko for skade på dem studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelsestudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med veiledningstudenten er ikke i stand til å utføre de yrkesmessige vurderingene og handlingene som praksis eller framtidig yrkesutøvelse kreverstudenten viser manglende vilje eller evne til å lede læringsprosesser for barn, unge og voksne i samsvar med virksomhetens mål og retningslinjerstudenten unnlater å ta ansvar som rollemodell for barn, unge og voksne i samsvar med virksomhetens mål og retningslinjerstudenten viser manglende vilje eller evne til å ha oversikt over hva som foregår i en gruppe eller klasse og ut fra dette skape et miljø som tar hensyn til barn, unge og voksnes sikkerhet og deres psykiske og fysiske helse.
+En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt på en måte som innebærer at studenten utgjør en mulig fare for dem studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelse, jf. [§ 7-2](forskrift/2024-06-28-1392/§7-2):
+
+1. studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for dem studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelse
+2. studenten viser manglende vilje eller evne til å samarbeide og til å etablere tillitsforhold og kommunisere med dem studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelse
+3. studenten misbruker rusmidler eller tilegner seg medikamenter på ulovlig vis
+4. studenten har problemer av en slik art at studenten fungerer svært dårlig i sine omgivelser
+5. studenten viser truende eller krenkende adferd i studiesituasjonen eller overfor dem studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelse
+6. studenten viser for liten grad av selvinnsikt i forbindelse med oppgaver i studiet og kommende yrkesrolle
+7. studenten viser uaktsomhet og uansvarlighet som kan medføre risiko for skade på dem studenten vil komme i kontakt med under praksis eller under framtidig yrkesutøvelse
+8. studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med veiledning
+9. studenten er ikke i stand til å utføre de yrkesmessige vurderingene og handlingene som praksis eller framtidig yrkesutøvelse krever
+10. studenten viser manglende vilje eller evne til å lede læringsprosesser for barn, unge og voksne i samsvar med virksomhetens mål og retningslinjer
+11. studenten unnlater å ta ansvar som rollemodell for barn, unge og voksne i samsvar med virksomhetens mål og retningslinjer
+12. studenten viser manglende vilje eller evne til å ha oversikt over hva som foregår i en gruppe eller klasse og ut fra dette skape et miljø som tar hensyn til barn, unge og voksnes sikkerhet og deres psykiske og fysiske helse.
 
 ### § 7-4. Informasjon til studentene
 
@@ -864,7 +1073,14 @@ Universiteter og høyskoler har plikt til å gi tilstrekkelig og relevant inform
 
 ### § 7-5. Skikkethetsnemnd
 
-Universiteter og høyskoler skal oppnevne en skikkethetsnemnd. Nemnda skal bestå aven faglig leder for avdeling eller fakultet for lærerutdanningen eller helse- eller sosialfagutdanningene, eller tilsvarende funksjonen faglig studieleder for lærerutdanningen eller helse- eller sosialfagutdanningene, eller tilsvarende funksjonto representanter fra praksisfeltetto faglærereto studentrepresentanterén ekstern representant med juridisk embetseksamen.
+Universiteter og høyskoler skal oppnevne en skikkethetsnemnd. Nemnda skal bestå av
+
+1. en faglig leder for avdeling eller fakultet for lærerutdanningen eller helse- eller sosialfagutdanningene, eller tilsvarende funksjon
+2. en faglig studieleder for lærerutdanningen eller helse- eller sosialfagutdanningene, eller tilsvarende funksjon
+3. to representanter fra praksisfeltet
+4. to faglærere
+5. to studentrepresentanter
+6. én ekstern representant med juridisk embetseksamen.
 
 Studentrepresentantene skal oppnevnes for ett år av gangen. De øvrige medlemmene skal oppnevnes for tre år av gangen. Faglig leder for avdeling eller fakultet eller tilsvarende funksjon, jf. første ledd bokstav a, skal være nemndas leder.
 
@@ -886,7 +1102,11 @@ En student skal varsles skriftlig om at det er begrunnet tvil om vedkommendes sk
 
 Studenten skal få tilbud om utvidet oppfølging og veiledning. Dette gjelder likevel ikke dersom det er klart at slik oppfølging og veiledning ikke er egnet til å hjelpe studenten.
 
-Skikkethetsansvarlig skal fremme saken for skikkethetsnemnda i følgende tilfeller:det er klart at utvidet oppfølging og veiledning ikke er egnet til å hjelpe studentenstudenten tar ikke imot tilbud om utvidet oppfølging og veiledning eller vil ikke gjennomføre plan for utvidet oppfølging og veiledningutvidet oppfølging og veiledning medfører ikke nødvendig endring og utvikling hos studenten.
+Skikkethetsansvarlig skal fremme saken for skikkethetsnemnda i følgende tilfeller:
+
+1. det er klart at utvidet oppfølging og veiledning ikke er egnet til å hjelpe studenten
+2. studenten tar ikke imot tilbud om utvidet oppfølging og veiledning eller vil ikke gjennomføre plan for utvidet oppfølging og veiledning
+3. utvidet oppfølging og veiledning medfører ikke nødvendig endring og utvikling hos studenten.
 
 Skikkethetsansvarlig kan vedta å utsette praksis fra tvilsmelding er mottatt til etter at utvidet veiledning er avsluttet, eller til saken er avgjort, dersom det er nødvendig for å ivareta dem studenten møter i praksis.
 
@@ -920,7 +1140,11 @@ Felles klagenemnd skal behandle klager over enkeltvedtak truffet med hjemmel i [
 
 Klagenemnda oppnevnes av departementet.
 
-Klagenemnda skal ha sju medlemmer og skal være sammensatt slik:En leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeker leder og nestleder. Nestleder er vara for leder.Tre medlemmer med tre numeriske varamedlemmer. Medlemmene skal ha erfaring fra eller kjennskap til studieadministrativt arbeid ved universiteter og høyskoler. Av disse skal minst ett av medlemmene ha erfaring fra eller kjennskap til studieadministrativt arbeid ved privat høyskole (eller universitet), og minst ett av medlemmene skal ha erfaring fra eller kjennskap til studieadministrativt arbeid ved høyskole eller universiteter.To medlemmer med tre numeriske varamedlemmer som representerer studentene. Medlemmene skal oppnevnes i samsvar med forslag fra representative studentorganisasjoner.
+Klagenemnda skal ha sju medlemmer og skal være sammensatt slik:
+
+1. En leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeker leder og nestleder. Nestleder er vara for leder.
+2. Tre medlemmer med tre numeriske varamedlemmer. Medlemmene skal ha erfaring fra eller kjennskap til studieadministrativt arbeid ved universiteter og høyskoler. Av disse skal minst ett av medlemmene ha erfaring fra eller kjennskap til studieadministrativt arbeid ved privat høyskole (eller universitet), og minst ett av medlemmene skal ha erfaring fra eller kjennskap til studieadministrativt arbeid ved høyskole eller universiteter.
+3. To medlemmer med tre numeriske varamedlemmer som representerer studentene. Medlemmene skal oppnevnes i samsvar med forslag fra representative studentorganisasjoner.
 
 Medlemmene oppnevnes for inntil fire år, med unntak av studentrepresentantene som oppnevnes for inntil to år. Medlemmene kan gjenoppnevnes én gang. Personer som har vært varamedlemmer, kan oppnevnes i to perioder som fast medlem.
 
@@ -932,7 +1156,13 @@ Kravene i [likestillings- og diskrimineringsloven § 28 første ledd](lov/2017-0
 
 Klagenemnda er vedtaksfør når minst fire medlemmer, inkludert lederen eller nestlederen og en studentrepresentant, deltar i behandlingen.
 
-Klagenemndas avgjørelser i følgende saker fattes med to tredels flertall:Vedtak etter [§ 12-1](forskrift/2024-06-28-1392/§12-1) om inndragning av dokumenter, karantenetid og utestengingVedtak etter [§ 12-3](forskrift/2024-06-28-1392/§12-3) om at en student ikke er skikket, og om utestengingVedtak etter [§ 12-4](forskrift/2024-06-28-1392/§12-4) om utestenging og tap av eksamensrettVedtak etter [12-5](forskrift/2024-06-28-1392/§12-5) om bortvisning (etter andre ledd) og utestengingVedtak etter [§§ 12-6](forskrift/2024-06-28-1392/§12-6) og [12-7](forskrift/2024-06-28-1392/§12-7) om utestenging og tap av retten til å gå opp til eksamen.
+Klagenemndas avgjørelser i følgende saker fattes med to tredels flertall:
+
+1. Vedtak etter [§ 12-1](forskrift/2024-06-28-1392/§12-1) om inndragning av dokumenter, karantenetid og utestenging
+2. Vedtak etter [§ 12-3](forskrift/2024-06-28-1392/§12-3) om at en student ikke er skikket, og om utestenging
+3. Vedtak etter [§ 12-4](forskrift/2024-06-28-1392/§12-4) om utestenging og tap av eksamensrett
+4. Vedtak etter [12-5](forskrift/2024-06-28-1392/§12-5) om bortvisning (etter andre ledd) og utestenging
+5. Vedtak etter [§§ 12-6](forskrift/2024-06-28-1392/§12-6) og [12-7](forskrift/2024-06-28-1392/§12-7) om utestenging og tap av retten til å gå opp til eksamen.
 
 Klagenemndas avgjørelser i øvrige saker fattes med alminnelig flertall.
 
@@ -964,7 +1194,13 @@ Barn og elever har rett til å reservere seg mot slik behandling av personopplys
 
 ### § 10-1. Register for informasjonsutveksling om reaksjoner
 
-Følgende opplysninger skal legges inn i register for informasjonsutveksling om reaksjoner etter [universitets- og høyskoleloven § 12-11](lov/2024-03-08-9/§12-11), så snart som mulig etter at vedtak er fattet:fødselsnummer eller d-nummerinstitusjonvedtakets periodevedtakstypestudium.
+Følgende opplysninger skal legges inn i register for informasjonsutveksling om reaksjoner etter [universitets- og høyskoleloven § 12-11](lov/2024-03-08-9/§12-11), så snart som mulig etter at vedtak er fattet:
+
+1. fødselsnummer eller d-nummer
+2. institusjon
+3. vedtakets periode
+4. vedtakstype
+5. studium.
 
 Dersom et vedtak omgjøres, eller perioden for vedtaket endres, skal institusjonen snarest registrere endringene i registeret.
 
@@ -976,7 +1212,10 @@ SIKT – Kunnskapssektorens tjenesteleverandør har ansvaret for driften av regi
 
 ### § 10-2. Portal for deling av vitnemål og dokumentasjon av kompetanse
 
-I portal for deling av vitnemål og dokumentasjon av kompetanse etter [universitets- og høyskoleloven § 15-1](lov/2024-03-08-9/§15-1) kan det behandles slike personopplysninger om personer som har vitnemål, dokumentasjon av kompetanse med videre registrert hos tilknyttede institusjoner, forvaltningsorganer, organisasjoner og andre:fødselsnummer eller d-nummerinformasjon om den eller de institusjoner, forvaltningsorganer, organisasjoner og andre som i sine databaser har opplysninger om denne personens vitnemål, kompetanse med videre.
+I portal for deling av vitnemål og dokumentasjon av kompetanse etter [universitets- og høyskoleloven § 15-1](lov/2024-03-08-9/§15-1) kan det behandles slike personopplysninger om personer som har vitnemål, dokumentasjon av kompetanse med videre registrert hos tilknyttede institusjoner, forvaltningsorganer, organisasjoner og andre:
+
+1. fødselsnummer eller d-nummer
+2. informasjon om den eller de institusjoner, forvaltningsorganer, organisasjoner og andre som i sine databaser har opplysninger om denne personens vitnemål, kompetanse med videre.
 
 Personopplysninger som nevnt i første ledd, kan utleveres til tilknyttede institusjoner og til forvaltningsorganer som har adgang til å behandle slike opplysninger.
 
@@ -984,7 +1223,13 @@ SIKT – Kunnskapssektorens tjenesteleverandør er ansvarlig for driften av port
 
 ### § 10-3. Database for forskningsinformasjon
 
-I database for forskningsinformasjon etter [universitets- og høyskoleloven § 15-2](lov/2024-03-08-9/§15-2), kan det behandles slike personopplysninger om forfattere, deltakere i forskningsprosjekt og opphavere:fødselsnummer eller d-nummernavnstatsborgerskapdigital person-identifikatoropplysninger knyttet til stilling, arbeidssted og forskningsaktivitet.
+I database for forskningsinformasjon etter [universitets- og høyskoleloven § 15-2](lov/2024-03-08-9/§15-2), kan det behandles slike personopplysninger om forfattere, deltakere i forskningsprosjekt og opphavere:
+
+1. fødselsnummer eller d-nummer
+2. navn
+3. statsborgerskap
+4. digital person-identifikator
+5. opplysninger knyttet til stilling, arbeidssted og forskningsaktivitet.
 
 Personopplysninger som nevnt i første ledd bokstav b, d og e, er offentlig tilgjengelige.
 
@@ -994,7 +1239,21 @@ SIKT – Kunnskapssektorens tjenesteleverandør er ansvarlig for driften av data
 
 ### § 10-4. Database for statistikk om høyere utdanning
 
-I databasen for statistikk om høyere utdanning kan det behandles slike personopplysninger:For søkere til og studenter ved universiteter og høyskoler:fødselsnummer eller d-nummernavnstatsborgerskapopplysninger knyttet til utdanning fra universiteter og høyskoler som studieprogresjon og karakterer.For doktorgradskandidater og ansatte ved universiteter og høyskoler:fødselsnummer eller d-nummerID-type og ID-nummernavnstatsborgerskapopplysninger knyttet til stillingsforhold og finansiering av stillingen.
+I databasen for statistikk om høyere utdanning kan det behandles slike personopplysninger:
+
+- For søkere til og studenter ved universiteter og høyskoler:
+
+  1. fødselsnummer eller d-nummer
+  2. navn
+  3. statsborgerskap
+  4. opplysninger knyttet til utdanning fra universiteter og høyskoler som studieprogresjon og karakterer.
+- For doktorgradskandidater og ansatte ved universiteter og høyskoler:
+
+  1. fødselsnummer eller d-nummer
+  2. ID-type og ID-nummer
+  3. navn
+  4. statsborgerskap
+  5. opplysninger knyttet til stillingsforhold og finansiering av stillingen.
 
 Personopplysningene i databasen kan utleveres og sammenstilles til forskning, statistikk og analyse i samsvar med formålet etter [universitets- og høyskoleloven § 15-3](lov/2024-03-08-9/§15-3). Opplysningene kan også utleveres til offentlige organer som har adgang til å behandle slike opplysninger.
 
@@ -1068,7 +1327,22 @@ Fra forskriftens ikrafttredelse gjøres følgende endringer i [opptaksforskrifte
 
 ### § 13-5. Oppheving av forskrifter
 
-Fra forskriftens ikrafttredelse oppheves følgende andre forskrifter:[Bestemmelse 24. august 1973 nr. 5 om fritak for avgifter ved universitet og høgskoler for østerrikske studenter](forskrift/1973-08-24-5)[Forskrift 1. november 1979 nr. 8852 for sykepleielærerutdanningen](forskrift/1979-11-01-8852)[Forskrift 24. juni 2005 nr. 676 om overgangsbestemmelser til lov 1. april 2005 nr. 15 om universiteter og høyskoler](forskrift/2005-06-24-676)[Forskrift 10. oktober 2005 nr. 1192 om felles klagenemnd for behandling av klagesaker etter lov om universiteter og høyskoler § 3-7 (8), § 4-7 til § 4-10 og § 7-9](forskrift/2005-10-10-1192)[Forskrift 1. desember 2005 nr. 1391 om bevilling som statsautorisert translatør](forskrift/2005-12-01-1391)[Forskrift 15. desember 2005 nr. 1506 om egenbetaling ved universiteter og høyskoler](forskrift/2005-12-15-1506)[Forskrift 31. januar 2006 nr. 102 om ansettelsesvilkår for stillinger som postdoktor, stipendiat, vitenskapelig assistent og spesialistkandidat](forskrift/2006-01-31-102)[Forskrift 9. februar 2006 nr. 129 om ansettelse og opprykk i undervisnings- og forskerstillinger](forskrift/2006-02-09-129)[Forskrift 30. juni 2006 nr. 859 om skikkethetsvurdering i høyere utdanning](forskrift/2006-06-30-859)[Forskrift 1. mars 2007 nr. 270 om klageadgang ved Stipendprogram for kunstnerisk utviklingsarbeid](forskrift/2007-03-01-270)[Forskrift 27. juni 2016 nr. 820 om register for utestengte studenter – RUST](forskrift/2016-06-27-820)[Forskrift 13. oktober 2017 nr. 1616 om overtredelsesgebyr etter universitets- og høyskoleloven og fagskoleloven](forskrift/2017-10-13-1616)[Forskrift 16. desember 2019 nr. 1846 om vilkår for statstilskudd til private høyskoler](forskrift/2019-12-16-1846)[Forskrift 27. oktober 2023 nr. 1714 om skikkethetsvurdering i høyere utdanning](forskrift/2023-10-27-1714).
+Fra forskriftens ikrafttredelse oppheves følgende andre forskrifter:
+
+- [Bestemmelse 24. august 1973 nr. 5 om fritak for avgifter ved universitet og høgskoler for østerrikske studenter](forskrift/1973-08-24-5)
+- [Forskrift 1. november 1979 nr. 8852 for sykepleielærerutdanningen](forskrift/1979-11-01-8852)
+- [Forskrift 24. juni 2005 nr. 676 om overgangsbestemmelser til lov 1. april 2005 nr. 15 om universiteter og høyskoler](forskrift/2005-06-24-676)
+- [Forskrift 10. oktober 2005 nr. 1192 om felles klagenemnd for behandling av klagesaker etter lov om universiteter og høyskoler § 3-7 (8), § 4-7 til § 4-10 og § 7-9](forskrift/2005-10-10-1192)
+- [Forskrift 1. desember 2005 nr. 1391 om bevilling som statsautorisert translatør](forskrift/2005-12-01-1391)
+- [Forskrift 15. desember 2005 nr. 1506 om egenbetaling ved universiteter og høyskoler](forskrift/2005-12-15-1506)
+- [Forskrift 31. januar 2006 nr. 102 om ansettelsesvilkår for stillinger som postdoktor, stipendiat, vitenskapelig assistent og spesialistkandidat](forskrift/2006-01-31-102)
+- [Forskrift 9. februar 2006 nr. 129 om ansettelse og opprykk i undervisnings- og forskerstillinger](forskrift/2006-02-09-129)
+- [Forskrift 30. juni 2006 nr. 859 om skikkethetsvurdering i høyere utdanning](forskrift/2006-06-30-859)
+- [Forskrift 1. mars 2007 nr. 270 om klageadgang ved Stipendprogram for kunstnerisk utviklingsarbeid](forskrift/2007-03-01-270)
+- [Forskrift 27. juni 2016 nr. 820 om register for utestengte studenter – RUST](forskrift/2016-06-27-820)
+- [Forskrift 13. oktober 2017 nr. 1616 om overtredelsesgebyr etter universitets- og høyskoleloven og fagskoleloven](forskrift/2017-10-13-1616)
+- [Forskrift 16. desember 2019 nr. 1846 om vilkår for statstilskudd til private høyskoler](forskrift/2019-12-16-1846)
+- [Forskrift 27. oktober 2023 nr. 1714 om skikkethetsvurdering i høyere utdanning](forskrift/2023-10-27-1714).
 
 ### § 13-6. Overgangsregler for kapittel 1 Krav til akkreditering, studiekvalitet, mv.
 
@@ -1096,135 +1370,353 @@ Universiteter og høyskoler har rett til å gi følgende grader og yrkesutdannin
 
 ### Nord universitet
 
-Nord universitet kan gi følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertmaster, integrertphilosophiae doctor (ph.d.)doctor philosophiae (dr.philos.).
+Nord universitet kan gi følgende grader som gir rett til tilsvarende tittel:
 
-Nord universitet kan gi følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. philosophiae doctor (ph.d.)
+7. doctor philosophiae (dr.philos.).
+
+Nord universitet kan gi følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Norges miljø- og biovitenskapelige universitet
 
-Norges miljø- og biovitenskapelige universitet kan gi følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertmaster, integrertcandidata/candidatus medicinae veterinariae (cand.med.vet.)philosophiae doctor (ph.d.)doctor philosophiae (dr.philos.).
+Norges miljø- og biovitenskapelige universitet kan gi følgende grader som gir rett til tilsvarende tittel:
+
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. candidata/candidatus medicinae veterinariae (cand.med.vet.)
+7. philosophiae doctor (ph.d.)
+8. doctor philosophiae (dr.philos.).
 
 ### Norges teknisk-naturvitenskapelige universitet
 
-Norges teknisk-naturvitenskapelige universitet kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelorbachelor, utvidet, i utøvende og skapende musikkmastermaster, erfaringsbasertmaster, integrertMaster of Technology Management, særskilt mastercandidata/candidatus medicinae (cand.med.)candidata/candidatus psychologiae (cand.psychol.)philosophiae doctor (ph.d.).philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid)doctor philosophiae (dr.philos.).
+Norges teknisk-naturvitenskapelige universitet kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-Norges teknisk-naturvitenskapelige universitet gi følgende yrkesutdanning:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat
+2. bachelor
+3. bachelor, utvidet, i utøvende og skapende musikk
+4. master
+5. master, erfaringsbasert
+6. master, integrert
+7. Master of Technology Management, særskilt master
+8. candidata/candidatus medicinae (cand.med.)
+9. candidata/candidatus psychologiae (cand.psychol.)
+10. philosophiae doctor (ph.d.).
+11. philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid)
+12. doctor philosophiae (dr.philos.).
+
+Norges teknisk-naturvitenskapelige universitet gi følgende yrkesutdanning:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### OsloMet – storbyuniversitetet
 
-OsloMet – storbyuniversitetet kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertmaster, integrertphilosophiae doctor (ph.d.).
+OsloMet – storbyuniversitetet kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-OsloMet – storbyuniversitetet kan gi følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. philosophiae doctor (ph.d.).
+
+OsloMet – storbyuniversitetet kan gi følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Universitetet i Agder
 
-Universitetet i Agder kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertmaster, integrertmaster i rettsvitenskapcandidata/candidatus psychologiae (cand.psychol.)philosophiae doctor (ph.d.)philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid) – fellesgrad med Universitetet i Stavangerdoctor philosophiae (dr.philos.).
+Universitetet i Agder kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-Universitetet i Agder kan gi følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. master i rettsvitenskap
+7. candidata/candidatus psychologiae (cand.psychol.)
+8. philosophiae doctor (ph.d.)
+9. philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid) – fellesgrad med Universitetet i Stavanger
+10. doctor philosophiae (dr.philos.).
+
+Universitetet i Agder kan gi følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Universitetet i Bergen
 
-Universitetet i Bergen kan tildele følgende grader som gir rett til tilsvarende tittel:bachelorbachelor, utvidet, i utøvende og skapende musikkmastermaster, erfaringsbasertmaster, integrertMaster of Laws (LLM), særskilt mastermaster i rettsvitenskapcandidata/candidatus medicinae (cand.med.), normert studietid 6 år.candidata/candidatus psychologiae (cand.psychol.), normert studietid 6 år.philosophiae doctor (ph.d.)philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d i kunstnerisk utviklingsarbeid)doctor philosophiae (dr.philos.).
+Universitetet i Bergen kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. bachelor, utvidet, i utøvende og skapende musikk
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. Master of Laws (LLM), særskilt master
+7. master i rettsvitenskap
+8. candidata/candidatus medicinae (cand.med.), normert studietid 6 år.
+9. candidata/candidatus psychologiae (cand.psychol.), normert studietid 6 år.
+10. philosophiae doctor (ph.d.)
+11. philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d i kunstnerisk utviklingsarbeid)
+12. doctor philosophiae (dr.philos.).
 
 ### Universitetet i Innlandet
 
-Universitetet i Innlandet kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidat.bachelormastermaster, erfaringsbasertmaster, integrertphilosophiae doctor (ph.d.)philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid) – forsøksordning til 31. desember 2027.
+Universitetet i Innlandet kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-Universitetet i Innlandet kan gi følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat.
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. philosophiae doctor (ph.d.)
+7. philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid) – forsøksordning til 31. desember 2027.
+
+Universitetet i Innlandet kan gi følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Universitetet i Oslo
 
-Universitetet i Oslo kan tildele følgende grader som gir rett til tilsvarende tittel:bachelormastermaster, erfaringsbasertmaster, integrertMaster of Arts, særskilt masterMaster of Laws (LLM), særskilt mastermaster i rettsvitenskapcandidata/candidatus medicinae (cand.med.)candidata/candidatus psychologiae (cand.psychol.)candidata/candidatus theologiae (cand.theol.)philosophiae doctor (ph.d.)doctor philosophiae (dr.philos.).
+Universitetet i Oslo kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master
+3. master, erfaringsbasert
+4. master, integrert
+5. Master of Arts, særskilt master
+6. Master of Laws (LLM), særskilt master
+7. master i rettsvitenskap
+8. candidata/candidatus medicinae (cand.med.)
+9. candidata/candidatus psychologiae (cand.psychol.)
+10. candidata/candidatus theologiae (cand.theol.)
+11. philosophiae doctor (ph.d.)
+12. doctor philosophiae (dr.philos.).
 
 ### Universitetet i Stavanger
 
-Universitetet i Stavanger kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelorbachelor, utvidet, i utøvende og skapende musikkmastermaster, erfaringsbasertmaster, integrertmaster i rettsvitenskapcandidata/candidatus psychologiae (cand.psychol.)philosophiae doctor (ph.d.)philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid) – fellesgrad med Universitetet i Agderdoctor philosophiae (dr.philos.).
+Universitetet i Stavanger kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-Universitetet i Stavanger kan gi følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat
+2. bachelor
+3. bachelor, utvidet, i utøvende og skapende musikk
+4. master
+5. master, erfaringsbasert
+6. master, integrert
+7. master i rettsvitenskap
+8. candidata/candidatus psychologiae (cand.psychol.)
+9. philosophiae doctor (ph.d.)
+10. philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid) – fellesgrad med Universitetet i Agder
+11. doctor philosophiae (dr.philos.).
+
+Universitetet i Stavanger kan gi følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Universitetet i Sørøst-Norge
 
-Universitetet i Sørøst-Norge kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertmaster, integrertphilosophiae doctor (ph.d.)doctor philosophiae (dr.philos.).
+Universitetet i Sørøst-Norge kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-Universitetet i Sørøst-Norge kan tildele følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. philosophiae doctor (ph.d.)
+7. doctor philosophiae (dr.philos.).
+
+Universitetet i Sørøst-Norge kan tildele følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Universitetet i Tromsø – Norges arktiske universitet
 
-Universitetet i Tromsø – Norges arktiske universitet kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelorbachelor, utvidet, i utøvende og skapende musikkmastermaster, erfaringsbasertmaster, integrertMaster of Laws (LLM), særskilt mastermaster i rettsvitenskap.candidata/candidatus medicinae (cand.med.)candidata/candidates psychologiae (cand.psychol.)philosophiae doctor (ph.d.)doctor philosophiae (dr.philos.).
+Universitetet i Tromsø – Norges arktiske universitet kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-Universitetet i Tromsø – Norges arktiske universitet kan gi følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat
+2. bachelor
+3. bachelor, utvidet, i utøvende og skapende musikk
+4. master
+5. master, erfaringsbasert
+6. master, integrert
+7. Master of Laws (LLM), særskilt master
+8. master i rettsvitenskap.
+9. candidata/candidatus medicinae (cand.med.)
+10. candidata/candidates psychologiae (cand.psychol.)
+11. philosophiae doctor (ph.d.)
+12. doctor philosophiae (dr.philos.).
+
+Universitetet i Tromsø – Norges arktiske universitet kan gi følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Vitenskapelige høyskoler
 
 ### Arkitektur- og designhøgskolen i Oslo
 
-Arkitektur- og designhøgskolen i Oslo kan tildele følgende grader som gir rett til tilsvarende tittel:mastermaster, erfaringsbasertmaster, integrertmaster i arkitektur, integrertMaster of Arts, særskilt masterphilosophiae doctor (ph.d.).
+Arkitektur- og designhøgskolen i Oslo kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. master
+2. master, erfaringsbasert
+3. master, integrert
+4. master i arkitektur, integrert
+5. Master of Arts, særskilt master
+6. philosophiae doctor (ph.d.).
 
 ### Høgskolen i Molde, vitenskapelig høgskole i logistikk
 
-Høgskolen i Molde, vitenskapelig høgskole i logistikk kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertphilosophiae doctor (ph.d.).
+Høgskolen i Molde, vitenskapelig høgskole i logistikk kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. philosophiae doctor (ph.d.).
 
 ### Kunsthøgskolen i Oslo
 
-Kunsthøgskolen i Oslo kan tildele følgende grader som gir rett til tilsvarende tittel:bachelormasterphilosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid).
+Kunsthøgskolen i Oslo kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master
+3. philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid).
 
 ### Norges handelshøyskole
 
-Norges handelshøyskole kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertMaster of Business Administration (MBA), særskilt masterMaster of International Business (MIB), særskilt masterphilosophiae doctor (ph.d.)doctor philosophiae (dr.philos.).
+Norges handelshøyskole kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. Master of Business Administration (MBA), særskilt master
+6. Master of International Business (MIB), særskilt master
+7. philosophiae doctor (ph.d.)
+8. doctor philosophiae (dr.philos.).
 
 ### Norges idrettshøgskole
 
-Norges idrettshøgskole kan tildele følgende grader som gir rett til tilsvarende tittel:bachelormastermaster, erfaringsbasertphilosophiae doctor (ph.d.).
+Norges idrettshøgskole kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master
+3. master, erfaringsbasert
+4. philosophiae doctor (ph.d.).
 
 ### Norges musikkhøgskole
 
-Norges musikkhøgskole kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelorbachelor, utvidet, i utøvende og skapende musikkmastermaster, erfaringsbasertphilosophiae doctor (ph.d.)philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid)doctor philosophiae (dr.philos.).
+Norges musikkhøgskole kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. høgskolekandidat
+2. bachelor
+3. bachelor, utvidet, i utøvende og skapende musikk
+4. master
+5. master, erfaringsbasert
+6. philosophiae doctor (ph.d.)
+7. philosophiae doctor i kunstnerisk utviklingsarbeid (ph.d. i kunstnerisk utviklingsarbeid)
+8. doctor philosophiae (dr.philos.).
 
 ### Akkrediterte høyskoler
 
 ### Høgskolen i Volda
 
-Høgskolen i Volda kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidat.bachelor.mastermaster, erfaringsbasertmaster, integrertphilosophiae doctor (ph.d.).
+Høgskolen i Volda kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-Høgskolen i Volda kan gi følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat.
+2. bachelor.
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. philosophiae doctor (ph.d.).
+
+Høgskolen i Volda kan gi følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Høgskolen i Østfold
 
-Høgskolen i Østfold kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertmaster, integrertphilosophiae doctor (ph.d.).
+Høgskolen i Østfold kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-Høgskolen i Østfold kan gi følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. philosophiae doctor (ph.d.).
+
+Høgskolen i Østfold kan gi følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Høgskulen på Vestlandet
 
-Høgskulen på Vestlandet kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelorBachelor, utvidet, i nautikk (til 31. juli 2031)mastermaster, integrertphilosophiae doctor (ph.d.).
+Høgskulen på Vestlandet kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-Høgskulen på Vestlandet kan gi følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat
+2. bachelor
+3. Bachelor, utvidet, i nautikk (til 31. juli 2031)
+4. master
+5. master, integrert
+6. philosophiae doctor (ph.d.).
+
+Høgskulen på Vestlandet kan gi følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 > Endret ved forskrift [12 des 2025 nr. 2609](forskrift/2025-12-12-2609) (i kraft 1 jan 2026).
 
 ### Sámi allaskuvla / Samisk høgskole
 
-Sámi allaskuvla / Samisk høgskole kan tildele følgende grader som gir rett til tilsvarende tittel:bachelormastermaster, erfaringsbasertmaster, integrertphilosophiae doctor (ph.d.).
+Sámi allaskuvla / Samisk høgskole kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-Sámi allaskuvla / Samisk høgskole kan gi følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. bachelor
+2. master
+3. master, erfaringsbasert
+4. master, integrert
+5. philosophiae doctor (ph.d.).
+
+Sámi allaskuvla / Samisk høgskole kan gi følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Akkrediterte høyskoler under andre departement:
 
 ### Forsvarets høgskole
 
-Forsvarets høgskole kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelorbachelor, utvidet, i militære studier med fordypning i sjømilitær ledelse og navigasjonmaster, erfaringsbasert.
+Forsvarets høgskole kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. høgskolekandidat
+2. bachelor
+3. bachelor, utvidet, i militære studier med fordypning i sjømilitær ledelse og navigasjon
+4. master, erfaringsbasert.
 
 > **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ### Politihøgskolen
 
-Politihøgskolen kan tildele følgende grader som gir rett til tilsvarende tittel:bachelormastermaster, erfaringsbasert.
+Politihøgskolen kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master
+3. master, erfaringsbasert.
 
 ### Høyskoler under andre departement, uten institusjonsakkreditering:
 
 ### Kriminalomsorgens høgskole og utdanningssenter
 
-Kriminalomsorgens høgskole og utdanningssenter (KRUS) kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelor.
+Kriminalomsorgens høgskole og utdanningssenter (KRUS) kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. høgskolekandidat
+2. bachelor.
 
 > **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
@@ -1234,101 +1726,182 @@ Kriminalomsorgens høgskole og utdanningssenter (KRUS) kan tildele følgende gra
 
 ### Handelshøyskolen BI
 
-Handelshøyskolen BI kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertMaster of Business Administration (MBA), særskilt mastermaster i rettsvitenskap.philosophiae doctor (ph.d.).
+Handelshøyskolen BI kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. Master of Business Administration (MBA), særskilt master
+6. master i rettsvitenskap.
+7. philosophiae doctor (ph.d.).
 
 ### MF vitenskapelig høyskole
 
-MF vitenskapelig høyskole kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertmaster, integrertcandidata/candidatus theologiae (cand.theol.)philosophiae doctor (ph.d.)doctor philosophiae (dr.philos.).
+MF vitenskapelig høyskole kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. candidata/candidatus theologiae (cand.theol.)
+7. philosophiae doctor (ph.d.)
+8. doctor philosophiae (dr.philos.).
 
 ### VID vitenskapelige høgskole
 
-VID vitenskapelige høgskole kan tildele følgende grader som gir rett til tilsvarende tittel:bachelormastermaster, erfaringsbasertcandidata/candidatus theologiae (cand.theol.)philosophiae doctor (ph.d.).
+VID vitenskapelige høgskole kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master
+3. master, erfaringsbasert
+4. candidata/candidatus theologiae (cand.theol.)
+5. philosophiae doctor (ph.d.).
 
 ### Akkrediterte høyskoler
 
 ### Ansgar høyskole for teologi, musikk og psykologi
 
-Ansgar høyskole for teologi, musikk og psykologi kan tildele følgende grader som gir rett til tilsvarende tittel:bachelormaster.
+Ansgar høyskole for teologi, musikk og psykologi kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master.
 
 ### Bergen Arkitekthøgskole
 
-Bergen Arkitekthøgskole kan tildele følgende grad som gir rett til tilsvarende tittel:master, integrert.
+Bergen Arkitekthøgskole kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. master, integrert.
 
 ### Dronning Mauds Minne Høgskole for barnehagelærerutdanning
 
-Dronning Mauds Minne Høgskole for barnehagelærerutdanning kan tildele følgende grad som gir rett til tilsvarende tittel:bachelormaster.
+Dronning Mauds Minne Høgskole for barnehagelærerutdanning kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master.
 
 ### Fjellhaug Internasjonale Høgskole
 
-Fjellhaug Internasjonale Høgskole kan tildele følgende grad som gir rett til tilsvarende tittel:bachelormaster.
+Fjellhaug Internasjonale Høgskole kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master.
 
 ### Høyskolen for ledelse og teologi
 
-Høyskolen for ledelse og teologi kan tildele følgende grad som gir rett til tilsvarende tittel:bachelor.
+Høyskolen for ledelse og teologi kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor.
 
 > **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ### Høyskolen Kristiania
 
-Høyskolen Kristiania kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelormastermaster, erfaringsbasertphilosophiae doctor (ph.d.).
+Høyskolen Kristiania kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. høgskolekandidat
+2. bachelor
+3. master
+4. master, erfaringsbasert
+5. philosophiae doctor (ph.d.).
 
 ### Lovisenberg diakonale høgskole
 
-Lovisenberg diakonale høgskole kan tildele følgende grad som gir rett til tilsvarende tittel:bachelormastermaster, erfaringsbasert.
+Lovisenberg diakonale høgskole kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master
+3. master, erfaringsbasert.
 
 ### NLA Høgskolen
 
-NLA Høgskolen kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidat.bachelor.mastermaster, erfaringsbasertmaster, integrertcandidata/candidatus theologiae (cand.theol.).
+NLA Høgskolen kan tildele følgende grader som gir rett til tilsvarende tittel:
 
-NLA Høgskolen kan tildele følgende yrkesutdanninger:grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
+1. høgskolekandidat.
+2. bachelor.
+3. master
+4. master, erfaringsbasert
+5. master, integrert
+6. candidata/candidatus theologiae (cand.theol.).
+
+NLA Høgskolen kan tildele følgende yrkesutdanninger:
+
+1. grunnskolelærerutdanningene for 1.–7. trinn og 5.–10. trinn, normert studietid 4 år.
 
 ### Høyskoler uten institusjonsakkreditering
 
 ### Barratt Due musikkinstitutt
 
-Barratt Due musikkinstitutt kan tildele følgende grad som gir rett til tilsvarende tittel:bachelor, utvidet, i utøvende og skapende musikk.
+Barratt Due musikkinstitutt kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor, utvidet, i utøvende og skapende musikk.
 
 ### Ekko Digitale AS
 
-Ekko Digitale AS kan tildele følgende grad som gir rett til tilsvarende tittel:bachelor.
+Ekko Digitale AS kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor.
 
 > Tilføyd ved forskrift [12 des 2025 nr. 2609](forskrift/2025-12-12-2609) (i kraft 1 jan 2026).
 
 ### Høgskulen for grøn utvikling
 
-Høgskulen for grøn utvikling kan tildele følgende grad som gir rett til tilsvarende tittel:bachelor.
+Høgskulen for grøn utvikling kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor.
 
 ### Høyskolen for dansekunst
 
-Høyskolen for dansekunst kan tildele følgende grad som gir rett til tilsvarende tittel:bachelor.
+Høyskolen for dansekunst kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor.
 
 ### Høyskolen for yrkesfag AS
 
-Høyskolen for yrkesfag AS kan tildele følgende grader som gir rett til tilsvarende tittel:bachelor.
+Høyskolen for yrkesfag AS kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. bachelor.
 
 ### Norges Høyskole for Helsefag
 
-Norges Høyskole for Helsefag kan tildele følgende grad som gir rett til tilsvarende tittel:høgskolekandidatbachelor.
+Norges Høyskole for Helsefag kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. høgskolekandidat
+2. bachelor.
 
 ### Noroff Høyskole
 
-Noroff Høyskole kan tildele følgende grad som gir rett til tilsvarende tittel:bachelor.
+Noroff Høyskole kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor.
 
 ### Norsk barnebokinstitutt
 
-Norsk barnebokinstitutt kan tildele følgende grader som gir rett til tilsvarende tittel:master.
+Norsk barnebokinstitutt kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. master.
 
 ### NSKI Høyskole
 
-NSKI Høyskole kan tildele følgende grader som gir rett til tilsvarende tittel:bachelor.
+NSKI Høyskole kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. bachelor.
 
 ### Oslo Nye Høyskole
 
-Oslo Nye Høyskole kan tildele følgende grader som gir rett til tilsvarende tittel:bachelormaster.
+Oslo Nye Høyskole kan tildele følgende grader som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master.
 
 ### Steinerhøyskolen
 
-Steinerhøyskolen kan tildele følgende grad som gir rett til tilsvarende tittel:bachelormastermaster, integrert – fellesgrad med OsloMet-storbyuniversitetet.
+Steinerhøyskolen kan tildele følgende grad som gir rett til tilsvarende tittel:
+
+1. bachelor
+2. master
+3. master, integrert – fellesgrad med OsloMet-storbyuniversitetet.
 
 > **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
@@ -1336,4 +1909,63 @@ Steinerhøyskolen kan tildele følgende grad som gir rett til tilsvarende tittel
 
 > Vedlegg I tilføyd ved forskrift [4 juli 2025 nr. 1452](forskrift/2025-07-04-1452) (i kraft 1 aug 2025).
 
-Forbudet mot misbruk av gradstitler, jf. forskriften [§ 2-14](forskrift/2024-06-28-1392/§2-14), gjelder følgende gradstitler:candidata/candidatus magisterii (cand.mag.)candidata/candidatus agriculturae (cand.agric.)candidata/candidatus educationis (cand.ed.)candidata/candidatus juris (cand.jur.)candidata/candidatus mercatoria/mercatorius (cand.merc.)candidata/candidatus musicae (cand.musicae)candidata/candidatus odontologiae (cand.odont.)candidata/candidatus oeconomiae (cand.oecon.)candidata/candidatus paedagogiae (cand.paed.)candidata/candidatus paedagogiae specialis (cand.paed.spec.)candidata/candidatus pharmaciae (cand.pharm.)candidata/candidatus philologiae (cand.philol.)candidata/candidatus rerum politicarum (cand.polit.)candidata/candidatus sanitatis (cand.san.)candidata/candidatus scientiarum (cand.scient.)candidata/candidatus sociologiae (cand.sociol.)candidata/candidatus socionomiae (cand.socion.)designkandidaternæringsfysiologexaminata/examinatus oeconomiae (exam.oecon.)fiskerikandidatkandidat i arbeidshelsekandidat i folkehelsevitenskapkandidat i helseadministrasjonkandidat i musikkkandidat i sykepleievitenskaphovedfagskandidathøgskoleingeniørhøgskolekandidat (tre- og fireårig)høyere avdelings eksamen i økonomisk-administrative fag ved Norges handelshøyskoleidrettskandidatkommunalkandidatkunstfagkandidatmagister artium (mag.art.)maritim kandidatsivilarkitektsivilbibliotekarsivilindustridesignersivilingeniør (siv.ing.)sivilmarkedsførersiviløkonom (siv.øk.)licentiata/licentiatus juris (lic.jur.)licentiata/licentiatus odontologiae (lic.odont.)licentiata/licentiatus philosophiae (lic.philol.)doctor agriculturae (dr.agric.)doctor artium (dr.art.)doctor ingeniør (dr.ing.)doctor juris (dr.juris)doctor legis (dr.legis)doctor medicinae (dr.med.)doctor medicinae veterinariae (dr.med.vet.)doctor odontologiae (dr.odont.)doctor oeconomiae (dr.oecon.)doctor psychologiae (dr.psychol.)doctor rerum politicarum (dr.polit.)doctor scientiarum (dr.scient.)doctor technicae (dr.techn.)doctor theologiae (dr.theol.).
+Forbudet mot misbruk av gradstitler, jf. forskriften [§ 2-14](forskrift/2024-06-28-1392/§2-14), gjelder følgende gradstitler:
+
+1. candidata/candidatus magisterii (cand.mag.)
+2. candidata/candidatus agriculturae (cand.agric.)
+3. candidata/candidatus educationis (cand.ed.)
+4. candidata/candidatus juris (cand.jur.)
+5. candidata/candidatus mercatoria/mercatorius (cand.merc.)
+6. candidata/candidatus musicae (cand.musicae)
+7. candidata/candidatus odontologiae (cand.odont.)
+8. candidata/candidatus oeconomiae (cand.oecon.)
+9. candidata/candidatus paedagogiae (cand.paed.)
+10. candidata/candidatus paedagogiae specialis (cand.paed.spec.)
+11. candidata/candidatus pharmaciae (cand.pharm.)
+12. candidata/candidatus philologiae (cand.philol.)
+13. candidata/candidatus rerum politicarum (cand.polit.)
+14. candidata/candidatus sanitatis (cand.san.)
+15. candidata/candidatus scientiarum (cand.scient.)
+16. candidata/candidatus sociologiae (cand.sociol.)
+17. candidata/candidatus socionomiae (cand.socion.)
+18. designkandidat
+19. ernæringsfysiolog
+20. examinata/examinatus oeconomiae (exam.oecon.)
+21. fiskerikandidat
+22. kandidat i arbeidshelse
+23. kandidat i folkehelsevitenskap
+24. kandidat i helseadministrasjon
+25. kandidat i musikk
+26. kandidat i sykepleievitenskap
+27. hovedfagskandidat
+28. høgskoleingeniør
+29. høgskolekandidat (tre- og fireårig)
+30. høyere avdelings eksamen i økonomisk-administrative fag ved Norges handelshøyskole
+31. idrettskandidat
+32. kommunalkandidat
+33. kunstfagkandidat
+34. magister artium (mag.art.)
+35. maritim kandidat
+36. sivilarkitekt
+37. sivilbibliotekar
+38. sivilindustridesigner
+39. sivilingeniør (siv.ing.)
+40. sivilmarkedsfører
+41. siviløkonom (siv.øk.)
+42. licentiata/licentiatus juris (lic.jur.)
+43. licentiata/licentiatus odontologiae (lic.odont.)
+44. licentiata/licentiatus philosophiae (lic.philol.)
+45. doctor agriculturae (dr.agric.)
+46. doctor artium (dr.art.)
+47. doctor ingeniør (dr.ing.)
+48. doctor juris (dr.juris)
+49. doctor legis (dr.legis)
+50. doctor medicinae (dr.med.)
+51. doctor medicinae veterinariae (dr.med.vet.)
+52. doctor odontologiae (dr.odont.)
+53. doctor oeconomiae (dr.oecon.)
+54. doctor psychologiae (dr.psychol.)
+55. doctor rerum politicarum (dr.polit.)
+56. doctor scientiarum (dr.scient.)
+57. doctor technicae (dr.techn.)
+58. doctor theologiae (dr.theol.).

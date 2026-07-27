@@ -32,13 +32,24 @@ Denne forskriften gjelder bruk av hangglider og paraglider innenfor norsk områd
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*hangglider:* en bemannet innretning med en fast vingestruktur og tyngre enn luft, som kan startes og landes ved hjelp av pilotens egen muskelkraft eller startes ved hjelpemotor, oppslep eller opptrekk, og som under flyging bæres oppe av aerodynamiske reaksjoner på faste bæreflater (ikke roterende flater) uten permanent fysisk kontakt med bakken.*paraglider:* en bemannet innretning, tyngre enn luft som, uten en fast vingestruktur, skaper en varierende motstand, som piloten kan styre med to eller flere styreliner, og som kan startes ved hjelp av pilotens egen muskelkraft, ved hjelpemotor, ved opptrekk eller ved dropp fra helikopter, friballong eller tandem paraglider, og som under flyging holdes oppe av aerodynamiske reaksjoner på faste bæreflater (ikke roterende flater) uten permanent fysisk kontakt med bakken.*pilot:* den som betjener hanggliderens eller paragliderens styreorganer og er ansvarlig for føring og sikkerhet under flygingen.
+I denne forskriften menes med:
+
+1. *hangglider:* en bemannet innretning med en fast vingestruktur og tyngre enn luft, som kan startes og landes ved hjelp av pilotens egen muskelkraft eller startes ved hjelpemotor, oppslep eller opptrekk, og som under flyging bæres oppe av aerodynamiske reaksjoner på faste bæreflater (ikke roterende flater) uten permanent fysisk kontakt med bakken.
+2. *paraglider:* en bemannet innretning, tyngre enn luft som, uten en fast vingestruktur, skaper en varierende motstand, som piloten kan styre med to eller flere styreliner, og som kan startes ved hjelp av pilotens egen muskelkraft, ved hjelpemotor, ved opptrekk eller ved dropp fra helikopter, friballong eller tandem paraglider, og som under flyging holdes oppe av aerodynamiske reaksjoner på faste bæreflater (ikke roterende flater) uten permanent fysisk kontakt med bakken.
+3. *pilot:* den som betjener hanggliderens eller paragliderens styreorganer og er ansvarlig for føring og sikkerhet under flygingen.
 
 ## § 4. Godkjennelse av sikkerhetssystem
 
 Flyging med hangglider eller paraglider kan bare utføres av person tilknyttet organisasjon som har fått godkjent et sikkerhetssystem av Luftfartstilsynet.
 
-Sikkerhetssystemet skal inneholde:plan for utdannelse av utøvere av hanggliding og paragliding og opprettholdelse av deres kunnskaper og ferdigheter, herunder utstedelse av kompetansebevis,materiellreglement, innbefattet krav til konstruksjon og vedlikehold av hangglidere, paraglidere og nødvendig tilleggsutstyr,operative bestemmelser for de forskjellige arter av hanggliding og paragliding,medisinske minstekrav til utøverne,system for rapportering av avvik fra pkt. a) t.o.m. d) ovenfor til organisasjon, ogorganisering som sikrer utvikling og etterlevelse av pkt. a) t.o.m. e) ovenfor.
+Sikkerhetssystemet skal inneholde:
+
+1. plan for utdannelse av utøvere av hanggliding og paragliding og opprettholdelse av deres kunnskaper og ferdigheter, herunder utstedelse av kompetansebevis,
+2. materiellreglement, innbefattet krav til konstruksjon og vedlikehold av hangglidere, paraglidere og nødvendig tilleggsutstyr,
+3. operative bestemmelser for de forskjellige arter av hanggliding og paragliding,
+4. medisinske minstekrav til utøverne,
+5. system for rapportering av avvik fra pkt. a) t.o.m. d) ovenfor til organisasjon, og
+6. organisering som sikrer utvikling og etterlevelse av pkt. a) t.o.m. e) ovenfor.
 
 Luftfartstilsynet kan sette vilkår for godkjenning av sikkerhetssystem, herunder tidsbegrense godkjenning og rett til å pålegge endringer av sikkerhetssystemet.
 
@@ -66,13 +77,21 @@ Hanggliding eller paragliding i kontrollert luftrom skal planlegges og utføres 
 
 Hanggliding og paragliding skal gjennomføres i overensstemmelse med operative bestemmelser i det godkjente sikkerhetssystemet, jf. [§ 4](forskrift/2010-01-05-1/§4) (2) bokstav c).
 
-I tillegg til forrige ledd gjelder følgende for flyging med hangglider og paraglider:flyging skal bare foregå under VFR-forhold, forskrift om lufttrafikkregler (BSL F 1-1). Flyging i tidsrom definert som «natt» i forskrift om lufttrafikkregler (BSL F 1-1) § 1-3, er kun tillatt dersom det er særlig beskrevet i sikkerhetssystemet.flyging skal skje i så god avstand til tettbebyggelse og folkeansamlinger i friluft at det ikke er sannsynlig at landing vil foregå i eller nær slike områderflyging skal skje i samsvar med reglene i forskrift om lufttrafikkregler (BSL F 1-1) så langt de passer.
+I tillegg til forrige ledd gjelder følgende for flyging med hangglider og paraglider:
+
+1. flyging skal bare foregå under VFR-forhold, forskrift om lufttrafikkregler (BSL F 1-1). Flyging i tidsrom definert som «natt» i forskrift om lufttrafikkregler (BSL F 1-1) § 1-3, er kun tillatt dersom det er særlig beskrevet i sikkerhetssystemet.
+2. flyging skal skje i så god avstand til tettbebyggelse og folkeansamlinger i friluft at det ikke er sannsynlig at landing vil foregå i eller nær slike områder
+3. flyging skal skje i samsvar med reglene i forskrift om lufttrafikkregler (BSL F 1-1) så langt de passer.
 
 ## § 8. Dropp av paraglider fra sivilt helikopter
 
 Dropp av paraglider fra sivilt helikopter skal kun utføres fra helikopter tilknyttet ervervsmessig virksomhet, og som har en prosedyre for slike dropp som er godkjent av Luftfartstilsynet.
 
-Ved flyging med utøvere som skal foreta utsprang med hangglider eller paraglider skal følgende begrensninger være innført i flygehåndboken:røyking er ikke tillatt,alt løst utstyr ombord skal være sikret, ogbagasje er ikke tillatt medført i luftfartøyet.
+Ved flyging med utøvere som skal foreta utsprang med hangglider eller paraglider skal følgende begrensninger være innført i flygehåndboken:
+
+1. røyking er ikke tillatt,
+2. alt løst utstyr ombord skal være sikret, og
+3. bagasje er ikke tillatt medført i luftfartøyet.
 
 Før dropp av paraglider gjennomføres skal det utpekes en pilot blant paragliderne som har ansvaret for sikkerheten i tilknytning til droppet. Den ansvarlige piloten skal ta nødvendige forholdsregler for å hindre utilsiktet åpning av paraglider før dropp.
 
@@ -80,9 +99,26 @@ Før dropp av paraglider gjennomføres skal det utpekes en pilot blant paraglide
 
 Flyging med motorisert hangglider eller motorisert paraglider skal gjennomføres i overensstemmelse med operative bestemmelser i det godkjente sikkerhetssystemet, jf. [§ 4](forskrift/2010-01-05-1/§4) (2) bokstav c).
 
-I tillegg til forrige ledd gjelder følgende bestemmelser for flyging med motorisert hangglider og paraglider:flyging skal ikke foregå om natten og kun under VFR-forhold, uten etter særskilt tillatelse fra Luftfartstilsynetflyging skal skje i så god avstand til tettbebyggelse og folkeansamlinger i friluft at det ikke er sannsynlig at landing vil foregå i eller nær slike områder, og at flygingen ikke kan virke støymessig forstyrrende for omgivelseneflyging skal skje i samsvar med reglene i forskrift om lufttrafikkregler (BSL F 1-1) så langt de passer.
+I tillegg til forrige ledd gjelder følgende bestemmelser for flyging med motorisert hangglider og paraglider:
 
-Flyging med motorisert hangglider og motorisert paraglider skal loggføres. Følgende opplysninger skal loggføres:For pilot:tidspunkt for flygingavgangssted og landingsstedløpende total flygetid for pilotattestering.For motoren:gangtid for motorløpende total flygetid for motorvedlikeholdsintervallerteknisk avvik for motor.
+1. flyging skal ikke foregå om natten og kun under VFR-forhold, uten etter særskilt tillatelse fra Luftfartstilsynet
+2. flyging skal skje i så god avstand til tettbebyggelse og folkeansamlinger i friluft at det ikke er sannsynlig at landing vil foregå i eller nær slike områder, og at flygingen ikke kan virke støymessig forstyrrende for omgivelsene
+3. flyging skal skje i samsvar med reglene i forskrift om lufttrafikkregler (BSL F 1-1) så langt de passer.
+
+Flyging med motorisert hangglider og motorisert paraglider skal loggføres. Følgende opplysninger skal loggføres:
+
+1. For pilot:
+
+   1. tidspunkt for flyging
+   2. avgangssted og landingssted
+   3. løpende total flygetid for pilot
+   4. attestering.
+2. For motoren:
+
+   1. gangtid for motor
+   2. løpende total flygetid for motor
+   3. vedlikeholdsintervaller
+   4. teknisk avvik for motor.
 
 Loggførte opplysninger iht. forrige ledd skal oppbevares i minimum 12 måneder etter siste flyging, eller etter at motoren er tatt ut av bruk.
 

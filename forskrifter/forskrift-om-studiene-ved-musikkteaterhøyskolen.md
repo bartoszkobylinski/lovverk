@@ -15,7 +15,7 @@ xml_hash: "ad2ec657a0f76e894806fb51ebca2e8cef0e3ce734b38782e7c7df858363f163"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,12 @@ Aksept av tilbudt studieplass gir studierett i henhold til normert studietid for
 
 Søknad om studieplass sendes Musikkteaterhøyskolen innen søknadsfristen. Søknadsskjemaet og søknadsfristen legges ut på skolens hjemmeside medio desember hvert år.
 
-En søknad skal inneholde:Ferdig utfylt søknadsskjema med personopplysninger.Dokumentasjon på fullført og bestått videregående opplæring, treningserfaring, arbeidspraksis og annen relevant informasjon. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.Studenter som søker på bakgrunn av realkompetanse, legger ved dokumentasjon på treningserfaring, arbeidspraksis og annen relevant informasjon. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.Helseattest som bekrefter at søker ikke har noen fysiske skader som kan være til hinder for at utdannelsen kan fullføres.
+En søknad skal inneholde:
+
+- Ferdig utfylt søknadsskjema med personopplysninger.
+- Dokumentasjon på fullført og bestått videregående opplæring, treningserfaring, arbeidspraksis og annen relevant informasjon. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.
+- Studenter som søker på bakgrunn av realkompetanse, legger ved dokumentasjon på treningserfaring, arbeidspraksis og annen relevant informasjon. Referanse fra oppdragsgivere og pedagoger skal være attesterte og påført kontaktinformasjon.
+- Helseattest som bekrefter at søker ikke har noen fysiske skader som kan være til hinder for at utdannelsen kan fullføres.
 
 Dokumentasjonen skal sendes inn sammen med søknad. Søknaden skal være komplett før den behandles. Ved søknadsfristens utløp, avvises søkere som ikke finnes å være søknadsberettiget.
 
@@ -112,11 +117,20 @@ Dersom Musikkteaterhøyskolen oppdager at en søker har levert falskt vitnemål 
 
 (2) Studenter med studierett ved Musikkteaterhøyskolen plikter å undertegne og samtykke i bestemmelsene i studiekontrakten samt betale semesteravgift innen gjeldene frister til den studentsamskipnaden Musikkteaterhøyskolen er medlem av.
 
-(3) Alle studenter har krav på og er forpliktet til å inngå en utdanningsplan, jf. UH-loven [§ 4-2](forskrift/2012-08-03-1479/§4-2). Ved å godta denne utdanningsplanen bekrefter studenten følgende for det inneværende semesteret:hvilke emner studenten skal følge undervisning og/eller bli vurdert ieventuelle andre aktiviteter som studenten skal delta iandre opplysninger som kan justeres og har betydning for progresjonen i eget studium.
+(3) Alle studenter har krav på og er forpliktet til å inngå en utdanningsplan, jf. UH-loven [§ 4-2](forskrift/2012-08-03-1479/§4-2). Ved å godta denne utdanningsplanen bekrefter studenten følgende for det inneværende semesteret:
+
+- hvilke emner studenten skal følge undervisning og/eller bli vurdert i
+- eventuelle andre aktiviteter som studenten skal delta i
+- andre opplysninger som kan justeres og har betydning for progresjonen i eget studium.
 
 ### § 3-2. Opphør av studierett
 
-(1) Studieretten til studieprogrammet studenten er tatt opp til, opphører når:studenten oppfyller kravene for tildeling av vitnemål for fullført studieprogramstudenten selv bekrefter at han/hun trekker seg fra studieprogrammet før det er fullførtdet i løpet av et år ikke er oppnådd studiepoeng, innvilget permisjonssøknad eller delstudier i utlandetstudenten fratas sin studierett, jf. UH-loven § 4-7, § 4-8, § 4-9 og § 4-10.
+(1) Studieretten til studieprogrammet studenten er tatt opp til, opphører når:
+
+- studenten oppfyller kravene for tildeling av vitnemål for fullført studieprogram
+- studenten selv bekrefter at han/hun trekker seg fra studieprogrammet før det er fullført
+- det i løpet av et år ikke er oppnådd studiepoeng, innvilget permisjonssøknad eller delstudier i utlandet
+- studenten fratas sin studierett, jf. UH-loven § 4-7, § 4-8, § 4-9 og § 4-10.
 
 (2) En student som på grunn av ikke beståtte eksamener, prøver og/eller permisjoner, herunder også sykepermisjoner, er mer enn to år forsinket i forhold til den normale studieprogresjon, mister sin studierett.
 
@@ -198,7 +212,16 @@ Studieåret er normert til ti måneder fordelt på to semestre. Rektor fastsette
 
 ### § 6-1. Eksamensformer
 
-(1) Eksamen eller prøver kan gjennomføres som:forestillingervisningeroppgaverskriftlig prøvepraktisk prøvemuntlig prøvefremlegging av arbeid/mappekombinasjon av ovennevnte eksamensformer.
+(1) Eksamen eller prøver kan gjennomføres som:
+
+- forestillinger
+- visninger
+- oppgaver
+- skriftlig prøve
+- praktisk prøve
+- muntlig prøve
+- fremlegging av arbeid/mappe
+- kombinasjon av ovennevnte eksamensformer.
 
 (2) Eksamen eller prøve kan gjennomføres individuelt eller gruppevis. Hvilke(n) eksamens-/prøveform(er) som benyttes i det enkelte emne fremgår av studieplan.
 
@@ -286,7 +309,10 @@ For fag og emner som opphører gjelder følgende: Dersom det etter siste ordinæ
 
 ### § 6-10. Vurderingsuttrykk
 
-(1) Musikkteaterhøyskolen benytter begge vurderingsuttrykk som er angitt i UH-loven § 3-9:graderte karakterer etter en skala fra A til F, der A er beste karakter og E er laveste ståkarakter, F er stryk.Bestått eller ikke bestått
+(1) Musikkteaterhøyskolen benytter begge vurderingsuttrykk som er angitt i UH-loven § 3-9:
+
+- graderte karakterer etter en skala fra A til F, der A er beste karakter og E er laveste ståkarakter, F er stryk.
+- Bestått eller ikke bestått
 
 (2) Hvilket vurderingsuttrykk som benyttes ved den enkelte eksamen, prøve eller bedømmelse av oppgave, fastsettes i studieplanen og tas med i beskrivelsen av hvert enkelt emne.
 
@@ -296,7 +322,9 @@ For fag og emner som opphører gjelder følgende: Dersom det etter siste ordinæ
 
 Sensur behandles etter UH-loven.
 
-(1) Styret oppnevner sensorer ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering når resultatet inngår på vitnemålet eller innregnes i karakter for vedkommende studium.Styret selv gir forskrift om avleggelse av og gjennomføring av eksamener og prøver, herunder vilkår for å gå opp til eksamen eller prøve på nytt. Bruk av sensorer er fastsatt i studieplaner og tas med i beskrivelsen av fag og emner.
+(1) Styret oppnevner sensorer ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering når resultatet inngår på vitnemålet eller innregnes i karakter for vedkommende studium.
+
+Styret selv gir forskrift om avleggelse av og gjennomføring av eksamener og prøver, herunder vilkår for å gå opp til eksamen eller prøve på nytt. Bruk av sensorer er fastsatt i studieplaner og tas med i beskrivelsen av fag og emner.
 
 (2) Den som påtar seg sensoroppdrag, bør samtidig, så sant det er praktisk mulig, være sensor ved eventuell ny og utsatt eksamen i samme fag/kurs/emne.
 

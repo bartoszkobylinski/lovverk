@@ -32,13 +32,30 @@ Departementet skal, ved eventuelle endringer i EUs liste over ikke-samarbeidsvil
 
 ## § 3. Stater oppført i vedlegg I over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål
 
-Følgende stater er oppført i vedlegg I over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:Amerikansk SamoaAnguillaGuamPalauPanamaRusslandDe amerikanske JomfruøyeneTurks- og CaicosøyeneVanuatuVietnam.
+Følgende stater er oppført i vedlegg I over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:
+
+1. Amerikansk Samoa
+2. Anguilla
+3. Guam
+4. Palau
+5. Panama
+6. Russland
+7. De amerikanske Jomfruøyene
+8. Turks- og Caicosøyene
+9. Vanuatu
+10. Vietnam.
 
 > Endret ved forskrift [22 juni 2026 nr. 1214](forskrift/2026-06-22-1214) (i kraft 1 juli 2026).
 
 ## § 4. Stater oppført i vedlegg II over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål
 
-Følgende stater er oppført i vedlegg II over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:BelizeDe britiske JomfruøyeneBruneiEswatiniTyrkia.
+Følgende stater er oppført i vedlegg II over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:
+
+1. Belize
+2. De britiske Jomfruøyene
+3. Brunei
+4. Eswatini
+5. Tyrkia.
 
 > Endret ved forskrift [22 juni 2026 nr. 1214](forskrift/2026-06-22-1214) (i kraft 1 juli 2026).
 

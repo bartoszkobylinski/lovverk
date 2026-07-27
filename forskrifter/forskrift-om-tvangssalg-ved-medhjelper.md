@@ -74,13 +74,26 @@ Medhjelperens godtgjørelse fastsettes av namsmyndigheten etter reglene i dette 
 
 ### § 3-2. Godtgjørelse ved tvangssalg av løsøre
 
-Ved gjennomføring av tvangssalg av løsøre etter [tvangsfullbyrdelsesloven kapittel 8](lov/1992-06-26-86/kap8) har medhjelperen krav på godtgjørelse etter følgende satser:10 % av kjøpesummen til og med kr 50.000,2 % av det overskytende til og med kr 200.000 og1 % av det overskytende.
+Ved gjennomføring av tvangssalg av løsøre etter [tvangsfullbyrdelsesloven kapittel 8](lov/1992-06-26-86/kap8) har medhjelperen krav på godtgjørelse etter følgende satser:
 
-Dersom medhjelperen skal fordele og utbetale kjøpesummen til de berettigede, beregnes et tillegg etter følgende satser:5 % av kjøpesummen til og med kr 50.000 og2 % av det overskytende til og med kr 200.000.
+- 10 % av kjøpesummen til og med kr 50.000,
+- 2 % av det overskytende til og med kr 200.000 og
+- 1 % av det overskytende.
+
+Dersom medhjelperen skal fordele og utbetale kjøpesummen til de berettigede, beregnes et tillegg etter følgende satser:
+
+- 5 % av kjøpesummen til og med kr 50.000 og
+- 2 % av det overskytende til og med kr 200.000.
 
 ### § 3-3. Godtgjørelse ved tvangssalg av fast eiendom og adkomsdokumenter til leierett til bolig
 
-Ved gjennomføring av tvangssalg av fast eiendom etter [tvangsfullbyrdelsesloven kapittel 11](lov/1992-06-26-86/kap11) eller adkomstdokumenter til leierett til bolig etter [tvangsfullbyrdelsesloven kapittel 12](lov/1992-06-26-86/kap12) har medhjelperen krav på godtgjørelse etter følgende satser:3 % av kjøpesummen til og med kr 500.000,2 % av det overskytende til og med kr 1.000.000 og1 % av det overskytende til og med kr 3.000.000.Godtgjørelsen skal likevel minst være lik 10 ganger rettsgebyret.
+Ved gjennomføring av tvangssalg av fast eiendom etter [tvangsfullbyrdelsesloven kapittel 11](lov/1992-06-26-86/kap11) eller adkomstdokumenter til leierett til bolig etter [tvangsfullbyrdelsesloven kapittel 12](lov/1992-06-26-86/kap12) har medhjelperen krav på godtgjørelse etter følgende satser:
+
+- 3 % av kjøpesummen til og med kr 500.000,
+- 2 % av det overskytende til og med kr 1.000.000 og
+- 1 % av det overskytende til og med kr 3.000.000.
+
+Godtgjørelsen skal likevel minst være lik 10 ganger rettsgebyret.
 
 Dersom kjøpesummen kan antas å overstige kr 3.000.000, kan første ledd fravikes ved avtale mellom retten og medhjelperen inntil utkastet til fordelingskjennelse er forelagt for rettighetshaverne.
 

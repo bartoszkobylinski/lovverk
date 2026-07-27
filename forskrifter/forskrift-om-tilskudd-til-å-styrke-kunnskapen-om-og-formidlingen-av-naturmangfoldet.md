@@ -46,17 +46,33 @@ Artsdatabanken gjør kjent prioriteringene gjennom de enkelte utlysningene av ti
 
 Søknad om tilskudd skal sendes Artsdatabanken etter de krav og tidsfrister som er oppgitt i utlysningen. Artsdatabanken kan be om utfyllende opplysninger som er nødvendige for å behandle søknaden.
 
-Søknaden skal inneholde informasjon omsøkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson.søkerens særlige kvalifikasjoner for å gjennomføre tiltakethva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningensøknadsbeløpdetaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem.egenfinansiering og/eller egen arbeidsinnsats (dugnad)opplysning om søker også utøver økonomisk aktivitet, jf. [§ 11](forskrift/2023-11-15-1887/§11)om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte (tiltaket).
+Søknaden skal inneholde informasjon om
+
+1. søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson.
+2. søkerens særlige kvalifikasjoner for å gjennomføre tiltaket
+3. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningen
+4. søknadsbeløp
+5. detaljert budsjett og en komplett finansieringsplan, der også eventuelle andre offentlige tilskudd kommer frem.
+6. egenfinansiering og/eller egen arbeidsinnsats (dugnad)
+7. opplysning om søker også utøver økonomisk aktivitet, jf. [§ 11](forskrift/2023-11-15-1887/§11)
+8. om søker har eller forventer å få refusjon for merverdiavgift gjennom ordinær terminoppgave for det omsøkte (tiltaket).
 
 Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i fem år regnet fra 1. januar i søknadsåret.
 
 ## § 7. Tilleggsopplysninger, kontroll og befaring (før vedtak)
 
-Artsdatabanken kan i tillegg til opplysningene i søknaden:kreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utleveregå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Artsdatabanken kan i tillegg til opplysningene i søknaden:
+
+1. kreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 8. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til Artsdatabanken dersomsøker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysningeruberettiget tilskudd er utbetalt.
+Søker plikter straks å melde fra til Artsdatabanken dersom
+
+1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+2. uberettiget tilskudd er utbetalt.
 
 ## § 9. Behandling av søknad om tilskudd
 

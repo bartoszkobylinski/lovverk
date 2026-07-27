@@ -54,7 +54,13 @@ Det svares formuesskatt til kommunen dersom skattyter ikke er fritatt for slik s
 
 ### § 3-1. Trinnskatt
 
-Personlig skattyter i klasse 0 og 1 skal av personinntekt fastsatt etter [skatteloven kapittel 12](lov/1999-03-26-14/kap12), svare trinnskatt til staten med1,7 pst. for den delen av inntekten som overstiger 217 400 kroner,4,0 pst. for den delen av inntekten som overstiger 306 050 kroner,13,7 pst. for den delen av inntekten som overstiger 697 150 kroner,16,7 pst. for den delen av inntekten som overstiger 942 400 kroner, og17,7 pst. for den delen av inntekten som overstiger 1 410 750 kroner.
+Personlig skattyter i klasse 0 og 1 skal av personinntekt fastsatt etter [skatteloven kapittel 12](lov/1999-03-26-14/kap12), svare trinnskatt til staten med
+
+- 1,7 pst. for den delen av inntekten som overstiger 217 400 kroner,
+- 4,0 pst. for den delen av inntekten som overstiger 306 050 kroner,
+- 13,7 pst. for den delen av inntekten som overstiger 697 150 kroner,
+- 16,7 pst. for den delen av inntekten som overstiger 942 400 kroner, og
+- 17,7 pst. for den delen av inntekten som overstiger 1 410 750 kroner.
 
 Dersom skattyter er bosatt i riket bare en del av året, nedsettes beløpene i første ledd forholdsmessig under hensyn til det antall hele eller påbegynte måneder av året han har vært bosatt her. Tilsvarende gjelder for skattyter som ikke er bosatt i riket, men som plikter å svare skatt etter [skatteloven § 2-3 første](lov/1999-03-26-14/§2-3/ledd/1) og [annet ledd](lov/1999-03-26-14/§2-3/ledd/2) eller [lov om skattlegging av undersjøiske petroleumsforekomster mv.](lov/1975-06-13-35)
 
@@ -62,7 +68,10 @@ Dersom skattyter er bosatt i riket bare en del av året, nedsettes beløpene i f
 
 Enhver som plikter å betale inntektsskatt til kommunen etter [skatteloven](lov/1999-03-26-14), skal betale fellesskatt til staten. Fellesskatten skal beregnes på samme grunnlag som inntektsskatten til kommunene.
 
-Satsen for fellesskatt skal være:For personlig skattepliktig og dødsbo i Finnmark fylke eller kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylke: 3,1 pst.For personlig skattepliktig og dødsbo ellers: 6,6 pst.
+Satsen for fellesskatt skal være:
+
+- For personlig skattepliktig og dødsbo i Finnmark fylke eller kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylke: 3,1 pst.
+- For personlig skattepliktig og dødsbo ellers: 6,6 pst.
 
 Satsene i annet ledd gjelder ikke for eierinntekt som skal oppjusteres etter [skatteloven § 5-22 annet ledd tredje punktum](lov/1999-03-26-14/§5-22/ledd/2/setning/3), [§ 10-11 første ledd annet punktum](lov/1999-03-26-14/§10-11/ledd/1/setning/2), [§ 10-21 fjerde ledd tredje punktum](lov/1999-03-26-14/§10-21/ledd/4/setning/3), [§ 10-21 åttende ledd tredje punktum](lov/1999-03-26-14/§10-21/ledd/8/setning/3), [§ 10-31 første ledd fjerde punktum](lov/1999-03-26-14/§10-31/ledd/1/setning/4), [§ 10-31 annet ledd annet punktum](lov/1999-03-26-14/§10-31/ledd/2/setning/2), [§ 10-42 tredje ledd bokstav b](lov/1999-03-26-14/§10-42/ledd/3/bokstav/b) og [§ 10-44 første ledd tredje punktum](lov/1999-03-26-14/§10-44/ledd/1/setning/3). For slik inntekt skal satsen for fellesskatt være 18,5 pst. for skattytere som nevnt i annet ledd første strekpunkt, og 22 pst. for skattytere som nevnt i annet ledd annet strekpunkt.
 
@@ -140,7 +149,12 @@ Det svares ikke skatt av aksjeutbytte som utdeles fra i riket hjemmehørende aks
 
 ### § 5-1. Tonnasjeskatt
 
-Aksjeselskap, allmennaksjeselskap og tilsvarende selskap hjemmehørende i annen EØS-stat som nevnt i [skatteloven § 8-10](lov/1999-03-26-14/§8-10), skal svare tonnasjeskatt, jf. [skatteloven § 8-16](lov/1999-03-26-14/§8-16), etter følgende satser:90 øre per dag per 100 nettotonn for de første 1 000 nettotonn, deretter18 kroner per dag per 1 000 nettotonn opp til 10 000 nettotonn, deretter12 kroner per dag per 1 000 nettotonn opp til 25 000 nettotonn, deretter6 kroner per dag per 1 000 nettotonn.
+Aksjeselskap, allmennaksjeselskap og tilsvarende selskap hjemmehørende i annen EØS-stat som nevnt i [skatteloven § 8-10](lov/1999-03-26-14/§8-10), skal svare tonnasjeskatt, jf. [skatteloven § 8-16](lov/1999-03-26-14/§8-16), etter følgende satser:
+
+- 90 øre per dag per 100 nettotonn for de første 1 000 nettotonn, deretter
+- 18 kroner per dag per 1 000 nettotonn opp til 10 000 nettotonn, deretter
+- 12 kroner per dag per 1 000 nettotonn opp til 25 000 nettotonn, deretter
+- 6 kroner per dag per 1 000 nettotonn.
 
 Satsene i første ledd kan reduseres etter nærmere bestemmelser fastsatt av departementet, jf. [skatteloven § 8-16 første ledd](lov/1999-03-26-14/§8-16/ledd/1).
 

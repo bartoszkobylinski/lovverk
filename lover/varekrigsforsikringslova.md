@@ -15,7 +15,7 @@ xml_hash: "f8e9ad123a2a248cad2a15124ab02af0117fbee490b504a788a1df21abf3069c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,10 @@ Kongen kan avslutte tilbodet om statleg varekrigsforsikring dersom dei vilkår s
 
 ## § 2. Verkeområde
 
-Staten kan tilby varetransportforsikring ved krig, krigsfare eller ekstraordinære kriseforhold av:varer som blir sende til, frå eller innafor norsk område, og når det er norske interesser som blir dekte, også av varer som blir sende mellom stader i utlandet.norske reiarar og tidsbefraktarar si frakt på reisebasis, befraktingskommisjon og havaripengar i risiko for norske forsikringstakarar.
+Staten kan tilby varetransportforsikring ved krig, krigsfare eller ekstraordinære kriseforhold av:
+
+1. varer som blir sende til, frå eller innafor norsk område, og når det er norske interesser som blir dekte, også av varer som blir sende mellom stader i utlandet.
+2. norske reiarar og tidsbefraktarar si frakt på reisebasis, befraktingskommisjon og havaripengar i risiko for norske forsikringstakarar.
 
 Kongen eller den han gir mynde kan fastsetje at også andre interesser kan bli dekte.
 

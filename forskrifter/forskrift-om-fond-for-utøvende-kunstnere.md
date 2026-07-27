@@ -60,7 +60,9 @@ Styret kan fastsette vedtekter for fondet. Vedtektene skal godkjennes av departe
 
 ### § 4. Avgift for offentlig framføring av ikke-vernede lydopptak
 
-Avgift for offentlig framføring av ikke-vernede lydopptak skal beregnes slik:Vederlaget til Gramo etter [åndsverkloven § 21](lov/1961-05-12-2/§21) for det enkelte beregningsområde for offentlig framføring av vernede lydopptak deles på den prosentvise andelen vernede lydopptak. Deretter multipliseres dette beløpet med den prosentvise andelen ikke-vernede lydopptak.
+Avgift for offentlig framføring av ikke-vernede lydopptak skal beregnes slik:
+
+Vederlaget til Gramo etter [åndsverkloven § 21](lov/1961-05-12-2/§21) for det enkelte beregningsområde for offentlig framføring av vernede lydopptak deles på den prosentvise andelen vernede lydopptak. Deretter multipliseres dette beløpet med den prosentvise andelen ikke-vernede lydopptak.
 
 Før endelig beregning av avgiften foreligger kan styret i avgiftsåret forlodds innkreve inntil 75% av antatt avgift. Antatt avgift beregnes på grunnlag av opplysninger om framføring av lydopptak i en viss periode for beregningsområdet, eller ved beregning av avgiften etter første ledd på grunnlag av siste års beregnede vederlag for beregningsområdet.
 

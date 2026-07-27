@@ -44,9 +44,55 @@ Den registrerte har rett til å reservere seg mot behandling av helseopplysninge
 
 ## § 4. Innholdet i en nasjonal kjernejournal
 
-Uten samtykke kan en nasjonal kjernejournal inneholde:navn og fødselsnummer eller D-nummerkontaktinformasjon til den registrertekontaktinformasjon tilpårørendefastlege eller annen legeaktuelle kommunale helse- og omsorgstjenesteren oversikt over legemidler og annet rekvirert på reseptfra Reseptformidleren som er rekvirert og/eller utlevertordinert internt i sykehjemfra fastlege eller annet behandlende helsepersonellkritisk informasjon omalvorlige allergiske reaksjoner og andre overfølsomhetsreaksjonerimplantaterhelsehjelp som kan være kontraindisertandre kritiske opplysninger, blant annet dersom vanlig behandlingsrutine ikke skal følges, komplikasjoner etter tidligere helsehjelp, medisinsk tilstand som krever særlig oppmerksomhet, pågående behandling og meldepliktige infeksjonssykdommer der sykdommen vil kunne påvirke valg av helsehjelplaboratorie- og bildediagnostiske svar ommedisinsk biokjemiklinisk farmakologiimmunologi og transfusjonsmedisinmedisinsk mikrobiologimedisinsk genetikkpatologiradiologinukleærmedisinpasientens kontakt med helsetjenesten vedtid og sted for kontakt med spesialisthelsetjenestentid og sted for kontakt med kommunal helse- og omsorgstjenestereferanse til ytterligere informasjon, herunder epikriser, prøvesvar, billedundersøkelser og henvisningerpasientens felteradministrativ informasjon omeventuell reservasjon mot at det opprettes en kjernejournalsamtykke til tilgang til journalopplysningertilgangsbegrensningerkrav om retting og sletting som er under behandling i primærkildenlogg over hvem som har hatt tilgang til opplysninger om pasienten.
+Uten samtykke kan en nasjonal kjernejournal inneholde:
 
-Samtykker den registrerte kan kjernejournalen inneholde:førstevalg behandlingavtalte behandlings- og omsorgstiltakreservasjon mot behandling, jf. [pasient- og brukerrettighetsloven § 4-9](lov/1999-07-02-63/§4-9).
+1. navn og fødselsnummer eller D-nummer
+2. kontaktinformasjon til den registrerte
+3. kontaktinformasjon til
+
+   1. pårørende
+   2. fastlege eller annen lege
+   3. aktuelle kommunale helse- og omsorgstjenester
+4. en oversikt over legemidler og annet rekvirert på resept
+
+   1. fra Reseptformidleren som er rekvirert og/eller utlevert
+   2. ordinert internt i sykehjem
+   3. fra fastlege eller annet behandlende helsepersonell
+5. kritisk informasjon om
+
+   1. alvorlige allergiske reaksjoner og andre overfølsomhetsreaksjoner
+   2. implantater
+   3. helsehjelp som kan være kontraindisert
+   4. andre kritiske opplysninger, blant annet dersom vanlig behandlingsrutine ikke skal følges, komplikasjoner etter tidligere helsehjelp, medisinsk tilstand som krever særlig oppmerksomhet, pågående behandling og meldepliktige infeksjonssykdommer der sykdommen vil kunne påvirke valg av helsehjelp
+6. laboratorie- og bildediagnostiske svar om
+
+   1. medisinsk biokjemi
+   2. klinisk farmakologi
+   3. immunologi og transfusjonsmedisin
+   4. medisinsk mikrobiologi
+   5. medisinsk genetikk
+   6. patologi
+   7. radiologi
+   8. nukleærmedisin
+7. pasientens kontakt med helsetjenesten ved
+
+   1. tid og sted for kontakt med spesialisthelsetjenesten
+   2. tid og sted for kontakt med kommunal helse- og omsorgstjeneste
+8. referanse til ytterligere informasjon, herunder epikriser, prøvesvar, billedundersøkelser og henvisninger
+9. pasientens felter
+10. administrativ informasjon om
+
+    1. eventuell reservasjon mot at det opprettes en kjernejournal
+    2. samtykke til tilgang til journalopplysninger
+    3. tilgangsbegrensninger
+    4. krav om retting og sletting som er under behandling i primærkilden
+    5. logg over hvem som har hatt tilgang til opplysninger om pasienten.
+
+Samtykker den registrerte kan kjernejournalen inneholde:
+
+1. førstevalg behandling
+2. avtalte behandlings- og omsorgstiltak
+3. reservasjon mot behandling, jf. [pasient- og brukerrettighetsloven § 4-9](lov/1999-07-02-63/§4-9).
 
 Den enkelte kan reservere seg mot at det registreres informasjon som nevnt i første ledd nr. 6. Har den registrerte reservert seg mot at det opprettes en kjernejournal, skal bare opplysninger som nevnt i § 4 første ledd nr. 1 og nr. 10 bokstav a registreres.
 
@@ -82,7 +128,13 @@ Krav om retting eller sletting av opplysninger skal fremsettes overfor primærki
 
 Kravet om samtykke etter [pasientjournalloven § 13](lov/2014-06-20-42/§13) fjerde ledd gjelder ikke i akuttsituasjoner der det er alvorlig fare for pasientens liv, når det ikke er tid til å innhente pasientens samtykke eller dersom pasienten på grunn av sin fysiske eller psykiske tilstand ikke er i stand til å samtykke. Det skal registreres i kjernejournalen hvorfor samtykke ikke er innhentet.
 
-Når det er nødvendig for å yte forsvarlig helsehjelp til pasienten, kan tilgang til helseopplysninger i den nasjonale kjernejournalen gis uten pasientens samtykke til følgende helsepersonell:fastlegenhelsepersonell med legemiddelansvar i sykehjem og i hjemmesykepleienlege og sykepleier i spesialisthelsetjenestenhelsepersonell som har oppgaver knyttet til gjennomgang, vurdering eller samstemming av en pasients legemiddelbruk i spesialisthelsetjenestenhelsepersonell i den akuttmedisinske kjeden.
+Når det er nødvendig for å yte forsvarlig helsehjelp til pasienten, kan tilgang til helseopplysninger i den nasjonale kjernejournalen gis uten pasientens samtykke til følgende helsepersonell:
+
+1. fastlegen
+2. helsepersonell med legemiddelansvar i sykehjem og i hjemmesykepleien
+3. lege og sykepleier i spesialisthelsetjenesten
+4. helsepersonell som har oppgaver knyttet til gjennomgang, vurdering eller samstemming av en pasients legemiddelbruk i spesialisthelsetjenesten
+5. helsepersonell i den akuttmedisinske kjeden.
 
 Første og andre ledd gjelder tilsvarende for tilgjengeliggjøring av pasientens legemiddelliste, jf. [forskrift om pasientjournal § 9](forskrift/2019-03-01-168/§9) og [reseptformidlerforskriften § 1-3](forskrift/2007-12-21-1610/§1-3) nr. 7. Pasienten kan motsette seg at pasientens legemiddelliste gjøres tilgjengelig, jf. [pasientjournalloven § 17](lov/2014-06-20-42/§17).
 
@@ -138,4 +190,7 @@ Forskriften trer i kraft straks.
 
 ## § 14. Endringer i andre forskrifter
 
-Samtidig gjøres følgende endringer i andre forskrifter:I [forskrift 21. desember 2007 nr. 1610](forskrift/2007-12-21-1610) om behandling av helseopplysninger i nasjonal database for elektroniske resepter gjøres følgende endringer: – – –I [forskrift 7. desember 2007 nr. 1389](forskrift/2007-12-07-1389) om innsamling og behandling av helseopplysninger i Norsk pasientregister gjøres følgende endringer: – – –
+Samtidig gjøres følgende endringer i andre forskrifter:
+
+1. I [forskrift 21. desember 2007 nr. 1610](forskrift/2007-12-21-1610) om behandling av helseopplysninger i nasjonal database for elektroniske resepter gjøres følgende endringer: – – –
+2. I [forskrift 7. desember 2007 nr. 1389](forskrift/2007-12-07-1389) om innsamling og behandling av helseopplysninger i Norsk pasientregister gjøres følgende endringer: – – –

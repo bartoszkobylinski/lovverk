@@ -15,7 +15,7 @@ xml_hash: "44dc96845bacb7ec839c9daa8cdf943cf7851c91196c4dad276a0e63d976fc9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,17 +26,38 @@ eu_basis: []
 
 ### § 1-1. Lovens virkeområde
 
-Loven gjelder for fastsetting avskatt på formue og inntekt, tonnasjeskatt, naturressursskatt og grunnrenteskatt etter skatteloven og trygdeavgift etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23) (formues- og inntektsskatt)skatt på formue og inntekt etter Svalbardskatteloven (svalbardskatt)skatt på inntekt etter Jan Mayen-skatteloven (Jan Mayen-skatt)skatt på inntekt etter artistskatteloven (artistskatt)skatt på formue og inntekt etter petroleumsskatteloven (petroleumsskatt)merverdiavgift etter merverdiavgiftsloven (merverdiavgift)arbeidsgiveravgift etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23) (arbeidsgiveravgift)særavgifter etter særavgiftsloven (særavgifter)avgifter etter motorkjøretøy- og båtavgiftsloven (motorkjøretøyavgifter)kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. etter merverdiavgiftskompensasjonsloven (merverdiavgiftskompensasjon)finansskatt på lønn etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23) (finansskatt på lønn)suppleringsskatt etter [suppleringsskatteloven](lov/2024-01-12-1).
+Loven gjelder for fastsetting av
+
+1. skatt på formue og inntekt, tonnasjeskatt, naturressursskatt og grunnrenteskatt etter skatteloven og trygdeavgift etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23) (formues- og inntektsskatt)
+2. skatt på formue og inntekt etter Svalbardskatteloven (svalbardskatt)
+3. skatt på inntekt etter Jan Mayen-skatteloven (Jan Mayen-skatt)
+4. skatt på inntekt etter artistskatteloven (artistskatt)
+5. skatt på formue og inntekt etter petroleumsskatteloven (petroleumsskatt)
+6. merverdiavgift etter merverdiavgiftsloven (merverdiavgift)
+7. arbeidsgiveravgift etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23) (arbeidsgiveravgift)
+8. særavgifter etter særavgiftsloven (særavgifter)
+9. avgifter etter motorkjøretøy- og båtavgiftsloven (motorkjøretøyavgifter)
+10. kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. etter merverdiavgiftskompensasjonsloven (merverdiavgiftskompensasjon)
+11. finansskatt på lønn etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23) (finansskatt på lønn)
+12. suppleringsskatt etter [suppleringsskatteloven](lov/2024-01-12-1).
 
 > Endret ved [lover 20 des 2016 nr. 120](lov/2016-12-20-120), [12 jan 2024 nr. 7](lov/2024-01-12-7) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 1-2. Definisjoner
 
-I denne loven menes medskatt: skatter, avgifter og merverdiavgiftskompensasjon som nevnt i [§ 1-1](lov/2016-05-27-14/§1-1)skattepliktig: fysisk eller juridisk person som skal svare eller få kompensert skattskattemyndigheter: myndigheter som nevnt i [kapittel 2](lov/2016-05-27-14/kap2)enkeltvedtak: avgjørelse som treffes av skattemyndighetene i medhold av denne loven og som er bestemmende for rettigheter eller plikter til en bestemt skattepliktig, tredjepart eller trekkpliktig.
+I denne loven menes med
+
+1. skatt: skatter, avgifter og merverdiavgiftskompensasjon som nevnt i [§ 1-1](lov/2016-05-27-14/§1-1)
+2. skattepliktig: fysisk eller juridisk person som skal svare eller få kompensert skatt
+3. skattemyndigheter: myndigheter som nevnt i [kapittel 2](lov/2016-05-27-14/kap2)
+4. enkeltvedtak: avgjørelse som treffes av skattemyndighetene i medhold av denne loven og som er bestemmende for rettigheter eller plikter til en bestemt skattepliktig, tredjepart eller trekkpliktig.
 
 ### § 1-3. Forholdet til forvaltningsloven
 
-Forvaltningsloven gjelder ikke for behandling av saker etter denne loven, med følgende unntak:[Forvaltningsloven § 15 a](lov/1967-02-10/§15a) om elektronisk kommunikasjon og forskrifter gitt i medhold av bestemmelsen gjelder for behandlingen av saker etter denne loven. Departementet kan gi forskrift som angitt i [forvaltningsloven § 15 a](lov/1967-02-10/§15a) tredje ledd for behandlingen av saker etter loven her.[Forvaltningsloven kapittel VII](lov/1967-02-10/kapvii) om forskrifter gjelder for behandlingen av saker etter denne loven.
+Forvaltningsloven gjelder ikke for behandling av saker etter denne loven, med følgende unntak:
+
+1. [Forvaltningsloven § 15 a](lov/1967-02-10/§15a) om elektronisk kommunikasjon og forskrifter gitt i medhold av bestemmelsen gjelder for behandlingen av saker etter denne loven. Departementet kan gi forskrift som angitt i [forvaltningsloven § 15 a](lov/1967-02-10/§15a) tredje ledd for behandlingen av saker etter loven her.
+2. [Forvaltningsloven kapittel VII](lov/1967-02-10/kapvii) om forskrifter gjelder for behandlingen av saker etter denne loven.
 
 ## Kapittel 2 Skattemyndigheter
 
@@ -92,7 +113,12 @@ Skattekontoret og Oljeskattekontoret er skattemyndigheter i første instans.
 
 ### § 2-10. Utelukkingsgrunner
 
-Utelukket fra å gjøre tjeneste som medlem av nemnd som nevnt i [§§ 2-1](lov/2016-05-27-14/§2-1) til [2-3](lov/2016-05-27-14/§2-3) erRiksadvokaten, statsadvokater, politiembetsmenn, politiadvokater og politifullmektigeransatte i Finansdepartementet, tjenestemenn i Skattedirektoratet, ved skattekontorene og i sekretariatet for Skatteklagenemndaenhver som i løpet av de ti siste årene er straffet for overtredelse av denne loven, [ligningsloven](lov/1980-06-13-24), [merverdiavgiftsloven](lov/2009-06-19-58), [skattebetalingsloven](lov/2005-06-17-67), [innkrevingsloven](lov/2025-04-25-12), [straffeloven §§ 378](lov/2005-05-20-28/§378) til [380](lov/2005-05-20-28/§380) og [406](lov/2005-05-20-28/§406), [regnskapsloven](lov/1998-07-17-56) eller [bokføringsloven](lov/2004-11-19-73)enhver som i løpet av de ti siste årene er ilagt skjerpet tilleggsskatt etter [§ 14-6](lov/2016-05-27-14/§14-6).
+Utelukket fra å gjøre tjeneste som medlem av nemnd som nevnt i [§§ 2-1](lov/2016-05-27-14/§2-1) til [2-3](lov/2016-05-27-14/§2-3) er
+
+1. Riksadvokaten, statsadvokater, politiembetsmenn, politiadvokater og politifullmektiger
+2. ansatte i Finansdepartementet, tjenestemenn i Skattedirektoratet, ved skattekontorene og i sekretariatet for Skatteklagenemnda
+3. enhver som i løpet av de ti siste årene er straffet for overtredelse av denne loven, [ligningsloven](lov/1980-06-13-24), [merverdiavgiftsloven](lov/2009-06-19-58), [skattebetalingsloven](lov/2005-06-17-67), [innkrevingsloven](lov/2025-04-25-12), [straffeloven §§ 378](lov/2005-05-20-28/§378) til [380](lov/2005-05-20-28/§380) og [406](lov/2005-05-20-28/§406), [regnskapsloven](lov/1998-07-17-56) eller [bokføringsloven](lov/2004-11-19-73)
+4. enhver som i løpet av de ti siste årene er ilagt skjerpet tilleggsskatt etter [§ 14-6](lov/2016-05-27-14/§14-6).
 
 > Endret ved lover [21 juni 2017 nr. 86](lov/2017-06-21-86), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
 
@@ -116,7 +142,11 @@ Departementet kan gi forskrift om at andre organer enn de som er nevnt i dette k
 
 (1) Enhver som har eller har hatt verv, stilling eller oppdrag knyttet til skattemyndighetene, skal hindre at uvedkommende får adgang eller kjennskap til det vedkommende i sitt arbeid har fått vite om noens formues- eller inntektsforhold eller andre økonomiske, bedriftsmessige eller personlige forhold. Den som tiltrer verv, stilling eller oppdrag, skal gi skriftlig erklæring om at vedkommende kjenner og vil overholde taushetsplikten.
 
-(2) Taushetsplikten omfatter ikkeinnholdet i skattelister som etter [§ 9-7](lov/2016-05-27-14/§9-7) skal legges ut til alminnelig ettersyn, eller senere endringer i disseopplysninger om at en næringsdrivende er eller ikke er registrert i Merverdiavgiftsregisteret, etter forenklet registreringsordning for merverdiavgift eller i medhold av særavgiftslovenregistreringspliktig statsstøtte etter [lov om nasjonale saksbehandlingsregler i saker om offentlig støtte § 7](lov/2022-03-04-7/§7) første ledd.
+(2) Taushetsplikten omfatter ikke
+
+1. innholdet i skattelister som etter [§ 9-7](lov/2016-05-27-14/§9-7) skal legges ut til alminnelig ettersyn, eller senere endringer i disse
+2. opplysninger om at en næringsdrivende er eller ikke er registrert i Merverdiavgiftsregisteret, etter forenklet registreringsordning for merverdiavgift eller i medhold av særavgiftsloven
+3. registreringspliktig statsstøtte etter [lov om nasjonale saksbehandlingsregler i saker om offentlig støtte § 7](lov/2022-03-04-7/§7) første ledd.
 
 > Endret ved lover [20 des 2016 nr. 120](lov/2016-12-20-120), [4 mars 2022 nr. 7](lov/2022-03-04-7) (i kraft 1 jan 2023 iflg. res. [16 des 2022 nr. 2252](forskrift/2022-12-16-2252)).
 
@@ -164,7 +194,11 @@ Taushetsplikten etter [§ 3-1](lov/2016-05-27-14/§3-1) er ikke til hinder for a
 
 ### § 3-7. Begrensninger i taushetsplikten når det ikke er behov for beskyttelse
 
-Taushetsplikten etter [§ 3-1](lov/2016-05-27-14/§3-1) er ikke til hinder for atopplysninger gjøres kjent i den utstrekning de som har krav på taushet samtykkeropplysninger brukes når behovet for beskyttelse må anses varetatt ved at de gis i statistisk form eller ved at individualiserende kjennetegn utelates på annen måteopplysninger brukes når de er alminnelig kjent eller alminnelig tilgjengelig andre steder.
+Taushetsplikten etter [§ 3-1](lov/2016-05-27-14/§3-1) er ikke til hinder for at
+
+1. opplysninger gjøres kjent i den utstrekning de som har krav på taushet samtykker
+2. opplysninger brukes når behovet for beskyttelse må anses varetatt ved at de gis i statistisk form eller ved at individualiserende kjennetegn utelates på annen måte
+3. opplysninger brukes når de er alminnelig kjent eller alminnelig tilgjengelig andre steder.
 
 ### § 3-8. Opplysninger til bruk for forskning
 
@@ -192,7 +226,17 @@ Hvis opplysninger gis i tilfeller som nevnt i [§§ 3-2](lov/2016-05-27-14/§3-2
 
 ### § 4-1. Habilitet
 
-(1) Inhabil til å delta i tilrettelegging av grunnlaget for en avgjørelse og ved avgjørelse av en sak er en tjenestemann og enhver annen som utfører tjeneste eller arbeid for skattemyndighetene nårsaken gjelder vedkommende selv eller noen som vedkommende er i slekt eller svogerskap med i opp- eller nedstigende linje, eller i sidelinjen til og med søskenbarnsaken gjelder noen som vedkommende er eller har vært gift, forlovet eller samboer med, eller saken gjelder barn til noen som vedkommende er gift, forlovet eller samboer medsaken gjelder vedkommendes fosterfar, fostermor eller fosterbarnsaken gjelder noen som vedkommende er eller har vært verge eller fullmektig forsaken gjelder selskap, sammenslutning, innretning, forretningsforetak eller bo der vedkommende selv eller noen som nevnt i bokstav a til d, har en ikke uvesentlig økonomisk interesse, eller der vedkommende selv, ektefelle eller samboer er medlem av styre, representantskap eller bedriftsforsamlingsaken gjelder vedkommendes klient, arbeidsgiver, noen som er vedkommendes direkte underordnede eller overordnede i arbeidsforhold utenfor skatteforvaltningen, noen som er ansatt i vedkommendes egen tjeneste, eller noen som vedkommende står i direkte konkurranseforhold tilen direkte overordnet tjenestemann er inhabil i sakenvedkommende har deltatt i tidligere avgjørelse i saken som medlem av nemnd ellerandre særegne forhold foreligger som er egnet til å svekke tilliten til vedkommendes upartiskhet.
+(1) Inhabil til å delta i tilrettelegging av grunnlaget for en avgjørelse og ved avgjørelse av en sak er en tjenestemann og enhver annen som utfører tjeneste eller arbeid for skattemyndighetene når
+
+1. saken gjelder vedkommende selv eller noen som vedkommende er i slekt eller svogerskap med i opp- eller nedstigende linje, eller i sidelinjen til og med søskenbarn
+2. saken gjelder noen som vedkommende er eller har vært gift, forlovet eller samboer med, eller saken gjelder barn til noen som vedkommende er gift, forlovet eller samboer med
+3. saken gjelder vedkommendes fosterfar, fostermor eller fosterbarn
+4. saken gjelder noen som vedkommende er eller har vært verge eller fullmektig for
+5. saken gjelder selskap, sammenslutning, innretning, forretningsforetak eller bo der vedkommende selv eller noen som nevnt i bokstav a til d, har en ikke uvesentlig økonomisk interesse, eller der vedkommende selv, ektefelle eller samboer er medlem av styre, representantskap eller bedriftsforsamling
+6. saken gjelder vedkommendes klient, arbeidsgiver, noen som er vedkommendes direkte underordnede eller overordnede i arbeidsforhold utenfor skatteforvaltningen, noen som er ansatt i vedkommendes egen tjeneste, eller noen som vedkommende står i direkte konkurranseforhold til
+7. en direkte overordnet tjenestemann er inhabil i saken
+8. vedkommende har deltatt i tidligere avgjørelse i saken som medlem av nemnd eller
+9. andre særegne forhold foreligger som er egnet til å svekke tilliten til vedkommendes upartiskhet.
 
 (2) Første ledd bokstav g er ikke til hinder for at tjenestemenn hos skattemyndighetene forbereder saken.
 
@@ -244,7 +288,10 @@ Når en tjenestemann er inhabil, skal det om nødvendig oppnevnes eller velges e
 
 (1) Enhver har rett til å gjøre seg kjent med saksdokumenter i sin egen sak.
 
-(2) Skattemyndighetene kan likevel holde tilbake dokumentsom er utarbeidet for saksforberedelsen av organet selv, over-, under- eller sideordnet organ eller av oppnevnt eller engasjert rådgiver eller sakkyndig ellernår hensynet til skattemyndighetenes kontrollarbeid tilsier det.
+(2) Skattemyndighetene kan likevel holde tilbake dokument
+
+1. som er utarbeidet for saksforberedelsen av organet selv, over-, under- eller sideordnet organ eller av oppnevnt eller engasjert rådgiver eller sakkyndig eller
+2. når hensynet til skattemyndighetenes kontrollarbeid tilsier det.
 
 (3) Selv om et dokument eller deler av det er unntatt etter annet ledd bokstav a, har vedkommende rett til å gjøre seg kjent med de deler av det som inneholder faktiske opplysninger eller sammendrag eller annen bearbeidelse av faktum. Dette gjelder likevel ikke faktiske opplysninger uten betydning for avgjørelsen og heller ikke når opplysningene eller bearbeidelsen finnes i et annet dokument som den som ber om innsyn, har tilgang til.
 
@@ -272,7 +319,11 @@ Når en tjenestemann er inhabil, skal det om nødvendig oppnevnes eller velges e
 
 (2) Forhåndsvarselet skal gjøre rede for hva saken gjelder og ellers inneholde det som anses påkrevd for at den vedtaket retter seg mot, på forsvarlig måte kan ivareta sine interesser.
 
-(3) Forhåndsvarsling kan unnlates dersomvarsling vil medføre fare for at vedtaket ikke kan gjennomføresden vedtaket retter seg mot, ikke har kjent adresse, og ettersporing vil kreve mer tid eller arbeid enn rimelig sett hen til vedkommendes interesser og til betydningen av varselet ellerden vedtaket retter seg mot, allerede ved søknad, klage eller på annen måte har fått kjennskap til at vedtak skal treffes og har hatt rimelig foranledning og tid til å uttale seg, eller varsel av andre grunner må anses åpenbart unødvendig.
+(3) Forhåndsvarsling kan unnlates dersom
+
+1. varsling vil medføre fare for at vedtaket ikke kan gjennomføres
+2. den vedtaket retter seg mot, ikke har kjent adresse, og ettersporing vil kreve mer tid eller arbeid enn rimelig sett hen til vedkommendes interesser og til betydningen av varselet eller
+3. den vedtaket retter seg mot, allerede ved søknad, klage eller på annen måte har fått kjennskap til at vedtak skal treffes og har hatt rimelig foranledning og tid til å uttale seg, eller varsel av andre grunner må anses åpenbart unødvendig.
 
 (4) Forhåndsvarsling skal unnlates ved vedtak som nevnt i [§ 9-2](lov/2016-05-27-14/§9-2) tredje ledd.
 
@@ -300,7 +351,10 @@ Når en tjenestemann er inhabil, skal det om nødvendig oppnevnes eller velges e
 
 (1) Når skattemyndighetenes enkeltvedtak blir endret til gunst for den vedtaket retter seg mot, skal vedkommende tilkjennes dekning for vesentlige kostnader som har vært nødvendige for å få endret vedtaket. Dette gjelder likevel ikke dersom endringen skyldes vedkommendes eget forhold eller forhold utenfor vedkommendes og skattemyndighetenes kontroll, eller andre særlige forhold taler mot det.
 
-(2) Spørsmålet om dekning for sakskostnader avgjøres av den myndigheten som endrer vedtaket. Spørsmålet avgjøres likevel avskattekontoret når endringsvedtaket er truffet av SkatteklagenemndaOljeskattekontoret når endringsvedtaket er truffet av Klagenemnda for petroleumsskatt.
+(2) Spørsmålet om dekning for sakskostnader avgjøres av den myndigheten som endrer vedtaket. Spørsmålet avgjøres likevel av
+
+1. skattekontoret når endringsvedtaket er truffet av Skatteklagenemnda
+2. Oljeskattekontoret når endringsvedtaket er truffet av Klagenemnda for petroleumsskatt.
 
 (3) Fristen for å sette fram krav om dekning av sakskostnader er seks uker etter at melding om endringsavgjørelsen er kommet fram.
 
@@ -364,19 +418,62 @@ Den som har opplysningsplikt etter dette kapitlet, skal innrette sin bokføring 
 
 ### § 7-2. Lønnsopplysninger mv.
 
-(1) Den som selv eller gjennom andre i løpet av en kalendermåned har utbetalt eller ytet fordel som nevnt i dette leddet, skal etter reglene i [a-opplysningsloven](lov/2012-06-22-43) gi opplysninger om alt som er ytet til den enkelte mottaker. Opplysningene skal omfattelønn og annen godtgjøring for arbeidpensjon, uføretrygd etter [folketrygdloven kapittel 12](lov/1997-02-28-19/kap12), uføreytelser fra andre ordninger, introduksjonsstønad etter [integreringsloven](lov/2020-11-06-127), kvalifiseringsstønad etter [sosialtjenesteloven](lov/2009-12-18-131), føderåd i jord- og skogbruk, livrente som ledd i pensjonsordning i arbeidsforhold, engangs- og avløsningsbeløp for slike ytelser, foreldrepenger, dagpenger under arbeidsløshet, sykepenger og lignende ytelser som skal regnes som skattepliktig inntekt for mottakeren.tips med det beløpet som skal tas med ved beregningen av skattetrekkgratiale, tantieme og godtgjøring til medlem av styre eller representantskap eller til annen tillitsmannreise-, diett- og representasjonsgodtgjøring samt annen godtgjøring til dekning av utgifter ved utførelse av arbeid, oppdrag eller verv som nevnt i bokstav a til flott eller part ved fiske eller fangstvirksomhetgodtgjøring til medlemmer av faste arbeidslag som utfører arbeid for egen regninggodtgjøring for barnepass også når dette skjer i barnepasserens hjem som ledd i selvstendig næringsvirksomhetvederlag til arbeidstaker i forbindelse med opphør av arbeidsforhold etter avskjed, oppsigelse eller avtale med arbeidsgiverengangsutbetalinger til rettighetshaver, begunstiget, bo eller arving etter [lov 27. juni 2008 nr. 62](lov/2008-06-27-62) om individuell pensjonsordning eller etter forsikringsbevis eller pensjonskapitalbevis utgått fra en individuell pensjonsavtale etter skatteloven (IPA). Det samme gjelder for engangsutbetalinger etter [innskuddspensjonsloven](lov/2000-11-24-81).
+(1) Den som selv eller gjennom andre i løpet av en kalendermåned har utbetalt eller ytet fordel som nevnt i dette leddet, skal etter reglene i [a-opplysningsloven](lov/2012-06-22-43) gi opplysninger om alt som er ytet til den enkelte mottaker. Opplysningene skal omfatte
+
+1. lønn og annen godtgjøring for arbeid
+2. pensjon, uføretrygd etter [folketrygdloven kapittel 12](lov/1997-02-28-19/kap12), uføreytelser fra andre ordninger, introduksjonsstønad etter [integreringsloven](lov/2020-11-06-127), kvalifiseringsstønad etter [sosialtjenesteloven](lov/2009-12-18-131), føderåd i jord- og skogbruk, livrente som ledd i pensjonsordning i arbeidsforhold, engangs- og avløsningsbeløp for slike ytelser, foreldrepenger, dagpenger under arbeidsløshet, sykepenger og lignende ytelser som skal regnes som skattepliktig inntekt for mottakeren.
+3. tips med det beløpet som skal tas med ved beregningen av skattetrekk
+4. gratiale, tantieme og godtgjøring til medlem av styre eller representantskap eller til annen tillitsmann
+5. reise-, diett- og representasjonsgodtgjøring samt annen godtgjøring til dekning av utgifter ved utførelse av arbeid, oppdrag eller verv som nevnt i bokstav a til f
+6. lott eller part ved fiske eller fangstvirksomhet
+7. godtgjøring til medlemmer av faste arbeidslag som utfører arbeid for egen regning
+8. godtgjøring for barnepass også når dette skjer i barnepasserens hjem som ledd i selvstendig næringsvirksomhet
+9. vederlag til arbeidstaker i forbindelse med opphør av arbeidsforhold etter avskjed, oppsigelse eller avtale med arbeidsgiver
+10. engangsutbetalinger til rettighetshaver, begunstiget, bo eller arving etter [lov 27. juni 2008 nr. 62](lov/2008-06-27-62) om individuell pensjonsordning eller etter forsikringsbevis eller pensjonskapitalbevis utgått fra en individuell pensjonsavtale etter skatteloven (IPA). Det samme gjelder for engangsutbetalinger etter [innskuddspensjonsloven](lov/2000-11-24-81).
 
 (2) Dersom en arbeidstaker i et tjenesteforhold mottar ytelse som nevnt i første ledd fra andre enn den som har arbeidstakeren i sin tjeneste, påhviler plikten til å gi opplysninger etter bestemmelsen her likevel den som har arbeidstakeren i sin tjeneste.
 
-(3) Lønnsopplysningene skal omfattefradrag som er gjort ved lønnsutbetalingene, slik som medlemsinnskudd til tjenestepensjonsordning, fradragsberettiget fagforeningskontingent mv. Det samme gjelder fradragsberettiget fagforeningskontingent som lønnstakeren legitimerer å ha betalt direkte til sin fagforening.inntektsfradrag som gis ved fastsettingen, slik som sjømannsfradrag mv.
+(3) Lønnsopplysningene skal omfatte
+
+1. fradrag som er gjort ved lønnsutbetalingene, slik som medlemsinnskudd til tjenestepensjonsordning, fradragsberettiget fagforeningskontingent mv. Det samme gjelder fradragsberettiget fagforeningskontingent som lønnstakeren legitimerer å ha betalt direkte til sin fagforening.
+2. inntektsfradrag som gis ved fastsettingen, slik som sjømannsfradrag mv.
 
 > Endret ved [lover 20 des 2016 nr. 120](lov/2016-12-20-120), [19 des 2017 nr. 128](lov/2017-12-19-128) (ikr. 1 jan 2018 med virkning for inntektsåret 2018), [22 juni 2018 nr. 71](lov/2018-06-22-71) (ikr. 1 jan 2019 med virkning for inntektsåret 2019), [20 des 2018 nr. 110](lov/2018-12-20-110) (ikr. 1 jan 2019 med virkning fra inntektsåret 2019), [23 juni 2020 nr. 108](lov/2020-06-23-108), [6 nov 2020 nr. 127](lov/2020-11-06-127) (ikr. 1 jan 2021 iflg. [res. 6 nov 2020 nr. 2247](forskrift/2020-11-06-2247)), [18 juni 2021 nr. 109](lov/2021-06-18-109).
 
 ### § 7-3. Finansielle forhold og forsikringer
 
-(1) Plikt til å gi opplysninger om finansielle forhold og forsikringer harbanker, jf. [finansforetaksloven § 2-7](lov/2015-04-10-17/§2-7)kredittforetak, jf. [finansforetaksloven § 2-8](lov/2015-04-10-17/§2-8)finansieringsforetak, jf. [finansforetaksloven § 2-9](lov/2015-04-10-17/§2-9)e-pengeforetak, jf. [finansforetaksloven § 2-11](lov/2015-04-10-17/§2-11)forsikringsforetak, jf. [finansforetaksloven § 2-12](lov/2015-04-10-17/§2-12), og forsikringsforetaks eierselskappensjonskasser, jf. [finansforetaksloven § 2-16](lov/2015-04-10-17/§2-16)låneformidlingsforetak, jf. [låneformidlingsloven § 2-2](lov/2022-12-16-91/§2-2)verdipapirforetak, jf. [verdipapirhandelloven § 2-7](lov/2007-06-29-75/§2-7) første leddverdipapirsentralerverdipapirfond og forvaltningsselskaper, jf. [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 1 og 2alternative investeringsfond og forvalter, jf. [AIF-loven § 1-2](lov/2014-06-20-28/§1-2) bokstav a og binnretning som primært, og som ledd i sin forretningsvirksomhet, investerer, administrerer eller forvalter finansielle aktiva eller penger for andres regninginnretning hvis bruttoinntekt primært kan henføres til investering, reinvestering eller handel med finansielle aktiva, når innretningen styres, forvaltes eller på annen måte ledes av en annen innretning som omfattes av dette leddetandre som har penger til forvaltning eller driver utlånsvirksomhet eller låneformidling som næring, samt andre som tar del i forvaltningen eller omsetningen av finansielle instrumenter eller andre finansielle produkter for andres regning som ledd i sin forretningsvirksomhet.Departementet kan gi forskrift om opplysningspliktiges registreringsplikt hos utenlandske skattemyndigheter.
+(1) Plikt til å gi opplysninger om finansielle forhold og forsikringer har
 
-(2) Det skal blant annet gis opplysninger ominnskuddskonti og lånekontiinnskudd i verdipapirfond og alternative investeringsfondinnskudd og andre interesser i innretninger som nevnt i første ledd bokstav l og mfinansielle instrumenter og andre finansielle produkterforsikringerindividuelle pensjonsavtaler og avtaler om individuell sparing til pensjoninnskuddspensjonsordningerspesifiserte elektroniske pengeprodukterdigitale sentralbankpenger.Opplysningene skal blant annet vise saldo eller verdi, avkastning, utbetalinger, erverv og realisasjon. Utbetalinger knyttet til individuelle pensjonsavtaler og innskuddspensjonsordninger følger reglene i [§ 7-2](lov/2016-05-27-14/§7-2). Tilsvarende gjelder for utbetalinger av uføreytelser knyttet til avtaler om individuell sparing til pensjon. Departementet kan gi forskrift om opplysningsplikt ved formidling av bestemte betalinger, og om at opplysningspliktige som nevnt i første ledd bokstav a, skal gi opplysninger om kontonummer som er aktuelle for overføring av eventuelle tilgodebeløp etter skatteavregning.
+1. banker, jf. [finansforetaksloven § 2-7](lov/2015-04-10-17/§2-7)
+2. kredittforetak, jf. [finansforetaksloven § 2-8](lov/2015-04-10-17/§2-8)
+3. finansieringsforetak, jf. [finansforetaksloven § 2-9](lov/2015-04-10-17/§2-9)
+4. e-pengeforetak, jf. [finansforetaksloven § 2-11](lov/2015-04-10-17/§2-11)
+5. forsikringsforetak, jf. [finansforetaksloven § 2-12](lov/2015-04-10-17/§2-12), og forsikringsforetaks eierselskap
+6. pensjonskasser, jf. [finansforetaksloven § 2-16](lov/2015-04-10-17/§2-16)
+7. låneformidlingsforetak, jf. [låneformidlingsloven § 2-2](lov/2022-12-16-91/§2-2)
+8. verdipapirforetak, jf. [verdipapirhandelloven § 2-7](lov/2007-06-29-75/§2-7) første ledd
+9. verdipapirsentraler
+10. verdipapirfond og forvaltningsselskaper, jf. [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 1 og 2
+11. alternative investeringsfond og forvalter, jf. [AIF-loven § 1-2](lov/2014-06-20-28/§1-2) bokstav a og b
+12. innretning som primært, og som ledd i sin forretningsvirksomhet, investerer, administrerer eller forvalter finansielle aktiva eller penger for andres regning
+13. innretning hvis bruttoinntekt primært kan henføres til investering, reinvestering eller handel med finansielle aktiva, når innretningen styres, forvaltes eller på annen måte ledes av en annen innretning som omfattes av dette leddet
+14. andre som har penger til forvaltning eller driver utlånsvirksomhet eller låneformidling som næring, samt andre som tar del i forvaltningen eller omsetningen av finansielle instrumenter eller andre finansielle produkter for andres regning som ledd i sin forretningsvirksomhet.
+
+Departementet kan gi forskrift om opplysningspliktiges registreringsplikt hos utenlandske skattemyndigheter.
+
+(2) Det skal blant annet gis opplysninger om
+
+1. innskuddskonti og lånekonti
+2. innskudd i verdipapirfond og alternative investeringsfond
+3. innskudd og andre interesser i innretninger som nevnt i første ledd bokstav l og m
+4. finansielle instrumenter og andre finansielle produkter
+5. forsikringer
+6. individuelle pensjonsavtaler og avtaler om individuell sparing til pensjon
+7. innskuddspensjonsordninger
+8. spesifiserte elektroniske pengeprodukter
+9. digitale sentralbankpenger.
+
+Opplysningene skal blant annet vise saldo eller verdi, avkastning, utbetalinger, erverv og realisasjon. Utbetalinger knyttet til individuelle pensjonsavtaler og innskuddspensjonsordninger følger reglene i [§ 7-2](lov/2016-05-27-14/§7-2). Tilsvarende gjelder for utbetalinger av uføreytelser knyttet til avtaler om individuell sparing til pensjon. Departementet kan gi forskrift om opplysningsplikt ved formidling av bestemte betalinger, og om at opplysningspliktige som nevnt i første ledd bokstav a, skal gi opplysninger om kontonummer som er aktuelle for overføring av eventuelle tilgodebeløp etter skatteavregning.
 
 (3) Det skal gis opplysninger som nevnt i annet ledd, for blant annet den enkelte kontohaver, disponent, investor, forsikringstaker, forsikrede og mottaker av utbetalinger og reelle rettighetshaver. Opplysningspliktige skal identifisere kontohavere mv. som nevnt i første punktum. Departementet kan gi forskrift om framgangsmåten ved slik identifisering, herunder om innhenting av egenerklæring om skattemessig bosted mv. Det kan gis forskrift om konsekvensene av at framgangsmåten ikke blir fulgt, herunder at kontoavtale kan sperres, avsluttes eller ikke kan inngås. Det kan også gis forskrift om at opplysningspliktige skal oppbevare opplysninger og dokumentasjon benyttet i forbindelse med identifisering.
 
@@ -422,7 +519,11 @@ Aksjeselskap, allmennaksjeselskap samt likestilt selskap og sammenslutning som n
 
 ### § 7-7. Aksjonærer mv.
 
-(1) Aksjeselskap og allmennaksjeselskap skal gi opplysninger om forhold som har betydning for skattleggingen av aksjonærene, blant annet overaksjekapitalens størrelse og aksjenes antall og størrelse, herunder endringer i løpet av skattleggingsperioden som følge av stiftelse, emisjoner, fusjon, fisjon mv.eiere av aksjer per 1. januar i fastsettingsåret, identifisert ved fødselsnummer, organisasjonsnummer eller d-nummer, endringer av aksjonærsammensetningen i løpet av skattleggingsperioden, utdelt utbytte og øvrige opplysninger som kan få betydning for skattleggingen av den enkelte aksjonær ved realisasjon av aksjeraksjenes formuesverdi, hvis aksjene ikke er børsnoterte.
+(1) Aksjeselskap og allmennaksjeselskap skal gi opplysninger om forhold som har betydning for skattleggingen av aksjonærene, blant annet over
+
+1. aksjekapitalens størrelse og aksjenes antall og størrelse, herunder endringer i løpet av skattleggingsperioden som følge av stiftelse, emisjoner, fusjon, fisjon mv.
+2. eiere av aksjer per 1. januar i fastsettingsåret, identifisert ved fødselsnummer, organisasjonsnummer eller d-nummer, endringer av aksjonærsammensetningen i løpet av skattleggingsperioden, utdelt utbytte og øvrige opplysninger som kan få betydning for skattleggingen av den enkelte aksjonær ved realisasjon av aksjer
+3. aksjenes formuesverdi, hvis aksjene ikke er børsnoterte.
 
 (2) Skattekontoret kan pålegge selskapet å levere ny melding over aksjonærene og deres skattekommuner, når verdsettingen av selskapets aksjer er endret.
 
@@ -450,7 +551,17 @@ Offentlige myndigheter som forestår skifte, og testamentsfullbyrdere plikter ut
 
 ### § 7-10. Annen opplysningsplikt for tredjepart
 
-(1) Det skal gis opplysninger til skattemyndighetene frainstitutter som forestår vitenskapelig forskning eller yrkesopplæring, om tilskudd som gir giveren rett til fradrag etter [skatteloven § 6-42](lov/1999-03-26-14/§6-42)institusjoner som mottar betaling for pass og stell av barn, om kostnader som er påløpt i året for foreldre og andre foresatte for pass og stell av barnselskaper, stiftelser og sammenslutninger som nevnt i [skatteloven § 6-50](lov/1999-03-26-14/§6-50), om gaver som gir giveren rett til fradrag etter nevnte bestemmelse, med opplysning om giverens navn og fødselsnummer eller organisasjonsnummerboligselskap og boligsameier som omfattes av [skatteloven §§ 7-3](lov/1999-03-26-14/§7-3) og [7-11](lov/1999-03-26-14/§7-11), om fordeling av inntekter, kostnader, formue og gjeld mellom andelshaverne eller sameierneden som selv eller gjennom andre har utbetalt vederlag for tjenester av teknisk, håndverksmessig, juridisk, regnskapsmessig eller annen artEnova om beløp som skal gis som avregningsfradrag for ENØK-tiltak på egen boligden som selv eller gjennom andre har utbetalt honorar eller annen godtgjøring til opphaver til åndsverkselskap i oppstarts- og vekstfasen om tildelte og innløste opsjoner til ansatte etter ordningen i [skatteloven § 5-14 andre ledd](lov/1999-03-26-14/§5-14/ledd/2)kraftleverandør om private strømkunders inntekt ved salg og overføring av strøm fra anlegg for produksjon av fornybar energi i bolig og fritidseiendom.
+(1) Det skal gis opplysninger til skattemyndighetene fra
+
+1. institutter som forestår vitenskapelig forskning eller yrkesopplæring, om tilskudd som gir giveren rett til fradrag etter [skatteloven § 6-42](lov/1999-03-26-14/§6-42)
+2. institusjoner som mottar betaling for pass og stell av barn, om kostnader som er påløpt i året for foreldre og andre foresatte for pass og stell av barn
+3. selskaper, stiftelser og sammenslutninger som nevnt i [skatteloven § 6-50](lov/1999-03-26-14/§6-50), om gaver som gir giveren rett til fradrag etter nevnte bestemmelse, med opplysning om giverens navn og fødselsnummer eller organisasjonsnummer
+4. boligselskap og boligsameier som omfattes av [skatteloven §§ 7-3](lov/1999-03-26-14/§7-3) og [7-11](lov/1999-03-26-14/§7-11), om fordeling av inntekter, kostnader, formue og gjeld mellom andelshaverne eller sameierne
+5. den som selv eller gjennom andre har utbetalt vederlag for tjenester av teknisk, håndverksmessig, juridisk, regnskapsmessig eller annen art
+6. Enova om beløp som skal gis som avregningsfradrag for ENØK-tiltak på egen bolig
+7. den som selv eller gjennom andre har utbetalt honorar eller annen godtgjøring til opphaver til åndsverk
+8. selskap i oppstarts- og vekstfasen om tildelte og innløste opsjoner til ansatte etter ordningen i [skatteloven § 5-14 andre ledd](lov/1999-03-26-14/§5-14/ledd/2)
+9. kraftleverandør om private strømkunders inntekt ved salg og overføring av strøm fra anlegg for produksjon av fornybar energi i bolig og fritidseiendom.
 
 (2) Opplysningsplikten etter første ledd bokstav e omfatter også vederlag for varer eller andre ytelser som er levert i forbindelse med slike tjenester.
 
@@ -468,7 +579,15 @@ Offentlige myndigheter som forestår skifte, og testamentsfullbyrdere plikter ut
 
 (1) Vekslings- og oppbevaringstjenester skal gi opplysninger om kryptoeiendeler og andre finansielle forhold. Departementet kan gi forskrift om hva som regnes som kryptoeiendel, og nærmere avgrensninger av hvilke tilbydere av vekslings- og oppbevaringstjenester som er opplysningspliktige.
 
-(2) For den enkelte bruker av tjenesten skal det blant annet gis opplysninger omvekslinger mellom kryptoeiendeler og offisiell valutavekslinger mellom kryptoeiendeleroverføringer av kryptoeiendeler som vederlag for kjøp eller salg av varer eller tjenesterannen veksling eller overføring av kryptoeiendeler som ikke er dekket av bokstav a, b eller cinnestående verdier.Departementet kan gi forskrift om hvilke opplysninger som skal gis, hvilke brukere det skal gis opplysninger om og beregning av markedsverdien av kryptoeiendeler og utenlandsk valuta.
+(2) For den enkelte bruker av tjenesten skal det blant annet gis opplysninger om
+
+1. vekslinger mellom kryptoeiendeler og offisiell valuta
+2. vekslinger mellom kryptoeiendeler
+3. overføringer av kryptoeiendeler som vederlag for kjøp eller salg av varer eller tjenester
+4. annen veksling eller overføring av kryptoeiendeler som ikke er dekket av bokstav a, b eller c
+5. innestående verdier.
+
+Departementet kan gi forskrift om hvilke opplysninger som skal gis, hvilke brukere det skal gis opplysninger om og beregning av markedsverdien av kryptoeiendeler og utenlandsk valuta.
 
 (3) Opplysningspliktige skal identifisere brukere av tjenesten. For brukere som er juridiske personer, skal opplysningspliktige også identifisere reelle rettighetshavere. Departementet kan gi forskrift om hvilke opplysninger som skal gis, og framgangsmåten ved slik identifisering, herunder om innhenting av egenerklæring om skattemessig bosted mv. Det kan gis forskrift om konsekvensene av at framgangsmåten ikke blir fulgt, herunder at det ikke kan gjennomføres overføringer eller transaksjoner på vegne av brukeren. Det kan også gis forskrift om at opplysningspliktige skal oppbevare opplysninger og dokumentasjon benyttet i forbindelse med identifisering og overføring.
 
@@ -510,7 +629,11 @@ Den som skal levere skattemelding mv. etter dette kapitlet, skal gi riktige og f
 
 ### § 8-2. Skattemelding for formues- og inntektsskatt, svalbardskatt og petroleumsskatt
 
-(1) Skattemelding med opplysninger om den skattepliktiges formue og inntekt, fradragsposter og andre opplysninger som har betydning for fastsetting av skattegrunnlaget etter [kapittel 9](lov/2016-05-27-14/kap9), skal leveres av den somhar hatt formue eller inntekt som er skattepliktig her i landet etter annen bestemmelse i [skatteloven](lov/1999-03-26-14) enn [§§ 10-80](lov/1999-03-26-14/§10-80), [10-81](lov/1999-03-26-14/§10-81) eller [10-13](lov/1999-03-26-14/§10-13) og den som ville ha vært skattepliktig etter [skatteloven § 2-2](lov/1999-03-26-14/§2-2) første ledd dersom den ikke etter skatteavtale hadde vært hjemmehørende i en annen stat.er skattepliktig etter [Svalbardskatteloven §§ 2-1](lov/1996-11-29-68/§2-1) eller [2-3](lov/1996-11-29-68/§2-3), og som ikke har begrenset skatteplikt etter [Svalbardskatteloven § 2-1](lov/1996-11-29-68/§2-1) annet ledd. Skattemelding skal også leveres av personer og selskaper som er skattepliktige til Svalbard for formue og inntekt som nevnt i [svalbardskatteloven § 3-2](lov/1996-11-29-68/§3-2).har hatt formue eller inntekt som er skattepliktig etter petroleumsskatteloven.
+(1) Skattemelding med opplysninger om den skattepliktiges formue og inntekt, fradragsposter og andre opplysninger som har betydning for fastsetting av skattegrunnlaget etter [kapittel 9](lov/2016-05-27-14/kap9), skal leveres av den som
+
+1. har hatt formue eller inntekt som er skattepliktig her i landet etter annen bestemmelse i [skatteloven](lov/1999-03-26-14) enn [§§ 10-80](lov/1999-03-26-14/§10-80), [10-81](lov/1999-03-26-14/§10-81) eller [10-13](lov/1999-03-26-14/§10-13) og den som ville ha vært skattepliktig etter [skatteloven § 2-2](lov/1999-03-26-14/§2-2) første ledd dersom den ikke etter skatteavtale hadde vært hjemmehørende i en annen stat.
+2. er skattepliktig etter [Svalbardskatteloven §§ 2-1](lov/1996-11-29-68/§2-1) eller [2-3](lov/1996-11-29-68/§2-3), og som ikke har begrenset skatteplikt etter [Svalbardskatteloven § 2-1](lov/1996-11-29-68/§2-1) annet ledd. Skattemelding skal også leveres av personer og selskaper som er skattepliktige til Svalbard for formue og inntekt som nevnt i [svalbardskatteloven § 3-2](lov/1996-11-29-68/§3-2).
+3. har hatt formue eller inntekt som er skattepliktig etter petroleumsskatteloven.
 
 (2) Foreldre skal ta barns formue og inntekt med i sin skattemelding når fastsettingen skal skje samlet med foreldrenes formue og inntekt. Barn som ikke har annen inntekt eller formue, er fritatt fra å levere skattemelding.
 
@@ -524,7 +647,14 @@ Den som skal levere skattemelding mv. etter dette kapitlet, skal gi riktige og f
 
 ### § 8-3. Skattemelding for merverdiavgift
 
-(1) Skattemelding med opplysninger om den skattepliktiges omsetning, uttak, innførsel, utgående merverdiavgift, fradragsberettiget inngående merverdiavgift, innførselsmerverdiavgift og andre opplysninger som har betydning for fastsettingen av merverdiavgift, skal leveres avden som er eller skal være registrert i Merverdiavgiftsregisteretmottakere av fjernleverbare tjenester som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-3](lov/2009-06-19-58/§11-3) første ledd annet punktummottakere av klimakvoter som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-1](lov/2009-06-19-58/§11-1) annet ledd annet punktummottakere av gull som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-1](lov/2009-06-19-58/§11-1) tredje ledd annet punktumtilbyder i forenklet registreringsordning etter merverdiavgiftslovenden reder, høvedsmann eller fisker som ved lottfiske leverer fisken til kjøperen, eller som på fartøyets eller fiskerens vegne mottar oppgjøret for fisken.
+(1) Skattemelding med opplysninger om den skattepliktiges omsetning, uttak, innførsel, utgående merverdiavgift, fradragsberettiget inngående merverdiavgift, innførselsmerverdiavgift og andre opplysninger som har betydning for fastsettingen av merverdiavgift, skal leveres av
+
+1. den som er eller skal være registrert i Merverdiavgiftsregisteret
+2. mottakere av fjernleverbare tjenester som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-3](lov/2009-06-19-58/§11-3) første ledd annet punktum
+3. mottakere av klimakvoter som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-1](lov/2009-06-19-58/§11-1) annet ledd annet punktum
+4. mottakere av gull som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-1](lov/2009-06-19-58/§11-1) tredje ledd annet punktum
+5. tilbyder i forenklet registreringsordning etter merverdiavgiftsloven
+6. den reder, høvedsmann eller fisker som ved lottfiske leverer fisken til kjøperen, eller som på fartøyets eller fiskerens vegne mottar oppgjøret for fisken.
 
 (2) Skattemelding skal leveres selv om det ikke har vært merverdiavgiftpliktig omsetning eller uttak i terminen. Skattekontoret kan i enkelttilfeller frita fra leveringsplikten for en eller flere terminer. Skattepliktige som nevnt i første ledd bokstav b til d, skal bare levere skattemelding for de terminer det oppstår plikt til å beregne merverdiavgift. Delte virksomheter og kommuner mv. som er kompensasjonsberettigete, skal oppgi all merverdiavgift som oppstår ved innførsel av varer, i skattemeldingen.
 
@@ -536,7 +666,10 @@ Den som skal levere skattemelding mv. etter dette kapitlet, skal gi riktige og f
 
 (1) Den som er registrert i medhold av særavgiftsloven, skal levere skattemelding med opplysninger om uttak fra virksomhetens godkjente lokale av avgiftspliktige varer, uttak av varer som er fritatt for avgift, innførte varer som ikke er lagt på godkjent lokale, og andre opplysninger som har betydning for fastsetting av særavgifter.
 
-(2) Fritatt fra å levere skattemelding etter første ledd er likevelregistrerte virksomheter som produserer eller innfører teknisk etanol med alkoholstyrke over 2,5 volumprosent, og som utelukkende innfører eller produserer teknisk etanol med godkjent denatureringregistrerte importører av avgiftspliktige varer som skal brukes til råvarer, eller er til avgiftsfri bruk etter bestemmelsene i Stortingets avgiftsvedtak.
+(2) Fritatt fra å levere skattemelding etter første ledd er likevel
+
+1. registrerte virksomheter som produserer eller innfører teknisk etanol med alkoholstyrke over 2,5 volumprosent, og som utelukkende innfører eller produserer teknisk etanol med godkjent denaturering
+2. registrerte importører av avgiftspliktige varer som skal brukes til råvarer, eller er til avgiftsfri bruk etter bestemmelsene i Stortingets avgiftsvedtak.
 
 (3) Skattemelding for særavgifter skal leveres selv om det ikke skal oppkreves avgift for perioden.
 
@@ -608,11 +741,24 @@ Den som krever å få kompensert merverdiavgift etter merverdiavgiftskompensasjo
 
 (2) Selskap eller innretning som nevnt i første ledd, skal utarbeide dokumentasjon som gir grunnlag for å vurdere om priser og vilkår i deres transaksjoner og mellomværender med nærstående selskaper og innretninger samsvarer med det som ville vært fastsatt i transaksjoner og mellomværender inngått mellom uavhengige parter under sammenlignbare forhold og omstendigheter. Dokumentasjonen skal legges fram, utleveres eller sendes innen 45 dager etter krav fra skattemyndighetene, og skal oppbevares av den dokumentasjonspliktige i minst ti år etter utgangen av skattleggingsperioden.
 
-(3) Unntatt fra plikten til å utarbeide og levere dokumentasjon etter annet ledd er selskap eller innretning som nevnt i første ledd, som i regnskapsåret sammen med nærstående har færre enn 250 ansatte, og entenhar en salgsinntekt som ikke overstiger 400 millioner kroner ellerhar en balansesum som ikke overstiger 350 millioner kroner.Selskap eller innretning som nevnt i første ledd, som har transaksjoner eller mellomværender med nærstående selskap eller innretning som er hjemmehørende i stat hvor Norge ikke kan kreve opplysninger om medkontrahentens inntekts- eller formuesforhold i medhold av folkerettslig overenskomst, skal utarbeide skriftlig dokumentasjon for slike transaksjoner og mellomværender uavhengig av beregningene i foregående punktum. Første punktum gjelder heller ikke for skattepliktige etter [petroleumsskatteloven § 5](lov/1975-06-13-35/§5).
+(3) Unntatt fra plikten til å utarbeide og levere dokumentasjon etter annet ledd er selskap eller innretning som nevnt i første ledd, som i regnskapsåret sammen med nærstående har færre enn 250 ansatte, og enten
 
-(4) Som nærstående etter første, annet og tredje ledd regnesselskap eller innretning som den opplysnings- eller dokumentasjonspliktige, direkte eller indirekte, eier eller kontrollerer med minst 50 prosentperson, selskap eller innretning som, direkte eller indirekte, eier eller kontrollerer den opplysnings- eller dokumentasjonspliktige med minst 50 prosentselskap eller innretning som nærstående etter bokstav b, direkte eller indirekte, eier eller kontrollerer med minst 50 prosentnærstående person etter bokstav b sine foreldre, søsken barn, barnebarn, ektefelle, samboer, ektefelles foreldre og samboers foreldre samt selskap eller innretning som disse, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent.
+1. har en salgsinntekt som ikke overstiger 400 millioner kroner eller
+2. har en balansesum som ikke overstiger 350 millioner kroner.
 
-(5) Opplysnings- og dokumentasjonsplikten etter første til fjerde ledd gjelder tilsvarende for disposisjoner som er gjennomført mellomselskap eller innretning som er hjemmehørende i Norge, og dets faste driftssteder i utlandetselskap eller innretning som er hjemmehørende i utlandet, og dets faste driftssteder i Norge.
+Selskap eller innretning som nevnt i første ledd, som har transaksjoner eller mellomværender med nærstående selskap eller innretning som er hjemmehørende i stat hvor Norge ikke kan kreve opplysninger om medkontrahentens inntekts- eller formuesforhold i medhold av folkerettslig overenskomst, skal utarbeide skriftlig dokumentasjon for slike transaksjoner og mellomværender uavhengig av beregningene i foregående punktum. Første punktum gjelder heller ikke for skattepliktige etter [petroleumsskatteloven § 5](lov/1975-06-13-35/§5).
+
+(4) Som nærstående etter første, annet og tredje ledd regnes
+
+1. selskap eller innretning som den opplysnings- eller dokumentasjonspliktige, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent
+2. person, selskap eller innretning som, direkte eller indirekte, eier eller kontrollerer den opplysnings- eller dokumentasjonspliktige med minst 50 prosent
+3. selskap eller innretning som nærstående etter bokstav b, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent
+4. nærstående person etter bokstav b sine foreldre, søsken barn, barnebarn, ektefelle, samboer, ektefelles foreldre og samboers foreldre samt selskap eller innretning som disse, direkte eller indirekte, eier eller kontrollerer med minst 50 prosent.
+
+(5) Opplysnings- og dokumentasjonsplikten etter første til fjerde ledd gjelder tilsvarende for disposisjoner som er gjennomført mellom
+
+1. selskap eller innretning som er hjemmehørende i Norge, og dets faste driftssteder i utlandet
+2. selskap eller innretning som er hjemmehørende i utlandet, og dets faste driftssteder i Norge.
 
 (6) Stat, fylkeskommune og kommune regnes ikke som innretning etter denne paragrafen. Selskaper og innretninger har likevel opplysnings- og dokumentasjonsplikt etter første til fjerde ledd for transaksjoner og mellomværender med en fylkeskommune eller kommune som, direkte eller indirekte, eier eller kontrollerer selskapet eller innretningen med minst 50 prosent.
 
@@ -622,7 +768,11 @@ Den som krever å få kompensert merverdiavgift etter merverdiavgiftskompensasjo
 
 (1) Morselskap som er hjemmehørende i Norge og har foretak i utlandet, skal levere melding for hvert regnskapsår med opplysninger om fordelingen av inntekt og skatt i de landene konsernet har foretak. Meldingen skal også inneholde en beskrivelse av konsernets økonomiske aktivitet i hvert enkelt land, samt opplysninger om hvert foretak i konsernet og den økonomiske aktiviteten foretakene driver.
 
-(2) Opplysningsplikten etter første ledd gjelder tilsvarende for andre foretak i Norge enn morselskap som er hjemmehørende i Norge, dersomdet utenlandske morselskapet ikke har plikt til å levere melding i landet der det er hjemmehørende,landet der morselskapet er hjemmehørende har inngått en folkerettslig overenskomst med Norge som gir grunnlag for utveksling av opplysninger, men ikke har en avtale om automatisk utveksling av meldinger med virkning ved utløpet av det året det skal leveres melding etter første ledd, ellerskattemyndighetene har varslet foretaket i Norge om at landet der morselskapet er hjemmehørende, ikke overholder avtale som nevnt i bokstav b eller av andre grunner ikke sender meldinger til Norge.
+(2) Opplysningsplikten etter første ledd gjelder tilsvarende for andre foretak i Norge enn morselskap som er hjemmehørende i Norge, dersom
+
+1. det utenlandske morselskapet ikke har plikt til å levere melding i landet der det er hjemmehørende,
+2. landet der morselskapet er hjemmehørende har inngått en folkerettslig overenskomst med Norge som gir grunnlag for utveksling av opplysninger, men ikke har en avtale om automatisk utveksling av meldinger med virkning ved utløpet av det året det skal leveres melding etter første ledd, eller
+3. skattemyndighetene har varslet foretaket i Norge om at landet der morselskapet er hjemmehørende, ikke overholder avtale som nevnt i bokstav b eller av andre grunner ikke sender meldinger til Norge.
 
 (3) Foretak som er hjemmehørende i Norge og som inngår i et konsern der ett eller flere foretak har plikt til å levere melding etter første og annet ledd, skal opplyse skattemyndighetene om hvilket foretak i konsernet som skal levere melding, og i hvilket land dette foretaket er hjemmehørende.
 
@@ -786,7 +936,13 @@ Den som krever å få kompensert merverdiavgift etter merverdiavgiftskompensasjo
 
 (3) Innhenting av opplysninger for målretting av kontroller kan bare foretas når det foreligger særlig grunn.
 
-(4) I den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet, plikter fysiske personer bare å gi opplysninger i følgende tilfeller:Den som lar utføre arbeid på bygg eller anlegg, plikter etter krav fra skattemyndighetene å gi opplysninger om hvem som har levert materialer mv. og hvem som for egen regning har medvirket til arbeidet. Det skal gis opplysninger om varelevering og -kjøp, tjenester, vederlag og andre forhold som knytter seg til det enkelte mellomværendet og oppgjøret for dette.Enhver skyldner eller fordringshaver plikter etter krav fra skattemyndighetene å gi opplysninger om tilgodehavende og gjeld som navngitt person, bo, selskap eller innretning har, og om renter, provisjoner mv. som knytter seg til fordringen eller gjelden.Den som ved leie eller på annen måte stiller fast eiendom helt eller delvis til rådighet for noen, eller bestyrer forretninger for noen, plikter etter krav fra skattemyndighetene å gi de opplysninger om forholdet som har betydning for spørsmålet om vedkommende er skattepliktig til kommunen og for omfanget av skatteplikten.Den som har utbetalt eller ytet lønn eller annen godtgjøring for arbeid, plikter etter krav fra skattemyndighetene å gi opplysninger om alt som i siste skattleggingsperiode er ytet til den enkelte mottaker.Oppdragsgiver plikter etter krav fra skattemyndighetene å gi opplysninger om de mellommenn vedkommende har gitt oppdrag, og om størrelsen på vederlag som omfattes av oppdraget gjennom et nærmere angitt tidsrom.
+(4) I den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet, plikter fysiske personer bare å gi opplysninger i følgende tilfeller:
+
+1. Den som lar utføre arbeid på bygg eller anlegg, plikter etter krav fra skattemyndighetene å gi opplysninger om hvem som har levert materialer mv. og hvem som for egen regning har medvirket til arbeidet. Det skal gis opplysninger om varelevering og -kjøp, tjenester, vederlag og andre forhold som knytter seg til det enkelte mellomværendet og oppgjøret for dette.
+2. Enhver skyldner eller fordringshaver plikter etter krav fra skattemyndighetene å gi opplysninger om tilgodehavende og gjeld som navngitt person, bo, selskap eller innretning har, og om renter, provisjoner mv. som knytter seg til fordringen eller gjelden.
+3. Den som ved leie eller på annen måte stiller fast eiendom helt eller delvis til rådighet for noen, eller bestyrer forretninger for noen, plikter etter krav fra skattemyndighetene å gi de opplysninger om forholdet som har betydning for spørsmålet om vedkommende er skattepliktig til kommunen og for omfanget av skatteplikten.
+4. Den som har utbetalt eller ytet lønn eller annen godtgjøring for arbeid, plikter etter krav fra skattemyndighetene å gi opplysninger om alt som i siste skattleggingsperiode er ytet til den enkelte mottaker.
+5. Oppdragsgiver plikter etter krav fra skattemyndighetene å gi opplysninger om de mellommenn vedkommende har gitt oppdrag, og om størrelsen på vederlag som omfattes av oppdraget gjennom et nærmere angitt tidsrom.
 
 (5) Skattemyndighetene kan kreve at tredjepart dokumenterer opplysningene ved for eksempel å gi innsyn i, legge fram, sammenstille, utlevere eller sende inn regnskapsmateriale med bilag, kontrakter, korrespondanse, styreprotokoller, elektroniske programmer og programsystemer.
 
@@ -810,7 +966,16 @@ Utstedes det proklama ved skifte av dødsbo, plikter arving, tingrettsdommer, te
 
 (1) Offentlige myndigheter, innretninger mv. og tjenestemenn plikter etter krav fra skattemyndighetene å gi de opplysninger som de er blitt kjent med i sitt arbeid, og skal i nødvendig utstrekning gi utskrift av protokoll, kopi av dokumenter mv.
 
-(2) Uten hinder av taushetsplikt som de ellers har, skalmyndigheter som fastsetter eller innkrever skatt, tollavgift eller andre avgifter, eller som utbetaler erstatninger, tilskudd, bidrag, trygder, stønader mv., etter krav fra skattemyndighetene gi opplysninger om de fastsatte, innkrevde eller utbetalte beløp, om grunnlaget for dem og om gjeld, beløp til gode og rentermyndigheter som er tillagt kontrollerende funksjoner etter verdipapirhandelloven, etter krav fra skattemyndighetene gi opplysninger som de er blitt kjent med under dette arbeidet, såfremt opplysningene er gitt kontrollorganet i medhold av lovbestemt opplysningspliktmyndigheter som er tillagt kontrollerende funksjoner etter eiendomsmeglingsloven, etter krav fra skattemyndighetene gi opplysninger som de er blitt kjent med under dette arbeidetkonfliktrådene etter krav fra skattemyndighetene gi opplysninger om innholdet i avtale inngått under megling i konfliktråd, jf. konfliktrådslovenandre skattemyndigheter, politiet og Mattilsynet gi opplysninger som er av betydning for skattemyndighetenes vurdering av om vilkårene for registrering av produsent eller importør av alkoholholdig drikk og teknisk etanol etter bestemmelser gitt i eller i medhold av særavgiftsloven, er oppfyltutlendingsmyndighetene etter krav fra skattemyndighetene gi opplysninger om oppholds- og arbeidstillatelse i Norge for utenlandske artisterpolitiet etter krav fra skattemyndighetene gi opplysninger om utenlandske artister som tar engasjement i politidistriktet, samt arrangørens navn og adressetollmyndighetene gi opplysninger om vareførselen til og fra landet av betydning for skattemyndighetenes fastsetting av skatt ved innførsel.
+(2) Uten hinder av taushetsplikt som de ellers har, skal
+
+1. myndigheter som fastsetter eller innkrever skatt, tollavgift eller andre avgifter, eller som utbetaler erstatninger, tilskudd, bidrag, trygder, stønader mv., etter krav fra skattemyndighetene gi opplysninger om de fastsatte, innkrevde eller utbetalte beløp, om grunnlaget for dem og om gjeld, beløp til gode og renter
+2. myndigheter som er tillagt kontrollerende funksjoner etter verdipapirhandelloven, etter krav fra skattemyndighetene gi opplysninger som de er blitt kjent med under dette arbeidet, såfremt opplysningene er gitt kontrollorganet i medhold av lovbestemt opplysningsplikt
+3. myndigheter som er tillagt kontrollerende funksjoner etter eiendomsmeglingsloven, etter krav fra skattemyndighetene gi opplysninger som de er blitt kjent med under dette arbeidet
+4. konfliktrådene etter krav fra skattemyndighetene gi opplysninger om innholdet i avtale inngått under megling i konfliktråd, jf. konfliktrådsloven
+5. andre skattemyndigheter, politiet og Mattilsynet gi opplysninger som er av betydning for skattemyndighetenes vurdering av om vilkårene for registrering av produsent eller importør av alkoholholdig drikk og teknisk etanol etter bestemmelser gitt i eller i medhold av særavgiftsloven, er oppfylt
+6. utlendingsmyndighetene etter krav fra skattemyndighetene gi opplysninger om oppholds- og arbeidstillatelse i Norge for utenlandske artister
+7. politiet etter krav fra skattemyndighetene gi opplysninger om utenlandske artister som tar engasjement i politidistriktet, samt arrangørens navn og adresse
+8. tollmyndighetene gi opplysninger om vareførselen til og fra landet av betydning for skattemyndighetenes fastsetting av skatt ved innførsel.
 
 > Endret ved [lover 9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [22 juni 2018 nr. 71](lov/2018-06-22-71), [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575)).
 
@@ -826,7 +991,12 @@ Skattepliktige som direkte eller indirekte har eierinteresse i utenlandsk selska
 
 (1) Skattemyndighetene, tollmyndighetene, Statens vegvesen og politiet kan når som helst uten varsel kontrollere motorvogner for å påse at bestemmelsene om årsavgift for motorvogn, vektårsavgift og engangsavgift og bestemmelsene om bruk av avgiftsfri biodiesel og merket mineralolje blir overholdt.
 
-(2) Ved kontroll plikter føreren åstanse straks og ellers forholde seg som det blir anvist ved tegn eller skiltoppholde seg ved motorvognen til kontrollen er avsluttet eller til det er gitt tillatelse til å forlate stedetvise fram offentlige dokumenter som det er påbudt å ha med under kjøringen, og gi opplysninger som kontrollmyndigheten mener har betydning for avgiftskontrollenkjøre til anvist veie- eller kontrollplass.
+(2) Ved kontroll plikter føreren å
+
+1. stanse straks og ellers forholde seg som det blir anvist ved tegn eller skilt
+2. oppholde seg ved motorvognen til kontrollen er avsluttet eller til det er gitt tillatelse til å forlate stedet
+3. vise fram offentlige dokumenter som det er påbudt å ha med under kjøringen, og gi opplysninger som kontrollmyndigheten mener har betydning for avgiftskontrollen
+4. kjøre til anvist veie- eller kontrollplass.
 
 (3) Skattemyndighetene kan kreve at skattepliktig framstiller kjøretøy hos Statens vegvesen for kontroll av kjøretøyets registreringsforhold av hensyn til om riktig avgift er fastsatt.
 
@@ -898,7 +1068,10 @@ Departementet kan gi forskrift om framgangsmåten ved kontroll etter dette kapit
 
 ### § 11-2. Pålegg om revisjon
 
-(1) Når skattepliktiges årsregnskap er fastsatt i strid med bestemmelser gitt i eller i medhold av [regnskapsloven](lov/1998-07-17-56) eller [bokføringsloven](lov/2004-11-19-73) eller god regnskapsskikk eller bokføringsskikk, kan skattemyndighetene gi pålegg om at ett eller flere årsregnskap skal revideres av en statsautorisert revisor i samsvar med bestemmelsene i [revisorloven](lov/2020-11-20-128) foraksjeselskap der det er truffet beslutning i medhold av [aksjeloven § 7-6](lov/1997-06-13-44/§7-6)selskap som nevnt i [regnskapsloven § 1-2 første ledd](lov/1998-07-17-56/§1-2/ledd/1) nr. 13, som er organisert etter en utenlandsk selskapsform som i det vesentligste tilsvarer definisjonen av aksjeselskap i [aksjeloven § 1-1 annet ledd](lov/1997-06-13-44/§1-1/ledd/2), og som ikke har revisjonsplikt etter [revisorloven § 2-1](lov/2020-11-20-128/§2-1).
+(1) Når skattepliktiges årsregnskap er fastsatt i strid med bestemmelser gitt i eller i medhold av [regnskapsloven](lov/1998-07-17-56) eller [bokføringsloven](lov/2004-11-19-73) eller god regnskapsskikk eller bokføringsskikk, kan skattemyndighetene gi pålegg om at ett eller flere årsregnskap skal revideres av en statsautorisert revisor i samsvar med bestemmelsene i [revisorloven](lov/2020-11-20-128) for
+
+1. aksjeselskap der det er truffet beslutning i medhold av [aksjeloven § 7-6](lov/1997-06-13-44/§7-6)
+2. selskap som nevnt i [regnskapsloven § 1-2 første ledd](lov/1998-07-17-56/§1-2/ledd/1) nr. 13, som er organisert etter en utenlandsk selskapsform som i det vesentligste tilsvarer definisjonen av aksjeselskap i [aksjeloven § 1-1 annet ledd](lov/1997-06-13-44/§1-1/ledd/2), og som ikke har revisjonsplikt etter [revisorloven § 2-1](lov/2020-11-20-128/§2-1).
 
 (2) Pålegg om revisjon kan gis på grunnlag av forhold som nevnt i første ledd knyttet til årsregnskapet for siste regnskapsår samt de tre foregående årene.
 
@@ -930,7 +1103,11 @@ Departementet kan gi forskrift om framgangsmåten ved kontroll etter dette kapit
 
 (2) Før fastsettingen tas opp til endring etter første ledd, skal skattemyndighetene vurdere om det er grunn til det under hensyn til blant annet den skattepliktiges forhold, den tid som er gått, spørsmålets betydning og sakens opplysning.
 
-(3) Skattemyndighetene skal ta opp skattefastsettingen til endring nårendringen følger av, eller forutsettes i, utfallet av et søksmål. Dette gjelder også søksmål etter [§ 15-2](lov/2016-05-27-14/§15-2).skattelovgivningen foreskriver endring av fastsettingen som følge av omstendigheter som inntreffer etter fastsettingen ellerendringen følger av en avtale som nevnt i dobbeltbeskatningsavtaleloven.
+(3) Skattemyndighetene skal ta opp skattefastsettingen til endring når
+
+1. endringen følger av, eller forutsettes i, utfallet av et søksmål. Dette gjelder også søksmål etter [§ 15-2](lov/2016-05-27-14/§15-2).
+2. skattelovgivningen foreskriver endring av fastsettingen som følge av omstendigheter som inntreffer etter fastsettingen eller
+3. endringen følger av en avtale som nevnt i dobbeltbeskatningsavtaleloven.
 
 (4) Skattemyndighetene kan endre beregningen av formue og inntekt fra selskap som skal levere selskapsmelding som nevnt i [§ 8-9](lov/2016-05-27-14/§8-9).
 
@@ -976,7 +1153,11 @@ Når skattelovgivningen foreskriver endring av skattefastsettingen som følge av
 
 ### § 12-8. Unntak fra fristene for å ta opp skattefastsetting mv. til endring
 
-Fristene i [§ 12-6](lov/2016-05-27-14/§12-6) er ikke til hinder for at skattefastsettingen tas opp til endringnår endringen følger av, eller forutsettes i, utfallet av et søksmålsom følge av en uttalelse fra Sivilombudet i en sak der den skattepliktige er partnår det er klart at vanskelige livsforhold hos den skattepliktige har ført til uriktig fastsetting.
+Fristene i [§ 12-6](lov/2016-05-27-14/§12-6) er ikke til hinder for at skattefastsettingen tas opp til endring
+
+1. når endringen følger av, eller forutsettes i, utfallet av et søksmål
+2. som følge av en uttalelse fra Sivilombudet i en sak der den skattepliktige er part
+3. når det er klart at vanskelige livsforhold hos den skattepliktige har ført til uriktig fastsetting.
 
 > Endret ved lover [22 juni 2022 nr. 75](lov/2022-06-22-75), [20 des 2022 nr. 115](lov/2022-12-20-115).
 
@@ -992,7 +1173,11 @@ Skattemyndighetene kan treffe vedtak om endring av skattefastsetting etter [§ 1
 
 ### § 12-11. Endring uten klage av andre enkeltvedtak enn vedtak om skattefastsetting
 
-(1) Andre enkeltvedtak enn vedtak om skattefastsetting kan endres av det organet som har truffet vedtaket, uten at det er påklaget dersomendringen ikke er til skade for noen vedtaket retter seg mot eller direkte tilgodeserunderretning om vedtaket ikke er kommet fram til vedkommende, og vedtaket heller ikke er offentlig kunngjort ellervedtaket må anses ugyldig.
+(1) Andre enkeltvedtak enn vedtak om skattefastsetting kan endres av det organet som har truffet vedtaket, uten at det er påklaget dersom
+
+1. endringen ikke er til skade for noen vedtaket retter seg mot eller direkte tilgodeser
+2. underretning om vedtaket ikke er kommet fram til vedkommende, og vedtaket heller ikke er offentlig kunngjort eller
+3. vedtaket må anses ugyldig.
 
 (2) Foreligger vilkårene etter første ledd, kan vedtaket endres også av klageinstansen eller av annet overordnet organ.
 
@@ -1006,7 +1191,12 @@ Skattemyndighetene kan treffe vedtak om endring av skattefastsetting etter [§ 1
 
 (1) Enkeltvedtak kan påklages av den vedtaket retter seg mot. Vedtak om skattefastsetting kan også påklages av den som er endelig ansvarlig for den skattepliktiges skatt.
 
-(2) Klageinstansens vedtak i klagesak kan ikke påklages. Klageinstansens vedtak om å avvise klagen kan likevel påklages, unntattnår også underinstansen traff vedtak om å avvise klagennår underinstansen har prøvd avvisningsspørsmålet og kommet til at vilkårene for realitetsbehandling er til stedenår Kongen vil være klageinstansnår klagen er avvist av en klagenemnd.
+(2) Klageinstansens vedtak i klagesak kan ikke påklages. Klageinstansens vedtak om å avvise klagen kan likevel påklages, unntatt
+
+1. når også underinstansen traff vedtak om å avvise klagen
+2. når underinstansen har prøvd avvisningsspørsmålet og kommet til at vilkårene for realitetsbehandling er til stede
+3. når Kongen vil være klageinstans
+4. når klagen er avvist av en klagenemnd.
 
 ### § 13-2. Klage fra andre
 
@@ -1114,7 +1304,14 @@ Klagenemnda for petroleumsskatt avgjør med bindende virkning for andre skattemy
 
 ### § 14-4. Unntak fra tilleggsskatt
 
-Tilleggsskatt fastsettes ikkeav riktige og fullstendige opplysninger som er forhåndsutfylt i skattemeldingennår de uriktige eller ufullstendige opplysningene skyldes åpenbare regne- eller skrivefeilnår selger unnlater å beregne merverdiavgift av ordinær bokført omsetning, og det godtgjøres at kjøper har full fradragsrett, eller kjøper ville hatt rett til kompensasjon for merverdiavgiften etter merverdiavgiftskompensasjonslovennår den skattepliktige frivillig retter eller utfyller opplysninger som er gitt eller lagt til grunn tidligere, slik at det kan fastsettes riktig skatt. Dette gjelder ikke hvis rettingen kan anses framkalt ved kontrolltiltak som er eller vil bli satt i verk, eller ved opplysninger som skattemyndighetene har fått fra andre. Tidligere ilagt tilleggsskatt faller ikke bort.når tilleggsskatten for det enkelte forholdet vil bli under 1 000 kroner ellernår den skattepliktige er død.
+Tilleggsskatt fastsettes ikke
+
+1. av riktige og fullstendige opplysninger som er forhåndsutfylt i skattemeldingen
+2. når de uriktige eller ufullstendige opplysningene skyldes åpenbare regne- eller skrivefeil
+3. når selger unnlater å beregne merverdiavgift av ordinær bokført omsetning, og det godtgjøres at kjøper har full fradragsrett, eller kjøper ville hatt rett til kompensasjon for merverdiavgiften etter merverdiavgiftskompensasjonsloven
+4. når den skattepliktige frivillig retter eller utfyller opplysninger som er gitt eller lagt til grunn tidligere, slik at det kan fastsettes riktig skatt. Dette gjelder ikke hvis rettingen kan anses framkalt ved kontrolltiltak som er eller vil bli satt i verk, eller ved opplysninger som skattemyndighetene har fått fra andre. Tidligere ilagt tilleggsskatt faller ikke bort.
+5. når tilleggsskatten for det enkelte forholdet vil bli under 1 000 kroner eller
+6. når den skattepliktige er død.
 
 > Endret ved [lov 20 des 2016 nr. 120](lov/2016-12-20-120).
 
@@ -1126,7 +1323,11 @@ Tilleggsskatt fastsettes ikkeav riktige og fullstendige opplysninger som er forh
 
 (3) Har den skattepliktige et skattemessig underskudd, beregnes tilleggsskatten av den skatten som ville blitt fastsatt på grunnlag av den unndratte formuen eller inntekten. Det samme gjelder når den fastsatte skatten er lavere enn den skatten som ville blitt fastsatt på grunnlag av den unndratte formuen eller inntekten.
 
-(4) Ved tidfestingsfeil beregnes tilleggsskatten av nettofordelen ved den utsatte fastsettingen. Tidfestingsfeil foreligger i denne sammenheng nårde uriktige eller ufullstendige opplysningene har ført til en skattebesparelse som uten at det er nødvendig med nye opplysninger fra den skattepliktige, ville ha ført til en tilsvarende skattebyrde i senere perioderden skattepliktige selv har oppgitt skattegrunnlaget i senere perioder, eller unnlatt å fradragsføre kostnaden i senere perioder, før skattemyndighetene har tatt opp forholdetskattemyndighetene har tatt opp forholdet, men den skattepliktige sannsynliggjør at grunnlaget uansett ville blitt tatt med eller kostnaden unnlatt fradragsført i senere perioder.
+(4) Ved tidfestingsfeil beregnes tilleggsskatten av nettofordelen ved den utsatte fastsettingen. Tidfestingsfeil foreligger i denne sammenheng når
+
+1. de uriktige eller ufullstendige opplysningene har ført til en skattebesparelse som uten at det er nødvendig med nye opplysninger fra den skattepliktige, ville ha ført til en tilsvarende skattebyrde i senere perioder
+2. den skattepliktige selv har oppgitt skattegrunnlaget i senere perioder, eller unnlatt å fradragsføre kostnaden i senere perioder, før skattemyndighetene har tatt opp forholdet
+3. skattemyndighetene har tatt opp forholdet, men den skattepliktige sannsynliggjør at grunnlaget uansett ville blitt tatt med eller kostnaden unnlatt fradragsført i senere perioder.
 
 (5) Ilagt tvangsmulkt etter [§ 14-1](lov/2016-05-27-14/§14-1) første ledd første og annet punktum skal komme til fradrag i beregnet tilleggsskatt for unnlatt levering etter [§ 14-3](lov/2016-05-27-14/§14-3) første ledd annet punktum.
 
@@ -1146,7 +1347,12 @@ Tilleggsskatt fastsettes ikkeav riktige og fullstendige opplysninger som er forh
 
 ### § 14-7. Overtredelsesgebyr
 
-(1) Skattemyndighetene kan ilegge overtredelsesgebyr overfortredjeparter som ikke oppfyller sine opplysningsplikter etter [kapittel 7](lov/2016-05-27-14/kap7), herunder plikten til å identifisere kontohavere mv., utleiere, tjenesteytere eller brukere etter [§ 7-3 tredje ledd](lov/2016-05-27-14/§7-3/ledd/3), [§ 7-11 annet ledd](lov/2016-05-27-14/§7-11/ledd/2) eller [§ 7-12 tredje ledd](lov/2016-05-27-14/§7-12/ledd/3)den som ikke medvirker til kontroll etter [§ 10-4](lov/2016-05-27-14/§10-4)den som ikke oppfyller sine plikter til å føre og oppbevare personalliste gitt i medhold av bokføringslovenen bokføringspliktig som forsettlig eller uaktsomt overtrer sine plikter til å registrere og dokumentere kontantsalg etter regler gitt i eller i medhold av [bokføringsloven § 10 a](lov/2004-11-19-73/§10a).
+(1) Skattemyndighetene kan ilegge overtredelsesgebyr overfor
+
+1. tredjeparter som ikke oppfyller sine opplysningsplikter etter [kapittel 7](lov/2016-05-27-14/kap7), herunder plikten til å identifisere kontohavere mv., utleiere, tjenesteytere eller brukere etter [§ 7-3 tredje ledd](lov/2016-05-27-14/§7-3/ledd/3), [§ 7-11 annet ledd](lov/2016-05-27-14/§7-11/ledd/2) eller [§ 7-12 tredje ledd](lov/2016-05-27-14/§7-12/ledd/3)
+2. den som ikke medvirker til kontroll etter [§ 10-4](lov/2016-05-27-14/§10-4)
+3. den som ikke oppfyller sine plikter til å føre og oppbevare personalliste gitt i medhold av bokføringsloven
+4. en bokføringspliktig som forsettlig eller uaktsomt overtrer sine plikter til å registrere og dokumentere kontantsalg etter regler gitt i eller i medhold av [bokføringsloven § 10 a](lov/2004-11-19-73/§10a).
 
 (2) Overtredelsesgebyr ilegges ikke tredjepart som er ilagt tvangsmulkt for den samme opplysningssvikten.
 

@@ -42,11 +42,20 @@ Dersom ikke annet fremkommer av forskriften, gjelder bestemmelsene for amatørby
 
 ### § 2. Definisjoner
 
-I denne forskrift forstås med:*Amatørbygd kjøretøy:* Et kjøretøy som hovedsakelig er konstruert og bygd av enkeltperson, eller av annen på enkeltpersons vegne, og som førstegangsregistreres på enkeltperson for eget bruk. Kjøretøy som er definert under bokstav b omfattes ikke av denne definisjon.*Kjøretøy i byggesett (kit car og bike):* Komponenter som leveres av produsent/produsenter av byggesett-kjøretøy, og som deretter monteres av enkeltpersoner for eget bruk. Ramme og/eller karosseri levert av opprinnelig fabrikant for serieproduserte kjøretøy kan ikke benyttes for å danne grunnlag for et byggesett-kjøretøy med mindre delen/delene er eldre enn 30 år.*Eget bruk:* Benyttelse av kjøretøy til private formål som ikke kommer inn under bestemmelsene om løyvepliktig transport.
+I denne forskrift forstås med:
+
+1. *Amatørbygd kjøretøy:* Et kjøretøy som hovedsakelig er konstruert og bygd av enkeltperson, eller av annen på enkeltpersons vegne, og som førstegangsregistreres på enkeltperson for eget bruk. Kjøretøy som er definert under bokstav b omfattes ikke av denne definisjon.
+2. *Kjøretøy i byggesett (kit car og bike):* Komponenter som leveres av produsent/produsenter av byggesett-kjøretøy, og som deretter monteres av enkeltpersoner for eget bruk. Ramme og/eller karosseri levert av opprinnelig fabrikant for serieproduserte kjøretøy kan ikke benyttes for å danne grunnlag for et byggesett-kjøretøy med mindre delen/delene er eldre enn 30 år.
+3. *Eget bruk:* Benyttelse av kjøretøy til private formål som ikke kommer inn under bestemmelsene om løyvepliktig transport.
 
 ### § 3. Kategori av kjøretøy
 
-Godkjenning etter denne forskrift kan gis for følgende kategorier kjøretøy:M1 med tillatt totalvekt inntil 3500 kg,N1,Tohjuls motorsykkel, med eller uten sidevogn (L3e og L4e),Trehjuls motorsykkel med tre symmetrisk plasserte hjul (L5e).
+Godkjenning etter denne forskrift kan gis for følgende kategorier kjøretøy:
+
+1. M1 med tillatt totalvekt inntil 3500 kg,
+2. N1,
+3. Tohjuls motorsykkel, med eller uten sidevogn (L3e og L4e),
+4. Trehjuls motorsykkel med tre symmetrisk plasserte hjul (L5e).
 
 ## Kapittel 2. Nærmere om godkjenning
 
@@ -56,15 +65,45 @@ Amatørbygg skal fremstilles for enkeltgodkjenning. Godkjenningsmyndighet er Sta
 
 Statens vegvesens spesialistfunksjon for ombygde, oppbygde og reparerte kjøretøy (SFOOR) har landsdekkende ansvar for veiledning og tilsyn etter denne forskrift. Herunder oppfølging av søknader, byggeprosjekt og register for dette.
 
-Maksimalt antall amatørbygde kjøretøy og kjøretøy i byggesett som kan godkjennes årlig:Bil: 50 stk. amatørbygg og 50 stk. byggesettMotorsykkel: 65 stk. amatørbygg og 65 stk. byggesett.
+Maksimalt antall amatørbygde kjøretøy og kjøretøy i byggesett som kan godkjennes årlig:
 
-Søknad om godkjenning av byggeprosjekt for amatørbygde kjøretøy fremmes til Statens vegvesen før prosjektet påbegynnes. Søknad skal inneholde informasjon om følgende:Identitetsbærende komponenter:Følgende komponenter på amatørbygd bil er å anse som identitetsbærende:RammeMotorKarosseriGirkasse.Følgende komponenter på amatørbygd MC er å anse som identitetsbærende:RammeMotor.Opprinnelsen til komponenter som det søkes om å benytte i byggeprosjektet:Hjuloppheng (eks. gaffel, svingarmer, for-/bakaksel)InteriørStyreinnretningKomponenter av sikkerhetsmessig betydningBremserMotorstyring/elektronikk.Søker av byggeprosjektet må overfor godkjenningsmyndigheten redegjøre for opprinnelse til og anskaffelse av komponentene som er beskrevet i bokstav a og b. Godkjenningsmyndigheten kan be om dokumentasjon for disse forhold. Slik dokumentasjon vil være fortollingsdokumentasjon, kjøpekontrakter, salgsmelding og kvitteringer for komponentene.
+1. Bil: 50 stk. amatørbygg og 50 stk. byggesett
+2. Motorsykkel: 65 stk. amatørbygg og 65 stk. byggesett.
+
+Søknad om godkjenning av byggeprosjekt for amatørbygde kjøretøy fremmes til Statens vegvesen før prosjektet påbegynnes. Søknad skal inneholde informasjon om følgende:
+
+1. Identitetsbærende komponenter:
+
+   1. Følgende komponenter på amatørbygd bil er å anse som identitetsbærende:
+
+      1. Ramme
+      2. Motor
+      3. Karosseri
+      4. Girkasse.
+   2. Følgende komponenter på amatørbygd MC er å anse som identitetsbærende:
+
+      1. Ramme
+      2. Motor.
+2. Opprinnelsen til komponenter som det søkes om å benytte i byggeprosjektet:
+
+   1. Hjuloppheng (eks. gaffel, svingarmer, for-/bakaksel)
+   2. Interiør
+   3. Styreinnretning
+   4. Komponenter av sikkerhetsmessig betydning
+   5. Bremser
+   6. Motorstyring/elektronikk.
+3. Søker av byggeprosjektet må overfor godkjenningsmyndigheten redegjøre for opprinnelse til og anskaffelse av komponentene som er beskrevet i bokstav a og b. Godkjenningsmyndigheten kan be om dokumentasjon for disse forhold. Slik dokumentasjon vil være fortollingsdokumentasjon, kjøpekontrakter, salgsmelding og kvitteringer for komponentene.
 
 > Endret ved [forskrift 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
 ### § 5. Kontroll av byggeprosjektet
 
-Byggeprosjekter skal følges opp ved følgende kontroller i løpet av en byggeperiode:OppstartskontrollFerdig sveiset ramme, bærende konstruksjon karosseriFerdig sammensatt kjøretøySluttkontroll av ferdig kjørbart kjøretøy. Før endelig godkjenning kan gis, skal prøvekjøring av kjøretøyet foretas. Ved sluttkontroll tildeles understellsnummer.
+Byggeprosjekter skal følges opp ved følgende kontroller i løpet av en byggeperiode:
+
+1. Oppstartskontroll
+2. Ferdig sveiset ramme, bærende konstruksjon karosseri
+3. Ferdig sammensatt kjøretøy
+4. Sluttkontroll av ferdig kjørbart kjøretøy. Før endelig godkjenning kan gis, skal prøvekjøring av kjøretøyet foretas. Ved sluttkontroll tildeles understellsnummer.
 
 Tekniske mangler som påpekes ved byggekontroll etter første ledd bokstav d skal utbedres før godkjenning kan gis.
 
@@ -120,17 +159,97 @@ Amatørbygd kjøretøy skal være bygd, innrettet og utstyrt slik at det tåler 
 
 ### § 12. Krav til motor og miljø
 
-Amatørbygd kjøretøy skal tilfredsstille følgende krav:Amatørbygd kjøretøy kan kun utrustes med følgende fremdriftskilder:ForbrenningsmotorElmotor med akkumulator (batteri) som energikilde.Amatørbygd bil skal tilfredsstille krav til motor og drivverk etter [kjøretøyforskriften § 23-1](forskrift/1994-10-04-918/§23-1) nr. 1–3. Med fabrikant menes i denne sammenheng motorfabrikant. Amatørbygd bil kan ikke ha høyere motoreffekt enn 20 kW/100 kg egenvekt.Amatørbygd motorsykkel skal tilfredsstille krav til motor og drivverk etter [kjøretøyforskriften § 23-5](forskrift/1994-10-04-918/§23-5) nr. 2. Med fabrikant menes i denne sammenheng motorfabrikant. Amatørbygd motorsykkel kan ikke ha høyere motoreffekt enn 35 kW/100 kg egenvekt.Krav til støy etter [kjøretøyforskriften § 24-1](forskrift/1994-10-04-918/§24-1) og [§ 24-2](forskrift/1994-10-04-918/§24-2). Amatørbygd kjøretøy skal måles i henhold til ECE-regulativ 51.02 eller ECE-regulativ 9.00 med maksimal forbikjøringsstøy på 84 db(A). Standstøy måles i henhold til «Merknad til kap. 24». Standstøy angis i kjøretøyets vognkort.Krav til avgass etter [kjøretøyforskriften § 25-1](forskrift/1994-10-04-918/§25-1). Amatørbygd bil skal tilfredsstille kravene i § 25-2 og § 25-3 nr. 1, pkt. a, eller pkt. b (første til tredje ledd), eller pkt. c (første og annet ledd).Krav til elektrisk utstyr og elektromagnetisk støy etter [kjøretøyforskriften § 27-1](forskrift/1994-10-04-918/§27-1). Utstyr som har en sikkerhetsmessig betydning skal tilfredsstille funksjonskravene i [kjøretøyforskriften § 27-2](forskrift/1994-10-04-918/§27-2) og tilsvarende funksjonskrav i direktiv [72/245/EØF](eu/31972l0245*), som senest endret ved direktiv [2009/19/EF](eu/32009l0019) eller ECE-regulativ nr. 10.04. Utstyr som sender ut radiobølger skal fungere på frekvenser som er godkjent av Post- og teletilsynet.
+Amatørbygd kjøretøy skal tilfredsstille følgende krav:
+
+1. Amatørbygd kjøretøy kan kun utrustes med følgende fremdriftskilder:
+
+   1. Forbrenningsmotor
+   2. Elmotor med akkumulator (batteri) som energikilde.
+
+   Amatørbygd bil skal tilfredsstille krav til motor og drivverk etter [kjøretøyforskriften § 23-1](forskrift/1994-10-04-918/§23-1) nr. 1–3. Med fabrikant menes i denne sammenheng motorfabrikant. Amatørbygd bil kan ikke ha høyere motoreffekt enn 20 kW/100 kg egenvekt.
+
+   Amatørbygd motorsykkel skal tilfredsstille krav til motor og drivverk etter [kjøretøyforskriften § 23-5](forskrift/1994-10-04-918/§23-5) nr. 2. Med fabrikant menes i denne sammenheng motorfabrikant. Amatørbygd motorsykkel kan ikke ha høyere motoreffekt enn 35 kW/100 kg egenvekt.
+2. Krav til støy etter [kjøretøyforskriften § 24-1](forskrift/1994-10-04-918/§24-1) og [§ 24-2](forskrift/1994-10-04-918/§24-2). Amatørbygd kjøretøy skal måles i henhold til ECE-regulativ 51.02 eller ECE-regulativ 9.00 med maksimal forbikjøringsstøy på 84 db(A). Standstøy måles i henhold til «Merknad til kap. 24». Standstøy angis i kjøretøyets vognkort.
+3. Krav til avgass etter [kjøretøyforskriften § 25-1](forskrift/1994-10-04-918/§25-1). Amatørbygd bil skal tilfredsstille kravene i § 25-2 og § 25-3 nr. 1, pkt. a, eller pkt. b (første til tredje ledd), eller pkt. c (første og annet ledd).
+4. Krav til elektrisk utstyr og elektromagnetisk støy etter [kjøretøyforskriften § 27-1](forskrift/1994-10-04-918/§27-1). Utstyr som har en sikkerhetsmessig betydning skal tilfredsstille funksjonskravene i [kjøretøyforskriften § 27-2](forskrift/1994-10-04-918/§27-2) og tilsvarende funksjonskrav i direktiv [72/245/EØF](eu/31972l0245*), som senest endret ved direktiv [2009/19/EF](eu/32009l0019) eller ECE-regulativ nr. 10.04. Utstyr som sender ut radiobølger skal fungere på frekvenser som er godkjent av Post- og teletilsynet.
 
 ### § 13. Funksjonelle sikkerhetskrav m.m.
 
-Amatørbygd kjøretøy skal tilfredsstille følgende funksjonelle sikkerhetskrav:Krav til ramme og bærende konstruksjon etter [kjøretøyforskriften § 11-1](forskrift/1994-10-04-918/§11-1).Krav til aksler, fjærer og støtdempere etter [kjøretøyforskriften § 12-1](forskrift/1994-10-04-918/§12-1), nr. 1–2.Krav til styring etter [kjøretøyforskriften § 21-1](forskrift/1994-10-04-918/§21-1) nr. 1–4. Amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 21-2](forskrift/1994-10-04-918/§21-2) nr. 1.Amatørbygd bil skal tilfredsstille krav til skjerming av hjul etter [kjøretøyforskriften § 32-1](forskrift/1994-10-04-918/§32-1) og [§ 32-2](forskrift/1994-10-04-918/§32-2), nr. 1 og 3. Amatørbygd bil som bygges med karosseri som utseendemessig etterligner bil med fabrikasjonsår 1942 eller tidligere, er fritatt fra kravet til krav til skjerming av hjul. Unntaket gjelder ikke bil med tvillingmonterte hjul.Krav til klemsikring etter funksjonskravene i direktiv [74/60/EØF](eu/31974l0060*) som senest endret ved direktiv [2000/4/EF](eu/32000l0004) dersom det er montert elektrisk drevne ruter, soltak eller lignende.Dører og hengsler på amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 17-2](forskrift/1994-10-04-918/§17-2). Bestemmelsen benyttes tilsvarende på amatørbygd motorsykkel så langt den passer.Amatørbygd bil skal tilfredsstille krav til sitteinnretning og personantall i [kjøretøyforskriften § 18-1](forskrift/1994-10-04-918/§18-1), likevel slik at antall sitteplasser fastsettes av godkjenningsmyndigheten. Langsgående (sidevendte) sitteinnretninger tillates ikke.Amatørbygd motorsykkel skal tilfredsstille krav til sitteinnretning, persontall og sikringsutstyr i [kjøretøyforskriften § 18-7](forskrift/1994-10-04-918/§18-7).Krav til hjul og dekk etter [kjøretøyforskriften § 13-1](forskrift/1994-10-04-918/§13-1), nr. 1–6.Amatørbygd bil skal tilfredsstille krav i [kjøretøyforskriften § 13-3](forskrift/1994-10-04-918/§13-3).Amatørbygd motorsykkel skal tilfredsstille krav i [kjøretøyforskriften § 13-5](forskrift/1994-10-04-918/§13-5).Amatørbygd bil skal være utstyrt med bilbelter for alle sitteplasser. Bilbelter skal være av utførelse og montering i henhold til [kjøretøyforskriften § 16-4](forskrift/1994-10-04-918/§16-4) eller [§ 16-6](forskrift/1994-10-04-918/§16-6). Bilbelter av type S kan i alle tilfelle monteres istedenfor belter av type A eller B.Amatørbygd bil skal ha festepunkter til bilbelter i henhold til [kjøretøyforskriften § 16-6](forskrift/1994-10-04-918/§16-6), som skal være forsvarlig når det gjelder styrke og plassering.Krav til speil etter [kjøretøyforskriften § 30-1](forskrift/1994-10-04-918/§30-1).Amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 30-3](forskrift/1994-10-04-918/§30-3).Amatørbygd motorsykkel skal tilfredsstille kravene i [kjøretøyforskriften § 30-5](forskrift/1994-10-04-918/§30-5).Krav til lysutstyr etter [kjøretøyforskriften § 28-3](forskrift/1994-10-04-918/§28-3). Farge på lys skal være i henhold til kap. 28. Lysutstyr i henhold til de til en hver tid gjeldende europeiske rettsakter anses å oppfylle kravene til lys for amatørbygg.Amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 28-4](forskrift/1994-10-04-918/§28-4) og [§ 28-5](forskrift/1994-10-04-918/§28-5).Amatørbygd motorsykkel skal tilfredsstille kravene i [kjøretøyforskriften § 28-6](forskrift/1994-10-04-918/§28-6), [§ 28-7](forskrift/1994-10-04-918/§28-7), [§ 28-8](forskrift/1994-10-04-918/§28-8) og [§ 28-9](forskrift/1994-10-04-918/§28-9).Krav til betjeningsinnretninger i [kjøretøyforskriften § 19-1](forskrift/1994-10-04-918/§19-1) nr. 1.Amatørbygd bil skal tilfredsstille krav til ventilasjon og klimaanlegg i [kjøretøyforskriften § 20-2](forskrift/1994-10-04-918/§20-2) nr. 2 første ledd. For montering og fylling av klimaanlegg gjelder de grenseverdiene for GPW-verdier til kjølemediet som er angitt i [kjøretøyforskriften § 20-3](forskrift/1994-10-04-918/§20-3) nr. 5.Krav til vindu etter [kjøretøyforskriften § 31-1](forskrift/1994-10-04-918/§31-1).Amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 31-3](forskrift/1994-10-04-918/§31-3).Amatørbygd motorsykkel skal tilfredsstille kravene i [kjøretøyforskriften § 31-5](forskrift/1994-10-04-918/§31-5).Amatørbygd bil skal tilfredsstille krav i [kjøretøyforskriften § 48-1](forskrift/1994-10-04-918/§48-1) nr. 1, og være utstyrt med støtabsorberende rattstamme eller utførelse som gir tilsvarende beskyttelse for fører.Krav til bremser etter [kjøretøyforskriften § 26-5](forskrift/1994-10-04-918/§26-5) nr. 1 og 2.Driftsbremseanlegget på amatørbygd bil skal være av flerkrets type og konstruert slik at:Retardasjonen minst er 5,8 m/s2 når kjøretøyet, opplastet til tillatt totalvekt, bremses opp fra 80km/t til stillestående. Ved oppbremsingen skal motor være frakoblet og bremsene være kalde. Retardasjonen skal oppnås ved maksimal pedalkraft på 490 N (50 kp) og når maksimalt halvparten av bremsepedalens tilgjengelige bevegelse er brukt.Driftsbrems skal, både ved ulastet og fullastet bil, på jevn vegbane med gode friksjonsforhold kunne bremse bilen med inntil 6 m/s2 uten at noe hjul låses.Amatørbygd motorsykkel skal tilfredsstille kravene i [kjøretøyforskriften § 26-6](forskrift/1994-10-04-918/§26-6).Krav til lydsignal i [kjøretøyforskriften § 29-1](forskrift/1994-10-04-918/§29-1). Amatørbygd motorsykkel kan alternativt tilfredsstille kravene i [kjøretøyforskriften § 29-2](forskrift/1994-10-04-918/§29-2).
+Amatørbygd kjøretøy skal tilfredsstille følgende funksjonelle sikkerhetskrav:
+
+1. Krav til ramme og bærende konstruksjon etter [kjøretøyforskriften § 11-1](forskrift/1994-10-04-918/§11-1).
+2. Krav til aksler, fjærer og støtdempere etter [kjøretøyforskriften § 12-1](forskrift/1994-10-04-918/§12-1), nr. 1–2.
+3. Krav til styring etter [kjøretøyforskriften § 21-1](forskrift/1994-10-04-918/§21-1) nr. 1–4. Amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 21-2](forskrift/1994-10-04-918/§21-2) nr. 1.
+4. Amatørbygd bil skal tilfredsstille krav til skjerming av hjul etter [kjøretøyforskriften § 32-1](forskrift/1994-10-04-918/§32-1) og [§ 32-2](forskrift/1994-10-04-918/§32-2), nr. 1 og 3. Amatørbygd bil som bygges med karosseri som utseendemessig etterligner bil med fabrikasjonsår 1942 eller tidligere, er fritatt fra kravet til krav til skjerming av hjul. Unntaket gjelder ikke bil med tvillingmonterte hjul.
+5. Krav til klemsikring etter funksjonskravene i direktiv [74/60/EØF](eu/31974l0060*) som senest endret ved direktiv [2000/4/EF](eu/32000l0004) dersom det er montert elektrisk drevne ruter, soltak eller lignende.
+6. Dører og hengsler på amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 17-2](forskrift/1994-10-04-918/§17-2). Bestemmelsen benyttes tilsvarende på amatørbygd motorsykkel så langt den passer.
+7. Amatørbygd bil skal tilfredsstille krav til sitteinnretning og personantall i [kjøretøyforskriften § 18-1](forskrift/1994-10-04-918/§18-1), likevel slik at antall sitteplasser fastsettes av godkjenningsmyndigheten. Langsgående (sidevendte) sitteinnretninger tillates ikke.
+8. Amatørbygd motorsykkel skal tilfredsstille krav til sitteinnretning, persontall og sikringsutstyr i [kjøretøyforskriften § 18-7](forskrift/1994-10-04-918/§18-7).
+9. Krav til hjul og dekk etter [kjøretøyforskriften § 13-1](forskrift/1994-10-04-918/§13-1), nr. 1–6.
+
+   Amatørbygd bil skal tilfredsstille krav i [kjøretøyforskriften § 13-3](forskrift/1994-10-04-918/§13-3).
+
+   Amatørbygd motorsykkel skal tilfredsstille krav i [kjøretøyforskriften § 13-5](forskrift/1994-10-04-918/§13-5).
+10. Amatørbygd bil skal være utstyrt med bilbelter for alle sitteplasser. Bilbelter skal være av utførelse og montering i henhold til [kjøretøyforskriften § 16-4](forskrift/1994-10-04-918/§16-4) eller [§ 16-6](forskrift/1994-10-04-918/§16-6). Bilbelter av type S kan i alle tilfelle monteres istedenfor belter av type A eller B.
+11. Amatørbygd bil skal ha festepunkter til bilbelter i henhold til [kjøretøyforskriften § 16-6](forskrift/1994-10-04-918/§16-6), som skal være forsvarlig når det gjelder styrke og plassering.
+12. Krav til speil etter [kjøretøyforskriften § 30-1](forskrift/1994-10-04-918/§30-1).
+
+    Amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 30-3](forskrift/1994-10-04-918/§30-3).
+
+    Amatørbygd motorsykkel skal tilfredsstille kravene i [kjøretøyforskriften § 30-5](forskrift/1994-10-04-918/§30-5).
+13. Krav til lysutstyr etter [kjøretøyforskriften § 28-3](forskrift/1994-10-04-918/§28-3). Farge på lys skal være i henhold til kap. 28. Lysutstyr i henhold til de til en hver tid gjeldende europeiske rettsakter anses å oppfylle kravene til lys for amatørbygg.
+
+    Amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 28-4](forskrift/1994-10-04-918/§28-4) og [§ 28-5](forskrift/1994-10-04-918/§28-5).
+
+    Amatørbygd motorsykkel skal tilfredsstille kravene i [kjøretøyforskriften § 28-6](forskrift/1994-10-04-918/§28-6), [§ 28-7](forskrift/1994-10-04-918/§28-7), [§ 28-8](forskrift/1994-10-04-918/§28-8) og [§ 28-9](forskrift/1994-10-04-918/§28-9).
+14. Krav til betjeningsinnretninger i [kjøretøyforskriften § 19-1](forskrift/1994-10-04-918/§19-1) nr. 1.
+15. Amatørbygd bil skal tilfredsstille krav til ventilasjon og klimaanlegg i [kjøretøyforskriften § 20-2](forskrift/1994-10-04-918/§20-2) nr. 2 første ledd. For montering og fylling av klimaanlegg gjelder de grenseverdiene for GPW-verdier til kjølemediet som er angitt i [kjøretøyforskriften § 20-3](forskrift/1994-10-04-918/§20-3) nr. 5.
+16. Krav til vindu etter [kjøretøyforskriften § 31-1](forskrift/1994-10-04-918/§31-1).
+
+    Amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 31-3](forskrift/1994-10-04-918/§31-3).
+
+    Amatørbygd motorsykkel skal tilfredsstille kravene i [kjøretøyforskriften § 31-5](forskrift/1994-10-04-918/§31-5).
+17. Amatørbygd bil skal tilfredsstille krav i [kjøretøyforskriften § 48-1](forskrift/1994-10-04-918/§48-1) nr. 1, og være utstyrt med støtabsorberende rattstamme eller utførelse som gir tilsvarende beskyttelse for fører.
+18. Krav til bremser etter [kjøretøyforskriften § 26-5](forskrift/1994-10-04-918/§26-5) nr. 1 og 2.
+
+    Driftsbremseanlegget på amatørbygd bil skal være av flerkrets type og konstruert slik at:
+
+    1. Retardasjonen minst er 5,8 m/s2 når kjøretøyet, opplastet til tillatt totalvekt, bremses opp fra 80km/t til stillestående. Ved oppbremsingen skal motor være frakoblet og bremsene være kalde. Retardasjonen skal oppnås ved maksimal pedalkraft på 490 N (50 kp) og når maksimalt halvparten av bremsepedalens tilgjengelige bevegelse er brukt.
+    2. Driftsbrems skal, både ved ulastet og fullastet bil, på jevn vegbane med gode friksjonsforhold kunne bremse bilen med inntil 6 m/s2 uten at noe hjul låses.
+
+    Amatørbygd motorsykkel skal tilfredsstille kravene i [kjøretøyforskriften § 26-6](forskrift/1994-10-04-918/§26-6).
+19. Krav til lydsignal i [kjøretøyforskriften § 29-1](forskrift/1994-10-04-918/§29-1). Amatørbygd motorsykkel kan alternativt tilfredsstille kravene i [kjøretøyforskriften § 29-2](forskrift/1994-10-04-918/§29-2).
 
 > Endret ved forskrift [21 juni 2021 nr. 2117](forskrift/2021-06-21-2117).
 
 ### § 14. Generelle krav til konstruksjon
 
-Amatørbygde kjøretøy skal tilfredsstille følgende konstruksjonskrav:Merking av kjøretøyet skal være i samsvar med kravene i [kjøretøyforskriften § 6-4](forskrift/1994-10-04-918/§6-4) første til femte ledd.Amatørbygd bil skal være utstyrt med fabrikasjonsplate i henhold til forordning [(EU) nr. 19/2011](eu/32011r0019).Ved godkjenning av kjøretøy etter denne forskrift skal WMI-kode tildelt Statens vegvesen benyttes. Dersom benyttet ramme allerede har innpreget 17-sifret WMI-understellsnummer skal fabrikant endres. Prosedyren for skifte av fabrikant beskrevet i direktiv [2007/46/EF](eu/32007l0046) vedlegg XVII nr. 4 benyttes.Tillatt totalvekt for amatørbygde kjøretøy fastsettes av godkjenningsmyndigheten etter følgende utregning:Kjøretøyets egenvekt i driftsklar stand pluss minimum 75 kg for hver sitteplass (for M1 fordelt med 68 kg i setet og 7 kg bagasje per person).Varebil – vektplassering av last i varerom/lasteplan.Godkjenningsmyndigheten kan fastsette andre tillatte vekter (tilhengervekter, aksellaster) dersom konstruktive hensyn tilsier dette.Krav til egenvekt, største totalvekt og vektfordeling skal tilfredsstille kravene i [kjøretøyforskriften § 10-1](forskrift/1994-10-04-918/§10-1) nr. 4 første ledd.Krav til transportutstyr etter [kjøretøyforskriften § 36-1](forskrift/1994-10-04-918/§36-1) dersom slikt utstyr er montert.Krav til hjelpe- og arbeidsutstyr etter [kjøretøyforskriften § 37-1](forskrift/1994-10-04-918/§37-1) dersom slikt utstyr er montert.Krav til tilhengerkopling etter [kjøretøyforskriften § 38-1](forskrift/1994-10-04-918/§38-1) nr. 2 dersom slik kopling er montert.Amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 38-2](forskrift/1994-10-04-918/§38-2).Amatørbygd motorsykkel skal tilfredsstille kravene i [kjøretøyforskriften § 38-4](forskrift/1994-10-04-918/§38-4).Krav til låsutstyr etter [kjøretøyforskriften § 34-1](forskrift/1994-10-04-918/§34-1).Krav til drivstoffanlegg etter [kjøretøyforskriften § 22-1](forskrift/1994-10-04-918/§22-1) nr. 1 første og annet ledd og [§ 22-1](forskrift/1994-10-04-918/§22-1) nr. 2, eventuelt tilsvarende FIA- eller FMVSS-krav. Amatørbygd kjøretøy kan ikke utstyres med drivstoffanlegg for LPG eller CNG.Krav til karosseri og lasteplan etter [kjøretøyforskriften § 14-1](forskrift/1994-10-04-918/§14-1) nr. 1, første og annet ledd og [§ 14-1](forskrift/1994-10-04-918/§14-1) nr. 2. Amatørbygd motorsykkel skal i tillegg oppfylle kravene i [kjøretøyforskriften § 14-6](forskrift/1994-10-04-918/§14-6).Krav til plass for kjennemerke i [kjøretøyforskriften § 39-1](forskrift/1994-10-04-918/§39-1) og [§ 39-2](forskrift/1994-10-04-918/§39-2) nr. 1 til nr. 3.Amatørbygd bil skal ha kjennemerkeplassering i henhold til kravene i [kjøretøyforskriften § 39-3](forskrift/1994-10-04-918/§39-3).Amatørbygd motorsykkel skal ha kjennemerkeplassering i henhold til kravene i [kjøretøyforskriften § 39-7](forskrift/1994-10-04-918/§39-7).
+Amatørbygde kjøretøy skal tilfredsstille følgende konstruksjonskrav:
+
+1. Merking av kjøretøyet skal være i samsvar med kravene i [kjøretøyforskriften § 6-4](forskrift/1994-10-04-918/§6-4) første til femte ledd.
+2. Amatørbygd bil skal være utstyrt med fabrikasjonsplate i henhold til forordning [(EU) nr. 19/2011](eu/32011r0019).
+3. Ved godkjenning av kjøretøy etter denne forskrift skal WMI-kode tildelt Statens vegvesen benyttes. Dersom benyttet ramme allerede har innpreget 17-sifret WMI-understellsnummer skal fabrikant endres. Prosedyren for skifte av fabrikant beskrevet i direktiv [2007/46/EF](eu/32007l0046) vedlegg XVII nr. 4 benyttes.
+4. Tillatt totalvekt for amatørbygde kjøretøy fastsettes av godkjenningsmyndigheten etter følgende utregning:
+
+   - Kjøretøyets egenvekt i driftsklar stand pluss minimum 75 kg for hver sitteplass (for M1 fordelt med 68 kg i setet og 7 kg bagasje per person).
+   - Varebil – vektplassering av last i varerom/lasteplan.
+   - Godkjenningsmyndigheten kan fastsette andre tillatte vekter (tilhengervekter, aksellaster) dersom konstruktive hensyn tilsier dette.
+5. Krav til egenvekt, største totalvekt og vektfordeling skal tilfredsstille kravene i [kjøretøyforskriften § 10-1](forskrift/1994-10-04-918/§10-1) nr. 4 første ledd.
+6. Krav til transportutstyr etter [kjøretøyforskriften § 36-1](forskrift/1994-10-04-918/§36-1) dersom slikt utstyr er montert.
+7. Krav til hjelpe- og arbeidsutstyr etter [kjøretøyforskriften § 37-1](forskrift/1994-10-04-918/§37-1) dersom slikt utstyr er montert.
+8. Krav til tilhengerkopling etter [kjøretøyforskriften § 38-1](forskrift/1994-10-04-918/§38-1) nr. 2 dersom slik kopling er montert.
+
+   Amatørbygd bil skal tilfredsstille kravene i [kjøretøyforskriften § 38-2](forskrift/1994-10-04-918/§38-2).
+
+   Amatørbygd motorsykkel skal tilfredsstille kravene i [kjøretøyforskriften § 38-4](forskrift/1994-10-04-918/§38-4).
+9. Krav til låsutstyr etter [kjøretøyforskriften § 34-1](forskrift/1994-10-04-918/§34-1).
+10. Krav til drivstoffanlegg etter [kjøretøyforskriften § 22-1](forskrift/1994-10-04-918/§22-1) nr. 1 første og annet ledd og [§ 22-1](forskrift/1994-10-04-918/§22-1) nr. 2, eventuelt tilsvarende FIA- eller FMVSS-krav. Amatørbygd kjøretøy kan ikke utstyres med drivstoffanlegg for LPG eller CNG.
+11. Krav til karosseri og lasteplan etter [kjøretøyforskriften § 14-1](forskrift/1994-10-04-918/§14-1) nr. 1, første og annet ledd og [§ 14-1](forskrift/1994-10-04-918/§14-1) nr. 2. Amatørbygd motorsykkel skal i tillegg oppfylle kravene i [kjøretøyforskriften § 14-6](forskrift/1994-10-04-918/§14-6).
+12. Krav til plass for kjennemerke i [kjøretøyforskriften § 39-1](forskrift/1994-10-04-918/§39-1) og [§ 39-2](forskrift/1994-10-04-918/§39-2) nr. 1 til nr. 3.
+
+    Amatørbygd bil skal ha kjennemerkeplassering i henhold til kravene i [kjøretøyforskriften § 39-3](forskrift/1994-10-04-918/§39-3).
+
+    Amatørbygd motorsykkel skal ha kjennemerkeplassering i henhold til kravene i [kjøretøyforskriften § 39-7](forskrift/1994-10-04-918/§39-7).
 
 ## Kapittel 4. Avsluttende bestemmelser
 

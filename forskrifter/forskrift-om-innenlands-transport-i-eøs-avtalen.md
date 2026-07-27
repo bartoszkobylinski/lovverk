@@ -15,7 +15,7 @@ xml_hash: "bc12d485479e8ba91638d6eeabe8cf2b57a3c360b5584ec0688033d831084663"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,18 @@ eu_basis: []
 
 ### § 1
 
-Følgende regler i [EØS-avtalen vedlegg XIII, kapittel I](avtale/avt-1992-05-02-1-v13/kapI) – Innlandstransport – gjelder som forskrift med de endringer og tillegg som følger av vedlegget selv, protokoll 1 til avtalen og avtalen ellers:Vedlegget pkt. 1 (Rådsforordning [(EØF) nr. 1108/70](eu/31970r1108*) av 4. juni 1970, sist endret ved Rådsforordning [(EØF) nr. 3572/90](eu/31990r3572) av 4. desember 1990) om innføring av et regnskapssystem for infrastrukturkostnader i forbindelse med transport med jernbane, på veg og innlands vannvei;Vedlegget pkt. 2a (forordning [(EF) nr. 851/2006](eu/32006r0851) av 9. juni 2006) om fastsettelsen av innholdet i de forskjellige postene i regnskapsskjemaene i vedlegg I til forordning [(EØF) nr. 1108/70](eu/31970r1108*);Vedlegget pkt. 3 (Kommisjonsforordning [(EØF) nr. 281/71](eu/31971r0281) av 9. februar 1971) om utarbeidelse av en liste over vannveier av maritim karakter nevnt i artikkel 3 bokstav e) i rådsforordning [(EØF) nr. 1108/70](eu/31970r1108*) av 4. juni 1970;– – –Vedlegget pkt. 5 (Rådsvedtak [78/174/EØF](eu/31978d0174) av 20. februar 1978) om innføring av en konsultasjonsordning og nedsettelse av en komité for transportinfrastruktur;Vedlegget pkt. 6 (Rådsforordning [(EØF) nr. 11/60](eu/31960r0011), endret ved Rådsforordning [(EØF) nr. 3626/84](eu/31984r3626) av 19. desember 1984 og Rådsforordning [(EF) nr. 569/2008](eu/32008r0569)) om avskaffelse av forskjellsbehandling med hensyn til transportpriser og transportvilkår i henhold til artikkel 79 paragraf 3 i traktaten om opprettelse av Det europeiske økonomiske fellesskap;– – –Vedlegget pkt. 12 (Europaparlaments- og rådsforordning [(EF) nr. 1100/2008](eu/32008r1100) av 22. oktober 2008) om avskaffelse av kontroll ved medlemsstatenes grenser i forbindelse med transport på veg og innlands vannvei;Vedlegget pkt. 12 a (Rådsforordning [(EØF) nr. 3912/92](eu/31992r3912) av 17. desember 1992) om kontroll innenfor Fellesskapet i forbindelse med transport på veg og innlands vannvei utført av transportmidler registrert i eller tillatt satt i trafikk i en tredjestat;Vedlegget pkt. 13 (Rådsdirektiv [92/106/EØF](eu/31992l0106) av 7. desember 1992) om innføring av felles regler for visse typer kombinert transport av gods mellom medlemsstater. Jf. Stortingets vedtak om vektårsavgift.
+Følgende regler i [EØS-avtalen vedlegg XIII, kapittel I](avtale/avt-1992-05-02-1-v13/kapI) – Innlandstransport – gjelder som forskrift med de endringer og tillegg som følger av vedlegget selv, protokoll 1 til avtalen og avtalen ellers:
+
+1. Vedlegget pkt. 1 (Rådsforordning [(EØF) nr. 1108/70](eu/31970r1108*) av 4. juni 1970, sist endret ved Rådsforordning [(EØF) nr. 3572/90](eu/31990r3572) av 4. desember 1990) om innføring av et regnskapssystem for infrastrukturkostnader i forbindelse med transport med jernbane, på veg og innlands vannvei;
+2. Vedlegget pkt. 2a (forordning [(EF) nr. 851/2006](eu/32006r0851) av 9. juni 2006) om fastsettelsen av innholdet i de forskjellige postene i regnskapsskjemaene i vedlegg I til forordning [(EØF) nr. 1108/70](eu/31970r1108*);
+3. Vedlegget pkt. 3 (Kommisjonsforordning [(EØF) nr. 281/71](eu/31971r0281) av 9. februar 1971) om utarbeidelse av en liste over vannveier av maritim karakter nevnt i artikkel 3 bokstav e) i rådsforordning [(EØF) nr. 1108/70](eu/31970r1108*) av 4. juni 1970;
+4. – – –
+5. Vedlegget pkt. 5 (Rådsvedtak [78/174/EØF](eu/31978d0174) av 20. februar 1978) om innføring av en konsultasjonsordning og nedsettelse av en komité for transportinfrastruktur;
+6. Vedlegget pkt. 6 (Rådsforordning [(EØF) nr. 11/60](eu/31960r0011), endret ved Rådsforordning [(EØF) nr. 3626/84](eu/31984r3626) av 19. desember 1984 og Rådsforordning [(EF) nr. 569/2008](eu/32008r0569)) om avskaffelse av forskjellsbehandling med hensyn til transportpriser og transportvilkår i henhold til artikkel 79 paragraf 3 i traktaten om opprettelse av Det europeiske økonomiske fellesskap;
+7. – – –
+8. Vedlegget pkt. 12 (Europaparlaments- og rådsforordning [(EF) nr. 1100/2008](eu/32008r1100) av 22. oktober 2008) om avskaffelse av kontroll ved medlemsstatenes grenser i forbindelse med transport på veg og innlands vannvei;
+9. Vedlegget pkt. 12 a (Rådsforordning [(EØF) nr. 3912/92](eu/31992r3912) av 17. desember 1992) om kontroll innenfor Fellesskapet i forbindelse med transport på veg og innlands vannvei utført av transportmidler registrert i eller tillatt satt i trafikk i en tredjestat;
+10. Vedlegget pkt. 13 (Rådsdirektiv [92/106/EØF](eu/31992l0106) av 7. desember 1992) om innføring av felles regler for visse typer kombinert transport av gods mellom medlemsstater. Jf. Stortingets vedtak om vektårsavgift.
 
 > Endret ved [forskrifter 31 okt 1997 nr. 1140](forskrift/1997-10-31-1140), [29 juni 2007 nr. 822](forskrift/2007-06-29-822) (i kraft 1 juli 2007), [24 april 2009 nr. 448](forskrift/2009-04-24-448), [17 des 2010 nr. 1673](forskrift/2010-12-17-1673) (i kraft 1 jan 2011), [4 des 2023 nr. 1962](forskrift/2023-12-04-1962).
 
@@ -96,7 +107,9 @@ Dersom en transport utføres av flere transportører etter hverandre på grunnla
 
 ### Artikkel 4
 
-1\. Ved transport innenfor Fellesskapet skal den forskjellsbehandling være forbudt som består i at en transportør på grunnlag av de transporterte varers opprinnelsesstat eller bestemmelsessted anvender forskjellige priser og vilkår for samme varer for samme transportforbindelser.Dette forbud berører ikke gyldigheten av privatrettslige avtaler.
+1\. Ved transport innenfor Fellesskapet skal den forskjellsbehandling være forbudt som består i at en transportør på grunnlag av de transporterte varers opprinnelsesstat eller bestemmelsessted anvender forskjellige priser og vilkår for samme varer for samme transportforbindelser.
+
+Dette forbud berører ikke gyldigheten av privatrettslige avtaler.
 
 2\. Det skal også være forbudt å fastsette takster eller transportpriser og transportvilkår av en hvilken som helst art som innebærer forskjellsbehandling i henhold til nr. 1.
 
@@ -112,7 +125,14 @@ Dersom en transport utføres av flere transportører etter hverandre på grunnla
 
 ### Artikkel 6
 
-1\. For hver transport innenfor Fellesskapet skal det utferdiges et transportdokument som inneholder følgende opplysninger:avsenderens navn og adresse,varenes art og vekt,sted og dato for overtakelse av varene til befordring,bestemmelsessted for levering av varene,transportrute eller avstand, i den utstrekning dette gjør det rimelig å fastsette en pris som avviker fra vanlige transportpriser,eventuelt grenseoverganger.
+1\. For hver transport innenfor Fellesskapet skal det utferdiges et transportdokument som inneholder følgende opplysninger:
+
+- avsenderens navn og adresse,
+- varenes art og vekt,
+- sted og dato for overtakelse av varene til befordring,
+- bestemmelsessted for levering av varene,
+- transportrute eller avstand, i den utstrekning dette gjør det rimelig å fastsette en pris som avviker fra vanlige transportpriser,
+- eventuelt grenseoverganger.
 
 2\. Transportdokumentet skal utferdiges i to eksemplarer og nummereres. Det ene eksemplaret skal følge varene, og det annet skal transportøren oppbevare i nummerert rekkefølge i to år fra den dag transporten finner sted. Det annet eksemplar skal inneholde alle endelige transportpriser uansett form, øvrige kostnader, eventuelle rabatter og andre forhold som påvirker transportpriser og transportvilkår.
 
@@ -128,11 +148,20 @@ Dersom en transport utføres av flere transportører etter hverandre på grunnla
 
 ### Artikkel 8
 
-Bestemmelsene i artikkel 6 kommer ikke til anvendelse på:varetransport fra en avsender til en og samme mottaker når den samlede vekt ikke overstiger 5 tonn,varetransport innen en medlemsstat når den totale transportstrekning ikke overstiger hundre kilometer,varetransport mellom medlemsstatene når den totale transportstrekning ikke overstiger tretti kilometer.
+Bestemmelsene i artikkel 6 kommer ikke til anvendelse på:
+
+1. varetransport fra en avsender til en og samme mottaker når den samlede vekt ikke overstiger 5 tonn,
+2. varetransport innen en medlemsstat når den totale transportstrekning ikke overstiger hundre kilometer,
+3. varetransport mellom medlemsstatene når den totale transportstrekning ikke overstiger tretti kilometer.
 
 ### Artikkel 9
 
-Bestemmelsene i artikkel 6 kommer ikke til anvendelse på varetransport som et foretak utfører til eget bruk, i den utstrekning følgende vilkår er oppfylt:varene skal transporteres med transportmidler som foretaket eier eller har kjøpt på avbetaling, og som føres av egne ansatte,transport skal være en underordnet oppgave innenfor rammen av foretakets samlede oppgaver,foretaket skal eie eller ha solgt, kjøpt, utlånt, lånt, utleid, leid, produsert, bearbeidet eller reparert de transporterte varene,transportens formål skal være å bringe varene til eller sende dem fra foretaket, eller å flytte varene innenfor eller, til eget bruk, utenfor foretakets område.
+Bestemmelsene i artikkel 6 kommer ikke til anvendelse på varetransport som et foretak utfører til eget bruk, i den utstrekning følgende vilkår er oppfylt:
+
+- varene skal transporteres med transportmidler som foretaket eier eller har kjøpt på avbetaling, og som føres av egne ansatte,
+- transport skal være en underordnet oppgave innenfor rammen av foretakets samlede oppgaver,
+- foretaket skal eie eller ha solgt, kjøpt, utlånt, lånt, utleid, leid, produsert, bearbeidet eller reparert de transporterte varene,
+- transportens formål skal være å bringe varene til eller sende dem fra foretaket, eller å flytte varene innenfor eller, til eget bruk, utenfor foretakets område.
 
 ### Artikkel 10
 
@@ -164,9 +193,24 @@ Dersom det ikke er fastsatt regler innenfor rammen av traktatens artikkel 74 og 
 
 ### Artikkel 14
 
-1\. Medlemsstatene skal føre tilsyn med overholdelsen av de forpliktelser som er pålagt transportørene i henhold til artikkel 5 nr. 2, artikkel 6 og artikkel 11 i denne forordning, samt plikten til å gi opplysninger etter artikkel 13.For dette formål skal medlemsstatene etter samråd med Kommisjonen treffe de nødvendige tiltak før 1. juli 1961.
+1\. Medlemsstatene skal føre tilsyn med overholdelsen av de forpliktelser som er pålagt transportørene i henhold til artikkel 5 nr. 2, artikkel 6 og artikkel 11 i denne forordning, samt plikten til å gi opplysninger etter artikkel 13.
 
-2\. I den utstrekning det er nødvendig for å gjennomføre denne forordning, kan Kommisjonen gi sine representanter eller sakkyndige i oppdrag å kontrollere eller føre tilsyn med at foretakene overholder de forpliktelser de er pålagt i henhold til artikkel 5, 6, 11 og 13 i denne forordning.For dette formål har Kommisjonens representanter rett og myndighet til:å kontrollere foretakenes bøker og andre forretningsdokumenter,å ta kopier eller utdrag av bøkene og dokumentene på stedet,å kreve adgang til foretakets lokaler, områder og kjøretøyer,å kreve hvilken som helst forklaring når det gjelder foretakenes bøker og forretningsdokumenter.Kommisjonens representanter skal utøve disse rettigheter ved å forevise en legitimasjon der det fremgår at de er pålagt å foreta den nødvendige kontroll i henhold til denne artikkel. De skal bringe med seg en kontrollordre med angivelse av det foretak som skal kontrolleres og av kontrollens formål. Vedkommende medlemsstat skal på forhånd på behørig måte underrettes om kontrollordren og stillingen til de personer som er pålagt å utføre kontrollen.Representanter for vedkommende medlemsstat kan på anmodning fra medlemsstaten eller fra Kommisjonen bistå Kommisjonens representanter i å utføre deres oppgaver.Dersom et foretak motsetter seg kontroll i henhold til denne forordning, skal vedkommende medlemsstat gi Kommisjonens representanter den bistand de trenger for å gjennomføre sine kontrolloppdrag. For å oppnå dette skal medlemsstatene etter samråd med Kommisjonen treffe de nødvendige tiltak før 1. juli 1961.
+For dette formål skal medlemsstatene etter samråd med Kommisjonen treffe de nødvendige tiltak før 1. juli 1961.
+
+2\. I den utstrekning det er nødvendig for å gjennomføre denne forordning, kan Kommisjonen gi sine representanter eller sakkyndige i oppdrag å kontrollere eller føre tilsyn med at foretakene overholder de forpliktelser de er pålagt i henhold til artikkel 5, 6, 11 og 13 i denne forordning.
+
+For dette formål har Kommisjonens representanter rett og myndighet til:
+
+1. å kontrollere foretakenes bøker og andre forretningsdokumenter,
+2. å ta kopier eller utdrag av bøkene og dokumentene på stedet,
+3. å kreve adgang til foretakets lokaler, områder og kjøretøyer,
+4. å kreve hvilken som helst forklaring når det gjelder foretakenes bøker og forretningsdokumenter.
+
+Kommisjonens representanter skal utøve disse rettigheter ved å forevise en legitimasjon der det fremgår at de er pålagt å foreta den nødvendige kontroll i henhold til denne artikkel. De skal bringe med seg en kontrollordre med angivelse av det foretak som skal kontrolleres og av kontrollens formål. Vedkommende medlemsstat skal på forhånd på behørig måte underrettes om kontrollordren og stillingen til de personer som er pålagt å utføre kontrollen.
+
+Representanter for vedkommende medlemsstat kan på anmodning fra medlemsstaten eller fra Kommisjonen bistå Kommisjonens representanter i å utføre deres oppgaver.
+
+Dersom et foretak motsetter seg kontroll i henhold til denne forordning, skal vedkommende medlemsstat gi Kommisjonens representanter den bistand de trenger for å gjennomføre sine kontrolloppdrag. For å oppnå dette skal medlemsstatene etter samråd med Kommisjonen treffe de nødvendige tiltak før 1. juli 1961.
 
 3\. Alle personer som deltar i kontroll i henhold til denne artikkel, er undergitt taushetsplikt i samsvar med traktatens artikkel 214.
 
@@ -178,7 +222,11 @@ Dersom det ikke er fastsatt regler innenfor rammen av traktatens artikkel 74 og 
 
 ### Artikkel 16
 
-Medlemsstatene skal etter samråd med Kommisjonen og innen fristen nevnt i artikkel 14 nr. 1 fastsette egnede sanksjoner overfor:transportører som har unndratt seg kontroll i henhold til artikkel 5 nr. 2 og artikkel 6,foretak som etter anmodning om opplysninger i henhold til artikkel 11 og 13 har unnlatt å gi disse opplysninger til sin regjering innen den fastsatte fristen,foretak som forsettlig har gitt sin regjering uriktige opplysninger.
+Medlemsstatene skal etter samråd med Kommisjonen og innen fristen nevnt i artikkel 14 nr. 1 fastsette egnede sanksjoner overfor:
+
+1. transportører som har unndratt seg kontroll i henhold til artikkel 5 nr. 2 og artikkel 6,
+2. foretak som etter anmodning om opplysninger i henhold til artikkel 11 og 13 har unnlatt å gi disse opplysninger til sin regjering innen den fastsatte fristen,
+3. foretak som forsettlig har gitt sin regjering uriktige opplysninger.
 
 ### Artikkel 17
 

@@ -15,7 +15,7 @@ xml_hash: "5b03b7452fe8bf75508fe26eba27ca96d3c6649a76f2a6f2d69b2443bf5bed2f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -116,7 +116,11 @@ Det er et vilkår for rett til erstatning at virksomheten har fulgt en godkjent 
 
 ### § 11. Søknad
 
-Søknad om erstatning etter [§ 5](forskrift/2016-05-29-545/§5) – § 10 skal sendes statsforvalteren, på skjema fastsatt av Landbruksdirektoratet. Nødvendig dokumentasjon skal vedlegges søknaden. Obligatoriske vedlegg er:kopi av påleggbekreftelse på gjennomføring av påleggetspesifisert dokumentasjon over tap og utgifter ved gjennomføringen.
+Søknad om erstatning etter [§ 5](forskrift/2016-05-29-545/§5) – § 10 skal sendes statsforvalteren, på skjema fastsatt av Landbruksdirektoratet. Nødvendig dokumentasjon skal vedlegges søknaden. Obligatoriske vedlegg er:
+
+- kopi av pålegg
+- bekreftelse på gjennomføring av pålegget
+- spesifisert dokumentasjon over tap og utgifter ved gjennomføringen.
 
 Søknadsfristen er 6 måneder etter at pålagte tiltak er gjennomført og godkjent av Mattilsynet. Det kan fattes vedtak om delutbetaling etter dokumenterte utgifter eller tap.
 
@@ -166,7 +170,15 @@ I forskriften her gjelder følgende definisjoner:
 
 ### § 16. Fraktkostnader
 
-Ved beregning av erstatning etter pålagt nedslakting av dyr benyttet eller tiltenkt benyttet i egen avl, erstattes frakt av nye dyr tilbake til eiendommen etter følgende satser:Småfe: 80 kroner per dyr.Storfe: 130 kroner per kalv, 460 kroner per voksne dyr.Gris: 20 kroner per smågris, 260 kroner per voksne dyr.For fjørfe gis det ikke erstatning for frakt av dyr tilbake til eiendommen.
+Ved beregning av erstatning etter pålagt nedslakting av dyr benyttet eller tiltenkt benyttet i egen avl, erstattes frakt av nye dyr tilbake til eiendommen etter følgende satser:
+
+Småfe: 80 kroner per dyr.
+
+Storfe: 130 kroner per kalv, 460 kroner per voksne dyr.
+
+Gris: 20 kroner per smågris, 260 kroner per voksne dyr.
+
+For fjørfe gis det ikke erstatning for frakt av dyr tilbake til eiendommen.
 
 ### § 17. Standardsatser for småfe
 

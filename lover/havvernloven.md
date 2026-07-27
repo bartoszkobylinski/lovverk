@@ -15,7 +15,7 @@ xml_hash: "b906b4942cdacd200a885f4dfa426ff9e98bdb487aec68acc193b6630790e1b1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,16 @@ Prinsippene i [naturmangfoldloven §§ 8](lov/2009-06-19-100/§8) til [12](lov/2
 
 ### § 5. Mål for områdevern
 
-Marine verneområder skal bidra til bevaring avvariasjonsbredden av naturtyper og undersjøiske landskap,arter og genetisk mangfold,truet natur,større intakte økosystemer,områder med særskilte naturhistoriske verdier,områder med særskilte kulturhistoriske verdier,økologiske sammenhenger nasjonalt og internasjonalt, ellerreferanseområder for å følge utviklingen av naturen.
+Marine verneområder skal bidra til bevaring av
+
+1. variasjonsbredden av naturtyper og undersjøiske landskap,
+2. arter og genetisk mangfold,
+3. truet natur,
+4. større intakte økosystemer,
+5. områder med særskilte naturhistoriske verdier,
+6. områder med særskilte kulturhistoriske verdier,
+7. økologiske sammenhenger nasjonalt og internasjonalt, eller
+8. referanseområder for å følge utviklingen av naturen.
 
 Verneområder kan i tillegg bidra til bevaring av områder som er viktige for naturens evne til å binde og lagre karbon, eller natur som kan redusere de negative virkningene av endret klima.
 
@@ -52,7 +61,15 @@ Verneområder kan i tillegg bidra til bevaring av områder som er viktige for na
 
 Det kan opprettes marine verneområder for å beskytte verneverdier, inkludert naturverdier som er økologiske betingelser for landlevende arter. Marine verneområder opprettes ved at det gis forskrift etter [§ 7](lov/2025-06-10-33/§7).
 
-Som marine verneområder kan vernes områder sominneholder særegne eller representative økosystemer, og som er uten tyngre naturinngrep,inneholder truet, sjelden eller sårbar natur,representerer en bestemt type natur,på annen måte har særlig betydning for naturmangfold,utgjør en spesiell geologisk forekomst,har særskilt naturvitenskapelig verdi, ellerhar særskilt betydning som økologisk funksjonsområde for en eller flere nærmere bestemte arter.
+Som marine verneområder kan vernes områder som
+
+1. inneholder særegne eller representative økosystemer, og som er uten tyngre naturinngrep,
+2. inneholder truet, sjelden eller sårbar natur,
+3. representerer en bestemt type natur,
+4. på annen måte har særlig betydning for naturmangfold,
+5. utgjør en spesiell geologisk forekomst,
+6. har særskilt naturvitenskapelig verdi, eller
+7. har særskilt betydning som økologisk funksjonsområde for en eller flere nærmere bestemte arter.
 
 Som marint verneområde kan også vernes et område som ved fri naturlig utvikling eller aktive restaureringstiltak kan oppfylle ett eller flere av vilkårene i andre ledd bokstav a til g. Dersom det opprettes marine verneområder som krever restaureringstiltak, skal utkast til plan for restaureringen om mulig legges frem samtidig med at verneforskriften blir fastsatt.
 
@@ -64,7 +81,11 @@ Kongen i statsråd gir forskrift om det enkelte verneområde etter [§ 6](lov/20
 
 Overfor rettighetshavere som berøres av en verneforskrift, gjelder også [forvaltningslovens](lov/1967-02-10) regler om enkeltvedtak.
 
-Forskriften skal angiverneområdets formål, også hvilke naturverdier vernet skal ivareta og den tilstanden som ønskes oppnådd med vernet,verneområdets grenser og bestemmelser om bruk og vern av området, ogom verneformålet og restriksjonene gjelder vannsøylen, vannflaten, havbunnen inkludert undergrunnen under havbunnen, eller en kombinasjon av disse.
+Forskriften skal angi
+
+1. verneområdets formål, også hvilke naturverdier vernet skal ivareta og den tilstanden som ønskes oppnådd med vernet,
+2. verneområdets grenser og bestemmelser om bruk og vern av området, og
+3. om verneformålet og restriksjonene gjelder vannsøylen, vannflaten, havbunnen inkludert undergrunnen under havbunnen, eller en kombinasjon av disse.
 
 Verneområdets geografiske utstrekning skal fastsettes ut fra verneformålet. Ved avgrensing av verneområdet skal det legges vekt på å ivareta økologiske funksjoner av betydning for verneformålet og økosystemets tåleevne mot ytre påvirkninger.
 
@@ -114,7 +135,12 @@ Ved fastsettelse av verneforskrift etter [§ 7](lov/2025-06-10-33/§7) skal det 
 
 ### § 14. Mindre endringer av eksisterende verneforskrifter
 
-Departementet kan gi forskrift om følgende mindre endringer i eksisterende verneforskrifter:endring av verneområdets navnretting av feil i verneforskriftengrenseendringer som omfatter mindre arealer, og som ikke får nevneverdig betydning for private interesserfastsettelse av forvaltningsmyndighet og annen myndighet etter loven.
+Departementet kan gi forskrift om følgende mindre endringer i eksisterende verneforskrifter:
+
+1. endring av verneområdets navn
+2. retting av feil i verneforskriften
+3. grenseendringer som omfatter mindre arealer, og som ikke får nevneverdig betydning for private interesser
+4. fastsettelse av forvaltningsmyndighet og annen myndighet etter loven.
 
 ### § 15. Forskrifter om midlertidig vern
 
@@ -144,7 +170,11 @@ Berører restaurerings- eller skjøtselstiltak rettigheter i verneområdet, skal
 
 ### § 18. Dispensasjon fra verneforskrifter
 
-Departementet kan gi dispensasjon fra en verneforskrift dersomdet ikke strider mot forskriftens formål og ikke kan påvirke verneverdiene nevneverdig,sikkerhetshensyn gjør det nødvendig, ellerhensynet til vesentlige samfunnsinteresser gjør det nødvendig.
+Departementet kan gi dispensasjon fra en verneforskrift dersom
+
+1. det ikke strider mot forskriftens formål og ikke kan påvirke verneverdiene nevneverdig,
+2. sikkerhetshensyn gjør det nødvendig, eller
+3. hensynet til vesentlige samfunnsinteresser gjør det nødvendig.
 
 Søknader om dispensasjon skal inneholde nødvendig dokumentasjon om tiltakets virkning på verneverdiene. Ved dispensasjon skal begrunnelsen vise hvordan virkningene dispensasjonen kan få for verneverdiene, er vurdert, og hvilken vekt det er lagt på dette.
 
@@ -154,7 +184,13 @@ Trenger et tiltak tillatelse både etter bestemmelser gitt i eller i medhold av 
 
 ### § 19. Endring og omgjøring av tillatelser
 
-Departementet kan oppheve eller endre vilkårene i en tillatelse gitt i medhold av forskrift fastsatt etter [§ 7 femte ledd tredje punktum](lov/2025-06-10-33/§7/ledd/5/setning/3) eller av [§ 18](lov/2025-06-10-33/§18), sette nye vilkår og om nødvendig kalle tillatelsen tilbake hvisdet er nødvendig for å hindre uforutsette vesentlige skadevirkninger på verneverdiene,skadevirkningene på verneverdiene kan minskes uten urimelig kostnad for tiltakshaveren,ny teknologi gjør det mulig å redusere ulempene for verneverdiene vesentlig,tiltakshaveren i betydelig grad, gjentatte ganger eller vedvarende overtrer bestemmelser gitt i eller i medhold av loven, ellerdet for øvrig følger av ellers gjeldende omgjøringsregler.
+Departementet kan oppheve eller endre vilkårene i en tillatelse gitt i medhold av forskrift fastsatt etter [§ 7 femte ledd tredje punktum](lov/2025-06-10-33/§7/ledd/5/setning/3) eller av [§ 18](lov/2025-06-10-33/§18), sette nye vilkår og om nødvendig kalle tillatelsen tilbake hvis
+
+1. det er nødvendig for å hindre uforutsette vesentlige skadevirkninger på verneverdiene,
+2. skadevirkningene på verneverdiene kan minskes uten urimelig kostnad for tiltakshaveren,
+3. ny teknologi gjør det mulig å redusere ulempene for verneverdiene vesentlig,
+4. tiltakshaveren i betydelig grad, gjentatte ganger eller vedvarende overtrer bestemmelser gitt i eller i medhold av loven, eller
+5. det for øvrig følger av ellers gjeldende omgjøringsregler.
 
 En tillatelse kan i alle tilfeller tilbakekalles eller endres når det er gått ti år siden den ble gitt. Departementet kan lempe på begrensninger og vilkår i en tillatelse dersom det kan skje uten skadevirkninger av betydning for verneverdiene.
 
@@ -224,7 +260,12 @@ Departementet kan frafalle en påløpt tvangsmulkt. En avgjørelse om slikt fraf
 
 ### § 29. Overtredelsesgebyr
 
-Departementet kan ilegge overtredelsesgebyr til den somovertrer bestemmelsene i [§ 6 fjerde ledd](lov/2025-06-10-33/§6/ledd/4) og [§ 21 andre ledd første punktum](lov/2025-06-10-33/§21/ledd/2/setning/1), [§ 22](lov/2025-06-10-33/§22), [§ 23 andre ledd](lov/2025-06-10-33/§23/ledd/2), [§ 25 andre ledd](lov/2025-06-10-33/§25/ledd/2) og [§ 26 første ledd](lov/2025-06-10-33/§26/ledd/1),overtrer bestemmelser i en forskrift gitt med hjemmel i [§ 7 første ledd](lov/2025-06-10-33/§7/ledd/1) og [§ 15 første](lov/2025-06-10-33/§15/ledd/1) og [andre ledd](lov/2025-06-10-33/§15/ledd/2),overtrer bestemmelser i en enkelttillatelse gitt med hjemmel i en forskrift som nevnt i bokstav b, eller dispensasjon gitt med hjemmel i [§ 18 første ledd](lov/2025-06-10-33/§18/ledd/1), ellerunnlater å etterkomme et særskilt pålegg etter [§ 21 andre ledd andre punktum](lov/2025-06-10-33/§21/ledd/2/setning/2), [§ 23 første ledd](lov/2025-06-10-33/§23/ledd/1), [§ 25 første ledd](lov/2025-06-10-33/§25/ledd/1) og [§ 26 andre ledd](lov/2025-06-10-33/§26/ledd/2).
+Departementet kan ilegge overtredelsesgebyr til den som
+
+1. overtrer bestemmelsene i [§ 6 fjerde ledd](lov/2025-06-10-33/§6/ledd/4) og [§ 21 andre ledd første punktum](lov/2025-06-10-33/§21/ledd/2/setning/1), [§ 22](lov/2025-06-10-33/§22), [§ 23 andre ledd](lov/2025-06-10-33/§23/ledd/2), [§ 25 andre ledd](lov/2025-06-10-33/§25/ledd/2) og [§ 26 første ledd](lov/2025-06-10-33/§26/ledd/1),
+2. overtrer bestemmelser i en forskrift gitt med hjemmel i [§ 7 første ledd](lov/2025-06-10-33/§7/ledd/1) og [§ 15 første](lov/2025-06-10-33/§15/ledd/1) og [andre ledd](lov/2025-06-10-33/§15/ledd/2),
+3. overtrer bestemmelser i en enkelttillatelse gitt med hjemmel i en forskrift som nevnt i bokstav b, eller dispensasjon gitt med hjemmel i [§ 18 første ledd](lov/2025-06-10-33/§18/ledd/1), eller
+4. unnlater å etterkomme et særskilt pålegg etter [§ 21 andre ledd andre punktum](lov/2025-06-10-33/§21/ledd/2/setning/2), [§ 23 første ledd](lov/2025-06-10-33/§23/ledd/1), [§ 25 første ledd](lov/2025-06-10-33/§25/ledd/1) og [§ 26 andre ledd](lov/2025-06-10-33/§26/ledd/2).
 
 Departementet kan gi forskrift om utmåling av overtredelsesgebyr.
 
@@ -232,7 +273,12 @@ Adgangen til å ilegge overtredelsesgebyr foreldes to år etter at overtredelsen
 
 ### § 30. Straff
 
-Med bøter eller fengsel inntil ett år straffes den som forsettlig eller uaktsomtovertrer bestemmelsene i [§ 6 fjerde ledd](lov/2025-06-10-33/§6/ledd/4), [§ 21 andre ledd første punktum](lov/2025-06-10-33/§21/ledd/2/setning/1), [§ 22](lov/2025-06-10-33/§22), [§ 23 andre ledd](lov/2025-06-10-33/§23/ledd/2), [§ 25 andre ledd](lov/2025-06-10-33/§25/ledd/2) og [§ 26 første ledd](lov/2025-06-10-33/§26/ledd/1),overtrer bestemmelser i en forskrift gitt med hjemmel i [§ 7 første ledd](lov/2025-06-10-33/§7/ledd/1) og [§ 15 første](lov/2025-06-10-33/§15/ledd/1) og [andre ledd](lov/2025-06-10-33/§15/ledd/2),overtrer bestemmelser i enkelttillatelser gitt med hjemmel i en forskrift som nevnt i bokstav b eller dispensasjon gitt med hjemmel i [§ 18 første ledd](lov/2025-06-10-33/§18/ledd/1), ellerunnlater å etterkomme særskilt pålegg etter [§ 21 andre ledd andre punktum](lov/2025-06-10-33/§21/ledd/2/setning/2), [§ 23 første ledd](lov/2025-06-10-33/§23/ledd/1), [§ 25 første ledd](lov/2025-06-10-33/§25/ledd/1) og [§ 26 andre ledd](lov/2025-06-10-33/§26/ledd/2).
+Med bøter eller fengsel inntil ett år straffes den som forsettlig eller uaktsomt
+
+1. overtrer bestemmelsene i [§ 6 fjerde ledd](lov/2025-06-10-33/§6/ledd/4), [§ 21 andre ledd første punktum](lov/2025-06-10-33/§21/ledd/2/setning/1), [§ 22](lov/2025-06-10-33/§22), [§ 23 andre ledd](lov/2025-06-10-33/§23/ledd/2), [§ 25 andre ledd](lov/2025-06-10-33/§25/ledd/2) og [§ 26 første ledd](lov/2025-06-10-33/§26/ledd/1),
+2. overtrer bestemmelser i en forskrift gitt med hjemmel i [§ 7 første ledd](lov/2025-06-10-33/§7/ledd/1) og [§ 15 første](lov/2025-06-10-33/§15/ledd/1) og [andre ledd](lov/2025-06-10-33/§15/ledd/2),
+3. overtrer bestemmelser i enkelttillatelser gitt med hjemmel i en forskrift som nevnt i bokstav b eller dispensasjon gitt med hjemmel i [§ 18 første ledd](lov/2025-06-10-33/§18/ledd/1), eller
+4. unnlater å etterkomme særskilt pålegg etter [§ 21 andre ledd andre punktum](lov/2025-06-10-33/§21/ledd/2/setning/2), [§ 23 første ledd](lov/2025-06-10-33/§23/ledd/1), [§ 25 første ledd](lov/2025-06-10-33/§25/ledd/1) og [§ 26 andre ledd](lov/2025-06-10-33/§26/ledd/2).
 
 Grov overtredelse av bestemmelsene nevnt i første ledd straffes med bøter eller fengsel inntil fem år. Ved avgjørelsen av om overtredelsen er grov, skal det legges særlig vekt på om den har medført eller voldt fare for betydelig skade på verneverdiene, om skaden på verneverdiene må anses uopprettelig, graden av skyld, og om overtrederen har truffet forebyggende eller avbøtende tiltak.
 

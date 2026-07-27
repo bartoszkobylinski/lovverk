@@ -15,7 +15,7 @@ xml_hash: "61617aa6c0376a133b9cb4fd7549c8140c711a98c0fb5cc9a1d1bc027ffab79a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -254,7 +254,11 @@ Forkynnelsen kan foregå gjennom rekommandert brev.
 
 ### § 30
 
-Kjendelser og beslutninger som træffes under en retslig skjønsforretning kan ikke ankes av parterne uten i følgende tilfælde:naar de avviser saken eller hæver, stanser eller utsætter den, eller naar de forkaster en avvisningspaastand i tilfælde, hvor retsmøtet paa forhaand er begrænset til avvisningsspørsmaalet;naar de angaar straf-, omkostnings- eller erstatningsansvar eller tredjemands pligt til at avgi forklaring eller forsikring, at gi tilgang til realbevis eller at gjøre tjeneste som sakkyndig.Når kjennelsen tillater fortsatt behandling av saken i forfallstilfelle, jfr. [§ 11](lov/1917-06-01-1/§11) tredje og fjerde ledd.
+Kjendelser og beslutninger som træffes under en retslig skjønsforretning kan ikke ankes av parterne uten i følgende tilfælde:
+
+1. naar de avviser saken eller hæver, stanser eller utsætter den, eller naar de forkaster en avvisningspaastand i tilfælde, hvor retsmøtet paa forhaand er begrænset til avvisningsspørsmaalet;
+2. naar de angaar straf-, omkostnings- eller erstatningsansvar eller tredjemands pligt til at avgi forklaring eller forsikring, at gi tilgang til realbevis eller at gjøre tjeneste som sakkyndig.
+3. Når kjennelsen tillater fortsatt behandling av saken i forfallstilfelle, jfr. [§ 11](lov/1917-06-01-1/§11) tredje og fjerde ledd.
 
 > Endret ved lover 13 feb 1976 nr. 2, [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
@@ -276,7 +280,13 @@ Når den ene part begjærer overskjønn over deler av et skjønn, får også den
 
 ### § 33
 
-Begjæring om overskjønn må nevne:den rett overskjønnet hører under, partene i overskjønnssaken og i tilfelle deres lovlige stedfortredere,det underskjønn som kreves overprøvd,om det er hele underskjønnets avgjørelse eller bare deler av den som kreves overprøvd,de feil ved avgjørelsen som begjæringen om overskjønn grunnes på, ogde omstendigheter som er avgjørende for retten til å kreve overskjønn.
+Begjæring om overskjønn må nevne:
+
+1. den rett overskjønnet hører under, partene i overskjønnssaken og i tilfelle deres lovlige stedfortredere,
+2. det underskjønn som kreves overprøvd,
+3. om det er hele underskjønnets avgjørelse eller bare deler av den som kreves overprøvd,
+4. de feil ved avgjørelsen som begjæringen om overskjønn grunnes på, og
+5. de omstendigheter som er avgjørende for retten til å kreve overskjønn.
 
 > Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
@@ -292,7 +302,15 @@ Etter utløpet av fristen sendes sakens dokumenter til lagmannsretten når overs
 
 Overskjønn over rettslig skjønn hører under lagmannsretten, som settes med en av rettens dommere hvis ikke førstelagmannen av særlige grunner finner det nødvendig at tre dommere deltar.
 
-Førstelagmannen kan bestemme at en jordskiftelagdommer kan delta og styre overskjønn etter første ledd når skjønnet er behandlet av jordskifteretten. Det samme gjelder når skjønnet er behandlet av tingretten med unntak av skjønn etter[lov 22. mars 2019 nr. 7 om mineralvirksomhet på kontinentalsokkelen § 5-6](lov/2019-03-22-7/§5-6)[lov 16. desember 2011 nr. 65 om næringsberedskap § 18](lov/2011-12-16-65/§18)[lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret § 27](lov/2010-06-25-45/§27)[lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap § 3-3](lov/2000-06-23-56/§3-3)[lov 29. november 1996 nr. 72 om petroleumsvirksomhet § 5-6](lov/1996-11-29-72/§5-6)[lov 24. juni 1994 nr. 39 om sjøfarten kapittel 18](lov/1994-06-24-39/kap18) III, og[lov 26. juni 1953 nr. 8 om oppfinnelser av betydning for rikets forsvar § 9](lov/1953-06-26-8/§9).
+Førstelagmannen kan bestemme at en jordskiftelagdommer kan delta og styre overskjønn etter første ledd når skjønnet er behandlet av jordskifteretten. Det samme gjelder når skjønnet er behandlet av tingretten med unntak av skjønn etter
+
+1. [lov 22. mars 2019 nr. 7 om mineralvirksomhet på kontinentalsokkelen § 5-6](lov/2019-03-22-7/§5-6)
+2. [lov 16. desember 2011 nr. 65 om næringsberedskap § 18](lov/2011-12-16-65/§18)
+3. [lov 25. juni 2010 nr. 45 om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret § 27](lov/2010-06-25-45/§27)
+4. [lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap § 3-3](lov/2000-06-23-56/§3-3)
+5. [lov 29. november 1996 nr. 72 om petroleumsvirksomhet § 5-6](lov/1996-11-29-72/§5-6)
+6. [lov 24. juni 1994 nr. 39 om sjøfarten kapittel 18](lov/1994-06-24-39/kap18) III, og
+7. [lov 26. juni 1953 nr. 8 om oppfinnelser av betydning for rikets forsvar § 9](lov/1953-06-26-8/§9).
 
 Under skjønnsforretningen tiltrer skjønnsmedlemmer i samme antall som ved underskjønnet. Når en part krever det og rettens leder finner det påkrevet, kan antallet skjønnsmedlemmer økes til fire ved overskjønn over skjønn med to skjønnsmedlemmer og til seks ved overskjønn over skjønn med fire skjønnsmedlemmer. Når tre dommere deltar, avgjør rettens leder om det skal være med to eller fire skjønnsmedlemmer.
 
@@ -300,7 +318,11 @@ Under skjønnsforretningen tiltrer skjønnsmedlemmer i samme antall som ved unde
 
 ### § 35
 
-Under overskjønnet kan hver av partene inndra nye skjønnskrav som står i sammenheng med et tidligere innbragt skjønnskrav:når det gjøres sannsynlig at utvidelsen har sin grunn i omstendigheter som først senere er inntrådt eller blitt parten bekjent; ellernår motparten samtykker; ellernår motpartens stilling ikke vil bli vesentlig vanskeliggjort ved forandringen.
+Under overskjønnet kan hver av partene inndra nye skjønnskrav som står i sammenheng med et tidligere innbragt skjønnskrav:
+
+1. når det gjøres sannsynlig at utvidelsen har sin grunn i omstendigheter som først senere er inntrådt eller blitt parten bekjent; eller
+2. når motparten samtykker; eller
+3. når motpartens stilling ikke vil bli vesentlig vanskeliggjort ved forandringen.
 
 > Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88).
 
@@ -432,7 +454,10 @@ Saksøkte kan kreve at saksøkeren under saken betaler saksøktes nødvendige ut
 
 ### § 54 a
 
-Ved overskjønn som alene er begjært av saksøkte, gjelder bestemmelsene i [§ 54](lov/1917-06-01-1/§54) første ledd barenår han ved overskjønnet oppnår en bedre avgjørelse enn ved underskjønnet, ellernår retten finner at underskjønnet lider av slike feil eller avgjørelsen er så tvilsom at han hadde rimelig grunn til å begjære overskjønn.
+Ved overskjønn som alene er begjært av saksøkte, gjelder bestemmelsene i [§ 54](lov/1917-06-01-1/§54) første ledd bare
+
+1. når han ved overskjønnet oppnår en bedre avgjørelse enn ved underskjønnet, eller
+2. når retten finner at underskjønnet lider av slike feil eller avgjørelsen er så tvilsom at han hadde rimelig grunn til å begjære overskjønn.
 
 Ved avgjørelsen av om saksøkte har oppnådd en bedre avgjørelse skal det foretas en totalvurdering hvor det blant annet tas hensyn til eventuelle endringer i inngrepets karakter og omfang. Det skal ses bort fra økning i erstatningen som bare skyldes alminnelig prisstigning på fast eiendom.
 

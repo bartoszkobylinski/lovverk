@@ -36,7 +36,44 @@ Klonavl og sertifisert avl av settepoteter må ha foregått i henhold til forskr
 
 ## § 4. Tilskudd
 
-Det kan utbetales tilskudd til nedskriving av prisen på settepoteter i klassene prebasis, basis og sertifisert og til avl av klon, prebasis, basis og sertifiserte settepoteter innen rammen av bevilgninger i henhold til jordbruksavtalens bestemmelser.*Klonavl*Det ytes tilskudd til klonavler etter følgende satser:For 1. og 2. års kloner utbetales et fast beløp for hvert klonparti inntil 30 kloner, slik:1. års klonparti kr 700,- i alt2. års klonparti kr 1.500,- i alt.For 3. og 4. års kloner som holdes adskilt, er tilskuddet kr 500,- per dekar, og dersom de slås sammen, betales det arealtilskudd som for prebasis.Dersom en dyrker er pålagt flere en 30 kloner, skal godtgjørelsen for de overskytende 1. og 2. års kloner være kr 55,- per klon.Det kan dessuten etter søknad, gis tilskudd til drift og vedlikehold av nødvendige veksthus, til testingsutgifter, jordprøvetaking for kontroll med potetcystenematode m.m., utskifting av settepoteter (punktsanering), utstyr til varmeterapi.*Poteter av klassene prebasis, basis og sertifisert**Arealtilskudd*For klasse prebasis gis det et dyrkingstilskudd for godkjent klasse på kr 300,- per dekar. I tillegg gis et tilskudd på kr 2.000,- per parti. Parallelle kloner regnes som ett parti dersom de neste sesong vil utgjøre ett utsædsparti. Det gis ikke tilskudd til prebasissentrene.Arealtilskuddet utbetales ordinært bare når det er levert settepoteter av de klasser som er fastsatt i forskrift om settepoteter, jf. for øvrig [§ 9](forskrift/2002-07-03-780/§9), 3. ledd.*Prisnedskriving*Til nedskriving av prisen på sertifiserte settepoteter i alle klasser gis et tilskudd på:0,25 kr per kg for konvensjonelt dyrkede poteter3,00 kr per kg for økologisk dyrkede poteter.Prisnedskriving skal gjøres kjent på prislister og faktura.*Distriktstilskudd*Det gis et distriktstilskudd på 1 kr per kg for sertifiserte settepoteter dyrket i Nord-Norge.*Frakttilskudd*Ved forsendelse av settepoteter av klassene prebasis, basis og sertifisert skal fraktutgiftene for produsent ikke være mer enn 25 øre per kg. For fraktutgifter utover dette ytes tilskudd. Det forutsettes at transporten skjer på billigste måte og i rasjonelle partier.Lokale fraktutgifter ved fordeling og distribusjon av partiene dekkes ikke av tilskuddsordningen.
+Det kan utbetales tilskudd til nedskriving av prisen på settepoteter i klassene prebasis, basis og sertifisert og til avl av klon, prebasis, basis og sertifiserte settepoteter innen rammen av bevilgninger i henhold til jordbruksavtalens bestemmelser.
+
+1. *Klonavl*
+
+   1. Det ytes tilskudd til klonavler etter følgende satser:
+
+      For 1. og 2. års kloner utbetales et fast beløp for hvert klonparti inntil 30 kloner, slik:
+
+      - 1\. års klonparti kr 700,- i alt
+      - 2\. års klonparti kr 1.500,- i alt.
+
+      For 3. og 4. års kloner som holdes adskilt, er tilskuddet kr 500,- per dekar, og dersom de slås sammen, betales det arealtilskudd som for prebasis.
+
+      Dersom en dyrker er pålagt flere en 30 kloner, skal godtgjørelsen for de overskytende 1. og 2. års kloner være kr 55,- per klon.
+   2. Det kan dessuten etter søknad, gis tilskudd til drift og vedlikehold av nødvendige veksthus, til testingsutgifter, jordprøvetaking for kontroll med potetcystenematode m.m., utskifting av settepoteter (punktsanering), utstyr til varmeterapi.
+2. *Poteter av klassene prebasis, basis og sertifisert*
+
+   1. *Arealtilskudd*
+
+      For klasse prebasis gis det et dyrkingstilskudd for godkjent klasse på kr 300,- per dekar. I tillegg gis et tilskudd på kr 2.000,- per parti. Parallelle kloner regnes som ett parti dersom de neste sesong vil utgjøre ett utsædsparti. Det gis ikke tilskudd til prebasissentrene.
+
+      Arealtilskuddet utbetales ordinært bare når det er levert settepoteter av de klasser som er fastsatt i forskrift om settepoteter, jf. for øvrig [§ 9](forskrift/2002-07-03-780/§9), 3. ledd.
+   2. *Prisnedskriving*
+
+      Til nedskriving av prisen på sertifiserte settepoteter i alle klasser gis et tilskudd på:
+
+      - 0,25 kr per kg for konvensjonelt dyrkede poteter
+      - 3,00 kr per kg for økologisk dyrkede poteter.
+
+      Prisnedskriving skal gjøres kjent på prislister og faktura.
+   3. *Distriktstilskudd*
+
+      Det gis et distriktstilskudd på 1 kr per kg for sertifiserte settepoteter dyrket i Nord-Norge.
+   4. *Frakttilskudd*
+
+      Ved forsendelse av settepoteter av klassene prebasis, basis og sertifisert skal fraktutgiftene for produsent ikke være mer enn 25 øre per kg. For fraktutgifter utover dette ytes tilskudd. Det forutsettes at transporten skjer på billigste måte og i rasjonelle partier.
+
+      Lokale fraktutgifter ved fordeling og distribusjon av partiene dekkes ikke av tilskuddsordningen.
 
 Godkjente sorter som er med i settepotetavlen, kan motta tilskudd selv om varen ikke har blitt godkjent i henhold til de ordinære kvalitetskrav når settepotetene, etter søknad til Landbruksdirektoratet, likevel godkjennes for omsetning som sertifisert vare.
 
@@ -62,9 +99,26 @@ Tilskuddene utbetales av Landbruksdirektoratet. De som får tilskudd skal avgi r
 
 Arealtilskuddet utbetales på grunnlag av analysebevis fra Landbruksdirektoratet.
 
-Prisnedskrivings- og distriktstilskudd utbetales til autorisert settepotetforretning på grunnlag av avregning med settepotetprodusent. Avregningen skal ha følgende opplysninger:Produsentens navn og adresseVareslag (sort/klasse)LeveringsdatoNettovekt settepotetAnalysebevisSats og beløp for de enkelte tilskudd.
+Prisnedskrivings- og distriktstilskudd utbetales til autorisert settepotetforretning på grunnlag av avregning med settepotetprodusent. Avregningen skal ha følgende opplysninger:
 
-Frakttilskudd utbetales på grunnlag av fraktnota som skal ha følgende opplysninger:Avsender: Navn og adresseMottaker: Navn og adresseSalgs-/leveringsdatoAntall kolli og kollivektAvsender sted/stasjonBestemmelsessted/stasjonTransportmiddelVareslag (sort/klasse)Frakt.
+1. Produsentens navn og adresse
+2. Vareslag (sort/klasse)
+3. Leveringsdato
+4. Nettovekt settepotet
+5. Analysebevis
+6. Sats og beløp for de enkelte tilskudd.
+
+Frakttilskudd utbetales på grunnlag av fraktnota som skal ha følgende opplysninger:
+
+1. Avsender: Navn og adresse
+2. Mottaker: Navn og adresse
+3. Salgs-/leveringsdato
+4. Antall kolli og kollivekt
+5. Avsender sted/stasjon
+6. Bestemmelsessted/stasjon
+7. Transportmiddel
+8. Vareslag (sort/klasse)
+9. Frakt.
 
 > Endret ved [forskrifter 4 aug 2003 nr. 1006](forskrift/2003-08-04-1006), [9 jan 2004 nr. 177](forskrift/2004-01-09-177), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
 

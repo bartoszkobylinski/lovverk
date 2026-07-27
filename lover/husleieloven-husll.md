@@ -15,7 +15,7 @@ xml_hash: "ee3d4b4270830c80074ec2a1d9c0dd8af804e09e3232e750ae31bbac668d92fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -84,7 +84,10 @@ Er overleveringstidspunktet ikke fastsatt i avtalen, kan leieren kreve å overta
 
 Husrommet skal ved overleveringen være i samsvar med de krav som følger av leieavtalen. Er ikke annet avtalt, skal husrommet med tilbehør ved overleveringen være ryddet, rengjort og i vanlig god stand.
 
-Er ikke annet avtalt, har husrommet dessuten en mangel dersom det ikkepasser til de formål tilsvarende husrom vanligvis blir brukt til, ellerpasser til de særlige formål som leieren etter avtalen skulle bruke husrommet til, med mindre forholdene viser at leieren for så vidt ikke bygde på utleierens sakkunnskap eller vurdering eller ikke hadde rimelig grunn til å gjøre det.
+Er ikke annet avtalt, har husrommet dessuten en mangel dersom det ikke
+
+1. passer til de formål tilsvarende husrom vanligvis blir brukt til, eller
+2. passer til de særlige formål som leieren etter avtalen skulle bruke husrommet til, med mindre forholdene viser at leieren for så vidt ikke bygde på utleierens sakkunnskap eller vurdering eller ikke hadde rimelig grunn til å gjøre det.
 
 ### § 2-3. Uriktige opplysninger om husrommet
 
@@ -154,7 +157,10 @@ Ansvarsfriheten gjelder så lenge hindringen virker. Faller hindringen bort, kan
 
 Reglene i første til tredje ledd omfatter ikke slikt indirekte tap som nevnt i [§ 2-14](lov/1999-03-26-17/§2-14) annet ledd.
 
-Leieren kan i alle tilfeller kreve erstatning dersomforsinkelsen, mangelen eller tapet skyldes feil eller forsømmelse på utleierens side, ellerhusrommet alt på avtaletiden avvek fra det som er tilsikret fra utleieren.
+Leieren kan i alle tilfeller kreve erstatning dersom
+
+1. forsinkelsen, mangelen eller tapet skyldes feil eller forsømmelse på utleierens side, eller
+2. husrommet alt på avtaletiden avvek fra det som er tilsikret fra utleieren.
 
 > Endret ved lov [16 jan 2009 nr. 6](lov/2009-01-16-6) (ikr. 1 sep 2009 iflg. [res. 12 juni 2009 nr. 641](forskrift/2009-06-12-641)).
 
@@ -162,7 +168,11 @@ Leieren kan i alle tilfeller kreve erstatning dersomforsinkelsen, mangelen eller
 
 Erstatningen skal svare til det økonomiske tap leieren har lidt som følge av forsinkelsen eller mangelen. Dette gjelder likevel bare tap som utleieren med rimelighet kunne ha forutsett som en mulig følge av misligholdet.
 
-Som indirekte tap regnes:tap som følge av minsket eller bortfalt produksjon eller omsetning (driftsavbrudd),tapt fortjeneste som følge av at en kontrakt med tredjemann faller bort for så vidt leieren uten rimelig grunn lar være å leie annet husrom eller treffe andre tiltak for å unngå eller minske tapet, ogtap som følge av tingskade.
+Som indirekte tap regnes:
+
+1. tap som følge av minsket eller bortfalt produksjon eller omsetning (driftsavbrudd),
+2. tapt fortjeneste som følge av at en kontrakt med tredjemann faller bort for så vidt leieren uten rimelig grunn lar være å leie annet husrom eller treffe andre tiltak for å unngå eller minske tapet, og
+3. tap som følge av tingskade.
 
 Reglene i annet ledd gjelder ikke kostnader ved vanlige tiltak som kompenserer at husrommet overtas forsinket eller har mangler, og tiltak som begrenser annet tap enn det som annet ledd omfatter.
 
@@ -210,7 +220,10 @@ Forfallsdagen utskytes også så lenge betalingen hindres av stans i samferdsele
 
 Utleieren kan gi anvisning om overføringsmåten av leien dersom dette ikke medfører merutgifter eller vesentlig ulempe for leieren. Leieren har likevel alltid rett til å betale leie gjennom finansinstitusjon som har rett til å tilby slik tjeneste i Norge. Leieren plikter ikke å overføre leie til utlandet.
 
-Betaler leieren gjennom finansinstitusjon, skal betaling i forhold til forfallsreglene anses for skjedd nårbeløpet er mottatt av finansinstitusjon i Norge, elleret betalingsoppdrag er mottatt av finansinstitusjon i Norge, forutsatt at det er dekning for oppdraget.
+Betaler leieren gjennom finansinstitusjon, skal betaling i forhold til forfallsreglene anses for skjedd når
+
+1. beløpet er mottatt av finansinstitusjon i Norge, eller
+2. et betalingsoppdrag er mottatt av finansinstitusjon i Norge, forutsatt at det er dekning for oppdraget.
 
 > Endret ved lover [25 juni 1999 nr. 46](lov/1999-06-25-46) (ikr. 25 juni 1999 iflg. [res. 25 juni 1999 nr. 702](forskrift/1999-06-25-702)), [16 jan 2009 nr. 6](lov/2009-01-16-6) (ikr. 1 sep 2009 iflg. [res. 12 juni 2009 nr. 641](forskrift/2009-06-12-641)).
 
@@ -232,7 +245,11 @@ Det deponerte beløp skal settes på særskilt konto i leierens navn med vanlige
 
 Så lenge leieforholdet varer, kan ingen av partene disponere over beløpet på egen hånd. Leieren kan likevel kreve opptjente renter utbetalt fra finansinstitusjonen.
 
-Etter leieforholdets opphør skal finansinstitusjonen etter krav fra utleieren med frigjørende virkning utbetale skyldig leie fra kontoen dersom:partene skriftlig har avtalt at leien skal godskrives annen konto i den samme finansinstitusjonen,utleieren har dokumentert skyldig leie, ogleieren ikke dokumenterer å ha reist søksmål innen fem uker etter at varselet etter femte ledd er sendt.
+Etter leieforholdets opphør skal finansinstitusjonen etter krav fra utleieren med frigjørende virkning utbetale skyldig leie fra kontoen dersom:
+
+1. partene skriftlig har avtalt at leien skal godskrives annen konto i den samme finansinstitusjonen,
+2. utleieren har dokumentert skyldig leie, og
+3. leieren ikke dokumenterer å ha reist søksmål innen fem uker etter at varselet etter femte ledd er sendt.
 
 Krever utleieren utbetaling etter fjerde ledd, skal finansinstitusjonen varsle leieren om kravet og opplyse om at beløpet vil bli utbetalt til utleieren hvis leieren ikke innen fem uker etter at varselet er sendt, dokumenterer å ha reist søksmål. Varselet skal sendes til leierens oppgitte adresse og til en eventuell oppgitt elektronisk postadresse.
 
@@ -274,7 +291,11 @@ Det kan ikke avtales en leie som er urimelig i forhold til det som vanligvis opp
 
 ### § 4-2. Indeksregulering
 
-Hver av partene kan kreve leien endret uten oppsigelse av leieforholdet med følgende begrensninger:endringen må ikke tilsvare mer enn endringen i konsumprisindeksen i tiden etter siste leiefastsetting,endringen kan tidligst settes i verk ett år etter at siste leiefastsetting ble satt i verk, ogden annen part må gis skriftlig varsel med minst én måneds frist før endringen kan settes i verk.
+Hver av partene kan kreve leien endret uten oppsigelse av leieforholdet med følgende begrensninger:
+
+1. endringen må ikke tilsvare mer enn endringen i konsumprisindeksen i tiden etter siste leiefastsetting,
+2. endringen kan tidligst settes i verk ett år etter at siste leiefastsetting ble satt i verk, og
+3. den annen part må gis skriftlig varsel med minst én måneds frist før endringen kan settes i verk.
 
 ### § 4-3. Tilpassing til gjengs leie
 
@@ -456,7 +477,11 @@ Leieren har ikke adgang til å overføre sine rettigheter eller plikter etter le
 
 ### § 8-2. Leierens død
 
-Dør leieren av bolig, har følgende personer rett til å tre inn i leieavtalen:ektefelle som bor i boligen,leierens slektninger i rett nedstigende linje som hadde felles husstand med leieren i de siste seks måneder før dødsfallet, ogandre som ved dødsfallet hadde felles husstand med leieren, forutsatt at de fyller vilkårene i [lov av 4. juli 1991 nr. 45](lov/1991-07-04-45) om rett til felles bolig og innbo når husstandsfellesskap opphører [§ 1](lov/1991-07-04-45/§1).
+Dør leieren av bolig, har følgende personer rett til å tre inn i leieavtalen:
+
+1. ektefelle som bor i boligen,
+2. leierens slektninger i rett nedstigende linje som hadde felles husstand med leieren i de siste seks måneder før dødsfallet, og
+3. andre som ved dødsfallet hadde felles husstand med leieren, forutsatt at de fyller vilkårene i [lov av 4. juli 1991 nr. 45](lov/1991-07-04-45) om rett til felles bolig og innbo når husstandsfellesskap opphører [§ 1](lov/1991-07-04-45/§1).
 
 Gjenlevende ektefelle har fortrinnsrett til å tre inn i avtalen. De øvrige berettigede har innbyrdes lik rett til å tre inn.
 
@@ -512,7 +537,10 @@ Fortsetter leieforholdet i mer enn tre måneder etter utløpet av den avtalte le
 
 ### § 9-3. Adgangen til å inngå tidsbestemt leieavtale for bolig
 
-Det er ikke adgang til å inngå tidsbestemt leieavtale for bolig for kortere tid enn tre år. Minstetiden kan likevel settes til ett år hvis avtalen gjelder lofts- eller sokkelbolig i enebolig eller bolig i tomannsbolig, og utleieren bor i samme hus. Bestemmelsene i første og annet punktum gjelder ikke dersom:husrommet skal brukes som bolig av utleieren selv eller noen som hører til husstanden, ellerutleieren har en annen saklig grunn for tidsavgrensningen.
+Det er ikke adgang til å inngå tidsbestemt leieavtale for bolig for kortere tid enn tre år. Minstetiden kan likevel settes til ett år hvis avtalen gjelder lofts- eller sokkelbolig i enebolig eller bolig i tomannsbolig, og utleieren bor i samme hus. Bestemmelsene i første og annet punktum gjelder ikke dersom:
+
+1. husrommet skal brukes som bolig av utleieren selv eller noen som hører til husstanden, eller
+2. utleieren har en annen saklig grunn for tidsavgrensningen.
 
 Utleieren kan bare påberope seg unntakene i første ledd bokstav a og b dersom leieren senest ved inngåelsen av avtalen skriftlig ble gjort kjent med grunnen for tidsavgrensningen, og husrommet ved utløpet av den avtalte leietid skal brukes i samsvar med den oppgitte grunnen. Utsettes tidspunktet for når husrommet skal brukes i samsvar med den oppgitte grunnen, kan leieavtalen forlenges fram til dette tidspunktet dersom utsettelsen skyldes en uforutsett omstendighet som har inntrådt etter at avtalen ble inngått.
 
@@ -532,7 +560,12 @@ Er ikke annet avtalt, kan tidsubestemt leieavtale sies opp av leieren.
 
 Er ikke annet avtalt eller annet følger av loven her, kan tidsubestemt leieavtale sies opp av utleieren.
 
-En tidsubestemt leieavtale om bolig kan bare sies opp av utleieren dersom:husrommet skal brukes som bolig av utleieren selv eller noen som hører til husstanden,riving eller ombygging av eiendommen gjør at husrommet må fravikes,leieren har misligholdt leieavtalen, ellerdet foreligger en annen saklig grunn til å si opp leieavtalen.
+En tidsubestemt leieavtale om bolig kan bare sies opp av utleieren dersom:
+
+1. husrommet skal brukes som bolig av utleieren selv eller noen som hører til husstanden,
+2. riving eller ombygging av eiendommen gjør at husrommet må fravikes,
+3. leieren har misligholdt leieavtalen, eller
+4. det foreligger en annen saklig grunn til å si opp leieavtalen.
 
 Tidsubestemt leieavtale om enkelt beboelsesrom der leieren etter leieavtalen har adgang til en annens bolig, kan sies opp av utleieren uten hinder av bestemmelsene i annet ledd.
 
@@ -566,7 +599,13 @@ Bestemmelsene i første og annet ledd gjelder ikke for oppsigelse av tidsubestem
 
 ### § 9-9. Utleierens hevingsrett
 
-Utleieren kan heve leieavtalen på grunn av vesentlig mislighold fra leierens side. Vesentlig mislighold foreligger dersom:leieren vesentlig misligholder sin plikt til å betale leie eller oppfylle andre krav som reiser seg av leieavtalen,leieren tross skriftlig advarsel fra utleieren i vesentlig grad forsømmer sin vedlikeholdsplikt eller fortsetter å opptre på en måte som er til alvorlig skade eller sjenanse for utleieren, eiendommen eller øvrige brukere,leieren uten å ha rett til det helt eller delvis overlater bruken av husrommet til andre og tross skriftlig advarsel fra utleieren ikke bringer forholdet til opphør,leieren uten å ha rett til det bruker husrommet på annen måte eller til andre formål enn avtalt og tross skriftlig advarsel fra utleieren ikke bringer forholdet til opphør, ellerleieren for øvrig misligholder sine plikter på en måte som gjør det nødvendig å bringe leieavtalen til opphør.
+Utleieren kan heve leieavtalen på grunn av vesentlig mislighold fra leierens side. Vesentlig mislighold foreligger dersom:
+
+1. leieren vesentlig misligholder sin plikt til å betale leie eller oppfylle andre krav som reiser seg av leieavtalen,
+2. leieren tross skriftlig advarsel fra utleieren i vesentlig grad forsømmer sin vedlikeholdsplikt eller fortsetter å opptre på en måte som er til alvorlig skade eller sjenanse for utleieren, eiendommen eller øvrige brukere,
+3. leieren uten å ha rett til det helt eller delvis overlater bruken av husrommet til andre og tross skriftlig advarsel fra utleieren ikke bringer forholdet til opphør,
+4. leieren uten å ha rett til det bruker husrommet på annen måte eller til andre formål enn avtalt og tross skriftlig advarsel fra utleieren ikke bringer forholdet til opphør, eller
+5. leieren for øvrig misligholder sine plikter på en måte som gjør det nødvendig å bringe leieavtalen til opphør.
 
 En erklæring om at utleieren hever leieavtalen, skal være skriftlig. Den kan pålegge leieren straks å flytte og levere husrommet tilbake. I erklæringen skal grunnen til å heve leieavtalen oppgis.
 
@@ -692,7 +731,11 @@ Skal leieren tre ut av arbeidsforholdet eller bli forflyttet, kan oppsigelse av 
 
 Retten til å heve leieavtalen ved forsinkelse etter [§ 2-12](lov/1999-03-26-17/§2-12) og bestemmelsene i [§ 7-4](lov/1999-03-26-17/§7-4) og [§ 8-3](lov/1999-03-26-17/§8-3) gjelder ikke for bolig som leieren har plikt til å bebo, og boplikten er nødvendig for utføringen av arbeidet. For slik bolig faller leieavtalen bort uten hinder av bestemmelsene i [kapittel 9](lov/1999-03-26-17/kap9) når leieren trer ut av arbeidsforholdet, eller blir forflyttet.
 
-Bestemmelsene i fjerde ledd gjelder tilsvarende for:bolig som staten har stilt til disposisjon for medlemmer og varamedlemmer til Stortinget eller for departementenes politiske ledelse,bolig som kommune, Opplysningsvesenets fond eller lovbestemt kirkelig organ har stilt til disposisjon for embets- eller tjenestemann i Den norske kirke, ogbolig som forsvaret har stilt til disposisjon for eget personell.
+Bestemmelsene i fjerde ledd gjelder tilsvarende for:
+
+1. bolig som staten har stilt til disposisjon for medlemmer og varamedlemmer til Stortinget eller for departementenes politiske ledelse,
+2. bolig som kommune, Opplysningsvesenets fond eller lovbestemt kirkelig organ har stilt til disposisjon for embets- eller tjenestemann i Den norske kirke, og
+3. bolig som forsvaret har stilt til disposisjon for eget personell.
 
 For boliger som nevnt i femte ledd gjelder ikke [§§ 4-2](lov/1999-03-26-17/§4-2) og [4-3](lov/1999-03-26-17/§4-3).
 
@@ -716,7 +759,10 @@ Avtale om at tvister mellom utleier og leier som gjelder leie av bolig skal avgj
 
 Kommer ikke partene til enighet om hva som er markedsleie etter [§ 3-1](lov/1999-03-26-17/§3-1) eller gjengs leie etter [§ 4-3](lov/1999-03-26-17/§4-3), kan hver av partene kreve tvisten avgjort av en takstnemnd. Det samme gjelder dersom partene ikke kommer til enighet om vederlag for forbedringer etter [§ 10-5](lov/1999-03-26-17/§10-5).
 
-Takstnemnda skal bestå av tre medlemmer og oppnevnes av tingretten i den rettskrets hvor eiendommen ligger. For takstnemnda gjelder bestemmelsene i [domstolsloven §§ 106](lov/1915-08-13-5/§106) og [108](lov/1915-08-13-5/§108) så langt de passer. Hver av partene kan sette fram krav om ny takstnemnd innen fjorten dager etter at takstnemndas skriftlige og begrunnede avgjørelse er mottatt. Tingretten skal ta kravet til følge hvis:avgjørelsen bygger på uforsvarlig saksbehandling eller uriktig oppfatning av faktiske omstendigheter, og dette må antas å ha påvirket verdsettelsen i vesentlig grad, ellerverdsettelsen åpenbart er uriktig.
+Takstnemnda skal bestå av tre medlemmer og oppnevnes av tingretten i den rettskrets hvor eiendommen ligger. For takstnemnda gjelder bestemmelsene i [domstolsloven §§ 106](lov/1915-08-13-5/§106) og [108](lov/1915-08-13-5/§108) så langt de passer. Hver av partene kan sette fram krav om ny takstnemnd innen fjorten dager etter at takstnemndas skriftlige og begrunnede avgjørelse er mottatt. Tingretten skal ta kravet til følge hvis:
+
+1. avgjørelsen bygger på uforsvarlig saksbehandling eller uriktig oppfatning av faktiske omstendigheter, og dette må antas å ha påvirket verdsettelsen i vesentlig grad, eller
+2. verdsettelsen åpenbart er uriktig.
 
 Hver av partene kan bringe saken inn for tingretten ved stevning. Stevningen må være inngått til retten innen én måned etter at takstnemndas skriftlige og begrunnede avgjørelse er mottatt. På samme måte kan saken bringes inn for tingretten dersom takstnemndas avgjørelse ikke foreligger to måneder etter oppnevningen. En avgjørelse som ikke er brakt inn for retten innen fristen nevnt i annet punktum, har virkning som en rettskraftig dom. Retten kan gi oppfriskning for oversittelse av frist som nevnt i annet punktum.
 
@@ -764,7 +810,13 @@ Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
 Loven gjelder fullt ut for leieavtale som er inngått etter lovens ikrafttredelse.
 
-For tidsubestemt leieavtale som er inngått før lovens ikrafttredelse gjelder loven fra utløpet av den lengste oppsigelsesfristen, regnet fra lovens ikrafttredelse, med følgende unntak eller endringer:Bestemmelsene i [§ 3-1](lov/1999-03-26-17/§3-1) første ledd om leien skal gjelde fra det tidspunkt leien etter lov eller avtale skal fastsettes på ny. Bestemmelsen i [§ 3-6](lov/1999-03-26-17/§3-6) annet punktum om garantibeløp skal ikke gjelde garantiavtale inngått før lovens ikrafttredelse. Det samme skal gjelde ved fornyelse av slik avtale, dersom leieren etter leieavtalen som gjaldt ved lovens ikrafttredelse var forpliktet til dette.Bestemmelsene i [kapittel 9](lov/1999-03-26-17/kap9) om oppsigelse skal gjelde for oppsigelse som gis etter lovens ikrafttredelse.Bestemmelsene i [§ 10-5](lov/1999-03-26-17/§10-5) om vederlag for forbedringer skal gjelde dersom utleierens samtykke er gitt etter lovens ikrafttredelse.Bestemmelsene i [kapittel 11](lov/1999-03-26-17/kap11) skal ikke gjelde for avtale som er inngått før lovens ikrafttredelse.Bestemmelsene i [§ 12-1](lov/1999-03-26-17/§12-1) om voldgift skal gjelde for voldgiftsavtale som er inngått etter lovens ikrafttredelse. Bestemmelsene i [§ 12-3](lov/1999-03-26-17/§12-3) om midlertidig bruksrett skal gjelde dersom søksmål er reist etter lovens ikrafttredelse. Bestemmelsene i [§ 12-4](lov/1999-03-26-17/§12-4) om foregrepet tvangskraft skal gjelde dersom dommen er avsagt etter lovens ikrafttredelse. For dommer forkynt etter lovens ikrafttredelse gjelder ankefristene i [tvisteloven § 29-5](lov/2005-06-17-90/§29-5).
+For tidsubestemt leieavtale som er inngått før lovens ikrafttredelse gjelder loven fra utløpet av den lengste oppsigelsesfristen, regnet fra lovens ikrafttredelse, med følgende unntak eller endringer:
+
+1. Bestemmelsene i [§ 3-1](lov/1999-03-26-17/§3-1) første ledd om leien skal gjelde fra det tidspunkt leien etter lov eller avtale skal fastsettes på ny. Bestemmelsen i [§ 3-6](lov/1999-03-26-17/§3-6) annet punktum om garantibeløp skal ikke gjelde garantiavtale inngått før lovens ikrafttredelse. Det samme skal gjelde ved fornyelse av slik avtale, dersom leieren etter leieavtalen som gjaldt ved lovens ikrafttredelse var forpliktet til dette.
+2. Bestemmelsene i [kapittel 9](lov/1999-03-26-17/kap9) om oppsigelse skal gjelde for oppsigelse som gis etter lovens ikrafttredelse.
+3. Bestemmelsene i [§ 10-5](lov/1999-03-26-17/§10-5) om vederlag for forbedringer skal gjelde dersom utleierens samtykke er gitt etter lovens ikrafttredelse.
+4. Bestemmelsene i [kapittel 11](lov/1999-03-26-17/kap11) skal ikke gjelde for avtale som er inngått før lovens ikrafttredelse.
+5. Bestemmelsene i [§ 12-1](lov/1999-03-26-17/§12-1) om voldgift skal gjelde for voldgiftsavtale som er inngått etter lovens ikrafttredelse. Bestemmelsene i [§ 12-3](lov/1999-03-26-17/§12-3) om midlertidig bruksrett skal gjelde dersom søksmål er reist etter lovens ikrafttredelse. Bestemmelsene i [§ 12-4](lov/1999-03-26-17/§12-4) om foregrepet tvangskraft skal gjelde dersom dommen er avsagt etter lovens ikrafttredelse. For dommer forkynt etter lovens ikrafttredelse gjelder ankefristene i [tvisteloven § 29-5](lov/2005-06-17-90/§29-5).
 
 Som tidsubestemt etter bestemmelsen her regnes også leieavtale mellom borettslag eller boligaksjeselskap og selskapsmedlem med bruksrett.
 

@@ -15,7 +15,7 @@ xml_hash: "3966351eb8268e57649cf71829e9fe6b1184c470de1880faacc2719bd7a70a2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "31998L0026"
@@ -101,7 +101,13 @@ Norges Bank kan fastsette nærmere krav til virksomheten, herunder kapitalkrav t
 
 ### § 2-5. Søknad om konsesjon
 
-Søknaden om konsesjon skal opplyse om:eier- og deltakerforhold samt plan for systemets organisering og drift, herunder om oppgavefordelingen mellom banker og andre institusjoner som deltar i systemet,de kriterier som er fastsatt for tilslutning til og deltakelse i systemet. Er deltakelse i systemet betinget av medlemskap eller kapitalinnskudd, skal det opplyses om dette,tiltak for å sikre den tekniske driften, herunder beredskap for driftsavbrudd dersom det ordinære systemet ikke fungerer,tiltak for å begrense risiki i systemet som følge av likviditets- eller soliditetssvikt hos deltakere i slike systemer,prinsipper for tilknytning av systemer for betalingstjenester og annen overføring av penger mellom kundekonti.
+Søknaden om konsesjon skal opplyse om:
+
+1. eier- og deltakerforhold samt plan for systemets organisering og drift, herunder om oppgavefordelingen mellom banker og andre institusjoner som deltar i systemet,
+2. de kriterier som er fastsatt for tilslutning til og deltakelse i systemet. Er deltakelse i systemet betinget av medlemskap eller kapitalinnskudd, skal det opplyses om dette,
+3. tiltak for å sikre den tekniske driften, herunder beredskap for driftsavbrudd dersom det ordinære systemet ikke fungerer,
+4. tiltak for å begrense risiki i systemet som følge av likviditets- eller soliditetssvikt hos deltakere i slike systemer,
+5. prinsipper for tilknytning av systemer for betalingstjenester og annen overføring av penger mellom kundekonti.
 
 Avtale som nevnt i [§ 2-4](lov/1999-12-17-95/§2-4) tredje ledd skal vedlegges søknaden.
 
@@ -131,7 +137,11 @@ Norges Bank kan kreve at det utpekes ny operatør dersom operatøren ikke lenger
 
 ### § 2-10. Tilbakekall av konsesjon
 
-Norges Bank kan trekke tillatelsen etter [§ 2-3](lov/1999-12-17-95/§2-3) helt eller delvis tilbake dersom:operatøren har gjort seg skyldig i grov eller vedvarende overtredelse av sine plikter gitt i eller i medhold av lov,det ellers forekommer misligheter hos operatøren eller andre omstendigheter som gir grunn til å frykte at systemet ikke virker som angitt i [§ 2-1](lov/1999-12-17-95/§2-1),operatøren ikke lenger driver aktiv virksomhet knyttet til den konsesjonspliktige virksomheten.
+Norges Bank kan trekke tillatelsen etter [§ 2-3](lov/1999-12-17-95/§2-3) helt eller delvis tilbake dersom:
+
+1. operatøren har gjort seg skyldig i grov eller vedvarende overtredelse av sine plikter gitt i eller i medhold av lov,
+2. det ellers forekommer misligheter hos operatøren eller andre omstendigheter som gir grunn til å frykte at systemet ikke virker som angitt i [§ 2-1](lov/1999-12-17-95/§2-1),
+3. operatøren ikke lenger driver aktiv virksomhet knyttet til den konsesjonspliktige virksomheten.
 
 ## Kapittel 3. Systemer for betalingstjenester
 
@@ -143,7 +153,12 @@ Formålet med bestemmelsene i dette kapittel er å bidra til at systemer for bet
 
 Det skal uten unødig opphold gis melding til Finanstilsynet om etablering og drift av system for betalingstjenester.
 
-Meldingen skal inneholde opplysninger om:avtalene mellom deltakende institusjoner om overføring eller uttak av betalingsmidler,avtalene om tilknytning av brukersteder,avtalene mellom systemer for betalingstjenester,bruk av betalingskort, tallkoder eller annen form for selvstendig brukerlegitimasjon som skal benyttes ved betaling.
+Meldingen skal inneholde opplysninger om:
+
+1. avtalene mellom deltakende institusjoner om overføring eller uttak av betalingsmidler,
+2. avtalene om tilknytning av brukersteder,
+3. avtalene mellom systemer for betalingstjenester,
+4. bruk av betalingskort, tallkoder eller annen form for selvstendig brukerlegitimasjon som skal benyttes ved betaling.
 
 > Endret ved [lov 19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)).
 
@@ -229,13 +244,20 @@ Med betalingstjenester menes aktiviteter som nevnt i [finansavtaleloven § 1-5](
 
 Vilkår for deltakelse i betalingssystemer skal være objektive, ikke-diskriminerende og forholdsmessige, slik at vilkårene ikke hindrer tilgang og deltakelse i større utstrekning enn det som er nødvendig for å beskytte seg mot særlige former for risiko, så som oppgjørsrisiko, operasjonell risiko og forretningsmessig risiko, samt for å beskytte den finansielle og driftsmessige stabilitet.
 
-Betalingssystemer skal ikke pålegge ytere av betalingstjenester, brukere av betalingstjenester eller andre betalingssystemer:restriktive regler vedrørende effektiv deltakelse i andre betalingssystemer,regler som forskjellsbehandler betalingsforetak og andre ytere betalingstjenester når det gjelder deltakernes rettigheter, plikter og fortrinnsretter, ellerrestriksjoner på grunnlag av institusjonell status.
+Betalingssystemer skal ikke pålegge ytere av betalingstjenester, brukere av betalingstjenester eller andre betalingssystemer:
+
+1. restriktive regler vedrørende effektiv deltakelse i andre betalingssystemer,
+2. regler som forskjellsbehandler betalingsforetak og andre ytere betalingstjenester når det gjelder deltakernes rettigheter, plikter og fortrinnsretter, eller
+3. restriksjoner på grunnlag av institusjonell status.
 
 > Tilføyd ved [lov 4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)).
 
 ### § 5-3. Unntak
 
-Reglene i [§ 5-2](lov/1999-12-17-95/§5-2) gjelder ikke forbetalingssystemer som omfattes av rådsdirektiv [98/26/EF](eu/31998l0026) om endelig oppgjør i betalingssystem og i oppgjørssystem for verdipapir,betalingssystemer som utelukkende er sammensatt av ytere av betalingstjenester innenfor et finanskonsern.
+Reglene i [§ 5-2](lov/1999-12-17-95/§5-2) gjelder ikke for
+
+1. betalingssystemer som omfattes av rådsdirektiv [98/26/EF](eu/31998l0026) om endelig oppgjør i betalingssystem og i oppgjørssystem for verdipapir,
+2. betalingssystemer som utelukkende er sammensatt av ytere av betalingstjenester innenfor et finanskonsern.
 
 Deltaker i et betalingssystem som omfattes av rådsdirektiv [98/26/EF](eu/31998l0026) om endelig oppgjør i betalingssystem og i oppgjørssystem for verdipapir som gir én betalingstjenestetilbyder adgang til å sende transaksjoner gjennom systemet, skal på anmodning gi andre betalingstjenestetilbydere tilsvarende tilgang i samsvar med [§ 5-2](lov/1999-12-17-95/§5-2). Deltaker i det notifiserte systemet som avslår å gi betalingstjenestetilbyderen mulighet til å sende betalingsordre gjennom systemet, skal gi betalingstjenestetilbyderen begrunnelse for avslaget.
 
@@ -255,7 +277,13 @@ Dersom en kredittinstitusjon gir et betalingsforetak avslag på tilgang til inst
 
 ### § 6-2. Forskrifter
 
-Departementet kan fastsette nærmere regler om:norske finansforetaks deltakelse i utenlandske betalingssystemer og verdipapiroppgjørssystemer,avregning, oppgjør og overføring av betalingsmidler til og fra utlandet,systemer for betalinger som ikke er knyttet til kundekonti i banker og finansieringsforetak,Dersom det oppstår tvist mellom betalingsmottakere og deres tilbydere av betalingstjenester om bestemmelser i forordning [(EU) 2015/751](eu/32015r0751), kan hver av partene kreve å få behandlet denne av kompetent organ som fastsatt i forskrift av departementet. I forskriften kan departementet fastsette nærmere bestemmelser om organets virksomhet, herunder bestemmelser om at utgifter til organets virksomhet skal utliknes på foretakene eller dekkes av partene. Så lenge tvisten er til behandling i organet, kan ingen av partene bringe tvisten inn for domstolene. En sak som er realitetsbehandlet av organet, kan bringes direkte inn for domstolene.utfylling og avgrensning av bestemmelsene i loven her.
+Departementet kan fastsette nærmere regler om:
+
+1. norske finansforetaks deltakelse i utenlandske betalingssystemer og verdipapiroppgjørssystemer,
+2. avregning, oppgjør og overføring av betalingsmidler til og fra utlandet,
+3. systemer for betalinger som ikke er knyttet til kundekonti i banker og finansieringsforetak,
+4. Dersom det oppstår tvist mellom betalingsmottakere og deres tilbydere av betalingstjenester om bestemmelser i forordning [(EU) 2015/751](eu/32015r0751), kan hver av partene kreve å få behandlet denne av kompetent organ som fastsatt i forskrift av departementet. I forskriften kan departementet fastsette nærmere bestemmelser om organets virksomhet, herunder bestemmelser om at utgifter til organets virksomhet skal utliknes på foretakene eller dekkes av partene. Så lenge tvisten er til behandling i organet, kan ingen av partene bringe tvisten inn for domstolene. En sak som er realitetsbehandlet av organet, kan bringes direkte inn for domstolene.
+5. utfylling og avgrensning av bestemmelsene i loven her.
 
 > Endret ved [lover 4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), tidligere § 5-1, [20 des 2018 nr. 103](lov/2018-12-20-103) (ikr. 1 jan 2019), [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)), tidligere § 6-1, [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)).
 

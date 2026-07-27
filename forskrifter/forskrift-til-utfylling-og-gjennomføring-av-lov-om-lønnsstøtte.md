@@ -15,7 +15,7 @@ xml_hash: "f347f33fa567c6860afc66e0e371ca1f807536f5ced3104fdcaa707e12ba6b64"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1-1. Svalbard
 
-(1) Lønnsstøtteordningen gjelder tilsvarende for Svalbard, for følgende arbeidsgivere:selskap som er skattemessig hjemmehørende på Svalbardenkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbardselskap med deltakerfastsetting hvor deltakerne er skattemessig hjemmehørende på Svalbard.
+(1) Lønnsstøtteordningen gjelder tilsvarende for Svalbard, for følgende arbeidsgivere:
+
+1. selskap som er skattemessig hjemmehørende på Svalbard
+2. enkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbard
+3. selskap med deltakerfastsetting hvor deltakerne er skattemessig hjemmehørende på Svalbard.
 
 (2) Lønnsstøtteordningen gjelder ikke for institusjon eller organisasjon på Svalbard som er omfattet av [skatteloven § 2-32](lov/1999-03-26-14/§2-32).
 
@@ -56,7 +60,15 @@ Foretak skal ha de tillatelser, godkjenninger eller bevillinger som kreves for d
 
 ### § 2-4. Ytterligere vilkår for støtte
 
-(1) Den som søker om støtte, må oppfylle følgende vilkår:Søker må kunne dokumentere sin fullstendige eierstruktur, herunder både direkte og indirekte reelle eiere.Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 må være betalt.Skattemelding for formues- og inntektsskatt og årsregnskap for 2020 må være levert av søker som driver skattepliktig virksomhet etablert i 2020 eller tidligere, som har plikt til å levere dette. Øvrige rapporteringsplikter etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8) med leveringsfrist i perioden 1. januar 2019 og frem til 1. desember 2021, må være overholdt.Støttemottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.Søker skal ikke være registrert under avvikling i Foretaksregisteret.Det kan ikke eksistere tvangsgrunnlag eller avtale som gir særskilt dekningsrett i utbetalt støtte.Person med ledende rolle knyttet til søker kan ikke være ilagt konkurskarantene, jf. [konkursloven kapittel XVIII](lov/1984-06-08-58/KAPITTEL_2-11).
+(1) Den som søker om støtte, må oppfylle følgende vilkår:
+
+1. Søker må kunne dokumentere sin fullstendige eierstruktur, herunder både direkte og indirekte reelle eiere.
+2. Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 må være betalt.
+3. Skattemelding for formues- og inntektsskatt og årsregnskap for 2020 må være levert av søker som driver skattepliktig virksomhet etablert i 2020 eller tidligere, som har plikt til å levere dette. Øvrige rapporteringsplikter etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8) med leveringsfrist i perioden 1. januar 2019 og frem til 1. desember 2021, må være overholdt.
+4. Støttemottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.
+5. Søker skal ikke være registrert under avvikling i Foretaksregisteret.
+6. Det kan ikke eksistere tvangsgrunnlag eller avtale som gir særskilt dekningsrett i utbetalt støtte.
+7. Person med ledende rolle knyttet til søker kan ikke være ilagt konkurskarantene, jf. [konkursloven kapittel XVIII](lov/1984-06-08-58/KAPITTEL_2-11).
 
 (2) Med person med ledende rolle knyttet til søker menes daglig leder, styreleder, innehaver av enkeltpersonforetak, deltakere i ansvarlige selskap, hovedaksjonær eller den som kontrollerer selskapet indirekte selv eller gjennom nærstående som definert i [aksjeloven § 1-5](lov/1997-06-13-44/§1-5) første ledd, eller med annen særskilt tilknytning til foretaket.
 
@@ -70,9 +82,21 @@ Ansatte anses permittert ved iverksettelse av permittering, ved at varslingsperi
 
 (1) Foretakets samlede støtte per måned fra offentlige ordninger til lønnskostnader kan ikke overstige grunnlag for arbeidsgiveravgift, jf. [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2) tillagt arbeidsgiveravgift i støttemåneden. Overskytende beløp vil komme til fratrekk fra beregnet støtte etter [lønnsstøtteloven § 7](lov/2022-01-28-2/§7).
 
-(2) Foretak må gi opplysninger om samlet støtte mottatt under hver av følgende ordninger:kompensasjonsordningen for kultursektorenstimuleringsordningen for kultursektorenkommunal kompensasjonsordning for lokale virksomhetertilskuddsordningen for sysselsetting av sjøfolk (nettolønnsordningen)estimerte refusjoner og tilskudd fra NAV tillagt arbeidsgiveravgift.
+(2) Foretak må gi opplysninger om samlet støtte mottatt under hver av følgende ordninger:
 
-(3) For å beregne overkompensasjon av foretakets samlede lønnsytelser vil følgende støtte legges til grunn:100 prosent av mottatt lønnsstøtte.20 prosent av støtte mottatt gjennom kompensasjonsordningen og stimuleringsordningen for kultursektoren. Det er sjablongmessig forutsatt at 20 prosent av støtten i ordningene dekker lønnskostnader. For foretak som kan dokumentere, og få bekreftelse fra revisor eller autorisert regnskapsfører på, at andel av støtten i ordningen som har gått til lønn er lavere, kan denne andelen benyttes.20 prosent av støtte mottatt gjennom kommunal kompensasjonsordning for lokale virksomheter. Det er sjablongmessig forutsatt at 20 prosent av støtten i ordningen dekker lønnskostnader. For foretak som kan dokumentere, og få bekreftelse fra revisor eller autorisert regnskapsfører på, at andel av støtten i ordningen som har gått til lønn er lavere, kan denne andelen benyttes.100 prosent av støtte mottatt gjennom tilskuddsordningen for sysselsetting av sjøfolk (nettolønnsordningen).100 prosent av estimerte refusjoner og tilskudd som skal dekkes av NAV tillagt arbeidsgiveravgift.
+1. kompensasjonsordningen for kultursektoren
+2. stimuleringsordningen for kultursektoren
+3. kommunal kompensasjonsordning for lokale virksomheter
+4. tilskuddsordningen for sysselsetting av sjøfolk (nettolønnsordningen)
+5. estimerte refusjoner og tilskudd fra NAV tillagt arbeidsgiveravgift.
+
+(3) For å beregne overkompensasjon av foretakets samlede lønnsytelser vil følgende støtte legges til grunn:
+
+1. 100 prosent av mottatt lønnsstøtte.
+2. 20 prosent av støtte mottatt gjennom kompensasjonsordningen og stimuleringsordningen for kultursektoren. Det er sjablongmessig forutsatt at 20 prosent av støtten i ordningene dekker lønnskostnader. For foretak som kan dokumentere, og få bekreftelse fra revisor eller autorisert regnskapsfører på, at andel av støtten i ordningen som har gått til lønn er lavere, kan denne andelen benyttes.
+3. 20 prosent av støtte mottatt gjennom kommunal kompensasjonsordning for lokale virksomheter. Det er sjablongmessig forutsatt at 20 prosent av støtten i ordningen dekker lønnskostnader. For foretak som kan dokumentere, og få bekreftelse fra revisor eller autorisert regnskapsfører på, at andel av støtten i ordningen som har gått til lønn er lavere, kan denne andelen benyttes.
+4. 100 prosent av støtte mottatt gjennom tilskuddsordningen for sysselsetting av sjøfolk (nettolønnsordningen).
+5. 100 prosent av estimerte refusjoner og tilskudd som skal dekkes av NAV tillagt arbeidsgiveravgift.
 
 ## Kapittel 3. Utfyllende bestemmelser om beregning av støtte
 
@@ -96,7 +120,9 @@ Foretak som har vært part i fisjon eller fusjon som er registrert gjennomført 
 
 (3) Med antallet timer per måned i en fulltidsstilling, jf. [lov om lønnsstøtte § 7](lov/2022-01-28-2/§7) første ledd bokstav b, menes det antall arbeidstimer som utgjør en fulltidsstilling i et tilsvarende arbeidsforhold, fratrukket ubetalt spisepause. Timetallet er ikke justert for eventuell overtid, fravær, mertid mv. For ansatte som har flere separate arbeidsforhold for samme arbeidsgiver, legges det laveste timeantallet til grunn. Dersom timeantall ikke er oppgitt i a-meldingen benyttes en arbeidstid på 162,5 timer.
 
-(4) Avkortning etter [lov om lønnsstøtte § 7](lov/2022-01-28-2/§7) annet ledd bokstav a skal skje ved at beregnet støttebeløp multipliseres med faktoren som fremkommer ved følgende formel:(100/(100 – samlet fall i lønnskostnader i prosent)) \* (omsetningsfall i prosent – samlet fall i lønnskostnader i prosent)/omsetningsfall i prosent. Med lønnskostnader menes foretakets grunnlag for arbeidsgiveravgift, jf. [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2), tillagt arbeidsgiveravgift. Referanseperioden for beregning av fall i lønnskostnader skal være den samme som ved beregning av omsetningsfallet, jf. [lov om lønnsstøtte § 5](lov/2022-01-28-2/§5) første ledd.
+(4) Avkortning etter [lov om lønnsstøtte § 7](lov/2022-01-28-2/§7) annet ledd bokstav a skal skje ved at beregnet støttebeløp multipliseres med faktoren som fremkommer ved følgende formel:
+
+(100/(100 – samlet fall i lønnskostnader i prosent)) \* (omsetningsfall i prosent – samlet fall i lønnskostnader i prosent)/omsetningsfall i prosent. Med lønnskostnader menes foretakets grunnlag for arbeidsgiveravgift, jf. [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2), tillagt arbeidsgiveravgift. Referanseperioden for beregning av fall i lønnskostnader skal være den samme som ved beregning av omsetningsfallet, jf. [lov om lønnsstøtte § 5](lov/2022-01-28-2/§5) første ledd.
 
 ### § 3-4. Særlige regler for konsern
 
@@ -122,7 +148,16 @@ Foretak som har vært part i fisjon eller fusjon som er registrert gjennomført 
 
 (2) Folkeregistreringsmyndigheten, deltakende myndigheter i a-krimsentrene, Brønnøysundregistrene, Arbeidstilsynet, Arbeids- og velferdsetaten og andre offentlige myndigheter, skal uten hinder av taushetsplikt gi tilskuddsmyndigheten opplysninger som har betydning for forvaltningen av støtteordningen.
 
-(3) Følgende private rettssubjekter skal uten hinder av taushetsplikt gi opplysninger som har betydning for forvaltningen av støtteordningen til tilskuddsmyndigheten:banker og finansforetak, herunder opplysninger fra bankenes felles konto- og adresseringsregister, opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av støtteordningenforsikringsselskap og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikringgjeldsregisteret, herunder oppdatert gjeldsinformasjoninkassoforetak, herunder inkassoopplysningerkredittvurderingsbyråer, herunder opplysninger om betalingsanmerkninger og inkassosakertilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.Ved innhenting av opplysninger fra private rettssubjekter gjelder [skatteforvaltningsloven § 10-2](lov/2016-05-27-14/§10-2) tilsvarende.
+(3) Følgende private rettssubjekter skal uten hinder av taushetsplikt gi opplysninger som har betydning for forvaltningen av støtteordningen til tilskuddsmyndigheten:
+
+1. banker og finansforetak, herunder opplysninger fra bankenes felles konto- og adresseringsregister, opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av støtteordningen
+2. forsikringsselskap og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikring
+3. gjeldsregisteret, herunder oppdatert gjeldsinformasjon
+4. inkassoforetak, herunder inkassoopplysninger
+5. kredittvurderingsbyråer, herunder opplysninger om betalingsanmerkninger og inkassosaker
+6. tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.
+
+Ved innhenting av opplysninger fra private rettssubjekter gjelder [skatteforvaltningsloven § 10-2](lov/2016-05-27-14/§10-2) tilsvarende.
 
 (4) Opplysningene skal leveres i den formen og innen den fristen Skattedirektoratet bestemmer.
 
@@ -132,7 +167,13 @@ Foretak som har vært part i fisjon eller fusjon som er registrert gjennomført 
 
 (2) Søknad om støtte for desember 2021 kan tidligst sendes inn 10. februar 2022 og senest 10. mai 2022. Søknad om støtte for januar og februar 2022 kan tidligst sendes inn 18. mars 2022 og senest 10. mai 2022. Søknaden anses sendt inn ved revisors eller autorisert regnskapsførers bekreftelse.
 
-(3) Søker skal blant annet gi følgende opplysninger i søknadsskjemaet:organisasjonsnummeromsetningstall for aktuelle perioder, jf. [§ 3-1](forskrift/2022-02-04-167/§3-1) til [§ 3-3](forskrift/2022-02-04-167/§3-3)om søker er institusjon eller organisasjon som omfattes av [skatteloven § 2-32](lov/1999-03-26-14/§2-32)perioden det søkes om for henholdsvis lærlinger og øvrige ansatteforetakets samlede arbeidsgiveravgiftsgrunnlag jf. [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2), tillagt arbeidsgiveravgift for støttemåneden og referanseperioden.
+(3) Søker skal blant annet gi følgende opplysninger i søknadsskjemaet:
+
+1. organisasjonsnummer
+2. omsetningstall for aktuelle perioder, jf. [§ 3-1](forskrift/2022-02-04-167/§3-1) til [§ 3-3](forskrift/2022-02-04-167/§3-3)
+3. om søker er institusjon eller organisasjon som omfattes av [skatteloven § 2-32](lov/1999-03-26-14/§2-32)
+4. perioden det søkes om for henholdsvis lærlinger og øvrige ansatte
+5. foretakets samlede arbeidsgiveravgiftsgrunnlag jf. [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2), tillagt arbeidsgiveravgift for støttemåneden og referanseperioden.
 
 (4) Søker skal i søknaden bekrefte å ha gjort seg kjent med regelverket og at foretaket oppfyller vilkårene for støtte, herunder at omsetningsfallet for en vesentlig del skyldes nasjonale begrensninger på foretakets forretningsområde, jf. [covid-19 forskriften § 13a](forskrift/2020-03-27-470/§13a) og [§ 14](forskrift/2020-03-27-470/§14) annet ledd bokstav b og c og tredje ledd, samt [§ 14d](forskrift/2020-03-27-470/§14d) og [§ 15](forskrift/2020-03-27-470/§15). Søker skal bekrefte at opplysningene som gis i søknaden er riktige og fullstendige, at de kan dokumenteres og at søker vil oppbevare all nødvendig dokumentasjon i samsvar med [§ 4-6](forskrift/2022-02-04-167/§4-6) fjerde ledd. Søker skal også bekrefte kjennskap til at det kan bli ilagt straff eller administrativ sanksjon dersom det er gitt uriktige eller ufullstendige opplysninger, eller det unnlates å gi pliktig opplysning.
 
@@ -142,7 +183,16 @@ Foretak som har vært part i fisjon eller fusjon som er registrert gjennomført 
 
 ### § 4-4. Hvem som kan sende inn søknad
 
-(1) Personer i foretak registrert med nøkkelrolle i Enhetsregisteret kan sende inn søknad. Med nøkkelrolle menes følgende roller i foretaket:norsk representant for utenlandsk selskapstyrets lederkomplementarinnehaverdeltaker med fullt ansvardeltaker med delt ansvardaglig leder eller administrerende direktørbestyrende reder.
+(1) Personer i foretak registrert med nøkkelrolle i Enhetsregisteret kan sende inn søknad. Med nøkkelrolle menes følgende roller i foretaket:
+
+1. norsk representant for utenlandsk selskap
+2. styrets leder
+3. komplementar
+4. innehaver
+5. deltaker med fullt ansvar
+6. deltaker med delt ansvar
+7. daglig leder eller administrerende direktør
+8. bestyrende reder.
 
 (2) Revisor eller autorisert regnskapsfører kan søke på vegne av foretaket.
 
@@ -154,9 +204,19 @@ Foretak som har vært part i fisjon eller fusjon som er registrert gjennomført 
 
 (3) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger bekrefte at opplysningene om omsetningsfallets omfang som er gitt i søknaden, er riktige, jf. [lov om lønnsstøtte § 5](lov/2022-01-28-2/§5) første ledd.
 
-(4) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger bekrefte blant annet følgende opplysninger i søknaden:summen av opptjent bruttolønn i støttemåneden tillagt arbeidsgiveravgift, fratrukket estimert opptjent bruttolønn som skal dekkes av refusjoner eller tilskudd fra NAV tillagt arbeidsgiveravgift per ansatt, jf. [lov om lønnsstøtte § 7](lov/2022-01-28-2/§7) første ledd bokstav c.at støtteberettiget lønn samsvarer med den ansattes ordinære avlønning per timeverk/årsverk, jf. [§ 3-3](forskrift/2022-02-04-167/§3-3) annet ledd.at grunnlaget for beregnet stillingsprosent, jf. [lov om lønnsstøtte § 7](lov/2022-01-28-2/§7) første ledd bokstav b, er korrekt.at grunnlaget for arbeidsgiveravgift, jf. [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2), tillagt arbeidsgiveravgift, jf. [lov om lønnsstøtte § 7](lov/2022-01-28-2/§7) annet ledd bokstav a, er korrekt for både støttemåneden og referanseperioden.at opplysningene om konsernforhold, jf. [§ 3-4](forskrift/2022-02-04-167/§3-4) første ledd er korrekte.
+(4) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger bekrefte blant annet følgende opplysninger i søknaden:
 
-(5) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger bekrefte at blant annet følgende vilkår for å motta støtte er oppfylt:at minst én ansatt i foretaket har fått utbetalt lønn for hver av månedene september, oktober og november 2021, jf. [lov om lønnsstøtte § 5](lov/2022-01-28-2/§5) tredje ledd.skatteplikt til Norge, jf. [lov om lønnsstøtte § 5](lov/2022-01-28-2/§5) syvende ledd.at søker har hentet alle ansatte som ble permittert etter 30. november 2021, tilbake i arbeid senest 23. desember 2021, jf. [lov om lønnsstøtte § 5](lov/2022-01-28-2/§5) fjerde ledd.
+1. summen av opptjent bruttolønn i støttemåneden tillagt arbeidsgiveravgift, fratrukket estimert opptjent bruttolønn som skal dekkes av refusjoner eller tilskudd fra NAV tillagt arbeidsgiveravgift per ansatt, jf. [lov om lønnsstøtte § 7](lov/2022-01-28-2/§7) første ledd bokstav c.
+2. at støtteberettiget lønn samsvarer med den ansattes ordinære avlønning per timeverk/årsverk, jf. [§ 3-3](forskrift/2022-02-04-167/§3-3) annet ledd.
+3. at grunnlaget for beregnet stillingsprosent, jf. [lov om lønnsstøtte § 7](lov/2022-01-28-2/§7) første ledd bokstav b, er korrekt.
+4. at grunnlaget for arbeidsgiveravgift, jf. [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2), tillagt arbeidsgiveravgift, jf. [lov om lønnsstøtte § 7](lov/2022-01-28-2/§7) annet ledd bokstav a, er korrekt for både støttemåneden og referanseperioden.
+5. at opplysningene om konsernforhold, jf. [§ 3-4](forskrift/2022-02-04-167/§3-4) første ledd er korrekte.
+
+(5) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger bekrefte at blant annet følgende vilkår for å motta støtte er oppfylt:
+
+1. at minst én ansatt i foretaket har fått utbetalt lønn for hver av månedene september, oktober og november 2021, jf. [lov om lønnsstøtte § 5](lov/2022-01-28-2/§5) tredje ledd.
+2. skatteplikt til Norge, jf. [lov om lønnsstøtte § 5](lov/2022-01-28-2/§5) syvende ledd.
+3. at søker har hentet alle ansatte som ble permittert etter 30. november 2021, tilbake i arbeid senest 23. desember 2021, jf. [lov om lønnsstøtte § 5](lov/2022-01-28-2/§5) fjerde ledd.
 
 (6) Bekreftelse skal gis elektronisk i den formen Skattedirektoratet bestemmer, før søknad sendes inn.
 

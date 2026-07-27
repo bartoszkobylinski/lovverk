@@ -24,7 +24,13 @@ eu_basis: []
 
 ## I
 
-1. Ved søknad om mesterbrev med bakgrunn i mesterkvalifikasjon fra andre land, foretas det en helhetlig vurdering av søkerens kompetanse sett i forhold til den norske mesterkvalifikasjonen. Det legges til grunn for vurderingen at:Søker må være mester i et fag som ligger under den norske mesterbrevordningen.Søker må ha norsk fag-/svennebrev, eller det må foreligge bekreftelse fra norsk myndighet på at den utenlandske fagutdanningen er på samme nivå som den norske fagutdanningen.Det utenlandske mesterbrevet må i grove trekk samsvare med det norske når det gjelder nivå og faglig innhold.Søker må kunne dokumentere kompetanse i de til en hver tid gjeldende norske myndighetskrav og bransjestandarder innen mesterfaget. Dette inkluderer lover, forskrifter og standarder.Søker må kunne dokumentere praksis som selvstendig yrkesutøver i faget.
+1. Ved søknad om mesterbrev med bakgrunn i mesterkvalifikasjon fra andre land, foretas det en helhetlig vurdering av søkerens kompetanse sett i forhold til den norske mesterkvalifikasjonen. Det legges til grunn for vurderingen at:
+
+   1. Søker må være mester i et fag som ligger under den norske mesterbrevordningen.
+   2. Søker må ha norsk fag-/svennebrev, eller det må foreligge bekreftelse fra norsk myndighet på at den utenlandske fagutdanningen er på samme nivå som den norske fagutdanningen.
+   3. Det utenlandske mesterbrevet må i grove trekk samsvare med det norske når det gjelder nivå og faglig innhold.
+   4. Søker må kunne dokumentere kompetanse i de til en hver tid gjeldende norske myndighetskrav og bransjestandarder innen mesterfaget. Dette inkluderer lover, forskrifter og standarder.
+   5. Søker må kunne dokumentere praksis som selvstendig yrkesutøver i faget.
 2. All dokumentasjon skal foreligge på norsk.
 
 ## II

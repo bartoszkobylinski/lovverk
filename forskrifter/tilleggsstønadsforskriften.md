@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Vilkår for stønad
 
-Stønader etter denne forskriften kan gis tilen person med nedsatt arbeidsevne som gjennomfører et arbeidsrettet tiltak og som fyller vilkårene for tilleggsstønad i folketrygdloven § 11A-4 jf. § 11A-3,– – –tidligere familiepleier som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c) og fyller vilkårene for tilleggsstønad i [folketrygdloven § 17-15 femte ledd](lov/1997-02-28-19/§17-15/ledd/5).gjenlevende ektefelle som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c) og fyller vilkårene for tilleggsstønad i [folketrygdloven § 17-10a](lov/1997-02-28-19/§17-10a). Stønad til tilsyn for barn kan også gis til en gjenlevende ektefelle som er tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker som yrkesrettet aktivitet.
+Stønader etter denne forskriften kan gis til
+
+1. en person med nedsatt arbeidsevne som gjennomfører et arbeidsrettet tiltak og som fyller vilkårene for tilleggsstønad i folketrygdloven § 11A-4 jf. § 11A-3,
+2. – – –
+3. tidligere familiepleier som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c) og fyller vilkårene for tilleggsstønad i [folketrygdloven § 17-15 femte ledd](lov/1997-02-28-19/§17-15/ledd/5).
+4. gjenlevende ektefelle som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c) og fyller vilkårene for tilleggsstønad i [folketrygdloven § 17-10a](lov/1997-02-28-19/§17-10a). Stønad til tilsyn for barn kan også gis til en gjenlevende ektefelle som er tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker som yrkesrettet aktivitet.
 
 En deltaker på et arbeidsmarkedstiltak som fyller vilkårene for stønad til dekning av reiseutgifter i [arbeidsmarkedsloven § 13](lov/2004-12-10-76/§13) andre ledd, gis stønad til reise etter § 3 i denne forskriften.
 
@@ -38,7 +43,13 @@ En arbeidssøker som uforskyldt ikke får arbeid på hjemstedet, kan etter [arbe
 
 ## § 3. Stønader til reise
 
-Personer med nedsatt arbeidsevne som deltar på arbeidsrettet tiltak, gjenlevende som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), og deltakere på arbeidsmarkedstiltak som gir rett til reisestønad etter [arbeidsmarkedsloven § 13 andre ledd](lov/2004-12-10-76/§13/ledd/2) har krav på stønad til dekning av nødvendige utgifter tildaglige reiser mellom bostedet og stedet der tiltaket eller utdanningen blir gjennomført, dersom reiseavstanden er seks kilometer eller mer hver vei. Personer som på grunn av funksjonshemning, midlertidig skade eller sykdom har et særskilt behov for transport, kan få stønad selv om reiseavstanden er under seks kilometer,reiser til og fra obligatoriske samlinger i forbindelse med et tiltak eller utdanning som er tildelt eller godkjent av Arbeids- og velferdsetaten, dersom reiseavstanden er 30 kilometer eller mer hver vei,reiser til og fra tiltaks- eller utdanningsstedet ved oppstart og avslutning av tiltaket eller utdanningen når personen midlertidig må bo borte fra hjemmet,fire hjemreiser per år når personen midlertidig må bo borte fra hjemmet under deltakelse på tiltaket eller gjennomføring av utdanningen. De som har barn som ikke har fullført fjerde skoleår og som blir igjen på hjemstedet, får stønad til åtte hjemreiser per år. Arbeids- og velferdsetaten kan i særlige tilfeller gi stønad til flere hjemreiser,reiser etter bokstavene c og d for barn under 18 år som flytter med til tiltaks- eller utdanningsstedet.
+Personer med nedsatt arbeidsevne som deltar på arbeidsrettet tiltak, gjenlevende som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), og deltakere på arbeidsmarkedstiltak som gir rett til reisestønad etter [arbeidsmarkedsloven § 13 andre ledd](lov/2004-12-10-76/§13/ledd/2) har krav på stønad til dekning av nødvendige utgifter til
+
+1. daglige reiser mellom bostedet og stedet der tiltaket eller utdanningen blir gjennomført, dersom reiseavstanden er seks kilometer eller mer hver vei. Personer som på grunn av funksjonshemning, midlertidig skade eller sykdom har et særskilt behov for transport, kan få stønad selv om reiseavstanden er under seks kilometer,
+2. reiser til og fra obligatoriske samlinger i forbindelse med et tiltak eller utdanning som er tildelt eller godkjent av Arbeids- og velferdsetaten, dersom reiseavstanden er 30 kilometer eller mer hver vei,
+3. reiser til og fra tiltaks- eller utdanningsstedet ved oppstart og avslutning av tiltaket eller utdanningen når personen midlertidig må bo borte fra hjemmet,
+4. fire hjemreiser per år når personen midlertidig må bo borte fra hjemmet under deltakelse på tiltaket eller gjennomføring av utdanningen. De som har barn som ikke har fullført fjerde skoleår og som blir igjen på hjemstedet, får stønad til åtte hjemreiser per år. Arbeids- og velferdsetaten kan i særlige tilfeller gi stønad til flere hjemreiser,
+5. reiser etter bokstavene c og d for barn under 18 år som flytter med til tiltaks- eller utdanningsstedet.
 
 Det gis også stønad til reiser etter første ledd ved arbeidsrettet utredning i forbindelse med tiltak eller utdanning.
 
@@ -50,7 +61,11 @@ Arbeidssøkere som uforskyldt er helt eller delvis arbeidsløse og er registrert
 
 Ved vurderingen av om søkeren er uforskyldt ledig, skal Arbeids- og velferdsetaten ikke legge vekt på forhold som ligger lenger tilbake i tid enn åtte uker.
 
-Stønad kan gisved innkalling til Arbeids- og velferdsetaten i forbindelse med oppfølging for å komme i arbeid,i forbindelse med jobbintervju på annet sted enn bostedet, ogi forbindelse med tiltredelse på nytt arbeidssted.
+Stønad kan gis
+
+1. ved innkalling til Arbeids- og velferdsetaten i forbindelse med oppfølging for å komme i arbeid,
+2. i forbindelse med jobbintervju på annet sted enn bostedet, og
+3. i forbindelse med tiltredelse på nytt arbeidssted.
 
 Arbeids- og velferdsdirektoratet kan gi nærmere retningslinjer om prioriteringen av personer som søker om stønad til dekning av nødvendige utgifter til reise etter denne paragrafen.
 
@@ -84,7 +99,10 @@ Den som velger å flytte selv, får dekket utgiftene til kjøring med egen bil �
 
 Personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak, og gjenlevende som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), har krav på stønad til dekning av nødvendige merutgifter til bolig eller overnatting som følge av deltakelsen. Det gis også stønad til bolig eller overnatting ved arbeidsrettet utredning i forbindelse med et arbeidsrettet tiltak eller utdanning.
 
-Stønaden gis til dekning av deltakerensutgifter til bolig eller overnatting som kommer i tillegg til utgiftene til bolig på hjemstedet ellerutgifter som følger av at boutgiftene på tiltaksstedet er høyere enn på hjemstedet.
+Stønaden gis til dekning av deltakerens
+
+1. utgifter til bolig eller overnatting som kommer i tillegg til utgiftene til bolig på hjemstedet eller
+2. utgifter som følger av at boutgiftene på tiltaksstedet er høyere enn på hjemstedet.
 
 > Endret ved [forskrifter 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [25 juni 2026 nr. 1362](forskrift/2026-06-25-1362) (i kraft 1 juli 2026).
 
@@ -98,7 +116,10 @@ Det gis ikke stønad til boutgifter til deltakere som har rett til støtte til d
 
 ## § 10. Stønad til tilsyn for barn
 
-Personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak, og gjenlevende som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), har krav på stønad til dekning av nødvendige utgifter til tilsyn for barn som ikke har fullført fjerde skoleår. Det kan gis stønad til tilsyn for barn som har fullført fjerde skoleår nårbarnet må ha vesentlig mer pleie og/eller tilsyn enn det som er vanlig for jevnaldrende, ellerpersonen på grunn av det arbeidsrettede tiltaket eller utdanningen må være borte fra hjemmet i lengre perioder eller på andre tidspunkter enn en vanlig arbeidsdag.
+Personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak, og gjenlevende som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), har krav på stønad til dekning av nødvendige utgifter til tilsyn for barn som ikke har fullført fjerde skoleår. Det kan gis stønad til tilsyn for barn som har fullført fjerde skoleår når
+
+1. barnet må ha vesentlig mer pleie og/eller tilsyn enn det som er vanlig for jevnaldrende, eller
+2. personen på grunn av det arbeidsrettede tiltaket eller utdanningen må være borte fra hjemmet i lengre perioder eller på andre tidspunkter enn en vanlig arbeidsdag.
 
 Det gis også stønad til tilsyn etter første ledd ved arbeidsrettet utredning i forbindelse med et arbeidsrettet tiltak eller utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), og til gjenlevende ektefelle som er tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker som yrkesrettet aktivitet.
 
@@ -156,7 +177,11 @@ For en deltaker i et arbeidsmarkedstiltak og en arbeidssøker som får vedtak ih
 
 Forskriften trer i kraft 1. januar 2016.
 
-Fra samme tidspunkt oppheves:[forskrift 11. mars 1997 nr. 223](forskrift/1997-03-11-223) om utdanningsstønad[forskrift 10. februar 2010 nr. 153](forskrift/2010-02-10-153) om tilleggsstønader etter [folketrygdloven kapittel 11](lov/1997-02-28-19/kap11) § 5 til § 10[forskrift 12. august 2011 nr. 847](forskrift/2011-08-12-847) om mobilitetsfremmende stønad.
+Fra samme tidspunkt oppheves:
+
+- [forskrift 11. mars 1997 nr. 223](forskrift/1997-03-11-223) om utdanningsstønad
+- [forskrift 10. februar 2010 nr. 153](forskrift/2010-02-10-153) om tilleggsstønader etter [folketrygdloven kapittel 11](lov/1997-02-28-19/kap11) § 5 til § 10
+- [forskrift 12. august 2011 nr. 847](forskrift/2011-08-12-847) om mobilitetsfremmende stønad.
 
 > Endret ved [forskrift 15 des 2015 nr. 1677](forskrift/2015-12-15-1677).
 

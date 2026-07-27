@@ -15,7 +15,7 @@ xml_hash: "cd975add15849d3ccc6625bc3609123c3322e7ac4a81440fae3432736fb5a9b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -92,7 +92,15 @@ Sametinget velges for et tidsrom av fire år. Valgperioden reknes fra første ok
 
 ### § 2-4. Valgkretser og mandatfordeling.
 
-Ved valg til Sametinget velges medlemmer med varamedlemmer fra følgende valgkretser:Østre valgkrets/Nuortaguovllu válgabiire: kommunene Sør-Varanger, Nesseby, Vadsø, Vardø, Båtsfjord, Tana, Berlevåg, Lebesby og Gamvik i Finnmark fylkeÁvjovári valgkrets/Ávjovári válgabiire: kommunene Karasjok, Kautokeino og Porsanger i Finnmark fylkeNordre valgkrets/Davveguovllu válgabiire: kommunene Nordkapp, Måsøy, Hammerfest, Alta, Hasvik og Loppa i Finnmark fylke og kommunene Skjervøy, Kvænangen og Nordreisa i Troms fylkeGáisi valgkrets/Gáiseguovllu válgabiire: kommunene Kåfjord, Storfjord, Lyngen, Karlsøy, Tromsø, Balsfjord, Målselv, Bardu, Senja og Sørreisa i Troms fylkeVesthavet valgkrets/Viestarmera válggabijrra/Viesttarmeara válgabiire: kommunene Dyrøy, Salangen, Lavangen, Gratangen, Tjeldsund, Ibestad, Harstad og Kvæfjord i Troms fylke og kommunene fra og med Saltdal, Beiarn og Meløy og nordover i Nordland fylkeSørsamisk valgkrets/Åarjel-Saepmie veeljemegievlie: kommunene fra og med Rana og Rødøy og sørover i Nordland fylke, Trøndelag fylke, kommunene Surnadal og Sunndal i Møre og Romsdal fylke og kommunene Engerdal, Rendalen, Os, Tolga, Tynset og Folldal i Innlandet fylkeSør-Norge valgkrets/Lulli-Norgga válgabiire: de kommunene i Møre og Romsdal og Innlandet fylker som ikke tilhører valgkrets 6, samt fylkene Vestland, Rogaland, Agder, Telemark, Buskerud, Vestfold, Akershus, Østfold og Oslo.
+Ved valg til Sametinget velges medlemmer med varamedlemmer fra følgende valgkretser:
+
+1. Østre valgkrets/Nuortaguovllu válgabiire: kommunene Sør-Varanger, Nesseby, Vadsø, Vardø, Båtsfjord, Tana, Berlevåg, Lebesby og Gamvik i Finnmark fylke
+2. Ávjovári valgkrets/Ávjovári válgabiire: kommunene Karasjok, Kautokeino og Porsanger i Finnmark fylke
+3. Nordre valgkrets/Davveguovllu válgabiire: kommunene Nordkapp, Måsøy, Hammerfest, Alta, Hasvik og Loppa i Finnmark fylke og kommunene Skjervøy, Kvænangen og Nordreisa i Troms fylke
+4. Gáisi valgkrets/Gáiseguovllu válgabiire: kommunene Kåfjord, Storfjord, Lyngen, Karlsøy, Tromsø, Balsfjord, Målselv, Bardu, Senja og Sørreisa i Troms fylke
+5. Vesthavet valgkrets/Viestarmera válggabijrra/Viesttarmeara válgabiire: kommunene Dyrøy, Salangen, Lavangen, Gratangen, Tjeldsund, Ibestad, Harstad og Kvæfjord i Troms fylke og kommunene fra og med Saltdal, Beiarn og Meløy og nordover i Nordland fylke
+6. Sørsamisk valgkrets/Åarjel-Saepmie veeljemegievlie: kommunene fra og med Rana og Rødøy og sørover i Nordland fylke, Trøndelag fylke, kommunene Surnadal og Sunndal i Møre og Romsdal fylke og kommunene Engerdal, Rendalen, Os, Tolga, Tynset og Folldal i Innlandet fylke
+7. Sør-Norge valgkrets/Lulli-Norgga válgabiire: de kommunene i Møre og Romsdal og Innlandet fylker som ikke tilhører valgkrets 6, samt fylkene Vestland, Rogaland, Agder, Telemark, Buskerud, Vestfold, Akershus, Østfold og Oslo.
 
 Det skal velges 39 representanter til Sametinget. Valgkretsene tildeles først to mandater hver. Deretter fordeles de øvrige 25 mandatene forholdsmessig mellom valgkretsene på grunnlag av antall manntallsførte etter fordelingsmåten fastsatt i [valgloven § 11-3 tredje](lov/2023-06-16-62/§11-3/ledd/3) og [fjerde ledd](lov/2023-06-16-62/§11-3/ledd/4). Sør-Norge valgkrets skal likevel ikke tildeles flere mandater enn valgkretsen ville fått dersom alle 39 mandater var fordelt forholdsmessig mellom valgkretsene.
 
@@ -108,7 +116,11 @@ Stemmerett ved valg til Sametinget har alle som har stemmerett ved kommunestyrev
 
 ### § 2-6. Sametingets valgmanntall.
 
-Alle som avgir erklæring om at de oppfatter seg selv som same, og som entenhar samisk som hjemmespråk, ellerhar eller har hatt forelder, besteforelder eller oldeforelder med samisk som hjemmespråk, ellerer barn av person som står eller har stått i Sametingets valgmanntall, kan kreve seg innført i Sametingets valgmanntall.
+Alle som avgir erklæring om at de oppfatter seg selv som same, og som enten
+
+1. har samisk som hjemmespråk, eller
+2. har eller har hatt forelder, besteforelder eller oldeforelder med samisk som hjemmespråk, eller
+3. er barn av person som står eller har stått i Sametingets valgmanntall, kan kreve seg innført i Sametingets valgmanntall.
 
 Begjæring om innføring i Sametingets valgmanntall rettes til Sametinget.
 
@@ -138,7 +150,11 @@ En gruppe, parti eller liknende sammenslutning kan søke Sametinget om å bli re
 
 Alle som har rett til å stille til valg til Sametinget, har plikt til å motta valget med mindre de blir fritatt etter reglene i andre ledd.
 
-Rett til å kreve seg fritatt for valg har alle somhar fylt seksti år innen valgårets utløp, ellerhar gjort tjeneste som medlem av Sametinget de siste fire år, elleroverfor Sametingets valgnemnd godtgjør at de ikke vil kunne skjøtte sine plikter som medlem av Sametinget uten uforholdsmessig vanskelighet.
+Rett til å kreve seg fritatt for valg har alle som
+
+1. har fylt seksti år innen valgårets utløp, eller
+2. har gjort tjeneste som medlem av Sametinget de siste fire år, eller
+3. overfor Sametingets valgnemnd godtgjør at de ikke vil kunne skjøtte sine plikter som medlem av Sametinget uten uforholdsmessig vanskelighet.
 
 Person som er valgt som medlem av Sametinget eller organ nedsatt av Sametinget, plikter å delta i Sametingets eller respektive organs møter med mindre det foreligger gyldig forfall.
 
@@ -198,7 +214,10 @@ Kongen gir nærmere forskrift om beregningen av pensjonsrettighetene og om gjenn
 
 ### § 3-1. Definisjoner
 
-I dette kapitlet menes med:forvaltningsområdet for samiske språk: kommuner inndelt i kategoriene språkutviklingskommuner, språkvitaliseringskommuner og språkstimuleringskommuner, og fylkeskommuner, som Kongen i forskrift har fastsatt at skal inngå i forvaltningsområdet for samiske språk,offentlig organ: ethvert organ for stat og kommune som har en tjenestekrets som helt eller delvis omfatter en av kommunene i forvaltningsområdet for samiske språk, og fylkeskommuner som Kongen i forskrift har fastsatt at skal inngå i forvaltningsområdet for samiske språk.
+I dette kapitlet menes med:
+
+1. forvaltningsområdet for samiske språk: kommuner inndelt i kategoriene språkutviklingskommuner, språkvitaliseringskommuner og språkstimuleringskommuner, og fylkeskommuner, som Kongen i forskrift har fastsatt at skal inngå i forvaltningsområdet for samiske språk,
+2. offentlig organ: ethvert organ for stat og kommune som har en tjenestekrets som helt eller delvis omfatter en av kommunene i forvaltningsområdet for samiske språk, og fylkeskommuner som Kongen i forskrift har fastsatt at skal inngå i forvaltningsområdet for samiske språk.
 
 > Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lover [17 juni 2005 nr. 99](lov/2005-06-17-99) (ikr. 1 jan 2006 iflg. [res. 17 juni 2005 nr. 656](forskrift/2005-06-17-656)), [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
 
@@ -236,7 +255,14 @@ Offentlige organer som er omfattet av bestemmelsene i [§§ 3-3](lov/1987-06-12-
 
 ### § 3-4. Domstoler
 
-For domstoler med embetskrets som helt eller delvis omfatter forvaltningsområdet for samiske språk, gjelder i tillegg følgende regler om bruk av samisk:Enhver har rett til å inngi prosesskriv med bilag, skriftlige bevis eller andre skriftlige henvendelser på samisk. Skal domstolen formidle henvendelsen til en motpart, sørger den for oversettelse til norsk. Oversettelse kan unnlates dersom motparten samtykker.Enhver har rett til å henvende seg muntlig til domstolen på samisk dersom rettergangslovgivningen gir adgang til muntlig istedenfor skriftlig henvendelse. Har domstolen plikt til å nedtegne henvendelsen, kan den som fremmer henvendelsen, kreve at nedtegnelsen skjer på samisk. Et slikt krav bryter ingen frist. Nr. 1 andre og tredje punktum gjelder tilsvarende.Enhver har rett til å tale samisk i rettsmøter. Skal noen som ikke kan samisk delta i forhandlingene, brukes en tolk som retten har oppnevnt eller godkjent.Når en part begjærer det, kan rettens leder bestemme at forhandlingsspråket skal være samisk. Nr. 3 andre punktum gjelder tilsvarende.Er forhandlingsspråket samisk, kan rettens leder bestemme at også rettsboken skal føres på samisk. Domstolen sørger for oversettelse til norsk.Domstolen sørger for at rettsbøker som er skrevet på norsk, oversettes til samisk når en part krever det. Et slikt krav bryter ingen frist.
+For domstoler med embetskrets som helt eller delvis omfatter forvaltningsområdet for samiske språk, gjelder i tillegg følgende regler om bruk av samisk:
+
+1. Enhver har rett til å inngi prosesskriv med bilag, skriftlige bevis eller andre skriftlige henvendelser på samisk. Skal domstolen formidle henvendelsen til en motpart, sørger den for oversettelse til norsk. Oversettelse kan unnlates dersom motparten samtykker.
+2. Enhver har rett til å henvende seg muntlig til domstolen på samisk dersom rettergangslovgivningen gir adgang til muntlig istedenfor skriftlig henvendelse. Har domstolen plikt til å nedtegne henvendelsen, kan den som fremmer henvendelsen, kreve at nedtegnelsen skjer på samisk. Et slikt krav bryter ingen frist. Nr. 1 andre og tredje punktum gjelder tilsvarende.
+3. Enhver har rett til å tale samisk i rettsmøter. Skal noen som ikke kan samisk delta i forhandlingene, brukes en tolk som retten har oppnevnt eller godkjent.
+4. Når en part begjærer det, kan rettens leder bestemme at forhandlingsspråket skal være samisk. Nr. 3 andre punktum gjelder tilsvarende.
+5. Er forhandlingsspråket samisk, kan rettens leder bestemme at også rettsboken skal føres på samisk. Domstolen sørger for oversettelse til norsk.
+6. Domstolen sørger for at rettsbøker som er skrevet på norsk, oversettes til samisk når en part krever det. Et slikt krav bryter ingen frist.
 
 > Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lover [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
 
@@ -248,13 +274,20 @@ Reglene i [§ 3-4](lov/1987-06-12-56/§3-4) første ledd nr. 1 og nr. 2 gjelder 
 
 ### § 3-4 b. Politi og påtalemyndighet
 
-For politi og påtalemyndighet med tjenestekrets som helt eller delvis omfatter forvaltningsområdet for samiske språk, gjelder i tillegg følgende regler om bruk av samisk:Enhver har rett til å tale samisk i avhør på organets kontor.Enhver har rett til å bruke samisk ved muntlig anmeldelse og rettsmiddelerklæring.
+For politi og påtalemyndighet med tjenestekrets som helt eller delvis omfatter forvaltningsområdet for samiske språk, gjelder i tillegg følgende regler om bruk av samisk:
+
+1. Enhver har rett til å tale samisk i avhør på organets kontor.
+2. Enhver har rett til å bruke samisk ved muntlig anmeldelse og rettsmiddelerklæring.
 
 > Tilføyd ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
 
 ### § 3-4 c. Kriminalomsorgen
 
-For kriminalomsorgens anstalter i Troms og Finnmark gjelder i tillegg følgende regler om bruk av samisk:Innsatte har rett til å bruke samisk ved muntlig rettsmiddelerklæring til fengselsmyndigheten.Innsatte har rett til å bruke samisk overfor hverandre og overfor sine pårørende.[§ 3-5](lov/1987-06-12-56/§3-5) gjelder tilsvarende for innsatte.
+For kriminalomsorgens anstalter i Troms og Finnmark gjelder i tillegg følgende regler om bruk av samisk:
+
+1. Innsatte har rett til å bruke samisk ved muntlig rettsmiddelerklæring til fengselsmyndigheten.
+2. Innsatte har rett til å bruke samisk overfor hverandre og overfor sine pårørende.
+3. [§ 3-5](lov/1987-06-12-56/§3-5) gjelder tilsvarende for innsatte.
 
 > Tilføyd ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
 
@@ -360,7 +393,10 @@ I saker nevnt i [§ 4-1](lov/1987-06-12-56/§4-1), har Sametinget og andre repre
 
 ### § 4-3. Plikt til å konsultere
 
-Plikten til å konsultere etter bestemmelsene i kapitlet her gjelder forregjeringen, departementer, direktorater og andre underliggende virksomheter,statsforetak og private rettssubjekter når de utøver myndighet på vegne av staten.
+Plikten til å konsultere etter bestemmelsene i kapitlet her gjelder for
+
+1. regjeringen, departementer, direktorater og andre underliggende virksomheter,
+2. statsforetak og private rettssubjekter når de utøver myndighet på vegne av staten.
 
 > Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
 

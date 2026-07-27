@@ -17,7 +17,7 @@ xml_hash: "9f4a27f9d159788190de26d46669d70df12fdcb446dd277e0c27526b6f56e680"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -148,7 +148,9 @@ VEDTATT DENNE FORORDNING:]
 
 ### Artikkel 8. Særlige regler for produkter som er en del av reisendes bagasje eller sendes som små forsendelser til privatpersoner
 
-1. Med forbehold for særlige EØS-regler for visse produkter, skal produktene nevnt I artikkel 16 nr. 1 bokstav a), b) og d) i direktiv [97/78/EF](eu/31997l0078), ikke omfattes av de systematiske veterinærkontrollene som definert i kapittel 1 i nevnte direktiv, dersom de veier mindre enn 1 kg og er beregnet på personlig konsum.Slike produkter kan imidlertid innføres til EØS-området bare fra godkjente tredjestater eller deler av godkjente tredjestater.
+1. Med forbehold for særlige EØS-regler for visse produkter, skal produktene nevnt I artikkel 16 nr. 1 bokstav a), b) og d) i direktiv [97/78/EF](eu/31997l0078), ikke omfattes av de systematiske veterinærkontrollene som definert i kapittel 1 i nevnte direktiv, dersom de veier mindre enn 1 kg og er beregnet på personlig konsum.
+
+   Slike produkter kan imidlertid innføres til EØS-området bare fra godkjente tredjestater eller deler av godkjente tredjestater.
 2. Nr. 1 skal ikke berøre reglene for dyrehelse og folkehelse fastsatt i det relevante EØS-regelverket.
 3. Når det gjelder små pakker som inneholder produkter av animalsk opprinnelse som innføres til Danmark fra Grønland og Færøyene for privatpersoners direkte konsum, skal vektgrensen fastsatt i nr. 1, være 5 kg.
 4. For fisk som er fanget ved sportsfiske og innføres til Finland, Island, Norge og Sverige fra Russland i reisendes personlige bagasje for privatpersoners direkte konsum, skal vektgrensen fastsatt i nr. 1, være 15 kg, eller det kan innføres én fisk uansett fiskens vekt.

@@ -15,7 +15,7 @@ xml_hash: "77e1b3c1f2c17cdf6530947ebbd70eb5d16b45f49ed11cb633bd54565f533e09"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,11 +32,22 @@ I denne forskrift betyr:
 
 2\.
 
-*Anerkjent klasseinstitusjon:* Klasseinstitusjon som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):American Bureau of Shipping (ABS)Bureau Veritas (BV)DNVLloyd's Register of Shipping (LR)Nippon Kaiji Kyoaki (Class NK)Rina Services S.p.A (RINA).
+*Anerkjent klasseinstitusjon:* Klasseinstitusjon som departementet har inngått avtale med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):
+
+1. American Bureau of Shipping (ABS)
+2. Bureau Veritas (BV)
+3. DNV
+4. Lloyd's Register of Shipping (LR)
+5. Nippon Kaiji Kyoaki (Class NK)
+6. Rina Services S.p.A (RINA).
 
 3\.
 
-*MOU-klasseinstitusjon:* Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktelse mv. av flyttbare innretninger. Disse institusjonene er:American Bureau of Shipping (ABS)DNVLloyd's Register of Shipping (LR).
+*MOU-klasseinstitusjon:* Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktelse mv. av flyttbare innretninger. Disse institusjonene er:
+
+1. American Bureau of Shipping (ABS)
+2. DNV
+3. Lloyd's Register of Shipping (LR).
 
 4\.
 
@@ -68,8 +79,18 @@ I denne forskrift betyr:
 
 11.*Sertifisert:*
 
-1. Vedrørende utstyr og materialer: Utstyr som tilfredsstiller angitte krav, eller materialer som er i henhold til anerkjent standard, og som er sertifisert, godkjent eller typegodkjent av:teknisk kontrollorganakkreditert sertifiseringsorgananerkjent klasseinstitusjonannen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet, elleradministrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen (SOLAS)
-2. Vedrørende arbeidsutførelse: Personell som i henhold til regelkrav skal ha spesielle kvalifikasjoner for å utføre bestemte arbeidsoppgaver, og som er sertifisert av:anerkjent klasseinstitusjonakkreditert sertifiseringsorgan, ellerannen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet.
+1. Vedrørende utstyr og materialer: Utstyr som tilfredsstiller angitte krav, eller materialer som er i henhold til anerkjent standard, og som er sertifisert, godkjent eller typegodkjent av:
+
+   - teknisk kontrollorgan
+   - akkreditert sertifiseringsorgan
+   - anerkjent klasseinstitusjon
+   - annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet, eller
+   - administrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen (SOLAS)
+2. Vedrørende arbeidsutførelse: Personell som i henhold til regelkrav skal ha spesielle kvalifikasjoner for å utføre bestemte arbeidsoppgaver, og som er sertifisert av:
+
+   - anerkjent klasseinstitusjon
+   - akkreditert sertifiseringsorgan, eller
+   - annen offentlig eller privat institusjon som anerkjennes av Sjøfartsdirektoratet.
 
 > Endret ved [forskrifter 29 des 1998 nr. 1467](forskrift/1998-12-29-1467) (i kraft 1 jan 1999), [2 mars 1999 nr. 402](forskrift/1999-03-02-402) (i kraft 1 sept 1999), [11 april 2003 nr. 496](forskrift/2003-04-11-496) (i kraft 1 juli 2003), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [14 mars 2008 nr. 305](forskrift/2008-03-14-305) (i kraft 24 mars 2008), [12 des 2008 nr. 1325](forskrift/2008-12-12-1325) (i kraft 1 jan 2009), [18 jan 2011 nr. 56](forskrift/2011-01-18-56), [5 juli 2016 nr. 897](forskrift/2016-07-05-897), [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
 
@@ -271,7 +292,13 @@ Meteorologiske data (M-data) og data over innretningens egenskaper (P-data).
 
 3.1.
 
-Alle innretninger skal ha utstyr og instrumentering ombord for å kunne innsamle følgende M-data:lufttemperatur og atmosfærisk trykkfuktighetvindstyrke og vindretning (midlet over 10 minutter)været siden forrige observasjonsjøtemperatur og sjøens tilstand
+Alle innretninger skal ha utstyr og instrumentering ombord for å kunne innsamle følgende M-data:
+
+- lufttemperatur og atmosfærisk trykk
+- fuktighet
+- vindstyrke og vindretning (midlet over 10 minutter)
+- været siden forrige observasjon
+- sjøtemperatur og sjøens tilstand
 
 3.2.
 
@@ -349,13 +376,22 @@ Elektriske anlegg og utstyr skal være i samsvar med gjeldende forskrifter for m
 
 > Tilføyd ved [forskrift 11 april 2003 nr. 496](forskrift/2003-04-11-496) (i kraft 1 juli 2003), [28 juni 2004 nr. 1046](forskrift/2004-06-28-1046).
 
-1 Jf. Direktoratet for samfunnssikkerhet og beredskap.2 Forskriften gjennomfører direktiv [89/336/EØF](eu/31989l0336) (EMC-direktivet) av 3. mai 1989 med endringsdirektiv [92/21/EØF](eu/31992*0021). EMC-direktivet gjelder for alle apparater på flyttbare innretninger som kan fremkalle elektromagnetiske forstyrrelser eller hvis funksjon kan bli påvirket av slike forstyrrelser. EMC-direktivet krever blant annet CE-merking av alt slikt utstyr.
+1 Jf. Direktoratet for samfunnssikkerhet og beredskap.
+
+2 Forskriften gjennomfører direktiv [89/336/EØF](eu/31989l0336) (EMC-direktivet) av 3. mai 1989 med endringsdirektiv [92/21/EØF](eu/31992*0021). EMC-direktivet gjelder for alle apparater på flyttbare innretninger som kan fremkalle elektromagnetiske forstyrrelser eller hvis funksjon kan bli påvirket av slike forstyrrelser. EMC-direktivet krever blant annet CE-merking av alt slikt utstyr.
 
 ## § 6b. Maskinsystemer
 
 1\.
 
-Maskineri, tilhørende systemer og enkeltkomponenter skal være i samsvar med MOU-klasseinstitusjonens regler for flyttbare innretninger. Dette omfatter:Maskiner, tilhørende systemer og enkeltkomponenter generelt.Hoved- og hjelpemaskineri.Framdriftsmaskineri og styrearrangement.Kjeler, trykkbeholdere, oljefyrte installasjoner og forbrenningsovner.Pumper og rørinstallasjoner i forbindelse med innretningens maskinsystemer og skrog.Ventilasjon av maskinrom med forbrenningsmotorer.
+Maskineri, tilhørende systemer og enkeltkomponenter skal være i samsvar med MOU-klasseinstitusjonens regler for flyttbare innretninger. Dette omfatter:
+
+- Maskiner, tilhørende systemer og enkeltkomponenter generelt.
+- Hoved- og hjelpemaskineri.
+- Framdriftsmaskineri og styrearrangement.
+- Kjeler, trykkbeholdere, oljefyrte installasjoner og forbrenningsovner.
+- Pumper og rørinstallasjoner i forbindelse med innretningens maskinsystemer og skrog.
+- Ventilasjon av maskinrom med forbrenningsmotorer.
 
 2\.
 
@@ -379,7 +415,10 @@ Dokumentasjon.
 
 3.1.
 
-Dokumentasjonen for operasjon under disse miljøforhold skal kunne fremlegges ved:Teknisk dokumentasjon ogOperasjonsinstrukser
+Dokumentasjonen for operasjon under disse miljøforhold skal kunne fremlegges ved:
+
+- Teknisk dokumentasjon og
+- Operasjonsinstrukser
 
 3.2.
 
@@ -487,13 +526,30 @@ Innretningen skal være utstyrt med en uavhengig kraftforsyning som er arrangert
 
 2\.
 
-Nødkraftkilder skal være sertifisert. I forbindelse med sertifisering av nødkraftkilden (generator med drivmaskineri), skal det utføres en prototypeprøve når den er krenget som følger:25 grader i hvilken som helst retning for halvt nedsenkbare innretninger,15 grader i hvilken som helst retning for oppjekkbare innretninger, og22,5 grader kombinert med 10 grader trim for innretninger av skipstype.
+Nødkraftkilder skal være sertifisert. I forbindelse med sertifisering av nødkraftkilden (generator med drivmaskineri), skal det utføres en prototypeprøve når den er krenget som følger:
+
+- 25 grader i hvilken som helst retning for halvt nedsenkbare innretninger,
+- 15 grader i hvilken som helst retning for oppjekkbare innretninger, og
+- 22,5 grader kombinert med 10 grader trim for innretninger av skipstype.
 
 Prototypeprøven skal utføres med maksimum belastning i minst 4 timer.
 
 3\.
 
-Nødkraftforsyningens kapasitet skal være tilstrekkelig for samtidig drift av følgende nødkraftforbrukere:Nødbelysning i henhold til [§ 12](forskrift/1987-09-04-856/§12).Navigasjonslys, lys- og lydsignaler i henhold til gjeldende regler.Alarm- og deteksjonssystemer for brann og gass.Livbåtalarm.Kommunikasjon.Ett brannpumpesystem samt styring av fjernopererte ventiler.En hvilken som helst av ballastpumpene med kontroll- og ventilsystem som kreves tilknyttet nødkraftkilde.Dykkerutstyr, herunder heis for dykkerklokke som er avhengig av elektrisk kraft og som ikke har egen nødkraftkilde.Kantbelysning av helikopterdekket.Ladeinnretninger for batteriinstallasjoner som tjener som nødkraftkilde.Høytrykkskompressor for fylling av trykkluftflasker til røykdykkerutstyret.Andre forbrukere enn nevnt ovenfor, dersom disse er ansett som nødvendige i en nødsituasjon.
+Nødkraftforsyningens kapasitet skal være tilstrekkelig for samtidig drift av følgende nødkraftforbrukere:
+
+- Nødbelysning i henhold til [§ 12](forskrift/1987-09-04-856/§12).
+- Navigasjonslys, lys- og lydsignaler i henhold til gjeldende regler.
+- Alarm- og deteksjonssystemer for brann og gass.
+- Livbåtalarm.
+- Kommunikasjon.
+- Ett brannpumpesystem samt styring av fjernopererte ventiler.
+- En hvilken som helst av ballastpumpene med kontroll- og ventilsystem som kreves tilknyttet nødkraftkilde.
+- Dykkerutstyr, herunder heis for dykkerklokke som er avhengig av elektrisk kraft og som ikke har egen nødkraftkilde.
+- Kantbelysning av helikopterdekket.
+- Ladeinnretninger for batteriinstallasjoner som tjener som nødkraftkilde.
+- Høytrykkskompressor for fylling av trykkluftflasker til røykdykkerutstyret.
+- Andre forbrukere enn nevnt ovenfor, dersom disse er ansett som nødvendige i en nødsituasjon.
 
 4\.
 
@@ -503,7 +559,10 @@ Det skal tas spesielt hensyn til plassering av åpninger for ventilasjon, luftkj
 
 Nødtavlen og transformator skal være plassert i nødgeneratorrommet. Nødtavlen kan normalt ha tilførsel fra hovedtavlen under forutsetning av at dette ikke får innvirkning på nødtavlen dersom feil eller havari oppstår i hovedtavlen.
 
-På innretninger hvor hovedgeneratorene er fordelt på to eller flere maskinrom med uavhengige tavler brannteknisk atskilt fra hverandre, kan en eller flere av generatorene i minst to av de uavhengige maskinrommene benyttes som nødkraftkilde. Hver nødkraftkilde med tilhørende tavle skal da være selvforsynt og fullstendig uavhengig av hverandre. Brannskillet mot tilstøtende maskinrom skal minst være enten;et brannklasse A-60 skille pluss kofferdam, elleret stålskott isolert til klasse A-60 på begge sider.
+På innretninger hvor hovedgeneratorene er fordelt på to eller flere maskinrom med uavhengige tavler brannteknisk atskilt fra hverandre, kan en eller flere av generatorene i minst to av de uavhengige maskinrommene benyttes som nødkraftkilde. Hver nødkraftkilde med tilhørende tavle skal da være selvforsynt og fullstendig uavhengig av hverandre. Brannskillet mot tilstøtende maskinrom skal minst være enten;
+
+- et brannklasse A-60 skille pluss kofferdam, eller
+- et stålskott isolert til klasse A-60 på begge sider.
 
 Nødkraftkilder skal plasseres i rom utenfor skadeområder definert i henhold til stabilitetsforskriften.1
 
@@ -537,7 +596,12 @@ Det skal være en egen brennoljetank for nødkraftkildens dieselmotor eller gass
 
 11\.
 
-Startarrangement.Drivmaskineriet skal ha automatisk startanordning.Startkraftkilden skal være lagret i to atskilte enheter som hver skal kunne gi minst 6 startforsøk. Den ene enheten skal være forbeholdt manuell betjening. Lagret energi kan enten være batterier under automatisk oppladning eller trykkluftflasker under automatisk oppladning.Antall automatisk startforsøk skal være mellom 3 og 6.Ladeinnretningene skal være tilknyttet nødtavlen.
+Startarrangement.
+
+- Drivmaskineriet skal ha automatisk startanordning.
+- Startkraftkilden skal være lagret i to atskilte enheter som hver skal kunne gi minst 6 startforsøk. Den ene enheten skal være forbeholdt manuell betjening. Lagret energi kan enten være batterier under automatisk oppladning eller trykkluftflasker under automatisk oppladning.
+- Antall automatisk startforsøk skal være mellom 3 og 6.
+- Ladeinnretningene skal være tilknyttet nødtavlen.
 
 12\.
 
@@ -569,11 +633,21 @@ Nødbelysningen ved livbåt/flåtestasjon skal kunne belyse redningsredskapet un
 
 3\.
 
-Krav til nødlys:Nødlys skal være sertifisert.Nødlys skal være konstruert for å tåle vibrasjoner og andre miljøkrav iht. IEC 60092-504 eller tilsvarende standard.Nødlys skal ha kapslingsgrad (IP) som kreves for vedkommende brukssted, likevel ikke under IP 56 på åpent dekk.De skal også være slik konstruert eller anordnet at kondens ikke oppstår.
+Krav til nødlys:
+
+- Nødlys skal være sertifisert.
+- Nødlys skal være konstruert for å tåle vibrasjoner og andre miljøkrav iht. IEC 60092-504 eller tilsvarende standard.
+- Nødlys skal ha kapslingsgrad (IP) som kreves for vedkommende brukssted, likevel ikke under IP 56 på åpent dekk.
+- De skal også være slik konstruert eller anordnet at kondens ikke oppstår.
 
 4\.
 
-I tillegg til nødlys tilknyttet nødkraftkilden, skal det på steder nevnt i nr. 1 ovenfor anordnes egne eller kombinerte faste nødlys med innbygget batterikraftkilde. Følgende tilleggskrav gjelder for slike batterinødlys:Batterikraftkilden skal stå under konstant lading, og den skal umiddelbart tre i funksjon hvis nødkraftkilden faller ut.Nødlysene skal gi kontinuerlig belysning i minst en time ved den aktuelle temperaturgrense gitt av [§ 7](forskrift/1987-09-04-856/§7).De skal ikke ha lavere eksplosjonsbeskyttelse enn sone 2, jf. brannforskriften § 26.1De skal ha innbygget ladelikeretter med innbygget varsel for svikt i batteriets ladekrets eller spenning.
+I tillegg til nødlys tilknyttet nødkraftkilden, skal det på steder nevnt i nr. 1 ovenfor anordnes egne eller kombinerte faste nødlys med innbygget batterikraftkilde. Følgende tilleggskrav gjelder for slike batterinødlys:
+
+- Batterikraftkilden skal stå under konstant lading, og den skal umiddelbart tre i funksjon hvis nødkraftkilden faller ut.
+- Nødlysene skal gi kontinuerlig belysning i minst en time ved den aktuelle temperaturgrense gitt av [§ 7](forskrift/1987-09-04-856/§7).
+- De skal ikke ha lavere eksplosjonsbeskyttelse enn sone 2, jf. brannforskriften § 26.1
+- De skal ha innbygget ladelikeretter med innbygget varsel for svikt i batteriets ladekrets eller spenning.
 
 5\.
 
@@ -943,7 +1017,9 @@ For containere hvor personer normalt ikke oppholder seg, gjelder bestemmelsene n
 
 > Endret ved [forskrift 11 april 2003 nr. 496](forskrift/2003-04-11-496) (i kraft 1 juli 2003), [28 juni 2004 nr. 1046](forskrift/2004-06-28-1046).
 
-1 Jf. forskrift av 31. januar 1984 nr. 227 om sikringstiltak mot brann og eksplosjon på flyttbare innretninger, kapittel IV.2 Jf. Direktoratet for samfunnssikkerhet og beredskap.
+1 Jf. forskrift av 31. januar 1984 nr. 227 om sikringstiltak mot brann og eksplosjon på flyttbare innretninger, kapittel IV.
+
+2 Jf. Direktoratet for samfunnssikkerhet og beredskap.
 
 ## § 22. Boretekniske installasjoner og utstyr
 
@@ -1031,4 +1107,18 @@ Nødlys som skal benyttes i oppvarmet rom eller i temperaturområde ned til -10 
 
 > Overskriften endret ved [forskrift 11 april 2003 nr. 496](forskrift/2003-04-11-496) (i kraft 1 juli 2003).
 
-Utregninger av temperaturer. Månedlig middeltemperatur er beregnet av formelen:M = n – k (n – Min)hvor n = midlet av observasjoner kl. (08.00) – 07.00 – 13.00 – 19.00 (MET)MET = Meteorologic European Time.k = en faktor som varierer med årstiden og fra stasjon til stasjon.Min = den midlere minimumstemperatur for hver dag i. en månedTemperaturekstremene gjelder for døgnet regnet fra kl. 10.00 til kl. 19.00.Utregning av døgnmiddeltemperaturen:Td = T07 + T19 + Tmin. + Tmax. / 4Td = Døgnmiddeltemperaturen.T07 = Temperaturen målt kl. 07.00T19 = Temperaturen målt kl. 19.00TMin. = Døgnets minimumstemperatur.TMax. = Døgnets maksimumstemperatur.
+Utregninger av temperaturer. Månedlig middeltemperatur er beregnet av formelen:
+
+- M = n – k (n – Min)
+- hvor n = midlet av observasjoner kl. (08.00) – 07.00 – 13.00 – 19.00 (MET)
+- MET = Meteorologic European Time.
+- k = en faktor som varierer med årstiden og fra stasjon til stasjon.
+- Min = den midlere minimumstemperatur for hver dag i. en måned
+- Temperaturekstremene gjelder for døgnet regnet fra kl. 10.00 til kl. 19.00.
+- Utregning av døgnmiddeltemperaturen:
+- Td = T07 + T19 + Tmin. + Tmax. / 4
+- Td = Døgnmiddeltemperaturen.
+- T07 = Temperaturen målt kl. 07.00
+- T19 = Temperaturen målt kl. 19.00
+- TMin. = Døgnets minimumstemperatur.
+- TMax. = Døgnets maksimumstemperatur.

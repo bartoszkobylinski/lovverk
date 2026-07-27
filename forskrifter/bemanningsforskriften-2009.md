@@ -32,7 +32,23 @@ For skip som kun anvendes i opplærings- og undervisningsøyemed og skip i los- 
 
 ## § 2. Definisjoner
 
-I denne forskrift betyr:*bruttotonnasje:* Bruttotonnasje i henhold til den internasjonale konvensjon om måling av fartøyer 1969 med senere endringer, slik denne tonnasje er angitt i fartøyets målebrev. For fartøy som har en nasjonal bruttotonnasje anført i anmerkningsrubrikken, er det den nasjonale tonnasje som skal legges til grunn*fartsområde:* For inndeling av fartsområder gjelder det som er fastsatt i [forskrift 4. november 1981 nr. 3793](forskrift/1981-11-04-3793) om fartsområder og forskrift [28. mars 2000 nr. 305](forskrift/2000-03-28-305) om besiktelse, bygging og utrustning av passasjerskip i innenriksfart, [kapittel 2](forskrift/2000-03-28-305/kap2) om passasjerskipklasser*fiskefartøy:* Fartøy som ervervsmessig brukes til fiske, fangst eller høsting av levende ressurser i sjøen*forpleining:* Arbeid og tjenester i forbindelse med personers underbringelse om bord*fremdriftsmaskineriets effekt:* Den totale maksimale kontinuerlige merkeytelsen i kilowatt av skipets samlede hovedfremdriftsmaskineri som er angitt på skipets registreringsbevis eller annet offisielt dokument (1 kW = 1,36 HK)*hurtiggående passasjerskip:**utenriks fart:* Passasjerskip som etter sitt sertifikat kan føre mer enn 12 passasjerer, og som er i stand til å oppnå en hastighet i meter pr. sekund (m/s) som er lik eller større enn: 3.7 Ñ0.1667der:Ñ = deplasement tilsvarende konstruksjonsvannlinjen (m3 )*innenriks fart:* Passasjerskip som nevnt i nr. 1 og som kan oppnå en hastighet på 20 knop eller mer.*lasteskip:* Ethvert skip som ikke er passasjerskip, fiske- og fangstfartøy, lekter eller fritidsfartøy*passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlige sertifikat til å føre passasjerer.
+I denne forskrift betyr:
+
+1. *bruttotonnasje:* Bruttotonnasje i henhold til den internasjonale konvensjon om måling av fartøyer 1969 med senere endringer, slik denne tonnasje er angitt i fartøyets målebrev. For fartøy som har en nasjonal bruttotonnasje anført i anmerkningsrubrikken, er det den nasjonale tonnasje som skal legges til grunn
+2. *fartsområde:* For inndeling av fartsområder gjelder det som er fastsatt i [forskrift 4. november 1981 nr. 3793](forskrift/1981-11-04-3793) om fartsområder og forskrift [28. mars 2000 nr. 305](forskrift/2000-03-28-305) om besiktelse, bygging og utrustning av passasjerskip i innenriksfart, [kapittel 2](forskrift/2000-03-28-305/kap2) om passasjerskipklasser
+3. *fiskefartøy:* Fartøy som ervervsmessig brukes til fiske, fangst eller høsting av levende ressurser i sjøen
+4. *forpleining:* Arbeid og tjenester i forbindelse med personers underbringelse om bord
+5. *fremdriftsmaskineriets effekt:* Den totale maksimale kontinuerlige merkeytelsen i kilowatt av skipets samlede hovedfremdriftsmaskineri som er angitt på skipets registreringsbevis eller annet offisielt dokument (1 kW = 1,36 HK)
+6. *hurtiggående passasjerskip:*
+
+   1. *utenriks fart:* Passasjerskip som etter sitt sertifikat kan føre mer enn 12 passasjerer, og som er i stand til å oppnå en hastighet i meter pr. sekund (m/s) som er lik eller større enn: 3.7 Ñ0.1667
+
+      der:
+
+      Ñ = deplasement tilsvarende konstruksjonsvannlinjen (m3 )
+   2. *innenriks fart:* Passasjerskip som nevnt i nr. 1 og som kan oppnå en hastighet på 20 knop eller mer.
+7. *lasteskip:* Ethvert skip som ikke er passasjerskip, fiske- og fangstfartøy, lekter eller fritidsfartøy
+8. *passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlige sertifikat til å føre passasjerer.
 
 > Endret ved [forskrift 10 nov 2017 nr. 1778](forskrift/2017-11-10-1778) (i kraft 16 nov 2017).
 
@@ -42,7 +58,11 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 ## § 4. Begjæring og dokumentasjon
 
-(1) Rederiet skal sende begjæring om bemanningsoppgave til Sjøfartsdirektoratet. Begjæringen skal inneholde følgende dokumentasjon på kontrollskjema fastsatt av Sjøfartsdirektoratetbegrunnet forslag til sikkerhetsbemanning ved operasjon av fartøyet, jf. [§ 8](forskrift/2009-06-18-666/§8) og [§ 9](forskrift/2009-06-18-666/§9). Forslaget settes opp i tabellform med bruksområder og farvann. Tabellen skal inneholde stillingsbetegnelser med tilhørende sertifikater og kvalifikasjonsbevis i henhold til [forskrift 22. desember 2011 nr. 1523](forskrift/2011-12-22-1523) om kvalifikasjoner og sertifikater for sjøfolkdokumenterte synspunkter fra skipsfører og tillitsmannsapparatet. Dersom det ikke er mulig å innhente disse synspunktene fra tillitsmannsapparatet skal synspunktene fra skipsfører komme fremevakueringsanalyse for passasjerskip.
+(1) Rederiet skal sende begjæring om bemanningsoppgave til Sjøfartsdirektoratet. Begjæringen skal inneholde følgende dokumentasjon på kontrollskjema fastsatt av Sjøfartsdirektoratet
+
+1. begrunnet forslag til sikkerhetsbemanning ved operasjon av fartøyet, jf. [§ 8](forskrift/2009-06-18-666/§8) og [§ 9](forskrift/2009-06-18-666/§9). Forslaget settes opp i tabellform med bruksområder og farvann. Tabellen skal inneholde stillingsbetegnelser med tilhørende sertifikater og kvalifikasjonsbevis i henhold til [forskrift 22. desember 2011 nr. 1523](forskrift/2011-12-22-1523) om kvalifikasjoner og sertifikater for sjøfolk
+2. dokumenterte synspunkter fra skipsfører og tillitsmannsapparatet. Dersom det ikke er mulig å innhente disse synspunktene fra tillitsmannsapparatet skal synspunktene fra skipsfører komme frem
+3. evakueringsanalyse for passasjerskip.
 
 (2) Sjøfartsdirektoratet kan kreve tilleggsdokumentasjon innenfor de områder som er angitt i første ledd.
 
@@ -66,9 +86,36 @@ Hvert enkelt skip skal ha sikkerhetsbemanning fastsatt av Sjøfartsdirektoratet,
 
 (1) Rederiet skal foreslå den sikkerhetsbemanning (safe manning) som er nødvendig for å ivareta skipets og de ombordværendes sikkerhet, samt hindre forurensning av det marine miljø.
 
-(2) Det innsendte forslaget til sikkerhetsbemanning skal baseres påsikkerhetsstyringssystemrisikoanalyseevakueringsanalyse, for skip som har krav til detorganisasjonsplanstillingsinstruks for hver stilling i organisasjonenskipets tekniske standard, type, størrelse og fartsområdemaskineriets fremdriftseffektalterneringstillingskombinasjoner eller/og overlappende kompetansearbeidsordning som skal legges til grunn i det enkelte tilfellepassasjerantall.
+(2) Det innsendte forslaget til sikkerhetsbemanning skal baseres på
 
-(3) Den sikkerhetsbemanning som foreslås skal dekke alle aktuelle operasjoner, oppgaver og funksjoner for sikker operasjon av skipet, herundervakthold både på sjøen og ved landligge, samt sikkerhets- og beredskapsøvelseroperasjon og vedlikehold av sikkerhetskritiske driftssystemer, herunder fremdriftsmaskineri og rednings- og beredskapssystemeroperasjon og vedlikehold av teknisk utstyr på bro og i maskinrom, samt andre kontrollromoperasjon og vedlikehold av internt og eksternt kommunikasjonsutstyrvedlikehold av kritiske komponenterforpleining av besetning, samt påbudt renholdankring og fortøyning, samt klargjøring av skipet før reisenmaritime operasjoner som navigasjon, manøvrering, stabilitet med merovervåke lasting og lossing, sikring og plassering av last (farlig last osv.)førstehjelp, skadebehandling og medisinsk bistandsikkerhetsopplæring og annet sikkerhetsarbeid, herunder de oppgavene som følger av [forskrift 22. juni 2004 nr. 972](forskrift/2004-06-22-972) om sikkerhet, pirat- og terrorberedskapstiltak og bruk av maktmidler om bord på skip og flyttbare boreinnretningerfamiliarisering av nye besetningsmedlemmerføre tilsyn med inntak av bunkers, proviant og forrådøvrige operasjoner av betydning for sikkerhetsbemanningen.
+1. sikkerhetsstyringssystem
+2. risikoanalyse
+3. evakueringsanalyse, for skip som har krav til det
+4. organisasjonsplan
+5. stillingsinstruks for hver stilling i organisasjonen
+6. skipets tekniske standard, type, størrelse og fartsområde
+7. maskineriets fremdriftseffekt
+8. alternering
+9. stillingskombinasjoner eller/og overlappende kompetanse
+10. arbeidsordning som skal legges til grunn i det enkelte tilfelle
+11. passasjerantall.
+
+(3) Den sikkerhetsbemanning som foreslås skal dekke alle aktuelle operasjoner, oppgaver og funksjoner for sikker operasjon av skipet, herunder
+
+1. vakthold både på sjøen og ved landligge, samt sikkerhets- og beredskapsøvelser
+2. operasjon og vedlikehold av sikkerhetskritiske driftssystemer, herunder fremdriftsmaskineri og rednings- og beredskapssystemer
+3. operasjon og vedlikehold av teknisk utstyr på bro og i maskinrom, samt andre kontrollrom
+4. operasjon og vedlikehold av internt og eksternt kommunikasjonsutstyr
+5. vedlikehold av kritiske komponenter
+6. forpleining av besetning, samt påbudt renhold
+7. ankring og fortøyning, samt klargjøring av skipet før reisen
+8. maritime operasjoner som navigasjon, manøvrering, stabilitet med mer
+9. overvåke lasting og lossing, sikring og plassering av last (farlig last osv.)
+10. førstehjelp, skadebehandling og medisinsk bistand
+11. sikkerhetsopplæring og annet sikkerhetsarbeid, herunder de oppgavene som følger av [forskrift 22. juni 2004 nr. 972](forskrift/2004-06-22-972) om sikkerhet, pirat- og terrorberedskapstiltak og bruk av maktmidler om bord på skip og flyttbare boreinnretninger
+12. familiarisering av nye besetningsmedlemmer
+13. føre tilsyn med inntak av bunkers, proviant og forråd
+14. øvrige operasjoner av betydning for sikkerhetsbemanningen.
 
 (4) Det skal legges til rette for størst mulig trivsel om bord både i arbeid og fritid. Det skal også tas hensyn til den administrative arbeidsbelastningen som rapportering i henhold til sikkerhetsstyringssystemet, lover og forskrifter pålegger skipets besetning.
 

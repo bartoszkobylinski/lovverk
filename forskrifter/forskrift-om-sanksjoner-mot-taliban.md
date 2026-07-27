@@ -15,7 +15,7 @@ xml_hash: "1d9cfe3162fd7be07b5d714fcdf17152d47ba8f2391ff3e7cae6aaaeed8c2149"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,11 +24,23 @@ eu_basis: []
 
 ## § 1. (virkeområde)
 
-Denne forskriften kommer til anvendelse:på norsk territorium, inkludert norsk luftromom bord på alle luftfartøy eller fartøy under norsk jurisdiksjonpå alle norske statsborgere uansett hvor de befinner segpå alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivningpå alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+Denne forskriften kommer til anvendelse:
+
+1. på norsk territorium, inkludert norsk luftrom
+2. om bord på alle luftfartøy eller fartøy under norsk jurisdiksjon
+3. på alle norske statsborgere uansett hvor de befinner seg
+4. på alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivning
+5. på alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
 ## § 2. (definisjoner)
 
-I denne forskrift menes med«penger»: finansielle aktiva og økonomiske fordeler av enhver art, herunder, men ikke begrenset til kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter; innestående hos finansinstitusjoner eller andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis; børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter; renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva; kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser; remburser, konnossementer og pantebrev; dokumenter som viser eierandeler i penger eller finansielle ressurser, og alle andre eksportfinansieringsdokumenter,«formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,«Sanksjonskomiteen»: komiteen som er opprettet under FNs sikkerhetsråd i henhold til artikkel 30 i FNs sikkerhetsrådsresolusjon 1988 (2011).
+I denne forskrift menes med
+
+1. «penger»: finansielle aktiva og økonomiske fordeler av enhver art, herunder, men ikke begrenset til kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter; innestående hos finansinstitusjoner eller andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis; børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter; renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva; kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser; remburser, konnossementer og pantebrev; dokumenter som viser eierandeler i penger eller finansielle ressurser, og alle andre eksportfinansieringsdokumenter,
+2. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+3. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+4. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,
+5. «Sanksjonskomiteen»: komiteen som er opprettet under FNs sikkerhetsråd i henhold til artikkel 30 i FNs sikkerhetsrådsresolusjon 1988 (2011).
 
 ## § 3. (finansielle sanksjoner mot listeførte personer og enheter)
 
@@ -36,23 +48,41 @@ Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres
 
 Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter, organer eller grupper som er oppført på Sanksjonskomiteens liste.
 
-Sanksjonskomiteens liste1 omfatter fysiske eller juridiske personer, grupper, foretak og enhetersom umiddelbart forut for vedtakelsen av FNs sikkerhetsrådsresolusjon 1988 (2011) ble oppført som medlem av Taliban, samt andre fysiske personer, grupper, foretak og enheter tilknyttet dem, i del A («Fysiske personer tilknyttet Taliban») og del B («Enheter og andre grupper og foretak tilknyttet Taliban») på den konsoliderte listen fra komiteen nedsatt ved resolusjon 1267, ellersom Sanksjonskomiteen har fastslått er fysiske personer, grupper, foretak og enheter tilknyttet Taliban som utgjør en trussel mot freden, stabiliteten og sikkerheten i Afghanistan.
+Sanksjonskomiteens liste1 omfatter fysiske eller juridiske personer, grupper, foretak og enheter
+
+1. som umiddelbart forut for vedtakelsen av FNs sikkerhetsrådsresolusjon 1988 (2011) ble oppført som medlem av Taliban, samt andre fysiske personer, grupper, foretak og enheter tilknyttet dem, i del A («Fysiske personer tilknyttet Taliban») og del B («Enheter og andre grupper og foretak tilknyttet Taliban») på den konsoliderte listen fra komiteen nedsatt ved resolusjon 1267, eller
+2. som Sanksjonskomiteen har fastslått er fysiske personer, grupper, foretak og enheter tilknyttet Taliban som utgjør en trussel mot freden, stabiliteten og sikkerheten i Afghanistan.
 
 Den som et vedtak om frys av midler i medhold av denne paragraf retter seg mot, kan anmode om å bli fjernet fra listen i samsvar med FNs Sikkerhetsråds resolusjon 2082 (2012).2
 
 > Endret ved [forskrifter 25 mai 2016 nr. 537](forskrift/2016-05-25-537), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
-1 FNs konsoliderte sanksjonsliste er tilgjengelig [her](https://www.un.org/securitycouncil/content/un-sc-consolidated-list). Listeførte med landkode («Two Digit Country ISO Code») TA er listeført under denne forskrift.2 Prosedyrer for avlisting er tilgjengelig [her](https://www.un.org/securitycouncil/ombudsperson/application).
+1 FNs konsoliderte sanksjonsliste er tilgjengelig [her](https://www.un.org/securitycouncil/content/un-sc-consolidated-list). Listeførte med landkode («Two Digit Country ISO Code») TA er listeført under denne forskrift.
+
+2 Prosedyrer for avlisting er tilgjengelig [her](https://www.un.org/securitycouncil/ombudsperson/application).
 
 ## § 4. (unntak for visse betalinger)
 
-Paragraf 3 gjelder ikke penger eller formuesgoder i tilfellerder Direktoratet for eksportkontroll og sanksjoner, på anmodning fra en angjeldende fysisk eller juridisk person, har avgjort at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende utgifter, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,utelukkende skal gå til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter eller administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller frosne formuesgoder, ellerer nødvendige for å dekke ekstraordinære utgifter, ogder Sanksjonskomiteen er blitt underrettet om departementets avgjørelse, ogder Sanksjonskomitéen, ved avgjørelser i henhold til bokstav a) i), ii) eller iii), ikke har fremmet innsigelser mot avgjørelsen innen tre virkedager etter at underretningen ble gitt, ellerder Sanksjonskomiteen, ved avgjørelser i henhold til bokstav a) iv), har godkjent avgjørelsen.
+Paragraf 3 gjelder ikke penger eller formuesgoder i tilfeller
+
+1. der Direktoratet for eksportkontroll og sanksjoner, på anmodning fra en angjeldende fysisk eller juridisk person, har avgjort at pengene eller formuesgodene
+
+   1. er nødvendige for å dekke grunnleggende utgifter, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,
+   2. utelukkende skal gå til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand,
+   3. utelukkende skal gå til betaling av avgifter eller administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller frosne formuesgoder, eller
+   4. er nødvendige for å dekke ekstraordinære utgifter, og
+2. der Sanksjonskomiteen er blitt underrettet om departementets avgjørelse, og
+3. 1. der Sanksjonskomitéen, ved avgjørelser i henhold til bokstav a) i), ii) eller iii), ikke har fremmet innsigelser mot avgjørelsen innen tre virkedager etter at underretningen ble gitt, eller
+   2. der Sanksjonskomiteen, ved avgjørelser i henhold til bokstav a) iv), har godkjent avgjørelsen.
 
 Enhver person som ønsker en vurdering etter bestemmelsene i første ledd, skal rette en anmodning til Direktoratet for eksportkontroll og sanksjoner.
 
 Direktoratet for eksportkontroll og sanksjoner skal omgående skriftlig underrette vedkommende som har fremmet anmodningen, og eventuelt andre personer, organer eller enheter som departementet vet er direkte berørt, om anmodningen er tatt til følge.
 
-Bestemmelsene i [§ 3](forskrift/2013-11-08-1294/§3) andre ledd gjelder ikke beløp som godskrives frosne konti i form avrenter eller andre former for avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som oppstod før datoen da disse kontiene ble omfattet av bestemmelsene i FNs sikkerhetsrådsresolusjoner.
+Bestemmelsene i [§ 3](forskrift/2013-11-08-1294/§3) andre ledd gjelder ikke beløp som godskrives frosne konti i form av
+
+1. renter eller andre former for avkastning på disse kontiene, eller
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som oppstod før datoen da disse kontiene ble omfattet av bestemmelsene i FNs sikkerhetsrådsresolusjoner.
 
 I likhet med kontoen de godskrives, skal også rentene, avkastningene og de innbetalte forfalte beløp fryses.
 

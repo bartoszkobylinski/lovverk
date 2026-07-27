@@ -15,7 +15,7 @@ xml_hash: "8584187cbe9171b0cf2210b0f6087422eb7b832b507860b9ff0d45d41d491a9d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,10 @@ Hefter flere skyldnere overfor fordringshaveren, og en av dem innfrir sin forpli
 
 1\. Krav på skadeserstatning eller oppreising foreldes 3 år etter den dag da skadelidte fikk eller burde skaffet seg nødvendig kunnskap om skaden og den ansvarlige. Ved krav etter [skadeserstatningsloven § 3-2 a](lov/1969-06-13-26/§3-2a) tredje ledd løper fristen likevel tidligst fra den dagen da den skadelidte fikk rett til å kreve oppfyllelse. Ved brudd på varslingsplikten etter [skadeserstatningsloven § 3-2 a](lov/1969-06-13-26/§3-2a) fjerde ledd er fristen etter første punktum 6 år i stedet for 3 år.
 
-2\. Kravet foreldes likevel seinest 20 år etter at den skadegjørende handling eller annet ansvarsgrunnlag opphørte. Dette gjelder ikke ved personskade, dersomskaden er voldt i ervervsvirksomhet eller dermed likestilt virksomhet, eller er voldt mens skadelidte er under 18 år, ogden ansvarlige, eller noen denne hefter for, før opphøret av det skadegjørende forhold kjente eller burde kjenne til at dette kunne medføre fare for liv eller alvorlig helseskade.
+2\. Kravet foreldes likevel seinest 20 år etter at den skadegjørende handling eller annet ansvarsgrunnlag opphørte. Dette gjelder ikke ved personskade, dersom
+
+1. skaden er voldt i ervervsvirksomhet eller dermed likestilt virksomhet, eller er voldt mens skadelidte er under 18 år, og
+2. den ansvarlige, eller noen denne hefter for, før opphøret av det skadegjørende forhold kjente eller burde kjenne til at dette kunne medføre fare for liv eller alvorlig helseskade.
 
 3\. Paragrafen gjelder ikke krav som springer ut av kontrakt, bortsett fra krav på erstatning for personskade.
 
@@ -108,7 +111,12 @@ Selv om foreldelsestiden er ute, kan krav på erstatning, oppreisning og inndrag
 
 ### § 12. (Krav mot verge m.v. og visse krav i selskapsforhold.)
 
-1\. Når fordringen tilkommer:person under vergemål mot verge, ellerupersonlig rettshaver, så som aksjeselskap, allmennaksjeselskap, lag eller stiftelse – mot medeier eller medlem av organ for rettshaveren,inntrer foreldelse for ansvar vedkommende har pådratt seg i denne egenskap, tidligst 1 år etter at vervet er opphørt. Er rette vedkommende som kan gjøre kravet gjeldende på fordringshaverens vegne, før vervets opphør blitt kjent med de omstendigheter som kravet grunnes på, løper fristen fra dette tidligere tidspunkt. Regelen gjelder også forholdet mellom konkursskyldneren og boets organer.
+1\. Når fordringen tilkommer:
+
+1. person under vergemål mot verge, eller
+2. upersonlig rettshaver, så som aksjeselskap, allmennaksjeselskap, lag eller stiftelse – mot medeier eller medlem av organ for rettshaveren,
+
+inntrer foreldelse for ansvar vedkommende har pådratt seg i denne egenskap, tidligst 1 år etter at vervet er opphørt. Er rette vedkommende som kan gjøre kravet gjeldende på fordringshaverens vegne, før vervets opphør blitt kjent med de omstendigheter som kravet grunnes på, løper fristen fra dette tidligere tidspunkt. Regelen gjelder også forholdet mellom konkursskyldneren og boets organer.
 
 2\. For fordring ifølge forpliktelse som i henhold til selskapskontrakt påhviler et medlem til å gjøre tilskudd til selskapets masse, tar foreldelse først til å løpe når medlemskapet er opphørt og selskapet har fått underretning om det.
 
@@ -130,7 +138,11 @@ Foreldelse avbrytes når skyldneren overfor fordringshaveren uttrykkelig eller v
 
 1\. Foreldelse avbrytes når fordringshaveren tar rettslig skritt mot skyldneren for å få dom, skjønn, voldgiftsdom eller tilsvarende avgjørelse. Det samme gjelder når skyldneren tar slikt skritt for å få fastsettelsesdom om fordringen. Foreldelse avbrytes også ved at fornærmede begjærer at påtalemyndigheten fremmer kravet i straffesak etter [straffeprosessloven § 427](lov/1981-05-22-25/§427).
 
-2\. Blir fordringen gjort gjeldende ved domstol, skjer avbrudd:ved forliksklage eller stevning, ellerved at krav om fordringen blir framsatt eller påberopt til motregning under sak som er reist mellom partene.når fornærmede fremmer krav til pådømmelse i straffesak etter [straffeprosessloven § 428](lov/1981-05-22-25/§428).
+2\. Blir fordringen gjort gjeldende ved domstol, skjer avbrudd:
+
+1. ved forliksklage eller stevning, eller
+2. ved at krav om fordringen blir framsatt eller påberopt til motregning under sak som er reist mellom partene.
+3. når fornærmede fremmer krav til pådømmelse i straffesak etter [straffeprosessloven § 428](lov/1981-05-22-25/§428).
 
 3\. Er det avtalt at tvist om en fordring skal avgjøres ved voldgift, avbrytes foreldelse når voldgiftsak er innledet etter [voldgiftsloven § 23](lov/2004-05-14-25/§23). Er det ellers hjemmel for annen særskilt avgjørelsesmåte, avbrytes foreldelse ved at fordringshaveren gjør det som fra dennes side trengs for å sette saken i gang. Bestemmelsen i nr. 2 bokstav b gjelder tilsvarende.
 
@@ -150,7 +162,12 @@ Foreldelse avbrytes når skyldneren overfor fordringshaveren uttrykkelig eller v
 
 1\. Foreldelse avbrytes når tvist om kravet bringes inn til avgjørelse ved et forvaltningsorgan som har særskilt myndighet til å avgjøre slik tvist. Dette gjelder selv om vedtaket kan overprøves av andre organer eller bringes inn for domstolene. Dersom saken blir forberedt av et annet organ, er det tilstrekkelig at kravet er brakt inn til dette organ for å få det avgjort.
 
-2\. Reglene i nr. 1 gjelder tilsvarende for:tvist om krav som bringes inn for en klage- eller reklamasjonsnemnd som er opprettet av skyldneren eller bransjeorganisasjon han er tilsluttet eller under deres medvirkning. Det samme gjelder hvis vedtektene for nemnda er offentlig godkjent etter særskilt lovbestemmelse eller hvis skyldneren godtar at tvist om kravet bringes inn for en opprettet klage- eller reklamasjonsnemnd.tvist om krav som bringes inn for Forbrukertilsynet eller annet meklingsorgan som er innmeldt etter [godkjenningsloven § 25](lov/2016-06-17-29/§25) første ledd.tvist om krav som bringes inn for Diskrimineringsnemnda.tvist om krav mot den offentlige forvaltning som bringes inn for Sivilombudet.
+2\. Reglene i nr. 1 gjelder tilsvarende for:
+
+1. tvist om krav som bringes inn for en klage- eller reklamasjonsnemnd som er opprettet av skyldneren eller bransjeorganisasjon han er tilsluttet eller under deres medvirkning. Det samme gjelder hvis vedtektene for nemnda er offentlig godkjent etter særskilt lovbestemmelse eller hvis skyldneren godtar at tvist om kravet bringes inn for en opprettet klage- eller reklamasjonsnemnd.
+2. tvist om krav som bringes inn for Forbrukertilsynet eller annet meklingsorgan som er innmeldt etter [godkjenningsloven § 25](lov/2016-06-17-29/§25) første ledd.
+3. tvist om krav som bringes inn for Diskrimineringsnemnda.
+4. tvist om krav mot den offentlige forvaltning som bringes inn for Sivilombudet.
 
 > Endret ved lover [13 juni 1997 nr. 43](lov/1997-06-13-43), [26 juni 1998 nr. 46](lov/1998-06-26-46) (ikr. 1 okt 1998 iflg. [res. 26 juni 1998 nr. 600](forskrift/1998-06-26-600)), [25 juni 2004 nr. 51](lov/2004-06-25-51) (ikr. 1 juli 2004 iflg. [res. 25 juni 2004 nr. 980](forskrift/2004-06-25-980), gjelder også fordringer som ikke er foreldet når endringen trer i kraft), [17 feb 2017 nr. 7](lov/2017-02-17-7) (ikr. 1 mars 2017 iflg. [res. 17 feb 2017 nr. 196](forskrift/2017-02-17-196)), [16 juni 2017 nr. 50](lov/2017-06-16-50) (ikr. 1 jan 2018 iflg. [res. 16 juni 2017 nr. 750](forskrift/2017-06-16-750)), [23 juni 2020 nr. 98](lov/2020-06-23-98) (ikr. 1 jan 2021 iflg. [res. 23 juni 2020 nr. 1285](forskrift/2020-06-23-1285)), [20 des 2022 nr. 115](lov/2022-12-20-115).
 
@@ -238,11 +255,18 @@ Når foreldelse avbrytes ved erkjennelse etter [§ 14](lov/1979-05-18-18/§14), 
 
 ### § 26. (Motregning.)
 
-Foreldelse av en fordring medfører ikke at fordringshaveren taper motregningsrett, såfremt:denne rett er avtalt, ellerdet krav som det motregnes mot, springer ut av samme rettsforhold som den foreldede fordring og er oppstått før denne fordring ble foreldet.
+Foreldelse av en fordring medfører ikke at fordringshaveren taper motregningsrett, såfremt:
+
+1. denne rett er avtalt, eller
+2. det krav som det motregnes mot, springer ut av samme rettsforhold som den foreldede fordring og er oppstått før denne fordring ble foreldet.
 
 ### § 27. (Pant m.m.)
 
-1\. Når fordringen foreldes, bortfaller:lovbestemt underpant som ikke er tinglyst eller registrert i særskilt rettsregister,underpant i henhold til skadesløsbrev til sikkerhet for mulig inntredende gjeldsansvar,underpant for krav på rente eller annen ytelse som forfaller med bestemte mellomrom og ikke er avdrag på en skyldig hovedstol.
+1\. Når fordringen foreldes, bortfaller:
+
+1. lovbestemt underpant som ikke er tinglyst eller registrert i særskilt rettsregister,
+2. underpant i henhold til skadesløsbrev til sikkerhet for mulig inntredende gjeldsansvar,
+3. underpant for krav på rente eller annen ytelse som forfaller med bestemte mellomrom og ikke er avdrag på en skyldig hovedstol.
 
 2\. Rett etter eiendomsforbehold til eller salgspant i levert løsøre faller bort når fordringen på kjøpesummen foreldes. Dette gjelder likevel ikke når retten i medhold av lov er tinglyst eller registrert i særskilt rettsregister.
 
@@ -306,11 +330,26 @@ De stater som har sluttet seg til denne konvensjon, og som tar i betraktning at 
 
 2\. Denne konvensjon berører ikke tidsfrister som en part har for å varsle den annen part eller treffe andre tiltak enn saksanlegg, som vilkår for å erverve eller gjøre gjeldende sitt krav.
 
-3\. I denne konvensjon:betyr «kjøper», «selger» og «part»: personer som kjøper eller selger eller som avtaler å kjøpe eller selge gjenstander, samt etterfølgere i og erververe av deres rettigheter og plikter etter kjøpavtalen;betyr «kreditor»: en part som gjør et krav gjeldende, hva enten det gjelder betaling av et pengebeløp eller ikke;betyr «debitor»: en part som kreditor gjør gjeldende et krav mot;betyr «mislighold»: en parts ikke-oppfylling av sine plikter etter avtalen eller enhver oppfylling som ikke er i samsvar med avtalen;omfatter «sak»: rettssak, voldgiftsak og forvaltningsak;omfatter «person» også privatrettslig eller offentligrettslig selskap, forening, sammenslutning, stiftelse eller enhet, som kan saksøke eller bli saksøkt;omfatter «skriftlig» også meddelelser ved telegram eller teleks;betyr «år»: et år reknet etter den gregorianske kalender.
+3\. I denne konvensjon:
+
+1. betyr «kjøper», «selger» og «part»: personer som kjøper eller selger eller som avtaler å kjøpe eller selge gjenstander, samt etterfølgere i og erververe av deres rettigheter og plikter etter kjøpavtalen;
+2. betyr «kreditor»: en part som gjør et krav gjeldende, hva enten det gjelder betaling av et pengebeløp eller ikke;
+3. betyr «debitor»: en part som kreditor gjør gjeldende et krav mot;
+4. betyr «mislighold»: en parts ikke-oppfylling av sine plikter etter avtalen eller enhver oppfylling som ikke er i samsvar med avtalen;
+5. omfatter «sak»: rettssak, voldgiftsak og forvaltningsak;
+6. omfatter «person» også privatrettslig eller offentligrettslig selskap, forening, sammenslutning, stiftelse eller enhet, som kan saksøke eller bli saksøkt;
+7. omfatter «skriftlig» også meddelelser ved telegram eller teleks;
+8. betyr «år»: et år reknet etter den gregorianske kalender.
 
 ### Art 2
 
-I denne konvensjon:anses en kjøpavtale som internasjonal dersom kjøper og selger ved avtaleslutningen har sine forretningsteder i ulike stater;skal det bare tas omsyn til at partene har sine forretningsteder i ulike stater dersom dette går fram av avtalen eller av forhandlinger mellom eller opplysninger gitt av partene på noe tidspunkt før eller ved avtaleslutningen;skal forretningstedet, dersom en part i en kjøpavtale har forretningsteder i mer enn en stat, være det som har den nærmeste tilknytning til avtalen og dens oppfylling, under omsyn til forhold som ved avtaleslutningen var kjent for eller tatt i betraktning av partene;skal en parts bopel legges til grunn dersom han ikke har noe forretningsted;skal det verken tas omsyn til partenes statsborgerskap eller til partenes eller avtalens sivile eller kommersielle karakter.
+I denne konvensjon:
+
+1. anses en kjøpavtale som internasjonal dersom kjøper og selger ved avtaleslutningen har sine forretningsteder i ulike stater;
+2. skal det bare tas omsyn til at partene har sine forretningsteder i ulike stater dersom dette går fram av avtalen eller av forhandlinger mellom eller opplysninger gitt av partene på noe tidspunkt før eller ved avtaleslutningen;
+3. skal forretningstedet, dersom en part i en kjøpavtale har forretningsteder i mer enn en stat, være det som har den nærmeste tilknytning til avtalen og dens oppfylling, under omsyn til forhold som ved avtaleslutningen var kjent for eller tatt i betraktning av partene;
+4. skal en parts bopel legges til grunn dersom han ikke har noe forretningsted;
+5. skal det verken tas omsyn til partenes statsborgerskap eller til partenes eller avtalens sivile eller kommersielle karakter.
 
 ### Art 3
 
@@ -322,11 +361,25 @@ I denne konvensjon:anses en kjøpavtale som internasjonal dersom kjøper og selg
 
 ### Art 4
 
-Denne konvensjon gjelder ikke kjøp:av løsøre kjøpt til personlig bruk eller til bruk for familie eller husstand;på auksjon;ved tvangsfullbyrding eller på annen måte i kraft av myndighet som følge av lov;av aksjer, selskapandeler, verdipapirer, omsetningspapirer eller penger;av skip, fartøy eller luftfartøy;av elektrisitet.
+Denne konvensjon gjelder ikke kjøp:
+
+1. av løsøre kjøpt til personlig bruk eller til bruk for familie eller husstand;
+2. på auksjon;
+3. ved tvangsfullbyrding eller på annen måte i kraft av myndighet som følge av lov;
+4. av aksjer, selskapandeler, verdipapirer, omsetningspapirer eller penger;
+5. av skip, fartøy eller luftfartøy;
+6. av elektrisitet.
 
 ### Art 5
 
-Denne konvensjon gjelder ikke krav som grunner seg på:personskade eller en persons død;atomskade voldt av den solgte gjenstand;tilbakeholdsrett, pant eller annen tinglig sikkerhetsrett;dom eller avgjerd truffet i en sak;dokument som er direkte tvangsgrunnlag etter loven på det sted fullbyrding søkes;veksel, sjekk eller negotiabelt gjeldsbrev.
+Denne konvensjon gjelder ikke krav som grunner seg på:
+
+1. personskade eller en persons død;
+2. atomskade voldt av den solgte gjenstand;
+3. tilbakeholdsrett, pant eller annen tinglig sikkerhetsrett;
+4. dom eller avgjerd truffet i en sak;
+5. dokument som er direkte tvangsgrunnlag etter loven på det sted fullbyrding søkes;
+6. veksel, sjekk eller negotiabelt gjeldsbrev.
 
 ### Art 6
 
@@ -348,7 +401,10 @@ Foreldingsfristen er fire år.
 
 1\. For så vidt ikke annet følger av artiklene 10, 11 og 12, løper foreldingsfristen fra den dag kravet forfaller.
 
-2\. Foreldingsfristens utgangspunkt utsettes ikke ved at:det kreves at parten skal varsles som nevnt i artikkel 1 paragraf 2, elleren voldgiftavtale bestemmer at ingen rett skal oppstå før voldgiftavgjerd er truffet.
+2\. Foreldingsfristens utgangspunkt utsettes ikke ved at:
+
+1. det kreves at parten skal varsles som nevnt i artikkel 1 paragraf 2, eller
+2. en voldgiftavtale bestemmer at ingen rett skal oppstå før voldgiftavgjerd er truffet.
 
 ### Art 10
 
@@ -382,7 +438,13 @@ Foreldingsfristen opphører å løpe når kreditor utfører noen handling som, e
 
 ### Art 15
 
-I andre saker enn slike som er nevnt i artiklene 13 og 14, medreknet saker reist i høve av:debitors død, umyndighet eller manglende rettshandelsevne,konkurs eller noe som helst tilfelle av insolvens vedrørende debitors hele formue, elleroppløsing eller avvikling av selskap, forening, sammenslutning, stiftelse eller enhet som er debitor,opphører foreldingsfristen å løpe når kreditor gjør gjeldende sitt krav i slike saker for å oppnå oppfylling eller anerkjennelse av kravet, med mindre annet følger av den loven som gjelder for saken.
+I andre saker enn slike som er nevnt i artiklene 13 og 14, medreknet saker reist i høve av:
+
+1. debitors død, umyndighet eller manglende rettshandelsevne,
+2. konkurs eller noe som helst tilfelle av insolvens vedrørende debitors hele formue, eller
+3. oppløsing eller avvikling av selskap, forening, sammenslutning, stiftelse eller enhet som er debitor,
+
+opphører foreldingsfristen å løpe når kreditor gjør gjeldende sitt krav i slike saker for å oppnå oppfylling eller anerkjennelse av kravet, med mindre annet følger av den loven som gjelder for saken.
 
 ### Art 16
 
@@ -442,7 +504,10 @@ Det at foreldingsfristen er utløpt, skal en bare ta omsyn til dersom det er på
 
 1\. Med mindre annet følger av bestemmelsene i denne artikkels paragraf 2 og i artikkel 24, skal ikke noe krav anerkjennes eller fullbyrdes i noen sak som er reist etter utløpet av foreldingsfristen.
 
-2\. Selv om foreldingsfristen er utløpt, kan en part gjøre gjeldende sitt krav som innsigelse eller til motrekning mot et krav fra den annen part, men i sistnevnte tilfelle bare såframt:begge krav utspringer av samme avtale eller av flere avtaler som er ledd i samme mellomværende; ellerkravene kunne ha blitt motreknet på noe tidspunkt før utløpet av foreldingsfristen.
+2\. Selv om foreldingsfristen er utløpt, kan en part gjøre gjeldende sitt krav som innsigelse eller til motrekning mot et krav fra den annen part, men i sistnevnte tilfelle bare såframt:
+
+1. begge krav utspringer av samme avtale eller av flere avtaler som er ledd i samme mellomværende; eller
+2. kravene kunne ha blitt motreknet på noe tidspunkt før utløpet av foreldingsfristen.
 
 ### Art 26
 

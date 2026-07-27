@@ -15,7 +15,7 @@ xml_hash: "bc6756be0b5b93a52efec9ee354dd7fc989343b7dd5410a9de5462a2402cf1e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -144,7 +144,11 @@ Et studium kan trekkes selv om det er kvalifiserte søkere, dersom det ikke er t
 
 (2) Ved realkompetansevurdering utvides opptaksnemnda med kvalifisert faglærer fra utdanningen det søkes til.
 
-(3) Ved lik poengsum skal det kjønn som er underrepresentert i det yrket eller den profesjon opplæringen skal føre fram til, kvoteres.Det gis gjennomsnittlig karakterpoeng i alle standpunkt- og eksamenskarakterer fra videregående opplæring multiplisert med 10.Praksis utover det generelle grunnlag for opptak; ½ poeng pr. måned.Fagprøve i annet fag utover det generelle opptakskrav, inklusive praksistid; 10 poeng.
+(3) Ved lik poengsum skal det kjønn som er underrepresentert i det yrket eller den profesjon opplæringen skal føre fram til, kvoteres.
+
+- Det gis gjennomsnittlig karakterpoeng i alle standpunkt- og eksamenskarakterer fra videregående opplæring multiplisert med 10.
+- Praksis utover det generelle grunnlag for opptak; ½ poeng pr. måned.
+- Fagprøve i annet fag utover det generelle opptakskrav, inklusive praksistid; 10 poeng.
 
 (4) Hvis flere søkere vurderes å stå helt likt ved innbyrdes rangering etter disse to hovedkriteriene, vil eldre søkere rangeres foran yngre søkere.
 
@@ -160,13 +164,29 @@ Søker som har fått avslag på vedtak om opptak kan klage på vedtaket. Klagen 
 
 (2) Studenter kan gis rett til å følge undervisningen og fremstille seg for eksamen i emner som ikke er del av studieprogrammet. En slik rett fastsettes i studentens utdanningsplan.
 
-(3) Studieretten innebærer:Rett til å få fastsatt utdanningsplan i samsvar med denne forskrift [§ 8](forskrift/2020-01-08-906/§8).Rett til å delta i undervisning/læringsaktiviteter i samsvar med studieplanen for det enkelte program og i samsvar med utdanningsplanen.Rett til veiledning og til å bruke andre ressurser i samsvar med studieplanen, utdanningsplanen og eventuelle andre regler gitt av skolen, herunder lesesaler, datamaskiner, bibliotek osv.Rett til å bli vurdert til eksamen i samsvar med emnebeskrivelsen og reglene i denne forskrift.Rett til brukerkonto i skolens datasystemer for studenter.
+(3) Studieretten innebærer:
+
+1. Rett til å få fastsatt utdanningsplan i samsvar med denne forskrift [§ 8](forskrift/2020-01-08-906/§8).
+2. Rett til å delta i undervisning/læringsaktiviteter i samsvar med studieplanen for det enkelte program og i samsvar med utdanningsplanen.
+3. Rett til veiledning og til å bruke andre ressurser i samsvar med studieplanen, utdanningsplanen og eventuelle andre regler gitt av skolen, herunder lesesaler, datamaskiner, bibliotek osv.
+4. Rett til å bli vurdert til eksamen i samsvar med emnebeskrivelsen og reglene i denne forskrift.
+5. Rett til brukerkonto i skolens datasystemer for studenter.
 
 (4) Skolen kan i tillegg vedta regler om obligatorisk frammøte ved studiestart og undervisning, herunder om registrering, gyldig forfall mv.
 
-(5) Studieretten kan opphøre dersom studenten:Unnlater å betale studieavgift innen fastsatt fristUnnlater å godkjenne utdanningsplan innen fastsatt fristUnnlater å søke om permisjon etter reglene i denne forskriftIkke holder tilfredsstillende progresjon i studiet, som er mindre enn 50 % forsinkelse i forhold til normert studietid. Permisjoner regnes ikke som forsinkelse i denne sammenhengenIkke avlegger eksamen på to år, når studenten ikke er innvilget permisjon på forhåndHar brukt opp sine forsøk til eksamen eller praksisperioder i henhold til denne forskriftEr utestengt i henhold til [lov om universiteter og høyskoler § 4-8](lov/2005-04-01-15/§4-8), [§ 4-9](lov/2005-04-01-15/§4-9), [§ 4-10](lov/2005-04-01-15/§4-10).
+(5) Studieretten kan opphøre dersom studenten:
 
-(6) Pålegg om framvisning av originaldokumenter:Studenter må ved forespørsel fra skolen framvise originaldokumenter som er grunnlaget for opptak til studier eller for utstedelse av vitnemål ved HØFY. Studenter som ikke framviser de forespurte originaldokumentene for kontroll, kan miste studieretten. Vitnemål fra HØFY vil kunne bli holdt tilbake til de forespurte originaldokumentene er framvist og kontrollert.
+1. Unnlater å betale studieavgift innen fastsatt frist
+2. Unnlater å godkjenne utdanningsplan innen fastsatt frist
+3. Unnlater å søke om permisjon etter reglene i denne forskrift
+4. Ikke holder tilfredsstillende progresjon i studiet, som er mindre enn 50 % forsinkelse i forhold til normert studietid. Permisjoner regnes ikke som forsinkelse i denne sammenhengen
+5. Ikke avlegger eksamen på to år, når studenten ikke er innvilget permisjon på forhånd
+6. Har brukt opp sine forsøk til eksamen eller praksisperioder i henhold til denne forskrift
+7. Er utestengt i henhold til [lov om universiteter og høyskoler § 4-8](lov/2005-04-01-15/§4-8), [§ 4-9](lov/2005-04-01-15/§4-9), [§ 4-10](lov/2005-04-01-15/§4-10).
+
+(6) Pålegg om framvisning av originaldokumenter:
+
+Studenter må ved forespørsel fra skolen framvise originaldokumenter som er grunnlaget for opptak til studier eller for utstedelse av vitnemål ved HØFY. Studenter som ikke framviser de forespurte originaldokumentene for kontroll, kan miste studieretten. Vitnemål fra HØFY vil kunne bli holdt tilbake til de forespurte originaldokumentene er framvist og kontrollert.
 
 ### § 17. Utdanningsplan
 
@@ -208,7 +228,11 @@ Søker som har fått avslag på vedtak om opptak kan klage på vedtaket. Klagen 
 
 (1) Graden bachelor oppnås på grunnlag av eksamener med et samlet omfang av minimum 180 studiepoeng. Av disse må eksamener med et samlet omfang på minimum 90 studiepoeng være avlagt ved HØFY.
 
-(2) Grunnlaget for graden skal omfatte ett av følgende:Fullført 3-årig integrert yrkesrettet høyere utdanning av 180 studiepoengs omfang.Fullført og bestått toårig teknisk fagskoleutdanning med relevant faglig fordypning med godkjent påbygging med et omfang på 90 studiepoeng, godkjent av styret ved HØFY.Fullført 2-årig integrert yrkesrettet høyere utdanning (ved norsk eller utenlands institusjon) eller annet studieprogram av 120 studiepoengs omfang, kombinert med godkjent påbygging eller spesialisering innenfor samme eller andre fag/fagområder av minimum 90 studiepoengs omfang.
+(2) Grunnlaget for graden skal omfatte ett av følgende:
+
+1. Fullført 3-årig integrert yrkesrettet høyere utdanning av 180 studiepoengs omfang.
+2. Fullført og bestått toårig teknisk fagskoleutdanning med relevant faglig fordypning med godkjent påbygging med et omfang på 90 studiepoeng, godkjent av styret ved HØFY.
+3. Fullført 2-årig integrert yrkesrettet høyere utdanning (ved norsk eller utenlands institusjon) eller annet studieprogram av 120 studiepoengs omfang, kombinert med godkjent påbygging eller spesialisering innenfor samme eller andre fag/fagområder av minimum 90 studiepoengs omfang.
 
 ### § 21. Reduksjon i studiepoeng for bachelorgraden
 
@@ -361,7 +385,11 @@ Skolen fastsetter hvilke hjelpemidler som kan benyttes ved eksamen.
 
 (3) Begrunnelse skal normalt være gitt innen to uker etter at klager har framsatt krav om det. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for bedømmelsen og for bedømmelsen av klagers prestasjon. Begrunnelse gis muntlig eller skriftlig etter sensors valg. Sensorene avgjør seg imellom hvem som skal gi begrunnelsen.
 
-(4) Klage over karakterfastsetting må framsettes skriftlig innen tre uker etter at eksamensresultatet er kunngjort. Har klager framsatt krav om begrunnelse for karakterfastsetting eller klaget over formelle feil, løper klagefristen fra klager har mottatt begrunnelse eller avgjørelse på klagen over formelle feil. Den skriftlige klagen skal:Gi opplysning om hvem som klager med navn, adresse og studentnummerVise til det vedtak det klages over (emne, eksamensdato, karakter)Dato og underskrift. Ved klage knyttet til gruppeeksamen/felles arbeid må hvert gruppemedlem samtykke i og signere klagen.
+(4) Klage over karakterfastsetting må framsettes skriftlig innen tre uker etter at eksamensresultatet er kunngjort. Har klager framsatt krav om begrunnelse for karakterfastsetting eller klaget over formelle feil, løper klagefristen fra klager har mottatt begrunnelse eller avgjørelse på klagen over formelle feil. Den skriftlige klagen skal:
+
+1. Gi opplysning om hvem som klager med navn, adresse og studentnummer
+2. Vise til det vedtak det klages over (emne, eksamensdato, karakter)
+3. Dato og underskrift. Ved klage knyttet til gruppeeksamen/felles arbeid må hvert gruppemedlem samtykke i og signere klagen.
 
 (5) Bedømmelse av muntlig prestasjon og praksisopplæring eller annen bedømmelse som på grunn av prøvens art ikke lar seg etterprøve, kan ikke påklages (jf. [lov om universiteter og høyskoler § 5-3](lov/2005-04-01-15/§5-3) (5)).
 
@@ -397,7 +425,11 @@ Skolen fastsetter hvilke hjelpemidler som kan benyttes ved eksamen.
 
 (2) Det kan gis fritak for maksimalt 90 studiepoeng for 2-årig relevant fagskoleutdanning i tekniske fag.
 
-(3) HØFY kan (jf. lov om universiteter og høgskoler):godskrive og faglig godkjenne beståtte emner, eksamener eller prøver fra andre universiteter og høyskoler som tilbyr akkrediterte studier med samme antall studiepoeng i den utstrekning de oppfyller de faglige krav for et bestemt emne, grad eller utdanning ved institusjonen. Vedkommende institusjon skal påse at det ikke gis dobbel uttelling for samme faginnhold innenfor samme grad.gi fritak for deler av utdanning fra universiteter og høyskoler som er akkrediterte etter denne lov, på grunnlag av annen velegnet eksamen eller prøve. Dokumentasjon av realkompetanse kan også gi grunnlag for fritak. Departementet kan pålegge institusjonene å samordne sin praksis.avgjøre selv søknader fra enkeltpersoner om godkjenning av annen høyere utdanning som faglig jevngod med utdanning som tilbys ved den enkelte institusjon. Godkjenning etter denne bestemmelsen gir rett til å bruke den tittel som er fastsatt for den utdanningen det er jevnført med.
+(3) HØFY kan (jf. lov om universiteter og høgskoler):
+
+1. godskrive og faglig godkjenne beståtte emner, eksamener eller prøver fra andre universiteter og høyskoler som tilbyr akkrediterte studier med samme antall studiepoeng i den utstrekning de oppfyller de faglige krav for et bestemt emne, grad eller utdanning ved institusjonen. Vedkommende institusjon skal påse at det ikke gis dobbel uttelling for samme faginnhold innenfor samme grad.
+2. gi fritak for deler av utdanning fra universiteter og høyskoler som er akkrediterte etter denne lov, på grunnlag av annen velegnet eksamen eller prøve. Dokumentasjon av realkompetanse kan også gi grunnlag for fritak. Departementet kan pålegge institusjonene å samordne sin praksis.
+3. avgjøre selv søknader fra enkeltpersoner om godkjenning av annen høyere utdanning som faglig jevngod med utdanning som tilbys ved den enkelte institusjon. Godkjenning etter denne bestemmelsen gir rett til å bruke den tittel som er fastsatt for den utdanningen det er jevnført med.
 
 (4) Søknad om fritak/innpass for eksamen må framsettes skriftlig innen én måned etter oppstart av emnet og må inneholde nødvendig dokumentasjon av omfang og innhold i eksamen som ønskes godskrevet. Det gis ikke fritak for deleksamener. Rektor avgjør søknader om fritak for eksamen etter innstilling fra studieleder.
 
@@ -409,7 +441,17 @@ Skolen fastsetter hvilke hjelpemidler som kan benyttes ved eksamen.
 
 (1) HØFY utferdiger vitnemål om fullført utdanning. Det utferdiges Diploma Supplement for utdanninger av 2 års varighet eller mer.
 
-(2) På vitnemålet skal det som minimum framgå:navn og personnummerhvilken grad eller yrkesutdanning som er fullførttotalt antall studiepoeng som utdanningen omfattertidspunkt for fullført utdanningnavn, studiepoeng og karakter for emner som inngårtidspunkt for avlagte eksamenereventuelle fritak/innpass for eksamener og grunnlaget for fritaket/innpassingentittel på større skriftlige oppgaver (minst 10 studiepoeng)hvilket karaktersystem som er benyttet.
+(2) På vitnemålet skal det som minimum framgå:
+
+1. navn og personnummer
+2. hvilken grad eller yrkesutdanning som er fullført
+3. totalt antall studiepoeng som utdanningen omfatter
+4. tidspunkt for fullført utdanning
+5. navn, studiepoeng og karakter for emner som inngår
+6. tidspunkt for avlagte eksamener
+7. eventuelle fritak/innpass for eksamener og grunnlaget for fritaket/innpassingen
+8. tittel på større skriftlige oppgaver (minst 10 studiepoeng)
+9. hvilket karaktersystem som er benyttet.
 
 (3) Kun endelig karakter i et emne påføres vitnemål. Karakterutskrift med karakterer fra emner kan fås ved forespørsel.
 

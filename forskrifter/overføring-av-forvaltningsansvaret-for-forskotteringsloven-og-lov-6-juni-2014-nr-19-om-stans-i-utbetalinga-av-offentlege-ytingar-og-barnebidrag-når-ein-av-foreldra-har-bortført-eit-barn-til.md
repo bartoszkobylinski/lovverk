@@ -22,4 +22,9 @@ eu_basis: []
 
 # Overføring av forvaltningsansvaret for forskotteringsloven og lov 6. juni 2014 nr. 19 om stans i utbetalinga av offentlege ytingar og barnebidrag når ein av foreldra har bortført eit barn til utlandet
 
-Forvaltningsansvaret for[lov 17. februar 1989 nr. 2 om bidragsforskott (forskotteringsloven)](lov/1989-02-17-2) og[lov 6. juni 2014 nr. 19 om stans i utbetalinga av offentlege ytingar og barnebidrag når ein av foreldra har bortført eit barn til utlandet](lov/2014-06-06-19)overføres fra Arbeids- og inkluderingsdepartementet til Barne- og familiedepartementet med virkning fra 1. januar 2023.
+Forvaltningsansvaret for
+
+- [lov 17. februar 1989 nr. 2 om bidragsforskott (forskotteringsloven)](lov/1989-02-17-2) og
+- [lov 6. juni 2014 nr. 19 om stans i utbetalinga av offentlege ytingar og barnebidrag når ein av foreldra har bortført eit barn til utlandet](lov/2014-06-06-19)
+
+overføres fra Arbeids- og inkluderingsdepartementet til Barne- og familiedepartementet med virkning fra 1. januar 2023.

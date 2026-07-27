@@ -30,7 +30,10 @@ EØS-avtalen vedlegg XIII nr. 68ac (forordning [(EF) nr. 1107/2006](eu/32006r110
 
 ### § 2. Svalbard
 
-Forordningen gjelder for trafikk til, på og fra Svalbard på følgende måte:Svalbard lufthavn, Longyear regnes som en lufthavn på territoriet til en medlemsstat slik dette uttrykket er brukt i artikkel 1 nr. 2.Artikkel 3, 4 og 10 får anvendelse på passasjerer som reiser fra en lufthavn som ligger i en tredjestat til Svalbard lufthavn, Longyear dersom det utførende luftfartsselskapet er et luftfartsselskap innenfor EØS-området, jf. artikkel 1 nr. 3.
+Forordningen gjelder for trafikk til, på og fra Svalbard på følgende måte:
+
+1. Svalbard lufthavn, Longyear regnes som en lufthavn på territoriet til en medlemsstat slik dette uttrykket er brukt i artikkel 1 nr. 2.
+2. Artikkel 3, 4 og 10 får anvendelse på passasjerer som reiser fra en lufthavn som ligger i en tredjestat til Svalbard lufthavn, Longyear dersom det utførende luftfartsselskapet er et luftfartsselskap innenfor EØS-området, jf. artikkel 1 nr. 3.
 
 ### § 3. Nasjonalt håndhevelsesorgan
 
@@ -78,7 +81,11 @@ Alle lufthavner skal ha bærestol(er) som gjør det mulig å bære passasjerer o
 
 På lufthavner som har passasjerbroer plikter både lufthavnoperatør og flyselskap å benytte seg av disse dersom en eller flere funksjonshemmede eller bevegelseshemmede personer skal om bord eller skal gå av et luftfartøy. Dersom det er knapphet på passasjerbroer skal luftfartøy med slike passasjerer gis prioritet. Plikten er betinget av at lufthavnen har fått melding om behovet 48 timer før avreise eller ankomst.
 
-På lufthavn som har trinnløs rampe eller teknisk løfteanordning skal slike benyttes i alle tilfeller hvor det ikke er fysisk umulig, der ordningen ikke kan benyttes på den aktuelle flytypen eller det av andre dokumenterbare grunner ikke er mulig å parkere slik at løsningen kan benyttes. Med tanke på å ivareta behovene til de reisende bør løsningene benyttes i følgende prioriteringsrekkefølge:Flyttbar universelt utformet rampeMekanisk løfteanordning inntil hoveddørMekanisk løfteanordning inntil andre dører enn hoveddør.
+På lufthavn som har trinnløs rampe eller teknisk løfteanordning skal slike benyttes i alle tilfeller hvor det ikke er fysisk umulig, der ordningen ikke kan benyttes på den aktuelle flytypen eller det av andre dokumenterbare grunner ikke er mulig å parkere slik at løsningen kan benyttes. Med tanke på å ivareta behovene til de reisende bør løsningene benyttes i følgende prioriteringsrekkefølge:
+
+1. Flyttbar universelt utformet rampe
+2. Mekanisk løfteanordning inntil hoveddør
+3. Mekanisk løfteanordning inntil andre dører enn hoveddør.
 
 Uansett skal den løsningen som velges sikre en trygg og verdig opplevelse for passasjeren.
 
@@ -86,7 +93,10 @@ Fysisk bæring skal aldri benyttes med mindre det gjelder ombordstigning i en fl
 
 ### § 10. Transportløsninger for funksjons- og bevegelseshemmede
 
-Alle lufthavner skal ha nødvendig antallrullestoler til transport i terminalbygninger som oppfyller generelle funksjonskrav, og som brukeren kan trille selvrullestoler til transport av funksjons- eller bevegelseshemmede passasjerer til og fra setet deres i luftfartøyet.
+Alle lufthavner skal ha nødvendig antall
+
+1. rullestoler til transport i terminalbygninger som oppfyller generelle funksjonskrav, og som brukeren kan trille selv
+2. rullestoler til transport av funksjons- eller bevegelseshemmede passasjerer til og fra setet deres i luftfartøyet.
 
 Ved transport til og fra fjernparkerte luftfartøy skal det tilstrebes transportløsninger som gjør at alle passasjerer kan benytte samme transporttilbud. Oslo lufthavn, Gardermoen skal ha nødvendig antall minibusser for å transportere funksjons- og bevegelseshemmede personer mellom terminalbygning og fjernoppstillingsplass for luftfartøy, dit andre personer fraktes med buss. Minibussen skal være utstyrt med et system som låser rullestolene sikkert fast, og være utstyrt med passasjersikringsutstyr i samsvar med standarden for slikt utstyr. De må også være utstyrt med en ombordstigningsanordning – rampe eller heis – for å gjøre det mulig for den funksjons- eller bevegelseshemmede personen (rullestolbrukeren) å stige på, og komme seg av minibussen.
 
@@ -100,39 +110,87 @@ Første ledd er ikke til hinder for at lufthavnadministrasjonen på den enkelte 
 
 ### § 12. Krav til opplæring av personell
 
-(1) Enhver som yter tjeneste eller arbeid for et foretak som yter tjenester som er omfattet av forskriften, skal ha gjennomgått og bestått relevant kurs. Opplæringen skal gi generell kunnskap om funksjons- og bevegelseshemming og spesiell kunnskap om assistansetjenesten, slik at de kan oppfylle behovene til funksjons- og bevegelseshemmede personer. Kurset skal omfatte bevisstgjørende opplæring om funksjons- og bevegelseshemming, herunderbevissthet om hensiktsmessig respons overfor passasjerer med fysiske, sensoriske (hørsel og syn), skjulte eller læringsmessige funksjonshemminger, herunder hvordan man skiller mellom uførhet som skyldes redusert bevegelighet, orienteringsevne eller kommunikasjonsevne,holdningsmessige, miljømessige/fysiske og organisasjonsmessige hindringer som personer med bevegelseshemming møter,hjelpe- og førerhunder, herunder rollen og behovene disse har,håndtering av uforutsette hendelser,samarbeidsevner og kommunikasjonsmetoder med døve, hørselshemmede, synshemmede og talehemmede personer, og personer med lærevansker,generell bevissthet om retningslinjene fra European Civil Aviation Conference, International Air Traffic Association og Den europeiske unionen og om lover og forskrifter som regulerer rettighetene til flypassasjerer, oghvordan man håndterer rullestoler og andre mobilitetshjelpemidler forsiktig for å unngå skade.
+(1) Enhver som yter tjeneste eller arbeid for et foretak som yter tjenester som er omfattet av forskriften, skal ha gjennomgått og bestått relevant kurs. Opplæringen skal gi generell kunnskap om funksjons- og bevegelseshemming og spesiell kunnskap om assistansetjenesten, slik at de kan oppfylle behovene til funksjons- og bevegelseshemmede personer. Kurset skal omfatte bevisstgjørende opplæring om funksjons- og bevegelseshemming, herunder
 
-(2) Enhver som direkte assisterer funksjons- eller bevegelseshemmede personer skal i tillegg til kravene i første ledd være i stand til å skille mellom forskjellige typer funksjons- og bevegelseshemminger, og ha kjennskap til den best egnede form for bistand til hver av disse. Kjennskapen skal omfattehvordan man hjelper rullestolbrukere å komme seg opp i og ut av en rullestol,ferdigheter til å gi assistanse til funksjons- og bevegelseshemmede personer som reiser med en hjelpe- eller førerhund, inkludert rollen og behovene til disse hundene,ledsagerteknikker for å følge blinde og svaksynte passasjerer og for håndtering og frakt av førerhunder og andre hjelpehunder,forståelse av hvilke typer utstyr som kan hjelpe funksjons- og bevegelseshemmede personer, og hvordan man håndterer slikt utstyr,bruken av utstyr til hjelp ved ombordstigning eller avstigning og kjennskap til egnede prosedyrer for hjelp ved ombordstigning eller avstigning, som ivaretar sikkerheten og verdigheten til funksjons- og bevegelseshemmede personer,tilstrekkelig forståelse for behovet for pålitelig og profesjonell assistanse, herunder forståelse for at enkelte funksjons- eller bevegelseshemmede passasjerer kan føle seg sårbare under reiser på grunn av at de er totalt avhengige av den assistansen de får, ogførstehjelp.
+1. bevissthet om hensiktsmessig respons overfor passasjerer med fysiske, sensoriske (hørsel og syn), skjulte eller læringsmessige funksjonshemminger, herunder hvordan man skiller mellom uførhet som skyldes redusert bevegelighet, orienteringsevne eller kommunikasjonsevne,
+2. holdningsmessige, miljømessige/fysiske og organisasjonsmessige hindringer som personer med bevegelseshemming møter,
+3. hjelpe- og førerhunder, herunder rollen og behovene disse har,
+4. håndtering av uforutsette hendelser,
+5. samarbeidsevner og kommunikasjonsmetoder med døve, hørselshemmede, synshemmede og talehemmede personer, og personer med lærevansker,
+6. generell bevissthet om retningslinjene fra European Civil Aviation Conference, International Air Traffic Association og Den europeiske unionen og om lover og forskrifter som regulerer rettighetene til flypassasjerer, og
+7. hvordan man håndterer rullestoler og andre mobilitetshjelpemidler forsiktig for å unngå skade.
+
+(2) Enhver som direkte assisterer funksjons- eller bevegelseshemmede personer skal i tillegg til kravene i første ledd være i stand til å skille mellom forskjellige typer funksjons- og bevegelseshemminger, og ha kjennskap til den best egnede form for bistand til hver av disse. Kjennskapen skal omfatte
+
+1. hvordan man hjelper rullestolbrukere å komme seg opp i og ut av en rullestol,
+2. ferdigheter til å gi assistanse til funksjons- og bevegelseshemmede personer som reiser med en hjelpe- eller førerhund, inkludert rollen og behovene til disse hundene,
+3. ledsagerteknikker for å følge blinde og svaksynte passasjerer og for håndtering og frakt av førerhunder og andre hjelpehunder,
+4. forståelse av hvilke typer utstyr som kan hjelpe funksjons- og bevegelseshemmede personer, og hvordan man håndterer slikt utstyr,
+5. bruken av utstyr til hjelp ved ombordstigning eller avstigning og kjennskap til egnede prosedyrer for hjelp ved ombordstigning eller avstigning, som ivaretar sikkerheten og verdigheten til funksjons- og bevegelseshemmede personer,
+6. tilstrekkelig forståelse for behovet for pålitelig og profesjonell assistanse, herunder forståelse for at enkelte funksjons- eller bevegelseshemmede passasjerer kan føle seg sårbare under reiser på grunn av at de er totalt avhengige av den assistansen de får, og
+7. førstehjelp.
 
 (3) Lufthavnadministrasjonen er ansvarlig for at opplæringskravene ovenfor etterleves.
 
 ### § 13. Assistanse til avreisende passasjerer med forhåndsbestilling
 
-Dersom funksjons- eller bevegelseshemmet passasjer har forhåndsbestilt assistanse skal lufthavner med mer enn 1 million passasjerbevegelser årlig sikre at ventetiden fra passasjeren melder sin ankomst til assistanse gisikke overstiger 10 minutter for 80 % av passasjerene,ikke overstiger 20 minutter for 90 % av passasjerene, ogikke overstiger 30 minutter for noen passasjer.
+Dersom funksjons- eller bevegelseshemmet passasjer har forhåndsbestilt assistanse skal lufthavner med mer enn 1 million passasjerbevegelser årlig sikre at ventetiden fra passasjeren melder sin ankomst til assistanse gis
 
-Dersom funksjons- eller bevegelseshemmet passasjer har forhåndsbestilt assistanse skal lufthavner med mindre enn 1 million passasjerbevegelser årlig sikre at ventetiden fra passasjeren melder sin ankomst til assistanse gisikke overstiger 10 minutter for 80 % av passasjerene, ogikke overstiger 15 minutter for noen passasjer.
+1. ikke overstiger 10 minutter for 80 % av passasjerene,
+2. ikke overstiger 20 minutter for 90 % av passasjerene, og
+3. ikke overstiger 30 minutter for noen passasjer.
+
+Dersom funksjons- eller bevegelseshemmet passasjer har forhåndsbestilt assistanse skal lufthavner med mindre enn 1 million passasjerbevegelser årlig sikre at ventetiden fra passasjeren melder sin ankomst til assistanse gis
+
+1. ikke overstiger 10 minutter for 80 % av passasjerene, og
+2. ikke overstiger 15 minutter for noen passasjer.
 
 ### § 14. Assistanse til avreisende passasjerer uten forhåndsbestilling
 
-Dersom funksjons- eller bevegelseshemmet passasjer ikke har forhåndsbestilt assistanse skal lufthavner med mer enn 1 million passasjerbevegelser årlig sikre at ventetiden fra passasjeren melder sin ankomst til assistanse gisikke overstiger 25 minutter for 80 % av passasjerene,ikke overstiger 35 minutter for 90 % av passasjerene, ogikke overstiger 45 minutter for noen passasjer.
+Dersom funksjons- eller bevegelseshemmet passasjer ikke har forhåndsbestilt assistanse skal lufthavner med mer enn 1 million passasjerbevegelser årlig sikre at ventetiden fra passasjeren melder sin ankomst til assistanse gis
 
-Dersom funksjons- eller bevegelseshemmet passasjer ikke har forhåndsbestilt assistanse skal lufthavner med mindre enn 1 million passasjerbevegelser årlig sikre assistanse ved luftfartøyet etter landingikke overstiger 25 minutter for 80 % av passasjerene, ogikke overstiger 30 minutter for noen passasjer.
+1. ikke overstiger 25 minutter for 80 % av passasjerene,
+2. ikke overstiger 35 minutter for 90 % av passasjerene, og
+3. ikke overstiger 45 minutter for noen passasjer.
+
+Dersom funksjons- eller bevegelseshemmet passasjer ikke har forhåndsbestilt assistanse skal lufthavner med mindre enn 1 million passasjerbevegelser årlig sikre assistanse ved luftfartøyet etter landing
+
+1. ikke overstiger 25 minutter for 80 % av passasjerene, og
+2. ikke overstiger 30 minutter for noen passasjer.
 
 ### § 15. Assistanse til ankommende passasjerer med forhåndsbestilling
 
-Dersom funksjons- eller bevegelseshemmet passasjer har forhåndsbestilt assistanse skal lufthavner med mer enn 1 million passasjerbevegelser årlig sikre assistanse ved luftfartøyet etter landinginnen 5 minutter fra bremseklossene er satt på («on chocks») for 80 % av passasjerene,innen 10 minutter fra bremseklossene er satt på («on chocks») for 90 % av passasjerene, ogslik at ingen passasjerer venter mer enn 20 minutter fra bremseklossene er satt på («on chocks»).
+Dersom funksjons- eller bevegelseshemmet passasjer har forhåndsbestilt assistanse skal lufthavner med mer enn 1 million passasjerbevegelser årlig sikre assistanse ved luftfartøyet etter landing
 
-Dersom funksjons- eller bevegelseshemmet passasjer har forhåndsbestilt assistanse skal lufthavner med mindre enn 1 million passasjerbevegelser årlig sikre assistanse ved luftfartøyet etter landinginnen 5 minutter fra bremseklossene er satt på («on chocks») for 80 % av passasjerene, ogslik at ingen passasjerer venter lenger enn 10 minutter etter at bremseklossene er satt på («on chocks»).
+1. innen 5 minutter fra bremseklossene er satt på («on chocks») for 80 % av passasjerene,
+2. innen 10 minutter fra bremseklossene er satt på («on chocks») for 90 % av passasjerene, og
+3. slik at ingen passasjerer venter mer enn 20 minutter fra bremseklossene er satt på («on chocks»).
+
+Dersom funksjons- eller bevegelseshemmet passasjer har forhåndsbestilt assistanse skal lufthavner med mindre enn 1 million passasjerbevegelser årlig sikre assistanse ved luftfartøyet etter landing
+
+1. innen 5 minutter fra bremseklossene er satt på («on chocks») for 80 % av passasjerene, og
+2. slik at ingen passasjerer venter lenger enn 10 minutter etter at bremseklossene er satt på («on chocks»).
 
 ### § 16. Assistanse til ankommende passasjerer uten forhåndsbestilling
 
-Dersom funksjons- eller bevegelseshemmet passasjer ikke har forhåndsbestilt assistanse skal lufthavner med mer enn 1 million passasjerbevegelser årlig sikre assistanse ved luftfartøyet etter landinginnen 25 minutter fra bremseklossene er satt på («on chocks») for 80 % av passasjerene,innen 35 minutter fra bremseklossene er satt på («on chocks») for 90 % av passasjerene, ogslik at ingen passasjerer venter lenger enn 45 minutter etter at bremseklossene er satt på («on chocks»).
+Dersom funksjons- eller bevegelseshemmet passasjer ikke har forhåndsbestilt assistanse skal lufthavner med mer enn 1 million passasjerbevegelser årlig sikre assistanse ved luftfartøyet etter landing
 
-Dersom funksjons- eller bevegelseshemmet passasjer ikke har forhåndsbestilt assistanse skal lufthavner med mindre enn 1 million passasjerbevegelser årlig sikre assistanse ved luftfartøyet etter landinginnen 25 minutter fra bremseklossene er satt på («on chocks») for 80 % av passasjerene, ogslik at ingen passasjerer venter lenger enn 30 minutter etter at bremseklossene er satt på («on chocks»).
+1. innen 25 minutter fra bremseklossene er satt på («on chocks») for 80 % av passasjerene,
+2. innen 35 minutter fra bremseklossene er satt på («on chocks») for 90 % av passasjerene, og
+3. slik at ingen passasjerer venter lenger enn 45 minutter etter at bremseklossene er satt på («on chocks»).
+
+Dersom funksjons- eller bevegelseshemmet passasjer ikke har forhåndsbestilt assistanse skal lufthavner med mindre enn 1 million passasjerbevegelser årlig sikre assistanse ved luftfartøyet etter landing
+
+1. innen 25 minutter fra bremseklossene er satt på («on chocks») for 80 % av passasjerene, og
+2. slik at ingen passasjerer venter lenger enn 30 minutter etter at bremseklossene er satt på («on chocks»).
 
 ### § 17. Innholdet i assistansen
 
-Ved assistanseoppdrag er lufthavnen ansvarlig for at de enkelte passasjer med nedsatt funksjonsevnefølges opp ved forsinkelse eller bytte av utgang,kan benytte seg av et system som gjør det mulig å påkalle assistanse ved behov for å komme til toalett, ogkan benytte seg av et system som gjør det mulig å påkalle assistanse ved kjøp av mat og drikke.
+Ved assistanseoppdrag er lufthavnen ansvarlig for at de enkelte passasjer med nedsatt funksjonsevne
+
+1. følges opp ved forsinkelse eller bytte av utgang,
+2. kan benytte seg av et system som gjør det mulig å påkalle assistanse ved behov for å komme til toalett, og
+3. kan benytte seg av et system som gjør det mulig å påkalle assistanse ved kjøp av mat og drikke.
 
 Dersom ombordstigning ved egen hjelp ikke lar seg gjøre av fysiske eller tekniske grunner, skal det gis assistanse på en måte som best mulig ivaretar hensynet både til passasjeren og utøveren av assistansen.
 

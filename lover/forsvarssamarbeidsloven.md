@@ -15,7 +15,7 @@ xml_hash: "2e02c3644403fdf78f4caa27ae836f1485a03b59943eade4037a6bfd9cba84f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,9 @@ Erstatningskrav som oppstår innenfor rammene av Avtale mellom partene i Traktat
 
 (1) SDCA artikkel VI nr. 3 gjelder som norsk lov.
 
-(2) SDCA artikkel VI nr. 3 gjengis i norsk versjon:I samsvar med artikkel VII nr. 10 i NATO SOFA og i henhold til nr. 4 i denne artikkelen for sivile deler av omforente områder, har amerikanske styrker rett til å utøve nødvendige rettigheter og myndighet innenfor omforente områder for amerikanske styrkers bruk, drift, forsvar av eller kontroll over omforente områder ved å treffe egnede og forholdsmessige tiltak, herunder tiltak som er nødvendige for å opprettholde eller gjenopprette orden og beskytte amerikanske styrker, amerikanske kontraktører, norske kontraktører og medfølgende.
+(2) SDCA artikkel VI nr. 3 gjengis i norsk versjon:
+
+- I samsvar med artikkel VII nr. 10 i NATO SOFA og i henhold til nr. 4 i denne artikkelen for sivile deler av omforente områder, har amerikanske styrker rett til å utøve nødvendige rettigheter og myndighet innenfor omforente områder for amerikanske styrkers bruk, drift, forsvar av eller kontroll over omforente områder ved å treffe egnede og forholdsmessige tiltak, herunder tiltak som er nødvendige for å opprettholde eller gjenopprette orden og beskytte amerikanske styrker, amerikanske kontraktører, norske kontraktører og medfølgende.
 
 (3) Myndighetsutøvelse etter første ledd vil på de militære delene av omforente områder, og innenfor rammene av SDCA artikkel VI nr. 3, blant annet gi amerikanske styrker rett til å fastsette og håndheve adgangs-, utstyrs- og atferdsbegrensninger, og å foreta nødvendige og forholdsmessige fysiske tiltak for å forsvare styrker, områder og materiell i tilfelle av et fysisk angrep mot disse.
 

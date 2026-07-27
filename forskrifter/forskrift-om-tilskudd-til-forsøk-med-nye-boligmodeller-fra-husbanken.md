@@ -48,7 +48,11 @@ Husbanken kan be om opplysninger og dokumentasjon som er nødvendig for å kunne
 
 ## § 7. Hvordan søknadene blir vurdert
 
-Husbanken skal i enkeltvedtak avgjøre søknadene ut frahvor godt tiltaket er egnet til å nå formålet med tilskuddsordningen, det vil si utvikle og teste nye boligmodeller for vanskeligstilte på boligmarkedet med andre boligbehov enn det som dekkes av en tradisjonell utleiebolig eller eierboligprosjektøkonomien og prosjektgjennomføringenboligmodellene innrettes slik at de har overføringsverdi til andre prosjekter.
+Husbanken skal i enkeltvedtak avgjøre søknadene ut fra
+
+1. hvor godt tiltaket er egnet til å nå formålet med tilskuddsordningen, det vil si utvikle og teste nye boligmodeller for vanskeligstilte på boligmarkedet med andre boligbehov enn det som dekkes av en tradisjonell utleiebolig eller eierbolig
+2. prosjektøkonomien og prosjektgjennomføringen
+3. boligmodellene innrettes slik at de har overføringsverdi til andre prosjekter.
 
 Prosjekter med formål å finne egnede botilbud for utviklingshemmede, personer med rusproblemer og psykiske lidelser, eller barn og unge skal særskilt prioriteres.
 

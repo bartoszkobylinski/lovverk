@@ -15,7 +15,7 @@ xml_hash: "38e88cc6b2a6d5ba768d5f61e2b2fe337d18e7ce1bc2e8a4a1b56280aa20d360"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -41,12 +41,27 @@ Dagens samordningsarbeid må utvides, og Arbeidstilsynet, både sentralt og loka
 
 *3. Generelle prinsipper for koordineringsarbeidet*
 
-Følgende generelle prinsipper skal legges til grunn for en styrket koordinering overfor næringslivet:Det skal gjennomføres en mest mulig samlet og effektiv oppfølging av helse, miljø og sikkerhet i arbeidslivet, og det må sikres en enhetlig myndighetsopptreden overfor virksomhetene.Arbeidstilsynet skal, som koordinerende instans, ha en aktiv rolle overfor de øvrige HMS-etatene.Dobbeltrapportering og unødig innsending av dokumentasjon fra virksomhetene til flere myndigheter skal unngås.Koordineringen skal sikre at vedtak innenfor de respektive myndigheters ansvarsområde ikke er i motstrid til hverandre eller på annen måte griper inn i virksomheten på en uheldig måte ut fra en helhetlig vurdering av helse, miljø og sikkerhet.Koordineringen skal sikre nødvendig erfaringsoverføring og legge til rette for utarbeiding av felles strategier og samordnet oppfølging, der dette er nødvendig og hensiktsmessig.Koordineringen innebærer ingen endring av den formelle vedtakskompetansen som fremgår av gjeldende lovgiving og gitte delegeringer.De berørte departementer plikter gjennom styringsdialogen (tildelingsbrev mv.) å iverksette nødvendige tiltak for å påse at underliggende etater deltar i samordningsarbeidet og støtter opp under Arbeidstilsynets koordineringsrolle.
+Følgende generelle prinsipper skal legges til grunn for en styrket koordinering overfor næringslivet:
+
+- Det skal gjennomføres en mest mulig samlet og effektiv oppfølging av helse, miljø og sikkerhet i arbeidslivet, og det må sikres en enhetlig myndighetsopptreden overfor virksomhetene.
+- Arbeidstilsynet skal, som koordinerende instans, ha en aktiv rolle overfor de øvrige HMS-etatene.
+- Dobbeltrapportering og unødig innsending av dokumentasjon fra virksomhetene til flere myndigheter skal unngås.
+- Koordineringen skal sikre at vedtak innenfor de respektive myndigheters ansvarsområde ikke er i motstrid til hverandre eller på annen måte griper inn i virksomheten på en uheldig måte ut fra en helhetlig vurdering av helse, miljø og sikkerhet.
+- Koordineringen skal sikre nødvendig erfaringsoverføring og legge til rette for utarbeiding av felles strategier og samordnet oppfølging, der dette er nødvendig og hensiktsmessig.
+- Koordineringen innebærer ingen endring av den formelle vedtakskompetansen som fremgår av gjeldende lovgiving og gitte delegeringer.
+- De berørte departementer plikter gjennom styringsdialogen (tildelingsbrev mv.) å iverksette nødvendige tiltak for å påse at underliggende etater deltar i samordningsarbeidet og støtter opp under Arbeidstilsynets koordineringsrolle.
 
 *4. Innholdet i koordineringsrollen*
 
 HMS-tilsynenes virkemidler er ikke begrenset til fysisk tilsyn i virksomhetene. Det er viktig at HMS-etatenes sentrale rammeverk og samtlige hovedaktiviteter i påvirkningsarbeidet overfor virksomhetene omfattes av den koordineringen og samordningen som skal finne sted. Viktige samarbeidsområder for samordningsarbeidet framover i tillegg til tilsynet i virksomhetene blir regelverksutvikling, informasjon og veiledning. Det er viktig at koordineringsarbeidet etableres både på sentralt og lokalt nivå i etatene.
 
-Utgangspunktet for koordineringen av tilsynet sentralt og lokalt kan være de forhold som er tilnærmet like for flere etater, dvs. innsatsområder der resultatene blir bedre dersom to eller flere etater samarbeider. Arbeidstilsynet skal bl.a. ha ansvaret for konkret koordinering av arbeidet med:vedlikehold og videreutvikling av styrende dokumenter for tilsyn.felles opplæring av tilsynspersonell.videreutvikling og drift av felles tilsynsdatabase, samt følge opp at denne brukes i forbindelse med planlegging av tilsyn.større og landsdekkende kampanjer og aksjoner, samt sørge for at det utvikles en flerårig plan som viser hvilke kampanjer som skal gjennomføres i etatene. Koordineringsansvaret innebærer også å sørge for at kampanjer rettet mot samme målgruppe eller tilgrensende spørsmål blir koordinert.videreutvikling og drift av felles nettsted – *http://www.hmsetatene.no*.videreutvikling og ledelse av felles regelverksgruppe.
+Utgangspunktet for koordineringen av tilsynet sentralt og lokalt kan være de forhold som er tilnærmet like for flere etater, dvs. innsatsområder der resultatene blir bedre dersom to eller flere etater samarbeider. Arbeidstilsynet skal bl.a. ha ansvaret for konkret koordinering av arbeidet med:
+
+- vedlikehold og videreutvikling av styrende dokumenter for tilsyn.
+- felles opplæring av tilsynspersonell.
+- videreutvikling og drift av felles tilsynsdatabase, samt følge opp at denne brukes i forbindelse med planlegging av tilsyn.
+- større og landsdekkende kampanjer og aksjoner, samt sørge for at det utvikles en flerårig plan som viser hvilke kampanjer som skal gjennomføres i etatene. Koordineringsansvaret innebærer også å sørge for at kampanjer rettet mot samme målgruppe eller tilgrensende spørsmål blir koordinert.
+- videreutvikling og drift av felles nettsted – *http://www.hmsetatene.no*.
+- videreutvikling og ledelse av felles regelverksgruppe.
 
 Arbeidstilsynet er ansvarlig for at det utarbeides og videreutvikles styrende dokumenter som beskriver hvordan koordineringsansvaret nevnt i strekpunktene ovenfor skal ivaretas i praksis.

@@ -15,14 +15,17 @@ xml_hash: "cad6d123ede841ae036bcd073c6db76cc208f439c3856861d51bbc483f7a0a6a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Delegering av myndighet etter Svalbardloven § 4 til Justis- og beredskapsdepartementet
 
-Delegering av Kongens myndighet etter [Svalbardloven § 4](lov/1925-07-17-11/§4) til Justis- og beredskapsdepartementet tilå fastsette alminnelige forskrifter om bygningsvesenetå fastsette forskrifter om skyteforbud og skyteforbudssoner og å oppheve gjeldende forskrift om dette.
+Delegering av Kongens myndighet etter [Svalbardloven § 4](lov/1925-07-17-11/§4) til Justis- og beredskapsdepartementet til
+
+1. å fastsette alminnelige forskrifter om bygningsvesenet
+2. å fastsette forskrifter om skyteforbud og skyteforbudssoner og å oppheve gjeldende forskrift om dette.
 
 Delegeringen erstatter delegering 14. desember 2001 nr. 1389 om delegering av myndighet til Justis- og politidepartementet etter lov 17. august 1925 nr. 11 om Svalbard1 § 4.
 

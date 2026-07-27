@@ -24,21 +24,50 @@ eu_basis: []
 
 ## § 1. Krav til søknad om godkjenning
 
-Klageorganets søknad om godkjenning i henhold til loven [§ 3](forskrift/2016-06-20-733/§3), skal inneholde følgende opplysninger:klageorganets navn, kontaktinformasjon og nettstedsadresse,organisering og finansiering, inkludert informasjon om hvem som er ansvarlig for klagebehandlingen, deres godtgjørelse, ansettelses- eller oppnevnelsesperioden, og hvem de er ansatt eller oppnevnt av,saksbehandlingsregler,forventet gjennomsnittlig saksbehandlingstid,hvilke språk klagen og saksdokumentene kan sendes på og hvilket språk som benyttes under klagebehandlingen,en begrunnet uttalelse om klageorganet oppfyller kravene i loven,klageorganets vedtekter, jf. [§ 2](forskrift/2016-06-20-733/§2).
+Klageorganets søknad om godkjenning i henhold til loven [§ 3](forskrift/2016-06-20-733/§3), skal inneholde følgende opplysninger:
+
+1. klageorganets navn, kontaktinformasjon og nettstedsadresse,
+2. organisering og finansiering, inkludert informasjon om hvem som er ansvarlig for klagebehandlingen, deres godtgjørelse, ansettelses- eller oppnevnelsesperioden, og hvem de er ansatt eller oppnevnt av,
+3. saksbehandlingsregler,
+4. forventet gjennomsnittlig saksbehandlingstid,
+5. hvilke språk klagen og saksdokumentene kan sendes på og hvilket språk som benyttes under klagebehandlingen,
+6. en begrunnet uttalelse om klageorganet oppfyller kravene i loven,
+7. klageorganets vedtekter, jf. [§ 2](forskrift/2016-06-20-733/§2).
 
 Søknaden sendes elektronisk eller på papir til departementet.
 
 ## § 2. Klageorganets vedtekter
 
-Vedtektene skal som et minimum inneholde bestemmelser om:klageorganets saksområde, jf. loven [§ 6](forskrift/2016-06-20-733/§6) første ledd,hvem som har klageadgang, jf. loven [§ 6](forskrift/2016-06-20-733/§6) femte ledd.
+Vedtektene skal som et minimum inneholde bestemmelser om:
 
-Der klageorganet har vedtatt regler om dette, skal vedtektene også inneholde bestemmelser om:nedre og/eller øvre beløpsgrenser som vilkår for å ta en sak til behandling, jf. loven [§ 6](forskrift/2016-06-20-733/§6) annet ledd,frist for å inngi klage til klageorganet, jf. loven [§ 7](forskrift/2016-06-20-733/§7) første ledd,saksbehandlingsgebyr, jf. loven [§ 7](forskrift/2016-06-20-733/§7) annet ledd,avvisningsgrunner klageorganet anvender, jf. loven § 14,delegering av avgjørelsesmyndighet, jf. loven § 22.
+1. klageorganets saksområde, jf. loven [§ 6](forskrift/2016-06-20-733/§6) første ledd,
+2. hvem som har klageadgang, jf. loven [§ 6](forskrift/2016-06-20-733/§6) femte ledd.
+
+Der klageorganet har vedtatt regler om dette, skal vedtektene også inneholde bestemmelser om:
+
+1. nedre og/eller øvre beløpsgrenser som vilkår for å ta en sak til behandling, jf. loven [§ 6](forskrift/2016-06-20-733/§6) annet ledd,
+2. frist for å inngi klage til klageorganet, jf. loven [§ 7](forskrift/2016-06-20-733/§7) første ledd,
+3. saksbehandlingsgebyr, jf. loven [§ 7](forskrift/2016-06-20-733/§7) annet ledd,
+4. avvisningsgrunner klageorganet anvender, jf. loven § 14,
+5. delegering av avgjørelsesmyndighet, jf. loven § 22.
 
 > Endret ved [forskrift 22 feb 2017 nr. 212](forskrift/2017-02-22-212) (i kraft 1 mars 2017).
 
 ## § 3. Årsrapport og rapporteringsplikt
 
-Klageorganet skal utarbeide årlige rapporter som inneholder opplysninger om:antall mottatte klager og hva klagene gjelder,eventuelle systematiske eller vesentlige problemer som forekommer ofte og fører til tvister mellom forbrukere og næringsdrivende. Opplysningene kan følges av anbefalinger om hvordan slike problemer kan unngås eller løses i framtiden,antall avviste klager, og hvordan de avviste sakene prosentvis fordeler seg på de ulike avvisningsgrunnene, jf. [§ 2](forskrift/2016-06-20-733/§2) annet ledd bokstav d,prosentandel av klagebehandlingene som er foreslått eller pålagt til fordel for henholdsvis forbruker og næringsdrivende, og prosentandel av klagebehandlingene som har endt med minnelig løsning,prosentandelen av klagebehandlingene som ble avbrutt og årsakene til dette, hvis slik informasjon foreligger,gjennomsnittlig saksbehandlingstid,antall saker som behandles innen lovens saksbehandlingsfrist på 90 dager, og antall saker som har fått forlenget saksbehandlingsfrist, jf. loven § 16,i hvilket omfang resultatene av klagebehandlinger er blitt etterlevd, hvis slik informasjon foreligger,klageorganets eventuelle deltagelse i nettverk av klageorganer som skal gjøre det enklere å løse tverrnasjonale tvister,klageorganets eventuelle opplærings- og kompetansetiltak,en evaluering av klageorganets effektivitet, samt forslag til forbedringstiltak.
+Klageorganet skal utarbeide årlige rapporter som inneholder opplysninger om:
+
+1. antall mottatte klager og hva klagene gjelder,
+2. eventuelle systematiske eller vesentlige problemer som forekommer ofte og fører til tvister mellom forbrukere og næringsdrivende. Opplysningene kan følges av anbefalinger om hvordan slike problemer kan unngås eller løses i framtiden,
+3. antall avviste klager, og hvordan de avviste sakene prosentvis fordeler seg på de ulike avvisningsgrunnene, jf. [§ 2](forskrift/2016-06-20-733/§2) annet ledd bokstav d,
+4. prosentandel av klagebehandlingene som er foreslått eller pålagt til fordel for henholdsvis forbruker og næringsdrivende, og prosentandel av klagebehandlingene som har endt med minnelig løsning,
+5. prosentandelen av klagebehandlingene som ble avbrutt og årsakene til dette, hvis slik informasjon foreligger,
+6. gjennomsnittlig saksbehandlingstid,
+7. antall saker som behandles innen lovens saksbehandlingsfrist på 90 dager, og antall saker som har fått forlenget saksbehandlingsfrist, jf. loven § 16,
+8. i hvilket omfang resultatene av klagebehandlinger er blitt etterlevd, hvis slik informasjon foreligger,
+9. klageorganets eventuelle deltagelse i nettverk av klageorganer som skal gjøre det enklere å løse tverrnasjonale tvister,
+10. klageorganets eventuelle opplærings- og kompetansetiltak,
+11. en evaluering av klageorganets effektivitet, samt forslag til forbedringstiltak.
 
 Årsrapporten skal sendes til departementet hvert år innen 1. mars.
 
@@ -46,7 +75,26 @@ Klageorganet skal utarbeide årlige rapporter som inneholder opplysninger om:ant
 
 ## § 4. Informasjon på klageorganets nettside mv.
 
-Klageorganet skal ha tydelige og lett forståelige opplysninger på sine nettsider og etter anmodning på et varig medium, om:klageorganets kontaktopplysninger, herunder post- og e-postadresse,hvilke fysiske personer som har ansvar for klagebehandlingen (ledere, nemndsmedlemmer, ansatte i sekretariatet, meklere, og andre som behandler klagene), og på hvilken måte de er oppnevnt, og for hvor lang tid,sakkunnskap, upartiskhet og uavhengighet hos de fysiske personene med ansvar for klagebehandlingen, og om disse er ansatt av eller mottar vederlag utelukkende fra den næringsdrivende,klageorganets eventuelle deltagelse i nettverk av klageorganer som skal gjøre det enklere å løse tverrnasjonale tvister,hvilke type saker klageorganet har kompetanse til å behandle, herunder nedre og/eller øvre beløpsgrense som vilkår for å ta en klage til behandling, jf. [§ 2](forskrift/2016-06-20-733/§2) annet ledd bokstav a,klageorganets saksbehandlingsregler og dets adgang til å avvise en sak,språkkrav til klagen og hvilke språk som benyttes under klagebehandlingen,hvilke typer regler klageorganet kan bruke i klagebehandlingen (f.eks. lovbestemmelser, rimelighetsvurderinger og atferdsregler),eventuelle forhåndskrav som partene må oppfylle før klagen behandles, f.eks. ha prøvd å løse saken med motparten,hvorvidt partene kan trekke seg fra klagebehandlingen,eventuelle kostnader partene må dekke, herunder reglene for fordeling av kostnader ved endt klagebehandling,gjennomsnittlig klagebehandlingstid,rettsvirkningene av resultatet av klagebehandlingen, herunder eventuelt sanksjonene ved manglende etterlevelse av en bindende beslutning,avgjørelsens tvangskraft, dersom det er relevant,klageorganets årsrapport, jf. [§ 3](forskrift/2016-06-20-733/§3),klageorganets vedtekter, jf. [§ 2](forskrift/2016-06-20-733/§2),oversikt over klageorganets praksis og sentrale avgjørelser,EU-kommisjonens liste over klageorganer. Listen skal også gjøres tilgjengelig på varig medium i klageorganets lokaler, dersom dette er praktisk mulig.
+Klageorganet skal ha tydelige og lett forståelige opplysninger på sine nettsider og etter anmodning på et varig medium, om:
+
+1. klageorganets kontaktopplysninger, herunder post- og e-postadresse,
+2. hvilke fysiske personer som har ansvar for klagebehandlingen (ledere, nemndsmedlemmer, ansatte i sekretariatet, meklere, og andre som behandler klagene), og på hvilken måte de er oppnevnt, og for hvor lang tid,
+3. sakkunnskap, upartiskhet og uavhengighet hos de fysiske personene med ansvar for klagebehandlingen, og om disse er ansatt av eller mottar vederlag utelukkende fra den næringsdrivende,
+4. klageorganets eventuelle deltagelse i nettverk av klageorganer som skal gjøre det enklere å løse tverrnasjonale tvister,
+5. hvilke type saker klageorganet har kompetanse til å behandle, herunder nedre og/eller øvre beløpsgrense som vilkår for å ta en klage til behandling, jf. [§ 2](forskrift/2016-06-20-733/§2) annet ledd bokstav a,
+6. klageorganets saksbehandlingsregler og dets adgang til å avvise en sak,
+7. språkkrav til klagen og hvilke språk som benyttes under klagebehandlingen,
+8. hvilke typer regler klageorganet kan bruke i klagebehandlingen (f.eks. lovbestemmelser, rimelighetsvurderinger og atferdsregler),
+9. eventuelle forhåndskrav som partene må oppfylle før klagen behandles, f.eks. ha prøvd å løse saken med motparten,
+10. hvorvidt partene kan trekke seg fra klagebehandlingen,
+11. eventuelle kostnader partene må dekke, herunder reglene for fordeling av kostnader ved endt klagebehandling,
+12. gjennomsnittlig klagebehandlingstid,
+13. rettsvirkningene av resultatet av klagebehandlingen, herunder eventuelt sanksjonene ved manglende etterlevelse av en bindende beslutning,
+14. avgjørelsens tvangskraft, dersom det er relevant,
+15. klageorganets årsrapport, jf. [§ 3](forskrift/2016-06-20-733/§3),
+16. klageorganets vedtekter, jf. [§ 2](forskrift/2016-06-20-733/§2),
+17. oversikt over klageorganets praksis og sentrale avgjørelser,
+18. EU-kommisjonens liste over klageorganer. Listen skal også gjøres tilgjengelig på varig medium i klageorganets lokaler, dersom dette er praktisk mulig.
 
 ## § 5. Krav til kompetanse mv.
 

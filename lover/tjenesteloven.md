@@ -15,7 +15,7 @@ xml_hash: "07b8ddb60a5808b967ac92e27978bff4b2bc5eba00b018fbc7e63b750b0dcc7f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32006L0123"
@@ -44,7 +44,21 @@ Loven gjelder ikke for Svalbard.
 
 ### § 3. Avgrensninger i lovens saklige virkeområde
 
-Loven gjelder ikke forarbeidsretten, herunder retten til å forhandle og inngå tariffavtaler, og retten til arbeidskamputleie av arbeidskraft fra bemanningsforetaktrygdelovgivningensosialtjenester vedrørende boliger, barneomsorg og støtte til trengende familier og personer gitt av eller på oppdrag av det offentlige eller av frivillige organisasjonerhelsetjenesterfinansielle tjenesterelektroniske kommunikasjonstjenester og kommunikasjonsnettverk og tilknyttede anlegg og tjenester, på områder fastsatt i forskrift i medhold av [§ 27](lov/2009-06-19-103/§27)tiltak for å beskytte eller fremme kulturelt eller språklig mangfold, eller mangfold i mediaaudiovisuelle tjenester og radiokringkastingtransporttjenester, herunder havnetjenester, som går inn under EØS-avtalen del III kapittel 6pengespillvirksomhetprivate vakttjenesterposttjenester
+Loven gjelder ikke for
+
+1. arbeidsretten, herunder retten til å forhandle og inngå tariffavtaler, og retten til arbeidskamp
+2. utleie av arbeidskraft fra bemanningsforetak
+3. trygdelovgivningen
+4. sosialtjenester vedrørende boliger, barneomsorg og støtte til trengende familier og personer gitt av eller på oppdrag av det offentlige eller av frivillige organisasjoner
+5. helsetjenester
+6. finansielle tjenester
+7. elektroniske kommunikasjonstjenester og kommunikasjonsnettverk og tilknyttede anlegg og tjenester, på områder fastsatt i forskrift i medhold av [§ 27](lov/2009-06-19-103/§27)
+8. tiltak for å beskytte eller fremme kulturelt eller språklig mangfold, eller mangfold i media
+9. audiovisuelle tjenester og radiokringkasting
+10. transporttjenester, herunder havnetjenester, som går inn under EØS-avtalen del III kapittel 6
+11. pengespillvirksomhet
+12. private vakttjenester
+13. posttjenester
 
 ### § 4. Forholdet til annen lovgivning
 
@@ -54,7 +68,19 @@ Loven griper ikke inn i internasjonale-privatrettslige regler.
 
 ### § 5. Definisjoner
 
-I denne loven betyrtjeneste: økonomisk virksomhet av foretak eller selvstendig næringsdrivende, normalt mot betaling, jf. EØS-avtalen artikkel 37tjenesteyter: enhver statsborger i en EØS-stat og ethvert foretak etablert i en EØS-stat, som tilbyr eller yter en tjeneste, jf. EØS-avtalen artikkel 34tjenestemottaker: enhver statsborger i en EØS-stat, enhver person som har rettigheter etter EØS-avtalen og ethvert foretak etablert i en EØS-stat, som mottar eller ønsker å motta en tjeneste, jf. EØS-avtalen artikkel 34etableringsstat: den EØS-stat der tjenesteyteren er etablertetablering: utøvelse av økonomisk virksomhet av en tjenesteyter for et ubestemt tidsrom, ved bruk av en fast infrastruktur som tjenesten ytes fra, jf. EØS-avtalen artikkel 31tillatelsesordning: enhver fremgangsmåte som krever at tjenesteyteren eller tjenestemottakeren skal henvende seg til ansvarlig myndighet for å få en uttrykkelig eller stilltiende avgjørelse om adgang til eller utøvelse av tjenestevirksomhetkrav: plikter, forbud, vilkår eller begrensninger som følger av lov eller forskrift, rettspraksis eller forvaltningspraksis, eller som følger av bransjeorganers regler eller kollektive regler som yrkessammenslutninger eller andre yrkesorganisasjoner har vedtatt innenfor rammen av sin rettslige uavhengighet. Regler fastsatt i tariffavtaler fremforhandlet av partene i arbeidslivet skal ikke anses som kravtvingende allmenne hensyn: hensyn anerkjent som dette i rettspraksis fra EF- og EFTA-domstolen, herunder hensynet til offentlig orden og sikkerhet, folkehelsen og miljøvernansvarlig myndighet: et organ som har til oppgave å regulere eller føre tilsyn med tjenestevirksomhet, enten det er et forvaltningsorgan, en domstol eller et bransjeorgan, eller en yrkessammenslutning eller annen yrkesorganisasjon som innenfor rammen av sin rettslige uavhengighet på en kollektiv måte regulerer adgang til eller utøvelse av tjenestevirksomhetEØS-stat: enhver EFTA- eller EU-stat som er part i EØS-avtalenlovregulert yrke: yrkesvirksomhet fastsatt i forskrift i medhold av [§ 27](lov/2009-06-19-103/§27), som krever bestemte kvalifikasjoner
+I denne loven betyr
+
+1. tjeneste: økonomisk virksomhet av foretak eller selvstendig næringsdrivende, normalt mot betaling, jf. EØS-avtalen artikkel 37
+2. tjenesteyter: enhver statsborger i en EØS-stat og ethvert foretak etablert i en EØS-stat, som tilbyr eller yter en tjeneste, jf. EØS-avtalen artikkel 34
+3. tjenestemottaker: enhver statsborger i en EØS-stat, enhver person som har rettigheter etter EØS-avtalen og ethvert foretak etablert i en EØS-stat, som mottar eller ønsker å motta en tjeneste, jf. EØS-avtalen artikkel 34
+4. etableringsstat: den EØS-stat der tjenesteyteren er etablert
+5. etablering: utøvelse av økonomisk virksomhet av en tjenesteyter for et ubestemt tidsrom, ved bruk av en fast infrastruktur som tjenesten ytes fra, jf. EØS-avtalen artikkel 31
+6. tillatelsesordning: enhver fremgangsmåte som krever at tjenesteyteren eller tjenestemottakeren skal henvende seg til ansvarlig myndighet for å få en uttrykkelig eller stilltiende avgjørelse om adgang til eller utøvelse av tjenestevirksomhet
+7. krav: plikter, forbud, vilkår eller begrensninger som følger av lov eller forskrift, rettspraksis eller forvaltningspraksis, eller som følger av bransjeorganers regler eller kollektive regler som yrkessammenslutninger eller andre yrkesorganisasjoner har vedtatt innenfor rammen av sin rettslige uavhengighet. Regler fastsatt i tariffavtaler fremforhandlet av partene i arbeidslivet skal ikke anses som krav
+8. tvingende allmenne hensyn: hensyn anerkjent som dette i rettspraksis fra EF- og EFTA-domstolen, herunder hensynet til offentlig orden og sikkerhet, folkehelsen og miljøvern
+9. ansvarlig myndighet: et organ som har til oppgave å regulere eller føre tilsyn med tjenestevirksomhet, enten det er et forvaltningsorgan, en domstol eller et bransjeorgan, eller en yrkessammenslutning eller annen yrkesorganisasjon som innenfor rammen av sin rettslige uavhengighet på en kollektiv måte regulerer adgang til eller utøvelse av tjenestevirksomhet
+10. EØS-stat: enhver EFTA- eller EU-stat som er part i EØS-avtalen
+11. lovregulert yrke: yrkesvirksomhet fastsatt i forskrift i medhold av [§ 27](lov/2009-06-19-103/§27), som krever bestemte kvalifikasjoner
 
 ## Kapittel 2. Kontaktpunkt og dokumentasjon
 
@@ -68,7 +94,14 @@ Kontaktpunktet skal viderebringe en henvendelse som det mottar, til ansvarlig my
 
 ### § 7. Rett til informasjon gjennom kontaktpunktet
 
-En tjenesteyter eller tjenestemottaker kan kreve oppdaterte og elektronisk tilgjengelige opplysninger gjennom kontaktpunktet omkrav som gjelder for tjenesteytere etablert i riket, særlig krav som knytter seg til fremgangsmåter for å starte og utøve tjenestevirksomhet, og hvordan de til vanlig blir forstått og anvendthvordan ansvarlig myndighet kan kontaktes direktevilkår og fremgangsmåte for å få tilgang til offentlige registre og databaser om tjenesteytere og tjenesterklageadgang ved tvist mellom tjenesteyteren eller tjenestemottakeren og ansvarlig myndighet, mellom tjenesteytere eller mellom en tjenesteyter og en tjenestemottakersammenslutninger og organisasjoner der en tjenesteyter eller tjenestemottaker kan få praktisk hjelpbetydningen av og kriteriene for å anvende merker og andre kvalitetsangivelser knyttet til tjenester
+En tjenesteyter eller tjenestemottaker kan kreve oppdaterte og elektronisk tilgjengelige opplysninger gjennom kontaktpunktet om
+
+1. krav som gjelder for tjenesteytere etablert i riket, særlig krav som knytter seg til fremgangsmåter for å starte og utøve tjenestevirksomhet, og hvordan de til vanlig blir forstått og anvendt
+2. hvordan ansvarlig myndighet kan kontaktes direkte
+3. vilkår og fremgangsmåte for å få tilgang til offentlige registre og databaser om tjenesteytere og tjenester
+4. klageadgang ved tvist mellom tjenesteyteren eller tjenestemottakeren og ansvarlig myndighet, mellom tjenesteytere eller mellom en tjenesteyter og en tjenestemottaker
+5. sammenslutninger og organisasjoner der en tjenesteyter eller tjenestemottaker kan få praktisk hjelp
+6. betydningen av og kriteriene for å anvende merker og andre kvalitetsangivelser knyttet til tjenester
 
 Tjenestemottaker skal ved henvendelse til kontaktpunktet også få generelle opplysninger om krav for å starte og utøve tjenestevirksomhet i andre EØS-stater, herunder regler om forbrukervern.
 
@@ -84,13 +117,25 @@ Ansvarlig myndighet kan kreve at et dokument utstedt i en annen EØS-stat blir f
 
 Retten til å starte og utøve tjenestevirksomhet kan ikke gjøres betinget av krav som direkte eller indirekte innebærer forskjellsbehandling på grunnlag av statsborgerskap, bosted eller etableringsstat.
 
-Følgende krav kan heller ikke gjøres gjeldende:forbud mot etablering i flere EØS-stater eller forbud mot å stå i registre eller være tilknyttet bransjeorganer eller sammenslutninger i flere EØS-staterkrav som begrenser retten til å velge om etablering skal skje som hovedforretningssted eller som filial, agentur eller datterselskapkrav om at norske tjenesteytere skal ha tilsvarende adgang til å starte og utøve tjenestevirksomhet i EØS-staten der tjenesteyteren allerede er etablertkrav om en konkret vurdering av potensielle eller faktiske økonomiske virkninger av tjenesten, om det er behov for eller etterspørsel etter tjenesten i markedet, eller om virksomheten er egnet i lys av økonomiske mål fastsatt av ansvarlig myndighetkrav om medvirkning fra konkurrerende næringsdrivende i behandling av søknad om tillatelse eller andre enkeltvedtak knyttet til retten til å starte og utøve tjenestevirksomhetkrav om at finansiell sikkerhetsstillelse eller forsikringstegning skal skje hos foretak som er etablert i riketkrav om å være registrert i riket på forhånd eller å ha utøvd tjenestevirksomheten her tidligere
+Følgende krav kan heller ikke gjøres gjeldende:
+
+1. forbud mot etablering i flere EØS-stater eller forbud mot å stå i registre eller være tilknyttet bransjeorganer eller sammenslutninger i flere EØS-stater
+2. krav som begrenser retten til å velge om etablering skal skje som hovedforretningssted eller som filial, agentur eller datterselskap
+3. krav om at norske tjenesteytere skal ha tilsvarende adgang til å starte og utøve tjenestevirksomhet i EØS-staten der tjenesteyteren allerede er etablert
+4. krav om en konkret vurdering av potensielle eller faktiske økonomiske virkninger av tjenesten, om det er behov for eller etterspørsel etter tjenesten i markedet, eller om virksomheten er egnet i lys av økonomiske mål fastsatt av ansvarlig myndighet
+5. krav om medvirkning fra konkurrerende næringsdrivende i behandling av søknad om tillatelse eller andre enkeltvedtak knyttet til retten til å starte og utøve tjenestevirksomhet
+6. krav om at finansiell sikkerhetsstillelse eller forsikringstegning skal skje hos foretak som er etablert i riket
+7. krav om å være registrert i riket på forhånd eller å ha utøvd tjenestevirksomheten her tidligere
 
 Annet ledd bokstav e gjelder ikke hvis ansvarlig myndighet er et bransjeorgan, en yrkessammenslutning eller annen yrkesorganisasjon.
 
 ### § 10. Tillatelse for tjenestevirksomhet
 
-Krav om tillatelse til å starte og utøve tjenestevirksomhet eller kriteriene for å gi tillatelse gjelder bare hvis tillatelsesordningen eller kriterietverken direkte eller indirekte innebærer forskjellsbehandling på grunnlag av statsborgerskap, bosted eller etableringsstat,er begrunnet ut fra tvingende allmenne hensyn, oger egnet og nødvendig for å oppnå formålet med tillatelsesordningen eller kriteriet.
+Krav om tillatelse til å starte og utøve tjenestevirksomhet eller kriteriene for å gi tillatelse gjelder bare hvis tillatelsesordningen eller kriteriet
+
+1. verken direkte eller indirekte innebærer forskjellsbehandling på grunnlag av statsborgerskap, bosted eller etableringsstat,
+2. er begrunnet ut fra tvingende allmenne hensyn, og
+3. er egnet og nødvendig for å oppnå formålet med tillatelsesordningen eller kriteriet.
 
 En tjenesteyter som allerede er etablert i en EØS-stat, kan ikke i forbindelse med søknad om tillatelse pålegges krav eller kontroll som etter sitt formål i hovedsak svarer til det som tjenesteyteren allerede har oppfylt i en EØS-stat.
 
@@ -116,7 +161,11 @@ Fristforlengelse i medhold av [§ 11](lov/2009-06-19-103/§11) første ledd anne
 
 ### § 13. Varigheten av tillatelse
 
-En tillatelse kan bare tidsbegrenses nårdet er begrunnet ut fra tvingende allmenne hensyn,antall tillatelser er begrenset ut fra tvingende allmenne hensyn, ogtillatelsen ved utløpet av tidsbegrensningen fornyes uten videre eller dersom vilkårene for tillatelse fortsatt er oppfylt.
+En tillatelse kan bare tidsbegrenses når
+
+1. det er begrunnet ut fra tvingende allmenne hensyn,
+2. antall tillatelser er begrenset ut fra tvingende allmenne hensyn, og
+3. tillatelsen ved utløpet av tidsbegrensningen fornyes uten videre eller dersom vilkårene for tillatelse fortsatt er oppfylt.
 
 Paragrafen er ikke til hinder for vilkår om at tillatelsen faller bort om ikke virksomheten starter innen en bestemt frist.
 
@@ -128,7 +177,10 @@ Er antall tillatelser begrenset på grunn av knapphet på naturressurser eller t
 
 ### § 15. Innehaverens plikt til å gi informasjon
 
-Innehaveren av en tillatelse skal gi ansvarlig myndighet opplysning omopprettelse av datterselskaper som skal benytte tillatelsenendringer som gjør at vilkårene for tillatelsen ikke lenger er til stede
+Innehaveren av en tillatelse skal gi ansvarlig myndighet opplysning om
+
+1. opprettelse av datterselskaper som skal benytte tillatelsen
+2. endringer som gjør at vilkårene for tillatelsen ikke lenger er til stede
 
 ## Kapittel 4. Midlertidig grenseoverskridende tjenesteyting
 
@@ -136,11 +188,23 @@ Innehaveren av en tillatelse skal gi ansvarlig myndighet opplysning omopprettels
 
 En tjenesteyter etablert i en annen EØS-stat har rett til å yte tjenester her i riket.
 
-Krav som gjøres gjeldende overfor tjenesteyter måverken direkte eller indirekte forskjellsbehandle på grunnlag av statsborgerskap, bosted eller etableringsstat,være begrunnet i hensyn til offentlig orden og sikkerhet, folkehelsen eller miljøvern, ogvære egnet og nødvendig for å oppnå formålet med kravet.
+Krav som gjøres gjeldende overfor tjenesteyter må
+
+1. verken direkte eller indirekte forskjellsbehandle på grunnlag av statsborgerskap, bosted eller etableringsstat,
+2. være begrunnet i hensyn til offentlig orden og sikkerhet, folkehelsen eller miljøvern, og
+3. være egnet og nødvendig for å oppnå formålet med kravet.
 
 ### § 17. Unntak fra hovedregelen
 
-[§ 16](lov/2009-06-19-103/§16) gjelder ikke fortjenester av allmenn økonomisk interessegrenseoverskridende tjenesteyting for lovregulerte yrker, som nevnt i forskrift i medhold av [§ 27](lov/2009-06-19-103/§27)krav om at en tjeneste bare kan ytes av tjenesteytere innenfor et bestemt yrkeinnkreving av gjeld gjennom domstolenekrav om visum, oppholdstillatelse eller meldeplikt for statsborgere fra andre stater enn EØS-stater, når dette er forenlig med Schengen-konvensjonenimmaterielle rettigheterregistrering av kjøretøyer leaset i en annen EØS-stat.
+[§ 16](lov/2009-06-19-103/§16) gjelder ikke for
+
+1. tjenester av allmenn økonomisk interesse
+2. grenseoverskridende tjenesteyting for lovregulerte yrker, som nevnt i forskrift i medhold av [§ 27](lov/2009-06-19-103/§27)
+3. krav om at en tjeneste bare kan ytes av tjenesteytere innenfor et bestemt yrke
+4. innkreving av gjeld gjennom domstolene
+5. krav om visum, oppholdstillatelse eller meldeplikt for statsborgere fra andre stater enn EØS-stater, når dette er forenlig med Schengen-konvensjonen
+6. immaterielle rettigheter
+7. registrering av kjøretøyer leaset i en annen EØS-stat.
 
 [§ 16](lov/2009-06-19-103/§16) gjelder heller ikke for bestemmelser i lov eller forskrift som gjennomfører forpliktelser etter EØS-avtalen som nevnt i forskrift i medhold av [§ 27](lov/2009-06-19-103/§27).
 
@@ -148,7 +212,10 @@ Krav som gjøres gjeldende overfor tjenesteyter måverken direkte eller indirekt
 
 [§ 16](lov/2009-06-19-103/§16) er ikke til hinder for at ansvarlig myndighet i særlige tilfeller treffer egnede og nødvendige tiltak overfor en tjenesteyter etablert i en annen EØS-stat, for å ivareta sikkerheten ved tjenesten.
 
-Tiltak i henhold til første ledd kan treffes kun dersom reglene for sikkerhetstiltaket ikke er harmonisert gjennom EØS-avtalen, ogansvarlig myndighet har bedt etableringsstaten om å treffe tiltak, i samsvar med forskrift gitt i medhold av [§ 27](lov/2009-06-19-103/§27), ogetableringsstaten ikke har truffet slike tiltak eller har truffet tiltak som ikke gir tilstrekkelig vern.
+Tiltak i henhold til første ledd kan treffes kun dersom reglene for sikkerhetstiltaket ikke er harmonisert gjennom EØS-avtalen, og
+
+1. ansvarlig myndighet har bedt etableringsstaten om å treffe tiltak, i samsvar med forskrift gitt i medhold av [§ 27](lov/2009-06-19-103/§27), og
+2. etableringsstaten ikke har truffet slike tiltak eller har truffet tiltak som ikke gir tilstrekkelig vern.
 
 ### § 19. Rettigheter for tjenestemottakere
 
@@ -166,9 +233,25 @@ Forbrukertilsynet og Markedsrådet skal føre kontroll med at bestemmelsen overh
 
 ### § 20. Informasjon til tjenestemottakere
 
-Tjenesteyteren skal uten særskilt forespørsel opplyse tjenestemottaker omtjenesteyterens navn, foretaksform, adresse og andre opplysninger som gjør at tjenestemottakeren kan henvende seg raskt og direkte til tjenesteyterenregistrering i Foretaksregisteret eller annet offentlig register, med tilstrekkelige opplysninger til å identifisere tjenesteyterenansvarlig myndighet eller kontaktpunkt, dersom det kreves tillatelse for virksomhetenfor lovregulerte yrker, tjenesteyterens yrkestittel og hvilken EØS-stat tittelen er gitt i, samt ethvert bransjeorgan, enhver yrkesorganisasjon eller lignende hvor tjenesteyteren er registrerttjenesteyterens alminnelige avtalevilkår, herunder avtalevilkår om verneting og hvilken stats lov som skal gjelde for avtalengarantier som ikke følger av ufravikelig lov eller forskriftprisen for tjenesten, hvis den er fastsatt på forhånd i en prisliste eller på annen måtehovedinnholdet av tjenesten, hvis det ikke fremgår av sammenhengenobligatorisk forsikring eller annen sikkerhet som dekker tjenesteyterens yrkesansvar, herunder stedlig dekningsområde og kontaktinformasjon til forsikringsgiver eller annen yter av sikkerheteventuell adgang til utenrettslig tvisteløsning som tjenesteyter er omfattet av, og hvor tjenestemottaker kan få informasjon om ordningen og vilkårene for å benytte den
+Tjenesteyteren skal uten særskilt forespørsel opplyse tjenestemottaker om
 
-Tjenesteyteren skal på forespørsel fra tjenestemottakeren opplyse omprisen for tjenesten dersom den ikke er fastsatt på forhånd eller, om det ikke er mulig å gi nøyaktig pris, et prisoverslag eller oversikt over hvordan prisen beregnesfor lovregulerte yrker, en henvisning til profesjonsregler i tjenesteyterens etableringsstat og hvordan reglene kan innhentesnår det er av betydning for den aktuelle tjenesten, virksomhet på flere fagområder eller samarbeid med andre tjenesteytere og om tiltak som er iverksatt for å unngå interessekonflikterbransjenormer og andre regler for god atferd som gjelder for tjenesteyterens virksomhet, hvor de finnes elektronisk og på hvilket språk
+1. tjenesteyterens navn, foretaksform, adresse og andre opplysninger som gjør at tjenestemottakeren kan henvende seg raskt og direkte til tjenesteyteren
+2. registrering i Foretaksregisteret eller annet offentlig register, med tilstrekkelige opplysninger til å identifisere tjenesteyteren
+3. ansvarlig myndighet eller kontaktpunkt, dersom det kreves tillatelse for virksomheten
+4. for lovregulerte yrker, tjenesteyterens yrkestittel og hvilken EØS-stat tittelen er gitt i, samt ethvert bransjeorgan, enhver yrkesorganisasjon eller lignende hvor tjenesteyteren er registrert
+5. tjenesteyterens alminnelige avtalevilkår, herunder avtalevilkår om verneting og hvilken stats lov som skal gjelde for avtalen
+6. garantier som ikke følger av ufravikelig lov eller forskrift
+7. prisen for tjenesten, hvis den er fastsatt på forhånd i en prisliste eller på annen måte
+8. hovedinnholdet av tjenesten, hvis det ikke fremgår av sammenhengen
+9. obligatorisk forsikring eller annen sikkerhet som dekker tjenesteyterens yrkesansvar, herunder stedlig dekningsområde og kontaktinformasjon til forsikringsgiver eller annen yter av sikkerhet
+10. eventuell adgang til utenrettslig tvisteløsning som tjenesteyter er omfattet av, og hvor tjenestemottaker kan få informasjon om ordningen og vilkårene for å benytte den
+
+Tjenesteyteren skal på forespørsel fra tjenestemottakeren opplyse om
+
+1. prisen for tjenesten dersom den ikke er fastsatt på forhånd eller, om det ikke er mulig å gi nøyaktig pris, et prisoverslag eller oversikt over hvordan prisen beregnes
+2. for lovregulerte yrker, en henvisning til profesjonsregler i tjenesteyterens etableringsstat og hvordan reglene kan innhentes
+3. når det er av betydning for den aktuelle tjenesten, virksomhet på flere fagområder eller samarbeid med andre tjenesteytere og om tiltak som er iverksatt for å unngå interessekonflikter
+4. bransjenormer og andre regler for god atferd som gjelder for tjenesteyterens virksomhet, hvor de finnes elektronisk og på hvilket språk
 
 Tjenesteyteren skal gi eller gjøre opplysningene etter paragrafen her tilgjengelige for tjenestemottakeren på en klar måte før avtale blir inngått. Opplysninger som nevnt i første ledd bokstav j og annet ledd bokstav c skal fremgå av alt informasjonsmateriale som beskriver tjenesten i detalj.
 
@@ -186,7 +269,10 @@ Tjenesteytere i lovregulerte yrker har rett til å drive markedsføring av sin v
 
 En tjenesteyter står fritt til å yte flere slags tjenester eller til å yte tjenester i samarbeid med andre tjenesteytere.
 
-Første ledd er ikke til hinder for å sette krav knyttet til virksomhet på flere områder tiltjenesteytere i lovregulerte yrker, så langt dette er berettiget for å sikre etterlevelse av yrkesetiske regler, og nødvendig for å sikre tjenesteyterens uavhengighet og upartiskhettjenesteytere innenfor sertifisering, akkreditering, utprøving og teknisk kontroll, så langt dette er berettiget for å sikre tjenesteyterens uavhengighet og upartiskhet
+Første ledd er ikke til hinder for å sette krav knyttet til virksomhet på flere områder til
+
+1. tjenesteytere i lovregulerte yrker, så langt dette er berettiget for å sikre etterlevelse av yrkesetiske regler, og nødvendig for å sikre tjenesteyterens uavhengighet og upartiskhet
+2. tjenesteytere innenfor sertifisering, akkreditering, utprøving og teknisk kontroll, så langt dette er berettiget for å sikre tjenesteyterens uavhengighet og upartiskhet
 
 ## Kapittel 6. Tilsyn og administrativt samarbeid
 
@@ -200,7 +286,11 @@ Loven begrenser ikke ansvarlig myndighets kompetanse til å føre tilsyn med tje
 
 Ansvarlig myndighet skal ved begrunnet forespørsel fra myndighet i annen EØS-stat yte bistand ved tilsyn med tjenesteytere. Bistanden skal gis uten ugrunnet opphold, innenfor rammen av norsk lov og i samsvar med forskrift gitt i medhold av [§ 27](lov/2009-06-19-103/§27).
 
-Bistand i henhold til første ledd omfatterå gi informasjon om og foreta inspeksjon og andre undersøkelser av tjenesteytere og tjenesteyting som er nødvendig for andre EØS-staters tilsynå føre tilsyn med og gi opplysninger om tjenesteytere etablert her i riket som midlertidig yter tjenester i annen EØS-statå gi opplysninger om endelige avgjørelser om sanksjoner og avgjørelser om konkurskarantene som er ilagt en tjenesteyter, som har direkte betydning for dennes faglige dyktighet eller pålitelighet
+Bistand i henhold til første ledd omfatter
+
+1. å gi informasjon om og foreta inspeksjon og andre undersøkelser av tjenesteytere og tjenesteyting som er nødvendig for andre EØS-staters tilsyn
+2. å føre tilsyn med og gi opplysninger om tjenesteytere etablert her i riket som midlertidig yter tjenester i annen EØS-stat
+3. å gi opplysninger om endelige avgjørelser om sanksjoner og avgjørelser om konkurskarantene som er ilagt en tjenesteyter, som har direkte betydning for dennes faglige dyktighet eller pålitelighet
 
 Ansvarlig myndighet kan ikke avstå fra å føre tilsyn med eller vedta sanksjoner mot en tjenesteyter etablert i riket, fordi tjenesten er utført eller har voldt skade i en annen EØS-stat.
 
@@ -212,7 +302,10 @@ Opplysninger som ansvarlig myndighet får oversendt etter første og femte ledd,
 
 ### § 26. Varslingsplikt for ansvarlig myndighet
 
-Ansvarlig myndighet skal straks varsle tilsvarende myndigheter i andre EØS-stater og EFTAs overvåkingsorgan i samsvar med forskrift gitt i medhold av [§ 27](lov/2009-06-19-103/§27), dersom den blir kjent med en fare for alvorlig skade på personers helse eller sikkerhet eller for miljøet, som voldesav en tjenesteyter som er etablert i riket og yter tjenester i andre EØS-stater, ellerved et alvorlig forhold av en tjenesteyter uavhengig av dennes tilknytning til riket.
+Ansvarlig myndighet skal straks varsle tilsvarende myndigheter i andre EØS-stater og EFTAs overvåkingsorgan i samsvar med forskrift gitt i medhold av [§ 27](lov/2009-06-19-103/§27), dersom den blir kjent med en fare for alvorlig skade på personers helse eller sikkerhet eller for miljøet, som voldes
+
+1. av en tjenesteyter som er etablert i riket og yter tjenester i andre EØS-stater, eller
+2. ved et alvorlig forhold av en tjenesteyter uavhengig av dennes tilknytning til riket.
 
 ## Kapittel 7. Avsluttende bestemmelser
 

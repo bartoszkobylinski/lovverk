@@ -15,7 +15,7 @@ xml_hash: "04781107660c86f0b43107666644026859741634c55e804025d82ca4aa8b5671"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32003L0087"
@@ -39,7 +39,12 @@ Loven gjelder med de begrensninger som måtte følge av folkerettslig sedvane el
 
 Loven gjelder i riket, unntatt på Svalbard, og på Norges kontinentalsokkel.
 
-Loven gjelder også for følgende aktiviteter:luftfartsaktiviteter innenfor og til og fra EØS-områdetøvrige internasjonale luftfartsaktivitetermaritim transportaktivitet innenfor og til og fra EØS-områdettransport av klimagasser innenfor og til og fra EØS-området
+Loven gjelder også for følgende aktiviteter:
+
+1. luftfartsaktiviteter innenfor og til og fra EØS-området
+2. øvrige internasjonale luftfartsaktiviteter
+3. maritim transportaktivitet innenfor og til og fra EØS-området
+4. transport av klimagasser innenfor og til og fra EØS-området
 
 Kongen kan i forskrift bestemme at loven skal gjelde på Svalbard, samt gi nærmere bestemmelser om lovens stedlige virkeområde ellers.
 
@@ -61,11 +66,18 @@ Med operatør menes anleggsoperatør, luftfartøysoperatør, skipsoperatør og b
 
 ### § 3. (aktiviteter og utslipp som omfattes av EUs klimakvotesystem)
 
-Loven gjelder følgende aktiviteter som er omfattet av EUs klimakvotesystem:aktiviteter i anlegg, luftfart og maritim transporttilgjengeliggjøring av brensel for forbruk.
+Loven gjelder følgende aktiviteter som er omfattet av EUs klimakvotesystem:
+
+1. aktiviteter i anlegg, luftfart og maritim transport
+2. tilgjengeliggjøring av brensel for forbruk.
 
 Kongen kan gi forskrift om hvilke aktiviteter, aktører og utslipp av gasser og partikler som kan påvirke klimaet, som helt eller delvis er omfattet av loven.
 
-Kongen kan gi forskrift omat utslipp av klimagasser fra produksjonsenheter med kapasitet under en fastsatt grense skal være unntatt fra lovenat flere produksjonsenheter som ligger på samme sted og står i nær driftsmessig sammenheng, eller som ikke ligger på samme sted, men som står i nær driftsmessig og fysisk sammenheng, skal vurderes under ett ved beregningen av kapasitetenat visse transportaktiviteter, som transportaktiviteter som ikke overstiger visse aktivitets- eller utslippsgrenser, skal være unntatt fra loven.
+Kongen kan gi forskrift om
+
+1. at utslipp av klimagasser fra produksjonsenheter med kapasitet under en fastsatt grense skal være unntatt fra loven
+2. at flere produksjonsenheter som ligger på samme sted og står i nær driftsmessig sammenheng, eller som ikke ligger på samme sted, men som står i nær driftsmessig og fysisk sammenheng, skal vurderes under ett ved beregningen av kapasiteten
+3. at visse transportaktiviteter, som transportaktiviteter som ikke overstiger visse aktivitets- eller utslippsgrenser, skal være unntatt fra loven.
 
 Kongen kan gi forskrift om hvilke luftfartøysoperatører, skipsoperatører og anleggsoperatører som skal forholde seg til norske administrerende myndigheter.
 
@@ -279,7 +291,11 @@ Informasjon om hvem som er ilagt overtredelsesgebyr og omfanget av overtredelsen
 
 ### § 20. (tvangstiltak overfor maritim transportaktivitet)
 
-Når en skipsoperatør i de foregående to rapporteringsårene ikke har overholdt plikten til å overføre kvoter til oppgjør etter [§ 12](lov/2004-12-17-99/§12) eller til å rapportere etter [§ 14](lov/2004-12-17-99/§14), kan klimakvotemyndigheten ved enkeltvedtakbortvise utenlandske skip under skipsoperatørens ansvar fra norsk havntilbakeholde norske skip under skiperoperatørens ansvar i norsk havnnekte utenlandske skip under skipsoperatørens ansvar adgang til norsk havn.
+Når en skipsoperatør i de foregående to rapporteringsårene ikke har overholdt plikten til å overføre kvoter til oppgjør etter [§ 12](lov/2004-12-17-99/§12) eller til å rapportere etter [§ 14](lov/2004-12-17-99/§14), kan klimakvotemyndigheten ved enkeltvedtak
+
+1. bortvise utenlandske skip under skipsoperatørens ansvar fra norsk havn
+2. tilbakeholde norske skip under skiperoperatørens ansvar i norsk havn
+3. nekte utenlandske skip under skipsoperatørens ansvar adgang til norsk havn.
 
 Vedtak etter første ledd gjelder fram til skipsoperatøren har overholdt sine forpliktelser etter [§§ 12](lov/2004-12-17-99/§12) og [14](lov/2004-12-17-99/§14).
 

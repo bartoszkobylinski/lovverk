@@ -15,7 +15,7 @@ xml_hash: "a5c3b56005afb09fcbbbb82549b6731b137c8bfe348a065c02a3cd8222fe0f65"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,17 @@ Også på dette området er myndighet til å følge opp kravene lagt til Sysselm
 
 ## Delegering til Longyearbyen lokalstyre etter [svalbardmiljøloven](lov/2001-06-15-79)
 
-Klima- og miljødirektoratet delegerer med dette følgende myndighet til Longyearbyen lokalstyre:Myndighet etter [§ 51 andre ledd](lov/2001-06-15-79/§51/ledd/2) til å fastsette forskrift om gebyr for behandling av private planforslag.På de saksområdene som er nevnt ovenfor i [pkt. 2.2](forskrift/2025-01-31-127/kap2.2) og [2.3](forskrift/2025-01-31-127/kap2.3) delegeres Longyearbyen lokalstyre myndighet til i det enkelte tilfelle å utøve myndighet etter følgende bestemmelser i [svalbardmiljøloven](lov/2001-06-15-79) innenfor Longyearbyen planområde:[§ 65 annet ledd](lov/2001-06-15-79/§65/ledd/2): pålegge tiltak ved fare for forurensning[§ 87](lov/2001-06-15-79/§87): føre tilsyn[§ 89](lov/2001-06-15-79/§89): innhente opplysninger[§ 90](lov/2001-06-15-79/§90): pålegge undersøkelser[§ 96 første ledd](lov/2001-06-15-79/§96/ledd/1): fastsette tvangsmulkt[§ 97](lov/2001-06-15-79/§97): foreta direkte gjennomføring.
+Klima- og miljødirektoratet delegerer med dette følgende myndighet til Longyearbyen lokalstyre:
+
+- Myndighet etter [§ 51 andre ledd](lov/2001-06-15-79/§51/ledd/2) til å fastsette forskrift om gebyr for behandling av private planforslag.
+- På de saksområdene som er nevnt ovenfor i [pkt. 2.2](forskrift/2025-01-31-127/kap2.2) og [2.3](forskrift/2025-01-31-127/kap2.3) delegeres Longyearbyen lokalstyre myndighet til i det enkelte tilfelle å utøve myndighet etter følgende bestemmelser i [svalbardmiljøloven](lov/2001-06-15-79) innenfor Longyearbyen planområde:
+
+  - [§ 65 annet ledd](lov/2001-06-15-79/§65/ledd/2): pålegge tiltak ved fare for forurensning
+  - [§ 87](lov/2001-06-15-79/§87): føre tilsyn
+  - [§ 89](lov/2001-06-15-79/§89): innhente opplysninger
+  - [§ 90](lov/2001-06-15-79/§90): pålegge undersøkelser
+  - [§ 96 første ledd](lov/2001-06-15-79/§96/ledd/1): fastsette tvangsmulkt
+  - [§ 97](lov/2001-06-15-79/§97): foreta direkte gjennomføring.
 
 Delegeringen trer i kraft 1. februar 2025.
 

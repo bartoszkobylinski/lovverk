@@ -30,5 +30,7 @@ eu_basis: []
 6. [...]
 7. [...]
 8. [...]
-9. Landbruksdepartementets navn endres til Landbruks- og matdepartementet, forkortet til LMD. Endringen iverksettes fra det tidspunkt Statsministerens kontor bestemmer.Delegering til Landbruks- og matdepartementet til å foreta de endringer i forskrifter, avtaler, instrukser og bestemmelser som nødvendig følger av navneendringen.
-10. Fiskeridepartementet endrer navn til Fiskeri- og kystdepartementet, forkortet til FKD. Endringen iverksettes fra det tidspunkt Statsministerens kontor bestemmer.Delegering til Fiskeri- og kystdepartementet til å foreta de endringer i forskrifter, avtaler, instrukser og bestemmelser som nødvendig følger av navneendringen.
+9. 1. Landbruksdepartementets navn endres til Landbruks- og matdepartementet, forkortet til LMD. Endringen iverksettes fra det tidspunkt Statsministerens kontor bestemmer.
+   2. Delegering til Landbruks- og matdepartementet til å foreta de endringer i forskrifter, avtaler, instrukser og bestemmelser som nødvendig følger av navneendringen.
+10. 1. Fiskeridepartementet endrer navn til Fiskeri- og kystdepartementet, forkortet til FKD. Endringen iverksettes fra det tidspunkt Statsministerens kontor bestemmer.
+    2. Delegering til Fiskeri- og kystdepartementet til å foreta de endringer i forskrifter, avtaler, instrukser og bestemmelser som nødvendig følger av navneendringen.

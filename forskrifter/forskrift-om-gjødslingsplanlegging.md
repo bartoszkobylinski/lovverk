@@ -38,8 +38,28 @@ Forskriften gjelder til og med vekstsesongen 2025 og for alle foretak som dispon
 2. Gjødslingsplanen skal omfatte alt jordbruksareal som foretaket disponerer, jf. [forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket](forskrift/2014-12-19-1817).
 3. Representative jordprøver skal i hovedsak tas hvert 4. – 8. år, og det skal minimum rekvireres analyser for pH, fosfor, kalium, glødetap eller gis skjønnsmessig vurdering av moldinnhold. Jordprøvene skal analyseres ved et laboratorium som deltar i og har bestått ringtest for jordanalyser. For jordleie skal det foreligge jordprøver senest 2. året i leieavtalen, ev. 2. året på rad med ett års leiekontrakt.
 4. Foretak med husdyr, eller foretak som får tilført husdyrgjødsel, slam eller annen organisk gjødsel, skal beregne forsvarlig mengde forbruk av dette for kommende vekstsesong. I gjødslingsplanen skal denne mengden fordeles på jordbruksarealet i henhold til foretakets spredeareal og slamplan.
-5. Gjødslingsplanen skal inneholde en kartskisse, med oppgitt målestokk, som tydelig viser skifteinndelingen. Planen skal settes opp skiftevis, og følgende opplysninger skal oppgis for hvert enkelt skifte:Jordbruksareal i dekarJordart og jordanalyser for pH, fosfor, kalium og moldinnholdFôrgrødeÅrets vekstForventa avlingsnivå pr. dekarÅrets gjødslingsbehov for nitrogen, fosfor og kalium pr. dekarHusdyrgjødsel, slam og annen organisk gjødselTypeMengde pr. dekar og antatt spredetidspunkt.MineralgjødselTypeMengde pr. dekar og antatt spredetidspunkt.
-6. Gjødslingsbehovet skal avpasses etter følgende kriterier:Jordprøveresultater for fosfor, kalium og moldinnholdVekst og gjødslingsnormer for distriktetAvlingsnivå ut i fra egne dokumenter eller anslåtte erfaringer for hvert enkelt skifteFôrgrøde.
+5. Gjødslingsplanen skal inneholde en kartskisse, med oppgitt målestokk, som tydelig viser skifteinndelingen. Planen skal settes opp skiftevis, og følgende opplysninger skal oppgis for hvert enkelt skifte:
+
+   1. Jordbruksareal i dekar
+   2. Jordart og jordanalyser for pH, fosfor, kalium og moldinnhold
+   3. Fôrgrøde
+   4. Årets vekst
+   5. Forventa avlingsnivå pr. dekar
+   6. Årets gjødslingsbehov for nitrogen, fosfor og kalium pr. dekar
+   7. Husdyrgjødsel, slam og annen organisk gjødsel
+
+      1. Type
+      2. Mengde pr. dekar og antatt spredetidspunkt.
+   8. Mineralgjødsel
+
+      1. Type
+      2. Mengde pr. dekar og antatt spredetidspunkt.
+6. Gjødslingsbehovet skal avpasses etter følgende kriterier:
+
+   1. Jordprøveresultater for fosfor, kalium og moldinnhold
+   2. Vekst og gjødslingsnormer for distriktet
+   3. Avlingsnivå ut i fra egne dokumenter eller anslåtte erfaringer for hvert enkelt skifte
+   4. Fôrgrøde.
 7. Dersom vekstforholda avviker fra de forutsetningene som var når gjødslingsplanen ble laget, skal gjødslingsplanen justeres i samsvar med behovet.
 
 > Endret ved [forskrifter 5 juli 2000 nr. 760](forskrift/2000-07-05-760) (i kraft 1 juli 2000), [24 juni 2002 nr. 707](forskrift/2002-06-24-707) (i kraft 1 juli 2002), [19 mai 2023 nr. 711](forskrift/2023-05-19-711).
@@ -68,6 +88,8 @@ Enkeltvedtak som er fattet i medhold av denne forskriften kan påklages etter lo
 
 ## § 8. Ikrafttredelse
 
-Forskriften trer i kraft 1. juli 1999. Samtidig oppheves følgende forskrift:Forskrift for gjødslingsplanlegging av [18. august 1995 nr. 1213](forskrift/1995-08-18-1213) fastsatt av Landbruksdepartementet.
+Forskriften trer i kraft 1. juli 1999. Samtidig oppheves følgende forskrift:
+
+- Forskrift for gjødslingsplanlegging av [18. august 1995 nr. 1213](forskrift/1995-08-18-1213) fastsatt av Landbruksdepartementet.
 
 > Endret ved [forskrift 5 juli 2000 nr. 760](forskrift/2000-07-05-760) (i kraft 1 juli 2000).

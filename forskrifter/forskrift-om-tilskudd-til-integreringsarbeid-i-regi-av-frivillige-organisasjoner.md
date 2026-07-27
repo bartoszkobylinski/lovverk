@@ -15,7 +15,7 @@ xml_hash: "e92652d27ecbb80597beeceeb8519f94a703b63954d9fd24a69e89554e88dd8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1-1. Mål
 
-Målet med tilskuddsordningen er å fremme deltakelse og integrering i samfunn og arbeidsliv blant personer med innvandrerbakgrunn i Norge gjennomøkt deltakelse, medvirkning og representasjon blant personer med innvandrerbakgrunn på ulike samfunnsarenaer og i det frivillige organisasjonslivet lokalt og nasjonaltøkt kunnskap om det norske samfunnet, bedre norskferdigheter og digitale ferdigheter og å bidra til kvalifisering for deltakelse i arbeid og utdanning blant personer med innvandrerbakgrunnmotvirkning av barrierer mot integrering, slik som rasisme, diskriminering, negativ sosial kontroll, æresmotivert vold, kjønnslemlestelse og tvangsekteskap samt arbeid med økt likestilling mellom kjønneneøkt kunnskap om deltakelse og integrering i befolkningen, styrket kompetanse og kapasitet i frivillige innvandrerorganisasjoner og økt samarbeid mellom organisasjonene og med offentlige myndigheter.
+Målet med tilskuddsordningen er å fremme deltakelse og integrering i samfunn og arbeidsliv blant personer med innvandrerbakgrunn i Norge gjennom
+
+1. økt deltakelse, medvirkning og representasjon blant personer med innvandrerbakgrunn på ulike samfunnsarenaer og i det frivillige organisasjonslivet lokalt og nasjonalt
+2. økt kunnskap om det norske samfunnet, bedre norskferdigheter og digitale ferdigheter og å bidra til kvalifisering for deltakelse i arbeid og utdanning blant personer med innvandrerbakgrunn
+3. motvirkning av barrierer mot integrering, slik som rasisme, diskriminering, negativ sosial kontroll, æresmotivert vold, kjønnslemlestelse og tvangsekteskap samt arbeid med økt likestilling mellom kjønnene
+4. økt kunnskap om deltakelse og integrering i befolkningen, styrket kompetanse og kapasitet i frivillige innvandrerorganisasjoner og økt samarbeid mellom organisasjonene og med offentlige myndigheter.
 
 ### § 1-2. Målgruppe
 
@@ -36,11 +41,32 @@ Målgruppen for tilskuddsordningen er personer med innvandrerbakgrunn etter [§ 
 
 I hvilken grad tilskuddsmottaker har bidratt til å nå målet med tilskuddsordningen, blir vurdert på grunnlag av aktivitetene som er gjennomført og resultatene av aktivitetene sett opp mot søknaden, kravene i denne forskriften og tilskuddsbrevet.
 
-Disse kriteriene er sentrale for å vurdere måloppnåelse for ordningen som helhet:Større mangfold i frivillige organisasjoner, ved at flere personer med innvandrerbakgrunn blir frivillige, medlemmer, tillitsvalgte og ansatte lokalt og nasjonaltFlere deltakere i tiltaket kommer i arbeid eller utdanningFlere jenter og kvinner med innvandrerbakgrunn deltar på ulike samfunnsarenaer og i fritidsaktiviteterFlere inkluderende sosiale møteplasser og aktivitetstilbud hvor personer med innvandrerbakgrunn deltarØkt samarbeid mellom innvandrerorganisasjoner og andre frivillige og offentlige aktørerFlere personer med innvandrerbakgrunn deltar i den offentlige debattenØkt kunnskapsdeling og styrket kunnskapsgrunnlag om integreringsarbeid som er relevant for målet i [§ 1-1](forskrift/2025-11-30-2373/§1-1), for eksempel gjennom forskning og erfaringsdeling.
+Disse kriteriene er sentrale for å vurdere måloppnåelse for ordningen som helhet:
+
+1. Større mangfold i frivillige organisasjoner, ved at flere personer med innvandrerbakgrunn blir frivillige, medlemmer, tillitsvalgte og ansatte lokalt og nasjonalt
+2. Flere deltakere i tiltaket kommer i arbeid eller utdanning
+3. Flere jenter og kvinner med innvandrerbakgrunn deltar på ulike samfunnsarenaer og i fritidsaktiviteter
+4. Flere inkluderende sosiale møteplasser og aktivitetstilbud hvor personer med innvandrerbakgrunn deltar
+5. Økt samarbeid mellom innvandrerorganisasjoner og andre frivillige og offentlige aktører
+6. Flere personer med innvandrerbakgrunn deltar i den offentlige debatten
+7. Økt kunnskapsdeling og styrket kunnskapsgrunnlag om integreringsarbeid som er relevant for målet i [§ 1-1](forskrift/2025-11-30-2373/§1-1), for eksempel gjennom forskning og erfaringsdeling.
 
 ### § 1-4. Definisjoner
 
-I denne forskriften betyr*tilskuddsår:* kalenderåret søknaden gjelder for, og tilskuddet utbetales i.*grunnlagsår:* kalenderåret tilskuddsforvalteren krever dokumentasjon for, i utlysningen av tilskuddet.*personer med innvandrerbakgrunn:* person født i utlandet av to utenlandsfødte foreldre eller født i Norge av to utenlandsfødte foreldre.*frivillig organisasjon:* en sammenslutning av personer eller virksomheter som driver virksomhet på ikke-fortjenestebasert og ikke-offentlig basis, etter definisjonen i [frivillighetsregisterloven § 3](lov/2007-06-29-88/§3) og [§ 4](lov/2007-06-29-88/§4). En frivillig organisasjon baserer en stor del av driften på medlemskontingenter, gaver, innsamlede midler og/eller frivillig arbeidsinnsats og offentlig støtte.*innvandrerorganisasjon:* en frivillig organisasjon hvor flertallet av tellende medlemmer er personer med innvandrerbakgrunn.*tellende medlem:* medlem som per 31. desember i grunnlagsåret er frivillig og individuelt innmeldt i organisasjonen, står i medlemsregisteret, har betalt kontingent for grunnlagsåret og etter fylte 15 år har fulle demokratiske rettigheter i organisasjonen. Fulle demokratiske rettigheter er stemme-, møte-, tale- og forslagsrett og rett til å la seg velge som representant. Medlemmer under 15 år kan være innmeldt av foresatt eller verge. Ved bruk av familie- eller søskenmedlemsskap, teller hvert medlem som individuelt medlem. De demokratiske rettighetene til medlemmene skal følge av vedtektene.*lokal organisasjon:* en frivillig organisasjon som er registrert i en av de utvalgte kommunene etter [§ 2-1](forskrift/2025-11-30-2373/§2-1) og som har hoveddelen av sin virksomhet og aktivitet rettet mot personer i målgruppen etter [§ 1-2](forskrift/2025-11-30-2373/§1-2) i kommunen organisasjonen er registrert i.*nasjonal organisasjon:* en frivillig organisasjon som oppfyller minst ett av disse kravene: hoveddelen av organisasjonens virksomhet og aktiviteter er rettet mot personer i målgruppen etter [§ 1-2](forskrift/2025-11-30-2373/§1-2) i minst tre fylker, organisasjonen har tellende medlemmer i minst tre fylker eller organisasjonen har tellende region- eller lokallag i minst tre fylker. Tellende lokallag er laveste nivå av selvstendig, demokratisk organisert enhet i en organisasjon.*nasjonalt ressurssenter for integrering:* en frivillig organisasjon som oppfyller kravene for å være en nasjonal organisasjon etter [§ 1-4 bokstav h](forskrift/2025-11-30-2373/§1-4/bokstav/h) og kravene for å være et nasjonalt ressurssenter for integrering etter [§ 1-6 andre ledd bokstav c](forskrift/2025-11-30-2373/§1-6/ledd/2/bokstav/c).*nasjonalt prosjekt:* et prosjekt som oppfyller minst ett av disse kravene: prosjektet er i regi av sentralleddet og minst tre underledd i en nasjonal organisasjon, prosjektet skal utvikle metoder, samarbeidsformer og erfaringsdeling med nasjonal overføringsverdi eller prosjektet er et tiltak rettet mot personer i målgruppen etter [§ 1-2](forskrift/2025-11-30-2373/§1-2) som bor i minst tre fylker.*innvandrerråd:* en paraplyorganisasjon som består av representanter med innvandrerbakgrunn som er utpekt eller valgt blant underorganisasjoner.*tiltak:* aktivitetene som inngår i prosjektet det søkes om prosjekttilskudd til, eller aktivitetene som inngår i organisasjonens virksomhet som det søkes om driftstilskudd til.
+I denne forskriften betyr
+
+1. *tilskuddsår:* kalenderåret søknaden gjelder for, og tilskuddet utbetales i.
+2. *grunnlagsår:* kalenderåret tilskuddsforvalteren krever dokumentasjon for, i utlysningen av tilskuddet.
+3. *personer med innvandrerbakgrunn:* person født i utlandet av to utenlandsfødte foreldre eller født i Norge av to utenlandsfødte foreldre.
+4. *frivillig organisasjon:* en sammenslutning av personer eller virksomheter som driver virksomhet på ikke-fortjenestebasert og ikke-offentlig basis, etter definisjonen i [frivillighetsregisterloven § 3](lov/2007-06-29-88/§3) og [§ 4](lov/2007-06-29-88/§4). En frivillig organisasjon baserer en stor del av driften på medlemskontingenter, gaver, innsamlede midler og/eller frivillig arbeidsinnsats og offentlig støtte.
+5. *innvandrerorganisasjon:* en frivillig organisasjon hvor flertallet av tellende medlemmer er personer med innvandrerbakgrunn.
+6. *tellende medlem:* medlem som per 31. desember i grunnlagsåret er frivillig og individuelt innmeldt i organisasjonen, står i medlemsregisteret, har betalt kontingent for grunnlagsåret og etter fylte 15 år har fulle demokratiske rettigheter i organisasjonen. Fulle demokratiske rettigheter er stemme-, møte-, tale- og forslagsrett og rett til å la seg velge som representant. Medlemmer under 15 år kan være innmeldt av foresatt eller verge. Ved bruk av familie- eller søskenmedlemsskap, teller hvert medlem som individuelt medlem. De demokratiske rettighetene til medlemmene skal følge av vedtektene.
+7. *lokal organisasjon:* en frivillig organisasjon som er registrert i en av de utvalgte kommunene etter [§ 2-1](forskrift/2025-11-30-2373/§2-1) og som har hoveddelen av sin virksomhet og aktivitet rettet mot personer i målgruppen etter [§ 1-2](forskrift/2025-11-30-2373/§1-2) i kommunen organisasjonen er registrert i.
+8. *nasjonal organisasjon:* en frivillig organisasjon som oppfyller minst ett av disse kravene: hoveddelen av organisasjonens virksomhet og aktiviteter er rettet mot personer i målgruppen etter [§ 1-2](forskrift/2025-11-30-2373/§1-2) i minst tre fylker, organisasjonen har tellende medlemmer i minst tre fylker eller organisasjonen har tellende region- eller lokallag i minst tre fylker. Tellende lokallag er laveste nivå av selvstendig, demokratisk organisert enhet i en organisasjon.
+9. *nasjonalt ressurssenter for integrering:* en frivillig organisasjon som oppfyller kravene for å være en nasjonal organisasjon etter [§ 1-4 bokstav h](forskrift/2025-11-30-2373/§1-4/bokstav/h) og kravene for å være et nasjonalt ressurssenter for integrering etter [§ 1-6 andre ledd bokstav c](forskrift/2025-11-30-2373/§1-6/ledd/2/bokstav/c).
+10. *nasjonalt prosjekt:* et prosjekt som oppfyller minst ett av disse kravene: prosjektet er i regi av sentralleddet og minst tre underledd i en nasjonal organisasjon, prosjektet skal utvikle metoder, samarbeidsformer og erfaringsdeling med nasjonal overføringsverdi eller prosjektet er et tiltak rettet mot personer i målgruppen etter [§ 1-2](forskrift/2025-11-30-2373/§1-2) som bor i minst tre fylker.
+11. *innvandrerråd:* en paraplyorganisasjon som består av representanter med innvandrerbakgrunn som er utpekt eller valgt blant underorganisasjoner.
+12. *tiltak:* aktivitetene som inngår i prosjektet det søkes om prosjekttilskudd til, eller aktivitetene som inngår i organisasjonens virksomhet som det søkes om driftstilskudd til.
 
 ### § 1-5. Hva det kan gis tilskudd til
 
@@ -56,7 +82,12 @@ Tilskudd kan ikke benyttes til investeringer. Investeringer er anskaffelser med 
 
 Tilskudd kan gis til frivillige organisasjoner etter definisjonen i [§ 1-4 bokstav d](forskrift/2025-11-30-2373/§1-4/bokstav/d), som er registrert i Frivillighetsregisteret.
 
-For å kunne motta driftstilskudd er det krav at organisasjonens formål, slik det står i vedtektene, bidrar til å oppnå ett eller flere av delmålene i [§ 1-1](forskrift/2025-11-30-2373/§1-1). I tillegg gjelder disse kravene:Lokale organisasjoner må være en innvandrerorganisasjon, ha eksistert i minimum ett år før søknadstidspunktet, ha minst 20 tellende medlemmer og et flertall av organisasjonens tellende medlemmer må ha bostedsadresse i kommunen organisasjonen er registrert i. Lokale organisasjoner registrert i Oslo kommune må ha minst 80 tellende medlemmer.Nasjonale organisasjoner må være en innvandrerorganisasjon, ha eksistert i minimum ett år før søknadstidspunktet, ha minst 60 tellende medlemmer og et flertall av organisasjonens tellende medlemmer må ha bostedsadresse i minst tre fylker.Nasjonale ressurssentre for integrering må ha eksistert i minimum tre år før søknadstidspunktet og gjennom vedtektene sikre at personer med innvandrerbakgrunn er representert i organisasjonens styrende organ. Et nasjonalt ressurssenter for integrering er en organisasjon med bredt nedslagsfelt på integreringsfeltet, og som i hovedsak retter sin virksomhet mot ulike innvandrergrupper. Organisasjonen må kunne vise til at hoveddelen av organisasjonens aktivitet faller inn under ett eller flere av delmålene i [§ 1-1](forskrift/2025-11-30-2373/§1-1), og redegjøre for hvilke målgrupper aktivitetene retter seg mot. Organisasjonen må levere tjenester og tiltak som bidrar til deltakelse og integrering nasjonalt og bidra til styrket kunnskapsgrunnlag eller kunnskapsdeling om arbeid som er relevant for målet i [§ 1-1](forskrift/2025-11-30-2373/§1-1). Organisasjonen må ha brede kontaktflater mot innvandrerbefolkningen gjennom å representere og formidle kunnskap og synspunkter fra og av betydning for personer med innvandrerbakgrunn. Organisasjonen skal også ha samarbeid med andre innvandrerorganisasjoner.Innvandrerråd må ha eksistert i minimum ett år før søknadstidspunktet og ha underorganisasjoner og minst 60 tellende medlemmer totalt. Underorganisasjonene må være innvandrerorganisasjoner. Innvandrerrådet må gjennom vedtektene sikre at personer med innvandrerbakgrunn er representert i innvandrerrådets styrende organ.
+For å kunne motta driftstilskudd er det krav at organisasjonens formål, slik det står i vedtektene, bidrar til å oppnå ett eller flere av delmålene i [§ 1-1](forskrift/2025-11-30-2373/§1-1). I tillegg gjelder disse kravene:
+
+1. Lokale organisasjoner må være en innvandrerorganisasjon, ha eksistert i minimum ett år før søknadstidspunktet, ha minst 20 tellende medlemmer og et flertall av organisasjonens tellende medlemmer må ha bostedsadresse i kommunen organisasjonen er registrert i. Lokale organisasjoner registrert i Oslo kommune må ha minst 80 tellende medlemmer.
+2. Nasjonale organisasjoner må være en innvandrerorganisasjon, ha eksistert i minimum ett år før søknadstidspunktet, ha minst 60 tellende medlemmer og et flertall av organisasjonens tellende medlemmer må ha bostedsadresse i minst tre fylker.
+3. Nasjonale ressurssentre for integrering må ha eksistert i minimum tre år før søknadstidspunktet og gjennom vedtektene sikre at personer med innvandrerbakgrunn er representert i organisasjonens styrende organ. Et nasjonalt ressurssenter for integrering er en organisasjon med bredt nedslagsfelt på integreringsfeltet, og som i hovedsak retter sin virksomhet mot ulike innvandrergrupper. Organisasjonen må kunne vise til at hoveddelen av organisasjonens aktivitet faller inn under ett eller flere av delmålene i [§ 1-1](forskrift/2025-11-30-2373/§1-1), og redegjøre for hvilke målgrupper aktivitetene retter seg mot. Organisasjonen må levere tjenester og tiltak som bidrar til deltakelse og integrering nasjonalt og bidra til styrket kunnskapsgrunnlag eller kunnskapsdeling om arbeid som er relevant for målet i [§ 1-1](forskrift/2025-11-30-2373/§1-1). Organisasjonen må ha brede kontaktflater mot innvandrerbefolkningen gjennom å representere og formidle kunnskap og synspunkter fra og av betydning for personer med innvandrerbakgrunn. Organisasjonen skal også ha samarbeid med andre innvandrerorganisasjoner.
+4. Innvandrerråd må ha eksistert i minimum ett år før søknadstidspunktet og ha underorganisasjoner og minst 60 tellende medlemmer totalt. Underorganisasjonene må være innvandrerorganisasjoner. Innvandrerrådet må gjennom vedtektene sikre at personer med innvandrerbakgrunn er representert i innvandrerrådets styrende organ.
 
 ### § 1-7. Tilskuddsperiode og beregning av tilskuddsbeløp
 
@@ -72,13 +103,28 @@ Departementet kan sette beløpsgrenser for de enkelte typene tilskudd hvert tils
 
 Utvalgte kommuner forvalter driftstilskudd til lokale innvandrerorganisasjoner registrert i kommunen og prosjekttilskudd til lokale organisasjoner registrert i kommunen. Hvilke kommuner som forvalter tilskudd etter tilskuddsordningen, skal fremgå av IMDis utlysning for det enkelte tilskuddsår. Tildeling av tilskudd for det enkelte tilskuddsår kunngjøres offentlig.
 
-IMDi forvalterdriftstilskudd til nasjonale innvandrerorganisasjoner, etter [§ 1-4 bokstav e](forskrift/2025-11-30-2373/§1-4/bokstav/e) og [h](forskrift/2025-11-30-2373/§1-4/bokstav/h)driftstilskudd til nasjonale ressurssentre for integrering etter [§ 1-4 bokstav i](forskrift/2025-11-30-2373/§1-4/bokstav/i)driftstilskudd til innvandrerråd, etter [§ 1-4 bokstav k](forskrift/2025-11-30-2373/§1-4/bokstav/k)prosjekttilskudd til nasjonale prosjekter, etter [§ 1-4 bokstav j](forskrift/2025-11-30-2373/§1-4/bokstav/j)prosjekttilskudd for beboere i asylmottak som ligger utenfor de utvalgte kommunene etter første ledd.
+IMDi forvalter
+
+1. driftstilskudd til nasjonale innvandrerorganisasjoner, etter [§ 1-4 bokstav e](forskrift/2025-11-30-2373/§1-4/bokstav/e) og [h](forskrift/2025-11-30-2373/§1-4/bokstav/h)
+2. driftstilskudd til nasjonale ressurssentre for integrering etter [§ 1-4 bokstav i](forskrift/2025-11-30-2373/§1-4/bokstav/i)
+3. driftstilskudd til innvandrerråd, etter [§ 1-4 bokstav k](forskrift/2025-11-30-2373/§1-4/bokstav/k)
+4. prosjekttilskudd til nasjonale prosjekter, etter [§ 1-4 bokstav j](forskrift/2025-11-30-2373/§1-4/bokstav/j)
+5. prosjekttilskudd for beboere i asylmottak som ligger utenfor de utvalgte kommunene etter første ledd.
 
 ### § 2-2. Krav til alle søknader
 
 Organisasjonen må søke om tilskudd innenfor fristene tilskuddsforvalteren setter. Søknaden skal sendes til den som forvalter det aktuelle tilskuddet etter [§ 2-1](forskrift/2025-11-30-2373/§2-1).
 
-Søknaden skal inneholde dokumentasjon som gir grunnlag for å vurdere om kravene for tilskudd i forskriften og tilskuddsbrevet er oppfylt. Alle søknader skal inneholde:organisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson i organisasjoneninformasjon om det søkes om driftstilskudd eller prosjekttilskuddbeløpet organisasjonen søker om og hvilke kostnader og aktiviteter tilskuddet skal finansiereinformasjon om hvordan tilskuddet vil bidra til å nå ett eller flere av delmålene med tilskuddsordningen i [§ 1-1](forskrift/2025-11-30-2373/§1-1), opplysning om hvem tiltaket retter seg mot, hvordan organisasjonen vil nå dem, det geografiske nedslagsfeltet for tiltaket og en beskrivelse av resultatene organisasjonen forventer at tiltaket vil haorganisasjonens vedtekter som blant annet viser organisasjonens formålregnskap for organisasjonens virksomhet. Dersom organisasjonen er regnskapsplikt etter [regnskapsloven](lov/1998-07-17-56), skal organisasjonen sende inn årsregnskap for organisasjonen fra siste avsluttede regnskapsårinformasjon om organisasjonen søker om tilskudd fra flere tilskuddsforvaltere etter denne tilskuddsordningen, har mottatt eller søker om tilskudd over andre offentlige tilskuddsordninger eller fra andre finansieringskilder, og hvilke beløp det i så fall gjelderen beskrivelse av hvordan organisasjonen skal sikre god økonomistyring.
+Søknaden skal inneholde dokumentasjon som gir grunnlag for å vurdere om kravene for tilskudd i forskriften og tilskuddsbrevet er oppfylt. Alle søknader skal inneholde:
+
+1. organisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson i organisasjonen
+2. informasjon om det søkes om driftstilskudd eller prosjekttilskudd
+3. beløpet organisasjonen søker om og hvilke kostnader og aktiviteter tilskuddet skal finansiere
+4. informasjon om hvordan tilskuddet vil bidra til å nå ett eller flere av delmålene med tilskuddsordningen i [§ 1-1](forskrift/2025-11-30-2373/§1-1), opplysning om hvem tiltaket retter seg mot, hvordan organisasjonen vil nå dem, det geografiske nedslagsfeltet for tiltaket og en beskrivelse av resultatene organisasjonen forventer at tiltaket vil ha
+5. organisasjonens vedtekter som blant annet viser organisasjonens formål
+6. regnskap for organisasjonens virksomhet. Dersom organisasjonen er regnskapsplikt etter [regnskapsloven](lov/1998-07-17-56), skal organisasjonen sende inn årsregnskap for organisasjonen fra siste avsluttede regnskapsår
+7. informasjon om organisasjonen søker om tilskudd fra flere tilskuddsforvaltere etter denne tilskuddsordningen, har mottatt eller søker om tilskudd over andre offentlige tilskuddsordninger eller fra andre finansieringskilder, og hvilke beløp det i så fall gjelder
+8. en beskrivelse av hvordan organisasjonen skal sikre god økonomistyring.
 
 Organisasjoner som har fått tilsagn om flerårig tilskudd, skal hvert år i tilskuddsperioden sende forenklet søknad. Krav til innholdet i den forenklede søknaden skal komme frem av det første tilskuddsbrevet. Tilskuddsforvalteren setter frist for den forenklede søknaden.
 
@@ -86,7 +132,13 @@ Organisasjoner som har fått tilsagn om flerårig tilskudd, skal hvert år i til
 
 ### § 2-3. Krav til søknader om prosjekttilskudd
 
-I tillegg til kravene i [§ 2-2](forskrift/2025-11-30-2373/§2-2), skal søknader om prosjekttilskudd inneholde:aktivitets- og fremdriftsplaneget budsjett for prosjekteten plan for graden av frivillig innsats i prosjektetinformasjon om eventuelle samarbeidspartnereopplysninger om organisasjonens kompetanse og tidligere erfaring med tilsvarende prosjekter.
+I tillegg til kravene i [§ 2-2](forskrift/2025-11-30-2373/§2-2), skal søknader om prosjekttilskudd inneholde:
+
+1. aktivitets- og fremdriftsplan
+2. eget budsjett for prosjektet
+3. en plan for graden av frivillig innsats i prosjektet
+4. informasjon om eventuelle samarbeidspartnere
+5. opplysninger om organisasjonens kompetanse og tidligere erfaring med tilsvarende prosjekter.
 
 Ved søknader om prosjekttilskudd til inkluderende sosiale møteplasser og aktivitetstilbud skal organisasjonen beskrive hvordan tiltaket kan supplere eksisterende lignende fritidstilbud i lokalsamfunnet.
 
@@ -94,13 +146,32 @@ Ved søknader om prosjekttilskudd rettet mot beboere i asylmottak må organisasj
 
 ### § 2-4. Krav til søknader om driftstilskudd
 
-I tillegg til kravene i [§ 2-2](forskrift/2025-11-30-2373/§2-2), skal søknader om driftstilskudd inneholde:en oversikt over organisasjonens aktivitetorganisasjonens årsmelding eller årsrapport fra grunnlagsåretbudsjett for året organisasjonen søker om tilskudd foren egenerklæring på at organisasjonen oppfyller kravene til innvandrerrepresentasjon etter [§ 1-6 andre ledd](forskrift/2025-11-30-2373/§1-6/ledd/2) og [§ 1-4 bokstav e](forskrift/2025-11-30-2373/§1-4/bokstav/e).
+I tillegg til kravene i [§ 2-2](forskrift/2025-11-30-2373/§2-2), skal søknader om driftstilskudd inneholde:
 
-I tillegg til kravene i første ledd, skal søknader om driftstilskudd til nasjonale ressurssentre for integrering inneholde denne dokumentasjonen på at de oppfyller kravene i [§ 1-6 andre ledd bokstav c](forskrift/2025-11-30-2373/§1-6/ledd/2/bokstav/c):en redegjørelse for resultater og organisasjonens vurdering av nytten av avsluttede relevante aktiviteter i regi av organisasjonen de siste tre åreneen redegjørelse for organisasjonens strategi for og erfaring med kunnskapsutvikling og kunnskapsdeling til og fra relevante aktører på integreringsfeltetdokumentasjon av organisasjonens arbeid med formidling av kunnskap og erfaringer til myndigheter, andre relevante aktører og offentligheten for øvrigdokumentasjon på organisasjonens samarbeid med innvandrerorganisasjonerdokumentasjon av organisasjonens interne rutiner og metoder for vurdering av organisasjonens måloppnåelsedokumentasjon av organisasjonens rutiner for risikovurdering og internkontroll.
+1. en oversikt over organisasjonens aktivitet
+2. organisasjonens årsmelding eller årsrapport fra grunnlagsåret
+3. budsjett for året organisasjonen søker om tilskudd for
+4. en egenerklæring på at organisasjonen oppfyller kravene til innvandrerrepresentasjon etter [§ 1-6 andre ledd](forskrift/2025-11-30-2373/§1-6/ledd/2) og [§ 1-4 bokstav e](forskrift/2025-11-30-2373/§1-4/bokstav/e).
 
-I tillegg til kravene i første ledd, må søknader om driftstilskudd til lokale og nasjonale innvandrerorganisasjoner og innvandrerråd inneholde:en egenerklæring om antall tellende medlemmerinformasjon om hvilke kommuner og fylker organisasjonen har aktivitet og medlemmer ifor innvandrerråd skal søknaden også opplyse om hvilke eventuelle underorganisasjoner som inngår i søknaden.
+I tillegg til kravene i første ledd, skal søknader om driftstilskudd til nasjonale ressurssentre for integrering inneholde denne dokumentasjonen på at de oppfyller kravene i [§ 1-6 andre ledd bokstav c](forskrift/2025-11-30-2373/§1-6/ledd/2/bokstav/c):
 
-I tillegg må organisasjoner som søker om driftstilskudd til lokale og nasjonale innvandrerorganisasjoner og innvandrerråd kunne gjøre denne dokumentasjonen tilgjengelig for kontroll:Tellende medlemmer dokumentert ved sentralt medlemsregister. Registeret kan være en samling av oversikter fra lokallagene. Registeret skal inneholde navn, kontaktinformasjon, eventuell tilknytning til lokallag og informasjon om betalt kontingent for hvert medlem per 31. desember i grunnlagsåret. Registeret skal skille mellom tellende og andre medlemmer og oversikt over tellende medlemmer skal kunne hentes ut av registeret.Tellende lokallag dokumentert ved årlig rapport sendt til sentralleddet med navn på styremedlemmer, når de er valgt og orientering om aktivitet. Årsmøtereferat kan brukes som rapport hvis den inneholder nødvendig informasjon. Antall medlemmer i lokallaget dokumenteres med opplysning om lokallagstilknytning i det sentrale medlemsregisteret.
+1. en redegjørelse for resultater og organisasjonens vurdering av nytten av avsluttede relevante aktiviteter i regi av organisasjonen de siste tre årene
+2. en redegjørelse for organisasjonens strategi for og erfaring med kunnskapsutvikling og kunnskapsdeling til og fra relevante aktører på integreringsfeltet
+3. dokumentasjon av organisasjonens arbeid med formidling av kunnskap og erfaringer til myndigheter, andre relevante aktører og offentligheten for øvrig
+4. dokumentasjon på organisasjonens samarbeid med innvandrerorganisasjoner
+5. dokumentasjon av organisasjonens interne rutiner og metoder for vurdering av organisasjonens måloppnåelse
+6. dokumentasjon av organisasjonens rutiner for risikovurdering og internkontroll.
+
+I tillegg til kravene i første ledd, må søknader om driftstilskudd til lokale og nasjonale innvandrerorganisasjoner og innvandrerråd inneholde:
+
+1. en egenerklæring om antall tellende medlemmer
+2. informasjon om hvilke kommuner og fylker organisasjonen har aktivitet og medlemmer i
+3. for innvandrerråd skal søknaden også opplyse om hvilke eventuelle underorganisasjoner som inngår i søknaden.
+
+I tillegg må organisasjoner som søker om driftstilskudd til lokale og nasjonale innvandrerorganisasjoner og innvandrerråd kunne gjøre denne dokumentasjonen tilgjengelig for kontroll:
+
+1. Tellende medlemmer dokumentert ved sentralt medlemsregister. Registeret kan være en samling av oversikter fra lokallagene. Registeret skal inneholde navn, kontaktinformasjon, eventuell tilknytning til lokallag og informasjon om betalt kontingent for hvert medlem per 31. desember i grunnlagsåret. Registeret skal skille mellom tellende og andre medlemmer og oversikt over tellende medlemmer skal kunne hentes ut av registeret.
+2. Tellende lokallag dokumentert ved årlig rapport sendt til sentralleddet med navn på styremedlemmer, når de er valgt og orientering om aktivitet. Årsmøtereferat kan brukes som rapport hvis den inneholder nødvendig informasjon. Antall medlemmer i lokallaget dokumenteres med opplysning om lokallagstilknytning i det sentrale medlemsregisteret.
 
 > Endret ved forskrift [15 des 2025 nr. 2560](forskrift/2025-12-15-2560).
 
@@ -108,7 +179,13 @@ I tillegg må organisasjoner som søker om driftstilskudd til lokale og nasjonal
 
 Tilskuddsforvalteren skal treffe vedtak etter å ha vurdert om og i hvilken grad driften eller prosjektet søknaden gjelder, bidrar til å oppfylle målet for tilskuddsordningen etter [§ 1-1](forskrift/2025-11-30-2373/§1-1) og om søknaden oppfyller kravene i forskriften og tilskuddsbrevet.
 
-I vurderingen av søknaden skal tilskuddsforvalteren legge vekt på:om formålet organisasjonen søker om tilskudd til, er klart definert og faller inn under målet med tilskuddsordningen etter [§ 1-1](forskrift/2025-11-30-2373/§1-1), og at søknaden beskriver på en tydelig måte hvordan organisasjonen vil nå målet og personene tiltaket er rettet motorganisasjonens regnskap og budsjett, og organisasjonens årsregnskap dersom organisasjonen er revisjonspliktig etter [regnskapsloven](lov/1998-07-17-56)organisasjonens totale økonomi, inkludert støtte fra andre finansieringskilderorganisasjonens kompetanse, inkludert tidligere erfaring og måloppnåelserisiko ved å gjennomføre prosjektet eller ved drift og hva organisasjonen gjør for å redusere risikoen.
+I vurderingen av søknaden skal tilskuddsforvalteren legge vekt på:
+
+1. om formålet organisasjonen søker om tilskudd til, er klart definert og faller inn under målet med tilskuddsordningen etter [§ 1-1](forskrift/2025-11-30-2373/§1-1), og at søknaden beskriver på en tydelig måte hvordan organisasjonen vil nå målet og personene tiltaket er rettet mot
+2. organisasjonens regnskap og budsjett, og organisasjonens årsregnskap dersom organisasjonen er revisjonspliktig etter [regnskapsloven](lov/1998-07-17-56)
+3. organisasjonens totale økonomi, inkludert støtte fra andre finansieringskilder
+4. organisasjonens kompetanse, inkludert tidligere erfaring og måloppnåelse
+5. risiko ved å gjennomføre prosjektet eller ved drift og hva organisasjonen gjør for å redusere risikoen.
 
 For søknader om prosjekttilskudd skal tilskuddsforvalteren også legge vekt på organisasjonens aktivitets- og fremdriftsplan, budsjett for prosjektet og graden av frivillig innsats i prosjektet.
 
@@ -126,7 +203,11 @@ Departementet kan bestemme prioriteringer for tilskuddsordningen innenfor rammen
 
 ### § 2-6. Vilkår for utbetaling
 
-Tilskuddet blir tildelt og utbetalt for ett år om gangen, med forbehold omføringer i Stortingets årlige budsjettvedtakat tilskuddsmottakeren oppfyller kravene for tilskudd gjennom hele støtteperiodenat tilskuddsmottakeren oppfyller kravene til rapportering og regnskap.
+Tilskuddet blir tildelt og utbetalt for ett år om gangen, med forbehold om
+
+1. føringer i Stortingets årlige budsjettvedtak
+2. at tilskuddsmottakeren oppfyller kravene for tilskudd gjennom hele støtteperioden
+3. at tilskuddsmottakeren oppfyller kravene til rapportering og regnskap.
 
 Tilskuddsforvalteren kan i tilskuddsbrevet stille flere vilkår for utbetalingen.
 
@@ -172,7 +253,11 @@ Dersom det er nødvendige for å sikre at kravene for tilskuddet oppfylles, kan 
 
 Tilskuddsforvalteren og Riksrevisjonen har adgang til å kontrollere at tilskuddet brukes i samsvar med kravene i forskriften og tilskuddsbrevet, jf. [Stortingets bevilgningsreglement § 10 andre ledd](forskrift/2005-05-26-876/§10/ledd/2) og [riksrevisjonsloven § 6-1 tredje ledd](lov/2024-12-13-77/§6-1/ledd/3).
 
-Tilskuddsforvalteren kan kontrollere at kravene for tilskuddet i forskriften og tilskuddsbrevet er oppfylt ved åkreve opplysninger og dokumentasjon som er nødvendig for kontrolleninnhente opplysninger fra andre offentlige organer som har adgang til å utlevere opplysningeneundersøke organisasjonen. Tilskuddsmottakeren skal hjelpe til med undersøkelsen dersom det er nødvendig.
+Tilskuddsforvalteren kan kontrollere at kravene for tilskuddet i forskriften og tilskuddsbrevet er oppfylt ved å
+
+1. kreve opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. innhente opplysninger fra andre offentlige organer som har adgang til å utlevere opplysningene
+3. undersøke organisasjonen. Tilskuddsmottakeren skal hjelpe til med undersøkelsen dersom det er nødvendig.
 
 Tilskuddsforvalteren kan holde tilbake tilskudd inntil det er gjennomført kontroll av om kravene for tilskudd fortsatt er oppfylt.
 

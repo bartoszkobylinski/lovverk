@@ -15,7 +15,7 @@ xml_hash: "086914490df4798b02672b8e12c6fe46253f3efad5f599841318358677c50799"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32015L0849"
@@ -50,7 +50,14 @@ Lovens formål er å legge til rette for rapporteringspliktiges, myndighetenes o
 
 (1) Registreringspliktige skal identifisere den juridiske personens, enhetens eller sammenslutningens eller det utenlandske juridiske arrangementets reelle rettighetshavere. Ved identifiseringen gjelder kriteriene i [hvitvaskingsloven § 14](lov/2018-06-01-23/§14).
 
-(2) Den registreringspliktige skal innhente følgende opplysninger om reelle rettighetshavere:navnfødselsnummer eller D-nummerbostedslandstatsborgerskapDersom en reell rettighetshaver ikke har fødselsnummer eller D-nummer, skal det i stedet innhentes opplysninger om fødselsdato.
+(2) Den registreringspliktige skal innhente følgende opplysninger om reelle rettighetshavere:
+
+1. navn
+2. fødselsnummer eller D-nummer
+3. bostedsland
+4. statsborgerskap
+
+Dersom en reell rettighetshaver ikke har fødselsnummer eller D-nummer, skal det i stedet innhentes opplysninger om fødselsdato.
 
 (3) Den registreringspliktige skal dokumentere grunnlaget for identifiseringen av hvem som er reelle rettighetshavere. Dersom den registreringspliktige mener det ikke er noen reell rettighetshaver i en juridisk person eller et utenlandsk juridisk arrangement, skal vurderingen begrunnes og dokumenteres. Dersom den registreringspliktige mener det finnes en eller flere reelle rettighetshavere, men ikke kan identifisere disse, skal vurderingen begrunnes og dokumenteres.
 
@@ -102,7 +109,13 @@ Departementet kan i forskrift gi nærmere regler om opplysningsplikt når regist
 
 ### § 11. Tilgang til og avgivelse av registrerte opplysninger
 
-(1) Registrerte opplysninger om reelle rettighetshavere skal være tilgjengelige for:rapporteringspliktige etter [hvitvaskingsloven § 2 bokstav c](lov/2018-06-01-23/§2/bokstav/c) i forbindelse med deres kundetiltak og løpende oppfølging etter [hvitvaskingsloven](lov/2018-06-01-23)offentlige myndighetermediasivilsamfunnsorganisasjonerhøyere utdanningsinstitusjoner.
+(1) Registrerte opplysninger om reelle rettighetshavere skal være tilgjengelige for:
+
+1. rapporteringspliktige etter [hvitvaskingsloven § 2 bokstav c](lov/2018-06-01-23/§2/bokstav/c) i forbindelse med deres kundetiltak og løpende oppfølging etter [hvitvaskingsloven](lov/2018-06-01-23)
+2. offentlige myndigheter
+3. media
+4. sivilsamfunnsorganisasjoner
+5. høyere utdanningsinstitusjoner.
 
 (2) Departementet kan gi forskrift om at andre fysiske eller juridiske personer skal eller kan gis tilgang til registrerte opplysninger.
 

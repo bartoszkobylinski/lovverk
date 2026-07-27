@@ -66,7 +66,12 @@ Institusjonen skal holde barnevernstjenesten oppdatert om forhold av betydning f
 
 Barnevernstjenesten skal utarbeide en plan for barnets institusjonsopphold. Planen skal ha klart definerte og konkrete mål, og bidra til å gi barnet forutsigbarhet om hva som skal skje både under og etter oppholdet. Planen skal inneholde en foreløpig vurdering av hvor barnet skal bo etter institusjonsoppholdet. Institusjonen skal bygge på barnevernstjenestens plan i sitt arbeid.
 
-Planen skal i tillegg inneholde en oversikt over:oppfølgingsbesøk og annen kontakt mellom barnet og barnevernstjenesten,møter og annen kontakt mellom barnevernstjenesten og institusjonen,skolens, helsetjenestens og andre tjenesters oppfølging av barnet, oginvolvering av barnets foreldre, familie og nettverk.
+Planen skal i tillegg inneholde en oversikt over:
+
+1. oppfølgingsbesøk og annen kontakt mellom barnet og barnevernstjenesten,
+2. møter og annen kontakt mellom barnevernstjenesten og institusjonen,
+3. skolens, helsetjenestens og andre tjenesters oppfølging av barnet, og
+4. involvering av barnets foreldre, familie og nettverk.
 
 Planen bør foreligge når barnet flytter inn, og senest innen fire uker etter institusjonsoppholdets oppstart.
 

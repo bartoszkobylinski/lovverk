@@ -26,9 +26,18 @@ eu_basis: []
 
 ### § 1-1. Svalbard
 
-(1) Tilskuddsordningen gjelder tilsvarende for Svalbard, for følgende arbeidsgivere:selskap som er skattemessig hjemmehørende på Svalbardenkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbardselskap med deltakerfastsetting hvor deltakerne er skattemessig hjemmehørende på SvalbardInstitusjon eller organisasjon på Svalbard som omfattes av [skatteloven § 2-32](lov/1999-03-26-14/§2-32).
+(1) Tilskuddsordningen gjelder tilsvarende for Svalbard, for følgende arbeidsgivere:
 
-(2) Foretak som nevnt i [foretaksregisterloven § 2-1](lov/1985-06-21-78/§2-1), må være registrert i Foretaksregisteret. Melding om registrering i henhold til [foretaksregisterloven kapittel IV](lov/1985-06-21-78/kapiv) må ha vært mottatt av Foretaksregisteret senest28. mai 2020 hvis det søkes om tilskudd for juli og august eller en av disse månedene31. august 2020 hvis det søkes om tilskudd for oktober, november og desember eller en av disse månedene15. mars 2021 hvis det søkes om tilskudd for hele eller deler av perioden 15. mars til 31. august 2021.
+1. selskap som er skattemessig hjemmehørende på Svalbard
+2. enkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbard
+3. selskap med deltakerfastsetting hvor deltakerne er skattemessig hjemmehørende på Svalbard
+4. Institusjon eller organisasjon på Svalbard som omfattes av [skatteloven § 2-32](lov/1999-03-26-14/§2-32).
+
+(2) Foretak som nevnt i [foretaksregisterloven § 2-1](lov/1985-06-21-78/§2-1), må være registrert i Foretaksregisteret. Melding om registrering i henhold til [foretaksregisterloven kapittel IV](lov/1985-06-21-78/kapiv) må ha vært mottatt av Foretaksregisteret senest
+
+1. 28\. mai 2020 hvis det søkes om tilskudd for juli og august eller en av disse månedene
+2. 31\. august 2020 hvis det søkes om tilskudd for oktober, november og desember eller en av disse månedene
+3. 15\. mars 2021 hvis det søkes om tilskudd for hele eller deler av perioden 15. mars til 31. august 2021.
 
 (3) Foretaket må følge norske regler om bokføring, regnskap og revisjon. Ble foretaket etablert i 2019 eller tidligere, må dette også være gjort for regnskapsårene 2019 og 2020. Ble foretaket etablert i 2020, må dette også være gjort for regnskapsåret 2020.
 
@@ -56,7 +65,11 @@ Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asb
 
 ### § 2-4. Permittering, oppsigelse eller arbeidstidsreduksjon
 
-(1) Arbeidsgiveren kan ikke gjennomføre nye permitteringer, si opp eller redusere arbeidstiden til andre ansatte i sammenlignbare stillinger i periodenfra og med 28. mai til og med 1. september 2020 hvis det søkes om tilskudd for juli og august eller en av disse månedenefra og med 31. august 2020 til og med 1. januar 2021 hvis det søkes om tilskudd for oktober, november og desember eller en av disse månedenefra og med 15. mars 2021 til og med 31. august 2021 hvis det søkes om tilskudd for hele eller deler av denne perioden.
+(1) Arbeidsgiveren kan ikke gjennomføre nye permitteringer, si opp eller redusere arbeidstiden til andre ansatte i sammenlignbare stillinger i perioden
+
+1. fra og med 28. mai til og med 1. september 2020 hvis det søkes om tilskudd for juli og august eller en av disse månedene
+2. fra og med 31. august 2020 til og med 1. januar 2021 hvis det søkes om tilskudd for oktober, november og desember eller en av disse månedene
+3. fra og med 15. mars 2021 til og med 31. august 2021 hvis det søkes om tilskudd for hele eller deler av denne perioden.
 
 (2) Som sammenlignbare stillinger, anses stillinger som fullt ut eller i ikke ubetydelig grad fyller samme funksjoner.
 
@@ -64,7 +77,21 @@ Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asb
 
 ### § 2-5. Ytterligere vilkår for tilskudd
 
-(1) Den som søker om tilskudd, må oppfylle følgende vilkår:Søker må kunne dokumentere sin fullstendige eierstruktur, herunder både direkte og indirekte reelle eiere.For å få tilskudd for 2020 måskatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 være betalt.skattemelding for formues- og inntektsskatt og årsregnskap for 2018 være levert av søker som driver skattepliktig virksomhet etablert i 2018 eller tidligere. Øvrige rapporteringsplikter etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8) med leveringsfrist i perioden 1. januar 2019 og frem til 1. oktober 2020, må være overholdt.For å få tilskudd for 2021 måskatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 være betalt.skattemelding for formues- og inntektsskatt og årsregnskap for 2019 være levert av søker som driver skattepliktig virksomhet etablert i 2019 eller tidligere. Øvrige rapporteringsplikter etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8) med leveringsfrist i perioden 1. januar 2019 og frem til 15. mars 2021, må være overholdt.Tilskuddsmottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.Søker kan ikke være registrert i Foretaksregisteret under avvikling.Det kan ikke eksistere tvangsgrunnlag eller avtale som gir særskilt dekningsrett i utbetalt tilskudd.Person med ledende roller knyttet til søker kan ikke være ilagt konkurskarantene, jf. [konkursloven](lov/1984-06-08-58) kapittel XVIII.
+(1) Den som søker om tilskudd, må oppfylle følgende vilkår:
+
+1. Søker må kunne dokumentere sin fullstendige eierstruktur, herunder både direkte og indirekte reelle eiere.
+2. For å få tilskudd for 2020 må
+
+   1. skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 være betalt.
+   2. skattemelding for formues- og inntektsskatt og årsregnskap for 2018 være levert av søker som driver skattepliktig virksomhet etablert i 2018 eller tidligere. Øvrige rapporteringsplikter etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8) med leveringsfrist i perioden 1. januar 2019 og frem til 1. oktober 2020, må være overholdt.
+3. For å få tilskudd for 2021 må
+
+   1. skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 være betalt.
+   2. skattemelding for formues- og inntektsskatt og årsregnskap for 2019 være levert av søker som driver skattepliktig virksomhet etablert i 2019 eller tidligere. Øvrige rapporteringsplikter etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8) med leveringsfrist i perioden 1. januar 2019 og frem til 15. mars 2021, må være overholdt.
+4. Tilskuddsmottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.
+5. Søker kan ikke være registrert i Foretaksregisteret under avvikling.
+6. Det kan ikke eksistere tvangsgrunnlag eller avtale som gir særskilt dekningsrett i utbetalt tilskudd.
+7. Person med ledende roller knyttet til søker kan ikke være ilagt konkurskarantene, jf. [konkursloven](lov/1984-06-08-58) kapittel XVIII.
 
 (2) Med person med ledende roller knyttet til søker menes daglig leder, styreleder, innehaver av enkeltpersonforetak, deltakere i ansvarlige selskap, hovedaksjonær eller den som kontrollerer selskapet indirekte selv eller gjennom nærstående som definert i [aksjeloven § 1-5](lov/1997-06-13-44/§1-5) første ledd, eller med annen særskilt tilknytning til virksomheten.
 
@@ -102,7 +129,11 @@ Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asb
 
 ### § 3-4. Dager i arbeid
 
-(1) Tilskuddet beregnes med et kronebeløp per dag den ansatte har vært i arbeid hos arbeidsgiver i støtteperioden. Som dager i arbeid regnes alle dager den ansatte ikke har værtpermittert på nyhelt sykemeldt etter arbeidsgiverperioden, jf. [folketrygdloven § 8-19](lov/1997-02-28-19/§8-19)i ulønnet permisjon.
+(1) Tilskuddet beregnes med et kronebeløp per dag den ansatte har vært i arbeid hos arbeidsgiver i støtteperioden. Som dager i arbeid regnes alle dager den ansatte ikke har vært
+
+1. permittert på ny
+2. helt sykemeldt etter arbeidsgiverperioden, jf. [folketrygdloven § 8-19](lov/1997-02-28-19/§8-19)
+3. i ulønnet permisjon.
 
 (2) Ved delvis sykemelding skal tilskuddet avkortes forholdsmessig etter arbeidsgiverperioden.
 
@@ -160,9 +191,23 @@ Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asb
 
 (1) Tilskuddsmyndigheten skal uten hinder av taushetsplikt ha tilgang til enhver opplysning som skattemyndighetene, jf. [skatteforvaltningsloven § 2-1](lov/2016-05-27-14/§2-1) til [§ 2-6](lov/2016-05-27-14/§2-6), og skattekontoret, jf. [skattebetalingsloven § 2-1](lov/2005-06-17-67/§2-1) første ledd, har eller mottar. Dette gjelder også opplysninger som skattemyndighetene har fått fra tredjeparter, herunder opplysninger etter [lov 17. april 2020 nr. 23 om midlertidig tilskuddsordning for foretak med stort omsetningsfall](lov/2020-04-17-23).
 
-(2) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende offentlige myndigheter til tilskuddsmyndigheten:folkeregistermyndighetendeltakende myndigheter i a-krimsentreneBrønnøysundregistreneArbeidstilsynetArbeids- og velferdsetatenandre offentlige myndigheter dersom opplysningene har betydning for forvaltningen av tilskuddsordningen.
+(2) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende offentlige myndigheter til tilskuddsmyndigheten:
 
-(3) [Skatteforvaltningsloven § 10-2](lov/2016-05-27-14/§10-2) gjelder ved innhenting av opplysninger fra private rettssubjekter. Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende private rettssubjekter til tilskuddsmyndigheten:banker og finansforetak, herunder opplysninger fra bankenes felles Konto- og adresseringsregister, opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av tilskuddsordningen og andre opplysninger av betydning for forvaltningen av tilskuddsordningenforsikringsselskap og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikringGjeldsregisteret, herunder oppdatert gjeldsinformasjoninkassovirksomheter, herunder inkassoopplysningerkredittvurderingsbyråer, herunder opplyser om betalingsanmerkninger og inkassosakertilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.
+1. folkeregistermyndigheten
+2. deltakende myndigheter i a-krimsentrene
+3. Brønnøysundregistrene
+4. Arbeidstilsynet
+5. Arbeids- og velferdsetaten
+6. andre offentlige myndigheter dersom opplysningene har betydning for forvaltningen av tilskuddsordningen.
+
+(3) [Skatteforvaltningsloven § 10-2](lov/2016-05-27-14/§10-2) gjelder ved innhenting av opplysninger fra private rettssubjekter. Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende private rettssubjekter til tilskuddsmyndigheten:
+
+1. banker og finansforetak, herunder opplysninger fra bankenes felles Konto- og adresseringsregister, opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av tilskuddsordningen og andre opplysninger av betydning for forvaltningen av tilskuddsordningen
+2. forsikringsselskap og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikring
+3. Gjeldsregisteret, herunder oppdatert gjeldsinformasjon
+4. inkassovirksomheter, herunder inkassoopplysninger
+5. kredittvurderingsbyråer, herunder opplyser om betalingsanmerkninger og inkassosaker
+6. tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.
 
 (4) Opplysningene skal leveres i den formen og innen den fristen Skattedirektoratet bestemmer.
 
@@ -174,7 +219,13 @@ Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asb
 
 (2) Søknad om tilskudd kan tidligst sendes inn etter utløpet av august og etter at søknadssystemet er åpnet. Siste frist for å sende inn søknad om tilskudd for juli og august 2020 er 5. november 2020. Siste frist for å sende inn søknad om tilskudd for oktober, november og desember 2020 er 1. mars 2021. Siste frist for å sende inn søknad om tilskudd for mars, april, mai og juni 2021 er 30. september 2021.Søknad om tilskudd for juli og august 2021 kan tidligst sendes inn 1. oktober 2021 og siste frist for å sende inn søknad er 31. oktober 2021.
 
-(3) Søker skal blant annet gi følgende opplysninger i søknadsskjemaet:Organisasjonsnummeromsetningstall for aktuelle perioder jf. [§ 3-1](forskrift/2020-06-29-1420/§3-1) til [§ 3-3](forskrift/2020-06-29-1420/§3-3)om søker er institusjon eller organisasjon som omfattes av [skatteloven § 2-32](lov/1999-03-26-14/§2-32)perioden det søkes om for henholdsvis lærlinger og øvrige ansatteopplysninger om ansatte har vært helt eller delvis sykemeldt.
+(3) Søker skal blant annet gi følgende opplysninger i søknadsskjemaet:
+
+1. Organisasjonsnummer
+2. omsetningstall for aktuelle perioder jf. [§ 3-1](forskrift/2020-06-29-1420/§3-1) til [§ 3-3](forskrift/2020-06-29-1420/§3-3)
+3. om søker er institusjon eller organisasjon som omfattes av [skatteloven § 2-32](lov/1999-03-26-14/§2-32)
+4. perioden det søkes om for henholdsvis lærlinger og øvrige ansatte
+5. opplysninger om ansatte har vært helt eller delvis sykemeldt.
 
 (4) Søker skal erklære å ha gjort seg kjent med regelverket og at foretaket faller inn under ordningen. Søker skal bekrefte at opplysningene er riktige, at de kan dokumenteres og at det på forespørsel kan legges frem bekreftelse fra revisor eller autorisert regnskapsfører. Søker skal også bekrefte at vedkommende er kjent med at det kan bli ilagt straff eller administrativ sanksjon dersom det er gitt uriktig eller ufullstendig opplysning, eller det unnlates å gi pliktig opplysning.
 
@@ -182,7 +233,16 @@ Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asb
 
 ### § 4-4. Hvem som kan sende inn søknad
 
-(1) Personer i virksomheten registrert med nøkkelrolle i Enhetsregisteret kan sende inn søknad. Med nøkkelrolle menes en av følgende roller:norsk representant for utenlandsk enhetstyrets lederkomplementarinnehaverdeltaker med fullt ansvardeltaker med delt ansvardaglig leder eller administrerende direktørbestyrende reder.
+(1) Personer i virksomheten registrert med nøkkelrolle i Enhetsregisteret kan sende inn søknad. Med nøkkelrolle menes en av følgende roller:
+
+1. norsk representant for utenlandsk enhet
+2. styrets leder
+3. komplementar
+4. innehaver
+5. deltaker med fullt ansvar
+6. deltaker med delt ansvar
+7. daglig leder eller administrerende direktør
+8. bestyrende reder.
 
 (2) Autorisert regnskapsfører og revisor kan søke på vegne av virksomheten.
 

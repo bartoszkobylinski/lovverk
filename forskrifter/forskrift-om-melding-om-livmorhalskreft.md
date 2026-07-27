@@ -15,7 +15,7 @@ xml_hash: "b226af72015922964e28c8d47c552ae5113c00565030b68cce3cb9b4ed8b135c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,23 @@ Formålet med masseundersøkelse for kreft i livmorhalsen er å redusere forekom
 
 1\. Alle cervixcytologiske prøver tatt av kvinner, også prøver med negativt funn, skal meldes til Sentralenheten for masseundersøkelse for kreft i livmorhalsen (heretter kalt Sentralenheten), som er knyttet til Kreftregisteret.
 
-2\. Følgende opplysninger skal meldes:Laboratoriets nummerFødselsdatoPersonnummerSlektsnavnFornavn og mellomnavnPostnummerÅrsak til cytologisk prøveMorfologi (diagnoseklassifikasjon)Topografi (klassifikasjon av hvor prøve er tatt)Antall måneder før eventuelt kontrollprøveHistologisk undersøkelse nødvendigSvarmånedSvarårDersom kvinnens personnummer er uoppgitt/usikkert, skal laboratoriet også, etter eventuell forespørsel fra Sentralenheten, oppgi hennes mulig tidligere navn samt adresse og bostedskommune og prøvetakers adresse.
+2\. Følgende opplysninger skal meldes:
+
+- Laboratoriets nummer
+- Fødselsdato
+- Personnummer
+- Slektsnavn
+- Fornavn og mellomnavn
+- Postnummer
+- Årsak til cytologisk prøve
+- Morfologi (diagnoseklassifikasjon)
+- Topografi (klassifikasjon av hvor prøve er tatt)
+- Antall måneder før eventuelt kontrollprøve
+- Histologisk undersøkelse nødvendig
+- Svarmåned
+- Svarår
+
+Dersom kvinnens personnummer er uoppgitt/usikkert, skal laboratoriet også, etter eventuell forespørsel fra Sentralenheten, oppgi hennes mulig tidligere navn samt adresse og bostedskommune og prøvetakers adresse.
 
 3\. Melding skal sendes i form av fastsatt cytologiremisse. I samråd med Sentralenheten kan det i stedet for papirkopi sendes melding i annen, maskinlesbar form, dersom det finnes mest hensiktsmessig.
 

@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1.
 
-Samordningsloven skal gjelde for følgende pensjonsordninger:Norges Banks pensjonskasse, Oslo.Pensjonsordning for Sporveien Oslo AS (lukket pensjonsordning fra 1. april 2015).Pensjonsordninger for tjenestemenn eller arbeidere i andre selvstendige statlige eller kommunale foretak og i øvrige institusjoner av offentlig karakter, for så vidt de ikke går inn under [samordningsloven § 1](lov/1957-07-06-26/§1) [punkt](lov/1957-07-06-26/kap1) 1 første ledd. Det kan således gjelde pensjonsordninger for sykehus, kraftselskaper, billag og rederiselskaper.
+Samordningsloven skal gjelde for følgende pensjonsordninger:
+
+1. Norges Banks pensjonskasse, Oslo.
+
+   Pensjonsordning for Sporveien Oslo AS (lukket pensjonsordning fra 1. april 2015).
+2. Pensjonsordninger for tjenestemenn eller arbeidere i andre selvstendige statlige eller kommunale foretak og i øvrige institusjoner av offentlig karakter, for så vidt de ikke går inn under [samordningsloven § 1](lov/1957-07-06-26/§1) [punkt](lov/1957-07-06-26/kap1) 1 første ledd. Det kan således gjelde pensjonsordninger for sykehus, kraftselskaper, billag og rederiselskaper.
 
 > Endret ved [forskrift 20 des 2019 nr. 2150](forskrift/2019-12-20-2150) (i kraft 1 jan 2020).
 

@@ -42,7 +42,11 @@ Forskriften gjelder ikke for bruk av motorisert innretning med maksimal egenvekt
 
 ### § 1-3. Definisjoner
 
-I denne forskriften menes med:*Mikrolett luftfartøy:* Luftfartøy angitt i forordning [(EU) 2018/1139](eu/32018r1139), vedlegg 1 bokstav e eller f, og som ikke er sertifisert etter forordning [(EF) nr. 216/2008](eu/32008r0216) eller forordning [(EU) 2018/1139](eu/32018r1139), og slik sertifisering heller ikke er påbegynt.*Sportsluftfartøy:* Luftfartøy angitt i forordning [(EU) 2018/1139](eu/32018r1139) artikkel 2 nr. 8, og som ikke er et mikrolett luftfartøy, og som ikke er sertifisert etter forordning [(EF) nr. 216/2008](eu/32008r0216) eller forordning [(EU) 2018/1139](eu/32018r1139), og slik sertifisering heller ikke er påbegynt.*Sportsflyging:* Privat bruk av mikrolett luftfartøy og sportsluftfartøy.
+I denne forskriften menes med:
+
+1. *Mikrolett luftfartøy:* Luftfartøy angitt i forordning [(EU) 2018/1139](eu/32018r1139), vedlegg 1 bokstav e eller f, og som ikke er sertifisert etter forordning [(EF) nr. 216/2008](eu/32008r0216) eller forordning [(EU) 2018/1139](eu/32018r1139), og slik sertifisering heller ikke er påbegynt.
+2. *Sportsluftfartøy:* Luftfartøy angitt i forordning [(EU) 2018/1139](eu/32018r1139) artikkel 2 nr. 8, og som ikke er et mikrolett luftfartøy, og som ikke er sertifisert etter forordning [(EF) nr. 216/2008](eu/32008r0216) eller forordning [(EU) 2018/1139](eu/32018r1139), og slik sertifisering heller ikke er påbegynt.
+3. *Sportsflyging:* Privat bruk av mikrolett luftfartøy og sportsluftfartøy.
 
 ### § 1-4. Ansvarlig myndighet og klageinstans
 
@@ -72,7 +76,17 @@ Organisasjonen skal være oppbygd og dimensjonert på en måte som sikrer at den
 
 Sikkerhetssystemet skal være et kvalitets- og risikostyringssystem som omfatter all aktivitet med mikrolett luftfartøy og sportsluftfartøy.
 
-Sikkerhetssystemet skal minst inneholde:Beskrivelse av organisasjonen med ansvars- og myndighetslinjer.Beskrivelse av organisasjonens risikostyringssystem.Beskrivelse av hvordan organisasjonen løpende skal legge til rette for at hver flyging gjennomføres etter regelverket og sikkerhetssystemet.Beskrivelse av kravene til luftdyktighet, inkludert utstedelse av flygetillatelse.Beskrivelse av kravene til opplæring og oppfølging av kompetanse for alt personell som har oppgaver som ivaretar flysikkerheten, inkludert godkjenning av flygere og teknisk personell. Kompetansekravene for flygere skal være tilpasset aktuelt luftfartøys egenskaper og kompleksitet.Beskrivelse av organisasjonens rapporteringssystem.Beskrivelse av hvordan organisasjonen skal sørge for at sikkerhetssystemet etterleves og håndheves.Beskrivelse av hvordan organisasjonen skal sørge for at sikkerhetssystemet utvikles og forbedres.Beskrivelse av hvordan organisasjonen skal arbeide med systematisk sikkerhetsformidling.
+Sikkerhetssystemet skal minst inneholde:
+
+1. Beskrivelse av organisasjonen med ansvars- og myndighetslinjer.
+2. Beskrivelse av organisasjonens risikostyringssystem.
+3. Beskrivelse av hvordan organisasjonen løpende skal legge til rette for at hver flyging gjennomføres etter regelverket og sikkerhetssystemet.
+4. Beskrivelse av kravene til luftdyktighet, inkludert utstedelse av flygetillatelse.
+5. Beskrivelse av kravene til opplæring og oppfølging av kompetanse for alt personell som har oppgaver som ivaretar flysikkerheten, inkludert godkjenning av flygere og teknisk personell. Kompetansekravene for flygere skal være tilpasset aktuelt luftfartøys egenskaper og kompleksitet.
+6. Beskrivelse av organisasjonens rapporteringssystem.
+7. Beskrivelse av hvordan organisasjonen skal sørge for at sikkerhetssystemet etterleves og håndheves.
+8. Beskrivelse av hvordan organisasjonen skal sørge for at sikkerhetssystemet utvikles og forbedres.
+9. Beskrivelse av hvordan organisasjonen skal arbeide med systematisk sikkerhetsformidling.
 
 ### § 2-4. Endringer
 
@@ -126,7 +140,10 @@ Organisasjon med sikkerhetssystem skal føre et elektronisk register over utsted
 
 ### § 4-3. Radiotelefoni og språkferdighet
 
-Følgende krav gjelder ved utstedelse av kompetansebevis:Den som søker om kompetansebevis må enten ha flytelefonistsertifikat med påtegning for engelsk språkferdighet utstedt etter [forskrift 18. november 2009 nr. 1383 om flytelefonistsertifikat (BSL C 5-2a)](forskrift/2009-11-18-1383), ellerha gjennomgått og bestått tilsvarende opplæring som etter BSL C 5-2a, som beskrevet i sikkerhetssystemet.
+Følgende krav gjelder ved utstedelse av kompetansebevis:
+
+1. Den som søker om kompetansebevis må enten ha flytelefonistsertifikat med påtegning for engelsk språkferdighet utstedt etter [forskrift 18. november 2009 nr. 1383 om flytelefonistsertifikat (BSL C 5-2a)](forskrift/2009-11-18-1383), eller
+2. ha gjennomgått og bestått tilsvarende opplæring som etter BSL C 5-2a, som beskrevet i sikkerhetssystemet.
 
 Kvalifikasjonen skal påtegnes i kompetansebeviset ved utstedelsen. Slik påtegning i kompetansebeviset gir kun rett til bruk av radio ved flyging etter denne forskriften.
 
@@ -174,7 +191,14 @@ Den særskilte flygetillatelsen gjelder bare for flyging innenfor sikkerhetssyst
 
 ### § 5-5. Maksimal avgangsmasse
 
-Luftfartøyet skal ha en maksimal avgangsmasse som ikke overstiger:600 kg for en- eller toseters fly, helikopter med landunderstell og gyrokopter, uavhengig av antall seter,650 kg for en- eller toseters fly og helikopter med sjø-/amfibieunderstell,300 kg for enseters motordrevet fallskjerm uten redningsskjerm,315 kg for enseters motordrevet fallskjerm med redningsskjerm,450 kg for toseters motordrevet fallskjerm uten redningsskjerm, eller475 kg for toseters motordrevet fallskjerm med redningsskjerm.
+Luftfartøyet skal ha en maksimal avgangsmasse som ikke overstiger:
+
+1. 600 kg for en- eller toseters fly, helikopter med landunderstell og gyrokopter, uavhengig av antall seter,
+2. 650 kg for en- eller toseters fly og helikopter med sjø-/amfibieunderstell,
+3. 300 kg for enseters motordrevet fallskjerm uten redningsskjerm,
+4. 315 kg for enseters motordrevet fallskjerm med redningsskjerm,
+5. 450 kg for toseters motordrevet fallskjerm uten redningsskjerm, eller
+6. 475 kg for toseters motordrevet fallskjerm med redningsskjerm.
 
 ### § 5-6. Krav til nyttelast
 
@@ -198,7 +222,11 @@ Helikopter skal være utrustet med instrument som gir varsel om for høyt og for
 
 ### § 5-10. Krav til merking mv.
 
-Luftfartøyet skal være tydelig merket etter kravene i sikkerhetssystemet. I tillegg skal:alle håndtak eller låser for åpning og lukking av cockpit og kabin være merket innvendig og utvendig, inkludert med operasjonsretning for nødbruk.fyllingspunkter for drivstoff være merket og angi drivstofftype.tillatt nyttelast være merket på et lett synlig sted for flyger og eventuell passasjer.
+Luftfartøyet skal være tydelig merket etter kravene i sikkerhetssystemet. I tillegg skal:
+
+1. alle håndtak eller låser for åpning og lukking av cockpit og kabin være merket innvendig og utvendig, inkludert med operasjonsretning for nødbruk.
+2. fyllingspunkter for drivstoff være merket og angi drivstofftype.
+3. tillatt nyttelast være merket på et lett synlig sted for flyger og eventuell passasjer.
 
 Dersom luftfartøyet har skrogmontert redningsskjerm skal plasseringen av denne være merket. Halepartiet skal i tillegg ha minst ett merke om at luftfartøyet er utrustet med slik redningsskjerm.
 
@@ -274,7 +302,10 @@ Et luftfartøy kan ikke registreres dersom det er registrert i et annet lands re
 
 Registrering skjer på grunnlag av skriftlig søknad.
 
-Søknaden skal:gi opplysning om luftfartøyets fabrikant, typebetegnelse, årsmodell og serienummer, ogopplyse navn og kontaktinformasjon til den som eier luftfartøyet.
+Søknaden skal:
+
+1. gi opplysning om luftfartøyets fabrikant, typebetegnelse, årsmodell og serienummer, og
+2. opplyse navn og kontaktinformasjon til den som eier luftfartøyet.
 
 ### § 6-6. Registrering og registreringsmerke
 
@@ -286,7 +317,11 @@ Etter innføring i registeret skal det utstedes registreringsbevis. Registrering
 
 Ved endring i hvem som eier et registrert luftfartøy, skal den som registeret identifiserer som eier straks melde fra til registeret. Meldingen skal inneholde navn og kontaktinformasjon for ny eier.
 
-Et luftfartøy skal avregistreres når:det begjæres av den som registeret identifiserer som eier,fartøyet er totalt havarert, ellerfartøyet ikke har hatt gyldig flygetillatelse eller særskilt flygetillatelse siste tre år.
+Et luftfartøy skal avregistreres når:
+
+1. det begjæres av den som registeret identifiserer som eier,
+2. fartøyet er totalt havarert, eller
+3. fartøyet ikke har hatt gyldig flygetillatelse eller særskilt flygetillatelse siste tre år.
 
 ## Kapittel 7. Bruk av utenlandsk registrert luftfartøy
 
@@ -320,8 +355,14 @@ Luftfartstilsynet kan dispensere fra bestemmelsene i denne forskriften etter sø
 
 Forskriften trer i kraft straks.
 
-Fra samme tidspunkt oppheves[forskrift 22. november 2007 nr. 1317 om flyging med mikrolette luftfartøy (BSL D 4-8)](forskrift/2007-11-22-1317)[forskrift 19. januar 2007 nr. 58 om tekniske krav mv. for sivile luftfartøy med startmasse (MTOM) inntil 495 kg (BSL B 2-5)](forskrift/2007-01-19-58).
+Fra samme tidspunkt oppheves
+
+1. [forskrift 22. november 2007 nr. 1317 om flyging med mikrolette luftfartøy (BSL D 4-8)](forskrift/2007-11-22-1317)
+2. [forskrift 19. januar 2007 nr. 58 om tekniske krav mv. for sivile luftfartøy med startmasse (MTOM) inntil 495 kg (BSL B 2-5)](forskrift/2007-01-19-58).
 
 ### § 9-2. Endringer i andre forskrifter
 
-Fra tidspunktet forskriften trer i kraft gjøres følgende endringer:Endringer i [forskrift 5. februar 2004 nr. 393 om registrering av luftfartøy m.m](forskrift/2004-02-05-393) – – –Endring i [forskrift 26. juni 2007 nr. 721 om selvbygde luftfartøy (selvbyggerforskriften)](forskrift/2007-06-26-721) – – –
+Fra tidspunktet forskriften trer i kraft gjøres følgende endringer:
+
+1. Endringer i [forskrift 5. februar 2004 nr. 393 om registrering av luftfartøy m.m](forskrift/2004-02-05-393) – – –
+2. Endring i [forskrift 26. juni 2007 nr. 721 om selvbygde luftfartøy (selvbyggerforskriften)](forskrift/2007-06-26-721) – – –

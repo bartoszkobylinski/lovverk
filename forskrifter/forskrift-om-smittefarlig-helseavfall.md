@@ -17,7 +17,7 @@ xml_hash: "c0466de1d347841961119c161516b8b0a331f2921f4db8e7e5e6e774a0a6f994"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,14 @@ Forskriften gjelder ikke håndtering som omfattes av [forskrift 12. september 19
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*avfall:* kasserte løsøregjenstander eller stoffer. Som avfall regnes også overflødige løsøregjenstander og stoffer fra tjenesteyting, produksjon og renseanlegg mv.*smittefarlig avfall:* avfall fra medisinsk behandling eller veterinærbehandling og//eller tilhørende undervisning, forskning og diagnostikk som inneholder levedyktige mikroorganismer eller deres toksiner som kan forårsake sykdom hos mennesker eller andre levende organismer.*håndtering:* en fellesbetegnelse for innsamling, mottak, mellomlagring og behandling av smittefarlig avfall.*behandling:* fysiske/kjemiske/biologiske prosesser som endrer avfallets egenskaper og som er nødvendige eller hensiktsmessige for endelig anbringelse av avfallet.*helsetjeneste:* primærhelsetjenesten, spesialisthelsetjenesten, tannhelsetjenesten og annen medisinsk virksomhet.*dyrehelsetjeneste:* virksomhet hvor veterinærer eller annet dyrehelsepersonell yter helsehjelp til dyr.
+I denne forskriften menes med:
+
+1. *avfall:* kasserte løsøregjenstander eller stoffer. Som avfall regnes også overflødige løsøregjenstander og stoffer fra tjenesteyting, produksjon og renseanlegg mv.
+2. *smittefarlig avfall:* avfall fra medisinsk behandling eller veterinærbehandling og//eller tilhørende undervisning, forskning og diagnostikk som inneholder levedyktige mikroorganismer eller deres toksiner som kan forårsake sykdom hos mennesker eller andre levende organismer.
+3. *håndtering:* en fellesbetegnelse for innsamling, mottak, mellomlagring og behandling av smittefarlig avfall.
+4. *behandling:* fysiske/kjemiske/biologiske prosesser som endrer avfallets egenskaper og som er nødvendige eller hensiktsmessige for endelig anbringelse av avfallet.
+5. *helsetjeneste:* primærhelsetjenesten, spesialisthelsetjenesten, tannhelsetjenesten og annen medisinsk virksomhet.
+6. *dyrehelsetjeneste:* virksomhet hvor veterinærer eller annet dyrehelsepersonell yter helsehjelp til dyr.
 
 ## § 4. Forsvarlig oppbevaring, håndtering og transport av smittefarlig avfall
 
@@ -142,7 +149,12 @@ Døde dyr (inkl. fisk), slakteavfall og kassert melk er eksempler på animalsk a
 
 *Til bokstav b – smittefarlig avfall*
 
-Avfall som kan være smittefarlig:Avfall som er direkte forurenset med sekret, puss o.l. fra pasienter med alvorlige infeksjoner (for eksempel brukte bandasjer, drensmateriell, hansker, munnbind, bleier og liknende).Stikkende/skjærende avfall, for eksempel brukte kanyler, brukte skalpellblader, brukte sakser og pinsetter, reagensrør med blod, puss eller vevsrester.Vevsbiter, organer, blod og blodprodukter (inkludert serum, plasma og andre komponenter fra blod), samt blodige bandasjer.Avfall fra luftsmitteisolater.
+Avfall som kan være smittefarlig:
+
+1. Avfall som er direkte forurenset med sekret, puss o.l. fra pasienter med alvorlige infeksjoner (for eksempel brukte bandasjer, drensmateriell, hansker, munnbind, bleier og liknende).
+2. Stikkende/skjærende avfall, for eksempel brukte kanyler, brukte skalpellblader, brukte sakser og pinsetter, reagensrør med blod, puss eller vevsrester.
+3. Vevsbiter, organer, blod og blodprodukter (inkludert serum, plasma og andre komponenter fra blod), samt blodige bandasjer.
+4. Avfall fra luftsmitteisolater.
 
 Det er ikke alt avfall fra helse- og dyrehelsetjeneste som omfattes av forskriften. Kun der avfallet inneholder levedyktige organismer eller deres toksiner, og det er kjent for eller antatt å kunne forårsake sykdom, vil forskriften komme til anvendelse. Det er kun der for eksempel munnbind eller bleier kan forårsake smitte at det skal behandles etter forskriften. For helsetjenesten vises det for øvrig til det generelle kravet til forsvarlig virksomhet.
 
@@ -238,7 +250,14 @@ Både avfallsbesitter og den som håndterer smittefarlig avfall skal sørge for 
 
 Når det gjelder dokumentasjon om hvordan det smittefarlige avfallet er transportert, kan relevant dokumentasjon være faktura eller avtale med transportselskapet.
 
-Ved dokumentasjon av type og opprinnelse bør følgende koder fra den europeiske avfallslisten (EAL) anvendes:Smittefarlig avfall fra helsetjenesten:18 01 03\* (avfall der innsamling og disponering er underlagt særlige krav av hensyn til forebygging av infeksjoner)Smittefarlig avfall fra dyrehelsetjenesten:18 02 02\* (avfall der innsamling og disponering er underlagt særlige krav av hensyn til forebygging av infeksjoner)
+Ved dokumentasjon av type og opprinnelse bør følgende koder fra den europeiske avfallslisten (EAL) anvendes:
+
+- Smittefarlig avfall fra helsetjenesten:
+
+  - 18 01 03\* (avfall der innsamling og disponering er underlagt særlige krav av hensyn til forebygging av infeksjoner)
+- Smittefarlig avfall fra dyrehelsetjenesten:
+
+  - 18 02 02\* (avfall der innsamling og disponering er underlagt særlige krav av hensyn til forebygging av infeksjoner)
 
 Den ansvarlige for virksomheten bør sørge for at dokumentasjonen inngår i virksomhetens internkontrollsystem.
 

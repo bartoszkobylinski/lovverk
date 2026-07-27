@@ -15,7 +15,7 @@ xml_hash: "a299c9873e31edd747164ee12c5689c50da768e57ca58f1d8249d64017575221"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,12 @@ Dersom det er ledige studieplasser etter at det ordinære opptaket er gjennomfø
 
 ### § 2-5. Betinget opptak
 
-Søkere som på grunn av spesielle omstendigheter ikke kan avlegge eksamen i videregående opplæring, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:søkeren består eksamen i videregående opplæring i løpet av første semester etter opptak,søkeren har standpunktkarakteren 2 eller bedre i faget,ikke allerede har avsluttende vurdering i faget,oppfyller fastsatte karakterkrav når eksamen er avlagt.
+Søkere som på grunn av spesielle omstendigheter ikke kan avlegge eksamen i videregående opplæring, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:
+
+1. søkeren består eksamen i videregående opplæring i løpet av første semester etter opptak,
+2. søkeren har standpunktkarakteren 2 eller bedre i faget,
+3. ikke allerede har avsluttende vurdering i faget,
+4. oppfyller fastsatte karakterkrav når eksamen er avlagt.
 
 Med spesielle omstendigheter menes sykdom, ulykke eller dødsfall i nær familie. Administrasjonen ved Jusutdanning kan også godkjenne andre spesielle omstendigheter.
 
@@ -136,7 +141,11 @@ Klagenemnden ved Jusutdanning kan annullere godskrivingen eller fritaket som stu
 
 Administrasjonen ved Jusutdanning skal sørge for at studentens kunnskaper, ferdigheter og generell kompetanse blir prøvd og vurdert på en upartisk og faglig betryggende måte. Dette ivaretas blant annet ved at kandidater og sensorer er anonyme overfor hverandre. Vurderingen gjennomføres i overenstemmelse med den gjeldende studieplanen og skal vurdere det faglige nivået som er oppnådd ved den aktuelle utdanningen.
 
-Studenten har adgang til å avlegge ordinær eksamen når følgende betingelser er oppfylt:studieplanen ved utdanningen gir eksamensrett til den aktuelle eksamen,studiekontingenten i sin helhet er betalt,studenten er innenfor antall eksamensforsøk for den aktuelle enkelteksamen.
+Studenten har adgang til å avlegge ordinær eksamen når følgende betingelser er oppfylt:
+
+1. studieplanen ved utdanningen gir eksamensrett til den aktuelle eksamen,
+2. studiekontingenten i sin helhet er betalt,
+3. studenten er innenfor antall eksamensforsøk for den aktuelle enkelteksamen.
 
 Vedtak om å nekte studenten å ta eksamen skal fattes av administrasjonen ved Jusutdanning og kan påklages innen tre uker fra vedtaket er kunngjort. Hvis ikke klagen tas til følge, skal klagen oversendes Klagenemnden ved Jusutdanning for endelig avgjørelse.
 
@@ -155,7 +164,11 @@ Den graderte karakterskalaen har følgende beskrivelser:
 | E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
 | F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet |
 
-Vitnemål utstedes til kandidater som har fullført og bestått utdanningen. Dette forutsetter at følgende betingelser er oppfylt:alle eksamener og vurderingssituasjoner er bestått,praksis er fullført og bestått,studiekontingenten i sin helhet er betalt.
+Vitnemål utstedes til kandidater som har fullført og bestått utdanningen. Dette forutsetter at følgende betingelser er oppfylt:
+
+1. alle eksamener og vurderingssituasjoner er bestått,
+2. praksis er fullført og bestått,
+3. studiekontingenten i sin helhet er betalt.
 
 Det utstedes ett elektronisk vitnemål til hver kandidat i pdf-format. Bestilles det ny versjon av vitnemålet vil det påløpe et gebyr som må betales før mottakelse av ny versjon. Dersom kun deler av utdanningen er fullført, vil kandidaten kunne få tilsendt karakterutskrift i pdf-format.
 
@@ -165,7 +178,11 @@ Formålet med tilrettelegging er å kompensere for ulempene kandidaten har i for
 
 Kandidater som har særskilte behov for tilrettelegging av eksamen, må sende skriftlig søknad til administrasjonen ved Jusutdanning senest 8 uker før eksamen. Søknaden må inneholde dokumentasjon fra lege, psykolog, logoped eller annen sakkyndig. I særlige tilfeller kan søknad om tilrettelegging vurderes for å gjelde hele utdanningsløpet.
 
-Tilretteleggingen kan i sykdomstilfeller eller andre særegne situasjoner være:utvidet tid på eksamen,alternativ eksamensform,godkjent bruk av andre hjelpemidler på eksamen.
+Tilretteleggingen kan i sykdomstilfeller eller andre særegne situasjoner være:
+
+1. utvidet tid på eksamen,
+2. alternativ eksamensform,
+3. godkjent bruk av andre hjelpemidler på eksamen.
 
 Ved akutt sykdom eller skade like før eksamen, må administrasjonen ved Jusutdanning varsles om dette før eksamen starter. Dersom eksamen må avbrytes underveis grunnet akutt sykdom, må administrasjonen varsles umiddelbart.
 
@@ -219,7 +236,11 @@ Kandidaten har inntil to nye eksamensforsøk pr enkelteksamen, til sammen tre ek
 
 Det er den beste eksamenskarakteren som gjøres gjeldende og fremkommer på vitnemålet.
 
-Det kan gjennomføres ny eksamen ved følgende tilfeller:kandidaten fikk karakteren F (ikke bestått) på den ordinære eksamen,kandidaten ønsker å forberede karakteren,kandidaten møtte ikke til den ordinære eksamen.
+Det kan gjennomføres ny eksamen ved følgende tilfeller:
+
+1. kandidaten fikk karakteren F (ikke bestått) på den ordinære eksamen,
+2. kandidaten ønsker å forberede karakteren,
+3. kandidaten møtte ikke til den ordinære eksamen.
 
 Ny eksamen vil normalt avholdes ved neste ordinære gjennomføring av den enkelte eksamen. Kandidater som ønsker å avlegge ny eksamen må melde seg opp til ny eksamen senest seks uker før den neste eksamen avholdes.
 
@@ -265,7 +286,12 @@ Klagefristen er 3 uker fra det tidspunktet underretning om vedtaket er kommet fr
 
 ### § 5-5. Klagens adressat, form og innhold
 
-Erklæringen om klage skalfremsettes for administrasjonen ved Jusutdanning,undertegnes av klageren,nevne vedtaket det klages over, ognevne endringen som ønskes i vedtaket.
+Erklæringen om klage skal
+
+1. fremsettes for administrasjonen ved Jusutdanning,
+2. undertegnes av klageren,
+3. nevne vedtaket det klages over, og
+4. nevne endringen som ønskes i vedtaket.
 
 Klagen bør begrunnes. Klagen skal dateres for å vise at klagen er innenfor klagefristen.
 
@@ -283,13 +309,28 @@ Klagenemnden ved Jusutdanning skal ha fem medlemmer med personlige varamedlemmer
 
 Klagenemnden ved Jusutdanning er vedtaksdyktige når lederen eller varamedlemmet for lederen og minst to andre medlemmer eller varamedlemmer er til stede eller deltar på annen måte i behandling av saken.
 
-Klagenemnden ved Jusutdanning fatter enkeltvedtak i følgende tilfeller:annullering av eksamen eller prøve, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24),bortvisning og utestenging, jf. [fagskoleloven § 25](lov/2018-06-08-28/§25),vurdering av skikkethet, jf. [fagskoleloven § 26](lov/2018-06-08-28/§26),krav om politiattest, jf. [fagskoleloven § 27](lov/2018-06-08-28/§27).
+Klagenemnden ved Jusutdanning fatter enkeltvedtak i følgende tilfeller:
 
-Klagenemnden ved Jusutdanning er klageinstans i følgende tilfeller:klage på vedtak om godskriving og fritak, jf. [fagskoleloven § 8](lov/2018-06-08-28/§8),enkeltvedtak fattet av fagskolen, jf. [fagskoleloven § 20](lov/2018-06-08-28/§20),klage på formelle feil ved eksamen, jf. [fagskoleloven § 23](lov/2018-06-08-28/§23).
+1. annullering av eksamen eller prøve, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24),
+2. bortvisning og utestenging, jf. [fagskoleloven § 25](lov/2018-06-08-28/§25),
+3. vurdering av skikkethet, jf. [fagskoleloven § 26](lov/2018-06-08-28/§26),
+4. krav om politiattest, jf. [fagskoleloven § 27](lov/2018-06-08-28/§27).
+
+Klagenemnden ved Jusutdanning er klageinstans i følgende tilfeller:
+
+1. klage på vedtak om godskriving og fritak, jf. [fagskoleloven § 8](lov/2018-06-08-28/§8),
+2. enkeltvedtak fattet av fagskolen, jf. [fagskoleloven § 20](lov/2018-06-08-28/§20),
+3. klage på formelle feil ved eksamen, jf. [fagskoleloven § 23](lov/2018-06-08-28/§23).
 
 ### § 5-8. Nasjonalt klageorgan for fagskoleutdanning
 
-Nasjonalt klageorgan for fagskoleutdanning sin oppgave er å behandle klager over enkeltvedtak med lovhjemmel i:[fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolens opptaksvedtak om realkompetanse, jf. § 7 første ledd eller spesielle opptakskrav, jf. § 7 femte ledd,[fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve,[fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging,[fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet,[fagskoleloven § 27](lov/2018-06-08-28/§27) om politiattest.
+Nasjonalt klageorgan for fagskoleutdanning sin oppgave er å behandle klager over enkeltvedtak med lovhjemmel i:
+
+1. [fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolens opptaksvedtak om realkompetanse, jf. § 7 første ledd eller spesielle opptakskrav, jf. § 7 femte ledd,
+2. [fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve,
+3. [fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging,
+4. [fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet,
+5. [fagskoleloven § 27](lov/2018-06-08-28/§27) om politiattest.
 
 ## Kapittel 6. Fusk, annullering av eksamen, bortvisning og utestenging
 
@@ -297,7 +338,11 @@ Nasjonalt klageorgan for fagskoleutdanning sin oppgave er å behandle klager ove
 
 Handlinger som har til hensikt å gi seg selv eller andre en uberettiget fordel på eksamen eller ved en annen vurderingsordning, anses som fusk eller forsøk på fusk.
 
-Dette omfatter blant annet følgende situasjoner:studenten har kjennskap til eksamensoppgaven før eksamen starter,studenten samarbeider med andre i vurderingssituasjoner hvor det ikke er tillatt med samarbeid, ellerstudenten benytter plagiat eller feilaktig eller manglende kildebruk slik at teksten fremstår som studentens egen.
+Dette omfatter blant annet følgende situasjoner:
+
+1. studenten har kjennskap til eksamensoppgaven før eksamen starter,
+2. studenten samarbeider med andre i vurderingssituasjoner hvor det ikke er tillatt med samarbeid, eller
+3. studenten benytter plagiat eller feilaktig eller manglende kildebruk slik at teksten fremstår som studentens egen.
 
 Dersom det foreligger mistanke om fusk eller forsøk på fusk, skal administrasjonen opprette sak for behandling i Klagenemnden ved Jusutdanning.
 

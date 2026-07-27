@@ -15,7 +15,7 @@ xml_hash: "27733de8ba7c90126d090d1bcfcef45e25550f123107054be7cc5c9d329af3a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,14 +44,28 @@ eu_basis: []
 
 ### Beholderen.
 
-1. Beholderen skal ha et rominnhold av minst 50 liter med en høyde på ca. 50 cm. Beholderens øvre diameter skal være ca. 40 cm og nedre diameter ca. 36 cm.Beholderen må være stabelbar, d.v.s flere beholdere (minst 6) må kunne stilles opp i hverandre.Beholderen skal lages uten bærehåndtak, og den øvre kan må være glatt, slik at ikke plastposen skades.
+1. Beholderen skal ha et rominnhold av minst 50 liter med en høyde på ca. 50 cm. Beholderens øvre diameter skal være ca. 40 cm og nedre diameter ca. 36 cm.
+
+   Beholderen må være stabelbar, d.v.s flere beholdere (minst 6) må kunne stilles opp i hverandre.
+
+   Beholderen skal lages uten bærehåndtak, og den øvre kan må være glatt, slik at ikke plastposen skades.
 2. Beholderen skal være laget av ikke lett antennelig materiale som tåler hardhendt behandling – også i kulde ned til -25°C – og ha glatt, blank overflate som er lett å rengjøre. Materialet må være lagringsbestandig over et lengre tidsrom og motstandsdyktig mot fuktighet (om nødvendig korrosjonsbehandlet), også drypp fra vegger og tak av betong. Materialet må være motstandsdyktig mot avføring, urin og kjemikalier av den art som vanligvis brukes i tørrklosetter.
 3. Setets diameter skal være ca. 30 cm. Materialet skal være som beskrevet i pkt. 2. Setets øvre diameter må være avrundet og setets underside skal være glatt, slik at ikke plastposen skades.
-4. Lokket skal være tettsluttende til setet.Materialet i lokket skal være som beskrevet i pkt. 2.Lokket forsynes med håndtak som minst mulig hindrer stabelbarheten.
+4. Lokket skal være tettsluttende til setet.
+
+   Materialet i lokket skal være som beskrevet i pkt. 2.
+
+   Lokket forsynes med håndtak som minst mulig hindrer stabelbarheten.
 
 ### Plastposen.
 
-1. Posen skal lages av et ugjennomsiktig plastmateriale som er væsketett. Posens høyde skal være ca. 100 cm og dens bredde ca. 65 cm slik at det blir en rikelig «krage» utover beholderens øvre kant og som gjør det mulig å snøre posen igjen når den er full.Posen må være så mekanisk sterk at den tåler robust behandling uten at det oppstår rifter, og tåle belastning med et innhold på min. 50 kg uten at den revner.Posen må kunne snøres igjen uten at den beskadiges.Posen må lett kunne håndteres ned til -10°C. Den må være lagringsdyktig over et lengre tidsrom og motstandsdyktig mot ytre fuktighet og mot avføring, urin og kjemikalier av den art som vanligvis brukes i tørrklosetter.
+1. Posen skal lages av et ugjennomsiktig plastmateriale som er væsketett. Posens høyde skal være ca. 100 cm og dens bredde ca. 65 cm slik at det blir en rikelig «krage» utover beholderens øvre kant og som gjør det mulig å snøre posen igjen når den er full.
+
+   Posen må være så mekanisk sterk at den tåler robust behandling uten at det oppstår rifter, og tåle belastning med et innhold på min. 50 kg uten at den revner.
+
+   Posen må kunne snøres igjen uten at den beskadiges.
+
+   Posen må lett kunne håndteres ned til -10°C. Den må være lagringsdyktig over et lengre tidsrom og motstandsdyktig mot ytre fuktighet og mot avføring, urin og kjemikalier av den art som vanligvis brukes i tørrklosetter.
 2. Til hver beholder skal det være minst 6. stk. poser.
 
 ### Prøvekrav.
@@ -66,23 +80,41 @@ Ovenstående krav prøves etter bilag 1.
 
 Beholder.
 
-1. Sammentrykking av beholder ved +35°C og ved -25°C etter nedsenking i vann i ett døgn ved romtemperatur, etter å være sluppet 5 ganger mot betonggulv fra 2 meters høyde (45° vinkel).Krav: a) maks 5 % sammentrykking ved 200 kg belasting fordelt over segment lik 1/2 radius.(Fig. utelatt).Krav: b) maks. 50 % sammentrykking, ingen sprekker ved belasting som overfor av 300 kg kun ved – 25°C.
+1. Sammentrykking av beholder ved +35°C og ved -25°C etter nedsenking i vann i ett døgn ved romtemperatur, etter å være sluppet 5 ganger mot betonggulv fra 2 meters høyde (45° vinkel).
+
+   Krav: a) maks 5 % sammentrykking ved 200 kg belasting fordelt over segment lik 1/2 radius.
+
+   (Fig. utelatt).
+
+   Krav: b) maks. 50 % sammentrykking, ingen sprekker ved belasting som overfor av 300 kg kun ved – 25°C.
 2. Beholder av polyetylen prøves for tendens til spenningskorrosjon i henhold til Bell Telephone Test.
 
 Pose.
 
-1. Full pose (50 kg) med vann + 35°C slippes 3 ganger fra 50 cm høyde.Krav: Ingen lekkasje.
-2. Strekkfasthet av posematerialet før og etter nedsenking 14 døgn i en tilfeldig valg ren saneringsvæske som dekker kravene til Britisk Standard 2893 (formalhyd preparation).Krav: maks. 10 % reduksjon av strekkfasthet etter nedsenking i saneringsvæske.
-3. Riving av posematerialet ved -24°C.Krav: Seigt brudd.
-4. Vannfylt pose, romtemperatur, horisontalt støt med 2 kg stålkule (ca. 8 cm diam.) med hastighet tilsvarende 1 m fritt fall (ca. 4.4 m/sek.). Treffpunkt 1/4 av høyden fra bunnen.Krav: Ingen lekkasje.
+1. Full pose (50 kg) med vann + 35°C slippes 3 ganger fra 50 cm høyde.
+
+   Krav: Ingen lekkasje.
+2. Strekkfasthet av posematerialet før og etter nedsenking 14 døgn i en tilfeldig valg ren saneringsvæske som dekker kravene til Britisk Standard 2893 (formalhyd preparation).
+
+   Krav: maks. 10 % reduksjon av strekkfasthet etter nedsenking i saneringsvæske.
+3. Riving av posematerialet ved -24°C.
+
+   Krav: Seigt brudd.
+4. Vannfylt pose, romtemperatur, horisontalt støt med 2 kg stålkule (ca. 8 cm diam.) med hastighet tilsvarende 1 m fritt fall (ca. 4.4 m/sek.). Treffpunkt 1/4 av høyden fra bunnen.
+
+   Krav: Ingen lekkasje.
 5. Ovenstående krav er satt opp med henblikk på plaster og fibermaterialer. Ved bruk av stål og metaller vil det i tillegg til disse krav komme krav om korrosjonsbestandighet.
 
 ### Antennelighet.
 
 Pose.
 
-1. a) Materialet i posen prøves etter en prøvemetode beskrevet i ASTM D 568-56T.Krav: 77 cm2 må ikke brenne opp på under 10 sek. Prøven går ut på opphenging av tilklipt folie 1 X 18 in, antennelse i et nedre hjørne.
+1. a) Materialet i posen prøves etter en prøvemetode beskrevet i ASTM D 568-56T.
+
+   Krav: 77 cm2 må ikke brenne opp på under 10 sek. Prøven går ut på opphenging av tilklipt folie 1 X 18 in, antennelse i et nedre hjørne.
 
 Beholder, lokk og sete.
 
-1. b) Prøvestaver av beholder, lokk og sete, 10 X 2 X 55 mm, fastspennes med lengdeaksen horisontal og tverraksen i 45° vinkel med horisontalplanet, og antennes ved å holde det ene nedre hjørne inn i en ikke lysende busenflamme, ca. 25 mm høy, brennerens dyseåpning: 3/8″ diam. i 10 sek. Den opprinnelige overflate skal være prøvestykkets nedre flatside.Krav: Flammen skal ikke være nådd til 5 mm fra den fastspente ende innen 75 sekunder etter at flammen er fjernet.
+1. b) Prøvestaver av beholder, lokk og sete, 10 X 2 X 55 mm, fastspennes med lengdeaksen horisontal og tverraksen i 45° vinkel med horisontalplanet, og antennes ved å holde det ene nedre hjørne inn i en ikke lysende busenflamme, ca. 25 mm høy, brennerens dyseåpning: 3/8″ diam. i 10 sek. Den opprinnelige overflate skal være prøvestykkets nedre flatside.
+
+   Krav: Flammen skal ikke være nådd til 5 mm fra den fastspente ende innen 75 sekunder etter at flammen er fjernet.

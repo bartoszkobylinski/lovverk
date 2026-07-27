@@ -15,7 +15,7 @@ xml_hash: "2e4edbee237cd6d3cd2b71d2b0c982ba447c09bb6235aae8a157871820f8d69a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,20 @@ Kongen kan bestemme at lova heilt eller delvis skal gjelde for andre sjøområde
 
 ### § 3. Definisjonar
 
-I denne lova tyder:*matrikkelen:* landet sitt offisielle register over fast eigedom, og under dette bygningar, bustader og adresser, jf. [§ 4](lov/2005-06-17-101/§4),*matrikkeleining:* grunneigedom, anleggseigedom, eigarseksjon, jordsameige eller festegrunn, jf. [§ 5](lov/2005-06-17-101/§5),*matrikkelnummer:* den offisielle nemninga for kvar enkelt matrikkeleining,*matrikkelbrev:* attestert utskrift av matrikkelen som viser alle registrerte opplysningar om ei matrikkeleining ved oppgitt dato,*matrikkelføring:* føre opplysningar i matrikkelen,*matrikulering:* føre ei ny matrikkeleining inn i matrikkelen,*sentral matrikkelstyresmakt:* det statsorganet som forvaltar matrikkelen,*oppmålingsforretning:* den oppgåva som går ut på å klarleggje og beskrive grenser og rettar til fast eigedom, og gi nødvendig dokumentasjon for matrikkelføring, jf. [§ 33](lov/2005-06-17-101/§33),*geodetisk grunnlag:* referanseramme som gjer det mogleg å bestemme eintydige geodetisk relaterte koordinatar,*grunnlagsmåling:* etablering, kontroll og vedlikehald av geodetisk grunnlag,*fastmerke:* varig merkt [punkt](lov/2005-06-17-101) til bruk i grunnlagsmålingar eller for å gjere geodetisk grunnlag tilgjengeleg for kart- og oppmålingsarbeid,*signal:* merke, instrument eller konstruksjon som blir brukt for å vise eller kontrollere plasseringa til eit fastmerke.
+I denne lova tyder:
+
+1. *matrikkelen:* landet sitt offisielle register over fast eigedom, og under dette bygningar, bustader og adresser, jf. [§ 4](lov/2005-06-17-101/§4),
+2. *matrikkeleining:* grunneigedom, anleggseigedom, eigarseksjon, jordsameige eller festegrunn, jf. [§ 5](lov/2005-06-17-101/§5),
+3. *matrikkelnummer:* den offisielle nemninga for kvar enkelt matrikkeleining,
+4. *matrikkelbrev:* attestert utskrift av matrikkelen som viser alle registrerte opplysningar om ei matrikkeleining ved oppgitt dato,
+5. *matrikkelføring:* føre opplysningar i matrikkelen,
+6. *matrikulering:* føre ei ny matrikkeleining inn i matrikkelen,
+7. *sentral matrikkelstyresmakt:* det statsorganet som forvaltar matrikkelen,
+8. *oppmålingsforretning:* den oppgåva som går ut på å klarleggje og beskrive grenser og rettar til fast eigedom, og gi nødvendig dokumentasjon for matrikkelføring, jf. [§ 33](lov/2005-06-17-101/§33),
+9. *geodetisk grunnlag:* referanseramme som gjer det mogleg å bestemme eintydige geodetisk relaterte koordinatar,
+10. *grunnlagsmåling:* etablering, kontroll og vedlikehald av geodetisk grunnlag,
+11. *fastmerke:* varig merkt [punkt](lov/2005-06-17-101) til bruk i grunnlagsmålingar eller for å gjere geodetisk grunnlag tilgjengeleg for kart- og oppmålingsarbeid,
+12. *signal:* merke, instrument eller konstruksjon som blir brukt for å vise eller kontrollere plasseringa til eit fastmerke.
 
 > Endra ved [lover 29 juni 2007 nr. 94](lov/2007-06-29-94) (ikr. 29 juni 2007 iflg. [res. 29 juni 2007 nr. 760](forskrift/2007-06-29-760)), [20 apr 2018 nr. 12](lov/2018-04-20-12) (ikr. 20 apr 2018 iflg. [res. 20 apr 2018 nr. 593](forskrift/2018-04-20-593)).
 
@@ -62,7 +75,13 @@ Departementet kan gi forskrift om innhaldet i matrikkelen, til dømes om geograf
 
 ### § 5. Matrikkeleiningar
 
-Følgjande objekt kan opprettast som eigne matrikkeleiningar:grunneigedom, eigedom som er avgrensa ved eigedomsgrenser på jordoverflata og som med dei avgrensingane som følgjer av at det eventuelt er oppretta anleggseigedom etter bokstav b, strekkjer seg så langt nedover i grunnen og oppover i lufta som privat eigedomsrett rekk etter alminnelege reglar,anleggseigedom, ein bygning eller konstruksjon, eller eit avgrensa fysisk volum som er tillate utbygt, og som er utskilt som eigen eigedom. Fast anlegg på eigarlaus sjøgrunn eller i eigarlaus undergrunn kan også opprettast som anleggseigedom,eigarseksjon,jordsameige, grunnareal som ligg i sameige mellom fleire grunneigedommar, og der sameigepartane inngår i grunneigedommane, ogfestegrunn, del av grunneigedom eller jordsameige som nokon har festerett til eller som kan festast bort, eller som nokon har ein tilsvarande eksklusiv og langvarig bruksrett til.
+Følgjande objekt kan opprettast som eigne matrikkeleiningar:
+
+1. grunneigedom, eigedom som er avgrensa ved eigedomsgrenser på jordoverflata og som med dei avgrensingane som følgjer av at det eventuelt er oppretta anleggseigedom etter bokstav b, strekkjer seg så langt nedover i grunnen og oppover i lufta som privat eigedomsrett rekk etter alminnelege reglar,
+2. anleggseigedom, ein bygning eller konstruksjon, eller eit avgrensa fysisk volum som er tillate utbygt, og som er utskilt som eigen eigedom. Fast anlegg på eigarlaus sjøgrunn eller i eigarlaus undergrunn kan også opprettast som anleggseigedom,
+3. eigarseksjon,
+4. jordsameige, grunnareal som ligg i sameige mellom fleire grunneigedommar, og der sameigepartane inngår i grunneigedommane, og
+5. festegrunn, del av grunneigedom eller jordsameige som nokon har festerett til eller som kan festast bort, eller som nokon har ein tilsvarande eksklusiv og langvarig bruksrett til.
 
 Ny matrikkeleining er oppretta når eininga er ført inn i matrikkelen.
 
@@ -84,7 +103,13 @@ Departementet kan gi forskrift om matrikkelstyresmaktene, under dette om organ s
 
 ### § 6. Krav om oppmålingsforretning før matrikkelføring
 
-Oppmålingsforretning skal haldast før følgjande kan førast inn i matrikkelen:ny grunneigedom, ny anleggseigedom, ny festegrunn eller nytt jordsameige,umatrikulert grunneigedom eller umatrikulert festegrunn,registrering av uregistrert jordsameige eller endring i registrert sameigefordeling,opplysningar om matrikkelomforming, arealoverføring, endring av grenser for festegrunn, grensejustering og klarlegging av eksisterande grense, ellereigarseksjon som omfattar uteareal, eller nytt eller endra uteareal til eksisterande eigarseksjon.
+Oppmålingsforretning skal haldast før følgjande kan førast inn i matrikkelen:
+
+1. ny grunneigedom, ny anleggseigedom, ny festegrunn eller nytt jordsameige,
+2. umatrikulert grunneigedom eller umatrikulert festegrunn,
+3. registrering av uregistrert jordsameige eller endring i registrert sameigefordeling,
+4. opplysningar om matrikkelomforming, arealoverføring, endring av grenser for festegrunn, grensejustering og klarlegging av eksisterande grense, eller
+5. eigarseksjon som omfattar uteareal, eller nytt eller endra uteareal til eksisterande eigarseksjon.
 
 Når det ligg føre særlege grunnar, kan kommunen etter søknad frå den som har rekvirert forretninga, føre ny matrikkeleining inn i matrikkelen utan at oppmålingsforretninga er fullført.
 
@@ -98,7 +123,10 @@ Departementet kan gi forskrift om oppmålingsforretning før matrikkelføring, u
 
 Grensene for grunneigedom, anleggseigedom eller festegrunn skal vere klarlagde i oppmålingsforretning, eller tilsvarande forretning etter anna eller tidlegare lovgiving, før dokument som gir grunnboksheimel til eigedommen eller festegrunnen kan tinglysast.
 
-Dette gjeld likevel ikkje dersom:eininga er så stor at det er urimeleg å krevje oppmåling av alle grensene, ellerdet av andre grunnar ikkje er formålstenleg å krevje at alle grensene blir klarlagde.
+Dette gjeld likevel ikkje dersom:
+
+1. eininga er så stor at det er urimeleg å krevje oppmåling av alle grensene, eller
+2. det av andre grunnar ikkje er formålstenleg å krevje at alle grensene blir klarlagde.
 
 Kommunen avgjer kva for eigedommar som fyller vilkåra i første og andre ledd, og noterer dette i matrikkelen.
 
@@ -120,9 +148,21 @@ Departementet kan gi forskrift om vilkår for matrikkelføring, under dette om i
 
 ### § 9. Kven som kan krevje matrikulering
 
-Matrikulering av ny grunneigedom, anleggseigedom eller festegrunn kan krevjast av:den som har grunnboksheimel som eigar av grunneigedom, anleggseigedom eller registrert jordsameige som den nye eininga blir delt frå eller oppretta på,den som ved rettskraftig avgjerd ved domstolane er kjent som eigar eller festar, eller er tilkjent rett til å krevje at eit bestemt grunnstykke eller anlegg blir oppretta som eiga matrikkeleining,den som lovleg har overteke grunn eller anlegg ved ekspropriasjon,den som lovleg har etablert, eller fått løyve til å etablere, fast anlegg på eigarlaus sjøgrunn eller i eigarlaus undergrunn,den som med heimel i lov utøver eigarrådvelde over grunnen når ingen har grunnboksheimel til denne,staten, statsføretak, fylkeskommunen eller kommunen når grunnen er tileigna til offentleg veg- eller jernbaneformål,staten eller kommunen dersom forretninga gjeld frådeling av heile teigar, eller når eininga blir delt av kommunegrense, ellerden som har innløyst festegrunn etter føresegnene i lov om tomtefeste.
+Matrikulering av ny grunneigedom, anleggseigedom eller festegrunn kan krevjast av:
 
-Matrikulering av umatrikulert grunneigedom eller festegrunn kan også krevjast av:nokon som har gjort det sannsynleg at dei eig, fester eller har del i grunneigedom eller festegrunn, ellerstaten, fylkeskommune eller kommune.
+1. den som har grunnboksheimel som eigar av grunneigedom, anleggseigedom eller registrert jordsameige som den nye eininga blir delt frå eller oppretta på,
+2. den som ved rettskraftig avgjerd ved domstolane er kjent som eigar eller festar, eller er tilkjent rett til å krevje at eit bestemt grunnstykke eller anlegg blir oppretta som eiga matrikkeleining,
+3. den som lovleg har overteke grunn eller anlegg ved ekspropriasjon,
+4. den som lovleg har etablert, eller fått løyve til å etablere, fast anlegg på eigarlaus sjøgrunn eller i eigarlaus undergrunn,
+5. den som med heimel i lov utøver eigarrådvelde over grunnen når ingen har grunnboksheimel til denne,
+6. staten, statsføretak, fylkeskommunen eller kommunen når grunnen er tileigna til offentleg veg- eller jernbaneformål,
+7. staten eller kommunen dersom forretninga gjeld frådeling av heile teigar, eller når eininga blir delt av kommunegrense, eller
+8. den som har innløyst festegrunn etter føresegnene i lov om tomtefeste.
+
+Matrikulering av umatrikulert grunneigedom eller festegrunn kan også krevjast av:
+
+1. nokon som har gjort det sannsynleg at dei eig, fester eller har del i grunneigedom eller festegrunn, eller
+2. staten, fylkeskommune eller kommune.
 
 Matrikulering av nytt jordsameige kan krevjast av dei som har grunnboksheimel som eigarar av grunneigedommane som skipar sameiget, saman med den som har grunnboksheimel som eigar av grunneigedommen som den nye eininga blir delt frå eller oppretta på.
 
@@ -138,7 +178,11 @@ Ei ny matrikkeleining kan berre opprettast når det er klart kva for matrikkelei
 
 Ny matrikkeleining kan opprettast med delar frå fleire matrikkeleiningar med ulike heimelshavarar dersom vilkåra for å slå saman delane elles er oppfylte.
 
-Ny matrikkeleining kan opprettast sjølv om nokon av dei eksisterande grensene ikkje er merkte og målte, dersom dette ikkje er til ulempe for utnytting av matrikkeleininga, og:det er godtgjort at vedkommande grense er omstridd,eininga er så stor at det er urimeleg å krevje oppmåling av vedkommande grense, ellerdet av andre grunnar ikkje er formålstenleg å krevje måling eller merking av vedkommande grense.
+Ny matrikkeleining kan opprettast sjølv om nokon av dei eksisterande grensene ikkje er merkte og målte, dersom dette ikkje er til ulempe for utnytting av matrikkeleininga, og:
+
+1. det er godtgjort at vedkommande grense er omstridd,
+2. eininga er så stor at det er urimeleg å krevje oppmåling av vedkommande grense, eller
+3. det av andre grunnar ikkje er formålstenleg å krevje måling eller merking av vedkommande grense.
 
 Ny matrikkeleining kan også førast inn i matrikkelen når opprettinga er bestemt av jordskifteretten.
 
@@ -150,7 +194,10 @@ Departementet kan gi forskrift om matrikkelføring av ny matrikkeleining, til d�
 
 Ved oppretting av anleggseigedom må det liggje føre dokumentasjon for nødvendig godkjenning etter plan- og bygningsloven som viser grensene for den bygningen eller konstruksjonen som blir søkt oppretta som anleggseigedom. Det same gjeld når eksisterande bygning og konstruksjon skal opprettast som anleggseigedom. Matrikulering av anleggseigedom som gjeld anlegg som ikkje eksisterer, kan først skje når vilkåra for igangsetting av tiltaket etter plan- og bygningsloven er oppfylte. Vedkommande anleggseigedom skal vere ei sjølvstendig funksjonell eining, klart og varig skilt frå den eller dei grunneigedommane eller anleggseigedommane den nye anleggseigedommen eventuelt blir skilt frå.
 
-Anleggseigedom som skal delast frå annan eigedom, kan berre opprettast dersom:bygningen eller konstruksjonen strekkjer seg inn over eller under ein annan eigedom, ogden delen av ein eigedom som ligg over eller under anleggseigedommen framleis kan utnyttast til eit sjølvstendig formål.
+Anleggseigedom som skal delast frå annan eigedom, kan berre opprettast dersom:
+
+1. bygningen eller konstruksjonen strekkjer seg inn over eller under ein annan eigedom, og
+2. den delen av ein eigedom som ligg over eller under anleggseigedommen framleis kan utnyttast til eit sjølvstendig formål.
 
 Grensene for anleggseigedommen skal svare til dei fysiske yttergrensene for eininga, med nødvendige tilpassingar. Anleggseigedom i undergrunnen skal omfatte nødvendig tryggleikssone.
 
@@ -220,7 +267,10 @@ Departementet kan gi forskrift om grensejustering, under dette setje areal- og v
 
 ### § 17. Klarlegging av eksisterande grense, punktfeste og stadbundne rettar
 
-Matrikkelføring av klarlegging av eksisterande grenser, punktfeste og stadbundne rettar, utført som særskild forretning, kan krevjast av:nokon som har grunnboksheimel som eigar eller festar til den aktuelle matrikkeleininga, ellerstaten, statsføretak, fylkeskommune eller kommune.
+Matrikkelføring av klarlegging av eksisterande grenser, punktfeste og stadbundne rettar, utført som særskild forretning, kan krevjast av:
+
+1. nokon som har grunnboksheimel som eigar eller festar til den aktuelle matrikkeleininga, eller
+2. staten, statsføretak, fylkeskommune eller kommune.
 
 Departementet kan gi forskrift om klarlegging av eksisterande grense, punktfeste, stadbundne rettar, om kven som kan krevje dette, og om fritak frå krav om oppmålingsforretning.
 
@@ -380,7 +430,12 @@ Departementet kan gi forskrift om innsyn i matrikkelen.
 
 ### § 30. Utlevering og behandling av opplysningar frå matrikkelen
 
-Matrikkelopplysningar kan utleverast:for offentleg planlegging, saksbehandling og administrasjon,for oppgåver etter denne lova, plan- og bygningsloven eller eierseksjonsloven,ved søknad om offentleg løyve, ellerfor å ta hand om andre interesser som gjeld rådvelde over matrikkeleiningar eller bruken av dei.
+Matrikkelopplysningar kan utleverast:
+
+1. for offentleg planlegging, saksbehandling og administrasjon,
+2. for oppgåver etter denne lova, plan- og bygningsloven eller eierseksjonsloven,
+3. ved søknad om offentleg løyve, eller
+4. for å ta hand om andre interesser som gjeld rådvelde over matrikkeleiningar eller bruken av dei.
 
 Matrikkelinformasjon kan utleverast for andre formål dersom den som får opplysningane utlevert, skal ta i vare ei rettkommen interesse, og omsynet til personvernet for dei registrerte ikkje overstig denne interessa.
 
@@ -474,7 +529,12 @@ Departementet kan gi forskrift om rekvisisjon og fullføring av oppmålingsforre
 
 ### § 38. Tildeling av landmålarbrev o.a.
 
-Departementet kan etter søknad tildele landmålarbrev til personar somer myndige og eigna til å drive eigedomsoppmålinghar godkjend utdanninghar minst to års relevant erfaring etter ferdig utdanning, oghar bestått ei godkjent autorisasjonsprøve.
+Departementet kan etter søknad tildele landmålarbrev til personar som
+
+1. er myndige og eigna til å drive eigedomsoppmåling
+2. har godkjend utdanning
+3. har minst to års relevant erfaring etter ferdig utdanning, og
+4. har bestått ei godkjent autorisasjonsprøve.
 
 Landmålarbrev kan trekkjast tilbake mellombels eller varig ved brot på føresegner eller løyve gitt i eller i medhald av denne lova, plan- og bygningsloven eller eierseksjonsloven, ved gjentekne åtvaringar, eller dersom landmålaren ikkje lenger fyller vilkåra for å ha landmålarbrev. Ein landmålar som ikkje lenger tilfredsstiller krava til å ha landmålarbrev, skal sende melding om dette til den som tildelar landmålarbrev, innan 14 dagar.
 
@@ -552,7 +612,22 @@ Erstatning for ekspropriasjon etter [§ 44](lov/2005-06-17-101/§44), skade og u
 
 ### § 46. Klage, førehandsvarsel og underretning om vedtak m.m.
 
-Det kan klagast over følgjande avgjerder etter denne lova:matrikkelføring av saker som krev oppmålingsforretning etter [§ 6](lov/2005-06-17-101/§6), under dette feil ved varslinga eller utføringa av forretningaavgjerd om kva som er klarlagd grense etter [§ 7](lov/2005-06-17-101/§7) tredje leddsamanslåing, jf. [§ 18](lov/2005-06-17-101/§18)føring av referanse til avtale om grenser m.m., jf. [§ 19](lov/2005-06-17-101/§19)fastsetjing av samla fast eigedom, jf. [§ 20](lov/2005-06-17-101/§20)tildeling av offisiell adresse med heimel i [§ 21](lov/2005-06-17-101/§21)sletting av matrikkeleining med heimel i [§ 26](lov/2005-06-17-101/§26) første leddavslag på krav om retting av opplysning i matrikkelen, jf. [§ 26](lov/2005-06-17-101/§26) tredje og fjerde leddavslag på førespurnad om innsyn i matrikkelen etter [§ 29](lov/2005-06-17-101/§29)utlevering av opplysningar frå matrikkelen, jf. [§ 30](lov/2005-06-17-101/§30)fastsetjing av gebyr og betaling med heimel i [§ 32](lov/2005-06-17-101/§32) som ikkje er fastsett i forskrift eller regulativ godkjent av departementetavslag på rekvisisjon av oppmålingsforretning, jf. [§ 35](lov/2005-06-17-101/§35) første leddtildeling og tilbaketrekking av landmålarbrev etter [§ 38](lov/2005-06-17-101/§38)vedtak om tvangsmulkt, jf. [§ 48](lov/2005-06-17-101/§48).
+Det kan klagast over følgjande avgjerder etter denne lova:
+
+1. matrikkelføring av saker som krev oppmålingsforretning etter [§ 6](lov/2005-06-17-101/§6), under dette feil ved varslinga eller utføringa av forretninga
+2. avgjerd om kva som er klarlagd grense etter [§ 7](lov/2005-06-17-101/§7) tredje ledd
+3. samanslåing, jf. [§ 18](lov/2005-06-17-101/§18)
+4. føring av referanse til avtale om grenser m.m., jf. [§ 19](lov/2005-06-17-101/§19)
+5. fastsetjing av samla fast eigedom, jf. [§ 20](lov/2005-06-17-101/§20)
+6. tildeling av offisiell adresse med heimel i [§ 21](lov/2005-06-17-101/§21)
+7. sletting av matrikkeleining med heimel i [§ 26](lov/2005-06-17-101/§26) første ledd
+8. avslag på krav om retting av opplysning i matrikkelen, jf. [§ 26](lov/2005-06-17-101/§26) tredje og fjerde ledd
+9. avslag på førespurnad om innsyn i matrikkelen etter [§ 29](lov/2005-06-17-101/§29)
+10. utlevering av opplysningar frå matrikkelen, jf. [§ 30](lov/2005-06-17-101/§30)
+11. fastsetjing av gebyr og betaling med heimel i [§ 32](lov/2005-06-17-101/§32) som ikkje er fastsett i forskrift eller regulativ godkjent av departementet
+12. avslag på rekvisisjon av oppmålingsforretning, jf. [§ 35](lov/2005-06-17-101/§35) første ledd
+13. tildeling og tilbaketrekking av landmålarbrev etter [§ 38](lov/2005-06-17-101/§38)
+14. vedtak om tvangsmulkt, jf. [§ 48](lov/2005-06-17-101/§48).
 
 Klageinstans er departementet eller det klageorganet departementet peikar ut. Reglane om klage på enkeltvedtak i [forvaltningsloven kapittel VI](lov/1967-02-10/kapvi) gjeld for alle klager etter første ledd.
 

@@ -15,7 +15,7 @@ xml_hash: "a31da537ef146942ef70f289bb971a4ba92fb8f5da3235c1d541833b5a0fd346"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,11 @@ Det kan ikke opprettes gravlegat.
 
 Sysselmesteren på Svalbard kan etter søknad gi tillatelse til askespredning på øygruppen. Slik askespredning kan ikke finne sted i bebygde strøk eller dersom det for øvrig vil være til sjenanse. Sysselmesteren kan sette vilkår for askespredningen.
 
-Spredning av aske kan tillates for de personer som er omtalt i forskriftens [§ 3](forskrift/2008-02-15-153/§3) dersom:avdøde var over 15 år og selv har søkt om slik tillatelse,det kan godtgjøres at avdøde ønsket askespredning, elleravdøde ved dødsfallet var under 15 år og nærmeste etterlatte ønsker askespredning.
+Spredning av aske kan tillates for de personer som er omtalt i forskriftens [§ 3](forskrift/2008-02-15-153/§3) dersom:
+
+- avdøde var over 15 år og selv har søkt om slik tillatelse,
+- det kan godtgjøres at avdøde ønsket askespredning, eller
+- avdøde ved dødsfallet var under 15 år og nærmeste etterlatte ønsker askespredning.
 
 Det kan ikke kreves kirkelig deltakelse ved spredning av aske. Ved askespredning kan det ikke i tillegg oppføres minnesmerke på kirkegård eller på stedet for spredningen.
 

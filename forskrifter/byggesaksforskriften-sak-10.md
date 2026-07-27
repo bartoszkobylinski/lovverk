@@ -28,11 +28,36 @@ eu_basis: []
 
 ### § 1-1. Formål
 
-Forskriften skal sikregodt forberedte søknader og hensiktsmessig oppgave- og ansvarsfordelingeffektiv og forsvarlig saksbehandling av byggesaker for å ivareta samfunnsmessige hensyn, herunder god kvalitet i byggverkat foretak som opptrer som ansvarlig søker, prosjekterende, utførende eller kontrollerende, har tilstrekkelige kvalifikasjoner til å ivareta kravene gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)at uavhengig kontroll planlegges, gjennomføres og dokumenteres slik at krav til tiltaket som følger av tillatelser eller bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), er oppfyltat det føres effektivt og systematisk tilsyn med at tiltak gjennomføres i samsvar med bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)at det reageres mot brudd på bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), og at reglene om ileggelse av overtredelsesgebyr praktiseres forsvarlig og ensartet.
+Forskriften skal sikre
+
+1. godt forberedte søknader og hensiktsmessig oppgave- og ansvarsfordeling
+2. effektiv og forsvarlig saksbehandling av byggesaker for å ivareta samfunnsmessige hensyn, herunder god kvalitet i byggverk
+3. at foretak som opptrer som ansvarlig søker, prosjekterende, utførende eller kontrollerende, har tilstrekkelige kvalifikasjoner til å ivareta kravene gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+4. at uavhengig kontroll planlegges, gjennomføres og dokumenteres slik at krav til tiltaket som følger av tillatelser eller bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), er oppfylt
+5. at det føres effektivt og systematisk tilsyn med at tiltak gjennomføres i samsvar med bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+6. at det reageres mot brudd på bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), og at reglene om ileggelse av overtredelsesgebyr praktiseres forsvarlig og ensartet.
 
 ### § 1-2. Definisjoner
 
-I denne forskrift menes med*funksjon:* Rollen som ansvarlig søker, ansvarlig prosjekterende, ansvarlig utførende eller ansvarlig kontrollerende*tiltaksklasse:* Inndeling av oppgaver i tiltaket basert på vanskelighetsgrad, kompleksitet og konsekvenser av mangler og feil*godkjenningsområde:* beskrivelse av innhold i en sentral godkjenning som bestemmes av fagområde, funksjon og tiltaksklasse*ansvarsområde:* de oppgaver foretaket ved erklæring påtar seg ansvarsrett for i det aktuelle tiltaket*faglig ledelse:* en eller flere personer i foretaket som oppfyller kravene til kvalifikasjoner i [kapittel 11](forskrift/2010-03-26-488/kap11), og som har myndighet til å ta beslutninger av betydning for oppfyllelse av krav i [plan- og bygningsloven](lov/2008-06-27-71) ved gjennomføring av søknadspliktige tiltak*organisasjonsplan:* plan som viser foretakets organisasjonsstruktur, herunder overordnet ansvars- og myndighetsfordeling*gjennomføringsplan:* En samlet plan for gjennomføring av tiltaket, med synliggjøring av ansvarsområder, tiltaksklasser, ansvarlige foretak, gjennomføring av kontroll og ferdigstillelse av tiltaket*produksjonsunderlag:* Arbeidstegninger, beskrivelsestekster, spesifikasjoner og annet underlagsmateriale som skal ligge til grunn for utførelsen,*samsvarserklæring* for*prosjektering:* Skriftlig bekreftelse på at ansvarlig prosjekterende har utført prosjekteringen innenfor sitt ansvarsområde i overensstemmelse med krav og tillatelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)*utførelse:* Skriftlig bekreftelse på at ansvarlig utførende har utført tiltaket innenfor sitt ansvarsområde i overensstemmelse med produksjonsunderlaget, krav til utførelse og tillatelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71).*kontrollerklæring* for*prosjektering:* Skriftlig bekreftelse på at ansvarlig kontrollerende har kontrollert prosjekteringen innenfor sitt ansvarsområde, og erklærer at den er i overensstemmelse med krav og tillatelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)*utførelse:* Skriftlig bekreftelse på at ansvarlig kontrollerende har kontrollert utførelsen innenfor sitt ansvarsområde, og erklærer at den er i overensstemmelse med produksjonsunderlaget, krav til utførelse og tillatelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71).*avvik:* Manglende eller feilaktig oppfyllelse av krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71).
+I denne forskrift menes med
+
+1. *funksjon:* Rollen som ansvarlig søker, ansvarlig prosjekterende, ansvarlig utførende eller ansvarlig kontrollerende
+2. *tiltaksklasse:* Inndeling av oppgaver i tiltaket basert på vanskelighetsgrad, kompleksitet og konsekvenser av mangler og feil
+3. *godkjenningsområde:* beskrivelse av innhold i en sentral godkjenning som bestemmes av fagområde, funksjon og tiltaksklasse
+4. *ansvarsområde:* de oppgaver foretaket ved erklæring påtar seg ansvarsrett for i det aktuelle tiltaket
+5. *faglig ledelse:* en eller flere personer i foretaket som oppfyller kravene til kvalifikasjoner i [kapittel 11](forskrift/2010-03-26-488/kap11), og som har myndighet til å ta beslutninger av betydning for oppfyllelse av krav i [plan- og bygningsloven](lov/2008-06-27-71) ved gjennomføring av søknadspliktige tiltak
+6. *organisasjonsplan:* plan som viser foretakets organisasjonsstruktur, herunder overordnet ansvars- og myndighetsfordeling
+7. *gjennomføringsplan:* En samlet plan for gjennomføring av tiltaket, med synliggjøring av ansvarsområder, tiltaksklasser, ansvarlige foretak, gjennomføring av kontroll og ferdigstillelse av tiltaket
+8. *produksjonsunderlag:* Arbeidstegninger, beskrivelsestekster, spesifikasjoner og annet underlagsmateriale som skal ligge til grunn for utførelsen,
+9. *samsvarserklæring* for
+
+   1. *prosjektering:* Skriftlig bekreftelse på at ansvarlig prosjekterende har utført prosjekteringen innenfor sitt ansvarsområde i overensstemmelse med krav og tillatelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+   2. *utførelse:* Skriftlig bekreftelse på at ansvarlig utførende har utført tiltaket innenfor sitt ansvarsområde i overensstemmelse med produksjonsunderlaget, krav til utførelse og tillatelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71).
+10. *kontrollerklæring* for
+
+    1. *prosjektering:* Skriftlig bekreftelse på at ansvarlig kontrollerende har kontrollert prosjekteringen innenfor sitt ansvarsområde, og erklærer at den er i overensstemmelse med krav og tillatelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+    2. *utførelse:* Skriftlig bekreftelse på at ansvarlig kontrollerende har kontrollert utførelsen innenfor sitt ansvarsområde, og erklærer at den er i overensstemmelse med produksjonsunderlaget, krav til utførelse og tillatelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71).
+11. *avvik:* Manglende eller feilaktig oppfyllelse av krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71).
 
 > Endret ved forskrifter [9 juni 2015 nr. 627](forskrift/2015-06-09-627) (i kraft 1 jan 2016), [6 nov 2018 nr. 1674](forskrift/2018-11-06-1674) (i kraft 1 des 2018).
 
@@ -44,7 +69,11 @@ Tiltakshaver og foretak med ansvarsrett plikter, inntil byggesaken er avsluttet,
 
 Foretak med sentral godkjenning for ansvarsrett plikter å melde fra til Direktoratet for byggkvalitet om endringer som har betydning for godkjenningen.
 
-Endringer skal meldes uten ugrunnet opphold og omfatter blant annetpermanente endringer i foretakets samlede kompetansevesentlig omorganisering av foretakettvangsavvikling eller konkursbehandling.
+Endringer skal meldes uten ugrunnet opphold og omfatter blant annet
+
+1. permanente endringer i foretakets samlede kompetanse
+2. vesentlig omorganisering av foretaket
+3. tvangsavvikling eller konkursbehandling.
 
 > Endret ved forskrifter [15 juni 2012 nr. 620](forskrift/2012-06-15-620), [9 juni 2015 nr. 627](forskrift/2015-06-09-627) (i kraft 1 jan 2016).
 
@@ -64,13 +93,21 @@ Byggesaksbestemmelsene gjelder for husbåter og for fartøy som tas ut av sin al
 
 ### § 2-1. Varig og tidsbestemt bruksendring
 
-Varig og tidsbestemt bruksendring er søknadspliktig dersombyggverk eller del av byggverk tas i bruk til eller blir tilrettelagt for annet enn det som følger av tillatelse eller lovlig etablert bruk,endret bruk av byggverk eller del av byggverk kan påvirke de hensyn som skal ivaretas i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) i forhold til byggverket, tilhørende utearealer eller omgivelser, ellertilleggsdel tas i bruk til hoveddel eller omvendt.
+Varig og tidsbestemt bruksendring er søknadspliktig dersom
+
+1. byggverk eller del av byggverk tas i bruk til eller blir tilrettelagt for annet enn det som følger av tillatelse eller lovlig etablert bruk,
+2. endret bruk av byggverk eller del av byggverk kan påvirke de hensyn som skal ivaretas i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) i forhold til byggverket, tilhørende utearealer eller omgivelser, eller
+3. tilleggsdel tas i bruk til hoveddel eller omvendt.
 
 > Endret ved [forskrift 24 juni 2017 nr. 975](forskrift/2017-06-24-975) (i kraft 1 juli 2017).
 
 ### § 2-2. Oppdeling av boenhet
 
-Søknadsplikt for oppdeling av boenhet i eksisterende bolig oppstår når enhetenehar alle hovedfunksjoner for bolig, slik som stue, kjøkken, soveplass, bad og toalett,har egen inngang oger fysisk atskilt fra øvrige enheter.
+Søknadsplikt for oppdeling av boenhet i eksisterende bolig oppstår når enhetene
+
+1. har alle hovedfunksjoner for bolig, slik som stue, kjøkken, soveplass, bad og toalett,
+2. har egen inngang og
+3. er fysisk atskilt fra øvrige enheter.
 
 > Opphevet ved [forskrift 3 nov 2011 nr. 1100](forskrift/2011-11-03-1100) (i kraft 1 jan 2012), tilføyd igjen ved [forskrift 30 nov 2015 nr. 1371](forskrift/2015-11-30-1371) (i kraft 1 jan 2016).
 
@@ -78,7 +115,13 @@ Søknadsplikt for oppdeling av boenhet i eksisterende bolig oppstår når enhete
 
 ### § 3-1. Mindre tiltak på bebygd eiendom
 
-Som mindre tiltak etter [plan- og bygningsloven § 20-4](lov/2008-06-27-71/§20-4) første ledd bokstav a regnes oppføring, endring, fjerning og riving mv. av følgende tiltak, og som er i samsvar med [plan- og bygningsloven § 1-6](lov/2008-06-27-71/§1-6) andre ledd:et enkelt tilbygg hvor verken samlet bruksareal (BRA) eller bebygd areal (BYA) er over 50 m2. Tilbygget kan i tillegg være underbygget med kjeller.En enkelt frittliggende bygning som ikke skal brukes til beboelse, og hvor verken samlet bruksareal (BRA) eller bebygd areal (BYA) er over 70 m2. Bygningen kan oppføres i inntil én etasje og kan i tillegg være underbygget med kjeller.Varig og tidsbestemt bruksendring fra tilleggsdel til hoveddel eller omvendt innenfor en bruksenhetSkilt- og reklameinnretning inntil 6,5 m2 montert på vegg, eller med høyde inntil 3,5 m og bredde inntil 1,5 m montert frittstående på terreng. Bestemmelsen omfatter ikke plassering av slike skilt- og reklameinnretninger som kan utgjøre fare for personsikkerhet og ikke når flere skal monteres på samme sted eller på samme fasade.Frittliggende boligbygning inntil 30 m2 BRA med én boenhet i én etasje uten kjeller som ikke på noe punkt overstiger en høyde på 4,5 m over bakken.
+Som mindre tiltak etter [plan- og bygningsloven § 20-4](lov/2008-06-27-71/§20-4) første ledd bokstav a regnes oppføring, endring, fjerning og riving mv. av følgende tiltak, og som er i samsvar med [plan- og bygningsloven § 1-6](lov/2008-06-27-71/§1-6) andre ledd:
+
+1. et enkelt tilbygg hvor verken samlet bruksareal (BRA) eller bebygd areal (BYA) er over 50 m2. Tilbygget kan i tillegg være underbygget med kjeller.
+2. En enkelt frittliggende bygning som ikke skal brukes til beboelse, og hvor verken samlet bruksareal (BRA) eller bebygd areal (BYA) er over 70 m2. Bygningen kan oppføres i inntil én etasje og kan i tillegg være underbygget med kjeller.
+3. Varig og tidsbestemt bruksendring fra tilleggsdel til hoveddel eller omvendt innenfor en bruksenhet
+4. Skilt- og reklameinnretning inntil 6,5 m2 montert på vegg, eller med høyde inntil 3,5 m og bredde inntil 1,5 m montert frittstående på terreng. Bestemmelsen omfatter ikke plassering av slike skilt- og reklameinnretninger som kan utgjøre fare for personsikkerhet og ikke når flere skal monteres på samme sted eller på samme fasade.
+5. Frittliggende boligbygning inntil 30 m2 BRA med én boenhet i én etasje uten kjeller som ikke på noe punkt overstiger en høyde på 4,5 m over bakken.
 
 > Endret ved forskrifter [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [30 nov 2015 nr. 1371](forskrift/2015-11-30-1371) (i kraft 1 jan 2016), [24 juni 2017 nr. 975](forskrift/2017-06-24-975) (i kraft 1 juli 2017), [6 feb 2023 nr. 156](forskrift/2023-02-06-156) (i kraft 1 juli 2023).
 
@@ -86,7 +129,10 @@ Som mindre tiltak etter [plan- og bygningsloven § 20-4](lov/2008-06-27-71/§20-
 
 Bygninger som er et nødvendig ledd i driften eller som er et driftsmiddel i forbindelse med landbruksdrift, anses som driftsbygning.
 
-Tiltak som omfattes av [plan- og bygningsloven § 20-4](lov/2008-06-27-71/§20-4) første ledd bokstav b om alminnelige driftsbygninger i landbruket, er:Oppføring, plassering, vesentlig endring, vesentlig reparasjon, riving eller varig og tidsbestemt bruksendring til driftsbygning inntil 1000 m2 bruksareal (BRA).Tilbygg til driftsbygning dersom bygningens totale areal inkludert tilbygget ikke overstiger 1000 m2 bruksareal (BRA).
+Tiltak som omfattes av [plan- og bygningsloven § 20-4](lov/2008-06-27-71/§20-4) første ledd bokstav b om alminnelige driftsbygninger i landbruket, er:
+
+1. Oppføring, plassering, vesentlig endring, vesentlig reparasjon, riving eller varig og tidsbestemt bruksendring til driftsbygning inntil 1000 m2 bruksareal (BRA).
+2. Tilbygg til driftsbygning dersom bygningens totale areal inkludert tilbygget ikke overstiger 1000 m2 bruksareal (BRA).
 
 > Endret ved forskrifter [9 des 2011 nr. 1324](forskrift/2011-12-09-1324) (i kraft 1 jan 2012), [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [24 juni 2017 nr. 975](forskrift/2017-06-24-975) (i kraft 1 juli 2017).
 
@@ -94,25 +140,63 @@ Tiltak som omfattes av [plan- og bygningsloven § 20-4](lov/2008-06-27-71/§20-4
 
 ### § 4-1. Tiltak som ikke krever søknad og tillatelse
 
-Oppføring, endring, fjerning, riving og opparbeidelse av følgende tiltak er unntatt fra kravet om byggesaksbehandling, dersom tiltaket ikke er i strid med lovens bestemmelser med tilhørende forskrifter, kommuneplanens arealdel og reguleringsplan, tillatelser eller annet regelverk:Frittliggende bygning på bebygd eiendom som ikke skal brukes til beboelse, og som verken har et samlet bruksareal (BRA) eller bebygd areal (BYA) på over 50 m2. Mønehøyden skal ikke være over 4,0 m og gesimshøyde ikke over 3,0 m. Høyde måles i forhold til ferdig planert terrengs gjennomsnittsnivå rundt bygningen. Bygningen kan oppføres i én etasje og kan ikke underbygges med kjeller. Tiltaket skal plasseres minst 1,0 m fra nabogrense og annen bygning på eiendommen. Bygningen må ikke plasseres over ledninger i grunnen.Tilbygg som verken har et samlet bruksareal (BRA) eller bebygd areal (BYA) på over 15 m2. Tilbygget må være understøttet. Tilbygget kan ikke overstige to etasjer eller plan på det eksisterende byggverket.Frittliggende byggverk som er knyttet til drift av jordbruks, skogbruks- eller reindriftsområder, og som verken har et samlet bruksareal (BRA) eller bebygd areal (BYA) på over 15 m2. Bygningen kan oppføres i én etasje og kan ikke underbygges med kjeller.Terrasser som har en høyde på inntil 1,0 m fra eksisterende terreng, er forbundet med en bygning, og ikke stikker lenger ut fra bygningens fasadeliv enn 4,0 m. Slike terrasser kan ha et tilhørende rekkverk på inntil 1,2 m, men kan ikke være overbygde. Avstanden til nabogrensen skal være minst 1,0 m.Følgende mindre tiltak i eksisterende byggverk:ikke-bærende vegg innenfor en branncelle eller et lydområdereparasjon av bygningstekniske installasjonerinstallering, endring og reparasjon av våtrom i eksisterende byggverk innenfor en bruksenhet eller branncelleinstallering og endring av enkle installasjoner i eksisterende byggverk innenfor en bruksenhet eller branncelleinstallering, endring og reparasjon av ildsted i eksisterende byggverk innenfor en bruksenhet eller branncelle.Følgende mindre tiltak utendørs:Levegg (skjermvegg) med høyde inntil 1,8 m og lengde inntil 10,0 m. Leveggen kan være frittstående eller forbundet med bygning, og avstand til nabogrense skal ikke være mindre enn 1,0 mlevegg (skjermvegg) med høyde inntil 1,8 m og lengde inntil 5,0 m. Leveggen kan være frittstående eller forbundet med bygnings og kan plasseres inntil nabogrenseinnhegning mot veg inntil 1,5 m høydeskilt- og reklameinnretning inntil 3,0 m2 som monteres flatt på vegg. Unntaket omfatter ikke montering av flere skilt- og reklameinnretninger på samme fasadesmåcellebasestasjoner med volum inntil 30 liter, jf. [lov om elektronisk kommunikasjon § 1-5 nr. 32](lov/2024-12-13-76/§1-5/nummer/32). Antennesystem med høyde inntil 5,0 m. Parabolantenne kan ha diameter inntil 1,2 m. Panelantenne plassert på vegg kan ha høyde inntil 2,0 m. Bestemmelsen omfatter ikke plassering av antennesystem som kan utgjøre fare for personsikkerhet eller når flere antennesystemer skal plasseres på samme sted eller på samme fasademindre forstøtningsmur på inntil 1,0 m høyde og avstand fra nabogrense på minst 1,0 m eller forstøtningsmur på inntil 1,5 m høyde og avstand fra nabogrense på minst 4,0 mmindre fylling eller planering av terreng. Tiltaket må uansett ikke føre til mer enn 3,0 m avvik fra opprinnelig terrengnivå i spredtbygd strøk, eller 1,5 m avvik fra opprinnelig terrengnivå i tettbygd strøk. På eiendom for rekke- eller kjedehus o.l. med tett bebyggelse må avviket ikke være mer enn 0,5 m fra opprinnelig terrengnivå. Avstand fra fyllingsfoten til nabogrense må være minst 1,0 mgraving for kablerlokal drenering, samt reparasjoner ved rør- og ledningsbruddintern veg på tomt og biloppstillingsplasser for tomtens bruk som ikke krever vesentlig terrenginngrep. Unntaket omfatter også anlegg av oppstillingsplass for landbruksmaskiner til bruk på landbrukseiendom. Avstand til nabogrense må være minst 1,0 m.
+Oppføring, endring, fjerning, riving og opparbeidelse av følgende tiltak er unntatt fra kravet om byggesaksbehandling, dersom tiltaket ikke er i strid med lovens bestemmelser med tilhørende forskrifter, kommuneplanens arealdel og reguleringsplan, tillatelser eller annet regelverk:
+
+1. Frittliggende bygning på bebygd eiendom som ikke skal brukes til beboelse, og som verken har et samlet bruksareal (BRA) eller bebygd areal (BYA) på over 50 m2. Mønehøyden skal ikke være over 4,0 m og gesimshøyde ikke over 3,0 m. Høyde måles i forhold til ferdig planert terrengs gjennomsnittsnivå rundt bygningen. Bygningen kan oppføres i én etasje og kan ikke underbygges med kjeller. Tiltaket skal plasseres minst 1,0 m fra nabogrense og annen bygning på eiendommen. Bygningen må ikke plasseres over ledninger i grunnen.
+2. Tilbygg som verken har et samlet bruksareal (BRA) eller bebygd areal (BYA) på over 15 m2. Tilbygget må være understøttet. Tilbygget kan ikke overstige to etasjer eller plan på det eksisterende byggverket.
+3. Frittliggende byggverk som er knyttet til drift av jordbruks, skogbruks- eller reindriftsområder, og som verken har et samlet bruksareal (BRA) eller bebygd areal (BYA) på over 15 m2. Bygningen kan oppføres i én etasje og kan ikke underbygges med kjeller.
+4. Terrasser som har en høyde på inntil 1,0 m fra eksisterende terreng, er forbundet med en bygning, og ikke stikker lenger ut fra bygningens fasadeliv enn 4,0 m. Slike terrasser kan ha et tilhørende rekkverk på inntil 1,2 m, men kan ikke være overbygde. Avstanden til nabogrensen skal være minst 1,0 m.
+5. Følgende mindre tiltak i eksisterende byggverk:
+
+   1. ikke-bærende vegg innenfor en branncelle eller et lydområde
+   2. reparasjon av bygningstekniske installasjoner
+   3. installering, endring og reparasjon av våtrom i eksisterende byggverk innenfor en bruksenhet eller branncelle
+   4. installering og endring av enkle installasjoner i eksisterende byggverk innenfor en bruksenhet eller branncelle
+   5. installering, endring og reparasjon av ildsted i eksisterende byggverk innenfor en bruksenhet eller branncelle.
+6. Følgende mindre tiltak utendørs:
+
+   1. Levegg (skjermvegg) med høyde inntil 1,8 m og lengde inntil 10,0 m. Leveggen kan være frittstående eller forbundet med bygning, og avstand til nabogrense skal ikke være mindre enn 1,0 m
+   2. levegg (skjermvegg) med høyde inntil 1,8 m og lengde inntil 5,0 m. Leveggen kan være frittstående eller forbundet med bygnings og kan plasseres inntil nabogrense
+   3. innhegning mot veg inntil 1,5 m høyde
+   4. skilt- og reklameinnretning inntil 3,0 m2 som monteres flatt på vegg. Unntaket omfatter ikke montering av flere skilt- og reklameinnretninger på samme fasade
+   5. småcellebasestasjoner med volum inntil 30 liter, jf. [lov om elektronisk kommunikasjon § 1-5 nr. 32](lov/2024-12-13-76/§1-5/nummer/32). Antennesystem med høyde inntil 5,0 m. Parabolantenne kan ha diameter inntil 1,2 m. Panelantenne plassert på vegg kan ha høyde inntil 2,0 m. Bestemmelsen omfatter ikke plassering av antennesystem som kan utgjøre fare for personsikkerhet eller når flere antennesystemer skal plasseres på samme sted eller på samme fasade
+   6. mindre forstøtningsmur på inntil 1,0 m høyde og avstand fra nabogrense på minst 1,0 m eller forstøtningsmur på inntil 1,5 m høyde og avstand fra nabogrense på minst 4,0 m
+   7. mindre fylling eller planering av terreng. Tiltaket må uansett ikke føre til mer enn 3,0 m avvik fra opprinnelig terrengnivå i spredtbygd strøk, eller 1,5 m avvik fra opprinnelig terrengnivå i tettbygd strøk. På eiendom for rekke- eller kjedehus o.l. med tett bebyggelse må avviket ikke være mer enn 0,5 m fra opprinnelig terrengnivå. Avstand fra fyllingsfoten til nabogrense må være minst 1,0 m
+   8. graving for kabler
+   9. lokal drenering, samt reparasjoner ved rør- og ledningsbrudd
+   10. intern veg på tomt og biloppstillingsplasser for tomtens bruk som ikke krever vesentlig terrenginngrep. Unntaket omfatter også anlegg av oppstillingsplass for landbruksmaskiner til bruk på landbrukseiendom. Avstand til nabogrense må være minst 1,0 m.
 
 Tiltakshaver har ansvar for at tiltaket utføres i samsvar med vilkårene i første ledd.
 
 Tiltak etter denne bestemmelsen kan ikke settes i gang før det er gitt nødvendig tillatelse eller samtykke fra berørte myndigheter. For tiltak unntatt etter første ledd bokstav a, b, c, d og f må plasseringen ikke komme i strid med [veglovas](lov/1963-06-21-23) bestemmelser om for eksempel avkjøring, frisiktsoner, avstand til veimidte, eller byggeforbudssonen etter [jernbaneloven § 10](lov/1993-06-11-100/§10).
 
-For tiltak etter første ledd bokstav a, b og c skal tiltakshaver melde fra til kommunen om tiltaket og plasseringen senest innen fire uker etter at det er ferdigstilt, slik at kommunen kan oppdatere kart- og matrikkeldata. Meldingen skal inneholde følgende opplysninger:dato tiltaket ble ferdigstiltmatrikkelnummer, jf. [matrikkelloven § 3](lov/2005-06-17-101/§3) første ledd bokstav c (kommune-, gårds- og bruksnummer, ev. festenummer og seksjonsnummer)kart over eiendommen som viser omriss av tiltaket med målte avstander til grenser og andre bygninger på eiendommentiltakets areal i bruksareal (BRA), bebygd areal (BYA) og bruttoareal (BTA) pr. etasjebygningstype etter matrikkelen for frittstående byggHva rommet/rommene i tilbygget skal brukes til.
+For tiltak etter første ledd bokstav a, b og c skal tiltakshaver melde fra til kommunen om tiltaket og plasseringen senest innen fire uker etter at det er ferdigstilt, slik at kommunen kan oppdatere kart- og matrikkeldata. Meldingen skal inneholde følgende opplysninger:
+
+1. dato tiltaket ble ferdigstilt
+2. matrikkelnummer, jf. [matrikkelloven § 3](lov/2005-06-17-101/§3) første ledd bokstav c (kommune-, gårds- og bruksnummer, ev. festenummer og seksjonsnummer)
+3. kart over eiendommen som viser omriss av tiltaket med målte avstander til grenser og andre bygninger på eiendommen
+4. tiltakets areal i bruksareal (BRA), bebygd areal (BYA) og bruttoareal (BTA) pr. etasje
+5. bygningstype etter matrikkelen for frittstående bygg
+6. Hva rommet/rommene i tilbygget skal brukes til.
 
 > Endret ved forskrifter [22 juni 2011 nr. 674](forskrift/2011-06-22-674) (i kraft 1 juli 2011), [3 nov 2011 nr. 1100](forskrift/2011-11-03-1100) (i kraft 1 jan 2012), [25 juni 2013 nr. 788](forskrift/2013-06-25-788), [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [6 des 2016 nr. 1451](forskrift/2016-12-06-1451) (i kraft 1 jan 2017), [9 feb 2021 nr. 410](forskrift/2021-02-09-410) (i kraft 1 mai 2021), [18 des 2024 nr. 3185](forskrift/2024-12-18-3185) (i kraft 1 jan 2025).
 
 ### § 4-2. Unntak for plassering av særskilt bygning, konstruksjon eller anlegg
 
-Følgende tiltak kan plasseres uten søknad eller tillatelse:Bygninger, konstruksjoner eller anlegg på eller i direkte tilknytning til bygge- eller anleggstomt hvor arbeid pågårCampingvogn og vinteropplag av fritidsbåt på bebygd bolig- og fritidseiendomCampingvogn på campingplass.
+Følgende tiltak kan plasseres uten søknad eller tillatelse:
+
+1. Bygninger, konstruksjoner eller anlegg på eller i direkte tilknytning til bygge- eller anleggstomt hvor arbeid pågår
+2. Campingvogn og vinteropplag av fritidsbåt på bebygd bolig- og fritidseiendom
+3. Campingvogn på campingplass.
 
 [Plan- og bygningsloven § 30-5](lov/2008-06-27-71/§30-5) gjelder tilsvarende for disse tiltakene.
 
 ### § 4-3. Solenergianlegg som ikke krever søknad og tillatelse
 
-Oppføring, endring, reparasjon og riving av følgende typer solenergianlegg på eksisterende småhusbebyggelse eller på frittliggende bygninger som nevnt i [§ 4-1 første ledd bokstav a](forskrift/2010-03-26-488/§4-1/ledd/1/bokstav/a), er unntatt fra krav om søknad og tillatelse:Solenergianlegg som skal integreres i et tak, monteres parallelt med takflaten, eller monteres på et flatt tak i en fast, ikke-bevegelig konstruksjon. Dette gjelder også solenergianlegg som oppføres på et tak som går over flere bruksenheter, så fremt brannskillet ikke brytes.Solenergianlegg som har et samlet areal på inntil 15 m2, og som skal monteres flatt på en vegg. Dette gjelder også solenergianlegg som oppføres på en vegg som går over flere bruksenheter, så fremt brannskillet ikke brytes.
+Oppføring, endring, reparasjon og riving av følgende typer solenergianlegg på eksisterende småhusbebyggelse eller på frittliggende bygninger som nevnt i [§ 4-1 første ledd bokstav a](forskrift/2010-03-26-488/§4-1/ledd/1/bokstav/a), er unntatt fra krav om søknad og tillatelse:
+
+1. Solenergianlegg som skal integreres i et tak, monteres parallelt med takflaten, eller monteres på et flatt tak i en fast, ikke-bevegelig konstruksjon. Dette gjelder også solenergianlegg som oppføres på et tak som går over flere bruksenheter, så fremt brannskillet ikke brytes.
+2. Solenergianlegg som har et samlet areal på inntil 15 m2, og som skal monteres flatt på en vegg. Dette gjelder også solenergianlegg som oppføres på en vegg som går over flere bruksenheter, så fremt brannskillet ikke brytes.
 
 Unntaket etter første ledd gjelder tilsvarende for frittstående solenergianlegg som skal oppføres på eksisterende terreng på bebygd eiendom, har et samlet areal på inntil 15,0 m2 i tettbygd strøk eller 50,0 m2 i spredtbygd strøk og en høyde på inntil 1,0 meter over eksisterende terreng, og skal være fastmontert i en fast, ikke bevegelig konstruksjon.
 
@@ -146,9 +230,24 @@ Vilkårene i [§ 4-1](forskrift/2010-03-26-488/§4-1) første ledd og [plan- og 
 
 ### § 4-6. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover
 
-For tiltak som er nevnt nedenfor under bokstav a til h og som er i samsvar med [plan- og bygningsloven § 1-6](lov/2008-06-27-71/§1-6) andre ledd, gjelder ikke reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 20 (Søknadsplikt), 21 (Krav til innhold og behandling av søknader), 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak), 25 (Tilsyn), 27 (Tilknytning til infrastruktur), 28 (Krav til byggetomta og ubebygd areal), 29 (Krav til tiltaket), 30 (Krav til særskilte tiltak) og 31 (Krav til eksisterende byggverk). Bestemmelsene i [plan- og bygningsloven § 29-5](lov/2008-06-27-71/§29-5) (Tekniske krav) og [§ 29-7](lov/2008-06-27-71/§29-7) (Krav til produkter til byggverk) med tilhørende deler av [byggteknisk forskrift](forskrift/2017-06-19-840) gjelder så langt de passer for nevnte tiltak.Offentlige veganlegg som anlegges etter bestemmelser gitt i eller med hjemmel i [veglov 21. juni 1963 nr. 23](lov/1963-06-21-23) så langt tiltaket er detaljert avklart i gjeldende reguleringsplan etter [plan- og bygningsloven](lov/2008-06-27-71). Selv om tiltaket ikke omfattes av unntaket i første punktum, kan offentlige veganlegg hvor Statens vegvesen, fylkeskommunen eller et statlig utbyggingsselskap for veg er tiltakshaver utføres uten at reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og 25 (Tilsyn) kommer til anvendelse. Bestemmelsene i [plan- og bygningsloven § 29-2](lov/2008-06-27-71/§29-2) (Visuelle kvaliteter) og [§ 29-3](lov/2008-06-27-71/§29-3) (Krav til universell utforming og forsvarlighet) skal likevel gjelde.Vannkraftanlegg eller andre tiltak i vassdrag som er gitt konsesjon etter bestemmelser gitt i eller med hjemmel i [lov 14. desember 1917 nr. 16 om konsesjon for rettigheter til vannfall mv. (vannfallrettighetsloven)](lov/1917-12-14-16), [lov 14. desember 1917 nr. 17 om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven)](lov/1917-12-14-17) og [lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven)](lov/2000-11-24-82). Tilsvarende gjelder for tiltak på eksisterende vassdragsanlegg uten konsesjon som godkjennes etter [forskrift 18. desember 2009 nr. 1600 om sikkerhet ved vassdragsanlegg (damsikkerhetsforskriften)](forskrift/2009-12-18-1600). Andre punktum omfatter ikke midlertidig eller varig bruk av omkringliggende arealer som tiltaket eventuelt krever, som etablering av rigg- og anleggsområder, adkomst, terrenginngrep, massehåndtering, landskapstilpasning eller andre forhold utenfor selve vassdragskonstruksjonen. Unntaket etter bokstaven her omfatter ikke dammer i konsekvensklasse 0.Anlegg for produksjon av elektrisk energi som er gitt anleggskonsesjon, anlegg for fordeling av elektrisk energi som bygges med hjemmel i områdekonsesjon samt fjernvarmeanlegg som er gitt fjernvarmekonsesjon etter bestemmelser gitt i eller med hjemmel i [lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)](lov/1990-06-29-50).Nettanlegg, anlegg for fornybar energiproduksjon og andre anlegg som er gitt konsesjon etter bestemmelsene i eller i medhold av [lov 4. juni 2010 nr. 21 om fornybar energiproduksjon til havs (havenergilova)](lov/2010-06-04-21).Landbruksveier som er godkjent etter bestemmelser gitt i eller med hjemmel i [lov 27. mai 2005 nr. 31 om skogbruk (skogbrukslova)](lov/2005-05-27-31) eller [lov 12. mai 1995 nr. 23 om jord (jordlova)](lov/1995-05-12-23).Flytende akvakulturanlegg i sjø som er gitt tillatelse etter [lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven)](lov/2005-06-17-79).Steinbrudd, gruver og massetak med tilhørende knuseverk og sorteringsanlegg som er i samsvar med gjeldende reguleringsplan og som er gitt konsesjon etter bestemmelser gitt i eller med hjemmel i [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser (mineralloven)](lov/2009-06-19-101).Gjerder og anlegg i reindriften som er godkjent etter [reindriftsloven § 24](lov/2007-06-15-40/§24).
+For tiltak som er nevnt nedenfor under bokstav a til h og som er i samsvar med [plan- og bygningsloven § 1-6](lov/2008-06-27-71/§1-6) andre ledd, gjelder ikke reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 20 (Søknadsplikt), 21 (Krav til innhold og behandling av søknader), 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak), 25 (Tilsyn), 27 (Tilknytning til infrastruktur), 28 (Krav til byggetomta og ubebygd areal), 29 (Krav til tiltaket), 30 (Krav til særskilte tiltak) og 31 (Krav til eksisterende byggverk). Bestemmelsene i [plan- og bygningsloven § 29-5](lov/2008-06-27-71/§29-5) (Tekniske krav) og [§ 29-7](lov/2008-06-27-71/§29-7) (Krav til produkter til byggverk) med tilhørende deler av [byggteknisk forskrift](forskrift/2017-06-19-840) gjelder så langt de passer for nevnte tiltak.
 
-For tiltak nevnt nedenfor under bokstav a til e gjelder ikke reglene i [plan- og bygningsloven kapitlene 20](lov/2008-06-27-71/kap20) (Søknadsplikt), [21](lov/2008-06-27-71/kap21) (Krav til innhold og behandling av søknader), [22](lov/2008-06-27-71/kap22) (Sentral godkjenning av foretak), [23](lov/2008-06-27-71/kap23) (Ansvar i byggesaker), [24](lov/2008-06-27-71/kap24) (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og [25](lov/2008-06-27-71/kap25) (Tilsyn). Øvrige regler gjelder så langt de passer.Bygninger eller bygningstekniske installasjoner i tilknytning til anlegg som nevnt i første ledd bokstav b og c.Jernbaneanlegg, herunder sporvei, tunnelbane og forstadsbane, som anlegges etter bestemmelser gitt i eller med hjemmel i [lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven)](lov/1993-06-11-100), så langt tiltaket er detaljert avklart i gjeldende reguleringsplan. Selv om tiltaket ikke omfattes av unntaket i første punktum, kommer reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og 25 (Tilsyn) ikke til anvendelse for jernbaneanlegg som godkjennes av Statens jernbanetilsyn etter [jernbaneloven](lov/1993-06-11-100).Oppføring, gjenoppføring, reparasjon og riving av navigasjonsinnretninger, herunder tiltak i grunnen og sjøgrunnen ved slike innretninger, etter bestemmelser gitt i eller med hjemmel i [lov 21. juni 2019 nr. 70 om havner og farvann (havne- og farvannsloven)](lov/2019-06-21-70). Unntaket for riving omfatter bare riving av navigasjonsinnretninger som ikke medfører mer enn ti tonn bygg- og rivningsavfall.Gjenoppføring og reparasjon av navigasjonsinnretninger etter bestemmelser gitt i eller med hjemmel i [lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven)](lov/1993-06-11-101).Gjenoppføring og reparasjon av moloer og annet dekningsverk i sjø der Kystverket eller kommunen er tiltakshaver.
+1. Offentlige veganlegg som anlegges etter bestemmelser gitt i eller med hjemmel i [veglov 21. juni 1963 nr. 23](lov/1963-06-21-23) så langt tiltaket er detaljert avklart i gjeldende reguleringsplan etter [plan- og bygningsloven](lov/2008-06-27-71). Selv om tiltaket ikke omfattes av unntaket i første punktum, kan offentlige veganlegg hvor Statens vegvesen, fylkeskommunen eller et statlig utbyggingsselskap for veg er tiltakshaver utføres uten at reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og 25 (Tilsyn) kommer til anvendelse. Bestemmelsene i [plan- og bygningsloven § 29-2](lov/2008-06-27-71/§29-2) (Visuelle kvaliteter) og [§ 29-3](lov/2008-06-27-71/§29-3) (Krav til universell utforming og forsvarlighet) skal likevel gjelde.
+2. Vannkraftanlegg eller andre tiltak i vassdrag som er gitt konsesjon etter bestemmelser gitt i eller med hjemmel i [lov 14. desember 1917 nr. 16 om konsesjon for rettigheter til vannfall mv. (vannfallrettighetsloven)](lov/1917-12-14-16), [lov 14. desember 1917 nr. 17 om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven)](lov/1917-12-14-17) og [lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven)](lov/2000-11-24-82). Tilsvarende gjelder for tiltak på eksisterende vassdragsanlegg uten konsesjon som godkjennes etter [forskrift 18. desember 2009 nr. 1600 om sikkerhet ved vassdragsanlegg (damsikkerhetsforskriften)](forskrift/2009-12-18-1600). Andre punktum omfatter ikke midlertidig eller varig bruk av omkringliggende arealer som tiltaket eventuelt krever, som etablering av rigg- og anleggsområder, adkomst, terrenginngrep, massehåndtering, landskapstilpasning eller andre forhold utenfor selve vassdragskonstruksjonen. Unntaket etter bokstaven her omfatter ikke dammer i konsekvensklasse 0.
+3. Anlegg for produksjon av elektrisk energi som er gitt anleggskonsesjon, anlegg for fordeling av elektrisk energi som bygges med hjemmel i områdekonsesjon samt fjernvarmeanlegg som er gitt fjernvarmekonsesjon etter bestemmelser gitt i eller med hjemmel i [lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)](lov/1990-06-29-50).
+4. Nettanlegg, anlegg for fornybar energiproduksjon og andre anlegg som er gitt konsesjon etter bestemmelsene i eller i medhold av [lov 4. juni 2010 nr. 21 om fornybar energiproduksjon til havs (havenergilova)](lov/2010-06-04-21).
+5. Landbruksveier som er godkjent etter bestemmelser gitt i eller med hjemmel i [lov 27. mai 2005 nr. 31 om skogbruk (skogbrukslova)](lov/2005-05-27-31) eller [lov 12. mai 1995 nr. 23 om jord (jordlova)](lov/1995-05-12-23).
+6. Flytende akvakulturanlegg i sjø som er gitt tillatelse etter [lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven)](lov/2005-06-17-79).
+7. Steinbrudd, gruver og massetak med tilhørende knuseverk og sorteringsanlegg som er i samsvar med gjeldende reguleringsplan og som er gitt konsesjon etter bestemmelser gitt i eller med hjemmel i [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser (mineralloven)](lov/2009-06-19-101).
+8. Gjerder og anlegg i reindriften som er godkjent etter [reindriftsloven § 24](lov/2007-06-15-40/§24).
+
+For tiltak nevnt nedenfor under bokstav a til e gjelder ikke reglene i [plan- og bygningsloven kapitlene 20](lov/2008-06-27-71/kap20) (Søknadsplikt), [21](lov/2008-06-27-71/kap21) (Krav til innhold og behandling av søknader), [22](lov/2008-06-27-71/kap22) (Sentral godkjenning av foretak), [23](lov/2008-06-27-71/kap23) (Ansvar i byggesaker), [24](lov/2008-06-27-71/kap24) (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og [25](lov/2008-06-27-71/kap25) (Tilsyn). Øvrige regler gjelder så langt de passer.
+
+1. Bygninger eller bygningstekniske installasjoner i tilknytning til anlegg som nevnt i første ledd bokstav b og c.
+2. Jernbaneanlegg, herunder sporvei, tunnelbane og forstadsbane, som anlegges etter bestemmelser gitt i eller med hjemmel i [lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven)](lov/1993-06-11-100), så langt tiltaket er detaljert avklart i gjeldende reguleringsplan. Selv om tiltaket ikke omfattes av unntaket i første punktum, kommer reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og 25 (Tilsyn) ikke til anvendelse for jernbaneanlegg som godkjennes av Statens jernbanetilsyn etter [jernbaneloven](lov/1993-06-11-100).
+3. Oppføring, gjenoppføring, reparasjon og riving av navigasjonsinnretninger, herunder tiltak i grunnen og sjøgrunnen ved slike innretninger, etter bestemmelser gitt i eller med hjemmel i [lov 21. juni 2019 nr. 70 om havner og farvann (havne- og farvannsloven)](lov/2019-06-21-70). Unntaket for riving omfatter bare riving av navigasjonsinnretninger som ikke medfører mer enn ti tonn bygg- og rivningsavfall.
+4. Gjenoppføring og reparasjon av navigasjonsinnretninger etter bestemmelser gitt i eller med hjemmel i [lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven)](lov/1993-06-11-101).
+5. Gjenoppføring og reparasjon av moloer og annet dekningsverk i sjø der Kystverket eller kommunen er tiltakshaver.
 
 For anlegg og konstruksjoner som anlegges etter bestemmelser gitt i eller med hjemmel i [lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven)](lov/2002-06-14-20) gjelder ikke reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og 25 (Tilsyn). Unntakene omfatter også utbedring, utskiftning og reparasjon av slike anlegg og konstruksjoner, men ikke grunn- og terrengarbeider, herunder fundamentering. Øvrige regler gjelder så langt de passer.
 
@@ -196,7 +295,10 @@ Dersom søknad sendes kommunen senere enn ett år etter utsending av nabovarsel,
 
 Tidsfristen på 5 år etter [plan- og bygningsloven § 21-3](lov/2008-06-27-71/§21-3) femte ledd om unntak fra nabovarsling gjelder fra naboer og gjenboere ble varslet etter [plan- og bygningsloven § 12-10](lov/2008-06-27-71/§12-10).
 
-Det kreves ikke nabovarsel for innvendige fysiske arbeider i eksisterende byggverk. Det samme gjelderved riving av gjenstående deler av eksisterende byggverk som er ødelagt av brann, naturskade, ulykke eller lignende akutt hendelse, ellerder kommunen har gitt pålegg etter [plan- og bygningsloven § 31-5](lov/2008-06-27-71/§31-5) og pålegget ikke omfatter tillatelse til riving.
+Det kreves ikke nabovarsel for innvendige fysiske arbeider i eksisterende byggverk. Det samme gjelder
+
+1. ved riving av gjenstående deler av eksisterende byggverk som er ødelagt av brann, naturskade, ulykke eller lignende akutt hendelse, eller
+2. der kommunen har gitt pålegg etter [plan- og bygningsloven § 31-5](lov/2008-06-27-71/§31-5) og pålegget ikke omfatter tillatelse til riving.
 
 > Endret ved forskrifter [9 des 2011 nr. 1324](forskrift/2011-12-09-1324) (i kraft 1 jan 2012), [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [24 juni 2017 nr. 975](forskrift/2017-06-24-975) (i kraft 1 juli 2017).
 
@@ -220,15 +322,48 @@ Søknad om tillatelse til tiltak etter [plan- og bygningsloven § 20-2](lov/2008
 
 For midlertidige tiltak etter [plan- og bygningsloven § 20-4](lov/2008-06-27-71/§20-4) bokstav c skal det i tillegg opplyses om plasseringens varighet, og søknaden skal i nødvendig utstrekning inneholde opplysninger om hvordan kravene i [plan- og bygningsloven § 30-5](lov/2008-06-27-71/§30-5) er ivaretatt.
 
-Opplysninger som er relevante ved søknad ertiltakshavereiendom og eksisterende bebyggelse som berøres av tiltaketbeskrivelse av tiltakets arttiltakets størrelse og grad av utnyttingforhold til plangrunnlaget og [plan- og bygningsloven § 1-8](lov/2008-06-27-71/§1-8)ivaretakelse av krav til universell utforming og arkitektonisk utforming, herunder visuelle kvalitetertiltakets sikkerhet mot fare eller vesentlig ulempe som følge av natur- eller miljøforhold, og behov for eventuelle sikringstiltakkonsekvensanalyse som framgår av [byggteknisk forskrift § 9-4](forskrift/2017-06-19-840/§9-4)minsteavstand til annen bebyggelse, kraftlinjer, vegmidte, vann- og avløpsledningeratkomst, vannforsyning, avløp, avledning av overvann, flomveier for overvann og fjernvarmetilknytning.eventuelt behov og grunnlag for dispensasjonom det er avholdt forhåndskonferansetegninger og målsatt situasjonsplanredegjørelse for nabovarsling og nabomerknader, samt kvittering for nabovarselforholdet til andre myndighetergjennomføringsplanerklæringer om ansvarsrett.
+Opplysninger som er relevante ved søknad er
 
-Ved søknad om rammetillatelse, jf. [§ 6-4](forskrift/2010-03-26-488/§6-4), må alle opplysninger som er nevnt i tredje ledd følge søknaden i den utstrekning de er relevante for tiltaket, med følgende unntakuniversell utforming og arkitektonisk utforming, jf. tredje ledd bokstav f, skal bare dokumenteres i den utstrekning forholdet avklares i rammetillatelsenfor forhold som gjelder sikring mot fare eller vesentlig ulempe som følge av natur- eller miljøforhold, jf. tredje ledd bokstav g, er det tilstrekkelig at faren er identifisert og muligheten for sikring er utredetfor forhold som atkomst, vannforsyning, avløp og fjernvarmetilknytning, jf. tredje ledd bokstav j, er det tilstrekkelig at det er dokumentert at nødvendige rettigheter er sikretdet er tilstrekkelig å dokumentere hvilke myndigheter tiltaket er avklart i forhold til, jf. tredje ledd bokstav oerklæringer om ansvarsrett, jf. tredje ledd bokstav q, kreves for ansvarlig søker og for ansvarlig prosjekterende for forhold som avklares i rammetillatelsen.
+1. tiltakshaver
+2. eiendom og eksisterende bebyggelse som berøres av tiltaket
+3. beskrivelse av tiltakets art
+4. tiltakets størrelse og grad av utnytting
+5. forhold til plangrunnlaget og [plan- og bygningsloven § 1-8](lov/2008-06-27-71/§1-8)
+6. ivaretakelse av krav til universell utforming og arkitektonisk utforming, herunder visuelle kvaliteter
+7. tiltakets sikkerhet mot fare eller vesentlig ulempe som følge av natur- eller miljøforhold, og behov for eventuelle sikringstiltak
+8. konsekvensanalyse som framgår av [byggteknisk forskrift § 9-4](forskrift/2017-06-19-840/§9-4)
+9. minsteavstand til annen bebyggelse, kraftlinjer, vegmidte, vann- og avløpsledninger
+10. atkomst, vannforsyning, avløp, avledning av overvann, flomveier for overvann og fjernvarmetilknytning.
+11. eventuelt behov og grunnlag for dispensasjon
+12. om det er avholdt forhåndskonferanse
+13. tegninger og målsatt situasjonsplan
+14. redegjørelse for nabovarsling og nabomerknader, samt kvittering for nabovarsel
+15. forholdet til andre myndigheter
+16. gjennomføringsplan
+17. erklæringer om ansvarsrett.
+
+Ved søknad om rammetillatelse, jf. [§ 6-4](forskrift/2010-03-26-488/§6-4), må alle opplysninger som er nevnt i tredje ledd følge søknaden i den utstrekning de er relevante for tiltaket, med følgende unntak
+
+1. universell utforming og arkitektonisk utforming, jf. tredje ledd bokstav f, skal bare dokumenteres i den utstrekning forholdet avklares i rammetillatelsen
+2. for forhold som gjelder sikring mot fare eller vesentlig ulempe som følge av natur- eller miljøforhold, jf. tredje ledd bokstav g, er det tilstrekkelig at faren er identifisert og muligheten for sikring er utredet
+3. for forhold som atkomst, vannforsyning, avløp og fjernvarmetilknytning, jf. tredje ledd bokstav j, er det tilstrekkelig at det er dokumentert at nødvendige rettigheter er sikret
+4. det er tilstrekkelig å dokumentere hvilke myndigheter tiltaket er avklart i forhold til, jf. tredje ledd bokstav o
+5. erklæringer om ansvarsrett, jf. tredje ledd bokstav q, kreves for ansvarlig søker og for ansvarlig prosjekterende for forhold som avklares i rammetillatelsen.
 
 > Endret ved forskrifter [9 des 2011 nr. 1324](forskrift/2011-12-09-1324) (i kraft 1 jan 2012), [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [14 des 2015 nr. 1631](forskrift/2015-12-14-1631) (i kraft 1 jan 2016), [24 juni 2017 nr. 975](forskrift/2017-06-24-975) (i kraft 1 juli 2017), [22 juni 2023 nr. 1091](forskrift/2023-06-22-1091) (i kraft 1 jan 2024).
 
 ### § 5-5. Dokumentasjon som skal foreligge i tiltaket
 
-Dokumentasjon som viser oppfyllelse av krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) skal foreligge i tiltaket og være kjent for den ansvarlige i den grad de er relevante for foretakets oppgaver. Dokumentasjonen skal være tilgjengelig ved tilsyn. Dokumentasjon skal være på norsk eller et annet skandinavisk språk. Dette gjelder blant annettillatelsentegningsmateriale og annet produksjonsunderlagsamsvarserklæringer og kontrollerklæringerdokumentasjon for driftsfasen, jf. [byggteknisk forskrift kapittel 4](forskrift/2017-06-19-840/kap4)dokumentasjon for oppfyllelsen av [byggteknisk forskrift kapittel 2](forskrift/2017-06-19-840/kap2) og [§ 3-1](forskrift/2017-06-19-840/§3-1) tredje ledddokumentasjon for oppfyllelse av kvalifikasjonskrav som følger av [kapittel 9](forskrift/2010-03-26-488/kap9) til [11](forskrift/2010-03-26-488/kap11)kopi av søknad med tiltakshavers signatur ved bruk av elektronisk søknad, jf. [§ 5-1](forskrift/2010-03-26-488/§5-1) andre leddavfallsplan, dokumentasjon på faktisk disponering av avfallet og rapport fra miljøkartlegging, jf. [byggteknisk forskrift § 9-6](forskrift/2017-06-19-840/§9-6), [§ 9-7](forskrift/2017-06-19-840/§9-7) og [§ 9-9](forskrift/2017-06-19-840/§9-9).
+Dokumentasjon som viser oppfyllelse av krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) skal foreligge i tiltaket og være kjent for den ansvarlige i den grad de er relevante for foretakets oppgaver. Dokumentasjonen skal være tilgjengelig ved tilsyn. Dokumentasjon skal være på norsk eller et annet skandinavisk språk. Dette gjelder blant annet
+
+1. tillatelsen
+2. tegningsmateriale og annet produksjonsunderlag
+3. samsvarserklæringer og kontrollerklæringer
+4. dokumentasjon for driftsfasen, jf. [byggteknisk forskrift kapittel 4](forskrift/2017-06-19-840/kap4)
+5. dokumentasjon for oppfyllelsen av [byggteknisk forskrift kapittel 2](forskrift/2017-06-19-840/kap2) og [§ 3-1](forskrift/2017-06-19-840/§3-1) tredje ledd
+6. dokumentasjon for oppfyllelse av kvalifikasjonskrav som følger av [kapittel 9](forskrift/2010-03-26-488/kap9) til [11](forskrift/2010-03-26-488/kap11)
+7. kopi av søknad med tiltakshavers signatur ved bruk av elektronisk søknad, jf. [§ 5-1](forskrift/2010-03-26-488/§5-1) andre ledd
+8. avfallsplan, dokumentasjon på faktisk disponering av avfallet og rapport fra miljøkartlegging, jf. [byggteknisk forskrift § 9-6](forskrift/2017-06-19-840/§9-6), [§ 9-7](forskrift/2017-06-19-840/§9-7) og [§ 9-9](forskrift/2017-06-19-840/§9-9).
 
 > Endret ved [forskrifter 9 juni 2015 nr. 627](forskrift/2015-06-09-627) (i kraft 1 jan 2016), [29 mai 2022 nr. 946](forskrift/2022-05-29-946) (i kraft 1 juli 2022, se endringsforskriften del II for overgangsregel som gjelder frem til 1. juli 2023).
 
@@ -252,7 +387,23 @@ Kommunen har ansvar for å føre referat fra forhåndskonferansen. Referatet ska
 
 ### § 6-2. Den kommunale bygningsmyndighetens samordningsplikt
 
-Kommunens samordningsplikt etter [plan- og bygningsloven § 21-5](lov/2008-06-27-71/§21-5) omfatter følgende myndigheter:helsemyndighetbrannvernmyndighetarbeidsmiljømyndighetvegmyndighethavnemyndighetforurensningsmyndighetSivilforsvaretjordlovmyndighetfriluftsmyndighetkulturminnemyndighetreindriftsmyndighetkirkelig myndighetluftfartsmyndighetbergverksmyndighetjernbanemyndighet.
+Kommunens samordningsplikt etter [plan- og bygningsloven § 21-5](lov/2008-06-27-71/§21-5) omfatter følgende myndigheter:
+
+1. helsemyndighet
+2. brannvernmyndighet
+3. arbeidsmiljømyndighet
+4. vegmyndighet
+5. havnemyndighet
+6. forurensningsmyndighet
+7. Sivilforsvaret
+8. jordlovmyndighet
+9. friluftsmyndighet
+10. kulturminnemyndighet
+11. reindriftsmyndighet
+12. kirkelig myndighet
+13. luftfartsmyndighet
+14. bergverksmyndighet
+15. jernbanemyndighet.
 
 Søker kan selv forelegge saken for berørte myndigheter.
 
@@ -260,11 +411,24 @@ Søker kan selv forelegge saken for berørte myndigheter.
 
 ### § 6-3. Plassering av tiltak
 
-Kommunen skal godkjenne tiltakets plassering, jf. [plan- og bygningsloven § 29-4](lov/2008-06-27-71/§29-4), og i den utstrekning det er nødvendigfremskaffe oppdatert situasjonskart for eiendommer berørt av det planlagte tiltaketoppgi toleransegrensene som gjelder for plasseringen av tiltaket i situasjonsplanen og i marken (utstikkingen).
+Kommunen skal godkjenne tiltakets plassering, jf. [plan- og bygningsloven § 29-4](lov/2008-06-27-71/§29-4), og i den utstrekning det er nødvendig
+
+1. fremskaffe oppdatert situasjonskart for eiendommer berørt av det planlagte tiltaket
+2. oppgi toleransegrensene som gjelder for plasseringen av tiltaket i situasjonsplanen og i marken (utstikkingen).
 
 ### § 6-4. Rammetillatelse
 
-Så langt det er relevant for tiltaket skal rammetillatelse omfattetiltakets art og formålstørrelse, antall bruksenheter og grad av utnyttingavklaring i forhold til plangrunnlagetform, plassering, parkeringsløsninger, uteoppholdsareal, visuell utformingsikkerhet mot fareforholdet til utvalgte naturtypersikkerhet for godkjent veg-, vann-, overvanns- og avløpsløsningbehovet for, og eventuelt søknad om, dispensasjonavklaring av forholdet til naboene.
+Så langt det er relevant for tiltaket skal rammetillatelse omfatte
+
+1. tiltakets art og formål
+2. størrelse, antall bruksenheter og grad av utnytting
+3. avklaring i forhold til plangrunnlaget
+4. form, plassering, parkeringsløsninger, uteoppholdsareal, visuell utforming
+5. sikkerhet mot fare
+6. forholdet til utvalgte naturtyper
+7. sikkerhet for godkjent veg-, vann-, overvanns- og avløpsløsning
+8. behovet for, og eventuelt søknad om, dispensasjon
+9. avklaring av forholdet til naboene.
 
 Rammetillatelse kan i tillegg omfatte andre forhold.
 
@@ -296,13 +460,21 @@ Ansvarsrett kan gis for funksjonene søker, prosjekterende og utførende for fag
 
 ### § 6-9. Vedtak om å frata ansvarsrett
 
-Kommunen skal frata ansvarlig foretak ansvarsrett når foretaket:i vesentlig grad har unnlatt å ivareta krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) som stilles til funksjonen som ansvarlig søker, prosjekterende, utførende eller kontrollerende,har unnlatt å etterkomme pålegg fra kommunen ellerikke er kvalifisert for oppgaven.
+Kommunen skal frata ansvarlig foretak ansvarsrett når foretaket:
+
+1. i vesentlig grad har unnlatt å ivareta krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) som stilles til funksjonen som ansvarlig søker, prosjekterende, utførende eller kontrollerende,
+2. har unnlatt å etterkomme pålegg fra kommunen eller
+3. ikke er kvalifisert for oppgaven.
 
 Varsel om å frata ansvarsrett skal sendes skriftlig til foretaket. Foretaket skal gis en frist til å uttale seg som ikke skal være kortere enn 2 uker fra varselet er sendt. Kopi av varsel og vedtak om å frata ansvarsretten skal sendes tiltakshaver og ansvarlig søker.
 
 Kommunen kan midlertidig sette ansvarsretten ut av kraft med øyeblikkelig virkning og uten krav om varsel etter andre ledd, jf. [plan- og bygningsloven § 23-3](lov/2008-06-27-71/§23-3) tredje ledd, dersom det avdekkes forhold ved det ansvarlige foretakets gjennomføring som kan medføre betydelig fare for helse, miljø eller sikkerhet.
 
-Foretak som har fått fratatt ansvarsretten, kan ikke erklære ny ansvarsrett i tiltaket før følgende er dokumentert overfor kommunen:avvik som lå til grunn for fratakelse av ansvarsrett er rettetforhold ved foretaket som forårsaket fratakelse av ansvarsrett, er rettetvilkårene for ansvarsrett for øvrig er til stede.
+Foretak som har fått fratatt ansvarsretten, kan ikke erklære ny ansvarsrett i tiltaket før følgende er dokumentert overfor kommunen:
+
+1. avvik som lå til grunn for fratakelse av ansvarsrett er rettet
+2. forhold ved foretaket som forårsaket fratakelse av ansvarsrett, er rettet
+3. vilkårene for ansvarsrett for øvrig er til stede.
 
 Bestemmelsen gjelder tilsvarende for personlig ansvarsrett for selvbygger.
 
@@ -312,7 +484,14 @@ Bestemmelsen gjelder tilsvarende for personlig ansvarsrett for selvbygger.
 
 ### § 7-1. Tidsfrister for kommunens og klageinstansens saksbehandling
 
-I tillegg til saksbehandlingsfristene som fremgår av [plan- og bygningsloven § 21-7](lov/2008-06-27-71/§21-7), gjelder følgende tidsfrister for kommunens og klageinstansens saksbehandling:Forhåndskonferanse skal avholdes av kommunen innen 2 uker. Der eksisterende byggverk er ødelagt av brann, naturskade, ulykke eller lignende hendelse, skal forhåndskonferanse avholdes innen 5 dager.Søknad om midlertidig brukstillatelse skal behandles av kommunen innen 3 ukerklagesaker skal forberedes av kommunen og oversendes til klageinstansen så snart saken er tilrettelagt, og senest innen 8 uker. Samme frist gjelder der kommunen tar klagen helt til følge og fatter et nytt vedtak. Fristen gjelder for klage i alle byggesaker, herunder klage i byggesaker der tiltaket krever dispensasjon fra bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)klagesaker skal avgjøres av klageinstansen innen 12 uker. Fristen gjelder for klage i alle byggesaker, herunder klage i byggesaker der tiltaket krever dispensasjon fra bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)I klagesak der det er gitt utsatt iverksetting med hjemmel i [forvaltningsloven § 42](lov/1967-02-10/§42), skal klagen behandles av klageinstansen innen 6 uker. Dette gjelder uansett om det er kommunen eller klageinstansen som har besluttet utsatt iverksettingKommunens godkjenning av planer og foreløpig beregning av refusjon etter [plan- og bygningsloven § 18-8](lov/2008-06-27-71/§18-8) skal skje innen 6 uker. Samme frist gjelder for kommunens fastsetting av refusjon etter [plan- og bygningsloven § 18-9](lov/2008-06-27-71/§18-9).
+I tillegg til saksbehandlingsfristene som fremgår av [plan- og bygningsloven § 21-7](lov/2008-06-27-71/§21-7), gjelder følgende tidsfrister for kommunens og klageinstansens saksbehandling:
+
+1. Forhåndskonferanse skal avholdes av kommunen innen 2 uker. Der eksisterende byggverk er ødelagt av brann, naturskade, ulykke eller lignende hendelse, skal forhåndskonferanse avholdes innen 5 dager.
+2. Søknad om midlertidig brukstillatelse skal behandles av kommunen innen 3 uker
+3. klagesaker skal forberedes av kommunen og oversendes til klageinstansen så snart saken er tilrettelagt, og senest innen 8 uker. Samme frist gjelder der kommunen tar klagen helt til følge og fatter et nytt vedtak. Fristen gjelder for klage i alle byggesaker, herunder klage i byggesaker der tiltaket krever dispensasjon fra bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+4. klagesaker skal avgjøres av klageinstansen innen 12 uker. Fristen gjelder for klage i alle byggesaker, herunder klage i byggesaker der tiltaket krever dispensasjon fra bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+5. I klagesak der det er gitt utsatt iverksetting med hjemmel i [forvaltningsloven § 42](lov/1967-02-10/§42), skal klagen behandles av klageinstansen innen 6 uker. Dette gjelder uansett om det er kommunen eller klageinstansen som har besluttet utsatt iverksetting
+6. Kommunens godkjenning av planer og foreløpig beregning av refusjon etter [plan- og bygningsloven § 18-8](lov/2008-06-27-71/§18-8) skal skje innen 6 uker. Samme frist gjelder for kommunens fastsetting av refusjon etter [plan- og bygningsloven § 18-9](lov/2008-06-27-71/§18-9).
 
 > Endret ved forskrifter [27 jan 2012 nr. 107](forskrift/2012-01-27-107) (i kraft 1 juli 2012), [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [24 juni 2017 nr. 975](forskrift/2017-06-24-975) (i kraft 1 juli 2017).
 
@@ -346,7 +525,15 @@ I klagesaker kan klageinstansen forlenge fristen i særlige tilfeller. Fristen k
 
 ### § 7-4. Tidsfrister ved søknad som kun gjelder dispensasjon
 
-Følgende tidsfrister gjelder for behandling av søknad som kun gjelder dispensasjon etter [plan- og bygningsloven kapittel 19](lov/2008-06-27-71/kap19):søknad om dispensasjon etter [plan- og bygningsloven § 19-2](lov/2008-06-27-71/§19-2) skal avgjøres innen 12 uker. Fristen gjelder fra søknad er mottatt og til vedtak er sendt. Fristen kan forlenges med den tid som medgår til feilretting eller supplering av opplysninger. Fristen løper ikke i den tiden søknaden ligger til uttalelse hos statlige og regionale myndigheter, jf. [plan- og bygningsloven § 19-1](lov/2008-06-27-71/§19-1).Kommunen kan forlenge fristen dersom saken er særlig komplisert, krever ekstra politisk avklaring eller der undersøkelse på barmark er nødvendig.underretning om ny frist må være sendt søker før utløpet av tidligere fastsatt frist.klagesaken skal forberedes av kommunen og oversendes klageinstansen så snart saken er tilrettelagt, og senest innen 8 uker. Samme frist gjelder der kommunen tar klagen helt til følge og fatter et nytt vedtak.klagesak skal avgjøres av klageinstansen innen 12 uker. Klageinstansen kan forlenge fristen i særlige tilfeller. Fristen kan forlenges i inntil 4 uker av gangen. I saker som krever undersøkelse på barmark kan klageinstansen forlenge fristen slik at befaring kan gjennomføres. Ny frist skal meddeles klagesakens parter så snart det er klart at fristen vil bli overskredet.i klagesak der det er gitt utsatt iverksetting med hjemmel i [forvaltningsloven § 42](lov/1967-02-10/§42), skal klagen behandles av klageinstansen innen 6 uker.
+Følgende tidsfrister gjelder for behandling av søknad som kun gjelder dispensasjon etter [plan- og bygningsloven kapittel 19](lov/2008-06-27-71/kap19):
+
+1. søknad om dispensasjon etter [plan- og bygningsloven § 19-2](lov/2008-06-27-71/§19-2) skal avgjøres innen 12 uker. Fristen gjelder fra søknad er mottatt og til vedtak er sendt. Fristen kan forlenges med den tid som medgår til feilretting eller supplering av opplysninger. Fristen løper ikke i den tiden søknaden ligger til uttalelse hos statlige og regionale myndigheter, jf. [plan- og bygningsloven § 19-1](lov/2008-06-27-71/§19-1).
+
+   Kommunen kan forlenge fristen dersom saken er særlig komplisert, krever ekstra politisk avklaring eller der undersøkelse på barmark er nødvendig.
+2. underretning om ny frist må være sendt søker før utløpet av tidligere fastsatt frist.
+3. klagesaken skal forberedes av kommunen og oversendes klageinstansen så snart saken er tilrettelagt, og senest innen 8 uker. Samme frist gjelder der kommunen tar klagen helt til følge og fatter et nytt vedtak.
+4. klagesak skal avgjøres av klageinstansen innen 12 uker. Klageinstansen kan forlenge fristen i særlige tilfeller. Fristen kan forlenges i inntil 4 uker av gangen. I saker som krever undersøkelse på barmark kan klageinstansen forlenge fristen slik at befaring kan gjennomføres. Ny frist skal meddeles klagesakens parter så snart det er klart at fristen vil bli overskredet.
+5. i klagesak der det er gitt utsatt iverksetting med hjemmel i [forvaltningsloven § 42](lov/1967-02-10/§42), skal klagen behandles av klageinstansen innen 6 uker.
 
 > Tilføyd ved [forskrift 8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015).
 
@@ -366,7 +553,11 @@ Ved overskridelse av tidsfristene i [§ 7-4](forskrift/2010-03-26-488/§7-4) bok
 
 ### § 8-1. Ferdigstillelse av tiltak
 
-Kommunen skal etter søknad utstede ferdigattest for alle søknadspliktige tiltak når vilkårene i [plan- og bygningsloven § 21-10](lov/2008-06-27-71/§21-10) foreligger. Følgende søknadspliktige tiltak skal ikke avsluttes med ferdigattest:Opprettelse av ny eiendom, festegrunn eller arealoverføring etter [plan- og bygningsloven § 20-1](lov/2008-06-27-71/§20-1) første ledd bokstav mmidlertidige bygninger, konstruksjoner eller anlegg som nevnt i [plan- og bygningsloven § 20-4](lov/2008-06-27-71/§20-4) første ledd bokstav c som ikke skal brukes til varig oppholdSkilt- og reklameinnretninger der tillatelse er gitt for et bestemt tidsrom.
+Kommunen skal etter søknad utstede ferdigattest for alle søknadspliktige tiltak når vilkårene i [plan- og bygningsloven § 21-10](lov/2008-06-27-71/§21-10) foreligger. Følgende søknadspliktige tiltak skal ikke avsluttes med ferdigattest:
+
+1. Opprettelse av ny eiendom, festegrunn eller arealoverføring etter [plan- og bygningsloven § 20-1](lov/2008-06-27-71/§20-1) første ledd bokstav m
+2. midlertidige bygninger, konstruksjoner eller anlegg som nevnt i [plan- og bygningsloven § 20-4](lov/2008-06-27-71/§20-4) første ledd bokstav c som ikke skal brukes til varig opphold
+3. Skilt- og reklameinnretninger der tillatelse er gitt for et bestemt tidsrom.
 
 Ved søknad om ferdigattest skal søker bekrefte at tilstrekkelig dokumentasjon som grunnlag for driftsfasen er overlevert byggverkets eier.
 
@@ -376,7 +567,12 @@ Der det kreves gjennomføringsplan, jf. [§ 5-3](forskrift/2010-03-26-488/§5-3)
 
 Dersom det er foretatt justeringer i forhold til tillatelsen som ikke krever endringssøknad, skal søker senest ved søknad om ferdigattest eller midlertidig brukstillatelse sende oppdatert situasjonsplan, tegninger og dokumentasjon om tiltakets plassering slik den er utført. Dokumentasjon om tiltakets plassering skal enten skje ved innmålte koordinatverdier eller ved inntegning på tidligere godkjent situasjonsplan.
 
-For tiltak der søknad om byggetillatelse ble sendt kommunen i perioden fra og med 1. januar 1998 til og med 30. juni 2010, og det er gitt midlertidig brukstillatelse, skal kommunen utstede ferdigattest når det enten:ikke gjenstod alvorlige forhold etter gitt midlertidig brukstillatelse, og foretak med ansvarsrett for relevant fagområde vurderer og avgir erklæring om at de gjenstående forholdene er utført i samsvar med byggetillatelsen, ellerkun gjenstod forhold av mindre betydning etter gitt midlertidig brukstillatelse, og eier eller tiltakshaver har gitt erklæring om at arbeidene er utført i samsvar med byggetillatelsen.Der det søkes om ferdigattest etter bokstav b, avgjør kommunen om gjenstående arbeider er av en slik art at bestemmelsen kan benyttes.
+For tiltak der søknad om byggetillatelse ble sendt kommunen i perioden fra og med 1. januar 1998 til og med 30. juni 2010, og det er gitt midlertidig brukstillatelse, skal kommunen utstede ferdigattest når det enten:
+
+1. ikke gjenstod alvorlige forhold etter gitt midlertidig brukstillatelse, og foretak med ansvarsrett for relevant fagområde vurderer og avgir erklæring om at de gjenstående forholdene er utført i samsvar med byggetillatelsen, eller
+2. kun gjenstod forhold av mindre betydning etter gitt midlertidig brukstillatelse, og eier eller tiltakshaver har gitt erklæring om at arbeidene er utført i samsvar med byggetillatelsen.
+
+Der det søkes om ferdigattest etter bokstav b, avgjør kommunen om gjenstående arbeider er av en slik art at bestemmelsen kan benyttes.
 
 > Endret ved forskrifter [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [1 okt 2018 nr. 1503](forskrift/2018-10-01-1503), [29 mai 2022 nr. 946](forskrift/2022-05-29-946) (i kraft 1 juli 2022, se endringsforskriften del II for overgangsregel som gjelder frem til 1. juli 2023).
 
@@ -422,9 +618,15 @@ Oppgaver knyttet til tiltaket kan plasseres i ulik tiltaksklasse for den enkelte
 
 Tiltaksklasse 1 omfatter, uavhengig av funksjon og fagområde, tiltak eller oppgaver av liten kompleksitet og vanskelighetsgrad, og der mangler eller feil ved tiltaket fører til mindre konsekvenser for helse, miljø og sikkerhet.
 
-Tiltaksklasse 2 omfatter, uavhengig av funksjon og fagområde, tiltak eller oppgaver avliten kompleksitet og vanskelighetsgrad, men der mangler eller feil kan føre til middels til store konsekvenser for helse, miljø og sikkerhet, ellermiddels kompleksitet og vanskelighetsgrad, men der mangler eller feil kan føre til små til middels konsekvenser for helse, miljø og sikkerhet.
+Tiltaksklasse 2 omfatter, uavhengig av funksjon og fagområde, tiltak eller oppgaver av
 
-Tiltaksklasse 3 omfatter, uavhengig av funksjon og fagområde, tiltak eller oppgaver avmiddels kompleksitet og vanskelighetsgrad, men der mangler eller feil kan føre til store konsekvenser for helse, miljø og sikkerhet, ellerstor kompleksitet og vanskelighetsgrad.
+1. liten kompleksitet og vanskelighetsgrad, men der mangler eller feil kan føre til middels til store konsekvenser for helse, miljø og sikkerhet, eller
+2. middels kompleksitet og vanskelighetsgrad, men der mangler eller feil kan føre til små til middels konsekvenser for helse, miljø og sikkerhet.
+
+Tiltaksklasse 3 omfatter, uavhengig av funksjon og fagområde, tiltak eller oppgaver av
+
+1. middels kompleksitet og vanskelighetsgrad, men der mangler eller feil kan føre til store konsekvenser for helse, miljø og sikkerhet, eller
+2. stor kompleksitet og vanskelighetsgrad.
 
 ### Kapittel 10. Krav til kvalitetssikring
 
@@ -432,9 +634,23 @@ Tiltaksklasse 3 omfatter, uavhengig av funksjon og fagområde, tiltak eller oppg
 
 ### § 10-1. Kvalitetssikringsrutiner for oppfyllelse av plan- og bygningsloven
 
-Foretak som påtar seg ansvarsrett skal ha rutiner innenfor eget ansvarsområde som sikrer etterlevelse i tiltaket av krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71). Rutiner for kvalitetssikring skal omfatte:rutiner for å identifisere, ivareta, herunder verifisere, og dokumentere oppfyllelse av relevante krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) som gjelder for foretakets ansvarsområde i tiltaket, jf. [§ 1-2](forskrift/2010-03-26-488/§1-2) bokstav drutiner for å ivareta de plikter og oppgaver som følger av foretakets ansvar og funksjon i tiltaket, jf. [kap. 12](forskrift/2010-03-26-488/kap12)rutiner for å styre andre foretak som foretaket knytter til segrutiner for å identifisere, behandle og lukke avvik fra krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71).
+Foretak som påtar seg ansvarsrett skal ha rutiner innenfor eget ansvarsområde som sikrer etterlevelse i tiltaket av krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71). Rutiner for kvalitetssikring skal omfatte:
 
-Foretak som søker sentral godkjenning for ansvarsrett skal ha rutiner innenfor eget godkjenningsområde som sikrer etterlevelse av krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71). Rutiner for kvalitetssikring skal omfatte:rutiner for å identifisere, ivareta, herunder verifisere, og dokumentere oppfyllelse av relevante krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) som gjelder for foretakets godkjenningsområde, jf. [§ 1-2](lov/2008-06-27-71/§1-2) bokstav c, for å sikre at alle relevante krav og vilkår oppfylles i tiltaketrutiner for å ivareta de plikter og oppgaver som følger av foretakets ansvar og funksjon, jf. [kap. 12](forskrift/2010-03-26-488/kap12)rutiner for å styre andre foretak som foretaket knytter til segrutiner for å identifisere, behandle og lukke avvik, herunder hindre gjentagelse av avvik, fra krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)rutiner for å ivareta registrering, versjonshåndtering, videreformidling og oppbevaring av dokumentasjon som viser at krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) er oppfyltorganisasjonsplan, jf. [§ 1-2](forskrift/2010-03-26-488/§1-2) første ledd bokstav erutiner for å sikre at foretaket har nødvendige og oppdaterte kunnskaper om krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) som er relevante for foretakets godkjenningsområderutiner for å sikre jevnlig gjennomgang og oppdatering av kvalitetssikring.
+1. rutiner for å identifisere, ivareta, herunder verifisere, og dokumentere oppfyllelse av relevante krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) som gjelder for foretakets ansvarsområde i tiltaket, jf. [§ 1-2](forskrift/2010-03-26-488/§1-2) bokstav d
+2. rutiner for å ivareta de plikter og oppgaver som følger av foretakets ansvar og funksjon i tiltaket, jf. [kap. 12](forskrift/2010-03-26-488/kap12)
+3. rutiner for å styre andre foretak som foretaket knytter til seg
+4. rutiner for å identifisere, behandle og lukke avvik fra krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71).
+
+Foretak som søker sentral godkjenning for ansvarsrett skal ha rutiner innenfor eget godkjenningsområde som sikrer etterlevelse av krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71). Rutiner for kvalitetssikring skal omfatte:
+
+1. rutiner for å identifisere, ivareta, herunder verifisere, og dokumentere oppfyllelse av relevante krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) som gjelder for foretakets godkjenningsområde, jf. [§ 1-2](lov/2008-06-27-71/§1-2) bokstav c, for å sikre at alle relevante krav og vilkår oppfylles i tiltaket
+2. rutiner for å ivareta de plikter og oppgaver som følger av foretakets ansvar og funksjon, jf. [kap. 12](forskrift/2010-03-26-488/kap12)
+3. rutiner for å styre andre foretak som foretaket knytter til seg
+4. rutiner for å identifisere, behandle og lukke avvik, herunder hindre gjentagelse av avvik, fra krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+5. rutiner for å ivareta registrering, versjonshåndtering, videreformidling og oppbevaring av dokumentasjon som viser at krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) er oppfylt
+6. organisasjonsplan, jf. [§ 1-2](forskrift/2010-03-26-488/§1-2) første ledd bokstav e
+7. rutiner for å sikre at foretaket har nødvendige og oppdaterte kunnskaper om krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) som er relevante for foretakets godkjenningsområde
+8. rutiner for å sikre jevnlig gjennomgang og oppdatering av kvalitetssikring.
 
 > Endret ved [forskrift 9 juni 2015 nr. 627](forskrift/2015-06-09-627) (i kraft 1 jan 2016).
 
@@ -452,7 +668,11 @@ Foretak eller andre skal ved søknad om sentral godkjenning for ansvarsrett, skr
 
 I erklæring om ansvarsrett skal foretaket bekrefte at faglig ledelse oppfyller krav til relevant utdanning og praksis som følger av [kapittel 11](forskrift/2010-03-26-488/kap11), og at faglig ledelse i tiltaket benytter personell med nødvendige og relevante kvalifikasjoner for å gjennomføre det aktuelle tiltaket på en forsvarlig måte slik at krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) ivaretas. Ved tilsyn skal foretaket dokumentere at faglig ledelse oppfyller krav til utdanning og praksis som angitt i [§ 11-3](forskrift/2010-03-26-488/§11-3).
 
-Ved søknad om sentral godkjenning for ansvarsrett skal foretaket dokumentere at faglig ledelse er fast ansatt i foretaket og oppfyller krav til relevant utdanning og praksis som er tilpasset det omsøkte godkjenningsområde. Kravene kan dokumenteres på følgende måte:Utdanning kan dokumenteres ved å legge frem kopi av vitnemål eller kvalifikasjonsbevis som er utstedt av offentlig myndighet i Norge eller annen EØS-stat, og som viser relevant utdanning.Praksis kan dokumenteres ved referanseprosjekter, attester eller erklæring om ansvarsrett.Ansettelse kan dokumenteres ved å legge frem skriftlige arbeidsavtaler i henhold til [arbeidsmiljøloven § 14-5](lov/2005-06-17-62/§14-5) og [§ 14-6](lov/2005-06-17-62/§14-6).
+Ved søknad om sentral godkjenning for ansvarsrett skal foretaket dokumentere at faglig ledelse er fast ansatt i foretaket og oppfyller krav til relevant utdanning og praksis som er tilpasset det omsøkte godkjenningsområde. Kravene kan dokumenteres på følgende måte:
+
+1. Utdanning kan dokumenteres ved å legge frem kopi av vitnemål eller kvalifikasjonsbevis som er utstedt av offentlig myndighet i Norge eller annen EØS-stat, og som viser relevant utdanning.
+2. Praksis kan dokumenteres ved referanseprosjekter, attester eller erklæring om ansvarsrett.
+3. Ansettelse kan dokumenteres ved å legge frem skriftlige arbeidsavtaler i henhold til [arbeidsmiljøloven § 14-5](lov/2005-06-17-62/§14-5) og [§ 14-6](lov/2005-06-17-62/§14-6).
 
 Ved erklæring av ansvarsrett, tilsyn med kvalifikasjonene til ansvarlig foretak og vurdering av tilbaketrekking etter [§ 6-9](forskrift/2010-03-26-488/§6-9) første ledd bokstav c, skal relevant sentral godkjenning normalt legges til grunn av kommunen.
 
@@ -460,7 +680,13 @@ Ved erklæring av ansvarsrett, tilsyn med kvalifikasjonene til ansvarlig foretak
 
 ### § 11-2. Utdanningsnivåer
 
-Foretak som påtar seg ansvarsrett i byggesak, skal ha faglig ledelse med eksamen eller annen bestått prøve som er relevant for foretakets ansvarsrett. Følgende alternative utdanningsnivåer skal være oppfylt:fag- eller svennebrev, eller tilsvarendemesterbrev eller tilsvarendehøyere fagskolegrad med 120 studiepoeng, eller tilsvarendebachelorgrad i ingeniørutdanning, høgskolegrad eller tilsvarende grad med 180 studiepoeng, eller tilsvarendemastergrad i ingeniørutdanning eller arkitektur, sivilarkitekt, sivilingeniør, eller tilsvarende grad med 300 studiepoeng, eller tilsvarende.
+Foretak som påtar seg ansvarsrett i byggesak, skal ha faglig ledelse med eksamen eller annen bestått prøve som er relevant for foretakets ansvarsrett. Følgende alternative utdanningsnivåer skal være oppfylt:
+
+1. fag- eller svennebrev, eller tilsvarende
+2. mesterbrev eller tilsvarende
+3. høyere fagskolegrad med 120 studiepoeng, eller tilsvarende
+4. bachelorgrad i ingeniørutdanning, høgskolegrad eller tilsvarende grad med 180 studiepoeng, eller tilsvarende
+5. mastergrad i ingeniørutdanning eller arkitektur, sivilarkitekt, sivilingeniør, eller tilsvarende grad med 300 studiepoeng, eller tilsvarende.
 
 Tilsvarende gjelder for foretak som søker om sentral godkjenning.
 
@@ -505,7 +731,10 @@ Foretak som påtar seg ansvar som ansvarlig kontrollerende, må ha faglig ledels
 
 Tilsvarende gjelder for foretak som søker om sentral godkjenning.
 
-For tiltaksklasse 1 kan kommunen godkjenne at:kravet til praksis reduseres for ansvarlig søker og ansvarlig prosjekterende ved relevant utdanning av lengre varighet eller høyere gradkravet til utdanning reduseres ved relevant praksis av lengre varighet og god kvalitet.
+For tiltaksklasse 1 kan kommunen godkjenne at:
+
+1. kravet til praksis reduseres for ansvarlig søker og ansvarlig prosjekterende ved relevant utdanning av lengre varighet eller høyere grad
+2. kravet til utdanning reduseres ved relevant praksis av lengre varighet og god kvalitet.
 
 > Endret ved [forskrift 9 juni 2015 nr. 627](forskrift/2015-06-09-627) (i kraft 1 jan 2016, tidligere § 11-2).
 
@@ -525,7 +754,10 @@ Tilsvarende gjelder ved tilsyn med foretak som har ansvarsrett i byggesaker.
 
 Tiltakshaver har ansvar for å fremskaffe nye ansvarlige foretak ved opphør eller andre endringer i ansvarsrettene. Tiltakshaver er ansvarlig for innbetaling av byggesaksgebyr til kommunen. Kommunen kan i alle saker etter [plan- og bygningsloven](lov/2008-06-27-71) rette pålegg mot tiltakshaver.
 
-Der tiltakshavers ansvar ikke videreføres til ansvarlige foretak, jf. [plan- og bygningsloven § 23-1](lov/2008-06-27-71/§23-1) andre ledd, har han ansvar for at søknad, prosjektering og utførelse er i samsvar med krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71). Ansvaret omfatter blant annetansvar for å varsle naboer, motta og redegjøre for nabomerknader, og for søknadens innhold for øvrigansvar for plassering, eventuell utarbeidelse og oppdatering av gjennomføringsplan, jf. [§ 5-3](forskrift/2010-03-26-488/§5-3), og for søknad om ferdigattest.
+Der tiltakshavers ansvar ikke videreføres til ansvarlige foretak, jf. [plan- og bygningsloven § 23-1](lov/2008-06-27-71/§23-1) andre ledd, har han ansvar for at søknad, prosjektering og utførelse er i samsvar med krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71). Ansvaret omfatter blant annet
+
+1. ansvar for å varsle naboer, motta og redegjøre for nabomerknader, og for søknadens innhold for øvrig
+2. ansvar for plassering, eventuell utarbeidelse og oppdatering av gjennomføringsplan, jf. [§ 5-3](forskrift/2010-03-26-488/§5-3), og for søknad om ferdigattest.
 
 Der tiltakshaver er godkjent som selvbygger etter [§ 6-8](forskrift/2010-03-26-488/§6-8), er han ansvarlig for de deler av tiltaket der det ikke benyttes foretak med selvstendig ansvarsrett.
 
@@ -535,25 +767,71 @@ Tiltakshaver har ansvar for at det iverksettes kontroll der dette kreves etter [
 
 ### § 12-2. Ansvarlig søkers ansvar
 
-I tillegg til ansvar etter [plan- og bygningsloven § 23-4](lov/2008-06-27-71/§23-4) har ansvarlig søker ansvar forå delta i forhåndskonferanse der tiltakshaver ønsker detå varsle om planlagte tiltak til naboer og gjenboere, være mottaker av merknader og utarbeide redegjørelse for hvordan merknadene er håndtert, jf. [plan- og bygningsloven § 21-2](lov/2008-06-27-71/§21-2) og [§ 21-3](lov/2008-06-27-71/§21-3)at søknad om tillatelse, eventuelt rammetillatelse og igangsettingstillatelse, inneholder alle opplysninger som er nødvendig for å vise at tiltaket oppfyller krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), jf. [§ 5-4](forskrift/2010-03-26-488/§5-4), herunder tiltakets plassering, avklaring av behov for dispensasjon, utarbeiding og oppdatering av gjennomføringsplan og tilrettelegging for kontroll, og forslag til tiltaksklasser for fagområdene, jf. [§ 9-4](forskrift/2010-03-26-488/§9-4) om tiltaksklasser og [§ 5-3](forskrift/2010-03-26-488/§5-3) om gjennomføringsplanå identifisere og avklare ansvarsområdene for ansvarlige foretak, både ved rammetillatelse og igangsettingstillatelse, og sørge for at erklæringer om ansvarsrett er sendt inn. Ansvarlig søker har ansvar for at nødvendige underskrifter foreligger fra tiltakshaver og de ansvarlige foretak. Ansvarlig søker skal melde fra til kommunen ved mangler, endringer og opphør av ansvarsretterå påse at det blir utarbeidet avfallsplan, rapport fra miljøkartlegging, rapport fra ombrukskartlegging, sluttrapport for avfallshåndtering og innhentet dokumentasjon for faktisk disponering av avfallå påse at eventuelle sikringstiltak blir prosjektert og utført, jf. [plan- og bygningsloven § 28-2](lov/2008-06-27-71/§28-2)å påse at de ansvarlige foretak blir samordnet der det er flere foretak og ansvaret for slik samordning ikke er særskilt angitt i gjennomføringsplanen eller erklæring om ansvarsrettå motta og videreformidle tillatelser, vilkår og pålegg til de ansvarlige foretak, og sende søknad ved søknadspliktige endringer i tiltaketå påse at nødvendig sluttkontroll blir gjennomført og innhente samsvarserklæringer fra ansvarlig prosjekterende og ansvarlig utførende, og kontrollerklæring fra kontrollerende for prosjektering og utførelseå søke om ferdigattest, jf. [§ 8-1](forskrift/2010-03-26-488/§8-1)å identifisere gjenstående arbeid, bekrefte at byggverket har tilfredsstillende sikkerhetsnivå, og å angi tidspunkt for ferdigstillelse dersom det søkes om midlertidig brukstillatelseå legge til rette for kommunalt tilsynå påse at dokumentasjon for forvaltning, drift og vedlikehold etter [§ 8-2](forskrift/2010-03-26-488/§8-2) foreligger, og overlevere denne til eier mot kvittering.å påse at det blir utarbeidet klimagassregnskap over faktisk bruk av byggematerialer, jf. [byggteknisk forskrift § 17-1](forskrift/2017-06-19-840/§17-1).
+I tillegg til ansvar etter [plan- og bygningsloven § 23-4](lov/2008-06-27-71/§23-4) har ansvarlig søker ansvar for
+
+1. å delta i forhåndskonferanse der tiltakshaver ønsker det
+2. å varsle om planlagte tiltak til naboer og gjenboere, være mottaker av merknader og utarbeide redegjørelse for hvordan merknadene er håndtert, jf. [plan- og bygningsloven § 21-2](lov/2008-06-27-71/§21-2) og [§ 21-3](lov/2008-06-27-71/§21-3)
+3. at søknad om tillatelse, eventuelt rammetillatelse og igangsettingstillatelse, inneholder alle opplysninger som er nødvendig for å vise at tiltaket oppfyller krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), jf. [§ 5-4](forskrift/2010-03-26-488/§5-4), herunder tiltakets plassering, avklaring av behov for dispensasjon, utarbeiding og oppdatering av gjennomføringsplan og tilrettelegging for kontroll, og forslag til tiltaksklasser for fagområdene, jf. [§ 9-4](forskrift/2010-03-26-488/§9-4) om tiltaksklasser og [§ 5-3](forskrift/2010-03-26-488/§5-3) om gjennomføringsplan
+4. å identifisere og avklare ansvarsområdene for ansvarlige foretak, både ved rammetillatelse og igangsettingstillatelse, og sørge for at erklæringer om ansvarsrett er sendt inn. Ansvarlig søker har ansvar for at nødvendige underskrifter foreligger fra tiltakshaver og de ansvarlige foretak. Ansvarlig søker skal melde fra til kommunen ved mangler, endringer og opphør av ansvarsretter
+5. å påse at det blir utarbeidet avfallsplan, rapport fra miljøkartlegging, rapport fra ombrukskartlegging, sluttrapport for avfallshåndtering og innhentet dokumentasjon for faktisk disponering av avfall
+6. å påse at eventuelle sikringstiltak blir prosjektert og utført, jf. [plan- og bygningsloven § 28-2](lov/2008-06-27-71/§28-2)
+7. å påse at de ansvarlige foretak blir samordnet der det er flere foretak og ansvaret for slik samordning ikke er særskilt angitt i gjennomføringsplanen eller erklæring om ansvarsrett
+8. å motta og videreformidle tillatelser, vilkår og pålegg til de ansvarlige foretak, og sende søknad ved søknadspliktige endringer i tiltaket
+9. å påse at nødvendig sluttkontroll blir gjennomført og innhente samsvarserklæringer fra ansvarlig prosjekterende og ansvarlig utførende, og kontrollerklæring fra kontrollerende for prosjektering og utførelse
+10. å søke om ferdigattest, jf. [§ 8-1](forskrift/2010-03-26-488/§8-1)
+11. å identifisere gjenstående arbeid, bekrefte at byggverket har tilfredsstillende sikkerhetsnivå, og å angi tidspunkt for ferdigstillelse dersom det søkes om midlertidig brukstillatelse
+12. å legge til rette for kommunalt tilsyn
+13. å påse at dokumentasjon for forvaltning, drift og vedlikehold etter [§ 8-2](forskrift/2010-03-26-488/§8-2) foreligger, og overlevere denne til eier mot kvittering.
+14. å påse at det blir utarbeidet klimagassregnskap over faktisk bruk av byggematerialer, jf. [byggteknisk forskrift § 17-1](forskrift/2017-06-19-840/§17-1).
 
 > Endret ved [forskrifter 9 juni 2015 nr. 627](forskrift/2015-06-09-627) (i kraft 1 jan 2016), [29 mai 2022 nr. 946](forskrift/2022-05-29-946) (i kraft 1 juli 2022, se endringsforskriften del II for overgangsregel som gjelder frem til 1. juli 2023).
 
 ### § 12-3. Ansvarlig prosjekterendes ansvar
 
-I tillegg til ansvar etter [plan- og bygningsloven § 23-5](lov/2008-06-27-71/§23-5) har ansvarlig prosjekterende ansvar forat prosjekteringen er kvalitetssikret og dokumentert i henhold til [byggteknisk forskrift kapittel 2](forskrift/2017-06-19-840/kap2) og er tilstrekkelig grunnlag for utførelsen, samt at det foreligger produktdokumentasjon i henhold til [forskrift om omsetning og dokumentasjon av produkter til byggverk](forskrift/2013-12-17-1579) dersom prosjekterende står for valg av produktå utarbeide situasjonsplan, og sjekke at situasjonskartet gir tilstrekkelig grunnlag for at tiltaket gis korrekt plassering på situasjonsplanenat det blir utarbeidet nødvendig prosjektering som grunnlag for avfallsplan og rapport fra miljøkartleggingat tiltakshaver og ansvarlig søker blir varslet dersom prosjektering utløser behov for nødvendige sikringstiltak, jf. [plan- og bygningsloven § 28-2](lov/2008-06-27-71/§28-2), samt foreta slik prosjekteringkoordinering av grensesnitt mot andre ansvarlig prosjekterendeå levere grunnlag for gjennomføringsplan for sin del av tiltaket, og tilrettelegge for eventuell kontroll innenfor sitt ansvarsområde, herunder utarbeide samsvarserklæring ved avsluttet prosjekteringunderleverandør (underkonsulent) uten egen ansvarsrettå melde fra til ansvarlig søker om endringer som kan medføre søknadsplikt, og endringer i ansvarsforholdå utarbeide eller sørge for at det fremskaffes dokumentasjon som grunnlag for forvaltning, drift og vedlikehold med hjemmel i [byggteknisk forskrift kapittel 4](forskrift/2017-06-19-840/kap4) innenfor ansvarsområdet, og at denne overleveres til ansvarlig søker.Å lukke avvik ved å etterkomme kontrollerendes merknad eller ved verifikasjon for samsvar med tekniske krav, samt gi melding til ansvarlig kontrollerende at avvik er lukket, herunder hvilket alternativ som er valgt for å lukke avviket.
+I tillegg til ansvar etter [plan- og bygningsloven § 23-5](lov/2008-06-27-71/§23-5) har ansvarlig prosjekterende ansvar for
+
+1. at prosjekteringen er kvalitetssikret og dokumentert i henhold til [byggteknisk forskrift kapittel 2](forskrift/2017-06-19-840/kap2) og er tilstrekkelig grunnlag for utførelsen, samt at det foreligger produktdokumentasjon i henhold til [forskrift om omsetning og dokumentasjon av produkter til byggverk](forskrift/2013-12-17-1579) dersom prosjekterende står for valg av produkt
+2. å utarbeide situasjonsplan, og sjekke at situasjonskartet gir tilstrekkelig grunnlag for at tiltaket gis korrekt plassering på situasjonsplanen
+3. at det blir utarbeidet nødvendig prosjektering som grunnlag for avfallsplan og rapport fra miljøkartlegging
+4. at tiltakshaver og ansvarlig søker blir varslet dersom prosjektering utløser behov for nødvendige sikringstiltak, jf. [plan- og bygningsloven § 28-2](lov/2008-06-27-71/§28-2), samt foreta slik prosjektering
+5. koordinering av grensesnitt mot andre ansvarlig prosjekterende
+6. å levere grunnlag for gjennomføringsplan for sin del av tiltaket, og tilrettelegge for eventuell kontroll innenfor sitt ansvarsområde, herunder utarbeide samsvarserklæring ved avsluttet prosjektering
+7. underleverandør (underkonsulent) uten egen ansvarsrett
+8. å melde fra til ansvarlig søker om endringer som kan medføre søknadsplikt, og endringer i ansvarsforhold
+9. å utarbeide eller sørge for at det fremskaffes dokumentasjon som grunnlag for forvaltning, drift og vedlikehold med hjemmel i [byggteknisk forskrift kapittel 4](forskrift/2017-06-19-840/kap4) innenfor ansvarsområdet, og at denne overleveres til ansvarlig søker.
+10. Å lukke avvik ved å etterkomme kontrollerendes merknad eller ved verifikasjon for samsvar med tekniske krav, samt gi melding til ansvarlig kontrollerende at avvik er lukket, herunder hvilket alternativ som er valgt for å lukke avviket.
 
 > Endret ved forskrifter [30 juni 2010 nr. 1041](forskrift/2010-06-30-1041) (i kraft 1 juli 2010), [9 des 2011 nr. 1324](forskrift/2011-12-09-1324) (i kraft 1 jan 2012), [8 nov 2012 nr. 1060](forskrift/2012-11-08-1060) (i kraft 1 jan 2013), [17 des 2013 nr. 1579](forskrift/2013-12-17-1579) (i kraft 1 jan 2014), [29 mai 2022 nr. 946](forskrift/2022-05-29-946) (i kraft 1 juli 2022, se endringsforskriften del II for overgangsregel som gjelder frem til 1. juli 2023).
 
 ### § 12-4. Ansvarlig utførendes ansvar
 
-I tillegg til ansvar etter [plan- og bygningsloven § 23-6](lov/2008-06-27-71/§23-6) har ansvarlig utførende ansvar forat utførelsen er kvalitetssikret og i samsvar med produksjonsunderlaget, og at eventuelle vilkår som følger av tillatelse eller særskilte krav til utførelsen gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) er oppfyltat tiltaket plasseres korrekt i henhold til situasjonsplanenat det foreligger produktdokumentasjon der utførende står for valg av produkt og at anvisninger for innbygging, montasje mv. for produkter foreligger og følgeså bidra til og følge opp avfallsplan, gjennomføre miljøsanering, innhente og ta vare på dokumentasjon for faktisk disponering av avfall, og utarbeide sluttrapport for avfallshåndteringå gjennomføre prosjekterte sikringstiltak, jf. [plan- og bygningsloven § 28-2](lov/2008-06-27-71/§28-2), og melde fra til ansvarlig søker om nødvendig behov for sikringstiltak som ikke er prosjektertå koordinere grensesnitt mot andre ansvarlig utførendeå melde fra til ansvarlig søker der utførende oppdager at prosjekteringen er mangelfull, motstridende eller feilaktig etter krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)å levere grunnlag for gjennomføringsplan for sin del av tiltaket, samt å tilrettelegge for eventuell kontroll innenfor sitt ansvarsområde, herunder utarbeide samsvarserklæring ved avsluttet utførelse, og foreslå for ansvarlig søker tidspunkt for ferdigstillelse av gjenstående arbeider som grunnlag for søknad om ferdigattest eller midlertidig brukstillatelseunderleverandør (underentreprenør) uten egen ansvarsrettå melde fra til ansvarlig søker om endringer som kan medføre søknadsplikt, og endringer i ansvarsforholdå utarbeide eller sørge for at det fremskaffes dokumentasjon som grunnlag for forvaltning, drift og vedlikehold med hjemmel i [byggteknisk forskrift kapittel 4](forskrift/2017-06-19-840/kap4) innenfor ansvarsområdet, og at denne overleveres til ansvarlig søker.Å lukke avvik ved å etterkomme kontrollerendes merknad eller ved verifikasjon for samsvar med tekniske krav, samt gi melding til ansvarlig kontrollerende at avvik er lukket, herunder hvilket alternativ som er valgt for å lukke avviket.
+I tillegg til ansvar etter [plan- og bygningsloven § 23-6](lov/2008-06-27-71/§23-6) har ansvarlig utførende ansvar for
+
+1. at utførelsen er kvalitetssikret og i samsvar med produksjonsunderlaget, og at eventuelle vilkår som følger av tillatelse eller særskilte krav til utførelsen gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) er oppfylt
+2. at tiltaket plasseres korrekt i henhold til situasjonsplanen
+3. at det foreligger produktdokumentasjon der utførende står for valg av produkt og at anvisninger for innbygging, montasje mv. for produkter foreligger og følges
+4. å bidra til og følge opp avfallsplan, gjennomføre miljøsanering, innhente og ta vare på dokumentasjon for faktisk disponering av avfall, og utarbeide sluttrapport for avfallshåndtering
+5. å gjennomføre prosjekterte sikringstiltak, jf. [plan- og bygningsloven § 28-2](lov/2008-06-27-71/§28-2), og melde fra til ansvarlig søker om nødvendig behov for sikringstiltak som ikke er prosjektert
+6. å koordinere grensesnitt mot andre ansvarlig utførende
+7. å melde fra til ansvarlig søker der utførende oppdager at prosjekteringen er mangelfull, motstridende eller feilaktig etter krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+8. å levere grunnlag for gjennomføringsplan for sin del av tiltaket, samt å tilrettelegge for eventuell kontroll innenfor sitt ansvarsområde, herunder utarbeide samsvarserklæring ved avsluttet utførelse, og foreslå for ansvarlig søker tidspunkt for ferdigstillelse av gjenstående arbeider som grunnlag for søknad om ferdigattest eller midlertidig brukstillatelse
+9. underleverandør (underentreprenør) uten egen ansvarsrett
+10. å melde fra til ansvarlig søker om endringer som kan medføre søknadsplikt, og endringer i ansvarsforhold
+11. å utarbeide eller sørge for at det fremskaffes dokumentasjon som grunnlag for forvaltning, drift og vedlikehold med hjemmel i [byggteknisk forskrift kapittel 4](forskrift/2017-06-19-840/kap4) innenfor ansvarsområdet, og at denne overleveres til ansvarlig søker.
+12. Å lukke avvik ved å etterkomme kontrollerendes merknad eller ved verifikasjon for samsvar med tekniske krav, samt gi melding til ansvarlig kontrollerende at avvik er lukket, herunder hvilket alternativ som er valgt for å lukke avviket.
 
 > Endret ved forskrifter [30 juni 2010 nr. 1041](forskrift/2010-06-30-1041) (i kraft 1 juli 2010), [9 des 2011 nr. 1324](forskrift/2011-12-09-1324) (i kraft 1 jan 2012), [8 nov 2012 nr. 1060](forskrift/2012-11-08-1060) (i kraft 1 jan 2013).
 
 ### § 12-5. Ansvarlig kontrollerendes ansvar
 
-I tillegg til ansvar etter [plan- og bygningsloven § 23-7](lov/2008-06-27-71/§23-7) har ansvarlig kontrollerende ansvar forå planlegge og gjennomføre kontroll, samt foreta sluttkontrollå levere grunnlag for gjennomføringsplan innenfor sitt ansvarsområde, herunder utarbeide sluttrapport og kontrollerklæring ved avsluttet kontroll som viser hva som er kontrollert, hvilke avvik som er avdekket og hvordan avvikene er behandletå kontrollere at tiltaket er i overensstemmelse med krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), og melde fra til de aktuelle ansvarlige foretak om avvik som avdekkesmelde fra til ansvarlig søker om avvik som ikke blir lukket av det ansvarlige foretak, og melde fra til kommunen dersom avvik ikke blir lukket i tiltaketå koordinere grensesnitt mot andre ansvarlig kontrollerende, og bidra til å koordinere kontrollen der det er flere ansvarlig kontrollerendeunderleverandør (underkontrollør) uten egen ansvarsrett.
+I tillegg til ansvar etter [plan- og bygningsloven § 23-7](lov/2008-06-27-71/§23-7) har ansvarlig kontrollerende ansvar for
+
+1. å planlegge og gjennomføre kontroll, samt foreta sluttkontroll
+2. å levere grunnlag for gjennomføringsplan innenfor sitt ansvarsområde, herunder utarbeide sluttrapport og kontrollerklæring ved avsluttet kontroll som viser hva som er kontrollert, hvilke avvik som er avdekket og hvordan avvikene er behandlet
+3. å kontrollere at tiltaket er i overensstemmelse med krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), og melde fra til de aktuelle ansvarlige foretak om avvik som avdekkes
+4. melde fra til ansvarlig søker om avvik som ikke blir lukket av det ansvarlige foretak, og melde fra til kommunen dersom avvik ikke blir lukket i tiltaket
+5. å koordinere grensesnitt mot andre ansvarlig kontrollerende, og bidra til å koordinere kontrollen der det er flere ansvarlig kontrollerende
+6. underleverandør (underkontrollør) uten egen ansvarsrett.
 
 Ansvarlig kontrollerendes ansvar omfatter ikke ansvar for retting eller lukking av avvik. Kontrollerende har ikke ansvar for å avklare eventuell uenighet om valg av løsninger og dokumentasjon av disse.
 
@@ -583,7 +861,16 @@ Direktoratet for byggkvalitet fører tilsyn med sentralt godkjente foretak, og k
 
 ### § 13-1a. Seriøsitetsvilkår for sentral godkjenning for ansvarsrett
 
-Følgende vilkår skal være oppfylt for foretak som søker om eller har sentral godkjenning:Registreringspliktige foretak etter [merverdiavgiftsloven](lov/2009-06-19-58) skal være registrert i merverdiavgiftsregisteret, jf. [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1). For underenheter til et avgiftssubjekt oppfylles vilkåret ved at avgiftssubjektet er registrert i merverdiavgiftsregisteret, jf. [merverdiavgiftsloven § 2-2](lov/2009-06-19-58/§2-2). Foretak som er forhåndsregistrert etter [merverdiavgiftsloven § 2-3](lov/2009-06-19-58/§2-3), oppfyller kravet i denne bestemmelsen om registreringsplikt.Foretaket skal ha levert pliktig skattemelding for merverdiavgift de siste seks månedene.Foretaket skal ikke ha forfalt og ubetalt:skattforskuddstrekkarbeidsgiveravgift ellermerverdiavgift.
+Følgende vilkår skal være oppfylt for foretak som søker om eller har sentral godkjenning:
+
+1. Registreringspliktige foretak etter [merverdiavgiftsloven](lov/2009-06-19-58) skal være registrert i merverdiavgiftsregisteret, jf. [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1). For underenheter til et avgiftssubjekt oppfylles vilkåret ved at avgiftssubjektet er registrert i merverdiavgiftsregisteret, jf. [merverdiavgiftsloven § 2-2](lov/2009-06-19-58/§2-2). Foretak som er forhåndsregistrert etter [merverdiavgiftsloven § 2-3](lov/2009-06-19-58/§2-3), oppfyller kravet i denne bestemmelsen om registreringsplikt.
+2. Foretaket skal ha levert pliktig skattemelding for merverdiavgift de siste seks månedene.
+3. Foretaket skal ikke ha forfalt og ubetalt:
+
+   1. skatt
+   2. forskuddstrekk
+   3. arbeidsgiveravgift eller
+   4. merverdiavgift.
 
 Når det søkes om en sentral godkjenning av ansvarsrett eller om fornyelse av en slik godkjenning, skal en erklæring om at foretaket oppfyller [internkontrollforskriftens](forskrift/1996-12-06-1127) krav til helse, miljø og sikkerhet leveres elektronisk.
 
@@ -597,7 +884,10 @@ Direktoratet for byggkvalitet kan til enhver tid påse at sentralt godkjente for
 
 ### § 13-1b. Tilleggsopplysninger for sentral godkjenning for ansvarsrett
 
-Følgende opplysninger kan etter ønske fra sentralt godkjent foretak fremgå av det sentrale godkjenningsregisteret:Om foretaket er godkjent som opplæringsbedrift, jf. [opplæringslova kap. 4](lov/1998-07-17-61/kap4)Om foretaket har dokumentert at det er tegnet yrkesskadeforsikring og ansvarsforsikring.
+Følgende opplysninger kan etter ønske fra sentralt godkjent foretak fremgå av det sentrale godkjenningsregisteret:
+
+1. Om foretaket er godkjent som opplæringsbedrift, jf. [opplæringslova kap. 4](lov/1998-07-17-61/kap4)
+2. Om foretaket har dokumentert at det er tegnet yrkesskadeforsikring og ansvarsforsikring.
 
 For at opplysninger etter bokstav a skal fremgå av det sentrale godkjenningsregisteret, kan godkjenningsmyndigheten innhente informasjon etter første ledd bokstav a direkte fra relevant myndighet.
 
@@ -629,7 +919,10 @@ Søknad om fornyelse sendes til Direktoratet for byggkvalitet innen to måneder 
 
 Sentral godkjenning for ansvarsrett fornyes dersom foretaket dokumenterer at det tilfredsstiller de krav som på fornyelsestidspunktet er gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71). Ved søknad om fornyelse kan Direktoratet for byggkvalitet foreta en ny vurdering, der det også legges vekt på tidligere mottatt dokumentasjon.
 
-Sentral godkjenning gis til foretak, og følger foretakets organisasjonsnummer. Ved endring av foretakets organisasjonsnummer kan opprinnelig sentral godkjenning overføres til nytt foretak forutsatt atkravene til utdanning og praksis som lå til grunn for opprinnelig godkjenning, ikke er redusert, ogkravene til seriøsitet etter [§ 13-1](forskrift/2010-03-26-488/§13-1)a er oppfylt.
+Sentral godkjenning gis til foretak, og følger foretakets organisasjonsnummer. Ved endring av foretakets organisasjonsnummer kan opprinnelig sentral godkjenning overføres til nytt foretak forutsatt at
+
+1. kravene til utdanning og praksis som lå til grunn for opprinnelig godkjenning, ikke er redusert, og
+2. kravene til seriøsitet etter [§ 13-1](forskrift/2010-03-26-488/§13-1)a er oppfylt.
 
 > Endret ved forskrifter [15 juni 2012 nr. 620](forskrift/2012-06-15-620), [23 mai 2018 nr. 754](forskrift/2018-05-23-754).
 
@@ -637,17 +930,69 @@ Sentral godkjenning gis til foretak, og følger foretakets organisasjonsnummer. 
 
 Sentral godkjenning for ansvarsrett kan gis for funksjonen søker i tiltaksklasse 1, 2 og 3.
 
-Sentral godkjenning for ansvarsrett kan gis for funksjonen prosjekterende i tiltaksklasse 1, 2 og 3 for følgende fagområder:ArkitekturVeg, utearealer og landskapsutformingOppmålingsteknisk prosjekteringBrannkonseptGeoteknikkKonstruksjonssikkerhetBygningsfysikkSanitærinstallasjonerVarme- og kuldeinstallasjonerSlukkeinstallasjonerVentilasjon- og klimainstallasjonerVannforsynings- og avløpsanleggFjernvarmeanleggLøfteinnretningerLydforhold og vibrasjonerMiljøsaneringBrannalarmanleggLedesystem.
+Sentral godkjenning for ansvarsrett kan gis for funksjonen prosjekterende i tiltaksklasse 1, 2 og 3 for følgende fagområder:
 
-Sentral godkjenning for ansvarsrett kan gis for funksjonen utførende i tiltaksklasse 1, 2 og 3 for følgende fagområder:Innmåling og utstikking av tiltakVeg- og grunnarbeiderLandskapsutformingVannforsynings- og avløpsanleggFjernvarmeanleggPlasstøpte betongkonstruksjonerTømrerarbeid og montering av trekonstruksjonerMurarbeidMontering av bærende metall- eller betongkonstruksjonerMontering av glasskonstruksjoner og fasadekledningTaktekkingsarbeidArbeid på bevaringsverdige byggverkInstallasjon av brannalarmanleggInstallasjon av ledesystemSanitærinstallasjonerVarme- og kuldeinstallasjonerSlukkeinstallasjonerVentilasjon- og klimainstallasjonerLøfteinnretningerRiving og miljøsanering.
+1. Arkitektur
+2. Veg, utearealer og landskapsutforming
+3. Oppmålingsteknisk prosjektering
+4. Brannkonsept
+5. Geoteknikk
+6. Konstruksjonssikkerhet
+7. Bygningsfysikk
+8. Sanitærinstallasjoner
+9. Varme- og kuldeinstallasjoner
+10. Slukkeinstallasjoner
+11. Ventilasjon- og klimainstallasjoner
+12. Vannforsynings- og avløpsanlegg
+13. Fjernvarmeanlegg
+14. Løfteinnretninger
+15. Lydforhold og vibrasjoner
+16. Miljøsanering
+17. Brannalarmanlegg
+18. Ledesystem.
 
-Sentral godkjenning for ansvarsrett kan gis for funksjonen uavhengig kontrollerende i tiltaksklasse 1, 2 eller 3 for følgende fagområder:Overordnet ansvar for kontrollVåtrom i nye boligerLufttetthet i nye boligerBygningsfysikk (tiltaksklasse 2 og 3)Konstruksjonssikkerhet (tiltaksklasse 2 og 3)Geoteknikk (tiltaksklasse 2 og 3)Brannsikkerhet (tiltaksklasse 2 og 3).
+Sentral godkjenning for ansvarsrett kan gis for funksjonen utførende i tiltaksklasse 1, 2 og 3 for følgende fagområder:
+
+1. Innmåling og utstikking av tiltak
+2. Veg- og grunnarbeider
+3. Landskapsutforming
+4. Vannforsynings- og avløpsanlegg
+5. Fjernvarmeanlegg
+6. Plasstøpte betongkonstruksjoner
+7. Tømrerarbeid og montering av trekonstruksjoner
+8. Murarbeid
+9. Montering av bærende metall- eller betongkonstruksjoner
+10. Montering av glasskonstruksjoner og fasadekledning
+11. Taktekkingsarbeid
+12. Arbeid på bevaringsverdige byggverk
+13. Installasjon av brannalarmanlegg
+14. Installasjon av ledesystem
+15. Sanitærinstallasjoner
+16. Varme- og kuldeinstallasjoner
+17. Slukkeinstallasjoner
+18. Ventilasjon- og klimainstallasjoner
+19. Løfteinnretninger
+20. Riving og miljøsanering.
+
+Sentral godkjenning for ansvarsrett kan gis for funksjonen uavhengig kontrollerende i tiltaksklasse 1, 2 eller 3 for følgende fagområder:
+
+1. Overordnet ansvar for kontroll
+2. Våtrom i nye boliger
+3. Lufttetthet i nye boliger
+4. Bygningsfysikk (tiltaksklasse 2 og 3)
+5. Konstruksjonssikkerhet (tiltaksklasse 2 og 3)
+6. Geoteknikk (tiltaksklasse 2 og 3)
+7. Brannsikkerhet (tiltaksklasse 2 og 3).
 
 > Endret ved forskrifter [3 nov 2011 nr. 1100](forskrift/2011-11-03-1100) (i kraft 1 jan 2012), [9 des 2011 nr. 1324](forskrift/2011-12-09-1324) (i kraft 1 jan 2012), [14 des 2015 nr. 1631](forskrift/2015-12-14-1631) (i kraft 1 jan 2016), [6 nov 2018 nr. 1674](forskrift/2018-11-06-1674) (i kraft 1 des 2018).
 
 ### § 13-6. Tilbaketrekking av sentral godkjenning for ansvarsrett
 
-Sentral godkjenning for ansvarsrett skal trekkes tilbakeved alvorlige eller gjentatte overtredelser av plan- og bygningslovgivningennår foretaket ikke lenger oppfyller kravene til kvalifikasjoner for sentral godkjenning som følger av denne forskriftennår foretaket gjennom sin praksis viser at det ikke oppfyller de nødvendige kravene til pålitelighet og dugelighet for å være kvalifisert for sentral godkjenning.
+Sentral godkjenning for ansvarsrett skal trekkes tilbake
+
+1. ved alvorlige eller gjentatte overtredelser av plan- og bygningslovgivningen
+2. når foretaket ikke lenger oppfyller kravene til kvalifikasjoner for sentral godkjenning som følger av denne forskriften
+3. når foretaket gjennom sin praksis viser at det ikke oppfyller de nødvendige kravene til pålitelighet og dugelighet for å være kvalifisert for sentral godkjenning.
 
 Alvorlig overtredelse kan omfatte forhold som kan føre til overtredelsesgebyr etter [plan- og bygningsloven § 32-8](lov/2008-06-27-71/§32-8) første ledd bokstav a til g og bokstav j, unnlatelse av å etterkomme særskilt pålegg eller forbud gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) og unnlatelse av å følge opp henvendelser som gjelder tilsyn. Manglende oppfyllelse av pålitelighet og dugelighet kan omfatte forhold som innsending av uriktige opplysninger, unnlatelse av å gi opplysninger av betydning for behandling av søknad, manglende overholdelse av plikten til å opplyse om ulovlige forhold etter [§ 12-6](forskrift/2010-03-26-488/§12-6) fjerde ledd.
 
@@ -671,7 +1016,17 @@ Når foretaket igjen oppfyller vilkårene i [§ 13-1a](forskrift/2010-03-26-488/
 
 ### § 13-7. Overtredelsesgebyr ved brudd på reglene for sentral godkjenning
 
-Direktoratet for byggkvalitet kan ilegge foretak overtredelsesgebyr inntil angitte beløpsgrenser for forhold som nevnt i bokstav a og b.Hvis det oppgis uriktige eller villedende opplysninger, eller unnlates å gi nødvendige opplysninger, i forbindelse med søknad om sentral godkjenning ilegges gebyr inntil kr 20 000. Ved vurdering av overtredelsesgebyrets størrelse kan det legges vekt på:om overtrederen åpenbart kjente til at opplysningene var uriktige eller villedende.om overtrederen ved gjentatte anledninger har vært ansvarlig for forhold som kan medføre overtredelsesgebyr.Hvis foretaket benytter merket for sentral godkjenning uten at foretaket er sentralt godkjent ilegges gebyr:kr 5 000 ved første gangs overtredelsekr 10 000 ved andre gangs overtredelsekr 15 000 ved påfølgende overtredelser.
+Direktoratet for byggkvalitet kan ilegge foretak overtredelsesgebyr inntil angitte beløpsgrenser for forhold som nevnt i bokstav a og b.
+
+1. Hvis det oppgis uriktige eller villedende opplysninger, eller unnlates å gi nødvendige opplysninger, i forbindelse med søknad om sentral godkjenning ilegges gebyr inntil kr 20 000. Ved vurdering av overtredelsesgebyrets størrelse kan det legges vekt på:
+
+   1. om overtrederen åpenbart kjente til at opplysningene var uriktige eller villedende.
+   2. om overtrederen ved gjentatte anledninger har vært ansvarlig for forhold som kan medføre overtredelsesgebyr.
+2. Hvis foretaket benytter merket for sentral godkjenning uten at foretaket er sentralt godkjent ilegges gebyr:
+
+   1. kr 5 000 ved første gangs overtredelse
+   2. kr 10 000 ved andre gangs overtredelse
+   3. kr 15 000 ved påfølgende overtredelser.
 
 > Tilføyd ved [forskrift 9 juni 2015 nr. 627](forskrift/2015-06-09-627) (i kraft 1 jan 2016).
 
@@ -687,7 +1042,11 @@ Registeret skal på hensiktsmessig måte være tilgjengelig for brukere og publi
 
 ### § 13-9. Gebyr for sentral godkjenning
 
-For sentral godkjenning for ansvarsrett skal det betales et gebyr som skal dekke kostnadene knyttet til den sentrale godkjenningsordningen. Følgende gebyrer kan fastsettes:Behandlingsgebyr for søknad om sentral godkjenning for ansvarsrett.Årsgebyr for å inneha sentral godkjenning for ansvarsrett.Gebyr for behandling av søknad om fornyelse av sentral godkjenning for ansvarsrett.
+For sentral godkjenning for ansvarsrett skal det betales et gebyr som skal dekke kostnadene knyttet til den sentrale godkjenningsordningen. Følgende gebyrer kan fastsettes:
+
+1. Behandlingsgebyr for søknad om sentral godkjenning for ansvarsrett.
+2. Årsgebyr for å inneha sentral godkjenning for ansvarsrett.
+3. Gebyr for behandling av søknad om fornyelse av sentral godkjenning for ansvarsrett.
 
 Gebyrene etter første ledd fastsettes av departementet. Gebyrene kan differensieres i forhold til funksjon og antall godkjenningsområder.
 
@@ -699,7 +1058,14 @@ Vedtak om sentral godkjenning for ansvarsrett, herunder vedtak om tilbaketrekkin
 
 Klagenemnda for sentral godkjenning for ansvarsrett er klageinstans for enkeltvedtak om sentral godkjenning for ansvarsrett truffet av Direktoratet for byggkvalitet.
 
-Klagenemnda skal bestå av totalt syv medlemmer. Nemndas leder skal være jurist. Videre skal det være seks medlemmer med en representant fra hver av følgende grupperinger:søkere og prosjekterendekontrollerendeutførende bygg og anleggutførende bygg og anlegg, arbeidstakersidenbrukerinteresser på tiltakshaversidenbrukerinteresser i det offentlige.
+Klagenemnda skal bestå av totalt syv medlemmer. Nemndas leder skal være jurist. Videre skal det være seks medlemmer med en representant fra hver av følgende grupperinger:
+
+1. søkere og prosjekterende
+2. kontrollerende
+3. utførende bygg og anlegg
+4. utførende bygg og anlegg, arbeidstakersiden
+5. brukerinteresser på tiltakshaversiden
+6. brukerinteresser i det offentlige.
 
 Det skal oppnevnes personlige varamedlemmer. Medlemmer og personlige varamedlemmer oppnevnes av departementet etter forslag fra berørte bransje- og brukerinteresser.
 
@@ -727,7 +1093,12 @@ Kontrollerende foretak skal ikke ha personlig eller økonomisk tilknytning som k
 
 Det skal gjennomføres uavhengig kontroll i samsvar med [§ 14-6](forskrift/2010-03-26-488/§14-6) av fuktsikring ved søknadspliktig bygging av våtrom i boliger, når dette arbeidet omfattes av [plan- og bygningsloven § 20-1](lov/2008-06-27-71/§20-1) første ledd bokstav a eller b, og med lufttetthet i nye boliger. Det samme gjelder for fritidsboliger med mer enn én boenhet. Ansvarlig kontrollerende skal kontrollere at det er gjennomført tilstrekkelig prosjektering av fuktsikring, herunder utforming av viktige løsninger, at det foreligger nødvendig produksjonsunderlag innenfor kontrollområdet, og at utførelsen er gjennomført i samsvar med produksjonsunderlaget.
 
-I tillegg til uavhengig kontroll etter første ledd skal det også gjennomføres uavhengig kontroll i samsvar med [§ 14-7](forskrift/2010-03-26-488/§14-7) for følgende oppgaver i tiltaksklasse 2 og 3:Bygningsfysikk, hvor kontrollkravet for prosjektering begrenses til energieffektivitet og detaljprosjektering av lufttetthet og fuktsikring i yttervegger, tak og terrasser, og kontrollkravet for utførelse begrenses til byggfukt, lufttetthet og ventilasjon, og at dette er gjennomført og dokumentert som prosjektertKonstruksjonssikkerhet, hvor kontrollkravet for prosjektering begrenses til risiko for sammenbrudd i hovedbæresystem, herunder prosjekteringsgrunnlaget, lastantakelser, stabilitet og materialegenskaper, og kontrollkravet for utførelse begrenses til at hovedbæresystem er gjennomført og dokumentert som prosjektert, herunder at valgte materialer har egenskaper som bestemt i prosjekteringenGeoteknikk, hvor kontrollkravet for prosjektering begrenses til kontroll av at det er gjort kvalifisert undersøkelse for å bestemme geoteknisk kategori og fastsettelse av pålitelighetsklasse, og kontrollkravet for utførelse begrenses til at geotekniske oppgaver er gjennomført og dokumentert som prosjektert, herunder at de er fulgt opp og rapportert slik som anvist av prosjekterendebrannsikkerhet, hvor kontrollkravet begrenses til prosjektering av brannsikkerhetskonsept.
+I tillegg til uavhengig kontroll etter første ledd skal det også gjennomføres uavhengig kontroll i samsvar med [§ 14-7](forskrift/2010-03-26-488/§14-7) for følgende oppgaver i tiltaksklasse 2 og 3:
+
+1. Bygningsfysikk, hvor kontrollkravet for prosjektering begrenses til energieffektivitet og detaljprosjektering av lufttetthet og fuktsikring i yttervegger, tak og terrasser, og kontrollkravet for utførelse begrenses til byggfukt, lufttetthet og ventilasjon, og at dette er gjennomført og dokumentert som prosjektert
+2. Konstruksjonssikkerhet, hvor kontrollkravet for prosjektering begrenses til risiko for sammenbrudd i hovedbæresystem, herunder prosjekteringsgrunnlaget, lastantakelser, stabilitet og materialegenskaper, og kontrollkravet for utførelse begrenses til at hovedbæresystem er gjennomført og dokumentert som prosjektert, herunder at valgte materialer har egenskaper som bestemt i prosjekteringen
+3. Geoteknikk, hvor kontrollkravet for prosjektering begrenses til kontroll av at det er gjort kvalifisert undersøkelse for å bestemme geoteknisk kategori og fastsettelse av pålitelighetsklasse, og kontrollkravet for utførelse begrenses til at geotekniske oppgaver er gjennomført og dokumentert som prosjektert, herunder at de er fulgt opp og rapportert slik som anvist av prosjekterende
+4. brannsikkerhet, hvor kontrollkravet begrenses til prosjektering av brannsikkerhetskonsept.
 
 Når prosjektering, utførelse og kvalitetssikring er gjennomført i samsvar med relevant, gjeldende Norsk Standard med kontrollanvisninger (eller likeverdig europeisk standard) begrenses kontrollkravet til kontroll av at standardens anvisninger er fulgt.
 
@@ -755,7 +1126,11 @@ Kommunen kan i særlige tilfeller gjøre helt eller delvis unntak fra krav om ob
 
 Kontrollen skal gjennomføres på fagområder i henhold til [§ 14-2](forskrift/2010-03-26-488/§14-2) første ledd og [§ 14-3](forskrift/2010-03-26-488/§14-3) og i overensstemmelse med ansvaret til ansvarlig kontrollerende etter [§ 12-5](forskrift/2010-03-26-488/§12-5). Kontrollområdet skal angis i gjennomføringsplanen og beskrives i erklæring om ansvarsrett for kontroll.
 
-Ansvarlig kontrollerende skalkontrollere at utførende har rutiner for kvalitetssikring av arbeidet som skal utføres innenfor kontrollområdet i henhold til relevante krav i eller i medhold av [plan- og bygningsloven](lov/2008-06-27-71), og at disse er fulgt og dokumentertkontrollere at det er foretatt tilstrekkelig prosjektering, jf. [§ 14-2](forskrift/2010-03-26-488/§14-2) første ledd, og foreta en enkel kontroll av at utførelsen er gjennomført i samsvar med produksjonsunderlaget, at nødvendig produktdokumentasjon for byggevarer er tilgjengelig, og at produktene er brukt i samsvar med forutsetningenekontrollere at avvik lukkes, enten ved å etterkomme kontrollerendes merknad eller ved verifikasjon av samsvar med krav. Der avvik ikke lukkes, skal det gis melding om dette, jf. [§ 12-5](forskrift/2010-03-26-488/§12-5) bokstav d.
+Ansvarlig kontrollerende skal
+
+1. kontrollere at utførende har rutiner for kvalitetssikring av arbeidet som skal utføres innenfor kontrollområdet i henhold til relevante krav i eller i medhold av [plan- og bygningsloven](lov/2008-06-27-71), og at disse er fulgt og dokumentert
+2. kontrollere at det er foretatt tilstrekkelig prosjektering, jf. [§ 14-2](forskrift/2010-03-26-488/§14-2) første ledd, og foreta en enkel kontroll av at utførelsen er gjennomført i samsvar med produksjonsunderlaget, at nødvendig produktdokumentasjon for byggevarer er tilgjengelig, og at produktene er brukt i samsvar med forutsetningene
+3. kontrollere at avvik lukkes, enten ved å etterkomme kontrollerendes merknad eller ved verifikasjon av samsvar med krav. Der avvik ikke lukkes, skal det gis melding om dette, jf. [§ 12-5](forskrift/2010-03-26-488/§12-5) bokstav d.
 
 Når prosjektering, utførelse og kvalitetssikring er gjennomført i samsvar med relevant anerkjent bransjestandard eller norm, begrenses kontrollkravet til kontroll av at bransjestandardens eller normens anvisninger er fulgt.
 
@@ -767,9 +1142,19 @@ Kontrollen skal gjennomføres på fagområder i henhold til [§ 14-2](forskrift/
 
 Der kontrollen berører flere fagområder skal den ha fokus på grensesnitt mellom fagområdene og ansvarsområdene.
 
-I kontroll av prosjektering skal det kontrolleresat ansvarlig prosjekterende har rutiner for kvalitetssikring av arbeidet som skal utføres innenfor kontrollområdet i henhold til relevante krav i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), og at rutinene og kravene er fulgt og dokumentertat utarbeidet konsept gir tilstrekkelig grunnlag for detaljprosjekteringat detaljprosjekteringen er tilstrekkelig som produksjonsunderlag for utførelsenat avvik lukkes ved å etterkomme kontrollerendes merknad eller ved verifikasjon av samsvar med tekniske krav. Der avvik ikke lukkes, skal det gis melding om dette, jf. [§ 12-5](forskrift/2010-03-26-488/§12-5) første ledd bokstav d.
+I kontroll av prosjektering skal det kontrolleres
 
-I kontroll av utførelse skal det kontrolleresat ansvarlig utførende har rutiner for kvalitetssikring av arbeidet som skal utføres innenfor kontrollområdet i henhold til relevante krav i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), og at rutinene og kravene er fulgt og dokumentertat produksjonsunderlaget er tilgjengelig på byggeplassen og at tiltaket blir utført i henhold til produksjonsunderlagetat nødvendig produktdokumentasjon er tilgjengelig, og at produktene brukes i samsvar med forutsetningeneat avvik lukkes ved å etterkomme kontrollerendes merknad eller ved verifikasjon av samsvar med tekniske krav. Der avvik ikke lukkes skal det gis melding om dette, jf. [§ 12-5](forskrift/2010-03-26-488/§12-5) første ledd bokstav d.
+1. at ansvarlig prosjekterende har rutiner for kvalitetssikring av arbeidet som skal utføres innenfor kontrollområdet i henhold til relevante krav i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), og at rutinene og kravene er fulgt og dokumentert
+2. at utarbeidet konsept gir tilstrekkelig grunnlag for detaljprosjektering
+3. at detaljprosjekteringen er tilstrekkelig som produksjonsunderlag for utførelsen
+4. at avvik lukkes ved å etterkomme kontrollerendes merknad eller ved verifikasjon av samsvar med tekniske krav. Der avvik ikke lukkes, skal det gis melding om dette, jf. [§ 12-5](forskrift/2010-03-26-488/§12-5) første ledd bokstav d.
+
+I kontroll av utførelse skal det kontrolleres
+
+1. at ansvarlig utførende har rutiner for kvalitetssikring av arbeidet som skal utføres innenfor kontrollområdet i henhold til relevante krav i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), og at rutinene og kravene er fulgt og dokumentert
+2. at produksjonsunderlaget er tilgjengelig på byggeplassen og at tiltaket blir utført i henhold til produksjonsunderlaget
+3. at nødvendig produktdokumentasjon er tilgjengelig, og at produktene brukes i samsvar med forutsetningene
+4. at avvik lukkes ved å etterkomme kontrollerendes merknad eller ved verifikasjon av samsvar med tekniske krav. Der avvik ikke lukkes skal det gis melding om dette, jf. [§ 12-5](forskrift/2010-03-26-488/§12-5) første ledd bokstav d.
 
 Kontrollen av prosjekteringen etter tredje ledd bokstav b og c og utførelsen etter fjerde ledd bokstav b, skal tilpasses den dokumenterte kvalitetssikringen. Ved godt gjennomført og dokumentert kvalitetssikring, kan kontrollen av prosjekteringen og utførelsen forenkles.
 
@@ -793,7 +1178,11 @@ Ansvarlig kontrollerende skal dokumentere at kontrollen er utført tilfredsstill
 
 ### § 15-1. Strategi for tilsyn. Rapportering
 
-Kommunen skal utarbeide strategi for tilsynet etter [plan- og bygningsloven § 25-1](lov/2008-06-27-71/§25-1), hvor det bl.a. tas stilling til:målsettinger og rutiner for det kommunale tilsynet,organisering, eventuelt samarbeid med andre kommuner eller andre instanser, kompetansebehov, ressursbruk og finansiering ogutvelgelse og prioritering av fagområder, sakstyper, temaer mv., herunder lokale forhold og innsatsområder. Ved prioritering og utvelgelse skal kommunen legge vekt på om foretak har sentral godkjenning.
+Kommunen skal utarbeide strategi for tilsynet etter [plan- og bygningsloven § 25-1](lov/2008-06-27-71/§25-1), hvor det bl.a. tas stilling til:
+
+1. målsettinger og rutiner for det kommunale tilsynet,
+2. organisering, eventuelt samarbeid med andre kommuner eller andre instanser, kompetansebehov, ressursbruk og finansiering og
+3. utvelgelse og prioritering av fagområder, sakstyper, temaer mv., herunder lokale forhold og innsatsområder. Ved prioritering og utvelgelse skal kommunen legge vekt på om foretak har sentral godkjenning.
 
 Kommunen skal utarbeide en årlig rapport over tilsynsvirksomheten, og hvordan aktiviteten har vært i forhold til strategien.
 
@@ -801,7 +1190,16 @@ Kommunen skal utarbeide en årlig rapport over tilsynsvirksomheten, og hvordan a
 
 ### § 15-2. Tilsynsrapporter
 
-Kommunen skal utarbeide tilsynsrapport ved utført tilsyn i den enkelte sak. Rapporten skal, i den grad det er relevant, gi opplysninger omfaktiske forhold, tid, sted, hvem som er til stede og andre opplysninger om tiltaketforetak og ansvar i byggesakenobservasjoner under tilsynetbestemmelser, tillatelser mv. som er overtrådtfremlagt dokumentasjonkommunens vurdering av forholdetsanksjoner og andre reaksjoner fra kommunenfrist for lukking av avvik.
+Kommunen skal utarbeide tilsynsrapport ved utført tilsyn i den enkelte sak. Rapporten skal, i den grad det er relevant, gi opplysninger om
+
+1. faktiske forhold, tid, sted, hvem som er til stede og andre opplysninger om tiltaket
+2. foretak og ansvar i byggesaken
+3. observasjoner under tilsynet
+4. bestemmelser, tillatelser mv. som er overtrådt
+5. fremlagt dokumentasjon
+6. kommunens vurdering av forholdet
+7. sanksjoner og andre reaksjoner fra kommunen
+8. frist for lukking av avvik.
 
 Rapporten sendes til tiltakshaver, ansvarlig søker og andre berørte foretak i byggesaken. Dersom tilsynsrapporten berører grunnlaget for sentral godkjenning for ansvarsrett, skal kopi av rapporten sendes til Direktoratet for byggkvalitet.
 
@@ -821,7 +1219,45 @@ Det kan lages fellesrapport ved flere enkle tilsyn.
 
 ### § 16-1. Forhold som kan medføre overtredelsesgebyr. Gebyrenes størrelse
 
-Foretak kan ilegges overtredelsesgebyr inntil angitte beløpsgrenser for forsettlige eller uaktsomme overtredelser som nevnt i bokstav a til h. Privatpersoner kan ilegges overtredelsesgebyr inntil halvparten av angitte beløpsgrenser for forsettlige eller uaktsomme overtredelser som nevnt i bokstav a til h.Den som utfører eller lar utføre tiltak som nevnt i [plan- og bygningsloven § 20-1](lov/2008-06-27-71/§20-1), jf. [§ 20-2](lov/2008-06-27-71/§20-2) og [§ 20-4](lov/2008-06-27-71/§20-4) uten at det foreligger nødvendig tillatelse, ilegges gebyr:inntil kr 10 000 der tiltaket for øvrig i det vesentlige er i overensstemmelse med krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)inntil kr 50 000 der tiltak ikke i det vesentlige er i samsvar med krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)inntil kr 200 000 der tiltaket medfører alvorlig uopprettelig skade eller fare for dette.Den som bruker eller lar bruke tiltak uten at det foreligger nødvendig tillatelse til varig eller tidsbestemt bruksendring, ferdigattest eller midlertidig brukstillatelse etter [plan- og bygningsloven](lov/2008-06-27-71), eller er i strid med vilkårene i slike tillatelser, ilegges gebyr:inntil kr 10 000 der tiltaket for øvrig i det vesentlige er i overensstemmelse med krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)inntil kr 50 000 der tiltaket ikke i det vesentlige er i overensstemmelse med øvrige krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), eller bruken kan føre til personskade, alvorlig materiell skade eller skade for miljøetinntil kr 200 000 der bruken har ført til, eller ved stor mulighet for at den kunne ført til personskade, alvorlig materiell skade eller skade for miljøet.Den som prosjekterer, utfører, lar prosjektere eller lar utføre tiltak som nevnt i [plan- og bygningsloven § 20-1](lov/2008-06-27-71/§20-1) til [§ 20-4](lov/2008-06-27-71/§20-4) i strid med bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), ilegges gebyr:inntil kr 10 000 ved mindre avvik fra krav i [byggteknisk forskrift](forskrift/2017-06-19-840), regler for plassering mv. samt plan, plankrav og forbudet i [plan- og bygningsloven § 1-8](lov/2008-06-27-71/§1-8)inntil kr 50 000 ved avvik fra krav i [byggteknisk forskrift](forskrift/2017-06-19-840), regler for plassering mv., samt plan, plankrav og forbudet i [plan- og bygningsloven § 1-8](lov/2008-06-27-71/§1-8) som ikke er mindreinntil kr 200 000 der overtredelsen har ført til, eller ved fare for at den kan føre til personskade, alvorlig materiell skade eller skade for miljøet, samt ved vesentlige avvik fra plan, plankrav og forbudet i [plan- og bygningsloven § 1-8](lov/2008-06-27-71/§1-8).Den som forestår søknad, prosjekterer, utfører, lar prosjektere eller lar utføre tiltak som nevnt i [plan- og bygningsloven § 20-1](lov/2008-06-27-71/§20-1), uten at arbeidet blir utført av påkrevet ansvarlig foretak, ilegges gebyr:inntil kr 10 000 der tiltak eller deler av tiltak utføres uten ansvarlig foretakinntil kr 50 000 der tiltak eller deler av tiltak utføres uten ansvarlig foretak, og prosjektering mangler eller det er feil i prosjekteringen eller utførelsen.Den som ikke utfører uavhengig kontroll av tiltak i samsvar med bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) og gitte tillatelser, ilegges gebyr:inntil kr 10 000 ved sviktende eller unnlatt pliktig uavhengig kontroll som kunne med føre at feil i prosjektering eller utførelse ikke ble avdekketinntil kr 50 000 ved sviktende eller unnlatt pliktig uavhengig kontroll som medførte eller kunne medføre at alvorlig feil i prosjektering eller utførelse ikke ble avdekketinntil kr 200 000 ved sviktende eller unnlatt pliktig uavhengig kontroll, og unnlatelsen medførte at alvorlig feil i prosjektering eller utførelse ikke ble avdekket, og denne medførte personskade, avvik fra tillatelse, materiell skade eller skade for miljøet.Den som ikke etterkommer skriftlig pålegg i tilfellene som nevnt i [plan- og bygningsloven § 32-8](lov/2008-06-27-71/§32-8) bokstav g til l, ilegges gebyr:inntil kr 10 000 der pålegg ikke etterkommes for forhold som kan medføre gebyr inntil kr 50 000 etter bokstav c, og kommunen ikke krever tvangsmulkt etter [plan- og bygningsloven § 32-5](lov/2008-06-27-71/§32-5)inntil kr 50 000 der pålegg ikke etterkommes for forhold som kan medføre gebyr inntil kr 200 000 etter bokstav c nr. 3.Den som utfører eller lar utføre tiltak og virksomhet som nevnt i [plan- og bygningsloven § 1-6](lov/2008-06-27-71/§1-6) første ledd i strid med et klart forbud eller påbud i reguleringsplan eller kommuneplanens arealdel, ilegges gebyr:inntil kr 10 000 ved vesentlige brudd på rettslig bindende kommuneplan og reguleringsplaninntil kr 100 000 ved vesentlige brudd på rettslig bindende kommuneplan og reguleringsplan som har ført til, eller gir stor mulighet for at det kan føre til, personskade, vesentlig materiell skade eller skade for miljøet.Den som gir uriktige eller villedende opplysninger til plan- og bygningsmyndighetene, ilegges gebyr:inntil kr 10 000 ved feil eller villedende opplysninger, og der forholdet medfører mindre avvik eller ulempeinntil kr 50 000 ved feil eller villedende opplysninger, og der forholdet medfører større avvik eller ulempeinntil kr 100 000 ved forfalskning av underskrift eller dokumentasjon.
+Foretak kan ilegges overtredelsesgebyr inntil angitte beløpsgrenser for forsettlige eller uaktsomme overtredelser som nevnt i bokstav a til h. Privatpersoner kan ilegges overtredelsesgebyr inntil halvparten av angitte beløpsgrenser for forsettlige eller uaktsomme overtredelser som nevnt i bokstav a til h.
+
+1. Den som utfører eller lar utføre tiltak som nevnt i [plan- og bygningsloven § 20-1](lov/2008-06-27-71/§20-1), jf. [§ 20-2](lov/2008-06-27-71/§20-2) og [§ 20-4](lov/2008-06-27-71/§20-4) uten at det foreligger nødvendig tillatelse, ilegges gebyr:
+
+   1. inntil kr 10 000 der tiltaket for øvrig i det vesentlige er i overensstemmelse med krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+   2. inntil kr 50 000 der tiltak ikke i det vesentlige er i samsvar med krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+   3. inntil kr 200 000 der tiltaket medfører alvorlig uopprettelig skade eller fare for dette.
+2. Den som bruker eller lar bruke tiltak uten at det foreligger nødvendig tillatelse til varig eller tidsbestemt bruksendring, ferdigattest eller midlertidig brukstillatelse etter [plan- og bygningsloven](lov/2008-06-27-71), eller er i strid med vilkårene i slike tillatelser, ilegges gebyr:
+
+   1. inntil kr 10 000 der tiltaket for øvrig i det vesentlige er i overensstemmelse med krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71)
+   2. inntil kr 50 000 der tiltaket ikke i det vesentlige er i overensstemmelse med øvrige krav gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), eller bruken kan føre til personskade, alvorlig materiell skade eller skade for miljøet
+   3. inntil kr 200 000 der bruken har ført til, eller ved stor mulighet for at den kunne ført til personskade, alvorlig materiell skade eller skade for miljøet.
+3. Den som prosjekterer, utfører, lar prosjektere eller lar utføre tiltak som nevnt i [plan- og bygningsloven § 20-1](lov/2008-06-27-71/§20-1) til [§ 20-4](lov/2008-06-27-71/§20-4) i strid med bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71), ilegges gebyr:
+
+   1. inntil kr 10 000 ved mindre avvik fra krav i [byggteknisk forskrift](forskrift/2017-06-19-840), regler for plassering mv. samt plan, plankrav og forbudet i [plan- og bygningsloven § 1-8](lov/2008-06-27-71/§1-8)
+   2. inntil kr 50 000 ved avvik fra krav i [byggteknisk forskrift](forskrift/2017-06-19-840), regler for plassering mv., samt plan, plankrav og forbudet i [plan- og bygningsloven § 1-8](lov/2008-06-27-71/§1-8) som ikke er mindre
+   3. inntil kr 200 000 der overtredelsen har ført til, eller ved fare for at den kan føre til personskade, alvorlig materiell skade eller skade for miljøet, samt ved vesentlige avvik fra plan, plankrav og forbudet i [plan- og bygningsloven § 1-8](lov/2008-06-27-71/§1-8).
+4. Den som forestår søknad, prosjekterer, utfører, lar prosjektere eller lar utføre tiltak som nevnt i [plan- og bygningsloven § 20-1](lov/2008-06-27-71/§20-1), uten at arbeidet blir utført av påkrevet ansvarlig foretak, ilegges gebyr:
+
+   1. inntil kr 10 000 der tiltak eller deler av tiltak utføres uten ansvarlig foretak
+   2. inntil kr 50 000 der tiltak eller deler av tiltak utføres uten ansvarlig foretak, og prosjektering mangler eller det er feil i prosjekteringen eller utførelsen.
+5. Den som ikke utfører uavhengig kontroll av tiltak i samsvar med bestemmelser gitt i eller med hjemmel i [plan- og bygningsloven](lov/2008-06-27-71) og gitte tillatelser, ilegges gebyr:
+
+   1. inntil kr 10 000 ved sviktende eller unnlatt pliktig uavhengig kontroll som kunne med føre at feil i prosjektering eller utførelse ikke ble avdekket
+   2. inntil kr 50 000 ved sviktende eller unnlatt pliktig uavhengig kontroll som medførte eller kunne medføre at alvorlig feil i prosjektering eller utførelse ikke ble avdekket
+   3. inntil kr 200 000 ved sviktende eller unnlatt pliktig uavhengig kontroll, og unnlatelsen medførte at alvorlig feil i prosjektering eller utførelse ikke ble avdekket, og denne medførte personskade, avvik fra tillatelse, materiell skade eller skade for miljøet.
+6. Den som ikke etterkommer skriftlig pålegg i tilfellene som nevnt i [plan- og bygningsloven § 32-8](lov/2008-06-27-71/§32-8) bokstav g til l, ilegges gebyr:
+
+   1. inntil kr 10 000 der pålegg ikke etterkommes for forhold som kan medføre gebyr inntil kr 50 000 etter bokstav c, og kommunen ikke krever tvangsmulkt etter [plan- og bygningsloven § 32-5](lov/2008-06-27-71/§32-5)
+   2. inntil kr 50 000 der pålegg ikke etterkommes for forhold som kan medføre gebyr inntil kr 200 000 etter bokstav c nr. 3.
+7. Den som utfører eller lar utføre tiltak og virksomhet som nevnt i [plan- og bygningsloven § 1-6](lov/2008-06-27-71/§1-6) første ledd i strid med et klart forbud eller påbud i reguleringsplan eller kommuneplanens arealdel, ilegges gebyr:
+
+   1. inntil kr 10 000 ved vesentlige brudd på rettslig bindende kommuneplan og reguleringsplan
+   2. inntil kr 100 000 ved vesentlige brudd på rettslig bindende kommuneplan og reguleringsplan som har ført til, eller gir stor mulighet for at det kan føre til, personskade, vesentlig materiell skade eller skade for miljøet.
+8. Den som gir uriktige eller villedende opplysninger til plan- og bygningsmyndighetene, ilegges gebyr:
+
+   1. inntil kr 10 000 ved feil eller villedende opplysninger, og der forholdet medfører mindre avvik eller ulempe
+   2. inntil kr 50 000 ved feil eller villedende opplysninger, og der forholdet medfører større avvik eller ulempe
+   3. inntil kr 100 000 ved forfalskning av underskrift eller dokumentasjon.
 
 Foretak og privatpersoner kan ilegges høyere overtredelsesgebyr enn nevnt i første ledd ved særlig alvorlige overtredelser. Ved vurderingen skal det særlig legges vekt på forhold som nevnt i [§ 16-2](forskrift/2010-03-26-488/§16-2) første, tredje, fjerde og femte ledd.
 
@@ -879,7 +1315,10 @@ Det skal fremgå av dokumentasjonen at offentlig hovedanlegg for oppsamling, avl
 
 Bygges offentlig veg, hovedavløpsledning, hovedvannledning eller offentlig hovedanlegg for oppsamling, avledning og eventuelt behandling av lokalt overvann med større dimensjoner enn fastsatt i [plan- og bygningsloven § 18-1](lov/2008-06-27-71/§18-1) første ledd bokstavene a–d, skal dokumentasjonen vise et forholdsmessig redusert kostnadsoverslag.
 
-Kostnadsoverslaget skal oppdeles i følgende tilfeller:Deles refusjonsenheten etter [plan- og bygningsloven § 18-4](lov/2008-06-27-71/§18-4) første ledd andre punktum, skal tiltakshaver utarbeide eget overslag for hver refusjonsenhetOverstiger en eller flere strekninger maksimumsbredde eller maksimal dimensjon fastsatt i [plan- og bygningsloven § 18-1](lov/2008-06-27-71/§18-1) første ledd bokstav a–d, skal tiltakshaver utarbeide eget overslag for disse.
+Kostnadsoverslaget skal oppdeles i følgende tilfeller:
+
+1. Deles refusjonsenheten etter [plan- og bygningsloven § 18-4](lov/2008-06-27-71/§18-4) første ledd andre punktum, skal tiltakshaver utarbeide eget overslag for hver refusjonsenhet
+2. Overstiger en eller flere strekninger maksimumsbredde eller maksimal dimensjon fastsatt i [plan- og bygningsloven § 18-1](lov/2008-06-27-71/§18-1) første ledd bokstav a–d, skal tiltakshaver utarbeide eget overslag for disse.
 
 > Endret ved forskrift [22 juni 2023 nr. 1091](forskrift/2023-06-22-1091) (i kraft 1 jan 2024).
 
@@ -937,7 +1376,10 @@ Krav fra tiltakshaver om tilleggsutligning av kostnad som er udekket som følge 
 
 ### § 17-10. Renter ved betaling i årlige terminer
 
-Ved betaling av refusjon til det offentlige i terminer etter lovens § 18-10 tredje ledd skal rentesatsen være summen av:den rente som gjelder for fastrentelån i Husbanken med fem års betalingstid og lengst intervaller mellom terminforfall oget tillegg på tre prosent.
+Ved betaling av refusjon til det offentlige i terminer etter lovens § 18-10 tredje ledd skal rentesatsen være summen av:
+
+- den rente som gjelder for fastrentelån i Husbanken med fem års betalingstid og lengst intervaller mellom terminforfall og
+- et tillegg på tre prosent.
 
 > Tilføyd ved [forskrift 22 juni 2011 nr. 674](forskrift/2011-06-22-674) (i kraft 1 juli 2011).
 
@@ -977,9 +1419,20 @@ Ved utferdigelse av pålegg om dokumentasjon skal det settes rimelig frist for u
 
 ### § 19-3. Bevaringsverdige bygninger
 
-Følgende bygninger som etter [plan- og bygningsloven](lov/2008-06-27-71) er gitt bevaringsstatus, er å anse som bevaringsverdige etter denne forskrift:bygninger i område regulert til spesialområde for bevaring etter [plan- og bygningsloven (1985) § 25](lov/1985-06-14-77/§25) første ledd nr. 6,bygninger som etter [plan- og bygningsloven § 11-8](lov/2008-06-27-71/§11-8) annet ledd bokstav c eller [§ 12-6](lov/2008-06-27-71/§12-6), ligger innenfor hensynssone for bevaring av kulturmiljø,bygninger etter [plan- og bygningsloven § 11-9](lov/2008-06-27-71/§11-9) nr. 7 eller [§ 12-7](lov/2008-06-27-71/§12-7) nr. 6 som omfattes av bestemmelser til kommuneplanens arealdel eller bestemmelser i reguleringsplan, og som sikrer verneverdiene, ogbygninger etter [plan- og bygningsloven § 12-5](lov/2008-06-27-71/§12-5) annet ledd nr. 5 som innenfor landbruks-, natur-, frilufts- og reindriftsområder (LNFR) er vist med underformål vern av kulturmiljø eller kulturminne.
+Følgende bygninger som etter [plan- og bygningsloven](lov/2008-06-27-71) er gitt bevaringsstatus, er å anse som bevaringsverdige etter denne forskrift:
 
-Ved vurderingen av om andre bygninger enn de som omfattes av første ledd er bevaringsverdige etter denne forskrift skal det legges vekt på bygningensrepresentativitetautentisitetarkitektoniske verdiidentitetsverdisammenheng med kultur- eller naturmiljø.
+1. bygninger i område regulert til spesialområde for bevaring etter [plan- og bygningsloven (1985) § 25](lov/1985-06-14-77/§25) første ledd nr. 6,
+2. bygninger som etter [plan- og bygningsloven § 11-8](lov/2008-06-27-71/§11-8) annet ledd bokstav c eller [§ 12-6](lov/2008-06-27-71/§12-6), ligger innenfor hensynssone for bevaring av kulturmiljø,
+3. bygninger etter [plan- og bygningsloven § 11-9](lov/2008-06-27-71/§11-9) nr. 7 eller [§ 12-7](lov/2008-06-27-71/§12-7) nr. 6 som omfattes av bestemmelser til kommuneplanens arealdel eller bestemmelser i reguleringsplan, og som sikrer verneverdiene, og
+4. bygninger etter [plan- og bygningsloven § 12-5](lov/2008-06-27-71/§12-5) annet ledd nr. 5 som innenfor landbruks-, natur-, frilufts- og reindriftsområder (LNFR) er vist med underformål vern av kulturmiljø eller kulturminne.
+
+Ved vurderingen av om andre bygninger enn de som omfattes av første ledd er bevaringsverdige etter denne forskrift skal det legges vekt på bygningens
+
+1. representativitet
+2. autentisitet
+3. arkitektoniske verdi
+4. identitetsverdi
+5. sammenheng med kultur- eller naturmiljø.
 
 > Tilføyd ved [forskrift 20 aug 2012 nr. 845](forskrift/2012-08-20-845) (i kraft 1 jan 2013), endret ved [forskrift 24 juni 2017 nr. 975](forskrift/2017-06-24-975) (i kraft 1 juli 2017).
 
@@ -1019,7 +1472,10 @@ Med unntak av [§ 14-2](forskrift/2010-03-26-488/§14-2), [§ 14-4](forskrift/20
 
 [§ 14-2](forskrift/2010-03-26-488/§14-2), [§ 14-4](forskrift/2010-03-26-488/§14-4), [§ 14-5](forskrift/2010-03-26-488/§14-5), [§ 14-6](forskrift/2010-03-26-488/§14-6) og [§ 14-7](forskrift/2010-03-26-488/§14-7) trer i kraft 1. januar 2013.
 
-Fra samme tidspunkt som første ledd oppheves følgende forskrifter:[Forskrift 24. juni 2003 nr. 749 om saksbehandling og kontroll i byggesaker](forskrift/2003-06-24-749) (SAK).[Forskrift 22. januar 1997 nr. 35 om godkjenning av foretak for ansvarsrett](forskrift/1997-01-22-35) (GOF).
+Fra samme tidspunkt som første ledd oppheves følgende forskrifter:
+
+1. [Forskrift 24. juni 2003 nr. 749 om saksbehandling og kontroll i byggesaker](forskrift/2003-06-24-749) (SAK).
+2. [Forskrift 22. januar 1997 nr. 35 om godkjenning av foretak for ansvarsrett](forskrift/1997-01-22-35) (GOF).
 
 > Endret ved forskrifter [22 juni 2011 nr. 674](forskrift/2011-06-22-674) (i kraft 1 juli 2011), [15 juni 2012 nr. 620](forskrift/2012-06-15-620), [20 aug 2012 nr. 845](forskrift/2012-08-20-845) (i kraft 1 jan 2013, tidligere § 19-1).
 

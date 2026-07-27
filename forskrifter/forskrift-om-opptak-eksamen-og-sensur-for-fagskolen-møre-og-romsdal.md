@@ -48,7 +48,12 @@ eu_basis: []
 
 (2) Søkere som ikke er ferdig med læretiden, og som kan dokumentere at de skal gjennomføre fag-/svenneprøve etter søknadsfristen, kan tildeles plass på vilkår om bestått prøve. Fagprøven må være gjennomført innen første semester i opptaksåret.
 
-(3) Søkere som søker på grunnlag av treårig yrkesfaglig utdanning eller generell studiekompetanse, og som ikke kan gjennomføre eksamen i videregående opplæring på grunn av spesielle omstendigheter, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semestersøkeren har standpunktkarakter 2 eller bedre i fagetsøkeren har ikke allerede avsluttende vurdering i faget, ogsøkeren oppfyller fastsette karakterkrav når eksamen er avlagt.
+(3) Søkere som søker på grunnlag av treårig yrkesfaglig utdanning eller generell studiekompetanse, og som ikke kan gjennomføre eksamen i videregående opplæring på grunn av spesielle omstendigheter, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:
+
+1. søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester
+2. søkeren har standpunktkarakter 2 eller bedre i faget
+3. søkeren har ikke allerede avsluttende vurdering i faget, og
+4. søkeren oppfyller fastsette karakterkrav når eksamen er avlagt.
 
 (4) Med spesielle omstendigheter menes sykdom, ulykke eller dødsfall i nær familie.
 
@@ -60,7 +65,15 @@ eu_basis: []
 
 (1) Denne bestemmelsen gjelder ikke for søkere som er kvalifisert for opptak til det bestemte studiet etter [§ 2-2](forskrift/2020-10-20-2103/§2-2) i denne forskrifta.
 
-(2) Søkere som er 23 år eller eldre i opptaksåret, og som har relevant praksis, har krav på å få vurdert om de er kvalifisert for et bestemt studium på grunnlag av realkompetanse. Realkompetanse er den samlede kompetansen en person har opparbeidet seg gjennomyrkespraksisubetalt arbeidorganisasjonsarbeidannen utdanningeller andre aktiviteter som kan anses å være relevant.Kompetansen skal i den grad det lar seg gjøre, dokumenteres ved bruk av attester, kursbevis og vitnemål.
+(2) Søkere som er 23 år eller eldre i opptaksåret, og som har relevant praksis, har krav på å få vurdert om de er kvalifisert for et bestemt studium på grunnlag av realkompetanse. Realkompetanse er den samlede kompetansen en person har opparbeidet seg gjennom
+
+1. yrkespraksis
+2. ubetalt arbeid
+3. organisasjonsarbeid
+4. annen utdanning
+5. eller andre aktiviteter som kan anses å være relevant.
+
+Kompetansen skal i den grad det lar seg gjøre, dokumenteres ved bruk av attester, kursbevis og vitnemål.
 
 (3) Kompetansen til søkeren blir vurdert opp mot læreplanmålene i videregående opplæring innen relevante programområde. For å kunne bli tatt opp må den som søker ha kompetanse som tilsvarer de formelle kompetansekravene som gjelder for det aktuelle fagområdet. Informasjon om hva som er relevant yrkesutdanning, framgår av studieplanene.
 
@@ -86,7 +99,10 @@ eu_basis: []
 
 (1) Alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget skal tas med i beregning av karakterpoeng. Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10.
 
-(2) For fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:et fag- eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål.hvert fag- eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag- eller svennebrevet og 2 poeng for det andre.
+(2) For fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:
+
+1. et fag- eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål.
+2. hvert fag- eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag- eller svennebrevet og 2 poeng for det andre.
 
 (3) Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Læretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag- eller svenneprøve som praksiskandidat gir ikke poeng. Det kan gis inntil 10 poeng for relevant yrkespraksis.
 
@@ -148,7 +164,12 @@ eu_basis: []
 
 (3) En student kan søke fritak for et eller flere emner på grunnlag av annen dokumentert relevant utdanning og kompetanse eller dokumentert realkompetanse. Fritak skal bygge på en faglig vurdering av den helhetlige kompetansen til søkeren som samlet kan gi grunnlag for fritak for deler av fagskoleutdanningen. Fritak på bakgrunn av realkompetanse må baseres på en faglig vurdering av søkerens bakgrunn fra arbeidsliv, frivillig sektor, utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse.
 
-(4) Søknad om godskriving og fritak må leveres til fagskolen innen 15. september for emner i høstsemesteret og 15. januar for emner i vårsemesteret. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:Vitnemål/karakterutskrift/realkompetansevurderingOversikt over hvilke temaer som inngår i emnetOversikt over læringsutbyttebeskrivelsen av emnet eller studieplanEventuelt annen relevant dokumentasjon.
+(4) Søknad om godskriving og fritak må leveres til fagskolen innen 15. september for emner i høstsemesteret og 15. januar for emner i vårsemesteret. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:
+
+1. Vitnemål/karakterutskrift/realkompetansevurdering
+2. Oversikt over hvilke temaer som inngår i emnet
+3. Oversikt over læringsutbyttebeskrivelsen av emnet eller studieplan
+4. Eventuelt annen relevant dokumentasjon.
 
 (5) Når en student får godkjent søknad om fritak av et emne, skal dette framkomme på vitnemålet med referanse til bestått emne ved samme eller annen institusjon. Vitnemålet er bare gyldig sammen med dokumentasjonen som det blir referert til.
 
@@ -180,7 +201,10 @@ eu_basis: []
 
 ### § 3-2. Fagskoleutdanninger med skikkethetsvurdering
 
-Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare jf. [§ 3-1](forskrift/2020-10-20-2103/§3-1). Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved Fagskolen i Møre og Romsdal, jf. [fagskoleforskrifta § 27](forskrift/2019-07-11-1005/§27):Utdanninger innen helse og oppvekstProsessteknikk.
+Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare jf. [§ 3-1](forskrift/2020-10-20-2103/§3-1). Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved Fagskolen i Møre og Romsdal, jf. [fagskoleforskrifta § 27](forskrift/2019-07-11-1005/§27):
+
+1. Utdanninger innen helse og oppvekst
+2. Prosessteknikk.
 
 > Endret ved [forskrift 1 des 2022 nr. 2189](forskrift/2022-12-01-2189) (i kraft 1 jan 2023). **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
@@ -188,7 +212,13 @@ Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjør
 
 (1) Styret for Fagskolen i Møre og Romsdal skal selv oppnevne en skikkethetsnemnd. Fagskolene kan gå sammen om en felles skikkethetsnemnd.
 
-(2) Skikkethetsnemnda skal bestå av:en faglig leder eller tilsvarende funksjonto faglærereto representanter fra praksisfeltetto studentrepresentanteren ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+(2) Skikkethetsnemnda skal bestå av:
+
+1. en faglig leder eller tilsvarende funksjon
+2. to faglærere
+3. to representanter fra praksisfeltet
+4. to studentrepresentanter
+5. en ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
 
 (3) Medlemmene oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år. Faglig leder eller tilsvarende funksjon er nemndas leder og har dobbeltstemme.
 
@@ -248,13 +278,22 @@ Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjør
 
 ### § 4-2. Rett til å gå opp til eksamen
 
-(1) Studenten har rett til å avlegge eksamen når:alle arbeidskrav iht. studieplanen i hvert enkelt emne er gjennomført og godkjentstudenten har betalt studieavgift innen fastsatte fristerstudenten viser gyldig legitimasjon i eksamenslokalet.
+(1) Studenten har rett til å avlegge eksamen når:
+
+1. alle arbeidskrav iht. studieplanen i hvert enkelt emne er gjennomført og godkjent
+2. studenten har betalt studieavgift innen fastsatte frister
+3. studenten viser gyldig legitimasjon i eksamenslokalet.
 
 (2) Dersom en student ikke får godkjent praksisperiode, må studenten gjennomføre ny praksisperiode for å få lov til å avlegge eksamen. Ved Fagskolen Møre og Romsdal gjelder dette for Helse- og oppvekstfag. Vedtak om ikke bestått praksisperiode kan påklages til den lokale klagenemnda etter reglene i kap. 5 i denne forskrifta.
 
 (3) Studenter som følger normalt studieår, blir automatisk meldt opp til eksamen. Frist for å melde seg av eksamen er tre uker før eksamensdato. Dette gjelder også studenter som har meldt seg opp til ny eller utsatt eksamen. Gyldig fraværsårsak er sykdom eller sterke velferdsgrunner, og disse skal dokumenteres. Dokumentasjonen skal leveres/være poststemplet så raskt som mulig og senest innen tre virkedager etter eksamen.
 
-(4) En student er å regne som møtt til eksamen om han eller hun:trekker seg etter frist for å melde seg avikke møter på oppsatt eksamen i henhold til studieprogresjonenikke leverer svarmøter på eksamen og trekker seg under eksamen.
+(4) En student er å regne som møtt til eksamen om han eller hun:
+
+1. trekker seg etter frist for å melde seg av
+2. ikke møter på oppsatt eksamen i henhold til studieprogresjonen
+3. ikke leverer svar
+4. møter på eksamen og trekker seg under eksamen.
 
 (5) Når en student ikke fullfører studiet/emnet innen normert studietid og det i mellomtiden er gjort vesentlige endringer i studieplanen, gjelder retten til å fullføre etter den opprinnelige studieplanen i ett år etter at endringen ble gjort gjeldende.
 
@@ -270,7 +309,12 @@ Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjør
 
 (1) Forsøk på fusk er når student forsettlig handler i strid med forskrifter og retningslinjer for eksamen og vurdering.
 
-(2) Fusk kan være:Bruk av hjelpemidler som ikke er tillatt på eksamen, eller å ha disse tilgjengeligÅ utgi andres arbeid som egetÅ sitere kilder uten å benytte kildehenvisningUreglementert samarbeid mellom eksamenskandidater eller grupper.
+(2) Fusk kan være:
+
+1. Bruk av hjelpemidler som ikke er tillatt på eksamen, eller å ha disse tilgjengelig
+2. Å utgi andres arbeid som eget
+3. Å sitere kilder uten å benytte kildehenvisning
+4. Ureglementert samarbeid mellom eksamenskandidater eller grupper.
 
 (3) Dersom det under eksamen oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte eksamen.
 
@@ -408,7 +452,19 @@ Klage på karakter og klage på formelle feil ved eksamen skal følge reglene i 
 
 ### § 5-2. Klage på andre enkeltvedtak etter forskrift om opptak , eksamen og sensur
 
-(1) Studenter kan klage på følgende vedtak etter denne forskrifta:Vedtak om opptak gjennom Samordna opptak, jf. [§ 2-9](forskrift/2020-10-20-2103/§2-9)Opptak på grunnlag av realkompetansevurdering [§ 2-3](forskrift/2020-10-20-2103/§2-3)Vedtak om godkjenning av tidligere godkjent utdanning og fritak for emner, jf. [§ 2-11](forskrift/2020-10-20-2103/§2-11)Vedtak om ikke bestått praksisperiode, jf. [§ 4-2](forskrift/2020-10-20-2103/§4-2) nr 2.Vedtak i sak om dispensasjon fra antall eksamensforsøk, jf. [§ 4-2](forskrift/2020-10-20-2103/§4-2) nr 5.Vedtak om bortvisning fra eksamen, jf. [§ 4-3](forskrift/2020-10-20-2103/§4-3)Vedtak om tilrettelegging av eksamen, jf. [§ 4-9](forskrift/2020-10-20-2103/§4-9).Vedtak om annullering av eksamen , prøver og godkjenning av emner som følge av studentens eget forhold og vedtak om utestenging, jf. [§ 4-14](forskrift/2020-10-20-2103/§4-14) og [§ 4-15](forskrift/2020-10-20-2103/§4-15).Vedtak om annullering av godkjenning av tidligere utdanning eller fritak for emner og vedtak om utestenging, jf. [§ 2-12](forskrift/2020-10-20-2103/§2-12).Vedtak om at en student ikke er skikket for utdanning og vedtak om om utestengelse fra utdanningen, jf. [§ 3-3](forskrift/2020-10-20-2103/§3-3) og [§ 3-4](forskrift/2020-10-20-2103/§3-4)Vedtak om utestengelse fra praksisundervisning på grunn av merknader i politiattest, jf. [§ 2-8](forskrift/2020-10-20-2103/§2-8) nr 4.
+(1) Studenter kan klage på følgende vedtak etter denne forskrifta:
+
+1. Vedtak om opptak gjennom Samordna opptak, jf. [§ 2-9](forskrift/2020-10-20-2103/§2-9)
+2. Opptak på grunnlag av realkompetansevurdering [§ 2-3](forskrift/2020-10-20-2103/§2-3)
+3. Vedtak om godkjenning av tidligere godkjent utdanning og fritak for emner, jf. [§ 2-11](forskrift/2020-10-20-2103/§2-11)
+4. Vedtak om ikke bestått praksisperiode, jf. [§ 4-2](forskrift/2020-10-20-2103/§4-2) nr 2.
+5. Vedtak i sak om dispensasjon fra antall eksamensforsøk, jf. [§ 4-2](forskrift/2020-10-20-2103/§4-2) nr 5.
+6. Vedtak om bortvisning fra eksamen, jf. [§ 4-3](forskrift/2020-10-20-2103/§4-3)
+7. Vedtak om tilrettelegging av eksamen, jf. [§ 4-9](forskrift/2020-10-20-2103/§4-9).
+8. Vedtak om annullering av eksamen , prøver og godkjenning av emner som følge av studentens eget forhold og vedtak om utestenging, jf. [§ 4-14](forskrift/2020-10-20-2103/§4-14) og [§ 4-15](forskrift/2020-10-20-2103/§4-15).
+9. Vedtak om annullering av godkjenning av tidligere utdanning eller fritak for emner og vedtak om utestenging, jf. [§ 2-12](forskrift/2020-10-20-2103/§2-12).
+10. Vedtak om at en student ikke er skikket for utdanning og vedtak om om utestengelse fra utdanningen, jf. [§ 3-3](forskrift/2020-10-20-2103/§3-3) og [§ 3-4](forskrift/2020-10-20-2103/§3-4)
+11. Vedtak om utestengelse fra praksisundervisning på grunn av merknader i politiattest, jf. [§ 2-8](forskrift/2020-10-20-2103/§2-8) nr 4.
 
 (2) Den lokale klagenemnda for fagskolen i Møre og Romsdal er klageinstans for vedtak som nevnt i pkt. b–g.
 

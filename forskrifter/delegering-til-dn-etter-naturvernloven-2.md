@@ -22,7 +22,19 @@ eu_basis: []
 
 # Delegering av myndighet til Direktoratet for naturforvaltning etter lov om naturvern § 4, § 6, § 10, § 12, § 13, § 14, § 21, § 22 og § 23
 
-Herved delegeres Klima- og miljødepartementets myndighet etter [lov 19. juni 1970 nr. 63](lov/1970-06-19-63) om naturvern [§ 4](lov/1970-06-19-63/§4), [§ 6](lov/1970-06-19-63/§6), [§ 10](lov/1970-06-19-63/§10), [§ 12](lov/1970-06-19-63/§12), [§ 13](lov/1970-06-19-63/§13), [§ 14](lov/1970-06-19-63/§14), [§ 21](lov/1970-06-19-63/§21), [§ 22](lov/1970-06-19-63/§22) og [§ 23](lov/1970-06-19-63/§23), jf. [kgl.res. 3. juli 1987 nr. 572](forskrift/1987-07-03-572), til åendre verneområdets navnrette feil og unøyaktigheter i beskrivelsen av det vernete områdeforeta grenseendringer som omfatter mindre arealer (utvidelse eller innskrenkninger)gi bestemmelser om skjøtsel forsåvidt det ikke etter annen bestemmelse er lagt til fylkesmannen eller annen forvaltningsmyndighetgi bestemmelser om merking mv. etter § 21gi bestemmelser om ferdselsregulering etter § 22 første leddgi dispensasjon etter § 23 forsåvidt ikke dispensasjonsmyndigheten etter annen bestemmelse er lagt til fylkesmannen eller annen forvaltningsmyndighetforeta andre endringer i vernebestemmelsene som ikke strider mot formålet med vernetoppheve eldre fredninger der verneformålet er bortfalttil Direktoratet for naturforvaltning, med virkning fra 15. november 1988.
+Herved delegeres Klima- og miljødepartementets myndighet etter [lov 19. juni 1970 nr. 63](lov/1970-06-19-63) om naturvern [§ 4](lov/1970-06-19-63/§4), [§ 6](lov/1970-06-19-63/§6), [§ 10](lov/1970-06-19-63/§10), [§ 12](lov/1970-06-19-63/§12), [§ 13](lov/1970-06-19-63/§13), [§ 14](lov/1970-06-19-63/§14), [§ 21](lov/1970-06-19-63/§21), [§ 22](lov/1970-06-19-63/§22) og [§ 23](lov/1970-06-19-63/§23), jf. [kgl.res. 3. juli 1987 nr. 572](forskrift/1987-07-03-572), til å
+
+1. endre verneområdets navn
+2. rette feil og unøyaktigheter i beskrivelsen av det vernete område
+3. foreta grenseendringer som omfatter mindre arealer (utvidelse eller innskrenkninger)
+4. gi bestemmelser om skjøtsel forsåvidt det ikke etter annen bestemmelse er lagt til fylkesmannen eller annen forvaltningsmyndighet
+5. gi bestemmelser om merking mv. etter § 21
+6. gi bestemmelser om ferdselsregulering etter § 22 første ledd
+7. gi dispensasjon etter § 23 forsåvidt ikke dispensasjonsmyndigheten etter annen bestemmelse er lagt til fylkesmannen eller annen forvaltningsmyndighet
+8. foreta andre endringer i vernebestemmelsene som ikke strider mot formålet med vernet
+9. oppheve eldre fredninger der verneformålet er bortfalt
+
+til Direktoratet for naturforvaltning, med virkning fra 15. november 1988.
 
 Alle saker vedrørende dette skal etter denne dato sendes direktoratet. Departementet vil ferdigbehandle de sakene som er innkommet før dette tidspunkt.
 

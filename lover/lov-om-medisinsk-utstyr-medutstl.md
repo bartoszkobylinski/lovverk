@@ -15,7 +15,7 @@ xml_hash: "8f391db1761e2b49017777a84636399a7ff4a45a836d37bf4dea57e35a008fd8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "31993L0068"
@@ -37,7 +37,12 @@ Formålet med loven er å forhindre skadevirkninger, uhell og ulykker, samt sikr
 
 ## § 3. Definisjon
 
-Med medisinsk utstyr menes i denne loven ethvert instrument, apparat, hjelpemiddel, materiale eller enhver annen gjenstand som brukes alene eller i kombinasjon, herunder nødvendig programvare, og som av produsenten er ment å skulle brukes på mennesker i den hensikt å:diagnostisere, forebygge, overvåke, behandle eller lindre sykdom,diagnostisere, overvåke, behandle, lindre eller kompensere for skade eller uførhet,undersøke, erstatte eller endre anatomien eller en fysiologisk prosess,forebygge svangerskap.
+Med medisinsk utstyr menes i denne loven ethvert instrument, apparat, hjelpemiddel, materiale eller enhver annen gjenstand som brukes alene eller i kombinasjon, herunder nødvendig programvare, og som av produsenten er ment å skulle brukes på mennesker i den hensikt å:
+
+1. diagnostisere, forebygge, overvåke, behandle eller lindre sykdom,
+2. diagnostisere, overvåke, behandle, lindre eller kompensere for skade eller uførhet,
+3. undersøke, erstatte eller endre anatomien eller en fysiologisk prosess,
+4. forebygge svangerskap.
 
 Som medisinsk utstyr regnes også et produkt som er tilbehør til, eller på annen måte inngår i bruken av medisinsk utstyr.
 
@@ -51,7 +56,11 @@ Kongen kan gi nærmere forskrifter om hvilke produkter som er medisinsk utstyr.
 
 Medisinsk utstyr skal konstrueres, fremstilles og emballeres på en slik måte at det ved normal bruk, når utstyret brukes i samsvar med sitt tiltenkte formål, virker som angitt av produsenten og er forenlig med et høyt vernenivå for pasientens, brukers og andre personers liv, sikkerhet og helse.
 
-Kongen kan gi forskrifter omspesifikasjons- og sikkerhetskrav til medisinsk utstyr, herunder krav til klinisk utprøving,fremgangsmåter som skal følges ved vurderingen av om et produkt er i overensstemmelse med sikkerhetskravene (samsvarsvurdering), herunder regler om kontroll og godkjenning ogklassifisering av medisinsk utstyr.
+Kongen kan gi forskrifter om
+
+1. spesifikasjons- og sikkerhetskrav til medisinsk utstyr, herunder krav til klinisk utprøving,
+2. fremgangsmåter som skal følges ved vurderingen av om et produkt er i overensstemmelse med sikkerhetskravene (samsvarsvurdering), herunder regler om kontroll og godkjenning og
+3. klassifisering av medisinsk utstyr.
 
 Før klinisk utprøving av medisinsk utstyr igangsettes skal søknad om utprøving sendes til den myndighet Kongen bestemmer.
 

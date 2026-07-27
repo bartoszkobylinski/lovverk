@@ -72,11 +72,21 @@ Integrerings- og mangfoldsdirektoratet er behandlingsansvarlig for Nasjonalt tol
 
 ### § 10. Krav til oppføring i Nasjonalt tolkeregister
 
-For å bli oppført i registeret må søkeren:være myndig etter norsk lovha oppholdstillatelse eller oppholdsrett som danner grunnlag for arbeidframlegge nødvendig dokumentasjon på formelle tolkefaglige kvalifikasjoner i samsvar med kvalifikasjonskravene i [§ 11](forskrift/2021-09-13-2744/§11).
+For å bli oppført i registeret må søkeren:
+
+1. være myndig etter norsk lov
+2. ha oppholdstillatelse eller oppholdsrett som danner grunnlag for arbeid
+3. framlegge nødvendig dokumentasjon på formelle tolkefaglige kvalifikasjoner i samsvar med kvalifikasjonskravene i [§ 11](forskrift/2021-09-13-2744/§11).
 
 ### § 11. Kvalifikasjonskategorier i Nasjonalt tolkeregister
 
-Følgende kvalifikasjonskategorier brukes i Nasjonalt tolkeregister:Kategori A: Statsautorisasjon i tolking og bachelorgrad i tolkingKategori B: (i) Bachelorgrad i tolking eller (ii) statsautorisasjon i tolking og grunnemne i tolking i offentlig sektor (30 studiepoeng)Kategori C: Statsautorisasjon i tolkingKategori D: Grunnemne i tolking i offentlig sektor (30 studiepoeng)Kategori E: (i) Tospråktest og kurs i tolkens ansvarsområde eller (ii) statsautorisert translatør og kurs i tolkens ansvarsområde eller (iii) fagoversetter og kurs i tolkens ansvarsområde.
+Følgende kvalifikasjonskategorier brukes i Nasjonalt tolkeregister:
+
+- Kategori A: Statsautorisasjon i tolking og bachelorgrad i tolking
+- Kategori B: (i) Bachelorgrad i tolking eller (ii) statsautorisasjon i tolking og grunnemne i tolking i offentlig sektor (30 studiepoeng)
+- Kategori C: Statsautorisasjon i tolking
+- Kategori D: Grunnemne i tolking i offentlig sektor (30 studiepoeng)
+- Kategori E: (i) Tospråktest og kurs i tolkens ansvarsområde eller (ii) statsautorisert translatør og kurs i tolkens ansvarsområde eller (iii) fagoversetter og kurs i tolkens ansvarsområde.
 
 ### § 12. Tolker med godkjente tolkefaglige kvalifikasjoner fra en annen stat
 
@@ -84,7 +94,19 @@ Tolker som har ervervet eller fått sine tolkefaglige kvalifikasjoner godkjent i
 
 ### § 13. Opplysninger som kan inngå i Nasjonalt tolkeregister
 
-Følgende opplysninger kan inngå i Nasjonalt tolkeregister om den enkelte tolk:navnkjønntelefonnummer og e-postadressepersonnummer eller D-nummerfolkeregistrert adressespråkformelle tolkefaglige kvalifikasjonertidspunktet for oppføring i registerettidspunktene for oppnåelse av formelle tolkefaglige kvalifikasjonertolkekort, inkludert dato for utstedelse, nummer, gyldighetkapasitet.
+Følgende opplysninger kan inngå i Nasjonalt tolkeregister om den enkelte tolk:
+
+1. navn
+2. kjønn
+3. telefonnummer og e-postadresse
+4. personnummer eller D-nummer
+5. folkeregistrert adresse
+6. språk
+7. formelle tolkefaglige kvalifikasjoner
+8. tidspunktet for oppføring i registeret
+9. tidspunktene for oppnåelse av formelle tolkefaglige kvalifikasjoner
+10. tolkekort, inkludert dato for utstedelse, nummer, gyldighet
+11. kapasitet.
 
 Opplysninger nevnt i bokstav d skal ikke gjøres tilgjengelig for offentligheten. Opplysninger nevnt i bokstav e kan gjøres tilgjengelig for offentligheten etter samtykke fra tolken.
 
@@ -156,4 +178,7 @@ Skyldig gebyr er tvangsgrunnlag for utlegg.
 
 Forskriften trer i kraft 1. januar 2022.
 
-Fra samme tidspunkt oppheves følgende forskrifter:[Forskrift 6. juni 1997 nr. 571 om bevilling som statsautorisert tolk og tolkeprøven](forskrift/1997-06-06-571).[Forskrift 2. juli 2020 nr. 1525 om Nasjonalt tolkeregister](forskrift/2020-07-02-1525).
+Fra samme tidspunkt oppheves følgende forskrifter:
+
+1. [Forskrift 6. juni 1997 nr. 571 om bevilling som statsautorisert tolk og tolkeprøven](forskrift/1997-06-06-571).
+2. [Forskrift 2. juli 2020 nr. 1525 om Nasjonalt tolkeregister](forskrift/2020-07-02-1525).

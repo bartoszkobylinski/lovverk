@@ -24,6 +24,21 @@ eu_basis: []
 
 1. Staten overtar krigsrisikoen for fiske- og fangstflåten (krigsforsikringen for fiskeflåten) fra 1. september 1939 og inntil videre.
 2. Det betales ikke premie. Forhåndsanmeldelse for fartøy eller den enkelte tur finner ikke sted.
-3. Forsikringen omfatter alle fartøyer som er merkepliktige i henhold til [lov av 5. desember 1917 nr. 1](lov/1917-12-05-1), dog bare under:Fiske eller fangst fra norsk havn, herunder også ved deltagelse i torske- og sildefiskeriene ved Island, uansett om fangsten ilandbringes på Island eller i norsk havn.Føring av egen fangst innenfor den grense i havet som er fastsatt for håndhevelse av Norges nøytralitet i den krig som er brutt ut mellom fremmede makter, d.v.s. 3 nautiske mil fra kysten.Føring av levende eller fersk fisk innenfor samme grense som under punkt b.Annen fart innenfor samme grense som under punkt b, når fartøyet brukes til fiske eller fangst eller til føring av levende eller fersk fisk og bare for enkelte turer brukes i annen fart.Fartøy som brukes til storhvalfangst og fraktefartøyer som bare unntaksvis brukes til fiske omfattes ikke av forsikringen.Redningsskøytene tilhørende Norsk Selskab til Skibbrudnes redning omfattes av forsikringen, uansett hvor farten foregår, dog ikke sålenge de er bortleiet til private.
-4. Ved siden av erstatning for fartøyet skal det ytes erstatning:for utrustning av redskap og utstyr,for utrustning av klær og effekter,for proviant,for tap av hyre ved arbeidsledighet som følge av krigsforlis,for liv og invaliditet.
+3. Forsikringen omfatter alle fartøyer som er merkepliktige i henhold til [lov av 5. desember 1917 nr. 1](lov/1917-12-05-1), dog bare under:
+
+   1. Fiske eller fangst fra norsk havn, herunder også ved deltagelse i torske- og sildefiskeriene ved Island, uansett om fangsten ilandbringes på Island eller i norsk havn.
+   2. Føring av egen fangst innenfor den grense i havet som er fastsatt for håndhevelse av Norges nøytralitet i den krig som er brutt ut mellom fremmede makter, d.v.s. 3 nautiske mil fra kysten.
+   3. Føring av levende eller fersk fisk innenfor samme grense som under punkt b.
+   4. Annen fart innenfor samme grense som under punkt b, når fartøyet brukes til fiske eller fangst eller til føring av levende eller fersk fisk og bare for enkelte turer brukes i annen fart.
+
+      Fartøy som brukes til storhvalfangst og fraktefartøyer som bare unntaksvis brukes til fiske omfattes ikke av forsikringen.
+
+      Redningsskøytene tilhørende Norsk Selskab til Skibbrudnes redning omfattes av forsikringen, uansett hvor farten foregår, dog ikke sålenge de er bortleiet til private.
+4. Ved siden av erstatning for fartøyet skal det ytes erstatning:
+
+   1. for utrustning av redskap og utstyr,
+   2. for utrustning av klær og effekter,
+   3. for proviant,
+   4. for tap av hyre ved arbeidsledighet som følge av krigsforlis,
+   5. for liv og invaliditet.
 5. De nærmere regler for forsikringen og dens omfang og tariffer for erstatningene fastsettes av Handelsdepartementet.

@@ -36,7 +36,10 @@ For andre bestemmelser som regulerer forhold knyttet til ph.d.-graden, se til [l
 
 ### § 1-2. Definisjoner
 
-I denne forskriften menes med*fakultetet selv*, organer på fakultetsnivå*felles- eller dobbelgrader*, et samarbeid mellom institusjoner, der man i fellesskap har ansvar for opptak, veiledning og gradstildeling, jf. [§ 18](forskrift/2025-02-13-282/§18).
+I denne forskriften menes med
+
+1. *fakultetet selv*, organer på fakultetsnivå
+2. *felles- eller dobbelgrader*, et samarbeid mellom institusjoner, der man i fellesskap har ansvar for opptak, veiledning og gradstildeling, jf. [§ 18](forskrift/2025-02-13-282/§18).
 
 ### § 2. Målsetting, innhold og omfang for ph.d.-utdanningen
 
@@ -54,7 +57,12 @@ Utdanningen omfatter et selvstendig forskningsarbeid som skal dokumenteres med e
 
 Ph.d.-utdanningen organiseres i programmer som er normert til tre (3) årsverk.
 
-Ph.d.-graden tildeles på grunnlag avgodkjent vitenskapelig avhandlinggodkjent gjennomføring av opplæringsdelen, eventuelt annen godkjent faglig skolering eller kompetansegodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+Ph.d.-graden tildeles på grunnlag av
+
+1. godkjent vitenskapelig avhandling
+2. godkjent gjennomføring av opplæringsdelen, eventuelt annen godkjent faglig skolering eller kompetanse
+3. godkjent prøveforelesning over oppgitt emne
+4. godkjent offentlig forsvar av avhandlingen (disputas).
 
 ### § 3. Ansvaret for ph.d.-utdanningen
 
@@ -98,7 +106,12 @@ Søknad om opptak skal sendes til det fakultet som har det fagområdet det søke
 
 Vedtak om opptak fattes av fakultetet selv. Vedtak om opptak baseres på en samlet vurdering av søknaden. Fakultetet kan fastsette kriterier for rangering mellom kvalifiserte søkere når antallet søkere overstiger opptakskapasiteten. I opptaksvedtaket skal avtaleperioden fastsettes.
 
-Opptak bør nektes dersom ett eller flere av følgende forhold foreligger:Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen.De immaterialrettslige avtalene som er inngått med tredjepart er så urimelige at institusjonen ikke bør medvirke i prosjektet.Det er planlagt forskning eller opplæringsdel som er i strid med regelverket om eksportkontroll.Søkeren ikke vil kunne oppfylle kravet om at minimum ett (1) år av forskningsprosjektet skal gjennomføres etter at vedkommende er tatt opp på ph.d.-programmet.
+Opptak bør nektes dersom ett eller flere av følgende forhold foreligger:
+
+1. Avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen.
+2. De immaterialrettslige avtalene som er inngått med tredjepart er så urimelige at institusjonen ikke bør medvirke i prosjektet.
+3. Det er planlagt forskning eller opplæringsdel som er i strid med regelverket om eksportkontroll.
+4. Søkeren ikke vil kunne oppfylle kravet om at minimum ett (1) år av forskningsprosjektet skal gjennomføres etter at vedkommende er tatt opp på ph.d.-programmet.
 
 Det kan gjøres unntak fra bokstav d) for søkere fra forskerlinjer.
 
@@ -136,7 +149,12 @@ Kandidaten og fakultetet kan avtale at utdanningen avsluttes før avtalt tid. Ve
 
 ### § 5-5-2. Tvungen avslutning ved forsinkelse eller betydelige endringer i ph.d.-prosjektet
 
-Når ett eller flere av de følgende forhold foreligger, kan fakultetet selv vedta tvungen avslutning av utdanningen ved:vesentlig forsinkelse i gjennomføringen av opplæringsdelengjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 8](forskrift/2025-02-13-282/§8)forsinkelse i fremdriften av prosjektet som er av en slik art at det skaper overveiende sannsynlighet for at kandidaten ikke vil kunne fullføre til avtalt tidendringer i ph.d.-prosjektet, som fraviker betydelig fra det som fremgår i prosjektbeskrivelsen og som det er inngått ph.d.-avtale om, og som ikke er tilstrekkelig faglig begrunnet.
+Når ett eller flere av de følgende forhold foreligger, kan fakultetet selv vedta tvungen avslutning av utdanningen ved:
+
+1. vesentlig forsinkelse i gjennomføringen av opplæringsdelen
+2. gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 8](forskrift/2025-02-13-282/§8)
+3. forsinkelse i fremdriften av prosjektet som er av en slik art at det skaper overveiende sannsynlighet for at kandidaten ikke vil kunne fullføre til avtalt tid
+4. endringer i ph.d.-prosjektet, som fraviker betydelig fra det som fremgår i prosjektbeskrivelsen og som det er inngått ph.d.-avtale om, og som ikke er tilstrekkelig faglig begrunnet.
 
 Tvungen avslutning etter reglene her kan bare vedtas dersom forsinkelsen eller endringene skyldes forhold som kandidaten selv rår over.
 
@@ -254,7 +272,12 @@ I avhandlinger hvor det inngår arbeider med flere forfattere skal det følge en
 
 ### § 10-3. Tidligere arbeider
 
-Kravet om «ny faglig kunnskap» etter [§ 10-1 (1)](forskrift/2025-02-13-282/§10-1/ledd/1) innebærer atarbeid eller deler av arbeid som er vurdert til doktorgraden ved en annen institusjon ikke kan inngå i avhandlingen, og det samme gjelder arbeid eller deler av arbeid som har blitt underkjent etter omarbeiding (andre gangs underkjenning)arbeid eller deler av arbeid som har vært godtatt som grunnlag for eksamener eller grader på nivå under doktorgrad, ikke kan inngå i avhandlingen. Fakultetet selv kan gjøre unntak fra dette for kandidater som har bakgrunn fra forskerlinjer. Data, metoder, analyser eller resultater fra nivå under doktorgrad kan likevel danne utgangspunktet for et ph.d.-prosjekt.deler av arbeid som inngår som grunnlaget for en andre kandidaters ph.d.-grad som herværende kandidat har samvirket i, likevel kan inngå i avhandlingendeler av arbeid som har blitt godkjent som besvarelse eller andre aktiviteter i opplæringsdelen, likevel kan inngå i avhandlingen.
+Kravet om «ny faglig kunnskap» etter [§ 10-1 (1)](forskrift/2025-02-13-282/§10-1/ledd/1) innebærer at
+
+1. arbeid eller deler av arbeid som er vurdert til doktorgraden ved en annen institusjon ikke kan inngå i avhandlingen, og det samme gjelder arbeid eller deler av arbeid som har blitt underkjent etter omarbeiding (andre gangs underkjenning)
+2. arbeid eller deler av arbeid som har vært godtatt som grunnlag for eksamener eller grader på nivå under doktorgrad, ikke kan inngå i avhandlingen. Fakultetet selv kan gjøre unntak fra dette for kandidater som har bakgrunn fra forskerlinjer. Data, metoder, analyser eller resultater fra nivå under doktorgrad kan likevel danne utgangspunktet for et ph.d.-prosjekt.
+3. deler av arbeid som inngår som grunnlaget for en andre kandidaters ph.d.-grad som herværende kandidat har samvirket i, likevel kan inngå i avhandlingen
+4. deler av arbeid som har blitt godkjent som besvarelse eller andre aktiviteter i opplæringsdelen, likevel kan inngå i avhandlingen.
 
 Det må legges inn henvisning ved bruk av tidligere arbeider. Henvisningene skal være i tråd med vitenskapelige standarder for det aktuelle fagområdet.
 
@@ -294,7 +317,12 @@ Grunnenheten foreslår bedømmelseskomité. Kandidaten skal underrettes om forsl
 
 Det bør normalt ikke gå mer enn fire (4) uker fra søknaden om å få avhandlingen bedømt er godkjent, til komiteen er oppnevnt.
 
-Bedømmelseskomiteen skal normalt settes sammen slik atto kjønn er representert blant opponenteneflertallet er uten tilknytning til Universitetet i Bergenett av medlemmene, om mulig, er fra en utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Bedømmelseskomiteen skal normalt settes sammen slik at
+
+1. to kjønn er representert blant opponentene
+2. flertallet er uten tilknytning til Universitetet i Bergen
+3. ett av medlemmene, om mulig, er fra en utenlandsk institusjon
+4. alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt. Oppnevnt veileder kan ikke være medlem av komiteen. Fakultetet utpeker en av sine ansatte til komiteens leder.
 
@@ -370,7 +398,10 @@ Kandidaten skal levere en pressemelding på norsk. Kandidaten kan også levere e
 
 ### § 15-1. Prøveforelesning og disputas
 
-Ph.d.-utdanningen avsluttes medprøveforelesning over oppgitt emnedisputas.
+Ph.d.-utdanningen avsluttes med
+
+1. prøveforelesning over oppgitt emne
+2. disputas.
 
 ### § 15-2. Prøveforelesning
 
@@ -380,7 +411,10 @@ Prøveforelesningen avholdes som hovedregel ved Universitetet i Bergen og fakult
 
 Prøveforelesningen ledes av dekanen eller den denne bemyndiger.
 
-Prøveforelesningen skal vurderes av en bedømmelseskomité på minst tre (3) medlemmer. Bedømmelseskomiteen skal normalt settes sammen slik atto kjønn er representertalle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Prøveforelesningen skal vurderes av en bedømmelseskomité på minst tre (3) medlemmer. Bedømmelseskomiteen skal normalt settes sammen slik at
+
+1. to kjønn er representert
+2. alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Komiteen avgir innstilling til fakultetet om prøveforelesningen bør godkjennes. Innstillingen skal begrunnes dersom prøveforelesningen anbefales ikke godkjent. Fakultetet fatter vedtak om godkjenning av prøveforelesning på grunnlag av bedømmelseskomiteens innstilling. Fakultetet selv fatter vedtak ved delt eller negativ innstilling.
 
@@ -428,7 +462,14 @@ Vitnemålet, vitnemålstillegget og doktorgradsdiplomet deles ordinært ut på p
 
 ### § 17-1. Klage over avslag på søknad om opptak, tvungen avslutning av avtaleperioden og avslag på søknad om godkjenning av elementer i opplæringsdelen
 
-Vedtak omavslag på søknad om opptaktvungen avslutning av avtaleperioden ved forsinkelsetvungen avslutning av avtaleperioden av hensyn til eksportkontrollavslag på søknad om godkjenning av elementer i opplæringsdelenkan påklages etter reglene i [forvaltningslovens § 28](lov/1967-02-10/§28) følgende.
+Vedtak om
+
+1. avslag på søknad om opptak
+2. tvungen avslutning av avtaleperioden ved forsinkelse
+3. tvungen avslutning av avtaleperioden av hensyn til eksportkontroll
+4. avslag på søknad om godkjenning av elementer i opplæringsdelen
+
+kan påklages etter reglene i [forvaltningslovens § 28](lov/1967-02-10/§28) følgende.
 
 Begrunnet klage sendes til fakultetet selv. Blir avslaget opprettholdt, sendes klagen uten ugrunnet opphold til Den sentrale klagenemnd til avgjørelse.
 

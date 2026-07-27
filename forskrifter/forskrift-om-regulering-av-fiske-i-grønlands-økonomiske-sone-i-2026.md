@@ -28,11 +28,23 @@ Det er forbudt for norske fartøy å fiske og lande fisk i Grønlands økonomisk
 
 ## § 2. Totalkvoter
 
-Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i ICES’ statistikkområde 14 (Sydøstgrønland):720 tonn torsk, hvorav 360 tonn må fiskes i forvaltningsområde Sydøstgrønland og 360 tonn må fiskes i forvaltningsområde Dohrn Banke.
+Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i ICES’ statistikkområde 14 (Sydøstgrønland):
 
-Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i NAFO-område 1 (Vest-Grønland):875 tonn blåkveite55 tonn skolest.
+1. 720 tonn torsk, hvorav 360 tonn må fiskes i forvaltningsområde Sydøstgrønland og 360 tonn må fiskes i forvaltningsområde Dohrn Banke.
 
-Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i ICES’ statistikkområde 5a, 12 og 14:900 tonn blåkveite1 300 tonn bunnlevende uer15 tonn kveite360 tonn brosme140 tonn skolest325 tonn bifangst av andre arter.
+Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i NAFO-område 1 (Vest-Grønland):
+
+1. 875 tonn blåkveite
+2. 55 tonn skolest.
+
+Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i ICES’ statistikkområde 5a, 12 og 14:
+
+1. 900 tonn blåkveite
+2. 1 300 tonn bunnlevende uer
+3. 15 tonn kveite
+4. 360 tonn brosme
+5. 140 tonn skolest
+6. 325 tonn bifangst av andre arter.
 
 Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande 1 500 tonn reker i Grønlands økonomiske sone i ICES’ statistikkområde 5a og 14.
 

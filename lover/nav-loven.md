@@ -15,7 +15,7 @@ xml_hash: "3077e8dd9077639237a6e3d04212e6556720182f4f845a7d44464b8db63ce794"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -166,7 +166,13 @@ Departementet kan gi forskrift om løsning av tvister mellom etaten og kommunene
 
 ### § 14 a. Vurdering av behov for bistand for å beholde eller skaffe seg arbeid og rett til aktivitetsplan
 
-Alle som henvender seg til kontoret, og som ønsker eller trenger bistand for å komme i arbeid, har rett til å få vurdert sitt bistandsbehov. Brukere som har behov for en mer omfattende vurdering av sitt bistandsbehov, har rett til å få en arbeidsevnevurdering. Brukeren skal få en skriftlig vurdering avsine muligheter for å komme i arbeidhva slags arbeid som skal være måletbehovet for bistand for å komme i arbeidom, og eventuelt hvor mye, arbeidsevnen er nedsatthvilken type bistand som kan være aktuell for brukeren
+Alle som henvender seg til kontoret, og som ønsker eller trenger bistand for å komme i arbeid, har rett til å få vurdert sitt bistandsbehov. Brukere som har behov for en mer omfattende vurdering av sitt bistandsbehov, har rett til å få en arbeidsevnevurdering. Brukeren skal få en skriftlig vurdering av
+
+1. sine muligheter for å komme i arbeid
+2. hva slags arbeid som skal være målet
+3. behovet for bistand for å komme i arbeid
+4. om, og eventuelt hvor mye, arbeidsevnen er nedsatt
+5. hvilken type bistand som kan være aktuell for brukeren
 
 Vedtak etter første ledd kan påklages til nærmeste overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer.
 

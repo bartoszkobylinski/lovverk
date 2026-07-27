@@ -15,7 +15,7 @@ xml_hash: "2542a3a437a0ed0198be8c5e8326a0d2513ec70234098f776eb2d0e6d0eba528"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,41 @@ For eksisterende fartøy som etter nr. 2 helt eller delvis skal tilfredsstille k
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:Fiske- og fangstfartøy: Fartøy som ervervsmessig benyttes til å fange fisk, hval, sel eller andre levende ressurser i sjøen, herunder tang og tare.Nytt fartøy: Fiske- og fangstfartøy hvor kjølen strekkes, eller som er på et liknende byggetrinn på eller etter den dag denne forskrift trer i kraft.Eksisterende fartøy: Fiske- og fangstfartøy som ikke er nytt fartøy.Anerkjente klasseinstitusjoner: Klasseinstitusjoner som departementet har inngått overenskomst med i medhold av [sjødyktighetslovens § 9](lov/1903-06-09-7/§9):Det norske Veritas (DnV)Lloyd's Register of Shipping (LRS)Bureau Veritas (BV)Germanischer Lloyd (GL)American Bureau of Shipping (ABS)Anerkjente klasseinstitusjoner som er godkjent av Elektrisitetstilsynet for kontroll av elektriske anlegg: Jfr. nr. 4.1.-4.5.Klassifisert fartøy: Fiske- og fangstfartøy som har klasse i anerkjent klasseinstitusjon.Uklassifisert fartøy: Fiske- og fangstfartøy som ikke er klassifisert fartøy.Lastelinjekonvensjonen: Den internasjonale konvensjon om lastelinjer som ble undertegnet i London 5. april 1966.Forurensningskonvensjonen ([MARPOL):](forskrift/2012-05-30-488) Den internasjonale konvensjon om hindring av forurensning fra skip 1973, med senere tilføyelser og endringer.Fyllingspunkt: Laveste kant av åpning i volumer som er forutsatt å gi oppdrift i stabilitetsberegningene og som kan medføre vannfylling av disse.Fyllingsvinkel, ΘF: Den krengningsvinkel hvor åpninger i skrog, overbygning eller dekkshus som ikke raskt kan lukkes værtett, tar til å neddykkes. Små åpninger f.eks. for gjennomføring av wirer, kjetting o.l. behøver ikke å anses som åpne dersom neddykking finner sted ved en krengevinkel på 30° eller mer.Værtett: At det under hvilke som helst forhold på sjøen ikke vil trenge vann inn i skipet.Vanntett: At lekkasje i enhver retning gjennom skott eller dekk og eventuelle åpninger i disse forhindres ved den trykkhøyde som skottet eller dekket er dimensjonert for.Konstruksjonsvannlinjen (KVL): Vannlinje som er trukket vinkelrett på tverrskips hovedspant, rammespant, tverrskipsskott o.l., og som følgelig ikke tar hensyn til fartøyets trim.Overbygning: Som definert i regel 3.10 i vedlegg I til lastelinjekonvensjonen.Lengde L: Som definert i regel 3.1 i vedlegg I til lastelinjekonvensjonen.Lengde Loa: Fartøyets største lengde.Tonn: Tonnasjeenheter/registertonn brutto.Godkjent: Godkjent av Sjøfartsdirektoratet eller slik det fremgår av de enkelte paragrafer.Anerkjent standard: Standarder utgitt av NS/BS/ISO/CEN eller tilsvarende nasjonale og internasjonale standarder anerkjent av Sjøfartsdirektoratet, ved enkeltvedtak.Norsk StandardBritish StandardInternational Standards OrganizationEuropean Committee for StandardizationHovedtegninger av skrog: Tegninger som viser langskips- og tverrskips snitt i skrog og værtett lukket overbygning, samt dekk, ytre hud, utvendige porter/luker og skottinndeling.Lettskipsvekt: Fartøyets deplasement/vekt i metriske tonn driftsklar, men eksklusive last, drivstoff, smøreolje, ferskvann, ballastvann, stores, mannskap og deres effekter. Fastmontert fiskeutstyr skal inngå i vekten.
+I denne forskrift betyr:
+
+1. Fiske- og fangstfartøy: Fartøy som ervervsmessig benyttes til å fange fisk, hval, sel eller andre levende ressurser i sjøen, herunder tang og tare.
+2. Nytt fartøy: Fiske- og fangstfartøy hvor kjølen strekkes, eller som er på et liknende byggetrinn på eller etter den dag denne forskrift trer i kraft.
+3. Eksisterende fartøy: Fiske- og fangstfartøy som ikke er nytt fartøy.
+4. Anerkjente klasseinstitusjoner: Klasseinstitusjoner som departementet har inngått overenskomst med i medhold av [sjødyktighetslovens § 9](lov/1903-06-09-7/§9):
+
+   - Det norske Veritas (DnV)
+   - Lloyd's Register of Shipping (LRS)
+   - Bureau Veritas (BV)
+   - Germanischer Lloyd (GL)
+   - American Bureau of Shipping (ABS)
+5. Anerkjente klasseinstitusjoner som er godkjent av Elektrisitetstilsynet for kontroll av elektriske anlegg: Jfr. nr. 4.1.-4.5.
+6. Klassifisert fartøy: Fiske- og fangstfartøy som har klasse i anerkjent klasseinstitusjon.
+7. Uklassifisert fartøy: Fiske- og fangstfartøy som ikke er klassifisert fartøy.
+8. Lastelinjekonvensjonen: Den internasjonale konvensjon om lastelinjer som ble undertegnet i London 5. april 1966.
+9. Forurensningskonvensjonen ([MARPOL):](forskrift/2012-05-30-488) Den internasjonale konvensjon om hindring av forurensning fra skip 1973, med senere tilføyelser og endringer.
+10. Fyllingspunkt: Laveste kant av åpning i volumer som er forutsatt å gi oppdrift i stabilitetsberegningene og som kan medføre vannfylling av disse.
+11. Fyllingsvinkel, ΘF: Den krengningsvinkel hvor åpninger i skrog, overbygning eller dekkshus som ikke raskt kan lukkes værtett, tar til å neddykkes. Små åpninger f.eks. for gjennomføring av wirer, kjetting o.l. behøver ikke å anses som åpne dersom neddykking finner sted ved en krengevinkel på 30° eller mer.
+12. Værtett: At det under hvilke som helst forhold på sjøen ikke vil trenge vann inn i skipet.
+13. Vanntett: At lekkasje i enhver retning gjennom skott eller dekk og eventuelle åpninger i disse forhindres ved den trykkhøyde som skottet eller dekket er dimensjonert for.
+14. Konstruksjonsvannlinjen (KVL): Vannlinje som er trukket vinkelrett på tverrskips hovedspant, rammespant, tverrskipsskott o.l., og som følgelig ikke tar hensyn til fartøyets trim.
+15. Overbygning: Som definert i regel 3.10 i vedlegg I til lastelinjekonvensjonen.
+16. Lengde L: Som definert i regel 3.1 i vedlegg I til lastelinjekonvensjonen.
+17. Lengde Loa: Fartøyets største lengde.
+18. Tonn: Tonnasjeenheter/registertonn brutto.
+19. Godkjent: Godkjent av Sjøfartsdirektoratet eller slik det fremgår av de enkelte paragrafer.
+20. Anerkjent standard: Standarder utgitt av NS/BS/ISO/CEN eller tilsvarende nasjonale og internasjonale standarder anerkjent av Sjøfartsdirektoratet, ved enkeltvedtak.
+
+    1. Norsk Standard
+    2. British Standard
+    3. International Standards Organization
+    4. European Committee for Standardization
+21. Hovedtegninger av skrog: Tegninger som viser langskips- og tverrskips snitt i skrog og værtett lukket overbygning, samt dekk, ytre hud, utvendige porter/luker og skottinndeling.
+22. Lettskipsvekt: Fartøyets deplasement/vekt i metriske tonn driftsklar, men eksklusive last, drivstoff, smøreolje, ferskvann, ballastvann, stores, mannskap og deres effekter. Fastmontert fiskeutstyr skal inngå i vekten.
 
 > Endret ved [forskrift 1 juli 1994 nr. 713](forskrift/1994-07-01-713).
 
@@ -160,13 +194,34 @@ Generalarrangement.
 
 3.4.2.
 
-Trim- og stabilitetsbok – Stabilitetsopplysninger som skal benyttes om bord samlet i ett hefte, (3 eksemplarer) og inneholdende følgende:StabilitetsmanualSkisse av oppdriftsgivende volumer med lukningsmidlerHydrostatisk kurveblad eller tabellerKrysskurver eller tilsvarendeTankplanPeiletabeller eller tilsvarendeKG-grensekurverForeløpige eller endelige lastetilstanderEventuelt informasjon om eksterne krefter fra fiskeredskaper, bruk av kran e.l.Eventuelle instrukser
+Trim- og stabilitetsbok – Stabilitetsopplysninger som skal benyttes om bord samlet i ett hefte, (3 eksemplarer) og inneholdende følgende:
+
+- Stabilitetsmanual
+- Skisse av oppdriftsgivende volumer med lukningsmidler
+- Hydrostatisk kurveblad eller tabeller
+- Krysskurver eller tilsvarende
+- Tankplan
+- Peiletabeller eller tilsvarende
+- KG-grensekurver
+- Foreløpige eller endelige lastetilstander
+- Eventuelt informasjon om eksterne krefter fra fiskeredskaper, bruk av kran e.l.
+- Eventuelle instrukser
 
 3.4.2.1.
 
 Stabilitetsmanual.
 
-Det skal utarbeides en generell illustrert beskrivelse av de forhold som har innvirkning på fartøyets stabilitet. Manualen skal beskrive effekten av minst følgende forhold:Lastens plasseringBruk av løfteredskap, kran e.l.Fri væskeoverflate i tankerIsingVannfylling gjennom åpne lukningsmidlerReserveoppdriftEndring i trim og dypgangVann på dekkFølgende sjø
+Det skal utarbeides en generell illustrert beskrivelse av de forhold som har innvirkning på fartøyets stabilitet. Manualen skal beskrive effekten av minst følgende forhold:
+
+- Lastens plassering
+- Bruk av løfteredskap, kran e.l.
+- Fri væskeoverflate i tanker
+- Ising
+- Vannfylling gjennom åpne lukningsmidler
+- Reserveoppdrift
+- Endring i trim og dypgang
+- Vann på dekk
+- Følgende sjø
 
 Manualen skal dessuten inneholde ett eksempel på hvordan en lastekondisjon settes opp og beregnes samt hvordan stabiliteten kontrolleres mot KG-grensekurve. Minst ett, ikke utfylt, skjema for oppsett av lastekondisjon skal inkluderes. Et eksempel på utarbeidet manual kan fås ved henvendelse til Sjøfartsdirektoratet.
 
@@ -174,7 +229,10 @@ Manualen skal dessuten inneholde ett eksempel på hvordan en lastekondisjon sett
 
 Skisse av oppdriftsgivende volumer.
 
-Det skal utarbeides en skisse eller tegning som viser hvilke volumer som er forutsatt oppdriftsgivende med angivelse av lukningsmidler og mulige fyllingspunkter. Operasjonsbetingelsene for hvert enkelt lukningsmiddel skal angis, eksempelvis slik:skal holdes stengt i sjøen,kan stå åpent under fiske for håndtering av redskap, men stenges ved fare for vannfylling.
+Det skal utarbeides en skisse eller tegning som viser hvilke volumer som er forutsatt oppdriftsgivende med angivelse av lukningsmidler og mulige fyllingspunkter. Operasjonsbetingelsene for hvert enkelt lukningsmiddel skal angis, eksempelvis slik:
+
+- skal holdes stengt i sjøen,
+- kan stå åpent under fiske for håndtering av redskap, men stenges ved fare for vannfylling.
 
 3.4.2.3.
 
@@ -202,7 +260,16 @@ Hydrostatikk og krysskurver.
 
 3.4.3.1.
 
-Det skal utarbeides kurveblad som bl.a. inneholder følgende hydrostatiske parametere som funksjon av dypgang med spesifisert referansepunkt:Δ, deplasementKB, oppdriftssenterKMT, metasenter over kjølAw, vannlinjearealDP1, enhets neddykkingMT1, enhets trimmomentLCF, langskips flotasjonssenterLCB, langskips oppdriftssenter
+Det skal utarbeides kurveblad som bl.a. inneholder følgende hydrostatiske parametere som funksjon av dypgang med spesifisert referansepunkt:
+
+- Δ, deplasement
+- KB, oppdriftssenter
+- KMT, metasenter over kjøl
+- Aw, vannlinjeareal
+- DP1, enhets neddykking
+- MT1, enhets trimmoment
+- LCF, langskips flotasjonssenter
+- LCB, langskips oppdriftssenter
 
 3.4.3.2.
 
@@ -240,11 +307,15 @@ Lastetilstander skal utarbeides basert på teoretisk beregnede lettskipsdata. De
 
 3.5.
 
-Følgende dokumentasjon skal innsendes for godkjennelse før et fartøy settes i fart eller foretar prøvetur:Rapport fra krengeprøve (4 eksemplarer).
+Følgende dokumentasjon skal innsendes for godkjennelse før et fartøy settes i fart eller foretar prøvetur:
+
+- Rapport fra krengeprøve (4 eksemplarer).
 
 3.6.
 
-Følgende dokumentasjon skal innsendes for godkjennelse innen én måned etter fartøyets overleveringsdato fra verkstedet:Trim- og stabilitetsbok som angitt i nr. 3.4.2, men oppdatert med endelige lastetilstander, endelig tankplan m.m. (3 eksemplarer).
+Følgende dokumentasjon skal innsendes for godkjennelse innen én måned etter fartøyets overleveringsdato fra verkstedet:
+
+- Trim- og stabilitetsbok som angitt i nr. 3.4.2, men oppdatert med endelige lastetilstander, endelig tankplan m.m. (3 eksemplarer).
 
 3.7.
 
@@ -350,7 +421,14 @@ Godkjennelse av heisarrangement for uklassifiserte fartøy gitt av en anerkjent 
 
 Trålarrangement.
 
-Tegning av trålarrangement skal leveres for oppbevaring om bord, og ett eksemplar skal innsendes for informasjon. Tegningen skal vise følgende:Trålgalger.Ståltau (wire-)føringen.Vinsjen og dens plassering.Vinsjtype med angitt arbeidsbelastning.Manøversted for vinsj og andre arbeidssteder for setting og haling av trålen.Plassering av og spesifikasjon over innretninger og utstyr som blir belastet i forbindelse med trålfiske, som blokker, sjakler, ståltau (wire), konger o.l. For alt slikt utstyr skal sikker arbeidsbelastning (SWL) være oppgitt.
+Tegning av trålarrangement skal leveres for oppbevaring om bord, og ett eksemplar skal innsendes for informasjon. Tegningen skal vise følgende:
+
+- Trålgalger.
+- Ståltau (wire-)føringen.
+- Vinsjen og dens plassering.
+- Vinsjtype med angitt arbeidsbelastning.
+- Manøversted for vinsj og andre arbeidssteder for setting og haling av trålen.
+- Plassering av og spesifikasjon over innretninger og utstyr som blir belastet i forbindelse med trålfiske, som blokker, sjakler, ståltau (wire), konger o.l. For alt slikt utstyr skal sikker arbeidsbelastning (SWL) være oppgitt.
 
 8\.
 
@@ -414,7 +492,9 @@ Fiske- og fangstredskap med tilhørende utsyr, skal angis på en egen arrangemen
 
 ### § 7. Byggetilsyn m.v.
 
-1. Når et fartøy bygges, ombygges eller forandres, skal det under arbeidet foretas besiktelse (tilsyn) i det omfang som anses påkrevd. Slik tilsynsbesiktelse skal dekke de forhold som vanskelig kan ivaretas på et senere byggetrinn eller ved sluttbesiktelse, og skal utføres bl.a. på grunnlag av foreliggende tegnings- eller dokumentasjonsunderlag i henhold til [§ 6](forskrift/1991-10-15-712/§6). Begjæring og tilretteleggelse for besiktelse, slik det fremgår av forskrift om besiktelser, påhviler både verksted og reder ved bygging i Norge og reder (bestiller) ved bygging i utlandet.Ved mindre ombygginger eller forandringer plikter verksted og rederi å underrette Skipskontrollen eller Sjøfartsdirektoratet om dette, og vurdere behovet for besiktelse i samråd med kontrollinstansen.
+1. Når et fartøy bygges, ombygges eller forandres, skal det under arbeidet foretas besiktelse (tilsyn) i det omfang som anses påkrevd. Slik tilsynsbesiktelse skal dekke de forhold som vanskelig kan ivaretas på et senere byggetrinn eller ved sluttbesiktelse, og skal utføres bl.a. på grunnlag av foreliggende tegnings- eller dokumentasjonsunderlag i henhold til [§ 6](forskrift/1991-10-15-712/§6). Begjæring og tilretteleggelse for besiktelse, slik det fremgår av forskrift om besiktelser, påhviler både verksted og reder ved bygging i Norge og reder (bestiller) ved bygging i utlandet.
+
+   Ved mindre ombygginger eller forandringer plikter verksted og rederi å underrette Skipskontrollen eller Sjøfartsdirektoratet om dette, og vurdere behovet for besiktelse i samråd med kontrollinstansen.
 2. For fartøy som helt eller delvis bygges av glassfiberarmert polyester eller andre støpte materialer, skal besiktelse etter nr. 1 også omfatte kontroll av produksjonsforhold og lokaliteter som skal være i overensstemmelse med Det norske Veritas' regler om produksjonsforhold m.v. Dersom det kan dokumenteres at produksjonsforhold m.v. tidligere er kontrollert og funnet i orden, og de senere ikke er endret, er ny besiktelse ikke påkrevd. Produsent skal ved byggetilsyn av det enkelte skip dessuten kunne fremlegge dokumentasjon på at produksjon og produksjonsforhold, materialbruk m.v. for det aktuelle skip, er i henhold til reglene.
 3. For klassifiserte fartøy er klasseinstitusjonen generelt bemyndiget til å foreta besiktelser innenfor klasseområdene. For de øvrige områder på klassifiserte fartøy og i sin helhet på uklassifiserte fartøy, foretas slik besiktelse av Skipskontrollen/Sjøfartsdirektoratet eller den de bemyndiger.
 
@@ -468,11 +548,19 @@ For fartøy som skal ha sertifikat for isfarvann gjelder følgende krav:
 
 3.1.
 
-Isfarvann I:Skrogkonstruksjon og styrke, samt rorarrangement i henhold til DnV, ICE 1BBygget av stålLengde minst 24 m (Loa)
+Isfarvann I:
+
+- Skrogkonstruksjon og styrke, samt rorarrangement i henhold til DnV, ICE 1B
+- Bygget av stål
+- Lengde minst 24 m (Loa)
 
 3.2.
 
-Isfarvann II:Skrogkonstruksjon og styrke, rorarrangement og isfinner i henhold DnV, ICE 05 (Sealer)Bygget av stålLengde minst 24 m (Loa )
+Isfarvann II:
+
+- Skrogkonstruksjon og styrke, rorarrangement og isfinner i henhold DnV, ICE 05 (Sealer)
+- Bygget av stål
+- Lengde minst 24 m (Loa )
 
 3.3.
 
@@ -520,7 +608,10 @@ For fartøy som skal ha sertifikat for isfarvann gjelder følgende krav:
 
 3.1.
 
-Isfarvann I.Maskininstallasjon i henhold til DnV ICE 1BMotorytelse i henhold til DnV ICE-05 (Sealer) redusert med 30%.
+Isfarvann I.
+
+- Maskininstallasjon i henhold til DnV ICE 1B
+- Motorytelse i henhold til DnV ICE-05 (Sealer) redusert med 30%.
 
 3.2.
 
@@ -562,7 +653,16 @@ Det skal være anordnet nivå-alarm i lasterom.
 
 For fartøy på Loa 15 m. og derover gjelder klassereglene som nevnt i [§ 8](forskrift/1991-10-15-712/§8).
 
-For fartøy mindre enn 15 m. gjelder følgende:På trefartøy skal det være et mest mulig vanntett skott mellom maskinrom og lasterom. For fartøy bygget av andre materialer skal det være vanntett skott mellom maskinrom, lasterom og innredning.Fartøyet skal videre være ekstra beskyttet mot direkte vanninntrengning i baug og hekk. Beskyttelsen kan bestå av kollisjonsog hylseskott, skarptanker med tanktopp over lastet vannlinje, eller tilsvarende.Akter må beskyttelsen dekke rorstamme og akselgjennomføringer for propell i skrog.Beskyttelsesskott kan være skråstilt eller avtrappet og må være i rimelig avstand fra stevn. På trefartøy kan det i beskyttelsen av baug og hekk være tatt ut åpninger for nødvendig lufting. Slike åpninger må være ført opp høyest mulig under dekk. Dersom slike åpninger avsluttes under dypeste nedlasting, skal åpningen være forsynt med automatisk tilbakeslagsventil slik at fylling kan hindres.I andre vanntette skott enn skarpskottene og i lasteromsskott for tank- eller bulklast, kan det unntaksvis tillates luker og døråpninger dersom slike åpninger er utstyrt med vanntette lukkeanordninger med samme styrke som skottet de er anbrakt i. Det skal i så fall settes opp skilt om at lukningsmidlene holdes lukket når fartøyet er i sjøen.Der rør og elektriske ledninger er ført gjennom vanntett skott, skal gjennomføringen være slik at skottenes vanntetthet opprettholdes.
+For fartøy mindre enn 15 m. gjelder følgende:
+
+1. På trefartøy skal det være et mest mulig vanntett skott mellom maskinrom og lasterom. For fartøy bygget av andre materialer skal det være vanntett skott mellom maskinrom, lasterom og innredning.
+2. Fartøyet skal videre være ekstra beskyttet mot direkte vanninntrengning i baug og hekk. Beskyttelsen kan bestå av kollisjonsog hylseskott, skarptanker med tanktopp over lastet vannlinje, eller tilsvarende.
+
+   Akter må beskyttelsen dekke rorstamme og akselgjennomføringer for propell i skrog.
+
+   Beskyttelsesskott kan være skråstilt eller avtrappet og må være i rimelig avstand fra stevn. På trefartøy kan det i beskyttelsen av baug og hekk være tatt ut åpninger for nødvendig lufting. Slike åpninger må være ført opp høyest mulig under dekk. Dersom slike åpninger avsluttes under dypeste nedlasting, skal åpningen være forsynt med automatisk tilbakeslagsventil slik at fylling kan hindres.
+3. I andre vanntette skott enn skarpskottene og i lasteromsskott for tank- eller bulklast, kan det unntaksvis tillates luker og døråpninger dersom slike åpninger er utstyrt med vanntette lukkeanordninger med samme styrke som skottet de er anbrakt i. Det skal i så fall settes opp skilt om at lukningsmidlene holdes lukket når fartøyet er i sjøen.
+4. Der rør og elektriske ledninger er ført gjennom vanntett skott, skal gjennomføringen være slik at skottenes vanntetthet opprettholdes.
 
 > Endret ved [forskrift 1 juli 1994 nr. 713](forskrift/1994-07-01-713).
 
@@ -722,7 +822,12 @@ Is, emballasje, salt etc. skal bare regnes med hvis det har negativ effekt på s
 
 3.4.7.
 
-For fartøy med sertifikat for bankfiske I eller større fartsområde, skal det gjøres følgende tillegg for is i stabilitetsberegningene:30 kg/m2 på utsatt værdekk og gangveier, samt frontskott på overbygninger og dekkshus.7,5 kg/m2 for projisert areal på hver side av fartøyet over vannlinjen.Vekt av is på avbrutte flater som rekkverk, utstyr, rundholter (unntatt master) og rigg, skal tas hensyn til ved å øke det totale projiserte areal av sammenhengende overflater med 5% og det statiske moment av dette areal med 10%.Fartøy beregnet på anvendelse i farvann hvor det er kjent at tilvekst av is forekommer, skal være konstruert slik at tilveksten av is blir minst mulig og være utstyrt med midler for å fjerne is.
+For fartøy med sertifikat for bankfiske I eller større fartsområde, skal det gjøres følgende tillegg for is i stabilitetsberegningene:
+
+- 30 kg/m2 på utsatt værdekk og gangveier, samt frontskott på overbygninger og dekkshus.
+- 7,5 kg/m2 for projisert areal på hver side av fartøyet over vannlinjen.
+- Vekt av is på avbrutte flater som rekkverk, utstyr, rundholter (unntatt master) og rigg, skal tas hensyn til ved å øke det totale projiserte areal av sammenhengende overflater med 5% og det statiske moment av dette areal med 10%.
+- Fartøy beregnet på anvendelse i farvann hvor det er kjent at tilvekst av is forekommer, skal være konstruert slik at tilveksten av is blir minst mulig og være utstyrt med midler for å fjerne is.
 
 3.5.
 
@@ -786,7 +891,12 @@ Kurven for det krengende moment (eller den tilsvarende krengende arm) avsluttes 
 
 3.9.5.
 
-Ved beregning av MV skal følgende forutsetninger benyttes:til å begynne med er fartøyet på rett kjølunder krenging er trim og deplasementene konstante og lik verdiene for fartøyet uten vann på dekkdet skal ses bort fra effekten av lenseporterMV skal beregnes for et tilstrekkelig antall vinkler for hver dypgang og normalt bare for vannlinjer uten trim.
+Ved beregning av MV skal følgende forutsetninger benyttes:
+
+1. til å begynne med er fartøyet på rett kjøl
+2. under krenging er trim og deplasementene konstante og lik verdiene for fartøyet uten vann på dekk
+3. det skal ses bort fra effekten av lenseporter
+4. MV skal beregnes for et tilstrekkelig antall vinkler for hver dypgang og normalt bare for vannlinjer uten trim.
 
 3.9.6.
 
@@ -1038,11 +1148,17 @@ På 1. overbygningsdekk kan karm- og terskelhøyde for værtette luker og dører
 
 3.4.
 
-Baughøyde i mm målt vertikalt ved forstevnen fra lastet vannlinje til utsatt dekk, skal minst være:43 x Loa + 310, for fartøy opptil Loa = 24 m48 x Loa + 190, for fartøy med Loa = 24 m og derover.
+Baughøyde i mm målt vertikalt ved forstevnen fra lastet vannlinje til utsatt dekk, skal minst være:
+
+1. 43 x Loa + 310, for fartøy opptil Loa = 24 m
+2. 48 x Loa + 190, for fartøy med Loa = 24 m og derover.
 
 «Lastet vannlinje» er definert som: sommerlastelinjen parallell med KVL.
 
-«Utsatt dekk» er definert som:fribordsdekk med et tilnærmet jevnt springforløp fra midtskips til forstevn ellerdekk av værtett lukket bakk (bakkdekk) med lengde minst 0,1 Loa, og med spring i bakkdekk som med denne minimum lengde av bakk, ikke må være større enn fribordsdekkets spring.
+«Utsatt dekk» er definert som:
+
+- fribordsdekk med et tilnærmet jevnt springforløp fra midtskips til forstevn eller
+- dekk av værtett lukket bakk (bakkdekk) med lengde minst 0,1 Loa, og med spring i bakkdekk som med denne minimum lengde av bakk, ikke må være større enn fribordsdekkets spring.
 
 Med lite eller intet spring i fribordsdekk, vil lengde av værtett lukket bakk kunne bli forlangt øket.
 
@@ -1298,7 +1414,13 @@ Kjøle/fryseanlegg og andre anlegg hvor kuldemedium inngår.
 
 Fryseanlegg skal i forbindelse med maskineri med tilhørende røropplegg, utstyr, armatur, arrangement m.v. være trykk- og tetthetsprøvet. Det norske Veritas' regler for slike anlegg anbefales som retningsgivende norm.
 
-1 Om rekkverk og andre sikkerhetsanordninger under drift, vises det til forskrift om sikkerhetstiltak m.m. på fiske- og fangstfartøy.2 Vinsj og utstyr/innretninger i tilknytning til vinsj, skal være utført i henhold til forskrift av 17. januar 1978 om laste- og losseinnretninger på skip.3 Rene vareheiser skal tilfredsstille kravene i gjeldende forskrift om laste- og losseinnretninger for skip.4 Vedrørende sertifisering, merking, kontroll/egenkontroll m.v. av løst utstyr som blokker, sjakler, vinsjer, kjetting, ståltau m.v. vises det til forskrift om laste- og losseinnretninger på skip.
+1 Om rekkverk og andre sikkerhetsanordninger under drift, vises det til forskrift om sikkerhetstiltak m.m. på fiske- og fangstfartøy.
+
+2 Vinsj og utstyr/innretninger i tilknytning til vinsj, skal være utført i henhold til forskrift av 17. januar 1978 om laste- og losseinnretninger på skip.
+
+3 Rene vareheiser skal tilfredsstille kravene i gjeldende forskrift om laste- og losseinnretninger for skip.
+
+4 Vedrørende sertifisering, merking, kontroll/egenkontroll m.v. av løst utstyr som blokker, sjakler, vinsjer, kjetting, ståltau m.v. vises det til forskrift om laste- og losseinnretninger på skip.
 
 > Endret ved [forskrift 14 feb 1995 nr. 166](forskrift/1995-02-14-166).
 
@@ -1313,7 +1435,12 @@ Elektriske anlegg skal utføres i henhold til forskrifter for elektriske anlegg,
 ### § 18. Ikrafttredelse
 
 1. Denne forskrift trer i kraft den 1. januar 1992.
-2. Fra samme dato oppheves følgende forskrifter for nye fartøy:[Forskrift av 2. oktober 1968 nr. 8943](forskrift/1968-10-02-8943) om bygging av fiske- og fangstfartøy.[Forskrift av 7. januar 1983 nr. 12](forskrift/1983-01-07-12) om bygging av fiske- og fangstfartøy med største lengde på 10,67 m og derover hva angår nytt fartøy.[Forskrift av 15. januar 1969 nr. 1](forskrift/1969-01-15-1) for fartøy som driver fiske med kraftblokk og ringnot.[Forskrift av 1. oktober 1975 nr. 2](forskrift/1975-10-01-2) om trålarrangement på fartøy som skal drive fiske med trål.
+2. Fra samme dato oppheves følgende forskrifter for nye fartøy:
+
+   - [Forskrift av 2. oktober 1968 nr. 8943](forskrift/1968-10-02-8943) om bygging av fiske- og fangstfartøy.
+   - [Forskrift av 7. januar 1983 nr. 12](forskrift/1983-01-07-12) om bygging av fiske- og fangstfartøy med største lengde på 10,67 m og derover hva angår nytt fartøy.
+   - [Forskrift av 15. januar 1969 nr. 1](forskrift/1969-01-15-1) for fartøy som driver fiske med kraftblokk og ringnot.
+   - [Forskrift av 1. oktober 1975 nr. 2](forskrift/1975-10-01-2) om trålarrangement på fartøy som skal drive fiske med trål.
 
 Ovennevnte forskrifter gjelder fortsatt for eksisterende fartøy, unntatt for forhold som kommer inn under [§ 1](forskrift/1991-10-15-712/§1) nr. 2.
 

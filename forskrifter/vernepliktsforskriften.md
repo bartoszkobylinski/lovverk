@@ -15,7 +15,7 @@ xml_hash: "a9e3353c286feab7f3632133864eb07f07d377339b8f050861f87cc8d6216388"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1. Hva forskriften gjelder
 
-Forskriftenregulerer rettigheter og plikter for vernepliktige og tjenestepliktigefastsetter fritak fra vernepliktensikrer likebehandling av vernepliktige og tjenestepliktigeregulerer overføring av vernepliktige til Sivilforsvaret og politiet.
+Forskriften
+
+1. regulerer rettigheter og plikter for vernepliktige og tjenestepliktige
+2. fastsetter fritak fra verneplikten
+3. sikrer likebehandling av vernepliktige og tjenestepliktige
+4. regulerer overføring av vernepliktige til Sivilforsvaret og politiet.
 
 ## Kapittel 2. Verneplikten
 
@@ -40,19 +45,48 @@ Utenlandske statsborgere og personer uten statsborgerskap kan ta utdanning som f
 
 ### § 3. Opphør av verneplikten
 
-Verneplikten opphører når den vernepliktigebosetter seg fast utenfor Nordenikke er skikket til tjeneste i Forsvaretoverføres til Sivilforsvaret eller politiet.
+Verneplikten opphører når den vernepliktige
+
+1. bosetter seg fast utenfor Norden
+2. ikke er skikket til tjeneste i Forsvaret
+3. overføres til Sivilforsvaret eller politiet.
 
 Den som har bodd sammenhengende utenfor Norden i tre år, regnes som fast bosatt i utlandet. Dette gjelder likevel ikke dem som på grunn av studier oppholder seg i utlandet i mer enn tre år.
 
 ### § 4. Forvaltningen av og kontrollen med verneplikten
 
-Forsvaret har den overordnede forvaltningen av verneplikten oginnhenter og behandler personopplysninger om norske statsborgere og personer som oppholder seg i Norge uten å være norske statsborgere,kaller dem som er best egnet til tjeneste, inn til sesjon, jf. [§ 14](forskrift/2017-06-16-779/§14)kaller vernepliktige og personer med tjenestekontrakt, men som ikke er tilsatte i Forsvaret, inn til førstegangstjeneste, repetisjonstjeneste og ekstraordinær tjeneste, jf. [§ 32](forskrift/2017-06-16-779/§32) til [§ 34](forskrift/2017-06-16-779/§34)avgjør søknader om fritak for tjeneste i Forsvaret av overbevisningsgrunner og søknader om oppheving av vedtak om fritak, jf. [kapittel 12](forskrift/2017-06-16-779/kap12)fører kontroll med tjenesten til vernepliktige og de som har inngått tjenestekontrakt.
+Forsvaret har den overordnede forvaltningen av verneplikten og
+
+1. innhenter og behandler personopplysninger om norske statsborgere og personer som oppholder seg i Norge uten å være norske statsborgere,
+2. kaller dem som er best egnet til tjeneste, inn til sesjon, jf. [§ 14](forskrift/2017-06-16-779/§14)
+3. kaller vernepliktige og personer med tjenestekontrakt, men som ikke er tilsatte i Forsvaret, inn til førstegangstjeneste, repetisjonstjeneste og ekstraordinær tjeneste, jf. [§ 32](forskrift/2017-06-16-779/§32) til [§ 34](forskrift/2017-06-16-779/§34)
+4. avgjør søknader om fritak for tjeneste i Forsvaret av overbevisningsgrunner og søknader om oppheving av vedtak om fritak, jf. [kapittel 12](forskrift/2017-06-16-779/kap12)
+5. fører kontroll med tjenesten til vernepliktige og de som har inngått tjenestekontrakt.
 
 ## Kapittel 3. Forsvarets rett til opplysninger og verneplikts- og tjenesteregisteret
 
 ### § 5. Innhenting av personopplysninger
 
-Forsvaret kan innhente og registrere opplysninger i Forsvarets verneplikts- og tjenesteregister omnavn og navnehistorikkfødselsnummer eller D-nummer og nummerhistorikkfødselsdato, fødested og eventuell dødsdatostatus i folkeregisteretbostedsadresse og postadresse med adressehistorikksivilstand og sivilstandshistorikkpårørendestatsborgerskap og statsborgerskapshistorikkoppholdstillatelseførerkortutdanninglisenser, sertifikater og sertifiseringertidligere og nåværende tilsettingsforholdhelseinformasjon som er nødvendig for å vurdere om en person er skikket til tjenestetrygdeytelser som er nødvendig for å vurdere om en person er skikket til tjenestevandelutført siviltjeneste og tjeneste i Forsvaret, Sivilforsvaret og politireservenutleverte identitetskort fra Forsvaret.
+Forsvaret kan innhente og registrere opplysninger i Forsvarets verneplikts- og tjenesteregister om
+
+1. navn og navnehistorikk
+2. fødselsnummer eller D-nummer og nummerhistorikk
+3. fødselsdato, fødested og eventuell dødsdato
+4. status i folkeregisteret
+5. bostedsadresse og postadresse med adressehistorikk
+6. sivilstand og sivilstandshistorikk
+7. pårørende
+8. statsborgerskap og statsborgerskapshistorikk
+9. oppholdstillatelse
+10. førerkort
+11. utdanning
+12. lisenser, sertifikater og sertifiseringer
+13. tidligere og nåværende tilsettingsforhold
+14. helseinformasjon som er nødvendig for å vurdere om en person er skikket til tjeneste
+15. trygdeytelser som er nødvendig for å vurdere om en person er skikket til tjeneste
+16. vandel
+17. utført siviltjeneste og tjeneste i Forsvaret, Sivilforsvaret og politireserven
+18. utleverte identitetskort fra Forsvaret.
 
 Opplysninger om personer som kommer til Norge, og som ikke er registrert i Forsvarets verneplikts- og tjenesteregister, kan innhentes straks personene er registrert i folkeregisteret.
 
@@ -64,7 +98,16 @@ All tjeneste i Forsvaret skal dokumenteres i registeret.
 
 Forsvaret kan oppbevare opplysningene i Forsvarets verneplikts- og tjenesteregister inntil utgangen av det året personene fyller 70 år. Arkivverdige opplysninger skal da overføres til Riksarkivet.
 
-Etter at de registrerte har fylt 70 år, kan Forsvaret oppbevare opplysninger omnavn og navnehistorikkfødselsnummer eller D-nummer og nummerhistorikkfødselsdato, fødested og eventuell dødsdatohvilken enhet i Forsvaret som har hatt forvaltningsansvaretutført siviltjeneste og tjeneste i Forsvaret, Sivilforsvaret og politireserven.militær grad og statusdekorasjonerutleverte identitetskort fra Forsvaret.
+Etter at de registrerte har fylt 70 år, kan Forsvaret oppbevare opplysninger om
+
+1. navn og navnehistorikk
+2. fødselsnummer eller D-nummer og nummerhistorikk
+3. fødselsdato, fødested og eventuell dødsdato
+4. hvilken enhet i Forsvaret som har hatt forvaltningsansvaret
+5. utført siviltjeneste og tjeneste i Forsvaret, Sivilforsvaret og politireserven.
+6. militær grad og status
+7. dekorasjoner
+8. utleverte identitetskort fra Forsvaret.
 
 ### § 7. Informasjonsplikt
 
@@ -132,7 +175,12 @@ Forsvaret dekker ikke tapt arbeidsfortjeneste eller andre økonomiske tap som f�
 
 ### § 17. Fastsettelse av hvem som er skikket til tjeneste
 
-For å fastsette hvem som er skikket til tjeneste i Forsvaret etter [forsvarsloven § 10](lov/2016-08-12-77/§10), kan Forsvaret supplere vedtaket om helsetilstand med undersøkelser og prøver som vurderer om den det gjelder,har tilstrekkelige kvalifikasjoner og ferdigheterhar tilstrekkelig fysisk kapasitethar tilstrekkelig evne til læringoppfyller kravene til vandel og livsførsel.
+For å fastsette hvem som er skikket til tjeneste i Forsvaret etter [forsvarsloven § 10](lov/2016-08-12-77/§10), kan Forsvaret supplere vedtaket om helsetilstand med undersøkelser og prøver som vurderer om den det gjelder,
+
+1. har tilstrekkelige kvalifikasjoner og ferdigheter
+2. har tilstrekkelig fysisk kapasitet
+3. har tilstrekkelig evne til læring
+4. oppfyller kravene til vandel og livsførsel.
 
 ### § 18. Vurdering av helsetilstanden
 
@@ -176,7 +224,11 @@ Utenlandske statsborgere, kan etter avtale mellom det landet de er statsborgere 
 
 ### § 23. Plikt til å gjøre tjeneste som feltprest eller tilsvarende
 
-Prester i Den norske kirke og prester og forstandere som er tilsatt i registrerte trossamfunn og tilskuddsberettigede livssynssamfunn skal gjøre tjeneste som feltprester eller tilsvarende hvisForsvaret krever det,de er skikket til tjeneste, ogde har utført tjeneste i Forsvaret før de ble ordinert og tilsatt.
+Prester i Den norske kirke og prester og forstandere som er tilsatt i registrerte trossamfunn og tilskuddsberettigede livssynssamfunn skal gjøre tjeneste som feltprester eller tilsvarende hvis
+
+1. Forsvaret krever det,
+2. de er skikket til tjeneste, og
+3. de har utført tjeneste i Forsvaret før de ble ordinert og tilsatt.
 
 Forsvaret avgjør om en prest eller forstander er skikket til tjeneste. Avgjørelsen kan påklages til Forsvarsdepartementets klagenemnd i vernepliktssaker.
 
@@ -206,7 +258,11 @@ Opptaksperioden til grunnleggende befalsutdanning godskrives ikke som ordinær t
 
 Aspiranter til grunnleggende befalsutdanning som ikke tas opp som elever, får godskrevet aspiranttiden som del av førstegangstjenesten hvis de utfører førstegangstjeneste direkte etter avsluttet aspirantperiode.
 
-Elever som slutter i elevtiden skal fullføre førstegangstjenesten, men får godskrevet som førstegangstjenesteaspirant- og elevtiden fullt ut når de følger ett års grunnleggende befalsutdanningaspiranttiden og halve elevtiden når de følger toårig befals- og profesjonsutdanningaspiranttiden og en tredel av elevtiden når de følger treårig befals- og profesjonsutdanning.
+Elever som slutter i elevtiden skal fullføre førstegangstjenesten, men får godskrevet som førstegangstjeneste
+
+1. aspirant- og elevtiden fullt ut når de følger ett års grunnleggende befalsutdanning
+2. aspiranttiden og halve elevtiden når de følger toårig befals- og profesjonsutdanning
+3. aspiranttiden og en tredel av elevtiden når de følger treårig befals- og profesjonsutdanning.
 
 Forsvaret kan helt eller delvis gjøre unntak fra kravet etter fjerde ledd om å avtjene resten av førstegangstjenesten.
 
@@ -258,11 +314,20 @@ Tjenestepliktige som blir innkalt til ekstraordinær tjeneste, skal møte i sams
 
 ### § 35. Hvem som ikke kan kalles inn til tjeneste
 
-Forsvaret kaller ikke inn til tjeneste den somer gravidikke anses skikket til å oppbevare våpen og annet militært utstyr hjemme, eller som ikke bør ha tilgang til våpener straffedømt for bruk, besittelse eller salg av narkotika eller dopingmidlerer straffedømt for volds-, seksual- eller vinningsforbrytelser.
+Forsvaret kaller ikke inn til tjeneste den som
+
+1. er gravid
+2. ikke anses skikket til å oppbevare våpen og annet militært utstyr hjemme, eller som ikke bør ha tilgang til våpen
+3. er straffedømt for bruk, besittelse eller salg av narkotika eller dopingmidler
+4. er straffedømt for volds-, seksual- eller vinningsforbrytelser.
 
 Forsvaret kan i særlige tilfeller kalle inn personer etter første ledd bokstav c.
 
-Forsvaret skal ikke kalle inn til ordinær tjeneste de som dokumenterer at de på den planlagte fremmøtedagener midlertidig bosatt i utlandetseiler i utenriksfart og har sitt faste arbeidssted utenfor Nordenhar inngått beredskapskontrakt om tjeneste i Forsvaret.
+Forsvaret skal ikke kalle inn til ordinær tjeneste de som dokumenterer at de på den planlagte fremmøtedagen
+
+1. er midlertidig bosatt i utlandet
+2. seiler i utenriksfart og har sitt faste arbeidssted utenfor Norden
+3. har inngått beredskapskontrakt om tjeneste i Forsvaret.
 
 ## Kapittel 8. Tjeneste i Heimevernet og bistand fra Heimevernet
 
@@ -360,7 +425,11 @@ Vernepliktige akademikere som utfører tjeneste i internasjonale operasjoner men
 
 ### § 50. Utsettelse av tjenesten
 
-Forsvaret kan etter søknad utsette tjenesten i inntil tre år når vektige velferdsgrunner eller samfunnsinteresser krever det. Vektige velferdsgrunner kan blant annet værefamilieforhold som gjør fravær fra hjemmet spesielt vanskeligsærlige økonomiske belastninger som ikke dekkes av Forsvarets ordninger for økonomisk hjelpsesongarbeid hvis det kan dokumenteres at tjenesten vil foregå mens den innkalte vil tjene en vesentlig del av sin årsinntekt.
+Forsvaret kan etter søknad utsette tjenesten i inntil tre år når vektige velferdsgrunner eller samfunnsinteresser krever det. Vektige velferdsgrunner kan blant annet være
+
+1. familieforhold som gjør fravær fra hjemmet spesielt vanskelig
+2. særlige økonomiske belastninger som ikke dekkes av Forsvarets ordninger for økonomisk hjelp
+3. sesongarbeid hvis det kan dokumenteres at tjenesten vil foregå mens den innkalte vil tjene en vesentlig del av sin årsinntekt.
 
 Repetisjons- eller heimevernstjeneste kan utsettes så lenge tjenesten varer.
 
@@ -426,7 +495,15 @@ Alle virksomheter som ivaretar eller understøtter samfunnets kritiske funksjone
 
 Med samfunnets kritiske funksjoner menes funksjoner som må opprettholdes eller opprettes for å dekke befolkningens og samfunnets grunnleggende behov og trygghet. Som samfunnets kritiske funksjoner menes også det sivile samfunnets støtte til forsvarssektoren.
 
-Reglene om fritak gjelder ikke for tjenestepliktige somer innkalt til førstegangstjenesteer tilsatt i Forsvarethar kontrakt om tjenesteplikt i Forsvarethar kvalifikasjoner som er nødvendig for Forsvarethar fått militærmedisinsk utdanning av Forsvareter fartøysbefal i Sjøheimeverneter områdesjef i Heimevernet.
+Reglene om fritak gjelder ikke for tjenestepliktige som
+
+1. er innkalt til førstegangstjeneste
+2. er tilsatt i Forsvaret
+3. har kontrakt om tjenesteplikt i Forsvaret
+4. har kvalifikasjoner som er nødvendig for Forsvaret
+5. har fått militærmedisinsk utdanning av Forsvaret
+6. er fartøysbefal i Sjøheimevernet
+7. er områdesjef i Heimevernet.
 
 ### § 60. Fritakets varighet og omfang
 
@@ -438,7 +515,10 @@ Forsvarsdepartementet kan oppheve et vedtak om fritak hvis hensynet til landets 
 
 Hvis arbeidsgiveren søker om det, skal polititjenestepersoner fritas fra tjeneste i krig, når krig truer og ved styrkeoppbygging.
 
-Forsvaret kan likevel pålegge inntil 250 personer som er tilsatt som politibetjent 1, 2 eller 3 og som er utdannet til offiser eller befal i Forsvaret, å tjenestegjøre i krig, når krig truer og ved styrkeoppbygging hvis ett av følgende vilkår er oppfylt:De militære stillingene krever politifaglig bakgrunn.Personen har militær kompetanse som er nødvendig for Forsvaret.
+Forsvaret kan likevel pålegge inntil 250 personer som er tilsatt som politibetjent 1, 2 eller 3 og som er utdannet til offiser eller befal i Forsvaret, å tjenestegjøre i krig, når krig truer og ved styrkeoppbygging hvis ett av følgende vilkår er oppfylt:
+
+1. De militære stillingene krever politifaglig bakgrunn.
+2. Personen har militær kompetanse som er nødvendig for Forsvaret.
 
 ### § 62. Særlig om fritak for deltidstilsatte i brann- og redningstjenesten
 
@@ -534,7 +614,12 @@ Når Nav eller Forsvaret har fastsatt en invaliditetsgrad, skal ikke engangserst
 
 ### § 77. Når en skade er påført under tjenesten
 
-En skade anses som påført under tjenesten også når den har oppstått underaktivitet innenfor forlegning, leirområde og tilsvarendetjenestereiserreise i forbindelse med velferdspermisjon klasse A, frie permisjonsreiser og innkallings- og dimisjonsreiserfrivillige kurs, opplæring og aktiviteter som arrangeres eller betales av Forsvaret.
+En skade anses som påført under tjenesten også når den har oppstått under
+
+1. aktivitet innenfor forlegning, leirområde og tilsvarende
+2. tjenestereiser
+3. reise i forbindelse med velferdspermisjon klasse A, frie permisjonsreiser og innkallings- og dimisjonsreiser
+4. frivillige kurs, opplæring og aktiviteter som arrangeres eller betales av Forsvaret.
 
 ### § 78. Vedtaksorganer og klagerett
 
@@ -611,7 +696,10 @@ En vandelsvurdering etter [politiregisterloven § 45](lov/2010-05-28-16/§45) sk
 
 ### § 86. Pliktmessig avhold
 
-Tjenestepliktige som er i tjeneste uten å være tilsatt, skal ikke nyte alkohol eller annet berusende eller bedøvende middel, i fritiden på militært område eller i umiddelbar nærhet til militært område. Plikten til avhold gjelder også under permisjon utenfor militært område vedendrede sikkerhetsmessige situasjoner som etter Forsvarets vurdering krever økt tilgjengelighet for hele eller deler av Forsvaret, ellerhøyere beredskap for hele eller deler av Forsvaret.
+Tjenestepliktige som er i tjeneste uten å være tilsatt, skal ikke nyte alkohol eller annet berusende eller bedøvende middel, i fritiden på militært område eller i umiddelbar nærhet til militært område. Plikten til avhold gjelder også under permisjon utenfor militært område ved
+
+1. endrede sikkerhetsmessige situasjoner som etter Forsvarets vurdering krever økt tilgjengelighet for hele eller deler av Forsvaret, eller
+2. høyere beredskap for hele eller deler av Forsvaret.
 
 Det samme gjelder under permisjon utenfor militært område dersom Forsvaret pålegger de tjenestepliktige uniformsplikt.
 
@@ -653,7 +741,12 @@ Med bot straffes den som forsettlig eller uaktsomt bryter oppbevaring- eller ved
 
 ### § 91. Ikrafttredelse
 
-Forskriften trer i kraft 1. juli 2017. Fra samme tidspunkt oppheves[forskrift 30. april 1999 nr. 431 til lov om Heimevernet](forskrift/1999-04-30-431)[forskrift 22. juni 2000 nr. 634 om utbetaling av engangserstatning ved dødsfall og invaliditet blant personell som avtjener verneplikt mv](forskrift/2000-06-22-634).[forskrift 10. desember 2010 nr. 1605 om utskrivning og verneplikt](forskrift/2010-12-10-1605)[forskrift 25. mai 2012 nr. 464 om behandling av saker om fritaking for militærtjeneste av overbevisningsgrunner etter lov 19. mars 1965 nr. 3](forskrift/2012-05-25-464).
+Forskriften trer i kraft 1. juli 2017. Fra samme tidspunkt oppheves
+
+1. [forskrift 30. april 1999 nr. 431 til lov om Heimevernet](forskrift/1999-04-30-431)
+2. [forskrift 22. juni 2000 nr. 634 om utbetaling av engangserstatning ved dødsfall og invaliditet blant personell som avtjener verneplikt mv](forskrift/2000-06-22-634).
+3. [forskrift 10. desember 2010 nr. 1605 om utskrivning og verneplikt](forskrift/2010-12-10-1605)
+4. [forskrift 25. mai 2012 nr. 464 om behandling av saker om fritaking for militærtjeneste av overbevisningsgrunner etter lov 19. mars 1965 nr. 3](forskrift/2012-05-25-464).
 
 ### § 92. Overgangsregler
 

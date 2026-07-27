@@ -116,7 +116,10 @@ Gave eller annen økonomisk fordel, verd mer enn 2 000 kroner, mottatt fra inne
 
 ### § 12
 
-For innvalgte stortingsrepresentanter, og vararepresentanter som er fast møtende, gjelder følgende regler:Opplysninger til registeret skal meldes til Stortingets administrasjon innen én måned etter at nyvalgt storting har trådt sammen. Innen 20 dager etter at registreringsfristen er utløpt etter nyvalg, skal registeret være tilgjengelig for allmennheten ved publisering på Stortingets nettsider.Endring av, eller tillegg til tidligere registrerte opplysninger, skal meldes innen ti virkedager etter at de nye opplysningene forelå. Vedkommende representants tidligere registrerte data arkiveres, og det elektroniske registeret oppdateres minst annenhver uke, med unntak av juli måned.
+For innvalgte stortingsrepresentanter, og vararepresentanter som er fast møtende, gjelder følgende regler:
+
+1. Opplysninger til registeret skal meldes til Stortingets administrasjon innen én måned etter at nyvalgt storting har trådt sammen. Innen 20 dager etter at registreringsfristen er utløpt etter nyvalg, skal registeret være tilgjengelig for allmennheten ved publisering på Stortingets nettsider.
+2. Endring av, eller tillegg til tidligere registrerte opplysninger, skal meldes innen ti virkedager etter at de nye opplysningene forelå. Vedkommende representants tidligere registrerte data arkiveres, og det elektroniske registeret oppdateres minst annenhver uke, med unntak av juli måned.
 
 Andre vararepresentanter enn de som er nevnt i første ledd, plikter å melde opplysninger til registeret til Stortingets administrasjon første gang de møter i Stortinget. Endring av, eller tillegg til tidligere registrerte opplysninger, skal meldes når vararepresentanten møter på ny.
 

@@ -15,7 +15,7 @@ xml_hash: "783c49e720dc8c23dc10b4ae5c888c46f316e2c395035ab6005ccf76ba490b7a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,18 @@ Forskriften gjelder fiske etter anadrome laksefisk i sjøen. Paragraf 3 gjelder 
 
 Med de begrensninger som følger av § 3 og forskrift gitt i medhold av [lakse- og innlandsfiskloven § 40](lov/1992-05-15-47/§40), er det åpnet for fiske etter anadrome laksefisk med stang og håndsnøre, fra land og båt, hele året.
 
-Det åpnes likevel ikke for fiske etter anadrome laksefiskfra land og båt, i tidsrommet 1. mars til 30. april, i følgende områder:Ryfylkefjordene i Rogaland innenfor ei linje mellom Tungenes og Kårstø, unntatt Lysefjorden innenfor Lysefjordbrua og Skjoldafjorden nord for Borgøyna,Hardangerfjorden innenfor ei linje mellom Bleiknes ved Husnes og til Ystadnes ved Ølve i Kvinnherad kommune,Møre og Romsdal, med unntak av Smøla,fra land og båt, i tidsrommet 1. mars til 31. mai, i Trøndelag,fra båt, i tidsrommet 1. mars til 31. mai, i Nordland. I Skjerstadfjorden, innenfor Fylkesvei 17, gjelder fiskeforbudet fram til 30. juni.fra land og båt, hele året, innenfor ei linje i indre Oslofjord som er avgrenset av koordinatene for nullfiskeområde Indre fjord som angitt i vedlegg II til forskriften.fra land og båt, hele året, i et område i Færder nasjonalpark som er avgrenset av koordinatene for nullfiskeområde Færder som angitt i vedlegg II til forskriften.fra land og båt, hele året, i et område i Ytre Hvaler nasjonalpark som er avgrenset av koordinatene for nullfiskeområde Hvaler som angitt i vedlegg II til forskriften.
+Det åpnes likevel ikke for fiske etter anadrome laksefisk
+
+1. fra land og båt, i tidsrommet 1. mars til 30. april, i følgende områder:
+
+   1. Ryfylkefjordene i Rogaland innenfor ei linje mellom Tungenes og Kårstø, unntatt Lysefjorden innenfor Lysefjordbrua og Skjoldafjorden nord for Borgøyna,
+   2. Hardangerfjorden innenfor ei linje mellom Bleiknes ved Husnes og til Ystadnes ved Ølve i Kvinnherad kommune,
+   3. Møre og Romsdal, med unntak av Smøla,
+2. fra land og båt, i tidsrommet 1. mars til 31. mai, i Trøndelag,
+3. fra båt, i tidsrommet 1. mars til 31. mai, i Nordland. I Skjerstadfjorden, innenfor Fylkesvei 17, gjelder fiskeforbudet fram til 30. juni.
+4. fra land og båt, hele året, innenfor ei linje i indre Oslofjord som er avgrenset av koordinatene for nullfiskeområde Indre fjord som angitt i vedlegg II til forskriften.
+5. fra land og båt, hele året, i et område i Færder nasjonalpark som er avgrenset av koordinatene for nullfiskeområde Færder som angitt i vedlegg II til forskriften.
+6. fra land og båt, hele året, i et område i Ytre Hvaler nasjonalpark som er avgrenset av koordinatene for nullfiskeområde Hvaler som angitt i vedlegg II til forskriften.
 
 Det åpnes heller ikke for fiske etter laks (*Salmo salar*) fra land og båt i forvaltningsregionene Tanafjorden, Karlebotn, Kjøfjord/Bøkfjord, Indre Varangerfjord–Jarfjorden og kysten av Finnmark, og for fiske etter sjøørret fra land og båt i fjordområdet Sunndalsfjorden, Tingvollfjorden, Bergsøyfjorden og Batnfjorden innenfor E39 i Møre og Romsdal.
 

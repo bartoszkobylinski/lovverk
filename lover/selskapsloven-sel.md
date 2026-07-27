@@ -15,7 +15,7 @@ xml_hash: "1d0d6007dfde1849d3a44f14acd52456848dfe89323a7c403f2c49d8467156f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,16 @@ eu_basis: []
 
 ### § 1-2. Definisjoner
 
-(1) I denne lov menes medselskap: virksomhet som nevnt i [§ 1-1](lov/1985-06-21-83/§1-1) første ledd,ansvarlig selskap: selskap hvor deltakerne har et ubegrenset, personlig ansvar for selskapets samlede forpliktelser, udelt eller for deler som tilsammen utgjør selskapets samlede forpliktelser og som opptrer som sådant overfor tredjemann,indre selskap: selskap som ikke opptrer som sådant overfor tredjemann,stille deltaker: deltaker i et selskap der det er avtalt at deltakelsen ikke skal framtre utad og at deltakeren bare har begrenset ansvar med en fastsatt sum,kommandittselskap: selskap hvor minst en deltaker har ubegrenset ansvar for selskapets forpliktelser og minst en annen deltaker har begrenset ansvar med en fastsatt sum for selskapets forpliktelser uten å være stille deltaker,komplementar: deltaker som har ubegrenset ansvar for et kommandittselskaps forpliktelser,kommandittist: deltaker som har begrenset ansvar for et kommandittselskaps forpliktelser uten å være stille deltaker,konsern: mor- og datterselskap.
+(1) I denne lov menes med
+
+1. selskap: virksomhet som nevnt i [§ 1-1](lov/1985-06-21-83/§1-1) første ledd,
+2. ansvarlig selskap: selskap hvor deltakerne har et ubegrenset, personlig ansvar for selskapets samlede forpliktelser, udelt eller for deler som tilsammen utgjør selskapets samlede forpliktelser og som opptrer som sådant overfor tredjemann,
+3. indre selskap: selskap som ikke opptrer som sådant overfor tredjemann,
+4. stille deltaker: deltaker i et selskap der det er avtalt at deltakelsen ikke skal framtre utad og at deltakeren bare har begrenset ansvar med en fastsatt sum,
+5. kommandittselskap: selskap hvor minst en deltaker har ubegrenset ansvar for selskapets forpliktelser og minst en annen deltaker har begrenset ansvar med en fastsatt sum for selskapets forpliktelser uten å være stille deltaker,
+6. komplementar: deltaker som har ubegrenset ansvar for et kommandittselskaps forpliktelser,
+7. kommandittist: deltaker som har begrenset ansvar for et kommandittselskaps forpliktelser uten å være stille deltaker,
+8. konsern: mor- og datterselskap.
 
 (2) Eier et selskap så mange aksjer eller andeler i et annet selskap at de representerer flertallet av stemmene i det annet selskap, anses det første selskapet som et morselskap. Morselskap er også et selskap som på grunnlag av avtale har den bestemmende innflytelse over et annet selskap og en betydelig andel i dets driftsresultat. Det annet selskap skal etter begge bestemmelser anses som datterselskap til det første. Eier et morselskap sammen med et datterselskap, eller eier ett eller flere datterselskaper sammen, så mange aksjer eller andeler i et annet selskap som angitt i første punktum, anses det sistnevnte selskap som datterselskap til morselskapet. Har et morselskap sammen med et datterselskap, eller har ett eller flere datterselskaper sammen, slik bestemmende innflytelse og andel i et annet selskaps driftsresultat som angitt i annet punktum, anses det sistnevnte selskap som datterselskap til morselskapet.
 
@@ -52,7 +61,10 @@ eu_basis: []
 
 ### § 1-3. Lovens stedlige virkeområde
 
-Et selskap omfattes av loven:når det har sitt hovedkontor i riket eller på norsk kontinentalsokkel, ellernår en deltaker som alene eller flere deltakere som sammen eier den vesentligste delen av foretaket bor i riket, og foretakets virksomhet ikke utøves i en annen stat.
+Et selskap omfattes av loven:
+
+1. når det har sitt hovedkontor i riket eller på norsk kontinentalsokkel, eller
+2. når en deltaker som alene eller flere deltakere som sammen eier den vesentligste delen av foretaket bor i riket, og foretakets virksomhet ikke utøves i en annen stat.
 
 ### § 1-4. Lovens fravikelighet
 
@@ -84,7 +96,13 @@ Bestemmelsene i denne lov kan ikke fravikes, med mindre det motsatte er særskil
 
 (1) I selskap som ikke er indre selskap skal det opprettes en datert skriftlig selskapsavtale som skal undertegnes av samtlige deltakere, unntatt stille deltaker. Senere endringer skal skje på samme måte når endringene ikke går fram av protokoll fra selskapsmøte. Deltaker som trer inn i selskapet etter at dette er stiftet, skal skriftlig tiltre selskapsavtalen.
 
-(2) Selskapsavtale som nevnt i første ledd skal minst inneholde bestemmelse om:selskapets foretaksnavn,navn og bosted for samtlige deltakere unntatt stille deltaker,selskapets formål,den kommune der selskapet skal ha sitt hovedkontor,hvorvidt deltakerne skal gjøre innskudd, og i tilfelle den verdi innskutte eiendeler har.
+(2) Selskapsavtale som nevnt i første ledd skal minst inneholde bestemmelse om:
+
+1. selskapets foretaksnavn,
+2. navn og bosted for samtlige deltakere unntatt stille deltaker,
+3. selskapets formål,
+4. den kommune der selskapet skal ha sitt hovedkontor,
+5. hvorvidt deltakerne skal gjøre innskudd, og i tilfelle den verdi innskutte eiendeler har.
 
 > Endret ved [lov 5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
 
@@ -212,7 +230,13 @@ Selskapets eiendeler skal holdes atskilt fra deltakernes øvrige eiendeler. Plik
 
 (1) Bestemmelsene i denne paragrafen gjelder for selskaper der samtlige deltakere er juridiske personer, og som på balansedagen for årsregnskapet enten har driftsinntekter og finansinntekter som samlet er større enn 50 millioner kroner, eller som har flere enn 30 ansatte. Antall ansatte etter første punktum skal beregnes på samme måte som etter [§ 2-9](lov/1985-06-21-83/§2-9), jf. [§ 2-10 første ledd](lov/1985-06-21-83/§2-10/ledd/1).
 
-(2) Har styret tre eller flere medlemmer, skal kjønnssammensetning i styret oppfylle følgende krav:Har styret tre eller fire medlemmer, kan maksimalt to styremedlemmer ha samme kjønn.Har styret fem eller seks medlemmer, kan maksimalt tre styremedlemmer ha samme kjønn.Har styret syv medlemmer, kan maksimalt fire styremedlemmer ha samme kjønn.Har styret åtte medlemmer, kan maksimalt fem styremedlemmer ha samme kjønn.Har styret ni eller flere medlemmer, kan maksimalt 60 prosent av styremedlemmene ha samme kjønn.
+(2) Har styret tre eller flere medlemmer, skal kjønnssammensetning i styret oppfylle følgende krav:
+
+1. Har styret tre eller fire medlemmer, kan maksimalt to styremedlemmer ha samme kjønn.
+2. Har styret fem eller seks medlemmer, kan maksimalt tre styremedlemmer ha samme kjønn.
+3. Har styret syv medlemmer, kan maksimalt fire styremedlemmer ha samme kjønn.
+4. Har styret åtte medlemmer, kan maksimalt fem styremedlemmer ha samme kjønn.
+5. Har styret ni eller flere medlemmer, kan maksimalt 60 prosent av styremedlemmene ha samme kjønn.
 
 (3) Annet ledd gjelder tilsvarende for varamedlemmer.
 
@@ -414,7 +438,11 @@ Når ikke annet er avtalt kan selskapsandel bare gå over til ny eier med samtyk
 
 (1) Den enkelte deltaker kan med 6 måneders skriftlig varsel si opp sitt deltakerforhold og kreve seg utløst av selskapet. Utløsingsummen fastsettes til det andelen er verd ved oppsiingsfristens utløp.
 
-(2) Den enkelte deltaker kan kreve utløsing med øyeblikkelig virkning:når hans rett er blitt krenket ved vesentlig mislighold av selskapsforholdet,når han er blitt overstemt ved flertallsvedtak i et vesentlig spørsmål,når utløsing ellers tilsies av ikke uvesentlige rimelighetshensyn.
+(2) Den enkelte deltaker kan kreve utløsing med øyeblikkelig virkning:
+
+1. når hans rett er blitt krenket ved vesentlig mislighold av selskapsforholdet,
+2. når han er blitt overstemt ved flertallsvedtak i et vesentlig spørsmål,
+3. når utløsing ellers tilsies av ikke uvesentlige rimelighetshensyn.
 
 (3) Utløsingsummen etter annet ledd fastsettes til det andelen var verd umiddelbart før utløsingsgrunnen forelå.
 
@@ -462,7 +490,11 @@ Når ikke annet er avtalt kan selskapsandel bare gå over til ny eier med samtyk
 
 ### § 2-36. Utelukking
 
-(1) En deltaker kan ved skriftlig påbud utelukkes fra selskapet ved utløsing:når det er åpnet konkurs eller offentlig akkordforhandling i deltakerens bo, eller han for øvrig er ute av stand til å dekke sine forpliktelser,når deltakeren har krenket selskapsforholdet vesentlig ved mislighold, ellernår tungtveiende grunner ellers tilsier utelukking.
+(1) En deltaker kan ved skriftlig påbud utelukkes fra selskapet ved utløsing:
+
+1. når det er åpnet konkurs eller offentlig akkordforhandling i deltakerens bo, eller han for øvrig er ute av stand til å dekke sine forpliktelser,
+2. når deltakeren har krenket selskapsforholdet vesentlig ved mislighold, eller
+3. når tungtveiende grunner ellers tilsier utelukking.
 
 (2) Beslutning om utelukking treffes av selskapsmøtet etter krav fra en deltaker. Den som kravet er rettet mot kan ikke ta del i beslutningen. Krav om utelukking må framsettes innen rimelig tid etter at utelukkingsgrunnen er blitt kjent; ellers faller retten til å kreve utelukking bort.
 
@@ -480,7 +512,10 @@ Når ikke annet er avtalt kan selskapsandel bare gå over til ny eier med samtyk
 
 (1) Beslutning om oppløsing treffes av selskapsmøtet.
 
-(2) Den enkelte deltaker kan kreve selskapet oppløst straks:når deltakerens rett er blitt krenket ved vesentlig mislighold av selskapsforholdet og henvisning til uttreden etter [§ 2-32](lov/1985-06-21-83/§2-32) ikke ville være rimelig, ellernår tungtveiende grunner ellers tilsier oppløsing.
+(2) Den enkelte deltaker kan kreve selskapet oppløst straks:
+
+1. når deltakerens rett er blitt krenket ved vesentlig mislighold av selskapsforholdet og henvisning til uttreden etter [§ 2-32](lov/1985-06-21-83/§2-32) ikke ville være rimelig, eller
+2. når tungtveiende grunner ellers tilsier oppløsing.
 
 (3) Etterkommer ikke selskapsmøtet et krav om oppløsing, kan den som har krevd oppløsing kreve selskapet oppløst ved dom.
 
@@ -570,13 +605,28 @@ Når ikke annet er avtalt kan selskapsandel bare gå over til ny eier med samtyk
 
 ### § 3-2
 
-Selskapsavtalen skal i tillegg til det som følger av [§ 2-3](lov/1985-06-21-83/§2-3) inneholde bestemmelser om:deltakernes ansvar for selskapsforpliktelserselskapskapitalen samt hvor stor del av denne som er bunden kapital, jf [§ 3-1](lov/1985-06-21-83/§3-1) annet ledddeltakernes innskuddsforpliktelserinnbetaling av selskapskapitalenhvorvidt komplementaren eller daglig leder har rett til å drive annen virksomhet.
+Selskapsavtalen skal i tillegg til det som følger av [§ 2-3](lov/1985-06-21-83/§2-3) inneholde bestemmelser om:
+
+1. deltakernes ansvar for selskapsforpliktelser
+2. selskapskapitalen samt hvor stor del av denne som er bunden kapital, jf [§ 3-1](lov/1985-06-21-83/§3-1) annet ledd
+3. deltakernes innskuddsforpliktelser
+4. innbetaling av selskapskapitalen
+5. hvorvidt komplementaren eller daglig leder har rett til å drive annen virksomhet.
 
 ### § 3-3
 
-(1) Selskapsavtalen skal inneholde enhver bestemmelse som treffes om:at en deltaker skal ha rett eller plikt til å gjøre innskudd med andre formueverdier enn penger eller på andre særlige vilkårat selskapet skal overta slike formueverdier mot vederlag i annet enn andelerat selskapet skal dekke kostnader med stiftelsenat noen for øvrig skal ha særskilte rettigheter eller fordeler av selskapet.
+(1) Selskapsavtalen skal inneholde enhver bestemmelse som treffes om:
 
-(2) I selskapsavtalen eller i et skriftlig tillegg til denne skal det redegjøres for forhold som kan være av betydning for vurderingen av formueverdier som skal skytes inn eller overtas, og for bedømmelsen ellers av bestemmelser som nevnt i første ledd. Særskilt skal angis:navn og bopel for personer som er tilgodesett eller forpliktet ved bestemmelsenhvor stor andel eller annet vederlag som skal ytes for formueverdier som skal skytes inn eller overtas av selskapet, og i hovedtrekk de vilkår som for øvrig skal gjelde for innskuddet eller overtakelsende kostnader som antas forbundet med stiftelsen og som skal dekkes av selskapet, med særskilt angivelse av hvor mye som i tilfelle skal betales som godtgjørelse til noen for arbeid i forbindelse med stiftelsen.
+1. at en deltaker skal ha rett eller plikt til å gjøre innskudd med andre formueverdier enn penger eller på andre særlige vilkår
+2. at selskapet skal overta slike formueverdier mot vederlag i annet enn andeler
+3. at selskapet skal dekke kostnader med stiftelsen
+4. at noen for øvrig skal ha særskilte rettigheter eller fordeler av selskapet.
+
+(2) I selskapsavtalen eller i et skriftlig tillegg til denne skal det redegjøres for forhold som kan være av betydning for vurderingen av formueverdier som skal skytes inn eller overtas, og for bedømmelsen ellers av bestemmelser som nevnt i første ledd. Særskilt skal angis:
+
+1. navn og bopel for personer som er tilgodesett eller forpliktet ved bestemmelsen
+2. hvor stor andel eller annet vederlag som skal ytes for formueverdier som skal skytes inn eller overtas av selskapet, og i hovedtrekk de vilkår som for øvrig skal gjelde for innskuddet eller overtakelsen
+3. de kostnader som antas forbundet med stiftelsen og som skal dekkes av selskapet, med særskilt angivelse av hvor mye som i tilfelle skal betales som godtgjørelse til noen for arbeid i forbindelse med stiftelsen.
 
 (3) Formueverdier som nevnt i første ledd bokstav a kan ikke skytes inn eller overtas for et høyere beløp enn det verdiene antas å kunne oppføres med i selskapets balanse. Ytelser som ikke kan oppføres som eiendeler i selskapets balanse, kan ikke brukes som innskudd eller overtas av selskapet etter reglene i denne paragraf. Når et kommandittselskap i henhold til selskapsavtalen skal overta andre formueverdier enn penger mot vederlag i andeler eller på annen måte, skal det ved registrering i Foretaksregisteret legges fram erklæring fra revisor om at avtalen ikke strider mot vilkårene i foregående punktum.
 
@@ -590,7 +640,17 @@ Selskapsavtalen skal i tillegg til det som følger av [§ 2-3](lov/1985-06-21-83
 
 (1) Den som henvender seg til en ubestemt krets av personer med innbydelse om tegning av andeler i et kommandittselskap, skal utarbeide en tegningsinnbydelse som gjengir hovedtrekkene i forslaget til selskapsavtale og med opplysning om hvor avtalen med eventuelle vedlegg holdes tilgjengelig. Bestemmelser som nevnt i [§§ 3-2](lov/1985-06-21-83/§3-2) og [3-3](lov/1985-06-21-83/§3-3) skal gjengis i sin helhet. Tegningsinnbydelsen skal dessuten inneholde opplysninger om den virksomhet selskapet skal drive og om andre forhold som må tillegges vekt ved bedømmelsen av spørsmålet om å tegne andeler i selskapet.
 
-(2) Når ikke opplysningene allerede går fram av det som skal opplyses etter første ledd, skal særskilt angis:innbydernes rolle i virksomheten, herunder eventuell deltakerandel i selskapethvorvidt kommandittistene kan pålegges å øke sine innskudds- eller garantiforpliktelser utover det som er fastsatt i selskapsavtalen, jf [§ 3-2](lov/1985-06-21-83/§3-2) bokstav ckomplementarens deltakerandel og innskuddsforpliktelse i selskapet. Dersom komplementaren er et selskap, skal det gis slike opplysninger om dette også, samt om dette selskapets organisasjon, eierforhold og økonomiske stillinghovedtrekkene i kompetansefordelingen mellom selskapsorganene. Det skal særskilt opplyses om komplementaren har vetorett i selskapsmøtetopplysninger om daglig leder dersom selskapet skal ha dette. Det skal gis opplysninger om hovedpunktene i selskapets avtale med daglig leder, dennes godtgjørelse og deltakelse i selskapet. Dersom driften skal forestås av et selskap, skal det gis slike opplysninger om dette også, samt om selskapets eierforhold, organisasjon og økonomiske stillingetableringskostnader, provisjoner og andre godtgjørelser som i forbindelse med selskapets stiftelse og drift tilfaller innbydere, deltakere og daglig lederavtaler om anskaffelse eller leie av anleggs- eller omløpsmidler som er av vesentlig betydning for selskapets driftsgrunnlag, finansieringsplan og avtaler om bruk av midlene. Dersom det ikke er inngått avtale om bruk, skal også dette opplysesinformasjon om skatteregler, herunder om begrensningen i kommandittistenes fradragsrett. Gis det uttrykk for muligheter til inntektsfradrag ut over det fastsatte innskuddsbeløpet, skal det redegjøres for vilkårene for det. Kongen kan ved forskrift gi nærmere regler om informasjonsplikten etter denne bestemmelseopplysninger om stiftelsesmøtet.
+(2) Når ikke opplysningene allerede går fram av det som skal opplyses etter første ledd, skal særskilt angis:
+
+1. innbydernes rolle i virksomheten, herunder eventuell deltakerandel i selskapet
+2. hvorvidt kommandittistene kan pålegges å øke sine innskudds- eller garantiforpliktelser utover det som er fastsatt i selskapsavtalen, jf [§ 3-2](lov/1985-06-21-83/§3-2) bokstav c
+3. komplementarens deltakerandel og innskuddsforpliktelse i selskapet. Dersom komplementaren er et selskap, skal det gis slike opplysninger om dette også, samt om dette selskapets organisasjon, eierforhold og økonomiske stilling
+4. hovedtrekkene i kompetansefordelingen mellom selskapsorganene. Det skal særskilt opplyses om komplementaren har vetorett i selskapsmøtet
+5. opplysninger om daglig leder dersom selskapet skal ha dette. Det skal gis opplysninger om hovedpunktene i selskapets avtale med daglig leder, dennes godtgjørelse og deltakelse i selskapet. Dersom driften skal forestås av et selskap, skal det gis slike opplysninger om dette også, samt om selskapets eierforhold, organisasjon og økonomiske stilling
+6. etableringskostnader, provisjoner og andre godtgjørelser som i forbindelse med selskapets stiftelse og drift tilfaller innbydere, deltakere og daglig leder
+7. avtaler om anskaffelse eller leie av anleggs- eller omløpsmidler som er av vesentlig betydning for selskapets driftsgrunnlag, finansieringsplan og avtaler om bruk av midlene. Dersom det ikke er inngått avtale om bruk, skal også dette opplyses
+8. informasjon om skatteregler, herunder om begrensningen i kommandittistenes fradragsrett. Gis det uttrykk for muligheter til inntektsfradrag ut over det fastsatte innskuddsbeløpet, skal det redegjøres for vilkårene for det. Kongen kan ved forskrift gi nærmere regler om informasjonsplikten etter denne bestemmelse
+9. opplysninger om stiftelsesmøtet.
 
 (3) Innbys det til tegning i aviser, blad, ved oppslag eller sirkulærer e l skal innbydelsen ikke inneholde annet enn en ordrett gjengivelse av tegningsinnbydelsen eller en henvisning til denne med opplysning om hvor den holdes tilgjengelig.
 
@@ -618,7 +678,13 @@ Selskapsavtalen skal i tillegg til det som følger av [§ 2-3](lov/1985-06-21-83
 
 (1) Deltakerne utøver den øverste myndighet i selskapet gjennom selskapsmøtet, når ikke annet er avtalt med hjemmel i [§ 3-9](lov/1985-06-21-83/§3-9) annet ledd eller [§ 3-10](lov/1985-06-21-83/§3-10) annet ledd.
 
-(2) Selskapsmøtet avgjør følgende saker:endring eller fravikelse av selskapsavtalensaker som etter selskapets forhold er av uvanlig art eller særlig viktighet, så som opptak av større lån, salg, pantsetting m m av eiendeler som er av vesentlig betydning for selskapets virksomhet, og nedlegging av selskapets virksomhet helt eller for en vesentlig delbestemmelse om rett til å tegne selskapets firma etter [§ 3-13](lov/1985-06-21-83/§3-13)fastsetting av resultatregnskap og balanse, herunder anvendelse av årsoverskott eller dekning av årsunderskott.valg av styremedlemmer etter [§ 3-10](lov/1985-06-21-83/§3-10).
+(2) Selskapsmøtet avgjør følgende saker:
+
+1. endring eller fravikelse av selskapsavtalen
+2. saker som etter selskapets forhold er av uvanlig art eller særlig viktighet, så som opptak av større lån, salg, pantsetting m m av eiendeler som er av vesentlig betydning for selskapets virksomhet, og nedlegging av selskapets virksomhet helt eller for en vesentlig del
+3. bestemmelse om rett til å tegne selskapets firma etter [§ 3-13](lov/1985-06-21-83/§3-13)
+4. fastsetting av resultatregnskap og balanse, herunder anvendelse av årsoverskott eller dekning av årsunderskott.
+5. valg av styremedlemmer etter [§ 3-10](lov/1985-06-21-83/§3-10).
 
 ### § 3-7
 
@@ -708,7 +774,13 @@ Selskapets midler kan ikke deles ut eller kreves utdelt til deltakerne i større
 
 (1) Lån i selskapet kan deltakere bare ha for så vidt selskapet etter den senest fastsatte balanse har fri egenkapital som er minst like stor som lånene, og det er stilt betryggende sikkerhet. Like med lån regnes sikkerhetstillelse for deltakers forpliktelse.
 
-(2) Like med lån eller sikkerhetstillelse etter første ledd regnes lån til eller sikkerhetstillelse for:aksje- eller andelseier i annet selskap i samme konsernmedlem av selskapsmøtet eller styre eller daglig leder i selskapetmedlem av styre, bedriftsforsamling eller representantskap eller administrerende direktør i komplementarselskap, eller i annet selskap i samme konsernden som er gift med eller som i rett oppstigende eller nedstigende linje eller i sidelinje så nær som søsken er beslektet eller besvogret med noen som er nevnt i første ledd eller under bokstav a til c foranet selskap hvor noen som nevnt i første ledd eller under bokstav a til d foran har slik innflytelse som angitt for morselskap i [§ 1-2](lov/1985-06-21-83/§1-2) annet ledd.
+(2) Like med lån eller sikkerhetstillelse etter første ledd regnes lån til eller sikkerhetstillelse for:
+
+1. aksje- eller andelseier i annet selskap i samme konsern
+2. medlem av selskapsmøtet eller styre eller daglig leder i selskapet
+3. medlem av styre, bedriftsforsamling eller representantskap eller administrerende direktør i komplementarselskap, eller i annet selskap i samme konsern
+4. den som er gift med eller som i rett oppstigende eller nedstigende linje eller i sidelinje så nær som søsken er beslektet eller besvogret med noen som er nevnt i første ledd eller under bokstav a til c foran
+5. et selskap hvor noen som nevnt i første ledd eller under bokstav a til d foran har slik innflytelse som angitt for morselskap i [§ 1-2](lov/1985-06-21-83/§1-2) annet ledd.
 
 (3) Selskap kan ikke gi lån med sikte på at skyldneren eller noen som handler i forståelse med ham, skal erverve andeler i selskapet eller aksjer eller andeler i selskap i samme konsern. Tilsvarende forbud gjelder for sikkerhetstillelse. Kongen kan ved forskrift eller i det enkelte tilfelle gjøre unntak fra første eller annet punktum.
 
@@ -732,7 +804,12 @@ Selskapets midler kan ikke deles ut eller kreves utdelt til deltakerne i større
 
 ### § 3-19
 
-(1) Beslutning om å nedsette selskapskapitalen skal angi det beløp som selskapskapitalen skal nedsettes med og fastsette om beløpet skal anvendes til:dekning av tap som ikke kan dekkes på annen måtetilbakebetaling til deltakerneavskriving på deltakernes innskuddsforpliktelseravsetning til fond som skal anvendes etter selskapsmøtets beslutning.
+(1) Beslutning om å nedsette selskapskapitalen skal angi det beløp som selskapskapitalen skal nedsettes med og fastsette om beløpet skal anvendes til:
+
+1. dekning av tap som ikke kan dekkes på annen måte
+2. tilbakebetaling til deltakerne
+3. avskriving på deltakernes innskuddsforpliktelser
+4. avsetning til fond som skal anvendes etter selskapsmøtets beslutning.
 
 (2) Beslutning som nevnt i første ledd bokstavene b til d kan bare fattes etter forslag fra komplementaren eller i tilfelle fra styret, og kan ikke gjelde større beløp enn at det etter gjennomføringen av beslutningen er full dekning for to femdeler av den nedsatte selskapskapitalen. Ved beregning av beløpet skal balansen for siste regnskapsår legges til grunn, men det skal tas tilbørlig hensyn til tap som måtte være lidt etter balansedagen.
 
@@ -810,7 +887,10 @@ Selskapets midler kan ikke deles ut eller kreves utdelt til deltakerne i større
 
 (1) Selskapsmøtet kan beslutte selskapet oppløst med tilslutning fra samtlige deltakere. Det kan avtales at et flertall av deltakerne kan beslutte oppløsing.
 
-(2) Komplementaren kan kreve selskapet oppløst med seks måneders skriftlig varsel til samtlige deltakere. [§ 1-5](lov/1985-06-21-83/§1-5) gjelder tilsvarende. Han kan kreve selskapet oppløst straks:når hans rett er krenket ved vesentlig mislighold av selskapsforholdet, ellernår oppløsing ellers tilsies av tungtveiende grunner.
+(2) Komplementaren kan kreve selskapet oppløst med seks måneders skriftlig varsel til samtlige deltakere. [§ 1-5](lov/1985-06-21-83/§1-5) gjelder tilsvarende. Han kan kreve selskapet oppløst straks:
+
+1. når hans rett er krenket ved vesentlig mislighold av selskapsforholdet, eller
+2. når oppløsing ellers tilsies av tungtveiende grunner.
 
 (3) Kommandittist kan ikke kreve selskapet oppløst.
 
@@ -840,7 +920,24 @@ Kongen bestemmer når loven trer i kraft.1
 
 ### § 4-2. Overgangsbestemmelser
 
-(1) For selskaper som er stiftet før lovens ikrafttredelse gjelder loven med følgende unntak og særregler:– – –Eldre avtale om annen ansvarform enn angitt i [§ 2-4](lov/1985-06-21-83/§2-4) første ledd kan gjøres gjeldende etter de hittil gjeldende regler inntil den avvikende ansvarformen er registrert i handelsregisteret/Foretaksregisteret, jf [§ 2-4](lov/1985-06-21-83/§2-4) tredje ledd annet punktum. Dette gjelder likevel bare dersom den avvikende ansvarform er meldt til registrering senest to år etter lovens ikrafttredelseReglene om uttreden (§§ 2-32 til 2-35 jf [§ 3-25](lov/1985-06-21-83/§3-25)), utelukking (§ 2-36 jf [§ 3-26](lov/1985-06-21-83/§3-26)) og oppløsing og avvikling (§§ 2-37 til 2-42 jf [§§ 3-27](lov/1985-06-21-83/§3-27) og [3-28](lov/1985-06-21-83/§3-28)) gjelder når melding om utløsing er kommet inn til selskapet eller beslutning om utelukking eller oppløsing er truffet etter lovens ikrafttredelseBestemmelsene i [§ 3-1](lov/1985-06-21-83/§3-1) tredje ledd gjelder ikke. [§ 3-1](lov/1985-06-21-83/§3-1) tredje ledd tredje punktum er likevel til hinder for at det etter lovens ikrafttredelse etableres nye sameier i komplementarandelKommandittselskaps bundne selskapskapital, [§ 3-1](lov/1985-06-21-83/§3-1) jf [§ 3-2](lov/1985-06-21-83/§3-2) bokstav b, skal fastsettes i forhold til selskapskapitalen ved lovens ikrafttredelse– – –– – –(2) Når særlige grunner tilsier det, kan Kongen1 i det enkelte tilfelle gjøre unntak fra bestemmelsene i foregående ledd– – –Har selskapet utstedt andelsbevis, og disse ikke tilfredsstiller kravene i [§ 3-23](lov/1985-06-21-83/§3-23), gjelder [§ 3-24](lov/1985-06-21-83/§3-24) første ledd siste punktum tilsvarende.
+(1) For selskaper som er stiftet før lovens ikrafttredelse gjelder loven med følgende unntak og særregler:
+
+– – –
+
+1. Eldre avtale om annen ansvarform enn angitt i [§ 2-4](lov/1985-06-21-83/§2-4) første ledd kan gjøres gjeldende etter de hittil gjeldende regler inntil den avvikende ansvarformen er registrert i handelsregisteret/Foretaksregisteret, jf [§ 2-4](lov/1985-06-21-83/§2-4) tredje ledd annet punktum. Dette gjelder likevel bare dersom den avvikende ansvarform er meldt til registrering senest to år etter lovens ikrafttredelse
+2. Reglene om uttreden (§§ 2-32 til 2-35 jf [§ 3-25](lov/1985-06-21-83/§3-25)), utelukking (§ 2-36 jf [§ 3-26](lov/1985-06-21-83/§3-26)) og oppløsing og avvikling (§§ 2-37 til 2-42 jf [§§ 3-27](lov/1985-06-21-83/§3-27) og [3-28](lov/1985-06-21-83/§3-28)) gjelder når melding om utløsing er kommet inn til selskapet eller beslutning om utelukking eller oppløsing er truffet etter lovens ikrafttredelse
+3. Bestemmelsene i [§ 3-1](lov/1985-06-21-83/§3-1) tredje ledd gjelder ikke. [§ 3-1](lov/1985-06-21-83/§3-1) tredje ledd tredje punktum er likevel til hinder for at det etter lovens ikrafttredelse etableres nye sameier i komplementarandel
+4. Kommandittselskaps bundne selskapskapital, [§ 3-1](lov/1985-06-21-83/§3-1) jf [§ 3-2](lov/1985-06-21-83/§3-2) bokstav b, skal fastsettes i forhold til selskapskapitalen ved lovens ikrafttredelse
+
+– – –
+
+– – –
+
+1. (2) Når særlige grunner tilsier det, kan Kongen1 i det enkelte tilfelle gjøre unntak fra bestemmelsene i foregående ledd
+
+– – –
+
+1. Har selskapet utstedt andelsbevis, og disse ikke tilfredsstiller kravene i [§ 3-23](lov/1985-06-21-83/§3-23), gjelder [§ 3-24](lov/1985-06-21-83/§3-24) første ledd siste punktum tilsvarende.
 
 > Endret ved [lov 21 juni 1985 nr. 78](lov/1985-06-21-78).
 

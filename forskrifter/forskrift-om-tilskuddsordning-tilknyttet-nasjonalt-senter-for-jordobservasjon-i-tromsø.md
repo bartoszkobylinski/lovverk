@@ -30,7 +30,13 @@ Formålet med tilskuddsordningen er å utvikle nye bruksområder eller tjenester
 
 ## § 2. Definisjoner
 
-I denne forskriften menes med:*Jordobservasjon:* bilder eller målinger knyttet til jordas overflate eller atmosfære innhentet eksempelvis av satellitter.*Grunnforskning:* eksperimentelt eller teoretisk arbeid som fortrinnsvis utføres med sikte på tilegnelse av ny kunnskap om de underliggende årsakene til fenomener og observerbare fakta, uten at det tas sikte på direkte kommersiell anvendelse.*Industriell forskning:* planlagt forskning eller kritisk undersøkelse med sikte på tilegnelse av ny kunnskap og nye ferdigheter for å utvikle nye produkter, prosesser eller tjenester, eller med sikte på en betydelig forbedring av eksisterende produkter, prosesser eller tjenester. Dette omfatter utforming av komponenter til sammensatte systemer og kan omfatte utvikling av prototyper i et laboratoriemiljø eller i et miljø med simulerte grensesnitt mot eksisterende systemer samt av pilotprosjekter, når det er nødvendig for den industrielle forskningen og særlig for å validere allmenn teknologi.*Eksperimentell utvikling:* tilegnelse, kombinering, utforming og bruk av eksisterende vitenskapelige, teknologiske, forretningsmessige og andre relevante kunnskaper og ferdigheter med sikte på å utvikle nye eller forbedrede produkter, prosesser eller tjenester. Dette kan også omfatte for eksempel virksomhet som tar sikte på begrepsmessig definisjon, planlegging og dokumentasjon av nye produkter, prosesser og tjenester.*Forundersøkelser:* evaluering og analyse av et prosjekts potensial med det formål å støtte beslutningsprosessen gjennom en objektiv og rasjonell påvisning av dets sterke og svake sider, muligheter og trusler, identifisere hvilke ressurser som kreves for å gjennomføre det, og til slutt vurdere dets utsikter til å lykkes.
+I denne forskriften menes med:
+
+1. *Jordobservasjon:* bilder eller målinger knyttet til jordas overflate eller atmosfære innhentet eksempelvis av satellitter.
+2. *Grunnforskning:* eksperimentelt eller teoretisk arbeid som fortrinnsvis utføres med sikte på tilegnelse av ny kunnskap om de underliggende årsakene til fenomener og observerbare fakta, uten at det tas sikte på direkte kommersiell anvendelse.
+3. *Industriell forskning:* planlagt forskning eller kritisk undersøkelse med sikte på tilegnelse av ny kunnskap og nye ferdigheter for å utvikle nye produkter, prosesser eller tjenester, eller med sikte på en betydelig forbedring av eksisterende produkter, prosesser eller tjenester. Dette omfatter utforming av komponenter til sammensatte systemer og kan omfatte utvikling av prototyper i et laboratoriemiljø eller i et miljø med simulerte grensesnitt mot eksisterende systemer samt av pilotprosjekter, når det er nødvendig for den industrielle forskningen og særlig for å validere allmenn teknologi.
+4. *Eksperimentell utvikling:* tilegnelse, kombinering, utforming og bruk av eksisterende vitenskapelige, teknologiske, forretningsmessige og andre relevante kunnskaper og ferdigheter med sikte på å utvikle nye eller forbedrede produkter, prosesser eller tjenester. Dette kan også omfatte for eksempel virksomhet som tar sikte på begrepsmessig definisjon, planlegging og dokumentasjon av nye produkter, prosesser og tjenester.
+5. *Forundersøkelser:* evaluering og analyse av et prosjekts potensial med det formål å støtte beslutningsprosessen gjennom en objektiv og rasjonell påvisning av dets sterke og svake sider, muligheter og trusler, identifisere hvilke ressurser som kreves for å gjennomføre det, og til slutt vurdere dets utsikter til å lykkes.
 
 ## § 3. Målgruppe
 
@@ -44,7 +50,14 @@ Tilskudd forutsetter at aktørene har tilknytning til eller samarbeider med kunn
 
 For prosjekter der finansiering gjennom ordningen ikke vil kunne regnes som statsstøtte etter [EØS-avtalen](lov/1992-11-27-109/eøsl) må det likevel kunne dokumenteres minst 50 % egenfinansiering. Eventuell statsstøtte som tildeles må være forenlig med bestemmelsene i det alminnelige gruppeunntaket (GBER) [art. 25](lov/1992-11-27-109/eøsl/a25).
 
-Hvis støtte til et prosjekt klassifiseres som statsstøtte etter [EØS-avtalen](lov/1992-11-27-109/eøsl), kan tilskudd brukes til å dekke følgende prosjektkostnader i henhold til GBER art. 25.3:personalkostnader,kostnader til utstyr og instrumenter,kostnader til bygninger og grunn,kostnader til kontraktsforskning, teknisk kunnskap og patenter,ytterligere overheadkostnader som er direkte knyttet til prosjektet,driftskostnader som materialer og forsyninger.
+Hvis støtte til et prosjekt klassifiseres som statsstøtte etter [EØS-avtalen](lov/1992-11-27-109/eøsl), kan tilskudd brukes til å dekke følgende prosjektkostnader i henhold til GBER art. 25.3:
+
+1. personalkostnader,
+2. kostnader til utstyr og instrumenter,
+3. kostnader til bygninger og grunn,
+4. kostnader til kontraktsforskning, teknisk kunnskap og patenter,
+5. ytterligere overheadkostnader som er direkte knyttet til prosjektet,
+6. driftskostnader som materialer og forsyninger.
 
 Midler fra ordningen kan også benyttes til å innhente rådgivning, jf. bokstav d). Eventuell finansiering av bred formidling av forskningsresultater regnes ikke som statsstøtte og kan finansieres gjennom ordningen.
 
@@ -58,19 +71,44 @@ Prosjekter som mottar støtte som klassifiseres som statsstøtte etter [EØS-avt
 
 Hvis et prosjekt får offentlig støtte fra flere kilder, må det samlede støttebeløpet til de relevante konkrete støtteberettigede kostnadene ikke overstige maksimal støtteintensitet som fremgår av GBER.
 
-Støtteintensiteten for hver støttemottaker skal ikke overstige:100 % av de støtteberettigede kostnadene for grunnforskning,50 % av de støtteberettigede kostnadene for industriell forskning,25 % av de støtteberettigede kostnadene for eksperimentell utvikling,50 % av de støtteberettigede kostnadene for forundersøkelser.
+Støtteintensiteten for hver støttemottaker skal ikke overstige:
 
-Støtteintensitetene for industriell forskning og eksperimentell utvikling kan imidlertid økes opp til en høyeste støtteintensitet på 80 % av de støtteberettigede kostnadene på følgende måte:med 10 prosentpoeng for mellomstore bedrifter og med 20 prosentpoeng for små bedrifter,med 15 prosentpoeng dersom ett av følgende vilkår er oppfylt:prosjektet omfatter et faktisk samarbeid mellom foretak der minst ett er en SMB, eller utføres i minst to medlemsstater eller i en medlemsstat og en stat som er part i [EØS-avtalen](lov/1992-11-27-109/eøsl), og ingen foretak alene står for mer enn 70 % av de støtteberettigede kostnadene, eller mellom et foretak og en eller flere organisasjoner for forskning og kunnskapsformidling, der den/de sistnevnte alene står for minst 10 % av de støtteberettigede kostnadene og har rett til å offentliggjøre sine egne forskningsresultater,resultatene av prosjektet får omfattende spredning gjennom konferanser, publikasjoner, åpne datakilder eller programvare med gratis eller åpen kildekode.
+1. 100 % av de støtteberettigede kostnadene for grunnforskning,
+2. 50 % av de støtteberettigede kostnadene for industriell forskning,
+3. 25 % av de støtteberettigede kostnadene for eksperimentell utvikling,
+4. 50 % av de støtteberettigede kostnadene for forundersøkelser.
+
+Støtteintensitetene for industriell forskning og eksperimentell utvikling kan imidlertid økes opp til en høyeste støtteintensitet på 80 % av de støtteberettigede kostnadene på følgende måte:
+
+1. med 10 prosentpoeng for mellomstore bedrifter og med 20 prosentpoeng for små bedrifter,
+2. med 15 prosentpoeng dersom ett av følgende vilkår er oppfylt:
+
+   1. prosjektet omfatter et faktisk samarbeid mellom foretak der minst ett er en SMB, eller utføres i minst to medlemsstater eller i en medlemsstat og en stat som er part i [EØS-avtalen](lov/1992-11-27-109/eøsl), og ingen foretak alene står for mer enn 70 % av de støtteberettigede kostnadene, eller mellom et foretak og en eller flere organisasjoner for forskning og kunnskapsformidling, der den/de sistnevnte alene står for minst 10 % av de støtteberettigede kostnadene og har rett til å offentliggjøre sine egne forskningsresultater,
+   2. resultatene av prosjektet får omfattende spredning gjennom konferanser, publikasjoner, åpne datakilder eller programvare med gratis eller åpen kildekode.
 
 Støtteintensitetene for forundersøkelser kan økes med 10 prosentpoeng for mellomstore bedrifter og med 20 prosentpoeng for små bedrifter, i henhold til GBER art. 4.1(i).
 
 ## § 6. Utlysning av tilskuddsmidler
 
-Utlysningen skal inneholde:formål med tilskuddsordningen og målgruppe,krav som gjelder for å kunne få innvilget søknaden (tildelingskriterier),informasjon om maksimal støtte/-sats, og maksimalt støttebeløpinformasjon om bruk av standardiserte søknadsskjema og krav til original underskrift, ev. krav til elektronisk signatur,hvilke opplysninger søknaden må inneholde for at det i første fase skal kunne vurderes om søknaden faller inn under ordningen,vilkår overfor tilskuddsmottaker (inkl. informasjonsplikt i etterhånd og rapporteringsplikter),informasjon om at Norsk Romsenter kan iverksette tiltak for å kontrollere at tilskuddet brukes i samsvar med formålet,søknadsfrist.
+Utlysningen skal inneholde:
+
+1. formål med tilskuddsordningen og målgruppe,
+2. krav som gjelder for å kunne få innvilget søknaden (tildelingskriterier),
+3. informasjon om maksimal støtte/-sats, og maksimalt støttebeløp
+4. informasjon om bruk av standardiserte søknadsskjema og krav til original underskrift, ev. krav til elektronisk signatur,
+5. hvilke opplysninger søknaden må inneholde for at det i første fase skal kunne vurderes om søknaden faller inn under ordningen,
+6. vilkår overfor tilskuddsmottaker (inkl. informasjonsplikt i etterhånd og rapporteringsplikter),
+7. informasjon om at Norsk Romsenter kan iverksette tiltak for å kontrollere at tilskuddet brukes i samsvar med formålet,
+8. søknadsfrist.
 
 ## § 7. Krav til søknaden
 
-Krav til søknaden skal fremgå av de årlige utlysningene av tilskuddsmidler. En søknad skal alltid:dokumentere at tilskuddet vil ha utløsende effekt for gjennomføring av prosjektet. Dette innebærer som minimum at søknad må være sendt før arbeid med prosjektet starter opp,angi all annen offentlig støtte gitt til samme prosjekt,angi annen finansiering som er med å finansiere prosjektet,angi FoU-kategori (grunnforskning, industriell forskning, eksperimentell utvikling eller forundersøkelser), eller om prosjektet faller utenfor statsstøttereglene.
+Krav til søknaden skal fremgå av de årlige utlysningene av tilskuddsmidler. En søknad skal alltid:
+
+1. dokumentere at tilskuddet vil ha utløsende effekt for gjennomføring av prosjektet. Dette innebærer som minimum at søknad må være sendt før arbeid med prosjektet starter opp,
+2. angi all annen offentlig støtte gitt til samme prosjekt,
+3. angi annen finansiering som er med å finansiere prosjektet,
+4. angi FoU-kategori (grunnforskning, industriell forskning, eksperimentell utvikling eller forundersøkelser), eller om prosjektet faller utenfor statsstøttereglene.
 
 Norsk Romsenter kan kreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknaden, enn de som fremgår av utlysningen, jf. [§ 6](forskrift/2025-06-20-1136/§6), og den mottatte søknaden.
 
@@ -84,7 +122,12 @@ Norsk Romsenter skal følge opp overfor tilskuddsmottaker dersom innrapportert i
 
 Norsk Romsenter skal gi nødvendig tilbakemelding til tilskuddsmottaker om dennes rapportering og treffe tiltak dersom kontrollen avdekker mistanke om uregelmessigheter.
 
-Norsk Romsenter kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsbrevet er oppfylt gjennom å:be om de opplysningene og den dokumentasjonen som er nødvendig for kontrollen,innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene,gjennomføre stikkprøvekontroll for prøving av data som ligger til grunn for innrapportert informasjon,gjennomføre en nærmere regnskapsgjennomgang eller annen kontroll med at midlene har blitt nyttet som forutsatt, jf. Bevilgningsreglementets § 10.
+Norsk Romsenter kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsbrevet er oppfylt gjennom å:
+
+1. be om de opplysningene og den dokumentasjonen som er nødvendig for kontrollen,
+2. innhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningene,
+3. gjennomføre stikkprøvekontroll for prøving av data som ligger til grunn for innrapportert informasjon,
+4. gjennomføre en nærmere regnskapsgjennomgang eller annen kontroll med at midlene har blitt nyttet som forutsatt, jf. Bevilgningsreglementets § 10.
 
 ## § 10. Immaterielle rettigheter (IPR)
 

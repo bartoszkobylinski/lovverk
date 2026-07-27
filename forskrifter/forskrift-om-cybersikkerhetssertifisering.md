@@ -76,9 +76,16 @@ Cybersikkerhetssertifiseringsmyndigheten kan i særlige tilfeller frafalle pål�
 
 ## § 10. Overtredelsesgebyr
 
-Cybersikkerhetssertifiseringsmyndigheter etter [§ 4](forskrift/2026-06-23-1250/§4) kan ilegge produsenter eller leverandører overtredelsesgebyr på inntil 1 prosent av foretakets omsetning dersom foretaket eller noen som handler på dennes vegne, forsettlig eller uaktsomt:gir feilaktige eller ufullstendige opplysninger til cybersikkerhetssertifiseringsmyndigheten, når myndigheten trenger opplysningene for å utføre sine oppgaver, jf. [cybersikkerhetsforordningen](eu/32019r0881) artikkel 58 nr. 8 bokstav a og b.hindrer cybersikkerhetssertifiseringsmyndigheten tilgang til lokaler når myndigheten skal utføre undersøkelser etter [cybersikkerhetsforordningen](eu/32019r0881) artikkel 58 nr. 8 bokstav d.
+Cybersikkerhetssertifiseringsmyndigheter etter [§ 4](forskrift/2026-06-23-1250/§4) kan ilegge produsenter eller leverandører overtredelsesgebyr på inntil 1 prosent av foretakets omsetning dersom foretaket eller noen som handler på dennes vegne, forsettlig eller uaktsomt:
 
-Cybersikkerhetssertifiseringsmyndigheter etter [§ 4](forskrift/2026-06-23-1250/§4) kan ilegge produsenter eller leverandører overtredelsesgebyr på inntil 3 prosent av foretakets omsetning dersom foretaket eller noen som handler på dennes vegne, forsettlig eller uaktsomt:ikke etterkommer pålegg etter [§ 8](forskrift/2026-06-23-1250/§8).overtrer forpliktelsen til å informere om påviste sårbarheter eller uregelmessigheter etter [cybersikkerhetsforordningen](eu/32019r0881) artikkel 56 nr. 8.utsteder en EU-samsvarserklæring etter [cybersikkerhetsforordningen](eu/32019r0881) artikkel 53 uten at kravene som følger av sertifiseringsordningen er oppfylt.
+1. gir feilaktige eller ufullstendige opplysninger til cybersikkerhetssertifiseringsmyndigheten, når myndigheten trenger opplysningene for å utføre sine oppgaver, jf. [cybersikkerhetsforordningen](eu/32019r0881) artikkel 58 nr. 8 bokstav a og b.
+2. hindrer cybersikkerhetssertifiseringsmyndigheten tilgang til lokaler når myndigheten skal utføre undersøkelser etter [cybersikkerhetsforordningen](eu/32019r0881) artikkel 58 nr. 8 bokstav d.
+
+Cybersikkerhetssertifiseringsmyndigheter etter [§ 4](forskrift/2026-06-23-1250/§4) kan ilegge produsenter eller leverandører overtredelsesgebyr på inntil 3 prosent av foretakets omsetning dersom foretaket eller noen som handler på dennes vegne, forsettlig eller uaktsomt:
+
+1. ikke etterkommer pålegg etter [§ 8](forskrift/2026-06-23-1250/§8).
+2. overtrer forpliktelsen til å informere om påviste sårbarheter eller uregelmessigheter etter [cybersikkerhetsforordningen](eu/32019r0881) artikkel 56 nr. 8.
+3. utsteder en EU-samsvarserklæring etter [cybersikkerhetsforordningen](eu/32019r0881) artikkel 53 uten at kravene som følger av sertifiseringsordningen er oppfylt.
 
 Omsetningen er foretakets samlede årsomsetning i det forutgående regnskapsåret, dersom siste godkjente årsregnskap foreligger.
 

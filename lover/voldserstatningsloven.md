@@ -15,7 +15,7 @@ xml_hash: "b71b5939b6a550ad111a839f0c5658c8dab3ed43d9873947760b9fa027520ae8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,12 @@ Krav om utbetaling etter første ledd må være fremmet for Kontoret for voldsof
 
 ## § 7. Utbetaling av erstatning som ikke er tilkjent ved dom
 
-Søknad om erstatning kan fremmes for Kontoret for voldsoffererstatning dersom forholdet er anmeldt ogstraffesaken er avsluttet uten domstolbehandling,det er avsagt fraværsdom eller inngått rettsforlik om erstatningskravet,erstatningskravet ikke ble behandlet i straffesaken fordi det åpenbart var mest hensiktsmessig å behandle kravet i sivilprosessens former, jf. [straffeprosessloven § 427](lov/1981-05-22-25/§427) femte ledd og [§ 428](lov/1981-05-22-25/§428) fjerde ledd, eller fordi det var til uforholdsmessig ulempe for påtalemyndigheten å fremme kravet i straffesaken, jf. [straffeprosessloven § 427](lov/1981-05-22-25/§427) andre ledd andre punktum ellerdet vil være uforholdsmessig tyngende for den voldsutsatte eller dennes etterlatte å vente med å få erstatningskravet behandlet til straffesaken er avsluttet.
+Søknad om erstatning kan fremmes for Kontoret for voldsoffererstatning dersom forholdet er anmeldt og
+
+1. straffesaken er avsluttet uten domstolbehandling,
+2. det er avsagt fraværsdom eller inngått rettsforlik om erstatningskravet,
+3. erstatningskravet ikke ble behandlet i straffesaken fordi det åpenbart var mest hensiktsmessig å behandle kravet i sivilprosessens former, jf. [straffeprosessloven § 427](lov/1981-05-22-25/§427) femte ledd og [§ 428](lov/1981-05-22-25/§428) fjerde ledd, eller fordi det var til uforholdsmessig ulempe for påtalemyndigheten å fremme kravet i straffesaken, jf. [straffeprosessloven § 427](lov/1981-05-22-25/§427) andre ledd andre punktum eller
+4. det vil være uforholdsmessig tyngende for den voldsutsatte eller dennes etterlatte å vente med å få erstatningskravet behandlet til straffesaken er avsluttet.
 
 Søknaden må fremmes innen ett år etter at endelig påtaleavgjørelse er truffet eller dom i straffesaken eller rettsforlik er rettskraftig. Er saken henlagt på grunn av strafferettslig foreldelse, må søknaden i tillegg være fremmet før kravet mot skadevolderen er foreldet etter reglene i [foreldelsesloven](lov/1979-05-18-18).
 
@@ -70,7 +75,11 @@ Kongen kan i forskrift gi nærmere regler om saksbehandlingen etter bestemmelsen
 
 ## § 8. Tilleggserstatning
 
-Selv om den voldsutsatte eller dennes etterlatte har fått utbetalt erstatning i samsvar med dommen mot skadevolderen i medhold av [§ 6](lov/2022-06-17-57/§6), kan det etter søknad til Kontoret for voldsoffererstatning utbetales tilleggserstatning dersomdet er klart at kravet ikke kunne vært fremmet og behandlet i straffesaken fordi kravet ikke var modent da straffesaken ble behandlet, og den voldsutsatte eller dennes etterlatte har krav på vesentlig høyere erstatning, eller dersom vilkårene for ny behandling etter [skadeserstatningsloven § 3-8](lov/1969-06-13-26/§3-8) er oppfylt,erstatningsbeløpet i dommen ble avkortet i medhold av [skadeserstatningsloven § 1-1](lov/1969-06-13-26/§1-1), [§ 1-3](lov/1969-06-13-26/§1-3) eller [§ 5-2](lov/1969-06-13-26/§5-2) første punktum ellererstatningen ble avkortet til 60 ganger grunnbeløpet i medhold av [§ 5](lov/2022-06-17-57/§5).
+Selv om den voldsutsatte eller dennes etterlatte har fått utbetalt erstatning i samsvar med dommen mot skadevolderen i medhold av [§ 6](lov/2022-06-17-57/§6), kan det etter søknad til Kontoret for voldsoffererstatning utbetales tilleggserstatning dersom
+
+1. det er klart at kravet ikke kunne vært fremmet og behandlet i straffesaken fordi kravet ikke var modent da straffesaken ble behandlet, og den voldsutsatte eller dennes etterlatte har krav på vesentlig høyere erstatning, eller dersom vilkårene for ny behandling etter [skadeserstatningsloven § 3-8](lov/1969-06-13-26/§3-8) er oppfylt,
+2. erstatningsbeløpet i dommen ble avkortet i medhold av [skadeserstatningsloven § 1-1](lov/1969-06-13-26/§1-1), [§ 1-3](lov/1969-06-13-26/§1-3) eller [§ 5-2](lov/1969-06-13-26/§5-2) første punktum eller
+3. erstatningen ble avkortet til 60 ganger grunnbeløpet i medhold av [§ 5](lov/2022-06-17-57/§5).
 
 I saker der den voldsutsatte eller dennes etterlatte har fått utbetalt erstatning i medhold av [§ 7](lov/2022-06-17-57/§7), kan det etter søknad til Kontoret for voldsoffererstatning utbetales tilleggserstatning dersom det er klart at kravet ikke kunne vært fremmet da Kontoret for voldsoffererstatning behandlet søknaden fordi kravet ikke var modent og den voldsutsatte eller dennes etterlatte har krav på vesentlig høyere erstatning, eller dersom vilkårene for ny behandling etter [skadeserstatningsloven § 3-8](lov/1969-06-13-26/§3-8) er oppfylt.
 

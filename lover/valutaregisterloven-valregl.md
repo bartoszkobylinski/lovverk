@@ -15,7 +15,7 @@ xml_hash: "df89ff38b9ee3b8f26ecfc068c3e8e4ba955fdf6c090bba5c9e5ec403503e392"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,11 +32,16 @@ Opplysningene i registeret skal også kunne brukes til ivaretakelse av Norges Ba
 
 ## § 2. Begreper
 
-I denne lov forstås med:Betalingsmidler:
-Norske og utenlandske pengesedler, mynter, veksler, sjekker og andre anvisninger eller akkreditiver som gir rett til betaling i norske eller utenlandske pengesedler og mynter.Valutaveksling:
-Kjøp og salg av utenlandske betalingsmidler.Behandlingsansvarlig:
-Den enhet som er gitt i ansvar å samle inn opplysninger samt vedlikeholde og drifte registeret.Norge:
-Det norske fastland og alt område innenfor territorialgrensen.
+I denne lov forstås med:
+
+1. Betalingsmidler:
+   Norske og utenlandske pengesedler, mynter, veksler, sjekker og andre anvisninger eller akkreditiver som gir rett til betaling i norske eller utenlandske pengesedler og mynter.
+2. Valutaveksling:
+   Kjøp og salg av utenlandske betalingsmidler.
+3. Behandlingsansvarlig:
+   Den enhet som er gitt i ansvar å samle inn opplysninger samt vedlikeholde og drifte registeret.
+4. Norge:
+   Det norske fastland og alt område innenfor territorialgrensen.
 
 ## § 3. Register over valutaveksling og overføring av betalingsmidler inn og ut av Norge
 

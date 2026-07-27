@@ -32,7 +32,15 @@ Nasjonalbiblioteket skal gjennom informasjonstiltak, kontroll og purrerutinar sy
 
 ## § 2. Dokument omfatta av avleveringsplikta
 
-Avleveringa gjeld fysiske og digitale dokument som erskriftlegelevande bilete og filmlydfestingarkombinasjonar av bokstav a, b og clyd- og biletprogramdataspelnettbaserte.
+Avleveringa gjeld fysiske og digitale dokument som er
+
+1. skriftlege
+2. levande bilete og film
+3. lydfestingar
+4. kombinasjonar av bokstav a, b og c
+5. lyd- og biletprogram
+6. dataspel
+7. nettbaserte.
 
 ## § 3. Forma og kvaliteten på eit dokument
 
@@ -62,7 +70,10 @@ Nasjonalbiblioteket kan avtale med den avleveringspliktige andre tidspunkt for �
 
 ## § 7. Avgrensingar
 
-Eit dokument er ikkje omfatta av avleveringsplikta når deter laga i Noreg for ein utanlandsk utgjevar berre for ein utanlandsk marknadvert gjort tilgjengeleg berre ved utdeling, framsyning eller framføring som del av undervisning, føredrag eller liknande.
+Eit dokument er ikkje omfatta av avleveringsplikta når det
+
+1. er laga i Noreg for ein utanlandsk utgjevar berre for ein utanlandsk marknad
+2. vert gjort tilgjengeleg berre ved utdeling, framsyning eller framføring som del av undervisning, føredrag eller liknande.
 
 Nasjonalbiblioteket kan lempe på eller heilt gjere unnatak frå avleveringsplikta.
 
@@ -72,7 +83,12 @@ Avleveringsplikta skal delast mellom den som har produsert dokumentet og utgjeva
 
 Er eit dokument produsert i Noreg, skal den som har produsert det levere tre eksemplar og utgjevaren fire.
 
-Utgjevaren skal levere alle avleveringseksemplara dersomdokumentet er digitaltdokumentet er ei avisdelar av dokumentet vert produsert av fleire produsentarutgjevaren har produsert dokumentet sjølv eller har fått det laga i utlandet.
+Utgjevaren skal levere alle avleveringseksemplara dersom
+
+1. dokumentet er digitalt
+2. dokumentet er ei avis
+3. delar av dokumentet vert produsert av fleire produsentar
+4. utgjevaren har produsert dokumentet sjølv eller har fått det laga i utlandet.
 
 Produsenten skal levere alle avleveringseksemplara dersom utgjevaren er utanlandsk.
 
@@ -84,7 +100,13 @@ Nasjonalbiblioteket kan fastsetje ei anna fordeling eller leggje heile avleverin
 
 Dokument som vert levert inn med inntil sju eksemplar, skal Nasjonalbiblioteket vidaresende til universitetsbiblioteka i Oslo, Bergen, Trondheim og Tromsø og til Sametingets bibliotek i Karasjok.
 
-Dei mottekne eksemplara skal vidaresendast etter prioriteringa her slik atdet første eksemplaret er tryggingseksemplar i Nasjonalbiblioteketdet andre eksemplaret er brukseksemplar til Nasjonalbiblioteketdet tredje eksemplaret er fjernlånseksemplar til depotbiblioteket ved Nasjonalbiblioteketdet fjerde, femte og sjette eksemplaret vert fordelte til universitetsbiblioteka i Bergen, Trondheim og Tromsø med jamt vekslande prioritering. Dersom ein monaleg del av innhaldet er på samisk språk eller ein monaleg del av innhaldet omhandlar samiske forhold skal det eksemplaret som er meint for Bergen fordelast til Sametingets bibliotekdet sjuande eksemplaret vert fordelt til Universitetsbiblioteket i Oslo.
+Dei mottekne eksemplara skal vidaresendast etter prioriteringa her slik at
+
+1. det første eksemplaret er tryggingseksemplar i Nasjonalbiblioteket
+2. det andre eksemplaret er brukseksemplar til Nasjonalbiblioteket
+3. det tredje eksemplaret er fjernlånseksemplar til depotbiblioteket ved Nasjonalbiblioteket
+4. det fjerde, femte og sjette eksemplaret vert fordelte til universitetsbiblioteka i Bergen, Trondheim og Tromsø med jamt vekslande prioritering. Dersom ein monaleg del av innhaldet er på samisk språk eller ein monaleg del av innhaldet omhandlar samiske forhold skal det eksemplaret som er meint for Bergen fordelast til Sametingets bibliotek
+5. det sjuande eksemplaret vert fordelt til Universitetsbiblioteket i Oslo.
 
 ## § 10. Bevaringsplikta og registreringa
 
@@ -98,9 +120,35 @@ Inndrege dokument etter [pliktavleveringslova § 7](lov/1989-06-09-32/§7) skal 
 
 ## § 11. Skriftlege dokument
 
-Som skriftlege dokument reknastbøkernummererte og unummerete seriar av til dømes rapportar, skrift og særtrykkperiodiske skriftstykke som til dømes tidsskrift, vekeblad, aviser, bedriftsaviser, medlemsblad og kyrkjelydsbladbrosjyrarflygeblad og opproprettleiingshefte, katalogar og faldarar som til dømes muséguidar, utstillingskatalogar og turisthandbøkerlover, reglement, statuttar og vedtekter for bedrifter, lag, institusjonar og organisasjonarprislister og reklameprentprogram for til dømes idrettsarrangement, konsertar og teaterframsyningar og politiske partirundskrivtabellar – t.d. lønstariffarårsmeldingar, kvartalsrapportar o.l. frå bedrifter, lag, institusjonar og organisasjonarbilet-, kart- og musikkprent, grafiske tabellar og planar, plakatar, postkort, prospekt og plansjardokument i blindeskrift når informasjonen berre finst i denne skriftformaandre allment tilgjengelege skriftlege dokument som ikkje er nemnde i andre ledd.
+Som skriftlege dokument reknast
 
-Desse skriftlege dokumenta skal likevel ikkje avleverastblankettar, formular, skjema og liknande som skal fyllast utetikettar, skrivepapir og konvoluttar med preg, visittkort, adressekort og liknandeemballasjetrykk i varehandelendokument i blindeskrift dersom den same informasjonen ligg føre i vanleg skriftdokument som i all hovudsak inneheld informasjon som er direkte utdrag frå andre allment tilgjengelege dokumentspel, utklippsbilete og kalendrar utan annan tekst enn datoarinnbydingar og menyarbillettar, lodd og andre verdirepresentativkunstverk som målarstykke, grafiske blad og liknande.
+1. bøker
+2. nummererte og unummerete seriar av til dømes rapportar, skrift og særtrykk
+3. periodiske skriftstykke som til dømes tidsskrift, vekeblad, aviser, bedriftsaviser, medlemsblad og kyrkjelydsblad
+4. brosjyrar
+5. flygeblad og opprop
+6. rettleiingshefte, katalogar og faldarar som til dømes muséguidar, utstillingskatalogar og turisthandbøker
+7. lover, reglement, statuttar og vedtekter for bedrifter, lag, institusjonar og organisasjonar
+8. prislister og reklameprent
+9. program for til dømes idrettsarrangement, konsertar og teaterframsyningar og politiske parti
+10. rundskriv
+11. tabellar – t.d. lønstariffar
+12. årsmeldingar, kvartalsrapportar o.l. frå bedrifter, lag, institusjonar og organisasjonar
+13. bilet-, kart- og musikkprent, grafiske tabellar og planar, plakatar, postkort, prospekt og plansjar
+14. dokument i blindeskrift når informasjonen berre finst i denne skriftforma
+15. andre allment tilgjengelege skriftlege dokument som ikkje er nemnde i andre ledd.
+
+Desse skriftlege dokumenta skal likevel ikkje avleverast
+
+1. blankettar, formular, skjema og liknande som skal fyllast ut
+2. etikettar, skrivepapir og konvoluttar med preg, visittkort, adressekort og liknande
+3. emballasjetrykk i varehandelen
+4. dokument i blindeskrift dersom den same informasjonen ligg føre i vanleg skrift
+5. dokument som i all hovudsak inneheld informasjon som er direkte utdrag frå andre allment tilgjengelege dokument
+6. spel, utklippsbilete og kalendrar utan annan tekst enn datoar
+7. innbydingar og menyar
+8. billettar, lodd og andre verdirepresentativ
+9. kunstverk som målarstykke, grafiske blad og liknande.
 
 ## § 12. Levande bilete og film
 

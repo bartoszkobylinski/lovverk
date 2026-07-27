@@ -36,7 +36,12 @@ Forskriftens formål er å ivareta sikkerhet, helse og arbeidsmiljø i virksomhe
 
 ### § 3. Definisjoner
 
-I denne forskriften menes med:*bilpleie:* innvendig og utvendig vask av bil, samt vedlikehold og reparasjon av lakkerte og ulakkerte overflater og interiør i bilen, og reparasjon av småskader som ripeskader, steinsprut og lignende.*hjulskift:* av- og påmontering av dekk som er ferdig montert på felg.*hjullagring:* oppbevaring av dekk som er ferdig montert på felg.*bil:* kjøretøy som faller inn under definisjonen av bil i [forskrift 4. oktober 1994 nr. 918 om tekniske krav og godkjenning av kjøretøy, deler og utstyr § 2-2](forskrift/1994-10-04-918/§2-2).
+I denne forskriften menes med:
+
+1. *bilpleie:* innvendig og utvendig vask av bil, samt vedlikehold og reparasjon av lakkerte og ulakkerte overflater og interiør i bilen, og reparasjon av småskader som ripeskader, steinsprut og lignende.
+2. *hjulskift:* av- og påmontering av dekk som er ferdig montert på felg.
+3. *hjullagring:* oppbevaring av dekk som er ferdig montert på felg.
+4. *bil:* kjøretøy som faller inn under definisjonen av bil i [forskrift 4. oktober 1994 nr. 918 om tekniske krav og godkjenning av kjøretøy, deler og utstyr § 2-2](forskrift/1994-10-04-918/§2-2).
 
 ### § 4. Krav om godkjenning
 
@@ -50,13 +55,25 @@ Godkjent virksomhet skal innføres i et eget register, jf. [§ 7](forskrift/2022
 
 ### § 6. Vilkår for godkjenning
 
-(1) Virksomheten skal legge frem dokumentasjon som viser at den:oppfyller plikten til å ha godkjent bedriftshelsetjeneste i henhold til [arbeidsmiljøloven § 3-3](lov/2005-06-17-62/§3-3),oppfyller kravet om vernetjeneste i henhold til [arbeidsmiljøloven kapittel 6](lov/2005-06-17-62/kap6) og [7](lov/2005-06-17-62/kap7),har skriftlige arbeidsavtaler i henhold til [arbeidsmiljøloven § 14-5](lov/2005-06-17-62/§14-5) og [§ 14-6](lov/2005-06-17-62/§14-6) for alle grupper av ansatte i virksomheten,oppfyller vilkårene i til enhver tid gjeldende forskrift om allmenngjøring av tariffavtale som virksomhetene er omfattet av, oghar en ordning som sikrer arbeidstakerne økonomisk kompensasjon i tilfelle yrkesskade.
+(1) Virksomheten skal legge frem dokumentasjon som viser at den:
+
+1. oppfyller plikten til å ha godkjent bedriftshelsetjeneste i henhold til [arbeidsmiljøloven § 3-3](lov/2005-06-17-62/§3-3),
+2. oppfyller kravet om vernetjeneste i henhold til [arbeidsmiljøloven kapittel 6](lov/2005-06-17-62/kap6) og [7](lov/2005-06-17-62/kap7),
+3. har skriftlige arbeidsavtaler i henhold til [arbeidsmiljøloven § 14-5](lov/2005-06-17-62/§14-5) og [§ 14-6](lov/2005-06-17-62/§14-6) for alle grupper av ansatte i virksomheten,
+4. oppfyller vilkårene i til enhver tid gjeldende forskrift om allmenngjøring av tariffavtale som virksomhetene er omfattet av, og
+5. har en ordning som sikrer arbeidstakerne økonomisk kompensasjon i tilfelle yrkesskade.
 
 (2) Virksomhet som er omfattet av [forurensningsforskriften § 15-1](forskrift/2004-06-01-931/§15-1) skal i tillegg legge frem dokumentasjon som viser at den har gyldig utslippstillatelse etter [forurensningsforskriften kapittel 15](forskrift/2004-06-01-931/kap15).
 
 (3) For virksomhet med utenlandsk arbeidstaker fra land utenfor EØS skal det dokumenteres at arbeidstakeren har oppholdstillatelse i den grad det er påkrevet for det aktuelle arbeidsforholdet. Tilsvarende gjelder for innehaver av enkeltpersonforetak fra land utenfor EØS.
 
-(4) Virksomheten må sørge for at pålagte registreringsplikter i følgende offentlige registre er oppfylt:EnhetsregisteretForetaksregisteretDet sentrale folkeregisteret. Personer som er bosatt på Svalbard skal oppfylle plikten til å være registrert i registeret over befolkningen på Svalbard, jf. [forskrift 4. februar 1994 nr. 111 om register over befolkningen på Svalbard](forskrift/1994-02-04-111)MerverdiavgiftsregisteretArbeidstaker- og arbeidsgiverregisteret.
+(4) Virksomheten må sørge for at pålagte registreringsplikter i følgende offentlige registre er oppfylt:
+
+1. Enhetsregisteret
+2. Foretaksregisteret
+3. Det sentrale folkeregisteret. Personer som er bosatt på Svalbard skal oppfylle plikten til å være registrert i registeret over befolkningen på Svalbard, jf. [forskrift 4. februar 1994 nr. 111 om register over befolkningen på Svalbard](forskrift/1994-02-04-111)
+4. Merverdiavgiftsregisteret
+5. Arbeidstaker- og arbeidsgiverregisteret.
 
 (5) Virksomheten må oppfylle pålagt opplysningsplikt i henhold til [skatteforvaltningsloven § 7-6](lov/2016-05-27-14/§7-6).
 
@@ -64,7 +81,13 @@ Godkjent virksomhet skal innføres i et eget register, jf. [§ 7](forskrift/2022
 
 ### § 7. Register over virksomheter
 
-(1) Arbeidstilsynet skal føre et register over virksomheter som er godkjent etter [§ 6](forskrift/2022-02-11-206/§6), har søknad til behandling eller ikke har fått innvilget søknad om godkjenning. Virksomheter som inngår i registeret, skal stå oppført med en av følgende statuser:godkjent med ansattegodkjent uten ansattesøknad under behandlingHMS-kortbestilling under behandlingikke godkjent.
+(1) Arbeidstilsynet skal føre et register over virksomheter som er godkjent etter [§ 6](forskrift/2022-02-11-206/§6), har søknad til behandling eller ikke har fått innvilget søknad om godkjenning. Virksomheter som inngår i registeret, skal stå oppført med en av følgende statuser:
+
+1. godkjent med ansatte
+2. godkjent uten ansatte
+3. søknad under behandling
+4. HMS-kortbestilling under behandling
+5. ikke godkjent.
 
 (2) Registeret skal være offentlig tilgjengelig.
 
@@ -124,7 +147,15 @@ Ved tilbakekall av godkjenning etter [§ 8](forskrift/2022-02-11-206/§8) tredje
 
 ### § 15. Krav til opplysninger på HMS-kortet
 
-HMS-kortet skal inneholde følgende opplysninger på norsk og engelsk:organisasjonsnummer og navn på arbeidsgiver eller enkeltpersonforetaknavn på kortinnehaverenbilde av kortinnehaverenkortinnehaverens fødselsdatoutstedelsesdatokortnummernavn på utsteder av kortet.
+HMS-kortet skal inneholde følgende opplysninger på norsk og engelsk:
+
+1. organisasjonsnummer og navn på arbeidsgiver eller enkeltpersonforetak
+2. navn på kortinnehaveren
+3. bilde av kortinnehaveren
+4. kortinnehaverens fødselsdato
+5. utstedelsesdato
+6. kortnummer
+7. navn på utsteder av kortet.
 
 ### § 16. Kortinnehavers ansvar
 

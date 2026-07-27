@@ -24,7 +24,9 @@ eu_basis: []
 
 ## I
 
-I [forskrift av 27. juni 1997 nr. 653](forskrift/1997-06-27-653) til lov om petroleumsvirksomhet gjøres følgende endringer:---
+I [forskrift av 27. juni 1997 nr. 653](forskrift/1997-06-27-653) til lov om petroleumsvirksomhet gjøres følgende endringer:
+
+---
 
 ## II
 

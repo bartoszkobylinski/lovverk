@@ -30,7 +30,12 @@ Denne forskriften fastsetter krav til internkontrollsystem for å ivareta krav f
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med*det måletekniske regelverket:* bestemmelser gitt i eller i medhold av [lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid](lov/2007-01-26-4)*internkontrollsystem:* systematiske og dokumenterte tiltak som skal sikre at virksomheten overholder krav fastsatt i det måletekniske regelverket*sporbarhet:* egenskapen til et måleresultat der måleresultatet kan knyttes til en referanse gjennom en dokumentert, ubrutt kjede av kalibreringer som er relatert til de internasjonale SI-enhetene*kalibrering:* sammenligning av et måleredskap med en referansenormal, et mer nøyaktig måleredskap eller med et referansemateriale.
+I denne forskriften menes med
+
+1. *det måletekniske regelverket:* bestemmelser gitt i eller i medhold av [lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid](lov/2007-01-26-4)
+2. *internkontrollsystem:* systematiske og dokumenterte tiltak som skal sikre at virksomheten overholder krav fastsatt i det måletekniske regelverket
+3. *sporbarhet:* egenskapen til et måleresultat der måleresultatet kan knyttes til en referanse gjennom en dokumentert, ubrutt kjede av kalibreringer som er relatert til de internasjonale SI-enhetene
+4. *kalibrering:* sammenligning av et måleredskap med en referansenormal, et mer nøyaktig måleredskap eller med et referansemateriale.
 
 ## Kapittel 2. Krav til internkontrollsystemet
 
@@ -42,9 +47,27 @@ Den som er ansvarlig for virksomheten skal sørge for at det innføres internkon
 
 Internkontrollsystemet skal tilpasses virksomhetens art, aktiviteter, risikoforhold og størrelse, og utformes slik at kravene i det måletekniske regelverket overholdes.
 
-Internkontrollsystemet skal sørge for at det måletekniske regelverket etterleves og skal minimum inneholdebeskrivelse av virksomhetens organisasjon, herunder fordeling av ansvar, oppgaver og myndighet knyttet til etterlevelse av det måletekniske regelverket, samt hvem som er ansvarlig for drift og oppfølging av internkontrollsystemet for måleredskaper og målingerrutiner for bruk og vedlikehold av måleredskaperoversikt over måleredskaper og målinger omfattet av internkontrollsystemet og utstyr som brukes ved kontroll av disserutiner for systematisk kontroll og overvåkning som avdekker avvik fra krav i det måletekniske regelverketrutiner for å korrigere og forebygge avvik fra krav i det måletekniske regelverketrutiner for å avdekke, korrigere og forebygge avvik fra interne rutiner som skal sikre etterlevelse av det måletekniske regelverketrutiner som sikrer at personell som utfører oppgaver relatert til det måletekniske regelverket får nødvendig opplæringrutiner som sørger for at varer og tjenester levert av eksterne har tilstrekkelig kvalitet, når slike varer og tjenester kan ha påvirkning på måleredskaper eller målinger som er omfattet av internkontrollsystemetrutiner for styring av dokumentasjon som er nødvendig i internkontrollsystemetrutiner for systematisk overvåking og gjennomgang av internkontrollsystemet for å sikre at det er egnet til å oppfylle gjeldende krav.
+Internkontrollsystemet skal sørge for at det måletekniske regelverket etterleves og skal minimum inneholde
 
-Internkontrollsystemet skal inneholde rutiner for å registrere det som er nødvendig for å dokumentere at internkontrollsystemet etterleves, herunder minst registrering avresultater av systematisk kontroll og overvåkning som gjennomføres for å avdekke avvik fra det måletekniske regelverketavvik samt vurdering av hvilken betydning disse kan ha på måleresultatene og årsaken til at avvikene har oppståttgjennomført opplæring eller videreopplæringvedlikehold som kan ha innvirkning på måleresultatene,resultater fra systematisk overvåking og gjennomgang av internkontrollsystemetdokumentasjon på at utstyr som brukes til å gjennomføre systematisk kontroll og overvåkning etter første ledd bokstav d) og til å korrigere avvik etter første ledd 4 bokstav e) tilfredsstiller kravene til kalibrering og nøyaktighet etter [§ 6](forskrift/2026-03-12-399/§6).
+1. beskrivelse av virksomhetens organisasjon, herunder fordeling av ansvar, oppgaver og myndighet knyttet til etterlevelse av det måletekniske regelverket, samt hvem som er ansvarlig for drift og oppfølging av internkontrollsystemet for måleredskaper og målinger
+2. rutiner for bruk og vedlikehold av måleredskaper
+3. oversikt over måleredskaper og målinger omfattet av internkontrollsystemet og utstyr som brukes ved kontroll av disse
+4. rutiner for systematisk kontroll og overvåkning som avdekker avvik fra krav i det måletekniske regelverket
+5. rutiner for å korrigere og forebygge avvik fra krav i det måletekniske regelverket
+6. rutiner for å avdekke, korrigere og forebygge avvik fra interne rutiner som skal sikre etterlevelse av det måletekniske regelverket
+7. rutiner som sikrer at personell som utfører oppgaver relatert til det måletekniske regelverket får nødvendig opplæring
+8. rutiner som sørger for at varer og tjenester levert av eksterne har tilstrekkelig kvalitet, når slike varer og tjenester kan ha påvirkning på måleredskaper eller målinger som er omfattet av internkontrollsystemet
+9. rutiner for styring av dokumentasjon som er nødvendig i internkontrollsystemet
+10. rutiner for systematisk overvåking og gjennomgang av internkontrollsystemet for å sikre at det er egnet til å oppfylle gjeldende krav.
+
+Internkontrollsystemet skal inneholde rutiner for å registrere det som er nødvendig for å dokumentere at internkontrollsystemet etterleves, herunder minst registrering av
+
+1. resultater av systematisk kontroll og overvåkning som gjennomføres for å avdekke avvik fra det måletekniske regelverket
+2. avvik samt vurdering av hvilken betydning disse kan ha på måleresultatene og årsaken til at avvikene har oppstått
+3. gjennomført opplæring eller videreopplæring
+4. vedlikehold som kan ha innvirkning på måleresultatene,
+5. resultater fra systematisk overvåking og gjennomgang av internkontrollsystemet
+6. dokumentasjon på at utstyr som brukes til å gjennomføre systematisk kontroll og overvåkning etter første ledd bokstav d) og til å korrigere avvik etter første ledd 4 bokstav e) tilfredsstiller kravene til kalibrering og nøyaktighet etter [§ 6](forskrift/2026-03-12-399/§6).
 
 Beskrivelser, oversikter og rutiner skal være skriftlige. Registreringer skal være leselige, identifiserbare og enkle å finne igjen, og skal oppbevares i 2 år eller til neste tilsyn.
 

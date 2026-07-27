@@ -44,7 +44,19 @@ Kapittel I, II og V gjelder hele landet. [Kapittel](forskrift/2017-08-29-1318/ka
 
 ### § 3. Definisjoner
 
-I denne forskrift forstås med:*Akkreditert laboratorium:* Et laboratorium som er akkreditert i samsvar med europeisk standard EN ISO/IEC 17025 «generelle krav til prøvetakings- og kalibreringslaboratoriers kompetanse» for testing for SAV.*Fisk:* Laks, ørret, regnbueørret, røye og rensefisk.*Mistanke om PD:* Påvisning av SAV med PCR eller dyrking, kliniske eller patologiske forandringer forenlig med PD, eller påvisning av antistoff mot PD (serologi).*PD:* Infeksjon med Salmonid alphavirus (SAV).*Påvist PD:* Påvisning av SAV med to uavhengige laboratoriemetoder som RT-PCR, serologi, dyrkning i cellekultur eller histopatologi.*Rensefisk:* Fisk som er ment for eller brukes til å redusere antall parasitter på fisk i akvakulturanlegg.*SAV:* Salmonid alphavirus.*Servicefartøy:* Båter og installasjoner som benyttes ved driftsmessige oppgaver i et akvakulturanlegg, inkludert ensilasjebåter som anløper flåte eller landbase, men unntatt fôrbåter.*Servicepersonell:* Dykkere og andre som utfører arbeid i et akvakulturanlegg.*Ubehandlet sjøvann:* Sjøvann som ikke er behandlet i henhold til krav fastsatt i [forskrift 20. februar 1997 nr. 192](forskrift/1997-02-20-192) om desinfeksjon av inntaksvann til og avløpsvann fra akvakulturrelatert virksomhet, [§ 10](forskrift/1997-02-20-192/§10) pkt. 1.*Åpen slaktemerd:* Slaktemerd som slipper ut ubehandlet sjøvann
+I denne forskrift forstås med:
+
+1. *Akkreditert laboratorium:* Et laboratorium som er akkreditert i samsvar med europeisk standard EN ISO/IEC 17025 «generelle krav til prøvetakings- og kalibreringslaboratoriers kompetanse» for testing for SAV.
+2. *Fisk:* Laks, ørret, regnbueørret, røye og rensefisk.
+3. *Mistanke om PD:* Påvisning av SAV med PCR eller dyrking, kliniske eller patologiske forandringer forenlig med PD, eller påvisning av antistoff mot PD (serologi).
+4. *PD:* Infeksjon med Salmonid alphavirus (SAV).
+5. *Påvist PD:* Påvisning av SAV med to uavhengige laboratoriemetoder som RT-PCR, serologi, dyrkning i cellekultur eller histopatologi.
+6. *Rensefisk:* Fisk som er ment for eller brukes til å redusere antall parasitter på fisk i akvakulturanlegg.
+7. *SAV:* Salmonid alphavirus.
+8. *Servicefartøy:* Båter og installasjoner som benyttes ved driftsmessige oppgaver i et akvakulturanlegg, inkludert ensilasjebåter som anløper flåte eller landbase, men unntatt fôrbåter.
+9. *Servicepersonell:* Dykkere og andre som utfører arbeid i et akvakulturanlegg.
+10. *Ubehandlet sjøvann:* Sjøvann som ikke er behandlet i henhold til krav fastsatt i [forskrift 20. februar 1997 nr. 192](forskrift/1997-02-20-192) om desinfeksjon av inntaksvann til og avløpsvann fra akvakulturrelatert virksomhet, [§ 10](forskrift/1997-02-20-192/§10) pkt. 1.
+11. *Åpen slaktemerd:* Slaktemerd som slipper ut ubehandlet sjøvann
 
 > Endret ved [forskrift 25 juni 2019 nr. 920](forskrift/2019-06-25-920).
 
@@ -72,7 +84,11 @@ Akkrediterte laboratorier skal sende månedlige oppsummeringer av analyseresulta
 
 Ved mistanke om PD i et akvakulturanlegg der sykdommen ikke er påvist, skal det umiddelbart tas ut organprøver som legges på formalin fra minst 10 fisk, samt spongiøst vev fra hjertets ventrikkel og midtnyre som legges på RNAlater. I overvåkingssonene skal det også tas ut vev på virustransportmedium fra de samme 10 fiskene. Prøvene skal umiddelbart sendes til Nasjonalt referanselaboratorium. Opplysninger om fisken er vaksinert mot PD, og med hvilken vaksine, skal følge prøvene.
 
-Dersom det oppstår mistanke om PD som ikke blir bekreftet gjennom analyser av prøver etter første ledd, skal det søkes å bekrefte eller avkrefte mistanken gjennom følgende prøvetakingsopplegg:Det skal tas ut prøver av spongiøst vev fra hjertets ventrikkel fra minst 60 fisk i løpet av hver kalendermåned i fire måneder etter siste positive prøve.Prøvene skal sendes til akkreditert laboratorium for individuell analyse med PCR for SAV innen to virkedager etter at tilstrekkelig antall prøver er tatt ut i henhold til bokstav a.Ved nye positive prøver, skal det umiddelbart sendes inn organprøver på formalin, samt spongiøst vev fra hjertets ventrikkel og midtnyre på RNAlater fra minst 10 fisk til Nasjonalt referanselaboratorium. I overvåkingssonene skal det i tillegg tas ut vev på virustransportmedium fra de samme 10 fiskene.
+Dersom det oppstår mistanke om PD som ikke blir bekreftet gjennom analyser av prøver etter første ledd, skal det søkes å bekrefte eller avkrefte mistanken gjennom følgende prøvetakingsopplegg:
+
+1. Det skal tas ut prøver av spongiøst vev fra hjertets ventrikkel fra minst 60 fisk i løpet av hver kalendermåned i fire måneder etter siste positive prøve.
+2. Prøvene skal sendes til akkreditert laboratorium for individuell analyse med PCR for SAV innen to virkedager etter at tilstrekkelig antall prøver er tatt ut i henhold til bokstav a.
+3. Ved nye positive prøver, skal det umiddelbart sendes inn organprøver på formalin, samt spongiøst vev fra hjertets ventrikkel og midtnyre på RNAlater fra minst 10 fisk til Nasjonalt referanselaboratorium. I overvåkingssonene skal det i tillegg tas ut vev på virustransportmedium fra de samme 10 fiskene.
 
 Såfremt det gjennom undersøkelsene etter annet ledd ikke avdekkes noen nye positive prøver, anses mistanken som avkreftet.
 

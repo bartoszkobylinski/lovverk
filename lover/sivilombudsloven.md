@@ -36,13 +36,23 @@ Oppnevningen skjer etter offentlig kunngjøring av vervet, med mindre ombudet gj
 
 ### § 3. Oppgaver
 
-Sivilombudet kan undersøke og uttale sin mening omklager mot forvaltningen, jf. [kapittel 2](lov/2021-06-18-121/kap2),forhold som ombudet selv tar opp, jf. [kapittel 3](lov/2021-06-18-121/kap3), ogalle tilfeller hvor noen kan være underlagt offentlig frihetsberøvelse, for å forebygge tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff, jf. [kapittel 4](lov/2021-06-18-121/kap4).
+Sivilombudet kan undersøke og uttale sin mening om
+
+1. klager mot forvaltningen, jf. [kapittel 2](lov/2021-06-18-121/kap2),
+2. forhold som ombudet selv tar opp, jf. [kapittel 3](lov/2021-06-18-121/kap3), og
+3. alle tilfeller hvor noen kan være underlagt offentlig frihetsberøvelse, for å forebygge tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff, jf. [kapittel 4](lov/2021-06-18-121/kap4).
 
 ### § 4. Arbeidsområde
 
 Sivilombudets arbeidsområde omfatter den offentlige forvaltningen og alle i dens tjeneste. Det omfatter også alle tilfeller hvor noen kan være underlagt offentlig frihetsberøvelse.
 
-Ombudets arbeidsområde omfatter ikkeforhold Stortinget har tatt standpunkt til, herunder saker behandlet av Stortingets utvalg for rettferdsvederlag,virksomheten i Stortingets eksterne organer og klagesaker som hører under disse,avgjørelser truffet i statsråd,domstolenes virksomhet, ogavgjørelser som er truffet av kommunestyret eller fylkestinget, som etter lov bare kan treffes av disse organene. Slike avgjørelser kan ombudet likevel ta opp til behandling når det er nødvendig av hensyn til rettssikkerheten eller andre særlige grunner.
+Ombudets arbeidsområde omfatter ikke
+
+1. forhold Stortinget har tatt standpunkt til, herunder saker behandlet av Stortingets utvalg for rettferdsvederlag,
+2. virksomheten i Stortingets eksterne organer og klagesaker som hører under disse,
+3. avgjørelser truffet i statsråd,
+4. domstolenes virksomhet, og
+5. avgjørelser som er truffet av kommunestyret eller fylkestinget, som etter lov bare kan treffes av disse organene. Slike avgjørelser kan ombudet likevel ta opp til behandling når det er nødvendig av hensyn til rettssikkerheten eller andre særlige grunner.
 
 ### § 5. Forholdet til Stortinget
 
@@ -68,7 +78,11 @@ Stortinget kan fravike og gi egne bestemmelser om forvaltningens lovfestede mynd
 
 Alle som mener seg utsatt for urett fra den offentlige forvaltningen, kan klage til Sivilombudet.
 
-Klagen skal være skriftlig og angiklagerens navn,hva det klages over, oghvorfor det klages.
+Klagen skal være skriftlig og angi
+
+1. klagerens navn,
+2. hva det klages over, og
+3. hvorfor det klages.
 
 Sammen med klagen bør det fremlegges dokumentasjon i saken.
 
@@ -104,13 +118,22 @@ Ombudet kan når som helst beslutte å avslutte undersøkelsene av en klagesak p
 
 ### § 11. Klagerens rett til dokumentinnsyn og til å uttale seg
 
-Klageren har rett til å gjøre seg kjent med dokumenter i klagesaken og uttalelser og opplysninger som er gitt i saken. Dette gjelder likevel ikkedokumenter utarbeidet eller innhentet under forvaltningens opprinnelige behandling av saken,opplysninger som klageren ikke får innsyn i hos forvaltningen, ellerombudets interne saksdokumenter.
+Klageren har rett til å gjøre seg kjent med dokumenter i klagesaken og uttalelser og opplysninger som er gitt i saken. Dette gjelder likevel ikke
+
+1. dokumenter utarbeidet eller innhentet under forvaltningens opprinnelige behandling av saken,
+2. opplysninger som klageren ikke får innsyn i hos forvaltningen, eller
+3. ombudets interne saksdokumenter.
 
 Klageren skal gis anledning til å uttale seg om forvaltningens uttalelser i saken, med mindre det åpenbart vil være uten betydning for ombudets behandling av saken.
 
 ### § 12. Avslutning av klagesaksbehandlingen
 
-På grunnlag av behandlingen av en klagesak kan Sivilombudet uttale sin mening om saken og innta standpunkt omat forvaltningen har gjort feil, handlet uforsvarlig eller opptrådt i strid med god forvaltningsskikk,at en avgjørelse er ugyldig eller klart urimelig,at det foreligger begrunnet tvil om forhold av betydning for saken, ellerat det foreligger forhold som kan medføre erstatnings- eller oppreisningsansvar.
+På grunnlag av behandlingen av en klagesak kan Sivilombudet uttale sin mening om saken og innta standpunkt om
+
+1. at forvaltningen har gjort feil, handlet uforsvarlig eller opptrådt i strid med god forvaltningsskikk,
+2. at en avgjørelse er ugyldig eller klart urimelig,
+3. at det foreligger begrunnet tvil om forhold av betydning for saken, eller
+4. at det foreligger forhold som kan medføre erstatnings- eller oppreisningsansvar.
 
 Dersom ombudet har gitt uttrykk for et standpunkt som nevnt i første ledd, kan ombudet også gi uttrykk for at feil bør rettes, at saken bør behandles på nytt, eller at det bør ytes erstatning eller oppreisning.
 
@@ -212,7 +235,10 @@ Ombudet kan underrette forvaltningen om mangler ved lover, forskrifter eller for
 
 ### § 26. Dokumentoffentlighet
 
-Dokumenter som er utarbeidet som ledd i Sivilombudets virksomhet er offentlige, med følgende unntak:dokumenter og opplysninger underlagt lovbestemt taushetsplikt, ogdokumenter utarbeidet eller innhentet under forvaltningens forutgående behandling av saker som nevnt i kapitlene 2–4.
+Dokumenter som er utarbeidet som ledd i Sivilombudets virksomhet er offentlige, med følgende unntak:
+
+1. dokumenter og opplysninger underlagt lovbestemt taushetsplikt, og
+2. dokumenter utarbeidet eller innhentet under forvaltningens forutgående behandling av saker som nevnt i kapitlene 2–4.
 
 Ombudets interne saksdokumenter og dokumenter som utveksles mellom ombudet og Stortinget om budsjett og intern administrasjon, kan unntas offentlighet.
 

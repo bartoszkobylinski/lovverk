@@ -76,15 +76,26 @@ Samanslutninga kan også krevje regress hos innehavarar av akvakulturløyve som 
 
 Årsmøtet skal haldast kvart år innan 30. juni og skal kallast inn av styret med minst tre vekers skriftleg varsel.
 
-Årsmøtet skalbehandle årsmelding og rekneskapvelje styre, styreleiar, nestleiar og revisor. Revisor skal vere statsautorisertbehandle andre saker som blir lagde fram.
+Årsmøtet skal
+
+1. behandle årsmelding og rekneskap
+2. velje styre, styreleiar, nestleiar og revisor. Revisor skal vere statsautorisert
+3. behandle andre saker som blir lagde fram.
 
 ## § 8. Styret
 
-Styret har til saman fem representantar med personlege varamedlemmer. Styremedlemmene tenestegjer i to år. Val av medlemmer til styret skjer slik:tre representantar blir valde av og frå havbruksnæringato representantar blir peika ut av Nærings- og fiskeridepartementet.
+Styret har til saman fem representantar med personlege varamedlemmer. Styremedlemmene tenestegjer i to år. Val av medlemmer til styret skjer slik:
+
+1. tre representantar blir valde av og frå havbruksnæringa
+2. to representantar blir peika ut av Nærings- og fiskeridepartementet.
 
 Det skal kallast inn til ekstraordinært årsmøte for å behandle spesielle saker når styret eller minst ein firedel av deltakarane krev det. Innkallinga skjer med minst ei vekes varsel.
 
-Styret skal årleg leggje fram for departementet ein rapport om verksemda til samanslutninga, medreknaseparat rekneskap for kontoen som også fortel korleis dei innkravde midlane og renter bokførte på kontoen er fordelteei kort framstilling av verksemda til samanslutningakorleis avgifta er utrekna og fastsette.
+Styret skal årleg leggje fram for departementet ein rapport om verksemda til samanslutninga, medrekna
+
+1. separat rekneskap for kontoen som også fortel korleis dei innkravde midlane og renter bokførte på kontoen er fordelte
+2. ei kort framstilling av verksemda til samanslutninga
+3. korleis avgifta er utrekna og fastsette.
 
 Rapporten skal vere offentleg tilgjengeleg.
 

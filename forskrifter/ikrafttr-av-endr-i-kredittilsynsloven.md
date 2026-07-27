@@ -24,7 +24,11 @@ eu_basis: []
 
 ## I
 
-Sanksjon av Stortingets vedtak 10. desember 1996 til [lov av 20. desember 1996 nr. 89](lov/1996-12-20-89) om endringer i [lov 7. desember 1956 nr. 1](lov/1956-12-07-1) om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel m.v. (Kredittilsynet) (EØS-tilpasning) og [lov 15. juli 1949 nr. 1](lov/1949-07-15-1) om Norges Kommunalbank.Lovvedtakets punkt I om endringer i lov om Norges Kommunalbank trer i kraft straks.Kredittilsynsloven § 3a annet ledd siste setning og § 7 første ledd, jf. lovvedtaket punkt II settes i kraft straks.Øvrige endringer som følge av lovvedtaket trer i kraft 1. april 1997.
+Sanksjon av Stortingets vedtak 10. desember 1996 til [lov av 20. desember 1996 nr. 89](lov/1996-12-20-89) om endringer i [lov 7. desember 1956 nr. 1](lov/1956-12-07-1) om tilsynet for kredittinstitusjoner, forsikringsselskaper og verdipapirhandel m.v. (Kredittilsynet) (EØS-tilpasning) og [lov 15. juli 1949 nr. 1](lov/1949-07-15-1) om Norges Kommunalbank.
+
+1. Lovvedtakets punkt I om endringer i lov om Norges Kommunalbank trer i kraft straks.
+2. Kredittilsynsloven § 3a annet ledd siste setning og § 7 første ledd, jf. lovvedtaket punkt II settes i kraft straks.
+3. Øvrige endringer som følge av lovvedtaket trer i kraft 1. april 1997.
 
 ## II
 

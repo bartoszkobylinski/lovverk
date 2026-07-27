@@ -24,7 +24,12 @@ eu_basis: []
 
 ## § 1. Innhenting av opplysninger fra Folkeregisteret
 
-Når det er nødvendig for å utføre oppgaver etter barnehageloven, kan offentlige myndigheter uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret om:hvem som er foreldrene til barn som mottar, eller skal motta, tjenester etter barnehagelovenhvem som har foreldreansvaret for barn som mottar, eller skal motta, tjenester etter barnehagelovenandre barn av foreldrene som er nevnt i bokstav aektefelle eller registrert partner til foreldrene som er nevnt i bokstav a.
+Når det er nødvendig for å utføre oppgaver etter barnehageloven, kan offentlige myndigheter uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret om:
+
+1. hvem som er foreldrene til barn som mottar, eller skal motta, tjenester etter barnehageloven
+2. hvem som har foreldreansvaret for barn som mottar, eller skal motta, tjenester etter barnehageloven
+3. andre barn av foreldrene som er nevnt i bokstav a
+4. ektefelle eller registrert partner til foreldrene som er nevnt i bokstav a.
 
 ## § 2. Krav til tilgangsstyring
 
@@ -36,7 +41,13 @@ Kravene i første ledd gjelder personopplysninger som er omfattet av [personoppl
 
 ## § 3. Rapportering av tjenestedata
 
-Barnehager skal rapportere følgende opplysninger om barnehagen til Utdanningsdirektoratet:informasjon om barnehagen, blant annet om organisasjonsform, profil, areal, godkjenninger og tilsyninformasjon om barna i barnehageninformasjon om ansatte, kompetanse og ressurser i barnehagenregnskap for private barnehagerinformasjon om foreldrebetaling og moderasjonsordninger
+Barnehager skal rapportere følgende opplysninger om barnehagen til Utdanningsdirektoratet:
+
+1. informasjon om barnehagen, blant annet om organisasjonsform, profil, areal, godkjenninger og tilsyn
+2. informasjon om barna i barnehagen
+3. informasjon om ansatte, kompetanse og ressurser i barnehagen
+4. regnskap for private barnehager
+5. informasjon om foreldrebetaling og moderasjonsordninger
 
 Utdanningsdirektoratet kan behandle personopplysninger etter første ledd som indirekte kan knyttes til en enkeltperson, inkludert personopplysninger nevnt i [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9), når det er nødvendig for å vurdere tilstanden og utviklingen innenfor barnehagesektoren. Opplysningene kan også brukes til grunnlag for forskning, analyse og statistikk.
 

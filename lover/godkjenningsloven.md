@@ -15,7 +15,7 @@ xml_hash: "a174ec6da536a4976fddcbfc0800e44d0317e162f86434edfb0511b45f8f4f15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32013L0011"
@@ -31,7 +31,12 @@ Loven gjelder klageorganer som behandler forbrukersaker, og som søker om godkje
 
 Loven [§ 25](lov/2016-06-17-29/§25) gjelder også Forbrukertilsynet og klageorganer som er opprettet med hjemmel i annen lov og som tilfredsstiller kravene i direktiv [2013/11/EU](eu/32013l0011) om alternativ tvisteløsning i forbrukersaker.
 
-Loven gjelder ikke saker omhelsetjenester som ytes av helsepersonell, jf. [helsepersonelloven § 3](lov/1999-07-02-64/§3),offentlig tilbud om videregående eller høyere utdanning,ikke-økonomiske tjenester av allmenn interesse,kjøp og salg av fast eiendom.
+Loven gjelder ikke saker om
+
+1. helsetjenester som ytes av helsepersonell, jf. [helsepersonelloven § 3](lov/1999-07-02-64/§3),
+2. offentlig tilbud om videregående eller høyere utdanning,
+3. ikke-økonomiske tjenester av allmenn interesse,
+4. kjøp og salg av fast eiendom.
 
 Loven gjelder for Svalbard og Jan Mayen i den utstrekning Kongen bestemmer. Kongen kan gjøre unntak fra loven og fastsette slike særlige regler som de stedlige forholdene tilsier.
 
@@ -39,7 +44,14 @@ Loven gjelder for Svalbard og Jan Mayen i den utstrekning Kongen bestemmer. Kong
 
 ### § 2. Definisjoner
 
-I loven menes medforbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,klageorgan: nemnd og meklingsorgan som definert i bokstav c og d,nemnd: kollegialt organ som gir rådgivende uttalelse eller treffer bindende avgjørelse,meklingsorgan: organ som bistår med å oppnå en minnelig løsning,forbrukersak: sak om vare- og tjenestekontrakter mellom næringsdrivende og forbruker,innmeldt klageorgan: klageorgan som etter [§ 25](lov/2016-06-17-29/§25) er meldt til EFTA-statenes faste komité for oppføring på EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv [2013/11/EU](eu/32013l0011) om alternativ tvisteløsning i forbrukersaker.
+I loven menes med
+
+1. forbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,
+2. klageorgan: nemnd og meklingsorgan som definert i bokstav c og d,
+3. nemnd: kollegialt organ som gir rådgivende uttalelse eller treffer bindende avgjørelse,
+4. meklingsorgan: organ som bistår med å oppnå en minnelig løsning,
+5. forbrukersak: sak om vare- og tjenestekontrakter mellom næringsdrivende og forbruker,
+6. innmeldt klageorgan: klageorgan som etter [§ 25](lov/2016-06-17-29/§25) er meldt til EFTA-statenes faste komité for oppføring på EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv [2013/11/EU](eu/32013l0011) om alternativ tvisteløsning i forbrukersaker.
 
 > Endret ved lov [23 juni 2020 nr. 98](lov/2020-06-23-98) (ikr. 1 jan 2021 iflg. [res. 23 juni 2020 nr. 1285](forskrift/2020-06-23-1285)).
 
@@ -125,7 +137,14 @@ Klagebehandling skal tilbys også i de tilfeller partene får juridisk bistand a
 
 ### § 14. Avvisning
 
-Klageorganet kan avvise en sak dersomklageren ikke har forsøkt å løse saken direkte med motparten,klagen er useriøs eller grunnløs,saken er under behandling eller har blitt behandlet av et innmeldt klageorgan, eller av domstol,tvistesummen er under eller over fastsatt grense, jf. [§ 6](lov/2016-06-17-29/§6) annet ledd,fristen for å klage er oversittet, jf. [§ 7](lov/2016-06-17-29/§7) første ledd,saken ikke lar seg behandle uten at dette i særlig grad går utover klageorganets effektivitet.
+Klageorganet kan avvise en sak dersom
+
+1. klageren ikke har forsøkt å løse saken direkte med motparten,
+2. klagen er useriøs eller grunnløs,
+3. saken er under behandling eller har blitt behandlet av et innmeldt klageorgan, eller av domstol,
+4. tvistesummen er under eller over fastsatt grense, jf. [§ 6](lov/2016-06-17-29/§6) annet ledd,
+5. fristen for å klage er oversittet, jf. [§ 7](lov/2016-06-17-29/§7) første ledd,
+6. saken ikke lar seg behandle uten at dette i særlig grad går utover klageorganets effektivitet.
 
 Vedtak om avvisning skal være begrunnet. Vedtaket skal meddeles partene innen tre uker fra klageorganet mottok klagen, eller fra det tidspunkt klageorganet mottok nødvendig dokumentasjon for å kunne ta stilling til om saken kan avvises.
 
@@ -147,7 +166,12 @@ Der klagebehandlingen er organisert slik at en eller begge parter skal akseptere
 
 ### § 17. Informasjon om klagebehandling
 
-Der klagebehandlingen er organisert slik at en eller begge parter skal akseptere eller avvise en foreslått løsning, skal partene informeres om:at muligheten til å fremme søksmål ved domstolene ikke bortfaller ved bruk av klageorganets tilbud om klagebehandling,at klageorganets løsning kan avvike fra domstolsavgjørelse,at de kan velge om de vil følge klageorganets løsning,rettsvirkningen av å akseptere eller følge klageorganets løsning.
+Der klagebehandlingen er organisert slik at en eller begge parter skal akseptere eller avvise en foreslått løsning, skal partene informeres om:
+
+1. at muligheten til å fremme søksmål ved domstolene ikke bortfaller ved bruk av klageorganets tilbud om klagebehandling,
+2. at klageorganets løsning kan avvike fra domstolsavgjørelse,
+3. at de kan velge om de vil følge klageorganets løsning,
+4. rettsvirkningen av å akseptere eller følge klageorganets løsning.
 
 Departementet kan i forskrift gi bestemmelser om klageorganets plikt til å informere om klagebehandlingen, og om på hvilken måte informasjonen skal gis.
 

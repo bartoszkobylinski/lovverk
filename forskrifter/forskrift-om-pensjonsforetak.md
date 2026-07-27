@@ -34,7 +34,12 @@ I denne forskrift benyttes betegnelsen pensjonskasse om pensjonskasser som drive
 
 ### § 2. Minstekrav til forsikringsmessige avsetninger
 
-Et pensjonsforetak skal til enhver tid ha forsikringsmessige avsetninger til dekning av samtlige foreliggende forsikringsforpliktelser. Avsetningene skal omfatte:Pensjonsforetakets forpliktelser knyttet til kontrakter med kontraktsfastsatte forpliktelser, beregnet etter regler gitt i eller i medhold av [forsikringsvirksomhetsloven § 3-9](lov/2005-06-10-44/§3-9), [§ 3-19](lov/2005-06-10-44/§3-19) og [§ 4-10a](lov/2005-06-10-44/§4-10a).Pensjonsforetakets forpliktelser knyttet til verdien av særskilt investeringsportefølje, beregnet etter regler gitt i [forsikringsvirksomhetsloven § 3-10](lov/2005-06-10-44/§3-10) og denne forskrift § 4.Pensjonsforetakets forpliktelser knyttet til premiefond, innskuddsfond, bufferavsetning, pensjonistenes overskuddsfond, pensjonsreguleringsfond og reguleringsfond knyttet til en kontrakt, beregnet etter regler gitt i [forsikringsvirksomhetsloven § 3-20](lov/2005-06-10-44/§3-20).Pensjonsforetakets øvrige forsikringsmessige forpliktelser, herunder risikoutjevningsfond.
+Et pensjonsforetak skal til enhver tid ha forsikringsmessige avsetninger til dekning av samtlige foreliggende forsikringsforpliktelser. Avsetningene skal omfatte:
+
+1. Pensjonsforetakets forpliktelser knyttet til kontrakter med kontraktsfastsatte forpliktelser, beregnet etter regler gitt i eller i medhold av [forsikringsvirksomhetsloven § 3-9](lov/2005-06-10-44/§3-9), [§ 3-19](lov/2005-06-10-44/§3-19) og [§ 4-10a](lov/2005-06-10-44/§4-10a).
+2. Pensjonsforetakets forpliktelser knyttet til verdien av særskilt investeringsportefølje, beregnet etter regler gitt i [forsikringsvirksomhetsloven § 3-10](lov/2005-06-10-44/§3-10) og denne forskrift § 4.
+3. Pensjonsforetakets forpliktelser knyttet til premiefond, innskuddsfond, bufferavsetning, pensjonistenes overskuddsfond, pensjonsreguleringsfond og reguleringsfond knyttet til en kontrakt, beregnet etter regler gitt i [forsikringsvirksomhetsloven § 3-20](lov/2005-06-10-44/§3-20).
+4. Pensjonsforetakets øvrige forsikringsmessige forpliktelser, herunder risikoutjevningsfond.
 
 Ved beregningen av minstekrav til forsikringsmessige avsetninger for de enkelte kontrakter kan pensjonskassen ikke benytte høyere diskonteringsrente enn beregningsrenten i premieberegningsgrunnlaget på det tidspunkt de enkelte deler av forpliktelsene etter kontrakten er oppstått.
 
@@ -62,7 +67,14 @@ Pensjonskasser som ikke driver livsforsikringsvirksomhet samt innskuddspensjonsf
 
 ### § 5. Definisjoner
 
-I dette kapittel betyr:*Forsikringsfond:* Summen av pensjonskassens samlede premiereserve, bufferfond, premiefond og pensjonsreguleringsfond.*Bruttoforsikringsfond:* Forsikringsfond før fradrag for avgitt gjenforsikring.*Forsikringsfond for egen regning:* Forsikringsfond fratrukket avgitt gjenforsikring.*Risikosummen:* Differansen mellom beløp som forfaller ved dødsfall og kapitalverdien av forsikringsmessige avsetninger knyttet til forsikringen.*Udekket risiko brutto:* Risikosummen for hver enkelt forsikret før fradrag for gjenforsikring. Det skal bare tas hensyn til forsikrede hvor risikosummen er positiv.*Udekket risiko for egen regning:* Risikosummen for hver enkelt forsikret fratrukket gjenforsikring. Det skal bare tas hensyn til forsikrede hvor risikosummen er positiv.
+I dette kapittel betyr:
+
+- *Forsikringsfond:* Summen av pensjonskassens samlede premiereserve, bufferfond, premiefond og pensjonsreguleringsfond.
+- *Bruttoforsikringsfond:* Forsikringsfond før fradrag for avgitt gjenforsikring.
+- *Forsikringsfond for egen regning:* Forsikringsfond fratrukket avgitt gjenforsikring.
+- *Risikosummen:* Differansen mellom beløp som forfaller ved dødsfall og kapitalverdien av forsikringsmessige avsetninger knyttet til forsikringen.
+- *Udekket risiko brutto:* Risikosummen for hver enkelt forsikret før fradrag for gjenforsikring. Det skal bare tas hensyn til forsikrede hvor risikosummen er positiv.
+- *Udekket risiko for egen regning:* Risikosummen for hver enkelt forsikret fratrukket gjenforsikring. Det skal bare tas hensyn til forsikrede hvor risikosummen er positiv.
 
 > Endret ved [forskrift 8 juni 2018 nr. 838](forskrift/2018-06-08-838) (i kraft 1 jan 2019, tidligere § 6), [22 des 2021 nr. 3894](forskrift/2021-12-22-3894) (i kraft 1 jan 2022), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024).
 
@@ -76,17 +88,26 @@ Annet resultat utgjør, for de kontrakter hvor udekket risiko ikke er negativ, 0
 
 Tredje resultat utgjør det høyeste av de beløp som fremkommer ved beregning etter [§ 8](forskrift/2016-12-09-1503/§8) og [§ 9](forskrift/2016-12-09-1503/§9).
 
-Resultatene beregnes av pensjonskassens virksomhet innenfor følgende klasser:Første og annet resultat: Klasse I a og I bTredje resultat: Klasse I c og I d, samt forsikringer under klasse III.
+Resultatene beregnes av pensjonskassens virksomhet innenfor følgende klasser:
+
+- Første og annet resultat: Klasse I a og I b
+- Tredje resultat: Klasse I c og I d, samt forsikringer under klasse III.
 
 > Endret ved [forskrift 8 juni 2018 nr. 838](forskrift/2018-06-08-838) (i kraft 1 jan 2019, tidligere § 7), [22 des 2021 nr. 3894](forskrift/2021-12-22-3894) (i kraft 1 jan 2022), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024).
 
 ### § 7. Beregningsmetode. nr. 1 (med basis i premieinntektene)
 
-Beregningsgrunnlaget består av det største av følgende beløp:Samlet opptjent bruttopremie i siste regnskapsår.Samlet forfalt bruttopremie i siste regnskapsår.
+Beregningsgrunnlaget består av det største av følgende beløp:
+
+1. Samlet opptjent bruttopremie i siste regnskapsår.
+2. Samlet forfalt bruttopremie i siste regnskapsår.
 
 Premier annullert i løpet av regnskapsåret og skatte- og avgiftsbeløp fratrekkes beregningsgrunnlaget.
 
-Beregningsgrunnlaget etter første ledd inndeles i50 mill. euro av beregningsgrunnlaget eller hele beregningsgrunnlaget dersom dette er mindre enn 50 mill. euro, ogden delen av beregningsgrunnlaget som overstiger 50 mill. euro.
+Beregningsgrunnlaget etter første ledd inndeles i
+
+1. 50 mill. euro av beregningsgrunnlaget eller hele beregningsgrunnlaget dersom dette er mindre enn 50 mill. euro, og
+2. den delen av beregningsgrunnlaget som overstiger 50 mill. euro.
 
 Solvensmarginkravet beregnes ved at 18 prosent av beløpet etter foregående ledd bokstav a og 16 prosent av beløpet etter foregående ledd bokstav b summeres og multipliseres med forholdet mellom summen av påløpne erstatninger for egen regning og summen av påløpne bruttoerstatninger for de tre siste regnskapsår. Forholdstallet kan ikke settes lavere enn 1/2.
 
@@ -96,7 +117,10 @@ Solvensmarginkravet beregnes ved at 18 prosent av beløpet etter foregående led
 
 Beregningsgrunnlaget består av gjennomsnittlige påløpne bruttoerstatninger i de tre siste regnskapsår, fratrukket innbetalte regressbeløp.
 
-Beregningsgrunnlaget etter første ledd inndeles i:35 mill. euro av beregningsgrunnlaget eller hele beregningsgrunnlaget dersom dette er mindre enn 35 mill. euro, ogden delen av beregningsgrunnlaget som overstiger 35 mill. euro.
+Beregningsgrunnlaget etter første ledd inndeles i:
+
+1. 35 mill. euro av beregningsgrunnlaget eller hele beregningsgrunnlaget dersom dette er mindre enn 35 mill. euro, og
+2. den delen av beregningsgrunnlaget som overstiger 35 mill. euro.
 
 Solvensmarginkravet beregnes ved at 26 prosent av beløpet etter foregående ledd bokstav a og 23 prosent av beløpet etter foregående ledd bokstav b summeres og multipliseres med forholdet mellom summen av påløpne erstatninger for egen regning og summen av påløpne bruttoerstatninger for de tre siste regnskapsår. Forholdstallet kan ikke settes lavere enn 1/2.
 
@@ -106,7 +130,10 @@ Solvensmarginkravet beregnes ved at 26 prosent av beløpet etter foregående led
 
 Pensjonskassens samlede solvensmarginkapital er lik summen av pensjonskassens ansvarlige kapital og annen solvensmarginkapital. Den ansvarlige kapitalen beregnes i samsvar med [forskrift 1. juni 1990 nr. 435](forskrift/1990-06-01-435) om beregning av ansvarlig kapital i banker, kredittforetak, finansieringsforetak, pensjonsforetak, oppgjørssentraler og verdipapirforetak. Kun tilleggskapital som tilfredsstiller vilkårene i nevnte forskrift [§ 4](forskrift/2016-12-09-1503/§4) nr. 2 og 3, kan medregnes i solvensmarginkapitalen.
 
-Annen solvensmarginkapital består av følgende poster:Halvparten av pensjonskassens avsetninger i risikoutjevningsfondet.Halvparten av pensjonskassens bufferfond i forsikringsfondet.
+Annen solvensmarginkapital består av følgende poster:
+
+1. Halvparten av pensjonskassens avsetninger i risikoutjevningsfondet.
+2. Halvparten av pensjonskassens bufferfond i forsikringsfondet.
 
 > Endret ved forskrifter [8 juni 2018 nr. 838](forskrift/2018-06-08-838) (i kraft 1 jan 2019, tidligere § 10), [22 des 2021 nr. 3894](forskrift/2021-12-22-3894) (i kraft 1 jan 2022), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024).
 
@@ -136,7 +163,11 @@ Dersom pensjonskassens økonomiske stilling forverres i forhold til driftsplanen
 
 Pensjonskasser skal til enhver tid ha ansvarlig kapital beregnet etter reglene i [§ 13](forskrift/2016-12-09-1503/§13) til [§ 15](forskrift/2016-12-09-1503/§15) som minst er tilstrekkelig til å dekke et forenklet solvenskapitalkrav etter paragrafen her. Dette kravet gjelder i tillegg til solvensmarginkravet etter [finansforetaksloven § 14-16](lov/2015-04-10-17/§14-16) første ledd og denne forskrift § 4 til § 11.
 
-Det forenklede solvenskapitalkravet skal beregnes i henhold til [finansforetaksloven § 14-10](lov/2015-04-10-17/§14-10) første og annet ledd, og utgjøre summen av:kapitalkrav for livsforsikringsrisiko, helseforsikringsrisiko, markedsrisiko og motpartsrisiko, summert ved anvendelse av en korrelasjonsmatrise,kapitalkrav for operasjonell risiko, ogen justering for den tapsabsorberende evnen til utsatt skatt.
+Det forenklede solvenskapitalkravet skal beregnes i henhold til [finansforetaksloven § 14-10](lov/2015-04-10-17/§14-10) første og annet ledd, og utgjøre summen av:
+
+1. kapitalkrav for livsforsikringsrisiko, helseforsikringsrisiko, markedsrisiko og motpartsrisiko, summert ved anvendelse av en korrelasjonsmatrise,
+2. kapitalkrav for operasjonell risiko, og
+3. en justering for den tapsabsorberende evnen til utsatt skatt.
 
 Kapitalkravet for markedsrisiko skal beregnes på grunnlag av kapitalkrav for renterisiko, aksjerisiko, eiendomsrisiko, valutarisiko, kredittmarginrisiko og konsentrasjonsrisiko, der kapitalkravene for aksjerisiko og kredittmarginrisiko kan omfatte særskilte beregninger for investeringer i infrastruktur.
 
@@ -162,7 +193,10 @@ Finanstilsynet kan i forskrift fastsette nærmere regler om hva som kan regnes s
 
 Verdien av eiendeler og forpliktelser skal fastsettes etter [finansforetaksloven § 14-8](lov/2015-04-10-17/§14-8) første, annet og tredje ledd. I verdivurderingen av ansvarlige lån og andre forpliktelser skal det ikke tas hensyn til pensjonskassens kredittverdighet.
 
-Verdien av forsikringsforpliktelsene skal være summen av:beste estimat som tilsvarer verdien av fremtidige kontantstrømmer der det tas hensyn til tidsverdien av penger, beregnet ved hjelp av renten nevnt i tredje ledd, ogen risikomargin som tilsvarer en andel av beste estimat.
+Verdien av forsikringsforpliktelsene skal være summen av:
+
+1. beste estimat som tilsvarer verdien av fremtidige kontantstrømmer der det tas hensyn til tidsverdien av penger, beregnet ved hjelp av renten nevnt i tredje ledd, og
+2. en risikomargin som tilsvarer en andel av beste estimat.
 
 Finanstilsynet skal offentliggjøre en volatilitetsjustert risikofri markedsrente som skal brukes for beregning av beste estimat.
 
@@ -180,7 +214,10 @@ Avtaler eller garantier om fremtidig kapitalinnskudd som ikke oppfyller vilkåre
 
 ### § 16. Overgangsbestemmelse for forsikringsforpliktelsene
 
-Pensjonskasser kan frem til og med 31. desember 2031 redusere verdien av forsikringsforpliktelsene etter [§ 14](forskrift/2016-12-09-1503/§14) annet ledd. Reduksjonen skal tilsvare en andel av differansen mellom:forsikringsforpliktelsene beregnet etter [§ 14](forskrift/2016-12-09-1503/§14) annet ledd, ogsummen av forsikringsmessige avsetninger etter [§ 2](forskrift/2016-12-09-1503/§2) fratrukket risikoutjevningsfondet, for de tilfeller der beløpet nevnt i bokstav a er større enn beløpet nevnt i bokstav b.
+Pensjonskasser kan frem til og med 31. desember 2031 redusere verdien av forsikringsforpliktelsene etter [§ 14](forskrift/2016-12-09-1503/§14) annet ledd. Reduksjonen skal tilsvare en andel av differansen mellom:
+
+1. forsikringsforpliktelsene beregnet etter [§ 14](forskrift/2016-12-09-1503/§14) annet ledd, og
+2. summen av forsikringsmessige avsetninger etter [§ 2](forskrift/2016-12-09-1503/§2) fratrukket risikoutjevningsfondet, for de tilfeller der beløpet nevnt i bokstav a er større enn beløpet nevnt i bokstav b.
 
 Reduksjonen etter første ledd skal avtrappes lineært ved begynnelsen av hvert år, fra 81,25 prosent 1. januar 2019 til 0 prosent 1. januar 2032.
 
@@ -198,7 +235,11 @@ Pensjonsforetaket skal ha oversikt over, helhetlig styring av, og god kontroll m
 
 Pensjonsforetaket skal ha en dokumentert kapitalforvaltningsstrategi. Strategien skal være vedtatt av styret, og styret skal minst en gang i året foreta en vurdering av strategien. Styrets vurdering skal være skriftlig og nedfelt i styrereferatet. Dissens i styret skal referatføres.
 
-Kapitalforvaltningsstrategien skal på en klar og tydelig måte sikre at kapitalforvaltningen utøves slik at:selskapsporteføljen forvaltes forsvarlig,de risikoer pensjonsforetaket er eksponert for gjennom forvaltning av kapital i kollektiv- og i investeringsvalgporteføljen er forsvarlige i forhold til pensjonsforetakets bufferkapital, og atkundenes interesser blir ivaretatt på en betryggende måte, jf. [forsikringsvirksomhetsloven § 3-11](lov/2005-06-10-44/§3-11) syvende og åttende ledd.
+Kapitalforvaltningsstrategien skal på en klar og tydelig måte sikre at kapitalforvaltningen utøves slik at:
+
+1. selskapsporteføljen forvaltes forsvarlig,
+2. de risikoer pensjonsforetaket er eksponert for gjennom forvaltning av kapital i kollektiv- og i investeringsvalgporteføljen er forsvarlige i forhold til pensjonsforetakets bufferkapital, og at
+3. kundenes interesser blir ivaretatt på en betryggende måte, jf. [forsikringsvirksomhetsloven § 3-11](lov/2005-06-10-44/§3-11) syvende og åttende ledd.
 
 Kapitalforvaltningsstrategien skal omfatte pensjonsforetakets overordnede retningslinjer for forvaltningen av midler i selskapsporteføljen, kollektivporteføljen og investeringsvalgporteføljen, herunder overordnede forhold knyttet til organisering og ansvarsforhold, styre- og ledelsesrapportering, samt uavhengig kontroll. Det kan fastsettes ulike retningslinjer for forvaltning av ulike porteføljer og underporteføljer, jf. [forsikringsvirksomhetsloven § 3-11](lov/2005-06-10-44/§3-11) første ledd.
 
@@ -212,7 +253,14 @@ Kapitalforvaltningsstrategien skal sikre at det er klar uavhengighet og arbeidsd
 
 Den enhet som overvåker kapitalforvaltningen, skal løpende vurdere om, og påse at, kapitalforvaltningen utøves i tråd med kapitalforvaltningsstrategien og øvrige retningslinjer for forvaltningen.
 
-Det skal være etablert rutiner for å overvåke at kapitalforvaltningen utøves i henhold til myndighetsfastsatte krav og pensjonsforetakets kapitalforvaltningsstrategi. Overvåkningen skal være betryggende i forhold til kapitalforvaltningens omfang, kompleksitet og risiko. I enkelte tilfeller vil særlig aktsom overvåkning av kapitalforvaltningen kreves, herunder knyttet tileiendeler som alene, eller når de vurderes i sammenheng, kan utgjøre en betydelig konsentrasjon av risiko,derivater og andre eiendeler som må antas å kunne være særskilt utsatt for vesentlige og brå verdiendringer,eiendeler som består av andeler i verdipapirfond eller lignende eiendeler hvor det kan forekomme opplåning, eller hvor det kan antas å være særskilt krevende å få en betryggende oversikt over de underliggende eiendeler og risikoen ved disse,eiendeler som verdsettes med utgangspunkt i skjønnsutøvelse, og hvor skjønnsutøvelsen må antas å ha ikke uvesentlig betydning for forsikringskunders tilgodehavende eller pensjonsforetakets resultater,eiendeler som overføres mellom pensjonsforetakets ulike porteføljer, samtinvesteringer i infrastruktur.
+Det skal være etablert rutiner for å overvåke at kapitalforvaltningen utøves i henhold til myndighetsfastsatte krav og pensjonsforetakets kapitalforvaltningsstrategi. Overvåkningen skal være betryggende i forhold til kapitalforvaltningens omfang, kompleksitet og risiko. I enkelte tilfeller vil særlig aktsom overvåkning av kapitalforvaltningen kreves, herunder knyttet til
+
+1. eiendeler som alene, eller når de vurderes i sammenheng, kan utgjøre en betydelig konsentrasjon av risiko,
+2. derivater og andre eiendeler som må antas å kunne være særskilt utsatt for vesentlige og brå verdiendringer,
+3. eiendeler som består av andeler i verdipapirfond eller lignende eiendeler hvor det kan forekomme opplåning, eller hvor det kan antas å være særskilt krevende å få en betryggende oversikt over de underliggende eiendeler og risikoen ved disse,
+4. eiendeler som verdsettes med utgangspunkt i skjønnsutøvelse, og hvor skjønnsutøvelsen må antas å ha ikke uvesentlig betydning for forsikringskunders tilgodehavende eller pensjonsforetakets resultater,
+5. eiendeler som overføres mellom pensjonsforetakets ulike porteføljer, samt
+6. investeringer i infrastruktur.
 
 Dersom overvåkningsenheten avdekker brudd på kapitalforvaltningsstrategien eller øvrige etablerte retningslinjer, skal enheten uten unødig opphold rapportere dette til den instans som har vedtatt retningslinjene. Alvorlige brudd skal rapporteres umiddelbart.
 
@@ -260,7 +308,16 @@ Dersom flere foretak har pensjonsordning i samme pensjonsforetak skal disse fore
 
 ### § 22. Risikostyring og internkontroll
 
-Pensjonsforetakets system for risikostyring skal minst omfattetegning og avsetninger,balansestyring,investeringer, herunder derivater, verdipapirisering og tilsvarende avtaler,styring av likviditets- og konsentrasjonsrisiko,styring av operasjonell risiko,forsikringer og andre risikoreduserende teknikker,relevante faktorer knyttet til miljø, sosiale forhold og foretaksstyring,eventuell avkastningsrisiko som bæres av medlemmer.
+Pensjonsforetakets system for risikostyring skal minst omfatte
+
+1. tegning og avsetninger,
+2. balansestyring,
+3. investeringer, herunder derivater, verdipapirisering og tilsvarende avtaler,
+4. styring av likviditets- og konsentrasjonsrisiko,
+5. styring av operasjonell risiko,
+6. forsikringer og andre risikoreduserende teknikker,
+7. relevante faktorer knyttet til miljø, sosiale forhold og foretaksstyring,
+8. eventuell avkastningsrisiko som bæres av medlemmer.
 
 Ledere på alle vesentlige virksomhetsområder skal løpende vurdere gjennomføringen av pensjonsforetakets internkontroll. Foretakets daglige leder skal minst én gang årlig foreta en oppsummerende vurdering av om internkontrollen har vært gjennomført på en tilfredsstillende måte og om det er behov for nye tiltak. Vurderingen skal forelegges styret til behandling.
 
@@ -304,7 +361,16 @@ Den uavhengige kontrollfunksjonen med ansvar for risikostyring skal påse at ris
 
 Med forsikringsavsetninger menes i denne paragraf forsikringsmessige avsetninger etter § 2 og verdien av forsikringsforpliktelser etter § 14.
 
-Aktuarfunksjonen skal påse at pensjonskassens virksomhet til enhver tid blir drevet på en forsikringsteknisk ansvarlig måte, herundersamordne beregningen av forsikringsavsetninger,sikre at metoder, modeller og forutsetninger i beregningen av forsikringsavsetninger er hensiktsmessige,vurdere om dataene som benyttes i beregningen av forsikringsavsetninger er tilstrekkelige og av nødvendig kvalitet,sammenlikne de forutsetninger som ligger til grunn for forsikringsavsetningene mot pensjonskassens erfaringer,informere styret og ledelsen om hvorvidt beregningen av forsikringsavsetningene er pålitelige og tilstrekkelige,uttale seg om pensjonskassens retningslinjer for tegning av forsikringer,uttale seg om foretakets gjenforsikringsordninger er tilstrekkelige,bidra til effektiv gjennomføring av risikostyringssystemet.
+Aktuarfunksjonen skal påse at pensjonskassens virksomhet til enhver tid blir drevet på en forsikringsteknisk ansvarlig måte, herunder
+
+1. samordne beregningen av forsikringsavsetninger,
+2. sikre at metoder, modeller og forutsetninger i beregningen av forsikringsavsetninger er hensiktsmessige,
+3. vurdere om dataene som benyttes i beregningen av forsikringsavsetninger er tilstrekkelige og av nødvendig kvalitet,
+4. sammenlikne de forutsetninger som ligger til grunn for forsikringsavsetningene mot pensjonskassens erfaringer,
+5. informere styret og ledelsen om hvorvidt beregningen av forsikringsavsetningene er pålitelige og tilstrekkelige,
+6. uttale seg om pensjonskassens retningslinjer for tegning av forsikringer,
+7. uttale seg om foretakets gjenforsikringsordninger er tilstrekkelige,
+8. bidra til effektiv gjennomføring av risikostyringssystemet.
 
 Aktuarfunksjonen skal også påse at tilordning av avkastning og overskudd ved forvaltning av midler samt overskudd på risikoresultat skjer i henhold til [forsikringsvirksomhetsloven](lov/2005-06-10-44).
 

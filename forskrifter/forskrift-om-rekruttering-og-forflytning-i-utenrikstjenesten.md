@@ -26,17 +26,38 @@ eu_basis: []
 
 ### § 1-1. Formål
 
-Forskriften skalinnfri utenrikstjenestens mål om høyt kompetente medarbeidere i alle stillinger i Utenriksdepartementet og på utenriksstasjonenefastsette rammer for opplæringsplan og kvalifisering av medarbeidere i utenrikstjenestens rotasjonsordninglegge til rette for at ansatte vekselvis tjenestegjør i departementet og på utenriksstasjon gjennom forflytningerivareta utenrikstjenestens ansattesikre at personalressursene anvendes slik at utenrikstjenestens oppgaver blir gjennomført.
+Forskriften skal
+
+1. innfri utenrikstjenestens mål om høyt kompetente medarbeidere i alle stillinger i Utenriksdepartementet og på utenriksstasjonene
+2. fastsette rammer for opplæringsplan og kvalifisering av medarbeidere i utenrikstjenestens rotasjonsordning
+3. legge til rette for at ansatte vekselvis tjenestegjør i departementet og på utenriksstasjon gjennom forflytninger
+4. ivareta utenrikstjenestens ansatte
+5. sikre at personalressursene anvendes slik at utenrikstjenestens oppgaver blir gjennomført.
 
 ### § 1-2. Hvem forskriften gjelder for
 
-Forskriften gjelder forflyttepliktig fast ansatte og embetsmenn utnevnt eller konstituert i Utenriksdepartementetikke-flyttepliktig fast ansatte og embetsmenn utnevnt eller konstituert i Utenriksdepartementet på de vilkår som er fastsatt i [§ 3-4](forskrift/2023-10-20-1669/§3-4)midlertidig ansatte i Utenriksdepartementet i gruppeopptakfast ansatte i underliggende etat som midlertidig ansettes i Utenriksdepartementet for å tjenestegjøre på utenriksstasjon.
+Forskriften gjelder for
+
+1. flyttepliktig fast ansatte og embetsmenn utnevnt eller konstituert i Utenriksdepartementet
+2. ikke-flyttepliktig fast ansatte og embetsmenn utnevnt eller konstituert i Utenriksdepartementet på de vilkår som er fastsatt i [§ 3-4](forskrift/2023-10-20-1669/§3-4)
+3. midlertidig ansatte i Utenriksdepartementet i gruppeopptak
+4. fast ansatte i underliggende etat som midlertidig ansettes i Utenriksdepartementet for å tjenestegjøre på utenriksstasjon.
 
 Forskriften gjelder ikke for utsendt utenrikstjenesteansatt som er spesialutsending eller ansatt på åremål. Forskriften gjelder heller ikke for lokalt ansatte på utenriksstasjon.
 
 ### § 1-3. Definisjoner
 
-I denne forskriften menes med*Utenrikstjenestens rotasjonsordning:* ordning for fordeling av personalressurser ved forflytning av ansatte i departementet til nye arbeidsoppgaver og tjenestesteder i rotasjonsstillinger.*Rotasjonsstilling:* alle stillinger i departementet og på utenriksstasjon som fordeles ved forflytning, og som ikke utlyses utenfor utenrikstjenesten eller underliggende etat.*Generalistkompetanse:* kunnskaper om sikkerhet og beredskapsarbeid, konsulært arbeid, protokollære oppgaver, tilskuddsforvaltning, grunnleggende personalforvaltning, folkerett, kultursamarbeid, næringsfremme, politisk analyse og rapportering samt språkferdigheter.*Administrativ kompetanse:* kunnskaper om budsjettarbeid og virksomhetsplaner, regnskap, arkiv og IKT, i tillegg til relevant generalistkompetanse.*Spesialistkompetanse:* kunnskaper som er nødvendige for å utføre arbeidsoppgaver i funksjoner som ikke krever generalistkompetanse.*Lederkompetanse:* de kompetansekrav som utenrikstjenesten legger til grunn for utøvelse i lederrollen.*Tilleggskompetanse:* ønsket kunnskap og erfaring på nærmere angitte saksområder som inngår i arbeidsbeskrivelsen for den enkelte rotasjonsstilling.*Språkkompetanse:* ferdigheter i fremmede språk som følger av opplæringsplan eller stillingsbeskrivelse.*Gruppeopptak:* Samlet utlysning og ansettelse i stillinger med plikt til å gjennomføre opplæring gjennom kurs og praksisarbeid for å kvalifisere seg i henhold til utenrikstjenestens kompetansekrav for rotasjonsstillinger.
+I denne forskriften menes med
+
+1. *Utenrikstjenestens rotasjonsordning:* ordning for fordeling av personalressurser ved forflytning av ansatte i departementet til nye arbeidsoppgaver og tjenestesteder i rotasjonsstillinger.
+2. *Rotasjonsstilling:* alle stillinger i departementet og på utenriksstasjon som fordeles ved forflytning, og som ikke utlyses utenfor utenrikstjenesten eller underliggende etat.
+3. *Generalistkompetanse:* kunnskaper om sikkerhet og beredskapsarbeid, konsulært arbeid, protokollære oppgaver, tilskuddsforvaltning, grunnleggende personalforvaltning, folkerett, kultursamarbeid, næringsfremme, politisk analyse og rapportering samt språkferdigheter.
+4. *Administrativ kompetanse:* kunnskaper om budsjettarbeid og virksomhetsplaner, regnskap, arkiv og IKT, i tillegg til relevant generalistkompetanse.
+5. *Spesialistkompetanse:* kunnskaper som er nødvendige for å utføre arbeidsoppgaver i funksjoner som ikke krever generalistkompetanse.
+6. *Lederkompetanse:* de kompetansekrav som utenrikstjenesten legger til grunn for utøvelse i lederrollen.
+7. *Tilleggskompetanse:* ønsket kunnskap og erfaring på nærmere angitte saksområder som inngår i arbeidsbeskrivelsen for den enkelte rotasjonsstilling.
+8. *Språkkompetanse:* ferdigheter i fremmede språk som følger av opplæringsplan eller stillingsbeskrivelse.
+9. *Gruppeopptak:* Samlet utlysning og ansettelse i stillinger med plikt til å gjennomføre opplæring gjennom kurs og praksisarbeid for å kvalifisere seg i henhold til utenrikstjenestens kompetansekrav for rotasjonsstillinger.
 
 ## Kapittel 2. Gruppeopptak
 
@@ -62,7 +83,12 @@ Departementet kan fastsette format for søknad og benytte elektronisk søkeporta
 
 ### § 2-4. Ansettelse
 
-Departementet kartlegger søkerne og inviterer de best kvalifiserte kandidatene til å møte i et panel bestående av fire medlemmer:En representant fra den avdeling som behandler departementets personalsaker (leder av panelet)En representant fra den seksjon som behandler departementets personalsakerEn representant fra departementets fagavdelingerEn felles representant fra arbeidstakerorganisasjonene.
+Departementet kartlegger søkerne og inviterer de best kvalifiserte kandidatene til å møte i et panel bestående av fire medlemmer:
+
+1. En representant fra den avdeling som behandler departementets personalsaker (leder av panelet)
+2. En representant fra den seksjon som behandler departementets personalsaker
+3. En representant fra departementets fagavdelinger
+4. En felles representant fra arbeidstakerorganisasjonene.
 
 Panelet vurderer hvem som er best kvalifisert basert på søkernes kompetanse, personlig egnethet og tjenestens behov.
 

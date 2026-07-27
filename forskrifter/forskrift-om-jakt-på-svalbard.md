@@ -26,13 +26,17 @@ eu_basis: []
 
 ### § 1. (kvote for fastboende)
 
-For fastboende jegere fastsettes en bag-limit for rekreasjonsjakt på svalbardrype med en kvote på inntil:10 ryper pr. dag.
+For fastboende jegere fastsettes en bag-limit for rekreasjonsjakt på svalbardrype med en kvote på inntil:
+
+- 10 ryper pr. dag.
 
 Unntatt fra dette er fastboende fangstfolk med jakt som næring.
 
 ### § 2. (kvote for tilreisende)
 
-For tilreisende jegere fastsettes en bag-limit for rekreasjonsjakt på svalbardrype med en kvote på inntil:5 ryper pr. sesong.
+For tilreisende jegere fastsettes en bag-limit for rekreasjonsjakt på svalbardrype med en kvote på inntil:
+
+- 5 ryper pr. sesong.
 
 ## Kapittel II. Kvote for svalbardrein
 

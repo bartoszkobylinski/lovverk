@@ -15,7 +15,7 @@ xml_hash: "6a85951d2b4c5a0139994e3c0222358d947ff108a5c6f0f3d33cd2978c3be8a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,9 +32,27 @@ eu_basis: []
 
 (1) Loven gjelder betaling og innkreving av skatte- og avgiftskrav.
 
-(2) Med skatte- og avgiftskrav menes:skatt på formue og inntekt og tonnasjeskatt etter [skatteloven](lov/1999-03-26-14) (formues- og inntektsskatt) og trygdeavgift etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23), herunder forskuddstrekk, skattetrekk etter [§§ 5-4](lov/1997-02-28-19/§5-4), [5-4a](lov/2005-06-17-67/§5-4a) og [5-4b](lov/2005-06-17-67/§5-4b), forskuddsskatt og restskatt etter kapitlene [5](lov/2005-06-17-67/kap5) til [7](lov/2005-06-17-67/kap7) i loven her, samt krav på skatt fastsatt ved summarisk fellesoppgjør etter [skatteforvaltningsloven § 12-4](lov/2016-05-27-14/§12-4)skatt på formue og inntekt etter [lov 29. november 1996 nr. 68 om skatt til Svalbard](lov/1996-11-29-68) (svalbardskatt). For skatt fastsatt ved lønnstrekk gjelder særregler i [svalbardskatteloven § 5-2](lov/1996-11-29-68/§5-2).skatt på inntekt etter [lov 13. desember 1996 nr. 87 om skatt på honorar til utenlandske artister](lov/1996-12-13-87) m.v. (artistskatt)skatt på formue og inntekt etter [lov 13. juni 1975 nr. 35](lov/1975-06-13-35) om skattlegging av undersjøiske petroleumsforekomster m.v. (petroleumsskatt), herunder terminskatt og restskatt etter nevnte lovarbeidsgiveravgift etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23), herunder krav fastsatt ved summarisk fellesoppgjør etter [skatteforvaltningsloven § 12-4](lov/2016-05-27-14/§12-4)arveavgift etter [lov 19. juni 1964 nr. 14](lov/1964-06-19-14) om avgift på arv og visse gavermerverdiavgift etter [merverdiavgiftsloven](lov/2009-06-19-58)særavgifter omfattet av [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11)særavgifter omfattet av [lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter](lov/1959-06-19-2)tollavgift omfattet av [tollavgiftsloven](lov/2022-03-11-8)kompensasjon for merverdiavgift etter [lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv.](lov/2003-12-12-108)finansskatt på lønn etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23)suppleringsskatt etter [suppleringsskatteloven](lov/2024-01-12-1).
+(2) Med skatte- og avgiftskrav menes:
 
-(3) Med mindre annet er særskilt bestemt gjelder reglene om skatte- og avgiftskrav tilsvarende så langt de passer for:renter etter [kapittel 11](lov/2005-06-17-67/kap11), omkostninger og gebyrer fastsatt i medhold av denne lov, [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver](lov/1964-06-19-14), [tollavgiftsloven](lov/2022-03-11-8), [vareførselsloven](lov/2022-03-11-9), [skatteforvaltningsloven](lov/2016-05-27-14) og [kassasystemlova § 8](lov/2015-06-19-58/§8),tilleggsskatt fastsatt i medhold av [skatteforvaltningsloven](lov/2016-05-27-14), tilleggsavgift fastsatt i medhold av [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver](lov/1964-06-19-14) og tilleggsavgift fastsatt i medhold av [tollavgiftsloven](lov/2022-03-11-8),tvangsmulkt etter § 5-16, [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 43](lov/1964-06-19-14/§43), [tollavgiftsloven § 12-1](lov/2022-03-11-8/§12-1), [vareførselsloven § 12-1](lov/2022-03-11-9/§12-1), [skatteforvaltningsloven § 14-1](lov/2016-05-27-14/§14-1) og [kassasystemlova § 7](lov/2015-06-19-58/§7).
+1. skatt på formue og inntekt og tonnasjeskatt etter [skatteloven](lov/1999-03-26-14) (formues- og inntektsskatt) og trygdeavgift etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23), herunder forskuddstrekk, skattetrekk etter [§§ 5-4](lov/1997-02-28-19/§5-4), [5-4a](lov/2005-06-17-67/§5-4a) og [5-4b](lov/2005-06-17-67/§5-4b), forskuddsskatt og restskatt etter kapitlene [5](lov/2005-06-17-67/kap5) til [7](lov/2005-06-17-67/kap7) i loven her, samt krav på skatt fastsatt ved summarisk fellesoppgjør etter [skatteforvaltningsloven § 12-4](lov/2016-05-27-14/§12-4)
+2. skatt på formue og inntekt etter [lov 29. november 1996 nr. 68 om skatt til Svalbard](lov/1996-11-29-68) (svalbardskatt). For skatt fastsatt ved lønnstrekk gjelder særregler i [svalbardskatteloven § 5-2](lov/1996-11-29-68/§5-2).
+3. skatt på inntekt etter [lov 13. desember 1996 nr. 87 om skatt på honorar til utenlandske artister](lov/1996-12-13-87) m.v. (artistskatt)
+4. skatt på formue og inntekt etter [lov 13. juni 1975 nr. 35](lov/1975-06-13-35) om skattlegging av undersjøiske petroleumsforekomster m.v. (petroleumsskatt), herunder terminskatt og restskatt etter nevnte lov
+5. arbeidsgiveravgift etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23), herunder krav fastsatt ved summarisk fellesoppgjør etter [skatteforvaltningsloven § 12-4](lov/2016-05-27-14/§12-4)
+6. arveavgift etter [lov 19. juni 1964 nr. 14](lov/1964-06-19-14) om avgift på arv og visse gaver
+7. merverdiavgift etter [merverdiavgiftsloven](lov/2009-06-19-58)
+8. særavgifter omfattet av [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11)
+9. særavgifter omfattet av [lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter](lov/1959-06-19-2)
+10. tollavgift omfattet av [tollavgiftsloven](lov/2022-03-11-8)
+11. kompensasjon for merverdiavgift etter [lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv.](lov/2003-12-12-108)
+12. finansskatt på lønn etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23)
+13. suppleringsskatt etter [suppleringsskatteloven](lov/2024-01-12-1).
+
+(3) Med mindre annet er særskilt bestemt gjelder reglene om skatte- og avgiftskrav tilsvarende så langt de passer for:
+
+1. renter etter [kapittel 11](lov/2005-06-17-67/kap11), omkostninger og gebyrer fastsatt i medhold av denne lov, [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver](lov/1964-06-19-14), [tollavgiftsloven](lov/2022-03-11-8), [vareførselsloven](lov/2022-03-11-9), [skatteforvaltningsloven](lov/2016-05-27-14) og [kassasystemlova § 8](lov/2015-06-19-58/§8),
+2. tilleggsskatt fastsatt i medhold av [skatteforvaltningsloven](lov/2016-05-27-14), tilleggsavgift fastsatt i medhold av [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver](lov/1964-06-19-14) og tilleggsavgift fastsatt i medhold av [tollavgiftsloven](lov/2022-03-11-8),
+3. tvangsmulkt etter § 5-16, [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 43](lov/1964-06-19-14/§43), [tollavgiftsloven § 12-1](lov/2022-03-11-8/§12-1), [vareførselsloven § 12-1](lov/2022-03-11-9/§12-1), [skatteforvaltningsloven § 14-1](lov/2016-05-27-14/§14-1) og [kassasystemlova § 7](lov/2015-06-19-58/§7).
 
 > Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [12 des 2008 nr. 100](lov/2008-12-12-100), [19 juni 2009 nr. 55](lov/2009-06-19-55), [19 juni 2009 nr. 58](lov/2009-06-19-58) (ikr. 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347)), [25 juni 2010 nr. 40](lov/2010-06-25-40), [13 des 2013 nr. 122](lov/2013-12-13-122), [18 des 2015 nr. 116](lov/2015-12-18-116) (ikr. 1 jan 2016), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2017), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531), endring endret ved [lov 20 des 2016 nr. 120](lov/2016-12-20-120)), [22 juni 2018 nr. 65](lov/2018-06-22-65) (ikr. 1 jan 2019 med virkning fra inntektsåret 2019), [23 juni 2020 nr. 105](lov/2020-06-23-105), [21 des 2020 nr. 166](lov/2020-12-21-166) (ikr. 1 juli 2021), [20 des 2022 nr. 107](lov/2022-12-20-107), [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575)), [12 jan 2024 nr. 5](lov/2024-01-12-5) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
@@ -130,7 +148,11 @@ Skattekontoret kan kreve at folkeregistermyndigheten uten hinder av taushetsplik
 
 ### § 4-1. Definisjoner
 
-(1) I denne loven menes med:upersonlig skattyter: Norsk og utenlandsk selskap og innretning som er selvstendig skattesubjekt, konkurs- og administrasjonsbo for slikt subjekt, staten, fylkeskommunene og kommunene.personlig skattyter: Enhver skattyter, herunder konkurs- og administrasjonsbo for slike skattytere, som ikke faller inn under bokstav a. Dødsbo likestilles med personlig skattyter ved anvendelsen av bestemmelsene i [kapittel 4](lov/2005-06-17-67/kap4) til [6](lov/2005-06-17-67/kap6).arbeidsgiver: Den som selv eller ved fullmektig utbetaler lønn eller annen godtgjørelse eller ytelse som det skal foretas forskuddstrekk, skattetrekk etter [§ 5-4](lov/2005-06-17-67/§5-4) eller utleggstrekk i.
+(1) I denne loven menes med:
+
+1. upersonlig skattyter: Norsk og utenlandsk selskap og innretning som er selvstendig skattesubjekt, konkurs- og administrasjonsbo for slikt subjekt, staten, fylkeskommunene og kommunene.
+2. personlig skattyter: Enhver skattyter, herunder konkurs- og administrasjonsbo for slike skattytere, som ikke faller inn under bokstav a. Dødsbo likestilles med personlig skattyter ved anvendelsen av bestemmelsene i [kapittel 4](lov/2005-06-17-67/kap4) til [6](lov/2005-06-17-67/kap6).
+3. arbeidsgiver: Den som selv eller ved fullmektig utbetaler lønn eller annen godtgjørelse eller ytelse som det skal foretas forskuddstrekk, skattetrekk etter [§ 5-4](lov/2005-06-17-67/§5-4) eller utleggstrekk i.
 
 (2) Når arbeidstakere stilles til rådighet for andre, svarer både oppdragsgiver og oppdragstaker for at pliktene og ansvaret etter denne lov oppfylles. Pliktene og ansvaret påhviler også den som oppgir å være arbeidsgiver i saker etter [utlendingsloven §§ 23](lov/2008-05-15-35/§23) tredje ledd og [24](lov/2008-05-15-35/§24) annet ledd. De ansvarlige kan avtale at en av dem skal utføre pliktene etter denne loven. Slik avtale fritar likevel bare for disse pliktene når og så langt dette bestemmes av skattekontoret.
 
@@ -142,7 +164,10 @@ Skattekontoret kan kreve at folkeregistermyndigheten uten hinder av taushetsplik
 
 (1) Forskudd på formues- og inntektsskatt (skatt) og trygdeavgift som skal betales før skattefastsetting finner sted, utskrives og beregnes etter bestemmelsene i denne del av loven.
 
-(2) For personlige skattytere som skal betale forskudd på skatt og trygdeavgift i løpet av inntektsåret, utskrives og beregnesforskuddstrekk etter bestemmelsene i [kapittel 5](lov/2005-06-17-67/kap5), ogforskuddsskatt etter bestemmelsene i [kapittel 6](lov/2005-06-17-67/kap6).
+(2) For personlige skattytere som skal betale forskudd på skatt og trygdeavgift i løpet av inntektsåret, utskrives og beregnes
+
+1. forskuddstrekk etter bestemmelsene i [kapittel 5](lov/2005-06-17-67/kap5), og
+2. forskuddsskatt etter bestemmelsene i [kapittel 6](lov/2005-06-17-67/kap6).
 
 (3) For upersonlige skattytere som skal betale forskudd på skatt i løpet av året etter inntektsåret, utskrives forskuddsskatt etter bestemmelsene i [kapittel 6](lov/2005-06-17-67/kap6).
 
@@ -294,7 +319,13 @@ Forskudd på skatt kan innbetales med høyere beløp enn det som er utskrevet n�
 
 ### § 5-6. Ytelser som det skal foretas forskuddstrekk i
 
-(1) Med mindre annet er bestemt, skal det foretas forskuddstrekk i skattepliktig:lønn og andre ytelser som omfattes av [skatteloven § 5-10](lov/1999-03-26-14/§5-10), se likevel annet ledd,pensjon, livrente, understøttelse og andre ytelser som omfattes av [skatteloven §§ 5-40](lov/1999-03-26-14/§5-40) til [5-42](lov/1999-03-26-14/§5-42),lott eller part som utbetales til aktiv deltaker i fiske- og fangstvirksomhet – herunder høvedsmann – og som er vederlag for arbeid eller bruken av redskap som deltakeren holder. Det skal også foretas forskuddstrekk i skattepliktige trygdeytelser som utbetales til erstatning for lott eller part som nevnt,avkastning av sparedelen av en livsforsikring (kapitalforsikring) når skattyter som er personlig skattyter ber om det.pensjon, livrente, uføretrygd etter [folketrygdloven kapittel 12](lov/1997-02-28-19/kap12) og uføreytelser fra andre ordninger, som omfattes av [skatteloven § 5-1 første ledd](lov/1999-03-26-14/§5-1/ledd/1), [§ 5-40](lov/1999-03-26-14/§5-40) eller [§ 5-42 bokstav a](lov/1999-03-26-14/§5-42/bokstav/a), jf. [skatteloven § 2-3 fjerde ledd](lov/1999-03-26-14/§2-3/ledd/4), til personer som ikke er bosatt i riket.
+(1) Med mindre annet er bestemt, skal det foretas forskuddstrekk i skattepliktig:
+
+1. lønn og andre ytelser som omfattes av [skatteloven § 5-10](lov/1999-03-26-14/§5-10), se likevel annet ledd,
+2. pensjon, livrente, understøttelse og andre ytelser som omfattes av [skatteloven §§ 5-40](lov/1999-03-26-14/§5-40) til [5-42](lov/1999-03-26-14/§5-42),
+3. lott eller part som utbetales til aktiv deltaker i fiske- og fangstvirksomhet – herunder høvedsmann – og som er vederlag for arbeid eller bruken av redskap som deltakeren holder. Det skal også foretas forskuddstrekk i skattepliktige trygdeytelser som utbetales til erstatning for lott eller part som nevnt,
+4. avkastning av sparedelen av en livsforsikring (kapitalforsikring) når skattyter som er personlig skattyter ber om det.
+5. pensjon, livrente, uføretrygd etter [folketrygdloven kapittel 12](lov/1997-02-28-19/kap12) og uføreytelser fra andre ordninger, som omfattes av [skatteloven § 5-1 første ledd](lov/1999-03-26-14/§5-1/ledd/1), [§ 5-40](lov/1999-03-26-14/§5-40) eller [§ 5-42 bokstav a](lov/1999-03-26-14/§5-42/bokstav/a), jf. [skatteloven § 2-3 fjerde ledd](lov/1999-03-26-14/§2-3/ledd/4), til personer som ikke er bosatt i riket.
 
 (2) Godtgjørelse til dekning av kostnader i forbindelse med utførelse av arbeid, oppdrag eller verv er trekkpliktig selv om den ikke er skattepliktig, jf. [skatteloven § 5-11](lov/1999-03-26-14/§5-11) annet ledd.
 
@@ -304,7 +335,11 @@ Forskudd på skatt kan innbetales med høyere beløp enn det som er utskrevet n�
 
 ### § 5-7. Ytelser som det ikke skal foretas forskuddstrekk i
 
-(1) Det skal ikke foretas forskuddstrekk i:lovbestemt feriegodtgjørelse, lønn og ytelser som skattlegges som lønn, i ferietiden. Skattytere med månedsbetaling kan fritas for trekk for en måned i ferietiden om sommeren og for en halv måned før jul. Skattytere med uke-, dag- eller timebetaling kan fritas for trekk i 4 uker i ferietiden om sommeren og 2 uker før jul. Departementet kan i forskrift bestemme at det for skattytere som har kortvarig tilknytning til riket, skal foretas forskuddstrekk gjennom hele året uten noen trekkfrie perioder.livrente, pensjon, vartpenger og supplerende stønad til person som har fylt 67 år, for en måned før jul. Fritaket gjelder ikke beløp som først kan heves etter årets utgang.føderåd og underholdsbidrag.
+(1) Det skal ikke foretas forskuddstrekk i:
+
+1. lovbestemt feriegodtgjørelse, lønn og ytelser som skattlegges som lønn, i ferietiden. Skattytere med månedsbetaling kan fritas for trekk for en måned i ferietiden om sommeren og for en halv måned før jul. Skattytere med uke-, dag- eller timebetaling kan fritas for trekk i 4 uker i ferietiden om sommeren og 2 uker før jul. Departementet kan i forskrift bestemme at det for skattytere som har kortvarig tilknytning til riket, skal foretas forskuddstrekk gjennom hele året uten noen trekkfrie perioder.
+2. livrente, pensjon, vartpenger og supplerende stønad til person som har fylt 67 år, for en måned før jul. Fritaket gjelder ikke beløp som først kan heves etter årets utgang.
+3. føderåd og underholdsbidrag.
 
 (2) Fritaket etter første ledd bokstav a og b gjelder ikke når trekket beregnes etter [§ 5-5](lov/2005-06-17-67/§5-5) fjerde ledd.
 
@@ -324,7 +359,11 @@ Forskudd på skatt kan innbetales med høyere beløp enn det som er utskrevet n�
 
 ### § 5-9. Fradrag i beregningsgrunnlaget for forskuddstrekk
 
-(1) Det skal gjøres fradrag i beregningsgrunnlaget for:pensjonsinnskudd som arbeidsgiver avkorter i lønnen, og som skattyter vil ha krav på fradrag for ved skattefastsettingen etter [skatteloven § 6-47](lov/1999-03-26-14/§6-47) første ledd bokstav a og b og [§ 6-72](lov/1999-03-26-14/§6-72),fagforeningskontingent som arbeidsgiver avkorter i lønnen, og som skattyter vil ha krav på fradrag for ved skattefastsettingen etter [skatteloven § 6-20](lov/1999-03-26-14/§6-20),fradrag etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61) for sjøfolk bosatt i Norge. Fradraget skal være 29 prosent begrenset oppad til det beløp departementet fastsetter.
+(1) Det skal gjøres fradrag i beregningsgrunnlaget for:
+
+1. pensjonsinnskudd som arbeidsgiver avkorter i lønnen, og som skattyter vil ha krav på fradrag for ved skattefastsettingen etter [skatteloven § 6-47](lov/1999-03-26-14/§6-47) første ledd bokstav a og b og [§ 6-72](lov/1999-03-26-14/§6-72),
+2. fagforeningskontingent som arbeidsgiver avkorter i lønnen, og som skattyter vil ha krav på fradrag for ved skattefastsettingen etter [skatteloven § 6-20](lov/1999-03-26-14/§6-20),
+3. fradrag etter [skatteloven § 6-61](lov/1999-03-26-14/§6-61) for sjøfolk bosatt i Norge. Fradraget skal være 29 prosent begrenset oppad til det beløp departementet fastsetter.
 
 (2) Departementet kan i forskrift bestemme at det ved trekkberegningen skal gjøres andre fradrag i beregningsgrunnlaget for forskuddstrekk enn nevnt ovenfor.
 
@@ -384,7 +423,10 @@ Skattekontoret kan pålegge arbeidsgivere og andre som etter loven har plikt til
 
 ### § 5-13b. Pålegg om revisjon
 
-(1) Når årsregnskapet til en arbeidsgiver som har plikt til å foreta forskuddstrekk, skattetrekk etter [§ 5-4 første ledd](lov/2005-06-17-67/§5-4/ledd/1) (kildeskatteordning) eller utleggstrekk etter [innkrevingsloven](lov/2025-04-25-12) eller [tvangsfullbyrdelsesloven](lov/1992-06-26-86), er fastsatt i strid med bestemmelser i eller i medhold av [regnskapsloven](lov/1998-07-17-56) eller [bokføringsloven](lov/2004-11-19-73) eller god regnskapsskikk eller bokføringsskikk, kan skattekontoret pålegge at ett eller flere årsregnskap revideres av en registrert eller statsautorisert revisor i samsvar med [revisorloven § 2-2](lov/2020-11-20-128/§2-2) for følgende selskap:aksjeselskap der det er truffet beslutning i medhold av fullmakt etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6),selskap som nevnt i [regnskapsloven § 1-2 første ledd nr. 13](lov/1998-07-17-56/§1-2/ledd/1/nummer/13) som er organisert etter en utenlandsk selskapsform som i det vesentligste tilsvarer definisjonen av aksjeselskap i [aksjeloven § 1-1 annet ledd](lov/1997-06-13-44/§1-1/ledd/2), og som ikke har revisjonsplikt etter [revisorloven § 2-1](lov/2020-11-20-128/§2-1).
+(1) Når årsregnskapet til en arbeidsgiver som har plikt til å foreta forskuddstrekk, skattetrekk etter [§ 5-4 første ledd](lov/2005-06-17-67/§5-4/ledd/1) (kildeskatteordning) eller utleggstrekk etter [innkrevingsloven](lov/2025-04-25-12) eller [tvangsfullbyrdelsesloven](lov/1992-06-26-86), er fastsatt i strid med bestemmelser i eller i medhold av [regnskapsloven](lov/1998-07-17-56) eller [bokføringsloven](lov/2004-11-19-73) eller god regnskapsskikk eller bokføringsskikk, kan skattekontoret pålegge at ett eller flere årsregnskap revideres av en registrert eller statsautorisert revisor i samsvar med [revisorloven § 2-2](lov/2020-11-20-128/§2-2) for følgende selskap:
+
+1. aksjeselskap der det er truffet beslutning i medhold av fullmakt etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6),
+2. selskap som nevnt i [regnskapsloven § 1-2 første ledd nr. 13](lov/1998-07-17-56/§1-2/ledd/1/nummer/13) som er organisert etter en utenlandsk selskapsform som i det vesentligste tilsvarer definisjonen av aksjeselskap i [aksjeloven § 1-1 annet ledd](lov/1997-06-13-44/§1-1/ledd/2), og som ikke har revisjonsplikt etter [revisorloven § 2-1](lov/2020-11-20-128/§2-1).
 
 (2) Pålegg om revisjon kan gis på grunnlag av forhold som nevnt i første ledd knyttet til årsregnskapet for siste regnskapsår samt de tre foregående årene.
 
@@ -408,7 +450,13 @@ Skattekontoret kan pålegge arbeidsgivere og andre som etter loven har plikt til
 
 ### § 5-14. Kontrollopplysninger fra tredjemann
 
-(1) Ved utførelsen av arbeidsgiverkontrollen etter [§ 5-13](lov/2005-06-17-67/§5-13) plikterfinansinstitusjoner (jf. [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3)) og andre som driver utlånsvirksomhet eller låneformidling som næring,verdipapirforetak (jf. [verdipapirhandelloven § 2-7 første ledd](lov/2007-06-29-75/§2-7/ledd/1)) og andre som har penger til forvaltning, ogpensjonskasseretter krav fra skattekontoret å gi opplysninger om innskudds- og gjeldskonti som navngitt person, bo, selskap eller innretning har eller disponerer i vedkommende institusjon. Ved innhenting av opplysninger etter første punktum plikter de å gi opplysninger om underbilag og transaksjoner, herunder om hvem som er parter i transaksjonene.
+(1) Ved utførelsen av arbeidsgiverkontrollen etter [§ 5-13](lov/2005-06-17-67/§5-13) plikter
+
+1. finansinstitusjoner (jf. [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3)) og andre som driver utlånsvirksomhet eller låneformidling som næring,
+2. verdipapirforetak (jf. [verdipapirhandelloven § 2-7 første ledd](lov/2007-06-29-75/§2-7/ledd/1)) og andre som har penger til forvaltning, og
+3. pensjonskasser
+
+etter krav fra skattekontoret å gi opplysninger om innskudds- og gjeldskonti som navngitt person, bo, selskap eller innretning har eller disponerer i vedkommende institusjon. Ved innhenting av opplysninger etter første punktum plikter de å gi opplysninger om underbilag og transaksjoner, herunder om hvem som er parter i transaksjonene.
 
 (2) Enhver som utfører eller har utført arbeid eller oppdrag for arbeidsgiveren, plikter på samme vilkår som i første ledd første punktum å gi opplysninger om sitt tjenesteforhold eller oppdrag knyttet til arbeidsgiveren. Dersom arbeidsgiver skal utstyre en arbeidstaker med id-kort etter regler gitt i medhold av [arbeidsmiljøloven § 4-1](lov/2005-06-17-62/§4-1) syvende ledd, kan skattekontoret kreve at arbeidstakeren framviser id-kortet.
 
@@ -480,9 +528,16 @@ Upersonlige skattytere skal betale skatten i løpet av året etter inntektsåret
 
 ### § 6-4. Fastsetting av forskuddsskatt ved skjønn for personlige skattytere
 
-(1) For personlige skattytere fastsettes forskuddsskatten i alminnelighet ved skjønn:når skattyter ikke tidligere har vært tatt opp til skattlegging ved skattekontoret, ellernår skattyters samlede årsinntekt ved siste skattefastsetting er gått opp eller ned med minst en fjerdedel i forhold til nest siste skattefastsetting.
+(1) For personlige skattytere fastsettes forskuddsskatten i alminnelighet ved skjønn:
 
-(2) Utenom de tilfeller som er nevnt i første ledd, kan forskuddsskatten fastsettes ved skjønn:når skattyters inntekts- eller formuesforhold har endret seg vesentlig siden det inntektsåret som ligger til grunn for utskrivingen,når grunnlaget for utskrivingen i vesentlig grad er påvirket av ekstraordinære tap eller tilfeldige inntekter, ellernår det av andre særlige grunner må antas at forskuddsskatt utstedt etter reglene i [§ 6-1](lov/2005-06-17-67/§6-1) vil bli vesentlig høyere eller lavere enn den skatt og trygdeavgift som ventes fastsatt.
+1. når skattyter ikke tidligere har vært tatt opp til skattlegging ved skattekontoret, eller
+2. når skattyters samlede årsinntekt ved siste skattefastsetting er gått opp eller ned med minst en fjerdedel i forhold til nest siste skattefastsetting.
+
+(2) Utenom de tilfeller som er nevnt i første ledd, kan forskuddsskatten fastsettes ved skjønn:
+
+1. når skattyters inntekts- eller formuesforhold har endret seg vesentlig siden det inntektsåret som ligger til grunn for utskrivingen,
+2. når grunnlaget for utskrivingen i vesentlig grad er påvirket av ekstraordinære tap eller tilfeldige inntekter, eller
+3. når det av andre særlige grunner må antas at forskuddsskatt utstedt etter reglene i [§ 6-1](lov/2005-06-17-67/§6-1) vil bli vesentlig høyere eller lavere enn den skatt og trygdeavgift som ventes fastsatt.
 
 (3) Forskuddsskatt av inntekt av fiske kan alltid fastsettes ved skjønn på grunnlag av den inntekt som skattyter under vanlige forhold kan påregnes å innvinne i løpet av året.
 
@@ -530,7 +585,10 @@ Upersonlige skattytere skal betale skatten i løpet av året etter inntektsåret
 
 (3) Når fastsatt skatt utgjør et mindre beløp enn det forskuddet som skal godskrives skattyteren, skal den overskytende del av forskuddsbeløpet frafalles. Den del av det frafalte beløpet som er innbetalt, skal betales tilbake til skattyteren.
 
-(4) Departementet kan i forskrift gi regler om atogså andre forskuddsbeløp skal inngå i avregningen, og om godskriving av forskuddstrekk som ikke er innbetalt av arbeidsgiver.tilskudd fra Enova til energieffektiviseringstiltak på egen bolig skal inngå i avregningen.
+(4) Departementet kan i forskrift gi regler om at
+
+1. også andre forskuddsbeløp skal inngå i avregningen, og om godskriving av forskuddstrekk som ikke er innbetalt av arbeidsgiver.
+2. tilskudd fra Enova til energieffektiviseringstiltak på egen bolig skal inngå i avregningen.
 
 > Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1371](forskrift/2007-12-07-1371)), [9 mai 2008 nr. 26](lov/2008-05-09-26), [12 des 2008 nr. 100](lov/2008-12-12-100), [25 juni 2010 nr. 40](lov/2010-06-25-40), [18 des 2015 nr. 116](lov/2015-12-18-116) (ikr. 1 jan 2016), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2019 nr. 97](lov/2019-12-20-97) (ikr. 1 nov 2020 iflg. [res. 16 okt 2020 nr. 2060](forskrift/2020-10-16-2060)).
 
@@ -546,7 +604,10 @@ Upersonlige skattytere skal betale skatten i løpet av året etter inntektsåret
 
 (1) Tilgodebeløp som er lavere enn et fastsatt grensebeløp etter [§ 10-4](lov/2005-06-17-67/§10-4), kan godskrives skattyter ved avregningen for det løpende inntektsåret.
 
-(2) Skattyter som har fått utbetalt lønn eller annen godtgjørelse som det er foretatt forskuddstrekk i, men som ikke blir tatt opp til skattlegging for det inntektsåret trekket gjelder, kan bare kreve det trukne beløpet tilbake i følgende tilfeller:når skattemyndighetene anser skattyter for ikke å være skattepliktig her i landet for vedkommende inntektsårnår skatt ikke er fastsatt fordi inntekten ikke har nådd opp i skattepliktig størrelse.
+(2) Skattyter som har fått utbetalt lønn eller annen godtgjørelse som det er foretatt forskuddstrekk i, men som ikke blir tatt opp til skattlegging for det inntektsåret trekket gjelder, kan bare kreve det trukne beløpet tilbake i følgende tilfeller:
+
+1. når skattemyndighetene anser skattyter for ikke å være skattepliktig her i landet for vedkommende inntektsår
+2. når skatt ikke er fastsatt fordi inntekten ikke har nådd opp i skattepliktig størrelse.
 
 > Endret ved [lover 27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2019 nr. 97](lov/2019-12-20-97) (ikr. 1 nov 2020 iflg. [res. 16 okt 2020 nr. 2060](forskrift/2020-10-16-2060)).
 
@@ -594,7 +655,10 @@ Upersonlige skattytere skal betale skatten i løpet av året etter inntektsåret
 
 (1) Inntil endelig fordeling etter [§§ 8-1](lov/2005-06-17-67/§8-1) og [8-2](lov/2005-06-17-67/§8-2) kan foretas, skal innbetalt skatt og trygdeavgift fordeles foreløpig mellom staten, fylkeskommunen, kommunen og folketrygden.
 
-(2) Ved foreløpig fordeling gjelder følgende bestemmelser:Den foreløpige fordelingen skal skje på grunnlag av den samlede fastsettingen av skatt til staten, skatt til fylkeskommunen, skatt til kommunen og trygdeavgift til folketrygden ved siste skattefastsetting før inntektsåret.Hvis forholdet mellom den samlede fastsettingen av de forskjellige skatter må antas å bli vesentlig forskjøvet på grunn av endring i skattesatser eller av andre årsaker, kan Skattedirektoratet ved skjønn fastsette forholdstall til bruk ved den foreløpige fordelingen.
+(2) Ved foreløpig fordeling gjelder følgende bestemmelser:
+
+1. Den foreløpige fordelingen skal skje på grunnlag av den samlede fastsettingen av skatt til staten, skatt til fylkeskommunen, skatt til kommunen og trygdeavgift til folketrygden ved siste skattefastsetting før inntektsåret.
+2. Hvis forholdet mellom den samlede fastsettingen av de forskjellige skatter må antas å bli vesentlig forskjøvet på grunn av endring i skattesatser eller av andre årsaker, kan Skattedirektoratet ved skjønn fastsette forholdstall til bruk ved den foreløpige fordelingen.
 
 (3) Skattedirektoratet kan i forskrift gi nærmere regler om gjennomføringen av denne paragrafen, herunder gjøre unntak fra bestemmelsen i annet ledd bokstav a.
 
@@ -626,7 +690,11 @@ Når det er inngått avtale med fremmed stat, kan forskudd på skatt og annen be
 
 (1) Betaling av skatte- og avgiftskrav anses for å være skjedd når beløpet er kommet fram til skattekontoret. Ved betaling via bank anses betaling for å være skjedd når beløpet er godskrevet skattekontorets bank. Ved overføring innen samme bank anses betaling for å være skjedd når beløpet er godskrevet mottakerens konto.
 
-(2) En fastsatt betalingsfrist anses dessuten for å være avbruttnår betalerens oppdrag er mottatt av en bank.når skattekontoret mottar og aksepterer sjekk eller annet betalingsinstrument.når petroleumsskatt er godskrevet skattekontorets konto.
+(2) En fastsatt betalingsfrist anses dessuten for å være avbrutt
+
+1. når betalerens oppdrag er mottatt av en bank.
+2. når skattekontoret mottar og aksepterer sjekk eller annet betalingsinstrument.
+3. når petroleumsskatt er godskrevet skattekontorets konto.
 
 (3) [Finansavtaleloven § 2-2](lov/2020-12-18-146/§2-2) tredje og fjerde ledd gjelder tilsvarende for avbrudd av betalingsfrist etter annet ledd bokstav a og b.
 
@@ -774,7 +842,11 @@ Suppleringsskatt forfaller til betaling tre uker etter leveringsfrist for skatte
 
 ### § 10-31. Arveavgift
 
-(1) Med de unntak som følger av annet til fjerde ledd, forfaller arveavgift til betaling med følgende frister, regnet fra det tidspunkt da rådigheten over midlene i henhold til [lov 19. juni 1964 nr. 14](lov/1964-06-19-14) om avgift på arv og visse gaver [§§ 9](lov/1964-06-19-14/§9) og [10](lov/1964-06-19-14/§10) anses ervervet:tolv måneder når midlene utlegges ved privat skifte av dødsbo. Som dødsbo anses også bo etter en forsvunnet person, men ikke uskiftet bo så lenge gjenlevende ektefelle er i live,straks når midlene skiftes av tingretten,for øvrig tre måneder.
+(1) Med de unntak som følger av annet til fjerde ledd, forfaller arveavgift til betaling med følgende frister, regnet fra det tidspunkt da rådigheten over midlene i henhold til [lov 19. juni 1964 nr. 14](lov/1964-06-19-14) om avgift på arv og visse gaver [§§ 9](lov/1964-06-19-14/§9) og [10](lov/1964-06-19-14/§10) anses ervervet:
+
+1. tolv måneder når midlene utlegges ved privat skifte av dødsbo. Som dødsbo anses også bo etter en forsvunnet person, men ikke uskiftet bo så lenge gjenlevende ektefelle er i live,
+2. straks når midlene skiftes av tingretten,
+3. for øvrig tre måneder.
 
 (2) Når avgiftsplikt for gaver først kan fastslås ved giverens død, jf. [lov 19. juni 1964 nr. 14](lov/1964-06-19-14) om avgift på arv og visse gaver [§ 2](lov/1964-06-19-14/§2) annet ledd, forfaller avgiften til betaling først tre måneder etter dødsfallet. Tar gavemottaker også arv etter giveren, forfaller avgift av slik gave samtidig med avgift av arven.
 
@@ -806,7 +878,12 @@ Suppleringsskatt forfaller til betaling tre uker etter leveringsfrist for skatte
 
 ### § 10-40. Innenlands særavgifter
 
-(1) Innenlands særavgifter forfaller til betaling samtidig med at avgiftsplikten oppstår. Dette gjelder likevel ikke:årsavgift for kjøretøyer som 1. januar er registrert i motorvognregistret, som forfaller til betaling 20. marsvektårsavgiften for kjøretøyer som 1. januar eller 1. juli er registrert i motorvognregisteret, som forfaller til betaling i to like store terminer henholdsvis 20. februar og 20. august.engangsavgiften for registrerte virksomheter, som forfaller til betaling den 18. i måneden etter at avgiftsplikten oppstod.avgift ved urettmessig bruk av merket olje etter [særavgiftsloven § 1](lov/1933-05-19-11/§1), som forfaller til betaling tre uker etter at melding om kravet er sendt.
+(1) Innenlands særavgifter forfaller til betaling samtidig med at avgiftsplikten oppstår. Dette gjelder likevel ikke:
+
+1. årsavgift for kjøretøyer som 1. januar er registrert i motorvognregistret, som forfaller til betaling 20. mars
+2. vektårsavgiften for kjøretøyer som 1. januar eller 1. juli er registrert i motorvognregisteret, som forfaller til betaling i to like store terminer henholdsvis 20. februar og 20. august.
+3. engangsavgiften for registrerte virksomheter, som forfaller til betaling den 18. i måneden etter at avgiftsplikten oppstod.
+4. avgift ved urettmessig bruk av merket olje etter [særavgiftsloven § 1](lov/1933-05-19-11/§1), som forfaller til betaling tre uker etter at melding om kravet er sendt.
 
 (2) For virksomheter som er registrert som særavgiftspliktige hos skattekontoret, forfaller særavgiften for en periode til betaling samme dag som det skal leveres skattemelding.
 
@@ -832,9 +909,20 @@ Suppleringsskatt forfaller til betaling tre uker etter leveringsfrist for skatte
 
 ### § 10-51. Andre skatte- og avgiftskrav
 
-(1) Følgende skatte- og avgiftskrav forfaller til betaling tre uker etter at melding om kravet er sendt:tvangsmulkt etter [§ 1-1](lov/2005-06-17-67/§1-1) tredje ledd bokstav cskatt fastsatt tidlig etter bestemmelser gitt i medhold av [skatteforvaltningsloven § 8-16](lov/2016-05-27-14/§8-16), jf. [§ 8-2](lov/2016-05-27-14/§8-2)gebyr etter [kassasystemlova § 8](lov/2015-06-19-58/§8)krav fastsatt ved summarisk fellesoppgjør etter [skatteforvaltningsloven § 12-4](lov/2016-05-27-14/§12-4)tilleggsavgift etter [lov 19. juni 1964 nr. 14](lov/1964-06-19-14) om avgift på arv og visse gaver [§ 44](lov/1964-06-19-14/§44).
+(1) Følgende skatte- og avgiftskrav forfaller til betaling tre uker etter at melding om kravet er sendt:
 
-(2) Følgende skatte- og avgiftskrav forfaller til betaling tre uker etter at fristen for å klage over vedtaket om fastsetting av kravet er ute, eller ved klage, tre uker etter at klagen er avgjort:tilleggsskatt etter [skatteforvaltningsloven](lov/2016-05-27-14)overtredelsesgebyr etter [skatteforvaltningsloven](lov/2016-05-27-14)tilleggsavgift etter [tollavgiftsloven](lov/2022-03-11-8)overtredelsesgebyr etter [tollavgiftsloven](lov/2022-03-11-8) og [vareførselsloven](lov/2022-03-11-9).
+1. tvangsmulkt etter [§ 1-1](lov/2005-06-17-67/§1-1) tredje ledd bokstav c
+2. skatt fastsatt tidlig etter bestemmelser gitt i medhold av [skatteforvaltningsloven § 8-16](lov/2016-05-27-14/§8-16), jf. [§ 8-2](lov/2016-05-27-14/§8-2)
+3. gebyr etter [kassasystemlova § 8](lov/2015-06-19-58/§8)
+4. krav fastsatt ved summarisk fellesoppgjør etter [skatteforvaltningsloven § 12-4](lov/2016-05-27-14/§12-4)
+5. tilleggsavgift etter [lov 19. juni 1964 nr. 14](lov/1964-06-19-14) om avgift på arv og visse gaver [§ 44](lov/1964-06-19-14/§44).
+
+(2) Følgende skatte- og avgiftskrav forfaller til betaling tre uker etter at fristen for å klage over vedtaket om fastsetting av kravet er ute, eller ved klage, tre uker etter at klagen er avgjort:
+
+1. tilleggsskatt etter [skatteforvaltningsloven](lov/2016-05-27-14)
+2. overtredelsesgebyr etter [skatteforvaltningsloven](lov/2016-05-27-14)
+3. tilleggsavgift etter [tollavgiftsloven](lov/2022-03-11-8)
+4. overtredelsesgebyr etter [tollavgiftsloven](lov/2022-03-11-8) og [vareførselsloven](lov/2022-03-11-9).
 
 (3) Dersom det innvilges utsatt iverksetting av krav etter [skatteforvaltningsloven § 14-10](lov/2016-05-27-14/§14-10) annet ledd, [tollavgiftsloven § 12-7](lov/2022-03-11-8/§12-7) annet ledd eller [vareførselsloven § 12-2](lov/2022-03-11-9/§12-2) femte ledd, forfaller kravet til betaling tre uker etter utløpet av søksmålsfristen eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger.
 
@@ -936,9 +1024,15 @@ Ansvarskrav etter [kapittel 16](lov/2005-06-17-67/kap16), ansvarskrav etter [§ 
 
 (1) Restskatt tillegges rentetillegg. Rentetillegget beregnes med rentesats etter [§ 11-6](lov/2005-06-17-67/§11-6) annet ledd annet punktum, redusert med 22 prosent. Rentetillegget beregnes fra 1. juli i inntektsåret for personlige skattytere og fra 15. mars i året etter inntektsåret for upersonlige skattytere, og fram til forfallsfristen for første termin av restskatten. Det skal ikke beregnes rentetillegg av restskatt som betales innen 31. mai i skattefastsettingsåret.
 
-(2) Personlige skattytere som får utbetalt overskytende forskudd på skatt etter [kapittel 7](lov/2005-06-17-67/kap7), eller som får utbetalt negativ skatt som følge av at fastsatt fradrag overstiger fastsatt skatt, gis rentegodtgjørelse etter følgende regler:For overskytende forskuddstrekk og overskytende utskrevet forskuddsskatt innbetalt innen utgangen av inntektsåret, samt negativ skatt, gis rentegodtgjørelse med rentesats etter [§ 11-6](lov/2005-06-17-67/§11-6) annet ledd annet punktum redusert med 22 prosent, beregnet fra 1. juli i inntektsåret og fram til skatteoppgjøret blir sendt skattyter.For overskytende utskrevet forskuddsskatt og tilleggsforskudd som blir innbetalt senest 31. mai i året etter inntektsåret, gis rentegodtgjørelse med rentesats etter [§ 11-6](lov/2005-06-17-67/§11-6) annet ledd annet punktum redusert med 22 prosent, beregnet fra 31. mai og fram til skatteoppgjøret blir sendt skattyter.
+(2) Personlige skattytere som får utbetalt overskytende forskudd på skatt etter [kapittel 7](lov/2005-06-17-67/kap7), eller som får utbetalt negativ skatt som følge av at fastsatt fradrag overstiger fastsatt skatt, gis rentegodtgjørelse etter følgende regler:
 
-(3) Upersonlige skattytere som får utbetalt overskytende forskudd på skatt etter [kapittel 7](lov/2005-06-17-67/kap7), eller som får utbetalt negativ skatt som følge av at fastsatt fradrag overstiger fastsatt skatt, gis rentegodtgjørelse etter følgende regler:Når samlet forskuddsskatt innbetalt senest 31. mai i året etter inntektsåret overstiger fastsatt skatt, gis rentegodtgjørelse for det overstigende beløpet med rentesats etter [§ 11-6](lov/2005-06-17-67/§11-6) annet ledd annet punktum redusert med 22 prosent, beregnet fra 15. mars i året etter inntektsåret og fram til skatteoppgjøret blir sendt skattyter.Ved avregning etter tidlig fastsetting, gis rentegodtgjørelse etter tredje ledd bokstav a bare når avregning skjer senere enn 31. mai i året etter inntektsåret.
+1. For overskytende forskuddstrekk og overskytende utskrevet forskuddsskatt innbetalt innen utgangen av inntektsåret, samt negativ skatt, gis rentegodtgjørelse med rentesats etter [§ 11-6](lov/2005-06-17-67/§11-6) annet ledd annet punktum redusert med 22 prosent, beregnet fra 1. juli i inntektsåret og fram til skatteoppgjøret blir sendt skattyter.
+2. For overskytende utskrevet forskuddsskatt og tilleggsforskudd som blir innbetalt senest 31. mai i året etter inntektsåret, gis rentegodtgjørelse med rentesats etter [§ 11-6](lov/2005-06-17-67/§11-6) annet ledd annet punktum redusert med 22 prosent, beregnet fra 31. mai og fram til skatteoppgjøret blir sendt skattyter.
+
+(3) Upersonlige skattytere som får utbetalt overskytende forskudd på skatt etter [kapittel 7](lov/2005-06-17-67/kap7), eller som får utbetalt negativ skatt som følge av at fastsatt fradrag overstiger fastsatt skatt, gis rentegodtgjørelse etter følgende regler:
+
+1. Når samlet forskuddsskatt innbetalt senest 31. mai i året etter inntektsåret overstiger fastsatt skatt, gis rentegodtgjørelse for det overstigende beløpet med rentesats etter [§ 11-6](lov/2005-06-17-67/§11-6) annet ledd annet punktum redusert med 22 prosent, beregnet fra 15. mars i året etter inntektsåret og fram til skatteoppgjøret blir sendt skattyter.
+2. Ved avregning etter tidlig fastsetting, gis rentegodtgjørelse etter tredje ledd bokstav a bare når avregning skjer senere enn 31. mai i året etter inntektsåret.
 
 (4) Departementet kan i forskrift gi nærmere regler om rentetillegg og rentegodtgjørelse ved skatteavregningen.
 
@@ -1306,7 +1400,11 @@ Departementet kan i forskrift bestemme at mottakeren av avgiftsfrie varer og tje
 
 > Endret ved [lov 14 des 2007 nr. 110](lov/2007-12-14-110).
 
-1 Iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616) skal loven gjelde fra 1 jan 2008 med unntak for følgende krav hvor loven skal gjelde fra 1 jan 2009: a. Krav som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) (2) bokstavene a til d, b. krav etter [ligningsloven](lov/1980-06-13-24) og c. krav som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) (3), og som fastsettes i medhold av de lover som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) (2) bokstav a-d.2 Iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616) skal § 19-3 nr. 1, 2, 4, 5, 7 og 8 gjelde fra 1 jan 2008, mens de øvrige deler av [§ 19-3](lov/2005-06-17-67/§19-3) skal gjelde fra 1 jan 2009.3 Fra 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)
+1 Iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616) skal loven gjelde fra 1 jan 2008 med unntak for følgende krav hvor loven skal gjelde fra 1 jan 2009: a. Krav som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) (2) bokstavene a til d, b. krav etter [ligningsloven](lov/1980-06-13-24) og c. krav som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) (3), og som fastsettes i medhold av de lover som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) (2) bokstav a-d.
+
+2 Iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616) skal § 19-3 nr. 1, 2, 4, 5, 7 og 8 gjelde fra 1 jan 2008, mens de øvrige deler av [§ 19-3](lov/2005-06-17-67/§19-3) skal gjelde fra 1 jan 2009.
+
+3 Fra 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)
 
 ### § 19-2. overgangsbestemmelser
 

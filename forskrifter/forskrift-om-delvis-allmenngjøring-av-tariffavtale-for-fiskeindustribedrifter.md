@@ -42,11 +42,21 @@ Arbeidsgiver og den som i arbeidsgivers sted leder virksomhet som utfører arbei
 
 ### § 3. Lønnsbestemmelser
 
-Arbeidstakere som utfører arbeid i henhold til [§ 2](forskrift/2024-10-21-2542/§2), skal minst ha en lønn per time på:kr 240,96 for fagarbeiderekr 225,96 for produksjonsarbeidere.
+Arbeidstakere som utfører arbeid i henhold til [§ 2](forskrift/2024-10-21-2542/§2), skal minst ha en lønn per time på:
+
+1. kr 240,96 for fagarbeidere
+2. kr 225,96 for produksjonsarbeidere.
 
 Arbeidstakere under 18 år som utfører arbeid i henhold til [§ 2](forskrift/2024-10-21-2542/§2), skal minst ha en lønn per time på 80 % av minstelønnssatsen i første ledd. Arbeidstakere over 17 år som har arbeidet 12 uker i bedriften skal lønnes i henhold til de lønnsgrupper deres arbeid hører inn under. Skoleungdom beholder opparbeidet lønnsansiennitet fra det ene året til det neste i samme bransje. Lønnsansiennitet opparbeidet som unge arbeidstakere gjelder også ved oppnåelse av voksen alder 18 år.
 
-På arbeidsplasser med skiftarbeid skal det betales et tillegg til timesatsen i første ledd på:*To-skiftsarbeid*20 % av minstelønnssatsen i [§ 3 første ledd](forskrift/2024-10-21-2542/§3/ledd/1).*Tre-skiftsarbeid*25 % av minstelønnssatsen i [§ 3 første ledd](forskrift/2024-10-21-2542/§3/ledd/1).
+På arbeidsplasser med skiftarbeid skal det betales et tillegg til timesatsen i første ledd på:
+
+1. *To-skiftsarbeid*
+
+   20 % av minstelønnssatsen i [§ 3 første ledd](forskrift/2024-10-21-2542/§3/ledd/1).
+2. *Tre-skiftsarbeid*
+
+   25 % av minstelønnssatsen i [§ 3 første ledd](forskrift/2024-10-21-2542/§3/ledd/1).
 
 Ytelser som betales som refusjon av utgifter som faktisk er påløpt på grunn av utsendingen, for eksempel reiseutgifter, kost og losji, skal ikke regnes som lønn etter forskriften.
 

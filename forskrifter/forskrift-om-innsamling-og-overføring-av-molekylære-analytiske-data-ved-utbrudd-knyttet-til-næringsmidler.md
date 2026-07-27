@@ -17,7 +17,7 @@ xml_hash: "54d10b298cf2c6d1446bf6a68927ff632bb50894cdd6da472e730ba740f304a0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,7 +94,16 @@ VEDTATT DENNE FORORDNINGEN:
 
 1\. Vedkommende myndighet nevnt i artikkel 1 skal uten unødig opphold formidle til myndigheten resultatene av helgenomsekvenseringen som er foretatt på isolatene av *Salmonella enterica, Listeria monocytogenes, Escherichia coli*, *Campylobacter jejuni* og *Campylobacter coli* som nevnt i artikkel 1 nr. 1.
 
-2\. Dataene nevnt i nr. 1 skal ledsages av følgende tilknyttede data:Et entydig referansenummer for genomsekvensen av isolatet som sekvensen er generert fra.Et entydig referansenummer for prøven som patogenet er isolert fra.Arten patogen.Beskrivelsen av næringsmiddelet, dyrearten, fôret eller miljøet isolatet stammer fra.Datoen for prøvetaking.Medlemsstaten der prøvetakingen er foretatt.Henvisningen til meldingen som er knyttet til isolatet, dersom isolatet er meldt i hurtigvarslingssystemet for næringsmidler og fôr (RASFF).Et entydig referansenummer for det utbruddet av næringsmiddeloverført sykdom som undersøkes på nasjonalt plan.
+2\. Dataene nevnt i nr. 1 skal ledsages av følgende tilknyttede data:
+
+1. Et entydig referansenummer for genomsekvensen av isolatet som sekvensen er generert fra.
+2. Et entydig referansenummer for prøven som patogenet er isolert fra.
+3. Arten patogen.
+4. Beskrivelsen av næringsmiddelet, dyrearten, fôret eller miljøet isolatet stammer fra.
+5. Datoen for prøvetaking.
+6. Medlemsstaten der prøvetakingen er foretatt.
+7. Henvisningen til meldingen som er knyttet til isolatet, dersom isolatet er meldt i hurtigvarslingssystemet for næringsmidler og fôr (RASFF).
+8. Et entydig referansenummer for det utbruddet av næringsmiddeloverført sykdom som undersøkes på nasjonalt plan.
 
 ### Artikkel 3. Ikrafttredelse og anvendelsesdato
 
@@ -102,6 +111,10 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 23. august 2026.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 31. januar 2025.*For Kommisjonen*
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 31. januar 2025.
+
+*For Kommisjonen*
 Ursula von der Leyen
 *President*

@@ -15,7 +15,7 @@ xml_hash: "8bce25ffb79569d4cf79b630c7a85707db5aa1266d8d6a1680f6aa39b747d271"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,14 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*Anerkjente standarder:* NS (Norsk Standard), NS-EN (Norsk Standard-European Norm), NS-ISO (Norsk Standard-International Standard Organisation) eller likeverdig internasjonal eller nasjonal standard eller regelverk godkjent av Sjøfartsdirektoratet.1*Eksisterende skip:* Skip, herunder lekter, som ikke er nytt skip. Likt med eksisterende skip regnes skip som innkjøpes fra utlandet.*Godkjent:* Et enkelt utstyr godkjent av Sjøfartsdirektoratet.*Laste- og losseinnretning:* Kran med kransøyle, fundament og underliggende struktur, herunder også proviantkran og maskinromstraverskran, samt mast med bom og vinsj med fast tilbehør som bomlager, topprepsfester, preventerfester og lignende tilhørende laste- og losseredskap.*Laste- og losseredskap:* Redskap som løfteåk, grabb, stropp, fathake, nett o.l. og løse deler som kjetting, ståltau (wire), sjakkel, ring, krok, svivel, blokk o.l., som brukes til heising og låring av last.*Nytt skip:* Skip, herunder lekter, hvis kjøl strekkes eller som er på et lignende byggetrinn, på eller etter den dag denne forskrift trer i kraft. Likt med nytt skip regnes skip som ombygges på eller etter nevnte dag.
+I denne forskrift betyr:
+
+1. *Anerkjente standarder:* NS (Norsk Standard), NS-EN (Norsk Standard-European Norm), NS-ISO (Norsk Standard-International Standard Organisation) eller likeverdig internasjonal eller nasjonal standard eller regelverk godkjent av Sjøfartsdirektoratet.1
+2. *Eksisterende skip:* Skip, herunder lekter, som ikke er nytt skip. Likt med eksisterende skip regnes skip som innkjøpes fra utlandet.
+3. *Godkjent:* Et enkelt utstyr godkjent av Sjøfartsdirektoratet.
+4. *Laste- og losseinnretning:* Kran med kransøyle, fundament og underliggende struktur, herunder også proviantkran og maskinromstraverskran, samt mast med bom og vinsj med fast tilbehør som bomlager, topprepsfester, preventerfester og lignende tilhørende laste- og losseredskap.
+5. *Laste- og losseredskap:* Redskap som løfteåk, grabb, stropp, fathake, nett o.l. og løse deler som kjetting, ståltau (wire), sjakkel, ring, krok, svivel, blokk o.l., som brukes til heising og låring av last.
+6. *Nytt skip:* Skip, herunder lekter, hvis kjøl strekkes eller som er på et lignende byggetrinn, på eller etter den dag denne forskrift trer i kraft. Likt med nytt skip regnes skip som ombygges på eller etter nevnte dag.
 
 1 Som eksempel kan nevnes tyske DIN-normer og engelske BS-standarder og svenske krannormer.
 
@@ -48,11 +55,25 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 ### § 4. Krav til godkjent verksted og produsent
 
-(1) Autorisert verksted:Verksted godkjent av Sjøfartsdirektoratet etter søknad, til å produsere, kontrollere, prøve og sertifisere laste- og losseinnretninger. For å oppnå autorisasjon må verkstedet ha:Fast ansatt eller fast tilknyttet en sakkyndig person type A.Beregnet, montert, kontrollert, prøvet og sertifisert en komplett laste- og losseinnretning til Sjøfartsdirektoratets tilfredsstillelse.Tilgjengelig nødvendig utstyr til prøving.
+(1) Autorisert verksted:
 
-(2) Kvalifisert verksted:Verksted godkjent av Sjøfartsdirektoratet etter søknad, til å utføre periodisk kontroll, prøving og sertifisering av laste- og losseinnretninger. For å oppnå slik godkjenning må verkstedet ha:Fast ansatt eller fast tilknyttet en sakkyndig person type B.Kontrollert, prøvet og sertifisert en komplett laste- og losseinnretning til Sjøfartsdirektoratets tilfredsstillelse.Tilgjengelig nødvendig utstyr til prøving.
+Verksted godkjent av Sjøfartsdirektoratet etter søknad, til å produsere, kontrollere, prøve og sertifisere laste- og losseinnretninger. For å oppnå autorisasjon må verkstedet ha:
 
-(3) Utenlandske verksteder og produsenter:I utlandet anses verkstedet som autorisert verksted, kvalifisert verksted eller autorisert redskapsprodusent dersom skipsføreren eller rederiet finner at verkstedet har nødvendig prøveutstyr og personell med tilstrekkelige kvalifikasjoner på området.
+1. Fast ansatt eller fast tilknyttet en sakkyndig person type A.
+2. Beregnet, montert, kontrollert, prøvet og sertifisert en komplett laste- og losseinnretning til Sjøfartsdirektoratets tilfredsstillelse.
+3. Tilgjengelig nødvendig utstyr til prøving.
+
+(2) Kvalifisert verksted:
+
+Verksted godkjent av Sjøfartsdirektoratet etter søknad, til å utføre periodisk kontroll, prøving og sertifisering av laste- og losseinnretninger. For å oppnå slik godkjenning må verkstedet ha:
+
+1. Fast ansatt eller fast tilknyttet en sakkyndig person type B.
+2. Kontrollert, prøvet og sertifisert en komplett laste- og losseinnretning til Sjøfartsdirektoratets tilfredsstillelse.
+3. Tilgjengelig nødvendig utstyr til prøving.
+
+(3) Utenlandske verksteder og produsenter:
+
+I utlandet anses verkstedet som autorisert verksted, kvalifisert verksted eller autorisert redskapsprodusent dersom skipsføreren eller rederiet finner at verkstedet har nødvendig prøveutstyr og personell med tilstrekkelige kvalifikasjoner på området.
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
@@ -60,7 +81,10 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (1) Sakkyndig person er en person som er godkjent til å utføre konstruksjon, beregning, kontroll, prøving og sertifisering av laste- og losseinnretninger eller begrensede deler av dette.
 
-(2) Sakkyndig person i Norge godkjennes av Sjøfartsdirektoratet etter søknad. Vedkommende må dokumentere sine kunnskaper og praksis. Det vil bli skilt mellom to typer sakkyndige personer:Sakkyndig person type A er godkjent for førstegangssertifisering av laste- og losseinnretninger. For å oppnå slik godkjennelse må vedkommende i samarbeid med autorisert verksted ha utført konstruksjon, beregning, kontroll med arbeidsutførelsen, prøving, besiktelse og sertifisering av et komplett riggarrangement til Sjøfartsdirektoratets tilfredsstillelse.Sakkyndig person type B er godkjent for periodisk sertifisering og sertifisering etter mindre reparasjoner av eksisterende laste- og losseinnretninger. For å oppnå slik godkjennelse må vedkommende i samarbeid med kvalifisert verksted ha utført periodisk kontroll, prøving, besiktelse og sertifisering av en eksisterende laste- og losseinnretning til Sjøfartsdirektoratets tilfredsstillelse.
+(2) Sakkyndig person i Norge godkjennes av Sjøfartsdirektoratet etter søknad. Vedkommende må dokumentere sine kunnskaper og praksis. Det vil bli skilt mellom to typer sakkyndige personer:
+
+1. Sakkyndig person type A er godkjent for førstegangssertifisering av laste- og losseinnretninger. For å oppnå slik godkjennelse må vedkommende i samarbeid med autorisert verksted ha utført konstruksjon, beregning, kontroll med arbeidsutførelsen, prøving, besiktelse og sertifisering av et komplett riggarrangement til Sjøfartsdirektoratets tilfredsstillelse.
+2. Sakkyndig person type B er godkjent for periodisk sertifisering og sertifisering etter mindre reparasjoner av eksisterende laste- og losseinnretninger. For å oppnå slik godkjennelse må vedkommende i samarbeid med kvalifisert verksted ha utført periodisk kontroll, prøving, besiktelse og sertifisering av en eksisterende laste- og losseinnretning til Sjøfartsdirektoratets tilfredsstillelse.
 
 ## Kapittel II. Konstruksjon og styrke
 
@@ -72,13 +96,20 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 ### § 7. Beregningsmetoder og konstruksjonskrav
 
-(1) Kraner og bomarrangementer skal beregnes i samsvar med norske standarder nevnt i bokstav a til c i dette ledd, eller etter andre anerkjente standarder. Sakkyndig person skal kontrollere laste- og losseinnretningens og/eller laste- og losseredskapets styrke og at nødvendige beregninger i denne forbindelse er utført. Krefter i løpende rigg kan bestemmes i overensstemmelse med NS-2608 eller annen anerkjent standard. Benyttede krangrupper, konstruksjonskriterier samt operasjonsbetingelser skal spesifiseres i arrangementets «kranhåndbok», jf. [§ 13](forskrift/1978-01-17-4/§13), 2. ledd.Kraner og bomarrangementer skal beregnes i samsvar med NS-5514 «Kraner og løfteutstyr. Stålkonstruksjoner. Beregninger».Maskinkonstruksjoner skal beregnes i samsvar med NS-5515 «Kraner og løfteutstyr. Maskineri. Beregninger».Vindkrefter skal beregnes i samsvar med NS-3479 «Prosjektering av bygningskonstruksjoner. Dimensjonerende laster».
+(1) Kraner og bomarrangementer skal beregnes i samsvar med norske standarder nevnt i bokstav a til c i dette ledd, eller etter andre anerkjente standarder. Sakkyndig person skal kontrollere laste- og losseinnretningens og/eller laste- og losseredskapets styrke og at nødvendige beregninger i denne forbindelse er utført. Krefter i løpende rigg kan bestemmes i overensstemmelse med NS-2608 eller annen anerkjent standard. Benyttede krangrupper, konstruksjonskriterier samt operasjonsbetingelser skal spesifiseres i arrangementets «kranhåndbok», jf. [§ 13](forskrift/1978-01-17-4/§13), 2. ledd.
+
+1. Kraner og bomarrangementer skal beregnes i samsvar med NS-5514 «Kraner og løfteutstyr. Stålkonstruksjoner. Beregninger».
+2. Maskinkonstruksjoner skal beregnes i samsvar med NS-5515 «Kraner og løfteutstyr. Maskineri. Beregninger».
+3. Vindkrefter skal beregnes i samsvar med NS-3479 «Prosjektering av bygningskonstruksjoner. Dimensjonerende laster».
 
 (2) For spesielle typer løfteinnretninger kan Sjøfartsdirektoratet kreve eller gi tillatelse til at arrangementet konstrueres i henhold til en spesiell krangruppe (jf. NS-5514) eller at det benyttes høyere eller lavere sikkerhetsfaktorer enn bestemt i 4. og 5. ledd.
 
 (3) Andre typer løfteinnretninger skal beregnes etter retningslinjer angitt i 1. ledd eller i overensstemmelse med 4. ledd.
 
-(4) Andre typer løfteinnretninger samt enkle kraner og bomarrangement med tillatt arbeidsbelastning mindre enn 10 tonn, kan dersom det finnes hensiktsmessig og forsvarlig, dimensjoneres i samsvar med norske standarder nevnt i bokstav a og b i dette ledd. Det skal ved beregninger i slike tilfelle benyttes en sikkerhetsfaktor på minst 4,5 i henhold til det aktuelle materialets bruddgrense.Konstruksjoner i stål skal beregnes i samsvar med NS-3472 «Prosjektering av stålkonstruksjoner. Beregning og dimensjonering».Konstruksjoner i aluminium skal beregnes i samsvar med NS-3471 «Prosjektering av aluminiumskonstruksjoner. Beregning og dimensjonering»
+(4) Andre typer løfteinnretninger samt enkle kraner og bomarrangement med tillatt arbeidsbelastning mindre enn 10 tonn, kan dersom det finnes hensiktsmessig og forsvarlig, dimensjoneres i samsvar med norske standarder nevnt i bokstav a og b i dette ledd. Det skal ved beregninger i slike tilfelle benyttes en sikkerhetsfaktor på minst 4,5 i henhold til det aktuelle materialets bruddgrense.
+
+1. Konstruksjoner i stål skal beregnes i samsvar med NS-3472 «Prosjektering av stålkonstruksjoner. Beregning og dimensjonering».
+2. Konstruksjoner i aluminium skal beregnes i samsvar med NS-3471 «Prosjektering av aluminiumskonstruksjoner. Beregning og dimensjonering»
 
 (5) Laste- og losseredskap som ståltau, kjetting, kroker, sjakler, blokker, svivler, ringer osv. skal beregnes og konstrueres etter Norsk Standard eller annen anerkjent standard. Det skal benyttes følgende sikkerhetsfaktor mot brudd, beregnet ut fra den største teoretiske belastning:
 
@@ -104,19 +135,61 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 ### § 9. Konstruksjonsdetaljer
 
-(1) Tromler:Ståltautromler skal ha en slik størrelse at det ikke er nødvendig med mer enn 3 lag med ståltau. Flere lag kan imidlertid tillates dersom dette ikke fører til øket slitasje og god spoling oppnås. Maksimal innløpsvinkel skal ikke være større enn at god spoling oppnås med minst mulig slitasje på ståltauet. Tromler med spor bør ikke ha større innløpsvinkel enn 5 grader og tromler uten spor ikke større enn 3 grader. Trommel og føring for ståltau skal konstrueres slik at ståltauet ikke spoler av trommelen. Når trommelen er full, skal det være en høyde lik 2,5 x ståltauets diameter igjen på trommelflens eller tilsvarende sikring som forhindrer ståltauet i å spole av.Forholdet mellom trommeldiameter og ståltaudiameter skal være i henhold til spesifikasjon fra ståltauprodusenten, dog ikke mindre enn 18:1.Det skal være minst tre tørn ståltau igjen på heisetrommelen med kroken i laveste og bom/kranarm i høyeste operative stilling. Med laveste stilling menes normalt bunn av lasterom eller letteste vannlinje dersom den er lavere.Det skal være minst tre tørn ståltau igjen på bomløfttrommelen når bom/kranarm er i laveste stilling.
+(1) Tromler:
 
-(2) Innfesting av ståltau til trommel:Alt ståltau skal være festet til trommelen med ståltauklemmer, plateklemmer eller annen form for innfesting slik at endefeste tåler minst 80 prosent av ståltauets effektive bruddlast.Ståltaufester skal være lette å inspisere, og ha mulighet for etterstramming.
+1. Ståltautromler skal ha en slik størrelse at det ikke er nødvendig med mer enn 3 lag med ståltau. Flere lag kan imidlertid tillates dersom dette ikke fører til øket slitasje og god spoling oppnås. Maksimal innløpsvinkel skal ikke være større enn at god spoling oppnås med minst mulig slitasje på ståltauet. Tromler med spor bør ikke ha større innløpsvinkel enn 5 grader og tromler uten spor ikke større enn 3 grader. Trommel og føring for ståltau skal konstrueres slik at ståltauet ikke spoler av trommelen. Når trommelen er full, skal det være en høyde lik 2,5 x ståltauets diameter igjen på trommelflens eller tilsvarende sikring som forhindrer ståltauet i å spole av.
+2. Forholdet mellom trommeldiameter og ståltaudiameter skal være i henhold til spesifikasjon fra ståltauprodusenten, dog ikke mindre enn 18:1.
+3. Det skal være minst tre tørn ståltau igjen på heisetrommelen med kroken i laveste og bom/kranarm i høyeste operative stilling. Med laveste stilling menes normalt bunn av lasterom eller letteste vannlinje dersom den er lavere.
+4. Det skal være minst tre tørn ståltau igjen på bomløfttrommelen når bom/kranarm er i laveste stilling.
 
-(3) Bommer, bomlager, topprepsfester og beslag for gjerder og preventer:Bommer skal være konstruert etter anerkjent standard. Krefter fra bomsvingere o.l. skal undersøkes og tas hensyn til når disse er av betydning.Bomlager skal være konstruert etter NS-ISO-6045 og topprepsfester etter NS-ISO-8314, eller andre anerkjente standarder.Når gjerder ikke er beregnet for sideveis belastning som virker f.eks. når en benytter koblede bommer, skal det rigges til en preventer av passende styrke som en sikkerhetsforanstaltning mot brudd i gjerderen. Gjerder og preventer skal ha hvert sitt feste i bom og i dekk/rekke. Feste for gjerder eller preventer skal være konstruert etter NS-ISO-8148, NS-2624 eller andre anerkjente standarder.
+(2) Innfesting av ståltau til trommel:
 
-(4) Ståltauskiver og blokker:Ståltauskiver og blokker skal være konstruert etter NS-2675, NS-2680, NS-2681 og NS-2689 eller annen anerkjent standard. Forholdet mellom skivediameter og ståltaudiameter (pitch diameter) skal være i henhold til ståltauprodusentens spesifikasjoner, dog ikke mindre enn 15:1 for løpende rigg og 11:1 for stående rigg.På kraner tillates åpne blokker eller skiver kun hvor disse er slik plassert at personer ikke kan komme i berøring med dem under drift.Nedføring av ståltau fra flerskårne topprepsblokker på masten bør unngås, pga. skjevdrag og derav øket slitasje. Ved tre eller flere parter i topprep, bør topprepsblokken på masten bestå av minst to blokker, der den blokken som leder det nedførende ståltau er enskivet.Fotblokkledd bør utstyres med en friksjonsmekanisme for fotblokkens øye eller gaffel, slik at fotblokken beholder sin stilling selv om draget i heisetauet slakkes.
+1. Alt ståltau skal være festet til trommelen med ståltauklemmer, plateklemmer eller annen form for innfesting slik at endefeste tåler minst 80 prosent av ståltauets effektive bruddlast.
+2. Ståltaufester skal være lette å inspisere, og ha mulighet for etterstramming.
 
-(5) Svivel, lastekrok og lodd:Alle laste- og losseinnretninger med heisetau med enkel part skal være utstyrt med svivel for å hindre tørn i heisetau. Svivel kan også være innebygget i krok, blokkøye eller lodd.Lastekrok skal være formet slik at stropper hindres i å falle ut, og slik at den ikke setter seg fast i fremspring o.l.Styrkedelene av svivel og krok skal være utført i en materialkvalitet S 275 JR (tettet) NS-EN-10025 eller likeverdig materiale. Sveising på krok er ikke tillatt.Lodd eller kule skal benyttes dersom vekt av krok og svivel ikke er tilstrekkelig til å trekke mantelen ut når kroken er ubelastet og man firer med full hastighet. Loddets gjennomgående styrkedel skal være av stål.
+(3) Bommer, bomlager, topprepsfester og beslag for gjerder og preventer:
 
-(6) Ståltau (wire):Alt ståltau skal være laget i overensstemmelse med en anerkjent standard og være skikket for den tiltenkte bruk.Ståltau for stående og løpende rigg skal være utført i henhold til anerkjent standard dog med en minimum sikkerhet mot brudd som angitt nedenunder:*Tillatt arbeidsbelastning (S.W.L.) i kroken**Sikkerhetsfaktor*0 – 10 tonn eller hvis enkel part i kroken510 – 25 tonn5-(S.W.L.-10)/3025 – 60 tonn4,5-(S.W.L.-25)/7060 tonn og derover4,0Alt ståltau for løpende rigg skal ha minimum 114 tråder og det skal være av såkalt dauslått (preformed) type, dvs. partene skal forbli sammenslått når ståltauet kappes.Rotasjonsfattig ståltau skal ikke benyttes til topprep/bomløft.Mantel/heisetau til kraner som er rigget med enkel part bør være av rotasjonsfattig type.
+1. Bommer skal være konstruert etter anerkjent standard. Krefter fra bomsvingere o.l. skal undersøkes og tas hensyn til når disse er av betydning.
+2. Bomlager skal være konstruert etter NS-ISO-6045 og topprepsfester etter NS-ISO-8314, eller andre anerkjente standarder.
+3. Når gjerder ikke er beregnet for sideveis belastning som virker f.eks. når en benytter koblede bommer, skal det rigges til en preventer av passende styrke som en sikkerhetsforanstaltning mot brudd i gjerderen. Gjerder og preventer skal ha hvert sitt feste i bom og i dekk/rekke. Feste for gjerder eller preventer skal være konstruert etter NS-ISO-8148, NS-2624 eller andre anerkjente standarder.
 
-(7) Løftestropper:Løftestropper av ståltau som benyttes til heising og låring av laster på under 10 tonn skal ha en sikkerhetsfaktor på minst 6. For øvrig skal løftestropper minst ha samme sikkerhetsfaktor som det tilhørende ståltau (jf. 6. ledd, bokstav b).Etter spesiell vurdering kan Sjøfartsdirektoratet etter beregning for veldefinerte løft på 100 tonn og derover, godta sikkerhetsfaktorer ned til 3,0 for stroppens høyest belastede del. For stropper til løft på under 100 tonn gjelder bestemmelsene i bokstav a i dette ledd.Alle ståltaustropper skal være fremstilt av sertifisert ståltau.Spleising av øye på stropper skal utføres mot ståltauets slagretning og ha minst 3 innstikk med hel part og to innstikk med halvparten av trådene skåret bort i hvert part. Annen likeverdig spleisemetode, med samme styrke kan også godtas.Taustropper skal være av sertifisert natur- eller kunstfibertau av beste kvalitet og med kjent bruddlast. Sikkerhetsfaktor mot brudd skal være minst 7. Tillatt arbeidsbelastning (S.W.L.) må aldri overskride bruddlast dividert med sikkerhetsfaktor.
+(4) Ståltauskiver og blokker:
+
+1. Ståltauskiver og blokker skal være konstruert etter NS-2675, NS-2680, NS-2681 og NS-2689 eller annen anerkjent standard. Forholdet mellom skivediameter og ståltaudiameter (pitch diameter) skal være i henhold til ståltauprodusentens spesifikasjoner, dog ikke mindre enn 15:1 for løpende rigg og 11:1 for stående rigg.
+2. På kraner tillates åpne blokker eller skiver kun hvor disse er slik plassert at personer ikke kan komme i berøring med dem under drift.
+3. Nedføring av ståltau fra flerskårne topprepsblokker på masten bør unngås, pga. skjevdrag og derav øket slitasje. Ved tre eller flere parter i topprep, bør topprepsblokken på masten bestå av minst to blokker, der den blokken som leder det nedførende ståltau er enskivet.
+4. Fotblokkledd bør utstyres med en friksjonsmekanisme for fotblokkens øye eller gaffel, slik at fotblokken beholder sin stilling selv om draget i heisetauet slakkes.
+
+(5) Svivel, lastekrok og lodd:
+
+1. Alle laste- og losseinnretninger med heisetau med enkel part skal være utstyrt med svivel for å hindre tørn i heisetau. Svivel kan også være innebygget i krok, blokkøye eller lodd.
+2. Lastekrok skal være formet slik at stropper hindres i å falle ut, og slik at den ikke setter seg fast i fremspring o.l.
+3. Styrkedelene av svivel og krok skal være utført i en materialkvalitet S 275 JR (tettet) NS-EN-10025 eller likeverdig materiale. Sveising på krok er ikke tillatt.
+4. Lodd eller kule skal benyttes dersom vekt av krok og svivel ikke er tilstrekkelig til å trekke mantelen ut når kroken er ubelastet og man firer med full hastighet. Loddets gjennomgående styrkedel skal være av stål.
+
+(6) Ståltau (wire):
+
+1. Alt ståltau skal være laget i overensstemmelse med en anerkjent standard og være skikket for den tiltenkte bruk.
+2. Ståltau for stående og løpende rigg skal være utført i henhold til anerkjent standard dog med en minimum sikkerhet mot brudd som angitt nedenunder:
+
+   |  |  |  |
+   | --- | --- | --- |
+   |  | *Tillatt arbeidsbelastning (S.W.L.) i kroken* | *Sikkerhetsfaktor* |
+   |  | 0 – 10 tonn eller hvis enkel part i kroken | 5 |
+   |  | 10 – 25 tonn | 5-(S.W.L.-10)/30 |
+   |  | 25 – 60 tonn | 4,5-(S.W.L.-25)/70 |
+   |  | 60 tonn og derover | 4,0 |
+3. Alt ståltau for løpende rigg skal ha minimum 114 tråder og det skal være av såkalt dauslått (preformed) type, dvs. partene skal forbli sammenslått når ståltauet kappes.
+4. Rotasjonsfattig ståltau skal ikke benyttes til topprep/bomløft.
+5. Mantel/heisetau til kraner som er rigget med enkel part bør være av rotasjonsfattig type.
+
+(7) Løftestropper:
+
+1. Løftestropper av ståltau som benyttes til heising og låring av laster på under 10 tonn skal ha en sikkerhetsfaktor på minst 6. For øvrig skal løftestropper minst ha samme sikkerhetsfaktor som det tilhørende ståltau (jf. 6. ledd, bokstav b).
+2. Etter spesiell vurdering kan Sjøfartsdirektoratet etter beregning for veldefinerte løft på 100 tonn og derover, godta sikkerhetsfaktorer ned til 3,0 for stroppens høyest belastede del. For stropper til løft på under 100 tonn gjelder bestemmelsene i bokstav a i dette ledd.
+3. Alle ståltaustropper skal være fremstilt av sertifisert ståltau.
+4. Spleising av øye på stropper skal utføres mot ståltauets slagretning og ha minst 3 innstikk med hel part og to innstikk med halvparten av trådene skåret bort i hvert part. Annen likeverdig spleisemetode, med samme styrke kan også godtas.
+5. Taustropper skal være av sertifisert natur- eller kunstfibertau av beste kvalitet og med kjent bruddlast. Sikkerhetsfaktor mot brudd skal være minst 7. Tillatt arbeidsbelastning (S.W.L.) må aldri overskride bruddlast dividert med sikkerhetsfaktor.
 
 (8) Kauser:
 
@@ -132,21 +205,57 @@ Det skal brukes ståltauklemmer med to gripeflater (U-bolt type er ikke tillatt)
 
 (11) Vinsjer:
 
-Ved valg av vinsjtype og størrelse skal dette tilpasses slik, at den øvrige innretning er beregnet for den belastning som vinsjens maksimale trekkraft utsetter den for.For rene laste- og lossevinsjer skal trekkraft vanligvis ikke kunne overstige sikker arbeidsbelastning i det tilhørende ståltau. Dersom laste- og lossevinsjen også skal brukes til annet formål må dette vurderes spesielt.Når gjerder eller svingvinsj skal benyttes, skal gjerderkreftene bestemmes etter NS-2608. Gjerdervinsjens trekkraft skal ikke overstige tillatt arbeidsbelastning i halende part, men må minst gi en kraftkomponent under hensyn til antall blokker i gjerdertakkelet, som er like stor som de maksimale gjerderkreftene.Alle vinsjer skal være utstyrt med stoppanordning, som kan holde den største last som vinsjen er beregnet for.Ved svikt i krafttilførsel skal bremsen automatisk kobles inn og bremse opp og stoppe maksimum tillatt arbeidsbelastning fra maksimum hastighet, eller det skal være en manuell brems med samme kapasitet, som kan betjenes fra manøverstand, jf. 13. ledd.For rene laste-/lossevinsjer skal det være direkte kobling mellom stoppanordning, driftsanordning og trommel slik at fritt fall låring ikke kan foretas.For kombinerte vinsjer kan frikobling av trommel tillates. Arrangementet skal da være slik at utilsiktet frikobling av trommelen ikke blir mulig ved normal operasjon.Tannhjul, sveiver og andre bevegelige deler på vinsjer og kraner såvel over som under dekk, skal være forsvarlig skjermet. Det samme gjelder for transmisjoner fra motor til vinsj, for damprør, hydrauliske slanger, elektriske ledninger mv. Det skal sørges for god tilkomst for å lette vedlikehold o.a.Når vinsjer fjernstyres eller manøvreres fra annen plass, skal spesiell skjerming/rekkverk være oppsatt for å hindre at personer kan komme i kontakt med ståltau, blokker, tromler eller andre bevegelige deler. Skilt med advarsel om at vinsjen fjernstyres og kan settes i gang uten forutgående varsel skal oppsettes.
+Ved valg av vinsjtype og størrelse skal dette tilpasses slik, at den øvrige innretning er beregnet for den belastning som vinsjens maksimale trekkraft utsetter den for.
 
-(12) Betjeningshendler:Betjeningshendler skal være montert slik at de beveges i lastens retning, og med «stopp» vertikalt, «lår» mot lukeåpningen, og «hiv» med hendelen trukket fra lukeåpningen (mot vinsjoperatøren).Manøveranordninger for vinsjer og kraner skal være slik innrettet at de raskt går tilbake til markert midtstilling (stopp) når de slippes, og de skal kunne sikres i midtstilling når vinsjen/kranen er ubetjent.Betjeningshendler skal være varig merket med tydelige standardsymboler eller betegnelser som angir bruken.Ergometriske prinsipper skal legges til grunn ved konstruksjon av manøveranordningen.
+1. For rene laste- og lossevinsjer skal trekkraft vanligvis ikke kunne overstige sikker arbeidsbelastning i det tilhørende ståltau. Dersom laste- og lossevinsjen også skal brukes til annet formål må dette vurderes spesielt.
+2. Når gjerder eller svingvinsj skal benyttes, skal gjerderkreftene bestemmes etter NS-2608. Gjerdervinsjens trekkraft skal ikke overstige tillatt arbeidsbelastning i halende part, men må minst gi en kraftkomponent under hensyn til antall blokker i gjerdertakkelet, som er like stor som de maksimale gjerderkreftene.
+3. Alle vinsjer skal være utstyrt med stoppanordning, som kan holde den største last som vinsjen er beregnet for.
 
-(13) Manøversted for vinsjer, kraner, o.l:Manøverstedet skal gi vinsjoperatøren en trygg plassering med best mulig utsikt til hivet, wireføringen og vinsjtrommelen(e). Manøverstedet skal gi operatøren best mulig beskyttelse mot fallende last og skader som kan oppstå som følge av ståltaubrudd.Manøverstedet skal arrangeres slik at operatøren får godt fotfeste. Spesielt ristverk kan forlanges dersom manøverstedet er utsatt for overvann, oljesøl o.l.For vinsjer som styres med løs kabeloverføring, skal kabelen være så lang at operatøren overalt kan velge en trygg plass, med god oversikt over løfteoperasjonene.
+   1. Ved svikt i krafttilførsel skal bremsen automatisk kobles inn og bremse opp og stoppe maksimum tillatt arbeidsbelastning fra maksimum hastighet, eller det skal være en manuell brems med samme kapasitet, som kan betjenes fra manøverstand, jf. 13. ledd.
+   2. For rene laste-/lossevinsjer skal det være direkte kobling mellom stoppanordning, driftsanordning og trommel slik at fritt fall låring ikke kan foretas.
+   3. For kombinerte vinsjer kan frikobling av trommel tillates. Arrangementet skal da være slik at utilsiktet frikobling av trommelen ikke blir mulig ved normal operasjon.
+4. Tannhjul, sveiver og andre bevegelige deler på vinsjer og kraner såvel over som under dekk, skal være forsvarlig skjermet. Det samme gjelder for transmisjoner fra motor til vinsj, for damprør, hydrauliske slanger, elektriske ledninger mv. Det skal sørges for god tilkomst for å lette vedlikehold o.a.
+5. Når vinsjer fjernstyres eller manøvreres fra annen plass, skal spesiell skjerming/rekkverk være oppsatt for å hindre at personer kan komme i kontakt med ståltau, blokker, tromler eller andre bevegelige deler. Skilt med advarsel om at vinsjen fjernstyres og kan settes i gang uten forutgående varsel skal oppsettes.
 
-(14) Førerhus på kraner:Laste- og lossekraner skal normalt være utstyrt med førerhus. Dette skal være solid bygget og gi operatøren beskyttelse mot fallende gjenstander.Førerhuset skal ha en innvendig fri høyde på minimum 2,0 m, være isolert mot kulde/varme og støy, maksimum 80 dB(A), ha tilstrekkelig ventilasjon og mulighet for oppvarming, samt være utstyrt med et håndslokningsapparat av pulvertype (minimum 2 kg for de minste kranene).Alle vinduene i førerhus skal være laget av herdet eller laminert glass, og det skal være trygg atkomst for rengjøring av vinduene utvendig. Vinduene skal være utstyrt med nødvendig antall motordrevne vindusviskere, varmetråder eller vifter slik at sikten gjennom vinduene ikke reduseres vesentlig pga. regn, dogg, is e.l.Det skal være mulighet for trygg atkomst til førerhuset, og det skal være sikker fluktvei uansett hvilken stilling kraner er i.Førersete, manøverhendler og annet utstyr skal være utarbeidet etter ergometriske prinsipper.
+(12) Betjeningshendler:
 
-(15) Atkomst og passasjer:Det skal være trygg atkomst til manøversted for vinsjer og alle deler på kraner og bomarrangementer som trenger service og kontroll.Mellom faste og bevegelige deler på kraner, vinsjer o.a. hvor det er vanlig at folk ferdes eller det skal være en fri passasje, skal denne ha en bredde på minimum 0,6 m opp til en høyde av 2,0 m.Leidere, rekkverk etc. skal tilfredsstille kravene i de til enhver tid gjeldende forskrifter for anordninger på og under dekk.
+1. Betjeningshendler skal være montert slik at de beveges i lastens retning, og med «stopp» vertikalt, «lår» mot lukeåpningen, og «hiv» med hendelen trukket fra lukeåpningen (mot vinsjoperatøren).
+2. Manøveranordninger for vinsjer og kraner skal være slik innrettet at de raskt går tilbake til markert midtstilling (stopp) når de slippes, og de skal kunne sikres i midtstilling når vinsjen/kranen er ubetjent.
+3. Betjeningshendler skal være varig merket med tydelige standardsymboler eller betegnelser som angir bruken.
+4. Ergometriske prinsipper skal legges til grunn ved konstruksjon av manøveranordningen.
+
+(13) Manøversted for vinsjer, kraner, o.l:
+
+1. Manøverstedet skal gi vinsjoperatøren en trygg plassering med best mulig utsikt til hivet, wireføringen og vinsjtrommelen(e). Manøverstedet skal gi operatøren best mulig beskyttelse mot fallende last og skader som kan oppstå som følge av ståltaubrudd.
+2. Manøverstedet skal arrangeres slik at operatøren får godt fotfeste. Spesielt ristverk kan forlanges dersom manøverstedet er utsatt for overvann, oljesøl o.l.
+3. For vinsjer som styres med løs kabeloverføring, skal kabelen være så lang at operatøren overalt kan velge en trygg plass, med god oversikt over løfteoperasjonene.
+
+(14) Førerhus på kraner:
+
+1. Laste- og lossekraner skal normalt være utstyrt med førerhus. Dette skal være solid bygget og gi operatøren beskyttelse mot fallende gjenstander.
+2. Førerhuset skal ha en innvendig fri høyde på minimum 2,0 m, være isolert mot kulde/varme og støy, maksimum 80 dB(A), ha tilstrekkelig ventilasjon og mulighet for oppvarming, samt være utstyrt med et håndslokningsapparat av pulvertype (minimum 2 kg for de minste kranene).
+3. Alle vinduene i førerhus skal være laget av herdet eller laminert glass, og det skal være trygg atkomst for rengjøring av vinduene utvendig. Vinduene skal være utstyrt med nødvendig antall motordrevne vindusviskere, varmetråder eller vifter slik at sikten gjennom vinduene ikke reduseres vesentlig pga. regn, dogg, is e.l.
+4. Det skal være mulighet for trygg atkomst til førerhuset, og det skal være sikker fluktvei uansett hvilken stilling kraner er i.
+5. Førersete, manøverhendler og annet utstyr skal være utarbeidet etter ergometriske prinsipper.
+
+(15) Atkomst og passasjer:
+
+1. Det skal være trygg atkomst til manøversted for vinsjer og alle deler på kraner og bomarrangementer som trenger service og kontroll.
+2. Mellom faste og bevegelige deler på kraner, vinsjer o.a. hvor det er vanlig at folk ferdes eller det skal være en fri passasje, skal denne ha en bredde på minimum 0,6 m opp til en høyde av 2,0 m.
+3. Leidere, rekkverk etc. skal tilfredsstille kravene i de til enhver tid gjeldende forskrifter for anordninger på og under dekk.
 
 (16) Stuving av bommer:
 
 For stuving av bommer og kraner under sjøreisen, skal det være anbrakt faste eller demonterbare «bomkrybber» eller likeverdige stuvingsanordninger. For beregning av disse, se [§ 7](forskrift/1978-01-17-4/§7) 6. ledd.
 
-(17) Hydrauliske, pneumatiske og elektriske systemer:Hydrauliske og pneumatiske systemer skal være utstyrt med sikkerhetsventil. Sikkerhetsventilen skal plomberes av sakkyndig person etter at laste- og losseinnretningen har vært belastningsprøvet, slik at den ikke kan stilles høyere enn til systemets tillatte arbeidstrykk. Dersom plomberingen har vært brutt skal ny 5-årlig inngående undersøkelse foretas av sakkyndig person. Etter den 5-årlige inngående undersøkelsen (§ 18) skal alltid ny plombering foretas av sakkyndig person.Det skal være tilkoblingsmulighet for kontrollmanometere i hovedtrykksystemene.Slanger, rør og ledninger skal legges på en slik måte at de er best mulig beskyttet mot slag, klemming, varme, vibrasjon o.l. Slanger skal også være beskyttet på en slik måte at operatøren ikke skades ved slangebrudd, og de skal være lette å skifte og vedlikeholde.Hydrauliske sylindrer skal arrangeres slik at de stopper eller siger kontrollert ved svikt i krafttilførselen eller ved slange- eller rørbrudd.Trykksystemer skal være konstruert etter en anerkjent standard. Standarden skal angis og bekreftes av sakkyndig person.Elektrisk utstyr skal være konstruert etter en anerkjent standard som også tar hensyn til den sonen om bord hvor kranen er plassert med hensyn til områdeklassifikasjon. Standarden skal angis i kranhåndboken og bekreftes av sakkyndig person.
+(17) Hydrauliske, pneumatiske og elektriske systemer:
+
+1. Hydrauliske og pneumatiske systemer skal være utstyrt med sikkerhetsventil. Sikkerhetsventilen skal plomberes av sakkyndig person etter at laste- og losseinnretningen har vært belastningsprøvet, slik at den ikke kan stilles høyere enn til systemets tillatte arbeidstrykk. Dersom plomberingen har vært brutt skal ny 5-årlig inngående undersøkelse foretas av sakkyndig person. Etter den 5-årlige inngående undersøkelsen (§ 18) skal alltid ny plombering foretas av sakkyndig person.
+2. Det skal være tilkoblingsmulighet for kontrollmanometere i hovedtrykksystemene.
+3. Slanger, rør og ledninger skal legges på en slik måte at de er best mulig beskyttet mot slag, klemming, varme, vibrasjon o.l. Slanger skal også være beskyttet på en slik måte at operatøren ikke skades ved slangebrudd, og de skal være lette å skifte og vedlikeholde.
+4. Hydrauliske sylindrer skal arrangeres slik at de stopper eller siger kontrollert ved svikt i krafttilførselen eller ved slange- eller rørbrudd.
+5. Trykksystemer skal være konstruert etter en anerkjent standard. Standarden skal angis og bekreftes av sakkyndig person.
+6. Elektrisk utstyr skal være konstruert etter en anerkjent standard som også tar hensyn til den sonen om bord hvor kranen er plassert med hensyn til områdeklassifikasjon. Standarden skal angis i kranhåndboken og bekreftes av sakkyndig person.
 
 (18) Sakkyndig person skal kontrollere at laste- og losseinnretningen med redskap er konstruert i henhold til kravene i denne paragraf.
 
@@ -174,19 +283,35 @@ For stuving av bommer og kraner under sjøreisen, skal det være anbrakt faste e
 
 ### § 12. Sikkerhetsinnretninger
 
-(1) *Grensebryter.*Kraner skal ha grensebryter hvor det er begrensninger på bevegelse av kran, kranbom eller krok.Grensebryter skal plasseres slik at det ikke oppstår skade eller fare, selv om kranen blir stoppet fra full fart av disse bryterne, under hensyn til de forhold som er nevnt i [§ 7](forskrift/1978-01-17-4/§7) 3. ledd.Når grensebryter trer i funksjon, skal driften i den aktuelle retning automatisk falle ut. Ny innkobling av drift eller løsning av brems skal ikke være mulig før det aktuelle betjeningsorgan er brakt i 0-stilling og slik at bevegelse bare kan skje til en «bedre» stilling.Forrigling (bypass) av grensebryter for laveste stilling av bom/kranarm er tillatt når dette er nødvendig for stuving av bommen. Bryter til forrigling skal plasseres under deksel, og et stykke fra de øvrige kontrollorganer, men slik at operatøren kan nå den fra sin faste plass. Skilt som angir at forrigling av endebryter ikke skal benyttes til andre operasjoner enn ved stuving av bommen, skal settes opp.Innretninger som drives hydraulisk eller pneumatisk kan i stedet for grensebryter ha automatisk virkende trykkbegrensning som hindrer at endekjøring medfører uakseptable påkjenninger eller situasjoner.I spesielle tilfelle kan grensebryterne også kreves i forbindelse med bomarrangementer, særlig i forbindelse med tungløftsbom.
+(1) *Grensebryter.*
+
+1. Kraner skal ha grensebryter hvor det er begrensninger på bevegelse av kran, kranbom eller krok.
+2. Grensebryter skal plasseres slik at det ikke oppstår skade eller fare, selv om kranen blir stoppet fra full fart av disse bryterne, under hensyn til de forhold som er nevnt i [§ 7](forskrift/1978-01-17-4/§7) 3. ledd.
+3. Når grensebryter trer i funksjon, skal driften i den aktuelle retning automatisk falle ut. Ny innkobling av drift eller løsning av brems skal ikke være mulig før det aktuelle betjeningsorgan er brakt i 0-stilling og slik at bevegelse bare kan skje til en «bedre» stilling.
+4. Forrigling (bypass) av grensebryter for laveste stilling av bom/kranarm er tillatt når dette er nødvendig for stuving av bommen. Bryter til forrigling skal plasseres under deksel, og et stykke fra de øvrige kontrollorganer, men slik at operatøren kan nå den fra sin faste plass. Skilt som angir at forrigling av endebryter ikke skal benyttes til andre operasjoner enn ved stuving av bommen, skal settes opp.
+5. Innretninger som drives hydraulisk eller pneumatisk kan i stedet for grensebryter ha automatisk virkende trykkbegrensning som hindrer at endekjøring medfører uakseptable påkjenninger eller situasjoner.
+6. I spesielle tilfelle kan grensebryterne også kreves i forbindelse med bomarrangementer, særlig i forbindelse med tungløftsbom.
 
 (2) *Overlastbryter.*
 
 Overlastbryter kreves for kraner som kan løfte mer enn tillatt arbeidsbelastning, S.W.L. Ny innkobling av drift eller løsning av brems skal ikke være mulig før det aktuelle betjeningsorgan er brakt i 0-stilling og slik at bevegelse bare kan skje til en «bedre» stilling.
 
-(3) *Momentbryter.*Kraner med tillatt arbeidsbelastning som minker med økende utlegg og med maksimal tillatt arbeidsbelastning (S.W.L.) over 5 tonn, skal være utstyrt med momentbryter. Ny innkobling av drift eller løsning av brems skal ikke være mulig før det aktuelle betjeningsorgan er brakt i 0-stilling og slik at bevegelse bare kan skje til en «bedre» stilling.
+(3) *Momentbryter.*
+
+Kraner med tillatt arbeidsbelastning som minker med økende utlegg og med maksimal tillatt arbeidsbelastning (S.W.L.) over 5 tonn, skal være utstyrt med momentbryter. Ny innkobling av drift eller løsning av brems skal ikke være mulig før det aktuelle betjeningsorgan er brakt i 0-stilling og slik at bevegelse bare kan skje til en «bedre» stilling.
 
 (4) *Stopper for slakk i ståltau.*
 
 Kraner med tillatt arbeidsbelastning (S.W.L.), over 5 tonn, skal være utstyrt med «stopper for slakk i ståltau» som automatisk stanser nedfiring dersom ståltauet fires ut for raskt fra trommelen. Denne stopper kan imidlertid sløyfes hvis operatøren har full utsikt til trommelen.
 
-(5) *Nødstoppanordning/bryter.*Alle kraner skal være utstyrt med en nødstoppbryter som kan nås fra førerplassen. Bryteren skal være rød, og beskyttet med bøyle eller tilsvarende.Når nødstoppbryteren blir aktivisert, skal alle bremser øyeblikkelig virke maksimalt slik at all bevegelse bremses opp på en sikker måte og stoppes så raskt som mulig.På elektriske kraner skal nødstoppbryteren bryte hovedstrømtilførselen til kranen (alle faser).Ved nødstopp skal alle funksjoner nullstilles, før kranen skal kunne startes på nytt.For kraner som kjører på skinner eller belter skal det på kranen eventuelt ved hvert kranben være montert en nødstoppbryter, som kan nås fra dekket. Denne nødstoppbryter skal så raskt som mulig stoppe kranen. Bryteren skal ikke kunne nullstilles fra førerhuset.Kraner som kjører på skinner eller belter, skal være utstyrt med fleksible bøyler for å forhindre at kranen skal kjøre på noen. Endebrytere som stopper kranens bevegelse kan i spesielle tilfeller forlanges av Sjøfartsdirektoratet.
+(5) *Nødstoppanordning/bryter.*
+
+1. Alle kraner skal være utstyrt med en nødstoppbryter som kan nås fra førerplassen. Bryteren skal være rød, og beskyttet med bøyle eller tilsvarende.
+2. Når nødstoppbryteren blir aktivisert, skal alle bremser øyeblikkelig virke maksimalt slik at all bevegelse bremses opp på en sikker måte og stoppes så raskt som mulig.
+3. På elektriske kraner skal nødstoppbryteren bryte hovedstrømtilførselen til kranen (alle faser).
+4. Ved nødstopp skal alle funksjoner nullstilles, før kranen skal kunne startes på nytt.
+5. For kraner som kjører på skinner eller belter skal det på kranen eventuelt ved hvert kranben være montert en nødstoppbryter, som kan nås fra dekket. Denne nødstoppbryter skal så raskt som mulig stoppe kranen. Bryteren skal ikke kunne nullstilles fra førerhuset.
+6. Kraner som kjører på skinner eller belter, skal være utstyrt med fleksible bøyler for å forhindre at kranen skal kjøre på noen. Endebrytere som stopper kranens bevegelse kan i spesielle tilfeller forlanges av Sjøfartsdirektoratet.
 
 (6) *Varselsignaler.*
 
@@ -198,7 +323,14 @@ Enhver kran med førerhus skal være utstyrt med lydsignal/horn for å varsle fa
 
 (1) Det skal finnes håndbøker om bord i skipet for alle typer kraner som er levert, herunder også proviantkraner, maskinromstraverskraner og større bomarrangementer hvor riggarrangementstegning alene ikke gir alle nødvendige opplysninger nevnt i 2. ledd.
 
-(2) Kranhåndboken skal inneholde:En arrangementstegning og en fullstendig beskrivelse av laste- og losseinnretningen med opplysning om hvilken standard denne er beregnet etter;konstruksjonskriterier, hvilken krangruppe som er benyttet o.l.;operasjonsbetingelser som S.W.L., S.W.M., minimum og maksimum kranarm/bomvinkel, begrensninger på svinging o.l.;levetid i relasjon til bruksbetingelser;en tegning som viser materialkvalitetene for hele kranen samt rapport over den egenkontroll som fabrikanten har utført i form av sveisekontroll, produktkontroll m.m. bekreftet av sakkyndig person, jf. [§ 11](forskrift/1978-01-17-4/§11); ogtegninger/skjema for alle sikkerhetsinnretninger, skjema for elektrisk, hydraulisk og pneumatisk utstyr med oppgitt maksimalt tillatt trykk, samt regler for vedlikehold og kontroll (servicedel). Servicedelen skal bl.a. inneholde en detaljert beskrivelse av kontroll med svingelager/kulekrans, hvilket moment boltene skal trekkes til med mv.
+(2) Kranhåndboken skal inneholde:
+
+1. En arrangementstegning og en fullstendig beskrivelse av laste- og losseinnretningen med opplysning om hvilken standard denne er beregnet etter;
+2. konstruksjonskriterier, hvilken krangruppe som er benyttet o.l.;
+3. operasjonsbetingelser som S.W.L., S.W.M., minimum og maksimum kranarm/bomvinkel, begrensninger på svinging o.l.;
+4. levetid i relasjon til bruksbetingelser;
+5. en tegning som viser materialkvalitetene for hele kranen samt rapport over den egenkontroll som fabrikanten har utført i form av sveisekontroll, produktkontroll m.m. bekreftet av sakkyndig person, jf. [§ 11](forskrift/1978-01-17-4/§11); og
+6. tegninger/skjema for alle sikkerhetsinnretninger, skjema for elektrisk, hydraulisk og pneumatisk utstyr med oppgitt maksimalt tillatt trykk, samt regler for vedlikehold og kontroll (servicedel). Servicedelen skal bl.a. inneholde en detaljert beskrivelse av kontroll med svingelager/kulekrans, hvilket moment boltene skal trekkes til med mv.
 
 ## Kapittel III. Prøving, sertifisering, periodisk ettersyn og kontroll
 
@@ -276,7 +408,10 @@ Enhver kran med førerhus skal være utstyrt med lydsignal/horn for å varsle fa
 |  | fra 20 til 50 tonn | S.W.L. + 5 tonn |
 |  | over 50 tonn | 1,1 X S.W.L. |
 
-(4) Prøvelasten skal løftes med skipets egen innretning, og bommen skal ikke danne større vinkel med horisontalen enn 15 grader. Dersom dette ikke er mulig eller bommen er konstruert for en bomvinkel som er større eller mindre enn 15 grader, skal bommen stilles i den minste vinkel det er mulig å bringe den i eller i den bomvinkel arrangementet er beregnet for. Etter at prøvelasten er løftet, skal arrangementet funksjonstestes med prøvelasten, dvs. heising, låring, svinging og topping (dersom dette kan utføres med last hengende i kroken), og oppbremsing av de nevnte bevegelser skal prøves.Skipet skal, om mulig, gis en slagside på 5 grader eller den maksimale slagside det får ved største tillatte arbeidsbelastning for å få en mest mulig realistisk prøve (se [§ 7](forskrift/1978-01-17-4/§7) 6. ledd).Minste eventuelt største vinkel (dersom bommen kan toppes med last) som benyttes under prøven, skal anføres i sertifikatet.
+(4) Prøvelasten skal løftes med skipets egen innretning, og bommen skal ikke danne større vinkel med horisontalen enn 15 grader. Dersom dette ikke er mulig eller bommen er konstruert for en bomvinkel som er større eller mindre enn 15 grader, skal bommen stilles i den minste vinkel det er mulig å bringe den i eller i den bomvinkel arrangementet er beregnet for. Etter at prøvelasten er løftet, skal arrangementet funksjonstestes med prøvelasten, dvs. heising, låring, svinging og topping (dersom dette kan utføres med last hengende i kroken), og oppbremsing av de nevnte bevegelser skal prøves.
+
+1. Skipet skal, om mulig, gis en slagside på 5 grader eller den maksimale slagside det får ved største tillatte arbeidsbelastning for å få en mest mulig realistisk prøve (se [§ 7](forskrift/1978-01-17-4/§7) 6. ledd).
+2. Minste eventuelt største vinkel (dersom bommen kan toppes med last) som benyttes under prøven, skal anføres i sertifikatet.
 
 (5) Koblede bommer (union purchase) skal prøves sammen med en prøvelast i henhold til 3. ledd og den tillatte arbeidsbelastning S.W.L., for denne lastemåte. Prøven skal foretas med bommene i de ugunstigste stillinger. Preventere skal være tilrigget, og kontrollen omfatter også preventerfester og parallellkjøring av vinsjene ved heising, overføring, låring og stopping av prøvelasten.
 
@@ -292,13 +427,28 @@ Enhver kran med førerhus skal være utstyrt med lydsignal/horn for å varsle fa
 
 (1) Laste- og losseinnretninger og redskap skal være varig merket (meisling, kjørning eller stålstempel) med tillatt arbeidsbelastning (S.W.L.), og sertifikat/mrk. nr. Bommer og kraner skal i tillegg merkes med referanse nr., tilsvarende deres plassering i riggarrangement/situasjonsplan, NS-2609 skjema 3, eller tilsvarende.
 
-(2) Bommer.Bommer skal merkes med tillatt arbeidsbelastning (S.W.L.) med enkel part og for 15 grader vinkel, eller med den laveste vinkel større enn 15 grader, som bommen(e) på grunn av arrangementet om bord kan senkes til: Eks. nr. 3 S.W.L. 5T 15 grader.Dersom den samme bommen er beregnet for å kunne løfte 10 tonn når den er rigget med en fast og en løs blokk, dobbelt part, blir merkingen som følger: nr. 3 S.W.L. 5-10 T 15 grader.Tungløftsbom skal merkes med den minste vinkel og den største last som bom og redskap er beregnet for. Eks. S.W.L. 60 T 30 grader.Dersom det er fare for steiling, må også den største tillatte bomvinkel angis. Eks. S.W.L. 15 T 15-60 grader.Når to bommer kan arbeide sammen i såkalt koblet bompar (union purchase), skal spesiell merking for dette være innslått på eget skilt, oppsatt på egnet sted, mellom bommene/mastene. Eks. nr. 3 + 4 S.W.L. (U) 2T.Bom/krannummer og S.W.L. skal utføres med 80 mm høye tall og bokstaver, mens bomvinkel kan angis med 60 mm høye tall. Merkingen skal være varig.
+(2) Bommer.
 
-(3) Kraner.Kraner med konstant S.W.L. for alle radier, skal merkes med krannummer, tillatt arbeidsbelastning (S.W.L.) og minste og største radius for denne belastning. Eks. nr. 5 S.W.L. 5 T 4 – 14 M.Kraner hvis S.W.L. varierer med kranarmens radius, skal være merket med største og minste tillatte arbeidsbelastning og den tilsvarende radius. Eks. nr. 5 S.W.L. 15 T 5 M, S.W.L. 5 T 15 M.Krannummer og S.W.L. skal utføres med 80 mm høye tall og bokstaver, mens kranradius kan angis med 60 mm høye tall og bokstaver.Når to kraner kan arbeide sammen, skal spesiell merking for dette være innslått på eget skilt, oppsatt på egnet sted, mellom kranene.
+1. Bommer skal merkes med tillatt arbeidsbelastning (S.W.L.) med enkel part og for 15 grader vinkel, eller med den laveste vinkel større enn 15 grader, som bommen(e) på grunn av arrangementet om bord kan senkes til: Eks. nr. 3 S.W.L. 5T 15 grader.
+2. Dersom den samme bommen er beregnet for å kunne løfte 10 tonn når den er rigget med en fast og en løs blokk, dobbelt part, blir merkingen som følger: nr. 3 S.W.L. 5-10 T 15 grader.
+3. Tungløftsbom skal merkes med den minste vinkel og den største last som bom og redskap er beregnet for. Eks. S.W.L. 60 T 30 grader.
+4. Dersom det er fare for steiling, må også den største tillatte bomvinkel angis. Eks. S.W.L. 15 T 15-60 grader.
+5. Når to bommer kan arbeide sammen i såkalt koblet bompar (union purchase), skal spesiell merking for dette være innslått på eget skilt, oppsatt på egnet sted, mellom bommene/mastene. Eks. nr. 3 + 4 S.W.L. (U) 2T.
+6. Bom/krannummer og S.W.L. skal utføres med 80 mm høye tall og bokstaver, mens bomvinkel kan angis med 60 mm høye tall. Merkingen skal være varig.
+
+(3) Kraner.
+
+1. Kraner med konstant S.W.L. for alle radier, skal merkes med krannummer, tillatt arbeidsbelastning (S.W.L.) og minste og største radius for denne belastning. Eks. nr. 5 S.W.L. 5 T 4 – 14 M.
+2. Kraner hvis S.W.L. varierer med kranarmens radius, skal være merket med største og minste tillatte arbeidsbelastning og den tilsvarende radius. Eks. nr. 5 S.W.L. 15 T 5 M, S.W.L. 5 T 15 M.
+3. Krannummer og S.W.L. skal utføres med 80 mm høye tall og bokstaver, mens kranradius kan angis med 60 mm høye tall og bokstaver.
+4. Når to kraner kan arbeide sammen, skal spesiell merking for dette være innslått på eget skilt, oppsatt på egnet sted, mellom kranene.
 
 (4) Redskap/løse deler skal være merket ifølge de krav som er gitt i det etterfølgende, og merkingen skal være anbrakt slik at den forblir leselig i hele redskapens praktiske levetid.
 
-(5) Blokker.Tillatt arbeidsbelastning (S.W.L.) for enskivet blokk er lik draget i ståltauet (dvs. halvparten av kraften på opphengingsleddet), når blokken anvendes som enkel lasteblokk. For enskivet blokk med hundsvott, er S.W.L. også lik draget i ståltauet, som i dette tilfelle er en tredjedel av kraften på opphengingsleddet. I begge tilfelle skal blokken merkes med S.W.L. lik draget i ståltauet.For flerskivet blokk er S.W.L. lik kraften på opphengingsleddet, og lik den S.W.L. som blokken skal merkes med.
+(5) Blokker.
+
+1. Tillatt arbeidsbelastning (S.W.L.) for enskivet blokk er lik draget i ståltauet (dvs. halvparten av kraften på opphengingsleddet), når blokken anvendes som enkel lasteblokk. For enskivet blokk med hundsvott, er S.W.L. også lik draget i ståltauet, som i dette tilfelle er en tredjedel av kraften på opphengingsleddet. I begge tilfelle skal blokken merkes med S.W.L. lik draget i ståltauet.
+2. For flerskivet blokk er S.W.L. lik kraften på opphengingsleddet, og lik den S.W.L. som blokken skal merkes med.
 
 (6) Kjetting, ringer, kroker, sjakler, svivler, o.l. skal være merket med den tillatte arbeidsbelastning (S.W.L.) som vedkommende del er sertifisert for.
 

@@ -28,11 +28,20 @@ Formålet med Forsvarsdepartementets tilskudd til sikkerhets- og forsvarspolitis
 
 ## § 2. Tilskuddsformer
 
-Følgende former for tilskudd kan gisprosjektstøttestøtte til tematiske programmer, bestående av flere relaterte prosjekter tilknyttet programmetstøtte til doktorgrad- og postdoktorgradstipendiatstillinger.
+Følgende former for tilskudd kan gis
+
+1. prosjektstøtte
+2. støtte til tematiske programmer, bestående av flere relaterte prosjekter tilknyttet programmet
+3. støtte til doktorgrad- og postdoktorgradstipendiatstillinger.
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med*tilskuddsforvalter:* det forvaltningsorganet som vurderer, tildeler og kontrollerer tilskudd*tilskuddsår:* det kalenderår søknaden gjelder for og tilskudd utbetales i*tildelingskriterier:* kriterier som er bestemmende for om tilskudd kan tildeles*prosjektstøtte:* tilskudd til kortsiktige og avgrensede prosjekter og aktiviteter av varighet inntil tre–fire år, inkludert prosjektbaserte lønns- og driftsutgifter.
+I denne forskriften menes med
+
+1. *tilskuddsforvalter:* det forvaltningsorganet som vurderer, tildeler og kontrollerer tilskudd
+2. *tilskuddsår:* det kalenderår søknaden gjelder for og tilskudd utbetales i
+3. *tildelingskriterier:* kriterier som er bestemmende for om tilskudd kan tildeles
+4. *prosjektstøtte:* tilskudd til kortsiktige og avgrensede prosjekter og aktiviteter av varighet inntil tre–fire år, inkludert prosjektbaserte lønns- og driftsutgifter.
 
 ## § 4. Forvaltning av tilskuddsordningen
 
@@ -56,13 +65,29 @@ Forsvarsdepartementet kan gi tilskudd med tilsagn om tildeling ut over budsjett�
 
 ## § 6. Hvordan søknaden blir vurdert
 
-Tilskudd til prosjektstøtte eller støtte til doktorgrad- og postdoktorgradstipendiatstillinger betinger at søknadene oppfyller ett eller flere faglige tildelingskriterier ved åha relevans for norsk sikkerhets- og forsvarspolitikk, inkludert evne til å gi kunnskap om og innsikt i nåværende og fremtidige sikkerhets- og forsvarspolitiske utfordringer og problemstillinger som Norge står overforgi økt kunnskap om internasjonale rammebetingelser, og hvordan disse påvirker Norges internasjonale stilling og sikkerhetbidra til kompetanseoppbygging og styrking av det norske fagmiljøet om sikkerhetspolitisk relevante statlige og ikke-statlige aktører og endrede geopolitiske konstellasjonerbidra til utvikling av krigens folkerett og annet nasjonalt og internasjonalt rettslig rammeverk med betydning for militære operasjonergi økt kunnskap om og innsikt i endringer i sikkerhetssituasjonen og konsekvensene for Forsvaretgi økt kunnskap om bakgrunnsfaktorer, dynamikk og skillelinjer i norsk politikk på det sikkerhets- forsvarspolitiske områdetfremme det sikkerhets- og forsvarspolitiske ordskiftet i Norgebidra til doktrine- og kunnskapsutvikling og det sikkerhetspolitiske grunnlaget for langtidsplanlegging i Forsvaret, som offentlig tilgjengelig og fri forskning.
+Tilskudd til prosjektstøtte eller støtte til doktorgrad- og postdoktorgradstipendiatstillinger betinger at søknadene oppfyller ett eller flere faglige tildelingskriterier ved å
+
+1. ha relevans for norsk sikkerhets- og forsvarspolitikk, inkludert evne til å gi kunnskap om og innsikt i nåværende og fremtidige sikkerhets- og forsvarspolitiske utfordringer og problemstillinger som Norge står overfor
+2. gi økt kunnskap om internasjonale rammebetingelser, og hvordan disse påvirker Norges internasjonale stilling og sikkerhet
+3. bidra til kompetanseoppbygging og styrking av det norske fagmiljøet om sikkerhetspolitisk relevante statlige og ikke-statlige aktører og endrede geopolitiske konstellasjoner
+4. bidra til utvikling av krigens folkerett og annet nasjonalt og internasjonalt rettslig rammeverk med betydning for militære operasjoner
+5. gi økt kunnskap om og innsikt i endringer i sikkerhetssituasjonen og konsekvensene for Forsvaret
+6. gi økt kunnskap om bakgrunnsfaktorer, dynamikk og skillelinjer i norsk politikk på det sikkerhets- forsvarspolitiske området
+7. fremme det sikkerhets- og forsvarspolitiske ordskiftet i Norge
+8. bidra til doktrine- og kunnskapsutvikling og det sikkerhetspolitiske grunnlaget for langtidsplanlegging i Forsvaret, som offentlig tilgjengelig og fri forskning.
 
 Forsvarsdepartementet skal angi de årlige faglige prioriteringene for hvordan søknader etter første ledd skal prioriteres ved den årlige kunngjøringen av tilskuddsordningen.
 
 ## § 7. Kunngjøring av og søknad om tilskudd
 
-Kunngjøring om tilskuddsordningene publiseres på tilskuddsforvalters nettsider. Kunngjøringen skal gi en oversikt over relevante forhold for aktuelle tilskuddssøkere, herunderformålettildelingskriteriermålgruppekrav til søkerkontrolltiltak og mulige reaksjonsformersøknadsfrist, mottak av søknad og kontaktinformasjon til tilskuddsforvalter.
+Kunngjøring om tilskuddsordningene publiseres på tilskuddsforvalters nettsider. Kunngjøringen skal gi en oversikt over relevante forhold for aktuelle tilskuddssøkere, herunder
+
+1. formålet
+2. tildelingskriterier
+3. målgruppe
+4. krav til søker
+5. kontrolltiltak og mulige reaksjonsformer
+6. søknadsfrist, mottak av søknad og kontaktinformasjon til tilskuddsforvalter.
 
 ## § 8. Søknads- og rapporteringsfrist
 
@@ -108,7 +133,14 @@ Tilskuddsmottaker skal samarbeide under tilsynet ved blant annet å innhente og 
 
 ## § 15. Reaksjonsformer
 
-Tilskuddsforvalter kan trekke tilbake tilsagn om tilskudd, holde tilbake tilskudd eller kreve tilbakebetaling av utbetalte tilskudd dersomtilskuddsmottakeren har brutt opplysningsplikten i [§ 9](forskrift/2023-10-31-1762/§9)tilskuddet ikke blir benyttet i samsvar med betingelsene og vilkårene for tilskuddettilskuddsmottakeren unnlater å sende inn eller sender inn mangelfull rapport etter [§ 12](forskrift/2023-10-31-1762/§12)tilskuddsmottakeren unnlater å informere om ubenyttede tilskuddsmidler etter [§ 13](forskrift/2023-10-31-1762/§13)tilskuddsmottakeren unnlater å medvirke eller legge til rette for tilsyn og kontroll etter [§ 14](forskrift/2023-10-31-1762/§14)tilskuddsmottaker på annen vesentlig måte har brutt bestemmelsene i denne forskriften.
+Tilskuddsforvalter kan trekke tilbake tilsagn om tilskudd, holde tilbake tilskudd eller kreve tilbakebetaling av utbetalte tilskudd dersom
+
+1. tilskuddsmottakeren har brutt opplysningsplikten i [§ 9](forskrift/2023-10-31-1762/§9)
+2. tilskuddet ikke blir benyttet i samsvar med betingelsene og vilkårene for tilskuddet
+3. tilskuddsmottakeren unnlater å sende inn eller sender inn mangelfull rapport etter [§ 12](forskrift/2023-10-31-1762/§12)
+4. tilskuddsmottakeren unnlater å informere om ubenyttede tilskuddsmidler etter [§ 13](forskrift/2023-10-31-1762/§13)
+5. tilskuddsmottakeren unnlater å medvirke eller legge til rette for tilsyn og kontroll etter [§ 14](forskrift/2023-10-31-1762/§14)
+6. tilskuddsmottaker på annen vesentlig måte har brutt bestemmelsene i denne forskriften.
 
 ## § 16. Ikrafttredelse
 

@@ -16,7 +16,7 @@ xml_hash: "f2f5994721c41142dd8a41c030e4e496ea3c5cf44c019b109eb8c6552e1bfb4f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -39,25 +39,127 @@ Forskriften skal sikre at trykkpåkjent utstyr og sammenstillinger som gjøres t
 
 ### § 3. Unntak
 
-Forskriften gjelder ikke forrørledninger som omfatter et rør eller et rørsystem beregnet på transport av fluider eller stoff til eller fra et anlegg (på land eller til havs), inkludert den siste avsperringsanordningen som er plassert innenfor anleggets område, og inkludert alt tilknyttet utstyr som er spesielt konstruert for rørledningerrørnett for forsyning, fordeling og utslipp av vann og tilhørende utstyr og innløpskanaler, blant annet rørgater, trykktunneler og trykksjakter for vannkraftverk og deres særskilte tilbehørenkle trykkbeholdere som omfattes av [forskrift 10. februar 2017 nr. 171](forskrift/2017-02-10-171) om enkle trykkbeholdereaerosolbeholdere som omfattes av [forskrift 1. mars 1996 nr. 229](forskrift/1996-03-01-229) om aerosolbeholdereutstyr beregnet på drift av kjøretøyer regulert i følgende forskrifter:[forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil[forskrift 1. juni 2016 nr. 561](forskrift/2016-06-01-561) om godkjenning av traktor og tilhenger til traktor[forskrift 1. juni 2016 nr. 560](forskrift/2016-06-01-560) om godkjenning av moped og motorsykkelutstyr som ikke er klassifisert høyere enn i kategori I, og som omfattes av en av følgende forskrifter:[forskrift 20. mai 2009 nr. 544 om maskiner](forskrift/2009-05-20-544)[forskrift 13. april 2016 nr. 373 om omsetning og dokumentasjon av heiser og sikkerhetskomponenter for heiser](forskrift/2016-04-13-373)[forskrift 10. oktober 2017 nr. 1598 om elektrisk utstyr](forskrift/2017-10-10-1598)[forskrift 15. desember 2005 nr. 1690 om medisinsk utstyr](forskrift/2005-12-15-1690)[forskrift 26. juni 2018 nr. 1025 om gassapparater](forskrift/2018-06-26-1025)[forskrift 29. november 2017 nr. 1849 om utstyr og sikkerhetssystem til bruk i eksplosjonsfarlig område](forskrift/2017-11-29-1849)utstyr som omfattes av artikkel 123 bokstav b i [lov 27. november 1992 nr. 109](lov/1992-11-27-109) om gjennomføring i norsk rett av hoveddelen i avtale om Det europeiske økonomiske samarbeidsområde (EØS)komponenter som er særskilt konstruert for nukleær bruk, og som ved funksjonssvikt kan forårsake radioaktive utslippbrønnkontrollutstyr som brukes i forbindelse med leting etter og utvinning av olje, gass eller jordvarme og ved underjordisk lagring, og som er beregnet på å holde og/eller regulere brønntrykket. Dette omfatter brønnhode (ventiltre), utblåsningsventiler (BOP), samlestokker og alt deres utstyr oppstrømsutstyr som omfatter hus eller maskiner der dimensjonene, materialvalget og reglene for produksjon primært er basert på krav om tilstrekkelig styrke, fasthet og stabilitet til å motstå statiske og dynamiske virkninger av driften eller andre kjennetegn ved driften, og der trykk ikke utgjør en vesentlig faktor ved konstruksjonen. Slikt utstyr kan omfattemotorer, blant annet turbiner og forbrenningsmotorerdampmaskiner, gass-/dampturbiner, turbindrevne generatorer, kompressorer, pumper og aktuatorermasovner/sjaktovner med kjøleutstyr, varmlufts regeneratorovner, støvutskillere og røykgassvaskere for masovner/sjaktovner, og direkte reduserende kupolovner, inkludert kjøleutstyr, gasskonverter, gryter for smelting og resmelting, avgassing og støping av stål og metaller som ikke er jernkapslinger for elektrisk høyspenningsutstyr som bryteranlegg, kontrollutstyr, transformatorer og roterende maskinertrykkpåkjente rør for inneslutning av overføringssystemer, for eksempel elektriske kabler og telefonkablerskip, raketter, luftfartøyer og mobile enheter til havs og utstyr som er særskilt beregnet på montering om bord i eller til framdrift av demtrykkpåkjent utstyr som består av en fleksibel mantel, for eksempel dekk, luftputer, baller brukt til spill, oppblåsbare båter og annet lignende trykkpåkjent utstyrlyddempere for eksos og innsugningflasker eller bokser for karbondioksidholdige drikker til konsumbeholdere til transport og fordeling av drikker med PS · V på høyst 500 bar · l og med et tillatt maksimalttrykk på 7 barutstyr som omfattes av[forskrift 1. april 2009 nr. 384](forskrift/2009-04-01-384) om landtransport av farlig gods,[forskrift 22. november 2012 nr. 1088](forskrift/2012-11-22-1088) om transportabelt trykkutstyrden internasjonale kodeks for transport av farlig last til sjøs og Chicago-konvensjonen av 1944 om internasjonal sivil luftfartradiatorer og rør i varmtvannsanleggbeholdere for væsker med et gasstrykk over væsken på høyst 0,5 bar.
+Forskriften gjelder ikke for
+
+1. rørledninger som omfatter et rør eller et rørsystem beregnet på transport av fluider eller stoff til eller fra et anlegg (på land eller til havs), inkludert den siste avsperringsanordningen som er plassert innenfor anleggets område, og inkludert alt tilknyttet utstyr som er spesielt konstruert for rørledninger
+2. rørnett for forsyning, fordeling og utslipp av vann og tilhørende utstyr og innløpskanaler, blant annet rørgater, trykktunneler og trykksjakter for vannkraftverk og deres særskilte tilbehør
+3. enkle trykkbeholdere som omfattes av [forskrift 10. februar 2017 nr. 171](forskrift/2017-02-10-171) om enkle trykkbeholdere
+4. aerosolbeholdere som omfattes av [forskrift 1. mars 1996 nr. 229](forskrift/1996-03-01-229) om aerosolbeholdere
+5. utstyr beregnet på drift av kjøretøyer regulert i følgende forskrifter:
+
+   1. [forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil
+   2. [forskrift 1. juni 2016 nr. 561](forskrift/2016-06-01-561) om godkjenning av traktor og tilhenger til traktor
+   3. [forskrift 1. juni 2016 nr. 560](forskrift/2016-06-01-560) om godkjenning av moped og motorsykkel
+6. utstyr som ikke er klassifisert høyere enn i kategori I, og som omfattes av en av følgende forskrifter:
+
+   1. [forskrift 20. mai 2009 nr. 544 om maskiner](forskrift/2009-05-20-544)
+   2. [forskrift 13. april 2016 nr. 373 om omsetning og dokumentasjon av heiser og sikkerhetskomponenter for heiser](forskrift/2016-04-13-373)
+   3. [forskrift 10. oktober 2017 nr. 1598 om elektrisk utstyr](forskrift/2017-10-10-1598)
+   4. [forskrift 15. desember 2005 nr. 1690 om medisinsk utstyr](forskrift/2005-12-15-1690)
+   5. [forskrift 26. juni 2018 nr. 1025 om gassapparater](forskrift/2018-06-26-1025)
+   6. [forskrift 29. november 2017 nr. 1849 om utstyr og sikkerhetssystem til bruk i eksplosjonsfarlig område](forskrift/2017-11-29-1849)
+7. utstyr som omfattes av artikkel 123 bokstav b i [lov 27. november 1992 nr. 109](lov/1992-11-27-109) om gjennomføring i norsk rett av hoveddelen i avtale om Det europeiske økonomiske samarbeidsområde (EØS)
+8. komponenter som er særskilt konstruert for nukleær bruk, og som ved funksjonssvikt kan forårsake radioaktive utslipp
+9. brønnkontrollutstyr som brukes i forbindelse med leting etter og utvinning av olje, gass eller jordvarme og ved underjordisk lagring, og som er beregnet på å holde og/eller regulere brønntrykket. Dette omfatter brønnhode (ventiltre), utblåsningsventiler (BOP), samlestokker og alt deres utstyr oppstrøms
+10. utstyr som omfatter hus eller maskiner der dimensjonene, materialvalget og reglene for produksjon primært er basert på krav om tilstrekkelig styrke, fasthet og stabilitet til å motstå statiske og dynamiske virkninger av driften eller andre kjennetegn ved driften, og der trykk ikke utgjør en vesentlig faktor ved konstruksjonen. Slikt utstyr kan omfatte
+
+    1. motorer, blant annet turbiner og forbrenningsmotorer
+    2. dampmaskiner, gass-/dampturbiner, turbindrevne generatorer, kompressorer, pumper og aktuatorer
+11. masovner/sjaktovner med kjøleutstyr, varmlufts regeneratorovner, støvutskillere og røykgassvaskere for masovner/sjaktovner, og direkte reduserende kupolovner, inkludert kjøleutstyr, gasskonverter, gryter for smelting og resmelting, avgassing og støping av stål og metaller som ikke er jern
+12. kapslinger for elektrisk høyspenningsutstyr som bryteranlegg, kontrollutstyr, transformatorer og roterende maskiner
+13. trykkpåkjente rør for inneslutning av overføringssystemer, for eksempel elektriske kabler og telefonkabler
+14. skip, raketter, luftfartøyer og mobile enheter til havs og utstyr som er særskilt beregnet på montering om bord i eller til framdrift av dem
+15. trykkpåkjent utstyr som består av en fleksibel mantel, for eksempel dekk, luftputer, baller brukt til spill, oppblåsbare båter og annet lignende trykkpåkjent utstyr
+16. lyddempere for eksos og innsugning
+17. flasker eller bokser for karbondioksidholdige drikker til konsum
+18. beholdere til transport og fordeling av drikker med PS · V på høyst 500 bar · l og med et tillatt maksimalttrykk på 7 bar
+19. utstyr som omfattes av
+
+    1. [forskrift 1. april 2009 nr. 384](forskrift/2009-04-01-384) om landtransport av farlig gods,
+    2. [forskrift 22. november 2012 nr. 1088](forskrift/2012-11-22-1088) om transportabelt trykkutstyr
+    3. den internasjonale kodeks for transport av farlig last til sjøs og Chicago-konvensjonen av 1944 om internasjonal sivil luftfart
+20. radiatorer og rør i varmtvannsanlegg
+21. beholdere for væsker med et gasstrykk over væsken på høyst 0,5 bar.
 
 > Endret ved [forskrifter 30 april 2019 nr. 548](forskrift/2019-04-30-548), [11 feb 2021 nr. 439](forskrift/2021-02-11-439).
 
 ### § 4. Definisjoner
 
-I forskriften menes med*trykkpåkjent utstyr:* beholdere, rørsystemer, sikkerhetstilbehør og trykkpåkjent tilbehør, inkludert deler som er festet til trykkpåkjente deler, som flenser, dyser, koplinger, støtter eller løfteører*beholder:* et trykkrom konstruert og bygd for oppbevaring av fluider under trykk, inkludert fastmonterte deler fram til tilkoblingspunktet for annet utstyr. En beholder kan bestå av mer enn ett trykkrom*rørsystem:* rørkomponenter for transport av fluider under trykk når de er sammenkoplet for å integreres i et trykkpåkjent system. Rørsystemer omfatter blant annet rør eller systemer av rør, koplinger, rørdeler, ekspansjonskoplinger, slanger eller eventuelt andre trykkpåkjente komponenter. Varmevekslere som består av rør for avkjøling eller oppvarming av luft, skal anses som rørsystemer*sikkerhetstilbehør:* anordninger som skal beskytte trykkpåkjent utstyr mot overskridelse av tillatte grenser. Tilbehøret omfatter blant annetanordninger for direkte trykkbegrensning, som for eksempel sikkerhetsventiler, sprengskiver, knekkstaver, styringssystemer for trykkavlastninggrensebrytere som aktiverer en korrigerende funksjon, eller som sørger for stans og/eller avstengning, som for eksempel trykk-, temperatur- eller nivåbryteresikkerhetsrelaterte måle-, kontroll- og reguleringsanordninger*trykkpåkjent tilbehør:* driftsanordninger med trykkrom*sammenstilling:* flere trykkpåkjente komponenter som en produsent har montert sammen til et integrert og funksjonelt hele*trykk:* trykk i forhold til det atmosfæriske trykk, det vil si overtrykk. Undertrykk angis derfor med negativ verdi*tillatt maksimalttrykk (PS):* maksimalt trykk som utstyret er konstruert for, som angitt av produsenten, og definert på et sted angitt av produsenten, enten:der sikkerhets- eller trykkbegrensningsinnretningene er montert, ellerpå den øverste delen av utstyret, ellerdersom disse stedene ikke er egnet, ethvert annet angitt sted*tillatt maksimal-/minimaltemperatur (TS):* produsentens angivelse av maksimal- /minimaltemperatur som utstyret er konstruert for*volum (V):* det indre volumet av et trykkrom, medregnet volumet av stusser fram til første sammenføyning eller sveiseskjøt, men fratrukket volumet av faste innvendige komponenter*nominell diameter (DN):* en numerisk angivelse av diameteren (i mm) som er felles for alle komponenter i et rørsystem, bortsett fra komponenter som er angitt med utvendig diameter eller gjengedimensjon. Det dreier seg om et avrundet tall som kan benyttes som referanse, men som ikke er identisk med de tegningsmålene produsenten benytter. Den nominelle diameter angis som DN, etterfulgt av det avrundede tallet*fluider:* gasser, væsker og damper i ren tilstand og blandinger av slike. Et fluid kan inneholde en suspensjon av faste stoffer*permanente sammenføyninger:* sammenføyninger som kun kan adskilles ved destruktive metoder*europeisk godkjenning av materialer:* et teknisk dokument som definerer egenskapene ved materialer som er beregnet på gjentatt bruk i produksjonen av trykkpåkjent utstyr og som ikke omfattes av en harmonisert standard*gjøre tilgjengelig på markedet:* enhver levering av trykkpåkjent utstyr eller sammenstillinger for distribusjon eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt*bringe i omsetning:* gjøre trykkpåkjent utstyr eller sammenstillinger tilgjengelig i EØS for første gang*ta i bruk:* brukerens førstegangsbruk av trykkpåkjent utstyr eller sammenstillinger*produsent:* enhver fysisk eller juridisk person som produserer trykkpåkjent utstyr eller sammenstillinger eller som får utstyret konstruert eller produsert, og som markedsfører det under eget navn eller varemerke eller bruker det for egne formål*representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver*importør:* enhver fysisk eller juridisk person etablert i EØS som bringer trykkpåkjent utstyr eller sammenstillinger fra en tredjestat i omsetning i EØS*distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør trykkpåkjent utstyr eller sammenstillinger tilgjengelig på markedet*markedsdeltakere:* produsenten, representanten, importøren og distributøren*teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av trykkpåkjent utstyr eller sammenstillinger*harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføring av EØS-regelverk*akkreditering:* en attestering fra et nasjonalt akkrediteringsorgan om at et organ oppfyller kravene i harmoniserte standarder og eventuelle tilleggskrav, til å utøve en bestemt samsvarsvurderingsvirksomhet*nasjonalt akkrediteringsorgan:* det eneste organet i en EØS-stat som utfører akkreditering på oppdrag fra staten*samsvarsvurdering:* prosessen for å fastslå om trykkpåkjent utstyr eller sammenstillinger oppfyller de grunnleggende sikkerhetskravene*teknisk kontrollorgan, brukerinspektorat og godkjent tredjepartsorgan:* uavhengig organ som er utpekt etter [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar*tilbakekalling:* ethvert tiltak rettet mot tilbakelevering av trykkpåkjent utstyr eller sammenstillinger som allerede er gjort tilgjengelig for brukerne*tilbaketrekking:* ethvert tiltak rettet mot å hindre at trykkpåkjent utstyr eller sammenstillinger i omsetningskjeden blir gjort tilgjengelig på markedet*CE-merking:* merking der produsenten angir at det trykkpåkjente utstyret eller sammenstillingen oppfyller gjeldende krav fastsatt i EØS-regelverk om slik merking*EØS-regelverk:* regelverk i EØS som harmoniserer vilkårene for markedsføring av produkter.
+I forskriften menes med
+
+1. *trykkpåkjent utstyr:* beholdere, rørsystemer, sikkerhetstilbehør og trykkpåkjent tilbehør, inkludert deler som er festet til trykkpåkjente deler, som flenser, dyser, koplinger, støtter eller løfteører
+2. *beholder:* et trykkrom konstruert og bygd for oppbevaring av fluider under trykk, inkludert fastmonterte deler fram til tilkoblingspunktet for annet utstyr. En beholder kan bestå av mer enn ett trykkrom
+3. *rørsystem:* rørkomponenter for transport av fluider under trykk når de er sammenkoplet for å integreres i et trykkpåkjent system. Rørsystemer omfatter blant annet rør eller systemer av rør, koplinger, rørdeler, ekspansjonskoplinger, slanger eller eventuelt andre trykkpåkjente komponenter. Varmevekslere som består av rør for avkjøling eller oppvarming av luft, skal anses som rørsystemer
+4. *sikkerhetstilbehør:* anordninger som skal beskytte trykkpåkjent utstyr mot overskridelse av tillatte grenser. Tilbehøret omfatter blant annet
+
+   1. anordninger for direkte trykkbegrensning, som for eksempel sikkerhetsventiler, sprengskiver, knekkstaver, styringssystemer for trykkavlastning
+   2. grensebrytere som aktiverer en korrigerende funksjon, eller som sørger for stans og/eller avstengning, som for eksempel trykk-, temperatur- eller nivåbrytere
+   3. sikkerhetsrelaterte måle-, kontroll- og reguleringsanordninger
+5. *trykkpåkjent tilbehør:* driftsanordninger med trykkrom
+6. *sammenstilling:* flere trykkpåkjente komponenter som en produsent har montert sammen til et integrert og funksjonelt hele
+7. *trykk:* trykk i forhold til det atmosfæriske trykk, det vil si overtrykk. Undertrykk angis derfor med negativ verdi
+8. *tillatt maksimalttrykk (PS):* maksimalt trykk som utstyret er konstruert for, som angitt av produsenten, og definert på et sted angitt av produsenten, enten:
+
+   1. der sikkerhets- eller trykkbegrensningsinnretningene er montert, eller
+   2. på den øverste delen av utstyret, eller
+   3. dersom disse stedene ikke er egnet, ethvert annet angitt sted
+9. *tillatt maksimal-/minimaltemperatur (TS):* produsentens angivelse av maksimal- /minimaltemperatur som utstyret er konstruert for
+10. *volum (V):* det indre volumet av et trykkrom, medregnet volumet av stusser fram til første sammenføyning eller sveiseskjøt, men fratrukket volumet av faste innvendige komponenter
+11. *nominell diameter (DN):* en numerisk angivelse av diameteren (i mm) som er felles for alle komponenter i et rørsystem, bortsett fra komponenter som er angitt med utvendig diameter eller gjengedimensjon. Det dreier seg om et avrundet tall som kan benyttes som referanse, men som ikke er identisk med de tegningsmålene produsenten benytter. Den nominelle diameter angis som DN, etterfulgt av det avrundede tallet
+12. *fluider:* gasser, væsker og damper i ren tilstand og blandinger av slike. Et fluid kan inneholde en suspensjon av faste stoffer
+13. *permanente sammenføyninger:* sammenføyninger som kun kan adskilles ved destruktive metoder
+14. *europeisk godkjenning av materialer:* et teknisk dokument som definerer egenskapene ved materialer som er beregnet på gjentatt bruk i produksjonen av trykkpåkjent utstyr og som ikke omfattes av en harmonisert standard
+15. *gjøre tilgjengelig på markedet:* enhver levering av trykkpåkjent utstyr eller sammenstillinger for distribusjon eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt
+16. *bringe i omsetning:* gjøre trykkpåkjent utstyr eller sammenstillinger tilgjengelig i EØS for første gang
+17. *ta i bruk:* brukerens førstegangsbruk av trykkpåkjent utstyr eller sammenstillinger
+18. *produsent:* enhver fysisk eller juridisk person som produserer trykkpåkjent utstyr eller sammenstillinger eller som får utstyret konstruert eller produsert, og som markedsfører det under eget navn eller varemerke eller bruker det for egne formål
+19. *representant:* enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver
+20. *importør:* enhver fysisk eller juridisk person etablert i EØS som bringer trykkpåkjent utstyr eller sammenstillinger fra en tredjestat i omsetning i EØS
+21. *distributør:* enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør trykkpåkjent utstyr eller sammenstillinger tilgjengelig på markedet
+22. *markedsdeltakere:* produsenten, representanten, importøren og distributøren
+23. *teknisk spesifikasjon:* et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av trykkpåkjent utstyr eller sammenstillinger
+24. *harmonisert standard:* en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføring av EØS-regelverk
+25. *akkreditering:* en attestering fra et nasjonalt akkrediteringsorgan om at et organ oppfyller kravene i harmoniserte standarder og eventuelle tilleggskrav, til å utøve en bestemt samsvarsvurderingsvirksomhet
+26. *nasjonalt akkrediteringsorgan:* det eneste organet i en EØS-stat som utfører akkreditering på oppdrag fra staten
+27. *samsvarsvurdering:* prosessen for å fastslå om trykkpåkjent utstyr eller sammenstillinger oppfyller de grunnleggende sikkerhetskravene
+28. *teknisk kontrollorgan, brukerinspektorat og godkjent tredjepartsorgan:* uavhengig organ som er utpekt etter [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar
+29. *tilbakekalling:* ethvert tiltak rettet mot tilbakelevering av trykkpåkjent utstyr eller sammenstillinger som allerede er gjort tilgjengelig for brukerne
+30. *tilbaketrekking:* ethvert tiltak rettet mot å hindre at trykkpåkjent utstyr eller sammenstillinger i omsetningskjeden blir gjort tilgjengelig på markedet
+31. *CE-merking:* merking der produsenten angir at det trykkpåkjente utstyret eller sammenstillingen oppfyller gjeldende krav fastsatt i EØS-regelverk om slik merking
+32. *EØS-regelverk:* regelverk i EØS som harmoniserer vilkårene for markedsføring av produkter.
 
 ### § 5. Beholdere som skal oppfylle grunnleggende sikkerhetskrav
 
-De grunnleggende sikkerhetskravene i vedlegg I skal oppfylles av beholdere beregnet pågasser, kondenserte gasser, gasser som er oppløst under trykk, damper og væsker som har et damptrykk ved den tillatte maksimaltemperatur på mer enn 0,5 bar over det normale atmosfæriske trykk (1 013 mbar) innenfor følgende grenser:for fluider i gruppe 1, med et volum på mer enn 1 l og et produkt av PS x V på mer enn 25 bar · l, eller med et trykk (PS) på mer enn 200 bar, jf. vedlegg II diagram 1for fluider i gruppe 2, med et volum på mer enn 1 l og et produkt av PS x V på mer enn 50 bar · l, eller med et trykk (PS) på mer enn 1 000 bar, og alle håndslokkere og flasker for pusteapparater, jf. vedlegg II diagram 2.væsker som har et damptrykk ved den tillatte maksimaltemperatur på 0,5 bar eller mindre over det normale atmosfæriske trykk (1 013 mbar) innenfor følgende grenser:for fluider i gruppe 1, med et volum på mer enn 1 l og et produkt av PS x V på mer enn 200 bar · l, eller med et trykk (PS) på mer enn 500 bar, jf. vedlegg II diagram 3for fluider i gruppe 2, med et trykk på mer enn 10 bar og et produkt av PS x V på mer enn 10 000 bar · l, eller med et trykk (PS) på mer enn 1 000 bar, jf. vedlegg II diagram 4.
+De grunnleggende sikkerhetskravene i vedlegg I skal oppfylles av beholdere beregnet på
+
+1. gasser, kondenserte gasser, gasser som er oppløst under trykk, damper og væsker som har et damptrykk ved den tillatte maksimaltemperatur på mer enn 0,5 bar over det normale atmosfæriske trykk (1 013 mbar) innenfor følgende grenser:
+
+   1. for fluider i gruppe 1, med et volum på mer enn 1 l og et produkt av PS x V på mer enn 25 bar · l, eller med et trykk (PS) på mer enn 200 bar, jf. vedlegg II diagram 1
+   2. for fluider i gruppe 2, med et volum på mer enn 1 l og et produkt av PS x V på mer enn 50 bar · l, eller med et trykk (PS) på mer enn 1 000 bar, og alle håndslokkere og flasker for pusteapparater, jf. vedlegg II diagram 2.
+2. væsker som har et damptrykk ved den tillatte maksimaltemperatur på 0,5 bar eller mindre over det normale atmosfæriske trykk (1 013 mbar) innenfor følgende grenser:
+
+   1. for fluider i gruppe 1, med et volum på mer enn 1 l og et produkt av PS x V på mer enn 200 bar · l, eller med et trykk (PS) på mer enn 500 bar, jf. vedlegg II diagram 3
+   2. for fluider i gruppe 2, med et trykk på mer enn 10 bar og et produkt av PS x V på mer enn 10 000 bar · l, eller med et trykk (PS) på mer enn 1 000 bar, jf. vedlegg II diagram 4.
 
 ### § 6. Trykkpåkjent utstyr, fyrt eller oppvarmet på annen måte, som skal oppfylle grunnleggende sikkerhetskrav
 
-Følgende skal oppfylle grunnleggende sikkerhetskrav i vedlegg I, jf. vedlegg II diagram 5:trykkpåkjent utstyr med et volum på mer enn 2 l, fyrt eller oppvarmet på annen måte, som kan bli utsatt for overoppheting, beregnet på produksjon av damp eller overhetet vann med temperatur over 110 °Calle trykkokere.
+Følgende skal oppfylle grunnleggende sikkerhetskrav i vedlegg I, jf. vedlegg II diagram 5:
+
+1. trykkpåkjent utstyr med et volum på mer enn 2 l, fyrt eller oppvarmet på annen måte, som kan bli utsatt for overoppheting, beregnet på produksjon av damp eller overhetet vann med temperatur over 110 °C
+2. alle trykkokere.
 
 ### § 7. Rørsystemer som skal oppfylle grunnleggende sikkerhetskrav
 
-De grunnleggende sikkerhetskravene i vedlegg I skal oppfylles av rørsystemer beregnet pågasser, kondenserte gasser, gasser som er oppløst under trykk, damper og væsker som har et damptrykk ved den tillatte maksimaltemperatur på mer enn 0,5 bar over det normale atmosfæriske trykk (1 013 mbar) innenfor følgende grenser:for fluider i gruppe 1, med DN på mer enn 25, jf. vedlegg II diagram 6for fluider i gruppe 2, med DN på mer enn 32 og et produkt av PS x DN på mer enn 1 000 bar, jf. vedlegg II diagram 7.væsker som har et damptrykk ved den tillatte maksimaltemperatur på 0,5 bar eller mindre over det normale atmosfæriske trykk (1 013 mbar) innenfor følgende grenser:for fluider i gruppe 1, med DN på mer enn 25 og et produkt av PS x DN på mer enn 2 000 bar, jf. vedlegg II diagram 8for fluider i gruppe 2, med PS på mer enn 10 bar, DN på mer enn 200 og et produkt av PS x DN på mer enn 5 000 bar, jf. vedlegg II diagram 9.
+De grunnleggende sikkerhetskravene i vedlegg I skal oppfylles av rørsystemer beregnet på
+
+1. gasser, kondenserte gasser, gasser som er oppløst under trykk, damper og væsker som har et damptrykk ved den tillatte maksimaltemperatur på mer enn 0,5 bar over det normale atmosfæriske trykk (1 013 mbar) innenfor følgende grenser:
+
+   1. for fluider i gruppe 1, med DN på mer enn 25, jf. vedlegg II diagram 6
+   2. for fluider i gruppe 2, med DN på mer enn 32 og et produkt av PS x DN på mer enn 1 000 bar, jf. vedlegg II diagram 7.
+2. væsker som har et damptrykk ved den tillatte maksimaltemperatur på 0,5 bar eller mindre over det normale atmosfæriske trykk (1 013 mbar) innenfor følgende grenser:
+
+   1. for fluider i gruppe 1, med DN på mer enn 25 og et produkt av PS x DN på mer enn 2 000 bar, jf. vedlegg II diagram 8
+   2. for fluider i gruppe 2, med PS på mer enn 10 bar, DN på mer enn 200 og et produkt av PS x DN på mer enn 5 000 bar, jf. vedlegg II diagram 9.
 
 ### § 8. Sikkerhetstilbehør og trykkpåkjent tilbehør som skal oppfylle grunnleggende sikkerhetskrav
 
@@ -65,7 +167,10 @@ Sikkerhetstilbehør og trykkpåkjent tilbehør til utstyr nevnt i [§ 5](forskri
 
 ### § 9. Sammenstillinger som skal oppfylle grunnleggende sikkerhetskrav
 
-Følgende sammenstillinger som omfatter minst én trykkpåkjent komponent nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 8](forskrift/2017-10-10-1631/§8), skal oppfylle grunnleggende sikkerhetskrav i vedlegg I:sammenstillinger som er fyrt eller på annen måte oppvarmet, som kan bli utsatt for overoppheting og som er beregnet på produksjon av damp eller overhetet vann med en temperatur på over 110 °Csammenstillinger som ikke omfattes av bokstav a, dersom produsenten har til hensikt å gjøre dem tilgjengelig på markedet og ta dem i bruk som sammenstillinger.
+Følgende sammenstillinger som omfatter minst én trykkpåkjent komponent nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 8](forskrift/2017-10-10-1631/§8), skal oppfylle grunnleggende sikkerhetskrav i vedlegg I:
+
+1. sammenstillinger som er fyrt eller på annen måte oppvarmet, som kan bli utsatt for overoppheting og som er beregnet på produksjon av damp eller overhetet vann med en temperatur på over 110 °C
+2. sammenstillinger som ikke omfattes av bokstav a, dersom produsenten har til hensikt å gjøre dem tilgjengelig på markedet og ta dem i bruk som sammenstillinger.
 
 ### § 10. Sammenstillinger som delvis skal oppfylle grunnleggende sikkerhetskrav
 
@@ -97,7 +202,11 @@ Trykkpåkjent utstyr og sammenstillinger som ikke oppfyller kravene i forskrifte
 
 (6) Produsenten skal påse at det finnes framgangsmåter for å sikre fortsatt samsvar ved serieproduksjon. Det skal tas tilstrekkelig hensyn til endringer i det trykkpåkjente utstyrets eller sammenstillingenes konstruksjon eller egenskaper og endringer i harmoniserte standarder eller andre tekniske spesifikasjoner som det er vist til i samsvarserklæringen.
 
-(7) Produsenten skal når det anses hensiktsmessig med hensyn til risikoen som er forbundet med trykkpåkjent utstyr eller sammenstillingerta stikkprøver av trykkpåkjent utstyr eller sammenstillinger som er gjort tilgjengelig på markedetundersøke og, om nødvendig føre et register over, klager, trykkpåkjent utstyr og sammenstillinger som ikke oppfyller kravene og tilbakekallinger av trykkpåkjent utstyr og sammenstillingerholde distributører informert om all slik overvåking.
+(7) Produsenten skal når det anses hensiktsmessig med hensyn til risikoen som er forbundet med trykkpåkjent utstyr eller sammenstillinger
+
+1. ta stikkprøver av trykkpåkjent utstyr eller sammenstillinger som er gjort tilgjengelig på markedet
+2. undersøke og, om nødvendig føre et register over, klager, trykkpåkjent utstyr og sammenstillinger som ikke oppfyller kravene og tilbakekallinger av trykkpåkjent utstyr og sammenstillinger
+3. holde distributører informert om all slik overvåking.
 
 (8) Produsenten skal sikre at trykkpåkjent utstyr eller sammenstillinger har et type-, parti-, serienummer eller lignende som gjør det mulig å identifisere det. Dersom utstyrets størrelse eller art ikke tillater dette, skal nødvendige opplysninger gis på emballasjen eller i et dokument som følger med utstyret.
 
@@ -119,17 +228,31 @@ Trykkpåkjent utstyr og sammenstillinger som ikke oppfyller kravene i forskrifte
 
 (2) Forpliktelsene etter [§ 13](forskrift/2017-10-10-1631/§13) første, annet og tredje ledd skal ikke omfattes av representantens fullmakt.
 
-(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til åha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at det trykkpåkjente utstyret eller sammenstillingen er brakt i omsetningpå anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at utstyret er i samsvar med forskriftenpå anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med trykkpåkjent utstyr eller sammenstillinger som omfattes av fullmakten.
+(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til å
+
+1. ha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at det trykkpåkjente utstyret eller sammenstillingen er brakt i omsetning
+2. på anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at utstyret er i samsvar med forskriften
+3. på anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med trykkpåkjent utstyr eller sammenstillinger som omfattes av fullmakten.
 
 ### § 15. Importørens forpliktelser
 
 (1) Importøren skal bare bringe i omsetning trykkpåkjent utstyr og sammenstillinger som er i samsvar med forskriften.
 
-(2) Før det trykkpåkjente utstyret eller sammenstillingene nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 10](forskrift/2017-10-10-1631/§10) bringes i omsetning, skal importøren sikre atprodusenten har gjennomført relevant framgangsmåte for samsvarsvurderingprodusenten har utarbeidet teknisk dokumentasjonutstyret er påført CE-merkingutstyret følges av anvisninger og sikkerhetsinformasjon i samsvar med kravene i vedlegg I nr. 3.3 og 3.4produsenten har oppfylt kravene etter [§ 13](forskrift/2017-10-10-1631/§13) åttende og niende ledd.
+(2) Før det trykkpåkjente utstyret eller sammenstillingene nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 10](forskrift/2017-10-10-1631/§10) bringes i omsetning, skal importøren sikre at
+
+1. produsenten har gjennomført relevant framgangsmåte for samsvarsvurdering
+2. produsenten har utarbeidet teknisk dokumentasjon
+3. utstyret er påført CE-merking
+4. utstyret følges av anvisninger og sikkerhetsinformasjon i samsvar med kravene i vedlegg I nr. 3.3 og 3.4
+5. produsenten har oppfylt kravene etter [§ 13](forskrift/2017-10-10-1631/§13) åttende og niende ledd.
 
 (3) En importør som har grunn til å tro at det trykkpåkjente utstyret eller sammenstillingen ikke er i samsvar med kravene i vedlegg I, skal ikke bringe utstyret i omsetning før det er i samsvar med kravene. Dersom utstyret utgjør en risiko, skal importøren varsle produsenten og markedstilsynsmyndighetene.
 
-(4) Før det trykkpåkjente utstyret eller sammenstillingene nevnt i [§ 11](forskrift/2017-10-10-1631/§11) bringes i omsetning, skal importøren sikre atprodusenten har utarbeidet teknisk dokumentasjonutstyret følges av tilstrekkelige bruksanvisningerprodusenten har oppfylt kravene etter [§ 13](forskrift/2017-10-10-1631/§13) åttende og niende ledd.
+(4) Før det trykkpåkjente utstyret eller sammenstillingene nevnt i [§ 11](forskrift/2017-10-10-1631/§11) bringes i omsetning, skal importøren sikre at
+
+1. produsenten har utarbeidet teknisk dokumentasjon
+2. utstyret følges av tilstrekkelige bruksanvisninger
+3. produsenten har oppfylt kravene etter [§ 13](forskrift/2017-10-10-1631/§13) åttende og niende ledd.
 
 (5) Importøren skal angi navn, firma eller registrert varemerke og kontaktadresse på det trykkpåkjente utstyret eller sammenstillingen. Dersom dette ikke er mulig, skal kontaktopplysningene påføres emballasjen eller et dokument som følger med utstyret. Opplysningene skal gis på en slik måte at de lett kan forstås av brukerne og markedstilsynsmyndighetene.
 
@@ -139,7 +262,11 @@ Trykkpåkjent utstyr og sammenstillinger som ikke oppfyller kravene i forskrifte
 
 (8) Importøren skal så lenge han har ansvar for det trykkpåkjente utstyret eller sammenstillingene nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 10](forskrift/2017-10-10-1631/§10), sikre at lagrings- eller transportforholdene ikke setter utstyrets samsvar med vedlegg I i fare.
 
-(9) Importøren skal når det anses hensiktsmessig med hensyn til risikoen som er forbundet med trykkpåkjent utstyr eller sammenstillingerta stikkprøver av trykkpåkjent utstyr eller sammenstillinger som er gjort tilgjengelig på markedetundersøke og, om nødvendig føre et register over, klager, trykkpåkjent utstyr og sammenstillinger som ikke oppfyller kravene og tilbakekallinger av trykkpåkjent utstyr og sammenstillingerholde distributører informert om all slik overvåking.
+(9) Importøren skal når det anses hensiktsmessig med hensyn til risikoen som er forbundet med trykkpåkjent utstyr eller sammenstillinger
+
+1. ta stikkprøver av trykkpåkjent utstyr eller sammenstillinger som er gjort tilgjengelig på markedet
+2. undersøke og, om nødvendig føre et register over, klager, trykkpåkjent utstyr og sammenstillinger som ikke oppfyller kravene og tilbakekallinger av trykkpåkjent utstyr og sammenstillinger
+3. holde distributører informert om all slik overvåking.
 
 (10) En importør som har grunn til å tro at trykkpåkjent utstyr eller sammenstillinger som er brakt i omsetning ikke er i samsvar med forskriften, skal straks treffe nødvendige korrigerende tiltak for å bringe utstyret i samsvar med forskriften, eller om nødvendig trekke tilbake eller tilbakekalle utstyret. Dersom trykkpåkjent utstyr eller sammenstillinger utgjør en risiko, skal importøren samtidig varsle relevante nasjonale myndigheter i de EØS-statene der utstyret er gjort tilgjengelig på markedet. Det skal særlig gis nærmere opplysninger om utstyrets manglende samsvar og eventuelle korrigerende tiltak som er truffet.
 
@@ -153,11 +280,21 @@ Trykkpåkjent utstyr og sammenstillinger som ikke oppfyller kravene i forskrifte
 
 (1) Distributøren skal utvise tilstrekkelig aktsomhet til kravene i forskriften når trykkpåkjent utstyr eller sammenstillinger gjøres tilgjengelig på markedet.
 
-(2) Før det trykkpåkjente utstyret eller sammenstillingene nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 10](forskrift/2017-10-10-1631/§10) gjøres tilgjengelig på markedet, skal distributøren kontrollere atutstyret er påført CE-merkingutstyret følges av de nødvendige dokumenteneutstyret følges av anvisninger og sikkerhetsinformasjon etter vedlegg I nr. 3.3 og 3.4. Sikkerhetsinformasjonen skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom trykkpåkjent utstyr eller sammenstillinger nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 10](forskrift/2017-10-10-1631/§10) skal gjøres tilgjengelig på markedet i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-staten.produsenten har oppfylt kravene i [§ 13](forskrift/2017-10-10-1631/§13) åttende og niende leddimportøren har oppfylt kravene i [§ 15](forskrift/2017-10-10-1631/§15) femte ledd.
+(2) Før det trykkpåkjente utstyret eller sammenstillingene nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 10](forskrift/2017-10-10-1631/§10) gjøres tilgjengelig på markedet, skal distributøren kontrollere at
+
+1. utstyret er påført CE-merking
+2. utstyret følges av de nødvendige dokumentene
+3. utstyret følges av anvisninger og sikkerhetsinformasjon etter vedlegg I nr. 3.3 og 3.4. Sikkerhetsinformasjonen skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom trykkpåkjent utstyr eller sammenstillinger nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 10](forskrift/2017-10-10-1631/§10) skal gjøres tilgjengelig på markedet i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-staten.
+4. produsenten har oppfylt kravene i [§ 13](forskrift/2017-10-10-1631/§13) åttende og niende ledd
+5. importøren har oppfylt kravene i [§ 15](forskrift/2017-10-10-1631/§15) femte ledd.
 
 (3) En distributør som har grunn til å tro at trykkpåkjent utstyr eller sammenstillinger ikke er i samsvar med kravene i vedlegg I, skal ikke gjøre utstyret tilgjengelig på markedet før det er i samsvar med kravene. Dersom utstyret utgjør en risiko, skal distributøren varsle markedstilsynsmyndighetene og produsenten eller importøren om dette.
 
-(4) Før det trykkpåkjente utstyret eller sammenstillingen nevnt i [§ 11](forskrift/2017-10-10-1631/§11) gjøres tilgjengelig på markedet, skal distributøren kontrollere atutstyret følges av anvisninger og sikkerhetsinformasjon. Sikkerhetsinformasjonen skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom trykkpåkjent utstyr eller sammenstillinger nevnt i [§ 11](forskrift/2017-10-10-1631/§11) skal gjøres tilgjengelig i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-statenprodusenten har oppfylt kravene i [§ 13](forskrift/2017-10-10-1631/§13) åttende og niende leddimportøren har oppfylt kravene i [§ 15](forskrift/2017-10-10-1631/§15) femte ledd.
+(4) Før det trykkpåkjente utstyret eller sammenstillingen nevnt i [§ 11](forskrift/2017-10-10-1631/§11) gjøres tilgjengelig på markedet, skal distributøren kontrollere at
+
+1. utstyret følges av anvisninger og sikkerhetsinformasjon. Sikkerhetsinformasjonen skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom trykkpåkjent utstyr eller sammenstillinger nevnt i [§ 11](forskrift/2017-10-10-1631/§11) skal gjøres tilgjengelig i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-staten
+2. produsenten har oppfylt kravene i [§ 13](forskrift/2017-10-10-1631/§13) åttende og niende ledd
+3. importøren har oppfylt kravene i [§ 15](forskrift/2017-10-10-1631/§15) femte ledd.
 
 (5) Distributøren skal så lenge han har ansvar for det trykkpåkjente utstyret eller sammenstillingene nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 10](forskrift/2017-10-10-1631/§10), sikre at lagrings- eller transportforholdene ikke setter utstyrets samsvar med kravene i vedlegg I i fare.
 
@@ -187,7 +324,25 @@ Trykkpåkjent utstyr nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 8](fo
 
 ### § 21. Grupper av fluider
 
-(1) Gruppe 1 omfatter stoffer og stoffblandinger som definert i [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), jf. artikkel 2 nr. 7 og 8 i forordning [(EF) nr. 1272/2008](eu/32008r1272*), og som er klassifisert som farlige i henhold til følgende fareklasser for fysisk fare og helsefare gitt i vedlegg I del 2 og 3 i forordningen:ustabile eksplosive varer eller eksplosive varer i gruppe 1.1, 1.2, 1.3, 1.4 og 1.5brannfarlige gasser, kategori 1 og 2oksiderende gasser, kategori 1brannfarlige væsker, kategori 1 og 2brannfarlige væsker, kategori 3, hvor den tillatte maksimaltemperatur er høyere enn flammepunktetbrannfarlige faste stoffer, kategori 1 og 2selvreaktive stoffer og stoffblandinger, type A–Fpyrofore væsker, kategori 1pyrofore faste stoffer, kategori 1stoffer og stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 1, 2 og 3oksiderende væsker, kategori 1, 2 og 3oksiderende faste stoffer, kategori 1, 2 og 3organiske peroksider, type A–Fakutt oral giftighet, kategori 1 og 2akutt giftighet ved hudkontakt, kategori 1 og 2akutt giftighet ved innånding, kategori 1, 2 og 3spesifikk målorgantoksisitet (enkelteksponering), kategori 1.
+(1) Gruppe 1 omfatter stoffer og stoffblandinger som definert i [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), jf. artikkel 2 nr. 7 og 8 i forordning [(EF) nr. 1272/2008](eu/32008r1272*), og som er klassifisert som farlige i henhold til følgende fareklasser for fysisk fare og helsefare gitt i vedlegg I del 2 og 3 i forordningen:
+
+1. ustabile eksplosive varer eller eksplosive varer i gruppe 1.1, 1.2, 1.3, 1.4 og 1.5
+2. brannfarlige gasser, kategori 1 og 2
+3. oksiderende gasser, kategori 1
+4. brannfarlige væsker, kategori 1 og 2
+5. brannfarlige væsker, kategori 3, hvor den tillatte maksimaltemperatur er høyere enn flammepunktet
+6. brannfarlige faste stoffer, kategori 1 og 2
+7. selvreaktive stoffer og stoffblandinger, type A–F
+8. pyrofore væsker, kategori 1
+9. pyrofore faste stoffer, kategori 1
+10. stoffer og stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 1, 2 og 3
+11. oksiderende væsker, kategori 1, 2 og 3
+12. oksiderende faste stoffer, kategori 1, 2 og 3
+13. organiske peroksider, type A–F
+14. akutt oral giftighet, kategori 1 og 2
+15. akutt giftighet ved hudkontakt, kategori 1 og 2
+16. akutt giftighet ved innånding, kategori 1, 2 og 3
+17. spesifikk målorgantoksisitet (enkelteksponering), kategori 1.
 
 (2) Gruppe 1 omfatter også stoffer og stoffblandinger som finnes i trykkpåkjent utstyr, der tillatt maksimaltemperatur (TS) overstiger fluidets flammepunkt.
 
@@ -225,7 +380,11 @@ Dersom et trykkrom inneholder flere fluider, skal trykkrommet klassifiseres ette
 
 (1) Samsvarserklæringen skal fastslå at kravene i vedlegg I er oppfylt.
 
-(2) Samsvarserklæringen skalutformes etter malen i vedlegg IVinneholde elementene angitt i de relevante framgangsmåtene for samsvarsvurdering i vedlegg IIIajourføres fortløpende.
+(2) Samsvarserklæringen skal
+
+1. utformes etter malen i vedlegg IV
+2. inneholde elementene angitt i de relevante framgangsmåtene for samsvarsvurdering i vedlegg III
+3. ajourføres fortløpende.
 
 (3) Samsvarserklæringen skal være på norsk, svensk, dansk eller engelsk. Dersom utstyret skal bringes i omsetning eller gjøres tilgjengelig på markedet i en annen EØS-stat, skal samsvarserklæringen oversettes til det eller de språkene som kreves av denne EØS-staten.
 
@@ -243,7 +402,10 @@ Dersom et trykkrom inneholder flere fluider, skal trykkrommet klassifiseres ette
 
 (4) Det er forbudt å påføre et trykkpåkjent utstyr eller en sammenstilling merking, tegn eller inskripsjoner som kan villede tredjemann med hensyn til CE-merkingens betydning eller grafiske utforming. Annen merking kan påføres utstyret, forutsatt at den ikke gjør CE-merkingen mindre synlig, lesbar eller endrer dens betydning.
 
-(5) CE-merkingen skal påføres slik at den er godt synlig, lett å lese og ikke kan fjernes, på følgende:alt trykkpåkjent utstyr nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 8](forskrift/2017-10-10-1631/§8) eller utstyrets merkeplateenhver sammenstilling nevnt i [§ 9](forskrift/2017-10-10-1631/§9) og [§ 10](forskrift/2017-10-10-1631/§10) eller sammenstillingens merkeplate.
+(5) CE-merkingen skal påføres slik at den er godt synlig, lett å lese og ikke kan fjernes, på følgende:
+
+1. alt trykkpåkjent utstyr nevnt i [§ 5](forskrift/2017-10-10-1631/§5) til [§ 8](forskrift/2017-10-10-1631/§8) eller utstyrets merkeplate
+2. enhver sammenstilling nevnt i [§ 9](forskrift/2017-10-10-1631/§9) og [§ 10](forskrift/2017-10-10-1631/§10) eller sammenstillingens merkeplate.
 
 (6) Dersom utstyrets eller sammenstillingens art gjør at det ikke er mulig eller berettiget å påføre CE-merking, skal CE-merkingen påføres emballasjen og i medfølgende dokumenter.
 
@@ -265,7 +427,29 @@ Dersom et trykkrom inneholder flere fluider, skal trykkrommet klassifiseres ette
 
 ### § 28. Framgangsmåter ved samsvarsvurdering
 
-(1) Avhengig av hvilken kategori trykkpåkjent utstyr er kategorisert i etter [§ 20](forskrift/2017-10-10-1631/§20) – § 23, skal framgangsmåtene for samsvarsvurdering anvendes som følgerkategori Imodul Akategori IImodul A2modul D1modul E1kategori IIImodul B (konstruksjonstype) + Dmodul B (konstruksjonstype) + Fmodul B (produksjonstype) + Emodul B (produksjonstype) + C2modul Hkategori IVmodul B (produksjonstype) + Dmodul B (produksjonstype) + Fmodul Gmodul H1.
+(1) Avhengig av hvilken kategori trykkpåkjent utstyr er kategorisert i etter [§ 20](forskrift/2017-10-10-1631/§20) – § 23, skal framgangsmåtene for samsvarsvurdering anvendes som følger
+
+1. kategori I
+
+   1. modul A
+2. kategori II
+
+   1. modul A2
+   2. modul D1
+   3. modul E1
+3. kategori III
+
+   1. modul B (konstruksjonstype) + D
+   2. modul B (konstruksjonstype) + F
+   3. modul B (produksjonstype) + E
+   4. modul B (produksjonstype) + C2
+   5. modul H
+4. kategori IV
+
+   1. modul B (produksjonstype) + D
+   2. modul B (produksjonstype) + F
+   3. modul G
+   4. modul H1.
 
 (2) Framgangsmåtene for samsvarsvurdering er fastsatt i vedlegg III.
 
@@ -277,7 +461,11 @@ Dersom et trykkrom inneholder flere fluider, skal trykkrommet klassifiseres ette
 
 ### § 29. Full framgangsmåte for samsvarsvurdering av sammenstillinger
 
-Sammenstillinger nevnt i [§ 9](forskrift/2017-10-10-1631/§9) og [§ 10](forskrift/2017-10-10-1631/§10) skal være gjenstand for en full framgangsmåte for samsvarsvurdering, som skal bestå av følgende:vurdering av hver enkelt trykkpåkjent komponent som utgjør sammenstillingen nevnt i [§ 5](forskrift/2017-10-10-1631/§5) og [§ 6](forskrift/2017-10-10-1631/§6) og som ikke tidligere er samsvarsvurdert eller er påført egen CE-merking. Fremgangsmåte for samsvarsvurdering skal bestemmes i henhold til kategorien som hver enkelt trykkpåkjent komponent er klassifisert ivurdering av integrasjonen av de ulike komponenter i sammenstillingen nevnt i vedlegg I nr. 2.3, 2.8 og 2.9, skal fastsettes i henhold til den høyeste kategorien for det berørte utstyret, bortsett fra den som gjelder for eventuelt sikkerhetstilbehørvurdering av sammenstillingens beskyttelse mot overskridelse av tillatte driftsgrenser som nevnt i vedlegg I nr. 2.10 og 3.2.3, skal utføres på grunnlag av den høyeste kategorien som gjelder for utstyret som skal beskyttes.
+Sammenstillinger nevnt i [§ 9](forskrift/2017-10-10-1631/§9) og [§ 10](forskrift/2017-10-10-1631/§10) skal være gjenstand for en full framgangsmåte for samsvarsvurdering, som skal bestå av følgende:
+
+1. vurdering av hver enkelt trykkpåkjent komponent som utgjør sammenstillingen nevnt i [§ 5](forskrift/2017-10-10-1631/§5) og [§ 6](forskrift/2017-10-10-1631/§6) og som ikke tidligere er samsvarsvurdert eller er påført egen CE-merking. Fremgangsmåte for samsvarsvurdering skal bestemmes i henhold til kategorien som hver enkelt trykkpåkjent komponent er klassifisert i
+2. vurdering av integrasjonen av de ulike komponenter i sammenstillingen nevnt i vedlegg I nr. 2.3, 2.8 og 2.9, skal fastsettes i henhold til den høyeste kategorien for det berørte utstyret, bortsett fra den som gjelder for eventuelt sikkerhetstilbehør
+3. vurdering av sammenstillingens beskyttelse mot overskridelse av tillatte driftsgrenser som nevnt i vedlegg I nr. 2.10 og 3.2.3, skal utføres på grunnlag av den høyeste kategorien som gjelder for utstyret som skal beskyttes.
 
 ### § 30. Dokumenter og korrespondanse som gjelder framgangsmåter for samsvarsvurdering
 
@@ -309,11 +497,21 @@ Direktoratet for samfunnssikkerhet og beredskap og Havindustritilsynet kan, ette
 
 (8) Et teknisk kontrollorgan og et godkjent tredjepartsorgan skal kunne utføre alle samsvarsvurderingsoppgaver som de er tillagt etter [§ 24](forskrift/2017-10-10-1631/§24), [§ 28](forskrift/2017-10-10-1631/§28), [§ 29](forskrift/2017-10-10-1631/§29), eller vedlegg I nr. 3.1.2 og 3.1.3 og som de er utpekt for. Dette gjelder uansett om disse oppgavene utføres av organet selv eller på dets vegne og under dets ansvar.
 
-(9) Et teknisk kontrollorgan og et godkjent tredjepartsorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av trykkpåkjent utstyr som de er utpekt for, ha til rådighetnødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingenbeskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåteneegnede retningslinjer og framgangsmåter for å skille mellom oppgaver de utfører som teknisk kontrollorgan eller godkjent tredjepartsorgan, og annen virksomhetframgangsmåter for utførelse av virksomheten, som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle trykkpåkjente utstyrets eller sammenstillingens teknologi er, og produksjonsprosessens masse- eller seriepreg.
+(9) Et teknisk kontrollorgan og et godkjent tredjepartsorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av trykkpåkjent utstyr som de er utpekt for, ha til rådighet
+
+1. nødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingen
+2. beskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene
+3. egnede retningslinjer og framgangsmåter for å skille mellom oppgaver de utfører som teknisk kontrollorgan eller godkjent tredjepartsorgan, og annen virksomhet
+4. framgangsmåter for utførelse av virksomheten, som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle trykkpåkjente utstyrets eller sammenstillingens teknologi er, og produksjonsprosessens masse- eller seriepreg.
 
 (10) Et teknisk kontrollorgan og et godkjent tredjepartsorgan skal ha nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingen, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige fasiliteter.
 
-(11) Personalet med ansvar for å utføre samsvarsvurderinger skal hasolid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt fortilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderingertilfredsstillende kunnskap om og forståelse av kravene i vedlegg I, de relevante harmoniserte standardene, relevante bestemmelser i norsk regelverk som gjennomfører EØS-regelverk og relevant nasjonal lovgivningnødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+(11) Personalet med ansvar for å utføre samsvarsvurderinger skal ha
+
+1. solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt for
+2. tilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderinger
+3. tilfredsstillende kunnskap om og forståelse av kravene i vedlegg I, de relevante harmoniserte standardene, relevante bestemmelser i norsk regelverk som gjennomfører EØS-regelverk og relevant nasjonal lovgivning
+4. nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
 
 (12) Det skal sikres at det tekniske kontrollorganet og det godkjente tredjepartsorganet, deres øverste ledelse og vurderingspersonale er upartiske.
 
@@ -339,11 +537,21 @@ Direktoratet for samfunnssikkerhet og beredskap og Havindustritilsynet kan, ette
 
 (6) Et brukerinspektorat skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt etter [§ 25](forskrift/2017-10-10-1631/§25), og som det er utpekt for. Dette gjelder uansett om disse oppgavene utføres av brukerinspektoratet selv eller på dets vegne og under dets ansvar.
 
-(7) Et brukerinspektorat skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av trykkpåkjent utstyr som det er utpekt for, ha til rådighetnødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingenbeskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåteneegnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som brukerinspektorat, og annen virksomhetframgangsmåter for utførelse av virksomheten, som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle trykkpåkjente utstyrets eller sammenstillingens teknologi er, og produksjonsprosessens masse- eller seriepreg.
+(7) Et brukerinspektorat skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av trykkpåkjent utstyr som det er utpekt for, ha til rådighet
+
+1. nødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingen
+2. beskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene
+3. egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som brukerinspektorat, og annen virksomhet
+4. framgangsmåter for utførelse av virksomheten, som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks det aktuelle trykkpåkjente utstyrets eller sammenstillingens teknologi er, og produksjonsprosessens masse- eller seriepreg.
 
 (8) Et brukerinspektorat skal ha nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingsvirksomheten, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige fasiliteter.
 
-(9) Personalet med ansvar for å utføre samsvarsvurderinger skal hasolid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt fortilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderingertilfredsstillende kunnskap om og forståelse av kravene i vedlegg I, relevante harmoniserte standarder, relevante bestemmelser i norsk regelverk som gjennomfører EØS-regelverk og relevant nasjonal lovgivningnødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
+(9) Personalet med ansvar for å utføre samsvarsvurderinger skal ha
+
+1. solid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt for
+2. tilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderinger
+3. tilfredsstillende kunnskap om og forståelse av kravene i vedlegg I, relevante harmoniserte standarder, relevante bestemmelser i norsk regelverk som gjennomfører EØS-regelverk og relevant nasjonal lovgivning
+4. nødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.
 
 (10) Det skal sikres at brukerinspektoratet, dets øverste ledelse og vurderingspersonale er upartiske. Et brukerinspektorat skal ikke delta i noen form for virksomhet som kan påvirke dets uavhengighet eller integritet i forbindelse med samsvarsvurderingsvirksomheten.
 
@@ -397,7 +605,12 @@ Dersom et teknisk kontrollorgan, et brukerinspektorat eller et godkjent tredjepa
 
 ### § 39. Opplysningsplikt
 
-(1) Et teknisk kontrollorgan, et brukerinspektorat og et godkjent tredjepartsorgan skal varsle Direktoratet for samfunnssikkerhet og beredskap omalle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbakealle omstendigheter som påvirker omfanget av eller vilkårene for utpekingalle anmodninger de har mottatt fra markedstilsynsmyndighetene angående opplysninger om samsvarsvurderingsvirksomhetpå anmodning, samsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen og all annen virksomhet, blant annet virksomhet og underleveranser over landegrensene.
+(1) Et teknisk kontrollorgan, et brukerinspektorat og et godkjent tredjepartsorgan skal varsle Direktoratet for samfunnssikkerhet og beredskap om
+
+1. alle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbake
+2. alle omstendigheter som påvirker omfanget av eller vilkårene for utpeking
+3. alle anmodninger de har mottatt fra markedstilsynsmyndighetene angående opplysninger om samsvarsvurderingsvirksomhet
+4. på anmodning, samsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen og all annen virksomhet, blant annet virksomhet og underleveranser over landegrensene.
 
 (2) Et teknisk kontrollorgan, et brukerinspektorat og et godkjent tredjepartsorgan skal gi de andre organene som utøver tilsvarende samsvarsvurderingsvirksomhet som omfatter det samme trykkpåkjente utstyret, relevante opplysninger om spørsmål knyttet til negative resultater av samsvarsvurderingen og dersom de ber om det, også positive resultater av samsvarsvurderingen.
 
@@ -421,7 +634,16 @@ Direktoratet for samfunnssikkerhet og beredskap og Havindustritilsynet, eller de
 
 (1) Ved overtredelse av [§ 12](forskrift/2017-10-10-1631/§12) til [§ 16](forskrift/2017-10-10-1631/§16), [§ 18](forskrift/2017-10-10-1631/§18) og [§ 26](forskrift/2017-10-10-1631/§26) til [§ 30](forskrift/2017-10-10-1631/§30) eller vedtak truffet i medhold av disse, kommer bestemmelsene i brann- og [eksplosjonsvernloven § 37](lov/2002-06-14-20/§37), [§ 38](lov/2002-06-14-20/§38) og [§ 40](lov/2002-06-14-20/§40) og [petroleumsloven § 10-1](lov/1996-11-29-72/§10-1) og [§ 10-3](lov/1996-11-29-72/§10-3) til anvendelse.
 
-(2) Dersom trykkpåkjent utstyr eller sammenstillinger kan utgjøre en risiko, eller ikke er i samsvar med § 12 til § 16, § 18 og § 26 til § 30 i forskriften, kan Havindustritilsynet eller Direktoratet for samfunnssikkerhet og beredskapnedlegge forbud mot å importere, bringe i omsetning eller gjøre det trykkpåkjente utstyret eller sammenstillingen tilgjengelig på markedetkreve at det trykkpåkjente utstyret eller sammenstillingen tilbaketrekkes fra relevante markedsaktørerkreve at det trykkpåkjente utstyret eller sammenstillingen tilbakekalles fra den som har kjøpt det trykkpåkjente utstyret eller sammenstillingen eller tatt det i brukkreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av slikt trykkpåkjent utstyr eller sammenstillingkreve retting av det trykkpåkjente utstyret eller sammenstillingenkreve at det trykkpåkjente utstyret eller sammenstillingen uskadeliggjøresnedlegge forbud mot bruk av det trykkpåkjente utstyret eller sammenstillingenkreve merking av det trykkpåkjente utstyret eller sammenstillingen.
+(2) Dersom trykkpåkjent utstyr eller sammenstillinger kan utgjøre en risiko, eller ikke er i samsvar med § 12 til § 16, § 18 og § 26 til § 30 i forskriften, kan Havindustritilsynet eller Direktoratet for samfunnssikkerhet og beredskap
+
+1. nedlegge forbud mot å importere, bringe i omsetning eller gjøre det trykkpåkjente utstyret eller sammenstillingen tilgjengelig på markedet
+2. kreve at det trykkpåkjente utstyret eller sammenstillingen tilbaketrekkes fra relevante markedsaktører
+3. kreve at det trykkpåkjente utstyret eller sammenstillingen tilbakekalles fra den som har kjøpt det trykkpåkjente utstyret eller sammenstillingen eller tatt det i bruk
+4. kreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av slikt trykkpåkjent utstyr eller sammenstilling
+5. kreve retting av det trykkpåkjente utstyret eller sammenstillingen
+6. kreve at det trykkpåkjente utstyret eller sammenstillingen uskadeliggjøres
+7. nedlegge forbud mot bruk av det trykkpåkjente utstyret eller sammenstillingen
+8. kreve merking av det trykkpåkjente utstyret eller sammenstillingen.
 
 > Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 
@@ -477,7 +699,11 @@ Trykkpåkjent utstyr skal være konstruert, produsert og kontrollert, eventuelt 
 
 1.2
 
-Ved valg av den mest hensiktsmessige løsning skal produsenten anvende nedenstående prinsipper i følgende rekkefølge:fjerne eller redusere farer i den grad det er praktisk mulig,anvende hensiktsmessige vernetiltak mot farer som ikke kan fjernes,når det er relevant, informere brukere om gjenværende farer og opplyse om hvorvidt det er nødvendig å treffe særskilte tiltak for å redusere risiko ved installasjon og/eller bruk.
+Ved valg av den mest hensiktsmessige løsning skal produsenten anvende nedenstående prinsipper i følgende rekkefølge:
+
+- fjerne eller redusere farer i den grad det er praktisk mulig,
+- anvende hensiktsmessige vernetiltak mot farer som ikke kan fjernes,
+- når det er relevant, informere brukere om gjenværende farer og opplyse om hvorvidt det er nødvendig å treffe særskilte tiltak for å redusere risiko ved installasjon og/eller bruk.
 
 1.3
 
@@ -512,9 +738,46 @@ Forskjellige belastninger som kan forekomme samtidig, må tas i betraktning, ogs
 
 2.2.3*Beregningsmetode*
 
-1. Innesluttet trykk og andre belastningerDe tillatte spenninger for trykkpåkjent utstyr må begrenses i forhold til de former for svikt som med rimelighet kan forutses å oppstå under driftsforholdene. Av denne grunn må sikkerhetsfaktorer anvendes for helt å fjerne enhver usikkerhet som oppstår på grunn av produksjon, faktiske driftsforhold, spenninger, beregningsmodeller, samt materialets egenskaper og atferd.Disse beregningsmetoder må resultere i tilstrekkelige sikkerhetsmarginer, der det er relevant, i samsvar med kravene i nr. 7.Kravene nevnt ovenfor kan oppfylles ved bruk av en av følgende relevante metoder, om nødvendig som et tillegg til eller i kombinasjon med en annen metode:konstruksjon ved hjelp av formler,konstruksjon ved hjelp av analyser,konstruksjon ved hjelp av bruddmekanikk.
-2. StyrkeHensiktsmessige konstruksjonsberegninger skal brukes for å fastslå det aktuelle trykkpåkjente utstyrets styrke.Følgende gjelder særlig:beregningstrykket må ikke være mindre enn tillatt maksimalttrykk og skal ta hensyn til statisk og dynamisk fluidtrykk og nedbryting av ustabile fluider. Når en beholder er delt inn i separate trykkamre, skal skilleveggen konstrueres på grunnlag av høyest mulig trykk i et kammer og lavest mulig trykk i tilstøtende kammer,beregningstemperaturer skal ta høyde for hensiktsmessige sikkerhetsmarginer,konstruksjonen skal ta hensiktsmessig hensyn til alle mulige kombinasjoner av temperaturer og trykk som kan oppstå under rimelig forutsigbare driftsforhold for utstyret,høyeste spenning og høyeste spenningskonsentrasjoner skal holdes innenfor sikre grenser.beregning for innesluttet trykk skal på grunnlag av dokumenterte data gjøre bruk av relevante verdier for materialets egenskaper og ta hensyn til bestemmelsene i nr. 4 samt til hensiktsmessige sikkerhetsfaktorer. Materialegenskaper som det må tas hensyn til når det er relevant, omfatterflytegrense 0,2 % eller en grense ved 1 % forlengelse, avhengig av hva som er hensiktsmessig ved beregningstemperatur,strekkfasthet,tidsavhengig styrke, dvs. sigefasthet,materialtretthetsdata,elastisitetsmodul (Youngs modul),hensiktsmessig plastisitet,skårslagsenergi,bruddstyrke,hensiktsmessige sammenføyningsfaktorer må anvendes basert på materialegenskapene, avhengig f.eks. av type ikke-destruktiv prøving, materialer som føyes sammen og forutsatte driftsforhold,konstruksjonen må ta tilstrekkelig hensyn til alle rimelig forutsigbare nedbrytingsprosesser (f.eks. korrosjon, siging, materialtretthet) ved tiltenkt bruk av utstyret. Det skal i bruksanvisningen nevnt i nr. 3.4 rettes særlig oppmerksomhet mot egenskaper ved konstruksjonen som er relevante for utstyrets levetid, f.eks.for siging: teoretisk antall driftstimer ved spesifiserte temperaturer,for materialtretthet: teoretisk antall sykluser ved spesifiserte spenningsnivåer,for korrosjon: teoretisk korrosjonstillegg.
-3. StabilitetDersom beregnet godstykkelse ikke gir tilstrekkelig strukturell stabilitet, skal nødvendige tiltak treffes for å rette opp dette, også med hensyn til risiko ved transport og håndtering.
+1. Innesluttet trykk og andre belastninger
+
+   De tillatte spenninger for trykkpåkjent utstyr må begrenses i forhold til de former for svikt som med rimelighet kan forutses å oppstå under driftsforholdene. Av denne grunn må sikkerhetsfaktorer anvendes for helt å fjerne enhver usikkerhet som oppstår på grunn av produksjon, faktiske driftsforhold, spenninger, beregningsmodeller, samt materialets egenskaper og atferd.
+
+   Disse beregningsmetoder må resultere i tilstrekkelige sikkerhetsmarginer, der det er relevant, i samsvar med kravene i nr. 7.
+
+   Kravene nevnt ovenfor kan oppfylles ved bruk av en av følgende relevante metoder, om nødvendig som et tillegg til eller i kombinasjon med en annen metode:
+
+   - konstruksjon ved hjelp av formler,
+   - konstruksjon ved hjelp av analyser,
+   - konstruksjon ved hjelp av bruddmekanikk.
+2. Styrke
+
+   Hensiktsmessige konstruksjonsberegninger skal brukes for å fastslå det aktuelle trykkpåkjente utstyrets styrke.
+
+   Følgende gjelder særlig:
+
+   - beregningstrykket må ikke være mindre enn tillatt maksimalttrykk og skal ta hensyn til statisk og dynamisk fluidtrykk og nedbryting av ustabile fluider. Når en beholder er delt inn i separate trykkamre, skal skilleveggen konstrueres på grunnlag av høyest mulig trykk i et kammer og lavest mulig trykk i tilstøtende kammer,
+   - beregningstemperaturer skal ta høyde for hensiktsmessige sikkerhetsmarginer,
+   - konstruksjonen skal ta hensiktsmessig hensyn til alle mulige kombinasjoner av temperaturer og trykk som kan oppstå under rimelig forutsigbare driftsforhold for utstyret,
+   - høyeste spenning og høyeste spenningskonsentrasjoner skal holdes innenfor sikre grenser.
+   - beregning for innesluttet trykk skal på grunnlag av dokumenterte data gjøre bruk av relevante verdier for materialets egenskaper og ta hensyn til bestemmelsene i nr. 4 samt til hensiktsmessige sikkerhetsfaktorer. Materialegenskaper som det må tas hensyn til når det er relevant, omfatter
+
+     - flytegrense 0,2 % eller en grense ved 1 % forlengelse, avhengig av hva som er hensiktsmessig ved beregningstemperatur,
+     - strekkfasthet,
+     - tidsavhengig styrke, dvs. sigefasthet,
+     - materialtretthetsdata,
+     - elastisitetsmodul (Youngs modul),
+     - hensiktsmessig plastisitet,
+     - skårslagsenergi,
+     - bruddstyrke,
+   - hensiktsmessige sammenføyningsfaktorer må anvendes basert på materialegenskapene, avhengig f.eks. av type ikke-destruktiv prøving, materialer som føyes sammen og forutsatte driftsforhold,
+   - konstruksjonen må ta tilstrekkelig hensyn til alle rimelig forutsigbare nedbrytingsprosesser (f.eks. korrosjon, siging, materialtretthet) ved tiltenkt bruk av utstyret. Det skal i bruksanvisningen nevnt i nr. 3.4 rettes særlig oppmerksomhet mot egenskaper ved konstruksjonen som er relevante for utstyrets levetid, f.eks.
+
+     - for siging: teoretisk antall driftstimer ved spesifiserte temperaturer,
+     - for materialtretthet: teoretisk antall sykluser ved spesifiserte spenningsnivåer,
+     - for korrosjon: teoretisk korrosjonstillegg.
+3. Stabilitet
+
+   Dersom beregnet godstykkelse ikke gir tilstrekkelig strukturell stabilitet, skal nødvendige tiltak treffes for å rette opp dette, også med hensyn til risiko ved transport og håndtering.
 
 2.2.4*Eksperimentell konstruksjonsmetode*
 
@@ -526,11 +789,23 @@ Programmet skal definere prøvingsforhold og kriterier for godkjenning eller avs
 
 Om nødvendig skal det under prøvingene være mulig å observere kritiske punkter på det trykkpåkjente utstyret med hensiktsmessig måleutstyr som kan registrere påkjenninger og belastninger med tilstrekkelig presisjon.
 
-Prøvingsprogrammet skal omfatte:En trykkprøving for å kontrollere at utstyret, ved et trykk med en definert sikkerhetsmargin i forhold til tillatt maksimalttrykk, ikke viser tegn til betydelig lekkasje eller deformasjoner som overskrider en bestemt grense.Trykk under prøving skal bestemmes på grunnlag av forskjeller mellom verdiene for geometriske egenskaper og materialegenskaper målt under prøvingsforhold og verdiene anvendt ved beregninger; trykket skal ta hensyn til forskjellene mellom prøvings- og dimensjonerende temperaturer.Ved risiko for siging eller materialtretthet skal hensiktsmessige prøvinger fastsettes på grunnlag av de bruksvilkår som er angitt for utstyret, for eksempel driftstid ved spesifiserte temperaturer, antall sykluser ved spesifiserte spenningsnivåer.Når det er nødvendig, ytterligere prøvinger av andre forhold nevnt i nr. 2.2.1, som korrosjon, utvendig skade.
+Prøvingsprogrammet skal omfatte:
+
+1. En trykkprøving for å kontrollere at utstyret, ved et trykk med en definert sikkerhetsmargin i forhold til tillatt maksimalttrykk, ikke viser tegn til betydelig lekkasje eller deformasjoner som overskrider en bestemt grense.
+
+   Trykk under prøving skal bestemmes på grunnlag av forskjeller mellom verdiene for geometriske egenskaper og materialegenskaper målt under prøvingsforhold og verdiene anvendt ved beregninger; trykket skal ta hensyn til forskjellene mellom prøvings- og dimensjonerende temperaturer.
+2. Ved risiko for siging eller materialtretthet skal hensiktsmessige prøvinger fastsettes på grunnlag av de bruksvilkår som er angitt for utstyret, for eksempel driftstid ved spesifiserte temperaturer, antall sykluser ved spesifiserte spenningsnivåer.
+3. Når det er nødvendig, ytterligere prøvinger av andre forhold nevnt i nr. 2.2.1, som korrosjon, utvendig skade.
 
 2.3*Bestemmelser for å sikre trygg håndtering og drift*
 
-Det trykkpåkjente utstyret skal fungere på en slik måte at det ikke foreligger noen rimelig forutsigbar risiko ved å bruke det. Særlig skal det, når det er hensiktsmessig, tas hensyn tillukke- og åpningsanordninger,farlige utslipp fra sikkerhetsventiler,anordninger som hindrer fysisk tilgang til områder under trykk eller vakuum,overflatetemperaturer ved tiltenkt bruk,nedbryting av ustabile fluider.
+Det trykkpåkjente utstyret skal fungere på en slik måte at det ikke foreligger noen rimelig forutsigbar risiko ved å bruke det. Særlig skal det, når det er hensiktsmessig, tas hensyn til
+
+- lukke- og åpningsanordninger,
+- farlige utslipp fra sikkerhetsventiler,
+- anordninger som hindrer fysisk tilgang til områder under trykk eller vakuum,
+- overflatetemperaturer ved tiltenkt bruk,
+- nedbryting av ustabile fluider.
 
 Særlig skal trykkpåkjent utstyr med en inspeksjonsluke være utstyrt med en automatisk eller manuell innretning som gjør det lett for bruker å forsikre seg om at åpning av luken ikke vil utgjøre noen risiko. Når slike luker kan åpnes hurtig, skal det trykkpåkjente utstyret også ha en anordning som hindrer slik åpning når trykk eller temperatur på fluidet utgjør en risiko.
 
@@ -538,11 +813,18 @@ Særlig skal trykkpåkjent utstyr med en inspeksjonsluke være utstyrt med en au
 
 1. Trykkpåkjent utstyr skal være konstruert på en slik måte at alle nødvendige sikkerhetskontroller kan utføres.
 2. Det skal være mulig å avgjøre utstyrets indre tilstand når dette er nødvendig for å opprettholde sikkerheten ved utstyret; dette gjelder blant annet åpninger som gir fysisk tilgang til det trykkpåkjente utstyrets indre deler, slik at hensiktsmessige inspeksjoner kan bli utført sikkert og ergonomisk.
-3. Andre metoder kan brukes for å sikre det trykkpåkjente utstyrets sikkerhet nårutstyret er for lite til å gi fysisk adgang til dets indre deler,åpning av det trykkpåkjente utstyret kan forårsake skade på dets indre deler,det er påvist at utstyrets innhold ikke er skadelig for det materialet som det trykkpåkjente utstyret er laget av, og at ingen andre nedbrytingsprosesser med rimelighet kan forventes.
+3. Andre metoder kan brukes for å sikre det trykkpåkjente utstyrets sikkerhet når
+
+   - utstyret er for lite til å gi fysisk adgang til dets indre deler,
+   - åpning av det trykkpåkjente utstyret kan forårsake skade på dets indre deler,
+   - det er påvist at utstyrets innhold ikke er skadelig for det materialet som det trykkpåkjente utstyret er laget av, og at ingen andre nedbrytingsprosesser med rimelighet kan forventes.
 
 2.5*Tømming og utlufting*
 
-Det trykkpåkjente utstyret skal kunne tømmes og utluftes når det er nødvendigfor å hindre skadelige virkninger, som trykkstøt, vakuumkollaps, korrosjon og ukontrollerte kjemiske reaksjoner. Det skal tas hensyn til alle faser av drift og prøving, særlig trykkprøving,for å muliggjøre sikker rengjøring, inspeksjon og vedlikehold.
+Det trykkpåkjente utstyret skal kunne tømmes og utluftes når det er nødvendig
+
+- for å hindre skadelige virkninger, som trykkstøt, vakuumkollaps, korrosjon og ukontrollerte kjemiske reaksjoner. Det skal tas hensyn til alle faser av drift og prøving, særlig trykkprøving,
+- for å muliggjøre sikker rengjøring, inspeksjon og vedlikehold.
 
 2.6*Korrosjon eller andre kjemiske påvirkninger*
 
@@ -550,15 +832,29 @@ Når det er nødvendig, skal det gis tillegg for eller beskyttelse mot korrosjon
 
 2.7*Slitasje*
 
-Dersom det kan oppstå forhold med alvorlig erosjon eller slitasje, skal egnede tiltak treffes for åredusere virkningene av dette ved hensiktsmessig konstruksjon, f.eks. ekstra godstykkelse, eller ved bruk av fôringer eller bekledningsmaterialer,muliggjøre utskifting av de mest utsatte deler,i bruksanvisningen nevnt i nr. 3.4 rette oppmerksomheten mot de tiltak som er nødvendige for å sikre kontinuerlig sikker bruk.
+Dersom det kan oppstå forhold med alvorlig erosjon eller slitasje, skal egnede tiltak treffes for å
+
+- redusere virkningene av dette ved hensiktsmessig konstruksjon, f.eks. ekstra godstykkelse, eller ved bruk av fôringer eller bekledningsmaterialer,
+- muliggjøre utskifting av de mest utsatte deler,
+- i bruksanvisningen nevnt i nr. 3.4 rette oppmerksomheten mot de tiltak som er nødvendige for å sikre kontinuerlig sikker bruk.
 
 2.8*Sammenstilling*
 
-Sammenstilling skal være slik konstruert atkomponenter som monteres sammen, er egnede og pålitelige ved bruk,alle komponenter er korrekt integrert og montert på hensiktsmessig måte.
+Sammenstilling skal være slik konstruert at
+
+- komponenter som monteres sammen, er egnede og pålitelige ved bruk,
+- alle komponenter er korrekt integrert og montert på hensiktsmessig måte.
 
 2.9*Bestemmelser om påfylling og tømming*
 
-Dersom det er hensiktsmessig, skal det trykkpåkjente utstyret være konstruert for og være utstyrt med tilbehør, eller gjort klar for påmontering av slikt, for å sikre sikker påfylling og tømming, særlig i forbindelse med følgende risikoer:ved påfylling:overfylling eller for høyt trykk, særlig med hensyn til fyllingsgrad og damptrykk ved referansetemperatur,ustabilitet i det trykkpåkjente utstyret,ved tømming: ukontrollert utslipp av fluid under trykk,ved fylling eller tømming: risiko ved tilkopling og frakopling.
+Dersom det er hensiktsmessig, skal det trykkpåkjente utstyret være konstruert for og være utstyrt med tilbehør, eller gjort klar for påmontering av slikt, for å sikre sikker påfylling og tømming, særlig i forbindelse med følgende risikoer:
+
+1. ved påfylling:
+
+   - overfylling eller for høyt trykk, særlig med hensyn til fyllingsgrad og damptrykk ved referansetemperatur,
+   - ustabilitet i det trykkpåkjente utstyret,
+2. ved tømming: ukontrollert utslipp av fluid under trykk,
+3. ved fylling eller tømming: risiko ved tilkopling og frakopling.
 
 2.10*Beskyttelse mot overskridelse av tillatte grenser for trykkpåkjent utstyr*
 
@@ -566,7 +862,10 @@ I tilfeller der de tillatte grenser under rimelig forutsigbare bruksvilkår kan 
 
 Hvilken innretning eller kombinasjon av slike innretninger som er best egnet, skal bestemmes på grunnlag av bestemte egenskaper ved utstyret eller sammenstillingen.
 
-Passende verneanordninger og kombinasjoner av disse:sikkerhetstilbehør som definert i [§ 4](forskrift/2017-10-10-1631/§4) nr. 4,ved behov, hensiktsmessig overvåkingsutstyr som målere og/eller alarmer som gjør det mulig å gripe inn, enten automatisk eller manuelt, for å sikre at det trykkpåkjente utstyret holdes innenfor tillatte grenser.
+Passende verneanordninger og kombinasjoner av disse:
+
+1. sikkerhetstilbehør som definert i [§ 4](forskrift/2017-10-10-1631/§4) nr. 4,
+2. ved behov, hensiktsmessig overvåkingsutstyr som målere og/eller alarmer som gjør det mulig å gripe inn, enten automatisk eller manuelt, for å sikre at det trykkpåkjente utstyret holdes innenfor tillatte grenser.
 
 2.11*Sikkerhetstilbehør*
 
@@ -606,7 +905,10 @@ Egenskaper ved permanente sammenføyninger skal oppfylle minstekravene angitt fo
 
 For trykkpåkjent utstyr skal permanent sammenføyning av komponenter som bidrar til utstyrets trykkmotstand, og av deler som blir direkte festet til disse komponentene, utføres av kvalifisert personell i samsvar med egnede arbeidsmetoder.
 
-For trykkpåkjent utstyr i kategori II, III og IV skal arbeidsprosedyrer og personalet være godkjent av en kompetent tredjepart som, etter produsentens valg, kan væreet teknisk kontrollorgan,et tredjepartsorgan godkjent av en EØS-stat.
+For trykkpåkjent utstyr i kategori II, III og IV skal arbeidsprosedyrer og personalet være godkjent av en kompetent tredjepart som, etter produsentens valg, kan være
+
+- et teknisk kontrollorgan,
+- et tredjepartsorgan godkjent av en EØS-stat.
 
 For å kunne foreta disse godkjenningene skal tredjepart utføre kontroller og prøvinger som fastsatt i relevante harmoniserte standarder eller tilsvarende kontroller eller prøvinger, eller få dem utført.
 
@@ -646,13 +948,42 @@ For sammenstillinger skal den avsluttende kontrollen også omfatte en kontroll a
 
 3.3*Merking*
 
-I tillegg til CE-merkingen nevnt i [§ 27](forskrift/2017-10-10-1631/§27), og opplysningene nevnt i [§ 13](forskrift/2017-10-10-1631/§13) niende ledd og [§ 15](forskrift/2017-10-10-1631/§15) femte ledd, skal følgende opplysninger også gis:for alt trykkpåkjent utstyr:produksjonsår,identifisering av det trykkpåkjente utstyret etter art, f.eks. type, serie eller parti- og serienummer,grunnleggende tillatte maksimums/minimumsgrenser.avhengig av type trykkpåkjent utstyr, tilleggsopplysninger som er nødvendige for sikker installasjon, drift eller bruk og eventuelt vedlikehold og periodisk kontroll, somdet trykkpåkjente utstyrets volum (V) i liter (l),rørsystemets nominelle diameter (DN),anvendt prøvetrykk (PT) i bar, med dato,innstilt åpningstrykk på sikkerhetsinnretninger i bar,det trykkpåkjente utstyrets ytelse i kW,tilførselsspenning i V (volt),tiltenkt bruk,fyllingsgrad i kg/l,høyeste fyllingsvekt i kg,tara i kg,fluidgruppe.når det er nødvendig, skal det trykkpåkjente utstyret påføres advarsler som påpeker feil bruk som erfaringsvis kan forekomme.
+I tillegg til CE-merkingen nevnt i [§ 27](forskrift/2017-10-10-1631/§27), og opplysningene nevnt i [§ 13](forskrift/2017-10-10-1631/§13) niende ledd og [§ 15](forskrift/2017-10-10-1631/§15) femte ledd, skal følgende opplysninger også gis:
 
-Informasjonen nevnt i bokstav a), b) og c) skal være oppgitt på det trykkpåkjente utstyret eller på en merkeplate godt festet til dette, med følgende unntak:hensiktsmessig dokumentasjon kan eventuelt brukes for å unngå gjentatt merking av enkeltdeler, f.eks. rørkomponenter, som skal brukes i samme sammenstilling,når trykkpåkjent utstyr, f.eks. tilbehør, er for lite, kan opplysningene nevnt i bokstav b) oppgis på en etikett festet til det trykkpåkjente utstyret,etiketter eller andre hensiktsmessige midler kan anvendes for å opplyse om masse som må påfylles, og advarslene nevnt i bokstav c), forutsatt at merkingen er leselig i det aktuelle tidsrom.
+1. for alt trykkpåkjent utstyr:
+
+   - produksjonsår,
+   - identifisering av det trykkpåkjente utstyret etter art, f.eks. type, serie eller parti- og serienummer,
+   - grunnleggende tillatte maksimums/minimumsgrenser.
+2. avhengig av type trykkpåkjent utstyr, tilleggsopplysninger som er nødvendige for sikker installasjon, drift eller bruk og eventuelt vedlikehold og periodisk kontroll, som
+
+   - det trykkpåkjente utstyrets volum (V) i liter (l),
+   - rørsystemets nominelle diameter (DN),
+   - anvendt prøvetrykk (PT) i bar, med dato,
+   - innstilt åpningstrykk på sikkerhetsinnretninger i bar,
+   - det trykkpåkjente utstyrets ytelse i kW,
+   - tilførselsspenning i V (volt),
+   - tiltenkt bruk,
+   - fyllingsgrad i kg/l,
+   - høyeste fyllingsvekt i kg,
+   - tara i kg,
+   - fluidgruppe.
+3. når det er nødvendig, skal det trykkpåkjente utstyret påføres advarsler som påpeker feil bruk som erfaringsvis kan forekomme.
+
+Informasjonen nevnt i bokstav a), b) og c) skal være oppgitt på det trykkpåkjente utstyret eller på en merkeplate godt festet til dette, med følgende unntak:
+
+- hensiktsmessig dokumentasjon kan eventuelt brukes for å unngå gjentatt merking av enkeltdeler, f.eks. rørkomponenter, som skal brukes i samme sammenstilling,
+- når trykkpåkjent utstyr, f.eks. tilbehør, er for lite, kan opplysningene nevnt i bokstav b) oppgis på en etikett festet til det trykkpåkjente utstyret,
+- etiketter eller andre hensiktsmessige midler kan anvendes for å opplyse om masse som må påfylles, og advarslene nevnt i bokstav c), forutsatt at merkingen er leselig i det aktuelle tidsrom.
 
 3.4*Bruksanvisning*
 
-1. Når det trykkpåkjente utstyret gjøres tilgjengelig på markedet, skal det, så langt det er relevant, ledsages av en bruksanvisning som omfatter all nødvendig informasjon om sikkerhet vedmontering, herunder sammensetting av forskjellige trykkpåkjente komponenter,ibruktaking,bruk,vedlikehold, herunder kontroller som skal utføres av bruker.
+1. Når det trykkpåkjente utstyret gjøres tilgjengelig på markedet, skal det, så langt det er relevant, ledsages av en bruksanvisning som omfatter all nødvendig informasjon om sikkerhet ved
+
+   - montering, herunder sammensetting av forskjellige trykkpåkjente komponenter,
+   - ibruktaking,
+   - bruk,
+   - vedlikehold, herunder kontroller som skal utføres av bruker.
 2. Bruksanvisninger skal inneholde opplysninger påført det trykkpåkjente utstyret i samsvar med nr. 3.3, med unntak av serienummer, og skal ledsages av eventuelle tekniske dokumenter, tegninger og diagrammer som er nødvendige for å forstå bruksanvisningen.
 3. Bruksanvisninger skal eventuelt også vise til risikoer som oppstår ved feil bruk, i samsvar med nr. 1.3, og til særskilte trekk ved konstruksjonen, i samsvar med nr. 2.2.3.
 
@@ -673,7 +1004,11 @@ Sveisemateriale og annet skjøtemateriale skal bare oppfylle relevante krav i nr
 4.2*Produsenten av det trykkpåkjente utstyret skal*
 
 1. på en hensiktsmessig måte definere de verdier som er nødvendige for konstruksjonsberegningene nevnt i nr. 2.2.3 og de grunnleggende materialegenskapene og bruksvilkårene nevnt i nr. 4.1,
-2. opplyse i den tekniske dokumentasjon om på hvilken av følgende måter materialspesifikasjoner er i samsvar med forskriften:ved bruk av materialer i samsvar med harmoniserte standarder,ved bruk av materialer som omfattes av en europeisk godkjenning for bruk i trykkpåkjent utstyr i samsvar med [§ 24](forskrift/2017-10-10-1631/§24),ved en særskilt materialvurdering,
+2. opplyse i den tekniske dokumentasjon om på hvilken av følgende måter materialspesifikasjoner er i samsvar med forskriften:
+
+   - ved bruk av materialer i samsvar med harmoniserte standarder,
+   - ved bruk av materialer som omfattes av en europeisk godkjenning for bruk i trykkpåkjent utstyr i samsvar med [§ 24](forskrift/2017-10-10-1631/§24),
+   - ved en særskilt materialvurdering,
 3. for trykkpåkjent utstyr i kategori III og IV skal en særskilt vurdering av den særskilte materialvurderingen utføres av det tekniske kontrollorganet med ansvar for framgangsmåter for samsvarsvurdering av det trykkpåkjente utstyret.
 
 4.3
@@ -690,13 +1025,30 @@ I tillegg til kravene i nr. 1-4 får følgende krav anvendelse for trykkpåkjent
 
 ### 5. Fyrt eller på andre måter oppvarmet trykkpåkjent utstyr med risiko for overoppheting som nevnt i § 5 og § 6
 
-Dette trykkpåkjente utstyret omfatterutstyr til produksjon av damp og varmtvann som nevnt i [§ 6](forskrift/2017-10-10-1631/§6) som fyrte damp- og varmtvannskjeler, overhetere og ettervarmere, spillvarmekjeler, forbrenningskjeler for avfall, elektrisk oppvarmede kjeler med elektroder eller varmekolber, trykkokere, sammen med deres tilbehør og, når det er relevant, deres systemer for behandling av matevann og tilførsel av brensel,prosessoppvarmingsutstyr til annet enn produksjon av damp og varmtvann som faller inn under [§ 5](forskrift/2017-10-10-1631/§5) som innretninger for oppvarming ved kjemiske eller andre lignende prosesser og trykkpåkjent utstyr til behandling av næringsmidler.
+Dette trykkpåkjente utstyret omfatter
 
-Dette trykkpåkjente utstyret skal være beregnet, konstruert og produsert med henblikk på å unngå eller minimere risiko for et vesentlig tap av innesluttet trykk pga. overoppheting. Når det er relevant, skal det særlig påsesat hensiktsmessige sikringsanordninger finnes som begrenser driftsparametre som varmetilførsel og -uttak, og eventuelt fluidnivå, for å unngå enhver risiko for lokal eller generell overoppheting,at prøvetakingspunkter finnes når dette kreves for å vurdere fluidets egenskaper, slik at risiko forbundet med avleiringer og/eller korrosjon unngås,at tilstrekkelige tiltak treffes for å unngå risiko for skader fra avleiringer,at muligheten for sikker fjerning av restvarme etter avstengning finnes,at tiltak er truffet for å unngå farlig oppsamling av antennelige blandinger av brennbare stoffer og luft eller tilbakeslag fra flamme.
+- utstyr til produksjon av damp og varmtvann som nevnt i [§ 6](forskrift/2017-10-10-1631/§6) som fyrte damp- og varmtvannskjeler, overhetere og ettervarmere, spillvarmekjeler, forbrenningskjeler for avfall, elektrisk oppvarmede kjeler med elektroder eller varmekolber, trykkokere, sammen med deres tilbehør og, når det er relevant, deres systemer for behandling av matevann og tilførsel av brensel,
+- prosessoppvarmingsutstyr til annet enn produksjon av damp og varmtvann som faller inn under [§ 5](forskrift/2017-10-10-1631/§5) som innretninger for oppvarming ved kjemiske eller andre lignende prosesser og trykkpåkjent utstyr til behandling av næringsmidler.
+
+Dette trykkpåkjente utstyret skal være beregnet, konstruert og produsert med henblikk på å unngå eller minimere risiko for et vesentlig tap av innesluttet trykk pga. overoppheting. Når det er relevant, skal det særlig påses
+
+1. at hensiktsmessige sikringsanordninger finnes som begrenser driftsparametre som varmetilførsel og -uttak, og eventuelt fluidnivå, for å unngå enhver risiko for lokal eller generell overoppheting,
+2. at prøvetakingspunkter finnes når dette kreves for å vurdere fluidets egenskaper, slik at risiko forbundet med avleiringer og/eller korrosjon unngås,
+3. at tilstrekkelige tiltak treffes for å unngå risiko for skader fra avleiringer,
+4. at muligheten for sikker fjerning av restvarme etter avstengning finnes,
+5. at tiltak er truffet for å unngå farlig oppsamling av antennelige blandinger av brennbare stoffer og luft eller tilbakeslag fra flamme.
 
 ### 6. Rørsystemer som nevnt i § 7
 
-Utformingen og konstruksjonen skal sikreat risiko for overbelastning som følge av uakseptable frie bevegelser eller for store belastninger, f.eks. på flenser, koplinger, sugepumper eller slanger, blir tilstrekkelig kontrollert ved hjelp av f.eks. støtte, fastspenning, forankring, innretting og forspenning,at det er gitt mulighet for tømming og fjerning av avleiringer på lavtliggende steder for å unngå skade fra trykkstøt eller korrosjon når det er en mulighet for at kondensering kan oppstå innvendig i rør for gassformige fluider,at nødvendig hensyn er tatt til mulig skade fra turbulens og virveldannelse; de relevante deler av nr. 2.7 får anvendelse,at nødvendig hensyn er tatt til risikoen for materialtretthet pga. vibrasjoner i rør,at det er gitt anledning til å isolere uttaksrør av en størrelse som representerer en betydelig risiko, når rørene inneholder fluider i gruppe 1,at risiko for utilsiktet utslipp er redusert til et minimum; punkter for uttak må være tydelig merket på den permanente siden og vise hvilket fluid de inneholder,at plassering og løp på nedgravde rør minst er nedtegnet i den tekniske dokumentasjonen for at vedlikehold, kontroll og reparasjon kan utføres sikkert.
+Utformingen og konstruksjonen skal sikre
+
+1. at risiko for overbelastning som følge av uakseptable frie bevegelser eller for store belastninger, f.eks. på flenser, koplinger, sugepumper eller slanger, blir tilstrekkelig kontrollert ved hjelp av f.eks. støtte, fastspenning, forankring, innretting og forspenning,
+2. at det er gitt mulighet for tømming og fjerning av avleiringer på lavtliggende steder for å unngå skade fra trykkstøt eller korrosjon når det er en mulighet for at kondensering kan oppstå innvendig i rør for gassformige fluider,
+3. at nødvendig hensyn er tatt til mulig skade fra turbulens og virveldannelse; de relevante deler av nr. 2.7 får anvendelse,
+4. at nødvendig hensyn er tatt til risikoen for materialtretthet pga. vibrasjoner i rør,
+5. at det er gitt anledning til å isolere uttaksrør av en størrelse som representerer en betydelig risiko, når rørene inneholder fluider i gruppe 1,
+6. at risiko for utilsiktet utslipp er redusert til et minimum; punkter for uttak må være tydelig merket på den permanente siden og vise hvilket fluid de inneholder,
+7. at plassering og løp på nedgravde rør minst er nedtegnet i den tekniske dokumentasjonen for at vedlikehold, kontroll og reparasjon kan utføres sikkert.
 
 ### 7. Særskilte kvantitative krav for visse typer trykkpåkjent utstyr
 
@@ -708,7 +1060,11 @@ Bestemmelser fastsatt i dette nummer utfyller de grunnleggende sikkerhetskrav i 
 
 7.1.1*Symboler*
 
-Re/t, flytegrense, betegner verdien ved beregningstemperatur påøvre flytegrense for materialer med en øvre og nedre flytegrense,1 % forlengelse for austenittisk stål og ulegert aluminium,0,2 % forlengelse i andre tilfeller.
+Re/t, flytegrense, betegner verdien ved beregningstemperatur på
+
+- øvre flytegrense for materialer med en øvre og nedre flytegrense,
+- 1 % forlengelse for austenittisk stål og ulegert aluminium,
+- 0,2 % forlengelse i andre tilfeller.
 
 Rm/20 angir minsteverdi for strekkfasthet ved 20 °C.
 
@@ -716,11 +1072,23 @@ Rm/t angir strekkfasthet ved beregningstemperaturen.
 
 7.1.2
 
-Den tillatte generelle membranspenning for hovedsakelig statistiske belastninger og for temperaturer utenfor de verdier der siging er betydelig skal, avhengig av hvilket materiale som er brukt, ikke overstige den minste av følgende verdier:for ferrittisk stål, herunder normalisert (normalisert valset) stål, men ikke finkornstål og særskilt varmebehandlet stål, 2 /3 av Re/t og 5 /12 av Rm/20,for austenittisk stål:dersom bruddforlengelsen overstiger 30 %, 2 /3 av Re/teller, alternativt, og dersom bruddforlengelsen overstiger 35 %, 5 /6 av Re/t og 1 /3 av Rm/t,for ulegert eller lavlegert støpestål, 10 /19 av Re/t og 1 /3 av Rm/20,for aluminium, 2 /3 av Re/t,for aluminiumslegeringer, unntatt utskillingsherdede legeringer 2 /3 av Re/t og 5 /12 av Rm/20 .
+Den tillatte generelle membranspenning for hovedsakelig statistiske belastninger og for temperaturer utenfor de verdier der siging er betydelig skal, avhengig av hvilket materiale som er brukt, ikke overstige den minste av følgende verdier:
+
+- for ferrittisk stål, herunder normalisert (normalisert valset) stål, men ikke finkornstål og særskilt varmebehandlet stål, 2 /3 av Re/t og 5 /12 av Rm/20,
+- for austenittisk stål:
+- dersom bruddforlengelsen overstiger 30 %, 2 /3 av Re/t
+- eller, alternativt, og dersom bruddforlengelsen overstiger 35 %, 5 /6 av Re/t og 1 /3 av Rm/t,
+- for ulegert eller lavlegert støpestål, 10 /19 av Re/t og 1 /3 av Rm/20,
+- for aluminium, 2 /3 av Re/t,
+- for aluminiumslegeringer, unntatt utskillingsherdede legeringer 2 /3 av Re/t og 5 /12 av Rm/20 .
 
 7.2*Sveisefaktorer*
 
-For sveisesømmer skal faktoren ikke overstige følgende verdier:for utstyr som gjennomgår destruktiv og ikke-destruktiv prøving som bekrefter at samtlige sveisesømmer er uten betydelige mangler: 1,for utstyr som gjennomgår tilfeldige ikke-destruktiv prøving: 0,85,for utstyr som ikke gjennomgår annen ikke-destruktiv prøving enn en visuell kontroll: 0,7.
+For sveisesømmer skal faktoren ikke overstige følgende verdier:
+
+- for utstyr som gjennomgår destruktiv og ikke-destruktiv prøving som bekrefter at samtlige sveisesømmer er uten betydelige mangler: 1,
+- for utstyr som gjennomgår tilfeldige ikke-destruktiv prøving: 0,85,
+- for utstyr som ikke gjennomgår annen ikke-destruktiv prøving enn en visuell kontroll: 0,7.
 
 Om nødvendig skal det tas hensyn til type spenning og mekaniske og teknologiske egenskaper ved sveisesømmen.
 
@@ -730,7 +1098,10 @@ Det kortvarige trykkstøtet nevnt i nr. 2.11.2 skal holdes innenfor 10 % over t
 
 7.4*Hydrostatisk trykkprøve*
 
-For trykkbeholdere skal trykket under vanntrykkprøvingen nevnt i nr. 3.2.2 tilsvare den største av følgende verdier:enten den maksimale belastning som det trykkpåkjente utstyret kan bli utsatt for under drift med henblikk på dets tillatte maksimaltrykk og tillatte maksimaltemperatur multiplisert med koeffisienten 1,25, ellertillatte maksimaltrykk multiplisert med koeffisienten 1,43.
+For trykkbeholdere skal trykket under vanntrykkprøvingen nevnt i nr. 3.2.2 tilsvare den største av følgende verdier:
+
+- enten den maksimale belastning som det trykkpåkjente utstyret kan bli utsatt for under drift med henblikk på dets tillatte maksimaltrykk og tillatte maksimaltemperatur multiplisert med koeffisienten 1,25, eller
+- tillatte maksimaltrykk multiplisert med koeffisienten 1,43.
 
 7.5*Materialegenskaper*
 
@@ -740,9 +1111,24 @@ Med mindre andre verdier er påkrevd i samsvar med andre kriterier som det skal 
 
 ## Vedlegg II. Diagrammer for samsvarsvurdering
 
-1. Henvisninger i diagrammene til kategorier av moduler er som følger:I=Modul AII=Modul A2, D1, E1III=Modul B (konstruksjonstype) + D, B (konstruksjonstype) + F, B (produksjonstype) + E, B (produksjonstype) + C2, HIV=Modul B (produksjonstype) + D, B (produksjonstype) + F, G, H1
+1. Henvisninger i diagrammene til kategorier av moduler er som følger:
+
+   |  |  |  |
+   | --- | --- | --- |
+   | I | = | Modul A |
+   | II | = | Modul A2, D1, E1 |
+   | III | = | Modul B (konstruksjonstype) + D, B (konstruksjonstype) + F, B (produksjonstype) + E, B (produksjonstype) + C2, H |
+   | IV | = | Modul B (produksjonstype) + D, B (produksjonstype) + F, G, H1 |
 2. Sikkerhetstilbehør som definert i [§ 4](forskrift/2017-10-10-1631/§4) nr. 4 og nevnt i [§ 8](forskrift/2017-10-10-1631/§8), er klassifisert i kategori IV. Som et unntak kan imidlertid sikkerhetstilbehør produsert for særskilt utstyr klassifiseres i samme kategori som utstyret det skal beskytte.
-3. Trykkpåkjent tilbehør som definert i [§ 4](forskrift/2017-10-10-1631/§4) nr. 5 og nevnt i [§ 8](forskrift/2017-10-10-1631/§8), er klassifisert på grunnlag avdets tillatte maksimaltrykk (PS),dets volum (V) eller dets nominelle diameter (DN), alt etter hva som er hensiktsmessigden fluidgruppe det er beregnet på.Det relevante diagram for beholdere og rørsystemer skal brukes for å avgjøre kategorien for samsvarsvurdering.Når både volum og nominell diameter anses som relevant for annet strekpunkt i første ledd, skal det trykkpåkjente tilbehør klassifiseres i høyeste kategori.
+3. Trykkpåkjent tilbehør som definert i [§ 4](forskrift/2017-10-10-1631/§4) nr. 5 og nevnt i [§ 8](forskrift/2017-10-10-1631/§8), er klassifisert på grunnlag av
+
+   - dets tillatte maksimaltrykk (PS),
+   - dets volum (V) eller dets nominelle diameter (DN), alt etter hva som er hensiktsmessig
+   - den fluidgruppe det er beregnet på.
+
+   Det relevante diagram for beholdere og rørsystemer skal brukes for å avgjøre kategorien for samsvarsvurdering.
+
+   Når både volum og nominell diameter anses som relevant for annet strekpunkt i første ledd, skal det trykkpåkjente tilbehør klassifiseres i høyeste kategori.
 4. Avgrensningslinjene i følgende diagrammer for samsvarsvurdering viser øvre verdi for hver kategori.
 
 *Diagram 1. Beholdere nevnt i [§ 5](forskrift/2017-10-10-1631/§5) bokstav a) nr. 1*
@@ -791,7 +1177,14 @@ Med «intern produksjonskontroll» menes framgangsmåten for samsvarsvurdering d
 
 Produsenten skal utarbeide den tekniske dokumentasjonen.
 
-Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av det trykkpåkjente utstyret,konstruksjons- og produksjonstegninger samt diagrammer over komponenter, delsammenstillinger, kretser, osv.,nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og en beskrivelse av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.
+Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+- en generell beskrivelse av det trykkpåkjente utstyret,
+- konstruksjons- og produksjonstegninger samt diagrammer over komponenter, delsammenstillinger, kretser, osv.,
+- nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,
+- en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og en beskrivelse av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+- resultatene av konstruksjonsberegninger, undersøkelser osv.,
+- prøvingsrapporter.
 
 3.*Produksjon*
 
@@ -821,7 +1214,14 @@ Med «intern produksjonskontroll samt overvåket kontroll av trykkpåkjent utsty
 
 2.*Teknisk dokumentasjon*
 
-Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av det trykkpåkjente utstyret,konstruksjons- og produksjonstegninger samt diagrammer over komponenter, delsammenstillinger, kretser, osv.,nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er foretatt, osv., ogprøvingsrapporter.
+Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+- en generell beskrivelse av det trykkpåkjente utstyret,
+- konstruksjons- og produksjonstegninger samt diagrammer over komponenter, delsammenstillinger, kretser, osv.,
+- nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,
+- en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+- resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er foretatt, osv., og
+- prøvingsrapporter.
 
 3.*Produksjon*
 
@@ -833,7 +1233,10 @@ Produsenten skal gjennomføre en avsluttende kontroll av det trykkpåkjente utst
 
 Det tekniske kontrollorganet skal utføre eller besørge utført produktkontroller med ujevne mellomrom fastsatt av organet, for å kontrollere kvaliteten på den interne kontrollen av det trykkpåkjente utstyret, idet det tas hensyn til blant annet hvor teknologisk komplekst det trykkpåkjente utstyret er, og produksjonsmengden.
 
-Ved slike uanmeldte besøk skal det tekniske kontrollorganetsikre at produsenten virkelig utfører en avsluttende kontroll i samsvar med vedlegg I nr. 3.2,ta stikkprøver av trykkpåkjent utstyr på produksjonsstedet eller lager for å gjennomføre kontroller. Det tekniske kontrollorganet vurderer antallet utstyr som skal prøves, og om det er nødvendig å utføre, eller få utført, hele eller deler av ferdigkontrollen på stikkprøvene av det trykkpåkjente utstyret.
+Ved slike uanmeldte besøk skal det tekniske kontrollorganet
+
+- sikre at produsenten virkelig utfører en avsluttende kontroll i samsvar med vedlegg I nr. 3.2,
+- ta stikkprøver av trykkpåkjent utstyr på produksjonsstedet eller lager for å gjennomføre kontroller. Det tekniske kontrollorganet vurderer antallet utstyr som skal prøves, og om det er nødvendig å utføre, eller få utført, hele eller deler av ferdigkontrollen på stikkprøvene av det trykkpåkjente utstyret.
 
 Formålet med prosedyren for prøvetaking som skal anvendes, er å fastslå om produksjonsprosessen for det trykkpåkjente utstyret er innenfor akseptable grenser, med henblikk på å sikre at det trykkpåkjente utstyret er i samsvar med kravene.
 
@@ -873,11 +1276,27 @@ EU-typeprøving – produksjonstype skal bestå av en vurdering av egnetheten ti
 
 Produsenten skal inngi en søknad om EU-typeprøving til ett enkelt teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av det trykkpåkjente utstyret,konstruksjons- og produksjonstegninger samt diagrammer over komponenter, delsammenstillinger, kretser, osv.nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført osv.,prøvingsrapporter,opplysninger om prøving som er påkrevd under produksjon,opplysninger om kvalifikasjoner eller godkjenninger som kreves i henhold til vedlegg I nr. 3.1.2 og 3.1.3,eksemplarer som er representative for den planlagte produksjonen.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+- den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+  - en generell beskrivelse av det trykkpåkjente utstyret,
+  - konstruksjons- og produksjonstegninger samt diagrammer over komponenter, delsammenstillinger, kretser, osv.
+  - nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,
+  - en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+  - resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført osv.,
+  - prøvingsrapporter,
+  - opplysninger om prøving som er påkrevd under produksjon,
+  - opplysninger om kvalifikasjoner eller godkjenninger som kreves i henhold til vedlegg I nr. 3.1.2 og 3.1.3,
+- eksemplarer som er representative for den planlagte produksjonen.
 
 Eksemplaret kan omfatte flere versjoner av det trykkpåkjente utstyret forutsatt at forskjellene mellom versjonene ikke påvirker sikkerhetsnivået.
 
-Det tekniske kontrollorganet kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt, særlig der relevante harmoniserte standarder ikke er anvendt fullt ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført i samsvar med andre relevante tekniske spesifikasjoner av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
+Det tekniske kontrollorganet kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,
+
+- underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt, særlig der relevante harmoniserte standarder ikke er anvendt fullt ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført i samsvar med andre relevante tekniske spesifikasjoner av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
 
 4\.
 
@@ -887,7 +1306,11 @@ Det tekniske kontrollorganet skal
 
 undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere produksjonsprosessen og om det trykkpåkjente utstyret har en hensiktsmessig teknisk konstruksjon.
 
-Det tekniske kontrollorganet skal særligvurdere materialene når disse ikke er i samsvar med relevante harmoniserte standarder eller med en europeisk godkjenning som materiale til trykkpåkjent utstyr, og kontrollere sertifikatet utstedt av materialprodusenten i samsvar med vedlegg I nr. 4.3,godkjenne prosedyrer for permanent sammenføyning av deler til trykkpåkjent utstyr, eller kontrollere at de er godkjent tidligere i samsvar med vedlegg I nr. 3.1.2,verifisere at personellet som utfører permanent sammenføyning av deler til trykkpåkjent utstyr og ikke-destruktiv prøving, er kvalifisert eller godkjent i samsvar med vedlegg I nr. 3.1.2 eller 3.1.3.
+Det tekniske kontrollorganet skal særlig
+
+- vurdere materialene når disse ikke er i samsvar med relevante harmoniserte standarder eller med en europeisk godkjenning som materiale til trykkpåkjent utstyr, og kontrollere sertifikatet utstedt av materialprodusenten i samsvar med vedlegg I nr. 4.3,
+- godkjenne prosedyrer for permanent sammenføyning av deler til trykkpåkjent utstyr, eller kontrollere at de er godkjent tidligere i samsvar med vedlegg I nr. 3.1.2,
+- verifisere at personellet som utfører permanent sammenføyning av deler til trykkpåkjent utstyr og ikke-destruktiv prøving, er kvalifisert eller godkjent i samsvar med vedlegg I nr. 3.1.2 eller 3.1.3.
 
 4.2
 
@@ -957,7 +1380,19 @@ Den eksperimentelle konstruksjonsmetoden som beskrives i vedlegg I nr. 2.2.4, sk
 
 Produsenten skal inngi en søknad om EU-typeprøving – konstruksjonstype til ett enkelt teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av det trykkpåkjente utstyret,konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført osv.,opplysninger om kvalifikasjoner eller godkjenninger som kreves i henhold til vedlegg I nr. 3.1.2 og 3.1.3,underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt, særlig der relevante harmoniserte standarder ikke er anvendt fullt ut. Denne underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+- den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+  - en generell beskrivelse av det trykkpåkjente utstyret,
+  - konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,
+  - nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,
+  - en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+  - resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført osv.,
+  - opplysninger om kvalifikasjoner eller godkjenninger som kreves i henhold til vedlegg I nr. 3.1.2 og 3.1.3,
+- underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt, særlig der relevante harmoniserte standarder ikke er anvendt fullt ut. Denne underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
 
 Søknaden kan omfatte flere versjoner av det trykkpåkjente utstyret forutsatt at forskjellene mellom versjonene ikke påvirker sikkerhetsnivået.
 
@@ -969,7 +1404,10 @@ Det tekniske kontrollorganet skal
 
 undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om produktets tekniske konstruksjon er tilfredsstillende.
 
-Det tekniske kontrollorganet skal særligvurdere materialene når disse ikke er i samsvar med relevante harmoniserte standarder eller med en europeisk godkjenning som materiale til trykkpåkjent utstyr,godkjenne prosedyrer for permanent sammenføyning av deler til trykkpåkjent utstyr, eller kontrollere at de er godkjent tidligere i samsvar med vedlegg I nr. 3.1.2.
+Det tekniske kontrollorganet skal særlig
+
+- vurdere materialene når disse ikke er i samsvar med relevante harmoniserte standarder eller med en europeisk godkjenning som materiale til trykkpåkjent utstyr,
+- godkjenne prosedyrer for permanent sammenføyning av deler til trykkpåkjent utstyr, eller kontrollere at de er godkjent tidligere i samsvar med vedlegg I nr. 3.1.2.
 
 4.2
 
@@ -1073,7 +1511,13 @@ Produsenten skal anvende et godkjent kvalitetssystem for produksjon, inspeksjon 
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det*berørte trykkpåkjente* utstyret til et teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,alle relevante opplysninger om den aktuelle typen trykkpåkjent utstyr,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+- alle relevante opplysninger om den aktuelle typen trykkpåkjent utstyr,
+- dokumentasjon for kvalitetssystemet,
+- den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
 
 3.2
 
@@ -1081,7 +1525,13 @@ Kvalitetssystemet skal sikre at det trykkpåkjente utstyret er i samsvar med typ
 
 Alle elementer, krav og bestemmelser som produsenten benytter, skal dokumenteres på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, prosedyrer og bruksanvisninger. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemenes programmer, planer, håndbøker og registre på en ensartet måte.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til det trykkpåkjente utstyrets kvalitet,tilsvarende teknikker, prosesser og systematiske tiltak som vil bli anvendt ved produksjon, kvalitetskontroll og kvalitetssikring, særlig prosedyrer anvendt ved permanent sammenføyning av deler godkjent i samsvar med vedlegg I nr. 3.1.2,undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler og utfører ikke-destruktiv prøving i samsvar med vedlegg I nr. 3.1.2 og 3.1.3 osv., ogmetoder for å overvåke at den nødvendige kvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til det trykkpåkjente utstyrets kvalitet,
+- tilsvarende teknikker, prosesser og systematiske tiltak som vil bli anvendt ved produksjon, kvalitetskontroll og kvalitetssikring, særlig prosedyrer anvendt ved permanent sammenføyning av deler godkjent i samsvar med vedlegg I nr. 3.1.2,
+- undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,
+- kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler og utfører ikke-destruktiv prøving i samsvar med vedlegg I nr. 3.1.2 og 3.1.3 osv., og
+- metoder for å overvåke at den nødvendige kvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
 
 3.3
 
@@ -1115,7 +1565,10 @@ Formålet med overvåkingen er å sikre at produsenten korrekt oppfyller de forp
 
 4.2
 
-Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssikringssystemet,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.
+Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjonen for kvalitetssikringssystemet,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.
 
 4.3
 
@@ -1123,7 +1576,13 @@ Det tekniske kontrollorganet skal gjennomføre periodiske revisjoner for å sikr
 
 4.4
 
-Det tekniske kontrollorganet kan også avlegge uanmeldte besøk hos produsenten. Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det skal særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:trykkpåkjent utstyrskategori,resultatene fra tidligere kontrollbesøk,behovet for oppfølging av korrigerende tiltak,eventuelle særlige vilkår knyttet til godkjenning av ordningen,viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
+Det tekniske kontrollorganet kan også avlegge uanmeldte besøk hos produsenten. Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det skal særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:
+
+- trykkpåkjent utstyrskategori,
+- resultatene fra tidligere kontrollbesøk,
+- behovet for oppfølging av korrigerende tiltak,
+- eventuelle særlige vilkår knyttet til godkjenning av ordningen,
+- viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
 
 Ved slike besøk kan det tekniske kontrollorganet om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet virker tilfredsstillende. Det tekniske kontrollorganet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det har utført prøvinger.
 
@@ -1141,7 +1600,11 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 6\.
 
-Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,vedtakene og rapportene fra det tekniske kontrollorganet nevnt i nr. 3.3, 3.5, 4.3 og 4.4.
+Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+- dokumentasjonen nevnt i nr. 3.1,
+- endringen nevnt i nr. 3.5, som godkjent,
+- vedtakene og rapportene fra det tekniske kontrollorganet nevnt i nr. 3.3, 3.5, 4.3 og 4.4.
 
 7\.
 
@@ -1161,7 +1624,14 @@ Kvalitetssikring av produksjonsprosessen er den prosedyren for samsvarsvurdering
 
 2.*Teknisk dokumentasjon*
 
-Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholdeen generell beskrivelse av det trykkpåkjente utstyret,konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er gjennomført, osv., ogprøvingsrapporter.
+Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholde
+
+- en generell beskrivelse av det trykkpåkjente utstyret,
+- konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,
+- nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,
+- en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+- resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er gjennomført, osv., og
+- prøvingsrapporter.
 
 3\.
 
@@ -1177,7 +1647,13 @@ Produsenten skal anvende et godkjent kvalitetssystem for produksjon, inspeksjon 
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for *det berørte trykkpåkjente* utstyret til et teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,alle relevante opplysninger om den aktuelle typen trykkpåkjent utstyr,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen nevnt i nr. 2.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+- alle relevante opplysninger om den aktuelle typen trykkpåkjent utstyr,
+- dokumentasjon for kvalitetssystemet,
+- den tekniske dokumentasjonen nevnt i nr. 2.
 
 5.2
 
@@ -1185,7 +1661,13 @@ Kvalitetssikringssystemet skal sikre at det trykkpåkjente utstyret er i samsvar
 
 Alle elementer, krav og bestemmelser som produsenten benytter, skal dokumenteres på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, prosedyrer og bruksanvisninger. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemenes programmer, planer, håndbøker og registre på en ensartet måte.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til det trykkpåkjente utstyrets kvalitet,tilsvarende teknikker, prosesser og systematiske tiltak som vil bli anvendt ved produksjon, kvalitetskontroll og kvalitetssikring, særlig prosedyrer anvendt ved permanent sammenføyning av deler godkjent i samsvar med vedlegg I nr. 3.1.2,undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler i samsvar med vedlegg I nr. 3.1.2 osv.,metoder for å overvåke at den nødvendige produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til det trykkpåkjente utstyrets kvalitet,
+- tilsvarende teknikker, prosesser og systematiske tiltak som vil bli anvendt ved produksjon, kvalitetskontroll og kvalitetssikring, særlig prosedyrer anvendt ved permanent sammenføyning av deler godkjent i samsvar med vedlegg I nr. 3.1.2,
+- undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,
+- kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler i samsvar med vedlegg I nr. 3.1.2 osv.,
+- metoder for å overvåke at den nødvendige produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
 
 5.3
 
@@ -1217,7 +1699,11 @@ Formålet med overvåkingen er å sikre at produsenten korrekt oppfyller de forp
 
 6.2
 
-Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssikringssystemet,den tekniske dokumentasjonen nevnt i nr. 2,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.
+Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjonen for kvalitetssikringssystemet,
+- den tekniske dokumentasjonen nevnt i nr. 2,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.
 
 6.3
 
@@ -1225,7 +1711,13 @@ Det tekniske kontrollorganet skal gjennomføre periodiske revisjoner for å sikr
 
 6.4
 
-Det tekniske kontrollorganet kan også avlegge uanmeldte besøk hos produsenten. Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det skal særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:trykkpåkjent utstyrskategori,resultatene fra tidligere kontrollbesøk,behovet for oppfølging av korrigerende tiltak,eventuelle særlige vilkår knyttet til godkjenning av ordningen,viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
+Det tekniske kontrollorganet kan også avlegge uanmeldte besøk hos produsenten. Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det skal særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:
+
+- trykkpåkjent utstyrskategori,
+- resultatene fra tidligere kontrollbesøk,
+- behovet for oppfølging av korrigerende tiltak,
+- eventuelle særlige vilkår knyttet til godkjenning av ordningen,
+- viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
 
 Ved slike besøk kan det tekniske kontrollorganet om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet virker tilfredsstillende. Det tekniske kontrollorganet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det har utført prøvinger.
 
@@ -1243,7 +1735,11 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 8\.
 
-Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 5.1,endringen nevnt i nr. 5.5,vedtakene og rapportene fra det tekniske kontrollorganet nevnt i nr. 5.5, 6.3 og 6.4.
+Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+- dokumentasjonen nevnt i nr. 5.1,
+- endringen nevnt i nr. 5.5,
+- vedtakene og rapportene fra det tekniske kontrollorganet nevnt i nr. 5.5, 6.3 og 6.4.
 
 9\.
 
@@ -1271,7 +1767,13 @@ Produsenten skal anvende et godkjent kvalitetssystem for inspeksjon av ferdige p
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det berørte trykkpåkjente utstyret til et teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,alle relevante opplysninger om den aktuelle typen trykkpåkjent utstyr,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+- alle relevante opplysninger om den aktuelle typen trykkpåkjent utstyr,
+- dokumentasjon for kvalitetssystemet,
+- den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
 
 3.2
 
@@ -1279,7 +1781,12 @@ Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EU
 
 Alle elementer, krav og bestemmelser som produsenten benytter, skal dokumenteres på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, prosedyrer og bruksanvisninger. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemenes programmer, planer, håndbøker og registre på en ensartet måte.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,undersøkelsene og prøvingene som vil bli gjennomført etter produksjon,kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler og utfører ikke-destruktiv prøving i samsvar med vedlegg I nr. 3.1.2 og 3.1.3,tiltak for å kontrollere at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,
+- undersøkelsene og prøvingene som vil bli gjennomført etter produksjon,
+- kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler og utfører ikke-destruktiv prøving i samsvar med vedlegg I nr. 3.1.2 og 3.1.3,
+- tiltak for å kontrollere at kvalitetssystemet virker effektivt.
 
 3.3
 
@@ -1311,7 +1818,11 @@ Formålet med overvåkingen er å sikre at produsenten korrekt oppfyller de forp
 
 4.2
 
-Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssikringssystemet,den tekniske dokumentasjonen,kvalitetsregistrene, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter vedrørende det berørte personellets kvalifikasjoner osv.
+Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjonen for kvalitetssikringssystemet,
+- den tekniske dokumentasjonen,
+- kvalitetsregistrene, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter vedrørende det berørte personellets kvalifikasjoner osv.
 
 4.3
 
@@ -1321,7 +1832,13 @@ Det tekniske kontrollorganet skal gjennomføre periodiske revisjoner for å sikr
 
 Det tekniske kontrollorganet kan også avlegge uanmeldte besøk hos produsenten.
 
-Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det skal særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:det trykkpåkjente utstyrets kategori,resultatene fra tidligere kontrollbesøk,behovet for oppfølging av korrigerende tiltak,eventuelle særlige vilkår knyttet til godkjenning av ordningen,viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
+Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det skal særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:
+
+- det trykkpåkjente utstyrets kategori,
+- resultatene fra tidligere kontrollbesøk,
+- behovet for oppfølging av korrigerende tiltak,
+- eventuelle særlige vilkår knyttet til godkjenning av ordningen,
+- viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
 
 Ved slike besøk kan det tekniske kontrollorganet om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet virker tilfredsstillende. Det tekniske kontrollorganet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det har utført prøvinger.
 
@@ -1339,7 +1856,11 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 6\.
 
-Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,vedtakene og rapportene fra det tekniske kontrollorganet som er nevnt i nr. 3.3, 3.5, 4.3 og 4.4.
+Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+- dokumentasjonen nevnt i nr. 3.1,
+- endringen nevnt i nr. 3.5, som godkjent,
+- vedtakene og rapportene fra det tekniske kontrollorganet som er nevnt i nr. 3.3, 3.5, 4.3 og 4.4.
 
 7\.
 
@@ -1359,7 +1880,14 @@ Kvalitetssikring av inspeksjon og prøving av det ferdige trykkpåkjente utstyre
 
 2.*Teknisk dokumentasjon*
 
-Produsenten skal utarbeide den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av det trykkpåkjente utstyret,konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er gjennomført, osv., ogprøvingsrapporter.
+Produsenten skal utarbeide den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+- en generell beskrivelse av det trykkpåkjente utstyret,
+- konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,
+- nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,
+- en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+- resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er gjennomført, osv., og
+- prøvingsrapporter.
 
 3\.
 
@@ -1375,7 +1903,13 @@ Produsenten skal anvende et godkjent kvalitetssystem for inspeksjon og prøving 
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det berørte trykkpåkjente utstyret til et teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,alle relevante opplysninger om den aktuelle typen trykkpåkjent utstyr,dokumentasjon for kvalitetssystemet, ogden tekniske dokumentasjonen nevnt i nr. 2.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+- alle relevante opplysninger om den aktuelle typen trykkpåkjent utstyr,
+- dokumentasjon for kvalitetssystemet, og
+- den tekniske dokumentasjonen nevnt i nr. 2.
 
 5.2
 
@@ -1385,7 +1919,13 @@ Innenfor rammen av kvalitetssystemet skal hver enkelt trykkpåkjent komponent un
 
 Alle elementer, krav og bestemmelser som produsenten benytter, skal dokumenteres på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, prosedyrer og bruksanvisninger. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemenes programmer, planer, håndbøker og registre på en ensartet måte.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til det trykkpåkjente utstyrets kvalitet,prosedyrer brukt ved permanent sammenføyning av deler godkjent i samsvar med vedlegg I nr. 3.1.2,undersøkelsene og prøvingene som vil bli gjennomført etter produksjon,kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler i samsvar med vedlegg I nr. 3.1.2,tiltak for å kontrollere at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til det trykkpåkjente utstyrets kvalitet,
+- prosedyrer brukt ved permanent sammenføyning av deler godkjent i samsvar med vedlegg I nr. 3.1.2,
+- undersøkelsene og prøvingene som vil bli gjennomført etter produksjon,
+- kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler i samsvar med vedlegg I nr. 3.1.2,
+- tiltak for å kontrollere at kvalitetssystemet virker effektivt.
 
 5.3
 
@@ -1419,7 +1959,11 @@ Formålet med overvåkingen er å sikre at produsenten korrekt oppfyller de forp
 
 6.2
 
-Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssikringssystemet,den tekniske dokumentasjonen nevnt i nr. 2,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.
+Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjonen for kvalitetssikringssystemet,
+- den tekniske dokumentasjonen nevnt i nr. 2,
+- kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.
 
 6.3
 
@@ -1427,7 +1971,13 @@ Det tekniske kontrollorganet skal gjennomføre periodiske revisjoner for å sikr
 
 6.4
 
-Det tekniske kontrollorganet kan også avlegge uanmeldte besøk hos produsenten. Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det skal særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:utstyrets kategori,resultatene fra tidligere kontrollbesøk,behovet for oppfølging av korrigerende tiltak,eventuelle særlige vilkår knyttet til godkjenning av ordningen,viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
+Det tekniske kontrollorganet kan også avlegge uanmeldte besøk hos produsenten. Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det skal særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:
+
+- utstyrets kategori,
+- resultatene fra tidligere kontrollbesøk,
+- behovet for oppfølging av korrigerende tiltak,
+- eventuelle særlige vilkår knyttet til godkjenning av ordningen,
+- viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
 
 Ved slike besøk kan det tekniske kontrollorganet om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet virker tilfredsstillende. Det tekniske kontrollorganet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det har utført prøvinger.
 
@@ -1445,7 +1995,11 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 8\.
 
-Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 5.1,endringen nevnt i nr. 5.5, som godkjent,vedtakene og rapportene fra det tekniske kontrollorganet nevnt i nr. 5.3, 5.5, 6.3 og 6.4.
+Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+- dokumentasjonen nevnt i nr. 5.1,
+- endringen nevnt i nr. 5.5, som godkjent,
+- vedtakene og rapportene fra det tekniske kontrollorganet nevnt i nr. 5.3, 5.5, 6.3 og 6.4.
 
 9\.
 
@@ -1479,7 +2033,11 @@ Undersøkelsene og prøvingene for å kontrollere om det trykkpåkjente utstyret
 
 Alt trykkpåkjent utstyr skal undersøkes enkeltvis, og nødvendige prøvinger, som definert i den eller de relevante harmoniserte standarder eller tilsvarende prøvinger, skal utføres for å verifisere at utstyret er i samsvar med den godkjente typen beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i forskriften. I mangel av en slik harmonisert standard skal det berørte tekniske kontrollorganet avgjøre hvilke hensiktsmessige prøvinger som skal utføres.
 
-Det tekniske kontrollorganet skal særligverifisere at personellet som utfører permanent sammenføyning av deler og ikke-destruktiv prøving, er kvalifisert eller godkjent i samsvar med vedlegg I nr. 3.1.2 og 3.1.3.verifisere sertifikater utstedt av materialprodusenten i samsvar med vedlegg I nr. 4.3,utføre eller få utført den avsluttende kontrollen og trykkprøvingen nevnt i vedlegg I nr. 3.2 og, når relevant, kontrollere sikkerhetsinnretninger.
+Det tekniske kontrollorganet skal særlig
+
+- verifisere at personellet som utfører permanent sammenføyning av deler og ikke-destruktiv prøving, er kvalifisert eller godkjent i samsvar med vedlegg I nr. 3.1.2 og 3.1.3.
+- verifisere sertifikater utstedt av materialprodusenten i samsvar med vedlegg I nr. 4.3,
+- utføre eller få utført den avsluttende kontrollen og trykkprøvingen nevnt i vedlegg I nr. 3.2 og, når relevant, kontrollere sikkerhetsinnretninger.
 
 4.2
 
@@ -1521,7 +2079,15 @@ Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådig
 
 Dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon, produksjon og virkemåte.
 
-Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av det trykkpåkjente utstyret,konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført osv.,prøvingsrapporter,relevante opplysninger med hensyn til godkjenning av prosedyrer for produksjon og prøving og om kvalifikasjoner eller godkjenninger av personell i samsvar med vedlegg I nr. 3.1.2 og 3.1.3.
+Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+- en generell beskrivelse av det trykkpåkjente utstyret,
+- konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,
+- nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,
+- en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+- resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført osv.,
+- prøvingsrapporter,
+- relevante opplysninger med hensyn til godkjenning av prosedyrer for produksjon og prøving og om kvalifikasjoner eller godkjenninger av personell i samsvar med vedlegg I nr. 3.1.2 og 3.1.3.
 
 Produsenten skal oppbevare den tekniske dokumentasjonen og kunne stille den til rådighet for vedkommende nasjonale myndigheter i ti år etter at det trykkpåkjente utstyret er brakt i omsetning.
 
@@ -1533,7 +2099,13 @@ Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og 
 
 Et teknisk kontrollorgan valgt av produsenten skal utføre eller få utført hensiktsmessige undersøkelser og prøvinger, som fastsatt i relevante harmoniserte standarder, og/eller tilsvarende prøvinger, for å kontrollere om det trykkpåkjente utstyret er i samsvar med gjeldende krav i forskriften. I mangel av en slik harmonisert standard skal det berørte tekniske kontrollorganet avgjøre hvilke hensiktsmessige prøvinger som skal utføres fastsatt i andre tekniske spesifikasjoner.
 
-Det tekniske kontrollorganet skal særliggjennomgå den tekniske dokumentasjonen med henblikk på konstruksjons- og produksjonsprosedyrer,vurdere materialene som er brukt når disse ikke er i samsvar med relevante harmoniserte standarder eller med en europeisk godkjenning som materiale til trykkpåkjent utstyr, og kontrollere sertifikatet utstedt av materialprodusenten i samsvar med vedlegg I nr. 4.3,godkjenne prosedyrer for permanent sammenføyning av deler, eller kontrollere at de er godkjent tidligere i samsvar med vedlegg I nr. 3.1.2,verifisere kvalifikasjoner eller godkjenninger som kreves i henhold til vedlegg I nr. 3.1.2 og 3.1.3,utføre sluttkontroll nevnt i vedlegg I nr. 3.2.1, utføre eller få utført trykkprøvingen nevnt i vedlegg I nr. 3.2.2 og, når det er relevant, kontrollere sikkerhetsinnretninger.
+Det tekniske kontrollorganet skal særlig
+
+- gjennomgå den tekniske dokumentasjonen med henblikk på konstruksjons- og produksjonsprosedyrer,
+- vurdere materialene som er brukt når disse ikke er i samsvar med relevante harmoniserte standarder eller med en europeisk godkjenning som materiale til trykkpåkjent utstyr, og kontrollere sertifikatet utstedt av materialprodusenten i samsvar med vedlegg I nr. 4.3,
+- godkjenne prosedyrer for permanent sammenføyning av deler, eller kontrollere at de er godkjent tidligere i samsvar med vedlegg I nr. 3.1.2,
+- verifisere kvalifikasjoner eller godkjenninger som kreves i henhold til vedlegg I nr. 3.1.2 og 3.1.3,
+- utføre sluttkontroll nevnt i vedlegg I nr. 3.2.1, utføre eller få utført trykkprøvingen nevnt i vedlegg I nr. 3.2.2 og, når det er relevant, kontrollere sikkerhetsinnretninger.
 
 Det tekniske kontrollorganet skal utstede et samsvarssertifikat på grunnlag av de utførte undersøkelser og prøvinger, og skal påføre sitt identifikasjonsnummer på det godkjente trykkpåkjente utstyret eller få det påført på sitt ansvar. Produsenten skal oppbevare samsvarssertifikatene og stille dem til rådighet for nasjonale myndigheter i ti år etter at det trykkpåkjente utstyret er brakt i omsetning.
 
@@ -1569,7 +2141,19 @@ Produsenten skal anvende et godkjent kvalitetssystem for konstruksjon, produksjo
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det berørte trykkpåkjente utstyret til et teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,den tekniske dokumentasjonen for én modell av hver type trykkpåkjent utstyr som skal produseres. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av det trykkpåkjente utstyret,konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført osv.,prøvingsrapporter,dokumentasjon for kvalitetssystemet, ogen skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- den tekniske dokumentasjonen for én modell av hver type trykkpåkjent utstyr som skal produseres. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+  - en generell beskrivelse av det trykkpåkjente utstyret,
+  - konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,
+  - nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,
+  - en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+  - resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført osv.,
+  - prøvingsrapporter,
+- dokumentasjon for kvalitetssystemet, og
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
 
 3.2
 
@@ -1577,7 +2161,15 @@ Kvalitetssikringssystemet skal sikre at det trykkpåkjente utstyret er i samsvar
 
 Alle elementer, krav og bestemmelser som produsenten benytter, skal dokumenteres på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, prosedyrer og bruksanvisninger. Dokumentasjonen for kvalitetssystemet skal sikre en felles forståelse av kvalitetsprogrammer, -planer, -håndbøker og -registre.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktets konstruksjon og kvalitet,tekniske konstruksjonsspesifikasjoner, herunder standarder, som skal anvendes, og, dersom de harmoniserte standarder ikke blir anvendt i sin helhet, hvilke midler som blir brukt for å sikre at de grunnleggende krav i forskriften som får anvendelse på det trykkpåkjente utstyret, vil bli oppfylt,teknikker for kontroll og verifisering av konstruksjonen, prosedyrer og systematiske metoder og prosesser som vil bli anvendt under konstruksjonen av det trykkpåkjente utstyret, som gjelder den aktuelle produkttypen, særlig med hensyn til materialer i samsvar med vedlegg I nr. 4,tilsvarende teknikker, prosesser og systematiske tiltak som vil bli anvendt ved produksjon, kvalitetskontroll og kvalitetssikring, særlig prosedyrer for permanent sammenføyning av deler godkjent i samsvar med vedlegg I nr. 3.1.2,undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler og utfører ikke-destruktiv prøving i samsvar med vedlegg I nr. 3.1.2 og 3.1.3 osv.,midler for å overvåke at den nødvendige konstruksjons- og trykkpåkjent utstyrskvalitet oppnås, og at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktets konstruksjon og kvalitet,
+- tekniske konstruksjonsspesifikasjoner, herunder standarder, som skal anvendes, og, dersom de harmoniserte standarder ikke blir anvendt i sin helhet, hvilke midler som blir brukt for å sikre at de grunnleggende krav i forskriften som får anvendelse på det trykkpåkjente utstyret, vil bli oppfylt,
+- teknikker for kontroll og verifisering av konstruksjonen, prosedyrer og systematiske metoder og prosesser som vil bli anvendt under konstruksjonen av det trykkpåkjente utstyret, som gjelder den aktuelle produkttypen, særlig med hensyn til materialer i samsvar med vedlegg I nr. 4,
+- tilsvarende teknikker, prosesser og systematiske tiltak som vil bli anvendt ved produksjon, kvalitetskontroll og kvalitetssikring, særlig prosedyrer for permanent sammenføyning av deler godkjent i samsvar med vedlegg I nr. 3.1.2,
+- undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,
+- kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler og utfører ikke-destruktiv prøving i samsvar med vedlegg I nr. 3.1.2 og 3.1.3 osv.,
+- midler for å overvåke at den nødvendige konstruksjons- og trykkpåkjent utstyrskvalitet oppnås, og at kvalitetssystemet virker effektivt.
 
 3.3
 
@@ -1609,7 +2201,11 @@ Formålet med overvåkingen er å sikre at produsenten korrekt oppfyller de forp
 
 4.2
 
-Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til konstruksjons-, produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssikringssystemet,kvalitetsregistreringer som fastsatt av kvalitetssystemets konstruksjonsdel, f.eks. resultater av analyser, beregninger, prøvinger osv.,kvalitetsregistrene fastsatt av kvalitetssystemets produksjonsdel, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personellets kvalifikasjoner osv.
+Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til konstruksjons-, produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjonen for kvalitetssikringssystemet,
+- kvalitetsregistreringer som fastsatt av kvalitetssystemets konstruksjonsdel, f.eks. resultater av analyser, beregninger, prøvinger osv.,
+- kvalitetsregistrene fastsatt av kvalitetssystemets produksjonsdel, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personellets kvalifikasjoner osv.
 
 4.3
 
@@ -1619,7 +2215,13 @@ Det tekniske kontrollorganet skal gjennomføre periodiske revisjoner for å sikr
 
 Det tekniske kontrollorganet kan også avlegge uanmeldte besøk hos produsenten.
 
-Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det skal særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:utstyrets kategori,resultatene fra tidligere kontrollbesøk,behovet for oppfølging av korrigerende tiltak,eventuelle særlige vilkår knyttet til godkjenning av ordningen,viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
+Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det skal særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:
+
+- utstyrets kategori,
+- resultatene fra tidligere kontrollbesøk,
+- behovet for oppfølging av korrigerende tiltak,
+- eventuelle særlige vilkår knyttet til godkjenning av ordningen,
+- viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
 
 I forbindelse med slike besøk kan det tekniske kontrollorganet om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet fungerer tilfredsstillende. Det skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det ble utført prøvinger.
 
@@ -1637,7 +2239,12 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 6\.
 
-Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheterden tekniske dokumentasjonen nevnt i nr. 3.1,dokumentasjon for kvalitetssystemet nevnt i nr. 3.1,endringen nevnt i nr. 3.4, som godkjent,beslutningene og rapportene fra det tekniske kontrollorganet nevnt i nr. 3.3, 3.4, 4.3 og 4.4.
+Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+- den tekniske dokumentasjonen nevnt i nr. 3.1,
+- dokumentasjon for kvalitetssystemet nevnt i nr. 3.1,
+- endringen nevnt i nr. 3.4, som godkjent,
+- beslutningene og rapportene fra det tekniske kontrollorganet nevnt i nr. 3.3, 3.4, 4.3 og 4.4.
 
 7\.
 
@@ -1665,7 +2272,19 @@ Produsenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for kons
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det berørte trykkpåkjente utstyret til et teknisk kontrollorgan etter eget valg.
 
-Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,den tekniske dokumentasjonen for én modell av hver type trykkpåkjent utstyr som skal produseres. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av det trykkpåkjente utstyret,konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført osv.,prøvingsrapporter,dokumentasjon for kvalitetssystemet,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
+Søknaden skal inneholde følgende:
+
+- produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,
+- den tekniske dokumentasjonen for én modell av hver type trykkpåkjent utstyr som skal produseres. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+  - en generell beskrivelse av det trykkpåkjente utstyret,
+  - konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,
+  - nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,
+  - en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+  - resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført osv.,
+  - prøvingsrapporter,
+- dokumentasjon for kvalitetssystemet,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan.
 
 3.2
 
@@ -1673,7 +2292,15 @@ Kvalitetssikringssystemet skal sikre at det trykkpåkjente utstyret er i samsvar
 
 Alle elementer, krav og bestemmelser som produsenten benytter, skal dokumenteres på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, prosedyrer og bruksanvisninger. Dokumentasjonen for kvalitetssystemet skal gjøre det mulig å tolke kvalitetssystemenes programmer, planer, håndbøker og registre på en ensartet måte.
 
-Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktets konstruksjon og kvalitet,tekniske konstruksjonsspesifikasjoner, herunder standarder, som skal anvendes, og, dersom harmoniserte standarder ikke blir anvendt i sin helhet, hvilke midler som blir brukt for å sikre at de grunnleggende sikkerhetskrav i forskriften som får anvendelse på det trykkpåkjente utstyret, vil bli oppfylt,teknikker for kontroll og verifisering av konstruksjonen, prosedyrer og systematiske metoder og prosesser som vil bli anvendt under konstruksjonen av det trykkpåkjente utstyret, som gjelder den aktuelle typen trykkpåkjent utstyr, som med hensyn til materialer i samsvar med vedlegg I nr. 4,tilsvarende teknikker, prosesser og systematiske tiltak som vil bli anvendt ved produksjon, kvalitetskontroll og kvalitetssikring, særlig prosedyrer for permanent sammenføyning av deler godkjent i samsvar med vedlegg I nr. 3.1.2,undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler og utfører ikke-destruktiv prøving i samsvar med vedlegg I nr. 3.1.2 og 3.1.3 osv.,midler for å overvåke at den nødvendige konstruksjons- og trykkpåkjent utstyrskvalitet oppnås, og at kvalitetssystemet virker effektivt.
+Den skal særlig inneholde en tilstrekkelig beskrivelse av
+
+- kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktets konstruksjon og kvalitet,
+- tekniske konstruksjonsspesifikasjoner, herunder standarder, som skal anvendes, og, dersom harmoniserte standarder ikke blir anvendt i sin helhet, hvilke midler som blir brukt for å sikre at de grunnleggende sikkerhetskrav i forskriften som får anvendelse på det trykkpåkjente utstyret, vil bli oppfylt,
+- teknikker for kontroll og verifisering av konstruksjonen, prosedyrer og systematiske metoder og prosesser som vil bli anvendt under konstruksjonen av det trykkpåkjente utstyret, som gjelder den aktuelle typen trykkpåkjent utstyr, som med hensyn til materialer i samsvar med vedlegg I nr. 4,
+- tilsvarende teknikker, prosesser og systematiske tiltak som vil bli anvendt ved produksjon, kvalitetskontroll og kvalitetssikring, særlig prosedyrer for permanent sammenføyning av deler godkjent i samsvar med vedlegg I nr. 3.1.2,
+- undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,
+- kvalitetsregistre, som inspeksjonsrapporter, prøvingsdata, kalibreringsdata og rapporter om personellets kvalifikasjoner eller godkjenninger, særlig det personellet som permanent føyer sammen deler og utfører ikke-destruktiv prøving i samsvar med vedlegg I nr. 3.1.2 og 3.1.3 osv.,
+- midler for å overvåke at den nødvendige konstruksjons- og trykkpåkjent utstyrskvalitet oppnås, og at kvalitetssystemet virker effektivt.
 
 3.3
 
@@ -1713,7 +2340,19 @@ Produsenten skal inngi en søknad om undersøkelse av konstruksjonen av hver enk
 
 4.2
 
-Søknaden skal gjøre det mulig å forstå hvordan det trykkpåkjente utstyret er konstruert, produsert og hvordan det virker, og å vurdere om det er i samsvar med gjeldende krav i forskriften. Den skal inneholdeprodusentens navn og adresse,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av det trykkpåkjente utstyret,konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er gjennomført, osv., ogprøvingsrapporter,underlagsdokumentasjon som viser at den tekniske konstruksjonen er tilfredsstillende. I underlagsdokumentasjonen skal alle dokumenter som er anvendt, angis, særlig dersom de relevante harmoniserte standarder ikke er anvendt fullt ut, og den skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
+Søknaden skal gjøre det mulig å forstå hvordan det trykkpåkjente utstyret er konstruert, produsert og hvordan det virker, og å vurdere om det er i samsvar med gjeldende krav i forskriften. Den skal inneholde
+
+- produsentens navn og adresse,
+- en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,
+- den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om det trykkpåkjente utstyret er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke det trykkpåkjente utstyrets konstruksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:
+
+  - en generell beskrivelse av det trykkpåkjente utstyret,
+  - konstruksjons- og produksjonstegninger og diagrammer over komponenter, delsammenstillinger, kretser osv.,
+  - nødvendige beskrivelser og forklaringer for å forstå nevnte tegninger og diagrammer og hvordan det trykkpåkjente utstyret fungerer,
+  - en liste over de harmoniserte standardene som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskrav i forskriften når disse harmoniserte standardene ikke er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,
+  - resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er gjennomført, osv., og
+  - prøvingsrapporter,
+- underlagsdokumentasjon som viser at den tekniske konstruksjonen er tilfredsstillende. I underlagsdokumentasjonen skal alle dokumenter som er anvendt, angis, særlig dersom de relevante harmoniserte standarder ikke er anvendt fullt ut, og den skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
 
 4.3
 
@@ -1751,7 +2390,11 @@ Formålet med overvåkingen er å sikre at produsenten korrekt oppfyller de forp
 
 5.2
 
-Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til konstruksjons-, produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssikringssystemet,kvalitetsregistreringer som fastsatt av kvalitetssystemets konstruksjonsdel, f.eks. resultater av analyser, beregninger, prøvinger osv.,kvalitetsregistrene fastsatt av kvalitetssystemets produksjonsdel, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personellets kvalifikasjoner osv.
+Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til konstruksjons-, produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særlig
+
+- dokumentasjonen for kvalitetssikringssystemet,
+- kvalitetsregistreringer som fastsatt av kvalitetssystemets konstruksjonsdel, f.eks. resultater av analyser, beregninger, prøvinger osv.,
+- kvalitetsregistrene fastsatt av kvalitetssystemets produksjonsdel, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personellets kvalifikasjoner osv.
 
 5.3
 
@@ -1761,7 +2404,13 @@ Det tekniske kontrollorganet skal gjennomføre periodiske revisjoner for å sikr
 
 Det tekniske kontrollorganet kan også avlegge uanmeldte besøk hos produsenten.
 
-Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det må særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:utstyrets kategori,resultatene fra tidligere kontrollbesøk,behovet for oppfølging av korrigerende tiltak,eventuelle særlige vilkår knyttet til godkjenning av ordningen,viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
+Behovet for og hyppigheten av slike ekstraordinære besøk vil bli avgjort på grunnlag av en kontrollbesøksordning som det tekniske kontrollorganet styrer. Det må særlig tas hensyn til følgende faktorer i kontrollbesøksordningen:
+
+- utstyrets kategori,
+- resultatene fra tidligere kontrollbesøk,
+- behovet for oppfølging av korrigerende tiltak,
+- eventuelle særlige vilkår knyttet til godkjenning av ordningen,
+- viktige endringer i organisering av produksjon, dens retningslinjer eller teknikker.
 
 I forbindelse med slike besøk kan det tekniske kontrollorganet om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet fungerer tilfredsstillende. Det skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det ble utført prøvinger.
 
@@ -1785,7 +2434,11 @@ En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedk
 
 7\.
 
-Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjon for kvalitetssystemet nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,vedtakene og rapportene fra det tekniske kontrollorganet nevnt i nr. 3.5, 5.3 og 5.4.
+Produsenten skal i et tidsrom på ti år etter at det trykkpåkjente utstyret er brakt i omsetning, kunne framlegge for de nasjonale myndigheter
+
+- dokumentasjon for kvalitetssystemet nevnt i nr. 3.1,
+- endringen nevnt i nr. 3.5, som godkjent,
+- vedtakene og rapportene fra det tekniske kontrollorganet nevnt i nr. 3.5, 5.3 og 5.4.
 
 8.*Representant*
 
@@ -1796,11 +2449,23 @@ Produsentens representant kan inngi søknaden nevnt i nr. 4.1 og 4.2 og oppfylle
 1. Trykkpåkjent utstyr/sammenstilling (produkt-, type-, parti- eller serienummer):
 2. Navn og adresse til produsenten og eventuelt dennes representant:
 3. Denne samsvarserklæringen er utstedt på produsentens ansvar alene.
-4. Erklæringens gjenstand (identifikasjon av det trykkpåkjente utstyret eller sammenstillingen som gjør det mulig å spore det eller den; dette kan om nødvendig omfatte et bilde for å identifisere utstyret):beskrivelse av det trykkpåkjente utstyret eller sammenstillingen,fulgt framgangsmåte for samsvarsvurdering,for sammenstillinger, en beskrivelse av det trykkpåkjente utstyr som utgjør sammenstillingen og fulgt framgangsmåte for samsvarsvurdering,
+4. Erklæringens gjenstand (identifikasjon av det trykkpåkjente utstyret eller sammenstillingen som gjør det mulig å spore det eller den; dette kan om nødvendig omfatte et bilde for å identifisere utstyret):
+
+   - beskrivelse av det trykkpåkjente utstyret eller sammenstillingen,
+   - fulgt framgangsmåte for samsvarsvurdering,
+   - for sammenstillinger, en beskrivelse av det trykkpåkjente utstyr som utgjør sammenstillingen og fulgt framgangsmåte for samsvarsvurdering,
 5. Erklæringens gjenstand beskrevet over er i samsvar med relevante deler av EØS-regelverket:
 6. Henvisninger til de relevante harmoniserte standarder som er anvendt, eller henvisninger til andre tekniske spesifikasjoner det erklæres samsvar med:
 7. Der det er relevant, navn, adresse og nummer til det tekniske kontrollorganet som har utført samsvarsvurderingen, og nummeret på sertifikatet som er utstedt, og en henvisning til EU-typeprøvingssertifikat – produksjonstype, EU-typesertifikat – konstruksjonstype, EU-sertifikat for konstruksjonskontroll eller samsvarssertifikat.
-8. Tilleggsopplysninger:Undertegnet for og på vegne av:(sted og dato for utstedelse):(navn, stilling) (underskrift):(eventuelt identifikasjon av underskriftsberettiget med fullmakt til å undertegne den rettslig bindende erklæringen på vegne av produsenten eller dennes representant)
+8. Tilleggsopplysninger:
+
+   Undertegnet for og på vegne av:
+
+   (sted og dato for utstedelse):
+
+   (navn, stilling) (underskrift):
+
+   (eventuelt identifikasjon av underskriftsberettiget med fullmakt til å undertegne den rettslig bindende erklæringen på vegne av produsenten eller dennes representant)
 
 1 Produsenten kan velge å tildele samsvarserklæringen et nummer.
 

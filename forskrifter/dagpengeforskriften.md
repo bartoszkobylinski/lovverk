@@ -102,7 +102,10 @@ Lønn fra arbeidsgiver til en deltaker i arbeidsmarkedstiltaket varig tilrettela
 
 ### § 3A-1. Søknadstidspunkt
 
-Søknad om dagpenger anses som fremmet på det tidspunktet medlemmet entenhar registrert og sendt en søknad elektronisk til Arbeids- og velferdsetaten, ellerhar levert en søknad på papir til Arbeids- og velferdsetaten.
+Søknad om dagpenger anses som fremmet på det tidspunktet medlemmet enten
+
+1. har registrert og sendt en søknad elektronisk til Arbeids- og velferdsetaten, eller
+2. har levert en søknad på papir til Arbeids- og velferdsetaten.
 
 Dersom medlemmet har fremmet en søknad om dagpenger før hun eller han fyller vilkårene for rett til dagpenger, settes søknadstidspunktet til den datoen dagpengene tidligst kan innvilges, dersom denne ligger innenfor rimelig tid etter det faktiske søknadstidspunktet jf. første ledd.
 
@@ -142,7 +145,10 @@ Et medlem som deltar i et arbeidsmarkedstiltak i Arbeids- og velferdsetatens reg
 
 ### § 4-3a. (opplæring for innvandrere)
 
-Et medlem som fyller vilkårene for dagpenger under arbeidsløshet, kan etter søknad til Arbeids- og velferdsetaten beholde dagpengene når medlemmetdeltar i introduksjonsprogrammet etter [integreringsloven](lov/2020-11-06-127)deltar i godkjent opplæring i norsk og samfunnskunnskap etter [integreringsloven](lov/2020-11-06-127) i inntil ett år.
+Et medlem som fyller vilkårene for dagpenger under arbeidsløshet, kan etter søknad til Arbeids- og velferdsetaten beholde dagpengene når medlemmet
+
+1. deltar i introduksjonsprogrammet etter [integreringsloven](lov/2020-11-06-127)
+2. deltar i godkjent opplæring i norsk og samfunnskunnskap etter [integreringsloven](lov/2020-11-06-127) i inntil ett år.
 
 Grensen på ett år etter første ledd bokstav b gjelder uavhengig av hvor mange undervisningstimer medlemmet deltar i. Perioden kan deles opp i bolker. Når særlige grunner taler for det, kan Arbeids- og velferdsetaten forlenge perioden for å fullføre en påbegynt opplæring i norsk og samfunnskunnskap.
 
@@ -208,7 +214,13 @@ Medlemmer som tar opplæring eller utdanning i dagpengeperioden etter § 4-3a sl
 
 ### § 4-4. (ulønnet arbeid)
 
-Medlem som fyller vilkårene for rett til dagpenger under arbeidsløshet, kan i følgende tilfeller delta i arbeid som er ulønnet for den enkelte uten at det påvirker retten til dagpenger:arbeid for funksjonshemmede og eldre, som hjelp til tyngre rengjøring, innkjøp, vedhogging, hagearbeid o.l. som ellers normalt utføres uten hjelp utenfra.sosiale tjenester for eldre og funksjonshemmede for å bedre deres livskvalitet, så som høytlesing for blinde og svaksynte, ledsager ved turgåing o.l.besøkstjeneste o.l. hos beboere i sykehjem og andre institusjoner, trygdeboliger og hos brukere av hjemmetjenestene.arbeid for humanitære organisasjoner, religiøse organisasjoner, idrettslag o.l., når det gjelder arbeid som normalt utføres av medlemmer og sympatisører uten godtgjøring. Dette gjelder aktiviteter så som å hjelpe til ved arrangementer, loppemarkeder og loddsalg, distribusjon av opplysningsmateriell om arrangementer, rengjøring av lokaler på dugnad o.l.ulønnet arbeid som pålegges mottakere av sosialhjelp etter [lov 18. desember 2009 nr. 131](lov/2009-12-18-131) om sosiale tjenester i arbeids- og velferdsforvaltningen.
+Medlem som fyller vilkårene for rett til dagpenger under arbeidsløshet, kan i følgende tilfeller delta i arbeid som er ulønnet for den enkelte uten at det påvirker retten til dagpenger:
+
+1. arbeid for funksjonshemmede og eldre, som hjelp til tyngre rengjøring, innkjøp, vedhogging, hagearbeid o.l. som ellers normalt utføres uten hjelp utenfra.
+2. sosiale tjenester for eldre og funksjonshemmede for å bedre deres livskvalitet, så som høytlesing for blinde og svaksynte, ledsager ved turgåing o.l.
+3. besøkstjeneste o.l. hos beboere i sykehjem og andre institusjoner, trygdeboliger og hos brukere av hjemmetjenestene.
+4. arbeid for humanitære organisasjoner, religiøse organisasjoner, idrettslag o.l., når det gjelder arbeid som normalt utføres av medlemmer og sympatisører uten godtgjøring. Dette gjelder aktiviteter så som å hjelpe til ved arrangementer, loppemarkeder og loddsalg, distribusjon av opplysningsmateriell om arrangementer, rengjøring av lokaler på dugnad o.l.
+5. ulønnet arbeid som pålegges mottakere av sosialhjelp etter [lov 18. desember 2009 nr. 131](lov/2009-12-18-131) om sosiale tjenester i arbeids- og velferdsforvaltningen.
 
 Aktiviteter som nevnt i første ledd, bokstavene a til d, må maksimalt tilsvare fire dagsverk pr. uke.
 
@@ -290,7 +302,12 @@ Dersom permitteringen skyldes arbeidstvist gjelder bestemmelsene om antall støn
 
 ### § 6-7. (Permittering i fiskeforedlingsindustrien, sjømatindustrien og fiskeoljeindustrien)
 
-For ansatte i fiskeforedlings- og sjømatindustrien, det vil si bedrifter for tilvirkning av saltfisk, tørrfisk og klippfisk, frysing av fisk, produksjon av fiskehermetikk og annen produksjon av sjømat- og fiskevarer, og i fiskeoljeindustrien gjelder følgende regler ved permittering:Stønadsperioden utgjør maksimalt 52 uker innenfor en periode på 18 måneder.Det påløper ikke egenandel etter [folketrygdloven § 4-9](lov/1997-02-28-19/§4-9) ved permitteringens begynnelse.Når permitteringen har vært avbrutt av arbeid hos den permitterende arbeidsgiver i mer enn 26 uker, må ny søknad om dagpenger settes frem.For å få rett til dagpenger, må vanlig arbeidstid være redusert med minst 40 prosent. For å få rett til graderte dagpenger etter reglene i [folketrygdloven § 4-13](lov/1997-02-28-19/§4-13), må arbeidstiden per meldeperiode være redusert med minst 40 prosent.
+For ansatte i fiskeforedlings- og sjømatindustrien, det vil si bedrifter for tilvirkning av saltfisk, tørrfisk og klippfisk, frysing av fisk, produksjon av fiskehermetikk og annen produksjon av sjømat- og fiskevarer, og i fiskeoljeindustrien gjelder følgende regler ved permittering:
+
+1. Stønadsperioden utgjør maksimalt 52 uker innenfor en periode på 18 måneder.
+2. Det påløper ikke egenandel etter [folketrygdloven § 4-9](lov/1997-02-28-19/§4-9) ved permitteringens begynnelse.
+3. Når permitteringen har vært avbrutt av arbeid hos den permitterende arbeidsgiver i mer enn 26 uker, må ny søknad om dagpenger settes frem.
+4. For å få rett til dagpenger, må vanlig arbeidstid være redusert med minst 40 prosent. For å få rett til graderte dagpenger etter reglene i [folketrygdloven § 4-13](lov/1997-02-28-19/§4-13), må arbeidstiden per meldeperiode være redusert med minst 40 prosent.
 
 > Tilføyd ved [forskrift 10 des 2007 nr. 1426](forskrift/2007-12-10-1426) (i kraft 1 jan 2008), endret ved [forskrifter 10 des 2008 nr. 1316](forskrift/2008-12-10-1316) (i kraft 1 jan 2009), [26 juni 2009 nr. 911](forskrift/2009-06-26-911) (i kraft 1 juli 2009), [22 juni 2012 nr. 640](forskrift/2012-06-22-640) (i kraft 1 juli 2012), [20 des 2012 nr. 1381](forskrift/2012-12-20-1381) (i kraft 1 jan 2013 og gjelder for permitteringer som iverksettes fra og med ikrafttredelsesdatoen), [30 jan 2014 nr. 82](forskrift/2014-01-30-82) (i kraft 3 feb 2014, tidligere § 6-6), [27 juni 2016 nr. 829](forskrift/2016-06-27-829) (i kraft 1 juli 2016), [23 des 2021 nr. 3887](forskrift/2021-12-23-3887) (i kraft 1 jan 2022, for permitteringer som er iverksatt før 1 jan 2022 gjøres endringene gjeldende fra og med 1 jan 2023), [21 des 2023 nr. 2261](forskrift/2023-12-21-2261) (i kraft 1 jan 2024), [7 nov 2024 nr. 2701](forskrift/2024-11-07-2701) (i kraft 1 des 2024).
 
@@ -300,7 +317,10 @@ For ansatte i fiskeforedlings- og sjømatindustrien, det vil si bedrifter for ti
 
 ### § 6-8. (Dagpenger utover begrensningen i folketrygdloven § 4-7 annet ledd)
 
-Medlem som mottar dagpenger under permittering, kan motta dagpenger utover perioden som fremgår av [folketrygdloven § 4-7](lov/1997-02-28-19/§4-7) annet ledd første punktumi den perioden arbeidsgiver er fritatt for lønnsplikt etter [lov om lønnsplikt under permittering § 3](lov/1988-05-06-22/§3) eller i forskrift gitt i medhold av denne, ellernår medlemmet ved utløpet av perioden deltar i arbeidsmarkedstiltak i regi av eller i samarbeid med Arbeids- og velferdsetaten, men ikke utover varigheten på tiltaket.
+Medlem som mottar dagpenger under permittering, kan motta dagpenger utover perioden som fremgår av [folketrygdloven § 4-7](lov/1997-02-28-19/§4-7) annet ledd første punktum
+
+1. i den perioden arbeidsgiver er fritatt for lønnsplikt etter [lov om lønnsplikt under permittering § 3](lov/1988-05-06-22/§3) eller i forskrift gitt i medhold av denne, eller
+2. når medlemmet ved utløpet av perioden deltar i arbeidsmarkedstiltak i regi av eller i samarbeid med Arbeids- og velferdsetaten, men ikke utover varigheten på tiltaket.
 
 Medlemmet kan likevel ikke motta dagpenger utover den stønadsperioden som følger av [folketrygdloven § 4-15](lov/1997-02-28-19/§4-15).
 
@@ -440,7 +460,19 @@ Vanlig arbeidstid kan maksimalt settes til 40 timer per uke.
 
 ### § 12-1. (unnlatt melding om vedtak om reduksjon eller stans av utbetalingen)
 
-Melding om vedtak om reduksjon eller stans i utbetaling av dagpenger under arbeidsløshet kan unnlates når reduksjonen eller stansen skyldes at medlemmet:unnlater å melde seg hos Arbeids- og velferdsetaten, jf. [folketrygdloven § 4-8](lov/1997-02-28-19/§4-8),kommer i fullt arbeid,er syk,tar ferie,er i utlandet,deltar på arbeidsmarkedstiltak,avtjener militærtjeneste eller obligatorisk sivilforsvarstjenesteer i fengsel, varetekt eller frisoning,har omsorgspermisjon på grunn av fødsel eller adopsjon,får følgende fulle ytelser fra folketrygden: sykepenger, arbeidsavklaringspenger, uføretrygd, alderspensjon,får full avtalefestet pensjon med statstilskott (AFP).
+Melding om vedtak om reduksjon eller stans i utbetaling av dagpenger under arbeidsløshet kan unnlates når reduksjonen eller stansen skyldes at medlemmet:
+
+1. unnlater å melde seg hos Arbeids- og velferdsetaten, jf. [folketrygdloven § 4-8](lov/1997-02-28-19/§4-8),
+2. kommer i fullt arbeid,
+3. er syk,
+4. tar ferie,
+5. er i utlandet,
+6. deltar på arbeidsmarkedstiltak,
+7. avtjener militærtjeneste eller obligatorisk sivilforsvarstjeneste
+8. er i fengsel, varetekt eller frisoning,
+9. har omsorgspermisjon på grunn av fødsel eller adopsjon,
+10. får følgende fulle ytelser fra folketrygden: sykepenger, arbeidsavklaringspenger, uføretrygd, alderspensjon,
+11. får full avtalefestet pensjon med statstilskott (AFP).
 
 Bestemmelsen i første ledd gjelder bare når ytelsen stanses eller reduseres av grunner som åpenbart er kjent for medlemmet, og det er gitt forhåndsorientering om at retten til ytelse faller bort eller reduseres i slike tilfeller.
 

@@ -38,7 +38,19 @@ Fylkeskommunen skal fremme tannhelsen i befolkningen og ved sin tannhelsetjenest
 
 ### § 1-3. (Omfanget av Den offentlige tannhelsetjenesten)
 
-Den offentlige tannhelsetjenesten skal organisere forebyggende tiltak for hele befolkningen. Den skal gi et regelmessig og oppsøkende tilbud til:Barn og ungdom fra fødsel til og med det året de fyller 18 år.Psykisk utviklingshemmede i og utenfor institusjon.Grupper av eldre, langtidssyke og uføre i institusjon og hjemmesykepleie.Unge voksne fra året de fyller 19 til og med året de fyller 28 år.Personer som på grunn av rusmiddelavhengighet mottar noen av følgende tilbud:personlig assistanse i medhold av [helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 bokstav b](lov/2011-06-24-30/§3-2/ledd/1/nummer/6/bokstav/b)avlastningstiltak for pårørende i medhold av [helse- og omsorgstjenesteloven § 3-6 nr. 2](lov/2011-06-24-30/§3-6/nummer/2)legemiddelassistert rehabilitering i medhold av [spesialisthelsetjenesteloven § 3-16](lov/1999-07-02-61/§3-16)Innsatte i fengsler i kriminalomsorgen.Andre grupper som fylkeskommunen har vedtatt å prioritere.
+Den offentlige tannhelsetjenesten skal organisere forebyggende tiltak for hele befolkningen. Den skal gi et regelmessig og oppsøkende tilbud til:
+
+1. Barn og ungdom fra fødsel til og med det året de fyller 18 år.
+2. Psykisk utviklingshemmede i og utenfor institusjon.
+3. Grupper av eldre, langtidssyke og uføre i institusjon og hjemmesykepleie.
+4. Unge voksne fra året de fyller 19 til og med året de fyller 28 år.
+5. Personer som på grunn av rusmiddelavhengighet mottar noen av følgende tilbud:
+
+   - personlig assistanse i medhold av [helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 bokstav b](lov/2011-06-24-30/§3-2/ledd/1/nummer/6/bokstav/b)
+   - avlastningstiltak for pårørende i medhold av [helse- og omsorgstjenesteloven § 3-6 nr. 2](lov/2011-06-24-30/§3-6/nummer/2)
+   - legemiddelassistert rehabilitering i medhold av [spesialisthelsetjenesteloven § 3-16](lov/1999-07-02-61/§3-16)
+6. Innsatte i fengsler i kriminalomsorgen.
+7. Andre grupper som fylkeskommunen har vedtatt å prioritere.
 
 I tillegg til de prioriterte oppgavene kan Den offentlige tannhelsetjenesten yte tjenester til voksne pasienter mot betaling etter fylkeskommunens bestemmelser. Departementet kan gi forskrift om at fylkeskommunen skal sørge for å tilby slike tjenester i områder av fylket der det ikke foreligger annet tilstrekkelig tilbud, og om pliktens varighet og geografiske virkeområde.
 

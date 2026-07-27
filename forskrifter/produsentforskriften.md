@@ -15,7 +15,7 @@ xml_hash: "eb1bfcd3cf8f2b0ef91ba1ff4bf9cedacbd75b5b08d36ac455f12b34e7be3cc4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,10 @@ Forskriften gjelder også for virksomheter som ikke sysselsetter arbeidstakere.
 
 ### § 1-4. Definisjoner
 
-I denne forskriften menes med:*arbeidsutstyr:* tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid,*traktor:* motordrevet kjøretøy på hjul eller belter, med minst to aksler, konstruert for å trekke tilhengervogner o.l., å bære, trekke, skyve eller drive forskjellig arbeidsredskap.
+I denne forskriften menes med:
+
+1. *arbeidsutstyr:* tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid,
+2. *traktor:* motordrevet kjøretøy på hjul eller belter, med minst to aksler, konstruert for å trekke tilhengervogner o.l., å bære, trekke, skyve eller drive forskjellig arbeidsredskap.
 
 ### § 1-5. Dispensasjon
 
@@ -84,7 +87,11 @@ Arbeidsutstyret skal være slik laget eller festet at det ikke kan velte eller f
 
 ### § 2-6. Spesielle sikkerhetshensyn
 
-Det skal spesielt legges vekt på at arbeidsutstyret er betryggende sikret mot:at deler slynges ut fra verktøy, arbeidsstykke mv.,at farlig utstrømning eller frigjøring av pulvergods, væske, damp, gass og kulde eller varme kan forekomme,at personer kommer i utilsiktet berøring med bevegelige deler eller varme/kalde deler eller farlige stoffer dersom det kan medføre fare for skade på liv eller helse.
+Det skal spesielt legges vekt på at arbeidsutstyret er betryggende sikret mot:
+
+1. at deler slynges ut fra verktøy, arbeidsstykke mv.,
+2. at farlig utstrømning eller frigjøring av pulvergods, væske, damp, gass og kulde eller varme kan forekomme,
+3. at personer kommer i utilsiktet berøring med bevegelige deler eller varme/kalde deler eller farlige stoffer dersom det kan medføre fare for skade på liv eller helse.
 
 ### § 2-7. Betjening
 
@@ -118,7 +125,11 @@ Hvis svikt i automatikken eller andre forhold kan medføre fare for skade på li
 
 ### § 2-12. Informasjon om prosesser
 
-Måleinnretninger og signaler som er nødvendig for kontroll og styring av arbeidsprosessen, skal være pålitelige og lette å forstå. Spesielt gjelder at:opplysninger som har betydning for sikkerheten skal skille seg klart ut fra andre opplysninger,akustiske eller optiske signaler skal kunne oppfattes uten vanskelighet,instrumenter mv. som gir informasjon om arbeidsprosessen skal være hensiktsmessig plassert, tydelige og ikke gi grunnlag for feiltolking.
+Måleinnretninger og signaler som er nødvendig for kontroll og styring av arbeidsprosessen, skal være pålitelige og lette å forstå. Spesielt gjelder at:
+
+1. opplysninger som har betydning for sikkerheten skal skille seg klart ut fra andre opplysninger,
+2. akustiske eller optiske signaler skal kunne oppfattes uten vanskelighet,
+3. instrumenter mv. som gir informasjon om arbeidsprosessen skal være hensiktsmessig plassert, tydelige og ikke gi grunnlag for feiltolking.
 
 ### § 2-13. Nødstopp- og bremseinnretninger
 
@@ -144,7 +155,12 @@ I bruksanvisningen eller på annen måte skal det gis entydige opplysninger om t
 
 ### § 2-17. Pneumatisk og hydraulisk utstyr
 
-For pneumatiske og hydrauliske arbeidsutstyr skal man særlig ta hensyn til:At trykket ikke blir større enn tillatt,At trykkfall ikke medfører fare,At utstrømmende gass eller væske under trykk ikke medfører fare,At utstyret er skjermet mot skadelig påvirkning.
+For pneumatiske og hydrauliske arbeidsutstyr skal man særlig ta hensyn til:
+
+1. At trykket ikke blir større enn tillatt,
+2. At trykkfall ikke medfører fare,
+3. At utstrømmende gass eller væske under trykk ikke medfører fare,
+4. At utstyret er skjermet mot skadelig påvirkning.
 
 ### § 2-18. Utstyr for farefri betjening og vedlikehold
 
@@ -160,7 +176,13 @@ Arbeidsutstyr skal være slik at montering, vedlikehold og reparasjon kan foreg�
 
 Som hovedregel skal arbeidet utføres når energitilførselen er koplet ut og arbeidsutstyret er i ro.
 
-Det skal spesielt legges vekt på at:deler som utilsiktet kan bevege seg, om nødvendig blokkeres,brann og eksplosjon ikke kan oppstå,anlegg under trykk er trykkavlastet og tømt,tanker og rør som har inneholdt farlige stoffer er omhyggelig avstengt og eventuelt rengjort,arbeidstakere benytter nødvendig personlig verneutstyr.
+Det skal spesielt legges vekt på at:
+
+1. deler som utilsiktet kan bevege seg, om nødvendig blokkeres,
+2. brann og eksplosjon ikke kan oppstå,
+3. anlegg under trykk er trykkavlastet og tømt,
+4. tanker og rør som har inneholdt farlige stoffer er omhyggelig avstengt og eventuelt rengjort,
+5. arbeidstakere benytter nødvendig personlig verneutstyr.
 
 ### § 2-21. Vedlikehold eller reparasjon under drift
 
@@ -178,13 +200,27 @@ Maskiner som forutsetter bruk av radioaktive stoffer eller som er innrettet til 
 
 ### § 2-24. Brann- og eksplosjonsfarlige maskiner
 
-Maskiner hvor det er fare for brann og eksplosjon, skal oppfylle følgende krav:Maskiner skal være laget av materialer som ikke er brennbare.Maskiner må være slik innrettet at det ikke dannes farlig statisk elektrisitet.Eksplosjonsavlastere skal være slik innrettet at de ikke medfører fare når de åpner seg.Hvis det er nødvendig, skal maskinene ha automatisk brannslokkingsutstyr. Før bruk av brannslokkingsanlegg med slokkingsmidler som kan medføre forgiftningsfare, skal det avgis varselsignal.
+Maskiner hvor det er fare for brann og eksplosjon, skal oppfylle følgende krav:
+
+1. Maskiner skal være laget av materialer som ikke er brennbare.
+2. Maskiner må være slik innrettet at det ikke dannes farlig statisk elektrisitet.
+3. Eksplosjonsavlastere skal være slik innrettet at de ikke medfører fare når de åpner seg.
+4. Hvis det er nødvendig, skal maskinene ha automatisk brannslokkingsutstyr. Før bruk av brannslokkingsanlegg med slokkingsmidler som kan medføre forgiftningsfare, skal det avgis varselsignal.
 
 ### § 2-25. Merking
 
 Arbeidsutstyr som det ikke er underlagt krav om CE-merking, skal være merket med produsentens, eller for importert arbeidsutstyr importørens navn og adresse, eller ha annen merking som gjør det lett å identifisere produsenten eller importøren. Dersom det ikke er plass til merking på arbeidsutstyret, merkes emballasjen.
 
-Arbeidsutstyr skal i den utstrekning det har betydning for sikkerheten også merkes på norsk, varig og lett leselig med:type, modellnummer og produksjonsår,vekt,symboler for funksjon og varsling,største tillatte belastninger,største tillatte trykk for hydrauliske og pneumatiske innretninger,data for energitilførsel, omdreiningstall m.m.,nødvendig anvisning av løftepunkter for transport, jf. [§ 2-19](forskrift/2011-12-06-1359/§2-19),advarsler om eksplosjonsfare, berøringsfare, giftige gasser m.m.
+Arbeidsutstyr skal i den utstrekning det har betydning for sikkerheten også merkes på norsk, varig og lett leselig med:
+
+1. type, modellnummer og produksjonsår,
+2. vekt,
+3. symboler for funksjon og varsling,
+4. største tillatte belastninger,
+5. største tillatte trykk for hydrauliske og pneumatiske innretninger,
+6. data for energitilførsel, omdreiningstall m.m.,
+7. nødvendig anvisning av løftepunkter for transport, jf. [§ 2-19](forskrift/2011-12-06-1359/§2-19),
+8. advarsler om eksplosjonsfare, berøringsfare, giftige gasser m.m.
 
 ### § 2-26. Bruksanvisning
 
@@ -208,7 +244,14 @@ På- og avmontering eller opp- og nedfelling skal kunne skje på en enkel og bet
 
 ### § 3-3. Søknad om typegodkjenning
 
-Søknad om typegodkjenning skal sendes Arbeidstilsynet, og søknaden skal inneholde følgende opplysninger:Søkerens navn og adresseTraktorens navn og typebetegnelseFørervernets navn og typebetegnelse, og navn og adresse på produsentRapport fra godtatt institusjon om vurdering, beregning eller prøving av førervernets styrkeMaterialspesifikasjon med henvisning til standard, ev. bekreftelse fra førervernprodusent om at førervernet er laget av halvtettet eller tettet stålMålsatt tegning av førervernet og dets innfestinger til traktoren.
+Søknad om typegodkjenning skal sendes Arbeidstilsynet, og søknaden skal inneholde følgende opplysninger:
+
+1. Søkerens navn og adresse
+2. Traktorens navn og typebetegnelse
+3. Førervernets navn og typebetegnelse, og navn og adresse på produsent
+4. Rapport fra godtatt institusjon om vurdering, beregning eller prøving av førervernets styrke
+5. Materialspesifikasjon med henvisning til standard, ev. bekreftelse fra førervernprodusent om at førervernet er laget av halvtettet eller tettet stål
+6. Målsatt tegning av førervernet og dets innfestinger til traktoren.
 
 ### § 3-4. Materialkvalitet
 

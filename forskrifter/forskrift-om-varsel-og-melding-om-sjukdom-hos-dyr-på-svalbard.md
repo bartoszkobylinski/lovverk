@@ -16,7 +16,7 @@ xml_hash: "215bed129e658686268bcb2e22198661a3fb41dfad9938e76e7e167d3b3a57c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -37,7 +37,10 @@ Forskriften gjelder sjukdommer hos dyr på Svalbard.
 
 ## § 3. Definisjoner
 
-I denne forskriften gjelder følgende definisjoner:«sjukdom hos dyr»: tilfeller hvor dyr viser tegn på svekket helsetilstand eller hvor prøver fra dyr viser forekomst av smittestoffer, inkludert antibiotikaresistente bakterier, eller andre agens som kan føre til svekket helsetilstand for dyr eller mennesker.«A-, B- og C-sjukdom»: kategorisering av sjukdommer som fastsatt i vedleggene til denne forskriften.
+I denne forskriften gjelder følgende definisjoner:
+
+1. «sjukdom hos dyr»: tilfeller hvor dyr viser tegn på svekket helsetilstand eller hvor prøver fra dyr viser forekomst av smittestoffer, inkludert antibiotikaresistente bakterier, eller andre agens som kan føre til svekket helsetilstand for dyr eller mennesker.
+2. «A-, B- og C-sjukdom»: kategorisering av sjukdommer som fastsatt i vedleggene til denne forskriften.
 
 > Endret ved [forskrift 1 april 2019 nr. 461](forskrift/2019-04-01-461) (i kraft 1 juni 2019).
 
@@ -45,7 +48,15 @@ I denne forskriften gjelder følgende definisjoner:«sjukdom hos dyr»: tilfelle
 
 Veterinærer og laboratorier skal umiddelbart varsle Mattilsynet muntlig dersom de påviser eller får grunn til mistanke om A- eller B-sjukdom hos dyr. Varselet skal i tillegg og så snart som mulig sendes skriftlig via Mattilsynets meldesystem.
 
-Varslingsplikt etter første ledd gjelder uansett ved påvisning av eller grunn til mistanke om at dyr har sjukdom som oppfyller ett eller flere av disse vilkårene:kan medføre fare for død eller alvorlig helseskade hos menneskerkan føre til at et større antall dyr blir utsatt for sjukdomkan utløse store økonomiske tap for samfunnetkan gi andre vesentlige samfunnsmessige konsekvenserantas ikke å forekomme i Norgehar uvanlig utbredelsesvekker dyrets helsetilstand på uvanlig måte eller i uvanlig høy grad.
+Varslingsplikt etter første ledd gjelder uansett ved påvisning av eller grunn til mistanke om at dyr har sjukdom som oppfyller ett eller flere av disse vilkårene:
+
+1. kan medføre fare for død eller alvorlig helseskade hos mennesker
+2. kan føre til at et større antall dyr blir utsatt for sjukdom
+3. kan utløse store økonomiske tap for samfunnet
+4. kan gi andre vesentlige samfunnsmessige konsekvenser
+5. antas ikke å forekomme i Norge
+6. har uvanlig utbredelse
+7. svekker dyrets helsetilstand på uvanlig måte eller i uvanlig høy grad.
 
 Plikten til å varsle gjelder ikke nye tilfeller av sjukdommen i besetninger som Mattilsynet har pålagt restriksjoner.
 
@@ -61,7 +72,13 @@ Veterinærer som påviser C-sjukdom hos dyr, skal gi Mattilsynet skriftlig meldi
 
 ## § 6. Nødvendige opplysninger
 
-Varsel etter [§ 4](forskrift/2014-12-19-1841/§4) og melding etter [§ 5](forskrift/2014-12-19-1841/§5) skal inneholde nødvendige opplysninger omvarsleren eller melderensjukdommen, herunder symptomer og eventuell diagnosedyreholdets identitet og artdyrene som er rammet av sjukdommentidspunktet for mistanke eller påvisning.
+Varsel etter [§ 4](forskrift/2014-12-19-1841/§4) og melding etter [§ 5](forskrift/2014-12-19-1841/§5) skal inneholde nødvendige opplysninger om
+
+1. varsleren eller melderen
+2. sjukdommen, herunder symptomer og eventuell diagnose
+3. dyreholdets identitet og art
+4. dyrene som er rammet av sjukdommen
+5. tidspunktet for mistanke eller påvisning.
 
 ## § 6a. Isolater og nye prøver
 

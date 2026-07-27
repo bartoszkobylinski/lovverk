@@ -28,7 +28,10 @@ Forskriftens formål er å bidra til at helsepersonell som er utdannet i land ut
 
 ## § 2. Virkeområde
 
-Forskriften gjelder søkere somer utdannet i et land utenfor EØS og Sveits, oghar gjennomført utdanning og bestått utenlandsk eksamen som anerkjennes som jevngod med tilsvarende norsk utdanning og eksamen, eller har godtgjort å ha den nødvendige kyndighet, jf. [helsepersonelloven § 48a](lov/1999-07-02-64/§48a) første ledd bokstav c og bokstav d.
+Forskriften gjelder søkere som
+
+1. er utdannet i et land utenfor EØS og Sveits, og
+2. har gjennomført utdanning og bestått utenlandsk eksamen som anerkjennes som jevngod med tilsvarende norsk utdanning og eksamen, eller har godtgjort å ha den nødvendige kyndighet, jf. [helsepersonelloven § 48a](lov/1999-07-02-64/§48a) første ledd bokstav c og bokstav d.
 
 For søkere som har ervervet yrkeskvalifikasjoner i Storbritannia og Nord-Irland gjelder forskrift om godkjenning av helsepersonell med yrkeskvalifikasjoner fra Storbritannia.
 
@@ -78,7 +81,10 @@ Helsedirektoratet kan etter søknad forlenge fristen for gjennomføring av tille
 
 Dersom søknaden om autorisasjon er mottatt i Helsedirektoratet og godtgjørelse etter [helsepersonelloven § 53](lov/1999-07-02-64/§53) er betalt før denne forskriften trer i kraft, behandles søknaden etter reglene i [forskrift 24. februar 2004 nr. 460](forskrift/2004-02-24-460) om tilleggskrav for autorisasjon av helsepersonell.
 
-Reglene i [forskrift 24. februar 2004 nr. 460](forskrift/2004-02-24-460) gis også anvendelse for behandling av søknad som i perioden fra 1. januar 2017 til og med 31. desember 2017 er mottatt i Helsedirektoratet og godtgjørelse etter [helsepersonelloven § 53](lov/1999-07-02-64/§53) er betalt dersomsøkeren søkte om autorisasjon i perioden fra 1. januar 2015 til og med 31. desember 2016 og vilkåret i [helsepersonelloven § 48a](lov/1999-07-02-64/§48a) første ledd bokstav c eller d ble vurdert oppfylt under behandlingen av søknaden ellersøkeren før 1. januar 2017 har fått avslag på søknad om autorisasjon og etter avslaget har gjennomført tilleggsutdanning eller yrkespraksis for å godtgjøre nødvendig kyndighet etter [helsepersonelloven § 48a](lov/1999-07-02-64/§48a) første ledd bokstav d.
+Reglene i [forskrift 24. februar 2004 nr. 460](forskrift/2004-02-24-460) gis også anvendelse for behandling av søknad som i perioden fra 1. januar 2017 til og med 31. desember 2017 er mottatt i Helsedirektoratet og godtgjørelse etter [helsepersonelloven § 53](lov/1999-07-02-64/§53) er betalt dersom
+
+1. søkeren søkte om autorisasjon i perioden fra 1. januar 2015 til og med 31. desember 2016 og vilkåret i [helsepersonelloven § 48a](lov/1999-07-02-64/§48a) første ledd bokstav c eller d ble vurdert oppfylt under behandlingen av søknaden eller
+2. søkeren før 1. januar 2017 har fått avslag på søknad om autorisasjon og etter avslaget har gjennomført tilleggsutdanning eller yrkespraksis for å godtgjøre nødvendig kyndighet etter [helsepersonelloven § 48a](lov/1999-07-02-64/§48a) første ledd bokstav d.
 
 Dokumentasjon på gjennomførte tilleggskrav etter [forskrift 24. februar 2004 nr. 460](forskrift/2004-02-24-460) skal følge vedlagt søknaden.
 

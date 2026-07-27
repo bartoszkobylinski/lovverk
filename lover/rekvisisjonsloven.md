@@ -15,7 +15,7 @@ xml_hash: "b02fb3cdfc41f579475ac8bf551ac9d601bc9105b210d7d9a4e40cf587c06c79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1.
 
-Når riket er i krig kan militære myndigheter rekvirere alt som er nødvendig for krigsmakten og institusjoner som er knyttet til den. Således kan rekvireres:Varer og annet løsøre av enhver art, herunder fartøyer, kjøretøyer og fly.Husrom, bygninger, faste anlegg og grunn.Disposisjonsrett over alle slags transport- og sambandsmidler med eller uten personale og materiell som hører til dem.Disposisjonsrett over fabrikker, verksteder, lys-, gass- og kraftverk og andre bedrifter med eller uten arbeidsstokk, materiell og lager.Arbeids- og produksjonsytelser av virksomheter og bedrifter m.v. som nevnt i pkt. 3 og 4.Arbeid og annen tjeneste for krigsmakten og institusjoner som er knyttet til den, herunder over- og underordnet arbeidskraft til innretninger som er rekvirert eller pålagt ytelser i medhold av punkt 1-5.
+Når riket er i krig kan militære myndigheter rekvirere alt som er nødvendig for krigsmakten og institusjoner som er knyttet til den. Således kan rekvireres:
+
+1. Varer og annet løsøre av enhver art, herunder fartøyer, kjøretøyer og fly.
+2. Husrom, bygninger, faste anlegg og grunn.
+3. Disposisjonsrett over alle slags transport- og sambandsmidler med eller uten personale og materiell som hører til dem.
+4. Disposisjonsrett over fabrikker, verksteder, lys-, gass- og kraftverk og andre bedrifter med eller uten arbeidsstokk, materiell og lager.
+5. Arbeids- og produksjonsytelser av virksomheter og bedrifter m.v. som nevnt i pkt. 3 og 4.
+6. Arbeid og annen tjeneste for krigsmakten og institusjoner som er knyttet til den, herunder over- og underordnet arbeidskraft til innretninger som er rekvirert eller pålagt ytelser i medhold av punkt 1-5.
 
 Kongen kan bestemme at reglene i denne paragraf helt eller delvis skal gjelde også utenfor krigstid når krigsmakten eller noen del av denne er beordret satt på krigsfot i beredskapsøyemed, eller når det er nødvendig til fremme av beredskapstiltak, herunder større øvelser.
 
@@ -70,7 +77,12 @@ Kongen eller den han gir fullmakt kan bestemme at også andre offentlige myndigh
 
 ## § 6.
 
-De myndigheter som Kongen bestemmer kan allerede i fredstid gi virksomheter og bedrifter m.v. som nevnt i [§ 1](lov/1951-06-29-19/§1) punkt 3 og 4 pålegg om følgende:Sette igang forsøksproduksjon av gjenstander og varer som er nødvendig for krigsmakten, ogforberede produksjon i krig av gjenstander og varer som krigsmakten trenger, herunder anskaffe, oppbevare og vedlikeholde utstyr og råvarer som er nødvendig for slik produksjon.forberede slik evakuering som omhandlet i [§ 4](lov/1951-06-29-19/§4).sette i verk eller finne seg i forberedende rådgjerder som tar sikte på å lette eller sikre forsvaret av virksomhet eller bedrift mot skade ved fiendlig krigshandling eller sabotasje, så som forarbeider for montering av skyts på bygninger, fartøyer og fly og oppbevaring, lagring og vedlikehold av særskilt utstyr i forbindelse hermed.
+De myndigheter som Kongen bestemmer kan allerede i fredstid gi virksomheter og bedrifter m.v. som nevnt i [§ 1](lov/1951-06-29-19/§1) punkt 3 og 4 pålegg om følgende:
+
+1. Sette igang forsøksproduksjon av gjenstander og varer som er nødvendig for krigsmakten, og
+2. forberede produksjon i krig av gjenstander og varer som krigsmakten trenger, herunder anskaffe, oppbevare og vedlikeholde utstyr og råvarer som er nødvendig for slik produksjon.
+3. forberede slik evakuering som omhandlet i [§ 4](lov/1951-06-29-19/§4).
+4. sette i verk eller finne seg i forberedende rådgjerder som tar sikte på å lette eller sikre forsvaret av virksomhet eller bedrift mot skade ved fiendlig krigshandling eller sabotasje, så som forarbeider for montering av skyts på bygninger, fartøyer og fly og oppbevaring, lagring og vedlikehold av særskilt utstyr i forbindelse hermed.
 
 Det samme gjelder forberedende rådgjerder som tar sikte på å kunne sette virksomhet, bedrift m.v. ut av funksjon for kortere eller lengere tid. Pålegg som nevnt i foregående punktum kan også gis enhver eier eller besitter av transport- og sambandsmidler.
 
@@ -182,7 +194,11 @@ Kongen kan gi nærmere regler om fremgangsmåten ved skjønn etter denne paragra
 
 ## § 16.
 
-Etter nærmere regler som gis av Kongen kan Sentralnemnda for rekvisisjonssaker tillegges følgende gjøremål:Fastsette erstatninger som gjelder større beløp eller særskilte verdier.Overprøve skjønn av de lokale skjønnsnemnder.Fastsette takster som nevnt i [§ 12](lov/1951-06-29-19/§12) tredje ledd.
+Etter nærmere regler som gis av Kongen kan Sentralnemnda for rekvisisjonssaker tillegges følgende gjøremål:
+
+1. Fastsette erstatninger som gjelder større beløp eller særskilte verdier.
+2. Overprøve skjønn av de lokale skjønnsnemnder.
+3. Fastsette takster som nevnt i [§ 12](lov/1951-06-29-19/§12) tredje ledd.
 
 Reglene i [§ 15](lov/1951-06-29-19/§15) annet til fjerde ledd gjelder tilsvarende, likevel slik at reglene i [tvisteloven § 19-3](lov/2005-06-17-90/§19-3) fjerde ledd kommer til anvendelse når det ikke er flertall for noe beløp.
 

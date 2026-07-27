@@ -56,7 +56,11 @@ For å kunne motta kompensasjon, må mediet eller mediene ha hatt et fall i omse
 
 (1) Fallet i omsetning settes til den prosentvise differansen mellom omsetning fra og med 15. mars til og med 30. juni 2019 og samme periode i 2020. Før beregning av det prosentvise omsetningsfallet, skal omsetningen i perioden fra og med 15. mars til og med 30. juni 2019 justeres med den prosentvise endringen i omsetningen fra januar og februar 2019 til januar og februar 2020.
 
-(2) Med omsetning menes:inntekter fra brukerbetaling som gir tilgang til foretakets medieprodukter, herunder inntekter fra abonnement, medlemskontingent, løssalg eller distribusjonsinntekter.inntekter fra salg av markedsføring som inngår i foretakets medieprodukter, herunder reklame, rubrikkannonser, sponsing eller produktplassering som er utført. Inntekter fra salg av annonseplass i produkter som eies av andre, eller andre relaterte tjenester som for eksempel annonseproduksjon, regnes ikke som omsetning etter denne forskriften.inntekter fra radiobingo.
+(2) Med omsetning menes:
+
+1. inntekter fra brukerbetaling som gir tilgang til foretakets medieprodukter, herunder inntekter fra abonnement, medlemskontingent, løssalg eller distribusjonsinntekter.
+2. inntekter fra salg av markedsføring som inngår i foretakets medieprodukter, herunder reklame, rubrikkannonser, sponsing eller produktplassering som er utført. Inntekter fra salg av annonseplass i produkter som eies av andre, eller andre relaterte tjenester som for eksempel annonseproduksjon, regnes ikke som omsetning etter denne forskriften.
+3. inntekter fra radiobingo.
 
 (3) Fall i omsetning som har eller kunne ha blitt dekket av foretakets forsikringsordning, ved å gjøre gjeldende avtaleklausuler mv., regnes ikke som omsetningsfall.
 
@@ -64,7 +68,15 @@ For å kunne motta kompensasjon, må mediet eller mediene ha hatt et fall i omse
 
 ### § 7. Ytterligere vilkår
 
-Foretak som søker kompensasjon må oppfylle følgende vilkår:Foretaket er ikke under konkursbehandling, jf. [konkursloven kapittel VIII](lov/1984-06-08-58/kapviii),Foretaket er ikke begjært tvangsoppløst etter reglene i kapittel 16 i aksjeloven eller allmennaksjeloven,Foretaket har ansatte. Foretaket anses å ha ansatte dersom det på tildelingstidspunktet er registrert i arbeidsgiver- og arbeidstakerregisteret og har hatt minst én ansatt registrert i registeret siden 15. mars 2020, jf. [folketrygdloven § 25-1](lov/1997-02-28-19/§25-1). Minst én ansatt må ha fått utbetalt lønn i perioden 15. mars til og med 30 juni 2020,Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 skal være betalt (med mindre foretaket er registrert i frivillighetsregisteret),Foretaket kan ikke ha vært insolvent, jf. [konkursloven § 61](lov/1984-06-08-58/§61), før 15. mars 2020,Foretaket kan ikke være registrert som under avvikling i Foretaksregisteret, ogSkattemelding for formues- og inntektsskatt og årsregnskap for 2018 må være levert av foretak som er registrert i Foretaksregisteret og som ble etablert i 2018 eller tidligere. Øvrige rapporteringsplikter etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8) med leveringsfrist i perioden 1. januar 2019 og frem til tilskuddsordningen trer i kraft, eller fra det senere tidspunktet foretaket ble etablert, må være levert for slike foretak.
+Foretak som søker kompensasjon må oppfylle følgende vilkår:
+
+1. Foretaket er ikke under konkursbehandling, jf. [konkursloven kapittel VIII](lov/1984-06-08-58/kapviii),
+2. Foretaket er ikke begjært tvangsoppløst etter reglene i kapittel 16 i aksjeloven eller allmennaksjeloven,
+3. Foretaket har ansatte. Foretaket anses å ha ansatte dersom det på tildelingstidspunktet er registrert i arbeidsgiver- og arbeidstakerregisteret og har hatt minst én ansatt registrert i registeret siden 15. mars 2020, jf. [folketrygdloven § 25-1](lov/1997-02-28-19/§25-1). Minst én ansatt må ha fått utbetalt lønn i perioden 15. mars til og med 30 juni 2020,
+4. Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 skal være betalt (med mindre foretaket er registrert i frivillighetsregisteret),
+5. Foretaket kan ikke ha vært insolvent, jf. [konkursloven § 61](lov/1984-06-08-58/§61), før 15. mars 2020,
+6. Foretaket kan ikke være registrert som under avvikling i Foretaksregisteret, og
+7. Skattemelding for formues- og inntektsskatt og årsregnskap for 2018 må være levert av foretak som er registrert i Foretaksregisteret og som ble etablert i 2018 eller tidligere. Øvrige rapporteringsplikter etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8) med leveringsfrist i perioden 1. januar 2019 og frem til tilskuddsordningen trer i kraft, eller fra det senere tidspunktet foretaket ble etablert, må være levert for slike foretak.
 
 ## Kapittel 3 – Kompensasjonens størrelse
 
@@ -92,9 +104,19 @@ Det gis kompensasjon oppad begrenset til 60 prosent av det totale omsetningsfall
 
 (3) Kompensasjon etter [§ 9](forskrift/2020-07-07-1521/§9), justert for eventuell avkortning etter andre ledd, kan ikke gi et driftsresultat (EBITDA) i kompensasjonsperioden som er høyere enn mediets driftsresultat i samme periode i 2019. I slike tilfeller vil kompensasjonen bli avkortet, slik at driftsresultatet i kompensasjonsperioden tilsvarer driftsresultatet i samme periode i fjor. Driftsresultatet for perioden i 2019 beregnes ved å dividere mediets driftsresultat for siste regnskapsår med antall måneder regnskapsåret omfatter og multiplisere med antall måneder det mottas kompensasjon for (3,5 måneder) eller ved å bruke driftsresultat for perioden fra og med 15. mars til og med 30. juni 2019.
 
-(4) Beregning av driftsresultat etter tredje ledd skal baseres på følgende inntekter og utgifter:Med inntekter menes mediets omsetning i henhold til [§ 6](forskrift/2020-07-07-1521/§6) andre ledd for den aktuelle perioden.Direkte kostnader knyttet til produksjon og utgivelse av mediet for den aktuelle perioden skal henføres direkte.Eventuelle felleskostnader skal beregnes slik at mediets andel av foretakets eller konsernets felleskostnader settes lik mediets andel av de totale inntektene i foretaket eller konsernet i den aktuelle perioden.
+(4) Beregning av driftsresultat etter tredje ledd skal baseres på følgende inntekter og utgifter:
 
-(5) For medier somer etablert etter 31. desember 2018,på bakgrunn av omstrukturering ikke kan finne driftsresultat for samme periode siste regnskapsår, ellersom følge av finansiell eller operasjonell restrukturering ikke har sammenlignbare tall for samme periode siste regnskapsår,kan summen av kompensasjon etter [§ 9](forskrift/2020-07-07-1521/§9), justert for eventuell avkortning etter andre ledd, ikke føre til at mediet overstiger sitt budsjetterte driftsresultat for perioden 15. mars til og med 30. juni 2020. Budsjettert driftsresultat for perioden må ha vært utarbeidet senest 29. februar 2020. Budsjettert driftsresultat beregnes ved å dividere mediets budsjetterte driftsresultat for 2020 med antall måneder regnskapsåret omfatter og multiplisere med 3,5. Budsjettert driftsresultat kan etter tildeling av kompensasjon bli vurdert opp mot driftsresultat i liknende medier. Ved avvik vil kompensasjonen bli avkortet slik at mediets driftsresultat ikke overstiger driftsresultatet i sammenlignbare medier, med mindre foretaket kan dokumentere saklig grunn for avviket.
+1. Med inntekter menes mediets omsetning i henhold til [§ 6](forskrift/2020-07-07-1521/§6) andre ledd for den aktuelle perioden.
+2. Direkte kostnader knyttet til produksjon og utgivelse av mediet for den aktuelle perioden skal henføres direkte.
+3. Eventuelle felleskostnader skal beregnes slik at mediets andel av foretakets eller konsernets felleskostnader settes lik mediets andel av de totale inntektene i foretaket eller konsernet i den aktuelle perioden.
+
+(5) For medier som
+
+1. er etablert etter 31. desember 2018,
+2. på bakgrunn av omstrukturering ikke kan finne driftsresultat for samme periode siste regnskapsår, eller
+3. som følge av finansiell eller operasjonell restrukturering ikke har sammenlignbare tall for samme periode siste regnskapsår,
+
+kan summen av kompensasjon etter [§ 9](forskrift/2020-07-07-1521/§9), justert for eventuell avkortning etter andre ledd, ikke føre til at mediet overstiger sitt budsjetterte driftsresultat for perioden 15. mars til og med 30. juni 2020. Budsjettert driftsresultat for perioden må ha vært utarbeidet senest 29. februar 2020. Budsjettert driftsresultat beregnes ved å dividere mediets budsjetterte driftsresultat for 2020 med antall måneder regnskapsåret omfatter og multiplisere med 3,5. Budsjettert driftsresultat kan etter tildeling av kompensasjon bli vurdert opp mot driftsresultat i liknende medier. Ved avvik vil kompensasjonen bli avkortet slik at mediets driftsresultat ikke overstiger driftsresultatet i sammenlignbare medier, med mindre foretaket kan dokumentere saklig grunn for avviket.
 
 (6) Tildelt kompensasjon utbetales ikke dersom det innen utbetalingen blir åpnet konkurs i foretaket.
 
@@ -108,7 +130,16 @@ Det gis kompensasjon oppad begrenset til 60 prosent av det totale omsetningsfall
 
 (2) Søknadsfristen fastsettes av Medietilsynet.
 
-(3) Søknadsskjemaet skal blant annet inneholde følgende opplysninger:navn på mediet eller mediene som det søkes kompensasjon for, samt ansvarlig redaktør for det enkelte medium,omsetningstall, budsjett og regnskap for aktuelle perioder, jf. [§ 5](forskrift/2020-07-07-1521/§5), [§ 6](forskrift/2020-07-07-1521/§6), [§ 9](forskrift/2020-07-07-1521/§9) og [§ 10](forskrift/2020-07-07-1521/§10),avgiftsreduksjoner som følge av covid-19-utbruddet,offentlig tilskudd gitt i forbindelse med covid-19-utbruddet,søkers bankkontonummer slik det fremgår i bankenes felles Konto- og adresseringsregister,bekreftelse på at søker er skattepliktig i Norge,bekreftelse på at søker ikke er under konkursbehandling, ogbekreftelse på at skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 er betalt.
+(3) Søknadsskjemaet skal blant annet inneholde følgende opplysninger:
+
+1. navn på mediet eller mediene som det søkes kompensasjon for, samt ansvarlig redaktør for det enkelte medium,
+2. omsetningstall, budsjett og regnskap for aktuelle perioder, jf. [§ 5](forskrift/2020-07-07-1521/§5), [§ 6](forskrift/2020-07-07-1521/§6), [§ 9](forskrift/2020-07-07-1521/§9) og [§ 10](forskrift/2020-07-07-1521/§10),
+3. avgiftsreduksjoner som følge av covid-19-utbruddet,
+4. offentlig tilskudd gitt i forbindelse med covid-19-utbruddet,
+5. søkers bankkontonummer slik det fremgår i bankenes felles Konto- og adresseringsregister,
+6. bekreftelse på at søker er skattepliktig i Norge,
+7. bekreftelse på at søker ikke er under konkursbehandling, og
+8. bekreftelse på at skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 er betalt.
 
 (4) Foretak som tilbyr flere medier skal sende samlet søknad for alle mediene som inngår i foretaket. Beregningen av omsetningsfall i henhold til [§ 6](forskrift/2020-07-07-1521/§6) og [§ 8](forskrift/2020-07-07-1521/§8) og beregningen av kostnader i henhold til [§ 10](forskrift/2020-07-07-1521/§10) tredje og fjerde ledd gjøres samlet for alle de kompensasjonsberettigede mediene som inngår i foretaket.
 

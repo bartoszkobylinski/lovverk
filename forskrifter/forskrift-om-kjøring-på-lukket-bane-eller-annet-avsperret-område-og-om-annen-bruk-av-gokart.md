@@ -15,7 +15,7 @@ xml_hash: "65370fc7765dfef527a64fb97429e34bfe50279175e19a3e27b5f876afdeb1c3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,12 @@ Forskriften gjelder organisert kjøring med motorvogn på lukket bane eller anne
 
 ### § 3. Definisjoner
 
-I denne forskrift forstås med*Organisert:* planlagt virksomhet som varer over tid med klar rollefordeling, klare ansvarsforhold og særlig kompetanse innenfor aktivitetsområdet som sikrer at aktiviteten skjer innenfor sikre og ansvarlige rammer.*Trenings- og konkurransekjøring:* kjøring og trening til slik kjøring, som innebærer et konkurranseelement, for eksempel å komme først til mål, eller kjøre en strekning på kortest mulig tid.*Annen kjøring på lukket bane som ikke innebærer et konkurranseelement:* kjøring med registret motorvogn på bane i kurs- og opplæringssammenheng, og hvor verken plassering, fart eller tid registreres.*Annen bruk av gokart:* bruk av gokart som er konstruert for en hastighet som ikke overskrider 50 km/t på anlegg som er godkjent etter [lov 22. mai 2017 nr. 30 om fornøyelsesinnretninger (tivoliloven)](lov/2017-05-22-30).
+I denne forskrift forstås med
+
+1. *Organisert:* planlagt virksomhet som varer over tid med klar rollefordeling, klare ansvarsforhold og særlig kompetanse innenfor aktivitetsområdet som sikrer at aktiviteten skjer innenfor sikre og ansvarlige rammer.
+2. *Trenings- og konkurransekjøring:* kjøring og trening til slik kjøring, som innebærer et konkurranseelement, for eksempel å komme først til mål, eller kjøre en strekning på kortest mulig tid.
+3. *Annen kjøring på lukket bane som ikke innebærer et konkurranseelement:* kjøring med registret motorvogn på bane i kurs- og opplæringssammenheng, og hvor verken plassering, fart eller tid registreres.
+4. *Annen bruk av gokart:* bruk av gokart som er konstruert for en hastighet som ikke overskrider 50 km/t på anlegg som er godkjent etter [lov 22. mai 2017 nr. 30 om fornøyelsesinnretninger (tivoliloven)](lov/2017-05-22-30).
 
 ## Kapittel 2. Organisert trenings- og konkurransekjøring på lukket bane eller annet avsperret område
 
@@ -50,7 +55,21 @@ Deltakerne skal følge fastsatt reglement for gjeldende bane og regelverk gitt a
 
 Trenings- og konkurransekjøring på lukket bane eller annet avsperret område må skje i regi av arrangør som organiserer slik aktivitet i medhold av reglement og tillatelser gitt av et motorsportforbund.
 
-Reglementet skal sikre at kjøring som skjer på lukket bane eller annet avsperret område organiseres og gjennomføres på en sikker måte for førere, andre deltakere, funksjonærer og tilskuere. Reglementet må som minimum inneholdekrav til godkjenning av banen som benyttes,regler for banens utforming, herunder tiltak som skal hindre skade hos førere, andre deltakere, funksjonærer, service-, helse- og sikkerhetspersonell og tilskuere,krav til arrangører, herunder krav om at arrangøren under trening- og konkurranser på stedet har tilgjengelig personell med erfaring fra organisert trenings- og konkurransekjøring på lukket bane eller annet avsperret område,regler for ulike løpstyper motorsportforbundet organiserer,krav til kjøretøy, godkjenning av kjøretøy, herunder krav til bruk av sikkerhetsutstyr i kjøretøyet,krav til opplæring og godkjenning av førere og ledsagere,krav til alder for førere av de ulike kjøretøytypene,krav til personlig sikkerhetsutstyr,krav til vakter og annet sikkerhetspersonell,krav til brannberedskap,krav til beredskap ved ulykke, herunder krav til tilstedeværelse av helsepersonell,krav til arrangørlisens, vognlisens, førerlisens og andre lisenser som benyttes, herunder krav og informasjon om den forsikringsdekning som skal foreligge for skade på person- og eiendom, oginformasjon om innhenting av nødvendig tillatelse fra Statens vegvesen for arrangement.
+Reglementet skal sikre at kjøring som skjer på lukket bane eller annet avsperret område organiseres og gjennomføres på en sikker måte for førere, andre deltakere, funksjonærer og tilskuere. Reglementet må som minimum inneholde
+
+1. krav til godkjenning av banen som benyttes,
+2. regler for banens utforming, herunder tiltak som skal hindre skade hos førere, andre deltakere, funksjonærer, service-, helse- og sikkerhetspersonell og tilskuere,
+3. krav til arrangører, herunder krav om at arrangøren under trening- og konkurranser på stedet har tilgjengelig personell med erfaring fra organisert trenings- og konkurransekjøring på lukket bane eller annet avsperret område,
+4. regler for ulike løpstyper motorsportforbundet organiserer,
+5. krav til kjøretøy, godkjenning av kjøretøy, herunder krav til bruk av sikkerhetsutstyr i kjøretøyet,
+6. krav til opplæring og godkjenning av førere og ledsagere,
+7. krav til alder for førere av de ulike kjøretøytypene,
+8. krav til personlig sikkerhetsutstyr,
+9. krav til vakter og annet sikkerhetspersonell,
+10. krav til brannberedskap,
+11. krav til beredskap ved ulykke, herunder krav til tilstedeværelse av helsepersonell,
+12. krav til arrangørlisens, vognlisens, førerlisens og andre lisenser som benyttes, herunder krav og informasjon om den forsikringsdekning som skal foreligge for skade på person- og eiendom, og
+13. informasjon om innhenting av nødvendig tillatelse fra Statens vegvesen for arrangement.
 
 Senest tre måneder før første gjennomføring av organisert trenings- og konkurransekjøring skal motorsportforbund oversende reglementet til Statens vegvesen. Endringer skal fortløpende innsendes til Statens vegvesen.
 
@@ -72,7 +91,11 @@ For trenings- og konkurransekjøring på lukket bane eller annet avsperret områ
 
 Til dekning av skade som motorvogn kan volde i forbindelse med kjøring etter dette kapitlet, skal det tegnes forsikring med tilsvarende dekning som etter [lov 3. februar 1961 om ansvar for skade som motorvogner gjer](lov/1961-02-03).
 
-Forsikringen behøver likevel ikke omfatte:skade på sjåfører eller passasjerer som deltar i kjøringen.skade på motorvogn eller eiendom på lukket bane eller annet avsperret område.tingsskade som påføres forsikringstakeren eller den som eier eller leier området der kjøringen finner sted.
+Forsikringen behøver likevel ikke omfatte:
+
+1. skade på sjåfører eller passasjerer som deltar i kjøringen.
+2. skade på motorvogn eller eiendom på lukket bane eller annet avsperret område.
+3. tingsskade som påføres forsikringstakeren eller den som eier eller leier området der kjøringen finner sted.
 
 Arrangøren må sikre at slik forsikring foreligger for aktivitet etter dette kapitlet.
 
@@ -96,7 +119,11 @@ For kjøretøy som benyttes til kjøring etter dette kapitlet må det være tegn
 
 For kjøring som ikke dekkes av forsikringen etter første ledd, må det tegnes særskilt forsikring med tilsvarende dekning som etter [lov 3. februar 1961 om ansvar for skade som motorvogner gjer](lov/1961-02-03).
 
-Forsikringen etter annet ledd behøver likevel ikke omfatte:skade på sjåfører eller passasjerer som deltar i kjøringen.skade på motorvogn eller eiendom på lukket bane eller annet avsperret område.tingsskade som påføres forsikringstakeren eller den som eier eller leier området der kjøringen finner sted.
+Forsikringen etter annet ledd behøver likevel ikke omfatte:
+
+1. skade på sjåfører eller passasjerer som deltar i kjøringen.
+2. skade på motorvogn eller eiendom på lukket bane eller annet avsperret område.
+3. tingsskade som påføres forsikringstakeren eller den som eier eller leier området der kjøringen finner sted.
 
 Arrangøren må sikre at slik forsikring foreligger for aktivitet etter dette kapitlet.
 
@@ -106,7 +133,11 @@ Arrangøren må sikre at slik forsikring foreligger for aktivitet etter dette ka
 
 Foretak og organisasjoner kan benytte gokart som er konstruert for en hastighet som ikke overskrider 50 km/t på anlegg som har driftstillatelse etter [lov 22. mai 2017 nr. 30 om fornøyelsesinnretninger (tivoliloven)](lov/2017-05-22-30).
 
-For slik bruk av go-kart gjøres det unntak fra:tekniske krav og krav om godkjenning i [forskrift 4. oktober 1994 nr. 918 om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)](forskrift/1994-10-04-918)krav om registrering i [forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy](forskrift/1990-01-25-92)krav til førerkort i [førerkortforskriften 19. januar 2004 nr. 298](forskrift/2004-01-19-298), likevel slik at minstealder er 15 år.
+For slik bruk av go-kart gjøres det unntak fra:
+
+1. tekniske krav og krav om godkjenning i [forskrift 4. oktober 1994 nr. 918 om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)](forskrift/1994-10-04-918)
+2. krav om registrering i [forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy](forskrift/1990-01-25-92)
+3. krav til førerkort i [førerkortforskriften 19. januar 2004 nr. 298](forskrift/2004-01-19-298), likevel slik at minstealder er 15 år.
 
 ## Kapittel 5. Ikrafttredelse. Endringer i andre forskrifter
 

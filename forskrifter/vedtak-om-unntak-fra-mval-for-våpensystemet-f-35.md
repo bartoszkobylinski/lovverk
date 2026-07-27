@@ -15,7 +15,7 @@ xml_hash: "c1e548db1dfc33a42f990c0fce8ec3e9b5f0c54158555cbe8163c038e60c8947"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,12 @@ Avtaler om anskaffelse av våpensystemet F-35 og deltakelse i vedlikeholdsprogra
 
 Forsvarets deltakelse i den flernasjonale vedlikeholdsløsningen for F-35 innebærer bl.a. at det etableres en felles reservedelspool og felles vedlikeholdskapasiteter. For Forsvaret vil deltakelsen i vedlikeholdsprogrammet innebære stadige leveranser av reservedeler til de norske flyene og tilhørende utstyr. Forsvaret inngår avtale om vedlikeholdstjenestene med det etablerte programkontoret, som vil benytte leverandører til å oppfylle forpliktelsene etter avtalen. Leverandørene vil være basert i Norge og i utlandet.
 
-I tillegg til disse løpende ytelsene vil Forsvaret anskaffe en del utstyr med tilknytning til vedlikeholdsprogrammet. Utstyret installeres av underleverandører i Norge før det overdras til programkontoret og videre til Forsvaret. Det søkes om unntak fra merverdiavgiftsloven for omsetning av følgende anskaffelser:*Full Mission Simulator* som skal benyttes til trening av F-35-flygere. Simulatorene brukes i gjennomføringen av det operative treningsprogrammet, og de vil også bli brukt når F-35-teknikere skal trene på bakke- og motorkjøring av F-35. Forsvaret skal anskaffe totalt åtte slike simulatorer.*Aircraft System Maintenance Trainer* som skal benyttes til utdanning av F-35-vedlikeholdspersonell. Utdanningen foregår på en dataterminal med skjermer, og denne simulatoren består av et klasserom med tolv elevstasjoner. Flyet er virtuelt representert på skjermene, og teknikeren utfører vedlikeholdsoperasjoner og bruker virtuelt verktøy. Forsvaret skal anskaffe én slik simulator.*Interactive Course Ware/Electronically Mediated Lecture* er et databasert treningssystem for trening og utdanning av flygere og teknikere til våpensystemet F-35. Dette består av et klasserom med 16 elevplasser, en instruktørstasjon og en storskjerm som er koplet sammen i datanettverk med en serverløsning. Forsvaret skal anskaffe én slik simulator.Informasjonssystemet *Autonomic Logistics Information System* som er et helintegrert delsystem av våpensystemet F-35, og er påkrevd for å understøtte drift og operasjoner med F-35. Dette logistikksystemet er en premissgiver for at den valgte vedlikeholdsløsningen skal fungere.
+I tillegg til disse løpende ytelsene vil Forsvaret anskaffe en del utstyr med tilknytning til vedlikeholdsprogrammet. Utstyret installeres av underleverandører i Norge før det overdras til programkontoret og videre til Forsvaret. Det søkes om unntak fra merverdiavgiftsloven for omsetning av følgende anskaffelser:
+
+- *Full Mission Simulator* som skal benyttes til trening av F-35-flygere. Simulatorene brukes i gjennomføringen av det operative treningsprogrammet, og de vil også bli brukt når F-35-teknikere skal trene på bakke- og motorkjøring av F-35. Forsvaret skal anskaffe totalt åtte slike simulatorer.
+- *Aircraft System Maintenance Trainer* som skal benyttes til utdanning av F-35-vedlikeholdspersonell. Utdanningen foregår på en dataterminal med skjermer, og denne simulatoren består av et klasserom med tolv elevstasjoner. Flyet er virtuelt representert på skjermene, og teknikeren utfører vedlikeholdsoperasjoner og bruker virtuelt verktøy. Forsvaret skal anskaffe én slik simulator.
+- *Interactive Course Ware/Electronically Mediated Lecture* er et databasert treningssystem for trening og utdanning av flygere og teknikere til våpensystemet F-35. Dette består av et klasserom med 16 elevplasser, en instruktørstasjon og en storskjerm som er koplet sammen i datanettverk med en serverløsning. Forsvaret skal anskaffe én slik simulator.
+- Informasjonssystemet *Autonomic Logistics Information System* som er et helintegrert delsystem av våpensystemet F-35, og er påkrevd for å understøtte drift og operasjoner med F-35. Dette logistikksystemet er en premissgiver for at den valgte vedlikeholdsløsningen skal fungere.
 
 *Skattedirektoratets vurdering*
 

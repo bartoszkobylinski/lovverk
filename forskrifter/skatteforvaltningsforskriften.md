@@ -52,7 +52,11 @@ Nemnda skal ha en leder og en nestleder. Departementet fastsetter hvor mange øv
 
 ### § 2-8-4. Krav til nemndsmedlemmenes utdanning og yrkeserfaring
 
-(1) Nemndas medlemmer og varemedlemmer skal ha utdanning og yrkeserfaring somjurist (cand.jur. eller mastergrad i rettsvitenskap)økonom (mastergrad) ellerstatsautorisert revisor.
+(1) Nemndas medlemmer og varemedlemmer skal ha utdanning og yrkeserfaring som
+
+1. jurist (cand.jur. eller mastergrad i rettsvitenskap)
+2. økonom (mastergrad) eller
+3. statsautorisert revisor.
 
 (2) Nemndas leder og nestleder skal oppfylle kravene for å være tingrettsdommer i [domstolloven § 54](lov/1915-08-13-5/§54).
 
@@ -136,7 +140,11 @@ Nemnda treffer avgjørelse skriftlig eller i fulltallig møte.
 
 ### § 2-13-1. Statsforvalterens myndighet i saker om særfradrag etter skatteloven § 6-82 og § 6-83
 
-(1) Når den skattepliktige i skattemeldingen har fastsatt særfradrag etter [skatteloven § 6-82](lov/1999-03-26-14/§6-82) og [§ 6-83](lov/1999-03-26-14/§6-83), kan skattekontoret be statsforvalteren avgjøreom en behandling mv. er foretatt utenfor det offentlige helsevesenom det offentlige har tilsvarende tilbud som det oppsøkteom behandlingen mv. kan anses faglig forsvarlig.
+(1) Når den skattepliktige i skattemeldingen har fastsatt særfradrag etter [skatteloven § 6-82](lov/1999-03-26-14/§6-82) og [§ 6-83](lov/1999-03-26-14/§6-83), kan skattekontoret be statsforvalteren avgjøre
+
+1. om en behandling mv. er foretatt utenfor det offentlige helsevesen
+2. om det offentlige har tilsvarende tilbud som det oppsøkte
+3. om behandlingen mv. kan anses faglig forsvarlig.
 
 (2) Dersom statsforvalteren ikke tidligere har vurdert om behandlingen mv. oppfyller vilkårene for særfradrag etter [skatteloven § 6-83](lov/1999-03-26-14/§6-83) annet ledd, avgjør statsforvalteren, etter krav fra den skattepliktige, om vilkårene er oppfylt i forbindelse med endrings- og klagesaker.
 
@@ -148,7 +156,17 @@ Nemnda treffer avgjørelse skriftlig eller i fulltallig møte.
 
 ### § 2-13-2. Arbeids- og velferdsetatens myndighet til å fastsette trygdeavgift
 
-(1) Arbeids- og velferdsetaten fastsetter grunnlaget for og beregner trygdeavgift formedlemmer i folketrygden som ikke er skattepliktige til Norge ved arbeid eller opphold i Norge, på norsk kontinentalsokkel og norskregistrerte skip. Dette gjelder både når inntekten ikke er skattepliktig etter norsk intern rett, og når norsk beskatningsrett er begrenset i skatteavtale eller annen folkerettslig overenskomst. Dette omfatter følgende medlemmer i folketrygdengjesteforelesere, forskere, lærere og studenter i Norgepersoner ansatt ved internasjonale organisasjoner eller skoler i Norgepersoner ansatt ved utenlandske ambassader i Norgepersoner som utøver næringsvirksomhet i Norgearbeidstakere som ikke oppholder seg mer enn 183 dager i Norge og som er ansatt av en utenlandsk arbeidsgiver som ikke har fast driftssted i Norge.personer i arbeid eller med opphold i utlandet som ikke er skattepliktige som bosatt i Norge etter [skatteloven § 2-1](lov/1999-03-26-14/§2-1), og som enten er medlemmer av folketrygden eller er pensjonister bosatt i annet EØS-land eller i Storbritannia og Nord-Irland, og hvor Norge er kompetent stat for fastsetting av trygdeavgift etter EØS-retten eller etter Avtale signert 28. januar 2020 mellom Island, Liechtenstein, Norge og Storbritannia om ordninger som følge av at Storbritannia trer ut av Den europeiske union, [EØS-avtalen](lov/1992-11-27-109/eøsl) og andre avtaler. Arbeids- og velferdsetaten fastsetter trygdeavgift fra og med det tidspunkt skatteplikten som bosatt etter [skatteloven](lov/1999-03-26-14) opphører.personer som er frivillige medlemmer av norsk folketrygd og som arbeider i internasjonale organisasjoner, uavhengig av om de er skattepliktig som bosatt i Norge.
+(1) Arbeids- og velferdsetaten fastsetter grunnlaget for og beregner trygdeavgift for
+
+1. medlemmer i folketrygden som ikke er skattepliktige til Norge ved arbeid eller opphold i Norge, på norsk kontinentalsokkel og norskregistrerte skip. Dette gjelder både når inntekten ikke er skattepliktig etter norsk intern rett, og når norsk beskatningsrett er begrenset i skatteavtale eller annen folkerettslig overenskomst. Dette omfatter følgende medlemmer i folketrygden
+
+   1. gjesteforelesere, forskere, lærere og studenter i Norge
+   2. personer ansatt ved internasjonale organisasjoner eller skoler i Norge
+   3. personer ansatt ved utenlandske ambassader i Norge
+   4. personer som utøver næringsvirksomhet i Norge
+   5. arbeidstakere som ikke oppholder seg mer enn 183 dager i Norge og som er ansatt av en utenlandsk arbeidsgiver som ikke har fast driftssted i Norge.
+2. personer i arbeid eller med opphold i utlandet som ikke er skattepliktige som bosatt i Norge etter [skatteloven § 2-1](lov/1999-03-26-14/§2-1), og som enten er medlemmer av folketrygden eller er pensjonister bosatt i annet EØS-land eller i Storbritannia og Nord-Irland, og hvor Norge er kompetent stat for fastsetting av trygdeavgift etter EØS-retten eller etter Avtale signert 28. januar 2020 mellom Island, Liechtenstein, Norge og Storbritannia om ordninger som følge av at Storbritannia trer ut av Den europeiske union, [EØS-avtalen](lov/1992-11-27-109/eøsl) og andre avtaler. Arbeids- og velferdsetaten fastsetter trygdeavgift fra og med det tidspunkt skatteplikten som bosatt etter [skatteloven](lov/1999-03-26-14) opphører.
+3. personer som er frivillige medlemmer av norsk folketrygd og som arbeider i internasjonale organisasjoner, uavhengig av om de er skattepliktig som bosatt i Norge.
 
 (2) Ved frivillig medlemskap i folketrygden fastsetter skattemyndighetene trygdeavgift etter ordinære satser. Har et medlemskap en sats som overstiger de ordinære satsene for trygdeavgift, fastsetter Arbeids- og velferdsetaten differansen mellom den frivillige og den ordinære satsen.
 
@@ -198,7 +216,23 @@ Nemnda treffer avgjørelse skriftlig eller i fulltallig møte.
 
 (1) Ved vurderingen av om kravet til forholdsmessighet i [skatteforvaltningsloven § 3-3](lov/2016-05-27-14/§3-3) annet ledd er oppfylt, skal det legges vekt på om mottakerorganet vil settes i stand til å treffe en riktig avgjørelse, eller utføre en mer effektiv og hensiktsmessig tjeneste enn om det ikke hadde mottatt opplysningene. Det skal også legges vekt på formålet med behandlingen av opplysninger hos mottakeren, om mottakeren er underlagt taushetsplikt, hvilke opplysninger som skal utleveres og antallet personer som får tilgang til opplysningene.
 
-(2) Opplysninger kan uansett utleveres:til offentlige myndigheter som kan ha bruk for dem i sitt arbeid med skatt, tollavgift, andre avgifter, trygder, tilskudd eller bidrag av offentlige midlertil offentlige myndigheter for bruk i forbindelse med håndheving av lovgivningen om obligatorisk tjenestepensjon, inn- og utførsel av varer, regnskapsplikt og regnskapsførere, revisjonsvesen, lotteri, aksjeselskaper eller stiftelser, og til offentlig myndighet som reviderer offentlig virksomhettil offentlige myndigheter for bruk til statistikkformåltil offentlige myndigheter når det er nødvendig for å innhente ytterligere opplysningertil en offentlig oppnevnt granskningskommisjontil politiet eller påtalemyndigheten til bruk i straffesak. Gjelder straffesaken overtredelse av bestemmelser utenfor myndighetenes forvaltningsområde, kan opplysninger bare gis når det foreligger rimelig grunn til mistanke om overtredelse som kan medføre høyere straff enn fengsel i seks måneder. Opplysninger om brutto- og nettoinntekt, bruttoformue og gjeld kan gis til bruk under utmåling av straff eller erstatning i straffesaken.til Økokrim etter en anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av [hvitvaskingsloven](lov/2018-06-01-23)til offentlige myndigheter ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi opplysningenetil namsmyndighetene i saker om utlegg eller arresti forbindelse med utveksling av informasjon (samordning) som forutsatt i [oppgaveregisterloven](lov/1997-06-06-35)til den alminnelige namsmannen og tingretten til bruk i skiftesak, når en innsynsbegjæring gjelder fastsetting av skatt for avdøde, og det ikke foreligger noen formell beslutning om skifteformtil offentlige myndigheter til bruk for medarbeidere som deltar i et tverretatlig samarbeid ved Nasjonalt tverretatlig analyse- og etterretningssenter for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitettil offentlige myndigheter som nevnt i [a-kriminformasjonsforskriften § 3](forskrift/2022-06-17-1045/§3) for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet.til offentlige etater som kan ha bruk for dem i sitt arbeid med tilsyn etter arbeidsmiljølovgivningen.til offentlige myndigheter til bruk for mottagerorganets deling av egne opplysninger i arbeidet med pensjonsordninger etter [innskuddspensjonsloven](lov/2000-11-24-81), [foretakspensjonsloven](lov/2000-03-24-16) eller [tjenestepensjonsloven](lov/2013-12-13-106).
+(2) Opplysninger kan uansett utleveres:
+
+1. til offentlige myndigheter som kan ha bruk for dem i sitt arbeid med skatt, tollavgift, andre avgifter, trygder, tilskudd eller bidrag av offentlige midler
+2. til offentlige myndigheter for bruk i forbindelse med håndheving av lovgivningen om obligatorisk tjenestepensjon, inn- og utførsel av varer, regnskapsplikt og regnskapsførere, revisjonsvesen, lotteri, aksjeselskaper eller stiftelser, og til offentlig myndighet som reviderer offentlig virksomhet
+3. til offentlige myndigheter for bruk til statistikkformål
+4. til offentlige myndigheter når det er nødvendig for å innhente ytterligere opplysninger
+5. til en offentlig oppnevnt granskningskommisjon
+6. til politiet eller påtalemyndigheten til bruk i straffesak. Gjelder straffesaken overtredelse av bestemmelser utenfor myndighetenes forvaltningsområde, kan opplysninger bare gis når det foreligger rimelig grunn til mistanke om overtredelse som kan medføre høyere straff enn fengsel i seks måneder. Opplysninger om brutto- og nettoinntekt, bruttoformue og gjeld kan gis til bruk under utmåling av straff eller erstatning i straffesaken.
+7. til Økokrim etter en anmodning grunnet i en melding om en mistenkelig transaksjon gitt i medhold av [hvitvaskingsloven](lov/2018-06-01-23)
+8. til offentlige myndigheter ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi opplysningene
+9. til namsmyndighetene i saker om utlegg eller arrest
+10. i forbindelse med utveksling av informasjon (samordning) som forutsatt i [oppgaveregisterloven](lov/1997-06-06-35)
+11. til den alminnelige namsmannen og tingretten til bruk i skiftesak, når en innsynsbegjæring gjelder fastsetting av skatt for avdøde, og det ikke foreligger noen formell beslutning om skifteform
+12. til offentlige myndigheter til bruk for medarbeidere som deltar i et tverretatlig samarbeid ved Nasjonalt tverretatlig analyse- og etterretningssenter for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet
+13. til offentlige myndigheter som nevnt i [a-kriminformasjonsforskriften § 3](forskrift/2022-06-17-1045/§3) for å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet.
+14. til offentlige etater som kan ha bruk for dem i sitt arbeid med tilsyn etter arbeidsmiljølovgivningen.
+15. til offentlige myndigheter til bruk for mottagerorganets deling av egne opplysninger i arbeidet med pensjonsordninger etter [innskuddspensjonsloven](lov/2000-11-24-81), [foretakspensjonsloven](lov/2000-03-24-16) eller [tjenestepensjonsloven](lov/2013-12-13-106).
 
 > Tilføyd ved [forskrift 25 sep 2019 nr. 1225](forskrift/2019-09-25-1225) (i kraft 1 okt 2019), endret ved forskrifter [13 april 2021 nr. 1141](forskrift/2021-04-13-1141), [17 juni 2022 nr. 1045](forskrift/2022-06-17-1045) (i kraft 20 juni 2022), [21 des 2022 nr. 2459](forskrift/2022-12-21-2459) (i kraft 1 jan 2023).
 
@@ -254,7 +288,13 @@ Nemnda treffer avgjørelse skriftlig eller i fulltallig møte.
 
 (7) Er forholdet til utenlandske rettsregler av betydning, bør anmodningen også redegjøre for disse regler.
 
-(8) Anmodningen skal inneholde opplysninger om tilknyttede personer til partene som disposisjonen gjelder og hvor disse er bosatt. Som tilknyttet person regnesselskap eller innretning som den skattepliktige, direkte eller indirekte, eier med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene ipersoner eller selskap eller innretning som, direkte eller indirekte, eier den skattepliktige med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene i den skattepliktige ogselskap eller innretning som tilknyttede personer etter bokstav b eier med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene i.Anmodningen skal også inneholde opplysninger om den skattepliktiges direkte morselskap og hvor dette selskapet er bosatt, samt opplysninger om det ultimate morselskapet og hvor dette er bosatt.
+(8) Anmodningen skal inneholde opplysninger om tilknyttede personer til partene som disposisjonen gjelder og hvor disse er bosatt. Som tilknyttet person regnes
+
+1. selskap eller innretning som den skattepliktige, direkte eller indirekte, eier med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene i
+2. personer eller selskap eller innretning som, direkte eller indirekte, eier den skattepliktige med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene i den skattepliktige og
+3. selskap eller innretning som tilknyttede personer etter bokstav b eier med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene i.
+
+Anmodningen skal også inneholde opplysninger om den skattepliktiges direkte morselskap og hvor dette selskapet er bosatt, samt opplysninger om det ultimate morselskapet og hvor dette er bosatt.
 
 (9) Gebyr etter [§ 6-3-1](forskrift/2016-11-23-1360/§6-3-1) betales samtidig med at anmodningen sendes, og anmodningen skal inneholde de opplysninger som er nødvendige for beregningen av gebyret.
 
@@ -322,7 +362,13 @@ Anmodning om bindende forhåndsuttalelse skal sendes Oljeskattekontoret.
 
 (3) Anmodningen må gjelde en konkret, forestående disposisjon om realisasjon av gass. Utkast til avtale eller endelig avtale om realisasjon av naturgass skal sendes inn sammen med anmodningen.
 
-(4) Anmodningen skal inneholde opplysninger om tilknyttede personer til partene som disposisjonen gjelder og hvor disse er bosatt. Som tilknyttet person regnesselskap eller innretning som den skattepliktige, direkte eller indirekte, eier med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene ipersoner eller selskap eller innretning som, direkte eller indirekte, eier den skattepliktige med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene i den skattepliktige ogselskap eller innretning som tilknyttede personer etter bokstav b eier med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene i.Anmodningen skal også inneholde opplysninger om den skattepliktiges direkte morselskap og hvor dette selskapet er bosatt, samt opplysninger om det ultimate morselskapet og hvor dette er bosatt.
+(4) Anmodningen skal inneholde opplysninger om tilknyttede personer til partene som disposisjonen gjelder og hvor disse er bosatt. Som tilknyttet person regnes
+
+1. selskap eller innretning som den skattepliktige, direkte eller indirekte, eier med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene i
+2. personer eller selskap eller innretning som, direkte eller indirekte, eier den skattepliktige med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene i den skattepliktige og
+3. selskap eller innretning som tilknyttede personer etter bokstav b eier med minst 25 prosent av aksjekapitalen eller har en tilsvarende andel av stemmerettighetene i.
+
+Anmodningen skal også inneholde opplysninger om den skattepliktiges direkte morselskap og hvor dette selskapet er bosatt, samt opplysninger om det ultimate morselskapet og hvor dette er bosatt.
 
 (5) Anmodningen må inneholde opplysninger og dokumentasjon som godtgjør at prisen som ønskes lagt til grunn er markedsmessig. Det må redegjøres for alle forhold som kan påvirke prisen. Dette kan være leveringssted og leveringstidspunkt, risiko- og funksjonsdeling, fordeling av kostnader og rabatter osv. Relevant dokumentasjon kan være sammenlignbare priser i det uavhengige markedet, videresalgspris til tredjepart, faktisk noterte priser osv.
 
@@ -336,7 +382,11 @@ Oljeskattekontoret står fritt til å avvise en anmodning. Når det er klart at 
 
 (1) Oljeskattekontoret skal behandle anmodningen uten ugrunnet opphold etter at fullstendig anmodning foreligger.
 
-(2) Oljeskattekontoret kangodkjenne prisen selskapet har anmodet om å få lagt til grunn basert på den foreliggende søknad og øvrig faktumbe om en justering av avtalevilkårene ellerforeslå en justert pris eller sette vilkår for skatteformål.
+(2) Oljeskattekontoret kan
+
+1. godkjenne prisen selskapet har anmodet om å få lagt til grunn basert på den foreliggende søknad og øvrig faktum
+2. be om en justering av avtalevilkårene eller
+3. foreslå en justert pris eller sette vilkår for skatteformål.
 
 (3) Oljeskattekontoret fastsetter bindingsperioden for forhåndsuttalelsen etter en konkret vurdering.
 
@@ -366,7 +416,12 @@ Oljeskattekontoret står fritt til å avvise en anmodning. Når det er klart at 
 
 (2) En fellesanmodning som angår flere skisserte, fremtidige enkeltdisposisjoner, regnes som like mange gebyrpliktige anmodninger, med mindre disposisjonene har så sterk indre saklig og tidsmessig sammenheng at de anses som en samlet hoveddisposisjon. En fellesanmodning som angår flere skattepliktige, regnes også som like mange gebyrpliktige anmodninger, med mindre fellesanmodningen fremsettes av et selskap eller sameie som nevnt i [§ 6-1-2](forskrift/2016-11-23-1360/§6-1-2) annet ledd. Det regnes ikke som flere gebyrpliktige anmodninger, at den skisserte, fremtidige disposisjonen angår flere skattearter, flere skattleggingsperioder eller flere rettsspørsmål med skattemessige konsekvenser.
 
-(3) Gebyr for en bindende forhåndsuttalelse fra Oljeskattekontoret er 25 rettsgebyr. For øvrig utgjør gebyretet halvt rettsgebyr for anmodning som gjelder lønnstakere, pensjonister og deres boto rettsgebyr for anmodning som gjelder andre fysiske personer enn nevnt i bokstav a, deres bo og enkeltpersonforetak, samt ikke regnskapspliktig juridisk personåtte rettsgebyr for anmodning som gjelder andre, forutsatt at de regnes som små foretak etter grensene i [regnskapsloven § 1-5](lov/1998-07-17-56/§1-5). Dersom det samlede gebyr på grunn av antall deltakere i selskap eller sameie som nevnt i [§ 6-1-2](forskrift/2016-11-23-1360/§6-1-2) annet ledd og skattepliktige etter [merverdiavgiftsloven § 2-2](lov/2009-06-19-58/§2-2) annet og tredje ledd blir lavere ved anvendelse av dette ledds bokstav b, anvendes slik beregning15 rettsgebyr for anmodning som gjelder andre. Dette ledds bokstav c siste punktum gjelder tilsvarende.
+(3) Gebyr for en bindende forhåndsuttalelse fra Oljeskattekontoret er 25 rettsgebyr. For øvrig utgjør gebyret
+
+1. et halvt rettsgebyr for anmodning som gjelder lønnstakere, pensjonister og deres bo
+2. to rettsgebyr for anmodning som gjelder andre fysiske personer enn nevnt i bokstav a, deres bo og enkeltpersonforetak, samt ikke regnskapspliktig juridisk person
+3. åtte rettsgebyr for anmodning som gjelder andre, forutsatt at de regnes som små foretak etter grensene i [regnskapsloven § 1-5](lov/1998-07-17-56/§1-5). Dersom det samlede gebyr på grunn av antall deltakere i selskap eller sameie som nevnt i [§ 6-1-2](forskrift/2016-11-23-1360/§6-1-2) annet ledd og skattepliktige etter [merverdiavgiftsloven § 2-2](lov/2009-06-19-58/§2-2) annet og tredje ledd blir lavere ved anvendelse av dette ledds bokstav b, anvendes slik beregning
+4. 15 rettsgebyr for anmodning som gjelder andre. Dette ledds bokstav c siste punktum gjelder tilsvarende.
 
 (4) Gebyr for en anmodning bortfaller når anmodningen avvises etter [§ 6-1-5](forskrift/2016-11-23-1360/§6-1-5). Gebyret bortfaller også dersom en anmodning trekkes innen 14 dager etter at det er sendt brev om forventet saksbehandlingstid, jf. [skatteforvaltningsloven § 5-2](lov/2016-05-27-14/§5-2). Dersom en anmodning trekkes tilbake senere enn nevnt i forrige punktum, men før forhåndsuttalelsen er avsendt, fastsettes halvt gebyr.
 
@@ -464,7 +519,18 @@ Oljeskattekontoret står fritt til å avvise en anmodning. Når det er klart at 
 
 ### § 7-2-7. Utbetalinger til personer bosatt i utlandet
 
-For utbetalinger mv. til personer som fast eller midlertidig oppholder seg i utlandet gjelder:Utbetalinger vedrørende arbeid eller virksomhet utført i Norge skal det gis opplysninger om etter [skatteforvaltningsloven § 7-2](lov/2016-05-27-14/§7-2), uansett nedenstående bestemmelser. Det samme gjelder for arbeid og virksomhet på norsk kontinentalsokkel og dermed likestilt område, herunder arbeid og virksomhet om bord på skip tilknyttet slik virksomhet uansett om skipet er registrert i Norge (NOR eller NIS) eller i utlandet, jf. [petroleumsskatteloven § 1](lov/1975-06-13-35/§1). Lønn, honorar og annen godtgjørelse til utenlandske artister som er skattepliktige etter [artistskatteloven](lov/1996-12-13-87), er ikke omfattet av opplysningsplikten etter [skatteforvaltningsloven § 7-2](lov/2016-05-27-14/§7-2).Utbetalinger til personer som oppholder seg i utlandet, skal det gis opplysninger om etter [skatteforvaltningsloven § 7-2](lov/2016-05-27-14/§7-2), med mindre det er på det rene at mottakeren etter norske interne skatteregler ikke er å anse som bosatt i Norge (bosatt i utlandet). Dersom skatteplikten til Norge for mottakeren er bortfalt, gjelder bestemmelsene i bokstav a og c.Utbetalinger til personer som er bosatt i utlandet skal det gis opplysninger om i følgende tilfeller:Ytelser som har karakter av lønn eller annen godtgjørelse for arbeid, pensjon mv., jf. [skatteforvaltningsloven § 7-2 første ledd bokstav a](lov/2016-05-27-14/§7-2/ledd/1/bokstav/a) til c. Det er likevel ikke opplysningsplikt for lønnsutbetalinger til ansatte ved norske bedrifters faste driftssteder i land Norge har skatteavtale med, såfremt utbetalingene skal belastes regnskapet for vedkommende driftssted.Tantieme, gratiale og godtgjørelse (herunder pensjon) til direktør eller medlem av styre, kontrollkomité e.l. i selskap eller innretning hjemmehørende her i riket, jf. [skatteloven § 2-3 bokstav e](lov/1999-03-26-14/§2-3/bokstav/e) og [f](lov/1999-03-26-14/§2-3/bokstav/f). Opplysningsplikten gjelder uten hensyn til om Norge har frafalt beskatningsretten til slike godtgjørelser i skatteavtale med vedkommende land.Lønn og annen godtgjørelse for arbeid om bord på skip registrert i Norsk ordinært Skipsregister (NOR). Det er likevel ikke opplysningsplikt for lønnsutbetalinger til personer som er bosatt utenfor Norden og som er statsborgere i land utenfor EØS, når de er ansatt av en utenlandsk arbeidsgiver som driver næringsvirksomhet om bord.Lønn eller annen godtgjørelse for arbeid om bord på utenlandsk registrert skip befraktet av norsk rederi på bareboat basis, når mottakeren er bosatt i et annet nordisk land.Lønn eller annen godtgjørelse for arbeid om bord på skip registrert i Norsk Internasjonalt Skipsregister (NIS), når mottakeren er norsk statsborger, bosatt i et annet nordisk land eller statsborger i en EØS-stat.Det er likevel ikke opplysningsplikt for lønnsutbetalinger til personer bosatt utenfor Norden som er ansatt i hotell- og restaurantvirksomhet om bord på turistskip registrert i Norsk Internasjonalt Skipsregister (NIS).
+For utbetalinger mv. til personer som fast eller midlertidig oppholder seg i utlandet gjelder:
+
+1. Utbetalinger vedrørende arbeid eller virksomhet utført i Norge skal det gis opplysninger om etter [skatteforvaltningsloven § 7-2](lov/2016-05-27-14/§7-2), uansett nedenstående bestemmelser. Det samme gjelder for arbeid og virksomhet på norsk kontinentalsokkel og dermed likestilt område, herunder arbeid og virksomhet om bord på skip tilknyttet slik virksomhet uansett om skipet er registrert i Norge (NOR eller NIS) eller i utlandet, jf. [petroleumsskatteloven § 1](lov/1975-06-13-35/§1). Lønn, honorar og annen godtgjørelse til utenlandske artister som er skattepliktige etter [artistskatteloven](lov/1996-12-13-87), er ikke omfattet av opplysningsplikten etter [skatteforvaltningsloven § 7-2](lov/2016-05-27-14/§7-2).
+2. Utbetalinger til personer som oppholder seg i utlandet, skal det gis opplysninger om etter [skatteforvaltningsloven § 7-2](lov/2016-05-27-14/§7-2), med mindre det er på det rene at mottakeren etter norske interne skatteregler ikke er å anse som bosatt i Norge (bosatt i utlandet). Dersom skatteplikten til Norge for mottakeren er bortfalt, gjelder bestemmelsene i bokstav a og c.
+3. Utbetalinger til personer som er bosatt i utlandet skal det gis opplysninger om i følgende tilfeller:
+
+   1. Ytelser som har karakter av lønn eller annen godtgjørelse for arbeid, pensjon mv., jf. [skatteforvaltningsloven § 7-2 første ledd bokstav a](lov/2016-05-27-14/§7-2/ledd/1/bokstav/a) til c. Det er likevel ikke opplysningsplikt for lønnsutbetalinger til ansatte ved norske bedrifters faste driftssteder i land Norge har skatteavtale med, såfremt utbetalingene skal belastes regnskapet for vedkommende driftssted.
+   2. Tantieme, gratiale og godtgjørelse (herunder pensjon) til direktør eller medlem av styre, kontrollkomité e.l. i selskap eller innretning hjemmehørende her i riket, jf. [skatteloven § 2-3 bokstav e](lov/1999-03-26-14/§2-3/bokstav/e) og [f](lov/1999-03-26-14/§2-3/bokstav/f). Opplysningsplikten gjelder uten hensyn til om Norge har frafalt beskatningsretten til slike godtgjørelser i skatteavtale med vedkommende land.
+   3. Lønn og annen godtgjørelse for arbeid om bord på skip registrert i Norsk ordinært Skipsregister (NOR). Det er likevel ikke opplysningsplikt for lønnsutbetalinger til personer som er bosatt utenfor Norden og som er statsborgere i land utenfor EØS, når de er ansatt av en utenlandsk arbeidsgiver som driver næringsvirksomhet om bord.
+   4. Lønn eller annen godtgjørelse for arbeid om bord på utenlandsk registrert skip befraktet av norsk rederi på bareboat basis, når mottakeren er bosatt i et annet nordisk land.
+   5. Lønn eller annen godtgjørelse for arbeid om bord på skip registrert i Norsk Internasjonalt Skipsregister (NIS), når mottakeren er norsk statsborger, bosatt i et annet nordisk land eller statsborger i en EØS-stat.
+4. Det er likevel ikke opplysningsplikt for lønnsutbetalinger til personer bosatt utenfor Norden som er ansatt i hotell- og restaurantvirksomhet om bord på turistskip registrert i Norsk Internasjonalt Skipsregister (NIS).
 
 ### § 7-2-8. Fritak fra og utvidelse av opplysningsplikten
 
@@ -472,9 +538,38 @@ Skattedirektoratet kan i enkelttilfeller eller grupper av tilfelle frita fra opp
 
 ### § 7-2-9. Opplysningspliktens innhold
 
-(1) Det skal gis opplysninger omytelser som det skal svares arbeidsgiveravgift av, herunder lønn og annen godtgjørelse og trekkpliktige utgiftsgodtgjørelserpensjoner, uføreytelser og lignendeengangsutbetaling etter individuell pensjonsavtale og engangsutbetaling etter [innskuddspensjonsloven](lov/2000-11-24-81)trekk ved utbetaling av trygdepremier, premier til pensjonsordninger og fradragsberettiget fagforeningskontingentsærskilt fradrag for sjøfolkmerutgifter til losji, når arbeidstaker av hensyn til arbeidet må bo utenfor hjemmet og brakkeleie mv. er trukket i lønn eller er betalt direkte av arbeidstakerenforskuddstrekkytelser som det ikke skal svares arbeidsgiveravgift av, herundertrekkfri godtgjørelse til overnatting og kost, med antall døgn og beløptrekkfri godtgjørelse til kost ved reiser uten overnatting, med antall dager og beløptrekkfri bilgodtgjørelse, med antall kilometer og beløpandre trekkfrie utgiftsgodtgjørelserutbetalinger til næringsdrivende, eksklusiv merverdiavgiftandre lønnsopplysningspliktige ytelser.
+(1) Det skal gis opplysninger om
 
-(2) Arbeidsgivere på Svalbard skal gi opplysninger omvarigheten av arbeidsoppholdetall lønn, pensjon og andre ytelser som nevnt i [svalbardskatteloven § 3-1](lov/1996-11-29-68/§3-1)skatt og trygdeavgift som er fradratt som lønnstrekk, jf. [svalbardskatteloven § 3-1](lov/1996-11-29-68/§3-1)verdien av naturalytelser i periodenutgiftsgodtgjørelser i perioden, herundergodtgjørelse til overnatting og kost, med antall døgn og beløpgodtgjørelse til kost ved reiser uten overnattingbilgodtgjørelse, med antall kilometer og beløp.Det skal likevel ikke gis opplysninger om reiseutgifter som kun dekker utgifter som arbeidstakeren har pådratt seg i forbindelse med utførelse av arbeidet, når utgiftene dokumenteres i samsvar med fremlagt kvittering eller annet bilag som tilfredsstiller kravene i [bokføringsforskriften kapittel 5](forskrift/2004-12-01-1558/kap5), og dokumentasjonen vedlegges arbeidsgiverens regnskaper.at arbeidsgiver legger til grunn at innrapportert lønn eller annen godtgjørelse inngår i lønnstrekkordningen.
+1. ytelser som det skal svares arbeidsgiveravgift av, herunder lønn og annen godtgjørelse og trekkpliktige utgiftsgodtgjørelser
+2. pensjoner, uføreytelser og lignende
+3. engangsutbetaling etter individuell pensjonsavtale og engangsutbetaling etter [innskuddspensjonsloven](lov/2000-11-24-81)
+4. trekk ved utbetaling av trygdepremier, premier til pensjonsordninger og fradragsberettiget fagforeningskontingent
+5. særskilt fradrag for sjøfolk
+6. merutgifter til losji, når arbeidstaker av hensyn til arbeidet må bo utenfor hjemmet og brakkeleie mv. er trukket i lønn eller er betalt direkte av arbeidstakeren
+7. forskuddstrekk
+8. ytelser som det ikke skal svares arbeidsgiveravgift av, herunder
+
+   1. trekkfri godtgjørelse til overnatting og kost, med antall døgn og beløp
+   2. trekkfri godtgjørelse til kost ved reiser uten overnatting, med antall dager og beløp
+   3. trekkfri bilgodtgjørelse, med antall kilometer og beløp
+   4. andre trekkfrie utgiftsgodtgjørelser
+   5. utbetalinger til næringsdrivende, eksklusiv merverdiavgift
+9. andre lønnsopplysningspliktige ytelser.
+
+(2) Arbeidsgivere på Svalbard skal gi opplysninger om
+
+1. varigheten av arbeidsoppholdet
+2. all lønn, pensjon og andre ytelser som nevnt i [svalbardskatteloven § 3-1](lov/1996-11-29-68/§3-1)
+3. skatt og trygdeavgift som er fradratt som lønnstrekk, jf. [svalbardskatteloven § 3-1](lov/1996-11-29-68/§3-1)
+4. verdien av naturalytelser i perioden
+5. utgiftsgodtgjørelser i perioden, herunder
+
+   1. godtgjørelse til overnatting og kost, med antall døgn og beløp
+   2. godtgjørelse til kost ved reiser uten overnatting
+   3. bilgodtgjørelse, med antall kilometer og beløp.
+
+   Det skal likevel ikke gis opplysninger om reiseutgifter som kun dekker utgifter som arbeidstakeren har pådratt seg i forbindelse med utførelse av arbeidet, når utgiftene dokumenteres i samsvar med fremlagt kvittering eller annet bilag som tilfredsstiller kravene i [bokføringsforskriften kapittel 5](forskrift/2004-12-01-1558/kap5), og dokumentasjonen vedlegges arbeidsgiverens regnskaper.
+6. at arbeidsgiver legger til grunn at innrapportert lønn eller annen godtgjørelse inngår i lønnstrekkordningen.
 
 > Endret ved forskrifter [6 feb 2017 nr. 148](forskrift/2017-02-06-148), [18 des 2020 nr. 2989](forskrift/2020-12-18-2989) (med virkning for rapportering av opplysninger for 2020).
 
@@ -506,7 +601,15 @@ Arbeidsgiver som skal rapportere ytelser som nevnt [§ 7-2-9](forskrift/2016-11-
 
 (1) Opplysningspliktige som nevnt i [skatteforvaltningsloven § 7-3 første ledd](lov/2016-05-27-14/§7-3/ledd/1) skal gi opplysninger om finansielle forhold og forsikringer etter reglene i [kapittel B](forskrift/2016-11-23-1360/kapB).
 
-(2) Opplysningspliktige som nevnt i kapittel C skalregistrere seg hos amerikanske skattemyndigheter på en slik måte at de blir tildelt globalt identifikasjonsnummer (GIIN)fastslåhvor kontohavere og reelle rettighetshavere er skattemessig bosatt eller hjemmehørendeom kontohavere og reelle rettighetshavere er amerikanske statsborgereom kontohavere er ikke-deltakende finansielle institusjoner som definert i FATCA.gi enhver umiddelbar betaler av kildeskattepliktig betaling fra amerikansk kilde opplysninger som er nødvendige for å foreta trekk av amerikansk kildeskatt og innrapportere betalingen til amerikanske skattemyndigheter.
+(2) Opplysningspliktige som nevnt i kapittel C skal
+
+1. registrere seg hos amerikanske skattemyndigheter på en slik måte at de blir tildelt globalt identifikasjonsnummer (GIIN)
+2. fastslå
+
+   1. hvor kontohavere og reelle rettighetshavere er skattemessig bosatt eller hjemmehørende
+   2. om kontohavere og reelle rettighetshavere er amerikanske statsborgere
+   3. om kontohavere er ikke-deltakende finansielle institusjoner som definert i FATCA.
+3. gi enhver umiddelbar betaler av kildeskattepliktig betaling fra amerikansk kilde opplysninger som er nødvendige for å foreta trekk av amerikansk kildeskatt og innrapportere betalingen til amerikanske skattemyndigheter.
 
 (3) Skattedirektoratet kan gi retningslinjer om gjennomføring og begrense opplysningspliktene etter denne paragraf.
 
@@ -514,7 +617,30 @@ Arbeidsgiver som skal rapportere ytelser som nevnt [§ 7-2-9](forskrift/2016-11-
 
 ### § 7-3-2. Definisjoner
 
-(1) I denne forskrift [§ 7-3](forskrift/2016-11-23-1360/§7-3) menes med*kontohaver*: enhver person som er registrert eller identifisert som innehaver av en konto eller et produkt som nevnt i [§ 7-3-3](forskrift/2016-11-23-1360/§7-3-3). I forsikringsforhold skal en person i alle tilfelle regnes som kontohaver dersom vedkommendeer navngitt som skadelidt eller forsikrethar rett til å motta utbetaling fra en forsikringsavtale med gjenkjøpsverdi eller en livrente som har forfalt til utbetalinger berettiget til å få tilgang til en gjenkjøpsverdi eller har rett til å endre begunstigede. Dersom ingen person kan få tilgang til en gjenkjøpsverdi eller endre begunstigede, skal enhver person som er navngitt som eier eller som har en personlig rett til utbetaling etter forsikringsavtalen regnes som kontohaver.Etter kapittel C til J skal andre enn finansielle institusjoner som opptrer profesjonelt på vegne av en annen person ikke anses som kontohaver.*reelle rettighetshavere*: fysisk person som nevnt i [hvitvaskingsloven § 2 bokstav e](lov/2018-06-01-23/§2/bokstav/e) og [§ 14](lov/2018-06-01-23/§14)*globalt identifikasjonsnummer (GIIN)*: identifikasjonsnummer tildelt av amerikanske skattemyndigheter ved registrering*dokumentbevis*:dokumentasjon på bosted utstedt av relevant myndighet der fysisk person er bosatt,gyldig pass, identitetskort eller lignende dokument utstedt av bemyndiget offentlig organ for legitimasjonsformåloffisiell dokumentasjon utstedt av et bemyndiget offentlig organ som inneholder en enhets navn og adresse til enhetens hovedkontor i jurisdiksjonen hvor enheten er hjemmehørende eller den ble stiftet eller opprettetrevidert regnskap, kredittrapport utstedt av tredjepart, konkurskjennelse, og dokumentasjon utstedt av offentlig tilsynsmyndighet.*enhet*: enhver juridisk person, stiftelse, fond, institusjon, organisasjon eller annen innretning eller sammenslutning*nærstående enhet*: en enhet er en nærstående enhet til en annen enhet dersom en av enhetene kontrollerer den andre enheten, eller enhetene er under felles kontroll. En enhet anses å være under kontroll når direkte eller indirekte eierskap overstiger 50 prosent av en enhets stemmer og verdi. Verdipapirfond og alternative investeringsfond anses å være nærstående enheter dersom de er under felles forvaltning.*finansielle produkter:* finansielle instrumenter som definert i [verdipapirhandelloven § 2-2](lov/2007-06-29-75/§2-2), omsettelige andeler i deltakerlignende selskap mv., forsikringsavtaler og livrenter mv., samt enhver rettighet i kryptoeiendeler eller forannevnte aktiva. Direkte eierinteresser i fast eiendom, herunder andeler i boligselskap og borettslag, og råvarer som er fysisk vare omfattes ikke.*etablert verdipapirmarked*: et marked for handel med verdipapirer som er offisielt anerkjent og som overvåkes av offentlig myndighet der markedet er lokalisert, og som har hatt en årlig omsetning som oversteg USD 1 000 000 000 hvert av de tre foregående årene*ikke-deltakende finansiell institusjon som definert i FATCA*: enhet som definert i [artikkel 1](forskrift/2016-11-23-1360/a1) punkt 1 r i avtale av 15. april 2013 mellom Norge og USA om forbedret internasjonal overholdelse av skattelovgivningen og gjennomføring av FATCA.*spesifisert elektronisk pengeprodukt:* en digital representasjon av en bestemt offisiell valuta utstedt for å utføre betalingstransaksjoner, som er representert ved en fordring på utstederen etter mottak av midler, anerkjent som betalingsmiddel av andre enn utstederen, og som kan innløses når som helst til samme pålydende verdi i den samme valutaen som den er utstedt i.*digitale sentralbankpenger:* digital offisiell valuta utstedt av en sentralbank.
+(1) I denne forskrift [§ 7-3](forskrift/2016-11-23-1360/§7-3) menes med
+
+1. *kontohaver*: enhver person som er registrert eller identifisert som innehaver av en konto eller et produkt som nevnt i [§ 7-3-3](forskrift/2016-11-23-1360/§7-3-3). I forsikringsforhold skal en person i alle tilfelle regnes som kontohaver dersom vedkommende
+
+   1. er navngitt som skadelidt eller forsikret
+   2. har rett til å motta utbetaling fra en forsikringsavtale med gjenkjøpsverdi eller en livrente som har forfalt til utbetaling
+   3. er berettiget til å få tilgang til en gjenkjøpsverdi eller har rett til å endre begunstigede. Dersom ingen person kan få tilgang til en gjenkjøpsverdi eller endre begunstigede, skal enhver person som er navngitt som eier eller som har en personlig rett til utbetaling etter forsikringsavtalen regnes som kontohaver.
+
+   Etter kapittel C til J skal andre enn finansielle institusjoner som opptrer profesjonelt på vegne av en annen person ikke anses som kontohaver.
+2. *reelle rettighetshavere*: fysisk person som nevnt i [hvitvaskingsloven § 2 bokstav e](lov/2018-06-01-23/§2/bokstav/e) og [§ 14](lov/2018-06-01-23/§14)
+3. *globalt identifikasjonsnummer (GIIN)*: identifikasjonsnummer tildelt av amerikanske skattemyndigheter ved registrering
+4. *dokumentbevis*:
+
+   1. dokumentasjon på bosted utstedt av relevant myndighet der fysisk person er bosatt,
+   2. gyldig pass, identitetskort eller lignende dokument utstedt av bemyndiget offentlig organ for legitimasjonsformål
+   3. offisiell dokumentasjon utstedt av et bemyndiget offentlig organ som inneholder en enhets navn og adresse til enhetens hovedkontor i jurisdiksjonen hvor enheten er hjemmehørende eller den ble stiftet eller opprettet
+   4. revidert regnskap, kredittrapport utstedt av tredjepart, konkurskjennelse, og dokumentasjon utstedt av offentlig tilsynsmyndighet.
+5. *enhet*: enhver juridisk person, stiftelse, fond, institusjon, organisasjon eller annen innretning eller sammenslutning
+6. *nærstående enhet*: en enhet er en nærstående enhet til en annen enhet dersom en av enhetene kontrollerer den andre enheten, eller enhetene er under felles kontroll. En enhet anses å være under kontroll når direkte eller indirekte eierskap overstiger 50 prosent av en enhets stemmer og verdi. Verdipapirfond og alternative investeringsfond anses å være nærstående enheter dersom de er under felles forvaltning.
+7. *finansielle produkter:* finansielle instrumenter som definert i [verdipapirhandelloven § 2-2](lov/2007-06-29-75/§2-2), omsettelige andeler i deltakerlignende selskap mv., forsikringsavtaler og livrenter mv., samt enhver rettighet i kryptoeiendeler eller forannevnte aktiva. Direkte eierinteresser i fast eiendom, herunder andeler i boligselskap og borettslag, og råvarer som er fysisk vare omfattes ikke.
+8. *etablert verdipapirmarked*: et marked for handel med verdipapirer som er offisielt anerkjent og som overvåkes av offentlig myndighet der markedet er lokalisert, og som har hatt en årlig omsetning som oversteg USD 1 000 000 000 hvert av de tre foregående årene
+9. *ikke-deltakende finansiell institusjon som definert i FATCA*: enhet som definert i [artikkel 1](forskrift/2016-11-23-1360/a1) punkt 1 r i avtale av 15. april 2013 mellom Norge og USA om forbedret internasjonal overholdelse av skattelovgivningen og gjennomføring av FATCA.
+10. *spesifisert elektronisk pengeprodukt:* en digital representasjon av en bestemt offisiell valuta utstedt for å utføre betalingstransaksjoner, som er representert ved en fordring på utstederen etter mottak av midler, anerkjent som betalingsmiddel av andre enn utstederen, og som kan innløses når som helst til samme pålydende verdi i den samme valutaen som den er utstedt i.
+11. *digitale sentralbankpenger:* digital offisiell valuta utstedt av en sentralbank.
 
 (2) Definisjonene av kryptoeiendel og opplysningspliktig kryptoeiendel i [§ 7-12-1](forskrift/2016-11-23-1360/§7-12-1) gjelder tilsvarende for [§ 7-3](forskrift/2016-11-23-1360/§7-3).
 
@@ -528,13 +654,65 @@ Arbeidsgiver som skal rapportere ytelser som nevnt [§ 7-2-9](forskrift/2016-11-
 
 (1) Opplysningspliktige som nevnt i [skatteforvaltningsloven § 7-3 første ledd](lov/2016-05-27-14/§7-3/ledd/1) skal gi opplysninger om finansielle forhold og forsikringer.
 
-(2) Opplysningsplikten omfatterinnskudd og utlånboligsparing for ungdomspesifiserte elektroniske pengeprodukterfinansielle produkter egnet for investeringsformålinnskudd i verdipapirfondgjelds- og egenkapitalsinteresser i alternative investeringsfondinnskudd og interesser i andre investeringsenheterforsikringerlivrenterinnskudd i individuelle pensjonsavtaleravtaler om individuell sparing til pensjondigitale sentralbankpenger.
+(2) Opplysningsplikten omfatter
+
+1. innskudd og utlån
+2. boligsparing for ungdom
+3. spesifiserte elektroniske pengeprodukter
+4. finansielle produkter egnet for investeringsformål
+5. innskudd i verdipapirfond
+6. gjelds- og egenkapitalsinteresser i alternative investeringsfond
+7. innskudd og interesser i andre investeringsenheter
+8. forsikringer
+9. livrenter
+10. innskudd i individuelle pensjonsavtaler
+11. avtaler om individuell sparing til pensjon
+12. digitale sentralbankpenger.
 
 > Endret ved [forskrifter 14 aug 2017 nr. 1253](forskrift/2017-08-14-1253), [3 nov 2017 nr. 1718](forskrift/2017-11-03-1718), [14 des 2018 nr. 2005](forskrift/2018-12-14-2005), [5 feb 2019 nr. 69](forskrift/2019-02-05-69) (i kraft 14 des 2018), [25 juni 2025 nr. 1297](forskrift/2025-06-25-1297).
 
 ### § 7-3-4. Opplysningspliktens innhold
 
-(1) Det skal gis opplysninger omopplysningspliktigenavnadresseorganisasjonsnummerglobalt identifikasjonsnummer (GIIN)den enkelte kontohaver, disponent, investor, forsikringstaker, forsikrede og mottaker av utbetalinger og reelle rettighetshaver mv.navnadresse med landkodefødselsdatofødselsnummer, D-nummer eller organisasjonsnummerlandkode som viserhvor kontohavere og reelle rettighetshavere er skattemessig bosatt eller hjemmehørendenår kontohavere og reelle rettighetshavere er amerikanske statsborgereutenlandske identifikasjonsnumre med landkode for utstederlandom det er gitt en gyldig egenerklæringrollene til reelle rettighetshavereom konto er eksisterende eller nykontotypeom en konto har flere kontohavere.finans- og forsikringsprodukterhvilken type produkt opplysningene gjelderkontonummer eller annet nummer hvor produktet er registrertsaldo eller formuesverdi ved utgangen av skattleggingsperiodenrenter, utbytte og annen inntekt eller utbetaling, og angivelse av utbetalingstypekildeskatt på utbyttegjeldsrentersalgsvederlag, gevinst og tap, herunder valutagevinst og valutatap. Dette gjelder likevel ikke inntekter fra salg eller innløsning av en finansiell eiendel som allerede er rapportert etter [7-12-7](forskrift/2016-11-23-1360/§7-12-7)beholdning, erverv, overdragelse og utlån av finansielle instrumenter og andre finansielle produkterskattepliktige beløp og andre forhold som har betydning for skattleggingen, herunder skjermingsgrunnlag og aksjeandelen i verdipapirfondretur av forsikringspremie (ristornering)landkode som viserhvor kontohavere og reelle rettighetshavere er skattemessig bosatt eller hjemmehørendenår kontohavere og reelle rettighetshavere er amerikanske statsborgere.
+(1) Det skal gis opplysninger om
+
+1. opplysningspliktige
+
+   1. navn
+   2. adresse
+   3. organisasjonsnummer
+   4. globalt identifikasjonsnummer (GIIN)
+2. den enkelte kontohaver, disponent, investor, forsikringstaker, forsikrede og mottaker av utbetalinger og reelle rettighetshaver mv.
+
+   1. navn
+   2. adresse med landkode
+   3. fødselsdato
+   4. fødselsnummer, D-nummer eller organisasjonsnummer
+   5. landkode som viser
+
+      1. hvor kontohavere og reelle rettighetshavere er skattemessig bosatt eller hjemmehørende
+      2. når kontohavere og reelle rettighetshavere er amerikanske statsborgere
+   6. utenlandske identifikasjonsnumre med landkode for utstederland
+   7. om det er gitt en gyldig egenerklæring
+   8. rollene til reelle rettighetshavere
+   9. om konto er eksisterende eller ny
+   10. kontotype
+   11. om en konto har flere kontohavere.
+3. finans- og forsikringsprodukter
+
+   1. hvilken type produkt opplysningene gjelder
+   2. kontonummer eller annet nummer hvor produktet er registrert
+   3. saldo eller formuesverdi ved utgangen av skattleggingsperioden
+   4. renter, utbytte og annen inntekt eller utbetaling, og angivelse av utbetalingstype
+   5. kildeskatt på utbytte
+   6. gjeldsrenter
+   7. salgsvederlag, gevinst og tap, herunder valutagevinst og valutatap. Dette gjelder likevel ikke inntekter fra salg eller innløsning av en finansiell eiendel som allerede er rapportert etter [7-12-7](forskrift/2016-11-23-1360/§7-12-7)
+   8. beholdning, erverv, overdragelse og utlån av finansielle instrumenter og andre finansielle produkter
+   9. skattepliktige beløp og andre forhold som har betydning for skattleggingen, herunder skjermingsgrunnlag og aksjeandelen i verdipapirfond
+   10. retur av forsikringspremie (ristornering)
+   11. landkode som viser
+
+       1. hvor kontohavere og reelle rettighetshavere er skattemessig bosatt eller hjemmehørende
+       2. når kontohavere og reelle rettighetshavere er amerikanske statsborgere.
 
 (2) Opplysninger skal også innsendes for den skattleggingsperiode en konto er avsluttet, og det skal angis at kontoen er avsluttet. Dersom en avsluttet konto er merket med amerikansk landkode, skal også saldo eller verdi umiddelbart før avslutning av kontoen oppgis.
 
@@ -548,11 +726,26 @@ Arbeidsgiver som skal rapportere ytelser som nevnt [§ 7-2-9](forskrift/2016-11-
 
 (7) (Opphevet)
 
-(8) For skadeforsikringer skal det gis opplysninger omalle utbetalinger ved personskade som skal dekke ervervstap frem til oppgjørstidspunktet og for et tidfestet fremtidig tidsrom. Alle periodiske utbetalinger ved personskade, med unntak av dagpenger som utbetales i privat syke- og ulykkesforsikring med inntil 20 kroner pr. dag, jf. [skatteloven § 5-15 første ledd bokstav j](lov/1999-03-26-14/§5-15/ledd/1/bokstav/j) [nr. 4](lov/1999-03-26-14/§5-15/ledd/1/nummer/4)renter på alle utbetalingerretur av forsikringspremie (ristornering), som i året overstiger kr 25 000 pr. forsikringstakeralle andre utbetalinger i året som overstiger kr 100 000 på en enkelt forsikring. Ved avgjørelsen av om en utbetaling overstiger kr 100 000 i året skal det legges til grunn den samlede utbetaling, eksklusiv eventuell rentegodtgjørelse, til samme mottaker vedrørende samme skadetilfelle. Ansvarlige selskaper og sameiere regnes som en mottaker.Det skal ikke gis opplysninger om utbetaling fra garanti- og kredittforsikringsselskaper og reassuranseselskaper etter [§ 7-3-4](forskrift/2016-11-23-1360/§7-3-4). Det samme gjelder utbetalinger på skipskaskoforsikringer (tingskade), P & I (Protection and Indemnity), energiforsikringer og utbetalinger til stat, kommune eller fylkeskommune.
+(8) For skadeforsikringer skal det gis opplysninger om
 
-(9) For livsforsikringer skal det gis opplysninger omalle utbetalinger av livrenter (herunder overlevelsesrenter). Opplysningene om livrenter (herunder overlevelsesrenter) skal inneholde skattepliktig eller fradragsberettiget del av det oppgitte beløp angitt i hele kroner.uførerenteralle utbetalinger i henhold til livsforsikring (kapitalforsikring)utbetaling av livsforsikring tegnet og betalt av arbeidsgiver til fordel for arbeidstaker, medeier, aksjonær eller disses nærmeste familie, jf. [skatteloven § 10-11 (2) femte punktum](lov/1999-03-26-14/§10-11/ledd/2/setning/5), skal angis særskilt.
+1. alle utbetalinger ved personskade som skal dekke ervervstap frem til oppgjørstidspunktet og for et tidfestet fremtidig tidsrom. Alle periodiske utbetalinger ved personskade, med unntak av dagpenger som utbetales i privat syke- og ulykkesforsikring med inntil 20 kroner pr. dag, jf. [skatteloven § 5-15 første ledd bokstav j](lov/1999-03-26-14/§5-15/ledd/1/bokstav/j) [nr. 4](lov/1999-03-26-14/§5-15/ledd/1/nummer/4)
+2. renter på alle utbetalinger
+3. retur av forsikringspremie (ristornering), som i året overstiger kr 25 000 pr. forsikringstaker
+4. alle andre utbetalinger i året som overstiger kr 100 000 på en enkelt forsikring. Ved avgjørelsen av om en utbetaling overstiger kr 100 000 i året skal det legges til grunn den samlede utbetaling, eksklusiv eventuell rentegodtgjørelse, til samme mottaker vedrørende samme skadetilfelle. Ansvarlige selskaper og sameiere regnes som en mottaker.
 
-(10) For individuelle pensjonsordninger skal opplysningene også inneholde:innbetalt premie eller innskudd til individuelle pensjonsavtaler samt årlig avtalt vederlag for administrasjon av pensjonsavtalen, retur av premie og innestående beløp på premiefond per 1. januar i året etter skattleggingsperioden. Utbetalinger skal innrapporteres etter denne forskrift [§ 7-2](forskrift/2016-11-23-1360/§7-2).innbetalt innskudd til avtaler om individuell sparing til pensjon, vederlag for eventuell forsikring knyttet til avtalen, vederlag for administrasjon av avtalen og utbetalinger fra slike avtaler.
+Det skal ikke gis opplysninger om utbetaling fra garanti- og kredittforsikringsselskaper og reassuranseselskaper etter [§ 7-3-4](forskrift/2016-11-23-1360/§7-3-4). Det samme gjelder utbetalinger på skipskaskoforsikringer (tingskade), P & I (Protection and Indemnity), energiforsikringer og utbetalinger til stat, kommune eller fylkeskommune.
+
+(9) For livsforsikringer skal det gis opplysninger om
+
+1. alle utbetalinger av livrenter (herunder overlevelsesrenter). Opplysningene om livrenter (herunder overlevelsesrenter) skal inneholde skattepliktig eller fradragsberettiget del av det oppgitte beløp angitt i hele kroner.
+2. uførerenter
+3. alle utbetalinger i henhold til livsforsikring (kapitalforsikring)
+4. utbetaling av livsforsikring tegnet og betalt av arbeidsgiver til fordel for arbeidstaker, medeier, aksjonær eller disses nærmeste familie, jf. [skatteloven § 10-11 (2) femte punktum](lov/1999-03-26-14/§10-11/ledd/2/setning/5), skal angis særskilt.
+
+(10) For individuelle pensjonsordninger skal opplysningene også inneholde:
+
+1. innbetalt premie eller innskudd til individuelle pensjonsavtaler samt årlig avtalt vederlag for administrasjon av pensjonsavtalen, retur av premie og innestående beløp på premiefond per 1. januar i året etter skattleggingsperioden. Utbetalinger skal innrapporteres etter denne forskrift [§ 7-2](forskrift/2016-11-23-1360/§7-2).
+2. innbetalt innskudd til avtaler om individuell sparing til pensjon, vederlag for eventuell forsikring knyttet til avtalen, vederlag for administrasjon av avtalen og utbetalinger fra slike avtaler.
 
 (11) Skattedirektoratet kan gi nærmere retningslinjer for hvordan konti som er gjennomgått etter kapittel D til I skal merkes. Dersom samlet saldo på innskuddskonti som eies eller rådes over av en fysisk person ikke overstiger USD 50 000 ved utgangen av skattleggingsperioden, er det ikke påkrevet å merke med landkode for USA.
 
@@ -574,7 +767,22 @@ Arbeidsgiver som skal rapportere ytelser som nevnt [§ 7-2-9](forskrift/2016-11-
 
 ### § 7-3-6. Finansielle institusjoner
 
-(1) Pliktene etter kapittel D til J gjelder forinnskuddsinstitusjoner:enheter som mottar innskudd som ledd i ordinær bankvirksomhet eller liknende forretningsvirksomhet, samt enheter som yter kreditt og som tillater at kunden betaler inn et beløp som overstiger utestående uten at dette umiddelbart blir tilbakeført til kundenenheter som oppbevarer spesifiserte elektroniske pengeprodukter eller digitale sentralbankpenger på vegne av kundenforvaringsinstitusjoner: enheter som oppbevarer eller forvalter produkter for andres regning. Dette gjelder likevel ikke når mindre enn 20 prosent av enhetens inntekter skriver seg fra oppbevaring og forvaltning av finansielle aktiva og relaterte finansielle tjenester de tre siste regnskapsår eller den periode enheten har eksistert om det er kortere. Verdipapirkonto i verdipapirregister som føres av ekstern registerfører, anses for å være oppbevart eller forvaltet av registerfører, og ikke av verdipapirregisteret.spesifiserte forsikringsforetak: forsikringsforetak, forsikringsforetaks eierselskap og andre som utsteder eller er forpliktet til å foreta utbetalinger etter en forsikringsavtale med gjenkjøpsverdi, eller til å foreta utbetalinger etter en pensjonsavtale, en livrente, eller etter en annen avtale, når tidsperioden for utbetalingen er helt eller delvis bestemt under henvisning til en eller flere fysiske personers forventede levealder. Andre enn forsikringsforetak omfattes bare dersom bruttoinntektene fra forsikring, gjenforsikring, pensjonsavtaler og livrenter oversteg 50 prosent av bruttoinntektene forrige inntektsår, eller totalverdien av eiendeler knyttet til slike avtaler oversteg 50 prosent av totale eiendeler på et tidspunkt forrige inntektsår.investeringsenheter:enheter som har 50 prosent eller mer av sin bruttoinntekt de tre siste regnskapsår forut for året vurderingen gjøres fra én eller flere av følgende aktiviteter eller operasjoner, utøvet i forretningsvirksomhet for eller på vegne av en kundeomsetning av pengemarkedsinstrumenter (sjekker, veksler, banksertifikater, derivater osv.), utenlandsk valuta, børs-, rente- og indeksinstrumenter, omsettelige verdipapirer eller råvareterminkontrakterindividuell og kollektiv porteføljeforvaltning ellerannen form for investering, administrasjon eller forvaltning av midler, penger eller kryptoeiendeler på vegne av andre personer.enheter som har inntekter som hovedsakelig kan henføres til investering, reinvestering eller omsetning av finansielle produkter og kryptoeiendeler, og som styres, forvaltes eller på annen måte ledes av enhet som oppfyller vilkårene nevnt i bokstav a til c, eller bokstav d nr. 1.
+(1) Pliktene etter kapittel D til J gjelder for
+
+1. innskuddsinstitusjoner:
+
+   1. enheter som mottar innskudd som ledd i ordinær bankvirksomhet eller liknende forretningsvirksomhet, samt enheter som yter kreditt og som tillater at kunden betaler inn et beløp som overstiger utestående uten at dette umiddelbart blir tilbakeført til kunden
+   2. enheter som oppbevarer spesifiserte elektroniske pengeprodukter eller digitale sentralbankpenger på vegne av kunden
+2. forvaringsinstitusjoner: enheter som oppbevarer eller forvalter produkter for andres regning. Dette gjelder likevel ikke når mindre enn 20 prosent av enhetens inntekter skriver seg fra oppbevaring og forvaltning av finansielle aktiva og relaterte finansielle tjenester de tre siste regnskapsår eller den periode enheten har eksistert om det er kortere. Verdipapirkonto i verdipapirregister som føres av ekstern registerfører, anses for å være oppbevart eller forvaltet av registerfører, og ikke av verdipapirregisteret.
+3. spesifiserte forsikringsforetak: forsikringsforetak, forsikringsforetaks eierselskap og andre som utsteder eller er forpliktet til å foreta utbetalinger etter en forsikringsavtale med gjenkjøpsverdi, eller til å foreta utbetalinger etter en pensjonsavtale, en livrente, eller etter en annen avtale, når tidsperioden for utbetalingen er helt eller delvis bestemt under henvisning til en eller flere fysiske personers forventede levealder. Andre enn forsikringsforetak omfattes bare dersom bruttoinntektene fra forsikring, gjenforsikring, pensjonsavtaler og livrenter oversteg 50 prosent av bruttoinntektene forrige inntektsår, eller totalverdien av eiendeler knyttet til slike avtaler oversteg 50 prosent av totale eiendeler på et tidspunkt forrige inntektsår.
+4. investeringsenheter:
+
+   1. enheter som har 50 prosent eller mer av sin bruttoinntekt de tre siste regnskapsår forut for året vurderingen gjøres fra én eller flere av følgende aktiviteter eller operasjoner, utøvet i forretningsvirksomhet for eller på vegne av en kunde
+
+      1. omsetning av pengemarkedsinstrumenter (sjekker, veksler, banksertifikater, derivater osv.), utenlandsk valuta, børs-, rente- og indeksinstrumenter, omsettelige verdipapirer eller råvareterminkontrakter
+      2. individuell og kollektiv porteføljeforvaltning eller
+      3. annen form for investering, administrasjon eller forvaltning av midler, penger eller kryptoeiendeler på vegne av andre personer.
+   2. enheter som har inntekter som hovedsakelig kan henføres til investering, reinvestering eller omsetning av finansielle produkter og kryptoeiendeler, og som styres, forvaltes eller på annen måte ledes av enhet som oppfyller vilkårene nevnt i bokstav a til c, eller bokstav d nr. 1.
 
 (2) Første ledd omfatter enheter hjemmehørende i Norge og filialer etablert i Norge av enheter hjemmehørende i utlandet. Utenlandske filialer av enheter hjemmehørende i Norge omfattes ikke. Enheter etablert på Svalbard, Jan Mayen og de norske biland omfattes ikke.
 
@@ -582,23 +790,114 @@ Arbeidsgiver som skal rapportere ytelser som nevnt [§ 7-2-9](forskrift/2016-11-
 
 ### § 7-3-7. Fritatte finansielle institusjoner
 
-(1) Pliktene etter kapittel D til J gjelder ikkeden norske stat, fylker, kommuner og deres heleide organer og virksomheter, herunder Statens pensjonsfond utland, Folketrygdfondet og Statens pensjonsfond Norge, i den utstrekning aktiviteten ikke utøves som forretningsvirksomhetNorges Bank, i den utstrekning aktiviteten ikke utøves som forretningsvirksomhetmellomstatlige og overstatlige organisasjoner (internasjonale organisasjoner) somer opprettet gjennom en overenskomst mellom flere stater eller jurisdiksjonerer gitt immunitet og privilegium, jf. [lov 19. juni 1947 nr. 5](lov/1947-06-19-5) ogikke har inntekter som kommer privatpersoner til godepensjonskasser (jf. [finansforetaksloven § 2-16](lov/2015-04-10-17/§2-16))private pensjonsfond opprettet før 1968 (jf. [foretakspensjonsloven § 16-2](lov/2000-03-24-16/§16-2) 23. ledd)innskuddspensjonsforetak (jf. [finansforetaksloven § 2-17](lov/2015-04-10-17/§2-17))kredittkortutstedere som omfattes av [§ 7-3-6](forskrift/2016-11-23-1360/§7-3-6) utelukkende fordi de har konti nevnt i [§ 7-3-9 første ledd bokstav f](forskrift/2016-11-23-1360/§7-3-9/ledd/1/bokstav/f).allmennyttige organisasjoner som nevnt i [§ 7-3-22 tredje ledd bokstav a nr. 8](forskrift/2016-11-23-1360/§7-3-22/ledd/3/bokstav/a/nummer/8) og som fremgår av Skatteetatens liste over godkjente organisasjoner for gavefradrag.
+(1) Pliktene etter kapittel D til J gjelder ikke
 
-(2) Plikten til å identifisere kontohavere og reelle rettighetshavere som er skattemessig bosatt eller hjemmehørende i USA, amerikanske statsborgere, og ikke-deltakende finansielle institusjoner som definert i FATCA, gjelder uansett første ledd ikkeallmennyttig organisasjon: stiftelse, fond, institusjon, organisasjon eller annen innretning som er fritatt fra skatteplikt etter [skatteloven § 2-32](lov/1999-03-26-14/§2-32)lokal kredittforening somikke har erverv til formålmottar innskudd og gir lån til medlemmer, og ikke noe medlem har mer enn 5 prosent av låne- eller innskuddskapitalenikke har fast forretningssted utenfor Norgeikke aktivt søker kunder utenfor Norge, herunder ikke tillater åpning av konto via internettside oghar en total forvaltningskapital som ikke overstiger USD 175 000 000. Dersom kredittforeningen har nærstående finansielle institusjoner, kan samlet forvaltet beløp ikke overstige USD 500 000 000.lokal bank: bank som har norsk konsesjon og somutelukkende driver ordinær bankvirksomhet i Norge ved å ta imot innskudd og yte kredittikke har fast forretningssted utenfor Norgeikke aktivt søker kunder utenfor Norge, herunder ikke tillater åpning av konti via internettsideforvaltningskapitalen ikke overstiger USD 175 000 000 ogdersom banken har nærstående enhet som er finansiell institusjon, må den være stiftet eller opprettet i Norge og oppfylle vilkårene listet opp over. Forvaltningskapitalen etter nr. 4 skal samlet ikke overstige USD 500 000 000.finansiell institusjon som forvalter lave verdier: opplysningspliktig som nevnt i [§ 7-3-6 første ledd bokstav a](forskrift/2016-11-23-1360/§7-3-6/ledd/1/bokstav/a) til c, og som ikke har konti med verdi som overstiger USD 50 000, og total forvaltningskapital ikke overstiger USD 50 000 000. Verdien på alle kundenes konti skal summeres dersom det er mulig. Dersom en nærstående enhet er en finansiell institusjon, skal enhetenes samlede forvaltningskapital ikke overstige USD 50 000 000.verdipapirfond og alternative investeringsfond, dersom samtlige innskudd (herunder gjeldsinteresser som overstiger USD 50 000) eies eller rådes over av én eller flere finansielle institusjoner som ikke er ikke-deltakende finansielle institusjoner som definert i FATCAsmå finansielle institusjoner med lokal kundebase: finansielle institusjonersom har konsesjon og er regulert etter norsk lovgivning, eller forvaltes av virksomhet som har slik tillatelsesom ikke har fast forretningssted utenfor Norgesom ikke markedsfører seg til kunder eller kontohavere utenfor Norgesom etter norske skatteregler har plikt til å gi opplysninger om, eller trekke skatt av, samtlige konti som nevnt i kapittel Chvor minst 98 prosent av verdien av konti som definert i [§ 7-3-8](forskrift/2016-11-23-1360/§7-3-8) eies eller rådes over av personer bosatt eller hjemmehørende i Norge eller annen EØS-statsom har retningslinjer og rutiner for å identifisere konti som eies eller rådes over avfysisk person som er skattepliktig til USAenhet som er hjemmehørende i USA, unntatt enhet nevnt i [§ 7-3-21 annet ledd](forskrift/2016-11-23-1360/§7-3-21/ledd/2)ikke-deltakende finansiell institusjon som definert i FATCA ogenhet som hovedsakelig har passive inntekter som nevnt i [§ 7-3-22](forskrift/2016-11-23-1360/§7-3-22), og reelle rettighetshavere er skattepliktige til USAsom går gjennom eksisterende konto etter reglene i kapittel D, jf. kapittel F, H og Isom gir opplysninger om konti som eies eller rådes over av kontohaver som nevnt i nr. 6 etter regler i [skatteforvaltningsloven kapittel 7](lov/2016-05-27-14/kap7) eller trekker skatt etter [skattebetalingsloven](lov/2005-06-17-67)som ikke har retningslinjer eller praksis som diskriminerer amerikanske statsborgere eller personer skattemessig bosatt i USA som er bosatt i Norge som oppretter, eier eller råder over konti oghvor hver nærstående enhet av den opplysningspliktige som er en finansiell institusjon er etablert eller registrert i Norge og oppfyller disse kravene.den norske stat, fylker, kommuner og deres heleide organer og virksomheter, herunder Statens pensjonsfond utland, Folketrygdfondet og Statens pensjonsfond Norge, Norges Bank, samt mellomstatlige og overstatlige organisasjonerNorges Banks heleide datterselskaper.
+1. den norske stat, fylker, kommuner og deres heleide organer og virksomheter, herunder Statens pensjonsfond utland, Folketrygdfondet og Statens pensjonsfond Norge, i den utstrekning aktiviteten ikke utøves som forretningsvirksomhet
+2. Norges Bank, i den utstrekning aktiviteten ikke utøves som forretningsvirksomhet
+3. mellomstatlige og overstatlige organisasjoner (internasjonale organisasjoner) som
+
+   1. er opprettet gjennom en overenskomst mellom flere stater eller jurisdiksjoner
+   2. er gitt immunitet og privilegium, jf. [lov 19. juni 1947 nr. 5](lov/1947-06-19-5) og
+   3. ikke har inntekter som kommer privatpersoner til gode
+4. pensjonskasser (jf. [finansforetaksloven § 2-16](lov/2015-04-10-17/§2-16))
+5. private pensjonsfond opprettet før 1968 (jf. [foretakspensjonsloven § 16-2](lov/2000-03-24-16/§16-2) 23. ledd)
+6. innskuddspensjonsforetak (jf. [finansforetaksloven § 2-17](lov/2015-04-10-17/§2-17))
+7. kredittkortutstedere som omfattes av [§ 7-3-6](forskrift/2016-11-23-1360/§7-3-6) utelukkende fordi de har konti nevnt i [§ 7-3-9 første ledd bokstav f](forskrift/2016-11-23-1360/§7-3-9/ledd/1/bokstav/f).
+8. allmennyttige organisasjoner som nevnt i [§ 7-3-22 tredje ledd bokstav a nr. 8](forskrift/2016-11-23-1360/§7-3-22/ledd/3/bokstav/a/nummer/8) og som fremgår av Skatteetatens liste over godkjente organisasjoner for gavefradrag.
+
+(2) Plikten til å identifisere kontohavere og reelle rettighetshavere som er skattemessig bosatt eller hjemmehørende i USA, amerikanske statsborgere, og ikke-deltakende finansielle institusjoner som definert i FATCA, gjelder uansett første ledd ikke
+
+1. allmennyttig organisasjon: stiftelse, fond, institusjon, organisasjon eller annen innretning som er fritatt fra skatteplikt etter [skatteloven § 2-32](lov/1999-03-26-14/§2-32)
+2. lokal kredittforening som
+
+   1. ikke har erverv til formål
+   2. mottar innskudd og gir lån til medlemmer, og ikke noe medlem har mer enn 5 prosent av låne- eller innskuddskapitalen
+   3. ikke har fast forretningssted utenfor Norge
+   4. ikke aktivt søker kunder utenfor Norge, herunder ikke tillater åpning av konto via internettside og
+   5. har en total forvaltningskapital som ikke overstiger USD 175 000 000. Dersom kredittforeningen har nærstående finansielle institusjoner, kan samlet forvaltet beløp ikke overstige USD 500 000 000.
+3. lokal bank: bank som har norsk konsesjon og som
+
+   1. utelukkende driver ordinær bankvirksomhet i Norge ved å ta imot innskudd og yte kreditt
+   2. ikke har fast forretningssted utenfor Norge
+   3. ikke aktivt søker kunder utenfor Norge, herunder ikke tillater åpning av konti via internettside
+   4. forvaltningskapitalen ikke overstiger USD 175 000 000 og
+   5. dersom banken har nærstående enhet som er finansiell institusjon, må den være stiftet eller opprettet i Norge og oppfylle vilkårene listet opp over. Forvaltningskapitalen etter nr. 4 skal samlet ikke overstige USD 500 000 000.
+4. finansiell institusjon som forvalter lave verdier: opplysningspliktig som nevnt i [§ 7-3-6 første ledd bokstav a](forskrift/2016-11-23-1360/§7-3-6/ledd/1/bokstav/a) til c, og som ikke har konti med verdi som overstiger USD 50 000, og total forvaltningskapital ikke overstiger USD 50 000 000. Verdien på alle kundenes konti skal summeres dersom det er mulig. Dersom en nærstående enhet er en finansiell institusjon, skal enhetenes samlede forvaltningskapital ikke overstige USD 50 000 000.
+5. verdipapirfond og alternative investeringsfond, dersom samtlige innskudd (herunder gjeldsinteresser som overstiger USD 50 000) eies eller rådes over av én eller flere finansielle institusjoner som ikke er ikke-deltakende finansielle institusjoner som definert i FATCA
+6. små finansielle institusjoner med lokal kundebase: finansielle institusjoner
+
+   1. som har konsesjon og er regulert etter norsk lovgivning, eller forvaltes av virksomhet som har slik tillatelse
+   2. som ikke har fast forretningssted utenfor Norge
+   3. som ikke markedsfører seg til kunder eller kontohavere utenfor Norge
+   4. som etter norske skatteregler har plikt til å gi opplysninger om, eller trekke skatt av, samtlige konti som nevnt i kapittel C
+   5. hvor minst 98 prosent av verdien av konti som definert i [§ 7-3-8](forskrift/2016-11-23-1360/§7-3-8) eies eller rådes over av personer bosatt eller hjemmehørende i Norge eller annen EØS-stat
+   6. som har retningslinjer og rutiner for å identifisere konti som eies eller rådes over av
+
+      1. fysisk person som er skattepliktig til USA
+      2. enhet som er hjemmehørende i USA, unntatt enhet nevnt i [§ 7-3-21 annet ledd](forskrift/2016-11-23-1360/§7-3-21/ledd/2)
+      3. ikke-deltakende finansiell institusjon som definert i FATCA og
+      4. enhet som hovedsakelig har passive inntekter som nevnt i [§ 7-3-22](forskrift/2016-11-23-1360/§7-3-22), og reelle rettighetshavere er skattepliktige til USA
+   7. som går gjennom eksisterende konto etter reglene i kapittel D, jf. kapittel F, H og I
+   8. som gir opplysninger om konti som eies eller rådes over av kontohaver som nevnt i nr. 6 etter regler i [skatteforvaltningsloven kapittel 7](lov/2016-05-27-14/kap7) eller trekker skatt etter [skattebetalingsloven](lov/2005-06-17-67)
+   9. som ikke har retningslinjer eller praksis som diskriminerer amerikanske statsborgere eller personer skattemessig bosatt i USA som er bosatt i Norge som oppretter, eier eller råder over konti og
+   10. hvor hver nærstående enhet av den opplysningspliktige som er en finansiell institusjon er etablert eller registrert i Norge og oppfyller disse kravene.
+7. den norske stat, fylker, kommuner og deres heleide organer og virksomheter, herunder Statens pensjonsfond utland, Folketrygdfondet og Statens pensjonsfond Norge, Norges Bank, samt mellomstatlige og overstatlige organisasjoner
+8. Norges Banks heleide datterselskaper.
 
 > Endret ved [forskrifter 14 aug 2017 nr. 1253](forskrift/2017-08-14-1253), [14 des 2018 nr. 2005](forskrift/2018-12-14-2005), [25 juni 2025 nr. 1297](forskrift/2025-06-25-1297).
 
 ### § 7-3-8. Finansielle konti
 
-Pliktene etter kapittel D til J omfatterethvert innskudd mottatt i ordinær bankvirksomhet eller liknende forretningsvirksomhet, herunder spesifiserte elektroniske pengeprodukter og digitale sentralbankpenger, samt ethvert beløp hos et forsikringsselskap holdt i henhold til en garantert investeringskontrakt eller lignende avtale om å betale eller kreditere rente.finansielle produkter holdt på kontoethvert innskudd og enhver interesse i innretninger nevnt i [§ 7-3-6 første ledd bokstav d](forskrift/2016-11-23-1360/§7-3-6/ledd/1/bokstav/d), herunder innskudd i verdipapirfond og alternative investeringsfond. Eier- eller kreditorinteresser i følgende innretninger omfattes likevel ikke:innretninger som kun gir investeringsrådgivning og opptrer på vegne av en kunde med formål å investere, forvalte eller administrere finansielle instrumenter og andre finansielle produkter i kundens navn i andre finansielle institusjoner;innretning som kun forvalter porteføljer for, og opptrer på vegne av, en kunde med formål å investere, forvalte eller administrere finansielle instrumenter og andre finansielle produkter i kundens navn i andre finansielle institusjoner.ethvert innskudd og enhver interesse i innretninger som ikke er dekket under bokstav c over, dersom dette er etablert med det formål å unngå rapportering etter denne forskriftenpensjonsavtaler, livrenter og andre avtaler der utsteder påtar seg å foreta utbetalinger i en tidsperiode som helt eller delvis er bestemt under henvisning til én eller flere fysiske personers forventede levealderforsikringsavtaler med gjenkjøpsverdi der utsteder påtar seg å utbetale et beløp dersom det inntreffer en spesifisert eventualitet som innebærer dødelighets-, sykdoms-, ulykkes-, ansvars- eller eiendelsrisiko.
+Pliktene etter kapittel D til J omfatter
+
+1. ethvert innskudd mottatt i ordinær bankvirksomhet eller liknende forretningsvirksomhet, herunder spesifiserte elektroniske pengeprodukter og digitale sentralbankpenger, samt ethvert beløp hos et forsikringsselskap holdt i henhold til en garantert investeringskontrakt eller lignende avtale om å betale eller kreditere rente.
+2. finansielle produkter holdt på konto
+3. ethvert innskudd og enhver interesse i innretninger nevnt i [§ 7-3-6 første ledd bokstav d](forskrift/2016-11-23-1360/§7-3-6/ledd/1/bokstav/d), herunder innskudd i verdipapirfond og alternative investeringsfond. Eier- eller kreditorinteresser i følgende innretninger omfattes likevel ikke:
+
+   1. innretninger som kun gir investeringsrådgivning og opptrer på vegne av en kunde med formål å investere, forvalte eller administrere finansielle instrumenter og andre finansielle produkter i kundens navn i andre finansielle institusjoner;
+   2. innretning som kun forvalter porteføljer for, og opptrer på vegne av, en kunde med formål å investere, forvalte eller administrere finansielle instrumenter og andre finansielle produkter i kundens navn i andre finansielle institusjoner.
+4. ethvert innskudd og enhver interesse i innretninger som ikke er dekket under bokstav c over, dersom dette er etablert med det formål å unngå rapportering etter denne forskriften
+5. pensjonsavtaler, livrenter og andre avtaler der utsteder påtar seg å foreta utbetalinger i en tidsperiode som helt eller delvis er bestemt under henvisning til én eller flere fysiske personers forventede levealder
+6. forsikringsavtaler med gjenkjøpsverdi der utsteder påtar seg å utbetale et beløp dersom det inntreffer en spesifisert eventualitet som innebærer dødelighets-, sykdoms-, ulykkes-, ansvars- eller eiendelsrisiko.
 
 > Endret ved [forskrifter 14 aug 2017 nr. 1253](forskrift/2017-08-14-1253). [14 des 2018 nr. 2005](forskrift/2018-12-14-2005), [25 juni 2025 nr. 1297](forskrift/2025-06-25-1297).
 
 ### § 7-3-9. Fritatte konti
 
-(1) Pliktene etter kapittel D til J omfatter ikkekonto for boligsparing for ungdom (jf. [skatteloven § 16-10](lov/1999-03-26-14/§16-10))skattefavoriserte pensjonsordninger (jf. [skatteloven § 6-45](lov/1999-03-26-14/§6-45))konto som alene eies eller rådes over av dødsbo når dødsfallet er dokumentert med avdødes testament eller dødsattestkonto som er opprettet for å stille sikkerhet dersom kontoen er opprettet i forbindelse med en dom eller kjennelsekonto som er opprettet bare for å stille sikkerhet i forbindelse med salg, bytte eller leie av fast eiendom eller løsøre, forutsatt atkontoen bare inneholder tilstrekkelige midler til å sikre et krav mot en av partene direkte knyttet til transaksjonen, sikre et lignende krav, eller kontoen består av en finansiell eiendel som er deponert i forbindelse med salg, bytte eller leie av løsøret eller den faste eiendommenkontoen bare brukes til å stille sikkerhet for kjøperen til å betale salgssummen, selger for å betale en betinget forpliktelse, eller utleier eller leietaker for å stille avtalt sikkerhet til å dekke en mulig skade på løsøret eller eiendommenverdien på kontoen inkludert avkastning, skal betales eller på annen måte overføres til fordel for kjøper, selger, utleier eller leietaker når eiendommen eller løsøret selges, byttes eller overdras, eller leiekontrakten opphørerkontoen ikke er en marginkonto eller lignende konto opprettet i forbindelse med salg eller bytte av finansielle produkter ogkontoen ikke er knyttet til en kredittkortkontokvalifisert kredittkortkonto: konto knyttet til kredittkorthvor kunden kan betale inn et beløp som overstiger det utestående uten at det overskytende innskudd umiddelbart tilbakeføres til kunden ogdet foreligger rutiner fra 1. januar 2016 eller fra tidspunktet for kontoens opprettelse for å hindre at slike innskudd overstiger USD 50 000 eller at innskudd som overstiger USD 50 000 tilbakeføres til kunden innen 60 dager. Ved beregning av innskudd får [§ 7-3-29 første punktum](forskrift/2016-11-23-1360/§7-3-29/setning/1) anvendelse. Innestående beløp som følge av tilbakelevering av varer anses som innskudd. Omtvistede debiteringer anses ikke som innskudd.inaktiv innskuddskonto: eksisterende innskuddskonto som ikke overstiger USD 1 000 per 31. desember 2015, nårkontohaver ikke har gjennomført noen transaksjon på en konto hos opplysningspliktig de siste tre år ogkontohaver ikke har vært i kontakt med opplysningspliktig de siste seks år om noen konto.konto med spesifiserte elektroniske pengeprodukter som i løpet av inntektsåret ikke overstiger USD 10 000 i snitt per dag beregnet i løpet av enhver sammenhengende 90-dagers periode.konto som er opprettet i forbindelse med stiftelse av selskap eller kapitalforhøyelse, forutsatt atkontoen utelukkende brukes i forbindelse med stiftelse av selskap eller kapitalforhøyelseeventuelle beløp på kontoen er sperret til den finansielle institusjonen får en bekreftelse på stiftelsen eller kapitalforhøyelsenkontoen avsluttes eller gjøres om til en konto i selskapets navn etter at stiftelsen eller kapitalforhøyelsen er gjennomførteventuelle tilbakebetalinger som følge av at stiftelsen eller kapitalforhøyelsen ikke har funnet sted, fratrukket eventuelle kostnader, utbetales utelukkende til personene som har bidratt med innskudd.
+(1) Pliktene etter kapittel D til J omfatter ikke
 
-(2) Plikten til å identifisere kontohavere og reelle rettighetshavere som er skattemessig bosatt eller hjemmehørende i USA, og amerikanske statsborgere, og ikke-deltakende finansielle institusjoner som definert i FATCA, gjelder uansett ikkeinnskudd i verdipapirfond som regelmessig omsettes i et etablert verdipapirmarked. Dette unntaket gjelder bare for opplysningspliktige som er verdipapirfond.gjelds- og egenkapitalinteresser i alternative investeringsfond som regelmessig omsettes i et etablert verdipapirmarked. Dette unntaket gjelder bare for opplysningspliktige som er alternative investeringsfond.kollektive livrenter (jf. [skatteloven § 5-41](lov/1999-03-26-14/§5-41)).
+1. konto for boligsparing for ungdom (jf. [skatteloven § 16-10](lov/1999-03-26-14/§16-10))
+2. skattefavoriserte pensjonsordninger (jf. [skatteloven § 6-45](lov/1999-03-26-14/§6-45))
+3. konto som alene eies eller rådes over av dødsbo når dødsfallet er dokumentert med avdødes testament eller dødsattest
+4. konto som er opprettet for å stille sikkerhet dersom kontoen er opprettet i forbindelse med en dom eller kjennelse
+5. konto som er opprettet bare for å stille sikkerhet i forbindelse med salg, bytte eller leie av fast eiendom eller løsøre, forutsatt at
+
+   1. kontoen bare inneholder tilstrekkelige midler til å sikre et krav mot en av partene direkte knyttet til transaksjonen, sikre et lignende krav, eller kontoen består av en finansiell eiendel som er deponert i forbindelse med salg, bytte eller leie av løsøret eller den faste eiendommen
+   2. kontoen bare brukes til å stille sikkerhet for kjøperen til å betale salgssummen, selger for å betale en betinget forpliktelse, eller utleier eller leietaker for å stille avtalt sikkerhet til å dekke en mulig skade på løsøret eller eiendommen
+   3. verdien på kontoen inkludert avkastning, skal betales eller på annen måte overføres til fordel for kjøper, selger, utleier eller leietaker når eiendommen eller løsøret selges, byttes eller overdras, eller leiekontrakten opphører
+   4. kontoen ikke er en marginkonto eller lignende konto opprettet i forbindelse med salg eller bytte av finansielle produkter og
+   5. kontoen ikke er knyttet til en kredittkortkonto
+6. kvalifisert kredittkortkonto: konto knyttet til kredittkort
+
+   1. hvor kunden kan betale inn et beløp som overstiger det utestående uten at det overskytende innskudd umiddelbart tilbakeføres til kunden og
+   2. det foreligger rutiner fra 1. januar 2016 eller fra tidspunktet for kontoens opprettelse for å hindre at slike innskudd overstiger USD 50 000 eller at innskudd som overstiger USD 50 000 tilbakeføres til kunden innen 60 dager. Ved beregning av innskudd får [§ 7-3-29 første punktum](forskrift/2016-11-23-1360/§7-3-29/setning/1) anvendelse. Innestående beløp som følge av tilbakelevering av varer anses som innskudd. Omtvistede debiteringer anses ikke som innskudd.
+7. inaktiv innskuddskonto: eksisterende innskuddskonto som ikke overstiger USD 1 000 per 31. desember 2015, når
+
+   1. kontohaver ikke har gjennomført noen transaksjon på en konto hos opplysningspliktig de siste tre år og
+   2. kontohaver ikke har vært i kontakt med opplysningspliktig de siste seks år om noen konto.
+8. konto med spesifiserte elektroniske pengeprodukter som i løpet av inntektsåret ikke overstiger USD 10 000 i snitt per dag beregnet i løpet av enhver sammenhengende 90-dagers periode.
+9. konto som er opprettet i forbindelse med stiftelse av selskap eller kapitalforhøyelse, forutsatt at
+
+   1. kontoen utelukkende brukes i forbindelse med stiftelse av selskap eller kapitalforhøyelse
+   2. eventuelle beløp på kontoen er sperret til den finansielle institusjonen får en bekreftelse på stiftelsen eller kapitalforhøyelsen
+   3. kontoen avsluttes eller gjøres om til en konto i selskapets navn etter at stiftelsen eller kapitalforhøyelsen er gjennomført
+   4. eventuelle tilbakebetalinger som følge av at stiftelsen eller kapitalforhøyelsen ikke har funnet sted, fratrukket eventuelle kostnader, utbetales utelukkende til personene som har bidratt med innskudd.
+
+(2) Plikten til å identifisere kontohavere og reelle rettighetshavere som er skattemessig bosatt eller hjemmehørende i USA, og amerikanske statsborgere, og ikke-deltakende finansielle institusjoner som definert i FATCA, gjelder uansett ikke
+
+1. innskudd i verdipapirfond som regelmessig omsettes i et etablert verdipapirmarked. Dette unntaket gjelder bare for opplysningspliktige som er verdipapirfond.
+2. gjelds- og egenkapitalinteresser i alternative investeringsfond som regelmessig omsettes i et etablert verdipapirmarked. Dette unntaket gjelder bare for opplysningspliktige som er alternative investeringsfond.
+3. kollektive livrenter (jf. [skatteloven § 5-41](lov/1999-03-26-14/§5-41)).
 
 > Endret ved [forskrifter 14 aug 2017 nr. 1253](forskrift/2017-08-14-1253), [14 des 2018 nr. 2005](forskrift/2018-12-14-2005), [19 april 2024 nr. 650](forskrift/2024-04-19-650), [25 juni 2025 nr. 1297](forskrift/2025-06-25-1297).
 
@@ -616,7 +915,14 @@ Pliktene etter kapittel D til J omfatterethvert innskudd mottatt i ordinær bank
 
 ### § 7-3-11. Når skal en konto gjennomgås
 
-Opplysningspliktige skal innhente og gå gjennom kontoopplysningerfør en ny konto opprettesinnen 90 dager eller innen utgangen av inntektsåret når det foreligger endringer eller nye relevante opplysningerinnen 12 måneder når kontoen eies eller rådes over av en enhet, og saldo eller verdi overstiger USD 250 000 ved utgangen av et inntektsår, dersom kontoen ikke tidligere er gjennomgåttinnen seks måneder når saldo eller verdi på en konto overstiger USD 1 000 000 ved utgangen av et inntektsår, dersom kontoen ikke tidligere har oversteget USD 1 000 000årlig når kontoen er en udokumentert konto etter reglene i [§ 7-3-18 fjerde ledd](forskrift/2016-11-23-1360/§7-3-18/ledd/4), og saldo eller verdi har oversteget USD 1 000 000 ved utgangen av en skattleggingsperiodeårlig når kontoen er tildelt en kundeansvarlig etter reglene i [§ 7-3-20](forskrift/2016-11-23-1360/§7-3-20).
+Opplysningspliktige skal innhente og gå gjennom kontoopplysninger
+
+1. før en ny konto opprettes
+2. innen 90 dager eller innen utgangen av inntektsåret når det foreligger endringer eller nye relevante opplysninger
+3. innen 12 måneder når kontoen eies eller rådes over av en enhet, og saldo eller verdi overstiger USD 250 000 ved utgangen av et inntektsår, dersom kontoen ikke tidligere er gjennomgått
+4. innen seks måneder når saldo eller verdi på en konto overstiger USD 1 000 000 ved utgangen av et inntektsår, dersom kontoen ikke tidligere har oversteget USD 1 000 000
+5. årlig når kontoen er en udokumentert konto etter reglene i [§ 7-3-18 fjerde ledd](forskrift/2016-11-23-1360/§7-3-18/ledd/4), og saldo eller verdi har oversteget USD 1 000 000 ved utgangen av en skattleggingsperiode
+6. årlig når kontoen er tildelt en kundeansvarlig etter reglene i [§ 7-3-20](forskrift/2016-11-23-1360/§7-3-20).
 
 > Endret ved [forskrifter 14 aug 2017 nr. 1253](forskrift/2017-08-14-1253), [14 des 2018 nr. 2005](forskrift/2018-12-14-2005).
 
@@ -642,9 +948,18 @@ Opplysningspliktige skal oppbevare dokumentasjon som viser hvordan en konto er g
 
 ### § 7-3-14. Samlet gjennomgang av eksisterende konti per 30. juni 2014
 
-(1) Opplysningspliktige skal gå gjennom samtlige eksisterende konti per 30. juni 2014 for å identifisere kontohavere og reelle rettighetshavere som er skattemessig bosatt eller hjemmehørende i USA, amerikanske statsborgere, og ikke-deltakende finansielle institusjoner som definert i FATCAinnen 30. juni 2015 når kontohaver er fysisk person og saldo eller verdi oversteg USD 1 000 000 per 30. juni 2014innen 30. juni 2016 når kontohaver er fysisk person og saldo eller verdi ikke oversteg USD 1 000 000 per 30. juni 2014innen 30. juni 2016 når kontohaver er en enhet.
+(1) Opplysningspliktige skal gå gjennom samtlige eksisterende konti per 30. juni 2014 for å identifisere kontohavere og reelle rettighetshavere som er skattemessig bosatt eller hjemmehørende i USA, amerikanske statsborgere, og ikke-deltakende finansielle institusjoner som definert i FATCA
 
-(2) Opplysningspliktige kan uansett første ledd velge ikke å gå gjennomkonti med saldo eller verdi som ikke oversteg USD 50 000 per 30. juni 2014 når kontohaver er fysisk personforsikringsavtaler med gjenkjøpsverdi og individuelle livrenter med en verdi på USD 250 000 eller mindre per 30. juni 2014 når kontohaver er fysisk personforsikringsavtaler med gjenkjøpsverdi og individuelle livrenter som eies eller rådes over av fysisk person, forutsatt at lover eller forskrifter i Norge eller USA i praksis forhindrer salg av forsikringsavtaler med gjenkjøpsverdi eller individuelle livrenter til personer bosatt i USA, slik at den opplysningspliktige ikke har påkrevd registrering etter amerikansk rett, og forsikringsproduktene er opplysningspliktige etter denne forskriftkonti med saldo eller verdi som ikke overstiger USD 250 000 per 30. juni 2014 når kontohaver er en enhet.
+1. innen 30. juni 2015 når kontohaver er fysisk person og saldo eller verdi oversteg USD 1 000 000 per 30. juni 2014
+2. innen 30. juni 2016 når kontohaver er fysisk person og saldo eller verdi ikke oversteg USD 1 000 000 per 30. juni 2014
+3. innen 30. juni 2016 når kontohaver er en enhet.
+
+(2) Opplysningspliktige kan uansett første ledd velge ikke å gå gjennom
+
+1. konti med saldo eller verdi som ikke oversteg USD 50 000 per 30. juni 2014 når kontohaver er fysisk person
+2. forsikringsavtaler med gjenkjøpsverdi og individuelle livrenter med en verdi på USD 250 000 eller mindre per 30. juni 2014 når kontohaver er fysisk person
+3. forsikringsavtaler med gjenkjøpsverdi og individuelle livrenter som eies eller rådes over av fysisk person, forutsatt at lover eller forskrifter i Norge eller USA i praksis forhindrer salg av forsikringsavtaler med gjenkjøpsverdi eller individuelle livrenter til personer bosatt i USA, slik at den opplysningspliktige ikke har påkrevd registrering etter amerikansk rett, og forsikringsproduktene er opplysningspliktige etter denne forskrift
+4. konti med saldo eller verdi som ikke overstiger USD 250 000 per 30. juni 2014 når kontohaver er en enhet.
 
 (3) Plikten til å gå gjennom konti gjelder også konti som er avsluttet før gjennomgangen er fullført.
 
@@ -652,7 +967,11 @@ Opplysningspliktige skal oppbevare dokumentasjon som viser hvordan en konto er g
 
 ### § 7-3-15. Samlet gjennomgang av eksisterende konti per 31. desember 2015
 
-(1) Opplysningspliktige skal gå gjennom samtlige eksisterende konto per 31. desember 2015 for å identifisere kontohavere og reelle rettighetshavere som er skattemessig bosatt eller hjemmehørende i en annen stat eller jurisdiksjon enn USAinnen 31. desember 2016 når kontohaver er fysisk person og saldo eller verdi overstiger USD 1 000 000 per 31. desember 2015innen 31. desember 2017 når kontohaver er fysisk person og saldo eller verdi ikke overstiger USD 1 000 000 per 31. desember 2015innen 31. desember 2017 når kontohaver er enhet.
+(1) Opplysningspliktige skal gå gjennom samtlige eksisterende konto per 31. desember 2015 for å identifisere kontohavere og reelle rettighetshavere som er skattemessig bosatt eller hjemmehørende i en annen stat eller jurisdiksjon enn USA
+
+1. innen 31. desember 2016 når kontohaver er fysisk person og saldo eller verdi overstiger USD 1 000 000 per 31. desember 2015
+2. innen 31. desember 2017 når kontohaver er fysisk person og saldo eller verdi ikke overstiger USD 1 000 000 per 31. desember 2015
+3. innen 31. desember 2017 når kontohaver er enhet.
 
 (2) Opplysningspliktige kan velge ikke å gå gjennom eksisterende konti som eies eller rådes over av enhet når saldo eller verdi ikke overstiger USD 250 000 per 31. desember 2015.
 
@@ -686,9 +1005,45 @@ Dersom egenerklæring ikke kan innhentes ved opprettelse av en ny konto, skal op
 
 (1) Opplysningspliktige som har en gjeldende bostedsadresse på kontohaver, som er basert på dokumentbevis eller bekreftelse utstedt av relevant offentlig myndighet der kontohaver er bosatt, kan legge til grunn at kontohaver er skattemessig bosatt i den aktuelle stat eller jurisdiksjon. Første punktum gjelder ikke for å fastslå eller avkrefte om kontohaver er skattemessig bosatt i USA.
 
-(2) Opplysningspliktige skal, når det ikke er fastslått hvor kontohaver er skattemessig bosatt etter første ledd, gjennomføre søk i elektronisk søkbare opplysninger om kontohaver.For å fastslå eller avkrefte om kontohaver er skattemessig bosatt i en annen stat eller jurisdiksjon, eller er amerikansk statsborger, skal det søkes etteridentifikasjon av kontohaver som skattemessig bosatt utenfor Norgeutenlandsk post- eller bostedsadresse (herunder utenlandsk postboksadresse eller c/o-adresse)utenlandsk telefonnummer uten at det også er registrert et norsk telefonnummerfast instruks om overføring av midler fra en konto som ikke er en innskuddskonto til en utenlandsk kontofullmakt eller signaturrett er tildelt en person med utenlandsk adresse ogen instruks om å oppbevare post eller en utenlandsk c/o-adresse og det ikke er registrert en annen adresse på kontohaver.For å fastslå eller avkrefte om kontohaver er skattemessig bosatt i USA eller er amerikansk statsborger, skal det i tillegg til indisiene nevnt i bokstav a også søkes etteridentifikasjon av kontohaver som amerikansk statsborgerutvetydig angivelse av amerikansk fødestedamerikansk telefonnummer når det også er registrert et norsk telefonnummerfast instruks om overføring av midler fra en konto til en amerikansk konto elleren c/o-adresse eller en postoppbevaringsadresse som er den eneste adressen oppført for kontohaver. For konti med en verdi som ikke overstiger USD 1 000 000, skal en c/o-adresse utenfor USA eller en postoppbevaringsadresse ikke anses som et indisium.
+(2) Opplysningspliktige skal, når det ikke er fastslått hvor kontohaver er skattemessig bosatt etter første ledd, gjennomføre søk i elektronisk søkbare opplysninger om kontohaver.
 
-(3) Dersom et av indisiene nevnt i annet ledd er identifisert, skal kontohaver likevel ikke anses som skattemessig bosatt i den aktuelle stat eller jurisdiksjon dersomdet er identifisert et indisium nevnt i annet ledd bokstav a nr. 2, 3 eller 4, og opplysningspliktige har innhentet en egenerklæring og dokumentbevis som dokumentasjon på at kontohaver ikke er bosatt i den aktuelle stat eller jurisdiksjondet er identifisert et indisium nevnt i annet ledd bokstav a nr. 5 eller 6, og opplysningspliktige har innhentet egenerklæring eller dokumentbevis som dokumentasjon på at kontohaver ikke er bosatt i den aktuelle stat eller jurisdiksjonkontohaveropplysningene utvetydig angir et amerikansk fødested og opplysningspliktige haren egenerklæring fra kontohaver som viser at kontohaver ikke er amerikansk statsborger eller skattemessig bosatt i USApass eller annen myndighetsutstedt identitetskort som viser at kontohaver er statsborger av en annen stat eller jurisdiksjon enn USA ogen kopi av kontohavers bekreftelse av tap av amerikansk statsborgerskap, eller en rimelig forklaring på at kontohaver ikke har en slik bekreftelse. Kontohaver kan også gi en rimelig forklaring på hvorfor han eller hun ikke ble tildelt amerikansk statsborgerskap ved fødselen.kontohaver har en gjeldende amerikansk post- eller bostedsadresse, eller ett eller flere amerikanske telefonnumre som eneste telefonnummer, og opplysningspliktige haren egenerklæring fra kontohaver som viser at kontohaver ikke er amerikansk statsborger eller skattemessig bosatt i USA ogpass eller annet myndighetsutstedt identitetskort som viser at kontohaver er statsborger av en annen stat eller jurisdiksjon enn USAdet foreligger fast instruks om å overføre midler til en amerikansk konto og opplysningspliktige haren egenerklæring fra kontohaver som viser at kontohaver ikke er amerikansk statsborger eller skattemessig bosatt i USA ogen bostedsbekreftelse utstedt av skattemyndighetene i betalingsmottakers bostedsland, pass, nasjonalt identitetskort mv. som ikke viser at kontohaver er amerikanskdet foreligger en gjeldende fullmakt eller signaturrett tildelt en person med amerikansk adresse, en c/o adresse eller oppbevaringsadresse er den eneste adressen, eller et eller flere amerikanske telefonnumre, og opplysningspliktige haren egenerklæring som viser at kontohaver ikke er amerikansk statsborger eller skattemessig bosatt i USA elleret dokumentbevis som ikke viser tilknytning til USA.
+1. For å fastslå eller avkrefte om kontohaver er skattemessig bosatt i en annen stat eller jurisdiksjon, eller er amerikansk statsborger, skal det søkes etter
+
+   1. identifikasjon av kontohaver som skattemessig bosatt utenfor Norge
+   2. utenlandsk post- eller bostedsadresse (herunder utenlandsk postboksadresse eller c/o-adresse)
+   3. utenlandsk telefonnummer uten at det også er registrert et norsk telefonnummer
+   4. fast instruks om overføring av midler fra en konto som ikke er en innskuddskonto til en utenlandsk konto
+   5. fullmakt eller signaturrett er tildelt en person med utenlandsk adresse og
+   6. en instruks om å oppbevare post eller en utenlandsk c/o-adresse og det ikke er registrert en annen adresse på kontohaver.
+2. For å fastslå eller avkrefte om kontohaver er skattemessig bosatt i USA eller er amerikansk statsborger, skal det i tillegg til indisiene nevnt i bokstav a også søkes etter
+
+   1. identifikasjon av kontohaver som amerikansk statsborger
+   2. utvetydig angivelse av amerikansk fødested
+   3. amerikansk telefonnummer når det også er registrert et norsk telefonnummer
+   4. fast instruks om overføring av midler fra en konto til en amerikansk konto eller
+   5. en c/o-adresse eller en postoppbevaringsadresse som er den eneste adressen oppført for kontohaver. For konti med en verdi som ikke overstiger USD 1 000 000, skal en c/o-adresse utenfor USA eller en postoppbevaringsadresse ikke anses som et indisium.
+
+(3) Dersom et av indisiene nevnt i annet ledd er identifisert, skal kontohaver likevel ikke anses som skattemessig bosatt i den aktuelle stat eller jurisdiksjon dersom
+
+1. det er identifisert et indisium nevnt i annet ledd bokstav a nr. 2, 3 eller 4, og opplysningspliktige har innhentet en egenerklæring og dokumentbevis som dokumentasjon på at kontohaver ikke er bosatt i den aktuelle stat eller jurisdiksjon
+2. det er identifisert et indisium nevnt i annet ledd bokstav a nr. 5 eller 6, og opplysningspliktige har innhentet egenerklæring eller dokumentbevis som dokumentasjon på at kontohaver ikke er bosatt i den aktuelle stat eller jurisdiksjon
+3. kontohaveropplysningene utvetydig angir et amerikansk fødested og opplysningspliktige har
+
+   1. en egenerklæring fra kontohaver som viser at kontohaver ikke er amerikansk statsborger eller skattemessig bosatt i USA
+   2. pass eller annen myndighetsutstedt identitetskort som viser at kontohaver er statsborger av en annen stat eller jurisdiksjon enn USA og
+   3. en kopi av kontohavers bekreftelse av tap av amerikansk statsborgerskap, eller en rimelig forklaring på at kontohaver ikke har en slik bekreftelse. Kontohaver kan også gi en rimelig forklaring på hvorfor han eller hun ikke ble tildelt amerikansk statsborgerskap ved fødselen.
+4. kontohaver har en gjeldende amerikansk post- eller bostedsadresse, eller ett eller flere amerikanske telefonnumre som eneste telefonnummer, og opplysningspliktige har
+
+   1. en egenerklæring fra kontohaver som viser at kontohaver ikke er amerikansk statsborger eller skattemessig bosatt i USA og
+   2. pass eller annet myndighetsutstedt identitetskort som viser at kontohaver er statsborger av en annen stat eller jurisdiksjon enn USA
+5. det foreligger fast instruks om å overføre midler til en amerikansk konto og opplysningspliktige har
+
+   1. en egenerklæring fra kontohaver som viser at kontohaver ikke er amerikansk statsborger eller skattemessig bosatt i USA og
+   2. en bostedsbekreftelse utstedt av skattemyndighetene i betalingsmottakers bostedsland, pass, nasjonalt identitetskort mv. som ikke viser at kontohaver er amerikansk
+6. det foreligger en gjeldende fullmakt eller signaturrett tildelt en person med amerikansk adresse, en c/o adresse eller oppbevaringsadresse er den eneste adressen, eller et eller flere amerikanske telefonnumre, og opplysningspliktige har
+
+   1. en egenerklæring som viser at kontohaver ikke er amerikansk statsborger eller skattemessig bosatt i USA eller
+   2. et dokumentbevis som ikke viser tilknytning til USA.
 
 (4) Dersom et indisium nevnt i annet ledd bokstav a nr. 6 identifiseres som eneste indisium, skal opplysningspliktige gjøre et søk i dokumenter nevnt i [§ 7-3-19 annet ledd](forskrift/2016-11-23-1360/§7-3-19/ledd/2) eller innhente en egenerklæring eller dokumentbevis fra kontohaver for å fastslå hvor kontohaver er skattemessig bosatt. Oversteg kontoverdiene USD 1 000 000 ved utgangen av inntektsåret 2015 eller ved et senere inntektsår, skal det innhentes egenerklæring eller dokumentbevis fra kontohaver. Dersom det ikke kan fastslås hvor kontohaver er skattemessig bosatt, skal kontoen merkes som en udokumentert konto.
 
@@ -698,7 +1053,13 @@ Dersom egenerklæring ikke kan innhentes ved opprettelse av en ny konto, skal op
 
 (1) For å fastslå om kontohaver er skattemessig bosatt i en annen stat eller jurisdiksjon, eller er amerikansk statsborger, når kontoverdi overstiger USD 1 000 000, skal opplysningspliktige gjennomføre søk i opplysninger nevnt i [§ 7-3-18 annet ledd](forskrift/2016-11-23-1360/§7-3-18/ledd/2) som er elektronisk søkbare.
 
-(2) Dersom ikke samtlige av opplysningene nevnt i [§ 7-3-18 annet ledd](forskrift/2016-11-23-1360/§7-3-18/ledd/2) er elektronisk søkbare, skal opplysningspliktige også gå gjennom kundefilen, og i den utstrekning kundefilen ikke inneholder opplysningene, finne frem dokumenter innhentet siste fem år og gå gjennomdokumentbeviskontoavtaler eller annen dokumentasjon på opprettelse av kontodokumenter som er innhentet etter [hvitvaskingsloven](lov/2018-06-01-23) eller annen lovgivningdokumenter som gir fullmakt eller signaturrett ogdokumenter om fast instruks om overføring av midler.
+(2) Dersom ikke samtlige av opplysningene nevnt i [§ 7-3-18 annet ledd](forskrift/2016-11-23-1360/§7-3-18/ledd/2) er elektronisk søkbare, skal opplysningspliktige også gå gjennom kundefilen, og i den utstrekning kundefilen ikke inneholder opplysningene, finne frem dokumenter innhentet siste fem år og gå gjennom
+
+1. dokumentbevis
+2. kontoavtaler eller annen dokumentasjon på opprettelse av konto
+3. dokumenter som er innhentet etter [hvitvaskingsloven](lov/2018-06-01-23) eller annen lovgivning
+4. dokumenter som gir fullmakt eller signaturrett og
+5. dokumenter om fast instruks om overføring av midler.
 
 > Endret ved [forskrifter 14 aug 2017 nr. 1253](forskrift/2017-08-14-1253) [14 des 2018 nr. 2005](forskrift/2018-12-14-2005).
 
@@ -722,7 +1083,27 @@ Dersom egenerklæring ikke kan innhentes ved opprettelse av en ny konto, skal op
 
 (1) Opplysningspliktige skal innhente egenerklæring fra kontohaver som viser de stater eller jurisdiksjoner hvor kontohaver er skattemessig hjemmehørende. Kontohaver som ikke er skattemessig hjemmehørende i noen stat eller jurisdiksjon, skal behandles som hjemmehørende der adressen til kontohavers hovedkontor ligger. Forvaltningsformuer (truster) som ikke er skattemessig hjemmehørende i noen stat eller jurisdiksjon anses hjemmehørende på forvalters adresse.
 
-(2) Er kontohaver hjemmehørende i en annen stat eller jurisdiksjon enn Norge skal kontoen behandles etter [§ 7-3-12](forskrift/2016-11-23-1360/§7-3-12), med mindre opplysningspliktig innhenter egenerklæring fra kontohaver eller ut fra tilgjengelige opplysninger rimeligvis konkluderer med at kontohaver eret selskap, og selskapets aksjer regelmessig omsettes i et etablert verdipapirmarked, eller selskapet er nærstående til slikt selskapen finansiell institusjon som oppfyller et eller flere av vilkårene i [§ 7-3-6 første ledd](forskrift/2016-11-23-1360/§7-3-6/ledd/1)en offentlig enheten mellomstatlig eller overstatlig organisasjon somhovedsakelig har stater som medlemmerhar en avtale om hovedkvarter, eller en annen lignende avtale, med staten der hovedkvarteret er etablertikke har inntekter som kommer privatpersoner til godeen sentralbankhjemmehørende utenfor USA og oppfyller et eller flere av vilkårene i [§ 7-3-7 andre ledd](forskrift/2016-11-23-1360/§7-3-7/ledd/2) for å regnes som finansiell institusjon ellerhjemmehørende i USA og eren organisasjon som er unntatt fra amerikansk skatteplikten amerikansk banken forvaltningsformue (trust) for fast eiendomsinvesteringet regulert investeringsselskap eller en enhet registrert hos amerikanske tilsynsmyndigheter (Securities Exchange Commission)et felleslegaten forvaltningsformue (trust) som er fritatt fra amerikansk skatteplikt eller er en veldedig forvaltningsformue (trust) elleren registrert verdipapirmegler.
+(2) Er kontohaver hjemmehørende i en annen stat eller jurisdiksjon enn Norge skal kontoen behandles etter [§ 7-3-12](forskrift/2016-11-23-1360/§7-3-12), med mindre opplysningspliktig innhenter egenerklæring fra kontohaver eller ut fra tilgjengelige opplysninger rimeligvis konkluderer med at kontohaver er
+
+1. et selskap, og selskapets aksjer regelmessig omsettes i et etablert verdipapirmarked, eller selskapet er nærstående til slikt selskap
+2. en finansiell institusjon som oppfyller et eller flere av vilkårene i [§ 7-3-6 første ledd](forskrift/2016-11-23-1360/§7-3-6/ledd/1)
+3. en offentlig enhet
+4. en mellomstatlig eller overstatlig organisasjon som
+
+   1. hovedsakelig har stater som medlemmer
+   2. har en avtale om hovedkvarter, eller en annen lignende avtale, med staten der hovedkvarteret er etablert
+   3. ikke har inntekter som kommer privatpersoner til gode
+5. en sentralbank
+6. hjemmehørende utenfor USA og oppfyller et eller flere av vilkårene i [§ 7-3-7 andre ledd](forskrift/2016-11-23-1360/§7-3-7/ledd/2) for å regnes som finansiell institusjon eller
+7. hjemmehørende i USA og er
+
+   1. en organisasjon som er unntatt fra amerikansk skatteplikt
+   2. en amerikansk bank
+   3. en forvaltningsformue (trust) for fast eiendomsinvestering
+   4. et regulert investeringsselskap eller en enhet registrert hos amerikanske tilsynsmyndigheter (Securities Exchange Commission)
+   5. et felleslegat
+   6. en forvaltningsformue (trust) som er fritatt fra amerikansk skatteplikt eller er en veldedig forvaltningsformue (trust) eller
+   7. en registrert verdipapirmegler.
 
 (3) Opplysningspliktige skal innhente egenerklæring fra kontohaver som viser om kontohaver er en ikke-deltakende finansiell institusjon som definert i FATCA. Det er likevel ikke påkrevet å innhente slik egenerklæring om opplysningspliktig ut fra tilgjengelige opplysninger rimeligvis konkluderer med at kontohaver driver aktiv virksomhet som nevnt i [§ 7-3-22 tredje ledd bokstav a](forskrift/2016-11-23-1360/§7-3-22/ledd/3/bokstav/a), eller verifiserer at kontohaver er registrert med globalt identifikasjonsnummer hos amerikanske skattemyndigheter.
 
@@ -732,15 +1113,44 @@ Dersom egenerklæring ikke kan innhentes ved opprettelse av en ny konto, skal op
 
 (1) Opplysningspliktige skal innhente en egenerklæring fra kontohaver for å fastslå om kontohaver har status som finansiell institusjon eller annen enhet, med mindre opplysningspliktige ut fra tilgjengelige opplysninger rimeligvis konkluderer med at kontohaver har status som aktiv etter tredje ledd.
 
-(2) Kontohaver anses som finansiell institusjon dersom kontohaveretter multilateral kompetent myndighetsavtale av 29. oktober 2014 om automatisk utveksling av opplysninger om finansielle konti for å forbedre internasjonal overholdelse av skattelovgivningen eller etter en bilateral avtale med Norge om å utveksle opplysninger om finansielle konti i tråd med OECDs Common Reporting Standard, anses somen finansiell institusjon hjemmehørende i en jurisdiksjon som har tiltrådt avtalenen enhet hjemmehørende i en jurisdiksjon som ikke har tiltrådt avtalen for så vidt gjelder Norge og som har inntekter som hovedsakelig kan henføres til investering, reinvestering, eller omsetning av finansielle produkter, og som styres, forvaltes eller på annen måte ledes av enhet som oppfyller vilkårene nevnt i [§ 7-3-6 bokstav a](forskrift/2016-11-23-1360/§7-3-6/bokstav/a) til c, eller bokstav d nr. 1.etter avtale av 15. april 2013 mellom Norge og USA om forbedret internasjonal overholdelse av skattelovgivningen og gjennomføring av FATCA, anses som finansiell institusjon nevnt i vedlegg I punkt V A (ii) og (iii).
+(2) Kontohaver anses som finansiell institusjon dersom kontohaver
 
-(3) Dersom kontohaver ikke anses som finansiell institusjon, skal det fastslås om kontohaver anses som aktiv eller passiv. Anses kontohaver som passiv, skal kontoen merkes særskilt, og det skal fastslås hvor reelle rettighetshavere er skattemessig bosatt. Kontohaver anses som passiv når ingen av vilkårene for å anses som aktiv er oppfylt. Kontohaver anses som aktivslik at det ikke skal fastslås hvor reelle rettighetshavere er skattemessig bosatt, nårmindre enn 50 prosent av virksomhetens bruttoinntekt i foregående inntektsår var passiv inntekt og mindre enn 50 prosent av virksomhetens aktiva i foregående inntektsår var passive kapitalplasseringerselskapets aksjer omsettes jevnlig i et etablert verdipapirmarked eller selskapet er nærstående enhet til slikt selskapden er et offentlig organvirksomheten består i å yte finansielle tjenester til ett eller flere datterselskaper som ikke driver virksomhet som finansiell institusjon, unntatt når formålet er å erverve eller finansiere selskaper og deretter beholde eierinteressene for investeringsformålvirksomheten er under oppstart og investerer kapital i aktiva de første 24 måneder for å drive annen virksomhet enn som finansiell institusjonvirksomheten er i ferd med å avvikle eller omorganisere sine aktiva når den ikke har drevet forretningsvirksomhet som finansiell institusjon de siste fem år og ikke skal drive slik virksomhetvirksomheten driver hovedsakelig med finansierings- og sikringstransaksjoner med eller for nærstående enheter som ikke er finansielle institusjoner, og yter ikke finansierings- eller sikringstjenester overfor noen enhet som ikke er en nærstående enhet, forutsatt at gruppen bestående av alle slike nærstående enheter hovedsakelig driver en annen forretningsvirksomhet enn virksomhet som finansiell institusjon ellerden juridiske personen er organisert som en stiftelse (eller lignende person) som drives for rent religiøse, veldedige, vitenskapelige, artistiske, kulturelle eller utdanningsmessige formål, ogenheten er regulert og fritatt fra inntektsskatt etter lovgivningen i det land den er hjemmehørendelovgivningen eller stiftelsesdokumentene er til hinder for uttak fra virksomheten til annet enn formåletenheten ikke har andelseiere eller medlemmer som har eiendomsrett eller interesse i form av begunstigelse i kontohavers inntekter eller eiendelerved eventuell avvikling skal alle eiendeler tilfalle en annen allmennyttig organisasjon eller offentlige myndigheterslik at reelle rettighetshavere som er skattemessig bosatt i USA eller amerikanske statsborgere ikke skal identifiseres, nårkontohaver er opprettet i et amerikansk territorium og alle eierne av betalingsmottaker er reelt bosatt i vedkommende amerikanske territorium ellerkontohaver er en ikke-amerikansk styresmakt, en styresmakt på et amerikansk territorium, en internasjonal organisasjon, en ikke-amerikansk sentralbank eller en enhet som er heleid av en eller flere av de forannevnte.
+1. etter multilateral kompetent myndighetsavtale av 29. oktober 2014 om automatisk utveksling av opplysninger om finansielle konti for å forbedre internasjonal overholdelse av skattelovgivningen eller etter en bilateral avtale med Norge om å utveksle opplysninger om finansielle konti i tråd med OECDs Common Reporting Standard, anses som
+
+   1. en finansiell institusjon hjemmehørende i en jurisdiksjon som har tiltrådt avtalen
+   2. en enhet hjemmehørende i en jurisdiksjon som ikke har tiltrådt avtalen for så vidt gjelder Norge og som har inntekter som hovedsakelig kan henføres til investering, reinvestering, eller omsetning av finansielle produkter, og som styres, forvaltes eller på annen måte ledes av enhet som oppfyller vilkårene nevnt i [§ 7-3-6 bokstav a](forskrift/2016-11-23-1360/§7-3-6/bokstav/a) til c, eller bokstav d nr. 1.
+2. etter avtale av 15. april 2013 mellom Norge og USA om forbedret internasjonal overholdelse av skattelovgivningen og gjennomføring av FATCA, anses som finansiell institusjon nevnt i vedlegg I punkt V A (ii) og (iii).
+
+(3) Dersom kontohaver ikke anses som finansiell institusjon, skal det fastslås om kontohaver anses som aktiv eller passiv. Anses kontohaver som passiv, skal kontoen merkes særskilt, og det skal fastslås hvor reelle rettighetshavere er skattemessig bosatt. Kontohaver anses som passiv når ingen av vilkårene for å anses som aktiv er oppfylt. Kontohaver anses som aktiv
+
+1. slik at det ikke skal fastslås hvor reelle rettighetshavere er skattemessig bosatt, når
+
+   1. mindre enn 50 prosent av virksomhetens bruttoinntekt i foregående inntektsår var passiv inntekt og mindre enn 50 prosent av virksomhetens aktiva i foregående inntektsår var passive kapitalplasseringer
+   2. selskapets aksjer omsettes jevnlig i et etablert verdipapirmarked eller selskapet er nærstående enhet til slikt selskap
+   3. den er et offentlig organ
+   4. virksomheten består i å yte finansielle tjenester til ett eller flere datterselskaper som ikke driver virksomhet som finansiell institusjon, unntatt når formålet er å erverve eller finansiere selskaper og deretter beholde eierinteressene for investeringsformål
+   5. virksomheten er under oppstart og investerer kapital i aktiva de første 24 måneder for å drive annen virksomhet enn som finansiell institusjon
+   6. virksomheten er i ferd med å avvikle eller omorganisere sine aktiva når den ikke har drevet forretningsvirksomhet som finansiell institusjon de siste fem år og ikke skal drive slik virksomhet
+   7. virksomheten driver hovedsakelig med finansierings- og sikringstransaksjoner med eller for nærstående enheter som ikke er finansielle institusjoner, og yter ikke finansierings- eller sikringstjenester overfor noen enhet som ikke er en nærstående enhet, forutsatt at gruppen bestående av alle slike nærstående enheter hovedsakelig driver en annen forretningsvirksomhet enn virksomhet som finansiell institusjon eller
+   8. den juridiske personen er organisert som en stiftelse (eller lignende person) som drives for rent religiøse, veldedige, vitenskapelige, artistiske, kulturelle eller utdanningsmessige formål, og
+
+      1. enheten er regulert og fritatt fra inntektsskatt etter lovgivningen i det land den er hjemmehørende
+      2. lovgivningen eller stiftelsesdokumentene er til hinder for uttak fra virksomheten til annet enn formålet
+      3. enheten ikke har andelseiere eller medlemmer som har eiendomsrett eller interesse i form av begunstigelse i kontohavers inntekter eller eiendeler
+      4. ved eventuell avvikling skal alle eiendeler tilfalle en annen allmennyttig organisasjon eller offentlige myndigheter
+2. slik at reelle rettighetshavere som er skattemessig bosatt i USA eller amerikanske statsborgere ikke skal identifiseres, når
+
+   1. kontohaver er opprettet i et amerikansk territorium og alle eierne av betalingsmottaker er reelt bosatt i vedkommende amerikanske territorium eller
+   2. kontohaver er en ikke-amerikansk styresmakt, en styresmakt på et amerikansk territorium, en internasjonal organisasjon, en ikke-amerikansk sentralbank eller en enhet som er heleid av en eller flere av de forannevnte.
 
 > Endret ved [forskrifter 14 aug 2017 nr. 1253](forskrift/2017-08-14-1253), [14 des 2018 nr. 2005](forskrift/2018-12-14-2005), [25 juni 2025 nr. 1297](forskrift/2025-06-25-1297).
 
 ### § 7-3-23. Fastslå hvor reelle rettighetshavere er skattemessig bosatt
 
-(1) Opplysningspliktig skal innhente egenerklæring som nevnt i [§ 7-3-16](forskrift/2016-11-23-1360/§7-3-16) fra kontohaver eller reelle rettighetshavere, som viser hvor reelle rettighetshavere er skattemessig bosatt og om reelle rettighetshavere er amerikanske statsborgere, når kontohaverer en enhet som nevnt i [§ 7-3-22 annet ledd bokstav a](forskrift/2016-11-23-1360/§7-3-22/ledd/2/bokstav/a) [nr. 2](forskrift/2016-11-23-1360/§7-3-22/ledd/2/nummer/2) elleranses som passiv etter [§ 7-3-22 tredje ledd](forskrift/2016-11-23-1360/§7-3-22/ledd/3).
+(1) Opplysningspliktig skal innhente egenerklæring som nevnt i [§ 7-3-16](forskrift/2016-11-23-1360/§7-3-16) fra kontohaver eller reelle rettighetshavere, som viser hvor reelle rettighetshavere er skattemessig bosatt og om reelle rettighetshavere er amerikanske statsborgere, når kontohaver
+
+1. er en enhet som nevnt i [§ 7-3-22 annet ledd bokstav a](forskrift/2016-11-23-1360/§7-3-22/ledd/2/bokstav/a) [nr. 2](forskrift/2016-11-23-1360/§7-3-22/ledd/2/nummer/2) eller
+2. anses som passiv etter [§ 7-3-22 tredje ledd](forskrift/2016-11-23-1360/§7-3-22/ledd/3).
 
 (2) Plikten til å identifisere reelle rettighetshavere som er skattemessig bosatt i USA eller amerikanske statsborgere gjelder ikke kontohavere som nevnt i [§ 7-3-22 annet ledd](forskrift/2016-11-23-1360/§7-3-22/ledd/2) eller [§ 7-3-22 tredje ledd bokstav b](forskrift/2016-11-23-1360/§7-3-22/ledd/3/bokstav/b).
 
@@ -772,7 +1182,10 @@ For å fastslå om en kontohaver er en finansiell institusjon eller annen enhet,
 
 ### § 7-3-27. Fastslå hvor reelle rettighetshavere er skattemessig bosatt og om de er amerikanske statsborgere
 
-(1) Opplysningspliktig skal innhente egenerklæring som nevnt i [§ 7-3-31](forskrift/2016-11-23-1360/§7-3-31) fra kontohaver eller reelle rettighetshavere, som viser hvor reelle rettighetshavere er skattemessig bosatt og om de er amerikanske statsborgere, når kontohaver er identifisert etter [§ 7-3-26](forskrift/2016-11-23-1360/§7-3-26) somen enhet som nevnt i [§ 7-3-22 annet ledd](forskrift/2016-11-23-1360/§7-3-22/ledd/2) ellerpassiv etter [§ 7-3-22 tredje ledd](forskrift/2016-11-23-1360/§7-3-22/ledd/3).
+(1) Opplysningspliktig skal innhente egenerklæring som nevnt i [§ 7-3-31](forskrift/2016-11-23-1360/§7-3-31) fra kontohaver eller reelle rettighetshavere, som viser hvor reelle rettighetshavere er skattemessig bosatt og om de er amerikanske statsborgere, når kontohaver er identifisert etter [§ 7-3-26](forskrift/2016-11-23-1360/§7-3-26) som
+
+1. en enhet som nevnt i [§ 7-3-22 annet ledd](forskrift/2016-11-23-1360/§7-3-22/ledd/2) eller
+2. passiv etter [§ 7-3-22 tredje ledd](forskrift/2016-11-23-1360/§7-3-22/ledd/3).
 
 (2) Dersom kontosaldo eller verdi ikke overstiger USD 1 000 000, kan opplysningspliktige basere seg på egne opplysninger for å fastslå hvor reelle rettighetshavere er skattemessig bosatt.
 
@@ -786,7 +1199,12 @@ For å fastslå om en kontohaver er en finansiell institusjon eller annen enhet,
 
 ### § 7-3-28. Nye og eksisterende konti
 
-(1) Konti opprettet 1. januar 2016 eller senere anses som nye konti. En konto opprettet 1. januar 2016 eller senere kan likevel anses som en eksisterende konto dersom opplysningspliktige fortsatt vet eller bør vite at tidligere innhentet og gyldig egenerklæring eller dokumentbevis er korrekte og pålitelige, ogkontohaver allerede eier eller råder over en eksisterende konto hos opplysningspliktig eller hos en nærstående enhetopplysningspliktig (og eventuell nærstående enhet) summerer verdien av den nye kontoen og de eksisterende konti etter [§ 7-3-29 første punktum](forskrift/2016-11-23-1360/§7-3-29/setning/1)det ikke er påkrevet å gjennomføre ny kundekontroll ved opprettelse av kontoen etter [hvitvaskingsloven](lov/2018-06-01-23) ogopprettelse av kontoen ikke medfører at opplysningspliktig må innhente nye kundeopplysninger.
+(1) Konti opprettet 1. januar 2016 eller senere anses som nye konti. En konto opprettet 1. januar 2016 eller senere kan likevel anses som en eksisterende konto dersom opplysningspliktige fortsatt vet eller bør vite at tidligere innhentet og gyldig egenerklæring eller dokumentbevis er korrekte og pålitelige, og
+
+1. kontohaver allerede eier eller råder over en eksisterende konto hos opplysningspliktig eller hos en nærstående enhet
+2. opplysningspliktig (og eventuell nærstående enhet) summerer verdien av den nye kontoen og de eksisterende konti etter [§ 7-3-29 første punktum](forskrift/2016-11-23-1360/§7-3-29/setning/1)
+3. det ikke er påkrevet å gjennomføre ny kundekontroll ved opprettelse av kontoen etter [hvitvaskingsloven](lov/2018-06-01-23) og
+4. opprettelse av kontoen ikke medfører at opplysningspliktig må innhente nye kundeopplysninger.
 
 (2) Konti opprettet før 1. januar 2016, anses som eksisterende konto.
 
@@ -808,7 +1226,11 @@ Opplysningspliktige skal, ved beregning av kontosaldo eller verdi ved gjennomgan
 
 (3) Valg etter første og annet ledd må gjelde alle konti, en klart avgrenset type konto, eller en avgrenset del av den opplysningspliktiges virksomhet. Valget har ikke betydning for fristen til å innhente utenlandsk identifikasjonsnummer eller hvilke eksisterende konti det er plikt til å gå gjennom.
 
-(4) Opplysningspliktige kan velge å ikke gå gjennom kollektive forsikringsavtaler med gjenkjøpsverdi og kollektive livrenter som er utstedt til en arbeidsgiver eller individuelle ansatte inntil utbetaling for å identifisere kontohaver og reelle rettighetshavere som er skattepliktige eller hjemmehørende i en annen stat eller jurisdiksjon enn USA, dersomden kollektive forsikringsavtalen med gjenkjøpsverdi eller den kollektive livrenten er utstedt til en arbeidsgiver og dekker 25 eller flere ansattede ansatte er berettiget til å motta enhver kontraktsinteresse i tilknytning til sin avtale og til å oppnevne begunstigede i tilfelle arbeidstakers død ogden samlede utbetalingen til en ansatt eller begunstigede ikke overstiger USD 1 000 000.
+(4) Opplysningspliktige kan velge å ikke gå gjennom kollektive forsikringsavtaler med gjenkjøpsverdi og kollektive livrenter som er utstedt til en arbeidsgiver eller individuelle ansatte inntil utbetaling for å identifisere kontohaver og reelle rettighetshavere som er skattepliktige eller hjemmehørende i en annen stat eller jurisdiksjon enn USA, dersom
+
+1. den kollektive forsikringsavtalen med gjenkjøpsverdi eller den kollektive livrenten er utstedt til en arbeidsgiver og dekker 25 eller flere ansatte
+2. de ansatte er berettiget til å motta enhver kontraktsinteresse i tilknytning til sin avtale og til å oppnevne begunstigede i tilfelle arbeidstakers død og
+3. den samlede utbetalingen til en ansatt eller begunstigede ikke overstiger USD 1 000 000.
 
 (5) Opplysningspliktige kan legge til grunn at fysiske personer som mottar en utbetaling fra en forsikringsavtale med gjenkjøpsverdi eller en individuell livrente knyttet til et dødsfall ikke er skattemessig bosatt i utlandet eller er amerikansk statsborger, med mindre det foreligger opplysninger som nevnt i [§ 7-3-18 annet ledd](forskrift/2016-11-23-1360/§7-3-18/ledd/2) om den begunstigede. Foreligger det opplysninger som nevnt i [§ 7-3-18 annet ledd](forskrift/2016-11-23-1360/§7-3-18/ledd/2), skal kontoen behandles etter reglene i [§ 7-3-12](forskrift/2016-11-23-1360/§7-3-12). Dette ledd gjelder ikke utbetalinger til forsikringstaker eller andre som er benevnt som eier i forsikringsavtalen.
 
@@ -816,7 +1238,15 @@ Opplysningspliktige skal, ved beregning av kontosaldo eller verdi ved gjennomgan
 
 ### § 7-3-31. Egenerklæring fra fysisk person
 
-(1) En egenerklæring skal være signert eller bekreftet av kontohaver, datert og inneholde opplysninger omnavnadressestater og jurisdiksjoner hvor kontohaver er skattemessig bosattamerikansk statsborgerskapnorsk fødselsnummer og D-nummerutenlandsk identifikasjonsnummer ogfødselsdato.
+(1) En egenerklæring skal være signert eller bekreftet av kontohaver, datert og inneholde opplysninger om
+
+1. navn
+2. adresse
+3. stater og jurisdiksjoner hvor kontohaver er skattemessig bosatt
+4. amerikansk statsborgerskap
+5. norsk fødselsnummer og D-nummer
+6. utenlandsk identifikasjonsnummer og
+7. fødselsdato.
 
 (2) Egenerklæringen skal også forplikte kontohaver til å ta kontakt med den opplysningspliktige og gi opplysninger ved endringer.
 
@@ -824,7 +1254,14 @@ Opplysningspliktige skal, ved beregning av kontosaldo eller verdi ved gjennomgan
 
 ### § 7-3-32. Egenerklæring fra enhet
 
-(1) En egenerklæring skal være signert eller bekreftet av person med fullmakt, datert og inneholde opplysninger omnavnadressestater og jurisdiksjoner hvor kontohaver er skattemessig hjemmehørende ogutenlandsk identifikasjonsnummer.Egenerklæringen skal også forplikte kontohaver til å ta kontakt med den opplysningspliktige og gi opplysninger ved endringer.
+(1) En egenerklæring skal være signert eller bekreftet av person med fullmakt, datert og inneholde opplysninger om
+
+1. navn
+2. adresse
+3. stater og jurisdiksjoner hvor kontohaver er skattemessig hjemmehørende og
+4. utenlandsk identifikasjonsnummer.
+
+Egenerklæringen skal også forplikte kontohaver til å ta kontakt med den opplysningspliktige og gi opplysninger ved endringer.
 
 (2) opplysningspliktige skal vurdere om opplysningene gitt i egenerklæringen er pålitelige ut fra andre opplysninger som innhentes ved kontoopprettelsen. Dersom opplysningene gitt i egenerklæringen ikke er pålitelige, skal det innhentes en ny egenerklæring eller en rimelig forklaring med tilhørende dokumentasjon.
 
@@ -854,7 +1291,10 @@ Opplysningspliktige skal, ved beregning av kontosaldo eller verdi ved gjennomgan
 
 ### § 7-5-1. Opplysningsplikt for leietakere
 
-(1) Opplysninger som nevnt i [skatteforvaltningsloven § 7-5 første ledd](lov/2016-05-27-14/§7-5/ledd/1) skal gis av den som har leietbolig som fritt eller mot vederlag er stillet til disposisjon for arbeids- eller oppdragstaker, unntatt når boligen eies av stat, fylkeskommune, kommune eller norsk aksjeselskapboligeiendom eller noen del av slik eiendom fra egen arbeidstaker, unntatt når leiebeløpet er innrapportert på a-meldingen. Det samme gjelder når aksjeselskap leier eiendom som nevnt av aksjonær, unntatt når leiebeløpet er tatt med i aksjonæroppgave.
+(1) Opplysninger som nevnt i [skatteforvaltningsloven § 7-5 første ledd](lov/2016-05-27-14/§7-5/ledd/1) skal gis av den som har leiet
+
+1. bolig som fritt eller mot vederlag er stillet til disposisjon for arbeids- eller oppdragstaker, unntatt når boligen eies av stat, fylkeskommune, kommune eller norsk aksjeselskap
+2. boligeiendom eller noen del av slik eiendom fra egen arbeidstaker, unntatt når leiebeløpet er innrapportert på a-meldingen. Det samme gjelder når aksjeselskap leier eiendom som nevnt av aksjonær, unntatt når leiebeløpet er tatt med i aksjonæroppgave.
 
 (2) Opplysninger om påløpt leie samt utbetalinger i siste år til den enkelte utleier skal gis uansett om leietakeren skal foreta eller har foretatt utbetalingen selv. Opplysningene skal gis til skattekontoret innen 31. januar året etter skattleggingsperioden. Opplysningene skal gis på fastsatt melding.
 
@@ -886,13 +1326,21 @@ Norsk Pasientskadeerstatning og andre utbetalere av erstatning for personskade o
 
 ### § 7-5-7. Opplysningspliktens omfang
 
-Det skal gis opplysninger omalle utbetalinger ved personskade som skal dekke ervervstap frem til oppgjørstidspunktet og for et tidfestet fremtidig tidsrom. Alle periodiske utbetalinger ved personskade.renter på alle utbetalinger.
+Det skal gis opplysninger om
+
+1. alle utbetalinger ved personskade som skal dekke ervervstap frem til oppgjørstidspunktet og for et tidfestet fremtidig tidsrom. Alle periodiske utbetalinger ved personskade.
+2. renter på alle utbetalinger.
 
 > Endret ved [forskrift 15 mai 2019 nr. 636](forskrift/2019-05-15-636) (i kraft 1 jan 2020, tidligere [§ 7-5-4](forskrift/2016-11-23-1360)).
 
 ### § 7-5-8. Opplysningspliktens innhold
 
-Det skal gis opplysninger omnavn og organisasjonsnummer på den som gir opplysningenefødselsnummer eller organisasjonsnummer, navn og adresse på den beløpet utbetales tilutbetalt beløputbetalingstype.
+Det skal gis opplysninger om
+
+1. navn og organisasjonsnummer på den som gir opplysningene
+2. fødselsnummer eller organisasjonsnummer, navn og adresse på den beløpet utbetales til
+3. utbetalt beløp
+4. utbetalingstype.
 
 > Endret ved [forskrift 15 mai 2019 nr. 636](forskrift/2019-05-15-636) (i kraft 1 jan 2020, tidligere [§ 7-5-5](forskrift/2016-11-23-1360)).
 
@@ -914,7 +1362,11 @@ Næringsdrivende som utøver næring ved å kjøpe og omsette levende dyr, slakt
 
 ### § 7-5-11. Opplysningspliktens innhold
 
-Det skal gis opplysninger omprodusentens fødselsnummer eller organisasjonsnummer, navn og adresseantall enheter, vekt, og samlet netto verdi av omsetningen inkludert eventuelle tilskudd som utbetales i forbindelse med salgsoppgjøret. Dersom omsetningen består av dyr eller skinn, må verdien for hver dyreart fremgå. Dersom slakt eller deler av slakt tas i retur av produsenten, må dette opplyses om.organisasjonsnummer eller fødselsnummer, navn og adresse for den som gir opplysningene.
+Det skal gis opplysninger om
+
+1. produsentens fødselsnummer eller organisasjonsnummer, navn og adresse
+2. antall enheter, vekt, og samlet netto verdi av omsetningen inkludert eventuelle tilskudd som utbetales i forbindelse med salgsoppgjøret. Dersom omsetningen består av dyr eller skinn, må verdien for hver dyreart fremgå. Dersom slakt eller deler av slakt tas i retur av produsenten, må dette opplyses om.
+3. organisasjonsnummer eller fødselsnummer, navn og adresse for den som gir opplysningene.
 
 > Endret ved [forskrift 15 mai 2019 nr. 636](forskrift/2019-05-15-636) (i kraft 1 jan 2020, tidligere [§ 7-5-8](forskrift/2016-11-23-1360/§7-5-8)).
 
@@ -950,7 +1402,14 @@ Godkjent salgsorganisasjon for fisk skal gi opplysninger om all omsetning av rå
 
 ### § 7-5-15. Opplysningspliktens innhold
 
-Det skal gis opplysninger omsalgsorganisasjonens organisasjonsnummer, navn og adressefiskerens fødselsnummer eller rederiets organisasjonsnummer, navn, adresse og kommunenummer. For fisker eller rederi som er bosatt eller lokalisert i utlandet, oppgis navn, adresse og landkode for bostedsland eller lokalisering, samt båtens navn og registreringsnummer.verdi av omsetningen, fordelt på omsetningstyperutbetalt føringstilskudd og andre tilskudd knyttet til omsetningenetterbetaling av salgsoppgjør mv. til fisker eller rederilandkode for omsetning og eventuelt tilskudd dersom fisken er landet i utlandet.
+Det skal gis opplysninger om
+
+1. salgsorganisasjonens organisasjonsnummer, navn og adresse
+2. fiskerens fødselsnummer eller rederiets organisasjonsnummer, navn, adresse og kommunenummer. For fisker eller rederi som er bosatt eller lokalisert i utlandet, oppgis navn, adresse og landkode for bostedsland eller lokalisering, samt båtens navn og registreringsnummer.
+3. verdi av omsetningen, fordelt på omsetningstyper
+4. utbetalt føringstilskudd og andre tilskudd knyttet til omsetningen
+5. etterbetaling av salgsoppgjør mv. til fisker eller rederi
+6. landkode for omsetning og eventuelt tilskudd dersom fisken er landet i utlandet.
 
 > Endret ved [forskrift 15 mai 2019 nr. 636](forskrift/2019-05-15-636) (i kraft 1 jan 2020, tidligere [§ 7-5-12](forskrift/2016-11-23-1360/§7-5-12)).
 
@@ -994,7 +1453,17 @@ Dersom løyvet har skiftet løyvehaver i skattleggingsperioden, skal opplysninge
 
 ### § 7-5-21. Opplysningspliktens innhold
 
-Det skal gis opplysninger omorganisasjonsnummer og navn på den som gir opplysningeneløyvehavers organisasjonsnummer og navnløyvenummerakkumulerte tall fra skiftlappene, jf. [bokføringsforskriften § 8-2-3](forskrift/2004-12-01-1558/§8-2-3), for tidsrommet fra 1. januar til 31. desember i skattleggingsperioden forkontantomsetning eksklusiv merverdiavgiftkredittomsetning eksklusiv merverdiavgiftkjørte kilometerbesatte kilometer.
+Det skal gis opplysninger om
+
+1. organisasjonsnummer og navn på den som gir opplysningene
+2. løyvehavers organisasjonsnummer og navn
+3. løyvenummer
+4. akkumulerte tall fra skiftlappene, jf. [bokføringsforskriften § 8-2-3](forskrift/2004-12-01-1558/§8-2-3), for tidsrommet fra 1. januar til 31. desember i skattleggingsperioden for
+
+   1. kontantomsetning eksklusiv merverdiavgift
+   2. kredittomsetning eksklusiv merverdiavgift
+   3. kjørte kilometer
+   4. besatte kilometer.
 
 > Endret ved [forskrifter 15 mai 2019 nr. 636](forskrift/2019-05-15-636) (i kraft 1 jan 2020, tidligere [§ 7-5-18](forskrift/2016-11-23-1360/§7-5-18)), [21 des 2020 nr. 3100](forskrift/2020-12-21-3100) (i kraft 1 jan 2021).
 
@@ -1010,9 +1479,23 @@ Det skal gis opplysninger omorganisasjonsnummer og navn på den som gir opplysni
 
 ### § 7-6-1. Opplysningsplikt for oppdragsgiver og oppdragstaker
 
-(1) Oppdragsgiver skal gi opplysninger omeget navn og norsk organisasjonsnummer. Har oppdragsgiver ikke norsk organisasjonsnummer, skal det gis opplysninger om eventuell adresse i Norge, samt adresse og registreringsnummer i hjemlandet. Det skal også gis opplysninger om kontaktperson på oppdragetoppdragstakers navn og norsk organisasjonsnummer. Har oppdragstaker ikke norsk organisasjonsnummer, skal det gis opplysninger om eventuell adresse i Norge, samt adresse og registreringsnummer i hjemlandet.Dersom oppdragstaker er selvstendig næringsdrivende skal det også gis opplysninger om norsk fødselsnummer eller D-nummer samt utenlandsk identitetsnummer. Er det ikke tildelt norsk fødselsnummer eller D-nummer, skal fødselsdato, kjønn og nasjonalitet oppgisoppdragets start- og avslutningstidspunkt, stedet der oppdraget skal utføres, kontraktstype, kontraktsbeløp, og kontraktsnummereventuell egen oppdragsgiver, samt dennes norske organisasjonsnummer og kontraktsnummer. Det skal også gis opplysninger om eventuell hovedoppdragsgivers navn, dennes norske organisasjonsnummer og hovedkontraktsnummer.Med hovedoppdragsgiver menes den oppdragsgiver i en kontraktskjede som først gir et oppdrag til en utenlandsk oppdragstaker.
+(1) Oppdragsgiver skal gi opplysninger om
 
-(2) Oppdragstaker skal gi opplysninger omeget navn og norsk organisasjonsnummer. Har oppdragstaker ikke norsk organisasjonsnummer, skal det gis opplysninger om eventuell adresse i Norge, samt adresse og registreringsnummer i hjemlandet. Det skal også gis opplysninger om kontaktperson på oppdragetoppdragsgivers navn, adresse i Norge og utlandet, norsk organisasjonsnummer eller hvis det ikke er tildelt, utenlandsk registreringsnummer. Det skal også gis opplysninger om kontraktsnummeret på oppdragetegen arbeidstakers navn, fødselsdato, norsk fødselsnummer eller D-nummer, utenlandsk identitetsnummer samt adresse i Norge og utlandet. Dersom arbeidstaker ikke har norsk fødselsnummer eller D-nummer, skal det gis opplysninger om arbeidstakers kjønn og nasjonalitetegen arbeidstakers første og siste arbeidsdag på oppdraget og arbeidssted.
+1. eget navn og norsk organisasjonsnummer. Har oppdragsgiver ikke norsk organisasjonsnummer, skal det gis opplysninger om eventuell adresse i Norge, samt adresse og registreringsnummer i hjemlandet. Det skal også gis opplysninger om kontaktperson på oppdraget
+2. oppdragstakers navn og norsk organisasjonsnummer. Har oppdragstaker ikke norsk organisasjonsnummer, skal det gis opplysninger om eventuell adresse i Norge, samt adresse og registreringsnummer i hjemlandet.
+
+   Dersom oppdragstaker er selvstendig næringsdrivende skal det også gis opplysninger om norsk fødselsnummer eller D-nummer samt utenlandsk identitetsnummer. Er det ikke tildelt norsk fødselsnummer eller D-nummer, skal fødselsdato, kjønn og nasjonalitet oppgis
+3. oppdragets start- og avslutningstidspunkt, stedet der oppdraget skal utføres, kontraktstype, kontraktsbeløp, og kontraktsnummer
+4. eventuell egen oppdragsgiver, samt dennes norske organisasjonsnummer og kontraktsnummer. Det skal også gis opplysninger om eventuell hovedoppdragsgivers navn, dennes norske organisasjonsnummer og hovedkontraktsnummer.
+
+   Med hovedoppdragsgiver menes den oppdragsgiver i en kontraktskjede som først gir et oppdrag til en utenlandsk oppdragstaker.
+
+(2) Oppdragstaker skal gi opplysninger om
+
+1. eget navn og norsk organisasjonsnummer. Har oppdragstaker ikke norsk organisasjonsnummer, skal det gis opplysninger om eventuell adresse i Norge, samt adresse og registreringsnummer i hjemlandet. Det skal også gis opplysninger om kontaktperson på oppdraget
+2. oppdragsgivers navn, adresse i Norge og utlandet, norsk organisasjonsnummer eller hvis det ikke er tildelt, utenlandsk registreringsnummer. Det skal også gis opplysninger om kontraktsnummeret på oppdraget
+3. egen arbeidstakers navn, fødselsdato, norsk fødselsnummer eller D-nummer, utenlandsk identitetsnummer samt adresse i Norge og utlandet. Dersom arbeidstaker ikke har norsk fødselsnummer eller D-nummer, skal det gis opplysninger om arbeidstakers kjønn og nasjonalitet
+4. egen arbeidstakers første og siste arbeidsdag på oppdraget og arbeidssted.
 
 > Endret ved [forskrift 21 des 2017 nr. 2361](forskrift/2017-12-21-2361) (i kraft 1 jan 2018).
 
@@ -1028,13 +1511,22 @@ Det kan inngås avtale mellom oppdragsgivere i flere ledd om at opplysninger kan
 
 ### § 7-6-4. Fritak fra opplysningsplikten
 
-Plikten til å gi opplysninger etter [skatteforvaltningsloven § 7-6](lov/2016-05-27-14/§7-6) gjelder ikkeved tildeling av oppdrag hvor avtalt vederlag er under 20 000 kronerved tildeling av kabotasjeoppdragoppdrag som skal utføres på Svalbard.
+Plikten til å gi opplysninger etter [skatteforvaltningsloven § 7-6](lov/2016-05-27-14/§7-6) gjelder ikke
+
+1. ved tildeling av oppdrag hvor avtalt vederlag er under 20 000 kroner
+2. ved tildeling av kabotasjeoppdrag
+3. oppdrag som skal utføres på Svalbard.
 
 > Endret ved [forskrifter 4 sep 2017 nr. 1344](forskrift/2017-09-04-1344), [21 des 2017 nr. 2361](forskrift/2017-12-21-2361) (i kraft 1 jan 2018).
 
 ### § 7-6-5. Rammeavtaler
 
-Plikten til å gi opplysninger etter [§ 7-6-1 første ledd](forskrift/2016-11-23-1360/§7-6-1/ledd/1) gjelder for hvert avrop under en rammeavtale. Plikten gjelder likevel ikke for opplysninger som allerede er gitt for rammeavtalen. Oppdragsgiver skal for hvert avrop gi opplysninger om dette avropets;start- og avslutningstidspunktsted for utførelserammekontraktsnummer og avropsnummeravtalte vederlag.
+Plikten til å gi opplysninger etter [§ 7-6-1 første ledd](forskrift/2016-11-23-1360/§7-6-1/ledd/1) gjelder for hvert avrop under en rammeavtale. Plikten gjelder likevel ikke for opplysninger som allerede er gitt for rammeavtalen. Oppdragsgiver skal for hvert avrop gi opplysninger om dette avropets;
+
+1. start- og avslutningstidspunkt
+2. sted for utførelse
+3. rammekontraktsnummer og avropsnummer
+4. avtalte vederlag.
 
 > Tilføyd ved [forskrift 22 des 2021 nr. 3881](forskrift/2021-12-22-3881) (i kraft 1 jan 2022).
 
@@ -1066,15 +1558,47 @@ Opplysningene skal gis til skattekontoret. Skattekontoret kan godta at opplysnin
 
 (2) Selskap, hvis aksjer er registrert i et verdipapirregister, fritas for opplysningsplikten i den grad verdipapirregisteret sender inn de samme opplysninger på vegne av selskapet.
 
-(3) Selskaper og sammenslutninger som nevnt i [skatteforvaltningsloven § 7-7 tredje ledd](lov/2016-05-27-14/§7-7/ledd/3) plikter ikke å gi opplysninger omendringer i løpet av skattleggingsperioden i andelskapitalens eller grunnfondsbeviskapitalens mv. størrelse og andelenes eller grunnfondsbevisenes antall, som følge av stiftelse, emisjoner, fusjon og fisjonerverv og realisasjoner av andeler og grunnfondsbevis mv. i løpet av skattleggingsperiodenavsatt utbytte.
+(3) Selskaper og sammenslutninger som nevnt i [skatteforvaltningsloven § 7-7 tredje ledd](lov/2016-05-27-14/§7-7/ledd/3) plikter ikke å gi opplysninger om
+
+1. endringer i løpet av skattleggingsperioden i andelskapitalens eller grunnfondsbeviskapitalens mv. størrelse og andelenes eller grunnfondsbevisenes antall, som følge av stiftelse, emisjoner, fusjon og fisjon
+2. erverv og realisasjoner av andeler og grunnfondsbevis mv. i løpet av skattleggingsperioden
+3. avsatt utbytte.
 
 ### § 7-7-2. Selskapsopplysninger
 
-Opplysningene om selskapet skal inneholdeidentifikasjonsopplysningerselskapets organisasjonsnummerselskapets navn og adresseaksjeklasse, eventuelt ISIN-nummerstandardopplysninger vedrørende selskapets aksjekapital og overkursutdelt utbytte i skattleggingsperiodenutstedelse av aksjer i forbindelse med stiftelse, nyemisjon, fusjon, fisjon mv.utstedelse av aksjer i forbindelse med fondsemisjon, splitt, skattefri fusjon og skattefri fisjonsletting av aksjer i forbindelse med likvidasjon, partiell likvidasjon, fusjon, fisjon mv.sletting av aksjer i forbindelse med spleis, skattefri fusjon og skattefri fisjonendringer i aksjekapital og overkurs.
+Opplysningene om selskapet skal inneholde
+
+1. identifikasjonsopplysninger
+
+   1. selskapets organisasjonsnummer
+   2. selskapets navn og adresse
+   3. aksjeklasse, eventuelt ISIN-nummer
+2. standardopplysninger vedrørende selskapets aksjekapital og overkurs
+3. utdelt utbytte i skattleggingsperioden
+4. utstedelse av aksjer i forbindelse med stiftelse, nyemisjon, fusjon, fisjon mv.
+5. utstedelse av aksjer i forbindelse med fondsemisjon, splitt, skattefri fusjon og skattefri fisjon
+6. sletting av aksjer i forbindelse med likvidasjon, partiell likvidasjon, fusjon, fisjon mv.
+7. sletting av aksjer i forbindelse med spleis, skattefri fusjon og skattefri fisjon
+8. endringer i aksjekapital og overkurs.
 
 ### § 7-7-3. Aksjonæropplysninger
 
-Opplysningene om aksjonær skal inneholdeidentifikasjonsopplysningerfødselsnummer, D-nummer, organisasjonsnummer eller lignendenavn og adresse (landkode)aksjeklasse, eventuelt ISIN-nummerpålydendestandardopplysninger vedrørende aksjonærs beholdning av aksjer, utdelt utbytte per aksjonær og eventuell kildeskatttransaksjonsopplysninger (aksjer i tilgang og avgang)kjøp, arv, gave, stiftelse, nyemisjon, konvertering av fordring, fusjon, fisjon, konsernintern overføring og omdannelse av enkeltpersonforetakfondsemisjon, splitt, skattefri fusjon og skattefri fisjonsalg, arv, gave, likvidasjon, partiell likvidasjon, fusjon, fisjon, konsernintern overføring, sletting av egne aksjer og fusjon og fisjon med bruk av egne aksjerspleis, skattefri fusjon og skattefri fisjonendringer i aksjekapital og overkurs.
+Opplysningene om aksjonær skal inneholde
+
+1. identifikasjonsopplysninger
+
+   1. fødselsnummer, D-nummer, organisasjonsnummer eller lignende
+   2. navn og adresse (landkode)
+   3. aksjeklasse, eventuelt ISIN-nummer
+   4. pålydende
+2. standardopplysninger vedrørende aksjonærs beholdning av aksjer, utdelt utbytte per aksjonær og eventuell kildeskatt
+3. transaksjonsopplysninger (aksjer i tilgang og avgang)
+
+   1. kjøp, arv, gave, stiftelse, nyemisjon, konvertering av fordring, fusjon, fisjon, konsernintern overføring og omdannelse av enkeltpersonforetak
+   2. fondsemisjon, splitt, skattefri fusjon og skattefri fisjon
+   3. salg, arv, gave, likvidasjon, partiell likvidasjon, fusjon, fisjon, konsernintern overføring, sletting av egne aksjer og fusjon og fisjon med bruk av egne aksjer
+   4. spleis, skattefri fusjon og skattefri fisjon
+4. endringer i aksjekapital og overkurs.
 
 ### § 7-7-4. Levering av opplysninger
 
@@ -1140,9 +1664,19 @@ Opplysningene om aksjonær skal inneholdeidentifikasjonsopplysningerfødselsnumm
 
 ### § 7-9-3. Opplysningspliktens innhold
 
-(1) For melding som nevnt i [§ 7-9-2 første](forskrift/2016-11-23-1360/§7-9-2/ledd/1) og [annet ledd](forskrift/2016-11-23-1360/§7-9-2/ledd/2) skal det gis opplysninger omnavn, adresse, fødselsnummer, D-nummer eller organisasjonsnummer og kommunenummer på den opplysningen gjelder. Der person eller organisasjon som opplysningen gjelder er bosatt eller lokalisert i utlandet skal adresseinformasjonen inneholde landkode for bostedsland. For personer som ikke har norsk fødselsnummer eller D-nummer eller organisasjoner som ikke har norsk organisasjonsnummer skal opplysningen minimum inneholde fødselsdato eller et unikt ID-nummer som kan brukes i utveksling av kontrolloppgaver med utenlandske skattemyndigheter.navn, adresse og fødselsnummer, D-nummer eller organisasjonsnummer på den som gir opplysningen.
+(1) For melding som nevnt i [§ 7-9-2 første](forskrift/2016-11-23-1360/§7-9-2/ledd/1) og [annet ledd](forskrift/2016-11-23-1360/§7-9-2/ledd/2) skal det gis opplysninger om
 
-(2) For erstatning, tilskudd, bidrag, trygd, stønad mv. skal det gis opplysninger omhvilken type erstatning, tilskudd, bidrag, trygd, stønad mv. opplysningen gjelderformålet med utbetalingen som nevnt i bokstav abeløp som er utbetalt i eller som skal tidfestes til siste skattleggingsperiode. Skattedirektoratet kan bestemme at beløp for den enkelte utbetalingsmåned spesifiseres.gjeld ved utgangen av skattleggingsperiodenbeløp til gode ved utgangen av skattleggingsperiodenbetalte renter siste år.
+1. navn, adresse, fødselsnummer, D-nummer eller organisasjonsnummer og kommunenummer på den opplysningen gjelder. Der person eller organisasjon som opplysningen gjelder er bosatt eller lokalisert i utlandet skal adresseinformasjonen inneholde landkode for bostedsland. For personer som ikke har norsk fødselsnummer eller D-nummer eller organisasjoner som ikke har norsk organisasjonsnummer skal opplysningen minimum inneholde fødselsdato eller et unikt ID-nummer som kan brukes i utveksling av kontrolloppgaver med utenlandske skattemyndigheter.
+2. navn, adresse og fødselsnummer, D-nummer eller organisasjonsnummer på den som gir opplysningen.
+
+(2) For erstatning, tilskudd, bidrag, trygd, stønad mv. skal det gis opplysninger om
+
+1. hvilken type erstatning, tilskudd, bidrag, trygd, stønad mv. opplysningen gjelder
+2. formålet med utbetalingen som nevnt i bokstav a
+3. beløp som er utbetalt i eller som skal tidfestes til siste skattleggingsperiode. Skattedirektoratet kan bestemme at beløp for den enkelte utbetalingsmåned spesifiseres.
+4. gjeld ved utgangen av skattleggingsperioden
+5. beløp til gode ved utgangen av skattleggingsperioden
+6. betalte renter siste år.
 
 (3) For motorkjøretøyer skal det gis opplysninger om understellsnummer, registreringsforhold, klassifisering og tekniske data mv. som har betydning for skattemyndighetenes fastsetting av skatt.
 
@@ -1170,7 +1704,11 @@ Det skal gis en melding for hver bidragspliktig over vedkommendes gjeld i forbin
 
 ### § 7-9-6. Opplysningspliktens innhold
 
-Det skal gis opplysninger omden bidragspliktiges fødselsnummer, navn og adressesamlet gjeld eller tilgodehavende per 1. januar året etter skattleggingsperiodentilbakebetaling av underholdsbidrag for tidligere år.
+Det skal gis opplysninger om
+
+1. den bidragspliktiges fødselsnummer, navn og adresse
+2. samlet gjeld eller tilgodehavende per 1. januar året etter skattleggingsperioden
+3. tilbakebetaling av underholdsbidrag for tidligere år.
 
 > Endret ved [forskrift 18 des 2020 nr. 2989](forskrift/2020-12-18-2989) (med virkning for rapportering av opplysninger for 2020).
 
@@ -1192,7 +1730,12 @@ Fiskeridirektoratet skal tilgjengeliggjøre opplysninger om akvakulturdrift rapp
 
 ### § 7-9-9. Opplysningspliktens innhold
 
-Det skal gis opplysninger om virksomhetensnavn og organisasjonsnummerkvantum av slaktet fisk i skattleggingsperioden angitt i kilogram, spesifisert på henholdsvis fiskeart og tilvirkningsgradkvantum av slaktet fisk skal spesifiseres på lokalitet og produksjonsenheteierandel ved samdrift.
+Det skal gis opplysninger om virksomhetens
+
+1. navn og organisasjonsnummer
+2. kvantum av slaktet fisk i skattleggingsperioden angitt i kilogram, spesifisert på henholdsvis fiskeart og tilvirkningsgrad
+3. kvantum av slaktet fisk skal spesifiseres på lokalitet og produksjonsenhet
+4. eierandel ved samdrift.
 
 > Tilføyd ved [forskrift 22 des 2021 nr. 3853](forskrift/2021-12-22-3853) (i kraft 1 jan 2022).
 
@@ -1220,7 +1763,11 @@ Opplysningsplikten omfatter ikke bidrag fra anonyme givere.
 
 ### § 7-10-3. Opplysningspliktens innhold
 
-Det skal gis opplysninger omgiverens fødselsnummer eller organisasjonsnummer, navn og adresseinstituttets organisasjonsnummer, navn og adressesamlet tidfestet bidrag fra giveren.
+Det skal gis opplysninger om
+
+1. giverens fødselsnummer eller organisasjonsnummer, navn og adresse
+2. instituttets organisasjonsnummer, navn og adresse
+3. samlet tidfestet bidrag fra giveren.
 
 ### § 7-10-4. Levering av opplysninger
 
@@ -1242,7 +1789,11 @@ Det skal gis opplysninger om tidfestede utgifter for pass og stell av barn under
 
 ### § 7-10-7. Opplysningspliktens innhold
 
-Det skal gis opplysninger ombetalers navn, adresse og fødselsnummeropplysningspliktiges navn, adresse og organisasjonsnummertidfestet beløp.
+Det skal gis opplysninger om
+
+1. betalers navn, adresse og fødselsnummer
+2. opplysningspliktiges navn, adresse og organisasjonsnummer
+3. tidfestet beløp.
 
 ### § 7-10-8. Levering av opplysninger
 
@@ -1264,7 +1815,11 @@ Selskaper, stiftelser og sammenslutninger som er gitt administrativ forhåndsgod
 
 ### § 7-10-11. Opplysningspliktens innhold
 
-Det skal gis opplysninger omgiverens fødselsnummer eller organisasjonsnummer, navn og adresseopplysningspliktiges organisasjonsnummer, navn og adressesamlet gavebeløp fra giveren tidfestet i skattleggingsperioden.
+Det skal gis opplysninger om
+
+1. giverens fødselsnummer eller organisasjonsnummer, navn og adresse
+2. opplysningspliktiges organisasjonsnummer, navn og adresse
+3. samlet gavebeløp fra giveren tidfestet i skattleggingsperioden.
 
 ### § 7-10-12. Levering av opplysninger
 
@@ -1288,7 +1843,17 @@ Det skal gis en melding for hver eierseksjon, selv om en sameier eier flere seks
 
 ### § 7-10-15. Opplysningspliktens innhold
 
-Det skal gis opplysninger omboligsameiets navn og kontoradresse samt kommune-, gårds- og bruksnummerboligsameiets organisasjonsnummersameiers fødselsnummer eller organisasjonsnummer, navn og adresseboligseksjonens seksjonsnummerdato til dato angivelse av sameiers eiertid i skattleggingsperiodensameiers andel av felles skattepliktige inntektersameiers andel av felles fradragsberettigete utgiftersameiers andel av felles formuesameiers andel av felles gjeld.
+Det skal gis opplysninger om
+
+1. boligsameiets navn og kontoradresse samt kommune-, gårds- og bruksnummer
+2. boligsameiets organisasjonsnummer
+3. sameiers fødselsnummer eller organisasjonsnummer, navn og adresse
+4. boligseksjonens seksjonsnummer
+5. dato til dato angivelse av sameiers eiertid i skattleggingsperioden
+6. sameiers andel av felles skattepliktige inntekter
+7. sameiers andel av felles fradragsberettigete utgifter
+8. sameiers andel av felles formue
+9. sameiers andel av felles gjeld.
 
 ### § 7-10-16. Endringsmeldinger
 
@@ -1314,7 +1879,17 @@ Boligselskap, herunder borettslag og boligaksjeselskap, som ikke er eget skattes
 
 ### § 7-10-20. Opplysningspliktens innhold
 
-(1) Det skal gis opplysninger omandelshaveres fødselsnummer eller organisasjonsnummer, navn og adresseboligselskapets organisasjonsnummer, navn, adresse og kommunenummerboligens andelsnummer og adresse inkludert bolignummerdato til dato angivelse av den tid andelshaveren har eiet andelen i skattleggingsperiodenandelshavers andel av øvrige skattepliktige inntekterandelshavers andel av fradragsberettigede utgifterandelshavers andel av boligselskapets formuesverdiandelshavers andel av annen formueandelshavers andel av gjeld.
+(1) Det skal gis opplysninger om
+
+1. andelshaveres fødselsnummer eller organisasjonsnummer, navn og adresse
+2. boligselskapets organisasjonsnummer, navn, adresse og kommunenummer
+3. boligens andelsnummer og adresse inkludert bolignummer
+4. dato til dato angivelse av den tid andelshaveren har eiet andelen i skattleggingsperioden
+5. andelshavers andel av øvrige skattepliktige inntekter
+6. andelshavers andel av fradragsberettigede utgifter
+7. andelshavers andel av boligselskapets formuesverdi
+8. andelshavers andel av annen formue
+9. andelshavers andel av gjeld.
 
 (2) Er boligselskapet kjent med at andelshaver i løpet av skattleggingsperioden har bruksoverlatt boligen, gis det opplysning om dette.
 
@@ -1342,7 +1917,12 @@ Inneholder de innrapporterte opplysningene feil, foretas ny innrapportering og o
 
 (2) Plikten til å gi opplysninger gjelder ikke når mottakeren driver selvstendig næringsvirksomhet fra fast forretningssted i Norge. For utenlandske mottakere med oppdrag i Norge, skal fast forretningssted i Norge forstås som fast driftssted i Norge etter skatteavtalene.
 
-(3) Opplysningsplikten omfatter ikke ytelser som gjeldervederlag for persontransportutbetaling av provisjon vedrørende kjøp og salg av fast eiendom eller verdipapir når mottakeren av godtgjøringen har inntjent provisjonen som ledd i selvstendig næringsvirksomhetutbetaling av kommisjon fra rederier til linjeagenter som samtidig har klarering av skipetbefraktningsprovisjon til ruterederienes ekspeditører i forbindelse med anløp av ruteskip.
+(3) Opplysningsplikten omfatter ikke ytelser som gjelder
+
+1. vederlag for persontransport
+2. utbetaling av provisjon vedrørende kjøp og salg av fast eiendom eller verdipapir når mottakeren av godtgjøringen har inntjent provisjonen som ledd i selvstendig næringsvirksomhet
+3. utbetaling av kommisjon fra rederier til linjeagenter som samtidig har klarering av skipet
+4. befraktningsprovisjon til ruterederienes ekspeditører i forbindelse med anløp av ruteskip.
 
 ### § 7-10-25. Levering av opplysninger
 
@@ -1368,7 +1948,11 @@ Det skal gis en melding per mottaker av tilskudd som skal gis som avregningsfrad
 
 ### § 7-10-28. Opplysningspliktens innhold
 
-Det skal gis opplysninger ommottakerens fødselsnummer og navnopplysningspliktiges organisasjonsnummer og navnsamlet beløp som mottakeren har valgt å få som avregningsfradrag for skattleggingsperioden.
+Det skal gis opplysninger om
+
+1. mottakerens fødselsnummer og navn
+2. opplysningspliktiges organisasjonsnummer og navn
+3. samlet beløp som mottakeren har valgt å få som avregningsfradrag for skattleggingsperioden.
 
 > Tilføyd ved [forskrift 21 des 2016 nr. 1797](forskrift/2016-12-21-1797) (i kraft 1 jan 2017).
 
@@ -1406,7 +1990,11 @@ Det skal gis opplysninger ommottakerens fødselsnummer og navnopplysningspliktig
 
 ### § 7-10-32. Opplysningspliktens innhold
 
-Det skal gis opplysninger ommottakerens fødselsnummer eller organisasjonsnummer og navnopplysningspliktiges organisasjonsnummer og navnutbetalt godtgjøring i skattleggingsperioden. Beløp oppgis eksklusive merverdiavgift. Det skal oppgis om opphavsretten er i eller utenfor virksomhet hos mottakeren.
+Det skal gis opplysninger om
+
+1. mottakerens fødselsnummer eller organisasjonsnummer og navn
+2. opplysningspliktiges organisasjonsnummer og navn
+3. utbetalt godtgjøring i skattleggingsperioden. Beløp oppgis eksklusive merverdiavgift. Det skal oppgis om opphavsretten er i eller utenfor virksomhet hos mottakeren.
 
 > Tilføyd ved [forskrift 13 april 2018 nr. 562](forskrift/2018-04-13-562), endret ved [forskrift 17 des 2018 nr. 2215](forskrift/2018-12-17-2215).
 
@@ -1436,9 +2024,20 @@ Det skal gis opplysninger om hver ansatt som er tildelt opsjoner. Det skal også
 
 ### § 7-10-36. Opplysningspliktens innhold
 
-(1) Det skal ved tildeling gis opplysninger omselskapets navn og organisasjonsnummerden ansattes navn og fødsels- eller d-nummerantall opsjoner som er tildeltdato for tildelingeninnløsningskurs og markedsverdi på de underliggende aksjene på tildelingstidspunktet.
+(1) Det skal ved tildeling gis opplysninger om
 
-(2) Det skal ved innløsning gis opplysninger omselskapets navn og organisasjonsnummerden ansattes navn og fødsels- eller d-nummerantall innløste opsjonerdato for tildeling og dato for innløsning av opsjonene.
+1. selskapets navn og organisasjonsnummer
+2. den ansattes navn og fødsels- eller d-nummer
+3. antall opsjoner som er tildelt
+4. dato for tildelingen
+5. innløsningskurs og markedsverdi på de underliggende aksjene på tildelingstidspunktet.
+
+(2) Det skal ved innløsning gis opplysninger om
+
+1. selskapets navn og organisasjonsnummer
+2. den ansattes navn og fødsels- eller d-nummer
+3. antall innløste opsjoner
+4. dato for tildeling og dato for innløsning av opsjonene.
 
 > Tilføyd ved [forskrift 21 des 2020 nr. 3103](forskrift/2020-12-21-3103) (i kraft 1 jan 2021), endret ved [forskrift 22 des 2021 nr. 3853](forskrift/2021-12-22-3853) (i kraft 1 jan 2022).
 
@@ -1464,7 +2063,12 @@ Det skal gis en melding per private strømkunde med både forbruk og fysisk elle
 
 ### § 7-10-42. Opplysningspliktens innhold
 
-Det skal gis opplysninger omStrømkundens fødselsnummer eller d-nummer, navn og eiendommens veiadresse, eller der det ikke finnes, matrikkeladresse. Med veiadresse menes veinavn, husnummer, bokstav og bruksenhetsnummer. Med matrikkeladresse menes eiendommens gårds- og bruksnummer og eventuelt festenummer og undernummer.Målepunkt-IDOpplysningspliktiges organisasjonsnummer og navnSamlet vederlag for salg av strøm fra kraftleverandør i skattleggingsperioden inkludert kompensasjon fra nettselskap for negativt energiledd.
+Det skal gis opplysninger om
+
+1. Strømkundens fødselsnummer eller d-nummer, navn og eiendommens veiadresse, eller der det ikke finnes, matrikkeladresse. Med veiadresse menes veinavn, husnummer, bokstav og bruksenhetsnummer. Med matrikkeladresse menes eiendommens gårds- og bruksnummer og eventuelt festenummer og undernummer.
+2. Målepunkt-ID
+3. Opplysningspliktiges organisasjonsnummer og navn
+4. Samlet vederlag for salg av strøm fra kraftleverandør i skattleggingsperioden inkludert kompensasjon fra nettselskap for negativt energiledd.
 
 > Tilføyd ved forskrift [20 des 2024 nr. 3470](forskrift/2024-12-20-3470) (i kraft fra inntektsåret 2025).
 
@@ -1484,7 +2088,12 @@ Det skal gis opplysninger omStrømkundens fødselsnummer eller d-nummer, navn og
 
 (1) Opplysninger etter dette kapittel skal gis av den som gjennom en digital plattform formidler utleie av fast eiendom, utleie av transportmidler og salg av tjenester mot vederlag.
 
-(2) Opplysningsplikten etter første ledd gjelder ikke for opplysningspliktige somer skattemessig hjemmehørende i et land med tilsvarende regler som [skatteforvaltningsloven § 7-11](lov/2016-05-27-14/§7-11) og som har avtale om automatisk utveksling av opplysningene med Norgepå forhånd og årlig godtgjør at de bare har utleiere eller tjenesteytere som er unntatt fra opplysningsplikt etter [§ 7-11-2](forskrift/2016-11-23-1360/§7-11-2) annet leddpå forhånd og årlig godtgjør at de har en forretningsmodell som ikke tillater utleiere eller tjenesteytere å oppnå overskudd fra vederlaget.bare har opplysningsplikt etter [§ 7-5-18](forskrift/2016-11-23-1360/§7-5-18) første ledd første punktum.
+(2) Opplysningsplikten etter første ledd gjelder ikke for opplysningspliktige som
+
+1. er skattemessig hjemmehørende i et land med tilsvarende regler som [skatteforvaltningsloven § 7-11](lov/2016-05-27-14/§7-11) og som har avtale om automatisk utveksling av opplysningene med Norge
+2. på forhånd og årlig godtgjør at de bare har utleiere eller tjenesteytere som er unntatt fra opplysningsplikt etter [§ 7-11-2](forskrift/2016-11-23-1360/§7-11-2) annet ledd
+3. på forhånd og årlig godtgjør at de har en forretningsmodell som ikke tillater utleiere eller tjenesteytere å oppnå overskudd fra vederlaget.
+4. bare har opplysningsplikt etter [§ 7-5-18](forskrift/2016-11-23-1360/§7-5-18) første ledd første punktum.
 
 > Tilføyd ved forskrift [25 juni 2025 nr. 1310](forskrift/2025-06-25-1310) (i kraft 1 jan 2026).
 
@@ -1492,7 +2101,11 @@ Det skal gis opplysninger omStrømkundens fødselsnummer eller d-nummer, navn og
 
 (1) Det skal gis opplysninger etter [§ 7-11-3](forskrift/2016-11-23-1360/§7-11-3) andre og tredje ledd for hver utleier eller tjenesteyter som i løpet av skattleggingsperioden er registrert på plattformen og gjennom plattformen har leid ut fast eiendom eller transportmidler eller solgt tjenester og fått betalt eller kreditert vederlag for dette i skattleggingsperioden. Opplysningene skal gis for hvert kvartal i perioden 1. januar til 31. desember i skattleggingsperioden.
 
-(2) Det skal ikke gis opplysninger omoffentlige virksomheterbørsnoterte selskaperhoteller hvor det er formidlet mer enn 2 000 utleietilfeller for en fast eiendom i løpet av skattleggingsperioden
+(2) Det skal ikke gis opplysninger om
+
+1. offentlige virksomheter
+2. børsnoterte selskaper
+3. hoteller hvor det er formidlet mer enn 2 000 utleietilfeller for en fast eiendom i løpet av skattleggingsperioden
 
 (3) For utleiere eller tjenesteytere som ikke er skattemessig hjemmehørende i Norge, skal det gis opplysninger om de som er hjemmehørende i, og faste eiendommer som ligger i, land som har avtale om automatisk utveksling av opplysningene med Norge. Uavhengig av hvor utleieren anses skattemessig hjemmehørende, skal det likevel gis opplysninger om alle faste eiendommer som leies ut i Norge.
 
@@ -1502,11 +2115,27 @@ Det skal gis opplysninger omStrømkundens fødselsnummer eller d-nummer, navn og
 
 ### § 7-11-3. Opplysningspliktens innhold
 
-(1) Det skal gis opplysninger omden opplysningspliktiges navn, adresse, organisasjonsnummer eller skatteregistreringsnummer (TIN) og firmanavnet på plattformeneventuelt navn, adresse og organisasjonsnummer eller skatteregistreringsnummer (TIN) på den som gir opplysninger på vegne av den opplysningspliktigeden enkelte utleiers eller tjenesteyters navn, primæradresse med landkode, fødselsnummer (ev. fødselsdato), D-nummer, organisasjonsnummer eller skatteregistreringsnummer (TIN) og hvilket land som har utstedt dettedet unike identifikasjonsnummer eller referansenummer til den bankkonto eller en annen lignende betalingskonto hvor vederlaget blir betalt eller kreditert. Står kontoen i en annens navn, skal det gis identitetsopplysninger etter bokstav c som gjelder kontoinnehaveren.
+(1) Det skal gis opplysninger om
 
-(2) Ved salg av tjenester og utleie av transportmidler skal det for den enkelte utleier eller tjenesteyter gis opplysninger omhva som er formidletantall salg og utleietilfeller som er betalt eller kreditertsamlet vederlaget som er betalt eller kreditert etter fradrag som nevnt i bokstav dsamlet gebyr, kommisjoner eller skatter som er forhåndsbetalt eller trukket av plattformen.
+1. den opplysningspliktiges navn, adresse, organisasjonsnummer eller skatteregistreringsnummer (TIN) og firmanavnet på plattformen
+2. eventuelt navn, adresse og organisasjonsnummer eller skatteregistreringsnummer (TIN) på den som gir opplysninger på vegne av den opplysningspliktige
+3. den enkelte utleiers eller tjenesteyters navn, primæradresse med landkode, fødselsnummer (ev. fødselsdato), D-nummer, organisasjonsnummer eller skatteregistreringsnummer (TIN) og hvilket land som har utstedt dette
+4. det unike identifikasjonsnummer eller referansenummer til den bankkonto eller en annen lignende betalingskonto hvor vederlaget blir betalt eller kreditert. Står kontoen i en annens navn, skal det gis identitetsopplysninger etter bokstav c som gjelder kontoinnehaveren.
 
-(3) Ved utleie av enhver type fast eiendom skal det for hver eiendom og hver utleid enhet på eiendommen gis opplysninger omtype eiendomadresse, herunder landkode, til hver utleid enhet/eiendom samt gårds- og bruksnummerantall utleietilfeller, og opplysninger om antall dager hver enhet/eiendom har vært leid ut hvis det er tilgjengeligsamlet vederlag som er betalt eller kreditert for den enkelte enhet/eiendom etter fradrag som nevnt i bokstav esamlet gebyr, provisjoner eller skatter som er forhåndsbetalt eller trukket av plattformen per utleid enhet/eiendom.
+(2) Ved salg av tjenester og utleie av transportmidler skal det for den enkelte utleier eller tjenesteyter gis opplysninger om
+
+1. hva som er formidlet
+2. antall salg og utleietilfeller som er betalt eller kreditert
+3. samlet vederlaget som er betalt eller kreditert etter fradrag som nevnt i bokstav d
+4. samlet gebyr, kommisjoner eller skatter som er forhåndsbetalt eller trukket av plattformen.
+
+(3) Ved utleie av enhver type fast eiendom skal det for hver eiendom og hver utleid enhet på eiendommen gis opplysninger om
+
+1. type eiendom
+2. adresse, herunder landkode, til hver utleid enhet/eiendom samt gårds- og bruksnummer
+3. antall utleietilfeller, og opplysninger om antall dager hver enhet/eiendom har vært leid ut hvis det er tilgjengelig
+4. samlet vederlag som er betalt eller kreditert for den enkelte enhet/eiendom etter fradrag som nevnt i bokstav e
+5. samlet gebyr, provisjoner eller skatter som er forhåndsbetalt eller trukket av plattformen per utleid enhet/eiendom.
 
 (4) Vederlaget skal oppgis i den valuta det ble betalt eller kreditert i og med valutakode. Alle beløp skal også oppgis i hele norske kroner. Ved omregning av beløp i fremmed valuta til norske kroner skal Norges Banks kurser eller annen offentlig vekslingskurs benyttes. Er vederlaget betalt eller kreditert i en annen form enn ordinær valuta, skal vederlaget rapporteres i norske kroner omregnet eller verdsatt på en konsekvent måte.
 
@@ -1520,7 +2149,10 @@ Det skal gis opplysninger omStrømkundens fødselsnummer eller d-nummer, navn og
 
 (3) Den opplysningspliktige kan velge å bare gjennomgå utleiere eller tjenesteytere som det skal gis opplysninger om, jf. [§ 7-11-2](forskrift/2016-11-23-1360/§7-11-2) første ledd første punktum.
 
-(4) Opplysninger som gjeldernye utleiere eller tjenesteytere skal verifiseres innen 31. desember i det første året plattformen er opplysningspliktig, ved å bruke all tilgjengelig informasjoneksisterende utleiere eller tjenesteytere skal verifiseres innen 31. desember i det andre året etter at reglene trer i kraft eller rapporteringsplikt oppstod, ved å bruke all elektronisk søkbar informasjon.
+(4) Opplysninger som gjelder
+
+1. nye utleiere eller tjenesteytere skal verifiseres innen 31. desember i det første året plattformen er opplysningspliktig, ved å bruke all tilgjengelig informasjon
+2. eksisterende utleiere eller tjenesteytere skal verifiseres innen 31. desember i det andre året etter at reglene trer i kraft eller rapporteringsplikt oppstod, ved å bruke all elektronisk søkbar informasjon.
 
 (5) Får den opplysningspliktige informasjon om at registrerte opplysninger om en utleier eller tjenesteyter eller en fast eiendom er ufullstendige eller uriktige, må opplysningene verifiseres på nytt ved å bruke pålitelige opplysninger fra uavhengige kilder.
 
@@ -1558,7 +2190,15 @@ Den som er opplysningspliktig om formidling av utleie av fast eiendom etter [ska
 
 ### § 7-12-1. Definisjoner
 
-(1) I denne forskrift § 7-12 menes med:*kryptoeiendel:* en digital representasjon av verdi som bygger på kryptografisk sikret distribuert registerteknologi eller en lignende teknologi for å validere og sikre transaksjoner.*opplysningspliktig kryptoeiendel:* enhver kryptoeiendel med unntak av digitale sentralbankpenger, spesifiserte elektroniske pengeprodukter og kryptoeiendeler som den opplysningspliktige tilbyderen har fastslått ikke kan brukes til betalings- eller investeringsformål.*tilbyder av vekslingstjenester:* enhver fysisk person eller enhet, som ledd i sin virksomhet utfører vekslingstransaksjoner for opplysningspliktige kryptoeiendeler for eller på vegne av andre, herunder ved å opptre som motpart eller som mellommann til slike transaksjoner, eller ved å gjøre en handelsplattform for veksling tilgjengelig.*tilbyder av oppbevaringstjenester:* enhver fysisk person eller enhet, som ledd i sin virksomhet tilbyr tjeneste for oppbevaring av eller kontroll med opplysningspliktige kryptoeiendeler eller metodene for tilgang til slike kryptoeiendeler, hvor det er relevant i form av private krypteringsnøkler.*partnerjurisdiksjon:* en jurisdiksjon som har satt i kraft regler om opplysningsplikt for kryptoeiendeler og som er oppført på liste publisert av Skatteetaten.*vekslingstransaksjon:* erverv og avhending av kryptoeiendel mot offisiell valuta eller erverv og avhending av kryptoeiendel mot kryptoeiendel.*overføring:* flytting av kryptoeiendel til eller fra en brukers adresse eller konto hos opplysningspliktig tilbyder, som tilbyderen på transaksjonstidspunktet ikke kan fastslå er en vekslingstransaksjon. Overføring mellom brukerens egne adresser og konti hos tilbyderen, er ikke omfattet.
+(1) I denne forskrift § 7-12 menes med:
+
+1. *kryptoeiendel:* en digital representasjon av verdi som bygger på kryptografisk sikret distribuert registerteknologi eller en lignende teknologi for å validere og sikre transaksjoner.
+2. *opplysningspliktig kryptoeiendel:* enhver kryptoeiendel med unntak av digitale sentralbankpenger, spesifiserte elektroniske pengeprodukter og kryptoeiendeler som den opplysningspliktige tilbyderen har fastslått ikke kan brukes til betalings- eller investeringsformål.
+3. *tilbyder av vekslingstjenester:* enhver fysisk person eller enhet, som ledd i sin virksomhet utfører vekslingstransaksjoner for opplysningspliktige kryptoeiendeler for eller på vegne av andre, herunder ved å opptre som motpart eller som mellommann til slike transaksjoner, eller ved å gjøre en handelsplattform for veksling tilgjengelig.
+4. *tilbyder av oppbevaringstjenester:* enhver fysisk person eller enhet, som ledd i sin virksomhet tilbyr tjeneste for oppbevaring av eller kontroll med opplysningspliktige kryptoeiendeler eller metodene for tilgang til slike kryptoeiendeler, hvor det er relevant i form av private krypteringsnøkler.
+5. *partnerjurisdiksjon:* en jurisdiksjon som har satt i kraft regler om opplysningsplikt for kryptoeiendeler og som er oppført på liste publisert av Skatteetaten.
+6. *vekslingstransaksjon:* erverv og avhending av kryptoeiendel mot offisiell valuta eller erverv og avhending av kryptoeiendel mot kryptoeiendel.
+7. *overføring:* flytting av kryptoeiendel til eller fra en brukers adresse eller konto hos opplysningspliktig tilbyder, som tilbyderen på transaksjonstidspunktet ikke kan fastslå er en vekslingstransaksjon. Overføring mellom brukerens egne adresser og konti hos tilbyderen, er ikke omfattet.
 
 (2) Definisjonene av reelle rettighetshavere, enhet, nærstående enhet, finansielle produkter, spesifisert elektronisk pengeprodukt og digitale sentralbankpenger i [§ 7-3-2](forskrift/2016-11-23-1360/§7-3-2) gjelder tilsvarende for § 7-12.
 
@@ -1566,7 +2206,12 @@ Den som er opplysningspliktig om formidling av utleie av fast eiendom etter [ska
 
 ### § 7-12-2. Hvem som er opplysningspliktig
 
-(1) Opplysningsplikten etter [skatteforvaltningsloven § 7-12](lov/2016-05-27-14/§7-12) gjelder tilbyder av vekslingstjenester som eren fysisk person bosatt i Norge etter [skatteloven § 2-1](lov/1999-03-26-14/§2-1) eller en enhet hjemmehørende i Norge etter [skatteloven § 2-2](lov/1999-03-26-14/§2-2),en enhet som er stiftet eller på annen måte etablert i Norge og enten er et eget, rettssubjekt eller er opplysningspliktig om inntekt etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8),enhet ledet eller forvaltet fra Norge, ellerfysisk person eller enhet med forretningssted i Norge.
+(1) Opplysningsplikten etter [skatteforvaltningsloven § 7-12](lov/2016-05-27-14/§7-12) gjelder tilbyder av vekslingstjenester som er
+
+1. en fysisk person bosatt i Norge etter [skatteloven § 2-1](lov/1999-03-26-14/§2-1) eller en enhet hjemmehørende i Norge etter [skatteloven § 2-2](lov/1999-03-26-14/§2-2),
+2. en enhet som er stiftet eller på annen måte etablert i Norge og enten er et eget, rettssubjekt eller er opplysningspliktig om inntekt etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8),
+3. enhet ledet eller forvaltet fra Norge, eller
+4. fysisk person eller enhet med forretningssted i Norge.
 
 (2) Opplysningsplikten etter [skatteforvaltningsloven § 7-12](lov/2016-05-27-14/§7-12) gjelder tilbyder av oppbevaringstjenester som er hjemmehørende i Norge etter [skatteloven §§ 2-1](lov/1999-03-26-14/§2-1) eller [2-2](lov/1999-03-26-14/§2-2), eller har skatteplikt etter [skatteloven § 2-3 første ledd bokstav b](lov/1999-03-26-14/§2-3/ledd/1/bokstav/b).
 
@@ -1600,25 +2245,53 @@ Den som er opplysningspliktig om formidling av utleie av fast eiendom etter [ska
 
 ### § 7-12-4. Unntak fra hvem det skal gis opplysninger om
 
-Det skal ikke gis opplysninger omaksjeselskap hvis aksjer regelmessig handles på en eller flere etablerte verdipapirmarkedernærstående enhet til enhet nevnt i bokstav aoffentlig myndighet nevnt i [§ 7-3-7](forskrift/2016-11-23-1360/§7-3-7) første ledd bokstav ainternasjonale organisasjoner nevnt i [§ 7-3-7](forskrift/2016-11-23-1360/§7-3-7) første ledd bokstav csentralbankerfinansielle institusjoner med unntak av enhet nevnt i [§ 7-12-3](forskrift/2016-11-23-1360/§7-12-3) fjerde ledd.
+Det skal ikke gis opplysninger om
+
+1. aksjeselskap hvis aksjer regelmessig handles på en eller flere etablerte verdipapirmarkeder
+2. nærstående enhet til enhet nevnt i bokstav a
+3. offentlig myndighet nevnt i [§ 7-3-7](forskrift/2016-11-23-1360/§7-3-7) første ledd bokstav a
+4. internasjonale organisasjoner nevnt i [§ 7-3-7](forskrift/2016-11-23-1360/§7-3-7) første ledd bokstav c
+5. sentralbanker
+6. finansielle institusjoner med unntak av enhet nevnt i [§ 7-12-3](forskrift/2016-11-23-1360/§7-12-3) fjerde ledd.
 
 > Tilføyd ved forskrift [25 juni 2025 nr. 1310](forskrift/2025-06-25-1310) (i kraft 1 jan 2026).
 
 ### § 7-12-5. Hvilke opplysninger som skal gis om bruker av tjenesten
 
-Om den enkelte bruker og om eventuelle reelle rettighetshavere skal det gis opplysninger omnavnadressehvor bruker er skattemessig bosatt eller hjemmehørende. Enhet som ikke er eget skattesubjekt og ikke er skattemessig hjemmehørende i noen jurisdiksjon, skal behandles som hjemmehørende i den jurisdiksjonen reell ledelse finner sted eller der enheten har hovedkontorutenlandsk identifikasjonsnummerfødselsnummer, D-nummer eller organisasjonsnummerfødselsdatohvilke roller reelle rettighetshavere har i enheten.
+Om den enkelte bruker og om eventuelle reelle rettighetshavere skal det gis opplysninger om
+
+1. navn
+2. adresse
+3. hvor bruker er skattemessig bosatt eller hjemmehørende. Enhet som ikke er eget skattesubjekt og ikke er skattemessig hjemmehørende i noen jurisdiksjon, skal behandles som hjemmehørende i den jurisdiksjonen reell ledelse finner sted eller der enheten har hovedkontor
+4. utenlandsk identifikasjonsnummer
+5. fødselsnummer, D-nummer eller organisasjonsnummer
+6. fødselsdato
+7. hvilke roller reelle rettighetshavere har i enheten.
 
 > Tilføyd ved forskrift [25 juni 2025 nr. 1310](forskrift/2025-06-25-1310) (i kraft 1 jan 2026).
 
 ### § 7-12-6. Hvilke opplysninger som skal gis om opplysningspliktig tilbyder
 
-Om opplysningspliktig tilbyder skal det gis opplysninger omnavnadresseidentifikasjonsnummer.
+Om opplysningspliktig tilbyder skal det gis opplysninger om
+
+1. navn
+2. adresse
+3. identifikasjonsnummer.
 
 > Tilføyd ved forskrift [25 juni 2025 nr. 1310](forskrift/2025-06-25-1310) (i kraft 1 jan 2026).
 
 ### § 7-12-7. Opplysningspliktens innhold
 
-(1) For den enkelte bruker skal det gis følgende opplysninger:fullstendig navn på kryptoeiendelfor erverv og avhending mot offisiell valuta: det samlede beløpet som er henholdsvis betalt og mottatt fratrukket transaksjonskostnader, det samlede antall enheter og antall transaksjonerfor erverv og avhending mot andre kryptoeiendeler: den samlede markedsverdien fratrukket transaksjonskostnader, det samlede antall enheter og antall transaksjonerfor overføring av kryptoeiendeler som vederlag for varer eller tjenester som overstiger USD 50 000: den samlede markedsverdien fratrukket transaksjonskostnader, det samlede antall enheter og antall overføringerfor andre overføringer til og fra bruker enn de som er omfattet av bokstav b til d: den samlede markedsverdien fratrukket transaksjonskostnader, det samlede antall enheter og antall overføringer. Rapporteringen skal deles inn etter overføringstype der den er kjent av tilbyderenfor overføringer av kryptoeiendeler til lommebokadresse der den opplysningspliktige ikke kjenner til om lommebokadressen er knyttet til en tilbyder av virtuelle eiendeler eller en finansiell institusjon: den samlede markedsverdien fratrukket transaksjonskostnader og det samlede antall enheterfor innestående verdier i kryptoeiendeler: markedsverdi og antall enheter per kryptoeiendelfor innestående verdier i offisiell valuta: saldo per 1. januar i skattefastsettingsåret.
+(1) For den enkelte bruker skal det gis følgende opplysninger:
+
+1. fullstendig navn på kryptoeiendel
+2. for erverv og avhending mot offisiell valuta: det samlede beløpet som er henholdsvis betalt og mottatt fratrukket transaksjonskostnader, det samlede antall enheter og antall transaksjoner
+3. for erverv og avhending mot andre kryptoeiendeler: den samlede markedsverdien fratrukket transaksjonskostnader, det samlede antall enheter og antall transaksjoner
+4. for overføring av kryptoeiendeler som vederlag for varer eller tjenester som overstiger USD 50 000: den samlede markedsverdien fratrukket transaksjonskostnader, det samlede antall enheter og antall overføringer
+5. for andre overføringer til og fra bruker enn de som er omfattet av bokstav b til d: den samlede markedsverdien fratrukket transaksjonskostnader, det samlede antall enheter og antall overføringer. Rapporteringen skal deles inn etter overføringstype der den er kjent av tilbyderen
+6. for overføringer av kryptoeiendeler til lommebokadresse der den opplysningspliktige ikke kjenner til om lommebokadressen er knyttet til en tilbyder av virtuelle eiendeler eller en finansiell institusjon: den samlede markedsverdien fratrukket transaksjonskostnader og det samlede antall enheter
+7. for innestående verdier i kryptoeiendeler: markedsverdi og antall enheter per kryptoeiendel
+8. for innestående verdier i offisiell valuta: saldo per 1. januar i skattefastsettingsåret.
 
 (2) For erverv og avhending etter bokstav b, skal beløpet rapporteres i den offisielle valutaen det ble betalt eller mottatt i. Hvis beløpene ble betalt eller mottatt i flere offisielle valutaer, skal beløpene rapporteres i en bestemt offisiell valuta, omregnet på transaksjonstidspunktet på en måte som den opplysningspliktige tilbyderen anvender konsekvent. Ved omregningen skal kursen på transaksjonstidspunktet benyttes.
 
@@ -1648,7 +2321,14 @@ Om opplysningspliktig tilbyder skal det gis opplysninger omnavnadresseidentifika
 
 (3) For enheter som ikke er unntatt etter [§ 7-12-4](forskrift/2016-11-23-1360/§7-12-4), skal opplysningspliktige identifisere eventuelle reelle rettighetshavere og hvor disse er skattemessig bosatt. Første og annet ledd gjelder tilsvarende.
 
-(4) Tredje ledd gjelder ikke nårmindre enn 50 prosent av virksomhetens bruttoinntekt i det foregående inntektsåret var passiv inntekt og mindre enn 50 prosent av virksomhetens eiendeler i det foregående inntektsåret var passive kapitalplasseringervirksomheten i all vesentlighet består i å yte finansielle tjenester til ett eller flere datterselskaper som ikke driver virksomhet som finansiell institusjon, unntatt når formålet er å erverve eller finansiere selskaper og deretter beholde eierinteressene for investeringsformålvirksomheten er under oppstart og investerer kapital i aktiva de første 24 måneder for å drive annen virksomhet enn som finansiell institusjonvirksomheten er i ferd med å avvikle eller omorganisere sine aktiva når den ikke har drevet virksomhet som finansiell institusjon de siste fem år og ikke skal drive slik virksomhet i fremtidenhoveddelen av virksomheten er knyttet til finansierings- og sikringstransaksjoner som utelukkende gjennomføres med eller for nærstående enheter, forutsatt at de nærstående enhetene hovedsakelig driver annen virksomhet enn virksomhet som finansiell institusjon, ellerenheten er etablert som en ideell organisasjon etter lovgivningen i jurisdiksjonen den er hjemmehørende i, og at vilkårene i [§ 7-3-22](forskrift/2016-11-23-1360/§7-3-22) tredje ledd bokstav a nr. 8 er oppfylt.
+(4) Tredje ledd gjelder ikke når
+
+1. mindre enn 50 prosent av virksomhetens bruttoinntekt i det foregående inntektsåret var passiv inntekt og mindre enn 50 prosent av virksomhetens eiendeler i det foregående inntektsåret var passive kapitalplasseringer
+2. virksomheten i all vesentlighet består i å yte finansielle tjenester til ett eller flere datterselskaper som ikke driver virksomhet som finansiell institusjon, unntatt når formålet er å erverve eller finansiere selskaper og deretter beholde eierinteressene for investeringsformål
+3. virksomheten er under oppstart og investerer kapital i aktiva de første 24 måneder for å drive annen virksomhet enn som finansiell institusjon
+4. virksomheten er i ferd med å avvikle eller omorganisere sine aktiva når den ikke har drevet virksomhet som finansiell institusjon de siste fem år og ikke skal drive slik virksomhet i fremtiden
+5. hoveddelen av virksomheten er knyttet til finansierings- og sikringstransaksjoner som utelukkende gjennomføres med eller for nærstående enheter, forutsatt at de nærstående enhetene hovedsakelig driver annen virksomhet enn virksomhet som finansiell institusjon, eller
+6. enheten er etablert som en ideell organisasjon etter lovgivningen i jurisdiksjonen den er hjemmehørende i, og at vilkårene i [§ 7-3-22](forskrift/2016-11-23-1360/§7-3-22) tredje ledd bokstav a nr. 8 er oppfylt.
 
 (5) Dersom den opplysningspliktige vet eller har grunn til å tro at det foreligger endringer eller nye relevante opplysninger, eller at den opprinnelige egenerklæringen er uriktig eller upålitelig, kan opplysningene ikke lenger legges til grunn. Det skal i slike tilfeller innhentes en ny egenerklæring eller en rimelig forklaring med tilhørende dokumentasjon fra bruker.
 
@@ -1656,7 +2336,15 @@ Om opplysningspliktig tilbyder skal det gis opplysninger omnavnadresseidentifika
 
 ### § 7-12-10. Krav til egenerklæringen
 
-(1) Egenerklæringen skal være signert eller bekreftet av brukeren eller den reelle rettighetshaveren, datert og inneholde følgende opplysninger om brukeren eller den reelle rettighetshaveren:navnadressehvor brukeren eller den reelle rettighetshaveren er skattemessig bosatt eller hjemmehørendenorsk fødselsnummer, D-nummer eller organisasjonsnummerutenlandsk identifikasjonsnummerfødselsdatoredegjørelse for at bruker er omfattet av unntakene etter [§ 7-12-4](forskrift/2016-11-23-1360/§7-12-4) eller [§ 7-12-9](forskrift/2016-11-23-1360/§7-12-9) fjerde ledd.
+(1) Egenerklæringen skal være signert eller bekreftet av brukeren eller den reelle rettighetshaveren, datert og inneholde følgende opplysninger om brukeren eller den reelle rettighetshaveren:
+
+1. navn
+2. adresse
+3. hvor brukeren eller den reelle rettighetshaveren er skattemessig bosatt eller hjemmehørende
+4. norsk fødselsnummer, D-nummer eller organisasjonsnummer
+5. utenlandsk identifikasjonsnummer
+6. fødselsdato
+7. redegjørelse for at bruker er omfattet av unntakene etter [§ 7-12-4](forskrift/2016-11-23-1360/§7-12-4) eller [§ 7-12-9](forskrift/2016-11-23-1360/§7-12-9) fjerde ledd.
 
 (2) For enheter som ikke er omfattet av unntakene i [§ 7-12-4](forskrift/2016-11-23-1360/§7-12-4) eller [§ 7-12-9](forskrift/2016-11-23-1360/§7-12-9) fjerde ledd, skal det også gis opplysninger etter første ledd om alle reelle rettighetshavere, samt hvilken rolle de har i enheten. Dette gjelder ikke hvis de reelle rettighetshaverne allerede er identifisert etter [hvitvaskingsloven](lov/2018-06-01-23).
 
@@ -1700,7 +2388,11 @@ Opplysningspliktige skal oppbevare dokumentasjon for opplysninger levert etter [
 
 (1) Skattepliktig skal motta en sammenstilt oversikt over opplysninger som er innrapportert etter [§ 7-2-1](forskrift/2016-11-23-1360/§7-2-1) til [§ 7-2-11](forskrift/2016-11-23-1360/§7-2-11) innen 1. februar året etter skattleggingsperioden. For opplysninger om lott eller part ved fiske- eller fangstvirksomhet, som innrapporteres etter egen frist i [a-opplysningsforskriften § 2-1 fjerde ledd](forskrift/2014-06-24-857/§2-1/ledd/4), er fristen 20. februar året etter skattleggingsperioden.
 
-(2) Sammenstillingen skal inneholde summerte opplysninger av innrapporterte ytelser som fremgår av [§ 7-2-9](forskrift/2016-11-23-1360/§7-2-9). Det skal gis opplysninger omferiepengegrunnlaget, jf. [ferieloven § 10 første ledd](lov/1988-04-29-21/§10/ledd/1)summerte opplysninger om innrapportert forskuddstrekk, jf. [skattebetalingsloven § 5-11 første ledd](lov/2005-06-17-67/§5-11/ledd/1)ansattnummer eller annet nummer som er brukt til å identifisere inntektsmottakeren i arbeidsgivers systemer.
+(2) Sammenstillingen skal inneholde summerte opplysninger av innrapporterte ytelser som fremgår av [§ 7-2-9](forskrift/2016-11-23-1360/§7-2-9). Det skal gis opplysninger om
+
+1. feriepengegrunnlaget, jf. [ferieloven § 10 første ledd](lov/1988-04-29-21/§10/ledd/1)
+2. summerte opplysninger om innrapportert forskuddstrekk, jf. [skattebetalingsloven § 5-11 første ledd](lov/2005-06-17-67/§5-11/ledd/1)
+3. ansattnummer eller annet nummer som er brukt til å identifisere inntektsmottakeren i arbeidsgivers systemer.
 
 (3) Flere innrapporteringer av samme type ytelse kan summeres og oppgis samlet. Med samme type ytelse menes ytelser som har like egenskaper i innrapporteringen. Der ytelsene består av en trekkpliktig og en trekkfri del skal hver del spesifiseres.
 
@@ -1756,7 +2448,11 @@ Opplysninger om grunnlaget for fastsetting av skatt skal spesifiseres slik dette
 
 (1) Skattemelding for merverdiavgift, skattemelding for merverdiavgiftskompensasjon, skattemelding for suppleringsskatt og melding for suppleringsskatt, melding om realisasjon av naturgass mv., melding om registrering i Merverdiavgiftsregisteret, og melding om forenklet registreringsordning for tilbyder av elektroniske tjenester skal leveres elektronisk. Dette gjelder likevel ikke skattemelding for innførselsmerverdiavgift for skattepliktige som ikke er registrert i Merverdiavgiftsregisteret.
 
-(2) Næringsdrivende skal levere følgende meldinger elektroniskskattemelding for formues- og inntektsskatt, svalbardskatt og petroleumsskatt,selskapsmelding og selskapets melding om deltakernes formue og inntekt fra selskapetmelding over art og omfang av transaksjoner og mellomværender med nærstående selskaper eller innretninger.
+(2) Næringsdrivende skal levere følgende meldinger elektronisk
+
+1. skattemelding for formues- og inntektsskatt, svalbardskatt og petroleumsskatt,
+2. selskapsmelding og selskapets melding om deltakernes formue og inntekt fra selskapet
+3. melding over art og omfang av transaksjoner og mellomværender med nærstående selskaper eller innretninger.
 
 (3) Skattepliktige som er registrert i medhold av [særavgiftsloven](lov/1933-05-19-11) skal levere skattemelding for særavgifter elektronisk.
 
@@ -1770,9 +2466,24 @@ Skattemeldinger mv. på papir skal leveres til den mottaksadresse som Skattedire
 
 ### § 8-2-1. Fritak fra å levere næringsspesifikasjon
 
-(1) Skattepliktige er fritatt fra å levere næringsspesifikasjon når den skattepliktigeikke driver virksomhetleier ut bolig- eller fritidseiendom hvor leieinntektene er skattefrie ellerdriver virksomhet og har samlet driftsinntekt som ikke overstiger 50 000 kroner.
+(1) Skattepliktige er fritatt fra å levere næringsspesifikasjon når den skattepliktige
 
-(2) Fritaket i første ledd bokstav c gjelder likevel ikke forselskap som er skattepliktige etter [skatteloven § 2-2 første ledd](lov/1999-03-26-14/§2-2/ledd/1)selskap som nevnt i [skatteloven § 2-2 annet ledd](lov/1999-03-26-14/§2-2/ledd/2)skattepliktige som omfattes av [skatteloven § 2-3](lov/1999-03-26-14/§2-3), [§ 14-81](lov/1999-03-26-14/§14-81) og [§ 14-82](lov/1999-03-26-14/§14-82)skattepliktige som krever næringsinntekten fordelt med ektefelle etter [skatteloven § 2-11](lov/1999-03-26-14/§2-11)skattepliktige som har drevet mer enn en virksomhet i året, eller har drevet virksomhet som er skattepliktig til mer enn en kommune, jf. [skatteloven § 3-3](lov/1999-03-26-14/§3-3)skattepliktige som plikter å levere melding om «Drosje og godstransportnæringen»skattepliktige som plikter å levere melding om «Utleie mv. av fast eiendom» sammen med melding om «Avskrivning» som både gjelder næringsvirksomhet og den utleide eiendommenskattepliktige som er regnskapspliktige etter [regnskapsloven § 1-2](lov/1998-07-17-56/§1-2)skattepliktige som er registreringspliktige etter [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1)skattepliktige etter [svalbardskatteloven](lov/1996-11-29-68).
+1. ikke driver virksomhet
+2. leier ut bolig- eller fritidseiendom hvor leieinntektene er skattefrie eller
+3. driver virksomhet og har samlet driftsinntekt som ikke overstiger 50 000 kroner.
+
+(2) Fritaket i første ledd bokstav c gjelder likevel ikke for
+
+1. selskap som er skattepliktige etter [skatteloven § 2-2 første ledd](lov/1999-03-26-14/§2-2/ledd/1)
+2. selskap som nevnt i [skatteloven § 2-2 annet ledd](lov/1999-03-26-14/§2-2/ledd/2)
+3. skattepliktige som omfattes av [skatteloven § 2-3](lov/1999-03-26-14/§2-3), [§ 14-81](lov/1999-03-26-14/§14-81) og [§ 14-82](lov/1999-03-26-14/§14-82)
+4. skattepliktige som krever næringsinntekten fordelt med ektefelle etter [skatteloven § 2-11](lov/1999-03-26-14/§2-11)
+5. skattepliktige som har drevet mer enn en virksomhet i året, eller har drevet virksomhet som er skattepliktig til mer enn en kommune, jf. [skatteloven § 3-3](lov/1999-03-26-14/§3-3)
+6. skattepliktige som plikter å levere melding om «Drosje og godstransportnæringen»
+7. skattepliktige som plikter å levere melding om «Utleie mv. av fast eiendom» sammen med melding om «Avskrivning» som både gjelder næringsvirksomhet og den utleide eiendommen
+8. skattepliktige som er regnskapspliktige etter [regnskapsloven § 1-2](lov/1998-07-17-56/§1-2)
+9. skattepliktige som er registreringspliktige etter [merverdiavgiftsloven § 2-1](lov/2009-06-19-58/§2-1)
+10. skattepliktige etter [svalbardskatteloven](lov/1996-11-29-68).
 
 (3) Skattepliktige som er fritatt fra å levere næringsspesifikasjon etter første ledd bokstav c skal dokumentere transaksjoner mv. i samsvar med [bokføringsloven § 10](lov/2004-11-19-73/§10) og [§ 11](lov/2004-11-19-73/§11) og [bokføringsforskriften kapittel 5](forskrift/2004-12-01-1558/kap5), [6](forskrift/2004-12-01-1558/kap6) og [8](forskrift/2004-12-01-1558/kap8). Dokumentasjonen skal oppbevares i samsvar med [bokføringsloven § 13](lov/2004-11-19-73/§13), jf. [bokføringsforskriften kapittel 7](forskrift/2004-12-01-1558/kap7) og [8](forskrift/2004-12-01-1558/kap8). Dersom det ikke blir levert melding for beregning av personinntekt, settes personinntekten til samme beløp som næringsinntekten og negativ beregnet personinntekt kan ikke fremføres.
 
@@ -1788,7 +2499,10 @@ Skattemeldinger mv. på papir skal leveres til den mottaksadresse som Skattedire
 
 ### § 8-2-3. Leveringsfrist
 
-(1) Skattemelding skal leveresinnen utgangen av mai i året etter skattleggingsperioden for selskap mv. som nevnt i [skatteloven § 2-2 første ledd](lov/1999-03-26-14/§2-2/ledd/1), for selskap som skal levere selskapsmelding mv. etter [skatteforvaltningsloven § 8-9](lov/2016-05-27-14/§8-9) og for eier av enkeltpersonforetakinnen utgangen av april i året etter skattleggingsperioden for andre skattepliktige, herunder skattepliktige som nevnt i [petroleumsskatteloven § 5 første ledd første punktum](lov/1975-06-13-35/§5/ledd/1/setning/1).
+(1) Skattemelding skal leveres
+
+1. innen utgangen av mai i året etter skattleggingsperioden for selskap mv. som nevnt i [skatteloven § 2-2 første ledd](lov/1999-03-26-14/§2-2/ledd/1), for selskap som skal levere selskapsmelding mv. etter [skatteforvaltningsloven § 8-9](lov/2016-05-27-14/§8-9) og for eier av enkeltpersonforetak
+2. innen utgangen av april i året etter skattleggingsperioden for andre skattepliktige, herunder skattepliktige som nevnt i [petroleumsskatteloven § 5 første ledd første punktum](lov/1975-06-13-35/§5/ledd/1/setning/1).
 
 (2) Ektefeller med forskjellig frist kan benytte den lengste fristen.
 
@@ -1804,7 +2518,10 @@ Skattemeldinger mv. på papir skal leveres til den mottaksadresse som Skattedire
 
 ### § 8-2-5. Søknad om utsatt leveringsfrist
 
-(1) Skattekontoret kan etter søknad gi utsatt leveringsfrist etter [§ 8-2-3 første ledd](forskrift/2016-11-23-1360/§8-2-3/ledd/1)når det blir godtgjort at det av særlige grunner vil skape betydelige vanskeligheter å levere skattemelding innen fristen ellertil regnskapsfører eller revisor som bistår næringsdrivende med utfylling av skattemeldingen, for en mindre andel av søkerens klienter. Søknaden må gjelde navngitte skattepliktige. Det kan ikke gis utsettelse lenger enn til 30. juni i skattefastsettingsåret.
+(1) Skattekontoret kan etter søknad gi utsatt leveringsfrist etter [§ 8-2-3 første ledd](forskrift/2016-11-23-1360/§8-2-3/ledd/1)
+
+1. når det blir godtgjort at det av særlige grunner vil skape betydelige vanskeligheter å levere skattemelding innen fristen eller
+2. til regnskapsfører eller revisor som bistår næringsdrivende med utfylling av skattemeldingen, for en mindre andel av søkerens klienter. Søknaden må gjelde navngitte skattepliktige. Det kan ikke gis utsettelse lenger enn til 30. juni i skattefastsettingsåret.
 
 (2) Skattedirektoratet kan forlenge fristen etter [§ 8-2-3 første ledd](forskrift/2016-11-23-1360/§8-2-3/ledd/1), med inntil en måned for grupper av skattepliktige. Dette gjelder likevel ikke for skattepliktige som nevnt i [petroleumsskatteloven § 5 første ledd første punktum](lov/1975-06-13-35/§5/ledd/1/setning/1).
 
@@ -1862,7 +2579,11 @@ Skattemelding for merverdiavgift skal leveres periodevis. Hver skattleggingsperi
 
 ### § 8-3-5. Avslag på søknad og tilbakekall av retten til å ha årlig skattleggingsperiode
 
-(1) Skattekontoret kan avslå en søknad om å levere skattemelding etter [§ 8-3-3](forskrift/2016-11-23-1360/§8-3-3) eller bestemme at retten til å levere slik skattemelding skal tilbakekalles dersomskattepliktig ikke har overholdt sin opplysnings- eller betalingspliktskattepliktig i vesentlig grad har overtrådt andre bestemmelser i [skatteforvaltningsloven](lov/2016-05-27-14) eller [merverdiavgiftsloven](lov/2009-06-19-58) elleromsetningen i løpet av kalenderåret overstiger beløpsgrensen.
+(1) Skattekontoret kan avslå en søknad om å levere skattemelding etter [§ 8-3-3](forskrift/2016-11-23-1360/§8-3-3) eller bestemme at retten til å levere slik skattemelding skal tilbakekalles dersom
+
+1. skattepliktig ikke har overholdt sin opplysnings- eller betalingsplikt
+2. skattepliktig i vesentlig grad har overtrådt andre bestemmelser i [skatteforvaltningsloven](lov/2016-05-27-14) eller [merverdiavgiftsloven](lov/2009-06-19-58) eller
+3. omsetningen i løpet av kalenderåret overstiger beløpsgrensen.
 
 (2) Vedtak om tilbakekall av retten til å levere skattemelding en gang i året skal gjelde for minst to påfølgende kalenderår.
 
@@ -1884,7 +2605,10 @@ Skattepliktig som leverer skattemelding etter [§ 8-3-3](forskrift/2016-11-23-13
 
 (4) Som hagebruk eller gartneri anses dyrking av grønnsaker, frukt, bær og blomster og andre plantevekster på friland eller under glass, plast o.l., samt tiltrekking av planter.
 
-(5) Det skal også leveres skattemelding for primærnæringen for næringsvirksomhet som består iutnyttelse av rett til jakt, fiske, jord, torv, sand, grus, stein, sanking av bær, kongler, mose, tang, tare o.l.utføring av tjenester for andre med betydelige driftsmidler som minst 60 prosent av tiden nyttes i egen jord- eller skogbruksvirksomhet eller utleie av slike driftsmidler, forutsatt at virksomheten drives i tilknytning til jord- eller skogbruket og ikke utøves som selvstendig næring.
+(5) Det skal også leveres skattemelding for primærnæringen for næringsvirksomhet som består i
+
+1. utnyttelse av rett til jakt, fiske, jord, torv, sand, grus, stein, sanking av bær, kongler, mose, tang, tare o.l.
+2. utføring av tjenester for andre med betydelige driftsmidler som minst 60 prosent av tiden nyttes i egen jord- eller skogbruksvirksomhet eller utleie av slike driftsmidler, forutsatt at virksomheten drives i tilknytning til jord- eller skogbruket og ikke utøves som selvstendig næring.
 
 (6) Skattleggingsperioden for primærnæringen er kalenderåret.
 
@@ -1908,7 +2632,12 @@ Skattepliktig som leverer skattemelding etter [§ 8-3-3](forskrift/2016-11-23-13
 
 ### § 8-3-9. Særskilt skattemelding mv.
 
-(1) Særskilt skattemelding skal leveres avmottakere av fjernleverbare tjenester som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-3 første ledd annet punktum](lov/2009-06-19-58/§11-3/ledd/1/setning/2)mottakere av klimakvoter som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-1 annet ledd annet punktum](lov/2009-06-19-58/§11-1/ledd/2/setning/2)mottakere av gull som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-1 tredje ledd annet punktum](lov/2009-06-19-58/§11-1/ledd/3/setning/2)tilbyder i forenklet registreringsordning.
+(1) Særskilt skattemelding skal leveres av
+
+1. mottakere av fjernleverbare tjenester som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-3 første ledd annet punktum](lov/2009-06-19-58/§11-3/ledd/1/setning/2)
+2. mottakere av klimakvoter som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-1 annet ledd annet punktum](lov/2009-06-19-58/§11-1/ledd/2/setning/2)
+3. mottakere av gull som plikter å beregne merverdiavgift etter [merverdiavgiftsloven § 11-1 tredje ledd annet punktum](lov/2009-06-19-58/§11-1/ledd/3/setning/2)
+4. tilbyder i forenklet registreringsordning.
 
 (2) Særskilt skattemelding som nevnt i første ledd skal leveres periodevis. Hver skattleggingsperiode omfatter tre kalendermåneder. Første periode er januar, februar og mars, annen periode er april, mai og juni, tredje periode er juli, august og september og fjerde periode er oktober, november og desember.
 
@@ -1968,7 +2697,12 @@ Skattepliktig som leverer skattemelding etter [§ 8-3-3](forskrift/2016-11-23-13
 
 ### § 8-5-1. Opplysningsplikt for engangsavgift på motorvogner mv.
 
-Skattepliktig etter [motorkjøretøy- og båtavgiftsloven](lov/1959-06-19-2) skal levere skattemeldingdersom betingelsene for avgiftsfrihet eller avgiftsnedsettelse som forelå ved første gangs registrering av motorkjøretøyet ikke lenger er oppfyltfør motorkjøretøy som ikke tidligere er registrert i Norge tas i registreringspliktig brukfør oppbygd motorkjøretøy tas i brukfør motorkjøretøyets avgiftsmessige status eller avgiftsmessige grunnlag endres.
+Skattepliktig etter [motorkjøretøy- og båtavgiftsloven](lov/1959-06-19-2) skal levere skattemelding
+
+1. dersom betingelsene for avgiftsfrihet eller avgiftsnedsettelse som forelå ved første gangs registrering av motorkjøretøyet ikke lenger er oppfylt
+2. før motorkjøretøy som ikke tidligere er registrert i Norge tas i registreringspliktig bruk
+3. før oppbygd motorkjøretøy tas i bruk
+4. før motorkjøretøyets avgiftsmessige status eller avgiftsmessige grunnlag endres.
 
 > Endret ved forskrift [18 des 2024 nr. 3484](forskrift/2024-12-18-3484) (i kraft 1 jan 2025).
 
@@ -1978,7 +2712,11 @@ Skattepliktig etter [motorkjøretøy- og båtavgiftsloven](lov/1959-06-19-2) ska
 
 ### § 8-5-3. Opplysningsplikt for vektårsavgift
 
-Skattepliktig etter [motorkjøretøy- og båtavgiftsloven](lov/1959-06-19-2) skal levere skattemeldingfør endring til en høyere avgiftsgruppe, jf. vektårsavgiftsforskriften § 5 [første ledd](lov/1959-06-19-2/§5/ledd/1)før korttidsbruk av tilhenger som utløser plikt til å betale døgnavgift, jf. vektårsavgiftsforskriften § 7før bruk av reservebuss som er fritatt for ordinær vektårsavgift skal finne sted.
+Skattepliktig etter [motorkjøretøy- og båtavgiftsloven](lov/1959-06-19-2) skal levere skattemelding
+
+1. før endring til en høyere avgiftsgruppe, jf. vektårsavgiftsforskriften § 5 [første ledd](lov/1959-06-19-2/§5/ledd/1)
+2. før korttidsbruk av tilhenger som utløser plikt til å betale døgnavgift, jf. vektårsavgiftsforskriften § 7
+3. før bruk av reservebuss som er fritatt for ordinær vektårsavgift skal finne sted.
 
 ### § 8-7. Skattemelding for merverdiavgiftskompensasjon
 
@@ -2038,7 +2776,10 @@ Melding om trekk skal leveres senest syv dager etter at trekk er foretatt.
 
 (3) Opplysningsplikten gjelder frem til selskapet blir skattemessig oppløst etter [skatteloven § 10-44](lov/1999-03-26-14/§10-44).
 
-(4) For selskap som er registrert i Enhetsregisteret i 2013 eller senere, gjelder likevel opplysningsplikten bare for stiftelsesåret og de to påfølgende år, dersomselskapet er registrert i Enhetsregisteret, men aldri har utøvet virksomhet ogdet registrerte selskapet verken har eiendeler eller skatteposisjoner.
+(4) For selskap som er registrert i Enhetsregisteret i 2013 eller senere, gjelder likevel opplysningsplikten bare for stiftelsesåret og de to påfølgende år, dersom
+
+1. selskapet er registrert i Enhetsregisteret, men aldri har utøvet virksomhet og
+2. det registrerte selskapet verken har eiendeler eller skatteposisjoner.
 
 ### § 8-9-2. Deltakere i utenlandske selskaper
 
@@ -2092,13 +2833,24 @@ Kopi av avtale om realisasjon av naturgass skal gis i den form Oljeskattekontore
 
 ### § 8-11-1. Fritak fra plikten til å levere melding mv.
 
-(1) Plikten til å levere melding etter [skatteforvaltningsloven § 8-11 første ledd](lov/2016-05-27-14/§8-11/ledd/1) og plikten til å utarbeide og legge fram dokumentasjon etter [skatteforvaltningsloven § 8-11 annet ledd](lov/2016-05-27-14/§8-11/ledd/2), jf. [tredje](lov/2016-05-27-14/§8-11/ledd/3) og [femte ledd](lov/2016-05-27-14/§8-11/ledd/5), skal ikke gjelde for selskap eller innretning somi skattleggingsperioden har kontrollerte transaksjoner med en samlet virkelig verdi på mindre enn 10 millioner kroner ogved utgangen av skattleggingsperioden har mindre enn 25 millioner kroner i mellomværender med nærstående selskaper eller innretninger, jf. [skatteforvaltningsloven § 8-11 fjerde ledd](lov/2016-05-27-14/§8-11/ledd/4). Med mellomværender forstås alle typer fordringer og gjeld, samt garantier.
+(1) Plikten til å levere melding etter [skatteforvaltningsloven § 8-11 første ledd](lov/2016-05-27-14/§8-11/ledd/1) og plikten til å utarbeide og legge fram dokumentasjon etter [skatteforvaltningsloven § 8-11 annet ledd](lov/2016-05-27-14/§8-11/ledd/2), jf. [tredje](lov/2016-05-27-14/§8-11/ledd/3) og [femte ledd](lov/2016-05-27-14/§8-11/ledd/5), skal ikke gjelde for selskap eller innretning som
+
+1. i skattleggingsperioden har kontrollerte transaksjoner med en samlet virkelig verdi på mindre enn 10 millioner kroner og
+2. ved utgangen av skattleggingsperioden har mindre enn 25 millioner kroner i mellomværender med nærstående selskaper eller innretninger, jf. [skatteforvaltningsloven § 8-11 fjerde ledd](lov/2016-05-27-14/§8-11/ledd/4). Med mellomværender forstås alle typer fordringer og gjeld, samt garantier.
 
 (2) For selskaper og innretninger som har opplysnings- og dokumentasjonsplikt etter [skatteforvaltningsloven § 8-11 sjette ledd annet punktum](lov/2016-05-27-14/§8-11/ledd/6/setning/2), medregnes transaksjoner og mellomværender etter nevnte bestemmelse ved vurderingen av om beløpsgrensene i første ledd er overskredet.
 
 ### § 8-11-2. Definisjoner
 
-I denne forskrift [§ 8-11](forskrift/2016-11-23-1360/§8-11) menes med*kontrollerte transaksjoner:* transaksjoner og overføringer mellom selskaper eller innretninger som er nærstående etter [skatteforvaltningsloven § 8-11 fjerde ledd](lov/2016-05-27-14/§8-11/ledd/4), samt disposisjoner mellom et fast driftssted og andre deler av foretaket*armlengdeprinsippet:* prinsippet om at kommersielt og finansielt samkvem mellom nærstående foretak skal være inngått på samme vilkår som om transaksjonen var inngått mellom uavhengige foretak under sammenlignbare forhold og omstendigheter, jf. [skatteloven § 13-1](lov/1999-03-26-14/§13-1) og OECDs mønsterskatteavtale [artikkel 9 nr. 1](forskrift/2016-11-23-1360/a9/nummer/1)*fast driftssted:* en virksomhet som utgjør eller skal regnes som fast driftssted i medhold av bestemmelser i skatteavtaler som Norge har inngått. Når virksomheten ikke omfattes av skatteavtale som Norge har inngått, skal den regnes som fast driftssted når vilkårene i OECDs mønsterskatteavtale [artikkel 5](forskrift/2016-11-23-1360/a5) er oppfylt.*OECDs mønsterskatteavtale:* OECDs modelloverenskomst for skattlegging av inntekt og formue (Model Tax Convention on Income and on Capital) slik den løpende holdes oppdatert og anbefales fulgt av OECDs Råd*OECD-retningslinjene:* retningslinjer for internprising for flernasjonale foretak og skattemyndigheter vedtatt av Organisasjonen for økonomisk samarbeid og utvikling (OECD) i 1995, med senere vedtatte endringer, publisert i rapporten Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations [C (95) 126/Final]*interne sammenlignbare transaksjoner:* sammenlignbare transaksjoner som foretaket har inngått med et uavhengig foretak, og som kan anvendes som sammenligningsgrunnlag ved vurderingen av om priser og vilkår anvendt i foretakets kontrollerte transaksjoner er i samsvar med armlengdeprinsippet*eksterne sammenlignbare transaksjoner:* sammenlignbare transaksjoner inngått mellom uavhengige foretak og som kan anvendes som sammenligningsgrunnlag ved vurderingen av om priser og vilkår anvendt i foretakets kontrollerte transaksjoner er i samsvar med armlengdeprinsippet.
+I denne forskrift [§ 8-11](forskrift/2016-11-23-1360/§8-11) menes med
+
+1. *kontrollerte transaksjoner:* transaksjoner og overføringer mellom selskaper eller innretninger som er nærstående etter [skatteforvaltningsloven § 8-11 fjerde ledd](lov/2016-05-27-14/§8-11/ledd/4), samt disposisjoner mellom et fast driftssted og andre deler av foretaket
+2. *armlengdeprinsippet:* prinsippet om at kommersielt og finansielt samkvem mellom nærstående foretak skal være inngått på samme vilkår som om transaksjonen var inngått mellom uavhengige foretak under sammenlignbare forhold og omstendigheter, jf. [skatteloven § 13-1](lov/1999-03-26-14/§13-1) og OECDs mønsterskatteavtale [artikkel 9 nr. 1](forskrift/2016-11-23-1360/a9/nummer/1)
+3. *fast driftssted:* en virksomhet som utgjør eller skal regnes som fast driftssted i medhold av bestemmelser i skatteavtaler som Norge har inngått. Når virksomheten ikke omfattes av skatteavtale som Norge har inngått, skal den regnes som fast driftssted når vilkårene i OECDs mønsterskatteavtale [artikkel 5](forskrift/2016-11-23-1360/a5) er oppfylt.
+4. *OECDs mønsterskatteavtale:* OECDs modelloverenskomst for skattlegging av inntekt og formue (Model Tax Convention on Income and on Capital) slik den løpende holdes oppdatert og anbefales fulgt av OECDs Råd
+5. *OECD-retningslinjene:* retningslinjer for internprising for flernasjonale foretak og skattemyndigheter vedtatt av Organisasjonen for økonomisk samarbeid og utvikling (OECD) i 1995, med senere vedtatte endringer, publisert i rapporten Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations [C (95) 126/Final]
+6. *interne sammenlignbare transaksjoner:* sammenlignbare transaksjoner som foretaket har inngått med et uavhengig foretak, og som kan anvendes som sammenligningsgrunnlag ved vurderingen av om priser og vilkår anvendt i foretakets kontrollerte transaksjoner er i samsvar med armlengdeprinsippet
+7. *eksterne sammenlignbare transaksjoner:* sammenlignbare transaksjoner inngått mellom uavhengige foretak og som kan anvendes som sammenligningsgrunnlag ved vurderingen av om priser og vilkår anvendt i foretakets kontrollerte transaksjoner er i samsvar med armlengdeprinsippet.
 
 ### § 8-11-3. Generelle bestemmelser
 
@@ -2110,7 +2862,13 @@ I denne forskrift [§ 8-11](forskrift/2016-11-23-1360/§8-11) menes med*kontroll
 
 ### § 8-11-4. Opplysninger om foretaket, konsernet og virksomheten
 
-Dokumentasjonen skal inneholde en overordnet og helhetlig beskrivelse av foretaket og det konsernet det inngår i, og den virksomheten som drives. Denne skal inneholdeen beskrivelse av konsernets juridiske eierstruktur og de enkelte enhetenes geografiske tilhørigheten beskrivelse av konsernets operasjonelle struktur, herunder de ulike enhetenes viktigste forretningsområderen kortfattet historisk beskrivelse av konsernet, virksomheten og eventuelle tidligere gjennomførte omstruktureringeren beskrivelse av bransjen, herunder viktige konkurransemessige forholden beskrivelse av vesentlige endringer i foretaket eller konsernet i løpet av skattleggingsperioden, herunder en redegjørelse for omstruktureringer og vesentlige endringer i funksjoner som foretaket utfører, eiendeler det benytter i virksomheten og risikoer det bærer.
+Dokumentasjonen skal inneholde en overordnet og helhetlig beskrivelse av foretaket og det konsernet det inngår i, og den virksomheten som drives. Denne skal inneholde
+
+1. en beskrivelse av konsernets juridiske eierstruktur og de enkelte enhetenes geografiske tilhørighet
+2. en beskrivelse av konsernets operasjonelle struktur, herunder de ulike enhetenes viktigste forretningsområder
+3. en kortfattet historisk beskrivelse av konsernet, virksomheten og eventuelle tidligere gjennomførte omstruktureringer
+4. en beskrivelse av bransjen, herunder viktige konkurransemessige forhold
+5. en beskrivelse av vesentlige endringer i foretaket eller konsernet i løpet av skattleggingsperioden, herunder en redegjørelse for omstruktureringer og vesentlige endringer i funksjoner som foretaket utfører, eiendeler det benytter i virksomheten og risikoer det bærer.
 
 ### § 8-11-5. Opplysninger om finansielle forhold
 
@@ -2124,7 +2882,13 @@ Dokumentasjonen skal inneholde en overordnet og helhetlig beskrivelse av foretak
 
 (2) Likeartede eller nært sammenknyttede transaksjoner kan beskrives under ett (aggregert). Det skal redegjøres for hvilke transaksjoner som beskrives aggregert.
 
-(3) Transaksjonene skal videre beskrives i forhold til de fem sammenlignbarhetsfaktorene som er nedfelt i OECD-retningslinjene [kapittel I](forskrift/2016-11-23-1360/kapI). Dette ereiendelenes eller tjenestenes karakteristikaen funksjonsanalyse, jf. [§ 8-11-7](forskrift/2016-11-23-1360/§8-11-7)kontraktsvilkårøkonomiske omstendigheter (markedsanalyse)forretningsstrategier som kan påvirke prissettingen.
+(3) Transaksjonene skal videre beskrives i forhold til de fem sammenlignbarhetsfaktorene som er nedfelt i OECD-retningslinjene [kapittel I](forskrift/2016-11-23-1360/kapI). Dette er
+
+1. eiendelenes eller tjenestenes karakteristika
+2. en funksjonsanalyse, jf. [§ 8-11-7](forskrift/2016-11-23-1360/§8-11-7)
+3. kontraktsvilkår
+4. økonomiske omstendigheter (markedsanalyse)
+5. forretningsstrategier som kan påvirke prissettingen.
 
 (4) Det skal redegjøres for eventuelle kostnadsbidragsordninger som foretaket er deltaker i, jf. OECD-retningslinjene [kapittel VIII](forskrift/2016-11-23-1360/kap8).
 
@@ -2192,7 +2956,13 @@ Dokumentasjon i samsvar med [§ 8-11-4](forskrift/2016-11-23-1360/§8-11-4) til 
 
 ### § 8-12-1. Definisjoner
 
-(1) I [skatteforvaltningsloven § 8-12](lov/2016-05-27-14/§8-12) og denne forskrift [§ 8-12](lov/2016-05-27-14/§8-12) menes med*morselskap:* regnskapspliktig som er morselskap etter [regnskapsloven § 1-3 annet ledd](lov/1998-07-17-56/§1-3/ledd/2). Regnskapspliktig som har fast driftssted i et annet land skal også regnes som morselskap. Det samme gjelder regnskapspliktig som ville hatt plikt til å utarbeide konsernregnskap dersom eierandelene i foretaket hadde vært omsatt på offentlig børs.*konsern:* gruppe av foretak som er et konsern etter [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3). Regnskapspliktig som har fast driftssted i utlandet skal også regnes som konsern.*foretak:* regnskapspliktig som er morselskap eller datterselskap etter [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3). Fast driftssted i utlandet som er en del av selskap med regnskapsplikt etter [regnskapsloven](lov/1998-07-17-56) og utenlandske foretak som har skatteplikt etter [skatteloven § 2-3 første ledd bokstav b](lov/1999-03-26-14/§2-3/ledd/1/bokstav/b) eller [petroleumsskatteloven § 1](lov/1975-06-13-35/§1), jf. [§ 2](lov/1975-06-13-35/§2), skal også regnes som foretak.*hjemmehørende:* foretak som er skattepliktig i Norge etter [skatteloven § 2-2](lov/1999-03-26-14/§2-2) anses hjemmehørende i Norge. I tilfeller hvor et foretak samtidig anses hjemmehørende i Norge etter første punktum og i et annet land etter dette landets interne lovgivning, skal bestemmelse i foreliggende skatteavtale om bosted være avgjørende.*modellovgivningen:* lovgivningen som anbefales i rapporten: OECD (2015), Transfer Pricing Documentation and Country-by-Country Reporting, Action 13-2015 Final Report, OECD/G20 Base Erosion and Profit Shifting Project, OECD Publishing.
+(1) I [skatteforvaltningsloven § 8-12](lov/2016-05-27-14/§8-12) og denne forskrift [§ 8-12](lov/2016-05-27-14/§8-12) menes med
+
+1. *morselskap:* regnskapspliktig som er morselskap etter [regnskapsloven § 1-3 annet ledd](lov/1998-07-17-56/§1-3/ledd/2). Regnskapspliktig som har fast driftssted i et annet land skal også regnes som morselskap. Det samme gjelder regnskapspliktig som ville hatt plikt til å utarbeide konsernregnskap dersom eierandelene i foretaket hadde vært omsatt på offentlig børs.
+2. *konsern:* gruppe av foretak som er et konsern etter [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3). Regnskapspliktig som har fast driftssted i utlandet skal også regnes som konsern.
+3. *foretak:* regnskapspliktig som er morselskap eller datterselskap etter [regnskapsloven § 1-3](lov/1998-07-17-56/§1-3). Fast driftssted i utlandet som er en del av selskap med regnskapsplikt etter [regnskapsloven](lov/1998-07-17-56) og utenlandske foretak som har skatteplikt etter [skatteloven § 2-3 første ledd bokstav b](lov/1999-03-26-14/§2-3/ledd/1/bokstav/b) eller [petroleumsskatteloven § 1](lov/1975-06-13-35/§1), jf. [§ 2](lov/1975-06-13-35/§2), skal også regnes som foretak.
+4. *hjemmehørende:* foretak som er skattepliktig i Norge etter [skatteloven § 2-2](lov/1999-03-26-14/§2-2) anses hjemmehørende i Norge. I tilfeller hvor et foretak samtidig anses hjemmehørende i Norge etter første punktum og i et annet land etter dette landets interne lovgivning, skal bestemmelse i foreliggende skatteavtale om bosted være avgjørende.
+5. *modellovgivningen:* lovgivningen som anbefales i rapporten: OECD (2015), Transfer Pricing Documentation and Country-by-Country Reporting, Action 13-2015 Final Report, OECD/G20 Base Erosion and Profit Shifting Project, OECD Publishing.
 
 (2) Uttrykket «andre foretak i Norge» i [skatteforvaltningsloven § 8-12 annet ledd](lov/2016-05-27-14/§8-12/ledd/2) omfatter også utenlandsk foretak som er skattepliktig til Norge etter [skatteloven § 2-3 første ledd](lov/1999-03-26-14/§2-3/ledd/1) eller [petroleumsskatteloven § 1](lov/1975-06-13-35/§1), jf. [§ 2](lov/1975-06-13-35/§2). Dersom det foreligger skatteavtale, skal skatteavtalens bestemmelse om etablering av fast driftssted være avgjørende.
 
@@ -2200,9 +2970,16 @@ Dokumentasjon i samsvar med [§ 8-11-4](forskrift/2016-11-23-1360/§8-11-4) til 
 
 ### § 8-12-2. Meldingens innhold
 
-(1) Meldingen skal inneholde opplysninger ominntekt, resultat før skattekostnad, betalt inntektsskatt, påløpt inntektsskatt, innskutt egenkapital, opptjent egenkapital, antall ansatte og fysiske eiendeler utenom kontanter og eiendeler tilsvarende kontanter. Opplysningene nevnt i første punktum skal gis samlet i hver kategori for alle foretak i hvert enkelt land der konsernet har økonomisk aktivitet.hvert enkelt foretak i konsernet og hvor dette er hjemmehørende. Dersom foretaket er underlagt selskapslovgivningen i et annet land enn det landet det er hjemmehørende i, skal det opplyses om hvilket land dette er. Meldingen skal også inneholde opplysninger om hvert enkelt foretaks økonomiske virksomhet.
+(1) Meldingen skal inneholde opplysninger om
 
-(2) Foretak som skal inngå i meldingen erenhver virksomhet i et konsern som inkluderes i konsernregnskapet eller ville vært inkludert dersom eierandeler i slike enheter ble omsatt på offentlig børsenhver virksomhet som utelates fra konsernregnskapet utelukkende av hensyn til størrelse eller materiell karakter ogethvert fast driftssted i en virksomhet i konsernet som nevnt i bokstav a og b dersom virksomheten utarbeider eget regnskap for det faste driftsstedet for finansiell rapportering, lovpålagt rapportering, skatteregnskap eller intern kontroll.
+1. inntekt, resultat før skattekostnad, betalt inntektsskatt, påløpt inntektsskatt, innskutt egenkapital, opptjent egenkapital, antall ansatte og fysiske eiendeler utenom kontanter og eiendeler tilsvarende kontanter. Opplysningene nevnt i første punktum skal gis samlet i hver kategori for alle foretak i hvert enkelt land der konsernet har økonomisk aktivitet.
+2. hvert enkelt foretak i konsernet og hvor dette er hjemmehørende. Dersom foretaket er underlagt selskapslovgivningen i et annet land enn det landet det er hjemmehørende i, skal det opplyses om hvilket land dette er. Meldingen skal også inneholde opplysninger om hvert enkelt foretaks økonomiske virksomhet.
+
+(2) Foretak som skal inngå i meldingen er
+
+1. enhver virksomhet i et konsern som inkluderes i konsernregnskapet eller ville vært inkludert dersom eierandeler i slike enheter ble omsatt på offentlig børs
+2. enhver virksomhet som utelates fra konsernregnskapet utelukkende av hensyn til størrelse eller materiell karakter og
+3. ethvert fast driftssted i en virksomhet i konsernet som nevnt i bokstav a og b dersom virksomheten utarbeider eget regnskap for det faste driftsstedet for finansiell rapportering, lovpålagt rapportering, skatteregnskap eller intern kontroll.
 
 > Endret ved [forskrifter 21 des 2016 nr. 1797](forskrift/2016-12-21-1797) (i kraft 1 jan 2017), [27 nov 2017 nr. 1831](forskrift/2017-11-27-1831).
 
@@ -2226,7 +3003,13 @@ Plikten for morselskap til å levere melding etter [skatteforvaltningsloven § 8
 
 ### § 8-12-6. Unntak fra plikt til å levere melding for andre enn morselskapet
 
-(1) Plikten for andre foretak i konsernet enn morselskapet til å levere melding etter [skatteforvaltningsloven § 8-12 annet ledd](lov/2016-05-27-14/§8-12/ledd/2), gjelder ikke dersom et annet foretak i konsernet har levert tilsvarende melding til skattemyndighetene i landet der foretaket er hjemmehørende innen tolv måneder etter utløpet av regnskapsåret, ogdette landet har regler som krever at foretaket skal levere tilsvarende meldingdette landet har en avtale med Norge om automatisk utveksling av land-for-land-rapporter for skatteformål, med virkning ved utløpet av rapporteringsåret etter [skatteforvaltningsloven § 8-12 første ledd](lov/2016-05-27-14/§8-12/ledd/1)dette landet ikke har varslet norske skattemyndigheter om at dette landet har suspendert avtale som nevnt i bokstav b eller dette landet av andre grunner ikke sender land-for-land-rapporter for skatteformål til Norgedette foretaket har varslet skattemyndighetene i landet det er hjemmehørende eller etablert om at det er et foretak som skal levere slik melding ognorske skattemyndigheter har fått varsel som nevnt i [skatteforvaltningsloven § 8-12 tredje ledd](lov/2016-05-27-14/§8-12/ledd/3).
+(1) Plikten for andre foretak i konsernet enn morselskapet til å levere melding etter [skatteforvaltningsloven § 8-12 annet ledd](lov/2016-05-27-14/§8-12/ledd/2), gjelder ikke dersom et annet foretak i konsernet har levert tilsvarende melding til skattemyndighetene i landet der foretaket er hjemmehørende innen tolv måneder etter utløpet av regnskapsåret, og
+
+1. dette landet har regler som krever at foretaket skal levere tilsvarende melding
+2. dette landet har en avtale med Norge om automatisk utveksling av land-for-land-rapporter for skatteformål, med virkning ved utløpet av rapporteringsåret etter [skatteforvaltningsloven § 8-12 første ledd](lov/2016-05-27-14/§8-12/ledd/1)
+3. dette landet ikke har varslet norske skattemyndigheter om at dette landet har suspendert avtale som nevnt i bokstav b eller dette landet av andre grunner ikke sender land-for-land-rapporter for skatteformål til Norge
+4. dette foretaket har varslet skattemyndighetene i landet det er hjemmehørende eller etablert om at det er et foretak som skal levere slik melding og
+5. norske skattemyndigheter har fått varsel som nevnt i [skatteforvaltningsloven § 8-12 tredje ledd](lov/2016-05-27-14/§8-12/ledd/3).
 
 (2) Plikten for andre foretak i konsernet enn morselskapet til å levere melding etter [skatteforvaltningsloven § 8-12 annet ledd](lov/2016-05-27-14/§8-12/ledd/2) gjelder ikke dersom årsaken til at morselskapet i utlandet ikke leverer tilsvarende melding, er at inntekten i konsernet ikke overstiger den beløpsgrensen som hjemlandets interne lovgivning har satt på bakgrunn av modellovgivningen [artikkel 1 nr. 3](forskrift/2016-11-23-1360/a1/nummer/3).
 
@@ -2320,7 +3103,13 @@ Takseringsregler og regler om verdsetting av skogeiendom fastsettes årlig for s
 
 (1) Banker og andre finansforetak kan gi kontrollopplysninger etter [skatteforvaltningsloven § 10-2 første ledd](lov/2016-05-27-14/§10-2/ledd/1) gjennom en automatisert oppslagstjeneste. Med automatisert oppslagstjeneste menes en teknisk løsning der opplysninger gjøres tilgjengelige gjennom et felles teknisk grensesnitt mellom skattemyndighetene og finansforetaket, i et forhåndsdefinert format og uten manuell behandling fra finansforetakets side.
 
-(2) Oppslagstjenesten kan benyttes til innhenting av følgende opplysninger:kontolister med oversikt over alle kontoer for en spesifisert tidsperiode som en person eller et foretak eier eller er disponent forkontodetaljer, inkludert saldotransaksjonshistorikk knyttet til en konto opp til ti år tilbake i tid, blant annet opplysninger om beløp, mottaker og avsender, tidspunkt og brukerstedopplysninger om betalingskort knyttet til en kontooversikt over alle som har eller har hatt en rolle knyttet til en konto.
+(2) Oppslagstjenesten kan benyttes til innhenting av følgende opplysninger:
+
+1. kontolister med oversikt over alle kontoer for en spesifisert tidsperiode som en person eller et foretak eier eller er disponent for
+2. kontodetaljer, inkludert saldo
+3. transaksjonshistorikk knyttet til en konto opp til ti år tilbake i tid, blant annet opplysninger om beløp, mottaker og avsender, tidspunkt og brukersted
+4. opplysninger om betalingskort knyttet til en konto
+5. oversikt over alle som har eller har hatt en rolle knyttet til en konto.
 
 (3) Skattemyndighetene skal blant annet sørge for sikker autentisering av forespørselen, angivelse av hjemmelen for forespørselen og logging av forespørsler og svar. Skattemyndighetene skal ha rutiner for å minimere og slette overskuddsinformasjon. Opplysningene som gis gjennom oppslagstjenesten, skal krypteres. Skattemyndighetene skal begrense hvilke ansatte som har tilgang til oppslagstjenesten, og tilgangen skal begrenses i omfang og tid etter den ansattes tjenstlige behov. Skattemyndighetene skal jevnlig føre kontroll med bruken av oppslagstjenesten, herunder ved bruk av automatisert logganalyse.
 
@@ -2370,7 +3159,14 @@ Den opplysningspliktige skal orienteres om sin opplysningsplikt og plikt til å 
 
 (1) Den som leder kontrollen har ansvaret for at det blir utarbeidet rapport.
 
-(2) Ved kontroll hos den opplysningspliktige skal rapporten inneholdeopplysninger om når kontrollen fant sted, formålet og lovhjemmel for kontrollenopplysninger om varsel til den opplysningspliktigehvem som var til stede ved kontrollen og hvem som var den opplysningspliktiges kontaktpersonoversikt over dokumenter, datalagringsmedium mv. som ble utlevert til skattemyndighetene ved kontrollenoversikt over de faktiske forhold av betydning for kontrollen, med oppdeling i henholdsvis faktiske opplysninger vedrørende den opplysningspliktige som kontrollen ble avholdt hos og opplysninger vedrørende andre opplysningspliktigeopplysninger om andre særlige forhold.
+(2) Ved kontroll hos den opplysningspliktige skal rapporten inneholde
+
+1. opplysninger om når kontrollen fant sted, formålet og lovhjemmel for kontrollen
+2. opplysninger om varsel til den opplysningspliktige
+3. hvem som var til stede ved kontrollen og hvem som var den opplysningspliktiges kontaktperson
+4. oversikt over dokumenter, datalagringsmedium mv. som ble utlevert til skattemyndighetene ved kontrollen
+5. oversikt over de faktiske forhold av betydning for kontrollen, med oppdeling i henholdsvis faktiske opplysninger vedrørende den opplysningspliktige som kontrollen ble avholdt hos og opplysninger vedrørende andre opplysningspliktige
+6. opplysninger om andre særlige forhold.
 
 ### § 10-14-7. Tilbakelevering
 
@@ -2398,7 +3194,11 @@ Bevissikring kan begjæres og gjennomføres av den skattemyndighet som Skattedir
 
 ### § 10-15-2. Informasjon om tingrettens beslutning om bevissikring
 
-(1) Før bevissikring iverksettes skal tingrettens beslutning leses opp eller forevises for den bevissikringen er rettet mot. Det skal opplyses omat tingrettens beslutning kan ankes etter [straffeprosessloven kapittel 26](lov/1981-05-22-25/kap26)at anken ikke har oppsettende virkning, jf. [skatteforvaltningsloven § 10-15](lov/2016-05-27-14/§10-15) tredje leddankefristen, jf. [straffeprosessloven § 379](lov/1981-05-22-25/§379) første ledd.
+(1) Før bevissikring iverksettes skal tingrettens beslutning leses opp eller forevises for den bevissikringen er rettet mot. Det skal opplyses om
+
+1. at tingrettens beslutning kan ankes etter [straffeprosessloven kapittel 26](lov/1981-05-22-25/kap26)
+2. at anken ikke har oppsettende virkning, jf. [skatteforvaltningsloven § 10-15](lov/2016-05-27-14/§10-15) tredje ledd
+3. ankefristen, jf. [straffeprosessloven § 379](lov/1981-05-22-25/§379) første ledd.
 
 (2) Den som kontrolleres skal ha kopi av tingrettens beslutning.
 
@@ -2472,7 +3272,11 @@ Foretaket skal sende en kopi av villighetserklæringen til skattekontoret innen 
 
 (1) I vurderingen etter [skatteforvaltningsloven § 12-4](lov/2016-05-27-14/§12-4) første ledd av om det er uforholdsmessig byrdefullt å gjennomføre ordinære endringssaker skal det blant annet legges vekt på om feilen gjelder små beløp for mange ansatte, om feilen gjelder flere år, omfanget av underlagsmaterialet og muligheten til å koble dette til den enkelte ansatte.
 
-(2) Vedtak om summarisk fellesoppgjør kan alltid treffes når antall ordinære endringssaker, hvor en skattepliktig for en skattleggingsperiode regnes som en sak, samlet ville utgjøre entenminst 300 saker, og det gjennomsnittlige opplysningspliktige beløp per sak som nevnt ikke overstiger 50 prosent av folketrygdens grunnbeløp for noen skattleggingsperiodeminst 100 saker, og det gjennomsnittlige opplysningspliktige beløp per sak som nevnt ikke overstiger 20 prosent av folketrygdens grunnbeløp for noen skattleggingsperiode ellerminst 50 saker, og det gjennomsnittlige opplysningspliktige beløp per sak som nevnt ikke overstiger 10 prosent av folketrygdens grunnbeløp for noen skattleggingsperiode.
+(2) Vedtak om summarisk fellesoppgjør kan alltid treffes når antall ordinære endringssaker, hvor en skattepliktig for en skattleggingsperiode regnes som en sak, samlet ville utgjøre enten
+
+1. minst 300 saker, og det gjennomsnittlige opplysningspliktige beløp per sak som nevnt ikke overstiger 50 prosent av folketrygdens grunnbeløp for noen skattleggingsperiode
+2. minst 100 saker, og det gjennomsnittlige opplysningspliktige beløp per sak som nevnt ikke overstiger 20 prosent av folketrygdens grunnbeløp for noen skattleggingsperiode eller
+3. minst 50 saker, og det gjennomsnittlige opplysningspliktige beløp per sak som nevnt ikke overstiger 10 prosent av folketrygdens grunnbeløp for noen skattleggingsperiode.
 
 (3) Vedtak om summarisk fellesoppgjør kan også omfatte skattepliktige som ikke kan identifiseres. Disse kan holdes utenom beregningen av om vilkårene i annet ledd er oppfylt. Det samme gjelder identifiserte skattepliktige som med hjemmel i [folketrygdloven](lov/1997-02-28-19), sosialkonvensjon eller Europaparlaments- og Rådsforordning [(EF) nr. 883/2004](eu/32004r0883*) er fritatt fra å svare trygdeavgift.
 
@@ -2486,7 +3290,13 @@ I varselet skal arbeidsgiveren bli oppfordret til å gi opplysninger om eventuel
 
 ### § 12-4-3. Vedtakets innhold
 
-Vedtaket skal angihvilke ansatte oppgjøret skal omfatte, så langt mulig angitt ved navn, fødselsnummer og skattekommune, og ellers avgrenset på annen entydig måte når identiteten er ukjent. Slik avgrensing skal i tilfelle skje med angivelse av bestemt antall eller gruppe av ansatte, henført til bestemt arbeidssted eller arbeidsoppdrag, samt hvilken tidsperiode aktuelle arbeidsoppdrag faller innenfor.hvilke skattleggingsperioder vedtaket omfatterarten og verdien av ytelser som omfattes av oppgjøretbeløpsmessig beregningsgrunnlag, spesifisert som nevnt i [§ 12-4-4](forskrift/2016-11-23-1360/§12-4-4) første leddhvilken sats som skal benyttes ved fastsettelse av kravet på skatt, jf. [§ 12-4-4](forskrift/2016-11-23-1360/§12-4-4) annet ledd og [§ 12-4-7](forskrift/2016-11-23-1360/§12-4-7) tredje ledd.
+Vedtaket skal angi
+
+1. hvilke ansatte oppgjøret skal omfatte, så langt mulig angitt ved navn, fødselsnummer og skattekommune, og ellers avgrenset på annen entydig måte når identiteten er ukjent. Slik avgrensing skal i tilfelle skje med angivelse av bestemt antall eller gruppe av ansatte, henført til bestemt arbeidssted eller arbeidsoppdrag, samt hvilken tidsperiode aktuelle arbeidsoppdrag faller innenfor.
+2. hvilke skattleggingsperioder vedtaket omfatter
+3. arten og verdien av ytelser som omfattes av oppgjøret
+4. beløpsmessig beregningsgrunnlag, spesifisert som nevnt i [§ 12-4-4](forskrift/2016-11-23-1360/§12-4-4) første ledd
+5. hvilken sats som skal benyttes ved fastsettelse av kravet på skatt, jf. [§ 12-4-4](forskrift/2016-11-23-1360/§12-4-4) annet ledd og [§ 12-4-7](forskrift/2016-11-23-1360/§12-4-7) tredje ledd.
 
 ### § 12-4-4. Beløpsmessig beregningsgrunnlag og skattesats
 

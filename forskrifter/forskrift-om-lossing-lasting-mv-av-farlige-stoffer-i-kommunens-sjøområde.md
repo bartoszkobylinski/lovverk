@@ -36,7 +36,11 @@ Kommunestyret kan bestemme at forskriften, eller enkelte bestemmelser i forskrif
 
 ### § 1-3. Saklig virkeområde
 
-Forskriften gjelder håndtering, lagring og transport av alt farlig gods som er definert i [§ 1-5](forskrift/2009-12-15-1543/§1-5), med unntak av:drivstoff for stasjonære motorer som brukes innen kommunens sjøområde og havner innenfor samme område, eller egen drivstoffbeholdning på fartøy eller kjøretøy,farlig gods som er en del av fartøys eller kjøretøys utstyr,farlig gods i små mengder til personlig bruk (for eksempel sigarettennere, kokeapparater, propanflasker mv.).
+Forskriften gjelder håndtering, lagring og transport av alt farlig gods som er definert i [§ 1-5](forskrift/2009-12-15-1543/§1-5), med unntak av:
+
+1. drivstoff for stasjonære motorer som brukes innen kommunens sjøområde og havner innenfor samme område, eller egen drivstoffbeholdning på fartøy eller kjøretøy,
+2. farlig gods som er en del av fartøys eller kjøretøys utstyr,
+3. farlig gods i små mengder til personlig bruk (for eksempel sigarettennere, kokeapparater, propanflasker mv.).
 
 Farlig gods som kun passerer gjennom kommunens sjøområde og ikke skal losses eller lastes, faller utenfor denne forskriften.
 
@@ -60,7 +64,17 @@ I denne forskriften betyr:
 
 *UN-nummer:* Identifikasjonsnummer som den farlige vare har fått i publikasjonen Recommendations on the Transport of Dangerous Goods, utgitt av De Forente Nasjoner.
 
-*Farlig gods:**Sjøtransport:* Et hvert stoff, pakket eller i bulk, som omfattes av bestemmelsene i den internasjonale sjøsikkerhetskonvensjon SOLAS 1974 kap. VII,del A med BC-koden, appendix B, for faste bulklaster og IMDG-koden for pakket gods,del B med kodene IBC og BCH for flytende kjemikalier i bulk ogdel C med kodene IGC og Gas Carrier Code.Bulklaster i fareklasse 4.2, som utgjør en fare for varmeutvikling og antennelse på grunn av oksidering når de fraktes i større mengder om bord på fartøy, er ikke å betrakte som farlig gods i henhold til denne forskrift. Kystverkets hovedkontor utarbeider liste over disse stoffer.*Landtransport:* Et hvert stoff, pakket eller uemballert, som omfattes av bestemmelsene i RID/ADR.*Lufttransport:* Et hvert stoff som omfattes av bestemmelsene i ICAO T/I.
+*Farlig gods:*
+
+- *Sjøtransport:* Et hvert stoff, pakket eller i bulk, som omfattes av bestemmelsene i den internasjonale sjøsikkerhetskonvensjon SOLAS 1974 kap. VII,
+
+  - del A med BC-koden, appendix B, for faste bulklaster og IMDG-koden for pakket gods,
+  - del B med kodene IBC og BCH for flytende kjemikalier i bulk og
+  - del C med kodene IGC og Gas Carrier Code.
+
+  Bulklaster i fareklasse 4.2, som utgjør en fare for varmeutvikling og antennelse på grunn av oksidering når de fraktes i større mengder om bord på fartøy, er ikke å betrakte som farlig gods i henhold til denne forskrift. Kystverkets hovedkontor utarbeider liste over disse stoffer.
+- *Landtransport:* Et hvert stoff, pakket eller uemballert, som omfattes av bestemmelsene i RID/ADR.
+- *Lufttransport:* Et hvert stoff som omfattes av bestemmelsene i ICAO T/I.
 
 *Pakket farlig gods:* Farlig gods pakket i forskriftsmessig emballasje i henhold til bestemmelsene i IMDG-koden og/eller RID/ADR og eller ICAO T/I.
 
@@ -142,7 +156,10 @@ Dette kapittel gjelder ikke fartøy som går til og fra havner i Norge i regelme
 
 ### § 4-2. Signaler
 
-Føreren er ansvarlig for at fartøy som fører brann- og eksplosjonsfarlige stoffer i større mengder enn angitt av Kystverkets hovedkontor, skal vise følgende signal:om dagen rødt flagg (internasjonalt signal B) på stormasten eller annet lett synlig sted ogom natten eller i dårlig sikt en rundtlysende lanterne med rødt lys og plassert slik at den ikke kan forveksles med andre foreskrevne lyssignaler.
+Føreren er ansvarlig for at fartøy som fører brann- og eksplosjonsfarlige stoffer i større mengder enn angitt av Kystverkets hovedkontor, skal vise følgende signal:
+
+1. om dagen rødt flagg (internasjonalt signal B) på stormasten eller annet lett synlig sted og
+2. om natten eller i dårlig sikt en rundtlysende lanterne med rødt lys og plassert slik at den ikke kan forveksles med andre foreskrevne lyssignaler.
 
 Når et fartøy som skyver og et fartøy som blir skjøvet forover er fast sammenkoplet som en samlet enhet, er det tilstrekkelig at signal vises av det fartøy som skyver.
 
@@ -272,7 +289,10 @@ Operatøren er ansvarlig for at tanken, før påfylling, er rengjort på en slik
 
 ### § 8-3. Lagring av containere og tankinnretninger som inneholder farlige stoffer og annet pakket farlig gods
 
-Pakket farlig gods, unntatt eksplosiver, som skal lagres, skal adskilles i henhold til nedenstående bestemmelser:for pakket farlig gods som lagres utendørs: IMDG-koden eller bestemmelser om lagring av pakket farlig gods som gis av Kystverkets hovedkontor, ellerfor pakket farlig gods som lagres innendørs: Bestemmelser om lagring av pakket farlig gods som gis av Kystverkets hovedkontor.
+Pakket farlig gods, unntatt eksplosiver, som skal lagres, skal adskilles i henhold til nedenstående bestemmelser:
+
+1. for pakket farlig gods som lagres utendørs: IMDG-koden eller bestemmelser om lagring av pakket farlig gods som gis av Kystverkets hovedkontor, eller
+2. for pakket farlig gods som lagres innendørs: Bestemmelser om lagring av pakket farlig gods som gis av Kystverkets hovedkontor.
 
 For containere skal det fremlegges pakkesertifikat utarbeidet av person som er ansvarlig for pakkingen. Av pakkesertifikatet skal det framgå hva slags farlig gods containeren inneholder.
 
@@ -326,7 +346,10 @@ Når fartøy med farlig gods om bord ligger ved kai, eller fartøy skal losse el
 
 Dersom mengden av et eller flere farlige stoffer som er om bord på fartøyet eller som skal lastes eller losses er større enn angitt av Kystverkets hovedkontor, skal kaioperatøren, før lossing eller lasting, informere fartøyets fører om hvilket brannslokkingsutstyr, alarmsystem og beredskapsarrangement som finnes på kaien. Kaioperatøren skal også informere fartøyets fører om hvordan alarmsystemet utløses og gi skriftlig beskjed om hvordan brannvernmyndighetene kontaktes.
 
-For øvrig skal kaioperatøren før lossing eller lasting:forvisse seg om at brannvernmyndighetene kan få øyeblikkelig informasjon om hvor farlige bulklaster oppbevares om bord, teknisk betegnelse, mengde, hvilke farer som er karakteristiske for lasten og hvilke sikkerhetstiltak som skal tas,forvisse seg om at brannvernmyndighetene kan få øyeblikkelig informasjon om hvor pakket farlig gods er stuet om bord, teknisk betegnelse, mengde, hvilke farer som er karakteristiske for godset og hvilke sikkerhetstiltak som skal tas.
+For øvrig skal kaioperatøren før lossing eller lasting:
+
+1. forvisse seg om at brannvernmyndighetene kan få øyeblikkelig informasjon om hvor farlige bulklaster oppbevares om bord, teknisk betegnelse, mengde, hvilke farer som er karakteristiske for lasten og hvilke sikkerhetstiltak som skal tas,
+2. forvisse seg om at brannvernmyndighetene kan få øyeblikkelig informasjon om hvor pakket farlig gods er stuet om bord, teknisk betegnelse, mengde, hvilke farer som er karakteristiske for godset og hvilke sikkerhetstiltak som skal tas.
 
 ### § 11-3. Informasjonsplikt ved ulykker
 

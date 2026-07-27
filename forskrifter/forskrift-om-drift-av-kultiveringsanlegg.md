@@ -44,7 +44,13 @@ Ny tillatelse må innhentes dersom forhold nevnt i første eller andre ledd endr
 
 ## § 3. Begrensninger
 
-Tillatelse skal ikke gis dersom anlegget:Vil volde fare for utbredelse av sykdom på fisk eller andre ferskvannsorganismer.Vil volde fare for forurensning.Har en uheldig plassering i forhold til det omkringliggende miljø, ferdsel eller annen mer samfunnsnyttig bruk av området.Vil volde fare for spredning av fiskearter.Er i strid med gjeldende kommunale planer.
+Tillatelse skal ikke gis dersom anlegget:
+
+1. Vil volde fare for utbredelse av sykdom på fisk eller andre ferskvannsorganismer.
+2. Vil volde fare for forurensning.
+3. Har en uheldig plassering i forhold til det omkringliggende miljø, ferdsel eller annen mer samfunnsnyttig bruk av området.
+4. Vil volde fare for spredning av fiskearter.
+5. Er i strid med gjeldende kommunale planer.
 
 ## § 4. Søknad
 

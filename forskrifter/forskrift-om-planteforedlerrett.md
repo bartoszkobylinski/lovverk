@@ -44,7 +44,10 @@ Plantesortsnemnda kan, når det gjelder plantesorter av særdeles stor betydning
 
 ### § 3
 
-For å kunne oppnå slik prioritet som nevnt i [lov om planteforedlerrett § 2](lov/1993-03-12-32/§2) tredje ledd, må sortseieren:skriftlig begjære dette ved inngivelse av søknaden om planteforedlerrett i Norge.innen 3 mnd. etter at begjæringen om prioritet er fremmet, sende Plantesortsnemnda kopier av den prioritetsbegrunnende søknaden. Disse dokumenter skal være bekreftet av den sortsmyndighet som mottok den første søknaden.
+For å kunne oppnå slik prioritet som nevnt i [lov om planteforedlerrett § 2](lov/1993-03-12-32/§2) tredje ledd, må sortseieren:
+
+1. skriftlig begjære dette ved inngivelse av søknaden om planteforedlerrett i Norge.
+2. innen 3 mnd. etter at begjæringen om prioritet er fremmet, sende Plantesortsnemnda kopier av den prioritetsbegrunnende søknaden. Disse dokumenter skal være bekreftet av den sortsmyndighet som mottok den første søknaden.
 
 ### Krav om anmerkning av lisenser, overdragelser og pantsettelser m.m. i plantesortsregisteret og i journalen over innkomne søknader
 
@@ -66,7 +69,16 @@ Krav om anmerkning som kommer inn til Plantesortsnemnda innen kl. 14.00 en virke
 
 ### § 4
 
-Skriftlig søknad på norsk skal sendes til Plantesortsnemnda. Den skal være undertegnet av sortseieren eller av fullmektig dersom sortseieren er representert av en slik. Søknaden skal inneholde:opplysning om foredlerens og sortseierens navn og adresse og dersom søkeren representeres av fullmektig, også dennes navn og adresse.særskilt fullmakt dersom sortseieren representeres av en fullmektig.grunnlaget for sortseierens rett til sorten, dersom sortseieren er en annen enn foredleren.en beskrivelse av sorten med opplysninger om botanisk tilhørighet, opprinnelse og særskilte kjennetegn som skiller den fra andre sorter samt resultater av den prøving sorten har gjennomgått og en beskrivelse av materialets oppformering.forslag til sortsnavn.opplysninger om sorten er søkt beskyttet i andre land, under hvilke navn og hva sortsmyndighetene i disse landene har kommet fram til vedrørende behandlingen av søknadene.dersom prioritet er begjært, navnet på det land som den påberopte tidligere søknad er inngitt i, samt denne søknads inngivelsesdag og søknadsnummer.opplysninger om tidligere utnyttelse av sorten som etter [lov om planteforedlerrett § 2](lov/1993-03-12-32/§2) første ledd, bokstav d kan være til hinder for meddelelse av planteforedlerrett.
+Skriftlig søknad på norsk skal sendes til Plantesortsnemnda. Den skal være undertegnet av sortseieren eller av fullmektig dersom sortseieren er representert av en slik. Søknaden skal inneholde:
+
+1. opplysning om foredlerens og sortseierens navn og adresse og dersom søkeren representeres av fullmektig, også dennes navn og adresse.
+2. særskilt fullmakt dersom sortseieren representeres av en fullmektig.
+3. grunnlaget for sortseierens rett til sorten, dersom sortseieren er en annen enn foredleren.
+4. en beskrivelse av sorten med opplysninger om botanisk tilhørighet, opprinnelse og særskilte kjennetegn som skiller den fra andre sorter samt resultater av den prøving sorten har gjennomgått og en beskrivelse av materialets oppformering.
+5. forslag til sortsnavn.
+6. opplysninger om sorten er søkt beskyttet i andre land, under hvilke navn og hva sortsmyndighetene i disse landene har kommet fram til vedrørende behandlingen av søknadene.
+7. dersom prioritet er begjært, navnet på det land som den påberopte tidligere søknad er inngitt i, samt denne søknads inngivelsesdag og søknadsnummer.
+8. opplysninger om tidligere utnyttelse av sorten som etter [lov om planteforedlerrett § 2](lov/1993-03-12-32/§2) første ledd, bokstav d kan være til hinder for meddelelse av planteforedlerrett.
 
 Samtidig med søknadens inngivelse skal det betales søknadsavgift som fastsatt i [§ 18](forskrift/1993-08-06-832/§18).
 
@@ -100,7 +112,22 @@ Resultatene av nyhetsprøvingen skal forelegges sortseieren før Plantesortsnemn
 
 ### § 6
 
-Plantesortsnemnda fører journal over innkomne søknader om planteforedlerrett. Journalen skal være offentlig. I journalen føres for hver søknad:søknadsnummer og dato for innkommet søknad.foredlerens navn og adresse.sortseierens navn og adresse.fullmektigens navn og adresse, dersom sortseieren representeres av en fullmektig.dersom prioritet er begjært, det land som den påberopte tidligere søknad er inngitt i, samt denne søknads inngivelsesdag og søknadsnummer.sortens botaniske tilhørighet.forslag til sortsnavn.innkomne skrivelser og oppgaver over betalte av gifter.utgåtte skrivelser og beslutninger som er fattet vedrørende søknaden.utsettelser i behandlingen på grunn av kollisjon med tidligere inngitt søknad. Tilsvarende anmerkning gjøres også i den eldre søknads blad i journalen.oppgaver over eventuelle overføringer av søknader (jfr. [lov om planteforedlerrett § 8](lov/1993-03-12-32/§8)).eventuell særskilt korrespondanseadresse, jf. [§ 4a](forskrift/1993-08-06-832/§4a).opplysninger om pant.dersom det er gitt opplysninger etter [planteforedlerloven § 4](lov/1993-03-12-32/§4) tredje ledd annet punktum; om opplysningene gjelder biologisk materiale eller tradisjonell kunnskap, samt hvilke opplysninger som er gitt om leverandørland, opprinnelsesland og samtykkekrav i nasjonal lovgivning.
+Plantesortsnemnda fører journal over innkomne søknader om planteforedlerrett. Journalen skal være offentlig. I journalen føres for hver søknad:
+
+1. søknadsnummer og dato for innkommet søknad.
+2. foredlerens navn og adresse.
+3. sortseierens navn og adresse.
+4. fullmektigens navn og adresse, dersom sortseieren representeres av en fullmektig.
+5. dersom prioritet er begjært, det land som den påberopte tidligere søknad er inngitt i, samt denne søknads inngivelsesdag og søknadsnummer.
+6. sortens botaniske tilhørighet.
+7. forslag til sortsnavn.
+8. innkomne skrivelser og oppgaver over betalte av gifter.
+9. utgåtte skrivelser og beslutninger som er fattet vedrørende søknaden.
+10. utsettelser i behandlingen på grunn av kollisjon med tidligere inngitt søknad. Tilsvarende anmerkning gjøres også i den eldre søknads blad i journalen.
+11. oppgaver over eventuelle overføringer av søknader (jfr. [lov om planteforedlerrett § 8](lov/1993-03-12-32/§8)).
+12. eventuell særskilt korrespondanseadresse, jf. [§ 4a](forskrift/1993-08-06-832/§4a).
+13. opplysninger om pant.
+14. dersom det er gitt opplysninger etter [planteforedlerloven § 4](lov/1993-03-12-32/§4) tredje ledd annet punktum; om opplysningene gjelder biologisk materiale eller tradisjonell kunnskap, samt hvilke opplysninger som er gitt om leverandørland, opprinnelsesland og samtykkekrav i nasjonal lovgivning.
 
 > Endret ved [forskrifter 25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010), [16 juni 2015 nr. 718](forskrift/2015-06-16-718) (i kraft 1 juli 2015), [19 april 2022 nr. 594](forskrift/2022-04-19-594) (i kraft 1 juni 2022).
 
@@ -122,7 +149,18 @@ Forslag, utkast, betenkninger og andre liknende arbeidsdokument som Plantesortsn
 
 Plantesortsnemnda kunngjør i periodisk utgitt publikasjon melding om søknaden (jfr. lov om planteforedler rett [§ 7](forskrift/1993-08-06-832/§7)).
 
-Kunngjøringen skal inneholde:søknadsnummer og dato for innkommet søknad.foredlerens navn og adresse.sortseierens navn og adresse.fullmektigens navn og adresse dersom sortseieren representeres av en fullmektig.dersom prioritet er begjært, navnet på det land som den påberopte tidligere søknad er inngitt i, samt denne søknadens inngivelsesdag og søknadsnummer.sortens botaniske tilhørighet.foreslått sortsnavn.Frist for innsigelser.i. eventuell særskilt korrespondanseadresse, jf. [§ 4a](forskrift/1993-08-06-832/§4a).dersom det er gitt opplysninger etter [planteforedlerloven § 4](lov/1993-03-12-32/§4) tredje ledd annet punktum; om opplysningene gjelder biologisk materiale eller tradisjonell kunnskap, samt hvilke opplysninger som er gitt om leverandørland, opprinnelsesland og samtykkekrav i nasjonal lovgivning.
+Kunngjøringen skal inneholde:
+
+1. søknadsnummer og dato for innkommet søknad.
+2. foredlerens navn og adresse.
+3. sortseierens navn og adresse.
+4. fullmektigens navn og adresse dersom sortseieren representeres av en fullmektig.
+5. dersom prioritet er begjært, navnet på det land som den påberopte tidligere søknad er inngitt i, samt denne søknadens inngivelsesdag og søknadsnummer.
+6. sortens botaniske tilhørighet.
+7. foreslått sortsnavn.
+8. Frist for innsigelser.
+9. i. eventuell særskilt korrespondanseadresse, jf. [§ 4a](forskrift/1993-08-06-832/§4a).
+10. dersom det er gitt opplysninger etter [planteforedlerloven § 4](lov/1993-03-12-32/§4) tredje ledd annet punktum; om opplysningene gjelder biologisk materiale eller tradisjonell kunnskap, samt hvilke opplysninger som er gitt om leverandørland, opprinnelsesland og samtykkekrav i nasjonal lovgivning.
 
 Når kunngjøring er skjedd, skal opplysningene nevnt i annet ledd bokstav j oversendes til Miljødirektoratet for videreformidling som nevnt i Nagoyaprotokollen 29. oktober 2010 artikkel 17 nr. 1 bokstav a punkt iii.
 
@@ -184,7 +222,23 @@ Plantesortsnemnda skal gi søkeren melding om framsatt innsigelse.
 
 ### § 14
 
-Dersom planteforedlerrett blir meddelt etter [lov om planteforedlerrett § 10](lov/1993-03-12-32/§10), oppføres sorten i plantesortsregisteret. Plantesortsregisteret skal inneholde:Registreringsnummer.foredlerens navn og adresse.sortseierens navn og adresse.fullmektigens navn og adresse dersom sortseieren representeres av en fullmektig.Sortens botaniske tilhørighet.registrert sortsnavn.dato for:mottatt søknadkunngjøring av søknadregistrering og meddelelse av planteforedlerretteventuelt endring av navnopplysning om fornyet behandling etter innsigelse og det endelige utfall av fornyet behandling.Dersom prioritet er innvilget i samsvar med [lov om planteforedlerrett § 2](lov/1993-03-12-32/§2), tredje ledd, navnet på det land som den påberopte tidligere søknad er inngitt i, samt denne søknads inngivelsesdag og søknadsnummer.eventuell særskilt korrespondanseadresse, jf. [§ 4a](forskrift/1993-08-06-832/§4a).
+Dersom planteforedlerrett blir meddelt etter [lov om planteforedlerrett § 10](lov/1993-03-12-32/§10), oppføres sorten i plantesortsregisteret. Plantesortsregisteret skal inneholde:
+
+1. Registreringsnummer.
+2. foredlerens navn og adresse.
+3. sortseierens navn og adresse.
+4. fullmektigens navn og adresse dersom sortseieren representeres av en fullmektig.
+5. Sortens botaniske tilhørighet.
+6. registrert sortsnavn.
+7. dato for:
+
+   - mottatt søknad
+   - kunngjøring av søknad
+   - registrering og meddelelse av planteforedlerrett
+   - eventuelt endring av navn
+8. opplysning om fornyet behandling etter innsigelse og det endelige utfall av fornyet behandling.
+9. Dersom prioritet er innvilget i samsvar med [lov om planteforedlerrett § 2](lov/1993-03-12-32/§2), tredje ledd, navnet på det land som den påberopte tidligere søknad er inngitt i, samt denne søknads inngivelsesdag og søknadsnummer.
+10. eventuell særskilt korrespondanseadresse, jf. [§ 4a](forskrift/1993-08-06-832/§4a).
 
 > Endret ved [forskrifter 6 feb 1995 nr. 262](forskrift/1995-02-06-262), [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010).
 
@@ -192,7 +246,19 @@ Dersom planteforedlerrett blir meddelt etter [lov om planteforedlerrett § 10](l
 
 ### § 15
 
-I plantesortsregisteret skal følgende merknader innføres:årsavgift innbetalt eller om henstand med betaling av årsavgiften er innrømmet.bortfall av planteforedlerrett på grunn av manglende betaling av årsavgift.begjæring om oppreisning og betalt oppreisningsavgift.søksmål om ugyldighetskjennelse, overføring av planteforedlerrett eller om tvangslisens.anmerkning om rettskraftig dom. Sakens utfall skal i hovedtrekk fremgå av registeret.erklært opphør av planteforedlerrett.Overdragelse av planteforedlerrett eller meddelelse om tvangslisens, navnet til innehaveren av retten, dennes adresse samt tidspunkt for overdragelsen eller meddelelsen om tvangslisens.Utlegg i planteforedlerretten, jf. [tvangsfullbyrdelsesloven § 7-19 niende ledd](lov/1992-06-26-86/§7-19/ledd/9).endring i fullmektigforhold.endringer av innehaverens eller fullmektigens navn, foretaksnavn eller adresse, samt særskilt korrespondanseadresse etter [§ 4a](forskrift/1993-08-06-832/§4a).opplysninger om pant.
+I plantesortsregisteret skal følgende merknader innføres:
+
+1. årsavgift innbetalt eller om henstand med betaling av årsavgiften er innrømmet.
+2. bortfall av planteforedlerrett på grunn av manglende betaling av årsavgift.
+3. begjæring om oppreisning og betalt oppreisningsavgift.
+4. søksmål om ugyldighetskjennelse, overføring av planteforedlerrett eller om tvangslisens.
+5. anmerkning om rettskraftig dom. Sakens utfall skal i hovedtrekk fremgå av registeret.
+6. erklært opphør av planteforedlerrett.
+7. Overdragelse av planteforedlerrett eller meddelelse om tvangslisens, navnet til innehaveren av retten, dennes adresse samt tidspunkt for overdragelsen eller meddelelsen om tvangslisens.
+8. Utlegg i planteforedlerretten, jf. [tvangsfullbyrdelsesloven § 7-19 niende ledd](lov/1992-06-26-86/§7-19/ledd/9).
+9. endring i fullmektigforhold.
+10. endringer av innehaverens eller fullmektigens navn, foretaksnavn eller adresse, samt særskilt korrespondanseadresse etter [§ 4a](forskrift/1993-08-06-832/§4a).
+11. opplysninger om pant.
 
 > Endret ved [forskrifter 6 feb 1995 nr. 262](forskrift/1995-02-06-262), [25 juni 2010 nr. 937](forskrift/2010-06-25-937) (i kraft 1 juli 2010), [16 juni 2015 nr. 718](forskrift/2015-06-16-718) (i kraft 1 juli 2015), [30 juni 2025 nr. 1369](forskrift/2025-06-30-1369) (i kraft 1 jan 2026).
 
@@ -226,7 +292,19 @@ Sekretariatet for Plantesortsnemnda legges til Mattilsynet.
 
 ### § 18
 
-For virksomhet utført i forbindelse med gjennomføring av [lov om planteforedlerrett](lov/1993-03-12-32) skal følgende avgifter og gebyrer betales:Søknadsgebyr kr 1 795Årsavgift for beskyttet sort kr 2 150Tilleggsavgift for ny betalingsfrist for årsavgift kr 595Klagegebyr kr 1 555Gjenopptakelsesgebyr kr 595Gebyr for begjæring om oppreisning kr 1 200Trykkingsavgift pr. side kr 241Gebyr for merknader i registeret om overdragelse eller navneendring kr 241Gebyr for merknader i registeret om endring i fullmektig forhold kr 241Gebyr for merknader i registeret om pantsettelse kr 595Gebyr for utskrifter fra registeret kr 241
+For virksomhet utført i forbindelse med gjennomføring av [lov om planteforedlerrett](lov/1993-03-12-32) skal følgende avgifter og gebyrer betales:
+
+- Søknadsgebyr kr 1 795
+- Årsavgift for beskyttet sort kr 2 150
+- Tilleggsavgift for ny betalingsfrist for årsavgift kr 595
+- Klagegebyr kr 1 555
+- Gjenopptakelsesgebyr kr 595
+- Gebyr for begjæring om oppreisning kr 1 200
+- Trykkingsavgift pr. side kr 241
+- Gebyr for merknader i registeret om overdragelse eller navneendring kr 241
+- Gebyr for merknader i registeret om endring i fullmektig forhold kr 241
+- Gebyr for merknader i registeret om pantsettelse kr 595
+- Gebyr for utskrifter fra registeret kr 241
 
 Dersom et krav om anmerkning omfatter panteretter i flere planteforedlerretter m.m. som skal sikre samme pantekrav, betales et gebyr på kr 585 for den første anmerkningen med tillegg av kr 100 for hver ytterligere anmerkning i registeret.
 

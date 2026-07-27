@@ -15,7 +15,7 @@ xml_hash: "af0d6be0b8af9659c941c2e52ff06e720b5f3bbcfab07d9d9a60f31964169128"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,16 @@ Loven gjelder på Svalbard og Jan Mayen i den utstrekning Kongen bestemmer. Kong
 
 ### § 5. Melding om opprettelse av diagnostiske biobanker og behandlingsbiobanker
 
-Biobanker som opprettes i forbindelse med diagnostikk og behandling skal meldes til departementet. Meldingen må sendes departementet innen 2 måneder etter at biobanken ble opprettet. Meldingen skal inneholde opplysninger omformålet med opprettelsen,hva slags materiale den skal inneholde og hvordan materialet innhentes,hvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,hvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,biobankens varighet og hva som skal skje med materialet ved opphør av biobanken,hvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,hvem som er ansvarshavende etter [§ 7](lov/2003-02-21-12/§7) og dataansvarlig etter [pasientjournalloven](lov/2014-06-20-42)finansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning.
+Biobanker som opprettes i forbindelse med diagnostikk og behandling skal meldes til departementet. Meldingen må sendes departementet innen 2 måneder etter at biobanken ble opprettet. Meldingen skal inneholde opplysninger om
+
+1. formålet med opprettelsen,
+2. hva slags materiale den skal inneholde og hvordan materialet innhentes,
+3. hvilke og hvor mange personer materialet er innhentet eller skal innhentes fra,
+4. hvordan samtykke skal innhentes og hvilken informasjon som gis i forkant,
+5. biobankens varighet og hva som skal skje med materialet ved opphør av biobanken,
+6. hvilke sikkerhetstiltak som er knyttet til biobankvirksomheten,
+7. hvem som er ansvarshavende etter [§ 7](lov/2003-02-21-12/§7) og dataansvarlig etter [pasientjournalloven](lov/2014-06-20-42)
+8. finansiering av biobanken og hvorvidt materialet i biobanken kan gi opphav til økonomisk vinning.
 
 Dersom materiale fra en biobank opprettet for diagnostikk og behandling skal brukes til forskning, gjelder bestemmelsene i [helseforskningsloven](lov/2008-06-20-44).
 

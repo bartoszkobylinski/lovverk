@@ -38,7 +38,720 @@ Med tilsetningsstoffer menes her stoffer, mikroorganismer og preparater herunder
 
 ## § 3. Godkjente tilsetningsstoffer
 
-EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende forordningerforordning [(EF) nr. 1436/98](eu/31998r1436),forordning [(EF) nr. 2316/98](eu/31998r2316) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),forordning [(EF) nr. 2374/98](eu/31998r2374),forordning [(EF) nr. 2785/98](eu/31998r2785),forordning [(EF) nr. 2786/98](eu/31998r2786),forordning [(EF) nr. 2821/98](eu/31998r2821),forordning [(EF) nr. 45/1999](eu/31999r0045),forordning [(EF) nr. 639/1999](eu/31999r0639),forordning [(EF) nr. 866/1999](eu/31999r0866),forordning [(EF) nr. 1245/1999](eu/31999r1245),forordning [(EF) nr. 1411/1999](eu/31999r1411),forordning [(EF) nr. 1594/1999](eu/31999r1594),forordning [(EF) nr. 1636/1999](eu/31999r1636),forordning [(EF) nr. 2293/1999](eu/31999r2293),forordning [(EF) nr. 2430/1999](eu/31999r2430) (endret ved forordning [(EF) nr. 1756/2002](eu/32002r1756), forordning [(EF) nr. 249/2006](eu/32006r0249), forordning [(EF) nr. 552/2008](eu/32008r0552), forordning [(EU) nr. 874/2010](eu/32010r0874*), forordning [(EU) nr. 288/2011](eu/32011r0288), forordning [(EU) nr. 118/2012](eu/32012r0118) og forordning [(EU) nr. 1014/2013](eu/32013r1014)),forordning [(EF) nr. 2562/1999](eu/31999r2562),forordning [(EF) nr. 2690/1999](eu/31999r2690),forordning [(EF) nr. 654/2000](eu/32000r0654),forordning [(EF) nr. 1353/2000](eu/32000r1353) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),forordning [(EF) nr. 1887/2000](eu/32000r1887),forordning [(EF) nr. 2437/2000](eu/32000r2437),forordning [(EF) nr. 418/2001](eu/32001r0418),forordning [(EF) nr. 1334/2001](eu/32001r1334) (endret ved forordning [(EF) nr. 676/2003](eu/32003r0676)),forordning [(EF) nr. 2013/2001](eu/32001r2013),forordning [(EF) nr. 2200/2001](eu/32001r2200),forordning [(EF) nr. 2205/2001](eu/32001r2205),forordning [(EF) nr. 2380/2001](eu/32001r2380) (endret ved forordning [(EF) nr. 552/2008](eu/32008r0552), forordning [(EU) nr. 406/2011](eu/32011r0406), forordning [(EU) nr. 118/2012](eu/32012r0118) og forordning [(EU) nr. 1014/2013](eu/32013r1014)),forordning [(EF) nr. 256/2002](eu/32002r0256) (endret ved forordning [(EF) nr. 1143/2007](eu/32007r1143) og forordning [(EU) 2015/1399](eu/32015r1399)),forordning [(EF) nr. 1041/2002](eu/32002r1041),forordning [(EF) nr. 1252/2002](eu/32002r1252),forordning [(EF) nr. 1756/2002](eu/32002r1756),forordning [(EF) nr. 1876/2002](eu/32002r1876),forordning [(EF) nr. 2188/2002](eu/32002r2188) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),forordning [(EF) nr. 261/2003](eu/32003r0261) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),forordning [(EF) nr. 666/2003](eu/32003r0666),forordning [(EF) nr. 676/2003](eu/32003r0676),forordning [(EF) nr. 877/2003](eu/32003r0877),forordning [(EF) nr. 1334/2003](eu/32003r1334*) (endret ved forordning [(EF) nr. 2112/2003](eu/32003r2112), forordning [(EU) nr. 107/2014](eu/32014r0107), forordning [(EU) 2016/1095](eu/32016r1095), forordning [(EU) 2017/1145](eu/32017r1145), forordning [(EU) 2017/2330](eu/32017r2330*), forordning [(EU) 2018/353](eu/32018r0353) og forordning [(EU) 2018/1039](eu/32018r1039)),forordning [(EF) nr. 1801/2003](eu/32003r1801),forordning [(EF) nr. 1847/2003](eu/32003r1847) (endret ved forordning [(EU) nr. 1018/2012](eu/32012r1018) og forordning [(EU) 2018/347](eu/32018r0347)),forordning [(EF) nr. 2112/2003](eu/32003r2112),forordning [(EF) nr. 2154/2003](eu/32003r2154),forordning [(EF) nr. 490/2004](eu/32004r0490) (endret ved forordning [(EF) nr. 1812/2005](eu/32005r1812)),forordning [(EF) nr. 879/2004](eu/32004r0879*),forordning [(EF) nr. 1288/2004](eu/32004r1288) (endret ved forordning [(EF) nr. 1812/2005](eu/32005r1812), forordning [(EU) nr. 1018/2012](eu/32012r1018), forordning [(EU) nr. 1061/2013](eu/32013r1061), forordning [(EU) nr. 1109/2014](eu/32014r1109), forordning [(EU) 2017/1145](eu/32017r1145) og forordning [(EU) 2020/147](eu/32020r0147)),forordning [(EF) nr. 1333/2004](eu/32004r1333),forordning [(EF) nr. 1356/2004](eu/32004r1356) (endret ved forordning [(EF) nr. 108/2007](eu/32007r0108) og forordning [(EF) nr. 1096/2008](eu/32008r1096)),forordning [(EF) nr. 1464/2004](eu/32004r1464) (endret ved forordning [(EF) nr. 545/2006](eu/32006r0545), forordning [(EU) nr. 884/2010](eu/32010r0884) og forordning [(EU) 2019/138](eu/32019r0138)),forordning [(EF) nr. 255/2005](eu/32005r0255) (endret ved forordning [(EU) nr. 171/2011](eu/32011r0171), forordning [(EU) 2015/1053](eu/32015r1053), forordning [(EU) 2015/1399](eu/32015r1399), forordning [(EU) 2017/1145](eu/32017r1145) og forordning [(EU) 2017/1896](eu/32017r1896)),forordning [(EF) nr. 358/2005](eu/32005r0358) (endret ved forordning [(EU) 2017/429](eu/32017r0429), forordning [(EU) 2017/1145](eu/32017r1145)), forordning [(EU) 2017/963](eu/32017r0963), forordning [(EU) 2021/758](eu/32021r0758) og forordning [(EU) 2025/2575](eu/32025r2575)),forordning [(EF) nr. 378/2005](eu/32005r0378) (endret ved forordning [(EF) nr. 850/2007](eu/32007r0850), forordning [(EF) nr. 885/2009](eu/32009r0885), forordning [(EF) nr. 386/2009](eu/32009r0386) og forordning [(EU) 2015/1761](eu/32015r1761)),forordning [(EF) nr. 521/2005](eu/32005r0521) (endret ved forordning [(EF) nr. 1812/2005](eu/32005r1812), forordning [(EU) 221/2011](eu/32011r0221) og forordning [(EU) 2017/1145](eu/32017r1145)),forordning [(EF) nr. 600/2005](eu/32005r0600) (endret ved forordning [(EF) nr. 2028/2006](eu/32006r2028), forordning [(EF) nr. 496/2007](eu/32007r0496), forordning [(EF) nr. 202/2009](eu/32009r0202), forordning [(EU) nr. 516/2011](eu/32011r0516), forordning [(EU) nr. 118/2012](eu/32012r0118), forordning [(EU) nr. 1014/2013](eu/32013r1014), forordning [(EU) 2017/447](eu/32017r0447), forordning [(EU) 2017/1145](eu/32017r1145) og forordning [(EU) 2023/2662](eu/32023r2662)),forordning [(EF) nr. 1206/2005](eu/32005r1206) (endret ved forordning [(EU) nr. 403/2013](eu/32013r0403), forordning [(EU) 2017/211](eu/32017r0211) og forordning [(EU) 2017/1145](eu/32017r1145)),forordning [(EF) nr. 1458/2005](eu/32005r1458) (endret ved forordning [(EF) nr. 1096/2009](eu/32009r1096), forordning [(EU) nr. 1019/2012](eu/32012r1019) og forordning [(EU) 2017/1145](eu/32017r1145)),forordning [(EF) nr. 1812/2005](eu/32005r1812),forordning [(EF) nr. 1980/2005](eu/32005r1980),forordning [(EF) nr. 2036/2005](eu/32005r2036) (endret ved forordning [(EU) nr. 1018/2012](eu/32012r1018), forordning [(EU) nr. 1206/2012](eu/32012r1206), forordning [(EU) 2017/1145](eu/32017r1145), forordning [(EU) 2017/961](eu/32017r0961), forordning [(EU) 2017/2299](eu/32017r2299) og forordning [(EU) 2018/347](eu/32018r0347)),forordning [(EF) nr. 2037/2005](eu/32005r2037),forordning [(EF) nr. 252/2006](eu/32006r0252) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),forordning [(EF) nr. 479/2006](eu/32006r0479) (endret ved forordning [(EU) 2016/1095](eu/32016r1095) og forordning [(EU) 2018/1039](eu/32018r1039)),forordning [(EF) nr. 545/2006](eu/32006r0545),forordning [(EF) nr. 773/2006](eu/32006r0773) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),forordning [(EF) nr. 1284/2006](eu/32006r1284) (endret ved forordning [(EU) 2017/429](eu/32017r0429) og forordning [(EU) 2017/1145](eu/32017r1145)),forordning [(EF) nr. 1445/2006](eu/32006r1445),forordning [(EF) nr. 1446/2006](eu/32006r1446),forordning [(EF) nr. 1876/2006](eu/32006r1876*) (endret ved forordning [(EU) nr. 1018/2012](eu/32012r1018), forordning [(EU) nr. 403/2013](eu/32013r0403) og forordning [(EU) 2024/228](eu/32024r0228)),forordning [(EF) nr. 2028/2006](eu/32006r2028),forordning [(EF) nr. 108/2007](eu/32007r0108),forordning [(EF) nr. 184/2007](eu/32007r0184) (endret ved forordning [(EF) nr. 516/2008](eu/32008r0516) og forordning [(EU) 2017/410](eu/32017r0410)),forordning [(EF) nr. 242/2007](eu/32007r0242),forordning [(EF) nr. 496/2007](eu/32007r0496),forordning [(EF) nr. 497/2007](eu/32007r0497),forordning [(EF) nr. 500/2007](eu/32007r0500),forordning [(EF) nr. 1140/2007](eu/32007r1140),forordning [(EF) nr. 1141/2007](eu/32007r1141),forordning [(EF) nr. 1143/2007](eu/32007r1143),forordning [(EF) nr. 1501/2007](eu/32007r1501),forordning [(EF) nr. 1520/2007](eu/32007r1520) (endret ved forordning [(EU) nr. 1018/2012](eu/32012r1018), forordning [(EU) 2015/38](eu/32015r0038) og forordning [(EU) 2015/1053](eu/32015r1053)),forordning [(EF) nr. 1521/2007](eu/32007r1521),forordning [(EF) nr. 156/2008](eu/32008r0156),forordning [(EF) nr. 167/2008](eu/32008r0167) (endret ved forordning [(EU) 2016/842](eu/32016r0842)),forordning [(EF) nr. 554/2008](eu/32008r0554*) (endret ved forordning [(EU) nr. 879/2010](eu/32010r0879) og forordning [(EU) nr. 414/2012](eu/32012r0414)),forordning [(EF) nr. 721/2008](eu/32008r0721) (endret ved forordning [(EU) nr. 334/2010](eu/32010r0334)),forordning [(EF) nr. 1290/2008](eu/32008r1290) (endret ved forordning [(EF) nr. 899/2009](eu/32009r0899), forordning [(EU) nr. 1334/2013](eu/32013r1334) og forordning [(EU) 2016/895](eu/32016r0895))forordning [(EF) nr. 1292/2008](eu/32008r1292) (endret ved forordning [(EU) nr. 336/2011](eu/32011r0336) og forordning [(EU) 2017/173](eu/32017r0173)),forordning [(EF) nr. 270/2009](eu/32009r0270),forordning [(EF) nr. 322/2009](eu/32009r0322) (endret ved forordning [(EU) nr. 290/2013](eu/32013r0290), forordning [(EU) 2015/1043](eu/32015r1043) og forordning [(EU) 2017/211](eu/32017r0211)),forordning [(EF) nr. 403/2009](eu/32009r0403),forordning [(EF) nr. 886/2009](eu/32009r0886),forordning [(EF) nr. 903/2009](eu/32009r0903) (endret ved forordning [(EU) nr. 373/2011](eu/32011r0373), forordning [(EU) nr. 357/2013](eu/32013r0357) og forordning [(EU) 2017/1126](eu/32017r1126)),forordning [(EF) nr. 1088/2009](eu/32009r1088),forordning [(EU) nr. 1270/2009](eu/32009r1270) (endret ved forordning [(EU) 2017/1145](eu/32017r1145), og forordning [(EU) 2017/963](eu/32017r0963)),forordning [(EU) nr. 8/2010](eu/32010r0008),forordning [(EU) nr. 9/2010](eu/32010r0009) (endret ved forordning [(EU) nr. 1196/2012](eu/32012r1196) og forordning [(EU) 2019/221](eu/32019r0221)),forordning [(EU) nr. 892/2010](eu/32010r0892),forordning [(EU) nr. 999/2010](eu/32010r0999),forordning [(EU) nr. 361/2011](eu/32011r0361) (endret ved forordning [(EU) 2015/518](eu/32015r0518)),forordning [(EU) nr. 528/2011](eu/32011r0528) (endret ved forordning [(EU) 2019/221](eu/32019r0221)),forordning [(EU) nr. 887/2011](eu/32011r0887) (endret ved forordning [(EU) 2017/173](eu/32017r0173), forordning [(EU) 2017/961](eu/32017r0961) og forordning [(EU) 2021/733](eu/32021r0733)),forordning [(EU) nr. 900/2011](eu/32011r0900) (endret ved forordning [(EU) nr. 118/2012](eu/32012r0118) og forordning [(EU) nr. 1014/2013](eu/32013r1014)),forordning [(EU) nr. 1074/2011](eu/32011r1074),forordning [(EU) nr. 1110/2011](eu/32011r1110) (endret ved forordning [(EU) 2018/1569](eu/32018r1569)),forordning [(EU) nr. 1111/2011](eu/32011r1111),forordning [(EU) nr. 91/2012](eu/32012r0091),forordning [(EU) nr. 131/2012](eu/32012r0131),forordning [(EU) nr. 136/2012](eu/32012r0136) (endret ved forordning [(EU) 2015/1414](eu/32015r1414)),forordning [(EU) nr. 227/2012](eu/32012r0227),forordning [(EU) nr. 269/2012](eu/32012r0269) (endret ved forordning [(EU) 2018/1039](eu/32018r1039)),forordning [(EU) nr. 840/2012](eu/32012r0840) (endret ved forordning [(EU) 2019/221](eu/32019r0221)),forordning [(EU) nr. 841/2012](eu/32012r0841),forordning [(EU) nr. 842/2012](eu/32012r0842),forordning [(EU) nr. 868/2012](eu/32012r0868),forordning [(EU) nr. 991/2012](eu/32012r0991) (endret ved forordning [(EU) 2016/1095](eu/32016r1095)),forordning [(EU) nr. 1021/2012](eu/32012r1021) (endret ved forordning [(EU) 2019/221](eu/32019r0221)),forordning [(EU) nr. 1065/2012](eu/32012r1065) (endret ved forordning [(EU) 2023/1443](eu/32023r1443), forordning [(EU) 2024/251](eu/32024r0251), forordning [(EU) 2024/252](eu/32024r0252) og forordning [(EU) 2024/1189](eu/32024r1189)),forordning [(EU) nr. 1195/2012](eu/32012r1195),forordning [(EU) nr. 96/2013](eu/32013r0096) (endret ved forordning [(EU) 2024/1757](eu/32024r1757)),forordning [(EU) nr. 230/2013](eu/32013r0230),forordning [(EU) nr. 403/2013](eu/32013r0403) (endret ved forordning [(EU) 2024/221](eu/32024r0221)),forordning [(EU) nr. 469/2013](eu/32013r0469*),forordning [(EU) nr. 601/2013](eu/32013r0601) (endret ved forordning [(EU) nr. 131/2014](eu/32014r0131)),forordning [(EU) nr. 636/2013](eu/32013r0636) (endret ved forordning [(EU) 2016/1095](eu/32016r1095)),forordning [(EU) nr. 445/2013](eu/32013r0445),forordning [(EU) nr. 796/2013](eu/32013r0796),forordning [(EU) nr. 803/2013](eu/32013r0803),forordning [(EU) nr. 1060/2013](eu/32013r1060),forordning [(EU) nr. 1113/2013](eu/32013r1113) (endret ved forordning [(EU) 2024/251](eu/32024r0251), forordning [(EU) 2024/1810](eu/32024r1810) og forordning [(EU) 2025/1504](eu/32025r1504)),forordning [(EU) nr. 1077/2013](eu/32013r1077),forordning [(EU) nr. 1404/2013](eu/32013r1404),forordning [(EU) nr. 121/2014](eu/32014r0121),forordning [(EU) nr. 302/2014](eu/32014r0302),forordning [(EU) nr. 684/2014](eu/32014r0684) (endret ved forordning [(EU) 2025/1423](eu/32025r1423)),forordning [(EU) nr. 847/2014](eu/32014r0847),forordning [(EU) nr. 852/2014](eu/32014r0852),forordning [(EU) nr. 754/2014](eu/32014r0754),forordning [(EU) nr. 1115/2014](eu/32014r1115),forordning [(EU) nr. 1230/2014](eu/32014r1230*) (endret ved forordning [(EU) 2018/1039](eu/32018r1039)),forordning [(EU) nr. 1236/2014](eu/32014r1236) (endret ved forordning [(EU) 2015/1114](eu/32015r1114)),forordning [(EU) nr. 1249/2014](eu/32014r1249),forordning [(EU) 2015/244](eu/32015r0244),forordning [(EU) 2015/264](eu/32015r0264),forordning [(EU) 2015/47](eu/32015r0047),forordning [(EU) 2015/489](eu/32015r0489),forordning [(EU) 2015/661](eu/32015r0661),forordning [(EU) 2015/662](eu/32015r0662),forordning [(EU) 2015/722](eu/32015r0722),forordning [(EU) 2015/724](eu/32015r0724*),forordning [(EU) 2015/1060](eu/32015r1060),forordning [(EU) 2015/1061](eu/32015r1061),forordning [(EU) 2015/1103](eu/32015r1103),forordning [(EU) 2015/1152](eu/32015r1152),forordning [(EU) 2015/1417](eu/32015r1417),forordning [(EU) 2015/1426](eu/32015r1426),forordning [(EU) 2015/1486](eu/32015r1486),forordning [(EU) 2015/1489](eu/32015r1489),forordning [(EU) 2015/1490](eu/32015r1490),forordning [(EU) 2015/1408](eu/32015r1408),forordning [(EU) 2015/1415](eu/32015r1415),forordning [(EU) 2015/1416](eu/32015r1416),forordning [(EU) 2015/2304](eu/32015r2304),forordning [(EU) 2015/2305](eu/32015r2305) (endret ved forordning [(EU) 2024/262](eu/32024r0262)),forordning [(EU) 2015/2306](eu/32015r2306),forordning [(EU) 2015/2307](eu/32015r2307),forordning [(EU) 2015/2382](eu/32015r2382),forordning [(EU) 2016/104](eu/32016r0104),forordning [(EU) 2016/329](eu/32016r0329) (endret ved forordning [(EU) 2017/2231](eu/32017r2231)),forordning [(EU) 2016/896](eu/32016r0896),forordning [(EU) 2016/897](eu/32016r0897) (endret ved forordning [(EU) 2020/146](eu/32020r0146) og forordning [(EU) 2022/703](eu/32022r0703)),forordning [(EU) 2016/898](eu/32016r0898) (endret ved forordning [(EU) 2022/268](eu/32022r0268)),forordning [(EU) 2016/899](eu/32016r0899) (endret ved forordning [(EU) 2019/221](eu/32019r0221) og forordning [2024/2183](eu/32024r2183)),forordning [(EU) 2016/900](eu/32016r0900*),forordning [(EU) 2016/972](eu/32016r0972),forordning [(EU) 2016/973](eu/32016r0973*),forordning [(EU) 2016/1095](eu/32016r1095) (endret ved forordning [(EU) 2022/1458](eu/32022r1458)),forordning [(EU) 2016/1220](eu/32016r1220),forordning [(EU) 2016/1768](eu/32016r1768) (endret ved forordning [(EU) 2023/2628](eu/32023r2628)),forordning [(EU) 2016/1833](eu/32016r1833),forordning [(EU) 2016/1964](eu/32016r1964) (endret ved forordning [(EU) 2020/2120](eu/32020r2120)),forordning [(EU) 2016/2023](eu/32016r2023),forordning [(EU) 2016/2150](eu/32016r2150),forordning [(EU) 2016/2261](eu/32016r2261) (endret ved forordning [(EU) 2018/1039](eu/32018r1039)),forordning [(EU) 2017/53](eu/32017r0053) (endret ved forordning [(EU) 2025/183](eu/32025r0183)),forordning [(EU) 2017/54](eu/32017r0054),forordning [(EU) 2017/55](eu/32017r0055),forordning [(EU) 2017/56](eu/32017r0056) (endret ved forordning [(EU) 2026/171](eu/32026r0171)),forordning [(EU) 2017/58](eu/32017r0058),forordning [(EU) 2017/57](eu/32017r0057),forordning [(EU) 2017/59](eu/32017r0059),forordning [(EU) 2017/60](eu/32017r0060),forordning [(EU) 2017/61](eu/32017r0061),forordning [(EU) 2017/62](eu/32017r0062),forordning [(EU) 2017/63](eu/32017r0063),forordning [(EU) 2017/64](eu/32017r0064),forordning [(EU) 2017/65](eu/32017r0065),forordning [(EU) 2017/66](eu/32017r0066),forordning [(EU) 2017/187](eu/32017r0187),forordning [(EU) 2017/194](eu/32017r0194),forordning [(EU) 2017/210](eu/32017r0210),forordning [(EU) 2017/211](eu/32017r0211),forordning [(EU) 2017/219](eu/32017r0219),forordning [(EU) 2017/307](eu/32017r0307),forordning [(EU) 2017/420](eu/32017r0420),forordning [(EU) 2017/439](eu/32017r0439),forordning [(EU) 2017/440](eu/32017r0440) (endret ved forordning [(EU) 2019/221](eu/32019r0221) og forordning [2024/2183](eu/32024r2183)),forordning [(EU) 2017/447](eu/32017r0447) (endret ved forordning [(EU) 2023/2662](eu/32023r2662)),forordning [(EU) 2017/455](eu/32017r0455),forordning [(EU) 2017/873](eu/32017r0873),forordning [(EU) 2017/895](eu/32017r0895),forordning [(EU) 2017/896](eu/32017r0896) (endret ved forordning [(EU) 2019/221](eu/32019r0221) og forordning [2024/2183](eu/32024r2183)),forordning [(EU) 2017/912](eu/32017r0912),forordning [(EU) 2017/913](eu/32017r0913),forordning [(EU) 2017/940](eu/32017r0940),forordning [(EU) 2017/950](eu/32017r0950),forordning [(EU) 2017/961](eu/32017r0961) (endret ved forordning [(EU) 2021/733](eu/32021r0733)),forordning [(EU) 2017/963](eu/32017r0963),forordning [(EU) 2017/1006](eu/32017r1006),forordning [(EU) 2017/1007](eu/32017r1007) (endret ved forordning [(EU) 2017/2325](eu/32017r2325)),forordning [(EU) 2017/1008](eu/32017r1008),forordning [(EU) 2017/1086](eu/32017r1086),forordning [(EU) 2017/1126](eu/32017r1126),forordning [(EU) 2017/1145](eu/32017r1145) (endret ved forordning [(EU) 2018/353](eu/32018r0353)),forordning [(EU) 2017/1490](eu/32017r1490),forordning [(EU) 2017/1492](eu/32017r1492) (endret ved forordning [(EU) 2019/849](eu/32019r0849)),forordning [(EU) 2017/1903](eu/32017r1903),forordning [(EU) 2017/1904](eu/32017r1904),forordning [(EU) 2017/1905](eu/32017r1905),forordning [(EU) 2017/1907](eu/32017r1907),forordning [(EU) 2017/1914](eu/32017r1914),forordning [(EU) 2017/2330](eu/32017r2330*) (endret ved forordning [(EU) 2019/230](eu/32019r0230) og forordning [(EU) 2022/1457](eu/32022r1457)),forordning [(EU) 2017/2274](eu/32017r2274),forordning [(EU) 2017/2275](eu/32017r2275),forordning [(EU) 2017/2299](eu/32017r2299),forordning [(EU) 2017/2308](eu/32017r2308) (endret ved forordning [(EU) 2023/2647](eu/32023r2647)),forordning [(EU) 2017/2312](eu/32017r2312) (endret ved forordning [(EU) 2020/146](eu/32020r0146)),forordning [(EU) 2017/2325](eu/32017r2325) (endret ved forordning [(EU) 2018/1980](eu/32018r1980)),forordning [(EU) 2018/238](eu/32018r0238),forordning [(EU) 2018/239](eu/32018r0239),forordning [(EU) 2018/240](eu/32018r0240),forordning [(EU) 2018/241](eu/32018r0241),forordning [(EU) 2018/242](eu/32018r0242),forordning [(EU) 2018/243](eu/32018r0243),forordning [(EU) 2018/244](eu/32018r0244),forordning [(EU) 2018/245](eu/32018r0245) (endret ved forordning [(EU) 2024/1989](eu/32024r1989)),forordning [(EU) 2018/246](eu/32018r0246),forordning [(EU) 2018/247](eu/32018r0247),forordning [(EU) 2018/248](eu/32018r0248),forordning [(EU) 2018/249](eu/32018r0249) (endret ved forordning [(EU) 2018/1567](eu/32018r1567)),forordning [(EU) 2018/250](eu/32018r0250),forordning [(EU) 2018/129](eu/32018r0129),forordning [(EU) 2018/130](eu/32018r0130),forordning [(EU) 2018/183](eu/32018r0183),forordning [(EU) 2018/328](eu/32018r0328),forordning [(EU) 2018/346](eu/32018r0346),forordning [(EU) 2018/338](eu/32018r0338) (endret ved forordning [(EU) 2019/1290](eu/32019r1290)),forordning [(EU) 2018/347](eu/32018r0347),forordning [(EU) 2018/353](eu/32018r0353),forordning [(EU) 2015/861](eu/32015r0861),forordning [(EU) 2015/104](eu/32015r0104*),forordning [(EU) nr. 159/2013](eu/32013r0159),forordning [(EU) 2018/982](eu/32018r0982) (endret ved forordning [(EU) 2022/268](eu/32022r0268) og forordning [(EU) 2023/1171](eu/32023r1171)),forordning [(EU) 2018/983](eu/32018r0983),forordning [(EU) 2018/1039](eu/32018r1039) (endret ved forordning [(EU) 2022/1445](eu/32022r1445)),forordning [(EU) 2018/1550](eu/32018r1550),forordning [(EU) 2018/1568](eu/32018r1568),forordning [(EU) 2018/1566](eu/32018r1566*),forordning [(EU) 2019/8](eu/32019r0008),forordning [(EU) 2019/9](eu/32019r0009),forordning [(EU) 2019/10](eu/32019r0010),forordning [(EU) 2019/12](eu/32019r0012),forordning [(EU) 2018/1079](eu/32018r1079),forordning [(EU) 2018/1080](eu/32018r1080),forordning [(EU) 2018/1081](eu/32018r1081) (endret ved forordning [(EU) 2020/146](eu/32020r0146)),forordning [(EU) 2018/1090](eu/32018r1090) (endret ved forordning [(EU) 2025/2556](eu/32025r2556)),forordning [(EU) 2018/1533](eu/32018r1533),forordning [(EU) 2018/1543](eu/32018r1543),forordning [(EU) 2018/1559](eu/32018r1559),forordning [(EU) 2018/1558](eu/32018r1558),forordning [(EU) 2018/1564](eu/32018r1564)forordning [(EU) 2018/1565](eu/32018r1565*),forordning [(EU) 2019/49](eu/32019r0049),forordning [(EU) 2019/138](eu/32019r0138),forordning [(EU) 2019/111](eu/32019r0111),forordning [(EU) 2019/144](eu/32019r0144),forordning [(EU) 2019/454](eu/32019r0454),forordning [(EU) 2019/781](eu/32019r0781),forordning [(EU) 2019/857](eu/32019r0857),forordning [(EU) 2019/892](eu/32019r0892),forordning [(EU) 2019/898](eu/32019r0898),forordning [(EU) 2019/899](eu/32019r0899),forordning [(EU) 2019/900](eu/32019r0900),forordning [(EU) 2019/901](eu/32019r0901) (endret ved forordning [(EU) 2025/182](eu/32025r0182)),forordning [(EU) 2019/913](eu/32019r0913) (endret ved forordning [(EU) 2025/647](eu/32025r0647)),forordning [(EU) 2019/914](eu/32019r0914),forordning [(EU) 2019/929](eu/32019r0929),forordning [(EU) 2019/804](eu/32019r0804) (endret ved forordning [(EU) 2022/1459](eu/32022r1459)),forordning [(EU) 2019/805](eu/32019r0805) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),forordning [(EU) 2019/1125](eu/32019r1125),forordning [(EU) 2019/1289](eu/32019r1289),forordning [(EU) 2019/894](eu/32019r0894),forordning [(EU) 2019/1313](eu/32019r1313),forordning [(EU) 2019/1315](eu/32019r1315),forordning [(EU) 2019/1324](eu/32019r1324),forordning [(EU) 2020/106](eu/32020r0106),forordning [(EU) 2020/107](eu/32020r0107),forordning [(EU) 2019/1947](eu/32019r1947),forordning [(EU) 2019/1964](eu/32019r1964),forordning [(EU) 2019/1965](eu/32019r1965),forordning [(EU) 2019/1977](eu/32019r1977),forordning [(EU) 2020/147](eu/32020r0147),forordning [(EU) 2020/196](eu/32020r0196),forordning [(EU) 2020/197](eu/32020r0197),forordning [(EU) 2020/228](eu/32020r0228),forordning [(EU) 2020/229](eu/32020r0229),forordning [(EU) 2020/238](eu/32020r0238),forordning [(EU) 2020/376](eu/32020r0376),forordning [(EU) 2020/377](eu/32020r0377),forordning [(EU) 2020/378](eu/32020r0378),forordning [(EU) 2020/993](eu/32020r0993),forordning [(EU) 2020/996](eu/32020r0996) (endret ved forordning [(EU) 2023/1168](eu/32023r1168)),forordning [(EU) 2020/997](eu/32020r0997) (endret ved forordning [(EU) 2025/1395](eu/32025r1395)),forordning [(EU) 2020/998](eu/32020r0998),forordning [(EU) 2020/1031](eu/32020r1031),forordning [(EU) 2020/1032](eu/32020r1032),forordning [(EU) 2020/149](eu/32020r0149) (endret ved forordning [(EU) 2025/1426](eu/32025r1426)),forordning [(EU) 2020/150](eu/32020r0150),forordning [(EU) 2020/151](eu/32020r0151),forordning [(EU) 2020/157](eu/32020r0157),forordning [(EU) 2020/159](eu/32020r0159),forordning [(EU) 2020/160](eu/32020r0160),forordning [(EU) 2020/161](eu/32020r0161),forordning [(EU) 2020/162](eu/32020r0162),forordning [(EU) 2020/163](eu/32020r0163) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),forordning [(EU) 2020/164](eu/32020r0164) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),forordning [(EU) 2020/165](eu/32020r0165),forordning [(EU) 2020/166](eu/32020r0166) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),forordning [(EU) 2020/172](eu/32020r0172),forordning [(EU) 2020/173](eu/32020r0173),forordning [(EU) 2020/180](eu/32020r0180),forordning [(EU) 2020/992](eu/32020r0992),forordning [(EU) 2020/1033](eu/32020r1033),forordning [(EU) 2020/1090](eu/32020r1090),forordning [(EU) 2020/1091](eu/32020r1091),forordning [(EU) 2020/1092](eu/32020r1092),forordning [(EU) 2020/1094](eu/32020r1094),forordning [(EU) 2020/1095](eu/32020r1095),forordning [(EU) 2020/1096](eu/32020r1096),forordning [(EU) 2020/1097](eu/32020r1097) (endret ved forordning [(EU) 2021/420](eu/32021r0420)),forordning [(EU) 2020/1098](eu/32020r1098),forordning [(EU) 2020/1175](eu/32020r1175),forordning [(EU) 2020/1363](eu/32020r1363),forordning [(EU) 2020/1370](eu/32020r1370),forordning [(EU) 2020/1371](eu/32020r1371),forordning [(EU) 2020/1372](eu/32020r1372),forordning [(EU) 2020/1374](eu/32020r1374),forordning [(EU) 2020/1375](eu/32020r1375),forordning [(EU) 2020/1376](eu/32020r1376),forordning [(EU) 2020/1377](eu/32020r1377),forordning [(EU) 2020/1378](eu/32020r1378),forordning [(EU) 2020/1395](eu/32020r1395) (endret ved forordning [(EU) 2021/733](eu/32021r0733)),forordning [(EU) 2020/1396](eu/32020r1396),forordning [(EU) 2020/1397](eu/32020r1397),forordning [(EU) 2020/1398](eu/32020r1398),forordning [(EU) 2020/1399](eu/32020r1399),forordning [(EU) 2020/1400](eu/32020r1400),forordning [(EU) 2020/1418](eu/32020r1418),forordning [(EU) 2020/1497](eu/32020r1497),forordning [(EU) 2020/1510](eu/32020r1510),forordning [(EU) 2020/1373](eu/32020r1373),forordning [(EU) 2020/1379](eu/32020r1379)forordning [(EU) 2020/1755](eu/32020r1755) (endret ved forordning [(EU) 2024/1054](eu/32024r1054)),forordning [(EU) 2020/1760](eu/32020r1760) (endret ved forordning [(EU) 2022/271](eu/32022r0271)),forordning [(EU) 2020/1761](eu/32020r1761),forordning [(EU) 2020/1762](eu/32020r1762) (endret ved forordning [(EU) 2024/754](eu/32024r0754) og forordning [(EU) 2025/2576](eu/32025r2576)),forordning [(EU) 2020/1764](eu/32020r1764),forordning [(EU) 2020/1795](eu/32020r1795),forordning [(EU) 2020/1796](eu/32020r1796),forordning [(EU) 2020/1797](eu/32020r1797),forordning [(EU) 2020/1798](eu/32020r1798),forordning [(EU) 2020/1799](eu/32020r1799),forordning [(EU) 2020/1800](eu/32020r1800),forordning [(EU) 2020/2116](eu/32020r2116),forordning [(EU) 2020/2117](eu/32020r2117),forordning [(EU) 2020/2118](eu/32020r2118),forordning [(EU) 2020/2119](eu/32020r2119),forordning [(EU) 2020/2120](eu/32020r2120),forordning [(EU) 2020/2121](eu/32020r2121),forordning [(EU) 2021/329](eu/32021r0329),forordning [(EU) 2021/330](eu/32021r0330),forordning [(EU) 2021/343](eu/32021r0343),forordning [(EU) 2021/344](eu/32021r0344),forordning [(EU) 2021/346](eu/32021r0346),forordning [(EU) 2021/363](eu/32021r0363),forordning [(EU) 2021/367](eu/32021r0367),forordning [(EU) 2021/421](eu/32021r0421) (endret ved forordning [(EU) 2022/385](eu/32022r0385) og forordning [(EU) 2022/1442](eu/32022r1442)),forordning [(EU) 2021/422](eu/32021r0422),forordning [(EU) 2021/485](eu/32021r0485) (endret ved forordning [(EU) 2022/385](eu/32022r0385)),forordning [(EU) 2021/505](eu/32021r0505),forordning [(EU) 2021/506](eu/32021r0506),forordning [(EU) 2021/507](eu/32021r0507),forordning [(EU) 2021/508](eu/32021r0508),forordning [(EU) 2021/551](eu/32021r0551) (endret ved forordning [(EU) 2022/385](eu/32022r0385)),forordning [(EU) 2021/658](eu/32021r0658),forordning [(EU) 2021/669](eu/32021r0669),forordning [(EU) 2021/709](eu/32021r0709),forordning [(EU) 2021/719](eu/32021r0719),forordning [(EU) 2021/967](eu/32021r0967),forordning [(EU) 2021/968](eu/32021r0968),forordning [(EU) 2021/969](eu/32021r0969),forordning [(EU) 2021/981](eu/32021r0981),forordning [(EU) 2021/982](eu/32021r0982) (endret ved forordning [(EU) 2025/316](eu/32025r0316)),forordning [(EU) 2021/1409](eu/32021r1409),forordning [(EU) 2021/1410](eu/32021r1410) (endret ved forordning [(EU) 2022/270](eu/32022r0270)),forordning [(EU) 2021/1411](eu/32021r1411),forordning [(EU) 2021/1412](eu/32021r1412),forordning [(EU) 2021/1413](eu/32021r1413),forordning [(EU) 2021/1414](eu/32021r1414),forordning [(EU) 2021/1424](eu/32021r1424),forordning [(EU) 2021/1425](eu/32021r1425),forordning [(EU) 2021/1431](eu/32021r1431) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),forordning [(EU) 2021/2051](eu/32021r2051) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),forordning [(EU) 2021/2080](eu/32021r2080),forordning [(EU) 2021/1426](eu/32021r1426) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),forordning [(EU) 2021/2050](eu/32021r2050),forordning [(EU) 2021/2077](eu/32021r2077),forordning [(EU) 2021/2093](eu/32021r2093),forordning [(EU) 2021/2096](eu/32021r2096) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),forordning [(EU) 2021/2097](eu/32021r2097) (endret ved forordning [(EU) 2023/1171](eu/32023r1171)),forordning [(EU) 2021/2076](eu/32021r2076),forordning [(EU) 2021/2092](eu/32021r2092)forordning [(EU) 2021/2095](eu/32021r2095),forordning [(EU) 2022/272](eu/32022r0272),forordning [(EU) 2022/273](eu/32022r0273),forordning [(EU) 2022/320](eu/32022r0320) (endret ved forordning [(EU) 2024/239](eu/32024r0239)),forordning [(EU) 2022/347](eu/32022r0347),forordning [(EU) 2022/415](eu/32022r0415) (endret ved forordning [(EU) 2025/187](eu/32025r0187)),forordning [(EU) 2022/537](eu/32022r0537),forordning [(EU) 2022/538](eu/32022r0538),forordning [(EU) 2022/593](eu/32022r0593),forordning [(EU) 2022/633](eu/32022r0633),forordning [(EU) 2022/652](eu/32022r0652) (endret ved forordning [(EU) 2023/54](eu/32023r0054) og forordning [(EU) 2024/239](eu/32024r0239)),forordning [(EU) 2022/653](eu/32022r0653),forordning [(EU) 2022/654](eu/32022r0654),forordning [(EU) 2022/702](eu/32022r0702),forordning [(EU) 2022/703](eu/32022r0703),forordning [(EU) 2022/565](eu/32022r0565) (endret ved forordning [(EU) 2026/98](eu/32026r0098)),forordning [(EU) 2022/1247](eu/32022r1247),forordning [(EU) 2022/1249](eu/32022r1249),forordning [(EU) 2022/1250](eu/32022r1250),forordning [(EU) 2022/1266](eu/32022r1266),forordning [(EU) 2022/1374](eu/32022r1374),forordning [(EU) 2022/1382](eu/32022r1382),forordning [(EU) 2022/1383](eu/32022r1383),forordning [(EU) 2022/1248](eu/32022r1248),forordning [(EU) 2022/1451](eu/32022r1451),forordning [(EU) 2022/1470](eu/32022r1470),forordning [(EU) 2022/1412](eu/32022r1412) (endret ved forordning [(EU) 2023/257](eu/32023r0257)),forordning [(EU) 2022/1417](eu/32022r1417),forordning [(EU) 2022/1419](eu/32022r1419),forordning [(EU) 2022/1420](eu/32022r1420),forordning [(EU) 2022/1421](eu/32022r1421) (endret ved forordning [(EU) 2024/239](eu/32024r0239)),forordning [(EU) 2022/1452](eu/32022r1452) (endret ved forordning [(EU) 2023/585](eu/32023r0585) og forordning [(EU) 2024/2179](eu/32024r2179)),forordning [(EU) 2022/1453](eu/32022r1453),forordning [(EU) 2022/1490](eu/32022r1490) (endret ved forordning [(EU) 2024/239](eu/32024r0239)),forordning [(EU) 2022/1493](eu/32022r1493) (endret ved forordning [(EU) 2023/584](eu/32023r0584)),forordning [(EU) 2022/1469](eu/32022r1469),forordning [(EU) 2022/1471](eu/32022r1471) (endret ved forordning [(EU) 2025/647](eu/32025r0647)),forordning [(EU) 2022/1472](eu/32022r1472),forordning [(EU) 2022/1492](eu/32022r1492),forordning [(EU) 2022/1525](eu/32022r1525),forordning [(EU) 2023/8](eu/32023r0008),forordning [(EU) 2023/341](eu/32023r0341),forordning [(EU) 2023/53](eu/32023r0053),forordning [(EU) 2023/59](eu/32023r0059),forordning [(EU) 2023/60](eu/32023r0060),forordning [(EU) 2023/61](eu/32023r0061),forordning [(EU) 2023/366](eu/32023r0366) (endret ved forordning [(EU) 2024/3166](eu/32024r3166)),forordning [(EU) 2023/565](eu/32023r0565),forordning [(EU) 2023/605](eu/32023r0605),forordning [(EU) 2023/649](eu/32023r0649),forordning [(EU) 2023/650](eu/32023r0650),forordning [(EU) 2023/651](eu/32023r0651),forordning [(EU) 2023/668](eu/32023r0668),forordning [(EU) 2023/669](eu/32023r0669),forordning [(EU) 2023/255](eu/32023r0255),forordning [(EU) 2023/256](eu/32023r0256),forordning [(EU) 2023/263](eu/32023r0263) (endret ved forordning [(EU) 2026/154](eu/32026r0154)),forordning [(EU) 2023/907](eu/32023r0907),forordning [(EU) 2023/1163](eu/32023r1163),forordning [(EU) 2023/1167](eu/32023r1167) (endret ved forordning [(EU) 2024/2183](eu/32024r2183))forordning [(EU) 2023/1169](eu/32023r1169),forordning [(EU) 2023/1170](eu/32023r1170),forordning [(EU) 2023/1172](eu/32023r1172) (endret ved forordning [(EU) 2025/1419](eu/32025r1419)),forordning [(EU) 2023/1333](eu/32023r1333) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),forordning [(EU) 2023/1698](eu/32023r1698),forordning [(EU) 2023/1699](eu/32023r1699),forordning [(EU) 2023/1703](eu/32023r1703) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),forordning [(EU) 2023/1704](eu/32023r1704),forordning [(EU) 2023/1705](eu/32023r1705),forordning [(EU) 2023/1707](eu/32023r1707),forordning [(EU) 2023/1708](eu/32023r1708),forordning [(EU) 2023/1709](eu/32023r1709),forordning [(EU) 2023/1710](eu/32023r1710),forordning [(EU) 2023/1711](eu/32023r1711),forordning [(EU) 2023/1713](eu/32023r1713) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),forordning [(EU) 2023/1332](eu/32023r1332) (endret ved forordning [(EU) 2025/316](eu/32025r0316)),forordning [(EU) 2023/1341](eu/32023r1341),forordning [(EU) 2023/1342](eu/32023r1342) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),forordning [(EU) 2023/1405](eu/32023r1405),forordning [(EU) nr. 2023/1416](eu/32023r1416),forordning [(EU) 2023/1417](eu/32023r1417),forordning [(EU) 2023/1443](eu/32023r1443),forordning [(EU) 2023/1455](eu/32023r1455),forordning [(EU) 2023/1682](eu/32023r1682),forordning [(EU) 2023/1712](eu/32023r1712),forordning [(EU) 2023/2583](eu/32023r2583),forordning [(EU) 2023/2628](eu/32023r2628) (endret ved forordning [(EU) 2025/2505](eu/32025r2505)),forordning [(EU) 2023/2632](eu/32023r2632),forordning [(EU) 2023/2644](eu/32023r2644),forordning [(EU) 2023/2645](eu/32023r2645),forordning [(EU) 2023/2646](eu/32023r2646),forordning [(EU) 2023/2647](eu/32023r2647),forordning [(EU) 2023/1333](eu/32023r1333),forordning [(EU) 2023/2732](eu/32023r2732),forordning [(EU) 2023/2734](eu/32023r2734),forordning [(EU) 2023/2736](eu/32023r2736),forordning [(EU) 2023/2802](eu/32023r2802),forordning [(EU) 2023/2846](eu/32023r2846) (endret ved forordning [(EU) 2024/1839](eu/32024r1839)),forordning [(EU) 2023/2850](eu/32023r2850),forordning [(EU) 2024/220](eu/32024r0220),forordning [(EU) 2024/221](eu/32024r0221) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),forordning [(EU) 2024/228](eu/32024r0228),forordning [(EU) 2024/251](eu/32024r0251),forordning [(EU) 2024/252](eu/32024r0252),forordning [(EU) 2024/260](eu/32024r0260),forordning [(EU) 2024/261](eu/32024r0261),forordning [(EU) 2024/262](eu/32024r0262),forordning [(EU) 2024/265](eu/32024r0265),forordning [(EU) 2024/285](eu/32024r0285),forordning [(EU) 2024/750](eu/32024r0750),forordning [(EU) 2024/763](eu/32024r0763),forordning [(EU) 2024/764](eu/32024r0764),forordning [(EU) 2024/749](eu/32024r0749),forordning [(EU) 2024/762](eu/32024r0762),forordning [(EU) 2024/777](eu/32024r0777),forordning [(EU) 2024/778](eu/32024r0778) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),forordning [(EU) 2024/780](eu/32024r0780),forordning [(EU) 2024/781](eu/32024r0781),forordning [(EU) 2024/786](eu/32024r0786),forordning [(EU) 2024/794](eu/32024r0794),forordning [(EU) 2024/806](eu/32024r0806),forordning [(EU) 2024/824](eu/32024r0824),forordning [(EU) 2024/980](eu/32024r0980),forordning [(EU) 2024/997](eu/32024r0997),forordning [(EU) 2024/1055](eu/32024r1055),forordning [(EU) 2024/1056](eu/32024r1056),forordning [(EU) 2024/1057](eu/32024r1057),forordning [(EU) 2024/1058](eu/32024r1058) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),forordning [(EU) 2024/1068](eu/32024r1068),forordning [(EU) 2024/1070](eu/32024r1070) (endret ved forordning [(EU) 2024/2040](eu/32024r2040)),forordning [(EU) 2024/1104](eu/32024r1104),forordning [(EU) 2024/1161](eu/32024r1161),forordning [(EU) 2024/1185](eu/32024r1185),forordning [(EU) 2024/1186](eu/32024r1186) (endret ved forordning [(EU) 2025/2046](eu/32025r2046)),forordning [(EU) 2024/1187](eu/32024r1187),forordning [(EU) 2024/1189](eu/32024r1189),forordning [(EU) 2024/1190](eu/32024r1190),forordning [(EU) 2024/1193](eu/32024r1193),forordning [(EU) 2024/1194](eu/32024r1194),forordning [(EU) 2024/1195](eu/32024r1195),forordning [(EU) 2024/1196](eu/32024r1196),forordning [(EU) 2024/1199](eu/32024r1199),forordning [(EU) 2024/1200](eu/32024r1200),forordning [(EU) 2024/1325](eu/32024r1325),forordning [(EU) 2024/1179](eu/32024r1179),forordning [(EU) 2024/1685](eu/32024r1685),forordning [(EU) 2024/1723](eu/32024r1723),forordning [(EU) 2024/1730](eu/32024r1730),forordning [(EU) 2024/1743](eu/32024r1743),forordning [(EU) 2024/1750](eu/32024r1750),forordning [(EU) 2024/1755](eu/32024r1755),forordning [(EU) 2024/1757](eu/32024r1757),forordning [(EU) 2024/1786](eu/32024r1786),forordning [(EU) 2024/1810](eu/32024r1810),forordning [(EU) 2024/1989](eu/32024r1989),forordning [(EU) 2024/2177](eu/32024r2177),forordning [(EU) 2024/2180](eu/32024r2180),forordning [(EU) 2024/2184](eu/32024r2184),forordning [(EU) 2024/2185](eu/32024r2185),forordning [(EU) 2024/2385](eu/32024r2385),forordning [(EU) 2024/2388](eu/32024r2388),forordning [(EU) 2024/2394](eu/32024r2394),forordning [(EU) 2024/2393](eu/32024r2393) (endret ved forordning [(EU) 2025/181](eu/32025r0181)),forordning [(EU) 2024/2412](eu/32024r2412),forordning [(EU) 2024/2414](eu/32024r2414),forordning [(EU) 2024/2427](eu/32024r2427),forordning [(EU) 2024/2441](eu/32024r2441),forordning [(EU) 2024/2464](eu/32024r2464),forordning [(EU) 2024/3162](eu/32024r3162),forordning [(EU) 2024/3166](eu/32024r3166),forordning [(EU) 2024/3167](eu/32024r3167),forordning [(EU) 2024/3168](eu/32024r3168),forordning [(EU) 2025/142](eu/32025r0142),forordning [(EU) 2025/143](eu/32025r0143),forordning [(EU) 2025/148](eu/32025r0148),forordning [(EU) 2025/151](eu/32025r0151),forordning [(EU) 2025/152](eu/32025r0152),forordning [(EU) 2025/154](eu/32025r0154),forordning [(EU) 2025/157](eu/32025r0157),forordning [(EU) 2025/159](eu/32025r0159),forordning [(EU) 2025/160](eu/32025r0160),forordning [(EU) 2025/161](eu/32025r0161) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),forordning [(EU) 2025/168](eu/32025r0168),forordning [(EU) 2025/169](eu/32025r0169),forordning [(EU) 2025/188](eu/32025r0188),forordning [(EU) 2025/193](eu/32025r0193),forordning [(EU) 2025/314](eu/32025r0314),forordning [(EU) 2025/364](eu/32025r0364),forordning [(EU) 2025/272](eu/32025r0272),forordning [(EU) 2025/273](eu/32025r0273),forordning [(EU) 2025/275](eu/32025r0275),forordning [(EU) 2025/276](eu/32025r0276),forordning ([EU 2025/277](eu/32025r0277),forordning [(EU) 2025/278](eu/32025r0278),forordning ([EU 2025/279](eu/32025r0279),forordning [(EU) 2025/281](eu/32025r0281),forordning [(EU) 2025/284](eu/32025r0284)forordning [(EU) 2025/313](eu/32025r0313),forordning [(EU) 2025/353](eu/32025r0353),forordning [(EU) 2025/359](eu/32025r0359),forordning [(EU) 2025/630](eu/32025r0630),forordning [(EU) 2025/634](eu/32025r0634),forordning [(EU) 2025/708](eu/32025r0708),forordning [(EU) 2025/711](eu/32025r0711),forordning [(EU) 2025/714](eu/32025r0714),forordning [(EU) 2025/720](eu/32025r0720),forordning [(EU) 2025/752](eu/32025r0752),forordning [(EU) 2025/756](eu/32025r0756),forordning [(EU) 2025/757](eu/32025r0757),forordning [(EU) 2025/1386](eu/32025r1386),forordning [(EU) 2025/1390](eu/32025r1390),forordning [(EU) 2025/1392](eu/32025r1392),forordning [(EU) 2025/1395](eu/32025r1395),forordning [(EU) 2025/1400](eu/32025r1400),forordning [(EU) 2025/1402](eu/32025r1402),forordning [(EU) 2025/1403](eu/32025r1403) (endret ved forordning [(EU) 2026/516](eu/32026r0516)),forordning [(EU) 2025/1417](eu/32025r1417),forordning [(EU) 2025/1418](eu/32025r1418),forordning [(EU) 2025/1424](eu/32025r1424),forordning [(EU) 2025/1426](eu/32025r1426),forordning [(EU) 2025/1465](eu/32025r1465),forordning [(EU) 2025/1468](eu/32025r1468),forordning [(EU) 2025/1504](eu/32025r1504),forordning [(EU) 2025/1523](eu/32025r1523),forordning [(EU) 2025/1527](eu/32025r1527),forordning [(EU) 2025/1915](eu/32025r1915),forordning [(EU) 2025/1928](eu/32025r1928),forordning [(EU) 2025/1254](eu/32025r1254),forordning [(EU) 2025/1776](eu/32025r1776),forordning [(EU) 2025/1782](eu/32025r1782),forordning [(EU) 2025/1784](eu/32025r1784),forordning [(EU) 2025/1787](eu/32025r1787),forordning [(EU) 2025/1795](eu/32025r1795),forordning [(EU) 2025/2171](eu/32025r2171),forordning [(EU) 2025/2175](eu/32025r2175),forordning [(EU) 2025/2183](eu/32025r2183),forordning [(EU) 2025/2186](eu/32025r2186),forordning [(EU) 2025/2176](eu/32025r2176),forordning [(EU) 2025/2491](eu/32025r2491),forordning [(EU) 2025/2497](eu/32025r2497),forordning [(EU) 2025/2500](eu/32025r2500),forordning [(EU) 2025/2502](eu/32025r2502),forordning [(EU) 2025/2503](eu/32025r2503),forordning [(EU) 2025/2505](eu/32025r2505),forordning [(EU) 2025/2511](eu/32025r2511),forordning [(EU) 2025/2513](eu/32025r2513),forordning [(EU) 2025/2498](eu/32025r2498),forordning [(EU) 2025/2556](eu/32025r2556),forordning [(EU) 2025/2566](eu/32025r2566),forordning [(EU) 2025/2576](eu/32025r2576),forordning [(EU) 2025/2590](eu/32025r2590),forordning [(EU) 2026/85](eu/32026r0085),forordning [(EU) 2026/90](eu/32026r0090),forordning [(EU) 2026/91](eu/32026r0091),forordning [(EU) 2026/92](eu/32026r0092),forordning [(EU) 2026/93](eu/32026r0093),forordning [(EU) 2026/96](eu/32026r0096),forordning [(EU) 2026/103](eu/32026r0103),forordning [(EU) 2026/108](eu/32026r0108),forordning [(EU) 2026/154](eu/32026r0154),forordning [(EU) 2026/155](eu/32026r0155),forordning [(EU) 2026/164](eu/32026r0164),forordning [(EU) 2026/167](eu/32026r0167),forordning [(EU) 2026/168](eu/32026r0168),forordning [(EU) 2026/171](eu/32026r0171),forordning [(EU) 2026/178](eu/32026r0178),forordning [(EU) 2026/348](eu/32026r0348),forordning [(EU) 2026/352](eu/32026r0352),forordning [(EU) 2026/353](eu/32026r0353),forordning [(EU) 2026/356](eu/32026r0356).forordning [(EU) 2026/402](eu/32026r0402),forordning [(EU) 2026/404](eu/32026r0404),forordning [(EU) 2026/460](eu/32026r0460),forordning [(EU) 2026/528](eu/32026r0528),forordning [(EU) 2026/532](eu/32026r0532),forordning [(EU) 2026/534](eu/32026r0534),forordning [(EU) 2026/538](eu/32026r0538),forordning [(EU) 2026/540](eu/32026r0540),forordning [(EU) 2024/1054](eu/32024r1054) ogforordning [(EU) 2026/549](eu/32026r0549)gjelder som forskrift med de tilpasninger som følger av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
+EØS-avtalen vedlegg I, [kapittel II](lov/1992-11-27-109/kap2), med følgende forordninger
+
+- forordning [(EF) nr. 1436/98](eu/31998r1436),
+- forordning [(EF) nr. 2316/98](eu/31998r2316) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),
+- forordning [(EF) nr. 2374/98](eu/31998r2374),
+- forordning [(EF) nr. 2785/98](eu/31998r2785),
+- forordning [(EF) nr. 2786/98](eu/31998r2786),
+- forordning [(EF) nr. 2821/98](eu/31998r2821),
+- forordning [(EF) nr. 45/1999](eu/31999r0045),
+- forordning [(EF) nr. 639/1999](eu/31999r0639),
+- forordning [(EF) nr. 866/1999](eu/31999r0866),
+- forordning [(EF) nr. 1245/1999](eu/31999r1245),
+- forordning [(EF) nr. 1411/1999](eu/31999r1411),
+- forordning [(EF) nr. 1594/1999](eu/31999r1594),
+- forordning [(EF) nr. 1636/1999](eu/31999r1636),
+- forordning [(EF) nr. 2293/1999](eu/31999r2293),
+- forordning [(EF) nr. 2430/1999](eu/31999r2430) (endret ved forordning [(EF) nr. 1756/2002](eu/32002r1756), forordning [(EF) nr. 249/2006](eu/32006r0249), forordning [(EF) nr. 552/2008](eu/32008r0552), forordning [(EU) nr. 874/2010](eu/32010r0874*), forordning [(EU) nr. 288/2011](eu/32011r0288), forordning [(EU) nr. 118/2012](eu/32012r0118) og forordning [(EU) nr. 1014/2013](eu/32013r1014)),
+- forordning [(EF) nr. 2562/1999](eu/31999r2562),
+- forordning [(EF) nr. 2690/1999](eu/31999r2690),
+- forordning [(EF) nr. 654/2000](eu/32000r0654),
+- forordning [(EF) nr. 1353/2000](eu/32000r1353) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),
+- forordning [(EF) nr. 1887/2000](eu/32000r1887),
+- forordning [(EF) nr. 2437/2000](eu/32000r2437),
+- forordning [(EF) nr. 418/2001](eu/32001r0418),
+- forordning [(EF) nr. 1334/2001](eu/32001r1334) (endret ved forordning [(EF) nr. 676/2003](eu/32003r0676)),
+- forordning [(EF) nr. 2013/2001](eu/32001r2013),
+- forordning [(EF) nr. 2200/2001](eu/32001r2200),
+- forordning [(EF) nr. 2205/2001](eu/32001r2205),
+- forordning [(EF) nr. 2380/2001](eu/32001r2380) (endret ved forordning [(EF) nr. 552/2008](eu/32008r0552), forordning [(EU) nr. 406/2011](eu/32011r0406), forordning [(EU) nr. 118/2012](eu/32012r0118) og forordning [(EU) nr. 1014/2013](eu/32013r1014)),
+- forordning [(EF) nr. 256/2002](eu/32002r0256) (endret ved forordning [(EF) nr. 1143/2007](eu/32007r1143) og forordning [(EU) 2015/1399](eu/32015r1399)),
+- forordning [(EF) nr. 1041/2002](eu/32002r1041),
+- forordning [(EF) nr. 1252/2002](eu/32002r1252),
+- forordning [(EF) nr. 1756/2002](eu/32002r1756),
+- forordning [(EF) nr. 1876/2002](eu/32002r1876),
+- forordning [(EF) nr. 2188/2002](eu/32002r2188) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),
+- forordning [(EF) nr. 261/2003](eu/32003r0261) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),
+- forordning [(EF) nr. 666/2003](eu/32003r0666),
+- forordning [(EF) nr. 676/2003](eu/32003r0676),
+- forordning [(EF) nr. 877/2003](eu/32003r0877),
+- forordning [(EF) nr. 1334/2003](eu/32003r1334*) (endret ved forordning [(EF) nr. 2112/2003](eu/32003r2112), forordning [(EU) nr. 107/2014](eu/32014r0107), forordning [(EU) 2016/1095](eu/32016r1095), forordning [(EU) 2017/1145](eu/32017r1145), forordning [(EU) 2017/2330](eu/32017r2330*), forordning [(EU) 2018/353](eu/32018r0353) og forordning [(EU) 2018/1039](eu/32018r1039)),
+- forordning [(EF) nr. 1801/2003](eu/32003r1801),
+- forordning [(EF) nr. 1847/2003](eu/32003r1847) (endret ved forordning [(EU) nr. 1018/2012](eu/32012r1018) og forordning [(EU) 2018/347](eu/32018r0347)),
+- forordning [(EF) nr. 2112/2003](eu/32003r2112),
+- forordning [(EF) nr. 2154/2003](eu/32003r2154),
+- forordning [(EF) nr. 490/2004](eu/32004r0490) (endret ved forordning [(EF) nr. 1812/2005](eu/32005r1812)),
+- forordning [(EF) nr. 879/2004](eu/32004r0879*),
+- forordning [(EF) nr. 1288/2004](eu/32004r1288) (endret ved forordning [(EF) nr. 1812/2005](eu/32005r1812), forordning [(EU) nr. 1018/2012](eu/32012r1018), forordning [(EU) nr. 1061/2013](eu/32013r1061), forordning [(EU) nr. 1109/2014](eu/32014r1109), forordning [(EU) 2017/1145](eu/32017r1145) og forordning [(EU) 2020/147](eu/32020r0147)),
+- forordning [(EF) nr. 1333/2004](eu/32004r1333),
+- forordning [(EF) nr. 1356/2004](eu/32004r1356) (endret ved forordning [(EF) nr. 108/2007](eu/32007r0108) og forordning [(EF) nr. 1096/2008](eu/32008r1096)),
+- forordning [(EF) nr. 1464/2004](eu/32004r1464) (endret ved forordning [(EF) nr. 545/2006](eu/32006r0545), forordning [(EU) nr. 884/2010](eu/32010r0884) og forordning [(EU) 2019/138](eu/32019r0138)),
+- forordning [(EF) nr. 255/2005](eu/32005r0255) (endret ved forordning [(EU) nr. 171/2011](eu/32011r0171), forordning [(EU) 2015/1053](eu/32015r1053), forordning [(EU) 2015/1399](eu/32015r1399), forordning [(EU) 2017/1145](eu/32017r1145) og forordning [(EU) 2017/1896](eu/32017r1896)),
+- forordning [(EF) nr. 358/2005](eu/32005r0358) (endret ved forordning [(EU) 2017/429](eu/32017r0429), forordning [(EU) 2017/1145](eu/32017r1145)), forordning [(EU) 2017/963](eu/32017r0963), forordning [(EU) 2021/758](eu/32021r0758) og forordning [(EU) 2025/2575](eu/32025r2575)),
+- forordning [(EF) nr. 378/2005](eu/32005r0378) (endret ved forordning [(EF) nr. 850/2007](eu/32007r0850), forordning [(EF) nr. 885/2009](eu/32009r0885), forordning [(EF) nr. 386/2009](eu/32009r0386) og forordning [(EU) 2015/1761](eu/32015r1761)),
+- forordning [(EF) nr. 521/2005](eu/32005r0521) (endret ved forordning [(EF) nr. 1812/2005](eu/32005r1812), forordning [(EU) 221/2011](eu/32011r0221) og forordning [(EU) 2017/1145](eu/32017r1145)),
+- forordning [(EF) nr. 600/2005](eu/32005r0600) (endret ved forordning [(EF) nr. 2028/2006](eu/32006r2028), forordning [(EF) nr. 496/2007](eu/32007r0496), forordning [(EF) nr. 202/2009](eu/32009r0202), forordning [(EU) nr. 516/2011](eu/32011r0516), forordning [(EU) nr. 118/2012](eu/32012r0118), forordning [(EU) nr. 1014/2013](eu/32013r1014), forordning [(EU) 2017/447](eu/32017r0447), forordning [(EU) 2017/1145](eu/32017r1145) og forordning [(EU) 2023/2662](eu/32023r2662)),
+- forordning [(EF) nr. 1206/2005](eu/32005r1206) (endret ved forordning [(EU) nr. 403/2013](eu/32013r0403), forordning [(EU) 2017/211](eu/32017r0211) og forordning [(EU) 2017/1145](eu/32017r1145)),
+- forordning [(EF) nr. 1458/2005](eu/32005r1458) (endret ved forordning [(EF) nr. 1096/2009](eu/32009r1096), forordning [(EU) nr. 1019/2012](eu/32012r1019) og forordning [(EU) 2017/1145](eu/32017r1145)),
+- forordning [(EF) nr. 1812/2005](eu/32005r1812),
+- forordning [(EF) nr. 1980/2005](eu/32005r1980),
+- forordning [(EF) nr. 2036/2005](eu/32005r2036) (endret ved forordning [(EU) nr. 1018/2012](eu/32012r1018), forordning [(EU) nr. 1206/2012](eu/32012r1206), forordning [(EU) 2017/1145](eu/32017r1145), forordning [(EU) 2017/961](eu/32017r0961), forordning [(EU) 2017/2299](eu/32017r2299) og forordning [(EU) 2018/347](eu/32018r0347)),
+- forordning [(EF) nr. 2037/2005](eu/32005r2037),
+- forordning [(EF) nr. 252/2006](eu/32006r0252) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),
+- forordning [(EF) nr. 479/2006](eu/32006r0479) (endret ved forordning [(EU) 2016/1095](eu/32016r1095) og forordning [(EU) 2018/1039](eu/32018r1039)),
+- forordning [(EF) nr. 545/2006](eu/32006r0545),
+- forordning [(EF) nr. 773/2006](eu/32006r0773) (endret ved forordning [(EU) 2017/1145](eu/32017r1145)),
+- forordning [(EF) nr. 1284/2006](eu/32006r1284) (endret ved forordning [(EU) 2017/429](eu/32017r0429) og forordning [(EU) 2017/1145](eu/32017r1145)),
+- forordning [(EF) nr. 1445/2006](eu/32006r1445),
+- forordning [(EF) nr. 1446/2006](eu/32006r1446),
+- forordning [(EF) nr. 1876/2006](eu/32006r1876*) (endret ved forordning [(EU) nr. 1018/2012](eu/32012r1018), forordning [(EU) nr. 403/2013](eu/32013r0403) og forordning [(EU) 2024/228](eu/32024r0228)),
+- forordning [(EF) nr. 2028/2006](eu/32006r2028),
+- forordning [(EF) nr. 108/2007](eu/32007r0108),
+- forordning [(EF) nr. 184/2007](eu/32007r0184) (endret ved forordning [(EF) nr. 516/2008](eu/32008r0516) og forordning [(EU) 2017/410](eu/32017r0410)),
+- forordning [(EF) nr. 242/2007](eu/32007r0242),
+- forordning [(EF) nr. 496/2007](eu/32007r0496),
+- forordning [(EF) nr. 497/2007](eu/32007r0497),
+- forordning [(EF) nr. 500/2007](eu/32007r0500),
+- forordning [(EF) nr. 1140/2007](eu/32007r1140),
+- forordning [(EF) nr. 1141/2007](eu/32007r1141),
+- forordning [(EF) nr. 1143/2007](eu/32007r1143),
+- forordning [(EF) nr. 1501/2007](eu/32007r1501),
+- forordning [(EF) nr. 1520/2007](eu/32007r1520) (endret ved forordning [(EU) nr. 1018/2012](eu/32012r1018), forordning [(EU) 2015/38](eu/32015r0038) og forordning [(EU) 2015/1053](eu/32015r1053)),
+- forordning [(EF) nr. 1521/2007](eu/32007r1521),
+- forordning [(EF) nr. 156/2008](eu/32008r0156),
+- forordning [(EF) nr. 167/2008](eu/32008r0167) (endret ved forordning [(EU) 2016/842](eu/32016r0842)),
+- forordning [(EF) nr. 554/2008](eu/32008r0554*) (endret ved forordning [(EU) nr. 879/2010](eu/32010r0879) og forordning [(EU) nr. 414/2012](eu/32012r0414)),
+- forordning [(EF) nr. 721/2008](eu/32008r0721) (endret ved forordning [(EU) nr. 334/2010](eu/32010r0334)),
+- forordning [(EF) nr. 1290/2008](eu/32008r1290) (endret ved forordning [(EF) nr. 899/2009](eu/32009r0899), forordning [(EU) nr. 1334/2013](eu/32013r1334) og forordning [(EU) 2016/895](eu/32016r0895))
+- forordning [(EF) nr. 1292/2008](eu/32008r1292) (endret ved forordning [(EU) nr. 336/2011](eu/32011r0336) og forordning [(EU) 2017/173](eu/32017r0173)),
+- forordning [(EF) nr. 270/2009](eu/32009r0270),
+- forordning [(EF) nr. 322/2009](eu/32009r0322) (endret ved forordning [(EU) nr. 290/2013](eu/32013r0290), forordning [(EU) 2015/1043](eu/32015r1043) og forordning [(EU) 2017/211](eu/32017r0211)),
+- forordning [(EF) nr. 403/2009](eu/32009r0403),
+- forordning [(EF) nr. 886/2009](eu/32009r0886),
+- forordning [(EF) nr. 903/2009](eu/32009r0903) (endret ved forordning [(EU) nr. 373/2011](eu/32011r0373), forordning [(EU) nr. 357/2013](eu/32013r0357) og forordning [(EU) 2017/1126](eu/32017r1126)),
+- forordning [(EF) nr. 1088/2009](eu/32009r1088),
+- forordning [(EU) nr. 1270/2009](eu/32009r1270) (endret ved forordning [(EU) 2017/1145](eu/32017r1145), og forordning [(EU) 2017/963](eu/32017r0963)),
+- forordning [(EU) nr. 8/2010](eu/32010r0008),
+- forordning [(EU) nr. 9/2010](eu/32010r0009) (endret ved forordning [(EU) nr. 1196/2012](eu/32012r1196) og forordning [(EU) 2019/221](eu/32019r0221)),
+- forordning [(EU) nr. 892/2010](eu/32010r0892),
+- forordning [(EU) nr. 999/2010](eu/32010r0999),
+- forordning [(EU) nr. 361/2011](eu/32011r0361) (endret ved forordning [(EU) 2015/518](eu/32015r0518)),
+- forordning [(EU) nr. 528/2011](eu/32011r0528) (endret ved forordning [(EU) 2019/221](eu/32019r0221)),
+- forordning [(EU) nr. 887/2011](eu/32011r0887) (endret ved forordning [(EU) 2017/173](eu/32017r0173), forordning [(EU) 2017/961](eu/32017r0961) og forordning [(EU) 2021/733](eu/32021r0733)),
+- forordning [(EU) nr. 900/2011](eu/32011r0900) (endret ved forordning [(EU) nr. 118/2012](eu/32012r0118) og forordning [(EU) nr. 1014/2013](eu/32013r1014)),
+- forordning [(EU) nr. 1074/2011](eu/32011r1074),
+- forordning [(EU) nr. 1110/2011](eu/32011r1110) (endret ved forordning [(EU) 2018/1569](eu/32018r1569)),
+- forordning [(EU) nr. 1111/2011](eu/32011r1111),
+- forordning [(EU) nr. 91/2012](eu/32012r0091),
+- forordning [(EU) nr. 131/2012](eu/32012r0131),
+- forordning [(EU) nr. 136/2012](eu/32012r0136) (endret ved forordning [(EU) 2015/1414](eu/32015r1414)),
+- forordning [(EU) nr. 227/2012](eu/32012r0227),
+- forordning [(EU) nr. 269/2012](eu/32012r0269) (endret ved forordning [(EU) 2018/1039](eu/32018r1039)),
+- forordning [(EU) nr. 840/2012](eu/32012r0840) (endret ved forordning [(EU) 2019/221](eu/32019r0221)),
+- forordning [(EU) nr. 841/2012](eu/32012r0841),
+- forordning [(EU) nr. 842/2012](eu/32012r0842),
+- forordning [(EU) nr. 868/2012](eu/32012r0868),
+- forordning [(EU) nr. 991/2012](eu/32012r0991) (endret ved forordning [(EU) 2016/1095](eu/32016r1095)),
+- forordning [(EU) nr. 1021/2012](eu/32012r1021) (endret ved forordning [(EU) 2019/221](eu/32019r0221)),
+- forordning [(EU) nr. 1065/2012](eu/32012r1065) (endret ved forordning [(EU) 2023/1443](eu/32023r1443), forordning [(EU) 2024/251](eu/32024r0251), forordning [(EU) 2024/252](eu/32024r0252) og forordning [(EU) 2024/1189](eu/32024r1189)),
+- forordning [(EU) nr. 1195/2012](eu/32012r1195),
+- forordning [(EU) nr. 96/2013](eu/32013r0096) (endret ved forordning [(EU) 2024/1757](eu/32024r1757)),
+- forordning [(EU) nr. 230/2013](eu/32013r0230),
+- forordning [(EU) nr. 403/2013](eu/32013r0403) (endret ved forordning [(EU) 2024/221](eu/32024r0221)),
+- forordning [(EU) nr. 469/2013](eu/32013r0469*),
+- forordning [(EU) nr. 601/2013](eu/32013r0601) (endret ved forordning [(EU) nr. 131/2014](eu/32014r0131)),
+- forordning [(EU) nr. 636/2013](eu/32013r0636) (endret ved forordning [(EU) 2016/1095](eu/32016r1095)),
+- forordning [(EU) nr. 445/2013](eu/32013r0445),
+- forordning [(EU) nr. 796/2013](eu/32013r0796),
+- forordning [(EU) nr. 803/2013](eu/32013r0803),
+- forordning [(EU) nr. 1060/2013](eu/32013r1060),
+- forordning [(EU) nr. 1113/2013](eu/32013r1113) (endret ved forordning [(EU) 2024/251](eu/32024r0251), forordning [(EU) 2024/1810](eu/32024r1810) og forordning [(EU) 2025/1504](eu/32025r1504)),
+- forordning [(EU) nr. 1077/2013](eu/32013r1077),
+- forordning [(EU) nr. 1404/2013](eu/32013r1404),
+- forordning [(EU) nr. 121/2014](eu/32014r0121),
+- forordning [(EU) nr. 302/2014](eu/32014r0302),
+- forordning [(EU) nr. 684/2014](eu/32014r0684) (endret ved forordning [(EU) 2025/1423](eu/32025r1423)),
+- forordning [(EU) nr. 847/2014](eu/32014r0847),
+- forordning [(EU) nr. 852/2014](eu/32014r0852),
+- forordning [(EU) nr. 754/2014](eu/32014r0754),
+- forordning [(EU) nr. 1115/2014](eu/32014r1115),
+- forordning [(EU) nr. 1230/2014](eu/32014r1230*) (endret ved forordning [(EU) 2018/1039](eu/32018r1039)),
+- forordning [(EU) nr. 1236/2014](eu/32014r1236) (endret ved forordning [(EU) 2015/1114](eu/32015r1114)),
+- forordning [(EU) nr. 1249/2014](eu/32014r1249),
+- forordning [(EU) 2015/244](eu/32015r0244),
+- forordning [(EU) 2015/264](eu/32015r0264),
+- forordning [(EU) 2015/47](eu/32015r0047),
+- forordning [(EU) 2015/489](eu/32015r0489),
+- forordning [(EU) 2015/661](eu/32015r0661),
+- forordning [(EU) 2015/662](eu/32015r0662),
+- forordning [(EU) 2015/722](eu/32015r0722),
+- forordning [(EU) 2015/724](eu/32015r0724*),
+- forordning [(EU) 2015/1060](eu/32015r1060),
+- forordning [(EU) 2015/1061](eu/32015r1061),
+- forordning [(EU) 2015/1103](eu/32015r1103),
+- forordning [(EU) 2015/1152](eu/32015r1152),
+- forordning [(EU) 2015/1417](eu/32015r1417),
+- forordning [(EU) 2015/1426](eu/32015r1426),
+- forordning [(EU) 2015/1486](eu/32015r1486),
+- forordning [(EU) 2015/1489](eu/32015r1489),
+- forordning [(EU) 2015/1490](eu/32015r1490),
+- forordning [(EU) 2015/1408](eu/32015r1408),
+- forordning [(EU) 2015/1415](eu/32015r1415),
+- forordning [(EU) 2015/1416](eu/32015r1416),
+- forordning [(EU) 2015/2304](eu/32015r2304),
+- forordning [(EU) 2015/2305](eu/32015r2305) (endret ved forordning [(EU) 2024/262](eu/32024r0262)),
+- forordning [(EU) 2015/2306](eu/32015r2306),
+- forordning [(EU) 2015/2307](eu/32015r2307),
+- forordning [(EU) 2015/2382](eu/32015r2382),
+- forordning [(EU) 2016/104](eu/32016r0104),
+- forordning [(EU) 2016/329](eu/32016r0329) (endret ved forordning [(EU) 2017/2231](eu/32017r2231)),
+- forordning [(EU) 2016/896](eu/32016r0896),
+- forordning [(EU) 2016/897](eu/32016r0897) (endret ved forordning [(EU) 2020/146](eu/32020r0146) og forordning [(EU) 2022/703](eu/32022r0703)),
+- forordning [(EU) 2016/898](eu/32016r0898) (endret ved forordning [(EU) 2022/268](eu/32022r0268)),
+- forordning [(EU) 2016/899](eu/32016r0899) (endret ved forordning [(EU) 2019/221](eu/32019r0221) og forordning [2024/2183](eu/32024r2183)),
+- forordning [(EU) 2016/900](eu/32016r0900*),
+- forordning [(EU) 2016/972](eu/32016r0972),
+- forordning [(EU) 2016/973](eu/32016r0973*),
+- forordning [(EU) 2016/1095](eu/32016r1095) (endret ved forordning [(EU) 2022/1458](eu/32022r1458)),
+- forordning [(EU) 2016/1220](eu/32016r1220),
+- forordning [(EU) 2016/1768](eu/32016r1768) (endret ved forordning [(EU) 2023/2628](eu/32023r2628)),
+- forordning [(EU) 2016/1833](eu/32016r1833),
+- forordning [(EU) 2016/1964](eu/32016r1964) (endret ved forordning [(EU) 2020/2120](eu/32020r2120)),
+- forordning [(EU) 2016/2023](eu/32016r2023),
+- forordning [(EU) 2016/2150](eu/32016r2150),
+- forordning [(EU) 2016/2261](eu/32016r2261) (endret ved forordning [(EU) 2018/1039](eu/32018r1039)),
+- forordning [(EU) 2017/53](eu/32017r0053) (endret ved forordning [(EU) 2025/183](eu/32025r0183)),
+- forordning [(EU) 2017/54](eu/32017r0054),
+- forordning [(EU) 2017/55](eu/32017r0055),
+- forordning [(EU) 2017/56](eu/32017r0056) (endret ved forordning [(EU) 2026/171](eu/32026r0171)),
+- forordning [(EU) 2017/58](eu/32017r0058),
+- forordning [(EU) 2017/57](eu/32017r0057),
+- forordning [(EU) 2017/59](eu/32017r0059),
+- forordning [(EU) 2017/60](eu/32017r0060),
+- forordning [(EU) 2017/61](eu/32017r0061),
+- forordning [(EU) 2017/62](eu/32017r0062),
+- forordning [(EU) 2017/63](eu/32017r0063),
+- forordning [(EU) 2017/64](eu/32017r0064),
+- forordning [(EU) 2017/65](eu/32017r0065),
+- forordning [(EU) 2017/66](eu/32017r0066),
+- forordning [(EU) 2017/187](eu/32017r0187),
+- forordning [(EU) 2017/194](eu/32017r0194),
+- forordning [(EU) 2017/210](eu/32017r0210),
+- forordning [(EU) 2017/211](eu/32017r0211),
+- forordning [(EU) 2017/219](eu/32017r0219),
+- forordning [(EU) 2017/307](eu/32017r0307),
+- forordning [(EU) 2017/420](eu/32017r0420),
+- forordning [(EU) 2017/439](eu/32017r0439),
+- forordning [(EU) 2017/440](eu/32017r0440) (endret ved forordning [(EU) 2019/221](eu/32019r0221) og forordning [2024/2183](eu/32024r2183)),
+- forordning [(EU) 2017/447](eu/32017r0447) (endret ved forordning [(EU) 2023/2662](eu/32023r2662)),
+- forordning [(EU) 2017/455](eu/32017r0455),
+- forordning [(EU) 2017/873](eu/32017r0873),
+- forordning [(EU) 2017/895](eu/32017r0895),
+- forordning [(EU) 2017/896](eu/32017r0896) (endret ved forordning [(EU) 2019/221](eu/32019r0221) og forordning [2024/2183](eu/32024r2183)),
+- forordning [(EU) 2017/912](eu/32017r0912),
+- forordning [(EU) 2017/913](eu/32017r0913),
+- forordning [(EU) 2017/940](eu/32017r0940),
+- forordning [(EU) 2017/950](eu/32017r0950),
+- forordning [(EU) 2017/961](eu/32017r0961) (endret ved forordning [(EU) 2021/733](eu/32021r0733)),
+- forordning [(EU) 2017/963](eu/32017r0963),
+- forordning [(EU) 2017/1006](eu/32017r1006),
+- forordning [(EU) 2017/1007](eu/32017r1007) (endret ved forordning [(EU) 2017/2325](eu/32017r2325)),
+- forordning [(EU) 2017/1008](eu/32017r1008),
+- forordning [(EU) 2017/1086](eu/32017r1086),
+- forordning [(EU) 2017/1126](eu/32017r1126),
+- forordning [(EU) 2017/1145](eu/32017r1145) (endret ved forordning [(EU) 2018/353](eu/32018r0353)),
+- forordning [(EU) 2017/1490](eu/32017r1490),
+- forordning [(EU) 2017/1492](eu/32017r1492) (endret ved forordning [(EU) 2019/849](eu/32019r0849)),
+- forordning [(EU) 2017/1903](eu/32017r1903),
+- forordning [(EU) 2017/1904](eu/32017r1904),
+- forordning [(EU) 2017/1905](eu/32017r1905),
+- forordning [(EU) 2017/1907](eu/32017r1907),
+- forordning [(EU) 2017/1914](eu/32017r1914),
+- forordning [(EU) 2017/2330](eu/32017r2330*) (endret ved forordning [(EU) 2019/230](eu/32019r0230) og forordning [(EU) 2022/1457](eu/32022r1457)),
+- forordning [(EU) 2017/2274](eu/32017r2274),
+- forordning [(EU) 2017/2275](eu/32017r2275),
+- forordning [(EU) 2017/2299](eu/32017r2299),
+- forordning [(EU) 2017/2308](eu/32017r2308) (endret ved forordning [(EU) 2023/2647](eu/32023r2647)),
+- forordning [(EU) 2017/2312](eu/32017r2312) (endret ved forordning [(EU) 2020/146](eu/32020r0146)),
+- forordning [(EU) 2017/2325](eu/32017r2325) (endret ved forordning [(EU) 2018/1980](eu/32018r1980)),
+- forordning [(EU) 2018/238](eu/32018r0238),
+- forordning [(EU) 2018/239](eu/32018r0239),
+- forordning [(EU) 2018/240](eu/32018r0240),
+- forordning [(EU) 2018/241](eu/32018r0241),
+- forordning [(EU) 2018/242](eu/32018r0242),
+- forordning [(EU) 2018/243](eu/32018r0243),
+- forordning [(EU) 2018/244](eu/32018r0244),
+- forordning [(EU) 2018/245](eu/32018r0245) (endret ved forordning [(EU) 2024/1989](eu/32024r1989)),
+- forordning [(EU) 2018/246](eu/32018r0246),
+- forordning [(EU) 2018/247](eu/32018r0247),
+- forordning [(EU) 2018/248](eu/32018r0248),
+- forordning [(EU) 2018/249](eu/32018r0249) (endret ved forordning [(EU) 2018/1567](eu/32018r1567)),
+- forordning [(EU) 2018/250](eu/32018r0250),
+- forordning [(EU) 2018/129](eu/32018r0129),
+- forordning [(EU) 2018/130](eu/32018r0130),
+- forordning [(EU) 2018/183](eu/32018r0183),
+- forordning [(EU) 2018/328](eu/32018r0328),
+- forordning [(EU) 2018/346](eu/32018r0346),
+- forordning [(EU) 2018/338](eu/32018r0338) (endret ved forordning [(EU) 2019/1290](eu/32019r1290)),
+- forordning [(EU) 2018/347](eu/32018r0347),
+- forordning [(EU) 2018/353](eu/32018r0353),
+- forordning [(EU) 2015/861](eu/32015r0861),
+- forordning [(EU) 2015/104](eu/32015r0104*),
+- forordning [(EU) nr. 159/2013](eu/32013r0159),
+- forordning [(EU) 2018/982](eu/32018r0982) (endret ved forordning [(EU) 2022/268](eu/32022r0268) og forordning [(EU) 2023/1171](eu/32023r1171)),
+- forordning [(EU) 2018/983](eu/32018r0983),
+- forordning [(EU) 2018/1039](eu/32018r1039) (endret ved forordning [(EU) 2022/1445](eu/32022r1445)),
+- forordning [(EU) 2018/1550](eu/32018r1550),
+- forordning [(EU) 2018/1568](eu/32018r1568),
+- forordning [(EU) 2018/1566](eu/32018r1566*),
+- forordning [(EU) 2019/8](eu/32019r0008),
+- forordning [(EU) 2019/9](eu/32019r0009),
+- forordning [(EU) 2019/10](eu/32019r0010),
+- forordning [(EU) 2019/12](eu/32019r0012),
+- forordning [(EU) 2018/1079](eu/32018r1079),
+- forordning [(EU) 2018/1080](eu/32018r1080),
+- forordning [(EU) 2018/1081](eu/32018r1081) (endret ved forordning [(EU) 2020/146](eu/32020r0146)),
+- forordning [(EU) 2018/1090](eu/32018r1090) (endret ved forordning [(EU) 2025/2556](eu/32025r2556)),
+- forordning [(EU) 2018/1533](eu/32018r1533),
+- forordning [(EU) 2018/1543](eu/32018r1543),
+- forordning [(EU) 2018/1559](eu/32018r1559),
+- forordning [(EU) 2018/1558](eu/32018r1558),
+- forordning [(EU) 2018/1564](eu/32018r1564)
+- forordning [(EU) 2018/1565](eu/32018r1565*),
+- forordning [(EU) 2019/49](eu/32019r0049),
+- forordning [(EU) 2019/138](eu/32019r0138),
+- forordning [(EU) 2019/111](eu/32019r0111),
+- forordning [(EU) 2019/144](eu/32019r0144),
+- forordning [(EU) 2019/454](eu/32019r0454),
+- forordning [(EU) 2019/781](eu/32019r0781),
+- forordning [(EU) 2019/857](eu/32019r0857),
+- forordning [(EU) 2019/892](eu/32019r0892),
+- forordning [(EU) 2019/898](eu/32019r0898),
+- forordning [(EU) 2019/899](eu/32019r0899),
+- forordning [(EU) 2019/900](eu/32019r0900),
+- forordning [(EU) 2019/901](eu/32019r0901) (endret ved forordning [(EU) 2025/182](eu/32025r0182)),
+- forordning [(EU) 2019/913](eu/32019r0913) (endret ved forordning [(EU) 2025/647](eu/32025r0647)),
+- forordning [(EU) 2019/914](eu/32019r0914),
+- forordning [(EU) 2019/929](eu/32019r0929),
+- forordning [(EU) 2019/804](eu/32019r0804) (endret ved forordning [(EU) 2022/1459](eu/32022r1459)),
+- forordning [(EU) 2019/805](eu/32019r0805) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
+- forordning [(EU) 2019/1125](eu/32019r1125),
+- forordning [(EU) 2019/1289](eu/32019r1289),
+- forordning [(EU) 2019/894](eu/32019r0894),
+- forordning [(EU) 2019/1313](eu/32019r1313),
+- forordning [(EU) 2019/1315](eu/32019r1315),
+- forordning [(EU) 2019/1324](eu/32019r1324),
+- forordning [(EU) 2020/106](eu/32020r0106),
+- forordning [(EU) 2020/107](eu/32020r0107),
+- forordning [(EU) 2019/1947](eu/32019r1947),
+- forordning [(EU) 2019/1964](eu/32019r1964),
+- forordning [(EU) 2019/1965](eu/32019r1965),
+- forordning [(EU) 2019/1977](eu/32019r1977),
+- forordning [(EU) 2020/147](eu/32020r0147),
+- forordning [(EU) 2020/196](eu/32020r0196),
+- forordning [(EU) 2020/197](eu/32020r0197),
+- forordning [(EU) 2020/228](eu/32020r0228),
+- forordning [(EU) 2020/229](eu/32020r0229),
+- forordning [(EU) 2020/238](eu/32020r0238),
+- forordning [(EU) 2020/376](eu/32020r0376),
+- forordning [(EU) 2020/377](eu/32020r0377),
+- forordning [(EU) 2020/378](eu/32020r0378),
+- forordning [(EU) 2020/993](eu/32020r0993),
+- forordning [(EU) 2020/996](eu/32020r0996) (endret ved forordning [(EU) 2023/1168](eu/32023r1168)),
+- forordning [(EU) 2020/997](eu/32020r0997) (endret ved forordning [(EU) 2025/1395](eu/32025r1395)),
+- forordning [(EU) 2020/998](eu/32020r0998),
+- forordning [(EU) 2020/1031](eu/32020r1031),
+- forordning [(EU) 2020/1032](eu/32020r1032),
+- forordning [(EU) 2020/149](eu/32020r0149) (endret ved forordning [(EU) 2025/1426](eu/32025r1426)),
+- forordning [(EU) 2020/150](eu/32020r0150),
+- forordning [(EU) 2020/151](eu/32020r0151),
+- forordning [(EU) 2020/157](eu/32020r0157),
+- forordning [(EU) 2020/159](eu/32020r0159),
+- forordning [(EU) 2020/160](eu/32020r0160),
+- forordning [(EU) 2020/161](eu/32020r0161),
+- forordning [(EU) 2020/162](eu/32020r0162),
+- forordning [(EU) 2020/163](eu/32020r0163) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
+- forordning [(EU) 2020/164](eu/32020r0164) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),
+- forordning [(EU) 2020/165](eu/32020r0165),
+- forordning [(EU) 2020/166](eu/32020r0166) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),
+- forordning [(EU) 2020/172](eu/32020r0172),
+- forordning [(EU) 2020/173](eu/32020r0173),
+- forordning [(EU) 2020/180](eu/32020r0180),
+- forordning [(EU) 2020/992](eu/32020r0992),
+- forordning [(EU) 2020/1033](eu/32020r1033),
+- forordning [(EU) 2020/1090](eu/32020r1090),
+- forordning [(EU) 2020/1091](eu/32020r1091),
+- forordning [(EU) 2020/1092](eu/32020r1092),
+- forordning [(EU) 2020/1094](eu/32020r1094),
+- forordning [(EU) 2020/1095](eu/32020r1095),
+- forordning [(EU) 2020/1096](eu/32020r1096),
+- forordning [(EU) 2020/1097](eu/32020r1097) (endret ved forordning [(EU) 2021/420](eu/32021r0420)),
+- forordning [(EU) 2020/1098](eu/32020r1098),
+- forordning [(EU) 2020/1175](eu/32020r1175),
+- forordning [(EU) 2020/1363](eu/32020r1363),
+- forordning [(EU) 2020/1370](eu/32020r1370),
+- forordning [(EU) 2020/1371](eu/32020r1371),
+- forordning [(EU) 2020/1372](eu/32020r1372),
+- forordning [(EU) 2020/1374](eu/32020r1374),
+- forordning [(EU) 2020/1375](eu/32020r1375),
+- forordning [(EU) 2020/1376](eu/32020r1376),
+- forordning [(EU) 2020/1377](eu/32020r1377),
+- forordning [(EU) 2020/1378](eu/32020r1378),
+- forordning [(EU) 2020/1395](eu/32020r1395) (endret ved forordning [(EU) 2021/733](eu/32021r0733)),
+- forordning [(EU) 2020/1396](eu/32020r1396),
+- forordning [(EU) 2020/1397](eu/32020r1397),
+- forordning [(EU) 2020/1398](eu/32020r1398),
+- forordning [(EU) 2020/1399](eu/32020r1399),
+- forordning [(EU) 2020/1400](eu/32020r1400),
+- forordning [(EU) 2020/1418](eu/32020r1418),
+- forordning [(EU) 2020/1497](eu/32020r1497),
+- forordning [(EU) 2020/1510](eu/32020r1510),
+- forordning [(EU) 2020/1373](eu/32020r1373),
+- forordning [(EU) 2020/1379](eu/32020r1379)
+- forordning [(EU) 2020/1755](eu/32020r1755) (endret ved forordning [(EU) 2024/1054](eu/32024r1054)),
+- forordning [(EU) 2020/1760](eu/32020r1760) (endret ved forordning [(EU) 2022/271](eu/32022r0271)),
+- forordning [(EU) 2020/1761](eu/32020r1761),
+- forordning [(EU) 2020/1762](eu/32020r1762) (endret ved forordning [(EU) 2024/754](eu/32024r0754) og forordning [(EU) 2025/2576](eu/32025r2576)),
+- forordning [(EU) 2020/1764](eu/32020r1764),
+- forordning [(EU) 2020/1795](eu/32020r1795),
+- forordning [(EU) 2020/1796](eu/32020r1796),
+- forordning [(EU) 2020/1797](eu/32020r1797),
+- forordning [(EU) 2020/1798](eu/32020r1798),
+- forordning [(EU) 2020/1799](eu/32020r1799),
+- forordning [(EU) 2020/1800](eu/32020r1800),
+- forordning [(EU) 2020/2116](eu/32020r2116),
+- forordning [(EU) 2020/2117](eu/32020r2117),
+- forordning [(EU) 2020/2118](eu/32020r2118),
+- forordning [(EU) 2020/2119](eu/32020r2119),
+- forordning [(EU) 2020/2120](eu/32020r2120),
+- forordning [(EU) 2020/2121](eu/32020r2121),
+- forordning [(EU) 2021/329](eu/32021r0329),
+- forordning [(EU) 2021/330](eu/32021r0330),
+- forordning [(EU) 2021/343](eu/32021r0343),
+- forordning [(EU) 2021/344](eu/32021r0344),
+- forordning [(EU) 2021/346](eu/32021r0346),
+- forordning [(EU) 2021/363](eu/32021r0363),
+- forordning [(EU) 2021/367](eu/32021r0367),
+- forordning [(EU) 2021/421](eu/32021r0421) (endret ved forordning [(EU) 2022/385](eu/32022r0385) og forordning [(EU) 2022/1442](eu/32022r1442)),
+- forordning [(EU) 2021/422](eu/32021r0422),
+- forordning [(EU) 2021/485](eu/32021r0485) (endret ved forordning [(EU) 2022/385](eu/32022r0385)),
+- forordning [(EU) 2021/505](eu/32021r0505),
+- forordning [(EU) 2021/506](eu/32021r0506),
+- forordning [(EU) 2021/507](eu/32021r0507),
+- forordning [(EU) 2021/508](eu/32021r0508),
+- forordning [(EU) 2021/551](eu/32021r0551) (endret ved forordning [(EU) 2022/385](eu/32022r0385)),
+- forordning [(EU) 2021/658](eu/32021r0658),
+- forordning [(EU) 2021/669](eu/32021r0669),
+- forordning [(EU) 2021/709](eu/32021r0709),
+- forordning [(EU) 2021/719](eu/32021r0719),
+- forordning [(EU) 2021/967](eu/32021r0967),
+- forordning [(EU) 2021/968](eu/32021r0968),
+- forordning [(EU) 2021/969](eu/32021r0969),
+- forordning [(EU) 2021/981](eu/32021r0981),
+- forordning [(EU) 2021/982](eu/32021r0982) (endret ved forordning [(EU) 2025/316](eu/32025r0316)),
+- forordning [(EU) 2021/1409](eu/32021r1409),
+- forordning [(EU) 2021/1410](eu/32021r1410) (endret ved forordning [(EU) 2022/270](eu/32022r0270)),
+- forordning [(EU) 2021/1411](eu/32021r1411),
+- forordning [(EU) 2021/1412](eu/32021r1412),
+- forordning [(EU) 2021/1413](eu/32021r1413),
+- forordning [(EU) 2021/1414](eu/32021r1414),
+- forordning [(EU) 2021/1424](eu/32021r1424),
+- forordning [(EU) 2021/1425](eu/32021r1425),
+- forordning [(EU) 2021/1431](eu/32021r1431) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
+- forordning [(EU) 2021/2051](eu/32021r2051) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),
+- forordning [(EU) 2021/2080](eu/32021r2080),
+- forordning [(EU) 2021/1426](eu/32021r1426) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
+- forordning [(EU) 2021/2050](eu/32021r2050),
+- forordning [(EU) 2021/2077](eu/32021r2077),
+- forordning [(EU) 2021/2093](eu/32021r2093),
+- forordning [(EU) 2021/2096](eu/32021r2096) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),
+- forordning [(EU) 2021/2097](eu/32021r2097) (endret ved forordning [(EU) 2023/1171](eu/32023r1171)),
+- forordning [(EU) 2021/2076](eu/32021r2076),
+- forordning [(EU) 2021/2092](eu/32021r2092)
+- forordning [(EU) 2021/2095](eu/32021r2095),
+- forordning [(EU) 2022/272](eu/32022r0272),
+- forordning [(EU) 2022/273](eu/32022r0273),
+- forordning [(EU) 2022/320](eu/32022r0320) (endret ved forordning [(EU) 2024/239](eu/32024r0239)),
+- forordning [(EU) 2022/347](eu/32022r0347),
+- forordning [(EU) 2022/415](eu/32022r0415) (endret ved forordning [(EU) 2025/187](eu/32025r0187)),
+- forordning [(EU) 2022/537](eu/32022r0537),
+- forordning [(EU) 2022/538](eu/32022r0538),
+- forordning [(EU) 2022/593](eu/32022r0593),
+- forordning [(EU) 2022/633](eu/32022r0633),
+- forordning [(EU) 2022/652](eu/32022r0652) (endret ved forordning [(EU) 2023/54](eu/32023r0054) og forordning [(EU) 2024/239](eu/32024r0239)),
+- forordning [(EU) 2022/653](eu/32022r0653),
+- forordning [(EU) 2022/654](eu/32022r0654),
+- forordning [(EU) 2022/702](eu/32022r0702),
+- forordning [(EU) 2022/703](eu/32022r0703),
+- forordning [(EU) 2022/565](eu/32022r0565) (endret ved forordning [(EU) 2026/98](eu/32026r0098)),
+- forordning [(EU) 2022/1247](eu/32022r1247),
+- forordning [(EU) 2022/1249](eu/32022r1249),
+- forordning [(EU) 2022/1250](eu/32022r1250),
+- forordning [(EU) 2022/1266](eu/32022r1266),
+- forordning [(EU) 2022/1374](eu/32022r1374),
+- forordning [(EU) 2022/1382](eu/32022r1382),
+- forordning [(EU) 2022/1383](eu/32022r1383),
+- forordning [(EU) 2022/1248](eu/32022r1248),
+- forordning [(EU) 2022/1451](eu/32022r1451),
+- forordning [(EU) 2022/1470](eu/32022r1470),
+- forordning [(EU) 2022/1412](eu/32022r1412) (endret ved forordning [(EU) 2023/257](eu/32023r0257)),
+- forordning [(EU) 2022/1417](eu/32022r1417),
+- forordning [(EU) 2022/1419](eu/32022r1419),
+- forordning [(EU) 2022/1420](eu/32022r1420),
+- forordning [(EU) 2022/1421](eu/32022r1421) (endret ved forordning [(EU) 2024/239](eu/32024r0239)),
+- forordning [(EU) 2022/1452](eu/32022r1452) (endret ved forordning [(EU) 2023/585](eu/32023r0585) og forordning [(EU) 2024/2179](eu/32024r2179)),
+- forordning [(EU) 2022/1453](eu/32022r1453),
+- forordning [(EU) 2022/1490](eu/32022r1490) (endret ved forordning [(EU) 2024/239](eu/32024r0239)),
+- forordning [(EU) 2022/1493](eu/32022r1493) (endret ved forordning [(EU) 2023/584](eu/32023r0584)),
+- forordning [(EU) 2022/1469](eu/32022r1469),
+- forordning [(EU) 2022/1471](eu/32022r1471) (endret ved forordning [(EU) 2025/647](eu/32025r0647)),
+- forordning [(EU) 2022/1472](eu/32022r1472),
+- forordning [(EU) 2022/1492](eu/32022r1492),
+- forordning [(EU) 2022/1525](eu/32022r1525),
+- forordning [(EU) 2023/8](eu/32023r0008),
+- forordning [(EU) 2023/341](eu/32023r0341),
+- forordning [(EU) 2023/53](eu/32023r0053),
+- forordning [(EU) 2023/59](eu/32023r0059),
+- forordning [(EU) 2023/60](eu/32023r0060),
+- forordning [(EU) 2023/61](eu/32023r0061),
+- forordning [(EU) 2023/366](eu/32023r0366) (endret ved forordning [(EU) 2024/3166](eu/32024r3166)),
+- forordning [(EU) 2023/565](eu/32023r0565),
+- forordning [(EU) 2023/605](eu/32023r0605),
+- forordning [(EU) 2023/649](eu/32023r0649),
+- forordning [(EU) 2023/650](eu/32023r0650),
+- forordning [(EU) 2023/651](eu/32023r0651),
+- forordning [(EU) 2023/668](eu/32023r0668),
+- forordning [(EU) 2023/669](eu/32023r0669),
+- forordning [(EU) 2023/255](eu/32023r0255),
+- forordning [(EU) 2023/256](eu/32023r0256),
+- forordning [(EU) 2023/263](eu/32023r0263) (endret ved forordning [(EU) 2026/154](eu/32026r0154)),
+- forordning [(EU) 2023/907](eu/32023r0907),
+- forordning [(EU) 2023/1163](eu/32023r1163),
+- forordning [(EU) 2023/1167](eu/32023r1167) (endret ved forordning [(EU) 2024/2183](eu/32024r2183))
+- forordning [(EU) 2023/1169](eu/32023r1169),
+- forordning [(EU) 2023/1170](eu/32023r1170),
+- forordning [(EU) 2023/1172](eu/32023r1172) (endret ved forordning [(EU) 2025/1419](eu/32025r1419)),
+- forordning [(EU) 2023/1333](eu/32023r1333) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
+- forordning [(EU) 2023/1698](eu/32023r1698),
+- forordning [(EU) 2023/1699](eu/32023r1699),
+- forordning [(EU) 2023/1703](eu/32023r1703) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),
+- forordning [(EU) 2023/1704](eu/32023r1704),
+- forordning [(EU) 2023/1705](eu/32023r1705),
+- forordning [(EU) 2023/1707](eu/32023r1707),
+- forordning [(EU) 2023/1708](eu/32023r1708),
+- forordning [(EU) 2023/1709](eu/32023r1709),
+- forordning [(EU) 2023/1710](eu/32023r1710),
+- forordning [(EU) 2023/1711](eu/32023r1711),
+- forordning [(EU) 2023/1713](eu/32023r1713) (endret ved forordning [(EU) 2024/2183](eu/32024r2183)),
+- forordning [(EU) 2023/1332](eu/32023r1332) (endret ved forordning [(EU) 2025/316](eu/32025r0316)),
+- forordning [(EU) 2023/1341](eu/32023r1341),
+- forordning [(EU) 2023/1342](eu/32023r1342) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
+- forordning [(EU) 2023/1405](eu/32023r1405),
+- forordning [(EU) nr. 2023/1416](eu/32023r1416),
+- forordning [(EU) 2023/1417](eu/32023r1417),
+- forordning [(EU) 2023/1443](eu/32023r1443),
+- forordning [(EU) 2023/1455](eu/32023r1455),
+- forordning [(EU) 2023/1682](eu/32023r1682),
+- forordning [(EU) 2023/1712](eu/32023r1712),
+- forordning [(EU) 2023/2583](eu/32023r2583),
+- forordning [(EU) 2023/2628](eu/32023r2628) (endret ved forordning [(EU) 2025/2505](eu/32025r2505)),
+- forordning [(EU) 2023/2632](eu/32023r2632),
+- forordning [(EU) 2023/2644](eu/32023r2644),
+- forordning [(EU) 2023/2645](eu/32023r2645),
+- forordning [(EU) 2023/2646](eu/32023r2646),
+- forordning [(EU) 2023/2647](eu/32023r2647),
+- forordning [(EU) 2023/1333](eu/32023r1333),
+- forordning [(EU) 2023/2732](eu/32023r2732),
+- forordning [(EU) 2023/2734](eu/32023r2734),
+- forordning [(EU) 2023/2736](eu/32023r2736),
+- forordning [(EU) 2023/2802](eu/32023r2802),
+- forordning [(EU) 2023/2846](eu/32023r2846) (endret ved forordning [(EU) 2024/1839](eu/32024r1839)),
+- forordning [(EU) 2023/2850](eu/32023r2850),
+- forordning [(EU) 2024/220](eu/32024r0220),
+- forordning [(EU) 2024/221](eu/32024r0221) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
+- forordning [(EU) 2024/228](eu/32024r0228),
+- forordning [(EU) 2024/251](eu/32024r0251),
+- forordning [(EU) 2024/252](eu/32024r0252),
+- forordning [(EU) 2024/260](eu/32024r0260),
+- forordning [(EU) 2024/261](eu/32024r0261),
+- forordning [(EU) 2024/262](eu/32024r0262),
+- forordning [(EU) 2024/265](eu/32024r0265),
+- forordning [(EU) 2024/285](eu/32024r0285),
+- forordning [(EU) 2024/750](eu/32024r0750),
+- forordning [(EU) 2024/763](eu/32024r0763),
+- forordning [(EU) 2024/764](eu/32024r0764),
+- forordning [(EU) 2024/749](eu/32024r0749),
+- forordning [(EU) 2024/762](eu/32024r0762),
+- forordning [(EU) 2024/777](eu/32024r0777),
+- forordning [(EU) 2024/778](eu/32024r0778) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
+- forordning [(EU) 2024/780](eu/32024r0780),
+- forordning [(EU) 2024/781](eu/32024r0781),
+- forordning [(EU) 2024/786](eu/32024r0786),
+- forordning [(EU) 2024/794](eu/32024r0794),
+- forordning [(EU) 2024/806](eu/32024r0806),
+- forordning [(EU) 2024/824](eu/32024r0824),
+- forordning [(EU) 2024/980](eu/32024r0980),
+- forordning [(EU) 2024/997](eu/32024r0997),
+- forordning [(EU) 2024/1055](eu/32024r1055),
+- forordning [(EU) 2024/1056](eu/32024r1056),
+- forordning [(EU) 2024/1057](eu/32024r1057),
+- forordning [(EU) 2024/1058](eu/32024r1058) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
+- forordning [(EU) 2024/1068](eu/32024r1068),
+- forordning [(EU) 2024/1070](eu/32024r1070) (endret ved forordning [(EU) 2024/2040](eu/32024r2040)),
+- forordning [(EU) 2024/1104](eu/32024r1104),
+- forordning [(EU) 2024/1161](eu/32024r1161),
+- forordning [(EU) 2024/1185](eu/32024r1185),
+- forordning [(EU) 2024/1186](eu/32024r1186) (endret ved forordning [(EU) 2025/2046](eu/32025r2046)),
+- forordning [(EU) 2024/1187](eu/32024r1187),
+- forordning [(EU) 2024/1189](eu/32024r1189),
+- forordning [(EU) 2024/1190](eu/32024r1190),
+- forordning [(EU) 2024/1193](eu/32024r1193),
+- forordning [(EU) 2024/1194](eu/32024r1194),
+- forordning [(EU) 2024/1195](eu/32024r1195),
+- forordning [(EU) 2024/1196](eu/32024r1196),
+- forordning [(EU) 2024/1199](eu/32024r1199),
+- forordning [(EU) 2024/1200](eu/32024r1200),
+- forordning [(EU) 2024/1325](eu/32024r1325),
+- forordning [(EU) 2024/1179](eu/32024r1179),
+- forordning [(EU) 2024/1685](eu/32024r1685),
+- forordning [(EU) 2024/1723](eu/32024r1723),
+- forordning [(EU) 2024/1730](eu/32024r1730),
+- forordning [(EU) 2024/1743](eu/32024r1743),
+- forordning [(EU) 2024/1750](eu/32024r1750),
+- forordning [(EU) 2024/1755](eu/32024r1755),
+- forordning [(EU) 2024/1757](eu/32024r1757),
+- forordning [(EU) 2024/1786](eu/32024r1786),
+- forordning [(EU) 2024/1810](eu/32024r1810),
+- forordning [(EU) 2024/1989](eu/32024r1989),
+- forordning [(EU) 2024/2177](eu/32024r2177),
+- forordning [(EU) 2024/2180](eu/32024r2180),
+- forordning [(EU) 2024/2184](eu/32024r2184),
+- forordning [(EU) 2024/2185](eu/32024r2185),
+- forordning [(EU) 2024/2385](eu/32024r2385),
+- forordning [(EU) 2024/2388](eu/32024r2388),
+- forordning [(EU) 2024/2394](eu/32024r2394),
+- forordning [(EU) 2024/2393](eu/32024r2393) (endret ved forordning [(EU) 2025/181](eu/32025r0181)),
+- forordning [(EU) 2024/2412](eu/32024r2412),
+- forordning [(EU) 2024/2414](eu/32024r2414),
+- forordning [(EU) 2024/2427](eu/32024r2427),
+- forordning [(EU) 2024/2441](eu/32024r2441),
+- forordning [(EU) 2024/2464](eu/32024r2464),
+- forordning [(EU) 2024/3162](eu/32024r3162),
+- forordning [(EU) 2024/3166](eu/32024r3166),
+- forordning [(EU) 2024/3167](eu/32024r3167),
+- forordning [(EU) 2024/3168](eu/32024r3168),
+- forordning [(EU) 2025/142](eu/32025r0142),
+- forordning [(EU) 2025/143](eu/32025r0143),
+- forordning [(EU) 2025/148](eu/32025r0148),
+- forordning [(EU) 2025/151](eu/32025r0151),
+- forordning [(EU) 2025/152](eu/32025r0152),
+- forordning [(EU) 2025/154](eu/32025r0154),
+- forordning [(EU) 2025/157](eu/32025r0157),
+- forordning [(EU) 2025/159](eu/32025r0159),
+- forordning [(EU) 2025/160](eu/32025r0160),
+- forordning [(EU) 2025/161](eu/32025r0161) (endret ved forordning [(EU) 2026/180](eu/32026r0180)),
+- forordning [(EU) 2025/168](eu/32025r0168),
+- forordning [(EU) 2025/169](eu/32025r0169),
+- forordning [(EU) 2025/188](eu/32025r0188),
+- forordning [(EU) 2025/193](eu/32025r0193),
+- forordning [(EU) 2025/314](eu/32025r0314),
+- forordning [(EU) 2025/364](eu/32025r0364),
+- forordning [(EU) 2025/272](eu/32025r0272),
+- forordning [(EU) 2025/273](eu/32025r0273),
+- forordning [(EU) 2025/275](eu/32025r0275),
+- forordning [(EU) 2025/276](eu/32025r0276),
+- forordning ([EU 2025/277](eu/32025r0277),
+- forordning [(EU) 2025/278](eu/32025r0278),
+- forordning ([EU 2025/279](eu/32025r0279),
+- forordning [(EU) 2025/281](eu/32025r0281),
+- forordning [(EU) 2025/284](eu/32025r0284)
+- forordning [(EU) 2025/313](eu/32025r0313),
+- forordning [(EU) 2025/353](eu/32025r0353),
+- forordning [(EU) 2025/359](eu/32025r0359),
+- forordning [(EU) 2025/630](eu/32025r0630),
+- forordning [(EU) 2025/634](eu/32025r0634),
+- forordning [(EU) 2025/708](eu/32025r0708),
+- forordning [(EU) 2025/711](eu/32025r0711),
+- forordning [(EU) 2025/714](eu/32025r0714),
+- forordning [(EU) 2025/720](eu/32025r0720),
+- forordning [(EU) 2025/752](eu/32025r0752),
+- forordning [(EU) 2025/756](eu/32025r0756),
+- forordning [(EU) 2025/757](eu/32025r0757),
+- forordning [(EU) 2025/1386](eu/32025r1386),
+- forordning [(EU) 2025/1390](eu/32025r1390),
+- forordning [(EU) 2025/1392](eu/32025r1392),
+- forordning [(EU) 2025/1395](eu/32025r1395),
+- forordning [(EU) 2025/1400](eu/32025r1400),
+- forordning [(EU) 2025/1402](eu/32025r1402),
+- forordning [(EU) 2025/1403](eu/32025r1403) (endret ved forordning [(EU) 2026/516](eu/32026r0516)),
+- forordning [(EU) 2025/1417](eu/32025r1417),
+- forordning [(EU) 2025/1418](eu/32025r1418),
+- forordning [(EU) 2025/1424](eu/32025r1424),
+- forordning [(EU) 2025/1426](eu/32025r1426),
+- forordning [(EU) 2025/1465](eu/32025r1465),
+- forordning [(EU) 2025/1468](eu/32025r1468),
+- forordning [(EU) 2025/1504](eu/32025r1504),
+- forordning [(EU) 2025/1523](eu/32025r1523),
+- forordning [(EU) 2025/1527](eu/32025r1527),
+- forordning [(EU) 2025/1915](eu/32025r1915),
+- forordning [(EU) 2025/1928](eu/32025r1928),
+- forordning [(EU) 2025/1254](eu/32025r1254),
+- forordning [(EU) 2025/1776](eu/32025r1776),
+- forordning [(EU) 2025/1782](eu/32025r1782),
+- forordning [(EU) 2025/1784](eu/32025r1784),
+- forordning [(EU) 2025/1787](eu/32025r1787),
+- forordning [(EU) 2025/1795](eu/32025r1795),
+- forordning [(EU) 2025/2171](eu/32025r2171),
+- forordning [(EU) 2025/2175](eu/32025r2175),
+- forordning [(EU) 2025/2183](eu/32025r2183),
+- forordning [(EU) 2025/2186](eu/32025r2186),
+- forordning [(EU) 2025/2176](eu/32025r2176),
+- forordning [(EU) 2025/2491](eu/32025r2491),
+- forordning [(EU) 2025/2497](eu/32025r2497),
+- forordning [(EU) 2025/2500](eu/32025r2500),
+- forordning [(EU) 2025/2502](eu/32025r2502),
+- forordning [(EU) 2025/2503](eu/32025r2503),
+- forordning [(EU) 2025/2505](eu/32025r2505),
+- forordning [(EU) 2025/2511](eu/32025r2511),
+- forordning [(EU) 2025/2513](eu/32025r2513),
+- forordning [(EU) 2025/2498](eu/32025r2498),
+- forordning [(EU) 2025/2556](eu/32025r2556),
+- forordning [(EU) 2025/2566](eu/32025r2566),
+- forordning [(EU) 2025/2576](eu/32025r2576),
+- forordning [(EU) 2025/2590](eu/32025r2590),
+- forordning [(EU) 2026/85](eu/32026r0085),
+- forordning [(EU) 2026/90](eu/32026r0090),
+- forordning [(EU) 2026/91](eu/32026r0091),
+- forordning [(EU) 2026/92](eu/32026r0092),
+- forordning [(EU) 2026/93](eu/32026r0093),
+- forordning [(EU) 2026/96](eu/32026r0096),
+- forordning [(EU) 2026/103](eu/32026r0103),
+- forordning [(EU) 2026/108](eu/32026r0108),
+- forordning [(EU) 2026/154](eu/32026r0154),
+- forordning [(EU) 2026/155](eu/32026r0155),
+- forordning [(EU) 2026/164](eu/32026r0164),
+- forordning [(EU) 2026/167](eu/32026r0167),
+- forordning [(EU) 2026/168](eu/32026r0168),
+- forordning [(EU) 2026/171](eu/32026r0171),
+- forordning [(EU) 2026/178](eu/32026r0178),
+- forordning [(EU) 2026/348](eu/32026r0348),
+- forordning [(EU) 2026/352](eu/32026r0352),
+- forordning [(EU) 2026/353](eu/32026r0353),
+- forordning [(EU) 2026/356](eu/32026r0356).
+- forordning [(EU) 2026/402](eu/32026r0402),
+- forordning [(EU) 2026/404](eu/32026r0404),
+- forordning [(EU) 2026/460](eu/32026r0460),
+- forordning [(EU) 2026/528](eu/32026r0528),
+- forordning [(EU) 2026/532](eu/32026r0532),
+- forordning [(EU) 2026/534](eu/32026r0534),
+- forordning [(EU) 2026/538](eu/32026r0538),
+- forordning [(EU) 2026/540](eu/32026r0540),
+- forordning [(EU) 2024/1054](eu/32024r1054) og
+- forordning [(EU) 2026/549](eu/32026r0549)
+
+gjelder som forskrift med de tilpasninger som følger av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
 
 Godkjente fôrtilsetningsstoffer etter direktiv [70/524/EØF](eu/31970l0524), som er gitt uten tidsbegrensning og er i påvente av ny godkjenning etter forordning [(EF) nr. 1831/2003](eu/32003r1831), gjelder inntil videre med de endringer som følger av forordning [(EU) 2021/758](eu/32021r0758), forordning [(EU) 2021/2090](eu/32021r2090), forordning [(EU) 2023/1173](eu/32023r1173) og forordning [(EU) 2024/1727](eu/32024r1727), forordning [(EU) 2024/2039](eu/32024r2039), forordning [(EU) 2025/2575](eu/32025r2575), forordning [(EU) 2026/95](eu/32026r0095) og forordning [(EU) 2026/96](eu/32026r0096). Forordningene gjelder som forskrift med de tilpasninger som følger av vedlegg I, kapittel II, protokoll 1 til avtalen og [EØS-avtalen](lov/1992-11-27-109/eøsl) for øvrig.
 
@@ -52,7 +765,13 @@ Fôrtilsetningsstoffer, tillatt brukt i fôrvare, er tatt inn i EU's register ov
 
 ## § 3a. Koksidiostatika og kopper
 
-Norge har unntak i EØS-avtalen for visse typer av koksidiostatika. Det er kun følgende koksidiostatika som er tillatt brukt i Norge:NarasinLasalocidSalinomycinMonensin ogMaduramycin.
+Norge har unntak i EØS-avtalen for visse typer av koksidiostatika. Det er kun følgende koksidiostatika som er tillatt brukt i Norge:
+
+1. Narasin
+2. Lasalocid
+3. Salinomycin
+4. Monensin og
+5. Maduramycin.
 
 For bruk av kopper i fôr til smågris er høyeste tillatt innhold på 35 mg kopper/kg fullfôr med vanninnhold på 12 %.
 
@@ -60,7 +779,12 @@ For bruk av kopper i fôr til smågris er høyeste tillatt innhold på 35 mg kop
 
 ## § 3b. Søknad om godkjenning
 
-Ved søknad om godkjenning av et tilsetningsstoff eller søknad om ny anvendelse av et tilsetningsstoff gjelder [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1) kapittel II med følgende forordninger:forordning [(EF) nr. 378/2005](eu/32005r0378) (endret ved forordning [(EF) nr. 850/2007](eu/32007r0850), forordning [(EF) nr. 885/2009](eu/32009r0885) og forordning [(EU) 2015/1761](eu/32015r1761)) ogforordning [(EF) nr. 429/2008](eu/32008r0429) (endret ved forordning [(EU) 2020/1773](eu/32020r1773))som forskrift med de tilpasninger som følger av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
+Ved søknad om godkjenning av et tilsetningsstoff eller søknad om ny anvendelse av et tilsetningsstoff gjelder [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1) kapittel II med følgende forordninger:
+
+- forordning [(EF) nr. 378/2005](eu/32005r0378) (endret ved forordning [(EF) nr. 850/2007](eu/32007r0850), forordning [(EF) nr. 885/2009](eu/32009r0885) og forordning [(EU) 2015/1761](eu/32015r1761)) og
+- forordning [(EF) nr. 429/2008](eu/32008r0429) (endret ved forordning [(EU) 2020/1773](eu/32020r1773))
+
+som forskrift med de tilpasninger som følger av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
 
 > Tilføyd ved [forskrift 23 jan 2006 nr. 81](forskrift/2006-01-23-81), endret ved [forskrifter 6 juni 2008 nr. 927](forskrift/2008-06-06-927), [18 mars 2009 nr. 343](forskrift/2009-03-18-343), [5 april 2013 nr. 390](forskrift/2013-04-05-390), [22 feb 2016 nr. 214](forskrift/2016-02-22-214), [7 nov 2019 nr. 1483](forskrift/2019-11-07-1483) (tidligere § 3a), [17 nov 2022 nr. 1989](forskrift/2022-11-17-1989).
 
@@ -191,7 +915,10 @@ VIRKEOMRÅDE OG DEFINISJONER
 
 1\. Formålet med denne forordning er å opprette en fellesskapsframgangsmåte for godkjenning av omsetning og bruk av tilsetningsstoffer i fôrvarer, og å fastsette regler for overvåking og merking av tilsetningsstoffer i fôrvarer og premikser slik at et høyt beskyttelsesnivå skal kunne garanteres for menneskers helse og dyrs helse og velferd, for miljøet og brukernes og forbrukernes interesser når det gjelder tilsetningsstoffer i fôrvarer, samtidig som det sikres at det indre marked fungerer tilfredsstillende.
 
-2\. Denne forordning får ikke anvendelse på:tekniske hjelpestoffer,veterinærpreparater som definert i direktiv [2001/82/EF](eu/32001l0082),12 med unntak av koksidiostatika og histomonostatika som brukes som tilsetningsstoffer i fôrvarer.
+2\. Denne forordning får ikke anvendelse på:
+
+1. tekniske hjelpestoffer,
+2. veterinærpreparater som definert i direktiv [2001/82/EF](eu/32001l0082),12 med unntak av koksidiostatika og histomonostatika som brukes som tilsetningsstoffer i fôrvarer.
 
 12 EFT L 311 av 28.11.2001, s. 1.
 
@@ -199,18 +926,39 @@ VIRKEOMRÅDE OG DEFINISJONER
 
 1\. I denne forordning får definisjonene av «fôr», «fôrvarer», «fôrforetak», «driftsansvarlig for fôrforetak», «omsetning» og «sporbarhet» som fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178), anvendelse.
 
-2\. I denne forordning menes også med:«tilsetningsstoffer i fôrvarer»: stoffer, mikroorganismer eller preparater bortsett fra fôrmidler og premikser, som tilsettes bevisst i fôr eller vann for særlig å oppfylle én eller flere av funksjonene nevnt i artikkel 5 nr. 3,«fôrmidler»: produkter som definert i artikkel 2 bokstav a) i rådsdirektiv [96/25/EF](eu/31996l0025) av 29. april 1996 om markedsføring av fôrmidler, 13«fôrblandinger»: produkter som definert i artikkel 2 bokstav b) i direktiv [79/373/EØF](eu/31979l0373*),«tilskuddsfôr»: produkter som definert i artikkel 2 bokstav e) i direktiv [79/373/EØF](eu/31979l0373*),«premikser»: blandinger av tilsetningsstoffer i fôrvarer eller blandinger av ett eller flere tilsetningsstoffer i fôrvarer med fôrmidler eller vann som brukes som bærere, og som ikke er beregnet på direkte fôring,«dagsrasjon»: den samlede mengden fôrvarer beregnet ut fra et vanninnhold på 12 %, som et dyr av en bestemt art og aldersgruppe og med en bestemt ytelse trenger i gjennomsnitt for å få dekket sitt samlede dagsbehov,«fullfôr»: produkter som definert i artikkel 2 bokstav c) i rådsdirektiv [1999/29/EF](eu/31999l0029*) av 22. april 1999 om uønskede stoffer og produkter i fôrvarer,14«teknisk hjelpestoff»: alle stoffer som ikke inntas som en fôrvare i seg selv, og som brukes bevisst ved foredling av fôrvarer eller fôrmidler for å oppfylle et bestemt teknologisk formål ved behandlingen eller foredlingen, og som kan føre til en utilsiktet, men teknisk uunngåelig forekomst av restmengder eller derivater av disse i sluttproduktet, forutsatt at disse restmengdene ikke har noen skadevirkning på dyrs og menneskers helse eller på miljøet, og ikke har noen teknologisk innvirkning på det ferdige produktet,«antimikrobielle stoffer»: alle stoffer som framstilles enten syntetisk eller naturlig, og som brukes til å drepe eller hemme veksten av mikroorganismer, herunder bakterier, virus eller sopp, eller av parasitter, særlig protozoer,«antibiotikum»: antimikrobielle stoffer framstilt av eller avledet av en mikroorganisme, som dreper eller hemmer veksten av andre mikroorganismer,«koksidiostatika» og «histomonostatika»: stoffer som er beregnet på å drepe eller hemme protozoer,«grenseverdi for restmengder»: den øvre grensen for en restmengde som følge av bruken av et tilsetningsstoff i fôrvarer som Fellesskapet kan godta som lovlig tillatt eller anerkjenne som akseptabelt i eller på et næringsmiddel,«mikroorganismer»: kolonidannende mikroorganismer,«første gangs omsetning»: den første gangen et tilsetningsstoff bringes i omsetning etter at det er framstilt, import av et tilsetningsstoff, eller første gangs omsetning av et fôr hvor det inngår et tilsetningsstoff som ikke tidligere har vært brakt i omsetning.
+2\. I denne forordning menes også med:
+
+1. «tilsetningsstoffer i fôrvarer»: stoffer, mikroorganismer eller preparater bortsett fra fôrmidler og premikser, som tilsettes bevisst i fôr eller vann for særlig å oppfylle én eller flere av funksjonene nevnt i artikkel 5 nr. 3,
+2. «fôrmidler»: produkter som definert i artikkel 2 bokstav a) i rådsdirektiv [96/25/EF](eu/31996l0025) av 29. april 1996 om markedsføring av fôrmidler, 13
+3. «fôrblandinger»: produkter som definert i artikkel 2 bokstav b) i direktiv [79/373/EØF](eu/31979l0373*),
+4. «tilskuddsfôr»: produkter som definert i artikkel 2 bokstav e) i direktiv [79/373/EØF](eu/31979l0373*),
+5. «premikser»: blandinger av tilsetningsstoffer i fôrvarer eller blandinger av ett eller flere tilsetningsstoffer i fôrvarer med fôrmidler eller vann som brukes som bærere, og som ikke er beregnet på direkte fôring,
+6. «dagsrasjon»: den samlede mengden fôrvarer beregnet ut fra et vanninnhold på 12 %, som et dyr av en bestemt art og aldersgruppe og med en bestemt ytelse trenger i gjennomsnitt for å få dekket sitt samlede dagsbehov,
+7. «fullfôr»: produkter som definert i artikkel 2 bokstav c) i rådsdirektiv [1999/29/EF](eu/31999l0029*) av 22. april 1999 om uønskede stoffer og produkter i fôrvarer,14
+8. «teknisk hjelpestoff»: alle stoffer som ikke inntas som en fôrvare i seg selv, og som brukes bevisst ved foredling av fôrvarer eller fôrmidler for å oppfylle et bestemt teknologisk formål ved behandlingen eller foredlingen, og som kan føre til en utilsiktet, men teknisk uunngåelig forekomst av restmengder eller derivater av disse i sluttproduktet, forutsatt at disse restmengdene ikke har noen skadevirkning på dyrs og menneskers helse eller på miljøet, og ikke har noen teknologisk innvirkning på det ferdige produktet,
+9. «antimikrobielle stoffer»: alle stoffer som framstilles enten syntetisk eller naturlig, og som brukes til å drepe eller hemme veksten av mikroorganismer, herunder bakterier, virus eller sopp, eller av parasitter, særlig protozoer,
+10. «antibiotikum»: antimikrobielle stoffer framstilt av eller avledet av en mikroorganisme, som dreper eller hemmer veksten av andre mikroorganismer,
+11. «koksidiostatika» og «histomonostatika»: stoffer som er beregnet på å drepe eller hemme protozoer,
+12. «grenseverdi for restmengder»: den øvre grensen for en restmengde som følge av bruken av et tilsetningsstoff i fôrvarer som Fellesskapet kan godta som lovlig tillatt eller anerkjenne som akseptabelt i eller på et næringsmiddel,
+13. «mikroorganismer»: kolonidannende mikroorganismer,
+14. «første gangs omsetning»: den første gangen et tilsetningsstoff bringes i omsetning etter at det er framstilt, import av et tilsetningsstoff, eller første gangs omsetning av et fôr hvor det inngår et tilsetningsstoff som ikke tidligere har vært brakt i omsetning.
 
 3\. Når det er nødvendig, kan det etter framgangsmåten fastsatt i artikkel 22 nr. 2, avgjøres om et stoff, en mikroorganisme eller et preparat er et tilsetningsstoff i fôrvarer innenfor virkeområdet til denne forordning.
 
-13 EFT L 125 av 23.5.1996, s. 35. Direktivet sist endret ved forordning [806/2003](eu/32003r0806*) (EUT L 122 av 16.5.2003, s. 1).14 EFT L 115 av 4.5.1999, s. 32. Direktivet sist endret ved forordning [(EF) nr. 806/2003](eu/32003r0806*).
+13 EFT L 125 av 23.5.1996, s. 35. Direktivet sist endret ved forordning [806/2003](eu/32003r0806*) (EUT L 122 av 16.5.2003, s. 1).
+
+14 EFT L 115 av 4.5.1999, s. 32. Direktivet sist endret ved forordning [(EF) nr. 806/2003](eu/32003r0806*).
 
 ### Kapittel II
 GODKJENNING, BRUK, OVERVÅKING OG OVERGANGSTILTAK FOR TILSETNINGSSTOFFER I FÔRVARER
 
 ### Artikkel 3. Omsetning, foredling og bruk
 
-1\. Ingen personer skal bringe i omsetning, foredle eller bruke et tilsetningsstoff i fôrvarer med mindre:tilsetningsstoffet er omfattet av en godkjenning som er gitt i samsvar med denne forordning,det oppfyller de vilkårene for bruk som er fastsatt i denne forordning, herunder de generelle vilkårene fastsatt i vedlegg IV, med mindre annet er angitt i godkjenningen samt i godkjenningen av stoffet, ogdet oppfyller vilkårene for merking fastsatt i denne forordning.
+1\. Ingen personer skal bringe i omsetning, foredle eller bruke et tilsetningsstoff i fôrvarer med mindre:
+
+1. tilsetningsstoffet er omfattet av en godkjenning som er gitt i samsvar med denne forordning,
+2. det oppfyller de vilkårene for bruk som er fastsatt i denne forordning, herunder de generelle vilkårene fastsatt i vedlegg IV, med mindre annet er angitt i godkjenningen samt i godkjenningen av stoffet, og
+3. det oppfyller vilkårene for merking fastsatt i denne forordning.
 
 2\. Medlemsstatene kan tillate at det ved vitenskapelig forskning som tilsetningsstoffer brukes stoffer som ikke er godkjent på fellesskapsplan, med unntak av antibiotika, forutsatt at forskningen utføres i samsvar med prinsippene og vilkårene fastsatt i direktiv [87/153/EØF](eu/31987l0153), direktiv [83/228/EØF](eu/31983l0228)15 eller retningslinjene fastsatt i artikkel 7 nr. 4 i denne forordning, og forutsatt at det skjer under tilstrekkelig offentlig kontroll. De berørte dyrene kan brukes i næringsmiddelproduksjon bare dersom myndighetene fastslår at dette ikke vil ha noen skadevirkning på dyrs og menneskers helse eller på miljøet.
 
@@ -220,7 +968,9 @@ GODKJENNING, BRUK, OVERVÅKING OG OVERGANGSTILTAK FOR TILSETNINGSSTOFFER I FÔRV
 
 5\. Når det er nødvendig som følge av teknologiske framskritt eller vitenskapelig utvikling, skal de generelle vilkårene fastsatt i vedlegg IV, tilpasses etter framgangsmåten fastsatt i artikkel 22 nr. 2.
 
-15 EFT L 126 av 13.5.1983, s. 23.16 Rådsdirektiv [95/69/EF](eu/31995l0069) av 22. desember 1995 om fastsettelse av vilkår og regler for godkjenning og registrering av visse virksomheter og mellommenn på fôrvareområdet og om endring av direktiv [70/524/EØF](eu/31970l0524*), [74/63/EØF](eu/31974l0063*), [79/373/EØF](eu/31979l0373*) og [82/471/EØF](eu/31982l0471) (EFT L 332 av 30.12.1995, s. 15). Direktivet sist endret ved forordning [(EF) nr. 806/2003](eu/32003r0806*).
+15 EFT L 126 av 13.5.1983, s. 23.
+
+16 Rådsdirektiv [95/69/EF](eu/31995l0069) av 22. desember 1995 om fastsettelse av vilkår og regler for godkjenning og registrering av visse virksomheter og mellommenn på fôrvareområdet og om endring av direktiv [70/524/EØF](eu/31970l0524*), [74/63/EØF](eu/31974l0063*), [79/373/EØF](eu/31979l0373*) og [82/471/EØF](eu/31982l0471) (EFT L 332 av 30.12.1995, s. 15). Direktivet sist endret ved forordning [(EF) nr. 806/2003](eu/32003r0806*).
 
 ### Artikkel 4. Godkjenning
 
@@ -234,15 +984,33 @@ GODKJENNING, BRUK, OVERVÅKING OG OVERGANGSTILTAK FOR TILSETNINGSSTOFFER I FÔRV
 
 1\. Ingen tilsetningsstoffer i fôrvarer skal godkjennes med mindre den som søker om godkjenning, i samsvar med gjennomføringstiltakene nevnt i artikkel 7, på relevant og tilstrekkelig vis har vist at tilsetningsstoffet, når det brukes i samsvar med vilkårene som skal fastsettes i forordningen som godkjenner bruken av tilsetningsstoffet, oppfyller kravene i nr. 2, og har minst én av de egenskapene som er angitt i nr. 3.
 
-2\. Tilsetningsstoffet i fôrvarer skal ikke:ha noen skadevirkning på dyrs og menneskers helse eller på miljøet,framlegges på en måte som kan være villedende for brukeren,skade forbrukeren ved at de særlige kjennetegnene for animalske produkter endres eller ved at forbrukeren villedes med hensyn til de særlige kjennetegnene for animalske produkter.
+2\. Tilsetningsstoffet i fôrvarer skal ikke:
 
-3\. Tilsetningsstoffet i fôrvarer skal:ha en positiv virkning på fôrvarenes egenskaper,ha en positiv virkning på de animalske produktenes egenskaper,ha en positiv virkning på fargen på akvariefisk eller prydfugler,oppfylle dyrenes ernæringsmessige behov,ha en positiv virkning på de miljømessige følgene av husdyrproduksjon,ha en positiv virkning på husdyrproduksjon, husdyrs ytelse eller velferd, særlig ved at det påvirker mage- og tarmfloraen eller fordøyeligheten av fôrvarer, ellerha en koksidiostatisk eller histomonostatisk virkning.
+1. ha noen skadevirkning på dyrs og menneskers helse eller på miljøet,
+2. framlegges på en måte som kan være villedende for brukeren,
+3. skade forbrukeren ved at de særlige kjennetegnene for animalske produkter endres eller ved at forbrukeren villedes med hensyn til de særlige kjennetegnene for animalske produkter.
+
+3\. Tilsetningsstoffet i fôrvarer skal:
+
+1. ha en positiv virkning på fôrvarenes egenskaper,
+2. ha en positiv virkning på de animalske produktenes egenskaper,
+3. ha en positiv virkning på fargen på akvariefisk eller prydfugler,
+4. oppfylle dyrenes ernæringsmessige behov,
+5. ha en positiv virkning på de miljømessige følgene av husdyrproduksjon,
+6. ha en positiv virkning på husdyrproduksjon, husdyrs ytelse eller velferd, særlig ved at det påvirker mage- og tarmfloraen eller fordøyeligheten av fôrvarer, eller
+7. ha en koksidiostatisk eller histomonostatisk virkning.
 
 4\. Antibiotika, bortsett fra koksidiostatika eller histomonostatika, skal ikke godkjennes som tilsetningsstoffer i fôrvarer.
 
 ### Artikkel 6. Kategorier av tilsetningsstoffer i fôrvarer
 
-1\. Et tilsetningsstoff i fôrvarer skal plasseres i én eller flere av følgende kategorier, avhengig av dets funksjon eller egenskaper, etter framgangsmåten fastsatt i artikkel 7, 8 og 9:teknologiske tilsetningsstoffer: alle stoffer som tilsettes fôret for et teknologisk formål,sensoriske tilsetningsstoffer: alle stoffer som når de tilsettes i fôr, forbedrer eller endrer de organoleptiske egenskapene til fôret, eller utseendet på næringsmidler framstilt av dyr,+ernæringsmessige tilsetningsstoffer,avlstekniske tilsetningsstoffer: alle tilsetningsstoffer som brukes til å påvirke sunne dyrs ytelse positivt, eller til å påvirke miljøet positivt,koksidiostatika og histomonostatika.
+1\. Et tilsetningsstoff i fôrvarer skal plasseres i én eller flere av følgende kategorier, avhengig av dets funksjon eller egenskaper, etter framgangsmåten fastsatt i artikkel 7, 8 og 9:
+
+1. teknologiske tilsetningsstoffer: alle stoffer som tilsettes fôret for et teknologisk formål,
+2. sensoriske tilsetningsstoffer: alle stoffer som når de tilsettes i fôr, forbedrer eller endrer de organoleptiske egenskapene til fôret, eller utseendet på næringsmidler framstilt av dyr,+
+3. ernæringsmessige tilsetningsstoffer,
+4. avlstekniske tilsetningsstoffer: alle tilsetningsstoffer som brukes til å påvirke sunne dyrs ytelse positivt, eller til å påvirke miljøet positivt,
+5. koksidiostatika og histomonostatika.
 
 2\. I de kategoriene som er nevnt i nr. 1, skal tilsetningsstoffer i fôrvarer deretter plasseres innenfor én eller flere funksjonelle grupper nevnt i vedlegg I, etter framgangsmåten fastsatt i artikkel 7, 8 og 9, i henhold til deres primære funksjon eller funksjoner.
 
@@ -252,17 +1020,37 @@ GODKJENNING, BRUK, OVERVÅKING OG OVERGANGSTILTAK FOR TILSETNINGSSTOFFER I FÔRV
 
 ►**M6**
 
-1\. En søknad om godkjenning som fastsatt i artikkel 4 i denne forordningen skal sendes til Kommisjonen i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002, som gjelder tilsvarende med nødvendige endringer. Kommisjonen skal umiddelbart underrette medlemsstatene og videresende søknaden til Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»).◄**M6**
+1\. En søknad om godkjenning som fastsatt i artikkel 4 i denne forordningen skal sendes til Kommisjonen i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002, som gjelder tilsvarende med nødvendige endringer. Kommisjonen skal umiddelbart underrette medlemsstatene og videresende søknaden til Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»).
 
-2\. Myndigheten skal:innen 15 dager etter at den har mottatt søknaden, herunder opplysningene og dokumentene som er nevnt i nr. 3, skriftlig bekrefte dette overfor søkeren med angivelse av mottaksdatoen,gjøre alle opplysninger som er innlevert av søkeren, tilgjengelige for medlemsstatene og Kommisjonen,
-►**M6**offentliggjøre søknaden og alle opplysninger som søkeren har framlagt, i samsvar med artikkel 18.
 ◄**M6**
 
-3\. På søknadstidspunktet skal søkeren sende følgende opplysninger og dokumenter direkte til myndigheten:søkerens navn og adresse,betegnelsen på tilsetningsstoffet i fôrvarer, et forslag til klassifisering etter kategori og funksjonell gruppe i henhold til artikkel 6, samt spesifikasjoner, herunder renhetskriterier når det er relevant,en beskrivelse av produksjonsmetoden og framstillingsmåten og planlagt bruk av tilsetningsstoffet i fôrvarer, en beskrivelse av analysemetoden for tilsetningsstoffet i fôr i forhold til planlagt bruk, og når det er relevant, en beskrivelse av analysemetoden for bestemmelse av nivået av restmengder av tilsetningsstoffet eller metabolitter av dette, i næringsmidler,en kopi av de undersøkelsene som er blitt utført, og alt annet materiale som er tilgjengelig for å dokumentere at tilsetningsstoffet i fôrvarer oppfyller kravene fastsatt i artikkel 5 nr. 2 og 3,forslag til vilkår ved omsetning av tilsetningsstoffet i fôrvarer, herunder krav til merking, og når det er relevant, særlige vilkår for bruk og håndtering (herunder kjent uforlikelighet), innhold i tilskuddsfôr samt de dyrearter og -kategorier som tilsetningsstoffet i fôrvarer er beregnet på,en skriftlig erklæring om at søkeren har sendt tre prøver av tilsetningsstoffet i fôrvarer direkte til Fellesskapets referanselaboratorium nevnt i artikkel 21, i samsvar med kravene fastsatt i vedlegg II,forslag til overvåking etter omsetning når det gjelder tilsetningsstoffer som ifølge forslag nevnt i bokstav b), verken tilhører kategori a) eller b) nevnt i artikkel 6 nr. 1, og når det gjelder tilsetningsstoffer som hører inn under virkeområdet for Fellesskapets regelverk knyttet til omsetning av produkter som består av, inneholder eller er framstilt av genmodifiserte organismer,et sammendrag som inneholder de opplysningene som er gitt i samsvar med bokstav a)–g),for tilsetningsstoffer som hører inn under virkeområdet for Fellesskapets regelverk knyttet til omsetning av produkter som består av, inneholder eller er framstilt av genmodifiserte organismer, opplysninger om alle godkjenninger som er gitt i samsvar med gjeldende regelverk.
+2\. Myndigheten skal:
 
-4\. Etter samråd med myndigheten skal Kommisjonen etter framgangsmåten fastsatt i artikkel 22 nr. 2, fastsette gjennomføringsregler for denne artikkel, herunder regler for hvordan søknaden skal utarbeides og framlegges.Før slike gjennomføringsregler vedtas, skal søknaden inngis i samsvar med vedlegget til direktiv [87/153/EØF](eu/31987l0153).
+1. innen 15 dager etter at den har mottatt søknaden, herunder opplysningene og dokumentene som er nevnt i nr. 3, skriftlig bekrefte dette overfor søkeren med angivelse av mottaksdatoen,
+2. gjøre alle opplysninger som er innlevert av søkeren, tilgjengelige for medlemsstatene og Kommisjonen,
+   ►**M6**
+3. offentliggjøre søknaden og alle opplysninger som søkeren har framlagt, i samsvar med artikkel 18.
+   ◄**M6**
 
-5\. Etter samråd med myndigheten skal det fastsettes særlige retningslinjer for godkjenning av tilsetningsstoffer, om nødvendig for hver kategori av tilsetningsstoffer som er nevnt i artikkel 6 nr. 1, etter framgangsmåten fastsatt i artikkel 22 nr. 2. Disse retningslinjene skal ta hensyn til muligheten for å ekstrapolere resultatene fra undersøkelsene som er utført på større arter, til mindre utbredte arter.Etter samråd med myndigheten kan det fastsettes ytterligere gjennomføringsregler for denne artikkelen etter framgangsmåten fastsatt i artikkel 22 nr. 2. Disse gjennomføringsreglene skal, når det er relevant, skille mellom krav til tilsetningsstoffer i fôrvarer som gjelder produksjonsdyr, og krav som gjelder andre dyr, særlig kjæledyr. Gjennomføringsreglene skal omfatte bestemmelser som tillater forenklede framgangsmåter for godkjenning av tilsetningsstoffer som er godkjent for bruk i næringsmidler.
+3\. På søknadstidspunktet skal søkeren sende følgende opplysninger og dokumenter direkte til myndigheten:
+
+1. søkerens navn og adresse,
+2. betegnelsen på tilsetningsstoffet i fôrvarer, et forslag til klassifisering etter kategori og funksjonell gruppe i henhold til artikkel 6, samt spesifikasjoner, herunder renhetskriterier når det er relevant,
+3. en beskrivelse av produksjonsmetoden og framstillingsmåten og planlagt bruk av tilsetningsstoffet i fôrvarer, en beskrivelse av analysemetoden for tilsetningsstoffet i fôr i forhold til planlagt bruk, og når det er relevant, en beskrivelse av analysemetoden for bestemmelse av nivået av restmengder av tilsetningsstoffet eller metabolitter av dette, i næringsmidler,
+4. en kopi av de undersøkelsene som er blitt utført, og alt annet materiale som er tilgjengelig for å dokumentere at tilsetningsstoffet i fôrvarer oppfyller kravene fastsatt i artikkel 5 nr. 2 og 3,
+5. forslag til vilkår ved omsetning av tilsetningsstoffet i fôrvarer, herunder krav til merking, og når det er relevant, særlige vilkår for bruk og håndtering (herunder kjent uforlikelighet), innhold i tilskuddsfôr samt de dyrearter og -kategorier som tilsetningsstoffet i fôrvarer er beregnet på,
+6. en skriftlig erklæring om at søkeren har sendt tre prøver av tilsetningsstoffet i fôrvarer direkte til Fellesskapets referanselaboratorium nevnt i artikkel 21, i samsvar med kravene fastsatt i vedlegg II,
+7. forslag til overvåking etter omsetning når det gjelder tilsetningsstoffer som ifølge forslag nevnt i bokstav b), verken tilhører kategori a) eller b) nevnt i artikkel 6 nr. 1, og når det gjelder tilsetningsstoffer som hører inn under virkeområdet for Fellesskapets regelverk knyttet til omsetning av produkter som består av, inneholder eller er framstilt av genmodifiserte organismer,
+8. et sammendrag som inneholder de opplysningene som er gitt i samsvar med bokstav a)–g),
+9. for tilsetningsstoffer som hører inn under virkeområdet for Fellesskapets regelverk knyttet til omsetning av produkter som består av, inneholder eller er framstilt av genmodifiserte organismer, opplysninger om alle godkjenninger som er gitt i samsvar med gjeldende regelverk.
+
+4\. Etter samråd med myndigheten skal Kommisjonen etter framgangsmåten fastsatt i artikkel 22 nr. 2, fastsette gjennomføringsregler for denne artikkel, herunder regler for hvordan søknaden skal utarbeides og framlegges.
+
+Før slike gjennomføringsregler vedtas, skal søknaden inngis i samsvar med vedlegget til direktiv [87/153/EØF](eu/31987l0153).
+
+5\. Etter samråd med myndigheten skal det fastsettes særlige retningslinjer for godkjenning av tilsetningsstoffer, om nødvendig for hver kategori av tilsetningsstoffer som er nevnt i artikkel 6 nr. 1, etter framgangsmåten fastsatt i artikkel 22 nr. 2. Disse retningslinjene skal ta hensyn til muligheten for å ekstrapolere resultatene fra undersøkelsene som er utført på større arter, til mindre utbredte arter.
+
+Etter samråd med myndigheten kan det fastsettes ytterligere gjennomføringsregler for denne artikkelen etter framgangsmåten fastsatt i artikkel 22 nr. 2. Disse gjennomføringsreglene skal, når det er relevant, skille mellom krav til tilsetningsstoffer i fôrvarer som gjelder produksjonsdyr, og krav som gjelder andre dyr, særlig kjæledyr. Gjennomføringsreglene skal omfatte bestemmelser som tillater forenklede framgangsmåter for godkjenning av tilsetningsstoffer som er godkjent for bruk i næringsmidler.
 
 6\. Myndigheten skal offentliggjøre en detaljert veiledning som skal hjelpe søkeren med å utarbeide og framlegge søknaden.
 
@@ -272,9 +1060,18 @@ GODKJENNING, BRUK, OVERVÅKING OG OVERGANGSTILTAK FOR TILSETNINGSSTOFFER I FÔRV
 
 2\. Myndigheten kan, når det er relevant, anmode søkeren om å gi utfyllende opplysninger til søknaden innenfor en tidsfrist som fastsettes av myndigheten i samråd med søkeren.
 
-3\. For å utarbeide sin uttalelse, skal myndigheten:kontrollere at opplysningene og dokumentene som søkeren har inngitt, er i samsvar med artikkel 7, og foreta en risikovurdering for å fastslå om tilsetningsstoffet i fôrvarer oppfyller vilkårene fastsatt i artikkel 5,kontrollere rapporten fra Fellesskapets referanselaboratorium.
+3\. For å utarbeide sin uttalelse, skal myndigheten:
 
-4\. Dersom det avgis en positiv uttalelse om godkjenning av tilsetningsstoffet i fôrvarer, skal uttalelsen også inneholde følgende opplysninger:søkerens navn og adresse,betegnelsen på tilsetningsstoffet i fôrvarer, herunder klassifisering etter kategori og funksjonell gruppe i henhold til artikkel 6, samt spesifikasjoner, herunder renhetskriterier og analysemetoder når det er relevant,avhengig av resultatet av vurderingen, særlige vilkår eller begrensninger vedrørende håndtering, krav om overvåking etter omsetning, og bruk, herunder dyrearter og -kategorier som tilsetningsstoffet er beregnet på,særlige tilleggskrav for merking av tilsetningsstoffet i fôrvarer, som er nødvendig som følge av vilkårene og begrensningene i henhold til bokstav c),et forslag til fastsettelse av grenseverdier for restmengder (MRL) i de relevante næringsmidlene av animalsk opprinnelse, med mindre myndigheten i sin uttalelse konkluderer med at det ikke er nødvendig å fastsette MRL for å beskytte forbrukerne, eller dersom MRL allerede er fastsatt i vedlegg I eller III til rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse. 17
+1. kontrollere at opplysningene og dokumentene som søkeren har inngitt, er i samsvar med artikkel 7, og foreta en risikovurdering for å fastslå om tilsetningsstoffet i fôrvarer oppfyller vilkårene fastsatt i artikkel 5,
+2. kontrollere rapporten fra Fellesskapets referanselaboratorium.
+
+4\. Dersom det avgis en positiv uttalelse om godkjenning av tilsetningsstoffet i fôrvarer, skal uttalelsen også inneholde følgende opplysninger:
+
+1. søkerens navn og adresse,
+2. betegnelsen på tilsetningsstoffet i fôrvarer, herunder klassifisering etter kategori og funksjonell gruppe i henhold til artikkel 6, samt spesifikasjoner, herunder renhetskriterier og analysemetoder når det er relevant,
+3. avhengig av resultatet av vurderingen, særlige vilkår eller begrensninger vedrørende håndtering, krav om overvåking etter omsetning, og bruk, herunder dyrearter og -kategorier som tilsetningsstoffet er beregnet på,
+4. særlige tilleggskrav for merking av tilsetningsstoffet i fôrvarer, som er nødvendig som følge av vilkårene og begrensningene i henhold til bokstav c),
+5. et forslag til fastsettelse av grenseverdier for restmengder (MRL) i de relevante næringsmidlene av animalsk opprinnelse, med mindre myndigheten i sin uttalelse konkluderer med at det ikke er nødvendig å fastsette MRL for å beskytte forbrukerne, eller dersom MRL allerede er fastsatt i vedlegg I eller III til rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse. 17
 
 5\. Myndigheten skal omgående sende sin uttalelse til Kommisjonen, medlemsstatene og søkeren, sammen med en rapport som beskriver dens vurdering av tilsetningsstoffet i fôrvarer, der den begrunner sin konklusjon.
 
@@ -284,7 +1081,11 @@ GODKJENNING, BRUK, OVERVÅKING OG OVERGANGSTILTAK FOR TILSETNINGSSTOFFER I FÔRV
 
 ### Artikkel 9. Fellesskapets godkjenning
 
-1\. Innen tre måneder etter mottak av myndighetens uttalelse, skal Kommisjonen utarbeide et utkast til forordning der godkjenning skal gis eller avslås. Dette utkastet skal ta hensyn til kravene i artikkel 5 nr. 2 og 3, fellesskapsrett og andre legitime faktorer som er relevante for den aktuelle saken, og særlig det som er til nytte for dyrs helse og velferd, og for forbrukeren av animalske produkter.Dersom utkastet ikke er i samsvar med myndighetens uttalelse, skal det gi en forklaring på årsakene til forskjellene.I uvanlig kompliserte saker kan fristen på tre måneder forlenges.
+1\. Innen tre måneder etter mottak av myndighetens uttalelse, skal Kommisjonen utarbeide et utkast til forordning der godkjenning skal gis eller avslås. Dette utkastet skal ta hensyn til kravene i artikkel 5 nr. 2 og 3, fellesskapsrett og andre legitime faktorer som er relevante for den aktuelle saken, og særlig det som er til nytte for dyrs helse og velferd, og for forbrukeren av animalske produkter.
+
+Dersom utkastet ikke er i samsvar med myndighetens uttalelse, skal det gi en forklaring på årsakene til forskjellene.
+
+I uvanlig kompliserte saker kan fristen på tre måneder forlenges.
 
 2\. Utkastet skal vedtas etter framgangsmåten fastsatt i artikkel 22 nr. 2.
 
@@ -302,11 +1103,16 @@ GODKJENNING, BRUK, OVERVÅKING OG OVERGANGSTILTAK FOR TILSETNINGSSTOFFER I FÔRV
 
 9\. Tildelingen av godkjenning skal ikke berøre det allmenne sivilrettslige og strafferettslige ansvaret som en driftsansvarlig for et fôrforetak har når det gjelder det aktuelle tilsetningsstoffet i fôrvarer.
 
-18 EUT L 268 av 18.10.2003, s. 24.19 EFT L 125 av 23.5.1996, s. 10.
+18 EUT L 268 av 18.10.2003, s. 24.
+
+19 EFT L 125 av 23.5.1996, s. 10.
 
 ### Artikkel 10. Status for eksisterende produkter
 
-1\. Som unntak fra artikkel 3, kan et tilsetningsstoff i fôrvarer som er omsatt i henhold til direktiv [70/524/EØF](eu/31970l0524*), samt urea og dets derivater, en aminosyre, salt av en aminosyre eller en analog, som var oppført i nr. 2.1, 3 og 4 i vedlegget til direktiv [82/471/EØF](eu/31982l0471), omsettes og brukes i samsvar med vilkårene fastsatt i direktiv [70/524/EØF](eu/31970l0524*) eller [82/471/EØF](eu/31982l0471) og deres gjennomføringstiltak, herunder særlig bestemmelser om særlig merking av fôrblandinger og fôrmidler, forutsatt at følgende vilkår er oppfylt:innen ett år fra ikrafttredelsen av denne forordning, skal personer som første gang omsatte tilsetningsstoffet i fôrvarer, eller andre berørte parter, underrette Kommisjonen om dette. Samtidig skal opplysningene nevnt i artikkel 7 nr. 3 bokstav a), b) og c), sendes direkte til myndigheten,innen ett år etter underretningen nevnt i bokstav a), skal myndigheten etter å ha forsikret seg om at alle opplysninger som kreves, er blitt innlevert, underrette Kommisjonen om at den har mottatt opplysningene som kreves i henhold til denne artikkel. De aktuelle produktene skal føres inn i registeret. Hver post i registeret skal angi datoen da det aktuelle produktet først ble ført inn i registeret, og når det er relevant, utløpsdatoen for den eksisterende godkjenningen.
+1\. Som unntak fra artikkel 3, kan et tilsetningsstoff i fôrvarer som er omsatt i henhold til direktiv [70/524/EØF](eu/31970l0524*), samt urea og dets derivater, en aminosyre, salt av en aminosyre eller en analog, som var oppført i nr. 2.1, 3 og 4 i vedlegget til direktiv [82/471/EØF](eu/31982l0471), omsettes og brukes i samsvar med vilkårene fastsatt i direktiv [70/524/EØF](eu/31970l0524*) eller [82/471/EØF](eu/31982l0471) og deres gjennomføringstiltak, herunder særlig bestemmelser om særlig merking av fôrblandinger og fôrmidler, forutsatt at følgende vilkår er oppfylt:
+
+1. innen ett år fra ikrafttredelsen av denne forordning, skal personer som første gang omsatte tilsetningsstoffet i fôrvarer, eller andre berørte parter, underrette Kommisjonen om dette. Samtidig skal opplysningene nevnt i artikkel 7 nr. 3 bokstav a), b) og c), sendes direkte til myndigheten,
+2. innen ett år etter underretningen nevnt i bokstav a), skal myndigheten etter å ha forsikret seg om at alle opplysninger som kreves, er blitt innlevert, underrette Kommisjonen om at den har mottatt opplysningene som kreves i henhold til denne artikkel. De aktuelle produktene skal føres inn i registeret. Hver post i registeret skal angi datoen da det aktuelle produktet først ble ført inn i registeret, og når det er relevant, utløpsdatoen for den eksisterende godkjenningen.
 
 2\. Det skal inngis en søknad i samsvar med artikkel 7, senest ett år før utløpsdatoen for godkjenningen som er gitt i henhold til direktiv [70/524/EØF](eu/31970l0524*) for tilsetningsstoffer med en begrenset godkjenningsperiode, og senest sju år etter ikrafttredelsen av denne forordning for tilsetningsstoffer som er godkjent uten noen tidsbegrensning eller i henhold til direktiv [82/471/EØF](eu/31982l0471). En detaljert tidsplan med oppføring i prioritert rekkefølge av de forskjellige kategoriene av tilsetningsstoffer som skal vurderes på nytt, kan vedtas etter framgangsmåten fastsatt i artikkel 22 nr. 2. Myndigheten skal rådspørres ved utarbeiding av listen.
 
@@ -346,9 +1152,18 @@ GODKJENNING, BRUK, OVERVÅKING OG OVERGANGSTILTAK FOR TILSETNINGSSTOFFER I FÔRV
 
 ### Artikkel 14. Fornyelse av godkjenning
 
-1\. Godkjenninger som gis i henhold til denne forordning, skal kunne fornyes med ti år om gangen. En søknad om fornyelse skal sendes til Kommisjonen senest innen ett år før godkjenningen utløper.Dersom en godkjenning ikke er utstedt til en bestemt innehaver, kan den som første gang omsetter tilsetningsstoffet, eller enhver annen berørt part, inngi søknaden til Kommisjonen, og skal dermed anses som søker.Dersom en godkjenning er utstedt til en bestemt innehaver, kan innehaveren av godkjenningen eller dennes rettsetterfølger(e) inngi søknaden til Kommisjonen, og skal dermed anses som søker.
+1\. Godkjenninger som gis i henhold til denne forordning, skal kunne fornyes med ti år om gangen. En søknad om fornyelse skal sendes til Kommisjonen senest innen ett år før godkjenningen utløper.
 
-2\. På søknadstidspunktet skal søkeren sende følgende opplysninger og dokumenter direkte til myndigheten:en kopi av godkjenningen til å omsette tilsetningsstoffet i fôrvarer,en rapport om resultatene av overvåkingen etter omsetningen, dersom godkjenningen inneholder slike krav om overvåking,alle andre nye opplysninger som er blitt tilgjengelige med hensyn til vurdering av sikkerheten ved bruk av tilsetningsstoffet i fôrvarer, samt den risikoen tilsetningsstoffet i fôrvarer utgjør for dyr, mennesker eller miljø,når det er relevant, et forslag til endring eller supplering av vilkårene i den opprinnelige godkjenningen, blant annet vilkårene som gjelder framtidig overvåking.
+Dersom en godkjenning ikke er utstedt til en bestemt innehaver, kan den som første gang omsetter tilsetningsstoffet, eller enhver annen berørt part, inngi søknaden til Kommisjonen, og skal dermed anses som søker.
+
+Dersom en godkjenning er utstedt til en bestemt innehaver, kan innehaveren av godkjenningen eller dennes rettsetterfølger(e) inngi søknaden til Kommisjonen, og skal dermed anses som søker.
+
+2\. På søknadstidspunktet skal søkeren sende følgende opplysninger og dokumenter direkte til myndigheten:
+
+1. en kopi av godkjenningen til å omsette tilsetningsstoffet i fôrvarer,
+2. en rapport om resultatene av overvåkingen etter omsetningen, dersom godkjenningen inneholder slike krav om overvåking,
+3. alle andre nye opplysninger som er blitt tilgjengelige med hensyn til vurdering av sikkerheten ved bruk av tilsetningsstoffet i fôrvarer, samt den risikoen tilsetningsstoffet i fôrvarer utgjør for dyr, mennesker eller miljø,
+4. når det er relevant, et forslag til endring eller supplering av vilkårene i den opprinnelige godkjenningen, blant annet vilkårene som gjelder framtidig overvåking.
 
 3\. Artikkel 7 nr. 1, 2, 4 og 5 og artikkel 8 og 9 får tilsvarende anvendelse.
 
@@ -363,7 +1178,15 @@ MERKING OG EMBALLERING
 
 ### Artikkel 16. Merking og emballering av tilsetningsstoffer i fôrvarer og premikser
 
-1\. Ingen tilsetningsstoffer i fôrvarer eller premikser av tilsetningsstoffer skal omsettes med mindre emballasjen eller beholderen er merket under ansvar av en produsent, emballeringsbedrift, importør, selger eller distributør med virksomhet i Fellesskapet, og inneholder følgende opplysninger som skal være tydelige, lett leselige og ikke skal kunne slettes, og skal for hvert tilsetningsstoff som produktet inneholder, foreligge på minst det eller de nasjonale språkene i den medlemsstaten der det omsettes:navnet på den funksjonelle gruppen nevnt i godkjenningen, etterfulgt av det bestemte navnet som tilsetningsstoffet fikk ved godkjenningen,navnet eller firmaet og adressen eller forretningskontoret til den som har ansvaret for opplysningene nevnt i denne artikkel,nettovekten, eller når det gjelder flytende tilsetningsstoffer og premikser, nettovolumet eller nettovekten,når det er relevant, det godkjenningsnummeret som virksomheten eller mellommannen har fått tildelt i henhold til artikkel 5 i direktiv [95/69/EF](eu/31995l0069), eller det registreringsnummeret som virksomheten eller mellommannen har fått tildelt i henhold til artikkel 10 i nevnte direktiv,bruksanvisning og eventuelle sikkerhetstilrådinger for bruk, og når det er relevant, særlige krav som er nevnt i godkjenningen, herunder dyrearter og -kategorier som tilsetningsstoffet eller premiksen av tilsetningsstoffer er beregnet på,identifikasjonsnummeret,referansenummer for partiet og produksjonsdato.
+1\. Ingen tilsetningsstoffer i fôrvarer eller premikser av tilsetningsstoffer skal omsettes med mindre emballasjen eller beholderen er merket under ansvar av en produsent, emballeringsbedrift, importør, selger eller distributør med virksomhet i Fellesskapet, og inneholder følgende opplysninger som skal være tydelige, lett leselige og ikke skal kunne slettes, og skal for hvert tilsetningsstoff som produktet inneholder, foreligge på minst det eller de nasjonale språkene i den medlemsstaten der det omsettes:
+
+1. navnet på den funksjonelle gruppen nevnt i godkjenningen, etterfulgt av det bestemte navnet som tilsetningsstoffet fikk ved godkjenningen,
+2. navnet eller firmaet og adressen eller forretningskontoret til den som har ansvaret for opplysningene nevnt i denne artikkel,
+3. nettovekten, eller når det gjelder flytende tilsetningsstoffer og premikser, nettovolumet eller nettovekten,
+4. når det er relevant, det godkjenningsnummeret som virksomheten eller mellommannen har fått tildelt i henhold til artikkel 5 i direktiv [95/69/EF](eu/31995l0069), eller det registreringsnummeret som virksomheten eller mellommannen har fått tildelt i henhold til artikkel 10 i nevnte direktiv,
+5. bruksanvisning og eventuelle sikkerhetstilrådinger for bruk, og når det er relevant, særlige krav som er nevnt i godkjenningen, herunder dyrearter og -kategorier som tilsetningsstoffet eller premiksen av tilsetningsstoffer er beregnet på,
+6. identifikasjonsnummeret,
+7. referansenummer for partiet og produksjonsdato.
 
 2\. Når det gjelder aromastoffer, kan listen over tilsetningsstoffer erstattes med ordene «blanding av aromastoffer». Dette gjelder ikke for aromastoffer som omfattes av en kvantitativ begrensning når det brukes i fôr og drikkevann.
 
@@ -392,7 +1215,10 @@ ALMINNELIGE BESTEMMELSER OG SLUTTBESTEMMELSER
 
 2\. I samsvar med vilkårene og framgangsmåtene i artikkel 39-39e i forordning (EF) nr. 178/2002 og i denne artikkelen kan søkeren framsette en anmodning om at visse deler av opplysningene som er framlagt i henhold til denne forordningen, behandles som fortrolige, ledsaget av en begrunnelse som kan etterprøves. Myndigheten skal vurdere anmodningen om fortrolighet framsatt av søkeren.
 
-3\. I tillegg til opplysningene nevnt i artikkel 39 nr. 2 i forordning (EF) nr. 178/2002 og i henhold til artikkel 39 nr. 3 i samme forordning kan myndigheten også behandle følgende opplysninger fortrolig, dersom søkeren dokumenterer at offentliggjøring av slike opplysninger vil kunne skade vedkommendes interesser i vesentlig grad:Planen for undersøkelser som dokumenterer et fôrtilsetningsstoffs virkning sett i forhold til den planlagte bruken i henhold til artikkel 6 nr. 1 i og vedlegg I til denne forordningen.Spesifikasjoner for urenheter i det aktive stoffet og relevante analysemetoder som er utviklet internt av søkeren, unntatt urenheter som kan ha skadevirkninger på dyrs helse, menneskers helse eller miljøet.
+3\. I tillegg til opplysningene nevnt i artikkel 39 nr. 2 i forordning (EF) nr. 178/2002 og i henhold til artikkel 39 nr. 3 i samme forordning kan myndigheten også behandle følgende opplysninger fortrolig, dersom søkeren dokumenterer at offentliggjøring av slike opplysninger vil kunne skade vedkommendes interesser i vesentlig grad:
+
+1. Planen for undersøkelser som dokumenterer et fôrtilsetningsstoffs virkning sett i forhold til den planlagte bruken i henhold til artikkel 6 nr. 1 i og vedlegg I til denne forordningen.
+2. Spesifikasjoner for urenheter i det aktive stoffet og relevante analysemetoder som er utviklet internt av søkeren, unntatt urenheter som kan ha skadevirkninger på dyrs helse, menneskers helse eller miljøet.
 
 4\. Denne artikkelen berører ikke artikkel 41 i forordning (EF) nr. 178/2002.
 
@@ -428,7 +1254,9 @@ Nærmere regler for gjennomføring av vedlegg II og eventuelle endringer i nevnt
 
 1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen, nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178), (heretter kalt «komiteen»).
 
-2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal være tre måneder.
 
 3\. Komiteen fastsetter sin forretningsorden.
 
@@ -458,7 +1286,9 @@ Medlemsstatene skal underrette Kommisjonen om disse reglene og tiltakene innen t
 
 1\. Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
 
-2\. Den får anvendelse fra tolv måneder etter at den er kunngjort.Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+2\. Den får anvendelse fra tolv måneder etter at den er kunngjort.
+
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 Utferdiget i Brussel, 22. september 2003.
 
@@ -471,12 +1301,62 @@ Utferdiget i Brussel, 22. september 2003.
 ### VEDLEGG I
 GRUPPER AV TILSETNINGSSTOFFER
 
-1. Kategorien «teknologiske tilsetningsstoffer» omfatter følgende funksjonelle grupper:konserveringsmidler: stoffer, eller når det er relevant, mikroorganismer, som beskytter fôrvarer mot forringelse som skyldes mikroorganismer eller deres metabolitter,antioksidanter: stoffer som forlenger holdbarhetstiden til fôrvarer og fôrmidler ved å beskytte dem mot forringelse som skyldes oksidasjon,emulgatorer: stoffer som gjør det mulig å danne eller bevare en homogen blanding av to eller flere ublandelige faser i fôrvarer,stabilisatorer: stoffer som gjør det mulig å bevare fôrvarers fysisk-kjemiske tilstand,fortykningsmidler: stoffer som øker fôrvarers viskositet,geleringsmidler: stoffer som gir en fôrvare konsistens ved at det dannes en gelé,bindemidler: stoffer som øker fôrvarepartiklenes tendens til å henge sammen,stoffer for kontroll av kontaminering av radionukleider: stoffer som hemmer opptaket av radionukleider eller fremmer utskillelsen av dem,antiklumpemidler: stoffer som reduserer fôrvarepartiklenes tendens til å henge sammen,surhetsregulerende midler: stoffer som justerer pH-verdien i fôrvarer,tilsetningsstoffer til ensilasje: stoffer, herunder enzymer eller mikroorganismer, som er beregnet på iblanding i fôrvarer for å forbedre produksjonen av ensilasje,denatureringsmidler: stoffer som når de brukes til framstilling av foredlede fôrvarer, gjør det mulig å identifisere bestemte fôrvarers eller fôrmidlers opprinnelse.► **M3**Stoffer som minsker mykotoksinkontamineringen av fôr: stoffer som kan hindre eller hemme opptak av mykotoksiner, fremme utskillelsen av mykotoksiner eller endre deres virkemåte.◄ **M3**
-► **M4**fôrhygienefremmere: stoffer eller, dersom det er relevant, mikroorganismer som positivt påvirker den hygieniske kvaliteten til fôrvarer ved å redusere en spesifikk mikrobiologisk forurensning.◄ **M4**
-► **M5**Andre teknologiske tilsetningsstoffer: stoffer eller, dersom det er relevant, mikroorganismer som tilsettes fôr med et teknologisk formål, og som har en positiv virkning på fôrets egenskaper.◄ **M5**
-2. Kategorien «sensoriske tilsetningsstoffer» omfatter følgende funksjonelle grupper:fargestoffer:stoffer som gir fôrvarer farge eller gir dem den opprinnelige fargen tilbake,stoffer som når de brukes i fôr, gir farge til næringsmidler av animalsk opprinnelse,stoffer som har en positiv virkning på fargen på akvariefisk eller prydfugler,aromastoffer: stoffer som forsterker lukten eller smaken av de fôrvarene de tilsettes.
-3. Kategorien «ernæringsmessige tilsetningsstoffer» omfatter følgende funksjonelle grupper:vitaminer, provitaminer og kjemisk veldefinerte stoffer med tilsvarende virkning,forbindelser av sporstoffer,aminosyrer, deres salter og analoger,urea og dets derivater.
-4. Kategorien «avlstekniske tilsetningsstoffer» omfatter følgende funksjonelle grupper:fordøyelsesforbedrende midler: stoffer som når de brukes i fôr, gjør fôret lettere å fordøye ved å påvirke bestemte fôrmidler,midler som stabiliserer tarmfloraen: mikroorganismer eller andre kjemisk definerte stoffer som når de brukes i fôr, har en positiv virkning på tarmfloraen,stoffer som har en positiv innvirkning på miljøet,andre avlstekniske tilsetningsstoffer.► **M5**Stoffer som stabiliserer den fysiologiske tilstanden: stoffer eller, dersom det er relevant, mikroorganismer som når de gis til friske dyr, har en positiv virkning på dyrenes fysiologiske tilstand, herunder deres motstandsdyktighet mot stressfaktorer.◄ **M5**
+1. Kategorien «teknologiske tilsetningsstoffer» omfatter følgende funksjonelle grupper:
+
+   1. konserveringsmidler: stoffer, eller når det er relevant, mikroorganismer, som beskytter fôrvarer mot forringelse som skyldes mikroorganismer eller deres metabolitter,
+   2. antioksidanter: stoffer som forlenger holdbarhetstiden til fôrvarer og fôrmidler ved å beskytte dem mot forringelse som skyldes oksidasjon,
+   3. emulgatorer: stoffer som gjør det mulig å danne eller bevare en homogen blanding av to eller flere ublandelige faser i fôrvarer,
+   4. stabilisatorer: stoffer som gjør det mulig å bevare fôrvarers fysisk-kjemiske tilstand,
+   5. fortykningsmidler: stoffer som øker fôrvarers viskositet,
+   6. geleringsmidler: stoffer som gir en fôrvare konsistens ved at det dannes en gelé,
+   7. bindemidler: stoffer som øker fôrvarepartiklenes tendens til å henge sammen,
+   8. stoffer for kontroll av kontaminering av radionukleider: stoffer som hemmer opptaket av radionukleider eller fremmer utskillelsen av dem,
+   9. antiklumpemidler: stoffer som reduserer fôrvarepartiklenes tendens til å henge sammen,
+   10. surhetsregulerende midler: stoffer som justerer pH-verdien i fôrvarer,
+   11. tilsetningsstoffer til ensilasje: stoffer, herunder enzymer eller mikroorganismer, som er beregnet på iblanding i fôrvarer for å forbedre produksjonen av ensilasje,
+   12. denatureringsmidler: stoffer som når de brukes til framstilling av foredlede fôrvarer, gjør det mulig å identifisere bestemte fôrvarers eller fôrmidlers opprinnelse.
+
+   ► **M3**
+
+   1. Stoffer som minsker mykotoksinkontamineringen av fôr: stoffer som kan hindre eller hemme opptak av mykotoksiner, fremme utskillelsen av mykotoksiner eller endre deres virkemåte.
+
+   ◄ **M3**
+   ► **M4**
+
+   1. fôrhygienefremmere: stoffer eller, dersom det er relevant, mikroorganismer som positivt påvirker den hygieniske kvaliteten til fôrvarer ved å redusere en spesifikk mikrobiologisk forurensning.
+
+   ◄ **M4**
+   ► **M5**
+
+   1. Andre teknologiske tilsetningsstoffer: stoffer eller, dersom det er relevant, mikroorganismer som tilsettes fôr med et teknologisk formål, og som har en positiv virkning på fôrets egenskaper.
+
+   ◄ **M5**
+2. Kategorien «sensoriske tilsetningsstoffer» omfatter følgende funksjonelle grupper:
+
+   1. fargestoffer:
+
+      1. stoffer som gir fôrvarer farge eller gir dem den opprinnelige fargen tilbake,
+      2. stoffer som når de brukes i fôr, gir farge til næringsmidler av animalsk opprinnelse,
+      3. stoffer som har en positiv virkning på fargen på akvariefisk eller prydfugler,
+   2. aromastoffer: stoffer som forsterker lukten eller smaken av de fôrvarene de tilsettes.
+3. Kategorien «ernæringsmessige tilsetningsstoffer» omfatter følgende funksjonelle grupper:
+
+   1. vitaminer, provitaminer og kjemisk veldefinerte stoffer med tilsvarende virkning,
+   2. forbindelser av sporstoffer,
+   3. aminosyrer, deres salter og analoger,
+   4. urea og dets derivater.
+4. Kategorien «avlstekniske tilsetningsstoffer» omfatter følgende funksjonelle grupper:
+
+   1. fordøyelsesforbedrende midler: stoffer som når de brukes i fôr, gjør fôret lettere å fordøye ved å påvirke bestemte fôrmidler,
+   2. midler som stabiliserer tarmfloraen: mikroorganismer eller andre kjemisk definerte stoffer som når de brukes i fôr, har en positiv virkning på tarmfloraen,
+   3. stoffer som har en positiv innvirkning på miljøet,
+   4. andre avlstekniske tilsetningsstoffer.
+
+   ► **M5**
+
+   1. Stoffer som stabiliserer den fysiologiske tilstanden: stoffer eller, dersom det er relevant, mikroorganismer som når de gis til friske dyr, har en positiv virkning på dyrenes fysiologiske tilstand, herunder deres motstandsdyktighet mot stressfaktorer.
+
+   ◄ **M5**
 
 ### VEDLEGG II
 OPPGAVER OG PLIKTER FOR FELLESSKAPETS REFERANSELABORATORIUM
@@ -485,7 +1365,14 @@ OPPGAVER OG PLIKTER FOR FELLESSKAPETS REFERANSELABORATORIUM
 
 ► **M2**
 
-2\. I forbindelse med pliktene og oppgavene fastsatt i dette vedlegg kan Fellesskapets referanselaboratorium bistås av en gruppe av nasjonale referanselaboratorier.Fellesskapets referanselaboratorium skal ha ansvaret for:å motta, oppbevare og vedlikeholde prøver av tilsetningsstoffer i fôrvarer som sendes inn av søkeren i samsvar med artikkel 7 nr. 3 bokstav f),å vurdere metoden som brukes for å analysere tilsetningsstoffet og andre relevante metoder for å analysere dette stoffet, på grunnlag av opplysningene i søknaden om godkjenning av tilsetningsstoffet med hensyn til dets egnethet for offentlig kontroll i samsvar med kravene i gjennomføringsreglene nevnt i artikkel 7 nr. 4 og 5 og myndighetens retningslinjer nevnt i artikkel 7 nr. 6,å framlegge en fullstendig vurderingsrapport for myndigheten om resultatene av de plikter og oppgaver som er nevnt i dette vedlegg,prøving av analysemetoden(e), dersom dette er nødvendig.
+2\. I forbindelse med pliktene og oppgavene fastsatt i dette vedlegg kan Fellesskapets referanselaboratorium bistås av en gruppe av nasjonale referanselaboratorier.
+
+Fellesskapets referanselaboratorium skal ha ansvaret for:
+
+- å motta, oppbevare og vedlikeholde prøver av tilsetningsstoffer i fôrvarer som sendes inn av søkeren i samsvar med artikkel 7 nr. 3 bokstav f),
+- å vurdere metoden som brukes for å analysere tilsetningsstoffet og andre relevante metoder for å analysere dette stoffet, på grunnlag av opplysningene i søknaden om godkjenning av tilsetningsstoffet med hensyn til dets egnethet for offentlig kontroll i samsvar med kravene i gjennomføringsreglene nevnt i artikkel 7 nr. 4 og 5 og myndighetens retningslinjer nevnt i artikkel 7 nr. 6,
+- å framlegge en fullstendig vurderingsrapport for myndigheten om resultatene av de plikter og oppgaver som er nevnt i dette vedlegg,
+- prøving av analysemetoden(e), dersom dette er nødvendig.
 
 3\. Fellesskapets referanselaboratorium skal ha ansvaret for å samordne valideringen av analysemetoden(e) for tilsetningsstoffet, etter framgangsmåten fastsatt i artikkel 10 i forordning [(EF) nr. 378/2005](eu/32005r0378).\* Denne oppgaven kan omfatte tilberedning av næringsmiddel- eller fôrvareprøvematerialet.
 
@@ -509,17 +1396,48 @@ OPPGAVER OG PLIKTER FOR FELLESSKAPETS REFERANSELABORATORIUM
 
 ### 1. SÆRLIGE KRAV TIL MERKING AV VISSE TILSETNINGSSTOFFER I FÔRVARER OG PREMIKSER
 
-1. Avlstekniske tilsetningsstoffer, koksidiostatika og histomonostatika:garantiens utløpsdato eller holdbarhetstiden regnet fra produksjonsdatoen,bruksanvisningen ogkonsentrasjonen.
-2. Enzymer, i tillegg til de ovennevnte angivelsene:det bestemte navnet på de aktive komponentene i henhold til deres enzymaktiviteter, i samsvar med den godkjenningen som er gitt,identifikasjonsnummeret i henhold til International Union of Biochemistry ogi stedet for konsentrasjonen: enheter aktivt stoff (antall enheter aktivt stoff per gram eller antall enheter aktivt stoff per milliliter).
-3. Mikroorganismer:garantiens utløpsdato eller holdbarhetstiden regnet fra produksjonsdatoen,bruksanvisningen,stammens identifikasjonsnummer ogantall kolonidannende enheter per gram.
-4. Ernæringsmessige tilsetningsstoffer:innholdet av aktive stoffer oginnholdsgarantiens utløpsdato eller holdbarhetstiden regnet fra produksjonsdatoen.
-5. Teknologiske og sensoriske tilsetningsstoffer, med unntak av aromastoffer:innholdet av aktive stoffer.
-6. Aromastoffer:i blandingsforhold i premikser.
+1. Avlstekniske tilsetningsstoffer, koksidiostatika og histomonostatika:
+
+   - garantiens utløpsdato eller holdbarhetstiden regnet fra produksjonsdatoen,
+   - bruksanvisningen og
+   - konsentrasjonen.
+2. Enzymer, i tillegg til de ovennevnte angivelsene:
+
+   - det bestemte navnet på de aktive komponentene i henhold til deres enzymaktiviteter, i samsvar med den godkjenningen som er gitt,
+   - identifikasjonsnummeret i henhold til International Union of Biochemistry og
+   - i stedet for konsentrasjonen: enheter aktivt stoff (antall enheter aktivt stoff per gram eller antall enheter aktivt stoff per milliliter).
+3. Mikroorganismer:
+
+   - garantiens utløpsdato eller holdbarhetstiden regnet fra produksjonsdatoen,
+   - bruksanvisningen,
+   - stammens identifikasjonsnummer og
+   - antall kolonidannende enheter per gram.
+4. Ernæringsmessige tilsetningsstoffer:
+
+   - innholdet av aktive stoffer og
+   - innholdsgarantiens utløpsdato eller holdbarhetstiden regnet fra produksjonsdatoen.
+5. Teknologiske og sensoriske tilsetningsstoffer, med unntak av aromastoffer:
+
+   - innholdet av aktive stoffer.
+6. Aromastoffer:
+
+   - i blandingsforhold i premikser.
 
 ### 2. YTTERLIGERE MERKINGS- OG OPPLYSNINGSKRAV FOR VISSE TILSETNINGSSTOFFER SOM INNEHOLDER PREPARATER OG FOR PREMIKSER SOM INNEHOLDER SLIKE PREPARATER
 
-1. Tilsetningsstoffer som tilhører kategoriene omhandlet i artikkel 6 nr. 1 bokstav a), b) og c), og som består av preparater:angivelse på emballasjen eller beholderen av preparatets spesifikke navn, identifikasjonsnummer og nivået av eventuelle tekniske tilsetningsstoffer i preparatet for hvilke det er fastsatt grenseverdier i den tilsvarende godkjenningen,følgende opplysninger via eventuelt skriftlig medium eller vedlagt preparatet:det spesifikke navnet på og identifikasjonsnummeret til eventuelle tekniske tilsetningsstoffer i preparatet ognavn på alle stoffer eller produkter i preparatet, i synkende rekkefølge etter vekt.
-2. Premikser som inneholder tilsetningsstoffer som tilhører kategoriene omhandlet i artikkel 6 nr. 1 bokstav a), b) og c), og som består av preparater:om relevant, angivelse på emballasjen eller beholderen om at premiksen inneholder teknologiske tilsetningsstoffer som inngår i tilsetningsstoffpreparater som det er fastsatt grenseverdier for i den tilhørende godkjenningen,på anmodning fra kjøperen eller brukeren, opplysninger om det spesifikke navnet, identifikasjonsnummeret og en angivelse av nivået av teknologiske tilsetningsstoffer nevnt i underpunkt i), og som inngår i tilsetningsstoffpreparatene.◄ **M1**
+1. Tilsetningsstoffer som tilhører kategoriene omhandlet i artikkel 6 nr. 1 bokstav a), b) og c), og som består av preparater:
+
+   1. angivelse på emballasjen eller beholderen av preparatets spesifikke navn, identifikasjonsnummer og nivået av eventuelle tekniske tilsetningsstoffer i preparatet for hvilke det er fastsatt grenseverdier i den tilsvarende godkjenningen,
+   2. følgende opplysninger via eventuelt skriftlig medium eller vedlagt preparatet:
+
+      - det spesifikke navnet på og identifikasjonsnummeret til eventuelle tekniske tilsetningsstoffer i preparatet og
+      - navn på alle stoffer eller produkter i preparatet, i synkende rekkefølge etter vekt.
+2. Premikser som inneholder tilsetningsstoffer som tilhører kategoriene omhandlet i artikkel 6 nr. 1 bokstav a), b) og c), og som består av preparater:
+
+   1. om relevant, angivelse på emballasjen eller beholderen om at premiksen inneholder teknologiske tilsetningsstoffer som inngår i tilsetningsstoffpreparater som det er fastsatt grenseverdier for i den tilhørende godkjenningen,
+   2. på anmodning fra kjøperen eller brukeren, opplysninger om det spesifikke navnet, identifikasjonsnummeret og en angivelse av nivået av teknologiske tilsetningsstoffer nevnt i underpunkt i), og som inngår i tilsetningsstoffpreparatene.
+
+   ◄ **M1**
 
 ### VEDLEGG IV
 GENERELLE BRUKSVILKÅR
@@ -528,7 +1446,7 @@ GENERELLE BRUKSVILKÅR
 2. Blanding av tilsetningsstoffer skal være tillatt i premikser og fôrvarer bare når bestanddelene i blandingen er fysisk-kjemisk og biologisk forenlige med de ønskede virkningene.
 3. Tilskuddsfôr, fortynnet som angitt, kan ikke inneholde høyere nivåer av tilsetningsstoffer enn det som er fastsatt for fullfôr.
 4. Når det gjelder premikser som inneholder tilsetningsstoffer for ensilasje, skal ordene «av tilsetningsstoffer for ensilasje» være tydelig påført på etiketten etter «PREMIKS».
-► **M1**
+   ► **M1**
 5. Teknologiske tilsetningsstoffer eller andre stoffer eller produkter som inngår i tilsetningsstoffer som består av preparater, skal bare endre de fysiokjemiske egenskapene til det aktive stoffet i preparatet og skal brukes i samsvar deres godkjenningsvilkår dersom det finnes slike bestemmelser.
 
 Preparatets bestanddeler skal være fysiokjemisk og biologisk kompatible med de ønskede virkningene. ◄ **M1**

@@ -15,7 +15,7 @@ xml_hash: "cea3be49483e730c9f7f3e8697ff49cb4d391788041701a78837ab5bd6b64f07"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,12 @@ Vegmyndigheten kan av hensyn til trafikkavviklingen kreve arbeidet utført på b
 
 Vegmyndigheten kan kreve at det legges ekstra trekkrør i ledningsgrøfter når vegmyndigheten bekoster og selv skal eie trekkrørene, og dekker alle merutgiftene forbundet med leggingen av disse. Vegmyndigheten kan kreve vederlag av ledningseiere som vil benytte ledig kapasitet i trekkrørene.
 
-Vegmyndigheten skal fastsette krav til minimum overdekning av ledningsanlegg i tillatelsen. Ved legging av ledninger i eksisterende veg, kan vegmyndigheten ikke kreve større overdekning enn80 cm for ledninger med utvendig diameter større enn 125 mm som legges i riksveg, og andre veger med årsdøgntrafikk (ÅDT) større enn 5000,60 cm for ledninger med utvendig diameter større enn 125 mm i fylkesveg og kommunal veg, med årsdøgntrafikk (ÅDT) til og med 5000,40 cm for ledninger med utvendig diameter til og med 125 mm i riksveg, fylkesveg og kommunal veg når de har mekaniske egenskaper som tilsier at det ikke er behov for tradisjonell omfyllingsmasse,40 cm i terreng inntil 3 meter utenfor vegkant i riksveg, fylkesveg og kommunal veg.
+Vegmyndigheten skal fastsette krav til minimum overdekning av ledningsanlegg i tillatelsen. Ved legging av ledninger i eksisterende veg, kan vegmyndigheten ikke kreve større overdekning enn
+
+1. 80 cm for ledninger med utvendig diameter større enn 125 mm som legges i riksveg, og andre veger med årsdøgntrafikk (ÅDT) større enn 5000,
+2. 60 cm for ledninger med utvendig diameter større enn 125 mm i fylkesveg og kommunal veg, med årsdøgntrafikk (ÅDT) til og med 5000,
+3. 40 cm for ledninger med utvendig diameter til og med 125 mm i riksveg, fylkesveg og kommunal veg når de har mekaniske egenskaper som tilsier at det ikke er behov for tradisjonell omfyllingsmasse,
+4. 40 cm i terreng inntil 3 meter utenfor vegkant i riksveg, fylkesveg og kommunal veg.
 
 Vegmyndigheten skal tillate mindre overdekning enn nevnt i femte ledd bokstav c når bruk av særskilt egnede tekniske metoder for etablering av ledningsanlegget gjør det forsvarlig ut fra vegens tilstand og kvalitet.
 

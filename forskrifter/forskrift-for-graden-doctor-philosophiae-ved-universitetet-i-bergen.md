@@ -42,7 +42,12 @@ Forskningsarbeidet og doktoravhandlingen skal være et selvstendig arbeid uten f
 
 Graden dr.philos. kvalifiserer for forskningsvirksomhet og annet arbeid i samfunnet hvor det stilles store krav til vitenskapelig innsikt, arbeidsmåte og analytisk tenkning i samsvar med god vitenskapelig skikk og forskningsetiske standarder.
 
-Dr.philos.-graden tildeles på grunnlag avgodkjent vitenskapelig avhandlinggodkjent prøveforelesning over oppgitt emnegodkjent prøveforelesning over selvvalgt emnegodkjent disputas.
+Dr.philos.-graden tildeles på grunnlag av
+
+1. godkjent vitenskapelig avhandling
+2. godkjent prøveforelesning over oppgitt emne
+3. godkjent prøveforelesning over selvvalgt emne
+4. godkjent disputas.
 
 ## § 3. Ansvaret for graden dr.philos.
 
@@ -58,13 +63,25 @@ Universitetet i Bergen og fakultetene skal legge til rette for bedømmelse av tv
 
 For å kunne fremstille seg for dr.philos.-graden kreves det at søkeren har en femårig mastergrad eller tilsvarende, i samsvar med beskrivelsene i [nasjonalt kvalifikasjonsrammeverks](https://www.nokut.no/norsk-utdanning/nasjonalt-kvalifikasjonsrammeverk-for-livslang-laring/) nivå 7. Fakultetet kan etter særskilt vurdering godkjenne annen likeverdig utdanning som grunnlag for fremstilling. Også denne utdanningen må være i samsvar med beskrivelsene av [nasjonalt kvalifikasjonsrammeverks](https://www.nokut.no/norsk-utdanning/nasjonalt-kvalifikasjonsrammeverk-for-livslang-laring/) nivå 7.
 
-Søkeren skal være statsborger eller ha folkeregistrert bostedsadresse i Norge. Andre søkere kan etter begrunnet søknad gis anledning til å fremstille seg dersom avhandlingen oppfyller ett eller flere av disse vilkårene:behandler emner eller bygger på materiale som har direkte tilknytning til Norgehar sterk tilknytning til norsk forskning innen det aktuelle fagområdeter utført under opphold ved et norsk universitet eller forskningsinstitusjon, eller i nær tilknytning til eller i tett samarbeid med norske forskere.
+Søkeren skal være statsborger eller ha folkeregistrert bostedsadresse i Norge. Andre søkere kan etter begrunnet søknad gis anledning til å fremstille seg dersom avhandlingen oppfyller ett eller flere av disse vilkårene:
+
+1. behandler emner eller bygger på materiale som har direkte tilknytning til Norge
+2. har sterk tilknytning til norsk forskning innen det aktuelle fagområdet
+3. er utført under opphold ved et norsk universitet eller forskningsinstitusjon, eller i nær tilknytning til eller i tett samarbeid med norske forskere.
 
 ## § 4-2. Søknad og krav til dokumentasjon
 
 Søknad om å få avhandlingen bedømt rettes til det fakultet som avhandlingens tema hører inn under. Søknaden skal inneholde en kort redegjørelse for at avhandlingen har et tema som hører inn under fakultetets fagportefølje.
 
-Følgende dokumentasjon skal være vedlagt søknaden:avhandlingen, i digitalt og/eller fysisk format, og i det antall som gjeldende fakultet bestemmerdokumentasjon som omfatter vitnemål og karakterutskrift for tidligere. utdanning eller tilsvarende kvalifikasjonerdokumentasjon på at nødvendige etiske og andre tillatelser er innhentet, hvor dette er påkrevdmedforfattererklæringer hvor dette er påkrevd i henhold til [§ 5-2](forskrift/2025-02-13-284/§5-2)erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gangerklæring om at avhandlingen eller deler av denne ikke er levert inn og/eller bedømt ved annen norsk eller utenlandsk institusjondokumentasjon på norsk statsborgerskap eller folkeregistrert bostedsadresse og/eller en redegjørelse for avhandlingens tilknytning til Norge.
+Følgende dokumentasjon skal være vedlagt søknaden:
+
+1. avhandlingen, i digitalt og/eller fysisk format, og i det antall som gjeldende fakultet bestemmer
+2. dokumentasjon som omfatter vitnemål og karakterutskrift for tidligere. utdanning eller tilsvarende kvalifikasjoner
+3. dokumentasjon på at nødvendige etiske og andre tillatelser er innhentet, hvor dette er påkrevd
+4. medforfattererklæringer hvor dette er påkrevd i henhold til [§ 5-2](forskrift/2025-02-13-284/§5-2)
+5. erklæring om hvorvidt avhandlingen leveres inn til bedømmelse for første eller andre gang
+6. erklæring om at avhandlingen eller deler av denne ikke er levert inn og/eller bedømt ved annen norsk eller utenlandsk institusjon
+7. dokumentasjon på norsk statsborgerskap eller folkeregistrert bostedsadresse og/eller en redegjørelse for avhandlingens tilknytning til Norge.
 
 Fakultetet selv vurderer søknaden og fatter vedtak om adgangen til å fremstille seg til prøven for graden dr.philos.
 
@@ -98,7 +115,11 @@ I avhandlinger hvor det inngår arbeider med flere forfattere skal det følge en
 
 ## § 5-3. Tidligere arbeider
 
-Kravet om «ny faglig kunnskap» etter [§ 5-1 (1)](forskrift/2025-02-13-284/§5-1/ledd/1) innebærer atarbeid eller deler av arbeid som er vurdert til doktorgraden ved en annen institusjon ikke kan inngå i avhandlingen, og det samme gjelder arbeid eller deler av arbeid som har blitt underkjent etter omarbeiding (andre gangs underkjenning)arbeid eller deler av arbeid som har vært godtatt som grunnlag for eksamener eller grader på nivå under doktorgrad, ikke kan inngå i avhandlingen. Data, metoder, analyser eller resultater fra nivå under doktorgrad kan likevel danne utgangspunktet for en avhandling.deler av arbeid som inngår som grunnlaget for en eller flere kandidaters ph.d.-grad som herværende person har samvirket i, likevel kan antas til bedømmelse.
+Kravet om «ny faglig kunnskap» etter [§ 5-1 (1)](forskrift/2025-02-13-284/§5-1/ledd/1) innebærer at
+
+1. arbeid eller deler av arbeid som er vurdert til doktorgraden ved en annen institusjon ikke kan inngå i avhandlingen, og det samme gjelder arbeid eller deler av arbeid som har blitt underkjent etter omarbeiding (andre gangs underkjenning)
+2. arbeid eller deler av arbeid som har vært godtatt som grunnlag for eksamener eller grader på nivå under doktorgrad, ikke kan inngå i avhandlingen. Data, metoder, analyser eller resultater fra nivå under doktorgrad kan likevel danne utgangspunktet for en avhandling.
+3. deler av arbeid som inngår som grunnlaget for en eller flere kandidaters ph.d.-grad som herværende person har samvirket i, likevel kan antas til bedømmelse.
 
 Det må legges inn henvisning ved bruk av tidligere arbeider. Henvisningene skal være i tråd med vitenskapelige standarder for det aktuelle fagområdet.
 
@@ -116,7 +137,12 @@ Grunnenheten foreslår bedømmelseskomité. Kandidaten skal underrettes om forsl
 
 Det bør normalt ikke gå mer enn tre (3) måneder fra søknaden om å få avhandlingen bedømt er innlevert, til søknaden er vurdert og komité er oppnevnt, dersom søknaden er godkjent.
 
-Bedømmelseskomiteen skal normalt settes sammen slik atto kjønn er representert blant opponenteneflertallet er uten tilknytning til Universitetet i Bergenett av medlemmene, om mulig, er fra en utenlandsk institusjonalle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Bedømmelseskomiteen skal normalt settes sammen slik at
+
+1. to kjønn er representert blant opponentene
+2. flertallet er uten tilknytning til Universitetet i Bergen
+3. ett av medlemmene, om mulig, er fra en utenlandsk institusjon
+4. alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Dersom kriteriene fravikes, skal dette begrunnes særskilt. Fakultetet utpeker en av sine ansatte til komiteens leder.
 
@@ -188,7 +214,11 @@ Kandidaten skal levere en pressemelding på norsk. Kandidaten kan også levere e
 
 ## § 13-1. Prøveforelesning og disputas
 
-Dr.philos.-prøven avsluttes medprøveforelesning over selvvalgt emneprøveforelesning over oppgitt emnedisputas.
+Dr.philos.-prøven avsluttes med
+
+1. prøveforelesning over selvvalgt emne
+2. prøveforelesning over oppgitt emne
+3. disputas.
 
 ## § 13-2. Prøveforelesninger
 
@@ -202,7 +232,10 @@ Prøveforelesningene avholdes som hovedregel ved Universitetet i Bergen og fakul
 
 Prøveforelesningene ledes av dekanen eller den denne bemyndiger.
 
-Prøveforelesningene skal vurderes av en bedømmelseskomité på minst tre (3) medlemmer. Bedømmelseskomiteen skal normalt settes sammen slik atto kjønn er representertalle medlemmene har doktorgrad eller tilsvarende kompetanse.
+Prøveforelesningene skal vurderes av en bedømmelseskomité på minst tre (3) medlemmer. Bedømmelseskomiteen skal normalt settes sammen slik at
+
+1. to kjønn er representert
+2. alle medlemmene har doktorgrad eller tilsvarende kompetanse.
 
 Komiteen avgir innstilling til fakultetet om prøveforelesningene bør godkjennes. Innstillingen skal begrunnes dersom prøveforelesningene anbefales ikke godkjent. Fakultetet fatter vedtak om godkjenning av prøveforelesning på grunnlag av bedømmelseskomiteens innstilling. Fakultetet selv fatter vedtak ved delt eller negativ innstilling.
 

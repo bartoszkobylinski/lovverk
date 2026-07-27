@@ -15,7 +15,7 @@ xml_hash: "c1c4fcc184bc64ce3386631d105841ad08227b9ebb1316a6bd51e254dad91004"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -102,7 +102,12 @@ L = største lengde i meter.
 
 Denne forskrift gjelder for nytt fiske- og fangstfartøy med største lengde på 10,67 meter (35 engelske fot) og derover.
 
-Slik det fremgår av den enkelte bestemmelse gjelder forskriften også for eksisterende fiske- og fangstfartøy på 10,67 meter (35 engelske fot) og derover som:ombygges/forandres,fisker med kraftblokk og ringnot/dekkssnurpenot,er under 50 tonn og ønsker sertifikat for havfiske,har sertifikat for større fart enn fjordfiske for så vidt gjelder reglene om oppgradering av lukningsmidler.
+Slik det fremgår av den enkelte bestemmelse gjelder forskriften også for eksisterende fiske- og fangstfartøy på 10,67 meter (35 engelske fot) og derover som:
+
+1. ombygges/forandres,
+2. fisker med kraftblokk og ringnot/dekkssnurpenot,
+3. er under 50 tonn og ønsker sertifikat for havfiske,
+4. har sertifikat for større fart enn fjordfiske for så vidt gjelder reglene om oppgradering av lukningsmidler.
 
 1 Forskriften er opphevet for nye fartøy, jfr. [forskrift 15. oktober 1991 nr. 712](forskrift/1991-10-15-712).
 

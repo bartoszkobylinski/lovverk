@@ -15,7 +15,7 @@ xml_hash: "53f7581cd31c2856fed9fdbbf98f25fef2f3b159e1ed2d6074f2681507927230"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32006L0024"
@@ -45,7 +45,11 @@ Retten kan bare ta imot forklaring fra et vitne som har taushetsplikt i medhold 
 
 [Ny] [§ 210 b](lov/1981-05-22-25/§210b) skal lyde:
 
-Retten kan ved kjennelse pålegge utlevering for et bestemt tidsrom av trafikkdata, og lokaliseringsdata som ikke omfattes av [§ 210 c](lov/1981-05-22-25/§210c), og som tilbyder har plikt til å lagre etter [lov 4. juli 2003 nr. 83](lov/2003-07-04-83) om elektronisk kommunikasjon [§ 2-7 a](lov/2003-07-04-83/§2-7a). Pålegg kan gis når det foreligger skjellig grunn til mistanke om en eller flere straffbare handlingersom etter loven kan medføre straff av fengsel i 4 år eller mer, ellersom etter loven kan medføre straff av fengsel i 3 år eller mer og det er grunn til å tro at handlingen er utøvet som ledd i virksomheten til en organisert kriminell gruppe, jf. [straffeloven § 79](lov/2005-05-20-28/§79) bokstav c, ellersom rammes av [straffeloven §§ 121](lov/2005-05-20-28/§121), [123](lov/2005-05-20-28/§123), [125](lov/2005-05-20-28/§125), [126](lov/2005-05-20-28/§126), [127](lov/2005-05-20-28/§127) jf. [123](lov/2005-05-20-28/§123), [129](lov/2005-05-20-28/§129), [198](lov/2005-05-20-28/§198), [201](lov/2005-05-20-28/§201), [202](lov/2005-05-20-28/§202), [204](lov/2005-05-20-28/§204), [205](lov/2005-05-20-28/§205) bokstav a og b, 231, 234, 266, 306, 309, 311, 332 jf. 231, 335 jf. 231, 337 jf. 231, 340 jf. 231, eller 371 bokstav b, eller av [utlendingsloven § 108](lov/2008-05-15-35/§108) fjerde ledd.
+Retten kan ved kjennelse pålegge utlevering for et bestemt tidsrom av trafikkdata, og lokaliseringsdata som ikke omfattes av [§ 210 c](lov/1981-05-22-25/§210c), og som tilbyder har plikt til å lagre etter [lov 4. juli 2003 nr. 83](lov/2003-07-04-83) om elektronisk kommunikasjon [§ 2-7 a](lov/2003-07-04-83/§2-7a). Pålegg kan gis når det foreligger skjellig grunn til mistanke om en eller flere straffbare handlinger
+
+1. som etter loven kan medføre straff av fengsel i 4 år eller mer, eller
+2. som etter loven kan medføre straff av fengsel i 3 år eller mer og det er grunn til å tro at handlingen er utøvet som ledd i virksomheten til en organisert kriminell gruppe, jf. [straffeloven § 79](lov/2005-05-20-28/§79) bokstav c, eller
+3. som rammes av [straffeloven §§ 121](lov/2005-05-20-28/§121), [123](lov/2005-05-20-28/§123), [125](lov/2005-05-20-28/§125), [126](lov/2005-05-20-28/§126), [127](lov/2005-05-20-28/§127) jf. [123](lov/2005-05-20-28/§123), [129](lov/2005-05-20-28/§129), [198](lov/2005-05-20-28/§198), [201](lov/2005-05-20-28/§201), [202](lov/2005-05-20-28/§202), [204](lov/2005-05-20-28/§204), [205](lov/2005-05-20-28/§205) bokstav a og b, 231, 234, 266, 306, 309, 311, 332 jf. 231, 335 jf. 231, 337 jf. 231, 340 jf. 231, eller 371 bokstav b, eller av [utlendingsloven § 108](lov/2008-05-15-35/§108) fjerde ledd.
 
 Forhøyelse av maksimumsstraffen ved gjentakelse eller sammenstøt av forbrytelser kommer ikke i betraktning.
 
@@ -59,7 +63,11 @@ Utenfor domstolens ordinære kontortid fremsettes begjæring om utlevering for O
 
 [Ny] [§ 210 c](lov/1981-05-22-25/§210c) skal lyde:
 
-Retten kan ved kjennelse pålegge utlevering for et begrenset tidsrom av opplysninger om hvilke telefoner eller annet kommunikasjonsutstyr som innenfor et nærmere bestemt geografisk område har vært satt i forbindelse med bestemte telefoner eller kommunikasjonsutstyr og som tilbyder har plikt til å lagre etter [lov 4. juli 2003 nr. 83](lov/2003-07-04-83) om elektronisk kommunikasjon [§ 2-7 a](lov/2003-07-04-83/§2-7a). Pålegg kan gis når det foreligger skjellig grunn til mistanke om en eller flere straffbare handlingersom etter loven kan medføre straff av fengsel i 5 år eller mer, ellersom etter loven kan medføre straff av fengsel i 3 år eller mer og det er grunn til å tro at handlingen er utøvet som ledd i virksomheten til en organisert kriminell gruppe, jf. [straffeloven § 79](lov/2005-05-20-28/§79) bokstav c, ellersom rammes av [straffeloven §§ 121](lov/2005-05-20-28/§121), [123](lov/2005-05-20-28/§123), [125](lov/2005-05-20-28/§125), [126](lov/2005-05-20-28/§126), [127](lov/2005-05-20-28/§127) jf. [123](lov/2005-05-20-28/§123), [129](lov/2005-05-20-28/§129), [198](lov/2005-05-20-28/§198), [231](lov/2005-05-20-28/§231), [234](lov/2005-05-20-28/§234), [332](lov/2005-05-20-28/§332) jf. [231](lov/2005-05-20-28/§231), [335](lov/2005-05-20-28/§335) jf. [231](lov/2005-05-20-28/§231), [337](lov/2005-05-20-28/§337) jf. [231](lov/2005-05-20-28/§231), og [340](lov/2005-05-20-28/§340) jf. [231](lov/2005-05-20-28/§231), eller av [utlendingsloven § 108](lov/2008-05-15-35/§108) fjerde ledd.
+Retten kan ved kjennelse pålegge utlevering for et begrenset tidsrom av opplysninger om hvilke telefoner eller annet kommunikasjonsutstyr som innenfor et nærmere bestemt geografisk område har vært satt i forbindelse med bestemte telefoner eller kommunikasjonsutstyr og som tilbyder har plikt til å lagre etter [lov 4. juli 2003 nr. 83](lov/2003-07-04-83) om elektronisk kommunikasjon [§ 2-7 a](lov/2003-07-04-83/§2-7a). Pålegg kan gis når det foreligger skjellig grunn til mistanke om en eller flere straffbare handlinger
+
+1. som etter loven kan medføre straff av fengsel i 5 år eller mer, eller
+2. som etter loven kan medføre straff av fengsel i 3 år eller mer og det er grunn til å tro at handlingen er utøvet som ledd i virksomheten til en organisert kriminell gruppe, jf. [straffeloven § 79](lov/2005-05-20-28/§79) bokstav c, eller
+3. som rammes av [straffeloven §§ 121](lov/2005-05-20-28/§121), [123](lov/2005-05-20-28/§123), [125](lov/2005-05-20-28/§125), [126](lov/2005-05-20-28/§126), [127](lov/2005-05-20-28/§127) jf. [123](lov/2005-05-20-28/§123), [129](lov/2005-05-20-28/§129), [198](lov/2005-05-20-28/§198), [231](lov/2005-05-20-28/§231), [234](lov/2005-05-20-28/§234), [332](lov/2005-05-20-28/§332) jf. [231](lov/2005-05-20-28/§231), [335](lov/2005-05-20-28/§335) jf. [231](lov/2005-05-20-28/§231), [337](lov/2005-05-20-28/§337) jf. [231](lov/2005-05-20-28/§231), og [340](lov/2005-05-20-28/§340) jf. [231](lov/2005-05-20-28/§231), eller av [utlendingsloven § 108](lov/2008-05-15-35/§108) fjerde ledd.
 
 [§ 210 b](lov/1981-05-22-25/§210b) annet til femte ledd gjelder tilsvarende.
 
@@ -95,7 +103,13 @@ Overskriften til [§ 2-7](lov/2003-07-04-83/§2-7) skal lyde:
 
 [§ 2-7](lov/2003-07-04-83/§2-7) annet ledd skal lyde:
 
-Trafikkdata, lokaliseringsdata og data nødvendig for å identifisere abonnenten eller brukeren skal slettes eller anonymiseres så snart de ikke lenger er nødvendigtil kommunikasjons- eller faktureringsformål,for å oppfylle plikten etter [§ 2-7 a](lov/2003-07-04-83/§2-7a) til å lagre data ellerfor å oppfylle andre krav fastsatt i medhold av lov.Annen behandling av slike data krever samtykke fra bruker.
+Trafikkdata, lokaliseringsdata og data nødvendig for å identifisere abonnenten eller brukeren skal slettes eller anonymiseres så snart de ikke lenger er nødvendig
+
+1. til kommunikasjons- eller faktureringsformål,
+2. for å oppfylle plikten etter [§ 2-7 a](lov/2003-07-04-83/§2-7a) til å lagre data eller
+3. for å oppfylle andre krav fastsatt i medhold av lov.
+
+Annen behandling av slike data krever samtykke fra bruker.
 
 Ny [§ 2-7 a](lov/2003-07-04-83/§2-7a) skal lyde:
 
@@ -121,7 +135,13 @@ I [lov 17. juni 2005 nr. 90](lov/2005-06-17-90) om mekling og rettergang i sivil
 
 I [lov 29. juni 2007 nr. 75](lov/2007-06-29-75) om verdipapirhandel (verdipapirhandelloven) skal [§ 15-3](lov/2007-06-29-75/§15-3) annet ledd lyde:
 
-(2) Opplysningsplikten i første ledd gjelder ikke opplysninger som vedkommende ville vært forhindret fra å gi i straffesak. Opplysningsplikten gjelder likevel uten hinder av:lovbestemt taushetsplikt som ellers påhviler ligningsmyndigheter, andre skatte- og avgiftsmyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet,taushetsplikt som nevnt i [lov om elektronisk kommunikasjon § 2-9](lov/2003-07-04-83/§2-9) for så vidt gjelder opplysninger om avtalebasert hemmelig telefonnummer eller andre abonnementsopplysninger og elektronisk kommunikasjonsadresse, ogtaushetsplikt som nevnt i [lov om elektronisk kommunikasjon § 2-9](lov/2003-07-04-83/§2-9) for så vidt gjelder opplysninger om trafikkdata, dersom det er gitt fritak fra slik taushetsplikt. Begjæring om slikt fritak fra taushetsplikten fremsettes av Finanstilsynet for tingretten på det sted hvor det mest praktisk kan skje. Retten kan ved kjennelse gi tilbyder slikt fritak. Ved vurderingen av om fritak skal gis skal det blant annet legges vekt på hensynet til taushetsplikten og sakens opplysning. [Straffeprosessloven § 170 a](lov/1981-05-22-25/§170a) gjelder tilsvarende.Retten sørger for at kjennelsen snarest mulig blir meddelt den mistenkte eller andre som rammes av at taushetsplikten oppheves. [Straffeprosessloven § 210 a](lov/1981-05-22-25/§210a) jf. § 100 a gjelder tilsvarende. Departementet kan i forskrift gi nærmere regler om domstolskontroll og Finanstilsynets behandling av saker etter denne bestemmelsen, herunder regler om behandlingen av overskuddsinformasjon.
+(2) Opplysningsplikten i første ledd gjelder ikke opplysninger som vedkommende ville vært forhindret fra å gi i straffesak. Opplysningsplikten gjelder likevel uten hinder av:
+
+1. lovbestemt taushetsplikt som ellers påhviler ligningsmyndigheter, andre skatte- og avgiftsmyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet,
+2. taushetsplikt som nevnt i [lov om elektronisk kommunikasjon § 2-9](lov/2003-07-04-83/§2-9) for så vidt gjelder opplysninger om avtalebasert hemmelig telefonnummer eller andre abonnementsopplysninger og elektronisk kommunikasjonsadresse, og
+3. taushetsplikt som nevnt i [lov om elektronisk kommunikasjon § 2-9](lov/2003-07-04-83/§2-9) for så vidt gjelder opplysninger om trafikkdata, dersom det er gitt fritak fra slik taushetsplikt. Begjæring om slikt fritak fra taushetsplikten fremsettes av Finanstilsynet for tingretten på det sted hvor det mest praktisk kan skje. Retten kan ved kjennelse gi tilbyder slikt fritak. Ved vurderingen av om fritak skal gis skal det blant annet legges vekt på hensynet til taushetsplikten og sakens opplysning. [Straffeprosessloven § 170 a](lov/1981-05-22-25/§170a) gjelder tilsvarende.
+
+   Retten sørger for at kjennelsen snarest mulig blir meddelt den mistenkte eller andre som rammes av at taushetsplikten oppheves. [Straffeprosessloven § 210 a](lov/1981-05-22-25/§210a) jf. § 100 a gjelder tilsvarende. Departementet kan i forskrift gi nærmere regler om domstolskontroll og Finanstilsynets behandling av saker etter denne bestemmelsen, herunder regler om behandlingen av overskuddsinformasjon.
 
 ## VI
 

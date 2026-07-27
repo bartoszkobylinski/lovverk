@@ -15,7 +15,7 @@ xml_hash: "ac1adff136ec4c2d7b1b6582f3e0041273f46662622b24d458e21c697fa9a66b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,19 @@ eu_basis: []
 
 (1) Det er forbudt å direkte eller indirekte levere, selge eller overføre våpen, ammunisjon og militært materiell av enhver art til Somalia.
 
-(2) Forbudet i første ledd skal ikke gjelde:Levering, salg eller overføringer av våpen, ammunisjon og militært materiell til Somalias føderale regjering (GFRS), Den somaliske nasjonale hæren (SNA), Den nasjonale etterretnings- og sikkerhetstjenesten (NISA), Den somaliske nasjonale politistyrken (SNPF) eller Den somaliske kriminalomsorgen,Levering, salg eller overføringer av våpen, ammunisjon og militært materiell til Somalias føderale medlemsstater og regionale regjeringer eller til godkjente private sikkerhetsfirmaer som opererer i Somalia, forutsatt at følgende vilkår er oppfylt:For varer og teknologi som er oppført i Vedlegg IV til Vedlegg A, at Sanksjonskomiteen har mottatt en melding fra GFRS og ikke har hatt innsigelser innen fem virkedager.For varer og teknologi som er oppført i Vedlegg V til Vedlegg A, at Sanksjonskomiteen har fått en forhåndsmelding fra GFRS til orientering fem virkedager på forhånd.Levering, salg eller overføringer av våpen, ammunisjon og militært materiell som utelukkende er ment til støtte eller til bruk av FN-personell, herunder personell til FNs støtteoppdrag i Somalia (UNSOM), og FNs Støttekontor i Somalia (UNSOS),Levering, salg eller overføringer av våpen, ammunisjon og militært materiell som utelukkende er ment til støtte eller til bruk av Den afrikanske unions overgangsoppdrag i Somalia (ATMIS) og de landene som bidrar med tropper og politi til styrken, samt dens strategiske partnere, som utelukkende opererer i henhold til det nyeste strategiske konseptet fra Den afrikanske union og i samarbeid og samordning med ATMIS,Levering, salg eller overføringer av våpen, ammunisjon og militært materiell som utelukkende er ment til støtte eller til bruk av EUs opplærings- og støtteaktiviteter, Tyrkia, Det forente kongerike Storbritannia og Nord-Irland og Amerikas forente stater, samt alle andre statlige styrker med styrkestatusavtale eller intensjonsavtale med GFRS, forutsatt at de informerer Sanksjonskomiteen om at slike avtaler finnes,Levering, salg eller overføring av vernetøy, herunder skuddsikre vester og militærhjelmer, som er midlertidig eksportert til Somalia av FN-personell, representanter for mediene, private leverandører av sikkerhetstjenester, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige brukLevering, salg eller overføring av ikke-dødelig militært materiell fra medlemsstater eller internasjonale, regionale eller subregionale organisasjoner som utelukkende er ment til humanitære formål eller beskyttende bruk,anløp til somaliske havner for midlertidig besøk av fartøyer som transporterer våpen eller militært materiell til defensive formål, forutsatt at slike varer til enhver tid forblir om bord på disse fartøyene.
+(2) Forbudet i første ledd skal ikke gjelde:
+
+1. Levering, salg eller overføringer av våpen, ammunisjon og militært materiell til Somalias føderale regjering (GFRS), Den somaliske nasjonale hæren (SNA), Den nasjonale etterretnings- og sikkerhetstjenesten (NISA), Den somaliske nasjonale politistyrken (SNPF) eller Den somaliske kriminalomsorgen,
+2. Levering, salg eller overføringer av våpen, ammunisjon og militært materiell til Somalias føderale medlemsstater og regionale regjeringer eller til godkjente private sikkerhetsfirmaer som opererer i Somalia, forutsatt at følgende vilkår er oppfylt:
+
+   1. For varer og teknologi som er oppført i Vedlegg IV til Vedlegg A, at Sanksjonskomiteen har mottatt en melding fra GFRS og ikke har hatt innsigelser innen fem virkedager.
+   2. For varer og teknologi som er oppført i Vedlegg V til Vedlegg A, at Sanksjonskomiteen har fått en forhåndsmelding fra GFRS til orientering fem virkedager på forhånd.
+3. Levering, salg eller overføringer av våpen, ammunisjon og militært materiell som utelukkende er ment til støtte eller til bruk av FN-personell, herunder personell til FNs støtteoppdrag i Somalia (UNSOM), og FNs Støttekontor i Somalia (UNSOS),
+4. Levering, salg eller overføringer av våpen, ammunisjon og militært materiell som utelukkende er ment til støtte eller til bruk av Den afrikanske unions overgangsoppdrag i Somalia (ATMIS) og de landene som bidrar med tropper og politi til styrken, samt dens strategiske partnere, som utelukkende opererer i henhold til det nyeste strategiske konseptet fra Den afrikanske union og i samarbeid og samordning med ATMIS,
+5. Levering, salg eller overføringer av våpen, ammunisjon og militært materiell som utelukkende er ment til støtte eller til bruk av EUs opplærings- og støtteaktiviteter, Tyrkia, Det forente kongerike Storbritannia og Nord-Irland og Amerikas forente stater, samt alle andre statlige styrker med styrkestatusavtale eller intensjonsavtale med GFRS, forutsatt at de informerer Sanksjonskomiteen om at slike avtaler finnes,
+6. Levering, salg eller overføring av vernetøy, herunder skuddsikre vester og militærhjelmer, som er midlertidig eksportert til Somalia av FN-personell, representanter for mediene, private leverandører av sikkerhetstjenester, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige bruk
+7. Levering, salg eller overføring av ikke-dødelig militært materiell fra medlemsstater eller internasjonale, regionale eller subregionale organisasjoner som utelukkende er ment til humanitære formål eller beskyttende bruk,
+8. anløp til somaliske havner for midlertidig besøk av fartøyer som transporterer våpen eller militært materiell til defensive formål, forutsatt at slike varer til enhver tid forblir om bord på disse fartøyene.
 
 > Tilføyd ved [forskrift 23 april 2010 nr. 587](forskrift/2010-04-23-587), endret ved [forskrifter 4 mai 2010 nr. 650](forskrift/2010-05-04-650), [3 feb 2017 nr. 175](forskrift/2017-02-03-175) [24 juni 2021 nr. 2190](forskrift/2021-06-24-2190) (tidligere § 2), [28 nov 2024 nr. 2910](forskrift/2024-11-28-2910).
 
@@ -96,11 +108,19 @@ Forskriften trer i kraft straks.
 
 ### Artikkel 1
 
-1. Det er forbudtdirekte eller indirekte å yte finansiering eller finansiell bistand knyttet til militære aktiviteter i forbindelse med salg, levering, overføring eller eksport av varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell, til personer, enheter eller organer i Somalia,direkte eller indirekte å yte faglig bistand knyttet til militære aktiviteter i forbindelse med varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell, til personer, enheter eller organer i Somalia.
+1. Det er forbudt
+
+   1. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til militære aktiviteter i forbindelse med salg, levering, overføring eller eksport av varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell, til personer, enheter eller organer i Somalia,
+   2. direkte eller indirekte å yte faglig bistand knyttet til militære aktiviteter i forbindelse med varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell, til personer, enheter eller organer i Somalia.
 
 ### Artikkel 1a
 
-I denne forordningen menes med«faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester. Faglig bistand omfatter også muntlig bistand,«finansiering eller finansiell bistand»: enhver handling, uansett hvilken metode som velges, som innebærer at vedkommende person, enhet eller organ, med eller uten forbehold, utbetaler eller forplikter seg til å utbetale egne penger eller økonomiske ressurser, herunder, men ikke begrenset til tilskudd, lån, garantier, kausjoner, obligasjoner, remburser, leverandørkreditter, kjøpekreditter, import- eller eksportforskudd og alle former for forsikring og gjenforsikring, herunder eksportkredittforsikring. Betaling samt vilkår og betingelser for betaling av den avtalte prisen for en vare eller en tjeneste i samsvar med vanlig forretningspraksis, utgjør ikke finansiering eller finansiell bistand,«Sanksjonskomiteen»: FNs sikkerhetsråds komité i henhold til FNs sikkerhetsrådsresolusjon 2713 (2023) vedrørende Al-Shabaab,«EUs territorium»: territoriet til medlemsstatene der [traktaten om Den europeiske unions virkemåte](eu/12016e) kommer til anvendelse, på de vilkårene som er fastsatt i den nevnte traktaten, herunder deres luftrom.
+I denne forordningen menes med
+
+1. «faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester. Faglig bistand omfatter også muntlig bistand,
+2. «finansiering eller finansiell bistand»: enhver handling, uansett hvilken metode som velges, som innebærer at vedkommende person, enhet eller organ, med eller uten forbehold, utbetaler eller forplikter seg til å utbetale egne penger eller økonomiske ressurser, herunder, men ikke begrenset til tilskudd, lån, garantier, kausjoner, obligasjoner, remburser, leverandørkreditter, kjøpekreditter, import- eller eksportforskudd og alle former for forsikring og gjenforsikring, herunder eksportkredittforsikring. Betaling samt vilkår og betingelser for betaling av den avtalte prisen for en vare eller en tjeneste i samsvar med vanlig forretningspraksis, utgjør ikke finansiering eller finansiell bistand,
+3. «Sanksjonskomiteen»: FNs sikkerhetsråds komité i henhold til FNs sikkerhetsrådsresolusjon 2713 (2023) vedrørende Al-Shabaab,
+4. «EUs territorium»: territoriet til medlemsstatene der [traktaten om Den europeiske unions virkemåte](eu/12016e) kommer til anvendelse, på de vilkårene som er fastsatt i den nevnte traktaten, herunder deres luftrom.
 
 ### Artikkel 2
 
@@ -108,10 +128,27 @@ Det er forbudt forsettlig å delta i virksomhet som direkte eller indirekte har 
 
 ### Artikkel 3
 
-1. Artikkel 1 får ikke anvendelse på yting av finansiering eller finansiell bistand knyttet til militære aktiviteter til salg, levering, overføring eller eksport av, eller faglig bistand knyttet til militære aktiviteter i forbindelse med varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell, og som utelukkende er ment som støtte eller til bruk av:Somalias føderale regjering (GFRS), Den somaliske nasjonale hæren (SNA), Den nasjonale etterretnings- og sikkerhetstjenesten (NISA), Den somaliske nasjonale politistyrken (SNPF) eller Den somaliske kriminalomsorgen,FN-personell, herunder personell til FNs støtteoppdrag i Somalia (UNSOM), og FNs Støttekontor i Somalia (UNSOS),Den afrikanske unions overgangsoppdrag i Somalia (ATMIS) og de landene som bidrar med tropper og politi til styrken, samt dens strategiske partnere, som utelukkende opererer i henhold til det nyeste strategiske konseptet fra Den afrikanske union og i samarbeid og samordning med ATMIS,EUs opplærings- og støtteaktiviteter, Tyrkia, Det forente kongeriket Storbritannia og Nord-Irland og Amerikas forente stater, samt alle andre statlige styrker med styrkestatusavtale eller intensjonsavtale med GFRS, forutsatt at de informerer Sanksjonskomiteen om at slike avtaler finnes.
-2. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra Artikkel 1 og gi tillatelse til å yte finansiering eller finansiell bistand knyttet til militære aktiviteter i forbindelse med salg, levering, overføring eller eksport av eller faglig bistand knyttet til militære aktiviteter i forbindelse med varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell, og som utelukkende er ment som støtte eller til bruk av Somalias føderale medlemsstater og regionale regjeringer eller til godkjente private sikkerhetsfirmaer som opererer i Somalia, forutsatt at følgende vilkår er oppfylt:For varer og teknologi som er oppført i vedlegg IV, at Sanksjonskomiteen har mottatt en melding fra GFRS og ikke har hatt innsigelser innen fem virkedager.For varer og teknologi som er oppført i vedlegg V, at Sanksjonskomiteen har fått en forhåndsmelding fra GFRS til orientering fem virkedager på forhånd.
-3. Meldinger i henhold til nr. 2 bokstav a og b skal omfatteopplysninger om produsenten og leverandøren av våpnene, ammunisjonen og det militære materiellet, herunder type, parti eller batch, og serienumre,en beskrivelse av våpnene og ammunisjonen, herunder type, kaliber og mengde,foreslått dato og sted for levering, ogalle relevante opplysninger om den planlagte mottakerenheten eller det planlagte lagringsstedet.
-4. Artikkel 1 får ikke anvendelse på yting av finansiering eller finansiell bistand eller faglig bistand knyttet til:salg, levering, overføring eller eksport av vernetøy, herunder skuddsikre vester og militærhjelmer, som er midlertidig eksportert til Somalia av FN-personell, representanter for mediene, private leverandører av sikkerhetstjenester, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige bruk,salg, levering, overføring eller eksport av ikke-dødelig militært materiell fra medlemsstater eller internasjonale, regionale eller subregionale organisasjoner som utelukkende er ment til humanitært bruk eller til beskyttelse,anløp til somaliske havner for midlertidig besøk av fartøyer som transporterer våpen eller militært materiell til defensive formål, forutsatt at slike varer til enhver tid forblir om bord på disse fartøyene.
+1. Artikkel 1 får ikke anvendelse på yting av finansiering eller finansiell bistand knyttet til militære aktiviteter til salg, levering, overføring eller eksport av, eller faglig bistand knyttet til militære aktiviteter i forbindelse med varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell, og som utelukkende er ment som støtte eller til bruk av:
+
+   1. Somalias føderale regjering (GFRS), Den somaliske nasjonale hæren (SNA), Den nasjonale etterretnings- og sikkerhetstjenesten (NISA), Den somaliske nasjonale politistyrken (SNPF) eller Den somaliske kriminalomsorgen,
+   2. FN-personell, herunder personell til FNs støtteoppdrag i Somalia (UNSOM), og FNs Støttekontor i Somalia (UNSOS),
+   3. Den afrikanske unions overgangsoppdrag i Somalia (ATMIS) og de landene som bidrar med tropper og politi til styrken, samt dens strategiske partnere, som utelukkende opererer i henhold til det nyeste strategiske konseptet fra Den afrikanske union og i samarbeid og samordning med ATMIS,
+   4. EUs opplærings- og støtteaktiviteter, Tyrkia, Det forente kongeriket Storbritannia og Nord-Irland og Amerikas forente stater, samt alle andre statlige styrker med styrkestatusavtale eller intensjonsavtale med GFRS, forutsatt at de informerer Sanksjonskomiteen om at slike avtaler finnes.
+2. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra Artikkel 1 og gi tillatelse til å yte finansiering eller finansiell bistand knyttet til militære aktiviteter i forbindelse med salg, levering, overføring eller eksport av eller faglig bistand knyttet til militære aktiviteter i forbindelse med varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell, og som utelukkende er ment som støtte eller til bruk av Somalias føderale medlemsstater og regionale regjeringer eller til godkjente private sikkerhetsfirmaer som opererer i Somalia, forutsatt at følgende vilkår er oppfylt:
+
+   1. For varer og teknologi som er oppført i vedlegg IV, at Sanksjonskomiteen har mottatt en melding fra GFRS og ikke har hatt innsigelser innen fem virkedager.
+   2. For varer og teknologi som er oppført i vedlegg V, at Sanksjonskomiteen har fått en forhåndsmelding fra GFRS til orientering fem virkedager på forhånd.
+3. Meldinger i henhold til nr. 2 bokstav a og b skal omfatte
+
+   1. opplysninger om produsenten og leverandøren av våpnene, ammunisjonen og det militære materiellet, herunder type, parti eller batch, og serienumre,
+   2. en beskrivelse av våpnene og ammunisjonen, herunder type, kaliber og mengde,
+   3. foreslått dato og sted for levering, og
+   4. alle relevante opplysninger om den planlagte mottakerenheten eller det planlagte lagringsstedet.
+4. Artikkel 1 får ikke anvendelse på yting av finansiering eller finansiell bistand eller faglig bistand knyttet til:
+
+   1. salg, levering, overføring eller eksport av vernetøy, herunder skuddsikre vester og militærhjelmer, som er midlertidig eksportert til Somalia av FN-personell, representanter for mediene, private leverandører av sikkerhetstjenester, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige bruk,
+   2. salg, levering, overføring eller eksport av ikke-dødelig militært materiell fra medlemsstater eller internasjonale, regionale eller subregionale organisasjoner som utelukkende er ment til humanitært bruk eller til beskyttelse,
+   3. anløp til somaliske havner for midlertidig besøk av fartøyer som transporterer våpen eller militært materiell til defensive formål, forutsatt at slike varer til enhver tid forblir om bord på disse fartøyene.
 
 ### Artikkel 3a
 
@@ -123,7 +160,16 @@ Det er forbudt forsettlig å delta i virksomhet som direkte eller indirekte har 
 
 ### Artikkel 3b
 
-1. Det er forbudtå importere trekull til EU dersom dethar opprinnelse i Somalia, ellerer eksportert fra Somalia,å kjøpe trekull som befinner seg i eller har opprinnelse i Somalia,å transportere trekull som har opprinnelse i Somalia eller eksporteres fra Somalia til et annet land,direkte eller indirekte å yte finansiering eller finansiell bistand samt forsikring og gjenforsikring knyttet til import, transport eller kjøp av trekull fra Somalia som nevnt i bokstav a, b og c, ogforsettlig å delta i virksomhet som har som formål eller virkning direkte eller indirekte å omgå forbudet fastsatt i bokstav a, b, c og d.
+1. Det er forbudt
+
+   1. å importere trekull til EU dersom det
+
+      1. har opprinnelse i Somalia, eller
+      2. er eksportert fra Somalia,
+   2. å kjøpe trekull som befinner seg i eller har opprinnelse i Somalia,
+   3. å transportere trekull som har opprinnelse i Somalia eller eksporteres fra Somalia til et annet land,
+   4. direkte eller indirekte å yte finansiering eller finansiell bistand samt forsikring og gjenforsikring knyttet til import, transport eller kjøp av trekull fra Somalia som nevnt i bokstav a, b og c, og
+   5. forsettlig å delta i virksomhet som har som formål eller virkning direkte eller indirekte å omgå forbudet fastsatt i bokstav a, b, c og d.
 2. I denne artikkelen menes med «trekull» de produktene som er oppført i vedlegg II.
 3. Forbudene i nr. 1 gjelder ikke kjøp eller transport av trekull som er eksportert fra Somalia før 22. februar 2012.
 
@@ -132,7 +178,13 @@ Det er forbudt forsettlig å delta i virksomhet som direkte eller indirekte har 
 1. Det er forbudt direkte eller indirekte å selge, eksportere, levere eller overføre komponenter til improviserte eksplosive anordninger som er oppført i vedlegg III til Somalia fra medlemsstatenes territorier eller av statsborgere i medlemsstatene utenfor medlemsstatenes territorier, eller ved bruk av fartøyer eller luftfartøyer som fører medlemsstatenes flagg, med mindre den berørte medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg I, har gitt forhåndstillatelse.
 2. Medlemsstatenes kompetente myndigheter skal ikke gi tillatelse i henhold til nr. 1 dersom det foreligger tilstrekkelig bevis for at produktet/produktene vil bli brukt, eller at det er en betydelig risiko for at de kan bli brukt, til produksjon av improviserte eksplosive anordninger i Somalia.
 3. Forut for salg, eksport, levering eller overføring av varer som opplistet i Vedlegg III til Somalia, skal den berørte medlemsstaten underrette GFRS så den får kjennskap om det. Medlemsstaten skal videre underrette GFRS og Sanksjonskomiteen om salget, leveringen, eller overførselen senest 15 virkedager etter at salget, leveringen eller overføringen fant sted.
-4. Underretning etter nr. 3 skal inneholde alle relevante opplysninger, herunder:formålet med bruken av produktet/produktene,sluttbrukere,tekniske spesifikasjoner,mengde varer, ogplanlagt lagringssted for produktet/produktene.
+4. Underretning etter nr. 3 skal inneholde alle relevante opplysninger, herunder:
+
+   1. formålet med bruken av produktet/produktene,
+   2. sluttbrukere,
+   3. tekniske spesifikasjoner,
+   4. mengde varer, og
+   5. planlagt lagringssted for produktet/produktene.
 
 ### Artikkel 4
 
@@ -162,7 +214,12 @@ Kommisjonen skal endre vedlegg I på grunnlag av opplysninger fra medlemsstatene
 
 ### Artikkel 8
 
-Denne forordningen får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for enhver person som befinner seg et annet sted og er statsborger i en medlemsstat, ogfor alle juridiske personer, enheter og organer etablert eller stiftet i henhold til en medlemsstats lovgivning.
+Denne forordningen får anvendelse
+
+- på EUs territorium, herunder i EUs luftrom,
+- om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,
+- for enhver person som befinner seg et annet sted og er statsborger i en medlemsstat, og
+- for alle juridiske personer, enheter og organer etablert eller stiftet i henhold til en medlemsstats lovgivning.
 
 ### Artikkel 9
 
@@ -280,7 +337,13 @@ Liste med varer nevnt i artikkel 3c
 
 1. Equipment and devices, not specified by item 3 in Annex IV to Council Decision [2010/231/CFSP](eu/32010d0231), that are specially designed to initiate explosives by electrical or non-electrical means (e.g. firing sets, detonators, igniters, detonating chord).
 2. ‘Technology’ ‘required’ for the ‘production’ or ‘use’ of the items listed at paragraphs 1 and 3. (The definitions of the terms ‘technology’, ‘required’, ‘production’ and ‘use’ are from the Common Military List of the European Union)
-3. Explosive materials and precursors, as follows, and mixtures containing one or more thereof: *Name of the substance* *Chemical Abstracts Service Registry number (CAS RN)* *Combined Nomenclature (CN) code [1](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02003R0147-20240320)* Nitroglycerin (except when packaged/prepared in individual medicinal doses) unless compounded or mixed with the ‘energetic material’ specified by ML8.a. or powdered metals specified by ML8.c. of the EU Common Military List 55-63-0 ex 2920 90 70 Nitric acid 7697-37-2 ex 28 08 Sulphuric acid 7664-93-9 ex 28 07
+3. Explosive materials and precursors, as follows, and mixtures containing one or more thereof:
+
+   | *Name of the substance* | *Chemical Abstracts Service Registry number (CAS RN)* | *Combined Nomenclature (CN) code [1](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02003R0147-20240320)* |
+   | --- | --- | --- |
+   | Nitroglycerin (except when packaged/prepared in individual medicinal doses) unless compounded or mixed with the ‘energetic material’ specified by ML8.a. or powdered metals specified by ML8.c. of the EU Common Military List | 55-63-0 | ex 2920 90 70 |
+   | Nitric acid | 7697-37-2 | ex 28 08 |
+   | Sulphuric acid | 7664-93-9 | ex 28 07 |
 
 1 The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of [Council Regulation (EEC) No 2658/87](eu/31987r2658) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1) and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.
 
@@ -318,35 +381,104 @@ Liste med varer nevnt i artikkel 3 nr. 2 bokstav b
 
 ### Artikkel 1
 
-I denne forordningen menes med«penger»: finansielle eiendeler og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av eiendeler,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eierandeler i penger eller finansielle ressurser,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«formuesgoder»: alle typer eiendeler, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,«Sanksjonskomiteen»: komiteen som er opprettet under FNs sikkerhetsråd i henhold til FNs sikkerhetsrådsresolusjon 751 (1992) om Somalia,«faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand,«investeringstjenester»:mottak og formidling av ordre knyttet til ett eller flere finansielle instrumenter,utførelse av ordre på vegne av kunde,omsetning av finansielle instrumenter for egen regning,porteføljeforvaltning,investeringsrådgivning,fulltegningsgaranti for finansielle instrumenter eller plassering av finansielle instrumenter med fulltegningsgaranti,plassering av finansielle instrumenter der foretaket ikke avgir fulltegningsgaranti, ellerdrift av en multilateral handelsfasilitet,forutsatt at virksomheten gjelder noen av de finansielle instrumentene oppført i avsnitt C i vedlegg I til europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039) av 21. april 2004 om markeder for finansielle instrumenter,«EUs territorium»: de territorier der traktatene kommer til anvendelse, på de vilkår som er fastsatt i traktatene,«begrunnelse»: den offentlig tilgjengelige del av saksframstillingen og/eller, der det er aktuelt, et beskrivende sammendrag av Sanksjonskomiteens begrunnelser for listeføringen.
+I denne forordningen menes med
+
+1. «penger»: finansielle eiendeler og fordeler av enhver art, herunder, men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+   2. innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+   4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av eiendeler,
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+   6. remburser, konnossementer og pantebrev,
+   7. dokumenter som viser eierandeler i penger eller finansielle ressurser,
+2. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+3. «formuesgoder»: alle typer eiendeler, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+4. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,
+5. «Sanksjonskomiteen»: komiteen som er opprettet under FNs sikkerhetsråd i henhold til FNs sikkerhetsrådsresolusjon 751 (1992) om Somalia,
+6. «faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand,
+7. «investeringstjenester»:
+
+   1. mottak og formidling av ordre knyttet til ett eller flere finansielle instrumenter,
+   2. utførelse av ordre på vegne av kunde,
+   3. omsetning av finansielle instrumenter for egen regning,
+   4. porteføljeforvaltning,
+   5. investeringsrådgivning,
+   6. fulltegningsgaranti for finansielle instrumenter eller plassering av finansielle instrumenter med fulltegningsgaranti,
+   7. plassering av finansielle instrumenter der foretaket ikke avgir fulltegningsgaranti, eller
+   8. drift av en multilateral handelsfasilitet,
+
+   forutsatt at virksomheten gjelder noen av de finansielle instrumentene oppført i avsnitt C i vedlegg I til europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039) av 21. april 2004 om markeder for finansielle instrumenter,
+8. «EUs territorium»: de territorier der traktatene kommer til anvendelse, på de vilkår som er fastsatt i traktatene,
+9. «begrunnelse»: den offentlig tilgjengelige del av saksframstillingen og/eller, der det er aktuelt, et beskrivende sammendrag av Sanksjonskomiteens begrunnelser for listeføringen.
 
 ### Artikkel 2
 
 1. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, skal fryses.
 2. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I.
-3. Vedlegg I skal bestå av fysiske og juridiske personer, enheter eller organer som er listeført av Sikkerhetsrådet eller Sanksjonskomiteen fordi dedeltar i eller leverer støtte til handlinger som truer freden, sikkerheten eller stabiliteten i Somalia, der slike handlinger omfatter, men ikke er begrenset tilå planlegge, lede eller utføre handlinger som involverer seksualisert og kjønnsbasert vold,å begå handlinger som truer freds- og forsoningsprosessen i Somalia,å begå handlinger som truer Somalias føderale regjering eller Den afrikanske unions overgangsoppdrag i Somalia (ATMIS) med vold,har handlet i strid med våpenembargoen eller forbudet mot å yte relatert bistand eller restriksjonene for videresalg og overføring av våpen som fastsatt i paragraf 34 i FNs sikkerhetsråds resolusjon 2093 (2013),hindrer levering av humanitær bistand til Somalia eller tilgang til eller distribusjon av humanitær bistand i Somalia,er politiske eller militære ledere som rekrutterer eller bruker barn i væpnede konflikter i Somalia i strid med gjeldende folkerett,er ansvarlig for brudd på gjeldende folkerett i Somalia som involverer angrep på sivile, herunder barn og kvinner, i væpnede konflikter, herunder drap og lemlestelse, seksualisert og kjønnsbasert vold, angrep på skoler og sykehus samt bortføring og tvangsfordrivelse,er assosiert med Al-Shabaab, handlinger og aktiviteter som indikerer at en person eller enhet er assosiert med Al-Shabaab, herunder:å delta i finansiering, planlegging, tilrettelegging, forberedelse eller utførelse av handlinger eller aktiviteter av, i forbindelse med, under navnet til, på vegne av eller til støtte for Al-Shabaab,å levere, selge eller overføre våpen og tilknyttet materiell til Al-Shabaab, ogå rekruttere til, eller på annen måte støtte handlingene eller aktivitetene til Al-Shabaab eller enhver celle, tilknyttet gruppe, utbrytergruppe eller avledet gruppe.
+3. Vedlegg I skal bestå av fysiske og juridiske personer, enheter eller organer som er listeført av Sikkerhetsrådet eller Sanksjonskomiteen fordi de
+
+   1. deltar i eller leverer støtte til handlinger som truer freden, sikkerheten eller stabiliteten i Somalia, der slike handlinger omfatter, men ikke er begrenset til
+
+      1. å planlegge, lede eller utføre handlinger som involverer seksualisert og kjønnsbasert vold,
+      2. å begå handlinger som truer freds- og forsoningsprosessen i Somalia,
+      3. å begå handlinger som truer Somalias føderale regjering eller Den afrikanske unions overgangsoppdrag i Somalia (ATMIS) med vold,
+   2. har handlet i strid med våpenembargoen eller forbudet mot å yte relatert bistand eller restriksjonene for videresalg og overføring av våpen som fastsatt i paragraf 34 i FNs sikkerhetsråds resolusjon 2093 (2013),
+   3. hindrer levering av humanitær bistand til Somalia eller tilgang til eller distribusjon av humanitær bistand i Somalia,
+   4. er politiske eller militære ledere som rekrutterer eller bruker barn i væpnede konflikter i Somalia i strid med gjeldende folkerett,
+   5. er ansvarlig for brudd på gjeldende folkerett i Somalia som involverer angrep på sivile, herunder barn og kvinner, i væpnede konflikter, herunder drap og lemlestelse, seksualisert og kjønnsbasert vold, angrep på skoler og sykehus samt bortføring og tvangsfordrivelse,
+   6. er assosiert med Al-Shabaab, handlinger og aktiviteter som indikerer at en person eller enhet er assosiert med Al-Shabaab, herunder:
+
+      1. å delta i finansiering, planlegging, tilrettelegging, forberedelse eller utførelse av handlinger eller aktiviteter av, i forbindelse med, under navnet til, på vegne av eller til støtte for Al-Shabaab,
+      2. å levere, selge eller overføre våpen og tilknyttet materiell til Al-Shabaab, og
+      3. å rekruttere til, eller på annen måte støtte handlingene eller aktivitetene til Al-Shabaab eller enhver celle, tilknyttet gruppe, utbrytergruppe eller avledet gruppe.
 4. Det er forbudt forsettlig å delta i virksomhet som, direkte eller indirekte, har som formål eller virkning å omgå tiltakene nevnt i nr. 1 og 2.
 5. Forbudet fastsatt i nr. 2 skal ikke medføre noen form for ansvar for de fysiske eller juridiske personene, enhetene eller organene som har stilt penger eller formuesgoder til rådighet, dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handlinger ville være i strid med forbudet.
 
 ### Artikkel 3
 
-1. Bestemmelsen i artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 2 ble listeført av Sanksjonskomiteen eller Sikkerhetsrådet,forutsatt at alle renter, avkastninger eller betalinger fortsatt er omfattet av tiltakene i artikkel 2 nr. 1.
+1. Bestemmelsen i artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form av
+
+   1. renter eller annen avkastning på disse kontiene, eller
+   2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 2 ble listeført av Sanksjonskomiteen eller Sikkerhetsrådet,
+
+   forutsatt at alle renter, avkastninger eller betalinger fortsatt er omfattet av tiltakene i artikkel 2 nr. 1.
 2. Artikkel 2 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner i EU kan godskrive frosne konti når de mottar penger overført til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, om slike transaksjoner.
 
 ### Artikkel 4
 
-1. Artikkel 2 nr. 1 og 2 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, ellerandre relevante aktører som fastsatt av Sanksjonskomiteen.
+1. Artikkel 2 nr. 1 og 2 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+   1. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+   2. internasjonale organisasjoner,
+   3. humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+   4. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+   5. ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, eller
+   6. andre relevante aktører som fastsatt av Sanksjonskomiteen.
 2. Unntaket fastsatt i nr. 1 skal ikke medføre noen form for ansvar for de fysiske eller juridiske personene, enhetene eller organene som stilte penger eller formuesgoder til rådighet, dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handlinger ikke ville være omfattet av dette unntaket.
 
 ### Artikkel 5
 
-1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra artikkel 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet, forutsatt atden kompetente myndigheten har fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos personer oppført i vedlegg I og familiemedlemmene de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal brukes til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand, ellerutelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ogden berørte medlemsstaten har underrettet Sanksjonskomiteen om at dette er fastslått, og om sin hensikt om å gi tillatelse, og Sanksjonskomiteen ikke har kommet med innsigelser mot dette innen tre virkedager etter at underretningen ble gitt.
+1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra artikkel 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet, forutsatt at
+
+   1. den kompetente myndigheten har fastslått at pengene eller formuesgodene
+
+      1. er nødvendige for å dekke grunnleggende behov hos personer oppført i vedlegg I og familiemedlemmene de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,
+      2. utelukkende skal brukes til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand, eller
+      3. utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, og
+   2. den berørte medlemsstaten har underrettet Sanksjonskomiteen om at dette er fastslått, og om sin hensikt om å gi tillatelse, og Sanksjonskomiteen ikke har kommet med innsigelser mot dette innen tre virkedager etter at underretningen ble gitt.
 2. Medlemsstatenes kompetente myndigheter, som oppført i vedlegg II, kan gjøre unntak fra bestemmelsene i artikkel 2 og gi tillatelse til å frigi visse frosne penger eller formuesgoder eller stille penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt at den berørte medlemsstaten har underrettet Sanksjonskomiteen om at dette er fastslått, og at Sanksjonskomiteen har godkjent det.
 3. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
 
 ### Artikkel 6
 
-Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra artikkel 2 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før datoen da personen, enheten eller organet omtalt i artikkel 2 ble listeført av Sanksjonskomiteen eller Sikkerhetsrådet, eller for en rettslig, administrativ eller voldgiftsmessig beslutning truffet før denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik rettslig beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,tilbakeholdsretten eller beslutningen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I,tilbakeholdsretten eller den rettslige beslutningen ikke er i strid med grunnleggende rettsstatsprinsipper i den berørte medlemsstaten, ogmedlemsstaten har underrettet Sanksjonskomiteen om tilbakeholdsretten eller beslutningen.
+Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra artikkel 2 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt at
+
+1. pengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før datoen da personen, enheten eller organet omtalt i artikkel 2 ble listeført av Sanksjonskomiteen eller Sikkerhetsrådet, eller for en rettslig, administrativ eller voldgiftsmessig beslutning truffet før denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik rettslig beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. tilbakeholdsretten eller beslutningen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I,
+4. tilbakeholdsretten eller den rettslige beslutningen ikke er i strid med grunnleggende rettsstatsprinsipper i den berørte medlemsstaten, og
+5. medlemsstaten har underrettet Sanksjonskomiteen om tilbakeholdsretten eller beslutningen.
 
 ### Artikkel 7
 
@@ -354,13 +486,20 @@ Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette g
 
 ### Artikkel 8
 
-1. Det er forbudt direkte eller indirekte å yte noe av følgende til fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I:faglig bistand knyttet til militære aktiviteter eller til levering, salg, overføring, produksjon, vedlikehold eller bruk av varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell,finansiering eller finansiell bistand knyttet til militære aktiviteter eller til levering, salg, overføring, produksjon, vedlikehold eller bruk av varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell,investeringstjenester knyttet til militære aktiviteter eller til levering, salg, overføring, produksjon, vedlikehold eller bruk av varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell.
+1. Det er forbudt direkte eller indirekte å yte noe av følgende til fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I:
+
+   1. faglig bistand knyttet til militære aktiviteter eller til levering, salg, overføring, produksjon, vedlikehold eller bruk av varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell,
+   2. finansiering eller finansiell bistand knyttet til militære aktiviteter eller til levering, salg, overføring, produksjon, vedlikehold eller bruk av varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell,
+   3. investeringstjenester knyttet til militære aktiviteter eller til levering, salg, overføring, produksjon, vedlikehold eller bruk av varer og teknologi som er oppført på Den europeiske unions felles liste over militært materiell.
 2. Det er forbudt forsettlig å delta i virksomhet som direkte eller indirekte har som formål eller virkning å omgå forbudet nevnt i nr. 1.
 3. Forbudet fastsatt i nr. 1 bokstav b skal ikke medføre noen form for ansvar for de fysiske eller juridiske personene, enhetene eller organene som leverte finansiering eller finansiell bistand, dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handlinger ville være i strid med forbudet.
 
 ### Artikkel 9
 
-1. Uavhengig av gjeldende regler om rapportering, konfidensialitet og taushetsplikt, skal fysiske eller juridiske personer, enheter eller organerumiddelbart gi kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II for det landet der de er bosatt eller lokalisert, opplysninger som kan gjøre det lettere å overholde denne forordningen, f.eks. kontoer og beløp som er fryst i samsvar med artikkel 2, og gi opplysningene, direkte eller gjennom nevnte kompetente myndigheter, til Kommisjonen, ogsamarbeide med de kompetente myndighetene som er angitt på nettsidene oppført i vedlegg II om eventuell verifisering av disse opplysningene.
+1. Uavhengig av gjeldende regler om rapportering, konfidensialitet og taushetsplikt, skal fysiske eller juridiske personer, enheter eller organer
+
+   1. umiddelbart gi kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II for det landet der de er bosatt eller lokalisert, opplysninger som kan gjøre det lettere å overholde denne forordningen, f.eks. kontoer og beløp som er fryst i samsvar med artikkel 2, og gi opplysningene, direkte eller gjennom nevnte kompetente myndigheter, til Kommisjonen, og
+   2. samarbeide med de kompetente myndighetene som er angitt på nettsidene oppført i vedlegg II om eventuell verifisering av disse opplysningene.
 2. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal benyttes bare til det formål de gis eller mottas for.
 
 ### Artikkel 10
@@ -397,7 +536,13 @@ Vedlegg I inneholder tilgjengelige opplysninger gitt av Sikkerhetsrådet eller a
 
 ### Artikkel 17
 
-Denne forordningen får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for alle personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,for alle juridiske personer, enheter og organer etablert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
+Denne forordningen får anvendelse
+
+1. på EUs territorium, herunder i EUs luftrom,
+2. om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,
+3. for alle personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,
+4. for alle juridiske personer, enheter og organer etablert eller stiftet i henhold til en medlemsstats lovgivning,
+5. for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
 
 ### Artikkel 18
 

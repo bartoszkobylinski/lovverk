@@ -27,8 +27,12 @@ eu_basis: []
 1. Utenriksdepartementet og Departementet for handel og skipsfart slås sammen til ett departement, Utenriksdepartementet, med funksjoner og myndighetsområde.
 2. Forvaltningsansvaret for de lover som er vist i oversikt overføres fra Departementet for handel og skipsfart til Utenriksdepartementet.
 3. Forvaltningsansvaret for de lover som er vist i oversikt overføres fra Departementet for handel- og skipsfart til Finans- og tolldepartementet.
-4. I de forskrifter, bestemmelser, instrukser, avtaler m.v. som er fastsatt eller godkjent ved kgl.res. skal betegnelsen Departementet for handel og skipsfart erstattes med Utenriksdepartementet i de tilfeller hvor ansvarsområdet overføres til det nye Utenriksdepartementet.Utenriksdepartementet gis fullmakt til å foreta den nødvendige endring i disse forskrifter som følger av sammenslutningen.
-5. Forvaltningsansvaret for de styrer, råd og utvalg som er knyttet til de saksfelt og enheter som overføres fra Departementet for handel og skipsfart til Utenriksdepartementet legges til Utenriksdepartementet.Utenriksdepartementet gis fullmakt til å foreta de endringer i instrukser, mandat, representasjon m.v. som overføringen medfører.
+4. I de forskrifter, bestemmelser, instrukser, avtaler m.v. som er fastsatt eller godkjent ved kgl.res. skal betegnelsen Departementet for handel og skipsfart erstattes med Utenriksdepartementet i de tilfeller hvor ansvarsområdet overføres til det nye Utenriksdepartementet.
+
+   Utenriksdepartementet gis fullmakt til å foreta den nødvendige endring i disse forskrifter som følger av sammenslutningen.
+5. Forvaltningsansvaret for de styrer, råd og utvalg som er knyttet til de saksfelt og enheter som overføres fra Departementet for handel og skipsfart til Utenriksdepartementet legges til Utenriksdepartementet.
+
+   Utenriksdepartementet gis fullmakt til å foreta de endringer i instrukser, mandat, representasjon m.v. som overføringen medfører.
 
 ### Oversikt over lover under Handelsdepartementet som overføres til Utenriksdepartementet
 

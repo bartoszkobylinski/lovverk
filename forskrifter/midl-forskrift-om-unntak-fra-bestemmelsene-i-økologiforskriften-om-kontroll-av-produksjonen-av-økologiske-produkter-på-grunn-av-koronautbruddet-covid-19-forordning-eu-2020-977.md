@@ -16,7 +16,7 @@ xml_hash: "18c6c9b0df821d2892031d91a549bf236e9bbf676f45aa34f4417dae6a80996e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,7 +104,9 @@ VEDTATT DENNE FORORDNINGEN:
 
 5\. Som unntak fra artikkel 92c nr. 2 annet ledd bokstav b) i forordning [(EF) nr. 889/2008](eu/32008r0889) skal ytterligere vilkårlige kontrollbesøk som gjennomføres i samsvar med artikkel 65 nr. 4 i nevnte forordning, omfatte 5 % av de driftsansvarlige som omfattes av kontrakt, i samsvar med risikokategorien.
 
-6\. Som unntak fra artikkel 92c nr. 2 annet ledd bokstav c) i forordning [(EF) nr. 889/2008](eu/32008r0889) skal minst 5 % av alle inspeksjoner og besøk som gjennomføres i samsvar med artikkel 65 nr. 1 og 4, være uanmeldte.►**M2** Det kan imidlertid gis et kort varsel inntil 24 timer før slike inspeksjoner og besøk for å sikre at inspektørene har tilgang til den driftsansvarliges lokaler under trygge forhold. ◄**M2**
+6\. Som unntak fra artikkel 92c nr. 2 annet ledd bokstav c) i forordning [(EF) nr. 889/2008](eu/32008r0889) skal minst 5 % av alle inspeksjoner og besøk som gjennomføres i samsvar med artikkel 65 nr. 1 og 4, være uanmeldte.
+
+►**M2** Det kan imidlertid gis et kort varsel inntil 24 timer før slike inspeksjoner og besøk for å sikre at inspektørene har tilgang til den driftsansvarliges lokaler under trygge forhold. ◄**M2**
 
 7\. Som unntak fra artikkel 92e i forordning [(EF) nr. 889/2008](eu/32008r0889) kan den «årlige inspeksjonen» av kontrollorganet nevnt i samme artikkel, og som er planlagt fram til ►**M3** 31.desember 2021 ◄**M3**, erstattes med en «årlig tilsynsrevisjon» som også kan utføres med ethvert tilgjengelig fjernkommunikasjonsmiddel, så lenge nasjonale nødtiltak knyttet til covid-19-pandemien i den berørte medlemsstaten hindrer vedkommende myndighet i å foreta inspeksjonen.
 

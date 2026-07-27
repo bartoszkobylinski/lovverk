@@ -16,7 +16,7 @@ xml_hash: "0852febe8d41793bfea511a7ae71c5b76a3546aa554960bd555f884e64f08852"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,7 +31,10 @@ Forskriften gjelder for fritidsbåter som har toalett, og som oppholder seg i no
 
 ## § 2. Definisjoner
 
-I denne forskriften betyr«toalett» alle former for sanitæranlegg for oppbevaring av sanitært avfall om bord, herunder fast installert toalett, pumpetoalett med eller uten septiktank eller bærbart toalett«kloakk» avløp og annet avfall fra toalett, urinal og lignende.
+I denne forskriften betyr
+
+1. «toalett» alle former for sanitæranlegg for oppbevaring av sanitært avfall om bord, herunder fast installert toalett, pumpetoalett med eller uten septiktank eller bærbart toalett
+2. «kloakk» avløp og annet avfall fra toalett, urinal og lignende.
 
 ## § 3. Utslippsforbud
 
@@ -39,7 +42,11 @@ Utslipp av kloakk i Oslofjorden er forbudt.
 
 ## § 4. Unntak
 
-Forbudet mot utslipp av kloakk i § 3 gjelder ikkeutslipp som følge av skade på fritidsbåten eller utstyret hvis alle rimelige forholdsregler er tatt før og etter at skaden oppstod, for å hindre eller begrense utslippet mest muligfritidsbåter som har et kloakkrenseanlegg i henhold til ISO-standard NS-EN ISO 8099-2fritidsbåter som er vernet eller fredet av Riksantikvaren.
+Forbudet mot utslipp av kloakk i § 3 gjelder ikke
+
+1. utslipp som følge av skade på fritidsbåten eller utstyret hvis alle rimelige forholdsregler er tatt før og etter at skaden oppstod, for å hindre eller begrense utslippet mest mulig
+2. fritidsbåter som har et kloakkrenseanlegg i henhold til ISO-standard NS-EN ISO 8099-2
+3. fritidsbåter som er vernet eller fredet av Riksantikvaren.
 
 ## § 5. Båtførers ansvar
 

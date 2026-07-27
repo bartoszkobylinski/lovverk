@@ -32,7 +32,12 @@ Formålet med denne ordningen er å kompensere tap og merutgifter i forbindelse 
 
 ### § 2. Generelle vilkår
 
-Arrangører som i hovedsak formidler eller gjør kunst og kultur tilgjengelig til allmennheten kan søke om kompensasjon når følgende vilkår er oppfylt:Arrangøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 1. mai 2020.Arrangøren har planlagt å avholde kulturarrangement åpent for allmennheten i Norge i perioden fra og med 1. mai til og med 31. august 2020.Tapte billettinntekter eller merutgifter etter [§ 3](forskrift/2020-07-16-1568/§3) for arrangøren i den gjeldende perioden utgjør minimum 25 000 kroner til sammen etter eventuelle avkortninger nevnt i [§ 4](forskrift/2020-07-16-1568/§4).Arrangøren er ikke under konkursbehandling.
+Arrangører som i hovedsak formidler eller gjør kunst og kultur tilgjengelig til allmennheten kan søke om kompensasjon når følgende vilkår er oppfylt:
+
+1. Arrangøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 1. mai 2020.
+2. Arrangøren har planlagt å avholde kulturarrangement åpent for allmennheten i Norge i perioden fra og med 1. mai til og med 31. august 2020.
+3. Tapte billettinntekter eller merutgifter etter [§ 3](forskrift/2020-07-16-1568/§3) for arrangøren i den gjeldende perioden utgjør minimum 25 000 kroner til sammen etter eventuelle avkortninger nevnt i [§ 4](forskrift/2020-07-16-1568/§4).
+4. Arrangøren er ikke under konkursbehandling.
 
 Arrangører som mottar 60 prosent eller mer av sine inntekter fra offentlig tilskudd i 2019, har ikke rett til kompensasjon etter denne forskriften.
 
@@ -62,7 +67,13 @@ Det utbetales ikke kompensasjon dersom det innen utbetalingen blir åpnet konkur
 
 ### § 5. Generelle vilkår
 
-Underleverandører til kulturarrangement kan søke om kompensasjon når følgende vilkår er oppfylt:Underleverandøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 1. mai 2020.Underleverandøren skulle levert tjenester/innhold til kulturarrangement åpent for allmennheten i Norge i perioden fra og med 1. mai til og med 31. august 2020.Underleverandøren har hatt et omsetningsfall på minst 30 prosent i kalendermånedene det søkes tilskudd for i perioden mai til august 2020, sammenlignet med tilsvarende måned i 2019.Tapte inntekter eller merutgifter etter [§ 6](forskrift/2020-07-16-1568/§6) for underleverandøren i den gjeldende perioden utgjør minimum 25 000 kroner til sammen etter eventuelle avkortninger nevnt i [§ 7](forskrift/2020-07-16-1568/§7).Underleverandøren er ikke under konkursbehandling.
+Underleverandører til kulturarrangement kan søke om kompensasjon når følgende vilkår er oppfylt:
+
+1. Underleverandøren har sin hovedvirksomhet i Norge og var registrert i Enhetsregisteret før 1. mai 2020.
+2. Underleverandøren skulle levert tjenester/innhold til kulturarrangement åpent for allmennheten i Norge i perioden fra og med 1. mai til og med 31. august 2020.
+3. Underleverandøren har hatt et omsetningsfall på minst 30 prosent i kalendermånedene det søkes tilskudd for i perioden mai til august 2020, sammenlignet med tilsvarende måned i 2019.
+4. Tapte inntekter eller merutgifter etter [§ 6](forskrift/2020-07-16-1568/§6) for underleverandøren i den gjeldende perioden utgjør minimum 25 000 kroner til sammen etter eventuelle avkortninger nevnt i [§ 7](forskrift/2020-07-16-1568/§7).
+5. Underleverandøren er ikke under konkursbehandling.
 
 Med underleverandør menes aktører innenfor lys, lyd, bilde og rigg, artister, management, booking og filmdistributører som leverer tjenester eller innhold til et kulturarrangement, og aktører som leier ut lokaler der det skal gjennomføres et kulturarrangement.
 
@@ -102,11 +113,26 @@ Søknadsfrist vil bli fastsatt av Kulturdepartementet.
 
 Søker med tap eller merutgifter knyttet til flere kulturarrangementer må sende samlet søknad for alle kulturarrangementene i perioden det søkes kompensasjon for.
 
-Arrangører skal oppgi følgende opplysninger i søknadsskjemaet:Bekreftelse på at vilkårene i [§ 2](forskrift/2020-07-16-1568/§2) er oppfylt.Oversikt over tap og merutgifter som søkes kompensert i henhold til [§ 3](forskrift/2020-07-16-1568/§3).Informasjon om hvorvidt arrangementet er et samarbeid mellom flere arrangører.Bekreftelse på at kompensasjon ikke har blitt dekket eller kan dekkes på annen måte, jf. [§ 3](forskrift/2020-07-16-1568/§3) fjerde ledd.Opplysninger om hvorvidt kompensasjon etter [§ 3](forskrift/2020-07-16-1568/§3) vil gi et overskudd som overstiger faktisk resultat for tilsvarende periode i 2017–2019, jf. [§ 4](forskrift/2020-07-16-1568/§4) andre ledd, eller opplysninger om hvorvidt kompensasjon etter [§ 3](forskrift/2020-07-16-1568/§3) vil gi et overskudd som overstiger budsjettert resultat for kulturarrangementer i 2020 før avlysning eller stenging, jf. [§ 4](forskrift/2020-07-16-1568/§4) tredje ledd.Bekreftelse på at arrangementet ble avlyst, stengt eller utsatt som følge av pålegg fra statlige myndigheter.Bekreftelse på at arrangøren ikke er under konkursbehandling.
+Arrangører skal oppgi følgende opplysninger i søknadsskjemaet:
+
+1. Bekreftelse på at vilkårene i [§ 2](forskrift/2020-07-16-1568/§2) er oppfylt.
+2. Oversikt over tap og merutgifter som søkes kompensert i henhold til [§ 3](forskrift/2020-07-16-1568/§3).
+3. Informasjon om hvorvidt arrangementet er et samarbeid mellom flere arrangører.
+4. Bekreftelse på at kompensasjon ikke har blitt dekket eller kan dekkes på annen måte, jf. [§ 3](forskrift/2020-07-16-1568/§3) fjerde ledd.
+5. Opplysninger om hvorvidt kompensasjon etter [§ 3](forskrift/2020-07-16-1568/§3) vil gi et overskudd som overstiger faktisk resultat for tilsvarende periode i 2017–2019, jf. [§ 4](forskrift/2020-07-16-1568/§4) andre ledd, eller opplysninger om hvorvidt kompensasjon etter [§ 3](forskrift/2020-07-16-1568/§3) vil gi et overskudd som overstiger budsjettert resultat for kulturarrangementer i 2020 før avlysning eller stenging, jf. [§ 4](forskrift/2020-07-16-1568/§4) tredje ledd.
+6. Bekreftelse på at arrangementet ble avlyst, stengt eller utsatt som følge av pålegg fra statlige myndigheter.
+7. Bekreftelse på at arrangøren ikke er under konkursbehandling.
 
 Dersom et arrangement er et samarbeid mellom flere arrangører, skal den enkelte arrangøren søke om kompensasjon for sin andel av tapte inntekter og eventuelle merutgifter, jf. [§ 3](forskrift/2020-07-16-1568/§3).
 
-Underleverandører skal oppgi følgende opplysninger i søknadsskjemaet:Bekreftelse på at vilkårene i [§ 5](forskrift/2020-07-16-1568/§5) er oppfylt.Oversikt over tap og merutgifter som søkes kompensert i henhold til [§ 6](forskrift/2020-07-16-1568/§6).Bekreftelse på at kompensasjon ikke har blitt dekket eller kan dekkes på annen måte, jf. [§ 6](forskrift/2020-07-16-1568/§6) fjerde ledd.Opplysninger om hvorvidt kompensasjon etter [§ 6](forskrift/2020-07-16-1568/§6) vil gi et overskudd som overstiger faktisk resultat for tilsvarende periode i 2017–2019, jf. [§ 6](forskrift/2020-07-16-1568/§6) andre ledd, eller opplysninger om hvorvidt kompensasjon etter [§ 6](forskrift/2020-07-16-1568/§6) vil gi et overskudd som overstiger budsjettert resultat for kulturarrangementer i 2020 før avlysning eller stenging, jf. [§ 7](forskrift/2020-07-16-1568/§7) tredje ledd.Bekreftelse på at tapte inntekter og merutgifter som søkes kompensert kan knyttes til kulturarrangementer som ble avlyst, stengt eller utsatt som følge av pålegg fra statlige myndigheter.Bekreftelse på at underleverandøren ikke er under konkursbehandling.
+Underleverandører skal oppgi følgende opplysninger i søknadsskjemaet:
+
+1. Bekreftelse på at vilkårene i [§ 5](forskrift/2020-07-16-1568/§5) er oppfylt.
+2. Oversikt over tap og merutgifter som søkes kompensert i henhold til [§ 6](forskrift/2020-07-16-1568/§6).
+3. Bekreftelse på at kompensasjon ikke har blitt dekket eller kan dekkes på annen måte, jf. [§ 6](forskrift/2020-07-16-1568/§6) fjerde ledd.
+4. Opplysninger om hvorvidt kompensasjon etter [§ 6](forskrift/2020-07-16-1568/§6) vil gi et overskudd som overstiger faktisk resultat for tilsvarende periode i 2017–2019, jf. [§ 6](forskrift/2020-07-16-1568/§6) andre ledd, eller opplysninger om hvorvidt kompensasjon etter [§ 6](forskrift/2020-07-16-1568/§6) vil gi et overskudd som overstiger budsjettert resultat for kulturarrangementer i 2020 før avlysning eller stenging, jf. [§ 7](forskrift/2020-07-16-1568/§7) tredje ledd.
+5. Bekreftelse på at tapte inntekter og merutgifter som søkes kompensert kan knyttes til kulturarrangementer som ble avlyst, stengt eller utsatt som følge av pålegg fra statlige myndigheter.
+6. Bekreftelse på at underleverandøren ikke er under konkursbehandling.
 
 Dersom underleverandører søker på grunnlag av kontrakter inngått for 2020, jf. [§ 6](forskrift/2020-07-16-1568/§6) tredje ledd, og flere underleverandører er part i samme kontrakt eller i underliggende kontrakt, skal hver enkelt underleverandør kun søke om kompensasjon for sin andel av tapte inntekter og merutgifter.
 
@@ -130,7 +156,15 @@ Departementet kan ikke instruere klagenemnda i enkeltsaker eller omgjøre klagen
 
 ### § 10. Dokumentasjon
 
-Søkere må på forespørsel bl.a. kunne dokumentere:Spesifikasjon av hvilke kulturarrangementer som inngår i en ev. samlet søknad i henhold til [§ 8](forskrift/2020-07-16-1568/§8) tredje ledd.Tapet eller merutgiftene som søkes kompensert etter [§ 3](forskrift/2020-07-16-1568/§3) eller [§ 6](forskrift/2020-07-16-1568/§6), for eksempel ved å legge frem regnskap fra tidligere års sammenlignbare kulturarrangementer, avtaler, intensjonsavtaler og/eller annen relevant informasjon som viser kostnader, inntekter og eventuelt overskudd, jf. [§ 4](forskrift/2020-07-16-1568/§4) eller [§ 7](forskrift/2020-07-16-1568/§7).Budsjetterte inntekter og utgifter for arrangementet før beslutning om utsettelse, hel eller delvis avlysning eller stenging for arrangører som søker på grunnlag av budsjett for 2020, jf. [§ 3](forskrift/2020-07-16-1568/§3) tredje ledd.Kontrakter på leveranse av tjenester/innhold til kulturarrangement for underleverandører som søker på grunnlag av kontrakter for 2020, jf. [§ 6](forskrift/2020-07-16-1568/§6) tredje ledd.Faktiske inntekter og utgifter for arrangementet etter beslutning om utsettelse, hel eller delvis avlysning eller stenging.At tapet eller merutgiftene ikke er blitt dekket eller kan dekkes på annen måte, jf. [§ 3](forskrift/2020-07-16-1568/§3) fjerde ledd eller [§ 6](forskrift/2020-07-16-1568/§6) fjerde ledd.At det ble gitt pålegg fra statlige myndigheter om utsettelse, hel eller delvis avlysning eller stenging av arrangementet, samt datoen arrangementet ble utsatt, avlyst eller stengt.
+Søkere må på forespørsel bl.a. kunne dokumentere:
+
+1. Spesifikasjon av hvilke kulturarrangementer som inngår i en ev. samlet søknad i henhold til [§ 8](forskrift/2020-07-16-1568/§8) tredje ledd.
+2. Tapet eller merutgiftene som søkes kompensert etter [§ 3](forskrift/2020-07-16-1568/§3) eller [§ 6](forskrift/2020-07-16-1568/§6), for eksempel ved å legge frem regnskap fra tidligere års sammenlignbare kulturarrangementer, avtaler, intensjonsavtaler og/eller annen relevant informasjon som viser kostnader, inntekter og eventuelt overskudd, jf. [§ 4](forskrift/2020-07-16-1568/§4) eller [§ 7](forskrift/2020-07-16-1568/§7).
+3. Budsjetterte inntekter og utgifter for arrangementet før beslutning om utsettelse, hel eller delvis avlysning eller stenging for arrangører som søker på grunnlag av budsjett for 2020, jf. [§ 3](forskrift/2020-07-16-1568/§3) tredje ledd.
+4. Kontrakter på leveranse av tjenester/innhold til kulturarrangement for underleverandører som søker på grunnlag av kontrakter for 2020, jf. [§ 6](forskrift/2020-07-16-1568/§6) tredje ledd.
+5. Faktiske inntekter og utgifter for arrangementet etter beslutning om utsettelse, hel eller delvis avlysning eller stenging.
+6. At tapet eller merutgiftene ikke er blitt dekket eller kan dekkes på annen måte, jf. [§ 3](forskrift/2020-07-16-1568/§3) fjerde ledd eller [§ 6](forskrift/2020-07-16-1568/§6) fjerde ledd.
+7. At det ble gitt pålegg fra statlige myndigheter om utsettelse, hel eller delvis avlysning eller stenging av arrangementet, samt datoen arrangementet ble utsatt, avlyst eller stengt.
 
 Budsjett og regnskap skal på forespørsel bekreftes av daglig leder eller styreleder. Søkes det om kompensasjon for tap eller merutgifter over 1 million kroner, skal det på forespørsel kunne fremlegges revisorattestestasjon for beregningen av kompensasjonsbeløpet.
 

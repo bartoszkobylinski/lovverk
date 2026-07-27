@@ -15,7 +15,7 @@ xml_hash: "61d22e7f5fd3db9c66aa5f40193f84a639add22bbea5449fa54167e6602cbd85"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,28 @@ På kontinentalsokkelen og i jurisdiksjonsområder opprettet i medhold av [lov 1
 
 ### § 3. (definisjoner)
 
-I denne lov forstås medart: etter biologiske kriterier bestemte grupper av levende organismer;bestand: en gruppe individer av samme art som lever innenfor et avgrenset område til samme tid;biologisk mangfold: mangfoldet av økosystemer, arter og genetiske variasjoner innenfor artene, og de økologiske sammenhengene mellom disse komponentene;dyr: pattedyr, fugler, krypdyr, amfibier, fisk og virvelløse dyr;fremmed organisme: en organisme som ikke hører til noen art eller bestand som forekommer naturlig på stedet;genetisk materiale: gener og annet arvemateriale i ethvert biologisk materiale, som kan overføres til andre organismer med eller uten hjelp av teknologi, likevel ikke genetisk materiale fra mennesker;høsting: jakt, fangst, fiske og innsamling av planter eller plantedeler (medregnet bær og frukter) og sopp, i friluftsliv og næring;innførsel: kryssing av grense på land mot nabostat eller ilandføring fra områder utenfor lovens virkeområde;naturmangfold: biologisk mangfold, landskapsmessig mangfold og geologisk mangfold, som ikke i det alt vesentlige er et resultat av menneskers påvirkning;naturtype: ensartet type natur som omfatter alle levende organismer og de miljøfaktorene som virker der, eller spesielle typer naturforekomster som dammer, åkerholmer eller lignende, samt spesielle typer geologiske forekomster;organisme: enkeltindivid av planter, dyr, sopp og mikroorganismer, inkludert alle deler som er i stand til å formere seg eller overføre genetisk materiale;planter: karplanter, moser og alger;sopp: sopp og lav;utsetting: utsetting, bevisst utslipp eller deponering som avfall av organismer i miljøet, eller i et innesluttet system der rømming ikke er utelukket;uttak: enhver form for avliving eller fjerning av hele eller deler av organismer fra naturen uansett formål;vilt: naturlig viltlevende landpattedyr, fugler, krypdyr og amfibier;virvelløse dyr: dyr uten ryggsøyle;økologisk funksjonsområde: område – med avgrensing som kan endre seg over tid – som oppfyller en økologisk funksjon for en art, slik som gyteområde, oppvekstområde, larvedriftsområde, vandrings- og trekkruter, beiteområde, hiområde, myte- eller hårfellingsområde, overnattingsområde, spill- eller parringsområde, trekkvei, yngleområde, overvintringsområde og leveområde;økologisk tilstand: status og utvikling for funksjoner, struktur og produktivitet i en naturtypes lokaliteter sett i lys av aktuelle påvirkningsfaktorer;økosystem: et mer eller mindre velavgrenset og ensartet natursystem der samfunn av planter, dyr, sopp og mikroorganismer fungerer i samspill innbyrdes og med det ikke-levende miljøet.
+I denne lov forstås med
+
+1. art: etter biologiske kriterier bestemte grupper av levende organismer;
+2. bestand: en gruppe individer av samme art som lever innenfor et avgrenset område til samme tid;
+3. biologisk mangfold: mangfoldet av økosystemer, arter og genetiske variasjoner innenfor artene, og de økologiske sammenhengene mellom disse komponentene;
+4. dyr: pattedyr, fugler, krypdyr, amfibier, fisk og virvelløse dyr;
+5. fremmed organisme: en organisme som ikke hører til noen art eller bestand som forekommer naturlig på stedet;
+6. genetisk materiale: gener og annet arvemateriale i ethvert biologisk materiale, som kan overføres til andre organismer med eller uten hjelp av teknologi, likevel ikke genetisk materiale fra mennesker;
+7. høsting: jakt, fangst, fiske og innsamling av planter eller plantedeler (medregnet bær og frukter) og sopp, i friluftsliv og næring;
+8. innførsel: kryssing av grense på land mot nabostat eller ilandføring fra områder utenfor lovens virkeområde;
+9. naturmangfold: biologisk mangfold, landskapsmessig mangfold og geologisk mangfold, som ikke i det alt vesentlige er et resultat av menneskers påvirkning;
+10. naturtype: ensartet type natur som omfatter alle levende organismer og de miljøfaktorene som virker der, eller spesielle typer naturforekomster som dammer, åkerholmer eller lignende, samt spesielle typer geologiske forekomster;
+11. organisme: enkeltindivid av planter, dyr, sopp og mikroorganismer, inkludert alle deler som er i stand til å formere seg eller overføre genetisk materiale;
+12. planter: karplanter, moser og alger;
+13. sopp: sopp og lav;
+14. utsetting: utsetting, bevisst utslipp eller deponering som avfall av organismer i miljøet, eller i et innesluttet system der rømming ikke er utelukket;
+15. uttak: enhver form for avliving eller fjerning av hele eller deler av organismer fra naturen uansett formål;
+16. vilt: naturlig viltlevende landpattedyr, fugler, krypdyr og amfibier;
+17. virvelløse dyr: dyr uten ryggsøyle;
+18. økologisk funksjonsområde: område – med avgrensing som kan endre seg over tid – som oppfyller en økologisk funksjon for en art, slik som gyteområde, oppvekstområde, larvedriftsområde, vandrings- og trekkruter, beiteområde, hiområde, myte- eller hårfellingsområde, overnattingsområde, spill- eller parringsområde, trekkvei, yngleområde, overvintringsområde og leveområde;
+19. økologisk tilstand: status og utvikling for funksjoner, struktur og produktivitet i en naturtypes lokaliteter sett i lys av aktuelle påvirkningsfaktorer;
+20. økosystem: et mer eller mindre velavgrenset og ensartet natursystem der samfunn av planter, dyr, sopp og mikroorganismer fungerer i samspill innbyrdes og med det ikke-levende miljøet.
 
 ## Kapittel II. Alminnelige bestemmelser om bærekraftig bruk
 
@@ -158,7 +179,15 @@ Eieren, eller en som opptrer på vegne av eieren, skal ved grunn til mistanke om
 
 ### § 18. (annet uttak av vilt og lakse- og innlandsfisk etter vurdering av myndighetene)
 
-Kongen kan ved forskrift eller enkeltvedtak tillate uttak av vilt og lakse- og innlandsfiskfor å beskytte naturlig forekommende planter, dyr og økosystemer,for å avverge skade på avling, husdyr, tamrein, skog, fisk, vann eller annen eiendom,for å ivareta allmenne helse- og sikkerhetshensyn eller andre offentlige interesser av vesentlig betydning,for innfanging til gjenoppbygging av bestander,for innfanging til lovlig oppdrettsvirksomhet,for forskning, undervisning eller taksonomisk virksomhet, ellersom er fremmede organismer.
+Kongen kan ved forskrift eller enkeltvedtak tillate uttak av vilt og lakse- og innlandsfisk
+
+1. for å beskytte naturlig forekommende planter, dyr og økosystemer,
+2. for å avverge skade på avling, husdyr, tamrein, skog, fisk, vann eller annen eiendom,
+3. for å ivareta allmenne helse- og sikkerhetshensyn eller andre offentlige interesser av vesentlig betydning,
+4. for innfanging til gjenoppbygging av bestander,
+5. for innfanging til lovlig oppdrettsvirksomhet,
+6. for forskning, undervisning eller taksonomisk virksomhet, eller
+7. som er fremmede organismer.
 
 Vedtak etter første ledd bokstav a til f kan bare treffes hvis uttaket ikke truer bestandens overlevelse og formålet ikke kan nås på annen tilfredsstillende måte. Det skal ved vurdering av uttak av rovvilt etter første ledd bokstav c legges vekt på om bestandsmål som er vedtatt i Stortinget er nådd.
 
@@ -174,7 +203,11 @@ Når husdyr og tamrein blir drept eller skadet av rovvilt, yter staten full erst
 
 ### § 20. (uttak av virvelløse dyr)
 
-Med mindre annet er bestemt, er det tillatt åavlive virvelløse dyr som er til plage eller skade,avlive fremmede virvelløse dyr,utta virvelløse dyr når det ikke truer bestanden i området.
+Med mindre annet er bestemt, er det tillatt å
+
+1. avlive virvelløse dyr som er til plage eller skade,
+2. avlive fremmede virvelløse dyr,
+3. utta virvelløse dyr når det ikke truer bestanden i området.
 
 Når myndigheten etter loven treffer tiltak etter første ledd bokstav a eller b, kan dette om nødvendig skje på andres faste eiendom.
 
@@ -200,7 +233,11 @@ For å hindre skade eller ulempe for planter eller dyr kan Kongen gi forskrift o
 
 ### § 23. (prioriterte arter)
 
-Kongen i statsråd kan ved forskrift utpeke nærmere angitte arter som prioritert. Ved avgjørelsen legges vesentlig vekt på omarten har en bestandssituasjon eller bestandsutvikling som strider mot målet i [§ 5](lov/2009-06-19-100/§5) første ledd,arten har en vesentlig andel av sin naturlige utbredelse eller genetiske særtrekk i Norge, ellerdet er internasjonale forpliktelser knyttet til arten.
+Kongen i statsråd kan ved forskrift utpeke nærmere angitte arter som prioritert. Ved avgjørelsen legges vesentlig vekt på om
+
+1. arten har en bestandssituasjon eller bestandsutvikling som strider mot målet i [§ 5](lov/2009-06-19-100/§5) første ledd,
+2. arten har en vesentlig andel av sin naturlige utbredelse eller genetiske særtrekk i Norge, eller
+3. det er internasjonale forpliktelser knyttet til arten.
 
 I sjø anvendes bestemmelsen i første ledd bokstav b bare i særlige tilfeller.
 
@@ -210,7 +247,11 @@ Departementet kan ved forskrift avgjøre at en prioritering etter første ledd b
 
 ### § 24. (beskyttelsens innhold)
 
-En forskrift om prioriterte arter etter [§ 23](lov/2009-06-19-100/§23) første ledd kanfastsette forbud mot enhver form for uttak, skade eller ødeleggelse av en prioritert art eller bestemte bestander av den, og at reglene i [§§ 15](lov/2009-06-19-100/§15) til [22](lov/2009-06-19-100/§22) bare gjelder så langt det følger av forskriften,gi regler om beskyttelse av visse typer økologiske funksjonsområder av mindre omfang. De hensyn som pålegges må ikke medføre en vesentlig vanskeliggjøring av igangværende bruk. Dersom summen av hensyn i etterkant av vedtaket gir restriksjoner som medfører en vesentlig vanskeliggjøring og et vesentlig tap, kan grunneier kreve at området vernes etter [kapittel V](lov/2009-06-19-100/kapv) eller at det gjøres unntak fra prioriteringen for de aktuelle områdene etter femte ledd. Bestemmelsen gjelder ikke i sjø,sette krav om å klarlegge følgene for arten av planlagte inngrep i dens funksjonsområder, herunder klarlegging av alternative funksjonsområder som kan bidra til å sikre bevaring av arten i samsvar med [§ 5](lov/2009-06-19-100/§5) første ledd.
+En forskrift om prioriterte arter etter [§ 23](lov/2009-06-19-100/§23) første ledd kan
+
+1. fastsette forbud mot enhver form for uttak, skade eller ødeleggelse av en prioritert art eller bestemte bestander av den, og at reglene i [§§ 15](lov/2009-06-19-100/§15) til [22](lov/2009-06-19-100/§22) bare gjelder så langt det følger av forskriften,
+2. gi regler om beskyttelse av visse typer økologiske funksjonsområder av mindre omfang. De hensyn som pålegges må ikke medføre en vesentlig vanskeliggjøring av igangværende bruk. Dersom summen av hensyn i etterkant av vedtaket gir restriksjoner som medfører en vesentlig vanskeliggjøring og et vesentlig tap, kan grunneier kreve at området vernes etter [kapittel V](lov/2009-06-19-100/kapv) eller at det gjøres unntak fra prioriteringen for de aktuelle områdene etter femte ledd. Bestemmelsen gjelder ikke i sjø,
+3. sette krav om å klarlegge følgene for arten av planlagte inngrep i dens funksjonsområder, herunder klarlegging av alternative funksjonsområder som kan bidra til å sikre bevaring av arten i samsvar med [§ 5](lov/2009-06-19-100/§5) første ledd.
 
 Forskriften kan gi regler om skjøtselstiltak i samsvar med [§ 47](lov/2009-06-19-100/§47) når dette er nødvendig for å sikre bevaring av arten. Offentlige tilskuddsordninger skal så langt mulig bidra til å sikre bevaring av en prioritert art.
 
@@ -268,7 +309,11 @@ Med mindre annet er bestemt ved forskrift gitt av Kongen, kreves ikke tillatelse
 
 ### § 30. (utsetting og omsetning)
 
-Ingen må uten med hjemmel i [§ 31](lov/2009-06-19-100/§31) eller tillatelse fra myndigheten etter denne loven sette utorganismer av arter og underarter som ikke finnes naturlig i Norge, herunder utenlandske treslag,vilt av arter, underarter eller bestander som ikke fra før finnes naturlig i distriktet,organismer, unntatt stedegen stamme, i sjø eller vassdrag, herunder kunstige dammer, med mindre det foreligger tillatelse etter [lov 17. juni 2005 nr. 79](lov/2005-06-17-79) om akvakultur (akvakulturloven). Utsetting av stedegen stamme til kultiveringsformål krever tillatelse etter lakse- og innlandsfiskloven.
+Ingen må uten med hjemmel i [§ 31](lov/2009-06-19-100/§31) eller tillatelse fra myndigheten etter denne loven sette ut
+
+1. organismer av arter og underarter som ikke finnes naturlig i Norge, herunder utenlandske treslag,
+2. vilt av arter, underarter eller bestander som ikke fra før finnes naturlig i distriktet,
+3. organismer, unntatt stedegen stamme, i sjø eller vassdrag, herunder kunstige dammer, med mindre det foreligger tillatelse etter [lov 17. juni 2005 nr. 79](lov/2005-06-17-79) om akvakultur (akvakulturloven). Utsetting av stedegen stamme til kultiveringsformål krever tillatelse etter lakse- og innlandsfiskloven.
 
 Kongen kan gi forskrift om krav om tillatelse for utsetting av organismer som ikke fra før finnes naturlig på stedet, med unntak for utsetting av planter i private hager. Kongen kan også gi forskrift om forbud mot utsetting og omsetning av bestemte organismer hvis det anses nødvendig for å unngå vesentlige uheldige følger for det biologiske mangfold.
 
@@ -278,7 +323,13 @@ Søknad om tillatelse til utsetting etter første ledd og etter forskrift gitt m
 
 ### § 31. (utsetting uten særskilt tillatelse)
 
-Utsetting uten særskilt tillatelse kan skje dersom aktsomhetsplikten etter [§ 28](lov/2009-06-19-100/§28) blir overholdt, avorganismer som er innført med tillatelse etter [§ 29](lov/2009-06-19-100/§29) første ledd, jf. annet ledd med sikte på utsetting,norske treslag,planter i private hager,planter i parkanlegg og andre dyrkete områder, hvis plantene i liten grad kan påregnes å spre seg utenfor området og spredningen ikke kan påregnes å medføre fare for uheldige følger for det biologiske mangfold, ogbiologiske plantevernmidler som det er gitt tillatelse til utsetting av i eller i medhold av annet lovverk.
+Utsetting uten særskilt tillatelse kan skje dersom aktsomhetsplikten etter [§ 28](lov/2009-06-19-100/§28) blir overholdt, av
+
+1. organismer som er innført med tillatelse etter [§ 29](lov/2009-06-19-100/§29) første ledd, jf. annet ledd med sikte på utsetting,
+2. norske treslag,
+3. planter i private hager,
+4. planter i parkanlegg og andre dyrkete områder, hvis plantene i liten grad kan påregnes å spre seg utenfor området og spredningen ikke kan påregnes å medføre fare for uheldige følger for det biologiske mangfold, og
+5. biologiske plantevernmidler som det er gitt tillatelse til utsetting av i eller i medhold av annet lovverk.
 
 Kongen kan gi forskrift om at nærmere angitte organismer eller grupper av organismer kan settes ut uten særskilt tillatelse hvis utsettingen ikke kan påregnes å medføre fare for uheldige følger for det biologiske mangfold. Det kan da stilles krav om melding, og adgangen til utsetting uten tillatelse kan begrenses til nærmere bestemte områder.
 
@@ -298,7 +349,16 @@ Vurderinger etter dette kapitlet skal ikke omfatte hensyn til planters, dyrs og 
 
 ### § 33. (mål for områdevern)
 
-Verneområder på land, i vassdrag og i sjø etter dette kapittel skal bidra til bevaring avvariasjonsbredden av naturtyper og landskap,arter og genetisk mangfold,truet natur og økologiske funksjonsområder for prioriterte arter,større intakte økosystemer, også slik at de kan være tilgjengelige for enkelt friluftsliv,områder med særskilte naturhistoriske verdier,natur preget av menneskers bruk gjennom tidene (kulturlandskap) eller som også har kulturhistoriske verdier, og tilrettelegging for bruk som bidrar til å opprettholde naturverdiene,økologiske og landskapsmessige sammenhenger nasjonalt og internasjonalt, ellerreferanseområder for å følge utviklingen i naturen.
+Verneområder på land, i vassdrag og i sjø etter dette kapittel skal bidra til bevaring av
+
+1. variasjonsbredden av naturtyper og landskap,
+2. arter og genetisk mangfold,
+3. truet natur og økologiske funksjonsområder for prioriterte arter,
+4. større intakte økosystemer, også slik at de kan være tilgjengelige for enkelt friluftsliv,
+5. områder med særskilte naturhistoriske verdier,
+6. natur preget av menneskers bruk gjennom tidene (kulturlandskap) eller som også har kulturhistoriske verdier, og tilrettelegging for bruk som bidrar til å opprettholde naturverdiene,
+7. økologiske og landskapsmessige sammenhenger nasjonalt og internasjonalt, eller
+8. referanseområder for å følge utviklingen i naturen.
 
 Når det etter en annen lov treffes vedtak om å beskytte naturen i et område, bør det legges vekt på målene i første ledd. Inngår slike vedtak etter annen lov i en plan som omfatter områder beskyttet ved vedtak etter denne loven, kan Kongen gi regler for å sikre at beskyttelsen etter de forskjellige lovene samordnes i forhold til målet med planen.
 
@@ -314,7 +374,12 @@ Innenfor den rammen som gjelder for den enkelte vernekategori, kan Kongen i fors
 
 Verneforskriften skal ikke være til hinder for å videreføre bærekraftig bruk som bygger opp under verneformålet i et område.
 
-For etablerte verneområder kan Kongen delegere adgangen til å foreta følgende mindre endringer i verneforskriftene:endre verneområdets navnrette opp feil og unøyaktigheter i beskrivelsen av verneområdetforeta grenseendringer som omfatter mindre arealer og som ikke får nevneverdig betydning for private interesser.fastsette bestemmelse om forvaltningsmyndighet og annen myndighet etter loven, jf. [§ 62](lov/2009-06-19-100/§62).
+For etablerte verneområder kan Kongen delegere adgangen til å foreta følgende mindre endringer i verneforskriftene:
+
+1. endre verneområdets navn
+2. rette opp feil og unøyaktigheter i beskrivelsen av verneområdet
+3. foreta grenseendringer som omfatter mindre arealer og som ikke får nevneverdig betydning for private interesser.
+4. fastsette bestemmelse om forvaltningsmyndighet og annen myndighet etter loven, jf. [§ 62](lov/2009-06-19-100/§62).
 
 > Endret ved [lover 14 juni 2013 nr. 51](lov/2013-06-14-51) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 674](forskrift/2013-06-14-674)), [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)).
 
@@ -340,7 +405,13 @@ Utkast til forvaltningsplan skal legges frem samtidig med vernevedtaket. Der det
 
 ### § 37. (naturreservater)
 
-Som naturreservat kan vernes områder sominneholder truet, sjelden eller sårbar natur,representerer en bestemt type natur,på annen måte har særlig betydning for biologisk mangfold,utgjør en spesiell geologisk forekomst, ellerhar særskilt naturvitenskapelig verdi.
+Som naturreservat kan vernes områder som
+
+1. inneholder truet, sjelden eller sårbar natur,
+2. representerer en bestemt type natur,
+3. på annen måte har særlig betydning for biologisk mangfold,
+4. utgjør en spesiell geologisk forekomst, eller
+5. har særskilt naturvitenskapelig verdi.
 
 Som naturreservat kan også vernes et område som er egnet til ved fri utvikling eller aktive gjenopprettingstiltak å få verneverdier som nevnt i første ledd.
 
@@ -356,7 +427,15 @@ Som biotopvernområde kan vernes et område som har eller kan få særskilt bety
 
 Det kan opprettes verneområder i sjø for å beskytte marine verneverdier, herunder naturverdier som er økologiske betingelser for landlevende arter.
 
-Som marine verneområder kan vernes områder sominneholder særegne eller representative økosystemer og som er uten tyngre naturinngrep,inneholder truet, sjelden eller sårbar natur,representerer en bestemt type natur,på annen måte har særlig betydning for biologisk mangfold,utgjør en spesiell geologisk forekomst,har særskilt naturvitenskapelig verdi, ellerhar særskilt betydning som økologisk funksjonsområde for en eller flere nærmere bestemte arter.
+Som marine verneområder kan vernes områder som
+
+1. inneholder særegne eller representative økosystemer og som er uten tyngre naturinngrep,
+2. inneholder truet, sjelden eller sårbar natur,
+3. representerer en bestemt type natur,
+4. på annen måte har særlig betydning for biologisk mangfold,
+5. utgjør en spesiell geologisk forekomst,
+6. har særskilt naturvitenskapelig verdi, eller
+7. har særskilt betydning som økologisk funksjonsområde for en eller flere nærmere bestemte arter.
 
 Verneområder i sjø kan opprettes for å oppfylle ett eller flere av målene i [§ 33](lov/2009-06-19-100/§33) første ledd.
 
@@ -458,7 +537,11 @@ En eier eller rettighetshaver i eiendom som helt eller delvis blir vernet som na
 
 Når vilkårene etter første ledd er oppfylt, fastsettes erstatningen for tap i igangværende bruk i samsvar med utmålingsreglene i [lov 6. april 1984 nr. 17](lov/1984-04-06-17) om vederlag ved oreigning av fast eigedom (ekspropriasjonserstatningslova). Ved anvendelsen av nevnte lov [§ 10](lov/2009-06-19-100/§10) er det tidspunktet for vernevedtaket som skal legges til grunn.
 
-Kongen fastsetter ved forskrift hva som regnes som igangværende bruk for virksomhet i henhold tilutvinningstillatelse etter [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet (petroleumsloven),utmål etter [lov 30. juni 1972 nr. 70](lov/1972-06-30-70) om bergverk (bergverksloven)1,[mineralloven](lov/2009-06-19-101).
+Kongen fastsetter ved forskrift hva som regnes som igangværende bruk for virksomhet i henhold til
+
+1. utvinningstillatelse etter [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet (petroleumsloven),
+2. utmål etter [lov 30. juni 1972 nr. 70](lov/1972-06-30-70) om bergverk (bergverksloven)1,
+3. [mineralloven](lov/2009-06-19-101).
 
 1 Inkurie: Loven er opphevet, se [mineralloven](lov/2009-06-19-101).
 
@@ -478,7 +561,12 @@ Skjønnet holdes etter reglene i [lov 1. juni 1917 nr. 1](lov/1917-06-01-1) om s
 
 For å fremme målet i § 4 kan Kongen i statsråd fastsette forskrift som angir bestemte naturtyper som utvalgte i hele eller deler av landet. Det kan i forskriften angis nærmere kriterier for hvilken type forekomster av naturtypen som omfattes av reglene i dette kapittel.
 
-Ved avgjørelsen av om en naturtype skal bli utvalgt, skal det legges særlig vekt på omnaturtypen har en utvikling eller tilstand som strider mot målet i [§ 4](lov/2009-06-19-100/§4),naturtypen er viktig for en eller flere prioriterte arter,naturtypen har en vesentlig andel av sin utbredelse i Norge, ellerdet er internasjonale forpliktelser knyttet til naturtypen.
+Ved avgjørelsen av om en naturtype skal bli utvalgt, skal det legges særlig vekt på om
+
+1. naturtypen har en utvikling eller tilstand som strider mot målet i [§ 4](lov/2009-06-19-100/§4),
+2. naturtypen er viktig for en eller flere prioriterte arter,
+3. naturtypen har en vesentlig andel av sin utbredelse i Norge, eller
+4. det er internasjonale forpliktelser knyttet til naturtypen.
 
 Når det foreligger dokumentasjon for at en naturtype etter vitenskapelige kriterier antas å ha en tilstand eller utvikling som vesentlig strider mot målet i [§ 4](lov/2009-06-19-100/§4), skal myndighetene etter loven her – av eget tiltak eller etter krav fra en organisasjon eller andre med rettslig interesse – vurdere om det bør gis forskrift etter første ledd.
 
@@ -534,7 +622,12 @@ Genetisk materiale fra naturen er en felles ressurs som tilhører fellesskapet i
 
 Kongen kan fastsette at uttak fra naturen av biologisk materiale med formål om å utnytte det genetiske materiale eller utnytting av slikt materiale, krever tillatelse av departementet. Foreligger en tillatelse til uttak, kreves ikke ny tillatelse for senere utnytting, men vilkårene for tillatelsen gjelder tilsvarende for erververen av materialet eller resultatene fra uttaket. Uttak til offentlige samlinger og til bruk og videreforedling i jord- og skogbruk krever ikke tillatelse.
 
-Første ledd innskrenker ikke den rett som en eier eller annen berettiget har på annet grunnlag til å nekte tilgangtil det biologiske materialet, ellertil grunnensom det genetiske materialet hentes fra.
+Første ledd innskrenker ikke den rett som en eier eller annen berettiget har på annet grunnlag til å nekte tilgang
+
+1. til det biologiske materialet, eller
+2. til grunnen
+
+som det genetiske materialet hentes fra.
 
 Myndigheten kan ved tillatelsen etter første ledd gjøre unntak fra bestemmelsene i [kapittel III](lov/2009-06-19-100/kapiii).
 
@@ -564,7 +657,12 @@ Når genetisk materiale, eller tradisjonell kunnskap knyttet til slikt materiale
 
 Hvis leverandørlandet er et annet land enn opprinnelseslandet for det genetiske materialet eller den tradisjonelle kunnskapen, skal det også følge med opplysning om opprinnelsesland. Med opprinnelsesland menes det landet der materialet ble hentet ut fra sine naturlige omgivelser og for tradisjonell kunnskap det landet der kunnskapen ble utviklet. Hvis nasjonal rett i opprinnelseslandet krever samtykke til uttak av genetisk materiale eller bruk av tradisjonell kunnskap, skal det følge med opplysning om slikt samtykke er innhentet og om det foreligger gjensidig avtalte vilkår. Er opplysningene etter dette leddet ukjent, skal det opplyses om dette.
 
-Kongen kan gi forskrift omnærmere krav til opplysningene som skal foreligge etter annet og tredje ledd, og krav til ytterligere opplysningerplikt for utnytteren til bevaring og overføring av opplysningene til senere brukereat utnytteren skal gi erklæring til en utpekt myndighet om oppfyllelse av opplysningskravene når det mottas midler til forskning som omfatter utnytting av genetisk materiale eller tradisjonell kunnskap knyttet til slikt materiale, og når det utvikles produkter ved utnytting av slikt materiale eller slik kunnskapden utpekte myndighetens behandling og videreformidling av opplysningene.
+Kongen kan gi forskrift om
+
+1. nærmere krav til opplysningene som skal foreligge etter annet og tredje ledd, og krav til ytterligere opplysninger
+2. plikt for utnytteren til bevaring og overføring av opplysningene til senere brukere
+3. at utnytteren skal gi erklæring til en utpekt myndighet om oppfyllelse av opplysningskravene når det mottas midler til forskning som omfatter utnytting av genetisk materiale eller tradisjonell kunnskap knyttet til slikt materiale, og når det utvikles produkter ved utnytting av slikt materiale eller slik kunnskap
+4. den utpekte myndighetens behandling og videreformidling av opplysningene.
 
 For materiale som omfattes av traktat 3. november 2001 om plantegenetiske ressurser for mat og jordbruk skal det, når dette materialet utnyttes i Norge i forsknings- eller næringsøyemed, følge med opplysninger om at materialet er ervervet i tråd med Standardavtalen under traktaten.
 
@@ -618,7 +716,14 @@ For å sikre at krav fastsatt i eller i medhold av loven blir overholdt, kan dep
 
 ### § 67. (endring og omgjøring av tillatelser)
 
-Myndigheten etter denne loven kan oppheve eller endre vilkårene i en tillatelse gitt i medhold av loven, eller sette nye vilkår, og om nødvendig kalle tillatelsen tilbake hvisdet er nødvendig for å hindre uforutsette vesentlige skadevirkninger for naturmangfoldet,skadevirkningene kan minskes uten urimelig kostnad for tiltakshaveren,ny teknologi gjør det mulig å redusere ulempene for naturmangfoldet vesentlig,omgjøring eller endring er nødvendig for å nå kvalitetsnormer fastsatt etter [§ 13](lov/2009-06-19-100/§13),tiltakshaveren overtrer bestemmelser gitt i eller i medhold av loven, og overtredelsen er betydelig, gjentar seg eller vedvarer, ellerdet for øvrig følger av ellers gjeldende omgjøringsregler.
+Myndigheten etter denne loven kan oppheve eller endre vilkårene i en tillatelse gitt i medhold av loven, eller sette nye vilkår, og om nødvendig kalle tillatelsen tilbake hvis
+
+1. det er nødvendig for å hindre uforutsette vesentlige skadevirkninger for naturmangfoldet,
+2. skadevirkningene kan minskes uten urimelig kostnad for tiltakshaveren,
+3. ny teknologi gjør det mulig å redusere ulempene for naturmangfoldet vesentlig,
+4. omgjøring eller endring er nødvendig for å nå kvalitetsnormer fastsatt etter [§ 13](lov/2009-06-19-100/§13),
+5. tiltakshaveren overtrer bestemmelser gitt i eller i medhold av loven, og overtredelsen er betydelig, gjentar seg eller vedvarer, eller
+6. det for øvrig følger av ellers gjeldende omgjøringsregler.
 
 Tillatelse kan i alle tilfeller tilbakekalles eller endres når det er gått ti år etter at den ble gitt. Myndigheten kan lempe på begrensninger og vilkår i en tillatelse dersom erfaring viser at det kan skje uten skadevirkninger av betydning for naturmangfoldet.
 
@@ -696,7 +801,12 @@ Tvangsmulkt pålegges den ansvarlige for overtredelsen. Er overtredelsen skjedd 
 
 Myndigheten etter loven kan ilegge overtredelsesgebyr til den som overtrer [§ 6](lov/2009-06-19-100/§6), [§ 15 første](lov/2009-06-19-100/§15/ledd/1) og [annet ledd](lov/2009-06-19-100/§15/ledd/2), [§ 17 fjerde ledd første punktum](lov/2009-06-19-100/§17/ledd/4/setning/1), [§ 17 a annet](lov/2009-06-19-100/§17a/ledd/2) og [tredje ledd](lov/2009-06-19-100/§17a/ledd/3), [§ 22](lov/2009-06-19-100/§22), [§ 24 første ledd](lov/2009-06-19-100/§24/ledd/1), [§ 25](lov/2009-06-19-100/§25), [§ 26](lov/2009-06-19-100/§26), [§ 27 annet ledd](lov/2009-06-19-100/§27/ledd/2), [§ 28](lov/2009-06-19-100/§28), [§ 29 første](lov/2009-06-19-100/§29/ledd/1) og [fjerde ledd](lov/2009-06-19-100/§29/ledd/4), [§ 30 første](lov/2009-06-19-100/§30/ledd/1) og [annet ledd](lov/2009-06-19-100/§30/ledd/2), [§ 31 annet ledd annet punktum](lov/2009-06-19-100/§31/ledd/2/setning/2), [§ 34](lov/2009-06-19-100/§34), [§ 35 annet ledd](lov/2009-06-19-100/§35/ledd/2), [§ 36 annet ledd](lov/2009-06-19-100/§36/ledd/2), [§ 37 tredje ledd](lov/2009-06-19-100/§37/ledd/3), [§ 38 annet punktum](lov/2009-06-19-100/§38/setning/2), [§ 39 femte ledd](lov/2009-06-19-100/§39/ledd/5), [§ 44 annet ledd](lov/2009-06-19-100/§44/ledd/2), [§ 45 første](lov/2009-06-19-100/§45/ledd/1) og [annet ledd](lov/2009-06-19-100/§45/ledd/2), [§ 54 første](lov/2009-06-19-100/§54/setning/1) til [fjerde punktum](lov/2009-06-19-100/§54/setning/4), [§ 55 første ledd](lov/2009-06-19-100/§55/ledd/1), [§ 56 a](lov/2009-06-19-100/§56a), [§ 58 første ledd](lov/2009-06-19-100/§58/ledd/1), [§ 59 første](lov/2009-06-19-100/§59/ledd/1) og [sjette ledd](lov/2009-06-19-100/§59/ledd/6), [§ 60 første ledd](lov/2009-06-19-100/§60/ledd/1), [§ 61](lov/2009-06-19-100/§61), [§ 63 annet ledd første punktum](lov/2009-06-19-100/§63/ledd/2/setning/1) og [§ 66](lov/2009-06-19-100/§66).
 
-Overtredelsesgebyr kan også ilegges den som overtrerbestemmelser i en forskrift gitt med hjemmel i noen av bestemmelsene nevnt i første leddplikter som følger av individuelle avgjørelser gitt med hjemmel i noen av bestemmelsene nevnt i første leddbestemmelser i en forskrift som nevnt i [§ 77](lov/2009-06-19-100/§77) første punktumplikter som følger av individuelle avgjørelser som nevnt i [§ 77](lov/2009-06-19-100/§77) første punktum.
+Overtredelsesgebyr kan også ilegges den som overtrer
+
+1. bestemmelser i en forskrift gitt med hjemmel i noen av bestemmelsene nevnt i første ledd
+2. plikter som følger av individuelle avgjørelser gitt med hjemmel i noen av bestemmelsene nevnt i første ledd
+3. bestemmelser i en forskrift som nevnt i [§ 77](lov/2009-06-19-100/§77) første punktum
+4. plikter som følger av individuelle avgjørelser som nevnt i [§ 77](lov/2009-06-19-100/§77) første punktum.
 
 Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser.
 

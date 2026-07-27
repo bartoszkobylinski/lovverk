@@ -24,7 +24,11 @@ eu_basis: []
 
 ## § 1. Formål
 
-Forskriftens formål erå sikre en hensiktsmessig organisering av avløsertjenester til jordbruksforetak,at arbeidstakere som arbeider som avløsere sikres trygge og gode arbeidsforhold, ogå bidra til å opprettholde en aktiv jordbruksnæring innenfor de målsettinger Stortinget har trukket opp.
+Forskriftens formål er
+
+1. å sikre en hensiktsmessig organisering av avløsertjenester til jordbruksforetak,
+2. at arbeidstakere som arbeider som avløsere sikres trygge og gode arbeidsforhold, og
+3. å bidra til å opprettholde en aktiv jordbruksnæring innenfor de målsettinger Stortinget har trukket opp.
 
 ## § 2. Virkeområde
 
@@ -35,7 +39,11 @@ Forskriften gjelder når jordbruksforetak leier inn avløsere fra avløserlag. F
 1. Med jordbruksforetak menes i denne forskriften foretak som er registrert i enhetsregisteret og som oppfyller vilkårene for å kunne motta tilskudd etter forskriftene nevnt i bokstav d nr. 1 eller 2.
 2. Med avløser menes i denne forskriften arbeidstaker som er ansatt i avløserlag i den hovedhensikt å leies ut til avløserlagets medlemmer for å utføre arbeid som nevnt i [§ 4](forskrift/2025-07-01-1377/§4).
 3. Med avløserlag menes i denne forskriften samvirkeforetak som eies av jordbruksforetak og som har som formål å organisere og administrere avløsning til medlemmene sine. Avløserlaget må være godkjent av statsforvalteren og organisert med eget styre og vedtekter.
-4. Med tilskuddsforskriftene menes i denne forskriften[forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket](forskrift/2014-12-19-1817),[forskrift 19. desember 2014 nr. 1821 om tilskot til avløysing ved sjukdom og fødsel mv.](forskrift/2014-12-19-1821), og[forskrift 22. oktober 2007 nr. 1167 om tilskot til landbruksvikarordninga](forskrift/2007-10-22-1167).
+4. Med tilskuddsforskriftene menes i denne forskriften
+
+   1. [forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket](forskrift/2014-12-19-1817),
+   2. [forskrift 19. desember 2014 nr. 1821 om tilskot til avløysing ved sjukdom og fødsel mv.](forskrift/2014-12-19-1821), og
+   3. [forskrift 22. oktober 2007 nr. 1167 om tilskot til landbruksvikarordninga](forskrift/2007-10-22-1167).
 
 ## § 4. Vilkår for innleie
 

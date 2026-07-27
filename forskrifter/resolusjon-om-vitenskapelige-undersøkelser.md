@@ -44,7 +44,16 @@ Vitenskapelige undersøkelsestillatelser kan meddeles norske eller utenlandske v
 
 Skriftlig ansøkning om vitenskapelig undersøkelsestillatelse må være kommet inn til departementet innen 30 dager før undersøkelsen aktes påbegynt. Dersom ansøkningen ikke er avfattet på norsk, skal oversettelse til norsk vedlegges. Bilag bør foreligge på norsk eller engelsk.
 
-Ansøkningen skal innenholde opplysninger om:Navn, adresse og nasjonalitet til den institusjon, person m.v. som undersøkelsene skal utføres for, og opplysninger om hvem som skal være kontaktmann overfor norske myndigheter.Navn, adresse og nasjonalitet til den eller de personer, institusjoner m.v. som skal utføre undersøkelsene.Hvilke undersøkelser som ønskes foretatt, formålet med undersøkelsene, når undersøkelsene aktes påbegynt og avsluttet og angivelse av de områder hvor disse aktes utført.Undersøkelsesmetodene, opplysninger om fartøyer, luftfartøyer eller andre flytende eller luftbårne gjenstander som aktes benyttet til undersøkelsene.Hvorvidt seismiske undersøkelser aktes utført. I så fall skal opplyses hvilke undersøkelsesmetoder og hvilke typer sprengstoff som aktes brukt, samt størrelsen av ladningene og sprengdybder. Det skal også opplyses om undersøkelsesfartøyene er utstyrt med radar, ekkolodd, sonar (asdic) eller andre godkjente fiskesøkeinstrumenter.I hvilken utstrekning undersøkelsene vil bli utført fra norsk landterritorium, såvidt mulig med angivelse av norsk havn, flyplass eller andre norske områder som ønskes brukt som basis for undersøkelsene.Departementet kan kreve tilleggsopplysninger.
+Ansøkningen skal innenholde opplysninger om:
+
+1. Navn, adresse og nasjonalitet til den institusjon, person m.v. som undersøkelsene skal utføres for, og opplysninger om hvem som skal være kontaktmann overfor norske myndigheter.
+2. Navn, adresse og nasjonalitet til den eller de personer, institusjoner m.v. som skal utføre undersøkelsene.
+3. Hvilke undersøkelser som ønskes foretatt, formålet med undersøkelsene, når undersøkelsene aktes påbegynt og avsluttet og angivelse av de områder hvor disse aktes utført.
+4. Undersøkelsesmetodene, opplysninger om fartøyer, luftfartøyer eller andre flytende eller luftbårne gjenstander som aktes benyttet til undersøkelsene.
+5. Hvorvidt seismiske undersøkelser aktes utført. I så fall skal opplyses hvilke undersøkelsesmetoder og hvilke typer sprengstoff som aktes brukt, samt størrelsen av ladningene og sprengdybder. Det skal også opplyses om undersøkelsesfartøyene er utstyrt med radar, ekkolodd, sonar (asdic) eller andre godkjente fiskesøkeinstrumenter.
+6. I hvilken utstrekning undersøkelsene vil bli utført fra norsk landterritorium, såvidt mulig med angivelse av norsk havn, flyplass eller andre norske områder som ønskes brukt som basis for undersøkelsene.
+
+   Departementet kan kreve tilleggsopplysninger.
 
 ## § 6.
 
@@ -52,7 +61,14 @@ Vitenskapelig undersøkelsestillatelse meddeles som regel for den enkelte unders
 
 ## § 7.
 
-Med mindre annet er bestemt i tillatelsen, gir denne adgang til å foreta følgende undersøkelser:magnetiske undersøkelser.gravimetriske undersøkelser.seismiske undersøkelser.varmestrømsmålinger.radiometriske målinger.undersøkelser hvor man tar prøve av havbunnen eller dens undergrunn, dog ikke undersøkelser som medfører boring.
+Med mindre annet er bestemt i tillatelsen, gir denne adgang til å foreta følgende undersøkelser:
+
+1. magnetiske undersøkelser.
+2. gravimetriske undersøkelser.
+3. seismiske undersøkelser.
+4. varmestrømsmålinger.
+5. radiometriske målinger.
+6. undersøkelser hvor man tar prøve av havbunnen eller dens undergrunn, dog ikke undersøkelser som medfører boring.
 
 ## § 8.
 

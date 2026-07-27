@@ -30,17 +30,41 @@ Tilskuddsmidlene skal gi støtte til organisasjoner og stiftelser som bidrar til
 
 ## § 2. Frivillige klima- og miljøorganisasjoner som kan motta tilskudd
 
-Tilskudd kan gis til frivillige organisasjonermed demokratisk valgte styringsorganer og hovedformål for virksomheten innenfor miljøforvaltningens ansvarsområder,med bredt medlemsgrunnlag og geografisk spredning på medlemsmassen,som er registrert i Frivillighetsregisteret ogsom har et register over minst 5000 tellende medlemmer (3000 for barne- og ungdomsorganisasjoner) som oppfyller kravene i [§ 10](forskrift/2021-06-11-1928/§10).
+Tilskudd kan gis til frivillige organisasjoner
 
-Organisasjonen skal ha vedtekter som klargjørformål, selvstendighet, organisasjonsform og organisatorisk oppbygging med sentral organisasjon og eventuelle lokallag eller andre organisasjonsledd mellom lokallag og den sentrale organisasjon,at organisasjonen har en demokratisk oppbygging som sikrer alle medlemmer lik møte-, tale-, forslags- og stemmerett og rett til å la seg velge som representant,at organisasjonen har et landsmøte minst hvert tredje år der representanter valgt av og blant medlemmene i organisasjonen har stemmerett,at organisasjonen har et sentral-/hovedstyre valgt av landsmøtet og har ledelsen av organisasjonen mellom landsmøtene ogat organisasjonen avgir eget årsregnskap og årsberetning i samsvar med bestemmelsene i [regnskapsloven](lov/1998-07-17-56). Regnskapsåret skal følge kalenderåret.
+1. med demokratisk valgte styringsorganer og hovedformål for virksomheten innenfor miljøforvaltningens ansvarsområder,
+2. med bredt medlemsgrunnlag og geografisk spredning på medlemsmassen,
+3. som er registrert i Frivillighetsregisteret og
+4. som har et register over minst 5000 tellende medlemmer (3000 for barne- og ungdomsorganisasjoner) som oppfyller kravene i [§ 10](forskrift/2021-06-11-1928/§10).
+
+Organisasjonen skal ha vedtekter som klargjør
+
+1. formål, selvstendighet, organisasjonsform og organisatorisk oppbygging med sentral organisasjon og eventuelle lokallag eller andre organisasjonsledd mellom lokallag og den sentrale organisasjon,
+2. at organisasjonen har en demokratisk oppbygging som sikrer alle medlemmer lik møte-, tale-, forslags- og stemmerett og rett til å la seg velge som representant,
+3. at organisasjonen har et landsmøte minst hvert tredje år der representanter valgt av og blant medlemmene i organisasjonen har stemmerett,
+4. at organisasjonen har et sentral-/hovedstyre valgt av landsmøtet og har ledelsen av organisasjonen mellom landsmøtene og
+5. at organisasjonen avgir eget årsregnskap og årsberetning i samsvar med bestemmelsene i [regnskapsloven](lov/1998-07-17-56). Regnskapsåret skal følge kalenderåret.
 
 ## § 3. Klima- og miljøstiftelser som kan motta tilskudd
 
-Tilskudd kan gis til klima- og miljøstiftelsermed hovedformål for virksomheten innenfor miljøforvaltningens ansvarsområder,som ikke har fortjeneste som formål,eventuelle overskudd tilbakeføres til organisasjonens formål,som er registrert i Frivillighetsregisteret ogsom avgir eget årsregnskap og årsberetning i samsvar med bestemmelsene i [regnskapsloven](lov/1998-07-17-56). Regnskapsåret skal følge kalenderåret.
+Tilskudd kan gis til klima- og miljøstiftelser
+
+1. med hovedformål for virksomheten innenfor miljøforvaltningens ansvarsområder,
+2. som ikke har fortjeneste som formål,
+3. eventuelle overskudd tilbakeføres til organisasjonens formål,
+4. som er registrert i Frivillighetsregisteret og
+5. som avgir eget årsregnskap og årsberetning i samsvar med bestemmelsene i [regnskapsloven](lov/1998-07-17-56). Regnskapsåret skal følge kalenderåret.
 
 ## § 4. Sammenslutning av organisasjoner som kan motta tilskudd
 
-Tilskudd kan gis til demokratisk styrt sammenslutning av frivillige organisasjonerder hver medlemsorganisasjon har stemmerett og oppfyller kravene i [§ 2](forskrift/2021-06-11-1928/§2) første ledd bokstav a og b,som har hovedformål for virksomheten innenfor miljøforvaltningens ansvarsområder,som ikke har fortjeneste som formål,som tilbakefører eventuelle overskudd til sammenslutningens formål,som er registrert i Frivillighetsregisteret ogsom avgir eget årsregnskap og årsberetning i samsvar med bestemmelsene i [regnskapsloven](lov/1998-07-17-56). Regnskapsåret skal følge kalenderåret.
+Tilskudd kan gis til demokratisk styrt sammenslutning av frivillige organisasjoner
+
+1. der hver medlemsorganisasjon har stemmerett og oppfyller kravene i [§ 2](forskrift/2021-06-11-1928/§2) første ledd bokstav a og b,
+2. som har hovedformål for virksomheten innenfor miljøforvaltningens ansvarsområder,
+3. som ikke har fortjeneste som formål,
+4. som tilbakefører eventuelle overskudd til sammenslutningens formål,
+5. som er registrert i Frivillighetsregisteret og
+6. som avgir eget årsregnskap og årsberetning i samsvar med bestemmelsene i [regnskapsloven](lov/1998-07-17-56). Regnskapsåret skal følge kalenderåret.
 
 ## § 5. Nye søkere
 
@@ -60,7 +84,18 @@ Før beregning av tilskuddet til de enkelte organisasjoner og stiftelser, deles 
 
 ## § 8. Beregning av tilskuddet til frivillige organisasjoner
 
-Tilskuddet fordeles etter forholdstallet mellom summen av mottakerens poeng og summen av alle tilskuddsmottakeres poeng. Den enkelte mottakers poeng beregnes som summen av følgende poengelementer:For organisasjoner multipliseres summen av antall tellende medlemmer, oppgitt i 1000, med summen av medlemsinntekter, oppgitt i millioner kroner. En organisasjon kan maksimalt oppnå 150 poeng. Et tellende medlem er per 31. desember i grunnlagsåret frivillig og individuelt innmeldt i organisasjonen, (for barne- og ungdomsorganisasjoner: Er under fylte 26 år), står i medlemsregisteret, har betalt kontingent for grunnlagsåret og har etter fylte 15 år fulle demokratiske rettigheter i organisasjonen. Medlemmer under 15 år kan være innmeldt av foresatt eller verge. Kontingenten skal være på minimum 50 kroner for hvert individuelt medlem og gjelde for maksimalt et kalenderår. Ved bruk av familie- eller søskenmedlemsskap, teller hvert medlem som individuelt medlem og kontingenten per familie- eller søskenmedlemsskap skal ikke være mindre enn 100 kroner. Fulle demokratiske rettigheter er stemme-, møte-, tale- og forslagsrett og rett til å la seg velge som representant.Frivillige organisasjoner og barne- og ungdomsorganisasjoner gir 100 poeng.Organisasjonens samlede antall lokallag gir følgende poeng:For hvert enkelt lokallag gis 1 poeng. For å få uttelling for lokallag kreves minimum 5 lokallag. Det gis maksimalt 200 poeng uttelling for organisasjonens samlede antall lokallag. Et tellende lokallag er laveste nivå av selvstendig, demokratisk enhet i organisasjonen. Lokallaget skal ha minst fem medlemmer, et styre valgt av og blant medlemmene og ha aktivitet i tråd med formålet med ordningen. Fylkeslag som fungerer som lokallag, regnes som lokallag.Organisasjonens samlede antall fylkeslag gir følgende poeng:For hvert enkelt fylkeslag gis 10 poeng. Det gis maksimalt 100 poeng for organisasjonens samlede antall fylkeslag. Et fylkeslag er en selvstendig geografisk avgrenset enhet i organisasjonen og et organisasjonsledd mellom lokallag og den sentrale organisasjon. Fylkeslaget skal bestå av minst tre lokallag, ha vedtekter, eget styre valgt av og blant lokallagene og ha aktivitet i tråd med formålet med ordningen. En organisasjon gis uttelling for kun ett fylkeslag per fylke.Organisasjonen må kunne dokumentere antall tellende medlemmer, lokallag og fylkeslag som oppfyller kravene.
+Tilskuddet fordeles etter forholdstallet mellom summen av mottakerens poeng og summen av alle tilskuddsmottakeres poeng. Den enkelte mottakers poeng beregnes som summen av følgende poengelementer:
+
+1. For organisasjoner multipliseres summen av antall tellende medlemmer, oppgitt i 1000, med summen av medlemsinntekter, oppgitt i millioner kroner. En organisasjon kan maksimalt oppnå 150 poeng. Et tellende medlem er per 31. desember i grunnlagsåret frivillig og individuelt innmeldt i organisasjonen, (for barne- og ungdomsorganisasjoner: Er under fylte 26 år), står i medlemsregisteret, har betalt kontingent for grunnlagsåret og har etter fylte 15 år fulle demokratiske rettigheter i organisasjonen. Medlemmer under 15 år kan være innmeldt av foresatt eller verge. Kontingenten skal være på minimum 50 kroner for hvert individuelt medlem og gjelde for maksimalt et kalenderår. Ved bruk av familie- eller søskenmedlemsskap, teller hvert medlem som individuelt medlem og kontingenten per familie- eller søskenmedlemsskap skal ikke være mindre enn 100 kroner. Fulle demokratiske rettigheter er stemme-, møte-, tale- og forslagsrett og rett til å la seg velge som representant.
+2. Frivillige organisasjoner og barne- og ungdomsorganisasjoner gir 100 poeng.
+3. Organisasjonens samlede antall lokallag gir følgende poeng:
+
+   For hvert enkelt lokallag gis 1 poeng. For å få uttelling for lokallag kreves minimum 5 lokallag. Det gis maksimalt 200 poeng uttelling for organisasjonens samlede antall lokallag. Et tellende lokallag er laveste nivå av selvstendig, demokratisk enhet i organisasjonen. Lokallaget skal ha minst fem medlemmer, et styre valgt av og blant medlemmene og ha aktivitet i tråd med formålet med ordningen. Fylkeslag som fungerer som lokallag, regnes som lokallag.
+4. Organisasjonens samlede antall fylkeslag gir følgende poeng:
+
+   For hvert enkelt fylkeslag gis 10 poeng. Det gis maksimalt 100 poeng for organisasjonens samlede antall fylkeslag. Et fylkeslag er en selvstendig geografisk avgrenset enhet i organisasjonen og et organisasjonsledd mellom lokallag og den sentrale organisasjon. Fylkeslaget skal bestå av minst tre lokallag, ha vedtekter, eget styre valgt av og blant lokallagene og ha aktivitet i tråd med formålet med ordningen. En organisasjon gis uttelling for kun ett fylkeslag per fylke.
+
+   Organisasjonen må kunne dokumentere antall tellende medlemmer, lokallag og fylkeslag som oppfyller kravene.
 
 ## § 9. Beregning av tilskuddet til klima- og miljøstiftelser og sammenslutninger av organisasjoner
 

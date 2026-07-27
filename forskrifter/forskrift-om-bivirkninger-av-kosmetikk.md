@@ -15,7 +15,7 @@ xml_hash: "54e50feb6fcaee63691daabd547ad75d59a8566bf397f2a32d40360e527180e0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,12 @@ Formålet med forskriften er å medvirke til at produkter som omfattes av [lov 2
 
 ## § 2. Saklig virkeområde
 
-Forskriften omfatter bivirkninger ved bruk av:*Kosmetikk og kroppspleieprodukter*, som er alle stoff eller blandinger av stoff som er bestemt til å komme i kontakt med kroppsoverflaten til mennesker, tennene eller slimhinnene i munn- eller nesehulen for bare eller i hovedsak å rense eller parfymere disse delene av kroppen, endre utseendet deres, påvirke kroppslukter, beskytte dem eller holde dem i god stand. Vedlegg 1 inneholder eksempler på produkter som anses som kosmetikk og kroppspleieprodukter i henhold til denne definisjonen.*Legemiddelnære kroppspleieprodukter*, som er alle stoff eller blandinger av stoff som er bestemt til å komme i kontakt med kroppsoverflaten til mennesker, tennene eller slimhinnene i munn- eller nesehulen for bare eller i hovedsak å forebygge, lindre eller behandle helseplager som ikke skyldes sykdom.*Tatoveringsprodukter,* som er alle stoff eller blandinger av stoff som er bestemt til å bli ført inn i huden til mennesker for å oppnå permanente eller langvarige mønstre, tegninger, streker, felter eller farger på huden, medregnet tatoveringsveske og permanent sminke.*Injeksjonsprodukter*, som er alle stoff eller blandinger av stoff som er bestemt til å bli ført inn i huden til mennesker for å endre hudens utseende på andre måter enn de som er beskrevet under litra c).
+Forskriften omfatter bivirkninger ved bruk av:
+
+1. *Kosmetikk og kroppspleieprodukter*, som er alle stoff eller blandinger av stoff som er bestemt til å komme i kontakt med kroppsoverflaten til mennesker, tennene eller slimhinnene i munn- eller nesehulen for bare eller i hovedsak å rense eller parfymere disse delene av kroppen, endre utseendet deres, påvirke kroppslukter, beskytte dem eller holde dem i god stand. Vedlegg 1 inneholder eksempler på produkter som anses som kosmetikk og kroppspleieprodukter i henhold til denne definisjonen.
+2. *Legemiddelnære kroppspleieprodukter*, som er alle stoff eller blandinger av stoff som er bestemt til å komme i kontakt med kroppsoverflaten til mennesker, tennene eller slimhinnene i munn- eller nesehulen for bare eller i hovedsak å forebygge, lindre eller behandle helseplager som ikke skyldes sykdom.
+3. *Tatoveringsprodukter,* som er alle stoff eller blandinger av stoff som er bestemt til å bli ført inn i huden til mennesker for å oppnå permanente eller langvarige mønstre, tegninger, streker, felter eller farger på huden, medregnet tatoveringsveske og permanent sminke.
+4. *Injeksjonsprodukter*, som er alle stoff eller blandinger av stoff som er bestemt til å bli ført inn i huden til mennesker for å endre hudens utseende på andre måter enn de som er beskrevet under litra c).
 
 Mattilsynet avgjør i tvilstilfeller om et produkt omfattes av denne forskrift.
 
@@ -36,7 +41,12 @@ Forskriften omfatter ikke bivirkninger ved bruk av kosmetikk og kroppsleieproduk
 
 ## § 3. Definisjoner
 
-I denne forskriften forstås med:*Produkt:* Kosmetikk- og kroppspleieprodukter, legemiddelnære kroppspleieprodukter, tatoveringsprodukter og injeksjonsprodukter.*Bivirkning:* Helsemessig uønsket virkning av et produkt. Vedlegg 2 angir eksempler på reaksjoner som regnes som bivirkninger.*Helsepersonell:* Leger, tannleger, farmasøyter og helsesykepleiere.*Ansvarlig myndighet:* Mattilsynet.
+I denne forskriften forstås med:
+
+1. *Produkt:* Kosmetikk- og kroppspleieprodukter, legemiddelnære kroppspleieprodukter, tatoveringsprodukter og injeksjonsprodukter.
+2. *Bivirkning:* Helsemessig uønsket virkning av et produkt. Vedlegg 2 angir eksempler på reaksjoner som regnes som bivirkninger.
+3. *Helsepersonell:* Leger, tannleger, farmasøyter og helsesykepleiere.
+4. *Ansvarlig myndighet:* Mattilsynet.
 
 > Endret ved [forskrift 25 mars 2019 nr. 325](forskrift/2019-03-25-325).
 
@@ -74,8 +84,20 @@ Forskriften trer i kraft straks.
 - midler til bruning av hud uten sol,
 - blekemidler til huden,
 - midler mot rynker,
-- midler til utvortes intim pleie;preparater til beskyttelse mot skade fra kjemikalier (kjemisk hanske),eteriske oljer som ikke klassifiseres som legemidler,håndrensemidler,lim og herder til montering av kunstige negler samt produkter som brukes ved utstøping av kunstig negl på naturlig negl,
-- preparater til stell av håret;hårfargings- og håravfargingsmidler,permanent- og uttrekningsvæsker samt hårleggemidler,fønmidler,hårvaskemidler (lotion, tørrsjampo og sjampo),diverse hårpleiemidler (lotion, krem, olje),frisermidler (lotion, hårlakk, briljantin).
+- midler til utvortes intim pleie;
+
+  - preparater til beskyttelse mot skade fra kjemikalier (kjemisk hanske),
+  - eteriske oljer som ikke klassifiseres som legemidler,
+  - håndrensemidler,
+  - lim og herder til montering av kunstige negler samt produkter som brukes ved utstøping av kunstig negl på naturlig negl,
+- preparater til stell av håret;
+
+  - hårfargings- og håravfargingsmidler,
+  - permanent- og uttrekningsvæsker samt hårleggemidler,
+  - fønmidler,
+  - hårvaskemidler (lotion, tørrsjampo og sjampo),
+  - diverse hårpleiemidler (lotion, krem, olje),
+  - frisermidler (lotion, hårlakk, briljantin).
 
 ## Vedlegg 2: Eksempler på reaksjoner som regnes som bivirkninger, jf. § 3 b):
 

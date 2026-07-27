@@ -15,7 +15,7 @@ xml_hash: "a275e764228c8519628f6bef3593c02ebf6825c13d0ab5772180fd6e258ff9d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,13 +32,27 @@ Målgruppen er sosialt og økonomisk vanskeligstilte som opplever fattigdom og l
 
 ## § 2. Kriterier for måloppnåelse
 
-Følgende kriterier legges til grunn for å belyse måloppnåelse for ordningen som helhet:Utbredelse og antall medlemmer eller brukere som deltar i organisasjonens arbeid.Bredde i brukermedvirkning og representasjon i organisasjonen.Målgruppens mulighet til å påvirke og delta i organisasjonen.Frivillig innsats målt i timeverk eller dagsverk.Gjennomførte aktiviteter innen interessepolitisk arbeid, for å fremme brukermedvirkning, og for å styrke dialog og samarbeid.
+Følgende kriterier legges til grunn for å belyse måloppnåelse for ordningen som helhet:
+
+- Utbredelse og antall medlemmer eller brukere som deltar i organisasjonens arbeid.
+- Bredde i brukermedvirkning og representasjon i organisasjonen.
+- Målgruppens mulighet til å påvirke og delta i organisasjonen.
+- Frivillig innsats målt i timeverk eller dagsverk.
+- Gjennomførte aktiviteter innen interessepolitisk arbeid, for å fremme brukermedvirkning, og for å styrke dialog og samarbeid.
 
 ## § 3. Hvilke organisasjoner kan få tilskudd
 
 Tilskuddet går til brukerstyrte organisasjoner som er drevet av målgruppen, og som legger til rette for at brukerne selv aktivt kan medvirke og ta beslutninger i forhold som angår dem.
 
-Det stilles følgende vilkår for å få tilskudd:Organisasjoner og stiftelser som mottar støtte må være registrert i Frivillighetsregisteret.Organisasjonen må være en interesseorganisasjon som arbeider for å bedre levekårene for sosialt og økonomisk vanskeligstilte.Organisasjonen må være demokratisk oppbygd.Organisasjonen må i all hovedsak drives av målgruppen for ordningen. Brukere skal utgjøre hovedandelen av medlemmer i organisasjonen og være representert i styret.Organisasjonen må være åpen for alle som tilhører den gruppen organisasjonen tar sikte på å representere.Organisasjoner med lokal forankring skal normalt delfinansieres av lokale myndigheter.Organisasjoner som søker tilskudd for første gang bør kunne vise til samarbeid med landsdekkende organisasjoner og nettverk som arbeider med tilsvarende oppgaver.
+Det stilles følgende vilkår for å få tilskudd:
+
+1. Organisasjoner og stiftelser som mottar støtte må være registrert i Frivillighetsregisteret.
+2. Organisasjonen må være en interesseorganisasjon som arbeider for å bedre levekårene for sosialt og økonomisk vanskeligstilte.
+3. Organisasjonen må være demokratisk oppbygd.
+4. Organisasjonen må i all hovedsak drives av målgruppen for ordningen. Brukere skal utgjøre hovedandelen av medlemmer i organisasjonen og være representert i styret.
+5. Organisasjonen må være åpen for alle som tilhører den gruppen organisasjonen tar sikte på å representere.
+6. Organisasjoner med lokal forankring skal normalt delfinansieres av lokale myndigheter.
+7. Organisasjoner som søker tilskudd for første gang bør kunne vise til samarbeid med landsdekkende organisasjoner og nettverk som arbeider med tilsvarende oppgaver.
 
 ## § 4. Hvilke organisasjoner kan ikke få tilskudd
 
@@ -49,7 +63,11 @@ Det stilles følgende vilkår for å få tilskudd:Organisasjoner og stiftelser s
 
 Tilskudd fastsettes ut fra en skjønnsmessig vurdering med utgangspunkt i organisasjonens virksomhet, planlagte aktiviteter og forventede måloppnåelse. Arbeids- og velferdsdirektoratet står fritt til å utøve skjønn innenfor rammen av regelverket, herunder foreta en prioritering og utvelgelse blant søknadene, samt å fastsette størrelse på tilskuddet. I vurderingen skal direktoratet legge vekt på kontinuitet.
 
-Tilskuddet skal støtte opp om organisasjonens arbeid opp om målet med ordningen, herunder:Aktiviteter for å fremme målgruppens interesser og stilling i samfunnet.Aktiviteter for å fremme brukermedvirkning på system-, tjeneste- og individnivå.Dialog og samarbeid med andre frivillige organisasjoner, offentlige instanser og andre samfunnsaktører.
+Tilskuddet skal støtte opp om organisasjonens arbeid opp om målet med ordningen, herunder:
+
+- Aktiviteter for å fremme målgruppens interesser og stilling i samfunnet.
+- Aktiviteter for å fremme brukermedvirkning på system-, tjeneste- og individnivå.
+- Dialog og samarbeid med andre frivillige organisasjoner, offentlige instanser og andre samfunnsaktører.
 
 Det gis ikke tilskudd til tiltak som gjelder aktivisering og arbeidstrening, og rehabiliteringsrettede tiltak, ferie og fritidsaktiviteter for målgruppen, språkkurs eller annen virksomhet som i hovedsak er tiltaksrettet.
 
@@ -63,7 +81,13 @@ Organisasjonen bør kunne vise til måloppnåelse og resultater fra aktivitetene
 
 Søknaden skal fylles ut på et eget søknadsskjema utarbeidet av Arbeids- og velferdsdirektoratet.
 
-Det må søkes om tilskudd hvert år, men for å sikre en kontinuitet i driften vil organisasjoner som mottar tilskudd prioriteres i en treårsperiode med forbehold om at Stortinget viderefører ordningen. Søknaden skal inneholde følgende opplysninger:Informasjon om søker, adresse, kontaktperson, organisasjonsnummer og kontonummer.Budsjett og finansieringsplan for tilskuddsperioden.Tilskuddsbeløpet det søkes om.En beskrivelse av organisasjonens virksomhet og hvordan målgruppen for ordningen er representert og deltar i driften av organisasjonen.En beskrivelse av organisasjonens planlagte aktiviteter for tilskuddsperioden, og hvordan disse vil bidra til målene for tilskuddsordningen (jf. [§ 2](forskrift/2021-01-13-84/§2) Kriterier for måloppnåelse).
+Det må søkes om tilskudd hvert år, men for å sikre en kontinuitet i driften vil organisasjoner som mottar tilskudd prioriteres i en treårsperiode med forbehold om at Stortinget viderefører ordningen. Søknaden skal inneholde følgende opplysninger:
+
+- Informasjon om søker, adresse, kontaktperson, organisasjonsnummer og kontonummer.
+- Budsjett og finansieringsplan for tilskuddsperioden.
+- Tilskuddsbeløpet det søkes om.
+- En beskrivelse av organisasjonens virksomhet og hvordan målgruppen for ordningen er representert og deltar i driften av organisasjonen.
+- En beskrivelse av organisasjonens planlagte aktiviteter for tilskuddsperioden, og hvordan disse vil bidra til målene for tilskuddsordningen (jf. [§ 2](forskrift/2021-01-13-84/§2) Kriterier for måloppnåelse).
 
 For andre og tredje år i tilskuddsperioden må vesentlige endringer i organisasjonens drift eller aktiviteter beskrives i søknaden.
 
@@ -95,7 +119,11 @@ Fristen til å klage er 3 uker fra vedtaket er mottatt. En eventuell klage sende
 
 Tilskuddet skal benyttes i kalenderåret det er tildelt og kan ikke gå til å legge opp overskudd eller bygge opp egenkapital. Eventuelle ubrukte midler vil komme til fratrekk ved neste års utbetaling, eller krevet tilbakebetalt.
 
-Tilskudd kan ikke brukes til:Kjøpe inn varig produksjonsutstyr (dyrt utstyr med lang levetid eller levetid utover tilskuddsperioden). IT-utstyr har levetid på tre til fem år. Det kan innvilges tilskudd til slikt utstyr.Kjøpe fast eiendom eller til å bygge om eller oppgradere eksisterende bygninger eller lokaler i vesentlig grad.Ekstern evaluering av organisasjonen eller aktiviteten.
+Tilskudd kan ikke brukes til:
+
+- Kjøpe inn varig produksjonsutstyr (dyrt utstyr med lang levetid eller levetid utover tilskuddsperioden). IT-utstyr har levetid på tre til fem år. Det kan innvilges tilskudd til slikt utstyr.
+- Kjøpe fast eiendom eller til å bygge om eller oppgradere eksisterende bygninger eller lokaler i vesentlig grad.
+- Ekstern evaluering av organisasjonen eller aktiviteten.
 
 ## § 7-2. Krav til regnskap og rapportering
 
@@ -103,7 +131,11 @@ Tilskudd kan ikke brukes til:Kjøpe inn varig produksjonsutstyr (dyrt utstyr med
 
 Organisasjonen skal sende inn signert revidert årsregnskap innen 31. mars det påfølgende året. Regnskapet skal føres i henhold til [lov om årsregnskap m.v. (regnskapsloven)](lov/1998-07-17-56).1
 
-Regnskapsoppstillingen skal vise hvordan tilskudd er benyttet. Tilskuddsmottakers regnskapssystem skal gi sporbarhet og mulighet til å gjennomføre kontroller, herunder:Fortløpende registrering av bilag.Betaling av utgifter over bank.Begrense bruk av kontanter til et minimum.
+Regnskapsoppstillingen skal vise hvordan tilskudd er benyttet. Tilskuddsmottakers regnskapssystem skal gi sporbarhet og mulighet til å gjennomføre kontroller, herunder:
+
+- Fortløpende registrering av bilag.
+- Betaling av utgifter over bank.
+- Begrense bruk av kontanter til et minimum.
 
 Når det er gitt tilskudd over 100 000 kroner, skal revisjon utføres av ekstern, statsautorisert eller registrert revisor. Revisjonen, samt eventuelle avtalte kontrollhandlinger, skal utføres i henhold til gjeldende revisjonsstandarder. For tilskudd under 100 000 kroner er det normalt tilstrekkelig at revisjon av regnskapet er utført av en valgt revisor. En valgt revisor skal være uavhengig av regnskapsfører og styret i organisasjonen.
 
@@ -119,11 +151,21 @@ Arbeids- og velferdsdirektoratet har utarbeidet en veileder for regnskapsføring
 
 ## § 8. Reaksjonsformer ved mangelfull rapportering og feilaktige opplysninger
 
-Hvis en tilskuddsmottaker gir feilaktige opplysninger eller bruker tilskuddet til formål som ikke er i samsvar med betingelsene, kan det medføre en eller flere av følgende reaksjoner:Tilskudd innvilges ikke.Tilsagn om tilskudd blir trukket tilbake.Utbetalte midler kreves tilbakebetalt.Tilskudd avkortes.
+Hvis en tilskuddsmottaker gir feilaktige opplysninger eller bruker tilskuddet til formål som ikke er i samsvar med betingelsene, kan det medføre en eller flere av følgende reaksjoner:
+
+- Tilskudd innvilges ikke.
+- Tilsagn om tilskudd blir trukket tilbake.
+- Utbetalte midler kreves tilbakebetalt.
+- Tilskudd avkortes.
 
 Det samme gjelder dersom tilskuddsmottaker unnlater å sende inn regnskap og årsrapport innen fristen, eller dersom innsendte rapporter er mangelfulle.
 
-Tilskuddet kan kreves tilbakebetalt helt eller delvis dersom:Aktiviteten endrer karakter.Aktivitetene opphører eller midlertidig innstilles.Tilskuddet ikke benyttes i samsvar med hvordan aktiviteten opprinnelig ble beskrevet i søknaden.Midlene er feilutbetalt.
+Tilskuddet kan kreves tilbakebetalt helt eller delvis dersom:
+
+- Aktiviteten endrer karakter.
+- Aktivitetene opphører eller midlertidig innstilles.
+- Tilskuddet ikke benyttes i samsvar med hvordan aktiviteten opprinnelig ble beskrevet i søknaden.
+- Midlene er feilutbetalt.
 
 ## § 9. Regler for forvaltningen av ordningen
 
@@ -147,7 +189,11 @@ Feilutbetalte midler skal tilbakebetales til Arbeids- og velferdsdirektoratet.
 
 Arbeids- og velferdsdirektoratet skal kontrollere at kravene til regnskap og rapportering er oppfylt av tilskuddsmottaker. Direktoratet kan iverksette alle kontroller de finner nødvendige og hensiktsmessige.
 
-Arbeids- og velferdsdirektoratet har adgang til å føre kontroll med at:Tilskuddet er benyttet i samsvar med vilkårene, slik det fremgår av regelverket, tilskuddsbrev og eventuell annen korrespondanse.Opplysninger som legges til grunn for tildeling er korrekt.Opplysninger i regnskap og rapportering er korrekt.
+Arbeids- og velferdsdirektoratet har adgang til å føre kontroll med at:
+
+- Tilskuddet er benyttet i samsvar med vilkårene, slik det fremgår av regelverket, tilskuddsbrev og eventuell annen korrespondanse.
+- Opplysninger som legges til grunn for tildeling er korrekt.
+- Opplysninger i regnskap og rapportering er korrekt.
 
 Arbeids- og velferdsdirektoratet kan gi myndighet til en annen virksomhet å føre denne kontrollen.
 

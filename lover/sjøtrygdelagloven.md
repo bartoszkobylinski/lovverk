@@ -15,7 +15,7 @@ xml_hash: "ac8a489eb8e9dfa248bf65fcdba739d2a04464fb988c9f68adf1d8e83fb822c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -108,6 +108,12 @@ Bryt nokon eit påbod eller forbod som er gjeve i eller med heimel i denne lova,
 
 ## § 13.
 
-1\. Denne lova tek til å gjelda 1. juli 1953.– – –Finanstilsynet kan gjeva reglar om å avskipa sjøtrygdelag som ikkje vil halda fram med verksemda.Kongen avgjer korleis føresegnene i lova skal setjast i verk for sjøtrygdelag som vil halda fram med verksemda, og kva tid det skal gjerast frå. Når eit lag ikkje i rett tid stettar dei krava som er sette i eller med heimel i denne lova, skal verksemda avskipast etter reglar som Finanstilsynet gjev.
+1\. Denne lova tek til å gjelda 1. juli 1953.
+
+– – –
+
+Finanstilsynet kan gjeva reglar om å avskipa sjøtrygdelag som ikkje vil halda fram med verksemda.
+
+Kongen avgjer korleis føresegnene i lova skal setjast i verk for sjøtrygdelag som vil halda fram med verksemda, og kva tid det skal gjerast frå. Når eit lag ikkje i rett tid stettar dei krava som er sette i eller med heimel i denne lova, skal verksemda avskipast etter reglar som Finanstilsynet gjev.
 
 > Endra med [lover 7 juni 1985 nr. 47](lov/1985-06-07-47), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)).

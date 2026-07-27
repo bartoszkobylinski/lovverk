@@ -32,7 +32,13 @@ Forskriften gjelder utsetting av utenlandske treslag til skogbruksformål på no
 
 ## § 3. Definisjoner
 
-I denne forskrift forstås medbiologisk mangfold: mangfoldet av økosystemer, arter og genetiske variasjoner innenfor artene, og de økologiske sammenhengene mellom disse komponentene;internkontroll: systematiske tiltak som skal sikre at utsettingen planlegges, organiseres, og utføres i samsvar med bestemmelser fastsatt i denne forskriften;naturmangfold: biologisk mangfold, landskapsmessig mangfold og geologisk mangfold, som ikke i det alt vesentlige er et resultat av menneskers påvirkning;utenlandske treslag: arter, underarter eller sorter av trær som ikke har sitt nåværende eller historiske naturlige utbredelsesområde i Norge;utsetting: utsetting (utplanting/såing), bevisst utslipp eller deponering som avfall av organismer i miljøet, eller i et innesluttet system der rømming (spredning) ikke er utelukket.
+I denne forskrift forstås med
+
+1. biologisk mangfold: mangfoldet av økosystemer, arter og genetiske variasjoner innenfor artene, og de økologiske sammenhengene mellom disse komponentene;
+2. internkontroll: systematiske tiltak som skal sikre at utsettingen planlegges, organiseres, og utføres i samsvar med bestemmelser fastsatt i denne forskriften;
+3. naturmangfold: biologisk mangfold, landskapsmessig mangfold og geologisk mangfold, som ikke i det alt vesentlige er et resultat av menneskers påvirkning;
+4. utenlandske treslag: arter, underarter eller sorter av trær som ikke har sitt nåværende eller historiske naturlige utbredelsesområde i Norge;
+5. utsetting: utsetting (utplanting/såing), bevisst utslipp eller deponering som avfall av organismer i miljøet, eller i et innesluttet system der rømming (spredning) ikke er utelukket.
 
 ## § 4. Ansvarlig myndighet og delegasjon
 
@@ -50,7 +56,17 @@ Søknad om utsetting skal framsettes på fastsatt skjema senest to måneder før
 
 ## § 6. Søknadens innhold
 
-Søknad om tillatelse til utsetting av utenlandske treslag skal inneholde følgende opplysninger:Søkers navn, adresse, e-postadresse og telefonnummer, samt organisasjonsnummer dersom søker er en virksomhet,gårds- og bruksnummer på eiendom der utsettingen er ment å finne sted, samt grunneiers navn og adresse,det utenlandske treslagets vitenskapelige og eventuelle norske eller engelske navn, navn på eventuell sort eller proveniens. Dersom opplysning om naturlig geografisk opprinnelse er kjent for søker, opplyses dette om i søknaden.formålet med utsettingen, herunder om det utenlandske treslaget skal benyttes til skogproduksjon, juletreproduksjon eller pyntegrøntproduksjon, samt om utsettingen skal skje på dyrket eller tidligere dyrket mark, i skog eller på annen type mark. Dersom opplysninger om naturtyper (r) på arealet som skal tilplantes er kjent for søker, opplyses dette om i søknaden.antall trær og hvor stort areal (dekar) søknaden omfatter,kartfesting av den omsøkte utsettingen. Dersom opplysning om kjente tilgrensende eller nærliggende forekomster av utenlandske treslag er kjent for søker, opplyses dette om i søknaden.planlagte tiltak for å hindre spredning av utenlandske treslag, og for å holde kontroll med dette,dokumentasjon av internkontroll, jf. [§ 10](forskrift/2012-05-25-460/§10),en vurdering av de virkninger utsettingen kan ha for det biologiske mangfoldet.
+Søknad om tillatelse til utsetting av utenlandske treslag skal inneholde følgende opplysninger:
+
+1. Søkers navn, adresse, e-postadresse og telefonnummer, samt organisasjonsnummer dersom søker er en virksomhet,
+2. gårds- og bruksnummer på eiendom der utsettingen er ment å finne sted, samt grunneiers navn og adresse,
+3. det utenlandske treslagets vitenskapelige og eventuelle norske eller engelske navn, navn på eventuell sort eller proveniens. Dersom opplysning om naturlig geografisk opprinnelse er kjent for søker, opplyses dette om i søknaden.
+4. formålet med utsettingen, herunder om det utenlandske treslaget skal benyttes til skogproduksjon, juletreproduksjon eller pyntegrøntproduksjon, samt om utsettingen skal skje på dyrket eller tidligere dyrket mark, i skog eller på annen type mark. Dersom opplysninger om naturtyper (r) på arealet som skal tilplantes er kjent for søker, opplyses dette om i søknaden.
+5. antall trær og hvor stort areal (dekar) søknaden omfatter,
+6. kartfesting av den omsøkte utsettingen. Dersom opplysning om kjente tilgrensende eller nærliggende forekomster av utenlandske treslag er kjent for søker, opplyses dette om i søknaden.
+7. planlagte tiltak for å hindre spredning av utenlandske treslag, og for å holde kontroll med dette,
+8. dokumentasjon av internkontroll, jf. [§ 10](forskrift/2012-05-25-460/§10),
+9. en vurdering av de virkninger utsettingen kan ha for det biologiske mangfoldet.
 
 Kostnader som måtte oppstå i forbindelse med frambringelse av opplysninger og undersøkelser påligger søker så langt det ikke er urimelig.
 
@@ -84,7 +100,11 @@ Den som har fått tillatelse etter denne forskriften, skal etablere og dokumente
 
 Internkontrollen skal sikre at virksomhetens ansatte har kunnskap om reglene i forskriften, herunder vilkårene for tillatelse til utsetting, og at det er etablert rutiner for etterlevelse av reglene. Virksomheten skal gjøre dokumentasjon av internkontrollen tilgjengelig for ansvarlig myndighet ved forespørsel.
 
-Internkontrollen skal som et minimum omfatte:rutiner virksomheten følger for å sikre at kravene i eller i medhold av denne forskriften blir overholdt,rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig.
+Internkontrollen skal som et minimum omfatte:
+
+1. rutiner virksomheten følger for å sikre at kravene i eller i medhold av denne forskriften blir overholdt,
+2. rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,
+3. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig.
 
 ## § 11. Tilsyn
 

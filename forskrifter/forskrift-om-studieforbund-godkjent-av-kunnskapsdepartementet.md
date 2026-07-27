@@ -28,11 +28,20 @@ Forskriften skal gjelde for studieforbund godkjent av Kunnskapsdepartementet.
 
 ## § 2. Definisjoner
 
-I forskriften forstås med:*Kurs:* Organisert opplæring i samsvar med en studieplan som på forhånd er godkjent av studieforbundet.*Kurstime:* 60 minutter med organisert læring. Pauser på inntil 15 minutter per time kan inngå.*Studieplan:* Plan som redegjør for kursets innhold, læringsmål, målgrupper, bruk av læringsressurser, kursleder, metoder og varighet.*Kursleder:* Er en person som har det faglige ansvaret for kurset, og denne rollen likestilles med lærer/instruktør.
+I forskriften forstås med:
+
+1. *Kurs:* Organisert opplæring i samsvar med en studieplan som på forhånd er godkjent av studieforbundet.
+2. *Kurstime:* 60 minutter med organisert læring. Pauser på inntil 15 minutter per time kan inngå.
+3. *Studieplan:* Plan som redegjør for kursets innhold, læringsmål, målgrupper, bruk av læringsressurser, kursleder, metoder og varighet.
+4. *Kursleder:* Er en person som har det faglige ansvaret for kurset, og denne rollen likestilles med lærer/instruktør.
 
 ## § 3. Statstilskudd
 
-Statstilskuddet består av:grunntilskuddopplæringstilskuddtilretteleggingstilskudd.
+Statstilskuddet består av:
+
+- grunntilskudd
+- opplæringstilskudd
+- tilretteleggingstilskudd.
 
 Studieforbundene har ansvar for å fordele statstilskuddet til organisasjonsledd og medlemsorganisasjoner som arrangerer kurs.
 
@@ -46,7 +55,14 @@ Det gis ikke tilskudd etter denne forskrift hvis kurset dekkes gjennom andre til
 
 Grunntilskuddet kan benyttes til drifts- og administrasjonskostnader, og gis til alle studieforbund som oppfyller vilkårene for å få tilskudd etter denne forskrift. Slike kostnader kan omfatte drift, pedagogisk utviklingsarbeid, kvalitetssikring, rapportering og støtte til kursarrangør.
 
-Departementet fastsetter grunntilskuddet til det enkelte studieforbund etter studieforbundets aktivitetsnivå. Grunntilskuddet fastsettes i seks stigende nivåer basert på gjennomsnittlig antall timer for de årene som er grunnlag for tilskudd:der kursaktiviteten utgjør mellom 30 000 timer og 100 000 timer,der kursaktiviteten utgjør mellom 100 000 og 150 000 timer,der kursaktiviteten utgjør mellom 150 000 timer og 200 000 timer,der kursaktiviteten utgjør mellom 200 000 timer og 250 000 timer,der kursaktiviteten utgjør mellom 250 000 timer og 300 000 timer, ogder kursaktiviteten utgjør mer enn 300 000.
+Departementet fastsetter grunntilskuddet til det enkelte studieforbund etter studieforbundets aktivitetsnivå. Grunntilskuddet fastsettes i seks stigende nivåer basert på gjennomsnittlig antall timer for de årene som er grunnlag for tilskudd:
+
+1. der kursaktiviteten utgjør mellom 30 000 timer og 100 000 timer,
+2. der kursaktiviteten utgjør mellom 100 000 og 150 000 timer,
+3. der kursaktiviteten utgjør mellom 150 000 timer og 200 000 timer,
+4. der kursaktiviteten utgjør mellom 200 000 timer og 250 000 timer,
+5. der kursaktiviteten utgjør mellom 250 000 timer og 300 000 timer, og
+6. der kursaktiviteten utgjør mer enn 300 000.
 
 ## § 5. Opplæringstilskudd
 
@@ -74,7 +90,14 @@ Et studieforbund må ha minimum to medlemsorganisasjoner.
 
 ## § 9. Krav til kurs
 
-Følgende forutsetninger skal oppfylles for at et kurs kan telle med i tilskuddsgrunnlaget:Kurset skal bestå av minst fire kurstimer.Kurset skal ha minst fire deltakere. Studieforbundet kan i særlige tilfeller gi dispensasjon fra kravet om minste antall deltakere.Kurset skal ha kursleder.Studieplan for kurset skal være godkjent av studieforbundet eller medlemsorganisasjon før kursstart.Studieforbundet eller en medlemsorganisasjon i studieforbundet skal være arrangør av kurset.Kurset skal være offentlig kunngjort og åpent for alle; dette er ikke til hinder for at et kurs primært retter seg mot bestemte målgrupper.
+Følgende forutsetninger skal oppfylles for at et kurs kan telle med i tilskuddsgrunnlaget:
+
+1. Kurset skal bestå av minst fire kurstimer.
+2. Kurset skal ha minst fire deltakere. Studieforbundet kan i særlige tilfeller gi dispensasjon fra kravet om minste antall deltakere.
+3. Kurset skal ha kursleder.
+4. Studieplan for kurset skal være godkjent av studieforbundet eller medlemsorganisasjon før kursstart.
+5. Studieforbundet eller en medlemsorganisasjon i studieforbundet skal være arrangør av kurset.
+6. Kurset skal være offentlig kunngjort og åpent for alle; dette er ikke til hinder for at et kurs primært retter seg mot bestemte målgrupper.
 
 Kurs kan arrangeres som fysiske kurs eller som digitale kurs, eller som en kombinasjon av disse. Ved hel eller delvis bruk av digitale kurs skal alle deltakere og kursleder delta samtidig. Studieforbundet eller medlemsorganisasjonen skal i studieplanen vise hvilken undervisningsform som benyttes.
 
@@ -82,7 +105,10 @@ Kurs kan arrangeres som fysiske kurs eller som digitale kurs, eller som en kombi
 
 ## § 10. Krav til deltakere
 
-Følgende forutsetninger skal oppfylles for at en deltaker kan telle med i tilskuddsgrunnlaget:Deltakeren skal være fylt 14 år innen utgangen av det året opplæringen foregår.Deltakeren skal ha deltatt i minst 3/4 av kurstimene.
+Følgende forutsetninger skal oppfylles for at en deltaker kan telle med i tilskuddsgrunnlaget:
+
+1. Deltakeren skal være fylt 14 år innen utgangen av det året opplæringen foregår.
+2. Deltakeren skal ha deltatt i minst 3/4 av kurstimene.
 
 ## § 11. Rapportering av og kontroll med statstilskudd
 

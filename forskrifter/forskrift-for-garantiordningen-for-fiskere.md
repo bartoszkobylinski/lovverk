@@ -15,7 +15,7 @@ xml_hash: "0f189763eabf9808f2a03a0fb62612e38ce3958f7e00f4bf1c81c1094dc51495"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -120,9 +120,15 @@ Garantikassen kan innhente de opplysninger/dokumentasjoner som måtte anses nød
 
 1\.
 
-Året er inndelt i følgende garantiperioder:2. januar – 30. juni1. juli – 23. desember
+Året er inndelt i følgende garantiperioder:
 
-En garantiperiode består av:Tilskuddsperiode er det antall dager i garantiperioden hvor det beregnes tilskudd.Egengarantiperiode er det antall dager hvor det ikke beregnes tilskudd.
+- 2\. januar – 30. juni
+- 1\. juli – 23. desember
+
+En garantiperiode består av:
+
+- Tilskuddsperiode er det antall dager i garantiperioden hvor det beregnes tilskudd.
+- Egengarantiperiode er det antall dager hvor det ikke beregnes tilskudd.
 
 2\.
 
@@ -240,7 +246,11 @@ Avviker opplysningene som fremkommer under kontrollen fra de gitte opplysninger,
 
 Tilskudd som er utbetalt på grunnlag av uriktige eller mangelfulle opplysninger fra fiskeren skal betales tilbake til Garantikassen eller kan trekkes i fiskerens fremtidige ytelser fra Garantikassen.
 
-Konstateres det grove brudd på disse forskrifter, kan styret benytte følgende reaksjonsmåter:skriftlig advarsel,utelukkelse fra de ordninger som Garantikassen administrerer i inntil to år,politianmeldelse.
+Konstateres det grove brudd på disse forskrifter, kan styret benytte følgende reaksjonsmåter:
+
+1. skriftlig advarsel,
+2. utelukkelse fra de ordninger som Garantikassen administrerer i inntil to år,
+3. politianmeldelse.
 
 > Endret ved [forskrift 27 feb 2004 nr. 436](forskrift/2004-02-27-436) (tidligere § 9).
 

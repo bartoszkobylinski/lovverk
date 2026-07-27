@@ -15,7 +15,7 @@ xml_hash: "c699ba6c301040838ba8b176decc5fdcdd60e1d5db29f5aade38b1c441a2546b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32016L0798"
@@ -55,7 +55,12 @@ Departementet kan gi utfyllende forskrifter om tilsynsmyndighetens arbeid etter 
 
 ### § 5. Definisjoner
 
-I loven her forstås med:Jernbaneulykke: en uønsket eller utilsiktet plutselig begivenhet eller en bestemt rekke slike begivenheter som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på kjørevei, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker.Jernbanehendelse: enhver annen uønsket begivenhet enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på driftssikkerheten.Alvorlig jernbanehendelse: en uønsket begivenhet som under litt andre omstendigheter kunne ha ført til en jernbaneulykke.Jernbanevirksomhet: drift av kjørevei, trafikkstyring og trafikkvirksomhet.
+I loven her forstås med:
+
+1. Jernbaneulykke: en uønsket eller utilsiktet plutselig begivenhet eller en bestemt rekke slike begivenheter som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på kjørevei, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker.
+2. Jernbanehendelse: enhver annen uønsket begivenhet enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på driftssikkerheten.
+3. Alvorlig jernbanehendelse: en uønsket begivenhet som under litt andre omstendigheter kunne ha ført til en jernbaneulykke.
+4. Jernbanevirksomhet: drift av kjørevei, trafikkstyring og trafikkvirksomhet.
 
 Departementet kan gi forskrifter som presiserer og utfyller definisjonene i første ledd, herunder gi utfyllende bestemmelser om hva som menes med kjørevei, trafikkstyring og trafikkvirksomhet i bokstav d.
 
@@ -75,7 +80,14 @@ Departementet kan gi nærmere forskrifter om varslingsplikt etter første ledd o
 
 Inntreffer det en alvorlig jernbanehendelse, skal den som driver jernbanevirksomhet straks varsle undersøkelsesmyndigheten om hendelsen. Undersøkelsesmyndigheten varsler tilsynsmyndigheten.
 
-Departementet kan i forskrifter bestemme at også følgende personer skal ha en særskilt varslingsplikt etter første ledd:den som utfører trafikkstyring,den som fremfører rullende materiell,den som utfører eller leder skifting på eller ved stasjon eller innen et sidespors område,den som utfører trafikksikkerhetsoppgaver om bord i tog, herunder beredskapsoppgaver,den som har sikkerhetsansvar ved arbeid og aktivitet i og ved spor, ogden som utfører vedlikehold av rullende materiell eller kjørevei.
+Departementet kan i forskrifter bestemme at også følgende personer skal ha en særskilt varslingsplikt etter første ledd:
+
+1. den som utfører trafikkstyring,
+2. den som fremfører rullende materiell,
+3. den som utfører eller leder skifting på eller ved stasjon eller innen et sidespors område,
+4. den som utfører trafikksikkerhetsoppgaver om bord i tog, herunder beredskapsoppgaver,
+5. den som har sikkerhetsansvar ved arbeid og aktivitet i og ved spor, og
+6. den som utfører vedlikehold av rullende materiell eller kjørevei.
 
 Departementet kan gi nærmere forskrifter om varslingsplikt og videreformidling av varsel etter denne paragrafen.
 
@@ -85,7 +97,14 @@ Departementet kan gi nærmere forskrifter om varslingsplikt og videreformidling 
 
 Den som driver jernbanevirksomhet plikter å rapportere opplysninger om jernbaneulykker og jernbanehendelser til undersøkelsesmyndigheten og tilsynsmyndigheten.
 
-Departementet kan i forskrifter bestemme at også følgende personer skal ha en særskilt rapporteringsplikt etter første ledd:den som utfører trafikkstyring,den som fremfører rullende materiell,den som utfører eller leder skifting på eller ved stasjon eller innen et sidespors område,den som utfører trafikksikkerhetsoppgaver om bord i tog, herunder beredskapsoppgaver,den som har sikkerhetsansvar ved arbeid og aktivitet i og ved spor,den som utfører vedlikehold av rullende materiell eller kjørevei, og andre som har befatning med jernbanevirksomhet, herunder produsent av jernbanemateriell.
+Departementet kan i forskrifter bestemme at også følgende personer skal ha en særskilt rapporteringsplikt etter første ledd:
+
+1. den som utfører trafikkstyring,
+2. den som fremfører rullende materiell,
+3. den som utfører eller leder skifting på eller ved stasjon eller innen et sidespors område,
+4. den som utfører trafikksikkerhetsoppgaver om bord i tog, herunder beredskapsoppgaver,
+5. den som har sikkerhetsansvar ved arbeid og aktivitet i og ved spor,
+6. den som utfører vedlikehold av rullende materiell eller kjørevei, og andre som har befatning med jernbanevirksomhet, herunder produsent av jernbanemateriell.
 
 Departementet kan i forskrift gi nærmere bestemmelser om rapporteringsplikten etter første og annet ledd, herunder hvilke opplysninger som skal rapporteres, hvilke myndigheter det skal rapporteres til og måten det skal skje på.
 
@@ -131,7 +150,10 @@ Undersøkelsesmyndigheten skal avslutte sine undersøkelser på ulykkesstedet s�
 
 ### § 13. Tiltak for å fremskaffe opplysninger
 
-Undersøkelsesmyndigheten har rett til å benytte privat grunn og kan kreve å få undersøke og ta i besittelse jernbanemateriell og kjørevei, vrakrester, dokumenter og andre ting i den utstrekning den trenger det for å kunne utøve sitt verv. Herunder skal undersøkelsesmyndigheten ha rett tilå kreve en fullstendig obduksjon av de omkomne og til å få umiddelbar adgang til resultatene av slike undersøkelser eller tester av prøver som er tatt, ogå be om legeundersøkelse av alle personer involvert i ulykken eller hendelsen eller be om at det utføres tester på prøver som er tatt av slike personer, og ha umiddelbar tilgang til resultatet av slike undersøkelser eller tester.
+Undersøkelsesmyndigheten har rett til å benytte privat grunn og kan kreve å få undersøke og ta i besittelse jernbanemateriell og kjørevei, vrakrester, dokumenter og andre ting i den utstrekning den trenger det for å kunne utøve sitt verv. Herunder skal undersøkelsesmyndigheten ha rett til
+
+1. å kreve en fullstendig obduksjon av de omkomne og til å få umiddelbar adgang til resultatene av slike undersøkelser eller tester av prøver som er tatt, og
+2. å be om legeundersøkelse av alle personer involvert i ulykken eller hendelsen eller be om at det utføres tester på prøver som er tatt av slike personer, og ha umiddelbar tilgang til resultatet av slike undersøkelser eller tester.
 
 Om nødvendig kan undersøkelsesmyndigheten kreve hjelp av politiet.
 

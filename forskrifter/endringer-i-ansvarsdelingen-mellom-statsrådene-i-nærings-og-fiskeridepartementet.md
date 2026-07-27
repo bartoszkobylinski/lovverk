@@ -15,17 +15,30 @@ xml_hash: "edc49546ae3a7e23642a15e2fc6f5e4ebde68e19df99bca2a5999218e96e497a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Endringer i ansvarsdelingen mellom statsrådene i Nærings- og fiskeridepartementet
 
-1. Statsråd Bjørnar Selnes Skjæran overtar fra Samferdselsdepartementet:styret av Kyst- og miljøavdelingen med unntak av de delene av avdelingen som har ansvaret for koordineringen av Samferdselsdepartementets arbeid med miljø- og klimaspørsmål, ogansvaret for etatsstyringen av Kystverket og Senter for oljevern og marint miljø.
+1. Statsråd Bjørnar Selnes Skjæran overtar fra Samferdselsdepartementet:
+
+   - styret av Kyst- og miljøavdelingen med unntak av de delene av avdelingen som har ansvaret for koordineringen av Samferdselsdepartementets arbeid med miljø- og klimaspørsmål, og
+   - ansvaret for etatsstyringen av Kystverket og Senter for oljevern og marint miljø.
 2. Statsråd Bjørnar Selnes Skjæran overtar styret av Maritim avdeling og ansvaret for prosjektet Ocean Space Centre fra statsråd Jan Christian Vestre i Nærings- og fiskeridepartementet. Statsråd Bjørnar Selnes Skjæran har videre ansvaret for å koordinere satsingen på grønn skipsfart.
 3. Statsråd Bjørnar Selnes Skjæran og statsråd Jan Christian Vestre har forvaltningsansvar for lover i samsvar med vedlagte forslag.
-4. Følgende utnevnes til statssekretærer:Professor Oddmund Løkensgard Hoel, statssekretær for statsråd Ola Borten Moe i Kunnskapsdepartementet.Fylkesråd Kristina Sigursdottir Hansen, statssekretær for statsråd Bjørnar Selnes Skjæran i Nærings- og fiskeridepartementet.Fylkesråd Bent-Joacim Bentzen, statssekretær for statsråd Odd Roger Enoksen i Forsvarsdepartementet.Gruppeleder Aleksander Øren Heen, statssekretær for statsråd Espen Barth Eide i Klima- og miljødepartementet.Leder for politikk og samfunnsavdelingen, Gunn Karin Gjul, statssekretær for statsråd Bjørn Arild Gram i Kommunal- og moderniseringsdepartementet.Tjenesteleder, Ole Henrik Krat Bjørkholt, statssekretær for statsråd Ingvild Kjerkol i Helse- og omsorgsdepartementet.Ordfører John-Erik Vika, statssekretær for statsråd Emilie Enger Mehl i Justis- og beredskapsdepartementet.Statsadvokat Hans-Petter Aasen, statssekretær for statsråd Emilie Enger Mehl i Justis- og beredskapsdepartementet.Politisk rådgiver Erik Sandsmark Idsøe, statssekretær for statsråd Emilie Enger Mehl i Justis- og beredskapsdepartementet.
+4. Følgende utnevnes til statssekretærer:
+
+   - Professor Oddmund Løkensgard Hoel, statssekretær for statsråd Ola Borten Moe i Kunnskapsdepartementet.
+   - Fylkesråd Kristina Sigursdottir Hansen, statssekretær for statsråd Bjørnar Selnes Skjæran i Nærings- og fiskeridepartementet.
+   - Fylkesråd Bent-Joacim Bentzen, statssekretær for statsråd Odd Roger Enoksen i Forsvarsdepartementet.
+   - Gruppeleder Aleksander Øren Heen, statssekretær for statsråd Espen Barth Eide i Klima- og miljødepartementet.
+   - Leder for politikk og samfunnsavdelingen, Gunn Karin Gjul, statssekretær for statsråd Bjørn Arild Gram i Kommunal- og moderniseringsdepartementet.
+   - Tjenesteleder, Ole Henrik Krat Bjørkholt, statssekretær for statsråd Ingvild Kjerkol i Helse- og omsorgsdepartementet.
+   - Ordfører John-Erik Vika, statssekretær for statsråd Emilie Enger Mehl i Justis- og beredskapsdepartementet.
+   - Statsadvokat Hans-Petter Aasen, statssekretær for statsråd Emilie Enger Mehl i Justis- og beredskapsdepartementet.
+   - Politisk rådgiver Erik Sandsmark Idsøe, statssekretær for statsråd Emilie Enger Mehl i Justis- og beredskapsdepartementet.
 5. Stillingene holdes åpne for statssekretærer som er ansatt i staten så lenge de er statsråder og statssekretærer. Dersom de er tilsatt i åremålsstilling, forskyves utløpet av åremålet med en periode tilsvarende den tid de har gjort tjeneste som statsråder eller statssekretærer.
 6. Alle endringene ovenfor skjer med virkning fra 22. oktober 2021 kl. 12.00.
 

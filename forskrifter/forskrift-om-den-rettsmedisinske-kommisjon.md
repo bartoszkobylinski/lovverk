@@ -36,7 +36,12 @@ Kommisjonens medlemmer skal ha relevant faglig kompetanse. Høy vitenskapelig og
 
 ## § 3. Kommisjonens oppgaver
 
-Den rettsmedisinske kommisjon skal i samsvar med [straffeprosessloven § 147](lov/1981-05-22-25/§147) tredje ledd gjennomgå innsendte erklæringer og uttalelser. Kommisjonen kan anmode sakkyndige om å gi en skriftlig tilleggserklæring innen en passende frist. Kommisjonen underretter retten, påtalemyndigheten og den som har avgitt erklæringen, om sin vurdering. Den underretter på samme måte hvis den finner at det bør foretas ytterligere undersøkelser. Den rettsmedisinske kommisjon utarbeider etter innspill fra Domstoladministrasjonen og Riksadvokaten et graderingssystem for tilbakemelding til retten. I straffesaken legges uttalelsen fra kommisjonen ved den sakkyndiges erklæring. Den rettsmedisinske kommisjon skalbistå retten, påtalemyndigheten, forsvarere, bistandsadvokater, sakkyndige, Kommisjonen for gjenopptakelse av straffesaker, justismyndigheter, helsemyndigheter og andre aktuelle myndigheter i rettsmedisinske spørsmålutarbeide maler for hvordan typiske mandater kan utformes og gjøre dem tilgjengelig på kommisjonens nettsiderha ansvar for opplæring av sakkyndige oggi departementet en årlig beretning om sin virksomhet.
+Den rettsmedisinske kommisjon skal i samsvar med [straffeprosessloven § 147](lov/1981-05-22-25/§147) tredje ledd gjennomgå innsendte erklæringer og uttalelser. Kommisjonen kan anmode sakkyndige om å gi en skriftlig tilleggserklæring innen en passende frist. Kommisjonen underretter retten, påtalemyndigheten og den som har avgitt erklæringen, om sin vurdering. Den underretter på samme måte hvis den finner at det bør foretas ytterligere undersøkelser. Den rettsmedisinske kommisjon utarbeider etter innspill fra Domstoladministrasjonen og Riksadvokaten et graderingssystem for tilbakemelding til retten. I straffesaken legges uttalelsen fra kommisjonen ved den sakkyndiges erklæring. Den rettsmedisinske kommisjon skal
+
+1. bistå retten, påtalemyndigheten, forsvarere, bistandsadvokater, sakkyndige, Kommisjonen for gjenopptakelse av straffesaker, justismyndigheter, helsemyndigheter og andre aktuelle myndigheter i rettsmedisinske spørsmål
+2. utarbeide maler for hvordan typiske mandater kan utformes og gjøre dem tilgjengelig på kommisjonens nettsider
+3. ha ansvar for opplæring av sakkyndige og
+4. gi departementet en årlig beretning om sin virksomhet.
 
 > Endret ved [forskrift 30 sep 2020 nr. 1921](forskrift/2020-09-30-1921) (i kraft 1 okt 2020).
 

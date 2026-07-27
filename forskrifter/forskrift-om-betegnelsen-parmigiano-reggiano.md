@@ -15,7 +15,7 @@ xml_hash: "e73355ee038b160efe4ec4784e5f4dc8834fbbc0f0baab7936d4ff3b5f158799"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,11 +64,15 @@ PGI ( ) PDO ( X )
 
 1\.
 
-Name:«Parmigiano Reggiano».
+Name:
+
+«Parmigiano Reggiano».
 
 2\.
 
-Member State or Third Country:Italy.
+Member State or Third Country:
+
+Italy.
 
 3\.
 
@@ -76,11 +80,15 @@ Description of the agricultural product or foodstuff:
 
 3.1.
 
-Type of product (Annex II)Class 1.3. Cheeses.
+Type of product (Annex II)
+
+Class 1.3. Cheeses.
 
 3.2.
 
-Description of the product to which the name in (1) applies«Parmigiano Reggiano» is a hard cheese, cooked and slowly matured cheese, made from raw cow's milk, partially skimmed by natural surface skimming. The milk must not undergo any heat treatment and must come from cows fed primarily on fodder obtained in the area of origin. It must be matured for at least 12 months. «Parmigiano Reggiano» can be sold on the market as a whole cheese, portions or grated.
+Description of the product to which the name in (1) applies
+
+«Parmigiano Reggiano» is a hard cheese, cooked and slowly matured cheese, made from raw cow's milk, partially skimmed by natural surface skimming. The milk must not undergo any heat treatment and must come from cows fed primarily on fodder obtained in the area of origin. It must be matured for at least 12 months. «Parmigiano Reggiano» can be sold on the market as a whole cheese, portions or grated.
 
 «Parmigiano Reggiano» shall have the following characteristics:
 
@@ -96,7 +104,9 @@ Description of the product to which the name in (1) applies«Parmigiano Reggiano
 
 3.3.
 
-Raw materials (for processed products only)Cow's milk, salt, calf rennet.
+Raw materials (for processed products only)
+
+Cow's milk, salt, calf rennet.
 
 The milk comes from cows reared in the defined geographical area.
 
@@ -104,7 +114,9 @@ The use of additives is not permitted.
 
 3.4.
 
-Feed (for products of animal origin only)The cows are fed primarily on fodder from the defined geographical area, specified by quantity and quality.
+Feed (for products of animal origin only)
+
+The cows are fed primarily on fodder from the defined geographical area, specified by quantity and quality.
 
 At least 75 % of the dry matter of the fodder must be produced within the geographical area.
 
@@ -114,7 +126,9 @@ The use of silage of any kind is prohibited.
 
 3.5.
 
-Specific steps in production that must take place in the identified geographical areaThe farms rearing the dairy cows whose milk is to be processed into «Parmigiano Reggiano» are located within the defined geographical area.
+Specific steps in production that must take place in the identified geographical area
+
+The farms rearing the dairy cows whose milk is to be processed into «Parmigiano Reggiano» are located within the defined geographical area.
 
 The milk must be produced and processed within the defined geographical area. The milk obtained from the evening milking and the morning milking is delivered in whole raw state to the dairy, in line with production specifications. The milk from the morning milking is placed in copper vats and mixed with that from the evening milking, partially skimmed by natural surface skimming. Native whey is added to the milk. The use of selected starters is not permitted. Following coagulation, obtained exclusively by the use of calf rennet, the curd is broken up and cooked. After sedimentation, the cheese mass is transferred to the appropriate moulds to form the wheels. Markings are then affixed. After several days, the wheels are immersed in brine and then matured for a period of at least 12 months.
 
@@ -124,7 +138,9 @@ After the minimum maturing period, examination by experts is carried out to chec
 
 3.6.
 
-Specific rules concerning slicing, grating, packaging, etc.«Parmigiano Reggiano» can be sold on the market as a whole cheese, portions or grated.
+Specific rules concerning slicing, grating, packaging, etc.
+
+«Parmigiano Reggiano» can be sold on the market as a whole cheese, portions or grated.
 
 For the sake of consumer protection, in order to guarantee the authenticity of pre-packaged, grated or portioned «Parmigiano Reggiano» placed on the market, the grating, portioning and subsequent packaging operations must be carried out in the defined geographical area. This is required because the marks identifying «Parmigiano Reggiano» on the whole cheese are lost or not visible on the grated or portioned product, making it necessary to guarantee the origin of the pre-packaged product. It is also required because of the need to guarantee that the cheese is packaged quickly after portioning using appropriate methods to prevent the cheese being dehydrated, oxidised or losing its original «Parmigiano Reggiano» organoleptic characteristics. Cutting into the cheese wheel deprives the cheese of the natural protection provided by the crust which, being itself highly dehydrated, insulates the cheese very well against the ambient air.
 
@@ -134,13 +150,17 @@ Only the whole cheese bearing the protected designation of origin (PDO) «Parmig
 
 3.7.
 
-Specific rules concerning labellingThe identification marks on each wheel of «Parmigiano Reggiano» cheese comprise the words «Parmigiano Reggiano» next to the registration number of the dairy and the year and month of production stencilled onto the surface of the heel, the oval stamp with the words «Parmigiano Reggiano Consorzio Tutela», and a casein nameplate showing the codes identifying the mould and, where appropriate, the mark identifying a second class cheese.
+Specific rules concerning labelling
+
+The identification marks on each wheel of «Parmigiano Reggiano» cheese comprise the words «Parmigiano Reggiano» next to the registration number of the dairy and the year and month of production stencilled onto the surface of the heel, the oval stamp with the words «Parmigiano Reggiano Consorzio Tutela», and a casein nameplate showing the codes identifying the mould and, where appropriate, the mark identifying a second class cheese.
 
 The identification mark for pre-packaged, grated and portioned «Parmigiano Reggiano» cheese placed on the market comprises, in the top part, the image of a segment and a wheel of «Parmigiano Reggiano» cheese next to a knife and, at the bottom, the words «PARMIGIANO REGGIANO». This mark, which is a mandatory component of the label, must be reproduced in accordance with the technical specifications defined by the consortium in the relevant agreement.
 
 4\.
 
-Concise definition of the geographical areaThe defined geographical area comprises the territories of the Provinces of Bologna to the left of the Reno River, Mantua to the right of the River Po, Modena, Parma and Reggio in the Emilia Region.
+Concise definition of the geographical area
+
+The defined geographical area comprises the territories of the Provinces of Bologna to the left of the Reno River, Mantua to the right of the River Po, Modena, Parma and Reggio in the Emilia Region.
 
 5\.
 
@@ -148,17 +168,23 @@ Link with the geographical area
 
 5.1.
 
-Specificity of the geographical areaIn terms of the natural factors involved, particular attention should be drawn to the soil characteristics of the land within the defined geographical area, extending from the Appenine ridge to the Po, in combination with climate conditions which have a direct influence on both the composition of the natural flora and the specific fermentation characteristics of the product. In human terms, in addition to the historic relevance of the cheese in the local economy, it should be noted that the complex operations to which «Parmigiano Reggiano» cheese is subjected are the fruit of traditional cheese-making techniques established over the centuries in this production area and faithfully handed down as consistent local practices.
+Specificity of the geographical area
+
+In terms of the natural factors involved, particular attention should be drawn to the soil characteristics of the land within the defined geographical area, extending from the Appenine ridge to the Po, in combination with climate conditions which have a direct influence on both the composition of the natural flora and the specific fermentation characteristics of the product. In human terms, in addition to the historic relevance of the cheese in the local economy, it should be noted that the complex operations to which «Parmigiano Reggiano» cheese is subjected are the fruit of traditional cheese-making techniques established over the centuries in this production area and faithfully handed down as consistent local practices.
 
 5.2.
 
-Specificity of the productThe specific characteristics of «Parmigiano Reggiano» cheese are the structure of the body of the cheese, fine grained and flaky, the fragrant aroma and delicate taste, which is flavoursome without being pungent, and its high level of solubility and digestibility.
+Specificity of the product
+
+The specific characteristics of «Parmigiano Reggiano» cheese are the structure of the body of the cheese, fine grained and flaky, the fragrant aroma and delicate taste, which is flavoursome without being pungent, and its high level of solubility and digestibility.
 
 These characteristics stem from the specific features of and selection criteria applied to the milk used raw on a daily basis in copper vats, coagulated with calf rennet with a high chymosin content, from the curing in saturated brine and prolonged maturation period.
 
 5.3.
 
-Causal link between the geographical area and the quality or characteristics of the product (for PDO) or a specific quality, the reputation or other characteristic of the product (for PGI)The peculiar physical, chemical and microbiological properties of the milk which ensure the specific characteristics and quality of «Parmigiano Reggiano» cheese are basically due to the manner in which the dairy cows are fed, on a basis of fodder from the original area, strictly excluding the use of silage of any kind.
+Causal link between the geographical area and the quality or characteristics of the product (for PDO) or a specific quality, the reputation or other characteristic of the product (for PGI)
+
+The peculiar physical, chemical and microbiological properties of the milk which ensure the specific characteristics and quality of «Parmigiano Reggiano» cheese are basically due to the manner in which the dairy cows are fed, on a basis of fodder from the original area, strictly excluding the use of silage of any kind.
 
 The minimum twelve-month maturing period, carried out within the geographical area defined by virtue of its specific climatic conditions is a necessary phase in order to ensure that the product obtained from the processing of the milk can acquire, through particular enzyme processes, the characteristics proper to a «Parmigiano Reggiano» cheese.
 
@@ -168,5 +194,9 @@ Reference to publication of the specification:
 
 The full text of the product specification is available:
 
-- at the following website:www.politicheagricole.it/DocumentiPubblicazioni/Search_Documenti_Elenco.htm?txtTipoDocumento=Disciplinare%20in%20esame%20UE&txtDocArgomento=Prodotti%20di%20Qualit%E0>Prodotti%20Dop,%20Igp%20e%20Stgor:
+- at the following website:
+
+  www.politicheagricole.it/DocumentiPubblicazioni/Search_Documenti_Elenco.htm?txtTipoDocumento=Disciplinare%20in%20esame%20UE&txtDocArgomento=Prodotti%20di%20Qualit%E0>Prodotti%20Dop,%20Igp%20e%20Stg
+
+  or:
 - by going directly to the home page of the Ministry (www.politicheagricole.it) and clicking on «Prodotti di Qualità» (on the left of the screen) and finally on «Disciplinari di Produzione all'esame dell'UE (Reg CE 510/2006)».

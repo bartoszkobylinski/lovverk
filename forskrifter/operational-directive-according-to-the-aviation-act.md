@@ -38,7 +38,12 @@ This Operational Directive is applicable to operators conducting commercial air 
 
 2.1
 
-The Norwegian Civil Aviation Authority, in exercise of its powers under Aviation Act (Luftfartsloven) § 4-1, directs all air operators which conduct commercial air transport operations:to airfields in Norway located north of 65° latitude,with the following aircraft/system combinations:de Havilland DHC-8 with compass configuration AHRS AH-600,
+The Norwegian Civil Aviation Authority, in exercise of its powers under Aviation Act (Luftfartsloven) § 4-1, directs all air operators which conduct commercial air transport operations:
+
+1. to airfields in Norway located north of 65° latitude,
+2. with the following aircraft/system combinations:
+
+   - de Havilland DHC-8 with compass configuration AHRS AH-600,
 
 to comply with the requirements set out in paragraph 2.2.
 

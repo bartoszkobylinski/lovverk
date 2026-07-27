@@ -31,7 +31,10 @@ Forskriften skal bidra til sikkerhet, kunnskap og effektiv planlegging, ved at d
 
 ### § 2. Definisjoner
 
-I denne forskriften menes med:*Geotekniske grunnundersøkelser:* fysiske undersøkelser i form av grunnboringer, feltforsøk og opptak av jordprøver, eventuelt med etterfølgende laboratorieundersøkelser, som sier noe om hvordan grunnen er satt sammen og hvilke egenskaper den har.*Naturfareutredning:* en skriftlig vurdering av fare for flom og alle typer skred som innebærer at naturfaren kvantifiseres og vises med sannsynlighet eller faregrad i form av et faresonekart, eller en skriftlig avklaring av faren for et mindre område. Med naturfareutredning menes både utredninger som bekrefter og avkrefter naturfare.
+I denne forskriften menes med:
+
+1. *Geotekniske grunnundersøkelser:* fysiske undersøkelser i form av grunnboringer, feltforsøk og opptak av jordprøver, eventuelt med etterfølgende laboratorieundersøkelser, som sier noe om hvordan grunnen er satt sammen og hvilke egenskaper den har.
+2. *Naturfareutredning:* en skriftlig vurdering av fare for flom og alle typer skred som innebærer at naturfaren kvantifiseres og vises med sannsynlighet eller faregrad i form av et faresonekart, eller en skriftlig avklaring av faren for et mindre område. Med naturfareutredning menes både utredninger som bekrefter og avkrefter naturfare.
 
 ### § 3. Myndighet
 
@@ -47,7 +50,10 @@ Det er foretaket som har gjennomført en grunnundersøkelse eller naturfareutred
 
 ### § 5. Hva innmeldingsplikten omfatter – Grunnundersøkelser
 
-Etter gjennomført geoteknisk grunnundersøkelse, skal det meldes inn:komplett geoteknisk undersøkelse med stedfestede borehull, borehullsundersøkelser og digitale måledata, levert i henhold til gjeldende produktspesifikasjon etter norsk standardrapport med beskrivelse av undersøkelsen og resultater.
+Etter gjennomført geoteknisk grunnundersøkelse, skal det meldes inn:
+
+1. komplett geoteknisk undersøkelse med stedfestede borehull, borehullsundersøkelser og digitale måledata, levert i henhold til gjeldende produktspesifikasjon etter norsk standard
+2. rapport med beskrivelse av undersøkelsen og resultater.
 
 Dersom enkelte måledata ikke kan meldes inn i maskinlesbar, digital form i innmeldingsløsningen, skal dette leveres som vedlegg til grunnundersøkelsen i innmeldingsløsningen.
 
@@ -55,11 +61,23 @@ Informasjon som er undergitt lovbestemt taushetsplikt, skal ikke meldes inn.
 
 ### § 6. Hva innmeldingsplikten omfatter – Naturfareutredninger
 
-Etter gjennomført naturfareutredning av flom, skal det meldes inn:de vurderinger som er gjort av flom, erosjon og massetransportstedfestede analyseområder, faresoner for flom og informasjon om flomvannstand, dersom slike er utarbeidetbefaringsrapporter og beregninger som er gjort som del av utredningen, dersom slike er utarbeidet.
+Etter gjennomført naturfareutredning av flom, skal det meldes inn:
 
-Etter gjennomført naturfareutredning av skred i bratt terreng, skal det meldes inn:de vurderinger som er gjort av alle typer skred i bratt terreng, herunder steinsprang, steinskred, fjellskred, snøskred, sørpeskred, flomskred og jordskredstedfestede analyseområder, faresoner for skred og skogpolygoner med betydning for skredfaren, dersom slike er utarbeidetbefaringsrapporter, dersom slike er utarbeidet.
+1. de vurderinger som er gjort av flom, erosjon og massetransport
+2. stedfestede analyseområder, faresoner for flom og informasjon om flomvannstand, dersom slike er utarbeidet
+3. befaringsrapporter og beregninger som er gjort som del av utredningen, dersom slike er utarbeidet.
 
-Etter gjennomført naturfareutredning av kvikkleireskred skal det meldes inn:de vurderinger som er gjortstedfestede analyseområder, løsne- og utløpsområder, og områder uten fare for kvikkleireskred, dersom slike er utarbeidetstabilitetsberegninger, befaringsrapporter, rapporter etter uavhengig kvalitetssikring og eventuelt rapporter for utførte sikringstiltak som ligger til grunn for endret faregrad for en faresone for kvikkleireskred, dersom slike er utarbeidet.
+Etter gjennomført naturfareutredning av skred i bratt terreng, skal det meldes inn:
+
+1. de vurderinger som er gjort av alle typer skred i bratt terreng, herunder steinsprang, steinskred, fjellskred, snøskred, sørpeskred, flomskred og jordskred
+2. stedfestede analyseområder, faresoner for skred og skogpolygoner med betydning for skredfaren, dersom slike er utarbeidet
+3. befaringsrapporter, dersom slike er utarbeidet.
+
+Etter gjennomført naturfareutredning av kvikkleireskred skal det meldes inn:
+
+1. de vurderinger som er gjort
+2. stedfestede analyseområder, løsne- og utløpsområder, og områder uten fare for kvikkleireskred, dersom slike er utarbeidet
+3. stabilitetsberegninger, befaringsrapporter, rapporter etter uavhengig kvalitetssikring og eventuelt rapporter for utførte sikringstiltak som ligger til grunn for endret faregrad for en faresone for kvikkleireskred, dersom slike er utarbeidet.
 
 Informasjon som er undergitt lovbestemt taushetsplikt, skal ikke meldes inn.
 

@@ -26,7 +26,12 @@ eu_basis: []
 
 ### § 1. (Produktkontrollmyndighetene)
 
-Produktkontrollmyndighetene er:Klima- og miljødepartementetBarne- og familiedepartementetElektrisitetstilsynetMiljødirektoratet.
+Produktkontrollmyndighetene er:
+
+1. Klima- og miljødepartementet
+2. Barne- og familiedepartementet
+3. Elektrisitetstilsynet
+4. Miljødirektoratet.
 
 Klima- og miljødepartementet og Barne- og familiedepartementet kan etter avtale med vedkommende departement tillegge andre myndigheter eller institusjoner oppgaver etter produktkontrolloven.
 
@@ -74,7 +79,13 @@ Myndighet til å gi forskrifter etter [produktkontrollovens § 4](lov/1976-06-11
 
 ### § 6. (Myndighet til å treffe enkeltvedtak etter produktkontrolloven)
 
-Elektrisitetstilsynet og Miljødirektoratet kan på sine respektive områder jfr. [§ 1 a](forskrift/1977-08-05-2/§1a):Treffe enkeltvedtak etter [produktkontrollovens § 4](lov/1976-06-11-79/§4).Gi næringsdrivende og andre pålegg om å fremskaffe opplysninger eller iverksette undersøkelser i overensstemmelse med [produktkontrollovens § 5](lov/1976-06-11-79/§5).Nedlegge midlertidig forbud etter [produktkontrollovens § 6](lov/1976-06-11-79/§6).Treffe vedtak om å ilegge eller frafalle tvangsmulkt etter [produktkontrollovens § 13](lov/1976-06-11-79/§13).Treffe vedtak etter lov om produktkontroll [§ 6](forskrift/1977-08-05-2/§6)a.
+Elektrisitetstilsynet og Miljødirektoratet kan på sine respektive områder jfr. [§ 1 a](forskrift/1977-08-05-2/§1a):
+
+1. Treffe enkeltvedtak etter [produktkontrollovens § 4](lov/1976-06-11-79/§4).
+2. Gi næringsdrivende og andre pålegg om å fremskaffe opplysninger eller iverksette undersøkelser i overensstemmelse med [produktkontrollovens § 5](lov/1976-06-11-79/§5).
+3. Nedlegge midlertidig forbud etter [produktkontrollovens § 6](lov/1976-06-11-79/§6).
+4. Treffe vedtak om å ilegge eller frafalle tvangsmulkt etter [produktkontrollovens § 13](lov/1976-06-11-79/§13).
+5. Treffe vedtak etter lov om produktkontroll [§ 6](forskrift/1977-08-05-2/§6)a.
 
 > Endret ved [forskrifter 11 mai 1994 nr. 344](forskrift/1994-05-11-344), [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013).
 
@@ -106,7 +117,11 @@ Klage over vedtak truffet av Elektrisitetstilsynet avgjøres av Barne- og famili
 
 I saker som berører flere kontrollmyndigheters ansvarsområde, skal én myndighet etter bestemmelsen i [§ 14](forskrift/1977-08-05-2/§14) ha hovedansvaret for saksbehandlingen.
 
-Organ som har hovedansvaret for behandling av en sak, skal sørge for:Sakens fremdrift.Samordne innhenting av opplysninger og kontakt med publikum og sakens parter.Så vidt mulig samordne de forskjellige myndigheters vedtak i tid og innhold.
+Organ som har hovedansvaret for behandling av en sak, skal sørge for:
+
+1. Sakens fremdrift.
+2. Samordne innhenting av opplysninger og kontakt med publikum og sakens parter.
+3. Så vidt mulig samordne de forskjellige myndigheters vedtak i tid og innhold.
 
 ### § 14. (Ansvarsfordeling)
 

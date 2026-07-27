@@ -15,7 +15,7 @@ xml_hash: "2c5d25aed037604e748f3d1bbe1fbb066604a7b015656dc148759060cf87475c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,11 @@ Søkeren skal ha gjennomgått legeundersøkelse, jf. BSL JAR-FCL 3, og være erk
 
 2.4.1*Grunnutdanning*
 
-Søkeren må oppfylle minst ett av følgende krav til forkunnskaper:Være innehaver av flyteknikersertifikat (MI + MIII)Være innehaver av trafikkflygersertifikat, CPL-A og instrumentbevis, IR-AKunne dokumentere annen utdannelse i teori som etter Luftfartstilsynets bedømmelse, anses likeverdig med utdannelse til flyteknikersertifikat (MI + MIII).
+Søkeren må oppfylle minst ett av følgende krav til forkunnskaper:
+
+1. Være innehaver av flyteknikersertifikat (MI + MIII)
+2. Være innehaver av trafikkflygersertifikat, CPL-A og instrumentbevis, IR-A
+3. Kunne dokumentere annen utdannelse i teori som etter Luftfartstilsynets bedømmelse, anses likeverdig med utdannelse til flyteknikersertifikat (MI + MIII).
 
 2.4.2*Flytelefonistsertifikat*
 
@@ -54,15 +58,40 @@ Søkeren skal være innehaver av flytelefonistsertifikat uten begrensning, eller
 
 2.4.3*Flymaskinistutdannelse og prøver*
 
-Søkeren skal ha gjennomgått flymaskinistutdannelse godkjent av Luftfartstilsynet. Prøver arrangert eller under kontroll av Luftfartstilsynet skal omfatte følgende fag:AerodynamikkMotorlæreElektronikkFlysystemerNavigasjonssystemerYtelse, vekt og balanseMeteorologiRutehåndbokLover og bestemmelserMenneskelige ytelser og begrensninger.
+Søkeren skal ha gjennomgått flymaskinistutdannelse godkjent av Luftfartstilsynet. Prøver arrangert eller under kontroll av Luftfartstilsynet skal omfatte følgende fag:
+
+1. Aerodynamikk
+2. Motorlære
+3. Elektronikk
+4. Flysystemer
+5. Navigasjonssystemer
+6. Ytelse, vekt og balanse
+7. Meteorologi
+8. Rutehåndbok
+9. Lover og bestemmelser
+10. Menneskelige ytelser og begrensninger.
 
 2.4.3.1
 
-Søkere som er innehaver av flyteknikersertifikat (MI + MIII), er fritatt for prøve i fagene:AerodynamikkMotorlæreElektroteknikkFlysystemerNavigasjonssystemer.
+Søkere som er innehaver av flyteknikersertifikat (MI + MIII), er fritatt for prøve i fagene:
+
+- Aerodynamikk
+- Motorlære
+- Elektroteknikk
+- Flysystemer
+- Navigasjonssystemer.
 
 2.4.3.2
 
-Søkere som er innehaver av trafikkflygersertifikat med tilknyttete rettigheter er fritatt for prøve i fagene:AerodynamikkNavigasjonssystemerMeteorologiRutehåndbokLover og bestemmelserYtelse, vekt og balanseMenneskelige ytelser og begrensninger.
+Søkere som er innehaver av trafikkflygersertifikat med tilknyttete rettigheter er fritatt for prøve i fagene:
+
+- Aerodynamikk
+- Navigasjonssystemer
+- Meteorologi
+- Rutehåndbok
+- Lover og bestemmelser
+- Ytelse, vekt og balanse
+- Menneskelige ytelser og begrensninger.
 
 2.4.4*Typeutdannelse*
 
@@ -154,6 +183,10 @@ Luftfartstilsynet kan dispensere fra bestemmelsene i denne forskrift når særli
 
 Denne forskrift trer i kraft 1. juli 2001.
 
-Fra samme tidspunkt oppheves:[Forskrift av 14. november 1994 nr. 1289](forskrift/1994-11-14-1289) om flymaskinistsertifikat (BSL C 5-2).Forskrift av 1. mars 19721 om navigatørsertifikat (BSL C 5-1).Forskrift av 1. mars 19721 om flytelegrafist sertifikat (BSL C 5-3).
+Fra samme tidspunkt oppheves:
+
+- [Forskrift av 14. november 1994 nr. 1289](forskrift/1994-11-14-1289) om flymaskinistsertifikat (BSL C 5-2).
+- Forskrift av 1. mars 19721 om navigatørsertifikat (BSL C 5-1).
+- Forskrift av 1. mars 19721 om flytelegrafist sertifikat (BSL C 5-3).
 
 1 Ikke tidligere kunngjort i Norsk Lovtidend.

@@ -32,4 +32,7 @@ Kongens myndighet etter [lov 20. juli 1893 nr 1](lov/1893-07-20-1) om Sjøfarten
 
 ## III
 
-Fra den tid loven trer ikraft oppheves følgende forskrifter gitt ved kgl.res. i medhold av [lov 18. desember 1959 nr. 11](lov/1959-12-18-11) om betaling for rettsforretninger (sportelloven)§§ 2, 29, 32, 49, 51, 62 og 65:Forskrifter av 11. mars 1960, med senere endring av 13. november 1964, 19. desember 1969, 26. april 1973 og 18. januar 1980.Forskrifter av 21. november 1980 med senere endring av 4. desember 1981 om gebyr for tinglysing, registrering eller anmerkning i grunnbok, løsøreregisteret eller skipsregister og for utskrifter av disse registre.
+Fra den tid loven trer ikraft oppheves følgende forskrifter gitt ved kgl.res. i medhold av [lov 18. desember 1959 nr. 11](lov/1959-12-18-11) om betaling for rettsforretninger (sportelloven)§§ 2, 29, 32, 49, 51, 62 og 65:
+
+1. Forskrifter av 11. mars 1960, med senere endring av 13. november 1964, 19. desember 1969, 26. april 1973 og 18. januar 1980.
+2. Forskrifter av 21. november 1980 med senere endring av 4. desember 1981 om gebyr for tinglysing, registrering eller anmerkning i grunnbok, løsøreregisteret eller skipsregister og for utskrifter av disse registre.

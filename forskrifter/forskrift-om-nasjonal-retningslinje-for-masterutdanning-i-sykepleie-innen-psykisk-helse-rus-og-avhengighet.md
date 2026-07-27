@@ -46,77 +46,184 @@ Utdanningen skal sikre at kandidatene har kompetanse og holdninger som danner gr
 
 ### § 3. Kompetanseområder
 
-Utdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1916/kap2) til [6](forskrift/2025-07-04-1916/kap6) under følgende kompetanseområder:Sykepleiefaglig kjernekompetanse innen psykisk helse, rus og avhengighetEtikk og lovRelasjonskompetanse, kommunikasjon og samhandlingFaglig ledelse, helsepedagogikk og innovasjonVitenskapsteori, forskningsmetode, formidling og selvstendig forskningsarbeid.
+Utdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1916/kap2) til [6](forskrift/2025-07-04-1916/kap6) under følgende kompetanseområder:
+
+- Sykepleiefaglig kjernekompetanse innen psykisk helse, rus og avhengighet
+- Etikk og lov
+- Relasjonskompetanse, kommunikasjon og samhandling
+- Faglig ledelse, helsepedagogikk og innovasjon
+- Vitenskapsteori, forskningsmetode, formidling og selvstendig forskningsarbeid.
 
 ## Kapittel 2. Læringsutbytter for kompetanseområdet sykepleiefaglig kjernekompetanse innen psykisk helse, rus og avhengighet
 
 ### § 4. Læringsutbytter for kompetanseområdet sykepleiefaglig kjernekompetanse innen psykisk helse, rus og avhengighet – Kunnskap
 
-Kandidatenhar avansert kunnskap om menneskers grunnleggende behov og opprettholdelse av livsprosesser knyttet til helse og sykdom i et livsløpsperspektiv, fra barn og unge til voksne og eldrehar inngående kunnskap om forebygging, utvikling, behandling og mestring av psykiske problem og lidelser, og rusmiddel- og avhengighetsproblem og -lidelser, herunder kompetanse om forebygging av selvmord og overdosehar inngående kunnskap om sykepleie til mennesker med akutte tilstander med fare for liv og helsehar inngående kunnskap om medikamenters virkninger og bivirkninger hos mennesker med psykiske og somatiske helseutfordringer, rus- og avhengighetsproblemer og -lidelser og interaksjoner mellom dissehar avansert kunnskap om medikamentfri behandlinghar inngående kunnskap om rusmidler, deres kroppslige og mentale virkninger, samt sosial forståelse av rus og avhengighethar inngående kunnskap om sammenhenger mellom krevende livserfaringer, deriblant traumer (inkludert historiske traumer), rasisme, vold, overgrep og omsorgssvikt, og tap av helse og leveårhar avansert kunnskap om individuelle bedringsprosesser og forskningsbaserte terapiformer, inkludert hvordan bedringsprosesser påvirkes av kultur, kropp og bevegelsehar avansert kunnskap om brukermedvirkning både på individ-, gruppe- og systemnivå, for å kunne kartlegge og aktivere helseressurser hos pasienter, brukere, nettverk, pårørende, inklusive barn som pårørendehar avansert kunnskap om betydning av helsefremming og tidlig intervensjonhar inngående kunnskap om systematiske kliniske undersøkelsesmetoder og standardiserte vurderingsverktøy av relevans for yrkesutøvelsen.
+Kandidaten
+
+1. har avansert kunnskap om menneskers grunnleggende behov og opprettholdelse av livsprosesser knyttet til helse og sykdom i et livsløpsperspektiv, fra barn og unge til voksne og eldre
+2. har inngående kunnskap om forebygging, utvikling, behandling og mestring av psykiske problem og lidelser, og rusmiddel- og avhengighetsproblem og -lidelser, herunder kompetanse om forebygging av selvmord og overdose
+3. har inngående kunnskap om sykepleie til mennesker med akutte tilstander med fare for liv og helse
+4. har inngående kunnskap om medikamenters virkninger og bivirkninger hos mennesker med psykiske og somatiske helseutfordringer, rus- og avhengighetsproblemer og -lidelser og interaksjoner mellom disse
+5. har avansert kunnskap om medikamentfri behandling
+6. har inngående kunnskap om rusmidler, deres kroppslige og mentale virkninger, samt sosial forståelse av rus og avhengighet
+7. har inngående kunnskap om sammenhenger mellom krevende livserfaringer, deriblant traumer (inkludert historiske traumer), rasisme, vold, overgrep og omsorgssvikt, og tap av helse og leveår
+8. har avansert kunnskap om individuelle bedringsprosesser og forskningsbaserte terapiformer, inkludert hvordan bedringsprosesser påvirkes av kultur, kropp og bevegelse
+9. har avansert kunnskap om brukermedvirkning både på individ-, gruppe- og systemnivå, for å kunne kartlegge og aktivere helseressurser hos pasienter, brukere, nettverk, pårørende, inklusive barn som pårørende
+10. har avansert kunnskap om betydning av helsefremming og tidlig intervensjon
+11. har inngående kunnskap om systematiske kliniske undersøkelsesmetoder og standardiserte vurderingsverktøy av relevans for yrkesutøvelsen.
 
 ### § 5. Sykepleiefaglig kjernekompetanse innen psykisk helse, rus og avhengighet – Ferdigheter
 
-Kandidatenkan bruke relevante forskningsbaserte metoder for sykepleiefaglig observasjon, vurdering, beslutning og handling, på en omsorgsfull måte, i møte med mennesker som har utviklet eller står i fare for å utvikle psykiske problemer eller lidelser eller rus- og avhengighetsproblemer eller -lidelserkan analysere og forholde seg kritisk til kunnskap, og kan anvende aktuell kunnskap på nye områder innenfor fagområdetkan analysere og være åpen, nysgjerrig, empatisk og kreativ i møte med pasienter og brukere, herunder også barn og pårørende, og kan anvende sine kunnskaper på nye måterkan bruke relevante metoder og etisk varsomhet for å avdekke og intervenere i møte med mennesker som har opplevd vold, overgrep og traumerkan bruke relevante metoder for å avdekke, forhindre og redusere selvmordsfarekan bruke relevante metoder for å avdekke, forhindre og redusere overdosefarekan bidra til å øke pasienter og brukeres innsikt og forståelse av sammenhenger mellom kroppsopplevelser, tanker, følelser og håndtering av opplevde symptomkan bruke relevante metoder for helsefremming og tidlig intervensjonkan analysere og forholde seg kritisk til, samt anvende aktuell kunnskap innen brukermedvirkning både på individ-, gruppe- og systemnivåkan gjenkjenne akutte medisinske tilstander og iverksette førstehjelpstiltakkan anvende relevante forskningsbaserte intervensjoner og vurderingsverktøy og tilrettelegge for nyskapende terapiformer som inkluderer kultur og kroppsorientert tilnærming med utgangspunkt i den enkeltes ressurser, behov og ønsker, for å fremme livskvalitet og øker leveår.
+Kandidaten
+
+1. kan bruke relevante forskningsbaserte metoder for sykepleiefaglig observasjon, vurdering, beslutning og handling, på en omsorgsfull måte, i møte med mennesker som har utviklet eller står i fare for å utvikle psykiske problemer eller lidelser eller rus- og avhengighetsproblemer eller -lidelser
+2. kan analysere og forholde seg kritisk til kunnskap, og kan anvende aktuell kunnskap på nye områder innenfor fagområdet
+3. kan analysere og være åpen, nysgjerrig, empatisk og kreativ i møte med pasienter og brukere, herunder også barn og pårørende, og kan anvende sine kunnskaper på nye måter
+4. kan bruke relevante metoder og etisk varsomhet for å avdekke og intervenere i møte med mennesker som har opplevd vold, overgrep og traumer
+5. kan bruke relevante metoder for å avdekke, forhindre og redusere selvmordsfare
+6. kan bruke relevante metoder for å avdekke, forhindre og redusere overdosefare
+7. kan bidra til å øke pasienter og brukeres innsikt og forståelse av sammenhenger mellom kroppsopplevelser, tanker, følelser og håndtering av opplevde symptom
+8. kan bruke relevante metoder for helsefremming og tidlig intervensjon
+9. kan analysere og forholde seg kritisk til, samt anvende aktuell kunnskap innen brukermedvirkning både på individ-, gruppe- og systemnivå
+10. kan gjenkjenne akutte medisinske tilstander og iverksette førstehjelpstiltak
+11. kan anvende relevante forskningsbaserte intervensjoner og vurderingsverktøy og tilrettelegge for nyskapende terapiformer som inkluderer kultur og kroppsorientert tilnærming med utgangspunkt i den enkeltes ressurser, behov og ønsker, for å fremme livskvalitet og øker leveår.
 
 ### § 6. Sykepleiefaglig kjernekompetanse innen master i psykisk helse rus og avhengighet – Generell kompetanse
 
-Kandidatenhar avansert, personsentrert og helhetlig tilnærming i et livsløpsperspektiv i møte med barn, unge, voksne og eldrekan selvstendig anvende sine kunnskaper og ferdigheter, beslutte og gjennomføre sykepleietiltak, samt iverksette tverrfaglig samarbeid, aktivere nettverk og lokale tilbudkan anvende kunnskaper og ferdigheter for å beslutte og gjennomføre sykepleietiltak for å bidra til økt livskvalitet, styrke ressurser og mestring med mål om bedret helse og økt antall leveår hos pasienter og brukerekan analysere, kritisk vurdere og formidle aktuell forskning relevant for yrkesutøvelsenkan analysere eget kunnskapsbehov og anvende kunnskaper og ferdigheter for å utføre sykepleie til pasienter/brukere i tråd med medisinske, psykologiske, demografiske, sosiale, miljømessige og teknologiske endringerkan anvende kunnskaper om hvordan aktuell tilstand og behandling kan påvirke seksualitet og samliv og kan veilede pasienter/brukere og pårørende i forhold til dette.
+Kandidaten
+
+1. har avansert, personsentrert og helhetlig tilnærming i et livsløpsperspektiv i møte med barn, unge, voksne og eldre
+2. kan selvstendig anvende sine kunnskaper og ferdigheter, beslutte og gjennomføre sykepleietiltak, samt iverksette tverrfaglig samarbeid, aktivere nettverk og lokale tilbud
+3. kan anvende kunnskaper og ferdigheter for å beslutte og gjennomføre sykepleietiltak for å bidra til økt livskvalitet, styrke ressurser og mestring med mål om bedret helse og økt antall leveår hos pasienter og brukere
+4. kan analysere, kritisk vurdere og formidle aktuell forskning relevant for yrkesutøvelsen
+5. kan analysere eget kunnskapsbehov og anvende kunnskaper og ferdigheter for å utføre sykepleie til pasienter/brukere i tråd med medisinske, psykologiske, demografiske, sosiale, miljømessige og teknologiske endringer
+6. kan anvende kunnskaper om hvordan aktuell tilstand og behandling kan påvirke seksualitet og samliv og kan veilede pasienter/brukere og pårørende i forhold til dette.
 
 ## Kapittel 3. Læringsutbytte for kompetanseområdet etikk og lov
 
 ### § 7. Etikk og lov – Kunnskap
 
-Kandidatenhar avansert kunnskap om etikk, sentrale verdier og etiske problemstillinger som er relevant for yrkesutøvelsen, samt kunnskap om teorier og metoder for å identifisere og håndtere etiske problemstillinger i praksishar inngående kunnskap om hvordan menneskerettigheter, aktuelle politiske føringer, relevant lovverk og nasjonale faglige retningslinjer gir rammer for sykepleiefaglig yrkesutøvelsehar avansert kunnskap om likeverd, inkludering og ikke-diskriminering slik at sykepleieren bidrar til å sikre likeverdige tjenester for alle grupper i samfunnethar inngående kunnskap om hvordan forståelsen av psykisk helse og sykepleierens rolle har endret seg gjennom historienkan analysere faglige problemstillinger innen fagområdet med utgangspunkt i fagområdets historie, tradisjon, egenart og plass i samfunnet.
+Kandidaten
+
+1. har avansert kunnskap om etikk, sentrale verdier og etiske problemstillinger som er relevant for yrkesutøvelsen, samt kunnskap om teorier og metoder for å identifisere og håndtere etiske problemstillinger i praksis
+2. har inngående kunnskap om hvordan menneskerettigheter, aktuelle politiske føringer, relevant lovverk og nasjonale faglige retningslinjer gir rammer for sykepleiefaglig yrkesutøvelse
+3. har avansert kunnskap om likeverd, inkludering og ikke-diskriminering slik at sykepleieren bidrar til å sikre likeverdige tjenester for alle grupper i samfunnet
+4. har inngående kunnskap om hvordan forståelsen av psykisk helse og sykepleierens rolle har endret seg gjennom historien
+5. kan analysere faglige problemstillinger innen fagområdet med utgangspunkt i fagområdets historie, tradisjon, egenart og plass i samfunnet.
 
 ### § 8. Etikk og lov – Ferdigheter
 
-Kandidatenkan analysere og forholde seg kritisk til egne verdier, styrker og sårbarheter, egen væremåte, maktposisjon og rolle, samt opptre etisk og ansvarlig i kommunikasjon og samhandling med pasienter og brukere, familie og pårørende, nettverk og samarbeidspartnerekan analysere og reflektere over etiske problemstillinger, herunder vurderinger knyttet til samtykkekompetanse, beslutningskompetanse, bruk av tvang og varslingsplikt, kliniske prioriteringer, ivaretagelse av barn, pårørendesamarbeid og samvalg, og anvende fremgangsmåter for å håndtere disse på en systematisk måtekan identifisere, analysere og kommunisere juridiske problemstillinger og anvende rettskilder til å sikre rettigheter og likeverdige tjenester til mennesker med psykisk helse-, rus- og avhengighetsproblemer og deres pårørendekan analysere og reflektere kritisk over hjelpeapparatets rolle og organisering, herunder dets makt, myndighetsutøvelse og risiko for maktmisbruk.
+Kandidaten
+
+1. kan analysere og forholde seg kritisk til egne verdier, styrker og sårbarheter, egen væremåte, maktposisjon og rolle, samt opptre etisk og ansvarlig i kommunikasjon og samhandling med pasienter og brukere, familie og pårørende, nettverk og samarbeidspartnere
+2. kan analysere og reflektere over etiske problemstillinger, herunder vurderinger knyttet til samtykkekompetanse, beslutningskompetanse, bruk av tvang og varslingsplikt, kliniske prioriteringer, ivaretagelse av barn, pårørendesamarbeid og samvalg, og anvende fremgangsmåter for å håndtere disse på en systematisk måte
+3. kan identifisere, analysere og kommunisere juridiske problemstillinger og anvende rettskilder til å sikre rettigheter og likeverdige tjenester til mennesker med psykisk helse-, rus- og avhengighetsproblemer og deres pårørende
+4. kan analysere og reflektere kritisk over hjelpeapparatets rolle og organisering, herunder dets makt, myndighetsutøvelse og risiko for maktmisbruk.
 
 ### § 9. Etikk og lov – Generell kompetanse
 
-Kandidatenkan analysere og reflektere kritisk over sykepleierens arbeid med psykisk helse, rus og avhengighet i et historisk og etisk perspektivkan analysere og reflektere kritisk over etiske og juridiske problemstillinger i praksis, samt anvende fremgangsmåter for å håndtere disse på en systematisk og sensitiv måtekan analysere og anvende relevante etiske tilnærminger, teorier og prinsipper i yrkesutøvelsen, inklusive drøfte problemstillinger knyttet til valg og prioriteringer i daglig klinisk sykepleieutøvelsekan anvende kunnskaper og ferdigheter om etikk, lov og kommunikasjon for å styrke pasienters og brukeres opplevelse av og rett til autonomi og medvirkning, også i situasjoner som krever gjennomføring av inngripende tiltak som hemmer pasienters og brukeres mulighet til utfoldelse.
+Kandidaten
+
+1. kan analysere og reflektere kritisk over sykepleierens arbeid med psykisk helse, rus og avhengighet i et historisk og etisk perspektiv
+2. kan analysere og reflektere kritisk over etiske og juridiske problemstillinger i praksis, samt anvende fremgangsmåter for å håndtere disse på en systematisk og sensitiv måte
+3. kan analysere og anvende relevante etiske tilnærminger, teorier og prinsipper i yrkesutøvelsen, inklusive drøfte problemstillinger knyttet til valg og prioriteringer i daglig klinisk sykepleieutøvelse
+4. kan anvende kunnskaper og ferdigheter om etikk, lov og kommunikasjon for å styrke pasienters og brukeres opplevelse av og rett til autonomi og medvirkning, også i situasjoner som krever gjennomføring av inngripende tiltak som hemmer pasienters og brukeres mulighet til utfoldelse.
 
 ## Kapittel 4. Læringsutbytte for kompetanseområdet relasjonskompetanse, kommunikasjon og samhandling
 
 ### § 10. Relasjonskompetanse, kommunikasjon og samhandling – Kunnskap
 
-Kandidatenhar inngående kunnskap om relasjonens betydning i møte med mennesker med psykisk helse-, rusmiddel og/eller avhengighetsproblemer, deres familie og nettverkhar inngående forståelse av gjensidige påvirkninger i møte med pasienter og brukere og deres nettverk, samt innsikt i egne sårbarheter og styrkerhar inngående kunnskap om tverrsektorielt, tverrfaglig og profesjonsoverskridende samarbeid og tjenestekoordinering som er relevant for yrkesutøvelsenhar avansert kunnskap om brukermedvirkning, erfaringskompetanse og pasient- og brukerrettigheter på individ- og systemnivåhar inngående kunnskap om sentrale teorier knyttet til relasjon, kommunikasjon og samhandlinghar inngående kunnskap om betydningen av selvhjelp, likepersonsarbeid og frivillig arbeid.
+Kandidaten
+
+1. har inngående kunnskap om relasjonens betydning i møte med mennesker med psykisk helse-, rusmiddel og/eller avhengighetsproblemer, deres familie og nettverk
+2. har inngående forståelse av gjensidige påvirkninger i møte med pasienter og brukere og deres nettverk, samt innsikt i egne sårbarheter og styrker
+3. har inngående kunnskap om tverrsektorielt, tverrfaglig og profesjonsoverskridende samarbeid og tjenestekoordinering som er relevant for yrkesutøvelsen
+4. har avansert kunnskap om brukermedvirkning, erfaringskompetanse og pasient- og brukerrettigheter på individ- og systemnivå
+5. har inngående kunnskap om sentrale teorier knyttet til relasjon, kommunikasjon og samhandling
+6. har inngående kunnskap om betydningen av selvhjelp, likepersonsarbeid og frivillig arbeid.
 
 ### § 11. Relasjonskompetanse, kommunikasjon og samhandling – Ferdigheter
 
-Kandidatenkan kommunisere respektfullt med hensyn til andre menneskers integritet, verdighet og autonomi, og kan tilpasse kommunikasjon ut fra blant annet situasjon, alder, kjønn, språk og kulturelle verdierkan bidra til koordinering og kontinuitet på tvers av tjenester og sektorer og aktivere nettverkkan bruke relevante kommunikasjons- og samhandlingsmetoder i møte med pasient, bruker, pårørende, nettverk og i tverrfaglig samarbeidkan analysere, reflektere over og anvende avansert kunnskap om kommunikasjon i utfordrende samspillssitusjoner med mennesker med psykisk helse-, rusmiddel og/eller avhengighetsproblemer og deres familie og nettverkkan arbeide med varhet for pasientenes og brukernes ønsker og behov, herunder også arbeide kultursensitivt og kroppssensitivtkan bruke kunnskaper og metoder for å sikre brukermedvirkning og ha et integrert brukerperspektiv som forankring for eget arbeid og bidra til økt medborgerskapkan fremme selvhjelp, likepersonsarbeid og frivillig arbeidkan analysere og kritisk reflektere over hvordan egne holdninger, verdier og væremåter kan innvirke på arbeid med den det gjelder, deres familie og nettverk og samarbeidsparterkan anvende kunnskap om betydningen av samarbeid med pårørende og nettverk og hvordan kartlegge og aktivere helseressurser hos pasienter, brukere og pårørende, samt hvordan sette i gang tiltak som fremmer livskvalitet og opplevelse av tilhørighet og mening.
+Kandidaten
+
+1. kan kommunisere respektfullt med hensyn til andre menneskers integritet, verdighet og autonomi, og kan tilpasse kommunikasjon ut fra blant annet situasjon, alder, kjønn, språk og kulturelle verdier
+2. kan bidra til koordinering og kontinuitet på tvers av tjenester og sektorer og aktivere nettverk
+3. kan bruke relevante kommunikasjons- og samhandlingsmetoder i møte med pasient, bruker, pårørende, nettverk og i tverrfaglig samarbeid
+4. kan analysere, reflektere over og anvende avansert kunnskap om kommunikasjon i utfordrende samspillssitusjoner med mennesker med psykisk helse-, rusmiddel og/eller avhengighetsproblemer og deres familie og nettverk
+5. kan arbeide med varhet for pasientenes og brukernes ønsker og behov, herunder også arbeide kultursensitivt og kroppssensitivt
+6. kan bruke kunnskaper og metoder for å sikre brukermedvirkning og ha et integrert brukerperspektiv som forankring for eget arbeid og bidra til økt medborgerskap
+7. kan fremme selvhjelp, likepersonsarbeid og frivillig arbeid
+8. kan analysere og kritisk reflektere over hvordan egne holdninger, verdier og væremåter kan innvirke på arbeid med den det gjelder, deres familie og nettverk og samarbeidsparter
+9. kan anvende kunnskap om betydningen av samarbeid med pårørende og nettverk og hvordan kartlegge og aktivere helseressurser hos pasienter, brukere og pårørende, samt hvordan sette i gang tiltak som fremmer livskvalitet og opplevelse av tilhørighet og mening.
 
 ### § 12. Relasjonskompetanse, kommunikasjon og samhandling – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til selvstendig arbeid med bred involvering av pasienter og brukere, pårørende og nettverk på individ- og systemnivåkan anvende relasjonskompetanse og profesjonelt mot og kjenner sine profesjonelle grenser samt ansvar, og kan bidra til at krevende livserfaringer som vold, overgrep, selvmordsfare og avhengighet gis rom til å kunne erkjennes, deles og bearbeides.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til selvstendig arbeid med bred involvering av pasienter og brukere, pårørende og nettverk på individ- og systemnivå
+2. kan anvende relasjonskompetanse og profesjonelt mot og kjenner sine profesjonelle grenser samt ansvar, og kan bidra til at krevende livserfaringer som vold, overgrep, selvmordsfare og avhengighet gis rom til å kunne erkjennes, deles og bearbeides.
 
 ## Kapittel 5. Læringsutbytte for kompetanseområdet faglig ledelse, helsepedagogikk og innovasjon
 
 ### § 13. Faglig ledelse, helsepedagogikk og innovasjon – Kunnskap
 
-Kandidatenhar inngående kunnskap om organisering og tjenesteutvikling, nasjonale faglige retningslinjer, politiske føringer og administrative virkemidler som legger premisser for arbeidsfeltet psykisk helse, rus og avhengighethar avansert kunnskap om pasientsikkerhet, faglig ledelse og veiledning i arbeid med tjenesteforbedring og innovasjonsprosesser relevant for yrkesutøvelsenhar avansert kunnskap om helsepedagogikk, inklusive kartlegging og aktivering av helseressurser hos pasienter, brukere og pårørende, samt inngående kunnskap om effektive mestringsstøttende tiltak som fremmer livskvalitet og bedre helsehar inngående kunnskap om velferdsteknologiske løsninger relevant for yrkesutøvelsenhar inngående kunnskap om systematisk arbeid med kvalitets- og tjenesteforbedring, og kan bruke relevante metoder for å vurdere behov for forbedring av tjenester, herunder gjennomføre forbedringsarbeid med utgangspunkt i pasient-, bruker- og erfaringskunnskap.
+Kandidaten
+
+1. har inngående kunnskap om organisering og tjenesteutvikling, nasjonale faglige retningslinjer, politiske føringer og administrative virkemidler som legger premisser for arbeidsfeltet psykisk helse, rus og avhengighet
+2. har avansert kunnskap om pasientsikkerhet, faglig ledelse og veiledning i arbeid med tjenesteforbedring og innovasjonsprosesser relevant for yrkesutøvelsen
+3. har avansert kunnskap om helsepedagogikk, inklusive kartlegging og aktivering av helseressurser hos pasienter, brukere og pårørende, samt inngående kunnskap om effektive mestringsstøttende tiltak som fremmer livskvalitet og bedre helse
+4. har inngående kunnskap om velferdsteknologiske løsninger relevant for yrkesutøvelsen
+5. har inngående kunnskap om systematisk arbeid med kvalitets- og tjenesteforbedring, og kan bruke relevante metoder for å vurdere behov for forbedring av tjenester, herunder gjennomføre forbedringsarbeid med utgangspunkt i pasient-, bruker- og erfaringskunnskap.
 
 ### § 14. Faglig ledelse, helsepedagogikk og innovasjon – Ferdigheter
 
-Kandidatenkan bruke relevante metoder for å bidra til undervisning og veiledning, både i komplekse og sammensatte situasjoner, samt prosessveiledning med fokus på ivaretakelse av hjelpernekan videreformidle kunnskap, samt anvende relevant kommunikasjons- og veiledningskompetanse i møte med kollega, pasient og bruker, pårørende og nettverkkan bruke kunnskapsbaserte og helsepedagogiske metoder for å undervise og veilede pasienter, brukere, pårørende og deres nettverkkan bruke relevante metoder for tjenesteutvikling, innovasjon og faglig lederskapkan analysere, kritisk vurdere, anvende, samt bidra til utvikling og implementering av, velferdsteknologiske løsninger for å understøtte pasienter, brukeres og pårørendes ressurser, mestringsmuligheter og medvirkningkan bruke sine kunnskaper og ferdigheter slik at mennesker med psykiske, rus- eller avhengighetsproblemer, deres familier og nettverk opplever seg møtt og forstått, og at deres ressurser og kompetanse blir anerkjent i felles samhandling for å fremme bedring, gode hverdagsliv og sosial deltakelse.
+Kandidaten
+
+1. kan bruke relevante metoder for å bidra til undervisning og veiledning, både i komplekse og sammensatte situasjoner, samt prosessveiledning med fokus på ivaretakelse av hjelperne
+2. kan videreformidle kunnskap, samt anvende relevant kommunikasjons- og veiledningskompetanse i møte med kollega, pasient og bruker, pårørende og nettverk
+3. kan bruke kunnskapsbaserte og helsepedagogiske metoder for å undervise og veilede pasienter, brukere, pårørende og deres nettverk
+4. kan bruke relevante metoder for tjenesteutvikling, innovasjon og faglig lederskap
+5. kan analysere, kritisk vurdere, anvende, samt bidra til utvikling og implementering av, velferdsteknologiske løsninger for å understøtte pasienter, brukeres og pårørendes ressurser, mestringsmuligheter og medvirkning
+6. kan bruke sine kunnskaper og ferdigheter slik at mennesker med psykiske, rus- eller avhengighetsproblemer, deres familier og nettverk opplever seg møtt og forstått, og at deres ressurser og kompetanse blir anerkjent i felles samhandling for å fremme bedring, gode hverdagsliv og sosial deltakelse.
 
 ### § 15. Faglig ledelse, helsepedagogikk og innovasjon – Generell kompetanse
 
-Kandidatenkan anvende sine kunnskaper og ferdigheter til å lede og koordinere tjenester i tverrfaglig team og lede samhandling på tvers av grupper, sektorer, tjenester og instanser og ha god forståelse for grensene for egen kompetanse samt innsikt i andre profesjoners kompetanse og vite når disse bør involvereskan anvende kunnskaper og ferdigheter for å gjennomføre og begrunne faglig forsvarlige prioriteringer av helsehjelp i lys av nytte, tilgjengelige ressurser og alvorlighetkan bidra til nytenkning og i innovasjonsprosesser i samarbeid med pasient og bruker, nettverk og samarbeidspartnere, og kan videreformidle ny kunnskapkan anvende kunnskaper og ferdigheter for å initiere og delta i innovasjons-, fagutviklings- og forskningsarbeid for å forbedre tjenestetilbudet og aktivt legge til rette for erfaringskompetanse og brukerinvolveringkan anvende kunnskaper og ferdigheter på en selvstendig måte i undervisning og veiledning av pasient, bruker og pårørende, herunder også barn, tilpasset den enkeltes helsekompetanse, for å fremme mestring, funksjon og livskvalitet.
+Kandidaten
+
+1. kan anvende sine kunnskaper og ferdigheter til å lede og koordinere tjenester i tverrfaglig team og lede samhandling på tvers av grupper, sektorer, tjenester og instanser og ha god forståelse for grensene for egen kompetanse samt innsikt i andre profesjoners kompetanse og vite når disse bør involveres
+2. kan anvende kunnskaper og ferdigheter for å gjennomføre og begrunne faglig forsvarlige prioriteringer av helsehjelp i lys av nytte, tilgjengelige ressurser og alvorlighet
+3. kan bidra til nytenkning og i innovasjonsprosesser i samarbeid med pasient og bruker, nettverk og samarbeidspartnere, og kan videreformidle ny kunnskap
+4. kan anvende kunnskaper og ferdigheter for å initiere og delta i innovasjons-, fagutviklings- og forskningsarbeid for å forbedre tjenestetilbudet og aktivt legge til rette for erfaringskompetanse og brukerinvolvering
+5. kan anvende kunnskaper og ferdigheter på en selvstendig måte i undervisning og veiledning av pasient, bruker og pårørende, herunder også barn, tilpasset den enkeltes helsekompetanse, for å fremme mestring, funksjon og livskvalitet.
 
 ## Kapittel 6. Læringsutbytte for kompetanseområdet vitenskapsteori, forskningsmetode, formidling og selvstendig forskningsarbeid
 
 ### § 16. Vitenskapsteori, forskningsmetode, formidling og selvstendig forskningsarbeid – Kunnskap
 
-Kandidatenhar inngående kunnskap om relevante teoretiske og vitenskapsteoretiske perspektiver, forskningsmetoder og forskningsprosesser generelt og relatert til feltet psykisk helse, rus og avhengighet spesielthar inngående kunnskap om kunnskapsbasert praksis og klinisk forskning som inkluderer brukerkunnskap, forskningskunnskap og erfaringsbasert kunnskaphar inngående kunnskap om nasjonal og internasjonal forskning innenfor et valgt tema eller knyttet til gjennomføringen av et selvstendig arbeid.
+Kandidaten
+
+1. har inngående kunnskap om relevante teoretiske og vitenskapsteoretiske perspektiver, forskningsmetoder og forskningsprosesser generelt og relatert til feltet psykisk helse, rus og avhengighet spesielt
+2. har inngående kunnskap om kunnskapsbasert praksis og klinisk forskning som inkluderer brukerkunnskap, forskningskunnskap og erfaringsbasert kunnskap
+3. har inngående kunnskap om nasjonal og internasjonal forskning innenfor et valgt tema eller knyttet til gjennomføringen av et selvstendig arbeid.
 
 ### § 17. Vitenskapsteori, forskningsmetode, formidling og selvstendig forskningsarbeid – Ferdigheter
 
-Kandidatenkan bruke vitenskapelige kunnskapskilder i valg av relevante metodiske design, teoretiske perspektiver og i selvstendig forskningsarbeidkan bruke kunnskaper og ferdigheter på nye måter og gjennomføre selvstendige forskningsprosjektkan analysere og forholde seg kritisk til aktuell forskning, vurdere kildene og bidra til gjennomføring av og anvendelse av forskning i praktisk virkekan bruke relevante teoretiske og vitenskapelige perspektiver, hensiktsmessig og gyldig design, datainnsamlingsmetoder og analyseverktøy, samt gjennomføre relevant kvalitetskontroll for analyse og tolkning av data innenfor det valgte temakan gjennomføre et selvstendig, avgrenset forsknings- eller utviklingsprosjekt under veiledning og i tråd med gjeldende forskningsetiske normer.
+Kandidaten
+
+1. kan bruke vitenskapelige kunnskapskilder i valg av relevante metodiske design, teoretiske perspektiver og i selvstendig forskningsarbeid
+2. kan bruke kunnskaper og ferdigheter på nye måter og gjennomføre selvstendige forskningsprosjekt
+3. kan analysere og forholde seg kritisk til aktuell forskning, vurdere kildene og bidra til gjennomføring av og anvendelse av forskning i praktisk virke
+4. kan bruke relevante teoretiske og vitenskapelige perspektiver, hensiktsmessig og gyldig design, datainnsamlingsmetoder og analyseverktøy, samt gjennomføre relevant kvalitetskontroll for analyse og tolkning av data innenfor det valgte tema
+5. kan gjennomføre et selvstendig, avgrenset forsknings- eller utviklingsprosjekt under veiledning og i tråd med gjeldende forskningsetiske normer.
 
 ### § 18. Vitenskapsteori, forskningsmetode, formidling og selvstendig forskningsarbeid – Generell kompetanse
 
-Kandidatenkan kommunisere, vurdere og analysere forskningsetiske problemstillinger i utvikling og bruk av kunnskap og forskning relatert til fagområdetkan gjennomføre selvstendig forskningsarbeid og formidle omfattende selvstendig arbeid og behersker fagområdets uttrykksformerkan formidle eget fag og forskning i møte med befolkning, samarbeidspartnere og beslutningstakere lokalt, nasjonalt og internasjonaltkan dokumentere innsikt i nasjonal og internasjonal forskning innenfor det valgte temaet og kan relatere egne funn til dette.
+Kandidaten
+
+1. kan kommunisere, vurdere og analysere forskningsetiske problemstillinger i utvikling og bruk av kunnskap og forskning relatert til fagområdet
+2. kan gjennomføre selvstendig forskningsarbeid og formidle omfattende selvstendig arbeid og behersker fagområdets uttrykksformer
+3. kan formidle eget fag og forskning i møte med befolkning, samarbeidspartnere og beslutningstakere lokalt, nasjonalt og internasjonalt
+4. kan dokumentere innsikt i nasjonal og internasjonal forskning innenfor det valgte temaet og kan relatere egne funn til dette.
 
 ## Kapittel 7. Studiets oppbygning og praksisstudier
 

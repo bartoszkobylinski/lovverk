@@ -44,7 +44,10 @@ Driver den næringsdrivende både rørledningstransport og petroleumsutvinning e
 
 ## § 5. Fellesregnskap og betingelser for bruk av rapporter som bilag.
 
-Når virksomheten drives av en gruppe skattytere i fellesskap, og en operatør helt eller delvis fører regnskap på vegne av gruppen (fellesregnskap eller felleskonti), kan de rapporter som utarbeides på grunnlag av fellesregnskapet eller felleskontiene nyttes som bilag for den enkelte deltakers regnskap når følgende forutsetninger er oppfylt:Fellesregnskapet eller det regnskap felleskontiene inngår i, må være ført i samsvar med de regler som gjelder for de enkelte deltakere. Fellesregnskapet må kunne gjøres tilgjengelig på operatørens forretningssted ved kontroll hos deltakerne.Rapportene må inneholde de spesifikasjoner som er nødvendige for at deltakerne skal kunne føre sine regnskaper under hensyntagen til de til enhver tid gjeldende regnskaps-, skatte- og avgiftsregler. Rapportene må videre være utarbeidet på en slik måte at det er en klar sammenheng mellom dem og det underliggende fellesregnskap (felleskonti).
+Når virksomheten drives av en gruppe skattytere i fellesskap, og en operatør helt eller delvis fører regnskap på vegne av gruppen (fellesregnskap eller felleskonti), kan de rapporter som utarbeides på grunnlag av fellesregnskapet eller felleskontiene nyttes som bilag for den enkelte deltakers regnskap når følgende forutsetninger er oppfylt:
+
+1. Fellesregnskapet eller det regnskap felleskontiene inngår i, må være ført i samsvar med de regler som gjelder for de enkelte deltakere. Fellesregnskapet må kunne gjøres tilgjengelig på operatørens forretningssted ved kontroll hos deltakerne.
+2. Rapportene må inneholde de spesifikasjoner som er nødvendige for at deltakerne skal kunne føre sine regnskaper under hensyntagen til de til enhver tid gjeldende regnskaps-, skatte- og avgiftsregler. Rapportene må videre være utarbeidet på en slik måte at det er en klar sammenheng mellom dem og det underliggende fellesregnskap (felleskonti).
 
 ## § 6. (Opphevet ved [forskrift 16 april 1999 nr. 390](forskrift/1999-04-16-390), i kraft 1 juli 1999, jf [forskrift 30 juni 1999 nr. 779](forskrift/1999-06-30-779)).
 
@@ -52,7 +55,10 @@ Når virksomheten drives av en gruppe skattytere i fellesskap, og en operatør h
 
 Regnskapene skal innrettes slik at bruttoinntekt og verdi av lagerbeholdninger, jf. § 6 i [forskrift av 17. desember 1976 nr. 7](forskrift/1976-12-17-7) om bruk av normpris ved ligningsbehandlingen, som til bruk ved ligningen skal ansettes etter normpris, kan beregnes.
 
-Følgende skal fremgå av det årsregnskap som vedlegges selvangivelsen:Petroleum som er solgt og/eller uttatt til egen bruk.Beholdning av petroleum som har passert leveringsstedet uten å være solgt eller uttatt til egen bruk.
+Følgende skal fremgå av det årsregnskap som vedlegges selvangivelsen:
+
+1. Petroleum som er solgt og/eller uttatt til egen bruk.
+2. Beholdning av petroleum som har passert leveringsstedet uten å være solgt eller uttatt til egen bruk.
 
 > Endret ved [forskrift 16 april 1999 nr. 390](forskrift/1999-04-16-390) (i kraft 1 juli 1999, jf [forskrift 30 juni 1999 nr. 779](forskrift/1999-06-30-779)).
 
@@ -64,7 +70,15 @@ Kostnader som i henhold til § 5 i forskrifter om bruk av normpris ved ligningsb
 
 ## § 9. Opplysninger om driftsmidler.
 
-For hver avskrivningsenhet (driftsmiddel, gruppe av driftsmidler eller andre likestilte aktiverte utgifter som avskrives som en enhet) skal følgende opplysninger fremgå:hva avskrivningsenheten består av,avskrivningsgrunnlag (kostpris) spesifisert på driftsmidler,når påbegynt avskrevet,avskrivninger og avskrivningsprosent,nedskrivninger,ekstraordinære skattemessige betingede av- og nedskrivninger,hvis avskrivningsenheten er et fellesanlegg, hvilke produksjonsanlegg det betjener.
+For hver avskrivningsenhet (driftsmiddel, gruppe av driftsmidler eller andre likestilte aktiverte utgifter som avskrives som en enhet) skal følgende opplysninger fremgå:
+
+1. hva avskrivningsenheten består av,
+2. avskrivningsgrunnlag (kostpris) spesifisert på driftsmidler,
+3. når påbegynt avskrevet,
+4. avskrivninger og avskrivningsprosent,
+5. nedskrivninger,
+6. ekstraordinære skattemessige betingede av- og nedskrivninger,
+7. hvis avskrivningsenheten er et fellesanlegg, hvilke produksjonsanlegg det betjener.
 
 > Endret ved [forskrift 16 april 1999 nr. 390](forskrift/1999-04-16-390) (i kraft 1 juli 1999, jf [forskrift 30 juni 1999 nr. 779](forskrift/1999-06-30-779)).
 
@@ -72,7 +86,22 @@ For hver avskrivningsenhet (driftsmiddel, gruppe av driftsmidler eller andre lik
 
 Det skal føres egen paginert protokoll over de driftsmidler og likestilte aktiverte utgifter som inngår i grunnlaget for beregning av friinntekt.
 
-Protokollen skal føres slik at det for hvert driftsmiddel, gruppe av driftsmidler eller likestilte aktiverte utgifter fremgår:kostpris spesifisert på driftsmidler,anskaffelses- eller ferdigstillingstidspunkt,når påbegynt avskrevet,hvis driftsmidler er solgt, utrangert eller overført til annen virksomhet, må for hvert driftsmiddel fremgå:tidspunkt for salg, utrangering eller overførsel,mottatt salgssum,hvis driftsmidler er tilintetgjort eller skadet, må for hvert driftsmiddel fremgå:tidspunktet for tilintetgjørelse eller skade,mottatt erstatningsbeløp,tidspunkt for mottakelse av erstatningsbeløp,beløp nyttes til utbedring av skader,med hvilket beløp driftsmidlet, gruppen av driftsmidler eller likestilte aktiverte utgifter teller med i grunnlaget for friinntekt.
+Protokollen skal føres slik at det for hvert driftsmiddel, gruppe av driftsmidler eller likestilte aktiverte utgifter fremgår:
+
+1. kostpris spesifisert på driftsmidler,
+2. anskaffelses- eller ferdigstillingstidspunkt,
+3. når påbegynt avskrevet,
+4. hvis driftsmidler er solgt, utrangert eller overført til annen virksomhet, må for hvert driftsmiddel fremgå:
+
+   - tidspunkt for salg, utrangering eller overførsel,
+   - mottatt salgssum,
+5. hvis driftsmidler er tilintetgjort eller skadet, må for hvert driftsmiddel fremgå:
+
+   - tidspunktet for tilintetgjørelse eller skade,
+   - mottatt erstatningsbeløp,
+   - tidspunkt for mottakelse av erstatningsbeløp,
+   - beløp nyttes til utbedring av skader,
+6. med hvilket beløp driftsmidlet, gruppen av driftsmidler eller likestilte aktiverte utgifter teller med i grunnlaget for friinntekt.
 
 I den utstrekning postene i foregående ledd også føres i det ordinære regnskap, skal det være en henvisning til dette.
 

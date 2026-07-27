@@ -15,7 +15,7 @@ xml_hash: "4804c377abdd112f94d2096c409af44b65f4908c480e99a25c015ed1a37039a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,13 +32,25 @@ Kongen avgjør hvorvidt et vedtak av Sikkerhetsrådet er bindende.
 
 Kongen kan gi forskrift med nødvendige bestemmelser for at Norge kan gjennomføre sanksjoner eller restriktive tiltak som er vedtatt i mellomstatlige organisasjoner, eller som ellers har bred internasjonal oppslutning, og som har som formål å opprettholde fred og sikkerhet eller sikre respekt for demokrati og rettsstat, menneskerettigheter eller folkeretten for øvrig.
 
-Forskrifter etter første ledd kan gjeldeforbud mot eller restriksjoner på handel, tjenester og økonomiske eller finansielle transaksjonerforbud mot eller restriksjoner på vitenskapelig, teknologisk og kulturelt samarbeidøkonomiske sanksjoner rettet mot fysiske eller juridiske personerreiserestriksjonerandre tiltak som har som formål å opprettholde fred og sikkerhet eller sikre respekt for demokrati og rettsstat, menneskerettigheter eller folkeretten for øvrig.
+Forskrifter etter første ledd kan gjelde
+
+1. forbud mot eller restriksjoner på handel, tjenester og økonomiske eller finansielle transaksjoner
+2. forbud mot eller restriksjoner på vitenskapelig, teknologisk og kulturelt samarbeid
+3. økonomiske sanksjoner rettet mot fysiske eller juridiske personer
+4. reiserestriksjoner
+5. andre tiltak som har som formål å opprettholde fred og sikkerhet eller sikre respekt for demokrati og rettsstat, menneskerettigheter eller folkeretten for øvrig.
 
 Forskrifter etter første ledd gjelder med de begrensninger som følger av folkeretten eller av avtale med fremmed stat.
 
 ## § 3. Lovens virkeområde
 
-Loven gjelderpå norsk territorium, inkludert norsk luftromom bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjonfor alle norske statsborgere og personer med bosted i Norgefor alle foretak registrert i Foretaksregisteretfor alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+Loven gjelder
+
+1. på norsk territorium, inkludert norsk luftrom
+2. om bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjon
+3. for alle norske statsborgere og personer med bosted i Norge
+4. for alle foretak registrert i Foretaksregisteret
+5. for alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
 
 Loven gjelder for Svalbard og Jan Mayen. Kongen kan gi forskrift om lovens anvendelse for de norske bilandene.
 
@@ -56,7 +68,13 @@ Den som uaktsomt overtrer bestemmelser som nevnt i første ledd, straffes med b�
 
 ## § 6. Rett til å anmode om at en listeføring blir endret eller opphevet
 
-En fysisk eller juridisk person som er gjenstand for sanksjoner eller restriktive tiltak som er gjennomført i norsk rett, kan anmode Utenriksdepartementet om å endre eller oppheve listeføringen av vedkommende, dersom vedkommende mener seg uriktig listeført oger norsk statsborgerhar bosted i Norgeer et foretak registrert i Norgeer blitt listeført på initiativ fra Norge, ellerNorges gjennomføring av internasjonale sanksjoner medfører reelle inngrep i vedkommendes rettigheter.
+En fysisk eller juridisk person som er gjenstand for sanksjoner eller restriktive tiltak som er gjennomført i norsk rett, kan anmode Utenriksdepartementet om å endre eller oppheve listeføringen av vedkommende, dersom vedkommende mener seg uriktig listeført og
+
+1. er norsk statsborger
+2. har bosted i Norge
+3. er et foretak registrert i Norge
+4. er blitt listeført på initiativ fra Norge, eller
+5. Norges gjennomføring av internasjonale sanksjoner medfører reelle inngrep i vedkommendes rettigheter.
 
 I den grad den listeførte er gjenstand for folkerettslig bindende FN-sanksjoner, kan anmodningen bare gå ut på at Utenriksdepartementet etter beste evne skal sikre at den listeførte fjernes fra den relevante FN-listen av FNs sikkerhetsråd eller av et av FNs sikkerhetsråds underordnede organer.
 
@@ -92,7 +110,14 @@ Kongen kan gi forskrift om adgangen til å dele opplysninger med andre land, Den
 
 Loven gjelder fra den tiden Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
-Fra den tiden loven trer i kraft, oppheves følgende lover:[lov 7. juni 1968 nr. 4 til gjennomføring av bindende vedtak av De Forente Nasjoners Sikkerhetsråd](lov/1968-06-07-4)[lov 27. april 2001 nr. 14 om iverksetjing av internasjonale, ikkje-militære tiltak i form av avbrot eller avgrensing av økonomisk eller anna samkvem med tredjestatar eller rørsler](lov/2001-04-27-14)[lov 27. juni 2003 nr. 58 om særlige tiltak mot Republikken Zimbabwe](lov/2003-06-27-58)[lov 6. juni 1980 nr. 18 om gjennomføring av sanksjoner mot Iran](lov/1980-06-06-18)[lov 25. juni 1999 nr. 43 om særlige tiltak mot Den føderale republikken Jugoslavia](lov/1999-06-25-43) (FRJ)[lov 16. april 1937 om fullmakt for Kongen, eller den han gjev fullmakt, til å forby at norske skip blir nytta til å føra folk som eslar seg i krig, våpen, loty, fly eller partar derav til framandland](lov/1937-04-16).
+Fra den tiden loven trer i kraft, oppheves følgende lover:
+
+1. [lov 7. juni 1968 nr. 4 til gjennomføring av bindende vedtak av De Forente Nasjoners Sikkerhetsråd](lov/1968-06-07-4)
+2. [lov 27. april 2001 nr. 14 om iverksetjing av internasjonale, ikkje-militære tiltak i form av avbrot eller avgrensing av økonomisk eller anna samkvem med tredjestatar eller rørsler](lov/2001-04-27-14)
+3. [lov 27. juni 2003 nr. 58 om særlige tiltak mot Republikken Zimbabwe](lov/2003-06-27-58)
+4. [lov 6. juni 1980 nr. 18 om gjennomføring av sanksjoner mot Iran](lov/1980-06-06-18)
+5. [lov 25. juni 1999 nr. 43 om særlige tiltak mot Den føderale republikken Jugoslavia](lov/1999-06-25-43) (FRJ)
+6. [lov 16. april 1937 om fullmakt for Kongen, eller den han gjev fullmakt, til å forby at norske skip blir nytta til å føra folk som eslar seg i krig, våpen, loty, fly eller partar derav til framandland](lov/1937-04-16).
 
 Forskrifter gitt i medhold av lovene nevnt i andre ledd bokstav a, b og c gjelder også etter at loven her har trådt i kraft.
 

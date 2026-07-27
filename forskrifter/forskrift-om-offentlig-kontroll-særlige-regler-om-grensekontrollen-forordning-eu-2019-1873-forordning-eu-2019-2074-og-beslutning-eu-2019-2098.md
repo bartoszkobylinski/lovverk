@@ -17,7 +17,7 @@ xml_hash: "3925fcda47a73458e0b6c754750f7b77b153d7fbd5fe94ef7a7a24457b56fb8f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,19 @@ EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11bt, kap. II nr. 31qt og vedlegg
 
 Frem til 21. april 2021 gjelder følgende overgangsregler for gjeninnførsel av myndighetsavviste forsendelser med animalske produkter til konsum.
 
-Kompetent myndighet skal ved godkjenning av gjeninnførsel av forsendelser med animalske produkter, som angitt i direktiv [2002/99/EF](eu/32002l0099) art. 2(4), etterleve følgende bestemmelser:forsendelsen skal følges av originalt sertifikat eller dokument utstedt av kompetent myndighet i medlemsstaten for eksport, eller tilsvarende elektronisk dokument sendt i art. 131 i forordning [(EU) 2017/625](eu/32017r0625*) (IMSOC) og gitt i samsvar med forordning [(EU) 2019/1715](eu/32019r1715*) eller en bekreftet kopi av dokumentet,forsendelsen skal følges av en erklæring fra kompetent myndighet på bestemmelsesstedet i Unionen som bekrefter at man ønsker å ta imot forsendelsen og angir stedet for mottak ved forsendelsens retur til Unionen,forsendelsen skal følges av et dokument som bekrefter årsaken for avvisningen av staten utenfor EØS-området. Hvis mulig skal stedet og dato for lossing, lagring og omlasting i staten utenfor EØS-området angis i dokumentet. I tillegg skal følgende informasjon gis:der konteinere og pakker er fortsatt forseglet med den originale forseglingen skal forsendelsen følges av en erklæring av ansvarlig operatør som bekrefter at transporten av forsendelsen har vært gjennomført under forhold i overensstemmelse med type produkt av animalsk opprinnelse og at innholdet i forsendelsen ikke er endret under transporten, elleren offisiell erklæring fra kompetent myndighet eller annen offentlig myndighet i staten utenfor EØS-området som bekrefter at vilkårene i bokstav d) er oppfylt,der forsendelser med animalske produkter har vært losset i stater utenfor EØS-området, skal kompetent myndighet eller annen offentlig myndighet i staten utenfor EØS-området ha attestert følgende:at produktene av animalsk opprinnelse ikke har vært håndtert på noen annen måte enn ved lossing, lagring og lasting i staten utenfor EØS-området,at tiltak var gjennomført for å unngå kontaminering av produktene av animalsk opprinnelse med agens som kan forårsake smittsomme dyresykdommer, som listet i vedlegg I til direktiv [2002/99/EF](eu/32002l0099), i forbindelse med lossing, lagring og lasting i staten utenfor EØS-området,at stedet for lossing, lagring og lasting i staten utenfor EØS-området ikke var utsatt for restriksjoner knyttet til forflytning på grunn av smittsomme dyresykdommer listet i vedlegg I til direktiv [2002/99/EF i](eu/32002l0099) forbindelse med lossing, lagring og lasting i staten utenfor EØS-området.
+Kompetent myndighet skal ved godkjenning av gjeninnførsel av forsendelser med animalske produkter, som angitt i direktiv [2002/99/EF](eu/32002l0099) art. 2(4), etterleve følgende bestemmelser:
+
+1. forsendelsen skal følges av originalt sertifikat eller dokument utstedt av kompetent myndighet i medlemsstaten for eksport, eller tilsvarende elektronisk dokument sendt i art. 131 i forordning [(EU) 2017/625](eu/32017r0625*) (IMSOC) og gitt i samsvar med forordning [(EU) 2019/1715](eu/32019r1715*) eller en bekreftet kopi av dokumentet,
+2. forsendelsen skal følges av en erklæring fra kompetent myndighet på bestemmelsesstedet i Unionen som bekrefter at man ønsker å ta imot forsendelsen og angir stedet for mottak ved forsendelsens retur til Unionen,
+3. forsendelsen skal følges av et dokument som bekrefter årsaken for avvisningen av staten utenfor EØS-området. Hvis mulig skal stedet og dato for lossing, lagring og omlasting i staten utenfor EØS-området angis i dokumentet. I tillegg skal følgende informasjon gis:
+
+   1. der konteinere og pakker er fortsatt forseglet med den originale forseglingen skal forsendelsen følges av en erklæring av ansvarlig operatør som bekrefter at transporten av forsendelsen har vært gjennomført under forhold i overensstemmelse med type produkt av animalsk opprinnelse og at innholdet i forsendelsen ikke er endret under transporten, eller
+   2. en offisiell erklæring fra kompetent myndighet eller annen offentlig myndighet i staten utenfor EØS-området som bekrefter at vilkårene i bokstav d) er oppfylt,
+4. der forsendelser med animalske produkter har vært losset i stater utenfor EØS-området, skal kompetent myndighet eller annen offentlig myndighet i staten utenfor EØS-området ha attestert følgende:
+
+   1. at produktene av animalsk opprinnelse ikke har vært håndtert på noen annen måte enn ved lossing, lagring og lasting i staten utenfor EØS-området,
+   2. at tiltak var gjennomført for å unngå kontaminering av produktene av animalsk opprinnelse med agens som kan forårsake smittsomme dyresykdommer, som listet i vedlegg I til direktiv [2002/99/EF](eu/32002l0099), i forbindelse med lossing, lagring og lasting i staten utenfor EØS-området,
+   3. at stedet for lossing, lagring og lasting i staten utenfor EØS-området ikke var utsatt for restriksjoner knyttet til forflytning på grunn av smittsomme dyresykdommer listet i vedlegg I til direktiv [2002/99/EF i](eu/32002l0099) forbindelse med lossing, lagring og lasting i staten utenfor EØS-området.
 
 I situasjoner der dokumentene i annet ledd bokstav a) ikke er utstedt av kompetent myndighet i medlemsstaten for eksport, kan det unntas fra kravene hvis forsendelsen kan identifiseres gjennom andre dokumenter som presenteres av operatøren som er ansvarlig for forsendelsen.
 
@@ -116,13 +128,22 @@ I denne forordning menes med «opprinnelsesvirksomhet» en opprinnelsesvirksomhe
 
 1\. Når de vedkommende myndighetene underretter Kommisjonen og de andre medlemsstatene gjennom IMSOC om sin beslutning i samsvar med artikkel 65 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*), skal de angi opprinnelsesvirksomheten, varekategori, herunder betegnelse og kode i den kombinerte nomenklaturen angitt i vedlegg I til rådsforordning [(EØF) nr. 2658/87](eu/31987r2658*)3, og den overtredelsen som nødvendiggjør en samordnet gjennomføring av forsterket offentlig kontroll.
 
-2\. Etter å ha mottatt meldingen nevnt i nr. 1 skal Kommisjonen vurdere om følgende vilkår er oppfylt:Meldingen bygger på mistanke om bedrageri eller villedende praksis eller på en potensielt alvorlig eller gjentatt overtredelse av reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*).Meldingen gjelder et tiltak eller en unnlatelse som opprinnelsesvirksomheten for den berørte forsendelsen er ansvarlig for.Den aktuelle forsendelsen er ikke allerede omfattet av samordnet gjennomføring av forsterket offentlig kontroll i samsvar med denne forordning.Den aktuelle forsendelsen er ikke omfattet av beskyttelsestiltak vedtatt i samsvar med artikkel 53 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)4 eller artikkel 261 i forordning [(EU) 2016/429](eu/32016r0429*)5 eller av særlige tiltak vedtatt i samsvar med artikkel 128 i forordning [(EU) 2017/625](eu/32017r0625*), for den samme overtredelsen som den som er angitt i meldingen nevnt i nr. 1.
+2\. Etter å ha mottatt meldingen nevnt i nr. 1 skal Kommisjonen vurdere om følgende vilkår er oppfylt:
+
+1. Meldingen bygger på mistanke om bedrageri eller villedende praksis eller på en potensielt alvorlig eller gjentatt overtredelse av reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*).
+2. Meldingen gjelder et tiltak eller en unnlatelse som opprinnelsesvirksomheten for den berørte forsendelsen er ansvarlig for.
+3. Den aktuelle forsendelsen er ikke allerede omfattet av samordnet gjennomføring av forsterket offentlig kontroll i samsvar med denne forordning.
+4. Den aktuelle forsendelsen er ikke omfattet av beskyttelsestiltak vedtatt i samsvar med artikkel 53 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)4 eller artikkel 261 i forordning [(EU) 2016/429](eu/32016r0429*)5 eller av særlige tiltak vedtatt i samsvar med artikkel 128 i forordning [(EU) 2017/625](eu/32017r0625*), for den samme overtredelsen som den som er angitt i meldingen nevnt i nr. 1.
 
 3\. Kommisjonen skal registrere resultatet av vurderingen nevnt i nr. 2 i IMSOC.
 
 4\. Dersom resultatet av vurderingen nevnt i nr. 2 viser at vilkårene er oppfylt, skal de vedkommende myndighetene på grensekontrollstasjonene i alle medlemsstater gjennomføre samordnet forsterket offentlig kontroll.
 
-3 Rådsforordning [(EØF) nr. 2658/87](eu/31987r2658*) av 23. juli 1987 om toll- og statistikknomenklaturen og om den felles tolltariff (EFT L 256 av 7.9.1987, s. 1).4 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).5 Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseregelverket») (EUT L 84 av 31.3.2016, s. 1).
+3 Rådsforordning [(EØF) nr. 2658/87](eu/31987r2658*) av 23. juli 1987 om toll- og statistikknomenklaturen og om den felles tolltariff (EFT L 256 av 7.9.1987, s. 1).
+
+4 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+5 Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseregelverket») (EUT L 84 av 31.3.2016, s. 1).
 
 ### Artikkel 4. Framgangsmåter for samordnet gjennomføring av forsterket offentlig kontroll
 
@@ -136,15 +157,31 @@ I denne forordning menes med «opprinnelsesvirksomhet» en opprinnelsesvirksomhe
 
 ### Artikkel 5. Pålagt kontroll
 
-1\. Dersom det for tre forsendelser som innføres til Unionen, under en samordnet gjennomføring av forsterket offentlig kontroll avdekkes samme type overtredelse som angis i meldingen nevnt i artikkel 3 nr. 1, skal Kommisjonen anmode vedkommende myndighet i tredjestaten der opprinnelsesvirksomheten for forsendelsene som ikke overholder reglene, ligger, om åforeta undersøkelsene som er nødvendige for å fastslå årsakene til overtredelsene («pålagt kontroll»),vedta en handlingsplan for opprinnelsesvirksomheten for effektivt å avhjelpe situasjonen, ograpportere om tiltakene nevnt i bokstav a) og b), herunder resultatene av handlingsplanen.
+1\. Dersom det for tre forsendelser som innføres til Unionen, under en samordnet gjennomføring av forsterket offentlig kontroll avdekkes samme type overtredelse som angis i meldingen nevnt i artikkel 3 nr. 1, skal Kommisjonen anmode vedkommende myndighet i tredjestaten der opprinnelsesvirksomheten for forsendelsene som ikke overholder reglene, ligger, om å
 
-2\. Kommisjonen skal nøye overvåke resultatene av den pålagte kontrollen og av handlingsplanen og treffe ytterligere tiltak, herunder tiltak i samsvar med artikkel 53 i forordning [(EF) nr. 178/2002](eu/32002r0178) og artikkel 127 nr. 4 i forordning [(EU) 2017/625](eu/32017r0625*), dersomden vedkommende myndigheten i tredjestaten ikke treffer egnede tiltak for effektivt å avhjelpe situasjonen, ellerde vedkommende myndighetene i medlemsstatene fortsetter å melde om utilfredsstillende resultater av den samordnede gjennomføringen av forsterket offentlig kontroll.
+1. foreta undersøkelsene som er nødvendige for å fastslå årsakene til overtredelsene («pålagt kontroll»),
+2. vedta en handlingsplan for opprinnelsesvirksomheten for effektivt å avhjelpe situasjonen, og
+3. rapportere om tiltakene nevnt i bokstav a) og b), herunder resultatene av handlingsplanen.
+
+2\. Kommisjonen skal nøye overvåke resultatene av den pålagte kontrollen og av handlingsplanen og treffe ytterligere tiltak, herunder tiltak i samsvar med artikkel 53 i forordning [(EF) nr. 178/2002](eu/32002r0178) og artikkel 127 nr. 4 i forordning [(EU) 2017/625](eu/32017r0625*), dersom
+
+1. den vedkommende myndigheten i tredjestaten ikke treffer egnede tiltak for effektivt å avhjelpe situasjonen, eller
+2. de vedkommende myndighetene i medlemsstatene fortsetter å melde om utilfredsstillende resultater av den samordnede gjennomføringen av forsterket offentlig kontroll.
 
 ### Artikkel 6. Avslutning av samordnet gjennomføring av forsterket offentlig kontroll
 
-1\. Den samordnede gjennomføringen av forsterket offentlig kontroll skal avsluttes i følgende tilfeller:Dersom en vedkommende myndighet beslutter å trekke tilbake meldingen nevnt i artikkel 3 nr. 1 og underretter Kommisjonen og de andre medlemsstatene om dette via IMSOC med en begrunnelse for avgjørelsen.Dersom følgende vilkår er oppfylt:De vedkommende myndighetene på grensekontrollstasjonene i medlemsstatene har registrert en uavbrutt rekke på minst ti tilfredsstillende resultater av den samordnede gjennomføringen av forsterket offentlig kontroll i IMSOC, ogden samlede vekten av forsendelsene nevnt i punkt i) når minst ti ganger vekten av forsendelsen som meldingen nevnt i artikkel 3 nr. 1 gjelder, eller dersom dette er lavere, en nettovekt på 300 tonn.
+1\. Den samordnede gjennomføringen av forsterket offentlig kontroll skal avsluttes i følgende tilfeller:
 
-2\. Dersom Kommisjonen har anmodet om pålagt kontroll i samsvar med artikkel 5 nr. 1 bokstav a), skal imidlertid den samordnede gjennomføringen av forsterket offentlig kontroll avsluttes nårde vedkommende myndighetene på grensekontrollstasjonene i medlemsstatene har registrert en uavbrutt rekke på minst 30 tilfredsstillende resultater av den samordnede gjennomføringen av forsterket offentlig kontroll i IMSOC, ogden vedkommende myndigheten i tredjestaten har vedtatt en tilfredsstillende handlingsplan i samsvar med artikkel 5 nr. 1 bokstav b).
+1. Dersom en vedkommende myndighet beslutter å trekke tilbake meldingen nevnt i artikkel 3 nr. 1 og underretter Kommisjonen og de andre medlemsstatene om dette via IMSOC med en begrunnelse for avgjørelsen.
+2. Dersom følgende vilkår er oppfylt:
+
+   1. De vedkommende myndighetene på grensekontrollstasjonene i medlemsstatene har registrert en uavbrutt rekke på minst ti tilfredsstillende resultater av den samordnede gjennomføringen av forsterket offentlig kontroll i IMSOC, og
+   2. den samlede vekten av forsendelsene nevnt i punkt i) når minst ti ganger vekten av forsendelsen som meldingen nevnt i artikkel 3 nr. 1 gjelder, eller dersom dette er lavere, en nettovekt på 300 tonn.
+
+2\. Dersom Kommisjonen har anmodet om pålagt kontroll i samsvar med artikkel 5 nr. 1 bokstav a), skal imidlertid den samordnede gjennomføringen av forsterket offentlig kontroll avsluttes når
+
+1. de vedkommende myndighetene på grensekontrollstasjonene i medlemsstatene har registrert en uavbrutt rekke på minst 30 tilfredsstillende resultater av den samordnede gjennomføringen av forsterket offentlig kontroll i IMSOC, og
+2. den vedkommende myndigheten i tredjestaten har vedtatt en tilfredsstillende handlingsplan i samsvar med artikkel 5 nr. 1 bokstav b).
 
 ### Artikkel 7. Kostnader for samordnet gjennomføring av forsterket offentlig kontroll
 
@@ -219,17 +256,39 @@ Denne forordning fastsetter regler for gjennomføring av særlig offentlig kontr
 
 1\. Vedkommende myndighet på grensekontrollstasjonen for ankomst til Unionen skal gjennomføre dokumentkontroll og identitetskontroll på forsendelser med dyr og varer nevnt i artikkel 47 nr. 1 bokstav a), b) og c) i forordning [(EU) 2017/625](eu/32017r0625*), som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innført til en tredjestat.
 
-2\. Vedkommende myndighet på grensekontrollstasjonen for ankomst til Unionen skal gjennomføre fysisk kontroll av følgende forsendelser som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innført til en tredjestat:Forsendelser med dyr nevnt i artikkel 47 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*).Forsendelser med Varer nevnt i artikkel 47 nr. 1 bokstav b) og c) i forordning [(EU) 2017/625](eu/32017r0625*) dersom det er mistanke om at disse varene ikke overholder reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), for å bekrefte eller utelukke mistanken.
+2\. Vedkommende myndighet på grensekontrollstasjonen for ankomst til Unionen skal gjennomføre fysisk kontroll av følgende forsendelser som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innført til en tredjestat:
 
-3\. Vedkommende myndighet på grensekontrollstasjonen for ankomst til Unionen skal verifisere at forsendelser med dyr og varer oppfyller følgende krav:For dyr nevnt i artikkel 47 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) og for formeringsmateriale nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*), de kravene til dyrehelse og dyrevelferd, etter hva som er relevant, som er fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav d) og f) i forordning [(EU) 2017/625](eu/32017r0625*).For produkter av animalsk opprinnelse og sammensatte produkter nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*),kravene til dyrehelse fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav d) i forordning [(EU) 2017/625](eu/32017r0625*),de ytterligere reglene fastsatt i artikkel 3 i denne forordning.For animalske biprodukter nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*) og for avledede produkter, kravene fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav e) i forordning [(EU) 2017/625](eu/32017r0625*).For planter, planteprodukter og andre gjenstander nevnt i artikkel 47 nr. 1 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625*), plantehelsekravene fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav g) i forordning [(EU) 2017/625](eu/32017r0625*).
+1. Forsendelser med dyr nevnt i artikkel 47 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*).
+2. Forsendelser med Varer nevnt i artikkel 47 nr. 1 bokstav b) og c) i forordning [(EU) 2017/625](eu/32017r0625*) dersom det er mistanke om at disse varene ikke overholder reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), for å bekrefte eller utelukke mistanken.
+
+3\. Vedkommende myndighet på grensekontrollstasjonen for ankomst til Unionen skal verifisere at forsendelser med dyr og varer oppfyller følgende krav:
+
+1. For dyr nevnt i artikkel 47 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) og for formeringsmateriale nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*), de kravene til dyrehelse og dyrevelferd, etter hva som er relevant, som er fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav d) og f) i forordning [(EU) 2017/625](eu/32017r0625*).
+2. For produkter av animalsk opprinnelse og sammensatte produkter nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*),
+
+   1. kravene til dyrehelse fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav d) i forordning [(EU) 2017/625](eu/32017r0625*),
+   2. de ytterligere reglene fastsatt i artikkel 3 i denne forordning.
+3. For animalske biprodukter nevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*) og for avledede produkter, kravene fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav e) i forordning [(EU) 2017/625](eu/32017r0625*).
+4. For planter, planteprodukter og andre gjenstander nevnt i artikkel 47 nr. 1 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625*), plantehelsekravene fastsatt i reglene nevnt i artikkel 1 nr. 2 bokstav g) i forordning [(EU) 2017/625](eu/32017r0625*).
 
 4\. Vedkommende myndighet på grensekontrollstasjonen for ankomst til Unionen skal underrette vedkommende myndighet på bestemmelsesstedet gjennom informasjonsstyringssystemet for offentlig kontroll som nevnt i artikkel 131 i forordning [(EU) 2017/625](eu/32017r0625*) («IMSOC»), om at forsendelsen er blitt godkjent for innførsel til Unionen på et bestemmelsessted angitt i det felles innførselsdokumentet om helse (CHED – Common Health Entry Document).
 
 ### Artikkel 3. Ytterligere regler for særlig offentlig kontroll av forsendelser med produkter av animalsk opprinnelse og sammensatte produkter
 
-1\. Vedkommende myndighet på grensekontrollstasjonen for ankomst til Unionen skal tillate innførsel til Unionen av følgende forsendelser med produkter med opprinnelse i og som sendes tilbake til Unionen etter å ha blitt nektet innført til en tredjestat, forutsatt at de oppfyller kravene fastsatt i nr. 2:Produkter av animalsk opprinnelse oppført i vedlegget til Kommisjonens gjennomføringsforordning [(EU) 2019/2007](eu/32019r2007).Sammensatte produkter oppført i kapittel 16-22 i vedlegg I til vedtak [2007/275/EF](eu/32007d0275) som skal gjennomgå veterinærkontroll på grensekontrollstasjoner ved ankomst til Unionen i samsvar med artikkel 4 i nevnte vedtak.
+1\. Vedkommende myndighet på grensekontrollstasjonen for ankomst til Unionen skal tillate innførsel til Unionen av følgende forsendelser med produkter med opprinnelse i og som sendes tilbake til Unionen etter å ha blitt nektet innført til en tredjestat, forutsatt at de oppfyller kravene fastsatt i nr. 2:
 
-2\. Forsendelsene av produkter nevnt i nr. 1 skal ledsages av følgende dokumenter:Originaleksemplaret av det offisielle sertifikatet utstedt av vedkommende myndighet i den medlemsstaten som varene har sin opprinnelse i, og som de ble avsendt fra til en tredjestat («opprinnelsesstat»), eller den elektroniske versjonen av det levert i IMSOC, eller en attestert kopi av det.Den offisielle erklæringen fra vedkommende myndighet eller fra andre offentlige myndigheter i tredjestaten, med angivelse av årsaken til nektet innførsel, sted og dato for lossing og omlasting i tredjestaten og bekreftelse av atforsendelsen ikke har gjennomgått noen annen behandling enn lossing, lagring og omlasting,lossingen og omlastingen av produkter av animalsk opprinnelse og sammensatte produkter ble håndtert på en hygienisk måte for å unngå krysskontaminering,produktene av animalsk opprinnelse og sammensatte produkter ble lagret under hygieniske forhold og ved den temperaturen som kreves for de relevante typene av varer.Erklæringen fra vedkommende myndighet på bestemmelsesstedet i Unionen om at de samtykker i å motta forsendelsen; denne erklæringen skal imidlertid ikke være påkrevd dersom forsendelsen sendes tilbake til sin opprinnelsesvirksomhet, som ligger i samme medlemsstat som grensekontrollstasjonen for ankomst til Unionen.
+1. Produkter av animalsk opprinnelse oppført i vedlegget til Kommisjonens gjennomføringsforordning [(EU) 2019/2007](eu/32019r2007).
+2. Sammensatte produkter oppført i kapittel 16-22 i vedlegg I til vedtak [2007/275/EF](eu/32007d0275) som skal gjennomgå veterinærkontroll på grensekontrollstasjoner ved ankomst til Unionen i samsvar med artikkel 4 i nevnte vedtak.
+
+2\. Forsendelsene av produkter nevnt i nr. 1 skal ledsages av følgende dokumenter:
+
+1. Originaleksemplaret av det offisielle sertifikatet utstedt av vedkommende myndighet i den medlemsstaten som varene har sin opprinnelse i, og som de ble avsendt fra til en tredjestat («opprinnelsesstat»), eller den elektroniske versjonen av det levert i IMSOC, eller en attestert kopi av det.
+2. Den offisielle erklæringen fra vedkommende myndighet eller fra andre offentlige myndigheter i tredjestaten, med angivelse av årsaken til nektet innførsel, sted og dato for lossing og omlasting i tredjestaten og bekreftelse av at
+
+   1. forsendelsen ikke har gjennomgått noen annen behandling enn lossing, lagring og omlasting,
+   2. lossingen og omlastingen av produkter av animalsk opprinnelse og sammensatte produkter ble håndtert på en hygienisk måte for å unngå krysskontaminering,
+   3. produktene av animalsk opprinnelse og sammensatte produkter ble lagret under hygieniske forhold og ved den temperaturen som kreves for de relevante typene av varer.
+3. Erklæringen fra vedkommende myndighet på bestemmelsesstedet i Unionen om at de samtykker i å motta forsendelsen; denne erklæringen skal imidlertid ikke være påkrevd dersom forsendelsen sendes tilbake til sin opprinnelsesvirksomhet, som ligger i samme medlemsstat som grensekontrollstasjonen for ankomst til Unionen.
 
 3\. Som unntak fra nr. 2 bokstav a), dersom det ikke er mulig å framlegge dokumentene nevnt i denne bestemmelsen, kan forsendelsens opprinnelse bekreftes på annen måte på grunnlag av dokumentasjonen som framlegges av den driftsansvarlige som er ansvarlig for forsendelsen.
 

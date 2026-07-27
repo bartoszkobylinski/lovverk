@@ -32,9 +32,149 @@ Forskriften gjelder i de kontrollområdene som opprettes i denne forskriften. Fo
 
 ## § 3. Opprettelse av kontrollområder
 
-1. PærebrannsoneDet opprettes en pærebrannsone hvor følgende kommuner eller deler av kommuner inngår:I Møre og Romsdal:ÅlesundHaramGiskeHerøyMolde: øyene Otrøy, Midøy, Dryna, Magerøy og TautraSandeSulaUlsteinVoldaØrstaHareidSykkylvenVanylvenI Vestland:AlverAskøyAustevollAustrheimBergenBjørnafjordenBømloFitjarStordSveioØygardenAskvollBremangerEtneFjalerGulenHyllestadKinnKvinnheradMasfjordenOsterøySolundTysnesVaksdalFedjeHøyangerStadSamnangerModalenSunnfjordI Rogaland:BjerkreimBoknEigersundGjesdalHaugesundHåKarmøyKleppLundRandabergSandnesSokndalSolaStavangerStrandTimeTysværVindafjordSuldalKvitsøySaudaUtsiraI Agder:FarsundKristiansandLindesnesArendalFlekkefjordGrimstadKvinesdalLillesandLyngdalRisørTvedestrandVenneslaI Telemark:BambleKragerøPorsgrunnSkien
-2. BekjempelsessoneDet opprettes en bekjempelsessone hvor følgende kommuner eller deler av kommuner inngår:I Vestland:KvamI Rogaland:Hjelmeland
-3. Forebyggende soneDet opprettes en forebyggende sone hvor følgende kommuner eller deler av kommuner inngår:I Møre og Romsdal:FjordI Vestland:EidfjordLusterSogndalUllensvangUlvikVikVossI Telemark:Midt-TelemarkNomeNotoddenI VestfoldHolmestrandI Buskerud:DrammenLierØvre Eiker
+1. Pærebrannsone
+
+   Det opprettes en pærebrannsone hvor følgende kommuner eller deler av kommuner inngår:
+
+   I Møre og Romsdal:
+
+   - Ålesund
+   - Haram
+   - Giske
+   - Herøy
+   - Molde: øyene Otrøy, Midøy, Dryna, Magerøy og Tautra
+   - Sande
+   - Sula
+   - Ulstein
+   - Volda
+   - Ørsta
+   - Hareid
+   - Sykkylven
+   - Vanylven
+
+   I Vestland:
+
+   - Alver
+   - Askøy
+   - Austevoll
+   - Austrheim
+   - Bergen
+   - Bjørnafjorden
+   - Bømlo
+   - Fitjar
+   - Stord
+   - Sveio
+   - Øygarden
+   - Askvoll
+   - Bremanger
+   - Etne
+   - Fjaler
+   - Gulen
+   - Hyllestad
+   - Kinn
+   - Kvinnherad
+   - Masfjorden
+   - Osterøy
+   - Solund
+   - Tysnes
+   - Vaksdal
+   - Fedje
+   - Høyanger
+   - Stad
+   - Samnanger
+   - Modalen
+   - Sunnfjord
+
+   I Rogaland:
+
+   - Bjerkreim
+   - Bokn
+   - Eigersund
+   - Gjesdal
+   - Haugesund
+   - Hå
+   - Karmøy
+   - Klepp
+   - Lund
+   - Randaberg
+   - Sandnes
+   - Sokndal
+   - Sola
+   - Stavanger
+   - Strand
+   - Time
+   - Tysvær
+   - Vindafjord
+   - Suldal
+   - Kvitsøy
+   - Sauda
+   - Utsira
+
+   I Agder:
+
+   - Farsund
+   - Kristiansand
+   - Lindesnes
+   - Arendal
+   - Flekkefjord
+   - Grimstad
+   - Kvinesdal
+   - Lillesand
+   - Lyngdal
+   - Risør
+   - Tvedestrand
+   - Vennesla
+
+   I Telemark:
+
+   - Bamble
+   - Kragerø
+   - Porsgrunn
+   - Skien
+2. Bekjempelsessone
+
+   Det opprettes en bekjempelsessone hvor følgende kommuner eller deler av kommuner inngår:
+
+   I Vestland:
+
+   - Kvam
+
+   I Rogaland:
+
+   - Hjelmeland
+3. Forebyggende sone
+
+   Det opprettes en forebyggende sone hvor følgende kommuner eller deler av kommuner inngår:
+
+   I Møre og Romsdal:
+
+   - Fjord
+
+   I Vestland:
+
+   - Eidfjord
+   - Luster
+   - Sogndal
+   - Ullensvang
+   - Ulvik
+   - Vik
+   - Voss
+
+   I Telemark:
+
+   - Midt-Telemark
+   - Nome
+   - Notodden
+
+   I Vestfold
+
+   - Holmestrand
+
+   I Buskerud:
+
+   - Drammen
+   - Lier
+   - Øvre Eiker
 
 > Endret ved [forskrifter 28 april 2020 nr. 908](forskrift/2020-04-28-908), [8 sep 2021 nr. 2718](forskrift/2021-09-08-2718), [16 sep 2021 nr. 2765](forskrift/2021-09-16-2765), [5 okt 2021 nr. 2931](forskrift/2021-10-05-2931), [8 aug 2022 nr. 1413](forskrift/2022-08-08-1413), [1 sep 2022 nr. 1533](forskrift/2022-09-01-1533), [21 juni 2024 nr. 1188](forskrift/2024-06-21-1188), [3 april 2025 nr. 616](forskrift/2025-04-03-616).
 

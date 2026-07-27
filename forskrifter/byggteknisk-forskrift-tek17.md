@@ -15,7 +15,7 @@ xml_hash: "c2240d077865028fb8ea7a91db154a7edd07ac52e8d310b29c310441323d2e83"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,9 +30,25 @@ Forskriften skal sikre at tiltak planlegges, prosjekteres og utføres ut fra hen
 
 ### § 1-2. Forskriftens anvendelse på særskilte tiltak
 
-(1) Driftsbygninger i landbruket og tilsvarende bygninger for husdyr utenom landbruket skal oppfylle kravene ikapittel 1 til 7[§ 8-1](forskrift/2017-06-19-840/§8-1) og [§ 8-4](forskrift/2017-06-19-840/§8-4) første leddkapittel 9 til 11[§ 12-1](forskrift/2017-06-19-840/§12-1) første ledd, [§ 12-4](forskrift/2017-06-19-840/§12-4) første ledd, [§ 12-5](forskrift/2017-06-19-840/§12-5), [§ 12-6](forskrift/2017-06-19-840/§12-6) første til fjerde ledd, [§ 12-7](forskrift/2017-06-19-840/§12-7) første ledd, [§ 12-13](forskrift/2017-06-19-840/§12-13) første ledd og annet ledd bokstav a og d, [§ 12-14](forskrift/2017-06-19-840/§12-14) første ledd og femte ledd bokstav b, [§ 12-15](forskrift/2017-06-19-840/§12-15), [§ 12-16](forskrift/2017-06-19-840/§12-16) første ledd, [§ 12-17](forskrift/2017-06-19-840/§12-17) og [§ 12-18](forskrift/2017-06-19-840/§12-18) første og annet ledd[§ 13-1](forskrift/2017-06-19-840/§13-1) første ledd, [§ 13-6](forskrift/2017-06-19-840/§13-6) første ledd første punktum og tredje ledd, [§ 13-7](forskrift/2017-06-19-840/§13-7) og [§ 13-9](forskrift/2017-06-19-840/§13-9) til [§ 13-16](forskrift/2017-06-19-840/§13-16)kapittel 14 med unntak av [§ 14-4](forskrift/2017-06-19-840/§14-4)kapittel 15 til 17.
+(1) Driftsbygninger i landbruket og tilsvarende bygninger for husdyr utenom landbruket skal oppfylle kravene i
 
-(2) Frittliggende boligbygning inntil 30 m2 BRA med én boenhet i én etasje uten kjeller som ikke på noe punkt overstiger en høyde på 4,5 m over bakken og fritidsbolig med én boenhet skal oppfylle kravene i[kapittel 1](forskrift/2017-06-19-840/kap1) til [7](forskrift/2017-06-19-840/kap7)[§ 8-1](forskrift/2017-06-19-840/§8-1), [§ 8-3](forskrift/2017-06-19-840/§8-3), [§ 8-8](forskrift/2017-06-19-840/§8-8) fjerde og femte ledd[kapittel 9](forskrift/2017-06-19-840/kap9) til [11](forskrift/2017-06-19-840/kap11)[§ 12-1](forskrift/2017-06-19-840/§12-1) første ledd, [§ 12-5](forskrift/2017-06-19-840/§12-5), [§ 12-7](forskrift/2017-06-19-840/§12-7) første ledd og annet ledd bokstav c og d, [§ 12-11](forskrift/2017-06-19-840/§12-11) første og annet ledd, [§ 12-13](forskrift/2017-06-19-840/§12-13) første ledd og annet ledd bokstav d, [§ 12-14](forskrift/2017-06-19-840/§12-14) første ledd bokstav a til d og femte ledd bokstav b, [§ 12-15](forskrift/2017-06-19-840/§12-15) og [§ 12-17](forskrift/2017-06-19-840/§12-17)[§ 13-1](forskrift/2017-06-19-840/§13-1) første ledd, [§ 13-4](forskrift/2017-06-19-840/§13-4), [§ 13-5](forskrift/2017-06-19-840/§13-5), [§ 13-7](forskrift/2017-06-19-840/§13-7) og [§ 13-9](forskrift/2017-06-19-840/§13-9) til [§ 13-16](forskrift/2017-06-19-840/§13-16)[kapittel 14](forskrift/2017-06-19-840/kap14)[kapittel 15](forskrift/2017-06-19-840/kap15) til [17](forskrift/2017-06-19-840/kap17).
+1. kapittel 1 til 7
+2. [§ 8-1](forskrift/2017-06-19-840/§8-1) og [§ 8-4](forskrift/2017-06-19-840/§8-4) første ledd
+3. kapittel 9 til 11
+4. [§ 12-1](forskrift/2017-06-19-840/§12-1) første ledd, [§ 12-4](forskrift/2017-06-19-840/§12-4) første ledd, [§ 12-5](forskrift/2017-06-19-840/§12-5), [§ 12-6](forskrift/2017-06-19-840/§12-6) første til fjerde ledd, [§ 12-7](forskrift/2017-06-19-840/§12-7) første ledd, [§ 12-13](forskrift/2017-06-19-840/§12-13) første ledd og annet ledd bokstav a og d, [§ 12-14](forskrift/2017-06-19-840/§12-14) første ledd og femte ledd bokstav b, [§ 12-15](forskrift/2017-06-19-840/§12-15), [§ 12-16](forskrift/2017-06-19-840/§12-16) første ledd, [§ 12-17](forskrift/2017-06-19-840/§12-17) og [§ 12-18](forskrift/2017-06-19-840/§12-18) første og annet ledd
+5. [§ 13-1](forskrift/2017-06-19-840/§13-1) første ledd, [§ 13-6](forskrift/2017-06-19-840/§13-6) første ledd første punktum og tredje ledd, [§ 13-7](forskrift/2017-06-19-840/§13-7) og [§ 13-9](forskrift/2017-06-19-840/§13-9) til [§ 13-16](forskrift/2017-06-19-840/§13-16)
+6. kapittel 14 med unntak av [§ 14-4](forskrift/2017-06-19-840/§14-4)
+7. kapittel 15 til 17.
+
+(2) Frittliggende boligbygning inntil 30 m2 BRA med én boenhet i én etasje uten kjeller som ikke på noe punkt overstiger en høyde på 4,5 m over bakken og fritidsbolig med én boenhet skal oppfylle kravene i
+
+1. [kapittel 1](forskrift/2017-06-19-840/kap1) til [7](forskrift/2017-06-19-840/kap7)
+2. [§ 8-1](forskrift/2017-06-19-840/§8-1), [§ 8-3](forskrift/2017-06-19-840/§8-3), [§ 8-8](forskrift/2017-06-19-840/§8-8) fjerde og femte ledd
+3. [kapittel 9](forskrift/2017-06-19-840/kap9) til [11](forskrift/2017-06-19-840/kap11)
+4. [§ 12-1](forskrift/2017-06-19-840/§12-1) første ledd, [§ 12-5](forskrift/2017-06-19-840/§12-5), [§ 12-7](forskrift/2017-06-19-840/§12-7) første ledd og annet ledd bokstav c og d, [§ 12-11](forskrift/2017-06-19-840/§12-11) første og annet ledd, [§ 12-13](forskrift/2017-06-19-840/§12-13) første ledd og annet ledd bokstav d, [§ 12-14](forskrift/2017-06-19-840/§12-14) første ledd bokstav a til d og femte ledd bokstav b, [§ 12-15](forskrift/2017-06-19-840/§12-15) og [§ 12-17](forskrift/2017-06-19-840/§12-17)
+5. [§ 13-1](forskrift/2017-06-19-840/§13-1) første ledd, [§ 13-4](forskrift/2017-06-19-840/§13-4), [§ 13-5](forskrift/2017-06-19-840/§13-5), [§ 13-7](forskrift/2017-06-19-840/§13-7) og [§ 13-9](forskrift/2017-06-19-840/§13-9) til [§ 13-16](forskrift/2017-06-19-840/§13-16)
+6. [kapittel 14](forskrift/2017-06-19-840/kap14)
+7. [kapittel 15](forskrift/2017-06-19-840/kap15) til [17](forskrift/2017-06-19-840/kap17).
 
 (3) For husvære for seterbruk, reindrift eller skogsdrift gjelder bestemmelser i annet ledd tilsvarende.
 
@@ -40,7 +56,11 @@ Forskriften skal sikre at tiltak planlegges, prosjekteres og utføres ut fra hen
 
 (5) Forskriften gjelder for midlertidige bygninger, med unntak av kapittel 8, 12 og 13 som gjelder så langt de passer. I kapittel 14 gjelder kun [§ 14-3](forskrift/2017-06-19-840/§14-3).
 
-(6) I bygninger som oppføres som studentboliger av studentsamskipnader og studentboligstiftelser som har mottatt tilsagn om tilskudd til studentboliger etter [forskrift 28. januar 2004 nr. 424 om tilskudd til studentboliger](forskrift/2004-01-28-424),er det tilstrekkelig at 20 prosent av boenhetene oppfyller kravene til tilgjengelig boenhet i [§ 12-7](forskrift/2017-06-19-840/§12-7) fjerde ledd, [§ 12-8](forskrift/2017-06-19-840/§12-8) første ledd, [§ 12-11](forskrift/2017-06-19-840/§12-11) tredje ledd og [§ 12-18](forskrift/2017-06-19-840/§12-18) tredje ledd, og utforming av bad og toalett i [§ 12-9](forskrift/2017-06-19-840/§12-9) første leddgjelder ikke krav om bod etter [§ 12-10](forskrift/2017-06-19-840/§12-10) annet leddskal det for besøkende være likestilt tilgang til toalett som oppfyller [§ 12-9](forskrift/2017-06-19-840/§12-9) første ledd i hver etasje i bygning med krav om heis.
+(6) I bygninger som oppføres som studentboliger av studentsamskipnader og studentboligstiftelser som har mottatt tilsagn om tilskudd til studentboliger etter [forskrift 28. januar 2004 nr. 424 om tilskudd til studentboliger](forskrift/2004-01-28-424),
+
+1. er det tilstrekkelig at 20 prosent av boenhetene oppfyller kravene til tilgjengelig boenhet i [§ 12-7](forskrift/2017-06-19-840/§12-7) fjerde ledd, [§ 12-8](forskrift/2017-06-19-840/§12-8) første ledd, [§ 12-11](forskrift/2017-06-19-840/§12-11) tredje ledd og [§ 12-18](forskrift/2017-06-19-840/§12-18) tredje ledd, og utforming av bad og toalett i [§ 12-9](forskrift/2017-06-19-840/§12-9) første ledd
+2. gjelder ikke krav om bod etter [§ 12-10](forskrift/2017-06-19-840/§12-10) annet ledd
+3. skal det for besøkende være likestilt tilgang til toalett som oppfyller [§ 12-9](forskrift/2017-06-19-840/§12-9) første ledd i hver etasje i bygning med krav om heis.
 
 (7) Unntakene i sjette ledd gjelder også for andre studentboliger dersom det tinglyses en heftelse på eiendommen om at boligen skal benyttes til utleie for studenter i minst 20 år fra ferdigattest eller midlertidig brukstillatelse. Det skal dokumenteres at heftelsen er tinglyst og dokumentasjonen skal være godtatt av kommunen før igangsettingstillatelse kan gis. Departementet er rettighetshaver til heftelsen.
 
@@ -52,7 +72,22 @@ Forskriften skal sikre at tiltak planlegges, prosjekteres og utføres ut fra hen
 
 ### § 1-3. Definisjoner
 
-I forskriften menes med*boenhet:* bruksenhet som har alle hovedfunksjoner og som skal brukes til boligformål*byggverk:* bygning, konstruksjon eller anlegg*funksjonskrav:* overordnet formål eller oppgave som skal oppfylles i det ferdige byggverket*gangatkomst:* gangvei fra kjørbar vei og parkering til inngangsparti til byggverk og uteoppholdsareal, og mellom disse*hovedfunksjoner:* stue, kjøkken, soverom, bad og toalett. Begrepet benyttes kun i forbindelse med bolig og krav om tilgjengelig boenhet.*inngangsparti:* byggverkets atkomstområde ved hovedinngangsdør*likeverdige standarder:* standarder som dekker samme fagområde, bygger på de samme forutsetninger, har samme gyldighet og gir tilsvarende kvaliteter*mellometasje:* plan som ligger mellom to plan og har åpen forbindelse til underliggende plan. En mellometasje kan for eksempel være mesanin.*opparbeidet uteareal:* opparbeidet atkomst, parkeringsareal, uteoppholdsareal i tilknytning til byggverk og uteoppholdsareal for allmennheten*preakseptert ytelse:* ytelse angitt av Direktoratet for byggkvalitet, og som vil oppfylle, eller bidra til å oppfylle, ett eller flere funksjonskrav i byggteknisk forskrift*produksjonsunderlag:* arbeidstegninger, beskrivelsestekster, spesifikasjoner og annet underlagsmateriale som skal ligge til grunn for utførelsen*rom for varig opphold:* rom for varig opphold i arbeids- og publikumsbygg er arbeidsrom og publikumsrom. Lagerrom, korridor, gang, garderobe, toalett, dusjrom og lignende er ikke rom for varig opphold. Rom for varig opphold i boenhet er stue og tilsvarende rom, kjøkken og soverom.*trinnfri:* flate som kan ha terskel eller nivåforskjell på maksimum 25 mm. Terskel eller nivåforskjell mellom 20 mm og 25 mm anses som trinnfri dersom den har en skråskåren kant som ikke er brattere enn 45 grader.*ytelse:* teknisk, bruks- eller miljømessig kvalitet, kapasitet eller egenskap ved byggverk, bygningsdel, installasjon eller utearealer. En ytelse er en tolking og konkretisering av funksjonskrav og er angitt kvantitativt eller kvalitativt.
+I forskriften menes med
+
+1. *boenhet:* bruksenhet som har alle hovedfunksjoner og som skal brukes til boligformål
+2. *byggverk:* bygning, konstruksjon eller anlegg
+3. *funksjonskrav:* overordnet formål eller oppgave som skal oppfylles i det ferdige byggverket
+4. *gangatkomst:* gangvei fra kjørbar vei og parkering til inngangsparti til byggverk og uteoppholdsareal, og mellom disse
+5. *hovedfunksjoner:* stue, kjøkken, soverom, bad og toalett. Begrepet benyttes kun i forbindelse med bolig og krav om tilgjengelig boenhet.
+6. *inngangsparti:* byggverkets atkomstområde ved hovedinngangsdør
+7. *likeverdige standarder:* standarder som dekker samme fagområde, bygger på de samme forutsetninger, har samme gyldighet og gir tilsvarende kvaliteter
+8. *mellometasje:* plan som ligger mellom to plan og har åpen forbindelse til underliggende plan. En mellometasje kan for eksempel være mesanin.
+9. *opparbeidet uteareal:* opparbeidet atkomst, parkeringsareal, uteoppholdsareal i tilknytning til byggverk og uteoppholdsareal for allmennheten
+10. *preakseptert ytelse:* ytelse angitt av Direktoratet for byggkvalitet, og som vil oppfylle, eller bidra til å oppfylle, ett eller flere funksjonskrav i byggteknisk forskrift
+11. *produksjonsunderlag:* arbeidstegninger, beskrivelsestekster, spesifikasjoner og annet underlagsmateriale som skal ligge til grunn for utførelsen
+12. *rom for varig opphold:* rom for varig opphold i arbeids- og publikumsbygg er arbeidsrom og publikumsrom. Lagerrom, korridor, gang, garderobe, toalett, dusjrom og lignende er ikke rom for varig opphold. Rom for varig opphold i boenhet er stue og tilsvarende rom, kjøkken og soverom.
+13. *trinnfri:* flate som kan ha terskel eller nivåforskjell på maksimum 25 mm. Terskel eller nivåforskjell mellom 20 mm og 25 mm anses som trinnfri dersom den har en skråskåren kant som ikke er brattere enn 45 grader.
+14. *ytelse:* teknisk, bruks- eller miljømessig kvalitet, kapasitet eller egenskap ved byggverk, bygningsdel, installasjon eller utearealer. En ytelse er en tolking og konkretisering av funksjonskrav og er angitt kvantitativt eller kvalitativt.
 
 ## Kapittel 2. Dokumentasjon for oppfyllelse av krav
 
@@ -68,7 +103,10 @@ I forskriften menes med*boenhet:* bruksenhet som har alle hovedfunksjoner og som
 
 (1) Kravene til ytelser som er gitt i forskriften skal oppfylles.
 
-(2) Der kravene til ytelser ikke er gitt i forskriften, skal oppfyllelse av funksjonskravene i forskriften dokumenteres entenved bruk av preaksepterte ytelser, ellerved analyse som viser at ytelsene oppfyller funksjonskravene i forskriften.
+(2) Der kravene til ytelser ikke er gitt i forskriften, skal oppfyllelse av funksjonskravene i forskriften dokumenteres enten
+
+1. ved bruk av preaksepterte ytelser, eller
+2. ved analyse som viser at ytelsene oppfyller funksjonskravene i forskriften.
 
 (3) Dersom oppfyllelse av funksjonskravene i forskriften dokumenteres ved analyse, skal det påvises at den anvendte analysemetoden er egnet til og gyldig for formålet. Forutsetningene som legges til grunn skal være beskrevet og begrunnet. Analysen skal angi nødvendige sikkerhetsmarginer.
 
@@ -112,7 +150,14 @@ Dokumentasjon for driftsfasen skal overleveres til og oppbevares av eier av bygg
 
 (1) Formålet er å regulere bygningers volum over terreng og bygningers totale areal sett i forhold til behovet for uteoppholdsareal, belastning på infrastruktur og forholdet til omgivelsene. Grad av utnytting fastsettes i bestemmelsene til kommuneplanens arealdel eller i reguleringsplanen for et avgrenset område.
 
-(2) Grad av utnytting skal fastsettes etter en eller flere av følgende metoder:bebygd areal (BYA)prosent bebygd areal (%-BYA)bruksareal (BRA)prosent bruksareal (%-BRA).I områder for kjøpesentre og forretninger skal grad av utnytting alltid fastsettes som bruksareal (BRA).
+(2) Grad av utnytting skal fastsettes etter en eller flere av følgende metoder:
+
+1. bebygd areal (BYA)
+2. prosent bebygd areal (%-BYA)
+3. bruksareal (BRA)
+4. prosent bruksareal (%-BRA).
+
+I områder for kjøpesentre og forretninger skal grad av utnytting alltid fastsettes som bruksareal (BRA).
 
 ### § 5-2. Bebygd areal (BYA)
 
@@ -126,7 +171,11 @@ Prosent bebygd areal angir forholdet mellom bebygd areal etter [§ 5-2](forskrif
 
 (1) Bruksareal for bebyggelse på en tomt skrives m2-BRA og angis i hele tall.
 
-(2) Bruksareal beregnes etter Norsk Standard NS 3940:2012 Areal- og volumberegninger av bygninger, men slik at parkeringsarealet inngår i beregningsgrunnlaget etter [§ 5-7](forskrift/2017-06-19-840/§5-7). I tillegg gjelder følgende:For bygninger med etasjehøyde over 3 m beregnes bruksareal som om det var lagt et horisontalplan for hver tredje meter. Det kan fastsettes i bestemmelsene til arealplan at bruksarealet skal regnes uten tillegg for tenkte plan.Planbestemmelsene skal fastsette hvordan bruksareal helt eller delvis under terreng medregnes i grad av utnytting. Der planen ikke fastsetter noe annet, regnes bruksarealet under terreng med i bruksarealet.Ved beregning av bruksareal som underlag for energiberegning skal det ikke legges inn et horisontalplan for hver tredje meter der bygningen har etasjehøyde over 3 m.
+(2) Bruksareal beregnes etter Norsk Standard NS 3940:2012 Areal- og volumberegninger av bygninger, men slik at parkeringsarealet inngår i beregningsgrunnlaget etter [§ 5-7](forskrift/2017-06-19-840/§5-7). I tillegg gjelder følgende:
+
+1. For bygninger med etasjehøyde over 3 m beregnes bruksareal som om det var lagt et horisontalplan for hver tredje meter. Det kan fastsettes i bestemmelsene til arealplan at bruksarealet skal regnes uten tillegg for tenkte plan.
+2. Planbestemmelsene skal fastsette hvordan bruksareal helt eller delvis under terreng medregnes i grad av utnytting. Der planen ikke fastsetter noe annet, regnes bruksarealet under terreng med i bruksarealet.
+3. Ved beregning av bruksareal som underlag for energiberegning skal det ikke legges inn et horisontalplan for hver tredje meter der bygningen har etasjehøyde over 3 m.
 
 ### § 5-5. Prosent bruksareal (%-BRA)
 
@@ -152,7 +201,11 @@ Gesims- og mønehøyde skal måles etter [§ 6-2](forskrift/2017-06-19-840/§6-2
 
 ### § 6-1. Etasjeantall
 
-Etasjeantallet i en bygning er summen av måleverdige plan som ligger over hverandre og som utgjør bygningens hoveddel og tilleggsdel. Følgende plan medregnes likevel ikke i etasjeantallet:kjellere som bare inneholder tilleggsdel og som har himling mindre enn 1,5 m over planert terrengs gjennomsnittsnivå rundt bygningenmellometasjer som har et bruksareal mindre enn 1/5 av den underliggende hele etasjens bruksarealloft som bare inneholder tilleggsdel og som har bruksareal mindre enn 1/3 av den underliggende etasjens bruksareal.
+Etasjeantallet i en bygning er summen av måleverdige plan som ligger over hverandre og som utgjør bygningens hoveddel og tilleggsdel. Følgende plan medregnes likevel ikke i etasjeantallet:
+
+1. kjellere som bare inneholder tilleggsdel og som har himling mindre enn 1,5 m over planert terrengs gjennomsnittsnivå rundt bygningen
+2. mellometasjer som har et bruksareal mindre enn 1/5 av den underliggende hele etasjens bruksareal
+3. loft som bare inneholder tilleggsdel og som har bruksareal mindre enn 1/3 av den underliggende etasjens bruksareal.
 
 ### § 6-2. Høyde
 
@@ -204,7 +257,12 @@ En frittliggende bygning etter [plan- og bygningsloven § 29-4](lov/2008-06-27-7
 
 (4) Byggverk skal plasseres eller sikres slik at det ikke oppstår skade ved erosjon.
 
-(5) Sikkerhetsklasse F1 omfatter også følgende tiltak der tiltaket ikke fører til redusert personsikkerhet og ikke omfatter etablering av ny bruksenhet:ett tilbygg eller ett påbygg inntil 50 m2 BRA i byggverkets levetidbruksendring og ombygging inntil 50 m2 BRA.Bestemmelsen omfatter ikke tiltak som fører til etablering av virksomhet som inngår i [§ 7-2](forskrift/2017-06-19-840/§7-2) første ledd.
+(5) Sikkerhetsklasse F1 omfatter også følgende tiltak der tiltaket ikke fører til redusert personsikkerhet og ikke omfatter etablering av ny bruksenhet:
+
+1. ett tilbygg eller ett påbygg inntil 50 m2 BRA i byggverkets levetid
+2. bruksendring og ombygging inntil 50 m2 BRA.
+
+Bestemmelsen omfatter ikke tiltak som fører til etablering av virksomhet som inngår i [§ 7-2](forskrift/2017-06-19-840/§7-2) første ledd.
 
 > Endret ved forskrift [28 feb 2023 nr. 280](forskrift/2023-02-28-280) (i kraft 15 mars 2023).
 
@@ -224,15 +282,31 @@ En frittliggende bygning etter [plan- og bygningsloven § 29-4](lov/2008-06-27-7
 
 For områder med fare for kvikkleireskred skal det fastsettes et tilsvarende sikkerhetsnivå.
 
-(3) Sikkerhetsklasse S1 omfatter også følgende tiltak der tiltaket har liten konsekvens for personsikkerhet og ikke omfatter etablering av ny bruksenhet:ett tilbygg, ett påbygg eller underbygging inntil 50 m2 BRA i byggverkets levetidbruksendring og ombygging inntil 50 m2 BRA.Tredje ledd omfatter ikke tiltak som fører til etablering av virksomhet som inngår i [§ 7-3](forskrift/2017-06-19-840/§7-3) første ledd. Tredje ledd omfatter ikke tiltak som ligger innenfor områder med fare for kvikkleireskred.
+(3) Sikkerhetsklasse S1 omfatter også følgende tiltak der tiltaket har liten konsekvens for personsikkerhet og ikke omfatter etablering av ny bruksenhet:
+
+1. ett tilbygg, ett påbygg eller underbygging inntil 50 m2 BRA i byggverkets levetid
+2. bruksendring og ombygging inntil 50 m2 BRA.
+
+Tredje ledd omfatter ikke tiltak som fører til etablering av virksomhet som inngår i [§ 7-3](forskrift/2017-06-19-840/§7-3) første ledd. Tredje ledd omfatter ikke tiltak som ligger innenfor områder med fare for kvikkleireskred.
 
 > Endret ved forskrift [25 aug 2022 nr. 1489](forskrift/2022-08-25-1489) (i kraft 1 sep 2022).
 
 ### § 7-4. Unntaksbestemmelse for utbygging i områder med fare for fjellskred og flodbølge som følge av fjellskred
 
-(1) Med unntak av bygninger som omfattes av [§ 7-3](forskrift/2017-06-19-840/§7-3) første ledd, kan det tillates utbygging i områder med fare for fjellskred og flodbølge som følge av fjellskred, dersom følgende vilkår er oppfylt:Utbygging i fareområdet er avklart i arealplan. Gjennom planprosessen skal det være utredet og sannsynliggjort at det ikke finnes alternative sikre byggearealer, og at utbygging er av avgjørende samfunnsmessig betydning. Gjennom planprosessen skal også mulige fysiske sikringstiltak utredes, og det skal stilles som vilkår for tillatelse at hensiktsmessige sikringstiltak gjennomføres.Personsikkerheten er ivaretatt ved et forsvarlig beredskapssystem. Denne skal være basert på periodisk eller sanntids overvåking, varsling og evakuering. Varslingstiden skal ikke være kortere enn 72 timer og evakueringstiden skal være på maksimum 12 timer. Av hensyn til sikkerheten for brukerne, skal det foretas en særskilt vurdering av behovet for restriksjoner for oppføring av bygninger som er vanskelige å evakuere.
+(1) Med unntak av bygninger som omfattes av [§ 7-3](forskrift/2017-06-19-840/§7-3) første ledd, kan det tillates utbygging i områder med fare for fjellskred og flodbølge som følge av fjellskred, dersom følgende vilkår er oppfylt:
 
-(2) Der utbygging er i samsvar med arealplan og kartlegging gjennomført etter at reguleringsplan er vedtatt, viser at sannsynligheten for fjellskred eller flodbølge som følge av fjellskred er 1/1000 eller mindre, kan utbygging tillates dersom følgende vilkår er oppfylt:Personsikkerheten er ivaretatt ved et forsvarlig beredskapssystem, basert på periodisk eller sanntids overvåking, varsling og evakuering,Faren for fjellskred eller flodbølge som følge av fjellskred er synliggjort i reguleringsplan gjennom forenklet planendring, jf. [plan- og bygningsloven § 12-14](lov/2008-06-27-71/§12-14) andre og tredje ledd,I planprosessen skal mulige fysiske sikringstiltak utredes, og det skal stilles som vilkår for tillatelse at hensiktsmessige sikringstiltak gjennomføres,Det må utarbeides risiko- og sårbarhetsanalyse, jf. [plan- og bygningsloven § 4-3](lov/2008-06-27-71/§4-3), hvor det er utredet og sannsynliggjort at det ikke finnes alternative sikre byggearealer, og at utbyggingen er av avgjørende samfunnsmessig betydning, ogDet er utarbeidet beredskapsplaner i det aktuelle området som ivaretar personsikkerheten og kommunens funksjoner- og tjenesteområder av betydning for liv og helse. Av hensyn til sikkerheten for brukerne, skal det foretas en særskilt vurdering av behovet for restriksjoner for oppføring av bygninger som er vanskelige å evakuere.Berørte regionale og statlige myndigheter, skal få mulighet til å uttale seg.
+1. Utbygging i fareområdet er avklart i arealplan. Gjennom planprosessen skal det være utredet og sannsynliggjort at det ikke finnes alternative sikre byggearealer, og at utbygging er av avgjørende samfunnsmessig betydning. Gjennom planprosessen skal også mulige fysiske sikringstiltak utredes, og det skal stilles som vilkår for tillatelse at hensiktsmessige sikringstiltak gjennomføres.
+2. Personsikkerheten er ivaretatt ved et forsvarlig beredskapssystem. Denne skal være basert på periodisk eller sanntids overvåking, varsling og evakuering. Varslingstiden skal ikke være kortere enn 72 timer og evakueringstiden skal være på maksimum 12 timer. Av hensyn til sikkerheten for brukerne, skal det foretas en særskilt vurdering av behovet for restriksjoner for oppføring av bygninger som er vanskelige å evakuere.
+
+(2) Der utbygging er i samsvar med arealplan og kartlegging gjennomført etter at reguleringsplan er vedtatt, viser at sannsynligheten for fjellskred eller flodbølge som følge av fjellskred er 1/1000 eller mindre, kan utbygging tillates dersom følgende vilkår er oppfylt:
+
+1. Personsikkerheten er ivaretatt ved et forsvarlig beredskapssystem, basert på periodisk eller sanntids overvåking, varsling og evakuering,
+2. Faren for fjellskred eller flodbølge som følge av fjellskred er synliggjort i reguleringsplan gjennom forenklet planendring, jf. [plan- og bygningsloven § 12-14](lov/2008-06-27-71/§12-14) andre og tredje ledd,
+3. I planprosessen skal mulige fysiske sikringstiltak utredes, og det skal stilles som vilkår for tillatelse at hensiktsmessige sikringstiltak gjennomføres,
+4. Det må utarbeides risiko- og sårbarhetsanalyse, jf. [plan- og bygningsloven § 4-3](lov/2008-06-27-71/§4-3), hvor det er utredet og sannsynliggjort at det ikke finnes alternative sikre byggearealer, og at utbyggingen er av avgjørende samfunnsmessig betydning, og
+5. Det er utarbeidet beredskapsplaner i det aktuelle området som ivaretar personsikkerheten og kommunens funksjoner- og tjenesteområder av betydning for liv og helse. Av hensyn til sikkerheten for brukerne, skal det foretas en særskilt vurdering av behovet for restriksjoner for oppføring av bygninger som er vanskelige å evakuere.
+
+Berørte regionale og statlige myndigheter, skal få mulighet til å uttale seg.
 
 (3) Mindre tilbygging, påbygging eller underbygging av eksisterende byggverk kan tillates uten krav om plan og dispensasjon etter [plan- og bygningsloven kapittel 19](lov/2008-06-27-71/kap19), så fremt utvidelsen ikke fører til økt fare for skade på liv og helse.
 
@@ -248,7 +322,12 @@ Opparbeidet uteareal skal utformes slik at det er tilstrekkelig egnet til sin fu
 
 ### § 8-2. Opparbeidet uteareal med krav om universell utforming
 
-(1) Følgende opparbeidet uteareal skal være universelt utformet slik det følger av bestemmelser i forskriften:uteareal for allmennhetenuteareal for boligbygning med krav om heisuteareal for byggverk for publikumuteareal for arbeidsbygning.
+(1) Følgende opparbeidet uteareal skal være universelt utformet slik det følger av bestemmelser i forskriften:
+
+1. uteareal for allmennheten
+2. uteareal for boligbygning med krav om heis
+3. uteareal for byggverk for publikum
+4. uteareal for arbeidsbygning.
 
 (2) Første ledd gjelder ikke der utearealet eller deler av utearealet etter sin funksjon er uegnet for personer med funksjonsnedsettelse.
 
@@ -256,13 +335,25 @@ Opparbeidet uteareal skal utformes slik at det er tilstrekkelig egnet til sin fu
 
 (1) Uteoppholdsarealer skal etter sin funksjon være egnet for rekreasjon, lek og aktiviteter for ulike aldersgrupper.
 
-(2) Uteoppholdsarealer skal plasseres og utformes slik at det oppnås god kvalitet med hensyn tilsol- og lysforholdstøy- og annen miljøbelastning.
+(2) Uteoppholdsarealer skal plasseres og utformes slik at det oppnås god kvalitet med hensyn til
 
-(3) Uteoppholdsarealer skal utformes slik at personer ikke utsettes for farer. Følgende skal minst være oppfylt:Lekearealer skal avskjermes mot trafikk.Nivåforskjeller skal sikres slik at fallskader forebygges.
+1. sol- og lysforhold
+2. støy- og annen miljøbelastning.
+
+(3) Uteoppholdsarealer skal utformes slik at personer ikke utsettes for farer. Følgende skal minst være oppfylt:
+
+1. Lekearealer skal avskjermes mot trafikk.
+2. Nivåforskjeller skal sikres slik at fallskader forebygges.
 
 (4) Basseng, brønn eller lignende i uteoppholdsarealer skal sikres med gjerde, overdekking eller tilsvarende avstenging for å hindre at personer faller i dem.
 
-(5) Følgende gjelder i tillegg for uteoppholdsarealer med krav om universell utforming:Opparbeidet areal avsatt til lek og rekreasjon skal ha et horisontalt felt med fast dekke på minimum 1,6 m x 1,6 m som muliggjør deltakelse og likestilt bruk.Opparbeidet utendørs nivåforskjell skal være merket visuelt og taktilt.Stolper, rekkverk og lignende skal ha synlig kontrast til omgivelsene.Det skal være plass for rullestol der det anlegges sitteplasser.Opparbeidet badeplass skal være utstyrt eller utformet slik at det er lett å komme seg ned i og opp av vannet.
+(5) Følgende gjelder i tillegg for uteoppholdsarealer med krav om universell utforming:
+
+1. Opparbeidet areal avsatt til lek og rekreasjon skal ha et horisontalt felt med fast dekke på minimum 1,6 m x 1,6 m som muliggjør deltakelse og likestilt bruk.
+2. Opparbeidet utendørs nivåforskjell skal være merket visuelt og taktilt.
+3. Stolper, rekkverk og lignende skal ha synlig kontrast til omgivelsene.
+4. Det skal være plass for rullestol der det anlegges sitteplasser.
+5. Opparbeidet badeplass skal være utstyrt eller utformet slik at det er lett å komme seg ned i og opp av vannet.
 
 ### § 8-4. Generelle krav til gangatkomst og ganglinjer
 
@@ -272,23 +363,50 @@ Opparbeidet uteareal skal utformes slik at det er tilstrekkelig egnet til sin fu
 
 ### § 8-5. Gangatkomst til bygning med boenhet
 
-(1) Gangatkomster til bygning med boenhet skalvære trinnfrieha stigning som ikke er brattere enn 1:15, unntatt for strekninger inntil 5,0 m som kan ha stigning som ikke er brattere enn 1:12ha hvileplan med lengde minimum 1,5 m for hver 1,0 m høydeforskjell.
+(1) Gangatkomster til bygning med boenhet skal
+
+1. være trinnfrie
+2. ha stigning som ikke er brattere enn 1:15, unntatt for strekninger inntil 5,0 m som kan ha stigning som ikke er brattere enn 1:12
+3. ha hvileplan med lengde minimum 1,5 m for hver 1,0 m høydeforskjell.
 
 (2) Er terrenget for bratt til at det er mulig å oppfylle kravet til stigningsforhold, gjelder ikke første ledd for bygning med boenhet uten krav om heis.
 
 (3) Gangatkomster til bygning med krav om tilgjengelig boenhet skal ha fri bredde på minimum 1,6 m. Fri bredde kan være minimum 1,4 m på strekninger inntil 5,0 m.
 
-(4) Gangatkomster til bygning med boenhet med krav om heis skal i tillegg hafri bredde minimum 1,8 m, unntatt for strekninger inntil 5,0 m som kan ha fri bredde minimum 1,4 mtverrfall på maksimum 1:50fast og sklisikkert dekkevisuell og taktil avgrensingnødvendig belysning.
+(4) Gangatkomster til bygning med boenhet med krav om heis skal i tillegg ha
+
+1. fri bredde minimum 1,8 m, unntatt for strekninger inntil 5,0 m som kan ha fri bredde minimum 1,4 m
+2. tverrfall på maksimum 1:50
+3. fast og sklisikkert dekke
+4. visuell og taktil avgrensing
+5. nødvendig belysning.
 
 ### § 8-6. Gangatkomst til byggverk med krav om universell utforming
 
-(1) Gangatkomster til byggverk med krav om universell utforming skalvære trinnfrieha stigning som ikke er brattere enn 1:15, unntatt for strekninger inntil 5,0 m som kan ha stigning som ikke er brattere enn 1:12ha hvileplan på minimum 1,6 m x 1,6 m for hver 1,0 m høydeforskjellha fri bredde minimum 1,8 m, unntatt for strekninger inntil 5,0 m som kan ha fri bredde minimum 1,4 mha tverrfall på maksimum 1:50ha fast og sklisikkert dekkeha visuell og taktil avgrensingha nødvendig belysning.
+(1) Gangatkomster til byggverk med krav om universell utforming skal
+
+1. være trinnfrie
+2. ha stigning som ikke er brattere enn 1:15, unntatt for strekninger inntil 5,0 m som kan ha stigning som ikke er brattere enn 1:12
+3. ha hvileplan på minimum 1,6 m x 1,6 m for hver 1,0 m høydeforskjell
+4. ha fri bredde minimum 1,8 m, unntatt for strekninger inntil 5,0 m som kan ha fri bredde minimum 1,4 m
+5. ha tverrfall på maksimum 1:50
+6. ha fast og sklisikkert dekke
+7. ha visuell og taktil avgrensing
+8. ha nødvendig belysning.
 
 (2) Der terrenget er for bratt til at kravet om stigningsforhold i første ledd bokstav b kan oppnås, skal stigningen være maksimum 1:10.
 
 ### § 8-7. Gangatkomst til uteoppholdsareal med krav om universell utforming
 
-(1) Gangatkomster til uteoppholdsareal med krav om universell utforming skalvære trinnfrieha stigning som ikke er brattere enn 1:15, unntatt strekninger inntil 5,0 m som kan ha stigning som ikke er brattere enn 1:12ha hvileplan på minimum 1,6 m x 1,6 m for hver 1,0 m høydeforskjellha fri bredde minimum 1,8 m, unntatt for strekninger inntil 5,0 m som kan ha fri bredde minimum 1,4 mha tverrfall på maksimum 1:50ha fast og sklisikkert dekkeha visuell og taktil avgrensing.
+(1) Gangatkomster til uteoppholdsareal med krav om universell utforming skal
+
+1. være trinnfrie
+2. ha stigning som ikke er brattere enn 1:15, unntatt strekninger inntil 5,0 m som kan ha stigning som ikke er brattere enn 1:12
+3. ha hvileplan på minimum 1,6 m x 1,6 m for hver 1,0 m høydeforskjell
+4. ha fri bredde minimum 1,8 m, unntatt for strekninger inntil 5,0 m som kan ha fri bredde minimum 1,4 m
+5. ha tverrfall på maksimum 1:50
+6. ha fast og sklisikkert dekke
+7. ha visuell og taktil avgrensing.
 
 (2) Dersom flere uteoppholdsarealer har samme funksjon, er det tilstrekkelig at minst ett av disse har gangatkomst som oppfyller kravene i første ledd bokstav b. Øvrige gangatkomster skal ha stigning maksimum 1:10.
 
@@ -296,7 +414,11 @@ Opparbeidet uteareal skal utformes slik at det er tilstrekkelig egnet til sin fu
 
 ### § 8-8. Parkeringsplass, annet oppstillingsareal og kjøreatkomst
 
-(1) Bygning med boenhet med krav om heis, byggverk med krav om universell utforming og uteareal for allmennheten, skal ha tilstrekkelig antall parkeringsplasser for forflytningshemmede der det er stilt krav om parkering i eller i medhold av [plan- og bygningsloven](lov/2008-06-27-71). For disse parkeringsplassene gjelder følgende:Parkeringsplassen skal være nær hovedinngang.Parkeringsplassen skal ha tilfredsstillende belysning.Parkeringsplassen skal være tydelig skiltet og merket.
+(1) Bygning med boenhet med krav om heis, byggverk med krav om universell utforming og uteareal for allmennheten, skal ha tilstrekkelig antall parkeringsplasser for forflytningshemmede der det er stilt krav om parkering i eller i medhold av [plan- og bygningsloven](lov/2008-06-27-71). For disse parkeringsplassene gjelder følgende:
+
+1. Parkeringsplassen skal være nær hovedinngang.
+2. Parkeringsplassen skal ha tilfredsstillende belysning.
+3. Parkeringsplassen skal være tydelig skiltet og merket.
 
 (2) Bygning med boenhet med krav om heis, byggverk med krav om universell utforming og uteareal for allmennheten, skal ha tilstrekkelig oppstillingsareal for rullestol, barnevogn og lignende tilpasset byggverkets og utearealets størrelse og funksjon.
 
@@ -304,7 +426,12 @@ Opparbeidet uteareal skal utformes slik at det er tilstrekkelig egnet til sin fu
 
 (4) Der det er stilt krav om parkering i eller i medhold av [plan- og bygningsloven](lov/2008-06-27-71) skal parkeringsplass klargjøres med føringsvei og plass for elektrisk infrastruktur for ladeanlegg til elbil.
 
-(5) Fjerde ledd gjelder ikke forfritidsbolig som ikke har kjøreatkomstbyggverk som ikke er koblet til strømnettettiltak på eksisterende byggverk som ikke er hovedombygginghovedombygging der kostnaden for oppfyllelse av kravet i fjerde ledd overstiger syv prosent av totalkostnaden ved hovedombyggingen.
+(5) Fjerde ledd gjelder ikke for
+
+1. fritidsbolig som ikke har kjøreatkomst
+2. byggverk som ikke er koblet til strømnettet
+3. tiltak på eksisterende byggverk som ikke er hovedombygging
+4. hovedombygging der kostnaden for oppfyllelse av kravet i fjerde ledd overstiger syv prosent av totalkostnaden ved hovedombyggingen.
 
 > Endret ved [forskrift 28 april 2021 nr. 1315](forskrift/2021-04-28-1315) (i kraft 1 juli 2021).
 
@@ -312,7 +439,13 @@ Opparbeidet uteareal skal utformes slik at det er tilstrekkelig egnet til sin fu
 
 (1) Trapper i utearealer skal være lette og sikre å gå i.
 
-(2) Trapper i utearealer med krav om universell utforming skal i tillegg hajevn stigning og samme høyde på opptrinnhåndløper på begge sider som følger hele trappeløpet og avsluttes med avrundet kant etter første og siste trinntaktilt og visuelt farefelt foran det øverste trinnetoppmerksomhetsfelt foran og inntil det nederste trinnetsynlig kontrastmarkering på trappeforkanten på de øvrige inntrinnene.
+(2) Trapper i utearealer med krav om universell utforming skal i tillegg ha
+
+1. jevn stigning og samme høyde på opptrinn
+2. håndløper på begge sider som følger hele trappeløpet og avsluttes med avrundet kant etter første og siste trinn
+3. taktilt og visuelt farefelt foran det øverste trinnet
+4. oppmerksomhetsfelt foran og inntil det nederste trinnet
+5. synlig kontrastmarkering på trappeforkanten på de øvrige inntrinnene.
 
 ### § 8-10. (Opphevet)
 
@@ -336,7 +469,10 @@ Ved planlegging av byggverk skal det undersøkes om det finnes forurenset grunn.
 
 ### § 9-4. Utvalgte naturtyper
 
-Følgende bestemmelser gjelder når det er fastsatt forskrift i medhold av [naturmangfoldloven § 52](lov/2009-06-19-100/§52) og [§ 53](lov/2009-06-19-100/§53) femte ledd om bestemte naturtyper, der forekomster finnes i kommunen og forholdet til naturtypen ikke er avklart gjennom en rettslig bindende plan:Ved oppføring, plassering og utforming av tiltaket skal det tas særskilt hensyn til forekomster av en utvalgt naturtype for å unngå forringelse av naturtypens utbredelse og forekomstens økologiske tilstand.Der konsekvensene for den utvalgte naturtypen ikke er klarlagt etter reglene om konsekvensvurderinger i [plan- og bygningsloven kapittel 4](lov/2008-06-27-71/kap4), skal tiltakshaver utarbeide en konsekvensanalyse for tiltakets virkninger på naturtypen.
+Følgende bestemmelser gjelder når det er fastsatt forskrift i medhold av [naturmangfoldloven § 52](lov/2009-06-19-100/§52) og [§ 53](lov/2009-06-19-100/§53) femte ledd om bestemte naturtyper, der forekomster finnes i kommunen og forholdet til naturtypen ikke er avklart gjennom en rettslig bindende plan:
+
+1. Ved oppføring, plassering og utforming av tiltaket skal det tas særskilt hensyn til forekomster av en utvalgt naturtype for å unngå forringelse av naturtypens utbredelse og forekomstens økologiske tilstand.
+2. Der konsekvensene for den utvalgte naturtypen ikke er klarlagt etter reglene om konsekvensvurderinger i [plan- og bygningsloven kapittel 4](lov/2008-06-27-71/kap4), skal tiltakshaver utarbeide en konsekvensanalyse for tiltakets virkninger på naturtypen.
 
 ### § 9-5. Byggavfall og ombruk
 
@@ -348,7 +484,12 @@ Følgende bestemmelser gjelder når det er fastsatt forskrift i medhold av [natu
 
 ### § 9-6. Avfallsplan
 
-(1) For følgende tiltak skal det utarbeides en avfallsplan som gjør rede for planlagt håndtering av byggavfallet fordelt på ulike avfallstyper og -mengder:oppføring, tilbygging, påbygging og underbygging av bygningen dersom tiltaket overskrider 300 m2 BRAvesentlig endring, herunder fasadeendring, eller vesentlig reparasjon av bygningen dersom tiltaket omfatter mer enn 100 m2 BRA av bygningenriving av bygning eller del av bygning som overskrider 100 m2 BRAoppføring, tilbygging, påbygging, underbygging, endring eller riving av bygninger, konstruksjoner og anlegg dersom tiltaket genererer over 10 tonn bygg- og rivningsavfall.
+(1) For følgende tiltak skal det utarbeides en avfallsplan som gjør rede for planlagt håndtering av byggavfallet fordelt på ulike avfallstyper og -mengder:
+
+1. oppføring, tilbygging, påbygging og underbygging av bygningen dersom tiltaket overskrider 300 m2 BRA
+2. vesentlig endring, herunder fasadeendring, eller vesentlig reparasjon av bygningen dersom tiltaket omfatter mer enn 100 m2 BRA av bygningen
+3. riving av bygning eller del av bygning som overskrider 100 m2 BRA
+4. oppføring, tilbygging, påbygging, underbygging, endring eller riving av bygninger, konstruksjoner og anlegg dersom tiltaket genererer over 10 tonn bygg- og rivningsavfall.
 
 (2) Tiltak som omfatter flere bygninger, konstruksjoner eller anlegg skal vurderes under ett.
 
@@ -362,9 +503,28 @@ Følgende bestemmelser gjelder når det er fastsatt forskrift i medhold av [natu
 
 (3) For søknadspliktige tiltak nevnt i § 9-6 første ledd bokstav b til d skal det for eksisterende boligblokk og yrkesbygning kartlegges om noen av bygningsfraksjonene som skal fjernes, er egnet for ombruk. Det skal utarbeides en egen rapport fra ombrukskartleggingen.
 
-(4) Rapporten fra miljøkartleggingen skal minst inneholde opplysninger omhvem kartleggingen er utført avdato for kartleggingenbyggeår og tidligere bruk, hvis dette er kjentresultat av representative materialprøver og analyserforekomsten og mengden av farlig avfall og andre bygningsfraksjoner som må fjernes, fordelt på typeplassering av farlig avfall og andre bygningsfraksjoner som må fjernes i byggverket, angitt med bilde eller tegning der det kan være tvilhvordan farlig avfall er identifisert gjennom merking, skilting eller andre tiltakhvordan det farlige avfallet og andre bygningsfraksjoner som må fjernes, er planlagt fjernethvor det farlige avfallet er planlagt levertalle funn av farlig avfall og andre bygningsfraksjoner som må fjernes, sammenstilt i en tabell.
+(4) Rapporten fra miljøkartleggingen skal minst inneholde opplysninger om
 
-(5) Rapporten fra ombrukskartleggingen skal minst inneholde opplysninger omhvem kartleggingen er utført avdato for kartleggingennavn på kommune, gnr. og bnr.byggeår og tidligere bruk, hvis dette er kjentforekomsten av, mengden av og typen materialer eller bygningsfraksjoner egnet for ombruk, samt vurdering av restlevetidopprinnelig byggevaredokumentasjon, hvis dette finnesalle identifiserte materialer eller bygningsfraksjoner egnet for ombruk sammenstilt i en tabell i henhold til Norsk Standard NS 3451:2022 Bygningsdelstabell og systemkodetabell for bygninger og tilhørende uteområder.
+1. hvem kartleggingen er utført av
+2. dato for kartleggingen
+3. byggeår og tidligere bruk, hvis dette er kjent
+4. resultat av representative materialprøver og analyser
+5. forekomsten og mengden av farlig avfall og andre bygningsfraksjoner som må fjernes, fordelt på type
+6. plassering av farlig avfall og andre bygningsfraksjoner som må fjernes i byggverket, angitt med bilde eller tegning der det kan være tvil
+7. hvordan farlig avfall er identifisert gjennom merking, skilting eller andre tiltak
+8. hvordan det farlige avfallet og andre bygningsfraksjoner som må fjernes, er planlagt fjernet
+9. hvor det farlige avfallet er planlagt levert
+10. alle funn av farlig avfall og andre bygningsfraksjoner som må fjernes, sammenstilt i en tabell.
+
+(5) Rapporten fra ombrukskartleggingen skal minst inneholde opplysninger om
+
+1. hvem kartleggingen er utført av
+2. dato for kartleggingen
+3. navn på kommune, gnr. og bnr.
+4. byggeår og tidligere bruk, hvis dette er kjent
+5. forekomsten av, mengden av og typen materialer eller bygningsfraksjoner egnet for ombruk, samt vurdering av restlevetid
+6. opprinnelig byggevaredokumentasjon, hvis dette finnes
+7. alle identifiserte materialer eller bygningsfraksjoner egnet for ombruk sammenstilt i en tabell i henhold til Norsk Standard NS 3451:2022 Bygningsdelstabell og systemkodetabell for bygninger og tilhørende uteområder.
 
 > Endret ved forskrifter [3 mars 2020 nr. 242](forskrift/2020-03-03-242) (i kraft 1 juli 2020), [29 mai 2022 nr. 945](forskrift/2022-05-29-945) (i kraft 1 juli 2022, se endringsforskriftens del II for overgangsregel som gjelder frem til 1. juli 2023).
 
@@ -472,7 +632,10 @@ Byggverk der den forutsatte bruken kan medføre fare for eksplosjon, skal prosje
 
 ### § 11-6. Tiltak mot brannspredning mellom byggverk
 
-(1) Brannspredning mellom byggverk skal forebygges slik atsikkerheten for personer og husdyr ivaretasbrann ikke kan føre til urimelige store økonomiske tap eller samfunnsmessige konsekvenser.
+(1) Brannspredning mellom byggverk skal forebygges slik at
+
+1. sikkerheten for personer og husdyr ivaretas
+2. brann ikke kan føre til urimelige store økonomiske tap eller samfunnsmessige konsekvenser.
 
 (2) Mellom lave byggverk skal det være minimum 8,0 m innbyrdes avstand, med mindre det er truffet tiltak for å hindre spredning av brann mellom byggverkene i løpet av den tiden som kreves for rømning og redning i det andre byggverket. Bestemmelsen kommer ikke til anvendelse for lave byggverk som samlet utgjør én bruksenhet.
 
@@ -484,13 +647,21 @@ Byggverk der den forutsatte bruken kan medføre fare for eksplosjon, skal prosje
 
 (6) Byggverk som medfører særlig stor sannsynlighet for spredning av brann, enten i seg selv eller ved virksomheten som er i dem, skal prosjekteres, utføres og sikres eller plasseres slik at den særlig store sannsynligheten for brannspredning til andre byggverk reduseres til et akseptabelt nivå.
 
-(7) For lovlig etablerte campingplasser gjelder følgende:Mellom campingenheter kan avstanden i annet ledd reduseres til minimum 4,0 meter dersom det totale arealet for campingenheten ikke overstiger 75 m2 og campingenheten ikke på noe punkt overstiger en høyde på 4,0 meter over bakken. I en campingenhet inngår en campingvogn, bobil, villavogn, husvogn o.l. med tilhørende telt, fortelt, spikertelt, terrasse, levegg og lignende byggverk.Avstanden måles fra ytterpunkt til ytterpunkt på campingenheten. [Kapittel 5](forskrift/2017-06-19-840/kap5) og [6](forskrift/2017-06-19-840/kap6) kommer ikke til anvendelse ved beregning av areal, høyde og avstand for campingenheter, men gjelder ved beregning av avstand til nabogrense.Campingplass skal deles opp i parseller med grunnareal på maksimalt 1 200 m2. Mellom parsellene skal det være branngater på minimum 8,0 meter bredde.
+(7) For lovlig etablerte campingplasser gjelder følgende:
+
+1. Mellom campingenheter kan avstanden i annet ledd reduseres til minimum 4,0 meter dersom det totale arealet for campingenheten ikke overstiger 75 m2 og campingenheten ikke på noe punkt overstiger en høyde på 4,0 meter over bakken. I en campingenhet inngår en campingvogn, bobil, villavogn, husvogn o.l. med tilhørende telt, fortelt, spikertelt, terrasse, levegg og lignende byggverk.
+2. Avstanden måles fra ytterpunkt til ytterpunkt på campingenheten. [Kapittel 5](forskrift/2017-06-19-840/kap5) og [6](forskrift/2017-06-19-840/kap6) kommer ikke til anvendelse ved beregning av areal, høyde og avstand for campingenheter, men gjelder ved beregning av avstand til nabogrense.
+3. Campingplass skal deles opp i parseller med grunnareal på maksimalt 1 200 m2. Mellom parsellene skal det være branngater på minimum 8,0 meter bredde.
 
 > Endret ved [forskrift 9 des 2021 nr. 3448](forskrift/2021-12-09-3448) (i kraft 1 mars 2022).
 
 ### § 11-7. Brannseksjoner
 
-(1) Byggverk skal deles opp i brannseksjoner for åsikre liv og helse der rømning og redning kan ta lang tidhindre urimelig store økonomiske eller materielle tapbidra til at en brann, med påregnelig slokkeinnsats, begrenses til den brannseksjonen der den startet.
+(1) Byggverk skal deles opp i brannseksjoner for å
+
+1. sikre liv og helse der rømning og redning kan ta lang tid
+2. hindre urimelig store økonomiske eller materielle tap
+3. bidra til at en brann, med påregnelig slokkeinnsats, begrenses til den brannseksjonen der den startet.
 
 (2) Seksjoneringsvegg skal prosjekteres og utføres slik at en brann, med påregnelig slokkeinnsats, kan begrenses til den brannseksjonen der den startet.
 
@@ -532,9 +703,16 @@ Byggverk der den forutsatte bruken kan medføre fare for eksplosjon, skal prosje
 
 ### § 11-12. Tiltak for å påvirke rømnings- og redningstider
 
-(1) I byggverk som er beregnet for virksomhet hvor rømning og redning kan ta lang tid, skal det brukes aktive tiltak som øker den tilgjengelige rømningstiden. Følgende skal minst være oppfylt:Byggverk eller del av byggverk i risikoklasse 4 hvor det kreves heis, skal ha automatisk brannslokkeanlegg. Deler av et byggverk med og uten automatisk brannslokkeanlegg skal være ulike brannseksjoner.Byggverk i risikoklasse 6 skal ha automatisk brannslokkeanlegg.Der det er krav om automatisk brannslokkeanlegg, kan det likevel benyttes andre tiltak som gir tilsvarende sikkerhet ved å hindre, begrense eller kontrollere en brann lokalt der den oppstår.
+(1) I byggverk som er beregnet for virksomhet hvor rømning og redning kan ta lang tid, skal det brukes aktive tiltak som øker den tilgjengelige rømningstiden. Følgende skal minst være oppfylt:
 
-(2) Byggverk skal ha utstyr for tidlig oppdagelse av brann slik at den nødvendige rømningstiden reduseres. Følgende skal minst være oppfylt:Byggverk beregnet for virksomhet i risikoklasse 2 til 6 skal ha brannalarmanlegg.I byggverk beregnet for få personer og byggverk av mindre størrelse kan det brukes røykvarslere dersom rømningsforholdene er særlig enkle og oversiktlige. Røykvarslere skal være tilknyttet strømforsyningen og ha batteri som reserveløsning. I branncelle med behov for flere røykvarslere skal varslerne være seriekoblet. I byggverk uten strømforsyning kan det benyttes batteridrevne røykvarslere.
+1. Byggverk eller del av byggverk i risikoklasse 4 hvor det kreves heis, skal ha automatisk brannslokkeanlegg. Deler av et byggverk med og uten automatisk brannslokkeanlegg skal være ulike brannseksjoner.
+2. Byggverk i risikoklasse 6 skal ha automatisk brannslokkeanlegg.
+3. Der det er krav om automatisk brannslokkeanlegg, kan det likevel benyttes andre tiltak som gir tilsvarende sikkerhet ved å hindre, begrense eller kontrollere en brann lokalt der den oppstår.
+
+(2) Byggverk skal ha utstyr for tidlig oppdagelse av brann slik at den nødvendige rømningstiden reduseres. Følgende skal minst være oppfylt:
+
+1. Byggverk beregnet for virksomhet i risikoklasse 2 til 6 skal ha brannalarmanlegg.
+2. I byggverk beregnet for få personer og byggverk av mindre størrelse kan det brukes røykvarslere dersom rømningsforholdene er særlig enkle og oversiktlige. Røykvarslere skal være tilknyttet strømforsyningen og ha batteri som reserveløsning. I branncelle med behov for flere røykvarslere skal varslerne være seriekoblet. I byggverk uten strømforsyning kan det benyttes batteridrevne røykvarslere.
 
 (3) I byggverk hvor flukt- og rømningsveiene er lange og har retningsendringer eller skal benyttes av mange personer, skal flukt- og rømningsveiene ha god belysning og være merket slik at rømning kan skje på en rask og effektiv måte. Store byggverk, byggverk beregnet for et stort antall personer og byggverk beregnet for virksomhet i risikoklasse 5 og 6 skal ha ledesystem.
 
@@ -556,7 +734,10 @@ Byggverk der den forutsatte bruken kan medføre fare for eksplosjon, skal prosje
 
 (6) Fra brannceller som bare er beregnet for sporadisk personopphold kan utgang gå gjennom annen branncelle.
 
-(7) Dør til rømningsvei skal prosjekteres og utføres slik at den sikrer rask rømning og slik at det ikke oppstår fare for oppstuving. Følgende skal minst være oppfylt:Døren skal ha tilstrekkelig bredde og høyde, og skal være lett å åpne uten bruk av nøkkel.Døren skal slå ut i rømningsretningen. Dør til rømningsvei kan likevel slå mot rømningsretningen dersom det ikke er fare for oppstuving ved rømning.
+(7) Dør til rømningsvei skal prosjekteres og utføres slik at den sikrer rask rømning og slik at det ikke oppstår fare for oppstuving. Følgende skal minst være oppfylt:
+
+1. Døren skal ha tilstrekkelig bredde og høyde, og skal være lett å åpne uten bruk av nøkkel.
+2. Døren skal slå ut i rømningsretningen. Dør til rømningsvei kan likevel slå mot rømningsretningen dersom det ikke er fare for oppstuving ved rømning.
 
 ### § 11-14. Rømningsvei
 
@@ -568,7 +749,10 @@ Byggverk der den forutsatte bruken kan medføre fare for eksplosjon, skal prosje
 
 (4) Hovedatkomst til byggverk eller del av byggverk for større personantall, skal være tilrettelagt for sikker rømning.
 
-(5) Dør i rømningsvei skal prosjekteres og utføres slik at den sikrer rask rømning og slik at det ikke oppstår fare for oppstuving. Følgende skal minst være oppfylt:Døren skal ha tilstrekkelig bredde og høyde, og skal være lett å åpne uten bruk av nøkkel.Døren skal slå ut i rømningsretningen. Dør i rømningsvei kan likevel slå mot rømningsretningen dersom det ikke er fare for oppstuving ved rømning.
+(5) Dør i rømningsvei skal prosjekteres og utføres slik at den sikrer rask rømning og slik at det ikke oppstår fare for oppstuving. Følgende skal minst være oppfylt:
+
+1. Døren skal ha tilstrekkelig bredde og høyde, og skal være lett å åpne uten bruk av nøkkel.
+2. Døren skal slå ut i rømningsretningen. Dør i rømningsvei kan likevel slå mot rømningsretningen dersom det ikke er fare for oppstuving ved rømning.
 
 (6) Overbygget gård eller gate kan benyttes som rømningsvei dersom den er tilrettelagt for sikker rømning. Det skal i tillegg finnes alternativ rømningsvei utenom det overbygde arealet. Mindre brannceller som ligger på gårdsplanet, kan benytte det overbygde arealet som rømningsvei fra begge utgangene, forutsatt at arealet er tilrettelagt for sikker rømning.
 
@@ -618,11 +802,21 @@ Byggverk som er beregnet for husdyrhold, skal være prosjektert og utført for r
 
 ### § 12-3. Krav om heis i byggverk
 
-(1) Det er krav om heis i byggverk for publikum og i arbeidsbygninger med to etasjer eller flere. I byggverk med inntil tre etasjer og med liten persontrafikk kan løfteplattform erstatte heis. Heiser og løfteplattformer skal være utformet i samsvar med henholdsvis heisdirektivet og maskindirektivet. Det gjelder følgende krav til størrelser:I byggverk med tre etasjer eller flere skal minst én heisstol ha innvendig størrelse på minimum 1,1 m x 2,1 m.I byggverk med to etasjer skal minst én heisstol ha innvendig størrelse på minimum 1,1 m x 1,6 m.Løfteplattformer skal ha innvendig størrelse på minimum 1,1 m x 1,6 m.
+(1) Det er krav om heis i byggverk for publikum og i arbeidsbygninger med to etasjer eller flere. I byggverk med inntil tre etasjer og med liten persontrafikk kan løfteplattform erstatte heis. Heiser og løfteplattformer skal være utformet i samsvar med henholdsvis heisdirektivet og maskindirektivet. Det gjelder følgende krav til størrelser:
 
-(2) Det er krav om heis i bygninger med tre etasjer eller flere som har boenhet. Løfteplattform kan erstatte heis i bygninger med tre etasjer som har boenhet. Løfteplattformen skal maksimalt betjene seks boenheter. Det gjelder følgende krav til størrelser:Minst én heisstol skal ha innvendig størrelse på minimum 1,1 m x 2,1 m.Løfteplattformer skal ha innvendig størrelse på minimum 1,1 m x 1,4 m.
+1. I byggverk med tre etasjer eller flere skal minst én heisstol ha innvendig størrelse på minimum 1,1 m x 2,1 m.
+2. I byggverk med to etasjer skal minst én heisstol ha innvendig størrelse på minimum 1,1 m x 1,6 m.
+3. Løfteplattformer skal ha innvendig størrelse på minimum 1,1 m x 1,6 m.
 
-(3) Kravet om heis eller løfteplattform i annet ledd gjelder ikkesmåhus med én boenhetder atkomst fra inngangsparti til boenhet maksimalt går over én etasje.
+(2) Det er krav om heis i bygninger med tre etasjer eller flere som har boenhet. Løfteplattform kan erstatte heis i bygninger med tre etasjer som har boenhet. Løfteplattformen skal maksimalt betjene seks boenheter. Det gjelder følgende krav til størrelser:
+
+1. Minst én heisstol skal ha innvendig størrelse på minimum 1,1 m x 2,1 m.
+2. Løfteplattformer skal ha innvendig størrelse på minimum 1,1 m x 1,4 m.
+
+(3) Kravet om heis eller løfteplattform i annet ledd gjelder ikke
+
+1. småhus med én boenhet
+2. der atkomst fra inngangsparti til boenhet maksimalt går over én etasje.
 
 (4) Ved beregning av etasjetall for krav om heis, gjelder ikke unntakene i [§ 6-1](forskrift/2017-06-19-840/§6-1) bokstav a til c.
 
@@ -632,7 +826,13 @@ Byggverk som er beregnet for husdyrhold, skal være prosjektert og utført for r
 
 (1) Inngangspartier skal være godt synlige, sentralt plasserte og oversiktlige i forhold til atkomst. Inngangspartiet skal være sikkert og enkelt å bruke.
 
-(2) For bygninger med krav om tilgjengelig boenhet og for byggverk med krav om universell utforming skal følgende være oppfylt:Inngangspartier skal ha belysning slik at inngangsparti og hovedinngangsdør er synlig i forhold til omliggende flater.Det skal være et visuelt og taktilt oppmerksomhetsfelt foran hovedinngangsdører.Inngangspartier skal være trinnfrie.Utenfor hovedinngangsdører skal det være et horisontalt felt på minimum 1,5 m x 1,5 m. Hvis det er sidehengslet dør skal feltet ligge utenfor dørens slagradius.Betjening for automatisk døråpner skal plasseres slik at den er tilgjengelig for personer i rullestol og slik at en unngår sammenstøt med døren.
+(2) For bygninger med krav om tilgjengelig boenhet og for byggverk med krav om universell utforming skal følgende være oppfylt:
+
+1. Inngangspartier skal ha belysning slik at inngangsparti og hovedinngangsdør er synlig i forhold til omliggende flater.
+2. Det skal være et visuelt og taktilt oppmerksomhetsfelt foran hovedinngangsdører.
+3. Inngangspartier skal være trinnfrie.
+4. Utenfor hovedinngangsdører skal det være et horisontalt felt på minimum 1,5 m x 1,5 m. Hvis det er sidehengslet dør skal feltet ligge utenfor dørens slagradius.
+5. Betjening for automatisk døråpner skal plasseres slik at den er tilgjengelig for personer i rullestol og slik at en unngår sammenstøt med døren.
 
 ### § 12-5. Sikkerhet i bruk
 
@@ -648,21 +848,45 @@ Byggverk skal ha en utforming som forebygger fare for skade på personer og husd
 
 (4) Åpninger i gulv skal sikres slik at personer og husdyr ikke utsettes for fare.
 
-(5) For bygninger med krav om tilgjengelig boenhet skal i tillegg til første til fjerde ledd, følgende være oppfylt:Kommunikasjonsveier til tilgjengelig boenhet skal være trinnfrie.Korridor og svalgang skal ha fri bredde på minimum 1,5 m. I lange korridorer skal det avsettes tilstrekkelig areal til at to rullestoler kan passere hverandre. Strekninger under 5,0 m der det ikke er dør, kan ha fri bredde på minimum 1,2 m.
+(5) For bygninger med krav om tilgjengelig boenhet skal i tillegg til første til fjerde ledd, følgende være oppfylt:
 
-(6) For byggverk med krav om universell utforming skal i tillegg til første til fjerde ledd, følgende være oppfylt:Kommunikasjonsveier skal være trinnfrie. Stigninger skal ikke være brattere enn 1:15.Korridorer og svalganger skal ha fri bredde på minimum 1,5 m. I lange korridorer skal det avsettes tilstrekkelig areal til at to rullestoler kan passere hverandre. Strekninger under 5,0 m der det ikke er dør, kan ha fri bredde på minimum 1,2 m.Det skal være skilt og merking som gir nødvendig informasjon. Skilt og merking skal være lette å lese og oppfatte. Det skal være synlig luminanskontrast på minimum 0,8 mellom tekst og bunnfarge. Skilt og merking skal plasseres tilgjengelig og lett synlig både for sittende og gående. Etasjetall skal være visuelt og taktilt lesbart i alle etasjer.Auditiv informasjon skal suppleres med visuell informasjon.Blendende motlys skal unngås i kommunikasjonsveier.Søyler og lignende skal plasseres slik at de ikke er til hinder i kommunikasjonsveier. For å unngå fare for sammenstøt skal søyler og lignende ha luminanskontrast på minimum 0,4 til omgivelsene eller merkes i to høyder med luminanskontrast på minimum 0,8 til bakgrunnsfargen.Ved endring av gangretning skal retningsinformasjonen angis dersom det er nødvendig. Repeterende informasjon skal være mest mulig lik i hele bygningen.Store rom, der sentrale ganglinjer går på tvers av åpne arealer, skal ha definert gangsone eller nødvendig ledelinje. En skal unngå å bruke mønster i gulv som gir villedende retningsinformasjon.
+1. Kommunikasjonsveier til tilgjengelig boenhet skal være trinnfrie.
+2. Korridor og svalgang skal ha fri bredde på minimum 1,5 m. I lange korridorer skal det avsettes tilstrekkelig areal til at to rullestoler kan passere hverandre. Strekninger under 5,0 m der det ikke er dør, kan ha fri bredde på minimum 1,2 m.
+
+(6) For byggverk med krav om universell utforming skal i tillegg til første til fjerde ledd, følgende være oppfylt:
+
+1. Kommunikasjonsveier skal være trinnfrie. Stigninger skal ikke være brattere enn 1:15.
+2. Korridorer og svalganger skal ha fri bredde på minimum 1,5 m. I lange korridorer skal det avsettes tilstrekkelig areal til at to rullestoler kan passere hverandre. Strekninger under 5,0 m der det ikke er dør, kan ha fri bredde på minimum 1,2 m.
+3. Det skal være skilt og merking som gir nødvendig informasjon. Skilt og merking skal være lette å lese og oppfatte. Det skal være synlig luminanskontrast på minimum 0,8 mellom tekst og bunnfarge. Skilt og merking skal plasseres tilgjengelig og lett synlig både for sittende og gående. Etasjetall skal være visuelt og taktilt lesbart i alle etasjer.
+4. Auditiv informasjon skal suppleres med visuell informasjon.
+5. Blendende motlys skal unngås i kommunikasjonsveier.
+6. Søyler og lignende skal plasseres slik at de ikke er til hinder i kommunikasjonsveier. For å unngå fare for sammenstøt skal søyler og lignende ha luminanskontrast på minimum 0,4 til omgivelsene eller merkes i to høyder med luminanskontrast på minimum 0,8 til bakgrunnsfargen.
+7. Ved endring av gangretning skal retningsinformasjonen angis dersom det er nødvendig. Repeterende informasjon skal være mest mulig lik i hele bygningen.
+8. Store rom, der sentrale ganglinjer går på tvers av åpne arealer, skal ha definert gangsone eller nødvendig ledelinje. En skal unngå å bruke mønster i gulv som gir villedende retningsinformasjon.
 
 ### § 12-7. Krav til utforming av rom og annet oppholdsareal
 
 (1) Rom og annet oppholdsareal skal ha utforming, romhøyde og størrelse tilpasset sin funksjon.
 
-(2) For romhøyde i boenheter gjelder følgende:Rom for varig opphold skal ha høyde minimum 2,4 m.Rom som ikke er for varig opphold skal ha høyde minimum 2,2 m.Frittliggende boligbygning inntil 30 m2 BRA med én boenhet i én etasje uten kjeller som ikke på noe punkt overstiger en høyde på 4,5 m over bakken og fritidsbolig med én boenhet skal ha høyde minimum 2,2 m.Deler av et rom kan ha lavere høyde der dette ikke påvirker rommets tiltenkte funksjon.
+(2) For romhøyde i boenheter gjelder følgende:
+
+1. Rom for varig opphold skal ha høyde minimum 2,4 m.
+2. Rom som ikke er for varig opphold skal ha høyde minimum 2,2 m.
+3. Frittliggende boligbygning inntil 30 m2 BRA med én boenhet i én etasje uten kjeller som ikke på noe punkt overstiger en høyde på 4,5 m over bakken og fritidsbolig med én boenhet skal ha høyde minimum 2,2 m.
+4. Deler av et rom kan ha lavere høyde der dette ikke påvirker rommets tiltenkte funksjon.
 
 (3) Ved bruksendring i boenhet fra tilleggsdel til hoveddel eller omvendt, kan romhøyden være lavere enn 2,4 m.
 
-(4) Tilgjengelig boenhet skal være dimensjonert for rullestol på inngangsplanet. Følgende skal være oppfylt:Rom skal ha trinnfri tilgang og snuareal for rullestol.Rom skal utformes slik at personer i rullestol kan betjene nødvendige funksjoner på en tilfredsstillende måte.Rom for varig opphold skal ha fri passasje på minimum 0,9 m til dør og vindu utenfor møbleringssone.
+(4) Tilgjengelig boenhet skal være dimensjonert for rullestol på inngangsplanet. Følgende skal være oppfylt:
 
-(5) Rom og annet oppholdsareal i byggverk med krav om universell utforming skal hautforming og størrelse slik at likestilt deltakelse er muligtrinnfri tilgang og snuareal for rullestol. Areal for rullestol skal plasseres slik at personer i rullestol kan betjene nødvendige funksjoner på en tilfredsstillende måte.
+1. Rom skal ha trinnfri tilgang og snuareal for rullestol.
+2. Rom skal utformes slik at personer i rullestol kan betjene nødvendige funksjoner på en tilfredsstillende måte.
+3. Rom for varig opphold skal ha fri passasje på minimum 0,9 m til dør og vindu utenfor møbleringssone.
+
+(5) Rom og annet oppholdsareal i byggverk med krav om universell utforming skal ha
+
+1. utforming og størrelse slik at likestilt deltakelse er mulig
+2. trinnfri tilgang og snuareal for rullestol. Areal for rullestol skal plasseres slik at personer i rullestol kan betjene nødvendige funksjoner på en tilfredsstillende måte.
 
 (6) I byggverk med krav om universell utforming skal det være resepsjon eller informasjonstavle der dette er nødvendig. Resepsjoner og informasjonstavler skal være lette å finne og sentralt plasserte i forhold til hovedatkomsten.
 
@@ -672,15 +896,27 @@ Byggverk skal ha en utforming som forebygger fare for skade på personer og husd
 
 ### § 12-8. Entré og garderobe
 
-(1) Entré eller inngang i en tilgjengelig boenhet skal hafri passasje på minimum 0,9 m utenfor møbleringssonenplass til snuareal for rullestol utenfor dørens slagradius.
+(1) Entré eller inngang i en tilgjengelig boenhet skal ha
+
+1. fri passasje på minimum 0,9 m utenfor møbleringssonen
+2. plass til snuareal for rullestol utenfor dørens slagradius.
 
 (2) For byggverk med krav om universell utforming skal minst 1/10 av garderobene ha betjeningshøyde på maksimum 1,2 m.
 
 ### § 12-9. Bad og toalett
 
-(1) Boenheten skal ha minst ett bad og toalett der følgende skal være oppfylt:Størrelsen og planløsningen skal være slik at det er fri gulvplass til snuareal for rullestol foran toalettet, minimum 0,9 m fri gulvplass på den ene siden av toalettet og minimum 0,2 m på den andre siden. Det skal være fri passasjebredde på minimum 0,9 m fram til fri plass ved siden av toalettet.Det skal være mulighet for trinnfri dusjsone. Det skal være fri passasjebredde på minimum 0,9 m fram til dusjsonen.Vegg i dusj- og toalettsonen skal gi festemulighet for ettermontering av nødvendig utstyr.
+(1) Boenheten skal ha minst ett bad og toalett der følgende skal være oppfylt:
 
-(2) I byggverk med krav om universell utforming skal, i etasjer som har bad eller toalett, 1/10 og minst ett være utformet i samsvar med følgende:Gulvet og veggene skal ha synlig kontrast. Fastmontert utstyr skal ha synlig kontrast til gulvet og veggen.Størrelsen og planløsningen skal være slik at det er fri gulvplass til snuareal for rullestol foran toalettet og minimum 0,9 m fri gulvplass på begge sider av toalettet. Det skal være fri passasjebredde på minimum 0,9 m fram til fri plass ved siden av toalettet. Toalettet skal ha håndstøtte på begge sider.Det skal være tilstrekkelig fri plass under servanten.Dusjsonen skal være trinnfri og minimum 1,6 m x 1,3 m. Dusjhodet skal være regulerbart i høyden og dusjsonen skal gi festemulighet for montering av nødvendig utstyr.
+1. Størrelsen og planløsningen skal være slik at det er fri gulvplass til snuareal for rullestol foran toalettet, minimum 0,9 m fri gulvplass på den ene siden av toalettet og minimum 0,2 m på den andre siden. Det skal være fri passasjebredde på minimum 0,9 m fram til fri plass ved siden av toalettet.
+2. Det skal være mulighet for trinnfri dusjsone. Det skal være fri passasjebredde på minimum 0,9 m fram til dusjsonen.
+3. Vegg i dusj- og toalettsonen skal gi festemulighet for ettermontering av nødvendig utstyr.
+
+(2) I byggverk med krav om universell utforming skal, i etasjer som har bad eller toalett, 1/10 og minst ett være utformet i samsvar med følgende:
+
+1. Gulvet og veggene skal ha synlig kontrast. Fastmontert utstyr skal ha synlig kontrast til gulvet og veggen.
+2. Størrelsen og planløsningen skal være slik at det er fri gulvplass til snuareal for rullestol foran toalettet og minimum 0,9 m fri gulvplass på begge sider av toalettet. Det skal være fri passasjebredde på minimum 0,9 m fram til fri plass ved siden av toalettet. Toalettet skal ha håndstøtte på begge sider.
+3. Det skal være tilstrekkelig fri plass under servanten.
+4. Dusjsonen skal være trinnfri og minimum 1,6 m x 1,3 m. Dusjhodet skal være regulerbart i høyden og dusjsonen skal gi festemulighet for montering av nødvendig utstyr.
 
 ### § 12-10. Bod og oppbevaringsplass
 
@@ -696,7 +932,10 @@ Byggverk skal ha en utforming som forebygger fare for skade på personer og husd
 
 (2) Nivåforskjeller på mer enn 0,5 m skal sikres med rekkverk, jf. [§ 12-15](forskrift/2017-06-19-840/§12-15).
 
-(3) Følgende skal være oppfylt i bygning med krav om tilgjengelig boenhet og byggverk med krav om universell utforming:Atkomster til balkong, terrasse, uteplass og lignende skal være trinnfrie i arbeids- og publikumsbygninger og på boenhetens inngangsplan.Balkonger, terrasser og lignende skal ha fri gulvplass som gir plass til snuareal for rullestol.
+(3) Følgende skal være oppfylt i bygning med krav om tilgjengelig boenhet og byggverk med krav om universell utforming:
+
+1. Atkomster til balkong, terrasse, uteplass og lignende skal være trinnfrie i arbeids- og publikumsbygninger og på boenhetens inngangsplan.
+2. Balkonger, terrasser og lignende skal ha fri gulvplass som gir plass til snuareal for rullestol.
 
 ### § 12-12. Avfallssystem og kildesortering
 
@@ -710,23 +949,64 @@ Byggverk skal ha en utforming som forebygger fare for skade på personer og husd
 
 (1) Dør, port og lignende skal være lett å se og bruke, og skal utformes slik at de ikke skader personer, husdyr eller utstyr.
 
-(2) Bredden og høyden skal tilpasses forventet ferdsel og transport, inklusiv rømning ved brann, og skal minst oppfylle følgende:Inngangsdør og dører i kommunikasjonsveier skal ha fri bredde på minimum 0,86 m. I byggverk beregnet for mange personer skal fri bredde være på minimum 1,16 m.Dører internt i boenheter skal ha fri bredde på minimum 0,76 m.Dører internt i byggverk med krav om universell utforming skal ha fri bredde på minimum 0,86 m. Dør til bad i overnattingsrom som er unntatt fra krav til universell utforming etter [§ 12-7](forskrift/2017-06-19-840/§12-7) sjuende ledd, skal ha fri bredde på minimum 0,76 m.Dør i badstue, kjølerom og fryserom skal slå ut og kunne åpnes fra innsiden uten bruk av nøkkel.Dører skal ha fri høyde på minimum 2,0 m.
+(2) Bredden og høyden skal tilpasses forventet ferdsel og transport, inklusiv rømning ved brann, og skal minst oppfylle følgende:
 
-(3) I bygninger med krav om tilgjengelig boenhet gjelder følgende:Dører som er beregnet for manuell åpning til og i atkomst- og rømningsveier, skal kunne åpnes med åpningskraft på maksimum 30 N.Automatisk døråpner skal monteres utenfor dørens slagradius. Den skal være godt synlig og være plassert med en betjeningshøyde mellom 0,8 m og 1,2 m over gulvet. Døråpneren skal plasseres i tilstrekkelig avstand fra innvendig hjørne.Terskler skal være trinnfrie.Ved skyvedør og sidehengslet dør skal det være tilstrekkelig fri sideplass til at personer i rullestol kan åpne og lukke døren. Kravet gjelder ikke dører som har automatisk døråpner.
+1. Inngangsdør og dører i kommunikasjonsveier skal ha fri bredde på minimum 0,86 m. I byggverk beregnet for mange personer skal fri bredde være på minimum 1,16 m.
+2. Dører internt i boenheter skal ha fri bredde på minimum 0,76 m.
+3. Dører internt i byggverk med krav om universell utforming skal ha fri bredde på minimum 0,86 m. Dør til bad i overnattingsrom som er unntatt fra krav til universell utforming etter [§ 12-7](forskrift/2017-06-19-840/§12-7) sjuende ledd, skal ha fri bredde på minimum 0,76 m.
+4. Dør i badstue, kjølerom og fryserom skal slå ut og kunne åpnes fra innsiden uten bruk av nøkkel.
+5. Dører skal ha fri høyde på minimum 2,0 m.
 
-(4) I byggverk med krav om universell utforming gjelder i tillegg til første til tredje ledd følgende:Kravet til åpningskraft i tredje ledd bokstav a gjelder bare for dør til og i hovedatkomstvei og hovedrømningsvei.Dører skal være synlige i forhold til omliggende vegger. Luminanskontrasten skal være på minimum 0,4.
+(3) I bygninger med krav om tilgjengelig boenhet gjelder følgende:
+
+1. Dører som er beregnet for manuell åpning til og i atkomst- og rømningsveier, skal kunne åpnes med åpningskraft på maksimum 30 N.
+2. Automatisk døråpner skal monteres utenfor dørens slagradius. Den skal være godt synlig og være plassert med en betjeningshøyde mellom 0,8 m og 1,2 m over gulvet. Døråpneren skal plasseres i tilstrekkelig avstand fra innvendig hjørne.
+3. Terskler skal være trinnfrie.
+4. Ved skyvedør og sidehengslet dør skal det være tilstrekkelig fri sideplass til at personer i rullestol kan åpne og lukke døren. Kravet gjelder ikke dører som har automatisk døråpner.
+
+(4) I byggverk med krav om universell utforming gjelder i tillegg til første til tredje ledd følgende:
+
+1. Kravet til åpningskraft i tredje ledd bokstav a gjelder bare for dør til og i hovedatkomstvei og hovedrømningsvei.
+2. Dører skal være synlige i forhold til omliggende vegger. Luminanskontrasten skal være på minimum 0,4.
 
 ### § 12-14. Trapp
 
-(1) Trapper skal være lette og sikre å gå i. Bredde og høyde i trapper skal tilpasses den forventede ferdsel og transport, herunder rømning. Følgende skal minst være oppfylt:Trappen skal ha sikker avgrensing og håndløper på begge sider.Minst én håndløper skal være med overkant mellom 0,8 m og 0,9 m over gulvet eller trinnet.Trappen skal ha jevn stigning og samme høyde på opptrinn i hele trappens lengde.Inntrinn i ganglinjen skal være minimum 0,25 m. Trapper med rette løp skal ha samme dybde på inntrinn.Repos skal ha tilstrekkelig størrelse til å hindre og stanse fall. Det skal være repos ved høydeforskjeller på mer enn 3,3 m.Trapperom skal ha god belysning slik at trappetrinn er synlige.Inntrinn skal ha sklisikker overflate.Trapper med rette løp skal ha bredde på trappeløpet på minimum 0,90 m og fri høyde minimum 2,1 m. Trapper med rette løp internt i en boenhet skal ha bredde på trappeløpet på minimum 0,80 m og fri høyde på minimum 2,0 m.Trapper som ikke har rette løp, skal ha bredde på trappeløpet som er minimum 0,10 m bredere enn kravet i bokstav h.
+(1) Trapper skal være lette og sikre å gå i. Bredde og høyde i trapper skal tilpasses den forventede ferdsel og transport, herunder rømning. Følgende skal minst være oppfylt:
 
-(2) For hovedtrapper som betjener mer enn én boenhet gjelder, i tillegg til første ledd, følgende:Bredden på trappeløpet i trapp med rette løp skal være minimum 1,10 m og fri høyde skal være minimum 2,1 m.Håndløperen skalvære i én høyde med overkant 0,8 m eller i to høyder med overkant henholdsvis 0,9 m og 0,7 m, målt fra inntrinnets forkantføres utover øverste og nederste trinn med avrundet avslutningfølge trappeløpet, og rundt på mellomrepos.Inntrinn skal markeres slik at det oppnås luminanskontrast på minimum 0,8 i forhold til trinnfargen. Markeringen på inntrinnet skal være i hele trinnets bredde i maksimum 0,04 m dybde.Dybden på repos skal være minimum 1,5 m fra trinnforkant eller fra rekkverket til den motstående veggen.For svingt trapp skal inntrinn i den indre ganglinje være minimum 0,15 m. For svingt trapp i rømningsvei for mange personer skal minste inntrinn i den indre ganglinjen være minimum 0,20 m.
+1. Trappen skal ha sikker avgrensing og håndløper på begge sider.
+2. Minst én håndløper skal være med overkant mellom 0,8 m og 0,9 m over gulvet eller trinnet.
+3. Trappen skal ha jevn stigning og samme høyde på opptrinn i hele trappens lengde.
+4. Inntrinn i ganglinjen skal være minimum 0,25 m. Trapper med rette løp skal ha samme dybde på inntrinn.
+5. Repos skal ha tilstrekkelig størrelse til å hindre og stanse fall. Det skal være repos ved høydeforskjeller på mer enn 3,3 m.
+6. Trapperom skal ha god belysning slik at trappetrinn er synlige.
+7. Inntrinn skal ha sklisikker overflate.
+8. Trapper med rette løp skal ha bredde på trappeløpet på minimum 0,90 m og fri høyde minimum 2,1 m. Trapper med rette løp internt i en boenhet skal ha bredde på trappeløpet på minimum 0,80 m og fri høyde på minimum 2,0 m.
+9. Trapper som ikke har rette løp, skal ha bredde på trappeløpet som er minimum 0,10 m bredere enn kravet i bokstav h.
 
-(3) I byggverk med krav om universell utforming gjelder, i tillegg til kravene i første og annet ledd, følgende:Hovedtrapp med rette løp skal ha bredde på trappeløpet på minimum 1,20 m.Håndløperen skal ha luminanskontrast på minimum 0,8 i forhold til bakgrunnen. Ved begynnelsen av hver etasje skal etasjeangivelse markeres. Håndløperen skal føres minimum 0,3 m forbi øverste og nederste trinn med avrundet avslutning.Det skal være et farefelt foran det øverste trappetrinnet og et oppmerksomhetsfelt foran og inntil det nederste trinnet i hele trappens bredde. Farefeltet og oppmerksomhetsfeltet skal merkes taktilt og visuelt med luminanskontrast på minimum 0,8 i forhold til bakgrunnen.
+(2) For hovedtrapper som betjener mer enn én boenhet gjelder, i tillegg til første ledd, følgende:
+
+1. Bredden på trappeløpet i trapp med rette løp skal være minimum 1,10 m og fri høyde skal være minimum 2,1 m.
+2. Håndløperen skal
+
+   1. være i én høyde med overkant 0,8 m eller i to høyder med overkant henholdsvis 0,9 m og 0,7 m, målt fra inntrinnets forkant
+   2. føres utover øverste og nederste trinn med avrundet avslutning
+   3. følge trappeløpet, og rundt på mellomrepos.
+3. Inntrinn skal markeres slik at det oppnås luminanskontrast på minimum 0,8 i forhold til trinnfargen. Markeringen på inntrinnet skal være i hele trinnets bredde i maksimum 0,04 m dybde.
+4. Dybden på repos skal være minimum 1,5 m fra trinnforkant eller fra rekkverket til den motstående veggen.
+5. For svingt trapp skal inntrinn i den indre ganglinje være minimum 0,15 m. For svingt trapp i rømningsvei for mange personer skal minste inntrinn i den indre ganglinjen være minimum 0,20 m.
+
+(3) I byggverk med krav om universell utforming gjelder, i tillegg til kravene i første og annet ledd, følgende:
+
+1. Hovedtrapp med rette løp skal ha bredde på trappeløpet på minimum 1,20 m.
+2. Håndløperen skal ha luminanskontrast på minimum 0,8 i forhold til bakgrunnen. Ved begynnelsen av hver etasje skal etasjeangivelse markeres. Håndløperen skal føres minimum 0,3 m forbi øverste og nederste trinn med avrundet avslutning.
+3. Det skal være et farefelt foran det øverste trappetrinnet og et oppmerksomhetsfelt foran og inntil det nederste trinnet i hele trappens bredde. Farefeltet og oppmerksomhetsfeltet skal merkes taktilt og visuelt med luminanskontrast på minimum 0,8 i forhold til bakgrunnen.
 
 (4) I bygning med krav om tilgjengelig boenhet og i byggverk med krav om universell utforming skal håndløperen utformes slik at den gir et godt grep.
 
-(5) Følgende unntak gjelder fra kravene som er gitt i første til fjerde ledd:Det er ikke krav om håndløper på begge sider der den er til hinder for atkomsten til sitte- og ståplasser i amfi, tribuner og lignende.Trapp, leider eller stige som kun benyttes i forbindelse med driften av byggverket, skal utformes funksjonelt ut fra forventet bruk og slik at personsikkerheten ivaretas, men er forøvrig unntatt fra bestemmelsene i denne paragrafen. Unntaket gjelder ikke dersom trapp, leider eller stige er en del av rømningsveien.
+(5) Følgende unntak gjelder fra kravene som er gitt i første til fjerde ledd:
+
+1. Det er ikke krav om håndløper på begge sider der den er til hinder for atkomsten til sitte- og ståplasser i amfi, tribuner og lignende.
+2. Trapp, leider eller stige som kun benyttes i forbindelse med driften av byggverket, skal utformes funksjonelt ut fra forventet bruk og slik at personsikkerheten ivaretas, men er forøvrig unntatt fra bestemmelsene i denne paragrafen. Unntaket gjelder ikke dersom trapp, leider eller stige er en del av rømningsveien.
 
 ### § 12-15. Utforming av rekkverk
 
@@ -734,7 +1014,10 @@ Byggverk skal ha en utforming som forebygger fare for skade på personer og husd
 
 (2) Rekkverk i trapper og ramper skal ha høyde minimum 0,9 m over gulv eller trinn. Høydekravet gjelder også rekkverk på mellomrepos og returrekkverk på repos.
 
-(3) Balkonger, terrasser, tribuner, passasjer og lignende skal ha rekkverk med høydeminimum 1,2 m der nivåforskjellen er mer enn 10,0 mminimum 1,0 m der nivåforskjellen er inntil 10,0 m.
+(3) Balkonger, terrasser, tribuner, passasjer og lignende skal ha rekkverk med høyde
+
+1. minimum 1,2 m der nivåforskjellen er mer enn 10,0 m
+2. minimum 1,0 m der nivåforskjellen er inntil 10,0 m.
 
 (4) Nivåforskjeller til terrenget eller underliggende plan som er mindre enn 3,0 m kan sikres på annen forsvarlig måte enn med rekkverk.
 
@@ -752,7 +1035,11 @@ Byggverk skal ha en utforming som forebygger fare for skade på personer og husd
 
 ### § 12-17. Vindu og andre glassfelt
 
-(1) Vindu og andre glassfelt som ved knusing kan påføre skade på person eller husdyr, skal sikres mot sammenstøt og fall opp til høyde minimum 0,8 m over gulv. Sikringen kan være brystning, personsikkerhetsrute eller en annen forsvarlig metode. For øvrig gjelder følgende:I bygning med boenhet skal glassfelt mot balkong, terrasse og lignende være sikret. I tillegg skal vindu og andre glassfelt i yttervegg fra 6,6 m over terrenget eller en underliggende flate være sikret.I byggverk med krav om universell utforming skal vindu og andre glassfelt i yttervegg over terreng være sikret. I skoler og barnehager skal alle vinduer og andre glassfelt sikres der barn kan oppholde seg.I inngangsparti og kommunikasjonsvei skal glassfelt være sikret i ferdselsretningen.
+(1) Vindu og andre glassfelt som ved knusing kan påføre skade på person eller husdyr, skal sikres mot sammenstøt og fall opp til høyde minimum 0,8 m over gulv. Sikringen kan være brystning, personsikkerhetsrute eller en annen forsvarlig metode. For øvrig gjelder følgende:
+
+1. I bygning med boenhet skal glassfelt mot balkong, terrasse og lignende være sikret. I tillegg skal vindu og andre glassfelt i yttervegg fra 6,6 m over terrenget eller en underliggende flate være sikret.
+2. I byggverk med krav om universell utforming skal vindu og andre glassfelt i yttervegg over terreng være sikret. I skoler og barnehager skal alle vinduer og andre glassfelt sikres der barn kan oppholde seg.
+3. I inngangsparti og kommunikasjonsvei skal glassfelt være sikret i ferdselsretningen.
 
 (2) Glassfelt i inngangsparti og kommunikasjonsvei der det kan være fare for sammenstøt, skal være kontrastmerket med glassmarkør, som er synlig fra begge sider og i to høyder, med senter 0,9 m og 1,5 m over gulvet. Mønsteret i glassmarkøren i døren skal være forskjellig fra glassmarkøren i nærliggende glassfelt.
 
@@ -766,7 +1053,13 @@ Byggverk skal ha en utforming som forebygger fare for skade på personer og husd
 
 (2) Informasjon skal være lett å lese og oppfatte. Det skal være synlig kontrast mellom teksten og bakgrunnen, med luminanskontrast minimum 0,8. Viktig informasjon skal være tilgjengelig med tekst og lyd. Taktile tegn kan erstatte lyd.
 
-(3) Følgende gjelder i tillegg for bygning med krav om tilgjengelig boenhet og for byggverk med krav om universell utforming:Betjeningspaneler skal være plassert med betjeningshøyde mellom 0,8 m og 1,2 m over det ferdige gulvet.Håndtak skal være plassert med betjeningshøyde mellom 0,8 m og 1,2 m, være utformet med funksjonelt grep og ha en betjeningskraft slik at de er enkle å bruke.Armaturen på servanter og i dusjer skal kunne betjenes med én hånd. Armaturen i dusjen skal ha termostat. Kravene gjelder ikke for bygning med krav om tilgjengelig boenhet.Der det etter forskriften skal være åpningsbare vinduer, skal minst ett vindu kunne betjenes med én hånd. Hendelen skal kreve liten betjeningskraft og være plassert slik at den kan nås fra sittende stilling. Kravene gjelder ikke for byggverk for publikum.I rom og andre oppholdsarealer, der det er sikkerhetsmessig forsvarlig, skal tilstrekkelig antall stikkontakter plasseres slik at de kan betjenes av personer med funksjonsnedsettelse.
+(3) Følgende gjelder i tillegg for bygning med krav om tilgjengelig boenhet og for byggverk med krav om universell utforming:
+
+1. Betjeningspaneler skal være plassert med betjeningshøyde mellom 0,8 m og 1,2 m over det ferdige gulvet.
+2. Håndtak skal være plassert med betjeningshøyde mellom 0,8 m og 1,2 m, være utformet med funksjonelt grep og ha en betjeningskraft slik at de er enkle å bruke.
+3. Armaturen på servanter og i dusjer skal kunne betjenes med én hånd. Armaturen i dusjen skal ha termostat. Kravene gjelder ikke for bygning med krav om tilgjengelig boenhet.
+4. Der det etter forskriften skal være åpningsbare vinduer, skal minst ett vindu kunne betjenes med én hånd. Hendelen skal kreve liten betjeningskraft og være plassert slik at den kan nås fra sittende stilling. Kravene gjelder ikke for byggverk for publikum.
+5. I rom og andre oppholdsarealer, der det er sikkerhetsmessig forsvarlig, skal tilstrekkelig antall stikkontakter plasseres slik at de kan betjenes av personer med funksjonsnedsettelse.
 
 ## Kapittel 13. Inneklima og helse
 
@@ -774,7 +1067,11 @@ Byggverk skal ha en utforming som forebygger fare for skade på personer og husd
 
 ### § 13-1. Generelle krav til ventilasjon
 
-(1) Bygningen skal ha ventilasjon som sikrer tilfredsstillende luftkvalitet ved atventilasjonen er tilpasset rommenes utforming, forutsatte bruk, forurensnings- og fuktbelastningluftkvaliteten i bygningen er tilfredsstillende med hensyn til luktinneluften ikke inneholder forurensning i konsentrasjoner som kan gi helseskade eller irritasjon.
+(1) Bygningen skal ha ventilasjon som sikrer tilfredsstillende luftkvalitet ved at
+
+1. ventilasjonen er tilpasset rommenes utforming, forutsatte bruk, forurensnings- og fuktbelastning
+2. luftkvaliteten i bygningen er tilfredsstillende med hensyn til lukt
+3. inneluften ikke inneholder forurensning i konsentrasjoner som kan gi helseskade eller irritasjon.
 
 (2) Bygningen og bygningens ventilasjonsanlegg skal plasseres og utformes slik at tilluftskvaliteten sikres. Uteluft som ikke har tilfredsstillende kvalitet, skal renses før den tilføres bygningen for å forebygge helseskade eller fare for tilsmussing av ventilasjonsinstallasjoner.
 
@@ -802,7 +1099,10 @@ Byggverk skal ha en utforming som forebygger fare for skade på personer og husd
 
 (1) Frisklufttilførsel på grunn av forurensninger fra personer med lett aktivitet skal være minimum 26 m3 per time per person. Ved annet aktivitetsnivå enn lett aktivitet, skal frisklufttilførselen tilpasses slik at luftkvaliteten blir tilfredsstillende.
 
-(2) Frisklufttilførsel på grunn av forurensning fra materialer, produkter og installasjoner skal være minimum2,5 m3 per time per m2 gulvareal når bruksenheten eller rommene er i bruk0,7 m3 per time per m2 gulvareal når bruksenheten eller rommene ikke er i bruk.
+(2) Frisklufttilførsel på grunn av forurensning fra materialer, produkter og installasjoner skal være minimum
+
+1. 2,5 m3 per time per m2 gulvareal når bruksenheten eller rommene er i bruk
+2. 0,7 m3 per time per m2 gulvareal når bruksenheten eller rommene ikke er i bruk.
 
 (3) Rom med forurensende aktiviteter og prosesser skal ha tilstrekkelig avtrekk til at det opprettholdes tilfredsstillende luftkvalitet.
 
@@ -822,7 +1122,10 @@ Byggverk skal ha en utforming som forebygger fare for skade på personer og husd
 
 (1) I bygning med rom for varig opphold skal årsmiddelverdi for radonkonsentrasjon ikke overstige 200 Bq/m3 .
 
-(2) Bygning med rom for varig opphold skalha radonsperre mot grunnen, ogvære tilrettelagt for trykkreduserende tiltak i grunnen under bygningen som kan aktiveres når radonkonsentrasjonen i inneluften overstiger 100 Bq/m3 .
+(2) Bygning med rom for varig opphold skal
+
+1. ha radonsperre mot grunnen, og
+2. være tilrettelagt for trykkreduserende tiltak i grunnen under bygningen som kan aktiveres når radonkonsentrasjonen i inneluften overstiger 100 Bq/m3 .
 
 (3) Annet ledd gjelder ikke dersom det kan dokumenteres at tiltakene er unødvendige for å tilfredsstille kravet i første ledd.
 
@@ -888,9 +1191,18 @@ Produkter og konstruksjoner skal være så tørre ved innbygging eller forseglin
 
 (1) Våtrom skal prosjekteres og utføres slik at det ikke oppstår skade på konstruksjoner og produkter på grunn av bruksvann, vannsøl, lekkasjevann og kondens.
 
-(2) I våtrom skal følgende minst være oppfylt:Rommet skal ha sluk.Gulv skal ha tilstrekkelig fall til sluk slik at bruksvann ledes bort.Lekkasjevann skal synliggjøres og ledes til sluk.Bakenforliggende konstruksjoner som kan påvirkes negativt av fukt, skal være beskyttet av et egnet vanntett sjikt. Gjennomføringer skal ikke svekke tettheten.
+(2) I våtrom skal følgende minst være oppfylt:
 
-(3) I øvrige rom med vanninstallasjoner gjelder:Gulv og vegger som kan bli utsatt for vannsøl, lekkasjevann eller kondens, skal utføres med fuktbestandige materialer.Rommet skal utformes slik at eventuell lekkasje synliggjøres.Bygningsdeler med innebygd sisterne eller lignende skal sikres mot fuktinntrengning fra lekkasje fra installasjonen.
+1. Rommet skal ha sluk.
+2. Gulv skal ha tilstrekkelig fall til sluk slik at bruksvann ledes bort.
+3. Lekkasjevann skal synliggjøres og ledes til sluk.
+4. Bakenforliggende konstruksjoner som kan påvirkes negativt av fukt, skal være beskyttet av et egnet vanntett sjikt. Gjennomføringer skal ikke svekke tettheten.
+
+(3) I øvrige rom med vanninstallasjoner gjelder:
+
+1. Gulv og vegger som kan bli utsatt for vannsøl, lekkasjevann eller kondens, skal utføres med fuktbestandige materialer.
+2. Rommet skal utformes slik at eventuell lekkasje synliggjøres.
+3. Bygningsdeler med innebygd sisterne eller lignende skal sikres mot fuktinntrengning fra lekkasje fra installasjonen.
 
 ### VII. Rengjøring før bygningen tas i bruk
 
@@ -918,8 +1230,26 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 ### § 14-2. Krav til energieffektivitet
 
-(1) Det totale netto energibehovet for bygningen skal ikke overstige energirammene i tabellen i bokstav a samtidig som kravene i [§ 14-3](forskrift/2017-06-19-840/§14-3) oppfylles.*Tabell: Energirammer* *Bygningskategori**Totalt netto energibehov*
-*[kWh/m2 oppvarmet BRA per år]*Småhus, samt fritidsbolig over 150 m2 oppvarmet BRA100 + 1600/m2 oppvarmet BRABoligblokk95Barnehage135Kontorbygning115Skolebygning110Universitet/høyskole125Sykehus225 (265)Sykehjem195 (230)Hotellbygning170Idrettsbygning145Forretningsbygning180Kulturbygning130Lett industri/verksteder140 (160)Kravene gitt i parentes gjelder for arealer der varmegjenvinning av ventilasjonsluft medfører risiko for spredning av forurensning eller smitte.
+(1) Det totale netto energibehovet for bygningen skal ikke overstige energirammene i tabellen i bokstav a samtidig som kravene i [§ 14-3](forskrift/2017-06-19-840/§14-3) oppfylles.
+
+1. *Tabell: Energirammer*
+
+   | *Bygningskategori* | *Totalt netto energibehov*<br>*[kWh/m2 oppvarmet BRA per år]* |
+   | --- | --- |
+   | Småhus, samt fritidsbolig over 150 m2 oppvarmet BRA | 100 + 1600/m2 oppvarmet BRA |
+   | Boligblokk | 95 |
+   | Barnehage | 135 |
+   | Kontorbygning | 115 |
+   | Skolebygning | 110 |
+   | Universitet/høyskole | 125 |
+   | Sykehus | 225 (265) |
+   | Sykehjem | 195 (230) |
+   | Hotellbygning | 170 |
+   | Idrettsbygning | 145 |
+   | Forretningsbygning | 180 |
+   | Kulturbygning | 130 |
+   | Lett industri/verksteder | 140 (160) |
+2. Kravene gitt i parentes gjelder for arealer der varmegjenvinning av ventilasjonsluft medfører risiko for spredning av forurensning eller smitte.
 
 (2) For boligbygning kan kravet til energieffektivitet som alternativ til første ledd, oppfylles ved å følge punktene 1-9 i tabellen. Energitiltakene kan fravikes forutsatt at bygningens varmetapstall ikke øker, samtidig som kravene i [§ 14-3](forskrift/2017-06-19-840/§14-3) oppfylles.
 
@@ -947,7 +1277,22 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 ### § 14-3. Minimumsnivå for energieffektivitet
 
-(1) Følgende minimumsnivå skal alltid være oppfylt:Alle bygninger, unntatt boligbygning og fritidsbolig med laftede yttervegger, skal ha:Tabell: Minimumsnivå*U-verdi yttervegg [W/(m2K)]**U-verdi tak [W/(m2K)]**U-verdi gulv på grunn og mot det fri [W/(m2K)]**U-verdi vindu og dør, inkludert karm/ramme [W/(m2K)]**Lekkasjetall ved 50 Pa trykkforskjell (luftveksling per time)*≤ 0,22≤ 0,18≤ 0,18≤ 1,2≤ 1,5Boligbygning og fritidsbolig med laftede yttervegger skal ha:Tabell: Minimumsnivå*Dimensjon yttervegg**U-verdi tak [W/(m2K)]**U-verdi gulv på grunn og mot det fri [W/(m2K)]**U-verdi vindu og dør, inkludert karm/ramme [W/(m2K)]**Lekkasjetall ved 50 Pa trykkforskjell (luftveksling per time)*≥ 6″ laft≤ 0,18≤ 0,18≤ 1,2≤ 6
+(1) Følgende minimumsnivå skal alltid være oppfylt:
+
+1. Alle bygninger, unntatt boligbygning og fritidsbolig med laftede yttervegger, skal ha:
+
+   Tabell: Minimumsnivå
+
+   | *U-verdi yttervegg [W/(m2K)]* | *U-verdi tak [W/(m2K)]* | *U-verdi gulv på grunn og mot det fri [W/(m2K)]* | *U-verdi vindu og dør, inkludert karm/ramme [W/(m2K)]* | *Lekkasjetall ved 50 Pa trykkforskjell (luftveksling per time)* |
+   | --- | --- | --- | --- | --- |
+   | ≤ 0,22 | ≤ 0,18 | ≤ 0,18 | ≤ 1,2 | ≤ 1,5 |
+2. Boligbygning og fritidsbolig med laftede yttervegger skal ha:
+
+   Tabell: Minimumsnivå
+
+   | *Dimensjon yttervegg* | *U-verdi tak [W/(m2K)]* | *U-verdi gulv på grunn og mot det fri [W/(m2K)]* | *U-verdi vindu og dør, inkludert karm/ramme [W/(m2K)]* | *Lekkasjetall ved 50 Pa trykkforskjell (luftveksling per time)* |
+   | --- | --- | --- | --- | --- |
+   | ≥ 6″ laft | ≤ 0,18 | ≤ 0,18 | ≤ 1,2 | ≤ 6 |
 
 (2) Rør, utstyr og kanaler som er knyttet til bygningens varmesystem skal isoleres. Isolasjonstykkelsen skal være økonomisk optimal beregnet etter norsk standard eller en likeverdig europeisk standard.
 
@@ -957,11 +1302,18 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 (1) Det er ikke tillatt å installere varmeinstallasjon for fossilt brensel.
 
-(2) Bygning med over 1 000 m2 oppvarmet BRA skalha energifleksible varmesystemer som dekker minimum 60 prosent av normert netto varmebehov beregnet etter Norsk Standard NS 3031:2014 Beregning av bygningers energiytelse – Metode og data, ogtilrettelegges for bruk av lavtemperatur varmeløsninger, ogha felles varmesentral.
+(2) Bygning med over 1 000 m2 oppvarmet BRA skal
+
+1. ha energifleksible varmesystemer som dekker minimum 60 prosent av normert netto varmebehov beregnet etter Norsk Standard NS 3031:2014 Beregning av bygningers energiytelse – Metode og data, og
+2. tilrettelegges for bruk av lavtemperatur varmeløsninger, og
+3. ha felles varmesentral.
 
 (3) Kravene i annet ledd gjelder ikke for småhus.
 
-(4) Boenhet i småhus skal oppføres med skorstein. Kravet gjelder ikke dersomboenheten oppføres med vannbåren varme, ellerårlig netto energibehov til oppvarming ikke overstiger kravet til passivhus, beregnet etter Norsk Standard NS 3700:2013 Kriterier for passivhus og lavenergibygninger – Boligbygninger.
+(4) Boenhet i småhus skal oppføres med skorstein. Kravet gjelder ikke dersom
+
+1. boenheten oppføres med vannbåren varme, eller
+2. årlig netto energibehov til oppvarming ikke overstiger kravet til passivhus, beregnet etter Norsk Standard NS 3700:2013 Kriterier for passivhus og lavenergibygninger – Boligbygninger.
 
 > Endret ved forskrift [29 mai 2022 nr. 945](forskrift/2022-05-29-945) (i kraft 1 juli 2022, se endringsforskriftens del II for overgangsregel som gjelder frem til 1. juli 2023).
 
@@ -995,15 +1347,33 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 ### § 15-1. Generelle krav til varme- og kjøleinstallasjoner
 
-(1) Varme- og kjøleinstallasjoner skal prosjekteres og utføres slik atkrav til sikkerhet og innemiljø er ivaretattinstallasjonen gir de ytelser som er forutsattinstallasjonen har mulighet for regulering og er tilpasset energiøkonomisk driftinstallasjonen ikke bidrar til fare for brann og eksplosjonvarmebelastning på bygningsdeler ikke medfører fare for brann eller svekker bygningsdelers egenskaperinstallasjonen er sikret mot lekkasjeinstallasjonen har sikker og tilrettelagt atkomst for enkel og effektiv rengjøring og vedlikehold av installasjonen, inkludert sikker feiing.
+(1) Varme- og kjøleinstallasjoner skal prosjekteres og utføres slik at
+
+1. krav til sikkerhet og innemiljø er ivaretatt
+2. installasjonen gir de ytelser som er forutsatt
+3. installasjonen har mulighet for regulering og er tilpasset energiøkonomisk drift
+4. installasjonen ikke bidrar til fare for brann og eksplosjon
+5. varmebelastning på bygningsdeler ikke medfører fare for brann eller svekker bygningsdelers egenskaper
+6. installasjonen er sikret mot lekkasje
+7. installasjonen har sikker og tilrettelagt atkomst for enkel og effektiv rengjøring og vedlikehold av installasjonen, inkludert sikker feiing.
 
 (2) Lukkede systemer for varme- og kjøleinstallasjoner skal trykkprøves før overlevering til sluttbruker.
 
-(3) Varmeinstallasjoner skalstilles opp på underlag som tåler den forventede tyngden av installasjonenha tilstrekkelig avstand mellom installasjonen og brennbart materiale for å hindre antennelseutføres slik at det oppnås sikkerhet mot skade ved høy overflatetemperatur.
+(3) Varmeinstallasjoner skal
+
+1. stilles opp på underlag som tåler den forventede tyngden av installasjonen
+2. ha tilstrekkelig avstand mellom installasjonen og brennbart materiale for å hindre antennelse
+3. utføres slik at det oppnås sikkerhet mot skade ved høy overflatetemperatur.
 
 (4) Varmeinstallasjoner som er dokumentert for bruk uten røykkanal, skal kun plasseres i rom med tilstrekkelig ventilasjon.
 
-(5) Varmeinstallasjoner som er basert på forbrenning skalvære energiøkonomisk ved normale driftsforholdvære tilknyttet røykkanal med mindre det er dokumentert at slik tilknytning ikke er nødvendiggi akseptabel røykgasstemperaturvære tilpasset temperaturklassen på røykkanalen eller skorsteinenplasseres i fyrrom med mindre den er beregnet for oppstilling i annet rom.
+(5) Varmeinstallasjoner som er basert på forbrenning skal
+
+1. være energiøkonomisk ved normale driftsforhold
+2. være tilknyttet røykkanal med mindre det er dokumentert at slik tilknytning ikke er nødvendig
+3. gi akseptabel røykgasstemperatur
+4. være tilpasset temperaturklassen på røykkanalen eller skorsteinen
+5. plasseres i fyrrom med mindre den er beregnet for oppstilling i annet rom.
 
 (6) Ildsted skal ikke plasseres i rom hvor det kan forekomme brennbar gass eller støvpartikler som kan føre til støveksplosjon, med mindre ildstedet er beregnet for dette.
 
@@ -1011,7 +1381,11 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 ### § 15-2. Sentralvarmeinstallasjon
 
-(1) Sentralvarmeinstallasjoner skalvære tett ved det trykket som maksimalt kan oppståha nødvendig sikring mot for høyt trykk og for høy temperaturha tilfredsstillende oppdeling og mulighet for avstengning.
+(1) Sentralvarmeinstallasjoner skal
+
+1. være tett ved det trykket som maksimalt kan oppstå
+2. ha nødvendig sikring mot for høyt trykk og for høy temperatur
+3. ha tilfredsstillende oppdeling og mulighet for avstengning.
 
 (2) Tilknytning til vannforsyningsanlegg skal utføres slik at det ikke skjer tilbakestrømning fra sentralvarmeinstallasjonen.
 
@@ -1027,25 +1401,47 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 (4) Støpt eller murt skorstein skal oppføres på bærende konstruksjon av ubrennbart materiale.
 
-(5) Røykkanal og skorstein skalvære tilstrekkelig tettha yttersider som er tilstrekkelig tilgjengelige til at sprekkdannelser kan oppdagesha mulighet for fri bevegelse i forhold til tilstøtende bygningsdelerha tilfredsstillende mulighet for feiing og uttak av sot.
+(5) Røykkanal og skorstein skal
+
+1. være tilstrekkelig tett
+2. ha yttersider som er tilstrekkelig tilgjengelige til at sprekkdannelser kan oppdages
+3. ha mulighet for fri bevegelse i forhold til tilstøtende bygningsdeler
+4. ha tilfredsstillende mulighet for feiing og uttak av sot.
 
 ### § 15-4. Varmepumpe- og kuldeinstallasjon
 
 (1) Varmepumpe- og kuldeinstallasjoner skal prosjekteres og utføres slik at det ikke oppstår skade på person, miljø, installasjon eller byggverk.
 
-(2) Installasjonen skalvære tett og ha nødvendig sikring mot unormale driftsforholdha automatisk regulering og tilpasses energiøkonomisk driftha oppdelingsmulighet med avstengningsventil for gass og væske.
+(2) Installasjonen skal
 
-(3) Maskin-, kulde- og fryserom med store mengder kuldemedium, og andre rom som kan være utsatt for lekkasjer av kuldemedium, skal hagassvarsleremuligheter for nødventilasjon.
+1. være tett og ha nødvendig sikring mot unormale driftsforhold
+2. ha automatisk regulering og tilpasses energiøkonomisk drift
+3. ha oppdelingsmulighet med avstengningsventil for gass og væske.
+
+(3) Maskin-, kulde- og fryserom med store mengder kuldemedium, og andre rom som kan være utsatt for lekkasjer av kuldemedium, skal ha
+
+1. gassvarslere
+2. muligheter for nødventilasjon.
 
 ### II. Innvendige vann- og avløpsinstallasjoner
 
 ### § 15-5. Innvendig vanninstallasjon
 
-(1) Installasjoner skal prosjekteres og utføres slik at god helse ivaretas ved atdet velges produkter som ikke avgir stoffer som kan forringe kvaliteten på drikkevannet eller medføre helsefarebakterievekst forebyggesvanntemperatur ikke kan forårsake forbrenningsskadeinstallasjonen er sikret mot tilbakestrømning og inntrengning av urene væsker, stoffer eller gasser og mot tilbakesug og tilførsel av vann fra annen vannkilde.
+(1) Installasjoner skal prosjekteres og utføres slik at god helse ivaretas ved at
+
+1. det velges produkter som ikke avgir stoffer som kan forringe kvaliteten på drikkevannet eller medføre helsefare
+2. bakterievekst forebygges
+3. vanntemperatur ikke kan forårsake forbrenningsskade
+4. installasjonen er sikret mot tilbakestrømning og inntrengning av urene væsker, stoffer eller gasser og mot tilbakesug og tilførsel av vann fra annen vannkilde.
 
 (2) Utstyr og rør skal gi de forutsatte ytelser ved normalt driftstrykk.
 
-(3) Installasjoner skaltilrettelegges for framtidig vedlikehold og være lett utskiftbaretåle indre og ytre belastninger og kjemiske påvirkningersikres mot frostskaderha tilstrekkelig tetthet mot lekkasje.
+(3) Installasjoner skal
+
+1. tilrettelegges for framtidig vedlikehold og være lett utskiftbare
+2. tåle indre og ytre belastninger og kjemiske påvirkninger
+3. sikres mot frostskader
+4. ha tilstrekkelig tetthet mot lekkasje.
 
 (4) Lekkasje skal kunne oppdages enkelt og ikke føre til skade på installasjoner og bygningsdeler.
 
@@ -1053,7 +1449,13 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 ### § 15-6. Innvendig avløpsinstallasjon
 
-(1) Installasjoner skalprosjekteres og utføres slik at avløpsvannet ledes bort i takt med den tilførte vannmengdentilrettelegges for høy driftssikkerhet og for effektiv drift og vedlikeholdtåle indre og ytre belastninger og kjemiske påvirkningersikres mot frostskaderha tilstrekkelig tetthet mot lekkasje.
+(1) Installasjoner skal
+
+1. prosjekteres og utføres slik at avløpsvannet ledes bort i takt med den tilførte vannmengden
+2. tilrettelegges for høy driftssikkerhet og for effektiv drift og vedlikehold
+3. tåle indre og ytre belastninger og kjemiske påvirkninger
+4. sikres mot frostskader
+5. ha tilstrekkelig tetthet mot lekkasje.
 
 (2) Utstyr som er fast tilknyttet avløpsnettet skal ha vannlås eller tilsvarende funksjon.
 
@@ -1067,11 +1469,19 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 ### § 15-7. Utvendig vannforsyningsanlegg med ledningsnett
 
-(1) Anlegg skal prosjekteres og utføres slik at god helse ivaretas ved atdet velges produkter som ikke avgir stoffer som kan forringe kvaliteten på drikkevannet eller medføre helsefareledningsnett er sikret mot tilbakestrømning og inntrengning av urene væsker, stoffer eller gasser. Dette gjelder også for tilbakesuging og tilførsel av vann fra annen vannkilde og installasjon.
+(1) Anlegg skal prosjekteres og utføres slik at god helse ivaretas ved at
+
+1. det velges produkter som ikke avgir stoffer som kan forringe kvaliteten på drikkevannet eller medføre helsefare
+2. ledningsnett er sikret mot tilbakestrømning og inntrengning av urene væsker, stoffer eller gasser. Dette gjelder også for tilbakesuging og tilførsel av vann fra annen vannkilde og installasjon.
 
 (2) Anlegg skal være dimensjonert slik at det gir tilstrekkelig mengde og tilfredsstillende trykk til å dekke vannbehovet, inklusiv slokkevann.
 
-(3) Vannforsyningsanlegg skaltilrettelegges for høy driftssikkerhet og for effektiv drift og vedlikeholdtåle indre og ytre belastninger, og kjemiske påvirkningersikres mot frostskaderha tilstrekkelig tetthet mot lekkasje ved maksimalt driftstrykk.
+(3) Vannforsyningsanlegg skal
+
+1. tilrettelegges for høy driftssikkerhet og for effektiv drift og vedlikehold
+2. tåle indre og ytre belastninger, og kjemiske påvirkninger
+3. sikres mot frostskader
+4. ha tilstrekkelig tetthet mot lekkasje ved maksimalt driftstrykk.
 
 (4) Stikkledning for vannforsyningsanlegg som ikke lenger brukes, skal frakobles.
 
@@ -1083,7 +1493,14 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 (3) Byggverk skal sikres mot oversvømmelse som følge av høy vannstand eller overtrykk i avløpsledning. Sjenerende lukt skal ikke forekomme.
 
-(4) Avløpsanlegg skalprosjekteres og utføres slik at avløpsvann bortledes i takt med tilført vannmengde, og slik at god helse ivaretastilrettelegges for høy driftssikkerhet og for effektiv drift og vedlikeholdvære selvrensende og ha nødvendige punkter for inspeksjon og rengjøringtåle indre og ytre belastninger samt kjemiske påvirkningersikres mot frostskaderha tilstrekkelig tetthet mot lekkasje.
+(4) Avløpsanlegg skal
+
+1. prosjekteres og utføres slik at avløpsvann bortledes i takt med tilført vannmengde, og slik at god helse ivaretas
+2. tilrettelegges for høy driftssikkerhet og for effektiv drift og vedlikehold
+3. være selvrensende og ha nødvendige punkter for inspeksjon og rengjøring
+4. tåle indre og ytre belastninger samt kjemiske påvirkninger
+5. sikres mot frostskader
+6. ha tilstrekkelig tetthet mot lekkasje.
 
 (5) Stikkledning for avløpsanlegg som ikke lenger brukes, skal frakobles.
 
@@ -1103,15 +1520,36 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 (5) Heisen skal ha en alarm som er tilknyttet døgnbemannet vakt.
 
-(6) Heisen skal prosjekteres og utføres slik at denikke medfører fare for brukere og personell som utfører ettersyn, reparasjon og sikkerhetskontroll ogikke påfører skade på bygningsdeler.
+(6) Heisen skal prosjekteres og utføres slik at den
+
+1. ikke medfører fare for brukere og personell som utfører ettersyn, reparasjon og sikkerhetskontroll og
+2. ikke påfører skade på bygningsdeler.
 
 ### § 15-10. Rom og sjakt for heis
 
-(1) Heissjakten, maskinrommet og rom som brukes til øvrig utrustning skalvære lett tilgjengelig for drift, vedlikehold og sikkerhetskontrollholdes avstengtha overflater som er lyse og lette å holde reneha et ventilasjonssystem, som også er tilfredsstillende ved driftsstans.Ventilasjonssystemet skal ikke brukes til røykventilering av rom som ikke inngår i heisinstallasjonen.
+(1) Heissjakten, maskinrommet og rom som brukes til øvrig utrustning skal
 
-(2) Heissjakten skal i tilleggikke inneholde rørinstallasjoner, kabel-/ledningsinstallasjoner eller annen utrustning enn det som er nødvendig for å sikre forsvarlig drift og sikker bruk av heisenha tilfredsstillende ventilasjon.
+1. være lett tilgjengelig for drift, vedlikehold og sikkerhetskontroll
+2. holdes avstengt
+3. ha overflater som er lyse og lette å holde rene
+4. ha et ventilasjonssystem, som også er tilfredsstillende ved driftsstans.
 
-(3) Maskinrommet og rom som brukes til øvrig utrustning skal i tilleggha tydelig merket adkomstdimensjoneres slik at heisens utrustning kan skiftes utha tilfredsstillende romhøydeha utadslående dørerha luker i gulv som er sikret.Maskinrom og maskinskap for hydrauliske heiser skal ha ventilasjon til det fri ved egne kanaler og skal utføres slik at eventuell oljelekkasje oppdages og samles opp.
+Ventilasjonssystemet skal ikke brukes til røykventilering av rom som ikke inngår i heisinstallasjonen.
+
+(2) Heissjakten skal i tillegg
+
+1. ikke inneholde rørinstallasjoner, kabel-/ledningsinstallasjoner eller annen utrustning enn det som er nødvendig for å sikre forsvarlig drift og sikker bruk av heisen
+2. ha tilfredsstillende ventilasjon.
+
+(3) Maskinrommet og rom som brukes til øvrig utrustning skal i tillegg
+
+1. ha tydelig merket adkomst
+2. dimensjoneres slik at heisens utrustning kan skiftes ut
+3. ha tilfredsstillende romhøyde
+4. ha utadslående dører
+5. ha luker i gulv som er sikret.
+
+Maskinrom og maskinskap for hydrauliske heiser skal ha ventilasjon til det fri ved egne kanaler og skal utføres slik at eventuell oljelekkasje oppdages og samles opp.
 
 ### § 15-11. Fritt sikkerhetsrom for heis
 
@@ -1123,7 +1561,10 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 (1) Den sikkerhetsmessige utformingen av løfteplattformer skal være i henhold til direktiv [2006/42/EF](eu/32006l0042) (maskindirektivet).
 
-(2) Løfteplattformen skalha en alarm tilknyttet døgnbemannet vaktha et ventilasjonssystem, som også er tilfredsstillende ved driftsstans.
+(2) Løfteplattformen skal
+
+1. ha en alarm tilknyttet døgnbemannet vakt
+2. ha et ventilasjonssystem, som også er tilfredsstillende ved driftsstans.
 
 (3) Størrelsen på lastbæreren skal dimensjoneres for forutsatt bruk. Den frie bredden for døråpningen til en løfteplattform skal være minimum 0,9 m. De omliggende veggene skal være tilstrekkelig synlige i forhold til løfteplattformen.
 
@@ -1159,17 +1600,40 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 ### § 16-1. Administrative bestemmelser
 
-(1) For heis, rulletrapp, rullende fortau, løfteplattform, løftebord og trappeheis gjelder, i tillegg til de krav som følger av [plan- og bygningsloven § 29-9](lov/2008-06-27-71/§29-9), følgende:Løfteinnretning skal ikke tas i bruk etter ulykke, ombygging eller flytting før sikkerhetskontrollorgan har foretatt kontroll og kommunen har gitt driftstillatelse.Når feil på installasjon kan medføre fare for personsikkerhet, skal løfteinnretning settes ut av drift og forholdet meldes til kommune og eier.Eier skal umiddelbart melde ulykker og hendelser til kommunen og sikkerhetskontrollorgan.Sikkerhetskontrollorgan skal innrapportere ulykker og hendelser til Direktoratet for byggkvalitet.Utført reparasjonsarbeid skal føres i loggbok for hver løfteinnretning. Loggboken skal være tilgjengelig ved sikkerhetskontroll.Eier skal få utført sikkerhetskontroll minst hvert annet år når løfteinnretningen er i drift. Sikkerhetskontroll kan i tillegg foretas ved stikkprøver av løfteinnretning i drift.Ved skifte av eier og når installasjonen tas permanent ut av drift, skal eier melde dette til kommunen og nasjonalt installasjonsregister.
+(1) For heis, rulletrapp, rullende fortau, løfteplattform, løftebord og trappeheis gjelder, i tillegg til de krav som følger av [plan- og bygningsloven § 29-9](lov/2008-06-27-71/§29-9), følgende:
 
-(2) Kravene i første ledd gjelder ikke for:Løfteplattformer og løftebord som utelukkende brukes i arbeidssammenhengLøfteplattformer og løftebord som er beregnet for bil- eller varetransport, når innretningen betjenes av operatør på utsiden av innretningen og ikke er beregnet for at personer skal oppholde seg på innretningen under bruk og ikke er ment for bruk av allmennheten.Automatiske parkeringsanlegg uten persontransport.Med arbeidssammenheng i bokstav a menes at innretningen eksempelvis brukes som ledd i vareproduksjon, intern varetransport, oppføring, drift eller vedlikehold av byggverk, eller for atkomst til særlige arbeidsplasser.
+1. Løfteinnretning skal ikke tas i bruk etter ulykke, ombygging eller flytting før sikkerhetskontrollorgan har foretatt kontroll og kommunen har gitt driftstillatelse.
+2. Når feil på installasjon kan medføre fare for personsikkerhet, skal løfteinnretning settes ut av drift og forholdet meldes til kommune og eier.
+3. Eier skal umiddelbart melde ulykker og hendelser til kommunen og sikkerhetskontrollorgan.
+4. Sikkerhetskontrollorgan skal innrapportere ulykker og hendelser til Direktoratet for byggkvalitet.
+5. Utført reparasjonsarbeid skal føres i loggbok for hver løfteinnretning. Loggboken skal være tilgjengelig ved sikkerhetskontroll.
+6. Eier skal få utført sikkerhetskontroll minst hvert annet år når løfteinnretningen er i drift. Sikkerhetskontroll kan i tillegg foretas ved stikkprøver av løfteinnretning i drift.
+7. Ved skifte av eier og når installasjonen tas permanent ut av drift, skal eier melde dette til kommunen og nasjonalt installasjonsregister.
 
-(3) For løfteplattform og trappeheis som er tildelt eller utlånt som hjelpemiddel fra Arbeids- og velferdsetaten, eller som er innenfor en boenhet, gjelder følgende:Eier av løfteinnretning er ansvarlig for at løfteinnretning som er i bruk, er sikkerhetsmessig forsvarlig og at det utføres vedlikehold og ettersyn med denne.Eier skal umiddelbart melde ulykker og hendelser til kommunen og til Direktoratet for byggkvalitet.Når feil på installasjonen kan medføre fare for personsikkerhet, skal løfteinnretningen settes ut av drift.
+(2) Kravene i første ledd gjelder ikke for:
+
+1. Løfteplattformer og løftebord som utelukkende brukes i arbeidssammenheng
+2. Løfteplattformer og løftebord som er beregnet for bil- eller varetransport, når innretningen betjenes av operatør på utsiden av innretningen og ikke er beregnet for at personer skal oppholde seg på innretningen under bruk og ikke er ment for bruk av allmennheten.
+3. Automatiske parkeringsanlegg uten persontransport.
+
+Med arbeidssammenheng i bokstav a menes at innretningen eksempelvis brukes som ledd i vareproduksjon, intern varetransport, oppføring, drift eller vedlikehold av byggverk, eller for atkomst til særlige arbeidsplasser.
+
+(3) For løfteplattform og trappeheis som er tildelt eller utlånt som hjelpemiddel fra Arbeids- og velferdsetaten, eller som er innenfor en boenhet, gjelder følgende:
+
+1. Eier av løfteinnretning er ansvarlig for at løfteinnretning som er i bruk, er sikkerhetsmessig forsvarlig og at det utføres vedlikehold og ettersyn med denne.
+2. Eier skal umiddelbart melde ulykker og hendelser til kommunen og til Direktoratet for byggkvalitet.
+3. Når feil på installasjonen kan medføre fare for personsikkerhet, skal løfteinnretningen settes ut av drift.
 
 > Endret ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 
 ### § 16-2. Krav til sikkerhetskontrollør for utføring av periodisk sikkerhetskontroll
 
-(1) Periodisk sikkerhetskontroll kan utføres avsikkerhetskontrollør tilsatt i kommunal heiskontrollordningsikkerhetskontrollør tilsatt i landsdekkende heiskontrollordning med bemyndigelse fra departementetsikkerhetskontrollør som utfører sikkerhetskontroll på midlertidig grunnlagsikkerhetskontrollør tilsatt i Direktoratet for byggkvalitet.
+(1) Periodisk sikkerhetskontroll kan utføres av
+
+1. sikkerhetskontrollør tilsatt i kommunal heiskontrollordning
+2. sikkerhetskontrollør tilsatt i landsdekkende heiskontrollordning med bemyndigelse fra departementet
+3. sikkerhetskontrollør som utfører sikkerhetskontroll på midlertidig grunnlag
+4. sikkerhetskontrollør tilsatt i Direktoratet for byggkvalitet.
 
 (2) Sikkerhetskontrollør skal godkjennes av Direktoratet for byggkvalitet.
 
@@ -1183,7 +1647,10 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 | 2 | Eksamen fra 2-årig teknisk fagskole, relevant faglinje eller tilsvarende | Minst 5 års relevant praksis fra montasje, vedlikehold og reparasjon av heisanlegg |
 | 3 | Fagbrev som heismontør | Minst 5 års allsidig og relevant praksis etter bestått eksamen |
 
-(4) Godkjenning av sikkerhetskontrollør gis for 2 år og ved fornyelse vurderes blant annet følgendeom søker har arbeidet som sikkerhetskontrollørom søker kan dokumentere oppdatert kunnskap om løfteinnretning og tilhørende regelverk.
+(4) Godkjenning av sikkerhetskontrollør gis for 2 år og ved fornyelse vurderes blant annet følgende
+
+1. om søker har arbeidet som sikkerhetskontrollør
+2. om søker kan dokumentere oppdatert kunnskap om løfteinnretning og tilhørende regelverk.
 
 > Endret ved [forskrifter 7 juli 2017 nr. 1164](forskrift/2017-07-07-1164), [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 

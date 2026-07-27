@@ -40,13 +40,25 @@ Kongen gir forskrift om lovens anvendelse på Svalbard og Jan Mayen, og kan fast
 
 ## § 3. Definisjoner
 
-I denne loven menes med:*Studieforbund:* ideell og demokratisk organisasjon godkjent etter [lovens § 5](lov/2009-06-19-95/§5), som utfører oppgaver innenfor voksenopplæring, og som har flere medlemsorganisasjoner.*Samisk studieforbund:* studieforbund av og blant samer.*Medlemsorganisasjon i studieforbund:* organisasjon som utfører oppgaver innenfor voksenopplæring, og som er medlem av et studieforbund, jf. [§ 5](lov/2009-06-19-95/§5) bokstav f.*Politiske partiers studieforbund:* Studieforbund der medlemsorganisasjonene er tilknyttet et politisk parti, og som har som formål å tilby organisert opplæring.
+I denne loven menes med:
+
+1. *Studieforbund:* ideell og demokratisk organisasjon godkjent etter [lovens § 5](lov/2009-06-19-95/§5), som utfører oppgaver innenfor voksenopplæring, og som har flere medlemsorganisasjoner.
+2. *Samisk studieforbund:* studieforbund av og blant samer.
+3. *Medlemsorganisasjon i studieforbund:* organisasjon som utfører oppgaver innenfor voksenopplæring, og som er medlem av et studieforbund, jf. [§ 5](lov/2009-06-19-95/§5) bokstav f.
+4. *Politiske partiers studieforbund:* Studieforbund der medlemsorganisasjonene er tilknyttet et politisk parti, og som har som formål å tilby organisert opplæring.
 
 > Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
 
 ## § 4. Overordnede mål for studieforbundenes kursaktivitet
 
-Studieforbundene skal drive sin kursaktivitet på grunnlag av minst ett av følgende overordnede mål:å bidra til å vedlikeholde og styrke demokratiet og legge grunnlag for bærekraftig utvikling ved å engasjere og utvikle aktive medborgere.å senke terskelen for læring og deltakelse i frivillige organisasjoner.å bekjempe utenforskap og bidra til inkludering.å bidra til motivasjon og tilgang til kunnskap og kompetanse for alle og slik møte behov i et samfunn og arbeidsliv i stadig endring.å styrke kulturelt mangfold og bevare kulturarven gjennom læring.å være en selvstendig arena for læring og et supplement til offentlige utdanningstilbud for voksne.
+Studieforbundene skal drive sin kursaktivitet på grunnlag av minst ett av følgende overordnede mål:
+
+1. å bidra til å vedlikeholde og styrke demokratiet og legge grunnlag for bærekraftig utvikling ved å engasjere og utvikle aktive medborgere.
+2. å senke terskelen for læring og deltakelse i frivillige organisasjoner.
+3. å bekjempe utenforskap og bidra til inkludering.
+4. å bidra til motivasjon og tilgang til kunnskap og kompetanse for alle og slik møte behov i et samfunn og arbeidsliv i stadig endring.
+5. å styrke kulturelt mangfold og bevare kulturarven gjennom læring.
+6. å være en selvstendig arena for læring og et supplement til offentlige utdanningstilbud for voksne.
 
 > Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
 
@@ -54,7 +66,14 @@ Studieforbundene skal drive sin kursaktivitet på grunnlag av minst ett av følg
 
 Departementet kan etter søknad godkjenne et studieforbund for tilskudd etter loven.
 
-I tillegg til å drive sin opplæringsvirksomhet i samsvar med [§ 4](lov/2009-06-19-95/§4), må et studieforbund oppfylle følgende vilkår:Det må ha opplæring som hovedformål, og ellers ha et ideelt formål.Det må ha betegnelsen «studieforbund» i navnet.Det må ha en demokratisk oppbygning.Det må ha en virksomhet over hele landet og en regional forankring.Studieforbundets kursvirksomhet må utgjøre et minimumsnivå. Departementet fastsetter minimumsnivået, samt regler for rapportering, i forskrift.Studieforbundet må ha et minimum antall medlemsorganisasjoner. Departementet fastsetter minimumstallet i forskrift.
+I tillegg til å drive sin opplæringsvirksomhet i samsvar med [§ 4](lov/2009-06-19-95/§4), må et studieforbund oppfylle følgende vilkår:
+
+1. Det må ha opplæring som hovedformål, og ellers ha et ideelt formål.
+2. Det må ha betegnelsen «studieforbund» i navnet.
+3. Det må ha en demokratisk oppbygning.
+4. Det må ha en virksomhet over hele landet og en regional forankring.
+5. Studieforbundets kursvirksomhet må utgjøre et minimumsnivå. Departementet fastsetter minimumsnivået, samt regler for rapportering, i forskrift.
+6. Studieforbundet må ha et minimum antall medlemsorganisasjoner. Departementet fastsetter minimumstallet i forskrift.
 
 Hva gjelder bestemmelsene i bokstavene d, e og f i annet ledd, fastsetter departementet i forskrift egne krav for samiske studieforbund. Hva gjelder bestemmelsen i bokstav e i annet ledd, fastsetter departementet i forskrift egne krav for politiske partiers studieforbund.
 

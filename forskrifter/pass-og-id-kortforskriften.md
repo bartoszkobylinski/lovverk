@@ -144,7 +144,11 @@ Søkeren, og foreldre eller verge som søker om pass eller nasjonalt ID-kort på
 
 ### § 2A-1. Rett til nasjonalt ID-kort uten reiserett
 
-Utenlandske statsborgere har etter søknad rett til nasjonalt ID-kort uten reiserett dersom dehar norsk fødselsnummer,har oppholdstillatelse som ikke er utløpt eller oppholdsrett etter [utlendingsloven](lov/2008-05-15-35), oggodtgjør sin identitet i samsvar med [§§ 2-2](forskrift/2020-10-09-2012/§2-2) og [2A-2](forskrift/2020-10-09-2012/§2A-2).
+Utenlandske statsborgere har etter søknad rett til nasjonalt ID-kort uten reiserett dersom de
+
+1. har norsk fødselsnummer,
+2. har oppholdstillatelse som ikke er utløpt eller oppholdsrett etter [utlendingsloven](lov/2008-05-15-35), og
+3. godtgjør sin identitet i samsvar med [§§ 2-2](forskrift/2020-10-09-2012/§2-2) og [2A-2](forskrift/2020-10-09-2012/§2A-2).
 
 Nasjonalt ID-kort dokumenterer ikke lovlig opphold eller andre rettigheter.
 
@@ -176,7 +180,10 @@ ID-kortets maskinlesbare felt skal påføres standardtekst som viser at kortet e
 
 ### § 3-1. Ekstra pass
 
-Innehaveren av et ordinært pass kan få utstedt et ekstra pass når det dokumenteres at tjenstlige eller andre grunner gir behov for å reise til flere land ogdet mellom disse landene råder slike politiske forhold at pass benyttet i ett land ikke kan benyttes i et annet, elleren eller flere reiser vanskeliggjøres fordi passet i anledning annen reise må innleveres til utenlandsk myndighet for utstedelse av visum.
+Innehaveren av et ordinært pass kan få utstedt et ekstra pass når det dokumenteres at tjenstlige eller andre grunner gir behov for å reise til flere land og
+
+1. det mellom disse landene råder slike politiske forhold at pass benyttet i ett land ikke kan benyttes i et annet, eller
+2. en eller flere reiser vanskeliggjøres fordi passet i anledning annen reise må innleveres til utenlandsk myndighet for utstedelse av visum.
 
 Ekstra pass kan utstedes som ordinært pass eller som midlertidig pass.
 
@@ -196,7 +203,12 @@ Etter at reisen er avsluttet plikter innehaveren å innlevere det midlertidige p
 
 ### § 4-1. Nektelse og tilbakekall av pass og nasjonalt ID-kort med reiserett
 
-Ved avgjørelse om nektelse og tilbakekall av pass eller nasjonalt ID-kort etter [passloven § 5](lov/1997-06-19-82/§5) andre og tredje ledd jf. [§ 7](lov/1997-06-19-82/§7) eller [ID-kortloven § 5](lov/2015-06-05-39/§5) andre og tredje ledd jf. [§ 8](lov/2015-06-05-39/§8), bør det legges vekt påomfanget og alvorlighetsgrad av eventuelt misbruk av pass eller nasjonalt ID-kortomfanget av eventuelle tapte pass og nasjonale ID-kort, herunder antall og hyppighet, samt omstendigheter knyttet til tapet og om tapsmelding ble innlevert straks tapet ble oppdageteventuell unndragelsesfare, herunder lengde av dom, når soning skal finne sted arbeids- og familieforhold, og tilknytning til utlandet, oghvilken betydning pass eller nasjonalt ID-kort har for den enkelte, herunder behov for pass eller nasjonalt ID-kort for å kunne opprettholde kontakt med familie.
+Ved avgjørelse om nektelse og tilbakekall av pass eller nasjonalt ID-kort etter [passloven § 5](lov/1997-06-19-82/§5) andre og tredje ledd jf. [§ 7](lov/1997-06-19-82/§7) eller [ID-kortloven § 5](lov/2015-06-05-39/§5) andre og tredje ledd jf. [§ 8](lov/2015-06-05-39/§8), bør det legges vekt på
+
+1. omfanget og alvorlighetsgrad av eventuelt misbruk av pass eller nasjonalt ID-kort
+2. omfanget av eventuelle tapte pass og nasjonale ID-kort, herunder antall og hyppighet, samt omstendigheter knyttet til tapet og om tapsmelding ble innlevert straks tapet ble oppdaget
+3. eventuell unndragelsesfare, herunder lengde av dom, når soning skal finne sted arbeids- og familieforhold, og tilknytning til utlandet, og
+4. hvilken betydning pass eller nasjonalt ID-kort har for den enkelte, herunder behov for pass eller nasjonalt ID-kort for å kunne opprettholde kontakt med familie.
 
 ### § 4-2. Nektelse av midlertidig pass
 
@@ -228,13 +240,29 @@ Politidirektoratet er behandlingsansvarlig for ID-kortregisteret.
 
 ### § 5-2. Opplysninger som skal registreres i passregisteret
 
-I tillegg til de opplysninger som kan registreres i passregisteret etter [passloven § 8](lov/1997-06-19-82/§8), skal det registreres opplysninger ompass som er meldt tapt eller stjåletvedtak om passhindring etter [passloven § 5](lov/1997-06-19-82/§5)vedtak om tilbakekall og beslag av pass etter [passloven § 7](lov/1997-06-19-82/§7)årsaken til at det utstedes pass uten fingeravtrykk etter forskriften [§ 2-7](forskrift/2020-10-09-2012/§2-7) tredje leddkopi av oppnevning, dom eller lignende er fremlagt, jf. forskriften [§ 2-1](forskrift/2020-10-09-2012/§2-1) fjerde leddsamtykke til utstedelse av pass etter [passloven § 4](lov/1997-06-19-82/§4) ogugyldiggjorte pass.
+I tillegg til de opplysninger som kan registreres i passregisteret etter [passloven § 8](lov/1997-06-19-82/§8), skal det registreres opplysninger om
+
+1. pass som er meldt tapt eller stjålet
+2. vedtak om passhindring etter [passloven § 5](lov/1997-06-19-82/§5)
+3. vedtak om tilbakekall og beslag av pass etter [passloven § 7](lov/1997-06-19-82/§7)
+4. årsaken til at det utstedes pass uten fingeravtrykk etter forskriften [§ 2-7](forskrift/2020-10-09-2012/§2-7) tredje ledd
+5. kopi av oppnevning, dom eller lignende er fremlagt, jf. forskriften [§ 2-1](forskrift/2020-10-09-2012/§2-1) fjerde ledd
+6. samtykke til utstedelse av pass etter [passloven § 4](lov/1997-06-19-82/§4) og
+7. ugyldiggjorte pass.
 
 Det kan i tillegg registreres opplysninger som er nødvendig for forvaltning av registeret og utstedelse av pass.
 
 ### § 5-3. Opplysninger som skal registreres i ID-kortregisteret
 
-I tillegg til de opplysninger som kan registreres i ID-kortregisteret etter [ID-kortloven § 9](lov/2015-06-05-39/§9), skal det registreres opplysninger omID-kort som er meldt tapt eller stjåletvedtak om hindringer etter [ID-kortloven § 5](lov/2015-06-05-39/§5)vedtak om tilbakekall og beslag etter [ID-kortloven § 8](lov/2015-06-05-39/§8)årsaken til at det utstedes ID-kort uten fingeravtrykk etter forskriften [§ 2-7](forskrift/2020-10-09-2012/§2-7) tredje leddkopi av oppnevning, dom eller lignende er fremlagt, jf. forskriften [§ 2-1](forskrift/2020-10-09-2012/§2-1) fjerde leddsamtykke til utstedelse av ID-kort etter [ID-kortloven § 4](lov/2015-06-05-39/§4) ogugyldiggjorte ID-kort.
+I tillegg til de opplysninger som kan registreres i ID-kortregisteret etter [ID-kortloven § 9](lov/2015-06-05-39/§9), skal det registreres opplysninger om
+
+1. ID-kort som er meldt tapt eller stjålet
+2. vedtak om hindringer etter [ID-kortloven § 5](lov/2015-06-05-39/§5)
+3. vedtak om tilbakekall og beslag etter [ID-kortloven § 8](lov/2015-06-05-39/§8)
+4. årsaken til at det utstedes ID-kort uten fingeravtrykk etter forskriften [§ 2-7](forskrift/2020-10-09-2012/§2-7) tredje ledd
+5. kopi av oppnevning, dom eller lignende er fremlagt, jf. forskriften [§ 2-1](forskrift/2020-10-09-2012/§2-1) fjerde ledd
+6. samtykke til utstedelse av ID-kort etter [ID-kortloven § 4](lov/2015-06-05-39/§4) og
+7. ugyldiggjorte ID-kort.
 
 Det kan i tillegg registreres opplysninger som er nødvendig for forvaltning av registeret og utstedelse av ID-kort.
 
@@ -274,9 +302,18 @@ Den behandlingsansvarlige skal informere den registrerte om rettighetene etter p
 
 ### § 6-1. Gyldighetstiden for ordinært pass og nasjonalt ID-kort
 
-Fra utstedelsesdatoen er et pass gyldigi 10 år når den det utstedes til er fylt 16 åri 5 år når den det utstedes til er 10 til 16 åri 3 år når den det utstedes til er 5 til 10 åri 2 år når den det utstedes til er under 5 år.
+Fra utstedelsesdatoen er et pass gyldig
 
-Fra utstedelsesdatoen er et nasjonalt ID-kort gyldigi 5 år når den det utstedes til er fylt 10 åri 3 år når den det utstedes til er 5 til 10 åri 2 år når den det utstedes til er under 5 år.
+1. i 10 år når den det utstedes til er fylt 16 år
+2. i 5 år når den det utstedes til er 10 til 16 år
+3. i 3 år når den det utstedes til er 5 til 10 år
+4. i 2 år når den det utstedes til er under 5 år.
+
+Fra utstedelsesdatoen er et nasjonalt ID-kort gyldig
+
+1. i 5 år når den det utstedes til er fylt 10 år
+2. i 3 år når den det utstedes til er 5 til 10 år
+3. i 2 år når den det utstedes til er under 5 år.
 
 ### § 6-2. Begrensninger i gyldighetstiden for pass og nasjonalt ID-kort med reiserett
 
@@ -294,9 +331,17 @@ Midlertidig pass kan gis gyldighet for den tid som er nødvendig for å gjennomf
 
 ### § 7-1. Søknadsgebyr for pass
 
-For behandling av søknad om pass fremmet i Norge betales følgende gebyr:Ordinært pass til søkere over 16 år 840 kroner.Ordinært pass til søkere under 16 år 510 kroner.Midlertidig pass 1320 kroner.
+For behandling av søknad om pass fremmet i Norge betales følgende gebyr:
 
-For behandling av søknad om pass fremmet ved norsk utenriksstasjon betales følgende gebyr:Ordinært pass til søkere over 16 år 1 290 kroner.Ordinært pass til søkere under 16 år 770 kroner.Midlertidig pass 1 690 kroner.
+1. Ordinært pass til søkere over 16 år 840 kroner.
+2. Ordinært pass til søkere under 16 år 510 kroner.
+3. Midlertidig pass 1320 kroner.
+
+For behandling av søknad om pass fremmet ved norsk utenriksstasjon betales følgende gebyr:
+
+1. Ordinært pass til søkere over 16 år 1 290 kroner.
+2. Ordinært pass til søkere under 16 år 770 kroner.
+3. Midlertidig pass 1 690 kroner.
 
 Søknadsgebyret refunderes ikke ved avslag på søknaden.
 
@@ -308,7 +353,10 @@ Søknadsgebyret kan unntaksvis frafalles i samsvar med retningslinjer gitt av Po
 
 ### § 7-2. Søknadsgebyr for nasjonalt ID-kort
 
-For behandling av søknad om nasjonalt ID-kort betales følgende gebyr:Nasjonalt ID-kort til søkere over ti år 840 kroner.Nasjonalt ID-kort til søkere under ti år 510 kroner.
+For behandling av søknad om nasjonalt ID-kort betales følgende gebyr:
+
+1. Nasjonalt ID-kort til søkere over ti år 840 kroner.
+2. Nasjonalt ID-kort til søkere under ti år 510 kroner.
 
 Søknadsgebyret refunderes ikke ved avslag på søknaden.
 

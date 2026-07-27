@@ -62,7 +62,11 @@ Dersom Helsedirektoratet fatter vedtak om avslag fordi utdanningen ikke oppfylle
 
 ## § 6. Behandling av søknader
 
-Helsedirektoratet kan fastsette at:det skal søkes på en bestemt måtegjennomført utdanning skal dokumenteres på en bestemt måtesøkeren skal betale fastsatt gebyr før søknaden behandles.
+Helsedirektoratet kan fastsette at:
+
+1. det skal søkes på en bestemt måte
+2. gjennomført utdanning skal dokumenteres på en bestemt måte
+3. søkeren skal betale fastsatt gebyr før søknaden behandles.
 
 ## § 7. Klage på Helsedirektoratets vedtak
 

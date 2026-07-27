@@ -32,7 +32,14 @@ Ordningen er rettet mot utsatte barn, unge og deres familie som har vært, er el
 
 ## § 3. Kriterier for måloppnåelse
 
-Følgende kriterier for måloppnåelse er sentrale ved vurderingen av om målet nås. Organisasjonene skal:ha utstrakt aktivitet som fremmer brukermedvirkning innen barnevernet på individ-, gruppe- og systemnivåutfylle andre aktørers innsatsha systematisk innflytelse på systemnivåvære representativ for ordningens målgruppearbeide for sin egen målgruppes interesserlegge til rette for sin egen målgruppes mulighet til å påvirke og delta i organisasjonen.
+Følgende kriterier for måloppnåelse er sentrale ved vurderingen av om målet nås. Organisasjonene skal:
+
+- ha utstrakt aktivitet som fremmer brukermedvirkning innen barnevernet på individ-, gruppe- og systemnivå
+- utfylle andre aktørers innsats
+- ha systematisk innflytelse på systemnivå
+- være representativ for ordningens målgruppe
+- arbeide for sin egen målgruppes interesser
+- legge til rette for sin egen målgruppes mulighet til å påvirke og delta i organisasjonen.
 
 Direktoratet rapporterer til departementet på måloppnåelse i tilskuddsordningen.
 
@@ -56,7 +63,14 @@ Det kan søkes om tilskudd til organisasjonens generelle drift. Generell drift f
 
 Det kan søkes om tilskudd for inntil tre år. Midlene utbetales for ett år av gangen, med forbehold om Stortingets årlige budsjettvedtak. For søknader som innvilges tilskudd for flere år, er det ikke nødvendig å søke om midler hvert år.
 
-Driftstilskudd gis etter en helhetlig og skjønnsmessig vurdering av:Stortingets budsjettvedtakde søknader som er innkommet for tilskuddsåret,arbeidsplan og budsjett for tilskuddsåret,organisasjonens mulighet til å oppnå målet med ordningen,målgruppe og nedslagsfelt, ogorganisasjonens størrelse og utbredelse.
+Driftstilskudd gis etter en helhetlig og skjønnsmessig vurdering av:
+
+1. Stortingets budsjettvedtak
+2. de søknader som er innkommet for tilskuddsåret,
+3. arbeidsplan og budsjett for tilskuddsåret,
+4. organisasjonens mulighet til å oppnå målet med ordningen,
+5. målgruppe og nedslagsfelt, og
+6. organisasjonens størrelse og utbredelse.
 
 ## § 6. Bruk av tilskuddet
 
@@ -96,7 +110,15 @@ Bufdir og Riksrevisjonen kan iverksette kontroll med at midlene nyttes etter for
 
 ## § 11. Sanksjoner ved brudd på forskriften
 
-Bufdir kan holde tilskuddet helt eller delvis tilbake, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet, dersom:mottakeren gir ufullstendige eller ukorrekte opplysninger til Bufdir,mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,mottakeren ikke bruker midlene i samsvar med vilkårene som står i forskriften og tilskuddsbrevet,mottakeren ikke bruker opp hele tilskuddet,mottakeren ikke sender inn rapport og regnskap innen fristen,rapport og regnskap ikke blir godkjent av Bufdir, ellerBufdir ved en feil utbetaler for høyt tilskudd.
+Bufdir kan holde tilskuddet helt eller delvis tilbake, eller kreve at tilskuddsmottaker betaler tilbake hele eller deler av tilskuddet, dersom:
+
+- mottakeren gir ufullstendige eller ukorrekte opplysninger til Bufdir,
+- mottakeren ikke bruker tilskuddet på den måten som ble beskrevet i søknaden,
+- mottakeren ikke bruker midlene i samsvar med vilkårene som står i forskriften og tilskuddsbrevet,
+- mottakeren ikke bruker opp hele tilskuddet,
+- mottakeren ikke sender inn rapport og regnskap innen fristen,
+- rapport og regnskap ikke blir godkjent av Bufdir, eller
+- Bufdir ved en feil utbetaler for høyt tilskudd.
 
 En tilskuddsmottaker som har brutt forskriften, kan helt eller delvis utelukkes fra tilskuddsordningen. Ved denne vurderingen skal det legges vekt på om tilskuddsmottaker har tilegnet seg eller forsøkt å tilegne seg uberettiget tilskudd, størrelsen på de uberettigede beløp og skyldgraden for øvrig.
 

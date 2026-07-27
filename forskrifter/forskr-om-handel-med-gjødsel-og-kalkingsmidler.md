@@ -15,7 +15,7 @@ xml_hash: "da4205e5c794d27fb28cde18fa2458f42498994eb5d575632ee51a2190263e04"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,14 @@ Vedleggene 1 – 9 gjelder som en integrert del av denne forskriften.
 
 Produsenter og importører av produkter som omfattes av denne forskriften, og virksomheter som omsetter slike produkter til jordbruksforetak, skal registrere seg før de omsetter eller importerer produkter. Første registrering skal gjøres innen 12. juni 2025. Ansvarlig firma skal sørge for registreringen.
 
-Registrering skal gjøres på den måten Mattilsynet bestemmer, og skal minst inneholde opplysninger omnavn, registrert firmanavn, organisasjonsnummer og postadresse til virksomhetenkontaktperson i virksomhetenvirksomhetskategorieventuelt registrert varemerkeprodukttypeantatt omsetningsvolum.
+Registrering skal gjøres på den måten Mattilsynet bestemmer, og skal minst inneholde opplysninger om
+
+1. navn, registrert firmanavn, organisasjonsnummer og postadresse til virksomheten
+2. kontaktperson i virksomheten
+3. virksomhetskategori
+4. eventuelt registrert varemerke
+5. produkttype
+6. antatt omsetningsvolum.
 
 Mattilsynet kan kreve at registrerte opplysninger dokumenteres. Vesentlige endringer i virksomheten, herunder opphør av virksomheten eller i registrerte opplysninger, skal registreres senest en måned etter endringer har funnet sted.
 
@@ -72,7 +79,10 @@ Mattilsynet kan kreve at registrerte opplysninger dokumenteres. Vesentlige endri
 
 ### § 6. Rapportering
 
-Mattilsynet fastsetter skjema for rapportering og bestemmer hyppigheten og frister for rapportering. Mattilsynet kan pålegge ansvarlig firma å gi opplysninger om:omsatt mengde av hvert enkelt produkt,total mengde kadmium (Cd) i omsatte mengder mineralgjødsel, konverteringskalk og andre produkter der det er relevant.
+Mattilsynet fastsetter skjema for rapportering og bestemmer hyppigheten og frister for rapportering. Mattilsynet kan pålegge ansvarlig firma å gi opplysninger om:
+
+1. omsatt mengde av hvert enkelt produkt,
+2. total mengde kadmium (Cd) i omsatte mengder mineralgjødsel, konverteringskalk og andre produkter der det er relevant.
 
 > Endret ved forskrifter [9 jan 2004 nr. 140](forskrift/2004-01-09-140), [16 jan 2006 nr. 43](forskrift/2006-01-16-43).
 
@@ -102,13 +112,20 @@ Kravene til kalkdolomittmel og grov kalkdolomitt gjelder bare for produkter prod
 
 Restinnholdet av CO2 i brent kalk skal være mindre enn 7%.
 
-For granulerte kalkingsmidler gjelder følgende tilleggsbestemmelser:Trykkfastheten, den kraft som er nødvendig for å knuse granulatene, skal være minst 10 newton (N).Formendringstiden, den tid det tar før granulater som ligger i vann faller fullstendig sammen, skal høyst være 30 minutter.
+For granulerte kalkingsmidler gjelder følgende tilleggsbestemmelser:
+
+1. Trykkfastheten, den kraft som er nødvendig for å knuse granulatene, skal være minst 10 newton (N).
+2. Formendringstiden, den tid det tar før granulater som ligger i vann faller fullstendig sammen, skal høyst være 30 minutter.
 
 > Endret ved forskrift [26 nov 2014 nr. 1469](forskrift/2014-11-26-1469).
 
 ### § 10. Generelle kvalitetskrav for gjødsel
 
-Gjødsel som faller inn under varetype listet i vedlegg 2 kolonne 2 skal følge de kvalitetskrav som gjelder for hver enkelt varetype.Innhold av kadmium (Cd) i gjødsel, må ikke overstige 100 mg Cd per kg fosfor.Innholdet av biuret i urea må ikke overstige maksimalinnholdet angitt for de enkelte varetyper i vedlegg 1. Urea til bladgjødsling må ikke inneholde mer en 0,5% biuret.Ammoniumkarbonat kan ikke brukes som råstoff i nitrogenholdig gjødsel.
+Gjødsel som faller inn under varetype listet i vedlegg 2 kolonne 2 skal følge de kvalitetskrav som gjelder for hver enkelt varetype.
+
+1. Innhold av kadmium (Cd) i gjødsel, må ikke overstige 100 mg Cd per kg fosfor.
+2. Innholdet av biuret i urea må ikke overstige maksimalinnholdet angitt for de enkelte varetyper i vedlegg 1. Urea til bladgjødsling må ikke inneholde mer en 0,5% biuret.
+3. Ammoniumkarbonat kan ikke brukes som råstoff i nitrogenholdig gjødsel.
 
 ### § 11. (Opphevet)
 
@@ -150,7 +167,16 @@ Enhver som importerer fra land i EØS-området ammoniumnitratgjødsel med høyt 
 
 ### § 13d. Krav til opplysninger ved innsending av analyserapport fra detonasjonstest
 
-Ved innsending av analyserapport etter [§ 13c](forskrift/2003-07-04-1063/§13c) skal følgende opplysninger oppgis:handelsnavn på gjødselensammensetning av gjødselen, herunder innhold av råvarer og prosesstilsetningerprodusentens navn og adresseproduksjonspartiets identitetentydig identifikasjon mellom analyserapporten fra detonasjonstesten og partiet som skal importeres eller omsettestransportmiddelankomststedankomsttid.
+Ved innsending av analyserapport etter [§ 13c](forskrift/2003-07-04-1063/§13c) skal følgende opplysninger oppgis:
+
+1. handelsnavn på gjødselen
+2. sammensetning av gjødselen, herunder innhold av råvarer og prosesstilsetninger
+3. produsentens navn og adresse
+4. produksjonspartiets identitet
+5. entydig identifikasjon mellom analyserapporten fra detonasjonstesten og partiet som skal importeres eller omsettes
+6. transportmiddel
+7. ankomststed
+8. ankomsttid.
 
 Opplysningene angitt i bokstavene f)–h) skal oppgis bare ved import.
 
@@ -194,13 +220,36 @@ Alle produkter skal enkelt kunne identifiseres på lager og i alle omsetningsled
 
 ### § 18. Varetype for gjødsel
 
-1\. Gjødsel som er i samsvar med kriterier gitt for varetype i vedlegg 2 kolonne 1 skal merkes med vedkommende varetype og i tillegg med følgende der det passer:Gjødsel som tilfredsstiller varetypene i vedlegg 2 [kapittel A](forskrift/2003-07-04-1063/kapa) og B skal tilføyes tall som angir innholdet av næringsstoffer. Tallene skal angis i samme rekkefølge som de kjemiske symbolene (f.eks. NPK-gjødsel 21-4-10).Mekanisk blandet gjødsel skal ha tilføyelsen «mekanisk blandet» anført i tilknytning til varetype (f.eks. NPK-gjødsel 21-4-10 mekanisk blandet)For gjødsel som vesentlig inneholder hovednæringsstoffer og som deklareres med sekundærnæringsstoffer skal betegnes med varetype etterfulgt av «med» og deretter navn eller kjemisk tegn på de næringsstoff som er tilstede i gjødselen. De tall som angir innhold av hovednæringsstoff kan etterfølges av tall som angir innholdet av Ca, Mg, Na, S der disse angis i parentes (f.eks. NPK-gjødsel 15-4-12 (3-3) med Mg og S).Blandinger av to eller flere av gjødseltypene i [kapittel D](forskrift/2003-07-04-1063/kapd) og som inneholder minst to ulike mikronæringsstoff skal ha varetype «blanding av mikronæringsstoff» etterfulgt av navnet på de mikronæringsstoffene som er tilstede eller av stoffenes kjemiske tegn.Gjødsel som vesentlig inneholder hovednæringsstoff og som deklareres med innhold av mikronæringsstoff skal etter varetypen tilføyes enten:«med mikronæringsstoff» eller«med» etterfulgt av navn på de mikronæringsstoff som er tilstede.
+1\. Gjødsel som er i samsvar med kriterier gitt for varetype i vedlegg 2 kolonne 1 skal merkes med vedkommende varetype og i tillegg med følgende der det passer:
 
-2\. For gjødsel som ikke er i samsvar med kriterier gitt for varetype i vedlegg 2 kolonne 1 fastsettes varetypen slik:Gjødsel som inneholder ett hovednæringsstoff eller sekundærnæringsstoff skal ha navnet på forbindelsen som varetype.Gjødsel som inneholder flere hovednæringsstoff eller sekundærnæringsstoff skal ha varetype «uorganisk gjødsel».Gjødsel som inneholder bare ett mikronæringsstoff skal ha navn på forbindelsen som varetype.For oppløsninger eller suspensjoner av fast eller flytende gjødsel skal «oppløsning av» eller «suspensjon av» tilføyes før varetypen.Mekanisk blandet gjødsel skal ha tilføyelsen «mekanisk blandet» anført i tilknytning til varetype.
+1. Gjødsel som tilfredsstiller varetypene i vedlegg 2 [kapittel A](forskrift/2003-07-04-1063/kapa) og B skal tilføyes tall som angir innholdet av næringsstoffer. Tallene skal angis i samme rekkefølge som de kjemiske symbolene (f.eks. NPK-gjødsel 21-4-10).
+2. Mekanisk blandet gjødsel skal ha tilføyelsen «mekanisk blandet» anført i tilknytning til varetype (f.eks. NPK-gjødsel 21-4-10 mekanisk blandet)
+3. For gjødsel som vesentlig inneholder hovednæringsstoffer og som deklareres med sekundærnæringsstoffer skal betegnes med varetype etterfulgt av «med» og deretter navn eller kjemisk tegn på de næringsstoff som er tilstede i gjødselen. De tall som angir innhold av hovednæringsstoff kan etterfølges av tall som angir innholdet av Ca, Mg, Na, S der disse angis i parentes (f.eks. NPK-gjødsel 15-4-12 (3-3) med Mg og S).
+4. Blandinger av to eller flere av gjødseltypene i [kapittel D](forskrift/2003-07-04-1063/kapd) og som inneholder minst to ulike mikronæringsstoff skal ha varetype «blanding av mikronæringsstoff» etterfulgt av navnet på de mikronæringsstoffene som er tilstede eller av stoffenes kjemiske tegn.
+5. Gjødsel som vesentlig inneholder hovednæringsstoff og som deklareres med innhold av mikronæringsstoff skal etter varetypen tilføyes enten:
+
+   - «med mikronæringsstoff» eller
+   - «med» etterfulgt av navn på de mikronæringsstoff som er tilstede.
+
+2\. For gjødsel som ikke er i samsvar med kriterier gitt for varetype i vedlegg 2 kolonne 1 fastsettes varetypen slik:
+
+1. Gjødsel som inneholder ett hovednæringsstoff eller sekundærnæringsstoff skal ha navnet på forbindelsen som varetype.
+2. Gjødsel som inneholder flere hovednæringsstoff eller sekundærnæringsstoff skal ha varetype «uorganisk gjødsel».
+3. Gjødsel som inneholder bare ett mikronæringsstoff skal ha navn på forbindelsen som varetype.
+4. For oppløsninger eller suspensjoner av fast eller flytende gjødsel skal «oppløsning av» eller «suspensjon av» tilføyes før varetypen.
+5. Mekanisk blandet gjødsel skal ha tilføyelsen «mekanisk blandet» anført i tilknytning til varetype.
 
 ### § 19. Generelt om varedeklarasjon for gjødsel
 
-Varedeklarasjonen skal inneholde følgende:Handelsnavn og varetype.Navn, firmanavn eller firmamerke samt adresse til ansvarlig firma i Norge.Innholdet angitt som netto- eller bruttovekt. Dersom bruttovekten oppgis, må vekten av tara også oppgis.Innhold av hvert næringsstoff eller andre virksomme stoffer og egenskaper med hensyn til form eller oppløselighet angitt slik dette er foreskrevet for de enkelte varetyper som omfattes av forskriften.Konsentrasjon av næringsstoffer angitt på elementbasis. Både n avn og kjemisk betegnelse skal oppgis og skal alltid nevnes i denne rekkefølgen: nitrogen (N), fosfor (P), kalium (K), kalsium (Ca), klor (Cl), magnesium (Mg), natrium (Na), svovel (S), bor (B), kobolt (Co), kobber (Cu), jern (Fe), mangan (Mn), molybden (Mo) og sink (Zn).Hoved- og sekundærnæringsstoff uttrykt i masseprosent og i hele tall eller med en desimal. Form og oppløselighet av næringsstoffer må oppgis i masseprosent av gjødselen med unntak for de varetypene i vedlegg 2 som uttrykkelig bestemmer at det skal gjøres på annen måte.Innhold av mikronæringsstoffer når slike er tilsatt og tilstede i mengder som tilsvarer det minsteinnholdet som er oppført i vedlegg 3 kolonne 3 – 6. Innholdet av mikronæringsstoff kan uttrykkes med det antall desimaler som er angitt i vedlegg 3. Dersom mikronæringsstoffene er vanlige bestandeler i råvaren som tilfører hoved- eller sekundærnæringsstoffene, og er tilstede i de mengder som er oppført i vedlegg 3, er deklarering frivillig.
+Varedeklarasjonen skal inneholde følgende:
+
+1. Handelsnavn og varetype.
+2. Navn, firmanavn eller firmamerke samt adresse til ansvarlig firma i Norge.
+3. Innholdet angitt som netto- eller bruttovekt. Dersom bruttovekten oppgis, må vekten av tara også oppgis.
+4. Innhold av hvert næringsstoff eller andre virksomme stoffer og egenskaper med hensyn til form eller oppløselighet angitt slik dette er foreskrevet for de enkelte varetyper som omfattes av forskriften.
+5. Konsentrasjon av næringsstoffer angitt på elementbasis. Både n avn og kjemisk betegnelse skal oppgis og skal alltid nevnes i denne rekkefølgen: nitrogen (N), fosfor (P), kalium (K), kalsium (Ca), klor (Cl), magnesium (Mg), natrium (Na), svovel (S), bor (B), kobolt (Co), kobber (Cu), jern (Fe), mangan (Mn), molybden (Mo) og sink (Zn).
+6. Hoved- og sekundærnæringsstoff uttrykt i masseprosent og i hele tall eller med en desimal. Form og oppløselighet av næringsstoffer må oppgis i masseprosent av gjødselen med unntak for de varetypene i vedlegg 2 som uttrykkelig bestemmer at det skal gjøres på annen måte.
+7. Innhold av mikronæringsstoffer når slike er tilsatt og tilstede i mengder som tilsvarer det minsteinnholdet som er oppført i vedlegg 3 kolonne 3 – 6. Innholdet av mikronæringsstoff kan uttrykkes med det antall desimaler som er angitt i vedlegg 3. Dersom mikronæringsstoffene er vanlige bestandeler i råvaren som tilfører hoved- eller sekundærnæringsstoffene, og er tilstede i de mengder som er oppført i vedlegg 3, er deklarering frivillig.
 
 Det er forbudt å oppgi innholdet av ikke spesifiserte næringsstoffer. Mattilsynet kan forby å oppgi innholdet av et næringsstoff når det er grunn til tvil om effekten.
 
@@ -226,7 +275,12 @@ Når et mikronæringsstoff helt eller delvis er kjemisk bundet til et organisk m
 
 ### § 21. Spesielle merkebestemmelser for gjødsel som ikke omfattes av vedlegg 2
 
-Innholdet av næringsstoff skal oppgis på følgende måte:Nitrogen (N): I alle gjødseltyper som inneholder N, oppgis totalt N. Det er valgfritt å deklarere nitrat-N og ammonium-N.Fosfor (P): I alle gjødseltyper som inneholder P oppgis total P. Innhold av vannløselig P skal oppgis etter anmodning.Kalium (K): I alle gjødseltyper som inneholder K oppgis vannløselig innhold av K.Innhold av magnesium (Mg), kalsium (Ca), svovel (S) og mikronæringsstoff kan bare oppgis dersom innholdet av det enkelte grunnstoff overstiger verdiene angitt i vedlegg 3 kolonne 6. For magnesium, svovel og mikronæringsstoff skal totalinnholdet oppgis, for kalsium skal vannløselig innhold oppgis.
+Innholdet av næringsstoff skal oppgis på følgende måte:
+
+1. Nitrogen (N): I alle gjødseltyper som inneholder N, oppgis totalt N. Det er valgfritt å deklarere nitrat-N og ammonium-N.
+2. Fosfor (P): I alle gjødseltyper som inneholder P oppgis total P. Innhold av vannløselig P skal oppgis etter anmodning.
+3. Kalium (K): I alle gjødseltyper som inneholder K oppgis vannløselig innhold av K.
+4. Innhold av magnesium (Mg), kalsium (Ca), svovel (S) og mikronæringsstoff kan bare oppgis dersom innholdet av det enkelte grunnstoff overstiger verdiene angitt i vedlegg 3 kolonne 6. For magnesium, svovel og mikronæringsstoff skal totalinnholdet oppgis, for kalsium skal vannløselig innhold oppgis.
 
 ### § 22. Tilleggsmerking av mikronæringsgjødsel
 
@@ -254,7 +308,20 @@ For gruppen «annen kalk» skal varetypen betegnes ut fra opphavsmaterialet elle
 
 ### § 25. Varedeklarering av kalkingsmidler
 
-Varedeklarasjonen skal inneholde følgende:Handelsnavn og varetype.Navn, firmanavn eller firmamerke samt adresse til ansvarlig firma i Norge.Innholdet som netto- eller bruttovekt. Dersom bruttovekten oppgis, må vekten av tara også oppgis.Opphavsmateriale. Produktets geologiske opphavsmateriale og eventuelt fremstillingsmåte skal oppgis.Massetetthet oppgitt i kg/dm3.Vanninnhold oppgitt i masseprosent.Nøytraliserende verdi angitt som et ubenevnt tall tilsvarende kg CaO i 100 kg produkt. Verdien kan angis som et intervall på inntil 10% av intervallets laveste verdi.Innhold av kalsium (Ca) og magnesium (Mg) oppgitt i masseprosent for vare som levert. Innholdet av magnesium (Mg) skal bare oppgis hvis det er minst 0,5 prosent.Findelingsgrad oppgitt som den masseprosent av produktet som passerer siktene gitt i vedlegg 8 kolonne 5 til 11. For produkter som er en blanding av kalkingsmidler oppgis findelingsgrad i forhold til dens bestanddeler.Veiledende kalkverdi over 1 år og over 5 år angitt som tosifrede, ubenevnte tall. Kalkverdi skal korrigeres for vanninnhold.Innhold av karbonatrest i brentkalk.Innhold av plantenæringsstoff etter bestemmelser i [§ 19](forskrift/2003-07-04-1063/§19) bokstav e, f og g.
+Varedeklarasjonen skal inneholde følgende:
+
+1. Handelsnavn og varetype.
+2. Navn, firmanavn eller firmamerke samt adresse til ansvarlig firma i Norge.
+3. Innholdet som netto- eller bruttovekt. Dersom bruttovekten oppgis, må vekten av tara også oppgis.
+4. Opphavsmateriale. Produktets geologiske opphavsmateriale og eventuelt fremstillingsmåte skal oppgis.
+5. Massetetthet oppgitt i kg/dm3.
+6. Vanninnhold oppgitt i masseprosent.
+7. Nøytraliserende verdi angitt som et ubenevnt tall tilsvarende kg CaO i 100 kg produkt. Verdien kan angis som et intervall på inntil 10% av intervallets laveste verdi.
+8. Innhold av kalsium (Ca) og magnesium (Mg) oppgitt i masseprosent for vare som levert. Innholdet av magnesium (Mg) skal bare oppgis hvis det er minst 0,5 prosent.
+9. Findelingsgrad oppgitt som den masseprosent av produktet som passerer siktene gitt i vedlegg 8 kolonne 5 til 11. For produkter som er en blanding av kalkingsmidler oppgis findelingsgrad i forhold til dens bestanddeler.
+10. Veiledende kalkverdi over 1 år og over 5 år angitt som tosifrede, ubenevnte tall. Kalkverdi skal korrigeres for vanninnhold.
+11. Innhold av karbonatrest i brentkalk.
+12. Innhold av plantenæringsstoff etter bestemmelser i [§ 19](forskrift/2003-07-04-1063/§19) bokstav e, f og g.
 
 > Endret ved forskrifter [9 jan 2004 nr. 140](forskrift/2004-01-09-140), [26 nov 2014 nr. 1469](forskrift/2014-11-26-1469), [12 mars 2025 nr. 447](forskrift/2025-03-12-447).
 
@@ -286,7 +353,12 @@ Virksomheter som omfattes av denne forskrift skal innføre og utøve internkontr
 
 ### § 31. Krav til internkontrollen
 
-Internkontroll innebærer at virksomheten skal:Ha oversikt over organisering og ansvarsforhold.Kartlegge risiko for overtredelse av gjødselvareregelverket ut fra virksomhetens aktiviteter, og iverksette tiltak for å redusere risikoen.Ha rutiner for å avdekke, rette opp og hindre gjentakelse av overtredelser.Foreta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
+Internkontroll innebærer at virksomheten skal:
+
+1. Ha oversikt over organisering og ansvarsforhold.
+2. Kartlegge risiko for overtredelse av gjødselvareregelverket ut fra virksomhetens aktiviteter, og iverksette tiltak for å redusere risikoen.
+3. Ha rutiner for å avdekke, rette opp og hindre gjentakelse av overtredelser.
+4. Foreta systematisk gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.
 
 [Punkt](forskrift/2003-07-04-1063/kap1) 1 – 4 skal dokumenteres skriftlig i den form og det omfang som er nødvendig på bakgrunn av virksomhetens art, aktiviteter, risikoforhold og størrelse. Dokumentasjonen skal være tilgjengelig for Mattilsynet.
 
@@ -577,7 +649,23 @@ For gjødsel som selges i granulert form og med foreskrevet findelingsgrad for d
 
 ## Vedlegg 3. Krav til minsteinnhold av sekundær- og mikronæringsstoffer i gjødsel
 
-1. Verdiene i tabellen nedenfor angir absolutt minsteinnhold for et næringsstoff som skal/kan deklareres. Alle verdier er oppgitt i masseprosent av gjødselen. *Næringsstoff**Faste eller flytende blandinger av mikronæringsstoffer**Gjødsel som inneholder hoved- og/eller sekundærnæringsstoffer med mikronæringsstoffer**1**2**3**4**5**Næringsstoff tilstede i uorganisk form**Næringsstoff som kjelat**Til bruk på/i jorda på åker og eng**Til bruk på/i jorda i gartneri**Bladgjødsel*Ca––0,60,60,6Mg––0,80,80,8Na––2,22,22,2S––0,80,80,8B0,20,20,010,010,01Co0,020,020,002–0,002Cu0,50,10,010,0020,02Fe20,30,50,020,02Mn0,50,10,10,010,01Mo0,02–0,0010,0010,001Zn0,50,10,010,0020,002
+1. Verdiene i tabellen nedenfor angir absolutt minsteinnhold for et næringsstoff som skal/kan deklareres. Alle verdier er oppgitt i masseprosent av gjødselen.
+
+   | *Næringsstoff* | *Faste eller flytende blandinger av mikronæringsstoffer* |  | *Gjødsel som inneholder hoved- og/eller sekundærnæringsstoffer med mikronæringsstoffer* |  |  |
+   | --- | --- | --- | --- | --- | --- |
+   |  | *1* | *2* | *3* | *4* | *5* |
+   |  | *Næringsstoff tilstede i uorganisk form* | *Næringsstoff som kjelat* | *Til bruk på/i jorda på åker og eng* | *Til bruk på/i jorda i gartneri* | *Bladgjødsel* |
+   | Ca | – | – | 0,6 | 0,6 | 0,6 |
+   | Mg | – | – | 0,8 | 0,8 | 0,8 |
+   | Na | – | – | 2,2 | 2,2 | 2,2 |
+   | S | – | – | 0,8 | 0,8 | 0,8 |
+   | B | 0,2 | 0,2 | 0,01 | 0,01 | 0,01 |
+   | Co | 0,02 | 0,02 | 0,002 | – | 0,002 |
+   | Cu | 0,5 | 0,1 | 0,01 | 0,002 | 0,02 |
+   | Fe | 2 | 0,3 | 0,5 | 0,02 | 0,02 |
+   | Mn | 0,5 | 0,1 | 0,1 | 0,01 | 0,01 |
+   | Mo | 0,02 | – | 0,001 | 0,001 | 0,001 |
+   | Zn | 0,5 | 0,1 | 0,01 | 0,002 | 0,002 |
 2. Samlet minsteinnhold av mikronæringsstoffer i faste blandinger av gjødseltypene i vedlegg 2 [kapittel D](forskrift/2003-07-04-1063/kapd) skal være 5 masseprosent.
 3. Samlet minsteinnhold av mikronæringsstoffer i flytende blandinger av gjødseltypene i vedlegg 2 [kapittel D](forskrift/2003-07-04-1063/kapd) skal være 2 masseprosent.
 4. Når et mikronæringsstoff foreligger i kjelatert form skal pH-intervallet der kjelatet er stabilt oppgis.
@@ -586,8 +674,17 @@ For gjødsel som selges i granulert form og med foreskrevet findelingsgrad for d
 
 ## Vedlegg 4. Liste over organiske stoffer godkjent som kjelatdannere for mikronæringsstoffer
 
-1. Følgende stoffer er godkjent for bruk som kjelatdannere for mikronæringsstoffer samt natrium-, kalium- og ammoniumsalter av disse:etylendiamintetraeddikksyre:EDTAC10 H16 O8 N2dietylentriaminpentaeddiksyre:DTPAC14 H23 O10 N3etylendiamin-di-(O-hydroksyfenyleddiksyre):EDDHAC18 H20 O6 N22-hydroksyetylendiamintrieddiksyre:HEDTAC10 H18 O7 N2etyldiamin-di-(O-hydroksi-p-metylfenyleddiksyre):EDDHMAC20 H24 N2 O6etylendiamin-di-(5-karboksi-2-hydroksifenyleddiksyre):EDDCHAC20 H20 O10 N2etylendiamin-di-((2-hydroksi 5-sulphonatfenyleddikksyre) og stoffets kondensasjonsprodukterEDDHSAC18 H20 O12 N2 S2 +
-n\*(C12 H14 O8 N2 S)
+1. Følgende stoffer er godkjent for bruk som kjelatdannere for mikronæringsstoffer samt natrium-, kalium- og ammoniumsalter av disse:
+
+   |  |  |  |
+   | --- | --- | --- |
+   | etylendiamintetraeddikksyre: | EDTA | C10 H16 O8 N2 |
+   | dietylentriaminpentaeddiksyre: | DTPA | C14 H23 O10 N3 |
+   | etylendiamin-di-(O-hydroksyfenyleddiksyre): | EDDHA | C18 H20 O6 N2 |
+   | 2-hydroksyetylendiamintrieddiksyre: | HEDTA | C10 H18 O7 N2 |
+   | etyldiamin-di-(O-hydroksi-p-metylfenyleddiksyre): | EDDHMA | C20 H24 N2 O6 |
+   | etylendiamin-di-(5-karboksi-2-hydroksifenyleddiksyre): | EDDCHA | C20 H20 O10 N2 |
+   | etylendiamin-di-((2-hydroksi 5-sulphonatfenyleddikksyre) og stoffets kondensasjonsprodukter | EDDHSA | C18 H20 O12 N2 S2 +<br>n\*(C12 H14 O8 N2 S) |
 
 > Endret ved [forskrift 16 jan 2006 nr. 43](forskrift/2006-01-16-43).
 
@@ -595,7 +692,9 @@ n\*(C12 H14 O8 N2 S)
 
 1. De toleranser som angis i dette vedlegg, er tillatte avvik mellom den målte og den deklarerte verdi for et næringsstoff.
 2. Det tillates ingen toleranser med hensyn til minimums- og maksimumsinnholdet spesifisert i vedlegg 2.
-3. Når det ikke angis noe maksimum, er det ingen restriksjoner på hvor stort innholdet av det næringsstoffet som overstiger den deklarerte mengden, kan være.Toleransen for deklarerte verdier av urea, ammonium- og nitratnitrogen er 10% av det totale innholdet av nitrogen, maksimalt 2 prosentenheter. Toleransen for deklarerte verdier av løselig fosfor er 10% av det totale innholdet av fosfor, maksimalt 0,9 prosenteneheter. For begge næringsstoffer forutsettes det at totalinnholdet ligger innenfor grensene angitt i vedlegg 2 og de toleranser som er spesifisert i dette vedlegg.
+3. Når det ikke angis noe maksimum, er det ingen restriksjoner på hvor stort innholdet av det næringsstoffet som overstiger den deklarerte mengden, kan være.
+
+   Toleransen for deklarerte verdier av urea, ammonium- og nitratnitrogen er 10% av det totale innholdet av nitrogen, maksimalt 2 prosentenheter. Toleransen for deklarerte verdier av løselig fosfor er 10% av det totale innholdet av fosfor, maksimalt 0,9 prosenteneheter. For begge næringsstoffer forutsettes det at totalinnholdet ligger innenfor grensene angitt i vedlegg 2 og de toleranser som er spesifisert i dette vedlegg.
 4. For det deklarerte innhold av næringsstoffer i de ulike gjødseltypene i vedlegg 1 gjelder følgende toleranser:
 
 > Endret ved [forskrifter 9 nov 2005 nr. 1313](forskrift/2005-11-09-1313), [16 jan 2006 nr. 43](forskrift/2006-01-16-43).
@@ -701,7 +800,10 @@ De toleranser som er tillatt i forhold til deklarert innhold av kalsium, magnesi
 
 ### D. Mikronæringsstoffer
 
-De toleranser som er tillatt i forhold til det deklarerte innhold av mikronæringgstoffer i alle gjødseltyper skal være:0,4% i absoluttverdi ved et innhold på mer enn 2%20% av deklarert verdi ved et innhold på 2% eller mindre.
+De toleranser som er tillatt i forhold til det deklarerte innhold av mikronæringgstoffer i alle gjødseltyper skal være:
+
+- 0,4% i absoluttverdi ved et innhold på mer enn 2%
+- 20% av deklarert verdi ved et innhold på 2% eller mindre.
 
 ## Vedlegg 6. (Opphevet ved forskrift 26 nov 2014 nr. 1469.)
 

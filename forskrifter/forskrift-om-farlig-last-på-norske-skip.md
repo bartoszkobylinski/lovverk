@@ -15,7 +15,7 @@ xml_hash: "76812b9db6e78277c537625feff4031fc3b94768a658090e92f2528ba2306b5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,16 @@ Forbudet gjelder ikke frakt av pakket farlig last nevnt i ADR 2017 underavsnitt 
 
 ### § 3. Dokumentasjon om den farlige lasten
 
-Skipsføreren eller rederiet skal motta dokumentasjon om den farlige lasten før lasten tas om bord på skipet. Dokumentasjonen skal inneholde opplysninger omkorrekt teknisk betegnelse på den farlige lasten medUN-numre når det finnesIMO-fareklassen i samsvar med internasjonale regler for frakt av pakket farlig last til sjøs (IMDG-koden), internasjonale regler for bygging og utrustning av skip som frakter farlige kjemikalier i bulk (IBC-koden), eller internasjonale regler for bygging og utrustning av skip som fører flytende gasser i bulk (IGC-koden).hvilken skipsklasse som kreves for å frakte den farlige lasten i samsvar med de internasjonale sikkerhetsreglene for transport av pakket bestrålt kjernebrensel, plutonium og høyradioaktivt avfall på skip (INF-koden)mengden farlig lasttransportenhetens identifikasjonsnummer når den farlige lasten transporteres i andre transportenheter enn tankernødnumrene til avskiperen eller en annen person eller instans som har kunnskap om den farlige lastens fysisk-kjemiske egenskaper og om nødvendige tiltak i tilfelle en nødssituasjon.
+Skipsføreren eller rederiet skal motta dokumentasjon om den farlige lasten før lasten tas om bord på skipet. Dokumentasjonen skal inneholde opplysninger om
+
+1. korrekt teknisk betegnelse på den farlige lasten med
+
+   1. UN-numre når det finnes
+   2. IMO-fareklassen i samsvar med internasjonale regler for frakt av pakket farlig last til sjøs (IMDG-koden), internasjonale regler for bygging og utrustning av skip som frakter farlige kjemikalier i bulk (IBC-koden), eller internasjonale regler for bygging og utrustning av skip som fører flytende gasser i bulk (IGC-koden).
+2. hvilken skipsklasse som kreves for å frakte den farlige lasten i samsvar med de internasjonale sikkerhetsreglene for transport av pakket bestrålt kjernebrensel, plutonium og høyradioaktivt avfall på skip (INF-koden)
+3. mengden farlig last
+4. transportenhetens identifikasjonsnummer når den farlige lasten transporteres i andre transportenheter enn tanker
+5. nødnumrene til avskiperen eller en annen person eller instans som har kunnskap om den farlige lastens fysisk-kjemiske egenskaper og om nødvendige tiltak i tilfelle en nødssituasjon.
 
 Dokumentasjonen skal være tilgjengelig om bord på skipet.
 
@@ -52,7 +61,13 @@ Skip som frakter pakket farlig last skal i tillegg ha prosedyrer for håndtering
 
 ### § 5. Frakt av farlig last på skip i utenriksfart
 
-For lasteskip og passasjerskip i utenriksfart gjelder som forskrift[Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS)](traktat/1974-11-01-1) konsolidert utgave 2020 kapittel VIIInternational Maritime Dangerous Goods Code (IMDG-koden) konsolidert utgave 2024 jf. MSC.556 (108).International code for the construction and equipment of ships carrying dangerous chemicals in bulk (IBC-koden) jf. MSC.4(48), konsolidert utgave 2020 som endret ved MSC.460(101) og MSC.526(106)International Code for the construction and equipment of ships carrying liquefied gases in bulk (IGC-koden) konsolidert utgave 2014 jf. MSC.370(93), som endret ved MSC.411(97), MSC.441(99), MSC.476(102), MSC.492(104), MSC.523(106) og MSC.566(109).International Code for the Safe Carriage of Packaged Irridated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes on Board Ships (INF-koden), jf. MSC.88(71), som endret ved MSC.118(74), MSC.135(76) og MSC.241(83).
+For lasteskip og passasjerskip i utenriksfart gjelder som forskrift
+
+1. [Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS)](traktat/1974-11-01-1) konsolidert utgave 2020 kapittel VII
+2. International Maritime Dangerous Goods Code (IMDG-koden) konsolidert utgave 2024 jf. MSC.556 (108).
+3. International code for the construction and equipment of ships carrying dangerous chemicals in bulk (IBC-koden) jf. MSC.4(48), konsolidert utgave 2020 som endret ved MSC.460(101) og MSC.526(106)
+4. International Code for the construction and equipment of ships carrying liquefied gases in bulk (IGC-koden) konsolidert utgave 2014 jf. MSC.370(93), som endret ved MSC.411(97), MSC.441(99), MSC.476(102), MSC.492(104), MSC.523(106) og MSC.566(109).
+5. International Code for the Safe Carriage of Packaged Irridated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes on Board Ships (INF-koden), jf. MSC.88(71), som endret ved MSC.118(74), MSC.135(76) og MSC.241(83).
 
 > Endret ved [forskrifter 11 des 2015 nr. 1561](forskrift/2015-12-11-1561) (i kraft 1 jan 2016), [19 des 2017 nr. 2347](forskrift/2017-12-19-2347) (i kraft 1 jan 2018), [11 des 2019 nr. 1708](forskrift/2019-12-11-1708) (i kraft 1 jan 2020), [18 des 2019 nr. 1888](forskrift/2019-12-18-1888) (i kraft 1 jan 2020), [17 des 2020 nr. 2985](forskrift/2020-12-17-2985) (i kraft 1 jan 2021), [1 juni 2022 nr. 1323](forskrift/2022-06-01-1323), [7 nov 2023 nr. 1794](forskrift/2023-11-07-1794) (i kraft 1 jan 2024), [21 juni 2024 nr. 1307](forskrift/2024-06-21-1307) (i kraft 1 juli 2024), [15 des 2025 nr. 2917](forskrift/2025-12-15-2917) (i kraft 1 jan 2026), [29 juni 2026 nr. 1399](forskrift/2026-06-29-1399) (i kraft 1 juli 2026).
 
@@ -60,11 +75,18 @@ For lasteskip og passasjerskip i utenriksfart gjelder som forskrift[Den internas
 
 Skip som brukes i en støttefunksjon i offshorevirksomhet, som fører farlig flytende stoff i bulk, og som følger FNs sjøfartsorganisasjons regelverk for transport og håndtering av farlige flytende stoffer i bulk på offshore støttefartøy, jf. IMO-resolusjon A.1122(30) (OSV Chemical Code), kan unnlate å følge kravene i [§ 5](forskrift/2014-07-01-944/§5) bokstav c og bokstav d.
 
-Med skip som brukes i en støttefunksjon, menesskip som primært brukes til transport av forråd, materialer og utstyr til og fra en fast eller flyttbar boreinnretning eller installasjon, og andre liknende offshoreinstallasjonerskip, herunder et brønnstimuleringsfartøy, som primært brukes til å støtte driften av en offshoreinstallasjon. Flyttbare boreinnretninger, kranlektere, rørleggingslektere eller flytende boligenheter er ikke skip som brukes i en støttefunksjon.
+Med skip som brukes i en støttefunksjon, menes
+
+1. skip som primært brukes til transport av forråd, materialer og utstyr til og fra en fast eller flyttbar boreinnretning eller installasjon, og andre liknende offshoreinstallasjoner
+2. skip, herunder et brønnstimuleringsfartøy, som primært brukes til å støtte driften av en offshoreinstallasjon. Flyttbare boreinnretninger, kranlektere, rørleggingslektere eller flytende boligenheter er ikke skip som brukes i en støttefunksjon.
 
 Skip som er bygget før 1. januar 2021, som brukes i en støttefunksjon i offshorevirksomhet, og som fører begrensede mengder av farlige flytende stoffer i bulk, kan i stedet for kravene i første ledd følge IMO-resolusjon A.673(16), som endret ved MSC.236(82).
 
-Sjøfartsdirektoratet kan unnta et skip som er bygget på eller etter 19. april 1990 og før 1. januar 2021, fra ett eller flere av kravene i første ledd dersom rederiet søker skriftlig om unntak, og følgende krav er oppfylt:Skipet følger IMO-resolusjon A.673(16), som endret ved MSC.236(82).Stabilitetskravene i OSV Chemical Code er oppfylt med utgangspunkt i stabilitetskravene ved skipets byggeår.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravene i første ledd.
+Sjøfartsdirektoratet kan unnta et skip som er bygget på eller etter 19. april 1990 og før 1. januar 2021, fra ett eller flere av kravene i første ledd dersom rederiet søker skriftlig om unntak, og følgende krav er oppfylt:
+
+1. Skipet følger IMO-resolusjon A.673(16), som endret ved MSC.236(82).
+2. Stabilitetskravene i OSV Chemical Code er oppfylt med utgangspunkt i stabilitetskravene ved skipets byggeår.
+3. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravene i første ledd.
 
 Skip som er omfattet av tredje ledd kan frakte «offshore contaminated bulk liquid P» om de oppfyller kravene i kapittel 16 i A.1122(30) og føringsbetingelsen i MSC.460(101). Krav til stabilitet og tankplassering for skips type 2 kan unnlattes å følges om tilsvarende krav i A.673(16) er oppfylt.
 
@@ -88,19 +110,45 @@ Gasstankskip som var kjølstrukket eller på et tilsvarende byggetrinn før 1. j
 
 [§ 5](forskrift/2014-07-01-944/§5) og [§ 7](forskrift/2014-07-01-944/§7) gjelder tilsvarende for lasteskip i innenriksfart.
 
-Skip som er omfattet av første og tredje ledd i [§ 6](forskrift/2014-07-01-944/§6) og opererer på norsk kontinentalsokkel, kan unnlate å følge føringsbetingelsene til «offshore contaminated bulk liquid S» når returlasten har blitt behandlet for å forhindre utvikling av hydrogensulfidgass, jf. punkt 16.4.4.2.1 i A.1122(30) og MSC.460(101), nårreturlasten inneholder mindre enn 0.8 % av H2S Scavenger,forutsetningene for «offshore contaminated bulk liquid P» kan opprettholdes under hele transporten, jf. punkt 16.4.4.2.2 i A.1122(30) og MSC.460(101), oglastetankene er utstyrt med kontrollert ventilasjon og lukket nivåmålingssystem, jf. kapittel 7 og kapittel 11 i A.1122(30).
+Skip som er omfattet av første og tredje ledd i [§ 6](forskrift/2014-07-01-944/§6) og opererer på norsk kontinentalsokkel, kan unnlate å følge føringsbetingelsene til «offshore contaminated bulk liquid S» når returlasten har blitt behandlet for å forhindre utvikling av hydrogensulfidgass, jf. punkt 16.4.4.2.1 i A.1122(30) og MSC.460(101), når
+
+1. returlasten inneholder mindre enn 0.8 % av H2S Scavenger,
+2. forutsetningene for «offshore contaminated bulk liquid P» kan opprettholdes under hele transporten, jf. punkt 16.4.4.2.2 i A.1122(30) og MSC.460(101), og
+3. lastetankene er utstyrt med kontrollert ventilasjon og lukket nivåmålingssystem, jf. kapittel 7 og kapittel 11 i A.1122(30).
 
 > Endret ved [forskrifter 6 sep 2017 nr. 1360](forskrift/2017-09-06-1360) (i kraft 15 sep 2017), [20 sep 2017 nr. 1439](forskrift/2017-09-20-1439), [17 des 2020 nr. 2985](forskrift/2020-12-17-2985) (i kraft 1 jan 2021), [21 juni 2024 nr. 1307](forskrift/2024-06-21-1307) (i kraft 1 juli 2024).
 
 ### § 9. Frakt av pakket farlig last på skip i offshorevirksomhet på norsk kontinentalsokkel
 
-Skip som brukes i støttefunksjon i offshorevirksomhet og som fører farlig last i lukket lastbærer til, fra og mellom norsk havn og installasjoner på norsk kontinentalsokkel, kan unnlate å følge kravene i [§ 8](forskrift/2014-07-01-944/§8) annet ledd, når de oppfyller følgende krav:Krav til merking:Lasten skal føres i lukket lastbærer, og hvert kolli skal merkes med fareseddel.Lastbærere som inneholder produkter som er klassifisert i henhold til IMDG-koden, skal forsynes med fareseddel med minstestørrelse 10x10 cm. Fareseddelen skal være godt synlig for skipets besetning. Merking i samsvar med ADR/RID tillates.Krav til dokumentasjon:Lasteliste skal angi type og mengde farlig last som føres og hvor lasten er plassert.Krav til stuing:Lastbærere med farlig last skal stues på åpent dekk.Last som etter IMDG-koden skal stues «away from» kan stues i samme lastbærer når lasten ikke kan gi uønskede reaksjoner og er av samme fareklasse.Last som etter IMDG-koden skal stues «separated from» kan stues i samme lastbærer på samme vilkår som under punkt ii, hvis de ulike lastene er plassert med minst 3 meters avstand.Last som etter IMDG-koden skal stues «separated by a complete compartment or hold from» skal plasseres på åpent dekk i forskjellige lastbærere med minst 3 meters avstand.
+Skip som brukes i støttefunksjon i offshorevirksomhet og som fører farlig last i lukket lastbærer til, fra og mellom norsk havn og installasjoner på norsk kontinentalsokkel, kan unnlate å følge kravene i [§ 8](forskrift/2014-07-01-944/§8) annet ledd, når de oppfyller følgende krav:
+
+1. Krav til merking:
+
+   1. Lasten skal føres i lukket lastbærer, og hvert kolli skal merkes med fareseddel.
+   2. Lastbærere som inneholder produkter som er klassifisert i henhold til IMDG-koden, skal forsynes med fareseddel med minstestørrelse 10x10 cm. Fareseddelen skal være godt synlig for skipets besetning. Merking i samsvar med ADR/RID tillates.
+2. Krav til dokumentasjon:
+
+   1. Lasteliste skal angi type og mengde farlig last som føres og hvor lasten er plassert.
+3. Krav til stuing:
+
+   1. Lastbærere med farlig last skal stues på åpent dekk.
+   2. Last som etter IMDG-koden skal stues «away from» kan stues i samme lastbærer når lasten ikke kan gi uønskede reaksjoner og er av samme fareklasse.
+   3. Last som etter IMDG-koden skal stues «separated from» kan stues i samme lastbærer på samme vilkår som under punkt ii, hvis de ulike lastene er plassert med minst 3 meters avstand.
+   4. Last som etter IMDG-koden skal stues «separated by a complete compartment or hold from» skal plasseres på åpent dekk i forskjellige lastbærere med minst 3 meters avstand.
 
 Lasten skal være emballert i henhold til IMDG-koden, Annex 1 (Packing Recommendations).
 
 ### § 10. Frakt av pakket farlig last på roro-skip i innenriksfart
 
-Roro-skip bygget i stål med fastmontert skumslokkingsanlegg i samsvar med [forskrift 1. juli 2014 nr. 1099](forskrift/2014-07-01-1099) om brannsikring på skip [§ 6](forskrift/2014-07-01-1099/§6), som seiler en strekning som er en del veinettet i Norge, kan unnlate å følge kravene i [§ 8](forskrift/2014-07-01-944/§8) når skipethar maksimaltfire motorvogner med eller uten tilkoplet henger (ADR-transportenheter) samtidig på et åpent dekk eller to ADR-transportenheter på et lukket dekk ellerto ADR-transportenheter med brannfarlig væske i emballasjegruppe I og II eller brannfarlig gass samtidigplasserer og adskiller ADR-transportenhetene på en betryggende måte slik at faren for uhell reduseres og slik at beredskapstiltak kan iverksetteshar brann- og sikkerhetsutstyr tilpasset de ulike typene farlig last som skipet frakterstuer ADR-transportenhetene etter stuingsplanen i vedlegg 1.
+Roro-skip bygget i stål med fastmontert skumslokkingsanlegg i samsvar med [forskrift 1. juli 2014 nr. 1099](forskrift/2014-07-01-1099) om brannsikring på skip [§ 6](forskrift/2014-07-01-1099/§6), som seiler en strekning som er en del veinettet i Norge, kan unnlate å følge kravene i [§ 8](forskrift/2014-07-01-944/§8) når skipet
+
+1. har maksimalt
+
+   1. fire motorvogner med eller uten tilkoplet henger (ADR-transportenheter) samtidig på et åpent dekk eller to ADR-transportenheter på et lukket dekk eller
+   2. to ADR-transportenheter med brannfarlig væske i emballasjegruppe I og II eller brannfarlig gass samtidig
+2. plasserer og adskiller ADR-transportenhetene på en betryggende måte slik at faren for uhell reduseres og slik at beredskapstiltak kan iverksettes
+3. har brann- og sikkerhetsutstyr tilpasset de ulike typene farlig last som skipet frakter
+4. stuer ADR-transportenhetene etter stuingsplanen i vedlegg 1.
 
 Lasten i ADR-transportenhetene skal være klassifisert, pakket, merket, dokumentert og lastet i samsvar med [forskrift 1. april 2009 nr. 384](forskrift/2009-04-01-384) om landtransport av farlig gods.
 
@@ -124,7 +172,15 @@ Hvis stuingsplanen i vedlegg 1 B forbyr stuing som er tillatt etter IMDG-koden, 
 
 ### § 11. Tilleggskrav for roro-skip uten fastmontert skumslukkeanlegg
 
-Roro-skip bygget i stål uten fastmontert skumslokkingsanlegg i samsvar med [forskrift 1. juli 2014 nr. 1099](forskrift/2014-07-01-1099) om brannsikring på skip [§ 6](forskrift/2014-07-01-1099/§6), som seiler en strekning som er en del av veinettet i Norge, kan unnlate å følge kravene i [§ 8](forskrift/2014-07-01-944/§8) når skipethar en overfartstid fra havn til havn på under en timehar maksimalt én ADR-transportenhet om bordplasserer ADR-transportenheten på åpent roro-dekkplasserer ADR-transportenheten på en betryggende måte slik at faren for uhell reduseres og slik at beredskapstiltak kan iverksetteshar minst 100 liter egnet skum på kanner og minst fem sekker à 25 kg ikke-brennbart absorpsjonsmateriale som er klart til bruk når farlig last transporteresstuer ADR-transportenheten etter stuingsplanen i vedlegg 2følger kravene i [§ 10](forskrift/2014-07-01-944/§10) andre til åttende ledd.
+Roro-skip bygget i stål uten fastmontert skumslokkingsanlegg i samsvar med [forskrift 1. juli 2014 nr. 1099](forskrift/2014-07-01-1099) om brannsikring på skip [§ 6](forskrift/2014-07-01-1099/§6), som seiler en strekning som er en del av veinettet i Norge, kan unnlate å følge kravene i [§ 8](forskrift/2014-07-01-944/§8) når skipet
+
+1. har en overfartstid fra havn til havn på under en time
+2. har maksimalt én ADR-transportenhet om bord
+3. plasserer ADR-transportenheten på åpent roro-dekk
+4. plasserer ADR-transportenheten på en betryggende måte slik at faren for uhell reduseres og slik at beredskapstiltak kan iverksettes
+5. har minst 100 liter egnet skum på kanner og minst fem sekker à 25 kg ikke-brennbart absorpsjonsmateriale som er klart til bruk når farlig last transporteres
+6. stuer ADR-transportenheten etter stuingsplanen i vedlegg 2
+7. følger kravene i [§ 10](forskrift/2014-07-01-944/§10) andre til åttende ledd.
 
 Hvis forskjellige farlige stoffer er lastet i samme ADR-transportenhet og et av stoffene ikke er tillatt etter stuingsplanen i vedlegg 2 B, gjelder forbudet hele ADR-transportenheten.
 
@@ -146,9 +202,16 @@ Kravene i [§ 10](forskrift/2014-07-01-944/§10) bokstav a og d og [§ 11](forsk
 
 Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene er likeverdige med forskriftens krav.
 
-Sjøfartsdirektoratet kan unnta et skip i innenriksfart fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak, og et av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og unntaket anses sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+Sjøfartsdirektoratet kan unnta et skip i innenriksfart fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak, og et av følgende krav er oppfylt:
 
-Skip som er omfattet av [§ 10](forskrift/2014-07-01-944/§10) eller [§ 11](forskrift/2014-07-01-944/§11) unntas fra kravet om å motta transportdokumenter når kjøretøyet eller sjåføren kommer fra et land eller område som er oppført i vedlegg A til [forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet](forskrift/2020-03-27-470). Skipsfører skal før avgang motta og registrere opplysninger om:korrekt teknisk betegnelse på den farlige lasten med UN-numre og IMO-fareklasse i samsvar med IMDG-kodenmengden farlig lastnødnumrene til avskiperen eller en annen person eller instans som har kunnskap om den farlige lastens fysisk-kjemiske egenskaper og om nødvendige tiltak i tilfelle en nødssituasjon.
+1. Det godtgjøres at kravet ikke er vesentlig og unntaket anses sikkerhetsmessig forsvarlig.
+2. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+
+Skip som er omfattet av [§ 10](forskrift/2014-07-01-944/§10) eller [§ 11](forskrift/2014-07-01-944/§11) unntas fra kravet om å motta transportdokumenter når kjøretøyet eller sjåføren kommer fra et land eller område som er oppført i vedlegg A til [forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet](forskrift/2020-03-27-470). Skipsfører skal før avgang motta og registrere opplysninger om:
+
+1. korrekt teknisk betegnelse på den farlige lasten med UN-numre og IMO-fareklasse i samsvar med IMDG-koden
+2. mengden farlig last
+3. nødnumrene til avskiperen eller en annen person eller instans som har kunnskap om den farlige lastens fysisk-kjemiske egenskaper og om nødvendige tiltak i tilfelle en nødssituasjon.
 
 > Endret ved forskrift [19 nov 2020 nr. 2411](forskrift/2020-11-19-2411).
 
@@ -265,7 +328,11 @@ Frakt av farlig last i emballert form
 
 ### Regel 1 Definisjoner
 
-Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner for dette kapittelet:*«IMDG-koden»* betyr Det internasjonale regelverket for transport av farlig gods til sjøs (International Maritime Dangerous Goods Code) vedtatt av organisasjonens Sjøsikkerhetskomité ved resolusjon MSC.122(75), med eventuelle endringer foretatt av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.*«Farlig last»* betyr stoffer, materialer og varer som omfattes av IMDG-koden.*«Emballert form»* betyr den formen for emballering som er angitt i IMDG-koden.
+Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner for dette kapittelet:
+
+1. *«IMDG-koden»* betyr Det internasjonale regelverket for transport av farlig gods til sjøs (International Maritime Dangerous Goods Code) vedtatt av organisasjonens Sjøsikkerhetskomité ved resolusjon MSC.122(75), med eventuelle endringer foretatt av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.
+2. *«Farlig last»* betyr stoffer, materialer og varer som omfattes av IMDG-koden.
+3. *«Emballert form»* betyr den formen for emballering som er angitt i IMDG-koden.
 
 ### Regel 2 Anvendelse1
 
@@ -373,7 +440,15 @@ Bygging og utrustning av skip som fører farlige flytende kjemikalier i bulk
 
 ### Regel 8 Definisjoner
 
-Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i denne delen:*«IBC-koden»* betyr Det internasjonale regelverket for bygging og utrustning av skip som fører farlige kjemikalier i bulk (International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk), vedtatt av organisasjonens Sjøsikkerhetskomité ved resolusjon MSC.4(48), med eventuelle endringer foretatt av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.*«Kjemikalietankskip»* betyr et lasteskip bygget eller tilpasset og brukt for å frakte i bulk de flytende produktene som er oppført i kapittel 17 i IBC-koden.I regel 9 betyr *«skip bygget»* et skip hvis kjøl er strukket eller som er på et tilsvarende byggetrinn.*«På et tilsvarende byggetrinn»* betyr det trinnet der:bygging som kan identifiseres med et bestemt skip, begynner, ogmontering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, dersom denne verdien er mindre.
+Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i denne delen:
+
+1. *«IBC-koden»* betyr Det internasjonale regelverket for bygging og utrustning av skip som fører farlige kjemikalier i bulk (International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk), vedtatt av organisasjonens Sjøsikkerhetskomité ved resolusjon MSC.4(48), med eventuelle endringer foretatt av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.
+2. *«Kjemikalietankskip»* betyr et lasteskip bygget eller tilpasset og brukt for å frakte i bulk de flytende produktene som er oppført i kapittel 17 i IBC-koden.
+3. I regel 9 betyr *«skip bygget»* et skip hvis kjøl er strukket eller som er på et tilsvarende byggetrinn.
+4. *«På et tilsvarende byggetrinn»* betyr det trinnet der:
+
+   1. bygging som kan identifiseres med et bestemt skip, begynner, og
+   2. montering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, dersom denne verdien er mindre.
 
 ### Regel 9 Anvendelse på kjemikalietankskip
 
@@ -394,7 +469,15 @@ Bygging og utrustning av skip som fører flytende gasser i bulk
 
 ### Regel 11 Definisjoner
 
-Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i denne delen:*«IGC-koden»* betyr Det internasjonale regelverket for bygging og utrustning av skip som fører flytende gasser i bulk (International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk), vedtatt av organisasjonens Sjøsikkerhetskomité ved resolusjon MSC.5(48), med eventuelle endringer foretatt av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.*«Gasstankskip»* betyr et lasteskip som er bygget eller tilpasset og brukt for å frakte i bulk de flytende produktene som er oppført i kapittel 19 i IGC-koden.I regel 12 betyr *«skip bygget»* et skip hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn.*«På et tilsvarende byggetrinn»* betyr det trinnet der:bygging som kan identifiseres med et bestemt skip, begynner, ogmontering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, dersom denne verdien er mindre.
+Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner i denne delen:
+
+1. *«IGC-koden»* betyr Det internasjonale regelverket for bygging og utrustning av skip som fører flytende gasser i bulk (International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk), vedtatt av organisasjonens Sjøsikkerhetskomité ved resolusjon MSC.5(48), med eventuelle endringer foretatt av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.
+2. *«Gasstankskip»* betyr et lasteskip som er bygget eller tilpasset og brukt for å frakte i bulk de flytende produktene som er oppført i kapittel 19 i IGC-koden.
+3. I regel 12 betyr *«skip bygget»* et skip hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn.
+4. *«På et tilsvarende byggetrinn»* betyr det trinnet der:
+
+   1. bygging som kan identifiseres med et bestemt skip, begynner, og
+   2. montering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, dersom denne verdien er mindre.
 
 ### Regel 12 Anvendelse på gasstankskip
 

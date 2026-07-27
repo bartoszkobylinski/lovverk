@@ -28,7 +28,11 @@ Tilskuddet skal legge til rette for økt produksjon og et økologisk bærekrafti
 
 ## § 2. Vilkår for tilskudd
 
-Tilskuddet kan ytes til reinbeitedistrikter og reinlag som:har vedtatt slakte- og produksjonskrav i bruksreglene, jf. [reindriftsloven § 57 tredje ledd nummer 3](lov/2007-06-15-40/§57/ledd/3/nummer/3), ogmottar distriktstilskudd, jf. [forskrift 21. desember 2022 nr. 2468 om tilskudd til reinbeitedistrikter og reinlag](forskrift/2022-12-21-2468), oghar utarbeidet, vedtatt og overholdt en slakteplan for distriktet.
+Tilskuddet kan ytes til reinbeitedistrikter og reinlag som:
+
+1. har vedtatt slakte- og produksjonskrav i bruksreglene, jf. [reindriftsloven § 57 tredje ledd nummer 3](lov/2007-06-15-40/§57/ledd/3/nummer/3), og
+2. mottar distriktstilskudd, jf. [forskrift 21. desember 2022 nr. 2468 om tilskudd til reinbeitedistrikter og reinlag](forskrift/2022-12-21-2468), og
+3. har utarbeidet, vedtatt og overholdt en slakteplan for distriktet.
 
 ## § 3. Tilskuddets størrelse
 

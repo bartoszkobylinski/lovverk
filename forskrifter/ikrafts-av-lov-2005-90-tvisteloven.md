@@ -28,7 +28,13 @@ eu_basis: []
 
 ## § 2.
 
-Tvisteloven gjelder for saker som:er brakt inn for forliksrådet etter 31. desember 2007,er brakt inn for tingretten etter 31. desember 2007,er brakt inn for annen førsteinstansdomstol eller namsmyndighet etter 31. desember 2007,er anket eller begjært overprøvd etter 31. desember 2007,blir begjært gjenåpnet etter 31. desember 2007.
+Tvisteloven gjelder for saker som:
+
+1. er brakt inn for forliksrådet etter 31. desember 2007,
+2. er brakt inn for tingretten etter 31. desember 2007,
+3. er brakt inn for annen førsteinstansdomstol eller namsmyndighet etter 31. desember 2007,
+4. er anket eller begjært overprøvd etter 31. desember 2007,
+5. blir begjært gjenåpnet etter 31. desember 2007.
 
 Tvisteloven gjelder for tvister som er reist under tvangsfullbyrdelse eller bobehandling etter 31. desember 2007.
 

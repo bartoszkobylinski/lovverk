@@ -15,7 +15,7 @@ xml_hash: "26c1b941b373904aec4924ff13da7b59b3c56e9b66b46d6f1b3f6582eda7251c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,11 @@ eu_basis: []
 
 ### § 1-1. Formål
 
-Formålet med forskriften er å forebygge at skadedyroverfører smittsomme sykdommer til mennesker,blir årsak til sykdommer hos mennesker ellerblir årsak til andre helseproblemer hos mennesker.
+Formålet med forskriften er å forebygge at skadedyr
+
+1. overfører smittsomme sykdommer til mennesker,
+2. blir årsak til sykdommer hos mennesker eller
+3. blir årsak til andre helseproblemer hos mennesker.
 
 Forskriften skal sikre at det ved skadedyrbekjempelse blir benyttet midler og metoder som motvirker at skadedyr overfører smittsomme sykdommer eller blir årsak til sykdommer eller andre helseproblemer hos mennesker, og som ikke medfører helseskade eller miljøskadelige virkninger.
 
@@ -34,7 +38,13 @@ Forskriften skal sikre at skadedyrbekjempelse blir foretatt av personer som kan 
 
 ### § 1-2. Virkeområde
 
-Forskriften gjelder forebygging og bekjempelse av skadedyr, som foretas privat eller ervervsmessig, i bygninger og innretninger mv., herunder:alle bygg mv. som omfattes av plan- og bygningsloven, herunder boliger, drifts- og næringsbygg med tilhørende tomteområder, kornsiloer,transportmidler til lands, til sjøs og i luften, faste og flytende installasjoner til sjøs,inventar, utstyr, maskiner, produkter og annet løsøre i bygninger,tunneler, kloakker, avfallsplasser, kaianlegg, leirplasser, friluftsområder, flyplasser,lukkede rom beregnet på skadedyrutryddelse, herunder telt, overdekninger med mer.
+Forskriften gjelder forebygging og bekjempelse av skadedyr, som foretas privat eller ervervsmessig, i bygninger og innretninger mv., herunder:
+
+- alle bygg mv. som omfattes av plan- og bygningsloven, herunder boliger, drifts- og næringsbygg med tilhørende tomteområder, kornsiloer,
+- transportmidler til lands, til sjøs og i luften, faste og flytende installasjoner til sjøs,
+- inventar, utstyr, maskiner, produkter og annet løsøre i bygninger,
+- tunneler, kloakker, avfallsplasser, kaianlegg, leirplasser, friluftsområder, flyplasser,
+- lukkede rom beregnet på skadedyrutryddelse, herunder telt, overdekninger med mer.
 
 Forskriften fritar ikke fra forbud eller krav som følger av annet regelverk.
 
@@ -48,7 +58,26 @@ Forskriften gjelder med de tilpasninger som måtte følge av internasjonale avta
 
 ### § 1-3. Definisjoner
 
-I denne forskrift forstås med:*Skadedyr:*Pattedyr, fugler, insekter og andre levende organismer som kan overføre smittsomme sykdommer eller forårsake andre sykdommer eller helseproblemer hos mennesker, eller som gjør materiell skade og derved utløser bekjempelsestiltak. Sykdomsfremkallende mikroorganismer regnes ikke som skadedyr etter forskriften her.*Bekjempelsesmiddel:*Biocidholdige produkter, kjemiske eller biologiske, bestående av ett eller flere virksomme stoffer, eller konstruksjoner som fordriver, tillokker, fanger eller avliver skadedyr eller hindrer deres formering.*Bekjempelsesmetode:*Fremgangsmåte for bruk av bekjempelsesmiddel.*Skadedyrbekjempelse:*Alle tiltak som skal forebygge forekomst av skadedyr eller tar sikte på å utrydde eller redusere forekomst av skadedyr.*Skadedyrbekjemper:*Person som har godkjenning til å foreta skadedyrbekjempelse.*Internkontroll:*Systematiske tiltak som skal sikre at virksomhetens aktiviteter planlegges, organiseres, utføres og vedlikeholdes i samsvar med krav fastsatt i denne forskrift.
+I denne forskrift forstås med:
+
+1. *Skadedyr:*
+
+   Pattedyr, fugler, insekter og andre levende organismer som kan overføre smittsomme sykdommer eller forårsake andre sykdommer eller helseproblemer hos mennesker, eller som gjør materiell skade og derved utløser bekjempelsestiltak. Sykdomsfremkallende mikroorganismer regnes ikke som skadedyr etter forskriften her.
+2. *Bekjempelsesmiddel:*
+
+   Biocidholdige produkter, kjemiske eller biologiske, bestående av ett eller flere virksomme stoffer, eller konstruksjoner som fordriver, tillokker, fanger eller avliver skadedyr eller hindrer deres formering.
+3. *Bekjempelsesmetode:*
+
+   Fremgangsmåte for bruk av bekjempelsesmiddel.
+4. *Skadedyrbekjempelse:*
+
+   Alle tiltak som skal forebygge forekomst av skadedyr eller tar sikte på å utrydde eller redusere forekomst av skadedyr.
+5. *Skadedyrbekjemper:*
+
+   Person som har godkjenning til å foreta skadedyrbekjempelse.
+6. *Internkontroll:*
+
+   Systematiske tiltak som skal sikre at virksomhetens aktiviteter planlegges, organiseres, utføres og vedlikeholdes i samsvar med krav fastsatt i denne forskrift.
 
 > Endret ved [forskrift 22 okt 2015 nr. 1211](forskrift/2015-10-22-1211).
 
@@ -136,7 +165,10 @@ For søknad om godkjenning som skadedyrbekjemper skal saksbehandlingsfrist som n
 
 ### § 4-2. Godkjenningsmyndighet
 
-Helsedirektoratet skal:godkjenne skadedyrbekjempere ogtilbakekalle godkjenning dersom vilkårene er bortfalt eller skadedyrbekjemperen anses uskikket til å utøve virksomheten.
+Helsedirektoratet skal:
+
+1. godkjenne skadedyrbekjempere og
+2. tilbakekalle godkjenning dersom vilkårene er bortfalt eller skadedyrbekjemperen anses uskikket til å utøve virksomheten.
 
 Helsedirektoratet kan i særskilte tilfeller forlenge en godkjenning i inntil ett år.
 
@@ -346,7 +378,17 @@ Dersom det kan være tvil om forholdet rammes av meldingsplikten, bør dette tas
 
 Meldingen om skadedyrbekjempelse skal inneholde dokumentasjon som viser hvordan det skal sikres at bekjempelsen planlegges og utføres i samsvar med forskriftens bestemmelser. Alle forhold ved tiltaket som kan ha innvirkning på helse, hygiene og sikkerhet skal utredes.
 
-En vurdering av forhold som kan ha innvirkning på helse, hygiene og sikkerhet bør blant annet inneholdebeskrivelse av problemet som gir grunnlag for skadedyrbekjempelsen,overordnet gjennomgang av risikoen for hvilke og hvor alvorlige situasjoner og uheldige hendelser som kan oppstå,informasjon om hvilke(t) skadedyr som skal utryddes eller bekjempes,informasjon om midler og metode som skal anvendes,oversikt over spesielle forhold som kan ha helsekonsekvenser, for eksempel spesiell beliggenhet, utearealer, bygningsmessig utforming mv.,dato og om nødvendig klokkeslett for tiltaket,beskrivelse av omfang av og resultater og konklusjoner fra målinger og kartlegging mv.,oversikt over de dokumenter virksomheten har benyttet som underlagsdokumentasjon for meldingen, for eksempel relevant regelverk, anerkjente normer, standarder og veiledning, ogplan for videre oppfølging og kontroll.
+En vurdering av forhold som kan ha innvirkning på helse, hygiene og sikkerhet bør blant annet inneholde
+
+1. beskrivelse av problemet som gir grunnlag for skadedyrbekjempelsen,
+2. overordnet gjennomgang av risikoen for hvilke og hvor alvorlige situasjoner og uheldige hendelser som kan oppstå,
+3. informasjon om hvilke(t) skadedyr som skal utryddes eller bekjempes,
+4. informasjon om midler og metode som skal anvendes,
+5. oversikt over spesielle forhold som kan ha helsekonsekvenser, for eksempel spesiell beliggenhet, utearealer, bygningsmessig utforming mv.,
+6. dato og om nødvendig klokkeslett for tiltaket,
+7. beskrivelse av omfang av og resultater og konklusjoner fra målinger og kartlegging mv.,
+8. oversikt over de dokumenter virksomheten har benyttet som underlagsdokumentasjon for meldingen, for eksempel relevant regelverk, anerkjente normer, standarder og veiledning, og
+9. plan for videre oppfølging og kontroll.
 
 *Kommunens behandling av meldingen*
 
@@ -354,7 +396,15 @@ Meldingen skal gi kommunen grunnlag for å vurdere hvorvidt hensynet til helse, 
 
 Det understrekes at kommunens behandling av meldingen ikke fritar skadedyrbekjemperen ansvaret for at forskriftens bestemmelser etterleves.
 
-I kommunens saksbehandling forutsettes det at kommunengjør seg kjent med meldingen,underretter skadedyrbekjemperen om at melding er mottatt og i den utstrekning det er aktuelt informerer omhvilke sider av saken som eventuelt ikke er godt nok opplyst eller dokumentert,forhold som tyder på at tiltaket ikke vil oppfylle forskriftens bestemmelser,forhold som tilsier at skadedyrbekjempelsen har et forbedringspotensial,hvorvidt det på bakgrunn av den foreliggende meldingen vil være aktuelt å benytte virkemiddelbestemmelsene i folkehelseloven kapittel 3 i forhold til tiltaket.
+I kommunens saksbehandling forutsettes det at kommunen
+
+1. gjør seg kjent med meldingen,
+2. underretter skadedyrbekjemperen om at melding er mottatt og i den utstrekning det er aktuelt informerer om
+
+   - hvilke sider av saken som eventuelt ikke er godt nok opplyst eller dokumentert,
+   - forhold som tyder på at tiltaket ikke vil oppfylle forskriftens bestemmelser,
+   - forhold som tilsier at skadedyrbekjempelsen har et forbedringspotensial,
+   - hvorvidt det på bakgrunn av den foreliggende meldingen vil være aktuelt å benytte virkemiddelbestemmelsene i folkehelseloven kapittel 3 i forhold til tiltaket.
 
 *Til [§ 3-4](forskrift/2000-12-21-1406/§3-4)*
 
@@ -368,7 +418,11 @@ Nabovarsel kan imidlertid utelates dersom det er åpenbart unødvendig eller ikk
 
 Bestemmelsen omhandler tre forhold:
 
-Skadedyrbekjemperensplikt til å føre protokoll. Bestemmelsen regulerer nærmere hva som skal fremgå av denne.opplysningsplikt overfor oppdragsgiver. Dette gjelder alle forhold som måtte fremgå av protokollen. Opplysningene bør gis skriftlig.veiledningsplikt overfor medhjelpere. Dette gjelder både metodene og midlene som anvendes.
+Skadedyrbekjemperens
+
+1. plikt til å føre protokoll. Bestemmelsen regulerer nærmere hva som skal fremgå av denne.
+2. opplysningsplikt overfor oppdragsgiver. Dette gjelder alle forhold som måtte fremgå av protokollen. Opplysningene bør gis skriftlig.
+3. veiledningsplikt overfor medhjelpere. Dette gjelder både metodene og midlene som anvendes.
 
 ### Til kapittel IV
 

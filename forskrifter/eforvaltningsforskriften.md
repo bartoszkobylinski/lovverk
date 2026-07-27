@@ -42,7 +42,11 @@ De begreper som er definert i artikkel 3 i forordning (EU) nr. 910/2014 om elekt
 
 ### § 3. Bruk av elektronisk kommunikasjon ved henvendelser til et forvaltningsorgan
 
-Alle som henvender seg til et forvaltningsorgan kan benytte elektronisk kommunikasjon, dersom forvaltningsorganet har lagt til rette for dette, det skjer på den anviste måten og ved bruk av den elektroniske adressen som forvaltningsorganet har anvist for den aktuelle type henvendelse.Med den anviste måten menes for eksempel bruk av spesielle skjema, bruk av en bestemt prosedyre eller lignende.Med elektronisk adresse menes for eksempel en adresse til et nettsted, en e-postadresse, et nummer til en SMS-tjeneste eller lignende.Med elektronisk kommunikasjon menes bruk av for eksempel Internett eller liknende kommunikasjonssystem, bruk av SMS og talestyrte eller andre automatiske telefontjenester. Bruk av taletelefon eller annen muntlig kommunikasjon er ikke omfattet.
+Alle som henvender seg til et forvaltningsorgan kan benytte elektronisk kommunikasjon, dersom forvaltningsorganet har lagt til rette for dette, det skjer på den anviste måten og ved bruk av den elektroniske adressen som forvaltningsorganet har anvist for den aktuelle type henvendelse.
+
+1. Med den anviste måten menes for eksempel bruk av spesielle skjema, bruk av en bestemt prosedyre eller lignende.
+2. Med elektronisk adresse menes for eksempel en adresse til et nettsted, en e-postadresse, et nummer til en SMS-tjeneste eller lignende.
+3. Med elektronisk kommunikasjon menes bruk av for eksempel Internett eller liknende kommunikasjonssystem, bruk av SMS og talestyrte eller andre automatiske telefontjenester. Bruk av taletelefon eller annen muntlig kommunikasjon er ikke omfattet.
 
 Hvis det ikke er anvist noen egen elektronisk adresse, og det heller ikke er stilt noen særskilte krav til fremgangsmåte for den type henvendelse som er aktuell, kan den som vil henvende seg til forvaltningsorganet, bruke forvaltningsorganets generelle elektroniske adresse.
 
@@ -54,7 +58,11 @@ Forvaltningsorganet bør legge til rette for at elektronisk kommunikasjon med fo
 
 ### § 4. Krav til bruk av sikkerhetstjenester og -produkter mv. ved henvendelser til et forvaltningsorgan
 
-Enhver som henvender seg til et forvaltningsorgan ved bruk av elektronisk kommunikasjon i henhold til [§ 3](forskrift/2004-06-25-988/§3), kan gjøre det uten bruk av sikkerhetstjenester eller -produkter, med mindre bruk av slike sikkerhetstjenester eller -produkter er nødvendig for å oppfylle krav fastsatt i henhold til annet og tredje ledd nedenfor eller følger av [§ 5](forskrift/2004-06-25-988/§5), eller av krav fastsatt i annen lov eller i medhold av lov.Med sikkerhetstjenester og -produkter menes løsninger for å oppnå bl.a. bekreftelse av partenes identitet eller fullmakter (autentisering), at data ikke utilsiktet eller urettmessig endres (integritet), beskyttelse av informasjon mot innsyn fra uvedkommende (konfidensialitet), og at det er mulig å dokumentere henvendelser og aktiviteter og hvem som har sendt eller utført dem (ikke-benekting), og andre løsninger, i henhold til forvaltningsorganets sikkerhetsstrategi, jf. [§ 15](forskrift/2004-06-25-988/§15). Slike løsninger kan for eksempel være basert på bruk av elektronisk signatur og kryptering.Med elektronisk signatur menes løsninger som definert i forordning (EU) nr. 910/2014 artikkel 3. Med kryptering menes omforming av data slik at de ikke er rekonstruerbare for uvedkommende. Krypterte data skal kunne rekonstrueres ved dekryptering.Med krypteringsnøkkel og dekrypteringsnøkkel menes data som benyttes for henholdsvis kryptering og dekryptering.
+Enhver som henvender seg til et forvaltningsorgan ved bruk av elektronisk kommunikasjon i henhold til [§ 3](forskrift/2004-06-25-988/§3), kan gjøre det uten bruk av sikkerhetstjenester eller -produkter, med mindre bruk av slike sikkerhetstjenester eller -produkter er nødvendig for å oppfylle krav fastsatt i henhold til annet og tredje ledd nedenfor eller følger av [§ 5](forskrift/2004-06-25-988/§5), eller av krav fastsatt i annen lov eller i medhold av lov.
+
+1. Med sikkerhetstjenester og -produkter menes løsninger for å oppnå bl.a. bekreftelse av partenes identitet eller fullmakter (autentisering), at data ikke utilsiktet eller urettmessig endres (integritet), beskyttelse av informasjon mot innsyn fra uvedkommende (konfidensialitet), og at det er mulig å dokumentere henvendelser og aktiviteter og hvem som har sendt eller utført dem (ikke-benekting), og andre løsninger, i henhold til forvaltningsorganets sikkerhetsstrategi, jf. [§ 15](forskrift/2004-06-25-988/§15). Slike løsninger kan for eksempel være basert på bruk av elektronisk signatur og kryptering.
+2. Med elektronisk signatur menes løsninger som definert i forordning (EU) nr. 910/2014 artikkel 3. Med kryptering menes omforming av data slik at de ikke er rekonstruerbare for uvedkommende. Krypterte data skal kunne rekonstrueres ved dekryptering.
+3. Med krypteringsnøkkel og dekrypteringsnøkkel menes data som benyttes for henholdsvis kryptering og dekryptering.
 
 Forvaltningsorganet kan i det enkelte tilfelle be om opplysninger som bekrefter avsenders identitet eller fullmakter, eller stille krav om at bestemte sikkerhetstjenester og -produkter skal tas i bruk, dersom dette er av betydning for håndtering av henvendelsen.
 
@@ -106,13 +114,22 @@ Forvaltningsorganet skal forebygge risiko for uberettiget innsyn i enkeltvedtak 
 
 Informasjonssystemet skal registrere tidspunktet for når parten har skaffet seg tilgang til enkeltvedtaket, og data som bekrefter at vedkommende har rett til å gjøre seg kjent med vedtaket. Har parten ikke skaffet seg tilgang til enkeltvedtaket innen én uke fra det tidspunktet vedtaket ble gjort tilgjengelig, og varsel ble sendt, skal parten varsles en gang til i samsvar med tredje ledd. Første og annet punktum gjelder ikke dersom vedtaket er sendt en elektronisk adresse mottaker oppgir jf. annet ledd annet punktum.
 
-Det som gjelder enkeltvedtak i annet til femte ledd ovenfor, gjelder tilsvarende for;forhåndsvarsel etter [forvaltningsloven § 16](lov/1967-02-10/§16),for andre meldinger som har betydning for vedkommendes rettsstilling eller for behandlingen av saken, ogfor meldinger som det av andre grunner er av særlig betydning å sikre at vedkommende mottar.
+Det som gjelder enkeltvedtak i annet til femte ledd ovenfor, gjelder tilsvarende for;
+
+1. forhåndsvarsel etter [forvaltningsloven § 16](lov/1967-02-10/§16),
+2. for andre meldinger som har betydning for vedkommendes rettsstilling eller for behandlingen av saken, og
+3. for meldinger som det av andre grunner er av særlig betydning å sikre at vedkommende mottar.
 
 > Forskriften endret i sin helhet ved [forskrift 7 feb 2014 nr. 102](forskrift/2014-02-07-102) (i kraft straks, femte ledd annet punktum i kraft 1. juli 2014.)
 
 ### § 9. Reservasjon
 
-Privatpersoner og enheter som ikke er registrert i Enhetsregisteret kan reservere seg mot å motta følgende meddelelser elektronisk fra forvaltningen:enkeltvedtak,forhåndsvarsel etter [forvaltningsloven § 16](lov/1967-02-10/§16),andre meldinger som har betydning for vedkommendes rettsstilling eller for behandlingen av saken, ogmeldinger som det av andre grunner er av særlig betydning å sikre at vedkommende mottar.
+Privatpersoner og enheter som ikke er registrert i Enhetsregisteret kan reservere seg mot å motta følgende meddelelser elektronisk fra forvaltningen:
+
+1. enkeltvedtak,
+2. forhåndsvarsel etter [forvaltningsloven § 16](lov/1967-02-10/§16),
+3. andre meldinger som har betydning for vedkommendes rettsstilling eller for behandlingen av saken, og
+4. meldinger som det av andre grunner er av særlig betydning å sikre at vedkommende mottar.
 
 Reservasjonen skal registreres i register over digital kontaktinformasjon og reservasjon, jf. kapittel 7.
 
@@ -138,7 +155,10 @@ Krav om innsyn i opplysninger eller dokumenter i en sak kan sendes forvaltningso
 
 Fører forvaltningsorganet elektronisk arkiv, kan det gis tilgang til opplysninger og dokumenter i elektronisk form dersom den som krever innsyn samtykker eller ber om dette.
 
-Innsyn etter annet ledd gis bare når det kan oppnås:tilfredsstillende bekreftelse på at vedkommende har krav på innsyn, ogat risiko for uberettiget innsyn i opplysningene eller dokumentene er forebygget på en tilfredsstillende måte, eller når innsyn kan kreves etter [offentleglova](lov/2006-05-19-16) eller annen lovbestemt allmenn innsynsrett.
+Innsyn etter annet ledd gis bare når det kan oppnås:
+
+1. tilfredsstillende bekreftelse på at vedkommende har krav på innsyn, og
+2. at risiko for uberettiget innsyn i opplysningene eller dokumentene er forebygget på en tilfredsstillende måte, eller når innsyn kan kreves etter [offentleglova](lov/2006-05-19-16) eller annen lovbestemt allmenn innsynsrett.
 
 Hvis den som krever innsyn i dokumenter som er signert med avansert elektronisk signatur ber om det, skal relevante sertifikater, og øvrige opplysninger som er nødvendige for å få bekreftet signaturen, utleveres sammen med dokumentet. Alternativt kan forvaltningsorganet legge til rette for at verifisering kan skje i forbindelse med at det gis tilgang til dokumentet.
 
@@ -168,7 +188,16 @@ Forvaltningsorganet skal ha en internkontroll (styring og kontroll) på informas
 
 Omfang og innretning på internkontrollen skal være tilpasset risiko.
 
-I den utstrekning det er relevant skal sikkerhetsstrategien og internkontrollen for øvrig også adressere, og om nødvendig stille krav til, bl.a.:prosedyrer for anskaffelse, bruk, oppbevaring og sikring av signaturfremstillingsdata, passord/PIN-koder og dekrypteringsnøkkel knyttet til personlige sertifikat eller sertifikat for ansatt i forvaltningen, jf. [§ 17](forskrift/2004-06-25-988/§17), [§ 19](forskrift/2004-06-25-988/§19) og [§ 22](forskrift/2004-06-25-988/§22),prosedyrer for anskaffelse, bruk, oppbevaring og sikring av signaturfremstillingsdata, passord/PIN-koder og dekrypteringsnøkkel knyttet til virksomhetssertifikat, jf. [§ 16](forskrift/2004-06-25-988/§16) og [§ 23](forskrift/2004-06-25-988/§23),prosedyrer for å etablere og opprettholde et sikkert brukermiljø der det benyttes elektroniske signaturer, kryptering eller andre sikkerhetstjenester, jf. [§ 20](forskrift/2004-06-25-988/§20),prosedyrer for varsling og tilbaketrekking av sertifikat og passord/PIN-koder ved mistanke om tap eller misbruk, jf. [§ 25](forskrift/2004-06-25-988/§25),prosedyrer for kontroll av sertifikater og tilbaketrekkingslister ved mottak av melding utstyrt med elektronisk signatur, herunder krav til hvor oppdatert informasjon om sertifikaters status bør være for de ulike formål sertifikatene benyttes for, jf. [§ 27](forskrift/2004-06-25-988/§27),prosedyrer for å nekte bruk av sertifikat mv. ved misbruk av elektronisk kommunikasjon med forvaltningen, jf. [§ 14](forskrift/2004-06-25-988/§14),prosedyrer for behandling av personopplysninger og taushetsbelagt informasjon, jf. [§ 5](forskrift/2004-06-25-988/§5) og [§ 26](forskrift/2004-06-25-988/§26), se også [personvernforordningen artikkel 32](lov/2018-06-15-38/gdpr/a32) og [33](lov/2018-06-15-38/gdpr/a33),prosedyrer for sikkerhetskopiering, oppbevaring og deponering av dekrypteringsnøkkel for opplysninger som angår forvaltningsorganet, jf. [§ 24](forskrift/2004-06-25-988/§24).
+I den utstrekning det er relevant skal sikkerhetsstrategien og internkontrollen for øvrig også adressere, og om nødvendig stille krav til, bl.a.:
+
+1. prosedyrer for anskaffelse, bruk, oppbevaring og sikring av signaturfremstillingsdata, passord/PIN-koder og dekrypteringsnøkkel knyttet til personlige sertifikat eller sertifikat for ansatt i forvaltningen, jf. [§ 17](forskrift/2004-06-25-988/§17), [§ 19](forskrift/2004-06-25-988/§19) og [§ 22](forskrift/2004-06-25-988/§22),
+2. prosedyrer for anskaffelse, bruk, oppbevaring og sikring av signaturfremstillingsdata, passord/PIN-koder og dekrypteringsnøkkel knyttet til virksomhetssertifikat, jf. [§ 16](forskrift/2004-06-25-988/§16) og [§ 23](forskrift/2004-06-25-988/§23),
+3. prosedyrer for å etablere og opprettholde et sikkert brukermiljø der det benyttes elektroniske signaturer, kryptering eller andre sikkerhetstjenester, jf. [§ 20](forskrift/2004-06-25-988/§20),
+4. prosedyrer for varsling og tilbaketrekking av sertifikat og passord/PIN-koder ved mistanke om tap eller misbruk, jf. [§ 25](forskrift/2004-06-25-988/§25),
+5. prosedyrer for kontroll av sertifikater og tilbaketrekkingslister ved mottak av melding utstyrt med elektronisk signatur, herunder krav til hvor oppdatert informasjon om sertifikaters status bør være for de ulike formål sertifikatene benyttes for, jf. [§ 27](forskrift/2004-06-25-988/§27),
+6. prosedyrer for å nekte bruk av sertifikat mv. ved misbruk av elektronisk kommunikasjon med forvaltningen, jf. [§ 14](forskrift/2004-06-25-988/§14),
+7. prosedyrer for behandling av personopplysninger og taushetsbelagt informasjon, jf. [§ 5](forskrift/2004-06-25-988/§5) og [§ 26](forskrift/2004-06-25-988/§26), se også [personvernforordningen artikkel 32](lov/2018-06-15-38/gdpr/a32) og [33](lov/2018-06-15-38/gdpr/a33),
+8. prosedyrer for sikkerhetskopiering, oppbevaring og deponering av dekrypteringsnøkkel for opplysninger som angår forvaltningsorganet, jf. [§ 24](forskrift/2004-06-25-988/§24).
 
 > Endret ved forskrift [20 des 2022 nr. 2304](forskrift/2022-12-20-2304).
 
@@ -184,7 +213,14 @@ Hvis det skal benyttes sertifikat ved underretning om enkeltvedtak og varsling e
 
 Et forvaltningsorgan skal gi sine ansatte anvisning på hvilke sikkerhetstjenester og -produkter de skal benytte under tjeneste for organet, og hvorledes de skal gå frem for å anskaffe nødvendig utstyr og data, herunder signaturfremstillingsdata og dekrypteringsnøkkel med tilhørende sertifikat samt passord og PIN-koder mv.
 
-Ved anskaffelse av utstyr og data som nevnt i første ledd, plikter forvaltningsorganet å sørge for at den ansatte får informasjon om:vedkommendes ansvar og plikter i forbindelse med oppbevaring og bruk av signaturfremstillingsdata og dekrypteringsnøkkel med tilhørende sertifikat samt passord og PIN-koder mv., jf. [§ 22](forskrift/2004-06-25-988/§22) og [§ 25](forskrift/2004-06-25-988/§25),restriksjoner på bruk av data som nevnt i bokstav a),egen og andres mulighet for å trekke tilbake eller suspendere sertifikat,sertifikatets ikrafttredelses- og utløpsdato og virkningen av at sertifikatet løper ut eller blir trukket tilbake,hvilke opplysninger om den enkelte som vil fremgå av sertifikatet og sertifikatutsteders behandling av personopplysninger, jf. [personvernforordningen artikkel 13](lov/2018-06-15-38/gdpr/a13) og [14](lov/2018-06-15-38/gdpr/a14), ogforvaltningsorganets sikkerhetsstrategi for øvrig, jf. [§ 15](forskrift/2004-06-25-988/§15).
+Ved anskaffelse av utstyr og data som nevnt i første ledd, plikter forvaltningsorganet å sørge for at den ansatte får informasjon om:
+
+1. vedkommendes ansvar og plikter i forbindelse med oppbevaring og bruk av signaturfremstillingsdata og dekrypteringsnøkkel med tilhørende sertifikat samt passord og PIN-koder mv., jf. [§ 22](forskrift/2004-06-25-988/§22) og [§ 25](forskrift/2004-06-25-988/§25),
+2. restriksjoner på bruk av data som nevnt i bokstav a),
+3. egen og andres mulighet for å trekke tilbake eller suspendere sertifikat,
+4. sertifikatets ikrafttredelses- og utløpsdato og virkningen av at sertifikatet løper ut eller blir trukket tilbake,
+5. hvilke opplysninger om den enkelte som vil fremgå av sertifikatet og sertifikatutsteders behandling av personopplysninger, jf. [personvernforordningen artikkel 13](lov/2018-06-15-38/gdpr/a13) og [14](lov/2018-06-15-38/gdpr/a14), og
+6. forvaltningsorganets sikkerhetsstrategi for øvrig, jf. [§ 15](forskrift/2004-06-25-988/§15).
 
 > Endret ved forskrift [20 des 2022 nr. 2304](forskrift/2022-12-20-2304).
 
@@ -216,7 +252,11 @@ Forvaltningsorganet skal sørge for at enhver, i den utstrekning det er nødvend
 
 Innehaver av signaturfremstillingsdata skal oppbevare og benytte disse på en slik måte at de ikke gjøres tilgjengelige for andre.
 
-Innehaver skal aldri forlate arbeidsstasjon og lignende uten å sikre at signaturfremstillingsdata ikke er tilgjengelige for andre. Innehaver skal sikre:at signaturfremstillingsdata fjernes fra arbeidsstasjonen dersom dataene er lagret i smartkort eller i en annen enhet som lett kan fjernes, ogat den aktuelle arbeidsoperasjonen er avsluttet og eventuelle lagrede eller behandlede signaturfremstillingsdata er deaktivert, ellerat signaturfremstillingsdata på annen måte er sikret mot misbruk.
+Innehaver skal aldri forlate arbeidsstasjon og lignende uten å sikre at signaturfremstillingsdata ikke er tilgjengelige for andre. Innehaver skal sikre:
+
+1. at signaturfremstillingsdata fjernes fra arbeidsstasjonen dersom dataene er lagret i smartkort eller i en annen enhet som lett kan fjernes, og
+2. at den aktuelle arbeidsoperasjonen er avsluttet og eventuelle lagrede eller behandlede signaturfremstillingsdata er deaktivert, eller
+3. at signaturfremstillingsdata på annen måte er sikret mot misbruk.
 
 Innehaver av signaturfremstillingsdata skal ikke overlate disse til andre eller gi andre tilgang til dem. Skal noen handle på vegne av en annen skal dette skje med fullmektigens egne signaturfremstillingsdata.
 
@@ -256,7 +296,12 @@ Forvaltningsorganet skal sikre opplysningene under den videre behandling i organ
 
 ### § 27. Krav til kontroll av sertifikater og tilbaketrekkingslister
 
-Ved mottak av melding som er underlagt krav om bruk av avansert elektronisk signatur, skal forvaltningsorganet kontrollere, i henhold til kravene fastsatt i organets sikkerhetsstrategi, jf. [§ 15](forskrift/2004-06-25-988/§15):at signaturen lar seg verifisere, herunder at meldingen ikke er endret,at tilknyttet sertifikat fortsatt er gyldig og ikke suspendert eller trukket tilbake, eller det dokumenteres at sertifikatet var gyldig på signeringstidspunktet,at sertifikatet er egnet for den aktuelle anvendelse, herunder sertifikatets sikkerhetsnivå og eventuelle begrensninger i sertifikatets anvendelsesområde,at sertifikatet er utstedt av en sertifikatutsteder som anbefales eller er anerkjent av koordineringsorganet, jf. [§ 36](forskrift/2004-06-25-988/§36), eller som forvaltningsorganet kan akseptere i henhold til sin sikkerhetsstrategi.
+Ved mottak av melding som er underlagt krav om bruk av avansert elektronisk signatur, skal forvaltningsorganet kontrollere, i henhold til kravene fastsatt i organets sikkerhetsstrategi, jf. [§ 15](forskrift/2004-06-25-988/§15):
+
+1. at signaturen lar seg verifisere, herunder at meldingen ikke er endret,
+2. at tilknyttet sertifikat fortsatt er gyldig og ikke suspendert eller trukket tilbake, eller det dokumenteres at sertifikatet var gyldig på signeringstidspunktet,
+3. at sertifikatet er egnet for den aktuelle anvendelse, herunder sertifikatets sikkerhetsnivå og eventuelle begrensninger i sertifikatets anvendelsesområde,
+4. at sertifikatet er utstedt av en sertifikatutsteder som anbefales eller er anerkjent av koordineringsorganet, jf. [§ 36](forskrift/2004-06-25-988/§36), eller som forvaltningsorganet kan akseptere i henhold til sin sikkerhetsstrategi.
 
 Hvis en melding som er signert med avansert elektronisk signatur ikke tilfredsstiller kontrollene i første ledd, og dette har betydning for behandling av meldingen i forvaltningsorganet, skal det sendes melding til avsender i henhold til reglene i [§ 7](forskrift/2004-06-25-988/§7).
 
@@ -290,7 +335,13 @@ Digitaliseringsdirektoratet er behandlingsansvarlig for register over digital ko
 
 ### § 31. Opplysninger i register over digital kontaktinformasjon og reservasjon
 
-Register over digital kontaktinformasjon kan, uten samtykke fra den registrerte, inneholde følgende typer opplysninger om privatpersoner og enheter som ikke er registrert i Enhetsregisteret:navn og personentydig identifikatornødvendige kontaktopplysninger for elektronisk kommunikasjon med den registrerteopplysninger om den registrertes eventuelle reservasjon mot elektronisk kommunikasjon, jf. [§ 9](forskrift/2004-06-25-988/§9)den registrertes fullmaktsforholdandre opplysninger som er nødvendige for forvaltningens elektroniske kommunikasjon i forbindelse med saksbehandling og utføring av forvaltningsoppgaver.
+Register over digital kontaktinformasjon kan, uten samtykke fra den registrerte, inneholde følgende typer opplysninger om privatpersoner og enheter som ikke er registrert i Enhetsregisteret:
+
+1. navn og personentydig identifikator
+2. nødvendige kontaktopplysninger for elektronisk kommunikasjon med den registrerte
+3. opplysninger om den registrertes eventuelle reservasjon mot elektronisk kommunikasjon, jf. [§ 9](forskrift/2004-06-25-988/§9)
+4. den registrertes fullmaktsforhold
+5. andre opplysninger som er nødvendige for forvaltningens elektroniske kommunikasjon i forbindelse med saksbehandling og utføring av forvaltningsoppgaver.
 
 ### § 32. Oppdatering av opplysninger i register over digital kontaktinformasjon og reservasjon
 

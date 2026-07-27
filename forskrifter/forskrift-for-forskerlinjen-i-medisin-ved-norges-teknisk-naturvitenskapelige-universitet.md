@@ -38,7 +38,11 @@ Studenten skal kunne gjennomføre et selvstendig, avgrenset forskningsprosjekt, 
 
 ### § 2-2. Innhold
 
-Forskerlinjens omfang er på 120 studiepoeng og består av tre deler:En forskningsdel som krediteres med 60 studiepoeng som består av 2 forskningssemestre og 2 sommerperioder.En avsluttende forskerlinjeoppgave som krediteres med 30 studiepoeng.En opplæringsdel for ph.d. i medisin og helsevitenskap tilsvarende 30 studiepoeng.
+Forskerlinjens omfang er på 120 studiepoeng og består av tre deler:
+
+1. En forskningsdel som krediteres med 60 studiepoeng som består av 2 forskningssemestre og 2 sommerperioder.
+2. En avsluttende forskerlinjeoppgave som krediteres med 30 studiepoeng.
+3. En opplæringsdel for ph.d. i medisin og helsevitenskap tilsvarende 30 studiepoeng.
 
 Studenten skal delta aktivt i et forskningsmiljø og få grunnleggende innføring i metodene som er nødvendig for å kunne arbeide med forskningsprosjektet. Studenten skal arbeide med eget forskningsprosjekt som utarbeides sammen med hovedveileder. Prosjektet må kunne lede fram til forskningsspørsmål som vil gi grunnlag for publiserbare resultater.
 
@@ -62,7 +66,14 @@ Studenten og fakultetet kan avtale at studenten avbryter forskerlinjen før avta
 
 ### § 4-3. Tvungen avslutning
 
-Fakultetet selv kan vedta tvungen avslutning av forskerlinjen for studenten før avtalt tid. Grunnlag for beslutning om tvungen avslutning kan være ett eller flere av følgende forhold:vesentlig forsinkelse i gjennomføringen av opplæringsdelen grunnet forhold som studenten selv rår overgjentatte eller vesentlige brudd fra studentens side på informasjons-, oppfølgings- eller rapporteringspliktgjentatte eller vesentlige brudd på tilstedeværelse knyttet til forskerlinjesemestreneforsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om studenten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som studenten selv rår over.brudd på de forskningsetiske retningslinjer som gjelder for fagområdet, herunder fuskopptreden fra en student som bryter med den tillit som må foreligge mellom universitet og student under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av medisinstudiet og/eller forskerlinjen.
+Fakultetet selv kan vedta tvungen avslutning av forskerlinjen for studenten før avtalt tid. Grunnlag for beslutning om tvungen avslutning kan være ett eller flere av følgende forhold:
+
+- vesentlig forsinkelse i gjennomføringen av opplæringsdelen grunnet forhold som studenten selv rår over
+- gjentatte eller vesentlige brudd fra studentens side på informasjons-, oppfølgings- eller rapporteringsplikt
+- gjentatte eller vesentlige brudd på tilstedeværelse knyttet til forskerlinjesemestrene
+- forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om studenten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som studenten selv rår over.
+- brudd på de forskningsetiske retningslinjer som gjelder for fagområdet, herunder fusk
+- opptreden fra en student som bryter med den tillit som må foreligge mellom universitet og student under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av medisinstudiet og/eller forskerlinjen.
 
 Studenten skal varsles, og ha anledning til å uttale seg innen en gitt frist på minst to uker, før fakultetet fatter vedtak om tvungen avslutning. Vedtak om tvungen avslutning kan påklages etter [forvaltningsloven § 28](lov/1967-02-10/§28) flg. Grunngitt klage sendes fakultetet. Blir avslaget opprettholdt, sendes klagen til NTNUs nemnd for studentsaker til endelig avgjørelse.
 
@@ -80,7 +91,11 @@ Fakultetet selv fastsetter søknadskjema og søknadsfrist. Søknadsskjema og mal
 
 ### 5-3. Opptaksvedtak
 
-Vedtak om opptak fattes av fakultetet selv og baseres på en samlet vurdering av søknaden. Fakultetet fastsetter kriterier for rangering mellom kvalifiserte søkere og begrensning av opptak når antallet søkere overstiger kapasiteten. Vurdering og rangering av søkere baseres på:den skriftlige søknaden med eventuelle vedleggprosjektbeskrivelsenintervju av søkeren.
+Vedtak om opptak fattes av fakultetet selv og baseres på en samlet vurdering av søknaden. Fakultetet fastsetter kriterier for rangering mellom kvalifiserte søkere og begrensning av opptak når antallet søkere overstiger kapasiteten. Vurdering og rangering av søkere baseres på:
+
+- den skriftlige søknaden med eventuelle vedlegg
+- prosjektbeskrivelsen
+- intervju av søkeren.
 
 Avtaleperioden fastsettes med startdato og sluttdato.
 
@@ -134,7 +149,12 @@ Med arbeid hvor det inngår bidrag fra flere, skal det følge en underskrevet er
 
 ### § 10. Stipend
 
-Studenten mottar et personlig stipend fra fakultetet for hver av de fire forskningsperiodene. Størrelsen på stipendet følger Forskningsrådets satser. Stipendet utbetales når fakultetet har godkjent søknaden. Utbetaling av stipend er betinget av at:studenten har sendt inn og fått godkjent rapporter fra tidligere forskerlinjesemestreframdriftsplan (den opprinnelige eller en revidert versjon) er godkjent av fakultetetkonklusjon fra midtveisevaluering godkjenner videre framdrift (gjelder for stipendsøknader etter gjennomført midtveisevaluering)hovedveileder anbefaler forskningssemesteret som ligger til grunn for søknaden.
+Studenten mottar et personlig stipend fra fakultetet for hver av de fire forskningsperiodene. Størrelsen på stipendet følger Forskningsrådets satser. Stipendet utbetales når fakultetet har godkjent søknaden. Utbetaling av stipend er betinget av at:
+
+- studenten har sendt inn og fått godkjent rapporter fra tidligere forskerlinjesemestre
+- framdriftsplan (den opprinnelige eller en revidert versjon) er godkjent av fakultetet
+- konklusjon fra midtveisevaluering godkjenner videre framdrift (gjelder for stipendsøknader etter gjennomført midtveisevaluering)
+- hovedveileder anbefaler forskningssemesteret som ligger til grunn for søknaden.
 
 Søknadsskjema og frister for å søke ligger tilgjengelig på fakultetets nettsider. Ved avslutning før avtalt tid, skal studentstipend for gjeldende semester beholdes av studenten uavhengig av årsak til avslutning.
 
@@ -164,7 +184,11 @@ Lovfestet permisjon fra medisinstudiet gir normalt tilsvarende permisjon fra for
 
 ### § 14. Innlevering av forskerlinjeoppgave
 
-Forskerlinjeoppgaven skal leveres inn etter at studenten har gjennomført og bestått de fire forskerlinjesemestrene samt gjennomført opplæringsdel for ph.d.-programmet i medisin og helsevitenskap. Oppgaven leveres i henhold til fastsatt frist. Det er et absolutt vilkår for å få innlevere oppgave at opplæringsdelen er fullført. Oppgaven innleveres digitalt. Sammen med oppgaven skal studenten levere:uttalelse fra hovedveilederkopi av nødvendige tillatelser fra Regional komité for medisinsk og helsefaglig forskningsetikk (REK) og/eller andre myndighetererklæring om at arbeidet ikke er benyttet i studentens egen, eller andres, bachelor-, master-, hoved-, eller ph.d.-oppgave (for fellesarbeid, se [§ 9-3](forskrift/2023-11-29-1935/§9-3)).
+Forskerlinjeoppgaven skal leveres inn etter at studenten har gjennomført og bestått de fire forskerlinjesemestrene samt gjennomført opplæringsdel for ph.d.-programmet i medisin og helsevitenskap. Oppgaven leveres i henhold til fastsatt frist. Det er et absolutt vilkår for å få innlevere oppgave at opplæringsdelen er fullført. Oppgaven innleveres digitalt. Sammen med oppgaven skal studenten levere:
+
+- uttalelse fra hovedveileder
+- kopi av nødvendige tillatelser fra Regional komité for medisinsk og helsefaglig forskningsetikk (REK) og/eller andre myndigheter
+- erklæring om at arbeidet ikke er benyttet i studentens egen, eller andres, bachelor-, master-, hoved-, eller ph.d.-oppgave (for fellesarbeid, se [§ 9-3](forskrift/2023-11-29-1935/§9-3)).
 
 Studenten mister retten til å levere forskerlinjeoppgaven dersom innleveringsfristen oversittes. Forskerlinjeoppgaver som leveres før fristen blir ikke vurdert før etter den ordinære fristen.
 
@@ -200,7 +224,12 @@ Dersom muntlig presentasjon og diskusjon avdekker manglende kunnskap hos student
 
 ### § 17. Godkjenning av forskerlinjen
 
-Godkjenning av forskerlinjen gjøres på bakgrunn av:fullført og godkjent forskningsdel, jf. [§ 2-2](forskrift/2023-11-29-1935/§2-2), 1fullført opplæringsdel for ph.d. etter godkjent plan, jf. [§ 8](forskrift/2023-11-29-1935/§8)godkjent skriftlig forskerlinjeoppgave, jf. [§ 16](forskrift/2023-11-29-1935/§16)godkjent muntlig presentasjon og etterfølgende diskusjon av forskningsarbeidet jf. [§ 16](forskrift/2023-11-29-1935/§16).
+Godkjenning av forskerlinjen gjøres på bakgrunn av:
+
+- fullført og godkjent forskningsdel, jf. [§ 2-2](forskrift/2023-11-29-1935/§2-2), 1
+- fullført opplæringsdel for ph.d. etter godkjent plan, jf. [§ 8](forskrift/2023-11-29-1935/§8)
+- godkjent skriftlig forskerlinjeoppgave, jf. [§ 16](forskrift/2023-11-29-1935/§16)
+- godkjent muntlig presentasjon og etterfølgende diskusjon av forskningsarbeidet jf. [§ 16](forskrift/2023-11-29-1935/§16).
 
 ### § 18. Ikrafttredelse
 

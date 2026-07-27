@@ -42,7 +42,17 @@ Forskriften gjelder alle doktorgradsutdanninger ved institusjonen. Forskriften o
 
 (1) Søknad om opptak sendes institusjonen på fastsatt søknadsskjema.
 
-(2) Søknaden skal inneholde:dokumentasjon for den utdanningen som ligger til grunn for opptaketbeskrivelse av forskningsprosjektet, som omfatter faglig redegjørelse for forskningsprosjektet, fremdriftsplan og foreløpig publiseringsplanplan for opplæringsdelendokumentasjon for finansieringdokumentasjon av spesielle behov for faglige og materielle ressurserplaner for opphold ved andre, herunder utenlandske, institusjoneropplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheterforslag til minst én medveileder i tillegg til hovedveileder, samt beskrivelse av et aktivt forskningsmiljø og vurdering fra foreslått hovedveileder om prosjektets gjennomførbarhetredegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser, og hvordan disse skal avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre og så videre). Slike tillatelser bør om mulig være innhentet og legges ved søknaden.
+(2) Søknaden skal inneholde:
+
+1. dokumentasjon for den utdanningen som ligger til grunn for opptaket
+2. beskrivelse av forskningsprosjektet, som omfatter faglig redegjørelse for forskningsprosjektet, fremdriftsplan og foreløpig publiseringsplan
+3. plan for opplæringsdelen
+4. dokumentasjon for finansiering
+5. dokumentasjon av spesielle behov for faglige og materielle ressurser
+6. planer for opphold ved andre, herunder utenlandske, institusjoner
+7. opplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter
+8. forslag til minst én medveileder i tillegg til hovedveileder, samt beskrivelse av et aktivt forskningsmiljø og vurdering fra foreslått hovedveileder om prosjektets gjennomførbarhet
+9. redegjørelse for eventuelle rettslige og etiske problemstillinger som prosjektet reiser, og hvordan disse skal avklares. Det skal fremgå av søknaden om prosjektet er avhengig av tillatelse fra forskningsetiske komiteer eller andre myndigheter eller fra private (informanter, pasienter, foreldre og så videre). Slike tillatelser bør om mulig være innhentet og legges ved søknaden.
 
 > Endret ved forskrift [12 juni 2025 nr. 1439](forskrift/2025-06-12-1439) (i kraft 1 aug 2025).
 
@@ -60,7 +70,11 @@ Forskriften gjelder alle doktorgradsutdanninger ved institusjonen. Forskriften o
 
 (3) Programutvalget godkjenner opplæringsdelen. Dersom det i løpet av studietiden er behov for å gjøre vesentlige endringer i opplæringsdelen, skal omarbeidet opplæringsdel sendes programutvalget for godkjenning.
 
-(4) Søknad om opptak skal avslås dersom ett eller flere av vilkårene er oppfylt:avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingende immaterialrettslige avtaler som er inngått er til hinder for det som anses som normal gjennomføringfinansiering ikke er sikret for hele perioden.
+(4) Søknad om opptak skal avslås dersom ett eller flere av vilkårene er oppfylt:
+
+1. avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingen
+2. de immaterialrettslige avtaler som er inngått er til hinder for det som anses som normal gjennomføring
+3. finansiering ikke er sikret for hele perioden.
 
 (5) Det kan gis betinget opptak dersom enkelte vilkår for opptak på opptakstidspunktet ikke er oppfylt. Søker skal i slike tilfeller gis en tidsfrist som ikke er lenger enn tre måneder, for å oppfylle de manglende vilkår.
 
@@ -70,7 +84,12 @@ Forskriften gjelder alle doktorgradsutdanninger ved institusjonen. Forskriften o
 
 ### § 2-5. Endelig prosjektbeskrivelse
 
-(1) Der det ikke allerede er utarbeidet en endelig prosjektbeskrivelse, må ph.d.-kandidaten raskest mulig, og normalt innen tre måneder etter opptak, utarbeide endelig prosjektbeskrivelse sammen med veiledere og eventuelle medforskere som skal inneholde:beskrivelse av forskningsprosjektetfremdriftsplan for gjennomføringen av forskningsprosjektetpubliseringsplanplaner for opphold ved andre institusjoner.
+(1) Der det ikke allerede er utarbeidet en endelig prosjektbeskrivelse, må ph.d.-kandidaten raskest mulig, og normalt innen tre måneder etter opptak, utarbeide endelig prosjektbeskrivelse sammen med veiledere og eventuelle medforskere som skal inneholde:
+
+1. beskrivelse av forskningsprosjektet
+2. fremdriftsplan for gjennomføringen av forskningsprosjektet
+3. publiseringsplan
+4. planer for opphold ved andre institusjoner.
 
 (2) Endelig prosjektbeskrivelse godkjennes av programutvalget.
 
@@ -102,7 +121,12 @@ Forskriften gjelder alle doktorgradsutdanninger ved institusjonen. Forskriften o
 
 ### § 2-9. Tvungen avslutning ved forsinkelse eller manglende fremdrift
 
-(1) Når ett eller flere av de følgende vilkårene er oppfylt, kan programutvalget anbefale tvungen avslutning av utdanningen:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.Gjentatte eller vesentlige brudd fra ph.d.-kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 3-7](forskrift/2017-12-14-2411/§3-7).Forsinkelse i fremdriften av prosjektet som er av en slik art at det skaper begrunnet tvil om ph.d.-kandidaten vil kunne fullføre til avtalt tid.Tvungen avslutning etter reglene her kan bare vedtas dersom fremdriftssvikten eller forsinkelsen skyldes forhold som ph.d.-kandidaten selv rår over.
+(1) Når ett eller flere av de følgende vilkårene er oppfylt, kan programutvalget anbefale tvungen avslutning av utdanningen:
+
+1. Vesentlig forsinkelse i gjennomføringen av opplæringsdelen.
+2. Gjentatte eller vesentlige brudd fra ph.d.-kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 3-7](forskrift/2017-12-14-2411/§3-7).
+3. Forsinkelse i fremdriften av prosjektet som er av en slik art at det skaper begrunnet tvil om ph.d.-kandidaten vil kunne fullføre til avtalt tid.
+4. Tvungen avslutning etter reglene her kan bare vedtas dersom fremdriftssvikten eller forsinkelsen skyldes forhold som ph.d.-kandidaten selv rår over.
 
 (2) Vedtak om tvungen avslutning etter denne bestemmelsen fattes av fakultetsstyret.
 
@@ -260,7 +284,11 @@ Ph.d.-kandidater som har foreldrepermisjon fra ph.d.-utdanningen, har rett til �
 
 ### § 4-1. Grunnlag for bedømmelse
 
-Ph.d.-graden tildeles på grunnlag av følgende obligatoriske og godkjente elementer:vitenskapelig avhandlinggjennomført opplæringsdeldoktorgradsprøve, bestående av prøveforelesning over oppgitt emne og offentlig forsvar av avhandlingen.
+Ph.d.-graden tildeles på grunnlag av følgende obligatoriske og godkjente elementer:
+
+1. vitenskapelig avhandling
+2. gjennomført opplæringsdel
+3. doktorgradsprøve, bestående av prøveforelesning over oppgitt emne og offentlig forsvar av avhandlingen.
 
 ### § 4-2. Perioden fra innlevering til disputas
 
@@ -274,7 +302,17 @@ Ph.d.-graden tildeles på grunnlag av følgende obligatoriske og godkjente eleme
 
 (1) Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent.
 
-(2) Søknaden skal inneholde:avhandlingen i godkjent format og i henhold til institusjonens bestemmelser i den form og det antall eksemplarer institusjonen har bestemtdokumentasjon av nødvendige tillatelserdokumentasjon på fullført og godkjent opplæringsdelmedforfattererklæringer der hvor dette er påkrevderklæring om hvorvidt ph.d.-arbeidet leveres inn til bedømmelse for første eller andre gangerklæring om at ph.d.-arbeidet ikke er levert til bedømmelse ved annen institusjonerklæring med beskrivelse av eget bidrag i avhandlingenerklæring om plagiatkontrollerklæring om publisering av avhandlingen i institusjonens elektroniske vitenarkiv.
+(2) Søknaden skal inneholde:
+
+1. avhandlingen i godkjent format og i henhold til institusjonens bestemmelser i den form og det antall eksemplarer institusjonen har bestemt
+2. dokumentasjon av nødvendige tillatelser
+3. dokumentasjon på fullført og godkjent opplæringsdel
+4. medforfattererklæringer der hvor dette er påkrevd
+5. erklæring om hvorvidt ph.d.-arbeidet leveres inn til bedømmelse for første eller andre gang
+6. erklæring om at ph.d.-arbeidet ikke er levert til bedømmelse ved annen institusjon
+7. erklæring med beskrivelse av eget bidrag i avhandlingen
+8. erklæring om plagiatkontroll
+9. erklæring om publisering av avhandlingen i institusjonens elektroniske vitenarkiv.
 
 > Endret ved forskrift [12 juni 2025 nr. 1439](forskrift/2025-06-12-1439) (i kraft 1 aug 2025).
 
@@ -288,7 +326,14 @@ Ph.d.-graden tildeles på grunnlag av følgende obligatoriske og godkjente eleme
 
 (1) Det skal oppnevnes en sakkyndig komité på minst tre medlemmer som skal bedømme avhandlingen og disputasen. Habilitetsreglene i [forvaltningsloven kapittel 2](lov/1967-02-10/kapII) gjelder for komiteens medlemmer. Komiteens sammensetning skal som hovedregel være klarlagt ved innleveringstidspunkt.
 
-(2) Bedømmelseskomiteen skal normalt settes sammen slik at:ulike kjønn er representertminst to av medlemmene er uten tilknytning til institusjonenminst ett av medlemmene bør ha hovedstilling ved en utenlandsk institusjonminst ett av medlemmene er fast ansatt ved institusjonenalle medlemmene har doktorgrad eller tilsvarende kompetanseflertallet i bedømmelseskomiteen er eksterne medlemmer.
+(2) Bedømmelseskomiteen skal normalt settes sammen slik at:
+
+1. ulike kjønn er representert
+2. minst to av medlemmene er uten tilknytning til institusjonen
+3. minst ett av medlemmene bør ha hovedstilling ved en utenlandsk institusjon
+4. minst ett av medlemmene er fast ansatt ved institusjonen
+5. alle medlemmene har doktorgrad eller tilsvarende kompetanse
+6. flertallet i bedømmelseskomiteen er eksterne medlemmer.
 
 (3) Dersom kriteriene nevnt i andre ledd fravikes, skal dette begrunnes særskilt.
 
@@ -356,7 +401,10 @@ En ph.d.-avhandling som ikke er funnet verdig til forsvar (underkjent), kan bed�
 
 ### § 4-13. Offentliggjøring av ph.d.-avhandlingen
 
-(1) Ph.d.-avhandlingen skal være offentlig tilgjengelig senest to uker før dato for disputas. Ph.d.-avhandlingen gjøres tilgjengelig i den form den ble innlevert til bedømmelse, eventuelt etter omarbeiding på grunnlag av komiteens foreløpige kommentarer. Ph.d.-avhandlingen er offentliggjort når et av følgende forhold inntrer:avhandlingen er tilgjengeliggjort digitaltavhandlingen er tilgjengeliggjort i papirkopi.
+(1) Ph.d.-avhandlingen skal være offentlig tilgjengelig senest to uker før dato for disputas. Ph.d.-avhandlingen gjøres tilgjengelig i den form den ble innlevert til bedømmelse, eventuelt etter omarbeiding på grunnlag av komiteens foreløpige kommentarer. Ph.d.-avhandlingen er offentliggjort når et av følgende forhold inntrer:
+
+1. avhandlingen er tilgjengeliggjort digitalt
+2. avhandlingen er tilgjengeliggjort i papirkopi.
 
 (2) Det kan ikke legges restriksjoner på offentliggjøring av ph.d.-avhandlingen med unntak av en på forhånd avtalt utsettelse av datoen for offentliggjøring. Slik utsettelse kan finne sted for at institusjonen og eventuelt ekstern part som helt eller delvis har finansiert ph.d.-utdanningen, skal kunne ta stilling til eventuell patentering. Ekstern part kan ikke stille krav om at hele eller deler av ph.d.-avhandlingen skal unntas offentlighet.
 
@@ -392,7 +440,12 @@ En ph.d.-avhandling som ikke er funnet verdig til forsvar (underkjent), kan bed�
 
 (5) Opponentene bestemmer selv fordeling av oppgaver seg imellom. Etter at begge opponenter har avsluttet sin opposisjon, gis de øvrige tilstedeværende anledning til å kommentere ex auditorio. En av opponentene avslutter opposisjonen, og disputasleder avslutter disputasen.
 
-(6) Etter prøveforelesningen og disputasen sender bedømmelseskomiteen sin innstilling til programutvalget der de angir om disputasen er godkjent eller ikke godkjent. Innstillingen skal inneholde:komiteens vurdering av ph.d.-avhandlingenkomiteens vurdering av prøveforelesningenkomiteens vurdering av det offentlige forsvaret av ph.d.-avhandlingenkomiteens vurdering av ph.d.-avhandlingens nivå i internasjonal sammenheng.
+(6) Etter prøveforelesningen og disputasen sender bedømmelseskomiteen sin innstilling til programutvalget der de angir om disputasen er godkjent eller ikke godkjent. Innstillingen skal inneholde:
+
+1. komiteens vurdering av ph.d.-avhandlingen
+2. komiteens vurdering av prøveforelesningen
+3. komiteens vurdering av det offentlige forsvaret av ph.d.-avhandlingen
+4. komiteens vurdering av ph.d.-avhandlingens nivå i internasjonal sammenheng.
 
 (7) Programutvalget fatter vedtak om godkjenning av doktorgradsprøven i tråd med [§ 4-1 bokstav c](forskrift/2017-12-14-2411/§4-1/bokstav/c), på grunnlag av bedømmelseskomiteens innstilling.
 
@@ -418,7 +471,11 @@ En ph.d.-avhandling som ikke er funnet verdig til forsvar (underkjent), kan bed�
 
 (1) Institusjonen kan inngå samarbeid med en eller flere norske eller utenlandske institusjoner om samarbeid i form av avtale om fellesgrader eller cotutelle-avtaler. Dersom slik avtale medfører at én eller flere bestemmelser i denne forskrift må fravikes, skal avtale fremlegges rektor for endelig godkjenning. Fellesgrader skal normalt bare inngås dersom det fra før er et etablert, stabilt faglig samarbeid mellom institusjonen og minst én av de andre konsortiedeltakere.
 
-(2) Med fellesgrader menes et samarbeid mellom flere institusjoner, der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne. For fullført fellesgrad utstedes felles vitnemål i form av:et vitnemålsdokument utstedt av alle konsortiemedlemmeneet vitnemål fra hver av konsortiedeltakerneen kombinasjon av a) og b).
+(2) Med fellesgrader menes et samarbeid mellom flere institusjoner, der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne. For fullført fellesgrad utstedes felles vitnemål i form av:
+
+1. et vitnemålsdokument utstedt av alle konsortiemedlemmene
+2. et vitnemål fra hver av konsortiedeltakerne
+3. en kombinasjon av a) og b).
 
 (3) Med cotutelle-avtaler menes felles veiledning av ph.d.-kandidater og samarbeid om utdanning av ph.d-kandidater. Cotutelle-avtalen inngås for hver enkelt kandidat og skal bygges på et stabilt, faglig institusjonelt samarbeid.
 
@@ -460,7 +517,13 @@ En ph.d.-avhandling som ikke er funnet verdig til forsvar (underkjent), kan bed�
 
 ### § 7-1. Overgangsbestemmelser
 
-Den som er innvilget opptak etter:opphevet [forskrift 9. mai 2014 nr. 868](forskrift/2014-05-09-868) for graden philosophiae doktor (ph.d.) ved Høgskolen i Buskerud og Vestfold,opphevet [forskrift 11. juni 2015 nr. 1075](forskrift/2015-06-11-1075) om graden philosophiae doctor (ph.d.) ved Høgskolen i Telemark,opphevet [forskrift 18. desember 2015 nr. 1893](forskrift/2015-12-18-1893) om graden philosophiae doktor (ph.d.) ved Høgskolen i Sørøst-Norge ellerbeholder de rettighetene som følger av disse, i tilfeller hvor disse forskriftene er til gunst for kandidaten.
+Den som er innvilget opptak etter:
+
+- opphevet [forskrift 9. mai 2014 nr. 868](forskrift/2014-05-09-868) for graden philosophiae doktor (ph.d.) ved Høgskolen i Buskerud og Vestfold,
+- opphevet [forskrift 11. juni 2015 nr. 1075](forskrift/2015-06-11-1075) om graden philosophiae doctor (ph.d.) ved Høgskolen i Telemark,
+- opphevet [forskrift 18. desember 2015 nr. 1893](forskrift/2015-12-18-1893) om graden philosophiae doktor (ph.d.) ved Høgskolen i Sørøst-Norge eller
+
+beholder de rettighetene som følger av disse, i tilfeller hvor disse forskriftene er til gunst for kandidaten.
 
 > Endret ved forskrift [12 juni 2025 nr. 1439](forskrift/2025-06-12-1439) (i kraft 1 aug 2025, tidligere § 6-4).
 

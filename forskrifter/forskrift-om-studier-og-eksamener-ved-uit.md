@@ -15,7 +15,7 @@ xml_hash: "a75d22f5afd390138fecde40944ff710c653f9f84796a8db692e184e8b2b6acf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,10 @@ Fakultetene selv kan gi utfyllende bestemmelser til denne forskriften om studier
 
 (2) Utdanningsplanen skal være satt opp slik at studenten skal kunne gjennomføre det planlagte studiet eller studieløp fram til en grad eller yrkesutdanning på normert tid som heltids- eller deltidsstudent.
 
-(3) Skifte av kull kan foretas etter avtale mellom universitetet og studenten. Kullskifte kan også ensidig foretas av universitetet når:Studenten er mer enn et halvt år forsinket i forhold til normert studieprogresjon eller ligger 30 studiepoeng eller mer etter normert studieprogresjon. Kullskifte innebærer endret utdanningsplan og kan også medføre endringer i pensum og eksamensordninger. Studenten skal gis skriftlig melding om skifte av kull.Studenten får endret studieprogresjon som følge av bestemmelser i fag- eller studieplan.
+(3) Skifte av kull kan foretas etter avtale mellom universitetet og studenten. Kullskifte kan også ensidig foretas av universitetet når:
+
+1. Studenten er mer enn et halvt år forsinket i forhold til normert studieprogresjon eller ligger 30 studiepoeng eller mer etter normert studieprogresjon. Kullskifte innebærer endret utdanningsplan og kan også medføre endringer i pensum og eksamensordninger. Studenten skal gis skriftlig melding om skifte av kull.
+2. Studenten får endret studieprogresjon som følge av bestemmelser i fag- eller studieplan.
 
 ### § 6. Pensum
 
@@ -98,7 +101,11 @@ UiT tildeler grader og yrkesutdanninger i samsvar med forskrift om grader og yrk
 
 (1) For å få tildelt en bachelorgrad, må studenten ha avlagt eksamen i og bestått emner som til sammen utgjør minst 180 studiepoeng.
 
-(2) Grunnlaget for graden skal omfatte ett av følgende:Studieprogram som etter rammeplan gir bachelorgrad.Studieprogram med fordypning på minimum 80 studiepoeng. I tillegg skal examen philosophicum normalt inngå.Bachelor i fritt sammensatte fag. I graden skal det inngå en fordypning på minimum 80 studiepoeng, en emnegruppe på minimum 30 studiepoeng, og examen philosophicum.
+(2) Grunnlaget for graden skal omfatte ett av følgende:
+
+1. Studieprogram som etter rammeplan gir bachelorgrad.
+2. Studieprogram med fordypning på minimum 80 studiepoeng. I tillegg skal examen philosophicum normalt inngå.
+3. Bachelor i fritt sammensatte fag. I graden skal det inngå en fordypning på minimum 80 studiepoeng, en emnegruppe på minimum 30 studiepoeng, og examen philosophicum.
 
 (3) Minst 60 av studiepoengene som skal inngå i grunnlaget for bachelorgraden, skal ikke være en del av tidligere oppnådd grad eller yrkesutdanning.
 
@@ -164,7 +171,14 @@ Personer som oppfyller opptakskravene og andre vilkår for å avlegge eksamen, m
 
 (1) Universitetet kan, etter søknad fra studenten, gi dispensasjon fra fristene for registrering og oppmelding til eksamen, samt fra frist for søknad om tilrettelegging.
 
-(2) Dispensasjon kan gis i følgende tilfeller:Ved sykdom på dagen for fristens utløp, dokumentert ved legeattest.Ved dokumentert dødsfall i nærmeste familie.Det første semesteret studenten er registrert ved universitetet.Når studenten deltar i et gruppearbeid som direkte inngår som del av den eksamen det gjelder, og eksamen ikke kan gjennomføres for de andre i gruppen uten at denne studenten er med.Dersom bestått eksamen vil medføre at studenten fullfører en grad eller yrkesutdanning ved UiT.Dispensasjon kan også gis i andre særlige tilfeller.
+(2) Dispensasjon kan gis i følgende tilfeller:
+
+1. Ved sykdom på dagen for fristens utløp, dokumentert ved legeattest.
+2. Ved dokumentert dødsfall i nærmeste familie.
+3. Det første semesteret studenten er registrert ved universitetet.
+4. Når studenten deltar i et gruppearbeid som direkte inngår som del av den eksamen det gjelder, og eksamen ikke kan gjennomføres for de andre i gruppen uten at denne studenten er med.
+5. Dersom bestått eksamen vil medføre at studenten fullfører en grad eller yrkesutdanning ved UiT.
+6. Dispensasjon kan også gis i andre særlige tilfeller.
 
 (3) Det skal normalt ikke gis dispensasjon dersom søknaden mottas senere enn fire uker etter at fristen har utløpt.
 
@@ -220,7 +234,14 @@ Studenter må disponere egen bærbar datamaskin til bruk ved eksamen. Nødvendig
 
 ### § 24. Hva som regnes som et eksamensforsøk
 
-(1) Følgende regnes som et eksamensforsøk:Studenten har bestått eksamen.Studenten har ikke bestått eksamen.Studenten trekker seg etter fastsatt frist, jf. [§ 14](forskrift/2020-06-26-1617/§14), eller trekker seg under eksamen.Studenten leverer ikke eksamen innen oppgitt frist.Studenten møter ikke til eksamen.Studenten får annullert eksamen på grunn av fusk eller forsøk på fusk.
+(1) Følgende regnes som et eksamensforsøk:
+
+1. Studenten har bestått eksamen.
+2. Studenten har ikke bestått eksamen.
+3. Studenten trekker seg etter fastsatt frist, jf. [§ 14](forskrift/2020-06-26-1617/§14), eller trekker seg under eksamen.
+4. Studenten leverer ikke eksamen innen oppgitt frist.
+5. Studenten møter ikke til eksamen.
+6. Studenten får annullert eksamen på grunn av fusk eller forsøk på fusk.
 
 (2) Dersom studenten leverer blank besvarelse eller besvarelse som åpenbart ikke er et forsøk på en faglig besvarelse, anses studenten for å ha trukket seg under eksamen, jf. bokstav c.
 
@@ -290,7 +311,10 @@ Studenter må disponere egen bærbar datamaskin til bruk ved eksamen. Nødvendig
 
 (1) Ved UiT gjelder det ordinært en øvre grense på tre eksamensforsøk for det enkelte emne. Hva som regnes som et eksamensforsøk er beskrevet i [§ 24](forskrift/2020-06-26-1617/§24).
 
-(2) Universitetet kan gi inntil tre dispensasjoner fra første ledd dersom ett av følgende kriterier er oppfylt:Ved å bestå eksamen i emnet vil studenten fullføre en grad eller yrkesutdanning ved universitetet.Studenten kan dokumentere tungtveiende sosiale og/eller personlige grunner til at eksamen i emnet ikke er bestått etter å ha framstilt seg tre ganger.
+(2) Universitetet kan gi inntil tre dispensasjoner fra første ledd dersom ett av følgende kriterier er oppfylt:
+
+1. Ved å bestå eksamen i emnet vil studenten fullføre en grad eller yrkesutdanning ved universitetet.
+2. Studenten kan dokumentere tungtveiende sosiale og/eller personlige grunner til at eksamen i emnet ikke er bestått etter å ha framstilt seg tre ganger.
 
 (3) Dersom studenten har fremstilt seg til samme eksamen tre eller flere ganger uten å bestå, og det ikke foreligger grunnlag for dispensasjon, kan universitetet frata studieretten, se [§ 49](forskrift/2020-06-26-1617/§49).
 
@@ -304,7 +328,10 @@ Studenter må disponere egen bærbar datamaskin til bruk ved eksamen. Nødvendig
 
 (1) Det er anledning til å framstille seg til samme praksis to ganger. Dersom nasjonale rammeplaner gir anledning til ytterligere praksisforsøk, gjelder rammeplanens bestemmelser.
 
-(2) Universitetet kan dispensere fra denne bestemmelsen dersom ett av følgende kriterier er oppfylt:Ved å bestå praksis vil studenten fullføre en grad eller yrkesutdanning ved universitetet.Studenten kan dokumentere tungtveiende sosiale og/eller personlige grunner til at praksis ikke er bestått etter å ha framstilt seg to ganger i praksis.
+(2) Universitetet kan dispensere fra denne bestemmelsen dersom ett av følgende kriterier er oppfylt:
+
+1. Ved å bestå praksis vil studenten fullføre en grad eller yrkesutdanning ved universitetet.
+2. Studenten kan dokumentere tungtveiende sosiale og/eller personlige grunner til at praksis ikke er bestått etter å ha framstilt seg to ganger i praksis.
 
 (3) Dersom studenten har fremstilt seg til samme praksis to ganger uten å bestå, og det ikke foreligger grunnlag for dispensasjon, kan universitetet frata studenten studieretten, se [§ 49](forskrift/2020-06-26-1617/§49). Dette skal studenten gjøres særskilt, skriftlig oppmerksom på før andre praksisforsøk påbegynnes.
 
@@ -344,7 +371,10 @@ Studenter må disponere egen bærbar datamaskin til bruk ved eksamen. Nødvendig
 
 ### § 35. Vurderingsuttrykk
 
-(1) Følgende vurderingsuttrykk skal benyttes:Bestått/ikke bestått.En gradert skala med 5 trinn fra A til E for «bestått» og F for «ikke bestått».
+(1) Følgende vurderingsuttrykk skal benyttes:
+
+1. Bestått/ikke bestått.
+2. En gradert skala med 5 trinn fra A til E for «bestått» og F for «ikke bestått».
 
 (2) Bokstavkaraktertrinnene gis følgende betegnelse og generell, kvalitativ beskrivelse:
 
@@ -387,11 +417,23 @@ Sensur inkluderer plagiatkontroll av innleverte eksamensbesvarelser og studentar
 
 (1) Enhetene oppnevner sensorer.
 
-(2) Det skal være ekstern evaluering av vurderingen eller vurderingsordningene. Dette gjelder ikke dersom minst én av sensorene er ekstern. Ordninger for ekstern evaluering kan være én, eller en kombinasjon av følgende:Ekstern deltagelse ved utforming av eksamensoppgaver og sensorveiledning.Ekstern kontroll av intern sensors vurdering av et tilfeldig utvalg studenter.Ekstern evaluering av alle vurderingsordningene som inngår i fag- eller studieplanen.
+(2) Det skal være ekstern evaluering av vurderingen eller vurderingsordningene. Dette gjelder ikke dersom minst én av sensorene er ekstern. Ordninger for ekstern evaluering kan være én, eller en kombinasjon av følgende:
 
-(3) Det skal benyttes to sensorer, hvorav minst én ekstern, i følgende tilfeller:Ved bedømmelse av studentens selvstendige arbeid i høyere grad.Ved ny sensurering som følge av klage over formelle feil ved eksamen, jf. [lov om universiteter og høyskoler § 11-9 andre ledd](lov/2024-03-08-9/§11-9/ledd/2).Ved klage over karakterfastsettelse, jf. [lov om universiteter og høyskoler § 11-11](lov/2024-03-08-9/§11-11).
+1. Ekstern deltagelse ved utforming av eksamensoppgaver og sensorveiledning.
+2. Ekstern kontroll av intern sensors vurdering av et tilfeldig utvalg studenter.
+3. Ekstern evaluering av alle vurderingsordningene som inngår i fag- eller studieplanen.
 
-(4) Det skal benyttes to sensorer i følgende tilfeller:Ved bedømmelse av bacheloroppgaver eller lignende selvstendig arbeid på lavere grad.Ved bedømmelse av eksamener som alene utgjør 15 studiepoeng eller mer.Ved bedømmelse av eksamener som ikke er etterprøvbare.
+(3) Det skal benyttes to sensorer, hvorav minst én ekstern, i følgende tilfeller:
+
+1. Ved bedømmelse av studentens selvstendige arbeid i høyere grad.
+2. Ved ny sensurering som følge av klage over formelle feil ved eksamen, jf. [lov om universiteter og høyskoler § 11-9 andre ledd](lov/2024-03-08-9/§11-9/ledd/2).
+3. Ved klage over karakterfastsettelse, jf. [lov om universiteter og høyskoler § 11-11](lov/2024-03-08-9/§11-11).
+
+(4) Det skal benyttes to sensorer i følgende tilfeller:
+
+1. Ved bedømmelse av bacheloroppgaver eller lignende selvstendig arbeid på lavere grad.
+2. Ved bedømmelse av eksamener som alene utgjør 15 studiepoeng eller mer.
+3. Ved bedømmelse av eksamener som ikke er etterprøvbare.
 
 (5) Dersom to sensorer ikke blir enige om felles sensurvedtak, skal en tredje sensor, som skal være ekstern, trekkes inn. Sensuren avgjøres ved flertall.
 
@@ -459,7 +501,17 @@ Sensur kunngjøres i Studentweb.
 
 ### § 46. Fusk
 
-(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:Å handle i strid med gjeldende regler for den spesifikke eksamenÅ bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamenÅ presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitatÅ levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selvÅ levere besvarelse eller deler av besvarelse som ikke er utarbeidet av studenten(e) selvUreglementert samarbeid mellom studenter eller grupperFabrikkering eller forfalskning av dataUrettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starterGjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette.
+(1) Følgende kan være fusk eller forsøk på fusk hvis det er egnet til å gi en urettmessig fordel:
+
+1. Å handle i strid med gjeldende regler for den spesifikke eksamen
+2. Å bruke eller ha ulovlige hjelpemidler tilgjengelig under eksamen
+3. Å presentere andres arbeid som sitt eget uten tilstrekkelig kildehenvisning eller markering av sitat
+4. Å levere arbeid av praktisk eller kunstnerisk art som er laget av andre enn studenten(e) selv
+5. Å levere besvarelse eller deler av besvarelse som ikke er utarbeidet av studenten(e) selv
+6. Ureglementert samarbeid mellom studenter eller grupper
+7. Fabrikkering eller forfalskning av data
+8. Urettmessig å ha skaffet seg adgang til eksamensoppgaven før eksamen starter
+9. Gjenbruk av eget tidligere innlevert arbeid som har gitt uttelling, uten å ha opplyst om dette.
 
 (2) Fusk eller forsøk på fusk ved obligatoriske arbeidskrav der det inngår et element av vurdering fra universitetets side, følger samme bestemmelser som fusk ved eksamen.
 
@@ -497,7 +549,17 @@ Sensur kunngjøres i Studentweb.
 
 ### § 49. Tap av studierett
 
-(1) Universitetet kan frata studieretten til studenter i følgende tilfeller:Studenten har fremstilt seg til samme eksamen ved UiT tre ganger uten å bestå, og det foreligger ikke grunnlag for dispensasjon, jf. [§ 30](forskrift/2020-06-26-1617/§30).Studenten har fremstilt seg til samme praksis ved UiT to ganger uten å bestå, og det foreligger ikke grunnlag for dispensasjon, jf. [§ 31](forskrift/2020-06-26-1617/§31).Studenten har blitt mer enn ett år forsinket i studiet uten gyldig grunn, jf. [§ 47](forskrift/2020-06-26-1617/§47).Studenten møter ikke opp ved studiestart på studieprogram der dette er påkrevd.Studenten har ikke semesterregistrert seg.Studenten har ikke betalt semesteravgift.Studenten har ikke bekreftet sin utdanningsplan.Studenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurt, jf. [§ 51](forskrift/2020-06-26-1617/§51).Studenten er betalingspliktig og har ikke betalt studieavgift eller fått innvilget unntak, jf. [§ 51](forskrift/2020-06-26-1617/§51).
+(1) Universitetet kan frata studieretten til studenter i følgende tilfeller:
+
+1. Studenten har fremstilt seg til samme eksamen ved UiT tre ganger uten å bestå, og det foreligger ikke grunnlag for dispensasjon, jf. [§ 30](forskrift/2020-06-26-1617/§30).
+2. Studenten har fremstilt seg til samme praksis ved UiT to ganger uten å bestå, og det foreligger ikke grunnlag for dispensasjon, jf. [§ 31](forskrift/2020-06-26-1617/§31).
+3. Studenten har blitt mer enn ett år forsinket i studiet uten gyldig grunn, jf. [§ 47](forskrift/2020-06-26-1617/§47).
+4. Studenten møter ikke opp ved studiestart på studieprogram der dette er påkrevd.
+5. Studenten har ikke semesterregistrert seg.
+6. Studenten har ikke betalt semesteravgift.
+7. Studenten har ikke bekreftet sin utdanningsplan.
+8. Studenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurt, jf. [§ 51](forskrift/2020-06-26-1617/§51).
+9. Studenten er betalingspliktig og har ikke betalt studieavgift eller fått innvilget unntak, jf. [§ 51](forskrift/2020-06-26-1617/§51).
 
 (2) Studenter som står i fare for å miste studieretten etter bokstav c skal gis skriftlig forhåndsvarsel senest ved semesterstart.
 

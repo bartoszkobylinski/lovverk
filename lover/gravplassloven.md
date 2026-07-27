@@ -15,7 +15,7 @@ xml_hash: "ce161f1e421e672b1bb580a003e9672b3f0eb6879902829b04b18386f15626a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -266,7 +266,12 @@ Statsforvalteren kan legge til rette for at etterlattes oppgaver og valg etter l
 
 Gravplassmyndigheten, godkjente krematorier, statsforvalteren og kommunen kan behandle personopplysninger, også personopplysninger som nevnt i [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9), når dette er nødvendig for å utøve myndighet eller utføre andre oppgaver etter loven her eller for å ivareta etterlattes valg av tros- eller livssynssamfunn til å gjennomføre gravferdsseremonien. Departementet kan gi forskrift om behandlingen, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, hvem det kan behandles personopplysninger om, bruk av automatiserte avgjørelser, og om adgangen til viderebehandling, retting og sletting.
 
-Så langt det er nødvendig for å utøve myndighet eller utføre andre oppgaver etter loven her eller for å ivareta etterlattes valg av tros- eller livssynssamfunn til å gjennomføre gravferdsseremonien, kan offentlige og private virksomheter, domstolene og forvaltningsorganer dele opplysninger uten hinder av taushetsplikt. Departementet kan gi forskrift omplikt til å dele opplysninger uten hinder av taushetsplikthvilke private virksomheter som er omfattet av delingsadgangen etter første punktumat enkelte opplysninger ikke skal kunne deles etter første punktumvilkår for deling av opplysninger etter første punktum.
+Så langt det er nødvendig for å utøve myndighet eller utføre andre oppgaver etter loven her eller for å ivareta etterlattes valg av tros- eller livssynssamfunn til å gjennomføre gravferdsseremonien, kan offentlige og private virksomheter, domstolene og forvaltningsorganer dele opplysninger uten hinder av taushetsplikt. Departementet kan gi forskrift om
+
+1. plikt til å dele opplysninger uten hinder av taushetsplikt
+2. hvilke private virksomheter som er omfattet av delingsadgangen etter første punktum
+3. at enkelte opplysninger ikke skal kunne deles etter første punktum
+4. vilkår for deling av opplysninger etter første punktum.
 
 > Tilføyd ved lov [16 juni 2023 nr. 40](lov/2023-06-16-40) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 955](forskrift/2024-06-14-955)).
 
@@ -310,7 +315,10 @@ Loven gjelder ikke for Svalbard.
 
 Loven trer i kraft fra den tid Kongen bestemmer.
 
-Fra den tid1 loven trer i kraft, oppheves:[Lov 3. august 1897 nr 1 om Kirker og Kirkegaarde](lov/1897-08-03-1) §§ 33-43 og[Lov 3. mai 1913](lov/1913-05-03) om likbrænding.
+Fra den tid1 loven trer i kraft, oppheves:
+
+1. [Lov 3. august 1897 nr 1 om Kirker og Kirkegaarde](lov/1897-08-03-1) §§ 33-43 og
+2. [Lov 3. mai 1913](lov/1913-05-03) om likbrænding.
 
 – – –
 

@@ -15,7 +15,7 @@ xml_hash: "31a3ce00694096387c8dff6ab615e671602c2203f99c4100ee3230924dc5fc94"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -242,7 +242,16 @@ Når skolefritidsordninga er knytt til skolar, skal rektor vere leiar. Kommunen 
 
 Kommunen kan nytte private til å drive skolefritidsordninga.
 
-Kommunen gir forskrift om skolefritidsordninga. Forskrifta skal ha reglar omeigarforholdkven som er opptaksmyndigheitopptakskriteriumopptaksperiode og oppseiingforeldrebetalingleike- og opphaldsarealdagleg opphaldstid og årleg opningstidpersonale og leiing.
+Kommunen gir forskrift om skolefritidsordninga. Forskrifta skal ha reglar om
+
+1. eigarforhold
+2. kven som er opptaksmyndigheit
+3. opptakskriterium
+4. opptaksperiode og oppseiing
+5. foreldrebetaling
+6. leike- og opphaldsareal
+7. dagleg opphaldstid og årleg opningstid
+8. personale og leiing.
 
 Departementet kan gi forskrift om gratis skolefritidsordning, moderasjonsordningar og om innhald og oppgåver for skolefritidsordninga.
 
@@ -644,7 +653,13 @@ Eleven eller foreldra må samtykkje før kommunen eller fylkeskommunen gjer ei s
 
 ### § 11-8. Kva den sakkunnige vurderinga skal innehalde
 
-I ei sakkunnig vurdering skal den pedagogisk-psykologiske tenesta alltid greie ut omeleven sitt utbytte av opplæringakvifor eleven eventuelt ikkje har, eller ikkje kan få, tilfredsstillande utbytte av opplæringakva som er realistiske opplæringsmål for elevenkva tiltak som kan gi eleven eit tilfredsstillande utbytte av opplæringakva kompetanse dei som skal gi opplæringa, bør ha, dersom det skal gjerast unntak frå kompetansekrava etter [§ 11-9](lov/2023-06-09-30/§11-9) andre eller tredje ledd
+I ei sakkunnig vurdering skal den pedagogisk-psykologiske tenesta alltid greie ut om
+
+1. eleven sitt utbytte av opplæringa
+2. kvifor eleven eventuelt ikkje har, eller ikkje kan få, tilfredsstillande utbytte av opplæringa
+3. kva som er realistiske opplæringsmål for eleven
+4. kva tiltak som kan gi eleven eit tilfredsstillande utbytte av opplæringa
+5. kva kompetanse dei som skal gi opplæringa, bør ha, dersom det skal gjerast unntak frå kompetansekrava etter [§ 11-9](lov/2023-06-09-30/§11-9) andre eller tredje ledd
 
 ### § 11-9. Kompetansekrav for den som skal gi individuelt tilrettelagd opplæring
 
@@ -672,7 +687,10 @@ Elevar og lærekandidatar har også rett til den opplæringa dei treng for å ku
 
 Kommunen og fylkeskommunen skal ha ei pedagogisk-psykologisk teneste.
 
-Den pedagogisk-psykologiske tenesta skal samarbeide med og støtte skolane i det førebyggjande arbeidet for å gi eit inkluderande opplæringstilbod til elevar som kan ha behov for tilrettelegging av opplæringa. Tenesta skalstøtte og rettleie skolane i å greie ut behov for tilrettelegging av opplæringa og i å setje inn tiltak så tidleg som mogleg når det trengsthjelpe til med kompetanseutvikling og organisasjonsutvikling slik at opplæringstilbodet blir så inkluderande og godt tilrettelagt som mogleg
+Den pedagogisk-psykologiske tenesta skal samarbeide med og støtte skolane i det førebyggjande arbeidet for å gi eit inkluderande opplæringstilbod til elevar som kan ha behov for tilrettelegging av opplæringa. Tenesta skal
+
+1. støtte og rettleie skolane i å greie ut behov for tilrettelegging av opplæringa og i å setje inn tiltak så tidleg som mogleg når det trengst
+2. hjelpe til med kompetanseutvikling og organisasjonsutvikling slik at opplæringstilbodet blir så inkluderande og godt tilrettelagt som mogleg
 
 Der lova eller forskrift til lova krev sakkunnig vurdering, er det den pedagogisk-psykologiske tenesta som skal utarbeide vurderinga.
 
@@ -704,7 +722,13 @@ Alle som arbeider på skolen, skal følgje med på korleis elevane har det, og o
 
 Alle som arbeider på skolen, skal melde frå til rektor dersom dei får mistanke om eller kjennskap til at ein elev ikkje har eit trygt og godt skolemiljø. Det gjeld også når ein elev seier sjølv at ho eller han ikkje har det trygt og godt. Skolen skal snarast undersøkje saka og rette opp situasjonen med eigna tiltak. Rektor skal melde frå til kommunen eller fylkeskommunen i alvorlege tilfelle.
 
-Skolen skal lage ein skriftleg plan for tiltaka i ei sak. I planen skal det ståkva problem tiltaka skal løysekva tiltak skolen har planlagtnår tiltaka skal gjennomførastkven som skal gjennomføre tiltakanår tiltaka skal evaluerast
+Skolen skal lage ein skriftleg plan for tiltaka i ei sak. I planen skal det stå
+
+1. kva problem tiltaka skal løyse
+2. kva tiltak skolen har planlagt
+3. når tiltaka skal gjennomførast
+4. kven som skal gjennomføre tiltaka
+5. når tiltaka skal evaluerast
 
 Skolen skal dokumentere kva som blir gjort for å oppfylle aktivitetsplikta etter første til andre ledd, i den forma og det omfanget som er nødvendig.
 
@@ -788,7 +812,12 @@ Kommunen og fylkeskommunen skal sørgje for at skolen, leksehjelpa og skolefriti
 
 ### § 13-4. Fysiske inngrep for å avverje skade m.m.
 
-Tilsette i skolen, leksehjelpa og skolefritidsordninga kan, når andre tiltak ikkje er tilstrekkelege, gripe inn fysisk mot elevar for å avverje at ein elevkrenkjer ein person fysisk eller psykisk eller utsett seg sjølv for fysisk fareskader eigedomviser ei åtferd som er sterkt fornedrande for eleven sjølvvesentleg forstyrrar opplæringa til andre elevar
+Tilsette i skolen, leksehjelpa og skolefritidsordninga kan, når andre tiltak ikkje er tilstrekkelege, gripe inn fysisk mot elevar for å avverje at ein elev
+
+1. krenkjer ein person fysisk eller psykisk eller utsett seg sjølv for fysisk fare
+2. skader eigedom
+3. viser ei åtferd som er sterkt fornedrande for eleven sjølv
+4. vesentleg forstyrrar opplæringa til andre elevar
 
 Det fysiske inngrepet kan ikkje gå lenger enn nødvendig, og det skal stå i eit rimeleg forhold til dei interessene som skal varetakast.
 
@@ -878,7 +907,11 @@ Med læremiddel er her meint alle trykte, ikkje-trykte og digitale element som e
 
 Skolen skal bruke læremiddel på norsk og samisk som følgjer offisiell rettskriving.
 
-Skolen skal bruke læremiddel som ligg føre på bokmål og nynorsk til same tid og same pris. Kravet gjeld ikkjelæremiddel i faget norsklæremiddel i fag med årskull med 300 eller færre elevarlæremiddel der den norske teksten utgjer ein mindre del
+Skolen skal bruke læremiddel som ligg føre på bokmål og nynorsk til same tid og same pris. Kravet gjeld ikkje
+
+1. læremiddel i faget norsk
+2. læremiddel i fag med årskull med 300 eller færre elevar
+3. læremiddel der den norske teksten utgjer ein mindre del
 
 Dei trykte læremidla i norskfaget i grunnskolen skal samla ha nok tilfang på både bokmål og nynorsk, slik at elevane lærer å lese begge skriftspråka.
 
@@ -1226,7 +1259,28 @@ Godkjenninga etter første og andre ledd fell bort dersom ein skole ikkje set i 
 
 ### § 22-2. Ansvaret til private grunnskolar
 
-For private grunnskolar gjeld:[§§ 1-3](lov/2023-06-09-30/§1-3) og [1-4](lov/2023-06-09-30/§1-4) første og andre ledd om mål og prinsipp for opplæringa[§ 2-3](lov/2023-06-09-30/§2-3) om innhald, vurdering og dokumentasjon i grunnskoleopplæringa[§ 3-1](lov/2023-06-09-30/§3-1) om bokmål og nynorsk for elevane i grunnskolen[kapittel 10](lov/2023-06-09-30/kap10) om det beste for eleven, medverknad, skoledemokrati, foreldresamarbeid, skolereglar og plikt til å delta[§ 11-1](lov/2023-06-09-30/§11-1) om tilpassa opplæring[kapittel 12](lov/2023-06-09-30/kap12) om skolemiljøet til elevane[§ 13-1](lov/2023-06-09-30/§13-1) om bortvising og [§§ 13-3](lov/2023-06-09-30/§13-3) til [13-5](lov/2023-06-09-30/§13-5) om skadeførebygging[§ 14-1](lov/2023-06-09-30/§14-1) andre ledd om skole- og feriedagar[§ 14-2](lov/2023-06-09-30/§14-2) om inndeling av elevar i klassar og grupper[§ 14-4](lov/2023-06-09-30/§14-4) om fjernundervisning[§ 14-5](lov/2023-06-09-30/§14-5) om forbod mot forkynning[§ 14-6](lov/2023-06-09-30/§14-6) om fritak frå aktivitetar i opplæringa på grunn av livssyn[§ 14-7](lov/2023-06-09-30/§14-7) om opplæring om kristendom, religion, livssyn og etikk[kapittel 16](lov/2023-06-09-30/kap16) om rådgiving[kapittel 17](lov/2023-06-09-30/kap17) om personalet i skolen, skolefagleg kompetanse og kvalitetsutvikling[§ 24-2](lov/2023-06-09-30/§24-2) om opplysningar til den kommunale helse- og omsorgstenesta og sosialtenesta[§ 24-3](lov/2023-06-09-30/§24-3) om plikt til å melde frå til barnevernet[§ 25-1](lov/2023-06-09-30/§25-1) om behandling av personopplysningar og unntak frå teieplikt[§ 25-4](lov/2023-06-09-30/§25-4) om plikt til å delta i evalueringar og gi opplysningar[§ 27-2](lov/2023-06-09-30/§27-2) om forbod mot bruk av plagg som dekkjer ansiktet
+For private grunnskolar gjeld:
+
+1. [§§ 1-3](lov/2023-06-09-30/§1-3) og [1-4](lov/2023-06-09-30/§1-4) første og andre ledd om mål og prinsipp for opplæringa
+2. [§ 2-3](lov/2023-06-09-30/§2-3) om innhald, vurdering og dokumentasjon i grunnskoleopplæringa
+3. [§ 3-1](lov/2023-06-09-30/§3-1) om bokmål og nynorsk for elevane i grunnskolen
+4. [kapittel 10](lov/2023-06-09-30/kap10) om det beste for eleven, medverknad, skoledemokrati, foreldresamarbeid, skolereglar og plikt til å delta
+5. [§ 11-1](lov/2023-06-09-30/§11-1) om tilpassa opplæring
+6. [kapittel 12](lov/2023-06-09-30/kap12) om skolemiljøet til elevane
+7. [§ 13-1](lov/2023-06-09-30/§13-1) om bortvising og [§§ 13-3](lov/2023-06-09-30/§13-3) til [13-5](lov/2023-06-09-30/§13-5) om skadeførebygging
+8. [§ 14-1](lov/2023-06-09-30/§14-1) andre ledd om skole- og feriedagar
+9. [§ 14-2](lov/2023-06-09-30/§14-2) om inndeling av elevar i klassar og grupper
+10. [§ 14-4](lov/2023-06-09-30/§14-4) om fjernundervisning
+11. [§ 14-5](lov/2023-06-09-30/§14-5) om forbod mot forkynning
+12. [§ 14-6](lov/2023-06-09-30/§14-6) om fritak frå aktivitetar i opplæringa på grunn av livssyn
+13. [§ 14-7](lov/2023-06-09-30/§14-7) om opplæring om kristendom, religion, livssyn og etikk
+14. [kapittel 16](lov/2023-06-09-30/kap16) om rådgiving
+15. [kapittel 17](lov/2023-06-09-30/kap17) om personalet i skolen, skolefagleg kompetanse og kvalitetsutvikling
+16. [§ 24-2](lov/2023-06-09-30/§24-2) om opplysningar til den kommunale helse- og omsorgstenesta og sosialtenesta
+17. [§ 24-3](lov/2023-06-09-30/§24-3) om plikt til å melde frå til barnevernet
+18. [§ 25-1](lov/2023-06-09-30/§25-1) om behandling av personopplysningar og unntak frå teieplikt
+19. [§ 25-4](lov/2023-06-09-30/§25-4) om plikt til å delta i evalueringar og gi opplysningar
+20. [§ 27-2](lov/2023-06-09-30/§27-2) om forbod mot bruk av plagg som dekkjer ansiktet
 
 [Kommuneloven § 25-1](lov/2018-06-22-83/§25-1) om internkontroll gjeld også for private grunnskolar.
 
@@ -1312,7 +1366,12 @@ Kommunen og fylkeskommunen skal sørgje for at alle som utfører tenester eller 
 
 Alle som utfører tenester eller arbeid etter denne lova, skal i arbeidet sitt vere merksame på forhold som kan føre til tiltak frå barnevernstenesta.
 
-Alle som utfører tenester eller arbeid etter denne lova, skal utan hinder av teieplikta melde frå til barnevernstenesta utan ugrunna opphaldnår det er grunn til å tru at eit barn blir eller kjem til å bli mishandla, utsett for alvorlege manglar ved den daglege omsorga eller annan alvorleg omsorgssviktnår det er grunn til å tru at eit barn har ein livstruande eller annan alvorleg sjukdom eller skade og ikkje kjem til undersøking eller behandling, eller at eit barn med nedsett funksjonsevne eller eit særleg hjelpetrengande barn ikkje får dekt det særlege behovet for behandling eller opplæringnår eit barn set utviklinga si i alvorleg fare i form av alvorleg eller gjentatt kriminalitet, misbruk av rusmiddel eller andre utprega skadelege handlingarnår det er grunn til å tru at eit barn blir eller kjem til å bli utnytta til menneskehandel
+Alle som utfører tenester eller arbeid etter denne lova, skal utan hinder av teieplikta melde frå til barnevernstenesta utan ugrunna opphald
+
+1. når det er grunn til å tru at eit barn blir eller kjem til å bli mishandla, utsett for alvorlege manglar ved den daglege omsorga eller annan alvorleg omsorgssvikt
+2. når det er grunn til å tru at eit barn har ein livstruande eller annan alvorleg sjukdom eller skade og ikkje kjem til undersøking eller behandling, eller at eit barn med nedsett funksjonsevne eller eit særleg hjelpetrengande barn ikkje får dekt det særlege behovet for behandling eller opplæring
+3. når eit barn set utviklinga si i alvorleg fare i form av alvorleg eller gjentatt kriminalitet, misbruk av rusmiddel eller andre utprega skadelege handlingar
+4. når det er grunn til å tru at eit barn blir eller kjem til å bli utnytta til menneskehandel
 
 Alle som utfører tenester eller arbeid etter denne lova, har også plikt til å gi opplysningar etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
 
@@ -1352,7 +1411,12 @@ Utlevering av personopplysningar etter andre, tredje og fjerde ledd kan gjerast 
 
 ### § 25-2. Den nasjonale databasen for vitnemål og annan dokumentasjon av oppnådd kompetanse frå vidaregåande opplæring
 
-Den nasjonale databasen for vitnemål og annan dokumentasjon av kompetanse skal leggje til rette forsamling av sannferdig informasjon om og oppbevaring av vitnemål og annan dokumentasjon av oppnådd kompetanse frå vidaregåande opplæringkontroll av at vitnemåla er gyldig førte i samsvar med gjeldande reglaropptak til høgare utdanning og til høgare yrkesfagleg utdanningdeling av vitnemål og annan dokumentasjon av kompetanse
+Den nasjonale databasen for vitnemål og annan dokumentasjon av kompetanse skal leggje til rette for
+
+1. samling av sannferdig informasjon om og oppbevaring av vitnemål og annan dokumentasjon av oppnådd kompetanse frå vidaregåande opplæring
+2. kontroll av at vitnemåla er gyldig førte i samsvar med gjeldande reglar
+3. opptak til høgare utdanning og til høgare yrkesfagleg utdanning
+4. deling av vitnemål og annan dokumentasjon av kompetanse
 
 Fylkeskommunar og andre som tilbyr vidaregåande opplæring, skal utan hinder av teieplikt levere alle vitnemål og kompetansebevis frå den vidaregåande opplæringa til databasen. Departementet kan i forskrift fastsetje unntak frå denne plikta.
 
@@ -1478,7 +1542,11 @@ Fylkeskommunen skal organisere skoleskyssen i samråd med kommunen. Blir dei ikk
 
 Kommunen har ansvar for innlosjering av elevar i grunnskolen etter [§ 4-3](lov/2023-06-09-30/§4-3). Fylkeskommunen har ansvar for å hjelpe elevar i den vidaregåande opplæringa med å skaffe bustad etter [§ 9-3](lov/2023-06-09-30/§9-3).
 
-Departementet kan gi forskrift omskoleskyss og skyssgodtgjersleheimreiser, reisefølgje og opphald for dei som må innlosjerast i samsvar med [kapittel 9](lov/2023-06-09-30/kap9)heimfylket sitt ansvar for å refundere utgifter til skyss i samband med vidaregåande opplæring i eit anna fylke
+Departementet kan gi forskrift om
+
+1. skoleskyss og skyssgodtgjersle
+2. heimreiser, reisefølgje og opphald for dei som må innlosjerast i samsvar med [kapittel 9](lov/2023-06-09-30/kap9)
+3. heimfylket sitt ansvar for å refundere utgifter til skyss i samband med vidaregåande opplæring i eit anna fylke
 
 ### § 28-8. Ulykkesforsikring
 

@@ -50,7 +50,14 @@ Barne-, ungdoms- og familieetaten har ansvaret for at det finnes et kvalifisert 
 
 ## § 4. Hvem som kan foreta mekling
 
-Følgende personer kan godkjennes som mekler:fagperson tilsatt ved offentlig godkjent familievernkontorprest i Den norske kirke eller godkjent vigsler i annet trossamfunnfagperson tilsatt i offentlig helse- og sosialinstans eller ved pedagogisk-psykologisk tjenestekontorved behov kan det gis meklingsbevilling til privatpraktiserende psykolog, psykiater eller advokat.På Svalbard kan det også gis meklingsbevilling til andre personer som finnes egnet.
+Følgende personer kan godkjennes som mekler:
+
+1. fagperson tilsatt ved offentlig godkjent familievernkontor
+2. prest i Den norske kirke eller godkjent vigsler i annet trossamfunn
+3. fagperson tilsatt i offentlig helse- og sosialinstans eller ved pedagogisk-psykologisk tjenestekontor
+4. ved behov kan det gis meklingsbevilling til privatpraktiserende psykolog, psykiater eller advokat.
+
+   På Svalbard kan det også gis meklingsbevilling til andre personer som finnes egnet.
 
 Mekler må ha gode kunnskaper om voksnes og barns reaksjoner i og etter samlivsbrudd. Mekler bør være godt orientert om faglige og juridiske spørsmål som er relevante i forhold til saksfeltet, så som barne- og familiepsykologi, relevant forskning, meklingsmetodikk, lover og forskrifter mv. Innen denne rammen bestemmer Barne-, ungdoms- og familieetaten hvilken opplæring som anses påkrevet.
 

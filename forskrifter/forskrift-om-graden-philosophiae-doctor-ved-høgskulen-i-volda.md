@@ -42,13 +42,22 @@ Ph.d.-utdanninga er normert til tre (3) års fulltidsstudium og inkluderer ein o
 
 ### § 2-3. Innhald
 
-Ph.d.-graden vert tildelt på grunnlag av:Godkjent vitskapleg avhandlingGodkjent gjennomføring av opplæringsdelenGodkjent prøveførelesing over oppgjeve emneGodkjent offentleg forsvar av avhandlinga (disputas).
+Ph.d.-graden vert tildelt på grunnlag av:
+
+1. Godkjent vitskapleg avhandling
+2. Godkjent gjennomføring av opplæringsdelen
+3. Godkjent prøveførelesing over oppgjeve emne
+4. Godkjent offentleg forsvar av avhandlinga (disputas).
 
 ### § 3. Ansvar for ph.d.-utdanninga
 
 (1) Styret har det overordna ansvaret for ph.d.-utdanninga. Utdanninga vert organisert i program som vert forvalta av avdelinga.
 
-(2) Kvart ph.d.-program skal vere underlagt eit doktorgradsutval som har ansvar foropptak og gjennomføring av studiet,godkjenning av studieplan og emneplanar for utdanninga, ogutfyllande retningslinjer for programmet.
+(2) Kvart ph.d.-program skal vere underlagt eit doktorgradsutval som har ansvar for
+
+1. opptak og gjennomføring av studiet,
+2. godkjenning av studieplan og emneplanar for utdanninga, og
+3. utfyllande retningslinjer for programmet.
 
 ### § 4. Kvalitetssikring
 
@@ -98,7 +107,11 @@ For å verte teken opp til ph.d.-utdanninga må søkjaren ha femårig mastergrad
 
 (3) I vedtak om opptak skal det peikast ut minst ein rettleiar, avtaleperioden skal vere fastsett med start- og sluttdato og ein plan for studiet. Startdato er også lik startdato for finansiering.
 
-(4) Søknad om opptak kan verte avslegen dersom:avtalar med ekstern tredjepart hindrar offentleggjering og offentleg forsvar av avhandlingaimmateriellrettslege avtalar er så urimelege at Høgskulen ikkje bør medverke i prosjektetfinansiering ikkje er sikra for heile perioden.
+(4) Søknad om opptak kan verte avslegen dersom:
+
+1. avtalar med ekstern tredjepart hindrar offentleggjering og offentleg forsvar av avhandlinga
+2. immateriellrettslege avtalar er så urimelege at Høgskulen ikkje bør medverke i prosjektet
+3. finansiering ikkje er sikra for heile perioden.
 
 ### § 5-6. Avtaleperiode
 
@@ -122,7 +135,11 @@ For å verte teken opp til ph.d.-utdanninga må søkjaren ha femårig mastergrad
 
 ### § 6-2. Tvungen avslutting ved forseinking eller manglande framdrift
 
-(1) Avdelinga kan vedta tvungen avslutting av ph.d.-utdanninga før avtalt tid. Avdelinga kan gjere vedtak om det på grunnlag av eitt eller fleire forhold:Vesentleg forseinking i gjennomføring av opplæringsdelen på grunn av forhold som kandidaten sjølv rår overGjentekne og vesentlege brot frå kandidatens side av informasjons-, oppfølgings- eller rapporteringsplikt, inkludert innsending av framdriftsrapport, jf. [§ 9](forskrift/2024-09-05-2677/§9)Forseinkingar i framdrifta i forskingsprosjektet som gjer det sannsynleg at kandidaten ikkje vil kunne fullføre prosjektet innafor avtalt tid. For å danne grunnlag for tvungen avslutting må forseinkinga skuldast forhold som kandidaten sjølv rår over.
+(1) Avdelinga kan vedta tvungen avslutting av ph.d.-utdanninga før avtalt tid. Avdelinga kan gjere vedtak om det på grunnlag av eitt eller fleire forhold:
+
+1. Vesentleg forseinking i gjennomføring av opplæringsdelen på grunn av forhold som kandidaten sjølv rår over
+2. Gjentekne og vesentlege brot frå kandidatens side av informasjons-, oppfølgings- eller rapporteringsplikt, inkludert innsending av framdriftsrapport, jf. [§ 9](forskrift/2024-09-05-2677/§9)
+3. Forseinkingar i framdrifta i forskingsprosjektet som gjer det sannsynleg at kandidaten ikkje vil kunne fullføre prosjektet innafor avtalt tid. For å danne grunnlag for tvungen avslutting må forseinkinga skuldast forhold som kandidaten sjølv rår over.
 
 (2) Klage over vedtak om tvungen avslutting ved forseinkingar eller manglande framdrift går til Nemnd for studentsaker ved Høgskulen i Volda.
 
@@ -254,7 +271,12 @@ Seinast to månader før innlevering av avhandlinga bør det gjennomførast ei �
 
 ### § 12-1. Grunnlag for vurdering
 
-Ph.d.-graden vert tildelt på grunnlag av:godkjent og offentleggjort vitskapleg avhandlinggodkjent gjennomføring av opplæringsdelengodkjent prøveførelesing over oppgjeve emnegodkjent offentleg forsvar av avhandlinga (disputas).
+Ph.d.-graden vert tildelt på grunnlag av:
+
+1. godkjent og offentleggjort vitskapleg avhandling
+2. godkjent gjennomføring av opplæringsdelen
+3. godkjent prøveførelesing over oppgjeve emne
+4. godkjent offentleg forsvar av avhandlinga (disputas).
 
 ### § 12-2. Tidsbruk frå innlevering til disputas
 
@@ -266,7 +288,14 @@ Det skal normalt ikkje gå meir enn fem (5) månader frå innlevering av avhandl
 
 (1) Søknad om å få avhandlinga vurdert kan sendast etter at opplæringsdelen er godkjend.
 
-(2) Dette skal leggjast ved søknaden:Avhandlinga i godkjent format og i tråd med det Høgskulen har fastsettDokumentasjon på at opplæringsdelen er fullførtDokumentasjon av nødvendige løyve, jf. [§ 5-2 (5)](forskrift/2024-09-05-2677/§5-2/ledd/5)Medforfattarerklæringar der det er kravd i tråd med [§ 10-1 (4)](forskrift/2024-09-05-2677/§10-1/ledd/4)Erklæring om at doktorgradsarbeidet er levert til vurdering for fyrste eller andre gongErklæring om at doktorgradsarbeidet ikkje er levert til vurdering ved ein annan institusjon.
+(2) Dette skal leggjast ved søknaden:
+
+1. Avhandlinga i godkjent format og i tråd med det Høgskulen har fastsett
+2. Dokumentasjon på at opplæringsdelen er fullført
+3. Dokumentasjon av nødvendige løyve, jf. [§ 5-2 (5)](forskrift/2024-09-05-2677/§5-2/ledd/5)
+4. Medforfattarerklæringar der det er kravd i tråd med [§ 10-1 (4)](forskrift/2024-09-05-2677/§10-1/ledd/4)
+5. Erklæring om at doktorgradsarbeidet er levert til vurdering for fyrste eller andre gong
+6. Erklæring om at doktorgradsarbeidet ikkje er levert til vurdering ved ein annan institusjon.
 
 ### § 13-2. Handsaming av søknaden
 
@@ -280,7 +309,12 @@ Det skal normalt ikkje gå meir enn fem (5) månader frå innlevering av avhandl
 
 (2) Når vilkåra for oppnemning av vurderingskomité er oppfylt, oppnemner doktorgradsutvalet, etter framlegg frå hovudrettleiar, ein sakkunnig komité på minst tre medlemer som skal vurdere avhandlinga, disputasen og prøveførelesinga.
 
-(3) Samansetjing av komitéen bør vere klarlagt når søknad om vurdering vert levert inn. Vurderingskomitéen skal normalt setjast saman slik at:begge kjønn er representerteminst to av medlemene er utan tilknyting til Høgskulenminst eitt av medlemene har hovudstilling ved ein utanlandsk institusjonalle medlemene har doktorgrad eller tilsvarande kompetanse.
+(3) Samansetjing av komitéen bør vere klarlagt når søknad om vurdering vert levert inn. Vurderingskomitéen skal normalt setjast saman slik at:
+
+1. begge kjønn er representerte
+2. minst to av medlemene er utan tilknyting til Høgskulen
+3. minst eitt av medlemene har hovudstilling ved ein utanlandsk institusjon
+4. alle medlemene har doktorgrad eller tilsvarande kompetanse.
 
 (4) Vurderingskomitéen er underlagt reglane om habilitet i [forvaltningslova §§ 6](lov/1967-02-10/§6) til [10](lov/1967-02-10/§10).
 
@@ -376,7 +410,10 @@ Avdelinga fattar, på grunnlag av vurderingskomitéen si innstilling, vedtak om 
 
 ### § 19. Doktorgradsprøve
 
-Om arbeidet er vurdert som verdig til forsvar, vert doktorgradsutdanninga avslutta medoffentleg prøveførelesing over oppgjeve emne ogdisputas.
+Om arbeidet er vurdert som verdig til forsvar, vert doktorgradsutdanninga avslutta med
+
+1. offentleg prøveførelesing over oppgjeve emne og
+2. disputas.
 
 ### § 19-1. Prøveførelesing
 
@@ -462,7 +499,12 @@ Avslag på søknad om opptak, vedtak om avslutting av studierett og avslag på s
 
 ### § 24-2. Fellesgrader
 
-Med fellesgrader er det meint samarbeid mellom fleire institusjonar, der alle i fellesskap har ansvar for opptak, rettleiing, gradstildeling og anna som er omtala i denne forskrifta. Samarbeidet vert normalt organisert i eit konsortium og vert regulert i avtale mellom konsortiedeltakarane. For fullført fellesgrad vert det utferda felles vitnemål i form av:eit vitnemålsdokument utferda av alle konsortiemedlemmane,eit vitnemål frå kvar av konsortiedeltakarane,eller ein kombinasjon av a) og b).
+Med fellesgrader er det meint samarbeid mellom fleire institusjonar, der alle i fellesskap har ansvar for opptak, rettleiing, gradstildeling og anna som er omtala i denne forskrifta. Samarbeidet vert normalt organisert i eit konsortium og vert regulert i avtale mellom konsortiedeltakarane. For fullført fellesgrad vert det utferda felles vitnemål i form av:
+
+1. eit vitnemålsdokument utferda av alle konsortiemedlemmane,
+2. eit vitnemål frå kvar av konsortiedeltakarane,
+
+eller ein kombinasjon av a) og b).
 
 ### § 24-3. Cotutelle-avtalar
 

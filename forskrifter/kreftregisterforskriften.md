@@ -46,7 +46,12 @@ Kreftregisteret kan videre inneholde helseopplysninger om personer som har delta
 
 ### § 1-3. (Kreftregisterets formål)
 
-Formålet med Kreftregisteret er å:innsamle og innenfor forskriftens rammer behandle data om krefttilfeller og kreftundersøkelser i Norge for å kartlegge kreftsykdommers utbredning i landet og belyse endringer over tid,drive, fremme og gi grunnlag for forskning for å utvikle ny viten om kreftsykdommenes årsaker, diagnose, naturlige forløp og behandlingseffekter for å fremme og utvikle kvaliteten på forebyggende tiltak og helsehjelp som tilbys eller ytes mot kreftsykdom, herunder følge opp enkeltpasienter og pasientgrupper,gi råd og veiledning om helsehjelp mot kreftsykdommer,gi råd og informasjon til øvrig forvaltning og befolkningen om tiltak som kan forebygge utvikling av kreftsykdom.
+Formålet med Kreftregisteret er å:
+
+1. innsamle og innenfor forskriftens rammer behandle data om krefttilfeller og kreftundersøkelser i Norge for å kartlegge kreftsykdommers utbredning i landet og belyse endringer over tid,
+2. drive, fremme og gi grunnlag for forskning for å utvikle ny viten om kreftsykdommenes årsaker, diagnose, naturlige forløp og behandlingseffekter for å fremme og utvikle kvaliteten på forebyggende tiltak og helsehjelp som tilbys eller ytes mot kreftsykdom, herunder følge opp enkeltpasienter og pasientgrupper,
+3. gi råd og veiledning om helsehjelp mot kreftsykdommer,
+4. gi råd og informasjon til øvrig forvaltning og befolkningen om tiltak som kan forebygge utvikling av kreftsykdom.
 
 Opplysninger i Kreftregisteret kan foruten til formål som nevnt i første ledd, behandles til styring, planlegging og kvalitetssikring av helse- og omsorgstjenesten og helse- og omsorgsforvaltningen, utarbeiding av statistikk og til forskning.
 
@@ -72,21 +77,102 @@ Folkehelseinstituttet kan inngå skriftlig avtale med en databehandler om innsam
 
 ### § 1-7. (Opplysninger om krefttilfeller i Kreftregisteret)
 
-Kreftregisteret kan uten samtykke inneholde følgende opplysninger om personer som har eller har hatt kreft, forstadier til kreft, eller godartede svulster i sentralnervesystemet i den utstrekning det er nødvendig for å nå formålet med registeret:personopplysninger:navn og fødselsnummer,adresse og bostedskommune,sivilstand,fødekommune/fødeland,administrative opplysninger:institusjon/virksomhet/avdeling der helsehjelpen tilbys og ytes,behandlingsansvarlig lege, navn og adresse, eventuelt pasientansvarlig lege,institusjonsopphold, innleggelsesdato, utskrivingsdato, eventuelt poliklinikk,medisinske opplysninger:om årsak til at helse- og omsorgstjenesten er oppsøkt, tidspunkt og tidsforløp for symptomer, diagnose, behandling, kontroller og eventuelt tilbakefall,om kreftsykdommen:kreftsykdommens utgangspunkt eller utspring,sykdomskategori,morfologisk diagnose,utbredelse på diagnosetidspunktet,metastaser,tilbakefall,om diagnosegrunnlag:klinikk,bildediagnostikk,histologisk undersøkelse,cytologisk materiale,annen type undersøkelse,kreftbehandling den registrerte har mottatt, indikasjoner og kontraindikasjoner for behandlingen, behandlingsmetode, samt eventuelle komplikasjoner eller bivirkninger,om eventuell resttumor etter behandling.
+Kreftregisteret kan uten samtykke inneholde følgende opplysninger om personer som har eller har hatt kreft, forstadier til kreft, eller godartede svulster i sentralnervesystemet i den utstrekning det er nødvendig for å nå formålet med registeret:
 
-Kreftregisteret kan, hvis den registrerte ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Kreftregisteret, inneholde opplysninger om den registrertesyrkesmessige forhold,røykevaner,eventuelt andre kjente risikofaktorer for kreft.
+1. personopplysninger:
+
+   - navn og fødselsnummer,
+   - adresse og bostedskommune,
+   - sivilstand,
+   - fødekommune/fødeland,
+2. administrative opplysninger:
+
+   - institusjon/virksomhet/avdeling der helsehjelpen tilbys og ytes,
+   - behandlingsansvarlig lege, navn og adresse, eventuelt pasientansvarlig lege,
+   - institusjonsopphold, innleggelsesdato, utskrivingsdato, eventuelt poliklinikk,
+3. medisinske opplysninger:
+
+   - om årsak til at helse- og omsorgstjenesten er oppsøkt, tidspunkt og tidsforløp for symptomer, diagnose, behandling, kontroller og eventuelt tilbakefall,
+   - om kreftsykdommen:
+
+     - kreftsykdommens utgangspunkt eller utspring,
+     - sykdomskategori,
+     - morfologisk diagnose,
+     - utbredelse på diagnosetidspunktet,
+     - metastaser,
+     - tilbakefall,
+   - om diagnosegrunnlag:
+
+     - klinikk,
+     - bildediagnostikk,
+     - histologisk undersøkelse,
+     - cytologisk materiale,
+     - annen type undersøkelse,
+   - kreftbehandling den registrerte har mottatt, indikasjoner og kontraindikasjoner for behandlingen, behandlingsmetode, samt eventuelle komplikasjoner eller bivirkninger,
+   - om eventuell resttumor etter behandling.
+
+Kreftregisteret kan, hvis den registrerte ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Kreftregisteret, inneholde opplysninger om den registrertes
+
+1. yrkesmessige forhold,
+2. røykevaner,
+3. eventuelt andre kjente risikofaktorer for kreft.
 
 > Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [15 mai 2018 nr. 725](forskrift/2018-05-15-725).
 
 ### § 1-8. (Opplysninger om berørte slektninger til personer som har arvelig kreft)
 
-Kreftregisteret kan på vilkår som nevnt i [§ 1-2](forskrift/2001-12-21-1477/§1-2) annet ledd inneholde følgende opplysninger om berørte slektninger til personer i Norge som dokumentert er disponert for eller har en arvelig kreftsykdom, som kan gjøres til gjenstand for oppsøkende virksomhet:personopplysninger:navn og fødselsnummer,adresse og bostedskommune,sivilstand,fødekommune/fødeland,administrative opplysninger:virksomhet/avdeling, eventuelt institusjonsopphold,tidspunkt for kontrollen (dato og år),tidspunkt for planlagt oppfølging,relevante medisinske opplysninger:diagnosegrunnlag,diagnose,bakgrunn for undersøkelsen.
+Kreftregisteret kan på vilkår som nevnt i [§ 1-2](forskrift/2001-12-21-1477/§1-2) annet ledd inneholde følgende opplysninger om berørte slektninger til personer i Norge som dokumentert er disponert for eller har en arvelig kreftsykdom, som kan gjøres til gjenstand for oppsøkende virksomhet:
+
+1. personopplysninger:
+
+   - navn og fødselsnummer,
+   - adresse og bostedskommune,
+   - sivilstand,
+   - fødekommune/fødeland,
+2. administrative opplysninger:
+
+   - virksomhet/avdeling, eventuelt institusjonsopphold,
+   - tidspunkt for kontrollen (dato og år),
+   - tidspunkt for planlagt oppfølging,
+3. relevante medisinske opplysninger:
+
+   - diagnosegrunnlag,
+   - diagnose,
+4. bakgrunn for undersøkelsen.
 
 > Endret ved [forskrift 15 mai 2018 nr. 725](forskrift/2018-05-15-725).
 
 ### § 1-9. (Opplysninger om personer som har deltatt i program for tidlig diagnose)
 
-Kreftregisteret kan med de unntak som følger av annet og tredje ledd, inneholde følgende opplysninger om personer som har deltatt i undersøkelsesprogram for tidlig diagnose, herunder nødvendige oppfølgende undersøkelser:personopplysninger:navn og fødselsnummer,adresse og bostedskommune,sivilstand,fødekommune/fødeland,administrative opplysninger:virksomhet/avdeling, eventuelt institusjonsopphold,tidspunkt for kontrollen (dato og år),tidspunkt for planlagt oppfølging,relevante medisinske opplysninger:diagnosegrunnlag,diagnose,type undersøkelse,bruk av medikamenter og andre forhold ved den registrertes helse som kan ha betydning for gjennomføring av undersøkelsen,gjennomføring av undersøkelsen,eventuelle komplikasjoner,opplysninger om legen eller annet helsepersonell som utfører undersøkelsen eller stiller diagnosen:helsepersonellnummer eller annen personidentifikator,hvorvidt spesifikke kompetansekrav er oppfylt,bakgrunn for undersøkelsen:undersøkelsesprogram,annen bakgrunn.
+Kreftregisteret kan med de unntak som følger av annet og tredje ledd, inneholde følgende opplysninger om personer som har deltatt i undersøkelsesprogram for tidlig diagnose, herunder nødvendige oppfølgende undersøkelser:
+
+1. personopplysninger:
+
+   - navn og fødselsnummer,
+   - adresse og bostedskommune,
+   - sivilstand,
+   - fødekommune/fødeland,
+2. administrative opplysninger:
+
+   - virksomhet/avdeling, eventuelt institusjonsopphold,
+   - tidspunkt for kontrollen (dato og år),
+   - tidspunkt for planlagt oppfølging,
+3. relevante medisinske opplysninger:
+
+   - diagnosegrunnlag,
+   - diagnose,
+   - type undersøkelse,
+   - bruk av medikamenter og andre forhold ved den registrertes helse som kan ha betydning for gjennomføring av undersøkelsen,
+   - gjennomføring av undersøkelsen,
+   - eventuelle komplikasjoner,
+4. opplysninger om legen eller annet helsepersonell som utfører undersøkelsen eller stiller diagnosen:
+
+   - helsepersonellnummer eller annen personidentifikator,
+   - hvorvidt spesifikke kompetansekrav er oppfylt,
+5. bakgrunn for undersøkelsen:
+
+   - undersøkelsesprogram,
+   - annen bakgrunn.
 
 Ved negativt funn skal personopplysninger som nevnt i første ledd nr. 1, slettes etter at opplysningene er kvalitetssikret og senest seks måneder etter innsamlingen av opplysningene dersom den registrerte har motsatt seg at opplysningene registreres permanent. Dette gjelder også tidligere innsamlede data. Dersom den registrerte ber om det, skal Folkehelseinstituttet registrere opplysninger om navn, fødselsnummer og adresse i et eget reservasjonsregister.
 
@@ -176,7 +262,22 @@ Databehandlere som behandler helseopplysninger på vegne av den dataansvarlige, 
 
 ### § 4-4. (Internkontrollens innhold)
 
-Internkontroll innebærer at den dataansvarlige skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem den måtte angå. Internkontrollen skal blant annet inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:oppfyllelse av krav om at personidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften [§ 1-11](forskrift/2001-12-21-1477/§1-11) og [§ 2-4](forskrift/2001-12-21-1477/§2-4),oppfyllelse av begjæringer om informasjon og innsyn, jf. [helseregisterloven § 24](lov/2014-06-20-43/§24), samt forskriften [§ 5-1](forskrift/2001-12-21-1477/§5-1),hvordan virksomhetene oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften [§ 3-1](forskrift/2001-12-21-1477/§3-1),rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
+Internkontroll innebærer at den dataansvarlige skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem den måtte angå. Internkontrollen skal blant annet inneholde:
+
+1. oversikt over hvordan virksomheten er organisert,
+2. oversikt over ansvars- og myndighetsforhold,
+3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,
+4. rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:
+
+   - oppfyllelse av krav om at personidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. [helseregisterloven § 6](lov/2014-06-20-43/§6) og [§ 17](lov/2014-06-20-43/§17),
+   - dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften [§ 1-11](forskrift/2001-12-21-1477/§1-11) og [§ 2-4](forskrift/2001-12-21-1477/§2-4),
+   - oppfyllelse av begjæringer om informasjon og innsyn, jf. [helseregisterloven § 24](lov/2014-06-20-43/§24), samt forskriften [§ 5-1](forskrift/2001-12-21-1477/§5-1),
+   - hvordan virksomhetene oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften [§ 3-1](forskrift/2001-12-21-1477/§3-1),
+5. rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,
+6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,
+7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,
+8. rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og
+9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.
 
 Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i første ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette dersom det anses påkrevet. Tilsynsmyndighetene kan dispensere fra hele eller deler av dette kapittel når særlige forhold foreligger.
 

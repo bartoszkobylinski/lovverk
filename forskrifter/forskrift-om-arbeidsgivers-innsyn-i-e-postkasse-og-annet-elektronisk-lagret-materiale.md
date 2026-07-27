@@ -15,7 +15,7 @@ xml_hash: "9b10b617919f33b028b2a832c6bff121105a4cc6d5915ed22c00b0aea9739b3f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,10 @@ eu_basis: []
 
 ## § 1. Virkeområde
 
-Forskriften her gjelder arbeidsgivers rett til innsyn i opplysninger lagret ie-postkasse som arbeidsgiver har stilt til arbeidstakers disposisjon til bruk i arbeidetarbeidstakers personlige områder i virksomhetens datanettverk eller annet elektronisk utstyr som arbeidsgiver har stilt til arbeidstakers disposisjon til bruk i arbeidet.
+Forskriften her gjelder arbeidsgivers rett til innsyn i opplysninger lagret i
+
+1. e-postkasse som arbeidsgiver har stilt til arbeidstakers disposisjon til bruk i arbeidet
+2. arbeidstakers personlige områder i virksomhetens datanettverk eller annet elektronisk utstyr som arbeidsgiver har stilt til arbeidstakers disposisjon til bruk i arbeidet.
 
 Bestemmelsene gjelder tilsvarende for innsyn i opplysninger som er slettet fra områder som nevnt i første ledd som finnes på sikkerhetskopier eller tilsvarende.
 
@@ -32,9 +35,15 @@ Forskriften her gjelder nåværende og tidligere arbeidstakere.
 
 ## § 2. Vilkår for innsyn
 
-Arbeidsgiver har bare rett til innsyn i opplysninger som er lagret på områder nevnt i [§ 1](forskrift/2018-07-02-1108/§1)når det er nødvendig for å ivareta den daglige driften eller andre berettigede interesser ved virksomheten, ellerved begrunnet mistanke om at arbeidstakers bruk av e-postkasse eller annet elektronisk utstyr medfører grovt brudd på de plikter som følger av arbeidsforholdet eller kan gi grunnlag for oppsigelse eller avskjed.
+Arbeidsgiver har bare rett til innsyn i opplysninger som er lagret på områder nevnt i [§ 1](forskrift/2018-07-02-1108/§1)
 
-Arbeidsgiver har ikke rett til å overvåke arbeidstakers bruk av elektronisk utstyr, herunder bruk av Internett, med mindre formålet med overvåkingen erå administrere virksomhetens datanettverk ellerå avdekke eller oppklare sikkerhetsbrudd i nettverket.
+1. når det er nødvendig for å ivareta den daglige driften eller andre berettigede interesser ved virksomheten, eller
+2. ved begrunnet mistanke om at arbeidstakers bruk av e-postkasse eller annet elektronisk utstyr medfører grovt brudd på de plikter som følger av arbeidsforholdet eller kan gi grunnlag for oppsigelse eller avskjed.
+
+Arbeidsgiver har ikke rett til å overvåke arbeidstakers bruk av elektronisk utstyr, herunder bruk av Internett, med mindre formålet med overvåkingen er
+
+1. å administrere virksomhetens datanettverk eller
+2. å avdekke eller oppklare sikkerhetsbrudd i nettverket.
 
 ## § 3. Prosedyrer ved innsyn
 

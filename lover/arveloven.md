@@ -15,7 +15,7 @@ xml_hash: "e4a17d0dd522ffe190fdd0088b1c74a429c57c242244bbafa2a528e59d07ec48"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -256,7 +256,12 @@ Alt som den lengstlevende ektefellen eier, hører med til uskifteformuen når de
 
 ### § 32. Retten til uskifte
 
-Den som var samboer med arvelateren ved dødsfallet og har, har hatt eller venter barn med arvelateren, har overfor arvelaterens andre arvinger etter loven rett til å overta følgende av arvelaterens eiendeler uskiftet:felles bolig og innbobil og fritidsbolig med innbo som tjente til felles bruk for samboerne.Samboeren kan på samme måte overta også andre eiendeler uskiftet hvis det er fastsatt i testament eller arvingene samtykker. [§ 14](lov/2019-06-14-21/§14) annet og tredje ledd gjelder tilsvarende.
+Den som var samboer med arvelateren ved dødsfallet og har, har hatt eller venter barn med arvelateren, har overfor arvelaterens andre arvinger etter loven rett til å overta følgende av arvelaterens eiendeler uskiftet:
+
+1. felles bolig og innbo
+2. bil og fritidsbolig med innbo som tjente til felles bruk for samboerne.
+
+Samboeren kan på samme måte overta også andre eiendeler uskiftet hvis det er fastsatt i testament eller arvingene samtykker. [§ 14](lov/2019-06-14-21/§14) annet og tredje ledd gjelder tilsvarende.
 
 Samboeren har rett til uskifte med arvelaterens særskilte livsarving bare hvis denne arvingen samtykker. [§ 15](lov/2019-06-14-21/§15) gjelder tilsvarende.
 
@@ -348,7 +353,12 @@ Testamentsvitnene bør i påtegning på testamentet opplyse om reglene i [§ 42]
 
 ### § 44. Ugyldighet ved testasjon til fordel for testamentsvitne mv.
 
-En disposisjon i testamentet til fordel for et av testamentsvitnene er ugyldig. Det samme gjelder en disposisjon til fordel for følgende personer som står vitnet nær:ektefellen eller samboerenektefellens eller samboerens barnslektning i rett opp- eller nedstigende linje eller søskenektefellen eller samboeren til slektning i rett opp- eller nedstigende linje.
+En disposisjon i testamentet til fordel for et av testamentsvitnene er ugyldig. Det samme gjelder en disposisjon til fordel for følgende personer som står vitnet nær:
+
+1. ektefellen eller samboeren
+2. ektefellens eller samboerens barn
+3. slektning i rett opp- eller nedstigende linje eller søsken
+4. ektefellen eller samboeren til slektning i rett opp- eller nedstigende linje.
 
 En disposisjon i testamentet til fordel for noen som vitnet er ansatt hos på testasjonstiden, er ugyldig. Som ansettelse regnes også funksjon som styremedlem og liknende i selskap, forening, stiftelse eller offentlig institusjon. Disposisjonen er likevel gyldig når tilknytningen trolig ikke har hatt betydning for innholdet i testamentet.
 
@@ -450,7 +460,13 @@ Har testamentet på grunn av feilskrift eller annen feil fått et annet innhold 
 
 ### § 58. Supplerende tolkningsregler
 
-Når det ikke er grunn til å tro at testator mente noe annet, skal disse reglene gjelde:Strekker ikke arven til, skal den som etter testamentet skal arve en bestemt ting, gå foran den som skal arve en pengesum.Om en testamentsarving dør før testator eller av andre grunner ikke kan ta imot arven, trer testamentsarvingens livsarvinger i testamentsarvingens sted.Har noen innsatt sin ektefelle eller samboer som testamentsarving, og samlivet tok slutt før testator døde, faller testasjonen bort.Den som etter testamentet skal arve en bestemt ting, kan ikke kreve vederlag for heftelser som hviler på tingen. Arvingen kan heller ikke kreve penger hvis tingen ikke finnes i boet.Er det mer enn ett testament etter testator, gjelder alle, hvis ikke et yngre testament tilbakekaller eller står i strid med noe som er bestemt før. Hvis boet ikke strekker til, skal nyere disposisjoner gå foran eldre.
+Når det ikke er grunn til å tro at testator mente noe annet, skal disse reglene gjelde:
+
+1. Strekker ikke arven til, skal den som etter testamentet skal arve en bestemt ting, gå foran den som skal arve en pengesum.
+2. Om en testamentsarving dør før testator eller av andre grunner ikke kan ta imot arven, trer testamentsarvingens livsarvinger i testamentsarvingens sted.
+3. Har noen innsatt sin ektefelle eller samboer som testamentsarving, og samlivet tok slutt før testator døde, faller testasjonen bort.
+4. Den som etter testamentet skal arve en bestemt ting, kan ikke kreve vederlag for heftelser som hviler på tingen. Arvingen kan heller ikke kreve penger hvis tingen ikke finnes i boet.
+5. Er det mer enn ett testament etter testator, gjelder alle, hvis ikke et yngre testament tilbakekaller eller står i strid med noe som er bestemt før. Hvis boet ikke strekker til, skal nyere disposisjoner gå foran eldre.
 
 ### § 59. Forutsetningssvikt
 
@@ -466,11 +482,18 @@ Bestemmelsene i [§§ 61](lov/2019-06-14-21/§61) og [62](lov/2019-06-14-21/§62
 
 Et tilbakekall eller en endring av et felles testament eller gjensidig testament er gyldig bare hvis den andre testatoren har fått kunnskap om tilbakekallet eller endringen før arvelaterens død. Tilbakekallet eller endringen er likevel gyldig hvis det var umulig eller urimelig vanskelig å varsle den andre testatoren, eller hvis denne som følge av tilbakekallet eller endringen får minst like god rett til arv som det som fulgte av testamentet.
 
-Hvis et felles testament eller gjensidig testament sier noe om fordelingen av arven når begge testatorene er døde, gjelder følgende regler for den lengstlevendes adgang til å endre testamentet når han eller hun har overtatt arven etter testamentet:Den lengstlevende testatoren kan endre bare det som er bestemt om arv til den lengstlevendes egne arvinger etter loven eller til noen som er, eller må antas å være, innsatt som arving etter særskilt ønske fra den lengstlevende. Første punktum gjelder ikke hvis det er grunn til å tro at testatorene har ment å gi den lengstlevende en snevrere eller videre adgang til å endre testamentet.Hvis den lengstlevende uten testamentet ville ha arvet alt etter den førstavdøde etter reglene i [§ 9](lov/2019-06-14-21/§9) annet ledd, kan den lengstlevende endre testamentet hvis ikke noe annet klart fremgår av testamentet.
+Hvis et felles testament eller gjensidig testament sier noe om fordelingen av arven når begge testatorene er døde, gjelder følgende regler for den lengstlevendes adgang til å endre testamentet når han eller hun har overtatt arven etter testamentet:
+
+1. Den lengstlevende testatoren kan endre bare det som er bestemt om arv til den lengstlevendes egne arvinger etter loven eller til noen som er, eller må antas å være, innsatt som arving etter særskilt ønske fra den lengstlevende. Første punktum gjelder ikke hvis det er grunn til å tro at testatorene har ment å gi den lengstlevende en snevrere eller videre adgang til å endre testamentet.
+2. Hvis den lengstlevende uten testamentet ville ha arvet alt etter den førstavdøde etter reglene i [§ 9](lov/2019-06-14-21/§9) annet ledd, kan den lengstlevende endre testamentet hvis ikke noe annet klart fremgår av testamentet.
 
 ### § 62. Supplerende tolkningsregler for felles testament og gjensidig testament
 
-Har den lengstlevende testatoren overtatt arven etter et felles testament eller gjensidig testament, gjelder følgende regler hvis testatorene ikke etterlater seg livsarvinger, og det ikke er grunn til å tro at testatorene mente noe annet da testamentet ble opprettet:Den lengstlevende testatoren rår i levende live som en eier over hele formuen selv om testamentet gir den førstavdødes arvinger arverett. Den lengstlevende kan når som helst gi én eller flere av arvingene fullt eller delvis arveoppgjør.Hvis testamentet bestemmer noe om arverett for den førstavdødes arvinger, men ikke om den nærmere fordelingen mellom den førstavdødes arvinger og den lengstlevendes arvinger, skal på skiftet etter at den lengstlevende er død, den ene halvparten av den samlede formuen gå til den førstavdødes arvinger og den andre halvparten gå til den lengstlevendes arvinger.Hvis testamentet ikke bestemmer noe om arvefordelingen etter den lengstlevendes død, rår han eller hun som en eier over hele formuen også ved testament. Har den lengstlevende ikke bestemt annet ved testament, går halvparten av den samlede formuen til den førstavdødes arvinger etter [§§ 5](lov/2019-06-14-21/§5) og 6, med mindre den lengstlevende på dødsfallstidspunktet er gift på nytt eller har samboer med arverett etter loven.
+Har den lengstlevende testatoren overtatt arven etter et felles testament eller gjensidig testament, gjelder følgende regler hvis testatorene ikke etterlater seg livsarvinger, og det ikke er grunn til å tro at testatorene mente noe annet da testamentet ble opprettet:
+
+1. Den lengstlevende testatoren rår i levende live som en eier over hele formuen selv om testamentet gir den førstavdødes arvinger arverett. Den lengstlevende kan når som helst gi én eller flere av arvingene fullt eller delvis arveoppgjør.
+2. Hvis testamentet bestemmer noe om arverett for den førstavdødes arvinger, men ikke om den nærmere fordelingen mellom den førstavdødes arvinger og den lengstlevendes arvinger, skal på skiftet etter at den lengstlevende er død, den ene halvparten av den samlede formuen gå til den førstavdødes arvinger og den andre halvparten gå til den lengstlevendes arvinger.
+3. Hvis testamentet ikke bestemmer noe om arvefordelingen etter den lengstlevendes død, rår han eller hun som en eier over hele formuen også ved testament. Har den lengstlevende ikke bestemt annet ved testament, går halvparten av den samlede formuen til den førstavdødes arvinger etter [§§ 5](lov/2019-06-14-21/§5) og 6, med mindre den lengstlevende på dødsfallstidspunktet er gift på nytt eller har samboer med arverett etter loven.
 
 ### VI. Oppbevaring og fremleggelse av testament mv.
 
@@ -482,7 +505,10 @@ Retten skal ikke gi opplysninger til andre enn testator om at den har et testame
 
 Oppbevaring og registrering som nevnt i første ledd har ikke betydning for testamentets gyldighet. Hvis testator tilbakekaller eller endrer et testament som er innlevert til oppbevaring, bør tingretten få melding om dette.
 
-Retten skal sørge for at et testament som er levert til oppbevaring, legges frem når testator er død. Hvis noen uten egen skyld lider tap fordi et testament som er levert til oppbevaring, ikke blir fremlagt, kan vedkommende kreve erstatning fra staten. Erstatning kan bare gis:hvis det er gjort feil i registreringen, slik at testamentet ikke blir funnet, ellerhvis retten unnlater å legge frem et testament enda den vet eller burde vite at testator er død, og at testamentet er innlevert for oppbevaring.
+Retten skal sørge for at et testament som er levert til oppbevaring, legges frem når testator er død. Hvis noen uten egen skyld lider tap fordi et testament som er levert til oppbevaring, ikke blir fremlagt, kan vedkommende kreve erstatning fra staten. Erstatning kan bare gis:
+
+1. hvis det er gjort feil i registreringen, slik at testamentet ikke blir funnet, eller
+2. hvis retten unnlater å legge frem et testament enda den vet eller burde vite at testator er død, og at testamentet er innlevert for oppbevaring.
 
 Departementet kan i forskrift gi nærmere regler om innlevering, registrering, oppbevaring, utlevering og fremleggelse av testamenter og kan i forskriften gjøre unntak fra reglene i denne paragrafen.
 
@@ -576,7 +602,12 @@ Avkall på arv etter den førstavdøde ektefellen eller samboeren kan gis overfo
 
 Har en livsarving mottatt en ytelse av økonomisk verdi fra arvelateren, skal ytelsen avkortes i livsarvingens arv hvis dette var satt som en betingelse for ytelsen. En betingelse om avkorting bør være skriftlig og gjort kjent for de andre livsarvingene.
 
-Hvis ikke noe annet er satt som betingelse for ytelsen, skal følgende gjelde for avkortingen:Avkortingsbeløpet settes til verdien av ytelsen da den ble mottatt.Hvis avkortingsbeløpet er større enn livsarvingens rett til arv, plikter ikke arvingen å tilbakeføre noe til dødsboet.Hvis livsarvingen som har mottatt ytelsen, dør før arvelateren, skal avkortingen gjøres i arven til livsarvingens livsarvinger.Avkortingsbeløpet får betydning bare for fordelingen mellom livsarvingene og deres linjer og ikke for beregningen av ektefellens andel av felleseiet eller ektefellens eller samboerens arv, eller for hva arvelateren kan rå over ved testament.
+Hvis ikke noe annet er satt som betingelse for ytelsen, skal følgende gjelde for avkortingen:
+
+1. Avkortingsbeløpet settes til verdien av ytelsen da den ble mottatt.
+2. Hvis avkortingsbeløpet er større enn livsarvingens rett til arv, plikter ikke arvingen å tilbakeføre noe til dødsboet.
+3. Hvis livsarvingen som har mottatt ytelsen, dør før arvelateren, skal avkortingen gjøres i arven til livsarvingens livsarvinger.
+4. Avkortingsbeløpet får betydning bare for fordelingen mellom livsarvingene og deres linjer og ikke for beregningen av ektefellens andel av felleseiet eller ektefellens eller samboerens arv, eller for hva arvelateren kan rå over ved testament.
 
 ### Kapittel 10. Fordeling av formuen når den avdøde ikke har arvinger
 
@@ -610,7 +641,12 @@ Tredje ledd gjelder tilsvarende for lovvalg etter konvensjon 19. november 1934 m
 
 ### § 80. Formkrav for testamenter
 
-Selv om et testament ikke oppfyller formkravene i [kapittel 7](lov/2019-06-14-21/kap7), er det likevel formgyldig hvis det oppfyller formkravenepå det stedet der testamentet ble oppretteti en stat der testatoren var statsborger enten ved dødsfallet eller da testamentet ble opprettetpå det stedet der testatoren hadde domisil eller sitt vanlige bosted enten ved dødsfallet eller da testamentet ble opprettet, ellerpå det stedet der en fast eiendom ligger, så langt testamentet gjelder denne eiendommen.
+Selv om et testament ikke oppfyller formkravene i [kapittel 7](lov/2019-06-14-21/kap7), er det likevel formgyldig hvis det oppfyller formkravene
+
+1. på det stedet der testamentet ble opprettet
+2. i en stat der testatoren var statsborger enten ved dødsfallet eller da testamentet ble opprettet
+3. på det stedet der testatoren hadde domisil eller sitt vanlige bosted enten ved dødsfallet eller da testamentet ble opprettet, eller
+4. på det stedet der en fast eiendom ligger, så langt testamentet gjelder denne eiendommen.
 
 Reglene i første ledd gjelder tilsvarende for tilbakekall eller endring av et testament. Formkravene til tilbakekall er oppfylt også når tilbakekallet oppfyller formkravene i den staten der testamentet var gyldig etter første ledd.
 
@@ -662,7 +698,12 @@ Overtas boet til privat skifte, overlates testamentet til arvingene, men retten 
 
 ### § 88. Oppgaver etter loven som kan delegeres til saksbehandlere
 
-Hvis arbeidsforholdene gjør det hensiktsmessig, kan domstollederen delegere følgende oppgaver etter denne loven til en saksbehandler ved domstolen:å utstede formuesfullmakter og bankboksfullmakter, jf. [§ 92](lov/2019-06-14-21/§92)å utstede skifteattester og uskifteattester, jf. [§§ 118](lov/2019-06-14-21/§118) og 97å fastsette sikkerheten for skifteomkostningene, jf. [§ 132](lov/2019-06-14-21/§132)å oppnevne bostyrer, jf. [§ 134](lov/2019-06-14-21/§134) annet ledd.
+Hvis arbeidsforholdene gjør det hensiktsmessig, kan domstollederen delegere følgende oppgaver etter denne loven til en saksbehandler ved domstolen:
+
+1. å utstede formuesfullmakter og bankboksfullmakter, jf. [§ 92](lov/2019-06-14-21/§92)
+2. å utstede skifteattester og uskifteattester, jf. [§§ 118](lov/2019-06-14-21/§118) og 97
+3. å fastsette sikkerheten for skifteomkostningene, jf. [§ 132](lov/2019-06-14-21/§132)
+4. å oppnevne bostyrer, jf. [§ 134](lov/2019-06-14-21/§134) annet ledd.
 
 Finner domstollederen det ubetenkelig, og arbeidsforholdene gjør det hensiktsmessig, kan domstollederen også delegere til en saksbehandler å styre skiftesamlinger og å avgjøre andre administrative spørsmål.
 
@@ -818,7 +859,12 @@ Samtidig med kunngjøringen av proklamaet skal det gis særlig melding om dødsf
 
 ### § 101. Proklamaets innhold. Kunngjøring
 
-Proklamaet skal inneholde:arvelaterens navn, fødselsnummer og bopelen oppfordring til kreditorene om å melde sine krav og med opplysning om at kravene ellers vil gå tapt, jf. [§ 102](lov/2019-06-14-21/§102) første ledd annet punktumfristen for å melde krav, jf. [§ 102](lov/2019-06-14-21/§102) første ledd første punktumopplysninger om hvem krav skal meldes til.
+Proklamaet skal inneholde:
+
+1. arvelaterens navn, fødselsnummer og bopel
+2. en oppfordring til kreditorene om å melde sine krav og med opplysning om at kravene ellers vil gå tapt, jf. [§ 102](lov/2019-06-14-21/§102) første ledd annet punktum
+3. fristen for å melde krav, jf. [§ 102](lov/2019-06-14-21/§102) første ledd første punktum
+4. opplysninger om hvem krav skal meldes til.
 
 Krav skal meldes til den retten som behandler boet, eller til den som er oppnevnt som bostyrer. Ved privat skifte skal krav meldes til en person med bopel i Norge.
 
@@ -834,7 +880,11 @@ Proklamaet har ikke betydning for krav som bygger på eiendomsrett. Proklamaet h
 
 ### § 103. Forhold som har samme virkning som å melde krav
 
-Samme virkning som å melde krav har det:at arvingene erkjenner kravets riktighet overfor kreditor, bostyreren eller tingrettenat kravet er blitt meldt under gjeldsforhandling eller konkurs i skyldnerens bo hvis dødsfallet fant sted før gjeldsforhandlingen eller konkursen ble avsluttetat sak er anlagt mot arvingene.
+Samme virkning som å melde krav har det:
+
+1. at arvingene erkjenner kravets riktighet overfor kreditor, bostyreren eller tingretten
+2. at kravet er blitt meldt under gjeldsforhandling eller konkurs i skyldnerens bo hvis dødsfallet fant sted før gjeldsforhandlingen eller konkursen ble avsluttet
+3. at sak er anlagt mot arvingene.
 
 I tilfelle som nevnt i første ledd bokstav c gjelder [foreldelsesloven § 15](lov/1979-05-18-18/§15) nr. 2 og [§ 22](lov/1979-05-18-18/§22) nr. 1 tilsvarende.
 
@@ -920,7 +970,14 @@ Ektefellens kreditorer kan frem til skiftet er avsluttet kreve dekning i hans el
 
 Hvis det ikke vil være åpenbart urimelig, har ektefellen rett til å overta bestemte eiendeler som han eller hun fullt ut eller for det vesentlige har brakt inn i felleseiet.
 
-Hvis det ikke vil være åpenbart urimelig, har ektefellen rett til å overta følgende eiendeler uten hensyn til hvem av ektefellene som har brakt eiendelen inn i felleseiet:boligeiendom som har vært brukt som felles boligandel eller aksje i boligselskap eller obligasjon som ektefellenes rett til leie av felles bolig har vært knyttet tilløsøre som har hørt til innboet i ektefellenes felles boligløsøre som ektefellen trenger til å fortsette sin næring.Har boligen vært brukt også til ervervsvirksomhet eller andre formål, gjelder første punktum bare hvis det hovedsakelige formålet har vært å tjene som felles bolig, og de øvrige arvingene ikke har rimelig grunn til å motsette seg at eiendelen blir overtatt av ektefellen.
+Hvis det ikke vil være åpenbart urimelig, har ektefellen rett til å overta følgende eiendeler uten hensyn til hvem av ektefellene som har brakt eiendelen inn i felleseiet:
+
+1. boligeiendom som har vært brukt som felles bolig
+2. andel eller aksje i boligselskap eller obligasjon som ektefellenes rett til leie av felles bolig har vært knyttet til
+3. løsøre som har hørt til innboet i ektefellenes felles bolig
+4. løsøre som ektefellen trenger til å fortsette sin næring.
+
+Har boligen vært brukt også til ervervsvirksomhet eller andre formål, gjelder første punktum bare hvis det hovedsakelige formålet har vært å tjene som felles bolig, og de øvrige arvingene ikke har rimelig grunn til å motsette seg at eiendelen blir overtatt av ektefellen.
 
 Ektefellens rett etter denne paragrafen til å overta eiendom gjelder også eiendom som noen annen har odels- eller åsetesrett til.
 
@@ -982,7 +1039,20 @@ Departementet kan i forskrift gi nærmere regler om skifteattester, herunder om 
 
 ### § 119. Oppgaver ved gjennomføringen av et privat skifte
 
-Den eller de av arvingene som skifteattesten er utstedt til, gjennomfører det private skiftet. Oppgavene kan likevel fordeles til andre. Boet skal skiftes innen rimelig tid og på en måte som ivaretar arvingenes og øvrige rettighetshaveres interesser. Følgende oppgaver skal eller bør normalt utføres:Det skal skaffes oversikt over arvingene i boet og omfanget av den enkeltes arverett.Det skal skaffes oversikt over arvelaterens eiendeler og forpliktelser.Det skal sørges for at krav som eventuelt følger av arvelaterens gyldige testament, blir oppfylt, jf. [§ 124](lov/2019-06-14-21/§124). Personer som ikke deltar i skiftebehandlingen, skal varsles om sine rettigheter i boet.Boets eiendeler skal tas vare på. Eiendelene skal sikres, holdes i stand og eventuelt forsikres på en betryggende og sedvanemessig måte.Det bør vurderes om det skal utstedes proklama hvis dette ikke allerede er gjort. Det skal utstedes proklama hvis en arving krever det etter [§ 121](lov/2019-06-14-21/§121).Arvelaterens løpende forpliktelser (for eksempel som følge av abonnementer, medlemskap eller avtaler om varer eller tjenester) bør avsluttes.Det skal leveres skattemelding for inneværende år og for foregående år dersom denne ikke allerede er levert, slik at rett fastsetting av skatt kan legges til grunn for booppgjøret.Boets og arvelaterens forpliktelser skal dekkes, eller det skal settes av midler til dette, jf. [§§ 122](lov/2019-06-14-21/§122) og [123](lov/2019-06-14-21/§123). Boets utestående krav skal inndrives.Det skal avklares om arvinger ønsker å overta eiendeler på skiftet eller om eiendelene skal selges, jf. [§§ 104](lov/2019-06-14-21/§104) til [115](lov/2019-06-14-21/§115). Det skal gjennomføres salg av de eiendelene som skal selges.Det bør settes opp et forslag til fordelingen av eiendelene i boet. Når arvingene har blitt enige om fordelingen, bør det settes opp et dokument som viser hvordan boet er fordelt, og som undertegnes av arvingene.Eiendeler skal overføres til arvingene etter den fordelingen det er enighet om. Det bør sørges for omregistrering i offentlige registre. Ved overføring av fast eiendom bør det sørges for tinglysing.Dokumentasjon som viser at kreditorene har fått dekning, bør oppbevares på en betryggende måte. Det bør føres en oversikt over de ut- og innbetalingene som er foretatt under skiftet.
+Den eller de av arvingene som skifteattesten er utstedt til, gjennomfører det private skiftet. Oppgavene kan likevel fordeles til andre. Boet skal skiftes innen rimelig tid og på en måte som ivaretar arvingenes og øvrige rettighetshaveres interesser. Følgende oppgaver skal eller bør normalt utføres:
+
+1. Det skal skaffes oversikt over arvingene i boet og omfanget av den enkeltes arverett.
+2. Det skal skaffes oversikt over arvelaterens eiendeler og forpliktelser.
+3. Det skal sørges for at krav som eventuelt følger av arvelaterens gyldige testament, blir oppfylt, jf. [§ 124](lov/2019-06-14-21/§124). Personer som ikke deltar i skiftebehandlingen, skal varsles om sine rettigheter i boet.
+4. Boets eiendeler skal tas vare på. Eiendelene skal sikres, holdes i stand og eventuelt forsikres på en betryggende og sedvanemessig måte.
+5. Det bør vurderes om det skal utstedes proklama hvis dette ikke allerede er gjort. Det skal utstedes proklama hvis en arving krever det etter [§ 121](lov/2019-06-14-21/§121).
+6. Arvelaterens løpende forpliktelser (for eksempel som følge av abonnementer, medlemskap eller avtaler om varer eller tjenester) bør avsluttes.
+7. Det skal leveres skattemelding for inneværende år og for foregående år dersom denne ikke allerede er levert, slik at rett fastsetting av skatt kan legges til grunn for booppgjøret.
+8. Boets og arvelaterens forpliktelser skal dekkes, eller det skal settes av midler til dette, jf. [§§ 122](lov/2019-06-14-21/§122) og [123](lov/2019-06-14-21/§123). Boets utestående krav skal inndrives.
+9. Det skal avklares om arvinger ønsker å overta eiendeler på skiftet eller om eiendelene skal selges, jf. [§§ 104](lov/2019-06-14-21/§104) til [115](lov/2019-06-14-21/§115). Det skal gjennomføres salg av de eiendelene som skal selges.
+10. Det bør settes opp et forslag til fordelingen av eiendelene i boet. Når arvingene har blitt enige om fordelingen, bør det settes opp et dokument som viser hvordan boet er fordelt, og som undertegnes av arvingene.
+11. Eiendeler skal overføres til arvingene etter den fordelingen det er enighet om. Det bør sørges for omregistrering i offentlige registre. Ved overføring av fast eiendom bør det sørges for tinglysing.
+12. Dokumentasjon som viser at kreditorene har fått dekning, bør oppbevares på en betryggende måte. Det bør føres en oversikt over de ut- og innbetalingene som er foretatt under skiftet.
 
 ### § 120. Krav om enighet for beslutninger under skiftet
 
@@ -1000,7 +1070,12 @@ En arving kan kreve at det kunngjøres en frist for kreditorene til å melde sin
 
 Arvingene skal sørge for at boets og arvelaterens forpliktelser dekkes under skiftet, med mindre forpliktelsen er bortfalt ved dødsfallet eller ved proklama.
 
-Forpliktelsene bør dekkes i denne rekkefølgen:begravelsesomkostningeneskifteomkostningene og andre massekravfortrinnsberettigede krav etter [dekningsloven §§ 9-3](lov/1984-06-08-59/§9-3) og [9-4](lov/1984-06-08-59/§9-4)andre krav.
+Forpliktelsene bør dekkes i denne rekkefølgen:
+
+1. begravelsesomkostningene
+2. skifteomkostningene og andre massekrav
+3. fortrinnsberettigede krav etter [dekningsloven §§ 9-3](lov/1984-06-08-59/§9-3) og [9-4](lov/1984-06-08-59/§9-4)
+4. andre krav.
 
 Er eiendelene i boet ikke tilstrekkelige til å dekke alle forpliktelsene i boet, eller er dette uklart, skal forpliktelsene dekkes i rekkefølgen som følger av annet ledd.
 
@@ -1036,7 +1111,14 @@ En rettskraftig avgjørelse gjelder for og mot alle som har interesser i boet. A
 
 ### § 127. Hvem som kan kreve offentlig skifte
 
-Tingretten åpner offentlig skifte i boet når det kreves av:en arvingen kreditor som har tatt utlegg i en arvings krav på arven arvings konkursbostatsforvalteren på vegne av en arving som er under vergemål, eller arvingens verge hvis dette omfattes av vergens mandatden som har et krav mot arvelateren, hvis det ikke er krevd privat skifte innen fristen etter [§ 117](lov/2019-06-14-21/§117) første leddden som har et krav mot arvelateren, hvis sannsynligheten for å få dekning vesentlig forringes som følge av arvingenes forhold.
+Tingretten åpner offentlig skifte i boet når det kreves av:
+
+1. en arving
+2. en kreditor som har tatt utlegg i en arvings krav på arv
+3. en arvings konkursbo
+4. statsforvalteren på vegne av en arving som er under vergemål, eller arvingens verge hvis dette omfattes av vergens mandat
+5. den som har et krav mot arvelateren, hvis det ikke er krevd privat skifte innen fristen etter [§ 117](lov/2019-06-14-21/§117) første ledd
+6. den som har et krav mot arvelateren, hvis sannsynligheten for å få dekning vesentlig forringes som følge av arvingenes forhold.
 
 Som arving etter første ledd bokstav a til d regnes ikke arving som etter testament bare skal motta et bestemt, avgrenset gode av liten verdi. En slik arving kan likevel kreve offentlig skifte hvis vedkommende, når det har gått ett år etter dødsfallet, ennå ikke har mottatt det han eller hun har krav på, og de øvrige arvingene kan bebreides for dette.
 
@@ -1326,7 +1408,14 @@ For arving som er forbigått ved booppgjøret, gjelder [§ 69](lov/2019-06-14-21
 
 ### § 168. Hva som behandles som skiftetvist
 
-Som skiftetvist behandles:tvist om det skal åpnes offentlig skiftetvist om rett til arv og omfanget av arvekravtvist om krav meldt mot arvelateren og tvist om boets motkrav så langt de kan bringes til motregning. Er ansvaret for arvelaterens forpliktelser overtatt etter [§§ 20](lov/2019-06-14-21/§20), [35](lov/2019-06-14-21/§35) eller [116](lov/2019-06-14-21/§116), må skiftetvisten reises av en som har overtatt ansvaret for forpliktelsenetvist om krav på bestemte ting som er i boets eller ektefellens besittelsetvist om krav mot boettvist om boets krav mot en tredjeperson, herunder krav mot en arving når kravet ikke er knyttet til stillingen som arving.
+Som skiftetvist behandles:
+
+1. tvist om det skal åpnes offentlig skifte
+2. tvist om rett til arv og omfanget av arvekrav
+3. tvist om krav meldt mot arvelateren og tvist om boets motkrav så langt de kan bringes til motregning. Er ansvaret for arvelaterens forpliktelser overtatt etter [§§ 20](lov/2019-06-14-21/§20), [35](lov/2019-06-14-21/§35) eller [116](lov/2019-06-14-21/§116), må skiftetvisten reises av en som har overtatt ansvaret for forpliktelsene
+4. tvist om krav på bestemte ting som er i boets eller ektefellens besittelse
+5. tvist om krav mot boet
+6. tvist om boets krav mot en tredjeperson, herunder krav mot en arving når kravet ikke er knyttet til stillingen som arving.
 
 En tvist behandles likevel ikke som skiftetvist hvis den overføres til allmennprosess etter [§ 173](lov/2019-06-14-21/§173), hvis den etter ufravikelige vernetingsregler hører under en annen domstol, eller hvis den skal behandles etter andre prosessregler.
 

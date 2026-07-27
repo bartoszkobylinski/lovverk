@@ -40,7 +40,13 @@ Det kan også gis tilskudd til enkeltpersoner for tiltak som har til hensikt å 
 
 ## § 4. Hva kan det tildeles tilskudd til
 
-Tilskuddsordningen gir støtte til følgende tiltak:tiltak med direkte tapsreduserende effekt bufe [(§ 5)](forskrift/2024-12-12-3074/§5)tiltak med direkte tapsreduserende effekt tamrein [(§ 6)](forskrift/2024-12-12-3074/§6)andre tiltak som er direkte tapsreduserende [(§ 7)](forskrift/2024-12-12-3074/§7)tiltak for å øke kunnskapsgrunnlag [(§ 8)](forskrift/2024-12-12-3074/§8)konfliktdempende tiltak [(§ 9)](forskrift/2024-12-12-3074/§9).
+Tilskuddsordningen gir støtte til følgende tiltak:
+
+- tiltak med direkte tapsreduserende effekt bufe [(§ 5)](forskrift/2024-12-12-3074/§5)
+- tiltak med direkte tapsreduserende effekt tamrein [(§ 6)](forskrift/2024-12-12-3074/§6)
+- andre tiltak som er direkte tapsreduserende [(§ 7)](forskrift/2024-12-12-3074/§7)
+- tiltak for å øke kunnskapsgrunnlag [(§ 8)](forskrift/2024-12-12-3074/§8)
+- konfliktdempende tiltak [(§ 9)](forskrift/2024-12-12-3074/§9).
 
 I konkrete skadesituasjoner kan det være behov for midler til akutte tapsreduserende tiltak, se [§§ 5](forskrift/2024-12-12-3074/§5), [6](forskrift/2024-12-12-3074/§6) og [7](forskrift/2024-12-12-3074/§7). Slike tiltak skal på forhånd avklares med statsforvalteren.
 
@@ -48,21 +54,57 @@ I konkrete skadesituasjoner kan det være behov for midler til akutte tapsreduse
 
 Foretak med bufe kan søke om midler til tiltak som har en direkte tapsreduserende effekt, eller der slik effekt kan oppnås ved kombinasjon av tiltak. For tiltak hvor nasjonale standarder er utarbeidet, skal standarden følges om ikke annet er bestemt i vedtak om tilskudd.
 
-Som tapsreduserende tiltak regnes:tiltak som fysisk skiller rovdyr og bufetidlig nedsanking av bufeforsinket slipp på utmarksbeiteflytting av bufe til mindre rovviltutsatte beiteområderhjemmebeiteberedskapsarealrovdyravvisende gjerderbruk av vokterhund på inngjerdet beite.utvidet tilsynsaktivitet i kombinasjon med følgende tiltak rettet mot produksjon av bufebruk av vokterhundplanlagt utvidet tilsyn som en nødvendig del av tiltak nevnt i [§ 5 nr. 1](forskrift/2024-12-12-3074/§5/nummer/1).Kortvarig ekstraordinært tilsyn ved akutte rovdyrskader som utføres kveld, natt og morgen og i kombinasjon med bruk av andre tiltak.
+Som tapsreduserende tiltak regnes:
+
+1. tiltak som fysisk skiller rovdyr og bufe
+
+   1. tidlig nedsanking av bufe
+   2. forsinket slipp på utmarksbeite
+   3. flytting av bufe til mindre rovviltutsatte beiteområder
+   4. hjemmebeite
+   5. beredskapsareal
+   6. rovdyravvisende gjerder
+   7. bruk av vokterhund på inngjerdet beite.
+2. utvidet tilsynsaktivitet i kombinasjon med følgende tiltak rettet mot produksjon av bufe
+
+   1. bruk av vokterhund
+   2. planlagt utvidet tilsyn som en nødvendig del av tiltak nevnt i [§ 5 nr. 1](forskrift/2024-12-12-3074/§5/nummer/1).
+3. Kortvarig ekstraordinært tilsyn ved akutte rovdyrskader som utføres kveld, natt og morgen og i kombinasjon med bruk av andre tiltak.
 
 ## § 6. Tiltak med direkte tapsreduserende effekt tamrein
 
 Foretak med tamrein kan søke om midler til tiltak som har en direkte tapsreduserende effekt, eller der slik effekt kan oppnås ved kombinasjon av tiltak. For tiltak hvor nasjonale standarder er utarbeidet, skal standarden følges om ikke annet er bestemt i vedtak om tilskudd.
 
-Som tapsreduserende tiltak regnes:tiltak som fysisk skiller rovdyr og tamreinflytting av tamrein til mindre rovviltutsatte beiteområderkalving i gjerdetidlig slakting av kalv for å unngå tap til rovvilt og tidlig samling som gjennomføres i forbindelse med slik slakting.utvidet tilsynsaktivitet i kombinasjon med følgende tiltak rettet mot produksjon av tamreinfôring av tamrein i korte perioder av året for å samle flokken med formål å unngå rovvilttapplanlagt utvidet tilsyn som en nødvendig del av tiltak nevnt i [§ 6 nr. 1](forskrift/2024-12-12-3074/§6/nummer/1).Kortvarig ekstraordinært tilsyn ved akutte rovdyrskader og i kombinasjon med bruk av andre tiltak.
+Som tapsreduserende tiltak regnes:
+
+1. tiltak som fysisk skiller rovdyr og tamrein
+
+   1. flytting av tamrein til mindre rovviltutsatte beiteområder
+   2. kalving i gjerde
+   3. tidlig slakting av kalv for å unngå tap til rovvilt og tidlig samling som gjennomføres i forbindelse med slik slakting.
+2. utvidet tilsynsaktivitet i kombinasjon med følgende tiltak rettet mot produksjon av tamrein
+
+   1. fôring av tamrein i korte perioder av året for å samle flokken med formål å unngå rovvilttap
+   2. planlagt utvidet tilsyn som en nødvendig del av tiltak nevnt i [§ 6 nr. 1](forskrift/2024-12-12-3074/§6/nummer/1).
+3. Kortvarig ekstraordinært tilsyn ved akutte rovdyrskader og i kombinasjon med bruk av andre tiltak.
 
 ## § 7. Andre tiltak som er direkte tapsreduserende
 
-Som slike tiltak regnes:tilskudd som bidrar til mer effektiv jakt, felling og fangsttilskudd til skadefellingslag ved vedtak om skadefelling, jf. [rovviltforskriften §§ 9](forskrift/2005-03-18-242/§9) og [9a](forskrift/2005-03-18-242/§9a)tilskudd til kommuner for tilrettelegging, organisering og forberedelser for fremtidige skadefellingsoppdrag i regi av kommunale/interkommunale fellingslagandre direkte tapsreduserende tiltak som ikke dekkes av [§§ 5](forskrift/2024-12-12-3074/§5) og [6](forskrift/2024-12-12-3074/§6).
+Som slike tiltak regnes:
+
+1. tilskudd som bidrar til mer effektiv jakt, felling og fangst
+2. tilskudd til skadefellingslag ved vedtak om skadefelling, jf. [rovviltforskriften §§ 9](forskrift/2005-03-18-242/§9) og [9a](forskrift/2005-03-18-242/§9a)
+3. tilskudd til kommuner for tilrettelegging, organisering og forberedelser for fremtidige skadefellingsoppdrag i regi av kommunale/interkommunale fellingslag
+4. andre direkte tapsreduserende tiltak som ikke dekkes av [§§ 5](forskrift/2024-12-12-3074/§5) og [6](forskrift/2024-12-12-3074/§6).
 
 ## § 8. Tiltak for å øke kunnskapsgrunnlaget
 
-Utvikling av praksis og erfaring som senere kan danne grunnlag for iverksettelse av nye tiltak kan prioriteres innenfor ordningen. Som slike tiltak regnes:utprøving av nye forebyggende tiltak mot rovviltskader, samt evaluering av effekter av igangsatte tiltaktiltak som avklarer tapsforhold, herunder elektronisk overvåkingforsknings- og utredningsoppgaver som bidrar til utvikling og iverksettelse av effektive forebyggende tiltaknasjonale tiltak som øker kunnskapsgrunnlaget som kommer den todelte målsettingen til gode.
+Utvikling av praksis og erfaring som senere kan danne grunnlag for iverksettelse av nye tiltak kan prioriteres innenfor ordningen. Som slike tiltak regnes:
+
+1. utprøving av nye forebyggende tiltak mot rovviltskader, samt evaluering av effekter av igangsatte tiltak
+2. tiltak som avklarer tapsforhold, herunder elektronisk overvåking
+3. forsknings- og utredningsoppgaver som bidrar til utvikling og iverksettelse av effektive forebyggende tiltak
+4. nasjonale tiltak som øker kunnskapsgrunnlaget som kommer den todelte målsettingen til gode.
 
 ## § 9. Konfliktdempende tiltak
 
@@ -74,7 +116,17 @@ Søknad om tilskudd skal leveres i Miljødirektoratets elektroniske søknadssent
 
 Søknader om tiltak etter [§§ 5](forskrift/2024-12-12-3074/§5), [6](forskrift/2024-12-12-3074/§6) og [7](forskrift/2024-12-12-3074/§7) behandles av statsforvalteren i søkerens bostedsfylke/reinbeiteområde. Søknader av nasjonal karakter i [§§ 8](forskrift/2024-12-12-3074/§8) og [9](forskrift/2024-12-12-3074/§9) behandles av Miljødirektoratet.
 
-Søknaden skal inneholde informasjon om:søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktpersoneventuelle opplysninger om søkerens særlige kvalifikasjoner for å gjennomføre tiltakethva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningensøknadsbeløpdetaljert budsjettom det er søkt eller vil bli søkt om tilskudd fra andre offentlige instanser til det omsøkte tiltaketegenfinansiering og egen arbeidsinnsatsopplysning om søker også utøver økonomisk aktivitet, jf. punkt [§ 14](forskrift/2024-12-12-3074/§14)om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
+Søknaden skal inneholde informasjon om:
+
+1. søkeren/søkerorganisasjonens navn, adresse, organisasjonsnummer, kontonummer og kontaktperson
+2. eventuelle opplysninger om søkerens særlige kvalifikasjoner for å gjennomføre tiltaket
+3. hva det søkes om tilskudd til, og hvordan tiltaket kan bidra til å oppfylle målet med tilskuddsordningen
+4. søknadsbeløp
+5. detaljert budsjett
+6. om det er søkt eller vil bli søkt om tilskudd fra andre offentlige instanser til det omsøkte tiltaket
+7. egenfinansiering og egen arbeidsinnsats
+8. opplysning om søker også utøver økonomisk aktivitet, jf. punkt [§ 14](forskrift/2024-12-12-3074/§14)
+9. om søker har eller forventer å få refusjon for merverdiavgift for det omsøkte tiltaket.
 
 Søknader om tilskudd til akutte skadereduserende tiltak skal leveres i elektronisk søknadssenter etter nærmere avtale med statsforvalteren.
 
@@ -84,11 +136,18 @@ Alle opplysninger skal kunne dokumenteres, og dokumentasjonen skal oppbevares i 
 
 Statsforvalteren/Miljødirektoratet kan kreve at søkeren gir andre opplysninger som er nødvendig for å vurdere søknaden, enn de som fremgår av [§ 10](forskrift/2024-12-12-3074/§10) og den mottatte søknaden.
 
-Statsforvalteren/Miljødirektoratet kan i tillegg til opplysningene i søknadenkreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknadenkontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utleveregå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
+Statsforvalteren/Miljødirektoratet kan i tillegg til opplysningene i søknaden
+
+1. kreve at søkeren gir andre opplysninger og dokumentasjon som er nødvendig for å vurdere søknaden
+2. kontrollere søknadsopplysningene mot opplysninger som andre myndigheter kan utlevere
+3. gå på befaring som er nødvendig for å vurdere søknaden og kreve at søkeren medvirker når det er nødvendig.
 
 ## § 12. Søkers opplysningsplikt
 
-Søker plikter straks å melde fra til statsforvalteren eller Miljødirektoratet dersomsøker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysningeruberettiget tilskudd er utbetalt.
+Søker plikter straks å melde fra til statsforvalteren eller Miljødirektoratet dersom
+
+1. søker blir oppmerksom på at søknaden inneholder ufullstendige eller uriktige opplysninger
+2. uberettiget tilskudd er utbetalt.
 
 ## § 13. Behandling av søknad om tilskudd
 
@@ -112,7 +171,12 @@ Sats for avtalt tidlig nedsanking er 12 kroner per dyr og dag. Sats for avtalt h
 
 ## § 16. Krav til rapportering
 
-Mottaker av tilskudd skal rapportere på bruk av tilskuddsmidlene i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i vedtaket om tildeling av tilskudd. Rapporten skal minimum inneholde en beskrivelse av:hvordan tiltaket ble gjennomførtom tiltaket ble gjennomført i henhold til avtaleutfordringer underveishvorfor/hvorfor ikke tiltaket hadde effekt.
+Mottaker av tilskudd skal rapportere på bruk av tilskuddsmidlene i Miljødirektoratets elektroniske søknadssenter innen fristen fastsatt i vedtaket om tildeling av tilskudd. Rapporten skal minimum inneholde en beskrivelse av:
+
+1. hvordan tiltaket ble gjennomført
+2. om tiltaket ble gjennomført i henhold til avtale
+3. utfordringer underveis
+4. hvorfor/hvorfor ikke tiltaket hadde effekt.
 
 Nærmere krav om rapportering gis i vedtaket om tilskudd.
 

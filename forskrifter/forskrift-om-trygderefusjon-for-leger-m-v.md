@@ -26,7 +26,14 @@ eu_basis: []
 
 ### § 1. Stønad for undersøkelse og behandling hos lege i den kommunale helse- og omsorgstjenesten
 
-Folketrygden yter stønad for undersøkelse og behandling hos lege i kommunale helse- og omsorgstjenester som oppfyller kompetansekravene i [forskrift 17. februar 2017 nr. 192 om kompetansekrav for leger](forskrift/2017-02-17-192), i følgende tilfeller:Legen deltar i fastlegeordningenLegen har introduksjonsavtaleLegen er fastlønnet kommunelege som foretar nødvendig sykebesøk utenom ordinær arbeidstidLegen deltar i kommunalt organisert legevaktLegen yter øyeblikkelig hjelp, jf. [helsepersonelloven § 7](lov/1999-07-02-64/§7)Legen er under spesialisering i spesialistutdanningens første del og har oppnådd læringsmålene i spesialisthelsetjenesten og deltar i kommunal legevakt eller jobber hos fastlege, jf. [forskrift 26. juni 2023 nr. 1125 om stønad til dekning av utgifter til undersøkelse og behandling hos lege § 2 nr. 3](forskrift/2023-06-26-1125/§2/nummer/3). Det samme gjelder lege i spesialistutdanningens første del i stilling opprettet etter [§ 11 tredje ledd](forskrift/2016-12-08-1482/§11/ledd/3), i [forskrift 8. desember 2016 nr. 1482 om spesialistutdanning og spesialistgodkjenning for leger og tannleger (spesialistforskriften)](forskrift/2016-12-08-1482).
+Folketrygden yter stønad for undersøkelse og behandling hos lege i kommunale helse- og omsorgstjenester som oppfyller kompetansekravene i [forskrift 17. februar 2017 nr. 192 om kompetansekrav for leger](forskrift/2017-02-17-192), i følgende tilfeller:
+
+1. Legen deltar i fastlegeordningen
+2. Legen har introduksjonsavtale
+3. Legen er fastlønnet kommunelege som foretar nødvendig sykebesøk utenom ordinær arbeidstid
+4. Legen deltar i kommunalt organisert legevakt
+5. Legen yter øyeblikkelig hjelp, jf. [helsepersonelloven § 7](lov/1999-07-02-64/§7)
+6. Legen er under spesialisering i spesialistutdanningens første del og har oppnådd læringsmålene i spesialisthelsetjenesten og deltar i kommunal legevakt eller jobber hos fastlege, jf. [forskrift 26. juni 2023 nr. 1125 om stønad til dekning av utgifter til undersøkelse og behandling hos lege § 2 nr. 3](forskrift/2023-06-26-1125/§2/nummer/3). Det samme gjelder lege i spesialistutdanningens første del i stilling opprettet etter [§ 11 tredje ledd](forskrift/2016-12-08-1482/§11/ledd/3), i [forskrift 8. desember 2016 nr. 1482 om spesialistutdanning og spesialistgodkjenning for leger og tannleger (spesialistforskriften)](forskrift/2016-12-08-1482).
 
 Lege som er omfattet av bestemmelsens bokstaver a–d plikter å ha direkte oppgjør og fremsette oppgjørskravet digitalt.
 
@@ -34,7 +41,12 @@ Lege som er omfattet av bestemmelsens bokstaver a–d plikter å ha direkte oppg
 
 ### § 1a. Stønad for undersøkelse og behandling hos lege som arbeider utenfor kommunal helse- og omsorgstjeneste
 
-Folketrygden yter stønad for undersøkelse og behandling hos lege utenfor den kommunale helse- og omsorgstjenesten i følgende tilfeller:Legen har individuell driftsavtale med regionalt helseforetakLegen yter øyeblikkelig hjelp, jf. [helsepersonelloven § 7](lov/1999-07-02-64/§7)Legen er under spesialisering i spesialistutdanningens andre eller tredje del og utfører pasientbehandling hos lege som har individuell driftsavtale med regionalt helseforetak. Stønaden utbetales til legen som har individuell driftsavtale med regionalt helseforetak.Ved pasientbehandling hos utdanningskandidater og lærere ved visse undervisningsinstitusjoner etter departementets bestemmelse.
+Folketrygden yter stønad for undersøkelse og behandling hos lege utenfor den kommunale helse- og omsorgstjenesten i følgende tilfeller:
+
+1. Legen har individuell driftsavtale med regionalt helseforetak
+2. Legen yter øyeblikkelig hjelp, jf. [helsepersonelloven § 7](lov/1999-07-02-64/§7)
+3. Legen er under spesialisering i spesialistutdanningens andre eller tredje del og utfører pasientbehandling hos lege som har individuell driftsavtale med regionalt helseforetak. Stønaden utbetales til legen som har individuell driftsavtale med regionalt helseforetak.
+4. Ved pasientbehandling hos utdanningskandidater og lærere ved visse undervisningsinstitusjoner etter departementets bestemmelse.
 
 Lege som er omfattet av bestemmelsens første ledd plikter å ha direkte oppgjør og fremsette oppgjørskravet digitalt.
 
@@ -42,7 +54,10 @@ Lege som er omfattet av bestemmelsens første ledd plikter å ha direkte oppgjø
 
 ### § 1b. Stønad for undersøkelse og behandling hos spesialist i klinisk psykologi
 
-Folketrygden yter stønad for undersøkelse og behandling hos spesialist i klinisk psykologi i følgende tilfeller:Vedkommende yrkesutøver har individuell driftsavtale med regionalt helseforetak, ellerVed pasientbehandling hos utdanningskandidater og lærere ved visse undervisningsinstitusjoner etter departementets bestemmelse.
+Folketrygden yter stønad for undersøkelse og behandling hos spesialist i klinisk psykologi i følgende tilfeller:
+
+1. Vedkommende yrkesutøver har individuell driftsavtale med regionalt helseforetak, eller
+2. Ved pasientbehandling hos utdanningskandidater og lærere ved visse undervisningsinstitusjoner etter departementets bestemmelse.
 
 Spesialist i klinisk psykologi som er omfattet av bestemmelsen plikter å ha direkte oppgjør og fremsette oppgjørskravet digitalt.
 
@@ -50,7 +65,10 @@ Spesialist i klinisk psykologi som er omfattet av bestemmelsen plikter å ha dir
 
 ### § 1c. Stønad for undersøkelse og behandling hos fysioterapeut i følgende tilfeller
 
-Folketrygden yter stønad for undersøkelse og behandling hos fysioterapeut i følgende tilfeller:Vedkommende yrkesutøver har avtale om driftstilskudd med kommuneVed pasientbehandling hos utdanningskandidater og lærere ved visse undervisningsinstitusjoner etter departementets bestemmelse.
+Folketrygden yter stønad for undersøkelse og behandling hos fysioterapeut i følgende tilfeller:
+
+1. Vedkommende yrkesutøver har avtale om driftstilskudd med kommune
+2. Ved pasientbehandling hos utdanningskandidater og lærere ved visse undervisningsinstitusjoner etter departementets bestemmelse.
 
 Fysioterapeut som er omfattet av bestemmelsen plikter å ha direkte oppgjør og fremsette oppgjørskrav digitalt.
 
@@ -58,13 +76,19 @@ Fysioterapeut som er omfattet av bestemmelsen plikter å ha direkte oppgjør og 
 
 ### § 2
 
-Folketrygden yter i en overgangsperiode stønad for undersøkelse og behandling hos lege og spesialist i klinisk psykologi som har hatt rett til trygderefusjon etter 1. januar 1993, og som har opprettholdt retten fram til forskriftens ikrafttredelse:Ved pasientbehandling hos yrkesutøver som har fylt 62 år før 1. juli 1998.Ved pasientbehandling hos spesialist i psykiatri eller klinisk psykologi.
+Folketrygden yter i en overgangsperiode stønad for undersøkelse og behandling hos lege og spesialist i klinisk psykologi som har hatt rett til trygderefusjon etter 1. januar 1993, og som har opprettholdt retten fram til forskriftens ikrafttredelse:
+
+1. Ved pasientbehandling hos yrkesutøver som har fylt 62 år før 1. juli 1998.
+2. Ved pasientbehandling hos spesialist i psykiatri eller klinisk psykologi.
 
 > Endret ved [forskrift 18 jan 1999 nr. 135](forskrift/1999-01-18-135) (i kraft 1 jan 1999), [25 mai 2001 nr. 541](forskrift/2001-05-25-541) (i kraft 1 juni 2001), [24 juni 2010 nr. 968](forskrift/2010-06-24-968) (i kraft 1 juli 2010).
 
 ### § 3
 
-Den private praksis som nevnt i [§ 2](forskrift/1998-06-18-590/§2) må tilfredsstille følgende krav:Virksomheten må være meldt til kommune eller regionalt helseforetak, jf. [helsepersonelloven § 18](lov/1999-07-02-64/§18).Virksomheten må være drevet i egnede lokaler fra et fast kontor med nødvendig utstyr og standard og representere et åpent og kontinuerlig helsetilbud til befolkningen.
+Den private praksis som nevnt i [§ 2](forskrift/1998-06-18-590/§2) må tilfredsstille følgende krav:
+
+1. Virksomheten må være meldt til kommune eller regionalt helseforetak, jf. [helsepersonelloven § 18](lov/1999-07-02-64/§18).
+2. Virksomheten må være drevet i egnede lokaler fra et fast kontor med nødvendig utstyr og standard og representere et åpent og kontinuerlig helsetilbud til befolkningen.
 
 > Endret ved [forskrifter 17 des 2001 nr. 1463](forskrift/2001-12-17-1463) (i kraft 1 jan 2002), [24 juni 2010 nr. 968](forskrift/2010-06-24-968) (i kraft 1 juli 2010).
 
@@ -88,7 +112,10 @@ Rett til trygderefusjon opprettholdes i inntil 3 år dersom det er tilsatt vikar
 
 ### § 6
 
-Rett til trygderefusjon gis til den som tjenestegjør/vikarierer for lege, spesialist i klinisk psykologi eller fysioterapeut som nevnt i [§ 1](forskrift/1998-06-18-590/§1), [§ 1a bokstav a](forskrift/1998-06-18-590/§1a/bokstav/a), [§ 1b bokstav a](forskrift/1998-06-18-590/§1b/bokstav/a), [§ 1c bokstav a](forskrift/1998-06-18-590/§1c/bokstav/a) og for lege og spesialist i klinisk psykologi som nevnt i [§ 2](forskrift/1998-06-18-590/§2). Vikarens praksisomfang må ligge innenfor samme rammer som praksisinnehaverens praksisomfang. For vikar for yrkesutøver som nevnt i [§ 2](forskrift/1998-06-18-590/§2) må følgende vilkår være oppfylt:Praksisinnehaver har permisjon etter [§ 5](forskrift/1998-06-18-590/§5).Praksisinnehaver driver ikke selv privat praksis i samme rom.
+Rett til trygderefusjon gis til den som tjenestegjør/vikarierer for lege, spesialist i klinisk psykologi eller fysioterapeut som nevnt i [§ 1](forskrift/1998-06-18-590/§1), [§ 1a bokstav a](forskrift/1998-06-18-590/§1a/bokstav/a), [§ 1b bokstav a](forskrift/1998-06-18-590/§1b/bokstav/a), [§ 1c bokstav a](forskrift/1998-06-18-590/§1c/bokstav/a) og for lege og spesialist i klinisk psykologi som nevnt i [§ 2](forskrift/1998-06-18-590/§2). Vikarens praksisomfang må ligge innenfor samme rammer som praksisinnehaverens praksisomfang. For vikar for yrkesutøver som nevnt i [§ 2](forskrift/1998-06-18-590/§2) må følgende vilkår være oppfylt:
+
+1. Praksisinnehaver har permisjon etter [§ 5](forskrift/1998-06-18-590/§5).
+2. Praksisinnehaver driver ikke selv privat praksis i samme rom.
 
 Retten til trygderefusjon gjelder for vikaren i den perioden vikariatet pågår.
 

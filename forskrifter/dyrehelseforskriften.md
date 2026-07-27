@@ -16,7 +16,7 @@ xml_hash: "9b24e137a1718cbf8fbf040b51de4899b74a222c86b8249930d6ae5f15971b21"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,7 +31,14 @@ Forskriften skal fremme forebygging og bekjempelse av dyresykdommer som kan over
 
 ### § 2. Saklig virkeområde
 
-Denne forskriften får anvendelse på:holdte og ville dyr,avlsmateriale,produkter av animalsk opprinnelse,animalske biprodukter og avledede produkter, uten hensyn til reglene fastsatt i forordning [(EF) nr. 1069/2009](eu/32009r1069),fasiliteter, transportmidler, utstyr og alle andre smitteveier og materialer som bidrar eller kan bidra til spredning av smittsomme dyresykdommer,smittsomme sykdommer, herunder zoonoser, i den utstrekning det ikke allerede er fastsatt særlige regler som gjennomfører de rettsaktene angitt i forordning [(EU) 2016/429](eu/32016r0429) artikkel 2 (2).
+Denne forskriften får anvendelse på:
+
+1. holdte og ville dyr,
+2. avlsmateriale,
+3. produkter av animalsk opprinnelse,
+4. animalske biprodukter og avledede produkter, uten hensyn til reglene fastsatt i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+5. fasiliteter, transportmidler, utstyr og alle andre smitteveier og materialer som bidrar eller kan bidra til spredning av smittsomme dyresykdommer,
+6. smittsomme sykdommer, herunder zoonoser, i den utstrekning det ikke allerede er fastsatt særlige regler som gjennomfører de rettsaktene angitt i forordning [(EU) 2016/429](eu/32016r0429) artikkel 2 (2).
 
 ### § 3. Stedlig virkeområde
 
@@ -98,7 +105,16 @@ Akvakulturdyr og viltlevende akvatiske dyr som har kliniske tegn til smittsom sy
 
 ### § 11. Opprettelse av restriksjonssoner – kategori F-sykdom
 
-Når det er påvist kategori F-sykdom hos akvatiske dyr, kan Mattilsynet for å hindre spredning av sykdommen fastsette forskrift om opprettelse av restriksjonssone. Forskriften kan inneholde påbud, forbud og tiltak som er nødvendige for å begrense eller bekjempe sykdommen, herunder om:flytting av akvatiske dyr eller akvatiske organismer, herunder smittebærende arter inn i, rundt inne i eller ut av området,utsett av akvatiske dyr og andre akvatiske organismer,flytting av akvatiske dyr og organismer mellom akvakulturanlegg og mellom vassdrag eller deler av vassdrag,transport, transportmidler og ballastvann,særskilte laboratorieundersøkelser mv.,smitteskille mellom fiskegrupper, herunder brakklegging av lokaliteter,adgangsbegrensninger for personer som kan føre med seg smitte til akvakulturanlegg, og om plikt til å la sin person og medbrakte gjenstander desinfiseres, ogferdsel og aktiviteter i og ut av sonen.
+Når det er påvist kategori F-sykdom hos akvatiske dyr, kan Mattilsynet for å hindre spredning av sykdommen fastsette forskrift om opprettelse av restriksjonssone. Forskriften kan inneholde påbud, forbud og tiltak som er nødvendige for å begrense eller bekjempe sykdommen, herunder om:
+
+1. flytting av akvatiske dyr eller akvatiske organismer, herunder smittebærende arter inn i, rundt inne i eller ut av området,
+2. utsett av akvatiske dyr og andre akvatiske organismer,
+3. flytting av akvatiske dyr og organismer mellom akvakulturanlegg og mellom vassdrag eller deler av vassdrag,
+4. transport, transportmidler og ballastvann,
+5. særskilte laboratorieundersøkelser mv.,
+6. smitteskille mellom fiskegrupper, herunder brakklegging av lokaliteter,
+7. adgangsbegrensninger for personer som kan føre med seg smitte til akvakulturanlegg, og om plikt til å la sin person og medbrakte gjenstander desinfiseres, og
+8. ferdsel og aktiviteter i og ut av sonen.
 
 Forskrifter som er fastsatt med hjemmel i denne bestemmelsen, er ikke til hinder for at Mattilsynet ved enkeltvedtak kan pålegge mer vidtgående tiltak eller lempe på tiltakene overfor det enkelte akvakulturanlegg, dersom dette er nødvendig for å begrense eller bekjempe sykdommen.
 
@@ -178,7 +194,12 @@ Driftsansvarlige skal underrette slakteriet senest tre arbeidsdager før storfe,
 
 Ved mistanke om eller påvisning av sykdom, som er listeført som nasjonal liste 1- sykdom angitt i vedlegg 1, skal driftsansvarlig iverksette relevante tiltak angitt i forordning [(EU) 2020/687](eu/32020r0687) artikkel 5, som gjennomført i [dyresykdomsbekjempelsesforskriften § 3](forskrift/2022-04-06-634/§3), inntil annet er bestemt. Inngang til bygninger, adkomstveier og eiendomsgrenser skal merkes med varselskilt etter anvisning fra Mattilsynet.
 
-Ved mistanke om eller påvisning av sykdom som er listeført som nasjonal liste 2-sykdom angitt i vedlegg 1, gjelder følgende inntil annet er bestemt:Dyr av arter som er mottakelige for sykdommen skal ikke føres ut av anlegget.Driftsansvarlig skal, så langt råd er, iverksette tiltak for å hindre smittespredning og bekjempe sykdommen.Uvedkommende personer skal ikke gis adgang til dyrerom hvor dyr av arter som er mottakelige for sykdommen oppholder seg. Inngang til driftsbygninger skal være merket med Mattilsynets varselskilt.Sørge for at anleggets journaler over produksjon, helse og sporbarhet ajourføres.
+Ved mistanke om eller påvisning av sykdom som er listeført som nasjonal liste 2-sykdom angitt i vedlegg 1, gjelder følgende inntil annet er bestemt:
+
+1. Dyr av arter som er mottakelige for sykdommen skal ikke føres ut av anlegget.
+2. Driftsansvarlig skal, så langt råd er, iverksette tiltak for å hindre smittespredning og bekjempe sykdommen.
+3. Uvedkommende personer skal ikke gis adgang til dyrerom hvor dyr av arter som er mottakelige for sykdommen oppholder seg. Inngang til driftsbygninger skal være merket med Mattilsynets varselskilt.
+4. Sørge for at anleggets journaler over produksjon, helse og sporbarhet ajourføres.
 
 > Endret ved [forskrift 21 aug 2024 nr. 1995](forskrift/2024-08-21-1995) (i kraft 1 sep 2024).
 
@@ -220,7 +241,14 @@ Mattilsynet kan pålegge enhver veterinær i det geografiske området til Mattil
 
 Definisjoner av dyrearter i [landdyrforflytningsforskriften](forskrift/2022-04-07-636) gjelder i tillegg til definisjoner gitt i denne forskriften.
 
-I dette kapittelet menes med:«bigård»: anlegg der honningbier holdes i én eller flere bikuber som den driftsansvarlige har stilt opp innenfor en radius på maksimum 100 meter. Én driftsansvarlig kan ha flere bigårder.«besøksgård»: anlegg der husdyr hovedsakelig holdes for å bli vist fram til publikum.«bikubemateriell»: bikuber og kubedeler, herunder bunnbrett, kasser, rammer uten voks, dronninggitter og dekkbrett, og annet utstyr til bruk i bigårder.«dyreansamling»: ethvert organisert arrangement som innebærer at dyr fra forskjellige anlegg samles midlertidig på ett anlegg, herunder utstillinger, kåringssjå, stevner, markeder, konkurranser og totalisatorløp. Begrepet omfatter ikke sirkus, dyrehager, besøksgårder, anlegg for oppsamling av dyr og fellesbeiter inkludert samlekveer.«anlegg med næringsrettet dyrehold»: anlegg der storfe, sau, geit, svin, oppdrettshjort, pelsdyr eller fjørfe holdes av en driftsansvarlig som mottar produksjonstilskudd for dyrehold eller har en omsetning som overstiger grensen for å være merverdiavgiftspliktig for dyrehold. Alle anlegg der dyr av kamelfamilien holdes omfattes av reglene for anlegg med næringsrettet dyrehold. Begrepet omfatter ikke dyreansamlinger, dyrehager, sirkus eller besøksgårder.«åpen gård»: et arrangement som innebærer at et anlegg med næringsrettet dyrehold holdes midlertidig åpent for publikum.
+I dette kapittelet menes med:
+
+1. «bigård»: anlegg der honningbier holdes i én eller flere bikuber som den driftsansvarlige har stilt opp innenfor en radius på maksimum 100 meter. Én driftsansvarlig kan ha flere bigårder.
+2. «besøksgård»: anlegg der husdyr hovedsakelig holdes for å bli vist fram til publikum.
+3. «bikubemateriell»: bikuber og kubedeler, herunder bunnbrett, kasser, rammer uten voks, dronninggitter og dekkbrett, og annet utstyr til bruk i bigårder.
+4. «dyreansamling»: ethvert organisert arrangement som innebærer at dyr fra forskjellige anlegg samles midlertidig på ett anlegg, herunder utstillinger, kåringssjå, stevner, markeder, konkurranser og totalisatorløp. Begrepet omfatter ikke sirkus, dyrehager, besøksgårder, anlegg for oppsamling av dyr og fellesbeiter inkludert samlekveer.
+5. «anlegg med næringsrettet dyrehold»: anlegg der storfe, sau, geit, svin, oppdrettshjort, pelsdyr eller fjørfe holdes av en driftsansvarlig som mottar produksjonstilskudd for dyrehold eller har en omsetning som overstiger grensen for å være merverdiavgiftspliktig for dyrehold. Alle anlegg der dyr av kamelfamilien holdes omfattes av reglene for anlegg med næringsrettet dyrehold. Begrepet omfatter ikke dyreansamlinger, dyrehager, sirkus eller besøksgårder.
+6. «åpen gård»: et arrangement som innebærer at et anlegg med næringsrettet dyrehold holdes midlertidig åpent for publikum.
 
 ### § 29. Håndtering og behandling av syke dyr
 
@@ -240,7 +268,11 @@ Driftsansvarlige for honningbier er unntatt fra bestemmelsene i første ledd, me
 
 ### § 31. Særskilte hygienekrav i anlegg med næringsrettet dyrehold
 
-For å forebygge smitte, skal driftsansvarlige i anlegg med næringsrettet dyrehold sørge for at følgende innretningene er hensiktsmessig plassert i anlegget:et sted som er delt i tydelige soner der personer kan sluses inn og ut av området der dyrene holdes. I denne smitteslusa skal personer rengjøre hender og medbragt utstyr, skifte fottøy og klær eller ta på overtrekkstøy. Om nødvendig skal både personer og utstyr desinfiseres. Hvilke personer som skal bruke smitteslusa, skal framgå av smittevernplanen etter [§ 32](forskrift/2022-04-06-631/§32).en særskilt dør eller en port som brukes til å laste dyr inn eller ut. Kravet gjelder ikke for pelsdyr eller for besetninger i driftsbygninger eller lignende som ble bygget før 1. januar 2020, og som ikke har blitt vesentlig ombygget etter 1. januar 2020.i et melkeproduksjonsanlegg, en dør eller en annen innretning som bare brukes av tankbilsjåfører som henter melk.
+For å forebygge smitte, skal driftsansvarlige i anlegg med næringsrettet dyrehold sørge for at følgende innretningene er hensiktsmessig plassert i anlegget:
+
+1. et sted som er delt i tydelige soner der personer kan sluses inn og ut av området der dyrene holdes. I denne smitteslusa skal personer rengjøre hender og medbragt utstyr, skifte fottøy og klær eller ta på overtrekkstøy. Om nødvendig skal både personer og utstyr desinfiseres. Hvilke personer som skal bruke smitteslusa, skal framgå av smittevernplanen etter [§ 32](forskrift/2022-04-06-631/§32).
+2. en særskilt dør eller en port som brukes til å laste dyr inn eller ut. Kravet gjelder ikke for pelsdyr eller for besetninger i driftsbygninger eller lignende som ble bygget før 1. januar 2020, og som ikke har blitt vesentlig ombygget etter 1. januar 2020.
+3. i et melkeproduksjonsanlegg, en dør eller en annen innretning som bare brukes av tankbilsjåfører som henter melk.
 
 Inngangen til bygninger med dyr skal være merket med oppslag om at det bare er adgang hvis den driftsansvarlige tillater det.
 
@@ -256,7 +288,17 @@ Toaletter skal ikke ha avløp til eller tømmes i gjødsellageret. Dette gjelder
 
 Driftsansvarlige i anlegg med næringsrettet dyrehold skal ha rutiner som sikrer godt smittevern.
 
-Rutinene skal beskrives i en skriftlig smittevernplan. Den skal inneholde en plantegning over dyre- og persontrafikken, være tilpassa hvert enkelt dyrehold og omfatte hele driftsopplegget. Smittevernplanen skal blant annet beskrive hvordandyr tas inn og ut av dyreholdet, inkludert til og fra beitegod dyrehelse sikres ved livdyrkjøp, inkludert mulighet for å oppstalle dyrene separatmelk og egg leveresmulig smitte fra egen og innleid arbeidskraft hindrespersontrafikken inn og ut av anlegget foregår, med særlige krav til veterinærer og andre som er tilknytta eller i mulig kontakt med andre anleggkadaver, gjødsel og avfall håndteres og hentesfôrhygiene, vanningsanlegg, strø, redskap og utstyr sikresdesinfeksjonsmiddel er tilgjengeligrisikoen for å spre smitte ved krysstrafikk mellom dyr, mennesker og kjøretøy i nærheten av tilholdsrom for dyr kan reduseres.
+Rutinene skal beskrives i en skriftlig smittevernplan. Den skal inneholde en plantegning over dyre- og persontrafikken, være tilpassa hvert enkelt dyrehold og omfatte hele driftsopplegget. Smittevernplanen skal blant annet beskrive hvordan
+
+1. dyr tas inn og ut av dyreholdet, inkludert til og fra beite
+2. god dyrehelse sikres ved livdyrkjøp, inkludert mulighet for å oppstalle dyrene separat
+3. melk og egg leveres
+4. mulig smitte fra egen og innleid arbeidskraft hindres
+5. persontrafikken inn og ut av anlegget foregår, med særlige krav til veterinærer og andre som er tilknytta eller i mulig kontakt med andre anlegg
+6. kadaver, gjødsel og avfall håndteres og hentes
+7. fôrhygiene, vanningsanlegg, strø, redskap og utstyr sikres
+8. desinfeksjonsmiddel er tilgjengelig
+9. risikoen for å spre smitte ved krysstrafikk mellom dyr, mennesker og kjøretøy i nærheten av tilholdsrom for dyr kan reduseres.
 
 Den driftsansvarlige skal sikre at alle som arbeider på anlegget, kjenner og følger smittevernplanen. Den skal oppdateres årlig og legges fram når Mattilsynet ber om det.
 
@@ -318,7 +360,15 @@ Kravet om kurs etter første ledd gjelder ikke driftsansvarlige i anlegg med næ
 
 Veterinærer og laboratorier skal sende hastemelding etter [§ 19](forskrift/2022-04-06-631/§19) første ledd om nasjonal liste 1- og 2-sykdom eller Bsal hos landdyr, reptiler, amfibier eller sjøpattedyr skriftlig via Mattilsynets meldesystem. For nasjonal liste 1-sykdommer og andre sykdommer som Mattilsynet bestemmer skal meldingen også skje muntlig.
 
-Veterinærer og laboratorier plikter også umiddelbart å melde fra til Mattilsynet på samme måte ved påvisning av, eller grunn til mistanke om, at landdyr, reptiler, amfibier eller sjøpattedyr har sykdom som oppfyller ett eller flere av disse vilkårene:kan medføre fare for død eller alvorlig helseskade hos menneskerkan føre til at et større antall dyr blir utsatt for sykdomkan utløse store økonomiske tap for samfunnetkan gi andre vesentlige samfunnsmessige konsekvenserantas ikke å forekomme i Norgehar uvanlig utbredelsesvekker dyrets helsetilstand på uvanlig måte eller i uvanlig høy grad.
+Veterinærer og laboratorier plikter også umiddelbart å melde fra til Mattilsynet på samme måte ved påvisning av, eller grunn til mistanke om, at landdyr, reptiler, amfibier eller sjøpattedyr har sykdom som oppfyller ett eller flere av disse vilkårene:
+
+1. kan medføre fare for død eller alvorlig helseskade hos mennesker
+2. kan føre til at et større antall dyr blir utsatt for sykdom
+3. kan utløse store økonomiske tap for samfunnet
+4. kan gi andre vesentlige samfunnsmessige konsekvenser
+5. antas ikke å forekomme i Norge
+6. har uvanlig utbredelse
+7. svekker dyrets helsetilstand på uvanlig måte eller i uvanlig høy grad.
 
 Plikten til å gi hastemelding gjelder ikke nye tilfeller i samme sykdomshendelse.
 
@@ -336,7 +386,13 @@ Veterinærer som påviser nasjonal liste 3-sykdom hos landdyr, andre dyr som lev
 
 ### § 40. Nødvendige opplysninger i meldinger
 
-Når veterinærer og laboratorier sender meldinger etter [§ 19](forskrift/2022-04-06-631/§19) eller dette kapittel skal meldingen inneholde nødvendige opplysninger ommelderensykdommen, herunder symptomer og eventuell diagnosestedet dyrene holdes og artdyrene som er rammet av sykdommentidspunktet for mistanke eller påvisning.
+Når veterinærer og laboratorier sender meldinger etter [§ 19](forskrift/2022-04-06-631/§19) eller dette kapittel skal meldingen inneholde nødvendige opplysninger om
+
+1. melderen
+2. sykdommen, herunder symptomer og eventuell diagnose
+3. stedet dyrene holdes og art
+4. dyrene som er rammet av sykdommen
+5. tidspunktet for mistanke eller påvisning.
 
 > Endret ved forskrift [1 juli 2022 nr. 1300](forskrift/2022-07-01-1300).
 
@@ -837,7 +893,7 @@ ut fra følgende betraktninger:
 165. Denne forordningen fastsetter alminnelige og særlige regler for forebygging og bekjempelse av smittsomme dyresykdommer og sikrer en harmonisert tilnærming til dyrehelse i hele Unionen. På visse områder, for eksempel generelle ansvarsområder for dyrehelse, melding, overvåking, registrering og godkjenning eller sporbarhet, bør medlemsstatene ha tillatelse til eller oppfordres til å benytte ytterligere eller strengere nasjonale tiltak. Slike nasjonale tiltak bør bare tillates dersom de ikke bringer dyrehelsemålene fastsatt i denne forordningen i fare, ikke er i strid med reglene i denne forordningen, og ikke er til hinder for forflytning av dyr eller produkter mellom medlemsstatene, med mindre dette er nødvendig for å forhindre innføring av sykdommer eller bekjempe deres spredning.
 166. De nasjonale tiltakene nevnt i betraktning 165 bør være omfattet av en forenklet framgangsmåte for melding for å redusere den administrative byrden. Erfaringen har vist at den samlede framgangsmåten for melding i europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034)27 har vært et viktig verktøy for å styre og forbedre kvaliteten på nasjonale tekniske forskrifter – i form av økt innsyn, lesbarhet og effektivitet – på områder som ikke er eller bare delvis er harmonisert. Derfor bør denne samlede framgangsmåten for melding benyttes.
 167. Unionens dyrehelseregler er i dag fastsatt i følgende rettsakter fra Europaparlamentet og Rådet og i senere kommisjonsrettsakter vedtatt i henhold til dem:
-Direktiv [64/432/EØF](eu/31964l0432), rådsdirektiv [77/391/EØF](eu/31977l0391)28, rådsdirektiv [78/52/EØF](eu/31978l0052)29, rådsdirektiv [80/1095/EØF](eu/31980l1095)30, rådsdirektiv [82/894/EØF](eu/31982l0894)31, rådsdirektiv [88/407/EØF](eu/31988l0407)32, rådsdirektiv [89/556/EØF](eu/31989l0556)33, rådsdirektiv [90/429/EØF](eu/31990l0429)34, direktiv [91/68/EØF](eu/31991l0068), rådsvedtak [91/666/EØF](eu/31991d0666)35, rådsdirektiv [92/35/EØF](eu/31992l0035)36, direktiv [92/65/EØF](eu/31992l0065), rådsdirektiv [92/66/EØF](eu/31992l0066)37, rådsdirektiv [92/118/EØF](eu/31992l0118)38, rådsdirektiv [92/119/EØF](eu/31992l0119)39, rådsvedtak [95/410/EF](eu/31995d0410)40, rådsdirektiv [2000/75/EF](eu/32000l0075)41, rådsvedtak [2000/258/EF](eu/32000d0258)42, rådsdirektiv [2001/89/EF](eu/32001l0089)43, rådsdirektiv [2002/60/EF](eu/32002l0060)44, rådsdirektiv [2002/99/EF](eu/32002l0099)45, rådsdirektiv [2003/85/EF](eu/32003l0085)46, rådsforordning [(EF) nr. 21/2004](eu/32004r0021)47, rådsdirektiv [2004/68/EF](eu/32004l0068)48, rådsdirektiv [2005/94/EF](eu/32005l0094)49, direktiv [2006/88/EF](eu/32006l0088), rådsdirektiv [2008/71/EF](eu/32008l0071)50, direktiv [2009/156/EF](eu/32009l0156), direktiv [2009/158/EF](eu/32009l0158), europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)51.
+     Direktiv [64/432/EØF](eu/31964l0432), rådsdirektiv [77/391/EØF](eu/31977l0391)28, rådsdirektiv [78/52/EØF](eu/31978l0052)29, rådsdirektiv [80/1095/EØF](eu/31980l1095)30, rådsdirektiv [82/894/EØF](eu/31982l0894)31, rådsdirektiv [88/407/EØF](eu/31988l0407)32, rådsdirektiv [89/556/EØF](eu/31989l0556)33, rådsdirektiv [90/429/EØF](eu/31990l0429)34, direktiv [91/68/EØF](eu/31991l0068), rådsvedtak [91/666/EØF](eu/31991d0666)35, rådsdirektiv [92/35/EØF](eu/31992l0035)36, direktiv [92/65/EØF](eu/31992l0065), rådsdirektiv [92/66/EØF](eu/31992l0066)37, rådsdirektiv [92/118/EØF](eu/31992l0118)38, rådsdirektiv [92/119/EØF](eu/31992l0119)39, rådsvedtak [95/410/EF](eu/31995d0410)40, rådsdirektiv [2000/75/EF](eu/32000l0075)41, rådsvedtak [2000/258/EF](eu/32000d0258)42, rådsdirektiv [2001/89/EF](eu/32001l0089)43, rådsdirektiv [2002/60/EF](eu/32002l0060)44, rådsdirektiv [2002/99/EF](eu/32002l0099)45, rådsdirektiv [2003/85/EF](eu/32003l0085)46, rådsforordning [(EF) nr. 21/2004](eu/32004r0021)47, rådsdirektiv [2004/68/EF](eu/32004l0068)48, rådsdirektiv [2005/94/EF](eu/32005l0094)49, direktiv [2006/88/EF](eu/32006l0088), rådsdirektiv [2008/71/EF](eu/32008l0071)50, direktiv [2009/156/EF](eu/32009l0156), direktiv [2009/158/EF](eu/32009l0158), europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)51.
 168. I denne forordningen fastsettes reglene for identifikasjon og registrering av storfe, mens regler for merking av storfekjøtt ligger utenfor dens virkeområde. Europaparlaments- og rådsforordning [(EF) nr. 1760/2000](eu/32000r1760)52 fastsetter regler for identifikasjon og registrering av storfe og regler for merking av storfekjøtt. Den bør derfor endres for å oppheve bestemmelsene om identifikasjon og registrering av storfe, mens bestemmelsene om merking av storfekjøtt fortsatt bør gjelde.
 169. For å sikre at ordningene i gjeldende forordninger om systemer for identifikasjon og registrering av storfe, sauer og geiter skal være pålitelige, krever dette regelverket at medlemsstatene gjennomfører hensiktsmessige og effektive kontrolltiltak. Slike hensiktsmessige og effektive offentlige kontrolltiltak bør også beholdes i framtiden. Som en del av forslagspakken om smartere regler for tryggere næringsmidler («Smarter rules for safer food»), fastsettes det i denne forordningen ikke bestemmelser om offentlig kontroll, ettersom slike regler bør fastsettes innenfor rammen av det foreslåtte tverrgående regelverket om offentlig kontroll. Selv om de foreslåtte nye tverrgående reglene om offentlig kontroll ikke skulle tre i kraft samtidig som denne forordningen, vil Kommisjonen ved hjelp av gjeldende tverrgående regler for offentlig kontroll likevel kunne sikre et likeverdig kontrollnivå.
 170. Reglene i regelverksaktene nevnt i betraktning 167 skal erstattes med denne forordningen og med senere kommisjonsrettsakter som skal vedtas i henhold til denne forordningen. Følgelig bør nevnte regelverksakter oppheves. For å sikre juridisk klarhet og unngå juridisk tomrom bør opphevingen likevel først få virkning når de relevante delegerte rettsaktene og gjennomføringsrettsaktene er vedtatt i henhold til denne forordningen. Det er derfor nødvendig å gi Kommisjonen myndighet til å bestemme datoene for når opphevingen av de aktuelle regelverksaktene skal få virkning, mens lovgiver bør fastsette en frist.
@@ -849,7 +905,129 @@ Direktiv [64/432/EØF](eu/31964l0432), rådsdirektiv [77/391/EØF](eu/31977l0391
 176. Gjennomføringsmyndigheten fastsatt i denne forordningen bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182)61.
 177. Det er særlig viktig at Kommisjonen holder hensiktsmessige samråd under sitt forberedende arbeid, herunder på ekspertnivå. Kommisjonen bør ved forberedelse og utarbeiding av delegerte rettsakter sikre at relevante dokumenter oversendes Europaparlamentet og Rådet samtidig, til rett tid og på en egnet måte.
 178. Denne forordningen bør ikke medføre uforholdsmessig store administrative byrder eller økonomiske konsekvenser for små og mellomstore bedrifter. Etter samråd med berørte parter er det i denne forordningen tatt hensyn til den særlige situasjonen for små og mellomstore bedrifter. I betraktning av de samfunnsmessige målene om å verne dyrehelsen og folkehelsen er det ikke tatt stilling til et eventuelt generelt unntak fra kravene i denne forordningen for slike bedrifter. Det bør imidlertid fastsettes en del unntak for slike bedrifter i forbindelse med de ulike kravene i denne forordningen, på grunnlag av tilknyttede risikoer.
-179. Ettersom målene med denne forordningen, som er å fastsette helseregler for dyr og hygieneregler for avlsmateriale, produkter av animalsk opprinnelse, animalske biprodukter og avledede produkter i den utstrekning de ikke omfattes av særlige regler i annet unionsregelverk, og for andre materialer som kan bidra til å spre smittsomme dyresykdommer, ikke kan nås i tilstrekkelig grad av medlemsstatene og bedre kan nås på unionsplan gjennom en felles, samordnet rettslig ramme for dyrehelsen, kan Unionen treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i artikkel 5 i traktaten om Den europeiske union. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordningen ikke lenger enn det som er nødvendig for å nå disse målene.1 EUT C 170 av 5.6.2014, s. 104.2 Europaparlamentets holdning av 15. april 2014 (ennå ikke offentliggjort i EUT) og Rådets holdning ved første behandling av 14. desember 2015.3 Europaparlaments- og rådsforordning [(EU) nr. 652/2014](eu/32014r0652) av 15. mai 2014 om bestemmelser om forvaltningen av utgifter i forbindelse med næringsmiddelkjeden og dyrs helse og velferd og i forbindelse med plantehelse og planteformeringsmateriale, om endring av rådsdirektiv [98/56/EF](eu/31998l0056), [2000/29/EF](eu/32000l0029) og [2008/90/EF](eu/32008l0090), europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178), [(EF) nr. 882/2004](eu/32004r0882) og [(EF) nr. 396/2005](eu/32005r0396), europaparlaments- og rådsdirektiv [2009/128/EF](eu/32009l0128) og europaparlaments- og rådsforordning [(EF) nr. 1107/2009](eu/32009r1107) og om oppheving av rådsbeslutning [66/399/EØF](eu/31966d0399), rådsbeslutning [76/894/EØF](eu/31976d0894) og rådsvedtak [2009/470/EF](eu/32009d0470) (EUT L 189 av 27.6.2014, s. 1).4 Europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes (EUT 165 av 30.4.2004, s. 1).5 Rådsdirektiv [89/662/EØF](eu/31989l0662) av 11. desember 1989 om veterinærkontroll ved handel innenfor Fellesskapet med sikte på gjennomføring av det indre marked (EFT L 395 av 30.12.1989, s. 13).6 Rådsdirektiv [90/425/EØF](eu/31990l0425) av 26. juni 1990 om veterinærkontroll ved handel med visse levende dyr og produkter innenfor Unionen med sikte på gjennomføring av det indre marked (EFT L 224 av 18.8.1990, s. 29).7 Rådsdirektiv [91/496/EØF](eu/31991l0496) av 15. juli 1991 om fastsettelse av prinsippene for organisering av veterinærkontrollene av dyr som innføres til Fellesskapet fra tredjestater, og om endring av direktiv [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425) og [90/675/EØF](eu/31990l0675) (EFT L 268 av 24.9.1991, s. 56).8 Rådsdirektiv [97/78/EF](eu/31997l0078) av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater (EFT L 24 av 30.1.1998, s. 9).9 Rådsforordning (EF) nr. 1/2005 av 22. desember 2004 om vern av dyr under transport og tilknyttet virksomhet, og om endring av direktiv [64/432/EØF](eu/31964l0432) og [93/119/EF](eu/31993l0119) og forordning [(EF) nr. 1255/97](eu/31997r1255) (EUT L 3 av 5.1.2005, s. 1).10 Rådsforordning [(EF) nr. 1099/2009](eu/32009r1099) av 24. september 2009 om vern av dyr på tidspunktet for avliving (EUT L 303 av 18.11.2009, s. 1).11 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).12 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).13 Europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati (EFT L 147 av 31.5.2001, s. 1).14 Europaparlaments- og rådsdirektiv [2003/99/EF](eu/32003l0099) av 17. november 2003 om overvåking av zoonoser og visse zoonotiske smittestoffer, om endring av rådsvedtak [90/424/EØF](eu/31990d0424) og om oppheving av rådsdirektiv [92/117/EØF](eu/31992l0117) (EUT L 325 av 12.12.2003, s. 31).15 Europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160) av 17. november 2003 om bekjempelse av salmonella og andre spesifiserte zoonotiske smittestoffer som overføres gjennom næringsmidler (EUT L 325 av 12.12.2003, s. 1).16 Europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082) av 22. oktober 2013 om alvorlige helsetrusler over landegrensene og om oppheving av vedtak nr. [2119/98/EF](eu/31998d2119) (EUT L 293 av 5.11.2013, s. 1).17 Rådsdirektiv [2006/88/EF](eu/32006l0088) av 24. oktober 2006 om krav til dyrehelse for akvakulturdyr og produkter av disse, og om forebygging og bekjempelse av visse sykdommer hos vanndyr (EUT L 328 av 24.11.2006, s. 14).18 Rådsdirektiv [92/65/EØF](eu/31992l0065) av 13. juli 1992 om fastsettelse av krav til dyrehelse ved handel innenfor Fellesskapet med dyr, sæd, egg og embryoer som ikke omfattes av kravene til dyrehelse fastsatt i de særlige fellesskapsregler oppført i vedlegg A del I til direktiv [90/425/EØF](eu/31990l0425) (EFT L 268 av 14.9.1992, s. 54).19 Europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063) av 22. september 2010 om vern av dyr som brukes til vitenskapelige formål (EUT L 276 av 20.10.2010, s. 33).20 Rådsdirektiv [64/432/EØF](eu/31964l0432) av 26. juni 1964 om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet (EFT 121 av 29.7.1964, s. 1977/64).21 Rådsdirektiv [91/68/EØF](eu/31991l0068) av 28. januar 1991 om krav til dyrehelse ved handel med sau og geit innenfor Fellesskapet (EFT L 46 av 19.2.1991, s. 19).22 Rådsdirektiv [2009/156/EF](eu/32009l0156) av 30. november 2009 om krav til dyrehelse ved forflytning av dyr av hestefamilien og import av slike dyr fra tredjestater (EUT L 192 av 23.7.2010, s. 1).23 Rådsdirektiv [2009/158/EF](eu/32009l0158) av 30. november 2009 om krav til dyrehelse for handel innenfor Fellesskapet med og import fra tredjestater av fjørfe og rugeegg (EUT L 343 av 22.12.2009, s. 74).24 Rådsvedtak [92/438/EØF](eu/31992d0438) av 13. juli 1992 om omlegging til edb-baserte veterinærrutiner ved import (SHIFT-prosjektet), om endring av direktiv [90/675/EØF](eu/31990l0675), [91/496/EØF](eu/31991l0496), [91/628/EØF](eu/31991l0628) og vedtak [90/424/EØF](eu/31990d0424) og om oppheving av vedtak [88/192/EØF](eu/31988d0192) (EFT L 243 av 25.8.1992, s. 27).25 Kommisjonsvedtak [2003/24/EF](eu/32003d0024) av 30. desember 2002 om utvikling av et integrert datasystem for veterinærmyndighetene (EFT L 8 av 14.1.2003, s. 44).26 Kommisjonsvedtak [2004/292/EF](eu/32004d0292) av 30. mars 2004 om innføring av TRACES-systemet og om endring av vedtak [92/486/EØF](eu/31992d0486) (EUT L 94 av 31.3.2004, s. 63).27 Europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) av 22. juni 1998 om en informasjonsprosedyre for standarder og tekniske forskrifter samt regler for informasjonssamfunnstjenester (EFT L 204 av 21.7.1998, s. 37).28 Rådsdirektiv [77/391/EØF](eu/31977l0391) av 17. mai 1977 om innføring av fellesskapstiltak for å utrydde brucellose, tuberkulose og leukose hos storfe (EFT L 145 av 13.6.1977, s. 44).29 Rådsdirektiv [78/52/EØF](eu/31978l0052) av 13. desember 1977 om fastsettelse av fellesskapskriterier for nasjonale planer for en framskyndet utryddelse av brucellose, tuberkulose og smittsom leukose hos storfe (EFT L 15 av 19.1.1978, s. 34).30 Rådsdirektiv [80/1095/EØF](eu/31980l1095) av 11. november 1980 om fastsettelse av vilkår for å utrydde klassisk svinepest på Fellesskapets territorium og holde det sykdomsfritt (EFT L 325 av 1.12.1980, s. 1).31 Rådsdirektiv [82/894/EØF](eu/31982l0894) av 21. desember 1982 om melding om dyresykdom i Fellesskapet (EFT L 378 av 31.12.1982, s. 58).32 Rådsdirektiv [88/407/EØF](eu/31988l0407) av 14. juni 1988 om fastsettelse av krav til dyrehelse ved handel med sæd fra storfe innenfor Fellesskapet og innførsel av slik sæd (EFT L 194 av 22.7.1988, s. 10).33 Rådsdirektiv [89/556/EØF](eu/31989l0556) av 25. september 1989 om krav til dyrehelse ved handel med embryoer fra storfe innenfor Fellesskapet og innførsel av slike embryoer fra tredjestater (EFT L 302 av 19.10.1989, s. 1).34 Rådsdirektiv [90/429/EØF](eu/31990l0429) av 26. juni 1990 om fastsettelse av krav til dyrehelse ved handel med rånesæd innenfor Fellesskapet og innførsel av rånesæd (EFT L 224 av 18.8.1990, s. 62).35 Rådsvedtak [91/666/EØF](eu/31991d0666) av 11. desember 1991 om opprettelse av fellesskapsreserver av munn- og klovsykevaksiner (EFT L 368 av 31.12.1991, s. 21).36 Rådsdirektiv [92/35/EØF](eu/31992l0035) av 29. april 1992 om fastsettelse av kontrollregler og tiltak for å bekjempe afrikansk hestepest (EFT L 157 av 10.6.1992, s. 19).37 Rådsdirektiv [92/66/EØF](eu/31992l0066) av 14. juli 1992 om innføring av fellesskapstiltak for å bekjempe Newcastle Disease (EFT L 260 av 5.9.1992, s. 1).38 Rådsdirektiv [92/118/EØF](eu/31992l0118) av 17. desember 1992 om fastsettelse av krav til dyrehelse og folkehelse ved handel innenfor Fellesskapet med og innførsel til Fellesskapet av produkter som ikke omfattes av nevnte krav fastsatt i særlige fellesskapsregler nevnt i vedlegg A avsnitt I i direktiv [89/662/EØF](eu/31989l0662) og, med hensyn til sykdomsfremkallende smittestoffer, i direktiv [90/425/EØF](eu/31990l0425) (EFT L 62 av 15.3.1993, s. 49).39 Rådsdirektiv [92/119/EØF](eu/31992l0119) av 17. desember 1992 om generelle fellesskapstiltak for bekjempelse av visse dyresykdommer og særtiltak med hensyn til smittsomt blæreutslett hos gris (EFT L 62 av 15.3.1993, s. 69).40 Rådsvedtak [95/410/EF](eu/31995d0410) av 22. juni 1995 om fastsettelse av regler for mikrobiologisk undersøkelse av slaktefjørfe bestemt for Finland og Sverige ved stikkprøver i opprinnelsesvirksomheten (EFT L 243 av 11.10.1995, s. 25).41 Rådsdirektiv [2000/75/EF](eu/32000l0075) av 20. november 2000 om fastsettelse av særlige bestemmelser om tiltak for å bekjempe og utrydde blåtunge (EFT L 327 av 22.12.2000, s. 74).42 Rådsvedtak [2000/258/EF](eu/32000d0258) av 20. mars 2000 om utpeking av et særskilt institutt som skal utarbeide de kriterier som er nødvendige for å standardisere serologiske prøver for kontroll av rabiesvaksiners virkning (EFT L 79 av 30.3.2000, s. 40).43 Rådsdirektiv [2001/89/EF](eu/32001l0089) av 23. oktober 2001 om fellesskapstiltak for bekjempelse av klassisk svinepest (EFT L 316 av 1.12.2001, s. 5).44 Rådsdirektiv [2002/60/EF](eu/32002l0060) av 27. juni 2002 om særlige bestemmelser om bekjempelse av afrikansk svinepest og om endring av direktiv [92/119/EØF](eu/31992l0119) med hensyn til ondartet smittsom griselammelse og afrikansk svinepest (EFT L 192 av 20.7.2002, s. 27).45 Rådsdirektiv [2002/99/EF](eu/32002l0099) av 16. desember 2002 om fastsettelse av dyrehelseregler for produksjon, bearbeiding, distribusjon og innførsel av produkter av animalsk opprinnelse beregnet på konsum (EFT L 18 av 23.1.2003, s. 11).46 Rådsdirektiv [2003/85/EF](eu/32003l0085) av 29. september 2003 om fellesskapstiltak for å bekjempe munn- og klovsyke, om oppheving av direktiv [85/511/EØF](eu/31985l0511) og vedtak [89/531/EØF](eu/31989d0531) og [91/665/EØF](eu/31991d0665), og om endring av direktiv [92/46/EØF](eu/31992l0046) (EUT L 306 av 22.11.2003, s. 1).47 Rådsforordning [(EF) nr. 21/2004](eu/32004r0021) av 17. desember 2003 om opprettelse av et system for identifikasjon og registrering av sauer og geiter og om endring av forordning [(EF) nr. 1782/2003](eu/32003r1782) og direktiv [92/102/EØF](eu/31992l0102) og [64/432/EØF](eu/31964l0432) (EUT L 5 av 9.1.2004, s. 8).48 Rådsdirektiv [2004/68/EF](eu/32004l0068) av 26. april 2004 om fastsettelse av dyrehelseregler for import til og transitt gjennom Fellesskapet av visse arter levende hovdyr, om endring av direktiv [90/426/EØF](eu/31990l0426) og [92/65/EØF](eu/31992l0065), og om oppheving av direktiv [72/462/EØF](eu/31972l0462) (EUT L 139 av 30.4.2004, s. 321).49 Rådsdirektiv [2005/94/EF](eu/32005l0094) av 20. desember 2005 om fellesskapstiltak for bekjempelse av aviær influensa, og om oppheving av direktiv [92/40/EØF](eu/31992l0040) (EFT L 10 av 14.1.2006, s. 16).50 Rådsdirektiv [2008/71/EF](eu/32008l0071) av 15. juli 2008 om identifikasjon og registrering av svin (EUT L 213 av 8.8.2008, s. 31).51 Europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998) (EUT L 178 av 28.6.2013, s. 1).52 Europaparlaments- og rådsforordning [(EF) nr. 1760/2000](eu/32000r1760) av 17. juli 2000 om opprettelse av et system for identifikasjon og registrering av storfe og om merking av storfekjøtt og storfekjøttprodukter og om oppheving av rådsforordning [(EF) nr. 820/97](eu/31997r0820) (EFT L 204 av 11.8.2000, s. 1).53 Rådsvedtak [78/642/EØF](eu/31978d0642) av 25. juli 1978 om helseverntiltak overfor republikken Botswana (EFT L 213 av 3.8.1978, s. 15).54 Rådsdirektiv [79/110/EØF](eu/31979l0110) av 24. januar 1979 om tillatelse til Den italienske republikk til å utsette oversendelsen og iverksettingen av sine nasjonale planer for en framskyndet utryddelse av brucellose og tuberkulose hos storfe (EFT L 29 av 3.2.1979, s. 24).55 Rådsdirektiv [81/6/EØF](eu/31981l0006) av 1. januar 1981 om tillatelse til Republikken Hellas til å oversende og iverksette sine nasjonale planer for en framskyndet utryddelse av brucellose og tuberkulose hos storfe (EFT L 14 av 16.1.1981, s. 22).56 Rådsvedtak [89/455/EØF](eu/31989d0455) av 24. juli 1989 om innføring av et fellesskapstiltak for å opprette pilotprosjekter til bekjempelse av rabies med sikte på å utrydde eller forebygge sykdommen (EFT L 223 av 2.8.1989, s. 19).57 Rådsdirektiv [90/423/EØF](eu/31990l0423) av 26. juni 1990 om endring av direktiv [85/511/EØF](eu/31985l0511) om innføring av fellesskapstiltak for å bekjempe munn- og klovsyke, direktiv [64/432/EØF](eu/31964l0432) om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet og direktiv [72/462/EØF](eu/31972l0462) om helseproblemer og dyrehelseproblemer ved innførsel av storfe og svin samt ferskt kjøtt eller kjøttprodukter fra tredjestater (EFT L 224 av 18.8.1990, s. 13).58 Rådsvedtak [90/678/EØF](eu/31990d0678) av 13. desember 1990 om godkjenning av visse deler av Fellesskapets territorium som offisielt fritt for svinepest eller fritt for svinepest (EFT L 373 av 31.12.1990, s. 29).59 Rådsdirektiv [92/36/EØF](eu/31992l0036) av 29. april 1992 om endring, med hensyn til afrikansk hestepest, av direktiv [90/426/EØF](eu/31990l0426) om krav til dyrehelse ved forflytning av dyr av hestefamilien og innførsel av slike dyr fra tredjestater (EFT L 157 av 10.6.1992, s. 28).60 Rådsdirektiv [98/99/EF](eu/31998l0099) av 14. desember 1998 om endring av direktiv [97/12/EF](eu/31997l0012) om endring og ajourføring av direktiv [64/432/EØF](eu/31964l0432) om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet (EFT L 358 av 31.12.1998, s. 107).61 Europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet (EUT L 55 av 28.2.2011, s. 13).
+179. Ettersom målene med denne forordningen, som er å fastsette helseregler for dyr og hygieneregler for avlsmateriale, produkter av animalsk opprinnelse, animalske biprodukter og avledede produkter i den utstrekning de ikke omfattes av særlige regler i annet unionsregelverk, og for andre materialer som kan bidra til å spre smittsomme dyresykdommer, ikke kan nås i tilstrekkelig grad av medlemsstatene og bedre kan nås på unionsplan gjennom en felles, samordnet rettslig ramme for dyrehelsen, kan Unionen treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i artikkel 5 i traktaten om Den europeiske union. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordningen ikke lenger enn det som er nødvendig for å nå disse målene.
+
+     1 EUT C 170 av 5.6.2014, s. 104.
+
+     2 Europaparlamentets holdning av 15. april 2014 (ennå ikke offentliggjort i EUT) og Rådets holdning ved første behandling av 14. desember 2015.
+
+     3 Europaparlaments- og rådsforordning [(EU) nr. 652/2014](eu/32014r0652) av 15. mai 2014 om bestemmelser om forvaltningen av utgifter i forbindelse med næringsmiddelkjeden og dyrs helse og velferd og i forbindelse med plantehelse og planteformeringsmateriale, om endring av rådsdirektiv [98/56/EF](eu/31998l0056), [2000/29/EF](eu/32000l0029) og [2008/90/EF](eu/32008l0090), europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178), [(EF) nr. 882/2004](eu/32004r0882) og [(EF) nr. 396/2005](eu/32005r0396), europaparlaments- og rådsdirektiv [2009/128/EF](eu/32009l0128) og europaparlaments- og rådsforordning [(EF) nr. 1107/2009](eu/32009r1107) og om oppheving av rådsbeslutning [66/399/EØF](eu/31966d0399), rådsbeslutning [76/894/EØF](eu/31976d0894) og rådsvedtak [2009/470/EF](eu/32009d0470) (EUT L 189 av 27.6.2014, s. 1).
+
+     4 Europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes (EUT 165 av 30.4.2004, s. 1).
+
+     5 Rådsdirektiv [89/662/EØF](eu/31989l0662) av 11. desember 1989 om veterinærkontroll ved handel innenfor Fellesskapet med sikte på gjennomføring av det indre marked (EFT L 395 av 30.12.1989, s. 13).
+
+     6 Rådsdirektiv [90/425/EØF](eu/31990l0425) av 26. juni 1990 om veterinærkontroll ved handel med visse levende dyr og produkter innenfor Unionen med sikte på gjennomføring av det indre marked (EFT L 224 av 18.8.1990, s. 29).
+
+     7 Rådsdirektiv [91/496/EØF](eu/31991l0496) av 15. juli 1991 om fastsettelse av prinsippene for organisering av veterinærkontrollene av dyr som innføres til Fellesskapet fra tredjestater, og om endring av direktiv [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425) og [90/675/EØF](eu/31990l0675) (EFT L 268 av 24.9.1991, s. 56).
+
+     8 Rådsdirektiv [97/78/EF](eu/31997l0078) av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater (EFT L 24 av 30.1.1998, s. 9).
+
+     9 Rådsforordning (EF) nr. 1/2005 av 22. desember 2004 om vern av dyr under transport og tilknyttet virksomhet, og om endring av direktiv [64/432/EØF](eu/31964l0432) og [93/119/EF](eu/31993l0119) og forordning [(EF) nr. 1255/97](eu/31997r1255) (EUT L 3 av 5.1.2005, s. 1).
+
+     10 Rådsforordning [(EF) nr. 1099/2009](eu/32009r1099) av 24. september 2009 om vern av dyr på tidspunktet for avliving (EUT L 303 av 18.11.2009, s. 1).
+
+     11 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+     12 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
+
+     13 Europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati (EFT L 147 av 31.5.2001, s. 1).
+
+     14 Europaparlaments- og rådsdirektiv [2003/99/EF](eu/32003l0099) av 17. november 2003 om overvåking av zoonoser og visse zoonotiske smittestoffer, om endring av rådsvedtak [90/424/EØF](eu/31990d0424) og om oppheving av rådsdirektiv [92/117/EØF](eu/31992l0117) (EUT L 325 av 12.12.2003, s. 31).
+
+     15 Europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160) av 17. november 2003 om bekjempelse av salmonella og andre spesifiserte zoonotiske smittestoffer som overføres gjennom næringsmidler (EUT L 325 av 12.12.2003, s. 1).
+
+     16 Europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082) av 22. oktober 2013 om alvorlige helsetrusler over landegrensene og om oppheving av vedtak nr. [2119/98/EF](eu/31998d2119) (EUT L 293 av 5.11.2013, s. 1).
+
+     17 Rådsdirektiv [2006/88/EF](eu/32006l0088) av 24. oktober 2006 om krav til dyrehelse for akvakulturdyr og produkter av disse, og om forebygging og bekjempelse av visse sykdommer hos vanndyr (EUT L 328 av 24.11.2006, s. 14).
+
+     18 Rådsdirektiv [92/65/EØF](eu/31992l0065) av 13. juli 1992 om fastsettelse av krav til dyrehelse ved handel innenfor Fellesskapet med dyr, sæd, egg og embryoer som ikke omfattes av kravene til dyrehelse fastsatt i de særlige fellesskapsregler oppført i vedlegg A del I til direktiv [90/425/EØF](eu/31990l0425) (EFT L 268 av 14.9.1992, s. 54).
+
+     19 Europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063) av 22. september 2010 om vern av dyr som brukes til vitenskapelige formål (EUT L 276 av 20.10.2010, s. 33).
+
+     20 Rådsdirektiv [64/432/EØF](eu/31964l0432) av 26. juni 1964 om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet (EFT 121 av 29.7.1964, s. 1977/64).
+
+     21 Rådsdirektiv [91/68/EØF](eu/31991l0068) av 28. januar 1991 om krav til dyrehelse ved handel med sau og geit innenfor Fellesskapet (EFT L 46 av 19.2.1991, s. 19).
+
+     22 Rådsdirektiv [2009/156/EF](eu/32009l0156) av 30. november 2009 om krav til dyrehelse ved forflytning av dyr av hestefamilien og import av slike dyr fra tredjestater (EUT L 192 av 23.7.2010, s. 1).
+
+     23 Rådsdirektiv [2009/158/EF](eu/32009l0158) av 30. november 2009 om krav til dyrehelse for handel innenfor Fellesskapet med og import fra tredjestater av fjørfe og rugeegg (EUT L 343 av 22.12.2009, s. 74).
+
+     24 Rådsvedtak [92/438/EØF](eu/31992d0438) av 13. juli 1992 om omlegging til edb-baserte veterinærrutiner ved import (SHIFT-prosjektet), om endring av direktiv [90/675/EØF](eu/31990l0675), [91/496/EØF](eu/31991l0496), [91/628/EØF](eu/31991l0628) og vedtak [90/424/EØF](eu/31990d0424) og om oppheving av vedtak [88/192/EØF](eu/31988d0192) (EFT L 243 av 25.8.1992, s. 27).
+
+     25 Kommisjonsvedtak [2003/24/EF](eu/32003d0024) av 30. desember 2002 om utvikling av et integrert datasystem for veterinærmyndighetene (EFT L 8 av 14.1.2003, s. 44).
+
+     26 Kommisjonsvedtak [2004/292/EF](eu/32004d0292) av 30. mars 2004 om innføring av TRACES-systemet og om endring av vedtak [92/486/EØF](eu/31992d0486) (EUT L 94 av 31.3.2004, s. 63).
+
+     27 Europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) av 22. juni 1998 om en informasjonsprosedyre for standarder og tekniske forskrifter samt regler for informasjonssamfunnstjenester (EFT L 204 av 21.7.1998, s. 37).
+
+     28 Rådsdirektiv [77/391/EØF](eu/31977l0391) av 17. mai 1977 om innføring av fellesskapstiltak for å utrydde brucellose, tuberkulose og leukose hos storfe (EFT L 145 av 13.6.1977, s. 44).
+
+     29 Rådsdirektiv [78/52/EØF](eu/31978l0052) av 13. desember 1977 om fastsettelse av fellesskapskriterier for nasjonale planer for en framskyndet utryddelse av brucellose, tuberkulose og smittsom leukose hos storfe (EFT L 15 av 19.1.1978, s. 34).
+
+     30 Rådsdirektiv [80/1095/EØF](eu/31980l1095) av 11. november 1980 om fastsettelse av vilkår for å utrydde klassisk svinepest på Fellesskapets territorium og holde det sykdomsfritt (EFT L 325 av 1.12.1980, s. 1).
+
+     31 Rådsdirektiv [82/894/EØF](eu/31982l0894) av 21. desember 1982 om melding om dyresykdom i Fellesskapet (EFT L 378 av 31.12.1982, s. 58).
+
+     32 Rådsdirektiv [88/407/EØF](eu/31988l0407) av 14. juni 1988 om fastsettelse av krav til dyrehelse ved handel med sæd fra storfe innenfor Fellesskapet og innførsel av slik sæd (EFT L 194 av 22.7.1988, s. 10).
+
+     33 Rådsdirektiv [89/556/EØF](eu/31989l0556) av 25. september 1989 om krav til dyrehelse ved handel med embryoer fra storfe innenfor Fellesskapet og innførsel av slike embryoer fra tredjestater (EFT L 302 av 19.10.1989, s. 1).
+
+     34 Rådsdirektiv [90/429/EØF](eu/31990l0429) av 26. juni 1990 om fastsettelse av krav til dyrehelse ved handel med rånesæd innenfor Fellesskapet og innførsel av rånesæd (EFT L 224 av 18.8.1990, s. 62).
+
+     35 Rådsvedtak [91/666/EØF](eu/31991d0666) av 11. desember 1991 om opprettelse av fellesskapsreserver av munn- og klovsykevaksiner (EFT L 368 av 31.12.1991, s. 21).
+
+     36 Rådsdirektiv [92/35/EØF](eu/31992l0035) av 29. april 1992 om fastsettelse av kontrollregler og tiltak for å bekjempe afrikansk hestepest (EFT L 157 av 10.6.1992, s. 19).
+
+     37 Rådsdirektiv [92/66/EØF](eu/31992l0066) av 14. juli 1992 om innføring av fellesskapstiltak for å bekjempe Newcastle Disease (EFT L 260 av 5.9.1992, s. 1).
+
+     38 Rådsdirektiv [92/118/EØF](eu/31992l0118) av 17. desember 1992 om fastsettelse av krav til dyrehelse og folkehelse ved handel innenfor Fellesskapet med og innførsel til Fellesskapet av produkter som ikke omfattes av nevnte krav fastsatt i særlige fellesskapsregler nevnt i vedlegg A avsnitt I i direktiv [89/662/EØF](eu/31989l0662) og, med hensyn til sykdomsfremkallende smittestoffer, i direktiv [90/425/EØF](eu/31990l0425) (EFT L 62 av 15.3.1993, s. 49).
+
+     39 Rådsdirektiv [92/119/EØF](eu/31992l0119) av 17. desember 1992 om generelle fellesskapstiltak for bekjempelse av visse dyresykdommer og særtiltak med hensyn til smittsomt blæreutslett hos gris (EFT L 62 av 15.3.1993, s. 69).
+
+     40 Rådsvedtak [95/410/EF](eu/31995d0410) av 22. juni 1995 om fastsettelse av regler for mikrobiologisk undersøkelse av slaktefjørfe bestemt for Finland og Sverige ved stikkprøver i opprinnelsesvirksomheten (EFT L 243 av 11.10.1995, s. 25).
+
+     41 Rådsdirektiv [2000/75/EF](eu/32000l0075) av 20. november 2000 om fastsettelse av særlige bestemmelser om tiltak for å bekjempe og utrydde blåtunge (EFT L 327 av 22.12.2000, s. 74).
+
+     42 Rådsvedtak [2000/258/EF](eu/32000d0258) av 20. mars 2000 om utpeking av et særskilt institutt som skal utarbeide de kriterier som er nødvendige for å standardisere serologiske prøver for kontroll av rabiesvaksiners virkning (EFT L 79 av 30.3.2000, s. 40).
+
+     43 Rådsdirektiv [2001/89/EF](eu/32001l0089) av 23. oktober 2001 om fellesskapstiltak for bekjempelse av klassisk svinepest (EFT L 316 av 1.12.2001, s. 5).
+
+     44 Rådsdirektiv [2002/60/EF](eu/32002l0060) av 27. juni 2002 om særlige bestemmelser om bekjempelse av afrikansk svinepest og om endring av direktiv [92/119/EØF](eu/31992l0119) med hensyn til ondartet smittsom griselammelse og afrikansk svinepest (EFT L 192 av 20.7.2002, s. 27).
+
+     45 Rådsdirektiv [2002/99/EF](eu/32002l0099) av 16. desember 2002 om fastsettelse av dyrehelseregler for produksjon, bearbeiding, distribusjon og innførsel av produkter av animalsk opprinnelse beregnet på konsum (EFT L 18 av 23.1.2003, s. 11).
+
+     46 Rådsdirektiv [2003/85/EF](eu/32003l0085) av 29. september 2003 om fellesskapstiltak for å bekjempe munn- og klovsyke, om oppheving av direktiv [85/511/EØF](eu/31985l0511) og vedtak [89/531/EØF](eu/31989d0531) og [91/665/EØF](eu/31991d0665), og om endring av direktiv [92/46/EØF](eu/31992l0046) (EUT L 306 av 22.11.2003, s. 1).
+
+     47 Rådsforordning [(EF) nr. 21/2004](eu/32004r0021) av 17. desember 2003 om opprettelse av et system for identifikasjon og registrering av sauer og geiter og om endring av forordning [(EF) nr. 1782/2003](eu/32003r1782) og direktiv [92/102/EØF](eu/31992l0102) og [64/432/EØF](eu/31964l0432) (EUT L 5 av 9.1.2004, s. 8).
+
+     48 Rådsdirektiv [2004/68/EF](eu/32004l0068) av 26. april 2004 om fastsettelse av dyrehelseregler for import til og transitt gjennom Fellesskapet av visse arter levende hovdyr, om endring av direktiv [90/426/EØF](eu/31990l0426) og [92/65/EØF](eu/31992l0065), og om oppheving av direktiv [72/462/EØF](eu/31972l0462) (EUT L 139 av 30.4.2004, s. 321).
+
+     49 Rådsdirektiv [2005/94/EF](eu/32005l0094) av 20. desember 2005 om fellesskapstiltak for bekjempelse av aviær influensa, og om oppheving av direktiv [92/40/EØF](eu/31992l0040) (EFT L 10 av 14.1.2006, s. 16).
+
+     50 Rådsdirektiv [2008/71/EF](eu/32008l0071) av 15. juli 2008 om identifikasjon og registrering av svin (EUT L 213 av 8.8.2008, s. 31).
+
+     51 Europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998) (EUT L 178 av 28.6.2013, s. 1).
+
+     52 Europaparlaments- og rådsforordning [(EF) nr. 1760/2000](eu/32000r1760) av 17. juli 2000 om opprettelse av et system for identifikasjon og registrering av storfe og om merking av storfekjøtt og storfekjøttprodukter og om oppheving av rådsforordning [(EF) nr. 820/97](eu/31997r0820) (EFT L 204 av 11.8.2000, s. 1).
+
+     53 Rådsvedtak [78/642/EØF](eu/31978d0642) av 25. juli 1978 om helseverntiltak overfor republikken Botswana (EFT L 213 av 3.8.1978, s. 15).
+
+     54 Rådsdirektiv [79/110/EØF](eu/31979l0110) av 24. januar 1979 om tillatelse til Den italienske republikk til å utsette oversendelsen og iverksettingen av sine nasjonale planer for en framskyndet utryddelse av brucellose og tuberkulose hos storfe (EFT L 29 av 3.2.1979, s. 24).
+
+     55 Rådsdirektiv [81/6/EØF](eu/31981l0006) av 1. januar 1981 om tillatelse til Republikken Hellas til å oversende og iverksette sine nasjonale planer for en framskyndet utryddelse av brucellose og tuberkulose hos storfe (EFT L 14 av 16.1.1981, s. 22).
+
+     56 Rådsvedtak [89/455/EØF](eu/31989d0455) av 24. juli 1989 om innføring av et fellesskapstiltak for å opprette pilotprosjekter til bekjempelse av rabies med sikte på å utrydde eller forebygge sykdommen (EFT L 223 av 2.8.1989, s. 19).
+
+     57 Rådsdirektiv [90/423/EØF](eu/31990l0423) av 26. juni 1990 om endring av direktiv [85/511/EØF](eu/31985l0511) om innføring av fellesskapstiltak for å bekjempe munn- og klovsyke, direktiv [64/432/EØF](eu/31964l0432) om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet og direktiv [72/462/EØF](eu/31972l0462) om helseproblemer og dyrehelseproblemer ved innførsel av storfe og svin samt ferskt kjøtt eller kjøttprodukter fra tredjestater (EFT L 224 av 18.8.1990, s. 13).
+
+     58 Rådsvedtak [90/678/EØF](eu/31990d0678) av 13. desember 1990 om godkjenning av visse deler av Fellesskapets territorium som offisielt fritt for svinepest eller fritt for svinepest (EFT L 373 av 31.12.1990, s. 29).
+
+     59 Rådsdirektiv [92/36/EØF](eu/31992l0036) av 29. april 1992 om endring, med hensyn til afrikansk hestepest, av direktiv [90/426/EØF](eu/31990l0426) om krav til dyrehelse ved forflytning av dyr av hestefamilien og innførsel av slike dyr fra tredjestater (EFT L 157 av 10.6.1992, s. 28).
+
+     60 Rådsdirektiv [98/99/EF](eu/31998l0099) av 14. desember 1998 om endring av direktiv [97/12/EF](eu/31997l0012) om endring og ajourføring av direktiv [64/432/EØF](eu/31964l0432) om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet (EFT L 358 av 31.12.1998, s. 107).
+
+     61 Europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet (EUT L 55 av 28.2.2011, s. 13).
 
 VEDTATT DENNE FORORDNINGEN:
 
@@ -863,31 +1041,85 @@ Formål, mål, virkeområde og definisjoner
 
 Formål og mål
 
-1\. Denne forordningen fastsetter regler for forebygging og bekjempelse av dyresykdommer som kan overføres til dyr eller mennesker.Reglene gjelderprioritering og kategorisering av sykdommer av betydning i Unionen og fastsettelse av ansvarsområder for dyrehelse (del I: artikkel 1–17),tidlig påvisning, melding og rapportering av sykdommer, overvåking, utryddelsesprogrammer og sykdomsfri status (del II: artikkel 18–42),bevissthet om, beredskap mot og bekjempelse av sykdom (del III: artikkel 43–83),registrering og godkjenning av anlegg og transportører, forflytning av og sporbarhet for dyr, avlsmateriale og produkter av animalsk opprinnelse i Unionen (del IV: artikkel 84–228, og del VI: artikkel 244–248 og 252–256),innførsel av dyr, avlsmateriale og produkter av animalsk opprinnelse til Unionen og eksport av slike forsendelser fra Unionen (del V: artikkel 229–243, og del VI: artikkel 244–246 og 252–256),ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en annen medlemsstat eller et tredjeland eller et territorium (del VI: artikkel 244–256),nødtiltak som skal treffes ved en nødssituasjon som skyldes sykdom (del VII: artikkel 257–262).
+1\. Denne forordningen fastsetter regler for forebygging og bekjempelse av dyresykdommer som kan overføres til dyr eller mennesker.
 
-2\. Reglene nevnt i nr. 1har som mål å sikrebedre dyrehelse for å bidra til en bærekraftig landbruks- og akvakulturproduksjon i Unionen,at det indre marked fungerer på en tilfredsstillende måte,en reduksjon av skadevirkningene på dyrehelsen, folkehelsen og miljøet avvisse sykdommer,tiltakene som treffes for å forebygge og bekjempe sykdommer,tar hensyn tilforholdet mellom dyrehelsen ogfolkehelsen,miljøet, herunder biologisk mangfold og verdifulle genetiske ressurser, samt virkningene av klimaendring,næringsmiddel- og fôrtrygghet,dyrevelferd, herunder at dyr skal forskånes mot all smerte, belastning og lidelse som kan unngås,antimikrobiell resistens,matvaresikkerhet,økonomiske, samfunnsmessige, kulturelle og miljømessige konsekvenser som følger av anvendelsen av tiltak for forebygging og bekjempelse av sykdom,relevante internasjonale standarder.
+Reglene gjelder
+
+1. prioritering og kategorisering av sykdommer av betydning i Unionen og fastsettelse av ansvarsområder for dyrehelse (del I: artikkel 1–17),
+2. tidlig påvisning, melding og rapportering av sykdommer, overvåking, utryddelsesprogrammer og sykdomsfri status (del II: artikkel 18–42),
+3. bevissthet om, beredskap mot og bekjempelse av sykdom (del III: artikkel 43–83),
+4. registrering og godkjenning av anlegg og transportører, forflytning av og sporbarhet for dyr, avlsmateriale og produkter av animalsk opprinnelse i Unionen (del IV: artikkel 84–228, og del VI: artikkel 244–248 og 252–256),
+5. innførsel av dyr, avlsmateriale og produkter av animalsk opprinnelse til Unionen og eksport av slike forsendelser fra Unionen (del V: artikkel 229–243, og del VI: artikkel 244–246 og 252–256),
+6. ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en annen medlemsstat eller et tredjeland eller et territorium (del VI: artikkel 244–256),
+7. nødtiltak som skal treffes ved en nødssituasjon som skyldes sykdom (del VII: artikkel 257–262).
+
+2\. Reglene nevnt i nr. 1
+
+1. har som mål å sikre
+
+   1. bedre dyrehelse for å bidra til en bærekraftig landbruks- og akvakulturproduksjon i Unionen,
+   2. at det indre marked fungerer på en tilfredsstillende måte,
+   3. en reduksjon av skadevirkningene på dyrehelsen, folkehelsen og miljøet av
+
+      - visse sykdommer,
+      - tiltakene som treffes for å forebygge og bekjempe sykdommer,
+2. tar hensyn til
+
+   1. forholdet mellom dyrehelsen og
+
+      - folkehelsen,
+      - miljøet, herunder biologisk mangfold og verdifulle genetiske ressurser, samt virkningene av klimaendring,
+      - næringsmiddel- og fôrtrygghet,
+      - dyrevelferd, herunder at dyr skal forskånes mot all smerte, belastning og lidelse som kan unngås,
+      - antimikrobiell resistens,
+      - matvaresikkerhet,
+   2. økonomiske, samfunnsmessige, kulturelle og miljømessige konsekvenser som følger av anvendelsen av tiltak for forebygging og bekjempelse av sykdom,
+   3. relevante internasjonale standarder.
 
 ###### Artikkel 2
 
 Virkeområde
 
-1\. Denne forordningen får anvendelse påholdte og viltlevende dyr,avlsmateriale,produkter av animalsk opprinnelse,animalske biprodukter og avledede produkter, uten hensyn til reglene fastsatt i forordning [(EF) nr. 1069/2009](eu/32009r1069),lokaler, transportmidler, utstyr og alle andre smitteveier og materialer som bidrar eller kan bidra til å spre smittsomme dyresykdommer.
+1\. Denne forordningen får anvendelse på
 
-2\. Denne forordningen får anvendelse på smittsomme sykdommer, herunder zoonoser, uten å berøre reglene fastsatt ibeslutning nr. [1082/2013/EU](eu/32013d1082),forordning [(EF) nr. 999/2001](eu/32001r0999),direktiv [2003/99/EF](eu/32003l0099),forordning [(EF) nr. 2160/2003](eu/32003r2160).
+1. holdte og viltlevende dyr,
+2. avlsmateriale,
+3. produkter av animalsk opprinnelse,
+4. animalske biprodukter og avledede produkter, uten hensyn til reglene fastsatt i forordning [(EF) nr. 1069/2009](eu/32009r1069),
+5. lokaler, transportmidler, utstyr og alle andre smitteveier og materialer som bidrar eller kan bidra til å spre smittsomme dyresykdommer.
+
+2\. Denne forordningen får anvendelse på smittsomme sykdommer, herunder zoonoser, uten å berøre reglene fastsatt i
+
+1. beslutning nr. [1082/2013/EU](eu/32013d1082),
+2. forordning [(EF) nr. 999/2001](eu/32001r0999),
+3. direktiv [2003/99/EF](eu/32003l0099),
+4. forordning [(EF) nr. 2160/2003](eu/32003r2160).
 
 ###### Artikkel 3
 
 Virkeområde for del IV, V og VI
 
-1\. Del IV avdeling I (artikkel 84–171) får anvendelse pålanddyr og andre dyr enn landdyr som kan overføre sykdommer som rammer landdyr,avlsmateriale fra landdyr,produkter av animalsk opprinnelse fra landdyr.
+1\. Del IV avdeling I (artikkel 84–171) får anvendelse på
 
-2\. Del IV avdeling II (artikkel 172–226) får anvendelse påakvatiske dyr og andre dyr enn akvatiske dyr som kan overføre sykdommer som rammer akvatiske dyr,produkter av animalsk opprinnelse fra akvatiske dyr.
+1. landdyr og andre dyr enn landdyr som kan overføre sykdommer som rammer landdyr,
+2. avlsmateriale fra landdyr,
+3. produkter av animalsk opprinnelse fra landdyr.
 
-3\. Del IV avdeling III (artikkel 227 og 228) får anvendelse påandre dyr,avlsmateriale og produkter av animalsk opprinnelse fra andre dyr nevnt i bokstav a).
+2\. Del IV avdeling II (artikkel 172–226) får anvendelse på
+
+1. akvatiske dyr og andre dyr enn akvatiske dyr som kan overføre sykdommer som rammer akvatiske dyr,
+2. produkter av animalsk opprinnelse fra akvatiske dyr.
+
+3\. Del IV avdeling III (artikkel 227 og 228) får anvendelse på
+
+1. andre dyr,
+2. avlsmateriale og produkter av animalsk opprinnelse fra andre dyr nevnt i bokstav a).
 
 4\. Del IV og V får ikke anvendelse på ikke-kommersielle forflytninger av kjæledyr som nevnt i nr. 6 i denne artikkelen, eller på ikke-kommersielle forflytninger av kjæledyr innenfor en medlemsstat.
 
-5\. Andre forflytninger av kjæledyr enn ikke-kommersielle forflytninger skal oppfylle kravene til dyrehelse som fastsatt i del IV og V.Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder nødvendige tilpasninger for å sikre at del IV og V får korrekt anvendelse på kjæledyr, særlig for å ta hensyn til at kjæledyr holdes i husholdninger av kjæledyrholdere.
+5\. Andre forflytninger av kjæledyr enn ikke-kommersielle forflytninger skal oppfylle kravene til dyrehelse som fastsatt i del IV og V.
+
+Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder nødvendige tilpasninger for å sikre at del IV og V får korrekt anvendelse på kjæledyr, særlig for å ta hensyn til at kjæledyr holdes i husholdninger av kjæledyrholdere.
 
 6\. Del VI får bare anvendelse på ikke-kommersielle forflytninger av kjæledyr som oppfyller kravene i artikkel 245 og 246 med hensyn til det høyeste antallet dyr som kan ledsage sin eier, og det høyeste antallet dager som kan forløpe mellom eierens forflytning og forflytningen av dyret.
 
@@ -895,16 +1127,142 @@ Virkeområde for del IV, V og VI
 
 Definisjoner
 
-I denne forordningen menes med«dyr» virveldyr og virvelløse dyr,«landdyr» fugler, landpattedyr, bier og humler,«akvatiske dyr» dyr i alle livsstadier, herunder egg, sæd og gameter, avfisk som tilhører overklassen *Agnatha* og klassene *Chondrichthyes*, *Sarcopterygii* og *Actinopterygii,*bløtdyr som lever i vann, og som tilhører rekken *Mollusca*,krepsdyr som lever i vann, og som tilhører underrekken *Crustacea*,«andre dyr» dyr av andre arter enn dem som faller inn under definisjonen av landdyr eller akvatiske dyr,«holdte dyr» dyr som holdes av mennesker, herunder, dersom det gjelder akvatiske dyr, akvakulturdyr,«akvakultur» hold av akvatiske dyr der dyrene forblir én eller flere fysiske eller juridiske personers eiendom i alle oppdretts- eller dyrkingsfasene til de er høstet, bortsett fra høsting eller fangst for konsum av viltlevende akvatiske dyr som deretter holdes midlertidig i påvente av slakting uten å bli fôret,«akvakulturdyr» alle akvatiske dyr som er gjenstand for akvakultur,«viltlevende dyr» dyr som ikke er holdte dyr,«fjørfe» fugler som oppdrettes eller holdes i fangenskap med sikte påproduksjon avkjøtt,konsumegg,andre produkter,gjenoppbygging av fugleviltbestand,oppdrett av fugler som anvendes for produksjonstypene nevnt i bokstav a) og b),«fugler i fangenskap» andre fugler enn fjørfe som holdes i fangenskap av andre årsaker enn nevnt i nr. 9, herunder slike som holdes med henblikk på skuer, løp, utstillinger, konkurranser, avl eller salg,«kjæledyr» et holdt dyr av artene oppført i vedlegg I som holdes for private ikke-kommersielle formål,«kjæledyrholder» en fysisk person, som også kan være en kjæledyreier som holder et kjæledyr,«kjæledyreier» en fysisk person som er angitt som eier i identifikasjonsdokumentet nevnt i artikkel 247 bokstav c), artikkel 248 nr. 2 bokstav c), artikkel 249 nr. 1 bokstav c) og artikkel 250 nr. 2 bokstav c),«ikke-kommersiell forflytning» enhver forflytning av et kjæledyr som ledsager sin eier, oghvis formål ikke er salg eller annen form for overdragelse av eiendomsretten til det berørte kjæledyret, ogsom inngår i kjæledyreierens forflytning,enten under dennes direkte ansvar ellerunder ansvaret til en person med fullmakt dersom kjæledyret er fysisk atskilt fra sin eier,«person med fullmakt» enhver fysisk person som har skriftlig tillatelse fra kjæledyreieren til å foreta den ikke-kommersielle forflytningen av kjæledyret på kjæledyreierens vegne,«sykdom» forekomst av infeksjoner og parasittangrep hos dyr, med eller uten kliniske eller patologiske symptomer, forårsaket av én eller flere sykdomsagenser,«sykdomsagens» et patogen som kan overføres til dyr eller mennesker, og som kan forårsake sykdom hos dyr,«listeførte sykdommer» sykdommer som er oppført på listen i samsvar med artikkel 5 nr. 1,«sykdomsprofil» kriteriene for en sykdom i samsvar med artikkel 7 bokstav a),«listeførte arter» en dyreart eller gruppe dyrearter som er oppført på listen i samsvar med artikkel 8 nr. 2, eller dersom det gjelder nye sykdommer, en dyreart eller gruppe dyrearter som oppfyller kriteriene for listeførte arter fastsatt i artikkel 8 nr. 2,«fare» en sykdomsagens i eller en tilstand hos et dyr eller et produkt som kan ha en skadevirkning på menneskers eller dyrs helse,«risiko» sannsynligheten for at en skadevirkning på dyrehelsen eller folkehelsen oppstår, og det sannsynlige omfanget av de biologiske og økonomiske konsekvensene av en slik skadevirkning,«biosikkerhet» summen av driftsmessige og fysiske tiltak som har som formål å begrense risikoen for innføring, utvikling og spredning av sykdommer til, fra og ien dyrepopulasjon elleret anlegg, en sone, et segment, transportmiddel eller et hvilket som helst annet lokale, en eiendom eller et sted,«driftsansvarlig» enhver fysisk eller juridisk person som har ansvar for dyr eller produkter, herunder for et begrenset tidsrom, med unntak av kjæledyrholdere og veterinærer,«transportør» en driftsansvarlig som transporterer dyr for egen regning eller for tredjeparts regning,«fagperson innen dyrefag» en fysisk eller juridisk person som i sitt arbeid kommer i kontakt med dyr eller produkter, bortsett fra driftsansvarlige og veterinærer,«anlegg» ethvert lokale, enhver bygning eller ved utedrift ethvert miljø eller sted der dyr eller avlsmateriale holdes enten midlertidig eller permanent, med unntak avhusholdninger som holder kjæledyr,veterinærpraksiser eller -klinikker,«avlsmateriale»sæd, oocytter og embryoer beregnet på kunstig reproduksjon,rugeegg,«produkter av animalsk opprinnelse»næringsmidler av animalsk opprinnelse, herunder honning og blod,levende muslinger, levende pigghuder, levende sekkedyr og levende sjøsnegler beregnet på konsum, ogandre dyr enn dyrene nevnt i bokstav b), som skal klargjøres med sikte på å leveres levende til sluttforbrukeren,«animalske biprodukter» hele kropper eller deler av dyr, produkter av animalsk opprinnelse eller andre produkter fra dyr, som ikke er beregnet på konsum, herunder avlsmateriale,«avledede produkter» produkter som er framstilt ved én eller flere behandlinger, omdanninger eller trinn i bearbeidingen av animalske biprodukter,«produkter»avlsmateriale,produkter av animalsk opprinnelse,animalske biprodukter og avledede produkter,►**M1**«offentlig kontroll» enhver form for kontroll som gjennomføres i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)\*,
-◄**M1**«helsestatus» sykdomsstatus med hensyn til listeførte sykdommer som er relevante for en bestemt listeført art, når det gjelderet dyr,dyr ien epidemiologisk enhet,et anlegg,en sone,et segment,en medlemsstat,et tredjeland eller et territorium,«sone»for landdyr, et område i en medlemsstat, et tredjeland eller et territorium med en nøyaktig geografisk avgrensning, med en delpopulasjon av dyr med en særskilt helsestatus med hensyn til én eller flere bestemte sykdommer som er gjenstand for hensiktsmessige tiltak for overvåking, sykdomsbekjempelse og biosikkerhet,for akvatiske dyr, et sammenhengende hydrologisk system med en særskilt helsestatus med hensyn til én eller flere bestemte sykdommer, som utgjør et område og kan beskrives på en av følgende måter:et helt nedbørfelt fra en vannveis kilde til elvemunningen eller innsjøen,mer enn ett nedbørfelt,en del av et nedbørfelt fra en vannveis kilde til en barriere som hindrer innføring av én eller flere bestemte sykdommer,en del av et kystområde med en nøyaktig geografisk avgrensning,en elvemunning med nøyaktig geografisk avgrensning,«nedbørfelt» et landområde eller en forsenkning i terrenget som avgrenses av naturlige elementer i landskapet som åser eller fjell, og som alt vann renner ut i,«segment» en delpopulasjon av dyr på ett eller flere anlegg, og når det gjelder akvatiske dyr, i ett eller flere akvakulturanlegg, som omfattes av et felles forvaltningssystem for biosikkerhet med en særskilt helsestatus med hensyn til én eller flere bestemte sykdommer som omfattes av hensiktsmessige tiltak for overvåking, sykdomsbekjempelse og biosikkerhet,«karantene» isolasjon av dyr slik at de ikke har noen direkte eller indirekte kontakt med dyr utenfor den epidemiologiske enheten, for å sikre at det ikke forekommer spredning av én eller flere angitte sykdommer mens de isolerte dyrene er under observasjon i et nærmere fastsatt tidsrom og ved behov gjennomgår undersøkelser og behandling,«epidemiologisk enhet» en gruppe dyr som har like stor sannsynlighet for å bli eksponert for en sykdomsagens,«utbrudd» offisielt bekreftet forekomst av en listeført sykdom eller en ny sykdom hos ett eller flere dyr på et anlegg eller annet sted der dyr holdes eller befinner seg,«restriksjonssone» en sone der det gjelder restriksjoner på forflytninger av visse dyr eller produkter og andre tiltak for sykdomsbekjempelse for å hindre spredning av en bestemt sykdom til områder som ikke er underlagt restriksjoner; en restriksjonssone kan, dersom det er relevant, omfatte verne- og overvåkingssoner,«vernesone» en sone rundt og iberegnet stedet for et utbrudd, der tiltak for sykdomsbekjempelse anvendes for å hindre at sykdommen sprer seg fra denne sonen,«overvåkingssone» en sone som er opprettet rundt vernesonen, og der tiltak for sykdomsbekjempelse anvendes for å hindre at sykdommen sprer seg fra vernesonen,«rugeegg» egg lagt av fjørfe eller fugler i fangenskap, beregnet på utklekking,«hov- og klovdyr» dyrene oppført i vedlegg III,«anlegg for avlsmateriale»i forbindelse med sæd, et anlegg der sæd tas ut, produseres, bearbeides eller oppbevares,i forbindelse med oocytter og embryoer, en gruppe fagpersoner eller en bygning som overvåkes av en ansvarlig gruppeveterinær som er kvalifisert til å ta ut, produsere, bearbeide og oppbevare oocytter og embryoer,i forbindelse med rugeegg, et rugeri,«rugeri» et anlegg der egg samles inn, oppbevares, utruges og utklekkes med henblikk på levering avrugeegg,daggamle kyllinger eller nyklekte unger av andre arter,«avgrenset anlegg» et fast, geografisk avgrenset anlegg som er opprettet på frivillig grunnlag og godkjent for forflytning av dyr somholdes eller avles med henblikk på utstillinger, utdanning, artsbevaring eller forskning,holdes avgrenset og atskilt fra det omliggende miljøet, og somer gjenstand for overvåking av dyrehelsen og biosikkerhetstiltak,«oppsamling» oppsamling av landdyr holdt av mennesker, fra mer enn ett anlegg for et kortere tidsrom enn den påkrevde oppholdsperioden for den berørte dyrearten,«oppholdsperiode» den minsteperioden som er nødvendig for å sikre at et dyr som er innført i et anlegg, ikke har dårligere helsestatus enn dyrene på det aktuelle anlegget,
-►**M1**«TRACES» en systemkomponent som integreres i IMSOC som nevnt i artikkel 131–136 i forordning (EU) 2017/625,
-◄**M1**«næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr» et næringsmiddelforetak godkjent i samsvar med artikkel 179,
-►**M1**«offentlig veterinær» en offentlig veterinær som definert i artikkel 3 nr. 32 i forordning [(EU) 2017/625](eu/32017r0625),
-◄**M1**«offentlig veterinær i et tredjeland eller et territorium» en veterinær i et tredjeland eller et territorium som tilsvarer en offentlig veterinær som nevnt i nr. 53,
-►**M1**«vedkommende myndighet» en medlemsstats sentrale veterinærmyndighet som har ansvar for å organisere offentlig kontroll og all annen offentlig virksomhet i samsvar med denne forordning og forordning [(EU) 2017/625](eu/32017r0625), eller enhver annen myndighet som dette ansvaret er delegert til,
-◄**M1**«vedkommende myndighet i et tredjeland eller et territorium» myndigheten i et tredjeland eller et territorium som tilsvarer vedkommende myndigheter nevnt i nr. 55.
+I denne forordningen menes med
 
-►**M1** \* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).
+1. «dyr» virveldyr og virvelløse dyr,
+2. «landdyr» fugler, landpattedyr, bier og humler,
+3. «akvatiske dyr» dyr i alle livsstadier, herunder egg, sæd og gameter, av
+
+   1. fisk som tilhører overklassen *Agnatha* og klassene *Chondrichthyes*, *Sarcopterygii* og *Actinopterygii,*
+   2. bløtdyr som lever i vann, og som tilhører rekken *Mollusca*,
+   3. krepsdyr som lever i vann, og som tilhører underrekken *Crustacea*,
+4. «andre dyr» dyr av andre arter enn dem som faller inn under definisjonen av landdyr eller akvatiske dyr,
+5. «holdte dyr» dyr som holdes av mennesker, herunder, dersom det gjelder akvatiske dyr, akvakulturdyr,
+6. «akvakultur» hold av akvatiske dyr der dyrene forblir én eller flere fysiske eller juridiske personers eiendom i alle oppdretts- eller dyrkingsfasene til de er høstet, bortsett fra høsting eller fangst for konsum av viltlevende akvatiske dyr som deretter holdes midlertidig i påvente av slakting uten å bli fôret,
+7. «akvakulturdyr» alle akvatiske dyr som er gjenstand for akvakultur,
+8. «viltlevende dyr» dyr som ikke er holdte dyr,
+9. «fjørfe» fugler som oppdrettes eller holdes i fangenskap med sikte på
+
+   1. produksjon av
+
+      1. kjøtt,
+      2. konsumegg,
+      3. andre produkter,
+   2. gjenoppbygging av fugleviltbestand,
+   3. oppdrett av fugler som anvendes for produksjonstypene nevnt i bokstav a) og b),
+10. «fugler i fangenskap» andre fugler enn fjørfe som holdes i fangenskap av andre årsaker enn nevnt i nr. 9, herunder slike som holdes med henblikk på skuer, løp, utstillinger, konkurranser, avl eller salg,
+11. «kjæledyr» et holdt dyr av artene oppført i vedlegg I som holdes for private ikke-kommersielle formål,
+12. «kjæledyrholder» en fysisk person, som også kan være en kjæledyreier som holder et kjæledyr,
+13. «kjæledyreier» en fysisk person som er angitt som eier i identifikasjonsdokumentet nevnt i artikkel 247 bokstav c), artikkel 248 nr. 2 bokstav c), artikkel 249 nr. 1 bokstav c) og artikkel 250 nr. 2 bokstav c),
+14. «ikke-kommersiell forflytning» enhver forflytning av et kjæledyr som ledsager sin eier, og
+
+    1. hvis formål ikke er salg eller annen form for overdragelse av eiendomsretten til det berørte kjæledyret, og
+    2. som inngår i kjæledyreierens forflytning,
+
+       1. enten under dennes direkte ansvar eller
+       2. under ansvaret til en person med fullmakt dersom kjæledyret er fysisk atskilt fra sin eier,
+15. «person med fullmakt» enhver fysisk person som har skriftlig tillatelse fra kjæledyreieren til å foreta den ikke-kommersielle forflytningen av kjæledyret på kjæledyreierens vegne,
+16. «sykdom» forekomst av infeksjoner og parasittangrep hos dyr, med eller uten kliniske eller patologiske symptomer, forårsaket av én eller flere sykdomsagenser,
+17. «sykdomsagens» et patogen som kan overføres til dyr eller mennesker, og som kan forårsake sykdom hos dyr,
+18. «listeførte sykdommer» sykdommer som er oppført på listen i samsvar med artikkel 5 nr. 1,
+19. «sykdomsprofil» kriteriene for en sykdom i samsvar med artikkel 7 bokstav a),
+20. «listeførte arter» en dyreart eller gruppe dyrearter som er oppført på listen i samsvar med artikkel 8 nr. 2, eller dersom det gjelder nye sykdommer, en dyreart eller gruppe dyrearter som oppfyller kriteriene for listeførte arter fastsatt i artikkel 8 nr. 2,
+21. «fare» en sykdomsagens i eller en tilstand hos et dyr eller et produkt som kan ha en skadevirkning på menneskers eller dyrs helse,
+22. «risiko» sannsynligheten for at en skadevirkning på dyrehelsen eller folkehelsen oppstår, og det sannsynlige omfanget av de biologiske og økonomiske konsekvensene av en slik skadevirkning,
+23. «biosikkerhet» summen av driftsmessige og fysiske tiltak som har som formål å begrense risikoen for innføring, utvikling og spredning av sykdommer til, fra og i
+
+    1. en dyrepopulasjon eller
+    2. et anlegg, en sone, et segment, transportmiddel eller et hvilket som helst annet lokale, en eiendom eller et sted,
+24. «driftsansvarlig» enhver fysisk eller juridisk person som har ansvar for dyr eller produkter, herunder for et begrenset tidsrom, med unntak av kjæledyrholdere og veterinærer,
+25. «transportør» en driftsansvarlig som transporterer dyr for egen regning eller for tredjeparts regning,
+26. «fagperson innen dyrefag» en fysisk eller juridisk person som i sitt arbeid kommer i kontakt med dyr eller produkter, bortsett fra driftsansvarlige og veterinærer,
+27. «anlegg» ethvert lokale, enhver bygning eller ved utedrift ethvert miljø eller sted der dyr eller avlsmateriale holdes enten midlertidig eller permanent, med unntak av
+
+    1. husholdninger som holder kjæledyr,
+    2. veterinærpraksiser eller -klinikker,
+28. «avlsmateriale»
+
+    1. sæd, oocytter og embryoer beregnet på kunstig reproduksjon,
+    2. rugeegg,
+29. «produkter av animalsk opprinnelse»
+
+    1. næringsmidler av animalsk opprinnelse, herunder honning og blod,
+    2. levende muslinger, levende pigghuder, levende sekkedyr og levende sjøsnegler beregnet på konsum, og
+    3. andre dyr enn dyrene nevnt i bokstav b), som skal klargjøres med sikte på å leveres levende til sluttforbrukeren,
+30. «animalske biprodukter» hele kropper eller deler av dyr, produkter av animalsk opprinnelse eller andre produkter fra dyr, som ikke er beregnet på konsum, herunder avlsmateriale,
+31. «avledede produkter» produkter som er framstilt ved én eller flere behandlinger, omdanninger eller trinn i bearbeidingen av animalske biprodukter,
+32. «produkter»
+
+    1. avlsmateriale,
+    2. produkter av animalsk opprinnelse,
+    3. animalske biprodukter og avledede produkter,
+
+    ►**M1**
+33. «offentlig kontroll» enhver form for kontroll som gjennomføres i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)\*,
+    ◄**M1**
+34. «helsestatus» sykdomsstatus med hensyn til listeførte sykdommer som er relevante for en bestemt listeført art, når det gjelder
+
+    1. et dyr,
+    2. dyr i
+
+       1. en epidemiologisk enhet,
+       2. et anlegg,
+       3. en sone,
+       4. et segment,
+       5. en medlemsstat,
+       6. et tredjeland eller et territorium,
+35. «sone»
+
+    1. for landdyr, et område i en medlemsstat, et tredjeland eller et territorium med en nøyaktig geografisk avgrensning, med en delpopulasjon av dyr med en særskilt helsestatus med hensyn til én eller flere bestemte sykdommer som er gjenstand for hensiktsmessige tiltak for overvåking, sykdomsbekjempelse og biosikkerhet,
+    2. for akvatiske dyr, et sammenhengende hydrologisk system med en særskilt helsestatus med hensyn til én eller flere bestemte sykdommer, som utgjør et område og kan beskrives på en av følgende måter:
+
+       1. et helt nedbørfelt fra en vannveis kilde til elvemunningen eller innsjøen,
+       2. mer enn ett nedbørfelt,
+       3. en del av et nedbørfelt fra en vannveis kilde til en barriere som hindrer innføring av én eller flere bestemte sykdommer,
+       4. en del av et kystområde med en nøyaktig geografisk avgrensning,
+       5. en elvemunning med nøyaktig geografisk avgrensning,
+36. «nedbørfelt» et landområde eller en forsenkning i terrenget som avgrenses av naturlige elementer i landskapet som åser eller fjell, og som alt vann renner ut i,
+37. «segment» en delpopulasjon av dyr på ett eller flere anlegg, og når det gjelder akvatiske dyr, i ett eller flere akvakulturanlegg, som omfattes av et felles forvaltningssystem for biosikkerhet med en særskilt helsestatus med hensyn til én eller flere bestemte sykdommer som omfattes av hensiktsmessige tiltak for overvåking, sykdomsbekjempelse og biosikkerhet,
+38. «karantene» isolasjon av dyr slik at de ikke har noen direkte eller indirekte kontakt med dyr utenfor den epidemiologiske enheten, for å sikre at det ikke forekommer spredning av én eller flere angitte sykdommer mens de isolerte dyrene er under observasjon i et nærmere fastsatt tidsrom og ved behov gjennomgår undersøkelser og behandling,
+39. «epidemiologisk enhet» en gruppe dyr som har like stor sannsynlighet for å bli eksponert for en sykdomsagens,
+40. «utbrudd» offisielt bekreftet forekomst av en listeført sykdom eller en ny sykdom hos ett eller flere dyr på et anlegg eller annet sted der dyr holdes eller befinner seg,
+41. «restriksjonssone» en sone der det gjelder restriksjoner på forflytninger av visse dyr eller produkter og andre tiltak for sykdomsbekjempelse for å hindre spredning av en bestemt sykdom til områder som ikke er underlagt restriksjoner; en restriksjonssone kan, dersom det er relevant, omfatte verne- og overvåkingssoner,
+42. «vernesone» en sone rundt og iberegnet stedet for et utbrudd, der tiltak for sykdomsbekjempelse anvendes for å hindre at sykdommen sprer seg fra denne sonen,
+43. «overvåkingssone» en sone som er opprettet rundt vernesonen, og der tiltak for sykdomsbekjempelse anvendes for å hindre at sykdommen sprer seg fra vernesonen,
+44. «rugeegg» egg lagt av fjørfe eller fugler i fangenskap, beregnet på utklekking,
+45. «hov- og klovdyr» dyrene oppført i vedlegg III,
+46. «anlegg for avlsmateriale»
+
+    1. i forbindelse med sæd, et anlegg der sæd tas ut, produseres, bearbeides eller oppbevares,
+    2. i forbindelse med oocytter og embryoer, en gruppe fagpersoner eller en bygning som overvåkes av en ansvarlig gruppeveterinær som er kvalifisert til å ta ut, produsere, bearbeide og oppbevare oocytter og embryoer,
+    3. i forbindelse med rugeegg, et rugeri,
+47. «rugeri» et anlegg der egg samles inn, oppbevares, utruges og utklekkes med henblikk på levering av
+
+    1. rugeegg,
+    2. daggamle kyllinger eller nyklekte unger av andre arter,
+48. «avgrenset anlegg» et fast, geografisk avgrenset anlegg som er opprettet på frivillig grunnlag og godkjent for forflytning av dyr som
+
+    1. holdes eller avles med henblikk på utstillinger, utdanning, artsbevaring eller forskning,
+    2. holdes avgrenset og atskilt fra det omliggende miljøet, og som
+    3. er gjenstand for overvåking av dyrehelsen og biosikkerhetstiltak,
+49. «oppsamling» oppsamling av landdyr holdt av mennesker, fra mer enn ett anlegg for et kortere tidsrom enn den påkrevde oppholdsperioden for den berørte dyrearten,
+50. «oppholdsperiode» den minsteperioden som er nødvendig for å sikre at et dyr som er innført i et anlegg, ikke har dårligere helsestatus enn dyrene på det aktuelle anlegget,
+    ►**M1**
+51. «TRACES» en systemkomponent som integreres i IMSOC som nevnt i artikkel 131–136 i forordning (EU) 2017/625,
+    ◄**M1**
+52. «næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr» et næringsmiddelforetak godkjent i samsvar med artikkel 179,
+    ►**M1**
+53. «offentlig veterinær» en offentlig veterinær som definert i artikkel 3 nr. 32 i forordning [(EU) 2017/625](eu/32017r0625),
+    ◄**M1**
+54. «offentlig veterinær i et tredjeland eller et territorium» en veterinær i et tredjeland eller et territorium som tilsvarer en offentlig veterinær som nevnt i nr. 53,
+    ►**M1**
+55. «vedkommende myndighet» en medlemsstats sentrale veterinærmyndighet som har ansvar for å organisere offentlig kontroll og all annen offentlig virksomhet i samsvar med denne forordning og forordning [(EU) 2017/625](eu/32017r0625), eller enhver annen myndighet som dette ansvaret er delegert til,
+    ◄**M1**
+56. «vedkommende myndighet i et tredjeland eller et territorium» myndigheten i et tredjeland eller et territorium som tilsvarer vedkommende myndigheter nevnt i nr. 55.
+
+►**M1**
+
+\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).
 
 ►**M1**
 
@@ -915,11 +1273,35 @@ Listeførte sykdommer, nye sykdommer og listeførte arter
 
 Listeføring av sykdommer
 
-1\. De sykdomsspesifikke reglene for forebygging og bekjempelse av sykdommer som er fastsatt i denne forordningen, gjelder forlisteførte sykdommer, nærmere bestemtmunn- og klovsyke,klassisk svinepest,afrikansk svinepest,høypatogen aviær influensa,afrikansk hestepest ogde listeførte sykdommene angitt i listen i vedlegg II.
+1\. De sykdomsspesifikke reglene for forebygging og bekjempelse av sykdommer som er fastsatt i denne forordningen, gjelder for
+
+1. listeførte sykdommer, nærmere bestemt
+
+   1. munn- og klovsyke,
+   2. klassisk svinepest,
+   3. afrikansk svinepest,
+   4. høypatogen aviær influensa,
+   5. afrikansk hestepest og
+2. de listeførte sykdommene angitt i listen i vedlegg II.
 
 2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder endringer i listen nevnt i nr. 1 bokstav b).
 
-3\. En sykdom skal oppføres på listen nevnt i nr. 1 bokstav b) dersom den er vurdert i samsvar med artikkel 7 og oppfyller følgende:Samtlige av følgende kriterier:Vitenskapelig dokumentasjon viser at sykdommen er smittsom.Det finnes dyrearter i Unionen som er mottakelige for sykdommen, eller er vektorer eller reservoarer for den.Sykdommen har skadevirkninger på dyrehelsen eller utgjør en risiko for folkehelsen på grunn av sine zoonotiske egenskaper.Det finnes diagnoseverktøyer for sykdommen.Risikoreduserende tiltak og dersom det er relevant, overvåkingen av sykdommen har virkning og står i forhold til risikoene sykdommen utgjør i Unionen, ogMinst ett av følgende kriterier:Sykdommen har eller kan ha betydelige skadevirkninger i Unionen på dyrehelsen eller utgjør eller kan utgjøre en vesentlig risiko for folkehelsen fordi den er zoonotisk.Sykdomsagensen har utviklet resistens mot behandling og utgjør en betydelig fare for folkehelsen og/eller dyrehelsen i Unionen.Sykdommen har eller kan ha betydelige negative økonomiske konsekvenser for landbruks- eller akvakulturproduksjonen i Unionen.Sykdommen har potensial til å skape en krise, eller sykdomsagensen kan brukes til bioterrorisme.Sykdommen har eller kan ha en betydelig skadevirkning på miljøet, herunder det biologiske mangfoldet, i Unionen.
+3\. En sykdom skal oppføres på listen nevnt i nr. 1 bokstav b) dersom den er vurdert i samsvar med artikkel 7 og oppfyller følgende:
+
+1. Samtlige av følgende kriterier:
+
+   1. Vitenskapelig dokumentasjon viser at sykdommen er smittsom.
+   2. Det finnes dyrearter i Unionen som er mottakelige for sykdommen, eller er vektorer eller reservoarer for den.
+   3. Sykdommen har skadevirkninger på dyrehelsen eller utgjør en risiko for folkehelsen på grunn av sine zoonotiske egenskaper.
+   4. Det finnes diagnoseverktøyer for sykdommen.
+   5. Risikoreduserende tiltak og dersom det er relevant, overvåkingen av sykdommen har virkning og står i forhold til risikoene sykdommen utgjør i Unionen, og
+2. Minst ett av følgende kriterier:
+
+   1. Sykdommen har eller kan ha betydelige skadevirkninger i Unionen på dyrehelsen eller utgjør eller kan utgjøre en vesentlig risiko for folkehelsen fordi den er zoonotisk.
+   2. Sykdomsagensen har utviklet resistens mot behandling og utgjør en betydelig fare for folkehelsen og/eller dyrehelsen i Unionen.
+   3. Sykdommen har eller kan ha betydelige negative økonomiske konsekvenser for landbruks- eller akvakulturproduksjonen i Unionen.
+   4. Sykdommen har potensial til å skape en krise, eller sykdomsagensen kan brukes til bioterrorisme.
+   5. Sykdommen har eller kan ha en betydelig skadevirkning på miljøet, herunder det biologiske mangfoldet, i Unionen.
 
 4\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder fjerning av en sykdom fra listen nevnt i nr. 1 bokstav b), når denne sykdommen ikke lenger oppfyller kriteriene fastsatt i nr. 3.
 
@@ -931,7 +1313,12 @@ Nye sykdommer
 
 1\. Reglene for forebygging og bekjempelse av sykdommer skal gjelde for nye sykdommer som fastsatt i denne forordningen.
 
-2\. En annen sykdom enn en listeført sykdom skal anses som en ny sykdom («ny sykdom») dersom den potensielt kan oppfylle kriteriene for listeføring av sykdommer i artikkel 5 nr. 3, oger resultatet av en utvikling eller endring av en eksisterende sykdomsagens,er en kjent sykdom som spres til et nytt geografisk område, en ny art eller en ny populasjon,diagnostiseres for første gang i Unionen, ellerskyldes en ukjent eller tidligere ukjent sykdomsagens.
+2\. En annen sykdom enn en listeført sykdom skal anses som en ny sykdom («ny sykdom») dersom den potensielt kan oppfylle kriteriene for listeføring av sykdommer i artikkel 5 nr. 3, og
+
+1. er resultatet av en utvikling eller endring av en eksisterende sykdomsagens,
+2. er en kjent sykdom som spres til et nytt geografisk område, en ny art eller en ny populasjon,
+3. diagnostiseres for første gang i Unionen, eller
+4. skyldes en ukjent eller tidligere ukjent sykdomsagens.
 
 3\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter treffe nødvendige tiltak for en ny sykdom som oppfyller kriteriene angitt i nr. 2. Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -943,7 +1330,49 @@ Nye sykdommer
 
 Vurderingsparametrer for listeføring av sykdommer
 
-Kommisjonen skal bruke følgende vurderingsparametrer for å bestemme om en sykdom oppfyller vilkårene som kreves for å bli listeført i samsvar med artikkel 5 nr. 2:Sykdomsprofilen, som skal omfatte følgende:De dyreartene som berøres av sykdommen.Sykelighet og dødelighet som sykdommen forårsaker i dyrepopulasjoner.Sykdommens zoonotiske egenskaper.Resistens mot behandling, herunder antimikrobiell resistens.Sykdommens persistens i en dyrepopulasjon eller i miljøet.Hvordan og med hvilken hastighet sykdommen overføres mellom dyr og når det er relevant, mellom dyr og mennesker.Fravær av sykdommen eller dens forekomst og utbredelse i Unionen og dersom sykdommen ikke finnes i Unionen, risikoen for at den innføres i Unionen.Tilgjengelige verktøyer for diagnostisering og bekjempelse av sykdommen.Sykdommens innvirkning på følgende:Landbruksproduksjon, akvakulturproduksjon og andre deler av økonomien når det gjeldernivået av sykdommens forekomst i Unionen,produksjonstapet som skyldes sykdommen,andre tap.Menneskers helse når det gjelderoverførbarhet mellom dyr og mennesker,overførbarhet mellom mennesker,hvor alvorlig sykdommen er for mennesker,tilgangen til effektiv forebygging eller medisinsk behandling for mennesker.Dyrevelferd.Biologisk mangfold og miljøet.Sykdommens potensial til å framkalle en krise og dens eventuelle bruk i bioterrorisme.Om følgende tiltak for forebygging og bekjempelse av sykdom er gjennomførbare, tilgjengelige og effektive:Diagnoseverktøyer og -kapasitet.Vaksinasjon.Medisinsk behandling.Biosikkerhetstiltak.Restriksjoner på forflytning av dyr og produkter.Avliving av dyr.Destruksjon av skrotter og andre relevante animalske biprodukter.Virkningene av tiltak for forebygging og bekjempelse av sykdom med hensyn til følgende:Direkte og indirekte kostnader for de sektorene som er rammet, og for økonomien som helhet.Samfunnets aksept av tiltakene.Velferden hos rammede delpopulasjoner av holdte og viltlevende dyr.Miljøet og biologisk mangfold.
+Kommisjonen skal bruke følgende vurderingsparametrer for å bestemme om en sykdom oppfyller vilkårene som kreves for å bli listeført i samsvar med artikkel 5 nr. 2:
+
+1. Sykdomsprofilen, som skal omfatte følgende:
+
+   1. De dyreartene som berøres av sykdommen.
+   2. Sykelighet og dødelighet som sykdommen forårsaker i dyrepopulasjoner.
+   3. Sykdommens zoonotiske egenskaper.
+   4. Resistens mot behandling, herunder antimikrobiell resistens.
+   5. Sykdommens persistens i en dyrepopulasjon eller i miljøet.
+   6. Hvordan og med hvilken hastighet sykdommen overføres mellom dyr og når det er relevant, mellom dyr og mennesker.
+   7. Fravær av sykdommen eller dens forekomst og utbredelse i Unionen og dersom sykdommen ikke finnes i Unionen, risikoen for at den innføres i Unionen.
+   8. Tilgjengelige verktøyer for diagnostisering og bekjempelse av sykdommen.
+2. Sykdommens innvirkning på følgende:
+
+   1. Landbruksproduksjon, akvakulturproduksjon og andre deler av økonomien når det gjelder
+
+      - nivået av sykdommens forekomst i Unionen,
+      - produksjonstapet som skyldes sykdommen,
+      - andre tap.
+   2. Menneskers helse når det gjelder
+
+      - overførbarhet mellom dyr og mennesker,
+      - overførbarhet mellom mennesker,
+      - hvor alvorlig sykdommen er for mennesker,
+      - tilgangen til effektiv forebygging eller medisinsk behandling for mennesker.
+   3. Dyrevelferd.
+   4. Biologisk mangfold og miljøet.
+3. Sykdommens potensial til å framkalle en krise og dens eventuelle bruk i bioterrorisme.
+4. Om følgende tiltak for forebygging og bekjempelse av sykdom er gjennomførbare, tilgjengelige og effektive:
+
+   1. Diagnoseverktøyer og -kapasitet.
+   2. Vaksinasjon.
+   3. Medisinsk behandling.
+   4. Biosikkerhetstiltak.
+   5. Restriksjoner på forflytning av dyr og produkter.
+   6. Avliving av dyr.
+   7. Destruksjon av skrotter og andre relevante animalske biprodukter.
+5. Virkningene av tiltak for forebygging og bekjempelse av sykdom med hensyn til følgende:
+
+   1. Direkte og indirekte kostnader for de sektorene som er rammet, og for økonomien som helhet.
+   2. Samfunnets aksept av tiltakene.
+   3. Velferden hos rammede delpopulasjoner av holdte og viltlevende dyr.
+   4. Miljøet og biologisk mangfold.
 
 ###### Artikkel 8
 
@@ -951,21 +1380,75 @@ Listeføring av arter
 
 1\. De sykdomsspesifikke reglene for listeførte sykdommer fastsatt i denne forordningen og reglene som vedtas i henhold til denne forordningen, skal gjelde for listeførte arter.
 
-2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter utarbeide en liste over arter som nevnt i nr. 1, som oppfyller kriteriene angitt i nr. 3. Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.Nevnte liste skal omfatte de dyreartene eller gruppene av dyrearter som utgjør en betydelig risiko for spredning av bestemte listeførte sykdommer, på grunnlag av følgende kriterier:Mottakeligheten hos den risikoutsatte dyrepopulasjonen.Lengden på inkubasjonstiden og infeksjonstiden for de berørte dyrene.De berørte dyrenes evne til å være bærere av disse bestemte sykdommene.
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter utarbeide en liste over arter som nevnt i nr. 1, som oppfyller kriteriene angitt i nr. 3. Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
-3\. Dyrearter eller grupper av dyrearter skal tilføyes på listen dersom de er rammet, eller dersom de utgjør en risiko for spredning av en bestemt listeført sykdom fordide er mottakelige for en bestemt listeført sykdom, eller vitenskapelig dokumentasjon viser at slik mottakelighet er sannsynlig, ellerde er vektorarter eller reservoarer for nevnte sykdom, eller vitenskapelig dokumentasjon viser at en slik rolle er sannsynlig.
+Nevnte liste skal omfatte de dyreartene eller gruppene av dyrearter som utgjør en betydelig risiko for spredning av bestemte listeførte sykdommer, på grunnlag av følgende kriterier:
 
-4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fjerne dyrearter eller grupper av dyrearter fra listen nården berørte listeførte sykdommen i forbindelse med hvilken den berørte dyrearten eller gruppen av dyrearter er blitt listeført, er blitt fjernet fra listen over sykdommer, ellervitenskapelig dokumentasjon viser at artene eller gruppen av arter som er berørt, ikke lenger oppfyller kriteriene angitt i nr. 3.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. Mottakeligheten hos den risikoutsatte dyrepopulasjonen.
+2. Lengden på inkubasjonstiden og infeksjonstiden for de berørte dyrene.
+3. De berørte dyrenes evne til å være bærere av disse bestemte sykdommene.
+
+3\. Dyrearter eller grupper av dyrearter skal tilføyes på listen dersom de er rammet, eller dersom de utgjør en risiko for spredning av en bestemt listeført sykdom fordi
+
+1. de er mottakelige for en bestemt listeført sykdom, eller vitenskapelig dokumentasjon viser at slik mottakelighet er sannsynlig, eller
+2. de er vektorarter eller reservoarer for nevnte sykdom, eller vitenskapelig dokumentasjon viser at en slik rolle er sannsynlig.
+
+4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fjerne dyrearter eller grupper av dyrearter fra listen når
+
+1. den berørte listeførte sykdommen i forbindelse med hvilken den berørte dyrearten eller gruppen av dyrearter er blitt listeført, er blitt fjernet fra listen over sykdommer, eller
+2. vitenskapelig dokumentasjon viser at artene eller gruppen av arter som er berørt, ikke lenger oppfyller kriteriene angitt i nr. 3.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Artikkel 9
 
 Regler for forebygging og bekjempelse av sykdom som skal gjelde for ulike kategorier listeførte sykdommer
 
-1\. Reglene for forebygging og bekjempelse av sykdom skal gjelde for listeførte sykdommer som følger:Når det gjelder listeførte sykdommer som normalt ikke forekommer i Unionen, og som det må treffes umiddelbare utryddelsestiltak mot så snart de påvises, skal følgende regler gjelde, alt etter hva som er relevant:Reglene for holdningsskapende tiltak og beredskap fastsatt i del III avdeling I (artikkel 43–52).Tiltakene for sykdomsbekjempelse i del III avdeling II kapittel 1 (artikkel 53–71).Reglene for segmentinndeling i artikkel 37 nr. 1.Tiltakene nevnt i bokstav b) og tiltakene nevnt i bokstav d) og e), alt etter som, skal også gjelde for nevnte listeførte sykdommer når det er relevant.Når det gjelder listeførte sykdommer som skal bekjempes i alle medlemsstater med mål om at de skal utryddes i hele Unionen, skal følgende regler gjelde, alt etter hva som er relevant:Reglene for obligatoriske utryddelsesprogrammer i artikkel 31 nr. 1.Reglene for sykdomsfrie medlemsstater og soner i artikkel 36.Reglene for segmentinndeling i artikkel 37 nr. 2.Tiltakene for sykdomsbekjempelse i artikkel 72–75, 77–79 samt 81 og 83.Tiltakene nevnt i bokstav d) og e) skal også gjelde for nevnte listeførte sykdommer, alt etter hva som er relevant.Når det gjelder listeførte sykdommer som har betydning for enkelte medlemsstater, og som det er nødvendig å innføre tiltak mot for å forhindre spredning til deler av Unionen som er offisielt sykdomsfrie eller som har utryddelsesprogrammer for den berørte listeførte sykdommen, skal følgende regler gjelde, alt etter hva som er relevant:Reglene for frivillig utryddelse i artikkel 31 nr. 2.Reglene for sykdomsfrie medlemsstater og soner i artikkel 36.Reglene for segmentinndeling i artikkel 37 nr. 2.Reglene for tiltak for sykdomsbekjempelse i artikkel 76, 77, 78, 80, 82 og 83.Tiltakene nevnt i bokstav d) og e) skal også gjelde for nevnte listeførte sykdommer, alt etter hva som er relevant.Når det gjelder listeførte sykdommer som det er nødvendig å innføre tiltak mot for å forhindre spredning i forbindelse med innførsel til Unionen eller forflytning mellom medlemsstatene, skal følgende regler gjelde, alt etter hva som er relevant:Reglene for forflytning innenfor Unionen i avdeling I kapittel 3–6 (artikkel 124–169), del IV avdeling II kapittel 2 og 3 (artikkel 191–225) og del VI kapittel 2 og 3 (artikkel 247–251).Reglene for innførsel til Unionen og eksport fra Unionen i del V (artikkel 229–243).De listeførte sykdommene nevnt i bokstav a), b) og c) skal også anses som listeførte sykdommer i henhold til denne bokstaven, i tillegg til de som er nevnt i bokstav e), dersom risikoen som den aktuelle sykdommen utgjør, kan begrenses på en effektiv og forholdsmessig måte gjennom tiltak for forflytning av dyr og produkter.Når det gjelder listeførte sykdommer som det er nødvendig å overvåke i Unionen, skal følgende regler gjelde, alt etter hva som er relevant:Reglene for melding og rapportering i del II kapittel 1 (artikkel 18–23).Reglene for overvåking i del II kapittel 2 (artikkel 24–30).De listeførte sykdommene nevnt i bokstav a), b) og c) skal også anses som listeførte sykdommer i henhold til denne bokstaven.
+1\. Reglene for forebygging og bekjempelse av sykdom skal gjelde for listeførte sykdommer som følger:
 
-2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette anvendelsen av reglene for forebygging og bekjempelse av sykdom nevnt i nr. 1 på de respektive listeførte sykdommene på grunnlag av kriteriene angitt i vedlegg IV, også på bakgrunn av siste tilgjengelige signifikante vitenskapelige data.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. Når det gjelder listeførte sykdommer som normalt ikke forekommer i Unionen, og som det må treffes umiddelbare utryddelsestiltak mot så snart de påvises, skal følgende regler gjelde, alt etter hva som er relevant:
 
-3\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter endre anvendelsen av reglene for forebygging og bekjempelse av sykdom nevnt i nr. 2 på de respektive listeførte sykdommene når den aktuelle sykdommen ikke lenger oppfyller kriteriene angitt i det relevante avsnittet i vedlegg IV, også på bakgrunn av siste tilgjengelige signifikante vitenskapelige data.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+   1. Reglene for holdningsskapende tiltak og beredskap fastsatt i del III avdeling I (artikkel 43–52).
+   2. Tiltakene for sykdomsbekjempelse i del III avdeling II kapittel 1 (artikkel 53–71).
+   3. Reglene for segmentinndeling i artikkel 37 nr. 1.
+
+   Tiltakene nevnt i bokstav b) og tiltakene nevnt i bokstav d) og e), alt etter som, skal også gjelde for nevnte listeførte sykdommer når det er relevant.
+2. Når det gjelder listeførte sykdommer som skal bekjempes i alle medlemsstater med mål om at de skal utryddes i hele Unionen, skal følgende regler gjelde, alt etter hva som er relevant:
+
+   1. Reglene for obligatoriske utryddelsesprogrammer i artikkel 31 nr. 1.
+   2. Reglene for sykdomsfrie medlemsstater og soner i artikkel 36.
+   3. Reglene for segmentinndeling i artikkel 37 nr. 2.
+   4. Tiltakene for sykdomsbekjempelse i artikkel 72–75, 77–79 samt 81 og 83.
+
+   Tiltakene nevnt i bokstav d) og e) skal også gjelde for nevnte listeførte sykdommer, alt etter hva som er relevant.
+3. Når det gjelder listeførte sykdommer som har betydning for enkelte medlemsstater, og som det er nødvendig å innføre tiltak mot for å forhindre spredning til deler av Unionen som er offisielt sykdomsfrie eller som har utryddelsesprogrammer for den berørte listeførte sykdommen, skal følgende regler gjelde, alt etter hva som er relevant:
+
+   1. Reglene for frivillig utryddelse i artikkel 31 nr. 2.
+   2. Reglene for sykdomsfrie medlemsstater og soner i artikkel 36.
+   3. Reglene for segmentinndeling i artikkel 37 nr. 2.
+   4. Reglene for tiltak for sykdomsbekjempelse i artikkel 76, 77, 78, 80, 82 og 83.
+
+   Tiltakene nevnt i bokstav d) og e) skal også gjelde for nevnte listeførte sykdommer, alt etter hva som er relevant.
+4. Når det gjelder listeførte sykdommer som det er nødvendig å innføre tiltak mot for å forhindre spredning i forbindelse med innførsel til Unionen eller forflytning mellom medlemsstatene, skal følgende regler gjelde, alt etter hva som er relevant:
+
+   1. Reglene for forflytning innenfor Unionen i avdeling I kapittel 3–6 (artikkel 124–169), del IV avdeling II kapittel 2 og 3 (artikkel 191–225) og del VI kapittel 2 og 3 (artikkel 247–251).
+   2. Reglene for innførsel til Unionen og eksport fra Unionen i del V (artikkel 229–243).
+
+   De listeførte sykdommene nevnt i bokstav a), b) og c) skal også anses som listeførte sykdommer i henhold til denne bokstaven, i tillegg til de som er nevnt i bokstav e), dersom risikoen som den aktuelle sykdommen utgjør, kan begrenses på en effektiv og forholdsmessig måte gjennom tiltak for forflytning av dyr og produkter.
+5. Når det gjelder listeførte sykdommer som det er nødvendig å overvåke i Unionen, skal følgende regler gjelde, alt etter hva som er relevant:
+
+   1. Reglene for melding og rapportering i del II kapittel 1 (artikkel 18–23).
+   2. Reglene for overvåking i del II kapittel 2 (artikkel 24–30).
+
+   De listeførte sykdommene nevnt i bokstav a), b) og c) skal også anses som listeførte sykdommer i henhold til denne bokstaven.
+
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette anvendelsen av reglene for forebygging og bekjempelse av sykdom nevnt i nr. 1 på de respektive listeførte sykdommene på grunnlag av kriteriene angitt i vedlegg IV, også på bakgrunn av siste tilgjengelige signifikante vitenskapelige data.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+
+3\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter endre anvendelsen av reglene for forebygging og bekjempelse av sykdom nevnt i nr. 2 på de respektive listeførte sykdommene når den aktuelle sykdommen ikke lenger oppfyller kriteriene angitt i det relevante avsnittet i vedlegg IV, også på bakgrunn av siste tilgjengelige signifikante vitenskapelige data.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 4\. I behørig begrunnede, tvingende hastetilfeller knyttet til en listeført sykdom som utgjør en ny, svært betydelig risiko, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
@@ -980,27 +1463,79 @@ Driftsansvarlige, fagpersoner innen dyrefag og kjæledyrholdere
 
 Ansvarsområder innen dyrehelse og biosikkerhetstiltak
 
-1\. Driftsansvarlige skalnår det gjelder holdte dyr og produkter de har ansvar for, ha ansvar forhelsen til holdte dyr,forsiktig og ansvarlig bruk av legemidler til dyr, med forbehold for veterinærenes rolle og ansvar,å redusere risikoen for at sykdommer spres,godt husdyrhold,om det er relevant, treffe slike biosikkerhetstiltak med hensyn til holdte dyr og produkter de har ansvar for, som kreves forartene og kategoriene av holdte dyr og produkter,produksjonstypen, ogtilknyttede risikoer, idet det tas hensyn tilgeografisk beliggenhet og klimaforhold, oglokale forhold og lokal praksis,der det er relevant, treffe biosikkerhetstiltak med hensyn til viltlevende dyr.
+1\. Driftsansvarlige skal
+
+1. når det gjelder holdte dyr og produkter de har ansvar for, ha ansvar for
+
+   1. helsen til holdte dyr,
+   2. forsiktig og ansvarlig bruk av legemidler til dyr, med forbehold for veterinærenes rolle og ansvar,
+   3. å redusere risikoen for at sykdommer spres,
+   4. godt husdyrhold,
+2. om det er relevant, treffe slike biosikkerhetstiltak med hensyn til holdte dyr og produkter de har ansvar for, som kreves for
+
+   1. artene og kategoriene av holdte dyr og produkter,
+   2. produksjonstypen, og
+   3. tilknyttede risikoer, idet det tas hensyn til
+
+      - geografisk beliggenhet og klimaforhold, og
+      - lokale forhold og lokal praksis,
+3. der det er relevant, treffe biosikkerhetstiltak med hensyn til viltlevende dyr.
 
 2\. Fagpersoner innen dyrefag skal treffe tiltak for å redusere risikoen for spredning av sykdommer når de i forbindelse med sitt arbeid kommer i kontakt med dyr eller produkter.
 
 3\. Nr. 1 bokstav a) får også anvendelse på kjæledyrholdere.
 
-4\. Biosikkerhetstiltakene nevnt i nr. 1 bokstav b) skal gjennomføres etter behov, gjennomfysiske vernetiltak, som kan omfatteinnhegning, inngjerding, tildekking med tak eller nett, alt etter hva som er relevant,rengjøring, desinfisering og bekjempelse av insekter og gnagere,når det gjelder akvatiske dyr, dersom det er relevanttiltak med hensyn til forsyning og utslipp av vann,naturlige eller kunstige barrierer mot nærliggende vassdrag som hindrer akvatiske dyr i å komme inn i eller forlate det aktuelle anlegget, herunder tiltak mot oversvømmelse og vanninntrenging fra nærliggende vassdrag,driftsmessige tiltak, som kan omfatteframgangsmåter for hvordan dyr, produkter, kjøretøyer og personer kommer inn i og ut fra anlegget,framgangsmåter for bruk av utstyr,vilkår for forflytning på grunnlag av tilknyttede risikoer,vilkår for innførsel av dyr eller produkter til anlegget,karantene, isolasjon eller atskillelse av nylig ankomne eller syke dyr,et system for sikker destruksjon av døde dyr og andre animalske biprodukter.
+4\. Biosikkerhetstiltakene nevnt i nr. 1 bokstav b) skal gjennomføres etter behov, gjennom
+
+1. fysiske vernetiltak, som kan omfatte
+
+   1. innhegning, inngjerding, tildekking med tak eller nett, alt etter hva som er relevant,
+   2. rengjøring, desinfisering og bekjempelse av insekter og gnagere,
+   3. når det gjelder akvatiske dyr, dersom det er relevant
+
+      - tiltak med hensyn til forsyning og utslipp av vann,
+      - naturlige eller kunstige barrierer mot nærliggende vassdrag som hindrer akvatiske dyr i å komme inn i eller forlate det aktuelle anlegget, herunder tiltak mot oversvømmelse og vanninntrenging fra nærliggende vassdrag,
+2. driftsmessige tiltak, som kan omfatte
+
+   1. framgangsmåter for hvordan dyr, produkter, kjøretøyer og personer kommer inn i og ut fra anlegget,
+   2. framgangsmåter for bruk av utstyr,
+   3. vilkår for forflytning på grunnlag av tilknyttede risikoer,
+   4. vilkår for innførsel av dyr eller produkter til anlegget,
+   5. karantene, isolasjon eller atskillelse av nylig ankomne eller syke dyr,
+   6. et system for sikker destruksjon av døde dyr og andre animalske biprodukter.
 
 5\. Driftsansvarlige, fagpersoner innen dyrefag og kjæledyrholdere skal samarbeide med vedkommende myndighet og veterinærer om anvendelsen av tiltakene for forebygging og bekjempelse av sykdom som fastsettes i denne forordningen.
 
-6\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette de minstekravene som er nødvendige for å sikre ensartet anvendelse av denne artikkelen.Slike gjennomføringsrettsakter skal gjenspeile forholdene nevnt i nr. 1 bokstav b).Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+6\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette de minstekravene som er nødvendige for å sikre ensartet anvendelse av denne artikkelen.
+
+Slike gjennomføringsrettsakter skal gjenspeile forholdene nevnt i nr. 1 bokstav b).
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Artikkel 11
 
 Kunnskap om dyrehelse
 
-1\. Driftsansvarlige og fagpersoner innen dyrefag skal ha tilstrekkelig kunnskap omdyresykdommer, herunder de som kan overføres til mennesker,prinsipper for biosikkerhet,samspillet mellom dyrs helse og velferd og menneskers helse,godt husdyrhold for de dyreartene de har omsorg for,resistens mot behandling, herunder antimikrobiell resistens, og følgene av slik resistens.
+1\. Driftsansvarlige og fagpersoner innen dyrefag skal ha tilstrekkelig kunnskap om
 
-2\. Det kunnskapsinnholdet og -nivået som kreves i samsvar med nr. 1, skal avhenge avartene og kategoriene av holdte dyr eller produkter de berørte driftsansvarlige og fagpersoner innen dyrefag har ansvar for, og den typen yrkesmessig kontakt de har med disse dyrene eller produktene,produksjonstypen,de oppgavene som utføres.
+1. dyresykdommer, herunder de som kan overføres til mennesker,
+2. prinsipper for biosikkerhet,
+3. samspillet mellom dyrs helse og velferd og menneskers helse,
+4. godt husdyrhold for de dyreartene de har omsorg for,
+5. resistens mot behandling, herunder antimikrobiell resistens, og følgene av slik resistens.
 
-3\. Kunnskapen nevnt i nr. 1 skal tilegnes gjennom entenyrkeserfaring eller -utdanning,eksisterende programmer i landbruks- eller akvakultursektoren som er relevante for dyrehelse,formell utdanning, ellerannen erfaring eller utdanning som fører til samme kunnskapsnivå som nevnt i bokstav a), b) eller c).
+2\. Det kunnskapsinnholdet og -nivået som kreves i samsvar med nr. 1, skal avhenge av
+
+1. artene og kategoriene av holdte dyr eller produkter de berørte driftsansvarlige og fagpersoner innen dyrefag har ansvar for, og den typen yrkesmessig kontakt de har med disse dyrene eller produktene,
+2. produksjonstypen,
+3. de oppgavene som utføres.
+
+3\. Kunnskapen nevnt i nr. 1 skal tilegnes gjennom enten
+
+1. yrkeserfaring eller -utdanning,
+2. eksisterende programmer i landbruks- eller akvakultursektoren som er relevante for dyrehelse,
+3. formell utdanning, eller
+4. annen erfaring eller utdanning som fører til samme kunnskapsnivå som nevnt i bokstav a), b) eller c).
 
 4\. driftsansvarlige som selger eller på annen måte overdrar eiendomsretten til framtidige kjæledyr, skal gi den framtidige kjæledyrholderen grunnleggende opplysninger om forholdene nevnt i nr. 1, i samsvar med det som er relevant for det aktuelle kjæledyret.
 
@@ -1012,7 +1547,17 @@ Veterinærer og fagpersoner på området akvatiske dyrs helse
 
 Ansvarsområder for veterinærer og fagpersoner på området akvatiske dyrs helse
 
-1\. Veterinærer skal innenfor rammen av den virksomheten som omfattes av denne forordningentreffe alle hensiktsmessige tiltak for å forebygge innføring, utvikling og spredning av sykdommer,treffe tiltak for å sikre tidlig påvisning av sykdommer ved å gjennomføre diagnostisering og differensialdiagnostisering for å utelukke eller bekrefte en sykdom,delta aktivt når det gjelderå øke bevisstheten om dyrehelse og om samspillet mellom dyrs helse og velferd og menneskers helse,forebygging av sykdom,tidlig påvisning av og rask reaksjon på sykdommer,å øke bevisstheten om resistens mot behandling, herunder antimikrobiell resistens, og følgene av slik resistens,samarbeide med vedkommende myndighet, driftsansvarlige, fagpersoner innen dyrefag og kjæledyrholdere om iverksettingen av de tiltakene for forebygging og bekjempelse av sykdom som fastsettes i denne forordningen.
+1\. Veterinærer skal innenfor rammen av den virksomheten som omfattes av denne forordningen
+
+1. treffe alle hensiktsmessige tiltak for å forebygge innføring, utvikling og spredning av sykdommer,
+2. treffe tiltak for å sikre tidlig påvisning av sykdommer ved å gjennomføre diagnostisering og differensialdiagnostisering for å utelukke eller bekrefte en sykdom,
+3. delta aktivt når det gjelder
+
+   1. å øke bevisstheten om dyrehelse og om samspillet mellom dyrs helse og velferd og menneskers helse,
+   2. forebygging av sykdom,
+   3. tidlig påvisning av og rask reaksjon på sykdommer,
+   4. å øke bevisstheten om resistens mot behandling, herunder antimikrobiell resistens, og følgene av slik resistens,
+4. samarbeide med vedkommende myndighet, driftsansvarlige, fagpersoner innen dyrefag og kjæledyrholdere om iverksettingen av de tiltakene for forebygging og bekjempelse av sykdom som fastsettes i denne forordningen.
 
 2\. Fagpersoner på området akvatiske dyrs helse kan når det gjelder akvatiske dyr, påta seg oppgaver som i henhold til denne forordningen tilhører veterinærer, dersom de har tillatelse til dette av den berørte medlemsstaten i henhold til nasjonal rett. I så fall får nr. 1 anvendelse på alle slike fagpersoner på området akvatiske dyrs helse.
 
@@ -1026,7 +1571,11 @@ Medlemsstatene
 
 Medlemsstatenes ansvarsområder
 
-1\. For å sikre at vedkommende dyrehelsemyndighet er i stand til å treffe nødvendige og hensiktsmessige tiltak og gjennomføre de aktivitetene som kreves i henhold til denne forordningen, skal hver medlemsstat sikre, på hensiktsmessig administrativt nivå, at vedkommende myndighet harkvalifisert personell, lokaler, utstyr, finansielle midler og en effektiv organisasjon som dekker hele medlemsstatens territorium,tilgang til laboratorier med kvalifisert personell, lokaler, utstyr og nødvendige finansielle midler til å sikre rask og nøyaktig diagnostisering og differensialdiagnostisering av listeførte sykdommer og nye sykdommer,veterinærer med nødvendig utdanning for å utføre oppgavene nevnt i artikkel 12.
+1\. For å sikre at vedkommende dyrehelsemyndighet er i stand til å treffe nødvendige og hensiktsmessige tiltak og gjennomføre de aktivitetene som kreves i henhold til denne forordningen, skal hver medlemsstat sikre, på hensiktsmessig administrativt nivå, at vedkommende myndighet har
+
+1. kvalifisert personell, lokaler, utstyr, finansielle midler og en effektiv organisasjon som dekker hele medlemsstatens territorium,
+2. tilgang til laboratorier med kvalifisert personell, lokaler, utstyr og nødvendige finansielle midler til å sikre rask og nøyaktig diagnostisering og differensialdiagnostisering av listeførte sykdommer og nye sykdommer,
+3. veterinærer med nødvendig utdanning for å utføre oppgavene nevnt i artikkel 12.
 
 2\. Medlemsstatene skal oppmuntre driftsansvarlige og fagpersoner innen dyrefag til å skaffe seg, vedlikeholde og utvikle tilstrekkelig kunnskap om dyrehelse i henhold til artikkel 11 gjennom relevante programmer i landbruks- og akvakultursektoren eller gjennom formell utdanning.
 
@@ -1034,11 +1583,26 @@ Medlemsstatenes ansvarsområder
 
 Delegering fra vedkommende myndighet av offisielle oppgaver
 
-1\. Vedkommende myndighet kan delegere én eller flere av følgende oppgaver til andre veterinærer enn offentlige veterinærer:Praktisk iverksetting av tiltak i forbindelse med utryddelsesprogrammene fastsatt i artikkel 32.Støtte til vedkommende myndighet ved gjennomføring av overvåking som fastsatt i artikkel 26, eller i tilknytning til overvåkingsprogrammer som fastsatt i artikkel 28.Oppgaver i forbindelse medbevissthet om, beredskap mot og bekjempelse av sykdom som fastsatt i del III, som gjelderprøvetakingsaktiviteter og gjennomføring av epidemiologiske og andre undersøkelser innenfor rammen av artikkel 54, artikkel 55 nr. 1 bokstav b)–g) og artikkel 57, 73, 74, 79 og 80 ved mistanke om forekomst av en sykdom, og alle gjennomføringsrettsakter og delegerte rettsakter vedtatt i henhold til nevnte artikler,gjennomføring av aktiviteter knyttet til tiltakene for sykdomsbekjempelse ved utbrudd av en sykdom med hensyn til aktivitetene angitt i artikkel 61, artikkel 65 nr. 1 bokstav a), b), e), f) og i), artikkel 70 nr. 1, artikkel 79 og 80 og artikkel 81 nr. 1 og 2, og alle gjennomføringsrettsakter og delegerte rettsakter vedtatt i henhold til disse artiklene,gjennomføring av nødvaksinasjon i samsvar med artikkel 69.Registrering, godkjenning, sporbarhet og forflytning som fastsatt i del IV.Utstedelse og utfylling av identifikasjonsdokumentene for kjæledyr som fastsatt i artikkel 247 bokstav c), artikkel 248 nr. 2 bokstav c), artikkel 249 nr. 1 bokstav c) og artikkel 250 nr. 2 bokstav c).Påsetting og bruk av identifikasjonsmerker som nevnt i artikkel 252 nr. 1 bokstav a) ii).
+1\. Vedkommende myndighet kan delegere én eller flere av følgende oppgaver til andre veterinærer enn offentlige veterinærer:
+
+1. Praktisk iverksetting av tiltak i forbindelse med utryddelsesprogrammene fastsatt i artikkel 32.
+2. Støtte til vedkommende myndighet ved gjennomføring av overvåking som fastsatt i artikkel 26, eller i tilknytning til overvåkingsprogrammer som fastsatt i artikkel 28.
+3. Oppgaver i forbindelse med
+
+   1. bevissthet om, beredskap mot og bekjempelse av sykdom som fastsatt i del III, som gjelder
+
+      - prøvetakingsaktiviteter og gjennomføring av epidemiologiske og andre undersøkelser innenfor rammen av artikkel 54, artikkel 55 nr. 1 bokstav b)–g) og artikkel 57, 73, 74, 79 og 80 ved mistanke om forekomst av en sykdom, og alle gjennomføringsrettsakter og delegerte rettsakter vedtatt i henhold til nevnte artikler,
+      - gjennomføring av aktiviteter knyttet til tiltakene for sykdomsbekjempelse ved utbrudd av en sykdom med hensyn til aktivitetene angitt i artikkel 61, artikkel 65 nr. 1 bokstav a), b), e), f) og i), artikkel 70 nr. 1, artikkel 79 og 80 og artikkel 81 nr. 1 og 2, og alle gjennomføringsrettsakter og delegerte rettsakter vedtatt i henhold til disse artiklene,
+      - gjennomføring av nødvaksinasjon i samsvar med artikkel 69.
+   2. Registrering, godkjenning, sporbarhet og forflytning som fastsatt i del IV.
+   3. Utstedelse og utfylling av identifikasjonsdokumentene for kjæledyr som fastsatt i artikkel 247 bokstav c), artikkel 248 nr. 2 bokstav c), artikkel 249 nr. 1 bokstav c) og artikkel 250 nr. 2 bokstav c).
+   4. Påsetting og bruk av identifikasjonsmerker som nevnt i artikkel 252 nr. 1 bokstav a) ii).
 
 2\. Medlemsstatene kan gi fysiske eller juridiske personer tillatelse til å gjennomføre aktivitetene nevnt i nr. 1 bokstav a), b) og c) i), ii) og iv) når det gjelder særskilt identifiserte oppgaver som disse personene har tilstrekkelig særlig kunnskap om. I så fall skal nr. 1 i denne artikkelen og ansvarsområdene fastsatt i artikkel 12 gjelde for disse personene.
 
-3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder andre aktiviteter som kan delegeres til veterinærer, i tillegg til de som er fastsatt i nr. 1, og ved behov angi nødvendige omstendigheter og vilkår for slik delegering.Når Kommisjonen vedtar disse delegerte rettsaktene, skal den ta hensyn til aktivitetenes art og til relevante internasjonale standarder.
+3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder andre aktiviteter som kan delegeres til veterinærer, i tillegg til de som er fastsatt i nr. 1, og ved behov angi nødvendige omstendigheter og vilkår for slik delegering.
+
+Når Kommisjonen vedtar disse delegerte rettsaktene, skal den ta hensyn til aktivitetenes art og til relevante internasjonale standarder.
 
 ###### Artikkel 15
 
@@ -1054,9 +1618,15 @@ Laboratorier, lokaler og andre fysiske og juridiske personer som håndterer sykd
 
 Forpliktelser for laboratorier, lokaler og andre som håndterer sykdomsagenser, vaksiner og andre biologiske produkter
 
-1\. Laboratorier og lokaler og andre fysiske og juridiske personer som håndterer sykdomsagenser med henblikk på forskning, utdanning, diagnostisering eller produksjon av vaksiner og andre biologiske produkter, skal samtidig som de tar hensyn til eventuelle relevante internasjonale standardertreffe hensiktsmessige tiltak for biosikkerhet og biologisk inneslutning for å forhindre at sykdomsagenser spres og kommer i kontakt med dyr utenfor laboratoriet eller andre lokaler der sykdomsagenser håndteres til disse formålene,sikre at det ved forflytning av sykdomsagenser, vaksiner og andre biologiske produkter mellom laboratorier eller andre lokaler ikke oppstår noen risiko for spredning av listeførte eller nye sykdommer.
+1\. Laboratorier og lokaler og andre fysiske og juridiske personer som håndterer sykdomsagenser med henblikk på forskning, utdanning, diagnostisering eller produksjon av vaksiner og andre biologiske produkter, skal samtidig som de tar hensyn til eventuelle relevante internasjonale standarder
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder sikkerhetstiltak for forebygging og bekjempelse av listeførte og nye sykdommer, hva angår de laboratoriene og lokalene og andre fysiske eller juridiske personer som håndterer sykdomsagenser, vaksiner og andre biologiske produkter i forbindelse medbiosikkerhet og biologisk inneslutning,krav til forflytning av sykdomsagenser, vaksiner og andre biologiske produkter.
+1. treffe hensiktsmessige tiltak for biosikkerhet og biologisk inneslutning for å forhindre at sykdomsagenser spres og kommer i kontakt med dyr utenfor laboratoriet eller andre lokaler der sykdomsagenser håndteres til disse formålene,
+2. sikre at det ved forflytning av sykdomsagenser, vaksiner og andre biologiske produkter mellom laboratorier eller andre lokaler ikke oppstår noen risiko for spredning av listeførte eller nye sykdommer.
+
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder sikkerhetstiltak for forebygging og bekjempelse av listeførte og nye sykdommer, hva angår de laboratoriene og lokalene og andre fysiske eller juridiske personer som håndterer sykdomsagenser, vaksiner og andre biologiske produkter i forbindelse med
+
+1. biosikkerhet og biologisk inneslutning,
+2. krav til forflytning av sykdomsagenser, vaksiner og andre biologiske produkter.
 
 ###### Artikkel 17
 
@@ -1068,7 +1638,10 @@ Dyrehelselaboratorier
 
 3\. Resultatene og rapportene fra de offisielle laboratoriene skal være underlagt prinsippene om taushetsplikt og fortrolighet og meldingsplikten til vedkommende myndighet som har utpekt dem, uavhengig av hvilken fysisk eller juridisk person som har bedt om laboratorieanalysene, -undersøkelsene eller -diagnosene.
 
-4\. Dersom et offisielt laboratorium i en medlemsstat utfører diagnostiske analyser av prøver fra dyr med opprinnelse i en annen medlemsstat, skal nevnte offisielle laboratorium melde til vedkommende myndighet i medlemsstaten der prøvene har sin opprinnelseumiddelbart om resultater som tyder på mistanke om eller påvisning av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a),uten unødig opphold om resultater som tyder på mistanke om eller påvisning av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav e), som ikke er nevnt i artikkel 9 nr. 1 bokstav a).
+4\. Dersom et offisielt laboratorium i en medlemsstat utfører diagnostiske analyser av prøver fra dyr med opprinnelse i en annen medlemsstat, skal nevnte offisielle laboratorium melde til vedkommende myndighet i medlemsstaten der prøvene har sin opprinnelse
+
+1. umiddelbart om resultater som tyder på mistanke om eller påvisning av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a),
+2. uten unødig opphold om resultater som tyder på mistanke om eller påvisning av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav e), som ikke er nevnt i artikkel 9 nr. 1 bokstav a).
 
 ### DEL II
 MELDING OM OG RAPPORTERING AV SYKDOM, OVERVÅKING, UTRYDDELSESPROGRAMMER, SYKDOMSFRI STATUS
@@ -1080,11 +1653,18 @@ Melding om og rapportering av sykdom
 
 Melding i medlemsstatene
 
-1\. Medlemsstatene skal sikre at driftsansvarlige og andre relevante fysiske eller juridiske personerumiddelbart melder til vedkommende myndighet dersom det er noen grunn til mistanke om forekomst hos dyr av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), eller dersom forekomst av en slik sykdom påvises hos dyr,så snart som praktisk mulig melder til vedkommende myndighet dersom det er noen grunn til mistanke om forekomst hos dyr av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav e), som ikke er nevnt i artikkel 9 nr. 1 bokstav a), eller dersom forekomst av en slik sykdom påvises hos dyr,melder til en veterinær om unormal dødelighet og andre tegn på alvorlig sykdom eller vesentlig redusert produksjonstakt av ubestemt årsak med henblikk på ytterligere undersøkelser, herunder prøvetaking for undersøkelse i laboratorium når situasjonen krever det.
+1\. Medlemsstatene skal sikre at driftsansvarlige og andre relevante fysiske eller juridiske personer
+
+1. umiddelbart melder til vedkommende myndighet dersom det er noen grunn til mistanke om forekomst hos dyr av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), eller dersom forekomst av en slik sykdom påvises hos dyr,
+2. så snart som praktisk mulig melder til vedkommende myndighet dersom det er noen grunn til mistanke om forekomst hos dyr av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav e), som ikke er nevnt i artikkel 9 nr. 1 bokstav a), eller dersom forekomst av en slik sykdom påvises hos dyr,
+3. melder til en veterinær om unormal dødelighet og andre tegn på alvorlig sykdom eller vesentlig redusert produksjonstakt av ubestemt årsak med henblikk på ytterligere undersøkelser, herunder prøvetaking for undersøkelse i laboratorium når situasjonen krever det.
 
 2\. Medlemsstatene kan bestemme at meldingene fastsatt i nr. 1 bokstav c) kan sendes til vedkommende myndighet.
 
-3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderkriterier for å fastslå om det foreligger omstendigheter som krever melding i henhold til nr. 1 bokstav c),nærmere regler for ytterligere undersøkelser som fastsatt i nr. 1 bokstav c).
+3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. kriterier for å fastslå om det foreligger omstendigheter som krever melding i henhold til nr. 1 bokstav c),
+2. nærmere regler for ytterligere undersøkelser som fastsatt i nr. 1 bokstav c).
 
 ###### Artikkel 19
 
@@ -1092,15 +1672,35 @@ Melding i Unionen
 
 1\. Medlemsstatene skal umiddelbart melde til Kommisjonen og de øvrige medlemsstatene om ethvert utbrudd av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav e), som krever umiddelbar melding for å sikre at nødvendige risikohåndteringstiltak gjennomføres raskt, idet det tas hensyn til sykdomsprofilen.
 
-2\. Meldingen nevnt i nr. 1 skal inneholde følgende opplysninger om utbruddet:Sykdomsagens og eventuelt undertype.Relevante datoer, særlig datoen for mistanke om og bekreftelse av utbruddet.Utbruddets type og sted.Eventuelle tilknyttede utbrudd.Dyr som er berørt av utbruddet.Alle tiltak for sykdomsbekjempelse som er truffet i forbindelse med utbruddet.Den listeførte sykdommens mulige eller kjente opprinnelse.Diagnostiske metoder som er brukt.
+2\. Meldingen nevnt i nr. 1 skal inneholde følgende opplysninger om utbruddet:
+
+1. Sykdomsagens og eventuelt undertype.
+2. Relevante datoer, særlig datoen for mistanke om og bekreftelse av utbruddet.
+3. Utbruddets type og sted.
+4. Eventuelle tilknyttede utbrudd.
+5. Dyr som er berørt av utbruddet.
+6. Alle tiltak for sykdomsbekjempelse som er truffet i forbindelse med utbruddet.
+7. Den listeførte sykdommens mulige eller kjente opprinnelse.
+8. Diagnostiske metoder som er brukt.
 
 ###### Artikkel 20
 
 Rapportering i Unionen
 
-1\. Medlemsstatene skal rapportere til Kommisjonen og de øvrige medlemsstatene om listeførte sykdommer nevnt i artikkel 9 nr. 1 bokstav e) somikke er omfattet av krav om umiddelbar melding om utbrudd i henhold til artikkel 19 nr. 1,er omfattet av krav om umiddelbar melding om utbrudd i henhold til artikkel 19 nr. 1, men som det skal gis ytterligere opplysninger om, til Kommisjonen og de øvrige medlemsstatene omovervåking i samsvar med reglene fastsatt i en gjennomføringsrettsakt vedtatt i samsvar med artikkel 30,et utryddelsesprogram i samsvar med reglene fastsatt i en gjennomføringsrettsakt vedtatt i samsvar med artikkel 35.
+1\. Medlemsstatene skal rapportere til Kommisjonen og de øvrige medlemsstatene om listeførte sykdommer nevnt i artikkel 9 nr. 1 bokstav e) som
 
-2\. Rapportene fastsatt i nr. 1 skal inneholde opplysninger ompåvisningen av de listeførte sykdommene nevnt i nr. 1,resultatene av overvåkingen, dersom dette kreves i samsvar med reglene vedtatt i samsvar med artikkel 29 bokstav d) ii) eller artikkel 30 nr. 1 bokstav b) ii),resultatene av overvåkingsprogrammer, dersom dette kreves i samsvar med artikkel 28 nr. 3 og reglene vedtatt i samsvar med artikkel 29 bokstav d) ii) eller artikkel 30 nr. 1 bokstav b) ii),utryddelsesprogrammer, dersom dette kreves i samsvar artikkel 34 og reglene fastsatt i en gjennomføringsrettsakt vedtatt i samsvar med artikkel 35.
+1. ikke er omfattet av krav om umiddelbar melding om utbrudd i henhold til artikkel 19 nr. 1,
+2. er omfattet av krav om umiddelbar melding om utbrudd i henhold til artikkel 19 nr. 1, men som det skal gis ytterligere opplysninger om, til Kommisjonen og de øvrige medlemsstatene om
+
+   1. overvåking i samsvar med reglene fastsatt i en gjennomføringsrettsakt vedtatt i samsvar med artikkel 30,
+   2. et utryddelsesprogram i samsvar med reglene fastsatt i en gjennomføringsrettsakt vedtatt i samsvar med artikkel 35.
+
+2\. Rapportene fastsatt i nr. 1 skal inneholde opplysninger om
+
+1. påvisningen av de listeførte sykdommene nevnt i nr. 1,
+2. resultatene av overvåkingen, dersom dette kreves i samsvar med reglene vedtatt i samsvar med artikkel 29 bokstav d) ii) eller artikkel 30 nr. 1 bokstav b) ii),
+3. resultatene av overvåkingsprogrammer, dersom dette kreves i samsvar med artikkel 28 nr. 3 og reglene vedtatt i samsvar med artikkel 29 bokstav d) ii) eller artikkel 30 nr. 1 bokstav b) ii),
+4. utryddelsesprogrammer, dersom dette kreves i samsvar artikkel 34 og reglene fastsatt i en gjennomføringsrettsakt vedtatt i samsvar med artikkel 35.
 
 3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder bestemmelser som utfyller kravene i nr. 2, og rapportering om andre forhold som gjelder overvåking og utryddelsesprogrammer, når det er nødvendig for å sikre effektiv anvendelse av reglene for forebygging og bekjempelse av sykdom fastsatt i denne forordningen.
 
@@ -1120,7 +1720,14 @@ Kommisjonen skal opprette og forvalte et databasert informasjonssystem for de or
 
 Gjennomføringsmyndighet med hensyn til melding og rapportering i Unionen og det databaserte informasjonssystemet
 
-Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for kravene til melding og rapportering og det databaserte informasjonssystemet fastsatt i artikkel 19–22 når det gjelderde listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav e), som medlemsstatene skal melde fra om umiddelbart, og de nødvendige tiltakene som hører sammen med meldingen i samsvar med artikkel 19,opplysningene som medlemsstatene skal gi i rapporteringen fastsatt i artikkel 20,prosedyrer for opprettelse og bruk av det databaserte informasjonssystemet fastsatt i artikkel 22, og overgangstiltak for overføring av data og opplysninger fra eksisterende systemer til det nye systemet slik at det er fullt ut funksjonsdyktig,formatet for og strukturen på de dataene som skal legges inn i det databaserte informasjonssystemet fastsatt i artikkel 22,fristene og hyppighet for melding og rapportering i henhold til artikkel 19 og 20, som skal finne sted på tidspunkter og med en hyppighet som sikrer åpenhet og rask iverksetting av nødvendige risikohåndteringstiltak, med utgangspunkt i sykdomsprofilen og typen utbrudd,fortegnelsen over meldings- og rapporteringsregioner i henhold til artikkel 21.
+Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for kravene til melding og rapportering og det databaserte informasjonssystemet fastsatt i artikkel 19–22 når det gjelder
+
+1. de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav e), som medlemsstatene skal melde fra om umiddelbart, og de nødvendige tiltakene som hører sammen med meldingen i samsvar med artikkel 19,
+2. opplysningene som medlemsstatene skal gi i rapporteringen fastsatt i artikkel 20,
+3. prosedyrer for opprettelse og bruk av det databaserte informasjonssystemet fastsatt i artikkel 22, og overgangstiltak for overføring av data og opplysninger fra eksisterende systemer til det nye systemet slik at det er fullt ut funksjonsdyktig,
+4. formatet for og strukturen på de dataene som skal legges inn i det databaserte informasjonssystemet fastsatt i artikkel 22,
+5. fristene og hyppighet for melding og rapportering i henhold til artikkel 19 og 20, som skal finne sted på tidspunkter og med en hyppighet som sikrer åpenhet og rask iverksetting av nødvendige risikohåndteringstiltak, med utgangspunkt i sykdomsprofilen og typen utbrudd,
+6. fortegnelsen over meldings- og rapporteringsregioner i henhold til artikkel 21.
 
 Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -1131,17 +1738,35 @@ Overvåking
 
 Driftsansvarliges overvåkingsplikt
 
-For å påvise forekomst av listeførte sykdommer og nye sykdommer skal driftsansvarligeobservere helsen og atferden til dyr som de har ansvar for,observere eventuelle endringer av normale produksjonsparametrer for anlegg, dyr eller avlsmateriale de har ansvar for, og som kan gi grunn til mistanke om at endringene skyldes en listeført sykdom eller en ny sykdom,se etter unormal dødelighet og andre tegn på alvorlig sykdom hos dyr som de har ansvar for.
+For å påvise forekomst av listeførte sykdommer og nye sykdommer skal driftsansvarlige
+
+1. observere helsen og atferden til dyr som de har ansvar for,
+2. observere eventuelle endringer av normale produksjonsparametrer for anlegg, dyr eller avlsmateriale de har ansvar for, og som kan gi grunn til mistanke om at endringene skyldes en listeført sykdom eller en ny sykdom,
+3. se etter unormal dødelighet og andre tegn på alvorlig sykdom hos dyr som de har ansvar for.
 
 ###### Artikkel 25
 
 Dyrehelsebesøk
 
-1\. Driftsansvarlige skal sørge for at anlegg som de har ansvar for, får dyrehelsebesøk av en veterinær når det er nødvendig av hensyn til de risikoene som det aktuelle anlegget utgjør, idet det tas hensyn tilanleggstypen,artene og kategoriene av dyr som holdes i anlegget,den epidemiologiske situasjonen i sonen eller regionen når det gjelder listeførte og nye sykdommer som dyrene på anlegget er mottakelige for,annen relevant overvåking eller offentlig kontroll som de holdte dyrene og anleggstypen er omfattet av.Slike dyrehelsebesøk skal skje med en hyppighet som står i forhold til risikoene det berørte anlegget utgjør.De kan kombineres med besøk for andre formål.
+1\. Driftsansvarlige skal sørge for at anlegg som de har ansvar for, får dyrehelsebesøk av en veterinær når det er nødvendig av hensyn til de risikoene som det aktuelle anlegget utgjør, idet det tas hensyn til
 
-2\. Dyrehelsebesøkene nevnt i nr. 1 skal avlegges med henblikk på sykdomsforebygging, særlig gjennområdgivning til den berørte driftsansvarlige om biosikkerhet og andre dyrehelsespørsmål alt etter hva som er relevant for anleggstypen og de artene og den kategorien av dyr som holdes der,påvisning av og opplysninger om tegn som kan tyde på forekomst av listeførte eller nye sykdommer.
+1. anleggstypen,
+2. artene og kategoriene av dyr som holdes i anlegget,
+3. den epidemiologiske situasjonen i sonen eller regionen når det gjelder listeførte og nye sykdommer som dyrene på anlegget er mottakelige for,
+4. annen relevant overvåking eller offentlig kontroll som de holdte dyrene og anleggstypen er omfattet av.
 
-3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette de minstekravene som er nødvendige for å sikre ensartet anvendelse av denne artikkelen.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+Slike dyrehelsebesøk skal skje med en hyppighet som står i forhold til risikoene det berørte anlegget utgjør.
+
+De kan kombineres med besøk for andre formål.
+
+2\. Dyrehelsebesøkene nevnt i nr. 1 skal avlegges med henblikk på sykdomsforebygging, særlig gjennom
+
+1. rådgivning til den berørte driftsansvarlige om biosikkerhet og andre dyrehelsespørsmål alt etter hva som er relevant for anleggstypen og de artene og den kategorien av dyr som holdes der,
+2. påvisning av og opplysninger om tegn som kan tyde på forekomst av listeførte eller nye sykdommer.
+
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette de minstekravene som er nødvendige for å sikre ensartet anvendelse av denne artikkelen.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Artikkel 26
 
@@ -1161,7 +1786,15 @@ Vedkommende myndighets overvåkingsplikt
 
 Overvåkingsmetoder, -hyppighet og -intensitet
 
-Utforming, midler, diagnostiske metoder, hyppighet, intensitet, målpopulasjon og prøvetakingsmønstre for overvåkingen i henhold til artikkel 26 skal være hensiktsmessig(e) og stå i forhold til målene for overvåkingen, samtidig som det tas hensyn tilsykdomsprofil,relevante risikofaktorer,helsestatus iden medlemsstaten eller den sonen eller det segmentet av denne som er omfattet av overvåkingen,de medlemsstatene og tredjeland eller territorier som enten har grense til, eller som dyr og produkter innføres fra, til medlemsstaten eller en sone eller et segment av denne,overvåking som utføres av driftsansvarlige i samsvar med artikkel 24, herunder dyrehelsebesøk som nevnt i artikkel 25, eller av andre offentlige myndigheter.
+Utforming, midler, diagnostiske metoder, hyppighet, intensitet, målpopulasjon og prøvetakingsmønstre for overvåkingen i henhold til artikkel 26 skal være hensiktsmessig(e) og stå i forhold til målene for overvåkingen, samtidig som det tas hensyn til
+
+1. sykdomsprofil,
+2. relevante risikofaktorer,
+3. helsestatus i
+
+   1. den medlemsstaten eller den sonen eller det segmentet av denne som er omfattet av overvåkingen,
+   2. de medlemsstatene og tredjeland eller territorier som enten har grense til, eller som dyr og produkter innføres fra, til medlemsstaten eller en sone eller et segment av denne,
+4. overvåking som utføres av driftsansvarlige i samsvar med artikkel 24, herunder dyrehelsebesøk som nevnt i artikkel 25, eller av andre offentlige myndigheter.
 
 ###### Artikkel 28
 
@@ -1177,13 +1810,28 @@ Unionens overvåkingsprogrammer
 
 Delegering av myndighet
 
-Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderutforming, midler, diagnostiske metoder, hyppighet, intensitet, målpopulasjon og prøvetakingsmønstre for overvåking i henhold til artikkel 27,kriteriene for offisiell bekreftelse og kasusdefinisjoner av listeførte sykdommer nevnt i artikkel 9 nr. 1 bokstav e), og dersom det er relevant, nye sykdommer,kriteriene for å fastslå om en sykdom på bakgrunn av sykdomsprofil og relevante risikofaktorer skal omfattes av et overvåkingsprogram som er relevant for Unionen i samsvar med artikkel 30 nr. 1 bokstav a),krav til overvåkingsprogrammer i henhold til artikkel 28 nr. 1 når det gjelderinnholdet i overvåkingsprogrammer,opplysninger som skal tas med ved framlegging av overvåkingsprogrammer i samsvar med artikkel 28 nr. 2, og av regelmessige rapporter i samsvar med artikkel 28 nr. 3,overvåkingsprogrammenes anvendelsestid.
+Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. utforming, midler, diagnostiske metoder, hyppighet, intensitet, målpopulasjon og prøvetakingsmønstre for overvåking i henhold til artikkel 27,
+2. kriteriene for offisiell bekreftelse og kasusdefinisjoner av listeførte sykdommer nevnt i artikkel 9 nr. 1 bokstav e), og dersom det er relevant, nye sykdommer,
+3. kriteriene for å fastslå om en sykdom på bakgrunn av sykdomsprofil og relevante risikofaktorer skal omfattes av et overvåkingsprogram som er relevant for Unionen i samsvar med artikkel 30 nr. 1 bokstav a),
+4. krav til overvåkingsprogrammer i henhold til artikkel 28 nr. 1 når det gjelder
+
+   1. innholdet i overvåkingsprogrammer,
+   2. opplysninger som skal tas med ved framlegging av overvåkingsprogrammer i samsvar med artikkel 28 nr. 2, og av regelmessige rapporter i samsvar med artikkel 28 nr. 3,
+   3. overvåkingsprogrammenes anvendelsestid.
 
 ###### Artikkel 30
 
 Gjennomføringsmyndighet
 
-1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette krav til overvåking og overvåkingsprogrammer i henhold til artikkel 26 og 28 samt reglene vedtatt i henhold til artikkel 29 når det gjelderfastsettelse av hvilke av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav e) som skal omfattes av overvåkingsprogrammer i samsvar med artikkel 28, herunder programmenes geografiske dekning,formatet og framgangsmåten forframlegging av nevnte overvåkingsprogrammer til orientering for Kommisjonen og øvrige medlemsstater,rapportering til Kommisjonen om resultatene av overvåkingen.
+1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette krav til overvåking og overvåkingsprogrammer i henhold til artikkel 26 og 28 samt reglene vedtatt i henhold til artikkel 29 når det gjelder
+
+1. fastsettelse av hvilke av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav e) som skal omfattes av overvåkingsprogrammer i samsvar med artikkel 28, herunder programmenes geografiske dekning,
+2. formatet og framgangsmåten for
+
+   1. framlegging av nevnte overvåkingsprogrammer til orientering for Kommisjonen og øvrige medlemsstater,
+   2. rapportering til Kommisjonen om resultatene av overvåkingen.
 
 2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette de kriteriene som skal brukes til vurdering av overvåkingsprogrammene nevnt i artikkel 28.
 
@@ -1196,41 +1844,92 @@ Utryddelsesprogrammer
 
 Obligatoriske og frivillige utryddelsesprogrammer
 
-1\. Medlemsstater som ikke er eller ikke er dokumentert fri for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) på hele sitt territorium eller i soner eller segmenter av dette, skalopprette et program med sikte på å utrydde nevnte listeførte sykdom eller vise at medlemsstaten er fri for denne sykdommen, som skal gjennomføres i dyrepopulasjoner som berøres av sykdommen, og som omfatter relevante deler av medlemsstatens territorium eller relevante soner eller segmenter av dette («obligatorisk utryddelsesprogram»), og som skal benyttes inntil vilkårene for å erklære sykdomsfri status for det territoriet eller den sonen som er berørt i medlemsstaten, i samsvar med artikkel 36 nr. 1, eller segment, i samsvar med artikkel 37 nr. 2, er oppfylt,legge fram utkastet til obligatorisk utryddelsesprogram for Kommisjonen for godkjenning.
+1\. Medlemsstater som ikke er eller ikke er dokumentert fri for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) på hele sitt territorium eller i soner eller segmenter av dette, skal
 
-2\. Medlemsstater som ikke er eller ikke er dokumentert fri for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav c), og som beslutter å opprette et program for utryddelse av nevnte listeførte sykdom som skal gjennomføres i dyrepopulasjoner som berøres av den aktuelle sykdommen, og som omfatter relevante deler av medlemsstatenes territorium eller soner eller segmenter av dette («frivillig utryddelsesprogram»), skal legge fram et utkast til programmet for Kommisjonen for godkjenning dersom den berørte medlemsstaten ber om anerkjennelse i Unionen av dyrehelsegarantier for den aktuelle sykdommen med henblikk på forflytning av dyr eller produkter.Et slikt frivillig utryddelsesprogram skal benyttes inntilvilkårene for å erklære sykdomsfri status for det territoriet i medlemsstaten eller den sonen som er berørt, i samsvar med artikkel 36 nr. 1, eller segment, som fastsatt i artikkel 37 nr. 2, er oppfylt, ellerdet er fastslått at vilkårene for å erklære sykdomsfri status ikke kan oppfylles, og at programmet ikke lenger tjener sitt formål, ellerden berørte medlemsstaten trekker programmet tilbake.
+1. opprette et program med sikte på å utrydde nevnte listeførte sykdom eller vise at medlemsstaten er fri for denne sykdommen, som skal gjennomføres i dyrepopulasjoner som berøres av sykdommen, og som omfatter relevante deler av medlemsstatens territorium eller relevante soner eller segmenter av dette («obligatorisk utryddelsesprogram»), og som skal benyttes inntil vilkårene for å erklære sykdomsfri status for det territoriet eller den sonen som er berørt i medlemsstaten, i samsvar med artikkel 36 nr. 1, eller segment, i samsvar med artikkel 37 nr. 2, er oppfylt,
+2. legge fram utkastet til obligatorisk utryddelsesprogram for Kommisjonen for godkjenning.
 
-3\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter godkjenneutkast til obligatoriske utryddelsesprogrammer som den forelegges for godkjenning i samsvar med nr. 1,utkast til frivillige utryddelsesprogrammer som den forelegges for godkjenning i samsvar med nr. 2,dersom vilkårene fastsatt i dette kapittelet er oppfylt.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+2\. Medlemsstater som ikke er eller ikke er dokumentert fri for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav c), og som beslutter å opprette et program for utryddelse av nevnte listeførte sykdom som skal gjennomføres i dyrepopulasjoner som berøres av den aktuelle sykdommen, og som omfatter relevante deler av medlemsstatenes territorium eller soner eller segmenter av dette («frivillig utryddelsesprogram»), skal legge fram et utkast til programmet for Kommisjonen for godkjenning dersom den berørte medlemsstaten ber om anerkjennelse i Unionen av dyrehelsegarantier for den aktuelle sykdommen med henblikk på forflytning av dyr eller produkter.
 
-4\. I behørig begrunnede, tvingende hastetilfeller knyttet til en listeført sykdom som utgjør en svært betydelig risiko, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning som fastsatt i nr. 3 bokstav a), i samsvar med prosedyren nevnt i artikkel 266 nr. 3.Kommisjonen kan av behørig berettigede grunner ved hjelp av gjennomføringsrettsakter godkjenne en endring som er foreslått av den berørte medlemsstaten, eller tilbakekalle godkjenningen av utryddelsesprogrammer som er godkjent i samsvar med nr. 3 bokstav a) og b). Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+Et slikt frivillig utryddelsesprogram skal benyttes inntil
 
-5\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderstrategier for sykdomsbekjempelse, delmål og hovedmål for bestemte sykdommer og anvendelsestid for utryddelsesprogrammene,unntak fra kravet om framlegging av utryddelsesprogrammer for godkjenning som fastsatt i nr. 1 bokstav b) og i nr. 2, dersom slik godkjenning ikke er nødvendig fordi det er vedtatt regler for slike programmer i samsvar med artikkel 32 nr. 2 og artikkel 35,de opplysningene medlemsstatene skal gi til Kommisjonen og de øvrige medlemsstatene om unntak fra kravet om godkjenning av utryddelsesprogrammer, som fastsatt i bokstav b) i dette nummeret.Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 for å endre eller oppheve regler vedtatt i henhold til bokstav b) i dette nummeret.
+1. vilkårene for å erklære sykdomsfri status for det territoriet i medlemsstaten eller den sonen som er berørt, i samsvar med artikkel 36 nr. 1, eller segment, som fastsatt i artikkel 37 nr. 2, er oppfylt, eller
+2. det er fastslått at vilkårene for å erklære sykdomsfri status ikke kan oppfylles, og at programmet ikke lenger tjener sitt formål, eller
+3. den berørte medlemsstaten trekker programmet tilbake.
+
+3\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter godkjenne
+
+1. utkast til obligatoriske utryddelsesprogrammer som den forelegges for godkjenning i samsvar med nr. 1,
+2. utkast til frivillige utryddelsesprogrammer som den forelegges for godkjenning i samsvar med nr. 2,
+
+dersom vilkårene fastsatt i dette kapittelet er oppfylt.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+
+4\. I behørig begrunnede, tvingende hastetilfeller knyttet til en listeført sykdom som utgjør en svært betydelig risiko, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning som fastsatt i nr. 3 bokstav a), i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
+
+Kommisjonen kan av behørig berettigede grunner ved hjelp av gjennomføringsrettsakter godkjenne en endring som er foreslått av den berørte medlemsstaten, eller tilbakekalle godkjenningen av utryddelsesprogrammer som er godkjent i samsvar med nr. 3 bokstav a) og b). Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+
+5\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. strategier for sykdomsbekjempelse, delmål og hovedmål for bestemte sykdommer og anvendelsestid for utryddelsesprogrammene,
+2. unntak fra kravet om framlegging av utryddelsesprogrammer for godkjenning som fastsatt i nr. 1 bokstav b) og i nr. 2, dersom slik godkjenning ikke er nødvendig fordi det er vedtatt regler for slike programmer i samsvar med artikkel 32 nr. 2 og artikkel 35,
+3. de opplysningene medlemsstatene skal gi til Kommisjonen og de øvrige medlemsstatene om unntak fra kravet om godkjenning av utryddelsesprogrammer, som fastsatt i bokstav b) i dette nummeret.
+
+Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 for å endre eller oppheve regler vedtatt i henhold til bokstav b) i dette nummeret.
 
 ###### Artikkel 32
 
 Tiltak i obligatoriske og frivillige utryddelsesprogrammer
 
-1\. Utryddelsesprogrammene skal omfatte minst følgende tiltak:Tiltak for sykdomsbekjempelse for å utrydde sykdomsagensen i anlegg, segmenter og soner der en sykdom forekommer, og for å hindre ny infeksjon.Overvåking som skal utføres i samsvar med reglene fastsatt i artikkel 26–30 for å godtgjøreeffektiviteten av tiltakene for sykdomsbekjempelse fastsatt i bokstav a),fravær av den listeførte sykdommen.Tiltak for sykdomsbekjempelse som skal treffes ved positive overvåkingsresultater.
+1\. Utryddelsesprogrammene skal omfatte minst følgende tiltak:
 
-2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende elementer, for å sikre at utryddelsesprogrammene er virkningsfulle:Tiltak for sykdomsbekjempelse som fastsatt i nr. 1 bokstav a).Tiltak for sykdomsbekjempelse som skal treffes for anlegg, soner eller segmenter for å hindre ny infeksjon i målpopulasjonen av den aktuelle sykdommen.Overvåkingens utforming, midler, diagnostiske metoder, hyppighet, intensitet, målpopulasjon og prøvetakingsmønstre.Tiltak for sykdomsbekjempelse som skal treffes ved positive overvåkingsresultater for den listeførte sykdommen i henhold til nr. 1 bokstav c).Kriterier for vaksinasjon, dersom det er relevant og hensiktsmessig for den aktuelle sykdommen eller dyrearten.
+1. Tiltak for sykdomsbekjempelse for å utrydde sykdomsagensen i anlegg, segmenter og soner der en sykdom forekommer, og for å hindre ny infeksjon.
+2. Overvåking som skal utføres i samsvar med reglene fastsatt i artikkel 26–30 for å godtgjøre
+
+   1. effektiviteten av tiltakene for sykdomsbekjempelse fastsatt i bokstav a),
+   2. fravær av den listeførte sykdommen.
+3. Tiltak for sykdomsbekjempelse som skal treffes ved positive overvåkingsresultater.
+
+2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende elementer, for å sikre at utryddelsesprogrammene er virkningsfulle:
+
+1. Tiltak for sykdomsbekjempelse som fastsatt i nr. 1 bokstav a).
+2. Tiltak for sykdomsbekjempelse som skal treffes for anlegg, soner eller segmenter for å hindre ny infeksjon i målpopulasjonen av den aktuelle sykdommen.
+3. Overvåkingens utforming, midler, diagnostiske metoder, hyppighet, intensitet, målpopulasjon og prøvetakingsmønstre.
+4. Tiltak for sykdomsbekjempelse som skal treffes ved positive overvåkingsresultater for den listeførte sykdommen i henhold til nr. 1 bokstav c).
+5. Kriterier for vaksinasjon, dersom det er relevant og hensiktsmessig for den aktuelle sykdommen eller dyrearten.
 
 ###### Artikkel 33
 
 Innholdet i obligatoriske og frivillige utryddelsesprogrammer som legges fram for Kommisjonen for godkjenning
 
-Medlemsstatene skal ta med følgende opplysninger i søknader om godkjenning av obligatoriske og frivillige utryddelsesprogrammer som legges fram for Kommisjonen for godkjenning i samsvar med artikkel 31 nr. 1 og 2:En beskrivelse av den epidemiologiske situasjonen for den listeførte sykdommen som omfattes av det aktuelle obligatoriske eller frivillige utryddelsesprogrammet.En beskrivelse og avgrensning av det geografiske og administrative området eller segmentet som omfattes av utryddelsesprogrammet.En beskrivelse av tiltakene for sykdomsbekjempelse i utryddelsesprogrammet som fastsatt i artikkel 32 nr. 1, og i reglene vedtatt i henhold til artikkel 32 nr. 2.En beskrivelse av organisasjonen og overvåkingen av de partene som deltar i utryddelsesprogrammet samt deres roller.Anslått varighet for utryddelsesprogrammet.Delmålene og strategiene for sykdomsbekjempelse ved gjennomføring av utryddelsesprogrammet.
+Medlemsstatene skal ta med følgende opplysninger i søknader om godkjenning av obligatoriske og frivillige utryddelsesprogrammer som legges fram for Kommisjonen for godkjenning i samsvar med artikkel 31 nr. 1 og 2:
+
+1. En beskrivelse av den epidemiologiske situasjonen for den listeførte sykdommen som omfattes av det aktuelle obligatoriske eller frivillige utryddelsesprogrammet.
+2. En beskrivelse og avgrensning av det geografiske og administrative området eller segmentet som omfattes av utryddelsesprogrammet.
+3. En beskrivelse av tiltakene for sykdomsbekjempelse i utryddelsesprogrammet som fastsatt i artikkel 32 nr. 1, og i reglene vedtatt i henhold til artikkel 32 nr. 2.
+4. En beskrivelse av organisasjonen og overvåkingen av de partene som deltar i utryddelsesprogrammet samt deres roller.
+5. Anslått varighet for utryddelsesprogrammet.
+6. Delmålene og strategiene for sykdomsbekjempelse ved gjennomføring av utryddelsesprogrammet.
 
 ###### Artikkel 34
 
 Rapportering
 
-Medlemsstater som gjennomfører utryddelsesprogrammer, skal legge fram for Kommisjonenrapporter som gir Kommisjonen mulighet til å overvåke om delmålene for de pågående utryddelsesprogrammene som nevnt i artikkel 33 bokstav f), er oppfylt,en sluttrapport etter at det aktuelle utryddelsesprogrammet er gjennomført.
+Medlemsstater som gjennomfører utryddelsesprogrammer, skal legge fram for Kommisjonen
+
+1. rapporter som gir Kommisjonen mulighet til å overvåke om delmålene for de pågående utryddelsesprogrammene som nevnt i artikkel 33 bokstav f), er oppfylt,
+2. en sluttrapport etter at det aktuelle utryddelsesprogrammet er gjennomført.
 
 ###### Artikkel 35
 
 Gjennomføringsmyndighet
 
-Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for kravene til opplysninger, format og framgangsmåter fastsatt i artikkel 31–34 når det gjelderframlegging av utkast til obligatoriske og frivillige utryddelsesprogrammer for godkjenning,resultatindikatorer,rapportering til Kommisjonen og de øvrige medlemsstatene om resultatene av gjennomføringen av de obligatoriske og frivillige utryddelsesprogrammene.
+Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for kravene til opplysninger, format og framgangsmåter fastsatt i artikkel 31–34 når det gjelder
+
+1. framlegging av utkast til obligatoriske og frivillige utryddelsesprogrammer for godkjenning,
+2. resultatindikatorer,
+3. rapportering til Kommisjonen og de øvrige medlemsstatene om resultatene av gjennomføringen av de obligatoriske og frivillige utryddelsesprogrammene.
 
 Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -1241,27 +1940,73 @@ Sykdomsfri status
 
 Sykdomsfrie medlemsstater og soner
 
-1\. En medlemsstat kan søke Kommisjonen om godkjenning av sykdomsfri status for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) og c), for én eller flere av de berørte dyreartene, for hele sitt territorium eller for én eller flere soner av dette, forutsatt at ett eller flere av følgende vilkår er oppfylt:Ingen av de listeførte artene for den sykdommen som søknaden om sykdomsfri status gjelder, finnes noe sted på den berørte medlemsstatens territorium eller i den eller de relevante sonene som omfattes av søknaden.Det er kjent at sykdomsagensen ikke kan overleve på medlemsstatens territorium eller i den eller de relevante sonene søknaden gjelder, i samsvar med kriteriene nevnt i artikkel 39 bokstav a) ii).Når det gjelder listeførte sykdommer som bare kan overføres gjennom vektorer, og ingen vektorer er til stede, eller dersom det er kjent at ingen vektorer kan overleve på medlemsstatens territorium eller i den eller de relevante sonene søknaden gjelder, i samsvar med kriteriene nevnt i artikkel 39 bokstav a) ii).Fravær av den listeførte sykdommen er godtgjort gjennomet utryddelsesprogram som oppfyller reglene fastsatt i artikkel 32 nr. 1, og reglene vedtatt i henhold til nr. 2 i nevnte artikkel,historiske data og overvåkingsdata.
+1\. En medlemsstat kan søke Kommisjonen om godkjenning av sykdomsfri status for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) og c), for én eller flere av de berørte dyreartene, for hele sitt territorium eller for én eller flere soner av dette, forutsatt at ett eller flere av følgende vilkår er oppfylt:
+
+1. Ingen av de listeførte artene for den sykdommen som søknaden om sykdomsfri status gjelder, finnes noe sted på den berørte medlemsstatens territorium eller i den eller de relevante sonene som omfattes av søknaden.
+2. Det er kjent at sykdomsagensen ikke kan overleve på medlemsstatens territorium eller i den eller de relevante sonene søknaden gjelder, i samsvar med kriteriene nevnt i artikkel 39 bokstav a) ii).
+3. Når det gjelder listeførte sykdommer som bare kan overføres gjennom vektorer, og ingen vektorer er til stede, eller dersom det er kjent at ingen vektorer kan overleve på medlemsstatens territorium eller i den eller de relevante sonene søknaden gjelder, i samsvar med kriteriene nevnt i artikkel 39 bokstav a) ii).
+4. Fravær av den listeførte sykdommen er godtgjort gjennom
+
+   1. et utryddelsesprogram som oppfyller reglene fastsatt i artikkel 32 nr. 1, og reglene vedtatt i henhold til nr. 2 i nevnte artikkel,
+   2. historiske data og overvåkingsdata.
 
 2\. Medlemsstatenes søknader om sykdomsfri status skal inneholde dokumentasjon som viser at vilkårene for sykdomsfri status fastsatt i nr. 1, er oppfylt.
 
-3\. En medlemsstat kan i visse særlige tilfeller søke Kommisjonen om godkjenning av sykdomsfri status for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a), og særlig om godkjenning av ikke-vaksinert status for hele territoriet eller for én eller flere soner av dette, forutsatt at ett eller flere av følgende vilkår er oppfylt:Fravær av den listeførte sykdommen er godtgjort gjennomet utryddelsesprogram som oppfyller reglene fastsatt i artikkel 32 nr. 1, og reglene vedtatt i henhold til nr. 2 i nevnte artikkel,historiske data og overvåkingsdata.Det er godtgjort at vaksinasjon mot sykdommen ville medføre høyere kostnader enn kostnadene ved å opprettholde fravær av sykdom uten vaksinasjon.
+3\. En medlemsstat kan i visse særlige tilfeller søke Kommisjonen om godkjenning av sykdomsfri status for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a), og særlig om godkjenning av ikke-vaksinert status for hele territoriet eller for én eller flere soner av dette, forutsatt at ett eller flere av følgende vilkår er oppfylt:
 
-4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter, som om nødvendig kan endres, godkjenne medlemsstatenes søknader om sykdomsfri status eller ikke-vaksinert status når vilkårene nevnt i nr. 1 og 2 og ved behov nr. 3, er oppfylt.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. Fravær av den listeførte sykdommen er godtgjort gjennom
+
+   1. et utryddelsesprogram som oppfyller reglene fastsatt i artikkel 32 nr. 1, og reglene vedtatt i henhold til nr. 2 i nevnte artikkel,
+   2. historiske data og overvåkingsdata.
+2. Det er godtgjort at vaksinasjon mot sykdommen ville medføre høyere kostnader enn kostnadene ved å opprettholde fravær av sykdom uten vaksinasjon.
+
+4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter, som om nødvendig kan endres, godkjenne medlemsstatenes søknader om sykdomsfri status eller ikke-vaksinert status når vilkårene nevnt i nr. 1 og 2 og ved behov nr. 3, er oppfylt.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Artikkel 37
 
 Segmenter
 
-1\. En medlemsstat kan søke Kommisjonen om anerkjennelse av sykdomsfri status for segmenter med hensyn til listeførte sykdommer nevnt i artikkel 9 nr. 1 bokstav a) og om vern av sykdomsfri status i et slikt segment ved utbrudd av én eller flere av de nevnte listeførte sykdommene på sitt territorium, under følgende forutsetninger:Innføringen av den eller de listeførte sykdommene søknaden gjelder, effektivt kan forebygges på segmentplan samtidig som det tas hensyn til sykdomsprofilen.Segmentet søknaden gjelder, er underlagt ett enkelt, felles forvaltningssystem for biosikkerhet utformet for å sikre sykdomsfri status for alle anlegg som inngår i det.Segmentet søknaden gjelder, er godkjent av vedkommende myndighet med henblikk på forflytning av dyr og produkter i samsvar medartikkel 99 og 100 for segmenter der landdyr og produkter av disse holdes,artikkel 183 og 184 for segmenter der akvakulturdyr og produkter av disse holdes.
+1\. En medlemsstat kan søke Kommisjonen om anerkjennelse av sykdomsfri status for segmenter med hensyn til listeførte sykdommer nevnt i artikkel 9 nr. 1 bokstav a) og om vern av sykdomsfri status i et slikt segment ved utbrudd av én eller flere av de nevnte listeførte sykdommene på sitt territorium, under følgende forutsetninger:
 
-2\. En medlemsstat kan søke Kommisjonen om anerkjennelse av sykdomsfri status for segmenter med hensyn til én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) og c), under følgende forutsetninger:Innføringen av den eller de listeførte sykdommene søknaden gjelder, effektivt kan forebygges på segmentplan samtidig som det tas hensyn til sykdomsprofilen.Ett eller flere av følgende vilkår er oppfylt:Vilkårene fastsatt i artikkel 36 nr. 1 er oppfylt.Anleggene i segmentet søknaden gjelder, har påbegynt eller gjenopptatt sine aktiviteter og har fastsatt et felles forvaltningssystem for biosikkerhet som er utformet for å sikre fravær av sykdom i segmentet.Segmentet søknaden gjelder, er underlagt ett enkelt, felles forvaltningssystem for biosikkerhet utformet for å sikre sykdomsfri status for alle anlegg som inngår i det.Segmentet søknaden gjelder, er godkjent av vedkommende myndighet med henblikk på forflytning av dyr og produkter i samsvar medartikkel 99 og 100 for segmenter der landdyr og produkter av disse holdes,artikkel 183 og 184 for segmenter der akvakulturdyr og produkter av disse holdes.
+1. Innføringen av den eller de listeførte sykdommene søknaden gjelder, effektivt kan forebygges på segmentplan samtidig som det tas hensyn til sykdomsprofilen.
+2. Segmentet søknaden gjelder, er underlagt ett enkelt, felles forvaltningssystem for biosikkerhet utformet for å sikre sykdomsfri status for alle anlegg som inngår i det.
+3. Segmentet søknaden gjelder, er godkjent av vedkommende myndighet med henblikk på forflytning av dyr og produkter i samsvar med
+
+   1. artikkel 99 og 100 for segmenter der landdyr og produkter av disse holdes,
+   2. artikkel 183 og 184 for segmenter der akvakulturdyr og produkter av disse holdes.
+
+2\. En medlemsstat kan søke Kommisjonen om anerkjennelse av sykdomsfri status for segmenter med hensyn til én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) og c), under følgende forutsetninger:
+
+1. Innføringen av den eller de listeførte sykdommene søknaden gjelder, effektivt kan forebygges på segmentplan samtidig som det tas hensyn til sykdomsprofilen.
+2. Ett eller flere av følgende vilkår er oppfylt:
+
+   1. Vilkårene fastsatt i artikkel 36 nr. 1 er oppfylt.
+   2. Anleggene i segmentet søknaden gjelder, har påbegynt eller gjenopptatt sine aktiviteter og har fastsatt et felles forvaltningssystem for biosikkerhet som er utformet for å sikre fravær av sykdom i segmentet.
+3. Segmentet søknaden gjelder, er underlagt ett enkelt, felles forvaltningssystem for biosikkerhet utformet for å sikre sykdomsfri status for alle anlegg som inngår i det.
+4. Segmentet søknaden gjelder, er godkjent av vedkommende myndighet med henblikk på forflytning av dyr og produkter i samsvar med
+
+   1. artikkel 99 og 100 for segmenter der landdyr og produkter av disse holdes,
+   2. artikkel 183 og 184 for segmenter der akvakulturdyr og produkter av disse holdes.
 
 3\. Medlemsstatenes søknader om anerkjennelse av sykdomsfri status for segmenter i samsvar med nr. 1 og 2, skal inneholde dokumentasjon som viser at vilkårene i nevnte numre er oppfylt.
 
-4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakteranerkjenne sykdomsfri status for segmenter når vilkårene i nr. 1 eller 2 og i nr. 3 er oppfylt, med forbehold for eventuelle nødvendige endringer,fastsette for hvilke av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a), b) og c), sykdomsfrie segmenter kan opprettes.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter
 
-5\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder utfyllende bestemmelser til denne artikkelen omkravene til anerkjennelse av sykdomsfri status for segmenter i henhold til nr. 1 og 2 på bakgrunn av sykdomsprofilen for de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a), b) og c), når det gjelderovervåkingsresultater og annen dokumentasjon som kreves for å dokumentere fravær av sykdom,biosikkerhetstiltak,nærmere regler for godkjenning fra vedkommende myndighet av sykdomsfri status for segmenter i henhold til nr. 1 og 2, ogregler for segmenter som ligger på mer enn én medlemsstats territorium.
+1. anerkjenne sykdomsfri status for segmenter når vilkårene i nr. 1 eller 2 og i nr. 3 er oppfylt, med forbehold for eventuelle nødvendige endringer,
+2. fastsette for hvilke av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a), b) og c), sykdomsfrie segmenter kan opprettes.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+
+5\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder utfyllende bestemmelser til denne artikkelen om
+
+1. kravene til anerkjennelse av sykdomsfri status for segmenter i henhold til nr. 1 og 2 på bakgrunn av sykdomsprofilen for de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a), b) og c), når det gjelder
+
+   1. overvåkingsresultater og annen dokumentasjon som kreves for å dokumentere fravær av sykdom,
+   2. biosikkerhetstiltak,
+2. nærmere regler for godkjenning fra vedkommende myndighet av sykdomsfri status for segmenter i henhold til nr. 1 og 2, og
+3. regler for segmenter som ligger på mer enn én medlemsstats territorium.
 
 ###### Artikkel 38
 
@@ -1275,13 +2020,29 @@ Medlemsstatene skal offentliggjøre disse listene. Kommisjonen skal bistå medle
 
 Delegering av myndighet når det gjelder sykdomsfri status i medlemsstater og soner
 
-Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjeldernærmere regler for sykdomsfri status i medlemsstater og soner av disse, på grunnlag av de ulike sykdomsprofilene når det gjelderde kriteriene som skal brukes for å underbygge påstander fra medlemsstatene om at ingen listeførte arter forekommer eller kan overleve på deres territorium, og den dokumentasjonen som kreves for å underbygge slike påstander, i samsvar med artikkel 36 nr. 1 bokstav a),de kriteriene som skal brukes og den dokumentasjonen som kreves for å underbygge påstander om at en sykdomsagens eller vektor ikke kan overleve, som fastsatt i artikkel 36 nr. 1 bokstav b) og c),de kriteriene og vilkårene som skal gjelde for å fastsette fravær av den aktuelle sykdommen, som nevnt i artikkel 36 nr. 1 bokstav d),overvåkingsresultater og annen dokumentasjon som kreves for å dokumentere fravær av sykdom,biosikkerhetstiltak,restriksjoner på og vilkår for vaksinasjon i sykdomsfrie medlemsstater og soner av disse,fastsettelse av soner som skiller de sykdomsfrie sonene eller sonene i utryddelsesprogrammet fra restriksjonssonene («buffersoner»),soner som ligger på mer enn én medlemsstats territorium,unntak fra kravet om godkjenning fra Kommisjonen av sykdomsfri status for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) og c) i samsvar med artikkel 36 nr. 1, dersom slik godkjenning ikke kreves fordi det er fastsatt nærmere regler for fravær av sykdom i regler vedtatt i henhold til bokstav a) i denne artikkelen,de opplysningene som medlemsstatene skal gi til Kommisjonen og de øvrige medlemsstatene for å underbygge erklæringer om sykdomsfri status, uten at en gjennomføringsrettsakt er vedtatt i samsvar med artikkel 36 nr. 4 i henhold til bokstav b) i denne artikkelen.
+Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. nærmere regler for sykdomsfri status i medlemsstater og soner av disse, på grunnlag av de ulike sykdomsprofilene når det gjelder
+
+   1. de kriteriene som skal brukes for å underbygge påstander fra medlemsstatene om at ingen listeførte arter forekommer eller kan overleve på deres territorium, og den dokumentasjonen som kreves for å underbygge slike påstander, i samsvar med artikkel 36 nr. 1 bokstav a),
+   2. de kriteriene som skal brukes og den dokumentasjonen som kreves for å underbygge påstander om at en sykdomsagens eller vektor ikke kan overleve, som fastsatt i artikkel 36 nr. 1 bokstav b) og c),
+   3. de kriteriene og vilkårene som skal gjelde for å fastsette fravær av den aktuelle sykdommen, som nevnt i artikkel 36 nr. 1 bokstav d),
+   4. overvåkingsresultater og annen dokumentasjon som kreves for å dokumentere fravær av sykdom,
+   5. biosikkerhetstiltak,
+   6. restriksjoner på og vilkår for vaksinasjon i sykdomsfrie medlemsstater og soner av disse,
+   7. fastsettelse av soner som skiller de sykdomsfrie sonene eller sonene i utryddelsesprogrammet fra restriksjonssonene («buffersoner»),
+   8. soner som ligger på mer enn én medlemsstats territorium,
+2. unntak fra kravet om godkjenning fra Kommisjonen av sykdomsfri status for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) og c) i samsvar med artikkel 36 nr. 1, dersom slik godkjenning ikke kreves fordi det er fastsatt nærmere regler for fravær av sykdom i regler vedtatt i henhold til bokstav a) i denne artikkelen,
+3. de opplysningene som medlemsstatene skal gi til Kommisjonen og de øvrige medlemsstatene for å underbygge erklæringer om sykdomsfri status, uten at en gjennomføringsrettsakt er vedtatt i samsvar med artikkel 36 nr. 4 i henhold til bokstav b) i denne artikkelen.
 
 ###### Artikkel 40
 
 Gjennomføringsmyndighet
 
-Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette detaljerte krav til de opplysningene som medlemsstatene skal gi til Kommisjonen og de øvrige medlemsstatene for å underbygge erklæringer om sykdomsfri status for territorier, soner og segmenter i samsvar med artikkel 36–39, og formatet og framgangsmåtene forsøknader om anerkjennelse av sykdomsfri status for hele territoriet til den berørte medlemsstaten, eller soner eller segmenter av dette,utveksling av opplysninger mellom medlemsstatene og Kommisjonen om sykdomsfrie medlemsstater, eller soner og segmenter av disse.
+Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette detaljerte krav til de opplysningene som medlemsstatene skal gi til Kommisjonen og de øvrige medlemsstatene for å underbygge erklæringer om sykdomsfri status for territorier, soner og segmenter i samsvar med artikkel 36–39, og formatet og framgangsmåtene for
+
+1. søknader om anerkjennelse av sykdomsfri status for hele territoriet til den berørte medlemsstaten, eller soner eller segmenter av dette,
+2. utveksling av opplysninger mellom medlemsstatene og Kommisjonen om sykdomsfrie medlemsstater, eller soner og segmenter av disse.
 
 Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -1289,23 +2050,39 @@ Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyr
 
 Opprettholdelse av sykdomsfri status
 
-1\. Medlemsstatene kan bare opprettholde sykdomsfri status for sine territorier eller soner eller segmenter av disse så lengevilkårene for sykdomsfri status fastsatt i artikkel 36 nr. 1 og artikkel 37 nr. 1 og 2 og reglene fastsatt i henhold til nr. 3 i denne artikkelen og artikkel 39, er oppfylt,det foretas overvåking, idet det tas hensyn til kravene fastsatt i artikkel 27, for å kontrollere at territoriet, sonen eller segmentet det gjelder, fortsatt er fritt for den listeførte sykdommen sykdomsfri status ble godkjent eller anerkjent for,det anvendes restriksjoner på forflytninger av dyr og eventuelt produkter av disse, av listeførte arter for den listeførte sykdommen som sykdomsfri status ble godkjent eller anerkjent for, inn i territoriet, sonen eller segmentet det gjelder, i samsvar med reglene fastsatt i del IV og V,andre biosikkerhetstiltak benyttes for å forhindre innføring av den listeførte sykdommen som sykdomsfri status ble godkjent eller anerkjent for.
+1\. Medlemsstatene kan bare opprettholde sykdomsfri status for sine territorier eller soner eller segmenter av disse så lenge
+
+1. vilkårene for sykdomsfri status fastsatt i artikkel 36 nr. 1 og artikkel 37 nr. 1 og 2 og reglene fastsatt i henhold til nr. 3 i denne artikkelen og artikkel 39, er oppfylt,
+2. det foretas overvåking, idet det tas hensyn til kravene fastsatt i artikkel 27, for å kontrollere at territoriet, sonen eller segmentet det gjelder, fortsatt er fritt for den listeførte sykdommen sykdomsfri status ble godkjent eller anerkjent for,
+3. det anvendes restriksjoner på forflytninger av dyr og eventuelt produkter av disse, av listeførte arter for den listeførte sykdommen som sykdomsfri status ble godkjent eller anerkjent for, inn i territoriet, sonen eller segmentet det gjelder, i samsvar med reglene fastsatt i del IV og V,
+4. andre biosikkerhetstiltak benyttes for å forhindre innføring av den listeførte sykdommen som sykdomsfri status ble godkjent eller anerkjent for.
 
 2\. En medlemsstat skal umiddelbart informere Kommisjonen dersom vilkårene nevnt i nr. 1 for å opprettholde sykdomsfri status, ikke lenger er oppfylt.
 
-3\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende vilkår for å opprettholde sykdomsfri status:Overvåking som fastsatt i nr. 1 bokstav b).Biosikkerhetstiltak som fastsatt i nr. 1 bokstav d).
+3\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende vilkår for å opprettholde sykdomsfri status:
+
+1. Overvåking som fastsatt i nr. 1 bokstav b).
+2. Biosikkerhetstiltak som fastsatt i nr. 1 bokstav d).
 
 ###### Artikkel 42
 
 Midlertidig oppheving, tilbakekalling og gjeninnføring av sykdomsfri status
 
-1\. Dersom en medlemsstat får kjennskap til eller har begrunnet mistanke om at et av vilkårene for å opprettholde statusen som sykdomsfri medlemsstat eller sone eller segment av denne, er brutt, skal den umiddelbartdersom det er relevant og avhengig av risikoen, midlertidig stanse eller begrense forflytninger av de listeførte artene, når det gjelder den listeførte sykdommen som sykdomsfri status er godkjent eller anerkjent for, til andre medlemsstater, soner eller segmenter med bedre helsestatus for den listeførte sykdommen,dersom det er relevant for å forhindre spredning av en listeført sykdom som sykdomsfri status er godkjent eller anerkjent for, iverksette tiltakene for sykdomsbekjempelse fastsatt i del III avdeling II.
+1\. Dersom en medlemsstat får kjennskap til eller har begrunnet mistanke om at et av vilkårene for å opprettholde statusen som sykdomsfri medlemsstat eller sone eller segment av denne, er brutt, skal den umiddelbart
 
-2\. Tiltakene fastsatt i nr. 1 skal oppheves dersom ytterligere undersøkelser bekrefter atdet mistenkte bruddet på vilkår ikke har funnet sted, ellerdet mistenkte bruddet på vilkår ikke har hatt en betydelig innvirkning, og den berørte medlemsstaten kan garantere at vilkårene for å opprettholde sykdomsfri status igjen er oppfylt.
+1. dersom det er relevant og avhengig av risikoen, midlertidig stanse eller begrense forflytninger av de listeførte artene, når det gjelder den listeførte sykdommen som sykdomsfri status er godkjent eller anerkjent for, til andre medlemsstater, soner eller segmenter med bedre helsestatus for den listeførte sykdommen,
+2. dersom det er relevant for å forhindre spredning av en listeført sykdom som sykdomsfri status er godkjent eller anerkjent for, iverksette tiltakene for sykdomsbekjempelse fastsatt i del III avdeling II.
+
+2\. Tiltakene fastsatt i nr. 1 skal oppheves dersom ytterligere undersøkelser bekrefter at
+
+1. det mistenkte bruddet på vilkår ikke har funnet sted, eller
+2. det mistenkte bruddet på vilkår ikke har hatt en betydelig innvirkning, og den berørte medlemsstaten kan garantere at vilkårene for å opprettholde sykdomsfri status igjen er oppfylt.
 
 3\. Dersom den berørte medlemsstaten ved ytterligere undersøkelser bekrefter at det har forekommet et utbrudd av den listeførte sykdommen som sykdomsfri status ble gitt for, eller at det har forekommet andre betydelige brudd på vilkårene for å opprettholde sykdomsfri status som nevnt i artikkel 41 nr. 1, eller det er stor sannsynlighet for at dette har forekommet, skal medlemsstaten umiddelbart informere Kommisjonen om dette.
 
-4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter uten unødig opphold tilbakekalle godkjenningen av sykdomsfri status for en medlemsstat eller sone, gitt i samsvar med artikkel 36 nr. 4, eller anerkjennelsen av sykdomsfri status for et segment, gitt i samsvar med artikkel 37 nr. 4, etter å ha innhentet opplysninger fra den berørte medlemsstaten om at vilkårene for å opprettholde sykdomsfri status ikke lenger er oppfylt.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter uten unødig opphold tilbakekalle godkjenningen av sykdomsfri status for en medlemsstat eller sone, gitt i samsvar med artikkel 36 nr. 4, eller anerkjennelsen av sykdomsfri status for et segment, gitt i samsvar med artikkel 37 nr. 4, etter å ha innhentet opplysninger fra den berørte medlemsstaten om at vilkårene for å opprettholde sykdomsfri status ikke lenger er oppfylt.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 5\. I behørig begrunnede, tvingende tilfeller av ekstrem hast knyttet til en listeført sykdom nevnt i nr. 3 som sprer seg raskt og kan ha en betydelig innvirkning på dyrehelsen eller folkehelsen, økonomien eller samfunnet, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
@@ -1327,7 +2104,27 @@ Beredskapsplaner
 
 1\. Medlemsstatene skal etter hensiktsmessig samråd med eksperter og berørte parter utarbeide og ajourføre beredskapsplaner og om nødvendig detaljerte veiledninger som fastsetter de tiltakene som skal treffes i den berørte medlemsstaten ved forekomst av en listeført sykdom nevnt i artikkel 9 nr. 1 bokstav a), eller dersom det er relevant, en ny sykdom, for å sikre et høyt nivå av bevissthet om og beredskap mot sykdom samt evnen til å reagere raskt.
 
-2\. Beredskapsplanene, og eventuelt de detaljerte veiledningene, skal dekke minst følgende forhold:Opprettelse av en kommandokjede hos vedkommende myndighet og hos andre offentlige myndigheter for å sikre en rask og effektiv beslutningsprosess på nasjonalt, regionalt og lokalt plan.Rammen for samarbeid mellom vedkommende myndighet og øvrige offentlige myndigheter og relevante berørte parter for å sikre at tiltak treffes på en sammenhengende og samordnet måte.Tilgang tillokaler,laboratorier,utstyr,personale,beredskapsfond,alle andre hensiktsmessige materialer og ressurser som er nødvendige for å sikre rask og effektiv utryddelse av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a) eller av nye sykdommer.Tilgang til følgende sentre og grupper med nødvendig sakkunnskap til å bistå vedkommende myndighet:Et fungerende sentralt senter for sykdomsbekjempelse.Regionale og lokale sentre for sykdomsbekjempelse, alt etter hva som er hensiktsmessig ut fra forvaltningsmessige og geografiske forhold i den berørte medlemsstaten.Operative ekspertgrupper.Gjennomføring av tiltakene for sykdomsbekjempelse fastsatt i avdeling II kapittel I for de listeførte sykdommene som er nevnt i artikkel 9 nr. 1 bokstav a) og for nye sykdommer.Bestemmelser om nødvaksinasjon, dersom det er relevant.Prinsipper for geografisk avgrensning av restriksjonssonene opprettet av vedkommende myndighet i samsvar med artikkel 64 nr. 1.Samordning med nabomedlemsstater og nabotredjeland og -territorier, dersom det er relevant.
+2\. Beredskapsplanene, og eventuelt de detaljerte veiledningene, skal dekke minst følgende forhold:
+
+1. Opprettelse av en kommandokjede hos vedkommende myndighet og hos andre offentlige myndigheter for å sikre en rask og effektiv beslutningsprosess på nasjonalt, regionalt og lokalt plan.
+2. Rammen for samarbeid mellom vedkommende myndighet og øvrige offentlige myndigheter og relevante berørte parter for å sikre at tiltak treffes på en sammenhengende og samordnet måte.
+3. Tilgang til
+
+   1. lokaler,
+   2. laboratorier,
+   3. utstyr,
+   4. personale,
+   5. beredskapsfond,
+   6. alle andre hensiktsmessige materialer og ressurser som er nødvendige for å sikre rask og effektiv utryddelse av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a) eller av nye sykdommer.
+4. Tilgang til følgende sentre og grupper med nødvendig sakkunnskap til å bistå vedkommende myndighet:
+
+   1. Et fungerende sentralt senter for sykdomsbekjempelse.
+   2. Regionale og lokale sentre for sykdomsbekjempelse, alt etter hva som er hensiktsmessig ut fra forvaltningsmessige og geografiske forhold i den berørte medlemsstaten.
+   3. Operative ekspertgrupper.
+5. Gjennomføring av tiltakene for sykdomsbekjempelse fastsatt i avdeling II kapittel I for de listeførte sykdommene som er nevnt i artikkel 9 nr. 1 bokstav a) og for nye sykdommer.
+6. Bestemmelser om nødvaksinasjon, dersom det er relevant.
+7. Prinsipper for geografisk avgrensning av restriksjonssonene opprettet av vedkommende myndighet i samsvar med artikkel 64 nr. 1.
+8. Samordning med nabomedlemsstater og nabotredjeland og -territorier, dersom det er relevant.
 
 ###### Artikkel 44
 
@@ -1341,13 +2138,21 @@ Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyr
 
 Simuleringsøvelser
 
-1\. Vedkommende myndighet skal sikre at simuleringsøvelsene for beredskapsplanene fastsatt i artikkel 43 nr. 1 gjennomføres regelmessig eller med passende mellomrom for åsikre et høyt nivå av bevissthet om og beredskap mot sykdom og evne til å reagere raskt i den berørte medlemsstaten,kontrollere at beredskapsplanene fungerer.
+1\. Vedkommende myndighet skal sikre at simuleringsøvelsene for beredskapsplanene fastsatt i artikkel 43 nr. 1 gjennomføres regelmessig eller med passende mellomrom for å
+
+1. sikre et høyt nivå av bevissthet om og beredskap mot sykdom og evne til å reagere raskt i den berørte medlemsstaten,
+2. kontrollere at beredskapsplanene fungerer.
 
 2\. Dersom det er mulig og hensiktsmessig bør simuleringsøvelser gjennomføres i nært samarbeid med vedkommende myndigheter i nabomedlemsstater og nabotredjeland og -territorier.
 
 3\. Medlemsstatene skal på anmodning gi Kommisjonen og de øvrige medlemsstatene tilgang til en rapport om de viktigste resultatene av de simuleringsøvelsene som er gjennomført.
 
-4\. Når det er hensiktsmessig og nødvendig, skal Kommisjonen ved hjelp av gjennomføringsrettsakter fastsette regler for den praktiske gjennomføringen av simuleringsøvelser i medlemsstatene med hensyn tilsimuleringsøvelsenes hyppighet,simuleringsøvelser som omfatter mer enn én av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a).Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+4\. Når det er hensiktsmessig og nødvendig, skal Kommisjonen ved hjelp av gjennomføringsrettsakter fastsette regler for den praktiske gjennomføringen av simuleringsøvelser i medlemsstatene med hensyn til
+
+1. simuleringsøvelsenes hyppighet,
+2. simuleringsøvelser som omfatter mer enn én av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a).
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### KAPITTEL 2
 
@@ -1357,9 +2162,25 @@ Bruk av legemidler til dyr for å forebygge og bekjempe sykdom
 
 Bruk av legemidler til dyr for å forebygge og bekjempe sykdom
 
-1\. Medlemsstatene kan treffe tiltak som gjelder bruk av legemidler til dyr for listeførte sykdommer for å sikre at forebyggingen og bekjempelsen av disse sykdommene skjer så effektivt som mulig, forutsatt at slike tiltak er hensiktsmessige eller nødvendige.Disse tiltakene kan omfatte følgende:Forbud mot og restriksjoner på bruk av legemidler til dyr.Obligatorisk bruk av legemidler til dyr.
+1\. Medlemsstatene kan treffe tiltak som gjelder bruk av legemidler til dyr for listeførte sykdommer for å sikre at forebyggingen og bekjempelsen av disse sykdommene skjer så effektivt som mulig, forutsatt at slike tiltak er hensiktsmessige eller nødvendige.
 
-2\. Medlemsstatene skal ta følgende kriterier i betraktning når de fastsetter om og hvordan legemidler til dyr skal brukes som tiltak for å forebygge og bekjempe en bestemt listeført sykdom:Sykdomsprofilen.Den listeførte sykdommens utbredelse iden berørte medlemsstaten,Unionen,nabotredjeland og -territorier, dersom det er relevant,tredjeland og territorier som dyr og produkter bringes inn til Unionen fra.Om de aktuelle legemidlene til dyr er tilgjengelige og effektive samt risikoene ved dem.Om diagnostiske prøver for å påvise infeksjoner hos dyr som er behandlet med de aktuelle legemidlene til dyr, er tilgjengelige.Økonomiske, sosiale, dyrevelferdsmessige og miljømessige konsekvenser ved bruk av de aktuelle legemidlene til dyr sammenlignet med andre tilgjengelige strategier for forebygging og bekjempelse av sykdom.
+Disse tiltakene kan omfatte følgende:
+
+1. Forbud mot og restriksjoner på bruk av legemidler til dyr.
+2. Obligatorisk bruk av legemidler til dyr.
+
+2\. Medlemsstatene skal ta følgende kriterier i betraktning når de fastsetter om og hvordan legemidler til dyr skal brukes som tiltak for å forebygge og bekjempe en bestemt listeført sykdom:
+
+1. Sykdomsprofilen.
+2. Den listeførte sykdommens utbredelse i
+
+   1. den berørte medlemsstaten,
+   2. Unionen,
+   3. nabotredjeland og -territorier, dersom det er relevant,
+   4. tredjeland og territorier som dyr og produkter bringes inn til Unionen fra.
+3. Om de aktuelle legemidlene til dyr er tilgjengelige og effektive samt risikoene ved dem.
+4. Om diagnostiske prøver for å påvise infeksjoner hos dyr som er behandlet med de aktuelle legemidlene til dyr, er tilgjengelige.
+5. Økonomiske, sosiale, dyrevelferdsmessige og miljømessige konsekvenser ved bruk av de aktuelle legemidlene til dyr sammenlignet med andre tilgjengelige strategier for forebygging og bekjempelse av sykdom.
 
 3\. Medlemsstatene skal treffe hensiktsmessige forebyggende tiltak for å verne dyrehelsen og folkehelsen når legemidler til dyr brukes i vitenskapelige undersøkelser, eller når de utvikles og prøves under kontrollerte forhold.
 
@@ -1367,7 +2188,12 @@ Bruk av legemidler til dyr for å forebygge og bekjempe sykdom
 
 Delegering av myndighet når det gjelder bruk av legemidler til dyr
 
-1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder hva som kan utgjøre hensiktsmessige og nødvendige tiltak som angitt i artikkel 46, med hensyn til følgende:Forbud mot og restriksjoner på bruk av legemidler til dyr.Særlige vilkår for bruk av legemidler til dyr for en bestemt listeført sykdom.Risikoreduserende tiltak for å forhindre at listeførte sykdommer spres gjennom dyr som behandles med legemidler til dyr, eller gjennom produkter fra slike dyr.Overvåking av bestemte listeførte sykdommer etter bruk av vaksiner eller andre legemidler til dyr.
+1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder hva som kan utgjøre hensiktsmessige og nødvendige tiltak som angitt i artikkel 46, med hensyn til følgende:
+
+1. Forbud mot og restriksjoner på bruk av legemidler til dyr.
+2. Særlige vilkår for bruk av legemidler til dyr for en bestemt listeført sykdom.
+3. Risikoreduserende tiltak for å forhindre at listeførte sykdommer spres gjennom dyr som behandles med legemidler til dyr, eller gjennom produkter fra slike dyr.
+4. Overvåking av bestemte listeførte sykdommer etter bruk av vaksiner eller andre legemidler til dyr.
 
 2\. Kommisjonen skal ta hensyn til kriteriene angitt i artikkel 46 nr. 2 når den fastsetter reglene i henhold til nr. 1.
 
@@ -1381,21 +2207,42 @@ Antigen-, vaksine- og diagnosereagensbanker
 
 Opprettelse av Unionens antigen-, vaksine- og diagnosereagensbanker
 
-1\. Kommisjonen kan for de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a) som det ikke er forbudt å vaksinere mot i henhold til en delegert rettsakt vedtatt i henhold til artikkel 47, opprette og ha ansvar for forvaltningen av Unionens antigen-, vaksine- og diagnosereagensbanker for oppbevaring og erstatning av beholdningene av ett eller flere av følgende biologiske produkter:Antigener.Vaksiner.Partier av virusstammer for produksjon av vaksiner.Diagnosereagenser.
+1\. Kommisjonen kan for de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a) som det ikke er forbudt å vaksinere mot i henhold til en delegert rettsakt vedtatt i henhold til artikkel 47, opprette og ha ansvar for forvaltningen av Unionens antigen-, vaksine- og diagnosereagensbanker for oppbevaring og erstatning av beholdningene av ett eller flere av følgende biologiske produkter:
 
-2\. Kommisjonen skal sikre at Unionens antigen-, vaksine- og diagnosereagensbanker i henhold til nr. 1har tilstrekkelige lagre av hensiktsmessig type av antigener, vaksiner, partier av virusstammer for produksjon av vaksiner, og diagnosereagenser for den aktuelle listeførte sykdommen, idet det tas hensyn til medlemsstatenes behov slik disse er anslått i forbindelse med utarbeidingen av beredskapsplanene i henhold til artikkel 43 nr. 1,regelmessig tar imot leveranser og raskt erstatter beholdningene av antigener, vaksiner, partier av virusstammer for produksjon av vaksiner, og diagnosereagenser,vedlikeholdes og flyttes i samsvar med relevante krav til biosikkerhet og biologisk inneslutning fastsatt i artikkel 16 nr. 1 og i samsvar med delegerte rettsakter vedtatt i henhold til artikkel 16 nr. 2.
+1. Antigener.
+2. Vaksiner.
+3. Partier av virusstammer for produksjon av vaksiner.
+4. Diagnosereagenser.
 
-3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderforvaltning, oppbevaring og erstatning av beholdninger i Unionens antigen-, vaksine- og diagnosereagensbanker i henhold til nr. 1 og 2,kravene til biosikkerhet og biologisk inneslutning ved drift av nevnte banker, som oppfyller kravene i artikkel 16 nr. 1 og tar hensyn til de delegerte rettsaktene som er vedtatt i henhold til artikkel 16 nr. 2.
+2\. Kommisjonen skal sikre at Unionens antigen-, vaksine- og diagnosereagensbanker i henhold til nr. 1
+
+1. har tilstrekkelige lagre av hensiktsmessig type av antigener, vaksiner, partier av virusstammer for produksjon av vaksiner, og diagnosereagenser for den aktuelle listeførte sykdommen, idet det tas hensyn til medlemsstatenes behov slik disse er anslått i forbindelse med utarbeidingen av beredskapsplanene i henhold til artikkel 43 nr. 1,
+2. regelmessig tar imot leveranser og raskt erstatter beholdningene av antigener, vaksiner, partier av virusstammer for produksjon av vaksiner, og diagnosereagenser,
+3. vedlikeholdes og flyttes i samsvar med relevante krav til biosikkerhet og biologisk inneslutning fastsatt i artikkel 16 nr. 1 og i samsvar med delegerte rettsakter vedtatt i henhold til artikkel 16 nr. 2.
+
+3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. forvaltning, oppbevaring og erstatning av beholdninger i Unionens antigen-, vaksine- og diagnosereagensbanker i henhold til nr. 1 og 2,
+2. kravene til biosikkerhet og biologisk inneslutning ved drift av nevnte banker, som oppfyller kravene i artikkel 16 nr. 1 og tar hensyn til de delegerte rettsaktene som er vedtatt i henhold til artikkel 16 nr. 2.
 
 ###### Artikkel 49
 
 Tilgang til Unionens antigen-, vaksine- og diagnosereagensbanker\*
 
-1\. Kommisjonen skal på anmodning sørge for at Unionens antigen-, vaksine- og diagnosereagensbanker leverer de biologiske produktene nevnt i artikkel 48 nr. 1, forutsatt at de finnes på lager,først og fremst til medlemsstatene ►**EØS** og Norge◄**EØS**, ogtil tredjeland eller territorier, forutsatt at leveransen først og fremst er beregnet på å forhindre at sykdom sprer seg til Unionen.
+1\. Kommisjonen skal på anmodning sørge for at Unionens antigen-, vaksine- og diagnosereagensbanker leverer de biologiske produktene nevnt i artikkel 48 nr. 1, forutsatt at de finnes på lager,
 
-2\. Er beholdningene begrenset, skal Kommisjonen prioritere tilgang til de beholdningene som skal leveres i henhold til nr. 1, på grunnlag avde sykdomsomstendighetene som anmodningen framsettes under,om det finnes en nasjonal antigen-, vaksine- og diagnosereagensbank i den medlemsstaten, tredjelandet eller det territoriet som framsetter anmodningen,om det finnes unionstiltak for obligatorisk vaksinasjon fastsatt i delegerte rettsakter vedtatt i henhold til artikkel 47.
+1. først og fremst til medlemsstatene ►**EØS** og Norge◄**EØS**, og
+2. til tredjeland eller territorier, forutsatt at leveransen først og fremst er beregnet på å forhindre at sykdom sprer seg til Unionen.
 
-►**EØS** \* Norge forplikter seg til å dekke kostnadene forbundet med transport og erstatning av antigener, vaksiner og diagnosereagenser som leveres til Norge i henhold til denne bestemmelsen.
+2\. Er beholdningene begrenset, skal Kommisjonen prioritere tilgang til de beholdningene som skal leveres i henhold til nr. 1, på grunnlag av
+
+1. de sykdomsomstendighetene som anmodningen framsettes under,
+2. om det finnes en nasjonal antigen-, vaksine- og diagnosereagensbank i den medlemsstaten, tredjelandet eller det territoriet som framsetter anmodningen,
+3. om det finnes unionstiltak for obligatorisk vaksinasjon fastsatt i delegerte rettsakter vedtatt i henhold til artikkel 47.
+
+►**EØS**
+
+\* Norge forplikter seg til å dekke kostnadene forbundet med transport og erstatning av antigener, vaksiner og diagnosereagenser som leveres til Norge i henhold til denne bestemmelsen.
 
 ◄**EØS**
 
@@ -1403,7 +2250,15 @@ Tilgang til Unionens antigen-, vaksine- og diagnosereagensbanker\*
 
 Gjennomføringsmyndighet som gjelder Unionens antigen-, vaksine- og diagnosereagensbanker
 
-1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for Unionens antigen-, vaksine- og diagnosereagensbanker, som for de biologiske produktene nevnt i artikkel 48 nr. 1 skal angihvilke av de nevnte biologiske produktene som skal inngå i Unionens antigen-, vaksine- og diagnosereagensbanker, og for hvilke av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a),typene biologiske produkter som skal inngå i Unionens antigen-, vaksine- og diagnosereagensbanker, og i hvilke mengder for hver enkelt av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a) som den aktuelle banken er opprettet for,kravene til forsyning, oppbevaring og erstatning av nevnte biologiske produkter,leveransen av nevnte biologiske produkter fra Unionens antigen-, vaksine- og diagnosereagensbanker til medlemsstater og til tredjeland og territorier,kravene til framgangsmåter og tekniske krav for å inkludere nevnte biologiske produkter i Unionens antigen-, vaksine- og diagnosereagensbanker og for å be om tilgang til dem.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for Unionens antigen-, vaksine- og diagnosereagensbanker, som for de biologiske produktene nevnt i artikkel 48 nr. 1 skal angi
+
+1. hvilke av de nevnte biologiske produktene som skal inngå i Unionens antigen-, vaksine- og diagnosereagensbanker, og for hvilke av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a),
+2. typene biologiske produkter som skal inngå i Unionens antigen-, vaksine- og diagnosereagensbanker, og i hvilke mengder for hver enkelt av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a) som den aktuelle banken er opprettet for,
+3. kravene til forsyning, oppbevaring og erstatning av nevnte biologiske produkter,
+4. leveransen av nevnte biologiske produkter fra Unionens antigen-, vaksine- og diagnosereagensbanker til medlemsstater og til tredjeland og territorier,
+5. kravene til framgangsmåter og tekniske krav for å inkludere nevnte biologiske produkter i Unionens antigen-, vaksine- og diagnosereagensbanker og for å be om tilgang til dem.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 2\. I behørig begrunnede, tvingende hastetilfeller knyttet til en listeført sykdom nevnt i artikkel 9 nr. 1 bokstav a) som utgjør en svært betydelig risiko, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren fastsatt i artikkel 266 nr. 3.
 
@@ -1419,9 +2274,17 @@ Nasjonale antigen-, vaksine- og diagnosereagensbanker
 
 1\. Medlemsstater som har opprettet nasjonale antigen-, vaksine- og diagnosereagensbanker for listeførte sykdommer nevnt i artikkel 9 nr. 1 bokstav a) som Unionen har antigen-, vaksine- og diagnosereagensbanker for, skal sikre at deres nasjonale antigen-, vaksine- og diagnosereagensbanker oppfyller kravene til biosikkerhet og biologisk inneslutning, fastsatt i artikkel 16 nr. 1 bokstav a) og i delegerte rettsakter vedtatt i samsvar med artikkel 16 nr. 2 og artikkel 48 nr. 3 bokstav b).
 
-2\. Medlemsstatene skal gi Kommisjonen ajourførte opplysninger omdet er opprettet eller skal opprettes nasjonale antigen-, vaksine- og diagnosereagensbanker som nevnt i nr. 1,de typene og mengdene av antigener, vaksiner, partier av virusstammer for produksjon av vaksiner, og diagnosereagenser som finnes i slike banker,eventuelle endringer i driften av slike banker.Disse opplysningene skal behandles som graderte opplysninger av Kommisjonen og skal ikke offentliggjøres.
+2\. Medlemsstatene skal gi Kommisjonen ajourførte opplysninger om
 
-3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler som angir innhold, hyppighet og format for framleggingen av opplysningene fastsatt i nr. 2.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. det er opprettet eller skal opprettes nasjonale antigen-, vaksine- og diagnosereagensbanker som nevnt i nr. 1,
+2. de typene og mengdene av antigener, vaksiner, partier av virusstammer for produksjon av vaksiner, og diagnosereagenser som finnes i slike banker,
+3. eventuelle endringer i driften av slike banker.
+
+Disse opplysningene skal behandles som graderte opplysninger av Kommisjonen og skal ikke offentliggjøres.
+
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler som angir innhold, hyppighet og format for framleggingen av opplysningene fastsatt i nr. 2.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ### AVDELING II
 TILTAK FOR SYKDOMSBEKJEMPELSE
@@ -1448,7 +2311,11 @@ Undersøkelse utført av vedkommende myndighet ved mistanke om en listeført syk
 
 1\. Ved mistanke om en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a) hos holdte dyr skal vedkommende myndighet umiddelbart gjennomføre en undersøkelse for å bekrefte eller utelukke forekomst av nevnte listeførte sykdom.
 
-2\. Med henblikk på undersøkelsen fastsatt i nr. 1 skal vedkommende myndighet når det er nødvendig, sørge for atoffentlige veterinærer gjennomfører en klinisk undersøkelse av et representativt utvalg av de holdte dyrene av listeførte arter for den aktuelle listeførte sykdommen,offentlige veterinærer tar hensiktsmessige prøver av de holdte dyrene av listeførte arter og andre prøver for undersøkelse i laboratorier som vedkommende myndighet har utpekt til dette formålet,slike utpekte laboratorier gjennomfører undersøkelser for å bekrefte eller utelukke forekomst av den aktuelle listeførte sykdommen.
+2\. Med henblikk på undersøkelsen fastsatt i nr. 1 skal vedkommende myndighet når det er nødvendig, sørge for at
+
+1. offentlige veterinærer gjennomfører en klinisk undersøkelse av et representativt utvalg av de holdte dyrene av listeførte arter for den aktuelle listeførte sykdommen,
+2. offentlige veterinærer tar hensiktsmessige prøver av de holdte dyrene av listeførte arter og andre prøver for undersøkelse i laboratorier som vedkommende myndighet har utpekt til dette formålet,
+3. slike utpekte laboratorier gjennomfører undersøkelser for å bekrefte eller utelukke forekomst av den aktuelle listeførte sykdommen.
 
 3\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler som utfyller reglene for vedkommende myndighets undersøkelser i henhold til nr. 1.
 
@@ -1456,15 +2323,38 @@ Undersøkelse utført av vedkommende myndighet ved mistanke om en listeført syk
 
 Vedkommende myndigheters foreløpige tiltak for sykdomsbekjempelse
 
-1\. Dersom vedkommende myndighet har mistanke om forekomst av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a) hos holdte dyr, skal den gjennomføre følgende foreløpige tiltak for sykdomsbekjempelse, med forbehold for nasjonale krav om adgang til privatboliger, i påvente av resultatene av undersøkelsen fastsatt i artikkel 54 nr. 1 og gjennomføringen av tiltakene for sykdomsbekjempelse fastsatt i artikkel 61 nr. 1:Sette det berørte anlegget, næringsmiddel- eller fôrforetaket eller anlegget for animalske biprodukter under offentlig overvåking, og ethvert annet sted der det er mistanke om sykdommen, herunder steder der sykdommen det er mistanke om, kan ha oppstått.Opprette en fortegnelse overde dyrene som holdes i det berørte anlegget, næringsmiddel- eller fôrforetaket eller anlegget for animalske biprodukter eller ethvert annet sted,produktene i nevnte anlegg, næringsmiddel- eller fôrforetaket eller anlegget for animalske biprodukter eller ethvert annet sted, dersom det er relevant for spredningen av nevnte listeførte sykdom.Sikre at hensiktsmessige biosikkerhetstiltak iverksettes for å forhindre spredning av nevnte listeførte sykdomsagens til andre dyr eller til mennesker.Når det er nødvendig for å forhindre ytterligere spredning av sykdomsagensen, sikre at de holdte dyrene av arter som er listeført for nevnte listeførte sykdom, isoleres, og at de hindres i å komme i kontakt med viltlevende dyr.Begrense forflytningen av holdte dyr, produkter og dersom det er relevant, mennesker, kjøretøyer og alle materialer og andre midler som kan ha spredt sykdomsagensen til eller fra anlegget, næringsmiddel- eller fôrforetaket eller anlegget for animalske biprodukter eller fra ethvert annet sted der det er mistanke om nevnte listeførte sykdom, i den grad det er nødvendig for å forhindre at den sprer seg.Treffe alle andre nødvendige tiltak for sykdomsbekjempelse idet det tas hensyn til tiltakene for sykdomsbekjempelse fastsatt i avsnitt 4 i dette kapittelet, når det gjeldervedkommende myndighets iverksetting av undersøkelsen i henhold til artikkel 54 nr. 1 og tiltakene for sykdomsbekjempelse i henhold til bokstav a)–d) i dette nummeret på andre anlegg, næringsmiddel- eller fôrforetak eller anlegg for animalske biprodukter eller ethvert annet sted,opprettelsen av egnede midlertidige restriksjonssoner som tar hensyn til sykdomsprofilen.Iverksette den epidemiologiske undersøkelsen som er fastsatt i artikkel 57 nr. 1.
+1\. Dersom vedkommende myndighet har mistanke om forekomst av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a) hos holdte dyr, skal den gjennomføre følgende foreløpige tiltak for sykdomsbekjempelse, med forbehold for nasjonale krav om adgang til privatboliger, i påvente av resultatene av undersøkelsen fastsatt i artikkel 54 nr. 1 og gjennomføringen av tiltakene for sykdomsbekjempelse fastsatt i artikkel 61 nr. 1:
 
-2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler som utfyller reglene fastsatt i nr. 1 når det gjelder særskilte og detaljerte tiltak for sykdomsbekjempelse som skal treffes, avhengig av den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a), på grunnlag av risikoene forartene eller kategoriene av berørte dyr,den aktuelle produksjonstypen.
+1. Sette det berørte anlegget, næringsmiddel- eller fôrforetaket eller anlegget for animalske biprodukter under offentlig overvåking, og ethvert annet sted der det er mistanke om sykdommen, herunder steder der sykdommen det er mistanke om, kan ha oppstått.
+2. Opprette en fortegnelse over
+
+   1. de dyrene som holdes i det berørte anlegget, næringsmiddel- eller fôrforetaket eller anlegget for animalske biprodukter eller ethvert annet sted,
+   2. produktene i nevnte anlegg, næringsmiddel- eller fôrforetaket eller anlegget for animalske biprodukter eller ethvert annet sted, dersom det er relevant for spredningen av nevnte listeførte sykdom.
+3. Sikre at hensiktsmessige biosikkerhetstiltak iverksettes for å forhindre spredning av nevnte listeførte sykdomsagens til andre dyr eller til mennesker.
+4. Når det er nødvendig for å forhindre ytterligere spredning av sykdomsagensen, sikre at de holdte dyrene av arter som er listeført for nevnte listeførte sykdom, isoleres, og at de hindres i å komme i kontakt med viltlevende dyr.
+5. Begrense forflytningen av holdte dyr, produkter og dersom det er relevant, mennesker, kjøretøyer og alle materialer og andre midler som kan ha spredt sykdomsagensen til eller fra anlegget, næringsmiddel- eller fôrforetaket eller anlegget for animalske biprodukter eller fra ethvert annet sted der det er mistanke om nevnte listeførte sykdom, i den grad det er nødvendig for å forhindre at den sprer seg.
+6. Treffe alle andre nødvendige tiltak for sykdomsbekjempelse idet det tas hensyn til tiltakene for sykdomsbekjempelse fastsatt i avsnitt 4 i dette kapittelet, når det gjelder
+
+   1. vedkommende myndighets iverksetting av undersøkelsen i henhold til artikkel 54 nr. 1 og tiltakene for sykdomsbekjempelse i henhold til bokstav a)–d) i dette nummeret på andre anlegg, næringsmiddel- eller fôrforetak eller anlegg for animalske biprodukter eller ethvert annet sted,
+   2. opprettelsen av egnede midlertidige restriksjonssoner som tar hensyn til sykdomsprofilen.
+7. Iverksette den epidemiologiske undersøkelsen som er fastsatt i artikkel 57 nr. 1.
+
+2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler som utfyller reglene fastsatt i nr. 1 når det gjelder særskilte og detaljerte tiltak for sykdomsbekjempelse som skal treffes, avhengig av den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a), på grunnlag av risikoene for
+
+1. artene eller kategoriene av berørte dyr,
+2. den aktuelle produksjonstypen.
 
 ###### Artikkel 56
 
 Gjennomgang og forlengelse av foreløpige tiltak for sykdomsbekjempelse
 
-Tiltakene for sykdomsbekjempelse fastsatt i artikkel 55 nr. 1 skalved behov gjennomgås av vedkommende myndighet på grunnlag av resultatene avundersøkelsen i henhold til artikkel 54 nr. 1,den epidemiologiske undersøkelsen i henhold til artikkel 57 nr. 1,om nødvendig utvides til andre steder som nevnt i artikkel 55 nr. 1 bokstav a).
+Tiltakene for sykdomsbekjempelse fastsatt i artikkel 55 nr. 1 skal
+
+1. ved behov gjennomgås av vedkommende myndighet på grunnlag av resultatene av
+
+   1. undersøkelsen i henhold til artikkel 54 nr. 1,
+   2. den epidemiologiske undersøkelsen i henhold til artikkel 57 nr. 1,
+2. om nødvendig utvides til andre steder som nevnt i artikkel 55 nr. 1 bokstav a).
 
 ###### Avsnitt 2
 
@@ -1476,7 +2366,13 @@ Epidemiologisk undersøkelse
 
 1\. Vedkommende myndighet skal gjennomføre en epidemiologisk undersøkelse ved bekreftet forekomst av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), hos dyr.
 
-2\. Den epidemiologiske undersøkelsen nevnt i nr. 1, skal ha som mål åidentifisere den sannsynlige opprinnelsen til den aktuelle listeførte sykdommen og hvordan den er blitt spredt,beregne hvor lenge det er sannsynlig at den listeførte sykdommen har forekommet,identifisere anlegg og epidemiologiske enheter i disse, næringsmiddel- eller fôrforetak eller anlegg for animalske biprodukter eller andre steder der dyr av listeførte arter for den mistenkte listeførte sykdommen kan ha blitt smittet,innhente opplysninger om forflytninger av holdte dyr, personer, produkter, kjøretøyer, eventuelle materialer og andre midler som kan ha spredt sykdomsagensen i det relevante tidsrommet forut for meldingen om mistanke om eller bekreftet forekomst av den listeførte sykdommen,innhente opplysninger om den sannsynlige utbredelsen av den listeførte sykdommen i omgivelsene, herunder forekomst og spredning av sykdomsvektorer.
+2\. Den epidemiologiske undersøkelsen nevnt i nr. 1, skal ha som mål å
+
+1. identifisere den sannsynlige opprinnelsen til den aktuelle listeførte sykdommen og hvordan den er blitt spredt,
+2. beregne hvor lenge det er sannsynlig at den listeførte sykdommen har forekommet,
+3. identifisere anlegg og epidemiologiske enheter i disse, næringsmiddel- eller fôrforetak eller anlegg for animalske biprodukter eller andre steder der dyr av listeførte arter for den mistenkte listeførte sykdommen kan ha blitt smittet,
+4. innhente opplysninger om forflytninger av holdte dyr, personer, produkter, kjøretøyer, eventuelle materialer og andre midler som kan ha spredt sykdomsagensen i det relevante tidsrommet forut for meldingen om mistanke om eller bekreftet forekomst av den listeførte sykdommen,
+5. innhente opplysninger om den sannsynlige utbredelsen av den listeførte sykdommen i omgivelsene, herunder forekomst og spredning av sykdomsvektorer.
 
 ###### Avsnitt 3
 
@@ -1486,7 +2382,11 @@ Bekreftelse på forekomst av sykdom hos holdte dyr
 
 Offisiell bekreftelse fra vedkommende myndighet av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a)
 
-1\. Vedkommende myndighet skal basere en offisiell bekreftelse av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), på følgende opplysninger:Resultatene av de kliniske undersøkelsene og laboratorieundersøkelsene i henhold til artikkel 54 nr. 2.De foreløpige eller endelige resultatene av den epidemiologiske undersøkelsen i henhold til artikkel 57 nr. 1.Andre tilgjengelige epidemiologiske data.
+1\. Vedkommende myndighet skal basere en offisiell bekreftelse av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), på følgende opplysninger:
+
+1. Resultatene av de kliniske undersøkelsene og laboratorieundersøkelsene i henhold til artikkel 54 nr. 2.
+2. De foreløpige eller endelige resultatene av den epidemiologiske undersøkelsen i henhold til artikkel 57 nr. 1.
+3. Andre tilgjengelige epidemiologiske data.
 
 2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til de kravene som skal oppfylles for den offisielle bekreftelsen nevnt i nr. 1.
 
@@ -1504,17 +2404,37 @@ Tiltak for sykdomsbekjempelse ved bekreftet forekomst av sykdom hos holdte dyr
 
 Umiddelbare tiltak for sykdomsbekjempelse som skal treffes av vedkommende myndighet
 
-Ved en offisiell bekreftelse i samsvar med artikkel 58 nr. 1 av et utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a) hos holdte dyr, skal vedkommende myndighet umiddelbartoffisielt erklære det rammede anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller annet sted som infisert med nevnte listeførte sykdom,opprette en restriksjonssone som er hensiktsmessig for nevnte listeførte sykdom,gjennomføre beredskapsplanen fastsatt i artikkel 43 nr. 1 for å sikre fullstendig samordning med tiltakene for sykdomsbekjempelse.
+Ved en offisiell bekreftelse i samsvar med artikkel 58 nr. 1 av et utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a) hos holdte dyr, skal vedkommende myndighet umiddelbart
+
+1. offisielt erklære det rammede anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller annet sted som infisert med nevnte listeførte sykdom,
+2. opprette en restriksjonssone som er hensiktsmessig for nevnte listeførte sykdom,
+3. gjennomføre beredskapsplanen fastsatt i artikkel 43 nr. 1 for å sikre fullstendig samordning med tiltakene for sykdomsbekjempelse.
 
 ###### Artikkel 61
 
 Rammede anlegg og andre steder
 
-1\. Ved utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), hos holdte dyr, skal vedkommende myndighet umiddelbart treffe ett eller flere av følgende tiltak for sykdomsbekjempelse, med forbehold for nasjonale krav om adgang til privatboliger, i et anlegg, et næringsmiddel- eller fôrforetak, et anlegg for animalske biprodukter eller ethvert annet sted nevnt i artikkel 60 bokstav a), for å hindre ytterligere spredning av nevnte listeførte sykdom:Innføre restriksjoner på forflytninger av personer, dyr, produkter, kjøretøyer eller andre materialer eller stoffer som kan være smittet eller kontaminert og bidra til å spre den listeførte sykdommen.Avlive og destruere eller slakte dyr som kan være smittet eller bidrar til å spre den listeførte sykdommen.Destruere, bearbeide, omdanne eller behandle produkter, fôr eller andre stoffer, eller behandle utstyr, transportmidler, planter eller planteprodukter, eller vann som kan være kontaminert, i den utstrekning det er nødvendig for å sikre at alle sykdomsagenser og vektorer for sykdomsagensen ødelegges.Vaksinere eller behandle holdte dyr med andre legemidler til dyr i samsvar med artikkel 46 nr. 1 og artikkel 69, og delegerte rettsakter vedtatt i samsvar med artikkel 47.Isolere, sette i karantene eller behandle dyr og produkter som kan være smittet eller kontaminert og bidra til å spre den listeførte sykdommen.Rengjøre, desinfisere, bekjempe insekter og gnagere eller treffe andre nødvendige biosikkerhetstiltak som skal iverksettes i det rammede anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller andre steder for å redusere risikoen for spredning av den listeførte sykdommen.Ta så mange prøver som er nødvendig for å gjennomføre den epidemiologiske undersøkelsen i henhold til artikkel 57 nr. 1.Undersøke prøvene i laboratorium.Alle andre hensiktsmessige tiltak.
+1\. Ved utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), hos holdte dyr, skal vedkommende myndighet umiddelbart treffe ett eller flere av følgende tiltak for sykdomsbekjempelse, med forbehold for nasjonale krav om adgang til privatboliger, i et anlegg, et næringsmiddel- eller fôrforetak, et anlegg for animalske biprodukter eller ethvert annet sted nevnt i artikkel 60 bokstav a), for å hindre ytterligere spredning av nevnte listeførte sykdom:
 
-2\. Ved fastsettelse av hvilket eller hvilke av tiltakene for sykdomsbekjempelse fastsatt i nr. 1 som bør treffes, skal vedkommende myndighet ta følgende i betraktning:Sykdomsprofil.Produksjonstype og epidemiologiske enheter i det rammede anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller på et annet sted.
+1. Innføre restriksjoner på forflytninger av personer, dyr, produkter, kjøretøyer eller andre materialer eller stoffer som kan være smittet eller kontaminert og bidra til å spre den listeførte sykdommen.
+2. Avlive og destruere eller slakte dyr som kan være smittet eller bidrar til å spre den listeførte sykdommen.
+3. Destruere, bearbeide, omdanne eller behandle produkter, fôr eller andre stoffer, eller behandle utstyr, transportmidler, planter eller planteprodukter, eller vann som kan være kontaminert, i den utstrekning det er nødvendig for å sikre at alle sykdomsagenser og vektorer for sykdomsagensen ødelegges.
+4. Vaksinere eller behandle holdte dyr med andre legemidler til dyr i samsvar med artikkel 46 nr. 1 og artikkel 69, og delegerte rettsakter vedtatt i samsvar med artikkel 47.
+5. Isolere, sette i karantene eller behandle dyr og produkter som kan være smittet eller kontaminert og bidra til å spre den listeførte sykdommen.
+6. Rengjøre, desinfisere, bekjempe insekter og gnagere eller treffe andre nødvendige biosikkerhetstiltak som skal iverksettes i det rammede anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller andre steder for å redusere risikoen for spredning av den listeførte sykdommen.
+7. Ta så mange prøver som er nødvendig for å gjennomføre den epidemiologiske undersøkelsen i henhold til artikkel 57 nr. 1.
+8. Undersøke prøvene i laboratorium.
+9. Alle andre hensiktsmessige tiltak.
 
-3\. Vedkommende myndighet skal bare tillate gjeninnsetting i berørte anlegg eller andre steder dersomalle hensiktsmessige tiltak for sykdomsbekjempelse og laboratorieundersøkelser fastsatt i nr. 1, er vellykket gjennomført,det har gått tilstrekkelig lang tid til å forhindre at det rammede anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller annet sted kontamineres på nytt med den listeførte sykdommen som forårsaket utbruddet nevnt i nr. 1.
+2\. Ved fastsettelse av hvilket eller hvilke av tiltakene for sykdomsbekjempelse fastsatt i nr. 1 som bør treffes, skal vedkommende myndighet ta følgende i betraktning:
+
+1. Sykdomsprofil.
+2. Produksjonstype og epidemiologiske enheter i det rammede anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller på et annet sted.
+
+3\. Vedkommende myndighet skal bare tillate gjeninnsetting i berørte anlegg eller andre steder dersom
+
+1. alle hensiktsmessige tiltak for sykdomsbekjempelse og laboratorieundersøkelser fastsatt i nr. 1, er vellykket gjennomført,
+2. det har gått tilstrekkelig lang tid til å forhindre at det rammede anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller annet sted kontamineres på nytt med den listeførte sykdommen som forårsaket utbruddet nevnt i nr. 1.
 
 ###### Artikkel 62
 
@@ -1532,15 +2452,36 @@ Delegering av myndighet når det gjelder tiltak for sykdomsbekjempelse i rammede
 
 Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler for tiltak for sykdomsbekjempelse som skal treffes av vedkommende myndighet i samsvar med artikkel 61 og 62, i rammede og epidemiologisk forbundne anlegg, næringsmiddel- eller fôrforetak eller anlegg for animalske biprodukter og andre steder når det gjelder enhver av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav a), herunder regler for hvilke tiltak for sykdomsbekjempelse nevnt i artikkel 61 nr. 1 som skal anvendes på hver av de listeførte sykdommene.
 
-De nærmere reglene skal omfatte følgende:Vilkårene for og kravene til tiltak for sykdomsbekjempelse fastsatt i artikkel 61 nr. 1 bokstav a)–e).Framgangsmåtene for rengjøring, desinfisering, bekjempelse av insekter og gnagere eller andre nødvendige biosikkerhetstiltak i henhold til artikkel 61 nr. 1 bokstav f), og angivelse ved behov av hvilke biocidprodukter som skal brukes til disse formålene.Vilkårene for og kravene til prøvetaking og laboratorieundersøkelser i henhold til artikkel 61 nr. 1 bokstav g) og h).Nærmere vilkår for og krav til gjeninnsetting i henhold til artikkel 61 nr. 3.Gjennomføringen av nødvendige tiltak for sykdomsbekjempelse i henhold til artikkel 62, i epidemiologisk forbundne anlegg, andre steder og transportmidler.
+De nærmere reglene skal omfatte følgende:
+
+1. Vilkårene for og kravene til tiltak for sykdomsbekjempelse fastsatt i artikkel 61 nr. 1 bokstav a)–e).
+2. Framgangsmåtene for rengjøring, desinfisering, bekjempelse av insekter og gnagere eller andre nødvendige biosikkerhetstiltak i henhold til artikkel 61 nr. 1 bokstav f), og angivelse ved behov av hvilke biocidprodukter som skal brukes til disse formålene.
+3. Vilkårene for og kravene til prøvetaking og laboratorieundersøkelser i henhold til artikkel 61 nr. 1 bokstav g) og h).
+4. Nærmere vilkår for og krav til gjeninnsetting i henhold til artikkel 61 nr. 3.
+5. Gjennomføringen av nødvendige tiltak for sykdomsbekjempelse i henhold til artikkel 62, i epidemiologisk forbundne anlegg, andre steder og transportmidler.
 
 ###### Artikkel 64
 
 Vedkommende myndighets opprettelse av restriksjonssoner
 
-1\. Vedkommende myndighet skal ved behov opprette en restriksjonssone som nevnt i artikkel 60 bokstav b), rundt det rammede anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller annet sted når en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a) er brutt ut hos holdte dyr, idet det tas hensyn tilsykdomsprofil,geografiske forhold i restriksjonssonen,økologiske og hydrologiske faktorer i restriksjonssonen,værforhold,forekomst, utbredelse og type vektorer i restriksjonssonen,resultatene av den epidemiologiske undersøkelsen i henhold til artikkel 57 nr. 1 og andre studier som er gjennomført, og epidemiologiske data,resultater av laboratorieundersøkelser,tiltak for sykdomsbekjempelse som er gjennomført,andre relevante epidemiologiske faktorer.Restriksjonssonen skal når det er relevant, omfatte en verne- og overvåkingssone av en definert størrelse og form.
+1\. Vedkommende myndighet skal ved behov opprette en restriksjonssone som nevnt i artikkel 60 bokstav b), rundt det rammede anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller annet sted når en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a) er brutt ut hos holdte dyr, idet det tas hensyn til
 
-2\. Vedkommende myndighet skal fortløpende vurdere og gjennomgå situasjonen og dersom det er hensiktsmessig for å forhindre spredning av den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a)justere grensene for restriksjonssonen,opprette ytterligere restriksjonssoner.
+1. sykdomsprofil,
+2. geografiske forhold i restriksjonssonen,
+3. økologiske og hydrologiske faktorer i restriksjonssonen,
+4. værforhold,
+5. forekomst, utbredelse og type vektorer i restriksjonssonen,
+6. resultatene av den epidemiologiske undersøkelsen i henhold til artikkel 57 nr. 1 og andre studier som er gjennomført, og epidemiologiske data,
+7. resultater av laboratorieundersøkelser,
+8. tiltak for sykdomsbekjempelse som er gjennomført,
+9. andre relevante epidemiologiske faktorer.
+
+Restriksjonssonen skal når det er relevant, omfatte en verne- og overvåkingssone av en definert størrelse og form.
+
+2\. Vedkommende myndighet skal fortløpende vurdere og gjennomgå situasjonen og dersom det er hensiktsmessig for å forhindre spredning av den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a)
+
+1. justere grensene for restriksjonssonen,
+2. opprette ytterligere restriksjonssoner.
 
 3\. Dersom restriksjonssonene i henhold til nr. 1 ligger i mer enn én medlemsstat, skal vedkommende myndigheter i de berørte medlemsstatene samarbeide om å opprette dem.
 
@@ -1550,11 +2491,32 @@ Vedkommende myndighets opprettelse av restriksjonssoner
 
 Tiltak for sykdomsbekjempelse i restriksjonssoner
 
-1\. Med forbehold for nasjonale krav om adgang til privatboliger skal vedkommende myndighet sørge for at ett eller flere av følgende tiltak for sykdomsbekjempelse treffes i den berørte restriksjonssonen for å forhindre ytterligere spredning av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a):Identifisere anlegg, næringsmiddel- eller fôrforetak, anlegg for animalske biprodukter eller andre steder med holdte dyr av arter som er listeført for nevnte listeførte sykdom.Besøke anlegg, næringsmiddel- eller fôrforetak, anlegg for animalske biprodukter eller andre steder med holdte dyr av arter som er listeført for nevnte listeførte sykdom, og ved behov foreta undersøkelser, prøvetaking og laboratorieundersøkelse av prøvene.Innføre vilkår for forflytning av personer, dyr, produkter, fôr, kjøretøyer og alle andre materialer eller stoffer som kan være smittet eller kontaminert eller bidra til å spre den listeførte sykdommen, innenfor og ut fra restriksjonssonen og ved transport gjennom restriksjonssonen.Biosikkerhetskrav tilproduksjon, bearbeiding og distribusjon av produkter av animalsk opprinnelse,innsamling og destruksjon av animalske biprodukter,uttak, oppbevaring og håndtering av avlsmateriale.Vaksinasjon og behandling av holdte dyr med andre legemidler til dyr i samsvar med artikkel 46 nr. 1 og delegerte rettsakter vedtatt i samsvar med artikkel 47.Rengjøring, desinfeksjon, bekjempelse av insekter og gnagere eller andre nødvendige biosikkerhetstiltak.Utpeking eller om det er relevant, godkjenning av et næringsmiddelforetak med henblikk på slakting av dyr eller behandling av produkter av animalsk opprinnelse fra restriksjonssonen.Identifikasjons- og sporbarhetskrav til forflytning av dyr, avlsmateriale eller produkter av animalsk opprinnelse.Andre nødvendige biosikkerhetstiltak og risikoreduserende tiltak for å redusere risikoen for spredning av den listeførte sykdommen.
+1\. Med forbehold for nasjonale krav om adgang til privatboliger skal vedkommende myndighet sørge for at ett eller flere av følgende tiltak for sykdomsbekjempelse treffes i den berørte restriksjonssonen for å forhindre ytterligere spredning av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a):
 
-2\. Vedkommende myndighet skaltreffe alle nødvendige tiltak for å informere personer i restriksjonssonen fullt ut om gjeldende restriksjoner og arten av tiltakene for sykdomsbekjempelse,pålegge driftsansvarlige de nødvendige forpliktelsene for å forhindre ytterligere spredning av den aktuelle listeførte sykdommen.
+1. Identifisere anlegg, næringsmiddel- eller fôrforetak, anlegg for animalske biprodukter eller andre steder med holdte dyr av arter som er listeført for nevnte listeførte sykdom.
+2. Besøke anlegg, næringsmiddel- eller fôrforetak, anlegg for animalske biprodukter eller andre steder med holdte dyr av arter som er listeført for nevnte listeførte sykdom, og ved behov foreta undersøkelser, prøvetaking og laboratorieundersøkelse av prøvene.
+3. Innføre vilkår for forflytning av personer, dyr, produkter, fôr, kjøretøyer og alle andre materialer eller stoffer som kan være smittet eller kontaminert eller bidra til å spre den listeførte sykdommen, innenfor og ut fra restriksjonssonen og ved transport gjennom restriksjonssonen.
+4. Biosikkerhetskrav til
 
-3\. Ved fastsettelse av hvilket eller hvilke av tiltakene for sykdomsbekjempelse fastsatt i nr. 1 som skal treffes, skal vedkommende myndighet ta følgende i betraktning:Sykdomsprofil.Produksjonstyper.Om nevnte tiltak for sykdomsbekjempelse er gjennomførbare, tilgjengelige og effektive.
+   1. produksjon, bearbeiding og distribusjon av produkter av animalsk opprinnelse,
+   2. innsamling og destruksjon av animalske biprodukter,
+   3. uttak, oppbevaring og håndtering av avlsmateriale.
+5. Vaksinasjon og behandling av holdte dyr med andre legemidler til dyr i samsvar med artikkel 46 nr. 1 og delegerte rettsakter vedtatt i samsvar med artikkel 47.
+6. Rengjøring, desinfeksjon, bekjempelse av insekter og gnagere eller andre nødvendige biosikkerhetstiltak.
+7. Utpeking eller om det er relevant, godkjenning av et næringsmiddelforetak med henblikk på slakting av dyr eller behandling av produkter av animalsk opprinnelse fra restriksjonssonen.
+8. Identifikasjons- og sporbarhetskrav til forflytning av dyr, avlsmateriale eller produkter av animalsk opprinnelse.
+9. Andre nødvendige biosikkerhetstiltak og risikoreduserende tiltak for å redusere risikoen for spredning av den listeførte sykdommen.
+
+2\. Vedkommende myndighet skal
+
+1. treffe alle nødvendige tiltak for å informere personer i restriksjonssonen fullt ut om gjeldende restriksjoner og arten av tiltakene for sykdomsbekjempelse,
+2. pålegge driftsansvarlige de nødvendige forpliktelsene for å forhindre ytterligere spredning av den aktuelle listeførte sykdommen.
+
+3\. Ved fastsettelse av hvilket eller hvilke av tiltakene for sykdomsbekjempelse fastsatt i nr. 1 som skal treffes, skal vedkommende myndighet ta følgende i betraktning:
+
+1. Sykdomsprofil.
+2. Produksjonstyper.
+3. Om nevnte tiltak for sykdomsbekjempelse er gjennomførbare, tilgjengelige og effektive.
 
 ###### Artikkel 66
 
@@ -1570,15 +2532,32 @@ Delegering av myndighet når det gjelder tiltak for sykdomsbekjempelse i restrik
 
 Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler for tiltak for sykdomsbekjempelse som skal treffes for restriksjonssoner i henhold til artikkel 65 nr. 1, for hver listeført sykdom nevnt i artikkel 9 nr. 1 bokstav a), herunder regler for hvilke av tiltakene for sykdomsbekjempelse nevnt i artikkel 65 nr. 1 som skal anvendes for hver av de listeførte sykdommene.
 
-De nærmere reglene skal omfatte følgende forhold:Vilkårene for og kravene til tiltak for sykdomsbekjempelse fastsatt i artikkel 65 nr. 1 bokstav a), c), d), e), g), h) og i).Framgangsmåtene for rengjøring, desinfisering, bekjempelse av insekter og gnagere eller andre nødvendige biosikkerhetstiltak i henhold til artikkel 65 nr. 1 bokstav f), og ved behov angivelse av hvilke biocidprodukter som skal brukes til disse formålene.Den nødvendige overvåkingen som skal utføres etter anvendelsen av tiltakene for sykdomsbekjempelse og laboratorieundersøkelsene i henhold til artikkel 65 nr. 1 bokstav b).Andre særlige tiltak for sykdomsbekjempelse for å begrense spredningen av bestemte listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav a).
+De nærmere reglene skal omfatte følgende forhold:
+
+1. Vilkårene for og kravene til tiltak for sykdomsbekjempelse fastsatt i artikkel 65 nr. 1 bokstav a), c), d), e), g), h) og i).
+2. Framgangsmåtene for rengjøring, desinfisering, bekjempelse av insekter og gnagere eller andre nødvendige biosikkerhetstiltak i henhold til artikkel 65 nr. 1 bokstav f), og ved behov angivelse av hvilke biocidprodukter som skal brukes til disse formålene.
+3. Den nødvendige overvåkingen som skal utføres etter anvendelsen av tiltakene for sykdomsbekjempelse og laboratorieundersøkelsene i henhold til artikkel 65 nr. 1 bokstav b).
+4. Andre særlige tiltak for sykdomsbekjempelse for å begrense spredningen av bestemte listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav a).
 
 ###### Artikkel 68
 
 Opprettholdelse av tiltak for sykdomsbekjempelse i restriksjonssoner, og delegerte rettsakter
 
-1\. Vedkommende myndighet skal fortsette å anvende tiltakene for sykdomsbekjempelse fastsatt i dette avsnittet inntil følgende vilkår er oppfylt:De tiltakene for sykdomsbekjempelse som er hensiktsmessige for den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a), og som restriksjonene er blitt fastsatt for, er gjennomført.Endelig rengjøring, desinfisering, bekjempelse av insekter og gnagere eller andre nødvendige biosikkerhetstiltak er blitt gjennomført med hensyn tilden listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a) som tiltakene for sykdomsbekjempelse er anvendt på,de rammede artene av holdte dyr,produksjonstypen.Nødvendig overvåking som er hensiktsmessig for den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a) som tiltakene for sykdomsbekjempelse er anvendt på, og for den typen anlegg eller sted som er berørt, er blitt gjennomført i restriksjonssonen og bekrefter at nevnte listeførte sykdom er blitt utryddet.
+1\. Vedkommende myndighet skal fortsette å anvende tiltakene for sykdomsbekjempelse fastsatt i dette avsnittet inntil følgende vilkår er oppfylt:
 
-2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler for tiltak for sykdomsbekjempelse som skal treffes av vedkommende myndighet, som fastsatt i nr. 1, når det gjelderframgangsmåtene for endelig rengjøring, desinfisering, bekjempelse av insekter og gnagere eller andre nødvendige biosikkerhetstiltak, og ved behov angivelse av hvilke biocidprodukter som skal brukes til disse formålene,utforming, midler, metoder, hyppighet, intensitet, målpopulasjon og prøvetakingsmønstre for overvåking med henblikk på å gjeninnføre sykdomsfri status etter utbruddet,gjeninnsetting i den berørte restriksjonssonen etter at tiltakene for sykdomsbekjempelse nevnt i nr. 1 er gjennomført, idet det tas hensyn til vilkårene for gjeninnsetting fastsatt i artikkel 61 nr. 3.
+1. De tiltakene for sykdomsbekjempelse som er hensiktsmessige for den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a), og som restriksjonene er blitt fastsatt for, er gjennomført.
+2. Endelig rengjøring, desinfisering, bekjempelse av insekter og gnagere eller andre nødvendige biosikkerhetstiltak er blitt gjennomført med hensyn til
+
+   1. den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a) som tiltakene for sykdomsbekjempelse er anvendt på,
+   2. de rammede artene av holdte dyr,
+   3. produksjonstypen.
+3. Nødvendig overvåking som er hensiktsmessig for den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a) som tiltakene for sykdomsbekjempelse er anvendt på, og for den typen anlegg eller sted som er berørt, er blitt gjennomført i restriksjonssonen og bekrefter at nevnte listeførte sykdom er blitt utryddet.
+
+2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler for tiltak for sykdomsbekjempelse som skal treffes av vedkommende myndighet, som fastsatt i nr. 1, når det gjelder
+
+1. framgangsmåtene for endelig rengjøring, desinfisering, bekjempelse av insekter og gnagere eller andre nødvendige biosikkerhetstiltak, og ved behov angivelse av hvilke biocidprodukter som skal brukes til disse formålene,
+2. utforming, midler, metoder, hyppighet, intensitet, målpopulasjon og prøvetakingsmønstre for overvåking med henblikk på å gjeninnføre sykdomsfri status etter utbruddet,
+3. gjeninnsetting i den berørte restriksjonssonen etter at tiltakene for sykdomsbekjempelse nevnt i nr. 1 er gjennomført, idet det tas hensyn til vilkårene for gjeninnsetting fastsatt i artikkel 61 nr. 3.
 
 3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler for tiltak for sykdomsbekjempelse som skal treffes av vedkommende myndighet som fastsatt i nr. 1, når det gjelder andre tiltak for sykdomsbekjempelse som er nødvendige for å gjeninnføre sykdomsfri status.
 
@@ -1586,9 +2565,15 @@ Opprettholdelse av tiltak for sykdomsbekjempelse i restriksjonssoner, og deleger
 
 Nødvaksinasjon
 
-1\. Dersom det er relevant for effektiv bekjempelse av en listeført sykdom nevnt i artikkel 9 nr. 1 bokstav a), som tiltak for sykdomsbekjempelse gjelder for, kan vedkommende myndighetutarbeide en vaksinasjonsplan,opprette vaksinasjonssoner.
+1\. Dersom det er relevant for effektiv bekjempelse av en listeført sykdom nevnt i artikkel 9 nr. 1 bokstav a), som tiltak for sykdomsbekjempelse gjelder for, kan vedkommende myndighet
 
-2\. Når vedkommende myndighet treffer beslutning om vaksinasjonsplanen og om opprettelsen av vaksinasjonssoner i henhold til nr. 1, skal den ta hensyn til følgende:Kravene til nødvaksinasjon angitt i beredskapsplanene fastsatt i artikkel 43.Kravene til bruken av vaksiner som fastsatt i artikkel 46 nr. 1 og delegerte rettsakter vedtatt i henhold til artikkel 47.
+1. utarbeide en vaksinasjonsplan,
+2. opprette vaksinasjonssoner.
+
+2\. Når vedkommende myndighet treffer beslutning om vaksinasjonsplanen og om opprettelsen av vaksinasjonssoner i henhold til nr. 1, skal den ta hensyn til følgende:
+
+1. Kravene til nødvaksinasjon angitt i beredskapsplanene fastsatt i artikkel 43.
+2. Kravene til bruken av vaksiner som fastsatt i artikkel 46 nr. 1 og delegerte rettsakter vedtatt i henhold til artikkel 47.
 
 3\. Vaksinasjonssonene i henhold til nr. 1 bokstav b) skal oppfylle kravene i delegerte rettsakter vedtatt i samsvar med artikkel 47 nr. 1 bokstav c) og d) til risikoreduserende tiltak for å forhindre spredning av listeførte sykdommer samt overvåking.
 
@@ -1600,11 +2585,19 @@ Viltlevende dyr
 
 Viltlevende dyr
 
-1\. Dersom vedkommende myndighet i en rammet medlemsstat har mistanke om eller offisielt bekrefter forekomst av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a) hos viltlevende dyr, skal dendersom det er relevant for den bestemte listeførte sykdommen, foreta overvåking i populasjonen av viltlevende dyr,treffe nødvendige tiltak for forebygging og bekjempelse av sykdom.
+1\. Dersom vedkommende myndighet i en rammet medlemsstat har mistanke om eller offisielt bekrefter forekomst av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a) hos viltlevende dyr, skal den
+
+1. dersom det er relevant for den bestemte listeførte sykdommen, foreta overvåking i populasjonen av viltlevende dyr,
+2. treffe nødvendige tiltak for forebygging og bekjempelse av sykdom.
 
 2\. Tiltakene for å forebygge og bekjempe sykdom angitt i nr. 1 bokstav b), kan omfatte ett eller flere av tiltakene fastsatt i artikkel 53–69 og skal ta hensyn til sykdomsprofilen og de rammede viltlevende dyrene og risikoen for å overføre sykdommer til dyr og mennesker.
 
-3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderkriterier og framgangsmåter for overvåking i henhold til nr. 1 bokstav a) ved offisiell bekreftelse av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), i samsvar med artikkel 27,nærmere regler som utfyller tiltakene for forebygging og bekjempelse av sykdom, som skal treffes i henhold til nr. 1 bokstav b) ved offisiell bekreftelse av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a).Når Kommisjonen vedtar disse delegerte rettsaktene, skal den ta hensyn til sykdomsprofilen og de listeførte artene for den listeførte sykdommen nevnt i nr. 1.
+3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. kriterier og framgangsmåter for overvåking i henhold til nr. 1 bokstav a) ved offisiell bekreftelse av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), i samsvar med artikkel 27,
+2. nærmere regler som utfyller tiltakene for forebygging og bekjempelse av sykdom, som skal treffes i henhold til nr. 1 bokstav b) ved offisiell bekreftelse av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a).
+
+Når Kommisjonen vedtar disse delegerte rettsaktene, skal den ta hensyn til sykdomsprofilen og de listeførte artene for den listeførte sykdommen nevnt i nr. 1.
 
 ###### Avsnitt 6
 
@@ -1614,11 +2607,24 @@ Medlemsstatenes ytterligere tiltak for sykdomsbekjempelse, Kommisjonens samordni
 
 Ytterligere tiltak for sykdomsbekjempelse, samordning av tiltak og midlertidige særlige regler for sykdomsbekjempelse for avsnitt 1–5 (artikkel 53–70)
 
-1\. Medlemsstatene kan treffe ytterligere tiltak for sykdomsbekjempelse ut over tiltakene fastsatt i artikkel 55, artikkel 61 nr. 1, artikkel 62, artikkel 65 nr. 1 og 2 og artikkel 68 nr. 1 og i delegerte rettsakter vedtatt i henhold til artikkel 63, artikkel 67 og artikkel 68 nr. 2, forutsatt at slike tiltak overholder reglene fastsatt i denne forordningen og er nødvendige og forholdsmessige for å bekjempe spredningen av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), idet det tas hensyn tilsærlige epidemiologiske omstendigheter,den typen anlegg, andre steder og produksjon som berøres,de artene og kategoriene av dyr som berøres,økonomiske og sosiale forhold.
+1\. Medlemsstatene kan treffe ytterligere tiltak for sykdomsbekjempelse ut over tiltakene fastsatt i artikkel 55, artikkel 61 nr. 1, artikkel 62, artikkel 65 nr. 1 og 2 og artikkel 68 nr. 1 og i delegerte rettsakter vedtatt i henhold til artikkel 63, artikkel 67 og artikkel 68 nr. 2, forutsatt at slike tiltak overholder reglene fastsatt i denne forordningen og er nødvendige og forholdsmessige for å bekjempe spredningen av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav a), idet det tas hensyn til
 
-2\. Medlemsstatene skal umiddelbart informere Kommisjonen omde tiltakene for sykdomsbekjempelse som vedkommende myndighet har truffet i henhold til artikkel 58, 59, 61, 62, 64 og 65, artikkel 68 nr. 1, artikkel 69 og artikkel 70 nr. 1 og 2 og i delegerte rettsakter vedtatt i henhold til artikkel 63 og 67, artikkel 68 nr. 2 og artikkel 70 nr. 3,eventuelle ytterligere tiltak for sykdomsbekjempelse som de har truffet i henhold til nr. 1.
+1. særlige epidemiologiske omstendigheter,
+2. den typen anlegg, andre steder og produksjon som berøres,
+3. de artene og kategoriene av dyr som berøres,
+4. økonomiske og sosiale forhold.
 
-3\. Kommisjonen skal gjennomgå sykdomssituasjonen og tiltakene for sykdomsbekjempelse som vedkommende myndighet har truffet og eventuelle ytterligere tiltak for sykdomsbekjempelse som den berørte medlemsstaten har truffet i samsvar med dette kapittelet, og kan ved hjelp av gjennomføringsrettsakter fastsette særlige tiltak for sykdomsbekjempelse for et begrenset tidsrom, på vilkår som står i forhold til den epidemiologiske situasjonen dersomnevnte tiltak for sykdomsbekjempelse ikke anses å være egnet for den epidemiologiske situasjonen,den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a) synes å spre seg til tross for de tiltakene for sykdomsbekjempelse som er truffet i samsvar med dette kapittelet.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+2\. Medlemsstatene skal umiddelbart informere Kommisjonen om
+
+1. de tiltakene for sykdomsbekjempelse som vedkommende myndighet har truffet i henhold til artikkel 58, 59, 61, 62, 64 og 65, artikkel 68 nr. 1, artikkel 69 og artikkel 70 nr. 1 og 2 og i delegerte rettsakter vedtatt i henhold til artikkel 63 og 67, artikkel 68 nr. 2 og artikkel 70 nr. 3,
+2. eventuelle ytterligere tiltak for sykdomsbekjempelse som de har truffet i henhold til nr. 1.
+
+3\. Kommisjonen skal gjennomgå sykdomssituasjonen og tiltakene for sykdomsbekjempelse som vedkommende myndighet har truffet og eventuelle ytterligere tiltak for sykdomsbekjempelse som den berørte medlemsstaten har truffet i samsvar med dette kapittelet, og kan ved hjelp av gjennomføringsrettsakter fastsette særlige tiltak for sykdomsbekjempelse for et begrenset tidsrom, på vilkår som står i forhold til den epidemiologiske situasjonen dersom
+
+1. nevnte tiltak for sykdomsbekjempelse ikke anses å være egnet for den epidemiologiske situasjonen,
+2. den listeførte sykdommen nevnt i artikkel 9 nr. 1 bokstav a) synes å spre seg til tross for de tiltakene for sykdomsbekjempelse som er truffet i samsvar med dette kapittelet.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 4\. I behørig begrunnede, tvingende hastetilfeller knyttet til en sykdom som utgjør en ny, svært betydelig risiko, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
@@ -1644,7 +2650,11 @@ Undersøkelse utført av vedkommende myndighet ved mistanke om en listeført syk
 
 1\. Ved mistanke om en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) hos holdte dyr, skal vedkommende myndighet umiddelbart gjennomføre en undersøkelse for å bekrefte eller utelukke forekomst av nevnte listeførte sykdom.
 
-2\. Med henblikk på undersøkelsen fastsatt i nr. 1 skal vedkommende myndighet sørge for atoffentlige veterinærer gjennomfører en klinisk undersøkelse av et representativt utvalg av de holdte dyrene av listeførte arter for den aktuelle listeførte sykdommen,offentlige veterinærer tar hensiktsmessige prøver fra disse holdte dyrene av listeførte arter og andre prøver for undersøkelse i laboratorier som vedkommende myndighet har utpekt til dette formålet,slike utpekte laboratorier gjennomfører undersøkelser for å bekrefte eller utelukke forekomst av den aktuelle listeførte sykdommen.
+2\. Med henblikk på undersøkelsen fastsatt i nr. 1 skal vedkommende myndighet sørge for at
+
+1. offentlige veterinærer gjennomfører en klinisk undersøkelse av et representativt utvalg av de holdte dyrene av listeførte arter for den aktuelle listeførte sykdommen,
+2. offentlige veterinærer tar hensiktsmessige prøver fra disse holdte dyrene av listeførte arter og andre prøver for undersøkelse i laboratorier som vedkommende myndighet har utpekt til dette formålet,
+3. slike utpekte laboratorier gjennomfører undersøkelser for å bekrefte eller utelukke forekomst av den aktuelle listeførte sykdommen.
 
 3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler som utfyller reglene for undersøkelser som fastsatt i nr. 1.
 
@@ -1652,19 +2662,34 @@ Undersøkelse utført av vedkommende myndighet ved mistanke om en listeført syk
 
 Foreløpige tiltak for sykdomsbekjempelse truffet av vedkommende myndighet med hensyn til listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav b)
 
-1\. Dersom vedkommende myndighet har mistanke om en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) hos holdte dyr, skal den gjennomføre følgende foreløpige tiltak for sykdomsbekjempelse, med forbehold for nasjonale krav om adgang til privatboliger, i påvente av resultatene av undersøkelsen fastsatt i artikkel 73 nr. 1 og gjennomføringen av tiltakene for sykdomsbekjempelse fastsatt i artikkel 79:Iverksette tiltak for sykdomsbekjempelse for å begrense spredningen av nevnte listeførte sykdom fra det rammede territoriet, anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller annet sted.Ved behov iverksette en epidemiologisk undersøkelse idet det tas hensyn til reglene for slik undersøkelse fastsatt i artikkel 57 nr. 1.
+1\. Dersom vedkommende myndighet har mistanke om en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) hos holdte dyr, skal den gjennomføre følgende foreløpige tiltak for sykdomsbekjempelse, med forbehold for nasjonale krav om adgang til privatboliger, i påvente av resultatene av undersøkelsen fastsatt i artikkel 73 nr. 1 og gjennomføringen av tiltakene for sykdomsbekjempelse fastsatt i artikkel 79:
+
+1. Iverksette tiltak for sykdomsbekjempelse for å begrense spredningen av nevnte listeførte sykdom fra det rammede territoriet, anlegget, næringsmiddel- eller fôrforetaket, anlegget for animalske biprodukter eller annet sted.
+2. Ved behov iverksette en epidemiologisk undersøkelse idet det tas hensyn til reglene for slik undersøkelse fastsatt i artikkel 57 nr. 1.
 
 2\. I tillegg til tiltakene nevnt i nr. 1 kan vedkommende myndighet i tilfellene nevnt i samme nummer, treffe ytterligere foreløpige tiltak for sykdomsbekjempelse, forutsatt at slike tiltak overholder bestemmelsene i denne forordningen og er i samsvar med unionsretten.
 
-3\. De foreløpige tiltakene for sykdomsbekjempelse fastsatt i nr. 1 og 2 skal være hensiktsmessige og stå i forhold til den risikoen som den aktuelle listeførte sykdommen utgjør, idet det tas hensyn til følgende:Sykdomsprofilen.De holdte dyrene som er rammet.Helsestatus i medlemsstaten, sonen, segmentet eller anlegget der det er mistanke om at den listeførte sykdommen forekommer.De foreløpige tiltakene for sykdomsbekjempelse fastsatt i artikkel 55 nr. 1, artikkel 56 og i delegerte rettsakter vedtatt i samsvar med artikkel 55 nr. 2.
+3\. De foreløpige tiltakene for sykdomsbekjempelse fastsatt i nr. 1 og 2 skal være hensiktsmessige og stå i forhold til den risikoen som den aktuelle listeførte sykdommen utgjør, idet det tas hensyn til følgende:
 
-4\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til regler for listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav b), som utfyller reglene fastsatt i nr. 1 i denne artikkelen, idet det tas hensyn til forholdene nevnt i nr. 3 når det gjelderde foreløpige tiltakene for sykdomsbekjempelse som skal treffes for å forhindre spredning av den listeførte sykdommen, som nevnt i nr. 1 bokstav a),anvendelsen av de foreløpige tiltakene for sykdomsbekjempelse i henhold til nr. 1 bokstav a) på andre anlegg, epidemiologiske enheter i disse, næringsmiddel- eller fôrforetak og anlegg for animalske biprodukter eller andre steder,opprettelsen av midlertidige restriksjonssoner som er hensiktsmessige på bakgrunn av sykdomsprofilen.
+1. Sykdomsprofilen.
+2. De holdte dyrene som er rammet.
+3. Helsestatus i medlemsstaten, sonen, segmentet eller anlegget der det er mistanke om at den listeførte sykdommen forekommer.
+4. De foreløpige tiltakene for sykdomsbekjempelse fastsatt i artikkel 55 nr. 1, artikkel 56 og i delegerte rettsakter vedtatt i samsvar med artikkel 55 nr. 2.
+
+4\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til regler for listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav b), som utfyller reglene fastsatt i nr. 1 i denne artikkelen, idet det tas hensyn til forholdene nevnt i nr. 3 når det gjelder
+
+1. de foreløpige tiltakene for sykdomsbekjempelse som skal treffes for å forhindre spredning av den listeførte sykdommen, som nevnt i nr. 1 bokstav a),
+2. anvendelsen av de foreløpige tiltakene for sykdomsbekjempelse i henhold til nr. 1 bokstav a) på andre anlegg, epidemiologiske enheter i disse, næringsmiddel- eller fôrforetak og anlegg for animalske biprodukter eller andre steder,
+3. opprettelsen av midlertidige restriksjonssoner som er hensiktsmessige på bakgrunn av sykdomsprofilen.
 
 ###### Artikkel 75
 
 Gjennomgang og utvidelse av de foreløpige tiltakene for sykdomsbekjempelse for listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav b)
 
-Tiltakene for sykdomsbekjempelse fastsatt i artikkel 74 nr. 1 skalved behov gjennomgås av vedkommende myndighet på grunnlag av resultatene av undersøkelsen fastsatt i artikkel 73 nr. 1 og eventuelt den epidemiologiske undersøkelsen fastsatt i artikkel 74 nr. 1 bokstav b),om nødvendig utvides til andre steder som nevnt i artikkel 74 nr. 4 bokstav b).
+Tiltakene for sykdomsbekjempelse fastsatt i artikkel 74 nr. 1 skal
+
+1. ved behov gjennomgås av vedkommende myndighet på grunnlag av resultatene av undersøkelsen fastsatt i artikkel 73 nr. 1 og eventuelt den epidemiologiske undersøkelsen fastsatt i artikkel 74 nr. 1 bokstav b),
+2. om nødvendig utvides til andre steder som nevnt i artikkel 74 nr. 4 bokstav b).
 
 ###### Artikkel 76
 
@@ -1672,13 +2697,20 @@ Forpliktelser for driftsansvarlige og andre relevante berørte fysiske og juridi
 
 1\. Ved mistanke om en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav c), i en medlemsstat som har valgt et utryddelsesprogram som omfatter de relevante delene av sitt territorium eller soner eller segmenter av dette som fastsatt i artikkel 31 nr. 2, skal nevnte medlemsstat treffe tiltak for å sikre at driftsansvarlige og andre relevante berørte fysiske og juridiske personer treffer hensiktsmessige tiltak i henhold til artikkel 72 nr. 1, i påvente av at vedkommende myndighet skal treffe tiltak for sykdomsbekjempelse i samsvar med nr. 2 i denne artikkelen.
 
-2\. Dersom vedkommende myndighet i en medlemsstat som har valgt å utrydde en listeført sykdom som nevnt i nr. 1, har mistanke om forekomst av den aktuelle sykdommen hos holdte dyr, skal denumiddelbart gjennomføre en undersøkelse for å bekrefte eller utelukke forekomst av nevnte listeførte sykdom i samsvar med artikkel 73 nr. 1 og 2,i påvente av resultatene av undersøkelsen fastsatt i bokstav a) og av gjennomføringen av tiltakene for sykdomsbekjempelse i samsvar med artikkel 80 nr. 1, gjennomføre de foreløpige tiltakene for sykdomsbekjempelse fastsatt i artikkel 74 nr. 1 og 2.
+2\. Dersom vedkommende myndighet i en medlemsstat som har valgt å utrydde en listeført sykdom som nevnt i nr. 1, har mistanke om forekomst av den aktuelle sykdommen hos holdte dyr, skal den
+
+1. umiddelbart gjennomføre en undersøkelse for å bekrefte eller utelukke forekomst av nevnte listeførte sykdom i samsvar med artikkel 73 nr. 1 og 2,
+2. i påvente av resultatene av undersøkelsen fastsatt i bokstav a) og av gjennomføringen av tiltakene for sykdomsbekjempelse i samsvar med artikkel 80 nr. 1, gjennomføre de foreløpige tiltakene for sykdomsbekjempelse fastsatt i artikkel 74 nr. 1 og 2.
 
 3\. Vedkommende myndighet skal gjennomgå og utvide de foreløpige tiltakene for sykdomsbekjempelse nevnt i nr. 2 bokstav b) i samsvar med artikkel 75.
 
 4\. Nummer 1, 2 og 3 i denne artikkelen får også anvendelse på medlemsstater eller soner som har fått sykdomsfri status, for å opprettholde nevnte status i samsvar med artikkel 36, eller på segmenter i samsvar med artikkel 37 nr. 2.
 
-5\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler som utfyller reglene når det gjeldertiltakene for sykdomsbekjempelse fastsatt i nr. 1,undersøkelsen fastsatt i nr. 2 bokstav a),de foreløpige tiltakene for sykdomsbekjempelse som skal treffes for å forhindre spredning av den listeførte sykdommen som nevnt i nr. 2 bokstav b).
+5\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler som utfyller reglene når det gjelder
+
+1. tiltakene for sykdomsbekjempelse fastsatt i nr. 1,
+2. undersøkelsen fastsatt i nr. 2 bokstav a),
+3. de foreløpige tiltakene for sykdomsbekjempelse som skal treffes for å forhindre spredning av den listeførte sykdommen som nevnt i nr. 2 bokstav b).
 
 ###### Avsnitt 2
 
@@ -1688,7 +2720,11 @@ Bekreftelse på forekomst av sykdom hos holdte dyr
 
 Offisiell bekreftelse av sykdom fra vedkommende myndighet
 
-1\. Vedkommende myndighet skal basere en offisiell bekreftelse av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) eller c), på følgende opplysninger:Resultatene av de kliniske undersøkelsene og laboratorieundersøkelsene i henhold til artikkel 73 nr. 2.Den epidemiologiske undersøkelsen i henhold til artikkel 74 nr. 1 bokstav b), dersom det er relevant.Andre tilgjengelige epidemiologiske data.
+1\. Vedkommende myndighet skal basere en offisiell bekreftelse av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) eller c), på følgende opplysninger:
+
+1. Resultatene av de kliniske undersøkelsene og laboratorieundersøkelsene i henhold til artikkel 73 nr. 2.
+2. Den epidemiologiske undersøkelsen i henhold til artikkel 74 nr. 1 bokstav b), dersom det er relevant.
+3. Andre tilgjengelige epidemiologiske data.
 
 2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til de kravene som skal oppfylles for den offisielle bekreftelsen nevnt i nr. 1.
 
@@ -1706,7 +2742,13 @@ Tiltak for sykdomsbekjempelse ved bekreftelse av sykdom hos holdte dyr
 
 Tiltak for sykdomsbekjempelse truffet av vedkommende myndighet med hensyn til listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav b)
 
-Ved en offisiell bekreftelse i samsvar med artikkel 77 nr. 1 av et utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) hos holdte dyr, skal vedkommende myndighet i en medlemsstat, en sone eller et segment, alt etter hva som er relevant for utbruddet,iverksette tiltakene for sykdomsbekjempelse fastsatt i det obligatoriske utryddelsesprogrammet i henhold til artikkel 31 nr. 1 for nevnte listeførte sykdom, ellerdersom medlemsstaten, sonen eller segmentet har fått sykdomsfri status i samsvar med henholdsvis artikkel 36 eller 37,treffe ett eller flere av tiltakene fastsatt i artikkel 53–69 som står i rimelig forhold til den risikoen som den aktuelle listeførte sykdommen utgjør, ogved behov iverksette det obligatoriske utryddelsesprogrammet for den listeførte sykdommen.
+Ved en offisiell bekreftelse i samsvar med artikkel 77 nr. 1 av et utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) hos holdte dyr, skal vedkommende myndighet i en medlemsstat, en sone eller et segment, alt etter hva som er relevant for utbruddet,
+
+1. iverksette tiltakene for sykdomsbekjempelse fastsatt i det obligatoriske utryddelsesprogrammet i henhold til artikkel 31 nr. 1 for nevnte listeførte sykdom, eller
+2. dersom medlemsstaten, sonen eller segmentet har fått sykdomsfri status i samsvar med henholdsvis artikkel 36 eller 37,
+
+   1. treffe ett eller flere av tiltakene fastsatt i artikkel 53–69 som står i rimelig forhold til den risikoen som den aktuelle listeførte sykdommen utgjør, og
+   2. ved behov iverksette det obligatoriske utryddelsesprogrammet for den listeførte sykdommen.
 
 ###### Artikkel 80
 
@@ -1714,9 +2756,17 @@ Tiltak for sykdomsbekjempelse som skal treffes av vedkommende myndighet med hens
 
 1\. Ved en offisiell bekreftelse i samsvar med artikkel 77 nr. 1 av et utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav c), hos holdte dyr i en medlemsstat som har valgt et utryddelsesprogram som omfatter de relevante delene av sitt territorium eller soner eller segmenter av dette, som fastsatt i artikkel 31 nr. 2, avhengig av hva som er relevant for den listeførte sykdommen og dette utbruddet, skal vedkommende myndighet iverksette tiltakene for sykdomsbekjempelse fastsatt i det frivillige utryddelsesprogrammet.
 
-2\. Vedkommende myndighet kan treffe ytterligere tiltak for sykdomsbekjempelse ut over de tiltakene som er fastsatt i nr. 1, som kan omfatte ett eller flere av tiltakene fastsatt i artikkel 53–69, og skal stå i forhold til risikoen den aktuelle listeførte sykdommen utgjør og skal ta hensyn tilsykdomsprofil,de holdte dyrene som er rammet,økonomiske og sosiale virkninger.
+2\. Vedkommende myndighet kan treffe ytterligere tiltak for sykdomsbekjempelse ut over de tiltakene som er fastsatt i nr. 1, som kan omfatte ett eller flere av tiltakene fastsatt i artikkel 53–69, og skal stå i forhold til risikoen den aktuelle listeførte sykdommen utgjør og skal ta hensyn til
 
-3\. Ved en offisiell bekreftelse i samsvar med artikkel 77 nr. 1 av et utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav c) hos holdte dyr i en medlemsstat, en sone eller et segment som har fått sykdomsfri status i samsvar med artikkel 36 eller 37, skal vedkommende myndighet, for å opprettholde nevnte status, treffe ett eller flere av tiltakene fastsatt i artikkel 53–69. Disse tiltakene skal stå i forhold til risikoen den aktuelle listeførte sykdommen utgjør og skal ta hensyn tilsykdomsprofil,de holdte dyrene som er rammet,økonomiske og sosiale virkninger.
+1. sykdomsprofil,
+2. de holdte dyrene som er rammet,
+3. økonomiske og sosiale virkninger.
+
+3\. Ved en offisiell bekreftelse i samsvar med artikkel 77 nr. 1 av et utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav c) hos holdte dyr i en medlemsstat, en sone eller et segment som har fått sykdomsfri status i samsvar med artikkel 36 eller 37, skal vedkommende myndighet, for å opprettholde nevnte status, treffe ett eller flere av tiltakene fastsatt i artikkel 53–69. Disse tiltakene skal stå i forhold til risikoen den aktuelle listeførte sykdommen utgjør og skal ta hensyn til
+
+1. sykdomsprofil,
+2. de holdte dyrene som er rammet,
+3. økonomiske og sosiale virkninger.
 
 ###### Avsnitt 4
 
@@ -1726,7 +2776,10 @@ Viltlevende dyr
 
 Tiltak for sykdomsbekjempelse for listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav b) hos viltlevende dyr
 
-Dersom vedkommende myndighet i en rammet medlemsstat har mistanke om eller offisielt bekrefter utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) hos viltlevende dyr, skal den på hele sitt territorium eller i det berørte området eller i den berørte sonen, alt etter hva som er relevant for utbruddet,iverksette tiltakene for sykdomsbekjempelse fastsatt i det obligatoriske utryddelsesprogrammet i henhold ►**C1** til artikkel 31 nr. 1 ◄**C1** for nevnte listeførte sykdom, elleriverksette et obligatorisk utryddelsesprogram dersom utryddelsesprogrammet i henhold til artikkel 31 nr. 1 for nevnte listeførte sykdom ikke ennå er iverksatt fordi sykdommen ikke tidligere har forekommet eller fravær av sykdom har vært konstatert, og dersom det er nødvendig med tiltak for viltlevende dyr for å bekjempe og forhindre spredning av sykdommen.
+Dersom vedkommende myndighet i en rammet medlemsstat har mistanke om eller offisielt bekrefter utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) hos viltlevende dyr, skal den på hele sitt territorium eller i det berørte området eller i den berørte sonen, alt etter hva som er relevant for utbruddet,
+
+1. iverksette tiltakene for sykdomsbekjempelse fastsatt i det obligatoriske utryddelsesprogrammet i henhold ►**C1** til artikkel 31 nr. 1 ◄**C1** for nevnte listeførte sykdom, eller
+2. iverksette et obligatorisk utryddelsesprogram dersom utryddelsesprogrammet i henhold til artikkel 31 nr. 1 for nevnte listeførte sykdom ikke ennå er iverksatt fordi sykdommen ikke tidligere har forekommet eller fravær av sykdom har vært konstatert, og dersom det er nødvendig med tiltak for viltlevende dyr for å bekjempe og forhindre spredning av sykdommen.
 
 ###### Artikkel 82
 
@@ -1734,9 +2787,18 @@ Tiltak for sykdomsbekjempelse for listeførte sykdommer som nevnt i artikkel 9 n
 
 1\. Dersom en vedkommende myndighet mistenker eller offisielt bekrefter en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav c) hos viltlevende dyr, og den rammede medlemsstaten har valgt å utrydde den aktuelle sykdommen, og forutsatt at det frivillige utryddelsesprogrammet fastsatt i artikkel 31 nr. 2 for nevnte listeførte sykdom inneholder tiltak for viltlevende dyr, skal vedkommende myndighet iverksette tiltakene for sykdomsbekjempelse fastsatt i det frivillige utryddelsesprogrammet på hele medlemsstatens territorium eller i hele området eller sonen som er berørt, alt etter hva som er relevant for denne mistanken eller offisielle bekreftelsen.
 
-2\. Vedkommende myndighet kan treffe ytterligere tiltak for sykdomsbekjempelse ut over de tiltakene som er fastsatt i nr. 1, som kan omfatte ett eller flere av tiltakene fastsatt i artikkel 53–69, og skal stå i forhold til risikoen den aktuelle listeførte sykdommen utgjør og skal ta hensyn tilsykdomsprofil,de rammede viltlevende dyrene og risikoen for å overføre sykdommer til dyr og mennesker, ogøkonomiske, sosiale og miljømessige virkninger.
+2\. Vedkommende myndighet kan treffe ytterligere tiltak for sykdomsbekjempelse ut over de tiltakene som er fastsatt i nr. 1, som kan omfatte ett eller flere av tiltakene fastsatt i artikkel 53–69, og skal stå i forhold til risikoen den aktuelle listeførte sykdommen utgjør og skal ta hensyn til
 
-3\. Ved en offisiell bekreftelse av et utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav c) hos viltlevende dyr i en medlemsstat, en sone eller et segment som har fått sykdomsfri status i samsvar med artikkel 36 eller 37, skal vedkommende myndighet, for å opprettholde nevnte status, treffe ett eller flere av tiltakene fastsatt i artikkel 53–69. Disse tiltakene skal stå i forhold til risikoen den aktuelle listeførte sykdommen utgjør og skal ta hensyn tilsykdomsprofil,de rammede viltlevende dyrene og risikoen for å overføre sykdommer til dyr og mennesker,betydningen av forekomsten av sykdommen hos viltlevende dyr for helsestatusen hos holdte dyr, ogøkonomiske, sosiale og miljømessige virkninger.
+1. sykdomsprofil,
+2. de rammede viltlevende dyrene og risikoen for å overføre sykdommer til dyr og mennesker, og
+3. økonomiske, sosiale og miljømessige virkninger.
+
+3\. Ved en offisiell bekreftelse av et utbrudd av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav c) hos viltlevende dyr i en medlemsstat, en sone eller et segment som har fått sykdomsfri status i samsvar med artikkel 36 eller 37, skal vedkommende myndighet, for å opprettholde nevnte status, treffe ett eller flere av tiltakene fastsatt i artikkel 53–69. Disse tiltakene skal stå i forhold til risikoen den aktuelle listeførte sykdommen utgjør og skal ta hensyn til
+
+1. sykdomsprofil,
+2. de rammede viltlevende dyrene og risikoen for å overføre sykdommer til dyr og mennesker,
+3. betydningen av forekomsten av sykdommen hos viltlevende dyr for helsestatusen hos holdte dyr, og
+4. økonomiske, sosiale og miljømessige virkninger.
 
 ###### Avsnitt 5
 
@@ -1746,9 +2808,17 @@ Kommisjonens samordning og midlertidige særlige regler for sykdomsbekjempelse
 
 Kommisjonens samordning av tiltak og midlertidige særlige regler for avsnitt 1–4
 
-1\. Medlemsstatene skal informere Kommisjonen omtiltakene for sykdomsbekjempelse som deres vedkommende myndighet har truffet i samsvar med artikkel 77 nr. 1, artikkel 78, 79 og 81 og delegerte rettsakter vedtatt i henhold til artikkel 77 nr. 2 når det gjelder en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b),tiltakene for sykdomsbekjempelse som deres vedkommende myndighet har truffet i samsvar med artikkel 77 nr. 1, artikkel 78, artikkel 80 nr. 1 og artikkel 82 og delegerte rettsakter vedtatt i henhold til artikkel 77 nr. 2 når det gjelder en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav c).
+1\. Medlemsstatene skal informere Kommisjonen om
 
-2\. Kommisjonen skal gjennomgå sykdomssituasjonen og tiltakene for sykdomsbekjempelse som vedkommende myndighet har truffet i samsvar med dette kapittelet, og kan ved hjelp av gjennomføringsrettsakter fastsette særlige regler for tiltak for sykdomsbekjempelse for et begrenset tidsrom når det gjelder en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) eller c), på vilkår som står i forhold til den epidemiologiske situasjonen, dersomtiltakene for sykdomsbekjempelse som den aktuelle vedkommende myndigheten har truffet, viser seg å være uegnet for den epidemiologiske situasjonen,den listeførte sykdommen synes å spre seg til tross for tiltakene for sykdomsbekjempelse som er truffet i samsvar med dette kapittelet.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. tiltakene for sykdomsbekjempelse som deres vedkommende myndighet har truffet i samsvar med artikkel 77 nr. 1, artikkel 78, 79 og 81 og delegerte rettsakter vedtatt i henhold til artikkel 77 nr. 2 når det gjelder en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b),
+2. tiltakene for sykdomsbekjempelse som deres vedkommende myndighet har truffet i samsvar med artikkel 77 nr. 1, artikkel 78, artikkel 80 nr. 1 og artikkel 82 og delegerte rettsakter vedtatt i henhold til artikkel 77 nr. 2 når det gjelder en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav c).
+
+2\. Kommisjonen skal gjennomgå sykdomssituasjonen og tiltakene for sykdomsbekjempelse som vedkommende myndighet har truffet i samsvar med dette kapittelet, og kan ved hjelp av gjennomføringsrettsakter fastsette særlige regler for tiltak for sykdomsbekjempelse for et begrenset tidsrom når det gjelder en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) eller c), på vilkår som står i forhold til den epidemiologiske situasjonen, dersom
+
+1. tiltakene for sykdomsbekjempelse som den aktuelle vedkommende myndigheten har truffet, viser seg å være uegnet for den epidemiologiske situasjonen,
+2. den listeførte sykdommen synes å spre seg til tross for tiltakene for sykdomsbekjempelse som er truffet i samsvar med dette kapittelet.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 3\. I behørig begrunnede, tvingende hastetilfeller knyttet til en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav b) eller c) som utgjør en ny, svært betydelig risiko, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
@@ -1770,9 +2840,21 @@ Registrering av anlegg og visse typer driftsansvarlige
 
 Driftsansvarliges plikt til å registrere anlegg
 
-1\. Driftsansvarlige for anlegg som holder landdyr eller tar ut, produserer, bearbeider eller oppbevarer avlsmateriale, skal gjøre følgende for å få sine anlegg registrert i samsvar med artikkel 93, og før de starter driften:Informere vedkommende myndighet om ethvert slikt anlegg som de har ansvar for.Framlegge følgende opplysninger for vedkommende myndighet:Den driftsansvarliges navn og adresse.Anleggets beliggenhet og beskrivelse av dets lokaler.Kategoriene, artene og antallet eller mengden av holdte landdyr eller avlsmateriale som de har til hensikt å holde på anlegget, og anleggets kapasitet.Anleggstype.Andre sider ved anlegget som er relevante for å fastsette hvilken risiko det utgjør.
+1\. Driftsansvarlige for anlegg som holder landdyr eller tar ut, produserer, bearbeider eller oppbevarer avlsmateriale, skal gjøre følgende for å få sine anlegg registrert i samsvar med artikkel 93, og før de starter driften:
 
-2\. Driftsansvarlige for anleggene nevnt i nr. 1 skal informere vedkommende myndighet om følgende:Eventuelle endringer ved anlegget med hensyn til forholdene nevnt i nr. 1 bokstav b).Opphør av den driftsansvarliges eller anleggets aktiviteter.
+1. Informere vedkommende myndighet om ethvert slikt anlegg som de har ansvar for.
+2. Framlegge følgende opplysninger for vedkommende myndighet:
+
+   1. Den driftsansvarliges navn og adresse.
+   2. Anleggets beliggenhet og beskrivelse av dets lokaler.
+   3. Kategoriene, artene og antallet eller mengden av holdte landdyr eller avlsmateriale som de har til hensikt å holde på anlegget, og anleggets kapasitet.
+   4. Anleggstype.
+   5. Andre sider ved anlegget som er relevante for å fastsette hvilken risiko det utgjør.
+
+2\. Driftsansvarlige for anleggene nevnt i nr. 1 skal informere vedkommende myndighet om følgende:
+
+1. Eventuelle endringer ved anlegget med hensyn til forholdene nevnt i nr. 1 bokstav b).
+2. Opphør av den driftsansvarliges eller anleggets aktiviteter.
 
 3\. Anlegg som skal godkjennes i samsvar med artikkel 94 nr. 1, skal ikke være forpliktet til å legge fram opplysningene nevnt i nr. 1.
 
@@ -1788,7 +2870,11 @@ Gjennomføringsmyndighet med hensyn til driftsansvarliges plikt til å registrer
 
 1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for de opplysningene som driftsansvarlige skal legge fram med henblikk på registrering av anlegg som fastsatt i artikkel 84 nr. 1, herunder fristene for å legge fram slike opplysninger.
 
-2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for hvilke typer anlegg medlemsstatene kan unnta fra registreringskravet i henhold til artikkel 85, på grunnlag avartene og kategoriene av og antallet holdte landdyr og avlsmateriale på det aktuelle anlegget og anleggets kapasitet,anleggstype,forflytninger av holdte landdyr eller avlsmateriale inn og ut av anlegget.
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for hvilke typer anlegg medlemsstatene kan unnta fra registreringskravet i henhold til artikkel 85, på grunnlag av
+
+1. artene og kategoriene av og antallet holdte landdyr og avlsmateriale på det aktuelle anlegget og anleggets kapasitet,
+2. anleggstype,
+3. forflytninger av holdte landdyr eller avlsmateriale inn og ut av anlegget.
 
 3\. Gjennomføringsrettsaktene nevnt i denne artikkelen skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -1796,9 +2882,20 @@ Gjennomføringsmyndighet med hensyn til driftsansvarliges plikt til å registrer
 
 Registreringsplikt for transportører av holdte hov- og klovdyr, og delegerte rettsakter
 
-1\. Transportører som transporterer holdte hov- og klovdyr mellom medlemsstater, eller mellom en medlemsstat og et tredjeland, skal gjøre følgende for å kunne bli registrert i samsvar med artikkel 93, og før de starter driften:Informere vedkommende myndighet om sine aktiviteter.Oversende til vedkommende myndighet opplysninger om følgende:Den berørte transportørens navn og adresse.Kategoriene og artene av og antallet holdte hov- og klovdyr som det planlegges transport for.Typen transport.Transportmiddel.
+1\. Transportører som transporterer holdte hov- og klovdyr mellom medlemsstater, eller mellom en medlemsstat og et tredjeland, skal gjøre følgende for å kunne bli registrert i samsvar med artikkel 93, og før de starter driften:
 
-2\. Transportørene nevnt i nr. 1 skal informere vedkommende myndighet om følgende:Eventuelle endringer i forholdene nevnt i nr. 1 bokstav b).Opphør av transportvirksomheten.
+1. Informere vedkommende myndighet om sine aktiviteter.
+2. Oversende til vedkommende myndighet opplysninger om følgende:
+
+   1. Den berørte transportørens navn og adresse.
+   2. Kategoriene og artene av og antallet holdte hov- og klovdyr som det planlegges transport for.
+   3. Typen transport.
+   4. Transportmiddel.
+
+2\. Transportørene nevnt i nr. 1 skal informere vedkommende myndighet om følgende:
+
+1. Eventuelle endringer i forholdene nevnt i nr. 1 bokstav b).
+2. Opphør av transportvirksomheten.
 
 3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 som utfyller reglene fastsatt i nr. 1 i denne artikkelen, når det gjelder forpliktelsen for andre typer transportører hvis transportvirksomhet utgjør en særlig og vesentlig risiko for visse arter eller kategorier av dyr, om å legge fram relevante opplysninger med henblikk på registrering av deres virksomhet.
 
@@ -1814,7 +2911,10 @@ Gjennomføringsmyndighet med hensyn til transportørers registreringsplikt
 
 1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for de opplysningene som transportører skal legge fram for å registrere sin virksomhet i henhold til artikkel 87 nr. 1 og 3, herunder frister for å legge fram slike opplysninger.
 
-2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for hvilke typer transportører medlemsstatene kan unnta fra registreringskravet i henhold til artikkel 86, på grunnlag avavstandene de aktuelle hov- og klovdyrene transporteres, ogkategoriene og artene av og antallet hov- og klovdyr de transporterer.
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for hvilke typer transportører medlemsstatene kan unnta fra registreringskravet i henhold til artikkel 86, på grunnlag av
+
+1. avstandene de aktuelle hov- og klovdyrene transporteres, og
+2. kategoriene og artene av og antallet hov- og klovdyr de transporterer.
 
 3\. Gjennomføringsrettsaktene nevnt i denne artikkelen skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -1822,9 +2922,15 @@ Gjennomføringsmyndighet med hensyn til transportørers registreringsplikt
 
 Registreringsplikt for driftsansvarlige som gjennomfører oppsamling uavhengig av et anlegg
 
-1\. Driftsansvarlige som gjennomfører oppsamling av holdte hov- og klovdyr og fjørfe uavhengig av et anlegg, herunder de som kjøper og selger dyr, skal for å kunne bli registrert i samsvar med artikkel 93 og før de starter driften, gi vedkommende myndighet opplysninger om følgende:Den driftsansvarliges navn og adresse.Artene og kategoriene av holdte hov- og klovdyr og fjørfe som omfattes av deres aktiviteter.
+1\. Driftsansvarlige som gjennomfører oppsamling av holdte hov- og klovdyr og fjørfe uavhengig av et anlegg, herunder de som kjøper og selger dyr, skal for å kunne bli registrert i samsvar med artikkel 93 og før de starter driften, gi vedkommende myndighet opplysninger om følgende:
 
-2\. Driftsansvarlige nevnt i nr. 1 skal informere vedkommende myndighet om følgende:Eventuelle endringer i forholdene nevnt i nr. 1.Opphør av den driftsansvarliges aktiviteter.
+1. Den driftsansvarliges navn og adresse.
+2. Artene og kategoriene av holdte hov- og klovdyr og fjørfe som omfattes av deres aktiviteter.
+
+2\. Driftsansvarlige nevnt i nr. 1 skal informere vedkommende myndighet om følgende:
+
+1. Eventuelle endringer i forholdene nevnt i nr. 1.
+2. Opphør av den driftsansvarliges aktiviteter.
 
 ###### Artikkel 91
 
@@ -1846,7 +2952,11 @@ Gjennomføringsmyndighet med hensyn til registreringsplikten for driftsansvarlig
 
 Vedkommende myndighets registreringsplikt
 
-En vedkommende myndighet skal registrereanlegg i registeret fastsatt i artikkel 101 nr. 1 dersom den berørte driftsansvarlige har lagt fram de opplysningene som kreves i samsvar med artikkel 84 nr. 1,transportører i registeret fastsatt i artikkel 101 nr. 1 dersom den berørte transportøren har lagt fram de opplysningene som kreves i samsvar med artikkel 87 nr. 1 og 3,Driftsansvarlige som gjennomfører oppsamling uavhengig av et anlegg, i registeret i henhold til artikkel 101 nr. 1 dersom den berørte driftsansvarlige har lagt fram de opplysningene som kreves i samsvar med artikkel 90 nr. 1.
+En vedkommende myndighet skal registrere
+
+1. anlegg i registeret fastsatt i artikkel 101 nr. 1 dersom den berørte driftsansvarlige har lagt fram de opplysningene som kreves i samsvar med artikkel 84 nr. 1,
+2. transportører i registeret fastsatt i artikkel 101 nr. 1 dersom den berørte transportøren har lagt fram de opplysningene som kreves i samsvar med artikkel 87 nr. 1 og 3,
+3. Driftsansvarlige som gjennomfører oppsamling uavhengig av et anlegg, i registeret i henhold til artikkel 101 nr. 1 dersom den berørte driftsansvarlige har lagt fram de opplysningene som kreves i samsvar med artikkel 90 nr. 1.
 
 Vedkommende myndighet skal gi hvert enkelt anlegg, transportør og driftsansvarlig som nevnt i bokstav a)–c) et unikt registreringsnummer.
 
@@ -1858,45 +2968,104 @@ Godkjenning av visse typer anlegg
 
 Godkjenning av visse anlegg, og delegerte rettsakter
 
-1\. Driftsansvarlige som driver følgende typer anlegg, skal søke vedkommende myndighet om godkjenning i samsvar med artikkel 96 nr. 1 og skal ikke starte driften før anlegget er godkjent i samsvar med artikkel 97 nr. 1:Anlegg for oppsamling av hov- og klovdyr og fjørfe, som dyr flyttes fra til en annen medlemsstat, eller som tar imot dyr fra en annen medlemsstat.Anlegg for avlsmateriale fra storfe, svin, sauer, geiter og hestedyr, som avlsmateriale fra disse dyrene flyttes fra, til en annen medlemsstat.Rugerier som rugeegg eller fjørfe flyttes fra, til en annen medlemsstat.Anlegg som holder fjørfe, som fjørfe beregnet til andre formål enn slakting eller rugeegg flyttes fra, til en annen medlemsstat.Enhver annen type anlegg for holdte landdyr som utgjør en vesentlig risiko, og som skal godkjennes i samsvar med reglene fastsatt i en delegert rettsakt vedtatt i samsvar med nr. 3 bokstav b).
+1\. Driftsansvarlige som driver følgende typer anlegg, skal søke vedkommende myndighet om godkjenning i samsvar med artikkel 96 nr. 1 og skal ikke starte driften før anlegget er godkjent i samsvar med artikkel 97 nr. 1:
 
-2\. Driftsansvarlige skal stanse driften ved et anlegg som nevnt i nr. 1 dersomvedkommende myndighet tilbakekaller eller midlertidig opphever sin godkjenning i samsvar med artikkel 100 nr. 2, ellerdet aktuelle anlegget ved betinget godkjenning gitt i samsvar med artikkel 99 nr. 3, ikke oppfyller de utestående kravene nevnt i artikkel 99 nr. 3 og ikke får en endelig godkjenning i samsvar med artikkel 97 nr. 1.
+1. Anlegg for oppsamling av hov- og klovdyr og fjørfe, som dyr flyttes fra til en annen medlemsstat, eller som tar imot dyr fra en annen medlemsstat.
+2. Anlegg for avlsmateriale fra storfe, svin, sauer, geiter og hestedyr, som avlsmateriale fra disse dyrene flyttes fra, til en annen medlemsstat.
+3. Rugerier som rugeegg eller fjørfe flyttes fra, til en annen medlemsstat.
+4. Anlegg som holder fjørfe, som fjørfe beregnet til andre formål enn slakting eller rugeegg flyttes fra, til en annen medlemsstat.
+5. Enhver annen type anlegg for holdte landdyr som utgjør en vesentlig risiko, og som skal godkjennes i samsvar med reglene fastsatt i en delegert rettsakt vedtatt i samsvar med nr. 3 bokstav b).
 
-3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderunntak fra kravet om at driftsansvarlige som driver de typene anlegg som er nevnt i nr. 1 bokstav a)–d), må søke vedkommende myndighet om godkjenning, dersom disse anleggene utgjør en uvesentlig risiko,de typene anlegg som må godkjennes i samsvar med nr. 1 bokstav e),særlige regler for opphør av aktiviteter for anlegg for avlsmateriale som nevnt i nr. 1 bokstav b).
+2\. Driftsansvarlige skal stanse driften ved et anlegg som nevnt i nr. 1 dersom
 
-4\. Når Kommisjonen vedtar delegerte rettsakter i henhold til nr. 3, skal den legge følgende kriterier til grunn:Artene og kategoriene av holdte landdyr eller avlsmateriale i et anlegg.Antallet arter og antallet holdte landdyr eller avlsmateriale i et anlegg.Anleggstype og produksjonstype.Forflytningene av holdte landdyr eller avlsmateriale inn og ut av nevnte typer anlegg.
+1. vedkommende myndighet tilbakekaller eller midlertidig opphever sin godkjenning i samsvar med artikkel 100 nr. 2, eller
+2. det aktuelle anlegget ved betinget godkjenning gitt i samsvar med artikkel 99 nr. 3, ikke oppfyller de utestående kravene nevnt i artikkel 99 nr. 3 og ikke får en endelig godkjenning i samsvar med artikkel 97 nr. 1.
+
+3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. unntak fra kravet om at driftsansvarlige som driver de typene anlegg som er nevnt i nr. 1 bokstav a)–d), må søke vedkommende myndighet om godkjenning, dersom disse anleggene utgjør en uvesentlig risiko,
+2. de typene anlegg som må godkjennes i samsvar med nr. 1 bokstav e),
+3. særlige regler for opphør av aktiviteter for anlegg for avlsmateriale som nevnt i nr. 1 bokstav b).
+
+4\. Når Kommisjonen vedtar delegerte rettsakter i henhold til nr. 3, skal den legge følgende kriterier til grunn:
+
+1. Artene og kategoriene av holdte landdyr eller avlsmateriale i et anlegg.
+2. Antallet arter og antallet holdte landdyr eller avlsmateriale i et anlegg.
+3. Anleggstype og produksjonstype.
+4. Forflytningene av holdte landdyr eller avlsmateriale inn og ut av nevnte typer anlegg.
 
 ###### Artikkel 95
 
 Godkjenning av status som avgrenset anlegg
 
-Driftsansvarlige for anlegg som søker om status som avgrenset anlegg, skalsøke vedkommende myndighet om godkjenning i samsvar med artikkel 96 nr. 1,flytte holdte dyr til eller fra anlegget i samsvar med kravene fastsatt i artikkel 137 nr. 1 og delegerte rettsakter vedtatt i samsvar med artikkel 137 nr. 2, først etter at deres anlegg har fått godkjenning for slik status av vedkommende myndighet i samsvar med artikkel 97 og 99.
+Driftsansvarlige for anlegg som søker om status som avgrenset anlegg, skal
+
+1. søke vedkommende myndighet om godkjenning i samsvar med artikkel 96 nr. 1,
+2. flytte holdte dyr til eller fra anlegget i samsvar med kravene fastsatt i artikkel 137 nr. 1 og delegerte rettsakter vedtatt i samsvar med artikkel 137 nr. 2, først etter at deres anlegg har fått godkjenning for slik status av vedkommende myndighet i samsvar med artikkel 97 og 99.
 
 ###### Artikkel 96
 
 Driftsansvarliges plikt til å legge fram opplysninger for å få godkjenning, og gjennomføringsrettsakter
 
-1\. I forbindelse med søknaden om godkjenning av anlegg i henhold til artikkel 94 nr. 1 og artikkel 95 bokstav a) skal driftsansvarlige framlegge følgende opplysninger for vedkommende myndighet:Den driftsansvarliges navn og adresse.Anleggets beliggenhet og beskrivelse av dets lokaler.Kategoriene og artene av og antallet holdte landdyr eller avlsmateriale som er relevant for godkjenningen, og som holdes i anlegget.Anleggstype.Øvrige opplysninger om anlegget med hensyn til dets spesifikke egenskaper, som er relevante for å fastsette hvilken risiko det eventuelt kan utgjøre.
+1\. I forbindelse med søknaden om godkjenning av anlegg i henhold til artikkel 94 nr. 1 og artikkel 95 bokstav a) skal driftsansvarlige framlegge følgende opplysninger for vedkommende myndighet:
 
-2\. Driftsansvarlige for anleggene nevnt i nr. 1 skal informere vedkommende myndighet om følgende:Eventuelle endringer ved anlegget med hensyn til forholdene nevnt i nr. 1 bokstav a), b) eller c).Opphør av den driftsansvarliges eller anleggets aktiviteter.
+1. Den driftsansvarliges navn og adresse.
+2. Anleggets beliggenhet og beskrivelse av dets lokaler.
+3. Kategoriene og artene av og antallet holdte landdyr eller avlsmateriale som er relevant for godkjenningen, og som holdes i anlegget.
+4. Anleggstype.
+5. Øvrige opplysninger om anlegget med hensyn til dets spesifikke egenskaper, som er relevante for å fastsette hvilken risiko det eventuelt kan utgjøre.
 
-3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for de opplysningene som driftsansvarlige skal legge fram i sin søknad om godkjenning av anlegget i samsvar med nr. 1, og om fristene for å legge fram opplysningene nevnt i nr. 1 og i nr. 2 bokstav b).Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+2\. Driftsansvarlige for anleggene nevnt i nr. 1 skal informere vedkommende myndighet om følgende:
+
+1. Eventuelle endringer ved anlegget med hensyn til forholdene nevnt i nr. 1 bokstav a), b) eller c).
+2. Opphør av den driftsansvarliges eller anleggets aktiviteter.
+
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for de opplysningene som driftsansvarlige skal legge fram i sin søknad om godkjenning av anlegget i samsvar med nr. 1, og om fristene for å legge fram opplysningene nevnt i nr. 1 og i nr. 2 bokstav b).
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Artikkel 97
 
 Godkjenning av og vilkårene for godkjenning av anlegg, og delegerte rettsakter
 
-1\. Vedkommende myndigheter skal bare godkjenne anlegg i henhold til artikkel 94 nr. 1 og artikkel 95 bokstav a) somoppfyller følgende krav, alt etter hva som er relevant, når det gjelderkarantene, isolasjon og andre biosikkerhetstiltak, idet det tas hensyn til kravene i artikkel 10 nr. 1 bokstav b) og eventuelle regler vedtatt i samsvar med artikkel 10 nr. 2,overvåkingskrav i henhold til artikkel 24 og dersom det er relevant for den berørte anleggstypen og den tilknyttede risikoen, artikkel 25,journalføring i henhold til artikkel 102 og 103 og eventuelle regler vedtatt i henhold til artikkel 106 og 107,har lokaler og utstyr somi tilstrekkelig grad begrenser risikoen for innføring og spredning av sykdommer til et akseptabelt nivå, idet det tas hensyn til den berørte anleggstypen,har tilstrekkelig kapasitet i forhold til antallet holdte landdyr eller mengden av avlsmateriale,ikke utgjør en uakseptabel risiko med hensyn til spredning av sykdommer, idet det tas hensyn til de risikoreduserende tiltakene som er innført,har et personale med nødvendig utdanning for aktiviteten ved det berørte anlegget,har innført et system som gjør at den driftsansvarlige kan godtgjøre overfor vedkommende myndighet at den oppfyller bokstav a)–d).
+1\. Vedkommende myndigheter skal bare godkjenne anlegg i henhold til artikkel 94 nr. 1 og artikkel 95 bokstav a) som
 
-2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderkarantene, isolasjon og andre biosikkerhetstiltak som nevnt i nr. 1 bokstav a) i),overvåking som nevnt i nr. 1 bokstav a) ii),lokaler og utstyr som nevnt i nr. 1 bokstav b),personalets og veterinærenes ansvarsområder, kompetanse og spesialiserte utdanning i henhold til nr. 1 bokstav d), for aktiviteter i anlegg for avlsmateriale og anlegg for oppsamling av hov- og klovdyr og fjørfe,vedkommende myndighets nødvendige tilsyn med anlegg for avlsmateriale og anlegg for oppsamling av hov- og klovdyr og fjørfe.
+1. oppfyller følgende krav, alt etter hva som er relevant, når det gjelder
 
-3\. Når Kommisjonen utarbeider de reglene som skal fastsettes i delegerte rettsakter, som skal vedtas i henhold til nr. 2, skal følgende forhold tas i betraktning:Risikoene som den enkelte typen anlegg utgjør.Artene og kategoriene av holdte landdyr som er relevante for godkjenningen.Den aktuelle produksjonstypen.Typiske forflytningsmønstre for den typen anlegg og de artene og kategoriene av dyr som holdes i disse anleggene.
+   1. karantene, isolasjon og andre biosikkerhetstiltak, idet det tas hensyn til kravene i artikkel 10 nr. 1 bokstav b) og eventuelle regler vedtatt i samsvar med artikkel 10 nr. 2,
+   2. overvåkingskrav i henhold til artikkel 24 og dersom det er relevant for den berørte anleggstypen og den tilknyttede risikoen, artikkel 25,
+   3. journalføring i henhold til artikkel 102 og 103 og eventuelle regler vedtatt i henhold til artikkel 106 og 107,
+2. har lokaler og utstyr som
+
+   1. i tilstrekkelig grad begrenser risikoen for innføring og spredning av sykdommer til et akseptabelt nivå, idet det tas hensyn til den berørte anleggstypen,
+   2. har tilstrekkelig kapasitet i forhold til antallet holdte landdyr eller mengden av avlsmateriale,
+3. ikke utgjør en uakseptabel risiko med hensyn til spredning av sykdommer, idet det tas hensyn til de risikoreduserende tiltakene som er innført,
+4. har et personale med nødvendig utdanning for aktiviteten ved det berørte anlegget,
+5. har innført et system som gjør at den driftsansvarlige kan godtgjøre overfor vedkommende myndighet at den oppfyller bokstav a)–d).
+
+2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. karantene, isolasjon og andre biosikkerhetstiltak som nevnt i nr. 1 bokstav a) i),
+2. overvåking som nevnt i nr. 1 bokstav a) ii),
+3. lokaler og utstyr som nevnt i nr. 1 bokstav b),
+4. personalets og veterinærenes ansvarsområder, kompetanse og spesialiserte utdanning i henhold til nr. 1 bokstav d), for aktiviteter i anlegg for avlsmateriale og anlegg for oppsamling av hov- og klovdyr og fjørfe,
+5. vedkommende myndighets nødvendige tilsyn med anlegg for avlsmateriale og anlegg for oppsamling av hov- og klovdyr og fjørfe.
+
+3\. Når Kommisjonen utarbeider de reglene som skal fastsettes i delegerte rettsakter, som skal vedtas i henhold til nr. 2, skal følgende forhold tas i betraktning:
+
+1. Risikoene som den enkelte typen anlegg utgjør.
+2. Artene og kategoriene av holdte landdyr som er relevante for godkjenningen.
+3. Den aktuelle produksjonstypen.
+4. Typiske forflytningsmønstre for den typen anlegg og de artene og kategoriene av dyr som holdes i disse anleggene.
 
 ###### Artikkel 98
 
 Virkeområde for godkjenning av anlegg
 
-Vedkommende myndighet skal uttrykkelig angi i godkjenningen av et anlegg gitt i henhold til artikkel 97 nr. 1, etter søknad inngitt i samsvar med artikkel 94 nr. 1 eller artikkel 95 bokstav a),hvilken type anlegg i henhold til artikkel 94 nr. 1 og artikkel 95 og bestemmelsene vedtatt i henhold til artikkel 94 nr. 3 bokstav b), godkjenningen gjelder,hvilke arter og kategorier av holdte landdyr eller avlsmateriale av nevnte arter godkjenningen gjelder.
+Vedkommende myndighet skal uttrykkelig angi i godkjenningen av et anlegg gitt i henhold til artikkel 97 nr. 1, etter søknad inngitt i samsvar med artikkel 94 nr. 1 eller artikkel 95 bokstav a),
+
+1. hvilken type anlegg i henhold til artikkel 94 nr. 1 og artikkel 95 og bestemmelsene vedtatt i henhold til artikkel 94 nr. 3 bokstav b), godkjenningen gjelder,
+2. hvilke arter og kategorier av holdte landdyr eller avlsmateriale av nevnte arter godkjenningen gjelder.
 
 ###### Artikkel 99
 
@@ -1910,7 +3079,9 @@ Framgangsmåter for vedkommende myndighets godkjenning
 
 4\. Dersom et anlegg ikke oppfyller alle kravene til godkjenning som nevnt i artikkel 97, kan vedkommende myndighet gi et anlegg en betinget godkjenning dersom det på grunnlag av søknaden fra den berørte driftsansvarlige og besøket på stedet i henhold til nr. 2, viser seg at anlegget oppfyller alle de viktigste kravene, som gir tilstrekkelige garantier for at anlegget ikke utgjør noen vesentlig risiko.
 
-5\. Dersom vedkommende myndighet har gitt en betinget godkjenning i samsvar med nr. 4, skal den bare gi full godkjenning dersom det etter et nytt besøk på anlegget avlagt innen tre måneder etter datoen for den betingede godkjenningen, eller det ut fra dokumentasjon som den driftsansvarlige legger fram innen tre måneder fra nevnte dato, framgår at anlegget oppfyller alle kravene til godkjenning i henhold til artikkel 97 nr. 1 og reglene vedtatt i samsvar med artikkel 97 nr. 2.Dersom besøket på stedet eller dokumentasjonen nevnt i første ledd viser at det er gjort tydelige framskritt, men at anlegget fortsatt ikke oppfyller alle kravene, kan vedkommende myndighet forlenge den betingende godkjenningen. Betinget godkjenning kan imidlertid ikke gis for en periode som til sammen varer i mer enn seks måneder.
+5\. Dersom vedkommende myndighet har gitt en betinget godkjenning i samsvar med nr. 4, skal den bare gi full godkjenning dersom det etter et nytt besøk på anlegget avlagt innen tre måneder etter datoen for den betingede godkjenningen, eller det ut fra dokumentasjon som den driftsansvarlige legger fram innen tre måneder fra nevnte dato, framgår at anlegget oppfyller alle kravene til godkjenning i henhold til artikkel 97 nr. 1 og reglene vedtatt i samsvar med artikkel 97 nr. 2.
+
+Dersom besøket på stedet eller dokumentasjonen nevnt i første ledd viser at det er gjort tydelige framskritt, men at anlegget fortsatt ikke oppfyller alle kravene, kan vedkommende myndighet forlenge den betingende godkjenningen. Betinget godkjenning kan imidlertid ikke gis for en periode som til sammen varer i mer enn seks måneder.
 
 ###### Artikkel 100
 
@@ -1918,7 +3089,9 @@ Vedkommende myndighets gjennomgang, midlertidige oppheving og tilbakekalling av 
 
 1\. Vedkommende myndighet skal gjennomgå de godkjenningene av anlegg som er gitt i samsvar med artikkel 97 og 99 med passende mellomrom på grunnlag av relevante risikoer.
 
-2\. Dersom vedkommende myndighet oppdager alvorlige mangler på et anlegg med hensyn til oppfyllelsen av kravene fastsatt i artikkel 97 nr. 1 og reglene vedtatt i henhold til artikkel 97 nr. 2, og den driftsansvarlige for anlegget ikke kan legge fram tilstrekkelige garantier for at manglene vil bli utbedret, skal vedkommende myndighet sette i gang prosessen med å tilbakekalle godkjenningen av anlegget.Vedkommende myndighet kan imidlertid velge å oppheve midlertidig framfor å tilbakekalle en godkjenning av et anlegg dersom den driftsansvarlige kan garantere at manglene vil bli utbedret innen rimelig tid.
+2\. Dersom vedkommende myndighet oppdager alvorlige mangler på et anlegg med hensyn til oppfyllelsen av kravene fastsatt i artikkel 97 nr. 1 og reglene vedtatt i henhold til artikkel 97 nr. 2, og den driftsansvarlige for anlegget ikke kan legge fram tilstrekkelige garantier for at manglene vil bli utbedret, skal vedkommende myndighet sette i gang prosessen med å tilbakekalle godkjenningen av anlegget.
+
+Vedkommende myndighet kan imidlertid velge å oppheve midlertidig framfor å tilbakekalle en godkjenning av et anlegg dersom den driftsansvarlige kan garantere at manglene vil bli utbedret innen rimelig tid.
 
 3\. Godkjenning kan bare gis etter tilbakekalling eller utstedes på nytt etter midlertidig oppheving i samsvar med nr. 2 dersom vedkommende myndighet finner det godtgjort at anlegget fullt ut oppfyller alle kravene i denne forordningen til den aktuelle typen anlegg.
 
@@ -1930,7 +3103,14 @@ Vedkommende myndighets registre
 
 Registre som skal føres av vedkommende myndighet
 
-1\. Hver vedkommende myndighet skal opprette og ajourføre registre overalle anlegg og driftsansvarlige som er registrert hos den i henhold til artikkel 93,alle anlegg som den har godkjent i samsvar med artikkel 97 og 99.Den skal gjøre registrene nevnt i første ledd bokstav a) og b) tilgjengelige for Kommisjonen og vedkommende myndigheter i øvrige medlemsstater i den utstrekning opplysningene i registrene er relevante for forflytninger av holdte landdyr og avlsmateriale av disse mellom medlemsstater.Den skal gjøre registeret over godkjente anlegg som nevnt i første ledd bokstav b) tilgjengelig for offentligheten i den utstrekning opplysningene i registeret er relevante for forflytninger av holdte landdyr og avlsmateriale av disse mellom medlemsstater.
+1\. Hver vedkommende myndighet skal opprette og ajourføre registre over
+
+1. alle anlegg og driftsansvarlige som er registrert hos den i henhold til artikkel 93,
+2. alle anlegg som den har godkjent i samsvar med artikkel 97 og 99.
+
+Den skal gjøre registrene nevnt i første ledd bokstav a) og b) tilgjengelige for Kommisjonen og vedkommende myndigheter i øvrige medlemsstater i den utstrekning opplysningene i registrene er relevante for forflytninger av holdte landdyr og avlsmateriale av disse mellom medlemsstater.
+
+Den skal gjøre registeret over godkjente anlegg som nevnt i første ledd bokstav b) tilgjengelig for offentligheten i den utstrekning opplysningene i registeret er relevante for forflytninger av holdte landdyr og avlsmateriale av disse mellom medlemsstater.
 
 2\. Dersom det er hensiktsmessig og relevant, kan en vedkommende myndighet kombinere registreringen nevnt i nr. 1 første ledd bokstav a) og godkjenningene nevnt i nr. 1 første ledd bokstav b) med registrering for andre formål.
 
@@ -1944,57 +3124,125 @@ Journalføring
 
 Plikt for driftsansvarlige for andre anlegg enn anlegg for avlsmateriale, til å føre journaler
 
-1\. Driftsansvarlige for anlegg som omfattes av registreringskravet i samsvar med artikkel 93 eller godkjenning i samsvar med artikkel 97 nr. 1, skal føre og oppbevare registre som inneholder minst følgende opplysninger:Artene, kategoriene, antallet og eventuelt identifikasjon av landdyr som holdes i anlegget.Forflytninger av holdte landdyr inn og ut av anlegget, eventuelt med angivelse avderes opprinnelses- eller bestemmelsessted,datoen for slike forflytninger.Dokumenter som skal ledsage holdte landdyr som ankommer eller forlater anlegget i samsvar med artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 115 bokstav b), artikkel 117 bokstav b), artikkel 143 nr. 1 og 2, artikkel 164 nr. 2 og eventuelle regler vedtatt i henhold til artikkel 118 og 120 og artikkel 144 nr. 1 bokstav b) og c).Dødelighet for landdyr som holdes i anlegget.Biosikkerhetstiltak, overvåking, behandlinger, testsresultater og andre relevante opplysninger forartene og kategoriene av landdyr som holdes i anlegget,produksjonstypen,anleggets type og størrelse.Resultatene av eventuelle dyrehelsebesøk i samsvar med artikkel 25 nr. 1.Registrene skal føres og oppbevares på papir eller elektronisk.
+1\. Driftsansvarlige for anlegg som omfattes av registreringskravet i samsvar med artikkel 93 eller godkjenning i samsvar med artikkel 97 nr. 1, skal føre og oppbevare registre som inneholder minst følgende opplysninger:
+
+1. Artene, kategoriene, antallet og eventuelt identifikasjon av landdyr som holdes i anlegget.
+2. Forflytninger av holdte landdyr inn og ut av anlegget, eventuelt med angivelse av
+
+   1. deres opprinnelses- eller bestemmelsessted,
+   2. datoen for slike forflytninger.
+3. Dokumenter som skal ledsage holdte landdyr som ankommer eller forlater anlegget i samsvar med artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 115 bokstav b), artikkel 117 bokstav b), artikkel 143 nr. 1 og 2, artikkel 164 nr. 2 og eventuelle regler vedtatt i henhold til artikkel 118 og 120 og artikkel 144 nr. 1 bokstav b) og c).
+4. Dødelighet for landdyr som holdes i anlegget.
+5. Biosikkerhetstiltak, overvåking, behandlinger, testsresultater og andre relevante opplysninger for
+
+   1. artene og kategoriene av landdyr som holdes i anlegget,
+   2. produksjonstypen,
+   3. anleggets type og størrelse.
+6. Resultatene av eventuelle dyrehelsebesøk i samsvar med artikkel 25 nr. 1.
+
+Registrene skal føres og oppbevares på papir eller elektronisk.
 
 2\. Den berørte medlemsstaten kan frita anlegg som utgjør en lav risiko for spredning av listeførte eller nye sykdommer, fra kravet om å føre registre over alle eller noen av opplysningene angitt i nr. 1.
 
-3\. Driftsansvarlige for anlegg skal oppbevare registrene nevnt i nr. 1 og 2 på det berørte anlegget og skalpå anmodning umiddelbart gjøre dem tilgjengelige for vedkommende myndighet,oppbevare dem i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være minst tre år.
+3\. Driftsansvarlige for anlegg skal oppbevare registrene nevnt i nr. 1 og 2 på det berørte anlegget og skal
 
-4\. Som unntak fra nr. 3 kan driftsansvarlige unntas fra plikten til å føre registre over alle eller noen av forholdene angitt i nr. 1 dersom den berørte driftsansvarligehar tilgang til den elektroniske databasen nevnt i artikkel 109 for de relevante artene, og databasen allerede inneholder de opplysningene som skal føres inn i registrene, ogregistrerer ajourførte opplysninger direkte i databasen.
+1. på anmodning umiddelbart gjøre dem tilgjengelige for vedkommende myndighet,
+2. oppbevare dem i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være minst tre år.
+
+4\. Som unntak fra nr. 3 kan driftsansvarlige unntas fra plikten til å føre registre over alle eller noen av forholdene angitt i nr. 1 dersom den berørte driftsansvarlige
+
+1. har tilgang til den elektroniske databasen nevnt i artikkel 109 for de relevante artene, og databasen allerede inneholder de opplysningene som skal føres inn i registrene, og
+2. registrerer ajourførte opplysninger direkte i databasen.
 
 ###### Artikkel 103
 
 Plikt for anlegg for avlsmateriale til å føre journaler
 
-1\. Driftsansvarlige som driver anlegg for avlsmateriale, skal føre og oppbevare registre som inneholder minst følgende opplysninger:Rase, alder og identifikasjon av og helsestatus hos donordyr som brukes til produksjon av avlsmateriale.Tidspunkt og sted for uttak samt for bearbeiding og oppbevaring av uttatt, produsert eller bearbeidet avlsmateriale.Identifikasjon av avlsmateriale sammen med opplysninger om dets bestemmelsessted, dersom det er kjent.Dokumentene som skal ledsage avlsmateriale som ankommer eller forlater det aktuelle anlegget i samsvar med artikkel 162 og artikkel 164 nr. 2, og eventuelle regler vedtatt i henhold til artikkel 162 nr. 3 og 4.Dersom det er relevant, resultatene av kliniske undersøkelser og laboratorieundersøkelser.Laboratorieteknikker som har blitt brukt.
+1\. Driftsansvarlige som driver anlegg for avlsmateriale, skal føre og oppbevare registre som inneholder minst følgende opplysninger:
+
+1. Rase, alder og identifikasjon av og helsestatus hos donordyr som brukes til produksjon av avlsmateriale.
+2. Tidspunkt og sted for uttak samt for bearbeiding og oppbevaring av uttatt, produsert eller bearbeidet avlsmateriale.
+3. Identifikasjon av avlsmateriale sammen med opplysninger om dets bestemmelsessted, dersom det er kjent.
+4. Dokumentene som skal ledsage avlsmateriale som ankommer eller forlater det aktuelle anlegget i samsvar med artikkel 162 og artikkel 164 nr. 2, og eventuelle regler vedtatt i henhold til artikkel 162 nr. 3 og 4.
+5. Dersom det er relevant, resultatene av kliniske undersøkelser og laboratorieundersøkelser.
+6. Laboratorieteknikker som har blitt brukt.
 
 2\. Den berørte medlemsstaten kan frita anlegg som utgjør en lav risiko for spredning av listeførte eller nye sykdommer, fra kravet om å føre registre over alle eller noen av opplysningene angitt i nr. 1.
 
-3\. Driftsansvarlige for anlegg for avlsmateriale skal oppbevare registrene nevnt i nr. 1 og 2 på anlegget og skalpå anmodning umiddelbart gjøre dem tilgjengelige for vedkommende myndighet,oppbevare dem i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.
+3\. Driftsansvarlige for anlegg for avlsmateriale skal oppbevare registrene nevnt i nr. 1 og 2 på anlegget og skal
+
+1. på anmodning umiddelbart gjøre dem tilgjengelige for vedkommende myndighet,
+2. oppbevare dem i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.
 
 ###### Artikkel 104
 
 Plikt for transportører til å føre journaler
 
-1\. Transportører skal føre og oppbevare registre som inneholder minst følgende opplysninger:Hvilke anlegg de har besøkt.Kategoriene og artene av og antall holdte landdyr som de har transportert.Hvordan transportmiddelet som er brukt, har blitt rengjort og desinfisert og hvilke tiltak mot skadedyr og parasittangrep som har blitt iverksatt.Nærmere opplysninger om dokumenter som ledsager de berørte dyrene, herunder dokumentnumre.Registrene skal føres og oppbevares på papir eller elektronisk.
+1\. Transportører skal føre og oppbevare registre som inneholder minst følgende opplysninger:
+
+1. Hvilke anlegg de har besøkt.
+2. Kategoriene og artene av og antall holdte landdyr som de har transportert.
+3. Hvordan transportmiddelet som er brukt, har blitt rengjort og desinfisert og hvilke tiltak mot skadedyr og parasittangrep som har blitt iverksatt.
+4. Nærmere opplysninger om dokumenter som ledsager de berørte dyrene, herunder dokumentnumre.
+
+Registrene skal føres og oppbevares på papir eller elektronisk.
 
 2\. Den berørte medlemsstaten kan frita transportører som utgjør en lav risiko for spredning av listeførte eller nye sykdommer, fra kravet om å føre registre over alle eller noen av opplysningene angitt i nr. 1.
 
-3\. Transportørene skal oppbevare registrene i henhold til nr. 1 og 2på en slik måte at vedkommende myndighet på anmodning umiddelbart kan få tilgang til dem,i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.
+3\. Transportørene skal oppbevare registrene i henhold til nr. 1 og 2
+
+1. på en slik måte at vedkommende myndighet på anmodning umiddelbart kan få tilgang til dem,
+2. i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.
 
 ###### Artikkel 105
 
 Plikt for driftsansvarlige som gjennomfører oppsamling, til å føre journaler
 
-1\. Driftsansvarlige som gjennomfører oppsamling og omfattes av registreringskravet fastsatt i artikkel 93, skal føre og oppbevare registre som inneholder minst følgende opplysninger:Artene og kategoriene samt antallet og identifikasjon av holdte landdyr som de har ansvar for.Forflytninger av holdte landdyr som de har ansvar for, eventuelt med angivelse avderes opprinnelses- og bestemmelsessted,datoen for slike forflytninger.Dokumentene som skal ledsage holdte landdyr som flyttes under deres ansvar i samsvar med artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 115 bokstav b), artikkel 117 bokstav b), artikkel 143 nr. 1 og 2, artikkel 164 nr. 2 og eventuelle regler vedtatt i henhold til artikkel 118 og 120 og artikkel 144 nr. 1 bokstav b) og c).Dødeligheten hos holdte landdyr som de har ansvar for.Biosikkerhetstiltak, overvåking, behandlinger, testresultater og andre relevante opplysninger for de artene og kategoriene av holdte landdyr som de har ansvar for.Registrene skal føres og oppbevares på papir eller elektronisk.
+1\. Driftsansvarlige som gjennomfører oppsamling og omfattes av registreringskravet fastsatt i artikkel 93, skal føre og oppbevare registre som inneholder minst følgende opplysninger:
+
+1. Artene og kategoriene samt antallet og identifikasjon av holdte landdyr som de har ansvar for.
+2. Forflytninger av holdte landdyr som de har ansvar for, eventuelt med angivelse av
+
+   1. deres opprinnelses- og bestemmelsessted,
+   2. datoen for slike forflytninger.
+3. Dokumentene som skal ledsage holdte landdyr som flyttes under deres ansvar i samsvar med artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 115 bokstav b), artikkel 117 bokstav b), artikkel 143 nr. 1 og 2, artikkel 164 nr. 2 og eventuelle regler vedtatt i henhold til artikkel 118 og 120 og artikkel 144 nr. 1 bokstav b) og c).
+4. Dødeligheten hos holdte landdyr som de har ansvar for.
+5. Biosikkerhetstiltak, overvåking, behandlinger, testresultater og andre relevante opplysninger for de artene og kategoriene av holdte landdyr som de har ansvar for.
+
+Registrene skal føres og oppbevares på papir eller elektronisk.
 
 2\. Den berørte medlemsstaten kan frita driftsansvarlige hvis virksomhet utgjør en lav risiko for spredning av listeførte eller nye sykdommer, fra kravet om å føre registre over alle eller noen av opplysningene angitt i nr. 1.
 
-3\. Driftsansvarlige skalpå anmodning gjøre registrene nevnt i nr. 1 tilgjengelige for vedkommende myndighet,oppbevare dem i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.
+3\. Driftsansvarlige skal
+
+1. på anmodning gjøre registrene nevnt i nr. 1 tilgjengelige for vedkommende myndighet,
+2. oppbevare dem i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.
 
 ###### Artikkel 106
 
 Delegering av myndighet når det gjelder journalføring
 
-1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler som utfyller kravene om journalføring fastsatt i artikkel 102, 103, 104 og 105, når det gjelderopplysninger som skal registreres i tillegg til det som er angitt i artikkel 102 nr. 1, artikkel 103 nr. 1, artikkel 104 nr. 1 og artikkel 105 nr. 1,ytterligere krav om journalføring for avlsmateriale som tas ut, produseres eller bearbeides i anlegg for avlsmateriale etter at driften ved anlegget er avsluttet.
+1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler som utfyller kravene om journalføring fastsatt i artikkel 102, 103, 104 og 105, når det gjelder
 
-2\. Når Kommisjonen utarbeider de reglene som skal fastsettes i de delegerte rettsaktene i henhold til nr. 1, skal følgende forhold tas i betraktning:Risikoene som den enkelte typen anlegg eller aktivitet utgjør.Artene og kategoriene av holdte landdyr eller avlsmateriale på det berørte anlegget, eller som transporteres til eller fra dette anlegget.Typen produksjon på anlegget eller typen aktivitet.Typiske forflytningsmønstre og kategorier av berørte dyr.Antall holdte landdyr eller mengden av avlsmateriale som den berørte driftsansvarlige har ansvar for.
+1. opplysninger som skal registreres i tillegg til det som er angitt i artikkel 102 nr. 1, artikkel 103 nr. 1, artikkel 104 nr. 1 og artikkel 105 nr. 1,
+2. ytterligere krav om journalføring for avlsmateriale som tas ut, produseres eller bearbeides i anlegg for avlsmateriale etter at driften ved anlegget er avsluttet.
+
+2\. Når Kommisjonen utarbeider de reglene som skal fastsettes i de delegerte rettsaktene i henhold til nr. 1, skal følgende forhold tas i betraktning:
+
+1. Risikoene som den enkelte typen anlegg eller aktivitet utgjør.
+2. Artene og kategoriene av holdte landdyr eller avlsmateriale på det berørte anlegget, eller som transporteres til eller fra dette anlegget.
+3. Typen produksjon på anlegget eller typen aktivitet.
+4. Typiske forflytningsmønstre og kategorier av berørte dyr.
+5. Antall holdte landdyr eller mengden av avlsmateriale som den berørte driftsansvarlige har ansvar for.
 
 ###### Artikkel 107
 
 Gjennomføringsmyndighet med hensyn til unntak fra kravene om journalføring
 
-Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for hvilke typer anlegg og driftsansvarlige som medlemsstatene kan unnta fra kravene om journalføring i henhold til artikkel 102, 103, 104 og 105, med hensyn tilanlegg som holder eller driftsansvarlige som håndterer eller transporterer et mindre antall holdte landdyr eller en mindre mengde avlsmateriale,artene eller kategoriene av holdte landdyr eller avlsmateriale.
+Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for hvilke typer anlegg og driftsansvarlige som medlemsstatene kan unnta fra kravene om journalføring i henhold til artikkel 102, 103, 104 og 105, med hensyn til
+
+1. anlegg som holder eller driftsansvarlige som håndterer eller transporterer et mindre antall holdte landdyr eller en mindre mengde avlsmateriale,
+2. artene eller kategoriene av holdte landdyr eller avlsmateriale.
 
 Når Kommisjonen vedtar nevnte gjennomføringsrettsakter, skal kriteriene fastsatt i artikkel 106 nr. 2 legges til grunn.
 
@@ -2014,27 +3262,78 @@ Medlemsstatenes plikt til å opprette et system for identifikasjon og registreri
 
 1\. Medlemsstatene skal ha et system for identifikasjon og registrering av de artene holdte landdyr som det kreves et slikt system for, i henhold til denne forordningen og eventuelle regler som vedtas i henhold til den. Et slikt system skal dersom det er relevant, sikre registrering av forflytninger av slike dyr.
 
-2\. Når medlemsstatene oppretter systemet nevnt i nr. 1, skal følgende tas i betraktning:Artene eller kategoriene av berørte holdte landdyr.Risikoen som nevnte art eller kategori utgjør.
+2\. Når medlemsstatene oppretter systemet nevnt i nr. 1, skal følgende tas i betraktning:
 
-3\. Systemet nevnt i nr. 1 skal inneholde følgende elementer:Merker for å identifisere hvert enkelt landdyr eller grupper av holdte landdyr.Identifikasjonsdokumenter, transportdokumenter og andre dokumenter for identifikasjon og sporing av holdte landdyr som nevnt i artikkel 110.Ajourførte registre i anlegg i henhold til artikkel 102 nr. 1 bokstav a) og b).En database over holdte landdyr i henhold til artikkel 109 nr. 1.
+1. Artene eller kategoriene av berørte holdte landdyr.
+2. Risikoen som nevnte art eller kategori utgjør.
 
-4\. Systemet nevnt i nr. 1 skal være utformet på en slik måte at detsikrer at tiltakene for forebygging og bekjempelse av sykdom som fastsatt i denne forordningen, kan anvendes på en effektiv måte,gjør det enkelt å spore holdte landdyr og forflytninger av dem innenfor og mellom medlemsstater, og innførselen av dem til Unionen,sikrer effektiv samvirkingsevne, integrasjon og kompatibilitet mellom de ulike delene av systemet,sikrer at systemet i den grad det er hensiktsmessig, er tilpassetUnionens databaserte informasjonssystem for melding og rapportering i henhold til artikkel 22,TRACES,sikrer en sammenhengende tilnærming til de ulike dyreartene som omfattes av systemet.
+3\. Systemet nevnt i nr. 1 skal inneholde følgende elementer:
 
-5\. Medlemsstatene kan når det er hensiktsmessig,bruke hele eller deler av systemet i henhold til nr. 1 for andre formål enn formålene nevnt i nr. 4 bokstav a) og b),integrere identifikasjonsdokumenter, transportdokumenter og andre dokumenter nevnt i artikkel 110 med helsesertifikater eller egenerklæringsdokumentet i henhold til artikkel 143 nr. 1 og 2 og artikkel 151 nr. 1 og eventuelle regler vedtatt i henhold til artikkel 144 nr. 1 bokstav b) og c) og artikkel 151 nr. 3 og 4,utpeke en annen myndighet eller bemyndige et annet organ eller en fysisk person til å sikre den praktiske anvendelsen av identifikasjons- og registreringssystemet i henhold til nr. 1, herunder utstedelse av identifikasjonsdokumenter og utarbeiding av maler i henhold til artikkel 110 nr. 1 bokstav a), b) og c).
+1. Merker for å identifisere hvert enkelt landdyr eller grupper av holdte landdyr.
+2. Identifikasjonsdokumenter, transportdokumenter og andre dokumenter for identifikasjon og sporing av holdte landdyr som nevnt i artikkel 110.
+3. Ajourførte registre i anlegg i henhold til artikkel 102 nr. 1 bokstav a) og b).
+4. En database over holdte landdyr i henhold til artikkel 109 nr. 1.
+
+4\. Systemet nevnt i nr. 1 skal være utformet på en slik måte at det
+
+1. sikrer at tiltakene for forebygging og bekjempelse av sykdom som fastsatt i denne forordningen, kan anvendes på en effektiv måte,
+2. gjør det enkelt å spore holdte landdyr og forflytninger av dem innenfor og mellom medlemsstater, og innførselen av dem til Unionen,
+3. sikrer effektiv samvirkingsevne, integrasjon og kompatibilitet mellom de ulike delene av systemet,
+4. sikrer at systemet i den grad det er hensiktsmessig, er tilpasset
+
+   1. Unionens databaserte informasjonssystem for melding og rapportering i henhold til artikkel 22,
+   2. TRACES,
+5. sikrer en sammenhengende tilnærming til de ulike dyreartene som omfattes av systemet.
+
+5\. Medlemsstatene kan når det er hensiktsmessig,
+
+1. bruke hele eller deler av systemet i henhold til nr. 1 for andre formål enn formålene nevnt i nr. 4 bokstav a) og b),
+2. integrere identifikasjonsdokumenter, transportdokumenter og andre dokumenter nevnt i artikkel 110 med helsesertifikater eller egenerklæringsdokumentet i henhold til artikkel 143 nr. 1 og 2 og artikkel 151 nr. 1 og eventuelle regler vedtatt i henhold til artikkel 144 nr. 1 bokstav b) og c) og artikkel 151 nr. 3 og 4,
+3. utpeke en annen myndighet eller bemyndige et annet organ eller en fysisk person til å sikre den praktiske anvendelsen av identifikasjons- og registreringssystemet i henhold til nr. 1, herunder utstedelse av identifikasjonsdokumenter og utarbeiding av maler i henhold til artikkel 110 nr. 1 bokstav a), b) og c).
 
 ###### Artikkel 109
 
 Medlemsstatenes plikt til å opprette og vedlikeholde en database over holdte landdyr
 
-1\. Medlemsstatene skal opprette og vedlikeholde en database for registrering av minst følgende:Følgende opplysninger om holdt storfe:Individuell identifikasjon i henhold til artikkel 112 bokstav a).Anleggene der de holdes.Forflytninger av dem til og fra nevnte anlegg.Følgende opplysninger om holdte sauer og geiter:Opplysninger om identifikasjon i henhold til artikkel 113 nr. 1 bokstav a) og antall dyr i anlegget der de holdes.Anleggene der de holdes.Forflytninger av dem til og fra nevnte anlegg.Følgende opplysninger om holdt svin:Opplysninger om identifikasjon i henhold til artikkel 115 og antall dyr i anlegget der de holdes.Anleggene der de holdes.Forflytninger av dem til og fra nevnte anlegg.Følgende opplysninger om holdte hestedyr:Deres unike kode i henhold til artikkel 114.Identifikasjonsmetode i henhold til artikkel 114 nr. 1 bokstav b) som knytter det berørte dyret til identifikasjonsdokumentet nevnt i punkt iii), dersom det er relevant.Relevante identifikasjonsopplysninger fra identifikasjonsdokumentet i henhold til artikkel 114 nr. 1 bokstav c), som fastsatt i reglene vedtatt i henhold til artikkel 118 og 120.Anleggene der dyrene vanligvis holdes.Opplysninger om holdte landdyr av andre arter enn dem som er nevnt i bokstav a), b), c) og d), når dette er fastsatt i reglene vedtatt i henhold til nr. 2.
+1\. Medlemsstatene skal opprette og vedlikeholde en database for registrering av minst følgende:
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder registrering av opplysninger om andre dyrearter enn dem som er nevnt i nr. 1 bokstav a), b), c) og d), i databasen fastsatt i nevnte nummer, dersom det er nødvendig på grunn av særlige og vesentlige risikoer som disse artene utgjør, for åsikre at tiltakene for forebygging og bekjempelse av sykdom som fastsatt i denne forordningen, kan anvendes på en effektiv måte,gjøre det enkelt å spore holdte landdyr og forflytninger av dem mellom medlemsstater og innførselen av dem til Unionen.
+1. Følgende opplysninger om holdt storfe:
+
+   1. Individuell identifikasjon i henhold til artikkel 112 bokstav a).
+   2. Anleggene der de holdes.
+   3. Forflytninger av dem til og fra nevnte anlegg.
+2. Følgende opplysninger om holdte sauer og geiter:
+
+   1. Opplysninger om identifikasjon i henhold til artikkel 113 nr. 1 bokstav a) og antall dyr i anlegget der de holdes.
+   2. Anleggene der de holdes.
+   3. Forflytninger av dem til og fra nevnte anlegg.
+3. Følgende opplysninger om holdt svin:
+
+   1. Opplysninger om identifikasjon i henhold til artikkel 115 og antall dyr i anlegget der de holdes.
+   2. Anleggene der de holdes.
+   3. Forflytninger av dem til og fra nevnte anlegg.
+4. Følgende opplysninger om holdte hestedyr:
+
+   1. Deres unike kode i henhold til artikkel 114.
+   2. Identifikasjonsmetode i henhold til artikkel 114 nr. 1 bokstav b) som knytter det berørte dyret til identifikasjonsdokumentet nevnt i punkt iii), dersom det er relevant.
+   3. Relevante identifikasjonsopplysninger fra identifikasjonsdokumentet i henhold til artikkel 114 nr. 1 bokstav c), som fastsatt i reglene vedtatt i henhold til artikkel 118 og 120.
+   4. Anleggene der dyrene vanligvis holdes.
+5. Opplysninger om holdte landdyr av andre arter enn dem som er nevnt i bokstav a), b), c) og d), når dette er fastsatt i reglene vedtatt i henhold til nr. 2.
+
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder registrering av opplysninger om andre dyrearter enn dem som er nevnt i nr. 1 bokstav a), b), c) og d), i databasen fastsatt i nevnte nummer, dersom det er nødvendig på grunn av særlige og vesentlige risikoer som disse artene utgjør, for å
+
+1. sikre at tiltakene for forebygging og bekjempelse av sykdom som fastsatt i denne forordningen, kan anvendes på en effektiv måte,
+2. gjøre det enkelt å spore holdte landdyr og forflytninger av dem mellom medlemsstater og innførselen av dem til Unionen.
 
 ###### Artikkel 110
 
 Vedkommende myndighets plikt med hensyn til identifikasjonsdokumenter, transportdokumenter og andre dokumenter for identifikasjon og sporing av holdte landdyr
 
-1\. Den enkelte vedkommende myndighet skalutstede identifikasjonsdokumenter for holdte landdyr når slike dokumenter kreves i henhold til artikkel 114 nr. 1 bokstav c) og artikkel 117 bokstav b) samt regler vedtatt i henhold til artikkel 118 og 120,utstede identifikasjonsdokumenter for storfe i samsvar med artikkel 112 bokstav b), med mindre medlemsstatene utveksler elektroniske data med andre medlemsstater innenfor rammen av et elektronisk utvekslingssystem fra den datoen Kommisjonen har erklært systemet fullt funksjonsdyktig,utarbeide maler for transportdokumenter og andre dokumenter for identifikasjon og sporing av holdte landdyr når dette kreves i henhold til artikkel 113 nr. 1 bokstav b), artikkel 115 bokstav b), artikkel 117 bokstav b) og eventuelle regler vedtatt i henhold til artikkel 118 og 120.
+1\. Den enkelte vedkommende myndighet skal
+
+1. utstede identifikasjonsdokumenter for holdte landdyr når slike dokumenter kreves i henhold til artikkel 114 nr. 1 bokstav c) og artikkel 117 bokstav b) samt regler vedtatt i henhold til artikkel 118 og 120,
+2. utstede identifikasjonsdokumenter for storfe i samsvar med artikkel 112 bokstav b), med mindre medlemsstatene utveksler elektroniske data med andre medlemsstater innenfor rammen av et elektronisk utvekslingssystem fra den datoen Kommisjonen har erklært systemet fullt funksjonsdyktig,
+3. utarbeide maler for transportdokumenter og andre dokumenter for identifikasjon og sporing av holdte landdyr når dette kreves i henhold til artikkel 113 nr. 1 bokstav b), artikkel 115 bokstav b), artikkel 117 bokstav b) og eventuelle regler vedtatt i henhold til artikkel 118 og 120.
 
 2\. Nummer 1 bokstav b) berører ikke medlemsstatenes rett til å vedta nasjonale regler for utstedelse av pass for dyr som ikke er beregnet på forflytning mellom medlemsstatene.
 
@@ -2042,27 +3341,51 @@ Vedkommende myndighets plikt med hensyn til identifikasjonsdokumenter, transport
 
 Offentlig tilgang til opplysninger om identifikasjonsmerker
 
-Hver vedkommende myndighet skal informere Kommisjonen og gjøre offentlig tilgjengelig opplysninger omkontaktpunkter for de databasene som medlemsstatene har opprettet i samsvar med artikkel 109 nr. 1,hvilke myndigheter og organer som har ansvar for å utstede identifikasjonsdokumenter, transportdokumenter og andre dokumenter i samsvar med artikkel 110, idet det tas hensyn til artikkel 108 nr. 5 bokstav c),de identifikasjonsmerkene som skal brukes for hver art og kategori av holdte landdyr i samsvar med artikkel 112 bokstav a), artikkel 113 nr. 1 bokstav a), artikkel 114 nr. 1, artikkel 115 bokstav a), artikkel 117 bokstav a) og eventuelle regler vedtatt i henhold til artikkel 118 og 120,det foreskrevne formatet for utstedelse av identifikasjonsdokumenter og andre dokumenter nevnt i artikkel 110.
+Hver vedkommende myndighet skal informere Kommisjonen og gjøre offentlig tilgjengelig opplysninger om
+
+1. kontaktpunkter for de databasene som medlemsstatene har opprettet i samsvar med artikkel 109 nr. 1,
+2. hvilke myndigheter og organer som har ansvar for å utstede identifikasjonsdokumenter, transportdokumenter og andre dokumenter i samsvar med artikkel 110, idet det tas hensyn til artikkel 108 nr. 5 bokstav c),
+3. de identifikasjonsmerkene som skal brukes for hver art og kategori av holdte landdyr i samsvar med artikkel 112 bokstav a), artikkel 113 nr. 1 bokstav a), artikkel 114 nr. 1, artikkel 115 bokstav a), artikkel 117 bokstav a) og eventuelle regler vedtatt i henhold til artikkel 118 og 120,
+4. det foreskrevne formatet for utstedelse av identifikasjonsdokumenter og andre dokumenter nevnt i artikkel 110.
 
 ###### Artikkel 112
 
 Driftsansvarliges plikter med hensyn til identifikasjon av holdt storfe
 
-Driftsansvarlige som holder storfe, skalsørge for at de holdte dyrene er individuelt merket med et fysisk identifikasjonsmerke,sørge for at et identifikasjonsdokument er utstedt for de holdte dyrene av den vedkommende eller utpekte myndigheten eller det godkjente organet i opprinnelsesmedlemsstaten når dyrene flyttes mellom medlemsstater, med mindre vilkårene fastsatt i artikkel 110 nr. 1 bokstav b) er oppfylt,sikre at identifikasjonsdokumentetblir oppbevart, fylles ut korrekt og ajourføres av den berørte driftsansvarlige, ogledsager de holdte landdyrene på tidspunktet for forflytningen, når slikt dokument kreves i henhold til bokstav b),oversende opplysningene om forflytninger av de holdte dyrene til og fra det berørte anlegget samt opplysninger om alle dyr som fødes og dør i anlegget, til databasen fastsatt i artikkel 109 nr. 1.
+Driftsansvarlige som holder storfe, skal
+
+1. sørge for at de holdte dyrene er individuelt merket med et fysisk identifikasjonsmerke,
+2. sørge for at et identifikasjonsdokument er utstedt for de holdte dyrene av den vedkommende eller utpekte myndigheten eller det godkjente organet i opprinnelsesmedlemsstaten når dyrene flyttes mellom medlemsstater, med mindre vilkårene fastsatt i artikkel 110 nr. 1 bokstav b) er oppfylt,
+3. sikre at identifikasjonsdokumentet
+
+   1. blir oppbevart, fylles ut korrekt og ajourføres av den berørte driftsansvarlige, og
+   2. ledsager de holdte landdyrene på tidspunktet for forflytningen, når slikt dokument kreves i henhold til bokstav b),
+4. oversende opplysningene om forflytninger av de holdte dyrene til og fra det berørte anlegget samt opplysninger om alle dyr som fødes og dør i anlegget, til databasen fastsatt i artikkel 109 nr. 1.
 
 ###### Artikkel 113
 
 Driftsansvarliges plikter med hensyn til identifikasjon av holdte sauer og geiter
 
-1\. Driftsansvarlige som holder sauer og geiter, skalsørge for at de holdte dyrene er individuelt merket med et fysisk identifikasjonsmerke,sørge for at de holdte dyrene ledsages av et korrekt utfylt transportdokument på grunnlag av malen utarbeidet av vedkommende myndighet i samsvar med artikkel 110, når de flyttes fra anlegget der disse dyrene holdes i den berørte medlemsstaten,oversende opplysningene om forflytninger av de holdte dyrene til og fra anlegget, til databasen fastsatt i artikkel 109 nr. 1.
+1\. Driftsansvarlige som holder sauer og geiter, skal
 
-2\. Medlemsstatene kan frita driftsansvarlige fra kravet om å sørge for at holdte sauer og geiter ledsages av transportdokumenter under forflytninger innenfor deres territorium, forutsatt atopplysningene inntatt i det relevante transportdokumentet inngår i databasen fastsatt i artikkel 109 nr. 1,systemet for identifikasjon og registrering av holdte sauer og geiter sikrer et sporbarhetsnivå som tilsvarer det som oppnås med transportdokumenter.
+1. sørge for at de holdte dyrene er individuelt merket med et fysisk identifikasjonsmerke,
+2. sørge for at de holdte dyrene ledsages av et korrekt utfylt transportdokument på grunnlag av malen utarbeidet av vedkommende myndighet i samsvar med artikkel 110, når de flyttes fra anlegget der disse dyrene holdes i den berørte medlemsstaten,
+3. oversende opplysningene om forflytninger av de holdte dyrene til og fra anlegget, til databasen fastsatt i artikkel 109 nr. 1.
+
+2\. Medlemsstatene kan frita driftsansvarlige fra kravet om å sørge for at holdte sauer og geiter ledsages av transportdokumenter under forflytninger innenfor deres territorium, forutsatt at
+
+1. opplysningene inntatt i det relevante transportdokumentet inngår i databasen fastsatt i artikkel 109 nr. 1,
+2. systemet for identifikasjon og registrering av holdte sauer og geiter sikrer et sporbarhetsnivå som tilsvarer det som oppnås med transportdokumenter.
 
 ###### Artikkel 114
 
 Driftsansvarliges plikter med hensyn til identifikasjon og registrering av holdte hestedyr
 
-1\. Driftsansvarlige som holder hestedyr, skal sørge for at hvert enkelt dyr kan identifiseres veden unik kode som er registrert i databasen fastsatt i artikkel 109 nr. 1,et fysisk identifikasjonsmerke eller annen metode som entydig knytter det holdte dyret til identifikasjonsdokumentet i henhold til bokstav c), og er utstedt av vedkommende myndighet i samsvar med artikkel 110,ett enkelt, korrekt utfylt identifikasjonsdokument som er gyldig i hele dyrets levetid.
+1\. Driftsansvarlige som holder hestedyr, skal sørge for at hvert enkelt dyr kan identifiseres ved
+
+1. en unik kode som er registrert i databasen fastsatt i artikkel 109 nr. 1,
+2. et fysisk identifikasjonsmerke eller annen metode som entydig knytter det holdte dyret til identifikasjonsdokumentet i henhold til bokstav c), og er utstedt av vedkommende myndighet i samsvar med artikkel 110,
+3. ett enkelt, korrekt utfylt identifikasjonsdokument som er gyldig i hele dyrets levetid.
 
 2\. Driftsansvarlige som holder hestedyr, skal sørge for at opplysningene om disse dyrene oversendes til databasen i henhold til artikkel 109 nr. 1.
 
@@ -2070,27 +3393,56 @@ Driftsansvarliges plikter med hensyn til identifikasjon og registrering av holdt
 
 Driftsansvarliges plikter med hensyn til identifikasjon og registrering av holdt svin
 
-Driftsansvarlige som holder svin, skalsørge for at de holdte dyrene er individuelt merket med et fysisk identifikasjonsmerke,sørge for at de holdte dyrene ledsages av et korrekt utfylt transportdokument på grunnlag av malen utarbeidet av vedkommende myndighet i samsvar med artikkel 110 nr. 1 bokstav b), når de flyttes fra anlegget der disse dyrene holdes i den berørte medlemsstaten,oversende opplysningene om anlegget der disse dyrene holdes, til databasen i henhold til artikkel 109 nr. 1.
+Driftsansvarlige som holder svin, skal
+
+1. sørge for at de holdte dyrene er individuelt merket med et fysisk identifikasjonsmerke,
+2. sørge for at de holdte dyrene ledsages av et korrekt utfylt transportdokument på grunnlag av malen utarbeidet av vedkommende myndighet i samsvar med artikkel 110 nr. 1 bokstav b), når de flyttes fra anlegget der disse dyrene holdes i den berørte medlemsstaten,
+3. oversende opplysningene om anlegget der disse dyrene holdes, til databasen i henhold til artikkel 109 nr. 1.
 
 ###### Artikkel 116
 
 Unntak med hensyn til forflytninger av holdt svin
 
-Som unntak fra artikkel 115 bokstav b) kan medlemsstater unnta driftsansvarlige fra kravet om å sørge for at holdt svin ledsages av korrekt utfylte transportdokumenter på grunnlag av malen utarbeidet av vedkommende myndighet for forflytninger innenfor den berørte medlemsstaten, forutsatt atopplysningene inntatt i slike transportdokumenter inngår i databasen opprettet av nevnte medlemsstat i samsvar med artikkel 109 nr. 1,systemet for identifikasjon og registrering av holdte landdyr av arten svin gir et sporbarhetsnivå som tilsvarer det som oppnås med transportdokumenter.
+Som unntak fra artikkel 115 bokstav b) kan medlemsstater unnta driftsansvarlige fra kravet om å sørge for at holdt svin ledsages av korrekt utfylte transportdokumenter på grunnlag av malen utarbeidet av vedkommende myndighet for forflytninger innenfor den berørte medlemsstaten, forutsatt at
+
+1. opplysningene inntatt i slike transportdokumenter inngår i databasen opprettet av nevnte medlemsstat i samsvar med artikkel 109 nr. 1,
+2. systemet for identifikasjon og registrering av holdte landdyr av arten svin gir et sporbarhetsnivå som tilsvarer det som oppnås med transportdokumenter.
 
 ###### Artikkel 117
 
 Driftsansvarliges plikt med hensyn til identifikasjon av andre holdte landdyr enn storfe, sauer, geiter, svin og hestedyr
 
-Driftsansvarlige skal sørge for at andre holdte landdyr enn storfe, sauer, geiter, svin og hestedyr oppfyller følgende krav, dersom dette kreves i henhold til reglene vedtatt i henhold til artikkel 118 og 120:De kan identifiseres, enten individuelt eller i grupper.De ledsages av korrekt utfylte og oppdaterte identifikasjonsdokumenter, transportdokumenter eller andre dokumenter for identifikasjon og sporing av dyr, alt etter hva som er hensiktsmessig for den berørte dyrearten.
+Driftsansvarlige skal sørge for at andre holdte landdyr enn storfe, sauer, geiter, svin og hestedyr oppfyller følgende krav, dersom dette kreves i henhold til reglene vedtatt i henhold til artikkel 118 og 120:
+
+1. De kan identifiseres, enten individuelt eller i grupper.
+2. De ledsages av korrekt utfylte og oppdaterte identifikasjonsdokumenter, transportdokumenter eller andre dokumenter for identifikasjon og sporing av dyr, alt etter hva som er hensiktsmessig for den berørte dyrearten.
 
 ###### Artikkel 118
 
 Delegering av myndighet når det gjelder identifikasjon og registrering
 
-1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderdetaljerte krav til identifikasjonsmerker og -metoder for holdte landdyr i henhold til artikkel 112 bokstav a), artikkel 113 nr. 1 bokstav a), artikkel 114 nr. 1, artikkel 115 bokstav a) og artikkel 117 bokstav a), herunder deres påsetting og bruk,regler for opplysninger som skal registreres idatabasene fastsatt i artikkel 109 nr. 1 bokstav a)–d),identifikasjons- og transportdokumentene fastsatt i artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c) og artikkel 115 bokstav b),regler for elektronisk datautveksling mellom medlemsstatenes databaser som nevnt i artikkel 110 nr. 1 bokstav b).
+1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 omdetaljerte krav til andre identifikasjonsmerker og -metoder enn dem som er nevnt i nr. 1 bokstav a), samt unntak og særlige bestemmelser om visse kategorier av dyr eller omstendigheter og vilkår for slike unntak,særlige bestemmelser om identifikasjons- eller transportdokumenter som fastsatt i artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 115 bokstav b) og artikkel 117 bokstav b), som skal ledsage dyr når de flyttes,detaljerte krav til identifikasjon og registrering av andre holdte landdyr enn storfe, sauer, geiter, svin og hestedyr, idet det tas hensyn til risikoene de berørte artene utgjør, for åsikre at tiltakene for forebygging og bekjempelse av sykdom som fastsatt i denne forordningen, kan anvendes på en effektiv måte,gjøre det enkelt å spore holdte landdyr og forflytninger av dem innenfor og mellom medlemsstater og innførselen av dem til Unionen,regler for opplysninger som skal registreres idatabasene fastsatt i artikkel 109 nr. 1 bokstav e),identifikasjons- og transportdokumentene fastsatt i artikkel 117 bokstav b),regler for identifikasjon og registrering av holdte landdyr som nevnt i artikkel 112–117, etter at de er innført til Unionen.
+1. detaljerte krav til identifikasjonsmerker og -metoder for holdte landdyr i henhold til artikkel 112 bokstav a), artikkel 113 nr. 1 bokstav a), artikkel 114 nr. 1, artikkel 115 bokstav a) og artikkel 117 bokstav a), herunder deres påsetting og bruk,
+2. regler for opplysninger som skal registreres i
+
+   1. databasene fastsatt i artikkel 109 nr. 1 bokstav a)–d),
+   2. identifikasjons- og transportdokumentene fastsatt i artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c) og artikkel 115 bokstav b),
+3. regler for elektronisk datautveksling mellom medlemsstatenes databaser som nevnt i artikkel 110 nr. 1 bokstav b).
+
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 om
+
+1. detaljerte krav til andre identifikasjonsmerker og -metoder enn dem som er nevnt i nr. 1 bokstav a), samt unntak og særlige bestemmelser om visse kategorier av dyr eller omstendigheter og vilkår for slike unntak,
+2. særlige bestemmelser om identifikasjons- eller transportdokumenter som fastsatt i artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 115 bokstav b) og artikkel 117 bokstav b), som skal ledsage dyr når de flyttes,
+3. detaljerte krav til identifikasjon og registrering av andre holdte landdyr enn storfe, sauer, geiter, svin og hestedyr, idet det tas hensyn til risikoene de berørte artene utgjør, for å
+
+   1. sikre at tiltakene for forebygging og bekjempelse av sykdom som fastsatt i denne forordningen, kan anvendes på en effektiv måte,
+   2. gjøre det enkelt å spore holdte landdyr og forflytninger av dem innenfor og mellom medlemsstater og innførselen av dem til Unionen,
+4. regler for opplysninger som skal registreres i
+
+   1. databasene fastsatt i artikkel 109 nr. 1 bokstav e),
+   2. identifikasjons- og transportdokumentene fastsatt i artikkel 117 bokstav b),
+5. regler for identifikasjon og registrering av holdte landdyr som nevnt i artikkel 112–117, etter at de er innført til Unionen.
 
 3\. Når Kommisjonen utarbeider de reglene som skal fastsettes i delegerte rettsakter i henhold til denne artikkelen, skal vurderingene fastsatt i artikkel 119 nr. 2 tas i betraktning.
 
@@ -2098,17 +3450,46 @@ Delegering av myndighet når det gjelder identifikasjon og registrering
 
 Delegering av myndighet når det gjelder unntak fra sporbarhetskravene
 
-1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder unntak for driftsansvarlige fra identifikasjons- og registreringskravene fastsatt i artikkel 112, 113, 114 og 115,i tilfeller der ett eller flere av elementene angitt i artikkel 108 nr. 3 ikke er nødvendige for å oppfylle kravene fastsatt i artikkel 108 nr. 4 bokstav a) og b), ognår andre sporbarhetstiltak som er innført i medlemsstaten, sikrer at sporbarhetsnivået for de berørte dyrene ikke svekkes,samt de overgangstiltakene som kreves for den praktiske anvendelsen av slike unntak.
+1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder unntak for driftsansvarlige fra identifikasjons- og registreringskravene fastsatt i artikkel 112, 113, 114 og 115,
 
-2\. Når Kommisjonen utarbeider de reglene som skal fastsettes i de delegerte rettsaktene i henhold til nr. 1, skal følgende vurderinger tas i betraktning:Artene og kategoriene av berørte holdte landdyr.Risikoene for de holdte landdyrene.Antallet dyr i berørte anlegg.Typen produksjon i anlegg der slike landdyr holdes.Forflytningsmønstre for de berørte artene og kategoriene av holdte landdyr.Vurderinger med hensyn til vern og bevaring av arter av de berørte holdte landdyrene.Effektiviteten av øvrige sporbarhetselementer i systemet for identifikasjon og registrering av holdte landdyr som nevnt i artikkel 108 nr. 3.
+1. i tilfeller der ett eller flere av elementene angitt i artikkel 108 nr. 3 ikke er nødvendige for å oppfylle kravene fastsatt i artikkel 108 nr. 4 bokstav a) og b), og
+2. når andre sporbarhetstiltak som er innført i medlemsstaten, sikrer at sporbarhetsnivået for de berørte dyrene ikke svekkes,
+
+samt de overgangstiltakene som kreves for den praktiske anvendelsen av slike unntak.
+
+2\. Når Kommisjonen utarbeider de reglene som skal fastsettes i de delegerte rettsaktene i henhold til nr. 1, skal følgende vurderinger tas i betraktning:
+
+1. Artene og kategoriene av berørte holdte landdyr.
+2. Risikoene for de holdte landdyrene.
+3. Antallet dyr i berørte anlegg.
+4. Typen produksjon i anlegg der slike landdyr holdes.
+5. Forflytningsmønstre for de berørte artene og kategoriene av holdte landdyr.
+6. Vurderinger med hensyn til vern og bevaring av arter av de berørte holdte landdyrene.
+7. Effektiviteten av øvrige sporbarhetselementer i systemet for identifikasjon og registrering av holdte landdyr som nevnt i artikkel 108 nr. 3.
 
 ###### Artikkel 120
 
 Gjennomføringsmyndighet med hensyn til sporbarhet for holdte landdyr
 
-1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta reglerfor ensartet tilgang til data registrert i databasene, og tekniske spesifikasjoner og praktiske regler for databasene nevnt i artikkel 109 nr. 1 bokstav a)–d),om tekniske forhold og spesifikasjoner for elektronisk datautveksling mellom databaser i medlemsstatene og anerkjennelse av at datautvekslingssystemene er fullt funksjonsdyktige som nevnt i artikkel 110 nr. 1 bokstav b).
+1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta regler
 
-2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter vedta reglerfor ensartet bruk av identifikasjons- og registreringssystemet i henhold til artikkel 108 nr. 1 for ulike arter eller kategorier av holdte landdyr for å sikre at systemet fungerer effektivt,for ensartet anvendelse av artikkel 108 nr. 5 bokstav c) om godkjente organer eller fysiske personer nevnt i artikkel 108 nr. 5 og vilkårene for utpeking av disse,om tekniske spesifikasjoner og framgangsmåter, formater, utforming og praktiske regler for identifikasjonsmerker og -metoder, herunderfrister for bruk av identifikasjonsmerker og -metoder,fjerning, endring eller utskifting av identifikasjonsmerker og -metoder og frister for dette, ogoppbyggingen av identifikasjonskoden,om tekniske spesifikasjoner, formater og praktiske regler for identifikasjons- og transportdokumentene i henhold til artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 115 bokstav b) og artikkel 117 bokstav b),for ensartet tilgang til data registrert i databasene, og tekniske spesifikasjoner og praktiske regler for databasene nevnt i artikkel 109 nr. 1 bokstav e),om frister, plikter og prosedyrer for oversending av opplysninger fra driftsansvarlige eller andre fysiske eller juridiske personer og for registrering av holdte landdyr i databasene,om veiledninger og framgangsmåter for elektronisk identifikasjon av dyr, dersom det er relevant,om den praktiske anvendelsen av unntak fra kravene om identifikasjon og registrering fastsatt i reglene vedtatt i henhold til artikkel 119 nr. 1.
+1. for ensartet tilgang til data registrert i databasene, og tekniske spesifikasjoner og praktiske regler for databasene nevnt i artikkel 109 nr. 1 bokstav a)–d),
+2. om tekniske forhold og spesifikasjoner for elektronisk datautveksling mellom databaser i medlemsstatene og anerkjennelse av at datautvekslingssystemene er fullt funksjonsdyktige som nevnt i artikkel 110 nr. 1 bokstav b).
+
+2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter vedta regler
+
+1. for ensartet bruk av identifikasjons- og registreringssystemet i henhold til artikkel 108 nr. 1 for ulike arter eller kategorier av holdte landdyr for å sikre at systemet fungerer effektivt,
+2. for ensartet anvendelse av artikkel 108 nr. 5 bokstav c) om godkjente organer eller fysiske personer nevnt i artikkel 108 nr. 5 og vilkårene for utpeking av disse,
+3. om tekniske spesifikasjoner og framgangsmåter, formater, utforming og praktiske regler for identifikasjonsmerker og -metoder, herunder
+
+   1. frister for bruk av identifikasjonsmerker og -metoder,
+   2. fjerning, endring eller utskifting av identifikasjonsmerker og -metoder og frister for dette, og
+   3. oppbyggingen av identifikasjonskoden,
+4. om tekniske spesifikasjoner, formater og praktiske regler for identifikasjons- og transportdokumentene i henhold til artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 115 bokstav b) og artikkel 117 bokstav b),
+5. for ensartet tilgang til data registrert i databasene, og tekniske spesifikasjoner og praktiske regler for databasene nevnt i artikkel 109 nr. 1 bokstav e),
+6. om frister, plikter og prosedyrer for oversending av opplysninger fra driftsansvarlige eller andre fysiske eller juridiske personer og for registrering av holdte landdyr i databasene,
+7. om veiledninger og framgangsmåter for elektronisk identifikasjon av dyr, dersom det er relevant,
+8. om den praktiske anvendelsen av unntak fra kravene om identifikasjon og registrering fastsatt i reglene vedtatt i henhold til artikkel 119 nr. 1.
 
 3\. Gjennomføringsrettsaktene nevnt i denne artikkelen skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -2120,9 +3501,16 @@ Avlsmateriale
 
 Sporbarhetskrav til avlsmateriale av holdt storfe og holdte sauer, geiter, svin og hestedyr
 
-1\. Driftsansvarlige som produserer, bearbeider eller oppbevarer avlsmateriale, skal merke avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr på en slik måte at det klart kan spores tildonordyrene,uttaksdatoen oganleggene for avlsmateriale der det ble tatt ut, produsert, bearbeidet og oppbevart.
+1\. Driftsansvarlige som produserer, bearbeider eller oppbevarer avlsmateriale, skal merke avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr på en slik måte at det klart kan spores til
 
-2\. Merkingen angitt i nr. 1 skal være utformet slik at den sikrerat tiltakene for forebygging og bekjempelse av sykdom som fastsatt i denne forordningen, kan anvendes på en effektiv måte,sporbarheten for avlsmaterialet og forflytninger av det innenfor og mellom medlemsstatene samt innførselen av det til Unionen.
+1. donordyrene,
+2. uttaksdatoen og
+3. anleggene for avlsmateriale der det ble tatt ut, produsert, bearbeidet og oppbevart.
+
+2\. Merkingen angitt i nr. 1 skal være utformet slik at den sikrer
+
+1. at tiltakene for forebygging og bekjempelse av sykdom som fastsatt i denne forordningen, kan anvendes på en effektiv måte,
+2. sporbarheten for avlsmaterialet og forflytninger av det innenfor og mellom medlemsstatene samt innførselen av det til Unionen.
 
 ###### Artikkel 122
 
@@ -2130,15 +3518,30 @@ Delegering av myndighet når det gjelder sporbarhetskrav til avlsmateriale
 
 1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder sporbarhetskrav til avlsmateriale fra holdte landdyr av arten storfe, geit, sau, svin og hestedyr som utfyller reglene fastsatt i artikkel 121.
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder sporbarhetskrav til avlsmateriale fra andre holdte landdyr enn storfe, geiter, sauer, svin og hestedyr, dersom det er nødvendig forat tiltakene for forebygging og bekjempelse av sykdom som fastsatt i denne forordningen, kan anvendes på en effektiv måte,sporbarheten for nevnte avlsmateriale og forflytninger av det innenfor og mellom medlemsstatene samt innførsel av det til Unionen.
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder sporbarhetskrav til avlsmateriale fra andre holdte landdyr enn storfe, geiter, sauer, svin og hestedyr, dersom det er nødvendig for
 
-3\. Når Kommisjonen vedtar de delegerte rettsaktene fastsatt i nr. 1, skal følgende forhold tas i betraktning:Hvilke arter av holdte landdyr avlsmaterialet stammer fra.Donordyrenes helsestatus.Risikoen som er forbundet med slikt avlsmateriale.Typen avlsmateriale.Typen uttak, produksjon, bearbeiding eller oppbevaring av avlsmateriale.Forflytningsmønstre for de berørte artene og kategoriene av holdte landdyr og deres avlsmateriale.Vurderinger med hensyn til vern og bevaring av arter av holdte landdyr.Andre elementer som kan bidra til sporbarhet for avlsmateriale.
+1. at tiltakene for forebygging og bekjempelse av sykdom som fastsatt i denne forordningen, kan anvendes på en effektiv måte,
+2. sporbarheten for nevnte avlsmateriale og forflytninger av det innenfor og mellom medlemsstatene samt innførsel av det til Unionen.
+
+3\. Når Kommisjonen vedtar de delegerte rettsaktene fastsatt i nr. 1, skal følgende forhold tas i betraktning:
+
+1. Hvilke arter av holdte landdyr avlsmaterialet stammer fra.
+2. Donordyrenes helsestatus.
+3. Risikoen som er forbundet med slikt avlsmateriale.
+4. Typen avlsmateriale.
+5. Typen uttak, produksjon, bearbeiding eller oppbevaring av avlsmateriale.
+6. Forflytningsmønstre for de berørte artene og kategoriene av holdte landdyr og deres avlsmateriale.
+7. Vurderinger med hensyn til vern og bevaring av arter av holdte landdyr.
+8. Andre elementer som kan bidra til sporbarhet for avlsmateriale.
 
 ###### Artikkel 123
 
 Gjennomføringsmyndighet med hensyn til sporbarhetskrav til avlsmateriale
 
-Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler forde tekniske kravene og spesifikasjonene for merking i henhold til artikkel 121 nr. 1,de praktiske kravene til sporbarhet i henhold til delegerte rettsakter vedtatt i henhold til artikkel 122 nr. 1.
+Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for
+
+1. de tekniske kravene og spesifikasjonene for merking i henhold til artikkel 121 nr. 1,
+2. de praktiske kravene til sporbarhet i henhold til delegerte rettsakter vedtatt i henhold til artikkel 122 nr. 1.
 
 Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -2154,17 +3557,34 @@ Generelle krav til forflytninger
 
 Generelle krav til forflytninger av holdte landdyr
 
-1\. Driftsansvarlige skal treffe hensiktsmessige forebyggende tiltak for å sikre at forflytningen av holdte landdyr ikke setter helsestatusen i fare på bestemmelsesstedet, med hensyn til følgende:De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d).Nye sykdommer.
+1\. Driftsansvarlige skal treffe hensiktsmessige forebyggende tiltak for å sikre at forflytningen av holdte landdyr ikke setter helsestatusen i fare på bestemmelsesstedet, med hensyn til følgende:
 
-2\. Driftsansvarlige skal bare flytte holdte landdyr fra sine anlegg og ta imot slike dyr dersom de berørte dyrene oppfyller følgende vilkår:De kommer fra anlegg som er blittregistrert av vedkommende myndighet i samsvar med artikkel 93, ellergodkjent av vedkommende myndighet i samsvar med artikkel 97 nr. 1 og artikkel 98, dersom dette kreves i henhold til artikkel 94 nr. 1 eller artikkel 95, ellerer gitt unntak fra registreringskravet fastsatt i artikkel 84.De oppfyller identifikasjons- og registreringskravene fastsatt i artikkel 112, 113, 114, 115 og 117 og reglene vedtatt i henhold til artikkel 118 og 120.
+1. De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d).
+2. Nye sykdommer.
+
+2\. Driftsansvarlige skal bare flytte holdte landdyr fra sine anlegg og ta imot slike dyr dersom de berørte dyrene oppfyller følgende vilkår:
+
+1. De kommer fra anlegg som er blitt
+
+   1. registrert av vedkommende myndighet i samsvar med artikkel 93, eller
+   2. godkjent av vedkommende myndighet i samsvar med artikkel 97 nr. 1 og artikkel 98, dersom dette kreves i henhold til artikkel 94 nr. 1 eller artikkel 95, eller
+   3. er gitt unntak fra registreringskravet fastsatt i artikkel 84.
+2. De oppfyller identifikasjons- og registreringskravene fastsatt i artikkel 112, 113, 114, 115 og 117 og reglene vedtatt i henhold til artikkel 118 og 120.
 
 ###### Artikkel 125
 
 Sykdomsforebyggende tiltak i forbindelse med transport
 
-1\. Driftsansvarlige skal treffe hensiktsmessige og nødvendige forebyggende tiltak for å sikre atde holdte landdyrenes helsestatus ikke svekkes under transport,transporten av holdte landdyr ikke medfører mulig spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til mennesker og dyr,utstyr og transportmidler rengjøres og desinfiseres og insekter og gnagere bekjempes, samt at andre hensiktsmessige biosikkerhetstiltak treffes med hensyn til risikoene forbundet med transporten.
+1\. Driftsansvarlige skal treffe hensiktsmessige og nødvendige forebyggende tiltak for å sikre at
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjeldervilkårene for og kravene til rengjøring og desinfisering og bekjempelse av insekter og gnagere med hensyn til utstyr og transportmidler og bruk av biocidprodukter til disse formålene,andre hensiktsmessige biosikkerhetstiltak i henhold til nr. 1 bokstav c).
+1. de holdte landdyrenes helsestatus ikke svekkes under transport,
+2. transporten av holdte landdyr ikke medfører mulig spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til mennesker og dyr,
+3. utstyr og transportmidler rengjøres og desinfiseres og insekter og gnagere bekjempes, samt at andre hensiktsmessige biosikkerhetstiltak treffes med hensyn til risikoene forbundet med transporten.
+
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. vilkårene for og kravene til rengjøring og desinfisering og bekjempelse av insekter og gnagere med hensyn til utstyr og transportmidler og bruk av biocidprodukter til disse formålene,
+2. andre hensiktsmessige biosikkerhetstiltak i henhold til nr. 1 bokstav c).
 
 ###### Avsnitt 2
 
@@ -2174,7 +3594,21 @@ Forflytninger mellom medlemsstatene
 
 Generelle krav til forflytninger av holdte landdyr mellom medlemsstatene
 
-1\. Driftsansvarlige skal bare flytte holdte landdyr til en annen medlemsstat dersom de berørte dyrene oppfyller følgende vilkår:De har ingen symptomer på sykdom.De kommer fra et registrert eller godkjent anleggder det ikke forekommer noen unormal dødelighet av ubestemt årsak,som ikke omfattes av forflytningsrestriksjoner som berører de artene som skal flyttes i samsvar med reglene fastsatt i artikkel 55 nr. 1, artikkel 61 nr. 1 bokstav a), artikkel 62, artikkel 65 nr. 1 bokstav c), artikkel 74 nr. 1 og artikkel 79 samt reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 71 nr. 3, artikkel 74 nr. 4, og artikkel 83 nr. 2 eller nødtiltakene fastsatt i artikkel 257 og 258 og eventuelle regler vedtatt i henhold til artikkel 259, med mindre det er gitt unntak fra forflytningsrestriksjonene i samsvar med nevnte regler,som ikke ligger i en restriksjonssone i samsvar med reglene fastsatt i artikkel 55 nr. 1 bokstav f) ii), artikkel 64 og 65, artikkel 74 nr. 1, artikkel 79 og eventuelle regler vedtatt i henhold til artikkel 67, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2 eller nødtiltakene fastsatt i artikkel 257 og 258 og eventuelle regler vedtatt i henhold til artikkel 259, med mindre det er gitt unntak i samsvar med nevnte regler.De har i et tilstrekkelig langt tidsrom før den planlagte forflytningen til en annen medlemsstat ikke vært i kontakt med holdte landdyr som er omfattet av forflytningsrestriksjonene nevnt i bokstav b) ii) og iii), eller holdte landdyr som tilhører en listeført art med dårligere helsestatus, noe som reduserer sannsynligheten for å spre sykdom, samtidig som det tas hensyn til følgende forhold:Inkubasjonstiden og smitteveiene for de aktuelle listeførte sykdommene og nye sykdommene.Den berørte typen anlegg.Artene og kategoriene av de holdte landdyrene som flyttes.Andre epidemiologiske faktorer.De oppfyller de relevante kravene fastsatt i avsnitt 3–8 (artikkel 130–154).
+1\. Driftsansvarlige skal bare flytte holdte landdyr til en annen medlemsstat dersom de berørte dyrene oppfyller følgende vilkår:
+
+1. De har ingen symptomer på sykdom.
+2. De kommer fra et registrert eller godkjent anlegg
+
+   1. der det ikke forekommer noen unormal dødelighet av ubestemt årsak,
+   2. som ikke omfattes av forflytningsrestriksjoner som berører de artene som skal flyttes i samsvar med reglene fastsatt i artikkel 55 nr. 1, artikkel 61 nr. 1 bokstav a), artikkel 62, artikkel 65 nr. 1 bokstav c), artikkel 74 nr. 1 og artikkel 79 samt reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 71 nr. 3, artikkel 74 nr. 4, og artikkel 83 nr. 2 eller nødtiltakene fastsatt i artikkel 257 og 258 og eventuelle regler vedtatt i henhold til artikkel 259, med mindre det er gitt unntak fra forflytningsrestriksjonene i samsvar med nevnte regler,
+   3. som ikke ligger i en restriksjonssone i samsvar med reglene fastsatt i artikkel 55 nr. 1 bokstav f) ii), artikkel 64 og 65, artikkel 74 nr. 1, artikkel 79 og eventuelle regler vedtatt i henhold til artikkel 67, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2 eller nødtiltakene fastsatt i artikkel 257 og 258 og eventuelle regler vedtatt i henhold til artikkel 259, med mindre det er gitt unntak i samsvar med nevnte regler.
+3. De har i et tilstrekkelig langt tidsrom før den planlagte forflytningen til en annen medlemsstat ikke vært i kontakt med holdte landdyr som er omfattet av forflytningsrestriksjonene nevnt i bokstav b) ii) og iii), eller holdte landdyr som tilhører en listeført art med dårligere helsestatus, noe som reduserer sannsynligheten for å spre sykdom, samtidig som det tas hensyn til følgende forhold:
+
+   1. Inkubasjonstiden og smitteveiene for de aktuelle listeførte sykdommene og nye sykdommene.
+   2. Den berørte typen anlegg.
+   3. Artene og kategoriene av de holdte landdyrene som flyttes.
+   4. Andre epidemiologiske faktorer.
+4. De oppfyller de relevante kravene fastsatt i avsnitt 3–8 (artikkel 130–154).
 
 2\. Driftsansvarlige skal treffe alle nødvendige tiltak for å sikre at holdte landdyr som flyttes til en annen medlemsstat, sendes direkte til bestemmelsesstedet i den andre medlemsstaten, med mindre de av hensyn til dyrenes velferd er nødt til å stanse et sted for å hvile.
 
@@ -2182,7 +3616,18 @@ Generelle krav til forflytninger av holdte landdyr mellom medlemsstatene
 
 Plikter for driftsansvarlige på bestemmelsesstedet
 
-1\. Driftsansvarlige for anlegg og slakterier som mottar holdte landdyr fra en annen medlemsstat, skalkontrollere atidentifikasjonsmerkene eller -metodene fastsatt i artikkel 112 bokstav a), artikkel 113 nr. 1 bokstav a), artikkel 114 nr. 1 bokstav a) og b), artikkel 115 bokstav a) og artikkel 117 bokstav a) samt reglene vedtatt i henhold til artikkel 118 og 120 benyttes,identifikasjonsdokumentene fastsatt i artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 117 bokstav b) og reglene vedtatt i henhold til artikkel 118 og 120 foreligger og er korrekt utfylt,kontrollere at helsesertifikatene fastsatt i artikkel 143 og eventuelle regler vedtatt i henhold til artikkel 144 nr. 1 bokstav b) og c) eller egenerklæringsdokumenter i henhold til artikkel 151 og reglene vedtatt i henhold til artikkel 151 nr. 3 og 4 foreligger,etter å ha kontrollert de mottatte holdte landdyrene, informere vedkommende myndighet på bestemmelsesstedet om eventuelle uregelmessigheter med hensyn tilde holdte landdyrene som er mottatt,identifikasjonsmerkene eller -metodene nevnt i bokstav a) i),dokumentene nevnt i bokstav a) ii) og bokstav b).
+1\. Driftsansvarlige for anlegg og slakterier som mottar holdte landdyr fra en annen medlemsstat, skal
+
+1. kontrollere at
+
+   1. identifikasjonsmerkene eller -metodene fastsatt i artikkel 112 bokstav a), artikkel 113 nr. 1 bokstav a), artikkel 114 nr. 1 bokstav a) og b), artikkel 115 bokstav a) og artikkel 117 bokstav a) samt reglene vedtatt i henhold til artikkel 118 og 120 benyttes,
+   2. identifikasjonsdokumentene fastsatt i artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 117 bokstav b) og reglene vedtatt i henhold til artikkel 118 og 120 foreligger og er korrekt utfylt,
+2. kontrollere at helsesertifikatene fastsatt i artikkel 143 og eventuelle regler vedtatt i henhold til artikkel 144 nr. 1 bokstav b) og c) eller egenerklæringsdokumenter i henhold til artikkel 151 og reglene vedtatt i henhold til artikkel 151 nr. 3 og 4 foreligger,
+3. etter å ha kontrollert de mottatte holdte landdyrene, informere vedkommende myndighet på bestemmelsesstedet om eventuelle uregelmessigheter med hensyn til
+
+   1. de holdte landdyrene som er mottatt,
+   2. identifikasjonsmerkene eller -metodene nevnt i bokstav a) i),
+   3. dokumentene nevnt i bokstav a) ii) og bokstav b).
 
 2\. Ved et avvik som nevnt i nr. 1 bokstav c) skal den driftsansvarlige isolere de dyrene som er berørt av avviket inntil vedkommende myndighet på bestemmelsesstedet har truffet en beslutning med hensyn til dyrene.
 
@@ -2206,15 +3651,37 @@ Særlige krav til forflytninger av hov- og klovdyr og fjørfe til andre medlemss
 
 Forflytninger av holdte hov- og klovdyr og fjørfe til andre medlemsstater
 
-Driftsansvarlige skal bare flytte holdte hov- og klovdyr og fjørfe fra et anlegg i én medlemsstat til en annen medlemsstat dersom de berørte dyrene oppfyller følgende vilkår med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d):De har ingen kliniske symptomer eller tegn på listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d) på tidspunktet for forflytningen.De har gjennomgått en oppholdsperiode som er hensiktsmessig for disse listeførte sykdommene, tatt i betraktning de artene og kategoriene av holdte hov- og klovdyr og fjørfe som skal flyttes.I et tidsrom som er hensiktsmessig for disse listeførte sykdommene og artene og kategoriene av hov- og klovdyr eller fjørfe som skal flyttes, er det ikke ført holdte hov- og klovdyr eller fjørfe inn på opprinnelsesanlegget, der dette er et krav i henhold til reglene vedtatt i samsvar med artikkel 131 eller 135.De antas ikke å utgjøre en vesentlig risiko for spredning av nevnte listeførte sykdommer på bestemmelsesstedet, på grunnlag avhelsestatus med hensyn til sykdommer som er relevante for de artene eller kategoriene av holdte hov- og klovdyr og fjørfe som flyttes, idet det tas hensyn til helsestatus på bestemmelsesstedet,resultatet av laboratorieundersøkelser eller andre undersøkelser som kreves for å gi garantier om den helsestatusen som kreves for den aktuelle forflytningen,anvendelsen av vaksinasjon eller andre sykdomsforebyggende eller risikoreduserende tiltak som har som mål å begrense spredningen av den relevante sykdommen til bestemmelsesstedet eller områder som dyrene passerer gjennom.
+Driftsansvarlige skal bare flytte holdte hov- og klovdyr og fjørfe fra et anlegg i én medlemsstat til en annen medlemsstat dersom de berørte dyrene oppfyller følgende vilkår med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d):
+
+1. De har ingen kliniske symptomer eller tegn på listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d) på tidspunktet for forflytningen.
+2. De har gjennomgått en oppholdsperiode som er hensiktsmessig for disse listeførte sykdommene, tatt i betraktning de artene og kategoriene av holdte hov- og klovdyr og fjørfe som skal flyttes.
+3. I et tidsrom som er hensiktsmessig for disse listeførte sykdommene og artene og kategoriene av hov- og klovdyr eller fjørfe som skal flyttes, er det ikke ført holdte hov- og klovdyr eller fjørfe inn på opprinnelsesanlegget, der dette er et krav i henhold til reglene vedtatt i samsvar med artikkel 131 eller 135.
+4. De antas ikke å utgjøre en vesentlig risiko for spredning av nevnte listeførte sykdommer på bestemmelsesstedet, på grunnlag av
+
+   1. helsestatus med hensyn til sykdommer som er relevante for de artene eller kategoriene av holdte hov- og klovdyr og fjørfe som flyttes, idet det tas hensyn til helsestatus på bestemmelsesstedet,
+   2. resultatet av laboratorieundersøkelser eller andre undersøkelser som kreves for å gi garantier om den helsestatusen som kreves for den aktuelle forflytningen,
+   3. anvendelsen av vaksinasjon eller andre sykdomsforebyggende eller risikoreduserende tiltak som har som mål å begrense spredningen av den relevante sykdommen til bestemmelsesstedet eller områder som dyrene passerer gjennom.
 
 ###### Artikkel 131
 
 Delegering av myndighet når det gjelder forflytning av holdte hov- og klovdyr og fjørfe til andre medlemsstater
 
-1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderoppholdsperioder som nevnt i artikkel 130 bokstav b),det tidsrommet som er nødvendig for å begrense innførselen av holdte hov- og klovdyr eller fjørfe til anlegg før forflytning som fastsatt i artikkel 130 bokstav c),tilleggskrav for å sikre at holdte hov- og klovdyr og fjørfe ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), som fastsatt i artikkel 130 bokstav d),andre nødvendige risikoreduserende tiltak som utfyller kravene fastsatt i artikkel 130.
+1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
 
-2\. Når Kommisjonen utarbeider de reglene som skal fastsettes i de delegerte rettsaktene i henhold til nr. 1, skal følgende vurderinger tas i betraktning:De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) som er relevante for de listeførte artene eller kategorien av holdte hov- og klovdyr eller fjørfe som skal flyttes.Helsestatus for de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) i opprinnelses- og bestemmelsesanleggene, -segmentene, -sonene og -medlemsstatene.Den berørte anleggstypen og produksjonstypen på opprinnelses- og bestemmelsesstedet.Den gjeldende typen forflytning.Artene og kategoriene av holdte hov- og klovdyr eller fjørfe som skal flyttes.Alderen på de holdte hov- og klovdyrene eller fjørfeet som skal flyttes.Andre epidemiologiske faktorer.
+1. oppholdsperioder som nevnt i artikkel 130 bokstav b),
+2. det tidsrommet som er nødvendig for å begrense innførselen av holdte hov- og klovdyr eller fjørfe til anlegg før forflytning som fastsatt i artikkel 130 bokstav c),
+3. tilleggskrav for å sikre at holdte hov- og klovdyr og fjørfe ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), som fastsatt i artikkel 130 bokstav d),
+4. andre nødvendige risikoreduserende tiltak som utfyller kravene fastsatt i artikkel 130.
+
+2\. Når Kommisjonen utarbeider de reglene som skal fastsettes i de delegerte rettsaktene i henhold til nr. 1, skal følgende vurderinger tas i betraktning:
+
+1. De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) som er relevante for de listeførte artene eller kategorien av holdte hov- og klovdyr eller fjørfe som skal flyttes.
+2. Helsestatus for de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) i opprinnelses- og bestemmelsesanleggene, -segmentene, -sonene og -medlemsstatene.
+3. Den berørte anleggstypen og produksjonstypen på opprinnelses- og bestemmelsesstedet.
+4. Den gjeldende typen forflytning.
+5. Artene og kategoriene av holdte hov- og klovdyr eller fjørfe som skal flyttes.
+6. Alderen på de holdte hov- og klovdyrene eller fjørfeet som skal flyttes.
+7. Andre epidemiologiske faktorer.
 
 ###### Artikkel 132
 
@@ -2234,19 +3701,41 @@ Unntak med hensyn til oppsamling
 
 1\. Som unntak fra artikkel 126 nr. 2 kan driftsansvarlige gjøre holdte hov- og klovdyr og fjørfe til gjenstand for høyst tre oppsamlinger i løpet av en forflytning fra en opprinnelsesstat til en annen medlemsstat.
 
-2\. Oppsamlingene i henhold til nr. 1 skal bare skje i anlegg som er godkjent til dette formålet i samsvar med artikkel 97 nr. 1 og artikkel 99 nr. 3 og 4.Opprinnelsesmedlemsstaten kan imidlertid på sitt territorium tillate at oppsamling skjer med et transportmiddel som henter holdte hov- og klovdyr eller fjørfe direkte fra opprinnelsesanleggene, forutsatt at slike dyr ikke lastes av igjen under oppsamlingen og før de ankommeranlegget eller det endelige bestemmelsesstedet, ellerfor senere oppsamling i et anlegg som er godkjent til dette formålet i samsvar med artikkel 97 nr. 1 og artikkel 99 nr. 4 og 5.
+2\. Oppsamlingene i henhold til nr. 1 skal bare skje i anlegg som er godkjent til dette formålet i samsvar med artikkel 97 nr. 1 og artikkel 99 nr. 3 og 4.
+
+Opprinnelsesmedlemsstaten kan imidlertid på sitt territorium tillate at oppsamling skjer med et transportmiddel som henter holdte hov- og klovdyr eller fjørfe direkte fra opprinnelsesanleggene, forutsatt at slike dyr ikke lastes av igjen under oppsamlingen og før de ankommer
+
+1. anlegget eller det endelige bestemmelsesstedet, eller
+2. for senere oppsamling i et anlegg som er godkjent til dette formålet i samsvar med artikkel 97 nr. 1 og artikkel 99 nr. 4 og 5.
 
 ###### Artikkel 134
 
 Krav til sykdomsforebygging under oppsamling
 
-Driftsansvarlige som gjennomfører oppsamling, skal sørge for følgende:Oppsamlede hov- og klovdyr og fjørfe skal ha samme helsestatus; dersom de ikke har samme helsestatus, skal laveste helsestatus legges til grunn for alle dyr oppsamlingen gjelder.Holdte hov- og klovdyr og fjørfe skal oppsamles og flyttes til sitt endelige bestemmelsessted i en annen medlemsstat så snart som mulig etter at de har forlatt opprinnelsesanlegget, og senest innen en frist som skal fastsettes i delegerte rettsakter vedtatt i henhold til artikkel 135 bokstav c).Nødvendige biosikkerhetstiltak skal treffes for å sikre at holdte hov- og klovdyr og fjørfe som oppsamlesikke kommer i kontakt med holdte hov- og klovdyr eller fjørfe som har en lavere helsestatus,ikke utgjør en vesentlig risiko for at de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) spres til holdte hov- og klovdyr eller fjørfe på stedet der oppsamlingen skjer.Holdte hov- og klovdyr og fjørfe skal identifiseres når dette kreves i denne forordningen, og ledsages av følgende dokumenter:Identifikasjons- og transportdokumentene i henhold til artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 115 bokstav b) og artikkel 117 bokstav b) samt eventuelle regler vedtatt i henhold til artikkel 118 og 120, med mindre det er gitt unntak i samsvar med artikkel 113 nr. 2 og artikkel 119.Helsesertifikatene i henhold til artikkel 143 og artikkel 144 nr. 1 bokstav c) med mindre reglene vedtatt i henhold til artikkel 144 nr. 1 bokstav a) åpner for unntak.Egenerklæringsdokumentet nevnt i artikkel 151.
+Driftsansvarlige som gjennomfører oppsamling, skal sørge for følgende:
+
+1. Oppsamlede hov- og klovdyr og fjørfe skal ha samme helsestatus; dersom de ikke har samme helsestatus, skal laveste helsestatus legges til grunn for alle dyr oppsamlingen gjelder.
+2. Holdte hov- og klovdyr og fjørfe skal oppsamles og flyttes til sitt endelige bestemmelsessted i en annen medlemsstat så snart som mulig etter at de har forlatt opprinnelsesanlegget, og senest innen en frist som skal fastsettes i delegerte rettsakter vedtatt i henhold til artikkel 135 bokstav c).
+3. Nødvendige biosikkerhetstiltak skal treffes for å sikre at holdte hov- og klovdyr og fjørfe som oppsamles
+
+   1. ikke kommer i kontakt med holdte hov- og klovdyr eller fjørfe som har en lavere helsestatus,
+   2. ikke utgjør en vesentlig risiko for at de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) spres til holdte hov- og klovdyr eller fjørfe på stedet der oppsamlingen skjer.
+4. Holdte hov- og klovdyr og fjørfe skal identifiseres når dette kreves i denne forordningen, og ledsages av følgende dokumenter:
+
+   1. Identifikasjons- og transportdokumentene i henhold til artikkel 112 bokstav b), artikkel 113 nr. 1 bokstav b), artikkel 114 nr. 1 bokstav c), artikkel 115 bokstav b) og artikkel 117 bokstav b) samt eventuelle regler vedtatt i henhold til artikkel 118 og 120, med mindre det er gitt unntak i samsvar med artikkel 113 nr. 2 og artikkel 119.
+   2. Helsesertifikatene i henhold til artikkel 143 og artikkel 144 nr. 1 bokstav c) med mindre reglene vedtatt i henhold til artikkel 144 nr. 1 bokstav a) åpner for unntak.
+   3. Egenerklæringsdokumentet nevnt i artikkel 151.
 
 ###### Artikkel 135
 
 Delegering av myndighet når det gjelder oppsamling
 
-Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjeldersærlige regler for oppsamling dersom det er innført andre risikoreduserende tiltak i tillegg til tiltakene fastsatt i artikkel 134 bokstav b) og c),kriterier for når opprinnelsesmedlemsstatene kan tillate at oppsamling skjer på transportmidler, som fastsatt i artikkel 133 nr. 2 annet ledd,hvor lang tid som kan gå fra avsendelsen av holdte hov- og klovdyr eller fjørfe fra deres opprinnelsesanlegg og avsendelsen fra oppsamlingen, til deres endelige bestemmelsessted i en annen medlemsstat, som nevnt i artikkel 134 bokstav b),nærmere regler med hensyn til biosikkerhetstiltakene fastsatt i artikkel 134 bokstav c).
+Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. særlige regler for oppsamling dersom det er innført andre risikoreduserende tiltak i tillegg til tiltakene fastsatt i artikkel 134 bokstav b) og c),
+2. kriterier for når opprinnelsesmedlemsstatene kan tillate at oppsamling skjer på transportmidler, som fastsatt i artikkel 133 nr. 2 annet ledd,
+3. hvor lang tid som kan gå fra avsendelsen av holdte hov- og klovdyr eller fjørfe fra deres opprinnelsesanlegg og avsendelsen fra oppsamlingen, til deres endelige bestemmelsessted i en annen medlemsstat, som nevnt i artikkel 134 bokstav b),
+4. nærmere regler med hensyn til biosikkerhetstiltakene fastsatt i artikkel 134 bokstav c).
 
 ###### Avsnitt 5
 
@@ -2260,7 +3749,15 @@ Forflytning av andre holdte landdyr enn hov- og klovdyr og fjørfe til andre med
 
 2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til nærmere regler for å sikre at andre holdte landdyr enn hov- og klovdyr eller fjørfe ikke utgjør en vesentlig risiko for å spre listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), i henhold til nr. 1.
 
-3\. Når Kommisjonen utarbeider de nærmere reglene som skal fastsettes i de delegerte rettsaktene i henhold til nr. 2, skal følgende vurderinger tas i betraktning:De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) som er relevante for de listeførte artene eller kategorien av holdte landdyr som skal flyttes.Helsestatus med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) i opprinnelses- og bestemmelsesanleggene, -segmentene, -sonene og -medlemsstatene.Typene anlegg og produksjon på opprinnelses- og bestemmelsesstedet.Typene forflytning med hensyn til sluttbruk av dyrene på bestemmelsesstedet.Artene og kategoriene av holdte landdyr som skal flyttes.Alderen på de holdte landdyrene som skal flyttes.Andre epidemiologiske faktorer.
+3\. Når Kommisjonen utarbeider de nærmere reglene som skal fastsettes i de delegerte rettsaktene i henhold til nr. 2, skal følgende vurderinger tas i betraktning:
+
+1. De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) som er relevante for de listeførte artene eller kategorien av holdte landdyr som skal flyttes.
+2. Helsestatus med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) i opprinnelses- og bestemmelsesanleggene, -segmentene, -sonene og -medlemsstatene.
+3. Typene anlegg og produksjon på opprinnelses- og bestemmelsesstedet.
+4. Typene forflytning med hensyn til sluttbruk av dyrene på bestemmelsesstedet.
+5. Artene og kategoriene av holdte landdyr som skal flyttes.
+6. Alderen på de holdte landdyrene som skal flyttes.
+7. Andre epidemiologiske faktorer.
 
 ###### Avsnitt 6
 
@@ -2270,9 +3767,15 @@ Unntak fra og supplering av risikoreduserende tiltak ved forflytning av holdte l
 
 Holdte landdyr beregnet på avgrensede anlegg, og delegerte rettsakter
 
-1\. Driftsansvarlige skal bare flytte holdte landdyr til et avgrenset anlegg dersom de berørte dyrene oppfyller følgende vilkår:De kommer fra et annet avgrenset anlegg.De utgjør ikke en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til listeførte arter eller kategorier av dyr i det avgrensede anlegget på bestemmelsesstedet, med mindre den aktuelle forflytningen er godkjent for vitenskapelige formål.
+1\. Driftsansvarlige skal bare flytte holdte landdyr til et avgrenset anlegg dersom de berørte dyrene oppfyller følgende vilkår:
 
-2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjeldernærmere regler for forflytning av holdte landdyr til avgrensede anlegg, i tillegg til anleggene fastsatt i nr. 1,særlige regler for forflytning av holdte landdyr til avgrensede anlegg der de risikoreduserende tiltakene som er innført, sikrer at forflytningen ikke utgjør en vesentlig risiko for helsen til holdte landdyr i nevnte avgrensede anlegg og omkringliggende anlegg.
+1. De kommer fra et annet avgrenset anlegg.
+2. De utgjør ikke en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til listeførte arter eller kategorier av dyr i det avgrensede anlegget på bestemmelsesstedet, med mindre den aktuelle forflytningen er godkjent for vitenskapelige formål.
+
+2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. nærmere regler for forflytning av holdte landdyr til avgrensede anlegg, i tillegg til anleggene fastsatt i nr. 1,
+2. særlige regler for forflytning av holdte landdyr til avgrensede anlegg der de risikoreduserende tiltakene som er innført, sikrer at forflytningen ikke utgjør en vesentlig risiko for helsen til holdte landdyr i nevnte avgrensede anlegg og omkringliggende anlegg.
 
 ###### Artikkel 138
 
@@ -2280,7 +3783,14 @@ Forflytning av holdte landdyr for vitenskapelige formål, og delegerte rettsakte
 
 1\. Med forbehold for samtykke fra vedkommende myndighet på opprinnelsesstedet kan vedkommende myndighet på bestemmelsesstedet tillate forflytning for vitenskapelige formål av holdte landdyr til bestemmelsesmedlemsstatens territorium i tilfeller der forflytningen ikke oppfyller kravene i avsnitt 1–5 (artikkel 124–136), med unntak av artikkel 124 og 125, artikkel 126 nr. 1 bokstav b) ii) og artikkel 127.
 
-2\. Vedkommende myndighet på bestemmelsesstedet skal bare gi unntak i henhold til nr. 1 på følgende vilkår:Vedkommende myndigheter på opprinnelses- og bestemmelsesstedeter blitt enige om vilkårene for slike forflytninger,har sikret at nødvendige risikoreduserende tiltak er innført slik at forflytningen ikke setter helsestatusen i fare på steder underveis og på bestemmelsesstedet med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d), ognår det er relevant, har meldt til vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom, om det unntaket som er gitt og på hvilke vilkår det er gitt.Forflytningen av dyrene finner sted under tilsyn av vedkommende myndigheter på opprinnelses- og bestemmelsesstedet og ved behov, vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom.
+2\. Vedkommende myndighet på bestemmelsesstedet skal bare gi unntak i henhold til nr. 1 på følgende vilkår:
+
+1. Vedkommende myndigheter på opprinnelses- og bestemmelsesstedet
+
+   1. er blitt enige om vilkårene for slike forflytninger,
+   2. har sikret at nødvendige risikoreduserende tiltak er innført slik at forflytningen ikke setter helsestatusen i fare på steder underveis og på bestemmelsesstedet med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d), og
+   3. når det er relevant, har meldt til vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom, om det unntaket som er gitt og på hvilke vilkår det er gitt.
+2. Forflytningen av dyrene finner sted under tilsyn av vedkommende myndigheter på opprinnelses- og bestemmelsesstedet og ved behov, vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom.
 
 3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til regler for unntak som gis av vedkommende myndigheter, og som utfyller reglene fastsatt i nr. 1 og 2.
 
@@ -2288,7 +3798,12 @@ Forflytning av holdte landdyr for vitenskapelige formål, og delegerte rettsakte
 
 Unntak for rekreasjonsformål, idretts- og kulturarrangementer, arbeid i nærheten av grenser og beiting
 
-1\. Vedkommende myndighet på bestemmelsesstedet kan gi unntak fra kravene i avsnitt 2–5 (artikkel 126–136), med unntak av artikkel 126 nr. 1 bokstav a), b) og c) og artikkel 127 og 128, for forflytninger innenfor Unionen av holdte landdyr mellom medlemsstatene dersom formålet med forflytningen errekreasjon i nærheten av en grense,utstillinger, idretts- eller kulturarrangementer og tilsvarende arrangementer i nærheten av en grense,beite for holdte landdyr på beiteområder som medlemsstater har felles, ellerarbeid som utføres av holdte landdyr i nærheten av en medlemsstats grenser.
+1\. Vedkommende myndighet på bestemmelsesstedet kan gi unntak fra kravene i avsnitt 2–5 (artikkel 126–136), med unntak av artikkel 126 nr. 1 bokstav a), b) og c) og artikkel 127 og 128, for forflytninger innenfor Unionen av holdte landdyr mellom medlemsstatene dersom formålet med forflytningen er
+
+1. rekreasjon i nærheten av en grense,
+2. utstillinger, idretts- eller kulturarrangementer og tilsvarende arrangementer i nærheten av en grense,
+3. beite for holdte landdyr på beiteområder som medlemsstater har felles, eller
+4. arbeid som utføres av holdte landdyr i nærheten av en medlemsstats grenser.
 
 2\. Unntak som gis av vedkommende myndighet på bestemmelsesstedet for forflytningen av holdte landdyr for formålene i nr. 1, skal avtales mellom opprinnelses- og bestemmelsesmedlemsstatene, og hensiktsmessige risikoreduserende tiltak skal treffes for å sikre at slike forflytninger ikke utgjør en vesentlig risiko.
 
@@ -2300,13 +3815,24 @@ Unntak for rekreasjonsformål, idretts- og kulturarrangementer, arbeid i nærhet
 
 Delegering av myndighet når det gjelder sirkuser, utstillinger, idrettsarrangementer, rekreasjonsformål, zoologiske hager, dyrebutikker, dyremottak og grossister
 
-Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Særlige krav som utfyller reglene fastsatt i avsnitt 2–5 (artikkel 126–136) for forflytning av holdte landdyr for følgende formål:Sirkuser, zoologiske hager, dyrebutikker, dyremottak og grossister.Utstillinger, idretts- eller kulturarrangementer og tilsvarende arrangementer.Unntak fra avsnitt 2–5 (artikkel 126–136), med unntak av artikkel 126 nr. 1 bokstav a), b) og c) og artikkel 127 og 128, for forflytning av holdte landdyr som nevnt i bokstav a) i denne artikkelen.
+Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
+
+1. Særlige krav som utfyller reglene fastsatt i avsnitt 2–5 (artikkel 126–136) for forflytning av holdte landdyr for følgende formål:
+
+   1. Sirkuser, zoologiske hager, dyrebutikker, dyremottak og grossister.
+   2. Utstillinger, idretts- eller kulturarrangementer og tilsvarende arrangementer.
+2. Unntak fra avsnitt 2–5 (artikkel 126–136), med unntak av artikkel 126 nr. 1 bokstav a), b) og c) og artikkel 127 og 128, for forflytning av holdte landdyr som nevnt i bokstav a) i denne artikkelen.
 
 ###### Artikkel 141
 
 Gjennomføringsmyndighet til å vedta midlertidige regler for forflytning av bestemte arter eller kategorier av holdte landdyr
 
-1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette midlertidige regler som tillegg eller alternativ til reglene i dette kapittelet, for forflytning av bestemte arter eller kategorier av holdte landdyr dersomkravene til forflytning i henhold til artikkel 130, artikkel 132 nr. 1, artikkel 133 og 134, artikkel 136 nr. 1, artikkel 137 nr. 1, artikkel 138 nr. 1 og 2 og artikkel 139 samt reglene vedtatt i henhold til artikkel 131 nr. 1, artikkel 132 nr. 2, artikkel 135, artikkel 136 nr. 2, artikkel 137 nr. 2, artikkel 138 nr. 3, artikkel 139 nr. 4 og artikkel 140 ikke faktisk reduserer risikoene ved forflytning av disse dyrene, elleren listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d) synes å spre seg til tross for kravene til forflytning fastsatt i samsvar med avsnitt 1–6 (artikkel 124–142).Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette midlertidige regler som tillegg eller alternativ til reglene i dette kapittelet, for forflytning av bestemte arter eller kategorier av holdte landdyr dersom
+
+1. kravene til forflytning i henhold til artikkel 130, artikkel 132 nr. 1, artikkel 133 og 134, artikkel 136 nr. 1, artikkel 137 nr. 1, artikkel 138 nr. 1 og 2 og artikkel 139 samt reglene vedtatt i henhold til artikkel 131 nr. 1, artikkel 132 nr. 2, artikkel 135, artikkel 136 nr. 2, artikkel 137 nr. 2, artikkel 138 nr. 3, artikkel 139 nr. 4 og artikkel 140 ikke faktisk reduserer risikoene ved forflytning av disse dyrene, eller
+2. en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d) synes å spre seg til tross for kravene til forflytning fastsatt i samsvar med avsnitt 1–6 (artikkel 124–142).
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 2\. I behørig begrunnede, tvingende hastetilfeller knyttet til sykdommer som utgjør en svært betydelig risiko, og idet det tas hensyn til forholdene nevnt i artikkel 142, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
@@ -2314,7 +3840,15 @@ Gjennomføringsmyndighet til å vedta midlertidige regler for forflytning av bes
 
 Forhold som skal tas i betraktning ved vedtakelse av delegerte rettsakter og gjennomføringsrettsakter i henhold til dette avsnittet
 
-Når Kommisjonen utarbeider de reglene som skal fastsettes i de delegerte rettsaktene og gjennomføringsrettsaktene i henhold til artikkel 137 nr. 2, artikkel 138 nr. 3, artikkel 139 nr. 4, artikkel 140 og 141, skal følgende forhold tas i betraktning:Risikoene ved forflytningene nevnt i bestemmelsene.Helsestatus med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) på opprinnelsesstedet, på de stedene dyrene passerer gjennom, og på bestemmelsesstedet.Listeførte dyrearter for de listeførte sykdommene som er nevnt i artikkel 9 nr. 1 bokstav d).Biosikkerhetstiltak som er innført på opprinnelsesstedet, på de stedene dyrene passerer gjennom, og på bestemmelsesstedet.Eventuelle særlige vilkår i anlegg der holdte landdyr holdes.Særlige forflytningsmønstre for typen anlegg og de berørte artene og kategoriene av holdte landdyr.Andre epidemiologiske faktorer.
+Når Kommisjonen utarbeider de reglene som skal fastsettes i de delegerte rettsaktene og gjennomføringsrettsaktene i henhold til artikkel 137 nr. 2, artikkel 138 nr. 3, artikkel 139 nr. 4, artikkel 140 og 141, skal følgende forhold tas i betraktning:
+
+1. Risikoene ved forflytningene nevnt i bestemmelsene.
+2. Helsestatus med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) på opprinnelsesstedet, på de stedene dyrene passerer gjennom, og på bestemmelsesstedet.
+3. Listeførte dyrearter for de listeførte sykdommene som er nevnt i artikkel 9 nr. 1 bokstav d).
+4. Biosikkerhetstiltak som er innført på opprinnelsesstedet, på de stedene dyrene passerer gjennom, og på bestemmelsesstedet.
+5. Eventuelle særlige vilkår i anlegg der holdte landdyr holdes.
+6. Særlige forflytningsmønstre for typen anlegg og de berørte artene og kategoriene av holdte landdyr.
+7. Andre epidemiologiske faktorer.
 
 ###### Avsnitt 7
 
@@ -2324,9 +3858,16 @@ Utstedelse av helsesertifikater
 
 Driftsansvarliges plikt til å sikre at dyrene ledsages av et helsesertifikat
 
-1\. Driftsansvarlige skal bare flytte følgende arter og kategorier av holdte landdyr til en annen medlemsstat dersom de berørte dyrene ledsages av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten i samsvar med artikkel 149 nr. 1:Hov- og klovdyr.Fjørfe.Andre holdte landdyr enn hov- og klovdyr og fjørfe, beregnet på et avgrenset anlegg.Andre holdte landdyr enn dem som er nevnt i bokstav a), b) og c), dersom dette kreves i samsvar med delegerte rettsakter vedtatt i henhold til artikkel 144 nr. 1 bokstav c).
+1\. Driftsansvarlige skal bare flytte følgende arter og kategorier av holdte landdyr til en annen medlemsstat dersom de berørte dyrene ledsages av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten i samsvar med artikkel 149 nr. 1:
 
-2\. I tilfeller der holdte landdyr tillates å forlate en restriksjonssone i henhold til artikkel 55 nr. 1 bokstav f) ii), artikkel 56, artikkel 64 nr. 1 og er underlagt tiltak for sykdomsbekjempelse i henhold til artikkel 55 nr. 1, artikkel 65 nr. 1, artikkel 74 nr. 1, artikkel 79 eller 80, eller regler vedtatt i henhold til artikkel 55 nr. 2, artikkel 67, artikkel 71 nr. 3 og artikkel 74 nr. 4, artikkel 83 nr. 3 eller artikkel 259, og de berørte dyrene er av arter som er underlagt disse tiltakene for sykdomsbekjempelse, skal driftsansvarlige bare flytte slike holdte landdyr innenfor en medlemsstat eller fra én medlemsstat til en annen medlemsstat dersom dyrene som skal flyttes, ledsages av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 149 nr. 1.Vedkommende myndighet kan beslutte at et slikt sertifikat ikke trenger å bli utstedt for forflytning av holdte landdyr innenfor den aktuelle medlemsstaten når myndigheten anser at et alternativt system sikrer at forsendelsen av slike dyr er sporbar, og at disse dyrene oppfyller kravene til dyrehelse for slike forflytninger.
+1. Hov- og klovdyr.
+2. Fjørfe.
+3. Andre holdte landdyr enn hov- og klovdyr og fjørfe, beregnet på et avgrenset anlegg.
+4. Andre holdte landdyr enn dem som er nevnt i bokstav a), b) og c), dersom dette kreves i samsvar med delegerte rettsakter vedtatt i henhold til artikkel 144 nr. 1 bokstav c).
+
+2\. I tilfeller der holdte landdyr tillates å forlate en restriksjonssone i henhold til artikkel 55 nr. 1 bokstav f) ii), artikkel 56, artikkel 64 nr. 1 og er underlagt tiltak for sykdomsbekjempelse i henhold til artikkel 55 nr. 1, artikkel 65 nr. 1, artikkel 74 nr. 1, artikkel 79 eller 80, eller regler vedtatt i henhold til artikkel 55 nr. 2, artikkel 67, artikkel 71 nr. 3 og artikkel 74 nr. 4, artikkel 83 nr. 3 eller artikkel 259, og de berørte dyrene er av arter som er underlagt disse tiltakene for sykdomsbekjempelse, skal driftsansvarlige bare flytte slike holdte landdyr innenfor en medlemsstat eller fra én medlemsstat til en annen medlemsstat dersom dyrene som skal flyttes, ledsages av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 149 nr. 1.
+
+Vedkommende myndighet kan beslutte at et slikt sertifikat ikke trenger å bli utstedt for forflytning av holdte landdyr innenfor den aktuelle medlemsstaten når myndigheten anser at et alternativt system sikrer at forsendelsen av slike dyr er sporbar, og at disse dyrene oppfyller kravene til dyrehelse for slike forflytninger.
 
 3\. Driftsansvarlige skal treffe alle nødvendige tiltak for å sikre at helsesertifikatet nevnt i nr. 1 ledsager de holdte landdyrene fra deres opprinnelsessted til deres endelige bestemmelsessted, med mindre bestemte tiltak er fastsatt i regler vedtatt i henhold til artikkel 147.
 
@@ -2334,9 +3875,28 @@ Driftsansvarliges plikt til å sikre at dyrene ledsages av et helsesertifikat
 
 Delegering av myndighet når det gjelder driftsansvarliges plikt til å sikre at dyrene ledsages av et helsesertifikat
 
-1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Unntak fra kravene om utstedelse av helsesertifikat i henhold til artikkel 143 nr. 1 for forflytning av holdte landdyr som ikke utgjør en vesentlig risiko for spredning av sykdom, på grunn avartene eller kategoriene av holdte landdyr som flyttes, og de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) som de er listeførte arter for,metodene for dyrehold og typen produksjon av disse artene og kategoriene av holdte landdyr,den tilsiktede bruken av de holdte landdyrene, ellerbestemmelsesstedet for de holdte landdyrene, herunder de tilfellene der deres bestemmelsessted er i samme medlemsstat som opprinnelsesstedet, men der dyrene må passere gjennom en annen medlemsstat for å ankomme bestemmelsesstedet.Særlige regler for utstedelse av helsesertifikat i henhold til artikkel 143 nr. 1 der særlige risikoreduserende tiltak knyttet til overvåking eller biosikkerhet er truffet, idet det tas hensyn til forholdene fastsatt i nr. 2 i denne artikkelen, som sikrer atde holdte landdyrene som skal flyttes, kan spores,de holdte landdyrene som skal flyttes, oppfyller kravene til dyrehelse for forflytninger fastsatt i avsnitt 1–6 (artikkel 124–142).Kravet om utstedelse av helsesertifikat for forflytning av arter og kategorier av andre holdte landdyr enn dem som er nevnt i artikkel 143 nr. 1 bokstav a), b) og c), i tilfeller der utstedelse av helsesertifikat er svært viktig for å sikre at den aktuelle forflytningen oppfyller kravene til dyrehelse for forflytninger fastsatt i avsnitt 1–6 (artikkel 124–142).
+1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
 
-2\. Når Kommisjonen utarbeider de særlige reglene i henhold til nr. 1 bokstav b), skal følgende forhold tas i betraktning:Vedkommende myndighets vurdering av de biosikkerhetstiltakene som driftsansvarlige har innført i henhold til artikkel 10 nr. 1 bokstav b), og eventuelle regler som er vedtatt i henhold til artikkel 10 nr. 6.Vedkommende myndighets evne til å treffe nødvendige og hensiktsmessige tiltak og utføre de aktivitetene som kreves i denne forordningen i henhold til artikkel 13 nr. 1.Kunnskapsnivået om dyrehelse som fastsatt i artikkel 11, og oppmuntring til å heve dette i samsvar med artikkel 13 nr. 2.Gjennomføring av dyrehelsebesøk som fastsatt i artikkel 25, eller annen relevant overvåking eller offentlige kontroller som er innført.Vedkommende myndighets gjennomføring av sine forpliktelser i forbindelse med systemet for melding og rapportering i Unionen i henhold til artikkel 19–22 og i reglene vedtatt i henhold til artikkel 20 nr. 3 og artikkel 23.Anvendelsen av overvåking som fastsatt i artikkel 26, og overvåkingsprogrammer som fastsatt i artikkel 28, og i eventuelle regler vedtatt i henhold til artikkel 29 og 30.
+1. Unntak fra kravene om utstedelse av helsesertifikat i henhold til artikkel 143 nr. 1 for forflytning av holdte landdyr som ikke utgjør en vesentlig risiko for spredning av sykdom, på grunn av
+
+   1. artene eller kategoriene av holdte landdyr som flyttes, og de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) som de er listeførte arter for,
+   2. metodene for dyrehold og typen produksjon av disse artene og kategoriene av holdte landdyr,
+   3. den tilsiktede bruken av de holdte landdyrene, eller
+   4. bestemmelsesstedet for de holdte landdyrene, herunder de tilfellene der deres bestemmelsessted er i samme medlemsstat som opprinnelsesstedet, men der dyrene må passere gjennom en annen medlemsstat for å ankomme bestemmelsesstedet.
+2. Særlige regler for utstedelse av helsesertifikat i henhold til artikkel 143 nr. 1 der særlige risikoreduserende tiltak knyttet til overvåking eller biosikkerhet er truffet, idet det tas hensyn til forholdene fastsatt i nr. 2 i denne artikkelen, som sikrer at
+
+   1. de holdte landdyrene som skal flyttes, kan spores,
+   2. de holdte landdyrene som skal flyttes, oppfyller kravene til dyrehelse for forflytninger fastsatt i avsnitt 1–6 (artikkel 124–142).
+3. Kravet om utstedelse av helsesertifikat for forflytning av arter og kategorier av andre holdte landdyr enn dem som er nevnt i artikkel 143 nr. 1 bokstav a), b) og c), i tilfeller der utstedelse av helsesertifikat er svært viktig for å sikre at den aktuelle forflytningen oppfyller kravene til dyrehelse for forflytninger fastsatt i avsnitt 1–6 (artikkel 124–142).
+
+2\. Når Kommisjonen utarbeider de særlige reglene i henhold til nr. 1 bokstav b), skal følgende forhold tas i betraktning:
+
+1. Vedkommende myndighets vurdering av de biosikkerhetstiltakene som driftsansvarlige har innført i henhold til artikkel 10 nr. 1 bokstav b), og eventuelle regler som er vedtatt i henhold til artikkel 10 nr. 6.
+2. Vedkommende myndighets evne til å treffe nødvendige og hensiktsmessige tiltak og utføre de aktivitetene som kreves i denne forordningen i henhold til artikkel 13 nr. 1.
+3. Kunnskapsnivået om dyrehelse som fastsatt i artikkel 11, og oppmuntring til å heve dette i samsvar med artikkel 13 nr. 2.
+4. Gjennomføring av dyrehelsebesøk som fastsatt i artikkel 25, eller annen relevant overvåking eller offentlige kontroller som er innført.
+5. Vedkommende myndighets gjennomføring av sine forpliktelser i forbindelse med systemet for melding og rapportering i Unionen i henhold til artikkel 19–22 og i reglene vedtatt i henhold til artikkel 20 nr. 3 og artikkel 23.
+6. Anvendelsen av overvåking som fastsatt i artikkel 26, og overvåkingsprogrammer som fastsatt i artikkel 28, og i eventuelle regler vedtatt i henhold til artikkel 29 og 30.
 
 3\. Når Kommisjonen fastsetter kravene for utstedelse av helsesertifikat i henhold til nr. 1 bokstav c), skal forholdene nevnt i nr. 1 bokstav a) i)–iv) tas i betraktning.
 
@@ -2344,7 +3904,14 @@ Delegering av myndighet når det gjelder driftsansvarliges plikt til å sikre at
 
 Innholdet i helsesertifikatene
 
-1\. Helsesertifikatet nevnt i artikkel 143 skal inneholde følgende opplysninger:Opprinnelsesanlegg eller -sted, bestemmelsesanlegg eller -sted og dersom det er relevant, anlegg for oppsamling eller for hvile, for berørte holdte landdyr.Transportmidler og transportør.En beskrivelse av de holdte landdyrene.Antallet holdte landdyr.Identifikasjon og registrering av holdte landdyr dersom dette kreves i samsvar med artikkel 112, 113, 114, 115 og 117 og eventuelle regler vedtatt i henhold til artikkel 118 og 120, med mindre det er gitt unntak i samsvar med artikkel 119.Opplysninger som er nødvendige for å vise at de holdte landdyrene oppfyller de relevante kravene til dyrehelse for forflytninger som fastsatt i avsnitt 1–6 (artikkel 124–142).
+1\. Helsesertifikatet nevnt i artikkel 143 skal inneholde følgende opplysninger:
+
+1. Opprinnelsesanlegg eller -sted, bestemmelsesanlegg eller -sted og dersom det er relevant, anlegg for oppsamling eller for hvile, for berørte holdte landdyr.
+2. Transportmidler og transportør.
+3. En beskrivelse av de holdte landdyrene.
+4. Antallet holdte landdyr.
+5. Identifikasjon og registrering av holdte landdyr dersom dette kreves i samsvar med artikkel 112, 113, 114, 115 og 117 og eventuelle regler vedtatt i henhold til artikkel 118 og 120, med mindre det er gitt unntak i samsvar med artikkel 119.
+6. Opplysninger som er nødvendige for å vise at de holdte landdyrene oppfyller de relevante kravene til dyrehelse for forflytninger som fastsatt i avsnitt 1–6 (artikkel 124–142).
 
 2\. Helsesertifikatet kan inneholde andre opplysninger som kreves i samsvar med annet unionsregelverk.
 
@@ -2352,7 +3919,10 @@ Innholdet i helsesertifikatene
 
 Delegering av myndighet og gjennomføringsrettsakter som gjelder innholdet i helsesertifikater
 
-1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjeldernærmere regler for innholdet i helsesertifikater som fastsatt i artikkel 145 nr. 1 for ulike arter og kategorier av holdte landdyr, og for bestemte typer forflytninger som fastsatt i reglene vedtatt i henhold til 147,ytterligere opplysninger som skal inntas i helsesertifikatet fastsatt i artikkel 145 nr. 1.
+1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. nærmere regler for innholdet i helsesertifikater som fastsatt i artikkel 145 nr. 1 for ulike arter og kategorier av holdte landdyr, og for bestemte typer forflytninger som fastsatt i reglene vedtatt i henhold til 147,
+2. ytterligere opplysninger som skal inntas i helsesertifikatet fastsatt i artikkel 145 nr. 1.
 
 2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for standardskjemaer for helsesertifikater. Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -2360,31 +3930,59 @@ Delegering av myndighet og gjennomføringsrettsakter som gjelder innholdet i hel
 
 Delegering av myndighet når det gjelder bestemte typer forflytninger av holdte landdyr
 
-Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder særlige tiltak som er unntak fra eller utfyller driftsansvarliges plikt til å sikre at dyr ledsages av et helsesertifikat, som fastsatt i artikkel 143 og i reglene vedtatt i henhold til artikkel 144, for følgende typer forflytninger av holdte landdyr:Forflytninger av holdte hov- og klovdyr og fjørfe som er gjenstand for oppsamling i henhold til artikkel 133, før de når sitt endelige bestemmelsessted.Forflytninger av holdte landdyr som skal sendes tilbake til opprinnelsesstedet eller flyttes til et annet sted, av én eller flere av følgende årsaker:Den planlagte transporten ble uventet avbrutt av dyrevelferdshensyn.Uforutsette ulykker eller hendelser under transporten.De ble avvist på bestemmelsesstedet i en medlemsstat eller ved Unionens yttergrense.De ble avvist på et oppsamlings- eller hvilested.De ble avvist i et tredjeland eller et territorium.Forflytninger av holdte landdyr beregnet på utstillinger, idretts- eller kulturarrangementer og tilsvarende arrangementer, og påfølgende tilbakesending av dem til opprinnelsesstedet.
+Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder særlige tiltak som er unntak fra eller utfyller driftsansvarliges plikt til å sikre at dyr ledsages av et helsesertifikat, som fastsatt i artikkel 143 og i reglene vedtatt i henhold til artikkel 144, for følgende typer forflytninger av holdte landdyr:
+
+1. Forflytninger av holdte hov- og klovdyr og fjørfe som er gjenstand for oppsamling i henhold til artikkel 133, før de når sitt endelige bestemmelsessted.
+2. Forflytninger av holdte landdyr som skal sendes tilbake til opprinnelsesstedet eller flyttes til et annet sted, av én eller flere av følgende årsaker:
+
+   1. Den planlagte transporten ble uventet avbrutt av dyrevelferdshensyn.
+   2. Uforutsette ulykker eller hendelser under transporten.
+   3. De ble avvist på bestemmelsesstedet i en medlemsstat eller ved Unionens yttergrense.
+   4. De ble avvist på et oppsamlings- eller hvilested.
+   5. De ble avvist i et tredjeland eller et territorium.
+3. Forflytninger av holdte landdyr beregnet på utstillinger, idretts- eller kulturarrangementer og tilsvarende arrangementer, og påfølgende tilbakesending av dem til opprinnelsesstedet.
 
 ###### Artikkel 148
 
 Driftsansvarliges plikt til å samarbeide med vedkommende myndighet med henblikk på utstedelse av helsesertifikat
 
-Driftsansvarlige skalgi vedkommende myndighet alle opplysninger som er nødvendige for å fylle ut helsesertifikatet fastsatt i artikkel 143 nr. 1 og 2 og i eventuelle regler vedtatt i henhold til artikkel 146 nr. 1 eller artikkel 147, før den planlagte forflytningen,om nødvendig sørge for at de aktuelle holdte landdyrene gjennomgår dokumentkontroll, identitetskontroll og fysisk kontroll som fastsatt i artikkel 149 nr. 3.
+Driftsansvarlige skal
+
+1. gi vedkommende myndighet alle opplysninger som er nødvendige for å fylle ut helsesertifikatet fastsatt i artikkel 143 nr. 1 og 2 og i eventuelle regler vedtatt i henhold til artikkel 146 nr. 1 eller artikkel 147, før den planlagte forflytningen,
+2. om nødvendig sørge for at de aktuelle holdte landdyrene gjennomgår dokumentkontroll, identitetskontroll og fysisk kontroll som fastsatt i artikkel 149 nr. 3.
 
 ###### Artikkel 149
 
 Vedkommende myndighets ansvar for utstedelse av helsesertifikat
 
-1\. Vedkommende myndighet skal på anmodning fra en driftsansvarlig utstede et helsesertifikat for forflytning av holdte landdyr når dette kreves etter artikkel 143 eller delegerte rettsakter vedtatt i henhold til artikkel 144 nr. 1, forutsatt at følgende krav til forflytningen er oppfylt:Kravene i artikkel 124, artikkel 125 nr. 1, artikkel 126, 128, 129, 130, 133, 134, artikkel 136 nr. 1, artikkel 137 nr. 1, artikkel 138 og 139.Kravene i delegerte rettsakter vedtatt i henhold til artikkel 125 nr. 2, artikkel 131 nr. 1, artikkel 135, artikkel 136 nr. 2, artikkel 137 nr. 2, artikkel 138 nr. 4, artikkel 139 nr. 4 og artikkel 140.Kravene i gjennomføringsrettsakter vedtatt i henhold til artikkel 141.
+1\. Vedkommende myndighet skal på anmodning fra en driftsansvarlig utstede et helsesertifikat for forflytning av holdte landdyr når dette kreves etter artikkel 143 eller delegerte rettsakter vedtatt i henhold til artikkel 144 nr. 1, forutsatt at følgende krav til forflytningen er oppfylt:
 
-2\. Helsesertifikatene skalvære kontrollert, stemplet og undertegnet av en offentlig veterinær,være gyldige i tidsrommet fastsatt i reglene vedtatt i henhold til nr. 4 bokstav c), der de holdte landdyrene som omfattes av sertifikatet, skal fortsette å oppfylle dyrehelsegarantiene i det.
+1. Kravene i artikkel 124, artikkel 125 nr. 1, artikkel 126, 128, 129, 130, 133, 134, artikkel 136 nr. 1, artikkel 137 nr. 1, artikkel 138 og 139.
+2. Kravene i delegerte rettsakter vedtatt i henhold til artikkel 125 nr. 2, artikkel 131 nr. 1, artikkel 135, artikkel 136 nr. 2, artikkel 137 nr. 2, artikkel 138 nr. 4, artikkel 139 nr. 4 og artikkel 140.
+3. Kravene i gjennomføringsrettsakter vedtatt i henhold til artikkel 141.
+
+2\. Helsesertifikatene skal
+
+1. være kontrollert, stemplet og undertegnet av en offentlig veterinær,
+2. være gyldige i tidsrommet fastsatt i reglene vedtatt i henhold til nr. 4 bokstav c), der de holdte landdyrene som omfattes av sertifikatet, skal fortsette å oppfylle dyrehelsegarantiene i det.
 
 3\. Før helsesertifikatet undertegnes, skal den berørte offentlige veterinæren kontrollere, ved dokumentkontroll, identitetskontroll og fysisk kontroll som fastsatt i delegerte rettsakter vedtatt i henhold til nr. 4, at de holdte landdyrene helsesertifikatet gjelder, oppfyller kravene i dette kapittelet.
 
-4\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 der det fastsettes regler forde ulike typene dokumentkontroll, identitetskontroll og fysisk kontroll samt undersøkelser for ulike arter og kategorier av holdte landdyr som den offentlige veterinæren må utføre i samsvar med nr. 3 for å kontrollere samsvar med kravene i dette kapittelet,fristene for å gjennomføre slik dokumentkontroll, identitetskontroll og fysisk kontroll samt undersøkelser, og utstedelse av helsesertifikater av den offentlige veterinæren før forflytning av forsendelser av holdte landdyr,gyldighetstiden for helsesertifikater.
+4\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 der det fastsettes regler for
+
+1. de ulike typene dokumentkontroll, identitetskontroll og fysisk kontroll samt undersøkelser for ulike arter og kategorier av holdte landdyr som den offentlige veterinæren må utføre i samsvar med nr. 3 for å kontrollere samsvar med kravene i dette kapittelet,
+2. fristene for å gjennomføre slik dokumentkontroll, identitetskontroll og fysisk kontroll samt undersøkelser, og utstedelse av helsesertifikater av den offentlige veterinæren før forflytning av forsendelser av holdte landdyr,
+3. gyldighetstiden for helsesertifikater.
 
 ###### Artikkel 150
 
 Elektroniske helsesertifikater
 
-Elektroniske helsesertifikater som produseres, håndteres og overføres ved hjelp av TRACES, kan erstatte ledsagende helsesertifikater som fastsatt i artikkel 149 nr. 1, dersomslike elektroniske helsesertifikater inneholder alle de opplysningene som standardskjemaet for helsesertifikatet skal inneholde, i samsvar med artikkel 145 og eventuelle regler vedtatt i henhold til artikkel 146,sporbarheten for de aktuelle holdte landdyrene og forbindelsen mellom disse dyrene og det elektroniske helsesertifikatet, er sikret,vedkommende myndigheter i opprinnelsesmedlemsstaten, i medlemsstater som dyrene passerer gjennom, og i bestemmelsesmedlemsstaten, er sikret tilgang til de elektroniske dokumentene under hele transporten.
+Elektroniske helsesertifikater som produseres, håndteres og overføres ved hjelp av TRACES, kan erstatte ledsagende helsesertifikater som fastsatt i artikkel 149 nr. 1, dersom
+
+1. slike elektroniske helsesertifikater inneholder alle de opplysningene som standardskjemaet for helsesertifikatet skal inneholde, i samsvar med artikkel 145 og eventuelle regler vedtatt i henhold til artikkel 146,
+2. sporbarheten for de aktuelle holdte landdyrene og forbindelsen mellom disse dyrene og det elektroniske helsesertifikatet, er sikret,
+3. vedkommende myndigheter i opprinnelsesmedlemsstaten, i medlemsstater som dyrene passerer gjennom, og i bestemmelsesmedlemsstaten, er sikret tilgang til de elektroniske dokumentene under hele transporten.
 
 ###### Artikkel 151
 
@@ -2392,9 +3990,18 @@ Egenerklæring fra driftsansvarlige i forbindelse med forflytninger til andre me
 
 1\. Driftsansvarlige på opprinnelsesstedet skal utstede et egenerklæringsdokument for forflytning av holdte landdyr fra opprinnelsesstedet i en medlemsstat til bestemmelsesstedet i en annen medlemsstat, og skal sikre at det ledsager dyrene, med mindre det kreves at de ledsages av et helsesertifikat i henhold til artikkel 143 nr. 1 og 2.
 
-2\. Egenerklæringsdokumentet fastsatt i nr. 1 skal inneholde følgende opplysninger om de berørte holdte landdyrene:Deres opprinnelsessted, bestemmelsessted og eventuelt oppsamlings- eller hvilesteder.Transportmiddelet og transportøren.En beskrivelse av de holdte landdyrene, deres art, kategori og antall.Identifikasjon og registrering der dette kreves i samsvar med artikkel 112, 113, 114, 115, artikkel 117 bokstav a) og eventuelle regler vedtatt i henhold til artikkel 118 og 120.Opplysninger som er nødvendige for å vise at de holdte landdyrene oppfyller de relevante kravene til dyrehelse for forflytninger fastsatt i avsnitt 1–6 (artikkel 124–142).
+2\. Egenerklæringsdokumentet fastsatt i nr. 1 skal inneholde følgende opplysninger om de berørte holdte landdyrene:
 
-3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Nærmere regler for innholdet i egenerklæringsdokumentet fastsatt i nr. 2 for ulike arter og kategorier av dyr.Opplysninger som skal inntas i egenerklæringsdokumentet i tillegg til det som er fastsatt i nr. 2.
+1. Deres opprinnelsessted, bestemmelsessted og eventuelt oppsamlings- eller hvilesteder.
+2. Transportmiddelet og transportøren.
+3. En beskrivelse av de holdte landdyrene, deres art, kategori og antall.
+4. Identifikasjon og registrering der dette kreves i samsvar med artikkel 112, 113, 114, 115, artikkel 117 bokstav a) og eventuelle regler vedtatt i henhold til artikkel 118 og 120.
+5. Opplysninger som er nødvendige for å vise at de holdte landdyrene oppfyller de relevante kravene til dyrehelse for forflytninger fastsatt i avsnitt 1–6 (artikkel 124–142).
+
+3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
+
+1. Nærmere regler for innholdet i egenerklæringsdokumentet fastsatt i nr. 2 for ulike arter og kategorier av dyr.
+2. Opplysninger som skal inntas i egenerklæringsdokumentet i tillegg til det som er fastsatt i nr. 2.
 
 4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for standardskjemaene for egenerklæringsdokumentet fastsatt i nr. 2. Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -2406,7 +4013,12 @@ Melding om forflytning av holdte landdyr til andre medlemsstater
 
 Driftsansvarliges meldingsplikt i forbindelse med forflytning av holdte landdyr til andre medlemsstater
 
-Andre driftsansvarlige enn transportører skal på forhånd melde planlagte forflytninger av holdte landdyr fra medlemsstaten til en annen medlemsstat, til vedkommende myndighet i opprinnelsesmedlemsstaten dersomdyrene må ledsages av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten i samsvar med artikkel 149 og 150 og regler vedtatt i henhold til artikkel 149 nr. 4,dyrene må ledsages av et helsesertifikat for holdte landdyr dersom de skal flyttes fra en restriksjonssone og er underlagt tiltak for sykdomsbekjempelse som nevnt i artikkel 143 nr. 2,dyrene gis unntak fra kravet om helsesertifisering i henhold til artikkel 144 nr. 1 bokstav a), eller er underlagt særlige regler i henhold til artikkel 144 nr. 1 bokstav b),melding kreves i samsvar med delegerte rettsakter vedtatt i henhold til artikkel 154 nr. 1.
+Andre driftsansvarlige enn transportører skal på forhånd melde planlagte forflytninger av holdte landdyr fra medlemsstaten til en annen medlemsstat, til vedkommende myndighet i opprinnelsesmedlemsstaten dersom
+
+1. dyrene må ledsages av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten i samsvar med artikkel 149 og 150 og regler vedtatt i henhold til artikkel 149 nr. 4,
+2. dyrene må ledsages av et helsesertifikat for holdte landdyr dersom de skal flyttes fra en restriksjonssone og er underlagt tiltak for sykdomsbekjempelse som nevnt i artikkel 143 nr. 2,
+3. dyrene gis unntak fra kravet om helsesertifisering i henhold til artikkel 144 nr. 1 bokstav a), eller er underlagt særlige regler i henhold til artikkel 144 nr. 1 bokstav b),
+4. melding kreves i samsvar med delegerte rettsakter vedtatt i henhold til artikkel 154 nr. 1.
 
 Med henblikk på nr. 1 skal driftsansvarlig legge alle nødvendige opplysninger fram for vedkommende myndighet i opprinnelsesmedlemsstaten slik at den kan melde forflytninger av holdte landdyr til vedkommende myndighet i bestemmelsesstaten i samsvar med artikkel 153 nr. 1.
 
@@ -2426,9 +4038,25 @@ Vedkommende myndighets plikt til å melde forflytninger til andre medlemsstater
 
 Delegering av myndighet og gjennomføringsrettsakter som gjelder melding om forflytninger fra driftsansvarlige og vedkommende myndighet
 
-1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderkravet om at driftsansvarlige i samsvar med artikkel 152 på forhånd skal melde om forflytning mellom medlemsstater av holdte landdyr av andre arter eller kategorier enn dem som er nevnt i bokstav a) og b) i samme artikkel, dersom det er nødvendig å kunne spore forflytningen av nevnte arter eller kategorier for å sikre oppfyllelse av kravene til dyrehelse for forflytninger fastsatt i avsnitt 1–6 (artikkel 124–142),opplysningene som er nødvendige for å kunne melde om forflytninger av holdte landdyr i henhold til artikkel 152 og 153,nødrutiner for melding om forflytninger av holdte landdyr ved strømbrudd og andre forstyrrelser i TRACES,kravene i forbindelse med regioner som medlemsstatene utpeker til forvaltningen av meldingene om forflytning, som fastsatt i artikkel 153 nr. 3.
+1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
 
-2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler fornærmere opplysninger om meldinger om forflytning av holdte landdyr fradriftsansvarlige til vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 152,vedkommende myndighet i opprinnelsesstaten til bestemmelsesstaten i samsvar med artikkel 153,fristene fordriftsansvarliges framlegging av nødvendige opplysninger som nevnt i artikkel 152, for vedkommende myndighet i opprinnelsesstaten,meldingen om forflytning av holdte landdyr fra vedkommende myndighet i opprinnelsesstaten som nevnt i artikkel 153 nr. 1.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. kravet om at driftsansvarlige i samsvar med artikkel 152 på forhånd skal melde om forflytning mellom medlemsstater av holdte landdyr av andre arter eller kategorier enn dem som er nevnt i bokstav a) og b) i samme artikkel, dersom det er nødvendig å kunne spore forflytningen av nevnte arter eller kategorier for å sikre oppfyllelse av kravene til dyrehelse for forflytninger fastsatt i avsnitt 1–6 (artikkel 124–142),
+2. opplysningene som er nødvendige for å kunne melde om forflytninger av holdte landdyr i henhold til artikkel 152 og 153,
+3. nødrutiner for melding om forflytninger av holdte landdyr ved strømbrudd og andre forstyrrelser i TRACES,
+4. kravene i forbindelse med regioner som medlemsstatene utpeker til forvaltningen av meldingene om forflytning, som fastsatt i artikkel 153 nr. 3.
+
+2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for
+
+1. nærmere opplysninger om meldinger om forflytning av holdte landdyr fra
+
+   1. driftsansvarlige til vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med artikkel 152,
+   2. vedkommende myndighet i opprinnelsesstaten til bestemmelsesstaten i samsvar med artikkel 153,
+2. fristene for
+
+   1. driftsansvarliges framlegging av nødvendige opplysninger som nevnt i artikkel 152, for vedkommende myndighet i opprinnelsesstaten,
+   2. meldingen om forflytning av holdte landdyr fra vedkommende myndighet i opprinnelsesstaten som nevnt i artikkel 153 nr. 1.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### KAPITTEL 4
 
@@ -2438,7 +4066,13 @@ Forflytninger av viltlevende landdyr
 
 Viltlevende landdyr
 
-1\. Driftsansvarlige kan bare flytte viltlevende dyr fra et habitat i én medlemsstat til et habitat eller et anlegg i en annen medlemsstat dersomforflytningen av de aktuelle viltlevende dyrene fra deres habitat gjennomføres på en slik måte at den ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), eller nye sykdommer underveis eller på bestemmelsesstedet,de viltlevende dyrene ikke kommer fra et habitat i en restriksjonssone som er underlagt forflytningsrestriksjoner for den dyrearten de tilhører, på grunn av forekomsten av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d), eller av en ny sykdom som fastsatt i artikkel 70 nr. 2, og i eventuelle regler vedtatt i henhold til artikkel 70 nr. 3 bokstav b), artikkel 71 nr. 3 og artikkel 83 nr. 3, eller nødtiltakene fastsatt i artikkel 257 og 258 og eventuelle regler vedtatt i henhold til artikkel 259, med mindre det er gitt unntak i samsvar med disse reglene,de viltlevende dyrene ledsages av et helsesertifikat eller andre dokumenter i tilfeller der utstedelse av helsesertifikat er nødvendig for å sikre at kravene til dyrehelse for forflytninger, som fastsatt i bokstav a) og b) i dette nummeret og reglene vedtatt i henhold til artikkel 156 nr. 1 bokstav c) og d), er oppfylt,forflytningen meldes av vedkommende myndighet i opprinnelsesstaten til vedkommende myndighet i bestemmelsesstaten, dersom utstedelse av helsesertifikat kreves i samsvar med reglene vedtatt i henhold til artikkel 156 nr. 1 bokstav c), ogvedkommende myndighet i opprinnelsesstaten og vedkommende myndighet i bestemmelsesstaten er blitt enige om slik forflytning.
+1\. Driftsansvarlige kan bare flytte viltlevende dyr fra et habitat i én medlemsstat til et habitat eller et anlegg i en annen medlemsstat dersom
+
+1. forflytningen av de aktuelle viltlevende dyrene fra deres habitat gjennomføres på en slik måte at den ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), eller nye sykdommer underveis eller på bestemmelsesstedet,
+2. de viltlevende dyrene ikke kommer fra et habitat i en restriksjonssone som er underlagt forflytningsrestriksjoner for den dyrearten de tilhører, på grunn av forekomsten av en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d), eller av en ny sykdom som fastsatt i artikkel 70 nr. 2, og i eventuelle regler vedtatt i henhold til artikkel 70 nr. 3 bokstav b), artikkel 71 nr. 3 og artikkel 83 nr. 3, eller nødtiltakene fastsatt i artikkel 257 og 258 og eventuelle regler vedtatt i henhold til artikkel 259, med mindre det er gitt unntak i samsvar med disse reglene,
+3. de viltlevende dyrene ledsages av et helsesertifikat eller andre dokumenter i tilfeller der utstedelse av helsesertifikat er nødvendig for å sikre at kravene til dyrehelse for forflytninger, som fastsatt i bokstav a) og b) i dette nummeret og reglene vedtatt i henhold til artikkel 156 nr. 1 bokstav c) og d), er oppfylt,
+4. forflytningen meldes av vedkommende myndighet i opprinnelsesstaten til vedkommende myndighet i bestemmelsesstaten, dersom utstedelse av helsesertifikat kreves i samsvar med reglene vedtatt i henhold til artikkel 156 nr. 1 bokstav c), og
+5. vedkommende myndighet i opprinnelsesstaten og vedkommende myndighet i bestemmelsesstaten er blitt enige om slik forflytning.
 
 2\. Dersom utstedelse av helsesertifikat kreves i samsvar med reglene vedtatt i henhold til artikkel 156 nr. 1 bokstav c), skal kravene fastsatt i artikkel 145 og 148, artikkel 149 nr. 1, 2 og 3 og artikkel 150 og i reglene vedtatt i henhold til artikkel 146, 147 og artikkel 149 nr. 4, gjelde for forflytning av viltlevende landdyr.
 
@@ -2448,9 +4082,19 @@ Viltlevende landdyr
 
 Delegering av myndighet når det gjelder forflytning av viltlevende landdyr
 
-1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderkrav til dyrehelse ved forflytning av viltlevende landdyr i henhold til artikkel 155 nr. 1 bokstav a) og b),krav til dyrehelse ved innførsel av viltlevende landdyr som flyttes fra naturen til et anlegg,typer forflytning av viltlevende landdyr eller situasjoner der et helsesertifikat eller annet dokument skal ledsage forflytningen, og kravene med hensyn til innholdet i slike sertifikater eller andre dokumenter,meldingen fra vedkommende myndighet i opprinnelsesstaten til vedkommende myndighet i bestemmelsesstaten ved forflytning av viltlevende landdyr mellom medlemsstater, og de opplysningene som skal inngå i slik melding.
+1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
 
-2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for å angi kravene fastsatt i artikkel 155 og i delegerte rettsakter vedtatt i henhold til nr. 1 i denne artikkelen, omstandardskjemaene for helsesertifikater og andre dokumenter som skal ledsage forflytninger av viltlevende landdyr dersom dette er fastsatt i delegerte rettsakter vedtatt i henhold til nr. 1 bokstav c),nærmere opplysninger om meldingen fra vedkommende myndighet i opprinnelsesstaten og fristen for slike meldinger, dersom dette er fastsatt i regler vedtatt i samsvar med nr. 1 bokstav d).Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. krav til dyrehelse ved forflytning av viltlevende landdyr i henhold til artikkel 155 nr. 1 bokstav a) og b),
+2. krav til dyrehelse ved innførsel av viltlevende landdyr som flyttes fra naturen til et anlegg,
+3. typer forflytning av viltlevende landdyr eller situasjoner der et helsesertifikat eller annet dokument skal ledsage forflytningen, og kravene med hensyn til innholdet i slike sertifikater eller andre dokumenter,
+4. meldingen fra vedkommende myndighet i opprinnelsesstaten til vedkommende myndighet i bestemmelsesstaten ved forflytning av viltlevende landdyr mellom medlemsstater, og de opplysningene som skal inngå i slik melding.
+
+2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for å angi kravene fastsatt i artikkel 155 og i delegerte rettsakter vedtatt i henhold til nr. 1 i denne artikkelen, om
+
+1. standardskjemaene for helsesertifikater og andre dokumenter som skal ledsage forflytninger av viltlevende landdyr dersom dette er fastsatt i delegerte rettsakter vedtatt i henhold til nr. 1 bokstav c),
+2. nærmere opplysninger om meldingen fra vedkommende myndighet i opprinnelsesstaten og fristen for slike meldinger, dersom dette er fastsatt i regler vedtatt i samsvar med nr. 1 bokstav d).
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### KAPITTEL 5
 
@@ -2464,9 +4108,18 @@ Generelle krav
 
 Generelle krav til forflytning av avlsmateriale
 
-1\. Driftsansvarlige skal treffe hensiktsmessige forebyggende tiltak for å sikre at forflytning av avlsmateriale ikke setter helsestatusen hos holdte landdyr på bestemmelsesstedet i fare, med hensyn til følgende:De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d).Nye sykdommer.
+1\. Driftsansvarlige skal treffe hensiktsmessige forebyggende tiltak for å sikre at forflytning av avlsmateriale ikke setter helsestatusen hos holdte landdyr på bestemmelsesstedet i fare, med hensyn til følgende:
 
-2\. Driftsansvarlige skal bare flytte avlsmateriale fra sine anlegg og ta imot slikt avlsmateriale dersom det aktuelle materialet oppfyller følgende vilkår:Det kommer fra anlegg som er blittinnført av vedkommende myndighet i registeret over anlegg i samsvar med artikkel 93 første ledd bokstav a), og opprinnelsesstaten ikke har gitt unntak i samsvar med artikkel 85,godkjent av vedkommende myndighet i samsvar med artikkel 97 nr. 1, når slik godkjenning kreves i artikkel 94 nr. 1 eller artikkel 95.Det oppfyller sporbarhetskravene i artikkel 121 nr. 1 og eventuelle regler vedtatt i henhold til artikkel 122 nr. 1.
+1. De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d).
+2. Nye sykdommer.
+
+2\. Driftsansvarlige skal bare flytte avlsmateriale fra sine anlegg og ta imot slikt avlsmateriale dersom det aktuelle materialet oppfyller følgende vilkår:
+
+1. Det kommer fra anlegg som er blitt
+
+   1. innført av vedkommende myndighet i registeret over anlegg i samsvar med artikkel 93 første ledd bokstav a), og opprinnelsesstaten ikke har gitt unntak i samsvar med artikkel 85,
+   2. godkjent av vedkommende myndighet i samsvar med artikkel 97 nr. 1, når slik godkjenning kreves i artikkel 94 nr. 1 eller artikkel 95.
+2. Det oppfyller sporbarhetskravene i artikkel 121 nr. 1 og eventuelle regler vedtatt i henhold til artikkel 122 nr. 1.
 
 3\. Driftsansvarlige skal oppfylle kravene i artikkel 125 ved transport av avlsmateriale fra holdte landdyr.
 
@@ -2476,7 +4129,17 @@ Generelle krav til forflytning av avlsmateriale
 
 Plikter for driftsansvarlige på bestemmelsesstedet
 
-1\. Driftsansvarlige for anlegg på det bestemmelsesstedet som mottar avlsmateriale fra et anlegg i en annen medlemsstat, skal gjøre følgende:Sjekke at følgende er til stede:Merker i samsvar med artikkel 121 og med regler vedtatt i henhold til artikkel 122.Helsesertifikater i henhold til artikkel 161.Etter å ha kontrollert det mottatte avlsmaterialet, informere vedkommende myndighet på bestemmelsesstedet om eventuelle avvik med hensyn tildet mottatte avlsmaterialet,merkene nevnt i bokstav a) i),helsesertifikatene nevnt i bokstav a) ii).
+1\. Driftsansvarlige for anlegg på det bestemmelsesstedet som mottar avlsmateriale fra et anlegg i en annen medlemsstat, skal gjøre følgende:
+
+1. Sjekke at følgende er til stede:
+
+   1. Merker i samsvar med artikkel 121 og med regler vedtatt i henhold til artikkel 122.
+   2. Helsesertifikater i henhold til artikkel 161.
+2. Etter å ha kontrollert det mottatte avlsmaterialet, informere vedkommende myndighet på bestemmelsesstedet om eventuelle avvik med hensyn til
+
+   1. det mottatte avlsmaterialet,
+   2. merkene nevnt i bokstav a) i),
+   3. helsesertifikatene nevnt i bokstav a) ii).
 
 2\. Ved et avvik som nevnt i nr. 1 bokstav b) skal den berørte driftsansvarlige oppbevare avlsmaterialet atskilt inntil vedkommende myndighet har truffet beslutning om materialet.
 
@@ -2488,15 +4151,30 @@ Forflytning til andre medlemsstater av avlsmateriale fra holdt storfe og holdte 
 
 Driftsansvarliges plikter med hensyn til forflytning til andre medlemsstater av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe
 
-1\. Driftsansvarlige skal bare flytte avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe til en annen medlemsstat dersom avlsmaterialet oppfyller følgende vilkår:Det er tatt ut, produsert, bearbeidet og oppbevart i anlegg for avlsmateriale som er godkjent til dette formålet i samsvar med artikkel 97 nr. 1 og artikkel 99.Det er tatt ut fra donordyr som oppfyller de nødvendige kravene til dyrehelse for å sikre at avlsmaterialet ikke sprer listeførte sykdommer.Det er tatt ut, produsert, bearbeidet, oppbevart og transportert på en måte som sikrer at det ikke sprer listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d).
+1\. Driftsansvarlige skal bare flytte avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe til en annen medlemsstat dersom avlsmaterialet oppfyller følgende vilkår:
 
-2\. Driftsansvarlige skal ikke flytte avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe fra et anlegg for avlsmateriale som er underlagt forflytningsrestriksjoner, og som berører de aktuelle listeførte artene, i samsvar medartikkel 55 nr. 1 bokstav a), c) og e), artikkel 55 nr. 1 bokstav f) ii), artikkel 56, artikkel 61 nr. 1 bokstav a), artikkel 62 nr. 1, artikkel 65 nr. 1 bokstav c), artikkel 74 nr. 1, artikkel 79 og 80,regler vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2, ognødtiltak fastsatt i artikkel 257 og 258 og regler vedtatt i henhold til artikkel 259, med mindre regler vedtatt i henhold til artikkel 258 åpner for unntak.Restriksjonene fastsatt i dette nummeret skal ikke gjelde i tilfeller der avlsmaterialet er tatt ut før det aktuelle utbruddet inntraff og avlsmaterialet er blitt oppbevart atskilt fra annet avlsmateriale.
+1. Det er tatt ut, produsert, bearbeidet og oppbevart i anlegg for avlsmateriale som er godkjent til dette formålet i samsvar med artikkel 97 nr. 1 og artikkel 99.
+2. Det er tatt ut fra donordyr som oppfyller de nødvendige kravene til dyrehelse for å sikre at avlsmaterialet ikke sprer listeførte sykdommer.
+3. Det er tatt ut, produsert, bearbeidet, oppbevart og transportert på en måte som sikrer at det ikke sprer listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d).
+
+2\. Driftsansvarlige skal ikke flytte avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe fra et anlegg for avlsmateriale som er underlagt forflytningsrestriksjoner, og som berører de aktuelle listeførte artene, i samsvar med
+
+1. artikkel 55 nr. 1 bokstav a), c) og e), artikkel 55 nr. 1 bokstav f) ii), artikkel 56, artikkel 61 nr. 1 bokstav a), artikkel 62 nr. 1, artikkel 65 nr. 1 bokstav c), artikkel 74 nr. 1, artikkel 79 og 80,
+2. regler vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2, og
+3. nødtiltak fastsatt i artikkel 257 og 258 og regler vedtatt i henhold til artikkel 259, med mindre regler vedtatt i henhold til artikkel 258 åpner for unntak.
+
+Restriksjonene fastsatt i dette nummeret skal ikke gjelde i tilfeller der avlsmaterialet er tatt ut før det aktuelle utbruddet inntraff og avlsmaterialet er blitt oppbevart atskilt fra annet avlsmateriale.
 
 ###### Artikkel 160
 
 Delegering av myndighet med hensyn til forflytning til andre medlemsstater av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr og avlsmateriale fra fjørfe
 
-1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder krav til dyrehelse ved forflytning av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale av fjørfe til andre medlemsstater som fastsatt i artikkel 159, som angir følgende:Regler for uttak, produksjon, bearbeiding og oppbevaring av avlsmateriale fra nevnte holdte dyr i godkjente anlegg som nevnt i artikkel 159 nr. 1 bokstav a).Krav til dyrehelse i henhold til artikkel 159 nr. 1 bokstav b) til holdte donordyr som avlsmaterialet er tatt ut fra, og med hensyn til isolasjon eller karantene for slike dyr.Laboratorieundersøkelser og andre tester som skal utføres på holdte donordyr og avlsmateriale.Krav til dyrehelse ved uttak, produksjon, bearbeiding, oppbevaring eller andre prosedyrer og transport i henhold til artikkel 159 nr. 1 bokstav c).
+1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder krav til dyrehelse ved forflytning av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale av fjørfe til andre medlemsstater som fastsatt i artikkel 159, som angir følgende:
+
+1. Regler for uttak, produksjon, bearbeiding og oppbevaring av avlsmateriale fra nevnte holdte dyr i godkjente anlegg som nevnt i artikkel 159 nr. 1 bokstav a).
+2. Krav til dyrehelse i henhold til artikkel 159 nr. 1 bokstav b) til holdte donordyr som avlsmaterialet er tatt ut fra, og med hensyn til isolasjon eller karantene for slike dyr.
+3. Laboratorieundersøkelser og andre tester som skal utføres på holdte donordyr og avlsmateriale.
+4. Krav til dyrehelse ved uttak, produksjon, bearbeiding, oppbevaring eller andre prosedyrer og transport i henhold til artikkel 159 nr. 1 bokstav c).
 
 2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til kravene til dyrehelse for forflytning av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe til andre medlemsstater i henhold til artikkel 159, for å angi unntak fra reglene fastsatt i artikkel 159 for driftsansvarlige, idet det tas hensyn til risikoene forbundet med slikt avlsmateriale og eventuelle risikoreduserende tiltak som er innført.
 
@@ -2510,7 +4188,14 @@ Driftsansvarliges plikter med hensyn til utstedelse av helsesertifikater ved for
 
 1\. Driftsansvarlige kan bare flytte avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe til en annen medlemsstat dersom slikt materiale ledsages av et helsesertifikat som er utstedt av vedkommende myndighet i opprinnelsesstaten i samsvar med nr. 3.
 
-2\. Når avlsmateriale fra holdte dyr tillates å forlate en restriksjonssone som omfattes avtiltak for sykdomsbekjempelse i henhold til artikkel 55 nr. 1 bokstav f) ii), artikkel 56, 64, 65, artikkel 74 nr. 1 og artikkel 79, og reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 67, artikkel 71 nr. 3, artikkel 74 nr. 4, artikkel 83 nr. 2, ellernødtiltakene fastsatt i artikkel 257 og 258 og reglene vedtatt i henhold til artikkel 259,og dette avlsmaterialet er fra arter som er underlagt nevnte tiltak for sykdomsbekjempelse eller nødtiltak, skal driftsansvarlige bare flytte avlsmaterialet innenfor en medlemsstat eller fra én medlemsstat til en annen medlemsstat dersom det ledsages av et helsesertifikat som er utstedt av vedkommende myndighet i opprinnelsesstaten, i samsvar med artikkel 149 nr. 1, med mindre det er gitt unntak fra kravet til utstedelse av helsesertifikater i samsvar med reglene nevnt i dette leddet.Vedkommende myndighet kan beslutte at et slikt sertifikat ikke trenger å bli utstedt for forflytning av avlsmateriale innenfor den aktuelle medlemsstaten når myndigheten anser at et alternativt system sikrer at forsendelsen av slikt avlsmateriale er sporbar, og at avlsmaterialet oppfyller kravene til dyrehelse for slik forflytning.
+2\. Når avlsmateriale fra holdte dyr tillates å forlate en restriksjonssone som omfattes av
+
+1. tiltak for sykdomsbekjempelse i henhold til artikkel 55 nr. 1 bokstav f) ii), artikkel 56, 64, 65, artikkel 74 nr. 1 og artikkel 79, og reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 67, artikkel 71 nr. 3, artikkel 74 nr. 4, artikkel 83 nr. 2, eller
+2. nødtiltakene fastsatt i artikkel 257 og 258 og reglene vedtatt i henhold til artikkel 259,
+
+og dette avlsmaterialet er fra arter som er underlagt nevnte tiltak for sykdomsbekjempelse eller nødtiltak, skal driftsansvarlige bare flytte avlsmaterialet innenfor en medlemsstat eller fra én medlemsstat til en annen medlemsstat dersom det ledsages av et helsesertifikat som er utstedt av vedkommende myndighet i opprinnelsesstaten, i samsvar med artikkel 149 nr. 1, med mindre det er gitt unntak fra kravet til utstedelse av helsesertifikater i samsvar med reglene nevnt i dette leddet.
+
+Vedkommende myndighet kan beslutte at et slikt sertifikat ikke trenger å bli utstedt for forflytning av avlsmateriale innenfor den aktuelle medlemsstaten når myndigheten anser at et alternativt system sikrer at forsendelsen av slikt avlsmateriale er sporbar, og at avlsmaterialet oppfyller kravene til dyrehelse for slik forflytning.
 
 3\. Driftsansvarlige skal treffe alle nødvendige tiltak for å sikre at helsesertifikatet nevnt i nr. 1 ledsager avlsmaterialet fra opprinnelses- til bestemmelsesstedet.
 
@@ -2518,13 +4203,25 @@ Driftsansvarliges plikter med hensyn til utstedelse av helsesertifikater ved for
 
 5\. Artikkel 148, 149 og 150 og reglene vedtatt i henhold til artikkel 146, 147 og artikkel 149 nr. 4 får anvendelse på utstedelse av helsesertifikater for avlsmaterialene nevnt i nr. 1. Artikkel 151 nr. 1 og reglene vedtatt i henhold til artikkel 151 nr. 3 får anvendelse på egenerklæringen om forflytninger av avlsmateriale.
 
-6\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til unntakene fra kravene til helsesertifikat som fastsatt i nr. 1, med hensyn til forflytning av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe som ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer, på grunn avtypen avlsmateriale eller dyreartene avlsmaterialet kommer fra,metodene for produksjon og bearbeiding i anlegget for avlsmateriale,den tiltenkte bruken av avlsmaterialet,alternative risikoreduserende tiltak som er innført for typen og kategorien avlsmateriale og anlegget for avlsmateriale,bestemmelsesstedet for avlsmaterialet når det bestemmelsesstedet er i samme medlemsstat som opprinnelsesstedet, men der avlsmaterialet må passere gjennom en annen medlemsstat for å ankomme bestemmelsesstedet.
+6\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til unntakene fra kravene til helsesertifikat som fastsatt i nr. 1, med hensyn til forflytning av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe som ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer, på grunn av
+
+1. typen avlsmateriale eller dyreartene avlsmaterialet kommer fra,
+2. metodene for produksjon og bearbeiding i anlegget for avlsmateriale,
+3. den tiltenkte bruken av avlsmaterialet,
+4. alternative risikoreduserende tiltak som er innført for typen og kategorien avlsmateriale og anlegget for avlsmateriale,
+5. bestemmelsesstedet for avlsmaterialet når det bestemmelsesstedet er i samme medlemsstat som opprinnelsesstedet, men der avlsmaterialet må passere gjennom en annen medlemsstat for å ankomme bestemmelsesstedet.
 
 ###### Artikkel 162
 
 Innholdet i helsesertifikatene
 
-1\. Helsesertifikatet for avlsmateriale fastsatt i artikkel 161 skal inneholde minst følgende opplysninger:Opprinnelsesanlegget for avlsmaterialet og bestemmelsesanlegget eller -stedet.Typen avlsmateriale og artene av holdte donordyr.Mengden avlsmateriale eller antall.Merkingen av avlsmaterialet dersom dette kreves i henhold til artikkel 121 nr. 1 og eventuelle regler vedtatt i henhold til artikkel 122 nr. 1.Opplysningene som er nødvendige for å vise at avlsmaterialet i forsendelsen oppfyller kravene til forflytning for den berørte arten som fastsatt i artikkel 157 og 159, og i eventuelle regler vedtatt i henhold til artikkel 160.
+1\. Helsesertifikatet for avlsmateriale fastsatt i artikkel 161 skal inneholde minst følgende opplysninger:
+
+1. Opprinnelsesanlegget for avlsmaterialet og bestemmelsesanlegget eller -stedet.
+2. Typen avlsmateriale og artene av holdte donordyr.
+3. Mengden avlsmateriale eller antall.
+4. Merkingen av avlsmaterialet dersom dette kreves i henhold til artikkel 121 nr. 1 og eventuelle regler vedtatt i henhold til artikkel 122 nr. 1.
+5. Opplysningene som er nødvendige for å vise at avlsmaterialet i forsendelsen oppfyller kravene til forflytning for den berørte arten som fastsatt i artikkel 157 og 159, og i eventuelle regler vedtatt i henhold til artikkel 160.
 
 2\. Helsesertifikatet for avlsmateriale som fastsatt i artikkel 161 kan inneholde andre opplysninger som kreves i samsvar med annet unionsregelverk.
 
@@ -2538,7 +4235,13 @@ Innholdet i helsesertifikatene
 
 Melding om forflytning til andre medlemsstater av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe
 
-1\. Driftsansvarlige skalinformere vedkommende myndighet i opprinnelsesmedlemsstaten før den planlagte forflytningen av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe til en annen medlemsstat gjennomføres, dersomdet berørte avlsmaterialet skal være ledsaget av et helsesertifikat i samsvar med artikkel 161 nr. 1 eller 2,melding om forflytning kreves i samsvar med delegerte rettsakter vedtatt i henhold til nr. 5 bokstav a) for avlsmateriale, idet det tas hensyn til nr. 3,legge fram alle nødvendige opplysninger slik at vedkommende myndighet i opprinnelsesstaten kan melde forflytningen av avlsmateriale til vedkommende myndighet i bestemmelsesstaten i samsvar med nr. 2.
+1\. Driftsansvarlige skal
+
+1. informere vedkommende myndighet i opprinnelsesmedlemsstaten før den planlagte forflytningen av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe til en annen medlemsstat gjennomføres, dersom
+
+   1. det berørte avlsmaterialet skal være ledsaget av et helsesertifikat i samsvar med artikkel 161 nr. 1 eller 2,
+   2. melding om forflytning kreves i samsvar med delegerte rettsakter vedtatt i henhold til nr. 5 bokstav a) for avlsmateriale, idet det tas hensyn til nr. 3,
+2. legge fram alle nødvendige opplysninger slik at vedkommende myndighet i opprinnelsesstaten kan melde forflytningen av avlsmateriale til vedkommende myndighet i bestemmelsesstaten i samsvar med nr. 2.
 
 2\. Vedkommende myndighet i opprinnelsesstaten skal, før den aktuelle forflytningen og om mulig gjennom TRACES, melde til vedkommende myndighet i bestemmelsesstaten om enhver forflytning av avlsmateriale fra holdt storfe og holdte sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe i samsvar med reglene vedtatt i henhold til nr. 5 og 6.
 
@@ -2546,9 +4249,22 @@ Melding om forflytning til andre medlemsstater av avlsmateriale fra holdt storfe
 
 4\. Artikkel 153 nr. 4 får anvendelse på driftsansvarliges meldinger om avlsmateriale.
 
-5\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderkravet om at driftsansvarlige i samsvar med nr. 1 bokstav a) ii) på forhånd skal melde om forflytning av avlsmateriale mellom medlemsstatene dersom det er nødvendig å kunne spore forflytningen for å sikre oppfyllelse av kravene til dyrehelse for forflytninger fastsatt i avsnitt 1 og 2 (artikkel 157–160),de opplysningene som er nødvendige for å melde forflytning av avlsmateriale i henhold til nr. 1,nødrutiner for melding om forflytninger av avlsmateriale ved strømbrudd og andre forstyrrelser i TRACES.
+5\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
 
-6\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler forframlegging av opplysninger om forflytning av avlsmateriale fra driftsansvarlige til vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med nr. 1,melding om forflytning av avlsmateriale fra vedkommende myndighet i opprinnelsesstaten til bestemmelsesstaten i samsvar med nr. 2,fristene forDriftsansvarliges framlegging av opplysningene nevnt i nr. 1 for vedkommende myndighet i opprinnelsesstaten,melding om forflytning av avlsmateriale fra vedkommende myndighet i opprinnelsesstaten som nevnt i nr. 2.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. kravet om at driftsansvarlige i samsvar med nr. 1 bokstav a) ii) på forhånd skal melde om forflytning av avlsmateriale mellom medlemsstatene dersom det er nødvendig å kunne spore forflytningen for å sikre oppfyllelse av kravene til dyrehelse for forflytninger fastsatt i avsnitt 1 og 2 (artikkel 157–160),
+2. de opplysningene som er nødvendige for å melde forflytning av avlsmateriale i henhold til nr. 1,
+3. nødrutiner for melding om forflytninger av avlsmateriale ved strømbrudd og andre forstyrrelser i TRACES.
+
+6\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for
+
+1. framlegging av opplysninger om forflytning av avlsmateriale fra driftsansvarlige til vedkommende myndighet i opprinnelsesmedlemsstaten i samsvar med nr. 1,
+2. melding om forflytning av avlsmateriale fra vedkommende myndighet i opprinnelsesstaten til bestemmelsesstaten i samsvar med nr. 2,
+3. fristene for
+
+   1. Driftsansvarliges framlegging av opplysningene nevnt i nr. 1 for vedkommende myndighet i opprinnelsesstaten,
+   2. melding om forflytning av avlsmateriale fra vedkommende myndighet i opprinnelsesstaten som nevnt i nr. 2.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Avsnitt 4
 
@@ -2560,9 +4276,18 @@ Avlsmateriale fra andre holdte landdyr enn storfe og sauer, geiter, svin og hest
 
 1\. Driftsansvarlige skal bare flytte avlsmateriale fra andre holdte landdyr enn storfe, sauer, geiter, svin og hestedyr samt avlsmateriale fra fjørfe til en annen medlemsstat dersom nevnte avlsmateriale ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til listeførte arter på bestemmelsesstedet, idet det tas hensyn til helsestatus på bestemmelsesstedet.
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til krav til dyrehelse, utstedelse av helsesertifikat og meldingskrav ved forflytning av avlsmateriale fra andre holdte landdyr enn storfe, sauer, geiter, svin og hestedyr samt avlsmateriale fra fjærfe, idet det tas hensyn til følgende forhold:Listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d) for de berørte listeførte artene.Dyreartene som avlsmaterialet er tatt ut fra, og typen avlsmateriale.Helsestatus på opprinnelses- og bestemmelsesstedet.Typen uttak, produksjon, bearbeiding og oppbevaring.Andre epidemiologiske faktorer.
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til krav til dyrehelse, utstedelse av helsesertifikat og meldingskrav ved forflytning av avlsmateriale fra andre holdte landdyr enn storfe, sauer, geiter, svin og hestedyr samt avlsmateriale fra fjærfe, idet det tas hensyn til følgende forhold:
 
-3\. Dersom utstedelse av helsesertifikater og meldinger om forflytning av avlsmateriale kreves i samsvar med nr. 2,skal reglene fastsatt i artikkel 161 nr. 1–5, artikkel 162 nr. 1 og 2 og reglene vedtatt i henhold til artikkel 161 nr. 6 og artikkel 162 nr. 3–5 gjelde for slik utstedelse av helsesertifikat,skal reglene fastsatt i artikkel 163 nr. 1, 2 og 4 og reglene vedtatt i henhold til artikkel 163 nr. 5 gjelde for melding om forflytning.
+1. Listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d) for de berørte listeførte artene.
+2. Dyreartene som avlsmaterialet er tatt ut fra, og typen avlsmateriale.
+3. Helsestatus på opprinnelses- og bestemmelsesstedet.
+4. Typen uttak, produksjon, bearbeiding og oppbevaring.
+5. Andre epidemiologiske faktorer.
+
+3\. Dersom utstedelse av helsesertifikater og meldinger om forflytning av avlsmateriale kreves i samsvar med nr. 2,
+
+1. skal reglene fastsatt i artikkel 161 nr. 1–5, artikkel 162 nr. 1 og 2 og reglene vedtatt i henhold til artikkel 161 nr. 6 og artikkel 162 nr. 3–5 gjelde for slik utstedelse av helsesertifikat,
+2. skal reglene fastsatt i artikkel 163 nr. 1, 2 og 4 og reglene vedtatt i henhold til artikkel 163 nr. 5 gjelde for melding om forflytning.
 
 ###### Avsnitt 5
 
@@ -2574,7 +4299,14 @@ Avlsmateriale for vitenskapelige formål, og delegerte rettsakter
 
 1\. Med forbehold for samtykke fra vedkommende myndighet på opprinnelsesstedet kan vedkommende myndighet på bestemmelsesstedet tillate forflytning for vitenskapelige formål av avlsmateriale til bestemmelsesmedlemsstatens territorium, selv om forflytningen ikke oppfyller kravene i artikkel 159–164.
 
-2\. Vedkommende myndighet skal bare gi unntak i henhold til nr. 1 på følgende vilkår:Vedkommende myndigheter på opprinnelses- og bestemmelsesstedeter blitt enige om vilkårene for de foreslåtte forflytningene,har sikret at nødvendige risikoreduserende tiltak er innført slik at forflytningen ikke setter helsestatusen i fare på steder underveis og på bestemmelsesstedet med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),når det er relevant, har meldt til vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom, om det unntaket som er gitt og på hvilke vilkår det er gitt.Forflytningen finner sted under tilsyn av vedkommende myndigheter på opprinnelses- og bestemmelsesstedet og eventuelt vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom.
+2\. Vedkommende myndighet skal bare gi unntak i henhold til nr. 1 på følgende vilkår:
+
+1. Vedkommende myndigheter på opprinnelses- og bestemmelsesstedet
+
+   1. er blitt enige om vilkårene for de foreslåtte forflytningene,
+   2. har sikret at nødvendige risikoreduserende tiltak er innført slik at forflytningen ikke setter helsestatusen i fare på steder underveis og på bestemmelsesstedet med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),
+   3. når det er relevant, har meldt til vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom, om det unntaket som er gitt og på hvilke vilkår det er gitt.
+2. Forflytningen finner sted under tilsyn av vedkommende myndigheter på opprinnelses- og bestemmelsesstedet og eventuelt vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom.
 
 3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til regler for unntak som gis av vedkommende myndigheter, og som utfyller reglene fastsatt i nr. 1 og 2.
 
@@ -2586,19 +4318,42 @@ Produksjon, bearbeiding og distribusjon i Unionen av produkter av animalsk oppri
 
 Generelle dyrehelsemessige forpliktelser for driftsansvarlige, og delegerte rettsakter
 
-1\. Driftsansvarlige skal treffe hensiktsmessige forebyggende tiltak for å sikre at produkter av animalsk opprinnelse ikke på noe stadium i produksjonen, bearbeidingen eller distribusjonen i Unionen, forårsaker spredning av følgende:Listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d) idet det tas hensyn til helsestatus på produksjons-, bearbeidings- eller bestemmelsesstedet.Nye sykdommer.
+1\. Driftsansvarlige skal treffe hensiktsmessige forebyggende tiltak for å sikre at produkter av animalsk opprinnelse ikke på noe stadium i produksjonen, bearbeidingen eller distribusjonen i Unionen, forårsaker spredning av følgende:
 
-2\. Driftsansvarlige skal sikre at produkter av animalsk opprinnelse ikke kommer fra anlegg eller næringsmiddelforetak, eller innhentes fra dyr som kommer fra anlegg som er omfattet av følgende:Nødtiltakene fastsatt i artikkel 257 og 258 og eventuelle regler vedtatt i henhold til artikkel 259 med mindre reglene vedtatt i henhold til artikkel 259 åpner for unntak fra kravet fastsatt i nr. 1.Forflytningsrestriksjoner som gjelder for holdte landdyr og produkter av animalsk opprinnelse i henhold til artikkel 32 nr. 1 bokstav c), artikkel 55 nr. 1 bokstav e), artikkel 56, artikkel 61 nr. 1 bokstav a), artikkel 62 nr. 1, artikkel 65 nr. 1 bokstav c), artikkel 70 nr. 1 bokstav b), artikkel 74 nr. 1 bokstav a), artikkel 76 nr. 2 bokstav b), artikkel 76 nr. 3, artikkel 79 og 81, artikkel 82 nr. 2 og 3 og i reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 70 nr. 3, artikkel 71 nr. 3, artikkel 74 nr. 4, artikkel 76 nr. 5 og artikkel 83 nr. 2, med mindre unntak fra disse forflytningsrestriksjonene er gitt i samsvar med nevnte regler.
+1. Listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d) idet det tas hensyn til helsestatus på produksjons-, bearbeidings- eller bestemmelsesstedet.
+2. Nye sykdommer.
 
-3\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med detaljerte krav som utfyller kravene nevnt inr. 1 om forebyggende tiltak, herunder risikoreduserende tiltak, ognr. 2 om restriksjoner på forflytning av produkter av animalsk opprinnelse.
+2\. Driftsansvarlige skal sikre at produkter av animalsk opprinnelse ikke kommer fra anlegg eller næringsmiddelforetak, eller innhentes fra dyr som kommer fra anlegg som er omfattet av følgende:
 
-4\. Når Kommisjonen vedtar de delegerte rettsaktene nevnt i nr. 3, skal følgende kriterier legges til grunn:Den aktuelle listeførte sykdommen som nevnt i artikkel 9 nr. 1 bokstav d), og de artene som berøres av sykdommen.De tilknyttede risikoene.
+1. Nødtiltakene fastsatt i artikkel 257 og 258 og eventuelle regler vedtatt i henhold til artikkel 259 med mindre reglene vedtatt i henhold til artikkel 259 åpner for unntak fra kravet fastsatt i nr. 1.
+2. Forflytningsrestriksjoner som gjelder for holdte landdyr og produkter av animalsk opprinnelse i henhold til artikkel 32 nr. 1 bokstav c), artikkel 55 nr. 1 bokstav e), artikkel 56, artikkel 61 nr. 1 bokstav a), artikkel 62 nr. 1, artikkel 65 nr. 1 bokstav c), artikkel 70 nr. 1 bokstav b), artikkel 74 nr. 1 bokstav a), artikkel 76 nr. 2 bokstav b), artikkel 76 nr. 3, artikkel 79 og 81, artikkel 82 nr. 2 og 3 og i reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 70 nr. 3, artikkel 71 nr. 3, artikkel 74 nr. 4, artikkel 76 nr. 5 og artikkel 83 nr. 2, med mindre unntak fra disse forflytningsrestriksjonene er gitt i samsvar med nevnte regler.
+
+3\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med detaljerte krav som utfyller kravene nevnt i
+
+1. nr. 1 om forebyggende tiltak, herunder risikoreduserende tiltak, og
+2. nr. 2 om restriksjoner på forflytning av produkter av animalsk opprinnelse.
+
+4\. Når Kommisjonen vedtar de delegerte rettsaktene nevnt i nr. 3, skal følgende kriterier legges til grunn:
+
+1. Den aktuelle listeførte sykdommen som nevnt i artikkel 9 nr. 1 bokstav d), og de artene som berøres av sykdommen.
+2. De tilknyttede risikoene.
 
 ###### Artikkel 167
 
 Driftsansvarliges plikter med hensyn til helsesertifikater, og delegerte rettsakter
 
-1\. Driftsansvarlige skal bare flytte følgende produkter av animalsk opprinnelse innenfor en medlemsstat eller til en annen medlemsstat dersom disse produktene ledsages av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten, i samsvar med nr. 3:Produkter av animalsk opprinnelse somtillates flyttet fra en restriksjonssone som omfattes av nødtiltak som fastsatt i regler vedtatt i henhold til artikkel 259,kommer fra dyrearter som er gjenstand for nevnte nødtiltak.Produkter av animalsk opprinnelse somtillates flyttet fra en restriksjonssone som omfattes av tiltak for sykdomsbekjempelse i samsvar med artikkel 32 nr. 1, artikkel 55 nr. 1 bokstav f) ii), artikkel 56, artikkel 61 nr. 1 bokstav a), artikkel 62 nr. 1, artikkel 64, artikkel 65 nr. 1 bokstav c), artikkel 70 nr. 1 bokstav b), artikkel 74 nr. 1 bokstav a), artikkel 79 og 80 og eventuelle regler vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2,kommer fra dyrearter som er gjenstand for nevnte tiltak for sykdomsbekjempelse.Vedkommende myndighet kan beslutte at et slikt sertifikat ikke trenger å bli utstedt for forflytning av produkter av animalsk opprinnelse innenfor den aktuelle medlemsstaten når myndigheten anser at et alternativt system sikrer at forsendelsen av slike produkter er sporbar, og at disse produktene oppfyller kravene til dyrehelse for slike forflytninger.
+1\. Driftsansvarlige skal bare flytte følgende produkter av animalsk opprinnelse innenfor en medlemsstat eller til en annen medlemsstat dersom disse produktene ledsages av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten, i samsvar med nr. 3:
+
+1. Produkter av animalsk opprinnelse som
+
+   1. tillates flyttet fra en restriksjonssone som omfattes av nødtiltak som fastsatt i regler vedtatt i henhold til artikkel 259,
+   2. kommer fra dyrearter som er gjenstand for nevnte nødtiltak.
+2. Produkter av animalsk opprinnelse som
+
+   1. tillates flyttet fra en restriksjonssone som omfattes av tiltak for sykdomsbekjempelse i samsvar med artikkel 32 nr. 1, artikkel 55 nr. 1 bokstav f) ii), artikkel 56, artikkel 61 nr. 1 bokstav a), artikkel 62 nr. 1, artikkel 64, artikkel 65 nr. 1 bokstav c), artikkel 70 nr. 1 bokstav b), artikkel 74 nr. 1 bokstav a), artikkel 79 og 80 og eventuelle regler vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2,
+   2. kommer fra dyrearter som er gjenstand for nevnte tiltak for sykdomsbekjempelse.
+
+Vedkommende myndighet kan beslutte at et slikt sertifikat ikke trenger å bli utstedt for forflytning av produkter av animalsk opprinnelse innenfor den aktuelle medlemsstaten når myndigheten anser at et alternativt system sikrer at forsendelsen av slike produkter er sporbar, og at disse produktene oppfyller kravene til dyrehelse for slike forflytninger.
 
 2\. Driftsansvarlige skal treffe alle nødvendige tiltak for å sikre at heygienesertifikatet nevnt i nr. 1 ledsager produktene av animalsk opprinnelse fra opprinnelses- til bestemmelsesstedet.
 
@@ -2606,13 +4361,24 @@ Driftsansvarliges plikter med hensyn til helsesertifikater, og delegerte rettsak
 
 4\. Artikkel 148, 149 og 150 og reglene vedtatt i henhold til artikkel 146, 147 og artikkel 149 nr. 4 får anvendelse på utstedelse av helsesertifikat for forflytninger av produkter av animalsk opprinnelse som nevnt i nr. 1.
 
-5\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder unntakene fra kravene til helsesertifikat som fastsatt i nr. 1 og vilkårene for slike unntak, med hensyn til forflytninger av produkter av animalsk opprinnelse som ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer på grunn avde typene produkter av animalsk opprinnelse dette gjelder,risikoreduserende tiltak som benyttes for produktene av animalsk opprinnelse, som reduserer risikoen for spredning av sykdommer,den tiltenkte bruken av produktene av animalsk opprinnelse,bestemmelsesstedet for produktene av animalsk opprinnelse.
+5\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder unntakene fra kravene til helsesertifikat som fastsatt i nr. 1 og vilkårene for slike unntak, med hensyn til forflytninger av produkter av animalsk opprinnelse som ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer på grunn av
+
+1. de typene produkter av animalsk opprinnelse dette gjelder,
+2. risikoreduserende tiltak som benyttes for produktene av animalsk opprinnelse, som reduserer risikoen for spredning av sykdommer,
+3. den tiltenkte bruken av produktene av animalsk opprinnelse,
+4. bestemmelsesstedet for produktene av animalsk opprinnelse.
 
 ###### Artikkel 168
 
 Innholdet i helsesertifikater, og delegerte rettsakter og gjennomføringsrettsakter
 
-1\. Helsesertifikatet for produkter av animalsk opprinnelse fastsatt i artikkel 167 nr. 1 skal inneholde minst følgende opplysninger:Opprinnelsesanlegget eller -stedet og bestemmelsesanlegget eller -stedet.En beskrivelse av de produktene av animalsk opprinnelse dette gjelder.Mengden produkter av animalsk opprinnelse.Identifikasjon av produktene av animalsk opprinnelse dersom dette kreves i henhold til artikkel 65 nr. 1 bokstav h) eller i eventuelle regler vedtatt i henhold til artikkel 67 annet ledd bokstav a).Opplysningene som er nødvendige for å vise at produktene av animalsk opprinnelse oppfyller kravene med hensyn til forflytningsrestriksjoner i henhold til artikkel 166 nr. 2, og eventuelle regler vedtatt i henhold til artikkel 166 nr. 3.
+1\. Helsesertifikatet for produkter av animalsk opprinnelse fastsatt i artikkel 167 nr. 1 skal inneholde minst følgende opplysninger:
+
+1. Opprinnelsesanlegget eller -stedet og bestemmelsesanlegget eller -stedet.
+2. En beskrivelse av de produktene av animalsk opprinnelse dette gjelder.
+3. Mengden produkter av animalsk opprinnelse.
+4. Identifikasjon av produktene av animalsk opprinnelse dersom dette kreves i henhold til artikkel 65 nr. 1 bokstav h) eller i eventuelle regler vedtatt i henhold til artikkel 67 annet ledd bokstav a).
+5. Opplysningene som er nødvendige for å vise at produktene av animalsk opprinnelse oppfyller kravene med hensyn til forflytningsrestriksjoner i henhold til artikkel 166 nr. 2, og eventuelle regler vedtatt i henhold til artikkel 166 nr. 3.
 
 2\. Helsesertifikatet nevnt i nr. 1 kan inneholde andre opplysninger som kreves i samsvar med annet unionsregelverk.
 
@@ -2624,7 +4390,10 @@ Innholdet i helsesertifikater, og delegerte rettsakter og gjennomføringsrettsak
 
 Melding om forflytninger av produkter av animalsk opprinnelse til andre medlemsstater
 
-1\. Driftsansvarlige skalinformere vedkommende myndighet i opprinnelsesmedlemsstaten før en planlagt forflytning av produkter av animalsk opprinnelse gjennomføres, dersom den aktuelle forsendelsen skal være ledsaget av et helsesertifikat i samsvar med artikkel 167 nr. 1,legge fram alle nødvendige opplysninger slik at vedkommende myndighet i opprinnelsesstaten kan melde den aktuelle forflytningen til vedkommende myndighet i bestemmelsesstaten i samsvar med nr. 2.
+1\. Driftsansvarlige skal
+
+1. informere vedkommende myndighet i opprinnelsesmedlemsstaten før en planlagt forflytning av produkter av animalsk opprinnelse gjennomføres, dersom den aktuelle forsendelsen skal være ledsaget av et helsesertifikat i samsvar med artikkel 167 nr. 1,
+2. legge fram alle nødvendige opplysninger slik at vedkommende myndighet i opprinnelsesstaten kan melde den aktuelle forflytningen til vedkommende myndighet i bestemmelsesstaten i samsvar med nr. 2.
 
 2\. Vedkommende myndighet i opprinnelsesstaten skal, før forflytningen og om mulig gjennom TRACES, melde til vedkommende myndighet i bestemmelsesstaten om forflytninger av produkter av animalsk opprinnelse i samsvar med reglene vedtatt i henhold til nr. 5 og 6.
 
@@ -2632,9 +4401,21 @@ Melding om forflytninger av produkter av animalsk opprinnelse til andre medlemss
 
 4\. Artikkel 153 nr. 4 får anvendelse på driftsansvarliges melding om forflytninger av produkter av animalsk opprinnelse.
 
-5\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderde opplysningene som er nødvendige for melding om forflytninger av produkter av animalsk opprinnelse i henhold til nr. 1,nødrutiner for melding om forflytninger av produkter av animalsk opprinnelse ved strømbrudd og andre forstyrrelser i TRACES.
+5\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
 
-6\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler forde opplysningene som driftsansvarlige skal legge fram for vedkommende myndigheter i opprinnelsesmedlemsstaten, om forflytninger av produkter av animalsk opprinnelse i samsvar med nr. 1,melding om forflytninger av produkter av animalsk opprinnelse som vedkommende myndighet i opprinnelsesstaten skal gi til bestemmelsesstaten i samsvar med nr. 2,fristene forden berørte driftsansvarliges framlegging av opplysningene nevnt i nr. 1, til vedkommende myndighet i opprinnelsesstaten,melding om forflytninger av produkter av animalsk opprinnelse som vedkommende myndighet i opprinnelsesstaten skal gi i samsvar med nr. 2.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. de opplysningene som er nødvendige for melding om forflytninger av produkter av animalsk opprinnelse i henhold til nr. 1,
+2. nødrutiner for melding om forflytninger av produkter av animalsk opprinnelse ved strømbrudd og andre forstyrrelser i TRACES.
+
+6\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for
+
+1. de opplysningene som driftsansvarlige skal legge fram for vedkommende myndigheter i opprinnelsesmedlemsstaten, om forflytninger av produkter av animalsk opprinnelse i samsvar med nr. 1,
+2. melding om forflytninger av produkter av animalsk opprinnelse som vedkommende myndighet i opprinnelsesstaten skal gi til bestemmelsesstaten i samsvar med nr. 2,
+3. fristene for
+
+   1. den berørte driftsansvarliges framlegging av opplysningene nevnt i nr. 1, til vedkommende myndighet i opprinnelsesstaten,
+   2. melding om forflytninger av produkter av animalsk opprinnelse som vedkommende myndighet i opprinnelsesstaten skal gi i samsvar med nr. 2.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### KAPITTEL 7
 
@@ -2646,13 +4427,20 @@ Nasjonale tiltak for sykdomsbekjempelse og forflytning av dyr og avlsmateriale
 
 1\. Medlemsstatene står fritt til å treffe nasjonale tiltak for å bekjempe listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d) og e), med hensyn til forflytninger av landdyr og avlsmateriale fra slike på sitt eget territorium.
 
-2\. De nasjonale tiltakene skalta hensyn til reglene om forflytning av dyr og avlsmateriale fastsatt i kapittel 3 (artikkel 124–154), kapittel 4 (artikkel 155–156) og kapittel 5 (artikkel 157–165), og ikke være i strid med disse reglene,ikke være til hinder for forflytning av dyr og produkter mellom medlemsstatene,ikke gå ut over det som er hensiktsmessig og nødvendig for å forhindre innføring og spredning av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og e).
+2\. De nasjonale tiltakene skal
+
+1. ta hensyn til reglene om forflytning av dyr og avlsmateriale fastsatt i kapittel 3 (artikkel 124–154), kapittel 4 (artikkel 155–156) og kapittel 5 (artikkel 157–165), og ikke være i strid med disse reglene,
+2. ikke være til hinder for forflytning av dyr og produkter mellom medlemsstatene,
+3. ikke gå ut over det som er hensiktsmessig og nødvendig for å forhindre innføring og spredning av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og e).
 
 ###### Artikkel 171
 
 Nasjonale tiltak som har som formål å begrense virkningene av andre sykdommer enn listeførte sykdommer
 
-Dersom en annen sykdom enn en listeført sykdom utgjør en vesentlig risiko for helsen til holdte landdyr i en medlemsstat, kan den berørte medlemsstaten treffe nasjonale tiltak for å bekjempe denne sykdommen og begrense forflytninger av holdte landdyr og avlsmateriale, forutsatt at disse tiltakene ikkeer til hinder for forflytningen av dyr og produkter mellom medlemsstatene,går ut over det som er hensiktsmessig og nødvendig for å bekjempe sykdommen.
+Dersom en annen sykdom enn en listeført sykdom utgjør en vesentlig risiko for helsen til holdte landdyr i en medlemsstat, kan den berørte medlemsstaten treffe nasjonale tiltak for å bekjempe denne sykdommen og begrense forflytninger av holdte landdyr og avlsmateriale, forutsatt at disse tiltakene ikke
+
+1. er til hinder for forflytningen av dyr og produkter mellom medlemsstatene,
+2. går ut over det som er hensiktsmessig og nødvendig for å bekjempe sykdommen.
 
 ### AVDELING II
 AKVATISKE DYR OG PRODUKTER AV ANIMALSK OPPRINNELSE FRA AKVATISKE DYR
@@ -2669,19 +4457,39 @@ Registrering av akvakulturanlegg
 
 Driftsansvarliges plikt til å registrere akvakulturanlegg
 
-1\. Driftsansvarlige for akvakulturanlegg skal gjøre følgende for å få sine anlegg registrert i samsvar med artikkel 173, og før de starter driften:Informere vedkommende myndighet om ethvert akvakulturanlegg de har ansvar for.Framlegge følgende opplysninger for vedkommende myndighet:Den driftsansvarliges navn og adresse.Anleggets beliggenhet og beskrivelse av dets lokaler.Artene, kategoriene og mengdene (antall, volum eller vekt) av akvakulturdyr som de akter å holde i akvakulturanlegget, og akvakulturanleggets kapasitet.Typen akvakulturanlegg.Andre sider ved anlegget som er relevante for å fastsette hvilken risiko det utgjør.
+1\. Driftsansvarlige for akvakulturanlegg skal gjøre følgende for å få sine anlegg registrert i samsvar med artikkel 173, og før de starter driften:
 
-2\. Driftsansvarlige for akvakulturanleggene nevnt i nr. 1 skal på forhånd informere vedkommende myndighet om følgende:Enhver vesentlig endring i det aktuelle akvakulturanlegget med hensyn til forholdene nevnt i nr. 1 bokstav b).Opphør av den driftsansvarliges eller akvakulturanleggets aktiviteter.
+1. Informere vedkommende myndighet om ethvert akvakulturanlegg de har ansvar for.
+2. Framlegge følgende opplysninger for vedkommende myndighet:
+
+   1. Den driftsansvarliges navn og adresse.
+   2. Anleggets beliggenhet og beskrivelse av dets lokaler.
+   3. Artene, kategoriene og mengdene (antall, volum eller vekt) av akvakulturdyr som de akter å holde i akvakulturanlegget, og akvakulturanleggets kapasitet.
+   4. Typen akvakulturanlegg.
+   5. Andre sider ved anlegget som er relevante for å fastsette hvilken risiko det utgjør.
+
+2\. Driftsansvarlige for akvakulturanleggene nevnt i nr. 1 skal på forhånd informere vedkommende myndighet om følgende:
+
+1. Enhver vesentlig endring i det aktuelle akvakulturanlegget med hensyn til forholdene nevnt i nr. 1 bokstav b).
+2. Opphør av den driftsansvarliges eller akvakulturanleggets aktiviteter.
 
 3\. Akvakulturanlegg som skal godkjennes i samsvar med artikkel 176 nr. 1 og artikkel 177, skal ikke være forpliktet til å legge fram opplysningene nevnt i nr. 1.
 
-4\. En driftsansvarlig kan søke om registrering i henhold til nr. 1 for å dekke en gruppe akvakulturanlegg, forutsatt at anleggene oppfyller ett av følgende vilkår:De ligger i et epidemiologisk forbundet område, og alle driftsansvarlige i dette området omfattes av et felles biosikkerhetssystem.De drives av samme driftsansvarlige og omfattes av et felles biosikkerhetssystem, og akvakulturdyrene i de berørte anleggene utgjør en felles epidemiologisk enhet.Dersom en søknad om registrering omfatter en gruppe anlegg, skal reglene fastsatt i nr. 1–3 i denne artikkelen og i artikkel 173 første ledd bokstav b) samt reglene vedtatt i henhold til artikkel 175 som gjelder for et enkelt akvakulturanlegg, gjelde for gruppen akvakulturanlegg som helhet.
+4\. En driftsansvarlig kan søke om registrering i henhold til nr. 1 for å dekke en gruppe akvakulturanlegg, forutsatt at anleggene oppfyller ett av følgende vilkår:
+
+1. De ligger i et epidemiologisk forbundet område, og alle driftsansvarlige i dette området omfattes av et felles biosikkerhetssystem.
+2. De drives av samme driftsansvarlige og omfattes av et felles biosikkerhetssystem, og akvakulturdyrene i de berørte anleggene utgjør en felles epidemiologisk enhet.
+
+Dersom en søknad om registrering omfatter en gruppe anlegg, skal reglene fastsatt i nr. 1–3 i denne artikkelen og i artikkel 173 første ledd bokstav b) samt reglene vedtatt i henhold til artikkel 175 som gjelder for et enkelt akvakulturanlegg, gjelde for gruppen akvakulturanlegg som helhet.
 
 ###### Artikkel 173
 
 Vedkommende myndighets plikter når det gjelder registrering av akvakulturanlegg
 
-En vedkommende myndighet skal registrereakvakulturanlegg i registeret over akvakulturanlegg fastsatt i artikkel 185 nr. 1 dersom den berørte driftsansvarlige har lagt fram de opplysningene som kreves i samsvar med artikkel 172 nr. 1,grupper av akvakulturanlegg i nevnte register, forutsatt at kriteriene fastsatt i artikkel 172 nr. 4 er oppfylt.
+En vedkommende myndighet skal registrere
+
+1. akvakulturanlegg i registeret over akvakulturanlegg fastsatt i artikkel 185 nr. 1 dersom den berørte driftsansvarlige har lagt fram de opplysningene som kreves i samsvar med artikkel 172 nr. 1,
+2. grupper av akvakulturanlegg i nevnte register, forutsatt at kriteriene fastsatt i artikkel 172 nr. 4 er oppfylt.
 
 Vedkommende myndighet skal gi hvert anlegg eller hver gruppe av anlegg som nevnt i denne artikkelen, et unikt registreringsnummer.
 
@@ -2697,7 +4505,10 @@ Gjennomføringsmyndighet med hensyn til unntak fra registreringsplikten for akva
 
 1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for de opplysningene som driftsansvarlige skal legge fram med henblikk på registrering av akvakulturanlegg i henhold til artikkel 172 nr. 1, herunder frister for å legge fram slike opplysninger.
 
-2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for hvilke typer akvakulturanlegg som medlemsstatene kan unnta fra registreringskravet i henhold til artikkel 174, på grunnlag avartene, kategoriene og mengden (antall, volum eller vekt) av akvakulturdyr på det aktuelle akvakulturanlegget og akvakulturanleggets kapasitet,forflytningene av akvakulturdyr inn og ut av akvakulturanlegget.
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for hvilke typer akvakulturanlegg som medlemsstatene kan unnta fra registreringskravet i henhold til artikkel 174, på grunnlag av
+
+1. artene, kategoriene og mengden (antall, volum eller vekt) av akvakulturdyr på det aktuelle akvakulturanlegget og akvakulturanleggets kapasitet,
+2. forflytningene av akvakulturdyr inn og ut av akvakulturanlegget.
 
 3\. Gjennomføringsrettsaktene nevnt i denne artikkelen skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -2709,15 +4520,41 @@ Godkjenning av visse typer akvakulturanlegg
 
 Godkjenning av visse akvakulturanlegg, og delegerte rettsakter
 
-1\. Driftsansvarlige for følgende typer akvakulturanlegg skal søke vedkommende myndighet om godkjenning i samsvar med artikkel 180 nr. 1:Akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr.Andre akvakulturanlegg som utgjør en vesentlig risiko på grunn avartene, kategoriene og antallet akvakulturdyr som holdes der,den aktuelle typen akvakulturanlegg,forflytningene av akvakulturdyr inn og ut av det berørte akvakulturanlegget.
+1\. Driftsansvarlige for følgende typer akvakulturanlegg skal søke vedkommende myndighet om godkjenning i samsvar med artikkel 180 nr. 1:
 
-2\. Som unntak fra nr. 1 kan medlemsstatene frita driftsansvarlige for følgende typer anlegg fra plikten om å søke om godkjenning:akvakulturanlegg som produserer små mengder akvakulturdyr beregnet på konsum, entendirekte til sluttforbrukeren, ellertil lokale detaljister som leverer direkte til sluttforbrukeren,dammer og andre installasjoner der populasjonen av akvatiske dyr utelukkende opprettholdes med henblikk på sportsfiske, ved at bestanden gjenoppbygges med akvakulturdyr som er innestengt og ikke kan slippe ut,akvakulturanlegg der det holdes akvakulturdyr for prydformål i lukkede anlegg,forutsatt at det aktuelle anlegget ikke utgjør en vesentlig risiko.
+1. Akvakulturanlegg der akvakulturdyr holdes med henblikk på å flyttes derfra enten levende eller som produkter av animalsk opprinnelse fra akvakulturdyr.
+2. Andre akvakulturanlegg som utgjør en vesentlig risiko på grunn av
 
-3\. Med mindre det er gitt unntak i henhold til nr. 4, skal driftsansvarlige ikke starte driften av et akvakulturanlegg som nevnt i nr. 1, før anlegget er godkjent i samsvar med artikkel 181 nr. 1, og skal stanse driften ved et akvakulturanlegg som nevnt i nr. 1 i denne artikkelen, dersomvedkommende myndighet tilbakekaller eller midlertidig opphever sin godkjenning i samsvar med artikkel 184 nr. 2, ellerdet aktuelle akvakulturanlegget ved betinget godkjenning gitt i samsvar med artikkel 183 nr. 3, ikke oppfyller de utestående kravene nevnt i artikkel 183 nr. 4 og ikke får en endelig godkjenning i samsvar med artikkel 183 nr. 3.
+   1. artene, kategoriene og antallet akvakulturdyr som holdes der,
+   2. den aktuelle typen akvakulturanlegg,
+   3. forflytningene av akvakulturdyr inn og ut av det berørte akvakulturanlegget.
 
-4\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderunntak fra kravet om at driftsansvarlige skal søke vedkommende myndighet om godkjenning for de typene akvakulturanlegg som er nevnt i nr. 1 bokstav a), når det gjelder andre typer anlegg enn dem som er nevnt i nr. 2 bokstav a) i) og ii), dersom slike anlegg ikke utgjør en vesentlig risiko,de typene akvakulturanlegg som må godkjennes i samsvar med nr. 1 bokstav b).
+2\. Som unntak fra nr. 1 kan medlemsstatene frita driftsansvarlige for følgende typer anlegg fra plikten om å søke om godkjenning:
 
-5\. Når Kommisjonen vedtar delegerte rettsakter i henhold til nr. 4, skal den legge følgende kriterier til grunn:Artene og kategoriene av akvakulturdyr som holdes i akvakulturanlegget.Typen akvakulturanlegg og produksjon.Typiske forflytningsmønstre for den berørte typen akvakulturanlegg og for de berørte artene eller kategoriene av akvakulturdyr.
+1. akvakulturanlegg som produserer små mengder akvakulturdyr beregnet på konsum, enten
+
+   1. direkte til sluttforbrukeren, eller
+   2. til lokale detaljister som leverer direkte til sluttforbrukeren,
+2. dammer og andre installasjoner der populasjonen av akvatiske dyr utelukkende opprettholdes med henblikk på sportsfiske, ved at bestanden gjenoppbygges med akvakulturdyr som er innestengt og ikke kan slippe ut,
+3. akvakulturanlegg der det holdes akvakulturdyr for prydformål i lukkede anlegg,
+
+forutsatt at det aktuelle anlegget ikke utgjør en vesentlig risiko.
+
+3\. Med mindre det er gitt unntak i henhold til nr. 4, skal driftsansvarlige ikke starte driften av et akvakulturanlegg som nevnt i nr. 1, før anlegget er godkjent i samsvar med artikkel 181 nr. 1, og skal stanse driften ved et akvakulturanlegg som nevnt i nr. 1 i denne artikkelen, dersom
+
+1. vedkommende myndighet tilbakekaller eller midlertidig opphever sin godkjenning i samsvar med artikkel 184 nr. 2, eller
+2. det aktuelle akvakulturanlegget ved betinget godkjenning gitt i samsvar med artikkel 183 nr. 3, ikke oppfyller de utestående kravene nevnt i artikkel 183 nr. 4 og ikke får en endelig godkjenning i samsvar med artikkel 183 nr. 3.
+
+4\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. unntak fra kravet om at driftsansvarlige skal søke vedkommende myndighet om godkjenning for de typene akvakulturanlegg som er nevnt i nr. 1 bokstav a), når det gjelder andre typer anlegg enn dem som er nevnt i nr. 2 bokstav a) i) og ii), dersom slike anlegg ikke utgjør en vesentlig risiko,
+2. de typene akvakulturanlegg som må godkjennes i samsvar med nr. 1 bokstav b).
+
+5\. Når Kommisjonen vedtar delegerte rettsakter i henhold til nr. 4, skal den legge følgende kriterier til grunn:
+
+1. Artene og kategoriene av akvakulturdyr som holdes i akvakulturanlegget.
+2. Typen akvakulturanlegg og produksjon.
+3. Typiske forflytningsmønstre for den berørte typen akvakulturanlegg og for de berørte artene eller kategoriene av akvakulturdyr.
 
 6\. En driftsansvarlig kan søke om godkjenning for en gruppe akvakulturanlegg, forutsatt at kravene i artikkel 177 første ledd bokstav a) og b) er oppfylt.
 
@@ -2725,7 +4562,13 @@ Godkjenning av visse akvakulturanlegg, og delegerte rettsakter
 
 Vedkommende myndighets godkjenning av grupper av akvakulturanlegg
 
-Vedkommende myndighet kan gi godkjenning i henhold til artikkel 181 nr. 1 for en gruppe akvakulturanlegg, forutsatt at de berørte akvakulturanleggene oppfyller ett av følgende vilkår:De ligger i et epidemiologisk forbundet område, og alle driftsansvarlige i dette området omfattes av et felles biosikkerhetssystem; imidlertid skal eventuelle landbaserte eller flytende anlegg for mottak, kondisjonering, spyling, rengjøring, sortering, innpakking og emballering av levende muslinger beregnet på konsum (såkalte «ekspedisjonssentraler»), anlegg med tanker som tilføres rent sjøvann, der levende muslinger plasseres den tiden som er nødvendig for å redusere forurensning slik at de blir egnet til konsum (såkalte «rensesentraler»), og tilsvarende anlegg som ligger i et epidemiologisk forbundet område, godkjennes individuelt.De drives av samme driftsansvarlig, ogomfattes av et felles biosikkerhetssystem, ogakvakulturdyrene i de berørte anleggene tilhører samme epidemiologiske enhet.
+Vedkommende myndighet kan gi godkjenning i henhold til artikkel 181 nr. 1 for en gruppe akvakulturanlegg, forutsatt at de berørte akvakulturanleggene oppfyller ett av følgende vilkår:
+
+1. De ligger i et epidemiologisk forbundet område, og alle driftsansvarlige i dette området omfattes av et felles biosikkerhetssystem; imidlertid skal eventuelle landbaserte eller flytende anlegg for mottak, kondisjonering, spyling, rengjøring, sortering, innpakking og emballering av levende muslinger beregnet på konsum (såkalte «ekspedisjonssentraler»), anlegg med tanker som tilføres rent sjøvann, der levende muslinger plasseres den tiden som er nødvendig for å redusere forurensning slik at de blir egnet til konsum (såkalte «rensesentraler»), og tilsvarende anlegg som ligger i et epidemiologisk forbundet område, godkjennes individuelt.
+2. De drives av samme driftsansvarlig, og
+
+   1. omfattes av et felles biosikkerhetssystem, og
+   2. akvakulturdyrene i de berørte anleggene tilhører samme epidemiologiske enhet.
 
 Når en felles godkjenning gis for en gruppe akvakulturanlegg, skal reglene fastsatt i artikkel 178 og 180–184 samt reglene vedtatt i henhold til artikkel 180 nr. 2 og artikkel 181 nr. 2 som gjelder for et enkelt akvakulturanlegg, gjelde for hele gruppen av akvakulturanlegg.
 
@@ -2733,39 +4576,85 @@ Når en felles godkjenning gis for en gruppe akvakulturanlegg, skal reglene fast
 
 Godkjenning av status som avgrenset akvakulturanlegg
 
-Driftsansvarlige som driver akvakulturanlegg som søker om status som avgrenset anlegg, skalsøke vedkommende myndighet om godkjenning i samsvar med artikkel 180 nr. 1,flytte akvakulturdyrene til eller fra anlegget i samsvar med kravene fastsatt i artikkel 203 nr. 1 og delegerte rettsakter vedtatt i samsvar med artikkel 203 nr. 2, først etter at deres anlegg har fått godkjenning for slik status av vedkommende myndighet i samsvar med artikkel 181 eller 183.
+Driftsansvarlige som driver akvakulturanlegg som søker om status som avgrenset anlegg, skal
+
+1. søke vedkommende myndighet om godkjenning i samsvar med artikkel 180 nr. 1,
+2. flytte akvakulturdyrene til eller fra anlegget i samsvar med kravene fastsatt i artikkel 203 nr. 1 og delegerte rettsakter vedtatt i samsvar med artikkel 203 nr. 2, først etter at deres anlegg har fått godkjenning for slik status av vedkommende myndighet i samsvar med artikkel 181 eller 183.
 
 ###### Artikkel 179
 
 Godkjenning av næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr
 
-Driftsansvarlige for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, skalsørge for at den nødvendige godkjenningen i samsvar med artikkel 4 i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)62 er innhentet, ogsøke vedkommende myndighet i samsvar med artikkel 180 nr. 1 om godkjenning til å slakte eller bearbeide akvatiske dyr med henblikk på sykdomsbekjempelse i samsvar med artikkel 61 nr. 1 bokstav b), artikkel 62, artikkel 68 nr. 1, artikkel 79 og 80 samt reglene vedtatt i henhold til artikkel 63, artikkel 70 nr. 3 og artikkel 71 nr. 3.62 Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).
+Driftsansvarlige for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, skal
+
+1. sørge for at den nødvendige godkjenningen i samsvar med artikkel 4 i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)62 er innhentet, og
+2. søke vedkommende myndighet i samsvar med artikkel 180 nr. 1 om godkjenning til å slakte eller bearbeide akvatiske dyr med henblikk på sykdomsbekjempelse i samsvar med artikkel 61 nr. 1 bokstav b), artikkel 62, artikkel 68 nr. 1, artikkel 79 og 80 samt reglene vedtatt i henhold til artikkel 63, artikkel 70 nr. 3 og artikkel 71 nr. 3.
+
+   62 Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).
 
 ###### Artikkel 180
 
 Driftsansvarliges plikt til å legge fram opplysninger for å få godkjenning
 
-1\. I forbindelse med søknader om godkjenning av anlegg i henhold til artikkel 176 nr. 1, artikkel 177, artikkel 178 bokstav a) og artikkel 179 skal driftsansvarlige framlegge følgende opplysninger for vedkommende myndighet:Den driftsansvarliges navn og adresse.Anleggets beliggenhet og beskrivelse av dets lokaler.Artene, kategoriene og mengdene (antall, volum eller vekt) av akvakulturdyr som er relevante for godkjenningen, og som holdes i anlegget.Typen akvakulturanlegg.Dersom godkjenningen gjelder en gruppe akvakulturanlegg, nærmere opplysninger som viser at den aktuelle gruppen oppfyller vilkårene fastsatt i artikkel 177.Øvrige opplysninger om hvordan det aktuelle akvakulturanlegget fungerer, som er relevante for å fastsette hvilken risiko det utgjør.Anleggets vannforsynings- og avløpssystem.Anleggets biosikkerhetstiltak.
+1\. I forbindelse med søknader om godkjenning av anlegg i henhold til artikkel 176 nr. 1, artikkel 177, artikkel 178 bokstav a) og artikkel 179 skal driftsansvarlige framlegge følgende opplysninger for vedkommende myndighet:
 
-2\. Driftsansvarlige for anleggene nevnt i nr. 1 skal på forhånd informere vedkommende myndighet om følgende:Eventuelle endringer ved anlegget med hensyn til forholdene nevnt i nr. 1.Opphør av den driftsansvarliges eller anleggets aktiviteter.
+1. Den driftsansvarliges navn og adresse.
+2. Anleggets beliggenhet og beskrivelse av dets lokaler.
+3. Artene, kategoriene og mengdene (antall, volum eller vekt) av akvakulturdyr som er relevante for godkjenningen, og som holdes i anlegget.
+4. Typen akvakulturanlegg.
+5. Dersom godkjenningen gjelder en gruppe akvakulturanlegg, nærmere opplysninger som viser at den aktuelle gruppen oppfyller vilkårene fastsatt i artikkel 177.
+6. Øvrige opplysninger om hvordan det aktuelle akvakulturanlegget fungerer, som er relevante for å fastsette hvilken risiko det utgjør.
+7. Anleggets vannforsynings- og avløpssystem.
+8. Anleggets biosikkerhetstiltak.
 
-3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for de opplysningene som driftsansvarlige skal legge fram i sin søknad om godkjenning av anlegg i samsvar med nr. 1, herunder frister for å legge fram opplysningene.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+2\. Driftsansvarlige for anleggene nevnt i nr. 1 skal på forhånd informere vedkommende myndighet om følgende:
+
+1. Eventuelle endringer ved anlegget med hensyn til forholdene nevnt i nr. 1.
+2. Opphør av den driftsansvarliges eller anleggets aktiviteter.
+
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for de opplysningene som driftsansvarlige skal legge fram i sin søknad om godkjenning av anlegg i samsvar med nr. 1, herunder frister for å legge fram opplysningene.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Artikkel 181
 
 Godkjenning og vilkår for godkjenning, og delegerte rettsakter
 
-1\. Vedkommende myndighet skal bare gi godkjenning til akvakulturanlegg som nevnt i artikkel 176 nr. 1 og artikkel 178 bokstav a), til grupper av akvakulturanlegg som nevnt i artikkel 177, og til næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr som nevnt i artikkel 179, i følgende tilfeller:Anleggene oppfyller følgende krav, der det er relevant, når det gjelderkarantene, isolasjon og andre biosikkerhetstiltak, idet det tas hensyn til kravene i artikkel 10 nr. 1 bokstav b) og eventuelle regler vedtatt i samsvar med artikkel 10 nr. 6,overvåkingskrav i henhold til artikkel 24 og dersom det er relevant for den berørte anleggstypen og den tilknyttede risikoen, artikkel 25,journalføring som fastsatt i artikkel 186–188 og eventuelle regler vedtatt i henhold til artikkel 189 og 190.Anleggene har lokaler og utstyr somi tilstrekkelig grad begrenser risikoen for innføring og spredning av sykdommer til et akseptabelt nivå, idet det tas hensyn til den aktuelle anleggstypen,har tilstrekkelig kapasitet for artene, kategoriene og mengden (antall, volum eller vekt) av berørte akvatiske dyr.Anleggene utgjør ikke en uakseptabel risiko med hensyn til spredning av sykdommer, idet det tas hensyn til de risikoreduserende tiltakene som er innført.Anleggene har innført et system som gjør at den driftsansvarlige kan godtgjøre overfor vedkommende myndighet at kravene i bokstav a), b) og c) er oppfylt.
+1\. Vedkommende myndighet skal bare gi godkjenning til akvakulturanlegg som nevnt i artikkel 176 nr. 1 og artikkel 178 bokstav a), til grupper av akvakulturanlegg som nevnt i artikkel 177, og til næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr som nevnt i artikkel 179, i følgende tilfeller:
 
-2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Karantene, isolasjon og andre biosikkerhetstiltak som nevnt i nr. 1 bokstav a) i).Overvåking som nevnt i nr. 1 bokstav a) ii).Lokaler og utstyr som nevnt i nr. 1 bokstav b).
+1. Anleggene oppfyller følgende krav, der det er relevant, når det gjelder
 
-3\. Når Kommisjonen utarbeider de reglene som skal fastsettes i delegerte rettsakter som skal vedtas i henhold til nr. 2, skal følgende forhold tas i betraktning:Risikoene som den enkelte typen anlegg utgjør.Artene og kategoriene av akvakulturdyr eller akvatiske dyr som er relevante for godkjenningen.Den aktuelle produksjonstypen.Typiske forflytningsmønstre for typen akvakulturanlegg og de artene og kategoriene av dyr som holdes i disse anleggene.
+   1. karantene, isolasjon og andre biosikkerhetstiltak, idet det tas hensyn til kravene i artikkel 10 nr. 1 bokstav b) og eventuelle regler vedtatt i samsvar med artikkel 10 nr. 6,
+   2. overvåkingskrav i henhold til artikkel 24 og dersom det er relevant for den berørte anleggstypen og den tilknyttede risikoen, artikkel 25,
+   3. journalføring som fastsatt i artikkel 186–188 og eventuelle regler vedtatt i henhold til artikkel 189 og 190.
+2. Anleggene har lokaler og utstyr som
+
+   1. i tilstrekkelig grad begrenser risikoen for innføring og spredning av sykdommer til et akseptabelt nivå, idet det tas hensyn til den aktuelle anleggstypen,
+   2. har tilstrekkelig kapasitet for artene, kategoriene og mengden (antall, volum eller vekt) av berørte akvatiske dyr.
+3. Anleggene utgjør ikke en uakseptabel risiko med hensyn til spredning av sykdommer, idet det tas hensyn til de risikoreduserende tiltakene som er innført.
+4. Anleggene har innført et system som gjør at den driftsansvarlige kan godtgjøre overfor vedkommende myndighet at kravene i bokstav a), b) og c) er oppfylt.
+
+2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
+
+1. Karantene, isolasjon og andre biosikkerhetstiltak som nevnt i nr. 1 bokstav a) i).
+2. Overvåking som nevnt i nr. 1 bokstav a) ii).
+3. Lokaler og utstyr som nevnt i nr. 1 bokstav b).
+
+3\. Når Kommisjonen utarbeider de reglene som skal fastsettes i delegerte rettsakter som skal vedtas i henhold til nr. 2, skal følgende forhold tas i betraktning:
+
+1. Risikoene som den enkelte typen anlegg utgjør.
+2. Artene og kategoriene av akvakulturdyr eller akvatiske dyr som er relevante for godkjenningen.
+3. Den aktuelle produksjonstypen.
+4. Typiske forflytningsmønstre for typen akvakulturanlegg og de artene og kategoriene av dyr som holdes i disse anleggene.
 
 ###### Artikkel 182
 
 Virkeområde for godkjenning av anlegg
 
-Vedkommende myndighet skal i godkjenningen av et akvakulturanlegg eller et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som er gitt i henhold til artikkel 181 nr. 1 etter søknad inngitt i samsvar med artikkel 176, 177, artikkel 178 bokstav a) eller artikkel 179, uttrykkelig angihvilke typer akvakulturanlegg nevnt i artikkel 176 nr. 1 og artikkel 178 bokstav a), grupper av akvakulturanlegg nevnt i artikkel 177 og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr som nevnt i artikkel 179, og i eventuelle regler vedtatt i henhold til artikkel 176 nr. 4 bokstav b), godkjenningen gjelder,hvilke arter og kategorier av akvakulturdyr godkjenningen gjelder.
+Vedkommende myndighet skal i godkjenningen av et akvakulturanlegg eller et næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som er gitt i henhold til artikkel 181 nr. 1 etter søknad inngitt i samsvar med artikkel 176, 177, artikkel 178 bokstav a) eller artikkel 179, uttrykkelig angi
+
+1. hvilke typer akvakulturanlegg nevnt i artikkel 176 nr. 1 og artikkel 178 bokstav a), grupper av akvakulturanlegg nevnt i artikkel 177 og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr som nevnt i artikkel 179, og i eventuelle regler vedtatt i henhold til artikkel 176 nr. 4 bokstav b), godkjenningen gjelder,
+2. hvilke arter og kategorier av akvakulturdyr godkjenningen gjelder.
 
 ###### Artikkel 183
 
@@ -2779,7 +4668,9 @@ Framgangsmåter for vedkommende myndighets godkjenning
 
 4\. Dersom et anlegg ikke oppfyller alle kravene til godkjenning som nevnt i artikkel 181, kan vedkommende myndighet gi et anlegg en betinget godkjenning dersom det på grunnlag av søknaden fra den berørte driftsansvarlige og besøket på stedet i henhold til nr. 2 viser seg at anlegget oppfyller alle de viktigste kravene som gir tilstrekkelige garantier for at anlegget ikke utgjør noen vesentlig risiko.
 
-5\. Dersom vedkommende myndighet har gitt en betinget godkjenning i samsvar med nr. 4, skal den bare gi full godkjenning dersom det etter et nytt besøk på anlegget avlagt innen tre måneder etter datoen for den betingende godkjenningen, eller det ut fra dokumentasjon som driftsansvarlig legger fram innen tre måneder fra nevnte dato, framgår at anlegget oppfyller alle kravene til godkjenning i henhold til artikkel 181 nr. 1 og reglene vedtatt i samsvar med artikkel 181 nr. 2.Dersom besøket på stedet eller dokumentasjonen nevnt i første ledd viser at det er gjort tydelige framskritt, men at anlegget fortsatt ikke oppfyller alle kravene, kan vedkommende myndighet forlenge den betingende godkjenningen. Betinget godkjenning kan imidlertid ikke gis for en periode som til sammen varer i mer enn seks måneder.
+5\. Dersom vedkommende myndighet har gitt en betinget godkjenning i samsvar med nr. 4, skal den bare gi full godkjenning dersom det etter et nytt besøk på anlegget avlagt innen tre måneder etter datoen for den betingende godkjenningen, eller det ut fra dokumentasjon som driftsansvarlig legger fram innen tre måneder fra nevnte dato, framgår at anlegget oppfyller alle kravene til godkjenning i henhold til artikkel 181 nr. 1 og reglene vedtatt i samsvar med artikkel 181 nr. 2.
+
+Dersom besøket på stedet eller dokumentasjonen nevnt i første ledd viser at det er gjort tydelige framskritt, men at anlegget fortsatt ikke oppfyller alle kravene, kan vedkommende myndighet forlenge den betingende godkjenningen. Betinget godkjenning kan imidlertid ikke gis for en periode som til sammen varer i mer enn seks måneder.
 
 ###### Artikkel 184
 
@@ -2787,7 +4678,9 @@ Vedkommende myndighets gjennomgang, midlertidige oppheving og tilbakekalling av 
 
 1\. Vedkommende myndighet skal gjennomgå godkjenninger av anlegg som er gitt i samsvar med artikkel 181 nr. 1, med passende mellomrom på grunnlag av relevante risikoer.
 
-2\. Dersom vedkommende myndighet oppdager alvorlige mangler på et anlegg med hensyn til oppfyllelsen av kravene fastsatt i artikkel 181 nr. 1 og reglene vedtatt i henhold til artikkel 181 nr. 2, og den driftsansvarlige for anlegget ikke kan legge fram tilstrekkelige garantier for at manglene vil bli utbedret, skal vedkommende myndighet sette i gang prosessen med å tilbakekalle godkjenningen av anlegget.Vedkommende myndighet kan imidlertid velge å oppheve midlertidig framfor å tilbakekalle en godkjenning av et anlegg dersom den driftsansvarlige kan garantere at manglene vil bli utbedret innen rimelig tid.
+2\. Dersom vedkommende myndighet oppdager alvorlige mangler på et anlegg med hensyn til oppfyllelsen av kravene fastsatt i artikkel 181 nr. 1 og reglene vedtatt i henhold til artikkel 181 nr. 2, og den driftsansvarlige for anlegget ikke kan legge fram tilstrekkelige garantier for at manglene vil bli utbedret, skal vedkommende myndighet sette i gang prosessen med å tilbakekalle godkjenningen av anlegget.
+
+Vedkommende myndighet kan imidlertid velge å oppheve midlertidig framfor å tilbakekalle en godkjenning av et anlegg dersom den driftsansvarlige kan garantere at manglene vil bli utbedret innen rimelig tid.
 
 3\. Godkjenning kan bare gis etter tilbakekalling eller utstedes på nytt etter midlertidig oppheving i samsvar med nr. 2 dersom vedkommende myndighet finner det godtgjort at anlegget fullt ut oppfyller alle kravene i denne forordningen til den aktuelle typen anlegg.
 
@@ -2799,15 +4692,29 @@ Register over akvakulturanlegg og næringsmiddelforetak som gjennomfører tiltak
 
 Register over akvakulturanlegg og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr
 
-1\. Hver vedkommende myndighet skal opprette og ajourføre et register over følgende:Alle akvakulturanlegg som er registrert i samsvar med artikkel 173.Alle akvakulturanlegg som er godkjent i samsvar med artikkel 181 nr. 1.Alle næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som er godkjent i samsvar med artikkel 181 nr. 1.
+1\. Hver vedkommende myndighet skal opprette og ajourføre et register over følgende:
 
-2\. Registeret over akvakulturanlegg nevnt i nr. 1 skal inneholde følgende opplysninger:Den driftsansvarliges navn og adresse og det berørte anleggets registreringsnummer.Det berørte akvakulturanleggets beliggenhet eller dersom det er relevant, gruppen av akvakulturanleggs beliggenhet.Typen produksjon i anlegget.Anleggets vannforsynings- og avløpssystem, dersom det er relevant.Artene av akvakulturdyr som holdes i anlegget.Ajourførte opplysninger om helsestatusen i det registrerte akvakulturanlegget eller, dersom det er relevant, gruppen av akvakulturanlegg, når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d).
+1. Alle akvakulturanlegg som er registrert i samsvar med artikkel 173.
+2. Alle akvakulturanlegg som er godkjent i samsvar med artikkel 181 nr. 1.
+3. Alle næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som er godkjent i samsvar med artikkel 181 nr. 1.
+
+2\. Registeret over akvakulturanlegg nevnt i nr. 1 skal inneholde følgende opplysninger:
+
+1. Den driftsansvarliges navn og adresse og det berørte anleggets registreringsnummer.
+2. Det berørte akvakulturanleggets beliggenhet eller dersom det er relevant, gruppen av akvakulturanleggs beliggenhet.
+3. Typen produksjon i anlegget.
+4. Anleggets vannforsynings- og avløpssystem, dersom det er relevant.
+5. Artene av akvakulturdyr som holdes i anlegget.
+6. Ajourførte opplysninger om helsestatusen i det registrerte akvakulturanlegget eller, dersom det er relevant, gruppen av akvakulturanlegg, når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d).
 
 3\. For anlegg som er godkjent i samsvar med artikkel 181 nr. 1, skal vedkommende myndighet, med forbehold for kravene til vern av personopplysninger, offentliggjøre elektronisk minst de opplysningene som er nevnt i nr. 2 bokstav a), c), e) og f).
 
 4\. Dersom det er hensiktsmessig og relevant, kan vedkommende myndighet kombinere registreringen nevnt i nr. 1 med registrering for andre formål.
 
-5\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Relevante detaljerte opplysninger som skal føres inn i registeret over akvakulturanlegg som fastsatt i nr. 1.Offentlig tilgang til registeret.
+5\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
+
+1. Relevante detaljerte opplysninger som skal føres inn i registeret over akvakulturanlegg som fastsatt i nr. 1.
+2. Offentlig tilgang til registeret.
 
 ###### Avsnitt 4
 
@@ -2817,29 +4724,70 @@ Journalføring og sporbarhet
 
 Plikt for driftsansvarlige som driver akvakulturanlegg til å føre journaler
 
-1\. Driftsansvarlige for akvakulturanlegg som omfattes av registreringskravet i samsvar med artikkel 173 eller godkjenning i samsvar med artikkel 181 nr. 1, skal føre og oppbevare registre som inneholder minst følgende opplysninger:Artene, kategoriene og mengdene (antall, volum eller vekt) av akvakulturdyr på deres anlegg.Forflytninger til og fra deres anlegg av akvakulturdyr og produkter av animalsk opprinnelse fra disse dyrene, eventuelt med angivelse avderes opprinnelses- eller bestemmelsessted,datoen for slike forflytninger.Helsesertifikatene, på papir eller i elektronisk form, som skal ledsage forflytninger av akvakulturdyr som ankommer akvakulturanlegget i samsvar med artikkel 208 og reglene vedtatt i henhold til artikkel 211 nr. 1 bokstav a) og c) og artikkel 213 nr. 2.Dødeligheten i hver epidemiologiske enhet og andre sykdomsproblemer på akvakulturanlegget, alt etter hva som er relevant for produksjonstypen.Biosikkerhetstiltak, overvåking, behandlinger, testresultater og andre relevante opplysninger forartene og kategoriene av akvakulturdyr som holdes i anlegget,typen produksjon i akvakulturanlegget,akvakulturanleggets type og størrelse.Resultatene av eventuelle dyrehelsebesøk i samsvar med artikkel 25 nr. 1.Registrene skal føres og oppbevares på papir eller elektronisk.
+1\. Driftsansvarlige for akvakulturanlegg som omfattes av registreringskravet i samsvar med artikkel 173 eller godkjenning i samsvar med artikkel 181 nr. 1, skal føre og oppbevare registre som inneholder minst følgende opplysninger:
+
+1. Artene, kategoriene og mengdene (antall, volum eller vekt) av akvakulturdyr på deres anlegg.
+2. Forflytninger til og fra deres anlegg av akvakulturdyr og produkter av animalsk opprinnelse fra disse dyrene, eventuelt med angivelse av
+
+   1. deres opprinnelses- eller bestemmelsessted,
+   2. datoen for slike forflytninger.
+3. Helsesertifikatene, på papir eller i elektronisk form, som skal ledsage forflytninger av akvakulturdyr som ankommer akvakulturanlegget i samsvar med artikkel 208 og reglene vedtatt i henhold til artikkel 211 nr. 1 bokstav a) og c) og artikkel 213 nr. 2.
+4. Dødeligheten i hver epidemiologiske enhet og andre sykdomsproblemer på akvakulturanlegget, alt etter hva som er relevant for produksjonstypen.
+5. Biosikkerhetstiltak, overvåking, behandlinger, testresultater og andre relevante opplysninger for
+
+   1. artene og kategoriene av akvakulturdyr som holdes i anlegget,
+   2. typen produksjon i akvakulturanlegget,
+   3. akvakulturanleggets type og størrelse.
+6. Resultatene av eventuelle dyrehelsebesøk i samsvar med artikkel 25 nr. 1.
+
+Registrene skal føres og oppbevares på papir eller elektronisk.
 
 2\. Den berørte medlemsstaten kan frita akvakulturanlegg som utgjør en lav risiko for spredning av listeførte eller nye sykdommer, fra kravet om å føre registre over alle eller noen av opplysningene angitt i nr. 1 bokstav c), d) og e), forutsatt at sporbarhet er sikret.
 
-3\. Driftsansvarlige for akvakulturanlegg skal oppbevare registrene nevnt i nr. 1 på anlegget og skalføre dem på en slik måte at de akvatiske dyrenes opprinnelses- og bestemmelsessted kan spores,på anmodning gjøre dem tilgjengelige for vedkommende myndighet,oppbevare dem i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.Som unntak fra kravet om at registrene skal oppbevares på det berørte anlegget i samsvar med første ledd, kan de, dersom det ikke er fysisk mulig å oppbevare dem på anlegget, oppbevares på det kontoret som virksomheten styres fra.
+3\. Driftsansvarlige for akvakulturanlegg skal oppbevare registrene nevnt i nr. 1 på anlegget og skal
+
+1. føre dem på en slik måte at de akvatiske dyrenes opprinnelses- og bestemmelsessted kan spores,
+2. på anmodning gjøre dem tilgjengelige for vedkommende myndighet,
+3. oppbevare dem i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.
+
+Som unntak fra kravet om at registrene skal oppbevares på det berørte anlegget i samsvar med første ledd, kan de, dersom det ikke er fysisk mulig å oppbevare dem på anlegget, oppbevares på det kontoret som virksomheten styres fra.
 
 ###### Artikkel 187
 
 Plikt for næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, til å føre journaler
 
-1\. Driftsansvarlige som driver næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, skal med forbehold for godkjenning i samsvar med artikkel 179 føre og oppbevare registre overalle forflytninger til og fra deres anlegg for akvakulturdyr og produkter av animalsk opprinnelse fra slike dyr,anleggets avløpssystem og relevante biosikkerhetstiltak.
+1\. Driftsansvarlige som driver næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, skal med forbehold for godkjenning i samsvar med artikkel 179 føre og oppbevare registre over
 
-2\. Driftsansvarlige som driver næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, skaloppbevare registrene fastsatt i nr. 1 på sitt anlegg og på anmodning gjøre dem tilgjengelig for vedkommende myndighet,oppbevare dem i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.Registrene skal føres og oppbevares på papir eller elektronisk.
+1. alle forflytninger til og fra deres anlegg for akvakulturdyr og produkter av animalsk opprinnelse fra slike dyr,
+2. anleggets avløpssystem og relevante biosikkerhetstiltak.
+
+2\. Driftsansvarlige som driver næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, skal
+
+1. oppbevare registrene fastsatt i nr. 1 på sitt anlegg og på anmodning gjøre dem tilgjengelig for vedkommende myndighet,
+2. oppbevare dem i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.
+
+Registrene skal føres og oppbevares på papir eller elektronisk.
 
 ###### Artikkel 188
 
 Plikt for transportører til å føre journaler
 
-1\. Transportører av akvatiske dyr beregnet på akvakulturanlegg eller for utsetting i naturen skal føre og oppbevare registre når det gjelderartene, kategoriene og mengdene (antall, volum eller vekt) av akvatiske dyr som de transporterer,dødeligheten blant de aktuelle akvakulturdyrene og viltlevende akvatiske dyrene under transport, i den utstrekning det er praktisk mulig for den typen transport og de artene av akvakulturdyr og viltlevende akvatiske dyr som blir transportert,akvakulturanlegg og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, der transportmidlene har vært,eventuell vannutskifting under transporten, særlig opplysninger om kildene til det nye vannet og stedene vann er sluppet ut,rengjøring og desinfisering av transportmiddelet.Registrene skal føres og oppbevares på papir eller elektronisk.
+1\. Transportører av akvatiske dyr beregnet på akvakulturanlegg eller for utsetting i naturen skal føre og oppbevare registre når det gjelder
+
+1. artene, kategoriene og mengdene (antall, volum eller vekt) av akvatiske dyr som de transporterer,
+2. dødeligheten blant de aktuelle akvakulturdyrene og viltlevende akvatiske dyrene under transport, i den utstrekning det er praktisk mulig for den typen transport og de artene av akvakulturdyr og viltlevende akvatiske dyr som blir transportert,
+3. akvakulturanlegg og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, der transportmidlene har vært,
+4. eventuell vannutskifting under transporten, særlig opplysninger om kildene til det nye vannet og stedene vann er sluppet ut,
+5. rengjøring og desinfisering av transportmiddelet.
+
+Registrene skal føres og oppbevares på papir eller elektronisk.
 
 2\. Den berørte medlemsstaten kan frita transportører som utgjør en lav risiko for spredning av listeførte eller nye sykdommer, fra kravet om å føre registre over alle eller noen av opplysningene angitt i nr. 1, forutsatt at sporbarhet er sikret.
 
-3\. Transportørene skal oppbevare registrene i henhold til nr. 1på en slik måte at vedkommende myndighet på anmodning umiddelbart kan få tilgang til dem,i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.
+3\. Transportørene skal oppbevare registrene i henhold til nr. 1
+
+1. på en slik måte at vedkommende myndighet på anmodning umiddelbart kan få tilgang til dem,
+2. i en minsteperiode som skal fastsettes av vedkommende myndighet, men som skal være på minst tre år.
 
 ###### Artikkel 189
 
@@ -2847,13 +4795,23 @@ Delegering av myndighet når det gjelder journalføring
 
 1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder regler som utfyller kravene om journalføring fastsatt i artikkel 186, 187 og 188, med hensyn til opplysninger som driftsansvarlige skal registrere i tillegg til det som er fastsatt i artikkel 186 nr. 1, artikkel 187 nr. 1 og artikkel 188 nr. 1.
 
-2\. Når Kommisjonen vedtar de delegerte rettsaktene i henhold til nr. 1, skal følgende forhold tas i betraktning:Risikoene som den enkelte typen akvakulturanlegg eller transport utgjør.Artene og kategoriene av akvatiske dyr som holdes i det berørte akvakulturanlegget, eller som transporteres til eller fra dette anlegget.Typen produksjon i anlegget.Typiske forflytningsmønstre for den typen akvakulturanlegg eller næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.Antallet, volumet eller vekten av akvatiske dyr som holdes i anlegget, eller som transporteres til eller fra anlegget.
+2\. Når Kommisjonen vedtar de delegerte rettsaktene i henhold til nr. 1, skal følgende forhold tas i betraktning:
+
+1. Risikoene som den enkelte typen akvakulturanlegg eller transport utgjør.
+2. Artene og kategoriene av akvatiske dyr som holdes i det berørte akvakulturanlegget, eller som transporteres til eller fra dette anlegget.
+3. Typen produksjon i anlegget.
+4. Typiske forflytningsmønstre for den typen akvakulturanlegg eller næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr.
+5. Antallet, volumet eller vekten av akvatiske dyr som holdes i anlegget, eller som transporteres til eller fra anlegget.
 
 ###### Artikkel 190
 
 Gjennomføringsmyndighet med hensyn til unntak fra kravene om journalføring
 
-Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for hvilke typer akvakulturanlegg og driftsansvarlige som medlemsstatene kan unnta fra kravene om journalføring i henhold til artikkel 186 og 188, når det gjelderdriftsansvarlige som driver visse kategorier av akvakulturanlegg, og transportører,akvakulturanlegg som oppbevarer, eller transportører som transporterer, alt etter som, et lite antall akvakulturdyr eller et lite antall akvatiske dyr,visse arter og kategorier av akvatiske dyr.
+Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for hvilke typer akvakulturanlegg og driftsansvarlige som medlemsstatene kan unnta fra kravene om journalføring i henhold til artikkel 186 og 188, når det gjelder
+
+1. driftsansvarlige som driver visse kategorier av akvakulturanlegg, og transportører,
+2. akvakulturanlegg som oppbevarer, eller transportører som transporterer, alt etter som, et lite antall akvakulturdyr eller et lite antall akvatiske dyr,
+3. visse arter og kategorier av akvatiske dyr.
 
 Når Kommisjonen vedtar nevnte gjennomføringsrettsakter, skal kriteriene fastsatt i artikkel 189 nr. 2 legges til grunn.
 
@@ -2871,9 +4829,24 @@ Generelle krav til forflytninger
 
 Generelle krav til forflytninger av akvatiske dyr
 
-1\. Driftsansvarlige skal treffe hensiktsmessige tiltak for å sikre at forflytningen av holdte akvatiske dyr ikke setter helsestatusen i fare på bestemmelsesstedet, med hensyn til følgende:De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d).Nye sykdommer.
+1\. Driftsansvarlige skal treffe hensiktsmessige tiltak for å sikre at forflytningen av holdte akvatiske dyr ikke setter helsestatusen i fare på bestemmelsesstedet, med hensyn til følgende:
 
-2\. Driftsansvarlige skal bare flytte akvatiske dyr inn i et akvakulturanlegg eller med henblikk på konsum, eller sette dem ut i naturen, dersom de berørte dyrene oppfyller følgende vilkår:Dyrene, bortsett fra viltlevende akvatiske dyr, kommer fra anlegg som erregistrert av vedkommende myndighet i samsvar med artikkel 173,godkjent av vedkommende myndighet i samsvar med artikkel 181 og 182, dersom dette kreves i henhold til artikkel 176 nr. 1, artikkel 177 eller 178, ellergitt unntak fra registreringskravet fastsatt i artikkel 173.Dyrene er ikke omfattet avforflytningsrestriksjoner som gjelder de berørte artene og kategoriene i samsvar med reglene fastsatt i artikkel 55 nr. 1, artikkel 56, artikkel 61 nr. 1, artikkel 62, 64, 65, artikkel 70 nr. 1 bokstav b), artikkel 74 nr. 1, artikkel 79 og 81 og reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63, 67, artikkel 70 nr. 3, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2, ellernødtiltakene fastsatt i artikkel 257 og 258 samt reglene vedtatt i henhold til artikkel 259.Driftsansvarlige kan likevel flytte disse akvatiske dyrene dersom det i del III avdeling II (artikkel 53–83) er gitt unntak fra restriksjonene på slike forflytninger eller slik utsetting, eller dersom det er gitt unntak fra nødtiltakene i regler vedtatt i henhold til artikkel 259.
+1. De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d).
+2. Nye sykdommer.
+
+2\. Driftsansvarlige skal bare flytte akvatiske dyr inn i et akvakulturanlegg eller med henblikk på konsum, eller sette dem ut i naturen, dersom de berørte dyrene oppfyller følgende vilkår:
+
+1. Dyrene, bortsett fra viltlevende akvatiske dyr, kommer fra anlegg som er
+
+   1. registrert av vedkommende myndighet i samsvar med artikkel 173,
+   2. godkjent av vedkommende myndighet i samsvar med artikkel 181 og 182, dersom dette kreves i henhold til artikkel 176 nr. 1, artikkel 177 eller 178, eller
+   3. gitt unntak fra registreringskravet fastsatt i artikkel 173.
+2. Dyrene er ikke omfattet av
+
+   1. forflytningsrestriksjoner som gjelder de berørte artene og kategoriene i samsvar med reglene fastsatt i artikkel 55 nr. 1, artikkel 56, artikkel 61 nr. 1, artikkel 62, 64, 65, artikkel 70 nr. 1 bokstav b), artikkel 74 nr. 1, artikkel 79 og 81 og reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63, 67, artikkel 70 nr. 3, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2, eller
+   2. nødtiltakene fastsatt i artikkel 257 og 258 samt reglene vedtatt i henhold til artikkel 259.
+
+Driftsansvarlige kan likevel flytte disse akvatiske dyrene dersom det i del III avdeling II (artikkel 53–83) er gitt unntak fra restriksjonene på slike forflytninger eller slik utsetting, eller dersom det er gitt unntak fra nødtiltakene i regler vedtatt i henhold til artikkel 259.
 
 3\. Driftsansvarlige skal treffe alle nødvendige tiltak for å sikre at akvatiske dyr, etter at de har forlatt opprinnelsesstedet, sendes direkte til det endelige bestemmelsesstedet.
 
@@ -2881,15 +4854,31 @@ Generelle krav til forflytninger av akvatiske dyr
 
 Sykdomsforebyggende tiltak i forbindelse med transport
 
-1\. Driftsansvarlige skal treffe hensiktsmessige og nødvendige sykdomsforebyggende tiltak for å sikre atde akvatiske dyrenes helsestatus ikke svekkes under transport,transporten av akvatiske dyr ikke medfører mulig spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til mennesker eller dyr underveis og på bestemmelsesstedet,utstyr og transportmidler rengjøres og desinfiseres, samt at andre hensiktsmessige biosikkerhetstiltak treffes ut fra de risikoene som er forbundet med transporten,eventuelle vannutskiftinger og utslipp av vann under transporten av akvatiske dyr beregnet på akvakultur eller utsetting i naturen, skjer på steder og under forhold som ikke setter helsestatusen i fare med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d), forde akvatiske dyrene som transporteres,akvatiske dyr underveis til bestemmelsesstedet,akvatiske dyr på bestemmelsesstedet.
+1\. Driftsansvarlige skal treffe hensiktsmessige og nødvendige sykdomsforebyggende tiltak for å sikre at
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjeldervilkårene for og kravene til rengjøring og desinfisering av utstyr og transportmidler i samsvar med nr. 1 bokstav c), og bruk av biocidprodukter til slike formål,andre hensiktsmessige biosikkerhetstiltak under transport i henhold til nr. 1 bokstav c),vannutskifting og utslipp av vann under transport som fastsatt i nr. 1 bokstav d).
+1. de akvatiske dyrenes helsestatus ikke svekkes under transport,
+2. transporten av akvatiske dyr ikke medfører mulig spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til mennesker eller dyr underveis og på bestemmelsesstedet,
+3. utstyr og transportmidler rengjøres og desinfiseres, samt at andre hensiktsmessige biosikkerhetstiltak treffes ut fra de risikoene som er forbundet med transporten,
+4. eventuelle vannutskiftinger og utslipp av vann under transporten av akvatiske dyr beregnet på akvakultur eller utsetting i naturen, skjer på steder og under forhold som ikke setter helsestatusen i fare med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d), for
+
+   1. de akvatiske dyrene som transporteres,
+   2. akvatiske dyr underveis til bestemmelsesstedet,
+   3. akvatiske dyr på bestemmelsesstedet.
+
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. vilkårene for og kravene til rengjøring og desinfisering av utstyr og transportmidler i samsvar med nr. 1 bokstav c), og bruk av biocidprodukter til slike formål,
+2. andre hensiktsmessige biosikkerhetstiltak under transport i henhold til nr. 1 bokstav c),
+3. vannutskifting og utslipp av vann under transport som fastsatt i nr. 1 bokstav d).
 
 ###### Artikkel 193
 
 Endringer av tiltenkt bruk
 
-1\. Akvatiske dyr som flyttes med henblikk på destruering eller slakting i samsvar med følgende tiltak, skal ikke brukes til noe annet formål:Ethvert av tiltakene for sykdomsbekjempelse i henhold til artikkel 32 nr. 1 bokstav c), artikkel 55 nr. 1, artikkel 56, 61, 62, 64, 65 og 70, artikkel 74 nr. 1 og 2, artikkel 79, 80, 81 og 82 og reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63, 67, artikkel 70 nr. 3, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2.Nødtiltakene fastsatt i artikkel 257 og 258 og i regler vedtatt i henhold til artikkel 259.
+1\. Akvatiske dyr som flyttes med henblikk på destruering eller slakting i samsvar med følgende tiltak, skal ikke brukes til noe annet formål:
+
+1. Ethvert av tiltakene for sykdomsbekjempelse i henhold til artikkel 32 nr. 1 bokstav c), artikkel 55 nr. 1, artikkel 56, 61, 62, 64, 65 og 70, artikkel 74 nr. 1 og 2, artikkel 79, 80, 81 og 82 og reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63, 67, artikkel 70 nr. 3, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2.
+2. Nødtiltakene fastsatt i artikkel 257 og 258 og i regler vedtatt i henhold til artikkel 259.
 
 2\. Akvatiske dyr som flyttes og er beregnet på konsum, akvakultur, utsetting i naturen eller ethvert annet formål, skal ikke brukes til noe annet formål enn det som er tiltenkt.
 
@@ -2899,7 +4888,16 @@ Endringer av tiltenkt bruk
 
 Plikter for driftsansvarlige på bestemmelsesstedet
 
-1\. Driftsansvarlige for akvakulturanlegg og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som mottar akvatiske dyr, og driftsansvarlige som mottar akvatiske dyr for utsetting i naturen, skal gjøre følgende før de akvatiske dyrene losses:Kontrollere, der dette kreves, at et av følgende dokumenter foreligger:Helsesertifikatene fastsatt i artikkel 208 nr. 1, artikkel 209 og artikkel 223 nr. 1 og i reglene vedtatt i henhold til artikkel 189, 211 og 213.Egenerklæringsdokumentene fastsatt i artikkel 218 nr. 1 og i reglene vedtatt i henhold til artikkel 218 nr. 3 og 4.Etter å ha kontrollert de mottatte akvatiske dyrene, informere vedkommende myndighet på bestemmelsesstedet om eventuelle uregelmessigheter med hensyn tilde mottatte akvatiske dyrene,dokumentene nevnt i bokstav a) i) og ii).
+1\. Driftsansvarlige for akvakulturanlegg og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, som mottar akvatiske dyr, og driftsansvarlige som mottar akvatiske dyr for utsetting i naturen, skal gjøre følgende før de akvatiske dyrene losses:
+
+1. Kontrollere, der dette kreves, at et av følgende dokumenter foreligger:
+
+   1. Helsesertifikatene fastsatt i artikkel 208 nr. 1, artikkel 209 og artikkel 223 nr. 1 og i reglene vedtatt i henhold til artikkel 189, 211 og 213.
+   2. Egenerklæringsdokumentene fastsatt i artikkel 218 nr. 1 og i reglene vedtatt i henhold til artikkel 218 nr. 3 og 4.
+2. Etter å ha kontrollert de mottatte akvatiske dyrene, informere vedkommende myndighet på bestemmelsesstedet om eventuelle uregelmessigheter med hensyn til
+
+   1. de mottatte akvatiske dyrene,
+   2. dokumentene nevnt i bokstav a) i) og ii).
 
 2\. Ved et avvik som nevnt i nr. 1 bokstav b) skal driftsansvarlig isolere de akvatiske dyrene som er berørt av avviket inntil vedkommende myndighet på bestemmelsesstedet har truffet en beslutning med hensyn til dyrene.
 
@@ -2917,9 +4915,14 @@ Akvatiske dyr beregnet på akvakulturanlegg eller utsetting i naturen
 
 Unormal dødelighet eller andre alvorlige symptomer på sykdom
 
-1\. Driftsansvarlige skal bare flytte akvatiske dyr fra et akvakulturanlegg eller fra naturen til et annet akvakulturanlegg eller sette dem ut i naturen dersom de berørte dyreneikke viser noen symptomer på sykdom, ogkommer fra et akvakulturanlegg eller et miljø der det ikke finnes unormal dødelighet av ubestemt årsak.
+1\. Driftsansvarlige skal bare flytte akvatiske dyr fra et akvakulturanlegg eller fra naturen til et annet akvakulturanlegg eller sette dem ut i naturen dersom de berørte dyrene
 
-2\. Som unntak fra nr. 1 kan vedkommende myndighet på grunnlag av en vurdering av de tilknyttede risikoene tillate forflytning eller utsetting av de akvatiske dyrene i nevnte nummer, forutsatt at de berørte dyrene kommer fra en del av et akvakulturanlegg eller fra naturen som er atskilt fra den epidemiologiske enheten der den unormale dødeligheten eller de andre sykdomssymptomene har forekommet.Dersom forflytningen eller utsettingen nevnt i dette nummeret skal gjøres til en annen medlemsstat, skal den bare godkjennes av vedkommende myndighet dersom vedkommende myndigheter i bestemmelsesstaten og eventuelt de medlemsstatene som dyrene passerer gjennom, har gitt sitt samtykke til slik forflytning eller utsetting.
+1. ikke viser noen symptomer på sykdom, og
+2. kommer fra et akvakulturanlegg eller et miljø der det ikke finnes unormal dødelighet av ubestemt årsak.
+
+2\. Som unntak fra nr. 1 kan vedkommende myndighet på grunnlag av en vurdering av de tilknyttede risikoene tillate forflytning eller utsetting av de akvatiske dyrene i nevnte nummer, forutsatt at de berørte dyrene kommer fra en del av et akvakulturanlegg eller fra naturen som er atskilt fra den epidemiologiske enheten der den unormale dødeligheten eller de andre sykdomssymptomene har forekommet.
+
+Dersom forflytningen eller utsettingen nevnt i dette nummeret skal gjøres til en annen medlemsstat, skal den bare godkjennes av vedkommende myndighet dersom vedkommende myndigheter i bestemmelsesstaten og eventuelt de medlemsstatene som dyrene passerer gjennom, har gitt sitt samtykke til slik forflytning eller utsetting.
 
 ###### Artikkel 197
 
@@ -2929,7 +4932,13 @@ Forflytning av akvakulturdyr beregnet på medlemsstater, soner eller segmenter s
 
 2\. Driftsansvarlige skal bare flytte akvakulturdyr av listeførte arter som er relevante for én eller flere av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) eller c) til et akvakulturanlegg, eller for å settes ut i naturen i en medlemsstat, en sone eller et segment som er omfattet av et utryddelsesprogram for én eller flere av de listeførte sykdommene i samsvar med artikkel 31 nr. 1 eller 2, dersom de berørte dyrene kommer fra en medlemsstat, eller en sone eller et segment av denne, som er erklært fri/fritt for nevnte sykdommer.
 
-3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder unntak fra kravene til forflytning eller utsetting fastsatt i nr. 1 og 2, som ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), på grunn avartene og kategoriene av de berørte akvakulturdyrene samt deres livsstadium,typen opprinnelses- og bestemmelsesanlegg,den tiltenkte bruken av akvakulturdyrene,akvakulturdyrenes bestemmelsessted,behandlinger, bearbeidingsmetoder og andre særlige risikoreduserende tiltak som benyttes på opprinnelses- eller bestemmelsesstedet.
+3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder unntak fra kravene til forflytning eller utsetting fastsatt i nr. 1 og 2, som ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), på grunn av
+
+1. artene og kategoriene av de berørte akvakulturdyrene samt deres livsstadium,
+2. typen opprinnelses- og bestemmelsesanlegg,
+3. den tiltenkte bruken av akvakulturdyrene,
+4. akvakulturdyrenes bestemmelsessted,
+5. behandlinger, bearbeidingsmetoder og andre særlige risikoreduserende tiltak som benyttes på opprinnelses- eller bestemmelsesstedet.
 
 ###### Artikkel 198
 
@@ -2951,7 +4960,10 @@ Forflytning av viltlevende akvatiske dyr beregnet på medlemsstater, eller soner
 
 1\. Artikkel 196, 197 og 198 får anvendelse på forflytninger av viltlevende akvatiske dyr beregnet på et akvakulturanlegg eller utsetting i naturen.
 
-2\. Driftsansvarlige skal treffe hensiktsmessige og nødvendige sykdomsforebyggende tiltak ved forflytning av viltlevende akvatiske dyr mellom habitater for å sikre atslike forflytninger ikke utgjør noen vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til akvatiske dyr på bestemmelsesstedet, ogrisikoreduserende eller andre hensiktsmessige biosikkerhetstiltak er innført der det er nødvendig for å sikre oppfyllelse av bokstav a).
+2\. Driftsansvarlige skal treffe hensiktsmessige og nødvendige sykdomsforebyggende tiltak ved forflytning av viltlevende akvatiske dyr mellom habitater for å sikre at
+
+1. slike forflytninger ikke utgjør noen vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til akvatiske dyr på bestemmelsesstedet, og
+2. risikoreduserende eller andre hensiktsmessige biosikkerhetstiltak er innført der det er nødvendig for å sikre oppfyllelse av bokstav a).
 
 3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til sykdomsforebyggende og risikoreduserende tiltak som driftsansvarlige skal treffe i henhold til nr. 2 i denne artikkelen. Inntil slike delegerte rettsakter er vedtatt, kan slike tiltak treffes av vedkommende myndighet på bestemmelsesstedet.
 
@@ -2967,7 +4979,13 @@ Forflytning av levende akvakulturdyr beregnet på konsum i medlemsstater, soner 
 
 2\. Som unntak fra nr. 1 kan medlemsstatene tillate at driftsansvarlige fører levende akvakulturdyr inn i en sone eller et segment som omfattes av et utryddelsesprogram i samsvar med artikkel 31 nr. 1 eller 2 når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav b) og c), fra en annen sone eller et annet segment i nevnte medlemsstat som det også er opprettet et slikt program for, for de samme listeførte sykdommene, forutsatt at forflytningen ikke setter helsestatusen i fare i bestemmelsesstaten, -sonen eller -segmentet.
 
-3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til unntakene fastsatt i nr. 2 for forflytninger av levende akvakulturdyr som ikke utgjør noen vesentlig risiko for spredning av sykdommer, på grunn avartene og kategoriene av de berørte akvakulturdyrene samt deres livsstadium,metodene for hold av akvakulturdyr og typen produksjon i akvakulturanlegget på opprinnelses- eller bestemmelsesstedet,den tiltenkte bruken av akvakulturdyrene,akvakulturdyrenes bestemmelsessted,behandlinger, bearbeidingsmetoder og andre særlige risikoreduserende tiltak som benyttes på opprinnelses- eller bestemmelsesstedet.
+3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til unntakene fastsatt i nr. 2 for forflytninger av levende akvakulturdyr som ikke utgjør noen vesentlig risiko for spredning av sykdommer, på grunn av
+
+1. artene og kategoriene av de berørte akvakulturdyrene samt deres livsstadium,
+2. metodene for hold av akvakulturdyr og typen produksjon i akvakulturanlegget på opprinnelses- eller bestemmelsesstedet,
+3. den tiltenkte bruken av akvakulturdyrene,
+4. akvakulturdyrenes bestemmelsessted,
+5. behandlinger, bearbeidingsmetoder og andre særlige risikoreduserende tiltak som benyttes på opprinnelses- eller bestemmelsesstedet.
 
 ###### Artikkel 202
 
@@ -2987,9 +5005,15 @@ Unntak fra avsnitt 1–3 (artikkel 191–202) og supplerende risikoreduserende t
 
 Akvatiske dyr beregnet på avgrensede akvakulturanlegg, og delegerte rettsakter
 
-1\. Driftsansvarlige skal bare flytte akvatiske dyr til et avgrenset akvakulturanlegg dersom de berørte dyrene oppfyller følgende vilkår:De kommer fra et annet avgrenset akvakulturanlegg.De utgjør ikke en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til listeførte arter av dyr i det avgrensede akvakulturanlegget på bestemmelsesstedet, med mindre den aktuelle forflytningen er godkjent for vitenskapelige formål.
+1\. Driftsansvarlige skal bare flytte akvatiske dyr til et avgrenset akvakulturanlegg dersom de berørte dyrene oppfyller følgende vilkår:
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjeldernærmere regler for forflytning av akvakulturdyr til avgrensede akvakulturanlegg, i tillegg til reglene fastsatt i nr. 1,særlige regler for forflytning av akvakulturdyr til avgrensede akvakulturanlegg der de risikoreduserende tiltakene som er innført, sikrer at forflytningen ikke utgjør en vesentlig risiko for helsen til akvakulturdyrene i nevnte avgrensede akvakulturanlegg og omkringliggende anlegg.
+1. De kommer fra et annet avgrenset akvakulturanlegg.
+2. De utgjør ikke en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til listeførte arter av dyr i det avgrensede akvakulturanlegget på bestemmelsesstedet, med mindre den aktuelle forflytningen er godkjent for vitenskapelige formål.
+
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. nærmere regler for forflytning av akvakulturdyr til avgrensede akvakulturanlegg, i tillegg til reglene fastsatt i nr. 1,
+2. særlige regler for forflytning av akvakulturdyr til avgrensede akvakulturanlegg der de risikoreduserende tiltakene som er innført, sikrer at forflytningen ikke utgjør en vesentlig risiko for helsen til akvakulturdyrene i nevnte avgrensede akvakulturanlegg og omkringliggende anlegg.
 
 ###### Artikkel 204
 
@@ -2997,7 +5021,14 @@ Forflytning av akvatiske dyr for vitenskapelige formål, og delegerte rettsakter
 
 1\. Med forbehold for samtykke fra vedkommende myndighet på opprinnelsesstedet kan vedkommende myndighet på bestemmelsesstedet tillate forflytning for vitenskapelige formål av akvatiske dyr til bestemmelsesmedlemsstatens territorium selv om forflytningen ikke oppfyller kravene i avsnitt 1–3 (artikkel 191–202), med unntak av artikkel 191 nr. 1 og 3 og artikkel 192, 193 og 194.
 
-2\. Vedkommende myndighet nevnt i nr. 1 skal bare gi unntak i henhold til samme nummer dersom følgende vilkår er oppfylt:Vedkommende myndigheter på opprinnelses- og bestemmelsesstedeter blitt enige om vilkårene for slike forflytninger,har sikret at de nødvendige risikoreduserende tiltakene er innført slik at forflytningen av de akvatiske dyrene ikke setter helsestatusen i fare på steder underveis og på bestemmelsesstedet med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),når det er relevant, har meldt til vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom, om det unntaket som er gitt og på hvilke vilkår det er gitt.Forflytningen finner sted under tilsyn av vedkommende myndigheter på opprinnelses- og bestemmelsesstedet og eventuelt vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom.
+2\. Vedkommende myndighet nevnt i nr. 1 skal bare gi unntak i henhold til samme nummer dersom følgende vilkår er oppfylt:
+
+1. Vedkommende myndigheter på opprinnelses- og bestemmelsesstedet
+
+   1. er blitt enige om vilkårene for slike forflytninger,
+   2. har sikret at de nødvendige risikoreduserende tiltakene er innført slik at forflytningen av de akvatiske dyrene ikke setter helsestatusen i fare på steder underveis og på bestemmelsesstedet med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),
+   3. når det er relevant, har meldt til vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom, om det unntaket som er gitt og på hvilke vilkår det er gitt.
+2. Forflytningen finner sted under tilsyn av vedkommende myndigheter på opprinnelses- og bestemmelsesstedet og eventuelt vedkommende myndigheter i de medlemsstatene som dyrene passerer gjennom.
 
 3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til regler for unntak som gis av vedkommende myndigheter, og som utfyller reglene fastsatt i nr. 1 og 2.
 
@@ -3007,13 +5038,28 @@ Andre særlige bruksområder for akvatiske dyr, særlige krav og unntak, og dele
 
 1\. Driftsansvarlige skal treffe nødvendige forebyggende tiltak for å sikre at forflytninger av akvatiske dyr beregnet på særlige formål eller bruksområder angitt i nr. 2 bokstav a) i)–vi), ikke utgjør en risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), til akvatiske dyr på bestemmelsesstedet.
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Særlige krav som utfyller reglene fastsatt i avsnitt 1–3 (artikkel 191–202) og for forflytning av akvatiske dyr til følgende formål:Zoologiske hager, dyrebutikker, grossister og hagedammer.Utstillinger.Sportsfiske, herunder agn.Kulturelle og tilsvarende arrangementer.Kommersielle akvarier.Helsetjenester og andre lignende bruksområder.Unntak fra avsnitt 1–3 (artikkel 191–202), unntatt artikkel 191 nr. 1 og 3 og artikkel 192, 193 og 194, for forflytninger av akvatiske dyr som nevnt i bokstav a) i dette nummeret, forutsatt at hensiktsmessige biosikkerhetstiltak er innført for å sikre at nevnte forflytninger ikke utgjør en vesentlig risiko for helsestatusen på bestemmelsesstedet.
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
+
+1. Særlige krav som utfyller reglene fastsatt i avsnitt 1–3 (artikkel 191–202) og for forflytning av akvatiske dyr til følgende formål:
+
+   1. Zoologiske hager, dyrebutikker, grossister og hagedammer.
+   2. Utstillinger.
+   3. Sportsfiske, herunder agn.
+   4. Kulturelle og tilsvarende arrangementer.
+   5. Kommersielle akvarier.
+   6. Helsetjenester og andre lignende bruksområder.
+2. Unntak fra avsnitt 1–3 (artikkel 191–202), unntatt artikkel 191 nr. 1 og 3 og artikkel 192, 193 og 194, for forflytninger av akvatiske dyr som nevnt i bokstav a) i dette nummeret, forutsatt at hensiktsmessige biosikkerhetstiltak er innført for å sikre at nevnte forflytninger ikke utgjør en vesentlig risiko for helsestatusen på bestemmelsesstedet.
 
 ###### Artikkel 206
 
 Gjennomføringsmyndighet til å vedta midlertidige regler for forflytning av bestemte arter eller kategorier av akvatiske dyr
 
-1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette midlertidige regler som tillegg eller alternativ til reglene i dette kapittelet, for forflytning av bestemte arter eller kategorier av akvatiske dyr dersomkravene til forflytning i artikkel 196, artikkel 197 nr. 1, artikkel 198, 199, artikkel 200 nr. 1 og 2, artikkel 201, artikkel 202 nr. 1, artikkel 203 nr. 1, artikkel 204 nr. 1 og 2 samt reglene vedtatt i henhold til artikkel 197 nr. 3, artikkel 200 nr. 3, artikkel 202 nr. 3, artikkel 203 nr. 2, artikkel 204 nr. 3 og artikkel 205 ikke faktisk reduserer risikoene ved forflytningen av disse akvatiske dyrene, elleren listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d), synes å spre seg til tross for kravene til forflytning fastsatt i samsvar med avsnitt 1–4 (artikkel 191–207).Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette midlertidige regler som tillegg eller alternativ til reglene i dette kapittelet, for forflytning av bestemte arter eller kategorier av akvatiske dyr dersom
+
+1. kravene til forflytning i artikkel 196, artikkel 197 nr. 1, artikkel 198, 199, artikkel 200 nr. 1 og 2, artikkel 201, artikkel 202 nr. 1, artikkel 203 nr. 1, artikkel 204 nr. 1 og 2 samt reglene vedtatt i henhold til artikkel 197 nr. 3, artikkel 200 nr. 3, artikkel 202 nr. 3, artikkel 203 nr. 2, artikkel 204 nr. 3 og artikkel 205 ikke faktisk reduserer risikoene ved forflytningen av disse akvatiske dyrene, eller
+2. en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d), synes å spre seg til tross for kravene til forflytning fastsatt i samsvar med avsnitt 1–4 (artikkel 191–207).
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 2\. I behørig begrunnede, tvingende hastetilfeller knyttet til en listeført sykdom som utgjør en svært betydelig risiko, og idet det tas hensyn til forholdene nevnt i artikkel 205, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
@@ -3021,7 +5067,15 @@ Gjennomføringsmyndighet til å vedta midlertidige regler for forflytning av bes
 
 Forhold som skal tas i betraktning ved vedtakelse av delegerte rettsakter og gjennomføringsrettsakter i henhold til dette avsnittet
 
-Når Kommisjonen utarbeider de reglene som skal fastsettes i de delegerte rettsaktene og gjennomføringsrettsaktene i henhold til artikkel 203 nr. 2, artikkel 204 nr. 3, artikkel 205 og 206, skal følgende tas i betraktning:Risikoene ved forflytningene nevnt i bestemmelsene.Helsestatus med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) på opprinnelsesstedet, på de stedene dyrene passerer gjennom, og på bestemmelsesstedet.Listeførte arter av akvatiske dyr for de listeførte sykdommene som er nevnt i artikkel 9 nr. 1 bokstav d).Biosikkerhetstiltak som er innført på opprinnelsesstedet, på de stedene dyrene passerer gjennom, og på bestemmelsesstedet.Eventuelle særlige forhold som akvakulturdyrene holdes under.Typiske forflytningsmønstre for den berørte typen akvakulturanlegg og for de berørte artene eller kategoriene av akvatiske dyr.Andre epidemiologiske faktorer.
+Når Kommisjonen utarbeider de reglene som skal fastsettes i de delegerte rettsaktene og gjennomføringsrettsaktene i henhold til artikkel 203 nr. 2, artikkel 204 nr. 3, artikkel 205 og 206, skal følgende tas i betraktning:
+
+1. Risikoene ved forflytningene nevnt i bestemmelsene.
+2. Helsestatus med hensyn til de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) på opprinnelsesstedet, på de stedene dyrene passerer gjennom, og på bestemmelsesstedet.
+3. Listeførte arter av akvatiske dyr for de listeførte sykdommene som er nevnt i artikkel 9 nr. 1 bokstav d).
+4. Biosikkerhetstiltak som er innført på opprinnelsesstedet, på de stedene dyrene passerer gjennom, og på bestemmelsesstedet.
+5. Eventuelle særlige forhold som akvakulturdyrene holdes under.
+6. Typiske forflytningsmønstre for den berørte typen akvakulturanlegg og for de berørte artene eller kategoriene av akvatiske dyr.
+7. Andre epidemiologiske faktorer.
 
 ###### Avsnitt 5
 
@@ -3057,15 +5111,38 @@ Som unntak fra kravene til helsesertifisering fastsatt i artikkel 208 og 209 kan
 
 Delegering av myndighet og gjennomføringsrettsakter som gjelder utstedelse av helsesertifikater for akvatiske dyr
 
-1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Kravet om utstedelse av helsesertifikat ved forflytning av andre akvatiske dyr enn akvakulturdyr som nevnt i artikkel 209 nr. 1, når utstedelse av helsesertifikat er avgjørende for å sikre at den aktuelle forflytningen oppfyller følgende krav til dyrehelse for de berørte listeførte dyreartene:Kravene i avsnitt 1–4 (artikkel 191–207) og reglene vedtatt i henhold til nevnte avsnitt.Tiltakene for sykdomsbekjempelse i henhold til artikkel 55 nr. 1, artikkel 56, artikkel 61 nr. 1, artikkel 62 og 64, artikkel 65 nr. 1, artikkel 74 nr. 1, artikkel 79 og 80 eller reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63, 67, 68, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2.Nødtiltakene fastsatt i reglene vedtatt i henhold til artikkel 259.Særlige regler for utstedelse av helsesertifikat i henhold til artikkel 208 og 209 dersom vedkommende myndighet har truffet bestemte risikoreduserende tiltak for å sikre atde akvatiske dyrene som skal flyttes, kan spores,de akvatiske dyrene som skal flyttes, oppfyller kravene til dyrehelse for forflytning i henhold til avsnitt 1–4 (artikkel 191–207).Unntak fra kravene om helsesertifikat fastsatt i artikkel 208 og 209 og vilkårene for slike unntak for forflytning av akvatiske dyr som ikke utgjør en vesentlig risiko for spredning av sykdommer, på grunn avartene eller kategoriene av de berørte akvatiske dyrene, eller deres livsstadium,metodene for dyrehold og typen produksjon av disse artene og kategoriene av akvakulturdyr,den tiltenkte bruken av de akvatiske dyrene, ellerbestemmelsesstedet for de akvatiske dyrene.
+1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
 
-2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for driftsansvarliges plikt i henhold til artikkel 209 nr. 2 til å sikre at viltlevende akvatiske dyr beregnet på et akvakulturanlegg, ledsages av et helsesertifikat.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. Kravet om utstedelse av helsesertifikat ved forflytning av andre akvatiske dyr enn akvakulturdyr som nevnt i artikkel 209 nr. 1, når utstedelse av helsesertifikat er avgjørende for å sikre at den aktuelle forflytningen oppfyller følgende krav til dyrehelse for de berørte listeførte dyreartene:
+
+   1. Kravene i avsnitt 1–4 (artikkel 191–207) og reglene vedtatt i henhold til nevnte avsnitt.
+   2. Tiltakene for sykdomsbekjempelse i henhold til artikkel 55 nr. 1, artikkel 56, artikkel 61 nr. 1, artikkel 62 og 64, artikkel 65 nr. 1, artikkel 74 nr. 1, artikkel 79 og 80 eller reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63, 67, 68, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2.
+   3. Nødtiltakene fastsatt i reglene vedtatt i henhold til artikkel 259.
+2. Særlige regler for utstedelse av helsesertifikat i henhold til artikkel 208 og 209 dersom vedkommende myndighet har truffet bestemte risikoreduserende tiltak for å sikre at
+
+   1. de akvatiske dyrene som skal flyttes, kan spores,
+   2. de akvatiske dyrene som skal flyttes, oppfyller kravene til dyrehelse for forflytning i henhold til avsnitt 1–4 (artikkel 191–207).
+3. Unntak fra kravene om helsesertifikat fastsatt i artikkel 208 og 209 og vilkårene for slike unntak for forflytning av akvatiske dyr som ikke utgjør en vesentlig risiko for spredning av sykdommer, på grunn av
+
+   1. artene eller kategoriene av de berørte akvatiske dyrene, eller deres livsstadium,
+   2. metodene for dyrehold og typen produksjon av disse artene og kategoriene av akvakulturdyr,
+   3. den tiltenkte bruken av de akvatiske dyrene, eller
+   4. bestemmelsesstedet for de akvatiske dyrene.
+
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for driftsansvarliges plikt i henhold til artikkel 209 nr. 2 til å sikre at viltlevende akvatiske dyr beregnet på et akvakulturanlegg, ledsages av et helsesertifikat.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Artikkel 212
 
 Innholdet i helsesertifikatene
 
-1\. Helsesertifikatet nevnt i artikkel 208, 209 og 210 skal inneholde minst følgende opplysninger:Opprinnelsesanlegg eller -sted, bestemmelsesanlegg eller -sted og dersom det er relevant for spredningen av sykdommer, alle anlegg eller steder som besøkes underveis.En beskrivelse av de berørte akvatiske dyrene, herunder art og kategori.Mengden akvatiske dyr (antall, volum eller vekt).Opplysninger som er nødvendige for å vise at de akvatiske dyrene oppfyller de relevante kravene til dyrehelse for forflytning i henhold til avsnitt 1–4 (artikkel 191–207).
+1\. Helsesertifikatet nevnt i artikkel 208, 209 og 210 skal inneholde minst følgende opplysninger:
+
+1. Opprinnelsesanlegg eller -sted, bestemmelsesanlegg eller -sted og dersom det er relevant for spredningen av sykdommer, alle anlegg eller steder som besøkes underveis.
+2. En beskrivelse av de berørte akvatiske dyrene, herunder art og kategori.
+3. Mengden akvatiske dyr (antall, volum eller vekt).
+4. Opplysninger som er nødvendige for å vise at de akvatiske dyrene oppfyller de relevante kravene til dyrehelse for forflytning i henhold til avsnitt 1–4 (artikkel 191–207).
 
 2\. Helsesertifikatet kan inneholde andre opplysninger som kreves i samsvar med annet unionsregelverk.
 
@@ -3073,39 +5150,70 @@ Innholdet i helsesertifikatene
 
 Delegering av myndighet og gjennomføringsrettsakter som gjelder innholdet i helsesertifikater
 
-1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til innholdet i helsesertifikater som nevnt i artikkel 212 nr. 1, om følgende:Nærmere regler for innholdet i nevnte helsesertifikater fastsatt i artikkel 212 nr. 1 for ulike arter og kategorier av akvatiske dyr.Ytterligere opplysninger som skal inntas i helsesertifikatet fastsatt i artikkel 212 nr. 1.
+1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til innholdet i helsesertifikater som nevnt i artikkel 212 nr. 1, om følgende:
 
-2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for standardskjemaene for helsesertifikater.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. Nærmere regler for innholdet i nevnte helsesertifikater fastsatt i artikkel 212 nr. 1 for ulike arter og kategorier av akvatiske dyr.
+2. Ytterligere opplysninger som skal inntas i helsesertifikatet fastsatt i artikkel 212 nr. 1.
+
+2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for standardskjemaene for helsesertifikater.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Artikkel 214
 
 Delegering av myndighet når det gjelder bestemte typer forflytninger av akvatiske dyr til bestemmelsesstedet
 
-Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til bestemte tiltak som skal utfylle kravene til utstedelse av helsesertifikater fastsatt i artikkel 208 og 209, for følgende typer forflytninger av akvatiske dyr:Forflytninger av akvatiske dyr som skal sendes tilbake til opprinnelsesstedet eller flyttes til et annet sted, av én eller flere av følgende årsaker:Den planlagte transporten ble uventet avbrutt av dyrevelferdshensyn.Uforutsette ulykker eller hendelser under transporten.De ble avvist på bestemmelsesstedet i en annen medlemsstat eller ved Unionens yttergrense.De ble avvist i et tredjeland eller et territorium.Forflytninger av akvakulturdyr beregnet på utstillinger eller idretts- eller kulturarrangementer eller tilsvarende arrangementer, og påfølgende tilbakesending av dem til opprinnelsesstedet.
+Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til bestemte tiltak som skal utfylle kravene til utstedelse av helsesertifikater fastsatt i artikkel 208 og 209, for følgende typer forflytninger av akvatiske dyr:
+
+1. Forflytninger av akvatiske dyr som skal sendes tilbake til opprinnelsesstedet eller flyttes til et annet sted, av én eller flere av følgende årsaker:
+
+   1. Den planlagte transporten ble uventet avbrutt av dyrevelferdshensyn.
+   2. Uforutsette ulykker eller hendelser under transporten.
+   3. De ble avvist på bestemmelsesstedet i en annen medlemsstat eller ved Unionens yttergrense.
+   4. De ble avvist i et tredjeland eller et territorium.
+2. Forflytninger av akvakulturdyr beregnet på utstillinger eller idretts- eller kulturarrangementer eller tilsvarende arrangementer, og påfølgende tilbakesending av dem til opprinnelsesstedet.
 
 ###### Artikkel 215
 
 Driftsansvarliges plikt til å samarbeide med vedkommende myndigheter med henblikk på utstedelse av helsesertifikat
 
-Driftsansvarlige skalgi vedkommende myndighet alle opplysninger som er nødvendige for å fylle ut helsesertifikatet fastsatt i artikkel 208 og 209 og i regler vedtatt i henhold til artikkel 211, 213 og 214, før den planlagte forflytningen,om nødvendig sørge for at de aktuelle akvatiske dyrene gjennomgår dokumentkontroll, identitetskontroll og fysisk kontroll i henhold til artikkel 216 nr. 3 og regler vedtatt i henhold til artikkel 216 nr. 4.
+Driftsansvarlige skal
+
+1. gi vedkommende myndighet alle opplysninger som er nødvendige for å fylle ut helsesertifikatet fastsatt i artikkel 208 og 209 og i regler vedtatt i henhold til artikkel 211, 213 og 214, før den planlagte forflytningen,
+2. om nødvendig sørge for at de aktuelle akvatiske dyrene gjennomgår dokumentkontroll, identitetskontroll og fysisk kontroll i henhold til artikkel 216 nr. 3 og regler vedtatt i henhold til artikkel 216 nr. 4.
 
 ###### Artikkel 216
 
 Vedkommende myndighets ansvar for utstedelse av helsesertifikat, og delegerte rettsakter
 
-1\. Vedkommende myndighet skal på anmodning fra en driftsansvarlig utstede et helsesertifikat for forflytning av akvatiske dyr når dette kreves etter artikkel 208 og 209 eller regler vedtatt i henhold til artikkel 211 og 214, forutsatt at følgende krav til dyrehelse er oppfylt, alt etter hva som er relevant:Kravene i artikkel 191, artikkel 192 nr. 1, artikkel 193, 195, 196, artikkel 197 nr. 1, artikkel 198, 199, artikkel 200 nr. 1 og 2, artikkel 201, artikkel 203 nr. 1 og artikkel 204 nr. 1 og 2.Kravene i delegerte rettsakter vedtatt i henhold til artikkel 192 nr. 2, artikkel 197 nr. 3, artikkel 200 nr. 3, artikkel 201 nr. 3, artikkel 202 nr. 3, artikkel 203 nr. 2, artikkel 204 nr. 3 og artikkel 205.Kravene i gjennomføringsrettsakter vedtatt i henhold til artikkel 206.
+1\. Vedkommende myndighet skal på anmodning fra en driftsansvarlig utstede et helsesertifikat for forflytning av akvatiske dyr når dette kreves etter artikkel 208 og 209 eller regler vedtatt i henhold til artikkel 211 og 214, forutsatt at følgende krav til dyrehelse er oppfylt, alt etter hva som er relevant:
 
-2\. Helsesertifikatene skalvære kontrollert, stemplet og undertegnet av en offentlig veterinær,være gyldige i tidsrommet fastsatt i reglene vedtatt i henhold til nr. 4 bokstav c), der de akvatiske dyrene som omfattes av sertifikatet, skal fortsette å oppfylle dyrehelsegarantiene i det.
+1. Kravene i artikkel 191, artikkel 192 nr. 1, artikkel 193, 195, 196, artikkel 197 nr. 1, artikkel 198, 199, artikkel 200 nr. 1 og 2, artikkel 201, artikkel 203 nr. 1 og artikkel 204 nr. 1 og 2.
+2. Kravene i delegerte rettsakter vedtatt i henhold til artikkel 192 nr. 2, artikkel 197 nr. 3, artikkel 200 nr. 3, artikkel 201 nr. 3, artikkel 202 nr. 3, artikkel 203 nr. 2, artikkel 204 nr. 3 og artikkel 205.
+3. Kravene i gjennomføringsrettsakter vedtatt i henhold til artikkel 206.
+
+2\. Helsesertifikatene skal
+
+1. være kontrollert, stemplet og undertegnet av en offentlig veterinær,
+2. være gyldige i tidsrommet fastsatt i reglene vedtatt i henhold til nr. 4 bokstav c), der de akvatiske dyrene som omfattes av sertifikatet, skal fortsette å oppfylle dyrehelsegarantiene i det.
 
 3\. Før helsesertifikatet undertegnes, skal den berørte offentlige veterinæren kontrollere, ved dokumentkontroll, identitetskontroll og fysisk kontroll som fastsatt i delegerte rettsakter vedtatt i henhold til nr. 4, der det er relevant, at de akvatiske dyrene helsesertifikatet gjelder, oppfyller kravene i dette kapittelet, idet det tas hensyn til artene og kategoriene av de berørte akvatiske dyrene og kravene til dyrehelse.
 
-4\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264, der det fastsettes regler forde ulike typene dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser for ulike arter og kategorier av akvatiske dyr som den offentlige veterinæren må utføre i samsvar med nr. 3, for å kontrollere samsvar med kravene i dette kapittelet,fristene for å gjennomføre slik dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser, og utstedelse av helsesertifikater av den offentlige veterinæren før forflytning av forsendelser av akvatiske dyr,gyldighetstiden for helsesertifikater.
+4\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264, der det fastsettes regler for
+
+1. de ulike typene dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser for ulike arter og kategorier av akvatiske dyr som den offentlige veterinæren må utføre i samsvar med nr. 3, for å kontrollere samsvar med kravene i dette kapittelet,
+2. fristene for å gjennomføre slik dokumentkontroll, identitetskontroll og fysisk kontroll og undersøkelser, og utstedelse av helsesertifikater av den offentlige veterinæren før forflytning av forsendelser av akvatiske dyr,
+3. gyldighetstiden for helsesertifikater.
 
 ###### Artikkel 217
 
 Elektroniske helsesertifikater
 
-Elektroniske helsesertifikater som produseres, håndteres og overføres ved hjelp av TRACES, kan erstatte ledsagende helsesertifikater i henhold til artikkel 216 nr. 1 dersom det elektroniske helsesertifikatetinneholder alle de opplysningene som standardskjemaet for helsesertifikatet skal inneholde i samsvar med artikkel 212 nr. 1 og reglene vedtatt i henhold til artikkel 213,sikrer sporbarhet for de aktuelle akvatiske dyrene og forbindelsen mellom disse dyrene og det elektroniske helsesertifikatet,sikrer at vedkommende myndigheter i opprinnelsesmedlemsstaten, i medlemsstater som dyrene passerer gjennom, og i bestemmelsesmedlemsstaten har tilgang til de elektroniske dokumentene under hele transporten.
+Elektroniske helsesertifikater som produseres, håndteres og overføres ved hjelp av TRACES, kan erstatte ledsagende helsesertifikater i henhold til artikkel 216 nr. 1 dersom det elektroniske helsesertifikatet
+
+1. inneholder alle de opplysningene som standardskjemaet for helsesertifikatet skal inneholde i samsvar med artikkel 212 nr. 1 og reglene vedtatt i henhold til artikkel 213,
+2. sikrer sporbarhet for de aktuelle akvatiske dyrene og forbindelsen mellom disse dyrene og det elektroniske helsesertifikatet,
+3. sikrer at vedkommende myndigheter i opprinnelsesmedlemsstaten, i medlemsstater som dyrene passerer gjennom, og i bestemmelsesmedlemsstaten har tilgang til de elektroniske dokumentene under hele transporten.
 
 ###### Artikkel 218
 
@@ -3113,11 +5221,21 @@ Driftsansvarliges egenerklæring i forbindelse med forflytning av akvakulturdyr 
 
 1\. Driftsansvarlige på opprinnelsesstedet skal utstede et egenerklæringsdokument for forflytning av akvakulturdyr fra deres opprinnelsessted i en medlemsstat til deres bestemmelsessted i en annen medlemsstat og skal sikre at det ledsager akvakulturdyrene, med mindre det kreves at de ledsages av et helsesertifikat i henhold til artikkel 208 og 209 eller regler vedtatt i henhold til artikkel 211 og 214.
 
-2\. Egenerklæringsdokumentet fastsatt i nr. 1 skal inneholde minst følgende opplysninger om de aktuelle akvakulturdyrene:Deres opprinnelsessted, bestemmelsessted og eventuelle steder underveis.Transportmiddel.En beskrivelse av akvakulturdyrene og deres kategorier, arter og mengde (antall, volum eller vekt), alt etter hva som er relevant for de berørte dyrene.Opplysninger som er nødvendige for å vise at akvakulturdyrene oppfyller kravene til forflytning i henhold til avsnitt 1–4 (artikkel 191–207).
+2\. Egenerklæringsdokumentet fastsatt i nr. 1 skal inneholde minst følgende opplysninger om de aktuelle akvakulturdyrene:
 
-3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Nærmere regler for innholdet i egenerklæringsdokumentet fastsatt i nr. 2 for ulike arter og kategorier av akvakulturdyr.Ytterligere opplysninger som skal inntas i egenerklæringsdokumentet, i tillegg til det som er fastsatt i nr. 2.
+1. Deres opprinnelsessted, bestemmelsessted og eventuelle steder underveis.
+2. Transportmiddel.
+3. En beskrivelse av akvakulturdyrene og deres kategorier, arter og mengde (antall, volum eller vekt), alt etter hva som er relevant for de berørte dyrene.
+4. Opplysninger som er nødvendige for å vise at akvakulturdyrene oppfyller kravene til forflytning i henhold til avsnitt 1–4 (artikkel 191–207).
 
-4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for et standardskjema for egenerklæringsdokumentet fastsatt i nr. 1.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
+
+1. Nærmere regler for innholdet i egenerklæringsdokumentet fastsatt i nr. 2 for ulike arter og kategorier av akvakulturdyr.
+2. Ytterligere opplysninger som skal inntas i egenerklæringsdokumentet, i tillegg til det som er fastsatt i nr. 2.
+
+4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for et standardskjema for egenerklæringsdokumentet fastsatt i nr. 1.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Avsnitt 6
 
@@ -3127,7 +5245,15 @@ Meldinger om forflytning av akvatiske dyr til andre medlemsstater
 
 Driftsansvarliges meldingsplikt i forbindelse med forflytning av akvatiske dyr til andre medlemsstater
 
-1\. Andre driftsansvarlige enn transportører skal på forhånd melde planlagte forflytninger av akvatiske dyr fra én medlemsstat til en annen medlemsstat, til vedkommende myndighet i opprinnelsesmedlemsstaten dersomde akvatiske dyrene skal være ledsaget av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten i samsvar med artikkel 208 og 209 og eventuelle regler vedtatt i henhold til artikkel 211 og artikkel 214 nr. 2,de akvatiske dyrene skal være ledsaget av et helsesertifikat for akvatiske dyr når de flyttes fra en restriksjonssone som nevnt i artikkel 208 nr. 2 bokstav a),akvakulturdyrene og de viltlevende akvatiske dyrene som flyttes, er beregnet pået anlegg som skal registreres i samsvar med artikkel 173 eller godkjennes i samsvar med artikkel 176–179,eller utsetting i naturen,melding kreves i samsvar med delegerte rettsakter vedtatt i henhold til artikkel 221.
+1\. Andre driftsansvarlige enn transportører skal på forhånd melde planlagte forflytninger av akvatiske dyr fra én medlemsstat til en annen medlemsstat, til vedkommende myndighet i opprinnelsesmedlemsstaten dersom
+
+1. de akvatiske dyrene skal være ledsaget av et helsesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten i samsvar med artikkel 208 og 209 og eventuelle regler vedtatt i henhold til artikkel 211 og artikkel 214 nr. 2,
+2. de akvatiske dyrene skal være ledsaget av et helsesertifikat for akvatiske dyr når de flyttes fra en restriksjonssone som nevnt i artikkel 208 nr. 2 bokstav a),
+3. akvakulturdyrene og de viltlevende akvatiske dyrene som flyttes, er beregnet på
+
+   1. et anlegg som skal registreres i samsvar med artikkel 173 eller godkjennes i samsvar med artikkel 176–179,
+   2. eller utsetting i naturen,
+4. melding kreves i samsvar med delegerte rettsakter vedtatt i henhold til artikkel 221.
 
 2\. Med henblikk på meldingen nevnt i nr. 1 skal driftsansvarlig legge alle nødvendige opplysninger fram for vedkommende myndighet i opprinnelsesmedlemsstaten slik at den kan melde forflytningen til vedkommende myndighet i bestemmelsesstaten i samsvar med artikkel 220 nr. 1.
 
@@ -3147,9 +5273,26 @@ Vedkommende myndighets plikt til å melde forflytninger av akvatiske dyr til and
 
 Delegering av myndighet og gjennomføringsrettsakter som gjelder driftsansvarliges og vedkommende myndighets melding om forflytninger av akvatiske dyr
 
-1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderkravet om at driftsansvarlige i samsvar med artikkel 219 på forhånd skal melde om forflytning mellom medlemsstater av akvatiske dyr av andre arter eller kategorier enn dem som er nevnt i artikkel 219 nr. 1 bokstav a), b) og c), dersom det er nødvendig å kunne spore forflytningen av nevnte arter eller kategorier for å sikre oppfyllelse av kravene til dyrehelse fastsatt i dette kapittelet,opplysningene som er nødvendige for å kunne melde om forflytning av akvatiske dyr i henhold til artikkel 219 og artikkel 220 nr. 1,unntak fra meldingskravet fastsatt i artikkel 219 nr. 1 bokstav c) for arter og kategorier av akvatiske dyr eller typer forflytninger som utgjør en uvesentlig risiko,nødrutiner for melding om forflytning av akvatiske dyr ved strømbrudd og andre forstyrrelser i TRACES,kravene i forbindelse med medlemsstatenes utpeking av regioner som fastsatt i artikkel 220 nr. 3.
+1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
 
-2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler fornærmere opplysninger om meldingerfra driftsansvarlige til vedkommende myndighet i opprinnelsesmedlemsstaten om forflytning av akvatiske dyr i samsvar med artikkel 219,fra vedkommende myndighet i opprinnelsesstaten til bestemmelsesstaten om forflytning av akvatiske dyr i samsvar med artikkel 220 nr. 1,fristene fordriftsansvarliges framlegging av nødvendige opplysninger som nevnt i artikkel 219 nr. 2, for vedkommende myndighet i opprinnelsesstaten,meldingen om forflytning fra vedkommende myndighet i opprinnelsesstaten som nevnt i artikkel 220 nr. 1.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. kravet om at driftsansvarlige i samsvar med artikkel 219 på forhånd skal melde om forflytning mellom medlemsstater av akvatiske dyr av andre arter eller kategorier enn dem som er nevnt i artikkel 219 nr. 1 bokstav a), b) og c), dersom det er nødvendig å kunne spore forflytningen av nevnte arter eller kategorier for å sikre oppfyllelse av kravene til dyrehelse fastsatt i dette kapittelet,
+2. opplysningene som er nødvendige for å kunne melde om forflytning av akvatiske dyr i henhold til artikkel 219 og artikkel 220 nr. 1,
+3. unntak fra meldingskravet fastsatt i artikkel 219 nr. 1 bokstav c) for arter og kategorier av akvatiske dyr eller typer forflytninger som utgjør en uvesentlig risiko,
+4. nødrutiner for melding om forflytning av akvatiske dyr ved strømbrudd og andre forstyrrelser i TRACES,
+5. kravene i forbindelse med medlemsstatenes utpeking av regioner som fastsatt i artikkel 220 nr. 3.
+
+2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for
+
+1. nærmere opplysninger om meldinger
+
+   1. fra driftsansvarlige til vedkommende myndighet i opprinnelsesmedlemsstaten om forflytning av akvatiske dyr i samsvar med artikkel 219,
+   2. fra vedkommende myndighet i opprinnelsesstaten til bestemmelsesstaten om forflytning av akvatiske dyr i samsvar med artikkel 220 nr. 1,
+2. fristene for
+
+   1. driftsansvarliges framlegging av nødvendige opplysninger som nevnt i artikkel 219 nr. 2, for vedkommende myndighet i opprinnelsesstaten,
+   2. meldingen om forflytning fra vedkommende myndighet i opprinnelsesstaten som nevnt i artikkel 220 nr. 1.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### KAPITTEL 3
 
@@ -3159,11 +5302,23 @@ Produksjon, bearbeiding og distribusjon i Unionen av produkter av animalsk oppri
 
 Generelle dyrehelsemessige forpliktelser for driftsansvarlige, og delegerte rettsakter
 
-1\. Driftsansvarlige skal treffe hensiktsmessige forebyggende tiltak for å sikre at produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr ikke på noe stadium i produksjonen, bearbeidingen eller distribusjonen forårsaker spredning avlisteførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), idet det tas hensyn til helsestatus på produksjons-, bearbeidings- og bestemmelsesstedet,nye sykdommer.
+1\. Driftsansvarlige skal treffe hensiktsmessige forebyggende tiltak for å sikre at produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr ikke på noe stadium i produksjonen, bearbeidingen eller distribusjonen forårsaker spredning av
 
-2\. Driftsansvarlige skal sikre at produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr ikke kommer fra anlegg eller næringsmiddelforetak, eller innhentes fra dyr som kommer fra slike anlegg eller næringsmiddelforetak, som er omfattet avnødtiltakene fastsatt i artikkel 257 og 258 og eventuelle regler vedtatt i henhold til artikkel 259, med mindre del VII (artikkel 257–262) åpner for unntak fra disse reglene,forflytningsrestriksjoner som gjelder for akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr i henhold til artikkel 32 nr. 1 bokstav c), artikkel 55 nr. 1 bokstav e), artikkel 56, artikkel 61 nr. 1 bokstav a), artikkel 62 nr. 1, artikkel 65 nr. 1 bokstav c), artikkel 70 nr. 1 bokstav b), artikkel 74 nr. 1 bokstav a), artikkel 76 nr. 2 bokstav b), artikkel 76 nr. 3, artikkel 79 og 81, artikkel 82 nr. 2 og 3 samt i reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 70 nr. 3, artikkel 71 nr. 3, artikkel 74 nr. 4, artikkel 76 nr. 5 og artikkel 83 nr. 2, med mindre unntak fra disse forflytningsrestriksjonene er gitt i samsvar med nevnte regler.
+1. listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), idet det tas hensyn til helsestatus på produksjons-, bearbeidings- og bestemmelsesstedet,
+2. nye sykdommer.
 
-3\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med detaljerte krav som utfyller kravene nevnt i nr. 2, når det gjelder forflytninger av produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr, med hensyn tilde sykdommene og artene av akvatiske dyr som berøres av de sykdommene som nødtiltak eller forflytningsrestriksjoner som nevnt i nr. 2, gjelder for,typene produkter av animalsk opprinnelse fra akvatiske dyr,de risikoreduserende tiltakene som benyttes for produktene av animalsk opprinnelse fra akvatiske dyr, på opprinnelses- og bestemmelsesstedet,den tiltenkte bruken av produktene av animalsk opprinnelse fra akvatiske dyr,bestemmelsesstedet for produktene av animalsk opprinnelse fra akvatiske dyr.
+2\. Driftsansvarlige skal sikre at produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr ikke kommer fra anlegg eller næringsmiddelforetak, eller innhentes fra dyr som kommer fra slike anlegg eller næringsmiddelforetak, som er omfattet av
+
+1. nødtiltakene fastsatt i artikkel 257 og 258 og eventuelle regler vedtatt i henhold til artikkel 259, med mindre del VII (artikkel 257–262) åpner for unntak fra disse reglene,
+2. forflytningsrestriksjoner som gjelder for akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr i henhold til artikkel 32 nr. 1 bokstav c), artikkel 55 nr. 1 bokstav e), artikkel 56, artikkel 61 nr. 1 bokstav a), artikkel 62 nr. 1, artikkel 65 nr. 1 bokstav c), artikkel 70 nr. 1 bokstav b), artikkel 74 nr. 1 bokstav a), artikkel 76 nr. 2 bokstav b), artikkel 76 nr. 3, artikkel 79 og 81, artikkel 82 nr. 2 og 3 samt i reglene vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 70 nr. 3, artikkel 71 nr. 3, artikkel 74 nr. 4, artikkel 76 nr. 5 og artikkel 83 nr. 2, med mindre unntak fra disse forflytningsrestriksjonene er gitt i samsvar med nevnte regler.
+
+3\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med detaljerte krav som utfyller kravene nevnt i nr. 2, når det gjelder forflytninger av produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr, med hensyn til
+
+1. de sykdommene og artene av akvatiske dyr som berøres av de sykdommene som nødtiltak eller forflytningsrestriksjoner som nevnt i nr. 2, gjelder for,
+2. typene produkter av animalsk opprinnelse fra akvatiske dyr,
+3. de risikoreduserende tiltakene som benyttes for produktene av animalsk opprinnelse fra akvatiske dyr, på opprinnelses- og bestemmelsesstedet,
+4. den tiltenkte bruken av produktene av animalsk opprinnelse fra akvatiske dyr,
+5. bestemmelsesstedet for produktene av animalsk opprinnelse fra akvatiske dyr.
 
 4\. Denne artikkelen får ikke anvendelse på produkter av animalsk opprinnelse fra viltlevende akvatiske dyr som høstes eller fanges for direkte konsum.
 
@@ -3171,9 +5326,21 @@ Generelle dyrehelsemessige forpliktelser for driftsansvarlige, og delegerte rett
 
 Helsesertifikater og delegerte rettsakter
 
-1\. Driftsansvarlige skal bare flytte følgende produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr, dersom disse produktene ledsages av et hygienesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten, i samsvar med nr. 3:Produkter av animalsk opprinnelse fra akvatiske dyr somtillates å forlate en restriksjonssone som omfattes av nødtiltak som fastsatt i regler vedtatt i henhold til artikkel 259,kommer fra akvatiske dyrearter som er gjenstand for nevnte nødtiltak.Produkter av animalsk opprinnelse fra akvatiske dyr somtillates flyttet fra en restriksjonssone som omfattes av tiltak for sykdomsbekjempelse i samsvar med artikkel 32 nr. 1 bokstav c), artikkel 55 nr. 1 bokstav c), artikkel 56, artikkel 61 nr. 1 bokstav a), artikkel 62 nr. 1, artikkel 63 nr. 1, artikkel 65 nr. 1 bokstav c), artikkel 70 nr. 1 bokstav b), artikkel 74 nr. 1 bokstav a) og artikkel 79, samt regler vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2, ogkommer fra akvatiske dyrearter som er gjenstand for nevnte tiltak for sykdomsbekjempelse.
+1\. Driftsansvarlige skal bare flytte følgende produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr, dersom disse produktene ledsages av et hygienesertifikat utstedt av vedkommende myndighet i opprinnelsesstaten, i samsvar med nr. 3:
 
-2\. Som unntak fra nr. 1 skal et slikt sertifikat ikke kreves for forflytninger av produkter av animalsk opprinnelse fra viltlevende akvatiske dyr, forutsatt atalternative risikoreduserende tiltak godkjent av vedkommende myndighet er innført for å sikre at nevnte forflytninger ikke utgjør noen risiko for spredning av listeførte sykdommer,forsendelser av slike produkter er sporbare.
+1. Produkter av animalsk opprinnelse fra akvatiske dyr som
+
+   1. tillates å forlate en restriksjonssone som omfattes av nødtiltak som fastsatt i regler vedtatt i henhold til artikkel 259,
+   2. kommer fra akvatiske dyrearter som er gjenstand for nevnte nødtiltak.
+2. Produkter av animalsk opprinnelse fra akvatiske dyr som
+
+   1. tillates flyttet fra en restriksjonssone som omfattes av tiltak for sykdomsbekjempelse i samsvar med artikkel 32 nr. 1 bokstav c), artikkel 55 nr. 1 bokstav c), artikkel 56, artikkel 61 nr. 1 bokstav a), artikkel 62 nr. 1, artikkel 63 nr. 1, artikkel 65 nr. 1 bokstav c), artikkel 70 nr. 1 bokstav b), artikkel 74 nr. 1 bokstav a) og artikkel 79, samt regler vedtatt i henhold til artikkel 55 nr. 2, artikkel 63 og 67, artikkel 71 nr. 3, artikkel 74 nr. 4 og artikkel 83 nr. 2, og
+   2. kommer fra akvatiske dyrearter som er gjenstand for nevnte tiltak for sykdomsbekjempelse.
+
+2\. Som unntak fra nr. 1 skal et slikt sertifikat ikke kreves for forflytninger av produkter av animalsk opprinnelse fra viltlevende akvatiske dyr, forutsatt at
+
+1. alternative risikoreduserende tiltak godkjent av vedkommende myndighet er innført for å sikre at nevnte forflytninger ikke utgjør noen risiko for spredning av listeførte sykdommer,
+2. forsendelser av slike produkter er sporbare.
 
 3\. Driftsansvarlige skal treffe alle nødvendige tiltak for å sikre at heygienesertifikatet nevnt i nr. 1 ledsager produktene av animalsk opprinnelse fra opprinnelses- til bestemmelsesstedet.
 
@@ -3181,25 +5348,41 @@ Helsesertifikater og delegerte rettsakter
 
 5\. Artikkel 212 og artikkel 214–217 og reglene vedtatt i henhold til artikkel 213 og artikkel 216 nr. 4 får anvendelse på utstedelsen av helsesertifikater for forflytninger av andre produkter av animalsk opprinnelse enn levende akvatiske dyr som nevnt i nr. 1.
 
-6\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til krav og nærmere regler for det helsesertifikatet som skal ledsage andre produkter av animalsk opprinnelse enn viltlevende akvatiske dyr, som nevnt i nr. 1, idet det tas hensyn tilde typene produkter av animalsk opprinnelse dette gjelder,de risikoreduserende tiltakene som benyttes for de berørte produktene, og som reduserer risikoen for spredning av sykdommer,den tiltenkte bruken av disse produktene,bestemmelsesstedet for disse produktene.
+6\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til krav og nærmere regler for det helsesertifikatet som skal ledsage andre produkter av animalsk opprinnelse enn viltlevende akvatiske dyr, som nevnt i nr. 1, idet det tas hensyn til
+
+1. de typene produkter av animalsk opprinnelse dette gjelder,
+2. de risikoreduserende tiltakene som benyttes for de berørte produktene, og som reduserer risikoen for spredning av sykdommer,
+3. den tiltenkte bruken av disse produktene,
+4. bestemmelsesstedet for disse produktene.
 
 ###### Artikkel 224
 
 Innholdet i helsesertifikater, og delegerte rettsakter og gjennomføringsrettsakter
 
-1\. Helsesertifikatet for produkter av animalsk opprinnelse fra andre akvatiske dyr enn viltlevende akvatiske dyr skal inneholde minst følgende opplysninger:Opprinnelsesanlegget eller -stedet og bestemmelsesanlegget eller -stedet.En beskrivelse av de produktene av animalsk opprinnelse dette gjelder.Mengden (antall, volum eller vekt) av produkter av animalsk opprinnelse.Identifikasjon av produktene av animalsk opprinnelse dersom dette kreves i henhold til artikkel 65 nr. 1 bokstav h), eller i eventuelle regler vedtatt i henhold til artikkel 67.Opplysningene som er nødvendige for å vise at de berørte produktene oppfyller kravene med hensyn til forflytningsrestriksjoner i henhold til artikkel 222 nr. 2, og eventuelle regler vedtatt i henhold til artikkel 222 nr. 3.
+1\. Helsesertifikatet for produkter av animalsk opprinnelse fra andre akvatiske dyr enn viltlevende akvatiske dyr skal inneholde minst følgende opplysninger:
+
+1. Opprinnelsesanlegget eller -stedet og bestemmelsesanlegget eller -stedet.
+2. En beskrivelse av de produktene av animalsk opprinnelse dette gjelder.
+3. Mengden (antall, volum eller vekt) av produkter av animalsk opprinnelse.
+4. Identifikasjon av produktene av animalsk opprinnelse dersom dette kreves i henhold til artikkel 65 nr. 1 bokstav h), eller i eventuelle regler vedtatt i henhold til artikkel 67.
+5. Opplysningene som er nødvendige for å vise at de berørte produktene oppfyller kravene med hensyn til forflytningsrestriksjoner i henhold til artikkel 222 nr. 2, og eventuelle regler vedtatt i henhold til artikkel 222 nr. 3.
 
 2\. Helsesertifikatet nevnt i nr. 1 kan inneholde andre opplysninger som kreves i samsvar med annet unionsregelverk.
 
 3\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder endring og supplering av de opplysningene som skal inntas i helsesertifikatet i henhold til nr. 1.
 
-4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for standardskjemaene for helsesertifikater i henhold til nr. 1.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for standardskjemaene for helsesertifikater i henhold til nr. 1.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Artikkel 225
 
 Melding om forflytning av produkter av animalsk opprinnelse til andre medlemsstater
 
-1\. Driftsansvarlige skalinformere vedkommende myndighet i opprinnelsesmedlemsstaten før en planlagt forflytning av produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr gjennomføres, dersom den aktuelle forsendelsen skal være ledsaget av et helsesertifikat i samsvar med artikkel 223 nr. 1,legge fram alle nødvendige opplysninger slik at vedkommende myndighet i opprinnelsesstaten kan melde den aktuelle forflytningen til bestemmelsesstaten i samsvar med nr. 2.
+1\. Driftsansvarlige skal
+
+1. informere vedkommende myndighet i opprinnelsesmedlemsstaten før en planlagt forflytning av produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr gjennomføres, dersom den aktuelle forsendelsen skal være ledsaget av et helsesertifikat i samsvar med artikkel 223 nr. 1,
+2. legge fram alle nødvendige opplysninger slik at vedkommende myndighet i opprinnelsesstaten kan melde den aktuelle forflytningen til bestemmelsesstaten i samsvar med nr. 2.
 
 2\. Vedkommende myndighet i opprinnelsesstaten skal melde forflytninger av produkter av animalsk opprinnelse fra andre akvatiske dyr enn levende akvatiske dyr som nevnt i artikkel 220 nr. 1, til vedkommende myndighet i bestemmelsesstaten.
 
@@ -3213,7 +5396,9 @@ Nasjonale tiltak
 
 Nasjonale tiltak som har som formål å begrense virkningene av andre sykdommer enn listeførte sykdommer
 
-1\. Dersom en annen sykdom enn en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d), utgjør en vesentlig risiko for akvatiske dyrs helse i en medlemsstat, kan den berørte medlemsstaten treffe nasjonale tiltak for å forhindre innføringen eller bekjempe spredningen av sykdommen.Medlemsstatene skal sikre at nevnte nasjonale tiltak ikke går lenger enn det som er hensiktsmessig og nødvendig for å forhindre innføringen eller bekjempe spredningen av den aktuelle sykdommen i den berørte medlemsstaten.
+1\. Dersom en annen sykdom enn en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d), utgjør en vesentlig risiko for akvatiske dyrs helse i en medlemsstat, kan den berørte medlemsstaten treffe nasjonale tiltak for å forhindre innføringen eller bekjempe spredningen av sykdommen.
+
+Medlemsstatene skal sikre at nevnte nasjonale tiltak ikke går lenger enn det som er hensiktsmessig og nødvendig for å forhindre innføringen eller bekjempe spredningen av den aktuelle sykdommen i den berørte medlemsstaten.
 
 2\. Medlemsstatene skal på forhånd melde til Kommisjonen om eventuelle planlagte nasjonale tiltak som nevnt i nr. 1, som kan påvirke forflytningen av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr mellom medlemsstatene.
 
@@ -3228,7 +5413,22 @@ DYR AV ANDRE ARTER ENN DEM SOM ER DEFINERT SOM LANDDYR OG AKVATISKE DYR, SAMT AV
 
 Krav til dyrehelse som gjelder andre dyr samt avlsmateriale og produkter av animalsk opprinnelse fra slike andre dyr
 
-Dersom andre dyr er av en listeført art for en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d), og disse andre dyrene eller deres avlsmateriale eller produkter av animalsk opprinnelse utgjør en risiko for folkehelsen eller dyrehelsen i Unionen, skal ett eller flere av følgende krav gjelde:Kravene med hensyn til registrering, godkjenning, journalføring og registre for anlegg og transportører angitt i avdeling I kapittel 1 og avdeling II kapittel 1 (artikkel 84–101 og artikkel 172–175).Kravene med hensyn til sporbarhet angitt i artikkel 108–111 og artikkel 117 for andre dyr, og artikkel 122 for avlsmateriale.Kravene med hensyn til forflytningfor andre dyr som hovedsakelig lever i et miljø på landjorden, eller som normalt rammes av sykdommer hos landdyr, idet det tas hensyn til kriteriene i artikkel 228 nr. 3 bokstav d) og e), kravene i avsnitt 1 (artikkel 124 og 125) og del IV avdeling I kapittel 3 avsnitt 6 (artikkel 137–142) og del IV avdeling I kapittel 4 (artikkel 155–156),for andre dyr som hovedsakelig lever i et vannmiljø, eller som normalt rammes av sykdommer hos akvatiske dyr, idet det tas hensyn til kriteriene i artikkel 228 nr. 3 bokstav d) og e), kravene i del IV avdeling II kapittel 2 avsnitt 1–4 (artikkel 191–207),for avlsmateriale, de generelle kravene til forflytninger angitt i artikkel 157 og 158 og de særlige kravene til forflytninger til andre medlemsstater angitt i artikkel 164 og 165,for produkter av animalsk opprinnelse, de generelle dyrehelsemessige forpliktelsene for driftsansvarlige ved produksjon, bearbeiding og distribusjon i Unionen av produkter av animalsk opprinnelse angitt i artikkel 166 og 222.Plikten for driftsansvarlige og vedkommende myndigheter til å utstede helsesertifikater og for driftsansvarlige når det gjelder egenerklæringerfor andre dyr, i henhold til reglene i artikkel 143–151 eller artikkel 208–218,for avlsmateriale, i henhold til reglene i artikkel 161 og 162,for produkter av animalsk opprinnelse, i henhold til reglene ►**C1** til artikkel 31 nr. 1 ◄**C1** eller artikkel 223 og 224.Plikten for driftsansvarlige og vedkommende myndigheter til å melde forflytninger, idet det tas hensyn til kravene i artikkel 152, 153, 154, 163, 169, artikkel 219–221 og artikkel 225.
+Dersom andre dyr er av en listeført art for en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d), og disse andre dyrene eller deres avlsmateriale eller produkter av animalsk opprinnelse utgjør en risiko for folkehelsen eller dyrehelsen i Unionen, skal ett eller flere av følgende krav gjelde:
+
+1. Kravene med hensyn til registrering, godkjenning, journalføring og registre for anlegg og transportører angitt i avdeling I kapittel 1 og avdeling II kapittel 1 (artikkel 84–101 og artikkel 172–175).
+2. Kravene med hensyn til sporbarhet angitt i artikkel 108–111 og artikkel 117 for andre dyr, og artikkel 122 for avlsmateriale.
+3. Kravene med hensyn til forflytning
+
+   1. for andre dyr som hovedsakelig lever i et miljø på landjorden, eller som normalt rammes av sykdommer hos landdyr, idet det tas hensyn til kriteriene i artikkel 228 nr. 3 bokstav d) og e), kravene i avsnitt 1 (artikkel 124 og 125) og del IV avdeling I kapittel 3 avsnitt 6 (artikkel 137–142) og del IV avdeling I kapittel 4 (artikkel 155–156),
+   2. for andre dyr som hovedsakelig lever i et vannmiljø, eller som normalt rammes av sykdommer hos akvatiske dyr, idet det tas hensyn til kriteriene i artikkel 228 nr. 3 bokstav d) og e), kravene i del IV avdeling II kapittel 2 avsnitt 1–4 (artikkel 191–207),
+   3. for avlsmateriale, de generelle kravene til forflytninger angitt i artikkel 157 og 158 og de særlige kravene til forflytninger til andre medlemsstater angitt i artikkel 164 og 165,
+   4. for produkter av animalsk opprinnelse, de generelle dyrehelsemessige forpliktelsene for driftsansvarlige ved produksjon, bearbeiding og distribusjon i Unionen av produkter av animalsk opprinnelse angitt i artikkel 166 og 222.
+4. Plikten for driftsansvarlige og vedkommende myndigheter til å utstede helsesertifikater og for driftsansvarlige når det gjelder egenerklæringer
+
+   1. for andre dyr, i henhold til reglene i artikkel 143–151 eller artikkel 208–218,
+   2. for avlsmateriale, i henhold til reglene i artikkel 161 og 162,
+   3. for produkter av animalsk opprinnelse, i henhold til reglene ►**C1** til artikkel 31 nr. 1 ◄**C1** eller artikkel 223 og 224.
+5. Plikten for driftsansvarlige og vedkommende myndigheter til å melde forflytninger, idet det tas hensyn til kravene i artikkel 152, 153, 154, 163, 169, artikkel 219–221 og artikkel 225.
 
 ###### Artikkel 228
 
@@ -3236,9 +5436,17 @@ Delegering av myndighet og gjennomføringsrettsakter som gjelder krav til dyrehe
 
 1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til eventuelle særlige krav i henhold til artikkel 227 for andre dyr og for avlsmateriale eller produkter av animalsk opprinnelse fra disse dyrene, som er nødvendige for å redusere risikoen for listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d).
 
-2\. Kommisjonen kan vedta gjennomføringsrettsakter med nærmere regler for gjennomføring av tiltakene for forebygging og bekjempelse av sykdom i henhold til nr. 1.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+2\. Kommisjonen kan vedta gjennomføringsrettsakter med nærmere regler for gjennomføring av tiltakene for forebygging og bekjempelse av sykdom i henhold til nr. 1.
 
-3\. Når Kommisjonen vedtar de delegerte rettsaktene og gjennomføringsrettsaktene fastsatt i nr. 1 og 2, skal den legge følgende kriterier til grunn:Artene eller kategoriene av andre dyr som er listeført i samsvar med artikkel 8 nr. 2 som listeførte arter for én eller flere listeførte sykdommer, som visse tiltak for forebygging og bekjempelse av sykdom fastsatt i denne forordningen, gjelder for.Profilen for den aktuelle listeførte sykdommen som gjelder artene og kategoriene av andre dyr nevnt i bokstav a).Om tiltak for forebygging og bekjempelse av sykdom lar seg gjennomføre, er tilgjengelige og effektive for de listeførte artene som omfattes av tiltakene.Det land- eller vannmiljøet som disse andre dyrene vanligvis lever i.De typene sykdommer som rammer slike andre dyr, som kan være enten sykdommer som normalt rammer landdyr eller akvatiske dyr, uansett hvilket miljø dyrene vanligvis lever i som nevnt i bokstav d).
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+
+3\. Når Kommisjonen vedtar de delegerte rettsaktene og gjennomføringsrettsaktene fastsatt i nr. 1 og 2, skal den legge følgende kriterier til grunn:
+
+1. Artene eller kategoriene av andre dyr som er listeført i samsvar med artikkel 8 nr. 2 som listeførte arter for én eller flere listeførte sykdommer, som visse tiltak for forebygging og bekjempelse av sykdom fastsatt i denne forordningen, gjelder for.
+2. Profilen for den aktuelle listeførte sykdommen som gjelder artene og kategoriene av andre dyr nevnt i bokstav a).
+3. Om tiltak for forebygging og bekjempelse av sykdom lar seg gjennomføre, er tilgjengelige og effektive for de listeførte artene som omfattes av tiltakene.
+4. Det land- eller vannmiljøet som disse andre dyrene vanligvis lever i.
+5. De typene sykdommer som rammer slike andre dyr, som kan være enten sykdommer som normalt rammer landdyr eller akvatiske dyr, uansett hvilket miljø dyrene vanligvis lever i som nevnt i bokstav d).
 
 ### DEL V
 INNFØRSEL TIL UNIONEN OG EKSPORT
@@ -3254,7 +5462,12 @@ Krav ved innførsel til Unionen
 
 Krav ved innførsel til Unionen av dyr, avlsmateriale og produkter av animalsk opprinnelse
 
-1\. Medlemsstatene skal tillate innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse fra tredjeland eller territorier bare dersom forsendelsene oppfyller følgende krav, med mindre dyrene, avlsmaterialet eller produktene av animalsk opprinnelse omfattes av et unntak som er gitt i henhold til artikkel 239 nr. 2:Uten hensyn til artikkel 230 nr. 2, de kommer fra et tredjeland eller et territorium som er listeført i samsvar med artikkel 230 nr. 1 for de berørte artene og kategoriene av dyr, det berørte avlsmaterialet eller de berørte produktene av animalsk opprinnelse, eller fra en sone eller et segment av disse.De kommer fra anlegg som er godkjent og listeført, dersom slik godkjenning og oppføring på en liste kreves i henhold til artikkel 233.De oppfyller kravene til dyrehelse for innførsel til Unionen fastsatt i artikkel 234 nr. 1 og i eventuelle delegerte rettsakter vedtatt i henhold til artikkel 234 nr. 2 dersom slike krav er fastsatt for det berørte dyret, avlsmaterialet eller produktet av animalsk opprinnelse.De ledsages av et helsesertifikat og av erklæringer og andre dokumenter dersom dette kreves etter artikkel 237 nr. 1 eller i regler vedtatt i henhold til artikkel 237 nr. 4.
+1\. Medlemsstatene skal tillate innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse fra tredjeland eller territorier bare dersom forsendelsene oppfyller følgende krav, med mindre dyrene, avlsmaterialet eller produktene av animalsk opprinnelse omfattes av et unntak som er gitt i henhold til artikkel 239 nr. 2:
+
+1. Uten hensyn til artikkel 230 nr. 2, de kommer fra et tredjeland eller et territorium som er listeført i samsvar med artikkel 230 nr. 1 for de berørte artene og kategoriene av dyr, det berørte avlsmaterialet eller de berørte produktene av animalsk opprinnelse, eller fra en sone eller et segment av disse.
+2. De kommer fra anlegg som er godkjent og listeført, dersom slik godkjenning og oppføring på en liste kreves i henhold til artikkel 233.
+3. De oppfyller kravene til dyrehelse for innførsel til Unionen fastsatt i artikkel 234 nr. 1 og i eventuelle delegerte rettsakter vedtatt i henhold til artikkel 234 nr. 2 dersom slike krav er fastsatt for det berørte dyret, avlsmaterialet eller produktet av animalsk opprinnelse.
+4. De ledsages av et helsesertifikat og av erklæringer og andre dokumenter dersom dette kreves etter artikkel 237 nr. 1 eller i regler vedtatt i henhold til artikkel 237 nr. 4.
 
 ►**M1**
 
@@ -3270,9 +5483,26 @@ Listeføring av tredjeland og territorier
 
 Lister over tredjeland og territorier som dyr, avlsmateriale og produkter av animalsk opprinnelse tillates innført til Unionen fra, samt gjennomføringsrettsakter og delegerte rettsakter
 
-1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter utarbeide lister over tredjeland og territorier som bestemte arter og kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse tillates innført til Unionen fra, på grunnlag av følgende kriterier:Dyrehelselovgivningen i det berørte tredjelandet eller territoriet og reglene for innførsel av dyr, avlsmateriale og produkter av animalsk opprinnelse til nevnte tredjeland eller territorium fra andre tredjeland og territorier.Forsikringene som vedkommende myndighet i berørt tredjeland eller territorium gir, når det gjelder effektiv gjennomføring og kontroll av dyrehelseregelverket nevnt i bokstav a).Vedkommende myndighets organisering, struktur, ressurser og rettslig myndighet i det berørte tredjelandet eller territoriet.Framgangsmåtene for å utstede helsesertifikat i det berørte tredjelandet eller territoriet.Dyrehelsestatusen i det berørte tredjelandet eller territoriet, eller soner eller segmenter av disse, med hensyn tillisteførte sykdommer og nye sykdommer,alle sider ved dyrehelsen og folkehelsen eller miljøsituasjonen i det berørte tredjelandet eller territoriet, eller soner eller segmenter av disse, som kan utgjøre en risiko for dyrehelsen eller folkehelsen eller miljøtilstanden i Unionen.Hvilke garantier vedkommende myndighet i det berørte tredjelandet eller territoriet kan gi med hensyn til overholdelse av gjeldende relevante krav til dyrehelse i Unionen, eller anvendelsen av likeverdige krav.Hvor raskt og regelmessig det berørte tredjelandet eller territoriet gir opplysninger om infeksjonssykdommer eller smittsomme sykdommer hos dyr på sitt territorium til Verdens dyrehelseorganisasjon (OIE), særlig opplysninger om de sykdommene som er angitt i OIE-regelverket.Resultatene av kontroller utført av Kommisjonen i det berørte tredjelandet eller territoriet.Eventuelle erfaringer fra tidligere innførsler av dyr, avlsmateriale og produkter av animalsk opprinnelse fra det berørte tredjelandet eller territoriet og resultatene av offentlige kontroller som er utført på innførselsstedet til Unionen, av nevnte dyr, avlsmateriale og produkter av animalsk opprinnelse.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter utarbeide lister over tredjeland og territorier som bestemte arter og kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse tillates innført til Unionen fra, på grunnlag av følgende kriterier:
 
-2\. Inntil listene fastsatt i nr. 1 er vedtatt, og dersom disse listene ikke er utarbeidet i henhold til unionsregelverket nevnt i artikkel 270 nr. 2, skal medlemsstatene bestemme hvilke tredjeland og territorier bestemte arter og kategorier av dyr, avlsmateriale eller produkter av animalsk opprinnelse kan innføres til Unionen fra.I henhold til første ledd i dette nummeret skal medlemsstatene ta hensyn til kriteriene for oppføring på listene av tredjeland og territorier fastsatt i nr. 1 bokstav a)–i).
+1. Dyrehelselovgivningen i det berørte tredjelandet eller territoriet og reglene for innførsel av dyr, avlsmateriale og produkter av animalsk opprinnelse til nevnte tredjeland eller territorium fra andre tredjeland og territorier.
+2. Forsikringene som vedkommende myndighet i berørt tredjeland eller territorium gir, når det gjelder effektiv gjennomføring og kontroll av dyrehelseregelverket nevnt i bokstav a).
+3. Vedkommende myndighets organisering, struktur, ressurser og rettslig myndighet i det berørte tredjelandet eller territoriet.
+4. Framgangsmåtene for å utstede helsesertifikat i det berørte tredjelandet eller territoriet.
+5. Dyrehelsestatusen i det berørte tredjelandet eller territoriet, eller soner eller segmenter av disse, med hensyn til
+
+   1. listeførte sykdommer og nye sykdommer,
+   2. alle sider ved dyrehelsen og folkehelsen eller miljøsituasjonen i det berørte tredjelandet eller territoriet, eller soner eller segmenter av disse, som kan utgjøre en risiko for dyrehelsen eller folkehelsen eller miljøtilstanden i Unionen.
+6. Hvilke garantier vedkommende myndighet i det berørte tredjelandet eller territoriet kan gi med hensyn til overholdelse av gjeldende relevante krav til dyrehelse i Unionen, eller anvendelsen av likeverdige krav.
+7. Hvor raskt og regelmessig det berørte tredjelandet eller territoriet gir opplysninger om infeksjonssykdommer eller smittsomme sykdommer hos dyr på sitt territorium til Verdens dyrehelseorganisasjon (OIE), særlig opplysninger om de sykdommene som er angitt i OIE-regelverket.
+8. Resultatene av kontroller utført av Kommisjonen i det berørte tredjelandet eller territoriet.
+9. Eventuelle erfaringer fra tidligere innførsler av dyr, avlsmateriale og produkter av animalsk opprinnelse fra det berørte tredjelandet eller territoriet og resultatene av offentlige kontroller som er utført på innførselsstedet til Unionen, av nevnte dyr, avlsmateriale og produkter av animalsk opprinnelse.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+
+2\. Inntil listene fastsatt i nr. 1 er vedtatt, og dersom disse listene ikke er utarbeidet i henhold til unionsregelverket nevnt i artikkel 270 nr. 2, skal medlemsstatene bestemme hvilke tredjeland og territorier bestemte arter og kategorier av dyr, avlsmateriale eller produkter av animalsk opprinnelse kan innføres til Unionen fra.
+
+I henhold til første ledd i dette nummeret skal medlemsstatene ta hensyn til kriteriene for oppføring på listene av tredjeland og territorier fastsatt i nr. 1 bokstav a)–i).
 
 3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder unntak fra nr. 2, for å begrense medlemsstatenes mulighet til å bestemme hvilke tredjeland og territorier en bestemt art eller kategori av dyr, avlsmateriale eller produkt av animalsk opprinnelse kan innføres til Unionen fra, når det er nødvendig på grunn av den risikoen som den bestemte arten eller kategorien av dyr, avlsmaterialet eller produktet av animalsk opprinnelse utgjør.
 
@@ -3280,17 +5510,37 @@ Lister over tredjeland og territorier som dyr, avlsmateriale og produkter av ani
 
 Opplysninger som skal inngå i listene over tredjeland og territorier
 
-Kommisjonen skal angi følgende opplysninger for hvert tredjeland og hvert territorium på listene i henhold til artikkel 230 nr. 1:De artene og kategoriene av dyr, avlsmateriale eller produkter av animalsk opprinnelse som kan innføres til Unionen fra tredjelandet eller territoriet.Om dyrene, avlsmaterialet eller produktene av animalsk opprinnelse angitt i samsvar med bokstav a) kan innføres til Unionen fra hele tredjelandets territorium eller hele territoriet, eller fra bare én eller flere soner eller ett eller flere segmenter av dette.Særlige vilkår og dyrehelsegarantier med hensyn til listeførte sykdommer.
+Kommisjonen skal angi følgende opplysninger for hvert tredjeland og hvert territorium på listene i henhold til artikkel 230 nr. 1:
+
+1. De artene og kategoriene av dyr, avlsmateriale eller produkter av animalsk opprinnelse som kan innføres til Unionen fra tredjelandet eller territoriet.
+2. Om dyrene, avlsmaterialet eller produktene av animalsk opprinnelse angitt i samsvar med bokstav a) kan innføres til Unionen fra hele tredjelandets territorium eller hele territoriet, eller fra bare én eller flere soner eller ett eller flere segmenter av dette.
+3. Særlige vilkår og dyrehelsegarantier med hensyn til listeførte sykdommer.
 
 ###### Artikkel 232
 
 Midlertidig og permanent fjerning av tredjeland og territorier fra listene, og gjennomføringsrettsakter
 
-1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fjerne et land eller territorium fra listene i henhold til artikkel 230 nr. 1 eller midlertidig stanse innførselen til Unionen av dyr, avlsmateriale eller produkter av animalsk opprinnelse fra et tredjeland eller et territorium, eller en sone eller et segment av disse, av en av følgende årsaker:Det berørte tredjelandet eller territoriet, eller én eller flere soner eller ett eller flere segmenter av disse, oppfyller ikke lenger kriteriene fastsatt i artikkel 230 nr. 1, dersom det er relevant for innførsel til Unionen av en bestemt art eller kategori av dyr, avlsmateriale eller produkt av animalsk opprinnelse.Dyrehelsesituasjonen i det berørte tredjelandet eller territoriet, eller i en sone eller et segment av disse, er slik at midlertidig eller permanent fjerning fra listene er nødvendig for å beskytte dyrehelsestatusen i Unionen.Kommisjonen har bedt det berørte tredjelandet eller territoriet om å legge fram ajourførte opplysninger om dyrehelsesituasjonen og andre forhold nevnt i artikkel 230 nr. 1, og tredjelandet eller territoriet har ikke gitt slike opplysninger.Det berørte tredjelandet eller territoriet har nektet å godta at Kommisjonen utfører kontroller på dets territorium på vegne av Unionen.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fjerne et land eller territorium fra listene i henhold til artikkel 230 nr. 1 eller midlertidig stanse innførselen til Unionen av dyr, avlsmateriale eller produkter av animalsk opprinnelse fra et tredjeland eller et territorium, eller en sone eller et segment av disse, av en av følgende årsaker:
+
+1. Det berørte tredjelandet eller territoriet, eller én eller flere soner eller ett eller flere segmenter av disse, oppfyller ikke lenger kriteriene fastsatt i artikkel 230 nr. 1, dersom det er relevant for innførsel til Unionen av en bestemt art eller kategori av dyr, avlsmateriale eller produkt av animalsk opprinnelse.
+2. Dyrehelsesituasjonen i det berørte tredjelandet eller territoriet, eller i en sone eller et segment av disse, er slik at midlertidig eller permanent fjerning fra listene er nødvendig for å beskytte dyrehelsestatusen i Unionen.
+3. Kommisjonen har bedt det berørte tredjelandet eller territoriet om å legge fram ajourførte opplysninger om dyrehelsesituasjonen og andre forhold nevnt i artikkel 230 nr. 1, og tredjelandet eller territoriet har ikke gitt slike opplysninger.
+4. Det berørte tredjelandet eller territoriet har nektet å godta at Kommisjonen utfører kontroller på dets territorium på vegne av Unionen.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 2\. I behørig begrunnede, tvingende hastetilfeller knyttet til en alvorlig risiko for at en listeført sykdom som nevnt i artikkel 9 nr. 1 bokstav d), skal innføres til Unionen, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
-3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter gjenoppføre et tredjeland eller et territorium, eller en sone eller et segment av disse, på listene i henhold til artikkel 230 nr. 1, som er blitt midlertidig fjernet fra listene, eller kan på nytt tillate innførsel til Unionen av dyr, avlsmateriale eller produkter av animalsk opprinnelse fra et tredjeland eller et territorium, eller fra en sone eller et segment av disse, som innførsel til Unionen var midlertidig stanset fra, av en av følgende årsaker:Årsakene nevnt i nr. 1 bokstav a) eller c) forutsatt at det berørte tredjelandet eller territoriet viser at det oppfyller kriteriene for å være oppført på listen i henhold til artikkel 230 nr. 1.Årsaken nevnt i nr. 1 bokstav b) forutsatt at det berørte tredjelandet eller territoriet gir hensiktsmessige garantier for at dyrehelsesituasjonen som var årsak til at det ble midlertidig eller permanent fjernet fra listen, er løst og ikke lenger utgjør en trussel mot dyrehelsen eller folkehelsen i Unionen.Årsaken nevnt i nr. 1 bokstav d), forutsatt atdet berørte tredjelandet eller territoriet har godtatt at Kommisjonen kan utføre kontroller på vegne av Unionen på sitt territorium, ogresultatene av Kommisjonens kontroller viser at det berørte tredjelandet eller territoriet, og sonene eller segmentene av disse, oppfyller kriteriene for å være oppført på listen i henhold til artikkel 230 nr. 1.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter gjenoppføre et tredjeland eller et territorium, eller en sone eller et segment av disse, på listene i henhold til artikkel 230 nr. 1, som er blitt midlertidig fjernet fra listene, eller kan på nytt tillate innførsel til Unionen av dyr, avlsmateriale eller produkter av animalsk opprinnelse fra et tredjeland eller et territorium, eller fra en sone eller et segment av disse, som innførsel til Unionen var midlertidig stanset fra, av en av følgende årsaker:
+
+1. Årsakene nevnt i nr. 1 bokstav a) eller c) forutsatt at det berørte tredjelandet eller territoriet viser at det oppfyller kriteriene for å være oppført på listen i henhold til artikkel 230 nr. 1.
+2. Årsaken nevnt i nr. 1 bokstav b) forutsatt at det berørte tredjelandet eller territoriet gir hensiktsmessige garantier for at dyrehelsesituasjonen som var årsak til at det ble midlertidig eller permanent fjernet fra listen, er løst og ikke lenger utgjør en trussel mot dyrehelsen eller folkehelsen i Unionen.
+3. Årsaken nevnt i nr. 1 bokstav d), forutsatt at
+
+   1. det berørte tredjelandet eller territoriet har godtatt at Kommisjonen kan utføre kontroller på vegne av Unionen på sitt territorium, og
+   2. resultatene av Kommisjonens kontroller viser at det berørte tredjelandet eller territoriet, og sonene eller segmentene av disse, oppfyller kriteriene for å være oppført på listen i henhold til artikkel 230 nr. 1.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Avsnitt 3
 
@@ -3300,13 +5550,18 @@ Godkjenning og listeføring av anlegg i tredjeland og territorier
 
 Godkjenning og listeføring av anlegg
 
-1\. Medlemsstatene skal bare tillate innførsel til Unionen av landdyr og avlsmateriale fra landdyr som kommer fra en type anlegg som det kreves godkjenning for i Unionen, i samsvar med artikkel 94 nr. 2 og reglene vedtatt i henhold til artikkel 94 nr. 3 og artikkel 95, dersom det aktuelle anlegget i det berørte tredjelandet eller territorietoppfyller krav til dyrehelse i tredjelandet eller territoriet som er likeverdige med reglene for samme type anlegg i Unionen,er godkjent og listeført av vedkommende myndighet i avsenderlandet eller -territoriet, med mindre alternative risikoreduserende tiltak som er innført i nevnte tredjeland eller territorium, gir likeverdige garantier for dyrehelsen i Unionen.
+1\. Medlemsstatene skal bare tillate innførsel til Unionen av landdyr og avlsmateriale fra landdyr som kommer fra en type anlegg som det kreves godkjenning for i Unionen, i samsvar med artikkel 94 nr. 2 og reglene vedtatt i henhold til artikkel 94 nr. 3 og artikkel 95, dersom det aktuelle anlegget i det berørte tredjelandet eller territoriet
+
+1. oppfyller krav til dyrehelse i tredjelandet eller territoriet som er likeverdige med reglene for samme type anlegg i Unionen,
+2. er godkjent og listeført av vedkommende myndighet i avsenderlandet eller -territoriet, med mindre alternative risikoreduserende tiltak som er innført i nevnte tredjeland eller territorium, gir likeverdige garantier for dyrehelsen i Unionen.
 
 2\. Kommisjonen skal samle inn listene over godkjente anlegg nevnt i nr. 1 bokstav b) som er mottatt fra vedkommende myndigheter i berørte tredjeland eller territorier.
 
 3\. Kommisjonen skal gi medlemsstatene alle nye eller ajourførte lister over godkjente anlegg som er mottatt fra de berørte tredjelandene eller territoriene, og gjøre dem offentlig tilgjengelig.
 
-4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta nødvendige regler for å sikre ensartet anvendelse av nr. 1 bokstav b).Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta nødvendige regler for å sikre ensartet anvendelse av nr. 1 bokstav b).
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Avsnitt 4
 
@@ -3316,9 +5571,15 @@ Innførsel til Unionen av arter og kategorier av dyr, avlsmateriale og produkter
 
 Krav til dyrehelse ved innførsel til Unionen av arter og kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse
 
-1\. Kravene til dyrehelse for innførsel til Unionen av arter og kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse fra tredjeland eller territorier skalvære like strenge som kravene til dyrehelse i denne forordningen, og i reglene vedtatt i henhold til denne, som gjelder for forflytninger innenfor Unionen av berørte arter og kategorier av dyr, avlsmateriale eller produkter av animalsk opprinnelse, ellergi garantier som er likeverdige med kravene til dyrehelse som gjelder for artene og kategoriene av dyr, avlsmaterialet eller produktene av animalsk opprinnelse fastsatt i del IV (artikkel 84–228) i denne forordningen.
+1\. Kravene til dyrehelse for innførsel til Unionen av arter og kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse fra tredjeland eller territorier skal
 
-2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til krav til dyrehelse forinnførsel til Unionen av arter og kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse fra tredjeland eller territorier,forflytning innenfor Unionen og håndtering av dyrene, avlsmaterialet og produktene av animalsk opprinnelse etter at de er innført til Unionen, dersom dette er nødvendig for å redusere risikoen i den forbindelse.
+1. være like strenge som kravene til dyrehelse i denne forordningen, og i reglene vedtatt i henhold til denne, som gjelder for forflytninger innenfor Unionen av berørte arter og kategorier av dyr, avlsmateriale eller produkter av animalsk opprinnelse, eller
+2. gi garantier som er likeverdige med kravene til dyrehelse som gjelder for artene og kategoriene av dyr, avlsmaterialet eller produktene av animalsk opprinnelse fastsatt i del IV (artikkel 84–228) i denne forordningen.
+
+2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til krav til dyrehelse for
+
+1. innførsel til Unionen av arter og kategorier av dyr, avlsmateriale og produkter av animalsk opprinnelse fra tredjeland eller territorier,
+2. forflytning innenfor Unionen og håndtering av dyrene, avlsmaterialet og produktene av animalsk opprinnelse etter at de er innført til Unionen, dersom dette er nødvendig for å redusere risikoen i den forbindelse.
 
 3\. Inntil det vedtas delegerte rettsakter som fastsetter kravene til dyrehelse med hensyn til en bestemt art eller kategori av dyr, avlsmateriale eller produkt av animalsk opprinnelse i henhold til nr. 1, kan medlemsstatene etter en vurdering av de tilknyttede risikoene anvende nasjonale regler, forutsatt at disse reglene oppfyller kravene fastsatt i nevnte nummer, og forutsatt at de tar hensyn til forholdene nevnt i artikkel 235 og 236.
 
@@ -3326,13 +5587,36 @@ Krav til dyrehelse ved innførsel til Unionen av arter og kategorier av dyr, avl
 
 Forhold som skal tas i betraktning i delegerte rettsakter i henhold til artikkel 234 når det gjelder innførsel av dyr til Unionen
 
-Kommisjonen skal i delegerte rettsakter i henhold til artikkel 234 nr. 2 ta følgende forhold i betraktning ved fastsettelse av krav til dyrehelse ved innførsel til Unionen av bestemte arter og kategorier av dyr:De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer.Helsestatusen i Unionen når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer.De listeførte artene for de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer.De berørte dyrenes alder og kjønn.De berørte dyrenes opprinnelse.Den berørte typen anlegg og produksjon på opprinnelses- og bestemmelsesstedet.Det tiltenkte bestemmelsesstedet.Den tiltenkte bruken av berørte dyr.Eventuelle risikoreduserende tiltak som er innført i opprinnelses- eller transittredjelandene eller -territoriene, eller etter de berørte dyrenes ankomst på Unionens territorium.Krav til dyrehelse som gjelder for forflytninger innenfor Unionen av disse dyrene.Andre epidemiologiske faktorer.Internasjonale dyrehelsestandarder for handel som er relevante for disse artene og kategoriene av dyr.
+Kommisjonen skal i delegerte rettsakter i henhold til artikkel 234 nr. 2 ta følgende forhold i betraktning ved fastsettelse av krav til dyrehelse ved innførsel til Unionen av bestemte arter og kategorier av dyr:
+
+1. De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer.
+2. Helsestatusen i Unionen når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer.
+3. De listeførte artene for de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer.
+4. De berørte dyrenes alder og kjønn.
+5. De berørte dyrenes opprinnelse.
+6. Den berørte typen anlegg og produksjon på opprinnelses- og bestemmelsesstedet.
+7. Det tiltenkte bestemmelsesstedet.
+8. Den tiltenkte bruken av berørte dyr.
+9. Eventuelle risikoreduserende tiltak som er innført i opprinnelses- eller transittredjelandene eller -territoriene, eller etter de berørte dyrenes ankomst på Unionens territorium.
+10. Krav til dyrehelse som gjelder for forflytninger innenfor Unionen av disse dyrene.
+11. Andre epidemiologiske faktorer.
+12. Internasjonale dyrehelsestandarder for handel som er relevante for disse artene og kategoriene av dyr.
 
 ###### Artikkel 236
 
 Forhold som skal tas i betraktning i delegerte rettsakter i henhold til artikkel 234 når det gjelder innførsel til Unionen av avlsmateriale og produkter av animalsk opprinnelse
 
-Kommisjonen skal i delegerte rettsakter i henhold til artikkel 234 nr. 2 ta følgende forhold i betraktning ved fastsettelse av krav til dyrehelse ved innførsel til Unionen av avlsmateriale og produkter av animalsk opprinnelse:De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer.Helsestatusen hos de dyrene som avlsmaterialet eller produktene av animalsk opprinnelse kommer fra, og helsestatusen i Unionen når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer.Typen og arten av særskilt avlsmateriale eller produkter av animalsk opprinnelse, behandlinger, bearbeidingsmetoder og andre risikoreduserende tiltak som er benyttet på opprinnelses-, forsendelses- eller bestemmelsesstedet.Typen anlegg og produksjon på opprinnelses- og bestemmelsesstedet.Det tiltenkte bestemmelsesstedet.Den tiltenkte bruken av avlsmaterialet eller produktene av animalsk opprinnelse.Krav til dyrehelse som gjelder for forflytninger innenfor Unionen av avlsmateriale og produkter av animalsk opprinnelse.Andre epidemiologiske faktorer.Internasjonale dyrehelsestandarder for handel som er relevante for avlsmaterialet eller produktene av animalsk opprinnelse.
+Kommisjonen skal i delegerte rettsakter i henhold til artikkel 234 nr. 2 ta følgende forhold i betraktning ved fastsettelse av krav til dyrehelse ved innførsel til Unionen av avlsmateriale og produkter av animalsk opprinnelse:
+
+1. De listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer.
+2. Helsestatusen hos de dyrene som avlsmaterialet eller produktene av animalsk opprinnelse kommer fra, og helsestatusen i Unionen når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer.
+3. Typen og arten av særskilt avlsmateriale eller produkter av animalsk opprinnelse, behandlinger, bearbeidingsmetoder og andre risikoreduserende tiltak som er benyttet på opprinnelses-, forsendelses- eller bestemmelsesstedet.
+4. Typen anlegg og produksjon på opprinnelses- og bestemmelsesstedet.
+5. Det tiltenkte bestemmelsesstedet.
+6. Den tiltenkte bruken av avlsmaterialet eller produktene av animalsk opprinnelse.
+7. Krav til dyrehelse som gjelder for forflytninger innenfor Unionen av avlsmateriale og produkter av animalsk opprinnelse.
+8. Andre epidemiologiske faktorer.
+9. Internasjonale dyrehelsestandarder for handel som er relevante for avlsmaterialet eller produktene av animalsk opprinnelse.
 
 ###### Avsnitt 5
 
@@ -3342,23 +5626,54 @@ Helsesertifikater, erklæringer og andre dokumenter
 
 Helsesertifikater, erklæringer og andre dokumenter for innførsel til Unionen
 
-1\. Medlemsstatene skal bare tillate innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse dersom forsendelsene er ledsaget av det ene eller begge av følgende:Et helsesertifikat utstedt av vedkommende myndighet i opprinnelsestredjelandet eller -territoriet, med mindre det er gitt unntak etter nr. 4 bokstav a).Erklæringer eller andre dokumenter, dersom dette kreves etter reglene vedtatt i henhold til nr. 4 bokstav b).
+1\. Medlemsstatene skal bare tillate innførsel til Unionen av forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse dersom forsendelsene er ledsaget av det ene eller begge av følgende:
+
+1. Et helsesertifikat utstedt av vedkommende myndighet i opprinnelsestredjelandet eller -territoriet, med mindre det er gitt unntak etter nr. 4 bokstav a).
+2. Erklæringer eller andre dokumenter, dersom dette kreves etter reglene vedtatt i henhold til nr. 4 bokstav b).
 
 2\. Medlemsstatene skal ikke tillate innførsel til Unionen av forsendelser av dyr, avlsmateriale eller produkter av animalsk opprinnelse med mindre helsesertifikatet nevnt i nr. 1 bokstav a) har blitt kontrollert og undertegnet av en offentlig veterinær i et tredjeland eller et territorium i samsvar med sertifiseringskrav som er likeverdige med dem som er fastsatt i artikkel 149 nr. 3 eller artikkel 216 nr. 3, og eventuelle regler vedtatt i henhold til artikkel 149 nr. 4 eller artikkel 216 nr. 4.
 
-3\. Medlemsstatene skal tillate at elektroniske helsesertifikater som er utarbeidet, håndtert og overført ved hjelp av TRACES, erstatter ledsagende helsesertifikater som nevnt i nr. 1, dersom slike elektroniske helsesertifikaterinneholder alle opplysninger som helsesertifikatet nevnt i nr. 1 bokstav a) skal inneholde i samsvar med artikkel 238 nr. 1 og eventuelle regler vedtatt i henhold til artikkel 238 nr. 3,sikrer sporbarhet for forsendelsene av dyr, avlsmateriale og produkter av animalsk opprinnelse, og knytter disse forsendelsene til det elektroniske helsesertifikatet.
+3\. Medlemsstatene skal tillate at elektroniske helsesertifikater som er utarbeidet, håndtert og overført ved hjelp av TRACES, erstatter ledsagende helsesertifikater som nevnt i nr. 1, dersom slike elektroniske helsesertifikater
 
-4\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Unntak fra helsesertifikatkravene fastsatt i nr. 1 bokstav a) og nr. 2 ved forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse, og i særlige regler for utstedelse av helsesertifikater for slike forsendelser dersom de aktuelle forsendelsene utgjør en uvesentlig risiko for dyrehelsen eller folkehelsen i Unionen, på grunn av én eller flere av følgende faktorer:Artene og kategoriene av dyr, avlsmateriale eller produkter av animalsk opprinnelse dette gjelder.Metodene for dyrehold og typene produksjon av dyr, avlsmateriale og produkter av animalsk opprinnelse.Deres tiltenkte bruk.Alternative risikoreduserende tiltak som er innført i opprinnelses- eller transittredjelandene eller -territoriene, eller etter deres ankomst på Unionens territorium, og som gir et like godt vern for dyrehelsen og folkehelsen i Unionen som denne forordningen fastsetter.Framlegging av garantier for at det berørte tredjelandet eller territoriet vil overholde kravene ved innførsel til Unionen, som vises på andre måter enn ved et helsesertifikat.Regler om at forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse som innføres til Unionen, skal være ledsaget av erklæringer eller andre dokumenter som er nødvendige for å vise at dyrene, avlsmaterialet eller produktene av animalsk opprinnelse det gjelder, oppfyller kravene til dyrehelse for innførsel til Unionen fastsatt i reglene vedtatt i henhold til artikkel 234 nr. 2.
+1. inneholder alle opplysninger som helsesertifikatet nevnt i nr. 1 bokstav a) skal inneholde i samsvar med artikkel 238 nr. 1 og eventuelle regler vedtatt i henhold til artikkel 238 nr. 3,
+2. sikrer sporbarhet for forsendelsene av dyr, avlsmateriale og produkter av animalsk opprinnelse, og knytter disse forsendelsene til det elektroniske helsesertifikatet.
+
+4\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
+
+1. Unntak fra helsesertifikatkravene fastsatt i nr. 1 bokstav a) og nr. 2 ved forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse, og i særlige regler for utstedelse av helsesertifikater for slike forsendelser dersom de aktuelle forsendelsene utgjør en uvesentlig risiko for dyrehelsen eller folkehelsen i Unionen, på grunn av én eller flere av følgende faktorer:
+
+   1. Artene og kategoriene av dyr, avlsmateriale eller produkter av animalsk opprinnelse dette gjelder.
+   2. Metodene for dyrehold og typene produksjon av dyr, avlsmateriale og produkter av animalsk opprinnelse.
+   3. Deres tiltenkte bruk.
+   4. Alternative risikoreduserende tiltak som er innført i opprinnelses- eller transittredjelandene eller -territoriene, eller etter deres ankomst på Unionens territorium, og som gir et like godt vern for dyrehelsen og folkehelsen i Unionen som denne forordningen fastsetter.
+   5. Framlegging av garantier for at det berørte tredjelandet eller territoriet vil overholde kravene ved innførsel til Unionen, som vises på andre måter enn ved et helsesertifikat.
+2. Regler om at forsendelser av dyr, avlsmateriale og produkter av animalsk opprinnelse som innføres til Unionen, skal være ledsaget av erklæringer eller andre dokumenter som er nødvendige for å vise at dyrene, avlsmaterialet eller produktene av animalsk opprinnelse det gjelder, oppfyller kravene til dyrehelse for innførsel til Unionen fastsatt i reglene vedtatt i henhold til artikkel 234 nr. 2.
 
 ###### Artikkel 238
 
 Innholdet i helsesertifikatene
 
-1\. Helsesertifikatet nevnt i artikkel 237 nr. 1 bokstav a) skal inneholde minst følgende opplysninger:Navn og adresse tilopprinnelsesanlegget eller -stedet,bestemmelsesanlegget eller -stedet,eventuelt anlegg for oppsamling eller for hvile for de berørte holdte dyrene.En beskrivelse av dyrene, avlsmaterialet eller produktene av animalsk opprinnelse det gjelder.Antallet eller volumet av dyr, avlsmateriale eller produkter av animalsk opprinnelse det gjelder.Eventuelt identifikasjon og registrering av dyrene, avlsmaterialet eller produktene av animalsk opprinnelse det gjelder.Opplysninger som er nødvendige for å vise at dyrene, avlsmaterialet og produktene av animalsk opprinnelse det gjelder, oppfyller kravene til dyrehelse for innførsel til Unionen fastsatt i artikkel 229 og artikkel 234 nr. 1, og i reglene vedtatt i henhold til artikkel 234 nr. 2 og artikkel 239.
+1\. Helsesertifikatet nevnt i artikkel 237 nr. 1 bokstav a) skal inneholde minst følgende opplysninger:
+
+1. Navn og adresse til
+
+   1. opprinnelsesanlegget eller -stedet,
+   2. bestemmelsesanlegget eller -stedet,
+   3. eventuelt anlegg for oppsamling eller for hvile for de berørte holdte dyrene.
+2. En beskrivelse av dyrene, avlsmaterialet eller produktene av animalsk opprinnelse det gjelder.
+3. Antallet eller volumet av dyr, avlsmateriale eller produkter av animalsk opprinnelse det gjelder.
+4. Eventuelt identifikasjon og registrering av dyrene, avlsmaterialet eller produktene av animalsk opprinnelse det gjelder.
+5. Opplysninger som er nødvendige for å vise at dyrene, avlsmaterialet og produktene av animalsk opprinnelse det gjelder, oppfyller kravene til dyrehelse for innførsel til Unionen fastsatt i artikkel 229 og artikkel 234 nr. 1, og i reglene vedtatt i henhold til artikkel 234 nr. 2 og artikkel 239.
 
 2\. Helsesertifikatet nevnt i artikkel 237 nr. 1 bokstav a) kan inneholde andre opplysninger som kreves i samsvar med annet unionsregelverk.
 
-3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler foropplysninger som skal inntas i helsesertifikatet nevnt i artikkel 237 nr. 1 bokstav a), i tillegg til opplysningene nevnt i nr. 1 i denne artikkelen,opplysninger som skal inntas i erklæringer eller andre dokumenter som nevnt i artikkel 237 nr. 1 bokstav b),standardskjemaer for helsesertifikater, erklæringer og andre dokumenter nevnt i artikkel 237 nr. 1.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for
+
+1. opplysninger som skal inntas i helsesertifikatet nevnt i artikkel 237 nr. 1 bokstav a), i tillegg til opplysningene nevnt i nr. 1 i denne artikkelen,
+2. opplysninger som skal inntas i erklæringer eller andre dokumenter som nevnt i artikkel 237 nr. 1 bokstav b),
+3. standardskjemaer for helsesertifikater, erklæringer og andre dokumenter nevnt i artikkel 237 nr. 1.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 4\. Inntil det innføres regler i gjennomføringsrettsakter som vedtas i henhold til nr. 3, med hensyn til en bestemt art eller kategori av dyr, avlsmateriale eller produkt av animalsk opprinnelse, kan medlemsstatene etter en vurdering av tilknyttede risikoer benytte nasjonale regler, forutsatt at de nasjonale reglene oppfyller vilkårene fastsatt i nr. 1.
 
@@ -3372,9 +5687,38 @@ Unntak og ytterligere krav for visse kategorier av dyr, avlsmateriale og produkt
 
 1\. For visse bestemte former for innførsel av dyr, avlsmateriale og produkter av animalsk opprinnelse kan det være at anvendelse av reglene fastsatt i artikkel 229 nr. 1, artikkel 233 og 237 ikke er tilstrekkelig, og det kan være nødvendig at Kommisjonen gjennom delegerte rettsakter vedtar særlige regler som tar hensyn til de særlige risikoene, det endelige bestemmelsesstedet, typen sluttbruk og andre omstendigheter.
 
-2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til de særlige reglene nevnt i nr. 1 for unntakene fra kravene fastsatt i artikkel 229 nr. 1 og artikkel 233 og 237, og for innføring av ytterligere krav for innførsel til Unionen av følgende:Dyrberegnet på sirkus, arrangementer, utstillinger, framvisning, oppvisninger og avgrensede anlegg,beregnet på vitenskapelige eller diagnostiske formål,som Unionen ikke er endelig bestemmelsessted for,som kommer fra Unionen, og som flyttes til et tredjeland eller et territorium, og deretter flyttes tilbake til Unionen fra nevnte tredjeland eller territorium,som kommer fra Unionen, og som transporteres gjennom et tredjeland eller et territorium på vei til en annen del av Unionen,som er beregnet på å holdes midlertidig på beite i nærheten av unionsgrensene,som utgjør en uvesentlig risiko for dyrehelsestatusen i Unionen.Produkter av animalsk opprinnelseberegnet på personlig bruk,beregnet på å konsumeres av besetning og passasjerer på transportmidler som ankommer fra tredjeland eller territorier.Avlsmateriale og produkter av animalsk opprinnelseberegnet på å brukes som vareprøver,beregnet på å brukes som prøver til forskning og diagnostikk,som Unionen ikke er endelig bestemmelsessted for,som kommer fra Unionen, og som flyttes til et tredjeland eller et territorium, og deretter flyttes tilbake til Unionen fra nevnte tredjeland eller territorium,som kommer fra Unionen, og som transporteres gjennom en tredjeland eller et territorium på vei til en annen del av Unionen,som utgjør en uvesentlig risiko for dyrehelsestatusen i Unionen.Disse delegerte rettsaktene skal ta hensyn til forholdene nevnt i artikkel 235 og 236.
+2\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til de særlige reglene nevnt i nr. 1 for unntakene fra kravene fastsatt i artikkel 229 nr. 1 og artikkel 233 og 237, og for innføring av ytterligere krav for innførsel til Unionen av følgende:
 
-3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette reglerfor standardskjemaer for helsesertifikater, erklæringer og andre dokumenter for de kategoriene dyr, avlsmateriale og produkter av animalsk opprinnelse som er nevnt i nr. 2,som angir koder fra Den kombinerte nomenklatur for produktene nevnt i nr. 1, dersom det ikke er fastsatt slike koder i andre relevante unionsregler.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. Dyr
+
+   1. beregnet på sirkus, arrangementer, utstillinger, framvisning, oppvisninger og avgrensede anlegg,
+   2. beregnet på vitenskapelige eller diagnostiske formål,
+   3. som Unionen ikke er endelig bestemmelsessted for,
+   4. som kommer fra Unionen, og som flyttes til et tredjeland eller et territorium, og deretter flyttes tilbake til Unionen fra nevnte tredjeland eller territorium,
+   5. som kommer fra Unionen, og som transporteres gjennom et tredjeland eller et territorium på vei til en annen del av Unionen,
+   6. som er beregnet på å holdes midlertidig på beite i nærheten av unionsgrensene,
+   7. som utgjør en uvesentlig risiko for dyrehelsestatusen i Unionen.
+2. Produkter av animalsk opprinnelse
+
+   1. beregnet på personlig bruk,
+   2. beregnet på å konsumeres av besetning og passasjerer på transportmidler som ankommer fra tredjeland eller territorier.
+3. Avlsmateriale og produkter av animalsk opprinnelse
+
+   1. beregnet på å brukes som vareprøver,
+   2. beregnet på å brukes som prøver til forskning og diagnostikk,
+   3. som Unionen ikke er endelig bestemmelsessted for,
+   4. som kommer fra Unionen, og som flyttes til et tredjeland eller et territorium, og deretter flyttes tilbake til Unionen fra nevnte tredjeland eller territorium,
+   5. som kommer fra Unionen, og som transporteres gjennom en tredjeland eller et territorium på vei til en annen del av Unionen,
+   6. som utgjør en uvesentlig risiko for dyrehelsestatusen i Unionen.
+
+Disse delegerte rettsaktene skal ta hensyn til forholdene nevnt i artikkel 235 og 236.
+
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler
+
+1. for standardskjemaer for helsesertifikater, erklæringer og andre dokumenter for de kategoriene dyr, avlsmateriale og produkter av animalsk opprinnelse som er nevnt i nr. 2,
+2. som angir koder fra Den kombinerte nomenklatur for produktene nevnt i nr. 1, dersom det ikke er fastsatt slike koder i andre relevante unionsregler.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ### KAPITTEL 2
 Innførsel til Unionen av visse andre varer enn dyr, avlsmateriale og produkter av animalsk opprinnelse fra tredjeland og territorier
@@ -3383,9 +5727,17 @@ Innførsel til Unionen av visse andre varer enn dyr, avlsmateriale og produkter 
 
 Sykdomsagenser og delegerte rettsakter
 
-1\. Driftsansvarlige, veterinærer, fagpersoner på området akvatiske dyrs helse og fagpersoner innen dyrefag som bringer sykdomsagenser til Unionen, skaltreffe hensiktsmessige tiltak for å sikre at innførselen av sykdomsagenser til Unionen ikke utgjør en risiko for dyrehelsen eller folkehelsen i Unionen når det gjelder listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer,treffe hensiktsmessige tiltak for å forebygge og bekjempe sykdom for å sikre at innførselen av slike sykdomsagenser til Unionen ikke er forbundet med en risiko for bioterrorisme.Dette nummeret får også anvendelse på enhver annen fysisk eller juridisk person som med forsett bringer slike agenser inn i Unionen.
+1\. Driftsansvarlige, veterinærer, fagpersoner på området akvatiske dyrs helse og fagpersoner innen dyrefag som bringer sykdomsagenser til Unionen, skal
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder krav ved innførsel til Unionen av sykdomsagenser, med hensyn tilemballering av sykdomsagenser,andre risikoreduserende tiltak som kreves for å forhindre utslipp og spredning av sykdomsagenser.
+1. treffe hensiktsmessige tiltak for å sikre at innførselen av sykdomsagenser til Unionen ikke utgjør en risiko for dyrehelsen eller folkehelsen i Unionen når det gjelder listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d) og nye sykdommer,
+2. treffe hensiktsmessige tiltak for å forebygge og bekjempe sykdom for å sikre at innførselen av slike sykdomsagenser til Unionen ikke er forbundet med en risiko for bioterrorisme.
+
+Dette nummeret får også anvendelse på enhver annen fysisk eller juridisk person som med forsett bringer slike agenser inn i Unionen.
+
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder krav ved innførsel til Unionen av sykdomsagenser, med hensyn til
+
+1. emballering av sykdomsagenser,
+2. andre risikoreduserende tiltak som kreves for å forhindre utslipp og spredning av sykdomsagenser.
 
 ###### Artikkel 241
 
@@ -3393,11 +5745,23 @@ Plantemateriale samt delegerte rettsakter og gjennomføringsrettsakter
 
 1\. Medlemsstatene skal treffe tiltak for å begrense innførsel til Unionen av forsendelser med plantemateriale ved en ugunstig sykdomssituasjon i tredjeland eller territorier når det gjelder listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d) eller nye sykdommer, når dette kreves i de reglene som er vedtatt i samsvar med nr. 3.
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til tiltakene nevnt i nr. 1, som fastsetter følgende:Særlige krav til dyrehelse ved innførsel til Unionen av plantemateriale som kan fungere som overføringsvei for listeførte eller nye sykdommer.Krav i forbindelse medutstedelse av helsesertifikater, idet det tas hensyn til reglene fastsatt i artikkel 237 nr. 1 bokstav a) og artikkel 237 nr. 2 og 3, ellererklæringer eller andre dokumenter, idet det tas hensyn til reglene fastsatt i artikkel 237 nr. 1 bokstav b).
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til tiltakene nevnt i nr. 1, som fastsetter følgende:
 
-3\. Kommisjonen skal utarbeide kravene til dyrehelse fastsatt i nr. 2 på grunnlag av følgende kriterier:Om en listeført eller ny sykdom som kan overføres gjennom plantemateriale, utgjør en alvorlig risiko for dyrs og menneskers helse i Unionen.Sannsynligheten for at dyr av listeførte arter for en bestemt listeført sykdom eller ny sykdom vil komme i direkte eller indirekte kontakt med plantematerialet nevnt i nr. 2.Om alternative risikoreduserende tiltak for nevnte plantemateriale, som kan fjerne eller redusere risikoen for overføring nevnt i bokstav a), er tilgjengelige og effektive.
+1. Særlige krav til dyrehelse ved innførsel til Unionen av plantemateriale som kan fungere som overføringsvei for listeførte eller nye sykdommer.
+2. Krav i forbindelse med
 
-4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler som angir koder fra Den kombinerte nomenklatur for plantematerialet nevnt i nr. 2, dersom det ikke er fastsatt slike koder i andre relevante unionsregler.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+   1. utstedelse av helsesertifikater, idet det tas hensyn til reglene fastsatt i artikkel 237 nr. 1 bokstav a) og artikkel 237 nr. 2 og 3, eller
+   2. erklæringer eller andre dokumenter, idet det tas hensyn til reglene fastsatt i artikkel 237 nr. 1 bokstav b).
+
+3\. Kommisjonen skal utarbeide kravene til dyrehelse fastsatt i nr. 2 på grunnlag av følgende kriterier:
+
+1. Om en listeført eller ny sykdom som kan overføres gjennom plantemateriale, utgjør en alvorlig risiko for dyrs og menneskers helse i Unionen.
+2. Sannsynligheten for at dyr av listeførte arter for en bestemt listeført sykdom eller ny sykdom vil komme i direkte eller indirekte kontakt med plantematerialet nevnt i nr. 2.
+3. Om alternative risikoreduserende tiltak for nevnte plantemateriale, som kan fjerne eller redusere risikoen for overføring nevnt i bokstav a), er tilgjengelige og effektive.
+
+4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler som angir koder fra Den kombinerte nomenklatur for plantematerialet nevnt i nr. 2, dersom det ikke er fastsatt slike koder i andre relevante unionsregler.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ###### Artikkel 242
 
@@ -3405,11 +5769,26 @@ Transportmidler, utstyr, emballasjemateriale, transportvann og fôr, samt delege
 
 1\. Driftsansvarlige som bringer dyr og produkter inn i Unionen, skal treffe hensiktsmessige og nødvendige sykdomsforebyggende tiltak under transport, som fastsatt i artikkel 125 nr. 1 og artikkel 192 nr. 1.
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Særlige krav til dyrehelse ved innførsel til Unionen fortransportmidler for dyr og produkter,utstyr, emballasjemateriale eller transportvann for dyr og produkter eller fôr som kan overføre dyresykdommer.Krav i forbindelse medutstedelse av helsesertifikater, idet det tas hensyn til reglene fastsatt i artikkel 237 nr. 1 bokstav a) og artikkel 237 nr. 2 og 3, ellererklæringer eller andre dokumenter, idet det tas hensyn til reglene fastsatt i artikkel 237 nr. 1 bokstav b).
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
 
-3\. Kommisjonen skal utarbeide kravene til dyrehelse fastsatt i nr. 2 i denne artikkelen ved en ugunstig sykdomssituasjon for én eller flere listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), eller nye sykdommer, som utgjør en alvorlig risiko for dyrs og menneskers helse i Unionen, iet nabotredjeland eller et naboterritorium,opprinnelsestredjelandet eller -territoriet,et transittredjeland eller et transittterritorium.
+1. Særlige krav til dyrehelse ved innførsel til Unionen for
 
-4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler som angir koder fra Den kombinerte nomenklatur for varene nevnt i nr. 2 bokstav a), dersom det ikke er fastsatt slike koder i andre relevante unionsregler.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+   1. transportmidler for dyr og produkter,
+   2. utstyr, emballasjemateriale eller transportvann for dyr og produkter eller fôr som kan overføre dyresykdommer.
+2. Krav i forbindelse med
+
+   1. utstedelse av helsesertifikater, idet det tas hensyn til reglene fastsatt i artikkel 237 nr. 1 bokstav a) og artikkel 237 nr. 2 og 3, eller
+   2. erklæringer eller andre dokumenter, idet det tas hensyn til reglene fastsatt i artikkel 237 nr. 1 bokstav b).
+
+3\. Kommisjonen skal utarbeide kravene til dyrehelse fastsatt i nr. 2 i denne artikkelen ved en ugunstig sykdomssituasjon for én eller flere listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), eller nye sykdommer, som utgjør en alvorlig risiko for dyrs og menneskers helse i Unionen, i
+
+1. et nabotredjeland eller et naboterritorium,
+2. opprinnelsestredjelandet eller -territoriet,
+3. et transittredjeland eller et transittterritorium.
+
+4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler som angir koder fra Den kombinerte nomenklatur for varene nevnt i nr. 2 bokstav a), dersom det ikke er fastsatt slike koder i andre relevante unionsregler.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 ### KAPITTEL 3
 Eksport
@@ -3442,7 +5821,12 @@ Virkeområde for del VI
 
 1\. Denne delen får anvendelse på ikke-kommersielle forflytninger av kjæledyr til en medlemsstat fra en annen medlemsstat, eller fra et tredjeland eller et territorium.
 
-2\. Den får anvendelse uten hensyn tilrådsforordning [(EF) nr. 338/97](eu/31997r0338)63,eventuelle nasjonale tiltak som medlemsstatene har truffet, offentliggjort og gjort tilgjengelig for offentligheten for å begrense forflytningen av visse arter eller raser av kjæledyr på grunnlag av andre hensyn enn dem som er knyttet til dyrehelsen.63 Rådsforordning [(EF) nr. 338/97](eu/31997r0338) av 9. desember 1996 om vern av ville dyr og planter ved kontroll av handelen med dem (EFT L 61 av 3.3.1997, s. 1).
+2\. Den får anvendelse uten hensyn til
+
+1. rådsforordning [(EF) nr. 338/97](eu/31997r0338)63,
+2. eventuelle nasjonale tiltak som medlemsstatene har truffet, offentliggjort og gjort tilgjengelig for offentligheten for å begrense forflytningen av visse arter eller raser av kjæledyr på grunnlag av andre hensyn enn dem som er knyttet til dyrehelsen.
+
+   63 Rådsforordning [(EF) nr. 338/97](eu/31997r0338) av 9. desember 1996 om vern av ville dyr og planter ved kontroll av handelen med dem (EFT L 61 av 3.3.1997, s. 1).
 
 ###### Artikkel 245
 
@@ -3452,7 +5836,10 @@ Alminnelige bestemmelser
 
 2\. Dersom den ikke-kommersielle forflytningen av et kjæledyr utføres av en person med fullmakt, må den finne sted innen fem dager etter kjæledyreierens forflytning.
 
-3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med krav som utfyller reglene fastsatt i nr. 2, når det gjelder følgende:Dokumentasjon på ikke-kommersiell forflytning av et kjæledyr som utføres av en person med fullmakt.Unntak fra tidsrommet nevnt i nr. 2.
+3\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med krav som utfyller reglene fastsatt i nr. 2, når det gjelder følgende:
+
+1. Dokumentasjon på ikke-kommersiell forflytning av et kjæledyr som utføres av en person med fullmakt.
+2. Unntak fra tidsrommet nevnt i nr. 2.
 
 4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette krav til utforming, språk og gyldighet for den skriftlige erklæringen som gir en person fullmakt til å utføre den ikke-kommersielle forflytningen av et kjæledyr på vegne av kjæledyreieren. Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -3462,7 +5849,11 @@ Høyeste antall kjæledyr
 
 1\. Det høyeste antallet kjæledyr av artene oppført i vedlegg I del A som kan flyttes i løpet av én ikke-kommersiell forflytning, skal ikke overstige fem.
 
-2\. Som unntak fra nr. 1 kan antallet kjæledyr av artene oppført i vedlegg I del A overstige fem dersom følgende vilkår er oppfylt:Den aktuelle ikke-kommersielle forflytningen skjer med henblikk på å delta i en konkurranse, på en utstilling eller et idrettsarrangement, eller for trening til slikt arrangement.Kjæledyreieren eller den berørte personen med fullmakt legger fram skriftlig bevis på at kjæledyrene er registrert enten for å delta på et arrangement som nevnt i bokstav a), eller er registrert hos en forening som organiserer slike arrangementer.Kjæledyrene er eldre enn seks måneder.
+2\. Som unntak fra nr. 1 kan antallet kjæledyr av artene oppført i vedlegg I del A overstige fem dersom følgende vilkår er oppfylt:
+
+1. Den aktuelle ikke-kommersielle forflytningen skjer med henblikk på å delta i en konkurranse, på en utstilling eller et idrettsarrangement, eller for trening til slikt arrangement.
+2. Kjæledyreieren eller den berørte personen med fullmakt legger fram skriftlig bevis på at kjæledyrene er registrert enten for å delta på et arrangement som nevnt i bokstav a), eller er registrert hos en forening som organiserer slike arrangementer.
+3. Kjæledyrene er eldre enn seks måneder.
 
 3\. For å forhindre at kommersielle forflytninger av kjæledyr av artene oppført i vedlegg I del B framstilles som ikke-kommersielle forflytninger i bedragersk hensikt, skal Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til regler som angir det høyeste antallet kjæledyr av disse artene som kan flyttes i løpet av én ikke-kommersiell forflytning.
 
@@ -3473,7 +5864,11 @@ Vilkår for ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra en 
 
 Vilkår for ikke-kommersiell forflytning av kjæledyr av artene oppført i vedlegg I del A
 
-Kjæledyr av artene oppført i vedlegg I del A skal ikke flyttes til en medlemsstat fra en annen medlemsstat med mindredyrene er individuelt merket med et fysisk identifikasjonsmerke i samsvar med reglene vedtatt i henhold til artikkel 252 nr. 1 bokstav a),de oppfyller de relevante forebyggende og risikoreduserende tiltakene vedtatt i henhold til artikkel 252 nr. 1 bokstav b) når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),de ledsages av et identifikasjonsdokument som er behørig utfylt og utstedt i samsvar med reglene vedtatt i henhold til artikkel 254 bokstav d).
+Kjæledyr av artene oppført i vedlegg I del A skal ikke flyttes til en medlemsstat fra en annen medlemsstat med mindre
+
+1. dyrene er individuelt merket med et fysisk identifikasjonsmerke i samsvar med reglene vedtatt i henhold til artikkel 252 nr. 1 bokstav a),
+2. de oppfyller de relevante forebyggende og risikoreduserende tiltakene vedtatt i henhold til artikkel 252 nr. 1 bokstav b) når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),
+3. de ledsages av et identifikasjonsdokument som er behørig utfylt og utstedt i samsvar med reglene vedtatt i henhold til artikkel 254 bokstav d).
 
 ###### Artikkel 248
 
@@ -3481,9 +5876,16 @@ Vilkår for ikke-kommersiell forflytning av kjæledyr av artene oppført i vedle
 
 1\. I den grad Kommisjonen har vedtatt en delegert rettsakt i henhold til artikkel 252 nr. 1 bokstav b) med hensyn til kjæledyr av en av artene oppført i vedlegg I del B, skal ikke-kommersiell forflytning av kjæledyr av denne arten til en medlemsstat fra en annen medlemsstat være underlagt vilkårene fastsatt i nr. 2.
 
-2\. Kjæledyr av artene nevnt i nr. 1 kan bare flyttes til en medlemsstat fra en annen medlemsstat dersomdyrene er identifisert eller beskrevet, enten hver for seg eller i grupper, i samsvar med reglene vedtatt i henhold til artikkel 252 nr. 1 bokstav a),de oppfyller de relevante forebyggende og risikoreduserende tiltakene vedtatt i henhold til artikkel 252 nr. 1 bokstav b) når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),de ledsages av et identifikasjonsdokument som er behørig utfylt og utstedt i samsvar med reglene vedtatt i henhold til artikkel 254 bokstav d).
+2\. Kjæledyr av artene nevnt i nr. 1 kan bare flyttes til en medlemsstat fra en annen medlemsstat dersom
 
-3\. Inntil de relevante delegerte rettsaktene nevnt i nr. 1 vedtas, kan medlemsstatene benytte nasjonale regler ved ikke-kommersiell forflytning av kjæledyr av artene oppført i vedlegg I del B til sitt territorium fra en annen medlemsstat, forutsatt at disse reglenestår i rimelig forhold til den risikoen for folkehelsen eller dyrehelsen som er forbundet med ikke-kommersiell forflytning av kjæledyr av disse artene, ogikke er strengere enn dem som gjelder for forflytninger av dyr av disse artene i samsvar med del IV.
+1. dyrene er identifisert eller beskrevet, enten hver for seg eller i grupper, i samsvar med reglene vedtatt i henhold til artikkel 252 nr. 1 bokstav a),
+2. de oppfyller de relevante forebyggende og risikoreduserende tiltakene vedtatt i henhold til artikkel 252 nr. 1 bokstav b) når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),
+3. de ledsages av et identifikasjonsdokument som er behørig utfylt og utstedt i samsvar med reglene vedtatt i henhold til artikkel 254 bokstav d).
+
+3\. Inntil de relevante delegerte rettsaktene nevnt i nr. 1 vedtas, kan medlemsstatene benytte nasjonale regler ved ikke-kommersiell forflytning av kjæledyr av artene oppført i vedlegg I del B til sitt territorium fra en annen medlemsstat, forutsatt at disse reglene
+
+1. står i rimelig forhold til den risikoen for folkehelsen eller dyrehelsen som er forbundet med ikke-kommersiell forflytning av kjæledyr av disse artene, og
+2. ikke er strengere enn dem som gjelder for forflytninger av dyr av disse artene i samsvar med del IV.
 
 ### KAPITTEL 3
 Vilkår for ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra et tredjeland eller et territorium
@@ -3492,7 +5894,11 @@ Vilkår for ikke-kommersiell forflytning av kjæledyr til en medlemsstat fra et 
 
 Vilkår for ikke-kommersiell forflytning av kjæledyr av artene oppført i vedlegg I del A
 
-1\. Kjæledyr av artene oppført i vedlegg I del A skal ikke flyttes til en medlemsstat fra et tredjeland eller et territorium med mindredyrene er individuelt merket med et fysisk identifikasjonsmerke i samsvar med reglene vedtatt i henhold til artikkel 252 nr. 1 bokstav a),de oppfyller de relevante forebyggende og risikoreduserende tiltakene vedtatt i henhold til artikkel 252 nr. 1 bokstav b) når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),de ledsages av et identifikasjonsdokument som er behørig utfylt og utstedt i samsvar med reglene vedtatt i henhold til artikkel 254 bokstav d).
+1\. Kjæledyr av artene oppført i vedlegg I del A skal ikke flyttes til en medlemsstat fra et tredjeland eller et territorium med mindre
+
+1. dyrene er individuelt merket med et fysisk identifikasjonsmerke i samsvar med reglene vedtatt i henhold til artikkel 252 nr. 1 bokstav a),
+2. de oppfyller de relevante forebyggende og risikoreduserende tiltakene vedtatt i henhold til artikkel 252 nr. 1 bokstav b) når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),
+3. de ledsages av et identifikasjonsdokument som er behørig utfylt og utstedt i samsvar med reglene vedtatt i henhold til artikkel 254 bokstav d).
 
 2\. Kjæledyr av artene oppført i vedlegg I del A kan bare flyttes til en medlemsstat fra et annet tredjeland eller territorium enn dem som er listeført i henhold til artikkel 253 nr. 1 bokstav d), gjennom et innførselssted som er oppført på listen for dette formålet. Hver medlemsstat skal utarbeide en liste over disse innførselsstedene på sitt territorium og skal gjøre listen tilgjengelig for offentligheten.
 
@@ -3504,15 +5910,32 @@ Vilkår for ikke-kommersiell forflytning av kjæledyr av artene oppført i vedle
 
 1\. I den grad Kommisjonen har vedtatt en delegert rettsakt i henhold til artikkel 252 nr. 1 bokstav b) med hensyn til kjæledyr av en av artene oppført i vedlegg I del B, skal ikke-kommersiell forflytning av kjæledyr av denne arten til en medlemsstat fra et tredjeland eller et territorium være underlagt vilkårene fastsatt i nr. 2 i denne artikkelen.
 
-2\. Kjæledyr av artene nevnt i nr. 1 kan bare flyttes til en medlemsstat fra et tredjeland eller et territorium dersomdyrene er identifisert eller beskrevet, enten hver for seg eller i grupper, i samsvar med reglene vedtatt i henhold til artikkel 252 nr. 1 bokstav a),de oppfyller de relevante forebyggende og risikoreduserende tiltakene vedtatt i henhold til artikkel 252 nr. 1 bokstav b) når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),de ledsages av et identifikasjonsdokument som er behørig utfylt og utstedt i samsvar med reglene vedtatt i henhold til artikkel 254 bokstav d),de, når de kommer fra et annet tredjeland eller territorium enn dem som er listeført i henhold til artikkel 253 nr. 1 bokstav d), innføres via et innførselssted som er oppført på listen for dette formålet. Hver medlemsstat skal utarbeide en liste over disse innførselsstedene på sitt territorium og skal gjøre listen tilgjengelig for offentligheten.
+2\. Kjæledyr av artene nevnt i nr. 1 kan bare flyttes til en medlemsstat fra et tredjeland eller et territorium dersom
 
-3\. Inntil de relevante delegerte rettsaktene nevnt i nr. 1 vedtas, kan medlemsstatene benytte nasjonale regler ved ikke-kommersiell forflytning av kjæledyr av artene oppført i vedlegg I del B til sitt territorium fra et tredjeland eller et territorium, forutsatt at disse reglenestår i rimelig forhold til den risikoen for folkehelsen eller dyrehelsen som er forbundet med ikke-kommersiell forflytning av kjæledyr av disse artene, ogikke er strengere enn dem som gjelder for innførsel til Unionen av dyr av disse artene i samsvar med del IV.
+1. dyrene er identifisert eller beskrevet, enten hver for seg eller i grupper, i samsvar med reglene vedtatt i henhold til artikkel 252 nr. 1 bokstav a),
+2. de oppfyller de relevante forebyggende og risikoreduserende tiltakene vedtatt i henhold til artikkel 252 nr. 1 bokstav b) når det gjelder de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d),
+3. de ledsages av et identifikasjonsdokument som er behørig utfylt og utstedt i samsvar med reglene vedtatt i henhold til artikkel 254 bokstav d),
+4. de, når de kommer fra et annet tredjeland eller territorium enn dem som er listeført i henhold til artikkel 253 nr. 1 bokstav d), innføres via et innførselssted som er oppført på listen for dette formålet. Hver medlemsstat skal utarbeide en liste over disse innførselsstedene på sitt territorium og skal gjøre listen tilgjengelig for offentligheten.
+
+3\. Inntil de relevante delegerte rettsaktene nevnt i nr. 1 vedtas, kan medlemsstatene benytte nasjonale regler ved ikke-kommersiell forflytning av kjæledyr av artene oppført i vedlegg I del B til sitt territorium fra et tredjeland eller et territorium, forutsatt at disse reglene
+
+1. står i rimelig forhold til den risikoen for folkehelsen eller dyrehelsen som er forbundet med ikke-kommersiell forflytning av kjæledyr av disse artene, og
+2. ikke er strengere enn dem som gjelder for innførsel til Unionen av dyr av disse artene i samsvar med del IV.
 
 ###### Artikkel 251
 
 Unntak fra vilkårene for ikke-kommersielle forflytninger av kjæledyr mellom visse stater og territorier
 
-Som unntak fra artikkel 249 og 250 kan ikke-kommersielle forflytninger av kjæledyr mellom følgende stater og territorier fortsette på vilkårene fastsatt i de nasjonale reglene i disse statene og territoriene:San Marino og Italia.Vatikanstaten og Italia.Monaco og Frankrike.Andorra og Frankrike.Andorra og Spania.Norge og Sverige.Færøyene og Danmark.Grønland og Danmark.
+Som unntak fra artikkel 249 og 250 kan ikke-kommersielle forflytninger av kjæledyr mellom følgende stater og territorier fortsette på vilkårene fastsatt i de nasjonale reglene i disse statene og territoriene:
+
+1. San Marino og Italia.
+2. Vatikanstaten og Italia.
+3. Monaco og Frankrike.
+4. Andorra og Frankrike.
+5. Andorra og Spania.
+6. Norge og Sverige.
+7. Færøyene og Danmark.
+8. Grønland og Danmark.
 
 ### KAPITTEL 4
 Identifikasjon samt forebyggende og risikoreduserende tiltak
@@ -3521,19 +5944,36 @@ Identifikasjon samt forebyggende og risikoreduserende tiltak
 
 Delegering av myndighet når det gjelder identifikasjon av kjæledyr samt forebyggende og risikoreduserende tiltak
 
-1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:Nærmere artsspesifikke krav tilidentifikasjonsmerker for kjæledyr av artene oppført i vedlegg I i henhold til artikkel 247 bokstav a), artikkel 248 nr. 2 bokstav a), artikkel 249 nr. 1 bokstav a) og artikkel 250 nr. 2 bokstav a),påsetting og bruk av identifikasjonsmerkene.Nærmere artsspesifikke krav om forebyggende og risikoreduserende tiltak for å sikre at kjæledyrene ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), grunnet forflytninger av kjæledyr av artene oppført i vedlegg I i henhold til artikkel 247 bokstav b), artikkel 248 nr. 2 bokstav b), artikkel 249 nr. 1 bokstav b) og artikkel 250 nr. 2 bokstav b).
+1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder følgende:
+
+1. Nærmere artsspesifikke krav til
+
+   1. identifikasjonsmerker for kjæledyr av artene oppført i vedlegg I i henhold til artikkel 247 bokstav a), artikkel 248 nr. 2 bokstav a), artikkel 249 nr. 1 bokstav a) og artikkel 250 nr. 2 bokstav a),
+   2. påsetting og bruk av identifikasjonsmerkene.
+2. Nærmere artsspesifikke krav om forebyggende og risikoreduserende tiltak for å sikre at kjæledyrene ikke utgjør en vesentlig risiko for spredning av listeførte sykdommer som nevnt i artikkel 9 nr. 1 bokstav d), grunnet forflytninger av kjæledyr av artene oppført i vedlegg I i henhold til artikkel 247 bokstav b), artikkel 248 nr. 2 bokstav b), artikkel 249 nr. 1 bokstav b) og artikkel 250 nr. 2 bokstav b).
 
 2\. Dersom det ved nye risikoer foreligger tvingende hasteårsaker, skal framgangsmåten fastsatt i artikkel 265 gjelde for reglene vedtatt i henhold til nr. 1 bokstav b).
 
 3\. De artsspesifikke forebyggende og risikoreduserende tiltakene som godkjennes ved en delegert rettsakt vedtatt i henhold til nr. 1 bokstav b), skal bygge på tilstrekkelige, pålitelige og validerte vitenskapelige opplysninger og benyttes ut fra den risikoen for folkehelsen og dyrehelsen som er forbundet med ikke-kommersiell forflytning av kjæledyr som kan bli rammet av de listeførte sykdommene nevnt i artikkel 9 nr. 1 bokstav d).
 
-4\. De delegerte rettsaktene nevnt i nr. 1 bokstav b) kan også omfatteregler for kategorisering av medlemsstater eller deler av medlemsstater etter deres dyrehelsestatus samt overvåkings- og meldingssystemer med hensyn til visse sykdommer som kan spres ved forflytning av kjæledyr av artene oppført i vedlegg I,vilkårene som medlemsstatene må oppfylle for fortsatt å kunne benytte de forebyggende og risikoreduserende tiltakene nevnt i nr. 1 bokstav b),vilkårene for bruk og dokumentasjon av de forebyggende og risikoreduserende tiltakene nevnt i nr. 1 bokstav b),vilkårene for å gi og der det er relevant, dokumentere unntak under visse nærmere angitte omstendigheter fra bruken av de forebyggende og risikoreduserende tiltakene nevnt i nr. 1 bokstav b),kriteriene for å gi og dokumentere unntak under visse nærmere angitte omstendigheter fra vilkårene nevnt i artikkel 247–250.
+4\. De delegerte rettsaktene nevnt i nr. 1 bokstav b) kan også omfatte
+
+1. regler for kategorisering av medlemsstater eller deler av medlemsstater etter deres dyrehelsestatus samt overvåkings- og meldingssystemer med hensyn til visse sykdommer som kan spres ved forflytning av kjæledyr av artene oppført i vedlegg I,
+2. vilkårene som medlemsstatene må oppfylle for fortsatt å kunne benytte de forebyggende og risikoreduserende tiltakene nevnt i nr. 1 bokstav b),
+3. vilkårene for bruk og dokumentasjon av de forebyggende og risikoreduserende tiltakene nevnt i nr. 1 bokstav b),
+4. vilkårene for å gi og der det er relevant, dokumentere unntak under visse nærmere angitte omstendigheter fra bruken av de forebyggende og risikoreduserende tiltakene nevnt i nr. 1 bokstav b),
+5. kriteriene for å gi og dokumentere unntak under visse nærmere angitte omstendigheter fra vilkårene nevnt i artikkel 247–250.
 
 ###### Artikkel 253
 
 Gjennomføringsrettsakter som gjelder forebyggende og risikoreduserende tiltak
 
-1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter når det gjelder kjæledyr av artene oppført i vedlegg I del A,fastsette reglene for format, utforming og språk for de dokumentene som kreves i henhold til artikkel 252 nr. 4 bokstav c) og d),vedta en liste over medlemsstater som oppfyller vilkårene nevnt i artikkel 252 nr. 4 bokstav d), og fjerne medlemsstater fra denne listen ved endringer i forbindelse med disse vilkårene,vedta en liste over medlemsstater som overholder reglene for kategorisering av medlemsstater eller deler av medlemsstater som nevnt i artikkel 252 nr. 4 bokstav a), og fjerne medlemsstater fra denne listen ved endringer i forbindelse med disse reglene,vedta en liste over tredjeland og territorier som oppfyller vilkårene nevnt i artikkel 252 nr. 4 bokstav d), og fjerne tredjeland og territorier fra denne listen ved endringer i forbindelse med disse vilkårene.
+1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter når det gjelder kjæledyr av artene oppført i vedlegg I del A,
+
+1. fastsette reglene for format, utforming og språk for de dokumentene som kreves i henhold til artikkel 252 nr. 4 bokstav c) og d),
+2. vedta en liste over medlemsstater som oppfyller vilkårene nevnt i artikkel 252 nr. 4 bokstav d), og fjerne medlemsstater fra denne listen ved endringer i forbindelse med disse vilkårene,
+3. vedta en liste over medlemsstater som overholder reglene for kategorisering av medlemsstater eller deler av medlemsstater som nevnt i artikkel 252 nr. 4 bokstav a), og fjerne medlemsstater fra denne listen ved endringer i forbindelse med disse reglene,
+4. vedta en liste over tredjeland og territorier som oppfyller vilkårene nevnt i artikkel 252 nr. 4 bokstav d), og fjerne tredjeland og territorier fra denne listen ved endringer i forbindelse med disse vilkårene.
 
 2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter når det gjelder kjæledyr av artene oppført i vedlegg I del B, vedta en liste over tredjeland og territorier som oppfyller vilkårene nevnt i artikkel 252 nr. 4 bokstav d), og fjerne tredjeland eller territorier fra denne listen ved endringer i forbindelse med disse vilkårene.
 
@@ -3548,7 +5988,12 @@ Identifikasjonsdokumenter
 
 Delegering av myndighet når det gjelder identifikasjonsdokumenter
 
-Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelderrubrikker for angivelse av de opplysningene som skal inntas i identifikasjonsdokumentene nevnt i artikkel 247 bokstav c), artikkel 248 nr. 2 bokstav c), artikkel 249 nr. 1 bokstav c) og artikkel 250 nr. 2 bokstav c),distribusjonen av identifikasjonsdokumenter som ikke er utfylt, som nevnt i artikkel 247 bokstav c),vilkårene for å gi unntak med hensyn til formatet for identifikasjonsdokumenter i henhold til artikkel 247 bokstav c) og artikkel 249 nr. 1 bokstav c),utstedelsen, utfyllingen og eventuelt påtegningen av identifikasjonsdokumentene i henhold til artikkel 247 bokstav c), artikkel 248 nr. 2 bokstav c), artikkel 249 nr. 1 bokstav c) og artikkel 250 nr. 2 bokstav c).
+Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 når det gjelder
+
+1. rubrikker for angivelse av de opplysningene som skal inntas i identifikasjonsdokumentene nevnt i artikkel 247 bokstav c), artikkel 248 nr. 2 bokstav c), artikkel 249 nr. 1 bokstav c) og artikkel 250 nr. 2 bokstav c),
+2. distribusjonen av identifikasjonsdokumenter som ikke er utfylt, som nevnt i artikkel 247 bokstav c),
+3. vilkårene for å gi unntak med hensyn til formatet for identifikasjonsdokumenter i henhold til artikkel 247 bokstav c) og artikkel 249 nr. 1 bokstav c),
+4. utstedelsen, utfyllingen og eventuelt påtegningen av identifikasjonsdokumentene i henhold til artikkel 247 bokstav c), artikkel 248 nr. 2 bokstav c), artikkel 249 nr. 1 bokstav c) og artikkel 250 nr. 2 bokstav c).
 
 ###### Artikkel 255
 
@@ -3556,7 +6001,10 @@ Gjennomføringsrettsakter som gjelder identifikasjonsdokumenter
 
 1\. Kommisjonen skal vedta gjennomføringsrettsakter som fastsetter standardskjemaet for identifikasjonsdokumentene nevnt i artikkel 247 bokstav c) og artikkel 249 nr. 1 bokstav c). Nevnte standardskjema skal inneholde rubrikkene nevnt i artikkel 254 bokstav a) og kravene til språk, utforming, gyldighet og sikkerhetselementer for identifikasjonsdokumentene.
 
-2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter vedtastandardskjemaet for identifikasjonsdokumenter som nevnt i artikkel 248 nr. 2 bokstav c) og artikkel 250 nr. 2 bokstav c), som skal inneholde rubrikkene nevnt i artikkel 254 bokstav a), samt kravene til språk, utforming, gyldighet og sikkerhetselementer for identifikasjonsdokumentene,reglene som er nødvendige for overgang til standardskjemaet for identifikasjonsdokumenter nevnt i artikkel 247 bokstav c).
+2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter vedta
+
+1. standardskjemaet for identifikasjonsdokumenter som nevnt i artikkel 248 nr. 2 bokstav c) og artikkel 250 nr. 2 bokstav c), som skal inneholde rubrikkene nevnt i artikkel 254 bokstav a), samt kravene til språk, utforming, gyldighet og sikkerhetselementer for identifikasjonsdokumentene,
+2. reglene som er nødvendige for overgang til standardskjemaet for identifikasjonsdokumenter nevnt i artikkel 247 bokstav c).
 
 3\. Gjennomføringsrettsaktene nevnt i nr. 1 og 2 i denne artikkelen skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
@@ -3567,11 +6015,21 @@ Opplysningsplikt
 
 Opplysningsplikt
 
-1\. Medlemsstatene skal gi offentligheten klare og lett tilgjengelige opplysninger om kravene til dyrehelse som skal gjelde for ikke-kommersielle forflytninger av kjæledyr, herunder følgende:Vilkårene for visse unntak i henhold til artikkel 252 nr. 4 bokstav d).Vilkårene for unntak i henhold til artikkel 252 nr. 4 bokstav e).Kravene til påsetting av identifikasjonsmerkene nevnt i artikkel 252 nr. 1 bokstav a) ii).Vilkårene for ikke-kommersiell forflytning til medlemsstatenes territorium av kjæledyr av artene nevnt i vedlegg I del B, slik disse er fastsatt i deres nasjonale regler i henhold til artikkel 248 nr. 3 og artikkel 250 nr. 3.Vilkårene for ikke-kommersiell forflytning til medlemsstatenes territorium av kjæledyr fra visse stater og territorier, slik disse er fastsatt i deres nasjonale regler som nevnt i artikkel 251.Alle relevante opplysninger om visse forebyggende og risikoreduserende tiltak nevnt i artikkel 252 nr. 1 bokstav b).
+1\. Medlemsstatene skal gi offentligheten klare og lett tilgjengelige opplysninger om kravene til dyrehelse som skal gjelde for ikke-kommersielle forflytninger av kjæledyr, herunder følgende:
+
+1. Vilkårene for visse unntak i henhold til artikkel 252 nr. 4 bokstav d).
+2. Vilkårene for unntak i henhold til artikkel 252 nr. 4 bokstav e).
+3. Kravene til påsetting av identifikasjonsmerkene nevnt i artikkel 252 nr. 1 bokstav a) ii).
+4. Vilkårene for ikke-kommersiell forflytning til medlemsstatenes territorium av kjæledyr av artene nevnt i vedlegg I del B, slik disse er fastsatt i deres nasjonale regler i henhold til artikkel 248 nr. 3 og artikkel 250 nr. 3.
+5. Vilkårene for ikke-kommersiell forflytning til medlemsstatenes territorium av kjæledyr fra visse stater og territorier, slik disse er fastsatt i deres nasjonale regler som nevnt i artikkel 251.
+6. Alle relevante opplysninger om visse forebyggende og risikoreduserende tiltak nevnt i artikkel 252 nr. 1 bokstav b).
 
 2\. Medlemsstatene skal opprette internettbaserte informasjonssider med opplysningene nevnt i nr. 1, og skal gi Kommisjonen adressen til disse nettstedene.
 
-3\. Kommisjonen skal bistå medlemsstatene med å gjøre disse opplysningene tilgjengelige for allmennheten ved å legge ut følgende på sitt eget nettsted:Lenkene til medlemsstatenes internettbaserte informasjonssider.Opplysningene nevnt i nr. 1 bokstav a) og d), og de opplysningene som er gjort tilgjengelig for allmennheten som nevnt i artikkel 244 nr. 2 bokstav b), eventuelt på flere språk.
+3\. Kommisjonen skal bistå medlemsstatene med å gjøre disse opplysningene tilgjengelige for allmennheten ved å legge ut følgende på sitt eget nettsted:
+
+1. Lenkene til medlemsstatenes internettbaserte informasjonssider.
+2. Opplysningene nevnt i nr. 1 bokstav a) og d), og de opplysningene som er gjort tilgjengelig for allmennheten som nevnt i artikkel 244 nr. 2 bokstav b), eventuelt på flere språk.
 
 ### DEL VII
 NØDTILTAK
@@ -3583,9 +6041,25 @@ Nødtiltak som gjelder forflytning av dyr og produkter i Unionen, og transportmi
 
 Nødtiltak som skal treffes av vedkommende myndighet på territoriet der en listeført sykdom eller en ny sykdom har brutt ut eller en fare har oppstått
 
-1\. Ved utbrudd av en listeført sykdom eller en ny sykdom eller ved forekomst av en fare som sannsynligvis vil utgjøre en alvorlig risiko for dyrehelsen eller folkehelsen, skal vedkommende myndighet i den berørte medlemsstaten, avhengig av situasjonens alvor og den gjeldende sykdommen eller faren, umiddelbart treffe ett eller flere av følgende nødtiltak for å forhindre spredning av sykdommen eller faren:Når det gjelder listeførte sykdommernevnt i artikkel 9 nr. 1 bokstav a), tiltakene for sykdomsbekjempelse fastsatt i del III avdeling II kapittel 1 (artikkel 53–71),nevnt i artikkel 9 nr. 1 bokstav b), tiltakene for sykdomsbekjempelse fastsatt i artikkel 72–75 og artikkel 77–81 i del III avdeling II kapittel 2,nevnt i artikkel 9 nr. 1 bokstav c), tiltakene for sykdomsbekjempelse fastsatt i artikkel 76–78 og artikkel 80 og 82 i del III avdeling II kapittel 2.Når det gjelder nye sykdommer og farerrestriksjoner på forflytning av dyr og produkter som kommer fra anlegg eller der det er relevant, restriksjonssoner eller segmenter der utbruddet har funnet sted eller faren har oppstått, og på transportmidler og annet materiell som kan ha kommer i kontakt med disse dyrene eller produktene,karantene for dyr og isolasjon av produkter,overvåkings- og sporbarhetstiltak,ethvert nødtiltak for sykdomsbekjempelse fastsatt i del III avdeling II kapittel 1 (artikkel 53–71) som er hensiktsmessig.Eventuelle andre nødtiltak som den anser som hensiktsmessige for effektivt å bekjempe og forebygge spredning av sykdommen eller faren.
+1\. Ved utbrudd av en listeført sykdom eller en ny sykdom eller ved forekomst av en fare som sannsynligvis vil utgjøre en alvorlig risiko for dyrehelsen eller folkehelsen, skal vedkommende myndighet i den berørte medlemsstaten, avhengig av situasjonens alvor og den gjeldende sykdommen eller faren, umiddelbart treffe ett eller flere av følgende nødtiltak for å forhindre spredning av sykdommen eller faren:
 
-2\. Vedkommende myndighet nevnt i nr. 1 skal informere Kommisjonen og de øvrige medlemsstateneumiddelbart om ethvert utbrudd og enhver forekomst av en fare som nevnt i nr. 1,uten opphold om de nødtiltakene som er truffet i henhold til nr. 1.
+1. Når det gjelder listeførte sykdommer
+
+   1. nevnt i artikkel 9 nr. 1 bokstav a), tiltakene for sykdomsbekjempelse fastsatt i del III avdeling II kapittel 1 (artikkel 53–71),
+   2. nevnt i artikkel 9 nr. 1 bokstav b), tiltakene for sykdomsbekjempelse fastsatt i artikkel 72–75 og artikkel 77–81 i del III avdeling II kapittel 2,
+   3. nevnt i artikkel 9 nr. 1 bokstav c), tiltakene for sykdomsbekjempelse fastsatt i artikkel 76–78 og artikkel 80 og 82 i del III avdeling II kapittel 2.
+2. Når det gjelder nye sykdommer og farer
+
+   1. restriksjoner på forflytning av dyr og produkter som kommer fra anlegg eller der det er relevant, restriksjonssoner eller segmenter der utbruddet har funnet sted eller faren har oppstått, og på transportmidler og annet materiell som kan ha kommer i kontakt med disse dyrene eller produktene,
+   2. karantene for dyr og isolasjon av produkter,
+   3. overvåkings- og sporbarhetstiltak,
+   4. ethvert nødtiltak for sykdomsbekjempelse fastsatt i del III avdeling II kapittel 1 (artikkel 53–71) som er hensiktsmessig.
+3. Eventuelle andre nødtiltak som den anser som hensiktsmessige for effektivt å bekjempe og forebygge spredning av sykdommen eller faren.
+
+2\. Vedkommende myndighet nevnt i nr. 1 skal informere Kommisjonen og de øvrige medlemsstatene
+
+1. umiddelbart om ethvert utbrudd og enhver forekomst av en fare som nevnt i nr. 1,
+2. uten opphold om de nødtiltakene som er truffet i henhold til nr. 1.
 
 ###### Artikkel 258
 
@@ -3597,13 +6071,22 @@ Nødtiltak som skal treffes av en annen medlemsstat enn den medlemsstaten der ut
 
 3\. En medlemsstat kan treffe tiltak som nevnt i artikkel 257 nr. 1 ved utbrudd i et tredjeland eller et territorium som grenser til Unionen, av en sykdom nevnt i artikkel 9 nr. 1 bokstav a) eller en ny sykdom i dette tredjelandet eller territoriet, i den utstrekning disse tiltakene er nødvendige for å forhindre spredning av sykdommen til Unionens territorium.
 
-4\. Vedkommende myndighet nevnt i nr. 1 og vedkommende myndighet i medlemsstaten nevnt i nr. 3 skal informere Kommisjonen og øvrige medlemsstaterumiddelbart om et utbrudd eller forekomst av en fare som nevnt i nr. 1,uten opphold om de nødtiltakene som er truffet i henhold til nr. 1 og 2.
+4\. Vedkommende myndighet nevnt i nr. 1 og vedkommende myndighet i medlemsstaten nevnt i nr. 3 skal informere Kommisjonen og øvrige medlemsstater
+
+1. umiddelbart om et utbrudd eller forekomst av en fare som nevnt i nr. 1,
+2. uten opphold om de nødtiltakene som er truffet i henhold til nr. 1 og 2.
 
 ###### Artikkel 259
 
 Nødtiltak truffet av Kommisjonen
 
-1\. Ved et utbrudd eller forekomst av en fare som nevnt i artikkel 257 nr. 1, og ved nødtiltak truffet av vedkommende myndigheter i medlemsstatene i samsvar med artikkel 257 nr. 1 og artikkel 258 nr. 1, 2 og 3, skal Kommisjonen i følgende tilfeller gjennomgå situasjonen og de nødtiltakene som er truffet, og ved hjelp av en gjennomføringsrettsakt vedta ett eller flere av nødtiltakene fastsatt i artikkel 257 nr. 1 som gjelder de berørte dyrene og produktene samt transportmidler og annet materiell som kan ha kommet i kontakt med disse dyrene eller produktene:Dersom Kommisjonen ikke er blitt informert om noen av tiltakene truffet i henhold til artikkel 257 nr. 1 og artikkel 258 nr. 1, 2 og 3.Dersom Kommisjonen anser at tiltakene truffet i henhold til artikkel 257 nr. 1 og artikkel 258 nr. 1, 2 og 3, ikke er tilstrekkelige.Dersom Kommisjonen anser at det er nødvendig å godkjenne eller erstatte de tiltakene som er truffet av vedkommende myndigheter i medlemsstatene i henhold til artikkel 257 nr. 1 og artikkel 258 nr. 1, 2 og 3, for å unngå uberettigede forstyrrelser i forflytningen av dyr og produkter.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1\. Ved et utbrudd eller forekomst av en fare som nevnt i artikkel 257 nr. 1, og ved nødtiltak truffet av vedkommende myndigheter i medlemsstatene i samsvar med artikkel 257 nr. 1 og artikkel 258 nr. 1, 2 og 3, skal Kommisjonen i følgende tilfeller gjennomgå situasjonen og de nødtiltakene som er truffet, og ved hjelp av en gjennomføringsrettsakt vedta ett eller flere av nødtiltakene fastsatt i artikkel 257 nr. 1 som gjelder de berørte dyrene og produktene samt transportmidler og annet materiell som kan ha kommet i kontakt med disse dyrene eller produktene:
+
+1. Dersom Kommisjonen ikke er blitt informert om noen av tiltakene truffet i henhold til artikkel 257 nr. 1 og artikkel 258 nr. 1, 2 og 3.
+2. Dersom Kommisjonen anser at tiltakene truffet i henhold til artikkel 257 nr. 1 og artikkel 258 nr. 1, 2 og 3, ikke er tilstrekkelige.
+3. Dersom Kommisjonen anser at det er nødvendig å godkjenne eller erstatte de tiltakene som er truffet av vedkommende myndigheter i medlemsstatene i henhold til artikkel 257 nr. 1 og artikkel 258 nr. 1, 2 og 3, for å unngå uberettigede forstyrrelser i forflytningen av dyr og produkter.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 2\. I behørig begrunnede, tvingende hastetilfeller knyttet til en alvorlig risiko for spredning av sykdom eller en fare, kan Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med artikkel 266 nr. 3.
 
@@ -3614,13 +6097,28 @@ Nødtiltak som gjelder forsendelser av dyr og produkter fra tredjeland og territ
 
 Nødtiltak som skal treffes av vedkommende myndighet
 
-Dersom vedkommende myndighet i en medlemsstat får kjennskap til dyr eller produkter fra et tredjeland eller et territorium, eller transportmidler eller materiell som kan ha kommet i kontakt med slike dyr eller produkter, og som sannsynligvis vil utgjøre en alvorlig risiko i Unionen som følge av mulig infeksjon eller kontaminering av listeførte sykdommer eller nye sykdommer eller farer, skal den gjøre følgende:Umiddelbart treffe ett eller flere av følgende nødtiltak for å redusere risikoen, avhengig av situasjonens alvor:Destruering av berørte dyr og produkter.Karantene for dyr og isolasjon av produkter.Overvåkings- og sporbarhetstiltak.Ved behov hensiktsmessige tiltak for sykdomsbekjempelse nevnt i del III avdeling II kapittel 1 (artikkel 53–71).Eventuelle andre nødtiltak som den anser som hensiktsmessige for å forhindre spredning av sykdommen eller faren til Unionen.Umiddelbart informere Kommisjonen og de øvrige medlemsstatene om risikoene forbundet med de berørte dyrene og produktene samt opprinnelsen til slike dyr og produkter gjennom TRACES, og uten opphold informere om nødtiltakene truffet i henhold til bokstav a).
+Dersom vedkommende myndighet i en medlemsstat får kjennskap til dyr eller produkter fra et tredjeland eller et territorium, eller transportmidler eller materiell som kan ha kommet i kontakt med slike dyr eller produkter, og som sannsynligvis vil utgjøre en alvorlig risiko i Unionen som følge av mulig infeksjon eller kontaminering av listeførte sykdommer eller nye sykdommer eller farer, skal den gjøre følgende:
+
+1. Umiddelbart treffe ett eller flere av følgende nødtiltak for å redusere risikoen, avhengig av situasjonens alvor:
+
+   1. Destruering av berørte dyr og produkter.
+   2. Karantene for dyr og isolasjon av produkter.
+   3. Overvåkings- og sporbarhetstiltak.
+   4. Ved behov hensiktsmessige tiltak for sykdomsbekjempelse nevnt i del III avdeling II kapittel 1 (artikkel 53–71).
+   5. Eventuelle andre nødtiltak som den anser som hensiktsmessige for å forhindre spredning av sykdommen eller faren til Unionen.
+2. Umiddelbart informere Kommisjonen og de øvrige medlemsstatene om risikoene forbundet med de berørte dyrene og produktene samt opprinnelsen til slike dyr og produkter gjennom TRACES, og uten opphold informere om nødtiltakene truffet i henhold til bokstav a).
 
 ###### Artikkel 261
 
 Nødtiltak truffet av Kommisjonen
 
-1\. Dersom en listeført sykdom, en ny sykdom eller en fare som sannsynligvis vil utgjøre en alvorlig risiko oppstår eller spres i et tredjeland eller et territorium, eller dersom et annet tungtveiende dyre- eller folkehelsemessig hensyn tilsier det, kan Kommisjonen ved hjelp av en gjennomføringsrettsakt på eget initiativ eller på anmodning fra en medlemsstat treffe ett eller flere av følgende nødtiltak, avhengig av situasjonens alvor:Midlertidig stanse innførselen til Unionen av forsendelser av dyr og produkter samt transportmidler og annet materiell som kan ha kommet i kontakt med slike forsendelser og kan spre sykdommen eller faren til Unionen.Fastsette særlige krav til innførsel til Unionen av dyr og produkter samt til transportmidler og annet materiell som kan ha kommet i kontakt med slike dyr eller produkter og kan spre sykdommen eller faren til Unionen.Treffe eventuelle andre hensiktsmessige nødtiltak for sykdomsbekjempelse for å forhindre spredning av sykdommen eller faren til Unionen.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1\. Dersom en listeført sykdom, en ny sykdom eller en fare som sannsynligvis vil utgjøre en alvorlig risiko oppstår eller spres i et tredjeland eller et territorium, eller dersom et annet tungtveiende dyre- eller folkehelsemessig hensyn tilsier det, kan Kommisjonen ved hjelp av en gjennomføringsrettsakt på eget initiativ eller på anmodning fra en medlemsstat treffe ett eller flere av følgende nødtiltak, avhengig av situasjonens alvor:
+
+1. Midlertidig stanse innførselen til Unionen av forsendelser av dyr og produkter samt transportmidler og annet materiell som kan ha kommet i kontakt med slike forsendelser og kan spre sykdommen eller faren til Unionen.
+2. Fastsette særlige krav til innførsel til Unionen av dyr og produkter samt til transportmidler og annet materiell som kan ha kommet i kontakt med slike dyr eller produkter og kan spre sykdommen eller faren til Unionen.
+3. Treffe eventuelle andre hensiktsmessige nødtiltak for sykdomsbekjempelse for å forhindre spredning av sykdommen eller faren til Unionen.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 2\. I behørig begrunnede, tvingende hastetilfeller knyttet til en alvorlig risiko, skal Kommisjonen etter samråd med den berørte medlemsstaten, vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
@@ -3628,13 +6126,25 @@ Nødtiltak truffet av Kommisjonen
 
 Nødtiltak som skal treffes av medlemsstatene når Kommisjonen ikke handler\*\*\*
 
-1\. Dersom en medlemsstat har bedt Kommisjonen om å treffe nødtiltak i samsvar med artikkel 261 og Kommisjonen ikke har gjort det,kan medlemsstaten, før Kommisjonen vedtar nødtiltak i samsvar med nr. 2, på midlertidig grunnlag treffe ett eller flere av nødtiltakene nevnt i artikkel 260 bokstav a) når det gjelder dyr og produkter, transportmidler og annet materiell som kan ha kommet i kontakt med slike dyr og produkter, som kommer fra tredjelandet eller territoriet nevnt i artikkel 261 nr. 1, avhengig av situasjonens alvor på sitt territorium,skal medlemsstaten uten opphold informere Kommisjonen og vedkommende myndigheter i de øvrige medlemsstatene om slike nødtiltak og oppgi grunnen til at de vedtas.
+1\. Dersom en medlemsstat har bedt Kommisjonen om å treffe nødtiltak i samsvar med artikkel 261 og Kommisjonen ikke har gjort det,
 
-2\. Kommisjonen skal gjennomgå situasjonen og nødtiltakene truffet av den berørte medlemsstaten i samsvar med nr. 1, og skal ved behov og ved hjelp av en gjennomføringsrettsakt vedta ett eller flere av nødtiltakene fastsatt i artikkel 261.Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
+1. kan medlemsstaten, før Kommisjonen vedtar nødtiltak i samsvar med nr. 2, på midlertidig grunnlag treffe ett eller flere av nødtiltakene nevnt i artikkel 260 bokstav a) når det gjelder dyr og produkter, transportmidler og annet materiell som kan ha kommet i kontakt med slike dyr og produkter, som kommer fra tredjelandet eller territoriet nevnt i artikkel 261 nr. 1, avhengig av situasjonens alvor på sitt territorium,
+2. skal medlemsstaten uten opphold informere Kommisjonen og vedkommende myndigheter i de øvrige medlemsstatene om slike nødtiltak og oppgi grunnen til at de vedtas.
+
+2\. Kommisjonen skal gjennomgå situasjonen og nødtiltakene truffet av den berørte medlemsstaten i samsvar med nr. 1, og skal ved behov og ved hjelp av en gjennomføringsrettsakt vedta ett eller flere av nødtiltakene fastsatt i artikkel 261.
+
+Slike gjennomføringsrettsakter skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 266 nr. 2.
 
 3\. I behørig begrunnede, tvingende hastetilfeller knyttet til en alvorlig risiko, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 266 nr. 3.
 
-►**EØS** \*\*\* Artikkel 258, 259, 261 og 262 får for EFTA-statene anvendelse med følgende tilpasning:EFTA-statene skal samtidig som EU-medlemsstatene innføre tiltak som tilsvarer de som er innført av EU-medlemsstatene på bakgrunn av relevante gjennomføringsrettsakter vedtatt i henhold til disse bestemmelsene.Dersom det oppstår problemer i tilknytning til anvendelsen av gjennomføringsrettsakten, skal den berørte EFTA-stat umiddelbart rapportere saken til EØS-komiteen.Anvendelse av disse bestemmelsene berører ikke muligheten for at en EFTA-stat innfører ensidige beskyttelsestiltak i påvente av at rettsaktene nevnt i i) vedtas.EØS-komiteen kan ta gjennomføringsrettsaktene til etterretning.
+►**EØS**
+
+\*\*\* Artikkel 258, 259, 261 og 262 får for EFTA-statene anvendelse med følgende tilpasning:
+
+1. EFTA-statene skal samtidig som EU-medlemsstatene innføre tiltak som tilsvarer de som er innført av EU-medlemsstatene på bakgrunn av relevante gjennomføringsrettsakter vedtatt i henhold til disse bestemmelsene.
+2. Dersom det oppstår problemer i tilknytning til anvendelsen av gjennomføringsrettsakten, skal den berørte EFTA-stat umiddelbart rapportere saken til EØS-komiteen.
+3. Anvendelse av disse bestemmelsene berører ikke muligheten for at en EFTA-stat innfører ensidige beskyttelsestiltak i påvente av at rettsaktene nevnt i i) vedtas.
+4. EØS-komiteen kan ta gjennomføringsrettsaktene til etterretning.
 
 ◄**EØS**
 
@@ -3658,7 +6168,9 @@ Utøvelse av delegert myndighet
 
 2\. Det er særlig viktig at Kommisjonen gjennomfører høringer med sakkyndige, herunder sakkyndige fra medlemsstatene, før den vedtar de delegerte rettsaktene.
 
-3\. Myndigheten til å vedta delegerte rettsakter nevnt i artikkel 3 nr. 5, artikkel 5 nr. 2 og 4, artikkel 14 nr. 3, artikkel 16 nr. 2, artikkel 18 nr. 3, artikkel 20 nr. 3, artikkel 29, artikkel 31 nr. 5, artikkel 32 nr. 2, artikkel 37 nr. 5, artikkel 39, artikkel 41 nr. 3, artikkel 42 nr. 6, artikkel 47, artikkel 48 nr. 3, artikkel 53 nr. 2, artikkel 54 nr. 3, artikkel 55 nr. 2, artikkel 58 nr. 2, artikkel 63, artikkel 64 nr. 4, artikkel 67, artikkel 68 nr. 2 og 3, artikkel 70 nr. 3, artikkel 72 nr. 2, artikkel 73 nr. 3, artikkel 74 nr. 4, artikkel 76 nr. 5, artikkel 77 nr. 2, artikkel 87 nr. 3, artikkel 94 nr. 3, artikkel 97 nr. 2, artikkel 101 nr. 3, artikkel 106 nr. 1, artikkel 109 nr. 2, artikkel 118 og 119, artikkel 122 nr. 1 og 2, artikkel 125 nr. 2, artikkel 131 nr. 1, artikkel 132 nr. 2, artikkel 135, artikkel 136 nr. 2, artikkel 137 nr. 2, artikkel 138 nr. 3, artikkel 139 nr. 4, artikkel 140, artikkel 144 nr. 1, artikkel 146 nr. 1, artikkel 147, artikkel 149 nr. 4, artikkel 151 nr. 3, artikkel 154 nr. 1, artikkel 156 nr. 1, artikkel 160 nr. 1 og 2, artikkel 161 nr. 6, artikkel 162 nr. 4, artikkel 163 nr. 5, artikkel 164 nr. 2, artikkel 165 nr. 3, artikkel 166 nr. 3, artikkel 167 nr. 5, artikkel 168 nr. 3, artikkel 169 nr. 5, artikkel 176 nr. 4, artikkel 181 nr. 2, artikkel 185 nr. 5, artikkel 189 nr. 1, artikkel 192 nr. 2, artikkel 197 nr. 3, artikkel 200 nr. 3, artikkel 201 nr. 3, artikkel 202 nr. 3, artikkel 203 nr. 2, artikkel 204 nr. 3, artikkel 205 nr. 2, artikkel 211 nr. 1, artikkel 213 nr. 1, artikkel 214, artikkel 216 nr. 4, artikkel 218 nr. 3, artikkel 221 nr. 1, artikkel 222 nr. 3, artikkel 223 nr. 6, artikkel 224 nr. 3, artikkel 228 nr. 1, artikkel 230 nr. 3, artikkel 234 nr. 2, artikkel 237 nr. 4, artikkel 239 nr. 2, artikkel 240 nr. 2, artikkel 241 nr. 2, artikkel 242 nr. 2, artikkel 245 nr. 3, artikkel 246 nr. 3, artikkel 249 nr. 3, artikkel 252 nr. 1, artikkel 254 og 263, artikkel 271 nr. 2, artikkel 272 nr. 2, artikkel 279 nr. 2 og artikkel 280 nr. 4 skal gis Kommisjonen for en periode på fem år fra 20. april 2016.Kommisjonen skal utarbeide en rapport om den delegerte myndigheten senest ni måneder før utgangen av femårsperioden. Den delegerte myndigheten skal stilltiende forlenges med perioder av samme varighet, med mindre Europaparlamentet eller Rådet senest tre måneder før utgangen av hver periode har motsatt seg slik forlengelse.
+3\. Myndigheten til å vedta delegerte rettsakter nevnt i artikkel 3 nr. 5, artikkel 5 nr. 2 og 4, artikkel 14 nr. 3, artikkel 16 nr. 2, artikkel 18 nr. 3, artikkel 20 nr. 3, artikkel 29, artikkel 31 nr. 5, artikkel 32 nr. 2, artikkel 37 nr. 5, artikkel 39, artikkel 41 nr. 3, artikkel 42 nr. 6, artikkel 47, artikkel 48 nr. 3, artikkel 53 nr. 2, artikkel 54 nr. 3, artikkel 55 nr. 2, artikkel 58 nr. 2, artikkel 63, artikkel 64 nr. 4, artikkel 67, artikkel 68 nr. 2 og 3, artikkel 70 nr. 3, artikkel 72 nr. 2, artikkel 73 nr. 3, artikkel 74 nr. 4, artikkel 76 nr. 5, artikkel 77 nr. 2, artikkel 87 nr. 3, artikkel 94 nr. 3, artikkel 97 nr. 2, artikkel 101 nr. 3, artikkel 106 nr. 1, artikkel 109 nr. 2, artikkel 118 og 119, artikkel 122 nr. 1 og 2, artikkel 125 nr. 2, artikkel 131 nr. 1, artikkel 132 nr. 2, artikkel 135, artikkel 136 nr. 2, artikkel 137 nr. 2, artikkel 138 nr. 3, artikkel 139 nr. 4, artikkel 140, artikkel 144 nr. 1, artikkel 146 nr. 1, artikkel 147, artikkel 149 nr. 4, artikkel 151 nr. 3, artikkel 154 nr. 1, artikkel 156 nr. 1, artikkel 160 nr. 1 og 2, artikkel 161 nr. 6, artikkel 162 nr. 4, artikkel 163 nr. 5, artikkel 164 nr. 2, artikkel 165 nr. 3, artikkel 166 nr. 3, artikkel 167 nr. 5, artikkel 168 nr. 3, artikkel 169 nr. 5, artikkel 176 nr. 4, artikkel 181 nr. 2, artikkel 185 nr. 5, artikkel 189 nr. 1, artikkel 192 nr. 2, artikkel 197 nr. 3, artikkel 200 nr. 3, artikkel 201 nr. 3, artikkel 202 nr. 3, artikkel 203 nr. 2, artikkel 204 nr. 3, artikkel 205 nr. 2, artikkel 211 nr. 1, artikkel 213 nr. 1, artikkel 214, artikkel 216 nr. 4, artikkel 218 nr. 3, artikkel 221 nr. 1, artikkel 222 nr. 3, artikkel 223 nr. 6, artikkel 224 nr. 3, artikkel 228 nr. 1, artikkel 230 nr. 3, artikkel 234 nr. 2, artikkel 237 nr. 4, artikkel 239 nr. 2, artikkel 240 nr. 2, artikkel 241 nr. 2, artikkel 242 nr. 2, artikkel 245 nr. 3, artikkel 246 nr. 3, artikkel 249 nr. 3, artikkel 252 nr. 1, artikkel 254 og 263, artikkel 271 nr. 2, artikkel 272 nr. 2, artikkel 279 nr. 2 og artikkel 280 nr. 4 skal gis Kommisjonen for en periode på fem år fra 20. april 2016.
+
+Kommisjonen skal utarbeide en rapport om den delegerte myndigheten senest ni måneder før utgangen av femårsperioden. Den delegerte myndigheten skal stilltiende forlenges med perioder av samme varighet, med mindre Europaparlamentet eller Rådet senest tre måneder før utgangen av hver periode har motsatt seg slik forlengelse.
 
 4\. Den delegerte myndigheten nevnt i nr. 3 kan når som helst tilbakekalles av Europaparlamentet eller Rådet. En beslutning om tilbakekalling innebærer at den delegerte myndigheten som angis i beslutningen, opphører å gjelde. Beslutningen får anvendelse dagen etter at den er kunngjort i *Den europeiske unions tidende* eller på et senere tidspunkt angitt i beslutningen. Den berører ikke gyldigheten av delegerte rettsakter som allerede er trådt i kraft.
 
@@ -3694,7 +6206,11 @@ Vern av personopplysninger
 
 1\. Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046)64 får anvendelse på den behandlingen av personopplysninger som utføres i medlemsstatene i henhold til denne forordningen.
 
-2\. Europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045)65 får anvendelse på den behandlingen av personopplysninger som utføres av Kommisjonen i henhold til denne forordningen.64 Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om beskyttelse av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger (EFT L 281 av 23.11.1995, s. 31).65 Europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger (EFT L 8 av 12.1.2001 s. 1).
+2\. Europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045)65 får anvendelse på den behandlingen av personopplysninger som utføres av Kommisjonen i henhold til denne forordningen.
+
+64 Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om beskyttelse av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger (EFT L 281 av 23.11.1995, s. 31).
+
+65 Europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger (EFT L 8 av 12.1.2001 s. 1).
 
 ### AVDELING II
 SANKSJONER
@@ -3714,9 +6230,18 @@ MEDLEMSSTATENES TILTAK
 
 Ytterligere eller strengere tiltak som treffes av medlemsstatene
 
-1\. Ut over det som følger av andre bestemmelser i denne forordningen, som gir medlemsstatene mulighet til å vedta nasjonale tiltak, kan medlemsstatene på sitt territorium anvende ytterligere eller strengere tiltak enn dem som er fastsatt i denne forordningen, når det gjelderansvarsområdene innen dyrehelse i henhold til del I kapittel 3 (artikkel 10–17),melding innen medlemsstatene i henhold til artikkel 18,overvåking i henhold til del II kapittel 2 (artikkel 24–30),registrering, godkjenning, journalføring og registre i henhold til avdeling I kapittel 1 (artikkel 84–107) og del IV avdeling II kapittel 1 (artikkel 172–190),sporbarhetskravene for holdte landdyr og avlsmateriale i henhold til del IV avdeling I kapittel 2 (artikkel 108–123).
+1\. Ut over det som følger av andre bestemmelser i denne forordningen, som gir medlemsstatene mulighet til å vedta nasjonale tiltak, kan medlemsstatene på sitt territorium anvende ytterligere eller strengere tiltak enn dem som er fastsatt i denne forordningen, når det gjelder
 
-2\. De nasjonale tiltakene nevnt i nr. 1 skal overholde reglene fastsatt i denne forordningen og skal ikkevære til hinder for forflytning av dyr og produkter mellom medlemsstatene,være i strid med reglene nevnt i nr. 1.
+1. ansvarsområdene innen dyrehelse i henhold til del I kapittel 3 (artikkel 10–17),
+2. melding innen medlemsstatene i henhold til artikkel 18,
+3. overvåking i henhold til del II kapittel 2 (artikkel 24–30),
+4. registrering, godkjenning, journalføring og registre i henhold til avdeling I kapittel 1 (artikkel 84–107) og del IV avdeling II kapittel 1 (artikkel 172–190),
+5. sporbarhetskravene for holdte landdyr og avlsmateriale i henhold til del IV avdeling I kapittel 2 (artikkel 108–123).
+
+2\. De nasjonale tiltakene nevnt i nr. 1 skal overholde reglene fastsatt i denne forordningen og skal ikke
+
+1. være til hinder for forflytning av dyr og produkter mellom medlemsstatene,
+2. være i strid med reglene nevnt i nr. 1.
 
 ### DEL IX
 OVERGANGS- OG SLUTTBESTEMMELSER
@@ -3725,25 +6250,66 @@ OVERGANGS- OG SLUTTBESTEMMELSER
 
 1\. Vedtak [78/642/EØF](eu/31978d0642), [89/455/EØF](eu/31989d0455) og [90/678/EØF](eu/31990d0678) og direktiv [79/110/EØF](eu/31979l0110), [81/6/EØF](eu/31981l0006), [90/423/EØF](eu/31990l0423), [92/36/EØF](eu/31992l0036) og [98/99/EF](eu/31998l0099) oppheves.
 
-2\. Følgende rettsakter oppheves med virkning fra 21. april 2021:Direktiv [64/432/EØF](eu/31964l0432).Direktiv [77/391/EØF](eu/31977l0391).Direktiv [78/52/EØF](eu/31978l0052).Direktiv [80/1095/EØF](eu/31980l1095).Direktiv [82/894/EØF](eu/31982l0894).Direktiv [88/407/EØF](eu/31988l0407).Direktiv [89/556/EØF](eu/31989l0556).Direktiv [90/429/EØF](eu/31990l0429).Direktiv [91/68/EØF](eu/31991l0068).Vedtak [91/666/EØF](eu/31991d0666).Direktiv [92/35/EØF](eu/31992l0035).Direktiv [92/65/EØF](eu/31992l0065).Direktiv [92/66/EØF](eu/31992l0066).Direktiv [92/118/EØF](eu/31992l0118).Direktiv [92/119/EØF](eu/31992l0119).Vedtak [95/410/EF](eu/31995d0410).Direktiv [2000/75/EF](eu/32000l0075).Vedtak [2000/258/EF](eu/32000d0258).Direktiv [2001/89/EF](eu/32001l0089).Direktiv [2002/60/EF](eu/32002l0060).Direktiv [2002/99/EF](eu/32002l0099).Direktiv [2003/85/EF](eu/32003l0085).Forordning [(EF) nr. 21/2004](eu/32004r0021).Direktiv [2004/68/EF](eu/32004l0068).Direktiv [2005/94/EF](eu/32005l0094).Direktiv [2006/88/EF](eu/32006l0088).Direktiv [2008/71/EF](eu/32008l0071).Direktiv [2009/156/EF](eu/32009l0156).Direktiv [2009/158/EF](eu/32009l0158).Forordning [(EF) nr. 576/2013](eu/32013r0576).Henvisninger til de opphevede rettsaktene skal forstås som henvisninger til denne forordningen og leses som angitt i sammenligningstabellen i vedlegg V.
+2\. Følgende rettsakter oppheves med virkning fra 21. april 2021:
+
+- Direktiv [64/432/EØF](eu/31964l0432).
+- Direktiv [77/391/EØF](eu/31977l0391).
+- Direktiv [78/52/EØF](eu/31978l0052).
+- Direktiv [80/1095/EØF](eu/31980l1095).
+- Direktiv [82/894/EØF](eu/31982l0894).
+- Direktiv [88/407/EØF](eu/31988l0407).
+- Direktiv [89/556/EØF](eu/31989l0556).
+- Direktiv [90/429/EØF](eu/31990l0429).
+- Direktiv [91/68/EØF](eu/31991l0068).
+- Vedtak [91/666/EØF](eu/31991d0666).
+- Direktiv [92/35/EØF](eu/31992l0035).
+- Direktiv [92/65/EØF](eu/31992l0065).
+- Direktiv [92/66/EØF](eu/31992l0066).
+- Direktiv [92/118/EØF](eu/31992l0118).
+- Direktiv [92/119/EØF](eu/31992l0119).
+- Vedtak [95/410/EF](eu/31995d0410).
+- Direktiv [2000/75/EF](eu/32000l0075).
+- Vedtak [2000/258/EF](eu/32000d0258).
+- Direktiv [2001/89/EF](eu/32001l0089).
+- Direktiv [2002/60/EF](eu/32002l0060).
+- Direktiv [2002/99/EF](eu/32002l0099).
+- Direktiv [2003/85/EF](eu/32003l0085).
+- Forordning [(EF) nr. 21/2004](eu/32004r0021).
+- Direktiv [2004/68/EF](eu/32004l0068).
+- Direktiv [2005/94/EF](eu/32005l0094).
+- Direktiv [2006/88/EF](eu/32006l0088).
+- Direktiv [2008/71/EF](eu/32008l0071).
+- Direktiv [2009/156/EF](eu/32009l0156).
+- Direktiv [2009/158/EF](eu/32009l0158).
+- Forordning [(EF) nr. 576/2013](eu/32013r0576).
+
+Henvisninger til de opphevede rettsaktene skal forstås som henvisninger til denne forordningen og leses som angitt i sammenligningstabellen i vedlegg V.
 
 ### Artikkel 271. Overgangstiltak i forbindelse med endringen av forordning (EF) nr. 1760/2000 og opphevingen av forordning (EF) nr. 21/2004 og direktiv 2008/71/EF
 
 1\. Uten hensyn til artikkel 270 nr. 2 og artikkel 278 i denne forordningen får artikkel 1–10 i forordning (EF) nr. 1760/2000, forordning [(EF) nr. 21/2004](eu/32004r0021) og direktiv [2008/71/EF](eu/32008l0071) samt rettsaktene vedtatt på grunnlag av disse, fortsatt anvendelse i stedet for de tilsvarende artiklene i denne forordningen, i tre år etter at denne forordningen kom til anvendelse, eller fram til en tidligere dato som skal fastsettes i en delegert rettsakt vedtatt i samsvar med nr. 2.
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til den tidligere datoen nevnt i nr. 1.Nevnte dato skal være anvendelsesdatoen for de tilsvarende reglene som skal vedtas i henhold til de delegerte rettsaktene fastsatt i artikkel 109 nr. 2 og artikkel 119, og gjennomføringsrettsaktene fastsatt i artikkel 118 i denne forordningen.
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til den tidligere datoen nevnt i nr. 1.
+
+Nevnte dato skal være anvendelsesdatoen for de tilsvarende reglene som skal vedtas i henhold til de delegerte rettsaktene fastsatt i artikkel 109 nr. 2 og artikkel 119, og gjennomføringsrettsaktene fastsatt i artikkel 118 i denne forordningen.
 
 ### Artikkel 272. Overgangstiltak i forbindelse med opphevingen av direktiv 92/66/EØF, 2000/75/EF, 2001/89/EF, 2002/60/EF, 2003/85/EF og 2005/94/EF
 
 1\. Uten hensyn til artikkel 270 nr. 2 i denne forordningen får direktiv [92/66/EØF](eu/31992l0066), [2000/75/EF](eu/32000l0075), [2001/89/EF](eu/32001l0089), [2002/60/EF](eu/32002l0060), [2003/85/EF](eu/32003l0085) og [2005/94/EF](eu/32005l0094) samt rettsaktene vedtatt på grunnlag av disse, fortsatt anvendelse i stedet for de tilsvarende artiklene i denne forordningen, i tre år etter at denne forordningen kom til anvendelse, eller fram til en tidligere dato som skal fastsettes i en delegert rettsakt vedtatt i samsvar med nr. 2.
 
-2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til den tidligere datoen nevnt i nr. 1.Nevnte dato skal være anvendelsesdatoen for de tilsvarende reglene som skal vedtas i henhold til de delegerte rettsaktene fastsatt i artikkel 47, artikkel 48 nr. 3, artikkel 53 nr. 2, artikkel 54 nr. 3, artikkel 55 nr. 2, artikkel 58 nr. 2, artikkel 63, artikkel 64 nr. 4, artikkel 67, artikkel 68 nr. 2 og artikkel 70 nr. 3 i denne forordningen.
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 264 med hensyn til den tidligere datoen nevnt i nr. 1.
+
+Nevnte dato skal være anvendelsesdatoen for de tilsvarende reglene som skal vedtas i henhold til de delegerte rettsaktene fastsatt i artikkel 47, artikkel 48 nr. 3, artikkel 53 nr. 2, artikkel 54 nr. 3, artikkel 55 nr. 2, artikkel 58 nr. 2, artikkel 63, artikkel 64 nr. 4, artikkel 67, artikkel 68 nr. 2 og artikkel 70 nr. 3 i denne forordningen.
 
 ### Artikkel 273. Endring av forordning (EF) nr. 2160/2003
 
 I artikkel 9 nr. 3 i forordning [(EF) nr. 2160/2003](eu/32003r2160) tilføyes følgende:
 
-Disse særlige tiltakene skal omfatte tiltak som bygger på bestemmelsene i vedtak [95/410/EF](eu/31995d0410) i den utgaven som gjaldt før det ble opphevet, og kommisjonsvedtak [2003/644/EF](eu/32003d0644)\* og [2004/235/EF](eu/32004d0235)\*\* i de utgavene som gjaldt på det tidspunktet direktiv [90/539/EØF](eu/31990l0539) ble opphevet.\* Kommisjonsvedtak [2003/644/EF](eu/32003d0644) av 8. september 2003 om tilleggsgarantier med hensyn til salmonella for forsendelser til Finland og Sverige av avlsfjørfe og daggamle kyllinger som skal settes inn i flokker med avlsfjørfe eller flokker med produksjonsfjørfe (EUT L 228 av 12.9.2003, s. 29).\*\* Kommisjonsvedtak [2004/235/EF](eu/32004d0235) av 1. mars 2004 om tilleggsgarantier med hensyn til salmonella for forsendelser til Finland og Sverige av verpehøner (EUT L 72 av 11.3.2004, s. 86).
+Disse særlige tiltakene skal omfatte tiltak som bygger på bestemmelsene i vedtak [95/410/EF](eu/31995d0410) i den utgaven som gjaldt før det ble opphevet, og kommisjonsvedtak [2003/644/EF](eu/32003d0644)\* og [2004/235/EF](eu/32004d0235)\*\* i de utgavene som gjaldt på det tidspunktet direktiv [90/539/EØF](eu/31990l0539) ble opphevet.
+
+\* Kommisjonsvedtak [2003/644/EF](eu/32003d0644) av 8. september 2003 om tilleggsgarantier med hensyn til salmonella for forsendelser til Finland og Sverige av avlsfjørfe og daggamle kyllinger som skal settes inn i flokker med avlsfjørfe eller flokker med produksjonsfjørfe (EUT L 228 av 12.9.2003, s. 29).
+
+\*\* Kommisjonsvedtak [2004/235/EF](eu/32004d0235) av 1. mars 2004 om tilleggsgarantier med hensyn til salmonella for forsendelser til Finland og Sverige av verpehøner (EUT L 72 av 11.3.2004, s. 86).
 
 ### Artikkel 274. Overgangstiltak i forbindelse med datoen for vedtakelse av visse delegerte rettsakter og gjennomføringsrettsakter
 
@@ -3809,7 +6375,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 21. april 2021, med unntak av artikkel 270 nr. 1 og artikkel 274, som får anvendelse fra den dagen denne forordningen trer i kraft.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Strasbourg 9. mars 2016.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Strasbourg 9. mars 2016.
 
 |  |  |
 | --- | --- |
@@ -3947,18 +6515,49 @@ Kategoriseringen skal ta hensyn til den aktuelle sykdomsprofilen, hvilken innvir
 ### Avsnitt 1
 Kriterier for anvendelse av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav a)
 
-De sykdommene som omfattes av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav a), skal anses å være de som har de alvorligste følgene for dyrehelsen eller folkehelsen, økonomien, samfunnet eller miljøet i Unionen. Disse sykdommene må oppfylle følgende kriterier:Den aktuelle sykdommenforekommer ikke på Unionens territorium,forekommer bare i unntakstilfeller (uregelmessig introduksjon), ellerforekommer bare på en svært begrenset del av Unionens territorium,ogden aktuelle sykdommen er svært smittsom, slik at det i tillegg til direkte og indirekte smitte også kan være mulighet for luftbåren, vannbåren eller vektorbåren spredning. Sykdommen kan ramme flere ulike arter av holdte og viltlevende dyr, eller én enkelt art av holdte dyr av økonomisk betydning, og kan føre til høy sykelighet og betydelig dødelighet.
+De sykdommene som omfattes av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav a), skal anses å være de som har de alvorligste følgene for dyrehelsen eller folkehelsen, økonomien, samfunnet eller miljøet i Unionen. Disse sykdommene må oppfylle følgende kriterier:
 
-I tillegg til kriteriene fastsatt i bokstav a) og b) må disse sykdommene oppfylle ett eller flere av følgende kriterier:Den aktuelle sykdommen har et zoonotisk potensial som kan få store konsekvenser for folkehelsen, og som kan ha et epidemisk eller pandemisk potensial eller kan utgjøre en betydelig trussel mot næringsmiddeltryggheten.Den aktuelle sykdommen har en betydelig innvirkning på økonomien i Unionen og medfører betydelige kostnader, først og fremst i forbindelse med sykdommens direkte innvirkning på dyrs helse og produktivitet.Den aktuelle sykdommen har en betydelig innvirkning på ett eller flere av følgende områder:Samfunnet, særlig når det gjelder arbeidsmarkedene.Dyrevelferden, ved å forårsake lidelser for et stort antall dyr.Miljøet, på grunn av sykdommens direkte innvirkning eller på grunn av de tiltakene som er truffet for å bekjempe den.Det biologiske mangfoldet eller vernet av truede arter eller raser, ved at disse artene eller rasene på lang sikt kan bli skadet eller utryddet.
+1. Den aktuelle sykdommen
+
+   1. forekommer ikke på Unionens territorium,
+   2. forekommer bare i unntakstilfeller (uregelmessig introduksjon), eller
+   3. forekommer bare på en svært begrenset del av Unionens territorium,
+
+og
+
+1. den aktuelle sykdommen er svært smittsom, slik at det i tillegg til direkte og indirekte smitte også kan være mulighet for luftbåren, vannbåren eller vektorbåren spredning. Sykdommen kan ramme flere ulike arter av holdte og viltlevende dyr, eller én enkelt art av holdte dyr av økonomisk betydning, og kan føre til høy sykelighet og betydelig dødelighet.
+
+I tillegg til kriteriene fastsatt i bokstav a) og b) må disse sykdommene oppfylle ett eller flere av følgende kriterier:
+
+1. Den aktuelle sykdommen har et zoonotisk potensial som kan få store konsekvenser for folkehelsen, og som kan ha et epidemisk eller pandemisk potensial eller kan utgjøre en betydelig trussel mot næringsmiddeltryggheten.
+2. Den aktuelle sykdommen har en betydelig innvirkning på økonomien i Unionen og medfører betydelige kostnader, først og fremst i forbindelse med sykdommens direkte innvirkning på dyrs helse og produktivitet.
+3. Den aktuelle sykdommen har en betydelig innvirkning på ett eller flere av følgende områder:
+
+   1. Samfunnet, særlig når det gjelder arbeidsmarkedene.
+   2. Dyrevelferden, ved å forårsake lidelser for et stort antall dyr.
+   3. Miljøet, på grunn av sykdommens direkte innvirkning eller på grunn av de tiltakene som er truffet for å bekjempe den.
+   4. Det biologiske mangfoldet eller vernet av truede arter eller raser, ved at disse artene eller rasene på lang sikt kan bli skadet eller utryddet.
 
 ### Avsnitt 2
 Kriterier for anvendelse av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav b)
 
 De sykdommene som omfattes av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav b), skal bekjempes i alle medlemsstater med mål om at de skal utryddes i hele Unionen.
 
-Disse sykdommene må oppfylle følgende kriterier:Den aktuelle sykdommen er endemisk og forekommer på hele eller deler av Unionens territorium. Flere medlemsstater eller områder innenfor Unionen er likevel frie for sykdommen.Sykdommen er moderat til svært smittsom, slik at det i tillegg til direkte og indirekte smitte også kan være mulighet for luftbåren, vannbåren eller vektorbåren spredning. Den kan ramme én eller flere ulike dyrearter og kan føre til høy sykelighet, med generelt lav dødelighet.
+Disse sykdommene må oppfylle følgende kriterier:
 
-I tillegg til kriteriene fastsatt i bokstav a) og b) må disse sykdommene oppfylle ett eller flere av følgende kriterier:Den aktuelle sykdommen har et zoonotisk potensial som kan få store konsekvenser for folkehelsen, og som kan ha et epidemisk potensial eller kan utgjøre en betydelig trussel mot næringsmiddeltryggheten.Den aktuelle sykdommen har en betydelig innvirkning på økonomien i Unionen og medfører betydelige kostnader, først og fremst i forbindelse med sykdommens direkte innvirkning på dyrs helse og produktivitet.Sykdommen har en betydelig innvirkning på ett eller flere av følgende områder:Samfunnet, særlig når det gjelder arbeidsmarkedene.Dyrevelferden, ved å forårsake lidelser for et stort antall dyr.Miljøet, på grunn av sykdommens direkte innvirkning eller på grunn av de tiltakene som er truffet for å bekjempe den.Det biologiske mangfoldet eller vernet av truede arter eller raser, ved at disse artene eller rasene på lang sikt kan bli skadet eller utryddet.
+1. Den aktuelle sykdommen er endemisk og forekommer på hele eller deler av Unionens territorium. Flere medlemsstater eller områder innenfor Unionen er likevel frie for sykdommen.
+2. Sykdommen er moderat til svært smittsom, slik at det i tillegg til direkte og indirekte smitte også kan være mulighet for luftbåren, vannbåren eller vektorbåren spredning. Den kan ramme én eller flere ulike dyrearter og kan føre til høy sykelighet, med generelt lav dødelighet.
+
+I tillegg til kriteriene fastsatt i bokstav a) og b) må disse sykdommene oppfylle ett eller flere av følgende kriterier:
+
+1. Den aktuelle sykdommen har et zoonotisk potensial som kan få store konsekvenser for folkehelsen, og som kan ha et epidemisk potensial eller kan utgjøre en betydelig trussel mot næringsmiddeltryggheten.
+2. Den aktuelle sykdommen har en betydelig innvirkning på økonomien i Unionen og medfører betydelige kostnader, først og fremst i forbindelse med sykdommens direkte innvirkning på dyrs helse og produktivitet.
+3. Sykdommen har en betydelig innvirkning på ett eller flere av følgende områder:
+
+   1. Samfunnet, særlig når det gjelder arbeidsmarkedene.
+   2. Dyrevelferden, ved å forårsake lidelser for et stort antall dyr.
+   3. Miljøet, på grunn av sykdommens direkte innvirkning eller på grunn av de tiltakene som er truffet for å bekjempe den.
+   4. Det biologiske mangfoldet eller vernet av truede arter eller raser, ved at disse artene eller rasene på lang sikt kan bli skadet eller utryddet.
 
 En sykdom som omfattes av tiltakene nevnt i artikkel 9 nr. 1 bokstav a), og som ikke blir raskt og effektivt utryddet i en del av Unionen, og som i denne delen av Unionen er blitt endemisk, kan omfattes av tiltak for forebygging og bekjempelse av sykdom i samsvar med artikkel 9 nr. 1 bokstav b) i samme del av Unionen.
 
@@ -3967,9 +6566,22 @@ Kriterier for anvendelse av reglene for forebygging og bekjempelse av sykdom nev
 
 De sykdommene som omfattes av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav c), er relevante for enkelte medlemsstater, og det er nødvendig med tiltak for å forhindre at de sprer seg til andre deler av Unionen som er offisielt sykdomsfrie eller har utryddelsesprogrammer for den aktuelle listeførte sykdommen.
 
-Disse sykdommene må oppfylle følgende kriterier:Hos landdyr er den aktuelle sykdommen endemisk og forekommer på hele eller deler av Unionens territorium; hos akvatiske dyr er flere medlemsstater eller soner i Unionen frie for denne sykdommen.Hos landdyr er den aktuelle sykdommen moderat til svært smittsom, først og fremst gjennom direkte og indirekte smitte. Sykdommen rammer hovedsakelig én enkelt eller flere dyrearter, fører vanligvis ikke til høy sykelighet og innebærer minimal eller ingen dødelighet. Ofte er den hyppigst observerte innvirkningen produksjonstap.Hos akvatiske dyr er sykdommen moderat til svært smittsom, først og fremst gjennom direkte og indirekte smitte. Sykdommen kan ramme én enkelt eller flere dyrearter og kan føre til høy sykelighet, med generelt lav dødelighet. Ofte er den hyppigst observerte innvirkningen produksjonstap.
+Disse sykdommene må oppfylle følgende kriterier:
 
-I tillegg til kriteriene fastsatt i bokstav a) og b) må disse sykdommene oppfylle ett eller flere av følgende kriterier:Den aktuelle sykdommen har et zoonotisk potensial som kan få store konsekvenser for folkehelsen eller kan utgjøre en betydelig trussel mot næringsmiddeltryggheten.Den aktuelle sykdommen har en betydelig innvirkning på økonomien i deler av Unionen, først og fremst i forbindelse med sykdommens direkte innvirkning på visse typer systemer for produksjon av dyr.Den aktuelle sykdommen har en betydelig innvirkning på ett eller flere av følgende områder:Samfunnet, særlig når det gjelder arbeidsmarkedene.Dyrevelferden, ved å forårsake lidelser for et stort antall dyr.Miljøet, på grunn av sykdommens direkte innvirkning eller på grunn av de tiltakene som er truffet for å bekjempe den.Det biologiske mangfoldet eller vernet av truede arter eller raser, ved at disse artene eller rasene på lang sikt kan bli skadet eller utryddet.
+1. Hos landdyr er den aktuelle sykdommen endemisk og forekommer på hele eller deler av Unionens territorium; hos akvatiske dyr er flere medlemsstater eller soner i Unionen frie for denne sykdommen.
+2. 1. Hos landdyr er den aktuelle sykdommen moderat til svært smittsom, først og fremst gjennom direkte og indirekte smitte. Sykdommen rammer hovedsakelig én enkelt eller flere dyrearter, fører vanligvis ikke til høy sykelighet og innebærer minimal eller ingen dødelighet. Ofte er den hyppigst observerte innvirkningen produksjonstap.
+   2. Hos akvatiske dyr er sykdommen moderat til svært smittsom, først og fremst gjennom direkte og indirekte smitte. Sykdommen kan ramme én enkelt eller flere dyrearter og kan føre til høy sykelighet, med generelt lav dødelighet. Ofte er den hyppigst observerte innvirkningen produksjonstap.
+
+I tillegg til kriteriene fastsatt i bokstav a) og b) må disse sykdommene oppfylle ett eller flere av følgende kriterier:
+
+1. Den aktuelle sykdommen har et zoonotisk potensial som kan få store konsekvenser for folkehelsen eller kan utgjøre en betydelig trussel mot næringsmiddeltryggheten.
+2. Den aktuelle sykdommen har en betydelig innvirkning på økonomien i deler av Unionen, først og fremst i forbindelse med sykdommens direkte innvirkning på visse typer systemer for produksjon av dyr.
+3. Den aktuelle sykdommen har en betydelig innvirkning på ett eller flere av følgende områder:
+
+   1. Samfunnet, særlig når det gjelder arbeidsmarkedene.
+   2. Dyrevelferden, ved å forårsake lidelser for et stort antall dyr.
+   3. Miljøet, på grunn av sykdommens direkte innvirkning eller på grunn av de tiltakene som er truffet for å bekjempe den.
+   4. Det biologiske mangfoldet eller vernet av truede arter eller raser, ved at disse artene eller rasene på lang sikt kan bli skadet eller utryddet.
 
 ### Avsnitt 4
 Kriterier for anvendelse av reglene for forebygging og bekjempelse av sykdom nevnt i artikkel 9 nr. 1 bokstav d)
@@ -5208,7 +7820,13 @@ VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1
 
-I denne forordningen menes med«kategori A-sykdom» en listeført sykdom som normalt ikke forekommer i Unionen, og som det må treffes umiddelbare utryddelsestiltak mot så snart den påvises, som nevnt i artikkel 9 nr. 1 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429),«kategori B-sykdom» en listeført sykdom som må bekjempes i alle medlemsstater, med mål om at den skal utryddes i hele Unionen, som nevnt i artikkel 9 nr. 1 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429),«kategori C-sykdom» en listeført sykdom som har betydning for enkelte medlemsstater, og som det er nødvendig å innføre tiltak mot for å forhindre spredning til deler av Unionen som er offisielt sykdomsfrie eller som har utryddelsesprogrammer for den aktuelle listeførte sykdommen, som nevnt i artikkel 9 nr. 1 bokstav c) i forordning [(EU) 2016/429](eu/32016r0429),«kategori D-sykdom» en listeført sykdom som det er nødvendig å innføre tiltak mot for å forhindre spredning i forbindelse med innførsel til Unionen eller forflytning mellom medlemsstater, som nevnt i artikkel 9 nr. 1 bokstav d) i forordning [(EU) 2016/429](eu/32016r0429),«kategori E-sykdom» en listeført sykdom som det er nødvendig å overvåke i Unionen, som nevnt i artikkel 9 nr. 1 bokstav e) i forordning [(EU) 2016/429](eu/32016r0429).
+I denne forordningen menes med
+
+1. «kategori A-sykdom» en listeført sykdom som normalt ikke forekommer i Unionen, og som det må treffes umiddelbare utryddelsestiltak mot så snart den påvises, som nevnt i artikkel 9 nr. 1 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429),
+2. «kategori B-sykdom» en listeført sykdom som må bekjempes i alle medlemsstater, med mål om at den skal utryddes i hele Unionen, som nevnt i artikkel 9 nr. 1 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429),
+3. «kategori C-sykdom» en listeført sykdom som har betydning for enkelte medlemsstater, og som det er nødvendig å innføre tiltak mot for å forhindre spredning til deler av Unionen som er offisielt sykdomsfrie eller som har utryddelsesprogrammer for den aktuelle listeførte sykdommen, som nevnt i artikkel 9 nr. 1 bokstav c) i forordning [(EU) 2016/429](eu/32016r0429),
+4. «kategori D-sykdom» en listeført sykdom som det er nødvendig å innføre tiltak mot for å forhindre spredning i forbindelse med innførsel til Unionen eller forflytning mellom medlemsstater, som nevnt i artikkel 9 nr. 1 bokstav d) i forordning [(EU) 2016/429](eu/32016r0429),
+5. «kategori E-sykdom» en listeført sykdom som det er nødvendig å overvåke i Unionen, som nevnt i artikkel 9 nr. 1 bokstav e) i forordning [(EU) 2016/429](eu/32016r0429).
 
 ### Artikkel 2
 

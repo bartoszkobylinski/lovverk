@@ -72,7 +72,11 @@ For handling som påtales ved Riksrett kan den ansvarlige tilpliktes å betale e
 
 ### § 8
 
-Med bøter eller fengsel inntil 5 år straffes det medlem av Statsrådet som ved handling eller undlatelse bevirkerat noget som krever beslutning av Stortinget blir foretatt uten Stortingets samtykke;at en beslutning av Stortinget ikke blir gjennemført, eller at en handling blir foretatt i strid med en stortingsbeslutning;at protokoller, dokumenter eller oplysninger som skal meddeles Stortinget blir tilbakeholdt, eller at statens regnskaper ikke blir tilstillet Statsrevisjonen således som bestemt i [Grunnlovens § 75](lov/1814-05-17/§75) bokstav k.
+Med bøter eller fengsel inntil 5 år straffes det medlem av Statsrådet som ved handling eller undlatelse bevirker
+
+1. at noget som krever beslutning av Stortinget blir foretatt uten Stortingets samtykke;
+2. at en beslutning av Stortinget ikke blir gjennemført, eller at en handling blir foretatt i strid med en stortingsbeslutning;
+3. at protokoller, dokumenter eller oplysninger som skal meddeles Stortinget blir tilbakeholdt, eller at statens regnskaper ikke blir tilstillet Statsrevisjonen således som bestemt i [Grunnlovens § 75](lov/1814-05-17/§75) bokstav k.
 
 > Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
@@ -132,7 +136,13 @@ De medlemmer av Høiesterett, som forsømmer den dem med hensyn til innkallelse 
 
 ### § 17
 
-Det medlem av Høiesterett, sommeddeler nogen part råd eller veiledning i en sak som står for Høiesterett eller kan komme inn for Høiesterett,eller i nogen betenkning, eller innstilling medvirker til noget som er stridende mot [Grunnloven](lov/1814-05-17),eller i sin embedsgjerning for øvrig ved handling eller undlatelse bevirker noget som er stridende mot [Grunnlov](lov/1814-05-17) eller lovgivning,straffes med bøter eller med fengsel inntil 10 år.
+Det medlem av Høiesterett, som
+
+1. meddeler nogen part råd eller veiledning i en sak som står for Høiesterett eller kan komme inn for Høiesterett,
+2. eller i nogen betenkning, eller innstilling medvirker til noget som er stridende mot [Grunnloven](lov/1814-05-17),
+3. eller i sin embedsgjerning for øvrig ved handling eller undlatelse bevirker noget som er stridende mot [Grunnlov](lov/1814-05-17) eller lovgivning,
+
+straffes med bøter eller med fengsel inntil 10 år.
 
 Denne bestemmelse gjelder tilsvarende når et medlem av Høyesterett er medlem av Riksretten.
 

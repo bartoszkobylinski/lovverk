@@ -15,7 +15,7 @@ xml_hash: "695a5b85d5c71002779364e53fadd6ce07ff5e908473153f1228127829a66089"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,13 @@ Forskriften [§ 2-4](forskrift/2009-01-19-77/§2-4), [§ 3-4](forskrift/2009-01-
 
 ### § 1-3. Definisjoner
 
-I denne forskriften skal følgende uttrykk forstås slik:*Yrkeskvalifikasjoner:* Kvalifikasjoner som framgår av kvalifikasjonsbevis, en kompetanseattest som nevnt i vedlegg I bokstav a nummer 1, eller dokumentert yrkeserfaring.*Kvalifikasjonsbevis:* Eksamensbevis, attester og annen dokumentasjon som er utstedt av en utdanningsinstitusjon eller myndighetene i et EØS-land, og som dokumenterer en bestått yrkeskompetansegivende utdanning som i hovedsak er ervervet innen EØS-området. Som kvalifikasjonsbevis regnes også bevis utstedt i et tredjeland dersom innehaveren har minst tre års relevant og lovlig yrkeserfaring i et EØS-land på grunnlag av beviset.*Yrkeserfaring:* Faktisk og lovlig utøvelse av det aktuelle yrket i et EØS-land.*[Dyrehelsepersonell](lov/2001-06-15-75):* Veterinærer, fiskehelsebiologer og dyrepleiere, jf. [dyrehelsepersonelloven § 2](lov/2001-06-15-75/§2)*Seminpersonell:* Personell som har rett til å utføre kunstig inseminering på dyr, jf. [forskrift 6. mars 1995 nr. 239](forskrift/1995-03-06-239) om kunstig sædoverføring hos husdyr utført av andre enn veterinær [§ 3](forskrift/1995-03-06-239/§3) og [§ 4](forskrift/1995-03-06-239/§4).
+I denne forskriften skal følgende uttrykk forstås slik:
+
+1. *Yrkeskvalifikasjoner:* Kvalifikasjoner som framgår av kvalifikasjonsbevis, en kompetanseattest som nevnt i vedlegg I bokstav a nummer 1, eller dokumentert yrkeserfaring.
+2. *Kvalifikasjonsbevis:* Eksamensbevis, attester og annen dokumentasjon som er utstedt av en utdanningsinstitusjon eller myndighetene i et EØS-land, og som dokumenterer en bestått yrkeskompetansegivende utdanning som i hovedsak er ervervet innen EØS-området. Som kvalifikasjonsbevis regnes også bevis utstedt i et tredjeland dersom innehaveren har minst tre års relevant og lovlig yrkeserfaring i et EØS-land på grunnlag av beviset.
+3. *Yrkeserfaring:* Faktisk og lovlig utøvelse av det aktuelle yrket i et EØS-land.
+4. *[Dyrehelsepersonell](lov/2001-06-15-75):* Veterinærer, fiskehelsebiologer og dyrepleiere, jf. [dyrehelsepersonelloven § 2](lov/2001-06-15-75/§2)
+5. *Seminpersonell:* Personell som har rett til å utføre kunstig inseminering på dyr, jf. [forskrift 6. mars 1995 nr. 239](forskrift/1995-03-06-239) om kunstig sædoverføring hos husdyr utført av andre enn veterinær [§ 3](forskrift/1995-03-06-239/§3) og [§ 4](forskrift/1995-03-06-239/§4).
 
 ## Kapittel 2. Autorisasjon som veterinær
 
@@ -58,7 +64,10 @@ Søker som fremlegger et kvalifikasjonsbevis som ikke er nevnt i [vedlegg II](fo
 
 ### § 2-2. Autorisasjon på grunnlag av yrkeserfaring i tillegg til utdanning
 
-Søker med kvalifikasjonsbevis som ikke oppfyller vilkårene i [§ 2-1](forskrift/2009-01-19-77/§2-1), har likevel rett til autorisasjon som veterinær dersomsøkeren fremlegger attest på yrkeserfaring som veterinær i et EØS-land i minst tre sammenhengende år i løpet av de siste fem årene før attesten ble utstedt, ogkvalifikasjonsbeviset enten gjelder en utdanning som ble påbegynt før det relevante tidspunktet som er nevnt i [vedlegg II](forskrift/2009-01-19-77/vedleggii), eller er utstedt i et tredjeland, jf. [§ 1-3](forskrift/2009-01-19-77/§1-3) bokstav b annet punktum.
+Søker med kvalifikasjonsbevis som ikke oppfyller vilkårene i [§ 2-1](forskrift/2009-01-19-77/§2-1), har likevel rett til autorisasjon som veterinær dersom
+
+1. søkeren fremlegger attest på yrkeserfaring som veterinær i et EØS-land i minst tre sammenhengende år i løpet av de siste fem årene før attesten ble utstedt, og
+2. kvalifikasjonsbeviset enten gjelder en utdanning som ble påbegynt før det relevante tidspunktet som er nevnt i [vedlegg II](forskrift/2009-01-19-77/vedleggii), eller er utstedt i et tredjeland, jf. [§ 1-3](forskrift/2009-01-19-77/§1-3) bokstav b annet punktum.
 
 Søker med kvalifikasjonsbevis fra den tidligere Tyske Demokratiske Republikk, det tidligere Tsjekkoslovakia, det tidligere Sovjetunionen og det tidligere Jugoslavia har rett til autorisasjon på de vilkårene som fremkommer av [vedlegg III](forskrift/2009-01-19-77/vedleggiii).
 
@@ -94,13 +103,20 @@ Kravet om at yrkeserfaringen skal være så lang som nevnt i første ledd, gjeld
 
 ### § 3-3. Krav om prøveperiode eller egnethetsprøve
 
-Mattilsynet kan fatte enkeltvedtak om at de som søker om autorisasjon etter [§ 3-1](forskrift/2009-01-19-77/§3-1) eller [§ 3-2](forskrift/2009-01-19-77/§3-2), enten skal gjennomgå en prøveperiode på høyst tre år eller skal bestå en egnethetsprøve dersomden norske utdanningen er vesentlig forskjellig fra søkerens utdanning, ellerdet aktuelle yrket i Norge omfatter lovregulerte yrkesaktiviteter som ikke inngår i sammenlignbare former i det tilsvarende yrket i søkerens hjemland, og det i Norge kreves en særskilt utdanning som er vesentlig forskjellige fra søkerens utdanning.
+Mattilsynet kan fatte enkeltvedtak om at de som søker om autorisasjon etter [§ 3-1](forskrift/2009-01-19-77/§3-1) eller [§ 3-2](forskrift/2009-01-19-77/§3-2), enten skal gjennomgå en prøveperiode på høyst tre år eller skal bestå en egnethetsprøve dersom
+
+1. den norske utdanningen er vesentlig forskjellig fra søkerens utdanning, eller
+2. det aktuelle yrket i Norge omfatter lovregulerte yrkesaktiviteter som ikke inngår i sammenlignbare former i det tilsvarende yrket i søkerens hjemland, og det i Norge kreves en særskilt utdanning som er vesentlig forskjellige fra søkerens utdanning.
 
 Den norske utdanningen er vesentlig forskjellig fra søkerens utdanning når søkeren mangler kunnskap på områder som er avgjørende for utøvelsen av yrket, og søkerens utdanning viser viktige forskjeller med hensyn til varighet og innhold sammenlignet med den norske utdanningen.
 
 Før vedtak om prøveperiode eller egnethetstest treffes, må det vurderes om den kunnskapen søkeren har ervervet ved yrkeserfaring, helt eller delvis oppveier den vesentlige forskjellen mellom utdanningene.
 
-Søkeren kan velge mellom prøveperiode og egnethetsprøve. Søkeren skal gis mulighet til å ta egnethetsprøven senest seks måneder etter at Mattilsynet har bestemt at søkeren må ta en slik prøve. Dersom det er nødvendig, kan det gjøres unntak fra yrkesutøverens valgfrihet i ett av følgende tilfeller:yrkesutøver med kvalifikasjoner vist med kursbevis som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav a, og hvor det i Norge kreves kvalifikasjoner som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav c, elleryrkesutøver med kvalifikasjoner vist med attest med fullført videregående utdanning som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav b, og hvor det i Norge kreves kvalifikasjoner som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav d, ellerdersom yrkesutøveren innehar kursbevis som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav a, men hvor yrket i Norge krever kvalifikasjoner som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav d, kan Mattilsynet pålegge yrkesutøveren å utføre både prøveperiode og egnethetsprøve.
+Søkeren kan velge mellom prøveperiode og egnethetsprøve. Søkeren skal gis mulighet til å ta egnethetsprøven senest seks måneder etter at Mattilsynet har bestemt at søkeren må ta en slik prøve. Dersom det er nødvendig, kan det gjøres unntak fra yrkesutøverens valgfrihet i ett av følgende tilfeller:
+
+1. yrkesutøver med kvalifikasjoner vist med kursbevis som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav a, og hvor det i Norge kreves kvalifikasjoner som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav c, eller
+2. yrkesutøver med kvalifikasjoner vist med attest med fullført videregående utdanning som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav b, og hvor det i Norge kreves kvalifikasjoner som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav d, eller
+3. dersom yrkesutøveren innehar kursbevis som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav a, men hvor yrket i Norge krever kvalifikasjoner som nevnt i [vedlegg I](forskrift/2009-01-19-77/vedleggi) 1. ledd bokstav d, kan Mattilsynet pålegge yrkesutøveren å utføre både prøveperiode og egnethetsprøve.
 
 Prøveperiode eller egnethetsprøve kan ikke pålegges dersom søkerens yrkeskvalifikasjoner oppfyller kriteriene fastsatt i en felles plattform vedtatt i samsvar med direktiv [2005/36/EF](eu/32005l0036*) artikkel 15.
 
@@ -138,11 +154,22 @@ Arbeidets midlertidige karakter skal vurderes fra sak til sak på bakgrunn av ar
 
 Før en yrkesutøver tilbyr tjenester i samsvar med [§ 4-1](forskrift/2009-01-19-77/§4-1), skal vedkommende sende skriftlig melding til Mattilsynet om arbeidets art og varighet og om hvor arbeidet skal finne sted. Meldingen skal fornyes med eventuelle oppdaterte opplysninger for hvert år tjenesteyter ønsker å utøve yrket.
 
-Første gang tjenesten skal tilbys, eller dersom det senere foreligger en vesentlig endring av de forhold som omhandles i dokumentene, skal meldingen omfatte dokumentasjon av følgende forhold:Tjenesteyterens identitet og nasjonalitet.Tjenesteyterens kvalifikasjoner dokumentert ved bevis for yrkeskvalifikasjoner.At tjenesteyteren er lovlig etablert i et EØS-land med det formål å utøve det aktuelle yrket.At det på tidspunktet for utstedelsen ikke er forbudt, verken permanent eller midlertidig, for tjenesteyteren å praktisere, og at eventuell rett til å forskrive legemidler ikke er bortfalt eller innskrenket.Eventuell påkrevd yrkesutøvelse, jf. [§ 4-1](forskrift/2009-01-19-77/§4-1) første ledd annet punktum.Yrkesforsikring, jf. [dyrehelsepersonelloven 25](lov/2001-06-15-75/§25).
+Første gang tjenesten skal tilbys, eller dersom det senere foreligger en vesentlig endring av de forhold som omhandles i dokumentene, skal meldingen omfatte dokumentasjon av følgende forhold:
+
+1. Tjenesteyterens identitet og nasjonalitet.
+2. Tjenesteyterens kvalifikasjoner dokumentert ved bevis for yrkeskvalifikasjoner.
+3. At tjenesteyteren er lovlig etablert i et EØS-land med det formål å utøve det aktuelle yrket.
+4. At det på tidspunktet for utstedelsen ikke er forbudt, verken permanent eller midlertidig, for tjenesteyteren å praktisere, og at eventuell rett til å forskrive legemidler ikke er bortfalt eller innskrenket.
+5. Eventuell påkrevd yrkesutøvelse, jf. [§ 4-1](forskrift/2009-01-19-77/§4-1) første ledd annet punktum.
+6. Yrkesforsikring, jf. [dyrehelsepersonelloven 25](lov/2001-06-15-75/§25).
 
 ### § 4-3. Opplysninger til mottakere av tjenesten
 
-Personer som arbeider som fiskehelsebiolog, dyrepleier eller seminpersonell i samsvar med [§ 4-1](forskrift/2009-01-19-77/§4-1), skal gi mottakere av tjenesten skriftlige opplysninger om:Tjenesteyterens yrkestittelNavnet på og adressen til tilsynsmyndigheten i etableringslandet dersom yrket er underlagt krav om autorisasjon derTjenesteyterens yrkesforsikring.
+Personer som arbeider som fiskehelsebiolog, dyrepleier eller seminpersonell i samsvar med [§ 4-1](forskrift/2009-01-19-77/§4-1), skal gi mottakere av tjenesten skriftlige opplysninger om:
+
+1. Tjenesteyterens yrkestittel
+2. Navnet på og adressen til tilsynsmyndigheten i etableringslandet dersom yrket er underlagt krav om autorisasjon der
+3. Tjenesteyterens yrkesforsikring.
 
 Mattilsynet skal sikre utveksling av informasjon som er nødvendig for at klager fra mottakere av tjenester skal bli fulgt opp på riktig måte.
 
@@ -164,11 +191,20 @@ Person som har dokumentert utdanning fra tredjeland, men som ikke har slik yrkes
 
 ### § 5-3. Dokumentasjon og opplysninger ved søknad om autorisasjon
 
-Mattilsynet kan kreve følgende dokumenter av den som søker om autorisasjon:Dokumentasjon av søkerens identitet og nasjonalitet.Bekreftelse av yrkeskvalifikasjoner, kvalifikasjonsbevis og attest for yrkeserfaring. Søkeren skal på anmodning fra Mattilsynet gi opplysninger som er nødvendige for å slå fast om utdanningen er vesentlig forskjellig fra norsk utdanning. Der det ikke er mulig for søkeren å legge frem opplysningene, skal kontaktpunkt, vedkommende myndighet eller annet relevant organ i hjemlandet kontaktes.Offentlige bekreftelse på at søkeren ikke har fått tilbakekalt, suspendert eller begrenset autorisasjonen eller retten til å forskrive legemidler. Dokumentene skal ikke være eldre enn tre måneder. Dersom hjemlandet eller det seneste oppholdslandet ikke utsteder de nødvendige dokumentene, kan disse erstattes av en attest som dokumenterer en forsikring på ære og samvittighet avgitt av søkeren for vedkommende retts- eller forvaltningsmyndighet, en notarius publicus eller et kvalifisert bransjeorgan i hjemlandet eller det seneste oppholdslandet.En attest fra vedkommende myndigheter i søkerens hjemland som slår fast at den aktuelle dokumentasjonen på formelle kvalifikasjoner er slik som det går frem av direktiv [2005/36/EF](eu/32005l0036*).
+Mattilsynet kan kreve følgende dokumenter av den som søker om autorisasjon:
+
+1. Dokumentasjon av søkerens identitet og nasjonalitet.
+2. Bekreftelse av yrkeskvalifikasjoner, kvalifikasjonsbevis og attest for yrkeserfaring. Søkeren skal på anmodning fra Mattilsynet gi opplysninger som er nødvendige for å slå fast om utdanningen er vesentlig forskjellig fra norsk utdanning. Der det ikke er mulig for søkeren å legge frem opplysningene, skal kontaktpunkt, vedkommende myndighet eller annet relevant organ i hjemlandet kontaktes.
+3. Offentlige bekreftelse på at søkeren ikke har fått tilbakekalt, suspendert eller begrenset autorisasjonen eller retten til å forskrive legemidler. Dokumentene skal ikke være eldre enn tre måneder. Dersom hjemlandet eller det seneste oppholdslandet ikke utsteder de nødvendige dokumentene, kan disse erstattes av en attest som dokumenterer en forsikring på ære og samvittighet avgitt av søkeren for vedkommende retts- eller forvaltningsmyndighet, en notarius publicus eller et kvalifisert bransjeorgan i hjemlandet eller det seneste oppholdslandet.
+4. En attest fra vedkommende myndigheter i søkerens hjemland som slår fast at den aktuelle dokumentasjonen på formelle kvalifikasjoner er slik som det går frem av direktiv [2005/36/EF](eu/32005l0036*).
 
 Ved begrunnet tvil kan det kreves bekreftelse fra rett myndighet i annet EØS-land på at kvalifikasjonsbevis er gyldig, og på at søkeren oppfyller de utdanningskrav som er fastsatt i direktiv [2005/36/EF](eu/32005l0036*).
 
-Ved begrunnet tvil og der kvalifikasjonsbevis er utstedt av vedkommende myndighet i et EØS-land og omfatter utdanning fra et annet EØS-land, kan Mattilsynet undersøke om:Utdanningsforløpet ved institusjonen som ga utdanningen, har vært formelt sertifisert av utdanningsinstitusjonene i utstedelseslandetKvalifikasjonsbeviset er det samme som ville vært tildelt dersom kurset i sin helhet hadde blitt fulgt i utstedelseslandetKvalifikasjonsbeviset gir de samme yrkesmessige rettigheter på territoriet til utstedelseslandet.
+Ved begrunnet tvil og der kvalifikasjonsbevis er utstedt av vedkommende myndighet i et EØS-land og omfatter utdanning fra et annet EØS-land, kan Mattilsynet undersøke om:
+
+1. Utdanningsforløpet ved institusjonen som ga utdanningen, har vært formelt sertifisert av utdanningsinstitusjonene i utstedelseslandet
+2. Kvalifikasjonsbeviset er det samme som ville vært tildelt dersom kurset i sin helhet hadde blitt fulgt i utstedelseslandet
+3. Kvalifikasjonsbeviset gir de samme yrkesmessige rettigheter på territoriet til utstedelseslandet.
 
 > Endret ved forskrift [17 des 2021 nr. 3924](forskrift/2021-12-17-3924) (i kraft 1 april 2022).
 
@@ -212,7 +248,13 @@ Enkeltvedtak truffet med hjemmel i denne forskriften kan påklages etter reglene
 
 I forbindelse med midlertidig arbeid etter [kapittel 4](forskrift/2009-01-19-77/kap4) kan Mattilsynet be myndighetene i etableringslandet om all informasjon som er relevant for vurdering av lovligheten av tjenesteyterens virksomhet der. Mattilsynet kan også be myndighetene om å bekrefte at tjenesteyteren ikke har fått forvaltnings- eller strafferettslige sanksjoner på grunn av sin yrkesutøvelse.
 
-Dersom en veterinær i Norge har fått begrenset retten til å utøve yrket, skal Mattilsynet varsle ansvarlige myndigheter i alle øvrige EØS-land. Varslingen skal inneholde informasjon omidentiteten til yrkesutøveren,hvilket yrke det gjelder,hvilken myndighet som har fattet vedtaket,omfanget av vedtaket, oghvilken periode vedtaket gjelder.
+Dersom en veterinær i Norge har fått begrenset retten til å utøve yrket, skal Mattilsynet varsle ansvarlige myndigheter i alle øvrige EØS-land. Varslingen skal inneholde informasjon om
+
+1. identiteten til yrkesutøveren,
+2. hvilket yrke det gjelder,
+3. hvilken myndighet som har fattet vedtaket,
+4. omfanget av vedtaket, og
+5. hvilken periode vedtaket gjelder.
 
 Dersom en yrkesutøver i Norge har blitt domfelt for bruk av falske vitnemål i forbindelse med søknad om autorisasjon, skal Mattilsynet varsle ansvarlige myndigheter i alle øvrige EØS-land om dette.
 
@@ -284,10 +326,46 @@ Det studieprogrammet som skal føre frem til et kvalifikasjonsbevis for veterin�
 
 *B. Spesialfag*
 
-1. *Grunnleggende vitenskaper*Anatomi (herunder histologi og embryologi)FysiologiBiokjemiGenetikk og molekylær genetikkFarmasi, farmakologi og farmakoterapi (inkludert antimikrobiell resistens)ToksikologiMikrobiologiImmunologiEpidemiologiYrkesetikk
-2. *Kliniske vitenskaper*ObstetrikkPatologi (herunder patologisk anatomi)ParasittologiKlinisk medisin og kirurgi (herunder anestesiologi)Kliniske undervisning om ulike husdyr, fjørfe og andre dyrearterForebyggende medisinBildediagnostikkForplantning og forplantningslidelserOffentlig veterinærmedisin og offentlig helseLovgivning og rettsmedisin for veterinærerTerapiPropedeutikk
-3. *Husdyrproduksjon*HusdyrproduksjonAnimalsk ernæringAgronomiLandbruksøkonomiHusdyrhold og forvaltning av besetningshelseVeterinærhygieneDyrevelferd, -etologi og -vern
-4. *Næringsmiddelhygiene*Inspeksjon og kontroll av dyrefôr eller næringsmidler av animalsk opprinnelseNæringsmiddelhygiene, -teknologi og -mikrobiologiPraktisk arbeid (herunder praktisk arbeid på steder der det skjer slakting og behandling av næringsmidler).
+1. *Grunnleggende vitenskaper*
+
+   - Anatomi (herunder histologi og embryologi)
+   - Fysiologi
+   - Biokjemi
+   - Genetikk og molekylær genetikk
+   - Farmasi, farmakologi og farmakoterapi (inkludert antimikrobiell resistens)
+   - Toksikologi
+   - Mikrobiologi
+   - Immunologi
+   - Epidemiologi
+   - Yrkesetikk
+2. *Kliniske vitenskaper*
+
+   - Obstetrikk
+   - Patologi (herunder patologisk anatomi)
+   - Parasittologi
+   - Klinisk medisin og kirurgi (herunder anestesiologi)
+   - Kliniske undervisning om ulike husdyr, fjørfe og andre dyrearter
+   - Forebyggende medisin
+   - Bildediagnostikk
+   - Forplantning og forplantningslidelser
+   - Offentlig veterinærmedisin og offentlig helse
+   - Lovgivning og rettsmedisin for veterinærer
+   - Terapi
+   - Propedeutikk
+3. *Husdyrproduksjon*
+
+   - Husdyrproduksjon
+   - Animalsk ernæring
+   - Agronomi
+   - Landbruksøkonomi
+   - Husdyrhold og forvaltning av besetningshelse
+   - Veterinærhygiene
+   - Dyrevelferd, -etologi og -vern
+4. *Næringsmiddelhygiene*
+
+   - Inspeksjon og kontroll av dyrefôr eller næringsmidler av animalsk opprinnelse
+   - Næringsmiddelhygiene, -teknologi og -mikrobiologi
+   - Praktisk arbeid (herunder praktisk arbeid på steder der det skjer slakting og behandling av næringsmidler).
 
 Praktisk utdanning kan skje i form av en opplæringsperiode, forutsatt at slik opplæring skjer på heltid og under direkte kontroll av vedkommende myndighet, og ikke overstiger seks måneder innenfor den samlede utdanningsperioden på fem år studier.
 
@@ -364,7 +442,10 @@ Fordelingen av teoretisk og praktisk utdanning i de ulike gruppene av emner skal
 
 ## Vedlegg III. Vilkår for autorisering av søkere med utdanning som veterinær fra det tidligere Øst-Tyskland, det tidligere Tsjekkoslovakia, det tidligere Sovjetunionen og det tidligere Jugoslavia
 
-Kvalifikasjonsbevis som nevnt i nr. 1-4 er likestilt med bevis som nevnt i forskriften [§ 2-1](forskrift/2009-01-19-77/§2-1) og gir rett til autorisasjon dersomsøkeren legger frem en attest utstedt av kompetent myndighet som dokumenterer at søkeren faktisk og rettmessig har utøvd veterinæryrket på det aktuelle EØS-landets territorium i minst tre sammenhengende år i løpet av de fem siste årene før attesten ble utstedt, ogkompetent myndighet i de aktuelle landene dokumenterer at slike kvalifikasjonsbevis har samme rettslige gyldighet innenfor deres territorium som de kvalifikasjonsbevisene de selv utsteder når det gjelder adgang til yrkesvirksomhet som veterinær.
+Kvalifikasjonsbevis som nevnt i nr. 1-4 er likestilt med bevis som nevnt i forskriften [§ 2-1](forskrift/2009-01-19-77/§2-1) og gir rett til autorisasjon dersom
+
+1. søkeren legger frem en attest utstedt av kompetent myndighet som dokumenterer at søkeren faktisk og rettmessig har utøvd veterinæryrket på det aktuelle EØS-landets territorium i minst tre sammenhengende år i løpet av de fem siste årene før attesten ble utstedt, og
+2. kompetent myndighet i de aktuelle landene dokumenterer at slike kvalifikasjonsbevis har samme rettslige gyldighet innenfor deres territorium som de kvalifikasjonsbevisene de selv utsteder når det gjelder adgang til yrkesvirksomhet som veterinær.
 
 1\. Kvalifikasjonsbevis som gir adgang til yrkesaktivitet som veterinær, som innehas av EØS-statsborgere og som er ervervet på territoriet til det tidligere Øst-Tyskland, men som ikke oppfyller de krav til minsteutdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 38, dersom slike bevis dokumenterer bestått fullføring av opplæring som var påbegynt før 3. oktober 1990.
 

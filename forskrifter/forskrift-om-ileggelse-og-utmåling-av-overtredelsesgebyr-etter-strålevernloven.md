@@ -38,7 +38,12 @@ Ved vurderingen av om overtredelsesgebyr skal ilegges kan det blant annet legges
 
 Overtredelsesgebyr utmåles av Direktoratet for strålevern og atomsikkerhet i hvert enkelt tilfelle (individuell utmåling).
 
-For fysiske personer kan det ved utmålingen blant annet legges vekt påovertredelsens omfangom det har oppstått fare for skade på helse eller miljøovertrederens grad av skyldøkonomiske evne.
+For fysiske personer kan det ved utmålingen blant annet legges vekt på
+
+1. overtredelsens omfang
+2. om det har oppstått fare for skade på helse eller miljø
+3. overtrederens grad av skyld
+4. økonomiske evne.
 
 Overtredelsesgebyret skal maksimalt utgjøre 0,6 ganger folketrygdens grunnbeløp (G).
 
@@ -46,7 +51,13 @@ Overtredelsesgebyret skal maksimalt utgjøre 0,6 ganger folketrygdens grunnbelø
 
 Overtredelsesgebyr utmåles av Direktoratet for strålevern og atomsikkerhet i hvert enkelt tilfelle (individuell utmåling).
 
-For foretak kan det ved utmålingen blant annet legges vekt påom det har oppstått fare for skade på helse eller miljøsanksjonens preventive virkningovertredelsens grovhet, og grad av skyldom overtredelsen er begått for å fremme foretakets interesserom foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen.
+For foretak kan det ved utmålingen blant annet legges vekt på
+
+1. om det har oppstått fare for skade på helse eller miljø
+2. sanksjonens preventive virkning
+3. overtredelsens grovhet, og grad av skyld
+4. om overtredelsen er begått for å fremme foretakets interesser
+5. om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen.
 
 I tillegg kan det ved utmålingen sees hen til øvrige momenter angitt i [forvaltningsloven § 46 andre ledd](lov/1967-02-10/§46/ledd/2).
 
@@ -54,7 +65,12 @@ Overtredelsesgebyret skal maksimalt utgjøre 15 ganger folketrygdens grunnbeløp
 
 ## § 5. Overtredelsesgebyr etter faste satser for overtredelser av forskrift om strålevern og bruk av stråling §§ 36–38
 
-Ved ileggelse av overtredelsesgebyr for overtredelser av [forskrift om strålevern og bruk av stråling §§ 36](forskrift/2016-12-16-1659/§36)–[38](forskrift/2016-12-16-1659/§38) skal følgende satser benyttes:1 G for svært alvorlige overtredelser,0,7 G for alvorlige overtredelser,0,5 G for mindre alvorlige overtredelser,0,1 G for lite alvorlige overtredelser.
+Ved ileggelse av overtredelsesgebyr for overtredelser av [forskrift om strålevern og bruk av stråling §§ 36](forskrift/2016-12-16-1659/§36)–[38](forskrift/2016-12-16-1659/§38) skal følgende satser benyttes:
+
+- 1 G for svært alvorlige overtredelser,
+- 0,7 G for alvorlige overtredelser,
+- 0,5 G for mindre alvorlige overtredelser,
+- 0,1 G for lite alvorlige overtredelser.
 
 ## § 6. Ikrafttredelse
 

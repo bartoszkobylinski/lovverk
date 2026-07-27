@@ -30,7 +30,17 @@ Forskriftene gjelder linjekonferanser og deres virksomhet i linjefart med skip m
 
 ### § 2. Definisjoner
 
-I disse forskrifter forstås med:«Konvensjonen»: De forente nasjoners konvensjon 6. april 1974 om et regelverk for linjekonferansers virksomhet, og med «konvensjonsstat»: en stat som er bundet av konvensjon.«EF-stat»: en stat som er medlem av Det europeiske fellesskap;«OECD-stat»: en stat som er medlem av Organisasjonen for økonomisk samarbeid og utvikling;«Offentlig myndighet»: myndighet i en stat som utfører de oppgaver som etter forskriftene er tillagt offentlig myndighet, her i riket departementet;«Linjekonferanse»: eller «konferanse»: to eller flere linjerederier som driver internasjonal linjefart for godsbefordring i en eller flere bestemte ruter innenfor et avgrenset geografisk område, og som driver virksomheten under ensartede eller felles fraktrater og andre omforente vilkår for slik linjefart;«Trafikkdeling»: fastsettelse av trafikkandeler eller seilingsplaner og andre ordninger for forhåndsdeling av linjefart mellom medlemmer av en linjekonferanse;«Transportbruker»: en person som har inngått eller akter å inngå en avtale eller en annen ordning med en konferanse eller et linjerederi for transport av gods som han har økonomisk interesse i;«Transportbrukerorganisasjon»: en sammenslutning som fremmer, representerer og ivaretar transportbrukernes interesser, og som om nødvendig er godkjent som sådan av offentlig myndighet i staten hvor de transportbrukere det gjelder, hører hjemme. Departementet kan ved enkeltvedtak eller forskrift fastsette hva som skal forstås med transportbrukerorganisasjon, og«Nasjonal linje»: i en stat er et linjerederi som har hovedkontor og faktisk ledelse der, og som er godkjent som nasjonal linje av offentlig myndighet eller lovgivningen i staten.
+I disse forskrifter forstås med:
+
+1. «Konvensjonen»: De forente nasjoners konvensjon 6. april 1974 om et regelverk for linjekonferansers virksomhet, og med «konvensjonsstat»: en stat som er bundet av konvensjon.
+2. «EF-stat»: en stat som er medlem av Det europeiske fellesskap;
+3. «OECD-stat»: en stat som er medlem av Organisasjonen for økonomisk samarbeid og utvikling;
+4. «Offentlig myndighet»: myndighet i en stat som utfører de oppgaver som etter forskriftene er tillagt offentlig myndighet, her i riket departementet;
+5. «Linjekonferanse»: eller «konferanse»: to eller flere linjerederier som driver internasjonal linjefart for godsbefordring i en eller flere bestemte ruter innenfor et avgrenset geografisk område, og som driver virksomheten under ensartede eller felles fraktrater og andre omforente vilkår for slik linjefart;
+6. «Trafikkdeling»: fastsettelse av trafikkandeler eller seilingsplaner og andre ordninger for forhåndsdeling av linjefart mellom medlemmer av en linjekonferanse;
+7. «Transportbruker»: en person som har inngått eller akter å inngå en avtale eller en annen ordning med en konferanse eller et linjerederi for transport av gods som han har økonomisk interesse i;
+8. «Transportbrukerorganisasjon»: en sammenslutning som fremmer, representerer og ivaretar transportbrukernes interesser, og som om nødvendig er godkjent som sådan av offentlig myndighet i staten hvor de transportbrukere det gjelder, hører hjemme. Departementet kan ved enkeltvedtak eller forskrift fastsette hva som skal forstås med transportbrukerorganisasjon, og
+9. «Nasjonal linje»: i en stat er et linjerederi som har hovedkontor og faktisk ledelse der, og som er godkjent som nasjonal linje av offentlig myndighet eller lovgivningen i staten.
 
 Linjer som tilhører og drives av et fellesforetak som har deltagelse fra to eller flere stater, samt hovedkontor og faktisk ledelse i en av dem, kan godkjennes som nasjonal linje i disse statene dersom interesser i de berørte stater har en betydelig andel i fellesforetaket.
 
@@ -68,7 +78,12 @@ Linjen må også påta seg å følge konferanseavtalens bestemmelser, og dersom 
 
 ### § 6. Medlemskap for andre linjerederier
 
-Ved søknad om medlemskap for et linjerederi som ikke er nasjonal linje innenfor konferanseområdet, gjelder [§ 5](forskrift/1985-12-06-2076/§5) annet og tredje ledd tilsvarende. Ved avgjørelsen bør det dessuten tas hensyn til forhold så somlastemengden som transporteres på ruter konferansen betjener, samt utsikten til økning;om tilgjengelig tonnasje imøtekommer foreliggende og fremtidige transportbehov i disse ruter;virkningene for effektivitet og kvalitet i konferansefarten ved at linjerederiet blir medlem, ogden trafikk linjerederiet allerede har på ruter konferansen betjener.
+Ved søknad om medlemskap for et linjerederi som ikke er nasjonal linje innenfor konferanseområdet, gjelder [§ 5](forskrift/1985-12-06-2076/§5) annet og tredje ledd tilsvarende. Ved avgjørelsen bør det dessuten tas hensyn til forhold så som
+
+1. lastemengden som transporteres på ruter konferansen betjener, samt utsikten til økning;
+2. om tilgjengelig tonnasje imøtekommer foreliggende og fremtidige transportbehov i disse ruter;
+3. virkningene for effektivitet og kvalitet i konferansefarten ved at linjerederiet blir medlem, og
+4. den trafikk linjerederiet allerede har på ruter konferansen betjener.
 
 Disse retningslinjer skal ikke anvendes slik at gjennomføringen av reglene i [kapittel 2](forskrift/1985-12-06-2076/kap2) II forhindres.
 
@@ -100,13 +115,29 @@ Et medlem kan benytte befraktet tonnasje for å oppfylle sine plikter i konferan
 
 ### § 11. Trafikkdeling
 
-Avtaler om trafikkdeling skal utformes i samsvar med følgende retningslinjer med mindre annet avtales:Gruppen av nasjonale linjer fra hver av to stater som får sin samhandel fraktet av konferansen, skal ha rett til like andeler av fraktinntekter og lastemengder som skriver seg fra samhandel fraktet av konferansen.Øvrige linjerederier skal ha rett til en betydelig andel, så som 20 pst. av fraktinntekter og lastemengder som skriver seg fra slik samhandel.De nasjonale linjer i hver stat skal uansett antall regnes som en gruppe. Last som fraktes av konferansen omfatter den last medlemmene frakter i samsvar med konferanseavtalen uansett opprinnelse, bestemmelsessted eller bruk, med unntak av militært utstyr til nasjonale forsvarsformål.Dersom de nasjonale linjer fra en stat vedtar ikke å frakte hele sin trafikkdel, fordeles resten mellom de øvrige linjerederier i forhold til deres trafikkdeler. Tilsvarende gjelder når det ikke deltar noen nasjonal linje fra denne stat. Deltar ingen nasjonale linjer i den fart det gjelder, foretas trafikkdelingen etter forretningsmessige prinsipper.De nasjonale linjer fra en region i den ene enden av konferanseområdet kan ved avtale omfordele de trafikkdeler som tilfaller dem etter første til tredje ledd.En avtale om trafikkdeling skal gjennomgås med regelmessige mellomrom angitt i avtalen.
+Avtaler om trafikkdeling skal utformes i samsvar med følgende retningslinjer med mindre annet avtales:
+
+1. Gruppen av nasjonale linjer fra hver av to stater som får sin samhandel fraktet av konferansen, skal ha rett til like andeler av fraktinntekter og lastemengder som skriver seg fra samhandel fraktet av konferansen.
+2. Øvrige linjerederier skal ha rett til en betydelig andel, så som 20 pst. av fraktinntekter og lastemengder som skriver seg fra slik samhandel.
+
+   De nasjonale linjer i hver stat skal uansett antall regnes som en gruppe. Last som fraktes av konferansen omfatter den last medlemmene frakter i samsvar med konferanseavtalen uansett opprinnelse, bestemmelsessted eller bruk, med unntak av militært utstyr til nasjonale forsvarsformål.
+
+   Dersom de nasjonale linjer fra en stat vedtar ikke å frakte hele sin trafikkdel, fordeles resten mellom de øvrige linjerederier i forhold til deres trafikkdeler. Tilsvarende gjelder når det ikke deltar noen nasjonal linje fra denne stat. Deltar ingen nasjonale linjer i den fart det gjelder, foretas trafikkdelingen etter forretningsmessige prinsipper.
+
+   De nasjonale linjer fra en region i den ene enden av konferanseområdet kan ved avtale omfordele de trafikkdeler som tilfaller dem etter første til tredje ledd.
+
+   En avtale om trafikkdeling skal gjennomgås med regelmessige mellomrom angitt i avtalen.
 
 ### § 12. Omfordeling mellom linjerederier fra OECD-stater
 
 De trafikkdeler som etter avtale i samsvar med [§ 11](forskrift/1985-12-06-2076/§11) tilfaller gruppene av nasjonale linjer eller andre linjerederier fra OECD-stater, skal omfordeles mellom disse linjerederier med mindre de er enige om det motsatte. Omfordelingen foretas ved enstemmig vedtak og har til formål å gi samtlige en rimelig del av konferansetrafikken.
 
-Et linjerederis trafikkdel fastsettes etter forretningsmessige prinsipper. Hensyn tas særlig til:den lastemengde som fraktes av konferansen og som skriver seg fra utenrikshandelen til OECD-stater som betjenes av konferansen;linjerederienes tidligere del av den linjefart trafikkdelingen gjelder;den lastemengde som fraktes av konferansen og går over havner i OECD-stater, ogbehovet til de transportbrukere som får sin last fraktet av konferansen.
+Et linjerederis trafikkdel fastsettes etter forretningsmessige prinsipper. Hensyn tas særlig til:
+
+1. den lastemengde som fraktes av konferansen og som skriver seg fra utenrikshandelen til OECD-stater som betjenes av konferansen;
+2. linjerederienes tidligere del av den linjefart trafikkdelingen gjelder;
+3. den lastemengde som fraktes av konferansen og går over havner i OECD-stater, og
+4. behovet til de transportbrukere som får sin last fraktet av konferansen.
 
 Oppnås ikke enighet om omfordelingen, kan enhver av partene kreve tvisten henvist til megling etter [§ 52](forskrift/1985-12-06-2076/§52). En tvist som ikke blir avgjort på denne måten, kan partene henvise til voldgift.
 
@@ -156,7 +187,11 @@ Annet ledd gjelder ikke i fart mellom OECD-stater. Departementet kan likevel bes
 
 ### § 18. Egenkontroll
 
-En konferanse skal sørge for at det til enhver tid foreligger en så vidt mulig fullstendig liste over handlemåter som utgjør utilbørlig konkurranse eller annet kontraktsbrudd. Den skal også ha et system for egenkontroll av slike handlemåter med særlige regler om:fastsettelse av bøter i samsvar med overtredelsens art;uhildet overprøving av saksbehandlingen eller avgjørelse i klagesaker ved et organ eller personer uten tilknytning til noen av konferansens medlemmer, herunder tilknyttede selskaper,at det etter krav fra offentlig myndighet i stat med utenrikshandel betjent av konferansen eller hvor et medlem hører hjemme, skal avgis innberetning basert på anonymitet for partene om tiltak i samband med slike saker.
+En konferanse skal sørge for at det til enhver tid foreligger en så vidt mulig fullstendig liste over handlemåter som utgjør utilbørlig konkurranse eller annet kontraktsbrudd. Den skal også ha et system for egenkontroll av slike handlemåter med særlige regler om:
+
+1. fastsettelse av bøter i samsvar med overtredelsens art;
+2. uhildet overprøving av saksbehandlingen eller avgjørelse i klagesaker ved et organ eller personer uten tilknytning til noen av konferansens medlemmer, herunder tilknyttede selskaper,
+3. at det etter krav fra offentlig myndighet i stat med utenrikshandel betjent av konferansen eller hvor et medlem hører hjemme, skal avgis innberetning basert på anonymitet for partene om tiltak i samband med slike saker.
 
 En konferanse og dens medlemmer kan kreve at transportbrukere og deres organisasjoner fullt ut støtter tiltak for å motvirke utilbørlig konkurranse.
 
@@ -184,11 +219,22 @@ Endring i rabattprosenten som medfører fraktforhøyelse, kan bare iverksettes m
 
 ### § 22. Transportbrukernes ansvar
 
-Eksklusivordningen skal uttrykkelig fastsette hvilke rettigheter og forpliktelser transportbrukerne skal ha, i samsvar med blant annet følgende regler:transportbrukeren skal være bundet for så vidt angår last som det etter salgsavtalen er overlatt til ham eller hans datterselskap, tilknyttede selskap eller speditør å bestemme transportmåten for. Transportbrukeren skal ikke ved å bruke mellommann eller på annen måte omgå sine forpliktelser etter eksklusivordningen;kontrakt mellom linjerederiet og transportbrukeren skal uttrykkelig angi det beløp transportbrukeren skal betale i tilfelle av kontraktsbrudd, og ansvaret skal ikke overstige frakten for det enkelte lasteparti, beregnet etter den rate kontrakten fastsetter.Linjerederier kan nedsette eller frafalle sitt krav etter kontrakten.transportbrukeren kan gjeninntre i eksklusivordningen dersom han oppfyller de vilkår som er fastsatt av konferansen. Eksklusivordningen skal angi disse vilkår uttrykkelig.
+Eksklusivordningen skal uttrykkelig fastsette hvilke rettigheter og forpliktelser transportbrukerne skal ha, i samsvar med blant annet følgende regler:
+
+1. transportbrukeren skal være bundet for så vidt angår last som det etter salgsavtalen er overlatt til ham eller hans datterselskap, tilknyttede selskap eller speditør å bestemme transportmåten for. Transportbrukeren skal ikke ved å bruke mellommann eller på annen måte omgå sine forpliktelser etter eksklusivordningen;
+2. kontrakt mellom linjerederiet og transportbrukeren skal uttrykkelig angi det beløp transportbrukeren skal betale i tilfelle av kontraktsbrudd, og ansvaret skal ikke overstige frakten for det enkelte lasteparti, beregnet etter den rate kontrakten fastsetter.
+
+   Linjerederier kan nedsette eller frafalle sitt krav etter kontrakten.
+3. transportbrukeren kan gjeninntre i eksklusivordningen dersom han oppfyller de vilkår som er fastsatt av konferansen. Eksklusivordningen skal angi disse vilkår uttrykkelig.
 
 ### § 23. Øvrige krav til vilkårene
 
-Eksklusivordningen skal også inneholde:en liste over last som er unntatt fra eksklusivordningen, samt angi betingelsene for at annen last enn nevnt i listen skal anses unntatt;fremgangsmåten for avgjørelse av tvister som oppstår under eksklusivordningen;regler om skriftlig oppsigelse, samt oppsigelsesfristen;en særlig oppsigelsesfrist for tilfelle som omhandlet i [§ 33](forskrift/1985-12-06-2076/§33) på minst 30 og ikke mer enn 90 dager.
+Eksklusivordningen skal også inneholde:
+
+1. en liste over last som er unntatt fra eksklusivordningen, samt angi betingelsene for at annen last enn nevnt i listen skal anses unntatt;
+2. fremgangsmåten for avgjørelse av tvister som oppstår under eksklusivordningen;
+3. regler om skriftlig oppsigelse, samt oppsigelsesfristen;
+4. en særlig oppsigelsesfrist for tilfelle som omhandlet i [§ 33](forskrift/1985-12-06-2076/§33) på minst 30 og ikke mer enn 90 dager.
 
 ### § 24. Fritak
 
@@ -204,7 +250,11 @@ Dersom et linjerederi til tross for behørig varsel fra transportbrukeren ikke a
 
 ### § 25. Fastsettelse av fraktrater
 
-Ved vedtak i tariffspørsmål skal det tas hensyn til følgende synspunkter med mindre annet er bestemt:fraktratene skal holdes på et så lavt nivå som forretningsmessig mulig og slik at linjerederiene kan oppnå rimelig fortjeneste;konferansens driftsomkostninger skal beregnes på rundreisebasis med mindre det er grunnlag for å vurdere den ut- og inngående reise hver for seg,fraktratene bør stå i forhold til bl.a. lastens art og verdi samt forholdet mellom dens vekt og volum.
+Ved vedtak i tariffspørsmål skal det tas hensyn til følgende synspunkter med mindre annet er bestemt:
+
+1. fraktratene skal holdes på et så lavt nivå som forretningsmessig mulig og slik at linjerederiene kan oppnå rimelig fortjeneste;
+2. konferansens driftsomkostninger skal beregnes på rundreisebasis med mindre det er grunnlag for å vurdere den ut- og inngående reise hver for seg,
+3. fraktratene bør stå i forhold til bl.a. lastens art og verdi samt forholdet mellom dens vekt og volum.
 
 ### § 26. Tariffer
 
@@ -226,7 +276,10 @@ Tariffer med tilhørende regelverk skal mot rimelig vederlag utleveres til trans
 
 ### § 29. Ugyldige fraktrater
 
-En fraktrate kan kreves satt helt eller delvis til side dersom:den strider imot reglene i [§ 27](forskrift/1985-12-06-2076/§27), ellerden er fastsatt uten at reglene om fremgangsmåten ved alminnelig fraktforhøyelse eller ved innføring av særlig frakttillegg er fulgt.
+En fraktrate kan kreves satt helt eller delvis til side dersom:
+
+1. den strider imot reglene i [§ 27](forskrift/1985-12-06-2076/§27), eller
+2. den er fastsatt uten at reglene om fremgangsmåten ved alminnelig fraktforhøyelse eller ved innføring av særlig frakttillegg er fulgt.
 
 ### II. Alminnelig fraktforhøyelse
 
@@ -356,9 +409,23 @@ Under konsultasjonene skal partene utveksle opplysninger og synspunkter og i det
 
 ### § 47. Omfang
 
-Konsultasjonene kan blant annet omfatte:endringer i tariffer med tilhørende regelverk;endringer i fraktratenivået eller i ratene for viktige vareslag;eksportfremmende eller særlige fraktrater;innføring eller endring av særlige frakttillegg;innføring av eksklusivordninger eller endring av deres form eller vilkår;endring i klassifikasjon av havner;fremgangsmåte når det gjelder å klarlegge transportbrukernes forventede transportbehov;levering av forhåndsvarsling av last.
+Konsultasjonene kan blant annet omfatte:
 
-Konsultasjonene kan også omfatte følgende saker for så vidt de faller innenfor konferansens virkefelt:utføring av lasteinspeksjon;endring av trafikkopplegget;virkninger av at enhetslastning eller annen teknologi for godsbefordring blir innført;konferansens dekning av transportbehovene, herunder virkningene av trafikkdelingsordninger for transporttilbudet og fraktrater, og endringer i trafikkområdet og anløpshyppigheten.
+1. endringer i tariffer med tilhørende regelverk;
+2. endringer i fraktratenivået eller i ratene for viktige vareslag;
+3. eksportfremmende eller særlige fraktrater;
+4. innføring eller endring av særlige frakttillegg;
+5. innføring av eksklusivordninger eller endring av deres form eller vilkår;
+6. endring i klassifikasjon av havner;
+7. fremgangsmåte når det gjelder å klarlegge transportbrukernes forventede transportbehov;
+8. levering av forhåndsvarsling av last.
+
+Konsultasjonene kan også omfatte følgende saker for så vidt de faller innenfor konferansens virkefelt:
+
+1. utføring av lasteinspeksjon;
+2. endring av trafikkopplegget;
+3. virkninger av at enhetslastning eller annen teknologi for godsbefordring blir innført;
+4. konferansens dekning av transportbehovene, herunder virkningene av trafikkdelingsordninger for transporttilbudet og fraktrater, og endringer i trafikkområdet og anløpshyppigheten.
 
 ### § 48. Forhåndsvarsel m.v.
 
@@ -374,11 +441,19 @@ Første og annet ledd kommer ikke til anvendelse for så vidt noe annet er beste
 
 ### § 49. Virkeområde
 
-Kapitlet gjelder tvister vedrørende anvendelsen eller gjennomføringen av loven om linjekonferanser og disse forskrifter, samt tilsvarende regelverk i annen konvensjonsstat og som oppstår mellom:konferanser, en konferanse og et linjerederi, eller medlemmer av en konferanse, elleren konferanse eller et medlem av en konferanse på den ene siden og transportbrukere, deres organisasjoner eller representanter på den annen.
+Kapitlet gjelder tvister vedrørende anvendelsen eller gjennomføringen av loven om linjekonferanser og disse forskrifter, samt tilsvarende regelverk i annen konvensjonsstat og som oppstår mellom:
+
+1. konferanser, en konferanse og et linjerederi, eller medlemmer av en konferanse, eller
+2. en konferanse eller et medlem av en konferanse på den ene siden og transportbrukere, deres organisasjoner eller representanter på den annen.
 
 ### § 50. Når internasjonal megling kan kreves
 
-Tvist som ikke er løst i minnelighet, kan av enhver av partene kreves undergitt internasjonal megling for så vidt den gjelder:medlemskap eller trafikkdeling;de krav som stilles til innholdet av konferanseavtalen;alminnelig fraktforhøyelse, særlige frakttillegg, endring av fraktrater eller innføring av valutajusteringsfaktor;utformingen av eksklusivordningen.
+Tvist som ikke er løst i minnelighet, kan av enhver av partene kreves undergitt internasjonal megling for så vidt den gjelder:
+
+1. medlemskap eller trafikkdeling;
+2. de krav som stilles til innholdet av konferanseavtalen;
+3. alminnelig fraktforhøyelse, særlige frakttillegg, endring av fraktrater eller innføring av valutajusteringsfaktor;
+4. utformingen av eksklusivordningen.
 
 Er tvisten oppstått mellom linjerederier som hører hjemme i samme stat, behandles den i denne stat og på den måte som loven der fastsetter. Tvist mellom norske linjerederier kan kreves avgjort av Linjekonferanserådet.
 
@@ -406,7 +481,12 @@ Internasjonal megling innledes etter krav fra en av partene. Kravet skal anses �
 
 ### § 54. Tidsfrister
 
-Krav om internasjonal megling må fremsettesi tvist om medlemskap, innen 60 dager etter at underretning som nevnt i [§ 8](forskrift/1985-12-06-2076/§8) eller [§ 16](forskrift/1985-12-06-2076/§16) annet ledd er mottatt;i tvist om alminnelig fraktforhøyelse, innen utløpet av den frist som er omhandlet i [§ 30](forskrift/1985-12-06-2076/§30);i tvist om særlige frakttillegg, innen utløpet av den frist på 30 dager som er omhandlet i [§ 36](forskrift/1985-12-06-2076/§36), eller dersom forhåndsvarsel ikke er gitt, innen 15 dager fra den dag frakttillegget ble innført,i tvist om tiltak på grunn av endringer i valutakurser, innen 20 dager etter at konsultasjonen ble innledet.
+Krav om internasjonal megling må fremsettes
+
+1. i tvist om medlemskap, innen 60 dager etter at underretning som nevnt i [§ 8](forskrift/1985-12-06-2076/§8) eller [§ 16](forskrift/1985-12-06-2076/§16) annet ledd er mottatt;
+2. i tvist om alminnelig fraktforhøyelse, innen utløpet av den frist som er omhandlet i [§ 30](forskrift/1985-12-06-2076/§30);
+3. i tvist om særlige frakttillegg, innen utløpet av den frist på 30 dager som er omhandlet i [§ 36](forskrift/1985-12-06-2076/§36), eller dersom forhåndsvarsel ikke er gitt, innen 15 dager fra den dag frakttillegget ble innført,
+4. i tvist om tiltak på grunn av endringer i valutakurser, innen 20 dager etter at konsultasjonen ble innledet.
 
 Frist som nevnt i første ledd kan forlenges ved avtale.
 

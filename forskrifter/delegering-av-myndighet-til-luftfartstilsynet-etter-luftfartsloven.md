@@ -15,7 +15,7 @@ xml_hash: "0eacf3258460973e6cc95e752ed30e5f98b1787e1526baeec54d669714af2d69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,9 @@ Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 10
 
 *Kapittel VI. Fartøysjefen og tjenesten om bord*
 
-- § 6-13 Alkotest, utåndingsprøve, blodprøveBestemmelsens fjerde ledd om forskrifter om tester og undersøkelser.
+- § 6-13 Alkotest, utåndingsprøve, blodprøve
+
+  Bestemmelsens fjerde ledd om forskrifter om tester og undersøkelser.
 
 ## II
 

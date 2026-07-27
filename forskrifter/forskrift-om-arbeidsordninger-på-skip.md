@@ -30,7 +30,19 @@ Denne forskrift gjelder arbeids- og hviletiden for sjøfolk på norske passasjer
 
 ### § 2. Definisjoner
 
-I denne forskrift betyr:*Arbeidstid*: Tiden hvor sjøfolk utfører arbeid for skipet.*Flyttbar innretning*: Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster ombord, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.*Hviletid*: Tid utenom arbeidstid. Korte pauser anses ikke som hviletid.*Innenriks fart*: Fart på innsjøer eller elver i Norge og fart på den norske kyst i henhold til [forskrift 4. november 1981 nr. 3793](forskrift/1981-11-04-3793).*Offentlige fridager*: Helgedager, søndager, samt høytidsdager som er fastsatt her i riket. Likt med helgedager regnes tiden fra kl. 15.00 til kl. 24.00 påskeaften, pinseaften, julaften og nyttårsaften.*Passasjerskip*: Skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.*Sjøfolk*: De som har arbeid om bord i skipets tjeneste og selvstendige oppdragstakere som utfører arbeid om bord i forbindelse med rederiets drift.*Skiftordning*: Arbeidsordning som innebærer at skipets sjøfolk tjenestegjør om bord i et bestemt tidsrom, for så å helt eller delvis avløses av andre sjøfolk, og der sjøfolk som avløses kan forlate skipet.*Tariffavtale*: Avtale mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om arbeids- og lønnsvilkår eller andre arbeidsforhold.*Uke*: Tiden fra mandag kl. 00.00 til søndag kl. 24.00.*Vaktordning*: Arbeidsordning som innebærer at arbeidstiden for skipets besetning helt eller delvis er delt opp i vakter og hvor hele besetningen normalt skal være om bord.
+I denne forskrift betyr:
+
+1. *Arbeidstid*: Tiden hvor sjøfolk utfører arbeid for skipet.
+2. *Flyttbar innretning*: Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster ombord, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.
+3. *Hviletid*: Tid utenom arbeidstid. Korte pauser anses ikke som hviletid.
+4. *Innenriks fart*: Fart på innsjøer eller elver i Norge og fart på den norske kyst i henhold til [forskrift 4. november 1981 nr. 3793](forskrift/1981-11-04-3793).
+5. *Offentlige fridager*: Helgedager, søndager, samt høytidsdager som er fastsatt her i riket. Likt med helgedager regnes tiden fra kl. 15.00 til kl. 24.00 påskeaften, pinseaften, julaften og nyttårsaften.
+6. *Passasjerskip*: Skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.
+7. *Sjøfolk*: De som har arbeid om bord i skipets tjeneste og selvstendige oppdragstakere som utfører arbeid om bord i forbindelse med rederiets drift.
+8. *Skiftordning*: Arbeidsordning som innebærer at skipets sjøfolk tjenestegjør om bord i et bestemt tidsrom, for så å helt eller delvis avløses av andre sjøfolk, og der sjøfolk som avløses kan forlate skipet.
+9. *Tariffavtale*: Avtale mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om arbeids- og lønnsvilkår eller andre arbeidsforhold.
+10. *Uke*: Tiden fra mandag kl. 00.00 til søndag kl. 24.00.
+11. *Vaktordning*: Arbeidsordning som innebærer at arbeidstiden for skipets besetning helt eller delvis er delt opp i vakter og hvor hele besetningen normalt skal være om bord.
 
 ### § 3. Fravik
 
@@ -116,7 +128,10 @@ Dersom registrering av hviletid skjer ved hjelp av elektroniske systemer, kan Sj
 
 ### § 13. Inspeksjon
 
-Tilsynet skal føre tilsyn med:at registreringsskjemaene for hviletid er i samsvar med [§ 8](forskrift/2007-06-26-705/§8), jf. [§ 11](forskrift/2007-06-26-705/§11), ogat skjemaet for arbeidsordningen om bord, er i samsvar med [§ 9](forskrift/2007-06-26-705/§9) og er oppslått om bord, jf. [§ 11](forskrift/2007-06-26-705/§11) annet ledd.
+Tilsynet skal føre tilsyn med:
+
+1. at registreringsskjemaene for hviletid er i samsvar med [§ 8](forskrift/2007-06-26-705/§8), jf. [§ 11](forskrift/2007-06-26-705/§11), og
+2. at skjemaet for arbeidsordningen om bord, er i samsvar med [§ 9](forskrift/2007-06-26-705/§9) og er oppslått om bord, jf. [§ 11](forskrift/2007-06-26-705/§11) annet ledd.
 
 Ved ovennevnte inspeksjoner skal det ses hen til at skipet ikke blir unødig forsinket. Hvis skipet likevel blir unødig forsinket, har rederiet rett til kompensasjon for det tap det har blitt påført. Bevisbyrden for at skipet er unødig forsinket, påhviler rederiet.
 

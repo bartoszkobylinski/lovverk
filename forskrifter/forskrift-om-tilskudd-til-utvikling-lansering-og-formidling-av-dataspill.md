@@ -34,7 +34,13 @@ Tilskudd etter denne forskriften skal primært stimulere den delen av dataspillb
 
 Denne forskriften angir regler for tildeling av tilskudd over Kulturdepartementets budsjett.
 
-Tilskudd gitt i henhold til denne forskriften kan gå tilutvikling og lansering av egenproduserte dataspillfaglig utvikling av fagpersoner i dataspillbransjenfellestiltak for dataspillbransjenformidlingstiltak for dataspillkompetansehevende tiltak for formidlere av dataspill.
+Tilskudd gitt i henhold til denne forskriften kan gå til
+
+1. utvikling og lansering av egenproduserte dataspill
+2. faglig utvikling av fagpersoner i dataspillbransjen
+3. fellestiltak for dataspillbransjen
+4. formidlingstiltak for dataspill
+5. kompetansehevende tiltak for formidlere av dataspill.
 
 Det kan ikke gis utviklings- og lanseringstilskudd til dataspillprosjekter som primært markedsfører kommersielle produkter. Det kan heller ikke gis tilskudd til prosjekter som gjelder opplæringsprodukter, pedagogiske verktøy, oppslagsverk eller manualer.
 
@@ -52,7 +58,24 @@ Tilskudd skal ikke tildeles foretak i økonomiske vanskeligheter eller som ikke 
 
 ### § 1-5. Definisjoner
 
-I denne forskriften betyr*dataspill:* en digital, fiksjonsbasert eller dokumentarisk fremstilling gjennom lyd og bilder som drives av brukermedvirkning, og som er produsert for offentlig visning eller omsetning.*offentlig tilskudd:* tilskudd som faller inn under [EØS-avtalen artikkel 61](lov/1992-11-27-109/eøsl/a61) (1), herunder tilskudd fra stat, kommuner og fylkeskommuner og offentlige investeringer som ikke er på markedsvilkår. Tilskudd fra overnasjonale organer regnes ikke som offentlig tilskudd.*kulturprodukt:* et dataspill som oppfyller minst tre av følgende kriterierDesigndokumentet eller litterært forelegg er originalskrevet på norsk eller samisk.Dataspillet er på norsk eller samisk språk.Prosjektet fokuserer på norsk eller samisk språk, kultur og historie, eller tematikk som har relevans for en norsk målgruppe.Dataspillet har et vesentlig bidrag fra opphavere eller utøvende kunstnere bosatt i Norge eller et annet EØS-land.*smalt audiovisuelt verk:* et dataspill som oppfyller minst ett av følgende kriterier:Dataspillet har Norge som primærmarked.Dataspillet inneholder mer enn 50 prosent norsk eller samisk dialog.Dataspillet er av tydelig kunstnerisk karakter.Dataspillet bruker et eksperimentelt eller innovativt fortellerspråk.Dataspillet fokuserer på norsk kultur eller historie.Dataspillet er et originalverk rettet mot barn eller unge.
+I denne forskriften betyr
+
+1. *dataspill:* en digital, fiksjonsbasert eller dokumentarisk fremstilling gjennom lyd og bilder som drives av brukermedvirkning, og som er produsert for offentlig visning eller omsetning.
+2. *offentlig tilskudd:* tilskudd som faller inn under [EØS-avtalen artikkel 61](lov/1992-11-27-109/eøsl/a61) (1), herunder tilskudd fra stat, kommuner og fylkeskommuner og offentlige investeringer som ikke er på markedsvilkår. Tilskudd fra overnasjonale organer regnes ikke som offentlig tilskudd.
+3. *kulturprodukt:* et dataspill som oppfyller minst tre av følgende kriterier
+
+   1. Designdokumentet eller litterært forelegg er originalskrevet på norsk eller samisk.
+   2. Dataspillet er på norsk eller samisk språk.
+   3. Prosjektet fokuserer på norsk eller samisk språk, kultur og historie, eller tematikk som har relevans for en norsk målgruppe.
+   4. Dataspillet har et vesentlig bidrag fra opphavere eller utøvende kunstnere bosatt i Norge eller et annet EØS-land.
+4. *smalt audiovisuelt verk:* et dataspill som oppfyller minst ett av følgende kriterier:
+
+   1. Dataspillet har Norge som primærmarked.
+   2. Dataspillet inneholder mer enn 50 prosent norsk eller samisk dialog.
+   3. Dataspillet er av tydelig kunstnerisk karakter.
+   4. Dataspillet bruker et eksperimentelt eller innovativt fortellerspråk.
+   5. Dataspillet fokuserer på norsk kultur eller historie.
+   6. Dataspillet er et originalverk rettet mot barn eller unge.
 
 > Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
 
@@ -78,7 +101,13 @@ Søker har plikt til å gi tilskuddsforvalter alle opplysninger som er nødvendi
 
 Mottaker av tilskudd har plikt til å holde tilskuddsforvalter løpende orientert om endrede forhold som kan være av betydning for tilskuddsforvalters vurdering av om forutsetningene for tilskuddet fremdeles er oppfylt. Tilskuddsmottaker skal av eget tiltak innhente dokumenter eller opplysninger fra tredjeparter dersom det er nødvendig.
 
-Tilskuddsmottaker plikter blant annet å opplyse tilskuddsforvalter omall offentlig støtte prosjektet mottarplanlagt overføring av rettigheter i prosjektet til tredjepartplanlagt fusjon eller fisjon av selskap som er mottaker av tilskuddat tilskuddsmottaker tas under konkursbehandlingvesentlige endringer i prosjektet som beskrevet i [§ 2-4](forskrift/2021-02-23-557/§2-4).
+Tilskuddsmottaker plikter blant annet å opplyse tilskuddsforvalter om
+
+1. all offentlig støtte prosjektet mottar
+2. planlagt overføring av rettigheter i prosjektet til tredjepart
+3. planlagt fusjon eller fisjon av selskap som er mottaker av tilskudd
+4. at tilskuddsmottaker tas under konkursbehandling
+5. vesentlige endringer i prosjektet som beskrevet i [§ 2-4](forskrift/2021-02-23-557/§2-4).
 
 > Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
 
@@ -194,7 +223,17 @@ Tilskuddsforvalter har rett til få overlevert materiale fra tilskuddsmottaker t
 
 ### § 3-8. Prioritering
 
-Med mindre annet følger av denne forskriften, skal tilskuddsforvalter i sin vurdering av og prioritering mellom søknader om tilskudd utvikling eller lansering etter dette kapittelet vektlegge:prosjektets kunstneriske kvaliteter og markedspotensial.søkers profesjonalitet og gjennomføringsevne.at tilskuddsmidlene som et hele skal bidra tildataspill på norsk (bokmål og/eller nynorsk) eller samisk til barn og unge.kjønnsbalanse og inkludering, diversitet og representativitet i produksjons-, innholds- og publikumsleddet.prioriterte satsingsområder eller hensyn fastsatt av Kulturdepartementet eller tilskuddsforvalter.prosjekter som kan bidra til utvikling av talentfulle fagarbeidere i dataspillbransjen.å bygge opp under formålet med tilskuddet.
+Med mindre annet følger av denne forskriften, skal tilskuddsforvalter i sin vurdering av og prioritering mellom søknader om tilskudd utvikling eller lansering etter dette kapittelet vektlegge:
+
+1. prosjektets kunstneriske kvaliteter og markedspotensial.
+2. søkers profesjonalitet og gjennomføringsevne.
+3. at tilskuddsmidlene som et hele skal bidra til
+
+   1. dataspill på norsk (bokmål og/eller nynorsk) eller samisk til barn og unge.
+   2. kjønnsbalanse og inkludering, diversitet og representativitet i produksjons-, innholds- og publikumsleddet.
+   3. prioriterte satsingsområder eller hensyn fastsatt av Kulturdepartementet eller tilskuddsforvalter.
+   4. prosjekter som kan bidra til utvikling av talentfulle fagarbeidere i dataspillbransjen.
+   5. å bygge opp under formålet med tilskuddet.
 
 Regionale filmsentre og filmfond kan i sin prioritering i tillegg vektlegge prosjektets regionale tilknytning.
 
@@ -362,7 +401,14 @@ Søker skal ha, eller klarere nødvendige rettigheter for dataspillene for å ku
 
 ### § 6-5. Prioritering
 
-Vedtak om tilskudd baseres på en samlet vurdering avformålet med tilskuddsordningeneprioriterte satsningsområder eller hensyn fastsatt av Kulturdepartementet eller tilskuddsforvalterprosjektets egenart, kunstneriske og/eller kulturelle verdiprosjektets økonomi og bærekraftgeografisk spredningrelevante profesjonelle resultater hos søker eller andre nøkkelpersoner i prosjektet.
+Vedtak om tilskudd baseres på en samlet vurdering av
+
+1. formålet med tilskuddsordningene
+2. prioriterte satsningsområder eller hensyn fastsatt av Kulturdepartementet eller tilskuddsforvalter
+3. prosjektets egenart, kunstneriske og/eller kulturelle verdi
+4. prosjektets økonomi og bærekraft
+5. geografisk spredning
+6. relevante profesjonelle resultater hos søker eller andre nøkkelpersoner i prosjektet.
 
 ### § 6-6. Tilskudd til arrangementer for formidling av dataspill
 
@@ -404,13 +450,27 @@ Tilskuddsmottaker plikter på forespørsel å fremlegge alle opplysninger som er
 
 Regnskap skal føres i henhold til særregler gitt i denne forskriften, gjeldende lover og regler og i tråd med god regnskapsskikk. Tilskuddsforvalter kan fastsette nærmere retningslinjer for regnskapsføring.
 
-Følgende krav gjelder til regnskap ved tilskudd til utvikling og lansering:Det skal føres eget regnskap for hvert dataspill som mottar tilskudd etter [kapittel 3](forskrift/2021-02-23-557/kap3).Regnskapet skal normalt føres i henhold til godkjent kalkyleskjema.Utgifter som dekkes over budsjettpostens uforutsette utgifter skal konteres på den relevante post.Alle avtaler om rettigheter, avtaler med stab og avtaler om kjøp eller leie av et visst omfang, som skal belastes regnskapet, skal inngås skriftlig.
+Følgende krav gjelder til regnskap ved tilskudd til utvikling og lansering:
+
+1. Det skal føres eget regnskap for hvert dataspill som mottar tilskudd etter [kapittel 3](forskrift/2021-02-23-557/kap3).
+2. Regnskapet skal normalt føres i henhold til godkjent kalkyleskjema.
+3. Utgifter som dekkes over budsjettpostens uforutsette utgifter skal konteres på den relevante post.
+4. Alle avtaler om rettigheter, avtaler med stab og avtaler om kjøp eller leie av et visst omfang, som skal belastes regnskapet, skal inngås skriftlig.
 
 ## Kapittel 8. Reaksjoner ved mislighold
 
 ### § 8-1. Omgjøring av vedtak om tildeling av tilskudd
 
-Tilskuddsforvalter kan trekke tilbake tilsagn om tilskudd helt eller delvis og kreve tilbakebetaling av utbetalt tilskudd i følgende situasjoner:Tilskuddsmottaker har brutt opplysningsplikten i [§ 2-3](forskrift/2021-02-23-557/§2-3) ved å gi mangelfulle, uriktige eller misvisende opplysninger av betydning for saken. Det kan for eksempel være opplysninger av betydning for vurderingen og prioriteringen av prosjektet eller for hvorvidt tilskuddsmottaker oppfyller vilkårene i forskriften.Tilskuddsmottaker har ikke benyttet tilskuddet i henhold til vilkår og forutsetninger for tilskuddet.Tilskuddsmottakers drift strider mot lov eller annet relevant regelverk og dette er dokumentert av en annen offentlig myndighet.Tilskuddsmottakers rapportering har vesentlige mangler.Tilskuddet er i strid med [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte.Tilskuddsmottaker har endret prosjektet vesentlig uten godkjenning av tilskuddsforvalter.Tilskuddsmottaker har ikke gjennomført prosjektet, eller det er sannsynliggjort at tilskuddsmottaker ikke vil kunne gjennomføre prosjektet i tråd med betingelser og vilkår i tilskuddsbrevet.Tilskuddsmottaker har på annen vesentlig måte brutt bestemmelsene i denne forskriften eller vilkår fastsatt av tilskuddsforvalter med hjemmel i denne forskriften, for eksempel i retningslinjer.
+Tilskuddsforvalter kan trekke tilbake tilsagn om tilskudd helt eller delvis og kreve tilbakebetaling av utbetalt tilskudd i følgende situasjoner:
+
+1. Tilskuddsmottaker har brutt opplysningsplikten i [§ 2-3](forskrift/2021-02-23-557/§2-3) ved å gi mangelfulle, uriktige eller misvisende opplysninger av betydning for saken. Det kan for eksempel være opplysninger av betydning for vurderingen og prioriteringen av prosjektet eller for hvorvidt tilskuddsmottaker oppfyller vilkårene i forskriften.
+2. Tilskuddsmottaker har ikke benyttet tilskuddet i henhold til vilkår og forutsetninger for tilskuddet.
+3. Tilskuddsmottakers drift strider mot lov eller annet relevant regelverk og dette er dokumentert av en annen offentlig myndighet.
+4. Tilskuddsmottakers rapportering har vesentlige mangler.
+5. Tilskuddet er i strid med [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte.
+6. Tilskuddsmottaker har endret prosjektet vesentlig uten godkjenning av tilskuddsforvalter.
+7. Tilskuddsmottaker har ikke gjennomført prosjektet, eller det er sannsynliggjort at tilskuddsmottaker ikke vil kunne gjennomføre prosjektet i tråd med betingelser og vilkår i tilskuddsbrevet.
+8. Tilskuddsmottaker har på annen vesentlig måte brutt bestemmelsene i denne forskriften eller vilkår fastsatt av tilskuddsforvalter med hjemmel i denne forskriften, for eksempel i retningslinjer.
 
 Ved krav om tilbakebetaling kan det fastsettes rente etter [forsinkelsesrenteloven](lov/1976-12-17-100). Dersom tilbakebetalingskravet skyldes at tilskuddet strider mot EØS-regelverket skal det fastsettes renter og renters rente i tråd med EFTAs overvåkingsorgans referanserente.
 
@@ -432,7 +492,10 @@ Tilskuddsforvalter kan motregne krav som ikke er tilbakebetalt opp mot ikke utbe
 
 Tilskuddsforvalter kan utestenge tilskuddsmottaker fra tilskuddsforvalters tilskuddsordninger i opptil tre år.
 
-Utestengelse kan vedtas:dersom tilbaketrukne midler ikke blir tilbakebetaltved gjentatte eller alvorlige brudd på regelverk eller forutsetninger, som beskrevet i [§ 8-1](forskrift/2021-02-23-557/§8-1) første ledd.
+Utestengelse kan vedtas:
+
+1. dersom tilbaketrukne midler ikke blir tilbakebetalt
+2. ved gjentatte eller alvorlige brudd på regelverk eller forutsetninger, som beskrevet i [§ 8-1](forskrift/2021-02-23-557/§8-1) første ledd.
 
 ## Kapittel 9. Ikrafttredelse
 

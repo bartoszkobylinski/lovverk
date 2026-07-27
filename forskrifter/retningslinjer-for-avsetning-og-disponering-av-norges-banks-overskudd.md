@@ -22,7 +22,9 @@ eu_basis: []
 
 # Retningslinjer for avsetning og disponering av Norges Banks overskudd
 
-1. Av Norges Banks overskudd avsettes til kursreguleringsfondet inntil dette har nådd 5 % av bankens fordringer i norske verdipapirer og 40 % av bankens netto valutareserver unntatt de midler som forvaltes for Statens pensjonsfond utland, andre fordringer på/forpliktelser overfor utlandet og eventuelt andre engasjementer som av hovedstyret vurderes å ha ikke ubetydelig kursrisiko.Dersom kursreguleringsfondet er større enn det som følger av forholdstallene nevnt under pkt. 1, første avsnitt, skal det overskytende tilbakeføres til resultatregnskapet.
+1. Av Norges Banks overskudd avsettes til kursreguleringsfondet inntil dette har nådd 5 % av bankens fordringer i norske verdipapirer og 40 % av bankens netto valutareserver unntatt de midler som forvaltes for Statens pensjonsfond utland, andre fordringer på/forpliktelser overfor utlandet og eventuelt andre engasjementer som av hovedstyret vurderes å ha ikke ubetydelig kursrisiko.
+
+   Dersom kursreguleringsfondet er større enn det som følger av forholdstallene nevnt under pkt. 1, første avsnitt, skal det overskytende tilbakeføres til resultatregnskapet.
 2. Dersom kursreguleringsfondet faller under 25 % av bankens netto valutareserver unntatt de midler som forvaltes for Statens pensjonsfond utland, og andre fordringer på/forpliktelser overfor utlandet ved utgangen av året, skal det tilbakeføres tilgjengelige midler fra overføringsfondet til Norges Banks regnskap inntil kursreguleringsfondet når full størrelse i henhold til punkt 1.
 3. Eventuelt overskudd etter avsetning til, eller tilførsel fra kursreguleringsfondet, avsettes til overføringsfondet.
 4. Eventuelle underskudd i Norges Banks regnskap etter disposisjoner nevnt under punkt 2 dekkes ved overføringer fra kursreguleringsfondet.

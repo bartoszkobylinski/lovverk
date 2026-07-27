@@ -15,7 +15,7 @@ xml_hash: "40351d2182b8ed4d74f39d6a3010634bc8180bd7ac4650a6364d584732e61d80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,13 +40,30 @@ Produkter til byggverk med dokumenterte egenskaper etter denne forskriften skal 
 
 EØS-avtalen vedlegg II kap. XXI nr. 1 (forordning [(EU) nr. 305/2011](eu/32011r0305)) gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
 
-Følgende forordninger gjelder som forskrift med de tilpasninger som følger av protokoll 1 til EØS-avtalen og EØS-avtalen for øvrig:Forordning [(EU) nr. 574/2014](eu/32014r0574) av 21. februar 2014 om endring av vedlegg III til forordning [(EU) nr. 305/2011](eu/32011r0305) om formatet som skal benyttes ved utforming av byggevarers ytelseserklæringForordning [(EU) nr. 568/2014](eu/32014r0568) av 18. februar 2014 om endring av vedlegg V til forordning [(EU) nr. 305/2011](eu/32011r0305) hva gjelder vurdering og verifisering av byggevarers ytelserForordning [(EU) nr. 1062/2013](eu/32013r1062) av 30. oktober 2013 om formatet for den europeiske tekniske bedømmelsen av byggevarerForordning [(EU) nr. 157/2014](eu/32014r0157) av 30. oktober 2013 om vilkår for å gjøre ytelseserklæringer for byggevarer tilgjengelig på et nettstedForordning [(EU) 2016/364](eu/32016r0364) av 1. juli 2015 om klassifisering av byggevarers ytelse ved brannpåvirkning i henhold til europaparlaments- og rådsforordning [(EU) nr. 305/2011](eu/32011r0305).
+Følgende forordninger gjelder som forskrift med de tilpasninger som følger av protokoll 1 til EØS-avtalen og EØS-avtalen for øvrig:
+
+- Forordning [(EU) nr. 574/2014](eu/32014r0574) av 21. februar 2014 om endring av vedlegg III til forordning [(EU) nr. 305/2011](eu/32011r0305) om formatet som skal benyttes ved utforming av byggevarers ytelseserklæring
+- Forordning [(EU) nr. 568/2014](eu/32014r0568) av 18. februar 2014 om endring av vedlegg V til forordning [(EU) nr. 305/2011](eu/32011r0305) hva gjelder vurdering og verifisering av byggevarers ytelser
+- Forordning [(EU) nr. 1062/2013](eu/32013r1062) av 30. oktober 2013 om formatet for den europeiske tekniske bedømmelsen av byggevarer
+- Forordning [(EU) nr. 157/2014](eu/32014r0157) av 30. oktober 2013 om vilkår for å gjøre ytelseserklæringer for byggevarer tilgjengelig på et nettsted
+- Forordning [(EU) 2016/364](eu/32016r0364) av 1. juli 2015 om klassifisering av byggevarers ytelse ved brannpåvirkning i henhold til europaparlaments- og rådsforordning [(EU) nr. 305/2011](eu/32011r0305).
 
 > Endret ved [forskrifter 8 des 2014 nr. 1604](forskrift/2014-12-08-1604) (i kraft 1 jan 2015), [21 sep 2016 nr. 1093](forskrift/2016-09-21-1093).
 
 ### § 3a. Gjennomføring av delegerte rettsakter av teknisk karakter
 
-EØS–avtalen vedlegg II kap. XXInr. 1zzk (forordning [(EU) 2017/959](eu/32017r0959)) om ytelsesklassifisering av varmeisolerende byggevarer med plassformet løsfyll av cellulose (LFCI) med hensyn til horisontal setning og korttidsvannabsorpsjon i samsvar med EN 15101-1nr. 1zzl (forordning [(EU) 2017/1475](eu/32017r1475)) om ytelsesklassifisering av takstein av tegl med hensyn til frostbestandighet i samsvar med EN 1304nr. 2r (forordning [(EU) nr. 1291/2014](eu/32014r1291)) om klassifisering uten prøving av brannmotstand til trebaserte paneler omfattet av EN 13986, samt trepaneler, og kledninger av heltre omfattet av EN 14915, for anvendelse i vegg– eller takkledningnr. 2s (forordning [(EU) nr. 1292/2014](eu/32014r1292)) om klassifisering uten prøving av brannpåvirkning til visse ubehandlede gulvbelegg omfattet av EN 14342nr. 2t (forordning [(EU) nr. 1293/2014](eu/32014r1293)) om klassifisering uten prøving av brannpåvirkning til metallekter, forsterkningsribber for innendørs puss omfattet av EN 13658-1 og utendørs råpuss omfattet av EN 13658-2, og metallekter og karakteristiske profiler omfattet av EN 14353nr. 2u (forordning [(EU) 2017/1227](eu/32017r1227)) om vilkåra for klassifisering utan prøving av limtre og limt laminert heiltre som er omfatta av den harmoniserte standarden EN 14080, og fingerskøytte konstruksjonstre som er omfatta av den harmoniserte standarden EN 15497, med omsyn til brannpåverknaden deira, og om endring av vedtak [2005/610/EF](eu/32005d0610)nr. 2v (forordning [(EU) 2017/1228](eu/32017r1228)) om vilkåra for klassifisering utan prøving av utvendig og innvendig puss som er basert på organiske bindemiddel og omfatta av den harmoniserte standarden EN 15824, og utvendig og innvendig pussmørtel som er omfatta av den harmoniserte standarden EN 998-1, med omsyn til brannpåverknaden deiranr. 2w (forordning [(EU) 2017/2293](eu/32017r2293)) om vilkår for klassifisering uten prøving av produkter av krysslaminert tre som er omfattet av harmonisert standard EN 16351 og produkter av laminert finér som er omfattet av harmonisert standard EN 14374 med hensyn til produktenes egenskaper ved brannpåvirkninggjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+EØS–avtalen vedlegg II kap. XXI
+
+- nr. 1zzk (forordning [(EU) 2017/959](eu/32017r0959)) om ytelsesklassifisering av varmeisolerende byggevarer med plassformet løsfyll av cellulose (LFCI) med hensyn til horisontal setning og korttidsvannabsorpsjon i samsvar med EN 15101-1
+- nr. 1zzl (forordning [(EU) 2017/1475](eu/32017r1475)) om ytelsesklassifisering av takstein av tegl med hensyn til frostbestandighet i samsvar med EN 1304
+- nr. 2r (forordning [(EU) nr. 1291/2014](eu/32014r1291)) om klassifisering uten prøving av brannmotstand til trebaserte paneler omfattet av EN 13986, samt trepaneler, og kledninger av heltre omfattet av EN 14915, for anvendelse i vegg– eller takkledning
+- nr. 2s (forordning [(EU) nr. 1292/2014](eu/32014r1292)) om klassifisering uten prøving av brannpåvirkning til visse ubehandlede gulvbelegg omfattet av EN 14342
+- nr. 2t (forordning [(EU) nr. 1293/2014](eu/32014r1293)) om klassifisering uten prøving av brannpåvirkning til metallekter, forsterkningsribber for innendørs puss omfattet av EN 13658-1 og utendørs råpuss omfattet av EN 13658-2, og metallekter og karakteristiske profiler omfattet av EN 14353
+- nr. 2u (forordning [(EU) 2017/1227](eu/32017r1227)) om vilkåra for klassifisering utan prøving av limtre og limt laminert heiltre som er omfatta av den harmoniserte standarden EN 14080, og fingerskøytte konstruksjonstre som er omfatta av den harmoniserte standarden EN 15497, med omsyn til brannpåverknaden deira, og om endring av vedtak [2005/610/EF](eu/32005d0610)
+- nr. 2v (forordning [(EU) 2017/1228](eu/32017r1228)) om vilkåra for klassifisering utan prøving av utvendig og innvendig puss som er basert på organiske bindemiddel og omfatta av den harmoniserte standarden EN 15824, og utvendig og innvendig pussmørtel som er omfatta av den harmoniserte standarden EN 998-1, med omsyn til brannpåverknaden deira
+- nr. 2w (forordning [(EU) 2017/2293](eu/32017r2293)) om vilkår for klassifisering uten prøving av produkter av krysslaminert tre som er omfattet av harmonisert standard EN 16351 og produkter av laminert finér som er omfattet av harmonisert standard EN 14374 med hensyn til produktenes egenskaper ved brannpåvirkning
+
+gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
 
 > Tilføyd ved [forskrift 31 aug 2015 nr. 1014](forskrift/2015-08-31-1014), endret ved [forskrifter 18 des 2017 nr. 2196](forskrift/2017-12-18-2196), [26 mars 2018 nr. 519](forskrift/2018-03-26-519).
 
@@ -86,7 +103,15 @@ For byggevarer uten vesentlig betydning for at byggverket oppfyller krav i byggt
 
 ### § 10. Dokumentasjon av vesentlige egenskaper
 
-Byggevarer som ikke er CE-merket skal ha slike egenskaper som, når byggevaren er forsvarlig benyttet, medvirker til at byggverk tilfredsstiller grunnleggende krav til:Mekanisk motstandsevne og stabilitetBrannsikkerhetHygiene, helse og miljøSikkerhet og tilgjengelighet ved brukVern mot støyEnergiøkonomisering og varmeisoleringBærekraftig bruk av naturressurser.
+Byggevarer som ikke er CE-merket skal ha slike egenskaper som, når byggevaren er forsvarlig benyttet, medvirker til at byggverk tilfredsstiller grunnleggende krav til:
+
+1. Mekanisk motstandsevne og stabilitet
+2. Brannsikkerhet
+3. Hygiene, helse og miljø
+4. Sikkerhet og tilgjengelighet ved bruk
+5. Vern mot støy
+6. Energiøkonomisering og varmeisolering
+7. Bærekraftig bruk av naturressurser.
 
 Vesentlige egenskaper skal dokumenteres i den grad de er nødvendig for vurdering av byggevarens egnethet til bruk i byggverk. Minst én egenskap skal alltid dokumenteres.
 
@@ -108,7 +133,12 @@ Ikke CE-merkede byggevarer underlegges systemene for vurdering og verifikasjon a
 
 Listen over EU-Kommisjonens vedtak og delegerte rettsakter som fastsetter eller endrer systemene for vurdering og verifikasjon av byggevarers ytelser er lagt ved denne forskriften.
 
-Dersom EU-kommisjonen ikke har fastlagt hvilket system for vurdering og verifikasjon av byggevarers ytelser som gjelder for en byggevare, skal systemet som gjelder for tilsvarende og sammenlignbare CE-merkede byggevarer legges til grunn. Dette avgjøres på bakgrunn av momentene som EU-Kommisjonen legger til grunn:Betydningen byggevaren har for de grunnleggende kravene til byggverkByggevarens artVirkningen av variasjoner i en byggevarens vesentlige egenskaper i løpet av dens forventede levetid, ogRisikoen for at feil oppstår ved produksjon av byggevaren.
+Dersom EU-kommisjonen ikke har fastlagt hvilket system for vurdering og verifikasjon av byggevarers ytelser som gjelder for en byggevare, skal systemet som gjelder for tilsvarende og sammenlignbare CE-merkede byggevarer legges til grunn. Dette avgjøres på bakgrunn av momentene som EU-Kommisjonen legger til grunn:
+
+- Betydningen byggevaren har for de grunnleggende kravene til byggverk
+- Byggevarens art
+- Virkningen av variasjoner i en byggevarens vesentlige egenskaper i løpet av dens forventede levetid, og
+- Risikoen for at feil oppstår ved produksjon av byggevaren.
 
 Tredjepartsorgan skal være akkreditert for de aktuelle oppgavene. Der slik akkreditering ikke er mulig skal tredjepartsorganet dokumentere tilsvarende krav til kompetanse, uavhengighet og upartiskhet.
 
@@ -134,7 +164,10 @@ Dette kapitlet gjelder for løfteinnretninger og varmtvannskjeler.
 
 ### § 16. Løfteinnretning
 
-Bestemmelsen gjelder for permanente løfteinnretninger som løfteplattformer, rulletrapper, rullende fortau og trappeheiser i byggverk med unntak av løfteinnretninger som del av en produksjonsprosess. Følgende krav gjelder:Løfteplattformer, rulletrapper, rullende fortau og trappeheiser skal tilfredsstille Maskindirektivet.Som grunnlag for EU-typegodkjenning skal samsvarsvurdering utføres av teknisk kontrollorgan. Produktet skal vurderes mot tekniske spesifikasjoner og mot relevante sikkerhetskrav i direktivet.
+Bestemmelsen gjelder for permanente løfteinnretninger som løfteplattformer, rulletrapper, rullende fortau og trappeheiser i byggverk med unntak av løfteinnretninger som del av en produksjonsprosess. Følgende krav gjelder:
+
+1. Løfteplattformer, rulletrapper, rullende fortau og trappeheiser skal tilfredsstille Maskindirektivet.
+2. Som grunnlag for EU-typegodkjenning skal samsvarsvurdering utføres av teknisk kontrollorgan. Produktet skal vurderes mot tekniske spesifikasjoner og mot relevante sikkerhetskrav i direktivet.
 
 > Endret ved [forskrift 13 april 2016 nr. 373](forskrift/2016-04-13-373) (i kraft 20 april 2016).
 
@@ -144,17 +177,29 @@ Bestemmelsen gjelder for varmtvannskjel som fyres med flytende eller gassformig 
 
 Varmtvannskjel skal ha samsvarserklæring eller EU-typegodkjenning som omfatter kjelens energieffektivitet. Typegodkjenningen skal være utført av et teknisk kontrollorgan og vurderes direkte mot de sikkerhetskrav som er beskrevet i direktiv som gjelder for det aktuelle produktet.
 
-Typeprøving og vurdering utføres i henhold til regler gitt i eller i medhold av henholdsvisdirektiv [92/42/EØF](eu/31992l0042) om varmtvannskjelerdirektiv [90/396/EØF](eu/31990l0396) om gassinstallasjonerdirektiv [93/68/EØF](eu/31993l0068*) om koordinering av regler om CE-merking.
+Typeprøving og vurdering utføres i henhold til regler gitt i eller i medhold av henholdsvis
+
+1. direktiv [92/42/EØF](eu/31992l0042) om varmtvannskjeler
+2. direktiv [90/396/EØF](eu/31990l0396) om gassinstallasjoner
+3. direktiv [93/68/EØF](eu/31993l0068*) om koordinering av regler om CE-merking.
 
 ### § 18. CE-merking av løfteinnretninger og varmtvannskjeler
 
 Et CE-merke viser at et produkt tilfredsstiller en teknisk spesifikasjon. Med teknisk spesifikasjon i denne bestemmelse menes harmoniserte produktstandarder for løfteinnretninger og varmtvannskjel som bekjentgjort i Den Europeiske Unions Tidende eller nasjonale tekniske spesifikasjoner som er ansett å være i samsvar med de grunnleggende krav og som er bekjentgjort i Den Europeiske Unions Tidende.
 
-Følgende produkter skal påføres CE-merke som angitt i gjeldende direktiver for produktene:løfteinnretning som er i samsvar med grunnleggende krav angitt i Maskindirektivetvarmtvannskjel som er i samsvar med krav angitt i direktivet om varmtvannskjeler CE-merket skal påføres produktet av produsent eller dennes representant. CE-merket skal bestå av bokstavene CE i følgende grafiske utforming:
+Følgende produkter skal påføres CE-merke som angitt i gjeldende direktiver for produktene:
+
+1. løfteinnretning som er i samsvar med grunnleggende krav angitt i Maskindirektivet
+2. varmtvannskjel som er i samsvar med krav angitt i direktivet om varmtvannskjeler CE-merket skal påføres produktet av produsent eller dennes representant. CE-merket skal bestå av bokstavene CE i følgende grafiske utforming:
 
 Dersom CE-merket forminskes eller forstørres, skal størrelsesforholdet slik de framgår av modellen ovenfor overholdes.
 
-CE-merkingen skal omfatte krav angitt i gjeldende direktiv for produktet og kan væreidentifikasjonsnummeret for det organ som har deltatt i produksjonskontrollfasenprodusentens navn eller identifikasjonsmerkede to siste sifrene i det året da merkingen ble påført og om nødvendig produktsertifikatets nummerdeklarerte produktegenskaper, klassifisering og lignende som angitt i direktiv for produktet.
+CE-merkingen skal omfatte krav angitt i gjeldende direktiv for produktet og kan være
+
+1. identifikasjonsnummeret for det organ som har deltatt i produksjonskontrollfasen
+2. produsentens navn eller identifikasjonsmerke
+3. de to siste sifrene i det året da merkingen ble påført og om nødvendig produktsertifikatets nummer
+4. deklarerte produktegenskaper, klassifisering og lignende som angitt i direktiv for produktet.
 
 De ulike delene som CE-merket består av, skal så langt som mulig ha samme høyde og ikke være under 5 mm.
 
@@ -198,7 +243,11 @@ Dersom produsent eller dennes representant trekker et produkt som ikke har tilfr
 
 Ved brudd på reglene i denne forskriftens [kapittel II](forskrift/2013-12-17-1579/kapii), brukes virkemidlene i forordning [(EU) nr. 305/2011](eu/32011r0305) kap. XIII.
 
-Ved brudd på reglene i denne forskriftens [kapittel III](forskrift/2013-12-17-1579/kapiii) og IV, brukes følgende virkemidler:Dersom tilsynsmyndigheten finner at produkt til byggverk ikke har tilfredsstillende produktdokumentasjon etter forskriften, herunder ufullstendig eller uriktig dokumentasjon, kan den gi pålegg om å stanse omsetning, markedsføring, distribusjon og bruk av produktet inntil tilfredsstillende produktdokumentasjon foreligger.Tilsynsmyndigheten kan gi pålegg om å kalle tilbake produkt som beskrevet i første ledd fra markedet eller kan kreve andre tiltak for å sikre at produktet bringes i overensstemmelse med forskriften.I tilfeller der vanlig eller forventet bruk av produkt til byggverk kan utgjøre en alvorlig risiko for sikkerhet, helse eller miljø, kan tilsynsmyndigheten midlertidig stanse omsetning, markedsføring, distribusjon og bruk av produkter for å utføre nødvendige undersøkelser og sikkerhetsvurderinger.
+Ved brudd på reglene i denne forskriftens [kapittel III](forskrift/2013-12-17-1579/kapiii) og IV, brukes følgende virkemidler:
+
+1. Dersom tilsynsmyndigheten finner at produkt til byggverk ikke har tilfredsstillende produktdokumentasjon etter forskriften, herunder ufullstendig eller uriktig dokumentasjon, kan den gi pålegg om å stanse omsetning, markedsføring, distribusjon og bruk av produktet inntil tilfredsstillende produktdokumentasjon foreligger.
+2. Tilsynsmyndigheten kan gi pålegg om å kalle tilbake produkt som beskrevet i første ledd fra markedet eller kan kreve andre tiltak for å sikre at produktet bringes i overensstemmelse med forskriften.
+3. I tilfeller der vanlig eller forventet bruk av produkt til byggverk kan utgjøre en alvorlig risiko for sikkerhet, helse eller miljø, kan tilsynsmyndigheten midlertidig stanse omsetning, markedsføring, distribusjon og bruk av produkter for å utføre nødvendige undersøkelser og sikkerhetsvurderinger.
 
 Tilsynsmyndigheten kan ilegge tvangsmulkt etter plan- og [bygningsloven § 29-7b](lov/2008-06-27-71/§29-7b) dersom pålegg etter første eller annet ledd i denne paragrafen ikke etterkommes.
 
@@ -214,7 +263,14 @@ Tilsynsmyndigheten kan ilegge overtredelsesgebyr inntil kr 50 000 for mindre av
 
 ### § 25. Utmåling av overtredelsesgebyr
 
-Ved vurdering av overtredelsesgebyrets størrelse kan tilsynsmyndigheten legge vekt på:Hvor alvorlig overtredelsen erOm eventuelt pålegg gitt med hjemmel i denne forskriftens [§ 23](forskrift/2013-12-17-1579/§23) er fulgtOm overtrederen gjentatte ganger har vært ansvarlig for forhold som kan medføre overtredelsesgebyrOm overtredelsen bidrar til økonomisk gevinstOm overtredelsen er gjort i vinnings hensiktOm overtredelsesgebyret vil virke urimelig ut fra overtrederens økonomiske situasjon.
+Ved vurdering av overtredelsesgebyrets størrelse kan tilsynsmyndigheten legge vekt på:
+
+1. Hvor alvorlig overtredelsen er
+2. Om eventuelt pålegg gitt med hjemmel i denne forskriftens [§ 23](forskrift/2013-12-17-1579/§23) er fulgt
+3. Om overtrederen gjentatte ganger har vært ansvarlig for forhold som kan medføre overtredelsesgebyr
+4. Om overtredelsen bidrar til økonomisk gevinst
+5. Om overtredelsen er gjort i vinnings hensikt
+6. Om overtredelsesgebyret vil virke urimelig ut fra overtrederens økonomiske situasjon.
 
 ### § 26. Gebyr
 
@@ -426,7 +482,15 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EU) nr. 305/2011](eu/32011r0305) av 9. mars 2011 om fastsettelse av harmoniserte vilkår for markedsføring av byggevarer og om oppheving av rådsdirektiv [89/106/EØF](eu/31989l0106),1 særlig artikkel 27 nr. 1, og
 
-ut fra følgende betraktninger:Ved kommisjonsvedtak [2000/147/EU](eu/32000d0147*)2 ble det vedtatt et system for klassifisering av byggevarers ytelse ved brannpåvirkning. Det var basert på en harmonisert løsning for vurdering av denne ytelsen og for klassifisering av resultatene av disse vurderingene.I vedtak [2000/147/EC](eu/32000d0147*) er det fastsatt en rekke klasser for ytelse ved brannpåvirkning. Dessuten inneholder det klasse F, FFL, FL og Fca, som er oppført med «ingen ytelse angitt» («inga fastlagd yting»).I samsvar med artikkel 2 nr. 7 i forordning [(EU) nr. 305/2011](eu/32011r0305) menes med «klasse» en rekke nivåer, avgrenset ved en laveste og høyeste verdi for en byggevares ytelse. Klasser oppført med «ingen ytelse angitt» er ikke i samsvar med denne definisjonen og kan derfor ikke innarbeides i et klassifiseringssystem i henhold til forordning [(EU) nr. 305/2011](eu/32011r0305).Bruken av «ingen ytelse angitt» i forbindelse med utarbeiding av ytelseserklæringen er fastsatt i artikkel 6 nr. 3 bokstav f) i forordning [(EU) nr. 305/2011](eu/32011r0305).For å gjøre det mulig for produsentene å erklære en lavere ytelse ved brannpåvirkning enn det som omfattes av klasse E, EFL, EL og Eca, er det nødvendig å endre klassifiseringskriteriene for klasse F, FFL, FL og Fca.Klasse F, FFL, FL og Fca som fastsatt i vedtak [2000/147/EF](eu/32000d0147*) må derfor erstattes med nye klasser for varer som ikke når minst den ytelsen ved brannpåvirkning som omfattes av klasse E, EFL, EL og Eca.Vedtak [2000/147/EF](eu/32000d0147*) er endret flere ganger, og det er nødvendig med ytterligere endringer. Av klarhets- og forenklingshensyn bør derfor nevnte vedtak oppheves og erstattes –
+ut fra følgende betraktninger:
+
+1. Ved kommisjonsvedtak [2000/147/EU](eu/32000d0147*)2 ble det vedtatt et system for klassifisering av byggevarers ytelse ved brannpåvirkning. Det var basert på en harmonisert løsning for vurdering av denne ytelsen og for klassifisering av resultatene av disse vurderingene.
+2. I vedtak [2000/147/EC](eu/32000d0147*) er det fastsatt en rekke klasser for ytelse ved brannpåvirkning. Dessuten inneholder det klasse F, FFL, FL og Fca, som er oppført med «ingen ytelse angitt» («inga fastlagd yting»).
+3. I samsvar med artikkel 2 nr. 7 i forordning [(EU) nr. 305/2011](eu/32011r0305) menes med «klasse» en rekke nivåer, avgrenset ved en laveste og høyeste verdi for en byggevares ytelse. Klasser oppført med «ingen ytelse angitt» er ikke i samsvar med denne definisjonen og kan derfor ikke innarbeides i et klassifiseringssystem i henhold til forordning [(EU) nr. 305/2011](eu/32011r0305).
+4. Bruken av «ingen ytelse angitt» i forbindelse med utarbeiding av ytelseserklæringen er fastsatt i artikkel 6 nr. 3 bokstav f) i forordning [(EU) nr. 305/2011](eu/32011r0305).
+5. For å gjøre det mulig for produsentene å erklære en lavere ytelse ved brannpåvirkning enn det som omfattes av klasse E, EFL, EL og Eca, er det nødvendig å endre klassifiseringskriteriene for klasse F, FFL, FL og Fca.
+6. Klasse F, FFL, FL og Fca som fastsatt i vedtak [2000/147/EF](eu/32000d0147*) må derfor erstattes med nye klasser for varer som ikke når minst den ytelsen ved brannpåvirkning som omfattes av klasse E, EFL, EL og Eca.
+7. Vedtak [2000/147/EF](eu/32000d0147*) er endret flere ganger, og det er nødvendig med ytterligere endringer. Av klarhets- og forenklingshensyn bør derfor nevnte vedtak oppheves og erstattes –
 
 1 EUT L 88 av 4.4.2011, s. 5.
 
@@ -465,19 +529,49 @@ Klasser for ytelse ved brannpåvirkning
 
 1.1.
 
-I tabell 1–4 gjelder følgende symboler:1«ΔT» – temperaturstigning«Δm» – massetap«tf » – flammeavgivningstid«PCS» – brutto brennverdi«LFS» – sideveis flammespredning«SMOGRA» – røykutviklingsfart
+I tabell 1–4 gjelder følgende symboler:1
+
+1. «ΔT» – temperaturstigning
+2. «Δm» – massetap
+3. «tf » – flammeavgivningstid
+4. «PCS» – brutto brennverdi
+5. «LFS» – sideveis flammespredning
+6. «SMOGRA» – røykutviklingsfart
 
 1.2.
 
-I tabell 1, 2 og 3 gjelder følgende symboler:1«FIGRA» – brannutviklingsfart«THR» – samlet varmeavgivning«TSP» – samlet røykutvikling«Fs» – flammespredning
+I tabell 1, 2 og 3 gjelder følgende symboler:1
+
+1. «FIGRA» – brannutviklingsfart
+2. «THR» – samlet varmeavgivning
+3. «TSP» – samlet røykutvikling
+4. «Fs» – flammespredning
 
 1.3.
 
-I tabell 4 gjelder følgende symboler og prøvingsparametrer:«HRRsm30, kW» – varmeavgivningsfart beregnet som et glidende gjennomsnitt over 30 sekunder«SPRsm60, m2 /s» – røykutviklingsfart beregnet som et glidende gjennomsnitt over 60 sekunder«Største HRR, kW» – største HRRsm30 mellom starten og slutten av prøvingen, eksklusive medvirkning fra tennkilden«Største SPR,m2 /s» – største SPRsm60 mellom starten og slutten av prøvingen«THR1200, MJ» – samlet varmeavgivning (HRRsm30 ) fra starten til slutten av prøvingen, eksklusive medvirkning fra tennkilden«TSP1200, m2 » – samlet røykutvikling (HRRsm60 ) fra starten til slutten av prøvingen«FIGRA, W/s» – indeksen for brannutviklingsfart definert som den høyeste verdien av kvotienten mellom HRRsm30, eksklusive medvirkning fra tennkilden, og tiden. Terskelverdier: HRRsm30 = 3 kW og THR = 0,4 MJ«FS» – flammespredning (skadens lengde)«H» – flammespredning
+I tabell 4 gjelder følgende symboler og prøvingsparametrer:
+
+1. «HRRsm30, kW» – varmeavgivningsfart beregnet som et glidende gjennomsnitt over 30 sekunder
+2. «SPRsm60, m2 /s» – røykutviklingsfart beregnet som et glidende gjennomsnitt over 60 sekunder
+3. «Største HRR, kW» – største HRRsm30 mellom starten og slutten av prøvingen, eksklusive medvirkning fra tennkilden
+4. «Største SPR,m2 /s» – største SPRsm60 mellom starten og slutten av prøvingen
+5. «THR1200, MJ» – samlet varmeavgivning (HRRsm30 ) fra starten til slutten av prøvingen, eksklusive medvirkning fra tennkilden
+6. «TSP1200, m2 » – samlet røykutvikling (HRRsm60 ) fra starten til slutten av prøvingen
+7. «FIGRA, W/s» – indeksen for brannutviklingsfart definert som den høyeste verdien av kvotienten mellom HRRsm30, eksklusive medvirkning fra tennkilden, og tiden. Terskelverdier: HRRsm30 = 3 kW og THR = 0,4 MJ
+8. «FS» – flammespredning (skadens lengde)
+9. «H» – flammespredning
 
 2\.
 
-I tabell 1–4 menes med:«materiale» et enkelt basisstoff eller en ensartet blanding av stoffer,«ensartet vare» en vare som består av ett enkelt materiale, og som har ensartet tetthet og sammensetning gjennom hele varen,«uensartet vare» en vare som ikke oppfyller kravene til en ensartet vare, og som består av en eller flere vesentlige og/eller uvesentlige komponenter,«vesentlig komponent» et materiale som utgjør en betydelig del av en uensartet vare. Et lag som har en masse per flateenhet på ≥ 1,0 kg/m2 eller en tykkelse på ≥ 1,0 mm, anses som en vesentlig komponent,«uvesentlig komponent» et materiale som ikke utgjør en betydelig del av en uensartet vare. Et lag som har en masse per flateenhet på < 1,0 kg/m2 og en tykkelse på < 1,0 mm, anses som en uvesentlig komponent,«indre uvesentlig komponent» en uvesentlig komponent som på begge sider er dekket av minst én vesentlig komponent,«ytre uvesentlig komponent» en uvesentlig komponent som på en side ikke er dekket av en vesentlig komponent,
+I tabell 1–4 menes med:
+
+1. «materiale» et enkelt basisstoff eller en ensartet blanding av stoffer,
+2. «ensartet vare» en vare som består av ett enkelt materiale, og som har ensartet tetthet og sammensetning gjennom hele varen,
+3. «uensartet vare» en vare som ikke oppfyller kravene til en ensartet vare, og som består av en eller flere vesentlige og/eller uvesentlige komponenter,
+4. «vesentlig komponent» et materiale som utgjør en betydelig del av en uensartet vare. Et lag som har en masse per flateenhet på ≥ 1,0 kg/m2 eller en tykkelse på ≥ 1,0 mm, anses som en vesentlig komponent,
+5. «uvesentlig komponent» et materiale som ikke utgjør en betydelig del av en uensartet vare. Et lag som har en masse per flateenhet på < 1,0 kg/m2 og en tykkelse på < 1,0 mm, anses som en uvesentlig komponent,
+6. «indre uvesentlig komponent» en uvesentlig komponent som på begge sider er dekket av minst én vesentlig komponent,
+7. «ytre uvesentlig komponent» en uvesentlig komponent som på en side ikke er dekket av en vesentlig komponent,
 
 To eller flere uvesentlige lag som grenser til hverandre, uten noen vesentlige komponenter mellom, skal anses som én uvesentlig komponent og skal derfor klassifiseres i samsvar med kriteriene for et lag som er en uvesentlig komponent.
 

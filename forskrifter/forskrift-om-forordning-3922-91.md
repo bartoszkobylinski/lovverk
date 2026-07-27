@@ -15,7 +15,7 @@ xml_hash: "a24c9ebb7129e7033aeb750bb07f43fb7199d33ecb48a58678bff2de81980f24"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,18 @@ eu_basis: []
 
 ### § 1. Gjennomføring av forordning (EØF) nr. 3922/91
 
-EØS-avtalen vedlegg XIII nr. 66a (forordning [(EØF) nr. 3922/91](eu/31991r3922)) om harmonisering av tekniske krav og administrative fremgangsmåter i sivil luftfart, som endret ved:forordning [(EF) nr. 2176/96](eu/31996r2176) av 13. november 1996forordning [(EF) nr. 1069/1999](eu/31999r1069) av 25. mai 1999forordning [(EF) nr. 2871/2000](eu/32000r2871) av 28. desember 2000forordning [(EF) nr. 1592/2002](eu/32002r1592) av 15. juli 2002forordning [(EF) nr. 1899/2006](eu/32006r1899) av 12. desember 2006forordning [(EF) nr. 1900/2006](eu/32006r1900) av 20. desember 2006forordning [(EF) nr. 8/2008](eu/32008r0008) av 11. desember 2007forordning [(EF) nr. 859/2008](eu/32008r0859) av 20. august 2008gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+EØS-avtalen vedlegg XIII nr. 66a (forordning [(EØF) nr. 3922/91](eu/31991r3922)) om harmonisering av tekniske krav og administrative fremgangsmåter i sivil luftfart, som endret ved:
+
+1. forordning [(EF) nr. 2176/96](eu/31996r2176) av 13. november 1996
+2. forordning [(EF) nr. 1069/1999](eu/31999r1069) av 25. mai 1999
+3. forordning [(EF) nr. 2871/2000](eu/32000r2871) av 28. desember 2000
+4. forordning [(EF) nr. 1592/2002](eu/32002r1592) av 15. juli 2002
+5. forordning [(EF) nr. 1899/2006](eu/32006r1899) av 12. desember 2006
+6. forordning [(EF) nr. 1900/2006](eu/32006r1900) av 20. desember 2006
+7. forordning [(EF) nr. 8/2008](eu/32008r0008) av 11. desember 2007
+8. forordning [(EF) nr. 859/2008](eu/32008r0859) av 20. august 2008
+
+gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
 > Endret ved [forskrifter 20 juni 2008 nr. 640](forskrift/2008-06-20-640) (i kraft 16 juli 2008), [2 juni 2009 nr. 614](forskrift/2009-06-02-614).
 
@@ -60,7 +71,12 @@ Den maksimale daglige flygetjenesteperioden (FDP) reduseres med 30 minutter for 
 
 ### § 6. Ambulanseflyging (EMS)
 
-(1) Med ambulanseflyging menes det i denne forskrift flyging hvor formålet er å utføre transport som er direkte forbundet med:Alvorlig syke eller tilskadekomne personer, med deres pårørende, og medisinsk personale, til et sted hvor nødvendig behandling kan finne sted.Medisinsk personale som kreves for å utføre nødvendige oppgaver.Livsviktige medisinske forsyninger som blant annet utstyr, blod, organer og medisiner.Nødvendig transport av personer eller medisinske forsyninger i forbindelse med a), b) eller c) over.
+(1) Med ambulanseflyging menes det i denne forskrift flyging hvor formålet er å utføre transport som er direkte forbundet med:
+
+1. Alvorlig syke eller tilskadekomne personer, med deres pårørende, og medisinsk personale, til et sted hvor nødvendig behandling kan finne sted.
+2. Medisinsk personale som kreves for å utføre nødvendige oppgaver.
+3. Livsviktige medisinske forsyninger som blant annet utstyr, blod, organer og medisiner.
+4. Nødvendig transport av personer eller medisinske forsyninger i forbindelse med a), b) eller c) over.
 
 (2) For å gjennomføre ambulanseflyginger kan maksimal daglig basis flygetjenesteperiode (FDP) etter bestemmelsen i OPS 1.1105 pkt. 1.3 forlenges med 2 timer.
 
@@ -82,11 +98,19 @@ Den maksimale daglige flygetjenesteperioden (FDP) reduseres med 30 minutter for 
 
 ### § 9. Beregning av hvile ved flyging mellom flere tidssoner
 
-Følgende bestemmelser gjelder for en flygetjenesteperiode (FDP) som avsluttes på et sted som har en tidssoneforskjell på tre timer eller mer fra det sted hvor man sist benyttet lokal tid til tjenesteberegning:Dersom det er tildelt en hvileperiode som inneholder tre lokale netter på en utestasjon, skal de etterfølgende daglige flygetjenesteperiodene beregnes etter bestemmelsene i OPS 1.1105.Hvis betingelsene i bokstav a ikke er oppfylt, skal etterfølgende maksimal daglig flygetjenesteperiode (FDP) ikke overstige 11 timer og 30 minutter. Den maksimale daglige flygetjenesteperioden (FDP) reduseres med 30 minutter for hver landing regnet fra og med den andre landingen i flygetjenesteperioden.Hvis den daglige flygetjenesteperioden (FDP) i bokstav b er planlagt å overstige 4 timer og 30 minutter, skal de etterfølgende hvileperiodene forøkes med tidssoneforskjellen fra forutgående hvilested. Tillegget for tidssoneforskjell kommer ikke til anvendelse hvis hvileperioden i utgangspunktet alt overstiger 15 timer.Ved tilbakekomst til hjemmebasen, skal besetningsmedlemmet tildeles en hvileperiode på minst 4 timer og 30 minutter multiplisert med tidssoneforskjellen mellom hjemmebasen og den fjernest beliggende hvilested. Denne hvileperioden skal etterfølges av en hvileperiode etter OPS 1.1110 pkt. 2.1.
+Følgende bestemmelser gjelder for en flygetjenesteperiode (FDP) som avsluttes på et sted som har en tidssoneforskjell på tre timer eller mer fra det sted hvor man sist benyttet lokal tid til tjenesteberegning:
+
+1. Dersom det er tildelt en hvileperiode som inneholder tre lokale netter på en utestasjon, skal de etterfølgende daglige flygetjenesteperiodene beregnes etter bestemmelsene i OPS 1.1105.
+2. Hvis betingelsene i bokstav a ikke er oppfylt, skal etterfølgende maksimal daglig flygetjenesteperiode (FDP) ikke overstige 11 timer og 30 minutter. Den maksimale daglige flygetjenesteperioden (FDP) reduseres med 30 minutter for hver landing regnet fra og med den andre landingen i flygetjenesteperioden.
+3. Hvis den daglige flygetjenesteperioden (FDP) i bokstav b er planlagt å overstige 4 timer og 30 minutter, skal de etterfølgende hvileperiodene forøkes med tidssoneforskjellen fra forutgående hvilested. Tillegget for tidssoneforskjell kommer ikke til anvendelse hvis hvileperioden i utgangspunktet alt overstiger 15 timer.
+4. Ved tilbakekomst til hjemmebasen, skal besetningsmedlemmet tildeles en hvileperiode på minst 4 timer og 30 minutter multiplisert med tidssoneforskjellen mellom hjemmebasen og den fjernest beliggende hvilested. Denne hvileperioden skal etterfølges av en hvileperiode etter OPS 1.1110 pkt. 2.1.
 
 ### § 10. Beredskapstjeneste på flyplass (airport standby)
 
-Beredskapstjeneste på flyplass reguleres av OPS 1.1125 [pkt](forskrift/2008-02-21-189/kap1). 1 med følgende tillegg:Dersom beredskapstjenesten umiddelbart etterfølges av en flygetjenesteperiode, skal 100 prosent av den forutgående beredskapstjenesten medberegnes i den daglige flygetjenesteperioden (FDP).Dersom beredskapstjenesten ikke umiddelbart etterfølges av en flygetjenesteperiode, skal beredskapskapstjenesten etterfølges av minst en hvileperiode fastsatt etter OPS 1.1110.
+Beredskapstjeneste på flyplass reguleres av OPS 1.1125 [pkt](forskrift/2008-02-21-189/kap1). 1 med følgende tillegg:
+
+1. Dersom beredskapstjenesten umiddelbart etterfølges av en flygetjenesteperiode, skal 100 prosent av den forutgående beredskapstjenesten medberegnes i den daglige flygetjenesteperioden (FDP).
+2. Dersom beredskapstjenesten ikke umiddelbart etterfølges av en flygetjenesteperiode, skal beredskapskapstjenesten etterfølges av minst en hvileperiode fastsatt etter OPS 1.1110.
 
 ### § 11. Beredskapstjeneste utenfor flyplass (other forms of standby)
 

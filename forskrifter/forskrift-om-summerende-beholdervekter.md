@@ -15,7 +15,7 @@ xml_hash: "76a34d20538ea32c0840549786d0c997e344e79023c3c86ed2aca5052f849b25"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,16 @@ Forskriften setter ikke krav til elektromagnetisk stråling som avgis av målein
 
 ### § 2. Definisjoner
 
-I denne forskrift menes med:*Automatisk diskontinuerlig summeringsvekt (summerende beholdervekt):* En automatisk vekt som veier et bulkprodukt ved å dele det opp i enkeltveiinger, bestemme i rekkefølge massen til hver enkeltveiing, summere veieresultatene og levere enkeltveiingene til bulk*Automatisk vekt:* Et måleredskap som bestemmer massen av et produkt uten inngrep fra en operatør, og som følger et forhåndsdefinert program av automatiske prosesser karakteristisk for måleredskapet*Målestørrelsen:* Den bestemte størrelsen som skal måles*Påvirkende størrelse:* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet*Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør vektens normale driftsbetingelser*Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor vektens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser*Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket*Klimatiske miljøer:* De omgivelser der summerende beholdervekter kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+I denne forskrift menes med:
+
+1. *Automatisk diskontinuerlig summeringsvekt (summerende beholdervekt):* En automatisk vekt som veier et bulkprodukt ved å dele det opp i enkeltveiinger, bestemme i rekkefølge massen til hver enkeltveiing, summere veieresultatene og levere enkeltveiingene til bulk
+2. *Automatisk vekt:* Et måleredskap som bestemmer massen av et produkt uten inngrep fra en operatør, og som følger et forhåndsdefinert program av automatiske prosesser karakteristisk for måleredskapet
+3. *Målestørrelsen:* Den bestemte størrelsen som skal måles
+4. *Påvirkende størrelse:* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet
+5. *Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør vektens normale driftsbetingelser
+6. *Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor vektens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser
+7. *Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket
+8. *Klimatiske miljøer:* De omgivelser der summerende beholdervekter kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
 
 ### § 3. Krav til summerende beholdervekter under bruk
 
@@ -111,9 +120,21 @@ Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskreve
 | E2 | Denne klassen omfatter vekter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
 | E3 | Denne klassen omfatter vekter som får strøm fra batteriet i et kjøretøy. Slike vekter skal oppfylle kravene for E2 samt følgende tilleggskrav:<br>spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
-Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
+Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:SpenningsvariasjonVariasjoner i nettfrekvensNettgenererte magnetiske feltAndre størrelser som kan påvirke den vektens nøyaktighet i vesentlig grad.
+1. Spenningsavbrudd
+2. Kortvarig redusert spenning
+3. Spenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladninger
+4. Høyfrekvente elektromagnetisk felt
+5. Overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. Overspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:
+
+1. Spenningsvariasjon
+2. Variasjoner i nettfrekvens
+3. Nettgenererte magnetiske felt
+4. Andre størrelser som kan påvirke den vektens nøyaktighet i vesentlig grad.
 
 ### § 12. Grunnleggende regler for forsøk og bestemmelse av feil
 
@@ -149,7 +170,12 @@ En summerende beholdervekt skal konstrueres slik at virkningen av en funksjonsfe
 
 ### § 19. Egnethet
 
-En summerende beholdervekt skal være:Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatRobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserKonstruert slik at målefunksjonen skal kunne kontrolleres etter at vekten er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av vekten. Testprosedyren skal være beskrevet i bruksanvisningenUfølsom overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom vekten er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+En summerende beholdervekt skal være:
+
+1. Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat
+2. Robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser
+3. Konstruert slik at målefunksjonen skal kunne kontrolleres etter at vekten er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av vekten. Testprosedyren skal være beskrevet i bruksanvisningen
+4. Ufølsom overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom vekten er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
 
 En summerende beholdervekt skal ikke være av en slik art at det lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
 
@@ -167,9 +193,23 @@ Måledata, programvare som er av avgjørende betydning for måleegenskapene, og 
 
 ### § 21. Opplysninger som skal påføres eller følge den summerende beholdervekten
 
-En summerende beholdervekt skal være påført produsentens merke eller navn og opplysninger om vektens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres den summerende beholdervekten:Relevante opplysninger om bruksbetingelserMålekapasitetMåleområdeIdentitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseOpplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+En summerende beholdervekt skal være påført produsentens merke eller navn og opplysninger om vektens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres den summerende beholdervekten:
 
-Opplysninger om betjening skal følge den summerende beholdervekten med mindre vekten er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:Angitte driftsbetingelserElektromagnetisk miljøØvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
+1. Relevante opplysninger om bruksbetingelser
+2. Målekapasitet
+3. Måleområde
+4. Identitetsmerke
+5. Nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse
+6. Opplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+
+Opplysninger om betjening skal følge den summerende beholdervekten med mindre vekten er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:
+
+1. Angitte driftsbetingelser
+2. Elektromagnetisk miljø
+3. Øvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plassering
+4. Anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. Anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. Vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
 
 Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes.
 
@@ -201,7 +241,18 @@ En summerende beholdervekt skal være konstruert slik at det lett kan vurderes o
 
 ### § 26. Angitte driftsbetingelser
 
-Produsenten skal angi nominelle bruksforhold som følger:For målestørrelsen: Måleområdet i form av største og minste last.For påvirkende størrelser fra elektrisitetsforsyning:For vekselstrømforsyning: Nominell vekselstrømspenning, eller grenser for vekselstrømspenning.For likestrømforsyning: Nominell og minste likestrømspenning, eller grenser for likestrømspenning.For mekaniske og klimatiske påvirkende størrelser: Minste temperaturintervall er 30 °C. For vekter som brukes under spesiell mekanisk belastning, f.eks. vekter som er innbygd i kjøretøyer, skal produsenten definere de mekaniske bruksforholdene.For andre påvirkende størrelser (om relevant):Arbeidshastighet(er)Egenskaper ved produkt(er) til veiing.
+Produsenten skal angi nominelle bruksforhold som følger:
+
+1. For målestørrelsen: Måleområdet i form av største og minste last.
+2. For påvirkende størrelser fra elektrisitetsforsyning:
+
+   1. For vekselstrømforsyning: Nominell vekselstrømspenning, eller grenser for vekselstrømspenning.
+   2. For likestrømforsyning: Nominell og minste likestrømspenning, eller grenser for likestrømspenning.
+3. For mekaniske og klimatiske påvirkende størrelser: Minste temperaturintervall er 30 °C. For vekter som brukes under spesiell mekanisk belastning, f.eks. vekter som er innbygd i kjøretøyer, skal produsenten definere de mekaniske bruksforholdene.
+4. For andre påvirkende størrelser (om relevant):
+
+   1. Arbeidshastighet(er)
+   2. Egenskaper ved produkt(er) til veiing.
 
 ### § 27. Egnethet
 
@@ -256,7 +307,10 @@ Minste tillatte summerte mengde (Σmin ) skal ikke være under den last der maks
 
 ### § 33. Nullstilling
 
-Summerende beholdervekter som ikke tarerer vekten etter hver tømming, skal ha en nullstillingsanordning. Automatisk drift skal deaktiveres dersom nullvisningen varierer med1 dt på vekter med automatisk nullstillingsanordning eller0,5 dt på vekter med en halvautomatisk, eller ikke-automatisk, nullstillingsanordning.
+Summerende beholdervekter som ikke tarerer vekten etter hver tømming, skal ha en nullstillingsanordning. Automatisk drift skal deaktiveres dersom nullvisningen varierer med
+
+1. 1 dt på vekter med automatisk nullstillingsanordning eller
+2. 0,5 dt på vekter med en halvautomatisk, eller ikke-automatisk, nullstillingsanordning.
 
 ### § 34. Brukergrensesnitt
 

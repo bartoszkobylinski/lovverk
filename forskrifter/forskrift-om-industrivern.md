@@ -15,7 +15,7 @@ xml_hash: "193581f4718c49ea0b755794a74ffffd82a0c717a6048d5bc3483c1983121bd0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -90,7 +90,16 @@ Næringslivets sikkerhetsorganisasjon kan pålegge også andre virksomheter enn 
 
 ### § 3. Definisjoner
 
-I forskriften menes med*industrivern:* ordning som sikrer at kvalifisert personell i en virksomhet er tilgjengelig for innsats på kort varsel*fagleder industrivern:* den som på virksomhetens vegne har ansvaret for å iverksette forsvarlige og effektive tiltak umiddelbart etter at en hendelse inntreffer*håndtering:* enhver omgang med godset slik som oppbevaring, behandling, lasting og lossing*innsatsperson:* person i industrivernet som skal være i operativ innsats på skadested*innsatspersonell:* fellesbetegnelse på fagleder industrivern og innsatspersoner*sysselsatte:* fast eller midlertidig ansatte og innleide og eventuelt andre som har et avtaleforhold med virksomheten som innebærer tilstedeværelse*uønsket hendelse:* hendelse som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø, materielle verdier og kritisk infrastruktur*øvelse:* alle aktiviteter som vedlikeholder eller øker ferdighetene i å kunne håndtere virksomhetens uønskede hendelser.
+I forskriften menes med
+
+1. *industrivern:* ordning som sikrer at kvalifisert personell i en virksomhet er tilgjengelig for innsats på kort varsel
+2. *fagleder industrivern:* den som på virksomhetens vegne har ansvaret for å iverksette forsvarlige og effektive tiltak umiddelbart etter at en hendelse inntreffer
+3. *håndtering:* enhver omgang med godset slik som oppbevaring, behandling, lasting og lossing
+4. *innsatsperson:* person i industrivernet som skal være i operativ innsats på skadested
+5. *innsatspersonell:* fellesbetegnelse på fagleder industrivern og innsatspersoner
+6. *sysselsatte:* fast eller midlertidig ansatte og innleide og eventuelt andre som har et avtaleforhold med virksomheten som innebærer tilstedeværelse
+7. *uønsket hendelse:* hendelse som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø, materielle verdier og kritisk infrastruktur
+8. *øvelse:* alle aktiviteter som vedlikeholder eller øker ferdighetene i å kunne håndtere virksomhetens uønskede hendelser.
 
 > Endret ved [forskrifter 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015), [22 mai 2019 nr. 672](forskrift/2019-05-22-672) (i kraft 1 jan 2020).
 
@@ -120,7 +129,11 @@ Industrivernet skal organiseres med fagleder industrivern og tilstrekkelig antal
 
 ### § 7. Beredskapsplan
 
-Virksomheten skal utarbeide en skriftlig beredskapsplan. Beredskapsplanen skal inneholde opplysninger om hvordan industrivernet er organisert, og beskrive:plan for varslinghandling som umiddelbart skal utføres ved alarmtilgjengelige interne og eksterne ressurser.
+Virksomheten skal utarbeide en skriftlig beredskapsplan. Beredskapsplanen skal inneholde opplysninger om hvordan industrivernet er organisert, og beskrive:
+
+1. plan for varsling
+2. handling som umiddelbart skal utføres ved alarm
+3. tilgjengelige interne og eksterne ressurser.
 
 Beredskapsplanen skal gjennomgås minimum én gang i året. Ved endringer som påvirker virksomhetens risiko eller beredskapsbehov skal beredskapsplanen oppdateres.
 
@@ -178,7 +191,14 @@ Industrivernpliktige virksomheter plikter etter anmodning å yte bistand til ann
 
 ### § 14. Virksomheter med potensial for hendelser med alvorlige konsekvenser
 
-Industrivernet skal forsterkes dersom uønskede hendelser, i forbindelse med aktiviteten i virksomheten, kan medføre én eller flere av følgende konsekvenser:to eller flere alvorlig skadde personer i samme hendelseeksponering av personer utenfor virksomhetenbetydelige og langvarige miljøskaderbetydelige materielle skader.Slike virksomheter skal i tillegg til kravene i [kapittel 2](forskrift/2011-12-20-1434/kap2), også etterleve kravene i [kapittel 3](forskrift/2011-12-20-1434/kap3).
+Industrivernet skal forsterkes dersom uønskede hendelser, i forbindelse med aktiviteten i virksomheten, kan medføre én eller flere av følgende konsekvenser:
+
+1. to eller flere alvorlig skadde personer i samme hendelse
+2. eksponering av personer utenfor virksomheten
+3. betydelige og langvarige miljøskader
+4. betydelige materielle skader.
+
+Slike virksomheter skal i tillegg til kravene i [kapittel 2](forskrift/2011-12-20-1434/kap2), også etterleve kravene i [kapittel 3](forskrift/2011-12-20-1434/kap3).
 
 Næringslivets sikkerhetsorganisasjon kan pålegge virksomhet å etablere industrivern i henhold til [kapittel 3](forskrift/2011-12-20-1434/kap3).
 
@@ -188,7 +208,13 @@ Næringslivets sikkerhetsorganisasjon kan pålegge virksomhet å etablere indust
 
 Virksomhet med potensial for hendelser med alvorlige konsekvenser, jf. [§ 14](forskrift/2011-12-20-1434/§14), skal organisere industrivernet med redningsstab. Redningsstaben skal ha myndighet til å ta avgjørelser på strategisk nivå og evne til å vurdere hendelsens utvikling og de fremtidige behov i samarbeid med ledelsen på skadestedet.
 
-Virksomheten skal med bakgrunn i oversikten etter [§ 5](forskrift/2011-12-20-1434/§5) forsterke industrivernet innenfor ett eller flere av følgende fagområder:førstehjelpbrannvernmiljø- og kjemikalievernkjemikaliedykkingrøykdykking.
+Virksomheten skal med bakgrunn i oversikten etter [§ 5](forskrift/2011-12-20-1434/§5) forsterke industrivernet innenfor ett eller flere av følgende fagområder:
+
+1. førstehjelp
+2. brannvern
+3. miljø- og kjemikalievern
+4. kjemikaliedykking
+5. røykdykking.
 
 Virksomheten skal vurdere behovet for ytterligere forsterkning av industrivernet og gjennomføre nødvendige tiltak.
 
@@ -212,7 +238,13 @@ Personer i redningsstab skal ha nødvendig kunnskap om virksomheten og beredskap
 
 Personer i orden og sikring skal ha kvalifikasjoner for å kunne avsperre og bidra til sikring av skadested.
 
-Ved forsterket industrivern etter [§ 15](forskrift/2011-12-20-1434/§15) stilles følgende krav:Innsatspersoner ved forsterket førstehjelp skal ha kvalifikasjoner for å håndtere to eller flere skadde personer i samme hendelse.Innsatspersoner ved forsterket brannvern skal ha kvalifikasjoner for å håndtere brann.Innsatspersoner i miljø- og kjemikalievern skal ha kvalifikasjoner for å håndtere hendelser med kjemikalier som ikke innebærer behov for kjemikalieverndrakt og pusteluft.Kjemikaliedykkere skal tilfredsstille gjeldende helsekrav og ha tilfredsstillende kvalifikasjoner for å håndtere uønskede hendelser med kjemikalier.Røykdykkere skal tilfredsstille gjeldende helsekrav og ha tilfredsstillende kvalifikasjoner for å håndtere uønskede hendelser med brann.
+Ved forsterket industrivern etter [§ 15](forskrift/2011-12-20-1434/§15) stilles følgende krav:
+
+1. Innsatspersoner ved forsterket førstehjelp skal ha kvalifikasjoner for å håndtere to eller flere skadde personer i samme hendelse.
+2. Innsatspersoner ved forsterket brannvern skal ha kvalifikasjoner for å håndtere brann.
+3. Innsatspersoner i miljø- og kjemikalievern skal ha kvalifikasjoner for å håndtere hendelser med kjemikalier som ikke innebærer behov for kjemikalieverndrakt og pusteluft.
+4. Kjemikaliedykkere skal tilfredsstille gjeldende helsekrav og ha tilfredsstillende kvalifikasjoner for å håndtere uønskede hendelser med kjemikalier.
+5. Røykdykkere skal tilfredsstille gjeldende helsekrav og ha tilfredsstillende kvalifikasjoner for å håndtere uønskede hendelser med brann.
 
 Den enkeltes kvalifikasjoner skal dokumenteres skriftlig.
 

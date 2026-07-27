@@ -15,7 +15,7 @@ xml_hash: "00edbcc8e7034c5d503dc552f28245dadbfffed205de94ca14d62c8e8b3a77b8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,14 @@ Forskriften gjelder for mottakere og akkrediterte tredjeparter. Forskriften gjel
 
 ### § 3. Definisjoner
 
-I denne forskrift menes med*landing:* alle tilfeller der fisk losses fra fiskefartøy til mottaksanlegg som tar imot industrifangster,*industrifangster:* fangster som ikke skal anvendes til konsum, som fangster til mel- og oljeproduksjon og andre produkter fremstilt av industrifangster,*prøvetrekker:* den tekniske innretningen som tar prøven ut av fiskestrømmen,*prøvetaking:* at det gjennomføres en mekanisk operasjon der prøvetrekkeren tar prøve ut av en fiskestrøm ved landing av fangsten,*prøvetakingsresultat:* data fra prøveuttakene som fremkommer etter bearbeiding av prøvene,*mottaker:* enhver som tar imot fisk som landes.
+I denne forskrift menes med
+
+1. *landing:* alle tilfeller der fisk losses fra fiskefartøy til mottaksanlegg som tar imot industrifangster,
+2. *industrifangster:* fangster som ikke skal anvendes til konsum, som fangster til mel- og oljeproduksjon og andre produkter fremstilt av industrifangster,
+3. *prøvetrekker:* den tekniske innretningen som tar prøven ut av fiskestrømmen,
+4. *prøvetaking:* at det gjennomføres en mekanisk operasjon der prøvetrekkeren tar prøve ut av en fiskestrøm ved landing av fangsten,
+5. *prøvetakingsresultat:* data fra prøveuttakene som fremkommer etter bearbeiding av prøvene,
+6. *mottaker:* enhver som tar imot fisk som landes.
 
 > Endret ved forskrift [25 nov 2025 nr. 2339](forskrift/2025-11-25-2339) (i kraft 1 jan 2026).
 
@@ -56,13 +63,23 @@ Alle industrifangster som landes skal passere gjennom et system for avsiling av 
 
 ### § 5. Krav til trommelsil
 
-Fisk som landes skal gå gjennom kun én trommelsil for avsiling av vann før veiing. Forsil er tillatt. Trommelsilen skal oppfylle følgende krav:Dreneringshullene skal ikke være større enn 10 mm.Innvendig diameter skal ikke være over 1700 mm.Lengden på silene, inkludert eventuell forsil og ekskludert samlebåndet, skal ikke være lenger enn totalt 11 meter.Rotasjonshastigheten skal ikke overstige 28 omdreininger per minutt.Lysåpningen i dreneringsområdet skal ikke overstige 45 % av totalt areal.
+Fisk som landes skal gå gjennom kun én trommelsil for avsiling av vann før veiing. Forsil er tillatt. Trommelsilen skal oppfylle følgende krav:
+
+1. Dreneringshullene skal ikke være større enn 10 mm.
+2. Innvendig diameter skal ikke være over 1700 mm.
+3. Lengden på silene, inkludert eventuell forsil og ekskludert samlebåndet, skal ikke være lenger enn totalt 11 meter.
+4. Rotasjonshastigheten skal ikke overstige 28 omdreininger per minutt.
+5. Lysåpningen i dreneringsområdet skal ikke overstige 45 % av totalt areal.
 
 > Tilføyd ved forskrift [25 nov 2025 nr. 2339](forskrift/2025-11-25-2339) (i kraft 1 jan 2026).
 
 ### § 6. Krav til båndsil
 
-En båndsil skal bestå av en forsil og/eller en vendesil og et silebånd i stål. Båndsilen skal videre oppfylle følgende krav:I forsilen og vendesilen skal avstanden mellom spilene eller størrelsen på dreneringshullene ikke være over 10 mm.Bredden på silebåndet skal være mellom 1,8 og 2,5 meter.Lengden på silebåndet skal ikke være korte enn 2,6 meter og ikke lenger enn 10 meter.
+En båndsil skal bestå av en forsil og/eller en vendesil og et silebånd i stål. Båndsilen skal videre oppfylle følgende krav:
+
+1. I forsilen og vendesilen skal avstanden mellom spilene eller størrelsen på dreneringshullene ikke være over 10 mm.
+2. Bredden på silebåndet skal være mellom 1,8 og 2,5 meter.
+3. Lengden på silebåndet skal ikke være korte enn 2,6 meter og ikke lenger enn 10 meter.
 
 > Tilføyd ved forskrift [25 nov 2025 nr. 2339](forskrift/2025-11-25-2339) (i kraft 1 jan 2026).
 
@@ -98,7 +115,11 @@ Prøvetrekkeren skal være tilkoblet og styres av en dataenhet. Styrings- og dat
 
 Prøvetrekkeren skal utformes slik at den ved prøvetaking fra fiskestrømmen tar ut representative prøver og et kvantum på omtrent 20 kg i hvert prøveuttak.
 
-Prøvetrekkerens plassering skal være slik:Ved bruk av båndsil skal prøvetrekkeren plasseres i fallsjakten, sentrert med utgangspunkt i bredden på silebåndet før veiing. Prøvetrekkeren skal plasseres i lengderetning under silebåndet med en største avstand fra silebåndets øvre kant til toppen av prøvetrekkeren på 165 cm. Fiskestrømmen fra silebåndetskal samles og sentreres i fallsjakten ved hjelp av en sentreringsskrue. Sentreringsskruens lengde skal dekke hele silebåndets bredde.Ved bruk av trommelsil og fallsjakt skal fiskestrømmen ledes til senter av fallsjakten før prøvetrekkeren. Avstanden fra der fiskestrømmen kommer inn i fallsjakten og prøvetrekkeren skal ikke overstige 100 cm.Ved bruk av trommelsil uten fallsjakt, skal prøvetrekkeren være plassert og utformet slik at den sikrer representativ prøvetaking fra hele fiskestrømmen.
+Prøvetrekkerens plassering skal være slik:
+
+1. Ved bruk av båndsil skal prøvetrekkeren plasseres i fallsjakten, sentrert med utgangspunkt i bredden på silebåndet før veiing. Prøvetrekkeren skal plasseres i lengderetning under silebåndet med en største avstand fra silebåndets øvre kant til toppen av prøvetrekkeren på 165 cm. Fiskestrømmen fra silebåndetskal samles og sentreres i fallsjakten ved hjelp av en sentreringsskrue. Sentreringsskruens lengde skal dekke hele silebåndets bredde.
+2. Ved bruk av trommelsil og fallsjakt skal fiskestrømmen ledes til senter av fallsjakten før prøvetrekkeren. Avstanden fra der fiskestrømmen kommer inn i fallsjakten og prøvetrekkeren skal ikke overstige 100 cm.
+3. Ved bruk av trommelsil uten fallsjakt, skal prøvetrekkeren være plassert og utformet slik at den sikrer representativ prøvetaking fra hele fiskestrømmen.
 
 Når prøvetrekkeren tømmes, skal hele prøven med fisk, inkludert oppløst masse av fisk, ledes til en oppsamlingsbeholder.
 
@@ -200,7 +221,9 @@ Det må ved beregning og uttak av det samlede prøveuttaket for landingen tas he
 
 ### 1.2 Det samlede prøveuttakets størrelse
 
-Det samlede prøveuttaket skal beregnes ut fra følgende formel: $$ \\text{Samlet prøveuttak [kg]} = \\frac{\\text{kvantum POR [kg]}^{0{,}43}}{0{,}85} $$
+Det samlede prøveuttaket skal beregnes ut fra følgende formel:
+
+$$ \\text{Samlet prøveuttak [kg]} = \\frac{\\text{kvantum POR [kg]}^{0{,}43}}{0{,}85} $$
 
 Minste verdi for det samlede prøveuttaket skal settes til 166 kg.
 
@@ -208,7 +231,9 @@ Minste verdi for det samlede prøveuttaket skal settes til 166 kg.
 
 Prøvetrekkeren skal være utformet slik at den rommer omtrent 20 kg fisk og antall prøver skal beregnes med utgangspunkt i beregnet verdi for det samlede prøveuttaket for landingen.
 
-Antall prøver skal beregnes ut fra følgende formel: $$ \\text{Antall prøver} = \\frac{\\text{Samlet prøveuttak [kg]}}{20 \\text{[kg]}} $$
+Antall prøver skal beregnes ut fra følgende formel:
+
+$$ \\text{Antall prøver} = \\frac{\\text{Samlet prøveuttak [kg]}}{20 \\text{[kg]}} $$
 
 Antall prøver avrundes oppover til nærmeste hele tallverdi.
 

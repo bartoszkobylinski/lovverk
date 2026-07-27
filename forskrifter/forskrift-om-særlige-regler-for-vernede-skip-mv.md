@@ -32,7 +32,12 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-I denne forskriften betyr:*«LSA-regelverket»*: Det internasjonale regelverket om redningsredskaper fastsatt av Den internasjonale sjøfartsorganisasjonens maritime sikkerhetskomité ved resolusjon MSC-res.48(66), endret ved MSC-res.207(81), MSC-res.218(82), MSC-res.272(85), MSC-res.293(87) og MSC-res.320(89).*«Rutetrafikk»*: En rekke seilinger for å sikre forbindelsen mellom to eller flere havner, enten etter en offentlig rutetabell eller med slik regelmessighet eller hyppighet at de fremstår som en systematisk rekke seilinger.*«Signifikant bølgehøyde (hs )»*: den gjennomsnittlige høyden av den høyeste tredel bølgehøyder observert i en gitt periode.*«[SOLAS»:](traktat/1974-11-01-1)* Den internasjonale konvensjon 1974 om sikkerhet for menneskeliv til sjøs, sist endret ved IMO-resolusjon MSC-317(89).
+I denne forskriften betyr:
+
+1. *«LSA-regelverket»*: Det internasjonale regelverket om redningsredskaper fastsatt av Den internasjonale sjøfartsorganisasjonens maritime sikkerhetskomité ved resolusjon MSC-res.48(66), endret ved MSC-res.207(81), MSC-res.218(82), MSC-res.272(85), MSC-res.293(87) og MSC-res.320(89).
+2. *«Rutetrafikk»*: En rekke seilinger for å sikre forbindelsen mellom to eller flere havner, enten etter en offentlig rutetabell eller med slik regelmessighet eller hyppighet at de fremstår som en systematisk rekke seilinger.
+3. *«Signifikant bølgehøyde (hs )»*: den gjennomsnittlige høyden av den høyeste tredel bølgehøyder observert i en gitt periode.
+4. *«[SOLAS»:](traktat/1974-11-01-1)* Den internasjonale konvensjon 1974 om sikkerhet for menneskeliv til sjøs, sist endret ved IMO-resolusjon MSC-317(89).
 
 ### § 3. Sertifisering
 
@@ -88,9 +93,19 @@ På de områder hvor det ikke er gitt særlige regler i denne forskriften, skal 
 
 ### § 9. Intakt stabilitet for skip med største lengde 15 meter eller mer
 
-(1) Skip som skal operere i områder der signifikant bølgehøyde ikke overstiger 2,5 m, skal i enhver lastetilstand, når krysskurver er beregnet med fri trim, oppfylle følgende krav:Arealet under kurven for rettende arm (GZ-kurven) skal være minst 0,055 meterradianer regnet opp til en krengevinkel på 30 grader og minst 0,09 meterradianer regnet opp til 40 grader eller fyllingsvinkelen dersom denne er mindre enn 40 grader. I tillegg skal arealet under GZ-kurven mellom krengningsvinklene 30 grader og 40 grader, eller mellom 30 grader og fyllingsvinkelen dersom denne er mindre enn 40 grader, være minst 0,03 meterradianer.Rettende arm (GZ) skal være minst 0,20 m ved en krengevinkel lik eller større enn 30 grader.Krengevinkelen hvor rettende arm har størst verdi, (GZmaks ), bør være større enn 30 grader, og skal aldri være mindre enn 25 grader.Initialmetasenterhøyden (GM) skal være minst 0,15 m.For passasjerskip skal krengevinkelen ikke overskride 10 grader når alle passasjerene plasseres i skipets ene side på ugunstigste måte.
+(1) Skip som skal operere i områder der signifikant bølgehøyde ikke overstiger 2,5 m, skal i enhver lastetilstand, når krysskurver er beregnet med fri trim, oppfylle følgende krav:
 
-(2) Skip som skal operere i områder der signifikant bølgehøyde ikke overstiger 1,5 m behøver ikke oppfylle kravene i første ledd bokstav a, b og c. Arealet under kurven for rettende arm (GZ-kurven) skal da være minst 0,055 meterradianer for fartøy med en positiv utstrekning av GZ opp til 20 grader og 0,065 meterradianer for fartøy med en positiv utstrekning av GZ opp til 40 grader. Dersom positiv utstrekning av GZ avsluttes mellom 20 og 40 grader skal krav til areal under GZ-kurven bestemmes ved formelen:minimum areal = 0,055 + 0,0005 (positiv utstrekning – 20),der positiv utstrekning regnes opp til vinkelen der GZ er lik null, eller fyllingsvinkel.
+1. Arealet under kurven for rettende arm (GZ-kurven) skal være minst 0,055 meterradianer regnet opp til en krengevinkel på 30 grader og minst 0,09 meterradianer regnet opp til 40 grader eller fyllingsvinkelen dersom denne er mindre enn 40 grader. I tillegg skal arealet under GZ-kurven mellom krengningsvinklene 30 grader og 40 grader, eller mellom 30 grader og fyllingsvinkelen dersom denne er mindre enn 40 grader, være minst 0,03 meterradianer.
+2. Rettende arm (GZ) skal være minst 0,20 m ved en krengevinkel lik eller større enn 30 grader.
+3. Krengevinkelen hvor rettende arm har størst verdi, (GZmaks ), bør være større enn 30 grader, og skal aldri være mindre enn 25 grader.
+4. Initialmetasenterhøyden (GM) skal være minst 0,15 m.
+5. For passasjerskip skal krengevinkelen ikke overskride 10 grader når alle passasjerene plasseres i skipets ene side på ugunstigste måte.
+
+(2) Skip som skal operere i områder der signifikant bølgehøyde ikke overstiger 1,5 m behøver ikke oppfylle kravene i første ledd bokstav a, b og c. Arealet under kurven for rettende arm (GZ-kurven) skal da være minst 0,055 meterradianer for fartøy med en positiv utstrekning av GZ opp til 20 grader og 0,065 meterradianer for fartøy med en positiv utstrekning av GZ opp til 40 grader. Dersom positiv utstrekning av GZ avsluttes mellom 20 og 40 grader skal krav til areal under GZ-kurven bestemmes ved formelen:
+
+- minimum areal = 0,055 + 0,0005 (positiv utstrekning – 20),
+
+  der positiv utstrekning regnes opp til vinkelen der GZ er lik null, eller fyllingsvinkel.
 
 (3) Skip som skal operere i områder der signifikant bølgehøyde ikke overstiger 0,5 m behøver ikke oppfylle kravene første ledd bokstav a, b og c. Skipets fyllingsvinkel skal da ikke inntreffe før en krengevinkel på 20 grader, men ikke mindre enn rullevinkelen gitt i Regelverket for intakt stabilitet, 2008, del A, regel 2.3.4. I tillegg skal arealet under kurven for rettende arm (GZ-kurven) være minst 0,025 meterradianer opp til 20 grader.
 
@@ -118,9 +133,22 @@ På de områder hvor det ikke er gitt særlige regler i denne forskriften, skal 
 
 (4) For skip med fribord større enn 100 mm, kan krav til karm- og terskelhøyder, lukningsmidler, lenseportareal mv. i Lastelinjekonvensjonen av 1966 tillempes slik det fremgår av femte og sjette ledd.
 
-(5) Skip som skal operere i områder der signifikant bølgehøyde ikke overstiger 1,5 m skal oppfylle følgende krav:Terskelhøyde og dør til maskinrom skal være 380 mm. Døren skal minst være av spruttett type eller tilsvarende, og skal slå utover. Dersom døren er utsatt plassert skal terskelhøyden være 600 mm med dør av værtett type eller tilsvarende.Terskelhøyden for dør til innredning skal være 100 mm. Dører skal være av spruttett type eller tilsvarende, og skal slå utover. Platedør kan benyttes når terskelhøyden er 380 mm og derover, og dersom ikke kravet til fyllingsvinkel krever værtette lukningsmidler.Vinduer i dekkshus/overbygninger på fribordsdekk som beskytter nedganger til under dekk skal ha hengslede blindlokk.Lenseportareal skal være i henhold til lastelinjekonvensjonen. Korreksjon for høy skansekledning kreves ikke. For skip med overbygget og lukket baugparti, tillates lenseportarealet redusert med 30 % i forhold til ovenstående.Med minimum fribord tillates ikke reduksjon i terskelhøyder for dører i henhold til bokstav a og bokstav b, platedør til innredning i henhold til bokstav b siste del, samt reduksjon i lenseportarealet i henhold til bokstav d. For å sikre en effektiv drenering av dekk, kan det i tillegg være aktuelt ikke å tillate skansekledning høyere enn standard høyde (1 m), eventuelt at det helt, eller delvis anordnes rekkverk.
+(5) Skip som skal operere i områder der signifikant bølgehøyde ikke overstiger 1,5 m skal oppfylle følgende krav:
 
-(6) Skip som skal operere i områder der signifikant bølgehøyde ikke overstiger 0,5 m skal oppfylle følgende krav:Terskelhøyden for dør til maskinrom kan reduseres til min. 380 mm. Dør skal minst være av spruttett type eller tilsvarende, og skal slå utover.Terskelhøyden for dør til innredning kan reduseres til min. 100 mm. Platedører som slår utover kan tillates, med mindre kravet til fyllingsvinkel krever værtette lukningsmidler.I dekkshus/overbygninger på fribordsdekk som beskytter nedganger til under dekk, kan det benyttes skipsvinduer, uten hengslede blindlokk.I dekkshus/overbygninger på fribordsdekk hvor det ikke er nedganger til under dekk, kan det benyttes vinduer med styrke og innfesting som tilsvarer Det norske Veritas regler for hurtiggående lettbygde fartøy, eller skipsvinduer av type F i henhold til Norsk Standard. Nedre kant av vindu må i så fall ikke være nærmere lastet vannlinje enn 1500 mm. Et visst antall løse blindlokk, og/eller mulighet for drenering av dekkshus/overbygning, kan forlanges.Lastelinjekonvensjonens krav til lenseportareal kan reduseres med opptil 30 %. Med fribord mellom minimum fribord (100 mm) og fribord som gir størst mulig reduksjon i terskelhøyden (600 mm), gis det en forholdsmessig reduksjon i lenseportarealet. Lenseportarealet kan dessuten reduseres med opptil 1/3 på den ene siden, mot at det økes tilsvarende på motsatt side.Med minimum fribord tillates ikke reduksjon i terskelhøyder til dører i henhold til bokstav a og bokstav b, samt reduksjon i lenseportareal i henhold til bokstav e.
+1. Terskelhøyde og dør til maskinrom skal være 380 mm. Døren skal minst være av spruttett type eller tilsvarende, og skal slå utover. Dersom døren er utsatt plassert skal terskelhøyden være 600 mm med dør av værtett type eller tilsvarende.
+2. Terskelhøyden for dør til innredning skal være 100 mm. Dører skal være av spruttett type eller tilsvarende, og skal slå utover. Platedør kan benyttes når terskelhøyden er 380 mm og derover, og dersom ikke kravet til fyllingsvinkel krever værtette lukningsmidler.
+3. Vinduer i dekkshus/overbygninger på fribordsdekk som beskytter nedganger til under dekk skal ha hengslede blindlokk.
+4. Lenseportareal skal være i henhold til lastelinjekonvensjonen. Korreksjon for høy skansekledning kreves ikke. For skip med overbygget og lukket baugparti, tillates lenseportarealet redusert med 30 % i forhold til ovenstående.
+5. Med minimum fribord tillates ikke reduksjon i terskelhøyder for dører i henhold til bokstav a og bokstav b, platedør til innredning i henhold til bokstav b siste del, samt reduksjon i lenseportarealet i henhold til bokstav d. For å sikre en effektiv drenering av dekk, kan det i tillegg være aktuelt ikke å tillate skansekledning høyere enn standard høyde (1 m), eventuelt at det helt, eller delvis anordnes rekkverk.
+
+(6) Skip som skal operere i områder der signifikant bølgehøyde ikke overstiger 0,5 m skal oppfylle følgende krav:
+
+1. Terskelhøyden for dør til maskinrom kan reduseres til min. 380 mm. Dør skal minst være av spruttett type eller tilsvarende, og skal slå utover.
+2. Terskelhøyden for dør til innredning kan reduseres til min. 100 mm. Platedører som slår utover kan tillates, med mindre kravet til fyllingsvinkel krever værtette lukningsmidler.
+3. I dekkshus/overbygninger på fribordsdekk som beskytter nedganger til under dekk, kan det benyttes skipsvinduer, uten hengslede blindlokk.
+4. I dekkshus/overbygninger på fribordsdekk hvor det ikke er nedganger til under dekk, kan det benyttes vinduer med styrke og innfesting som tilsvarer Det norske Veritas regler for hurtiggående lettbygde fartøy, eller skipsvinduer av type F i henhold til Norsk Standard. Nedre kant av vindu må i så fall ikke være nærmere lastet vannlinje enn 1500 mm. Et visst antall løse blindlokk, og/eller mulighet for drenering av dekkshus/overbygning, kan forlanges.
+5. Lastelinjekonvensjonens krav til lenseportareal kan reduseres med opptil 30 %. Med fribord mellom minimum fribord (100 mm) og fribord som gir størst mulig reduksjon i terskelhøyden (600 mm), gis det en forholdsmessig reduksjon i lenseportarealet. Lenseportarealet kan dessuten reduseres med opptil 1/3 på den ene siden, mot at det økes tilsvarende på motsatt side.
+6. Med minimum fribord tillates ikke reduksjon i terskelhøyder til dører i henhold til bokstav a og bokstav b, samt reduksjon i lenseportareal i henhold til bokstav e.
 
 (7) For skip bygget før 1981 kan kravene i Den internasjonale konvensjonen om lastelinjer (1930-konvensjonen) legges til grunn hva angår lukningsmidler, karm- og terskelhøyder og lysventiler med blindlokk. Når 1930-konvensjonen legges til grunn gis det ikke reduksjoner i karmhøyder mv.
 
@@ -132,7 +160,12 @@ Alle krav vedrørende lukningsmidler, karm- og terskelhøyder, lufterørs- og ve
 
 ### § 14. Lastetilstander mv.
 
-(1) For de følgende lastetilstander som er aktuelle i henhold til skipets drift, og enhver mulig kombinasjon av disse (bokstav b, c og d), samt eventuelle ugunstigere mellomtilstander skal beregninger innsendes:Skipet uten last og passasjerer.Skipet med fullt passasjerbelegg inklusive bagasje.Skipet med full last i lasterommene. Lasten forutsettes homogent fordelt i alle rom inklusive luker.Skip homogent lastet og med maksimal last på dekk. Stuingsvekten av dekkslasten og dekkslastens utstrekning (lengde, bredde og høyde), samt tyngdepunkt skal være oppgitt i beregningene.
+(1) For de følgende lastetilstander som er aktuelle i henhold til skipets drift, og enhver mulig kombinasjon av disse (bokstav b, c og d), samt eventuelle ugunstigere mellomtilstander skal beregninger innsendes:
+
+1. Skipet uten last og passasjerer.
+2. Skipet med fullt passasjerbelegg inklusive bagasje.
+3. Skipet med full last i lasterommene. Lasten forutsettes homogent fordelt i alle rom inklusive luker.
+4. Skip homogent lastet og med maksimal last på dekk. Stuingsvekten av dekkslasten og dekkslastens utstrekning (lengde, bredde og høyde), samt tyngdepunkt skal være oppgitt i beregningene.
 
 (2) De ovennevnte lastetilstandene skal beregnes for skipet med full utrustning, 100 % forråd og bunkers, 10 % forråd og bunkers samt for eventuelle ugunstigere mellomtilstander.
 
@@ -160,17 +193,39 @@ Alle krav vedrørende lukningsmidler, karm- og terskelhøyder, lufterørs- og ve
 
 ### § 16. Brannsikringsmål
 
-Målene for brannsikring er å:hindre at brann eller eksplosjon oppstår,redusere risikoen for tap av liv som følge av brann,redusere risikoen for skade som følge av brann på skipet, dets last og miljøet,begrense, kontrollere og bekjempe brann eller eksplosjon i det rommet der den oppstår, ogsørge for tilstrekkelige og lett tilgjengelige rømningsveier for passasjerer og besetning.
+Målene for brannsikring er å:
+
+1. hindre at brann eller eksplosjon oppstår,
+2. redusere risikoen for tap av liv som følge av brann,
+3. redusere risikoen for skade som følge av brann på skipet, dets last og miljøet,
+4. begrense, kontrollere og bekjempe brann eller eksplosjon i det rommet der den oppstår, og
+5. sørge for tilstrekkelige og lett tilgjengelige rømningsveier for passasjerer og besetning.
 
 ### § 17. Oppfyllelse av brannsikringsmålene
 
-Oppfyllelse av brannsikringsmålene oppnås ved:at skipet oppfyller [forskrift 1. juli 2014 nr. 1099](forskrift/2014-07-01-1099) om brannsikring på skip, ellerat rederiet utarbeider en teknisk analyse i henhold til [§ 18](forskrift/2014-06-17-768/§18) som viser at sikkerheten er ivaretatt med alternative løsninger. Den tekniske analysen skal utarbeides på bakgrunn av anerkjente metoder som er egnet til formålet.
+Oppfyllelse av brannsikringsmålene oppnås ved:
+
+1. at skipet oppfyller [forskrift 1. juli 2014 nr. 1099](forskrift/2014-07-01-1099) om brannsikring på skip, eller
+2. at rederiet utarbeider en teknisk analyse i henhold til [§ 18](forskrift/2014-06-17-768/§18) som viser at sikkerheten er ivaretatt med alternative løsninger. Den tekniske analysen skal utarbeides på bakgrunn av anerkjente metoder som er egnet til formålet.
 
 > Endret ved [forskrift 20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018).
 
 ### § 18. Krav til teknisk analyse ved alternative løsninger
 
-(1) For skip hvor konstruksjon eller innretninger for brannvern avviker fra kravene i [forskrift 1. juli 2014 nr. 1099](forskrift/2014-07-01-1099) om brannsikring på skip, skal rederiet utarbeide en teknisk analyse som minst omfatter følgende elementer:kartlegging av brann- og eksplosjonsfarene på skipet eller i de(t) aktuelle rom, herunder:kartlegging av mulige tennkilderkartlegging av risikoen for brannutvikling i hvert aktuelt romkartlegging av risikoen for utvikling av røyk og utvikling av giftige stoffer for hvert aktuelt romkartlegging av risikoen for spredning av brann, røyk eller utvikling av giftige stoffer fra de(t) aktuelle rom til andre rom.bestemme hvilke tiltak som er nødvendige på skipet eller i de(t) aktuelle rom for å oppnå målene i [§ 16](forskrift/2014-06-17-768/§16), herunder å vurdere:tiltak for å oppdage brannutvikling så tidlig som muligtiltak for å bekjempe branntilløp så tidlig som muliginstallering av fastmontert slokkeanlegg som kompenserende tiltak for manglende strukturell brannsikringbehov for brannvakt når skipet er i drift.
+(1) For skip hvor konstruksjon eller innretninger for brannvern avviker fra kravene i [forskrift 1. juli 2014 nr. 1099](forskrift/2014-07-01-1099) om brannsikring på skip, skal rederiet utarbeide en teknisk analyse som minst omfatter følgende elementer:
+
+1. kartlegging av brann- og eksplosjonsfarene på skipet eller i de(t) aktuelle rom, herunder:
+
+   1. kartlegging av mulige tennkilder
+   2. kartlegging av risikoen for brannutvikling i hvert aktuelt rom
+   3. kartlegging av risikoen for utvikling av røyk og utvikling av giftige stoffer for hvert aktuelt rom
+   4. kartlegging av risikoen for spredning av brann, røyk eller utvikling av giftige stoffer fra de(t) aktuelle rom til andre rom.
+2. bestemme hvilke tiltak som er nødvendige på skipet eller i de(t) aktuelle rom for å oppnå målene i [§ 16](forskrift/2014-06-17-768/§16), herunder å vurdere:
+
+   1. tiltak for å oppdage brannutvikling så tidlig som mulig
+   2. tiltak for å bekjempe branntilløp så tidlig som mulig
+   3. installering av fastmontert slokkeanlegg som kompenserende tiltak for manglende strukturell brannsikring
+   4. behov for brannvakt når skipet er i drift.
 
 (2) Tiltakene som (er) nevnt i første ledd bokstav b, skal samlet sett gi et sikkerhetsnivå som minst er likeverdig med det som oppnås ved å følge [forskrift 1. juli 2014 nr. 1099](forskrift/2014-07-01-1099) om brannsikring på skip.
 
@@ -296,7 +351,11 @@ For skip som skal føre mer enn 50 passasjerer skal rederiet utarbeide en evakue
 
 ### § 32. Betjeningsinstrukser
 
-Det skal være oppslag eller skilt på, eller i nærheten av redningsfarkoster og utsetningsarrangement som skal:illustrere og gi instruksjoner for betjening av utsettingsarrangement og gi opplysninger om faremomenter,være lett synlige, og skal kunne leses i nødbelysning, ogbruke de til enhver tid anbefalte IMO-symboler.
+Det skal være oppslag eller skilt på, eller i nærheten av redningsfarkoster og utsetningsarrangement som skal:
+
+1. illustrere og gi instruksjoner for betjening av utsettingsarrangement og gi opplysninger om faremomenter,
+2. være lett synlige, og skal kunne leses i nødbelysning, og
+3. bruke de til enhver tid anbefalte IMO-symboler.
 
 ### § 33. Hovedalarmsystem
 
@@ -322,7 +381,19 @@ Det skal være oppslag eller skilt på, eller i nærheten av redningsfarkoster o
 
 (3) Alarminstruksen skal gi detaljopplysninger om generalalarm og PA-anlegg, og angi hvordan de ombordværende skal opptre når generalalarm blir gitt. Den skal videre angi hvordan ordren til å forlate skipet vil bli gitt.
 
-(4) Alarminstruksen skal angi de plikter som i nødssituasjoner skal ivaretas av besetningsmedlemmene i forhold til de ombordværende, herunder:stenging av vanntette dører, branndører, ventiler, dreneringsåpninger, luker, skylight, lysventiler og andre liknende åpninger i skipetutrustning av redningsfarkoster og andre redningsredskaperklargjøring og utsetting av redningsfarkosteralminnelig klargjøring av andre redningsredskaperbruk av kommunikasjonsutstyrsammensetning av brannlag som skal bekjempe brannsærskilte plikter ved bruk av brannslokkingsutstyr og installasjonervarsling og mønstring av passasjererå påse at passasjerene er passende kledd og har tatt på seg redningsvest på riktig måtesamling av passasjerene på mønstringsstasjoneneå holde orden i korridorer og trapper og ha alminnelig kontroll med passasjerene sine bevegelser.
+(4) Alarminstruksen skal angi de plikter som i nødssituasjoner skal ivaretas av besetningsmedlemmene i forhold til de ombordværende, herunder:
+
+1. stenging av vanntette dører, branndører, ventiler, dreneringsåpninger, luker, skylight, lysventiler og andre liknende åpninger i skipet
+2. utrustning av redningsfarkoster og andre redningsredskaper
+3. klargjøring og utsetting av redningsfarkoster
+4. alminnelig klargjøring av andre redningsredskaper
+5. bruk av kommunikasjonsutstyr
+6. sammensetning av brannlag som skal bekjempe brann
+7. særskilte plikter ved bruk av brannslokkingsutstyr og installasjoner
+8. varsling og mønstring av passasjerer
+9. å påse at passasjerene er passende kledd og har tatt på seg redningsvest på riktig måte
+10. samling av passasjerene på mønstringsstasjonene
+11. å holde orden i korridorer og trapper og ha alminnelig kontroll med passasjerene sine bevegelser.
 
 (5) Det skal fremgå av alarminstruksen hvilke offiserer som er ansvarlige for å sikre at rednings- og brannslokkingsutstyr holdes i god stand og er klart til øyeblikkelig bruk.
 
@@ -400,7 +471,13 @@ Det skal være oppslag eller skilt på, eller i nærheten av redningsfarkoster o
 
 ### § 43. Tegninger og dokumentasjon
 
-(1) Følgende dokumentasjon skal sendes inn til Sjøfartsdirektoratet:Riksantikvarens vedtak om at skipet er vernet eller fredet.Tegninger i plan og profil i målestokk minst 1/50 som viser innredningen, rømningsveier, plassering av mønstringsstasjoner og redningsmidler.Rederiet skal ved tegninger og annen dokumentasjon vise at kravene til stabilitet, lastelinje og fribord i [kapittel 3](forskrift/2014-06-17-768/kap3) er oppfylt. Stabilitetsberegninger, hydrostatikk og KY-kurver, skal utføres ved hjelp av et godkjent EDB-program. Dokumentasjonen skal presenteres på en oversiktlig måte. Stabilitetsopplysninger som skal benyttes om bord, inklusive annet dokumentasjonsunderlag, skal sendes inn samlet, men i separate hefter.Teknisk analyse ved alternative løsninger til brannsikring, jf. [§ 18](forskrift/2014-06-17-768/§18).Evakueringsanalyse, jf. [§ 20](forskrift/2014-06-17-768/§20).
+(1) Følgende dokumentasjon skal sendes inn til Sjøfartsdirektoratet:
+
+1. Riksantikvarens vedtak om at skipet er vernet eller fredet.
+2. Tegninger i plan og profil i målestokk minst 1/50 som viser innredningen, rømningsveier, plassering av mønstringsstasjoner og redningsmidler.
+3. Rederiet skal ved tegninger og annen dokumentasjon vise at kravene til stabilitet, lastelinje og fribord i [kapittel 3](forskrift/2014-06-17-768/kap3) er oppfylt. Stabilitetsberegninger, hydrostatikk og KY-kurver, skal utføres ved hjelp av et godkjent EDB-program. Dokumentasjonen skal presenteres på en oversiktlig måte. Stabilitetsopplysninger som skal benyttes om bord, inklusive annet dokumentasjonsunderlag, skal sendes inn samlet, men i separate hefter.
+4. Teknisk analyse ved alternative løsninger til brannsikring, jf. [§ 18](forskrift/2014-06-17-768/§18).
+5. Evakueringsanalyse, jf. [§ 20](forskrift/2014-06-17-768/§20).
 
 (2) Dokumentasjonen skal være tilstrekkelig detaljert med presis angivelse av forskriftskrav som er oppfylt. Sjøfartsdirektoratet kan spesifisere eventuell tilleggsdokumentasjon som må legges fram, og be om ytterligere opplysninger.
 

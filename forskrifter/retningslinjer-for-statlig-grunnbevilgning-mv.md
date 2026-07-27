@@ -15,7 +15,7 @@ xml_hash: "3661f37f4e6c459d5e916a174f92f175352920624fb8f6480fda4031aa47a4b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,11 @@ I disse retningslinjene gjelder i det følgende betegnelsen forskningsinstitutt/
 
 Retningslinjene gjelder den statlige grunnbevilgningen til instituttene som departementene tildeler til Forskningsrådet og som Forskningsrådet fordeler videre til instituttene. Retningslinjene fastsetter videre grunnleggende krav som må være innfridd for at instituttene skal kunne inngå i ordningen med statlig grunnbevilgning.
 
-Et forskningskonsern må oppfylle følgende krav:Virksomheten er organisert som et konsern etter [aksjeloven § 1-3](lov/1997-06-13-44/§1-3), eller virksomheten er organisert som et konsern der en stiftelse har en tilsvarende kontroll over datterselskapene som angitt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3).Hvert av datterselskapene som inngår i grunnbevilgningsordningen, må oppfylle de grunnleggende kravene i pkt. 4.Den samlede virksomheten i forskningskonsernet (datterselskap som inngår i ordningen, og morselskap) må oppfylle de grunnleggende kravene i pkt. 4.
+Et forskningskonsern må oppfylle følgende krav:
+
+- Virksomheten er organisert som et konsern etter [aksjeloven § 1-3](lov/1997-06-13-44/§1-3), eller virksomheten er organisert som et konsern der en stiftelse har en tilsvarende kontroll over datterselskapene som angitt i [aksjeloven § 1-3](lov/1997-06-13-44/§1-3).
+- Hvert av datterselskapene som inngår i grunnbevilgningsordningen, må oppfylle de grunnleggende kravene i pkt. 4.
+- Den samlede virksomheten i forskningskonsernet (datterselskap som inngår i ordningen, og morselskap) må oppfylle de grunnleggende kravene i pkt. 4.
 
 > Endret ved [vedtak 1 juli 2013 nr. 1756](forskrift/2013-07-01-1756), [14 jan 2020 nr. 3386](forskrift/2020-01-14-3386), [21 des 2021 nr. 4008](forskrift/2021-12-21-4008) (i kraft 1 jan 2022).
 
@@ -94,7 +98,13 @@ Instituttet må følge opp det forskningsetiske ansvaret i samsvar med kravene s
 
 ### 5.1. Fordelingsarenaer
 
-Instituttene grupperes i følgende fem fordelingsarenaer etter instituttenes faglige aktivitet:Miljøinstitutter med grunnbevilgning fra Klima- og miljødepartementetPrimærnæringsinstitutter med grunnbevilgning fra Landbruks- og matdepartementetPrimærnæringsinstitutter med grunnbevilgning fra Nærings- og fiskeridepartementetSamfunnsvitenskapelige institutter med grunnbevilgning fra KunnskapsdepartementetTeknisk-industrielle institutter med grunnbevilgning fra Nærings- og fiskeridepartementet.
+Instituttene grupperes i følgende fem fordelingsarenaer etter instituttenes faglige aktivitet:
+
+- Miljøinstitutter med grunnbevilgning fra Klima- og miljødepartementet
+- Primærnæringsinstitutter med grunnbevilgning fra Landbruks- og matdepartementet
+- Primærnæringsinstitutter med grunnbevilgning fra Nærings- og fiskeridepartementet
+- Samfunnsvitenskapelige institutter med grunnbevilgning fra Kunnskapsdepartementet
+- Teknisk-industrielle institutter med grunnbevilgning fra Nærings- og fiskeridepartementet.
 
 Etter råd fra Forskningsrådet avgjør Kunnskapsdepartementet i samråd med berørte arenadepartementer hvilken arena det enkelte institutt skal plasseres på.
 
@@ -104,7 +114,13 @@ Ansvarlig arenadepartement (eller arenadepartementer) foreslår i statsbudsjette
 
 I Forskningsrådets utregning av resultatbasert grunnbevilgning til de enkelte instituttene samles alle instituttene på en felles konkurransearena. Instituttenes skår på indikatorer i den felles konkurransearenaen avgjør hvor stor andel av resultatbasert grunnbevilgning på vedkommende fordelingsarena hvert institutt skal tildeles.
 
-I utregningen benyttes følgende indikatorer (vekting i parentes):vitenskapelig publisering (33 pst.)avlagte doktorgrader (2 pst.)internasjonale inntekter (20 pst.)nasjonale oppdragsinntekter (43 pst.)patenter og lisenser (2 pst.).
+I utregningen benyttes følgende indikatorer (vekting i parentes):
+
+1. vitenskapelig publisering (33 pst.)
+2. avlagte doktorgrader (2 pst.)
+3. internasjonale inntekter (20 pst.)
+4. nasjonale oppdragsinntekter (43 pst.)
+5. patenter og lisenser (2 pst.).
 
 Forskningsrådet fastsetter i samråd med Kunnskapsdepartementet en begrensning i hvor stor uttelling hver indikator kan gi et enkelt institutt.
 
@@ -112,7 +128,10 @@ Arenadepartementene kan i tildelingsbrevet til Forskningsrådet presisere nærme
 
 ### 5.3 Disponering av grunnbevilgningen
 
-Instituttet kan fritt disponere grunnbevilgningen til langsiktig kunnskaps- og kompetanseoppbygging iht. instituttets formål og strategi. Dette omfatter kun aktiviteter av ikke-økonomisk og åpen karakter, (jf. EØS-statsstøttereglene), blant annet:langsiktige forskningsprosjekter som forventes å bli av betydning for instituttets nåværende og framtidige brukere, herunder eventuelle bidrag til doktorgradsutdanning.publisering og annen forskningsformidling.
+Instituttet kan fritt disponere grunnbevilgningen til langsiktig kunnskaps- og kompetanseoppbygging iht. instituttets formål og strategi. Dette omfatter kun aktiviteter av ikke-økonomisk og åpen karakter, (jf. EØS-statsstøttereglene), blant annet:
+
+- langsiktige forskningsprosjekter som forventes å bli av betydning for instituttets nåværende og framtidige brukere, herunder eventuelle bidrag til doktorgradsutdanning.
+- publisering og annen forskningsformidling.
 
 Grunnbevilgningen må ikke komme instituttets økonomiske aktiviteter til gode (kryssubsidiering), se pkt. 7.
 
@@ -128,7 +147,15 @@ Forskningskonsernets fordeling av grunnbevilgningen til datterselskapene må væ
 
 Forskningsrådet forvalter grunnbevilgningen til institutter etter disse retningslinjene som en del av sitt vedtektsfestede strategiske ansvar for instituttsektoren. Forskningsrådet har et særlig ansvar for å påse at de institutter som mottar grunnbevilgning, oppfyller kravene til instituttene fastsatt i pkt. 4 og pkt. 5.3 i retningslinjene. Forskningsrådets oppfølging av punktene om akademisk frihet og om forskningsetikk i pkt. 4 avgrenses til å innhente en egenerklæring fra instituttene.
 
-Forskningsrådet skal:stille de krav til mottaker av grunnbevilgningen som er nødvendige for å sikre at midlene blir brukt i samsvar med formålet og gjeldende regler, herunder at reglene for tilskuddsforvaltning i [reglement for økonomistyring](forskrift/2003-12-12-1938) og [bestemmelser om økonomistyring i staten](forskrift/2003-12-12-1939), overholdesgi forslag til årlige budsjetter (grunnbevilgninger) for instituttene til ansvarlige arenadepartementervurdere og gi råd om institutter bør tas inn eller ut av grunnbevilgningsordningen, basert på kriteriene under pkt. 4samle inn og kvalitetssikre årlige nøkkeltall for instituttene som grunnlag for grunnbevilgningssystemet, og øvrig resultatvurdering, samt rapportere om utviklingen i sektorenforeta regelmessige evalueringer av instituttenes FoU-virksomhet, styrke kunnskapen om instituttene og legge til rette for en kunnskapsbasert dialog mellom Forskningsrådet, institutter og brukeregi generelle instituttpolitiske råd og anbefalinger til departementenebidra til økt internasjonalisering av instituttenes virksomhet.
+Forskningsrådet skal:
+
+- stille de krav til mottaker av grunnbevilgningen som er nødvendige for å sikre at midlene blir brukt i samsvar med formålet og gjeldende regler, herunder at reglene for tilskuddsforvaltning i [reglement for økonomistyring](forskrift/2003-12-12-1938) og [bestemmelser om økonomistyring i staten](forskrift/2003-12-12-1939), overholdes
+- gi forslag til årlige budsjetter (grunnbevilgninger) for instituttene til ansvarlige arenadepartementer
+- vurdere og gi råd om institutter bør tas inn eller ut av grunnbevilgningsordningen, basert på kriteriene under pkt. 4
+- samle inn og kvalitetssikre årlige nøkkeltall for instituttene som grunnlag for grunnbevilgningssystemet, og øvrig resultatvurdering, samt rapportere om utviklingen i sektoren
+- foreta regelmessige evalueringer av instituttenes FoU-virksomhet, styrke kunnskapen om instituttene og legge til rette for en kunnskapsbasert dialog mellom Forskningsrådet, institutter og brukere
+- gi generelle instituttpolitiske råd og anbefalinger til departementene
+- bidra til økt internasjonalisering av instituttenes virksomhet.
 
 > Endret ved [vedtak 1 juli 2013 nr. 1756](forskrift/2013-07-01-1756), [14 jan 2020 nr. 3386](forskrift/2020-01-14-3386), [21 des 2021 nr. 4008](forskrift/2021-12-21-4008) (i kraft 1 jan 2022).
 

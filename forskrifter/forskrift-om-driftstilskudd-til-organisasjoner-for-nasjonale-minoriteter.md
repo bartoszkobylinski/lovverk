@@ -32,7 +32,19 @@ Følgende grupper med langvarig tilknytning til Norge regnes som nasjonale minor
 
 ## § 2. Hvem og hva kan tildeles tilskudd
 
-Kulturdirektoratet kan gi tilskudd til drift av frivillige organisasjoner somhar sitt medlemsgrunnlag i en nasjonal minoritet i Norgehar som formål å fremme interessene og ivareta rettighetene til en nasjonal minoritet i Norge, og å bevare og utvikle minoritetens kultur, identitet, språk, tradisjon og kulturarvikke har religiøs eller partipolitisk virksomhet som sitt hovedformåler registrert i Enhetsregisteret og Frivillighetsregisteret, opplysningene skal være oppdatert ved endringerer demokratisk oppbygd, hvor organisasjonens årsmøte har fastsatt vedtekter og valgt styrehar minst 100 tellende medlemmerhar et sentralt medlemsregister som inneholder medlemmenes navn, adresse, fødselsår og eventuell tilknytning til lokallager landsdekkende eller dekker et større geografisk område der minoriteten har historisk tilholdhar aktiviteter som bidrar til å oppfylle formålet med ordningenhar god økonomistyringhar utarbeidet årsrapport og årsregnskap som dokumenterer at de på søknadstidspunktet har eksistert i 12 måneder.
+Kulturdirektoratet kan gi tilskudd til drift av frivillige organisasjoner som
+
+1. har sitt medlemsgrunnlag i en nasjonal minoritet i Norge
+2. har som formål å fremme interessene og ivareta rettighetene til en nasjonal minoritet i Norge, og å bevare og utvikle minoritetens kultur, identitet, språk, tradisjon og kulturarv
+3. ikke har religiøs eller partipolitisk virksomhet som sitt hovedformål
+4. er registrert i Enhetsregisteret og Frivillighetsregisteret, opplysningene skal være oppdatert ved endringer
+5. er demokratisk oppbygd, hvor organisasjonens årsmøte har fastsatt vedtekter og valgt styre
+6. har minst 100 tellende medlemmer
+7. har et sentralt medlemsregister som inneholder medlemmenes navn, adresse, fødselsår og eventuell tilknytning til lokallag
+8. er landsdekkende eller dekker et større geografisk område der minoriteten har historisk tilhold
+9. har aktiviteter som bidrar til å oppfylle formålet med ordningen
+10. har god økonomistyring
+11. har utarbeidet årsrapport og årsregnskap som dokumenterer at de på søknadstidspunktet har eksistert i 12 måneder.
 
 I vurderingen av om bokstav a er oppfylt, tas det utgangspunkt i at en nasjonal minoritet er en etnisk minoritet som har hatt tilhold i Norge siden starten av 1900-tallet. Personer som har flyttet til Norge i nyere tid, og blitt integrert i den aktuelle nasjonale minoriteten, og deres etterkommere, kan regnes å høre til den aktuelle minoriteten. Organisasjoner som primært har medlemmer som har flyttet til Norge i nyere tid, eller som primært handler om å opprettholde kulturen fra et annet land, faller utenfor målgruppen til tilskuddsordningen.
 
@@ -48,9 +60,19 @@ Lokallag av organisasjoner som mottar driftstilskudd, kan ikke søke eget drifts
 
 ## § 3. Hvilke medlemmer og lokallag som regnes som tellende
 
-For at et medlem skal kunne telle med i beregningen etter [§ 2](forskrift/2022-06-21-1137/§2), skal medlemmetvære oppført i organisasjonens medlemsregistervære frivillig innmeldtha fylt 15 år og ha fulle demokratiske rettigheter i organisasjonen, som stemme-, møte-, tale- og forslagsrett og rett til å la seg velge som representantha bostedsadresse i Norge.
+For at et medlem skal kunne telle med i beregningen etter [§ 2](forskrift/2022-06-21-1137/§2), skal medlemmet
 
-For at et lokallag skal regnes med i beregningen etter [§ 2](forskrift/2022-06-21-1137/§2), skal detha minst fem tellende medlemmerha et styre som er valgt blant medlemmene i lokallagetha aktivitet som bidrar til å oppfylle formålet med ordningenha sin aktivitet på et geografisk avgrenset sted eller område i Norge.
+1. være oppført i organisasjonens medlemsregister
+2. være frivillig innmeldt
+3. ha fylt 15 år og ha fulle demokratiske rettigheter i organisasjonen, som stemme-, møte-, tale- og forslagsrett og rett til å la seg velge som representant
+4. ha bostedsadresse i Norge.
+
+For at et lokallag skal regnes med i beregningen etter [§ 2](forskrift/2022-06-21-1137/§2), skal det
+
+1. ha minst fem tellende medlemmer
+2. ha et styre som er valgt blant medlemmene i lokallaget
+3. ha aktivitet som bidrar til å oppfylle formålet med ordningen
+4. ha sin aktivitet på et geografisk avgrenset sted eller område i Norge.
 
 > Endret ved forskrift [19 nov 2025 nr. 2295](forskrift/2025-11-19-2295).
 
@@ -64,7 +86,12 @@ Om organisasjonen ønsker å bruke tilskuddet, eller deler av tilskuddet, på en
 
 ## § 5. Rapporteringsplikter
 
-En tilskuddsmottaker skal innen fristen i tilskuddsvedtaket levere en årsrapport til Kulturdirektoratet som inneholderen beskrivelse av organisasjonens virksomhet i løpet av året og hvordan organisasjonens aktiviteter oppfyller formålet med tilskuddsordningenen beskrivelse av aktiviteten i eventuelle lokallaget spesifisert regnskap som viser inntektsposter og som minst viser utgifter fordelt på lønn, personalutgifter, reiser, rekvisita og eventuelle leieutgifter, og som er revidert av statsautorisert revisorantallet tellende medlemmer i organisasjonen ved utgangen av året, revisorbekreftet i samsvar med ISRS 4400 Avtalte kontrollhandlinger.
+En tilskuddsmottaker skal innen fristen i tilskuddsvedtaket levere en årsrapport til Kulturdirektoratet som inneholder
+
+1. en beskrivelse av organisasjonens virksomhet i løpet av året og hvordan organisasjonens aktiviteter oppfyller formålet med tilskuddsordningen
+2. en beskrivelse av aktiviteten i eventuelle lokallag
+3. et spesifisert regnskap som viser inntektsposter og som minst viser utgifter fordelt på lønn, personalutgifter, reiser, rekvisita og eventuelle leieutgifter, og som er revidert av statsautorisert revisor
+4. antallet tellende medlemmer i organisasjonen ved utgangen av året, revisorbekreftet i samsvar med ISRS 4400 Avtalte kontrollhandlinger.
 
 Årsrapporten og årsregnskapet for foregående år skal være godkjent av årsmøtet og levert før andre del av driftstilskuddet blir utbetalt.
 
@@ -80,9 +107,19 @@ Tilskuddsordningen skal kunngjøres, blant annet på tilskudd.no.
 
 En søknad om tilskudd skal leveres på Kulturdirektoratets elektroniske søknadsportal innen 2. desember hvert år, eller første hverdag etter dersom 2. desember faller på en lørdag eller søndag. Søknader som kommer etter søknadsfristen, eller er ufullstendig utfylt, blir avvist.
 
-Søknaden skal inneholdeen oversikt over styret i organisasjonenoversikt over eventuelle lokallagen beskrivelse av planlagte aktiviteter i tilskuddsåretet budsjett for tilskuddsåretorganisasjonens vedtekter.
+Søknaden skal inneholde
 
-Har organisasjonen ikke mottatt driftstilskudd tidligere år, skal søknaden i tillegg inneholdeen årsrapport som dokumenterer gjennomførte aktiviteter i tråd med tilskuddsordningens formål og organisasjonens egne formål og vedtekteret årsregnskap for siste regnskapsår som inneholder eventuelle statlige eller private tilskudden bekreftelse fra statsautorisert eller registrert revisor om antall tellende medlemmer ved årsskiftet i samsvar med kravene i [§ 3](forskrift/2022-06-21-1137/§3).
+1. en oversikt over styret i organisasjonen
+2. oversikt over eventuelle lokallag
+3. en beskrivelse av planlagte aktiviteter i tilskuddsåret
+4. et budsjett for tilskuddsåret
+5. organisasjonens vedtekter.
+
+Har organisasjonen ikke mottatt driftstilskudd tidligere år, skal søknaden i tillegg inneholde
+
+1. en årsrapport som dokumenterer gjennomførte aktiviteter i tråd med tilskuddsordningens formål og organisasjonens egne formål og vedtekter
+2. et årsregnskap for siste regnskapsår som inneholder eventuelle statlige eller private tilskudd
+3. en bekreftelse fra statsautorisert eller registrert revisor om antall tellende medlemmer ved årsskiftet i samsvar med kravene i [§ 3](forskrift/2022-06-21-1137/§3).
 
 Kulturdirektoratet kan kreve at en søker gir tilleggsopplysninger som er nødvendige for å kunne avgjøre søknaden.
 
@@ -90,7 +127,13 @@ Kulturdirektoratet kan kreve at en søker gir tilleggsopplysninger som er nødve
 
 ## § 7. Beregningen av tilskuddet
 
-Nivå på tilskudd beregnes på grunnlag av tilskuddspostens størrelse og en samlet skjønnsmessig vurdering av søknaden. Sentrale momenter i vurderingen erantall tellende medlemmerantall aktive lokallagorganisasjonens aktivitetom aktivitetene støtter opp under formålene i [§ 1](forskrift/2022-06-21-1137/§1)om organisasjonen har en egen ungdomsorganisasjon eller egne aktiviteter for barn og unge.
+Nivå på tilskudd beregnes på grunnlag av tilskuddspostens størrelse og en samlet skjønnsmessig vurdering av søknaden. Sentrale momenter i vurderingen er
+
+1. antall tellende medlemmer
+2. antall aktive lokallag
+3. organisasjonens aktivitet
+4. om aktivitetene støtter opp under formålene i [§ 1](forskrift/2022-06-21-1137/§1)
+5. om organisasjonen har en egen ungdomsorganisasjon eller egne aktiviteter for barn og unge.
 
 For organisasjoner som ikke kan framlegge medlemstall fastsetter Kulturdirektoratet driftstilskuddet skjønnsmessig på et lavere nivå enn for øvrige organisasjoner.
 
@@ -98,13 +141,23 @@ For organisasjoner som ikke kan framlegge medlemstall fastsetter Kulturdirektora
 
 ## § 8. Adgang til å kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt
 
-Kulturdirektoratet kan kontrollere at betingelsene for tilskuddet og vilkårene for tildelingen er oppfylt gjennom åbe om de opplysningene og den dokumentasjonen som er nødvendig for kontrolleninnhente nødvendige opplysninger fra andre myndigheter som har adgang til å utlevere opplysningerbe tilskuddsmottaker på andre måter bidra til å legge til rette for kontrollarbeidet, som at Kulturdirektoratet får tilgang til å se relevante dokumenter, dersom det er nødvendig for kontrollen.
+Kulturdirektoratet kan kontrollere at betingelsene for tilskuddet og vilkårene for tildelingen er oppfylt gjennom å
+
+1. be om de opplysningene og den dokumentasjonen som er nødvendig for kontrollen
+2. innhente nødvendige opplysninger fra andre myndigheter som har adgang til å utlevere opplysninger
+3. be tilskuddsmottaker på andre måter bidra til å legge til rette for kontrollarbeidet, som at Kulturdirektoratet får tilgang til å se relevante dokumenter, dersom det er nødvendig for kontrollen.
 
 > Endret ved forskrifter [21 juni 2024 nr. 1189](forskrift/2024-06-21-1189), [19 nov 2025 nr. 2295](forskrift/2025-11-19-2295).
 
 ## § 9. Stans og tilbakebetaling
 
-Kulturdirektoratet kan stanse utbetalinger, omgjøre et vedtak om tilskudd eller kreve at mottaker helt eller delvis tilbakebetaler tilskudd dersomtildeling av tilskudd bygger på uriktige opplysninger fra søkertilskuddet ikke er brukt i samsvar med kravene i forskriften og vilkår i tilskuddsbrevettilskuddsmottaker ikke har levert rapport og regnskaprapport og regnskap ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsvedtaket er oppfyltikke hele tilskuddsbeløpet er benyttet.
+Kulturdirektoratet kan stanse utbetalinger, omgjøre et vedtak om tilskudd eller kreve at mottaker helt eller delvis tilbakebetaler tilskudd dersom
+
+1. tildeling av tilskudd bygger på uriktige opplysninger fra søker
+2. tilskuddet ikke er brukt i samsvar med kravene i forskriften og vilkår i tilskuddsbrevet
+3. tilskuddsmottaker ikke har levert rapport og regnskap
+4. rapport og regnskap ikke gir tilstrekkelig informasjon for å vurdere om kravene i forskriften og tilskuddsvedtaket er oppfylt
+5. ikke hele tilskuddsbeløpet er benyttet.
 
 Om et tilskudd skal tilbakebetales i samsvar med første ledd, kan beløpet som skal tilbakebetales trekkes fra et tilskudd som eventuelt blir tildelt for senere år.
 

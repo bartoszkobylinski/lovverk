@@ -30,7 +30,27 @@ Forskrifta utfyller og gjennomfører føresegnene i kassasystemlova.
 
 ### § 1-2. Definisjonar
 
-I denne forskrifta tyder*kassaskuff:* oppbevaringsplass for betalingsmiddel som blir registrert i eit kassasystem,*kassapunkt:* ei eining innan eit kassasystem som kan avslutte eit kontantsal ved å beordre utskrift av ei salskvittering.*opning av kassaskuff (nullinnslag):* integrert kassaskuff opnast utan at det har skjedd nokon registrering av kontantsal eller tilbakebetaling,*salskvittering:* utskrift frå kassasystem som viser gjennomført kontantsalstransaksjon,*returkvittering:* utskrift frå kassasystem som viser at den salskvitteringa som er skrive ut tidlegare inneheld feilaktige opplysningar eller opplysningar om tilbakebetaling for prisjusterte eller returnerte varer eller tenester,*kopikvittering:* kopi av salskvittering,*foreløpig kvittering:* utskrift frå kassasystem som viser foreløpig registrert sal,*utleveringskvittering:* stadfesting av kredittsal,*treningskvittering:* utskrift frå kassasystemet for treningsformål som viser same slags opplysningar som ei salskvittering,*kvittering frå betalingsterminal:* utskrift frå betalingsterminal som viser bruk av betalingskort,*kontinuerleg bruk:* all bruk av kassasystemet, blant anna registrering av sal mv. og utskrift av kvitteringar som nemnt i bokstavane d til h, endring av priser, korreksjonar, opningar av kassaskuff (nullinnslag), utskrift av rapportar og liknande, samt endringar av programvare og førebels tilkopling av ekstern programvare,*elektronisk journal:* dokumentasjon av den kontinuerlege bruken av kassasystemet i elektronisk form,*Z-rapport:* samanstilling av dagens registreringar i kassasystemet,*X-rapport:* samanstilling av registreringar i kassasystemet sidan førre Z-rapport,*grand total retur:* akkumulert verdi av returar og andre postar som har redusert kontantsalet,*grand total sal:* akkumulert kontantsal, utan frådrag av grand total retur,*grand total netto:* grand total sal redusert for grand total retur,*STEB-kvittering*: kopikvittering som skal leggjast i forsegla pose (Security Tamper Evident Bag) ved kjøp av taxfree-varer i lufthavner,*Integrert betalingsløysing:* løysing kor informasjon om salet, beløp mv. sendast frå kassasystemet til betalingsløysinga, betalinga blir registrert automatisk i kassasystemet og betalingsmiddelet er anna enn setlar og myntar.
+I denne forskrifta tyder
+
+1. *kassaskuff:* oppbevaringsplass for betalingsmiddel som blir registrert i eit kassasystem,
+2. *kassapunkt:* ei eining innan eit kassasystem som kan avslutte eit kontantsal ved å beordre utskrift av ei salskvittering.
+3. *opning av kassaskuff (nullinnslag):* integrert kassaskuff opnast utan at det har skjedd nokon registrering av kontantsal eller tilbakebetaling,
+4. *salskvittering:* utskrift frå kassasystem som viser gjennomført kontantsalstransaksjon,
+5. *returkvittering:* utskrift frå kassasystem som viser at den salskvitteringa som er skrive ut tidlegare inneheld feilaktige opplysningar eller opplysningar om tilbakebetaling for prisjusterte eller returnerte varer eller tenester,
+6. *kopikvittering:* kopi av salskvittering,
+7. *foreløpig kvittering:* utskrift frå kassasystem som viser foreløpig registrert sal,
+8. *utleveringskvittering:* stadfesting av kredittsal,
+9. *treningskvittering:* utskrift frå kassasystemet for treningsformål som viser same slags opplysningar som ei salskvittering,
+10. *kvittering frå betalingsterminal:* utskrift frå betalingsterminal som viser bruk av betalingskort,
+11. *kontinuerleg bruk:* all bruk av kassasystemet, blant anna registrering av sal mv. og utskrift av kvitteringar som nemnt i bokstavane d til h, endring av priser, korreksjonar, opningar av kassaskuff (nullinnslag), utskrift av rapportar og liknande, samt endringar av programvare og førebels tilkopling av ekstern programvare,
+12. *elektronisk journal:* dokumentasjon av den kontinuerlege bruken av kassasystemet i elektronisk form,
+13. *Z-rapport:* samanstilling av dagens registreringar i kassasystemet,
+14. *X-rapport:* samanstilling av registreringar i kassasystemet sidan førre Z-rapport,
+15. *grand total retur:* akkumulert verdi av returar og andre postar som har redusert kontantsalet,
+16. *grand total sal:* akkumulert kontantsal, utan frådrag av grand total retur,
+17. *grand total netto:* grand total sal redusert for grand total retur,
+18. *STEB-kvittering*: kopikvittering som skal leggjast i forsegla pose (Security Tamper Evident Bag) ved kjøp av taxfree-varer i lufthavner,
+19. *Integrert betalingsløysing:* løysing kor informasjon om salet, beløp mv. sendast frå kassasystemet til betalingsløysinga, betalinga blir registrert automatisk i kassasystemet og betalingsmiddelet er anna enn setlar og myntar.
 
 > Endra ved [forskrifter 6 juli 2016 nr. 901](forskrift/2016-07-06-901), [4 juli 2018 nr. 1128](forskrift/2018-07-04-1128), [21 sep 2018 nr. 1349](forskrift/2018-09-21-1349), [4 juli 2018 nr. 1128](forskrift/2018-07-04-1128) (i kraft 1 jan 2019).
 
@@ -122,7 +142,34 @@ Kassasystemet skal for kvart kassapunkt kunne produsere X-rapportar, Z-rapportar
 
 ### § 2-8-2. X-rapport
 
-Ein X-rapport skal minst innehalde desse opplysningane:påskrift om at rapporten er ein X-rapport,namn og organisasjonsnummer til føretaket,dato og klokkeslett,ID-nummeret til kassapunktet,totalt kontantsal,talet på kontantsal og beløp minimum fordelt på hovudgrupper,talet på kontantsal og beløp fordelt på ulike betalingsmiddel,talet på kontantsal og beløp fordelt på ulike betalingsmiddel spesifisert for kvar enkelt operatør, dersom kassasystemet har funksjonar for dette,talet på tips og beløp, dersom kassasystemet har funksjonar for dette,avgiftspliktig og avgiftsfritt kontantsal mv. samt meirverdiavgift fordelt på ulike meirverdiavgiftssatsar,inngåande vekselkasse,talet på salskvitteringar,talet på opningar av kassaskuff,talet på kopikvitteringar og beløp,talet på foreløpige kvitteringar og beløp,talet på returkvitteringar og beløp,talet på rabattar og beløp,talet på avbrotne kontantsal og beløp,talet på linjekorreksjonar spesifisert på type og beløp,talet på prisundersøkingar spesifisert på varegruppe og beløp,talet på andre korreksjonar spesifisert på type og beløp,talet på utleveringskvitteringar og beløp,talet på treningskvitteringar og beløp,grand total sal,grand total retur,grand total netto.
+Ein X-rapport skal minst innehalde desse opplysningane:
+
+1. påskrift om at rapporten er ein X-rapport,
+2. namn og organisasjonsnummer til føretaket,
+3. dato og klokkeslett,
+4. ID-nummeret til kassapunktet,
+5. totalt kontantsal,
+6. talet på kontantsal og beløp minimum fordelt på hovudgrupper,
+7. talet på kontantsal og beløp fordelt på ulike betalingsmiddel,
+8. talet på kontantsal og beløp fordelt på ulike betalingsmiddel spesifisert for kvar enkelt operatør, dersom kassasystemet har funksjonar for dette,
+9. talet på tips og beløp, dersom kassasystemet har funksjonar for dette,
+10. avgiftspliktig og avgiftsfritt kontantsal mv. samt meirverdiavgift fordelt på ulike meirverdiavgiftssatsar,
+11. inngåande vekselkasse,
+12. talet på salskvitteringar,
+13. talet på opningar av kassaskuff,
+14. talet på kopikvitteringar og beløp,
+15. talet på foreløpige kvitteringar og beløp,
+16. talet på returkvitteringar og beløp,
+17. talet på rabattar og beløp,
+18. talet på avbrotne kontantsal og beløp,
+19. talet på linjekorreksjonar spesifisert på type og beløp,
+20. talet på prisundersøkingar spesifisert på varegruppe og beløp,
+21. talet på andre korreksjonar spesifisert på type og beløp,
+22. talet på utleveringskvitteringar og beløp,
+23. talet på treningskvitteringar og beløp,
+24. grand total sal,
+25. grand total retur,
+26. grand total netto.
 
 Dersom det vert skrive ut kvitteringar for kredittsal frå kassapunktet, skal talet på kredittsal og beløp spesifiserast. Det same gjeld innbetalingar og returkvitteringar som gjeld kredittsal. Også talet på andre inn- og utbetalingar som blir registrert på kassapunktet, skal spesifiserast på type og beløp.
 

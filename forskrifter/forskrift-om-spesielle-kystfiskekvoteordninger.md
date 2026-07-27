@@ -56,9 +56,19 @@ Med «startet fiske» menes når det er fisket og levert fangst samt skrevet lan
 
 ### § 4. Bruk av særlig kvoteordning
 
-Fiskeridirektoratet kan etter søknad gi fartøyeier tillatelse til bruk av særlig kvoteordning i følgende fiskerier:fisket etter torsk, hyse og sei nord for 62 grader nordfisket etter makrell med garn/snøre og/eller notfisket etter sild i Nordsjøenfisket etter norsk vårgytende sild.
+Fiskeridirektoratet kan etter søknad gi fartøyeier tillatelse til bruk av særlig kvoteordning i følgende fiskerier:
 
-Tillatelse til bruk av særlig kvoteordning kan bare gis dersom følgende vilkår er oppfylt:Fartøyeier må på vedtakstidspunktet være eier av to fartøy med deltakeradgang i lukket gruppe i det aktuelle fiskeriet. Deltakeradgangene må ha hjemmelslengde under 11 meter (13 meter for deltakeradganger i fisket etter makrell med not). Fartøyene må på vedtakstidspunktet ha samme direkte eier.Fartøyeier må ha eid begge fartøyene det foregående kvoteår.Det ene fartøyets deltakeradgang må oppgis. Det kan ikke være registrert fangst inneværende år på deltakeradgangen som oppgis.Fartøyet som oppgir deltakeradgang skal slettes i merkeregisteret. Dette er ikke til hinder for at dette fartøyet senere kan føres inn igjen i merkeregisteret med samme eller annen eier dersom vilkårene for dette er oppfylt. Det kan gjøres unntak fra kravet om sletting i merkeregisteret dersom fartøyet har adgang til å delta i lukket gruppe i et annet fiskeri.
+1. fisket etter torsk, hyse og sei nord for 62 grader nord
+2. fisket etter makrell med garn/snøre og/eller not
+3. fisket etter sild i Nordsjøen
+4. fisket etter norsk vårgytende sild.
+
+Tillatelse til bruk av særlig kvoteordning kan bare gis dersom følgende vilkår er oppfylt:
+
+1. Fartøyeier må på vedtakstidspunktet være eier av to fartøy med deltakeradgang i lukket gruppe i det aktuelle fiskeriet. Deltakeradgangene må ha hjemmelslengde under 11 meter (13 meter for deltakeradganger i fisket etter makrell med not). Fartøyene må på vedtakstidspunktet ha samme direkte eier.
+2. Fartøyeier må ha eid begge fartøyene det foregående kvoteår.
+3. Det ene fartøyets deltakeradgang må oppgis. Det kan ikke være registrert fangst inneværende år på deltakeradgangen som oppgis.
+4. Fartøyet som oppgir deltakeradgang skal slettes i merkeregisteret. Dette er ikke til hinder for at dette fartøyet senere kan føres inn igjen i merkeregisteret med samme eller annen eier dersom vilkårene for dette er oppfylt. Det kan gjøres unntak fra kravet om sletting i merkeregisteret dersom fartøyet har adgang til å delta i lukket gruppe i et annet fiskeri.
 
 Tillatelse til bruk av særlig kvoteordning gir fartøyeier adgang til å fiske to kvoter i det aktuelle fisket med fartøyet som ikke slettes i merkeregisteret, henholdsvis kvote for fartøyets egen deltakeradgang og kvote for den oppgitte deltakeradgangen. Fartøyet kan ikke delta i kvotesamarbeidsordning i lukket gruppe det samme kvoteåret som fartøyet har tillatelse til bruk av særlig kvoteordning i det samme fiskeriet. Deltakelse i særlig kvoteordning er ikke til hinder for deltakelse i samfiskeordningen etter [høstingsforskriften kapittel VII](forskrift/2021-12-23-3910/kapVII).
 
@@ -100,7 +110,10 @@ Dersom et fiskeri blir adgangsbegrenset etter reglene i [deltakerloven § 21](lo
 
 ### § 8. Vilkår for tildeling av strukturkvote
 
-Tillatelse etter [§ 7](forskrift/2003-11-07-1309/§7) kan gis når:ett eller flere fartøy som nevnt i [§ 1](forskrift/2003-11-07-1309/§1) blir meldt ut av registeret over fiskefartøy, ogalle deltakeradganger og konsesjoner knyttet til fartøyet eller fartøyene som blir meldt ut av merkeregisteret, blir oppgitt.
+Tillatelse etter [§ 7](forskrift/2003-11-07-1309/§7) kan gis når:
+
+1. ett eller flere fartøy som nevnt i [§ 1](forskrift/2003-11-07-1309/§1) blir meldt ut av registeret over fiskefartøy, og
+2. alle deltakeradganger og konsesjoner knyttet til fartøyet eller fartøyene som blir meldt ut av merkeregisteret, blir oppgitt.
 
 Dersom det er tildelt konsesjoner for fiske med det fartøyet som tas ut av fiske, kan tilsvarende konsesjon tildeles det gjenværende fartøyet dersom fartøyet fyller vilkårene for slik tildeling og den aktuelle konsesjonen har vært nyttet aktivt. Dersom det uttatte fartøyet hadde adgang til å delta i fiskerier som det gjenværende ikke hadde adgang til, kan slik deltakeradgang på tilsvarende vilkår retildeles det gjenværende fartøyet. Vilkårene fastsatt i [§ 9](forskrift/2003-11-07-1309/§9) annet og tredje ledd gjelder tilsvarende for slik retildeling av deltakeradgang.
 
@@ -116,7 +129,10 @@ Det eller de fartøy som tildeles strukturkvote og det fartøyet som tas ut av f
 
 Når det gjelder kvote av torsk, hyse og sei må det eller de fartøy som tildeles strukturkvote og det fartøyet som tas ut av fiske, begge eller alle ha vært registrert i samme landsdel i minst 12 måneder før det kan tildeles strukturkvote. Nord-Norge (Finnmark, Troms og Nordland) og Sør-Norge (fra Trøndelag og sørover) regnes i denne sammenheng som hver sin landsdel. Unntak fra dette gjelder bare i de tilfeller som følger av [forskrift 8. desember 2015 nr. 1418](forskrift/2015-12-08-1418) om adgang til å delta i kystfiskefartøygruppens fiske for 2016 [§ 45](forskrift/2015-12-08-1418/§45), eller bestemmelser som kommer til erstatning for denne.
 
-Det kan ikke tildeles strukturkvote dersomdeltakeradgangen som oppgis er tildelt i rekrutteringsøyemed, ogfartøyet som tildeles strukturkvote ikke er i samme eie som fartøyet som tas ut av fiske, og som deltakeradgangen oppgis fra.
+Det kan ikke tildeles strukturkvote dersom
+
+1. deltakeradgangen som oppgis er tildelt i rekrutteringsøyemed, og
+2. fartøyet som tildeles strukturkvote ikke er i samme eie som fartøyet som tas ut av fiske, og som deltakeradgangen oppgis fra.
 
 > Endret ved [forskrifter 8 juni 2007 nr. 586](forskrift/2007-06-08-586), [14 des 2007 nr. 1432](forskrift/2007-12-14-1432) (i kraft 1 jan 2008), [17 juni 2016 nr. 677](forskrift/2016-06-17-677).
 

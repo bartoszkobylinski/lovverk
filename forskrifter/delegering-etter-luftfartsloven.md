@@ -15,7 +15,7 @@ xml_hash: "8d4aa8d209c30323deb6654aaf68352d3743091b76aa0871655584b34cde19d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,10 @@ Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 10
 - § 4-6, jf. § 4-5 tredje ledd, om godkjenning av utenlandsk bevis,
 - § 4-7 annet ledd første punktum om eiers og brukeres ansvar,
 - § 4-9 om unntak og
-- § 4-10om særskilt godkjenning,om suspensjon og tilbakekall av flytekniske sertifikater.
+- § 4-10
+
+  - om særskilt godkjenning,
+  - om suspensjon og tilbakekall av flytekniske sertifikater.
 
 *Kapittel V. Bemanning*
 
@@ -60,13 +63,19 @@ Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 10
 
 - § 7-1 om landingsplass,
 - § 7-3 om regulering av lufttrafikken,
-- § 7-4annet ledd om flysikringstjeneste,tredje og fjerde ledd om utstedelse, suspensjon og tilbakekall av sertifikater i flysikringstjenesten,
+- § 7-4
+
+  - annet ledd om flysikringstjeneste,
+  - tredje og fjerde ledd om utstedelse, suspensjon og tilbakekall av sertifikater i flysikringstjenesten,
 - § 7-4a om misbruk av legemidler m.v. i flysikringstjenesten m.fl.
 - § 7-5 om konsesjon til landingsplass – på det vilkår at konsesjonssaker av politisk karakter skal forelegges Samferdselsdepartementet.
 - § 7-11 første ledd tredje punktum om godkjenning av landingsplass,
 - § 7-22 om områder som ikke går inn under noen plan over luftfartshindringer,
 - § 7-24 om bruk, adgang til og ferdsel på landingsplass mv.,
-- § 7-25første ledd til å foreta mindre endringer og tilføyelser tillagt Samferdselsdepartementet etter § 7-1 i forskrift fastsatt ved [kgl.res. 13. desember 1996 nr. 1146](forskrift/1996-12-13-1146) om forebyggelse av anslag mot sikkerheten i luftfarten,annet ledd om å kunne pålegge flyselskaper, fraktagenter m.fl. å utarbeide og gjennomføre sikkerhetsinstruks og
+- § 7-25
+
+  - første ledd til å foreta mindre endringer og tilføyelser tillagt Samferdselsdepartementet etter § 7-1 i forskrift fastsatt ved [kgl.res. 13. desember 1996 nr. 1146](forskrift/1996-12-13-1146) om forebyggelse av anslag mot sikkerheten i luftfarten,
+  - annet ledd om å kunne pålegge flyselskaper, fraktagenter m.fl. å utarbeide og gjennomføre sikkerhetsinstruks og
 - § 7-29 om sertifisering og tilbakekall, suspensjon mv. for tjenestegjørende på landingsplass mv.
 
 > Endret ved [forskrift 5 des 2001 nr. 1342](forskrift/2001-12-05-1342) (i kraft 1 jan 2002).

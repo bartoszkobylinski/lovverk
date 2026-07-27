@@ -15,7 +15,7 @@ xml_hash: "ad2ae31683415fdb7e3a359a6dd48122aaf062e9376fe4036e0a0db8a22c2a0b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,11 @@ I kommuneplanens arealdel kan kommunen gi bestemmelser som tillater visse tiltak
 
 ## 4. Geografisk differensiering
 
-Retningslinjene deler landet inn i tre soner med ulike føringer tilpasset utbyggingspress og behovet for vern av de interessene som skal ivaretas i strandsonen jf. § 1-8 første ledd:Kystkommunene i Oslofjordregionen (sone 1), punkt 9 nedenfor.Andre områder der presset på arealene er stort (sone 2), punkt 10 nedenforOmråder med mindre press på arealene (sone 3), punkt 11 nedenfor.
+Retningslinjene deler landet inn i tre soner med ulike føringer tilpasset utbyggingspress og behovet for vern av de interessene som skal ivaretas i strandsonen jf. § 1-8 første ledd:
+
+- Kystkommunene i Oslofjordregionen (sone 1), punkt 9 nedenfor.
+- Andre områder der presset på arealene er stort (sone 2), punkt 10 nedenfor
+- Områder med mindre press på arealene (sone 3), punkt 11 nedenfor.
 
 Soneinndelingen tar ikke fullt ut hensyn til lokale forskjeller i utbyggingspress og verneverdier innad i den enkelte kommune. Retningslinjene legger derfor opp til at ytterligere differensiering kan gjøres i kommuneplanens arealdel.
 
@@ -114,7 +118,9 @@ Eldre reguleringsplaner som gir mulighet for utbygging i strid med retningslinje
 
 ## 8. Retningslinjer for kystkommunene i Oslofjordregionen (sone 1)
 
-Kysten i Oslo, Viken, Vestfold og Telemark er sentrale områder med særlig stort press på arealene. Dette gjelder følgende kommuner:*Oslo, Viken og Vestfold og Telemark:* Alle kystkommunene
+Kysten i Oslo, Viken, Vestfold og Telemark er sentrale områder med særlig stort press på arealene. Dette gjelder følgende kommuner:
+
+- *Oslo, Viken og Vestfold og Telemark:* Alle kystkommunene
 
 I disse områdene gjelder følgende retningslinjer:
 

@@ -15,7 +15,7 @@ xml_hash: "92f4b14ecd6036b446166d7dfcece5569492608261b31508f1cb5f7317af85dc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,33 +26,66 @@ eu_basis: []
 
 ### § 1. Mål for tilskuddsordningen
 
-Tilskuddsordningen har to overordnede målområder:en helhetlig ivaretakelse av hivpositiveforebygge nysmitte av hiv og seksuelt overførbare infeksjoner.
+Tilskuddsordningen har to overordnede målområder:
+
+1. en helhetlig ivaretakelse av hivpositive
+2. forebygge nysmitte av hiv og seksuelt overførbare infeksjoner.
 
 ### § 2. Målgrupper for tilskuddsordningen
 
-De tre hovedmålgruppene er:mennesker som lever med hivmenn som har sex med menn med sårbarhet for hiv og seksuelt overførbare infeksjonermigranter med sårbarhet for hiv og seksuelt overførbare infeksjoner.
+De tre hovedmålgruppene er:
 
-I tillegg kan følgende være målgrupper for prosjekttilskudd:andre befolkningsgrupper som har sårbarhet for hiv og seksuelt overførbare infeksjoner (herunder mennesker som selger og kjøper sex, sprøytebrukere m.fl.).
+1. mennesker som lever med hiv
+2. menn som har sex med menn med sårbarhet for hiv og seksuelt overførbare infeksjoner
+3. migranter med sårbarhet for hiv og seksuelt overførbare infeksjoner.
+
+I tillegg kan følgende være målgrupper for prosjekttilskudd:
+
+1. andre befolkningsgrupper som har sårbarhet for hiv og seksuelt overførbare infeksjoner (herunder mennesker som selger og kjøper sex, sprøytebrukere m.fl.).
 
 ### § 3. To typer tilskudd
 
-Ordningen har to typer tilskudd: driftstilskudd og prosjekttilskudd. For oversikt over hvem som kan søke, se [§ 5](forskrift/2015-12-17-1886/§5).*Driftstilskudd*: Det kan gis driftstilskudd til inntil tre søkere som skal ha hovedansvaret for å følge opp målområdene i [§ 1](forskrift/2015-12-17-1886/§1) og som er rettet mot en eller flere av de tre hovedmålgruppene i [§ 2](forskrift/2015-12-17-1886/§2). Det skal søkes om driftstilskudd for en periode på 3 år. Første treårige periode er fra 2016 til og med 2018. Ved treårig innvilgelse av tilskudd tas det forbehold om Stortingets årlige bevilgning.*Prosjekttilskudd:* Det kan gis årlige prosjekttilskudd til søkere som følger opp målområdene i § 1 i forskriften og som retter seg mot relevante målgrupper som definert i [§ 2](forskrift/2015-12-17-1886/§2).
+Ordningen har to typer tilskudd: driftstilskudd og prosjekttilskudd. For oversikt over hvem som kan søke, se [§ 5](forskrift/2015-12-17-1886/§5).
+
+1. *Driftstilskudd*: Det kan gis driftstilskudd til inntil tre søkere som skal ha hovedansvaret for å følge opp målområdene i [§ 1](forskrift/2015-12-17-1886/§1) og som er rettet mot en eller flere av de tre hovedmålgruppene i [§ 2](forskrift/2015-12-17-1886/§2). Det skal søkes om driftstilskudd for en periode på 3 år. Første treårige periode er fra 2016 til og med 2018. Ved treårig innvilgelse av tilskudd tas det forbehold om Stortingets årlige bevilgning.
+2. *Prosjekttilskudd:* Det kan gis årlige prosjekttilskudd til søkere som følger opp målområdene i § 1 i forskriften og som retter seg mot relevante målgrupper som definert i [§ 2](forskrift/2015-12-17-1886/§2).
 
 Budsjettrammen for de to typene tilskudd fastsettes i den årlige kunngjøringen.
 
 ### § 4. Kriterier for måloppnåelse
 
-Opplysninger som innhentes fra tilskuddsmottaker for å belyse måloppnåelsen gjennom rapportering hvert år. Mottaker må i søknaden selv definere hvilke av kriterieriene nedenfor som er mest relevante:hvilke tiltak som er gjennomført for de ulike målgruppene, med relevante nøkkeltall (eksempelvis: antall deltagere, antall seminar, antall kondomer delt ut osv.)hvilken praktisk og psykososial oppfølging organisasjonen har tilbudt hivpositive og andre berørte, med relevante nøkkeltall per årantall og typer tester for hiv og seksuelt overførbare sykdommer som har blitt gjennomførtdata som viser måloppnåelse knyttet til ny strategi for seksuell helse (f.o.m. 2017)resultater fra brukerundersøkelserantall rapporter eller kunnskapsinnhentinger gjennomført.
+Opplysninger som innhentes fra tilskuddsmottaker for å belyse måloppnåelsen gjennom rapportering hvert år. Mottaker må i søknaden selv definere hvilke av kriterieriene nedenfor som er mest relevante:
 
-Opplysninger som skal innhentes av Helsedirektoratet for å belyse måloppnåelsen:antall nysmittede hivpositive, spesielt innenfor gruppen MSM og i gruppen flyktninger, asylsøkere og familiegjenforente som ble smittet etter ankomst til Norgeantall hivpositive som er i behandling.
+1. hvilke tiltak som er gjennomført for de ulike målgruppene, med relevante nøkkeltall (eksempelvis: antall deltagere, antall seminar, antall kondomer delt ut osv.)
+2. hvilken praktisk og psykososial oppfølging organisasjonen har tilbudt hivpositive og andre berørte, med relevante nøkkeltall per år
+3. antall og typer tester for hiv og seksuelt overførbare sykdommer som har blitt gjennomført
+4. data som viser måloppnåelse knyttet til ny strategi for seksuell helse (f.o.m. 2017)
+5. resultater fra brukerundersøkelser
+6. antall rapporter eller kunnskapsinnhentinger gjennomført.
+
+Opplysninger som skal innhentes av Helsedirektoratet for å belyse måloppnåelsen:
+
+1. antall nysmittede hivpositive, spesielt innenfor gruppen MSM og i gruppen flyktninger, asylsøkere og familiegjenforente som ble smittet etter ankomst til Norge
+2. antall hivpositive som er i behandling.
 
 ## Kapittel 2. Krav til søknaden
 
 ### § 5. Hvem kan søke?
 
-Følgende kan søke driftstilskudd:StiftelserOrganisasjonerAlternativt kan to eller flere organisasjoner/stiftelser samarbeide om en felles søknad om driftstilskudd innenfor et eller flere av de tre innsatsområdene. Det er kun én part som kan søke på vegne av fellesskapet. Det er denne som står økonomisk og administrativt ansvarlig overfor Helsedirektoratet.
+Følgende kan søke driftstilskudd:
 
-Følgende kan søke prosjekttilskudd:KommunerFylkeskommunerStatlige/kommunale/fylkeskommunale virksomheterStiftelserPrivate bedrifterOrganisasjoner.
+1. Stiftelser
+2. Organisasjoner
+3. Alternativt kan to eller flere organisasjoner/stiftelser samarbeide om en felles søknad om driftstilskudd innenfor et eller flere av de tre innsatsområdene. Det er kun én part som kan søke på vegne av fellesskapet. Det er denne som står økonomisk og administrativt ansvarlig overfor Helsedirektoratet.
+
+Følgende kan søke prosjekttilskudd:
+
+1. Kommuner
+2. Fylkeskommuner
+3. Statlige/kommunale/fylkeskommunale virksomheter
+4. Stiftelser
+5. Private bedrifter
+6. Organisasjoner.
 
 ### § 6. Krav til søknadens form og innhold
 
@@ -81,7 +114,10 @@ Søknaden skal undertegnes av styreleder eller den som har prokura. For kommuner
 2. søker skal redegjøre for de interne og eksterne kontrolltiltak som skal sikre korrekt rapportering og måloppnåelse (for eksempel interne kontrollaktiviteter, internrevisjon, autorisert revisor/ikke autorisert revisor, andre offentlige tilsyn og Riksrevisjonen)
 3. søker skal definere konkrete kriterier for måloppnåelse for sine aktiviteter. Kriteriene skal benyttes i søkers rapportering som et ledd i egenevalueringen. De skal bidra til å beskrive hvordan, og i hvilke grad målene definert i søknaden er nådd. Kriteriene skal belyse forskriftens paragraf [§ 4](forskrift/2015-12-17-1886/§4) Kriterier for måloppnåelse. Kriteriene kan være kvantifiserbare (nøkkeltall) og/eller skjønnsbaserte.
 
-Følgende vedlegg skal følge søknaden for driftstilskudd:en beskrivelse av tiltaks- og fremdriftsplan for hele prosjektperioden (3 år)en beskrivelse av budsjett for hele prosjektperioden (3 år).
+Følgende vedlegg skal følge søknaden for driftstilskudd:
+
+1. en beskrivelse av tiltaks- og fremdriftsplan for hele prosjektperioden (3 år)
+2. en beskrivelse av budsjett for hele prosjektperioden (3 år).
 
 Er innvilget tilskuddsbeløp lavere enn omsøkt tilskudd, skal det leveres et revidert budsjett og fremdriftsplan før midlene kan utbetales.
 
@@ -93,11 +129,52 @@ Søknader som kommer inn etter søknadsfristen kan avvises.
 
 Vurdering av tildeling er skjønnsmessig og tar utgangspunkt i søknadenes forventede måloppnåelse sett opp mot målene og målgruppene for tilskuddsordningen, jf. [§ 1](forskrift/2015-12-17-1886/§1) og [§ 2](forskrift/2015-12-17-1886/§2). Søknader som faller utenfor målet og målgruppene for ordningen vil bli avvist.
 
-Søknadene vurderes ut fra tildelingskriteriene 1–21. Kriteriene er vektet. Det gis en karakter til hver søknad i form av en prosentandel som indikerer saksbehandlers vurdering av søknaden. Kriterier som åpenbart ikke er relevant for vurderingen av den konkrete søknaden, vil ikke regnes med.*Strategisk relevans (vekting: 25 prosent)*Innenfor mål og målgruppeneErfaring fra målområde(ne)Kompetanse på målområdetNedslagsfeltSamarbeidBrukermedvirkning/brukerstyringPlan for evaluering og rapporteringPlan for videreføring*Kvalitet på innhold (vekting: 25 prosent)*Fokus på hivtestingFokus på kondombrukHelhetlige ivaretakelse av hiv-positiveGenerelt forebyggende arbeid relatert til seksuell helse*Kvalitet på søknad (vekting: 25 prosent)*Målrettethet og kriterier for måloppnåelseTydelig og etterprøvbar metode/kunnskap basisPlanlegging av aktiviteter og tidsplanSammenheng mellom aktivitet og målene for ordningenRisikobevissthetKvalitetsutvikling*Økonomi (vekting: 25 prosent)*Klart og presist budsjettKost-nytte vurderingPlan for finansiering.
+Søknadene vurderes ut fra tildelingskriteriene 1–21. Kriteriene er vektet. Det gis en karakter til hver søknad i form av en prosentandel som indikerer saksbehandlers vurdering av søknaden. Kriterier som åpenbart ikke er relevant for vurderingen av den konkrete søknaden, vil ikke regnes med.
+
+*Strategisk relevans (vekting: 25 prosent)*
+
+1. Innenfor mål og målgruppene
+2. Erfaring fra målområde(ne)
+3. Kompetanse på målområdet
+4. Nedslagsfelt
+5. Samarbeid
+6. Brukermedvirkning/brukerstyring
+7. Plan for evaluering og rapportering
+8. Plan for videreføring
+
+*Kvalitet på innhold (vekting: 25 prosent)*
+
+1. Fokus på hivtesting
+2. Fokus på kondombruk
+3. Helhetlige ivaretakelse av hiv-positive
+4. Generelt forebyggende arbeid relatert til seksuell helse
+
+*Kvalitet på søknad (vekting: 25 prosent)*
+
+1. Målrettethet og kriterier for måloppnåelse
+2. Tydelig og etterprøvbar metode/kunnskap basis
+3. Planlegging av aktiviteter og tidsplan
+4. Sammenheng mellom aktivitet og målene for ordningen
+5. Risikobevissthet
+6. Kvalitetsutvikling
+
+*Økonomi (vekting: 25 prosent)*
+
+1. Klart og presist budsjett
+2. Kost-nytte vurdering
+3. Plan for finansiering.
 
 ### § 8. Særlige prioriteringer
 
-Der søknader oppnår likeverdige karakterer etter tildelingskriteriene vil de særlige prioriteringene nedenfor avgjøre vurderingen av søknadene:erfaring fra innsatsområdetfaglig kompetanse på innsatsområdetkapasitet til å ivareta et overordnet seksuell helse-perspektivhar knyttet til seg frivillige og dokumentert brukermedvirkning/brukerstyringhar et nasjonalt nedslagsfelthar dokumenterte planer om å samarbeide med andre organisasjonerhar tatt i bruk kvalitetsutviklingsverktøyet Succeed eller et av de andre kvalitetsverktøyene knyttet til Quality Action (Joint Action on Improving Quality in HIV Prevention).
+Der søknader oppnår likeverdige karakterer etter tildelingskriteriene vil de særlige prioriteringene nedenfor avgjøre vurderingen av søknadene:
+
+1. erfaring fra innsatsområdet
+2. faglig kompetanse på innsatsområdet
+3. kapasitet til å ivareta et overordnet seksuell helse-perspektiv
+4. har knyttet til seg frivillige og dokumentert brukermedvirkning/brukerstyring
+5. har et nasjonalt nedslagsfelt
+6. har dokumenterte planer om å samarbeide med andre organisasjoner
+7. har tatt i bruk kvalitetsutviklingsverktøyet Succeed eller et av de andre kvalitetsverktøyene knyttet til Quality Action (Joint Action on Improving Quality in HIV Prevention).
 
 ### § 9. Saksbehandling
 

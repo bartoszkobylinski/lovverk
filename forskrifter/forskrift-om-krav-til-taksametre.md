@@ -34,7 +34,24 @@ Forskriften fastsetter krav til installasjon og bruk av taksametre og gir utfyll
 
 ### § 2. Definisjoner
 
-I forskriften menes med*taksameter:* en innretning som sammen med en signalgenerator utgjør et måleredskap. Innretningen måler varighet og beregner distanse på grunnlag av et signal levert av avstandssignalgeneratoren og beregner og angir beløpet som skal betales for en tur, på grunnlag av turens beregnede distanse og/eller målt varighet*tilleggsinnretning:* en innretning eller programvare som kobles til taksameterets grensesnitt*målestørrelsen:* den bestemte størrelsen som skal måles*oppdragspris:* det samlede pengebeløp som skal betales for en tur basert på en fast starttakst og/eller turens lengde og/eller varighet uten tillegg for ekstra tjenester*brytningspunkt:* hastighetsverdien man får ved å dividere en tidstakst med avstandstakst*normal beregningsmåte S (anvendelse av enkelttakst):* prisberegning basert på anvendelse av tidstaksten under brytningspunktet og anvendelsen av avstandstaksten over brytningspunktet*normal beregningsmåte D (anvendelse av parallelltakst):* prisberegning basert på samtidig anvendelse av tidstakst og avstandstakst under hele turen*driftsstillinger:* forskjellige modus for taksameterets ulike funksjoner. Driftsstillingene kjennetegnes av følgende:*Ledig:* driftsstilling der prisberegningen er deaktivert*Opptatt:* driftsstilling der prisberegningen gjøres på grunnlag av en takst for turens tilbakelagte distanse og/eller tid og en eventuell starttakst*Stopp:* driftsstilling der oppdragsprisen for turen er angitt, og i hvert fall prisberegningen som er basert på tid, er deaktivert.*påvirkende størrelse:* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet*angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør taksameterets normale driftsbetingelser*forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i de relevante krav, men utenfor taksameterets angitte driftsbetingelser. En påvirkende størrelse er en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser*klimatiske miljøer:* de omgivelser der taksameteret kan benyttes.
+I forskriften menes med
+
+1. *taksameter:* en innretning som sammen med en signalgenerator utgjør et måleredskap. Innretningen måler varighet og beregner distanse på grunnlag av et signal levert av avstandssignalgeneratoren og beregner og angir beløpet som skal betales for en tur, på grunnlag av turens beregnede distanse og/eller målt varighet
+2. *tilleggsinnretning:* en innretning eller programvare som kobles til taksameterets grensesnitt
+3. *målestørrelsen:* den bestemte størrelsen som skal måles
+4. *oppdragspris:* det samlede pengebeløp som skal betales for en tur basert på en fast starttakst og/eller turens lengde og/eller varighet uten tillegg for ekstra tjenester
+5. *brytningspunkt:* hastighetsverdien man får ved å dividere en tidstakst med avstandstakst
+6. *normal beregningsmåte S (anvendelse av enkelttakst):* prisberegning basert på anvendelse av tidstaksten under brytningspunktet og anvendelsen av avstandstaksten over brytningspunktet
+7. *normal beregningsmåte D (anvendelse av parallelltakst):* prisberegning basert på samtidig anvendelse av tidstakst og avstandstakst under hele turen
+8. *driftsstillinger:* forskjellige modus for taksameterets ulike funksjoner. Driftsstillingene kjennetegnes av følgende:
+
+   1. *Ledig:* driftsstilling der prisberegningen er deaktivert
+   2. *Opptatt:* driftsstilling der prisberegningen gjøres på grunnlag av en takst for turens tilbakelagte distanse og/eller tid og en eventuell starttakst
+   3. *Stopp:* driftsstilling der oppdragsprisen for turen er angitt, og i hvert fall prisberegningen som er basert på tid, er deaktivert.
+9. *påvirkende størrelse:* en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet
+10. *angitte driftsbetingelser:* de verdier av målestørrelsen og påvirkende størrelser som utgjør taksameterets normale driftsbetingelser
+11. *forstyrrelse:* en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i de relevante krav, men utenfor taksameterets angitte driftsbetingelser. En påvirkende størrelse er en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser
+12. *klimatiske miljøer:* de omgivelser der taksameteret kan benyttes.
 
 ### § 3. Kontroll og godkjenning ved salg av taksametre
 
@@ -62,7 +79,13 @@ Et taksameter skal være konstruert slik at det beregner distansen og måler var
 
 ### § 6. Egnethet mv.
 
-Et taksameter skal væreegnet til den påtenkte bruk ved at det tas hensyn til driftsbetingelser som forekommer i praksis, og ved at det ikke skal stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatrobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserkonstruert slik at målefunksjonen skal kunne kontrolleres etter at taksameteret er markedsført og tatt i bruk, og om nødvendig skal særskilt utstyr eller programvare til kontrollen være en del av taksameteret. Testprosedyren skal være beskrevet i bruksanvisningentilstrekkelig følsomt og ha tilstrekkelig oppløsning tilpasset måleoppgavenkonstruert slik at virkningen av en funksjonsfeil som medfører et unøyaktig måleresultat reduseres så langt som mulig, med mindre feilen er åpenbar.
+Et taksameter skal være
+
+1. egnet til den påtenkte bruk ved at det tas hensyn til driftsbetingelser som forekommer i praksis, og ved at det ikke skal stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat
+2. robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser
+3. konstruert slik at målefunksjonen skal kunne kontrolleres etter at taksameteret er markedsført og tatt i bruk, og om nødvendig skal særskilt utstyr eller programvare til kontrollen være en del av taksameteret. Testprosedyren skal være beskrevet i bruksanvisningen
+4. tilstrekkelig følsomt og ha tilstrekkelig oppløsning tilpasset måleoppgaven
+5. konstruert slik at virkningen av en funksjonsfeil som medfører et unøyaktig måleresultat reduseres så langt som mulig, med mindre feilen er åpenbar.
 
 Et taksameter skal ikke ha noen egenskaper som gjør det egnet for bruk til bedrageri, og muligheten for feilbruk skal være minst mulig. Kravet skal oppfylles på en slik måte at interessene til kunde, fører, førerens arbeidsgiver og skatte- og avgiftsmyndigheter beskyttes.
 
@@ -72,11 +95,20 @@ Dersom et taksameter har tilknyttet programvare med andre funksjoner enn målefu
 
 ### § 7. Krav til normaltidsklokke
 
-Et taksameter skal være utstyrt med en sanntidsklokke som holder rede på klokkeslett og dato, som kan brukes til automatisk endring av takster. Kravene til sanntidsklokken er følgende:Tidsmålingen skal ha en nøyaktighet på minimum 0,02 %Korrigeringsmuligheten skal ikke være på mer enn 2 minutter per uke og korrigering for sommer- og vintertid skal utføres automatiskAutomatisk og manuell korrigering under en tur skal forhindres.
+Et taksameter skal være utstyrt med en sanntidsklokke som holder rede på klokkeslett og dato, som kan brukes til automatisk endring av takster. Kravene til sanntidsklokken er følgende:
+
+1. Tidsmålingen skal ha en nøyaktighet på minimum 0,02 %
+2. Korrigeringsmuligheten skal ikke være på mer enn 2 minutter per uke og korrigering for sommer- og vintertid skal utføres automatisk
+3. Automatisk og manuell korrigering under en tur skal forhindres.
 
 ### § 8. Krav til tilleggsinnretninger som skal kunne tilkobles taksametre
 
-Følgende tilleggsinnretninger skal kunne tilkobles et taksameter:SkriverTakskiltBetalingsterminalKommunikasjonsenhet for overføring av data.
+Følgende tilleggsinnretninger skal kunne tilkobles et taksameter:
+
+1. Skriver
+2. Takskilt
+3. Betalingsterminal
+4. Kommunikasjonsenhet for overføring av data.
 
 Tilleggsinnretningenes funksjoner kan bygges inn i taksameteret helt eller delvis.
 
@@ -84,13 +116,28 @@ Dersom tilleggsinnretningene som er angitt i første ledd, ikke er installert el
 
 ### § 9. Opplysninger som skal påføres taksametre
 
-Et taksameter skal være påført produsentens merke eller navn og opplysninger om taksameterets nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres:Opplysninger om bruksbetingelserMålekapasitetMåleområdeUnikt identitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseInformasjon om hvorvidt tilleggsinnretninger som angir måleresultater er omfattet av samsvarsvurderingen av taksameteret.
+Et taksameter skal være påført produsentens merke eller navn og opplysninger om taksameterets nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres:
+
+1. Opplysninger om bruksbetingelser
+2. Målekapasitet
+3. Måleområde
+4. Unikt identitetsmerke
+5. Nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse
+6. Informasjon om hvorvidt tilleggsinnretninger som angir måleresultater er omfattet av samsvarsvurderingen av taksameteret.
 
 Alle merker og påskrifter skal være tydelige og utvetydige, og de skal ikke kunne fjernes eller flyttes.
 
 ### § 10. Opplysninger som skal følge taksametre
 
-Opplysninger om betjening skal følge taksameteret med mindre taksameteret er så enkelt at dette er unødvendig. Opplysningene skal være lette å forstå og i relevant omfang omfatte følgende:Angitte driftsbetingelserElektromagnetisk miljøØvre og nedre temperaturgrenseAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskapVilkårene for kompatibilitet mellom taksameteret og avstandssignalgeneratoren.
+Opplysninger om betjening skal følge taksameteret med mindre taksameteret er så enkelt at dette er unødvendig. Opplysningene skal være lette å forstå og i relevant omfang omfatte følgende:
+
+1. Angitte driftsbetingelser
+2. Elektromagnetisk miljø
+3. Øvre og nedre temperaturgrense
+4. Anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger
+5. Anvisninger for korrekt betjening og eventuelle særlige bruksvilkår
+6. Vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap
+7. Vilkårene for kompatibilitet mellom taksameteret og avstandssignalgeneratoren.
 
 For grupper av identiske taksametre er det ikke nødvendig med individuell bruksanvisning for hver enkelt.
 
@@ -122,15 +169,30 @@ Et taksameter skal kunne anvende de normale beregningsmåtene S og D. Det skal v
 
 ### § 15. Automatisk endring av takst
 
-Automatisk endring av takst er bare tillatt på grunnlag av:Turens avstandTurens varighetKlokkeslettDatoUkedag.
+Automatisk endring av takst er bare tillatt på grunnlag av:
+
+1. Turens avstand
+2. Turens varighet
+3. Klokkeslett
+4. Dato
+5. Ukedag.
 
 ### § 16. Strømforsyningsfeil
 
-Et taksameter skal ved reduksjon i spenningsforsyningen til en verdi under nedre driftsgrense angitt av produsentenfortsette å fungere korrekt eller gjenoppta korrekt drift uten tap av dataene som var tilgjengelige før spenningsfallet dersom spenningsfallet er midlertidig, dvs. pga. gjenoppstarting av motorenstoppe en eksisterende måling og gå tilbake til driftsstillingen «Ledig» dersom spenningsfallet er mer langvarig.
+Et taksameter skal ved reduksjon i spenningsforsyningen til en verdi under nedre driftsgrense angitt av produsenten
+
+1. fortsette å fungere korrekt eller gjenoppta korrekt drift uten tap av dataene som var tilgjengelige før spenningsfallet dersom spenningsfallet er midlertidig, dvs. pga. gjenoppstarting av motoren
+2. stoppe en eksisterende måling og gå tilbake til driftsstillingen «Ledig» dersom spenningsfallet er mer langvarig.
 
 ### § 17. Summeringsinnretninger og summerte verdier
 
-Et taksameter skal være utstyrt med en summeringsinnretning som ikke kan nullstilles for følgende verdier:Samlet avstand tilbakelagt av kjøretøyetSamlet avstand tilbakelagt i driftsstilling «Opptatt»Samlet antall turer i driftsstillingen «Opptatt»Samlet pengebeløp innkrevd som tilleggSamlet pengebeløp innkrevd som oppdragspris.
+Et taksameter skal være utstyrt med en summeringsinnretning som ikke kan nullstilles for følgende verdier:
+
+1. Samlet avstand tilbakelagt av kjøretøyet
+2. Samlet avstand tilbakelagt i driftsstilling «Opptatt»
+3. Samlet antall turer i driftsstillingen «Opptatt»
+4. Samlet pengebeløp innkrevd som tillegg
+5. Samlet pengebeløp innkrevd som oppdragspris.
 
 De summerte verdiene skal omfatte verdier som er lagret under bortfall av strømforsyningen, jf. [§ 16](forskrift/2009-10-01-1226/§16). Dersom strømforsyningen til et taksameter frakobles, skal de summerte verdiene kunne lagres i ett år slik at verdiene fra taksameteret kan avleses til et annet medium.
 
@@ -140,7 +202,13 @@ Bestemmelsen er ikke til hinder for at andre verdier summeres og lagres dersom d
 
 ### § 18. Krav til levering av data
 
-Et taksameter skal kunne levere følgende data gjennom ett eller flere egnede sikre grensesnitt:Driftsstilling: «Ledig», «Opptatt», «Stopp»Summeringsdata i samsvar med [§ 17](forskrift/2009-10-01-1226/§17)Alminnelige opplysninger: kalibreringsfaktor for avstandssignalgeneratoren, dato for sikring, drosje-ID, sanntid, takstidentifikasjonOppdragspris for en tur: samlet beløp, oppdragspris, beregning av oppdragspris, tillegg, dato, starttid, sluttid, tilbakelagt distanseTakstopplysninger: takstparametre.
+Et taksameter skal kunne levere følgende data gjennom ett eller flere egnede sikre grensesnitt:
+
+1. Driftsstilling: «Ledig», «Opptatt», «Stopp»
+2. Summeringsdata i samsvar med [§ 17](forskrift/2009-10-01-1226/§17)
+3. Alminnelige opplysninger: kalibreringsfaktor for avstandssignalgeneratoren, dato for sikring, drosje-ID, sanntid, takstidentifikasjon
+4. Oppdragspris for en tur: samlet beløp, oppdragspris, beregning av oppdragspris, tillegg, dato, starttid, sluttid, tilbakelagt distanse
+5. Takstopplysninger: takstparametre.
 
 Data som er angitt i første ledd, må kunne overføres elektronisk for ekstern avlesning eller lagring.
 
@@ -176,7 +244,10 @@ Alle verdier som vises for passasjeren, skal identifiseres på en hensiktsmessig
 
 Et taksameter skal være konstruert slik at det beregner og viser oppdragsprisen i kroner i driftsstillingen «Opptatt». Taksameteret skal også være konstruert slik at det viser den endelige prisen for turen i driftsstillingen «Stopp».
 
-Verdiene for tilbakelagt avstand og medgått tid skal, når de vises eller skrives ut i samsvar med forskriften, benytte følgende enheter:For tilbakelagt avstand: kilometerFor medgått tid: sekunder, minutter eller timer, etter egnethet, idet det tas hensyn til den nødvendige oppløsning og behovet for å unngå misforståelser.
+Verdiene for tilbakelagt avstand og medgått tid skal, når de vises eller skrives ut i samsvar med forskriften, benytte følgende enheter:
+
+1. For tilbakelagt avstand: kilometer
+2. For medgått tid: sekunder, minutter eller timer, etter egnethet, idet det tas hensyn til den nødvendige oppløsning og behovet for å unngå misforståelser.
 
 Minstedelingen for en målt verdi skal være på formen 1 × 10n, 2 × 10n eller 5 × 10n, hvor n er et heltall eller null. Målenheten eller dens symbol skal vises nær tallverdien.
 
@@ -184,7 +255,11 @@ Minstedelingen for en målt verdi skal være på formen 1 × 10n, 2 × 10n eller
 
 ### § 23. Maksimale tillatte målefeil ved salg
 
-Med unntak for eventuelle feil som skyldes anvendelse av taksameteret i et kjøretøy, er maksimale tillatte målefeil under de angitte driftsbetingelser og i fravær av forstyrrelsefor medgått tid: ±0,1 %, minimumsverdi for maksimale tillatte målefeil: 0,2 sfor tilbakelagt distanse: ±0,2 %, minimumsverdi for maksimale tillatte målefeil: 4 mfor beregning av oppdragspris: ±0,1 %, minimum, herunder avrunding: tilsvarende det minst signifikante siffer i prisangivelsen.
+Med unntak for eventuelle feil som skyldes anvendelse av taksameteret i et kjøretøy, er maksimale tillatte målefeil under de angitte driftsbetingelser og i fravær av forstyrrelse
+
+1. for medgått tid: ±0,1 %, minimumsverdi for maksimale tillatte målefeil: 0,2 s
+2. for tilbakelagt distanse: ±0,2 %, minimumsverdi for maksimale tillatte målefeil: 4 m
+3. for beregning av oppdragspris: ±0,1 %, minimum, herunder avrunding: tilsvarende det minst signifikante siffer i prisangivelsen.
 
 Den maksimale tillatte målefeil uttrykkes som avviket fra den sanne måleverdi som et tosidig intervall.
 
@@ -212,17 +287,33 @@ Produsenten skal angi øvre og nedre temperaturgrense med et minste temperaturom
 
 Det mekaniske miljø klassifiseres i klasse M1, M2 og M3. Den mekaniske miljøklassen som får anvendelse for taksametre, er M3. Denne klassen omfatter måleredskap som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel måleredskap montert direkte på maskiner, transportbånd osv.
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:
+
+1. Vibrasjon
+2. Mekanisk sjokk.
 
 ### § 29. Elektromagnetiske miljø
 
 Det elektromagnetiske miljø klassifiseres i klasse E1, E2 og E3. Den elektromagnetiske miljøklassen som får anvendelse for taksametre, er E3. Maksimale tillatte målefeil fastsatt i [§ 23](forskrift/2009-10-01-1226/§23) skal overholdes også i nærvær av en elektromagnetisk forstyrrelse.
 
-Klassen E3 omfatter måleredskap som får strøm fra batteriet i et kjøretøy. Slike måleredskap skal oppfylle kravene for klasse E2. Klasse E2 omfatter måleredskap som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i industribygg. For klasse E3 gjelder kravene i tillegg ved:Spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorerSpenningstransienter ved frakobling av utladet batteri mens motoren er i drift.
+Klassen E3 omfatter måleredskap som får strøm fra batteriet i et kjøretøy. Slike måleredskap skal oppfylle kravene for klasse E2. Klasse E2 omfatter måleredskap som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i industribygg. For klasse E3 gjelder kravene i tillegg ved:
 
-Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetiske miljø:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
+1. Spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer
+2. Spenningstransienter ved frakobling av utladet batteri mens motoren er i drift.
 
-Det skal tas hensyn til følgende andre påvirkende størrelser når dette er hensiktsmessig:SpenningsvariasjonAndre størrelser som kan påvirke taksameterets nøyaktighet i vesentlig grad.
+Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetiske miljø:
+
+1. Spenningsavbrudd
+2. Kortvarig redusert spenning
+3. Spenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladninger
+4. Høyfrekvente elektromagnetisk felt
+5. Overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger
+6. Overspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når dette er hensiktsmessig:
+
+1. Spenningsvariasjon
+2. Andre størrelser som kan påvirke taksameterets nøyaktighet i vesentlig grad.
 
 ### § 30. Luftfuktighet
 
@@ -238,7 +329,10 @@ Bruker av et taksameter er ansvarlig for etterlevelse av kravene i dette kapitte
 
 ### § 32. Krav til bruk av taksametre
 
-Et taksameter er bare tillatt å ta i bruk dersom det foreligger en gyldig samsvarsvurdering i henhold til [§ 3](forskrift/2009-10-01-1226/§3), taksameteret er installert i henhold til [§ 33](forskrift/2009-10-01-1226/§33) ogJustervesenet har kontrollert og godkjent installasjonen av taksameteret i kjøretøyet og tilkoblingen til de tilleggsinnretninger som er påkrevd i henhold til [§ 8](forskrift/2009-10-01-1226/§8), ellerløyvehaver kan dokumentere at det er rekvirert installasjonskontroll hos Justervesenet der plomberingenes plassering og identitetsmerke er oppgitt.
+Et taksameter er bare tillatt å ta i bruk dersom det foreligger en gyldig samsvarsvurdering i henhold til [§ 3](forskrift/2009-10-01-1226/§3), taksameteret er installert i henhold til [§ 33](forskrift/2009-10-01-1226/§33) og
+
+1. Justervesenet har kontrollert og godkjent installasjonen av taksameteret i kjøretøyet og tilkoblingen til de tilleggsinnretninger som er påkrevd i henhold til [§ 8](forskrift/2009-10-01-1226/§8), eller
+2. løyvehaver kan dokumentere at det er rekvirert installasjonskontroll hos Justervesenet der plomberingenes plassering og identitetsmerke er oppgitt.
 
 Et taksameter som ikke er rettmessig samsvarsmerket, er ikke tillatt å bruke. Et taksameter kan bare brukes innenfor de angitte driftsbetingelsene som er omfattet av samsvarsvurderingen. Et taksameter skal brukes i henhold til produsentens anvisninger.
 
@@ -256,7 +350,12 @@ Et taksameter skal installeres i henhold til produsentens anvisninger. Ved insta
 
 ### § 34. Krav til tilleggsinnretninger som skal være tilkoblet taksametre under bruk
 
-Følgende tilleggsinnretninger skal være tilkoblet et taksameter under bruk:Takskilt, dersom det benyttesVisningsanordning og skriverBetalingsterminal dersom det skal benyttesKommunikasjonsenhet for overføring av data.
+Følgende tilleggsinnretninger skal være tilkoblet et taksameter under bruk:
+
+1. Takskilt, dersom det benyttes
+2. Visningsanordning og skriver
+3. Betalingsterminal dersom det skal benyttes
+4. Kommunikasjonsenhet for overføring av data.
 
 Tilleggsinnretningene og tilkoblingen til disse skal ikke ha egenskaper som gjør dem egnet for bruk til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig. Takskilt skal fungere slik at lampen er slukket i driftsstilling «Opptatt» og «Stopp».
 
@@ -264,11 +363,18 @@ Tilleggsinnretningene og tilkoblingen til disse skal ikke ha egenskaper som gjø
 
 ### § 35. Maksimale tillatte målefeil ved installasjon og under bruk
 
-Maksimale tillatte målefeil for taksametre ved installasjon og under bruk erfor medgått tid: ±0,25 %for tilbakelagt distanse: ±3 %for beregning av oppdragspris: ±0,1 %.
+Maksimale tillatte målefeil for taksametre ved installasjon og under bruk er
+
+1. for medgått tid: ±0,25 %
+2. for tilbakelagt distanse: ±3 %
+3. for beregning av oppdragspris: ±0,1 %.
 
 ### § 36. Opplysninger som skal være tilgjengelig ved måleteknisk kontroll
 
-Følgende opplysninger skal være lett tilgjengelig ved måleteknisk kontroll og lagres i taksameteret i minimum to år:Alle endringer i kalibreringsfaktorAlle endringer i programvare som har avgjørende betydning for de måletekniske egenskapene.
+Følgende opplysninger skal være lett tilgjengelig ved måleteknisk kontroll og lagres i taksameteret i minimum to år:
+
+1. Alle endringer i kalibreringsfaktor
+2. Alle endringer i programvare som har avgjørende betydning for de måletekniske egenskapene.
 
 ### § 37. Tilsyn
 

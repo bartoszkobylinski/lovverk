@@ -34,51 +34,108 @@ eu_basis: []
 
 ### § 1-2. Virkeområde
 
-Forskriften regulerer ansvar, oppgaver og samarbeid for Statens vegvesen, fylkeskommunene, kommunene og statlig utbyggingsselskap for veg knyttet tilinnhenting, kvalitetssikring, formidling og tilgjengeliggjøring av data om vegnettet og trafikken dertrafikkovervåking, trafikkstyring, trafikkberedskap og trafikkinformasjon for offentlig vegtrafikksikkerhets- og ulykkesanalysearbeid.
+Forskriften regulerer ansvar, oppgaver og samarbeid for Statens vegvesen, fylkeskommunene, kommunene og statlig utbyggingsselskap for veg knyttet til
+
+1. innhenting, kvalitetssikring, formidling og tilgjengeliggjøring av data om vegnettet og trafikken der
+2. trafikkovervåking, trafikkstyring, trafikkberedskap og trafikkinformasjon for offentlig veg
+3. trafikksikkerhets- og ulykkesanalysearbeid.
 
 ## Kapittel 2. Definisjoner
 
 ### § 2-1. Overordnede definisjoner
 
-I denne forskrift menes med*nasjonalt fagorgan:* Statens vegvesen i sin rolle som ansvarlig fagorgan for nasjonale oppgaver og tjenester regulert i denne forskriften*vegmyndighet:* Statens vegvesen, fylkeskommunene og kommunene med ansvar og oppgaver etter [veglova §§ 9 første ledd](lov/1963-06-21-23/§9/ledd/1) og [10 første ledd første setning](lov/1963-06-21-23/§10/ledd/1/setning/1)*statlig utbyggingsselskap for veg:* Statlig eid selskap med ansvar og oppgaver etter [veglova §§ 9 første ledd](lov/1963-06-21-23/§9/ledd/1) og [10 første ledd første setning](lov/1963-06-21-23/§10/ledd/1/setning/1).
+I denne forskrift menes med
+
+1. *nasjonalt fagorgan:* Statens vegvesen i sin rolle som ansvarlig fagorgan for nasjonale oppgaver og tjenester regulert i denne forskriften
+2. *vegmyndighet:* Statens vegvesen, fylkeskommunene og kommunene med ansvar og oppgaver etter [veglova §§ 9 første ledd](lov/1963-06-21-23/§9/ledd/1) og [10 første ledd første setning](lov/1963-06-21-23/§10/ledd/1/setning/1)
+3. *statlig utbyggingsselskap for veg:* Statlig eid selskap med ansvar og oppgaver etter [veglova §§ 9 første ledd](lov/1963-06-21-23/§9/ledd/1) og [10 første ledd første setning](lov/1963-06-21-23/§10/ledd/1/setning/1).
 
 ### § 2-2. Definisjoner vedrørende Nasjonal vegdatabank
 
-I denne forskrift menes med*Nasjonal vegdatabank:* Et nasjonalt register for lagring av vegdata med tilhørende tjenester, fagsystemer, åpne grensesnitt for utveksling av data og en datakatalog*datakatalog:* En oversikt over datainnholdet i Nasjonal vegdatabank og tilhørende fagsystemer, med beskrivelse og kategorisering av data, herunder innhold, struktur, formater, samt hvilken kvalitet dataene skal ha*vegdata:* Stedfestet informasjon om veger, herunder veggeometri, geodata og fagdata*digitalt navigerbart vegnett:* Digital beskrivelse av det sammenhengende fysiske vegnettet, herunder ferjestrekninger, som muliggjør ruteberegninger, navigasjon, avansert førerstøtte og automatisert transport*tilstandsdata:* Aggregerte data om tilstand og kvalitet på vegen og tilhørende infrastruktur for å oppdatere tilstandsindikatorer i Nasjonal vegdatabank.
+I denne forskrift menes med
+
+1. *Nasjonal vegdatabank:* Et nasjonalt register for lagring av vegdata med tilhørende tjenester, fagsystemer, åpne grensesnitt for utveksling av data og en datakatalog
+2. *datakatalog:* En oversikt over datainnholdet i Nasjonal vegdatabank og tilhørende fagsystemer, med beskrivelse og kategorisering av data, herunder innhold, struktur, formater, samt hvilken kvalitet dataene skal ha
+3. *vegdata:* Stedfestet informasjon om veger, herunder veggeometri, geodata og fagdata
+4. *digitalt navigerbart vegnett:* Digital beskrivelse av det sammenhengende fysiske vegnettet, herunder ferjestrekninger, som muliggjør ruteberegninger, navigasjon, avansert førerstøtte og automatisert transport
+5. *tilstandsdata:* Aggregerte data om tilstand og kvalitet på vegen og tilhørende infrastruktur for å oppdatere tilstandsindikatorer i Nasjonal vegdatabank.
 
 ### § 2-3. Definisjoner vedrørende trafikkdata og reisetidsdata
 
-I denne forskrift menes med*trafikkdata:* Data om registrerte og beregnede trafikkmengder samt sammensetning og egenskaper som beskriver trafikk, kjøretøy og transport på vegnettet*reisetidsdata:* Data om tidsbruk på vegstrekninger*nasjonal tjeneste for trafikkdata:* Nasjonale systemer, registre og rutiner for lagring og tilgjengeliggjøring av trafikkdata fra offentlige veger, herunder historiske data*nasjonal tjeneste for reisetidsdata:* Nasjonale systemer, registre og rutiner for innhenting og tilgjengeliggjøring av data om reisetid på vegstrekninger, herunder historiske data.
+I denne forskrift menes med
+
+1. *trafikkdata:* Data om registrerte og beregnede trafikkmengder samt sammensetning og egenskaper som beskriver trafikk, kjøretøy og transport på vegnettet
+2. *reisetidsdata:* Data om tidsbruk på vegstrekninger
+3. *nasjonal tjeneste for trafikkdata:* Nasjonale systemer, registre og rutiner for lagring og tilgjengeliggjøring av trafikkdata fra offentlige veger, herunder historiske data
+4. *nasjonal tjeneste for reisetidsdata:* Nasjonale systemer, registre og rutiner for innhenting og tilgjengeliggjøring av data om reisetid på vegstrekninger, herunder historiske data.
 
 ### § 2-4. Definisjoner vedrørende værdata og værstasjoner
 
-I denne forskrift menes med*værstasjon:* Installasjon til å registrere vær- og føreforhold*vegrelaterte værdata:* Meteorologiske måleverdier fra det offentlige vegnettet*nasjonal tjeneste for vegrelaterte værdata:* Nasjonale systemer, registre og rutiner for innsamling, kvalitetssikring, lagring og tilgjengeliggjøring av informasjon om vær og kjøreforhold fra offentlig veg.
+I denne forskrift menes med
+
+1. *værstasjon:* Installasjon til å registrere vær- og føreforhold
+2. *vegrelaterte værdata:* Meteorologiske måleverdier fra det offentlige vegnettet
+3. *nasjonal tjeneste for vegrelaterte værdata:* Nasjonale systemer, registre og rutiner for innsamling, kvalitetssikring, lagring og tilgjengeliggjøring av informasjon om vær og kjøreforhold fra offentlig veg.
 
 ### § 2-5. Definisjoner vedrørende vegkamera
 
-I denne forskrift menes med*bilder fra vegkamera:* Enkeltbilder og sekvenser av bilder i sanntid som viser veg-, føre- og trafikkforhold*nasjonal tjeneste for bilder fra vegkamera:* Systemer for innhenting, anonymisering og tilgjengeliggjøring av bilder fra vegkameraer, samt forvaltning av disse.
+I denne forskrift menes med
+
+1. *bilder fra vegkamera:* Enkeltbilder og sekvenser av bilder i sanntid som viser veg-, føre- og trafikkforhold
+2. *nasjonal tjeneste for bilder fra vegkamera:* Systemer for innhenting, anonymisering og tilgjengeliggjøring av bilder fra vegkameraer, samt forvaltning av disse.
 
 ### § 2-6. Definisjoner vedrørende vegbilder
 
-I denne forskrift menes med*vegbilder:* Lagrede bilder som gir sammenhengende oversikt over vegstrekninger*nasjonal tjeneste for vegbilder:* Systemer for lagring, anonymisering og tilgjengeliggjøring av vegbilder.
+I denne forskrift menes med
+
+1. *vegbilder:* Lagrede bilder som gir sammenhengende oversikt over vegstrekninger
+2. *nasjonal tjeneste for vegbilder:* Systemer for lagring, anonymisering og tilgjengeliggjøring av vegbilder.
 
 ### § 2-7. Definisjoner vedrørende trafikkinformasjon
 
-I denne forskrift menes med*trafikkinformasjon:* Informasjon om rådende vegforhold, kjøreforhold og trafikk*dynamiske data:* Data om hendelser, skader, vegtilstand og trafikkforhold som endrer seg ofte eller regelmessig, som kan påvirke trafikksikkerhet, kjøreforhold og fremkommelighet*planlagt hendelse:* Planlagt forhold som påvirker trafikksikkerhet eller fremkommelighet hvor det fattes vedtak om midlertidig trafikkregulering*publiseringstjeneste for dynamiske data:* nasjonal tjeneste for tilgjengeliggjøring av trafikkinformasjon og dynamiske data på europeisk standardformat.
+I denne forskrift menes med
+
+1. *trafikkinformasjon:* Informasjon om rådende vegforhold, kjøreforhold og trafikk
+2. *dynamiske data:* Data om hendelser, skader, vegtilstand og trafikkforhold som endrer seg ofte eller regelmessig, som kan påvirke trafikksikkerhet, kjøreforhold og fremkommelighet
+3. *planlagt hendelse:* Planlagt forhold som påvirker trafikksikkerhet eller fremkommelighet hvor det fattes vedtak om midlertidig trafikkregulering
+4. *publiseringstjeneste for dynamiske data:* nasjonal tjeneste for tilgjengeliggjøring av trafikkinformasjon og dynamiske data på europeisk standardformat.
 
 ### § 2-8. Definisjoner vedrørende trafikkberedskap, trafikkstyring og vegtrafikksentral
 
-I denne forskrift menes med*trafikkberedskap:* Planlegging, organisering og gjennomføring av tiltak for effektiv håndtering av uforutsette hendelser med vesentlige konsekvenser for fremkommelighet eller trafikksikkerhet*stengningslenke:* Delstrekning av en veg mellom to eller flere vegkryss hvor det er helt eller delvis stengt for trafikk*omkjøringsrute:* Definert alternativ rute for en eller flere stengningslenker som gjelder for alle eller utvalgte typer kjøretøy*nasjonale vegkorridorer:* Det viktigste vegnettet som knytter landsdeler og transportknutepunkt sammen, og som understøtter samfunnskritiske funksjoner*trafikkstyring:* Regulering av trafikken med informasjon, styrbare skilt, signaler og bommer i et trafikkstyringsanlegg*trafikkstyringsanlegg:* Installasjoner på og ved veg for trafikkstyring, koblet til vegtrafikksentral*trafikkstyringssystem:* Sentralt system på vegtrafikksentral for styring av trafikkstyringsanlegg*vegtrafikksentral:* Enhet i Statens vegvesen som overvåker, styrer og håndterer hendelser i trafikken på offentlig veg, samt utarbeider, formidler og tilgjengeliggjør trafikkinformasjon*trafikkovervåking:* Overvåking av vegtrafikk med systemer tilknyttet vegtrafikksentral for oppdagelse og håndtering av hendelser, herunder videoovervåkning, telefonisystem og hendelseslogg*styringsdata:* Den informasjon som formidles mellom trafikkstyringsanlegg og trafikkstyringssystem på vegtrafikksentral*sentralt tilknytningspunkt:* Der ansvaret for kommunikasjonen av styringsdata skifter mellom vegmyndighetens eller statlig utbyggingsselskap for veg sitt trafikkstyringsanlegg og vegtrafikksentral.
+I denne forskrift menes med
+
+1. *trafikkberedskap:* Planlegging, organisering og gjennomføring av tiltak for effektiv håndtering av uforutsette hendelser med vesentlige konsekvenser for fremkommelighet eller trafikksikkerhet
+2. *stengningslenke:* Delstrekning av en veg mellom to eller flere vegkryss hvor det er helt eller delvis stengt for trafikk
+3. *omkjøringsrute:* Definert alternativ rute for en eller flere stengningslenker som gjelder for alle eller utvalgte typer kjøretøy
+4. *nasjonale vegkorridorer:* Det viktigste vegnettet som knytter landsdeler og transportknutepunkt sammen, og som understøtter samfunnskritiske funksjoner
+5. *trafikkstyring:* Regulering av trafikken med informasjon, styrbare skilt, signaler og bommer i et trafikkstyringsanlegg
+6. *trafikkstyringsanlegg:* Installasjoner på og ved veg for trafikkstyring, koblet til vegtrafikksentral
+7. *trafikkstyringssystem:* Sentralt system på vegtrafikksentral for styring av trafikkstyringsanlegg
+8. *vegtrafikksentral:* Enhet i Statens vegvesen som overvåker, styrer og håndterer hendelser i trafikken på offentlig veg, samt utarbeider, formidler og tilgjengeliggjør trafikkinformasjon
+9. *trafikkovervåking:* Overvåking av vegtrafikk med systemer tilknyttet vegtrafikksentral for oppdagelse og håndtering av hendelser, herunder videoovervåkning, telefonisystem og hendelseslogg
+10. *styringsdata:* Den informasjon som formidles mellom trafikkstyringsanlegg og trafikkstyringssystem på vegtrafikksentral
+11. *sentralt tilknytningspunkt:* Der ansvaret for kommunikasjonen av styringsdata skifter mellom vegmyndighetens eller statlig utbyggingsselskap for veg sitt trafikkstyringsanlegg og vegtrafikksentral.
 
 ### § 2-9. Definisjon vedrørende skred- og flomberedskap
 
-I denne forskrift menes med*nasjonal tjeneste for skred- og flomberedskap:* En rådgivende døgnbemannet vaktordning for å bistå vegmyndighetene for riksveg og fylkesveg i deres håndtering av skred og flom, samt en tjeneste for å anbefale beredskapsnivå for drift av slike veger ut fra forventet skred- og flomfare.
+I denne forskrift menes med
+
+1. *nasjonal tjeneste for skred- og flomberedskap:* En rådgivende døgnbemannet vaktordning for å bistå vegmyndighetene for riksveg og fylkesveg i deres håndtering av skred og flom, samt en tjeneste for å anbefale beredskapsnivå for drift av slike veger ut fra forventet skred- og flomfare.
 
 ## Kapittel 3. Ansvarsområder
 
 ### § 3-1. Nasjonalt fagorgan sitt ansvar
 
-(1) Nasjonalt fagorgan har ansvar for forvaltning, drift og utvikling avNasjonal vegdatabank med tilhørende fagsystemernasjonale tjenester for trafikkdata og reisetidsdatanasjonal tjeneste for vegrelaterte værdatanasjonal tjeneste for bilder fra vegkameranasjonal tjeneste for tilgjengeliggjøring av vegbildernasjonale tjenester for trafikkinformasjonnasjonal tjeneste med vegtrafikksentralernasjonal tjeneste for skred- og flomberedskap.
+(1) Nasjonalt fagorgan har ansvar for forvaltning, drift og utvikling av
+
+1. Nasjonal vegdatabank med tilhørende fagsystemer
+2. nasjonale tjenester for trafikkdata og reisetidsdata
+3. nasjonal tjeneste for vegrelaterte værdata
+4. nasjonal tjeneste for bilder fra vegkamera
+5. nasjonal tjeneste for tilgjengeliggjøring av vegbilder
+6. nasjonale tjenester for trafikkinformasjon
+7. nasjonal tjeneste med vegtrafikksentraler
+8. nasjonal tjeneste for skred- og flomberedskap.
 
 (2) Nasjonalt fagorgan har ansvar for å sikre at de nasjonale tjenestene med tilhørende systemer er brukervennlige og robuste, varsle brukerne om eventuelle feil og avvik i data eller systemer, samt iverksette nødvendige tiltak.
 
@@ -86,11 +143,19 @@ I denne forskrift menes med*nasjonal tjeneste for skred- og flomberedskap:* En r
 
 ### § 3-2. Vegmyndighetene og statlig utbyggingsselskap for veg sitt ansvar
 
-Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar forå innhente, kvalitetssikre og formidle data tilpasset de nasjonale systemene og tjenestene i henhold til bestemmelsene i denne forskriften, datakataloger, veiledninger og tekniske beskrivelser, jf. [§ 3-3 bokstav b](forskrift/2025-02-28-375/§3-3/bokstav/b), jf. [§ 4-1 (1)](forskrift/2025-02-28-375/§4-1/ledd/1)å varsle nasjonalt fagorgan om avvik og feil i data eller systemer i henhold til veiledning og tekniske beskrivelser, jf. [§ 3-3 bokstav b](forskrift/2025-02-28-375/§3-3/bokstav/b), jf. [§ 4-1 (1)](forskrift/2025-02-28-375/§4-1/ledd/1).
+Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for
+
+1. å innhente, kvalitetssikre og formidle data tilpasset de nasjonale systemene og tjenestene i henhold til bestemmelsene i denne forskriften, datakataloger, veiledninger og tekniske beskrivelser, jf. [§ 3-3 bokstav b](forskrift/2025-02-28-375/§3-3/bokstav/b), jf. [§ 4-1 (1)](forskrift/2025-02-28-375/§4-1/ledd/1)
+2. å varsle nasjonalt fagorgan om avvik og feil i data eller systemer i henhold til veiledning og tekniske beskrivelser, jf. [§ 3-3 bokstav b](forskrift/2025-02-28-375/§3-3/bokstav/b), jf. [§ 4-1 (1)](forskrift/2025-02-28-375/§4-1/ledd/1).
 
 ### § 3-3. Vegdirektoratet sitt ansvar
 
-Vegdirektoratet har ansvar forå fastsette hvilke formater som skal benyttes ved formidling av data til de nasjonale tjenestene, i samråd med nasjonalt fagorganå fastsette tekniske beskrivelser og veiledningsmateriell som det faglige samarbeidet har utarbeidet og oppdatert, jf. [§ 4-1](forskrift/2025-02-28-375/§4-1)å påse at alle vegmyndigheter og statlig utbyggingsselskap for veg har mulighet for medvirkning i det faglige samarbeidet, jf. [§ 4-1](forskrift/2025-02-28-375/§4-1)å fastsette hvilke kommunale veger i Oslo som skal behandles som fylkesveg etter denne forskriften, i samråd med Oslo kommune.
+Vegdirektoratet har ansvar for
+
+1. å fastsette hvilke formater som skal benyttes ved formidling av data til de nasjonale tjenestene, i samråd med nasjonalt fagorgan
+2. å fastsette tekniske beskrivelser og veiledningsmateriell som det faglige samarbeidet har utarbeidet og oppdatert, jf. [§ 4-1](forskrift/2025-02-28-375/§4-1)
+3. å påse at alle vegmyndigheter og statlig utbyggingsselskap for veg har mulighet for medvirkning i det faglige samarbeidet, jf. [§ 4-1](forskrift/2025-02-28-375/§4-1)
+4. å fastsette hvilke kommunale veger i Oslo som skal behandles som fylkesveg etter denne forskriften, i samråd med Oslo kommune.
 
 ### § 3-4. Fordeling av økonomisk ansvar
 
@@ -106,7 +171,11 @@ Vegdirektoratet har ansvar forå fastsette hvilke formater som skal benyttes ved
 
 (2) Vegmyndigheter som er tilkoblet en nasjonal tjeneste og statlig utbyggingsselskap for veg skal delta eller være representert i det faglige samarbeidet om den aktuelle tjenesten.
 
-(3) Det faglige samarbeidet skalivareta behov for utvikling, innovasjon og innføring av ny teknologibeskrive prinsipper for omfang av innhenting og formidling av data samt for plassering, drift og oppgradering av installasjoner tilkoblet nasjonale tjenester, inkludert nødvendig planlegging, testing og idriftsettelsebidra til forbedring av og kunnskapsdeling om digital sikkerhet og håndtering av digitale sikkerhetshendelser.
+(3) Det faglige samarbeidet skal
+
+1. ivareta behov for utvikling, innovasjon og innføring av ny teknologi
+2. beskrive prinsipper for omfang av innhenting og formidling av data samt for plassering, drift og oppgradering av installasjoner tilkoblet nasjonale tjenester, inkludert nødvendig planlegging, testing og idriftsettelse
+3. bidra til forbedring av og kunnskapsdeling om digital sikkerhet og håndtering av digitale sikkerhetshendelser.
 
 (4) Det faglige samarbeidet kan også gjelde anskaffelser og testing av nytt utstyr forutsatt at det gjøres i tråd med regelverket for offentlige anskaffelser.
 
@@ -144,9 +213,22 @@ Vegdirektoratet har ansvar forå fastsette hvilke formater som skal benyttes ved
 
 ### § 7-1. Ansvar for Nasjonal vegdatabank
 
-(1) Nasjonalt fagorgan har ansvar forNasjonal vegdatabank som definert i [§ 2-2](forskrift/2025-02-28-375/§2-2) samt tilgjengeliggjøring av dataå forvalte datakataloger for Nasjonal vegdatabank og for tilhørende systemer, i samråd med vegmyndigheter og statlig utbyggingsselskap for vegat nasjonale data om vegnettet blir registrert i Nasjonal vegdatabank, herunder data om trafikkulykkerat vegmyndighetene og statlig utbyggingsselskap for veg har tilgang til å registrere vegdata og data om vegprosjekter i og til å hente ut data fra Nasjonal vegdatabankå utarbeide statistikk, indikatorer og oversikter over det offentlige vegnettets egenskaper og tilstand.
+(1) Nasjonalt fagorgan har ansvar for
 
-(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for å innhente, kvalitetssikre, formidle og oppdatere følgende typer vegdata om eget vegnett til Nasjonal vegdatabank og tilhørende systemerdata for digitalt navigerbart vegnett for alle veger for kjørende, gående og syklendedata som er nødvendig for å oppdatere veglister i henhold til [forskrift om bruk av kjøretøy](forskrift/1990-01-25-92)data om tilstand og bæreevneklassifisering for bru og vegundergang med tilhørende dokumentasjondata om tunneler herunder lokalisering, lengde, stigningsforhold, egenskaper og restriksjonerdata om skred- og flomhendelserøvrige vegdata i det omfang som fremgår av datakatalog.
+1. Nasjonal vegdatabank som definert i [§ 2-2](forskrift/2025-02-28-375/§2-2) samt tilgjengeliggjøring av data
+2. å forvalte datakataloger for Nasjonal vegdatabank og for tilhørende systemer, i samråd med vegmyndigheter og statlig utbyggingsselskap for veg
+3. at nasjonale data om vegnettet blir registrert i Nasjonal vegdatabank, herunder data om trafikkulykker
+4. at vegmyndighetene og statlig utbyggingsselskap for veg har tilgang til å registrere vegdata og data om vegprosjekter i og til å hente ut data fra Nasjonal vegdatabank
+5. å utarbeide statistikk, indikatorer og oversikter over det offentlige vegnettets egenskaper og tilstand.
+
+(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for å innhente, kvalitetssikre, formidle og oppdatere følgende typer vegdata om eget vegnett til Nasjonal vegdatabank og tilhørende systemer
+
+1. data for digitalt navigerbart vegnett for alle veger for kjørende, gående og syklende
+2. data som er nødvendig for å oppdatere veglister i henhold til [forskrift om bruk av kjøretøy](forskrift/1990-01-25-92)
+3. data om tilstand og bæreevneklassifisering for bru og vegundergang med tilhørende dokumentasjon
+4. data om tunneler herunder lokalisering, lengde, stigningsforhold, egenskaper og restriksjoner
+5. data om skred- og flomhendelser
+6. øvrige vegdata i det omfang som fremgår av datakatalog.
 
 (3) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for å gjennomføre jevnlige kontroll av egne vegdata og oppdatere disse uten unødig opphold.
 
@@ -156,23 +238,54 @@ Vegdirektoratet har ansvar forå fastsette hvilke formater som skal benyttes ved
 
 ### § 8-1. Ansvar for trafikkdata og reisetidsdata
 
-(1) Nasjonalt fagorgan har ansvar fornasjonal tjeneste for trafikkdataå samordne og bestemme omfang for innhenting, formidling og tilgjengeliggjøring av trafikkdata i samråd med berørte vegmyndigheter og statlig utbyggingsselskap for vegå bestemme omfang for innhenting og formidling av særskilte trafikkdata, herunder miljørelaterte data, knyttet til avtaler, analyser og modeller, i samråd med berørte vegmyndigheter og statlig utbyggingsselskap for vegå gi vegmyndighetene og statlig utbyggingsselskap for veg tilgang til data i nasjonal tjeneste for trafikkdatanasjonal tjeneste for reisetidsdataå velge hvilke vegstrekninger den nasjonale tjenesten for reisetidsdata skal inkludere, i samråd med berørte vegmyndigheter og statlig utbyggingsselskap for vegformidling og tilpasning av trafikkdata og reisetidsdata i sanntid til tjenesten for publisering av dynamiske dataå utarbeide statistikk og indekser for vegtrafikk.
+(1) Nasjonalt fagorgan har ansvar for
 
-(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for åinnhente, kvalitetssikre og formidle trafikkdata fra eget vegnett til nasjonal tjeneste for trafikkdatainnhente, kvalitetssikre og formidle reisetidsdata for strekninger som er tilknyttet nasjonal tjeneste for reisetidsdatainnhente, kvalitetssikre og formidle særskilte trafikkdata fra eget vegnett, jf. [§ 8-1](forskrift/2025-02-28-375/§8-1) (1) coppdatere og formidle årsdøgntrafikk hvert år for riksveger og fylkesveger og utvalgte kommunale veger til nasjonal tjeneste for trafikkdatadokumentere kvalitet på trafikkdata og reisetidsdata samt sørge for at disse er tilpasset de nasjonale tjenestene.
+1. nasjonal tjeneste for trafikkdata
+2. å samordne og bestemme omfang for innhenting, formidling og tilgjengeliggjøring av trafikkdata i samråd med berørte vegmyndigheter og statlig utbyggingsselskap for veg
+3. å bestemme omfang for innhenting og formidling av særskilte trafikkdata, herunder miljørelaterte data, knyttet til avtaler, analyser og modeller, i samråd med berørte vegmyndigheter og statlig utbyggingsselskap for veg
+4. å gi vegmyndighetene og statlig utbyggingsselskap for veg tilgang til data i nasjonal tjeneste for trafikkdata
+5. nasjonal tjeneste for reisetidsdata
+6. å velge hvilke vegstrekninger den nasjonale tjenesten for reisetidsdata skal inkludere, i samråd med berørte vegmyndigheter og statlig utbyggingsselskap for veg
+7. formidling og tilpasning av trafikkdata og reisetidsdata i sanntid til tjenesten for publisering av dynamiske data
+8. å utarbeide statistikk og indekser for vegtrafikk.
+
+(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for å
+
+1. innhente, kvalitetssikre og formidle trafikkdata fra eget vegnett til nasjonal tjeneste for trafikkdata
+2. innhente, kvalitetssikre og formidle reisetidsdata for strekninger som er tilknyttet nasjonal tjeneste for reisetidsdata
+3. innhente, kvalitetssikre og formidle særskilte trafikkdata fra eget vegnett, jf. [§ 8-1](forskrift/2025-02-28-375/§8-1) (1) c
+4. oppdatere og formidle årsdøgntrafikk hvert år for riksveger og fylkesveger og utvalgte kommunale veger til nasjonal tjeneste for trafikkdata
+5. dokumentere kvalitet på trafikkdata og reisetidsdata samt sørge for at disse er tilpasset de nasjonale tjenestene.
 
 ## Kapittel 9. Værdata og værstasjoner
 
 ### § 9-1. Ansvar for værdata og værstasjoner
 
-(1) Nasjonalt fagorgan har ansvar fornasjonal tjeneste for vegrelaterte værdataå utarbeide kriterier for plassering av værstasjoner tilkoblet den nasjonale tjenesten, i samråd med vegmyndigheter og statlig utbyggingsselskap for vegat vegmyndighetene og statlig utbyggingsselskap for veg har tilgang til data i den nasjonale tjenestenå sørge for at vegmyndighetene og statlig utbyggingsselskap for veg kan forvalte sine værstasjonerformidling og tilpasning av vegrelaterte værdata i sanntid for tilgjengeliggjøring i publiseringstjenesten for dynamiske data.
+(1) Nasjonalt fagorgan har ansvar for
 
-(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for værstasjoner på eget vegnett som er tilknyttet den nasjonale tjenesten for vegrelaterte værdata, herunderplanlegging og etablering av værstasjoner i tråd med kriteriene for plassering av disseinnhenting, kvalitetssikring, tilpasning og formidling av vegrelaterte værdata som omfattes av den nasjonale tjenestenteknisk dokumentasjon og dokumentasjon av datakvalitet for værstasjonene, for å sikre sammenliknbare data av kjent kvalitetå drifte, vedlikeholde, følge opp og utføre rutinemessig kontroll av utstyr for vegrelaterte værdata, inkludert målekvalitet.
+1. nasjonal tjeneste for vegrelaterte værdata
+2. å utarbeide kriterier for plassering av værstasjoner tilkoblet den nasjonale tjenesten, i samråd med vegmyndigheter og statlig utbyggingsselskap for veg
+3. at vegmyndighetene og statlig utbyggingsselskap for veg har tilgang til data i den nasjonale tjenesten
+4. å sørge for at vegmyndighetene og statlig utbyggingsselskap for veg kan forvalte sine værstasjoner
+5. formidling og tilpasning av vegrelaterte værdata i sanntid for tilgjengeliggjøring i publiseringstjenesten for dynamiske data.
+
+(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for værstasjoner på eget vegnett som er tilknyttet den nasjonale tjenesten for vegrelaterte værdata, herunder
+
+1. planlegging og etablering av værstasjoner i tråd med kriteriene for plassering av disse
+2. innhenting, kvalitetssikring, tilpasning og formidling av vegrelaterte værdata som omfattes av den nasjonale tjenesten
+3. teknisk dokumentasjon og dokumentasjon av datakvalitet for værstasjonene, for å sikre sammenliknbare data av kjent kvalitet
+4. å drifte, vedlikeholde, følge opp og utføre rutinemessig kontroll av utstyr for vegrelaterte værdata, inkludert målekvalitet.
 
 ## Kapittel 10. Vegkamera
 
 ### § 10-1. Ansvar for vegkamera
 
-(1) Nasjonalt fagorgan har ansvar fornasjonal tjeneste for bilder fra vegkameraå utarbeide kriterier for plassering av vegkamera tilkoblet den nasjonale tjenesten, i samråd med vegmyndigheter og statlig utbyggingsselskap for vegat bilder fra vegkamera tilgjengeliggjøres, også i publiseringstjenesten for dynamiske dataå sørge for at vegmyndighetene og statlig utbyggingsselskap for veg kan forvalte sine vegkamera.
+(1) Nasjonalt fagorgan har ansvar for
+
+1. nasjonal tjeneste for bilder fra vegkamera
+2. å utarbeide kriterier for plassering av vegkamera tilkoblet den nasjonale tjenesten, i samråd med vegmyndigheter og statlig utbyggingsselskap for veg
+3. at bilder fra vegkamera tilgjengeliggjøres, også i publiseringstjenesten for dynamiske data
+4. å sørge for at vegmyndighetene og statlig utbyggingsselskap for veg kan forvalte sine vegkamera.
 
 (2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for vegkamera på eget vegnett som er tilknyttet den nasjonale tjenesten for vegkamera, og å sørge for at disse er operative og tilpasset nasjonal tjeneste.
 
@@ -180,7 +293,10 @@ Vegdirektoratet har ansvar forå fastsette hvilke formater som skal benyttes ved
 
 ### § 11-1. Ansvar for vegbilder
 
-(1) Nasjonalt fagorgan har ansvar fornasjonal tjeneste for vegbilderå anonymisere, lagre og tilgjengeliggjøre bilder i den nasjonale tjenesten.
+(1) Nasjonalt fagorgan har ansvar for
+
+1. nasjonal tjeneste for vegbilder
+2. å anonymisere, lagre og tilgjengeliggjøre bilder i den nasjonale tjenesten.
 
 (2) Vegmyndighet for riks- og fylkesveg, statlig utbyggingsselskap for veg og Oslo kommune for de kommunale veger som skal behandles som fylkesveg, jf. [§ 3-4](forskrift/2025-02-28-375/§3-4), skal med hensiktsmessig hyppighet ta bilder på sitt vegnett og formidle disse til den nasjonale tjenesten for vegbilder.
 
@@ -190,9 +306,20 @@ Vegdirektoratet har ansvar forå fastsette hvilke formater som skal benyttes ved
 
 ### § 12-1. Ansvar​ for trafikkinformasjon
 
-(1) Nasjonalt fagorgan har ansvar for åutarbeide og formidle oppdatert trafikkinformasjon fra det offentlige vegnettetgjøre trafikkinformasjon og dynamiske data tilgjengelig for videre bruk gjennom publiseringstjenesten for dynamiske datasikre at det er tilgjengelig en basisløsning for trafikkinformasjon til publikumlagre og formidle historiske data om avvik og hendelser på vegnettetgjennom vegtrafikksentralen varsle vegmyndighetene og statlig utbyggingsselskap for veg om hendelser, som påvirker fremkommelighet eller trafikksikkerhet.
+(1) Nasjonalt fagorgan har ansvar for å
 
-(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for åuten unødig forsinkelse informere vegtrafikksentralen om uforutsette hendelser på eget vegnett som gir vesentlige konsekvenser for fremkommelighet eller trafikksikkerhet, inkludert avvik i ferjetrafikkformidle informasjon til vegtrafikksentralen om oppstart, endringer og avslutning av planlagte hendelser som forventes å gi vesentlige konsekvenser for fremkommelighet eller trafikksikkerhetholde vegtrafikksentralen løpende oppdatert om status for pågående hendelse frem til normalsituasjon er gjenopprettetformidle automatisk innhentet trafikkinformasjon til publiseringstjenesten for dynamiske data.
+1. utarbeide og formidle oppdatert trafikkinformasjon fra det offentlige vegnettet
+2. gjøre trafikkinformasjon og dynamiske data tilgjengelig for videre bruk gjennom publiseringstjenesten for dynamiske data
+3. sikre at det er tilgjengelig en basisløsning for trafikkinformasjon til publikum
+4. lagre og formidle historiske data om avvik og hendelser på vegnettet
+5. gjennom vegtrafikksentralen varsle vegmyndighetene og statlig utbyggingsselskap for veg om hendelser, som påvirker fremkommelighet eller trafikksikkerhet.
+
+(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for å
+
+1. uten unødig forsinkelse informere vegtrafikksentralen om uforutsette hendelser på eget vegnett som gir vesentlige konsekvenser for fremkommelighet eller trafikksikkerhet, inkludert avvik i ferjetrafikk
+2. formidle informasjon til vegtrafikksentralen om oppstart, endringer og avslutning av planlagte hendelser som forventes å gi vesentlige konsekvenser for fremkommelighet eller trafikksikkerhet
+3. holde vegtrafikksentralen løpende oppdatert om status for pågående hendelse frem til normalsituasjon er gjenopprettet
+4. formidle automatisk innhentet trafikkinformasjon til publiseringstjenesten for dynamiske data.
 
 (3) Vedtaksmyndighet etter [vegtrafikkloven § 7 annet ledd](lov/1965-06-18-4/§7/ledd/2) har ansvar for å melde inn vedtak til vegtrafikksentralen om midlertidige trafikkreguleringer for planlagte hendelser som forventes å gi vesentlige konsekvenser for fremkommelighet eller trafikksikkerhet på vegnettet.
 
@@ -206,9 +333,18 @@ Vegdirektoratet har ansvar forå fastsette hvilke formater som skal benyttes ved
 
 ### § 13-1. Ansvar for trafikkstyring
 
-(1) Nasjonalt fagorgan har ansvar fornasjonal tjeneste med vegtrafikksentralertrafikkovervåking og trafikkstyring på offentlig veg gjennom vegtrafikksentral for å håndtere uforutsette hendelser og for å iverksette midlertidige trafikkreguleringer, samt å loggføre iverksettingenå bestemme plassering av sentrale tilknytningspunkt i samråd med aktuell vegmyndighet eller statlig utbyggingsselskap for vegå gi statlig utbyggingsselskap for veg og berørte vegmyndigheter slik tilgang til trafikkstyringssystem på vegtrafikksentral som er nødvendig for at de skal kunne forvalte sine trafikkstyringsanlegg.
+(1) Nasjonalt fagorgan har ansvar for
 
-(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar fortrafikkstyringsanlegg på eget vegnettformidling av styringsdata frem til sentralt tilknytningspunkt mot vegtrafikksentral, og at styringsdata er tilpasset trafikkstyringssystem på vegtrafikksentralå ha nødvendige systemer for håndtering av driftsalarmer fra sine trafikkstyringsanlegg.
+1. nasjonal tjeneste med vegtrafikksentraler
+2. trafikkovervåking og trafikkstyring på offentlig veg gjennom vegtrafikksentral for å håndtere uforutsette hendelser og for å iverksette midlertidige trafikkreguleringer, samt å loggføre iverksettingen
+3. å bestemme plassering av sentrale tilknytningspunkt i samråd med aktuell vegmyndighet eller statlig utbyggingsselskap for veg
+4. å gi statlig utbyggingsselskap for veg og berørte vegmyndigheter slik tilgang til trafikkstyringssystem på vegtrafikksentral som er nødvendig for at de skal kunne forvalte sine trafikkstyringsanlegg.
+
+(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for
+
+1. trafikkstyringsanlegg på eget vegnett
+2. formidling av styringsdata frem til sentralt tilknytningspunkt mot vegtrafikksentral, og at styringsdata er tilpasset trafikkstyringssystem på vegtrafikksentral
+3. å ha nødvendige systemer for håndtering av driftsalarmer fra sine trafikkstyringsanlegg.
 
 ### § 13-2. Enhetlige trafikkstyringsanlegg
 
@@ -222,9 +358,21 @@ Vegmyndighetene og statlig utbyggingsselskap for veg dekker kostnader til nødve
 
 ### § 14-1. Ansvar for trafikkberedskap
 
-(1) Nasjonalt fagorgan har ansvar forå velge ut nasjonale vegkorridorer, samt stengningslenker og omkjøringsruter for disse i samråd med berørt vegmyndighet eller statlig utbyggingsselskap for vegå utarbeide prinsipper for beredskapsmessig kategorisering av offentlig vegnett, herunder behov for trafikkberedskapsplanervegtrafikksentralens oppgaver i henhold til trafikkberedskapsplan, herunder å gi trafikkinformasjon om omkjøringsmuligheter.
+(1) Nasjonalt fagorgan har ansvar for
 
-(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar fortrafikkberedskap på eget vegnettå kategorisere sitt vegnett og avklare behovet for trafikkberedskapsplaner etter fastsatte prinsipperå utarbeide trafikkberedskapsplaner for aktuelle vegstrekninger, i samråd med andre vegmyndigheter og statlig utbyggingsselskap for veg der deres vegnett blir berørtå innhente nødvendige vedtak for midlertidige trafikkreguleringer fra vedtaksmyndighet etter [vegtrafikkloven § 7 annet ledd](lov/1965-06-18-4/§7/ledd/2)å gjennomføre jevnlige risiko- og sårbarhetsanalyser som grunnlag for trafikkberedskapsplaner og omkjøringsruter inkludert sårbarhet for naturfare og værrelaterte farerå formidle trafikkberedskapsplanene til Nasjonal vegdatabank tilpasset datakatalogenå utføre sine oppgaver i henhold til trafikkberedskapsplan, ved iverksetting av planen.
+1. å velge ut nasjonale vegkorridorer, samt stengningslenker og omkjøringsruter for disse i samråd med berørt vegmyndighet eller statlig utbyggingsselskap for veg
+2. å utarbeide prinsipper for beredskapsmessig kategorisering av offentlig vegnett, herunder behov for trafikkberedskapsplaner
+3. vegtrafikksentralens oppgaver i henhold til trafikkberedskapsplan, herunder å gi trafikkinformasjon om omkjøringsmuligheter.
+
+(2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for
+
+1. trafikkberedskap på eget vegnett
+2. å kategorisere sitt vegnett og avklare behovet for trafikkberedskapsplaner etter fastsatte prinsipper
+3. å utarbeide trafikkberedskapsplaner for aktuelle vegstrekninger, i samråd med andre vegmyndigheter og statlig utbyggingsselskap for veg der deres vegnett blir berørt
+4. å innhente nødvendige vedtak for midlertidige trafikkreguleringer fra vedtaksmyndighet etter [vegtrafikkloven § 7 annet ledd](lov/1965-06-18-4/§7/ledd/2)
+5. å gjennomføre jevnlige risiko- og sårbarhetsanalyser som grunnlag for trafikkberedskapsplaner og omkjøringsruter inkludert sårbarhet for naturfare og værrelaterte farer
+6. å formidle trafikkberedskapsplanene til Nasjonal vegdatabank tilpasset datakatalogen
+7. å utføre sine oppgaver i henhold til trafikkberedskapsplan, ved iverksetting av planen.
 
 ### § 14-2. Særlige bestemmelser om faglig samarbeid og samarbeid med andre om trafikkberedskap
 
@@ -238,7 +386,12 @@ Vegmyndighetene og statlig utbyggingsselskap for veg dekker kostnader til nødve
 
 ### § 15-1. Ansvar for skred- og flomberedskap
 
-(1) Nasjonalt fagorgan har ansvar fornasjonal tjeneste for skred- og flomberedskapå gi vegmyndighetene for riksveg og fylkesveg og statlig utbyggingsselskap for veg opplæring og veiledning om, samt bistand til, beredskap for og håndtering av skred- og flomhendelserstille til rådighet spesialutstyr for utløsning av snøskredå rapportere skred- og flomhendelser til nasjonale registre.
+(1) Nasjonalt fagorgan har ansvar for
+
+1. nasjonal tjeneste for skred- og flomberedskap
+2. å gi vegmyndighetene for riksveg og fylkesveg og statlig utbyggingsselskap for veg opplæring og veiledning om, samt bistand til, beredskap for og håndtering av skred- og flomhendelser
+3. stille til rådighet spesialutstyr for utløsning av snøskred
+4. å rapportere skred- og flomhendelser til nasjonale registre.
 
 (2) Vegmyndighetene og statlig utbyggingsselskap for veg har ansvar for risikovurdering og håndtering av skred- og flomhendelser på eget vegnett, jf. [§ 14-1 (2)](forskrift/2025-02-28-375/§14-1/ledd/2).
 

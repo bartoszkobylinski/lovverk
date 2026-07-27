@@ -44,7 +44,12 @@ Avgift skal betales uten hensyn til hvilken avgjørelse Medietilsynet tar.
 
 ## § 4. Unntak fra kravet om å betale filmkontrollavgift
 
-Følgende bildeprogram unntas fra kravet om å betale avgift for forhåndskontroll av kinofilm etter [loven § 5](lov/2015-02-06-7/§5) fjerde ledd:Forfilm på kinokortfilmpakker distribuert gratis ut til kinoene av Norsk filminstituttrelansering av tidligere oppsatte kinofilmerfilmer som bare blir vist som skolekinoforestillinger og ikke som ordinære kinoforestillinger.
+Følgende bildeprogram unntas fra kravet om å betale avgift for forhåndskontroll av kinofilm etter [loven § 5](lov/2015-02-06-7/§5) fjerde ledd:
+
+1. Forfilm på kino
+2. kortfilmpakker distribuert gratis ut til kinoene av Norsk filminstitutt
+3. relansering av tidligere oppsatte kinofilmer
+4. filmer som bare blir vist som skolekinoforestillinger og ikke som ordinære kinoforestillinger.
 
 Med forfilm menes her kortfilmer som ikke er en del av hovedprogrammet.
 
@@ -52,7 +57,11 @@ Med forfilm menes her kortfilmer som ikke er en del av hovedprogrammet.
 
 ## § 5. Sendetidsregler for fjernsyn
 
-Dersom tilbyder av fjernsyn ikke har iverksatt tekniske tiltak etter [loven § 9](lov/2015-02-06-7/§9) andre ledd, skal tjenestetilbyder innrette sendinger av bildeprogram med fastsatt aldersgrenser etter [loven § 4](lov/2015-02-06-7/§4) i tråd med følgende sendetidsregler:bildeprogram med aldersgrensene tillatt for alle, 6 år og 9 år, kan sendes hele døgnetbildeprogram med aldersgrense 12 år kan sendes i tidsrommet kl. 19.00–05.30bildeprogram med aldersgrensene 15 år og 18 år, kan sendes i tidsrommet kl. 21.00–05.30
+Dersom tilbyder av fjernsyn ikke har iverksatt tekniske tiltak etter [loven § 9](lov/2015-02-06-7/§9) andre ledd, skal tjenestetilbyder innrette sendinger av bildeprogram med fastsatt aldersgrenser etter [loven § 4](lov/2015-02-06-7/§4) i tråd med følgende sendetidsregler:
+
+1. bildeprogram med aldersgrensene tillatt for alle, 6 år og 9 år, kan sendes hele døgnet
+2. bildeprogram med aldersgrense 12 år kan sendes i tidsrommet kl. 19.00–05.30
+3. bildeprogram med aldersgrensene 15 år og 18 år, kan sendes i tidsrommet kl. 21.00–05.30
 
 Nyhets- og aktualitetsprogrammer er unntatt fra sendetidsreglene i første ledd. For bildeprogrammer uten aldersgrense etter [loven § 4](lov/2015-02-06-7/§4) tredje og fjerde ledd og tilknyttet materiale til bildeprogrammer, skal sendingene innrettes i tråd med prinsippene i første ledd.
 

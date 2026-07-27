@@ -15,7 +15,7 @@ xml_hash: "33bc9d6f990253620efea111b4efb8b70641896babb23a1ffeaf36178210e355"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,10 @@ Formålet med forskriften er å oppnå forsvarlig elsikkerhetsnivå i maritime e
 
 Forskriften gjelder for prosjektering, utførelse, drift, endring og vedlikehold av maritime elektriske anlegg på norske skip, flyttbare innretninger, sjøredskaper og fritidsfartøy. Forskriften gjelder også for elektrisk utstyr som er tilkoblet maritime elektriske anlegg.
 
-Forskriften gjelder ikke for:Elektronisk radio-, telekommunikasjons- og informasjonsutstyr ogskip- eller sjøredskaper til militært bruk.
+Forskriften gjelder ikke for:
+
+- Elektronisk radio-, telekommunikasjons- og informasjonsutstyr og
+- skip- eller sjøredskaper til militært bruk.
 
 For skip som kommer inn under bestemmelsene i [SOLAS (](traktat/1974-11-01-1)International Convention for the Safety of Life at Sea) gjelder konvensjonens bestemmelser uavkortet.
 
@@ -80,7 +83,12 @@ Fartøy av enhver art og med enhver fremdriftsform, der skroglengden er mellom 2
 
 *Jord- og kortslutningssikker forlegging*
 
-Jord- og kortslutningssikker forlegging kan oppfylles ved:Enleder kabel uten metallkappe/armering/omfletting.Enleder isolerte ledninger montert på støtter av isolerende materiale. Gjennomføringer av isolerende materiale. Tilstrekkelig avstand mellom ledningene innbyrdes og til underlag, egne fester dog unntatt.Uisolerte ledere montert på isolatorer og med isolatorgjennomføringer. Tilstrekkelig avstand mellom lederne innbyrdes og til underlag, egne fester dog unntatt.Enleder uisolerte ledninger i isolerende rør med en ledning i hvert rør.
+Jord- og kortslutningssikker forlegging kan oppfylles ved:
+
+1. Enleder kabel uten metallkappe/armering/omfletting.
+2. Enleder isolerte ledninger montert på støtter av isolerende materiale. Gjennomføringer av isolerende materiale. Tilstrekkelig avstand mellom ledningene innbyrdes og til underlag, egne fester dog unntatt.
+3. Uisolerte ledere montert på isolatorer og med isolatorgjennomføringer. Tilstrekkelig avstand mellom lederne innbyrdes og til underlag, egne fester dog unntatt.
+4. Enleder uisolerte ledninger i isolerende rør med en ledning i hvert rør.
 
 *Prosjektering*
 
@@ -138,7 +146,14 @@ Dersom det er nødvendig å ta spesielle forholdsregler i anlegget for å oppfyl
 
 Reder skal sørge for at det forefinnes erklæring om samsvar om bord.
 
-Erklæring om samsvar må minst inneholde følgende:Navn og adresse til den/de ansvarlige for prosjektering, utførelse eller endring av anlegget,identifikasjon av anlegget,betegnelse på normer anvendt helt eller delvis, eller andre tekniske spesifikasjoner som anlegget er basert på i tilfelle normer ikke er anvendt,forsikring om at anlegget oppfyller kravene til sikkerhet i denne forskriften,underskrift av den/de ansvarlige for prosjektering, utførelse eller endring av anlegget ogdato for erklæringen.
+Erklæring om samsvar må minst inneholde følgende:
+
+- Navn og adresse til den/de ansvarlige for prosjektering, utførelse eller endring av anlegget,
+- identifikasjon av anlegget,
+- betegnelse på normer anvendt helt eller delvis, eller andre tekniske spesifikasjoner som anlegget er basert på i tilfelle normer ikke er anvendt,
+- forsikring om at anlegget oppfyller kravene til sikkerhet i denne forskriften,
+- underskrift av den/de ansvarlige for prosjektering, utførelse eller endring av anlegget og
+- dato for erklæringen.
 
 For elektriske anlegg i Ex-områder gjelder spesielle dokumentasjonskrav, jf. [§ 20](forskrift/2001-12-04-1450/§20).
 
@@ -156,7 +171,14 @@ Denne paragrafen gjelder ikke for fritidsfartøy.
 
 Før utførelse og endring av maritime elektriske anlegg påbegynnes skal reder sørge for at det blir sendt melding om arbeidet til tilsynsmyndigheten. For mindre endringer kreves det ikke melding.
 
-Meldingen skal minst inneholdeopplysninger om hva meldingen omfatter,skipets/sjøredskapets byggenummer, eventuelt navn og kjenningssignal,reders navn og adresse,navn på prosjekterende og utførende virksomhet,grensesnitt mellom utførende ved eventuelle delte entrepriser ogantatt tidspunkt for ferdigstillelse.
+Meldingen skal minst inneholde
+
+- opplysninger om hva meldingen omfatter,
+- skipets/sjøredskapets byggenummer, eventuelt navn og kjenningssignal,
+- reders navn og adresse,
+- navn på prosjekterende og utførende virksomhet,
+- grensesnitt mellom utførende ved eventuelle delte entrepriser og
+- antatt tidspunkt for ferdigstillelse.
 
 Unntatt fra melding er anlegg med nominell spenning ikke høyere enn 50 V vekselspenning og 120 V likespenning så fremt de ikke er plassert i eksplosjonsfarlige områder.
 
@@ -180,7 +202,11 @@ Anlegg og utstyr må tåle de dynamiske og statiske påkjenninger som kan påreg
 
 ### § 11. Tilgjengelighet og vedlikehold
 
-Anlegget skal være slikat det er tilgjengelig for ettersyn, vedlikehold, reparasjon, betjening og prøving,at det er tilstrekkelig plass til å skifte ut og montere enkeltenheter ogat slikt arbeid kan foretas uten fare for den som utfører arbeidet.
+Anlegget skal være slik
+
+- at det er tilgjengelig for ettersyn, vedlikehold, reparasjon, betjening og prøving,
+- at det er tilstrekkelig plass til å skifte ut og montere enkeltenheter og
+- at slikt arbeid kan foretas uten fare for den som utfører arbeidet.
 
 Utstyr som under drift krever tilsyn eller betjening skal være plassert tilgjengelig og på egnede steder som er godt belyst, og hvor kontroll og betjening under drift kan skje uten fare.
 
@@ -190,7 +216,12 @@ For store system der dette ikke er praktisk mulig anses imidlertid tydelig merki
 
 ### § 12. Fordelingssystem
 
-Anlegget skal være slik at fordelingssystem som benyttes for hele eller deler av anlegget sammen med de sikkerhetstiltak som er påkrevd for de ulike fordelingssystemene, ikke medførerfarlig strømgjennomgang,for høye temperaturer som kan føre til forbrenning, brann, eksplosjonsfare eller andre skadelige virkninger,avbrudd som kan medføre fare for liv, helse eller materielle verdier,skadelig påvirkning på andre deler av anlegget eller utstyr i anlegget eller utstyr tilkoblet dette.
+Anlegget skal være slik at fordelingssystem som benyttes for hele eller deler av anlegget sammen med de sikkerhetstiltak som er påkrevd for de ulike fordelingssystemene, ikke medfører
+
+- farlig strømgjennomgang,
+- for høye temperaturer som kan føre til forbrenning, brann, eksplosjonsfare eller andre skadelige virkninger,
+- avbrudd som kan medføre fare for liv, helse eller materielle verdier,
+- skadelig påvirkning på andre deler av anlegget eller utstyr i anlegget eller utstyr tilkoblet dette.
 
 Fordelingssystemet skal være egnet for formålet.
 
@@ -224,7 +255,10 @@ Andre ledere enn strømførende ledere og enhver annen del beregnet på å føre
 
 ### § 19. Beskyttelse mot overspenning
 
-Liv, helse og materielle verdier skal være beskyttetmot skadelig virkning av isolasjonssvikt eller feil mellom strømkretser med ulike spenninger ogmot skade som skyldes andre uønskede høye spenninger.
+Liv, helse og materielle verdier skal være beskyttet
+
+- mot skadelig virkning av isolasjonssvikt eller feil mellom strømkretser med ulike spenninger og
+- mot skade som skyldes andre uønskede høye spenninger.
 
 ### § 20. Beskyttelse mot antennelse i eksplosjonsfarlige områder
 
@@ -300,7 +334,11 @@ Bevegelig ledning skal være tilkoblet i det rom hvor tilhørende utstyr benytte
 
 ### § 34. Jording
 
-Ubeskyttede, permanente festede metalldeler i elektriske maskiner eller utstyr som ikke er forutsatt å være strømførende, men som kan bli strømførende når feil oppstår, skal være jordet, med mindre:de tilføres en spenning som ikke overstiger 55 V likestrøm eller 55 V vekselstrøm mellom lederne; autotransformatorer skal ikke brukes for denne alternative spenningen, ellerde tilføres en spenning som ikke overstiger 250 V via skilletransformatorer som bare forsyner en forbruker, ellerde er konstruert etter prinsippet om dobbeltisolasjon.
+Ubeskyttede, permanente festede metalldeler i elektriske maskiner eller utstyr som ikke er forutsatt å være strømførende, men som kan bli strømførende når feil oppstår, skal være jordet, med mindre:
+
+- de tilføres en spenning som ikke overstiger 55 V likestrøm eller 55 V vekselstrøm mellom lederne; autotransformatorer skal ikke brukes for denne alternative spenningen, eller
+- de tilføres en spenning som ikke overstiger 250 V via skilletransformatorer som bare forsyner en forbruker, eller
+- de er konstruert etter prinsippet om dobbeltisolasjon.
 
 Bærbart elektrisk utstyr skal drives med sikker spenning. Ubeskyttede metalldeler av slikt utstyr som ikke er ment å være strømførende, men som kan bli strømførende når feil oppstår, skal være jordet. Tilsynsmyndigheten kan kreve ekstra tiltak for bærbare elektriske lamper, verktøy eller lignende apparater til bruk i lukkede eller svært fuktige rom der det kan foreligge spesiell risiko på grunn av ledningsevne.
 
@@ -314,7 +352,11 @@ Hoved- og nødtavler skal være slik arrangert at de gir tilstrekkelig lett adga
 
 Fordelingssystem med tilbakeledning gjennom skrog skal ikke benyttes til drivkraft, oppvarming eller belysning på fartøyer med lengde på 75 m og derover.
 
-Kravet utelukker ikke, på betingelser akseptert av tilsynsmyndigheten bruk av:katodisk beskyttelse ved påtrykt strømbegrensede og lokalt jordede systemer ellersystemer for overvåking av isolasjonstilstand forutsatt at sirkulerende strøm ikke overstiger 30 milliampér under de ugunstigste forhold.
+Kravet utelukker ikke, på betingelser akseptert av tilsynsmyndigheten bruk av:
+
+- katodisk beskyttelse ved påtrykt strøm
+- begrensede og lokalt jordede systemer eller
+- systemer for overvåking av isolasjonstilstand forutsatt at sirkulerende strøm ikke overstiger 30 milliampér under de ugunstigste forhold.
 
 Når systemet for tilbakeledning gjennom skrog benyttes, skal alle avsluttende underkretser (alle kretser montert etter siste beskyttende innretning) være av toledertype, og det skal tas ekstra sikkerhetsforanstaltninger til tilsynsmyndighetens tilfredshet.
 
@@ -366,7 +408,12 @@ Akkumulatorbatterier skal ikke plasseres i innredningen med mindre avgasser ikke
 
 ### § 43. Plassering av elektrisk utstyr
 
-I rom der brennbare blandinger kan forventes oppsamlet, og i ethvert rom som fortrinnsvis er beregnet for plassering av akkumulatorbatteri, skal det ikke installeres elektrisk utstyr med mindre tilsynsmyndigheten er forvisset om at det er:av vesentlig betydning i driftssammenheng,av en type som ikke kan antenne den aktuelle blandingen,relevant i det aktuelle rommet, ogbehørig sertifisert for sikker bruk i de typer støv, damper og gasser som kan forventes å oppstå.
+I rom der brennbare blandinger kan forventes oppsamlet, og i ethvert rom som fortrinnsvis er beregnet for plassering av akkumulatorbatteri, skal det ikke installeres elektrisk utstyr med mindre tilsynsmyndigheten er forvisset om at det er:
+
+- av vesentlig betydning i driftssammenheng,
+- av en type som ikke kan antenne den aktuelle blandingen,
+- relevant i det aktuelle rommet, og
+- behørig sertifisert for sikker bruk i de typer støv, damper og gasser som kan forventes å oppstå.
 
 ### § 44. Lynavledere
 
@@ -378,7 +425,11 @@ Lynavledere skal være montert på alle master eller toppmaster av tre. På fart
 
 *Nye skip i klasse B, C og D og eksisterende skip i klasse B:*
 
-- Udekkede metalldeler i elektriske maskiner eller utstyr som ikke er ment å være strømførende, men som kan bli strømførende som følge av feil, skal jordes, med mindre maskinene eller utstyret:har en tilførselsspenning som ikke overstiger 50 V likestrøm eller 50 V spenningsverdi mellom ledere; autotransformatorer skal ikke brukes for å oppnå denne spenningen, ellerfår tilførsel til en spenning som ikke overstiger 250 V ved sikkerhetsisolerende transformatorer som forsyner bare en forbruksinnretning, ellerer konstruert i samsvar med prinsippet om dobbelt isolasjon.
+- Udekkede metalldeler i elektriske maskiner eller utstyr som ikke er ment å være strømførende, men som kan bli strømførende som følge av feil, skal jordes, med mindre maskinene eller utstyret:
+
+  - har en tilførselsspenning som ikke overstiger 50 V likestrøm eller 50 V spenningsverdi mellom ledere; autotransformatorer skal ikke brukes for å oppnå denne spenningen, eller
+  - får tilførsel til en spenning som ikke overstiger 250 V ved sikkerhetsisolerende transformatorer som forsyner bare en forbruksinnretning, eller
+  - er konstruert i samsvar med prinsippet om dobbelt isolasjon.
 - Alle elektriske apparater skal være konstruert og installert slik at de ikke forårsaker skade ved berøring.
 - Sidene, baksiden og om nødvendig forsiden av tavler skal være passende beskyttet. Udekkede strømførende deler med en spenning til jord som overstiger spenningen som angitt over, skal ikke være installert på forsiden av slike tavler. Der det er nødvendig, skal tavlen være utstyrt med isolerende matter eller gitter på forsiden og baksiden.
 - I isolerte fordelingssystemer skal det være utstyr som kan overvåke isolasjonsnivået til jord og gi en akustisk eller optisk indikasjon på unormalt lave isolasjonsverdier.
@@ -417,17 +468,27 @@ Lynavledere skal være montert på alle master eller toppmaster av tre. På fart
 
 *Nye skip i klasse B, C og D:*
 
-Alarmene som kreves, skal være både akustiske og optiske og skal være plassert på et lett synlig sted i hovedmaskinrommet eller kontrollrommet der hovedmaskineriet normalt kontrolleres fra. Disse alarmene skal også oppfylle kravene i regel II-1/E/6 (vedr. Alarmsystem) i direktiv [98/18/EF](eu/31998l0018*) når regelen får anvendelse.Når en reservestyremaskin som etter regel II-1/C/6.3.3 i direktiv [98/18/EF](eu/31998l0018*) skal være maskindrevet, ikke drives med elektrisk kraft eller drives med en elektrisk motor som først og fremst er beregnet for annet utstyr, kan hovedstyremaskinen mates gjennom en strømkrets fra hovedtavlen. Når en slik elektrisk motor som først og fremst er beregnet på annet utstyr, er arrangert for å drive en slik reservestyremaskin, kan flaggstatens administrasjon frafalle kravene i pkt. .3 dersom den er tilfreds med vernearrangementet sammen med kravene i direktivets regel II-1/C/6.4.1 og .4.2 som får anvendelse på reservestyremaskinen.
+Alarmene som kreves, skal være både akustiske og optiske og skal være plassert på et lett synlig sted i hovedmaskinrommet eller kontrollrommet der hovedmaskineriet normalt kontrolleres fra. Disse alarmene skal også oppfylle kravene i regel II-1/E/6 (vedr. Alarmsystem) i direktiv [98/18/EF](eu/31998l0018*) når regelen får anvendelse.
+
+1. Når en reservestyremaskin som etter regel II-1/C/6.3.3 i direktiv [98/18/EF](eu/31998l0018*) skal være maskindrevet, ikke drives med elektrisk kraft eller drives med en elektrisk motor som først og fremst er beregnet for annet utstyr, kan hovedstyremaskinen mates gjennom en strømkrets fra hovedtavlen. Når en slik elektrisk motor som først og fremst er beregnet på annet utstyr, er arrangert for å drive en slik reservestyremaskin, kan flaggstatens administrasjon frafalle kravene i pkt. .3 dersom den er tilfreds med vernearrangementet sammen med kravene i direktivets regel II-1/C/6.4.1 og .4.2 som får anvendelse på reservestyremaskinen.
 
 ### § 47. Beskyttelse av spesialrom (R 37)
 
 *Nye skip i klasse B, C og D:*
 
-1. Forhåndsregler mot antennelse av brannfarlige damper:1. På et dekk eller en plattform, dersom slik er installert, der det fraktes kjøretøyer og der det kan ventes at eksplosive damper kan danne seg, unntatt plattformer med åpninger av tilstrekkelig størrelse til at bensingass kan trenge nedover, skal utstyr som kan utgjøre en tennkilde for brannfarlige damper, og særlig elektrisk utstyr og ledninger, være montert minst 450 mm over dekket eller plattformen. Elektrisk utstyr montert mer enn 450 mm over dekket eller plattformen skal være av en type som er slik innebygd og beskyttet at den hindrer åpne gnister. Dersom det er nødvendig å montere elektrisk utstyr og ledninger mindre enn 450 mm over dekket eller plattformen av hensyn til sikker drift av skipet, kan slikt elektrisk utstyr og ledninger likevel monteres, forutsatt at de er av en sertifisert type som er godkjent for bruk i eksplosiv blanding av bensin og luft.2. Elektrisk utstyr og ledninger som monteres i en avtrekksventilasjonskanal, skal være av en type som er godkjent for bruk i eksplosjonsfarlige blandinger av bensin og luft, og utløpet fra en slik avtrekkskanal skal være på et sikkert sted, under hensyn til andre mulige tennkilder.
+1. Forhåndsregler mot antennelse av brannfarlige damper:
+
+   - 1\. På et dekk eller en plattform, dersom slik er installert, der det fraktes kjøretøyer og der det kan ventes at eksplosive damper kan danne seg, unntatt plattformer med åpninger av tilstrekkelig størrelse til at bensingass kan trenge nedover, skal utstyr som kan utgjøre en tennkilde for brannfarlige damper, og særlig elektrisk utstyr og ledninger, være montert minst 450 mm over dekket eller plattformen. Elektrisk utstyr montert mer enn 450 mm over dekket eller plattformen skal være av en type som er slik innebygd og beskyttet at den hindrer åpne gnister. Dersom det er nødvendig å montere elektrisk utstyr og ledninger mindre enn 450 mm over dekket eller plattformen av hensyn til sikker drift av skipet, kan slikt elektrisk utstyr og ledninger likevel monteres, forutsatt at de er av en sertifisert type som er godkjent for bruk i eksplosiv blanding av bensin og luft.
+   - 2\. Elektrisk utstyr og ledninger som monteres i en avtrekksventilasjonskanal, skal være av en type som er godkjent for bruk i eksplosjonsfarlige blandinger av bensin og luft, og utløpet fra en slik avtrekkskanal skal være på et sikkert sted, under hensyn til andre mulige tennkilder.
 
 *Nye skip i klasse B, C og D:*
 
-*Tilleggsbestemmelser som får anvendelse bare på spesiallasterom under skottet.*Forhåndsregler mot antennelse av brannfarlige damper:1. Dersom det installeres elektrisk utstyr og ledninger, skal det være av en type som egner seg for bruk i eksplosjonsfarlige blandinger av bensin og luft. Annet utstyr som kan utgjøre en tennkilde for brannfarlige damper, skal ikke være tillatt.2. Elektrisk utstyr og ledninger som monteres i en avtrekksventilasjonskanal, skal være av en type som er godkjent for bruk i eksplosjonsfarlige blandinger av bensin og luft, og utløpet fra en slik avtrekkskanal skal være på et sikkert sted, under hensyn til andre mulige tennkilder.
+*Tilleggsbestemmelser som får anvendelse bare på spesiallasterom under skottet.*
+
+1. Forhåndsregler mot antennelse av brannfarlige damper:
+
+   - 1\. Dersom det installeres elektrisk utstyr og ledninger, skal det være av en type som egner seg for bruk i eksplosjonsfarlige blandinger av bensin og luft. Annet utstyr som kan utgjøre en tennkilde for brannfarlige damper, skal ikke være tillatt.
+   - 2\. Elektrisk utstyr og ledninger som monteres i en avtrekksventilasjonskanal, skal være av en type som er godkjent for bruk i eksplosjonsfarlige blandinger av bensin og luft, og utløpet fra en slik avtrekkskanal skal være på et sikkert sted, under hensyn til andre mulige tennkilder.
 
 ## Kapittel VII – Tilsyn, klage, straff, mv.
 
@@ -558,12 +619,21 @@ Startanlegg som tjener mer enn en drivmaskin, skal ha minst to batterier som fas
 
 5.*Batterikapasitet*
 
-Hvert batteri skal ha kapasitet for minst følgende antall startforsøk for de maskiner som det vanligvis forsyner. Hvert startforsøk skal være av minst 10 sekunders varighet:12 starter for hver reverserbar framdriftsmaskin.6 starter for hver framdriftsmaskin som bare går en vei og som driver en vripropeller eller har en innretning slik at motoren kan startes uten belastning.3 starter for hver drivmaskin for generatorer, nødbrannpumpe og tilsvarende.
+Hvert batteri skal ha kapasitet for minst følgende antall startforsøk for de maskiner som det vanligvis forsyner. Hvert startforsøk skal være av minst 10 sekunders varighet:
+
+- 12 starter for hver reverserbar framdriftsmaskin.
+- 6 starter for hver framdriftsmaskin som bare går en vei og som driver en vripropeller eller har en innretning slik at motoren kan startes uten belastning.
+- 3 starter for hver drivmaskin for generatorer, nødbrannpumpe og tilsvarende.
 
 Når startbatterier også tjener andre forbrukere, skal kapasiteten økes tilsvarende.
 
-Ved beregning av batterikapasitet må det også tas hensyn til:Batteriet vil sjelden være fulladet.Reduksjon i kapasiteten på grunn av aldring.Reduksjon av kapasiteten på grunn av høye eller lave temperaturer.Reduksjon av kapasiteten på grunn av rask utladning.
-(NEK-410/IEC-60092.201.6.2.1).
+Ved beregning av batterikapasitet må det også tas hensyn til:
+
+- Batteriet vil sjelden være fulladet.
+- Reduksjon i kapasiteten på grunn av aldring.
+- Reduksjon av kapasiteten på grunn av høye eller lave temperaturer.
+- Reduksjon av kapasiteten på grunn av rask utladning.
+  (NEK-410/IEC-60092.201.6.2.1).
 
 6.*Antall og ytelse av strømforsyningsenheter*
 
@@ -656,7 +726,11 @@ Med egnet ladeinnretning menes at denne bl.a. skal være tilstrekkelig dimensjon
 
 1.*Ovner for romoppvarming*
 
-Ovner kan være av følgende typer:gjennomsstrømningsovnpanelovnribbeovn.
+Ovner kan være av følgende typer:
+
+- gjennomsstrømningsovn
+- panelovn
+- ribbeovn.
 
 Dette innebærer at flyttbare vifteovner ikke er tillatt.
 
@@ -724,8 +798,21 @@ Kabler forlagt på aluminiumsunderlag kan i stedet ha tilsvarende beskyttelse av
 
 10.*Kabler – festing*
 
-Kravet om betryggende festing vil vanligvis være oppfylt når kabelen er klamret som følger:For kabler ved innføringen i kapslinger og rør når nærmeste klammer er plassert i avstand ikke større enn 10 x vedkommende kabels diameter.For kabler for øvrig når avstanden mellom klammerne ikke er større enn det som går frem av nedenstående tabell:*Ytre diameter av kabel, m.m.**Maks. avstand mellom festepunkter**over**opp til**Kabler uten metallomfletting eller armering (også kabler som bare har blykappe)**Kabler med kopper-, bronse- eller ståltrådomfletting el. armering**Mineralisolerte kabler med kappe av kopper eller rustfritt stål*82002503008132503003701320300350450203035040045030400450450
-(NEK-410/IEC-60092.401.38)
+Kravet om betryggende festing vil vanligvis være oppfylt når kabelen er klamret som følger:
+
+- For kabler ved innføringen i kapslinger og rør når nærmeste klammer er plassert i avstand ikke større enn 10 x vedkommende kabels diameter.
+- For kabler for øvrig når avstanden mellom klammerne ikke er større enn det som går frem av nedenstående tabell:
+
+  | *Ytre diameter av kabel, m.m.* |  | *Maks. avstand mellom festepunkter* |  |  |
+  | --- | --- | --- | --- | --- |
+  | *over* | *opp til* | *Kabler uten metallomfletting eller armering (også kabler som bare har blykappe)* | *Kabler med kopper-, bronse- eller ståltrådomfletting el. armering* | *Mineralisolerte kabler med kappe av kopper eller rustfritt stål* |
+  |  | 8 | 200 | 250 | 300 |
+  | 8 | 13 | 250 | 300 | 370 |
+  | 13 | 20 | 300 | 350 | 450 |
+  | 20 | 30 | 350 | 400 | 450 |
+  | 30 |  | 400 | 450 | 450 |
+
+  (NEK-410/IEC-60092.401.38)
 
 11.*Rør og kanaler for kabler*
 
@@ -867,7 +954,10 @@ Advarselsskilt av anerkjent type skal være anbragt iøynefallende på høyspenn
 
 2.3.1
 
-Anlegg med isolert nøytralpunkt eller anlegg hvor nøytralpunktet er jordet over en høyohmig motstand, skal i tillegg til mulighet for kontroll av isolasjonstilstanden ha:faste innretninger som varsler isolasjonsfeil og jordslutninger i anlegget, ellerautomatisk utkopling av kurs med jordslutning.
+Anlegg med isolert nøytralpunkt eller anlegg hvor nøytralpunktet er jordet over en høyohmig motstand, skal i tillegg til mulighet for kontroll av isolasjonstilstanden ha:
+
+- faste innretninger som varsler isolasjonsfeil og jordslutninger i anlegget, eller
+- automatisk utkopling av kurs med jordslutning.
 
 2.3.2
 
@@ -1110,7 +1200,10 @@ Skillestrekningene skal tilfredsstille prøvekravene i IEC-Publikasjon 60129 (19
 
 Det skal fortrinnsvis være låsbare dører på tavlen.
 
-Alternative løsninger kan være:Tavlen plassert i eget låsbart rom eller inngjerding ellerAndre løsninger som Direktoratet for samfunnssikkerhet og beredskap finner tilfredsstillende.
+Alternative løsninger kan være:
+
+- Tavlen plassert i eget låsbart rom eller inngjerding eller
+- Andre løsninger som Direktoratet for samfunnssikkerhet og beredskap finner tilfredsstillende.
 
 5.7.6
 
@@ -1136,7 +1229,13 @@ Kabler og ledninger skal tilfredsstille anerkjente elektrotekniske normer.
 
 6.1.2
 
-Kabler for fast forlegging skal vanligvis tilfredsstille spesifikasjonene i IEC-Publikasjon 60502 (1997/98) «Power cables with extruded insulation and their accessories for rated voltages from 1 kV up to 30 kV», men med følgende spesielle krav:Som lederisolasjon tillates vanligvis bare tverrbundet polyetylen (XLPE) og etylen-propylen gummi (EPR). Butyl, PVC og termoplastisk polyetylen (PE) tillates ikke.«Conductor screening» kreves for alle kabler med XLPE-isolasjon, og for EPR-isolerte kabler med spenning U/U over 3.6/6 kV.«Insulation screening» kreves for alle kabler.Som kappemateriale skal vanligvis anvendes en av de typer som er angitt i IEC-Publikasjon 60092-359, dvs. PVC, polykloropren eller klorsulfonert polyetylen.Andre utførelser og materialer kan bli godkjent etter vurdering i hvert enkelt tilfelle avhengig av bruksområdet.
+Kabler for fast forlegging skal vanligvis tilfredsstille spesifikasjonene i IEC-Publikasjon 60502 (1997/98) «Power cables with extruded insulation and their accessories for rated voltages from 1 kV up to 30 kV», men med følgende spesielle krav:
+
+- Som lederisolasjon tillates vanligvis bare tverrbundet polyetylen (XLPE) og etylen-propylen gummi (EPR). Butyl, PVC og termoplastisk polyetylen (PE) tillates ikke.
+- «Conductor screening» kreves for alle kabler med XLPE-isolasjon, og for EPR-isolerte kabler med spenning U/U over 3.6/6 kV.
+- «Insulation screening» kreves for alle kabler.
+- Som kappemateriale skal vanligvis anvendes en av de typer som er angitt i IEC-Publikasjon 60092-359, dvs. PVC, polykloropren eller klorsulfonert polyetylen.
+- Andre utførelser og materialer kan bli godkjent etter vurdering i hvert enkelt tilfelle avhengig av bruksområdet.
 
 6.1.3
 
@@ -1190,7 +1289,11 @@ Etter installasjon skal kabler og ledninger med endeavslutninger og eventuelle s
 
 Brytere og sikringer skal være konstruert etter gjeldende IEC-normer.
 
-Med gjeldende IEC-normer menes:IEC-Publikasjon 60056 «High-voltage alternating-current circuitbreakers.»IEC-Publikasjon 60129 «Alternating current disconnectors and earthing switches.»IEC-publikasjonsserie 60282 «High-voltage fuses.»
+Med gjeldende IEC-normer menes:
+
+- IEC-Publikasjon 60056 «High-voltage alternating-current circuitbreakers.»
+- IEC-Publikasjon 60129 «Alternating current disconnectors and earthing switches.»
+- IEC-publikasjonsserie 60282 «High-voltage fuses.»
 
 7.2*Stikkontakter*
 

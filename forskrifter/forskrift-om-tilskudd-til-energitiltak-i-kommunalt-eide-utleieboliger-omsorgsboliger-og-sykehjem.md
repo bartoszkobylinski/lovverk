@@ -38,7 +38,17 @@ Kommuner kan få tilskudd.
 
 Husbanken kan etter søknad gi tilskudd til energitiltak i kommunalt eide utleieboliger, omsorgsboliger og sykehjem. Tilskuddet gis kun til eksisterende bygg.
 
-Det kan gis tilskudd til følgende tiltak:Etterisolering av ytterveggerEtterisolering av yttertak/kaldt loftUtskifting av vinduerTermisk isolering av rør og deler i varmesentralVarmepumpe væske-vannVarmepumpe luft-vannSolvarmekollektorSolcellerBiokjel for fast brensel.
+Det kan gis tilskudd til følgende tiltak:
+
+1. Etterisolering av yttervegger
+2. Etterisolering av yttertak/kaldt loft
+3. Utskifting av vinduer
+4. Termisk isolering av rør og deler i varmesentral
+5. Varmepumpe væske-vann
+6. Varmepumpe luft-vann
+7. Solvarmekollektor
+8. Solceller
+9. Biokjel for fast brensel.
 
 ## § 5. Saksbehandling m.m.
 
@@ -62,7 +72,10 @@ Husbanken utbetaler tilskuddet når tilskuddsmottaker har levert rapport til Hus
 
 ## § 8. Kontroll med vilkår – rett til opplysninger
 
-Husbanken kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom åkreve opplysninger og dokumentasjon som er nødvendig for kontrollenbesiktige tiltaket.
+Husbanken kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt gjennom å
+
+1. kreve opplysninger og dokumentasjon som er nødvendig for kontrollen
+2. besiktige tiltaket.
 
 Tilskuddsmottakeren skal medvirke til besiktigelse av tiltaket dersom det er nødvendig for kontrollen.
 

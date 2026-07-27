@@ -15,7 +15,7 @@ xml_hash: "bcf18924ea3b78eb62ac80356d3c163b1c70654a1de59aa672865d1ec5751763"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -90,15 +90,51 @@ om restriktive tiltak i lys av situasjonen i Sudan og om oppheving av forordning
 
 ### Artikkel 1
 
-I denne forordningen menes med«formidlingstjenester»:forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester fra et tredjeland til et annet tredjeland, ellersalg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester som befinner seg i tredjeland med henblikk på overføring til et annet tredjeland,«krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende før eller etter datoen for denne forordnings ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,«kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formålet omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som har oppstått i henhold til eller i tilknytning til transaksjonen,«kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,«formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«penger»: finansielle eiendeler og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev, ogdokumenter som viser eierandeler i penger eller finansielle ressurser,«Sanksjonskomiteen»: FNs sikkerhetsråds komité som er opprettet i henhold til punkt 3 i FNs sikkerhetsrådsresolusjon 1591 (2005),«faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand,«EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkårene som er fastsatt i den nevnte traktaten, herunder deres luftrom.
+I denne forordningen menes med
+
+1. «formidlingstjenester»:
+
+   1. forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester fra et tredjeland til et annet tredjeland, eller
+   2. salg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester som befinner seg i tredjeland med henblikk på overføring til et annet tredjeland,
+2. «krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende før eller etter datoen for denne forordnings ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særlig
+
+   1. krav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,
+   2. krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,
+   3. krav om kompensasjon med hensyn til en kontrakt eller transaksjon,
+   4. motkrav,
+   5. krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,
+3. «kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formålet omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som har oppstått i henhold til eller i tilknytning til transaksjonen,
+4. «kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,
+5. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+6. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,
+7. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+8. «penger»: finansielle eiendeler og fordeler av enhver art, herunder, men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+   2. innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+   4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+   6. remburser, konnossementer og pantebrev, og
+   7. dokumenter som viser eierandeler i penger eller finansielle ressurser,
+9. «Sanksjonskomiteen»: FNs sikkerhetsråds komité som er opprettet i henhold til punkt 3 i FNs sikkerhetsrådsresolusjon 1591 (2005),
+10. «faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving, vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand,
+11. «EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkårene som er fastsatt i den nevnte traktaten, herunder deres luftrom.
 
 ### Artikkel 2
 
-Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til militær aktivitet samt levering, produksjon, vedlikehold og bruk av våpen og tilknyttet materiell av alle typer, herunder ammunisjon, militære kjøretøyer og militært og paramilitært utstyr, samt reservedeler til dette, til fysiske eller juridiske personer, enheter eller organer i Sudan eller til bruk i Sudan,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til militær aktivitet, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, til salg, levering, overføring eller eksport av våpen og tilknyttet materiell, eller til yting av tilknyttet faglig bistand, til fysiske eller juridiske personer, enheter eller organer i Sudan eller til bruk i Sudan.
+Det er forbudt
+
+1. direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til militær aktivitet samt levering, produksjon, vedlikehold og bruk av våpen og tilknyttet materiell av alle typer, herunder ammunisjon, militære kjøretøyer og militært og paramilitært utstyr, samt reservedeler til dette, til fysiske eller juridiske personer, enheter eller organer i Sudan eller til bruk i Sudan,
+2. direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til militær aktivitet, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, til salg, levering, overføring eller eksport av våpen og tilknyttet materiell, eller til yting av tilknyttet faglig bistand, til fysiske eller juridiske personer, enheter eller organer i Sudan eller til bruk i Sudan.
 
 ### Artikkel 3
 
-De kompetente myndighetene i medlemsstatene kan gjøre unntak fra bestemmelsene i artikkel 2 og gi tillatelse til å yte finansiering eller finansiell bistand, faglig bistand eller formidlingstjenester knyttet tilikke-dødbringende militært utstyr som utelukkende er ment til humanitære formål, overvåking av menneskerettigheter eller beskyttelsesformål, eller til programmer for institusjonsbygging i regi av FN, Den afrikanske union (AU) og Den europeiske union,materiell beregnet på EU-, FN- og AU-krisehåndteringsoperasjoner,mineryddingsutstyr og -materiell til bruk i mineryddingsoperasjoner.
+De kompetente myndighetene i medlemsstatene kan gjøre unntak fra bestemmelsene i artikkel 2 og gi tillatelse til å yte finansiering eller finansiell bistand, faglig bistand eller formidlingstjenester knyttet til
+
+1. ikke-dødbringende militært utstyr som utelukkende er ment til humanitære formål, overvåking av menneskerettigheter eller beskyttelsesformål, eller til programmer for institusjonsbygging i regi av FN, Den afrikanske union (AU) og Den europeiske union,
+2. materiell beregnet på EU-, FN- og AU-krisehåndteringsoperasjoner,
+3. mineryddingsutstyr og -materiell til bruk i mineryddingsoperasjoner.
 
 ### Artikkel 4
 
@@ -112,27 +148,56 @@ Artikkel 2 gjelder ikke vernetøy, herunder skuddsikre vester og militærhjelmer
 
 3\. Vedlegg I skal omfatte fysiske eller juridiske personer, enheter eller organer som hindrer fredsprosessen, utgjør en trussel mot stabiliteten i Darfur og regionen, begår brudd på internasjonal humanitærrett eller internasjonale menneskerettigheter eller begår andre overgrep, bryter våpenembargoen og/eller er ansvarlige for offensive militære overflygninger i og over Darfur-regionen, som utpekt av Sanksjonskomiteen.
 
-4\. Nr. 1, 2 og 3 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus på FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, underorganer eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, ellerandre relevante aktører som fastsatt av Sanksjonskomiteen med hensyn til vedlegg I.
+4\. Nr. 1, 2 og 3 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+1. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+2. internasjonale organisasjoner,
+3. humanitære organisasjoner med observatørstatus på FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+4. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+5. ansatte, støttemottakere, underorganer eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, eller
+6. andre relevante aktører som fastsatt av Sanksjonskomiteen med hensyn til vedlegg I.
 
 ### Artikkel 6
 
-1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 5 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet forutsatt atkompetente myndighet har fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,utelukkende skal brukes til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand, ellerutelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ogden berørte medlemsstaten har underrettet Sanksjonskomiteen om hva den er kommet fram til, som nevnt i bokstav a, og om at tillatelse vil bli gitt, og Sanksjonskomiteen ikke har gjort innsigelse mot dette innen to virkedager etter at underretningen ble gitt.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 5 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet forutsatt at
+
+1. kompetente myndighet har fastslått at pengene eller formuesgodene
+
+   1. er nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,
+   2. utelukkende skal brukes til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand, eller
+   3. utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, og
+2. den berørte medlemsstaten har underrettet Sanksjonskomiteen om hva den er kommet fram til, som nevnt i bokstav a, og om at tillatelse vil bli gitt, og Sanksjonskomiteen ikke har gjort innsigelse mot dette innen to virkedager etter at underretningen ble gitt.
 
 2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 5 og gi tillatelse til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt at den berørte medlemsstaten har underrettet Sanksjonskomiteen om dette, og at Sanksjonskomiteen har godkjent det.
 
 ### Artikkel 7
 
-Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 5 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før datoen da personen, enheten eller organet omtalt i artikkel 5 ble oppført i vedlegg I, eller for en rettslig, administrativ eller voldgiftsmessig beslutning truffet før denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik rettslig beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,tilbakeholdsretten eller beslutningen ikke er til fordel for personer, enheter eller organer oppført i vedlegg I,anerkjennelse av tilbakeholdsretten eller avgjørelsen ikke er i strid med grunnleggende rettsstatsprinsipper i den berørte medlemsstaten, ogmedlemsstaten har underrettet Sanksjonskomiteen om tilbakeholdsretten eller beslutningen.
+Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 5 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt at
+
+1. pengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før datoen da personen, enheten eller organet omtalt i artikkel 5 ble oppført i vedlegg I, eller for en rettslig, administrativ eller voldgiftsmessig beslutning truffet før denne datoen,
+2. pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik rettslig beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,
+3. tilbakeholdsretten eller beslutningen ikke er til fordel for personer, enheter eller organer oppført i vedlegg I,
+4. anerkjennelse av tilbakeholdsretten eller avgjørelsen ikke er i strid med grunnleggende rettsstatsprinsipper i den berørte medlemsstaten, og
+5. medlemsstaten har underrettet Sanksjonskomiteen om tilbakeholdsretten eller beslutningen.
 
 ### Artikkel 8
 
 1\. Artikkel 5 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført fra tredjeparter til kontoen tilhørende personen, enheten eller organet oppført i vedlegg I, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonene skal umiddelbart underrette den berørte kompetente myndigheten om slike transaksjoner.
 
-2\. Artikkel 5 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 5 ble oppført i vedlegg I, ellerbeløp forfalt til betaling i henhold til en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett eller beslutning, som nevnt i artikkel 7,forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med artikkel 5 nr. 1.
+2\. Artikkel 5 nr. 2 gjelder ikke beløp som tilføres frosne konti i form av
+
+1. renter eller annen avkastning på disse kontiene,
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 5 ble oppført i vedlegg I, eller
+3. beløp forfalt til betaling i henhold til en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett eller beslutning, som nevnt i artikkel 7,
+
+forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med artikkel 5 nr. 1.
 
 ### Artikkel 9
 
-1\. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organeromgående gi slike opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 5, til den kompetente myndigheten i medlemsstatene der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom de kompetente myndighetene, til Kommisjonen, ogsamarbeide med de kompetente myndighetene oppført i vedlegg II om en eventuell verifisering av disse opplysningene.
+1\. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organer
+
+1. omgående gi slike opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 5, til den kompetente myndigheten i medlemsstatene der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom de kompetente myndighetene, til Kommisjonen, og
+2. samarbeide med de kompetente myndighetene oppført i vedlegg II om en eventuell verifisering av disse opplysningene.
 
 2\. Alle tilleggsopplysninger som Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
 
@@ -150,7 +215,10 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 12
 
-1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene omtalt i bokstav a.
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes av
+
+1. fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,
+2. fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene omtalt i bokstav a.
 
 2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsene i nr. 1.
 
@@ -158,7 +226,10 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 13
 
-1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig ompenger som er frosset i henhold til artikkel 5, og tillatelser som er gitt i henhold til artikkel 6, 7 og 8,brudd på og håndheving av bestemmelsene samt rettsavgjørelser fra nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig om
+
+1. penger som er frosset i henhold til artikkel 5, og tillatelser som er gitt i henhold til artikkel 6, 7 og 8,
+2. brudd på og håndheving av bestemmelsene samt rettsavgjørelser fra nasjonale domstoler.
 
 2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
 
@@ -194,7 +265,13 @@ Vedlegg I inneholder, der det er tilgjengelig, opplysninger gitt av FNs sikkerhe
 
 ### Artikkel 19
 
-Denne forordningen får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for alle personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
+Denne forordningen får anvendelse
+
+1. på EUs territorium, herunder i EUs luftrom,
+2. om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,
+3. for alle personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,
+4. for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,
+5. for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
 
 ### Artikkel 20
 
@@ -217,67 +294,67 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 > Tilføyd ved forskrift [4 juni 2024 nr. 923](forskrift/2024-06-04-923).
 
 - BELGIUM
-[https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions](https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions)
+  [https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions](https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions)
 - BULGARIA
-[https://www.mfa.bg/en/EU-sanctions](https://www.mfa.bg/en/EU-sanctions)
+  [https://www.mfa.bg/en/EU-sanctions](https://www.mfa.bg/en/EU-sanctions)
 - CZECHIA
-[https://www.financnianalytickyurad.cz/mezinarodni-sankce.html](https://www.financnianalytickyurad.cz/mezinarodni-sankce.html)
+  [https://www.financnianalytickyurad.cz/mezinarodni-sankce.html](https://www.financnianalytickyurad.cz/mezinarodni-sankce.html)
 - DENMARK
-[https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/](https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/)
+  [https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/](https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/)
 - GERMANY
-[https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html](https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html)
+  [https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html](https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html)
 - ESTONIA
-[https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid](https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid)
+  [https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid](https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid)
 - IRELAND
-[https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/](https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/)
+  [https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/](https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/)
 - GREECE
-[https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+  [https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
 - SPAIN
-[https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx](https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx)
+  [https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx](https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx)
 - FRANCE
-[https://www.diplomatie.gouv.fr/fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/fr/autorites-sanctions/)
+  [https://www.diplomatie.gouv.fr/fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/fr/autorites-sanctions/)
 - CROATIA
-[https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955](https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955)
+  [https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955](https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955)
 - ITALY
-[https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/](https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/)
+  [https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/](https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/)
 - CYPRUS
-[https://mfa.gov.cy/themes/](https://mfa.gov.cy/themes/)
+  [https://mfa.gov.cy/themes/](https://mfa.gov.cy/themes/)
 - LATVIA
-[https://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
+  [https://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
 - LITHUANIA
-[https://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
+  [https://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
 - LUXEMBOURG
-[https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html](https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html)
+  [https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html](https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html)
 - HUNGARY
-[https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato](https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato)
+  [https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato](https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato)
 - MALTA
-[https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx](https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx)
+  [https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx](https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx)
 - NETHERLANDS
-[https://www.rijksoverheid.nl/onderwerpen/internationale-sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-sancties)
+  [https://www.rijksoverheid.nl/onderwerpen/internationale-sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-sancties)
 - AUSTRIA
-[https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/](https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/)
+  [https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/](https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/)
 - POLAND
-[https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe](https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe)
-[https://www.gov.pl/web/diplomacy/international-sanctions](https://www.gov.pl/web/diplomacy/international-sanctions)
+  [https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe](https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe)
+  [https://www.gov.pl/web/diplomacy/international-sanctions](https://www.gov.pl/web/diplomacy/international-sanctions)
 - PORTUGAL
-[https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx](https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx)
+  [https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx](https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx)
 - ROMANIA
-[https://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+  [https://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
 - SLOVENIA
-[https://www.gov.si/teme/omejevalni-ukrepi/](https://www.gov.si/teme/omejevalni-ukrepi/)
+  [https://www.gov.si/teme/omejevalni-ukrepi/](https://www.gov.si/teme/omejevalni-ukrepi/)
 - SLOVAKIA
-[https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu](https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu)
+  [https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu](https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu)
 - FINLAND
-[https://um.fi/pakotteet](https://um.fi/pakotteet)
+  [https://um.fi/pakotteet](https://um.fi/pakotteet)
 - SWEDEN
-[https://www.regeringen.se/sanktioner](https://www.regeringen.se/sanktioner)
+  [https://www.regeringen.se/sanktioner](https://www.regeringen.se/sanktioner)
 - Address for notifications to the European Commission:
-European Commission
-Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
-Rue de Spa 2
-1049 Brussels
-BELGIUM
-E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
+  European Commission
+  Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+  Rue de Spa 2
+  1049 Brussels
+  BELGIUM
+  E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
 
 ## Vedlegg B
 
@@ -289,7 +366,30 @@ om restriktive tiltak i lys av aktiviteter som undergraver stabiliteten og den p
 
 ### Artikkel 1
 
-I denne forordningen menes med«krav» ethvert omtvistet eller uomtvistet krav som er framsatt før eller etter datoen for denne forordningens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,«kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,«kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,«formuesgoder»: alle typer eiendeler, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«penger»: finansielle eiendeler og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eierandeler i penger eller finansielle ressurser,«EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkårene som er fastsatt i den nevnte traktaten, herunder deres luftrom.
+I denne forordningen menes med
+
+1. «krav» ethvert omtvistet eller uomtvistet krav som er framsatt før eller etter datoen for denne forordningens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særlig
+
+   1. krav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,
+   2. krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,
+   3. krav om kompensasjon med hensyn til en kontrakt eller transaksjon,
+   4. motkrav,
+   5. krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,
+2. «kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,
+3. «kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,
+4. «formuesgoder»: alle typer eiendeler, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,
+5. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,
+6. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+7. «penger»: finansielle eiendeler og fordeler av enhver art, herunder, men ikke begrenset til
+
+   1. kontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,
+   2. innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,
+   3. børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,
+   4. renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,
+   5. kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,
+   6. remburser, konnossementer og pantebrev,
+   7. dokumenter som viser eierandeler i penger eller finansielle ressurser,
+8. «EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkårene som er fastsatt i den nevnte traktaten, herunder deres luftrom.
 
 ### Artikkel 2
 
@@ -297,31 +397,61 @@ I denne forordningen menes med«krav» ethvert omtvistet eller uomtvistet krav s
 
 2\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I.
 
-3\. Vedlegg I omfatter fysiske eller juridiske personer, enheter eller organer somer ansvarlig for eller er direkte eller indirekte involvert i, gir støtte til eller drar fordel av handlinger eller politikk som truer freden, stabiliteten eller sikkerheten i Sudan,hindrer eller undergraver innsatsen for å gjenoppta den politiske overgangen i Sudan,hindrer levering av, tilgang til eller distribusjon av humanitær bistand i Sudan, herunder angrep på helsepersonell og humanitære hjelpearbeidere og beslagleggelse og ødeleggelse av humanitær eller medisinsk infrastruktur og humanitære eller medisinske forsyninger,er involvert i planlegging, ledelse eller utføring av handlinger i Sudan som utgjør alvorlige menneskerettighetsbrudd eller -overgrep, eller brudd på internasjonal humanitærrett, herunder drap og lemlestelse, voldtekt og andre former for seksualisert og kjønnsbasert vold, bortføring og tvangsfordrivelse,har tilknytning til de fysiske eller juridiske personene, enhetene eller organene som omfattes av bokstav a–d.
+3\. Vedlegg I omfatter fysiske eller juridiske personer, enheter eller organer som
+
+1. er ansvarlig for eller er direkte eller indirekte involvert i, gir støtte til eller drar fordel av handlinger eller politikk som truer freden, stabiliteten eller sikkerheten i Sudan,
+2. hindrer eller undergraver innsatsen for å gjenoppta den politiske overgangen i Sudan,
+3. hindrer levering av, tilgang til eller distribusjon av humanitær bistand i Sudan, herunder angrep på helsepersonell og humanitære hjelpearbeidere og beslagleggelse og ødeleggelse av humanitær eller medisinsk infrastruktur og humanitære eller medisinske forsyninger,
+4. er involvert i planlegging, ledelse eller utføring av handlinger i Sudan som utgjør alvorlige menneskerettighetsbrudd eller -overgrep, eller brudd på internasjonal humanitærrett, herunder drap og lemlestelse, voldtekt og andre former for seksualisert og kjønnsbasert vold, bortføring og tvangsfordrivelse,
+5. har tilknytning til de fysiske eller juridiske personene, enhetene eller organene som omfattes av bokstav a–d.
 
 ### Artikkel 3
 
-1\. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i artikkel 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, ellerskal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
+1\. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i artikkel 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene
+
+1. er nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,
+2. utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,
+3. utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,
+4. er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, eller
+5. skal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, innen to uker etter at tillatelsen er gitt.
 
 ### Artikkel 4
 
-1\. Artikkel 2 nr. 1 og 2 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus til FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, eller avansatte, støttemottakere, underorganer eller gjennomføringspartnere til enhetene nevnt i bokstav a–f mens og i det omfanget de handler i en slik egenskap.
+1\. Artikkel 2 nr. 1 og 2 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av
+
+1. FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,
+2. internasjonale organisasjoner,
+3. humanitære organisasjoner med observatørstatus til FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,
+4. bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),
+5. organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,
+6. medlemsstatenes særlige organer, eller av
+7. ansatte, støttemottakere, underorganer eller gjennomføringspartnere til enhetene nevnt i bokstav a–f mens og i det omfanget de handler i en slik egenskap.
 
 2\. Uten at det berører nr. 1, kan de kompetente myndighetene i en medlemsstat gjøre unntak fra bestemmelsene i artikkel 2 nr. 1 og 2 og gi tillatelse til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet på de vilkårene de finner hensiktsmessige, når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid.
 
-3\. Dersom den kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest fire uker etter at tillatelsen er gitt.
+3\. Dersom den kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
+
+Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest fire uker etter at tillatelsen er gitt.
 
 ### Artikkel 5
 
-1\. Kompetente myndigheter kan gjøre unntak fra bestemmelsen i artikkel 2 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder dersom følgende vilkår er oppfylt:Pengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 2 ble oppført i vedlegg I, eller for en rettslig eller administrativ beslutning fastsatt i EU eller en rettslig beslutning som er rettskraftig i den vedkommende medlemsstaten, før eller etter denne datoen.Pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter.Beslutningen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I.Anerkjennelse av beslutningen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+1\. Kompetente myndigheter kan gjøre unntak fra bestemmelsen i artikkel 2 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder dersom følgende vilkår er oppfylt:
+
+1. Pengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 2 ble oppført i vedlegg I, eller for en rettslig eller administrativ beslutning fastsatt i EU eller en rettslig beslutning som er rettskraftig i den vedkommende medlemsstaten, før eller etter denne datoen.
+2. Pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter.
+3. Beslutningen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I.
+4. Anerkjennelse av beslutningen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, innen to uker etter at tillatelsen er gitt.
 
 ### Artikkel 6
 
-1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg I, kan de kompetente myndighetene gjøre unntak fra bestemmelsen i artikkel 2 nr. 1 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom den berørte kompetente myndigheten har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg I, ogbetalingen ikke er i strid med artikkel 2 nr. 2.
+1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg I, kan de kompetente myndighetene gjøre unntak fra bestemmelsen i artikkel 2 nr. 1 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom den berørte kompetente myndigheten har fastslått at
+
+1. pengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg I, og
+2. betalingen ikke er i strid med artikkel 2 nr. 2.
 
 2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, innen to uker etter at tillatelsen er gitt.
 
@@ -329,11 +459,20 @@ I denne forordningen menes med«krav» ethvert omtvistet eller uomtvistet krav s
 
 1\. Bestemmelsen i artikkel 2 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført fra tredjeparter til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette den berørte kompetente myndigheten om slike transaksjoner.
 
-2\. Artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 2 ble oppført i vedlegg I, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er truffet i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten,forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med artikkel 2 nr. 1.
+2\. Artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form av
+
+1. renter eller annen avkastning på disse kontiene,
+2. beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 2 ble oppført i vedlegg I, eller
+3. beløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er truffet i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten,
+
+forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med artikkel 2 nr. 1.
 
 ### Artikkel 8
 
-1\. Fysiske og juridiske personer, enheter og organer skalomgående gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 3 nr. 1, til den kompetente myndigheten i medlemsstaten der de er etablert eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene nevnt i bokstav a.
+1\. Fysiske og juridiske personer, enheter og organer skal
+
+1. omgående gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 3 nr. 1, til den kompetente myndigheten i medlemsstaten der de er etablert eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, og
+2. samarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene nevnt i bokstav a.
 
 2\. Forpliktelsen i nr. 1 skal gjelde med forbehold for nasjonale eller andre gjeldende regler om fortrolighet for opplysninger som innehas av rettsmyndigheter, og i samsvar med respekten for fortroligheten av kommunikasjon mellom advokater og deres klienter som er garantert ved [artikkel 7](eu/12016p/a7) i [Den europeiske unions pakt om grunnleggende rettigheter](eu/12016p). For dette formålet omfatter dette kommunikasjon knyttet til juridisk rådgivning fra andre sertifiserte fagfolk som er autorisert i henhold til nasjonal rett til å representere sine klienter under rettergang, i den grad slik juridisk rådgivning gis i forbindelse med pågående eller framtidig rettergang.
 
@@ -349,7 +488,10 @@ I denne forordningen menes med«krav» ethvert omtvistet eller uomtvistet krav s
 
 1\. Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkning å omgå tiltakene omtalt i artikkel 2.
 
-2\. Fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I skalsenest seks uker fra datoen for oppføring i vedlegg I innberette penger eller formuesgoder innenfor en medlemsstats jurisdiksjon som tilhører, eies, innehas eller kontrolleres av dem, til de kompetente myndighetene i medlemsstaten der disse pengene eller formuesgodene befinner seg, ogsamarbeide med den kompetente myndigheten om verifisering av disse opplysningene.
+2\. Fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I skal
+
+1. senest seks uker fra datoen for oppføring i vedlegg I innberette penger eller formuesgoder innenfor en medlemsstats jurisdiksjon som tilhører, eies, innehas eller kontrolleres av dem, til de kompetente myndighetene i medlemsstaten der disse pengene eller formuesgodene befinner seg, og
+2. samarbeide med den kompetente myndigheten om verifisering av disse opplysningene.
 
 3\. Manglende overholdelse av nr. 2 skal betraktes som deltakelse, som nevnt i nr. 1, i virksomhet som har som formål eller virkning å omgå tiltakene omtalt i artikkel 2.
 
@@ -367,7 +509,10 @@ I denne forordningen menes med«krav» ethvert omtvistet eller uomtvistet krav s
 
 ### Artikkel 11
 
-1\. Ingen krav i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, skal imøtekommes dersom de framsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a.
+1\. Ingen krav i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, skal imøtekommes dersom de framsettes av
+
+1. fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,
+2. fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a.
 
 2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsene i nr. 1.
 
@@ -375,7 +520,10 @@ I denne forordningen menes med«krav» ethvert omtvistet eller uomtvistet krav s
 
 ### Artikkel 12
 
-1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig ompenger som er frosset i henhold til artikkel 2, og tillatelser som er gitt i henhold til artikkel 3, artikkel 4 nr. 2, artikkel 5 og artikkel 6,brudd på og håndheving av bestemmelsene samt rettsavgjørelser fra nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig om
+
+1. penger som er frosset i henhold til artikkel 2, og tillatelser som er gitt i henhold til artikkel 3, artikkel 4 nr. 2, artikkel 5 og artikkel 6,
+2. brudd på og håndheving av bestemmelsene samt rettsavgjørelser fra nasjonale domstoler.
 
 2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
 
@@ -405,7 +553,14 @@ I denne forordningen menes med«krav» ethvert omtvistet eller uomtvistet krav s
 
 ### Artikkel 16
 
-1\. Rådet, Kommisjonen og EUs høyrepresentant for utenrikssaker og sikkerhetspolitikk (heretter kalt «høyrepresentanten») kan behandle personopplysninger for å kunne utføre oppgavene som er pålagt dem i henhold til denne forordningen. Disse oppgavene består blant annet ifor Rådets del å utarbeide og foreta endringer av vedlegg I,for høyrepresentantens del å utarbeide endringer av vedlegg Ifor Kommisjonens del:å føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
+1\. Rådet, Kommisjonen og EUs høyrepresentant for utenrikssaker og sikkerhetspolitikk (heretter kalt «høyrepresentanten») kan behandle personopplysninger for å kunne utføre oppgavene som er pålagt dem i henhold til denne forordningen. Disse oppgavene består blant annet i
+
+1. for Rådets del å utarbeide og foreta endringer av vedlegg I,
+2. for høyrepresentantens del å utarbeide endringer av vedlegg I
+3. for Kommisjonens del:
+
+   1. å føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,
+   2. å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
 
 2\. Der det er aktuelt, skal Rådet, Kommisjonen og høyrepresentanten behandle relevante data om straffbare handlinger begått av listeførte fysiske personer og om straffedom eller sikkerhetstiltak mot slike personer, bare i den grad en slik behandling er nødvendig for å utarbeide vedlegg I.
 
@@ -425,7 +580,13 @@ Alle opplysninger som gis eller mottas av Kommisjonen i samsvar med denne forord
 
 ### Artikkel 19
 
-Denne forordningen får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for alle fysiske personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
+Denne forordningen får anvendelse
+
+1. på EUs territorium, herunder i EUs luftrom,
+2. om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,
+3. for alle fysiske personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,
+4. for alle juridiske personer, enheter og organer innenfor eller utenfor EUs territorium som er etablert eller stiftet i henhold til en medlemsstats lovgivning,
+5. for alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
 
 ### Artikkel 20
 
@@ -444,64 +605,64 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 > Tilføyd ved forskrift [4 juni 2024 nr. 923](forskrift/2024-06-04-923).
 
 - BELGIUM
-[https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions](https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions)
+  [https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions](https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions)
 - BULGARIA
-[https://www.mfa.bg/en/EU-sanctions](https://www.mfa.bg/en/EU-sanctions)
+  [https://www.mfa.bg/en/EU-sanctions](https://www.mfa.bg/en/EU-sanctions)
 - CZECHIA
-[https://www.financnianalytickyurad.cz/mezinarodni-sankce.html](https://www.financnianalytickyurad.cz/mezinarodni-sankce.html)
+  [https://www.financnianalytickyurad.cz/mezinarodni-sankce.html](https://www.financnianalytickyurad.cz/mezinarodni-sankce.html)
 - DENMARK
-[https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/](https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/)
+  [https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/](https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/)
 - GERMANY
-[https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html](https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html)
+  [https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html](https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html)
 - ESTONIA
-[https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid](https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid)
+  [https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid](https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid)
 - IRELAND
-[https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/](https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/)
+  [https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/](https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/)
 - GREECE
-[https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+  [https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
 - SPAIN
-[https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx](https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx)
+  [https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx](https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx)
 - FRANCE
-[https://www.diplomatie.gouv.fr/fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/fr/autorites-sanctions/)
+  [https://www.diplomatie.gouv.fr/fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/fr/autorites-sanctions/)
 - CROATIA
-[https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955](https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955)
+  [https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955](https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955)
 - ITALY
-[https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/](https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/)
+  [https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/](https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/)
 - CYPRUS
-[https://mfa.gov.cy/themes/](https://mfa.gov.cy/themes/)
+  [https://mfa.gov.cy/themes/](https://mfa.gov.cy/themes/)
 - LATVIA
-[https://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
+  [https://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
 - LITHUANIA
-[https://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
+  [https://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
 - LUXEMBOURG
-[https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html](https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html)
+  [https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html](https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html)
 - HUNGARY
-[https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato](https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato)
+  [https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato](https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato)
 - MALTA
-[https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx](https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx)
+  [https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx](https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx)
 - NETHERLANDS
-[https://www.rijksoverheid.nl/onderwerpen/internationale-sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-sancties)
+  [https://www.rijksoverheid.nl/onderwerpen/internationale-sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-sancties)
 - AUSTRIA
-[https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/](https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/)
+  [https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/](https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/)
 - POLAND
-[https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe](https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe)
-[https://www.gov.pl/web/diplomacy/international-sanctions](https://www.gov.pl/web/diplomacy/international-sanctions)
+  [https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe](https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe)
+  [https://www.gov.pl/web/diplomacy/international-sanctions](https://www.gov.pl/web/diplomacy/international-sanctions)
 - PORTUGAL
-[https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx](https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx)
+  [https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx](https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx)
 - ROMANIA
-[https://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+  [https://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
 - SLOVENIA
-[https://www.gov.si/teme/omejevalni-ukrepi/](https://www.gov.si/teme/omejevalni-ukrepi/)
+  [https://www.gov.si/teme/omejevalni-ukrepi/](https://www.gov.si/teme/omejevalni-ukrepi/)
 - SLOVAKIA
-[https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu](https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu)
+  [https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu](https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu)
 - FINLAND
-[https://um.fi/pakotteet](https://um.fi/pakotteet)
+  [https://um.fi/pakotteet](https://um.fi/pakotteet)
 - SWEDEN
-[https://www.regeringen.se/sanktioner](https://www.regeringen.se/sanktioner)
+  [https://www.regeringen.se/sanktioner](https://www.regeringen.se/sanktioner)
 - Address for notifications to the European Commission:
-European Commission
-Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
-Rue de Spa 2
-1049 Brussels
-BELGIUM
-E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
+  European Commission
+  Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+  Rue de Spa 2
+  1049 Brussels
+  BELGIUM
+  E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)

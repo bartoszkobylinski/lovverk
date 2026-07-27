@@ -15,7 +15,7 @@ xml_hash: "eee92ac65cbaebbd422f1175be57b4f919cec8a9b5c36428933bcc9250a8ec78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,11 @@ Forskriften gjelder norske kontrollantautorisasjoner og seniorkontrollantautoris
 
 ### § 4. Autorisasjon
 
-(1) For å kunne bli autorisert som kontrollant må:kravene i [forskrift av 20. desember 2000 nr. 1679](forskrift/2000-12-20-1679) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på fly, BSL JAR-FCL 1 (Flight Crew Licencing), kap. I, Amendment 1, ellerkravene i [forskrift av 22. juni 2001 nr. 1219](forskrift/2001-06-22-1219) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på helikopter, BSL JAR-FCL 2 (Flight Crew Licencing), kap. I, Amendment 1, være oppfylt, ellerkravene i [forskrift 19. desember 2008 nr. 1574](forskrift/2008-12-19-1574) om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS og [forskrift 25. oktober 2003 nr. 1302](forskrift/2003-10-25-1302) om utdanningsorganisasjoner for flygeinformasjonstjenestepersonell være oppfylt.
+(1) For å kunne bli autorisert som kontrollant må:
+
+1. kravene i [forskrift av 20. desember 2000 nr. 1679](forskrift/2000-12-20-1679) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på fly, BSL JAR-FCL 1 (Flight Crew Licencing), kap. I, Amendment 1, eller
+2. kravene i [forskrift av 22. juni 2001 nr. 1219](forskrift/2001-06-22-1219) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på helikopter, BSL JAR-FCL 2 (Flight Crew Licencing), kap. I, Amendment 1, være oppfylt, eller
+3. kravene i [forskrift 19. desember 2008 nr. 1574](forskrift/2008-12-19-1574) om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS og [forskrift 25. oktober 2003 nr. 1302](forskrift/2003-10-25-1302) om utdanningsorganisasjoner for flygeinformasjonstjenestepersonell være oppfylt.
 
 (2) I tillegg må kandidaten anses som personlig egnet etter en totalvurdering foretatt av Luftfartstilsynet.
 
@@ -82,7 +86,11 @@ Forskriften gjelder norske kontrollantautorisasjoner og seniorkontrollantautoris
 
 ### § 6. Kontrollantens plikter
 
-En kontrollant skal:holde seg informert om og følge de gjeldende bestemmelser og retningslinjer utgitt av Luftfartstilsynet,fremstå som en positiv representant for Luftfartstilsynet,rapportere eventuelle uregelmessigheter og brudd på gjeldende bestemmelser som han måtte bli kjent med gjennom arbeidet som kontrollant.
+En kontrollant skal:
+
+1. holde seg informert om og følge de gjeldende bestemmelser og retningslinjer utgitt av Luftfartstilsynet,
+2. fremstå som en positiv representant for Luftfartstilsynet,
+3. rapportere eventuelle uregelmessigheter og brudd på gjeldende bestemmelser som han måtte bli kjent med gjennom arbeidet som kontrollant.
 
 ### § 7. Kontrollantens rett til oppfølging
 
@@ -102,9 +110,17 @@ For språkkontrollanter gjelder [§ 6](forskrift/2003-12-10-1745/§6), [§ 7](fo
 
 ### § 9. Autorisasjon
 
-(1) For å kunne bli autorisert som seniorkontrollant må søkeren bl.a. oppfylle følgende kriterier:være innehaver av en gyldig kontrollantautorisasjon,ha minimum tre års erfaring som kontrollant, jf. [§ 4](forskrift/2003-12-10-1745/§4),kunne dokumentere minst 20 ferdighetsprøver eller -kontroller avholdt som kontrollant.
+(1) For å kunne bli autorisert som seniorkontrollant må søkeren bl.a. oppfylle følgende kriterier:
 
-(2) Luftfartstilsynet utsteder autorisasjonen etter en totalvurdering der det legges vekt på søkerens kvalifikasjoner og behovet for seniorkontrollanter. Autorisasjonen vil bli utstedt etter at Luftfartstilsynet har vurdert seniorkontrollantens eksaminasjon av kontrollantkandidaten som tilfredsstillende, jf.kravene i [forskrift av 20. desember 2000 nr. 1679](forskrift/2000-12-20-1679) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på fly, BSL JAR-FCL 1 (Flight Crew Licencing), pkt. 1.425, Amendment 1, ellerkravene i [forskrift av 22. juni 2001 nr. 1219](forskrift/2001-06-22-1219) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på helikopter, BSL JAR-FCL 2 (Flight Crew Licencing), pkt. 2.425, Amendment 1, ellerkrav som Luftfartstilsynet setter for autorisering av flygeinformasjonstjenestepersonell.
+- være innehaver av en gyldig kontrollantautorisasjon,
+- ha minimum tre års erfaring som kontrollant, jf. [§ 4](forskrift/2003-12-10-1745/§4),
+- kunne dokumentere minst 20 ferdighetsprøver eller -kontroller avholdt som kontrollant.
+
+(2) Luftfartstilsynet utsteder autorisasjonen etter en totalvurdering der det legges vekt på søkerens kvalifikasjoner og behovet for seniorkontrollanter. Autorisasjonen vil bli utstedt etter at Luftfartstilsynet har vurdert seniorkontrollantens eksaminasjon av kontrollantkandidaten som tilfredsstillende, jf.
+
+1. kravene i [forskrift av 20. desember 2000 nr. 1679](forskrift/2000-12-20-1679) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på fly, BSL JAR-FCL 1 (Flight Crew Licencing), pkt. 1.425, Amendment 1, eller
+2. kravene i [forskrift av 22. juni 2001 nr. 1219](forskrift/2001-06-22-1219) om gjennomføring av felleseuropeiske bestemmelser om sertifisering av flygende personell på helikopter, BSL JAR-FCL 2 (Flight Crew Licencing), pkt. 2.425, Amendment 1, eller
+3. krav som Luftfartstilsynet setter for autorisering av flygeinformasjonstjenestepersonell.
 
 (3) Autorisasjonen kan gjelde i inntil tre år.
 
@@ -116,7 +132,10 @@ For språkkontrollanter gjelder [§ 6](forskrift/2003-12-10-1745/§6), [§ 7](fo
 
 ### § 11. Seniorkontrollantens plikter
 
-En seniorkontrollant plikter:å gi nødvendig opplæring, informasjon og oppfølging i henhold til gjeldende bestemmelser og retningslinjer, til de kontrollanter som han til enhver tid er gitt oppfølgingsansvar for,å rapportere eventuelle uregelmessigheter og brudd på gjeldende bestemmelser som han måtte bli kjent med gjennom sitt arbeid som seniorkontrollant.
+En seniorkontrollant plikter:
+
+1. å gi nødvendig opplæring, informasjon og oppfølging i henhold til gjeldende bestemmelser og retningslinjer, til de kontrollanter som han til enhver tid er gitt oppfølgingsansvar for,
+2. å rapportere eventuelle uregelmessigheter og brudd på gjeldende bestemmelser som han måtte bli kjent med gjennom sitt arbeid som seniorkontrollant.
 
 ### § 12. Seniorkontrollantens rett til oppfølging
 
@@ -173,10 +192,25 @@ For flygeledere gjelder kun første og andre strekpunkt. Det samme gjelder for A
 
 *II. En ikke-uttømmende oversikt over uformelle krav er listet under:*
 
-- EgnethetEn kontrollantkandidat må:
-- ha godt omdømme som en sikker og trygg flyger, flygeleder eller flygeinformasjonstjenesteutøver (AFIS/HFIS),være respektert i luftfartsmiljøet,ha en ansvarsfull innstilling til faget,ha god regelverksforståelse,ha god evne til kommunikasjon,være motivert for kontrollantrollen.
-- HabilitetEn kontrollantkandidat må:ha evne til å vurdere sin egen habilitet,ikke ha personlige følelser eller tilknytning, for eksempel i forbindelse med tidligere instruksjon, eller være i familie med kandidaten.
-- IntegritetKontrollantkandidaten må kunne utvise godt skjønn i sin adferd som Luftfartstilsynets representant.
+- Egnethet
+
+  En kontrollantkandidat må:
+- ha godt omdømme som en sikker og trygg flyger, flygeleder eller flygeinformasjonstjenesteutøver (AFIS/HFIS),
+
+  - være respektert i luftfartsmiljøet,
+  - ha en ansvarsfull innstilling til faget,
+  - ha god regelverksforståelse,
+  - ha god evne til kommunikasjon,
+  - være motivert for kontrollantrollen.
+- Habilitet
+
+  En kontrollantkandidat må:
+
+  - ha evne til å vurdere sin egen habilitet,
+  - ikke ha personlige følelser eller tilknytning, for eksempel i forbindelse med tidligere instruksjon, eller være i familie med kandidaten.
+- Integritet
+
+  Kontrollantkandidaten må kunne utvise godt skjønn i sin adferd som Luftfartstilsynets representant.
 
 *III. Luftfartstilsynets øvrige vurdering*
 
@@ -210,7 +244,12 @@ En kontrollant anses som en oppdragstaker for Luftfartstilsynet.
 
 ### Til § 9. Autorisasjon av seniorkontrollanter
 
-En ikke-utfyllende liste over momenter som er med i vurderingen når en kontrollant ønsker en seniorkontrollantautorisasjon er:alle krav som stilles for utstedelse av en kontrollantautorisasjon må være oppfylt,en seniorkontrollant skal ha et enkeltmannsforetak,det skal være behov for en ny seniorkontrollant,kandidaten skal være personlig egnet.
+En ikke-utfyllende liste over momenter som er med i vurderingen når en kontrollant ønsker en seniorkontrollantautorisasjon er:
+
+- alle krav som stilles for utstedelse av en kontrollantautorisasjon må være oppfylt,
+- en seniorkontrollant skal ha et enkeltmannsforetak,
+- det skal være behov for en ny seniorkontrollant,
+- kandidaten skal være personlig egnet.
 
 ### Til § 10. Re-autorisasjon av seniorkontrollanter
 
@@ -220,7 +259,13 @@ De samme krav og kriterier ligger til grunn for en re-autorisasjon som for en au
 
 Denne listen er veiledende:
 
-En seniorkontrollant:skal i seniorkontrollantgruppen definere nødvendige rammer med hensyn til innhold for nødvendige kurs, veiledning og standardiseringstiltak for å sikre en ensartet og høy standard i kontrollantkorpset,plikter å utføre trening og standardisering for å kvalitetssikre en kontinuerlig og høy standard under utøvelsen av kontrollantgjerningen i kontrollantkorpset,skal føre tilsyn med og gi tilbakemelding til Luftfartstilsynet om kontrollantens utøvelse av kontrollantgjerningen,skal på forespørsel fra markedet kunne bistå Luftfartstilsynet med veiledning og informasjon i alle relevante spørsmål,skal ha oversikt over de kontrollantene han er ansvarlig for.
+En seniorkontrollant:
+
+- skal i seniorkontrollantgruppen definere nødvendige rammer med hensyn til innhold for nødvendige kurs, veiledning og standardiseringstiltak for å sikre en ensartet og høy standard i kontrollantkorpset,
+- plikter å utføre trening og standardisering for å kvalitetssikre en kontinuerlig og høy standard under utøvelsen av kontrollantgjerningen i kontrollantkorpset,
+- skal føre tilsyn med og gi tilbakemelding til Luftfartstilsynet om kontrollantens utøvelse av kontrollantgjerningen,
+- skal på forespørsel fra markedet kunne bistå Luftfartstilsynet med veiledning og informasjon i alle relevante spørsmål,
+- skal ha oversikt over de kontrollantene han er ansvarlig for.
 
 En seniorkontrollant skal ved alle oppdrag skrive en rapport om de aktuelle funn.
 
@@ -238,7 +283,13 @@ En seniorkontrollant anses som en oppdragstaker.
 
 *[§ 6](forskrift/2003-12-10-1745/§6). (habilitetskrav).*
 
-En offentlig tjenestemann er ugild til å tilrettelegge grunnlaget for en avgjørelse eller til å treffe avgjørelse i en forvaltningssaknår han selv er part i saken;når han er i slekt eller svogerskap med en part i opp- eller nedstigende linje eller i sidelinje så nær som søsken;når han er eller har vært gift med eller er forlovet med eller er fosterfar, fostermor eller fosterbarn til en part;når han er verge eller fullmektig for en part etter at saken begynte; for en part i saken eller har vært verge ellernår han leder eller har ledende stilling i, eller er medlem av styret eller bedriftsforsamling for, et selskap som er part i saken og ikke helt ut eies av stat eller kommune, eller en forening, sparebank eller stiftelse som er part i saken.
+En offentlig tjenestemann er ugild til å tilrettelegge grunnlaget for en avgjørelse eller til å treffe avgjørelse i en forvaltningssak
+
+1. når han selv er part i saken;
+2. når han er i slekt eller svogerskap med en part i opp- eller nedstigende linje eller i sidelinje så nær som søsken;
+3. når han er eller har vært gift med eller er forlovet med eller er fosterfar, fostermor eller fosterbarn til en part;
+4. når han er verge eller fullmektig for en part etter at saken begynte; for en part i saken eller har vært verge eller
+5. når han leder eller har ledende stilling i, eller er medlem av styret eller bedriftsforsamling for, et selskap som er part i saken og ikke helt ut eies av stat eller kommune, eller en forening, sparebank eller stiftelse som er part i saken.
 
 Likeså er han ugild når andre særegne forhold foreligger som er egnet til å svekke tilliten til hans upartiskhet; blant annet skal legges vekt på om avgjørelsen i saken kan innebære særlig fordel, tap eller ulempe for ham selv eller noen som han har nær personlig tilknytning til. Det skal også legges vekt på om ugildhetsinnsigelse er reist av en part.
 

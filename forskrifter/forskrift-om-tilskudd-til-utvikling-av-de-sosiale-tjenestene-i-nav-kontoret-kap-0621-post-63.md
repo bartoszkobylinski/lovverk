@@ -26,7 +26,10 @@ eu_basis: []
 
 Formålet med tilskuddsordningen er å stimulere til utvikling av sosiale tjenester og tiltak i kommunene etter [lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven)](lov/2009-12-18-131). Ordningen skal støtte opp om nasjonale mål og prioriteringer.
 
-Overordnede mål for ordningen er:Et helhetlig og samordnet tjenestetilbud tilpasset brukernes behovØkt kvalitet på tjenestene.
+Overordnede mål for ordningen er:
+
+- Et helhetlig og samordnet tjenestetilbud tilpasset brukernes behov
+- Økt kvalitet på tjenestene.
 
 ## § 2. Målgruppe
 
@@ -36,7 +39,13 @@ Sosialt og økonomisk vanskeligstilte som har behov for sosiale tjenester, og an
 
 Tjenester og tiltak til målgruppen er kvalitativt forbedret gjennom en mer helhetlig lokal innsats for å bekjempe fattigdom og sosial eksklusjon.
 
-Tjenestetilbudet er forbedret gjennom:Bedre individuell tilpasning og mer helhetlig oppfølging av den enkelteStyrket brukermedvirkning og brukerorienteringTidlig innsats og forebyggende arbeidØkt kunnskap og kompetanseKoordinerte og samordnede tjenester.
+Tjenestetilbudet er forbedret gjennom:
+
+- Bedre individuell tilpasning og mer helhetlig oppfølging av den enkelte
+- Styrket brukermedvirkning og brukerorientering
+- Tidlig innsats og forebyggende arbeid
+- Økt kunnskap og kompetanse
+- Koordinerte og samordnede tjenester.
 
 Det er utviklet nye arbeidsmetoder, og etablert nye samarbeidsrelasjoner med aktører utenfor NAV- kontoret.
 
@@ -50,7 +59,16 @@ Kommunen i NAV-kontoret.
 
 Tiltakene skal ta utgangspunkt i lokale utfordringer, sett i sammenheng med målene for ordningen. Grunnlaget for tiltaket bør være kunnskapsbasert (for eksempel analyser av KOSTRA-tall mv.).
 
-Søknader som i størst mulig grad ivaretar følgende punkter vil bli prioritert:Tiltak som bidrar til en helhetlig lokal innsats for å forebygge og redusere fattigdom og sosial eksklusjonTiltak som bidrar til individuell tilpasning og helhetlig oppfølging av den enkelte og dens familieTiltak som bidrar til styrket brukermedvirkning og brukerorientering på system- og individnivåTiltak som bidrar til utvikling av nye arbeidsmetoder og samarbeidsformerTiltak som bidrar til kompetanseheving, økt kunnskap og bedre oversikter over levekårsutfordringer i kommunene.Tiltak som bidrar til samarbeid mellom tjenesterTiltak som bidrar til interkommunalt samarbeidTiltak som styrker det forebyggende arbeidet og tidlig innsats.
+Søknader som i størst mulig grad ivaretar følgende punkter vil bli prioritert:
+
+- Tiltak som bidrar til en helhetlig lokal innsats for å forebygge og redusere fattigdom og sosial eksklusjon
+- Tiltak som bidrar til individuell tilpasning og helhetlig oppfølging av den enkelte og dens familie
+- Tiltak som bidrar til styrket brukermedvirkning og brukerorientering på system- og individnivå
+- Tiltak som bidrar til utvikling av nye arbeidsmetoder og samarbeidsformer
+- Tiltak som bidrar til kompetanseheving, økt kunnskap og bedre oversikter over levekårsutfordringer i kommunene.
+- Tiltak som bidrar til samarbeid mellom tjenester
+- Tiltak som bidrar til interkommunalt samarbeid
+- Tiltak som styrker det forebyggende arbeidet og tidlig innsats.
 
 Det gis ikke støtte til tiltak hvor det forekommer direkte utbetalinger til bruker.
 
@@ -70,11 +88,21 @@ Eventuelle prioriteringer knyttet til nasjonale forsøk, målgrupper eller satsi
 
 Søknad om tilskudd sendes til den respektive statsforvalteren. Søknaden skal undertegnes av rådmannen/kommunens administrative ledelse og NAV-leder. Søknaden skal inneholde NAV- kontorets navn, adresse, organisasjonsnummer, kontonummer og kontaktperson.
 
-Søknaden skal beskrive:Hva som skal oppnås lokalt, herunder målgruppe(r), innenfor rammene av målene for ordningenLevekår og utfordringer for målgruppen(e) for tiltak (for eksempel KOSTRA-tall/folkehelseprofiler/ungdataundersøkelser og annen levekårsstatistikk)Hvilke(n) oppgaver og tjeneste(r) innenfor det ordinære tjenestetilbudet tilskuddet skal bidra til å utvikleMetodisk tilnærming som legges til grunn for tiltaketSøknadsbeløp og budsjett for tiltaket det søkes om tilskudd tilInformasjon om kommunen har søkt/mottatt andre tilskuddsmidler til tiltak rettet mot målgruppen(e)En plan for hvordan erfaringene fra tiltaket skal videreføres og eventuell implementeres i ordinær drift (avtaler, planer, budsjett m.m.).
+Søknaden skal beskrive:
+
+- Hva som skal oppnås lokalt, herunder målgruppe(r), innenfor rammene av målene for ordningen
+- Levekår og utfordringer for målgruppen(e) for tiltak (for eksempel KOSTRA-tall/folkehelseprofiler/ungdataundersøkelser og annen levekårsstatistikk)
+- Hvilke(n) oppgaver og tjeneste(r) innenfor det ordinære tjenestetilbudet tilskuddet skal bidra til å utvikle
+- Metodisk tilnærming som legges til grunn for tiltaket
+- Søknadsbeløp og budsjett for tiltaket det søkes om tilskudd til
+- Informasjon om kommunen har søkt/mottatt andre tilskuddsmidler til tiltak rettet mot målgruppen(e)
+- En plan for hvordan erfaringene fra tiltaket skal videreføres og eventuell implementeres i ordinær drift (avtaler, planer, budsjett m.m.).
 
 Øvrige krav til søknaden framkommer av søknadsskjemaet som er lagt ved kunngjøringen.
 
-Spesielt for søknader om tilskudd til tiltak som inngår i nasjonale forsøk:Søknaden sendes direkte til Arbeids- og velferdsdirektoratet.
+Spesielt for søknader om tilskudd til tiltak som inngår i nasjonale forsøk:
+
+- Søknaden sendes direkte til Arbeids- og velferdsdirektoratet.
 
 ## § 8. Krav til søknadsbehandling
 
@@ -84,7 +112,9 @@ For tiltak som søker videreføring, skal det foreligge årsrapport og regnskaps
 
 Statsforvalteren sender tilskuddsbrev og avslagsbrev til kommunen i NAV-kontoret.
 
-Spesielt for søknader om tilskudd til tiltak som inngår i nasjonale forsøk:Arbeids- og velferdsdirektoratet vurderer og fatter vedtak om tilskudd til tiltak.
+Spesielt for søknader om tilskudd til tiltak som inngår i nasjonale forsøk:
+
+- Arbeids- og velferdsdirektoratet vurderer og fatter vedtak om tilskudd til tiltak.
 
 ## § 9. Regler for klagebehandling
 
@@ -98,19 +128,30 @@ Ubenyttede tilskuddsmidler kan overføres, og vil da komme til fratrekk ved utbe
 
 Midler som ikke er godkjent for overføring eller er benyttet i strid med regelverket skal tilbakebetales. For mye utbetalt tilskudd skal uten unødig opphold returneres til Arbeids- og velferdsdirektoratet med referanse til kapittel, post og ordning.
 
-Spesielt for søknader om tilskudd til tiltak som inngår i eventuelle nasjonale forsøk:Tilskuddet utbetales av Arbeids- og velferdsdirektoratet.
+Spesielt for søknader om tilskudd til tiltak som inngår i eventuelle nasjonale forsøk:
+
+- Tilskuddet utbetales av Arbeids- og velferdsdirektoratet.
 
 ## § 11. Krav til rapportering fra tilskuddsmottaker
 
 Det skal rapporteres om lokal måloppnåelse i henhold til relevante kriterier for måloppnåelse til den respektive statsforvalteren med kopi til Arbeids- og velferdsdirektoratet.
 
-Det skal rapporteres årlig om status for gjennomføring av tiltaket.Statusrapportering skal gjøres gjennom elektronisk rapportering.Regnskap pr. 31. desember skal sendes inn sammen med statusrapporten.Manglende rapportering innen gitt frist vil medføre avslag på ny søknad.
+Det skal rapporteres årlig om status for gjennomføring av tiltaket.
+
+- Statusrapportering skal gjøres gjennom elektronisk rapportering.
+- Regnskap pr. 31. desember skal sendes inn sammen med statusrapporten.
+- Manglende rapportering innen gitt frist vil medføre avslag på ny søknad.
 
 Ved avslutning av tiltaket skal det utarbeides sluttrapport.
 
-Krav til regnskap:Det skal føres eget prosjektregnskap for tiltaket, og det skal opprettes et eget koststed for tiltaket.Regnskap skal kunne sammenlignes med budsjett for tiltaket.
+Krav til regnskap:
 
-Spesielt for søknader om tilskudd til tiltak som inngår i nasjonale forsøk:Det kan stilles spesifikke krav til rapportering i tilskuddsbrevet.
+- Det skal føres eget prosjektregnskap for tiltaket, og det skal opprettes et eget koststed for tiltaket.
+- Regnskap skal kunne sammenlignes med budsjett for tiltaket.
+
+Spesielt for søknader om tilskudd til tiltak som inngår i nasjonale forsøk:
+
+- Det kan stilles spesifikke krav til rapportering i tilskuddsbrevet.
 
 ## § 12. Oppfølging og kontroll
 

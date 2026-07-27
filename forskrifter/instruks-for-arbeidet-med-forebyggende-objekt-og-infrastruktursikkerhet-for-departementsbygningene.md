@@ -15,7 +15,7 @@ xml_hash: "1c143c67064a451af733edfa8a71714d7690af13469d820c0765dacb7ab901f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,21 +78,69 @@ Vakt- og resepsjonstjenester med understøttende tekniske sikringssystem har som
 
 ## V. Departementenes ansvar for objekt- og infrastruktursikkerhet
 
-Det enkelte departement plikter å utøve forebyggende sikkerhetsarbeid innenfor sitt ansvarsområde i henhold til bestemmelsene gitt i eller i medhold av [sikkerhetsloven](lov/2018-06-01-24), jf. [sikkerhetsloven § 4-3](lov/2018-06-01-24/§4-3) første ledd.Avgrenset til området objekt- og infrastruktursikkerhet for departementsbygningene, har hvert departement selv ansvar for:sikkerhetstiltak i egne områdersikkerhetstiltak for å beskytte myndighetspersoner innenfor egne områdersikkerhetstiltak for egne skjermingsverdige objekter og infrastruktur i egne områder, samordnet med Kommunal- og moderniseringsdepartementetmenneskelige og organisatoriske tiltak som skal ivareta at Kommunal- og moderniseringsdepartementets felles grunnsikring ikke kompromitteres av egne ansatte eller besøkendeevakueringsplaner og rømningsstrategi for eget personell og besøkende.Departementenes behov for egnede arealer til egen virksomhet, herunder ombyggingsbehov eller behov for utvidelser som vil kunne påvirke felles grunnsikring, skal forelegges Kommunal- og moderniseringsdepartementet. Departementene er selv ansvarlige for eventuelle utflyttingslokaler, og ivaretakelse av forebyggende sikkerhetsarbeid som gjelder utflyttingslokalene.Departementenes eventuelle behov for sikkerhetsmessige tilpasninger i egne lokaler utover det som dekkes gjennom felles grunnsikring, kan dekkes gjennom tjenesteleveranser fra Statsbygg eller Departementenes sikkerhets- og serviceorganisasjon. Ansvaret for slik tilpasning ligger hos det enkelte departement.Behandling av personopplysningeret hvert departement er, iht. generell [personvernforordning2 artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 7, behandlingsansvarlig for personopplysninger som behandles som del av adgangskontroll og kameraovervåkning i departementsinterne områderet hvert departement skal inngå databehandleravtale med Departementenes sikkerhets- og serviceorganisasjon for behandling av personopplysninger som er del av adgangskontroll og kameraovervåkning i departementsinterne områder.
+Det enkelte departement plikter å utøve forebyggende sikkerhetsarbeid innenfor sitt ansvarsområde i henhold til bestemmelsene gitt i eller i medhold av [sikkerhetsloven](lov/2018-06-01-24), jf. [sikkerhetsloven § 4-3](lov/2018-06-01-24/§4-3) første ledd.
+
+1. Avgrenset til området objekt- og infrastruktursikkerhet for departementsbygningene, har hvert departement selv ansvar for:
+
+   1. sikkerhetstiltak i egne områder
+   2. sikkerhetstiltak for å beskytte myndighetspersoner innenfor egne områder
+   3. sikkerhetstiltak for egne skjermingsverdige objekter og infrastruktur i egne områder, samordnet med Kommunal- og moderniseringsdepartementet
+   4. menneskelige og organisatoriske tiltak som skal ivareta at Kommunal- og moderniseringsdepartementets felles grunnsikring ikke kompromitteres av egne ansatte eller besøkende
+   5. evakueringsplaner og rømningsstrategi for eget personell og besøkende.
+
+   Departementenes behov for egnede arealer til egen virksomhet, herunder ombyggingsbehov eller behov for utvidelser som vil kunne påvirke felles grunnsikring, skal forelegges Kommunal- og moderniseringsdepartementet. Departementene er selv ansvarlige for eventuelle utflyttingslokaler, og ivaretakelse av forebyggende sikkerhetsarbeid som gjelder utflyttingslokalene.
+
+   Departementenes eventuelle behov for sikkerhetsmessige tilpasninger i egne lokaler utover det som dekkes gjennom felles grunnsikring, kan dekkes gjennom tjenesteleveranser fra Statsbygg eller Departementenes sikkerhets- og serviceorganisasjon. Ansvaret for slik tilpasning ligger hos det enkelte departement.
+2. Behandling av personopplysninger
+
+   1. et hvert departement er, iht. generell [personvernforordning2 artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 7, behandlingsansvarlig for personopplysninger som behandles som del av adgangskontroll og kameraovervåkning i departementsinterne områder
+   2. et hvert departement skal inngå databehandleravtale med Departementenes sikkerhets- og serviceorganisasjon for behandling av personopplysninger som er del av adgangskontroll og kameraovervåkning i departementsinterne områder.
 
 2 Europaparlaments- og rådsforordning [2016/679](eu/32016r0679) av 27. april 2016 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger samt om oppheving av direktiv [95/46/EF](eu/31995l0046) (generell [personvernforordning](lov/2018-06-15-38/gdpr)
 
 ## VI. Kommunal- og moderniseringsdepartementets ansvar
 
-Kommunal- og moderniseringsdepartementets sikkerhetsmessige ansvar for objekt- og infrastruktursikkerhet for departementsbygningene er avgrenset til:felles grunnsikring som beskrevet i [kapittel IV](lov/2018-06-15-38/gdpr)nødvendig samordning og instruksutvikling for ivaretakelse av felles grunnsikringsamordning av sikkerhetstiltak for eventuelle rom innenfor departmentsinterne områder som inneholder felles teknisk infrastruktursamordning av sikkerhetstiltak med det enkelte departement for å ivareta sikkerhet for eventuelle skjermingsverdige objekter og infrastruktur innenfor felles grunnsikring i departementsbygningene.Kommunal- og moderniseringsdepartementet skal innenfor ovennevnte ansvarsområde:utpeke, klassifisere og holde oversikt over skjermingsverdige objekter og infrastruktur i departementsbygninger, fellesområder og utendørsområder som er del av eller understøtter felles grunnsikring, og som ikke faller inn under et annet departements ansvarsområdemelde inn oversikt over skjermingsverdige objekter og infrastruktur identifisert under punkt a) til Nasjonal sikkerhetsmyndighetgjennomføre vurdering av risiko og beskytte skjermingsverdige objekter og infrastruktur identifisert under punkt a) iht. [sikkerhetsloven § 7-3](lov/2018-06-01-24/§7-3)jevnlig informere departementene i de respektive departementsbygningene om vurdering av risiko, sikkerhetstiltak i felles grunnsikring og restrisiko samt beredskapstiltaksamordne beredskapsarbeidet knyttet til skjermingsverdige objekter og infrastruktur med Oslo politidistriktKommunal- og moderniseringsdepartementet skal, i dialog med politiet og andre fagmyndigheter, påse at det etableres fysiske sikkerhetstiltak for beskyttelse av myndighetspersoner i nye departementsbygninger og ved totalrenovering av eksisterende departementsbygninger.Kommunal- og moderniseringsdepartementet skal gi departementene råd om etablering av fysiske sikkerhetstiltak for beskyttelse av myndighetspersoner i eksisterende departementsbygninger.Kommunal- og moderniseringsdepartementet er behandlingsansvarlig for personopplysninger som behandles i forbindelse med felles grunnsikring for departementsbygningene, jf. generell [personvernforordning artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 7, jf. VII, nr. 1c). Dette gjelder også for tekniske sikringssystemer som er del av grunnsikringen, men som er montert eller lokalisert på innsiden av skallsikringen.
+Kommunal- og moderniseringsdepartementets sikkerhetsmessige ansvar for objekt- og infrastruktursikkerhet for departementsbygningene er avgrenset til:
+
+1. felles grunnsikring som beskrevet i [kapittel IV](lov/2018-06-15-38/gdpr)
+2. nødvendig samordning og instruksutvikling for ivaretakelse av felles grunnsikring
+3. samordning av sikkerhetstiltak for eventuelle rom innenfor departmentsinterne områder som inneholder felles teknisk infrastruktur
+4. samordning av sikkerhetstiltak med det enkelte departement for å ivareta sikkerhet for eventuelle skjermingsverdige objekter og infrastruktur innenfor felles grunnsikring i departementsbygningene.
+
+   1. Kommunal- og moderniseringsdepartementet skal innenfor ovennevnte ansvarsområde:
+
+      1. utpeke, klassifisere og holde oversikt over skjermingsverdige objekter og infrastruktur i departementsbygninger, fellesområder og utendørsområder som er del av eller understøtter felles grunnsikring, og som ikke faller inn under et annet departements ansvarsområde
+      2. melde inn oversikt over skjermingsverdige objekter og infrastruktur identifisert under punkt a) til Nasjonal sikkerhetsmyndighet
+      3. gjennomføre vurdering av risiko og beskytte skjermingsverdige objekter og infrastruktur identifisert under punkt a) iht. [sikkerhetsloven § 7-3](lov/2018-06-01-24/§7-3)
+      4. jevnlig informere departementene i de respektive departementsbygningene om vurdering av risiko, sikkerhetstiltak i felles grunnsikring og restrisiko samt beredskapstiltak
+      5. samordne beredskapsarbeidet knyttet til skjermingsverdige objekter og infrastruktur med Oslo politidistrikt
+   2. Kommunal- og moderniseringsdepartementet skal, i dialog med politiet og andre fagmyndigheter, påse at det etableres fysiske sikkerhetstiltak for beskyttelse av myndighetspersoner i nye departementsbygninger og ved totalrenovering av eksisterende departementsbygninger.
+   3. Kommunal- og moderniseringsdepartementet skal gi departementene råd om etablering av fysiske sikkerhetstiltak for beskyttelse av myndighetspersoner i eksisterende departementsbygninger.
+   4. Kommunal- og moderniseringsdepartementet er behandlingsansvarlig for personopplysninger som behandles i forbindelse med felles grunnsikring for departementsbygningene, jf. generell [personvernforordning artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 7, jf. VII, nr. 1c). Dette gjelder også for tekniske sikringssystemer som er del av grunnsikringen, men som er montert eller lokalisert på innsiden av skallsikringen.
 
 ## VII. Andre aktørers ansvar og roller
 
-1. Departementenes sikkerhets- og serviceorganisasjon:er tjenesteleverandør av vakt- og resepsjonstjenester med understøttende tekniske sikringssystem til felles grunnsikring for departementsbygningenehåndhever felles adgangsbestemmelser3 i departmentsfellesskapeter databehandler for personopplysninger som behandles i forbindelse med felles grunnsikring, jf. generell [personvernforordning artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 8er databehandler for personopplysninger som behandles i forbindelse med adgangskontroll og kameraovervåkning i departementsinterne områder, jf. generell [personvernforordning artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 8
-2. Statsbygg:har ansvar for bygningsmessige tjenesteleveranser av sikkerhetstiltak i departementsfellesskapethar ansvar for forvaltning, drift og vedlikehold av bygningsmassen og tilknyttede arealer i departementsfellesskapet
-3. Politidirektoratet:fremmer forslag til sikringstiltak for myndighetspersoner
-4. Politiets sikkerhetstjeneste:utarbeider trusselvurderinger og gir faglige råd der dette vurderes som relevant i arbeidet med forebyggende objekt- og infrastruktursikkerhet for departementsbygningene
-5. Oslo politidistrikt:er ansvarlig for opprettholdelse av alminnelig ro og orden og kriminalitetsbekjempelse i de deler av departementsfellesskapet som er åpne for alminnelig ferdseler reaksjonsstyrke ved sikkerhetstruende hendelser i departementsfellesskapeter sikringsstyrker for objektsikring, eventuelt med støtte fra Forsvaret.
+1. Departementenes sikkerhets- og serviceorganisasjon:
+
+   1. er tjenesteleverandør av vakt- og resepsjonstjenester med understøttende tekniske sikringssystem til felles grunnsikring for departementsbygningene
+   2. håndhever felles adgangsbestemmelser3 i departmentsfellesskapet
+   3. er databehandler for personopplysninger som behandles i forbindelse med felles grunnsikring, jf. generell [personvernforordning artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 8
+   4. er databehandler for personopplysninger som behandles i forbindelse med adgangskontroll og kameraovervåkning i departementsinterne områder, jf. generell [personvernforordning artikkel 4](lov/2018-06-15-38/gdpr/a4) nr. 8
+2. Statsbygg:
+
+   1. har ansvar for bygningsmessige tjenesteleveranser av sikkerhetstiltak i departementsfellesskapet
+   2. har ansvar for forvaltning, drift og vedlikehold av bygningsmassen og tilknyttede arealer i departementsfellesskapet
+3. Politidirektoratet:
+
+   1. fremmer forslag til sikringstiltak for myndighetspersoner
+4. Politiets sikkerhetstjeneste:
+
+   1. utarbeider trusselvurderinger og gir faglige råd der dette vurderes som relevant i arbeidet med forebyggende objekt- og infrastruktursikkerhet for departementsbygningene
+5. Oslo politidistrikt:
+
+   1. er ansvarlig for opprettholdelse av alminnelig ro og orden og kriminalitetsbekjempelse i de deler av departementsfellesskapet som er åpne for alminnelig ferdsel
+   2. er reaksjonsstyrke ved sikkerhetstruende hendelser i departementsfellesskapet
+   3. er sikringsstyrker for objektsikring, eventuelt med støtte fra Forsvaret.
 
 3 Se vedlegg til instruksen: «Felles adgangsbestemmelser for departementene».
 

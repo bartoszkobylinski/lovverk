@@ -15,7 +15,7 @@ xml_hash: "8c3737f782c5e119f60e5b32dc30379c0a7a811db6d52c8de6736d1af6b1cece"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,11 @@ Loven gjelder i riket. Kongen kan i forskrift bestemme at loven helt eller delvi
 
 ### § 2-1. Definisjoner
 
-I denne lov forstås med:assistert befruktning: inseminasjon og befruktning utenfor kroppen;inseminasjon: innføring av sæd i kvinnen på annen måte enn ved samleie;befruktning utenfor kroppen: befruktning av egg utenfor kvinnens kropp.
+I denne lov forstås med:
+
+1. assistert befruktning: inseminasjon og befruktning utenfor kroppen;
+2. inseminasjon: innføring av sæd i kvinnen på annen måte enn ved samleie;
+3. befruktning utenfor kroppen: befruktning av egg utenfor kvinnens kropp.
 
 ### § 2-2. Samlivsform
 
@@ -228,7 +232,11 @@ Sykdommens alvorlighetsgrad skal vurderes konkret i det enkelte tilfellet ut fra
 
 Dersom det på grunn av alvorlig, dominant arvelig sykdom hos slektninger i rett oppstigende linje er minst 50 prosent sannsynlighet for at den enslige eller en i paret har den sykdomsgivende genetiske forandringen, kan preimplantasjonsdiagnostikk tilbys uten at bærertilstanden er undersøkt. Det er et vilkår at det ikke finnes mulighet for helbredende behandling av sykdommen.
 
-Preimplantasjonsdiagnostikk kan i tillegg utføres for å undersøke vevstype med sikte på å få et vevstypelikt barn som kan være stamcelledonor for et søsken med alvorlig, arvelig sykdom. I slike tilfeller må følgende vilkår være oppfylt:behandling med søskendonasjon av friske, forlikelige stamceller med stor sannsynlighet er egnet til å kurere et sykt søskenhensynet til det syke barnet vurderes opp mot belastningene for et framtidig søskendonor født etter preimplantasjonsdiagnostikk med vevstyping ikke utsettes for uakseptable inngrep.
+Preimplantasjonsdiagnostikk kan i tillegg utføres for å undersøke vevstype med sikte på å få et vevstypelikt barn som kan være stamcelledonor for et søsken med alvorlig, arvelig sykdom. I slike tilfeller må følgende vilkår være oppfylt:
+
+1. behandling med søskendonasjon av friske, forlikelige stamceller med stor sannsynlighet er egnet til å kurere et sykt søsken
+2. hensynet til det syke barnet vurderes opp mot belastningene for et framtidig søsken
+3. donor født etter preimplantasjonsdiagnostikk med vevstyping ikke utsettes for uakseptable inngrep.
 
 Preimplantasjonsdiagnostikk skal ikke benyttes til å kartlegge eller velge andre egenskaper ved det befruktede egget, enn det som fremgår av paragrafen her.
 
@@ -282,7 +290,11 @@ Virksomhet som er godkjent etter første ledd, skal avgi skriftlig rapport til d
 
 ### § 3-1. Bruk av overtallige befruktede egg til forskning
 
-Overtallige befruktede egg og celler som stammer fra overtallige befruktede egg, kan bare anvendes til forskning når formålet er:å utvikle og forbedre metoder og teknikker for befruktning utenfor kroppen i den hensikt å oppnå graviditetå utvikle og forbedre metoder og teknikker for genetisk undersøkelse av befruktede egg med henblikk på å fastslå om det foreligger alvorlig monogen eller kromosomal arvelig sykdom (preimplantasjonsdiagnostikk)å oppnå ny kunnskap med sikte på framtidig behandling av alvorlig sykdom hos mennesker.
+Overtallige befruktede egg og celler som stammer fra overtallige befruktede egg, kan bare anvendes til forskning når formålet er:
+
+1. å utvikle og forbedre metoder og teknikker for befruktning utenfor kroppen i den hensikt å oppnå graviditet
+2. å utvikle og forbedre metoder og teknikker for genetisk undersøkelse av befruktede egg med henblikk på å fastslå om det foreligger alvorlig monogen eller kromosomal arvelig sykdom (preimplantasjonsdiagnostikk)
+3. å oppnå ny kunnskap med sikte på framtidig behandling av alvorlig sykdom hos mennesker.
 
 > Endret ved [lov 15 juni 2007 nr. 31](lov/2007-06-15-31) (ikr. 1 jan 2008 iflg. [res. 15 juni 2007 nr. 632](forskrift/2007-06-15-632)).
 
@@ -320,7 +332,11 @@ Samtykket kan trekkes tilbake i tråd med reglene i [biobankloven § 14](lov/200
 
 ### § 3-5. Forbud mot framstilling av menneskeembryoer ved kloning m.m.
 
-Det er forbudt:å framstille menneskeembryoer ved kloning,å forske på menneskeembryoer og cellelinjer som er dyrket ut fra menneskeembryoer framstilt ved kloning ogå framstille embryoer ved kloning ved at arvemateriale fra menneske settes inn i en eggcelle fra dyr.
+Det er forbudt:
+
+1. å framstille menneskeembryoer ved kloning,
+2. å forske på menneskeembryoer og cellelinjer som er dyrket ut fra menneskeembryoer framstilt ved kloning og
+3. å framstille embryoer ved kloning ved at arvemateriale fra menneske settes inn i en eggcelle fra dyr.
 
 Med kloning menes teknikker for å framstille arvemessig like kopier.
 
@@ -436,7 +452,12 @@ Helsepersonell som av samvittighetsgrunner ønsker det, kan reservere seg mot å
 
 Med genetiske undersøkelser menes i denne loven alle typer analyser av menneskets arvestoff, både på nukleinsyre- og kromosomnivå, av genprodukter og deres funksjon, eller organundersøkelser, som har til hensikt å gi informasjon om menneskets arveegenskaper.
 
-Med genetiske undersøkelser av fødte menes i denne lov:genetiske undersøkelser der formålet med undersøkelsen er å stille sykdomsdiagnose.genetiske presymptomatiske undersøkelser, genetiske prediktive undersøkelser og genetiske undersøkelser for å påvise eller utelukke bærertilstand for arvelige sykdommer som først viser seg i senere generasjoner.genetiske laboratorieundersøkelser for å bestemme kjønnstilhørighet, unntatt genetiske laboratorieundersøkelser for identifikasjonsformål.genetiske undersøkelser der formålet er å få informasjon om en persons fysiske eller mentale egenskaper eller anlegg, personlighetstrekk o.l.
+Med genetiske undersøkelser av fødte menes i denne lov:
+
+1. genetiske undersøkelser der formålet med undersøkelsen er å stille sykdomsdiagnose.
+2. genetiske presymptomatiske undersøkelser, genetiske prediktive undersøkelser og genetiske undersøkelser for å påvise eller utelukke bærertilstand for arvelige sykdommer som først viser seg i senere generasjoner.
+3. genetiske laboratorieundersøkelser for å bestemme kjønnstilhørighet, unntatt genetiske laboratorieundersøkelser for identifikasjonsformål.
+4. genetiske undersøkelser der formålet er å få informasjon om en persons fysiske eller mentale egenskaper eller anlegg, personlighetstrekk o.l.
 
 > Endret ved lover [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020), [20 juni 2025 nr. 68](lov/2025-06-20-68) (i kraft 1 okt 2025 iflg. [res. 20 juni 2025 nr. 1124](forskrift/2025-06-20-1124)).
 
@@ -508,7 +529,13 @@ Dersom pasienten ikke selv kan eller vil informere berørte slektninger, kan hel
 
 Dersom pasienten ikke kan samtykke til at helsepersonell informerer berørte slektninger, kan helsepersonell i særlige tilfeller gjøre dette, hvis vilkårene i femte ledd er oppfylt og sykdommen er godkjent av departementet etter sjuende ledd.
 
-Før helsepersonell tar kontakt med slektningene, skal han eller hun vurdere om:det gjelder en sykdom med vesentlige konsekvenser for den enkeltes liv eller helse,det er en rimelig grad av sannsynlighet for at også slektningene har et arvelig sykdomsanlegg som kan føre til sykdom senere i livet,det foreligger en dokumentert sammenheng mellom det arvelige sykdomsanlegget og utvikling av sykdom,de genetiske undersøkelser som benyttes for å fastslå det arvelige sykdomsanlegget, er sikre, ogsykdommen kan forebygges eller behandles med god effekt.
+Før helsepersonell tar kontakt med slektningene, skal han eller hun vurdere om:
+
+1. det gjelder en sykdom med vesentlige konsekvenser for den enkeltes liv eller helse,
+2. det er en rimelig grad av sannsynlighet for at også slektningene har et arvelig sykdomsanlegg som kan føre til sykdom senere i livet,
+3. det foreligger en dokumentert sammenheng mellom det arvelige sykdomsanlegget og utvikling av sykdom,
+4. de genetiske undersøkelser som benyttes for å fastslå det arvelige sykdomsanlegget, er sikre, og
+5. sykdommen kan forebygges eller behandles med god effekt.
 
 Dersom slektningen er under 16 år, skal bare foreldrene eller andre med foreldreansvar informeres.
 

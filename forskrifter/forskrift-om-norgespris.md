@@ -34,19 +34,46 @@ Forskriften gjelder strømforbruk fra og med 1. oktober 2025 til og med 31. dese
 
 ### § 3. Definisjoner
 
-I denne forskrift menes med:*annet forbruk:* alt annet strømforbruk enn husholdnings- og fritidsboligforbruk, herunder næringsforbruk.*boligselskap:* eierseksjonssameier, borettslag, boligaksjeselskaper og ikke-seksjonerte boligsameier.*fellesarealer:* arealer eid av boligselskap som husholdninger og fritidsboligeiere benytter, f.eks. vaskekjeller, trappeoppgang, boder og garasjer.*fritidsboligforbruk:* strømforbruk i fritidsboliger. Med fritidsboligforbruk menes også strømforbruk i fellesarealer og boenheter i boligselskap. Fritidsboligforbruk knyttet til gårds- og grendeverk er også omfattet.*fritidsboligkunde:* nettkunde på målepunkt registrert på privat abonnent og som er rettmessig registrert som hytte og fritidshus hos nettselskapet.*gårds- og grendeverk:* et fordelingsnett med spenning under 1 000 volt vekselstrøm eller 1 500 volt likestrøm som er bygget for å levere kraft fra lokal produksjon til uttakskunder hvor samlet hovedsikringskapasitet ikke overstiger 200 A ved 3 faser og 230 V.*husholdningsforbruk:* husholdningers strømforbruk i boliger. Med husholdningsforbruk menes også strømforbruk i fellesarealer og boenheter i boligselskap. Husholdningsforbruk knyttet til gårds- og grendeverk er også omfattet.*husholdningskunde:* nettkunde på målepunkt som er rettmessig registrert som husholdningskunde hos nettselskapet.*nettkunde:* kunde med målepunkt registrert i Elhub, tilknyttet nettselskap.*prisperiode:* perioden som referanseprisen er gyldig.*prissikringsbeløp:* prissikringsverdi multiplisert med nettkundens forbruk. Prissikringsbeløp kan oppgis per time, per dag eller per måned.*prissikringsverdi:* differansen mellom elspotpris i budområdet hvor nettkunden er tilknyttet og referanseprisen i den enkelte time.*referansepris:* pris i øre per kWh eksklusiv merverdiavgift fastsatt i denne forskrift.*registeransvarlig:* aktør som Reguleringsmyndigheten for energi har pekt ut til å levere teknisk løsning for gjennomføring av ordning for sikring av strømpris, jf. [lov om Norgespris og strømstønad til husholdninger § 10](lov/2025-06-20-44/§10).
+I denne forskrift menes med:
+
+1. *annet forbruk:* alt annet strømforbruk enn husholdnings- og fritidsboligforbruk, herunder næringsforbruk.
+2. *boligselskap:* eierseksjonssameier, borettslag, boligaksjeselskaper og ikke-seksjonerte boligsameier.
+3. *fellesarealer:* arealer eid av boligselskap som husholdninger og fritidsboligeiere benytter, f.eks. vaskekjeller, trappeoppgang, boder og garasjer.
+4. *fritidsboligforbruk:* strømforbruk i fritidsboliger. Med fritidsboligforbruk menes også strømforbruk i fellesarealer og boenheter i boligselskap. Fritidsboligforbruk knyttet til gårds- og grendeverk er også omfattet.
+5. *fritidsboligkunde:* nettkunde på målepunkt registrert på privat abonnent og som er rettmessig registrert som hytte og fritidshus hos nettselskapet.
+6. *gårds- og grendeverk:* et fordelingsnett med spenning under 1 000 volt vekselstrøm eller 1 500 volt likestrøm som er bygget for å levere kraft fra lokal produksjon til uttakskunder hvor samlet hovedsikringskapasitet ikke overstiger 200 A ved 3 faser og 230 V.
+7. *husholdningsforbruk:* husholdningers strømforbruk i boliger. Med husholdningsforbruk menes også strømforbruk i fellesarealer og boenheter i boligselskap. Husholdningsforbruk knyttet til gårds- og grendeverk er også omfattet.
+8. *husholdningskunde:* nettkunde på målepunkt som er rettmessig registrert som husholdningskunde hos nettselskapet.
+9. *nettkunde:* kunde med målepunkt registrert i Elhub, tilknyttet nettselskap.
+10. *prisperiode:* perioden som referanseprisen er gyldig.
+11. *prissikringsbeløp:* prissikringsverdi multiplisert med nettkundens forbruk. Prissikringsbeløp kan oppgis per time, per dag eller per måned.
+12. *prissikringsverdi:* differansen mellom elspotpris i budområdet hvor nettkunden er tilknyttet og referanseprisen i den enkelte time.
+13. *referansepris:* pris i øre per kWh eksklusiv merverdiavgift fastsatt i denne forskrift.
+14. *registeransvarlig:* aktør som Reguleringsmyndigheten for energi har pekt ut til å levere teknisk løsning for gjennomføring av ordning for sikring av strømpris, jf. [lov om Norgespris og strømstønad til husholdninger § 10](lov/2025-06-20-44/§10).
 
 ## Kapittel 2. Deltakelse i ordning for sikring av strømpris (Norgespris)
 
 ### § 4. Plikt til å tilby deltakelse i ordning for sikring av strømpris
 
-Nettselskapene plikter på forespørsel å tilby deltakelse i ordning for sikring av strømpris til:husholdningskunder jf. [lov om Norgespris og strømstønad til husholdninger § 8 første ledd](lov/2025-06-20-44/§8/ledd/1)fritidsboligkunder jf. [lov om Norgespris og strømstønad til husholdninger § 8 første ledd](lov/2025-06-20-44/§8/ledd/1)boligselskap med felles husholdningsforbruk og/eller fritidsboligforbruk jf. denne forskrift [§ 14](forskrift/2025-09-08-1790/§14)gårds- og grendeverk med husholdningsforbruk og/eller fritidsboligforbruk, jf. denne forskrift [§ 19](forskrift/2025-09-08-1790/§19).
+Nettselskapene plikter på forespørsel å tilby deltakelse i ordning for sikring av strømpris til:
+
+1. husholdningskunder jf. [lov om Norgespris og strømstønad til husholdninger § 8 første ledd](lov/2025-06-20-44/§8/ledd/1)
+2. fritidsboligkunder jf. [lov om Norgespris og strømstønad til husholdninger § 8 første ledd](lov/2025-06-20-44/§8/ledd/1)
+3. boligselskap med felles husholdningsforbruk og/eller fritidsboligforbruk jf. denne forskrift [§ 14](forskrift/2025-09-08-1790/§14)
+4. gårds- og grendeverk med husholdningsforbruk og/eller fritidsboligforbruk, jf. denne forskrift [§ 19](forskrift/2025-09-08-1790/§19).
 
 Ved uenighet mellom nettselskap og nettkunde om rett til å bli omfattet av ordningen, kan nettkunden bringe saken inn for avgjørelse hos Reguleringsmyndigheten for energi. Reguleringsmyndigheten for energi avgjør saken ved enkeltvedtak. Vedtaket kan påklages til Energiklagenemnda.
 
 ### § 5. Nettkundens bestilling av ordning for sikring av strømpris
 
-For å delta i ordning for sikring av strømpris må nettkunden:ha rett til å delta i ordningen jf. denne forskrift [§ 4](forskrift/2025-09-08-1790/§4)identifisere seg med elektronisk IDfylle ut bestillingsskjemaoppgi nødvendig kundeinformasjongodkjenne at nettselskapet kan kreve inn og betale ut netto prissikringsbeløp, jf. [lov om Norgespris og strømstønad til husholdninger § 8 annet ledd](lov/2025-06-20-44/§8/ledd/2) og [§ 9 annet ledd](lov/2025-06-20-44/§9/ledd/2)godkjenne vilkår om bindingstid, referansepris, forbrukstak og avbestillingsrett.
+For å delta i ordning for sikring av strømpris må nettkunden:
+
+1. ha rett til å delta i ordningen jf. denne forskrift [§ 4](forskrift/2025-09-08-1790/§4)
+2. identifisere seg med elektronisk ID
+3. fylle ut bestillingsskjema
+4. oppgi nødvendig kundeinformasjon
+5. godkjenne at nettselskapet kan kreve inn og betale ut netto prissikringsbeløp, jf. [lov om Norgespris og strømstønad til husholdninger § 8 annet ledd](lov/2025-06-20-44/§8/ledd/2) og [§ 9 annet ledd](lov/2025-06-20-44/§9/ledd/2)
+6. godkjenne vilkår om bindingstid, referansepris, forbrukstak og avbestillingsrett.
 
 Alle vilkårene i bokstav a til f må være oppfylt for å kunne delta i ordningen. For nettkunder som ikke benytter digitalt bestillingsskjema gjelder ikke vilkåret i bokstav b.
 
@@ -120,7 +147,10 @@ Det skal beregnes prissikringsbeløp for de første 5 000 kWh forbruk per måne
 
 ### § 14. Husholdninger og fritidsboliger i boligselskap
 
-Nettselskapene plikter på forespørsel å tilby deltakelse i ordning for sikring av strømpris til:boligselskap hvor strømforbruk for husholdninger og fritidsboliger måles og avregnes per felles inntaksledningboligselskap med målepunkt som forsyner husholdnings- og fritidsboligforbruk i boligselskapets fellesarealer, samt felles oppvarmings- og ventilasjonssystemer.
+Nettselskapene plikter på forespørsel å tilby deltakelse i ordning for sikring av strømpris til:
+
+1. boligselskap hvor strømforbruk for husholdninger og fritidsboliger måles og avregnes per felles inntaksledning
+2. boligselskap med målepunkt som forsyner husholdnings- og fritidsboligforbruk i boligselskapets fellesarealer, samt felles oppvarmings- og ventilasjonssystemer.
 
 Boligselskapet skal sørge for at prissikringsbeløpet fordeles på boligselskapets husholdninger og/eller fritidsboliger.
 
@@ -146,7 +176,10 @@ Korrigering av prissikringsbeløpet skal gjøres på første mulige faktura.
 
 ### § 18. Husholdning med fritidsbolig som fast bolig
 
-Nettkunde som bor fast i fritidsbolig, og som har egen strømmåler registrert hos et nettselskap, har rett til samme forbrukstak som husholdningskunder dersom:nettkunden har fremlagt for nettselskapet gyldig vedtak fra kommunen om varig eller midlertidig bruksendringstillatelse til boligformål, ellerdet fremgår av Folkeregisteret at nettkunden er og har vært bostedsregistrert på nåværende adresse senest 9. juni 2025.
+Nettkunde som bor fast i fritidsbolig, og som har egen strømmåler registrert hos et nettselskap, har rett til samme forbrukstak som husholdningskunder dersom:
+
+1. nettkunden har fremlagt for nettselskapet gyldig vedtak fra kommunen om varig eller midlertidig bruksendringstillatelse til boligformål, eller
+2. det fremgår av Folkeregisteret at nettkunden er og har vært bostedsregistrert på nåværende adresse senest 9. juni 2025.
 
 Prissikringsbeløpet beregnes etter [§ 11](forskrift/2025-09-08-1790/§11). Nettkunde som nevnt i bokstav a og som har et fortsatt kundeforhold, har rett til samme forbrukstak som husholdningskunder fra og med tidspunktet for vedtaket fra kommunen, men tidligst 1. oktober 2025. Nettkunde som nevnt i bokstav b og som har et fortsatt kundeforhold, har rett til samme forbrukstak som husholdningskunder fra og med 1.oktober 2025.
 
@@ -164,7 +197,11 @@ Nettselskapet skal kreve inn eller betale ut netto prissikringsbeløp til nettku
 
 ### § 20. Opplysninger om gårds- og grendeverk og tilknyttede husholdninger og fritidsboliger
 
-Nettkunde i tilknytningspunktet skal oppgi følgende informasjon til nettselskapet:antall husholdninger og fritidsboliger bak målepunktet til gårds- og grendeverket som ikke får strømstønad for husholdningsforbruk gjennom andre stønadsordningeradresse til hver husholdning og fritidsboligsamlet hovedsikringskapasitet i gårds- og grendeverket.
+Nettkunde i tilknytningspunktet skal oppgi følgende informasjon til nettselskapet:
+
+1. antall husholdninger og fritidsboliger bak målepunktet til gårds- og grendeverket som ikke får strømstønad for husholdningsforbruk gjennom andre stønadsordninger
+2. adresse til hver husholdning og fritidsbolig
+3. samlet hovedsikringskapasitet i gårds- og grendeverket.
 
 Nettkunde i tilknytningspunktet plikter å opplyse nettselskapet om endringer uten ugrunnet opphold.
 
@@ -214,7 +251,16 @@ Nettselskapene skal hver måned oversende til Reguleringsmyndigheten for energi 
 
 Reguleringsmyndigheten for energi kan fastsette format på dokumentasjon.
 
-Dokumentasjonen skal inneholde følgende informasjon:målepunkt-IDstartdato og sluttdato for den aktuelle utbetalingen eller innbetalingensluttbrukergruppenæringskodetotalt forbruk i kWhprissikret forbruk i kWhprissikringsbeløp i kronerindikator for om målepunktet er en husholdning, boligselskap, gårds- og grendeverk eller fritidsbolig (priskode).
+Dokumentasjonen skal inneholde følgende informasjon:
+
+1. målepunkt-ID
+2. startdato og sluttdato for den aktuelle utbetalingen eller innbetalingen
+3. sluttbrukergruppe
+4. næringskode
+5. totalt forbruk i kWh
+6. prissikret forbruk i kWh
+7. prissikringsbeløp i kroner
+8. indikator for om målepunktet er en husholdning, boligselskap, gårds- og grendeverk eller fritidsbolig (priskode).
 
 Reguleringsmyndigheten for energi kan ved behov be om ytterligere relevant informasjon.
 

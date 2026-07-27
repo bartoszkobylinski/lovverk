@@ -15,7 +15,7 @@ xml_hash: "ca606527fe97f97b01a1d78761b91bbd3f3e26d004c842b34df34b45390fa1a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,10 @@ Når alternativ behandling utøves i helse- og omsorgstjenesten eller av autoris
 
 ## § 3. Registerordning
 
-Departementet gir forskrift om en frivillig registerordning for helsepersonell og andre som utøver alternativ behandling. Herunder kan det gis bestemmelser omgebyr ved registrering ogårlig avgift for opprettholdelse av registreringen.
+Departementet gir forskrift om en frivillig registerordning for helsepersonell og andre som utøver alternativ behandling. Herunder kan det gis bestemmelser om
+
+1. gebyr ved registrering og
+2. årlig avgift for opprettholdelse av registreringen.
 
 ## § 4. Taushetsplikt
 

@@ -15,7 +15,7 @@ xml_hash: "a0c45fcc261a718afdf5f27797bde82ed5b943c610b7de75025fb0b67e9dd8ac"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,11 @@ Bare ektefeller og samboere kan adoptere sammen. Med samboere menes to personer 
 
 En søker som er gift eller samboende, kan bare adoptere sammen med ektefellen eller samboeren. Den som er gift eller samboer, kan likevel adoptere alene dersom ektefellen eller samboeren er forsvunnet, er psykisk utviklingshemmet eller har en alvorlig psykisk sykdom.
 
-En søker som er gift eller samboende, kan også adoptere alene dersom barnet erbarn av søkerens tidligere eller nåværende ektefelle eller samboersøkerens eget barnsøkerens tidligere adoptivbarn.
+En søker som er gift eller samboende, kan også adoptere alene dersom barnet er
+
+1. barn av søkerens tidligere eller nåværende ektefelle eller samboer
+2. søkerens eget barn
+3. søkerens tidligere adoptivbarn.
 
 ### § 7. Vilkår for at enslige kan adoptere
 
@@ -164,11 +168,22 @@ Skal adopsjonen gjennomføres etter at barnet er kommet til Norge, skal kommunen
 
 Et barn som har sitt vanlige bosted i utlandet, kan bare adopteres gjennom en organisasjon som har tillatelse til adopsjonsformidling etter [§ 31](lov/2017-06-16-48/§31), og som har tillatelse til å formidle barn fra særskilt angitte land etter [§ 32](lov/2017-06-16-48/§32).
 
-Adopsjonsmyndigheten kan likevel gi forhåndssamtykke til å adoptere fra utlandet utenom en adopsjonsorganisasjon dersomvilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfyltminst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bostedingen norsk adopsjonsorganisasjon har formidlingstillatelse i det landet der barnet har sitt vanlige bostedadopsjonen kan gjennomføres på en forsvarlig måte.
+Adopsjonsmyndigheten kan likevel gi forhåndssamtykke til å adoptere fra utlandet utenom en adopsjonsorganisasjon dersom
+
+1. vilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt
+2. minst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted
+3. ingen norsk adopsjonsorganisasjon har formidlingstillatelse i det landet der barnet har sitt vanlige bosted
+4. adopsjonen kan gjennomføres på en forsvarlig måte.
 
 ### § 21. Adopsjon av barn som søkeren har tilknytning til
 
-Dersom en søknad om forhåndssamtykke gjelder et bestemt barn som har sitt vanlige bosted i utlandet, kan adopsjonsmyndigheten gi forhåndssamtykke til å adoptere dersomvilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfyltminst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bostedminst én av søkerne har en nær personlig tilknytning til barnet eller barnets nære familie, og kontakten er etablert uten adopsjonshensiktbarnet mangler trygghet og faste omsorgspersoner i det landet der barnet har sitt vanlige bostedadopsjonen kan gjennomføres på en forsvarlig måte.
+Dersom en søknad om forhåndssamtykke gjelder et bestemt barn som har sitt vanlige bosted i utlandet, kan adopsjonsmyndigheten gi forhåndssamtykke til å adoptere dersom
+
+1. vilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt
+2. minst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted
+3. minst én av søkerne har en nær personlig tilknytning til barnet eller barnets nære familie, og kontakten er etablert uten adopsjonshensikt
+4. barnet mangler trygghet og faste omsorgspersoner i det landet der barnet har sitt vanlige bosted
+5. adopsjonen kan gjennomføres på en forsvarlig måte.
 
 ### § 22. Tildeling av barn fra utlandet
 
@@ -230,7 +245,12 @@ Det er forbudt for privatpersoner å drive adopsjonsformidling. Adopsjonsformidl
 
 ### § 31. Tillatelse til å drive adopsjonsformidling (driftstillatelse)
 
-Adopsjonsmyndigheten kan gi organisasjoner en tidsbegrenset tillatelse til å drive adopsjonsformidling. Det kan bare gis tillatelse til organisasjoner somhar adopsjonsformidling som hovedformålarbeider for barnets besteer ledet av og bemannet med personer som er kvalifisert til å arbeide med internasjonale adopsjonerikke har økonomisk vinning som formål.
+Adopsjonsmyndigheten kan gi organisasjoner en tidsbegrenset tillatelse til å drive adopsjonsformidling. Det kan bare gis tillatelse til organisasjoner som
+
+1. har adopsjonsformidling som hovedformål
+2. arbeider for barnets beste
+3. er ledet av og bemannet med personer som er kvalifisert til å arbeide med internasjonale adopsjoner
+4. ikke har økonomisk vinning som formål.
 
 Departementet kan gi forskrift om hvilke krav som kan stilles til en organisasjon for å få driftstillatelse, til organisasjonens virksomhet og avviklingen av den.
 

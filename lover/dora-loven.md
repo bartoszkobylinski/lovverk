@@ -15,7 +15,7 @@ xml_hash: "ad3b63951814eb3af6b8cdbfab7fe6c3607df6a70b8c15e0a7c04941c0e5ae50"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis:
   - "32022R2554"
@@ -36,7 +36,15 @@ eu_basis:
 
 ## § 2. Forordningens anvendelse på andre foretak
 
-(1) Departementet kan i forskrift fastsette at bestemmelsene i [§ 1](lov/2025-05-27-18/§1) helt eller delvis skal gjelde for:foretak nevnt i DORA-forordningen artikkel 2 nr. 3,finansieringsforetak,låneformidlingsforetak,inkassoforetak,eiendomsmeglingsforetak,morselskap i finanskonsern,Norsk naturskadepool.
+(1) Departementet kan i forskrift fastsette at bestemmelsene i [§ 1](lov/2025-05-27-18/§1) helt eller delvis skal gjelde for:
+
+1. foretak nevnt i DORA-forordningen artikkel 2 nr. 3,
+2. finansieringsforetak,
+3. låneformidlingsforetak,
+4. inkassoforetak,
+5. eiendomsmeglingsforetak,
+6. morselskap i finanskonsern,
+7. Norsk naturskadepool.
 
 (2) Departementet kan i forskrift fastsette forenklede krav for foretak nevnt i første ledd i samsvar med relevante bestemmelser i DORA-forordningen.
 
@@ -56,7 +64,24 @@ eu_basis:
 
 ## § 4. Overtredelsesgebyr
 
-(1) Finanstilsynet kan ilegge fysiske personer eller foretak overtredelsesgebyr på inntil 50 millioner kroner ved overtredelse av følgende bestemmelser i DORA-forordningen:artikkel 5 om forvaltning og organisasjon,artikkel 6 om rammeverk for IKT-risikostyring,artikkel 8 om identifisering av IKT-relaterte funksjoner og avhengigheter,artikkel 9 nr. 4 om retningslinjer for sikkerhet mv. som del av rammeverket for IKT-risikostyring, jf. artikkel 6,artikkel 11 om respons og gjenoppretting,artikkel 12 om retningslinjer og prosedyrer for sikkerhetskopiering og gjenoppretting,artikkel 14 om planer for krisekommunikasjon,artikkel 16 nr. 1 og 2 om forenklet rammeverk for IKT-risikostyring,artikkel 17 om prosess for håndtering av IKT-relaterte hendelser,artikkel 19 nr. 1, 3 og 4 om rapportering av alvorlige IKT-relaterte hendelser,artikkel 24 om generelle krav til gjennomføringen av testing av digital operasjonell motstandsdyktighet,artikkel 25 nr. 2 om sårbarhetsvurderinger før bruk av nye systemer i verdipapirsentraler og sentrale motparter,artikkel 28 om generelle prinsipper for forsvarlig styring av IKT-tredjepartsrisiko,artikkel 42 nr. 3 annet avsnitt om hensyntaken til risiko avdekket hos IKT-leverandører.Første punktum gjelder tilsvarende ved overtredelse av forskrifter som gjennomfører tekniske reguleringsstandarder fastsatt etter DORA-forordningen artikkel 15 og artikkel 16 nr. 3.
+(1) Finanstilsynet kan ilegge fysiske personer eller foretak overtredelsesgebyr på inntil 50 millioner kroner ved overtredelse av følgende bestemmelser i DORA-forordningen:
+
+1. artikkel 5 om forvaltning og organisasjon,
+2. artikkel 6 om rammeverk for IKT-risikostyring,
+3. artikkel 8 om identifisering av IKT-relaterte funksjoner og avhengigheter,
+4. artikkel 9 nr. 4 om retningslinjer for sikkerhet mv. som del av rammeverket for IKT-risikostyring, jf. artikkel 6,
+5. artikkel 11 om respons og gjenoppretting,
+6. artikkel 12 om retningslinjer og prosedyrer for sikkerhetskopiering og gjenoppretting,
+7. artikkel 14 om planer for krisekommunikasjon,
+8. artikkel 16 nr. 1 og 2 om forenklet rammeverk for IKT-risikostyring,
+9. artikkel 17 om prosess for håndtering av IKT-relaterte hendelser,
+10. artikkel 19 nr. 1, 3 og 4 om rapportering av alvorlige IKT-relaterte hendelser,
+11. artikkel 24 om generelle krav til gjennomføringen av testing av digital operasjonell motstandsdyktighet,
+12. artikkel 25 nr. 2 om sårbarhetsvurderinger før bruk av nye systemer i verdipapirsentraler og sentrale motparter,
+13. artikkel 28 om generelle prinsipper for forsvarlig styring av IKT-tredjepartsrisiko,
+14. artikkel 42 nr. 3 annet avsnitt om hensyntaken til risiko avdekket hos IKT-leverandører.
+
+Første punktum gjelder tilsvarende ved overtredelse av forskrifter som gjennomfører tekniske reguleringsstandarder fastsatt etter DORA-forordningen artikkel 15 og artikkel 16 nr. 3.
 
 (2) Medvirkning til overtredelse som nevnt i første ledd, kan sanksjoneres på samme måte.
 

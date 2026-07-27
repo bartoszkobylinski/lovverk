@@ -15,7 +15,7 @@ xml_hash: "3eec81a0ec49d7d51404b531cbe22dc5a05a66b83c815046babf87d10c9eb449"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -109,15 +109,50 @@ Prøvene skal festes med en limtype som fabrikanten foreskriver til et plant mat
 ### § 16. Retrorefleksjonsevne.
 
 1. Det stilles ikke spesifikke krav til materialets retrorefleksjonskoeffisient R'.
-2. De funksjonelle kravene i punkt 7.1. foran betyr at retroreflektoren sett fra en vilkårlig retning skal ha en lysstyrkekoeffisient på minstR = 230 mcd/luxfor observasjonsvinklerα ≤ 0,5°og innfallsvinklerβ ≤ 30°
+2. De funksjonelle kravene i punkt 7.1. foran betyr at retroreflektoren sett fra en vilkårlig retning skal ha en lysstyrkekoeffisient på minst
+
+   - R = 230 mcd/lux
+   - for observasjonsvinkler
+   - α ≤ 0,5°
+   - og innfallsvinkler
+   - β ≤ 30°
 3. Kravet om 230 mcd/lux sikres oppfylt ved å måle materialets retrorefleksjonskoeffisient R' og deretter beregne det nødvendige arealet. (punkt 7.5 nedenfor).
-4. Materialets retrorefleksjonskoeffisient måles md CIE lyskilde A og V lambda – detektor.Geometrien er beskrevet i appendix A.Hvis observasjonsvinkelen defineres i horisontalplanet, skal følgende målinger utføres (indeks h og v indikerer henholdsvis horisontal- og vertikalplan):R' (βh , βv =  5°)  ,  c=0,5°R' (βh , βv = 10°) ,  c=0,5°R' (βh , βv = 20°) ,  c=0,5°R' (βh , βv = 30°) ,  c=0,5°I hvert tilfelle måles R' kontinuerlig innen et vinkelområde som minst dekker– 40° ≤ βh ≤ 40°
+4. Materialets retrorefleksjonskoeffisient måles md CIE lyskilde A og V lambda – detektor.
+
+   Geometrien er beskrevet i appendix A.
+
+   Hvis observasjonsvinkelen defineres i horisontalplanet, skal følgende målinger utføres (indeks h og v indikerer henholdsvis horisontal- og vertikalplan):
+
+   - R' (βh , βv =  5°)  ,  c=0,5°
+   - R' (βh , βv = 10°) ,  c=0,5°
+   - R' (βh , βv = 20°) ,  c=0,5°
+   - R' (βh , βv = 30°) ,  c=0,5°
+
+   I hvert tilfelle måles R' kontinuerlig innen et vinkelområde som minst dekker
+
+   - – 40° ≤ βh ≤ 40°
 
 ### § 17. Dimensjonering.
 
 1. Til dimensjonering velges den av de målte R'(β) – funksjonene som har lavest gjennomsnittlig funksjonsverdi, R'm (β).
-2. Grensene for det effektive vinkelområdet, +/– βm ' bestemmes ved atR'm (βg ) = 0,5 . R'm (βh =0)R'm (βh ) erstattes deretter av funksjonen R'd (β), som er definert vedR'd (β) = R'm (βh ) for – βg ≤ β ≤ βg0 ellersder R'm (βh ) betyr middelverdien av R'm (βh ) i området +/– βg
-3. Det nødvendige retroreflekterende arealet som er nødvendig på stangsylinderen, beregnes etter formelenR'm (βh ) . l . r . βg = 25,46Her betyr:R'm(βh ):middelverdien funnet ovenfor, dimensjon cd/lux/m2.l:høyden av sylinderen regnet i m.r:sylinderradius, regnet i m.βg:grensen for det effektive vinkelområdet, funnet ovenfor regnet i grader.
+2. Grensene for det effektive vinkelområdet, +/– βm ' bestemmes ved at
+
+   - R'm (βg ) = 0,5 . R'm (βh =0)
+   - R'm (βh ) erstattes deretter av funksjonen R'd (β), som er definert ved
+   - R'd (β) = R'm (βh ) for – βg ≤ β ≤ βg
+   - 0 ellers
+   - der R'm (βh ) betyr middelverdien av R'm (βh ) i området +/– βg
+3. Det nødvendige retroreflekterende arealet som er nødvendig på stangsylinderen, beregnes etter formelen
+
+   - R'm (βh ) . l . r . βg = 25,46
+   - Her betyr:
+
+     |  |  |  |
+     | --- | --- | --- |
+     | R'm(βh ) | : | middelverdien funnet ovenfor, dimensjon cd/lux/m2. |
+     | l | : | høyden av sylinderen regnet i m. |
+     | r | : | sylinderradius, regnet i m. |
+     | βg | : | grensen for det effektive vinkelområdet, funnet ovenfor regnet i grader. |
 
 ### § 18. Farge.
 
@@ -161,12 +196,32 @@ En prøve legges i en blanding av 70% heptan og 30% toluol (volumprosent). Etter
 
 ### § 23. Klima.
 
-1. Materialet må tåle normale klimapåkjenninger over en rimelig levetid uten å miste for mye av retrorefleksjonsevnen.Bestandighet mot solstråling:Materialet skal gjennomgå en 480 timers værometertest med xenonlampebestråling. Etter denne testen skal prøven ikke vise tegn til misfarging, sprekk- eller blæredannelse, eller andre synlige tegn på nedbryting. Retrorefleksjonen skal være minst 80% av det som ble målt under punkt 7.3 foran.Bestandighet mot temperaturendringer:Materialet skal oppholde seg 24 timer i tørr luft med temperatur 60 ° +/– 3°C, og deretter 24 timer i tørr luft ved temperatur -30° +/– 3°C.
+1. Materialet må tåle normale klimapåkjenninger over en rimelig levetid uten å miste for mye av retrorefleksjonsevnen.
+
+   1. Bestandighet mot solstråling:
+
+      Materialet skal gjennomgå en 480 timers værometertest med xenonlampebestråling. Etter denne testen skal prøven ikke vise tegn til misfarging, sprekk- eller blæredannelse, eller andre synlige tegn på nedbryting. Retrorefleksjonen skal være minst 80% av det som ble målt under punkt 7.3 foran.
+   2. Bestandighet mot temperaturendringer:
+
+      Materialet skal oppholde seg 24 timer i tørr luft med temperatur 60 ° +/– 3°C, og deretter 24 timer i tørr luft ved temperatur -30° +/– 3°C.
 2. Etter dette skal materialet ikke vise tegn til sprekkdannelse, forvridning eller andre skader. Retrorefleksjonsevnen skal være uendret.
 
 ### § 24. Mekaniske påkjenninger.
 
-Materialet skal tåle de mekaniske påkjenningene det normalt vil bli utsatt for, uten å ødelegges for hurtig.Fleksibilitet.Etter å være nedkjølt til -30° +/– 3°C skal materialet (uten å være montert på noen plate) ved denne temperaturen bøyes rundt en sylinder med diameter 20 mm. Etter dette skal det ikke være sprekkdannelse eller andre synlige tegn til skade.Strekkfasthet.Strekkfastheten skal testes etter US Federal Test Method 141/6224 med en hastighet av 30 cm/min. Målt strekkfasthet skal da ikke være dårligere enn 20 N/25 mm (Gjelder umontert materiale).Overflateslitasje (gnissing).Materialet utsettes for 1000 strøk med en tørr børste i henhold til US Federal Test Method 141/6142. Retrorefleksjonen skal med dette ikke reduseres med mer enn 50%.Slagfasthet.En prøve plasseres horisontalt på et fast underlag med den retroreflekterende flaten vendt oppover. En stålkule med diameter 25 mm slippes ned på prøven fra høyde 2 m. Temperaturen skal være + 20° +/3°C. Det skal ikke være tegn til sprekker eller avskalling rundt treffpunktet, og retrorefleksjonen skal ikke bli redusert.
+Materialet skal tåle de mekaniske påkjenningene det normalt vil bli utsatt for, uten å ødelegges for hurtig.
+
+1. Fleksibilitet.
+
+   Etter å være nedkjølt til -30° +/– 3°C skal materialet (uten å være montert på noen plate) ved denne temperaturen bøyes rundt en sylinder med diameter 20 mm. Etter dette skal det ikke være sprekkdannelse eller andre synlige tegn til skade.
+2. Strekkfasthet.
+
+   Strekkfastheten skal testes etter US Federal Test Method 141/6224 med en hastighet av 30 cm/min. Målt strekkfasthet skal da ikke være dårligere enn 20 N/25 mm (Gjelder umontert materiale).
+3. Overflateslitasje (gnissing).
+
+   Materialet utsettes for 1000 strøk med en tørr børste i henhold til US Federal Test Method 141/6142. Retrorefleksjonen skal med dette ikke reduseres med mer enn 50%.
+4. Slagfasthet.
+
+   En prøve plasseres horisontalt på et fast underlag med den retroreflekterende flaten vendt oppover. En stålkule med diameter 25 mm slippes ned på prøven fra høyde 2 m. Temperaturen skal være + 20° +/3°C. Det skal ikke være tegn til sprekker eller avskalling rundt treffpunktet, og retrorefleksjonen skal ikke bli redusert.
 
 ### § 25. Liming og forsegling.
 

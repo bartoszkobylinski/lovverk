@@ -15,7 +15,7 @@ xml_hash: "09971ac99752e572df5b68e42eaaca5a085e649d27aa1d69f9d321646f95eebb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,16 @@ eu_basis: []
 
 ## § 1. Omsetningsavgift på jordbruksvarer
 
-Produsentar som omset jordbruksvarer, skal svara avgift etter desse satsane:Mjølk: 10 øre per literKjøtt av storfe og kalv: maks. 4,00 kroner per kgKjøtt av sau og lam: maks. 3,00 kroner per kgSvinekjøtt: maks. 1,50 kroner per kgEgg: 0,90 kroner per kgKjøtt av kylling: 24 øre per kgKjøtt av kalkun: 24 øre per kgKorn og oljefrø: maks. 11,5 øre per kg.
+Produsentar som omset jordbruksvarer, skal svara avgift etter desse satsane:
+
+1. Mjølk: 10 øre per liter
+2. Kjøtt av storfe og kalv: maks. 4,00 kroner per kg
+3. Kjøtt av sau og lam: maks. 3,00 kroner per kg
+4. Svinekjøtt: maks. 1,50 kroner per kg
+5. Egg: 0,90 kroner per kg
+6. Kjøtt av kylling: 24 øre per kg
+7. Kjøtt av kalkun: 24 øre per kg
+8. Korn og oljefrø: maks. 11,5 øre per kg.
 
 Omsetningsrådet fastsett omsetningsavgifta innafor maksimalsatsane i første ledd bokstav b, c, d og h.
 

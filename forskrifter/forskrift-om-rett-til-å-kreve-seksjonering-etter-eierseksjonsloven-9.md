@@ -30,7 +30,15 @@ Tingretten vurderer om vilkårene for å kreve seksjonering etter [eierseksjonsl
 
 ### § 1-2. Innholdet i krav om seksjonering
 
-Kravet skal inneholdeopplysning om at kravet gjelder seksjonering av en eiendom i sameie som ikke er seksjonert, adressen til sameiet og sameiets registerbetegnelse (gårds- og bruksnummer og eventuelt festenummer)navnet på og adressen til alle sameierneopplysning om at sameieren som krever seksjonering har bruksrett til en bolig, som ikke er fritidsbolig, i sameieten kort beskrivelse av eiendommen som ligger i sameieopplysninger om størrelsen på sameieandeleneopplysning om hva slags varsel de øvrige sameierne har fått om kravet, og om eventuelle tilbakemeldinger sameierne har gitt til detteen kort begrunnelse for at vilkårene for seksjonering er til stede.
+Kravet skal inneholde
+
+1. opplysning om at kravet gjelder seksjonering av en eiendom i sameie som ikke er seksjonert, adressen til sameiet og sameiets registerbetegnelse (gårds- og bruksnummer og eventuelt festenummer)
+2. navnet på og adressen til alle sameierne
+3. opplysning om at sameieren som krever seksjonering har bruksrett til en bolig, som ikke er fritidsbolig, i sameiet
+4. en kort beskrivelse av eiendommen som ligger i sameie
+5. opplysninger om størrelsen på sameieandelene
+6. opplysning om hva slags varsel de øvrige sameierne har fått om kravet, og om eventuelle tilbakemeldinger sameierne har gitt til dette
+7. en kort begrunnelse for at vilkårene for seksjonering er til stede.
 
 Samtlige sameiere i sameiet skal gjøres til parter.
 
@@ -42,13 +50,25 @@ Tingretten kan be om ytterligere opplysninger og dokumentasjon som er nødvendig
 
 Tingretten skal ved meddelelse, jf. [domstolloven § 186](lov/1915-08-13-5/§186), varsle de øvrige sameierne om seksjoneringskravet.
 
-I varselet skal rettensette en frist for å komme med uttalelse og eventuelle innvendinger mot kravetopplyse om at etter fristens utløp vil retten avgjøre om det kan sendes søknad om seksjonering til kommunen.
+I varselet skal retten
+
+1. sette en frist for å komme med uttalelse og eventuelle innvendinger mot kravet
+2. opplyse om at etter fristens utløp vil retten avgjøre om det kan sendes søknad om seksjonering til kommunen.
 
 ## Kapittel 2. Gjennomføring av seksjoneringen og medhjelperens oppgaver
 
 ### § 2-1. Medhjelperens oppgaver og fullmakter
 
-Medhjelperen skal innenfor den fullmakten tingretten har gitt utføre de oppgavene som er nødvendige for å få gjennomført seksjoneringen. Herunder skal medhjelperenha møte med sameierneavklare forholdet til panthavere og informere panthavere om seksjoneringenkartlegge øvrige eksisterende rettigheter, plikter og heftelser, og avgjøre om de skal videreføresutarbeide, foreslå og eventuelt beslutte vedtekterskriftlig pålegge sameiere som ikke har oppfylt kravene i [eierseksjonsloven § 7](lov/2017-06-16-65/§7) tredje ledd å gjøre en fremtidig eier oppmerksom på at kravene må oppfylles innen ett år etter overtakelsensørge for at pålegget i bokstav e blir tinglyst på de seksjonene det gjelderutarbeide og sende inn søknad om seksjonering. Dersom medhjelperen mangler kompetanse til selv å utføre enkelte deler av oppdraget, for eksempel til å utarbeide situasjonsplan eller plantegninger, kan han innhente nødvendig bistand fra andresignere på vegne av sameierne i seksjoneringsprosessen.
+Medhjelperen skal innenfor den fullmakten tingretten har gitt utføre de oppgavene som er nødvendige for å få gjennomført seksjoneringen. Herunder skal medhjelperen
+
+1. ha møte med sameierne
+2. avklare forholdet til panthavere og informere panthavere om seksjoneringen
+3. kartlegge øvrige eksisterende rettigheter, plikter og heftelser, og avgjøre om de skal videreføres
+4. utarbeide, foreslå og eventuelt beslutte vedtekter
+5. skriftlig pålegge sameiere som ikke har oppfylt kravene i [eierseksjonsloven § 7](lov/2017-06-16-65/§7) tredje ledd å gjøre en fremtidig eier oppmerksom på at kravene må oppfylles innen ett år etter overtakelsen
+6. sørge for at pålegget i bokstav e blir tinglyst på de seksjonene det gjelder
+7. utarbeide og sende inn søknad om seksjonering. Dersom medhjelperen mangler kompetanse til selv å utføre enkelte deler av oppdraget, for eksempel til å utarbeide situasjonsplan eller plantegninger, kan han innhente nødvendig bistand fra andre
+8. signere på vegne av sameierne i seksjoneringsprosessen.
 
 ### § 2-2. Møte med sameierne
 

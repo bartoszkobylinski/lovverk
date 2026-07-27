@@ -30,7 +30,16 @@ Formålet med tiltakspenger er å oppfordre til å delta på, og å sikre inntek
 
 ## § 2. Hvem som kan få tiltakspenger
 
-Deltakere på følgende arbeidsmarkedstiltak har krav på tiltakspenger:avklaring, jf. [forskrift 11. desember 2015 nr. 1598 om arbeidsmarkedstiltak (tiltaksforskriften) kapittel 2](forskrift/2015-12-11-1598/kap2),arbeidstrening, jf. [tiltaksforskriften kapittel 3](forskrift/2015-12-11-1598/kap3),oppfølging, jf. [tiltaksforskriften kapittel 4](forskrift/2015-12-11-1598/kap4),opplæring, jf. [tiltaksforskriften kapittel 7](forskrift/2015-12-11-1598/kap7),arbeidsrettet rehabilitering, jf. [tiltaksforskriften kapittel 12](forskrift/2015-12-11-1598/kap12),arbeidsforberedende trening, jf. [tiltaksforskriften kapittel 13](forskrift/2015-12-11-1598/kap13),arbeid med støtte, jf. [forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi kapittel 2](forskrift/2023-06-20-1073/kap2), ogindividuell jobbstøtte, jf. [forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi kapittel 3](forskrift/2023-06-20-1073/kap3).
+Deltakere på følgende arbeidsmarkedstiltak har krav på tiltakspenger:
+
+1. avklaring, jf. [forskrift 11. desember 2015 nr. 1598 om arbeidsmarkedstiltak (tiltaksforskriften) kapittel 2](forskrift/2015-12-11-1598/kap2),
+2. arbeidstrening, jf. [tiltaksforskriften kapittel 3](forskrift/2015-12-11-1598/kap3),
+3. oppfølging, jf. [tiltaksforskriften kapittel 4](forskrift/2015-12-11-1598/kap4),
+4. opplæring, jf. [tiltaksforskriften kapittel 7](forskrift/2015-12-11-1598/kap7),
+5. arbeidsrettet rehabilitering, jf. [tiltaksforskriften kapittel 12](forskrift/2015-12-11-1598/kap12),
+6. arbeidsforberedende trening, jf. [tiltaksforskriften kapittel 13](forskrift/2015-12-11-1598/kap13),
+7. arbeid med støtte, jf. [forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi kapittel 2](forskrift/2023-06-20-1073/kap2), og
+8. individuell jobbstøtte, jf. [forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi kapittel 3](forskrift/2023-06-20-1073/kap3).
 
 Det kan også gis tiltakspenger til deltakere fra Norge på arbeidsmarkedstiltak som arrangeres utenfor Norge, når tiltaket er tildelt av Arbeids- og velferdsetaten.
 

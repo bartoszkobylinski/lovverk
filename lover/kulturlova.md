@@ -15,7 +15,7 @@ xml_hash: "f370510a54982ba9fc977a707866866c641a8c7ad9eb00a972253d7e754217d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,13 +30,21 @@ Lova skal leggja til rette for eit ope og opplyst offentleg ordskifte gjennom å
 
 ## § 2. Definisjonar
 
-Med kulturverksemd meiner ein i denne lova åskapa, produsera, utøva, formidla og distribuera kunst- og andre kulturuttrykk,verna om, fremja innsikt i og vidareføra kulturarv,delta i kulturaktivitet,utvikla kulturfagleg kunnskap og kompetanse.
+Med kulturverksemd meiner ein i denne lova å
+
+1. skapa, produsera, utøva, formidla og distribuera kunst- og andre kulturuttrykk,
+2. verna om, fremja innsikt i og vidareføra kulturarv,
+3. delta i kulturaktivitet,
+4. utvikla kulturfagleg kunnskap og kompetanse.
 
 ## § 2 a. Avstand til politiske styresmakter
 
 Avgjerder som i hovudsak skal baserast på kunstnarleg eller kulturfagleg skjønn, skal treffast av personar med relevant fagkompetanse. Politiske styresmakter kan ikkje overprøva eller instruera om innhaldet i slike avgjerder. Dette er ikkje til hinder for overordna styring gjennom økonomiske og juridiske rammer og generelle mål.
 
-Første leddet gjeld ikkjeavgjerder basert på kulturmiljøfagleg skjønn, inkludert avgjerder om tildeling av tilskot til tiltak knytte til kulturmiljø, eller til ivaretaking av tradisjonshandverk når tilskotet har samanheng med slike tiltakved behandling av klage etter [forvaltningslova § 28](lov/1967-02-10/§28) andre leddet.
+Første leddet gjeld ikkje
+
+1. avgjerder basert på kulturmiljøfagleg skjønn, inkludert avgjerder om tildeling av tilskot til tiltak knytte til kulturmiljø, eller til ivaretaking av tradisjonshandverk når tilskotet har samanheng med slike tiltak
+2. ved behandling av klage etter [forvaltningslova § 28](lov/1967-02-10/§28) andre leddet.
 
 > Tilføyd ved lov [9 mai 2025 nr. 14](lov/2025-05-09-14) (i kraft 1 juli 2025 iflg. [res. 9 mai 2025 nr. 754](forskrift/2025-05-09-754)).
 
@@ -56,7 +64,11 @@ Fylkeskommunen og kommunen skal ha ei skriftleg oversikt over status og utviklin
 
 ## § 5. Felles oppgåver
 
-Staten, fylkeskommunen og kommunen skal syta forat kulturlivet har føreseielege utviklingskår,å fremja profesjonalitet og kvalitet i kulturtilbodet og leggja til rette for deltaking i kulturaktivitetar,at personar, organisasjonar og institusjonar har tilgang til informasjon om ordningar med økonomisk støtte og om andre verkemiddel og tiltak.
+Staten, fylkeskommunen og kommunen skal syta for
+
+1. at kulturlivet har føreseielege utviklingskår,
+2. å fremja profesjonalitet og kvalitet i kulturtilbodet og leggja til rette for deltaking i kulturaktivitetar,
+3. at personar, organisasjonar og institusjonar har tilgang til informasjon om ordningar med økonomisk støtte og om andre verkemiddel og tiltak.
 
 ## § 6. Ikraftsetjing
 

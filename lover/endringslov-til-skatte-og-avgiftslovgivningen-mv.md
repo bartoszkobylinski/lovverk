@@ -15,7 +15,7 @@ xml_hash: "f4cb5c98b3359cdcad563b0509eb51bee7b9c48ca0dfb2b496cd08657c73a18e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,11 @@ Fastsettelse av aksjens skjermingsgrunnlag og inngangsverdi
 
 Ved ikrafttredelse av endringen under XIV [§ 9-3](lov/1999-03-26-14/§9-3) sjette ledd1 og § 14-81 gjelder følgende overgangsregler:
 
-1. Til § 9-3 sjette ledd:Ved realisasjon i 2005 eller senere av alminnelig gårdsbruk eller skogbruk fastsettes skattyters inngangsverdi med utgangspunkt i historisk kostpris med tillegg av senere aktiverte kostnader og fradrag for foretatte avskrivninger. Den del av kostpris og tillegg som etter fordeling ikke faller på avskrivbare driftsmidler eller våningshus, oppreguleres etter prisstigningen i eiertiden etter regler og satser som fastsettes av departementet.– – –
+1. Til § 9-3 sjette ledd:
+
+   Ved realisasjon i 2005 eller senere av alminnelig gårdsbruk eller skogbruk fastsettes skattyters inngangsverdi med utgangspunkt i historisk kostpris med tillegg av senere aktiverte kostnader og fradrag for foretatte avskrivninger. Den del av kostpris og tillegg som etter fordeling ikke faller på avskrivbare driftsmidler eller våningshus, oppreguleres etter prisstigningen i eiertiden etter regler og satser som fastsettes av departementet.
+
+   – – –
 
 Ved ikrafttredelsen av endringen under XIV [§ 10-34](lov/1999-03-26-14/§10-34) gjelder følgende overgangsregel:
 

@@ -28,7 +28,10 @@ eu_basis: []
 
 ### § 1
 
-Bestemmelsene i forskriften kommer til anvendelse:I krig når dette anses nødvendig for å øke eller opprettholde Forsvarets stridsevne.Utenfor krigstid, når Forsvaret eller deler av dette er innkalt etter særskilt vedtak truffet av Kongen i statsråd, eller til fremme av nødvendige beredskapstiltak, herunder gjennomføring av større øvelser.
+Bestemmelsene i forskriften kommer til anvendelse:
+
+1. I krig når dette anses nødvendig for å øke eller opprettholde Forsvarets stridsevne.
+2. Utenfor krigstid, når Forsvaret eller deler av dette er innkalt etter særskilt vedtak truffet av Kongen i statsråd, eller til fremme av nødvendige beredskapstiltak, herunder gjennomføring av større øvelser.
 
 Forskriften gjelder ikke skip som rekvireres etter [lov av 19. desember 1952 nr. 2](lov/1952-12-19-2) med formål å vareta norske forpliktelser i henhold til Atlanterhavspakten.
 
@@ -74,7 +77,13 @@ Det er kun norske militære myndigheter som har rekvisisjonsrett etter denne for
 
 ### § 7
 
-Ved rekvisisjon iakttas følgende:Den som berøres skal ikke lide større ulempe eller skade enn strengt nødvendig.Er en vare rekvirert, og eieren eller innehaveren tilbyr en annen vare som erstatning, bør den tilbudte vare mottas så fremt den er egnet for formålet.Forpleining eller matvarer som rekvireres, f eks under innkvartering, skal være som vanlig mat på stedet.Gjenstander, varer, ytelser og tjenester som er av avgjørende betydning for næringslivet, så som råvarer, maskiner, viktige deler av maskiner eller driftsmidler, nøkkelpersonell, transportutstyr i forbindelse med petroleumsvirksomheten på norsk kontinentalsokkel, avlsdyr, såkorn mv., må ikke rekvireres uten i nødsfall.Tid og sted for oppfyllelse av ytelsen skal fastsettes slik at det blir tilstrekkelig frist for utførelse.
+Ved rekvisisjon iakttas følgende:
+
+1. Den som berøres skal ikke lide større ulempe eller skade enn strengt nødvendig.
+2. Er en vare rekvirert, og eieren eller innehaveren tilbyr en annen vare som erstatning, bør den tilbudte vare mottas så fremt den er egnet for formålet.
+3. Forpleining eller matvarer som rekvireres, f eks under innkvartering, skal være som vanlig mat på stedet.
+4. Gjenstander, varer, ytelser og tjenester som er av avgjørende betydning for næringslivet, så som råvarer, maskiner, viktige deler av maskiner eller driftsmidler, nøkkelpersonell, transportutstyr i forbindelse med petroleumsvirksomheten på norsk kontinentalsokkel, avlsdyr, såkorn mv., må ikke rekvireres uten i nødsfall.
+5. Tid og sted for oppfyllelse av ytelsen skal fastsettes slik at det blir tilstrekkelig frist for utførelse.
 
 ## Kapittel V. Geografisk avgrensning
 
@@ -96,7 +105,11 @@ I krig, når operasjoner pågår i landsdel/region eller når disse er avsperret
 
 ### § 11
 
-Nummererte rekvisisjonsblanketter skal normalt nyttes ved utstedelse av rekvisisjoner. I mangel av rekvisisjonsblanketter skal rekvisisjonene avfattes mest mulig i samsvar med slike, og nummereres fortløpende. Rekvisisjoner bør angi:Den enkelte forbruksartikkel etter art, mengde, kvalitet samt pakningsmåte. Når det gjelder dyr til slakt, må antall dyr og gjennomsnittsvekt oppgis, samt for hvor lang tid fôr må medbringes.Når og hvor lenge en regner med å bruke arbeidskraft, veivisere m.m., for hvor lang tid mat må medbringes, hvilke yrkesgrupper personellet bør tilhøre, samt om mulig oppgave over det verktøy som må medbringes.Når og hvor lenge en regner med å bruke kjøretøyer, fartøyer eller dyr, og den besetning, utrustning, drivstoffmengde eller fôr, reservedeler etc som må medbringes.
+Nummererte rekvisisjonsblanketter skal normalt nyttes ved utstedelse av rekvisisjoner. I mangel av rekvisisjonsblanketter skal rekvisisjonene avfattes mest mulig i samsvar med slike, og nummereres fortløpende. Rekvisisjoner bør angi:
+
+1. Den enkelte forbruksartikkel etter art, mengde, kvalitet samt pakningsmåte. Når det gjelder dyr til slakt, må antall dyr og gjennomsnittsvekt oppgis, samt for hvor lang tid fôr må medbringes.
+2. Når og hvor lenge en regner med å bruke arbeidskraft, veivisere m.m., for hvor lang tid mat må medbringes, hvilke yrkesgrupper personellet bør tilhøre, samt om mulig oppgave over det verktøy som må medbringes.
+3. Når og hvor lenge en regner med å bruke kjøretøyer, fartøyer eller dyr, og den besetning, utrustning, drivstoffmengde eller fôr, reservedeler etc som må medbringes.
 
 ## Kapittel VII. Hvem rekvisisjoner skal rettes til
 
@@ -110,7 +123,17 @@ Rekvisisjoner som forberedes i fred, rettes til de myndigheter som i krig har de
 
 ### § 13
 
-Når annet ikke er bestemt, rettes rekvisisjoner normalt gjennom Forsvarets overkommando til det aktuelle fagdepartement. For følgende ytelser rettes rekvisisjonen direkte til vedkommende organ som er ansvarlig for angjeldende forsyningsområde:Behov for drivstoffer og smøremidler rettes til oljeselskapene på vanlig måte. Dersom dette ikke er mulig, rettes begjæringen til Beredskapsorganisasjonen for drivstofforsyningen (BOD). I situasjoner der vanlige forsyningskanaler ikke kan benyttes, vil rekvisisjoner kunne foretas direkte overfor den enkelte bensinstasjon eller tankanlegg.Veg- og sjøtransportmidler eller ytelser på disse områder, samt krav om reparasjon av kjøretøyer rettes til Transporthovedledelsen (THL), eller dens regionale og lokale organer. Krav om skipsreparasjoner rettes til Nærings- og handelsdepartementet (NHD), eller den departementet bemyndiger.Større avdelingstransporter (tilsv) med jernbane rettes til den myndighet som er utpekt av Samferdselsdepartementet.Sykehus, sykehusplass, sanitetsmateriell og medisinalvarer rettes til den aktuelle fylkeskommune.Arbeidskraft rettes til fylkesarbeidskontorene.Bedrifter, deres ytelser, produksjonsutstyr og råvarer mv. rettes til Nærings- og handelsdepartementet. Slike rekvisisjoner skal så langt mulig ikke gå ut over de på forhånd inngåtte avtaler mellom grossister/bransjer og Nærings- og handelsdepartementet. Dersom henvendelse til departementet i en operativ situasjon ikke er mulig, rettes begjæringen til statsforvalteren.Husrom, lagerrom mv. rettes som regel til vedkommende kommune eller statsforvalter.Teleanlegg og andre teletjenester rettes til Post- og teletilsynet. Rekvisisjon av ytelser fra Norsk Rikskringkasting (NRK) eller private mediaanlegg rettes til NRK, lokal avdeling av NRK eller eventuelt direkte til vedkommende private institusjon.Bygg- og anleggsmaskiner mv. rettes til Nærings- og handelsdepartementet (NHD), eller den departementet til enhver tid bemyndiger.
+Når annet ikke er bestemt, rettes rekvisisjoner normalt gjennom Forsvarets overkommando til det aktuelle fagdepartement. For følgende ytelser rettes rekvisisjonen direkte til vedkommende organ som er ansvarlig for angjeldende forsyningsområde:
+
+1. Behov for drivstoffer og smøremidler rettes til oljeselskapene på vanlig måte. Dersom dette ikke er mulig, rettes begjæringen til Beredskapsorganisasjonen for drivstofforsyningen (BOD). I situasjoner der vanlige forsyningskanaler ikke kan benyttes, vil rekvisisjoner kunne foretas direkte overfor den enkelte bensinstasjon eller tankanlegg.
+2. Veg- og sjøtransportmidler eller ytelser på disse områder, samt krav om reparasjon av kjøretøyer rettes til Transporthovedledelsen (THL), eller dens regionale og lokale organer. Krav om skipsreparasjoner rettes til Nærings- og handelsdepartementet (NHD), eller den departementet bemyndiger.
+3. Større avdelingstransporter (tilsv) med jernbane rettes til den myndighet som er utpekt av Samferdselsdepartementet.
+4. Sykehus, sykehusplass, sanitetsmateriell og medisinalvarer rettes til den aktuelle fylkeskommune.
+5. Arbeidskraft rettes til fylkesarbeidskontorene.
+6. Bedrifter, deres ytelser, produksjonsutstyr og råvarer mv. rettes til Nærings- og handelsdepartementet. Slike rekvisisjoner skal så langt mulig ikke gå ut over de på forhånd inngåtte avtaler mellom grossister/bransjer og Nærings- og handelsdepartementet. Dersom henvendelse til departementet i en operativ situasjon ikke er mulig, rettes begjæringen til statsforvalteren.
+7. Husrom, lagerrom mv. rettes som regel til vedkommende kommune eller statsforvalter.
+8. Teleanlegg og andre teletjenester rettes til Post- og teletilsynet. Rekvisisjon av ytelser fra Norsk Rikskringkasting (NRK) eller private mediaanlegg rettes til NRK, lokal avdeling av NRK eller eventuelt direkte til vedkommende private institusjon.
+9. Bygg- og anleggsmaskiner mv. rettes til Nærings- og handelsdepartementet (NHD), eller den departementet til enhver tid bemyndiger.
 
 Det som er fastsatt i denne paragraf utelukker ikke at ikke-forberedte rekvisisjoner om nødvendig kan rettes til statsforvalter eller kommune.
 
@@ -194,7 +217,14 @@ Hvis ikke annet er bestemt, tilkommer de medlemmer og varamedlemmer av skjønnsn
 
 ### § 24
 
-Lederen av skjønnsnemnda sørger for at det blir ført protokoll over avholdte skjønnsforretninger. I protokollen innføres det nødvendige om ytelsens art, mengde og kvalitet, og godtgjørelsens og/eller erstatningens størrelse. Etter avholdt skjønn skal protokollen underskrives av samtlige skjønnsmenn, med angivelse av hvor og når skjønnet ble holdt. Protokollen oppbevares av lederen, og han skal tilskrive den som rekvisisjonen var rettet til med en bekreftet utskrift av protokollen. Har ytelsene vært fordelt på flere leverandører, skal det gå fram av protokollen hvor mye hver enkelt har levert og hvilke beløp den enkelte er tilkjent. Protokollen skal således inneholde opplysninger om:Sammensetningen av skjønnsnemnda.Tid og sted for skjønnsforretningen.Partene eller deres representanter.Skjønnsmedlemmenes habilitet.Skjønnets gjenstand og grunnlaget for kravet og eventuelt størrelsen av dette.Skjønnsnemndas avgjørelse. Samtlige medlemmer av skjønnsnemnda underskriver protokollen.
+Lederen av skjønnsnemnda sørger for at det blir ført protokoll over avholdte skjønnsforretninger. I protokollen innføres det nødvendige om ytelsens art, mengde og kvalitet, og godtgjørelsens og/eller erstatningens størrelse. Etter avholdt skjønn skal protokollen underskrives av samtlige skjønnsmenn, med angivelse av hvor og når skjønnet ble holdt. Protokollen oppbevares av lederen, og han skal tilskrive den som rekvisisjonen var rettet til med en bekreftet utskrift av protokollen. Har ytelsene vært fordelt på flere leverandører, skal det gå fram av protokollen hvor mye hver enkelt har levert og hvilke beløp den enkelte er tilkjent. Protokollen skal således inneholde opplysninger om:
+
+1. Sammensetningen av skjønnsnemnda.
+2. Tid og sted for skjønnsforretningen.
+3. Partene eller deres representanter.
+4. Skjønnsmedlemmenes habilitet.
+5. Skjønnets gjenstand og grunnlaget for kravet og eventuelt størrelsen av dette.
+6. Skjønnsnemndas avgjørelse. Samtlige medlemmer av skjønnsnemnda underskriver protokollen.
 
 ### § 25
 
@@ -234,7 +264,13 @@ Skjønnsnemndas avgjørelse kan av partene påklages til Forsvarsdepartementet. 
 
 ### § 30
 
-Lov om militære rekvisisjoner, gis anvendelse også i fred, i den utstrekning det er nødvendig til fremme av beredskapstiltak, herunder større øvelser. Rekvisisjoner må bare foretas etter innhentet samtykke fra Forsvarsdepartementet i hvert enkelt tilfelle. I øvingssammenheng vil det kun unntaksvis være aktuelt å gi adgang til å rekvirere annet enn grunneiendom. I forbindelse med behandlingen av rekvisisjonsbegjæringen vil departementet også ta stilling til hvilke skjønnsnemnder som skal nyttes for behandlingen av eventuelle erstatningskrav. Berettiget til å foreta rekvisisjoner iht. dette er:Forsvarssjefen,Øverstkommanderende i landsdelen,Sjef for distriktskommando,Sjef for sjøforsvarsdistrikt,Sjef for hovedflystasjon.
+Lov om militære rekvisisjoner, gis anvendelse også i fred, i den utstrekning det er nødvendig til fremme av beredskapstiltak, herunder større øvelser. Rekvisisjoner må bare foretas etter innhentet samtykke fra Forsvarsdepartementet i hvert enkelt tilfelle. I øvingssammenheng vil det kun unntaksvis være aktuelt å gi adgang til å rekvirere annet enn grunneiendom. I forbindelse med behandlingen av rekvisisjonsbegjæringen vil departementet også ta stilling til hvilke skjønnsnemnder som skal nyttes for behandlingen av eventuelle erstatningskrav. Berettiget til å foreta rekvisisjoner iht. dette er:
+
+- Forsvarssjefen,
+- Øverstkommanderende i landsdelen,
+- Sjef for distriktskommando,
+- Sjef for sjøforsvarsdistrikt,
+- Sjef for hovedflystasjon.
 
 ### § 31
 
@@ -274,17 +310,34 @@ Ved forberedt rekvisisjon kan det allerede i fred pekes ut gjenstander, varer, b
 
 ### § 37
 
-Forberedte rekvisisjoner skal nyttes ved rekvirering av sivile motorkjøretøyer til Forsvaret og Sivilforsvaret. Slik rekvirering er Hærens ansvar. Prinsippene og de enkelte skritt i forberedelsene er som følger:Hærens forsyningskommando (HFK) er tillagt det overordnede ansvar for forberedelsene. Teknisk håndbok (TH 100-12), Håndbok for forberedt rekvirering av sivile kjøretøyer, gir nærmere opplysning om hvordan forberedelsene skal utføres.De enkelte distriktskommandoer (DK) er ansvarlige for ledelse og koordinering av kjøretøyutskrivingen til de avdelinger som Forsvaret og Sivilforsvaret setter opp innen sitt distrikt. DK er dessuten ansvarlig for å holde et årlig utskrivningsmøte, og koordinere behovene med de sivile beredskapsorganer. For at de sivile transportberedskapsorganer skal kunne utføre transportoppdrag ved beredskap eller mobilisering, må en del kjøretøyer fritas for forhåndsrekvisisjon. Transportfylkesledelsen (TFL), melder ønsker om fritak til DK.Distriktskommandoen er rekvirent av kjøretøyer til de avdelinger som skal settes opp ved beredskap eller mobilisering. DK er ansvarlig for å planlegge mottak av sivile kjøretøyer på møteplasser som er meddelt kjøretøyeierne. Når kjøretøy leveres ved beredskap/mobilisering skal kjøretøyeier eller hans stedfortreder gis kvittering.
+Forberedte rekvisisjoner skal nyttes ved rekvirering av sivile motorkjøretøyer til Forsvaret og Sivilforsvaret. Slik rekvirering er Hærens ansvar. Prinsippene og de enkelte skritt i forberedelsene er som følger:
+
+1. Hærens forsyningskommando (HFK) er tillagt det overordnede ansvar for forberedelsene. Teknisk håndbok (TH 100-12), Håndbok for forberedt rekvirering av sivile kjøretøyer, gir nærmere opplysning om hvordan forberedelsene skal utføres.
+2. De enkelte distriktskommandoer (DK) er ansvarlige for ledelse og koordinering av kjøretøyutskrivingen til de avdelinger som Forsvaret og Sivilforsvaret setter opp innen sitt distrikt. DK er dessuten ansvarlig for å holde et årlig utskrivningsmøte, og koordinere behovene med de sivile beredskapsorganer. For at de sivile transportberedskapsorganer skal kunne utføre transportoppdrag ved beredskap eller mobilisering, må en del kjøretøyer fritas for forhåndsrekvisisjon. Transportfylkesledelsen (TFL), melder ønsker om fritak til DK.
+3. Distriktskommandoen er rekvirent av kjøretøyer til de avdelinger som skal settes opp ved beredskap eller mobilisering. DK er ansvarlig for å planlegge mottak av sivile kjøretøyer på møteplasser som er meddelt kjøretøyeierne. Når kjøretøy leveres ved beredskap/mobilisering skal kjøretøyeier eller hans stedfortreder gis kvittering.
 
 ### § 38
 
-Behov for sjøtransport skal så langt mulig dekkes ved rekvisisjon av transportytelser. Forberedelse av rekvisisjon av fartøyer til Forsvaret ved beredskap og mobilisering er Sjøforsvarets ansvar. Rekvisisjoner som er nødvendig i henhold til Sjøforsvarets krigsoppsetningsplan skal forberedes i fred. Prinsippene er som følger:For navngitte fartøyer skal sjøforsvarsdistriktene (i samråd med fylkets samferdselssjef) hvert år sende underretning til eiere eller de som disponerer fartøyene, om at fartøyene vil bli rekvirert til bruk i Forsvaret ved beredskap/mobilisering. Det skal samtidig angis om fartøyene ønskes levert med besetning/del av besetning, eller med nærmere angitt ikke fast utrustning, samt hvor og når fartøyene skal møte. Fartøyene kan besiktiges av Forsvaret etter behov.Når Forsvaret har behov for en maritim kapasitet, uten at spesielt fartøy angis, rettes behovet til ansvarlig fagdepartement.Eieren eller den som disponerer et fartøy som er rekvirert/har fått forhåndskunngjøring om rekvirering, plikter ved beredskap/mobilisering å seile fartøyet på hurtigst forsvarlige måte til oppgitt fremmøtested. Sjøforsvarets representant fremlegger rekvisisjonsdokumentet, og skal la utføre en overtakelsesforretning. Representanten kvitterer for mottakelsen av fartøyet på rekvisisjonsdokumentet.Til forhåndskunngjøring om rekvisisjon kan nyttes et eget skjema/mobblankett. Ved overtakelse av fartøyet nyttes Mobblankett 20. Om oppsetting av rekvisisjonsdokumenter og bruk av skjønnsnemnder vises til [kapittel VI](forskrift/1999-09-17-1012/kapvi) og XII.Nærmere bestemmelser i samband med rekvisisjon av fartøyer mv. kan utgis av Forsvarssjefen.
+Behov for sjøtransport skal så langt mulig dekkes ved rekvisisjon av transportytelser. Forberedelse av rekvisisjon av fartøyer til Forsvaret ved beredskap og mobilisering er Sjøforsvarets ansvar. Rekvisisjoner som er nødvendig i henhold til Sjøforsvarets krigsoppsetningsplan skal forberedes i fred. Prinsippene er som følger:
+
+1. For navngitte fartøyer skal sjøforsvarsdistriktene (i samråd med fylkets samferdselssjef) hvert år sende underretning til eiere eller de som disponerer fartøyene, om at fartøyene vil bli rekvirert til bruk i Forsvaret ved beredskap/mobilisering. Det skal samtidig angis om fartøyene ønskes levert med besetning/del av besetning, eller med nærmere angitt ikke fast utrustning, samt hvor og når fartøyene skal møte. Fartøyene kan besiktiges av Forsvaret etter behov.
+2. Når Forsvaret har behov for en maritim kapasitet, uten at spesielt fartøy angis, rettes behovet til ansvarlig fagdepartement.
+3. Eieren eller den som disponerer et fartøy som er rekvirert/har fått forhåndskunngjøring om rekvirering, plikter ved beredskap/mobilisering å seile fartøyet på hurtigst forsvarlige måte til oppgitt fremmøtested. Sjøforsvarets representant fremlegger rekvisisjonsdokumentet, og skal la utføre en overtakelsesforretning. Representanten kvitterer for mottakelsen av fartøyet på rekvisisjonsdokumentet.
+4. Til forhåndskunngjøring om rekvisisjon kan nyttes et eget skjema/mobblankett. Ved overtakelse av fartøyet nyttes Mobblankett 20. Om oppsetting av rekvisisjonsdokumenter og bruk av skjønnsnemnder vises til [kapittel VI](forskrift/1999-09-17-1012/kapvi) og XII.
+5. Nærmere bestemmelser i samband med rekvisisjon av fartøyer mv. kan utgis av Forsvarssjefen.
 
 ### § 39
 
 Forberedelse av rekvisisjon av sivile luftfartøyer mv. til bruk av Forsvaret ved beredskap, krig eller andre ekstraordinære forhold er Luftforsvarets ansvar.
 
-Prinsippene og gangen av forberedelsene i fred er som følger:Planleggingsansvar for de småfly/helikopteravdelinger som i henhold til Luftforsvarets krigsdisponeringsplan skal settes opp ved mobilisering er pålagt Forsvarets overkommando/Luftforsvarsstaben. I planleggingsansvaret inngår klarering mot sentrale sivile myndigheter med ansvar innen petroleumssektoren.Oppgave over hvilke småfly/helikoptre som skal rekvireres sendes fra Forsvarets overkommando/Luftforsvarsstaben til forsvarskommandoene og til den enhet som har oppsetningsansvar for vedkommende småfly/helikopteravdeling.Hovedflystasjon utsteder rekvisisjonene og gir vedkommende eier/flyselskap underretning om de småfly/helikoptre som er forberedt rekvirert, samt melding om sted for avlevering. Av rekvisisjonen skal det fremgå om luftfartøyene skal leveres med fast eller nærmere angitt utstyr, bakkeutstyr og/eller personell.Ved eierskifte skal hovedflystasjonen straks sende varsel om forberedt rekvisisjon til den nye eier, samtidig som den tidligere utstedte forberedte rekvisisjon annulleres.Hvis et fly blir erklært «ikke luftdyktig» trekkes varsel om forberedt rekvisisjon tilbake og anmodning om ny tildeling sendes Forsvarets overkommando/Luftforsvarsstaben.Ved iverksettelse av forberedte rekvisisjoner av luftfartøyer skal vedkommende hovedflystasjon fremlegge rekvisisjonsdokumentene og gjennomføre overtakelsesforretning.
+Prinsippene og gangen av forberedelsene i fred er som følger:
+
+1. Planleggingsansvar for de småfly/helikopteravdelinger som i henhold til Luftforsvarets krigsdisponeringsplan skal settes opp ved mobilisering er pålagt Forsvarets overkommando/Luftforsvarsstaben. I planleggingsansvaret inngår klarering mot sentrale sivile myndigheter med ansvar innen petroleumssektoren.
+2. Oppgave over hvilke småfly/helikoptre som skal rekvireres sendes fra Forsvarets overkommando/Luftforsvarsstaben til forsvarskommandoene og til den enhet som har oppsetningsansvar for vedkommende småfly/helikopteravdeling.
+3. Hovedflystasjon utsteder rekvisisjonene og gir vedkommende eier/flyselskap underretning om de småfly/helikoptre som er forberedt rekvirert, samt melding om sted for avlevering. Av rekvisisjonen skal det fremgå om luftfartøyene skal leveres med fast eller nærmere angitt utstyr, bakkeutstyr og/eller personell.
+4. Ved eierskifte skal hovedflystasjonen straks sende varsel om forberedt rekvisisjon til den nye eier, samtidig som den tidligere utstedte forberedte rekvisisjon annulleres.
+5. Hvis et fly blir erklært «ikke luftdyktig» trekkes varsel om forberedt rekvisisjon tilbake og anmodning om ny tildeling sendes Forsvarets overkommando/Luftforsvarsstaben.
+6. Ved iverksettelse av forberedte rekvisisjoner av luftfartøyer skal vedkommende hovedflystasjon fremlegge rekvisisjonsdokumentene og gjennomføre overtakelsesforretning.
 
 ### § 40
 
@@ -324,7 +377,10 @@ Forsvarsdepartementet og de myndigheter som er ansvarlige for mobiliseringsforbe
 
 Når nødvendige varer ikke kan skaffes til veie på annen måte, kan forberedelse for produksjon i krig settes i verk allerede i fred. Slik forberedelse skal i utgangspunktet gjennomføres i henhold til de regler og prosedyrer som er nedfelt i de aktuelle fagdepartementers forskrifter og reglementer, jf. for så vidt [§ 44](forskrift/1999-09-17-1012/§44) i denne forskriften.
 
-Dersom tiden eller andre forhold gjør at prosedyre etter første ledd ikke er mulig, kan Forsvarsdepartementet be aktuelt fagdepartement om at det allerede i fred skal gis pålegg til virksomheter og bedrifter mv. om å:sette i gang forsøksproduksjon av gjenstander og varer som er nødvendig for Forsvaret,forberede produksjon i krig av gjenstander og varer som Forsvaret trenger, herunder anskaffe, oppbevare og vedlikeholde utstyr og råvarer som er nødvendige for slik produksjon.
+Dersom tiden eller andre forhold gjør at prosedyre etter første ledd ikke er mulig, kan Forsvarsdepartementet be aktuelt fagdepartement om at det allerede i fred skal gis pålegg til virksomheter og bedrifter mv. om å:
+
+- sette i gang forsøksproduksjon av gjenstander og varer som er nødvendig for Forsvaret,
+- forberede produksjon i krig av gjenstander og varer som Forsvaret trenger, herunder anskaffe, oppbevare og vedlikeholde utstyr og råvarer som er nødvendige for slik produksjon.
 
 ### § 48
 
@@ -350,7 +406,68 @@ Det som er rekvirert skal tilbakeleveres eller frigis til eier når Forsvaret ik
 
 ### § 52
 
-Berettiget til å utstede rekvisisjoner, jf. § 4 i forskriften, er:Landsomfattende myndighet:ForsvarssjefenGeneralinspektøren for HærenGeneralinspektøren for SjøforsvaretGeneralinspektøren for LuftforsvaretGeneralinspektøren for HeimevernetSjefen for Forsvarets overkommando/OperasjonsstabenSjefen for Forsvarets overkommando/SanitetsstabenSjefen for Hærens forsyningskommandoSjefen for Sjøforsvarets forsyningskommandoSjefen for Luftforsvarets forsyningskommandoSjefen for Forsvarets tele- og datatjenesteSjefen for Forsvarets bygningstjeneste.Landsdelsomfattende myndighet:øverstkommanderende i Sør-Norgeøverstkommanderende i Nord-Norge.Regional myndighet:Sjef for distriktskommandoSjef for sjøforsvarsdistriktSjef for hovedflystasjonSjef for forsyningsinstallasjon med regionalt forsyningsansvar.Lokal myndighet (fylkesnivå):Sjef for territorielt regimentSjef for divisjon/brigadeSjef for forsvarsavsnittSjef for heimevernsdistriktSjef for selvstendig opererende bataljon eller kompani (tilsv) i Hæren og LuftforsvaretSjef for orlogsstasjonSjef for fartøysskvadron, uavhengig fartøysdivisjon og KNM-fartøyGruppefortsjef i KystartillerietSjef for flystasjon eller LKK-stasjonSjef for selvstendig opererende skvadron eller ving.
+Berettiget til å utstede rekvisisjoner, jf. § 4 i forskriften, er:
+
+1. Landsomfattende myndighet:
+
+   Forsvarssjefen
+
+   Generalinspektøren for Hæren
+
+   Generalinspektøren for Sjøforsvaret
+
+   Generalinspektøren for Luftforsvaret
+
+   Generalinspektøren for Heimevernet
+
+   Sjefen for Forsvarets overkommando/Operasjonsstaben
+
+   Sjefen for Forsvarets overkommando/Sanitetsstaben
+
+   Sjefen for Hærens forsyningskommando
+
+   Sjefen for Sjøforsvarets forsyningskommando
+
+   Sjefen for Luftforsvarets forsyningskommando
+
+   Sjefen for Forsvarets tele- og datatjeneste
+
+   Sjefen for Forsvarets bygningstjeneste.
+2. Landsdelsomfattende myndighet:
+
+   øverstkommanderende i Sør-Norge
+
+   øverstkommanderende i Nord-Norge.
+3. Regional myndighet:
+
+   Sjef for distriktskommando
+
+   Sjef for sjøforsvarsdistrikt
+
+   Sjef for hovedflystasjon
+
+   Sjef for forsyningsinstallasjon med regionalt forsyningsansvar.
+4. Lokal myndighet (fylkesnivå):
+
+   Sjef for territorielt regiment
+
+   Sjef for divisjon/brigade
+
+   Sjef for forsvarsavsnitt
+
+   Sjef for heimevernsdistrikt
+
+   Sjef for selvstendig opererende bataljon eller kompani (tilsv) i Hæren og Luftforsvaret
+
+   Sjef for orlogsstasjon
+
+   Sjef for fartøysskvadron, uavhengig fartøysdivisjon og KNM-fartøy
+
+   Gruppefortsjef i Kystartilleriet
+
+   Sjef for flystasjon eller LKK-stasjon
+
+   Sjef for selvstendig opererende skvadron eller ving.
 
 ## Kapittel XVIII. Særlige bestemmelser
 

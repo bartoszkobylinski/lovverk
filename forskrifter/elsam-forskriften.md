@@ -15,7 +15,7 @@ xml_hash: "f54663d7ee925b9d9402445df17f84b351ae3f6f63b56d709a606fe7b323614b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,13 +28,23 @@ Forskriften skal legge til rette for sikker og effektiv bruk av elektronisk komm
 
 ## § 2. Virkeområde
 
-Forskriften gjelder elektronisk kommunikasjon i nettportalen og ved systemintegrasjonmellom domstolene og aktører i sivile saker, saker som er reist for jordskifteretten og straffesakerved krav om salær fra det offentlige fremsatt overfor domstolene.
+Forskriften gjelder elektronisk kommunikasjon i nettportalen og ved systemintegrasjon
+
+1. mellom domstolene og aktører i sivile saker, saker som er reist for jordskifteretten og straffesaker
+2. ved krav om salær fra det offentlige fremsatt overfor domstolene.
 
 > Endret ved [forskrift 14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019).
 
 ## § 3. Hvem som kan kommunisere elektronisk i nettportalen
 
-For å kunne sende inn og motta dokumenter elektronisk, skal bruker være registrert i nettportalen, jf. [§ 5](forskrift/2016-10-28-1258/§5), såfremt den tekniske løsningen åpner for det. Som bruker kan følgende registrere seg:advokater og autoriserte advokatfullmektigersalærberettigete som skal framsette krav om salær etter [forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441) om salær fra det offentlige til advokater m.v.rettsoppnevnte sakkyndige, tolker eller andre profesjonelle aktørermeddommere, jordskiftemeddommere og skjønnsmedlemmerselvprosederende parterprivatpersoner.
+For å kunne sende inn og motta dokumenter elektronisk, skal bruker være registrert i nettportalen, jf. [§ 5](forskrift/2016-10-28-1258/§5), såfremt den tekniske løsningen åpner for det. Som bruker kan følgende registrere seg:
+
+1. advokater og autoriserte advokatfullmektiger
+2. salærberettigete som skal framsette krav om salær etter [forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441) om salær fra det offentlige til advokater m.v.
+3. rettsoppnevnte sakkyndige, tolker eller andre profesjonelle aktører
+4. meddommere, jordskiftemeddommere og skjønnsmedlemmer
+5. selvprosederende parter
+6. privatpersoner.
 
 Registrering som bruker skjer ved utfylling av et elektronisk skjema utformet av Domstoladministrasjonen. Ved utfylling av skjemaet aksepterer bruker vilkårene for tilgang til og bruk av nettportalen, herunder at skriftlig kommunikasjon med retten så langt mulig skal skje elektronisk. Plikten til elektronisk kommunikasjon gjelder så lenge vedkommende er registrert som bruker av nettportalen.
 
@@ -102,7 +112,10 @@ Kommunikasjon gjennom en løsning for systemintegrasjon oppfyller krav om obliga
 
 ## § 6. Elektronisk innlevering av dokumenter til retten
 
-Såfremt den tekniske løsningen åpner for det, kan bruker sende inn elektronisk i portalenethvert dokument som skal sendes retten i sivil sak, sak som er reist for jordskifteretten eller straffesakarbeidsoppgave etter [forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441) om salær fra det offentlige til advokater m.v. [§ 5](forskrift/1997-12-03-1441/§5) og andre dokumenter som skal sendes retten i tilknytning til salærkravet, herunder senere merknader, redegjørelse og vedlegg til disse.
+Såfremt den tekniske løsningen åpner for det, kan bruker sende inn elektronisk i portalen
+
+1. ethvert dokument som skal sendes retten i sivil sak, sak som er reist for jordskifteretten eller straffesak
+2. arbeidsoppgave etter [forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441) om salær fra det offentlige til advokater m.v. [§ 5](forskrift/1997-12-03-1441/§5) og andre dokumenter som skal sendes retten i tilknytning til salærkravet, herunder senere merknader, redegjørelse og vedlegg til disse.
 
 Retten kan i den enkelte sak pålegge bruker å ettersende papirkopi av dokumenter som er innsendt elektronisk.
 

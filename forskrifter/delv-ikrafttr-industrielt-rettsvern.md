@@ -15,7 +15,7 @@ xml_hash: "0896e8aef0a4a44de38ab7e78abf143ad537749209d57d088516610708c0fe59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,8 +24,16 @@ eu_basis: []
 
 1\. *Delvis ikrafttredelse av [lov 22. desember 1995 nr. 82](lov/1995-12-22-82) om endringer i lovgivningen om industrielt rettsvern*
 
-Følgende deler av [lov 22. desember 1995 nr. 82](lov/1995-12-22-82) om endringer i lovgivningen om industrielt rettsvern trer i kraft fra 1. april 1996:avsnitt II (endringer i varemerkeloven) unntatt endringene i [lov 3. mars 1961 nr. 4](lov/1961-03-03-4) om varemerker [§§ 18](lov/1961-03-03-4/§18) og [30](lov/1961-03-03-4/§30),avsnitt III (endringer i fellesmerkeloven),avsnitt VI (endringer i firmaloven) ogavsnitt VII (endringer i planteforedlerrettsloven).
+Følgende deler av [lov 22. desember 1995 nr. 82](lov/1995-12-22-82) om endringer i lovgivningen om industrielt rettsvern trer i kraft fra 1. april 1996:
+
+1. avsnitt II (endringer i varemerkeloven) unntatt endringene i [lov 3. mars 1961 nr. 4](lov/1961-03-03-4) om varemerker [§§ 18](lov/1961-03-03-4/§18) og [30](lov/1961-03-03-4/§30),
+2. avsnitt III (endringer i fellesmerkeloven),
+3. avsnitt VI (endringer i firmaloven) og
+4. avsnitt VII (endringer i planteforedlerrettsloven).
 
 2\. *Overgangsregler*
 
-For endringene i [lov 3. mars 1961 nr. 4](lov/1961-03-03-4) om varemerker og [lov 3. mars 1961 nr. 5](lov/1961-03-03-5) om fellesmerker gjelder foruten overgangsreglene i [lov 22. desember 1995 nr. 82](lov/1995-12-22-82) om endringer i lovgivningen om industrielt rettsvern avsnitt IX nr. 2 og nr. 3 følgende overgangsregler:Søknader om registrering av varemerker og fellesmerker som før 1. april 1996 er besluttet utlagt til alminnelig ettersyn, skal ferdigbehandles etter de saksbehandlingsregler som gjaldt frem til 1. april 1996.For søknader som er inngitt før 1. april 1996, kommer [lov 3. mars 1961 nr. 4](lov/1961-03-03-4) om varemerker ny [§ 17a](lov/1961-03-03-4/§17a) ved [lov 22. desember 1995 nr. 82](lov/1995-12-22-82), jf. [lov 3. mars 1961 nr. 5](lov/1961-03-03-5) om fellesmerker [§ 2](lov/1961-03-03-5/§2), først til anvendelse fra 1. oktober 1996.
+For endringene i [lov 3. mars 1961 nr. 4](lov/1961-03-03-4) om varemerker og [lov 3. mars 1961 nr. 5](lov/1961-03-03-5) om fellesmerker gjelder foruten overgangsreglene i [lov 22. desember 1995 nr. 82](lov/1995-12-22-82) om endringer i lovgivningen om industrielt rettsvern avsnitt IX nr. 2 og nr. 3 følgende overgangsregler:
+
+1. Søknader om registrering av varemerker og fellesmerker som før 1. april 1996 er besluttet utlagt til alminnelig ettersyn, skal ferdigbehandles etter de saksbehandlingsregler som gjaldt frem til 1. april 1996.
+2. For søknader som er inngitt før 1. april 1996, kommer [lov 3. mars 1961 nr. 4](lov/1961-03-03-4) om varemerker ny [§ 17a](lov/1961-03-03-4/§17a) ved [lov 22. desember 1995 nr. 82](lov/1995-12-22-82), jf. [lov 3. mars 1961 nr. 5](lov/1961-03-03-5) om fellesmerker [§ 2](lov/1961-03-03-5/§2), først til anvendelse fra 1. oktober 1996.

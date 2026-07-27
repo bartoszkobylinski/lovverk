@@ -15,7 +15,7 @@ xml_hash: "9f9f407454cc04f1890b01f4d46b3a763db0222826e604974ae0ecd2fa5387d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,12 @@ Person som har bosted her i landet og som har fylt 25 år kan steriliseres når 
 
 ### § 3. (spesielle vilkår for sterilisering etter særskilt tillatelse).
 
-Person som har bosted her i landet, men som for øvrig ikke fyller vilkårene i [§ 2](lov/1977-06-03-57/§2), kan etter søknad gis tillatelse til sterilisering, jfr. §§ 4-6, nårsvangerskap og fødsel for kvinne som søker kan føre til betydelig fare for hennes liv eller for hennes fysiske eller psykiske helse,omsorg for barn kan sette søkeren i en særlig vanskelig livssituasjon,det på grunn av arveanlegg hos søkeren er betydelig fare for at barn i tilfelle kan få alvorlig sykdom eller lyte,søkeren på grunn av sinnslidelse eller psykisk utviklingshemming – eller svekkelse i tilfelle ikke vil kunne dra tilfredsstillende omsorg for barn.
+Person som har bosted her i landet, men som for øvrig ikke fyller vilkårene i [§ 2](lov/1977-06-03-57/§2), kan etter søknad gis tillatelse til sterilisering, jfr. §§ 4-6, når
+
+1. svangerskap og fødsel for kvinne som søker kan føre til betydelig fare for hennes liv eller for hennes fysiske eller psykiske helse,
+2. omsorg for barn kan sette søkeren i en særlig vanskelig livssituasjon,
+3. det på grunn av arveanlegg hos søkeren er betydelig fare for at barn i tilfelle kan få alvorlig sykdom eller lyte,
+4. søkeren på grunn av sinnslidelse eller psykisk utviklingshemming – eller svekkelse i tilfelle ikke vil kunne dra tilfredsstillende omsorg for barn.
 
 Sterilisering av person under 18 år må ikke tillates med mindre det foreligger særlig tungtveiende grunner for det.
 

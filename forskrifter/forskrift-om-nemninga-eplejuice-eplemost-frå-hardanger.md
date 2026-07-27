@@ -38,9 +38,21 @@ Synnøve Finden AS.
 
 ## § 3. Vilkår for bruk av produktnemninga
 
-1. *Produktbeskriving*Eplejuice frå Hardanger / Eplemost frå Hardanger er laga av eple dyrka og pressa i Hardanger. Samansetjinga kan variere frå ein sort til fleire sortar. Nemninga omfattar både eplejuice som er filtrert og som ikkje er filtrert.Eplejuice frå Hardanger/Eplemost frå Hardanger skal ha ein lett syrleg og aromatisk eplesmak. Eplejuice frå Hardanger/Eplemost frå Hardanger skal ha ein Brix-verdi på minimum 10.
-2. *Geografisk område*Eplejuice frå Hardanger/Eplemost frå Hardanger skal vere laga av eple som er dyrka og pressa i Hardanger. Hardanger omfattar kommunane Kvam, Ulvik, Eidfjord og Ullensvang og dessutan dei sørlege delane av Voss, tidlegare Granvin kommune.
-3. *Produksjonsmetode*Som råvare til Eplejuice frå Hardanger/Eplemost frå Hardanger skal det brukast godt mogna eple. Epla skal ha ein Brix-verdi ≥ 10, ein diameter ≥ 50 mm og skal vere frie for synleg mugg, gjær og rote. Oppbevaringstida i mottaksbingen før pressing skal maksimum vere på 20 timar. Epla skal lagrast i eigne bingar.Epla skal spylast eller vaskast slik at eventuelle ureinskapar blir fjerna, og dårlege eple skal sorterast ut. Epla skal deretter kvernast til mask. Tillatne hjelpestoff kan tilsetjast før masken blir overført til mesketank. Når det øvste laget sprekk, skal masken pressast slik at eplejuice/eplemost og mask blir separert. Filtrert eplejuice/eplemost kan tilsetjast hjelpestoff for depektinering og klaring.Eplejuice frå Hardanger/Eplemost frå Hardanger skal pasteuriserast før tapping og lagring. Pasteurisering og tapping skal skje same dag. Skjer tapping på ein annan stad enn der epla blei pressa, skal eplejuicen/eplemosten pasteuriserast på nytt før tapping.
+1. *Produktbeskriving*
+
+   Eplejuice frå Hardanger / Eplemost frå Hardanger er laga av eple dyrka og pressa i Hardanger. Samansetjinga kan variere frå ein sort til fleire sortar. Nemninga omfattar både eplejuice som er filtrert og som ikkje er filtrert.
+
+   Eplejuice frå Hardanger/Eplemost frå Hardanger skal ha ein lett syrleg og aromatisk eplesmak. Eplejuice frå Hardanger/Eplemost frå Hardanger skal ha ein Brix-verdi på minimum 10.
+2. *Geografisk område*
+
+   Eplejuice frå Hardanger/Eplemost frå Hardanger skal vere laga av eple som er dyrka og pressa i Hardanger. Hardanger omfattar kommunane Kvam, Ulvik, Eidfjord og Ullensvang og dessutan dei sørlege delane av Voss, tidlegare Granvin kommune.
+3. *Produksjonsmetode*
+
+   Som råvare til Eplejuice frå Hardanger/Eplemost frå Hardanger skal det brukast godt mogna eple. Epla skal ha ein Brix-verdi ≥ 10, ein diameter ≥ 50 mm og skal vere frie for synleg mugg, gjær og rote. Oppbevaringstida i mottaksbingen før pressing skal maksimum vere på 20 timar. Epla skal lagrast i eigne bingar.
+
+   Epla skal spylast eller vaskast slik at eventuelle ureinskapar blir fjerna, og dårlege eple skal sorterast ut. Epla skal deretter kvernast til mask. Tillatne hjelpestoff kan tilsetjast før masken blir overført til mesketank. Når det øvste laget sprekk, skal masken pressast slik at eplejuice/eplemost og mask blir separert. Filtrert eplejuice/eplemost kan tilsetjast hjelpestoff for depektinering og klaring.
+
+   Eplejuice frå Hardanger/Eplemost frå Hardanger skal pasteuriserast før tapping og lagring. Pasteurisering og tapping skal skje same dag. Skjer tapping på ein annan stad enn der epla blei pressa, skal eplejuicen/eplemosten pasteuriserast på nytt før tapping.
 
 > Endra ved forskrifter [21 nov 2017 nr. 1804](forskrift/2017-11-21-1804), [8 aug 2024 nr. 1910](forskrift/2024-08-08-1910).
 
